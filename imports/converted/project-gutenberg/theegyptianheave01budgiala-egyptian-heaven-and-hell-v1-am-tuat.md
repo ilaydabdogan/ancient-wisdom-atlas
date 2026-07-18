@@ -381,7 +381,6 @@ KEGAN  PAUL,  TRENCH,  TRUBNER  &  CO.  Ltd.
 
 Dryden  House,  43,  Gerrard  Street,  W.
 
-1905
 [^//  rights  reserved']
 
 
@@ -423,8 +422,7 @@ The  Book  Am-Tuat  : —
 The  Title  of  the  Work         ....       1
 
 I.     The  First  Division,  or  Western  Vestibule,  or
-THE   Tuat,    called   Net-Ea.     With   8   Illus-
-trations      ........       3
+THE   Tuat,    called   Net-Ea.     With   8   Illustrations      ........       3
 
 II.     The     Second    Division    of    the    Tuat,    called
 
@@ -442,8 +440,7 @@ V.     The  Fifth  Division  of  the  Tuat,  called  Ament.
 With  8  Illustrations 85
 
 VI.  The  Sixth  Division  of  the  Tuat,  called
-Metchet-mu-nebt-Tuat.  With  19  Illustra-
-tions   116
+Metchet-mu-nebt-Tuat.  With  19  Illustrations   116
 
 VII.     The    Seventh    Division    of    the   Tuat,   called
 
@@ -464,12 +461,10 @@ X.     The  Tenth  Division  of  the  That,  called  Metet-
 
 QA-UTCHEBU.     With  22  Illustrations          .         .  207
 XI.     The  Eleventh   Division   of  the  Tuat,   called
-Ee-en-qerert-apt-khatu.     With  26  Illustra-
-tions   232
+Ee-en-qerert-apt-khatu.     With  26  Illustrations   232
 
 XII.  The  Twelfth  Division,  or  Eastern  Vestibule,
-of  the  Tuat,  called  Kheper-kekiu-khau-
-mestu.     With  13  Illustrations  ....  256
+of  the  Tuat,  called  Kheper-kekiu-khaumestu.     With  13  Illustrations  ....  256
 
 
 EEEATA
@@ -483,8 +478,7 @@ read  "Hou";  i&id,  1.  19,  for  "confieh"  read  "coufieh";  p.  70,
 
 %s.  ^X^^^^:  p.  139,  1.  3,  for  "Thephet-Asar"  read  "Thephet-
 
-shetat";  p.  256,  1.  3,  for  "Then-neteru"  read  "  Kheper-kekiu-
-khau-mestu."
+shetat";  p.  256,  1.  3,  for  "Then-neteru"  read  "  Kheper-kekiukhau-mestu."
 
 
 THE    BOOK   AM-TUAT
@@ -558,9 +552,6 @@ rzszi
 
 
 A/V^AA^      p^     .llllllllll.
-
-
-1
 
 
 t^^^-n.LL^i^^t-^fi;
@@ -725,8 +716,6 @@ c         ^    AA/WV\
 
 ywwNA
 
-AAAAAA
-
 
 BOOK    OF    AM-TUAT
 
@@ -808,8 +797,7 @@ BOOK    OF    AM-TUAT
 
 
 of  the  South,  Net,  or  Neith,  goddess  of  the  North,  and
-the  goat  goddess  Artet,  <=>  ^rf .  The  two  hawk-
-headed  gods  are  called  Tchatui,  |  <=i  ^  \\ ,  and
+the  goat  goddess  Artet,  <=>  ^rf .  The  two  hawkheaded  gods  are  called  Tchatui,  |  <=i  ^  \\ ,  and
 Meti,   I    on  ,   and   the    four  following  gods  Abenti,
 
 Sekhet  (?),  — *-
@@ -885,9 +873,6 @@ VA
 I   s
 
 
-I  I  I
-
-
 ^'k'^l'T"-      2-   Nebt-meket,  Y^
 
 3.   Sekhit,     ^    (1(1^.      4.  Ament-uet,   fl^^^^,
@@ -929,9 +914,6 @@ KHEFTIU
 
 
 -4'
-
-
-I        I        I
 
 
 ^31
@@ -1015,10 +997,6 @@ HEA,  Y
 Sekhem-hea,  y  ^   ;
 
 
-1
-
-
-1
 IV.  Twelve  divine  beings,  in   the  form  of  women,
 
 who  are  described  as  "  the  goddesses  who  gnide  the
@@ -1209,9 +1187,6 @@ I]  AAAAAA  ,
 THE    PRAISERS    OF    RA
 
 
-15
-
-
 to   Ila  as  he   passeth   over  Uknes,"  H
 
 
@@ -1327,9 +1302,6 @@ J\
 I       1       1    /WWv\     I
 
 
-I       I       I
-
-
 I
 
 
@@ -1361,9 +1333,6 @@ VMgypte,  torn,  v.,  pi.  41,  uo.  5.
 ADDRESS   OF    RA    TO   THE    GODS
 
 
-17
-
-
 AAA/vNA  ^ ~,    AA^AAA
 
 
@@ -1376,7 +1345,6 @@ AAA/vNA  ^ ~,    AA^AAA
 
 
 AA/WV\
-I       I       I
 
 
 1       /WWVA      ^^  ri      I 1     /WWSA      ^^\  Q
@@ -1398,9 +1366,6 @@ o
 AV\AA^     H
 
 — « AA/V^A
-
-
-1
 
 
 A/^A^v^A
@@ -1497,9 +1462,6 @@ U    /^^WA
 mi
 
 
-1
-
-
 I  1 1
 
 
@@ -1552,8 +1514,6 @@ I  I!  I  ^  Jr
 
 
 /wvw\
-
-I  I  I
 
 
 A
@@ -1640,8 +1600,7 @@ strong,  saying,  "  Shut  [your  doors]  by  your  bolts.
 This  great  god  passeth  them  by,  and  they  (i.e.,  the
 gods)  wail  when  he  hath  gone  by  them  in  the  Field  of
 Uenes.  [The  goddess  of]  the  hour  who  guideth  [this
-great  god]  through  this  Court  is  "  Ushe.m-hat-kheftiu-
-nu-Ea."
+great  god]  through  this  Court  is  "  Ushe.m-hat-kheftiunu-Ea."
 
 
 (       21       )
@@ -1666,15 +1625,12 @@ during  the  Second  Hour  of  the  niuht,  the  Boat  of  the
 Rani-lieaded  god  Af  is  seen  making  its  way  along  the
 
 
-22  THE    BOOK   OF   AM-TUAT
-
 stream  which  Hows,  as  before,  through  the  division
 lengthwise;  the  crew  consists  of  the  same  gods,  and
 they  occupy  the  same  positions  in  the  boat  as  they  did
 in  the  First  [Division.  It  is,  however,  important  to
 notice  that  immediately  in  front  of  Ap-uat  we  see  two
-serpents,  which  are  called  Isis  and  IsTephthys  respec-
-tively,  J]  rj,  occupying   the   front   of   the   boat.     No
+serpents,  which  are  called  Isis  and  IsTephthys  respectively,  J]  rj,  occupying   the   front   of   the   boat.     No
 
 carpet  or  mat  hangs  over  the  bows  of  the  boat,  and  the
 utchat  is  not  represented  on  its  side ;  the  boat  moves
@@ -1702,9 +1658,6 @@ of  the  moon's  disk.     In  the  mutilated  text  above  the
 
 
 THE    SECOND    DIVISION — tJRNES
-
-
-23
 
 
 boat  it  is  saitl  that  "  this  great  god  approacheth   this
@@ -1789,9 +1742,6 @@ as  "  This  great  god  Neper,"    j   -tJ    D
 THE    SECOND    DIVISION — tJRNES
 
 
-25
-
-
 Above   the   goddess   to    the   left   of    the   sistnun   are
 written  the  words,  "  their  boats  send  forth  their  words,"
 
@@ -1802,9 +1752,6 @@ front   is   written     V\  [1
 
 "^^^-^^i    over   the   plumed   head   in
 III'  ^
-
-
-I    I    I
 
 
 t
@@ -1834,9 +1781,6 @@ crown  of  tlie  South,  and  the  stern  by  a  crown  of  the
 
 North,   and    between    the    two    sceptres,   ()(),    which
 syml:)olize  the  gods  Anpu  and  Ap-uat,  i.e.,  the  jackal-
-
-
-26
 
 
 THE    BOOK   OF   AM-tUAT
@@ -1921,12 +1865,6 @@ corners."
 3.  A  ram-headed  god,  with  a  similar  attribute,  called
 
 
-28
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 ^
 
 
@@ -1985,8 +1923,6 @@ THE    SECOND    DIVISION — URNES
 Ill
 
 
-29
-
 i.e.,  "  Over-
 
 
@@ -2022,12 +1958,6 @@ an  animal,  i.e..  Set  and  Heru-ur,  who  is  here  called
 13,  14.  The  crook  of  Osiris,  ^  '^^^^    H     3 ,
 
 
-30
-
-
-THE    BOOK   OF    AM-TUAT
-
-
 aud  the  upper  half  of  a  serpent  called  Met-en-Asak,
 i.e.,  "  staff  of  Osiris."
 
@@ -2053,9 +1983,6 @@ KHEFTIU,
 
 
 ,  and  Hert-Tuati,
-
-
-I  I   I
 
 
 19—21.  The  goddesses  SEKHET,of  Thebes,  'Y'  J  'I  ^,
@@ -2123,12 +2050,6 @@ Amu-aa,
 ,  i.e.,  "  the  Eater  of  the
 
 
-32
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 phallus " ;  the  second  has  the  head  of  a  man,  and  is
 called  ^g^  ^-=>  J  (1  (1  ^  ^ ,  Akhabit  ;  and  the  third
 lias   the   head   of    a  jackal,   and   is    called    !N"ebt-ta-
@@ -2165,9 +2086,6 @@ and  Hetchetchtu,  ft  o^^  ^  Vi> .
 THE    SECOND    DIVISION — URNES
 
 
-33
-
-
 18 — 20.  Three  gods,  each  holding  a  palm  branch ;
 their  names  are  Neha,  %  [1  (or,  IsTareh,  "^  <=>  X  Q?) ) ,
 
@@ -2198,12 +2116,6 @@ A'VWW    <- .-*    _Zi      V    I       I       I  -ZT^^  T    -11      ^N\N\r^
 ^n-
 
 
-34
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 /WW\A/\    AA/NAAA
 
 
@@ -2214,15 +2126,6 @@ f^
 
 
 I  V
-
-
-I       I       I
-
-
-0
-
-
-I       I       I
 
 
 ^^i^i^rr^^
@@ -2240,13 +2143,7 @@ s
 "^=1
 
 
-1
-
-
 (]^_.ra-^
-
-
-I     I    I
 
 
 V
@@ -2264,9 +2161,6 @@ I  I  I  I
 
 
 1^
-
-
-I        I        I
 
 
 ^i^T^^l.^
@@ -2298,9 +2192,6 @@ ra
 THE    SECOND    DIVISION — URNES
 
 
-35
-
-
 "  overthrow  [of  enemies]  at  tlieir  hour.  It  is  they  who
 "  guard  the  day,  and  who  l)ring  on  the  night  until  this
 "  great  god  cometh  forth  from  out  of  the  thick  dark-
@@ -2316,9 +2207,6 @@ The  texts  which  descrilje  the  duties  of  the  grxls  in
 the  lower  register  read : —
 
 
-1
-
-
 D
 
 
@@ -2332,9 +2220,6 @@ D
 1  I  t  -U-  Jr'  [^  ^  /)  I
 
 
-I  I  I
-
-
 VS\       ^"^     AA/SA/\A  IJ  v\    'l  I     I     A'A/V\/\\  I^
 
 
@@ -2344,9 +2229,6 @@ I  I    I    I     y
 \.,  H A/WW\
 
 A/WW\
-
-
-I       I        I
 
 
 ^WSAA  _
@@ -2364,12 +2246,6 @@ III  I  I  I  Tjz:::  i
 I  j^
 
 
-36
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 I     I
 
 
@@ -2382,9 +2258,6 @@ t
 A^-vyvN   I
 
 /Vs/WV\     I
-
-
-I    I    I
 
 
 it^a™^.
@@ -2418,9 +2291,6 @@ breath,  for  when  lie  crieth  to  them  he  ordereth  them
 
 
 THE   SECOND   DIVISION — URNES
-
-
-37
 
 
 The  five  lines  of  text  which  contain  the  address  of
@@ -2503,12 +2373,6 @@ T^-
 Ibid.
 
 
-38
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 AAA/V\A     ft.         n
 
 
@@ -2534,9 +2398,6 @@ h^1\1
 
 
 "■'V
-
-
-I  I  I
 
 
 D
@@ -2618,12 +2479,6 @@ Ibid,.
 THE    SECOND    DIVISION — URNES
 
 
-39
-
-
-I        I       I
-
-
 T
 
 
@@ -2644,9 +2499,6 @@ f:
 
 
 AA/VW\     I        1      A/V\AAA
-
-
-I    I     I
 
 
 I      I       I       I
@@ -2679,13 +2531,7 @@ Hi
 1 1  II  <=-  <=>ii
 
 
-I     I      I
-
-
 Q  III
-
-
-0
 
 
 ^^0.  I    I    I   I    I
@@ -2718,8 +2564,6 @@ I    Ji
 
 ^  Q  ~7T~
 
-
-40  THE   BOOK  OF   AM-TUAT
 
 I    U       ^    A.WWV    A'WWV    2^    I  ^  fl    n    fl  □  'V\      rJT
 
@@ -2788,8 +2632,6 @@ saying,  "  Open  ye  your  hidden  doors  so  that  the  god
 "souls  may  nut  be  made  to  remove  themselves  from
 
 
-42  THE    BOOK   OF   AM-TUAT
-
 "you.  0  ye  who  live  in  your  forms,  and  who  utter
 "  your  words  of  magical  power,  who  are  provided  with
 "your  swords  [whereby]  ye  may  hack  in  pieces  the
@@ -2827,8 +2669,7 @@ writing]  according  to  the  similitudes  which  are  in  the
 
 THE    SECOND    DIVISION — URNES  43
 
-hidden  place  of  the  palace,  and  if  a  man  hath  know-
-ledge of  [these]  words  ....  they  shall  act  as  magical
+hidden  place  of  the  palace,  and  if  a  man  hath  knowledge of  [these]  words  ....  they  shall  act  as  magical
 protectors  of  a  man  upon  earth,  regularly,  unfailingly,
 and   eternally.     The  name  of   this   hour  is   Sesilet-
 
@@ -2875,14 +2716,7 @@ described : —
 The  foremost  boat  is  called  Uaa-Penat,  >ca^  ^^^^^         ,
 
 
-46
-
-
-THE    BOOK   OF  AM-TUAT
-
-
-i.e., "  The  boat  which  capsizeth  " ;  it  contains  three  hawk-
-headecl  forms  of  the  god  Horns,  and  is  steered  by  two
+i.e., "  The  boat  which  capsizeth  " ;  it  contains  three  hawkheadecl  forms  of  the  god  Horns,  and  is  steered  by  two
 male  figures,  wh(j  stand  one  in  the  bows  and  the  other
 at  the  stern.     In  the  middle  of  the  boat  stand  the
 
@@ -2924,12 +2758,6 @@ between  the  steersman  in  the  bows  and  the  first  god  is
 
 
 called  Set-em-iira-f,
-
-
-48
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 The   third   boat  is   called   Pa-khet,    ax^         ,  i.e.,
@@ -2976,9 +2804,6 @@ The  text  written  above  the  boats  reads  :-
 y\
 
 
-1
-
-
 □  ^^
 
 ^A^  —
@@ -3006,9 +2831,6 @@ I  I
 •<2>-
 
 
-31
-
-
 Q.
 
 
@@ -3017,9 +2839,6 @@ WVV    A/WW\      A     V    AAAA/W    •^C2>-    /^      —        ■  /I   
 
 
 C3a
-
-
-I   I  I
 
 
 ^^1
@@ -3042,8 +2861,6 @@ A/^W\A
 
 A/WAAA
 
-
-50  THE    BOOK   OF   AM-TUAT
 
 "  This  great  god  journeyeth  over  Net-neb-ua-kheper-
 "  AUT  (i.e.,  the  "Water  of  the  Lord  One,  the  Creator  of
@@ -3142,16 +2959,7 @@ SEHETEP  -  NETEKU;     R    ^^^  7    I       „    |      ,    i.e.,    "  Th
 Or,
 
 
-1
-
-
 Or,
-
-
-52
-
-
-THE    BOOK   OF  AM-TUAT
 
 
 lS^^^Liii^AIiffiiil^°i^
@@ -3214,8 +3022,6 @@ followed   by
 W
 
 
-54  THE    BOOK   OF   AM-TUAT
-
 the   Hennu,    9.  v\,   standard,  i.e.,  the   hawk   of
 
 Seker  upon  a  standard,
@@ -3240,8 +3046,6 @@ it—    AAAAy\A  II
 
 
 /W^AA
-
-I  I  I
 
 
 ^
@@ -3284,9 +3088,6 @@ o
 
 
 °^k^^tSi,Pjqii
-
-
-000
 
 
 y\
@@ -3362,12 +3163,6 @@ hands  raised  in  adoration.
 
 
 with
-
-
-56
-
-
-THE    BOOK    OF   AM-TUAT
 
 
 3 — 6.  Four  forms  of  Osiris,  mummified,  bearded,  and
@@ -3473,8 +3268,6 @@ I .
 20,  21.  The   two   goddesses   Seh,  |J^,   and   AiiaU,
 
 
-58  THE    BOOK    OF    AM-TUAT
-
 T   V '  ^^^^^  stand   grasping  the  sceptre  1  with  both
 hands,  and  have  their  heads  turned  behind  them.
 
@@ -3573,9 +3366,6 @@ I    I    I  _B^    J}i       Jl       I
 n
 
 
-I  1  i  I
-
-
 "  Those  who  are  in  this  picture  [and  those  who  are
 '  in]  the  house  of  Tet  praise  this  great  god,  and  when
 '  this  great  god  liath  sent  forth  words  to  them,  they
@@ -3590,8 +3380,6 @@ hack  souls  in  pieces,  and  set  restraint  upon  shadows,
 and  to  destroy  such  doomed  beings  as  have  their
 being  in  tlieir  place  of  destruction  which  blazeth  with
 
-
-60  THE    BOOK   OF   AM-TUAT
 
 "  fire.  They  send  forth  flaraes  and  they  cause  fires  to
 "spring  up,  and  the  enemies  are  as  those  who  have
@@ -3663,8 +3451,7 @@ as  before,  the  god  is  obliged  to  pass  over  the  region  of
 the  kingdom  of  Seker.  The  course  which  was  usually
 passed  over  by  the  dead  runs  from  one  side  of  the
 section  to  the  otlier  diagonally,  and  it  may  be  thus
-described : — Starting  from  the  upper  side  of  the  top-
-most division,  the  corridor,  which  is  caUed  Re-stau,
+described : — Starting  from  the  upper  side  of  the  topmost division,  the  corridor,  which  is  caUed  Re-stau,
 
 -^
 <rr>  — ^ ,  slants  across  to  the  lower  side ;  at  the  point
@@ -3693,16 +3480,10 @@ the  "  road  of  the  secret  things  of  Re-stau ;  the  god  doth
 "  his  voice,"  ^^      p=,  .-^-^  — ^  | a
 
 
-AAAAAA
-
-
 ^  I      \\      I    AA/VW\  .
 
 
 I  I  i^Jr^K^'^ir^^Jr^i  i  i' "^ -^<=.-iii  -  -^
-
-
-1
 
 
 A/WNAA    A'VV^A^
@@ -3748,12 +3529,6 @@ III  <=i  ciQ      ^    <^:>     \H  rwi
 7r^-^  G     O
 
 
-66
-
-
-THE    BOOK    OF   AM-TUAT
-
-
 As  the  further  course  of  the  corridor  will  be  described
 under  the  Fifth  Hour  we  may  pass  on  to  consider  the
 Boat  of  the  Sun,  and  the  means  by  which  the  god
@@ -3761,8 +3536,7 @@ makes  his  way  onward.
 
 Ea  and  the  gods  who  formed  his  crew  have  left  the
 boat  in  which  they  travelled  until  now,  and  have
-betaken  themselves  to  one,  each  end  of  which  termi-
-nates in  the  head  of  a  serpent.  This  serpent-boat  is
+betaken  themselves  to  one,  each  end  of  which  terminates in  the  head  of  a  serpent.  This  serpent-boat  is
 drawn  along  by  four  gods,  who  are  called  Tun-en-maa,
 ^ ^  ^  Her-uarfu,  <=>  ^  S  2  Ar-nefertu,
 
@@ -3870,21 +3644,12 @@ Osiris  mentioned  above  (No.  2)  (see  p.  79).
 9 — 11.  Three  gods,  each  of  whom  carries  •¥■  in  his
 
 
-70
-
-
-THE   BOOK  OF   AM-TUAT
-
-
 left  hand,  whose  names  are  Sem-ankh,  ^'^^t  ■¥",  An-her,
 R  £55 ,  and  Ut-met,  |  |  (see  pp.  79,  83).
 
 12.    The  goddess  Nebt-ankh,  •¥■  (see  p.  83).
 
 The  text  which  refers  to  these  beinfis  reads : —
-
-
-AAAAAA      '  '  '
 
 
 !    D
@@ -3895,9 +3660,6 @@ r\     .IlllllliJI.     /AAAAA
 
 
 ssa
-
-
-I       I        I
 
 
 =  1
@@ -3961,16 +3723,10 @@ human  feet  and  legs  (see  p.  63).
 the    ground   "upon    their   bellies,"     ^
 
 
-I   I   I
-
-
 .     Of  them  it  is  said,  "  Those  who  are  in  this
 
 
 "  picture  make  their  passage  to  every  place  each  day,"
-
-
-I   I   I
 
 
 o
@@ -4017,12 +3773,6 @@ body,    [and]    his   heads,"
 
 
 I     0
-
-
-74
-
-
-THE   BOOK   OF   AM-TUAT
 
 
 ^^^^^  /wwv\
@@ -4167,8 +3917,6 @@ T\^^T.M\\\tl
 '  The  text  is  in  the  plural.
 
 
-78  THE    BOOK   OF    AM-TUAT
-
 A^AAAA
 
 ^^ .  Under  the  neck  of  this  serpent  is  the  emblem
@@ -4230,9 +3978,6 @@ meaning   of   the   legend   which   refers    to   the   female
 serpent  Hekent  is  not  clear ;  it  reads :  ^^  ^      ^
 
 
-AAAAAA
-
-
 9.  The  three-headed  serpent  (see  p.  79)  Menmenut,
 
 A^^wvA    A  ,  which  is  described  as  the  "  hidden  image
@@ -4249,8 +3994,6 @@ who  are  being  carried  by  the  three-headed  serpent  to
 
 G
 
-
-82  THE    BOOK   OF   AM-TUAT
 
 the  Utchat,  which  Thoth  and  Horus  are  carrying  to  it ;
 they  appear  again  in  the  next  Division  of  the  Tuat,
@@ -4301,9 +4044,6 @@ chiefs  who   provide   food   in   this   Circle,"  -^^  ''•'^'''^
 /V\/VVV\    1       I       I
 
 
-86  THE    BOOK    OF   AM-TUAT
-
-
 □  i  1  o'-^
 
 
@@ -4319,8 +4059,7 @@ j>^  £=i  C^
 
 ,  and  holds  a  staff  iii  his  hand ;  the  second
 is  An-hetep,  a  =^,  and  holds  the  sceptre  1  in  his
-hand ;  the  third  is  Heru-hequi,  %2  |  | ,  is  hawk-
-headed,  and  holds  the  crook  j  in  his  hand ;  the  fourth
+hand ;  the  third  is  Heru-hequi,  %2  |  | ,  is  hawkheaded,  and  holds  the  crook  j  in  his  hand ;  the  fourth
 is  Ut-metu,  j  ft ,  and  holds  a  tree  in  his  left  hand.
 
 The  text  containing  the  address  of  the  Sun-god  to
@@ -4387,9 +4126,6 @@ ir
 THE    FIFTH    DIVISION — AMENT
 
 
-89
-
-
 "  Anient."
 
 
@@ -4400,7 +4136,6 @@ XS  AA^ft/v\  ^^,s^   AAft/>AA    I       i::^     vLj  )
 
 
 2^
-I   I    I
 
 
 f
@@ -4422,14 +4157,10 @@ I   I
 w
 
 
-I   I  I
-
-
 yj
 
 
 AAAA/V\
-I       I       I
 
 
 6^  (o\  ^  ^  I  t^  4
@@ -4472,9 +4203,6 @@ weH
 I     AA/vVA        I  I  I    A/W^AA     A     U
 
 
-0
-
-
 A      I  T     .      I  -^^  ^  I   II  ..  v^    ^^=r"  \\  (
 
 The  short  lines  of  text  just  above  the  mound  read,
@@ -4483,9 +4211,6 @@ The  short  lines  of  text  just  above  the  mound  read,
 
 
 go
-
-
-THE    BOOK   OF    AM-TUAT
 
 
 III
@@ -4506,9 +4231,6 @@ are,  "  Come,  0  Ea,  in  the  peace  of  the  Tuat !  Let  Ea
 "  the  sky  as  the  Great  One  who  is  in  the  horizon,
 "  and  mayest  lie  towed  along  by  those  who  tow
 "  thee,  and,  verily,  mayest  destroy  all  thine  enemies,"
-
-
-1
 
 
 Sfl?lk
@@ -4620,9 +4342,6 @@ r^^^^^
 J]
 
 
-AAAAAA
-
-
 AAAAAA       [f     '^     ^li       n  AAAAAA     'y^
 
 I         I        I       I'  -^Jr         I        I        I        I      I      Ji      ill  I
@@ -4631,8 +4350,7 @@ I         I        I       I'  -^Jr         I        I        I        I      I 
 '^'VVvV\       'S\  ^       V\    \\      AAAAAA Q  /\     //f  AAAAAA       ^\  .
 
 I  I  I  -B^  "^  Jr  I  I  I  D  ^  ^^  ^  t  1  I  I  -M^  ^  D
-The  "Land  of  Sekri,"  """^^  ^=^  W  jj ,  which  is  men-
-tioned by  the  seven  gods  who  are  towing  the  boat  of
+The  "Land  of  Sekri,"  """^^  ^=^  W  jj ,  which  is  mentioned by  the  seven  gods  who  are  towing  the  boat  of
 Ea,  lies  immediately  below  the  mound  of  earth,  and
 forms,  as  it  were,  an  oval  island  in  the  river  of  the
 Tuat ;  its  shape  is,  as  M.  Maspero  has  said,  an  elongated
@@ -4652,8 +4370,6 @@ This  mysterious  oval  is  supposed  to  rest  upon  the
 bodies  of  two  man-headed  lion  sphinxes  set  tail  to  tail ;
 of  these,  however,  only  the  heads  and  fore  quarters
 
-
-94  THE    BOOK   OF   AM-TUAT
 
 appear,  one  at  each  end  of  the  oval.     Each  sphinx  is
 called  Af,  n  ,  and  he  is  said  "  to  have  his  existence
@@ -4699,16 +4415,10 @@ The  Kingdom  of  Sekor.
 THE    FIFTH    DIVISION — AMENT
 
 
-97
-
-
 O
 
 
 J
-
-
-I   I   I
 
 
 ^    III
@@ -4720,9 +4430,6 @@ w
 1=21
 
 
-1
-
-
 ^  rvn
 
 
@@ -4730,9 +4437,6 @@ w
 
 
 D    D
-
-
-1
 
 
 JL       AA/VW\
@@ -4790,9 +4494,6 @@ Immediately  iu  front  of  this  serpent  are  four  seated
 gods  (see  p.  Ill),  of  whom  the  heads  of  two  are  turned
 behind  them ;  they  are  described  as  the  "  gods  who
 "  hold  the  secret  forms  of  Sekki,  who  is  on  his  sand,"
-
-
-1
 
 
 m   ^^-—  ^J^''\      The    first
@@ -4890,9 +4591,6 @@ them  reads,  "  Give  me  thy  hand  (i.e.,  help  me)  Amentet !
 "  Good  is  this  water  which  leadeth  to  the  tomb  [where]
 "  rest  the  gods.  Hail,  exist  ye,  0  nine  gods  who  have
 "come  into  being  from  my  flesh,  and  have  not  come
-
-
-102  THE    BOOK    OF   AM-TUAT
 
 
 "  into  being  from  your  own  forms,  and  who  are  firm  in
@@ -5025,9 +4723,6 @@ appears  at  the  top,  we  may  conclude  that  it  represents
 io6
 
 
-THE    BOOK    OF    AM-TUAT
-
-
 some  form  of  the  dark  underworld  of  Seker.  To  each
 side  of  it  a  hawk  clings  by  his  claws,  and  from  the
 lower  part  of  it  emerges  the  scarab,  which  has  already
@@ -5058,9 +4753,6 @@ Ea  saith,  "Hail,  thou  serpent  Ter,  whom  I  myself
 "  who  are  in  my  following,  in  order  that  I  may  pass  by
 
 "  thee   in   peace,"     Tl     (]      |  a  [1
-
-
-88
 
 
 5   ^
@@ -5134,9 +4826,6 @@ and  "lives   upon   the   blood   of   the   dead,   and   upon
 
 
 no
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 The  text  of  the  speech  which  the  god  makes  to  the
@@ -5390,12 +5079,6 @@ The  Four  Kings  of  the  North.
 The  Four  "  SpiriLs."
 
 
-120
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 Khu, '^^'^^'^^,  i.e.,  "Spirits."  Immediately  in  front
 
 of  these  gods  is  an  enormous  serpent  with  five  heads,
@@ -5411,9 +5094,6 @@ of  the  god  Khepera.    The  text  written  above  reads: —
 The  Serpent  Ash-hrau.
 
 I      D  <
-
-
-111
 
 
 AA/\^AA      I
@@ -5537,9 +5217,6 @@ ms:
 i
 
 
-0
-
-
 D     ^^
 
 
@@ -5554,8 +5231,6 @@ D     ^^
 "  and  to  tiie  Spirits  who  are  in  this  City : — May  your
 "  royal  state  and  condition  be  with  you,  may  ye  receive
 
-
-122  THE    BOOK   OF   AM-TUAT
 
 "  your  White  Crowns,  and  ye  Heteptiu  [may  ye  receive]
 "your  offerings,  and  ye  kings  of  the  North  may  ye
@@ -5659,12 +5334,6 @@ who  are  in  the  following  of  Osiris,  and  he  shall  have
 in  duty  bound  to  make  to  him  upon  earth."
 
 
-124
-
-
-THE    BOOK    OF    AM-TUAT
-
-
 In  the  upper  register  are : —
 
 A  company  of  nine  gods  and  goddesses,  all  of  whom
@@ -5712,8 +5381,7 @@ SIXTH    DIVISION — METCHET-MU-NEBT-TUAT      I25
 
 4.  The  god  Heru-khenti-ahet-f,  ^^  /Tk  U  o  '^^
 
-^^^=^ ,  i.e.,  "  Horus   at   the   head  of  his  field,"  hawk-
-headed,  with  his  hands  projecting  from  his  bandages.
+^^^=^ ,  i.e.,  "  Horus   at   the   head  of  his  field,"  hawkheaded,  with  his  hands  projecting  from  his  bandages.
 
 5.  The  god  Benti-ar-ahet-f,  J  [1  <czr>  u  «     ^  ,
 
@@ -5763,22 +5431,10 @@ V    /WWNA
 11^^  im^
 
 
-126
-
-
-THE    BOOK    OF   AM-TUAT
-
-
 I        I        I      AAAA/W      I         I        I      AAf^^A^
 
 
 I   I    1  /wvw  ^  D  1    1   I  ^  D  I   I   I
-
-
-I  I  I
-
-
-0
 
 
 ^lii^^
@@ -5799,7 +5455,6 @@ I    A/VW\A
 A^AAAA
 
 
-AAAAAA
 I       I        i
 
 
@@ -5810,9 +5465,6 @@ I  AA/Vv^^
 
 
 Dl
-
-
-I      I     I
 
 
 0    (S
@@ -5836,13 +5488,7 @@ D
 D  I   I   I    1
 
 
-I        I        I
-
-
 z^   III  ^
-
-
-1
 
 
 D
@@ -5909,12 +5555,6 @@ f\/VW^    A    AA/V\<V\
 
 
 I    /WVWA    /v^AA'^A  'A    I  I  li  I    AA^A/V>    J — 1     I     Zjm^     I       1       LI      —il       I    I 1      I    ^=**^
-
-
-128
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 iv(^  iiiiV
@@ -6028,12 +5668,6 @@ it,  belches  fire ;  under  a  vaulted  covering  is  an  "  image,"
 K
 
 
-130
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 18.  A  similar  chamber,  with  an  "image"  of  Ea  in
 the  form  of   a  hawk's  wing,  ^^ ;    the   name  of   the
 
@@ -6079,9 +5713,6 @@ JD_^^<^
 ^    O     I    I     I
 
 
-1
-
-
 M-m^\
 
 
@@ -6108,9 +5739,6 @@ SIXTH    DIVISION — METCHET-MU-NEBT-TUAT     I3I
 
 
 ^
-
-
-1
 
 
 111  the  lower  retiister  are  :—
@@ -6152,8 +5780,6 @@ DDO
 
 crocodile-headed,  or
 
-
-132  THE    BOOK   OF   AM-TUAT
 
 7.  The  god  Met-hra,  I  <^.
 
@@ -6274,12 +5900,6 @@ AAAAAA  J    "  The   Majesty   of    this   great
 T34
 
 
-THE    BOOK   OF   AM-TUAT
-
-
-0
-
-
 "  send  forth  light,  and  who
 "make  to  stand  up  your
 "  bodies,  and  0  ye  goddesses
@@ -6358,9 +5978,6 @@ O  III  <
 
 
 1^6
-
-
-THE    BOOK    OF    AM-TUAT
 
 
 15.  The  god  Meni,  ' '  (1(1  |.
@@ -6445,8 +6062,6 @@ A/v/WW      [J     —     ~  AA/W\A     g  ^  \^  [J  M        VX  I Q
 '^  I        i        1         I         U  A^AA/Vv     /WVVNA     "^^^ --*        1     1      —il  I      ^^ ^    I  I  1
 
 
-AAAAAA
-
 nrz}  I  I  I
 
 
@@ -6462,8 +6077,6 @@ A^VWV\      II     W_W        ,        I         1     ■
 "  Saith  the  Majesty  of  this  great  god  to  these  gods : —
 "  0  ye  who  make  yourselves  to  be  standing  up  although
 
-
-138  THE    BOOK   OF   AM-TUAT
 
 "  ye  are  seated,  ye  who  are  in  motion  although  ye  are
 "  at  rest,  ye  whose  souls  come  into  being,  ye  who  are
@@ -6550,12 +6163,6 @@ AA/V\AA      AAA/VNA
 "in  the  Hall  of  Osiris,  and  the  Majesty  of  this  god
 
 
-140
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 ■  addresseth  words  to  the  Hall  of  the  gods  who  dwell
 
 ■  therein.  This  god  performeth  all  the  rites  proper
@@ -6575,8 +6182,7 @@ The  Boat  of  Af ,  the  dead  Sun-god,  in  the  Seventh  Hour.
 In  the  middle  register  are : —
 
 1.  The  boat  of  Ea,  who  stands  under  a  canopy  formed
-by  the  body  of  the  serpent  Mehen;  the  god  is  ram-
-headed  and  wears  a  disk  on  his  head,  and  his  name  Afu,
+by  the  body  of  the  serpent  Mehen;  the  god  is  ramheaded  and  wears  a  disk  on  his  head,  and  his  name  Afu,
 9^9,R.>  is  written  twice  near  him.  In  front  of  him
 stand  Heka-sek,  8  LJ  m  5  ^^^^  *^^;  ^^^  I^i^>  ^^^^^  1^^^
 both  arms  stretched  out  before  her,  and  is  reciting  the
@@ -6663,12 +6269,6 @@ ground  by  means  of  six  knives.     The  goddess  Serqet,
 <^^=*  1 ,  stands  with  a  band  round  his  neck  in  the  act  of
 
 
-142
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 strancrliiiff  him,  and  the  god  Her-tesu-f,
 
 
@@ -6728,7 +6328,6 @@ I  111
 SP3^gflVfm
 
 
-AAAAAA
 AA/W\A
 
 
@@ -6802,12 +6401,6 @@ G.  Tlie      goddess      Temtitii,     /c=
 j ,  armed  with  a  knife.    Tliese  four  goddesses
 
 
-144
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 guard  four  rectangular  coffers,  at  the  end  of  each  of
 which  is  a  human  head ;  inside  each  coffer  is  a  mound
 of  sand,  beneath  which  is  buried  one  of  the  four  forms
@@ -6875,9 +6468,6 @@ D    D
 CTZ]
 
 
-I    I    I
-
-
 OOO  ^^.
 
 
@@ -6920,8 +6510,6 @@ D
 
 ^-  ra
 
-
-000
 
 A/WVW    L^  _J  AAA/7V\   A/^WAA
 
@@ -6986,19 +6574,10 @@ I
 m
 
 
-1
-
-
 /wwv\  •< — \     -^    fl  I    I    I  D    D
 
 
-146
-
-
 A     ^   O
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 D
@@ -7081,8 +6660,6 @@ and  a  sceptre  in  her  left.
 head  of  a  woman.
 
 
-148  THE    BOOK   OF   AM-TUAT
-
 4.  A  god  in  human  form,  seated  on  a  throne,  wearing
 plumes  and  an  uraeus  on  his  head,  with  "  life  "  in  his
 
@@ -7122,23 +6699,13 @@ THE    SEVENTH    DIVISION — THEPHET-ASAR        I49
 I  ^  o
 
 
-I  I  I
-
-
-I  I  I
-
-
 ^
 
 
 AAA/v^^
-I      I      I
 
 
 ^^=>^
-
-
-I      I      I
 
 
 AAAAAA    /      g  ^
@@ -7179,14 +6746,10 @@ Afu-Asar  under  the  serpent  Mehen.        The  beheading  of  the  enemies  o
 "  members  each  day.    0  let  me  pass  over  thee  in  peace."
 
 
-THE    BOOK   OF   AM-TUAT
-
-
 5.  Three  headless
 figures,  kneeling,  with
 their  arms  tied  behind
-theu'  backs ;  these  repre-
-sent    the    "enemies    of
+theu'  backs ;  these  represent    the    "enemies    of
 
 Osiris,"      ^    ^'^    ^   ■  '^
 
@@ -7318,12 +6881,6 @@ rebel  against  Osiris,  and  tliat  he  eats  the  souls  of  the
 enemies  of  the  god.
 
 
-154
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 C::^
 
 
@@ -7343,8 +6900,6 @@ this   god  it  is    said :
 
 
 a
-
-AAAAAA
 
 
 AAAAAA    -rf  Ji
@@ -7431,8 +6986,6 @@ I
 p^=ja)'
 
 
-156  THE    BOOK   OF   AM-TUAT
-
 11.  Tesem-em-maat-f,  c— ^  n  ^^   _
 
 I  I  I  1  ^    I
@@ -7499,8 +7052,6 @@ Goddesses  of  the  Hours,
 
 /T— Si
 
-
-158  the  book  of  am-tuat
 
 9.  Tait,  5  ^  1  "  1  T*
 
@@ -7575,9 +7126,6 @@ I  I   I   I  i;^^  I  I  1 1   I  I
 THE    SEVENTH    DIVISION — THEPHET-ASAR
 
 
-159
-
-
 "  saith  unto  the  Hours  who  are  in  this  City : — 0  ye
 "  Hours  who  have  the  power  of  coming  into  being,  0
 "ye  Hours  who  are  endowed  with  stars,  0  ye  Hours
@@ -7595,9 +7143,6 @@ j\
 
 
 The  crocodile  Ab-sha-am-Tuat,
-
-
-1
 
 
 I      D  0-=-
@@ -7623,9 +7168,6 @@ is  dcscril3cd  as  "  Osiris,  the  Eye  of  Ea,"  (1  "v^    ]]     "^^^
 i6o
 
 
-THE    BOOK   OF   AM-TUAT
-
-
 iiiouncl,  out  of  the  end  of  which,  immediately  under  the
 head  of  the  animal,  appears  a  bearded  human  head,
 
@@ -7645,9 +7187,6 @@ o  o  o
 or  ^
 
 
-I   I   I
-
-
 111  D
 
 
@@ -7655,8 +7194,6 @@ I   I   I
 
 
 Of  the
-
-AAAAAA
 
 
 IB
@@ -7722,9 +7259,6 @@ A
 UTJi
 
 
-1
-
-
 ^
 
 
@@ -7776,9 +7310,6 @@ M
 l62
 
 
-THE    BOOK   OF   AM-TUAT
-
-
 "and  he  addresseth  to  them  words  in  his  boat  whilst
 "  the  gods  tow  him  along  through  this  City  by  means  of
 "  the  magical  powers  of  the  serpent  Mehex.  The  name
@@ -7812,9 +7343,6 @@ I
 
 
 AAAAA^    J  1
-
-
-11
 
 
 ^
@@ -7868,9 +7396,6 @@ is  thus  described :    I  ^  c=^5i    |  ©    aaaaaa  v^.  -^^
 ra
 
 
-1
-
-
 A     ^  I    -^    Jl         III  I     ill
 
 ^^   r^i-^  niSID   °<^    /^    f]    f^    C3    I  nfl
@@ -7884,9 +7409,6 @@ U  I
 
 
 o
-
-
-1
 
 
 mro\ir^K-r^m^\'^
@@ -7934,8 +7456,6 @@ O     I  ^"^    ^    ^'^^^  ?           Ill®  ^ii^=^
 
 AWVNA
 
-I    I    I
-
 
 cin:
 
@@ -7963,9 +7483,6 @@ I  r  f^^^  ^  D
 maketh  his  way  into  this  City,  being  towed  along
 ])y  the  gods  of  the  Tuat,  in  his  hidden  form  of
 Meiien.     This  god  sendeth  forth  a  cry  to  the  regions
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 "of  every  Circle
@@ -8142,9 +7659,6 @@ ra
 ^  ^
 
 
-1
-
-
 X       AAAA/
 
 
@@ -8152,9 +7666,6 @@ D  _a    I  /w^AA^  -^  rr^j    "Those    who    are    in    this
 
 
 i68
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 '  picture  are  those  who  are  on  the  path  along  which  this
@@ -8230,9 +7741,6 @@ he  is  the  "fourth  form,"   M  *^illl,  or    m'OO^.
 The  text  which  refers  to  these  reads
 
 
-I    I    I
-
-
 Second  form  of  Tatheuen.    Third  form  of  Tathenen.    Fourth  form  of  Tathenen.
 
 
@@ -8270,12 +7778,6 @@ Q
 
 
 ^
-
-
-170
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 (a\/wwv^0^3
@@ -8357,9 +7859,6 @@ I      D  {^^
 
 
 2^^_    c.        I
-
-
-4
 
 
 A      ^  O
@@ -8510,8 +8009,6 @@ TG
 11        I        I
 
 
-174
-
 (3  ■
 
 
@@ -8520,7 +8017,6 @@ Jj       I        I
 Zl      ^     ^
 
 
-THE    BOOK    OF    AM-TUAT
 /)      ^     ^
 
 "^ --*    O    AAAAAA
@@ -8574,8 +8070,7 @@ THE    EIGHTH    DIVISION — TEBAT-NETERU-S       I75
 
 headed.
 
-0.  The    image   of    Eem-neteru,  ^^  i  ^^    |  i ,   ram-
-headed.
+0.  The    image   of    Eem-neteru,  ^^  i  ^^    |  i ,   ramheaded.
 
 Each  of  these  is  seated  as  before.     The  text  reads:
 
@@ -8600,8 +8095,6 @@ m\l\f
 
 zl     ^     ^
 
-
-AAAAAA
 
 I    1   M  -IT  -^^  -Zr  0  J[r  ^  ^=zn  <:z:=>  O  awwv
 
@@ -8629,8 +8122,6 @@ J     00    I^    ^www  <===>  ,  "  Those  who  are  in  this
 I  ^^  I  XZH  ,^  1 ,  is  entered  through  a  door  liaving
 o  '^^>^  1     T    O  I '  ^
 
-
-176  THE    BOOK    OF    AM-TUAT
 
 the     name     of     Tens  -  sma  -  kekiu,     /vwwv   '   ^  'Y^  j
 ^^— ^  ^  "T^j  ^^^^  ^^  ^^  ^^^  seated : —
@@ -8678,9 +8169,6 @@ I
 
 I  I  .-"-^  1  \>  III
 1  I
-
-
-I  I  I
 
 
 "C3>   Cl)    /V\A/V\A
@@ -8736,8 +8224,7 @@ TTT  ff
 ;  1
 
 
-Tlio  door  Tes-khaibitu-
-tuatiu.
+Tlio  door  Tes-khaibitutuatiu.
 
 
 IS
@@ -8770,8 +8257,6 @@ the  "arrows  of  lifi."
 N
 
 
-178  THE    BOOK   OF   AM-TUAT
-
 4.  A   luui-headed   god,   seated    on    [  [  ',    liis  uame   is
 Neb-PvEKIIIT,  <cr>  <^^  1 .
 
@@ -8780,9 +8265,6 @@ The    text    reads :    ^^^  I   I   1
 
 
 □    ^
-
-
-11
 
 
 AAAA/V\      ff—
@@ -8800,12 +8282,6 @@ I
 
 
 =^L=_  ^      I     ^       Mil
-
-
-1
-
-
-1
 
 
 U  /vvv\AA
@@ -8951,9 +8427,6 @@ I      [^£1
 i8o
 
 
-THE    BOOK   OF   AM-TUAT
-
-
 A/VW\A
 
 O     I
@@ -8979,8 +8452,6 @@ murmur  of  the  living  when  their  souls  cry  out  to  Ea.
 The  name  of  this  Circle  is  Hetemet-khemiu."
 
 
-1
-
 ,^^
 
 Mi
@@ -8993,7 +8464,6 @@ Q
 
 ^A
 
-1
 
 a     '  ojl
 
@@ -9093,9 +8563,6 @@ I       ( J     /VvWV\
 ">
 
 
-I       I       I
-
-
 Zl    ^  o
 
 
@@ -9150,9 +8617,6 @@ in  it  are  four  mummied  tiods,
 l82
 
 
-THE    BOOK   OF   AM-TUAT
-
-
 each  with  an  instrument  for  weaving  in  front  of  him,
 and  their  names  are : —
 
@@ -9164,9 +8628,6 @@ and  their  names  are : —
 
 
 Ffq,
-
-
-1
 
 
 3.  TCHEE-KHU,
@@ -9254,8 +8715,6 @@ instrument  for  weaving,  and  their  names  are  :—
 2.  PtErvIT-ANKII,  ^s  ^4^1'
 
 
-184  the  book  of  am-tuat
-
 3.  Neseut-ankhet,  ^-\  -¥-
 
 4.  Septat-ankh,  -V-  1
@@ -9288,9 +8747,6 @@ i  I  I  T  o  I
 J\
 
 
-I  I  I
-
-
 o
 
 
@@ -9313,8 +8769,7 @@ regions  they  are,  and  they  shed
 "  Aat-setekau."
 
 
-The  door  Tes-amom-mit-
-em-sheta-f.
+The  door  Tes-amom-mitem-sheta-f.
 
 
 THE    EIGHTH    DIVISION — TEBAT-NETERU-S      185
@@ -9417,9 +8872,6 @@ I      I      II      Ilii   I      1       S  r-^-^       ^       I      I     
 "  and  knoweth  their  places  in  Amenti,  [he  sluiU  attain
 
 
-THE    BOOK   OF   AM-TUAT
-
-
 "  to]  his  own  place  in  the  Tuat,  and  he  shall  stand  up
 "  in  all  places  which  belong  to  the  gods  whose  voices
 "  (or,  w^ords)  are  madt,  even  as  the  divine  sovereign
@@ -9505,7 +8957,6 @@ D
 
 12.  Tepi,  '^
 
-0
 
 The  text  which  refers  to  tlicse  reads :
 
@@ -9570,13 +9021,10 @@ A^AA'^A     A^WAA
 AAw'VAyVy
 /VNAAyVv
 
-I        I        I
-
 
 O
 
 
-AAAAAA
 A/vAAAA
 
 
@@ -9618,8 +9066,6 @@ name  is  MuTi-KiiEXTi-'ruAT,  ^^  ^      rflk  ^      ^^.
 basket  or  bowl.
 
 
-192  THE    BOOK   OF   AM-TUAT
-
 5.  The  cow-goddess  Nebt-au-khenti-Tuat,  Ji
 
 °  ^      III
@@ -9648,8 +9094,6 @@ l/VVSV/t  — — II— .      0     -,     0
 
 AVVVSV/1  — — !■— .      w    ^
 
-I    I   I
-
 
 ife  + "
 
@@ -9661,9 +9105,6 @@ The    text    which    refers    to    these    reads :
 
 
 D
-
-
-111
 
 
 ^=0=
@@ -9679,9 +9120,6 @@ D    D
 /^e«
 
 
-10
-
-
 NINTH    DIVISION — BEST-ARU-ANKHET-KHEPERU    I93
 
 
@@ -9694,19 +9132,10 @@ Ill
 r
 
 
-8
-
-
 Nesti-khenti-Tuat.
 
 
 MA-r-tl'^'  ^
-
-
-194
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 ^
@@ -9799,12 +9228,6 @@ Temtu.
 Men-5.
 
 
-196
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 10.  Neb-Pat,    d        i
 
 
@@ -9822,15 +9245,11 @@ The  text  which  refers  to  these  reads :  ^^^  '^"'^^^^  "^
 D
 
 
-11
-
-
 A/vvv^^
 I    I      I      I
 
 
 1    AAAAAA    '^^—^         1    •
-I     I       I
 
 
 ^
@@ -9845,9 +9264,6 @@ MM     s  Jy
 
 
 /w\r^\  III©         I
-
-
-11
 
 
 I      I        I       I
@@ -9869,8 +9285,6 @@ I    ^
 
 llililUj'      ^  I       I       I        I        I       /^^AA^^      I  JI
 
-
-I     I     I
 
 A/V\AAA
 
@@ -9975,9 +9389,6 @@ r^/^^
 I    ^    /
 
 
-0
-
-
 The  text  which  refers  to  these  reads :  7^;^  '"'^'"'^
 
 
@@ -9988,9 +9399,6 @@ D
 
 
 ^
-
-
-I  I  I
 
 
 ^
@@ -10005,9 +9413,6 @@ A
 m^\\.
 
 
-I       I        I
-
-
 ■^^
 
 
@@ -10015,9 +9420,6 @@ AA/y^^
 
 
 J\
-
-
-I  I  I
 
 
 a
@@ -10035,9 +9437,6 @@ r-^^~i
 I      A/^W\A
 
 MM
-
-
-I       I       I
 
 
 Ji
@@ -10122,7 +9521,6 @@ In  the  lower  register  are : —
 1.  Twelve   uraei,  which   are   mounted   each   on   its
 instrument  for  weaving,  and  each  pours  forth  fire  from
 its  mouth  ;  their  names  are : —
-1
 
 2.  Tekait,  l  j
 
@@ -10193,19 +9591,10 @@ i-.^-ffiW.^i
 Aat-aru.  Kcbt-uauau.  Ncbt-Eekcl.i.
 
 
-202
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 k.
 
 
 W
-
-
-I  I  I
 
 
 Mn
@@ -10223,9 +9612,6 @@ D    D
 
 
 them  reads :
-
-
-AAAAAA
 
 
 k^l
@@ -10258,9 +9644,6 @@ M
 i<
 
 
-I        I        I
-
-
 'if
 1%^  ^
 
@@ -10269,7 +9652,6 @@ mf:n
 
 
 AAAAA',
-I        I        I
 
 
 ■*-©     I  - — a
@@ -10350,23 +9732,12 @@ w
 1 1 1
 
 
-204
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 NINTH    DIVISION— BEST-ARU-ANKHET-KHEPERU    205
 
-
-206
 
 D
 
 7.  Pan-afj,
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 /vAAAAA
@@ -10396,20 +9767,11 @@ i      U     AAAA/NA       i      AV\AAA     '      '"^      '      ^ ^       I 
 D     _ll  U  I  III  I     U  1    ^    "nmmr  ^^^  A^^  .M^     '=>       I  I \
 
 
-AAAAAA
-
-
 AAA/V«
 
 
 "This  great  god  taketh  up  his  place  in  this  Circle,
 "  and  he  uttereth  words  to  the  eods  who  dwell  therein.
-
-
-208
-
-
-THE    BOOK    OF    AM-TUAT
 
 
 "  The  name  of  the  door  of  this  City  through  which  this
@@ -10478,12 +9840,6 @@ lis
 
 Or,  Khent-Heru,  wl)icli  became  oue  of  the  Dekaiis  a,nioiig  the
 Gi'ecks,  i.e.,  x<"''''«p;  sec  Maspero,  op.  cit.,  p.  127.
-
-
-210
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 J
@@ -10583,15 +9939,10 @@ D
 4.  Kha-a,  ^;1^
 
 
-212  THE    BOOK   OF   AM-TUAT
-
 The  texts  which  refer  to  the  above  read: — 1.    i^
 
 
 J\
-
-
-1
 
 
 D
@@ -10609,8 +9960,6 @@ I  Y
 
 
 AA/WV\
-
-I    I    I
 
 
 ^n
@@ -10657,9 +10006,6 @@ AA/\AAA        1^
 
 
 Jl
-
-
-1
 
 
 C<2]
@@ -10725,9 +10071,6 @@ JJ-^
 I       1       C^i       \^      I       AAAA/A
 
 
-[-]  AAAAAA
-
-
 ' '      7|\        \      AAftAAA  (J
 
 
@@ -10740,10 +10083,6 @@ I       I       I     I       I       I
 ^^
 
 
-AAAAAA
-I       I       I
-
-
 [^^
 
 
@@ -10752,8 +10091,6 @@ V^       LTU    C^    ^^.^     V8>      |\    ®   ^  Mfi         ^)\^  11
 
 Q-Q.^
 
-
-214  THE    BOOK    OF   AM-TUAT
 
 I        I        1    !  d?       Jl       I      W  J\  I     /WWVA    r-^^    i^     <=:^
 
@@ -10827,9 +10164,6 @@ the  horizon.  The  text  whicli  refers  to  these  scenes  reads :
 I      AAAAAA       '
 
 
-I       I       I
-
-
 I      ,,,     ,
 
 I      III     I        III
@@ -10849,9 +10183,6 @@ the  god  Kheper,  wlio  is  carrying  his  horizon  to  this
 
 
 2l6
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 "  City,  SO  that  he  may  come  forth  into  the  Eastern
@@ -10901,9 +10232,6 @@ The  axe  of  god  and  the  solar  disk
 2l8
 
 
-THE    BOOK   OF   AM-TUAT
-
-
 4.  All  axe,  symbol  of  "  god,"  standing  on  the  handle
 end,  with  a  disk  resting  on  the  side  edge  of  the  head.
 On  the  left  is  a  goddess  who  is  steadying  the  axe
@@ -10948,9 +10276,6 @@ ji     I
 
 
 I      D
-
-
-9
 
 
 V
@@ -11021,11 +10346,6 @@ the  names  of : —
 2.  Arit-Tatiieth,
 
 
-220
-
-
-THE    BOOK   OF   AM-TUAT
-
 a a
 
 
@@ -11048,9 +10368,6 @@ AAA/VW       P5
 
 
 ^  o
-
-
-1
 
 
 o
@@ -11175,8 +10492,6 @@ are : —
 in  the  place  of  a  head.
 
 
-222  THE    BOOK   OF   AM-TUAT
-
 2.  Neb-aqet,  ^^zi:7         ,  jackal -headed.
 
 3.  Amen-khu,  jj  ^^s  ^,  hawk-headed.
@@ -11257,12 +10572,6 @@ Amen  Heru.  Khent-ast  f.
 Khont-meut  f.
 
 
-224
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 "  by  their  names,  they  unite  themselves  and  come  into
 "  life  in  the  shades  which  are  in  the  mouth  of  the  great
 "  god,  and  their  souls  journey  onwards  in  his  train  to
@@ -11322,8 +10631,6 @@ A^^SAAA      hN\r^sfK
 I       I       1     I'  "J     SN\I\N^
 
 
-AAAAAA
-
 i  I  I  I
 
 
@@ -11342,10 +10649,6 @@ II
 if]^ol.
 
 
-AAAAAA
-I        I        I
-
-
 ^^^
 
 
@@ -11362,10 +10665,6 @@ ie/1  1  in  1^  ^i^
 ^
 
 
-AAAAAA
-I       I       I
-
-
 AAAAAA     AA^WAA
 
 
@@ -11378,7 +10677,6 @@ f   AAAAAA
 
 
 /WWW
-AAAAAA
 
 
 V
@@ -11406,7 +10704,6 @@ S
 
 
 A/vv-,v>.      The    above    text    is    full    of
-I   I  I
 
 lacunae,    and   whole    passages,    consisting    of    several
 
@@ -11425,8 +10722,6 @@ of  the  legends  which  accompanied  the  lakes  of  water :
 %5
 
 
-AAAAAA
-
 \\    AVWAA
 
 AAvVAA^
@@ -11435,7 +10730,6 @@ AAvVAA^
 ()s(l(j
 
 
-AAAAAA
 A/^VAAA
 AAAA^\
 
@@ -11515,14 +10809,7 @@ S  9  8     s«=>«
 1  /J
 
 
-228
-
-
-THE    BOOK    OF    AM-TUAT
-
-
 l]n(j(|
-1
 
 
 ^T
@@ -11573,18 +10860,10 @@ I  I  I  I   s
 I  1
 
 
-I  I  I
-
-
 ^
 
 
 AAAA/SA
-
-I    I    I
-
-
-000
 
 
 -^-^     III  A    A^^^VV^     A     AAAAAA     J\     ^        ^  -^  ^^      I
@@ -11598,10 +10877,7 @@ I    I    I
 AAAA/^A  <C;II>  AAA/'AA    AAAAAA    .V^A/\A    [Tl
 
 
-I        I       I
-
 AA/W\A
-AAAAAA
 
 
 Ji     I    M
@@ -11636,7 +10912,6 @@ AAAA^\    I       I       I
 
 
 AA^/W.
-I        I        I
 
 
 lQ_  A^VvAA
@@ -11648,9 +10923,6 @@ P?k
 
 
 AA/W\A     AAAAAA     AAAAAA
-
-
-I    I    I
 
 
 ■f^  000  ^'^'^'^
@@ -11711,12 +10983,6 @@ Senthes.
 "  beneath  the  waters,  and  are  in  [his]  following,  and
 "  whose  souls  have  life."
 5.  A  lake  of  water.
-
-
-230
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 6.  Four  female  figures,  each  bearing  a  serpent  on  her
@@ -11869,9 +11135,6 @@ The  Boat  of  the  Sun  in  the  Eleventh
 Division  of  the  Tuat.
 
 
-234  THE    BOOK   OF   AM-TUAT
-
-
 I
 
 I    AWVAA
@@ -11919,11 +11182,6 @@ Atlipi.  Kriiicnu.
 I'itp).
 
 
-236
-
-
-THE    BOOK    OF    AM-TUAT
-
 8.  Shepu,  ^  D  ^  .
 
 9.  Neteku,  ^=^^  v\ .
@@ -11966,9 +11224,6 @@ Ji   0
 ^
 
 
-1
-
-
 1      D
 
 
@@ -12001,7 +11256,6 @@ I    I     I     I   c:±:f:=
 
 
 A/V\/\AA
-I        I        I
 
 
 S^fl
@@ -12028,9 +11282,6 @@ DIM  _B^(^3)i  I    I    I
 [-77-1  f=^.J^
 
 
-I  I  I
-
-
 4  ^  ^    rOn
 
 
@@ -12040,9 +11291,6 @@ ci  n  c>  D  I  I  1
 I  i  I  ®  ^
 
 I       I        I    f  J\  j\  I      IWV^/V\
-
-
-1
 
 
 I     D
@@ -12098,9 +11346,6 @@ whose   feet  are  firm,  who   perform  the  journe}'ings
 '  darkness  and  hath  taken  up  his  place  in  the  liorizon."
 
 
-238  THE    BOOK   OF   AM-TUAT
-
-
 3,  The  serpent  Sem-shet,  "'^^i         .     On  his  back
 
 rests  the  Eecl  Crown,  and  in  an  angle  of  it  is  a  human
@@ -12144,7 +11389,6 @@ White  Crown.
 
 ELEVENTH  DIVISION — RE-EN-QERERT-APT-KHATU  239
 
-AAAAAA
 
 8.  Neith  the  Young,
 
@@ -12153,12 +11397,6 @@ D
 
 
 I     /VVAAAA    I I
-
-
-I      I     I
-
-
-1
 
 
 I     D
@@ -12206,12 +11444,6 @@ Above  the  upper  register  is  a  line  of  text,  which  reads
 ^
 
 
-240
-
-
-THE    BOOK    OF    AM-TUAT
-
-
 (*=u)
 
 
@@ -12257,9 +11489,6 @@ D    ;
 "  and  eternally."
 
 
-0
-
-
 In  the  upper  register  are : —
 
 1.  The  god  Aper-hi!a-neb-tchetta,     d
@@ -12288,9 +11517,6 @@ I      AftAAAA
 A
 
 
-0
-
-
 ^  j^
 
 
@@ -12316,8 +11542,7 @@ serpent's  wings.     The  text   reads :
 ^i^vf=T:n'"
 
 
-The  god  Aper-hni-neb-
-tchetta.
+The  god  Aper-hni-nebtchetta.
 
 
 @lll
@@ -12338,9 +11563,6 @@ When   this   U'od  crieth   out  to  him   that  is  in
 li
 
 
-THE    BOOK   OF  AM-TUAT
-
-
 Ijack ;  above  the
 god  is  written
 " TcHET-s,"  i.e.,  "its
@@ -12357,9 +11579,6 @@ The     text     reads :
 
 
 Ifi^^k
-
-
-I       I       I
 
 
 :±^   I
@@ -12396,7 +11615,6 @@ head  faces  to  the  right  and  the  other  to  the  left.
 5.  The  god  Khnem-renit,  <^  ^"^^^  flfl  ^=^5  ram-headed,
 holding  I  in  his  right  hand,  and  -V-  in  his  left.
 
-AAAAAA
 
 G.  The    god    Nerta,    <=> ^
 
@@ -12446,12 +11664,6 @@ in  similar  form.
 
 
 in  similar  form.
-
-
-244
-
-
-THE    BOOK    OF    AM-TUAT
 
 
 13.  The  god  Maa,  ^ ,
@@ -12532,8 +11744,6 @@ i         /VV^VVNA         >\AAAv%AA  I         *         I
 
 A<<VAV»«  ^^^  /WVVWV\
 
-I    I   I
-
 
 Hepa.
 
@@ -12546,12 +11756,6 @@ Mail.
 
 Tua-Hcru.
 
-
-AAAAAA
-I        I        I
-
-
-246  THE    BOOK    OF    AM-TUAT
 
 p/y^l      Y(?)  AAAAAA         7V      ^. Q     A/WW\
 
@@ -12567,9 +11771,6 @@ I    ^    I  1  1     Jr  [z^<cz^  V^
 
 
 u1
-
-
-1
 
 
 I     D  0-=-  ^^-^    <^
@@ -12642,8 +11843,6 @@ Mer-cut-neteru.
 Ncrt-iilnii.
 
 
-248  THE    BOOK   OF   AM-TUAT
-
 which  lie  side  by  side,  and  appear  to  issue  from  her
 feet ;  her  left  hand  grasps  the  body  of  one  serpent,  and
 her  right  is  held  up  before  her  face.     Her  name  is
@@ -12712,11 +11911,9 @@ long  staff,  and  hold-         "~^  "
 ing  in  his  left  hand
 a  boomerang,  one
 end  of  which  is  in
-the  form  of  a  ser-
-pent's head.
+the  form  of  a  serpent's head.
 
-2.  A  huge  ser-
-pent, called  the
+2.  A  huge  serpent, called  the
 "  Everlasting   Set,"
 
 standiny;
@@ -12741,12 +11938,6 @@ Q  a.
 
 
 The  pit  of  fire,  I.Iatet-ketits.
-
-
-250
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 The  pit  of  fire,  Hatet-hanta-s.
@@ -12842,12 +12033,6 @@ ci      ©     Y\  I ,  i.e.,  "the    valley  of    those  who   are
 turned  upside  down."
 
 
-252
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 9.  Four    goddesses,    each    one   with    the    sign    for
 "  eastern  desert "  on  her  head  ;  their  names  are : —
 
@@ -12927,12 +12112,7 @@ J\
 III
 
 
-I     I     I
-
-
 vwvv\
-
-I  I  I
 
 
 1.11        I
@@ -12974,12 +12154,6 @@ The  god  Her-utu-f,
 Salt.
 
 
-254
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 I  I  I  J©  Jr
 
 
@@ -12990,9 +12164,6 @@ I  I  I  J©  Jr
 
 
 q
-
-
-I       I       I
 
 
 ^oiS
@@ -13128,15 +12299,6 @@ Ol       LJ    A^/VWv    A    AAAAA^       I     AWvAA    — — xJ     _ilC^  
 -/-TV^    I—  -^^^  ~  1    I    yvwvw
 
 
-AAAAAA
-
-
-1
-
-1
-
-1
-
 h  1      ^    D
 
 ^
@@ -13147,9 +12309,6 @@ rooo"
 
 AAyVWN
 |_/VVW\A_
-
-
-AAAAAA
 
 
 ^  AAAAAA     III  ^  '— '
@@ -13253,12 +12412,6 @@ I  ^  w
 I  I     ^  l_^  ^
 
 
-258
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 Mm\
 
 
@@ -13318,9 +12471,6 @@ nsu
 .tr-"
 
 
-1
-
-
 ^  D
 
 
@@ -13360,8 +12510,6 @@ a
 "  heaven,  and  Shu  receiveth  him,  and  he  cometli  into
 ''  beiny;  in  the  East."
 
-
-260  THE    BOOK   OF   AM-TUAT
 
 2.  Twelve  gods,  who  are  occupied  in  towing  along
 the  boat  of  the  Sun,  each  with  his  head  turned  behind
@@ -13413,9 +12561,6 @@ lll^l    I    iJ^I      S^37_S3^     J\     nil      I
 ^  _2I       III       D         !•       A^A/VW       1       LI       I       <»    '       ^    _Cr^       U    ^/\A/V\A         I
 
 
-1
-
-
 O     I
 
 
@@ -13445,8 +12590,6 @@ her,  and  is  looking  at  the  boat.     Their  names  are : —
 
 2.  Kheru-utciiat,  '^^00
 
-
-262  THE    BOOK    OF    AM-TUAT
 
 3.  Khet,  J  Q .
 
@@ -13521,8 +12664,6 @@ co<i'^o9D(iillil;
 
 W
 
-
-264  THE    BOOK   OF   AM-TUAT
 
 "  who  are  here  are  they  who  have  their  bodies,  and
 "  they  come  forth  in  the  following  of  this  great  god
@@ -13610,8 +12751,6 @@ Six  goddesses  with  flerj'  serpents.
 5.  Seuatchet-atebui-pet,  H  ^  I         »
 
 
-266  the  book  of  am-tuat
-
 6.  Hat-em-taui-s
 
 7.  Qat-em-sepu-s,  T  ^s,^
@@ -13698,9 +12837,6 @@ I 1    111^  /\        AAAAA^
 a      ^3    AAAAAA
 
 
-1
-
-
 1   I  I  _M^  ^  n
 
 
@@ -13719,9 +12855,6 @@ f^PI^^^&Sls^if
 
 
 ^  n
-
-
-AAAAAA  1—1
 
 
 1     S     W
@@ -13761,12 +12894,6 @@ o
 "  their  own  abodes.  They  give  pleasure  to  the  hearts
 "  of  the  gods  of  Amentet  through  Ra-Heru-khut,  and
 "  their  work  upon  the  earth  is  to  drive  away  those  who
-
-
-268
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 "  are  in  the  darkness  by  the  flames  of  their  uraei  which
@@ -13889,12 +13016,6 @@ ra   D   ill
 .(?)
 
 
-270
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 I     I      I   A/y^/v^A
 
 
@@ -13907,16 +13028,7 @@ I     I      I   A/y^/v^A
 \        ^
 
 
-I  I   I
-
-
-I        I        I
-
-
 D
-
-
-1
 
 
 ra
@@ -13972,9 +13084,6 @@ THE   TWELFTH    DIVISION — THEN-NETERU      271
 2.  The  goddess  Nut,
 
 
-000
-
-
 lioldin
 
 
@@ -14015,16 +13124,13 @@ and  holding  a  paddle.
 9.  The    deity   Nesmekhef,    ^"^  ^\      ®  ,   in    the
 
 
-272  THE    BOOK    OF    AM-TUAT
-
 form   of  a  serpent,  which   pours  forth   fire   from   its
 mouth.
 
 10.  The  god  Neba-khu,   \\\\    ^s  1  ,  man-headed,
 and  holding  a  paddle.
 
-11.  The  god   Khenti-tiietii-f,   JU  q  w  g=> .    man-
-headed,  and  holding  a  paddle.
+11.  The  god   Khenti-tiietii-f,   JU  q  w  g=> .    manheaded,  and  holding  a  paddle.
 
 12.  The  god  Aha-ab,  i  t^,  man-headed,  and  holding
 a  paddle.
@@ -14047,7 +13153,6 @@ Sekhennu,    ©     VX  .
 Ekmexu,  ,1--^  Vi> .
 
 KhEXNU-ERMEX,  a^^s^aa  ^t-^  .
-0
 
 Khu-ee,
 
@@ -14101,12 +13206,6 @@ Gods  wto  praise  Ra  at  sunrise.
 Gods  who  praise  RS  at  sunrise.
 
 
-274
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 Athep,  h  ^^.
 Am-netek,  -|h  I .
 The  texts  relating  to  these  gods  read : — 1.  -^^^^^  rwvAAA-i
@@ -14138,9 +13237,6 @@ Gods  who  praise  Ra  at  sunrise.
 
 
 Ill    ^   ^  n
-
-
-I  I  I.
 
 
 "^
@@ -14212,8 +13308,6 @@ D
 fJ
 
 
-AAAAAA
-
 O    III       J\      ^i^^!^         II
 
 
@@ -14227,9 +13321,6 @@ AAAAAA  I  I  I     K
 
 
 O
-
-
-1
 
 
 -         ■  "     C'-)  I  |— I  AA/yvVV
@@ -14252,14 +13343,11 @@ I  11    ^    ^  o
 
 A^^AA^
 
-AAAAAA    .       ,       1
 AAAAAA    I       I       I
 
 
 D
 
-
-I   I   I
 
 A^/^A^^
 
@@ -14285,12 +13373,6 @@ f    AAAAAA  AAAAAA     \- -i     J^.  I  r\      AAA/V\A     <>-=;=>    ^
 ^37
 
 
-276
-
-
-THE    BOOK   OF   AM-TUAT
-
-
 f
 
 
@@ -14301,9 +13383,6 @@ D
 
 
 ifll
-
-
-I        I        I
 
 
 ^
@@ -14319,9 +13398,6 @@ Z]
 
 
 A/VV\AA     w;
-
-
-1
 
 
 ©   D
@@ -14361,15 +13437,10 @@ I  AAAAAA  ^  «  Those  who  are  in  this  picture  are  behind
 The  exit  of  Ra  from  the  Tuat,  i.e.,  Sunrise.
 
 
-278
-
 4.
 
 
 fl
-
-
-THE    BOOK   OF   AM-TUAT
 
 
 li  I

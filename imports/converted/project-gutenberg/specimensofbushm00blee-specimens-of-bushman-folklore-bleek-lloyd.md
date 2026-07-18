@@ -19,9 +19,6 @@ AND
 LC.LLcrm
 
 
-1
-
-
 nlmauetionfcy  Geo.M^  CallTkaUittI>LLD.
 
 
@@ -120,7 +117,6 @@ s
 
 en   2
 
-2
 
 en  £
 
@@ -163,7 +159,6 @@ r
 
 s
 
-1
 
 i
 
@@ -185,9 +180,6 @@ en  ^
 
 cm   B
 
-1
-
-1
 
 i
 
@@ -206,7 +198,6 @@ c
 
 ^>
 
-1
 
 i
 
@@ -221,7 +212,6 @@ r
 
 ;
 
-1
 
 r  '
 
@@ -249,7 +239,6 @@ i —
 
 (V;
 
-1
 
 By
 
@@ -271,9 +260,6 @@ An
 
 l»
 
-3
-
-1
 
 en  !5
 
@@ -283,7 +269,6 @@ o
 
 *
 
-1
 
 1         5
 
@@ -293,7 +278,6 @@ r
 
 s
 
-1
 
 [
 
@@ -303,7 +287,6 @@ Cl
 
 :
 
-1
 
 en    ^
 
@@ -375,9 +358,6 @@ Digitized  by  the  Internet  Archive
 in  2012  with  funding  from
 
 University  of  North  Carolina  at  Chapel  Hill
-
-
-http://archive.org/details/specimensofbushmOOblee
 
 
 BUSHMAN  FOLKLORE.
@@ -521,8 +501,6 @@ II
 
 *
 
-0
-
 
 X
 
@@ -532,8 +510,7 @@ y
 a  strong  croaking  sound  in  the  throat,
 a  gentle  croaking  sound  in  the  throat,
 the  nasal  pronunciation  of  a  syllable.
-=»  under    vowels,    indicates    a    rough,    deep    pro-
-nunciation of  them.
+=»  under    vowels,    indicates    a    rough,    deep    pronunciation of  them.
 ■"-"-  indicates  the  raised  tone.*
 =  indicates    that    the    syllable    under    which    it
 stands  has  a  musical  intonation.
@@ -560,8 +537,7 @@ There   is   also    occasionally  a  consonantal
 sound    met    with    in    Bushman    between
 r,  n,  and  1.
 A  description  of  how  to  make  the  first  four  clicks,
-in  this  list,  follows;  taken  from  Dr.  Bleek's  "Com-
-parative   Grammar  of    South   African    Languages",
+in  this  list,  follows;  taken  from  Dr.  Bleek's  "Comparative   Grammar  of    South   African    Languages",
 Part  I,  Phonology,  pp.  12  and  13.
 
 The  dental  click  I  is  sounded  by  pressing  the  "tip
@@ -747,8 +723,7 @@ u  relationship  between  the  language  spoken  by  the
 "  named,  bears  a  good  deal  of  resemblance  to  the
 "  Mantis,  in  the  mythology  of  the  Bushmen.     The
 
-[*]  It  will  be  observed  that,  in  some  instances,  in  the  earlier-
-collected  Ykun  texts,  given  in  the  Appendix,  the  mark  II  has  been
+[*]  It  will  be  observed  that,  in  some  instances,  in  the  earliercollected  Ykun  texts,  given  in  the  Appendix,  the  mark  II  has  been
 used  to  denote  the  lateral  click,  in  words  where  this  differed
 slightly  in  its  pronunciation  from  the  ordinary  lateral  click,  ||.
 Later,  this  attempt  to  distinguish  these  two  sounds  apart  was
@@ -784,8 +759,7 @@ gemsbok,  quaggas,  ostriches,  etc.,  at  a  place  named
 Miami,  where  these  animals  used  to  drink  before
 the  coming  of  the  Boers.  Some  other  drawings
 made  by  Dia\fovam,  as  well  as  a  few  by  \hah$kass'!d,
-and  the  \kun  boys,  will  be  found  among  the  illus-
-trations. In  the  arrangement  of  these,  it  has  not
+and  the  \kun  boys,  will  be  found  among  the  illustrations. In  the  arrangement  of  these,  it  has  not
 been   easy  to   place   them   appropriately  as   regards
 
 *>s  Taken  from  "A  Short  Account  of  further  Bushman  Material
@@ -926,30 +900,8 @@ Ddi-j(erreten,  the  Lioness,  and  the  Children
 The  Mason  Wasp  and  his  Wife     ....
 
 
-44
-
 56  "•*'
 66^
-
-
-72
-78
-80
-84
-
-
-100
-112
-
-
-122
-124
-126
-136
-144
-154
-162
-170
 
 
 XV111
@@ -968,14 +920,6 @@ The  Girl's  Story ;  the  Frogs'  Story       .
 The  Man  who  ordered  his  "Wife  to  cut  off  his  Ears
 The  tyierru  and  her  Husband
 The  Death  of  the  Lizard      ....
-
-
-174
-192
-198
-204
-206
-214
 
 
 VI.     Poetry.
@@ -1002,20 +946,6 @@ The  Broken  String       .......
 The  Song  of  \nu\numma-Vuviten    .....
 
 
-220
-222
-224
-228
-
-230
-230
-232
-234
-234
-236
-238
-
-
 B.     HISTORY    (NATURAL    AND    PERSONAL).
 
 VII.     Animals  and  their  Habits — Adventures  ivith  them —
@@ -1023,14 +953,6 @@ VII.     Animals  and  their  Habits — Adventures  ivith  them —
 and  Hunting.
 
 The  Leopard  and  the  Jackal         .         .         .         .         .         .244
-
-244
-246
-254
-254
-258
-260
-270
 
 
 Doings  of  the  Springbok
@@ -1051,11 +973,6 @@ Certain  Hunting  Observances,  called  bianna-ss
 
 with  regard  to  the  Treatment  of  Bones  .
 Tactics  in  Springbok  Hunting
-
-
-274
-
-284
 
 
 CONTENTS.
@@ -1141,37 +1058,9 @@ which  direction  they
 as  \naxane
 
 
-328
-330
-330
-338
-342
-348
-348
-350
-
-352
-358
-360
-362
-364
-364
-372
-374
-378
-
-380
-
 384'
 
 388~
-
-
-404
-404
-404
-404
-406
 
 
 XX  CONTENTS.
@@ -1275,27 +1164,9 @@ Taken  at  Salt  River  in  1884.
 Frontispiece.
 To  precede  page  1
 To  face  page  42
-70
 
 
 )>   >>
-
-
-98
-120
-
-
-172
-172
-
-218
-
-242
-288
-
-288
-
-326
 
 
 XX11
@@ -1305,9 +1176,6 @@ LIST    OF    ILLUSTRATIONS.
 
 
 23.
-
-
-24
 
 
 (20)  Bietfontein.
@@ -1661,8 +1529,7 @@ strong   reason    for   believing    that   in   ancient    times
 they  occupied  the    territory  now  called   Somaliland.
 The  references   to  Punt  in  early  Egyptian  history,
 and   the   portrait    of   the   queen   of  that  country  so
-often  described  by  different   writers,    may  be   men-
-tioned   as    one    of    the    indications    leading    to    this
+often  described  by  different   writers,    may  be   mentioned   as    one    of    the    indications    leading    to    this
 belief.      Another,    and    perhaps    stronger,    indication
 is  the  large  number  of  drilled   stones   of  the  exact
 size   and   pattern   of  those   used   by  the  Hottentots
@@ -1671,8 +1538,7 @@ manufactured  by  Bushmen  —  that  have  been  found
 in  Somaliland,  an  excellent  collection  of  which  can
 be    seen    in    the    ethnological    museum    in    Berlin.
 The   Hottentots,   according   to   their  own  traditions,
-came  from  some  far  distant   country  in   the   north-
-east,   and    they    cannot    have    crossed    the    Kunene
+came  from  some  far  distant   country  in   the   northeast,   and    they    cannot    have    crossed    the    Kunene
 many   centuries    before   Europeans    made    their  first
 appearance  at  the  extremity  of  the  continent.     This
 is  conclusively  proved  by  the  fact  that  the  dialects
@@ -1719,8 +1585,7 @@ as   well.
 
 By  the  Hottentots  and  the  Bantu  the  Bushmen
 were  regarded  simply  as  noxious  animals,  and
-though  young  girls  were  usually  spared  and  incor-
-porated in  the  tribes  of  their  captors  to  lead  a  life
+though  young  girls  were  usually  spared  and  incorporated in  the  tribes  of  their  captors  to  lead  a  life
 of  drudgery  and  shame,  all  others  who  could  be
 entrapped  or  hunted  down  were  destroyed  with  as
 little  mercy  as  if   they  had    been   hyenas.     On  the
@@ -1753,15 +1618,13 @@ of  one  of  the  most  interesting  savage  races  of  the
 earth,  a  race  that  there  is  good  reason  to  believe
 once  extended  not  only  over  Africa,  but  over  a
 large  part  of  Europe,  over  South-Eastern  Asia, —
-where  many  scientists  maintain  it  is  now  repre-
-sented by  the  Semang  in  the  Malay  peninsula,  the
+where  many  scientists  maintain  it  is  now  represented by  the  Semang  in  the  Malay  peninsula,  the
 Andamanese,  and  some  of  the  natives  of  the  Philippine
 islands, — and  possibly  over  a  much  greater  portion
 of  the  world's  surface,  a  race  that  had  made  little,
 if  any,  advance  since  the  far  distant  days  when
 members  of  it  shot  their  flint-headed  arrows  at
-reindeer  in  Prance,  and  carved  the  figures  of  mam-
-moths and  other  now  extinct  animals  on  tusks  of
+reindeer  in  Prance,  and  carved  the  figures  of  mammoths and  other  now  extinct  animals  on  tusks  of
 ivory    in    the    same    fair    land.      It    was    truly    an
 
 
@@ -1920,10 +1783,8 @@ of  that  race  was  to  be  preserved,  not  a  day  must
 be  lost  in  securing  it.
 
 To  abandon  a  work  in  which  fame  had  been  gained,
-which  offered  still  further  celebrity  in  its  prosecu-
-tion, and  to  devote  himself  entirely  to  a  new  object,
-simply  because  the  one  could  be  completed  by  some-
-body else  at  a  future  time,  and  the  other,  if  neglected
+which  offered  still  further  celebrity  in  its  prosecution, and  to  devote  himself  entirely  to  a  new  object,
+simply  because  the  one  could  be  completed  by  somebody else  at  a  future  time,  and  the  other,  if  neglected
 then,  could  never  be  done  at  all,  shows  such  utter
 devotion  to  science,  such  entire  forgetfulness  of  self,
 that  the  name  of  Dr.  Bleek  should  be  uttered  not  only
@@ -1933,16 +1794,14 @@ in  the  world  to-day  who  would  follow  so  noble  an
 example  ?
 
 The  task  now  before  him  was  by  no  means  a  simple
-or  an  easy  one.  The  few  pure  Bushmen  that  re-
-mained alive  were  scattered  in  the  wildest  and  most
+or  an  easy  one.  The  few  pure  Bushmen  that  remained alive  were  scattered  in  the  wildest  and  most
 inaccessible  parts  of  the  country,  and  it  would  have
 been  useless  to  search  for  them  there.  A  traveller
 indeed,  who  was  prepared  to  live  in  a  very  rough
 manner  himself,  might  have  found  a  few  of  them,
 but  his  intercourse  with  them  would  necessarily
 have  been  so  short  that  he  could  not  study  them
-thoroughly.  But,  fortunately  for  science,  unfortu-
-nately for  the  wretched  creatures  themselves,  the
+thoroughly.  But,  fortunately  for  science,  unfortunately for  the  wretched  creatures  themselves,  the
 majesty  of  European  law  had  brought  several  of
 them  within  reach.  That  law,  by  a  proclamation  of
 the  earl  of  Caledon,  governor  of  the   Cape    Colony,
@@ -1998,8 +1857,7 @@ But  he,  though  he  could  not  argue  the  matter,
 and  regarded  it  as  the  most  natural  thing  in  the
 world  for  the  strong  to  despoil  the  weak,  being  the
 feeble  one  himself  resented  this  treatment.  He  was
-hungry  too,  terribly  hungry,  for  the  means  of  suste-
-nance in  the  arid  wastes  where  he  was  making  his
+hungry  too,  terribly  hungry,  for  the  means  of  sustenance in  the  arid  wastes  where  he  was  making  his
 last  stand  were  of  the  scantiest,  and  he  longed  for
 meat,  such  meat  as  his  fathers  had  eaten  before  the
 Hottentots  and  the  big  black  men  and  the  white
@@ -2018,8 +1876,7 @@ and  it  must  be  added  so  feared  were  his  poisoned
 arrows,  that  it  was  a  rare  thing  for  him  to  be  captured.
 Once  in  a  while,  however,  he  was  made  a  prisoner,
 and  then  if  it  could  be  proved  that  he  had  killed
-a  shepherd  he  was  hanged,  but  if  he  could  be  con-
-victed of  nothing  more  than  slaughtering  other  men's
+a  shepherd  he  was  hanged,  but  if  he  could  be  convicted of  nothing  more  than  slaughtering  other  men's
 oxen  and  sheep  he  was  sent  to  a  convict  station  for
 a  few  years.
 
@@ -2031,8 +1888,7 @@ INTRODUCTION.  XXXV11
 
 he  wanted.  There  were  two  in  particular,  whose
 terms  of  imprisonment  had  nearly  expired,  and  who
-were  physically  unfit  for  hard  labour.  The  govern-
-ment permitted  him  to  take  these  men  to  his  own
+were  physically  unfit  for  hard  labour.  The  government permitted  him  to  take  these  men  to  his  own
 residence,  on  condition  of  locking  them  up  at  night
 until  the  remainder  of  their  sentences  expired.  After
 they  had  returned  to  the  place  of  their  birth,  two
@@ -2061,8 +1917,7 @@ Before  the  results  of  such  prolonged  labour  were
 ready  for  publication,  but  not  until  a  very  large
 quantity  of  valuable  matter  had  been  collected,  to  the
 great  loss  of  students  of  man  everywhere  Dr.  Bleek
-died,  17th  of  August  1875.  Miss  Lloyd  then  con-
-tinued during  some  years  to  collect  further  material
+died,  17th  of  August  1875.  Miss  Lloyd  then  continued during  some  years  to  collect  further  material
 from  various  individuals  of  the  Bushman  race,  and
 after   adding  greatly  to   the   stock    on  hand   at   her
 
@@ -2097,8 +1952,7 @@ here,  as  the  book  speaks  for  itself.  The  religion
 of  the  Bushmen  is  made  as  clear  from  their  own
 recitals  as  such  a  subject  can  be,  when  it  is
 remembered  that  the  minds  of  the  narrators  were
-like  those  of  little  children  in  all  matters  not  con-
-nected with  their  immediate  bodily  wants.  Their
+like  those  of  little  children  in  all  matters  not  connected with  their  immediate  bodily  wants.  Their
 views  concerning  the  sun,  moon,  and  stars  seem
 utterly  absurd,  but  a  European  child  five  or  six
 years  of  age,  if  not  informed,  would  probably  give
@@ -2161,8 +2015,7 @@ verbs  were  almost,  if  not  quite,  as  complete  and
 expressive  as  our  own.  The  myths  indicate  a  people
 in  the  condition  of  early  childhood,  but  from  the
 language  it  is  evident  that  in  the  great  chain  of
-human  life  on  this  earth  the  pygmy  savages  repre-
-sented a  link  much  closer  to  the  modern  European
+human  life  on  this  earth  the  pygmy  savages  represented a  link  much  closer  to  the  modern  European
 end  than  to  that  of  the  first  beings  worthy  of  the
 name  of  men.
 
@@ -2175,9 +2028,6 @@ A.   MYTHOLOGY,  FABLES,  LEGENDS,
 AND  POETRY.
 
 1.    The  Mantis.
-
-
-SPECIMENS    OF    BUSHMAN   FOLKLORE.
 
 
 I.— 13.
@@ -2237,8 +2087,7 @@ THE    MANTIS     ASSUMES     THE     FORM     OF
 A    HARTEBEEST.
 
 The  Mantis  is  one  who  cheated  the  children,  by  (2281)
-becoming  a  hartebeest,  by  resembling  a  dead  harte-
-beest.  He  feigning  death  lay  in  front  of  the  children,
+becoming  a  hartebeest,  by  resembling  a  dead  hartebeest.  He  feigning  death  lay  in  front  of  the  children,
 when  the  children  went  to  seek  gambroo  (\ku%,  a
 sort  of  cucumber) ;  because  he  thought  (wished)  that
 the  children  (  )  should  cut  him  up  with  a  stone  knife,  (2282)
@@ -2248,8 +2097,7 @@ The   children   perceived   him,  when   he   had   laid
 himself  stretched  out,  while  his  horns  were  turned
 backwards.    The  children  then  said  to  each  (  )  other:  (2283)
 "It  is  a  hartebeest  that  yonder  lies ;   it  is  dead."
-The  children  jumped  for  joy  (saying)  :    "  Our  harte-
-beest !  we   shall  eat  great   meat."     They  broke   off
+The  children  jumped  for  joy  (saying)  :    "  Our  hartebeest !  we   shall  eat  great   meat."     They  broke   off
 stone  knives  by  striking  (one  stone  against  another),*
 they  skinned  the  Mantis.     (  )  The  skin  of  the  Mantis  (2284)
 snatched  itself  quickly  out  of  the  children's  hands.
@@ -2263,14 +2111,11 @@ it;  for,  the  hartebeest  appears  to  have  died  of  itself.
 Although  the  hartebeest  is  fat,  (yet)  the  hartebeest
 has  (  )  no  shooting  wound."  (2286)
 
-Her  elder  sister  cut  off  a  shoulder  of  the  harte-
-beest, and  put  it  down  (on  a  bush).  The  hartebeest's
+Her  elder  sister  cut  off  a  shoulder  of  the  hartebeest, and  put  it  down  (on  a  bush).  The  hartebeest's
 shoulder  arose  by  itself,  it  sat  down  nicely  (on  the
 
 *  They  break  off,  by  striking  with  one  stone  against  another.
 
-
-4  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 Ik'wa  llgaiten  lie,  hin  ui  ;  hin  ss'oen  akken,  au  hin
 
@@ -2282,8 +2127,7 @@ Ikau  hho  jk'wa  llg&iko,  ban  llkau  llko  hi  au  Oh6.    Hin
 llken-1  hi.
 
 Ha  llka^aikogen  Ikau  Ikam  jk'wa  tteko.  Hin
-tkakken,  ti  e :  "  Ik'wa,  a  a,  ha  en-dn  dda  Ine  ddarra-
-ken* ;  he  y6a  e,  hi  *kd-i,  1."
+tkakken,  ti  e :  "  Ik'wa,  a  a,  ha  en-dn  dda  Ine  ddarraken* ;  he  y6a  e,  hi  *kd-i,  1."
 
 (2289)  Hin  di  Ik&mmen ;  Ikukogen  (  )  tkakka  jkiiko  :
 "  Ikao  Ikwa  IkVa,  Ikhdu,  llyaOua  se  Ikammen  Ik'wa
@@ -2322,8 +2166,7 @@ THE   MANTIS   IN   E0RM    OF   A   HARTEBEEST.  5
 other  side  of  the  bush),  while  it  placed  itself  nicely.
 She  (then)  cut  off  a  thigh  of  the  hartebeest,  (  )  and  (2287)
 put  it  down  (on  a  bush) ;  it  placed  itself  nicely  on
-the  bush.  She  cut  off  another  shoulder  of  the  harte-
-beest, and  put  it  upon  (another)  bush.  It  arose,  and
+the  bush.  She  cut  off  another  shoulder  of  the  hartebeest, and  put  it  upon  (another)  bush.  It  arose,  and
 sat  upon  a  soft  (portion  of  the)  bush ;  as  it  felt  that
 the  bush  (upon  which  the  child  had  laid  it)  (  )  (2288)
 pricked  it.
@@ -2361,8 +2204,6 @@ really  dies  is  that  his  flesh  feels  cool.  "While  it  feels  that  it  i
 cold,  (  )  his  flesh  becomes  very  cold.  This  is  the  reason  why  his  (2290')
 flesh  dies.
 
-
-6  SPECIMENS   OF   BUSHMAN   FOLKLORE.
 
 haka  aka  Ikarroken  ssiitten  I'hin  hi  au  i  Iwka.     latta
 
@@ -2403,8 +2244,7 @@ Ha   llkavaiten   Iwke  ha:    "  llkhweillkhw^ita    Ikuss'a;
 jkwan  tkakka  ha  llka^ai :    "  jk'wa  kan  ts'unn  n  au
 jk'wa  ts'a^au ;   Jk'wagen  sin  ka,  n  Ik&m  d  jhau  au  ha
 
-^99 01'  \  *  ^an^s  speech,  translated  into  common  Busliman  thus  :  "  jkhwa-
-wwej  jhau  kan  jaun  jkhe  n  ts'a^au.  Ikam  6a-ki  jhau ;  jhau  kan
+^99 01'  \  *  ^an^s  speech,  translated  into  common  Busliman  thus  :  "  jkhwawwej  jhau  kan  jaun  jkhe  n  ts'a^au.  Ikam  6a-ki  jhau ;  jhau  kan
 !khg  jhan-a  h  ts'a^au."
 
 
@@ -2421,8 +2261,7 @@ on  the  hartebeest's  head,  she  called  to  her  sisters  :
 head  is  not  light."  Her  sisters  taking  hold  of  her
 help  her  up.
 
-They  go  away,  they  return  (home).     The  harte-
-beest's head  slips  downwards,  because  the  Mantis's
+They  go  away,  they  return  (home).     The  hartebeest's head  slips  downwards,  because  the  Mantis's
 head  wishes  to  stand  on  the  ground.     (  )  The  child  (2293)
 lifts   it   up   (with    her    shoulders),    the    hartebeest's
 head  (by  turning  a  little)  removes   the  thong  from
@@ -2450,8 +2289,6 @@ yet  known  to  the  editor.
 
 f  The  child  lay  upon  her  back  upon  the  hartebeest's  head.
 
-
-8  SPECIMENS   OF   BUSHMAN   FOLKLORE.
 
 (2297)  ts'a^au.  H^  (  )  yfa  e,  jk'wa  Ina  llSkoenlltfkoenya
 llnunta  n  ts'e^u."
@@ -2539,13 +2376,10 @@ each  other.
 %  The  Mantis's  thigh  sprang  forward  like  a  frog.
 
 
-10  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 (2304)  lino  iiitu.  Ikaggen  llgaikogen  (  )  jku^e  liss'a,  au  hiii
 tatti  e,  Ikaggen  laurijaun  Iku  koa  +ud+ua,  au  hin  bbai.
 
-(2305)  jkaukaken  jnaunko  jku^e  lla;  hari  Iku  (  )  jyatten-
-l^atten  ui,  au  han  bbai  Ikauken, — au  hari  Iku  Ine
+(2305)  jkaukaken  jnaunko  jku^e  lla;  hari  Iku  (  )  jyattenl^atten  ui,  au  han  bbai  Ikauken, — au  hari  Iku  Ine
 +urru, — au  ha  Inan  Ine  kuorrekudrre, — au  han  tatti,
 
 /  o  o  /  *
@@ -2612,8 +2446,7 @@ a  hartebeest  which  was   dead.     That  hartebeest,   it
 was  the  one  which  we  cut  up  (  )  with  stone  knives;  (2309)
 its   flesh   quivered.     The    hartebeest's   flesh   quickly
 snatched  itself  out  of  our  hands.     It  by  itself  was  (  )  (2310)
-placing  itself  nicely  upon  bushes  which  were  comfort-
-able ;  while  the  hartebeest  felt  that  the  hartebeest's
+placing  itself  nicely  upon  bushes  which  were  comfortable ;  while  the  hartebeest  felt  that  the  hartebeest's
 head  would  go  along  whispering.     "While  the  child
 who  sits  (there)  carried  it,  (  )  it  talking  stood  behind  (2311)
 the  child's  back."
@@ -2629,8 +2462,6 @@ again.
 f  With  his  left  shoulder  blade,  he  being  a  left-handed  man.
 
 
-12  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 ta'i  Ha ;  he*  e,  Ik'wa  Ina,  Ine  +kakka-ke,  n  Ikani  da  ha
 jhau  au  ha  ts'a^au.     Ta,  Ihiu  jaun  tta,  ha  ts'a^au."
 
@@ -2640,8 +2471,7 @@ luhfttaii?"
 
 -    o
 
-(2314)  jkaukaken  +kakken :  "  Si  (  )  tan  tatti  e,  jk'wa  llkei-
-llkel  llkuan  Una,  Ik'wagen  llkuan  Iki  Ikuki.  Ik'wagen
+(2314)  jkaukaken  +kakken :  "  Si  (  )  tan  tatti  e,  jk'wa  llkeillkel  llkuan  Una,  Ik'wagen  llkuan  Iki  Ikuki.  Ik'wagen
 a  >*auki  Iki  jnwa-ka  ttwi;   au  jk'wagen  tatti  e,  jk'wa
 
 (2315)  yfa  (  )  sse  tkakken.  H^  ti  hin  e,  Ik'wa  Ine  ssan
@@ -2680,8 +2510,7 @@ for  him  the  thong  from  his  eye.  For,  the  thong  lay
 in  front  of  his  eye."
 
 (  )  Her  father  said  to  them  :   "  Have  you  been  and  (2313)
-cut  up  the  old  man,  the  Mantis,  while  he  lay  pre-
-tending to  be  dead  in  front  of  you  ?  "
+cut  up  the  old  man,  the  Mantis,  while  he  lay  pretending to  be  dead  in  front  of  you  ?  "
 
 The   children   said:    "We  (  )  thought   that   the  (2314)
 hartebeest's  horns  were  there,  the  hartebeest  had  hair.
@@ -2716,16 +2545,13 @@ came  out  from  the  place  there  behind."
 The  children  said  to  their  (  )  fathers  :    "  He  has  (2321)
 
 
-14  SPECIMENS   OF   BUSHMAN   FOLKLORE.
-
 (2322)  |kh&  I'hih  ss'e*  Ikaoka  ti  Iketa;  au  hah  ll^koen  (  )  ti
 e,  si  Iku  Ine  Ike*  tau  Ikel  ss'a  llnein.
 
 u  Au  Oa^aiOpua   a,  ha  doa    a,    |k'wa    Ina,  dauko
 
 (2323)  *kakka-ha ;  he  e,  ha  Ine  *kakka-si.  He  ti  (  )  hin  e,
-si  Iku  Ine  jkiijku  te  jk'wa  en-dii ;  siten  Iku  Ine  tgammi-
-tgammi  te  jmiilnui,  si  se  jku%e-ss'i  llkakkenllkakken.
+si  Iku  Ine  jkiijku  te  jk'wa  en-dii ;  siten  Iku  Ine  tgammitgammi  te  jmiilnui,  si  se  jku%e-ss'i  llkakkenllkakken.
 
 (2324)  "  (  )  Au  ha  en-^nyan  Ine  Ikujku^e  Ikann  Uwke  au
 ha  llwk<5e,  hiii  Iku  Igiii  kui  |kalka.     Han  Iku  |ku%e
@@ -2921,8 +2747,6 @@ language,    because    I    feel    that    the    speech   of  the  baboons  i
 not  easy."
 
 
-18  SPECIMENS   OF   BUSHMAN   FOLKLORE.
-
 He,  ha  ha  Ine  |khe  ssa  I.      Han  ha  Ine  kui :    "  jkhu
 
 (6982)  £  ha  ^a  te'da  ?  "  He  (  )  jkhwa  ha  Ine  kui :  "  tf'kan
@@ -2962,8 +2786,7 @@ jkhwa  a  ke."
 He  ha  ha  Ine  jkhe  ssa.     Han  h&  Ine  kiii:    "jkhwa
 a,  ha  %&  te  da?"f     He  jkiikko  ha  Ine  kui:  jkhwa
 
-(6987)  a  kan  ka  han  l^ke,  ha  jkatta  ha  6a  (  )  A  jkhwa-
-jkhwaiten,  ha  6a  sse  jkharro-a  jk'6  e  jkaujkau  juhijuhf
+(6987)  a  kan  ka  han  l^ke,  ha  jkatta  ha  6a  (  )  A  jkhwajkhwaiten,  ha  6a  sse  jkharro-a  jk'6  e  jkaujkau  juhijuhf
 Ikhe,   Ikukenlkuken.  t     He  tfken  e,   Ihulhii  a,  hg  Ine
 
 (6986M  *  According  to  the  narrator,  the  ahove  should  be,  in  Baboons'
@@ -2974,8 +2797,7 @@ DKah  ttumm,
 jlkhuake."
 f  "jlkhu  aha  £a  te  da?"
 
-t  "  llkhu  a,  ha,  kan  ka,  hah  like,  ha  llkatta  ha  6a  a  llkhwa-
-jlkhwalten,  ha  6a,  sse  llkharro-a  jlke  e  jlkaullkau  jluhijluhi  jlkhe,
+t  "  llkhu  a,  ha,  kan  ka,  hah  like,  ha  llkatta  ha  6a  a  llkhwajlkhwalten,  ha  6a,  sse  llkharro-a  jlke  e  jlkaullkau  jluhijluhi  jlkhe,
 ilkukenlfkuken."
 
 
@@ -3029,8 +2851,6 @@ Magistrate,  St.  John's  Territory),  we  find,  on  p.  8,  that  the
 Mantis  sent  one  of  his  sons  to  cut  sticks  to  make  hows,  and  that
 he  was  caught  and  killed  by  the  baboons.
 
-
-20  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 kiii:    "I-i  llkuaii  e;   dken  llkuan.  sse  l^keya  jkoin  Ik6
 
@@ -3270,8 +3090,6 @@ My  companion's  ball,
 And  I  want  it."
 
 
-24  SPECIMENS   OF   BUSHMAN   FOLKLORE.
-
 (6999)  !ne  llkhabbo-i  (  )  jkhwa,  I ;  ti  e,  Ihiilhii  e  Ikha  jkhwa ;
 hi  Ine  ddi  jklmnim  au  jkhwa,  tsa^ati;  hail  Ine  1 1  a
 Ihiilhii,  au  Ihulhiiken  jkJiwumma  Una,  au  jkhwa,  tsa^au.
@@ -3353,14 +3171,11 @@ startled  at  him.f     Then,  while  the  baboons  were  still
 staring  at  him,  he  came  running  to  a  place  where  he
 
 *  The  arrows  they  were,  the  arrows  which  were  in  the  quiver  ;  (7000')
-they  made  a  rattling  noise,  hecause  they  stirred  inside  (it).    There-
-fore, he  said,  "Battling  along,  rattling  along."
+they  made  a  rattling  noise,  hecause  they  stirred  inside  (it).    Therefore, he  said,  "Battling  along,  rattling  along."
 
 f  They  were  not  in  the  habit  of  seeing  him;    therefore  they  (7005')
 stared  at  him.
 
-
-26  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 han  ha  Iku  Ik'atten  ssa  au  ti  e,  han  Iku  tt£  llkhwai ;
 
@@ -3538,8 +3353,6 @@ f  "Give  me  the  ball."
 the  skin  of  young  hartebeests,  which  the  Mantis  had  with  him.
 
 
-30  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
 jyferri-ggii!  u  koa  lid,"  au  Ihulhuken  ha  Ine  ll^koenya,
 ki  llkalten  ha ;   au  han  ha  Ine  llkhou.  llkaiten,  au  han
 
@@ -3573,8 +3386,7 @@ tuituiten   a?"     He*    tiken   e,    Ikaggen   ha    Ine   kii'i :
 
 f  9
 
-11  Ihiilhii  llkuaii  ddoa  e,  Ikha  OpuaOpuaiddi,   Igaunu-
-tsa^au ;  ii  llkuaii  ddoa  Iku  lla,  au  hiii  Jkhumma  Una,
+11  Ihiilhii  llkuaii  ddoa  e,  Ikha  OpuaOpuaiddi,   Igaunutsa^au ;  ii  llkuaii  ddoa  Iku  lla,  au  hiii  Jkhumma  Una,
 
 (7072'")      *  'k^  "ku§n  e  ;  Ikhe  e  llkau  jkhe  jkhoa,  |na  tssi;  hine,  Ixainka
 
@@ -3694,7 +3506,6 @@ D  o  I  3  D  I
 (7083)  ttai  tau  ll^koenya  ssa,  hah  Ine  loiiwi  (  )  jkhwa,  au
 Ikhwah  Ine  Ikara  ss'o.     He*  tiken  e,  Ikhwa  ha  Ine  ttiii
 
-9
 
 ha,  au  hah  Ikoroka  ssa ;   jkhwah  Ine  +hou  lii,  jkhwah
 Ine  le  Ikhoa.     He,  ha  ha  Ine  Iku  ll^ko&i,  Ikhe,  Ikhe,
@@ -3749,8 +3560,6 @@ He   went ;   he    went   to  make  for  the  child  a  front
 
 D
 
-
-34  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 han  Ine   Iku  llan  dda  Ikhwa  lluhi,  hin  k6a  llkoroko.
 
@@ -3833,8 +3642,6 @@ Then  the  young  Ichneumon  spoke  ;  he  said  :  "  Why
 did  my  grandfather,  the  Mantis,  first  say  that  the
 *  Another  article  for  the  child  to  wear.
 
-
-36  SPECIMENS    OF    BUSHMAN   FOLKLORE.
 
 (7092)  ka,  han  l«ke,  Ihnlhri  e  (  )  Ikha  jkhwa,  au  ti  e,  |khwa
 Iku-g  Ine  a  ?  "  He"  ti  hm  e,  Ikaggen  ha  ln^  ta  :  "A
@@ -4004,8 +3811,7 @@ Leopard  Tortoise  held  him  fast.
 The  other  one  had  taken  out  his  hands  (from
 behind  his  back) ;  and  he  exclaimed :  u  Feel  (thou)
 that  which  I  did  also  feel !  "  and  he  showed  the  other
-one  his  hands ;  and  the  other  one's  hands  were  alto-
-gether inside  the  Leopard  Tortoise's  neck.  (  )  And  (4061)
+one  his  hands ;  and  the  other  one's  hands  were  altogether inside  the  Leopard  Tortoise's  neck.  (  )  And  (4061)
 he  arose,  he  returned  home.  And  the  other  one  was
 dashing  £he  Leopard  Tortoise  upon  the  ground ;
 while  he  returning  went ;  and  he  said  that  the  other
@@ -4015,13 +3821,10 @@ is  cut  away,  and  only  one  little  piece  left ;  which  the  Moon
 piteously  implores  the  Sun  to  spare  for  his  (the  Moon's)  children.
 (As  mentioned  above,  the  Moon  is  in  Bushman  mythology  a  male
 being.)  From  this  little  piece,  the  Moon  gradually  grows  again
-until  it  becomes  a  full  moon,  when  the  Sun's  stabbing  and  cutting-
-processes  recommence."  ("A  Brief  Account  of  Bushman  Folk-lore
+until  it  becomes  a  full  moon,  when  the  Sun's  stabbing  and  cuttingprocesses  recommence."  ("A  Brief  Account  of  Bushman  Folk-lore
 and  other  Texts."  By  W.  H.  I.  Bleek,  Ph.D.  Cape  Town,  1875.
 P.  9,  §  16.)
 
-
-40  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 (4062)  (  )  yauki  e,  ha  ssm  le-ta  he.  Ike,  han  Ikuiten  Ha  ;
 Ike"  Ha  llnein.
@@ -4053,9 +3856,6 @@ Dfalkwain.
 
 
 II.    Sun  and  Moon,
-
-
-44  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 
 II.— 15.
@@ -4110,8 +3910,7 @@ THE     CHILDREN    AEE     SENT     TO    THROW
 THE    SLEEPING    SUN    INTO    THE    SKY.
 
 The  children  were  those  who   approached  gently  (487)
-to  lift  up  the  Sun-armpit,  while  the  Sun-armpit  lay-
-sleeping.
+to  lift  up  the  Sun-armpit,  while  the  Sun-armpit  laysleeping.
 
 The  children  felt  that  their  mother  was  the  one
 who  spoke ;  therefore,  the  children  went  to  the  Sun ;
@@ -4141,8 +3940,6 @@ had  no  young  male  children ;  for,  the  other  was  the  one  who  had
 young  male  children  who  were  clever,  those  who  would  understand
 nicely,  when  they  went  to  that  old  man.
 
-
-46  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 au  jgwa^u."  Hin  Ikueda,  hiii  *kakken,  Iniitarraken
 Ikueda,  hail  *kakka  Ikiiko ;  he  ti  hin  e,  Ikiikoken
@@ -4225,12 +4022,9 @@ about  it,  while  she  felt  that  her  head  was  white ;  the
 children  were  listening  to  her,  they  were  listening  to
 their  mamma,  their  mother;  their  mother  told  them
 about  it,  that  which  the  old  woman  in  this  manner
-said.  Therefore,  they  thought  in  this  manner.  There-
-fore, they  went  to  sit  down.  An  older  child  spoke
+said.  Therefore,  they  thought  in  this  manner.  Therefore, they  went  to  sit  down.  An  older  child  spoke
 to  another,  therefore,  they  went  to  sit  down,  while
 
-
-48  SPECIMENS   OF    BUSHMAN   FOLKLORE.
 
 Ikerri-Opua  Ine  4kakka  jkuko,  he  ti  hin  e,  hi  Ine  Han
 (492')  ssuen,  au  hm  |ke|ke  ha  ;  hih  Ine  llan  ssuen.  (  )  Hin
@@ -4275,7 +4069,6 @@ llwei  a.'    N  Ine  Ikueda,  n  +kakken;  n  Ine  tkakken:
 
 o  /  j  o
 
-0
 
 i  Hdrriiki  llkaltau  ha ! '  He"  ti  hiii  e,  Ikauken  Ine  herruki
 llkaiten  ha,  I.  "N  +kakka  jkauken:  '  Ikanh  llwei  yii,
@@ -4309,8 +4102,7 @@ while  thou  art  hot."
 The  old  woman  said  (that)  they  seemed  to  have
 thrown  him  up,  he  seemed  to  be  standing  fast  above.
 They  thus  spoke,  they  in  this  manner  spoke.  Her
-(apparently  the  mother's)  husband  said:  "The  Sun-
-armpit  is  standing  fast  above  yonder,  he  whom  the
+(apparently  the  mother's)  husband  said:  "The  Sunarmpit  is  standing  fast  above  yonder,  he  whom  the
 children  have  thrown  up ;  he  lay,  he  intended  to
 sleep;  therefore,  the  children  have  thrown  him  up."
 
@@ -4362,8 +4154,7 @@ e,  a  ssiii  llkdaken  +^i,  ho  I  la  llga,  i;  a  ssin  ttai  ssa,
 llgagen  ttai  lla.' "
 
 llkoin  yan  ttai  ssa,  llgagen  ttai  Ha,  llkoin  yan
-ttai  ssa,  llkoin  yan  le,  llgagen  ttai  ssa,  Jkau-
-jkarroken  ttai  ssa  au  llga ;  jgaueten  khwai,*  llkoin
+ttai  ssa,  llkoin  yan  le,  llgagen  ttai  ssa,  Jkaujkarroken  ttai  ssa  au  llga ;  jgaueten  khwai,*  llkoin
 yan  Ihiii  ssa,  llgagen  ttai  lla,  llko'in.  yan  ttai  ssa.
 jkaujkarroken  Ihin  ssa,  jkaujkarroken  +^i  llga,  llgagen
 ttai  u  lla ;  Ikaulkarroken  Ihiii  ssa ;  Ikaulkarroken  +yi
@@ -4391,8 +4182,7 @@ either  with  or  without  the  cerebral  click  (!).
 
 THE    SUN    AND    THE    CHILDREN.  51
 
-young  men(?),  they  went  to  throw  up  the  Sun-
-armpit.  They  came  to  speak,  (  )  the  youth  spoke,  (494')
+young  men(?),  they  went  to  throw  up  the  Sunarmpit.  They  came  to  speak,  (  )  the  youth  spoke,  (494')
 the  youth  talked  to  his  grandmother :  u  0  my
 grandmother !  we  threw  him  up,  we  told  him,  that,
 he  should  altogether  become  the  Sun,  which  is  hot ;
@@ -4419,16 +4209,13 @@ darkness,  the  Sun  takes  away  the  moon,  the  moon
 stands,  the  Sun  pierces  it,  with  the  Sun's  knife,  as  it
 stands;  therefore,  it  decays  away  on  account  of  it.
 Therefore,  it  says:  "0  Sun!  leave  for  the  children
-the  backbone  !  "  Therefore,  the  Sun  leaves  the  back-
-bone for  the  children ;  the  Sun  does  so.  (  )  Therefore,  (495)
+the  backbone  !  "  Therefore,  the  Sun  leaves  the  backbone for  the  children ;  the  Sun  does  so.  (  )  Therefore,  (495)
 the  Sun  says  that  the  Sun  will  leave  the  backbone  for
 the  children,  while  the  Sun  assents  to  him;  the  Sun
 leaves  the  backbone  for  the  children;  therefore,  the
 moon  painfully  goes  away,  he  painfully  returns  home,
 while  he  painfully  goes   along;    therefore,  the    Sun
 
-
-52  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 luhi,  an  han  tatti  e,  llkoin  luhiya  jkauken  a  Ikuerri,
 au  llkoin  Ine  jhumhi  ha;  he  ti  hin  e,  llkoin  Ine  luhi
@@ -4520,8 +4307,6 @@ off  one  of  his  shoes  and  threw  it  into  the  sky,  ordering  it  to  bec
 the  Moon.
 
 
-54  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 Il^am  jkwa  au  llkuonna ;   hin  l^ai  au  llkuonna,  hin
 Ihurin,  au  llkuonna ;  hin  Ini  whai,  au  llkuonna  ;  hin
 
@@ -4610,8 +4395,6 @@ might  be  able  to  sit  in  the  Sun.
 
 *  The  men  of  the  early  race.
 
-
-56  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (3151')  j^w^-lna-ssho  |ke  e  llgwiya,  Sswa-ka-|keten  Ine
 llneillnei  hi  ta  |k'au.  He  ti  hin  e,  Sswa-ka-|ke  Ine
@@ -4703,8 +4486,6 @@ that   thou   art   wont    again    to    return   alive,    when
 we  did  not  perceive  thee ;  while  the  hare  told  thee
 about   it,    that    thou    shouldst    do    thus.    (    )    Thou  (5165)
 
-
-58  SPECIMENS    OF    BUSHMAN   FOLKLORE.
 
 llkuan  o  *kakka,  ti  e,  ssi  sse  kwah,  ll^am  llj^a  ssi  jk'au
 ikum  sse,  o  ssi  Ikuka."
@@ -4806,8 +4587,6 @@ was  the  one  who  thus  spoke ;  he  said  that  his  mother  would  not
 again  living  return.
 
 
-60  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 (5174)  ha  j(08b  ka  ha  sse  (  )  ll^a  ha  jk'au  ;  haii  Ine  *kakka
 ke,  ti  e,  ha  ^6a  yauki  ka  ha  sse  ll^a  ha  Jk'au  jkunl
 sse.     He  tiken  e,  ha  ka  ha  sse  llkdaken  ddi   Inau.
@@ -4824,8 +4603,7 @@ ii  ka  I  Inau,  o  ka  Ikuka,  n  ll^a  n  jk'au  Ikum  sse.     Han
 He  tiken  e,  lnama-ggit  tkakka  ke,  ti  e,  jnau  ha  6a
 
 (5178)  e  jkui ;  ti  e,  ha  Ikwei  koa,  i,  hin  e,  (  )  jkajkaiiru
-llwkaiiwa  ha,  i,  ha  sse  llkdaken  ddi  Inau.  Mama-
-gguken  kail  li/keya  ke,  ti  e,  jnau  Iki  jkui  ta  a,  6  ha
+llwkaiiwa  ha,  i,  ha  sse  llkdaken  ddi  Inau.  Mamagguken  kail  li/keya  ke,  ti  e,  jnau  Iki  jkui  ta  a,  6  ha
 
 (5179)  llkatten-ttu ;  he  tiken  e,  ssi  ka  (  )  llnau,  ssi  Ikha  Jnau,
 o  ssi  ka  ssi  sse  ha  Inau,  ssiten  ka  Iki  Ihin  Ikwaii  Ike,
@@ -4899,8 +4677,6 @@ Figure)."
 f  The  narrator  explained  \kwqii  to  be  "biltong  flesh"  (i.e.,  lean
 meat  that  can  be  cut  into  strips  and  sun-dried,  making  "  biltong  ").
 
-
-62  SPECIMENS    OF    BUSHMAN"    FOLKLORE.
 
 (5182)  >*au  tta,  ti  e,  ssi  ka  kkaiiruken,  o  ssi  ha  (  )  ha
 a-©pua,  o  ssiten  tta  Ilka  ti  e,  |kui  ta  a,  Ikii  e ;  he
@@ -5007,8 +4783,6 @@ not  say  :  "  Yes,  my  mother  lies  sleeping ;  she  will
 (  )  presently  arise."     If  the  hare  had  assented  to  the  (5192)
 
 
-64  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 e,  i  e  jk'e,  I  ssm  ssm  kwan  Ikii  llk&lkeya  jkajkauru;
 
 (5193)  ta,  jkajkauru  llkuan  ha  oa  (  )  Ikwei-dda,  ti  e,  1  >*auki
@@ -5090,9 +4864,6 @@ with  which  it  begins.)
 
 
 F
-
-
-66  SPECIMENS   OF   BUSHMAN   FOLKLORE.
 
 
 II.— 24.
@@ -5179,8 +4950,6 @@ the  Moon.     Our  mothers  said  to  us  about  it,  did  we
 
 *  Literally,  "  make,"  or  "become  poison."
 
-
-68  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 kui  )Van  jkajkauru.     Mama-ggiiken  l^keya  ssi  a,  ti
 
@@ -5305,8 +5074,7 @@ is  the  Milky  Way,  while  it  used  to  be  wood  ashes."
 They  (the  ashes)  altogether  become  the  Milky  Way.
 The   Milky  Way   must   go   round   with   the   stars;
 while  the  Milky  Way  (  )  feels  that,  the  Milky  Way  (2507)
-lies  going  round ;  while  the  stars  sail  along ;  there-
-fore, the  Milky  Way,  lying,  goes  along  with  the  Stars.
+lies  going  round ;  while  the  stars  sail  along ;  therefore, the  Milky  Way,  lying,  goes  along  with  the  Stars.
 The  Milky  Way,  when  the  Milky  Way  stands  upon
 the  earth,  the  Milky  Way  turns  (  )  across  in  front,  (2508)
 while  the  Milky  Way  means  to  wait(?),  while  the
@@ -5319,12 +5087,9 @@ nicely.     The   Stars   shall   also   stand   nicely  around.
 
 *  This  girl  is  said  to  have  been  one  of  the  people  of  the  early  (2505')
 race   ^xwd-Vnti-ssho-We)  and  the  'first'  girl;     and  to  have  acted
-ill.      She   was   finally   shot   by   her  husband.      These    \xwi-\na-
-sshd-W?  are  said  to  have  been  stupid,  and  not  to  have  understood
+ill.      She   was   finally   shot   by   her  husband.      These    \xwi-\nasshd-W?  are  said  to  have  been  stupid,  and  not  to  have  understood
 things  well.
 
-
-74  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 r
 
@@ -5419,8 +5184,6 @@ It  and  the  Stars.
 The  girl  thought  that  she  would  throw  up  (into  the
 air)  roots  of  the  l/mm,  in  order  that  the  \huih  roots
 
-
-76  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 (2517)  en-en,  Ihuih  en-en  sse  ddi  Ikualkuatten ;    (   )   he*  ti
 
@@ -5519,8 +5282,6 @@ During  the  time  she  is  in  retreat,  she  mustnotlook  at  the  springbok, 
 lest  they  should  become  wild.
 
 
-78  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
 (2523)  tdtti  e,  Ihouken  Ine  >ao ;  (  )  au  Ihouken  tatti  e,  ha
 l^kdlwka  e  >*ao.     Au  Ikuila-ken  +1  ha  Hki,  e  ha  ha  ki
 
@@ -5607,10 +5368,7 @@ Observatory,  on  October  10,  1873,  at  Mowbray.  Uxtohai  gwai
 was  behind  a  tree  and  too  low  to  be  distinguished.
 
 
-80  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
-(5579)  H6  tiken  (  )  e,  llgau^u  llnau,  he  Ikualkuatta  ssuen-
-ssuen  j^uonniya,  hah  yaiiki  ta  ha  sse  Una  Una  jkau^u ;
+(5579)  H6  tiken  (  )  e,  llgau^u  llnau,  he  Ikualkuatta  ssuenssuen  j^uonniya,  hah  yaiiki  ta  ha  sse  Una  Una  jkau^u ;
 
 (5580)  ta,  ha  *en-na,  ti  e,  jgaue  e,  o  ll^whal  ya  (  )  tten
 l^uonniya.  Han  Iku  jkuiten ;  ta,  ha  Iki  ll^koeh,  he
@@ -5685,20 +5443,16 @@ as  if  it  had  food.     Therefore,  they  say,  that  the  Star
 shall  give  them  of  the  Star's  (  )  heart,  that  they  may  (8449)
 not  hunger.
 
-The  Stars  are  wont  to  call,  "  Tsau  !  Tsau  !  "  there-
-fore  the  Bushmen  are  wont  to  say,  that  the  Stars
+The  Stars  are  wont  to  call,  "  Tsau  !  Tsau  !  "  therefore  the  Bushmen  are  wont  to  say,  that  the  Stars
 curse  for  them  the  springboks'  (  )  eyes ;  the  Stars  (8450)
 say,  "Tsau!"  they  say,  "Tsau!  Tsau!"  I  am  one
-who  was  listening  to  them.  I  questioned  my  grand-
-father (Tsqtsi),  what  things  it  could  be  that  spoke
+who  was  listening  to  them.  I  questioned  my  grandfather (Tsqtsi),  what  things  it  could  be  that  spoke
 thus.  My  grandfather  said  to  me  that  the  Stars  (  )  (8451)
 were  those  who  spoke  thus.  The  Stars  were  those
 who  said,  "  Tsau  !  "  while  they  cursed  for  the  people
 
 *  i.e.  things  which  their  dogs  may  kill.  (8447')
 
-
-82  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 (8452)  Ikuatta  Ine  ta  :  "  Tsau  !  Tsau !  "  (  )  llkiiarinan  a  hi
 ISke'  a.
@@ -5774,9 +5528,6 @@ an  arrow.
 *  I  think  that  it  was  all  the  springbok.  (8453')
 
 
-84  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
-
 III.— 30.
 
 L.
@@ -5797,8 +5548,7 @@ ssueiissueii,  au  IkoTi^u.
 He  gwai  j"  ha  Ine  koho  ha   l^karral^karra-ttii  ka
 
 (8395)  *uaiina,  kail  ha  Ine  llkh(5e  te  hi  (  )  au  jhaken.  He,
-hi  %  Iku  Ine  a  iko-glnuiii-tara  a  jhagen.  He  jk(5-g-
-jnuin-tara  ha  Ine  kiii,  hail  tkakka  ha  ll^a-0pua:
+hi  %  Iku  Ine  a  iko-glnuiii-tara  a  jhagen.  He  jk(5-gjnuin-tara  ha  Ine  kiii,  hail  tkakka  ha  ll^a-0pua:
 "A  kaii   Ikii  sse  ta,  lhaken  e;  ii  ssiii   Iku  a  ha  hi.
 
 (8396)  (  )  Ta,  a  a  ssan  Ikllki  jkhwa.§  Ta,  jhaken  e,  hi  l^kuai
@@ -5868,8 +5618,6 @@ excellent,  [hdn^kass'o  thinks  that  the  flower  is  red ;  but  has  not
 seen  the  plant  since  he  was  a  child).
 
 
-86  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 (8397)  au  lhaken,  jkaujkanimin  *  ha  Iku  111  hin  (  )  llhuriu.'f
 Inuin  yaii  llyamki  kuerre,  Inuin  van  llyamki  ssuen.
 Iku&bba   aken    llyamki   kkuerre    Ihin,    Ikuabba  aken
@@ -5893,8 +5641,7 @@ a  va  >a'uki  sse  lhamm    a    Ikhwa,  kkwaken?"     He,
 A.  o  o  '
 
 (8400)  ha  h&  Ine  kui:  "A  llkuan  (  )  sse  Iki  sse  ha,  ha
-sse  kkwaken,  n  ssin  llkdaken  *kakka  ha,  au  n  llkhou-
-llkhougen  jnauhko  jkhejkh^ya."     He*  tiken  e,  ha  ha
+sse  kkwaken,  n  ssin  llkdaken  *kakka  ha,  au  n  llkhoullkhougen  jnauhko  jkhejkh^ya."     He*  tiken  e,  ha  ha
 
 (8401)  Ine*  ta,  han  tkakka  ha  (  )  ll^a-Opua:  "A  kod  ssin
 ardko  Ikilki  ssa  jkhwa,  au  n  jnauhko  *ehna,  he,  a  ssari
@@ -5930,8 +5677,7 @@ the  ornaments  *  (i.e.,  earrings,  bracelets,  leglets,  anklets)
 of  themselves  (  )  came  off.  j*  The  kaross  (skin  cloak)  (8397)
 also  unloosened  (itself),  the  kaross  also  sat  down.
 The  skin  petticoat  also  unloosened  (itself),  the  skin
-petticoat  sat  down.  The  shoes  also  unloosened  (them-
-selves). Therefore,  she  (  )  sprang  up,:j:  she  in  this  (8398)
+petticoat  sat  down.  The  shoes  also  unloosened  (themselves). Therefore,  she  (  )  sprang  up,:j:  she  in  this  (8398)
 manner  trotted  away.  Her  younger  sister,  shrieking,
 followed  her.  §  She  (\kd-g\nuih-tdra)  went ;  she  went
 into  the  reeds.     (  )  She  went  to  sit  in  the  reeds.  (8399)
@@ -5970,8 +5716,6 @@ seem  to  have  been  the  jackals'  husbands,  and  the  quaggas,  and  the
 
 wildebeests  with  the  ostriches.
 
-
-88  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 ddoa  >*wa  Una,  ?  "    jgwain  ha  >auki  *kakken.    I^e-dde-
 
@@ -6054,8 +5798,6 @@ I  should  not  any  longer  think  of   you."     (    )  Her  (8412)
 *  The  name  of  the  younger  sister  of  \h6-g\nuih-tdra  was  l£e-d#e'0",oe'.  (6547')
 She  was  a  Vxwe-Wna-ss1 6-\kui  (one  of  the  early  race).
 
-
-90  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 (8412)  Ine  *i  ii."  (  )  Ha  ll^a-Opua  Ine  jkuiten,  au  ha  Ine
 I  la,  le  |nwa.
@@ -6147,8 +5889,6 @@ f  She  said  \gwai  \i-tdra  from  anger;  anger  was  that  on  account  (8417
 of  which  she  said  \gwai  \e-tdra.
 
 
-92  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 (8418)  Igwai ;  han  Iku-g  Ine  tte  ssa  *ken,*  han  Iku-g  Ine  (  )
 llk^n,  ti  e,  jgwai  ssin  ss'd  f  hi,  au  jgwain  Iku-g  Ine
 ssuken  Ihin,  han  Iku-g  Ine  jk'oa,  Ilka  llkho,  au  li,  au
@@ -6202,8 +5942,7 @@ the  place  where  she  (  )  had  been  sitting,  and  where  (8419)
 she  had  been  wearing  them.  She  sprang  away,  while
 they  remained.
 
-And  the  Dawn's-Heart  scolded  his  younger  sister-
-in-law,  why  was  it  that  his  younger  sister-in-law  had
+And  the  Dawn's-Heart  scolded  his  younger  sisterin-law,  why  was  it  that  his  younger  sister-in-law  had
 not  (  )  quickly  told  him  about  it;  she  had  concealed (8420)
 from  him  about  the  hyena ;  as  if  this  was  not  why  he
 had  seen  that  the  woman  had  been  sitting  with  her
@@ -6235,8 +5974,6 @@ was  \k6-g\nuih-tara.
 
 §  Because  it  was  night.  (8422 ' )
 
-
-94  SPECIMENS   OF    BUSHMAN   FOLKLORE.
 
 (8423)  He*  tiken  e,  (  )  ha  hd  Ine  llnau  Igaiie,  hah  hd  Ine
 kiii,  ha  jkouki-Opua  dd<5a  sse  arrtfko  a,  hi  ttdi.  He
@@ -6332,8 +6069,6 @@ means,  the  narrator  does  not  know.
 J  The  hair,  with  which  she  had  become  a  lynx.  (8429')
 
 
-96  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 (8430)  ta,  hi  e  (  )  n  ssa  tui,  I;  ta,  n  ^auki  tan  n  ssa  tui."
 He  tiken  e,  tuken  hd  Ine  turuturu  Ik'aun  Iho  Ikuken
 au   ha    Inujnuiitu    lelemmi,  he*  Ikuken,  hin  e  ka  Ine
@@ -6419,8 +6154,6 @@ bis  heart  angry,  they  had  poisoned  (his)  wife.
 H
 
 
-98  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 were  mocked  at  by  the  child,  until  at  last  it
 recognized  its  own  mother.  Among  the  insulted
 animals  were  the  Jackal  and  the  Hyena,  who,  to
@@ -6447,7 +6180,6 @@ well  as  in  speeches  made  by  the  Hyena  and  her
 parents,  after  her  flight  home."
 
 
-00
 CO
 
 
@@ -6461,7 +6193,6 @@ O  .£
 <:  «
 pq    2
 
-60
 
 o
 o
@@ -6564,8 +6295,6 @@ the  Bushmen.  Their  eyes  become  closed  and  they  writhe  with
 pain  on  account  of  the  burning  caused  by  this  insect.
 
 
-102  SPECIMENS   OF   BUSHMAN   FOLKLORE.
-
 "  N  kan  >auki  sse  Ikwiya  ha  Ike  Ikg.     Ta,  a  Iku  sse
 tkamOpua;  6a  sse  tkamOpua  ll^ouwa  hi  llneih,*  oa
 
@@ -6660,8 +6389,6 @@ a  mat  hut.
 f  That  is,  make  a  strong  screen  of  bushes  for  the  mat  hut.
 
 
-104  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 Au  han  tatti  e,  ha  ka,  ha  (5a  sse  tkamOpua  H^ou  llgwi
 
 (6700)  au  llnein.  He,  (  )  ha  Ine  ll^koen,  ti  e,  ha  6a  Ine
@@ -6744,8 +6471,6 @@ f  Her  hut  remained  standing,  while  it  felt  that  tbey  themselves  (6704
 were  wind.
 
 
-106  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 Ta,  ha  ka  llnau,  ha  jkhe,  hin  e,  ha  ka  Ilk6wa,  I,  au
 ha  jkhe;  ta,  ha  ta  ta,  au  ha  Ikue'ita.     Ha  Inuan  a
 
@@ -6798,8 +6523,7 @@ have  driven  away  the  springbok  from  this  place.
 Therefore  (  ),  the  springbok  have  gone  to  yonder  (6708)
 (dry)  river  bed  standing  behind  (the  hill).  For,
 we  have  not  a  little  shot  the  springbok  at  this  place ;
-for,  we  have  shot,  letting  the  sun  set,*  at  the  spring-
-bok at  this  place."
+for,  we  have  shot,  letting  the  sun  set,*  at  the  springbok at  this  place."
 
 
 The  Wind.
@@ -6835,8 +6559,6 @@ X  The  Wind  was  formerly  a  person  ;  he  became  a  bird.    Therefore,  /
 he  is  tied  up  in  stuff.     His  skin  is  that  which  we  call  stuff.
 
 
-108  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 Il^ou  ttai,  !!^a,   ha   ll^oa   ttai.     He,   ha   Ine   ll^a,   ha
 
 (6713)  jkuiteu,  au  han  tatti  (  )  e,  ha  llkuan  l^kua.     He  ha
@@ -6866,8 +6588,7 @@ Ikou.     H6  tiken  e,  ha  ha  Ine  Ik'aiten-i  Ikhwe,  au  han
 ka  Ikuerrelkuerre  e.      He  Ikhwe  ha  Iku-g  Ine  Ikhwi,  1.
 
 (6716)  He  tiken  e,  jkhwe  ha  (  )  ^auki  Ine  ttamOpua  tchui;
-Ikhw6ten  Iku-g  Ine  Ikaih  Ik'au,  au  han  ha  ka,  Ik'aiten-
-a  Ikhwe.     Ikhw6ten  Iku-s;  ine  Ikaih  Ik'au,  au  Ikhw6ten
+Ikhw6ten  Iku-g  Ine  Ikaih  Ik'au,  au  han  ha  ka,  Ik'aitena  Ikhwe.     Ikhw6ten  Iku-s;  ine  Ikaih  Ik'au,  au  Ikhw6ten
 
 (6717)  hd  ka,  ll^ou  u.  Ikhweten  Han  le  jkou  ka  jku,  (  )
 he  Ikhwe  ha  Iku-g  Ine  Ikhwi ;  Ikhweten  )Vuki  Ine
@@ -6927,8 +6648,6 @@ t  Jacob  Kotze  is  a  Bastaard.    He  used  to  live  at  "  Hartus  Kloof  "
 §  i.e.  the  bushes  broken  off  and  used  to  make  a  shelter  for  the  (6717)
 mat  hut.  ^  '
 
-
-110  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 (6718)  lie  Han,  Ikuiten  ssih  llnelri,  au  hah  yaiiki  Ine  (  )  Ikoi
 au  jgei.  jg^iten  Iku-g  Ine  Hi,  jgeiten  Ikuiten  ssa,  au
@@ -7012,8 +6731,6 @@ the  sheep,  while  the  sheep  stand  between.
 
 §  Worked  at  the  master's,  the  Bastaard's.  (6722')
 
-
-112  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 Iku-g  Ine  ha  ho,  he  M  ©pudnni,  han  Iku-g  Ine  ttefi;
 
@@ -7117,8 +6834,6 @@ which  the  Bushmen  call  \haii\kaun.
 I
 
 
-114  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
 Ihaumi  ha  llnun  hoa.
 (8640)       Iknakaken  Iku  ssuen-ssueii  ssa,  Ikuakaken  (   )  Iku
 llgwlllgwi  ssin.
@@ -7135,7 +6850,6 @@ Han  ha  Ine  kiii :   "  Tssede  ya  ddoa  e,  a  ddoa  Iwkuaii
 
 hi   ?   "     *
 
-0
 
 He  tiken  e,  jhamra  ha  Ine  Ikhamma,  I;  f  ll^aukaken
 
@@ -7188,8 +6902,7 @@ Then  ihaunu  sneezed,  on  account  of  it ;  y  blood
 poured  out  (  )  of  his  nostrils  ;  he  stealthily  lightened  (8642)
 at  his  brother-in-law.  His  brother-in-law  fended
 him  quickly  off,  J  his  brother-in-law  also  stealthily
-lightened  at  him.  He  quickly  fended  off  his  brother-
-in-law.  His  brother-in-law  (  )  also  lightened  at  him.  (8643)
+lightened  at  him.  He  quickly  fended  off  his  brotherin-law.  His  brother-in-law  (  )  also  lightened  at  him.  (8643)
 He  (^kqgara)  said:  "Thou  must  come  (and)  walk
 close  beside  me ;  for,  thou  art  the  one  who  dost
 see  that  husband  does  not  allow  us  time ;  for,  he
@@ -7214,8 +6927,6 @@ with  their  fists.  Fending  off  is  that  which  they  are  wont  to  do,
 (  )  they  wave  off  with  the  arm,  while  they  fend  off  the  other  one's  (8644')
 arm.     He  (^hdgdra)  fended  off  the  other  one's  lightning.
 
-
-116  SPECIMENS  OF    BUSHMAN   FOLKLORE.
 
 ha  sse  e,  Mtten  luanna  Ikam  *kaerara.     #kaearaken
 a  yaiiki  ta  llkhalten,  ha  Iku  llkhabbetenllkhabbeten  ha
@@ -7310,8 +7021,6 @@ die  quickly  ".
 Btated  to  be  "A  South  African  shrub  {Barosma) ".
 
 
-118  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 Note  by  the  Narrator.
 
 (8643')      N  jkoetuka  Ine*  ta:    "  *k&gara-ggu  wa  e,  yii  Iko
@@ -7346,9 +7055,6 @@ From  the  Breakwater.
 
 
 IV.     Animal  Fables.
-
-
-122  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 
 IV.— 27.
@@ -7471,7 +7177,6 @@ he  ti  hin  e,  jgwain  Ine  ddatten  llkha,  T,  ha  si  ll^am
 
 (363)  ssi  ha  ga  llnein.    (  )  jgwain  Ine  tkakken:   "  llkha  we  I
 
-9
 
 A  kua  ssan   H^am  ^arinugii  n  ga  llnein ; "  au  han
 
@@ -7484,7 +7189,6 @@ m  9
 (364)  ^ahnugii  ha  ga  llnein,  I;  han  Ine  Han,  ddatten  (  )
 llkha,  au  l^abba.
 
-9
 
 jgwain  Ine  *kakken:   "Nkaku  le*  jkwa  a,  ttii  au
 
@@ -7526,12 +7230,9 @@ to  deceive  (  )  the  Lion  with  soup.  (364)
 
 The  Hyena  said  :   "I  am  accustomed  to  pour  soup
 
-*  This  expression  is   used   to  denote  a   person  who    acts   un-
-generously regarding  food,
+*  This  expression  is   used   to  denote  a   person  who    acts   ungenerously regarding  food,
 t  Felis  jubata.
 
-
-126  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 I^abba,  n  ll^ani  ku  le"  jkwa  a,  ttii  au  l^abba,  n  ll^affi
 
@@ -7650,8 +7351,7 @@ Aken  llnau  ti  e,  a  Isumm  o  a  ttu  ;  he  tiken  e,  a  >*auki
 jgumm  akken,  I."
 
 (4326)  llkha  (  )  kko  ku-kkii'i,  han  l^ke  :  "  H  kkdk  sse  ddi
-*gebbi-ggu,  li  sse  Ikha  tto'i,  u  sse  Iki  Ihin  tto'i  sso-
-ssoken,  u  sse  ha  I ;  he  u  sse  jgunim  kti  j^wa  tto'i,  i,  o
+*gebbi-ggu,  li  sse  Ikha  tto'i,  u  sse  Iki  Ihin  tto'i  ssossoken,  u  sse  ha  I ;  he  u  sse  jgunim  kti  j^wa  tto'i,  i,  o
 ii  ha  tto'i  sso-ssoken."
 
 e,  tto'i  llkurru  j^wakka  I,  o  hm  tta  Ilka,  ti  e,  ha  6a  ^na^ya,  llkha
@@ -7716,8 +7416,6 @@ ostriches ;  while  the  women  are  those  who  sing,  while  the  men  call.
 
 K
 
-
-130  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (4327)       (  )  He  llkhf  Ine  ku-kkiii,  hin  l^ke  Ikagen:  "Ddi
 +gebbi-ggu."    He  sse  ttuhim,  ti  e,  Ikei  llau  Inii  a  ttdi
@@ -7909,8 +7607,6 @@ from   the    Ostrich's    lungs,    that    I    may   be    giving
 *  "  We  -who  were  little  boys,"  the  narrator  explains.
 
 
-134  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 f  f
 
 Ikhe  ttin   sse,  ii  sse    Ikhaulkhau    Ikam,   o   ttoi   sso-
@@ -7939,8 +7635,7 @@ jkwain  ti  e,  Ikagen  >*auki  Ine  ^wa  +ugen  ssi.
 Notes  by  the  Narrator.
 
 (4320')  llkhan  e  Ikui,  ttoi-ten  II  yam  e  Ikui,  ha  llbketen  a
-llkha  +naiya  ttoi  llhatten-ttu,  a ;  o  hin  Igumm  +gdbbi-
-ggu.  He  tiken  e,  ttoi  llkiirru  j^wakka  I ;  o  hin  tta
+llkha  +naiya  ttoi  llhatten-ttu,  a ;  o  hin  Igumm  +gdbbiggu.  He  tiken  e,  ttoi  llkiirru  j^wakka  I ;  o  hin  tta
 Ilka  ti  e,  ha  6a  tnaiya  llkha  luan-ttu.  He  tiken  e,  he
 j)"wakka,  i.  He  tiken  e,  jk'^ten  Ine  llnau,  ttwi  Ike
 ss'o  ttoi  llhatten-ttu,  hin  ka  llkha  llkiirru  e\
@@ -7957,8 +7652,7 @@ ttdi ;  he*  tiken  e,  Ik'e  Ike-lk^rriten  kan   l^ke,  llkha  e
 THE    LION    AND    THE    OSTRICH.  135
 
 them  to  you,  that  ye  may  be  swallowing  (    )  them  (4342)
-down."     And  we,  answering,  said:   uO   my  grand-
-father !  We  do  not  wish  to  eat  the  Ostrich's  lungs
+down."     And  we,  answering,  said:   uO   my  grandfather !  We  do  not  wish  to  eat  the  Ostrich's  lungs
 when  they  are  raw."    And  our  grandfather  answered,
 he  said  to  us  about  it,  that  we  also  wished  to  resemble
 (   )  the  Lion;   lie  formerly  became  angry  with  the  (4343)
@@ -7993,8 +7687,6 @@ the  Ostrich;  and  he  made  "a  food's  thing"  of  the
 Ostrich;  therefore,  the  old  people  say,  that,  the
 Lion   is   a   thing   which  is   wont,  (  )  when   it   has  (4336')
 
-
-136  SPECIMENS    OF    BUSHMAN   FOLKLORE.
 
 ta  ha  sse  llkdo  (llg^bbe)  ^u  ttu  ttoi' ;  ta,  ha  ka  ha  sse
 llnau,  I  kki-ssa  *>akken-i  ha,  hah  >auki  ka  ha  sse
@@ -8100,8 +7792,6 @@ Ostrich   flesh;    it   gets   feathers,   (    )  it  puts    on  its  (1175)
 wings,  it  gets  its  legs,  while   it  lies  in  the  water.
 
 
-138  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
 (1176)  ikdrra  (  )  llkao   tin  jkhwa-ka-jau,   au  han  tatti,    ha
 
 52  53  42  40  54  19  6  55  6
@@ -8174,7 +7864,6 @@ Ikwe'  ts'ii-hoa  ha,  au  Ikwlten  6  llgollgo-Oua ;  han  +1
 
 ki,  ha  se  Ikati  Ine  ten-ten-ya  Ikam  lie  ha-ka  llnain
 
-93
 
 (1183)  jkhw^iten,  he  ha  sin  Ikuken  (  )  tenya  hi,  ha  se  lla
 l^rri  llkde  sin  llnain  ts'6rroken,  au  han  Ine  +^dmma
@@ -8212,8 +7901,6 @@ his  wives.     He  will  add  (to  the  two  previous  ones)
 
 *  Making  the  new  house  on  the  old  one.  (1183')
 
-
-140  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (1184)  ha  tatti  ha  sin  Iku  Ikuka,  (  )  ha  se  lhah  siii  toi-ta
 Ikagen  e  jnoarra.  Au  ha  tatti  e,  ha  llgorro  Ine  e  Ikwa,
@@ -8312,8 +7999,6 @@ Ostrich,   (   )   she   lies   down   to  try  the   house,   she  (1194)
 tries  whether  the  house  seems  to  be  nice;  she  first
 sleeps  opposite  the  house,  because  the  inside  of  the
 
-
-142  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (1195)  jgwetin  llnaifi,  ati  han  tatti  e,  llnain  llkaie  Ika,  au  (  )
 llnaiiiyan  tatti  jkwa  Ikati  kau.  He  ti  hm  e,  hi
@@ -8432,8 +8117,6 @@ that   the  jackal   is   coming   to  the  eggs,  the  jackal
 will   push   the   eggs.     Therefore  (   )  he   takes   care  (1205)
 
 
-144  SPECIMENS   OF    BUSHMAN    FOLKLORE.
-
 jkwften  i,  au  han  tatti  e,  ha-ga  laiiken  llkwan  e.     He
 ti  hin  e,  ha  ll^am  llkann  hi  1,  ha  se  llkwarra  kdro,
 (1206)  kdro  se  >"auki  Ika  ha  Ikauken,  (  )  ha  se  #nai-a  k(5ro
@@ -8454,8 +8137,7 @@ the  Bushmen  in  general  as  a  nation,  whilst  the  noun
 Ss'wd-kaAkui  (pi.  Ss'ivd-kaAei)  seems  to  indicate
 merely  a  Flat-Bushman.  The  noun  ss'wd  is  also
 used  separately  to  indicate  '  a  flat,  a  plain '.  Other
-names  of  different  kinds  of  Bushmen  are  \kdoken-
-ss'o-le  l  Bergbushmen ',  sing,  \kdo-sso-\kui,  fem.
+names  of  different  kinds  of  Bushmen  are  \kdokenss'o-le  l  Bergbushmen ',  sing,  \kdo-sso-\kui,  fem.
 \kdo-sso-\kui-\aiti,  pi.  \kdo-sso-\e-ta-\kagen.  Similarly
 a  Sshvd-kaAkui  is  also  called  Sshva-ssd-\kui,  pi.
 Ss>wa-s&d~\§.
@@ -8533,8 +8215,6 @@ Alterative     \kduiko  '  another  egg '.
 
 J
 
-
-146  specimens  of  bushman  folklore.
 
 Plural.
 Accusative    \kwiten  '  eggs '.
@@ -8630,8 +8310,6 @@ pluperfect.
 \m  '  thread  made  of  ostrich  sinews,  also  a  sack  or  net  1 8
 made  of  such  thread  '.
 
-
-148  SPECIMENS   OF    BUSHMAN    FOLKLORE.
 
 19.  au  the  preposition  above-mentioned  (4)  used  as  con-
 
@@ -8745,8 +8423,6 @@ broke  ?
 or  '  The  child  breaks  the  bone  of  the  hartebeest  leg '.
 
 
-152  SPECIMENS   OF    BUSHMAN    FOLKLORE.
-
 64.  se  'must',  auxiliary  verb,  standing  usually  between
 
 the  pronoun  of  the  subject  and  the  verb,  and  is
@@ -8851,8 +8527,6 @@ singular.     Thus :
 \j^6iva  '  tall,  high  ',  pi.  \%6\xdka ;
 
 
-154  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 \kuiya  'great,  large,  big,  stout',  pi.  \kui\kuita\
 y&uki  ts'erre  l  not  small ',  pi.  yauki  ts^tten ;
 korre-korre  'round',  pi.  korritten-korreten.
@@ -8894,8 +8568,7 @@ He,  ha  J  llka^ai  ha  Ine  h6  wai  ttu,  ha  Ine  Iku  hi.
 Ha  llka^ai  ha  Ine  l^aua  wai  ttu,  ha  llka^ai  Ine
 wwarra  hi.
 
-(8351')      *  jkui  laitiken  a,  hi  dda  hi  Uka^ai  a.     |kui  |aiti  llkuan  e  !xwe-
-llna-ss'o  |kui.
+(8351')      *  jkui  laitiken  a,  hi  dda  hi  Uka^ai  a.     |kui  |aiti  llkuan  e  !xwellna-ss'o  |kui.
 
 t  !xwe-||na-ss'o  jkuiten  |ku  e.
 (8352')      \  Ha  llkaxai  llkuan  Iku  |kwai,  hih  e  l^kwaiya.
@@ -8951,8 +8624,6 @@ f  A  man  of  the  early  race  (he)  was.
 pronoun,  here,  in  the  following  manner:   "Their  elder  sister  was
 one,  they  were  many."
 
-
-156  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (8353)  He  (  )  hi  ha  Ine  lktlkg-i*  ttu  ka  tikentiken,t
 hi  Iku-g  Ine  kkonnkkonh  llkho  hi.  Hi  llka^ai  lha
@@ -9041,8 +8712,6 @@ X  Carried  the  springbok.  (8355')
 §  When  the  meat  was  finished  ;  they  had  eaten  up  the  meat.        (8356')
 
 
-158  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 He*   tiken  e,  hi*  ha   Ine   llnati,  ha    llka^aiten    Ine
 
 (8359)  tt&iya,  (  )  hiii  M  Ine  Ihin  llnem,t  hih  Ine  jgwe*  ssih
@@ -9130,8 +8799,6 @@ their  elder  sister.
 ||   Her  elder  sister  was  the  one  of  whom  she  spoke.  (8363')
 
 
-160  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
 Han  h£  Ine  Iku  tdtten  Ik'a  Ihin,  haii  Ine  Iku  Ikhou  ssin
 
 (8365)  (  )  jk'e-kkm'ten-ta  *  kamman.
@@ -9162,8 +8829,7 @@ He  tiken  e,  hi   hd  ka  ssin  llnau,  au  hi  loiiwi  hi
 
 \  \  >
 
-ha  ka :   "U  koa  hi,  u  koa  hi,  u  koa  ha  ssi  llkdken-
-llkaken,  ta,  ha  Inu  Ikui  ha  Ike  ssa,  ha  ^aiiki  ssiii  ddda
+ha  ka :   "U  koa  hi,  u  koa  hi,  u  koa  ha  ssi  llkdkenllkaken,  ta,  ha  Inu  Ikui  ha  Ike  ssa,  ha  ^aiiki  ssiii  ddda
 
 (8369)  ikj  i.'J  He,  hi  hi  Ine  bbai  wai,  hi  ha  Ine  llkhou  (  )
 Ik'ui,  j^uabba  jk'tii',  hi  Ine  Ikuei  Iki,  hi  kan  Ikbe"  lla;
@@ -9228,8 +8894,6 @@ f  Large  trees.  (8366')
 
 §  Vultures  are  those  which  we  follow  up.  f8S70 '  l
 
-
-162  SPECIMENS  OF    BUSHMAN   FOLKLORE.
 
 Ilka^ai  Iku&iten,*  au  u  ll^ko^n,  ti  e,  llka^ai  a  ssa."
 
@@ -9340,10 +9004,7 @@ verb  here.
 stomach ;  for  she  killed  gemsbok.
 
 
-164  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
-(8178)  ^erretaken  tatti  e,  llkha  a  jkannjkanh  (  )  llwkeya  jk'e-
-ta  Ikaiiken,  au  llkhan  tatti,  llkha,  e  llosa,  a  llnwamtu ;
+(8178)  ^erretaken  tatti  e,  llkha  a  jkannjkanh  (  )  llwkeya  jk'eta  Ikaiiken,  au  llkhan  tatti,  llkha,  e  llosa,  a  llnwamtu ;
 he*  tfken  e,  ha  Ine  Ikannlkann  Hbke  Ik'e-ta  Ikaiiken,
 
 (8179)  jka'uka  ssin  Una  ha,  jkaiika  ssin  (  )  dda  ha  a;  ta,  h&
@@ -9353,11 +9014,9 @@ He  tiken  e,  Ddi-£erreten  Ine  Ha  ha  llnein,  au  haii
 Ikuenya.     Ddi-^erretaken  Ine  jkou  ttin  ha,  au  llnem,
 
 (8180)  (  )  Ddi-^erretaken  Ine  Ha  jka'uken,  au  llnein.  Ddi-
-^erretaken  ha  Ine  Ha  Ineiii,  lithe*  Ha  jkauken.  Ddi-
-yerretaken  ha   Ine   ssuen.     He  Ddi-yerreten  ha   Ine
+^erretaken  ha  Ine  Ha  Ineiii,  lithe*  Ha  jkauken.  Ddiyerretaken  ha   Ine   ssuen.     He  Ddi-yerreten  ha   Ine
 
-(8181)  kkiii:  (  )  "  jkauken- Opuondde  wwe  ss'o  !  U-ka  Ik'e-
-ta  li  tan  e,  Ikolko  jkheya,  jkufrri  a  Iko  jkhe  ssa."  He*
+(8181)  kkiii:  (  )  "  jkauken- Opuondde  wwe  ss'o  !  U-ka  Ik'eta  li  tan  e,  Ikolko  jkheya,  jkufrri  a  Iko  jkhe  ssa."  He*
 tfken  e,  Ikauken  e  Ikii,  hi  ha  Ine  lii",  hin  Ine  Ikarh.  lla,
 
 (8182)  hi-ta  (  )  Ik'e.
@@ -9432,8 +9091,6 @@ fire  of  your  people  is  that  which  is  below  f  the  top
 f  Because  the  house  is  in  the  ravine  (i.e.,  not  where  the  water  ("8184')
 flows,  but  among  the  bushes).
 
-
-166  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 (8185)  a  (  )  jk'ou  jkhe"  ssa."  He  Ikauken  ha  Ine  llkhou
 jkuken,  hih  Ine  lii,  hin  Ine  Ikuei  Iki,  hih  Ha,  an  hin
@@ -9543,8 +9200,6 @@ those  whom  she  had.  Vq-,  q-i  j\
 %  She  recognized  him.  '              '
 
 
-168  SPECIMENS   OF   BUSHMAN    FOLKLORE.
-
 (8192)  Han  ha  Ine  kkrii:  "  Ddi-^erreten  (  )  llkuan  ddoa  a
 ss'5  !  "     Han  ha  Ine  ttai  Ikhe*  ssa  llneiii.     Han  hd  Ine
 
@@ -9566,8 +9221,7 @@ Iku-g  Ine  kui :  "  Ouuuu  !  II!  II!  II!  II!  n  llkeillkei !
 He  ti,  hi  kan  )"oa  e,   Inii  jkui  a,  ha  Ina  gwai  ssaii
 
 (8195)  llkhd  ki  jk'aun  ss'o  n-ka  llnein!"  (  )  Au  Ddi-
-^erretaken  h&  In6  ta  :  "N"  llkuan  Iwkeya  ha,  tl  e,  i-i-
-ta  Ikauken  yaiiki  6a  ddoa  e."  llkha,  M  kui:  "  la !
+^erretaken  h&  In6  ta  :  "N"  llkuan  Iwkeya  ha,  tl  e,  i-ita  Ikauken  yaiiki  6a  ddoa  e."  llkha,  M  kui:  "  la !
 A  kan  y6a  dd6a  a,  Ina  gwai  ssaii  llkho  ki  ss'o."    "  I-i-
 
 (8196)  ta  jkauken  f  (  )  llkuan  ^aiiki  6a  ddoa  e\"
@@ -9628,8 +9282,6 @@ the  children  "  may  be  verbally  more  accurate.
 
 §  Ddi-'xirreten  was  the  one  who  spoke  thus.  (8195')
 
-
-170  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 IV.— 47.
 
@@ -9738,8 +9390,6 @@ body,  which  was  slender;  hence  she  mocked  at  the  man.
 ||   i.e.  breaking  her  breastbone.  (7102')
 
 
-172  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 And  (his)  wife  fell  down  dead  on  account  of  it.  Then
 he  exclaimed :  "  Yi  n  hlhi!  0  my  wife  hiV  (crying)
 (7103)  as  if  he  had  not  (  )  been  the  one  to  shoot  (his)  wife.
@@ -9841,8 +9491,6 @@ From   the  Breakwater.
 Y.    Legends.
 
 
-174  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 V.— [37.
 
 B.
@@ -9934,8 +9582,6 @@ has  yellow  flowers  and  no  thorns.
 his  legs  were  not  in  it.
 
 
-176  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 Ilkoinya,  ha  ha  jkui ;  han  am'm  sse  |^u,  ha  sse   I  la
 
 (4463)  >Va;  (  )  ha  sse  ssa  jhau  ha  ha,  o  ha  >wa;  ta,  ha
@@ -10022,8 +9668,6 @@ see  if  the  lion  remarked  that  he  moved  his  head.
 s
 
 
-178  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
 tte-tte  akken   I  kin.     Ta,  ti   ddoa  Ikii  >*wan,   Ikui  a
 ddarraken.    He  Ikui  llbkoeri,  ti  e,  ti  >\van  llkha  llki,
 
@@ -10090,8 +9734,7 @@ perceived  that  the  lion  again  (raising  its  head)  stood
 peeping  behind  the  top  of  the  hill ;  *  because  the  lion
 thought  that  the  thing  had  (  )  seemed  as  if  the  man  (4474)
 were  alive ;  therefore,  it  first  wanted  again  to  look
-thoroughly.     For,   it  seemed  as  if  the  man  had   in-
-tended to  arise ;  for,  it  had  thought  that  (  )  the  man  (4475)
+thoroughly.     For,   it  seemed  as  if  the  man  had   intended to  arise ;  for,  it  had  thought  that  (  )  the  man  (4475)
 had  been  feigning  death.     And  it  saw  that  the  man
 was  still  lying  down;    and  it  thought  that  it  would
 quickly  run  (  )  to  the  water,   that   it  might  go  to  (4476)
@@ -10108,8 +9751,6 @@ The  man  lay  looking  at  it,  at  that  which  it  did;
 *  The  lion  came  back  a  little  way  (after  having  gone  out  of
 sight)  to  look  again.
 
-
-180  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 he  Ikui  llkuah  llwkoen  ti  e,  ha  Ina-ka  Ik'iilk'u  Ivuonni
 
@@ -10303,8 +9944,6 @@ roll  him  up  in  them ;  and  also  (in)  mats ;  these  (are)
 manner  told  the  people  about  it.
 
 
-184  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 (4494)  tchuen  e,  (  )  |k'e  sse  ttemmi  le  ha,  1 ;  llkha  yauki
 sse  Ini  ha.
 
@@ -10352,8 +9991,7 @@ And  the  people  did  so  ;  the  people  rolled  him  up
 in  mats,*  and  also  (in)  hartebeest-skins,  which  they
 rolled  together  with  the  mats.     (   )  For,  the  man  was  (4495)
 the  one  who   had    spoken    thus   to    them   about   it  ;
-therefore  it  was  that  they  rolled  him  up  in  hartebeest-
-skins,  while  they  felt  that  their  hearts'  young  man
+therefore  it  was  that  they  rolled  him  up  in  hartebeestskins,  while  they  felt  that  their  hearts'  young  man
 (he)  was,  (  )  whom  they  did  not  wish  the  lion  to  eat.  (449G)
 Therefore,  they  intended  to  hide  him  well,  that  the
 lion  should  not  get  hold  of  him.     For,  a  young  man
@@ -10387,8 +10025,6 @@ put  into  it.
 §  i.e.  on  the  top  of  the  earth  with  which  the  hole  had  been
 covered  over.
 
-
-186  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 Ilnem-ta  Ik'e  a ;  he  ha  kii-kkui,  han  l^ke:  "  U  kail
 Iku  e,   ll^koeri  ll^au  Ike  a,  ha   Ina  ttss'i,  ti  Ike,  ha
@@ -10478,11 +10114,8 @@ come  into  the  werf '  (  =  "  yard  ",  or  "  ground  ").
 f  They  wanted  to  shoot  him  dead,  before  he  could  find  the  man.
 
 
-188  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 (4509)  Ikha  Ikam  (  )  ttu  llkha."  jk^ten  f^a-i  ha,  hail  >auki
-ywari  jk'e  llkuan  l^a-i  ha  ;  hin  llken-i  ha,  o  jguatten-ta-
-llkhalten,   o  hm  kie*  sse  liken  Ikha  ha.     Han  ^auki
+ywari  jk'e  llkuan  l^a-i  ha  ;  hin  llken-i  ha,  o  jguatten-tallkhalten,   o  hm  kie*  sse  liken  Ikha  ha.     Han  ^auki
 
 o      *
 
@@ -10576,8 +10209,6 @@ bite  them,  because  it  wanted  the  young  man  whom  it  had  carried  off.
 §  It  was  now  late,  and  they  had  been  shooting  at  the  lion  since  the
 morning,  and  did  not  know  what  they  should  now  do  to  get  rid  of  it.
 
-
-190  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 jk'e  l^a-i  ha,  hah  Ikii  ddqa  ttaiya  ttiii.     "  He  tiken
 e,  1  >"auki  *eii-na  ti  e,  1  sse-g  Ine  Ikuei  Ikue,  I  ddi
@@ -10681,8 +10312,6 @@ for,  it  had  got  hold  of  the  man  for  whom  it  had
 And  it  died,  while  the  man  also  lay  dead ;  it  also
 lay  dead,  with  the  man.
 
-
-192  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 Y.— 49.
 
@@ -10802,8 +10431,6 @@ that  a  bull  (x&'O  gwdx)  is  meant  here.
 o
 
 
-194  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 (7438)  llka£u.  He  Ikuila  ha  Ine  kui:  "  jkui  a,  (  )  ha  £a
 y&a,  ss'o  ddda  a,  ggauwa  h?"  au  hah  ha  Iku-g  Ine
 jk'oe  *  ti  Ikhe  ssa.f
@@ -10915,8 +10542,6 @@ the  pit  becomes  dry,  while  it  feels  that  the  Rain  has  gone  out,
 the  Rain's  Bull.     Therefore,  the  pit  dries  up  on  account  of  it.
 
 
-196  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 (7442)  ine  Ik'atten  (   )  llkhou  llkua  Ikhe  lla  ha,  au  Ikuerriten-
 
 »  '  *  o    ~     \      /  o         •  /  oo
@@ -10931,8 +10556,7 @@ o  o  •  o  O  o  D
 
 lk(5  ssin  lie  Oho  lu."     He"  ti  hih  e,  ha  ha  Ine  ll^ki  lk(5
 
-(7443)  ssin  (  )  lla  0h6  lu.  Ikmlaken  ha  HSkoen  ha ;  Ikui-
-laken  Ine  Igomm  Ihin  ssa,  ha  Ine  [guru  f  ha.  He*
+(7443)  ssin  (  )  lla  0h6  lu.  Ikmlaken  ha  HSkoen  ha ;  Ikuilaken  Ine  Igomm  Ihin  ssa,  ha  Ine  [guru  f  ha.  He*
 tiken  e,  jkhoa  Iku-g  Ine  Opuoin,  !.
 
 He  tiken  e,  ha  ha  llnau,  hah  ll^koen  ti  e,  Ikhoa  Ine
@@ -11034,8 +10658,6 @@ If  things  are  wet,  they  are  wont  to  say  that  they  anoint
 with  them.
 
 
-198  SPECIMENS   OF   BUSHMAN    FOLKLORE.
-
 ha  Iku-g  Ine  Ikainya,*  au  han  ha  ka  *k|  f  an  llkhou
 l^kwai,  han  Ine  Ikn  jgiiru  Ikilki  ha,  au  hah  jgiiru  Ikam
 ui'  llkhou  l^kwai,  au  ha.
@@ -11081,8 +10703,7 @@ ta  hi  ha  ^oaken-ggii  ta  a  ha  a  hi.
 
 (7447')    t"ai.         a  "  ,
 
-Ha-ha  l^kwai   |ku  e,   e  tan  llkhou.     llkhou  llkuan  |ku  e  jkhoa-
-ka  tchueh.
+Ha-ha  l^kwai   |ku  e,   e  tan  llkhou.     llkhou  llkuan  |ku  e  jkhoaka  tchueh.
 (7448')      X  Ha-ka  llkuakkaken  e  ha  ddi  akken  Ikhoa,  I,  he  e,  jk'e-ta
 ku   Iku-g   Ine   llkoaken   Ikoulkouiiken,  I;    he   6a  sse  la  Ikhe,  ka
 
@@ -11234,8 +10855,7 @@ And  when  she  was  seeking  about  for  food,  the
 clouds  came  up.  And  she  spoke,  she  said :  (  )  (3949)
 "Something  is  not  right  at  home;  for  a  whirlwind
 is  bringing  (things)  to  the  spring.  For  something
-is  not  going  on  well  at  home.  Therefore,  the  whirl-
-wind is  taking  (things)  away  to   the   spring."    (  )(3950)
+is  not  going  on  well  at  home.  Therefore,  the  whirlwind is  taking  (things)  away  to   the   spring."    (  )(3950)
 
 *  A  little  girl,  as  big  as  a  European  child  of  11.  (3944')
 
@@ -11243,8 +10863,6 @@ f  Literally,  "allowed"  her  to  remain  there.
 
 %  In  her  mother's  hut.  (3945')
 
-
-202  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 t
 
@@ -11265,8 +10883,7 @@ jkuila  a  mma'ii,  ha  le  ^hwarra ;  he  e,  ha  Ikii-g  Ine
 ddi  jga,  i.    Ha  ^oaken-ggii,  hm  jhou,  hin  le  ^hwarra ;
 
 (3953)  llgollgo  Iku-g  Ine  Iki  ssa  he,  I;  au  han  (  )  Ikweiten
-Ikii  leta  ^hwarra.  Han  Ikii-g  Ine  e  jga.  Ha  ^oaken-
-ggii  ssan  ll^am  a  ke  ddi  jga,  i ;  o  llgollgo  Ikii-g  Ine  &,
+Ikii  leta  ^hwarra.  Han  Ikii-g  Ine  e  jga.  Ha  ^oakenggii  ssan  ll^am  a  ke  ddi  jga,  i ;  o  llgollgo  Ikii-g  Ine  &,
 Iki  ssa  he,  au  hm  Una  Jkau^ii ;  llgollgo  Ikii-g  Ine  Iki
 
 (3954)  ssa  he  (  )  o  ^hwarra,  aii  ha  Opua^ai  Ikweiten  Ikii
@@ -11322,15 +10939,12 @@ where  his  daughter  was.  (  )  Her  father's  arrows  *  (3956)
 altogether  grew  out  by  the  spring;  for  the  great
 whirlwind  had  brought  them  to  the  spring.  He  also
 altogether  became  a  frog  ;  likewise  his  wife,  she  (  )  (3957)
-also  became  a  frog ;  while  she  felt  that  the  whirl-
-wind had  brought  them  to  the  spring.  Their  things
+also  became  a  frog ;  while  she  felt  that  the  whirlwind had  brought  them  to  the  spring.  Their  things
 entered   that    spring    (in   which)    they   were.      The
 
 *  All  the  family  and  their  mats  were  carried  into  the  spring,  by  (3956')
 the  whirlwind,  and  all  their  things.
 
-
-204  SPECIMENS    OF  *BUSHMAN    FOLKLORE.
 
 ha  ^hwarra,  lie  leta.     Tchuen  Iku  leya  ha  ^hwarra,
 
@@ -11439,8 +11053,6 @@ was  off,  while  it  was  his  younger  brother's  head's  hair  which  had
 been  shaved  away.
 
 
-206  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 V.— 70.
 
 L.
@@ -11468,8 +11080,7 @@ ha  Ine  le  llkho  ll^e  au  Ilh6.||  He  gwai  Ine  ll^a,  han
 Ikhi   ll^e-ko.      Ha   Ine   le   llkhou   llkho  ha,   le   llkhou
 
 (8510)  llkho  ll£e,  au  Igaueta  ll^e.  Ha  (  )  Ine  ll^a,  ha  lii,
-ha  Ine  llgaiie  ll^e-ko.  Ha  Ine  ll^a,  ha  Ine  Ini  ll^e-
-ko,  ha  Ine  llkhu^ten  ha.     He,  ha  Ine  ll^a,  ha  Ikhi  ha.
+ha  Ine  llgaiie  ll^e-ko.  Ha  Ine  ll^a,  ha  Ine  Ini  ll^eko,  ha  Ine  llkhu^ten  ha.     He,  ha  Ine  ll^a,  ha  Ikhi  ha.
 
 (8524')      *  N  +i,  ti  e,  l^abbi-an  jkoi'te,  Iko'ite,   !ko'ite-ko  %oa  ss'o  e,  6a
 
@@ -11556,8 +11167,6 @@ bag ;   she  was  the  one  who  intended  to   shake  in  the  Bushman
 rice.     He   stood  inside  the  mouth  of   the    hole,   while   the  wife
 stood  above.
 
-
-208  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 Ha  Ine  le  Ik'aun  llkho  ha.     Ha  Ine  le  Ik'aun  llkho  ha,
 
@@ -11650,8 +11259,6 @@ numerous.
 
 ||  With  other  earth.  (8514')
 
-
-210  SPECIMENS    OF    BUSHMAN   FOLKLORE.
 
 t(5rro  Ikhe.*     He,  ha  ha  Ine  ku'i :   "  U  wwe !  n  lha,
 
@@ -11751,8 +11358,6 @@ singing.
 ^1  I  think  that  she  was  speaking  of  her  daughter's  husband.  (8520')
 
 
-212  SPECIMENS  OF   BUSHMAN   FOLKLORE.
-
 (8521)  u  hi  >*au  e  Ilka,  hi  llkuakka;  (  )  hin  lhanlhan  le  1,
 u  hi  llkuakka."
 
@@ -11841,8 +11446,6 @@ the  springbok's  skin.
 
 X  i.e.,  the  ^nerru,  many  \nemt.  (8525')
 
-
-214  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 e,  hi  ta   llkhda   toi;    au  hin   tatti,   *nerruka  tiiken
 Ihoaka,  *nerruka  Ikakaken  Ikuita.
@@ -11951,9 +11554,6 @@ DiaVcwiiin,  March,  1875.
 THE    DEATH    OF    THE  LIZARD.
 
 
-215
-
-
 They  make  grass  nests  on  the  ground,  by  the  root
 of  a  bush.
 
@@ -12004,8 +11604,6 @@ Many  species  distributed  all  through  South  Africa."
 
 f  These  mountains  are  large  ones,  near  \itten\hih.
 
-
-216  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 jkao,  e  i  u.     He  tiken  e,  jkaugen  Ine  I  Ik!  a,  jkaugen
 
@@ -12107,8 +11705,6 @@ Photographed  at  Cape  Town  in  1880.
 VI.     Poetry.
 
 
-220  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 VI.— 42.
 
 B.
@@ -12200,8 +11796,6 @@ It  was  not  cunning.
 
 *  Here  the  cat  opens  its  mouth  wide  in  singing.  (3237')
 
-
-222  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 Ha  ddoa  g^bbitengebbiten ;
 
@@ -12305,8 +11899,6 @@ the  dog  is  racing  on  in  front,  thinking  to  catch  the  Caama  Fox
 by  so  doing.
 
 
-224  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 Ikauwa  jguiten,*
 Ikauwa  Isruiten !  t
 
@@ -12371,16 +11963,11 @@ T6i  \aiti,  female  ostrich.
 Ihanfyass'o,  Jan.  20th,  1879.
 
 
-00
-
 *-.
-
-00
 
 
 %»
 
-00
 
 CD
 
@@ -12397,11 +11984,9 @@ c
 
 I
 
-09
 
 ffl
 
-00
 
 w
 
@@ -12473,8 +12058,6 @@ berries.  They  do  not  eat  them  unmixed,  on  account  of  their  teeth,
 as  they  fear  that  the  sweetness  of  the  berries  might  otherwise
 render  their  teeth  unfit  to  chew  meat  well.
 
-
-226  SPECIMENS   OF   BUSHMAN   FOLKLORE.
 
 Igara  kan  swenya  n  llkulna.
 
@@ -12563,8 +12146,6 @@ J  The  Bushmen  make  beds  {i.e.,  skins  to  sleep   on)  from  the
 skins  of  springbok  and  goats.
 
 
-228  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 VI.— 46.
 
 
@@ -12651,8 +12232,6 @@ fetched  more  dry  wood.  They  were  obliged  to  leave  her  behind,
 as  they  were  all  starving,  and  she  was  too  weak  to  go  with  them  to
 seek  food  at  some  other  place.
 
-
-230  SPECIMENS   OF   BUSHMAN   FOLKLORE.
 
 VI.— 82.
 
@@ -12762,8 +12341,6 @@ f  Dmiorphotheca    annua,    a    daisy -like    flower,    in    bkssom    at/
 Mowbray  in  August,  1879.  *  '
 
 
-232  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 Ikutten-lkhou
 
 o
@@ -12852,8 +12429,6 @@ was  thrust  into  the  fire  by  his  brother-in-law,  in  order  to  punish
 him  for  having  surreptitiously  married  a  sister.  Since  then  he  is
 only  a  bustard.
 
-
-234  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 VI.— 101.
 
@@ -12950,8 +12525,6 @@ did   not   smoke,    because   a   dog   had    come   in   the
 *  It  was  stolen  by  a  hungry  dog,  named  "  Bloni  ",  which  belonged
 to  \gou\nfci.
 
-
-236  SPECIMENS   OF   BUSHMAN   FOLKLORE.
 
 kkdan  ui  au  llga,  I;  hail  Iku-g  Ine  jko  llho.  He  e,
 han  Ikii-g  Ine  ll^a,  han  tten,  o  han  )"auki  Ine  luhi.
@@ -13082,8 +12655,6 @@ in  the  sky  "  is  no  longer  heard  by  the  singer,  as  it  had  been  in 
 magician's  lifetime.
 
 
-238  SPECIMENS    OF  BUSHMAN   FOLKLORE.
-
 VI.— 109.
 
 L.
@@ -13200,8 +12771,6 @@ chief  figure  in  a  legend  related  by  \hdh^tkas8 '6  (V. — 56.  l.).
 f  We  were  calling  out,  making  a  noise  there,  as  we  played.  (8557')
 
 
-240  SPECIMENS   OF   BUSHMAN  FOLKLORE.
-
 He,  ha  Ine  tiii  |khwa-Opua  >"wa  Una,  ha  Ine  llkou
 ha,  au  jkhwa-Opuk  )Va  Una,  ha  Ine  llkou  Ikam  lla
 
@@ -13240,8 +12809,6 @@ PERSONAL).
 VII.    Animals  and  their  Habits — Adventures  with
 them — and  Hunting.
 
-
-244  SPECIMENS   OF    BUSHMAN    FOLKLORE.
 
 VII.— 66.
 
@@ -13336,8 +12903,6 @@ f  Here   the   narrator   made   a   grunting  noise   which,  he   said,
 was  "  in  his  throat  "  ;  and  about  which  he  remarked-  (   )  "  When  (7240')
 I  sit  imitating  the  springbok,  then  I  cough,  on  account  of  it."
 
-
-246  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (7238)  jkauka  Ine"  ta:  "me,  me,  (  )  me,"  au  hi  ;£6aken-ggu
 Ine"  ta:  "a,  a,  a\"  au  hi  Iguonna.  "Waita  Ikauka
@@ -13609,8 +13174,6 @@ Father  used  to  tell  me  that,  (  )  when  lying  in  wait  (4396)
 for  a  porcupine,  at   the   time   at   which  the  Milky
 
 
-252  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 j^uonni  a,  han  a,  n  Ine  +enna,  ti  e,  llwke  a  llgau^uken
 
 (4397)  Ine  jkuiten  a,  llkuan  e.  Tataken  (  )  kkisse  n  o
@@ -13825,8 +13388,7 @@ were  saying.     And  \\j(dbbiten\\j(_dbbiten  remarked  upon
 their   foreheads'    steepness  (?).f      And   the   baboons
 angrily  (?)  came  down  to  (  )  \\j(dbbiten\\j(dbbiten)  they  (5933)
 
-*  The  \1cu-hdU  or  Saxicola  Castor  is  a  little  bird  found  in  Bush-
-manland.  It  lives  in  trees  and  flies  about.  It  is  not  eaten  by
+*  The  \1cu-hdU  or  Saxicola  Castor  is  a  little  bird  found  in  Bushmanland.  It  lives  in  trees  and  flies  about.  It  is  not  eaten  by
 Bushmen.
 
 f  "  Te    speak   to   rue !  ye    are   ugly!  your  foreheads  resemble  (5932')
@@ -13838,8 +13400,7 @@ they  "went  towards  W^dlbitenW^dbbitm.
 
 256  SPECIMENS    OF    BUSHMAN    FOLKLOKE.
 
-Ikam  llkhaiten  e,  he  kie  sse  ssa,  Ikaiiken-a  lly&bbiten-
-ll^abbiten,  i.
+Ikam  llkhaiten  e,  he  kie  sse  ssa,  Ikaiiken-a  lly&bbitenll^abbiten,  i.
 
 Ihiilhuka  jkaukan  ll^am  ssa;  hiii  ha  ttaiiko  kkan
 
@@ -13874,8 +13435,7 @@ Ikii  e,  ka  he  ha  Ilex  ll^abbitenll^abbitenka  tikentiken  ?
 
 (5940)  Hm  tkakken  kii'i  j^wan  he  ike-Opiia  e ;  ha  (  )  he
 kie  Ikii  e,  Ilex  ha-ka  tikentiken.  Hm  Ino  >*aii  llwkoen,
-ti  e,  he  e  jkejkerriten  llkuan  Ikii  e,  sse  Ikilki  ll^abbiten-
-llvabbitenta  tikentiken;  he  e  Ikelkerriten."
+ti  e,  he  e  jkejkerriten  llkuan  Ikii  e,  sse  Ikilki  ll^abbitenllvabbitenta  tikentiken;  he  e  Ikelkerriten."
 
 (5941)  (  )  He  ll^abbitenll^abbiten  ha  ku-kkiii,  hail  *i,
 '  1ST  ka  sse  tte  Iki,  n  ddl,  Ihiilhii  sse  ^iittii  n  ?  ta,  he
@@ -13926,8 +13486,6 @@ those  who  are  grown  up  ?
 after  the  rest,  is  \uhal  \h6  \kwti,  or  "  Schildwacht  ".
 
 
-258  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 (5942)  Iku  tkakken  luha  o  n.  Tiken  Iku  \xwih,  (  )  he  sse
 jkei  lloll,  lie  ddia  n.'  He  ll^abbitenll^abbiten  ha
 kii-kkui,  hail  *i,  'tkamOpua,  n  kan  sse  amm  l^keya
@@ -13943,8 +13501,7 @@ jhammi,  o  he  tt6a,  ti  e,  n  Iwkeya  he  a,  Ihu.'
 han  ddauddau  he, -han  ha  kui :    "  Ihu  wwe  !   Ihulhu
 kkan  dd(5a  e  a,  he  Una  n,  u  kkoo  dd(5a  ll^auwi  he."
 
-(5945)  He  IhuHnThf  llnau,  (  )  hin  kisltu,  tFe,  ll^abbiten-
-ll^abbiten  +kakka  he  a,  ti  e,  Ihu  sse  ll^auwi  he,
+(5945)  He  IhuHnThf  llnau,  (  )  hin  kisltu,  tFe,  ll^abbitenll^abbiten  +kakka  he  a,  ti  e,  Ihu  sse  ll^auwi  he,
 Ihulhiigen  ha  Iku  Ikaiiru-i,  I.     H£,   Ihulhu  ha  |ku^e
 
 (5946)  £utui  ll^abbitenll^abbiten,  I;  he,  (  )  ha  ha  bbai,
@@ -14032,14 +13589,11 @@ And  the  lion  heard,  as  she  cried  there.     And  the
 lion  came  to  her,  on  account  of  it.
 
 And  (  )  she  took  out  (some  of)  the  grass*  upon  (4005)
-which  her  parents  were  lying ;  because  she  had  per-
-ceived the  lion  ;  the  lion  intended  to  kill  (and)  carry
+which  her  parents  were  lying ;  because  she  had  perceived the  lion  ;  the  lion  intended  to  kill  (and)  carry
 
 *  The  narrator  explained  that  the  Bushmen  sleep  upon  grass,  (4007')
 which,  in  course  of  time,  hecomes  dry.
 
-
-260  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 llkhan  Ine  |ku^e  Ihin,  I;  ©hdkaken  Ine  ttiiko  bbiibbu
 
@@ -14200,8 +13754,7 @@ Opuoin  tt|iya,  he  Jk'e  >*auki  Ine  l^keya  ke?'  He
 ha  ha  kii-kkui,  han  +i,  1 1ST  kan  ya'uki  sse  jkwi  jk'e ;
 
 (4900)  ta-g  ii  >*auki  +en-na,  (  )  ti  e,  Ik'e  Ino  e;  ta,  n  sse
-amm  ttamOpua  jkah-a,  n  sse  tta,  ti  e,  jk'e  kwo-
-kkwan  Ino  e.  Ta,  n  ssan  6a  Ikii  llnau,  tss'a  a  Ibarra,
+amm  ttamOpua  jkah-a,  n  sse  tta,  ti  e,  jk'e  kwokkwan  Ino  e.  Ta,  n  ssan  6a  Ikii  llnau,  tss'a  a  Ibarra,
 ha  e,  n  kk6o  Ikwi  Ikw6ta.'
 
 
@@ -14252,8 +13805,7 @@ ha  Iki  Ikiiki,  ha  Ikil  a  a.  He  ha  Ika  sse  jkhe  Iko  Ha,
 1;  he  ha  Ikan  akken,  I;  he  ha  tta,  ti  e,  llkha  Ikii
 
 (4902)  ddda  a,  (  )  Opuoin  Ilkh6e  ssho  Ikauka  llnem.  He  ha
-Iku  ttamsse  kkwa  l^uonni,  I ;  he  ha  Iku  ha  kwakken-
-kwakki  Ihiii,  I.
+Iku  ttamsse  kkwa  l^uonni,  I ;  he  ha  Iku  ha  kwakkenkwakki  Ihiii,  I.
 
 He\  ha  ha  llnau,  han  ka  ha  lie  llkhwe-ten,  han  ha
 
@@ -14295,8 +13847,7 @@ ssan  Ikii  jhau  ha  llnau,  jga'ue  ya  jkhwalya, — o  llkha
 MAN   WHO    FOUND    LION    IN    CAVE.  265
 
 (  )  And  he  felt  about;  and  he  felt  that  a  thing  (4901)
-which  seemed  to  have  hair  was  there.  And  he  gently-
-approached  a  little  nearer  to  it ;  and  he  felt  well
+which  seemed  to  have  hair  was  there.  And  he  gentlyapproached  a  little  nearer  to  it ;  and  he  felt  well
 about,  and  he  felt  that  a  lion  was  the  one  which  (  )(4902)
 slept  sitting  inside  the  cave.  And  he  gently  stepped
 backwards  (and)  turned  round ;  and  he  went  out  on
@@ -14355,8 +13906,7 @@ ti   e,   llkha  tsa^au,  ha  ka   ll^am  llnau,   ll^ke  ko,  he
 Ino  e,  a  kkie  Ilka  Una.'  He,  ha  ha  jku;£e  Iko  Ha,
 o  li,  I;  han  ha  ll^koen;  he  ha  ha  ll^koen,  ti  e,  jk'e
 
-(4914)  Hkiian  jkhe  jk'au  ta  li-ttu-^au.  (  )  He  ha  ha  kii-
-kiii-ten  +1,  '  1ST  kan  llkuan  sse  lie  Ik'e ;  ta,  ti  llkuan
+(4914)  Hkiian  jkhe  jk'au  ta  li-ttu-^au.  (  )  He  ha  ha  kiikiii-ten  +1,  '  1ST  kan  llkuan  sse  lie  Ik'e ;  ta,  ti  llkuan
 llkho  Ik'e  llkuan  e.'
 
 —       •  o     D
@@ -14368,8 +13918,7 @@ o  llga  ka  ti  e.  N  Iku  llnau  ti  e,  llkha  Opuomya ;
 he  tiken  e,  u  Ini  n,  i.     Ta,  ii  >auki  ssm  sse  Ini  n,
 
 (4916)  5  Hkha  yauki  ssm  Opuomya;  (  )  ta,  ti  e,  ha
-Opuomya,  I,  he  Ikii  e,  ti  Ilkh5a,  ii  Ini  n,  I ;  n  jke-
-ssa  u.     Ta,  n  llkuan  ssm  +i,  ti  e,  n  kan  lla  Ika  llna-
+Opuomya,  I,  he  Ikii  e,  ti  Ilkh5a,  ii  Ini  n,  I ;  n  jkessa  u.     Ta,  n  llkuan  ssm  +i,  ti  e,  n  kan  lla  Ika  llna-
 
 (4917)  Una,  jkauka  llnem,  o  llkhaii  <g  Iku  (  )  ssan  jka  Iki
 n,  o  Ikauka  llnem.  N  ^auki  +en-na,  ti  e,  llkha  oa
@@ -14417,8 +13966,6 @@ for  a  place  which  was  dry,  that  I  might  lay  down
 my  (  )  things  there.     Then,  when  I  walked  into  the  (4918)
 cave,  I  heard  a  thing  which  sounded  as  if  it  breathed ;
 
-
-268  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 tchueii,  I.     He  tiken  e,  n  llnau,  h  ttai  le-ssa  Ikauka
 
@@ -14510,13 +14057,10 @@ Day  broke,  while  the  lion  was  (still)  threatening  (  )  (4925)
 them.  When  the  day  broke,  then  it  was,  that  the
 lion  went  away,  leaving  the  people ;  because  the  sun
 was  rising ;  therefore,  it  went  away,  (  )  leaving  the  (4926)
-people,  while  it  felt  that  the  sun  rose.  For  (other-
-wise), the  people  would  perceive  it ;  for  the  lion  is
+people,  while  it  felt  that  the  sun  rose.  For  (otherwise), the  people  would  perceive  it ;  for  the  lion  is
 a  thing  which  is  not  willing  to  come  to  us,  when  the
 sun  stands  (in  the  sky).
 
-
-270  SPECIMENS   OF   BUSHMAN   FOLKLORE.
 
 VII.— 161.
 
@@ -14561,8 +14105,7 @@ kie  sse  Ik!  Igilgi  Jgaiioken,  Jgaiioken  sse  Ikha  Opuai.
 
 jk'e-ten  llnau,  6  i  l^a  Jkhwai,  hin  ^auki  a  hi   a,
 
-(5305)  (  )  whaita  a,  o  hin  tta,  Ilka  ti  e,  whai  ^a'uki  ttam-
-sse  ttai.     Ta,  ha  ka  Ikii  llnau,  llga  ki-ssa  e,  han  ka
+(5305)  (  )  whaita  a,  o  hin  tta,  Ilka  ti  e,  whai  ^a'uki  ttamsse  ttai.     Ta,  ha  ka  Ikii  llnau,  llga  ki-ssa  e,  han  ka
 
 /  M  9
 
@@ -14591,8 +14134,7 @@ CERTAIN    HUNTING    OBSERVANCES,
 CALLED    \NANNA~SSE.
 
 When  we  show  respect  to  the  game,  we  act  in  (5301)
-this  manner;  because  we  wish  that  the  game  may-
-die.    For  the  game  would  not  die  if  we  did  not  show
+this  manner;  because  we  wish  that  the  game  maydie.    For  the  game  would  not  die  if  we  did  not  show
 respect  to  it.
 
 We  do  as  follows :  a  thing  which  does  not  run  fast
@@ -14623,8 +14165,6 @@ it  would  not  go  to  a  place  near  at  hand,  while  (   )  (5307)
 it  felt  that  we  ate  springbok  which  does  not  sleep,
 even  though  it  be  night.     It  (the  game)  would  also
 
-
-272  SPECIMENS  OF    BUSHMAN   FOLKLORE.
 
 Il^am   Ine    llkellke  ti  e,   whai    dda   he ;   he   whai  ta
 
@@ -14726,8 +14266,6 @@ him  sit  down  at  a  little  distance,  while  he  is  not
 near  to  the  place  where  the  people  are  cutting  up
 
 
-274  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 (5316)   la    Iki   whal,    I.     Ta,    ha    Iku    kan    ss'o,    (    )   o   ha
 lhammi  ti  e,  ha  ssan   Ikhou   whaika   Ikarra    Ikw'ai ;
 
@@ -14828,8 +14366,6 @@ the  other  man's  heap  of  bones ;  another  man  also  has  his  own  heap
 of  bones,  the  bones  of  the  springbok  which  he  kills.
 
 
-276  SPECIMENS    OF   BUSHMAN    FOLKLORE.
-
 He,  hi  Ine  ll^a,  hi  llnau,  hi  j^aua  jkwagen  kkuften,
 hi  Ine  II  ya,  hi  kkwarreten  *  luhi  llkho  hi.     Hin  Ine
 
@@ -14866,8 +14402,7 @@ Ikhwa  a  a,  ha  a,  aka  ti  e  :    au  IkuT  laitiken  Ine  Ikamma  Ikhwa
 
 latti-Opua.
 
-(7264')  (  )  jk'eta  Ikagen  yauki  hi  wa'i  ||gai||ga'iten,  au  hih  jnahha-
-sseya  jk'eta  tuken  Jnwa,  jk'eta  tuka  ssih  kwe,  Ikhi.  Ta,  i  Ike
+(7264')  (  )  jk'eta  Ikagen  yauki  hi  wa'i  ||gai||ga'iten,  au  hih  jnahhasseya  jk'eta  tuken  Jnwa,  jk'eta  tuka  ssih  kwe,  Ikhi.  Ta,  i  Ike
 llnau,  l  ttan-t,  tiken  yauki  aken;  ta,  i  ta  Iku-g  Ine  ttah-ttah,
 au  i  ttan-i ;  au  i  1^1  i  lyauoken,  au  i  sse  ttah-ttah.  He  tiken
 e,  i  Ine  ttah-ttah,  I.
@@ -14925,8 +14460,6 @@ And  the  springbok  is  inside  of  us  and  we  become  ill  on  account  of
 it.  Therefore,  we  do  not  play  tricks  with  springbok's  bones  ;  for
 we  put  the  springbok's  bones  nicely  away,  while  we  feel  that  the
 
-
-278  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 r
 
@@ -15023,8 +14556,6 @@ t  It  is  blood  which  lies  (lit.  "  sits  ")  upon  the  ground.
 
 §  Springbok's  bones.  (7267')
 
-
-280  SPECIMENS    OF    BUSHMAN   FOLKLORE.
 
 Jkumjkuiii  %&u  sse  yabuii  hi ;  au  hin  tatti,   Jkiikko
 ssaii  ttan-a.
@@ -15133,8 +14664,6 @@ f  For   a   little   further    information    regarding    ttb   and    Whdra
 see  IX.— 237.
 
 
-282  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 He  jkukko  Ine  ll^amki  a  ha  a,  jnwa ;  au  han  tatti,
 
 r  f
@@ -15208,8 +14737,7 @@ we  put  our  finger  into  it ;  and  then  we  pull  the  (bow-)
 string,  while  we  feel  that  our  finger  is  inside.  We
 are  shooting,  when  we  lie  in  wait  for  the  springbok.
 Then  it  is  that  our  finger  gets  a  wound,  when  we
-shoot,  lying  in  the  screen  of  bushes,  while  the  spring-
-bok come  up  to  us  as  we  lie,  because  (  )  the  springbok  (7272')
+shoot,  lying  in  the  screen  of  bushes,  while  the  springbok come  up  to  us  as  we  lie,  because  (  )  the  springbok  (7272')
 are  not  a  little  numerous,  when  we  have  gone  by
 night  (among  them,  making  a  shelter  behind  which
 to  shoot).  Therefore,  this  male  springbok, — he  comes
@@ -15218,8 +14746,6 @@ shall  shoot  (him).  He  runs  away,  he  goes  to  lie
 down  (to  die),  while  we  lie  inside  the  screen  of  bushes
 which  we  have  made.
 
-
-284  SPECIMENS    OF    BUSHMAN   FOLKLORE.
 
 HOW  THE  FATHEE-IN-LAW  OF  THE
 NABKATOK  TEEATED  BONES.
@@ -15258,8 +14784,7 @@ Ine  liken  jho  l^ui  e  jkulya,  au  ti  e  a  [6.],  au  han
 
 (8068)  ha,  hi  ssih  Ine  llkhda  jkui  a  (  )  |khe,  wa'i  ssin  Ine
 ll^koen  jhoa  hi,  au  wai  ggauwa  jkoaken.  Ta,  wai
-ssah  j^uohni  jkou  ttin  ba,  au  ha  Ine  jkita,*  jk'e-
-kkuiten   wai,    wai   koa    ssaii    lyuohni   Ikou   ttih  ha,
+ssah  j^uohni  jkou  ttin  ba,  au  ha  Ine  jkita,*  jk'ekkuiten   wai,    wai   koa    ssaii    lyuohni   Ikou   ttih  ha,
 
 o  O  /  ODD*  /V  o  •  '
 
@@ -15317,8 +14842,6 @@ other  people.     He  does  not  a  little  run  along,  for,  he  passes  the
 foremost  springbok,  while  he  desires  that  the  springbok  may  not
 pass  by  on  one  side  of  the  man  who  (  )  came  to  lie  on  this  side.        (8069')
 
-
-286  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 Ikften  Ik'tii  hi.     He"  tiken  e,  ha  Ine  liken  Iho  lyiii,
 I  [6.].     Han  Ine  llan,  ll^amki  liken  |ho  l^ui-Opuoimi
@@ -15399,8 +14922,7 @@ it
 
 3.
 
-Row  of  sticks  with  feathers  tied  upon  them,  used  in  springhok-
-hunting,  to  turn  the  game.  The  lines  represent  the  Bushmen
+Row  of  sticks  with  feathers  tied  upon  them,  used  in  springhokhunting,  to  turn  the  game.  The  lines  represent  the  Bushmen
 lying  in  wait  for  them.
 
 1 .  From  this  direction  the  herd  of  springbok  comes.
@@ -15425,8 +14947,6 @@ VIII.     Personal  History.
 
 ii
 
-
-290  SPECIMENS    OF   BUSHMAN    FOLKLORE.
 
 VIIL— 88.
 
@@ -15531,8 +15051,6 @@ worked  at  the  road.  We  lifted  stones  with  our
 chests  ;  we  rolled  great  stones.     We  again  (  )  worked  (246)
 
 
-292  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 Ssiten    Ine    Ikammain    I'au,    au    I 'an  waken    liihisho
 
 o  o  •  *  •  o  •
@@ -15541,8 +15059,7 @@ Ohoken.*     Ssiten    Ine    Ikammam    I'au ;    ssiten    Ine
 
 o  o  o  "  '  o
 
-llkau  kofohe  au  I'au ;  ssften  Ine  herri-i  ha.  Ike-
-kuitaken  Ine  ttai  lla.  Ssiten  Ine  herri-i  kofohe
+llkau  kofohe  au  I'au ;  ssften  Ine  herri-i  ha.  Ikekuitaken  Ine  ttai  lla.  Ssiten  Ine  herri-i  kofohe
 Ikwalkwaken ;    ssiten    Ine   herri-i,    ssiten    Ine    Ikann
 
 (247)  (    )  ttoro   Iho  j'au;    ssiten    Ine   herri-a   ki   llkoi   ha.
@@ -15607,8 +15124,7 @@ the  wagon  with  earth ;  we  pushed  it.  Other  people
 walked  along.  We  were  pushing  the  wagon's  wheels ;
 we  were  pushing ;  we  poured  (  )  down  the  earth ;  (247)
 we  pushed  it  back.  We  again  loaded  it,  we  and  the
-Korannas.  Other  Korannas  were  carrying  the  hand-
-barrow.  Other  people  (i.e.  Bushmen)  were  with  the
+Korannas.  Other  Korannas  were  carrying  the  handbarrow.  Other  people  (i.e.  Bushmen)  were  with  the
 Korannas  ;  they  were  also  carrying  earth  ;  while  the
 earth  was  upon  the  handbarrow.  They  again  came
 to  load  the  handbarrow  with  earth.
@@ -15632,8 +15148,6 @@ bound,  came  to  the  Breakwater.  (  )  On  the  way,  (250)
 we  ate  sheep  as  we  came  to  the  Breakwater ;  we
 came  (and)  worked  at  it.
 
-
-294  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (249')  (  )  Ihu  Ine  Iki  lkein-na  ssi  If-ta  kofohe,  ati  llga.
 Ssften  Ine  Ikagen  ko  Ilk6'i  ssm  If ;  li-ta  kofohin  Ine
@@ -15727,8 +15241,6 @@ we  altogether  ran,  leaving  them.
 *  Kafir  police  are  probably  meant  here.
 
 
-296  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 He  ti  hin  e,  ssi'ten  Ine  Han  tkaka  Gau>au;
 Gau>uuken  Ine  tkaka  ssi.  Ilkoyaitaken  Ine  Iki  Ha
 ssi  au  trorik-ga  llnein*  au  llga.  Ssi'ten  Ine  Han  Iki
@@ -15753,8 +15265,7 @@ o  o  r— |
 t
 
 Ihin,  ssiten  Ine  liihl,  au  ssi  Ikwalkwakaken  llkdita
-Oho.  |ke-ten  Ine  j^aua  lgei-ta  en,  au  ssi  Ikwa-
-lkwakaken leta  Oho.
+Oho.  |ke-ten  Ine  j^aua  lgei-ta  en,  au  ssi  Ikwalkwakaken leta  Oho.
 
 •  o
 
@@ -15801,8 +15312,7 @@ our  legs  were  inside  the  stocks.  The  people  boiled
 sheep's  flesh,  while  our  legs  were  in  the  stocks.
 
 The  Magistrate  came  to  take  our  legs  out  of  the
-stocks,  because  he  wished  that  we  might  sit  comfort-
-ably, that  we  might  eat ;  for,  it  was  his  sheep  that  we
+stocks,  because  he  wished  that  we  might  sit  comfortably, that  we  might  eat ;  for,  it  was  his  sheep  that  we
 were  eating.  (  )  Katten  ("  Piet  Rooi")  came  (and)  (272)
 ate  with  us  of  the  Magistrate's  sheep,  while  we  were
 eating  it ;  also  another  man,  Kkabhi-ddMi ;  also
@@ -15813,8 +15323,6 @@ slept,  while  their  legs  were  in  the  stocks.  Other
 Korannas  also  came,  they  came  into  another  house,
 another  "  jail's  house."
 
-
-298  SPECIMENS    OF   BUSHMAN   FOLKLORE.
 
 VIIL— 89.
 
@@ -15916,9 +15424,6 @@ Thou  knowest  that  I  sit  waiting  for  the  moon  to  (2874)
 turn  back  for  me,  that  I  may  return   to  my  place.
 
 *  From  Mowbray  to  Cape  Town  and  back.
-
-
-300  SPECIMENS   OF   BUSHMAN    FOLKLORE.
 
 
 ttumm-a    lke-ta-kii,    ka    kko-kkommi,    au    ka    Ine
@@ -16035,8 +15540,6 @@ Therefore,    they   obtain    stories    at    them;    because
 \  Wkdbbo  explains  that  a  story  is  "like  the  wind,  it  comes  from  f2876'}
 a  far-off  quarter,  and  we  feel  it."
 
-
-302  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 hi   Iki   kko-kkommi  1;    au   hin  tatti,  hi  Ike   jhaue,
 au  hm  tatti  e,   luhi'liihi-ta  Ike  e.
@@ -16159,8 +15662,6 @@ following  one  along  the  same  road.
 §  "  Jantje,"  \uhl-ddoro,  and  Wkdbbo.
 
 
-304  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 Ilkuan    ka    jgwee-ten    Ikam    He    ll^an-kko.     He*    e,
 
 (2888)  i  Iklya  Ikii-g  Ine  llkoe"  hh5  he  |kg;  (  )  au  hi  ^auki
@@ -16184,8 +15685,7 @@ Ibarra-ken    Iku    jke   tta,   ha-ka   !^(5e,   au   Ibarra-ken
 
 m  t  v
 
-kko,  hi  Inunttuken  Ikii  ttumm  llkam  Iho  lla  Ikui-
-ten-ka  jkm  Ike ;  h£,  ha  Ine  |kiii-ten  lla,  1.  Ha  sse-g
+kko,  hi  Inunttuken  Ikii  ttumm  llkam  Iho  lla  Ikuiten-ka  jkm  Ike ;  h£,  ha  Ine  |kiii-ten  lla,  1.  Ha  sse-g
 Ine    tkerre    \xoq.     Ta,    \%6e    Ilkuan    ssho-g    Ine   ka
 
 (2891)  0h6ken  aken;  au  (  )  hin  tStti  e,  hi  Ine  dd(e)ouwa;
@@ -16263,8 +15763,6 @@ not;    for    Wkabbo's    father's    father's    place    it    was.
 
 x
 
-
-306  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 W  v  w  f  t  w
 
@@ -16371,8 +15869,6 @@ father-in-law's  pitfalls  were  surpassingly  good  ones.
 
 f  The  word  Qpuondde  here  means  both  Wkabbo's  son  and  daughter.
 
-
-308  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 ii-n    a    )"aisse    kkiya    ha-ha.     Ha    6a-ken    >auki    a
 yaisseya   ha.     Ta,    ha    6a    Ikii    Ikiiken,    j(U    6a    ha.
@@ -16481,8 +15977,6 @@ he  returned  with  the  child,  for  one   more  night,   and  then  went
 back  to  his  own  home.
 
 
-310  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 sse  ha,   au   ii-ka   llnein,    au   ha    leta   n-ka   llho ;   au
 
 (2905)  nkSin  (  )  na  tta  li.  Au  n  tatti  e,  n  $,  ^auki  Ina
@@ -16579,14 +16073,11 @@ one  who  chased  it,  while  it  went  along  in  fear  of
 me.  It,  in  fear,  lay  down  to  die  (  )  from  the  sun;  (2911)
 because  it  had  become  dry  (while  running  about)
 in  the  sun ;  because  it  saw  me  when  I  followed  it.
-It  did  not  stop  to  walk,  that  it  might  look  back-
-wards.    For  it  (  )  had  run  about,  when  it  was  tired.  (2912)
+It  did  not  stop  to  walk,  that  it  might  look  backwards.    For  it  (  )  had  run  about,  when  it  was  tired.  (2912)
 
 *  i.e.,  make  it  spring  up  from  its  form  and  run  away,  falling  (2906')
 down  dead  later.
 
-
-312  SPECIMENS    OF    BUSHMAN   FOLKLORE.
 
 Ilkuwa.  Han  Ikii  H^ell^e,  han  Ikuken;  au  han  Ikii
 ddda  Iku^eya  ttin.  He*  ti  hih  e,  ha  Ikii-g  Ine
@@ -16687,8 +16178,6 @@ which  is  injurious  if  used  as  the   chief  nourishment   in  winter,
 causing  severe  pain  in  the  head  and  singing  in  the  ears.
 
 
-314  SPECIMENS    OF   BUSHMAN   FOLKLORE.
-
 |khwa  sse  4kam©pua  kkau,  he  e,  n  ssan  Ine  !goa-i,
 au  ka    Igoa    llgaue   tt6i   a*   ka    Ikuaralkuara,    llkde
 
@@ -16722,13 +16211,11 @@ llkowa.  Ta,  n  Iku  sse  ttai,  Hko  0h6ken  Ika'u'itenttu,
 au  ka  jnaunkko  jga'uoken  Iki  lla  j^arra.
 
 (2924)  He'  e,  llhau  sse  arroko  le  ssi  I;  (  )  au  ka  Ine
-ssho,  n-ka  !^<5e.  Ta,  n  >auki  sse  ttai,  j^o^ten-
-j^oeten  e  Ibarra ;  ta,  n  ssm  Una,  n-ka  \%6e ;  he
+ssho,  n-ka  !^<5e.  Ta,  n  >auki  sse  ttai,  j^o^tenj^oeten  e  Ibarra ;  ta,  n  ssm  Una,  n-ka  \%6e ;  he
 n  jkwiya  n-ka    Gauyau   a,   hi   Ike ;   han  Ine   +enna
 
 (2918')  *  The  narrator  explained  that,  ttoi  a,  here,  means  "an  ostrich
-and  its  wife".  Ttoi  e  would,  he  said,  have  meant  "many-
-ostriches  ".
+and  its  wife".  Ttoi  e  would,  he  said,  have  meant  "manyostriches  ".
 
 (2920')      f   =  ti  e  a,  M  t
 
@@ -16773,8 +16260,6 @@ Master ;   he  knows  it ;    he   knows,   (having)   put   it
 *  When  he  is  sitting  at  his  own  place.  (2923')
 
 
-316  SPECIMENS    OF   BUSHMAN  FOLKLORE.
-
 (2925)  hi;  han  Ine  *enh  llkda  hi.  Hd  e,  (  )  h  Ikl  +ka
 ssho  hi.  Hm  e,  n  jkajka  ssho  hi,  au  +kabbu;  he*
 e,  ha  sse   Iketen  ki  lie  +kabbii  au  n  I ;   au  ha  Iku
@@ -16788,8 +16273,7 @@ au  ka  tatti  e,  n  Ine  l^a  hhi  n.  Ta,  kko'in  a,  ii
 (2926')  llhihya  a,  au  kko'in-ta  ha,  (  )  he*  n  kko'in  |kun  jkoa
 jgei,  i.  He"  ti  hin  e,  n  ssm  llnillni  ha,  n  ssm  Ini
 tkabbii  au  ha-ha ;  ii  ssm  III  ha.  N"  ssm  111  n,  l^a,
->aisse  h,  au  ka  tatti  e,  n  >auki  Ine  hhi,  n  Ikagen-
-ka  ha.     Ta,  ii  Iku-g  Ine  hi  h  jkhwai.
+>aisse  h,  au  ka  tatti  e,  n  >auki  Ine  hhi,  n  Ikagenka  ha.     Ta,  ii  Iku-g  Ine  hi  h  jkhwai.
 
 Ta,  *kabbii  a  ka  jkoasse  Inu^o,  hail  a,  i  ta  Ika
 whai  e  ttai  llkde  hhda  ^ao,  l-g  Ine  Ha,  ha  llkde
@@ -16866,8 +16350,6 @@ had  killed  (my)  leveret  for  me.     And  she  soothed
 
 f  i.e.  his  mother  and  his  maternal  grandmother  ^kammi.
 
-
-318  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 ddatten  n,  I.     He"  tiken  e,  ha  Ine  *kakka  ke,  ti  e,
 
@@ -16959,8 +16441,6 @@ as  it  did  ;  and  it  went  to  sit  down.
 *  The  narrator's  maternal  grandfather.
 
 
-320  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 (7211')      (  )  He*  ti  hin  e,  hi  Ine  kui,  n  Ikuen,  ta,  n  a  ka
 
 t
@@ -17025,8 +16505,7 @@ I  went  to  fetch  water ;  then,  they  killed  (my)  leveret
 for  me,  while  I  was  at  the  water.     (  )  They  killed  (7212')
 (my)  leveret  for  me  ;  and  then  I  came  (and)  cried,
 about  it ;  because  I  had  thought  that  they  would  let
-(my)  leveret  alone.     For,  they  must  have  been  de-
-ceiving me ;  they  told  me  to  fetch  water,  while  they
+(my)  leveret  alone.     For,  they  must  have  been  deceiving me ;  they  told  me  to  fetch  water,  while  they
 must  have  intended  that  they  would  kill  (my)  leveret
 for  me,  which  I  (  )  had  meant  to  let  alone,  so  that  (7213')
 it  might  live  (on)  in  peace.     They  had  killed  it  for
@@ -17063,8 +16542,6 @@ preceding  plate  (fig.  8).
 
 Y
 
-
-322  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (5625)  mama  ku-kkui-ten  l^keya  ke,  (  )  n  Ino  ^au  ll^koen,
 ti  e,  Ikhwa  Ikuei  ydken  bbaiten-i,  i;  lie  n  llkellke
@@ -17171,8 +16648,6 @@ at  \fchm  \Jcii  (also  called  "  Evvicass  Pits",  on  account  of  a  tree
 which  stands  by  the  Pits).
 
 
-324  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 ttuttu  mama  o  ti  e,  ts'a-dde  Ino  a  ddi  ya;  jkhwa-ka
 hhou'itenhhouiten    Ino    Ina    ha,    lie    ha    II Im  ?     He
 
@@ -17230,8 +16705,6 @@ Photographed  at  Salt  River  in  1884.
 IX.      Customs  and  Superstitions.
 
 
-328  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 IX.— 97.
 
 B.
@@ -17250,8 +16723,7 @@ ha    l^ka,    I;    au    han    tatti    e,    ha    l^ka    lalti    e    a.
 
 (358)  jkwa  gwai-Opuaken  tatti  e,  (  )  ha  e  jkwa  gwal-
 Opua,  he  ti  hin  e,  ha  Ikauwa  ha  l«ka  e  a,  ha
-llkun  gwai,  ta  hi  liika*  au  ha  l^ka.  jkwa  gwal-
-koken,  >*auki  Ikauwa  ha  l^ka ;  jkwa  laiti-kowaken
+llkun  gwai,  ta  hi  liika*  au  ha  l^ka.  jkwa  gwalkoken,  >*auki  Ikauwa  ha  l^ka ;  jkwa  laiti-kowaken
 Mmki  Ikauwa  ha  l^ka.
 
 f  f
@@ -17436,8 +16908,6 @@ the  letters  which  take  a  message  or  an  account  of  what  happens  in
 another  place.
 
 
-332  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 a  a  * ;  au  ha  f  a  dd&rraka.     I^am-ka-jketeri  Ini  Ini,
 
 (2533)  Iki  ssa  jk'e,  au  ha-ha.  (  )  l^am-ka-lketen  l^kamma,
@@ -17481,8 +16951,7 @@ Ikii  jkei  llau."
 Hail  l^kamm  ha  Ikaulkau ;  han  +kakka  Ikauken :
 
 (2537)  (  )  "Whai  kkan  tta  ssa,  ta  h  li/kanim  +ha+hain.
-llkal  tteu  Ikao  f  Ike  |khe^  li  sse  !goa-a,  tikentiken-ka-
-ku.     Ta,   n    l^kamm,   wkai-ta    iwkamm."     Ikukoken
+llkal  tteu  Ikao  f  Ike  |khe^  li  sse  !goa-a,  tikentiken-kaku.     Ta,   n    l^kamm,   wkai-ta    iwkamm."     Ikukoken
 
 (2538)  jhumm  ha:   "N  kkan  ka,   Ikauken  I;  ta,  (  )  whai
 
@@ -17522,8 +16991,7 @@ ye  contradict  my  presentiment,  which  speaks  truly."
 
 He  feels  a  tapping  (at)  his  ribs ;  he  says  to  the
 children:  (  )  "The  springbok  seem  to  be  coming,  (2537)
-for  I  feel  the  black  hair  (on  the  sides  of  the  spring-
-bok). Climb  ye  the  Brinkkop  standing  yonder,  that
+for  I  feel  the  black  hair  (on  the  sides  of  the  springbok). Climb  ye  the  Brinkkop  standing  yonder,  that
 ye  may  look  around  at  all  the  places.  For  I  feel  the
 springbok  sensation."  The  other  man  agrees  with
 him  :   "I  think  (that)  the  children  (should)  do  so ;
@@ -17541,8 +17009,6 @@ house,  the  man  who  is  sitting  there,  feels  on  his  shoulders  the
 thong  with  which  the  woman's  child  is  slung  over  her  shoulders  ;
 he  feels  the  sensation  there.
 
-
-834  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 ka  Jkurruka  ssa ;  ta,  ll^au  Ike  jkhe,  ha  llkuan
 j^owa ;  hi  sse  ll^koen  Igappem  llko  Ik'au.  He*  e,
@@ -17641,8 +17107,6 @@ f  A  black  stripe  that  comes  down  in  the  centre  of  the  forehead,  (25
 and  terminates  at  the  end  of  the  nose.
 
 
-336  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 au  ha  tta'i  ttau  Ikuaiiten  Ikamni ;  ati  llgu  wa  e ;  au
 ll^koin  ya  Ikueita ;   ha  tta  li.
 
@@ -17669,8 +17133,7 @@ I  Ine  Iwkamhi,  i.
 
 r  t  t
 
-He  ti  hm  e,  jkauken-Opuonni  >auki  tta  llgaua-
-llgaua    leta    llnem,    i ;    hi    Iku    kkan,    llgaua    llkau
+He  ti  hm  e,  jkauken-Opuonni  >auki  tta  llgauallgaua    leta    llnem,    i ;    hi    Iku    kkan,    llgaua    llkau
 
 (2562)  ssho ;  hi  sse  jkwan  I ;  au  hi  Ina  tchuen,  (  )  au
 tchuenya  ttaiya  hhe  ti.  Hi  sse  jkwaii  mmummii
@@ -17734,8 +17197,6 @@ louse  "  as  the  Bushmen  describe  it.
 t  \\kabbo  explains  that  \\gu  means  "  de  bloem  tijd  ".
 
 
-338  SPECIMENS   OF   BUSHMAN   folklore.
-
 r
 
 bb|i  tchuen,  au   Ika'o  a,   ha  llkam  tta ;  ha  tchuenya
@@ -17787,8 +17248,7 @@ IIMllM,  here.
 DOINGS   AND    PRAYERS    TO    CERTAIN    STARS.  339
 
 the  things  at  the  hill  which  lies  across,  to  which  the
-things  are  walking.  The  things  walk,  putting  them-
-selves in  front  of  it ;  *  we  will  quickly  pass  behind
+things  are  walking.  The  things  walk,  putting  themselves in  front  of  it ;  *  we  will  quickly  pass  behind
 it,  while  it  still  lies  away  (from  the  springbok).  We
 will  stand  nicely  (ready)  for  (  )  the  things,  that  we  (2565)
 may  not  steal  up  abreast  f  of  the  things,  (but)  that
@@ -17806,8 +17266,7 @@ AND    SIRIUS    COME    OUT.
 The  Bushmen  perceive  Canopus,  they  say  to  a  (3348)
 child:  "Give  me  yonder  piece  of  wood,  (  )  that (3349)
 I  may  put  (the  end  of)  it  (in  the  fire),  that  I  may
-point  (it)  burning  (towards)  grandmother,  for,  grand-
-mother carries  Bushman  rice  ;  grandmother  shall
+point  (it)  burning  (towards)  grandmother,  for,  grandmother carries  Bushman  rice  ;  grandmother  shall
 make  a  little  warmth  for  us  ;  for  she  coldly  comes
 out ;  the  sun  §  shall  warm  grandmother's  eye  for  us."
 
@@ -17828,13 +17287,10 @@ That  is,  putting  their  faces  towards  the  mountain.  (2564')
 in  front  of  its  path.
 
 J  The  Bushmen  are  at  the  back  of  the  hill,  waiting  for  the
-springbok  to  cross  it,  coming  to  the  place  where  they  (the  Bush-
-men) are.
+springbok  to  cross  it,  coming  to  the  place  where  they  (the  Bushmen) are.
 
 §  The  sun  is  a  little  warm,  when  this  star  appears  in  winter.        (3349')
 
-
-340  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 Ikiikoken     +kakka     ha :      "  N     ka     Ina     Ikiittau.''
 
@@ -17917,8 +17373,6 @@ down  quickly.
 shoulder  blade  to  the  sun.
 
 
-342  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 IX.— 182.
 
 L.
@@ -17938,8 +17392,7 @@ He,  hi  Ine  llnau,  hi  Ikiiiten  lla,  hi  Ine  ttai  tau
 ttiirru  Ike,  hi  i  ttiirru  Ike-ta-ttuken ;  hi  Ine  llhin  hi.
 He  hi  Ine  Iki  lla  hi,  au  llnein.
 
-(8056)  He  (  )  hi  Ine  jk'a'iten  jkoa,  t  jk'a'iten  kiii  nnai-
-nnaihj  hi.  He,  hi  Ine  jk'a'iten  Ike,  hi  Ine  H^am-
+(8056)  He  (  )  hi  Ine  jk'a'iten  jkoa,  t  jk'a'iten  kiii  nnainnaihj  hi.  He,  hi  Ine  jk'a'iten  Ike,  hi  Ine  H^am-
 ki    Ik'aiten    ddi    kui    nnainnaih    Ike.     He,    hi    Ine
 
 •no  d  d  t
@@ -18019,8 +17472,6 @@ a  skin  [a  whole  skin,  which  has  no  holes  in  it,  a  springbok  skin].
 
 §  They  work  it ;  they  work,  making  a  pot  of  it.  (8057')
 
-
-344  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 v  it.
 
@@ -18151,9 +17602,6 @@ black  {i.e.  "  black  gum  ").     The  people  call  them  the  dung  of  the
 A  white  gum,  called  \giti,  seems  also  to  be  found  on  this  tree.
 
 
-346  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
-
 *
 
 
@@ -18247,8 +17695,6 @@ a   sharp    edge,   they  strike   with   it ;   strike,   dividing   the   bon
 because  they  intend  to  boil  it,  that  they  may  gnaw  it.
 
 
-348  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 IX.— 184.
 
 
@@ -18260,8 +17706,7 @@ THE    IKHU.*
 (Given  in  January,  1878,  by  lhan+kass'o.)
 
 (6083)  Iku  Ikhiiken  e  a ;  Ikhiiken-ka  ti  e,  llkou  Ikhe  ha
-tsinyu.  Ikhiiken  liikenliikaken  Ine  e  a,  h^  e  liken-
-liken  ss'o  tu.
+tsinyu.  Ikhiiken  liikenliikaken  Ine  e  a,  h^  e  likenliken  ss'o  tu.
 
 (6084)  N  ya'uki  *ehna  ti  e,  whai-ta  (  )  IkueVri  f  Inii  e.
 Inabbaken  llkuan  a  a,  ©hoken  llkuah  e.
@@ -18295,9 +17740,6 @@ Ikuiten  Iku  e,  i  hi  hi.
 
 
 sfii
-
-
-01
 
 
 1 .  riaything,  made  by  the  \Jcuh.        2.  The  \lchu,  or  Bushman  Soup
@@ -18339,9 +17781,6 @@ w
 \  \\
 
 
-49
-
-
 cm  \\
 
 
@@ -18364,9 +17803,6 @@ V-
 
 
 ..
-
-
-31
 
 
 cm
@@ -18473,8 +17909,7 @@ the  hair  are  here,  those  which  stick  into  the  skin.
 
 I    do   not   know   whether    it    is   springbok's   (     )  (6084)
 paxwax  §  [which  binds  the  hair  on  the  stick].     This
-is  the  (wood  of  the)  "  Driedoorn  "  ;   it  (the  "  Drie-
-doorn  ")  is  a  bush.
+is  the  (wood  of  the)  "  Driedoorn  "  ;   it  (the  "  Driedoorn  ")  is  a  bush.
 
 We  scratch  the  fire  together  with  it  (i.e.,  with
 the  handle  of  the  brush),  Therefore,  the  fire  burns,
@@ -18496,8 +17931,7 @@ a  knife.
 "  Kambro  "  is  that  which  we  eat  (with)  it.
 
 *  Among  some  Bushman  implements  given  to  Dr.  Bleek  by
-a  friend,  was  the  brush  of  which  a  picture  appears  in  the  illustra-
-tions. Wkdbbo  recognized  this  at  once  as  a  Bushman  "  soup  spoon  "  ;
+a  friend,  was  the  brush  of  which  a  picture  appears  in  the  illustrations. Wkdbbo  recognized  this  at  once  as  a  Bushman  "  soup  spoon  "  ;
 and  showed  us,  with  immense  pleasure,  in  what  manner  the
 Bushmen  eat  soup  with  it,  and  how  well  it  can  be  used  to  take  up
 the  fat  on  the  top  of  the  soup,  if  rolled  round  in  it.
@@ -18511,8 +17945,6 @@ J  Beally  along  its  back,  the  narrator  explains.
 ||    See  illustration.
 ^  He  works  two  ribs,  with  a  knife.  (6082')
 
-
-350  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 IX.— 190.
 
@@ -18624,8 +18056,6 @@ and  they  try  the  drum.
 %  Their  insteps.  (6128')
 
 
-352  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 How  the  Dancing  Battles  are  prepared.
 
 (6133)  Ikm  laiti  llkuan  ho  lii  whai  jnuhtu-ka  ttu*;  he
@@ -18644,8 +18074,7 @@ jnui-Opua,    au   whai    jnuntu    lemm-ka    ti-Opua,    he
 llkerri  tsa^aiten,  llkerri  tsa^aiten  sse  >*auki  Ihm,
 aii  whai  jnuntu.     He,  hm  Ine  llkenllken  jkhou  llkho,
 
-(6137)  whai  jnujnuntu,  I;  he  hi  Ine  (  )  Ikilkl  le,  ttwattwam-
-ta  Ika'uken,  e,  Ik'e-ta  ttdka  sse  llhihllhin  lau  llkau
+(6137)  whai  jnujnuntu,  I;  he  hi  Ine  (  )  Ikilkl  le,  ttwattwamta  Ika'uken,  e,  Ik'e-ta  ttdka  sse  llhihllhin  lau  llkau
 llkho  whai  Inulnuntu,  au  hi  Inoalnoa.
 
 •  •  /  "0*0
@@ -18702,8 +18131,7 @@ PREPARATION    OF    DANCING    RATTLES.  353
 
 How  the  Dancing  Rattles  are  prepared.
 A  woman  takes  off  the  skin*  of  the  springbok's  (6133)
-ear ;  and  then,  she  sews  the  inner  skin  of  the  spring-
-bok's ear,  when  she  has  laid  aside  the  (hairy)  skin
+ear ;  and  then,  she  sews  the  inner  skin  of  the  springbok's ear,  when  she  has  laid  aside  the  (hairy)  skin
 of  the  springbok's  ear  ;  (  )  for  it  is  the  inner  skin  of  (6134)
 its  ear  which  she  sews.     And  she  sews  it,  and  she
 scoops  up  with  her  hand,  putting  soft  earth  into  it.
@@ -18743,8 +18171,6 @@ mixed  with  "  Kambro  "  in  order  to  moisten  them  for  eating.
 
 2a
 
-
-354  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 jk'e  sse-g  Ine  ha  jkhou.     He  ti  hin  e,  jk'e  jkauken
 
@@ -18843,8 +18269,6 @@ satisfied  with  food  ;  that  the  women  may  also  arrange  the  (game  of)
 \goo  for  them,  that  they  may  roar.
 
 
-356  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 Ine    Ikai    Iko    sho   hi    llkoullko'utenttu ;  *    o   Ikakaken
 
 (6116)  Ine  Iki  (  )  jkoa-ka  jk'au.  He  ti  hin  e,  ttiiken  Ine
@@ -18941,8 +18365,6 @@ f  They  sleep  at  noon,  because  the  women  had  bound  on  the  (6119')
 drum  for  them,  when  the  sun  had  just  set.
 
 
-358  SPECIMENS    OF  BUSHMAN   FOLKLORE.
-
 Iloinya.     Hin  llnau,  ti  e,  hi   llkuan  dda   lluwa.    Hd
 ti   hin    e,   hi  >auki    llkhda   hi    llkuan    e,   sse   Iketen
 
@@ -19001,8 +18423,7 @@ llkuan  ka,   \yS.,  I.
 
 PREPARATION  OF  FEATHER  BRUSHES.      359
 
-thirsty.  They  are  aware  that  they  are  tired.  There-
-fore, it  does  not  seem  as  if  they  will  be  those  to  send
+thirsty.  They  are  aware  that  they  are  tired.  Therefore, it  does  not  seem  as  if  they  will  be  those  to  send
 the  children  to  the  water ;  for  they  feel  at  first  that
 they  are  still  tired.  Therefore,  it  does  not  seem  as
 if  they  will  be  those  to  send  the  children  to  the
@@ -19011,8 +18432,7 @@ a  while ;  because  they  are  still  tired.  Therefore,
 they  do  not  seem  as  if  they  will  be  those  to  send  the
 children  to  the  water.  (  )  Therefore,  when  they  (6125)
 awake,  they  send  the  children  to  the  water  ;  when
-they  feel  that  they  have  had  their  sleep  out.  There-
-fore, they  awake.  And  then  (  )  they  send  the  (6126)
+they  feel  that  they  have  had  their  sleep  out.  Therefore, they  awake.  And  then  (  )  they  send  the  (6126)
 children  to  the  water.  They  speak  to  the  children,
 they  thus  say  to  the  children,  that  the  children  must
 quickly  bring  them  water,  that  they  may  quickly
@@ -19026,15 +18446,13 @@ USED   IN   SPRINGBOK   HUNTING.*
 
 They  roll  the  feather  brushes,  binding  the  ostrich  (8073)
 feathers  (the  body  feathers)  upon  the  "  Driedoorn "
-stick.     They  become  numerous  ;  and  they  (the  Bush-
-men) pound  red   stones, j*    they   painty  the   feather
+stick.     They  become  numerous  ;  and  they  (the  Bushmen) pound  red   stones, j*    they   painty  the   feather
 brush  (  )  sticks.     And  they  make  ready  the  (dried)  (8074)
 skin  of  a  springbok's  chest ;  they  thread  little  thongs  §
 
 *  I  used  to  see  my  grandfather  (Tsdtsi)  roll  the  feather  brushes.  (8073')
 
-f  The  red  stones  here  meant,  are  \\ka ;  not  ttd.  At  the  "  Phila-
-delphia Exhibition,"  in  November,  1875,  Did\kic(nn  recognized
+f  The  red  stones  here  meant,  are  \\ka ;  not  ttd.  At  the  "  Philadelphia Exhibition,"  in  November,  1875,  Did\kic(nn  recognized
 red  haematite  as  \\Jcd.
 
 I  Paint  them  red.
@@ -19042,8 +18460,6 @@ I  Paint  them  red.
 §  Thongs  (they)  are.     The  "children  of  thongs"  (they)  are.  (8074')
 The  Korannas  call  them  \y>a.
 
-
-360  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 Hi    Irie    Iku    Ikoaken ;   hi   Ine    liken   llkuain,*  hi   Ine
 like    llkuain,    hi    Ine    Ikahn    llkou.    tte    Ikoaken,    au
@@ -19152,8 +18568,6 @@ the  Wlcuain  were  put.
 §  AU  the  arrows.  (8289')
 
 
-362  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 linau,  hi  Ine  tta'i  tau  hoho  Inwa,  hi  Ine  mmu.  *erin
 Inwa.     Hiii   Ine*  ta:    "A-ka  Inwa  kan   llkhoa  e,   ta,
 
@@ -19180,8 +18594,7 @@ making  Arrows.
 
 [Given  in  January,   1878,  hj  Ihan^kass'o.)
 
-(6088)  Ikwaiiten  llkuan  e:  llkuarri  llkiten  e.  Han  like-
-llkeya   "pompoon",    hail   kudrreku^rre.     Ha    llkiten
+(6088)  Ikwaiiten  llkuan  e:  llkuarri  llkiten  e.  Han  likellkeya   "pompoon",    hail   kudrreku^rre.     Ha    llkiten
 
 (6089)  iku  jkuita;  han  llkellkeya  jkhoa.  Ha  (  )  llkiten
 >auki  ttariiOpua  Ikuita ;  hi-ta  Ikiiitenlkuitaken  like-
@@ -19252,8 +18665,7 @@ beat(?)  it,  when  it  is  hot.  Then,  we  (  )  beat  (?),  (6091)
 cooling  it.  And  we  take  it  up  in  this  manner,  %  with
 a  "  Driedoorn  "  stick  ;  we  do  in  this  manner  to  it,
 with  the  "Driedoorn"  stick,  as  we  make  it  round  ;
-while  we  think  that  we  intend  to  make  little  spring-
-bok arrowTs.
+while  we  think  that  we  intend  to  make  little  springbok arrowTs.
 
 *  They   (the  farmers)   call   it    "  Harpis."     (Probably  harpuis,  (8292')
 *  *  *  <<  resin.")
@@ -19264,8 +18676,6 @@ translation,  as  probably  more  correct.
 %  The  narrator  here   imitated  the    manner   of   taking    up    the  (6091')
 \kwae  by  means  of  rolling  it  upon  a  stick.
 
-
-364  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 IX.— 210.
 
@@ -19343,8 +18753,7 @@ fire ;  instead  of  going  out  with  her.  For,  if  she
 did  not  act  in  this  manner,  they  would  go  out
 with  her.  That  place  to  which  she  went  would
 not  be  nice;  while  she  knew  that  she  had  (  )  (5163')
-dreamt  of  evil  things  which  were  not  nice.  There-
-fore, she  acted  in  this  manner ;  because  she  was
+dreamt  of  evil  things  which  were  not  nice.  Therefore, she  acted  in  this  manner ;  because  she  was
 aware  that,  if  she  went  out  with  the  dream  which
 she  had  dreamt,  her  going  out  would  not  be
 fortunate.
@@ -19369,8 +18778,6 @@ CONCERNING    TWO    APPARITIONS.
 We  buried  my  wife  in  the  afternoon.     When  we  (5810)
 had  finished  burying  her,   we  (    )  returned   to   the  (5811)
 
-
-366  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (5811)  ssiten  (  )  Ine  Ikiiiten  n  llka^ai  Whal-ttu-ggu  llneih,
 e  he  6a  Ihih  he.     Hih  ssah  |nau  hi  h,  o-g  h  lha ;
@@ -19438,8 +18845,7 @@ as  if  it  sat  with  its  legs  crossed  over  each  other.
 
 And  my  sister,  Whai-ttu,  spoke,  she  (  )  questioned  (5813)
 us :    "  Look  ye  !     What  thing  sits  yonder  upon  the
-salt  pan?     It  is  like  a  little  child."     And  Ikwe'iten-
-ta-\\ken  [another  sister]  spoke,  she  asked  us:   "Look
+salt  pan?     It  is  like  a  little  child."     And  Ikwe'itenta-\\ken  [another  sister]  spoke,  she  asked  us:   "Look
 ye!     Why  is  it   that   this   thing   is  (    )  truly  like  (5814)
 a  person?     It  seems  as  if  it  had  on  the  cap  which
 DdidXkwain's  wife  used  to  wear."     And  my  sister,
@@ -19467,8 +18873,6 @@ there,  for  a  little  while.     And  I   spoke,   I   said  to
 *   Wliai-ttu  means  "Springbok  Skin".
 
 
-368  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 \  v  f  w
 
 he    Ilkh6a    kan   +1,    n    ^au   tan,   n  kan   jkuiten;    ta
@@ -19487,8 +18891,7 @@ ha,  o  ti  e,  ha  ssin  ss'o  he.     He,  ii  Ine  llkuan  (hunim,
 Ta,   maina-ggii   ka    *kakka  ke,    ti  e,   i  ha   llnau,
 jgiten   e  +ni  i,   iten   ha    llnau,    ll^ke    a,   he   kie'   sse
 
-(5823)  llkoaken  Ine  Iki  ttai  I  a,  (  )  ha  MSketen  a,  i  Ike-
-kko  ha  Ine  luhi  ssin  i,  o  hail  ka,  i  sse  Ini  ha,  o  han
+(5823)  llkoaken  Ine  Iki  ttai  I  a,  (  )  ha  MSketen  a,  i  Ikekko  ha  Ine  luhi  ssin  i,  o  hail  ka,  i  sse  Ini  ha,  o  han
 tta    Ilka   ti   e,    ha    Ina'unko    +i   i.     He    tiken    e,    ha
 
 (5824)  llgo*  jnaunko  kie  llSkden  i,  o  han  tta  (  )  Ilka  ti
@@ -19577,8 +18980,6 @@ ran  away.
 2b
 
 
-370  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 Han  Ine  ss'o   llgu  jk'u'i,   o  hail  ss'o  ssin  jgauka  ii.'
 He  Mansse  ha  kukkui,   han  *I,    '  Akke   n  ttai   Iko
 
@@ -19618,8 +19019,7 @@ ha   Ikamnii  ha.     He  ha  ha   kkunnin-I    Ikhwa,  I ;   o
 Ikhwa  llsvkoen  Ikhe  a.     Han  ha  llkuan  ll^koen,  ti  e,
 jkhwa    latti-Opua    llkuan  e;   han   ha    ll^koen,   ti   e,
 
-(5831)  jkhwa  llknan  (  )  Ikwaiya  jkui.  Han  llnau,  tiken-
-tiken-kkniten  *   han   yauki    Ikwaiya    Ikui ;    han   ha
+(5831)  jkhwa  llknan  (  )  Ikwaiya  jkui.  Han  llnau,  tikentiken-kkniten  *   han   yauki    Ikwaiya    Ikui ;    han   ha
 
 o  o         o       *  —\v  ■       o       /  r>
 
@@ -19672,8 +19072,6 @@ saw  that  he  went    away  from  it,    it  came  forward
 for,  it  was  different  looking,   a  different  thing.     The  other  part
 of  it  resembled  a  person.
 
-
-372  SPECIMENS  OF    BUSHMAN    FOLKLORE.
 
 IX.— 228.
 
@@ -19769,8 +19167,6 @@ my  grandmothers  dressed  the  jackals'  skins ;  they
 dressed  them,  they  sewed  them.
 
 
-374  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 Ha  lhabbisse,  ha  Ikauken  kdro,  hin  ll'ua,  ha  Ikilki
 ssa  hi,  ha  l^ao  hi.
 
@@ -19843,8 +19239,7 @@ made  a  kaross  for  \gdppem-ttu',  while  he  made  for
 \gdp)pem-ttu  an  equivalent  (?)  for  the  dog;  therefore,
 he  gave  the  kaross  to  \gdppem-ttu,  and  \gdppem-Uu
 also  gave  him  a  pot,  while  he  rewarded  (?)  my
-grandfather  for  the  jackals'  kaross.  And  my  grand-
-father returned  home.
+grandfather  for  the  jackals'  kaross.  And  my  grandfather returned  home.
 
 Then  my  grandfather  used  to  act  in  this  manner,
 when  he  was  boiling  a  jackal,  he  said:  (  )  "Thou  (7460)
@@ -19872,8 +19267,6 @@ they    anoint    their    heads,    when    they    have    first
 
 *  A  certain  stone  which  is  said  to  be  bath  hard  and  soft.
 
-
-376  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 ft  '  »
 
@@ -19965,8 +19358,6 @@ when  the  old  women  are  talking  there :  "  That  man,
 he  is  a  handsome   young   man,   on   account   of   his
 
 
-378  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 ha   Ina  e,   hi  >"au   akken    Ilka   hi,   au   llhara ;    hi-ta
 Ihoakenlhoaken."     Hi  Ine"  ta,  "  Ikao  "  a,  "  Ha  Inkn
 (7277')  (  )  ^aiiki  akken  Ilka  hi;  ta,  ha  Ina  llkhoa  jkhi."
@@ -20055,8 +19446,6 @@ mouseholes.
 §  The   Whdra  mine   [literally,    "mouth"   or   "opening"]  is  in
 a  different  place ;   the  ttd  mine  is  also  in  a  different  place.
 
-
-380  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 IX.— 240.
 
@@ -20172,8 +19561,6 @@ in  the  direction  of  the  place  to  which  the  people  have  gone.
 ^f  The  fire  is  outside.
 
 
-382  SPECIMENS   OF   BUSHMAN  folklore.
-
 Ine  u'i,  ha  Ine  Ikaih  Ha  llnem,  he  ha  Ine  Ikiiiten  Ikhe
 
 (8379)  (  )  lla  llnem.
@@ -20267,8 +19654,6 @@ the  direction  of  the  place  to  which  they  go,  from  the  last  stick ;
 which  leans  in  the  same  direction.
 
 
-384  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 Ini    0h6 ;    he,   ha    Ine   kui:    "  Ik'e    llkuan   >tfa    Ikoa.
 Ikhoa-ttii  e,  ta,  hi  e,  hi  Iko  Ikhe  Ihda,  au  ti  e  Ikhoa
 
@@ -20321,8 +19706,7 @@ exclaims:  "  The  folk  must  have  travelled  away  to
 that  little  pool,  for,  this  is  why  they  have  reversed
 (a  branch),  pointing  in  the  direction  of  the  place
 where  the  water  is.  I  will  (  )  go  down(?)  to  the  (8385)
-water,  that  I  may  go  to  look  for  the  people's  foot-
-prints at  the  water,  at  the  place  to  which  they
+water,  that  I  may  go  to  look  for  the  people's  footprints at  the  water,  at  the  place  to  which  they
 seem  to  have  gone  to  make  a  house,*  (from  which)
 they  go  to  the  water."  And  he  goes  to  the  water,
 he  goes  down  (?)  to  the  water.  And  he  goes  to
@@ -20360,8 +19744,6 @@ returned  home.
 2c
 
 
-386  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 r  ,  J,
 
 ha  Ine  jkwajkwai  |khe,  ha  Ine  jgoa-i.  *  He,  ha
@@ -20387,8 +19769,7 @@ f  r  r
 ta,  llkom-ta  Iho  Ike*   Ikn  ttaii  llga.
 
 
-(7966)  jk'e-ta-lkagen-ka    ddi-ddi    >*ahki    e,    ta,    jk'e-ta-
-tuken-ka  ddi-ddi  Ikn  e.
+(7966)  jk'e-ta-lkagen-ka    ddi-ddi    >*ahki    e,    ta,    jk'e-tatuken-ka  ddi-ddi  Ikn  e.
 
 Hi  llknan  tatti  e,  hi  jku^e  ||   tchnen,  jku^e  wai ;
 
@@ -20468,8 +19849,6 @@ And  they  turn   the   springbok,   chasing,   take   the   springbok   to
 the  house.
 
 
-388  SPECIMENS    OF    BUSHMAN    FOLKLORE.
-
 |ku;£e,  llkomya  Ine  Ikhi  hi,  au  hi  llk'iiwa.  H£  e,
 hi  Ine  lla  l^daken,  an  llk'u  ll^amki  e.  Ilk'u-g  Ine
 Ihiii,  he  hi  Ine  kkuerre.  He"  e,  hi  Ine  lla  l^daken,
@@ -20548,14 +19927,9 @@ occurred  at  another  place ;  for  the  star  tells  us,  that
 a  bad  thing  has  happened  at  another  place.'
 
 
-55
-
-
 *  As  when  something  which  has  been  standing  upright,   falls  (5777')
 over  on  to  its  side.
 
-
-390  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (5780)       (  )  jhm,  ha  llnau,  o  Ikuatta  ssm  jkoa,  ha  sse,  ha
 
@@ -20580,8 +19954,7 @@ he   Ibke :    "A  kan  ka,   a  sse   lla   jkunim    jkhe,   +ka
 a,  ha  ssaii  *kakka,  ha  Ikii  sse  le  l^ki-ta   jkhwa,  ti
 
 (5785)  e,  lima  Ikuatten  jkhe,  llkde  ta  (  )  jkhwa,  I.  He
-tiken  e,  ha-ka  ku-kkummi  sse  lla  le  he.  Ta,  mama-
-ggu   yauki  +kauwa    he   sse  ttu  kkumm   a,   ha   ssaii
+tiken  e,  ha-ka  ku-kkummi  sse  lla  le  he.  Ta,  mamaggu   yauki  +kauwa    he   sse  ttu  kkumm   a,   ha   ssaii
 
 (5786)  tkakka;  ta,  he  +en-na,  ti  e,  jhm  llnau,  (  )  ll^ke
 a,  jkui  Ikuken  a,  ha  ll^keten  a,  ha  ssa  i,  a,  han
@@ -20633,8 +20006,6 @@ performing  strange  antics.'
 
 |  ydk  !  or  yddk  !  is  the  bird's  cry,  which  it  repeats  twice.  (5780')
 
-
-392  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (5787)  kkan  l^ke,  jhm  e  tss'a  a,  Ikil  Una  jkhwa,  a,  (  )  i
 ll^koen   tchuen-ta-ku    a.     He   tiken    e,    ha    +en-na,
@@ -20692,8 +20063,7 @@ jkhwa,  he  jkhwa  ll^auwa  he;  jkhwi-lkagen  e,  jkhwa
 luaitye.     jkhwagen    Ine    bbaiten    Ikhi   he ;    hin    Ine
 
 (5795)  ddi  Ikuatten,  o  he  (  )  Ikwai  Iki  j^uoriniya.  Hin
-Ine  Ikii  ddi  Ikuatti.  Ta,  raama-ggu.  Iki  +kakka  ssi-
-ssi   a,    ti   e,    jkuila    llnau,    jkhwa    ll^auwa    ha,    han
+Ine  Ikii  ddi  Ikuatti.  Ta,  raama-ggu.  Iki  +kakka  ssissi   a,    ti   e,    jkuila    llnau,    jkhwa    ll^auwa    ha,    han
 
 
 DEATH.  393
@@ -20736,8 +20106,6 @@ been  changed.     They  become  stars.     For,  mother  and
 the    others   used   to   tell   us   about   it,   that   a    girl,
 
 
-394  SPECIMENS    OF    BUSHMAN   FOLKLORE.
-
 (5796)  ddi  km  llkho  Oho  (  )  jkweiten-ttti  *  e  l^kagen
 llkhde  jkhe  jkhwa.
 
@@ -20775,8 +20143,7 @@ Ikagen    Ikii    e,    he    ssi    Ikii    llwkoen,    ^u    ttiii    he.
 
 Ta,  ssi  H^aih  I  Ikelike  he,  ti  e,  he  dda  he.
 
-(5803)  He  tiken  e,  mama-ggu  llnau,  h^-ka  (  )  l^am-ka-
-laityi,  hih  >*auki  ka  he  sse  a  he  sse  ttai-a  ttih,  o
+(5803)  He  tiken  e,  mama-ggu  llnau,  h^-ka  (  )  l^am-kalaityi,  hih  >*auki  ka  he  sse  a  he  sse  ttai-a  ttih,  o
 Ikhwa  kkau-a   ssa ;   ta,   he   Iki   lhammi,   ti  e,    Ikhwa
 
 (5804)  H^ani  ka  jkhwa  sse  bbaiten  Ikha  he.  (  )  Ta,  jkhwa
@@ -20830,8 +20197,6 @@ mamma  about  the  flower  which  grows  in  the  water ;   she  said  to
 mamma  about  it,  that  mamma  seemed  to  think  that  she  would  not
 also  become  a  flower,  if  (  )  she  did  not  fear  the  Eain.  (5/96  )
 
-
-396  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 han   Ikii   Ikhou  i  l^kwai,  ban   Ikii  bbaiten  Iki  Ihin,
 
@@ -20898,8 +20263,7 @@ look   towards   the   place    where    the  Rain    lightens ;
 the  Rain,  which  intended  (   )  to  kill  us  by  stealth.  (5807)
 It  will  do  in  this  manner,  even  if  its  thunderbolts*
 have  come  near  us,  (if)  we  look  towards  (the  place
-where  it  has  lightened),  we  look,  making  its  thunder-
-bolts turn  back  from  us;  for  our  (  )  eye  also  shines  (5808)
+where  it  has  lightened),  we  look,  making  its  thunderbolts turn  back  from  us;  for  our  (  )  eye  also  shines  (5808)
 like  its  thunderbolts.     Therefore,  it  also  appears  to
 fear   our  eye,   when   it  feels  that  we    quickly  look
 towards   it.      Therefore,    it   (    )   passes   over   us    on  (5809)
@@ -20925,8 +20289,6 @@ about  while  we  still  had  nothing  the  matter  with
 sky  when  it  lightens.     They  disturb  the  ground  where  they  fall.
 They  are  called  \hhwa  \hceiten  (the  Eain's  thunderbolts).
 
-
-398  SPECIMENS    OF    BUSHMAN    FOLKLORE.
 
 (5149)  he,  i  jnoah  e,  (  )  jkhwe  ka  ha  tchu  hho  ttii  he,
 he  ka  ssan  +ka  ta.  Ta,  ti  ssan  llkho,  i  Inaunkko
@@ -21059,12 +20421,7 @@ themselves.
 jnanni,  Tamme,  luma,  and  Da.
 
 
-APPENDIX.
-
 A    FEW    IKITN"    TEXTS.
-
-
-404  APPENDIX.
 
 
 I.     \j(ue.
@@ -21139,9 +20496,6 @@ a  \n&xane-
 inami,  S*pt.,  I860.
 
 
-5
-
-
 1.
 
 
@@ -21199,8 +20553,6 @@ another  day,  (when)  its  fruit  has  ripened,  its  fruit  is  red.
 
 f  The  shdb  is  a  tall  tree,  like  the  Ykuni  (palm  ?).  (9382')
 
-
-406  APPENDIX.
 
 ta   l^ue  e   Goba,    ta   shu ;   ta    Ikam    Igi,   ta    l;£ue   e
 Jna^ane.*
@@ -21286,8 +20638,7 @@ His  wife  sees  him,  and  is  afraid.
 She  prepares  food.
 
 iHa  dzau  ^ni-qmm ha  kue  \gauru
-His  wife  beats  him  with  a  knob-
-kerry.
+His  wife  beats  him  with  a  knobkerry.
 
 
 5.  #ll£d  (the  name  of  a  certain  large
@@ -21348,8 +20699,6 @@ X  The   H^mJ  is  a  tree.     People   eat  the  Wgui,  the  Wgui   fruit.  (9
 People  do  not  put  the  Wgui  into  a  pot,  but  eat  it  raw.     The  Wgui
 has  thorns.
 
-
-408  APPENDIX.
 
 /  t
 
@@ -21430,8 +20779,6 @@ of  the  wood  pigeon  ;  and  was  \JQti;
 
 §  A  (certain)  little  bird.  (9407')
 
-
-410  APPENDIX.
 
 Dama,  ta  ti  tchih.*  T&  ka  e  |k'u  Iga  llgii,  (ta  ti
 sha  y&).  Ta  ha  kue:  "  Ye-he  !  Ye-he!  Ye-he  !  "
@@ -21533,8 +20880,6 @@ X  He   carried  over  his  shoulder  a  little  bag,   the    skin  of   an
 antelope,  a  female  antelope's  skin.
 
 
-412  APPENDIX.
-
 (9412)  Ikam  e,  na  ti  ssin  me  jjha,  (  )  ta  me  jjha  ti  +nu
 da-a,  jkan  ts^ma  da-a ;  *  ta  me  jjha  ti  +nu,  ta  ssin
 me,  ta  jjke.  Ta  e  l^ue ;  ta  Ikua  e  dju  taiiki,  ta
@@ -21622,9 +20967,6 @@ grass),  he  blew  the  fire.
 
 f  TsMna  is  the  name  of  a  tall  fruit-bearing  tree.     The  fruit  (9406')
 of  it  is  eaten  raw.
-
-
-414  APPENDIX.
 
 
 (9436)
@@ -21718,9 +21060,6 @@ say  \ka\kctrrishe ;  we  sound  the  male  antelope's  horn.
 
 We  call  the    small   moon   \Jca\karrishe ;   (but)   women   call   (it)
 \ka\karribe.
-
-
-416  APPENDIX.
 
 
 IX.      Customs  and  Superstitions.
@@ -21817,8 +21156,6 @@ f  A  Ykuh  woman  is  not  afraid.  (9850')
 2e
 
 
-418  APPENDIX.
-
 t
 
 (9851)  "Me  zau,  na  a  tshi  n  a  ssin."  (  )  Ta  dzhuara  ha;
@@ -21914,9 +21251,6 @@ his  wife  with  a  \nubbo  (a  particular  kind  of  arrow).
 X  Meaning,  that  he  may  beat  her.
 
 
-420  APPENDIX.
-
-
 liiwa  ha  kue  tchu,  ta  ti  kii-u,  like  ya  kue  da-a,  ta
 ha  ti  like*  ara,  ta  dzhii  tanki  ti  d^bbi  tchti.
 
@@ -22003,8 +21337,6 @@ X  For,  we  respect  the  stealing  of  a  little  child.  (9860')
 we  kill  altogether,  we  fear  their  names;  we  do  not  utter  their
 names.
 
-
-422  APPENDIX.
 
 Zau  tanki,  ti  lii  e  tchu,  ha  daba  ti  tcha  e*  tshf,
 
@@ -22095,8 +21427,6 @@ J  Our  many  hearts  are  glad.
 II  Many  other  people  listen,  displeased;  and  one  person  assents,  (9864')
 and  says :   "Yes."
 
-
-424  APPENDIX.
 
 (9866)  gomi;  Id  e  kue  \j(6  (  )  tsa'u."  Ta,  6  ti  sa-a;  ta
 e  !>*a  ti  dzha.  Ikam  ti  Igf,  ta  £  d^bbi  e*  tchii.*
@@ -22190,8 +21520,6 @@ fruit  of  the  \ke  tree  is  kanzuai.
 down)  several  things,  I  say  \\nih-a.
 
 
-426  APPENDIX.
-
 Daba    si,    ta    jka    u,    Igeya    ha    tai,    o>Vi    ha    tai:
 'M  tai,   na   llgii."     Ta  daba  |ka  Ige   o-ywi  ha  tai:
 "  la  m  ba  kue  llgii."
@@ -22272,8 +21600,6 @@ f  (They)  were  not  men,  but  were  women.  (9578')
 %  He  aimed  at  his  wife  with  two  arrows  (one  after  the  other).      (9579'^
 
 
-428  APPENDIX.
-
 ssiii  liha  me  *^e  kue  llkau  sa,  yehe  ! "  Ta  Jka'uwa
 le,  ta  shu  >&,  ta  ti  tchin;  ta  dzhu  Ige  gu  ha,  ta
 o^wi  ha:   "Una  tchin."
@@ -22303,8 +21629,7 @@ SNAKES,  LIZAEDS,  AND  A  CEETAIN  SMALL
 ANTELOPE,  WHEN  SEEN  NEAE  GEAYES,
 TO   BE   EESPECTED.
 
-(Given  25th  October,  1881,  by  Inanni,  from  his  paternal  grand-
-father, Karu.)
+(Given  25th  October,  1881,  by  Inanni,  from  his  paternal  grandfather, Karu.)
 
 (9957)       +in-a  e  ttumma  jkoro,  e  Ikii'i  jkun,  ta  e  e  Inii-i,
 
@@ -22363,8 +21688,6 @@ TO  BE  EESPECTED.
 A  snake  which  is  near  a  grave,   we  do  not  kill,  (9957)
 for,  (it)  is  our  other  person,  our  dead  person,  the
 
-
-430  APPENDIX.
 
 (9958)  Ta  Ikam  *kM,  6  ti  ssifi  ha,  e  (  )  Ikiii  |kun,  ssin
 ta  ti  Una.
@@ -22464,8 +21787,6 @@ J   A.  long,  light-coloured  snake,  which  does  not  bite,  and  is  timid. 
 §  That  is,  turns  the  under  side  of  its  body  upwards.  (9952)
 
 
-432  APPENDIX.
-
 r
 
 ti  u,  ta  ti  debbi   tchii,  ka    Ikiii    jkun*  ha.     Ta  ti
@@ -22548,14 +21869,12 @@ CO
 
 
 in
-5
 
 
 OS
 tt)
 
 .C
-09
 
 .a
 ft
@@ -22593,11 +21912,9 @@ CM
 
 eT
 
-0
 
 o
 
-00
 
 o
 
@@ -22607,11 +21924,9 @@ hi
 
 ©
 
-00
 
 I
 
-1
 
 o
 
@@ -22621,13 +21936,11 @@ CO
 
 •»3
 
-5
 
 jj  ©
 
 ^
 
-1
 
 -fl
 
@@ -22667,7 +21980,6 @@ go
 
 ■8
 
-1
 
 4=»
 
@@ -22687,7 +21999,6 @@ of
 ^^
 
 O
-43
 
 m
 
@@ -22704,11 +22015,9 @@ C5
 
 OB
 
-9
 
 ©
 
-43
 
 •8
 
@@ -22726,7 +22035,6 @@ S
 
 -*>
 
-03
 
 ej
 
@@ -22748,7 +22056,6 @@ Tf3
 
 ■*3
 
-1
 
 (3
 t3
@@ -22791,7 +22098,6 @@ CO
 
 4=1
 
-43
 
 CI
 
@@ -22813,10 +22119,8 @@ si
 6C
 
 as
-43
 
 "o
-43
 
 .4
 
@@ -22829,7 +22133,6 @@ a
 
 ©
 
-43
 
 v-^»^
 
@@ -22839,7 +22142,6 @@ a
 
 <M
 
-3
 
 0)
 
@@ -22980,7 +22282,6 @@ X>
 CO
 
 T3
-09
 
 O
 
@@ -22995,11 +22296,9 @@ IS
 
 s
 
-99
 
 tv
 
-09
 
 ^i  M
 
@@ -23023,13 +22322,11 @@ O
 
 ■d
 
-39
 
 CN
 
 ttH
 
-00
 
 to
 
@@ -23043,12 +22340,9 @@ a
 
 0>
 
-93
 
 •3   ~
 
-
-00
 
 oo
 
@@ -23076,7 +22370,6 @@ O
 •a
 
 
-13
 a
 m
 
@@ -23086,7 +22379,6 @@ CD
 
 a
 
-9
 
 a
 
@@ -23160,9 +22452,6 @@ a  M  ^
 o
 o
 o
-
-
-04
 
 
 OS
@@ -23262,8 +22551,6 @@ being  powerful  (lit.  "long",  i.e.,  reaching  a  long  way).
 2f
 
 
-434  appendix.
-
 Dr.  Bleek's  Keport,  etc.,  regarding  Photographs
 sent  to  England  by  Government  December  23,
 1871.*
@@ -23306,8 +22593,7 @@ living  under  hereditary  chiefs,   addicted  to  ancestor
 
 REPORT  REGARDING  PHOTOGRAPHS.       435
 
-worship,  speaking  euphonious  polysyllabic  Prefix-
-pronominal  languages,  eminently  prosaic  in  their
+worship,  speaking  euphonious  polysyllabic  Prefixpronominal  languages,  eminently  prosaic  in  their
 ideas  and  literature,  and  possessing  a  decimal  system
 of  counting  which  is  however  very  clumsy  in  its
 application.
@@ -23316,14 +22602,12 @@ The  Hottentots  or  Khoi  khoi  (Namaqua,  Koranna,
 as  well  as  many  other  tribes  now  extinct)  are
 a  pastoral  nation,  occasionally  polygamous,  ruled
 by  hereditary  chiefs,  worshipping  in  former  days
-the  moon,  speaking  a  clicking  monosyllabic  Sex-
-denoting  language,  poetical  in  their  ideas,  with
+the  moon,  speaking  a  clicking  monosyllabic  Sexdenoting  language,  poetical  in  their  ideas,  with
 a  traditionary  literature  full  of  myths  and  fables,
 and  with  a  decimal  system  of  counting  which  is  of
 easier  application  than  the  Bantu  one.
 
-The  Bushmen  are  a  hunting  race,  strictly  mono-
-gamous, without  chiefs,  worshipping  moon,  sun,  and
+The  Bushmen  are  a  hunting  race,  strictly  monogamous, without  chiefs,  worshipping  moon,  sun,  and
 stars,  speaking  a  most  harsh  clicking  and  guttural
 monosyllabic  language  (which  is  not  now  but  may
 possibly  once  have  been  Sex-denoting),  poetical  in
@@ -23345,8 +22629,6 @@ That  in  physical  appearance  both  Bushmen  and
 Hottentots  are  nearer  akin  to  each  other  than  either
 of  them  is  to  the  Kafir  and  Negro,  is  well  known.
 
-
-436  APPENDIX.
 
 As  regards  the  difference  in  appearance  between
 Hottentots  and  Bushmen,  I  will  only  remark  that  it
@@ -23386,9 +22668,6 @@ These,  of  course,  do  neither  physically,  nor  in  language,  and  ideas,
 helong  to  the  Bushman  nation.
 
 
-00
-
-
 o
 a
 
@@ -23409,7 +22688,6 @@ q
 
 o
 
-0
 
 O
 H
@@ -23555,8 +22833,6 @@ with  the  whole  of  the  photographs  here  referred  to  by  Dr.  Bleek,
 could  not  be  reproduced  with  this  Report.]
 
 
-438  APPENDIX.
-
 accordance  with  Professor  Huxley's  directions  (they
 were  partly  done  before  their  receipt)  are  yet
 sufficiently  near  to  help  in  illustrating  the
@@ -23601,9 +22877,6 @@ upon  the  whole  the  photographs  here  given  must
 only  be  considered  as  a  first  attempt  which  will
 shew  what  can  be  done  here.  A  complete  collection
 would  not   only  require  that  females  and   children
-
-
-11
 
 
 UNDATED    MANUSCRIPT    FRAGMENT.  439
@@ -23746,8 +23019,6 @@ and  phrases,  on  about  eight  pages  octavo.
 Native  Affairs.]
 
 
-442  APPENDIX.
-
 examining  a  few  Bushmen  and  Bushwomen  from  the
 neighbourhoods  of  Colesberg  and  Burghersdorp,  who
 were  at  that  time  at  Robben  Island,  and  in  the
@@ -23825,8 +23096,6 @@ of  these  men  (or  other  Bushmen)  is  necessary  for
 several  years  ;  at  least  four; — two  and  a  half  of  which
 have  already  expired.     And   soon  after   the   arrival
 
-
-444  APPENDIX.
 
 of  the  elder  Bushman,  I  took  steps  to  ascertain  the
 whereabouts  of  their  wives,  in  order  to  induce  them
@@ -23908,8 +23177,6 @@ use  the  singular,  and  where,  in  fact,  the  singular
 is  indicated  by  the  Bushman  himself,  by  the  addition
 
 
-446  APPENDIX.
-
 of  the  first  numeral,  or  some  other  clearly  singular
 form.  The  fact  seems  to  be  that  there  are  in
 Bushman  two  classes  of  nouns  in  the  singular,  viz.,
@@ -23982,15 +23249,12 @@ consequence  of  the  contiguity  of  the  two  nations.
 Such,  for  example,  are  the  numerous  abstract  terms
 which  the  Bushman  has  evidently  adopted  from  the
 Hottentot,  as  the  verbs  "to  learn,"  "to  teach,"
-"to  know,"  "to  write,"  &c.  There  remains,  how-
-ever, a  large  number  of  other  words,  which  probably
+"to  know,"  "to  write,"  &c.  There  remains,  however, a  large  number  of  other  words,  which  probably
 have  not  been  taken  over  from  one  language  to  the
 other,  but  have  descended  from  a  common  source.
 But,  as  the  principles  of  correspondence  between
 the  sounds  of  the  two  languages  have  not  yet  been
 
-
-448  APPENDIX.
 
 ascertained,  no  safe  comparison  on  a  firm  scientific
 basis  can  at  present  be  established.
@@ -24147,12 +23411,6 @@ this  Index.
 2g
 
 
-450
-
-
-INDEX
-
-
 Assegai:  93,  97,  98,  189,  308.
 
 Autumn:   315.
@@ -24192,8 +23450,7 @@ of  head,  hollow  at  the,  11,  177,
 top  of  the,  349  ;
 of  neck,  281,  333;
 kaross  of,  209,  211  ;
-sensation  in,  before  killing  spring-
-bok, 335.
+sensation  in,  before  killing  springbok, 335.
 Backbone  :  51,  53.
 Bag:  27,  29,  31,  207,  209,  225,  281,
 311,  313,  343,  351,  355,  377.
@@ -24266,8 +23523,7 @@ the  vulture,  155  to  163  ;
 the  Saxicola  Castor,  255  ;
 the  \kuerre\lcuerre,  109 ;
 the  ^kdgara,  113;
-the  ^nerru,  207  to  215  (see  illus-
-tration) ;
+the  ^nerru,  207  to  215  (see  illustration) ;
 the  wind  is  a,  107,  109  ;
 little,  209,  213,  255;
 the  Hammerkop,  391,  393.
@@ -24283,12 +23539,6 @@ Blood:    115,    137,     148-21,    279,
 335,  337,  347.
 Blossoms  (?) :   153-83.
 Blow,  to  :   148-29.
-
-
-INDEX.
-
-
-451
 
 
 Blue   Crane,   the  :   85,    224,   225,
@@ -24431,12 +23681,6 @@ The  Song  of  the,  233  ;
 BuTCHER-BlRD,  THE  :     113.
 
 
-452
-
-
-INDEX.
-
-
 c.
 
 Caama   Fox,    The   Song   of   the  :
@@ -24505,8 +23749,7 @@ similar  words  to,   149-40,   153-
 of  the  ostrich,  145.
 BAi-yerreten,    the   Lioness,    and
 
-the,   163  to  169  (see  illustra-
-tion) ;
+the,   163  to  169  (see  illustration) ;
 thrown  to  lion,  187  to  191  ;
 holding,     carrying,     and    laying
 
@@ -24575,16 +23818,9 @@ Conjunctions:    146-11.,    148-19.,
 151-55.,  152-69.
 
 
-INDEX.
-
-
-453
-
-
 Conscious,  be:    150-44.
 
-Consonants,  change  of,  in  par-
-ticles: 144-15.  and  c,  152-67.
+Consonants,  change  of,  in  particles: 144-15.  and  c,  152-67.
 
 Consort,  a  :    146-12.
 
@@ -24642,8 +23878,7 @@ Daughter:   15,203,211,213,291,
 295,  307,  331.
 Dawn:   81.
 
-Dawn's-Heart  Star,  Jupiter,  \kd-
-gbiumtdra,   Wife   of  the :    85
+Dawn's-Heart  Star,  Jupiter,  \kdgbiumtdra,   Wife   of  the :    85
 to  98.
 Day:  51,  69,  265,  267,  269,  271,
 
@@ -24687,8 +23922,7 @@ of  lion,  burnt  by  a  child,  261  ;
 
 man's  escape  from,  267  ;
 
-caused  bv  magic  arrows  of  spring-
-bok, 279  ;
+caused  bv  magic  arrows  of  springbok, 279  ;
 
 of  Wkdbbo's  relations,  307  to  309  ;
 
@@ -24731,20 +23965,9 @@ Brinkkop  Bushmen,  146-8;
 
 Flat-Bushmen,  9, 144-lff.,  146-8;
 
-Katkop  Bushmen,  native  litera-
-ture in  the  dialect  of  the,  36  to
-40,  56  to  68,  78,  80,  126  to  136,
+Katkop  Bushmen,  native  literature in  the  dialect  of  the,  36  to
 
 
-454
-
-
-INDEX.
-
-
-174  to  190,  198  to  204,  230,
-236,  246  to  252,  254  to  274,
-320  to  324,   364  to  370,  388
 to  400.
 Diatfcwain  {see  illustrations) :
 
@@ -24752,9 +23975,6 @@ relations  of:  66,  79,  126,  174,
 230,  236,  246,  254,  260,  270,
 365,  367,  369,  398;
 native  literature  given  by,  56  to
-68,  78  to  80,  126  to  136,  174
-to  190,  230,  236,  246  to  253,
-254  to  258,  260  to  274,  320
 to  324,  364  to  370,  388  to
 400.
 Digging  :
@@ -24872,12 +24092,6 @@ Exclamations:  7,   9,   29,   31,    57,
 
 365.
 Eye,  Eyes  :   7,  9,  13,  15,  23  to  37,
-
-
-INDEX.
-
-
-455
 
 
 81,    83,    97,    101,    123,    177,
@@ -25028,12 +24242,6 @@ the:    199  to  205.
 Fungus:    199.
 
 
-456
-
-
-INDEX.
-
-
 G.
 
 Gall:   149-40.,  399.
@@ -25154,12 +24362,6 @@ skins  used  to  hide  a  youth  in,
 183,  185,  191.
 Hartus  Kloof:   109.
 Have,  to:   148-20.
-
-
-INDEX.
-
-
-457
 
 
 Hawaiian    verbs    compared    wrrn
@@ -25304,12 +24506,6 @@ Insteps:   351.
 Intelligence:    199.
 
 
-458
-
-
-INDEX.
-
-
 Invalid:   165.
 
 It:  146-6.,  152-72.
@@ -25358,9 +24554,7 @@ Kaross:  15,  27,  31,  35,  87,  171,
 
 Katkop  dialect,  native  literature
 in  the  :  36  to  40,  56  to  68,
-78,  80,  126  to  136,  174  to
 190,  198  to  204,  230,  236,
-246  to  252,  254  to  274,  320
 to  324,  364  to  370,  388  to
 400.
 
@@ -25443,12 +24637,6 @@ The  Young  Man  who  was  carried
 off  by  a,  175  to  191  ;
 
 
-INDEX.
-
-
-459
-
-
 Lion,  the  {continued) :
 's  Story,  259  to  261  ;
 in  a  Cave,  The  Man  who  found
@@ -25465,8 +24653,7 @@ finger,  329,  331.
 Liver  :   399.
 
 Lizard,  The  Death  of  the  :   215
-to  217,  316  to  321  (see  illustra-
-tions).
+to  217,  316  to  321  (see  illustrations).
 Locusts  :  76,  101.
 Loss  of   Wcdbbo's  Tobacco    Pouch,
 
@@ -25579,12 +24766,6 @@ Mate:  9,  39,  151-60.,   159.
 Meat  (see  also  Flesh)  :   3,  53,  60  to
 
 
-460
-
-
-INDEX.
-
-
 63,    137,    148-26.,    157,   161,
 
 163,    225,    239,   271    to    277,
@@ -25600,8 +24781,7 @@ Milky  Way,   The:    73,   75,    251,
 Mines  :  379.
 Mist  :    193.
 
-Mode  of  getting  kid  of  the  in-
-fluence of  bad  dreams :   365.
+Mode  of  getting  kid  of  the  influence of  bad  dreams :   365.
 Moods   of   verb  :    145-2.,   146-7.,
 
 148-25.,  149-40.
@@ -25733,12 +24913,6 @@ Certain  Hunting  :  271  to
 285.
 
 
-INDEX.
-
-
-461
-
-
 Old  :
 
 man,  13,  19,  21,  29,  49,  77,  317,
@@ -25821,10 +24995,8 @@ genitive,  144-li.,  147-12.,  148-
 omission    of    genitive,     147-12.
 
 and  14.  ;
-verbal  for  indicative  and  impera-
-tive, 146-7.  ;
-verbal  for  past  perfect   or  plu-
-perfect, 147-16.,  152-67.;
+verbal  for  indicative  and  imperative, 146-7.  ;
+verbal  for  past  perfect   or  pluperfect, 147-16.,  152-67.;
 verbal  for   auxiliaries,   150-43.,
 155-94.
 
@@ -25888,12 +25060,6 @@ of    pronouns,    146-6.,    147-15.,
 
 149-30.,  151-57.;
 of  diminutive,  148-27.,  151-60.;
-
-
-462
-
-
-INDEX.
 
 
 Plural  {continued) :
@@ -26021,12 +25187,6 @@ Rib  Bone,  The  Shaped  :  345,  349
 (see  illustrations).
 Ribs:   11,  141,  333.
 Rice,    Bushman:    45,  47,  51,   85,
-
-
-INDEX.
-
-
-463
 
 
 98,  199,  201,207  to  211,  261,
@@ -26163,12 +25323,6 @@ The  Cat's,  221,  223;
 of  the  Caama  Fox,  223,  225  ;
 
 
-464
-
-
-INDEX.
-
-
 Songs  {continued) :
 
 of  the  Blue  Crane,  225,  227  ;
@@ -26207,7 +25361,6 @@ shooting,  53,  55,  109,  283,  317,
 Hunting,  Tactics  in,  285  to  287  ;
 superstitions  connected  with,  77
 
-to  83,  271  to  285,  333,  335;
 Doings    of   the,   245,    247,    117,
 
 107,  273,  311;
@@ -26289,13 +25442,9 @@ Strap:   213.
 Strengthen,  to  :   152-71.,  153-76.
 String:    171,  283  ;
 The  Broken,  237.
-Stripe  on  the  face  of  the  Spring-
-bok :  335.
+Stripe  on  the  face  of  the  Springbok :  335.
 Strong,  to  be  :    152-71.
 Stuff:   107.
-
-
-INDEX.
 
 
 M»r>
@@ -26311,7 +25460,6 @@ Summer:   51  to  55,  83,  311,   313,
 
 399.
 Sun:   13,  33,  35,  139,  150-52.,  183,
-293,  301,  311  to  315,  335  to
 341,  385,  387,  399;
 and  Moon,  myths  of,  43  to  69  ;
 cuts  Moon,  38,  39,  51,  53;
@@ -26444,12 +25592,6 @@ Two:   165,  167.
 2h
 
 
-466
-
-
-INDEX.
-
-
 '    TJ.
 
 Uncle:   255.
@@ -26573,12 +25715,6 @@ after  Death,  397,  399.
 Wing:   137,  141,  143,  150-50.
 
 
-INDEX.
-
-
-467
-
-
 WlXTBEEG  :    308.
 
 Woman,   Women:    147-12;
@@ -26612,7 +25748,6 @@ must  avoid  certain  things,   277,
 395,  397;
 Work  done  by,  277,   281,    301,
 
-303,   343  to  347,  351  to  355,
 
 377;
 nurse  and  carry  children,  87  to
@@ -26670,11 +25805,7 @@ relations  of,  16,  81,  84,  91,  100,
 317,  319,  347,  359,  372  to
 375.
 native  literature  given  by,  16  to
-36,  80  to  96,  100  to  118,  154
 to  170,  192  to  198,  204  to
-216,  230  to  234,  238  to  240,
-244  to  246,  254,  274  to  286,
-316  to  320,  342  to  362,  372
 to  388.
 
 \kuaihmah-a,     son-in-law    of    the
@@ -26718,12 +25849,6 @@ story  of  :    85  to  98.
 185.
 
 
-468
-
-
-INDEX.
-
-
 Xkweiten  ta  \\lcen  {see  illustration)  :
 relations  of,  36,  198,  258,  367  ;
 stories  by:  36  to  40,  198  to  204,
@@ -26751,9 +25876,6 @@ native  literature  contributed  by,
 
 bere    given,    2    to    16,   44   to
 
-56,  72  to  78,  122  to  126,  220
-
-to  226,  244,  290  to  316,  328,
 
 330  to  340.
 \\xdbbitm\\j[dbbiten,   The   Baboons
@@ -26836,8 +25958,7 @@ contrast  with  anthropological  works  issued  by  some  firms  the  index  has
 prepared  by  some  one  who  knew  what  was  wanted." — Folk  Lore.
 
 "  A  volume,  portly  in  size,  well-printed  and  effectively  illustrated,  which,
-though  not  ideal  in  arrangement,  must  be  of  singular  interest  to  anthro-
-pologists and  folk-lorists.  The  most  remarkable  race — the  Bushmen,  their
+though  not  ideal  in  arrangement,  must  be  of  singular  interest  to  anthropologists and  folk-lorists.  The  most  remarkable  race — the  Bushmen,  their
 habits  and  weapons,  social  customs,  beliefs,  superstitions,  methods  of
 hunting,   etc.,    are   described   and   must  be  regarded  as  a  contribution  to
 
@@ -26999,8 +26120,7 @@ unremitting  labour  and  research  as  must  have  gone  to  the  making  of  t
 volume  before  us." — Antiquary.
 
 "  The  book  is  of  fascinating  interest,  not  only  to  the  historical
-student,  but  to  anyone  interested  in  the  early  stages  of  human  develop-
-ment and  thought.  The  book  is  one  which  should  be  included  in  the
+student,  but  to  anyone  interested  in  the  early  stages  of  human  development and  thought.  The  book  is  one  which  should  be  included  in  the
 library  of  every  South  African,  and  everyone  interested  in  South  Africa." —
 African  World.
 

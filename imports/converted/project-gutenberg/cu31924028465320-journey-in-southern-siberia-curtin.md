@@ -9,14 +9,10 @@ THE  GIFT  OF
 
 Henry  W.  Sag*
 
-1891
 
 *     \  •
 
 ft,M6iai... sM'g..
-
-
-3777
 
 
 The  original  of  this  book  is  in
@@ -24,9 +20,6 @@ the  Cornell  University  Library.
 
 There  are  no  known  copyright  restrictions  in
 the  United  States  on  the  use  of  the  text.
-
-
-http://www.archive.org/details/cu31924028465320
 
 
 A  JOURNEY
@@ -67,8 +60,6 @@ BOSTON
 
 LITTLE,  BROWN,  AND  COMPANY
 
-1909
-
 
 Copyright,  1909,
 Br  A.  M.  Cuktin.
@@ -100,8 +91,7 @@ JEREMIAH  CURTLN  took  the  degree  of  Bache-
 **  lor  of  Arts  at  Harvard  College  in  1863,  having
 been  a  member  of  the  last  college  class  that  studied
 their  required  mathematics  under  me  as  Assistant
-Professor.  I  found  young  Curtin's  personal  ap-
-pearance and  his  mental  processes  unusual  and  inter-
+Professor.  I  found  young  Curtin's  personal  appearance and  his  mental  processes  unusual  and  inter-
 esting. He  was  a  good  scholar  in  general,  with  an
 extraordinary  capacity  for  acquiring  languages.  In
 his  autobiography  (unpublished)  he  states  that
@@ -128,27 +118,21 @@ Buriat  who  knew  Russian,  and  hard  as  it  was  to
 vi  PREFATORY  NOTE
 
 acquire  a  strange  language  without  the  aid  of  books,
-he  accomplished  the  feat  in  a  few  weeks.  At  sixty-
-he  learnt  a  new  language  as  quickly  as  he  did  when  a
+he  accomplished  the  feat  in  a  few  weeks.  At  sixtyhe  learnt  a  new  language  as  quickly  as  he  did  when  a
 Harvard  student.  Having  acquired  a  language,
-Curtin  always  wished  to  learn  the  history,  princi-
-pal achievements,  myths,  folk-lore,  and  religious
+Curtin  always  wished  to  learn  the  history,  principal achievements,  myths,  folk-lore,  and  religious
 beliefs  and  usages  of  the  people  who  spoke  that
-language.  Hence  his  great  learning,  and  his  numer-
-ous publications  on  myths  and  folk-tales.  Curtin
-is  also  known  to  the  learned  world  by  his  transla-
-tions from  the  Polish  of  Quo  Vadis  and  eight
+language.  Hence  his  great  learning,  and  his  numerous publications  on  myths  and  folk-tales.  Curtin
+is  also  known  to  the  learned  world  by  his  translations from  the  Polish  of  Quo  Vadis  and  eight
 other  works  of  Henry  Sienkiewicz.  He  published
 many  valuable  translations  from  the  Russian  and
 the  Polish.
 
 In  the  year  1900,  between  the  19th  of  July  and
 the  15th  of  September,  Curtin  made  the  journey  in
-southern  Siberia  which  is  the  subject  of  the  follow-
-ing volume,  his  object  being  to  visit  the  birthplace
+southern  Siberia  which  is  the  subject  of  the  following volume,  his  object  being  to  visit  the  birthplace
 of  the  Mongol  race,  and  to  see  for  himself  the  origins
-and  survivals  of  a  prepotent  people  which  once  sub-
-dued and  ruled  China,  devastated  Russia,  conquered
+and  survivals  of  a  prepotent  people  which  once  subdued and  ruled  China,  devastated  Russia,  conquered
 Burma  and  other  lands  east  of  India,  overran
 Persia,  established  themselves  in  Asia  Minor  and
 Constantinople,  and  covered  Hungary  with  blood
@@ -159,42 +143,34 @@ The  Buriats,  who  are  the  surviving  Mongols  of
 to-day,  inhabit  three  sides  of  Lake  Baikal  and  the
 only  island  therein.  Lake  Baikal  is  the  largest  body
 of  fresh  water  in  the  Old  World.  From  the  regions
-south  of  Lake  Baikal  came  Jinghis  Khan  and  Tamer-
-lane, the  two  greatest  personages  in  the  Mongol
+south  of  Lake  Baikal  came  Jinghis  Khan  and  Tamerlane, the  two  greatest  personages  in  the  Mongol
 division  of  mankind.
 
 
 PREFATORY  NOTE  vii
 
-The  volume  opens  with  a  brief  sketch  of  the  physi-
-cal features  and  the  history  of  Siberia,  a  compara-
+The  volume  opens  with  a  brief  sketch  of  the  physical features  and  the  history  of  Siberia,  a  compara-
 tively unknown  and  dreary  country,  which  covers
 about  one-ninth  of  the  continental  surface  of  the  globe.
 The  long  journey  in  southern  Siberia  is  then  amply
-described,  the  landscape,  the  institutions,  the  dwell-
-ings, and  the  mode  of  life  of  the  people  he  met  being
-set  forth  with  vividness  and  philosophic  apprecia-
-tion. An  important  section  of  the  book  relates  to
-the  customs  of  the  Buriats  —  their  customs  and  cere-
-monies at  the  birth  of  a  child,  at  a  marriage,  and  in
+described,  the  landscape,  the  institutions,  the  dwellings, and  the  mode  of  life  of  the  people  he  met  being
+set  forth  with  vividness  and  philosophic  appreciation. An  important  section  of  the  book  relates  to
+the  customs  of  the  Buriats  —  their  customs  and  ceremonies at  the  birth  of  a  child,  at  a  marriage,  and  in
 sickness,  and  their  burial  rites.  It  then  deals  with
 the  origin  of  the  shamans  or  priests,  with  the  sacred
 trees  and  groves,  and  with  the  gods  of  the  Buriats.
 The  myths  connected  with  the  Mongol  religion  are
 next  recorded,  just  as  Curtin  heard  them  from  the
-lips  of  living  Buriats.  A  collection  of  folk-tales  com-
-pletes the  volume.  It  is  a  book  of  very  unusual
+lips  of  living  Buriats.  A  collection  of  folk-tales  completes the  volume.  It  is  a  book  of  very  unusual
 character,  which  only  an  extraordinary  linguist  and
-scholar  could  have  written,  so  difficult  was  the  gather-
-ing of  the  material  for  it.  The  journey  itself  was  one
+scholar  could  have  written,  so  difficult  was  the  gathering of  the  material  for  it.  The  journey  itself  was  one
 of  considerable  hardship  and  exposure;  and  the
 linguistic,  historical,  and  anthropological  knowledge
 required  to  produce  the  book  has  seldom,  if  ever
 before,  been  possessed  by  any  single  scholar.
 
 The  manuscript  of  this  volume  was  finished  a  few
-months  before  Curtin's  death,  but  it  has  been  pub-
-lished posthumously  without  the  advantage  of  his
+months  before  Curtin's  death,  but  it  has  been  published posthumously  without  the  advantage  of  his
 revision.
 
 CHARLES   W.   ELIOT.
@@ -218,8 +194,7 @@ Founding  of  Tiumen  and  Tobolsk.  —  Founding  of  Pelym,  the  first
 place  to  which  exiles  were  sent.  —  The  exile  of  a  church  bell.  —  Ivan
 and  Vassili  Romanoff,  brothers  of  the  founder  of  the  Romanoff  dynasty,
 the  first  exiles  of  distinction  sent  to  Siberia.  —  Discovery  of  the  Yakuts.
-—  Russians  meet  the  Buriats.  —  Founding  of  Irkutsk.  —  Buriats  be-
-come Russian  subjects ,   .   .        1
+—  Russians  meet  the  Buriats.  —  Founding  of  Irkutsk.  —  Buriats  become Russian  subjects ,   .   .        1
 
 
 CHAPTER  n
@@ -238,8 +213,7 @@ CHAPTER  III
 A  walk  and  talk  with  Andrei  Mihailovitch.  —  The  mission  church.  —
 Search  for  "wise  men."  —  Taking  down  myths. — Appearance  of
 Manshut,  a  man  wise  in  ancient  lore.  —  Arrival  of  convicts  from
-Russia.  —  A  visit  to  Andrei  Mihailovitch's  summer  home.  —  Photo-
-graphing Ongons  (gods). — Preparation  for  Horse  Sacrifice  ....      38
+Russia.  —  A  visit  to  Andrei  Mihailovitch's  summer  home.  —  Photographing Ongons  (gods). — Preparation  for  Horse  Sacrifice  ....      38
 
 
 CHAPTER  IV
@@ -259,8 +233,7 @@ Olzoni. —  Palisaded  prison.  —  Tembovski,  a  Polish  exile.  —  Visit 
 the  Alexandroffs.  —  A  night  journey.  —  Difficulties  encountered  at
 post  stations.  —  Count  Murevieff  Amoorski.  —  "Shamaning"  to
 drive  away  sickness.  —  Crossing  Lake  Baikal.  —  The  "Watchers."  —
-Muravieff  and  the  elder  of  Nur.  —  Arrival  at  Seven  Pines.  —  Lodg-
-ing in  a  church 53
+Muravieff  and  the  elder  of  Nur.  —  Arrival  at  Seven  Pines.  —  Lodging in  a  church 53
 
 CHAPTER  VI
 
@@ -269,8 +242,7 @@ of  the  church.  —  Lack  of  food.  —  Leave  Olkhon.  —  "Ragatz"
 station.  —  An  Italian  blacksmith.  —  Buriat  food.  —  Picturesque
 dress  of  Russian  women.  —  Climate  of  Siberia.  —  A  Russian  exile
 and  his  family.  —  Taking  down  myths.  —  Siberian  fruit.  —  Baiandai,
-a  village  of  ex-convicts.  —  An  exile  from  Little  Russia.  —  My  ser-
-vant, a  murderer.  —  Soldiers  ordered  to  China.  —  Arkokoff  and  his
+a  village  of  ex-convicts.  —  An  exile  from  Little  Russia.  —  My  servant, a  murderer.  —  Soldiers  ordered  to  China.  —  Arkokoff  and  his
 surroundings.  —  A  night-watch  who  had  served  out  a  sentence  for
 murder.  —  Disorder  and  dirt.  —  Difficulties  encountered.  —  Wild
 flowers  of  Siberia.  —  Kongoroff  exhibits  his  gods.  —  A  battle  with
@@ -280,8 +252,7 @@ to  Usturdi     73
 CHAPTER  Vn
 
 A  birthday  in  Siberia.  —  Search  for  Manshut.  —  The  Red-nosed  exile.  —
-"Red-nose"  finds  Manshut.  —  Night  ride  to  Usturdi.  —  The  dissipa-
-tion of  young  girls.  —  Leave  Usturdi.  —  Iyok,  a  town  of  ex-convicts.
+"Red-nose"  finds  Manshut.  —  Night  ride  to  Usturdi.  —  The  dissipation of  young  girls.  —  Leave  Usturdi.  —  Iyok,  a  town  of  ex-convicts.
 —  A  night  in  Kuda  (Where).  —  An  ignorant  official. — Arrival  at
 Irkutsk 87
 
@@ -435,13 +406,7 @@ Buriats  —  Husband  and  Wife  in  the  Hayfield 282
 Representations  of  Buriat  Gods 282
 
 
-20
-
-
 20        30       40      50        60      70      80      90      100      110      120       130       140  ISO I60_
-
-
-180
 
 
 T    I    C
@@ -542,25 +507,13 @@ A  Journey  in  Southern  Siberia
 7--.
 
 
-40
-
-
 Sratute  Miles
-
-
-50
-
-
-60
 
 
 "%5K     Sanar**in<n
 
 
 ^HANISTAN
-
-
-70
 
 
 -V    •'•'Hi,
@@ -582,9 +535,6 @@ RTungSZlfi  '
 
 
 5    ..»<r
-
-
-50
 
 
 T  Tomsk
@@ -652,22 +602,10 @@ TTM
 V
 
 
-80
-
-
-90
-
-
 0-
 
 
 !00
-
-
-110
-
-
-130
 
 
 A  JOURNEY  IN  SOUTHERN
@@ -706,13 +644,8 @@ Khan's  many  grandsons  were  Kublai  Khan,  the  subjector  of
 China,  together  with  Burma  and  other  lands  east  of  India;
 Hulagu,  who  destroyed  the  Assassin  Commonwealth  of  Persia,
 stormed  Bagdad,  and  extinguished  the  Abbasid  Kalifat;  and
-Batu,  who  covered  Russia  with  blood  and  ashes,  ruined  Hun-
-gary, hunting  its  king  to  an  island  in  the  Adriatic,  crushed
+Batu,  who  covered  Russia  with  blood  and  ashes,  ruined  Hungary, hunting  its  king  to  an  island  in  the  Adriatic,  crushed
 
-1
-
-
-2    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 German  and  other  forces  opposed  to  the  Mongols  at  Liegnitz,
 and  returned  to  the  Volga  region,  where  he  established  his  chief
@@ -723,8 +656,7 @@ and  almost  five  decades.  In  China  they  wielded  power  only
 sixty-eight  years.
 
 From  Tamerlane,  a  more  brilliant,  if  not  a  greater,  leader  than
-Jinghis,  descended  the  Mongols  of  India,  whose  history  is  re-
-markable both  in  the  rise  and  the  fall  of  the  empire  which  they
+Jinghis,  descended  the  Mongols  of  India,  whose  history  is  remarkable both  in  the  rise  and  the  fall  of  the  empire  which  they
 founded.
 
 These  two  Mongol  conquerors  had  a  common  ancestor  in
@@ -755,8 +687,7 @@ the  need  comes  he  has  also  cold  steel  and  hot  cannon-balls.
 
 The  Grand  Mogul  and  his  counsellors  could  not  suspect
 danger  from  this  man.  They  considered  him,  at  first,  much  as
-rich  ladies  in  great  country  houses  far  from  cities  might  con-
-sider a  humble  and  toiling  pack-peddler.  But,  though  he
+rich  ladies  in  great  country  houses  far  from  cities  might  consider a  humble  and  toiling  pack-peddler.  But,  though  he
 might  seem  insignificant,  this  man  was  really  a  conqueror.  The
 Grand  Mogul,  Jehargir,  could  not  see,  of  course,  that  Hawkins
 and  Roe  would  bring  after  them  servants  such  as  Clive,  Warren
@@ -764,30 +695,25 @@ and  Roe  would  bring  after  them  servants  such  as  Clive,  Warren
 
 BIRTHPLACE  OF  MONGOL  ACTIVITY    3
 
-Hastings,  and  others,  who  would  take  from  his  heirs  whatso-
-ever they  valued,  —  land,  dominion,  and  treasures.
+Hastings,  and  others,  who  would  take  from  his  heirs  whatsoever they  valued,  —  land,  dominion,  and  treasures.
 
 Mongol  rule  was  abolished  in  India  by  the  British  because
-it  did  not  accord  with  their  methods  and  objects.  It  was  de-
-stroyed by  the  Russians  because  it  was  foreign,  oppressive,  and
-hateful.  They  simply  freed  their  land  from  aliens.  The  con-
-flict in  Russia  was  what  people  call  patriotic.  It  was  carried  on
+it  did  not  accord  with  their  methods  and  objects.  It  was  destroyed by  the  Russians  because  it  was  foreign,  oppressive,  and
+hateful.  They  simply  freed  their  land  from  aliens.  The  conflict in  Russia  was  what  people  call  patriotic.  It  was  carried  on
 through  sacrifices  and  struggles  of  many  kinds.
 
 There  is  a  third  Mongol  history  which  affects  greatly  the  actors
 in  the  two  histories  just  mentioned.  This  history  had  its  origin
 at  Lake  Baikal,  though  indirectly.  When  Jinghis  Khan  was
 hunting  the  Kwaresmian  ruler,  Shah  Mohammed,  to  his  death
-on  an  island  in  the  Caspian,  a  group  of  Turks,  or  western  Mon-
-gols, fled  before  him,  and  found  refuge  in  Asia  Minor.  The
+on  an  island  in  the  Caspian,  a  group  of  Turks,  or  western  Mongols, fled  before  him,  and  found  refuge  in  Asia  Minor.  The
 time  for  them  proved  favorable.  They  fought;  they  obtained
 land,  and  prospered.  They  grew  great  by  accretion,  as  does  a
 snowball  rolling  down  a  long  mountain  slope,  till  at  last  they
 won  the  empire  established  by  Constantine.
 
 This  Mongol  group,  four  hundred  and  forty-four  families  in
-number,  became  known  as  the  Ottomans,  and  after  the  destruc-
-tion of  the  Kalifat  at  Bagdad  they  were  the  heirs  of  Mohammed,
+number,  became  known  as  the  Ottomans,  and  after  the  destruction of  the  Kalifat  at  Bagdad  they  were  the  heirs  of  Mohammed,
 and  a  terror  to  Europe.  In  time,  however,  they  weakened,  and
 Great  Britain  came  to  be  the  defender-in-chief  and  mainstay
 of  those  western  Mongols,  and  Russia  their  main  and  chief
@@ -796,8 +722,7 @@ became  the  active  allies  of  the  Mongols  on  the  Bosporus,  and
 the  enemy  of  that  Russia  who  had  pushed  Mongol  rule  out  of
 northern  Europe.
 
-Had  Jinghis  Khan  never  lived,  those  Turks,  or  western  Mon-
-gols, known  afterward  as  Ottomans,  would  never  have  left  Asia
+Had  Jinghis  Khan  never  lived,  those  Turks,  or  western  Mongols, known  afterward  as  Ottomans,  would  never  have  left  Asia
 and  ruled  on  the  Bosporus.
 
 The  Mongols  have  played  an  immense  part  in  the  past,  and
@@ -810,22 +735,17 @@ family  of  Jinghis  had  its  origin.
 I  think  it  well  to  give  here  a  brief  outline  sketch  of  Siberia,
 
 
-4     A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 a  country  which  covers  an  area  of  fourteen  and  one  half  million
-square  kilometres ;  that  is,  about  one  ninth  of  the  whole  continen-
-tal surface  of  the  globe,  but  which  to  the  mind  of  most  readers
+square  kilometres ;  that  is,  about  one  ninth  of  the  whole  continental surface  of  the  globe,  but  which  to  the  mind  of  most  readers
 is  an  unknown,  boundless,  cold,  dreadful  wonderland.  I  shall
-mention  a  few  of  the  chief  events  in  the  history  of  the  coun-
-try up  to  the  time  when  the  Buriats  first  recognized  Russian
+mention  a  few  of  the  chief  events  in  the  history  of  the  country up  to  the  time  when  the  Buriats  first  recognized  Russian
 supremacy.
 
 Though  the  name  "  Sibir  "  appears  in  Russian  chronicles  in
 1407  for  the  first  time,  Russians  knew  the  country  east  of  the
 Ural  Mountains  much  earlier.  Southern  Siberia  was  visited  by
 Russian  princes  in  the  middle  of  the  thirteenth  century,  when
-they  were  forced  to  do  homage  to  the  Grand  Khan  at  Kara-
-korum,  his  first  capital,  not  very  far  to  the  south  of  Lake
+they  were  forced  to  do  homage  to  the  Grand  Khan  at  Karakorum,  his  first  capital,  not  very  far  to  the  south  of  Lake
 Baikal.
 
 Western  Siberia  was  known  as  early  as  the  eleventh  century
@@ -833,8 +753,7 @@ to  merchants  of  Novgorod,  who  had  dealings  with  the  people  of
 that  region  which  they  called  Yugria  or  Ugri.  Those  people  had
 furs  of  various  kinds  which  they  were  ready  to  barter,  and  of
 all  sources  of  income  for  Novgorod  the  chief,  and  the  richest  in
-those  days,  was  the  fur  trade.  That  great  territory  between  Nov-
-gorod and  the  Ural  Mountains,  and  from  the  Volga  to  the  Frozen
+those  days,  was  the  fur  trade.  That  great  territory  between  Novgorod and  the  Ural  Mountains,  and  from  the  Volga  to  the  Frozen
 Ocean  was  one  vast  preserve,  one  immense  hunting  ground  for
 fur-bearing  animals.
 
@@ -842,8 +761,7 @@ In  the  Middle  Ages  the  wearing  of  furs  was  universal.  Every
 one  wore  them  who  had  the  wherewithal  to  purchase.  Wealthy
 persons  wore  mantles  and  coats  made  of  the  most  costly  skins,
 and  at  that  time  Great  Novgorod  purveyed  for  all  Europe  —
-found  furs  for  every  one  who  would  buy.  This  demand  im-
-pelled Novgorod  to  subject,  and  in  cases  to  colonize,  places
+found  furs  for  every  one  who  would  buy.  This  demand  impelled Novgorod  to  subject,  and  in  cases  to  colonize,  places
 far  north  and  east  of  its  own  territory.
 
 At  first  fur-bearing  animals  abounded  in  all  the  lands  under
@@ -862,8 +780,7 @@ BIRTHPLACE  OF  MONGOL  ACTIVITY     5
 was  paid  in  furs  usually,  if  not  always.  Traders  also  went  from
 various  points  on  the  Volga  to  the  Arctic,  and  besides  furs  they
 obtained  whale  and  walrus  oil,  walrus  tusks,  sea  fowls,  tar,  and
-potash,  but  fur  was  the  chief  and  most  valuable  article  of  com-
-merce. From  Perm  these  men  received  also  silver,  but  this
+potash,  but  fur  was  the  chief  and  most  valuable  article  of  commerce. From  Perm  these  men  received  also  silver,  but  this
 silver  had  been  brought  from  beyond  the  Ural  Mountains,
 which  in  those  days  were  called  Kamenyet  Poyas  (the  Stone
 Girdle).
@@ -876,16 +793,14 @@ metals,  —  gold  and  silver.
 When  regions  west  of  the  mountain  range  had  become  well
 known  to  collectors  of  tribute  and  to  traders,  men  began  to  seek
 wealth  in  regions  east  of  it.  The  fame  of  that  eastern  land  soon
-spread  throughout  all  northern  Russia,  and  in  1032  an  expedi-
-tion from  Novgorod  set  out  for  the  "Iron  Gates,"  that  is,  a  pass
+spread  throughout  all  northern  Russia,  and  in  1032  an  expedition from  Novgorod  set  out  for  the  "Iron  Gates,"  that  is,  a  pass
 in  the  Ural,  through  which  they  intended  to  enter  Yugria.
 
 This  expedition  met  failure  and  was  crushed  by  the  natives.
 Only  a  few  of  the  men  went  back  to  Novgorod;  most  of  them
 perished.
 
-In  1096,  sixty-four  years  after  that  first  expedition,  accord-
-ing to  a  statement  in  the  Chronicle  of  Nestor,  a  Novgorod
+In  1096,  sixty-four  years  after  that  first  expedition,  according to  a  statement  in  the  Chronicle  of  Nestor,  a  Novgorod
 merchant  named  Rogovitch  sent  a  man  first  to  the  Petchora,
 where  the  natives  paid  tribute,  and  afterward  to  Yugria,
 "where  the  people  are  shut  in  by  sky-touching  mountains,  in
@@ -898,12 +813,9 @@ the  sea,  called  'The  Sun's  Place,'  Alexander  discovered  these
 people,  and,  seeing  their  terrible  uncleanness, —  they  did  not
 bury  their  dead,  they  ate  snakes,  flies,  and  every  other  vile
 thing, —  he  feared  lest  they  might  increase  and  defile  the  whole
-earth  by  their  practices,  so  he  drove  them  to  that  great  north-
-eastern corner  and  fenced  them  in  there  firmly.  He  asked  the
+earth  by  their  practices,  so  he  drove  them  to  that  great  northeastern corner  and  fenced  them  in  there  firmly.  He  asked  the
 Lord,  and  high  mountains  closed  in  on  the  Yugrians.    Still  the
 
-
-6     A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 mountains  did  not  meet  altogether,  a  gap  of  twelve  ells  remained,
 and  there  a  bronze  gate  was  formed  of  such  quality  that  fire
@@ -912,16 +824,14 @@ cannot  burn  it,  or  iron  cut  it."
 Under  the  year  1114  it  is  noted  in  the  Chronicle  that  "old
 men  who  had  gone  to  Yugria  saw  a  cloud  touch  the  earth,  and
 then  fur-bearing  animals  came  out  of  it,  and  rushed  away  through
-that  country  in  myriads.  Another  cloud  came  down,  and  rein-
-deer sprang  out  of  it."
+that  country  in  myriads.  Another  cloud  came  down,  and  reindeer sprang  out  of  it."
 
 These  tales  are  like  those  told  by  Pacific  coast  Indians.  There
 are  tribes  on  the  Klamath  River  who  tell  of  animals  coming
 from  the  sky.  I  have  several  such  myths  which  I  took  down  in
 California.  This  account  in  Nestor's  Chronicle  is  beyond  doubt
 a  Siberian  myth-tale  given  to  some  Russian  who  told  it  at  home
-as  if  he  had  been  an  eye-witness,  or  who  was  reported  as  so  tell-
-ing it.
+as  if  he  had  been  an  eye-witness,  or  who  was  reported  as  so  telling it.
 
 Toward  the  end  of  the  twelfth  century  Yugria  paid  tribute  to
 Novgorod,  though  there  was  resistance  at  first,  as  there  had
@@ -946,8 +856,7 @@ its  junction  with  the  Tobol.  The  name  "  Sibir  "  was  used  then
 for  the  first  time,  as  the  chronicler  informs  us.
 
 In  1446  a  new  expedition  to  Yugria  was  made,  but  it  failed;
-and  this  seems  to  have  been  the  last  expedition  sent  by  Nov-
-gorod. Nineteen  years  later  Ivan  Veliki  (the  Great)  of  Moscow,
+and  this  seems  to  have  been  the  last  expedition  sent  by  Novgorod. Nineteen  years  later  Ivan  Veliki  (the  Great)  of  Moscow,
 afterward  the  conqueror  of  "Lord  Novgorod,"  as  the  proud
 
 
@@ -959,8 +868,7 @@ since  Kalpak  and  Tekich,  princes  of  Yugria,  were  brought  to
 Moscow,  where  Ivan  Veliki  confirmed  their  titles,  and  appointed
 a  tribute  which  they  were  to  pay  for  all  Yugria.  Thenceforth
 Ivan  must  have  considered  himself  master  of  the  country,  for
-in  1488,  when  writing  to  the  King  of  Bohemia,  he  added  Yu-
-gorski  to  his  other  titles.
+in  1488,  when  writing  to  the  King  of  Bohemia,  he  added  Yugorski  to  his  other  titles.
 
 But  in  reality  the  northern  part  of  Yugria  showed  no  desire
 for  subjection  to  Moscow.  And  years  later  three  commanders,
@@ -970,10 +878,8 @@ and  taking,  as  prisoners,  more  than  one  thousand  people,  with
 fifty-eight  princes  or  elders.
 
 Fifteen  years  after  this  Vassili,  son  of  Ivan  Veliki,  divided
-northern  Yugria.  The  region  on  the  Lower  Ob  he  called  Obdo-
-ria,  and  that  on  the  river  Konda,  Koridia,  and  to  his  titles  he
-added  Prince  Obdorski  and  Kondinski.  A  little  later  the  south-
-ern part  became  known  as  Sibir,  which  was  the  name  of  the
+northern  Yugria.  The  region  on  the  Lower  Ob  he  called  Obdoria,  and  that  on  the  river  Konda,  Koridia,  and  to  his  titles  he
+added  Prince  Obdorski  and  Kondinski.  A  little  later  the  southern part  became  known  as  Sibir,  which  was  the  name  of  the
 capital  of  the  native  khans,  and  in  time  became  the  name  of
 the  entire  country.
 
@@ -998,15 +904,12 @@ Ediger,  and  Bekbulat  his  brother,  termed  himself  Tsar  of  Sibir,
 probably  calling  all  the  country  in  that  region  Sibir,  to  signify
 
 
-8     A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 that  it  belonged  to  his  capital.  When  established  firmly  he
 subdued  many  northern  tribes  and  refused  to  pay  tribute  to
 Moscow.
 
 In  1569  Ivan  the  Terrible  sent  Kuchum  a  message  reminding
-him  of  his  duties  as  a  vassal;  and  in  1571-72  Kuchum  de-
-spatched two  envoys,  Tamas  and  Aisa,  to  Moscow  with  tribute,
+him  of  his  duties  as  a  vassal;  and  in  1571-72  Kuchum  despatched two  envoys,  Tamas  and  Aisa,  to  Moscow  with  tribute,
 and  a  letter  in  which  he  asked  to  become  a  subject  of  the  Tsar,
 and  promised  to  pay  the  tribute  in  future.
 
@@ -1028,8 +931,7 @@ In  1574  the  Stroganoffs,  Grigori  and  Yakov,  were  granted
 the  privilege  to  build  posts  on  the  Tobol  and  Takhcha  rivers ;
 to  use  guns  and  cannon;  to  enlist  men  and  employ  them  in
 warfare;  to  restrain  every  uprising;  to  establish  iron- works
-and  fisheries;  to  cultivate  land  on  the  Tobol  and  streams  flow-
-ing into  it.  Settlers  on  those  lands  were  freed  for  twenty  years
+and  fisheries;  to  cultivate  land  on  the  Tobol  and  streams  flowing into  it.  Settlers  on  those  lands  were  freed  for  twenty  years
 from  taxes  and  services  of  all  kinds.  The  Stroganoffs  were  to
 put  down  robbers,  thieves,  and  vagrants;  they  were  to  protect
 native  tribes  and  other  people  from  Kuchum,  and  bring  Kuchum
@@ -1039,8 +941,7 @@ In  Moscow  there  was  great  complaint  touching  robberies
 on  the  Volga,  and  in  1577  Ivan  Grozney  (the  Terrible)  sent  a
 strong  force  with  an  order  to  capture  Yermak,  the  chief  ataman,
 with  four  other  atamans,  and  send  them  in  irons  to  Moscow,
-that  he  might  make  an  example  of  them  by  a  painful  and  igno-
-minious death.
+that  he  might  make  an  example  of  them  by  a  painful  and  ignominious death.
 
 Some  of  the  robbers,  or  Cossacks,  as  people  called  them,  were
 captured  and  hanged  straightway,  but  most  of  them  scattered
@@ -1053,8 +954,7 @@ his  associate  atamans,  Ivan  Koltso,  Yakov  Mihailoff,  Nikita
 Pan,  and  Matvei  Mestcheryak,  and  other  men  to  the  number
 of  five  thousand,  or  five  hundred  as  some  historians  state.
 
-The  following  year  these  men  reached  the  land  of  the  Stro-
-ganoffs.  Grigori  and  Yakov  were  dead ;  their  heirs  were  Simeon,
+The  following  year  these  men  reached  the  land  of  the  Stroganoffs.  Grigori  and  Yakov  were  dead ;  their  heirs  were  Simeon,
 a  third  brother,  Maksim,  son  of  Yakov,  and  Nikita,  son  of
 Grigori.  There  are  in  Russian  Chronicles  two  versions  of
 what  happened  at  this  time.  One  is  that  Yermak  planned  the
@@ -1067,31 +967,23 @@ co-operate.  But  the  glory  of  being  the  first  real  conqueror  of
 Siberia  is  given  to  Yermak,  and  he  is  therefore  the  popular
 hero  of  Siberia.
 
-Kuchum  had  shown  clearly  that  no  success  in  Sibir  was  pos-
-sible for  the  Stroganoffs  or  others  till  his  power  was  crushed
+Kuchum  had  shown  clearly  that  no  success  in  Sibir  was  possible for  the  Stroganoffs  or  others  till  his  power  was  crushed
 thoroughly.     Yermak  undertook  to  crush  it.
 
 Of  Yermak  and  his  origin  accounts  are  also  conflicting.  One
 Chronicle  calls  him  Vassili,  and  says  that  he  was  a  native  of  the
 Ural  country,  who  worked  on  a  boat  navigating  the  Kama  and
-the  Volga;  that  he  was  pot-boiler,  that  is,  cook,  for  the  boat-
-men. Yermak  was  the  name  of  a  company's  pot  on  such  boats,
+the  Volga;  that  he  was  pot-boiler,  that  is,  cook,  for  the  boatmen. Yermak  was  the  name  of  a  company's  pot  on  such  boats,
 and  instead  of  calling  him  Vassili  the  boatmen  nicknamed  him
-Yermak  (Pot).  Yermak  was  ambitious,  hence  he  grew  dis-
-satisfied and  restless,  and,  seeing  a  chance  to  win  wealth  on  the
-Volga  by  robbery,  he  deserted  his  employers,  formed  a  com-
-pany of  young,  daring  boatmen,  put  himself  at  the  head  of  it,
+Yermak  (Pot).  Yermak  was  ambitious,  hence  he  grew  dissatisfied and  restless,  and,  seeing  a  chance  to  win  wealth  on  the
+Volga  by  robbery,  he  deserted  his  employers,  formed  a  company of  young,  daring  boatmen,  put  himself  at  the  head  of  it,
 and  began  business.  He  did  what  he  pleased,  and  above  all
-what  gave  profit.  At  last  he  and  Koltso  with  a  few  of  their  as-
-sociates grew  so  bold  that  they  robbed  the  Tsar's  envoy;  and
-then  came  the  order  to  bring  him  to  Moscow.  In  another  ac-
-count Yermak  is  made  a  Cossack  of  the  Don ;  and  in  a  third,
+what  gave  profit.  At  last  he  and  Koltso  with  a  few  of  their  associates grew  so  bold  that  they  robbed  the  Tsar's  envoy;  and
+then  came  the  order  to  bring  him  to  Moscow.  In  another  account Yermak  is  made  a  Cossack  of  the  Don ;  and  in  a  third,
 that  of  Kostomareff,  he  is  described  as  an  ataman  in  the
 Tsar's  service  on  the  Ural,  and  has  no  connection  whatever
 with  Don  Cossacks  or  with  robbery  on  the  Volga.
 
-
-10    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Yermak's  first  hostile  meeting  with  the  natives  of  Sibir  was
 with  the  Tartar  prince,  Epancha,  whom  he  defeated.  In  a
@@ -1124,14 +1016,12 @@ and  tribute.
 
 Early  in  1582  Mahmet  Kul  was  captured  and  taken  to  Moscow.
 Yermak  now  sent  Ivan  Koltso  to  lay  the  Tsardom  of  all  Sibir  at
-the  feet  of  Ivan  Grozney.  Koltso  was  attended  by  fifty  Cos-
-sacks, and  took  with  him  two  thousand  four  hundred  valuable
+the  feet  of  Ivan  Grozney.  Koltso  was  attended  by  fifty  Cossacks, and  took  with  him  two  thousand  four  hundred  valuable
 skins,  two  black  foxes,  fifty  beavers,  and  a  letter  from  Yermak
 to  the  Tsar  announcing  his  conquest.
 
 The  Tsar  received  Koltso  with  honor,  and  so  great  was  his
-gratitude  that  he  sent  Yermak  a  fur  mantle  from  his  own  shoul-
-ders, a  magnificent  goblet,  and  two  rich  suits  of  armor,  besides
+gratitude  that  he  sent  Yermak  a  fur  mantle  from  his  own  shoulders, a  magnificent  goblet,  and  two  rich  suits  of  armor,  besides
 much  money.  He  also  sent  one  of  his  most  valued  leaders,
 Ghikhoff,  to  assist  him.
 
@@ -1142,20 +1032,17 @@ BIRTHPLACE  OF  MONGOL  ACTIVITY    11
 
 September,  1583,  a  messenger  came  from  Karacha,  a  murza
 who  had  formerly  been  devoted  to  Kuchum,  begging  Yermak
-for  aid  against  Nogai  Tartars.  Yermak,  not  thinking  of  treach-
-ery, sent  Koltso  with  forty  Cossacks.  Karacha  slaughtered  the
+for  aid  against  Nogai  Tartars.  Yermak,  not  thinking  of  treachery, sent  Koltso  with  forty  Cossacks.  Karacha  slaughtered  the
 entire  party.
 
 In  November  came  the  first  government  officials  to  Siberia
 from  Moscow,  Prince  Bolhovski,  with  two  associates  and  five
 hundred  sharpshooters.  The  following  winter  there  was  a
 terrible  dearth  of  provisions.  Prince  Bolhovski  and  many  of
-his  men  died  from  hardship  and  lack  of  food.  While  the  Rus-
-sians were  in  such  straits  Karacha  tried  to  anticipate  Yermak  in
+his  men  died  from  hardship  and  lack  of  food.  While  the  Russians were  in  such  straits  Karacha  tried  to  anticipate  Yermak  in
 action,  and  prevent  him  from  taking  revenge  for  the  murder  of
 Koltso  and  his  Cossacks.  He  invested  Sibir,  the  capital;  but
-the  Russians  made  a  sally,  defeated  him,  and  drove  off  his  war-
-riors, who  fled,  leaving  their  supply  of  provisions  behind  them.
+the  Russians  made  a  sally,  defeated  him,  and  drove  off  his  warriors, who  fled,  leaving  their  supply  of  provisions  behind  them.
 
 During  the  summer  of  1584  Yermak  made  his  last  expedition.
 He  sailed  up  the  Irtish  to  subdue  the  various  tribes  and  force
@@ -1164,17 +1051,14 @@ him.  With  the  tribes  he  succeeded,  but  Karacha  eluded  every
 search,  and  escaped.
 
 Near  the  end  of  July  Yermak  returned  to  his  capital,  but  in
-August  sailed  again  up  the  river  to  rescue,  as  he  thought,  Buk-
-hara traders,  reports  having  reached  him  that  Kuchum  had
+August  sailed  again  up  the  river  to  rescue,  as  he  thought,  Bukhara traders,  reports  having  reached  him  that  Kuchum  had
 seized  them  on  the  Irtish.  Finding  that  these  reports  were
 false,  he  turned  and  sailed  homeward.
 
 One  night,  when  it  was  so  dark  and  stormy  that  Yermak
 thought  it  unsafe  to  continue  the  journey,  he  stopped  at  an  island
-near  the  bank  of  the  river.  The  weary  Cossacks  were  soon  sleep-
-ing soundly.  The  enemy,  who  had  followed  very  sharply  and
-cautiously,  stole  onto  the  island  during  the  rain-storm  and  dark-
-ness and  killed  or  drove  into  the  river  every  man  except  one;
+near  the  bank  of  the  river.  The  weary  Cossacks  were  soon  sleeping soundly.  The  enemy,  who  had  followed  very  sharply  and
+cautiously,  stole  onto  the  island  during  the  rain-storm  and  darkness and  killed  or  drove  into  the  river  every  man  except  one;
 that  man  escaped  and  carried  the  tidings  to  Sibir.
 
 Yermak  was  either  killed  by  the  natives  or  drowned.  His
@@ -1186,13 +1070,10 @@ In  Moscow  no  one  knew  what  had  happened  in  far-off  Siberia.
 The  entire  force  of  men  left  there  was  one  hundred  and  fifty,  the
 
 
-12    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 remnant  of  Yermak's  little  army,  and  of  those  warriors  who  had
 come  with  Bolhovski.  They  were  under  command  of  Glukhoff,
 who,  fearing  to  remain  in  a  hostile  country  with  so  small  a  force,
-decided  to  return  west  of  the  Ural.  He  left  Sibir,  and,  not  ven-
-turing to  take  the  road  by  which  Yermak  had  entered  the  coun-
+decided  to  return  west  of  the  Ural.  He  left  Sibir,  and,  not  venturing to  take  the  road  by  which  Yermak  had  entered  the  coun-
 try, sailed  down  the  Irtish  and  Ob  rivers,  crossed  the  Ural
 Mountains  well  toward  the  north,  came  out  in  the  region  of
 Archangel,  and  went  thence  to  Moscow.
@@ -1206,8 +1087,7 @@ In  1585  Tsar  Fedor,  son  and  successor  of  Ivan  Grozney,
 knowing  nothing  of  what  had  happened,  sent  Ivan  Mansuroff  to
 succeed  Prince  Bolhovski.  "When  Mansuroff  arrived  in  Sibir  he
 found  no  Russians  whatsoever.  If  a  few  were  left  in  the  country
-they  had  associated  themselves  with  the  natives,  to  escape  de-
-struction. It  was  impossible  to  return  to  Moscow  for  the  cold
+they  had  associated  themselves  with  the  natives,  to  escape  destruction. It  was  impossible  to  return  to  Moscow  for  the  cold
 season  had  come.  Mansuroff  was  forced  to  remain  in  Siberia
 for  the  winter,  hence  with  all  expedition  he  raised  a  stockade  and
 built  houses  on  the  right  bank  of  the  Ob,  just  opposite  the
@@ -1215,20 +1095,16 @@ mouth  of  the  Irtish.
 
 The  Ostyaks  made  one  attack,  but  were  so  frightened  by  the
 sound  of  the  cannon  that  they  fled.  In  the  spring  Mansuroff  set
-out  for  home,  going  by  the  same  road,  through  the  Ural  Moun-
-tains, which  Glukhoff  had  taken.
+out  for  home,  going  by  the  same  road,  through  the  Ural  Mountains, which  Glukhoff  had  taken.
 
 When  Glukhoff  reached  Moscow,  and  told  his  tale  of  defeat
 and  disaster  Tsar  Fedor  sent  three  hundred  men  to  Sibir  under
-two  voevodas,  Vassili  Sukin  and  Ivan  Myasnoi.  Daniel  Chul-
-koff ,  a  secretary,  was  to  follow.  In  July  of  that  year,  1586,  Sukin
-founded  Tiumen  on  the  Tura,  and,  not  venturing  to  move  far-
-ther on  toward  Sibir,  he  extended  Moscow  rule  over  tribes  in  the
+two  voevodas,  Vassili  Sukin  and  Ivan  Myasnoi.  Daniel  Chulkoff ,  a  secretary,  was  to  follow.  In  July  of  that  year,  1586,  Sukin
+founded  Tiumen  on  the  Tura,  and,  not  venturing  to  move  farther on  toward  Sibir,  he  extended  Moscow  rule  over  tribes  in  the
 region  around  him.  He  was  not  too  far  from  the  Ural,  hence
 safe.    The  position  was  good,  geographically.
 
-Early  in  1587  five  hundred  men  came  from  Moscow  with  Chul-
-koff,  who  brought  to  Sukin  and  Myasnoi  a  command,  from  the
+Early  in  1587  five  hundred  men  came  from  Moscow  with  Chulkoff,  who  brought  to  Sukin  and  Myasnoi  a  command,  from  the
 Tsar,  to  found  a  city  on  the  right  bank  of  the  Irtish,  near  the
 mouth  of  the  Tobol  —  Tobolsk  was  founded.
 
@@ -1240,10 +1116,8 @@ on  the  Tobol  followed  quickly,  but  was  soon  transferred  to  the
 high  bank  of  the  Irtish.  Chulkoff  induced  Seidyak,  ruling  then
 in  Sibir,  the  town  taken  once  by  Yermak,  to  visit  him  at  Tobolsk.
 Uzaz  Makmen,  Sultan  of  the  Kaisak  Horde,  came  also,  and
-Karacha,  who  had  slaughtered  Koltso  and  his  Cossacks.  Chul-
-koff seized  all  three  of  these  men  and  sent  them  to  Moscow.
-Then  he  attacked  and  captured  Sibir,  the  capital.  Its  inhabi-
-tants fled,  and  the  place  was  never  reoccupied  by  any  one.
+Karacha,  who  had  slaughtered  Koltso  and  his  Cossacks.  Chulkoff seized  all  three  of  these  men  and  sent  them  to  Moscow.
+Then  he  attacked  and  captured  Sibir,  the  capital.  Its  inhabitants fled,  and  the  place  was  never  reoccupied  by  any  one.
 
 In  their  advance  toward  the  East  the  Russians  did  not  meet
 with  very  serious  resistance  till  near  the  Amoor  River,  generally
@@ -1253,11 +1127,9 @@ became  towns.
 
 In  1590,  for  the  first  time,  colonists  were  sent  to  Siberia.
 Tobolsk  was  made  the  chief  city  and  administrative  center.  New
-towns  appeared,  among  others  Pelym,  which  Prince  Peter  Gort-
-chakoff  founded.  This  place  is  notable  as  the  first  in  Siberia  to
+towns  appeared,  among  others  Pelym,  which  Prince  Peter  Gortchakoff  founded.  This  place  is  notable  as  the  first  in  Siberia  to
 which  exiles  were  sentenced.  Many  of  the  people  of  Uglitch,  a
-place  north  of  Moscow,  were  sent  thither  by  Tsar  Fedor  be-
-cause of  the  death  in  their  town  of  his  half-brother,  the  young
+place  north  of  Moscow,  were  sent  thither  by  Tsar  Fedor  because of  the  death  in  their  town  of  his  half-brother,  the  young
 son  of  Ivan  the  Terrible.  Strangest  exile  of  all  was  a  church  bell
 from  Uglitch,  sent  to  Tobolsk  in  1591.  The  alarm  had  been
 sounded  on  that  bell  when  the  Tsar's  son  was  killed.  In  Tobolsk
@@ -1280,8 +1152,6 @@ though  deaf  and  blind,  did  not  yield  to  the  Russians;  he  fled
 to  the  Nogai  Tartars,  who  somewhat  later  killed  him.
 
 
-14    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 And  now  Russia  established  itself  firmly  in  Siberia.
 
 The  first  exiles  of  distinction  to  be  sent  into  the  country  were
@@ -1294,10 +1164,8 @@ sprang  the  founder  of  the  Romanoff  dynasty,  Michael  Romanoff.
 
 The  city  of  Tomsk  was  founded  in  1604  by  Gavrilo  Pisemski
 and  Vassili  Tyrtoff.  This  city  is  now,  in  1900,  the  educational
-center  of  northwestern  Siberia.  It  has  one  of  the  largest  Univer-
-ties  in  the  country,  twenty-three  Russian  churches,  two  syna-
-gogues, and  a  large  Catholic  church.  It  is  a  wide-awake  flourish-
-ing city  in  spite  of  a  climate  so  cold  that  during  winter  the  ther-
+center  of  northwestern  Siberia.  It  has  one  of  the  largest  Univerties  in  the  country,  twenty-three  Russian  churches,  two  syna-
+gogues, and  a  large  Catholic  church.  It  is  a  wide-awake  flourishing city  in  spite  of  a  climate  so  cold  that  during  winter  the  ther-
 mometer is  about  forty  degrees  below  zero  (Fahrenheit)  for
 many  days  at  a  time,  and  the  river  Tom,  on  which  the  city  is
 situated,  is  frozen  quite  half  the  year.
@@ -1318,10 +1186,8 @@ world.
 In  1621  an  event  occurred  of  great  importance  for  the  future
 historians  of  Russia :  Cyprian  came  as  the  first  archbishop  to
 Siberia.  He  was  a  scholar,  and  a  man  of  remarkable  foresight.
-His  prescience  has  been  of  immense  value  to  Russia.  His  ear-
-liest work  was  to  find  the  few  survivors  of  Yermak's  forces  and
-write  down  from  their  lips  what  they  knew  of  that  hero's  expe-
-ditions and  conquests.  That  information  formed  the  basis  of
+His  prescience  has  been  of  immense  value  to  Russia.  His  earliest work  was  to  find  the  few  survivors  of  Yermak's  forces  and
+write  down  from  their  lips  what  they  knew  of  that  hero's  expeditions and  conquests.  That  information  formed  the  basis  of
 Siberian  chronicles.
 
 In  1622  the  Russians  first  became  acquainted  with  the  Buriats.
@@ -1337,8 +1203,7 @@ were  sent  out,  one  under  Bugor  to  explore  the  Lena  River,  the
 other  under  Perfilyeff,  to  force  the  Buriats  to  pay  tribute.
 
 Bugor  reached  the  upper  waters  of  the  Lena,  but  Perfilyeff
-was  unsuccessful;  the  Buriats  would  not  surrender  their  inde-
-pendence.
+was  unsuccessful;  the  Buriats  would  not  surrender  their  independence.
 
 In  1628  Piotr  Beketoff,  with  a  party  of  Cossacks,  was  sent
 against  the  Buriats  on  the  Angara,  but  returned  after  reaching
@@ -1347,8 +1212,7 @@ the  mouth  of  the  Oka  River.
 In  1632  Beketoff  ascended  the  Angara  and  then  the  Him,
 crossed  to  the  Lena,  sailed  down  that  river,  and  built  a  fort  which
 he  called  Yakutsk.  Later  this  fort  was  removed  to  the  present
-Yakutsk,  seventy  versts  higher  up  the  river,  and  in  1638  Ya-
-kutsk was  made  the  administrative  center  of  northeastern
+Yakutsk,  seventy  versts  higher  up  the  river,  and  in  1638  Yakutsk was  made  the  administrative  center  of  northeastern
 Siberia.  That  same  year  Verhoyansk  in  the  far  North  was
 founded,  and  in  1640  were  discovered  the  rivers  Indigirka  and
 Alazli,  both  of  which  flow  into  the  Frozen  Ocean.
@@ -1358,8 +1222,7 @@ Altyn  Khan  at  Lake  Ubsa.  Among  that  khan's  presents  to
 Michael  Romanoff  was  the  first  tea  taken  to  Russia,  two  hundred
 packages,  each  weighing  one  pound  and  a  quarter.  Starkoff
 refused  to  take  the  tea,  declaring  that  it  was  useless,  and  was
-difficult  to  carry,  but  the  khan  insisted  and  the  envoy,  not  wish-
-ing to  displease  him,  yielded.  Tea  taken  thus  to  Moscow  against
+difficult  to  carry,  but  the  khan  insisted  and  the  envoy,  not  wishing to  displease  him,  yielded.  Tea  taken  thus  to  Moscow  against
 the  wishes  of  the  envoy  soon  became  a  national  drink  among  the
 Russians  and  has  ever  remained  so.
 
@@ -1373,8 +1236,6 @@ Ivan  Pohalioff,  sent  to  collect  tribute  from  the  Buriats  on  the
 Irkut,  crossed  Lake  Baikal  near  its  southern  border,  and  then
 through  the   friendship  of  a  petty  prince,  Turukai,  reached
 
-
-16    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Urga,  the  capital  of  Setsen  Khan.     As  a  result  of  this  visit
 Setsen  Khan,  the  year  following,  sent  an  embassy  to  Moscow.
@@ -1397,8 +1258,7 @@ Yakutsk  voevoda  he  explains  how,  in  an  encounter  with  the
 Chuchis,  Aleksaiyeff  was  wounded  and  they  put  to  sea  at  once.
 A  frightful  storm  separated  the  vessels  and  they  never  met  again.
 Dejneff  was  carried  by  the  wind  to  the  south  of  the  Anadyr  River.
-Thus  he  was  the  first  man  to  show  that  there  was  a  passage  be-
-tween the  Arctic  Ocean  and  the  Pacific.  To  him  in  reality  be-
+Thus  he  was  the  first  man  to  show  that  there  was  a  passage  between the  Arctic  Ocean  and  the  Pacific.  To  him  in  reality  be-
 longs the  honor  of  discovering  the  straits  which  now  bear  the
 name  of  Bering,  for  they  were  seen  by  him  eighty  years  earlier  (in
 1648)  than  by  Bering.  Cast  upon  the  shore,  near  the  mouth  of
@@ -1407,8 +1267,7 @@ to  the  Anadyr  River.  There  they  built  a  shelter  for  the  winter,
 and  soon  after  were  rescued  by  traders.
 
 Aleksaiyeff  and  Ankudinoff  perished  in  Kamchatka.  Though
-Dejneff's  name  is  found  in  documents  till  1654  his  fate  is  un-
-known.   He  undoubtedly  died  during  some  expedition.
+Dejneff's  name  is  found  in  documents  till  1654  his  fate  is  unknown.   He  undoubtedly  died  during  some  expedition.
 
 In  1650  there  were  several  conflicts  between  Russians  and
 Buriats,  and  only  after  much  effort  did  the  Russians  assert  their
@@ -1428,8 +1287,7 @@ had  deserted.
 In  1652  Pohakoff  established  the  post  of  Irkutsk  on  Irkut
 River  near  its  junction  with  the  Angara.  In  1661  it  was  removed
 to  the  right  bank  of  the  Angara,  the  present  site  of  the  city  of
-Irkutsk,  and  twenty-one  years  later  it  was  made  an  administra-
-tive center.
+Irkutsk,  and  twenty-one  years  later  it  was  made  an  administrative center.
 
 The  same  year  that  the  Irkutsk  post  was  established  Ivan
 Robroff  was  sent  from  the  Lena  in  search  of  a  northern  continent,
@@ -1440,11 +1298,9 @@ Buriats  were  preparing  to  withdraw  to  the  East  of  Lake  Baikal,
 but,  listening  to  the  counsel  of  their  wise  men,  they  resolved  to
 remain  in  their  home  country  and  submit  to  Russian  rule.  There
 were  uprisings,  however,  and  it  was  not  till  near  the  end  of  the
-seventeenth  century  that  the  Buriats,  completely  subdued,  be-
-came peaceful  Russian  subjects.
+seventeenth  century  that  the  Buriats,  completely  subdued,  became peaceful  Russian  subjects.
 
-Seventy-five  years  after  Yermak  crossed  the  Urals  into  the  al-
-most unknown  land  of  Yugra,  Russia  had  swept  across  Asia ;  her
+Seventy-five  years  after  Yermak  crossed  the  Urals  into  the  almost unknown  land  of  Yugra,  Russia  had  swept  across  Asia ;  her
 boundaries  touched  the  frozen  ocean  in  the  north,  and  China  in
 the  south ;  and  in  1697  Kamchatka  was  added  to  her  domains.
 
@@ -1461,13 +1317,11 @@ The  city,  as  seen  from  the  train  which  was  nearing  it  swiftly,
 was  extremely  imposing,  not  only  because  of  its  size,  and  its
 many  large  churches,  but  also  because  the  train  approaches
 Irkutsk  in  such  a  direction  that  the  front,  and  one  side  of  the
-city,  are  presented  together,  as  was  the  case  with  Grecian  tem-
-ples, the  approaches  to  which  were  arranged  toward  the  angle
+city,  are  presented  together,  as  was  the  case  with  Grecian  temples, the  approaches  to  which  were  arranged  toward  the  angle
 between  the  facade  and  one  side  of  the  structure.
 
 Right  in  front  of  the  city  is  the  Angara,  a  deep,  very  clear  and
-swift  river  which  flows  out  of  Lake  Baikal,  known  as  I  have  al-
-ready stated,  as  the  largest  and  by  far  the  most  beautiful  body  of
+swift  river  which  flows  out  of  Lake  Baikal,  known  as  I  have  already stated,  as  the  largest  and  by  far  the  most  beautiful  body  of
 fresh  water  in  Asia.  The  Angara  is  the  one  outlet  of  Lake  Baikal,
 which  sends  forth  its  waters  through  this  river  to  the  Yenissei,
 and  thus  they  are  borne  on  to  the  Arctic.
@@ -1505,8 +1359,7 @@ There  is  no  city  on  earth  which  has  such  a  river  in  front  of  it
 as  has  Irkutsk  —  blue,  very  deep,  and  moving  with  a  speed  that
 gives  the  idea  of  resistless  power.
 
-Irkutsk  seems  new  except  in  some  of  its  churches  and  govern-
-ment buildings.  Its  streets  are  wide  and  unpaved.  Its  houses
+Irkutsk  seems  new  except  in  some  of  its  churches  and  government buildings.  Its  streets  are  wide  and  unpaved.  Its  houses
 mainly  of  wood,  and  in  large  number  unpainted.
 
 The  most  interesting  and  remarkable  monument  of  the  city  is
@@ -1516,8 +1369,7 @@ Muravieff,  who  received  the  title  of  count  for  his  exploit  in  giving
 communication  with  the  Pacific,  and  was  known  thereafter  as
 Count  Muravieff  Amoorski.
 
-We  drove  through  the  city  and  stopped  at  the  hotel  Metri-
-pole.  No  one  came  to  take  the  baggage;  the  driver  got  it  in  as
+We  drove  through  the  city  and  stopped  at  the  hotel  Metripole.  No  one  came  to  take  the  baggage;  the  driver  got  it  in  as
 best  he  could.  There  was  but  one  vacant  room.  The  furniture
 was  soiled  and  shabby,  the  bed  hard,  the  blankets  of  the  coarsest
 wool.  And  this  was  the  best  hotel  in  Irkutsk!  In  the  untidy
@@ -1533,8 +1385,7 @@ much  courtesy,  but  very  cordially,  and  when  I  explained  exactly
 what  I  wanted,  namely,  to  study  the  Mongol  language,  customs,
 and  religion  among  the  Buriats  in  regions  west  and  northwest  of
 Lake  Baikal,  I  was  assured  that  every  aid  which  the  government
-could  give  would  be  given  me.  I  was  furnished  with  letters  to  dis-
-trict chiefs,  and  besides,  though  I  did  not  know  it  till  later,  in-
+could  give  would  be  given  me.  I  was  furnished  with  letters  to  district chiefs,  and  besides,  though  I  did  not  know  it  till  later,  in-
 structions were  forwarded  to  officials  along  the  road  which  I  was
 to  travel  to  help  me  in  every  way  they  could.
 
@@ -1542,14 +1393,11 @@ I  considered  Irkutsk  as  the  starting-point  of  my  investigations
 into  the  Mongol  world,  so  far  as  the  Buriat  part  of  it  was  con-
 
 
-20    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 cerned.  Hence  I  decided  to  spend  a  few  days  in  studying  the
 city  and  gathering  what  information  I  could  concerning  the
 people  whom  I  was  about  to  visit.
 
-I  had  letters  from  friends  in  St.  Petersburg  to  residents  of  Ir-
-kutsk, and  at  the  house  of  one  of  these  gentlemen,  Mr.  Popoff,
+I  had  letters  from  friends  in  St.  Petersburg  to  residents  of  Irkutsk, and  at  the  house  of  one  of  these  gentlemen,  Mr.  Popoff,
 editor  of  The  Eastern  Review,  I  spent  many  pleasant  and
 profitable  hours.  Years  ago  Mr.  Popoff  was  exiled  to  Siberia  for
 political  reasons.  When  free  to  return  to  Russia  he  preferred  to
@@ -1575,8 +1423,7 @@ the  collection,  the  ceremonial  dress  of  a  Buriat  Shaman.
 Two  days  after  my  visit  to  the  Museum  I  called  upon  Dmitri
 Petrovich  and  found  that  Andrei  Mihailovitch  Mihailoff,  the
 Buriat,  had  arrived.  Pershin  introduced  us,  and,  with  a  good
-deal  of  emphasis,  told  the  old  man  that  I  wanted  to  become  ac-
-quainted with  his  people,  and  that  he  must  aid  me  in  every  way
+deal  of  emphasis,  told  the  old  man  that  I  wanted  to  become  acquainted with  his  people,  and  that  he  must  aid  me  in  every  way
 he  could.
 
 Andrei  Mihailovitch  was  friendly  and  promised  co-operation,
@@ -1600,8 +1447,7 @@ me  that  Andrei  Mihailoviteh  would  give  me  good  lodgings  at  his
 summer  place  and  bring  me  in  contact  with  people  who  could  tell
 much  touching  Buriat  religion  and  folk-lore.
 
-"It  is  a  splendid  beginning,"  said  Pershin,  who  was  very  en-
-thusiastic. "This  man  can  make  you  acquainted  with  all  the
+"It  is  a  splendid  beginning,"  said  Pershin,  who  was  very  enthusiastic. "This  man  can  make  you  acquainted  with  all  the
 Buriats.  His  word  is  weighty  among  them.  He  still  adheres  to
 the  ancient  religion  of  his  people,  and  can  himself  tell  you  much
 regarding  it."
@@ -1626,8 +1472,7 @@ in  the  daytime  is  needed  for  traveling  in  that  country.  It  is  not
 too  heavy,  but  is  strong,  and  easily  repaired.  It  is  made  ready
 for  the  road  in  the  following  manner:  First  cover  the  bottom
 inside  with  a  coarse  Siberian-made  carpet;  on  that  carpet  place
-a  firm  mattress,  which  should  cover  the  bottom  of  the  vehicle  en-
-tirely. Spread  on  the  mattress  a  thin  blanket  to  protect  it.  A
+a  firm  mattress,  which  should  cover  the  bottom  of  the  vehicle  entirely. Spread  on  the  mattress  a  thin  blanket  to  protect  it.  A
 seat  is  made  with  a  soft  leather  trunk,  a  specialty  of  Siberia.
 This  trunk  should  be  as  long  as  the  inside  width  of  the  carriage
 body.  A  good  supply  of  pillows  for  the  back  and  a  couple  of
@@ -1636,8 +1481,6 @@ heavy  blankets  complete  the  outfit.
 It  should  be  stated  that  when  hired  the  carriage  is  perfectly
 empty.    The  body  is  a  kind  of  box  somewhat  lower  on  the  sides
 
-
-22    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 than  in  the  middle.  It  has  no  seat  whatever,  except  that  for  the
 driver,  which  is  in  front  of  the  body.  There  is  room  behind  for  a
@@ -1650,8 +1493,7 @@ the  same  rate  as  the  post  stations  —  three  copecks  (a  cent  and
 a  half)  a  mile  for  each  animal.
 
 In  due  time  I  had  made  all  preparations,  purchased  carpet,
-mattress,  and  provisions,  and  was  ready  to  set  out  for  the  sum-
-mer dwelling  of  Andrei  Mihailovitch,  which  is  about  four  versts
+mattress,  and  provisions,  and  was  ready  to  set  out  for  the  summer dwelling  of  Andrei  Mihailovitch,  which  is  about  four  versts
 nearer  Irkutsk  than  the  post  station  Usturdi,  the  latter  being
 sixty  versts  distant.
 
@@ -1660,8 +1502,7 @@ all  things  necessary  were  in  the  carriage  and  we  were  ready  to
 move  into  the  land  of  the  Buriats.  It  was  at  least  half  an  hour
 later  than  I  had  intended  starting.  The  delay  was  caused  by  the
 Yamschik  who  came  without  the  traces  for  the  side  horses  of  the
-troika,  and  had  to  go  back  for  them.  I  learned  then  that  tarna-
-tasses  are  with  and  without  traces,  and  that  I  ought  to  have  men-
+troika,  and  had  to  go  back  for  them.  I  learned  then  that  tarnatasses  are  with  and  without  traces,  and  that  I  ought  to  have  men-
 tioned the  traces  when  ordering  the  horses.
 
 The  chief  of  the  post  station  in  Irkutsk  had  promised  three
@@ -1693,8 +1534,7 @@ hill,  and  then  drove  at  the  pace  he  liked,  which  was  somewhat
 slower  than  that  of  our  carriage,  hence  annoying.  He  seemed  to
 take  pleasure  in  tormenting  us.
 
-Nikolai  waited  a  few  moments  till  the  road  widened  suffi-
-ciently, then  he  turned  and  said  in  a  low  voice:
+Nikolai  waited  a  few  moments  till  the  road  widened  sufficiently, then  he  turned  and  said  in  a  low  voice:
 
 "I  can  go  ahead  of  that  scoundrel.     Shall  I  do  so?"
 
@@ -1737,12 +1577,9 @@ ahead.  At  that  point  the  road  descended  very  gently  for  a
 mile  or  more,  and  then  rose  with  another  hill.    No  man  could
 
 
-24    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 find,  or  construct  a  better  race  course.  Nikolai  turned  for  a
 moment  to  look  at  the  other  man,  then  with  a  series  of  shouts
-rising  higher  and  higher,  and  with  a  deft  use  of  his  whip,  he  im-
-pelled those  three  horses  down  that  road  at  full  speed.  The
+rising  higher  and  higher,  and  with  a  deft  use  of  his  whip,  he  impelled those  three  horses  down  that  road  at  full  speed.  The
 road  was  perfectly  even  so  the  carriage  wheels  went  around
 like  tops  swiftly  spinning.  Down  we  went  at  the  pace  of  wild
 runaways.
@@ -1763,8 +1600,7 @@ with  ropes.  The  beaten  man  stopped  his  horses  when  down
 the  hill,  and  seemed  to  be  mending  his  harness.  He  did  not
 approach  us  a  second  time.
 
-At  the  first  post  station,  which  is  called  Homutooka,  a  black-
-smith was  found,  who  put  a  firm  strip  of  iron  through  the  lower
+At  the  first  post  station,  which  is  called  Homutooka,  a  blacksmith was  found,  who  put  a  firm  strip  of  iron  through  the  lower
 end  of  the  king-bolt  and  fixed  it  securely ;  for  which  he  charged
 fifteen  copecks  (seven  cents  and  a  half).
 
@@ -1841,16 +1677,13 @@ how  Andrei  Mihailovitch  lived  among  summer  pastures.  Above
 all  I  was  anxious  to  learn  how  he  would  welcome  me.
 
 The  towns  we  passed  through  are  straggling  and  dreary.
-In  most  cases  the  houses  are  surrounded  by  a  high  board  en-
-closure, again  one  end  of  a  house  is  visible,  the  fence  meeting
+In  most  cases  the  houses  are  surrounded  by  a  high  board  enclosure, again  one  end  of  a  house  is  visible,  the  fence  meeting
 it  on  both  sides.  The  blinds  and  outside  casings  of  the  windows
 are  painted  white,  the  body  of  the  house  has  never  been  painted
 and  in  most  cases  looks  to  be  a  hundred  years  old.  Some  houses
 have  sunk  till  the  bottoms  of  the  windows  are  on  the  ground.
 There  is  a  huge  gate  in  the  board  enclosure.    The  entrance  to
 
-
-26    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 the  house  is  inside  the  yard.  Everywhere  in  Siberia,  no  matter
 how  poor  or  small  the  house  is,  the  window  sills  are  crowded
@@ -1866,21 +1699,18 @@ with  him.  He  heard  only  a  part  of  what  people  said,  and  only
 a  part  of  what  he  said  could  reach  the  mind  of  any  man.  The
 good  thing  about  him  was  this :  He  was  a  firm  driver,  and  sent
 his  beasts  over  the  road  expeditiously.  We  were  crossing  a
-broad  plain,  dry  and  treeless.  There  was  no  cultivation  what-
-ever, but  here  and  there  were  herds  of  cows  and  horses.  In
+broad  plain,  dry  and  treeless.  There  was  no  cultivation  whatever, but  here  and  there  were  herds  of  cows  and  horses.  In
 the  distance  were  low  hills.
 
 After  some  time,  an  hour  and  a  half  perhaps,  the  driver
 stopped  on  a  sudden,  and  said  that  we  had  just  passed  one
-road  by  which  we  might  reach  the  house  of  Andrei  Mihailo-
-vitch.  There  was  another  road  farther  on.  The  first  led
+road  by  which  we  might  reach  the  house  of  Andrei  Mihailovitch.  There  was  another  road  farther  on.  The  first  led
 over  a  place  little  traveled,  but  more  picturesque  and  more
 difficult.  The  second  road  was  the  usual  and  easier  one.  For
 me,  who  had  halted  on  the  highway  and  was  looking  eastward
 toward  the  lands  of  Andrei  Mihailovitch,  it  was  the  left-hand
 road.  How  was  I,  who  had  gathered  lore  among  so  many
-peoples,  to  take  a  left-hand  road  when  going  to  look  for  primi-
-tive stories  among  Mongols  ?
+peoples,  to  take  a  left-hand  road  when  going  to  look  for  primitive stories  among  Mongols  ?
 
 I  turned  back  and  took  the  right-hand  road,  of  course,  and
 did  so  with  good  fortune,  as  we  shall  find,  hurrying  on  toward
@@ -1897,12 +1727,10 @@ who  gave  it  if  he  could  get  at  him.
 
 MY  JOURNEY  TO  THE  BURIATS       27
 
-The  carriage  dashed  through  the  village  swiftly,  dogs  bark-
-ing with  fury,  at  one  and  another  place.  Each  dog  is  chained
+The  carriage  dashed  through  the  village  swiftly,  dogs  barking with  fury,  at  one  and  another  place.  Each  dog  is  chained
 to  a  fence  or  to  a  post  driven  into  the  earth  very  firmly.  The
 beast  is  held  to  his  place  quite  unsparingly.  Whenever  a  team
-or  some  unknown  person  comes  in  sight,  the  dog  rushes  for-
-ward as  if  free;  he  springs  furiously,  reaches  the  end  of  his
+or  some  unknown  person  comes  in  sight,  the  dog  rushes  forward as  if  free;  he  springs  furiously,  reaches  the  end  of  his
 chain,  and  is  jerked  back  with  a  force  like  that  which  he  himself
 has  expended.  Each  dog  digs  out,  near  his  post,  a  great  cavity
 with  a  ridge  of  fine  earth  all  around  it.  He  does  this  by  his
@@ -1924,8 +1752,7 @@ pointed  to  the  nearest  building  on  the  right,  to  which  I  went
 straightway.  On  the  ground  not  far  from  the  door  was  a  man,
 whom  I  had  not  noted  earlier.  He  was  lying  face  downward,
 and,  except  by  the  stir  of  his  sides,  which  showed  breathing,
-made  no  motion  whatever.  He  was,  as  I  discovered  later,  in-
-toxicated. I  was  astonished  at  the  silence  around  us,  since
+made  no  motion  whatever.  He  was,  as  I  discovered  later,  intoxicated. I  was  astonished  at  the  silence  around  us,  since
 Andrei  Mihailovotch  had  been  informed  that  I  would  reach
 his  summer  dwelling  on  that  day.
 
@@ -1938,8 +1765,6 @@ or  tarasun.  (The  liquor  is  made  of  milk  and  distilled  in  each
 considerable  house  among  Buriats.)  They  had  the  tarasun  in
 a  pail  and  passed  it  around  in  a  large  wooden  cup  or  dipper.
 
-
-23    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Some  of  the  women  were  beyond  the  stage  of  being  happy  or
 sad.  My  host,  who  was  very  serious,  seated  me  beside  himself
@@ -1972,8 +1797,7 @@ invited.
 
 After  thinking  a  moment  or  two  my  host  rose  and  said,
 "You  must  come  to  my  other  house."  We  set  out  for  the
-other  house  which  stood  on  the  opposite  side  of  the  broad  en-
-closure. On  the  way  he  said :  "First  of  all  you  must  drink  tea
+other  house  which  stood  on  the  opposite  side  of  the  broad  enclosure. On  the  way  he  said :  "First  of  all  you  must  drink  tea
 with  me.    I  will  order  a  samovar  to  be  made  ready."
 
 We  entered  a  neatly  furnished  house,  built  and  furnished  on
@@ -1996,14 +1820,12 @@ By  the  time  the  lunch  was  over  Mihailoff  had  become  much
 more  cordial,  and  at  the  end  embraced  and  lifted  me  off  the
 floor,  expressing  himself  as  greatly  satisfied  with  my  friendship.
 Then  he  said  that  I  could  go  to  his  son's  house  at  Usturdi,  the
-next  station,  and  make  my  headquarters  there  as  long  as  con-
-venience would  lead  me  to  do  so.  His  second  son,  Vassili,  was
+next  station,  and  make  my  headquarters  there  as  long  as  convenience would  lead  me  to  do  so.  His  second  son,  Vassili,  was
 taking  care  of  the  place.  Then,  as  the  highest  mark  of  favor,
 he  took  me  to  his  yurta  and  showed  me  his  "Ongons"  and
 "Burkans"  (household  gods),  hung  up  on  a  rafter  in  a  dark
 corner  of  the  room,  and  said  that  in  his  time  he  had  entertained
-three  Russian  governors  but  had  not  shown  them  his  "sanc-
-tuary." He  showed  it  now  because  he  felt  such  a  deep
+three  Russian  governors  but  had  not  shown  them  his  "sanctuary." He  showed  it  now  because  he  felt  such  a  deep
 affection  for  me.
 
 As  the  hour  was  inclining  rather  closely  to  evening,  and  the
@@ -2012,12 +1834,10 @@ thought  it  well  to  leave  my  host  to  his  family  at  the  earliest.
 So  the  carriage  was  summoned  and  drawn  up  outside  the  gate
 where  we  were  to  enter  it.  The  harelipped  and  deaf  driver  had
 received  a  good  share  of  food  and  drink  since  his  coming,  —
-especially  drink,  so  that  it  was  still  more  difficult  to  under-
-stand what  he  said  and  be  understood  by  him.
+especially  drink,  so  that  it  was  still  more  difficult  to  understand what  he  said  and  be  understood  by  him.
 
 When  we  were  ready  to  continue  our  journey  and  had  taken
-our  seats  in  the  carriage,  the  horses,  instead  of  going  for-
-ward, turned  on  their  hind  legs,  stood  as  erect  as  if  they  had
+our  seats  in  the  carriage,  the  horses,  instead  of  going  forward, turned  on  their  hind  legs,  stood  as  erect  as  if  they  had
 been  men,  then  suddenly  plunged  toward  the  station  from
 which  they  had  come.
 
@@ -2026,14 +1846,11 @@ when  told  to  turn  and  drive  three  miles  farther,  to  Usturdi.
 He  obeyed  but  spent  his  rage  on  the  horses,  urging  them  over
 the  open  country  at  a  furious  pace.  The  road  was  simply  a
 wagon  track,  a  mark  along  a  level  field.  On  they  rushed  for
-a  time  in  the  fashion  of  runaways.  I  shouted  at  the  deaf,  hare-
-lipped  driver  to  slacken  the  speed  of  his  horses,  but  without
+a  time  in  the  fashion  of  runaways.  I  shouted  at  the  deaf,  harelipped  driver  to  slacken  the  speed  of  his  horses,  but  without
 result  in  the  least  degree.  There  was  no  way  to  stop  the  man
 except  to  seize  and  hold  him.  He  was  in  a  state  not  uncommon
 with  Buriats,  —  he  was  exultant,  beside  himself.    His  mind  was
 
-
-30    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 excited  while  his  body  seemed  sober.  So  on  went  the  carriage
 almost  as  swiftly  as  during  the  race  of  that  morning.  Presently
@@ -2044,8 +1861,7 @@ carriage.  I  was  alarmed,  for  I  thought  there  might  be  stones  or
 deep  places  to  avoid,  but  the  dripping  horses  and  carriage  soon
 rose  on  the  opposite  bank,  and  the  wild  shouts  of  the  driver
 urged  the  beasts  forward  again  over  a  gray,  dry,  grassless  plain.
-On  and  on  they  sped  untiringly.  To  one  who  believed  in  meta-
-morphosis those  three  beasts  might  have  seemed  men  who  had
+On  and  on  they  sped  untiringly.  To  one  who  believed  in  metamorphosis those  three  beasts  might  have  seemed  men  who  had
 been  changed  into  horses  and  who,  hunted  by  the  Furies  sitting
 there  on  the  carriage  box  behind  them  in  the  person  of  that
 harelipped  mad  driver,  were  rushing  on  with  all  their  might,
@@ -2054,8 +1870,7 @@ whether  the  horses  were  running  away  or  were  driven  to  the
 utmost.
 
 At  last  I  saw  near  the  roadside  ahead  of  us  the  Russian
-church  outside  Usturdi,  the  station  to  which  we  were  hasten-
-ing. Soon  after  the  church  was  passed  we  thundered  across
+church  outside  Usturdi,  the  station  to  which  we  were  hastening. Soon  after  the  church  was  passed  we  thundered  across
 a  massive  wooden  bridge,  and  rushed  into  the  main,  and  almost
 only  street  of  the  village.  About  two  squares  from  the  bridge
 stood  the  house  in  which  Andrei  Mihailovitch's  late  son  had
@@ -2070,8 +1885,7 @@ by  a  very  high  fence  and  a  gate  with  strong  beams  above  it.
 A  man,  who  stood  near  as  we  drove  up,  knocked  at  this  gate
 for  us,  but  we  had  to  wait  many  minutes  for  an  answer.  Vassili,
 or  Vassya,  as  he  was  called  by  every  one,  was  occupied  elsewhere,
-and  had  had  no  notice  that  guests  were  coming.  It  was  neces-
-sary to  wait  till  a  servant  inside  could  be  found  and  the  master
+and  had  had  no  notice  that  guests  were  coming.  It  was  necessary to  wait  till  a  servant  inside  could  be  found  and  the  master
 informed  that  his  presence  was  needed.
 
 After  a  time  Vassili  came  and  opened  the  gate  promptly.
@@ -2081,8 +1895,7 @@ On  hearing  that  I  had  come  from  his  father  with  a  letter  he
 MY  JOURNEY  TO  THE  BURIATS       31
 
 immediately  put  the  upper  part  of  the  house  at  my  disposal.
-It  consisted  of  three  rooms,  and  a  glass  enclosed  balcony  pro-
-jecting over  the  street.  From  this  balcony  there  were  excellent
+It  consisted  of  three  rooms,  and  a  glass  enclosed  balcony  projecting over  the  street.  From  this  balcony  there  were  excellent
 views  up  and  down  the  main  road  or  street,  and  out  over  the
 broad  fields,  and  beyond  them  to  the  range  of  mountains  in
 front  of  us.
@@ -2121,11 +1934,8 @@ In  the  fields  opposite,  perhaps  a  mile  away,  were  herds  of  cattle
 and  many  sheep  pasturing  with  remarkable  activity.
 
 During  the  early  forenoon  I  saw  from  that  balcony,  for  the
-first  time,  a  party  of  mounted  Buriats.  This  party  was  twenty-
-five  in  number.    The  men  had  their  feet  in  short  stirrups,  and
+first  time,  a  party  of  mounted  Buriats.  This  party  was  twentyfive  in  number.    The  men  had  their  feet  in  short  stirrups,  and
 
-
-32    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 sat  leaning  forward  a  little.  The  movement  of  Mongol  horses
 is  peculiar.  Their  steps,  which  seem  short,  are  made  quickly
@@ -2160,8 +1970,7 @@ went  out  again ;  the  horses  had  advanced  a  long  distance,  they
 were  far  away,  growing  smaller  and  smaller  very  rapidly.  I
 watched  and  saw  them  diminish.  At  last,  when  very  small,
 they  turned  to  the  right  and  vanished  behind  a  building.  I
-could  not  help  thinking  then  and  there  of  two  wonderful  ani-
-mals, and  the  part  which  they  have  played  in  the  history  of
+could  not  help  thinking  then  and  there  of  two  wonderful  animals, and  the  part  which  they  have  played  in  the  history  of
 mankind,  namely,  the  Mongol  horse  and  the  Arabian  camel.
 
 What  a  mighty  factor  the  Mongol  horse  has  been!  That
@@ -2185,12 +1994,10 @@ Without  camels  not  only  would  life  in  the  Arabian  desert  be
 impossible,  but  the  religion  of  Mohammed  would  not  have  been
 founded,  or  if  founded  could  not  have  been  extended.
 
-I  turned  now  to  Vassya  for  information  touching  those  horse-
-men. Why  had  so  many  assembled  and  whither  were  they
+I  turned  now  to  Vassya  for  information  touching  those  horsemen. Why  had  so  many  assembled  and  whither  were  they
 going  ?  He  replied  that  on  that  day  there  was  to  be  a  wedding,
 or  more  correctly  the  fraction  of  a  wedding,  since  among  Buriats
-a  wedding  requires  several  days  for  its  completion,  and  some-
-times there  are  even  many  months  between  the  first  and  the
+a  wedding  requires  several  days  for  its  completion,  and  sometimes there  are  even  many  months  between  the  first  and  the
 final  ceremony.
 
 "Would  you  like  to  go  to-day?"  asked  he.  I  replied  that  it
@@ -2204,25 +2011,20 @@ not  go,  but  his  place  was  taken  by  his  brother-in-law,  Lazareff,
 who  lived  in  Shavarok,  the  village  where  the  first  instalment  of
 the  wedding  was  given  on  that  bright  day  in  July,  1900.
 
-Lazareff  is  a  cross-eyed  widower;  a  shrewd,  self -concen-
-trated man  whose  mind  is  turned  altogether  toward  material
+Lazareff  is  a  cross-eyed  widower;  a  shrewd,  self -concentrated man  whose  mind  is  turned  altogether  toward  material
 questions.  His  wife,  Vassya's  sister,  had  been  dead  only  a  few
 months.
 
 Three  horses  were  put  to  my  carriage  and  we  dashed  off  with
 all  speed.  Driving  at  this  season  of  the  year  is  very  agreeable,
-especially  in  the  morning.  The  speed  of  the  horses  is  exhilarat-
-ing and  gives  just  the  movement  of  air  which  is  pleasant.  The
+especially  in  the  morning.  The  speed  of  the  horses  is  exhilarating and  gives  just  the  movement  of  air  which  is  pleasant.  The
 excitement  and  rush  please  me;  there  is  nothing  like  it  in
 America.
 
-While  on  the  way  to  the  village  of  Shavarok,  Lazareff  ex-
-plained many  matters  connected  with  marriage,  and  life  among
+While  on  the  way  to  the  village  of  Shavarok,  Lazareff  explained many  matters  connected  with  marriage,  and  life  among
 
 s
 
-
-34    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Buriats  in  general.  That  information,  with  more  won  from
 Vassya,  I  give  later  on  in  this  volume.
@@ -2246,8 +2048,7 @@ prosperity  to  the  bride  and  groom.  After  a  time  he  threw
 tarasun  up  toward  the  central  opening  of  the  roof,  spoke  on,
 and  then  threw  tarasun  to  the  gods  a  second  time.
 
-Many  people  were  sitting  on  the  grassy  slope  above  the  vil-
-lage. The  central  space,  devoted  to  hitching-posts  for  horses,
+Many  people  were  sitting  on  the  grassy  slope  above  the  village. The  central  space,  devoted  to  hitching-posts  for  horses,
 had  been  turned  into  a  temporary  grove.  Some  dozens  of
 young  birch  trees  had  been  felled  and  thrust  into  the  ground  to
 give  shade  to  the  horses.  The  twenty-five  which  had  passed
@@ -2260,8 +2061,7 @@ sitting  on  the  ground  in  groups,  disposed  like  three  sides  of  a
 quadrangle,  two  sides  of  which  lay  up  and  down  the  hill,  the
 third  side  connecting  the  other  two  at  the  top.  The  lower  side
 was  open  and  unoccupied.  Through  this  open  space  people
-passed  in  and  out,  some  bringing  refreshments,  which  con-
-sisted mainly  of  tarasun  (milk  whiskey)  and  boiled  mutton;
+passed  in  and  out,  some  bringing  refreshments,  which  consisted mainly  of  tarasun  (milk  whiskey)  and  boiled  mutton;
 others  joined  the  feasters  and  sitting  down  on  the  hillside,
 talked,  laughed,  and  amused  themselves.
 
@@ -2280,8 +2080,7 @@ Gazing  around,  I  saw  on  the  ridge  of  the  hill  a  flock  of  sheep
 followed  by  a  man,  who  had  a  long  white  beard.  I  went  up  to
 look  at  the  flock  and  found  that  the  shepherd  was  a  Russian.
 As  usual  when  Russians  are  working  for  Buriats,  he  was  an
-ex-convict,  old,  but  strong.  He  was  alone  in  the  world,  follow-
-ing those  sheep  for  sustenance,  living  among  strangers  and
+ex-convict,  old,  but  strong.  He  was  alone  in  the  world,  following those  sheep  for  sustenance,  living  among  strangers  and
 waiting,  there  in  Siberia,  for  his  life  to  end.
 
 When  I  had  returned  to  the  feasting  people  on  the  slope  I  was
@@ -2310,17 +2109,13 @@ space  the  fire  is  made  on  the  ground,  and  directly  above,  in  the
 roof,  is  an  opening,  or  smoke  hole.  There  are  no  partitions  in
 the  building.  The  only  privacy  obtained  is  by  means  of  curtains.
 Trunks  or  boxes  are  used  as  wardrobes  and  storerooms.  The
-central  fire  is  the  great  point  of  assembly.  Though  many  Buri-
-ats, especially  those  who  are  wealthy,  build  in  the  Russian  style,
+central  fire  is  the  great  point  of  assembly.  Though  many  Buriats, especially  those  who  are  wealthy,  build  in  the  Russian  style,
 particularly  winter  houses,  even  they  find  most  delight  in  the
 
 
-36    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 old-fashioned  octagonal  house,  with  its  central  fire,  around
 which  they  sit  on  the  edge  of  the  raised  floor  with  their  feet  on
-the  earth  space.  There  they  assemble  in  the  evening,  or  when-
-ever it  suits  them,  gossip,  transact  business,  and  talk  of  what-
+the  earth  space.  There  they  assemble  in  the  evening,  or  whenever it  suits  them,  gossip,  transact  business,  and  talk  of  what-
 ever interests  those  present.  Prom  time  to  time  a  great  open
 vessel,  or  pail,  holding  a  gallon  or  more  of  tarasun  is  passed
 from  one  to  another.  In  this  pail  is  a  wooden  dipper  and  each
@@ -2333,16 +2128,13 @@ clean  as  was  Lazareff's.  An  old  Russian  woman  cared  for  his
 little  son  and  had  charge  of  the  house.  This  no  doubt  explained
 the  unusual  neatness  of  the  place.  Tea  of  good  quality  was
 brought  now  and  cakes  to  go  with  it.  While  we  were  drinking
-tea  a  sandy-haired  Russian,  an  exile,  came  in,  a  pleasant,  good-
-looking  man.  He  said  that  his  home  was  in  the  Crimea  but  for
+tea  a  sandy-haired  Russian,  an  exile,  came  in,  a  pleasant,  goodlooking  man.  He  said  that  his  home  was  in  the  Crimea  but  for
 political  reasons  he  had  been  sent  to  live  among  the  Buriats.
 At  this  time,  however,  he  had  only  one  year  longer  to  remain.
-His  eyes  lighted  up  with  happiness  when  he  spoke  of  his  ap-
-proaching freedom.
+His  eyes  lighted  up  with  happiness  when  he  spoke  of  his  approaching freedom.
 
 In  passing  from  Lazareff's  yurta  to  the  carriage  there  was  a
-chance  to  finish  my  survey  of  the  village.  The  earth  was  cov-
-ered with  dust  which  in  the  middle  of  the  space  occupied  reached
+chance  to  finish  my  survey  of  the  village.  The  earth  was  covered with  dust  which  in  the  middle  of  the  space  occupied  reached
 to  the  ankles  as  one  walked  through  it.  This  stratum,  thicker
 in  some  places,  covered  everything  to  the  rim  of  the  village,
 reaching  to  the  outer  houses  and  beyond  them,  growing  thinner
@@ -2378,8 +2170,7 @@ THE  day  following  the  wedding  Andrei  Mihailovitch  came
 over  from  his  summer  place.  He  was  supposed  to  remain  at
 home  for  nine  days,  still  he  came.  After  a  while  he  invited  me
 to  walk  along  the  street  with  him.  We  went  the  whole  length
-of  the  village.  He  met  a  number  of  people,  who  showed  im-
-mense respect  for  him ;  he  kissed  one  man,  but  there  was  much
+of  the  village.  He  met  a  number  of  people,  who  showed  immense respect  for  him ;  he  kissed  one  man,  but  there  was  much
 Condescension  in  his  kiss.  The  grandeur  of  the  old  Buriat  as
 he  led  me,  an  American,  on  exhibition  through  the  town,  was
 truly  fine.
@@ -2402,8 +2193,7 @@ Church,  and  next  he  was  a  speck  on  the  horizon.
 
 "Think,"  said  I  to  my  host  as  I  watched  the  horseman,  "  of
 the  time  when  Jinghis  Khan  had  a  cavalry  of  one  hundred
-thousand  men  like  that  man  and  more  than  two  hundred  thou-
-sand horses  swifter  than  that  horse."
+thousand  men  like  that  man  and  more  than  two  hundred  thousand horses  swifter  than  that  horse."
 
 "Oh,"  replied  he,  "there  was  never  on  earth  anything  to
 equal  the  cavalry  of  Jinghis  Khan.  It  swept  everything  down
@@ -2416,8 +2206,7 @@ once,  we  conquered  many  countries,  we  ruled  many  peoples.
 China  and  Russia  overpowered  us,  but  our  turn  will  come
 again."
 
-We  went  back  to  the  balcony  and  talked  long  over  the  ques-
-tion of  finding  men  who  could  tell  the  ancient  myths  and  ex-
+We  went  back  to  the  balcony  and  talked  long  over  the  question of  finding  men  who  could  tell  the  ancient  myths  and  ex-
 plain the  customs  and  beliefs  of  the  Buriats.  A  list  was  made,
 and  that  afternoon  the  search  began.  Messengers  were  sent  to
 surrounding  villages  to  look  for  wise  men.  Those  who  were
@@ -2442,22 +2231,17 @@ stories :  Gesir  Bogdo,  Ashir  Bogdo,  and  The  Iron  Hero.
 
 When  Manshut  had  finished  these  three  stories  he  declared
 that  he  was  forced  to  go  home.  I  was  greatly  disappointed,  for
-I  was  convinced  that  he  knew  more  myths.  Though  he  prom-
-ised earnestly  to  come  again  and  tell  me  all  that  he  could  re-
+I  was  convinced  that  he  knew  more  myths.  Though  he  promised earnestly  to  come  again  and  tell  me  all  that  he  could  re-
 member I  was  doubtful  about  his  return,  for  he  was  a  restless
 man  and  seemed  to  dislike  anything  that  required  concentrated
-attention.  He  was  a  great  lover  of  the  pipe  and  smoked  con-
-tinually, drew  whiffs  between  sentences,  even  between  words.
+attention.  He  was  a  great  lover  of  the  pipe  and  smoked  continually, drew  whiffs  between  sentences,  even  between  words.
 As  talking  seemed  to  interrupt  his  smoking,  at  least  to  a  certain
 extent,  I  felt  that  I  should  not  see  him  again  until  he  needed
 more  money  for  tobacco.
 
-Early  in  the  morning  of  July  30th  a  procession  of  long-
-bodied  one-horse  wagons  crowded  with  men  and  women  passed
+Early  in  the  morning  of  July  30th  a  procession  of  longbodied  one-horse  wagons  crowded  with  men  and  women  passed
 through  the  main  street  of  Usturdi.     These  men  and  women
 
-
-40    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 were  convicts  from  Russia,  and  a  stalwart  soldier,  carrying  a
 rifle,  walked  by  the  side  of  each  wagon.
@@ -2474,8 +2258,7 @@ north  to  the  frozen  Yakuts  country.  They  had  received  sentence
 before  the  ukas  abolishing  exile  to  Siberia  had  been  issued,  and
 were  specially  interesting  as  being,  perhaps,  the  last  group  of
 prisoners  to  be  sent  into  that  country,  which  has  so  long  been
-used  as  a  place  for  exile  and  punishment.  Following  the  con-
-victs came  a  small  party  of  political  prisoners,  but  they  were
+used  as  a  place  for  exile  and  punishment.  Following  the  convicts came  a  small  party  of  political  prisoners,  but  they  were
 allowed  to  stop  at  the  post  station  for  rest  and  refreshment.
 
 The  crowd  sitting  on  the  ground  ate  brown  bread  and  drank
@@ -2530,8 +2313,7 @@ photograph  the  gods  which  it  contained.  Andrei  Mihailovitch
 could  not  carry  these  gods  into  a  house  nor  could  he  take  them
 out  of  the  box,  for  that  would  bring  misfortune  to  the  family.
 
-Inside  the  large  box  were  two  small  boxes  of  home  manu-
-facture. In  these  were  crude  pictures  of  the  gods,  tiny  men
+Inside  the  large  box  were  two  small  boxes  of  home  manufacture. In  these  were  crude  pictures  of  the  gods,  tiny  men
 and  women  in  outline,  also  the  skin  of  a  ground  squirrel,  and
 one  or  two  other  dried  skins  of  very  small  animals.  When
 these  were  photographed  Andrei  Mihailovitch  invited  me  to
@@ -2539,8 +2321,7 @@ visit  his  winter  home,  saying  that  on  the  way  we  would  pass
 his  field  Ongons.
 
 We  drove  over  level  pastures  to  the  hill  eastward,  climbed
-rather  slowly  to  the  top  and,  after  we  had  passed  a  gate,  de-
-scended gradually  to  the  brow  of  the  hill,  or  rather  to  a  point  of
+rather  slowly  to  the  top  and,  after  we  had  passed  a  gate,  descended gradually  to  the  brow  of  the  hill,  or  rather  to  a  point  of
 the  slope,  whence  there  is  a  fine  view  of  the  country  beyond :
 several  villages,  a  narrow,  winding  river,  and,  somewhat  to  the
 left,  the  winter  residence  of  my  host.  On  the  brow  of  the  hill
@@ -2556,8 +2337,6 @@ it  and  showed  me  the  gods  which  were  on  pieces  of  silk  or  cloth.
 Fastened  on  a  narrow  strip  of  blue  silk  were  several  little  metal
 images.    On  two  small  pieces  of  cloth  were  tiny  painted  figures.
 
-
-42    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 I  photographed  the  pillars,  and  then  tied  the  images  around  a
 pillar  and  photographed  them  as  best  I  could.  After  I  had
@@ -2591,8 +2370,7 @@ Toward  evening  I  started  for  Usturdi.  The  road  was  through
 a  hilly  or  rolling  country.  We  passed  several  rye  fields,  but  with
 one  or  two  exceptions  the  grain  was  very  poor.  After  crossing
 an  elevated  ridge  we  came  down  into  an  opening  in  a  forest  of
-small  timber  —  just  such  a  weird  opening  as  Sienkiewicz  de-
-scribes in  "The  Deluge  "  —  and  later  on  we  reached  another
+small  timber  —  just  such  a  weird  opening  as  Sienkiewicz  describes in  "The  Deluge  "  —  and  later  on  we  reached  another
 and  larger  opening,  a  remarkably  lonely  looking  place  in  the
 dusk  of  approaching  night,  and  there  we  came  upon  a  Russian.
 He  was  uncouth,  sturdy,  and  somehow  uncanny.  His  horse
@@ -2616,17 +2394,14 @@ It  was  late  in  the  evening  when  we  reached  Usturdi.
 A  few  days  passed  now,  during  which  I  made  no  effort  to  get
 story-tellers  but  spent  my  time  in  studying  the  language.  On
 the  2d  of  August  the  Horse  Sacrifice  was  to  be  made  and  I
-needed  to  bring  my  work  into  order  and  prepare  for  this  re-
-markable ceremony.
+needed  to  bring  my  work  into  order  and  prepare  for  this  remarkable ceremony.
 
 The  Buriat  country  is  one  of  two  places  in  Asia  where  the
 Horse  Sacrifice  may  still  be  seen.  This  ceremonial  has  existed
-among  the  Mongols  from  time  immemorial  and  is  a  wonder-
-fully interesting  survival  of  a  primitive  religion.
+among  the  Mongols  from  time  immemorial  and  is  a  wonderfully interesting  survival  of  a  primitive  religion.
 
 Andrei  Mihailovitch  had  finished  his  mourning  now  and  he
-came  over  to  be  present  at  the  great  festival.  With  all  his  polite-
-ness I  felt  sure  that  he  was  not  anxious  that  I  should  see  the
+came  over  to  be  present  at  the  great  festival.  With  all  his  politeness I  felt  sure  that  he  was  not  anxious  that  I  should  see  the
 death  of  the  horses,  —  on  the  contrary,  that  he  was  determined
 I  should  not  see  it.
 
@@ -2634,8 +2409,7 @@ He  said  to  me  the  evening  preceding  the  sacrifice  and  then
 again  the  following  morning:  "I  will  leave  about  nine  o'clock;
 that  is  very  early.  If  you  start  an  hour  later  you  will  have  plenty
 time."  The  evening  before,  however,  I  had  made  sure  that  horses
-would  be  waiting  at  the  post  station  near  by,  and  within  ten  min-
-utes after  the  departure  of  my  host  I  was  driving  rapidly  across
+would  be  waiting  at  the  post  station  near  by,  and  within  ten  minutes after  the  departure  of  my  host  I  was  driving  rapidly  across
 the  country.
 
 When  we  had  gone  a  mile  or  so  my  driver  wished  to  get  a  drink
@@ -2663,8 +2437,7 @@ THE  HOBSE  SACRIFICE
 THE  Tailgan,  or  Horse  Sacrifice,  takes  place  on  a  hill  called
 Uher,  about  seven  miles  from  Usturdi.  On  this  hill  fifteen
 large  stone  altars  have  been  built.  The  sacrifice  is  made  by  the
-first  and  second  division  of  the  clan  Ashekhabat.  In  the  mytho-
-logical past  the  founder  of  this  clan  lived  at  Baganteng,  perhaps
+first  and  second  division  of  the  clan  Ashekhabat.  In  the  mythological past  the  founder  of  this  clan  lived  at  Baganteng,  perhaps
 two  miles  distant  from  Uher.  This  first  man,  or  clan  founder,
 had  seven  sons.  He  and  those  sons  sacrificed  on  the  hill  Uher  to
 the  Burkans  (masters  or  gods)  of  the  hill,  and  to  those  of  the
@@ -2698,10 +2471,8 @@ sacrifice.  The  reality,  the  essence,  of  the  milk  and  the  tarasun,
 THE  HORSE  SACRIFICE  45
 
 goes  to  the  Burkans,  immensely  increased  and  incomparably
-better  in  quality.  Thus  a  single  drop  may  become  a  whole  barrel-
-ful  when  it  reaches  the  home  of  the  deities,  when  it  goes  to  the
-mountain  and  the  hill,  in  both  of  which  there  are  beautiful  dwell-
-ings, invisible  to  man.
+better  in  quality.  Thus  a  single  drop  may  become  a  whole  barrelful  when  it  reaches  the  home  of  the  deities,  when  it  goes  to  the
+mountain  and  the  hill,  in  both  of  which  there  are  beautiful  dwellings, invisible  to  man.
 
 On  arriving  at  the  Hill  of  Sacrifice  the  men  sent  in  advance
 prepare  places  for  the  kettles,  hang  them  on  tripods  over  wood
@@ -2727,8 +2498,7 @@ near-by  forest ;  the  lower  part  of  the  trunk  of  the  tree  is  on  the
 ground,  the  upper  part  and  branches  rest  on  a  crosspiece.  The
 tree  is  called  "The  foot  of  the  place  of  sacrifice."
 
-The  officiating  men  then  turn,  as  they  say,  "with  knee  bend-
-ing," first  to  the  ninety  western  Burkans,  then  to  the  four  eastern
+The  officiating  men  then  turn,  as  they  say,  "with  knee  bending," first  to  the  ninety  western  Burkans,  then  to  the  four  eastern
 Tuget  —  Tuget  means  "complete."  These  are  deities  who  have
 come  down  from  the  sky  and  are  in  the  east,  but  their  place  is  not
 known  exactly.  They  turn  next  to  the  Undir  Sagan  Tengerin
@@ -2741,10 +2511,7 @@ one,  who  has  created).  This  is  at  present  the  hedgehog,  and  in
 Buriat  religion  he  is  the  wisest  of  all  the  deities,  though  greatly
 
 
-46    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-supplanted  by  other  gods.  Next  in  order  is  Zayang  Sagan  Ten-
-geri  (creator,  pure  heaven).  Then  Esege  Malan  Babai  (Grand-
+supplanted  by  other  gods.  Next  in  order  is  Zayang  Sagan  Tengeri  (creator,  pure  heaven).  Then  Esege  Malan  Babai  (Grand-
 father Bald  Head) ;  next  Ehe  Ureng  Ibi,  and  then  Adaha  Zayang
 (creator  of  cattle) ;  and  Uha  Soldong  (the  golden  Sorrel),  which
 means  the  light  of  the  sun,  the  dawn  of  the  morning.  The  dawn
@@ -2752,8 +2519,7 @@ of  the  morning  is  creator  of  horses.  Then  Hotogov  Mailgan
 (Crooked  Back),  the  goddess  of  the  night  heavens  and  creator
 of  people.
 
-All  these  divinities  are  addressed  by  name  and  in  turn,  ad-
-dressed very  much  as  saints  are  in  a  Christian  litany.  Those
+All  these  divinities  are  addressed  by  name  and  in  turn,  addressed very  much  as  saints  are  in  a  Christian  litany.  Those
 who  are  officiating  appeal  to  the  divinities,  and  the  people  follow
 them,  either  aloud  or  mentally.  Each  man  prays  usually  for
 what  he  likes  best,  or  most  desires.  When  this  prayer  was  ended
@@ -2775,8 +2541,7 @@ its  position  to  the  extent  of  being  able  to  bite  the  ground  in  agon
 The  sight  was  distressing.  Its  teeth  were  bared  in  a  ghastly  grin ;
 the  eyes  became  green  and  blue,  much  like  the  color  of  certain
 beetles.  A  more  striking  expression  of  piercing  and  helpless
-agony  I  have  never  seen.  It  groaned  once  with  a  sound  of  un-
-speakable anguish,  kept  its  mouth  for  a  moment  in  the  earth
+agony  I  have  never  seen.  It  groaned  once  with  a  sound  of  unspeakable anguish,  kept  its  mouth  for  a  moment  in  the  earth
 and  then  dropped  over  lifeless.
 
 When  the  horses  were  dead  men  hurried  to  skin  the  bodies,
@@ -2798,8 +2563,7 @@ briskly.
 
 There  was  much  animation  on  all  sides ;  men  were  sitting  in
 groups  along  the  entire  hillslope,  beginning  at  the  highest  altar
-and  extending  down  to  the  fifteenth,  near  the  foot  of  the  emi-
-nence.
+and  extending  down  to  the  fifteenth,  near  the  foot  of  the  eminence.
 
 Meanwhile  a  good  number  of  groups  were  seated  near  vessels
 of  tarasun  from  which  they  drank  freely.  As  the  flesh  was  cut
@@ -2839,10 +2603,7 @@ If  I  am  timid,  be  my  courage.  If  I  am  ashamed,  be  a  proper
 face  to  me.     Above  be  as  a  coverlid,  below  be  as  a  felt  bed  to  me."
 
 
-48    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-When  the  people  stood  before  the  fifteen  stone  altars  and  ut-
-tered their  petitions  the  ceremony  seemed  very  solemn  and  had  a
+When  the  people  stood  before  the  fifteen  stone  altars  and  uttered their  petitions  the  ceremony  seemed  very  solemn  and  had  a
 real  character  of  worship.  The  invocation  which  I  have  given
 is  repeated  by  all,  then  each  adds  what  seems  good  to  him.
 The  prayer  over,  the  company  seated  themselves  by  families,
@@ -2867,29 +2628,23 @@ where  we  were  standing.
 
 When  the  people  had  finished  eating  and  drinking,  boys  pulled
 up  and  threw  on  the  fire  the  twigs,  or  little  branches  which  had
-been  planted  by  the  designated  place  of  each  family.  This  in-
-dicated that  the  sacrifice  was  ended.  Any  soup  or  meat  left  is
+been  planted  by  the  designated  place  of  each  family.  This  indicated that  the  sacrifice  was  ended.  Any  soup  or  meat  left  is
 taken  home.  If  not  all  used  it  is  carefully  burned,  for  none  of  it
 must  be  eaten  by  cats  or  dogs;  that  would  be  desecration  and
 misfortune  would  follow  in  its  wake.
 
-The  Horse  Sacrifice  is  a  ceremony  of  immense  interest,  a  re-
-markable relic  of  religious  and  social  antiquity,  the  value  of
+The  Horse  Sacrifice  is  a  ceremony  of  immense  interest,  a  remarkable relic  of  religious  and  social  antiquity,  the  value  of
 which  we  can  hardly  overestimate.  A  number  of  things  become
 clear  after  one  has  looked  on  this  sacrifice  carefully.  The  first
-of  these  beyond  doubt  is  this :  that  there  is  and  must  be  a  corre-
-spondence between  a  society  and  the  faith  professed  by  it  —  a
+of  these  beyond  doubt  is  this :  that  there  is  and  must  be  a  correspondence between  a  society  and  the  faith  professed  by  it  —  a
 sufficient  harmony  between  the  religion  and  the  people.
 
 As  I  walked  up  and  down  among  those  Buriats,  talking  with
-some  and  observing  others,  I  saw  that  they  enjoyed  that  sacri-
-fice heartily.    For  men  in  their  position  there  was  reason  for  en-
+some  and  observing  others,  I  saw  that  they  enjoyed  that  sacrifice heartily.    For  men  in  their  position  there  was  reason  for  en-
 
 
 a;
 
-
-03
 
 fa
 
@@ -2904,24 +2659,20 @@ they  were  sitting  on  the  great  roof  of  a  divine  house,  and  were
 feasting  delightfully,  in  company  with  friends  and  relatives.
 
 Out  in  front  of  them  and  near  by  were  mountains  in  which
-lived  other  Burkans.  Opposite  dwelt,  in  homes  of  indescrib-
-able beauty  and  wealth,  Burkans,  who  were  kindly  and  liberal
+lived  other  Burkans.  Opposite  dwelt,  in  homes  of  indescribable beauty  and  wealth,  Burkans,  who  were  kindly  and  liberal
 to  persons  who  remembered  them.  They  had  power  to  give  every
 good  thing  in  abundance.
 
 Feasting  there  on  that  roof  the  Buriats  ate,  drank,  and  made
 merry  with  profit.  They  sent  a  share  of  the  flesh  and  soup  from
-their  horses  to  the  gods,  who  received  that  flesh  and  broth  multi-
-plied enormously.  Each  drop  of  broth  when  it  reached  the  gods'
-mansions  sufficed  a  hundred  persons,  each  bit  of  flesh  was  in-
-creased in  like  manner,  and  so  with  tarasun,  a  few  drops  of
+their  horses  to  the  gods,  who  received  that  flesh  and  broth  multiplied enormously.  Each  drop  of  broth  when  it  reached  the  gods'
+mansions  sufficed  a  hundred  persons,  each  bit  of  flesh  was  increased in  like  manner,  and  so  with  tarasun,  a  few  drops  of
 which  would  cheer  thousands.
 
 The  gods  ate  and  drank  of  these  multiplied  offerings,  while
 they,  the  faithful  worshipers,  sent  up  requests  and  prayers  to
 gain  every  profit  and  good  for  which  their  hearts  hoped.  The
-feasting  worshipers  then  filled  their  stomachs  with  unmulti-
-plied  food,  which  they  had  in  abundance.
+feasting  worshipers  then  filled  their  stomachs  with  unmultiplied  food,  which  they  had  in  abundance.
 
 There  were  pleasure,  sociability,  eating  and  drinking  with  gods,
 those  world  forces  who  are  able  to  grant  prayers  and  listen
@@ -2930,8 +2681,7 @@ to  the  petitions  of  all  men  who  please  them.
 The  social  part  is  very  instructive,  showing  clearly  in  this  Buriat
 survival  a  strong  and  prominent  trait  of  primitive  religion:  the
 intimate  relation  of  gods  and  men,  the  nearness  of  the  gods  and
-their  friendliness.  Most  interesting  of  all  is  that  strange  philoso-
-phy, at  least  strange  for  us,  by  which  gods  are  pleased  and  prof-
+their  friendliness.  Most  interesting  of  all  is  that  strange  philosophy, at  least  strange  for  us,  by  which  gods  are  pleased  and  prof-
 ited by  a  small  material  outlay  on  the  part  of  mankind.
 
 While  a  society  and  its  religion  correspond  the  society  is
@@ -2942,34 +2692,25 @@ ages.    Religion  once  it  is  established  changes  little  comparatively,
 
 and  not  in  its  essence.    Its  forms  and  ceremonies  are  sacred.    Its
 
-4
-
-
-50    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 statements  are  myths  taken  literally.  To  modify,  change,  or
-abolish  forms,  ceremonies,  or  statements  of  a  religion  is  to  de-
-stroy that  religion ;  for  the  spirit  of  religion  is  not  what  men  have
+abolish  forms,  ceremonies,  or  statements  of  a  religion  is  to  destroy that  religion ;  for  the  spirit  of  religion  is  not  what  men  have
 in  view  generally,  but  forms,  its  outward  seeming,  its  mythology,
 its  connections  with  popular  life,  with  the  customs  and  history  of
 the  people  professing  it.  A  pastoral  life  is  almost  immovable,
 especially  in  a  country  where  grass  is  abundant  and  agriculture
-unknown,  or  if  known  little  cared  for.  Were  it  not  for  the  influ-
-ence of  Russia  and  China  the  Buriats  might  live  on  for  ages
+unknown,  or  if  known  little  cared  for.  Were  it  not  for  the  influence of  Russia  and  China  the  Buriats  might  live  on  for  ages
 without  changing  their  religion  or  customs.
 
 Of  course  nothing  in  the  world  is  or  may  be  immovable.  An
 inner  motive  or  an  outward  shock  is  sure  in  time  to  stir  every
-object  or  being  in  existence.  No  planet  in  space,  though  im-
-mensely remote  from  all  others,  and  moving  by  itself  in  a  loneli-
+object  or  being  in  existence.  No  planet  in  space,  though  immensely remote  from  all  others,  and  moving  by  itself  in  a  loneli-
 ness which  is  appalling,  is  secure  from  collision.  No  man  or
 group  of  men,  tribe,  nation,  republic,  or  empire  has  ever  been  or
-ever  will  be  left  to  his,  their,  or  its  own  will  save  for  a  compara-
-tively short  period.  The  groups  of  men  under  various  designa-
+ever  will  be  left  to  his,  their,  or  its  own  will  save  for  a  comparatively short  period.  The  groups  of  men  under  various  designa-
 tions, from  small  primitive  societies  to  great  republics  or  empires,
 have  their  will  for  a  season.  This  is  the  time  during  which  the
-character  of  a  group  is  made  manifest,  and  during  which  it  con-
-quers. This  character  is  always  special  to  each.  A  group  conies
+character  of  a  group  is  made  manifest,  and  during  which  it  conquers. This  character  is  always  special  to  each.  A  group  conies
 in  collision  inevitably  with  other  groups  which  also  are  special.
 The  result  is  the  destruction  or  absorption  of  some  groups,  the
 modification  and  enlargement  of  others.  The  whole  course  of
@@ -3008,12 +2749,10 @@ slight,  and  touches  only  an  odd  individual.
 
 After  the  sacrifice  came  wrestling  at  the  southeastern  or
 valley  foot  of  the  hill.  This  is  a  very  popular  amusement  among
-the  Buriats.  There  is  always  wrestling  after  the  Horse  Sacri-
-fice and  after  the  making  of  Shamans.
+the  Buriats.  There  is  always  wrestling  after  the  Horse  Sacrifice and  after  the  making  of  Shamans.
 
 The  whole  company  deserted  the  hill-top.  Some  went  to  the
-place  of  wrestling,  others  remained  on  the  brow  of  the  emi-
-nence, not  far  from  where  the  horses  were  sacrificed.
+place  of  wrestling,  others  remained  on  the  brow  of  the  eminence, not  far  from  where  the  horses  were  sacrificed.
 
 In  wrestling  there  are  two  parts :  the  first  is  the  manoeuvring
 for  advantage  in  the  hold ;  this  requires  time,  perhaps  fifteen  or
@@ -3024,17 +2763,14 @@ last  as  long  as  the  preliminary  manoeuvring  for  advantage.
 After  the  Tailgan  I  decided  to  make  a  trip  northeastward  and
 northward  through  the  Buriat  country.  I  wished  above  all  to
 visit  Olkhon,  the  "sacred"  island  of  Lake  Baikal.  On  this
-island  live  perhaps  seven  hundred  people,  who  are  more  primi-
-tive than  other  Buriats.  I  was  anxious  to  see  these  islanders
+island  live  perhaps  seven  hundred  people,  who  are  more  primitive than  other  Buriats.  I  was  anxious  to  see  these  islanders
 and  get  their  folk-tales,  if  possible.
 
 I  laid  in  all  the  provisions  that  I  could  find  either  in  Usturdi
 or  at  the  next  post  station,  and  made  arrangements  for  Vassya
 and  Lazareff,  the  Cross-eyed,  to  go  with  me  and  assist  in  every
-way.  Andrei  Mihailovitch  gave  them  a  light,  convenient  car-
-riage, and  I  was  to  furnish  provisions  and  pay  their  traveling
-expenses.  One  or  the  other  was  to  translate  for  me  from*  Mon-
-gol into  Russian.  I  always  preferred  Vassya,  for  he  was  far  more
+way.  Andrei  Mihailovitch  gave  them  a  light,  convenient  carriage, and  I  was  to  furnish  provisions  and  pay  their  traveling
+expenses.  One  or  the  other  was  to  translate  for  me  from*  Mongol into  Russian.  I  always  preferred  Vassya,  for  he  was  far  more
 intelligent,  and  acted  more  willingly,  as  he  was  himself  interested
 in  the  mythology  of  his  people.  He  was  an  excellent  translator
 as  well,  having  an  equal  command  of  both  Buriat  and  Russian.
@@ -3043,8 +2779,6 @@ I  do  not  think  that  I  have  ever  found  a  better  case  of  what
 development  means  than  that  presented  by  those  three  Buriats, —
 Vassya,  his  father,  and  Lazareff.    Vassya  during  six  years  at  the
 
-
-52    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Irkutsk  gymnasium  had  not  only  learned  what  is  taught  in  the
 regular  course  there,  but  he  had  acquired  a  real  love  for  good
@@ -3063,8 +2797,7 @@ he  was  outwitted.
 Mutual  benefit  was  looked  for  in  the  journey.  I  hoped  that
 the  two  men  would  help  me  in  many  ways.  They  spoke  Russian
 fluently,  so  I  could  talk  with  every  Buriat.  They  were  well
-known  in  most  places,  and  with  them  the  journey  would  be  suc-
-cessful in  some  degree.  They  were  glad  to  go,  moreover,  for
+known  in  most  places,  and  with  them  the  journey  would  be  successful in  some  degree.  They  were  glad  to  go,  moreover,  for
 I  paid  their  expenses.  The  weather  was  fine,  the  country  as  a
 whole  very  interesting,  and  parts  of  it  beautiful.  They  also,  as  I
 learned  afterward,  had  errands  to  perform  and  business  to
@@ -3084,8 +2817,7 @@ JOUKNET  TO  THE   ISLAND   OF  OLKHON
 AFTER  annoying  delays  the  day  for  starting  on  the  journey
 came  at  last  (August  6);  but  only  at  one  o'clock  were  we
 ready  for  the  road.  A  few  moments  before  leaving  I  witnessed
-an  interesting  ceremony.  Eight  men  with  Vassya  seated  them-
-selves in  a  circle  on  the  ground,  then  one  of  the  eight  rose  and
+an  interesting  ceremony.  Eight  men  with  Vassya  seated  themselves in  a  circle  on  the  ground,  then  one  of  the  eight  rose  and
 with  a  glass  of  vodka  in  his  extended  hand  implored  the  gods,
 as  he  sprinkled  the  vodka  on  the  ground,  to  grant  Vassya  a
 prosperous  journey.
@@ -3116,15 +2848,12 @@ and  Yakutsk,  which  has  been  for  so  many  years  the  city  of  exile.
 Along  the  road  on  the  left  there  are  many  good  winter  houses.
 
 
-54     A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 The  places  chosen  for  these  buildings  are  in  most  cases  well
 sheltered  by  high  hills  from  winds  of  the  north  and  northwest.
 
 There  is  nothing  in  which  Russian  influence  on  the  Buriats
 is  shown  more  emphatically  than  in  the  matter  of  winter  homes.
-Before  Russian  times  the  Buriat  house  was  always  an  eight-
-sided  log  structure,  with  a  hole  in  the  middle  of  its  earth-covered
+Before  Russian  times  the  Buriat  house  was  always  an  eightsided  log  structure,  with  a  hole  in  the  middle  of  its  earth-covered
 roof  to  let  smoke  out.  A  fire  of  sticks  was  made  on  the  ground
 under  this  smoke-hole.  How  cold  those  places  were  in  such  a
 climate  we  can  imagine  very  easily.  The  winter  house  now,
@@ -3148,8 +2877,7 @@ About  seven  o'clock  we  rolled  into  Olzoni,  a  pleasant-looking
 village  in  a  narrow  valley.  Along  the  middle  of  the  village  runs
 the  single  street,  which  is  also  the  highway.
 
-On  the  left  hand,  at  the  entrance  to  the  village  and  just  out-
-side the  first  buildings,  is  an  ostrog,  or  palisaded  prison  enclosure,
+On  the  left  hand,  at  the  entrance  to  the  village  and  just  outside the  first  buildings,  is  an  ostrog,  or  palisaded  prison  enclosure,
 which  has  a  suggestive  and  sinister  look,  mainly  because  we
 know  why  it  is  there  and  what  it  is  used  for.  It  was  the  first
 of  the  kind  I  had  ever  seen.
@@ -3180,14 +2908,12 @@ that  the  horse  was  Timofei  and  the  driver  Andrei.  I  had  to
 remonstrate  with  Andrei  for  using  his  whip  too  freely,  though
 Timofei  explained  that  he  was  whipped  because  he  was  a  horse
 and  did  not  want  to  work.  A  man  sitting  on  an  ox  and  going  for
-water  with  his  cart  and  barrel  furnished  a  good  picture  of  do-
-mestic life.    The  ox  was  well  trained  and  walked  off  briskly.
+water  with  his  cart  and  barrel  furnished  a  good  picture  of  domestic life.    The  ox  was  well  trained  and  walked  off  briskly.
 
 To  add  to  my  stock  of  provisions,  and  to  find  out  something
 of  possible  interest  regarding  the  inhabitants  of  the  village,  I
 went  into  the  principal  shop,  where  I  made  the  acquaintance  of
-the  merchant  Pan  Tembovski,  a  Pole,  who  told  me  very  interest-
-ing things  touching  the  Buriats.  He  was  exiled  many  years  ago
+the  merchant  Pan  Tembovski,  a  Pole,  who  told  me  very  interesting things  touching  the  Buriats.  He  was  exiled  many  years  ago
 for  political  reasons ;  after  serving  out  his  sentence  he  went  back
 to  Russia,  but  returned  soon,  because  "there  is  more  money
 and  life  in  Siberia."  To  me  it  seemed  that  all  the  powers  of  a
@@ -3196,8 +2922,7 @@ Olzoni.
 
 At  ten  o'clock  Lazareff  and  Vassya  made  their  appearance.
 They  had  not  left  the  wedding  till  six  in  the  evening.  There  had
-been  an  immense  consumption  of  food  and  drink,  and  the  merry-
-making, they  assured  me,  "was  great."
+been  an  immense  consumption  of  food  and  drink,  and  the  merrymaking, they  assured  me,  "was  great."
 
 Fresh  horses  were  brought,  and  I  set  out  at  eleven  o'clock.
 Olzoni  is  a  place  of  some  interest,  and  for  a  post  station  really
@@ -3214,11 +2939,8 @@ till  seven.  The  night  ride  had  been  very  pleasant,  for  the
 weather  was  perfect.  Lazareff  and  Vassya  came  an  hour  later,
 in  time  for  a  short  sleep.
 
-About  nine  o'clock  we  set  out  for  a  visit  to  the  brothers  Alex-
-androff,  who  are  numbered  among  the  wealthiest  and  most
+About  nine  o'clock  we  set  out  for  a  visit  to  the  brothers  Alexandroff,  who  are  numbered  among  the  wealthiest  and  most
 
-
-56    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 influential  of  the  Buriats;  their  estate  is  about  five  miles  from
 Hogotskaya.  It  was  warmer  that  morning  than  the  day  before —
@@ -3236,8 +2958,7 @@ received  us  very  cordially.  We  were  conducted  to  a  pleasant
 sitting-room  fitted  up  in  Russian  fashion,  and  while  we  were
 conversing  there  with  one  brother  another  set  servants  to  work
 in  the  kitchen  and  elsewhere.  In  half  an  hour  they  had  ready
-in  the  dining-room  a  zakuska,  or  "bite,"  the  collection  of  pre-
-liminary tidbits  which,  in  all  parts  of  Russia,  precedes  each
+in  the  dining-room  a  zakuska,  or  "bite,"  the  collection  of  preliminary tidbits  which,  in  all  parts  of  Russia,  precedes  each
 considerable  meal,  and  are  taken  to  rouse  appetite  and  also  to
 nourish.  In  great  houses  these  "bites"  are  elaborate  and
 enticing.
@@ -3245,8 +2966,7 @@ enticing.
 Invited  to  the  dining-room  we  found  there  two  tables ;  on  one
 of  these  stood  bottles  containing  vodka  and  two  kinds  of  wine,
 sherry  and  claret.  On  the  other  were  things  to  be  eaten, —
-boiled  eggs,  brown  bread,  smoked  fish,  pickled  herrings,  sar-
-dines, cheese,  fish,  eggs,  and  other  rich  "appetite  rousers."
+boiled  eggs,  brown  bread,  smoked  fish,  pickled  herrings,  sardines, cheese,  fish,  eggs,  and  other  rich  "appetite  rousers."
 
 The  zakuska  is  always  taken  standing.  The  first  thing  is  a
 small  glass  of  vodka,  kummel,  or  some  other  liquid  of  similar
@@ -3276,8 +2996,7 @@ One  cause  of  the  delay  in  the  dinner  was  that  a  lamb  had
 been  slaughtered  and  cooked  for  our  nourishment.  The  great
 dish  of  honor  at  our  table  was  the  boiled  head  of  that  lamb,
 with  the  wool  on.  There  was  also  a  species  of  soup  made  of
-blood  and  kidneys,  which  seemed  much  like  diluted  blood  pud-
-ding. It  was  relished  by  the  Buriats,  but  strive  as  I  might  I
+blood  and  kidneys,  which  seemed  much  like  diluted  blood  pudding. It  was  relished  by  the  Buriats,  but  strive  as  I  might  I
 could  only  make  a  very  scant  trial  of  its  qualities.  There  was
 an  abundance  of  other  food,  however,  hence  I  could  let  these
 Mongol  dainties  pass.
@@ -3288,8 +3007,7 @@ in  some  measure.  They  are  of  the  rich  and  small  class  which
 builds  at  least  three  houses.  The  winter  house  is  like  that  in
 use  throughout  Russia ;  it  has  brick  stoves  and  chimneys.  The
 old-fashioned  Buriat  house  is  modelled  on  a  tent.  In  summer
-these  houses  are  cool  and  agreeable,  but  in  winter  it  is  impos-
-sible, in  a  cold  country,  to  heat  them  sufficiently  for  modern
+these  houses  are  cool  and  agreeable,  but  in  winter  it  is  impossible, in  a  cold  country,  to  heat  them  sufficiently  for  modern
 comfort.  When  well  improved  they  are  delightful  from  May
 to  October.  Should  a  chilly  hour  happen  at  any  time,  or  a  cool
 evening  come  at  the  beginning  or  at  the  end  of  the  season,  a  fire
@@ -3301,18 +3019,14 @@ when  emptied  of  liquor  is  filled  again  straightway.
 
 All  Buriats,  without  any  exception,  prefer  the  style  of  house
 used  by  their  forefathers,  and  are  attached  to  it  greatly.  Pagan
-Buriats  must  have  this  house,  if  they  are  to  be  married  accord-
-ing to  the  rites  of  their  people,  since  the  last  act  in  the  ceremony
+Buriats  must  have  this  house,  if  they  are  to  be  married  according to  the  rites  of  their  people,  since  the  last  act  in  the  ceremony
 of  marriage  is  performed  at  the  central  quadrangle  of  bare
 earth,  where  the  fire  is  made,  when  the  new  wife  takes  her
 place  at  the  milk  barrel  which  stands  there,  and  becomes  house
-mistress.  Her  special  office  is  to  make  the  tarasun,  always  dis-
-tilled at  this  fireplace.  Beside  its  good  qualities,  the  old  house
+mistress.  Her  special  office  is  to  make  the  tarasun,  always  distilled at  this  fireplace.  Beside  its  good  qualities,  the  old  house
 is  strong  through  its  hold  on  the  ancient  religion,  the  needs  of
 the  people,  and  their  habits  and  customs.
 
-
-58    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 The  Alexandroff  dinner,  as  to  food,  was  peculiar  only  by  the
 sudden  slaughter  of  the  lamb,  to  show  honor  to  strangers,  and
@@ -3328,8 +3042,7 @@ for  an  hour  or  so.
 This  summer  house  was  very  well  built.  The  floor  was  higher
 than  usual  above  the  bare  earth  in  the  center,  and  thus  afforded
 a  more  comfortable  seat  for  the  company;  chairs  also  were  in
-use,  so  that  whoso  preferred  one  might  sit  on  one.  The  smoke-
-escape  was  better  constructed,  —  wider  at  the  roof  than  in
+use,  so  that  whoso  preferred  one  might  sit  on  one.  The  smokeescape  was  better  constructed,  —  wider  at  the  roof  than  in
 other  houses.
 
 The  Alexandroffs'  summer  and  winter  establishments  are
@@ -3346,8 +3059,7 @@ south;  on  the  north  is  a  large  and  dense  forest,  which  wards
 off  the  north  wind  effectively.
 
 Some  distance  from  the  highway  there  are  well-watered
-meadows  and  splendid  pastures.  A  great  deal  of  hay  is  pro-
-duced on  this  land ;  I  counted  fourteen  immense  ricks  in  one
+meadows  and  splendid  pastures.  A  great  deal  of  hay  is  produced on  this  land ;  I  counted  fourteen  immense  ricks  in  one
 part  of  the  meadow.  The  wealth  of  the  Alexandroffs  comes
 chiefly  from  the  breeding  of  cattle  and  horses,  and  from  lending
 money  at  a  high  rate  of  interest.
@@ -3372,8 +3084,7 @@ in  which  travelers  may  find  a  room  and  a  samovar.  That
 room  we  had  made  our  headquarters.  Near  this  narodni  dom
 is  the  home  of  the  chief  of  the  district.  We  returned  at  four
 o'clock,  sent  for  post  horses,  drank  tea,  and  were  soon  ready  to
-start  for  the  island.  In  the  morning,  before  going  to  the  Alexan-
-droffs',  I  had  called  on  the  district  chief,  and  now  he  came
+start  for  the  island.  In  the  morning,  before  going  to  the  Alexandroffs',  I  had  called  on  the  district  chief,  and  now  he  came
 to  wish  me  a  prosperous  journey.  Though  I  did  not  know
 it  at  that  time,  he  had  sent  forward  word  to  officials  to
 help  me  in  every  way  needed.  I  thanked  him  heartily  for  his
@@ -3394,8 +3105,7 @@ over  land  gently  rising  till  we  came  to  the  base  of  a  ridge.  This
 ridge  was  perhaps  eight  hundred  feet  high  where  the  road  lay,
 and  much  higher  on  either  side.  On  reaching  the  highest  point
 of  the  road  it  was  seen  that  the  ridge,  which  was  wooded
-for  the  greater  part,  turned  more  and  more  from  the  high-
-way till  its  direction  was  at  a  right  angle,  then  it  turned
+for  the  greater  part,  turned  more  and  more  from  the  highway till  its  direction  was  at  a  right  angle,  then  it  turned
 backward  gradually  and  formed  a  great  ellipse.  Into  the
 picturesque  valley  formed  by  this  elliptical  ridge  we  now
 descended,  and  through  it,  and  a  valley  adjoining,  we  traveled
@@ -3405,8 +3115,6 @@ The  whole  region  around  was  either  woodland  or  meadow.
 People  were  cutting  hay  and  making  stacks  as  we  passed  along
 through  it  that  evening.    Places  like  this  are  very  frequent  in
 
-
-60    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Siberia.  Warded  well  against  winds  and  surrounded  in  great
 part  with  dense  forests,  they  are  sheltered  marvelously  from
@@ -3436,11 +3144,9 @@ by  people.  The  deceit,  opposition,  and  active  harmfulness  of
 mankind  create  the  only  troubles  worth  mentioning  as  we  move
 on  examining  the  crust  of  this  earth  ball,  striving  to  discover
 what  is  on  it,  and  under  it,  and  above  it.  If  men  were  as  good  as
-they  are  evil,  —  and  they  are  evil  through  ignorance  and  weak-
-ness,—  it  would  be  easier  and  much  pleasanter  to  travel  than  it
+they  are  evil,  —  and  they  are  evil  through  ignorance  and  weakness,—  it  would  be  easier  and  much  pleasanter  to  travel  than  it
 now  is.  It  would  also  be  easier  to  do  those  good  deeds  of  which
-each  man  is  capable.  I  thought  thus  as  I  supped  at  that  sta-
-tion, which  was  poor  and  not  very  clean,  but  the  people  in  it
+each  man  is  capable.  I  thought  thus  as  I  supped  at  that  station, which  was  poor  and  not  very  clean,  but  the  people  in  it
 were  obliging  and  courteous.
 
 When  supper  was  eaten  three  horses  were  attached  to  my
@@ -3456,8 +3162,7 @@ the  night  was  one  of  stars  only,  the  most  impressive  of  all  nights,
 
 JOURNEY  TO  ISLAND  OF  OLKHON    61
 
-and  that  means  the  most  impressive  sight  possible  to  man  dur-
-ing earthly  existence.
+and  that  means  the  most  impressive  sight  possible  to  man  during earthly  existence.
 
 The  majestic  and  marvelous  dark  night  of  stars,  that  face  of
 infinity  looking  down  at  us  in  silence,  affects  every  serious  man
@@ -3469,17 +3174,14 @@ the  greatest  single  thing  visible  to  any  one.  By  some  it  was
 revered  as  a  deity,  and  is  so  revered  even  to  the  present;  by
 others  it  was  esteemed  to  be  a  dwelling-place.  Whether  a
 deity  or  a  dwelling-place,  it  was  closely  connected  with  the
-earth,  to  which  it  was  in  great  part  subservient.  I  was  think-
-ing of  this  as  I  looked  on  that  beautiful  night  from  the  swiftly
+earth,  to  which  it  was  in  great  part  subservient.  I  was  thinking of  this  as  I  looked  on  that  beautiful  night  from  the  swiftly
 moving  carriage,  when  it  occurred  to  me  on  a  sudden  that  if
 I  were  to  credit  my  own  eyesight  I  should  believe  myself  to  be
 just  in  the  center  of  all  things.  The  horizon  in  front,  behind,
 and  on  both  sides  was  equidistant;  the  highest  point  in  the  sky
-was  directly  above  me;  I  held  the  center,  apparently.  Eye-
-sight, the  first  simple  witness,  uncorrected  by  examination  and
+was  directly  above  me;  I  held  the  center,  apparently.  Eyesight, the  first  simple  witness,  uncorrected  by  examination  and
 afterthought,  formed  the  basis  of  current  belief  and  philosophy
-touching  everything  in  existence  till  Copernican  teaching  de-
-stroyed it.
+touching  everything  in  existence  till  Copernican  teaching  destroyed it.
 
 How  self-satisfied  were  men  in  the  old  time,  how  contented
 and  happy.  They  believed  that  this  earth  was  the  center  of  the
@@ -3500,13 +3202,10 @@ As  the  carriage  rolled  on  I  recalled  how  a  man  in  London,
 three  months  earlier,  had  spoken  to  me  very  earnestly  as  follows :
 
 
-62    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 "This  earth  is  no  longer  the  center  of  the  universe.  People  now
 do  not  think  that  in  the  sky  straight  above  them  is  a  heavenly
 city,  where  they  will  live  through  endless  ages  in  happiness.
-Science,  which  is  encroaching  on  ancient  beliefs,  and  destroy-
-ing old  systems,  is  taking  away  every  basis  of  earnest  convic-
+Science,  which  is  encroaching  on  ancient  beliefs,  and  destroying old  systems,  is  taking  away  every  basis  of  earnest  convic-
 tion, and  so  far  has  given  nothing  in  the  sense  of  assuring  a
 future  existence,  by  showing  where  or  how  that  existence  could
 be  realized.  My  father  died,"  continued  my  acquaintance,
@@ -3540,8 +3239,7 @@ must  be  no  loss  to  it  in  exchanging.
 "Given  the  immortal  body,  where  is  its  home  to  be?  The
 heaven  is  gone,  that  solid  region,  that  firmament,  as  men  once
 considered  it.  There  is  nothing  now  overhead  save  expanse.
-Where  shall  we  look  for  the  home  of  undying  individual  ex-
-istence ?  Not  on  this  earth,  since  on  earth  there  is  no  place  for
+Where  shall  we  look  for  the  home  of  undying  individual  existence ?  Not  on  this  earth,  since  on  earth  there  is  no  place  for
 an  endless  and  happy  hereafter.  Is  there  in  infinite  space  out
 beyond  us  a  place  where  immortal  existence  might  have  a  fit
 
@@ -3583,24 +3281,19 @@ the  question  cannot  be  without  interest.
 "The  first  and  the  second  group  have  no  common  ground
 of  agreement.
 
-"The  third  group  ascribes  enormous,  nay,  unbounded,  im-
-portance to  the  atom,  but  only  in  conjunction  with  that  all-
+"The  third  group  ascribes  enormous,  nay,  unbounded,  importance to  the  atom,  but  only  in  conjunction  with  that  all-
 pervading  substance  which  men  for  the  moment  call  ether,
 but  which  in  reality  is  spirit.
 
 "  What  is  the  atom,  and  what  is  ether  ?  The  atom  is  deathless ;
 no  one  can  seize  it,  no  one  can  injure  it,  fire  cannot  burn  it.
 In  the  raging  heat  of  the  sun  or  on  Sirius  the  dog-star,  in  the
-maximum  of  cold  where  life  would  cease  suddenly,  in  a  dew-
-drop,  in  a  tempest,  in  a  blizzard,  or  in  Niagara  the  atom  is  there.
+maximum  of  cold  where  life  would  cease  suddenly,  in  a  dewdrop,  in  a  tempest,  in  a  blizzard,  or  in  Niagara  the  atom  is  there.
 Invincible,  eternal,  equally  contented  in  the  highest  heaven
 
 
-64    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 and  the  pit  of  the  inferno,  infinitely  obedient;  inconceivably
-flexible  it  enters  into  beauty  as  readily  as  into  the  vilest  deform-
-ity. Equally  at  home  in  the  diamond  and  the  dung-heap,  the
+flexible  it  enters  into  beauty  as  readily  as  into  the  vilest  deformity. Equally  at  home  in  the  diamond  and  the  dung-heap,  the
 atom  is  everywhere  present  and  constitutes  all  things  material.
 There  is  no  existence  possible  without  it.
 
@@ -3616,31 +3309,26 @@ there  is  nothing  to  begin  with,  the  atom  which  is  so  small  that  no
 human  eye  can  behold  it  is  the  first  unit,  the  starting-point.
 By  an  infinite  accretion  of  atoms  effected  through  impulse  or
 love  which  atoms  have  for  one  another,  all  the  forms  in  the
-universe  are  constituted  gradually;  all  the  beauty  and  intel-
-lect in  existence  are  thus  evolved;  all  the  millions  of  suns,
+universe  are  constituted  gradually;  all  the  beauty  and  intellect in  existence  are  thus  evolved;  all  the  millions  of  suns,
 stars,  and  other  heavenly  bodies,  as  well  as  the  various  kinds  of
 living  creatures,  man,  and  everything  that  has  life  on  our  planet.
 
-"By  this  scheme  all  physical  forms  and  all  degrees  of  men-
-tality come  from  the  association  of  atoms,  which,  increasing  in
+"By  this  scheme  all  physical  forms  and  all  degrees  of  mentality come  from  the  association  of  atoms,  which,  increasing  in
 certain  lines,  always  growing  in  number,  cause  with  each  increase
 a  higher  mentality  and  a  more  varied  physical  development.
 
 "The  statement  of  the  third  group  is  this  substantially:
-When  an  accretion  of  atoms  has  happened,  an  inflow  or  pres-
-sure of  ether  takes  place  with  this  growth,  simultaneously,  and
+When  an  accretion  of  atoms  has  happened,  an  inflow  or  pressure of  ether  takes  place  with  this  growth,  simultaneously,  and
 at  every  phase  of  it.  For  instance,  if  two  atoms  unite,  a  mind
 to  grasp  this  situation  is  needed ;  the  ether  is  present,  and  the
 mind  is  immediately.  The  association  of  atoms  increases  to
 a  hundred  for  example,  the  association  is  vastly  more  complex
 with  that  number  than  it  was  with  two  atoms.  The  great  point
-being  that  from  an  aggregation  of  atomic  mind  it  is  quite  possi-
-ble to  reach  a  cosmic  mind,  or  one  even  that  embraces  a  solar
+being  that  from  an  aggregation  of  atomic  mind  it  is  quite  possible to  reach  a  cosmic  mind,  or  one  even  that  embraces  a  solar
 system,  and  finally  the  universe.
 
 "With  change  effected  by  new  atomic  accretions  there  was
-always  an  inflowing  of  ether  and  an  increase  of  mentality  suffi-
-cient to  dominate  the  situation.    If  there  was  not,  the  new  asso-
+always  an  inflowing  of  ether  and  an  increase  of  mentality  sufficient to  dominate  the  situation.    If  there  was  not,  the  new  asso-
 
 
 JOURNEY  TO  ISLAND  OF  OLKHON    65
@@ -3666,8 +3354,7 @@ existence  endures,  or,  in  other  words,  while  there  is  force  in  the
 universe,  or  still  in  other  words,  while  there  are  atoms  and
 ether  in  existence.
 
-"We  have  now  this  point.  From  the  time  of  the  first  dis-
-solution of  atomic  aggregation  to  this  moment  there  is  a  con-
+"We  have  now  this  point.  From  the  time  of  the  first  dissolution of  atomic  aggregation  to  this  moment  there  is  a  con-
 tinuous going  out  and  returning  of  ether,  each  return  bringing
 with  it  a  life  history  beginning  with  the  first  failure  of  two
 atoms  to  associate  beyond  a  certain  period,  and  ending  with
@@ -3688,13 +3375,9 @@ because  it  is  infinitely  yielding,  no  power  can  separate  it,  and
 it  pervades  all  things  no  matter  how  closely  their  particles  are
 
 
-66    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 compacted.  Out  of  atoms  all  forms  may  be  created.  Ether
-knows  everything,  because  it  is  in  all  places,  and  is  never  sep-
-arated or  interrupted.  The  Great  Ether  knows  all  that  the
-small  parts  experience,  but  the  small  parts  know  only  by  obser-
-vation, reasoning,  and  inference  anything  of  the  Great  Ether.
+knows  everything,  because  it  is  in  all  places,  and  is  never  separated or  interrupted.  The  Great  Ether  knows  all  that  the
+small  parts  experience,  but  the  small  parts  know  only  by  observation, reasoning,  and  inference  anything  of  the  Great  Ether.
 
 "We  have  thus  two  forms  of  immortality  at  present,  existent
 in  all  places,  the  ether  and  the  atom.  The  aggregation  of
@@ -3773,8 +3456,7 @@ I  had  engaged  my  horses  for  half  past  seven,  hoping  thus  to
 have  them  in  season.  A  little  before  eight  the  two  men  woke,
 and  the  horses  were  brought  in.  Vassya  wished  to  remain  two
 or  three  hours  at  Crooked  Prairie,  so  I  went  on  to  Elantsin,  the
-next  station,  where  I  arrived  only  at  two  o'clock  after  some  de-
-lay on  the  road  and  slow  traveling.
+next  station,  where  I  arrived  only  at  two  o'clock  after  some  delay on  the  road  and  slow  traveling.
 
 At  Elantsin  I  was  informed  that  it  would  be  impossible  to
 get  horses  that  day;  I  must  wait  till  the  morrow  in  every  case.
@@ -3783,8 +3465,6 @@ town,  is  one  of  the  best  on  the  road.  It  is  a  large  building  with
 fairly  clean  rooms  and  an  immense  kitchen.  Just  across  the
 road  is  a  small  house,  and  near  by  a  small  church  with  dome
 
-
-68    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 and  bell  tower.  Behind  the  church  is  a  high  mountain.  The
 place  reminded  us  of  Ragats,  Switzerland.
@@ -3800,8 +3480,7 @@ covered  with  the  ruins  of  ancient  fortresses.
 
 When  within  a  few  versts  of  the  KutuI  Vassya  and  Lazareff
 turned  off  to  go  to  a  village  where  a  man  lived  to  whom,  as  they
-said,  Andrei  Mihailovitch  had  sent  a  letter  asking  him  for  as-
-sistance in  our  work.  I  never  saw  the  man,  however,  and  later
+said,  Andrei  Mihailovitch  had  sent  a  letter  asking  him  for  assistance in  our  work.  I  never  saw  the  man,  however,  and  later
 I  discovered  that  the  letter  was  about  private  business,  and
 had  nothing  whatever  to  do  with  my  work.
 
@@ -3812,8 +3491,7 @@ interests  in  the  district.  The  mistress  of  the  house,  a  Russian,
 was  not  at  home,  having  gone  to  a  town  a  hundred  versts  away
 to  send  a  telegram  to  her  husband,  who  was  in  the  army.
 
-The  journey  from  Kutul  to  Olkhon,  though  a  short  one,  re-
-quired considerable  exertion  and  patience.  To  all  appearances
+The  journey  from  Kutul  to  Olkhon,  though  a  short  one,  required considerable  exertion  and  patience.  To  all  appearances
 there  was  much  difficulty  in  obtaining  horses.  There  was  delay
 for  other  reasons  also.  When  I  was  in  the  greatest  doubt  as  to
 what  to  do  the  chief  of  the  district  arrived  at  the  station,  to  be
@@ -3821,12 +3499,10 @@ present  at  a  Buriat  meeting,  and  he  gave  me  willing  assistance ;
 without  his  aid  I  should  have  had  a  good  deal  of  trouble.  He
 advised  me  to  hire  an  additional  man,  one  who  knew  the  Olkhon
 people,  and  also  informed  me  that  the  road  to  the  lake  was  so
-rough  as  to  necessitate  leaving  my  carriage  at  Kutul  and  tak-
-ing wagons.
+rough  as  to  necessitate  leaving  my  carriage  at  Kutul  and  taking wagons.
 
 The  master  of  post  horses  at  Kutul  is  a  stripling  named
-Muravieff.  This  man,  half  Russian,  half  Buriat,  is  tremen-
-dously bent  on  making  money,  and  in  his  dealings  is  quite  as
+Muravieff.  This  man,  half  Russian,  half  Buriat,  is  tremendously bent  on  making  money,  and  in  his  dealings  is  quite  as
 crooked  as  the  world-renowned  ram's  horn.  His  father  was  a
 full-blooded  Buriat.     When  Count  Muravieff  Amoorski  was
 
@@ -3855,8 +3531,7 @@ Buriat  stripling  whom  I  have  mentioned  as  being  so  fond  of
 money.
 
 On  the  island  of  Olkhon  there  is  only  one  store;  this  store  is
-owned  by  Muravieff,  the  Russian,  the  half  brother  of  the  half-
-blooded  Buriat ;  both  are  sons  of  the  erstwhile  deceived  Madame
+owned  by  Muravieff,  the  Russian,  the  half  brother  of  the  halfblooded  Buriat ;  both  are  sons  of  the  erstwhile  deceived  Madame
 Muravieff.
 
 After  annoying  delays  I  obtained  four  horses  and  two  small
@@ -3869,25 +3544,20 @@ about  fifty  houses,  the  other  is  much  smaller.
 
 The  region  from  Kutul  to  the  lake  is  in  the  main  rugged  and
 rocky.  From  the  brow  of  the  last  elevation  to  the  edge  of  the
-water,  a  distance  of  two  miles,  the  road  we  went  over  is  remark-
-able; it  is  not  the  one  taken  generally;  the  road  for  laden
+water,  a  distance  of  two  miles,  the  road  we  went  over  is  remarkable; it  is  not  the  one  taken  generally;  the  road  for  laden
 wagons  is  at  least  a  third  longer.  By  this  shorter  route  we
 crossed  a  broad  stretch  of  smooth  grassland  which  slopes
-toward  the  lake;  the  descent  is  not  abrupt  enough  to  be  danger-
-ous, but  is  sufficient  for  swift  driving.  When  well  started  we
+toward  the  lake;  the  descent  is  not  abrupt  enough  to  be  dangerous, but  is  sufficient  for  swift  driving.  When  well  started  we
 went  along  at  a  pace  like  that  of  tobogganing  in  Canada.  It
 seemed  like  coasting  on  wheels  in  summer  time.  The  land  is
 so  even,  its  surface  yielding  the  least  trifle  under  the  wheels,
-that  the  sensation  which  comes  of  swift  motion  was  wonder-
-fully pleasant,  almost  equal  to  sliding  down  hill  in  those  days
+that  the  sensation  which  comes  of  swift  motion  was  wonderfully pleasant,  almost  equal  to  sliding  down  hill  in  those  days
 which  are  now  in  eternity.
 
 We  halted  at  a  house  near  the  water,  but  still  half  a  mile  from
 the  Olkhon  Island  ferry.  At  the  house,  or  rather  directly  in
 front  of  it,  was  a  Shaman;  around  him  were  five  or  six  bark  and
 
-
-70    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 iron  dishes  containing  sour  milk,  sweet  milk,  and  tarasun.  He
 was  performing  some  function  of  his  office.  Just  before  we
@@ -3916,8 +3586,7 @@ The  passage  to  the  island,  which  is  rather  more  than  a  mile,
 should  be  made  in  good  weather,  since  the  lake  is  very  rough  at
 times,  and  the  boats  are  far  from  reliable.  Our  chance  for
 safety  was  good,  as  in  August  the  weather  is  excellent,  usually.
-Two  boats,  all  there  are  in  service,  were  needed  for  our  com-
-pany, as  we  had  four  horses  and  two  wagons.  One  of  the  boats
+Two  boats,  all  there  are  in  service,  were  needed  for  our  company, as  we  had  four  horses  and  two  wagons.  One  of  the  boats
 was  at  the  mainland,  the  other  was  returning  from  the  island,
 and  we  waited  for  it,  wishing  to  set  out  together.
 
@@ -3966,8 +3635,7 @@ the  elder,  the  official  who  is  obliged  to  furnish  horses  if  they  are
 demanded  by  travelers.  The  elder's  wife,  who  was  quick
 enough  to  see  what  was  wanted,  declared  that  her  husband  was
 off  fishing  some  twenty  versts  away  and  that  she  did  not  know
-when  he  would  return.  At  that  moment  he  came  from  an  out-
-house, where  he  had  evidently  been  sleeping,  and  thus  unwit-
+when  he  would  return.  At  that  moment  he  came  from  an  outhouse, where  he  had  evidently  been  sleeping,  and  thus  unwit-
 tingly gave  a  lie  to  her  words,  but  she  was  not  embarrassed  in
 the  least.
 
@@ -3981,8 +3649,6 @@ were  only  two  or  three  miles  to  the  end  of  the  journey,  and  the
 horses  we  had  were  well  able  to  make  it,  but  Muravieff  very
 bluntly  refused  to  drive  them  farther.
 
-
-72    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 At  last,  through  his  friends,  he  informed  the  elder  that  he  would
 take  us  to  Sevens  Pines  for  ten  rubles.  The  elder's  claim  was
@@ -4010,8 +3676,7 @@ try  to  pass  a  night  in  it.  She  felt  obliged  to  refuse  me.  My
 search  for  a  place  in  which  to  spend  the  night  proving  fruitless,
 I  went  back  to  the  storekeeper  and  asked  him  what  I  could  do.
 He  suggested  that  I  might  sleep  in  the  church,  or  Molitvenny  dom
-(the  prayer  house).  I  agreed  to  this,  and  my  things  were  trans-
-ferred to  the  little  prayer  house.
+(the  prayer  house).  I  agreed  to  this,  and  my  things  were  transferred to  the  little  prayer  house.
 
 Vassya  and  Lazareff  were  to  sleep  under  the  shed,  in  their
 wagon.
@@ -4049,10 +3714,8 @@ stories,  but  when  they  came  they  could  give  me  no  information
 of  value.
 
 I  had  slept  two  nights  on  the  floor  of  the  little  prayer  house
-when  the  Russian  in  charge  returned  from  fishing,  and  immedi-
-ately deprived  me  of  a  shelter.  He  was  an  ignorant,  self-sufficient
-peasant  whom  neither  kind  words,  money,  nor  documents  show-
-ing government  protection  influenced  in  the  least.  He  was
+when  the  Russian  in  charge  returned  from  fishing,  and  immediately deprived  me  of  a  shelter.  He  was  an  ignorant,  self-sufficient
+peasant  whom  neither  kind  words,  money,  nor  documents  showing government  protection  influenced  in  the  least.  He  was
 angry  that  the  building  had  been  opened  to  me  during  his
 absence  and  without  his  consent.  He  was  in  authority,  and  his
 authority  had  been  ignored.  It  was  impossible  to  reason  with
@@ -4063,8 +3726,6 @@ as  a  lodging."     I  was  forced  to  move  out.
 I  had  become  acquainted  with  the  people  of  Seven  Pines,  and
 a  young  Buriat,  who  had  recently  built  a  one-roomed  house,
 
-
-74    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 said  that  I  could  occupy  it  as  long  as  I  remained  on  the  island.
 A  stove,  a  couple  of  chairs,  a  pine  table,  and  a  bedstead  were  all
@@ -4119,12 +3780,10 @@ and  we  stopped  at  the  little  village  of  Kuntin  for  repairs.  The
 blacksmith,  a  good-looking  old  man,  with  bushy  gray  hair,  was
 an  Italian  from  Udine  near  Rome.  When  he  heard  his  mother
 tongue  once  more  his  eyes  lighted  with  pleasure,  and  he  could
-not  express  his  delight  at  meeting  some  one  who  knew  his  lan-
-guage and  his  country.  While  he  was  mending  the  carriage  we
+not  express  his  delight  at  meeting  some  one  who  knew  his  language and  his  country.  While  he  was  mending  the  carriage  we
 took  shelter  in  the  house  of  a  certain  Petrof,  a  Russian  who
 owned  the  vodka  shop  of  the  village.  The  old  man  boiled  eggs
-and  heated  the  samovar  for  us,  and  provided  tarasun  so  liber-
-ally that  I  was  afraid  that  we  should  have  to  leave  Lazareff
+and  heated  the  samovar  for  us,  and  provided  tarasun  so  liberally that  I  was  afraid  that  we  should  have  to  leave  Lazareff
 in  Kuntin.  When  we  returned  to  the  blacksmith  shop  I
 snapped  a  photograph  of  our  outfit,  "en  memorium,"  as  the
 old  Italian  said.
@@ -4156,8 +3815,6 @@ unknown,  except  as  the  covering  of  lakes  and  rivers  during
 winter  months.    If  an  official  or  some  person  whom  they  wish
 
 
-76    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 to  show  more  than  usual  respect  arrives,  hidden-away  "Russian
 dainties"  are  brought  forward,  and  a  "lunch  before  dinner"  is
 served.    But  this  is  the  reception  meal,  and  will  not  be  repeated.
@@ -4182,8 +3839,7 @@ oats,  though  they  ripen,  are  not  good  and  the  only  reasonably
 sure  crop  is  rye.  Grass,  however,  grows  wonderfully  well,  and
 at  this  season  of  the  year  nearly  all  of  the  men  and  women  were
 busy  in  the  hay-fields.  There  is  no  fruit  in  any  part  of  Siberia
-which  I  have  visited.  The  only  berries  I  have  seen  were  blue-
-berries, and  those  were  cultivated.
+which  I  have  visited.  The  only  berries  I  have  seen  were  blueberries, and  those  were  cultivated.
 
 On  my  arrival  at  Alaguersk-rod,  a  beautifully  situated  little
 village  surrounded  by  meadows,  I  found  that  I  was  expected.
@@ -4192,8 +3848,7 @@ made  ready,  and  a  samovar  was  boiling.  The  "writer,"  or
 official  translator,  and  twelve  or  fifteen  Buriats  were  there  to
 meet  me.
 
-The  writer,  a-  Russian  exiled  for  life,  is  an  educated  and  in-
-teresting man.  Though  only  forty-five  years  of  age  his  face  is
+The  writer,  a-  Russian  exiled  for  life,  is  an  educated  and  interesting man.  Though  only  forty-five  years  of  age  his  face  is
 deeply  lined  and  he  looks  worn  and  sad,  for  he  has  suffered
 much;  fifteen  years  of  his  life  exile  have  already  past.  Later,
 from  an  official  at  Irkutsk,  I  learned  that  the  man  had  been  in
@@ -4218,8 +3873,7 @@ had  been  drinking  heavily,  interfered,  and  tried  to  prevent  his
 giving  a  foreigner  information  regarding  the  religion  of  the
 country.  Only  after  much  uproar  and  talk  and  a  wearisome
 answering  of  questions,  asked  to  establish  my  position,  was  the
-enemy  silenced  by  his  neighbors  and  the  officials.  In  the  even-
-ing when  the  crowd  had  dispersed  and  the  room  had  been
+enemy  silenced  by  his  neighbors  and  the  officials.  In  the  evening when  the  crowd  had  dispersed  and  the  room  had  been
 cleared  the  man  in  charge  of  refreshments  brought  us  a  dish  of
 beef  cut  into  small  bits  and  boiled  —  not  tempting,  but  we  ate  it,
 for  we  were  hungry.  The  next  day  work  went  on  well  for  a
@@ -4231,15 +3885,13 @@ longer.  I  was  unable  to  find  another  man  who  could  tell  me
 anything  of  importance.
 
 Lazareff ,  tired  of  his  relatives  if  relatives  they  were,  went  back
-to  Kosostep  at  once.  I  remained  for  the  night,  for  accommo-
-dations, though  poor,  were  better  than  at  the  post  station.  The
+to  Kosostep  at  once.  I  remained  for  the  night,  for  accommodations, though  poor,  were  better  than  at  the  post  station.  The
 crowd  disappeared,  only  the  exile  remained.  The  man  was  poor,
 and  his  life  was  one  of  hardship  and  anxiety.  Later  I  went  with
 him  to  his  home  and  met  his  wife,  a  frail  woman  whom  trials  and
 poverty  have  greatly  disheartened.  I  promised  to  speak  a  good
 word  for  her  husband  and  a  few  weeks  afterward  was  able  to
-fulfil  my  promise  in  such  a  way  as  to  make  his  position  some-
-what easier.
+fulfil  my  promise  in  such  a  way  as  to  make  his  position  somewhat easier.
 
 The  following  morning  was  so  chilly  that  a  fire  was  needful.
 There  was  delay  in  starting,  and  it  was  noon  before  we  reached
@@ -4249,12 +3901,8 @@ fruit  —  blueberries  —  which  we  ate  greedily,  though  they  were
 hard  and  sour.    From  this  station  a  sturdy  young  Russian  was
 
 
-78    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-our  driver.  He  whirled  us  over  twenty-nine  versts  rapidly,  rush-
-ing through  Hogotskaya  to  the  post  station  as  fast  as  the  horses
-could  run.  Priestoff,  the  stanovoi  of  the  town,  called  imme-
-diately and  invited  us  to  dine  with  him  that  evening.  This
+our  driver.  He  whirled  us  over  twenty-nine  versts  rapidly,  rushing through  Hogotskaya  to  the  post  station  as  fast  as  the  horses
+could  run.  Priestoff,  the  stanovoi  of  the  town,  called  immediately and  invited  us  to  dine  with  him  that  evening.  This
 made  a  pleasant  break  in  the  monotony  of  our  return
 journey.
 
@@ -4273,13 +3921,11 @@ speed  you."
 Baiandai  is  a  curious  place.  It  is  a  collection  of  Buriat  villages
 with  one  Russian  settlement.  In  this  settlement  nearly  every
 man  and  woman  is  either  an  ex-convict  or  a  person  exiled  for
-life.  I  could  have  easily  gathered  many  stories  there,  life  trage-
-dies, vastly  interesting  for  a  man  who  wishes  to  study  all  phases
+life.  I  could  have  easily  gathered  many  stories  there,  life  tragedies, vastly  interesting  for  a  man  who  wishes  to  study  all  phases
 of  life,  but  I  was  in  Siberia  to  obtain  Mongol  material,  and  did
 not  wander  from  my  task.
 
-Baiandai  houses,  like  most  of  the  houses  in  Siberia,  are  un-
-painted,  except  the  casings  and  blinds,  which  are  painted  white;
+Baiandai  houses,  like  most  of  the  houses  in  Siberia,  are  unpainted,  except  the  casings  and  blinds,  which  are  painted  white;
 they  get  black  and  old  quickly.  Many  of  the  buildings  have
 shattered  roofs  and  look  uninhabitable,  still  they  are  occupied.
 Though  a  large  place,  there  was  but  little  to  eat;  no  butter,  white
@@ -4287,8 +3933,7 @@ bread,  or  meat  of  any  kind  could  be  obtained.  My  bed  in  this
 village,  or  collection  of  villages,  was  made  by  putting  two  doors
 on  two  boxes  and  placing  my  carriage  mattress  on  those  doors.
 
-The  Russian  secretary  of  the  village  was  away,  but  the  assist-
-ant secretary  was  very  kind,  and  made  every  effort  possible  to
+The  Russian  secretary  of  the  village  was  away,  but  the  assistant secretary  was  very  kind,  and  made  every  effort  possible  to
 find  "wise  men"  for  me.  He  was  an  exile  from  Little  Russia,
 where  he  had  held  a  government  position.  Losing  in  some  way
 a  thousand  rubles  of  government  money,  he  was  sent  to  Siberia
@@ -4301,8 +3946,7 @@ SOJOURN  ON  "SACRED"  ISLAND      79
 He  had  already  lived  through  eleven  years  of  this  exile.  What
 he  will  do  when  the  term  ends  he  does  not  know.  His  health
 is  broken;  evidently  exile  has  been  a  frightful  experience  for
-him.  It  is  doubtful  if  work  in  a  mine  is  worse  for  an  edu-
-cated and  refined  man  than  the  monotony  and  associations  of
+him.  It  is  doubtful  if  work  in  a  mine  is  worse  for  an  educated and  refined  man  than  the  monotony  and  associations  of
 such  a  place  as  Baiandai.
 
 After  a  time  a  story-teller  came.  I  paid  him  and  sent  him
@@ -4319,14 +3963,12 @@ twelve  years  of  that  sentence,  he  was  pardoned.  He  came  to
 Baiandai,  married,  and  nine  children  have  been  born  to  him.
 His  own  account  of  the  crime  he  committed  was  that  at  a
 festival,  when  intoxicated,  he,  with  three  associates,  beat  and
-killed  a  man  whom  they  had  long  hated.  He  has  the  appear-
-ance of  being  a  quiet,  inoffensive  person,  but  I  found  him
+killed  a  man  whom  they  had  long  hated.  He  has  the  appearance of  being  a  quiet,  inoffensive  person,  but  I  found  him
 tricky  and  wholly  unreliable.
 
 Now  a  great  excitement  rose  in  Baiandai:  fifteen  hundred
 soldiers  were  on  their  way  from  the  Yakuts  country  to  join,  at
-Irkutsk,  forces  which  had  been  ordered  to  China.  It  was  re-
-ported that  they  were  unruly,  destroyed  property,  and  did  as
+Irkutsk,  forces  which  had  been  ordered  to  China.  It  was  reported that  they  were  unruly,  destroyed  property,  and  did  as
 they  pleased  in  the  villages  they  passed  through.  Two  hundred
 were  expected  in  Baiandai;  they  must  be  fed,  supplied  with
 bread,  and  the  population  must  furnish  carts  and  horses  to  carry
@@ -4334,36 +3976,29 @@ them  to  the  next  station.  Officials  assembled  to  keep  order.
 Five  hundred  rubles  were  raised  to  pay  for  bread,  and  every
 competent  housekeeper  was  ordered  to  bake  a  certain  number
 of  loaves.  In  this  time  of  unrest  I  made  the  acquaintance  of
-Arkokoff,  a  rich  Buriat,  who  invited  me  to  visit  him,  and  prom-
-ised to  find  men  familiar  with  the  folk-lore  of  the  country
+Arkokoff,  a  rich  Buriat,  who  invited  me  to  visit  him,  and  promised to  find  men  familiar  with  the  folk-lore  of  the  country
 
 August  23,  very  early  in  the  morning,  there  was  a  wonderful
 commotion  and  turmoil.  The  two  hundred  soldiers  had  arrived.
 The  uproar  was  made  principally  by  cart-drivers,  those  who
 
 
-80    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 had  brought  the  men,  and  those  who  were  to  carry  them
 away ;  by  Buriats  disputing  and  quarreling,  and  by  dissatisfied
 soldiers,  who  had  received  mouldy  bread  when  fresh  had  been
 paid  for.  Some  exhibited  this  bread.  I  heard  one  soldier
 declare  that  it  was  not  fit  to  feed  to  hens,  another  said  that
-pigs  would  refuse  to  eat  it.  The  breadmakers  defended  them-
-selves, and  there  was  a  noisy  battle  of  words.  But  at  last  the
+pigs  would  refuse  to  eat  it.  The  breadmakers  defended  themselves, and  there  was  a  noisy  battle  of  words.  But  at  last  the
 soldiers  were  off,  and  when  the  squeaking  of  the  rickety  carts
 had  died  away  in  the  distance  Baiandai  sank  back  into  its
 usual  apathy.
 
-A  few  hours  later  I  started  for  the  summer  home  of  the  Arko-
-koffs,  fifteen  versts  distant.  As  the  road  was  smooth  and  level
-and  the  horses  were  good,  we  were  soon  there.  Within  one  im-
-mense enclosure  are  three  houses  built  on  the  Buriat  plan,  and
+A  few  hours  later  I  started  for  the  summer  home  of  the  Arkokoffs,  fifteen  versts  distant.  As  the  road  was  smooth  and  level
+and  the  horses  were  good,  we  were  soon  there.  Within  one  immense enclosure  are  three  houses  built  on  the  Buriat  plan,  and
 one  on  the  Russian,  together  with  sheds  and  storehouses.  The
 gate  of  the  high  board  enclosure  was  open  and  we  halted  in  front
 of  the  Russian  house  out  of  which  came  a  very  old  and  very
-dirty  woman  and  two  of  the  dirtiest  men  I  have  ever  seen.  Ar-
-kokoff  himself  came  from  one  of  the  Buriat  houses.  He  invited
+dirty  woman  and  two  of  the  dirtiest  men  I  have  ever  seen.  Arkokoff  himself  came  from  one  of  the  Buriat  houses.  He  invited
 us  into  the  Russian  house,  and  ordered  a  samovar.  While  that
 was  preparing  he  spoke  of  his  wealth  and  position.  He  had
 several  thousand  head  of  cattle,  four  hundred  splendid  horses,
@@ -4379,8 +4014,7 @@ was  from  stored  snow,  and  asked  me  to  go  with  him  and  see  how
 well  he  had  it  protected.
 
 Back  of  the  houses  was  a  small  building,  with  a  door  loosely
-hung  and  always  open.  Inside  of  this  building  was  a  hole  twenty-
-five  feet  deep  with  steps  going  down  to  the  bottom.  This  hole,  or
+hung  and  always  open.  Inside  of  this  building  was  a  hole  twentyfive  feet  deep  with  steps  going  down  to  the  bottom.  This  hole,  or
 reservoir,  was  filled  in  cold  weather  by  shoveling  in  snow,
 stamping  it  down  and  packing  it  as  solid  as  possible.  Men  in  the
 reservoir  trampled  the  snow  as  others  threw  it  in.  The  well  at
@@ -4432,8 +4066,7 @@ of  tea  and  was  full  of  dirt.  A  man  brought  up  a  bucketful  for  my
 inspection.  The  odor  was  nearly  as  bad  as  from  the  steam  of  the
 samovar.
 
-On  looking  around  outside  I  saw  that  the  houses  and  the  cattle-
-yards  were  on  higher  ground  than  the  reservoir,  and  in  such  a
+On  looking  around  outside  I  saw  that  the  houses  and  the  cattleyards  were  on  higher  ground  than  the  reservoir,  and  in  such  a
 position  that  the  well  was  to  a  certain  degree  a  drain.
 
 I  decided  to  leave  at  once  if  this  was  the  only  water  supply.
@@ -4445,23 +4078,19 @@ I  now  made  the  acquaintance  of  Mrs.  Arkokoff,  a  short,  fleshy,
 determined-looking  woman  about  sixty-five  years  of  age.  She
 wore  a  double-breasted  Canton  silk  coat,  blue  pants  tucked  into
 the  tops  of  long-legged  boots,  and  a  pair  of  new,  heavy  rubbers  —
-Buriat  women  think  that  the  gloss  of  new  rubbers  gives  a  dressed-
-up  appearance,  and  they  wear  them  over  their  boots  in  the  driest
+Buriat  women  think  that  the  gloss  of  new  rubbers  gives  a  dressedup  appearance,  and  they  wear  them  over  their  boots  in  the  driest
 and  hottest  weather — On  her  head  was  a  round  felt  cap,  and  over
 her  shoulders  a  bright  kerchief,  knotted  in  front.  She  could
-speak  only  Buriat,  hence  my  conversation  with  her  was  some-
-what limited,  but  I  saw  that  she  ruled  every  one,  with  the  possible
+speak  only  Buriat,  hence  my  conversation  with  her  was  somewhat limited,  but  I  saw  that  she  ruled  every  one,  with  the  possible
 exception  of  her  husband.  Later  on,  in  Usturdi,  I  learned  that  a
 few  years  earlier  Arkokoff  had  married  a  young  woman  and
-taken  her  to  his  home.  Though  among  the  Buriats  it  is  not  un-
-usual to  have  two  wives  at  the  same  time,  Mrs.  Arkokoff  No.  1
+taken  her  to  his  home.  Though  among  the  Buriats  it  is  not  unusual to  have  two  wives  at  the  same  time,  Mrs.  Arkokoff  No.  1
 was  very  angry,  and  young  Mrs.  Arkokoff  did  not  live  long.
 
 The  old  man  had  a  curious  collection  of  people  around  him.
 In  the  kitchen  of  the  house  in  which  I  was  given  a  room  was  a
 queer-looking  woman,  a  Russian,  the  widow  of  an  exile.  Her
-sole  occupation  was  making  rye  bread,  and  though  she  com-
-plained bitterly  of  Arkokoff  as  a  miser,  who  would  not  pay  his
+sole  occupation  was  making  rye  bread,  and  though  she  complained bitterly  of  Arkokoff  as  a  miser,  who  would  not  pay  his
 help,  and  when  they  revolted  would  say:  "Go  and  sue  me;  I
 have  money,  you  have  none.  See  how  you  will  come  out,"  she
 had  labored  for  him  twenty-four  years,  for  three  rubles  (about  a
@@ -4471,10 +4100,6 @@ from  the  flour  tub,  slept,  during  the  day,  the  night-watch,  a  man
 
 who  had  served  out  a  sentence  for  murder.    He  was  tall,  lank,
 
-6
-
-
-82    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 and  always  barefooted ;  his  face  unwashed  and  beard  and  hair
 unkempt,  a  wretched  specimen  of  mankind,  mentally  unbalanced.
@@ -4502,8 +4127,7 @@ comes  from  the  horse,  cattle,  and  sheep  yards  near  by.
 In  the  Buriat  country  nearly  all  the  milk  from  horses  and  cows
 is  made  into  tarasun.  The  Arkokoffs  make  a  great  quantity  of
 this  liquor,  but  they  also  make  butter  of  which  the  master  of  the
-place  is  very  proud.  A  large  panful  was  brought  for  my  inspec-
-tion. I  noticed  that  it  was  covered  with  specks.  I  asked  to  have
+place  is  very  proud.  A  large  panful  was  brought  for  my  inspection. I  noticed  that  it  was  covered  with  specks.  I  asked  to  have
 a  section  cut  out;  this  was  done,  and  I  found  that  the  butter  was
 permeated  with  fine  dust.
 
@@ -4512,8 +4136,7 @@ were  brought  for  our  supper,  but  I  did  not  enjoy  it,  for  the  mutton
 was  very  tough,  and  I  had  seen  the  breadmaker.
 
 The  only  possible  place  for  us  to  sleep  in  this  rich  man's  house
-was  on  the  floor  of  the  room  which  had  been  given  me  in  the  Rus-
-sian house.  The  family  slept  on  benches  in  the  Buriat  houses.
+was  on  the  floor  of  the  room  which  had  been  given  me  in  the  Russian house.  The  family  slept  on  benches  in  the  Buriat  houses.
 My  mattress  was  brought  from  the  carriage  and  spread  on  the
 floor.  The  door  into  the  kitchen  where  the  old  Russian  woman
 slept,  and  where  the  night-watch,  the  ex-convict,  came  and  went
@@ -4526,11 +4149,9 @@ me  sufficient  to  meet  traveling  expenses  and  pay  men.  But  I
 was  too  weary  to  borrow  trouble,  and  slept  in  spite  of  everything.
 
 Next  day  story-tellers  came  and  went.  Many  men  crowded
-into  the  room  to  listen,  and  were  a  great  drawback  and  annoy-
-ance. I  got  one  fine  folk-tale,  and  sent  twenty  versts  for  a  man
+into  the  room  to  listen,  and  were  a  great  drawback  and  annoyance. I  got  one  fine  folk-tale,  and  sent  twenty  versts  for  a  man
 who  had  the  reputation  of  knowing  a  good  deal.  He  came,  but
-declared  that  he  knew  nothing  about  the  old  time.  Arkokoff  in-
-sisted that  he  did,  but  neither  urging  nor  money  availed.  I  paid
+declared  that  he  knew  nothing  about  the  old  time.  Arkokoff  insisted that  he  did,  but  neither  urging  nor  money  availed.  I  paid
 him  for  his  lost  time  and  he  went  home.  Another  man  came ;  as
 it  was  late  in  the  evening  he  said  he  would  stay  and  begin  work
 in  the  morning.  In  the  morning,  although  I  was  up  at  daylight,
@@ -4541,8 +4162,7 @@ as  a  wonderful  sedative.  It  was  fortunate  that  I  had  plenty  of
 Russian  tea  with  me,  and  also  rusks,  for  in  Arkokoff's  house  the
 only  meal  during  the  day  is  a  dish  of  mutton  and  a  loaf  of  rye
 bread,  some  time  between  four  o'clock  in  the  afternoon  and  nine
-in  the  evening.  The  family  lives  mainly  on  rye  bread  and  tara-
-sun.  I  had  seen  the  rye  bread  made  and  could  not  eat  it,  but  I
+in  the  evening.  The  family  lives  mainly  on  rye  bread  and  tarasun.  I  had  seen  the  rye  bread  made  and  could  not  eat  it,  but  I
 derived  great  pleasure  from  feeding  it  to  an  old,  lame,  sore-backed
 dog.  My  translator  was  a  Russian  in  the  employ  of  Arkokoff.  I
 paid  Arkokoff  more  each  day  for  the  loss  of  the  man's  labor  than
@@ -4562,15 +4182,11 @@ he  is  tremendously  devoted  to  making  and  hoarding  money
 and  drinking  tarasun.
 
 The  Olzoni  station  was  commodious  and  clean.  I  should
-have  spent  several  days  there  had  it  been  possible  to  find  folk-
-tales.   Trembovski,  the  Polish  merchant,  came  to  welcome  me
+have  spent  several  days  there  had  it  been  possible  to  find  folktales.   Trembovski,  the  Polish  merchant,  came  to  welcome  me
 
-
-84    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 and  assist  me  in  getting  stories.  I  had  brought  Arkokoff's  man
-to  aid  me,  having  paid  Arkokoff  in  advance  for  the  time  I  ex-
-pected to  keep  him.  But  as  soon  as  we  reached  the  village  he
+to  aid  me,  having  paid  Arkokoff  in  advance  for  the  time  I  expected to  keep  him.  But  as  soon  as  we  reached  the  village  he
 began  drinking  and  after  that  I  was  not  sure  of  him  for  even  half
 an  hour  at  a  time.
 
@@ -4593,14 +4209,11 @@ was  very  obliging  and  sent  off  immediately  for  "wise  men."
 
 Next  morning  my  translator  was  wonderfully  and  fearfully
 drunk.  Fortunately  I  now  understood  the  language  so  well  that
-I  could  dispense  with  his  services.  A  man  came  who  knew  folk-
-tales, and  he  gave  me  much  valuable  information.  In  the  after-
+I  could  dispense  with  his  services.  A  man  came  who  knew  folktales, and  he  gave  me  much  valuable  information.  In  the  after-
 noon a  middle-aged,  blue-spectacled  man  appeared,  and  stated
 that  he  would  tell  me  "all  about  the  Buriat  religion."  With  him
-was  the  son  of  a  Shaman,  a  bright,  intelligent  fellow.  The  mid-
-dle-aged man,  whose  name  was  Kongoroff,  was  the  son-in-law  of
-Arkokoff.  He  had  turned  away  from  the  religion  of  his  fore-
-fathers, and  was  perfectly  willing  to  show  me  his  abandoned
+was  the  son  of  a  Shaman,  a  bright,  intelligent  fellow.  The  middle-aged man,  whose  name  was  Kongoroff,  was  the  son-in-law  of
+Arkokoff.  He  had  turned  away  from  the  religion  of  his  forefathers, and  was  perfectly  willing  to  show  me  his  abandoned
 gods  and  tell  me  about  them.    I  was  glad  to  meet  such  a  man.
 
 That  evening  there  was  a  good  supper,  the  first  enjoyable
@@ -4637,13 +4250,11 @@ At  Right,  Vassya.     Paqc  JS
 
 SOJOURN  ON  "SACRED"  ISLAND      85
 
-disappeared  they  came  from  their  hiding-places  and  raced  every-
-where, up  the  walls,  down  the  walls,  on  the  table,  floor,  stove,
+disappeared  they  came  from  their  hiding-places  and  raced  everywhere, up  the  walls,  down  the  walls,  on  the  table,  floor,  stove,
 bed,  and  baskets.  Only  once  before  in  my  life  had  I  seen  so
 many.  That  was  in  Guatemala,  where  in  my  sleeping-room  they
 ate  everything  available;  ate  even  the  films  off  photographic
-plates  which  I  had  set  up  on  a  shelf  to  dry.  These  Buriat  cock-
-roaches were  very  aggressive,  when  I  tried  to  sleep  I  found  it
+plates  which  I  had  set  up  on  a  shelf  to  dry.  These  Buriat  cockroaches were  very  aggressive,  when  I  tried  to  sleep  I  found  it
 beyond  the  possible.  Toward  morning  I  surrendered,  dressed,
 and  went  out  on  to  the  porch.  There  I  found  a  Jew  tailor  whose
 home  was  in  Lodz,  Poland.  He  had  been  exiled  for  eleven
@@ -4651,8 +4262,7 @@ years,  for  smuggling,  but  at  that  time  had  only  one  year  longer  to
 serve.  He  was  a  peculiar-looking  man  with  curly  hair,  white,
 except  at  the  back  of  the  neck,  where  it  was  jet  black,  which  gave
 him  a  remarkably  odd  appearance.  He  had  no  friendship  for  the
-Buriats,  whom  he  said  the  excessive  use  of  tarasun  was  destroy-
-ing as  a  people.  As  he  spoke  German  he  could  converse  freely
+Buriats,  whom  he  said  the  excessive  use  of  tarasun  was  destroying as  a  people.  As  he  spoke  German  he  could  converse  freely
 without  fear  of  being  overheard,  and  we  had  a  long  talk,  mainly
 about  the  country  and  the  Buriats.
 
@@ -4671,16 +4281,13 @@ rapidly.  Kongoroff  had  him  turned  out  soon,  and  quite  rudely,  I
 thought,  excusing  the  act  by  saying  that  the  man  had  been
 drinking.  Later  he  appeared  a  second  time,  but  was  sent  off
 promptly.  It  seemed  much  as  though  Kongoroff,  who  did  not
-understand  German,  feared  that  the  man  might  make  some  com-
-plaint. When  I  was  going  the  exile  came  to  the  carriage,  shook
+understand  German,  feared  that  the  man  might  make  some  complaint. When  I  was  going  the  exile  came  to  the  carriage,  shook
 hands  with  me,  and  said  in  German,  "God  sees  everything."
 
 Kongoroff  brought  his  Ongons,  took  them  from  the  boxes,  and
 nailed  them  to  the  side  of  the  house  to  be  photographed.  They
 were  much  like  those  shown  to  me  by  Andrei  Mihailovitch.
 
-
-86    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Kongoroff  told  me  their  names  and  attributes.  The  visit  was  not
 very  pleasant,  and  though  I  obtained  a  few  important  facts,  I
@@ -4693,8 +4300,7 @@ the  right  temperature  and  the  proper  breeze.  It  was  a  beautiful
 day !    I  had  been  away  one  month.
 
 I  was  anxious  to  go  to  Irkutsk,  but  was  determined  to  get  the
-rest  of  Manshut's  folk-tales  before  going.  I  sent  for  him  imme-
-diately. My  messenger  soon  returned  with  word  that  Manshut
+rest  of  Manshut's  folk-tales  before  going.  I  sent  for  him  immediately. My  messenger  soon  returned  with  word  that  Manshut
 was  sick.  I  did  not  credit  this,  so  I  got  an  order  from  the  chief
 of  the  village  for  the  old  man  to  come  to  the  uprava.  The  man
 who  carried  the  order  was  gone  an  entire  day.  When  at  last  he
@@ -4745,8 +4351,6 @@ house,  but  we  found  that  he  lived  in  the  first  house,  not  with  his
 mother,  but  with  an  old,  weird,  witch-like  creature,  who  was  at
 
 
-88    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 the  second  house  sitting  on  the  ground  outside  with  three  other
 very  old  women.  When  I  asked  where  Manshut  was  she  did  not
 answer,  but  got  up  and  going  to  her  own  house  sat  down  by  the
@@ -4758,20 +4362,17 @@ into  the  house  and  look  around.    He  was  not  there.
 
 Meanwhile,  the  knob-nosed  man,  with  fifty  copecks  in  hand
 and  a  promise  of  more,  had  gone  off  to  hunt  Manshut  up.  Sec
-ing  the  man  start  away  the  old  woman  laughed,  and  said,  "Red-
-nose  is  a  terrible  drunkard ;  you  will  not  see  him  again."
+ing  the  man  start  away  the  old  woman  laughed,  and  said,  "Rednose  is  a  terrible  drunkard ;  you  will  not  see  him  again."
 
 I  decided  to  go  back  to  the  employer's  house.  On  the  way  I
-met  a  Russian-Buriat,  who  had  seen  me  with  Andrei  Milhailo-
-vitch  at  the  Horse  Sacrifice.  He  was  drunk,  but  gave  me  more
+met  a  Russian-Buriat,  who  had  seen  me  with  Andrei  Milhailovitch  at  the  Horse  Sacrifice.  He  was  drunk,  but  gave  me  more
 information  than  I  had  been  able  to  get  hitherto.  He  said  that
 Manshut's  employer  had  a  great  deal  of  grass  to  cut,  and  would
 not  let  the  old  man  go  to  Usturdi.  He  offered  to  go  to  the  hayfield
 with  me,  if  I  wished.  The  driver  objected  to  this.  He  said  that
 the  place  was  across  the  river,  and  more  than  a  verst  away ;  his
 horses  were  too  tired  for  the  trip.  I  sent  for  other  horses.  Then
-he  did  not  want  his  wagon  to  cross  the  river.  At  last,  very  reluc-
-tantly, with  an  increase  of  pay,  he  decided  to  go  to  the  hayfield.
+he  did  not  want  his  wagon  to  cross  the  river.  At  last,  very  reluctantly, with  an  increase  of  pay,  he  decided  to  go  to  the  hayfield.
 The  drunken  man  took  his  seat  by  the  driver,  and  we  were  off.
 
 After  driving  about  half  a  mile  we  halted  in  front  of  a  small
@@ -4795,9 +4396,6 @@ Just  at  that  moment  some  one  who  was  running  across  the
 G
 
 y.
-
-
-3
 
 
 IIJ^
@@ -4839,8 +4437,7 @@ enough  called  out,
 
 "I  have  found  Manshut !"
 
-We  turned  back  at  once.  The  man  had  somewhere  pro-
-cured a  bottle  of  tarasun.  A  Shaman  came  up  and  a  drinking
+We  turned  back  at  once.  The  man  had  somewhere  procured a  bottle  of  tarasun.  A  Shaman  came  up  and  a  drinking
 bout  began.  The  bottle  was  emptied  quickly  and  with  great
 gusto.  I  was  afraid  that  the  driver  would  get  intoxicated;
 but  accustomed  to  tarasun  it  had  no  visible  effect.
@@ -4851,8 +4448,7 @@ house  we  came  upon  Manshut.  He  was  ragged  and  dirty,  and
 had  an  old  handkerchief  tied  around  his  head.
 
 Without  waiting  for  words  I  greeted  him,  and  said:  "Get
-up  by  the  driver.  It  will  be  night  soon,  we  must  be  off  imme-
-diately !"  He  took  his  seat,  not  hesitating  for  a  moment,  and
+up  by  the  driver.  It  will  be  night  soon,  we  must  be  off  immediately !"  He  took  his  seat,  not  hesitating  for  a  moment,  and
 we  started.
 
 Usturdi  seemed  far  away  that  September  evening,  for  the
@@ -4867,8 +4463,7 @@ a  victory.
 Manshut  told  folk-tales  for  four  days,  and  his  work  was
 very  satisfactory;  nevertheless  they  were  hard  days,  for  my
 provisions  were  gone,  except  tea.  No  matter  how  large  a
-Buriat  village  may  be  there  is  never  a  meat  market.  Occa-
-sionally at  the  little  grocery  shops  one  can  buy  bacon,  kept  for
+Buriat  village  may  be  there  is  never  a  meat  market.  Occasionally at  the  little  grocery  shops  one  can  buy  bacon,  kept  for
 Russian  customers,  but  it  is  of  a  very  poor  quality.  At  this
 time  Usturdi  lacked  even  bacon.
 
@@ -4881,11 +4476,8 @@ each  person  serves  himself.  Tea  is  used  in  the  morning.  The
 poorer  classes  drink  what  is  called  "block  tea,"  the  odor  of
 
 
-90    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 which  is  very  disagreeable.  The  well-to-do  drink  ordinary
-Russian  tea.  I  am  sure  that  the  constant  use  of  tobacco  de-
-stroys their  desire  for  food,  for  the  rich  live  as  badly  as  do  the
+Russian  tea.  I  am  sure  that  the  constant  use  of  tobacco  destroys their  desire  for  food,  for  the  rich  live  as  badly  as  do  the
 poor.
 
 Buriats  smoke  almost  continually,  using  a  pipe  with  a  large
@@ -4896,8 +4488,7 @@ only  after  marriage  that  morality  is  expected,  and  then  it  is
 strictly  enforced.
 
 To  the  large  majority  of  Buriats  Russian  is  an  unknown
-language.  It  is  difficult  to  find  a  man  able  to  carry  on  an  or-
-dinary conversation.  Buriat  women  make  no  effort  whatever
+language.  It  is  difficult  to  find  a  man  able  to  carry  on  an  ordinary conversation.  Buriat  women  make  no  effort  whatever
 to  learn  Russian.    There  are  no  Buriat  schools.
 
 I  was  rejoiced  when  I  had  on  paper  all  that  Manshut  could
@@ -4912,8 +4503,7 @@ Buriat  country,  where,  though  I  had  gained  considerable
 knowledge,  we  had  endured  many  hardships.
 
 Seven  versts  beyond  the  first  station  I  passed  through  Iyok,
-a  town  of  about  four  thousand  ex-convicts,  Poles,  Jews,  Rus-
-sians, and  Tartars,  mainly  peasants.  It  is  a  town  with  one
+a  town  of  about  four  thousand  ex-convicts,  Poles,  Jews,  Russians, and  Tartars,  mainly  peasants.  It  is  a  town  with  one
 immensely  long  street  of  unpainted  houses  and  fences,  all  in  a
 more  or  less  tumbled  down  condition.  When  we  reached  Kuda
 (Where),  it  was  already  dusk  and  we  remained  for  the  night,
@@ -4937,8 +4527,7 @@ A  BIRTHDAY  IN  SIBERIA  91
 
 have  been  left  outside.  This  was  vexatious,  but  I  had  an
 opportunity  to  study  the  real  character  of  the  man.  He  would
-have  been  officious  and  guarded  had  he  known  that  I  was  travel-
-ing under  government  protection.
+have  been  officious  and  guarded  had  he  known  that  I  was  traveling under  government  protection.
 
 The  woman  in  charge  of  the  house  gave  me  a  small  room
 where  I  tried  to  sleep  on  a  huge  box  which  occupied  a  good
@@ -4970,8 +4559,7 @@ the  prescribed  surroundings  of  material  facts.
 Thus  did  I  leave  the  heroes  of  the  past,  who  fought  so  bravely
 with  the  many-headed  Mangathais,  and  return  to  the  no  less
 valiant  men  of  the  present  who,  struggling  with  the  evil  forces
-of  indifference  and  ignorance,  are  bringing  to  Siberia  the  pros-
-perity that  country  so  well  deserves  to  call  her  own.
+of  indifference  and  ignorance,  are  bringing  to  Siberia  the  prosperity that  country  so  well  deserves  to  call  her  own.
 
 
 CHAPTER  VIII
@@ -4993,8 +4581,7 @@ ground  in  the  center  of  the  Buriat  house.
 From  the  pot  a  pipe  runs  into  a  tub  which  stands  four  feet
 or  so  away.    From  the  end  of  this  pipe  drips  out  the  tarasun.
 
-If  strong  tarasun  is  desired  the  first  is  redistilled.  The  strong-
-est is  made  by  distilling  the  liquor  three  times.
+If  strong  tarasun  is  desired  the  first  is  redistilled.  The  strongest is  made  by  distilling  the  liquor  three  times.
 
 I  should  judge  that  the  milk  barrels  in  a  Buriat  house  are
 never  empty,  for  they  look  as  if  they  had  not  been  washed  for
@@ -5024,8 +4611,7 @@ butter  is  made  is  wholly  unfit  for  use.
 MARRIAGE   CEREMONIES
 
 When  a  young  boy  and  girl  take  a  fancy  to  each  other  their
-parents,  if  in  favor  of  the  marriage,  begin  the  regular  negotia-
-tions through  matchmakers,  or  one  father  may  say  to  the  other,
+parents,  if  in  favor  of  the  marriage,  begin  the  regular  negotiations through  matchmakers,  or  one  father  may  say  to  the  other,
 "You  have  a  daughter  and  I  have  a  son,  let  us  become  relatives."
 This  agreement  made,  the  matchmakers'  work  begins.
 
@@ -5061,8 +4647,6 @@ this  first  day.
 The  second  day  of  the  marriage  ceremony,  which  may  be
 
 
-94    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 some  weeks  later,  the  bridegroom  comes  early  in  the  morning
 to  the  bride's  father,  bringing  provisions.  If  he  is  wealthy  he
 has  a  horse  killed  and  gives  the  head  of  the  beast  to  his
@@ -5077,8 +4661,7 @@ to  eat.
 The  third  day  the  groom  is  at  his  father's.  The  house  where
 the  young  couple  are  to  live  is  made  ready.  In  the  room  is  a
 bed,  and  near  the  bed  is  fixed  a  place  where  the  bride  is  to  sit.
-Meanwhile  she  is  at  home.  All  at  once  a  small  party  on  horse-
-back is  seen  in  the  distance  approaching  on  the  keen  run.  They
+Meanwhile  she  is  at  home.  All  at  once  a  small  party  on  horseback is  seen  in  the  distance  approaching  on  the  keen  run.  They
 halt  in  front  of  the  door,  enter,  seize  the  girl,  put  her  on  a  horse,
 and  race  away  to  the  new  home.  There  she  is  swept  off  the
 horse,  taken  into  the  house,  and  seated  by  the  bed,  where  she
@@ -5135,8 +4718,7 @@ removed,  rung,  and  hung  on  the  western  post  near  the  door.
 
 The  day  following  the  last  day  of  the  ceremony  the  women  of
 the  ulus,  or  village,  come  to  visit  the  bride.  She  must  meet  them
-with  cap  and  handkerchief  on.  She  must  not  call  certain  per-
-sons by  their  names,  but  always  by  the  relationship.  When  they
+with  cap  and  handkerchief  on.  She  must  not  call  certain  persons by  their  names,  but  always  by  the  relationship.  When  they
 come  to  the  house  they  cough  outside  the  door;  this  is  done
 simply  for  fun  and  to  confuse  the  bride.
 
@@ -5146,11 +4728,8 @@ come  and  cry  with  her.  Then  she  lies  down  on  the  bed  with
 her  most  intimate  friend.  They  take  each  a  tress  of  their  hair
 and  sew  it  to  the  other's  shoulder.  Then  they  clasp  each  other
 firmly,  friends  come  in,  girls  and  boys,  and  try  to  pull  them
-apart,  to  tear  one  from  the  other;  there  is  laughter  and  scream-
-ing.   This  ceremony  is  to  show  that  after  marriage  the  young
+apart,  to  tear  one  from  the  other;  there  is  laughter  and  screaming.   This  ceremony  is  to  show  that  after  marriage  the  young
 
-
-96    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 woman  will  be  true  to  the  friends  of  her  girlhood.  If  a  bride
 is  enceinte  she  is  not  permitted  to  bow  down  to  the  Ongons.
@@ -5158,12 +4737,10 @@ Such  an  act  would  bring  misfortune  to  the  whole  community.
 
 CEREMONIES  AFTER  THE  BIRTH   OF  A   CHILD
 
-Just  before  the  birth  of  a  child  a  "receiving  mother,"  or  mid-
-wife, is  summoned.  As  soon  as  the  child  comes  into  the  world
+Just  before  the  birth  of  a  child  a  "receiving  mother,"  or  midwife, is  summoned.  As  soon  as  the  child  comes  into  the  world
 the  father  takes  a  broad  arrow-head  and  cuts  the  umbilical  cord.
 The  infant  is  then  washed  in  warm  water,  wrapped  in  a  lamb
-skin,  and  put  into  its  father's  fur  coat.  The  friends  and  neigh-
-bors assemble,  and  an  animal,  either  a  cow  or  sheep,  is  killed
+skin,  and  put  into  its  father's  fur  coat.  The  friends  and  neighbors assemble,  and  an  animal,  either  a  cow  or  sheep,  is  killed
 and  the  meat  cooked.  Then  a  man  accustomed  to  perform
 such  ceremonies  makes  libations  of  the  meat  and  of  tarasun,
 in  this  way  sending  it  greatly  multiplied  to  the  gods,  asking,
@@ -5184,13 +4761,11 @@ question  three  times,  then  the  boy  answers,  "The  child!"
 Then  she  asks  three  times,  "Shall  we  rock  up  or  down?"  the
 boy  answers,  "Up!"
 
-The  baby  is  put  into  the  cradle  and  tied  in,  then  the  receiv-
-ing mother  asks,  "What  is  the  name  of  the  child?"  and  the
+The  baby  is  put  into  the  cradle  and  tied  in,  then  the  receiving mother  asks,  "What  is  the  name  of  the  child?"  and  the
 boy  repeats  the  name  which  the  parents  have  selected.
 
 The  third  day,  if  the  father  is  well-to-do,  a  second  animal  is
-killed;  this  one  is  divided  among  the  most  distinguished  peo-
-ple of  the  village,  those  who  have  not  been  present  at  the  cere-
+killed;  this  one  is  divided  among  the  most  distinguished  people of  the  village,  those  who  have  not  been  present  at  the  cere-
 monies attending  the  birth  and  the  naming  of  the  child.
 
 On  the  third  day  the  tomta  (placenta)  is  buried.  Two  planks
@@ -5243,8 +4818,6 @@ to  ask  how  the  cradle  was  to  be  opened.  He  was  answered  by
 Buga  Noyon  Babai,  the  god  to  whom  he  made  libations.  "Fasten
 
 
-98    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 the  right  leg  bone  (below  the  knee)  of  a  two-year-old  bull  on  the
 right  side  of  the  cradle,"  said  the  god,  "and  place  a  sharp  knife
 by  the  cradle,  then  ask,  'How  is  it,  shall  we  rock  the  bone  or  the
@@ -5254,8 +4827,7 @@ directed,  the  hoops  snapped  and  the  cords  untied,  and  there  in
 the  cradle  was  a  beautiful  child.  Usihun  and  his  wife  reared
 the  boy  and  named  him  Bulugat.  When  four  or  five  years  old
 Bulugat  became  very  fond  of  playing  by  the  sea.  After  a  while
-he  began  to  get  up  and  slip  away  in  the  night-time.  The  Sha-
-man's wife  wondered  where  the  child  went ;  then  she  followed,
+he  began  to  get  up  and  slip  away  in  the  night-time.  The  Shaman's wife  wondered  where  the  child  went ;  then  she  followed,
 and  saw  that  two  children,  a  boy  and  a  girl,  came  out  of  the
 sea  and  played  with  him.
 
@@ -5276,8 +4848,7 @@ Vepholensk  Buriats  are  descended  from  Uhurut.
 ANOTHER  VERSION  OF  THE  ORIGIN  OF  THE
 TRANS-BAIKAL   BURIATS
 
-A  hunter  one  day  when  out  shooting  birds  saw  three  beauti-
-ful swans  flying  toward  a  lake  not  far  distant.  He  followed
+A  hunter  one  day  when  out  shooting  birds  saw  three  beautiful swans  flying  toward  a  lake  not  far  distant.  He  followed
 the  swans,  saw  them  come  down  by  the  water,  take  off  their
 feathers,  become  women,  and  swim  out  from  shore.
 
@@ -5299,8 +4870,7 @@ but  only  caught  at  her  legs,  which  the  girl's  dirty  hands  made
 black.  That  is  why  swans,  a  sacred  bird  among  the  Buriats,
 have  black  legs.
 
-The  mother  circled  around,  came  back  within  speaking  dis-
-tance of  her  daughter,  and  said,  "Alway  at  the  time  of  the  new
+The  mother  circled  around,  came  back  within  speaking  distance of  her  daughter,  and  said,  "Alway  at  the  time  of  the  new
 moon  you  will  pour  out  to  me  mare's  milk  and  tea,  and  scatter
 red  tobacco."
 
@@ -5316,8 +4886,7 @@ until  it  is  white,  then  by  the  cracks  in  the  bone  he  learns  what
 the  sick  person  has  done  to  anger  this  or  that  Burkan.  When
 he  has  thus  found  out  which  Burkan  has  caused  the  sickness
 he  knows  by  experience  what  sacrifice  must  be  made  to  appease
-him.  If  the  illness  is  slight,  an  offering  of  tarasun  may  be  suffi-
-cient; but  in  case  of  serious  sickness,  besides  the  offering  of
+him.  If  the  illness  is  slight,  an  offering  of  tarasun  may  be  sufficient; but  in  case  of  serious  sickness,  besides  the  offering  of
 tarasun,  an  animal  must  be  sacrificed.
 
 Many  of  the  Burkans  are  very  exacting  about  what  is  offered
@@ -5328,14 +4897,11 @@ without  the  sacrifice  of  a  bull  or  a  horse.
 
 The  Shaman  kills  the  animal  by  making  an  incision  in  the
 breast  and  pulling  out  the  heart.  The  body  of  the  animal  is
-disjointed  at  the  neck  and  at  the  knees,  the  skin  removed,  ex-
-cept from  the  legs  and  head,  and  the  body  carried  away  to  be
+disjointed  at  the  neck  and  at  the  knees,  the  skin  removed,  except from  the  legs  and  head,  and  the  body  carried  away  to  be
 boiled.  Then  a  long  pole  is  driven  into  the  ground  and  the
 skin  of  the  animal  is  fastened  to  the  top  of  it,  the  head  facing
 the  mountain,  hill,  or  place  where  the  Burkan  who  has  caused
 
-
-100    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 the  sickness  is  supposed  to  have  his  home.  The  pole  leans
 slightly  toward  that  same  mountain.
@@ -5362,8 +4928,7 @@ If  after  the  first  sacrifice  the  sick  person  does  not  recover,  a
 second  is  made,  and  perhaps  a  third.  The  Shaman  does  not  get
 discouraged,  but  continues  his  efforts  until  his  patient  recovers
 or  dies.  In  former  times  he  was  paid  very  little  for  his  labor,  —
-whatever  the  family  thought  proper,  —  but  at  present  the  re-
-ward is  sufficiently  large.
+whatever  the  family  thought  proper,  —  but  at  present  the  reward is  sufficiently  large.
 
 The  light  Burkans,  as  well  as  the  dark,  can  cause  sickness.
 Sickness  sent  by  a  light  Burkan  is  usually  in  punishment  for
@@ -5372,8 +4937,7 @@ oath) ;  or  for  the  killing  of  a  sacred  bird,  which  is  a  great  sin,
 and  if  the  man  is  not  punished  for  the  sin  his  children  will  be.
 
 Berkut,  the  white-headed  eagle,  is  a  sacred  bird.  Ejin,  the
-god  of  Olkhon,  the  sacred  island  of  Lake  Baikal,  had  no  chil-
-dren; so  he  created  the  white-headed  eagle  and  called  him  his
+god  of  Olkhon,  the  sacred  island  of  Lake  Baikal,  had  no  children; so  he  created  the  white-headed  eagle  and  called  him  his
 son,  adopted  him.  Ejin  himself  is  the  son  of  the  Fiery  Heaven,
 and  is  called  Uta  Sagan  Noyon  (High  White  Prince).  He  is
 counted  a  brother  of  Dalai  Lama,  who  is  also  a  son  of  the  Fiery
@@ -5383,7 +4947,6 @@ often  sent  by  the  Burkans  to  locate  persons  whom  they  are
 about  to  punish.
 
 
-3
 „.    Si
 
 5    "
@@ -5470,8 +5033,6 @@ A  Shaman  does  not  officiate  at  this  cremating  ceremony,
 which  is  conducted  in  the  most  quiet  manner  possible.
 
 
-102    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 BURIAT  BURIAL  OF  THE  DEAD
 
 As  soon  as  a  Buriat  dies  he  is  dressed  in  his  best  garments  and
@@ -5503,8 +5064,7 @@ go  from  among  the  living,  and  tries  to  prove  to  itself  that  it  is
 still  alive ;  that  is,  in  the  visible  form.  "  It  goes  to  the  fire,  steps
 on  the  ashes,  and  when  it  sees  no  track  fears  that  it  is  no  longer
 in  a  material  body.  It  goes  close  to  the  chained  dog  to  see  if  the
-dog  will  bark.  If  the  dog  barks  it  is  a  proof  that  he  sees  some-
-thing, and  the  spirit  hopes  that  it  is  visible.  When  the  man's
+dog  will  bark.  If  the  dog  barks  it  is  a  proof  that  he  sees  something, and  the  spirit  hopes  that  it  is  visible.  When  the  man's
 friends  breakfast,  dine,  or  drink  tea,  the  spirit  waits  anxiously
 to  see  if  any  one  will  offer  it  food  or  drink.  If  four  or  five  are
 drinking  tea,  the  spirit  takes  a  cup  and  wonders  that  they  do  not
@@ -5551,8 +5111,7 @@ the  dead.  If  a  near  relative  lives  far  away  he  will  come  when
 he  hears  of  the  death,  even  if  it  is  not  for  a  month;  he  will
 bring  food  and  drink  and  "make  remembrance."
 
-Where  the  dead  are  buried  or  burned,  there  are  large  settle-
-ments, houses,  and  buildings  of  every  kind;  but  all  this  is  in-
+Where  the  dead  are  buried  or  burned,  there  are  large  settlements, houses,  and  buildings  of  every  kind;  but  all  this  is  in-
 visible, except  to  persons  with  second  sight.
 
 The  spirits  of  the  dead  wear  not  only  the  garments  in  which
@@ -5563,12 +5122,8 @@ those  they  wore  many  years  before  their  death,  for  they  wear
 When  spirits  take  the  form  of  living  people,  as  they  can  if  they
 
 
-104    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-wish,  the  effect  is  the  same  as  if  they  were  clothed  in  real  gar-
-ments. The  spirit  of  a  woman  sometimes  takes  the  form  of
-a  bird  and  flies  around  its  old  home,  but  this  is  considered  un-
-lucky and  the  bird  is  shot  at,  not  to  kill  it,  but  to  drive  it  away.
+wish,  the  effect  is  the  same  as  if  they  were  clothed  in  real  garments. The  spirit  of  a  woman  sometimes  takes  the  form  of
+a  bird  and  flies  around  its  old  home,  but  this  is  considered  unlucky and  the  bird  is  shot  at,  not  to  kill  it,  but  to  drive  it  away.
 
 The  Buriats  believe  that  sometimes  a  person  dies  because  the
 spirit  or  soul  gets  tired  and  sad,  and  wants  to  leave  the  body.
@@ -5592,22 +5147,19 @@ CHAPTER  IX
 THE   ORIGIN   OP  SHAMANS
 
 FROM  Baronye  Tabin  Tabling  Tengeri,  the  first  spirit  to
-emerge  from  the  Highest  Existence  in  the  Universe,  Del-
-quen  Sagan  Burkan,  World  White  god,  often  called  Esege
+emerge  from  the  Highest  Existence  in  the  Universe,  Delquen  Sagan  Burkan,  World  White  god,  often  called  Esege
 Malan,  came  the  fifty-five  Tengeris.  One  day  the  spirit  of  one
 of  the  fifty-five,  it  is  unknown  which,  entered  into  a  hailstone,
 fell  to  the  earth,  and  was  swallowed  by  a  girl  thirteen  years  of
 age,  whose  name  was  Meluk  Shin.  Soon  after  swallowing  the
 stone  Meluk  Shin  became  a  mother.  The  son  she  bore  —
 Qolongoto  Ubugun,  or,  as  he  was  also  called,  Mindhi  Qiibun
-Iryil  Noyon  Tunkoi —  lived  three  hundred  years.  He  estab-
-lished the  Buriat  religion,  gave  the  Buriats  all  their  prayers,
+Iryil  Noyon  Tunkoi —  lived  three  hundred  years.  He  established the  Buriat  religion,  gave  the  Buriats  all  their  prayers,
 and  told  them  of  their  gods.  (My  translator,  a  Christian,
 states  that  Mindiu  is  the  same  for  the  Buriats  that  Christ  is  for
 Christians).
 
-Mindiu  chose  and  consecrated  the  first  one  hundred  and  sev-
-enty-six Shamans,  ninety-nine  males  and  seventy-seven  females.
+Mindiu  chose  and  consecrated  the  first  one  hundred  and  seventy-six Shamans,  ninety-nine  males  and  seventy-seven  females.
 In  a  sense  he  was  himself  the  first  Shaman.  He  commanded
 to  pray  to  Delquen  Sagan,  to  Tabin  Tabung,  to  the  fifty-five
 Tengeri,  and  the  forty-four  Tengeri,  —  to  heavenly  spirits  only.
@@ -5626,8 +5178,6 @@ has  been  a  Shaman  has  the  inherited  right;  he  must,  however,
 have  this  right  confirmed  by  the  Burkans.    A  child  or  young
 
 
-106    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 person  is  supposed  to  be  acceptable  to  the  Burkans  when  the
 spirit  of  a  dead  relative,  a  Shaman,  comes  while  he  is  sleeping
 and  takes  his  spirit  to  the  residences  of  the  Earthly  and  Heavenly
@@ -5637,8 +5187,7 @@ things.
 
 To  one  selected  directly  by  the  Burkans  the  spirit  of  a  Shaman,
 who  has  died  within  four  or  five  years,  comes  at  night  while  he
-is  sleeping  and  conducts  his  spirit  to  the  Burkans.  In  the  morn-
-ing the  spirit  returns  to  the  body.  This  Shaman  guide  may
+is  sleeping  and  conducts  his  spirit  to  the  Burkans.  In  the  morning the  spirit  returns  to  the  body.  This  Shaman  guide  may
 select  two  or  three,  or  perhaps  four,  children  or  young  people
 and  educate  their  spirits  while  their  bodies  sleep.
 
@@ -5662,8 +5211,7 @@ is  educated  exactly  the  same  as  one  who  is  chosen  directly.
 Even  after  his  education  is  finished  it  is  a  long  time  before  a
 young  Shaman  can  offer  sacrifice;  often  there  are  years  of  trial.
 The  Burkans  may  leave  him  at  any  time  as  unfit  or  incapable,
-and  then  he  is  no  better  than  an  ordinary  man.  His  first  liba-
-tions and  offerings  are  made  to  Bumal  Burkans  (those  who  have
+and  then  he  is  no  better  than  an  ordinary  man.  His  first  libations and  offerings  are  made  to  Bumal  Burkans  (those  who  have
 their  homes  in  sacred  groves)  and  to  the  spirits  of  Shamans.
 He  officiates  by  request  of  the  people.
 
@@ -5727,21 +5275,17 @@ brought  milk,  tarasun,  sheep,  and  horses,  all  things  necessary
 for  a  great  sacrifice.
 
 
-108    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 There  can  never  be  less  than  nine  animals  offered  on  such  an
 occasion,  if  there  are  more  than  nine  there  must  be  eighteen  or
 twenty-seven  (it  is  not  necessary,  however,  to  have  nine  of  a
-kind,  there  can  be  eight  sheep  and  one  horse,  or  any  combina-
-tion which  will  make  up  the  nine).
+kind,  there  can  be  eight  sheep  and  one  horse,  or  any  combination which  will  make  up  the  nine).
 
 Again  the  two  Shamans  summon  the  Burkans.  Milk  and
 tarasun  are  sprinkled  as  a  libation  on  each  of  the  nine  animals,
 and  they  are  then  sacrificed.  The  old  Shaman  calls  on  the
 Burkans.  Three  of  his  assistants  stand  at  his  side,  the  first
 man  sprinkles  milk  on  the  ground,  the  second  tea,  and  the
-third  tarasun.  This,  immensely  multiplied,  goes  to  the  Burk-
-ans supposed  to  be  present,  or,  if  not  present,  in  their  dwellings
+third  tarasun.  This,  immensely  multiplied,  goes  to  the  Burkans supposed  to  be  present,  or,  if  not  present,  in  their  dwellings
 where  they  can  partake  of  all  that  is  offered  them.
 
 During  this  ceremony  the  young  Shaman  removes  his  outer
@@ -5752,8 +5296,7 @@ the  Heavenly  assistants  of  Xoxode  Mergen,  bring  up  in  front  of
 him  a  white  goat  and  stab  the  goat  in  the  breast  in  such  a  way
 that  the  blood  spirts  over  the  naked  body  of  the  new  Shaman.
 This  ceremony  is  called  ugalga,  purification.  When  it  is  over,
-the  goat,  still  alive,  is  thrown  far  off  to  where  women  are  wait-
-ing ;  they  seize  it,  give  it  the  finishing  blow,  then  cook  and  eat
+the  goat,  still  alive,  is  thrown  far  off  to  where  women  are  waiting ;  they  seize  it,  give  it  the  finishing  blow,  then  cook  and  eat
 the  meat.
 
 Before  the  sacrifice  begins,  if  any  of  the  animals  are  impure
@@ -5765,8 +5308,7 @@ to  the  gods,  and  the  rest  eaten.  When  this  ceremony  is  ended
 the  young  man  is  declared  to  be  a  full-fledged  Shaman.  If  there
 are  a  number  of  Shamans  present  they  begin  now  to  tell  about
 their  family  of  Shamans,  and  there  is  much  talk  and  uproar.
-The  feasting  lasts  for  three  days  and  nights.  Some  of  the  Sha-
-mans go  to  the  tops  of  the  trees  and  make  offerings  to  the  gods
+The  feasting  lasts  for  three  days  and  nights.  Some  of  the  Shamans go  to  the  tops  of  the  trees  and  make  offerings  to  the  gods
 from  there.
 
 In  old  times  there  were  such  mighty  Shamans  that  they
@@ -5813,8 +5355,7 @@ They  tell  of  Shamans  who  cut  open  their  stomachs,  take  out
 their  livers,  roast  and  eat  them,  then  close  their  stomachs  and
 are  as  well  as  ever.  Others  take  a  sharp  shaman  stick  called
 "haribo,"  thrust  it  in  over  one  of  their  eyes  to  the  depth  of
-several  inches,  and  ask  some  one  to  pull  it  out.  To  do  so  re-
-quires all  the  strength  of  a  strong  man,  still  the  stick  leaves  no
+several  inches,  and  ask  some  one  to  pull  it  out.  To  do  so  requires all  the  strength  of  a  strong  man,  still  the  stick  leaves  no
 visible  wound.
 
 There  are  Shamans  who  cut  a  man's  head  off.  He  walks
@@ -5822,8 +5363,6 @@ around  without  it,  they  put  it  on  again,  and  he  is  the  same  as
 ever.  Some  Shamans  can  stab  the  central  pillar  of  a  yurta  and
 a  stream  of  tarasun  will  flow  out,  for  the  Shaman  has  power  to
 
-
-110    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 summon  tarasun  from  a  distance,  and  command  it  to  be  in  the
 pillar.
@@ -5921,8 +5460,6 @@ Before  reaching  Irkutsk  there  is  a  mountain,  Torkoi  Tonkoi.
 From  the  top  of  this  mountain  the  Shaman  saw  that  Minga
 
 
-112    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 Mila  had  made  a  bridge  across  the  river  and  was  beginning  to
 drive  his  cattle  over  it.  Half  of  the  bridge  was  silver  and  half
 of  it  was  gold.
@@ -5996,10 +5533,8 @@ child  is  alive  and  well,"  said  he;  "now  I  will  go  home."
 will  give  you  half  my  money  and  half  my  cattle  for  what  you
 have  done."
 
-"I  do  not  need  your  money  or  your  cattle,"  replied  the  Sha-
-man. But  the  father  was  too  happy  over  the  recovery  of  his  child
-to  let  the  Shaman  go  without  a  reward.  "Well,"  said  the  Sha-
-man, "all  I  need  is  one  cock  of  hay,  an  arkan  rope  (skin  rope,
+"I  do  not  need  your  money  or  your  cattle,"  replied  the  Shaman. But  the  father  was  too  happy  over  the  recovery  of  his  child
+to  let  the  Shaman  go  without  a  reward.  "Well,"  said  the  Shaman, "all  I  need  is  one  cock  of  hay,  an  arkan  rope  (skin  rope,
 hide),  and  nine  copecks  in  money."
 
 The  father  gave  him  the  money,  the  rope,  and  the  hay,  and
@@ -6018,8 +5553,6 @@ him  on  the  Kanjirevsk  steppes.  Soon  after  dusk  he  saw  dead
 men  dancing,  "for  he  was  second-sighted."    He  heard  them  say,
 
 
-114    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 "Be  careful,  Gaqui  Guldief  is  coming !"  They  had  known  him
 when  they  were  living,  and  knew  that  he  understood  the  dead
 and  could  see  them.
@@ -6029,12 +5562,10 @@ others,  and  his  friends  were  urging  him  to  dance  his  very  best.
 He  was  about  to  do  so,  when  Gaqui  shot  at  him,  hit  him,  and  he
 fell  to  the  ground  a  skull.  Then  a  terrible  disturbance  arose
 among  the  dancers,  and  turning  to  one  of  their  number,  a  tall
-strong  man,  they  said,  "You  must  punish  him  for  this!"  Gul-
-dief hurried  away,  for  he  heard  what  they  said.  When  he  got
+strong  man,  they  said,  "You  must  punish  him  for  this!"  Guldief hurried  away,  for  he  heard  what  they  said.  When  he  got
 home  he  led  into  the  house  the  savage  dog  he  usually  kept
 chained  in  the  yard.  He  was  not  disturbed  that  night,  but  early
-the  next  night  the  tall,  strong  dead  man  came  into  the  room  fol-
-lowed by  a  great  crowd  of  people  of  all  ages.
+the  next  night  the  tall,  strong  dead  man  came  into  the  room  followed by  a  great  crowd  of  people  of  all  ages.
 
 There  were  food  and  drink  on  the  table.  The  strong  man
 began  to  eat;  then  the  crowd  ate  and  drank,  and  passed  food
@@ -6108,28 +5639,22 @@ No  one  doubts  that  this  is  the  request  of  the  spirit  of  the  dead
 Shaman.  Friends  go  to  the  place  mentioned,  and,  selecting  one
 of  the  largest  and  best  trees,  cut  a  small  box-like  aperture  in  it.
 The  body  of  the  dead  Shaman  is  burned,  the  ashes  placed  in  the
-aperture  in  the  tree,  and  a  slab  fastened  across  it.  Ever  after-
-ward the  grove  is  sacred.  Later  on,  if  the  spirit  of  a  Shaman  of
+aperture  in  the  tree,  and  a  slab  fastened  across  it.  Ever  afterward the  grove  is  sacred.  Later  on,  if  the  spirit  of  a  Shaman  of
 the  same  family  asks  that  the  ashes  of  his  dead  body  be  deposited
 in  this  grove,  the  request  is  granted.  Hence  often  in  such  a
 grove  there  are  several  trees  which  contain  ashes  of  the  dead.
 
 
-116    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 There  are  many  of  these  sacred  groves  in  the  Buriat  country.
 When  a  Buriat  is  passing  a  grove  where  the  ashes  of  a  Shaman
-or  of  several  Shamans  are  deposited,  he  sprinkles  vodka  or  tara-
-sun  to  their  spirits.  If  he  has  no  vodka  or  tarasun  he  sprinkles
+or  of  several  Shamans  are  deposited,  he  sprinkles  vodka  or  tarasun  to  their  spirits.  If  he  has  no  vodka  or  tarasun  he  sprinkles
 tobacco,  thinking  they  may  like  to  smoke.  He  mentions  such  and
-such  Shamans  of  the  grove,  and  sends  the  tobacco  to  them  spe-
-cially. It  is  supposed  to  reach  the  spirits  multiplied  immensely
+such  Shamans  of  the  grove,  and  sends  the  tobacco  to  them  specially. It  is  supposed  to  reach  the  spirits  multiplied  immensely
 in  quantity  and  improved  in  quality.
 
 No  tree  can  be  cut  down,  grass  mown,  or  sod  turned  in  a
 sacred  grove.  A  man  would  come  to  great  grief  if  he  were  to
-injure  a  tree,  even  by  breaking  off  a  branch  or  twig.  The  pun-
-ishment would  be  inflicted  by  the  spirits  of  the  dead  Shamans.
+injure  a  tree,  even  by  breaking  off  a  branch  or  twig.  The  punishment would  be  inflicted  by  the  spirits  of  the  dead  Shamans.
 
 No  woman  can  enter  a  sacred  Shaman  grove.
 
@@ -6144,11 +5669,9 @@ made  of  tarasun  or  tobacco.
 
 Not  far  from  the  village  of  Usturdi,  where  I  spent  several
 weeks,  there  is  a  sacred  grove  of  a  Bumal  Bukan.  Some  years
-ago  three  or  four  Buriats  who  had  lost  faith  in  their  ancient  re-
-ligion decided  to  measure  the  land  and  cut  the  grass  around  the
+ago  three  or  four  Buriats  who  had  lost  faith  in  their  ancient  religion decided  to  measure  the  land  and  cut  the  grass  around  the
 grove.  Shamans  warned  them  that  not  only  the  grove,  but  the
-land  to  the  extent  of  some  acres  around  it,  belonged  to  the  Bur-
-kan.  Paying  no  heed  to  the  warning,  the  men  began  to  cut  the
+land  to  the  extent  of  some  acres  around  it,  belonged  to  the  Burkan.  Paying  no  heed  to  the  warning,  the  men  began  to  cut  the
 grass.
 
 The  Burkan  was  very  angry,  and  to  punish  them  for  trying  to
@@ -6174,8 +5697,7 @@ one  of  the  villages  no  person  is  allowed  to  pass  the  grove  for
 three  days.  At  the  end  of  that  time  the  first  man  to  pass
 must  purify  himself  before  leaving  home.  This  is  done  by
 gathering  dry  juniper,  placing  it  in  a  pile  on  the  ground,  setting
-fire  to  it,  and,  when  it  smokes  well,  walking  through  it  re-
-peatedly, inhaling  the  smoke.  The  horse  the  person  is  to  ride
+fire  to  it,  and,  when  it  smokes  well,  walking  through  it  repeatedly, inhaling  the  smoke.  The  horse  the  person  is  to  ride
 must  be  purified  in  the  same  way.
 
 SACRED   TREES   AND   GROVES
@@ -6191,18 +5713,15 @@ given  to  the  Burkans  and  spirits.
 Buriats  dislike  to  cut  down  a  beautiful  tree  which  has  grown
 up  on  a  clean  place.  They  are  inclined  to  believe  that  the  tree
 belongs  to  a  Burkan ;  for  there  are  cases  where  a  man  engaged
-in  felling  such  a  tree  has  been  taken  suddenly  ill,  and  the  Sha-
-mans have  discovered  that  the  illness  was  caused  by  the  Burkan
-to  whom  the  tree  belonged.  Sometimes  the  name  of  the  Bur-
-kan is  unknown;  then,  although  an  offering  is  made,  the  man
+in  felling  such  a  tree  has  been  taken  suddenly  ill,  and  the  Shamans have  discovered  that  the  illness  was  caused  by  the  Burkan
+to  whom  the  tree  belonged.  Sometimes  the  name  of  the  Burkan is  unknown;  then,  although  an  offering  is  made,  the  man
 may  die.
 
 A  beautiful  pine  tree  growing  near  Usturdi  was  cut  down  by
 one  of  the  Buriats,  who  almost  immediately  fell  ill.  A  Shaman
 was  sent  for,  and  by  reading  the  cracks  in  the  charred  shoulder
 bone  of  a  sheep  he  found  that  the  tree  belonged  to  a  Burkan  —
-was  a  sacred  tree.  But  he  did  not  know  which  Burkan;  con-
-sequently, though  several  offerings  were  made,  the  man  died.
+was  a  sacred  tree.  But  he  did  not  know  which  Burkan;  consequently, though  several  offerings  were  made,  the  man  died.
 
 
 CHAPTER  X
@@ -6248,8 +5767,7 @@ Shara  Basagan.
 THE  GODS  OF  THE  BURIATS         119
 
 To  the  fifty-five  Tengeris  a  sacrifice  should  be  made  three
-times  in  his  life  by  every  man  who  has  the  means.  These  sacri-
-fices are  as  follows :  the  first  sacrifice  is  fifty-five  pots  of  tarasun,
+times  in  his  life  by  every  man  who  has  the  means.  These  sacrifices are  as  follows :  the  first  sacrifice  is  fifty-five  pots  of  tarasun,
 and  five  beasts,  —  one  virgin  mare,  three  virgin  ewes,  and  one
 goat;  the  second  sacrifice,  fifty-five  pots  of  tarasun,  one  virgin
 mare,  five  virgin  ewes,  and  one  goat;  the  third,  fifty-five  pots
@@ -6270,8 +5788,7 @@ Of  the  forty-four  Tengeris  who  are  from  Ziini  Dishin,  the
 second  spirit  of  Delquen  Sagan  Burkan,  the  Highest  Existence,
 seven  are  very  important.  These  are  Gutar  Bain  Tengeri,  the
 eldest;  Qap  Sagan  Tengeri;  Togoto  Bain  Tengeri;  Qasan
-Bunin  Qui  Tengeri ;  Galta  Ulan  Tengeri ;  Qung  Germa  Ten-
-geri;  Qair  Qur  Tengeri.
+Bunin  Qui  Tengeri ;  Galta  Ulan  Tengeri ;  Qung  Germa  Tengeri;  Qair  Qur  Tengeri.
 
 To  the  third  spirit,  Sagade  Ugugun,  his  wife,  Sanqaliri  Qateri,
 and  their  eldest  son  and  eldest  daughter,  the  sacrifice  of  a  "fat,
@@ -6294,8 +5811,6 @@ had  three  sons,  Uqiir  Qara  Bisheshi,  Selmende  Saga  Bisheshi,
 and  Shanda  Bukqu  Bisheshi ;  each  of  these  sons  came  to  earth,
 
 
-120    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 and  each  has  his  dwelling-place  in  a  mountain  of  the  Buriat
 country.
 
@@ -6309,8 +5824,7 @@ HOUSE   ONGONS
 
 First.  The  wheel,  with  an  image  inside  representing  Tumur
 Shin  Qulain  Sejin  Bara,  who  was  a  holy  Shaman  of  ancient
-times.  People  boil  meat  for  him  and  in  important  cases  sacri-
-fice a  goat.  At  marriage  the  bridegroom  sacrifices  a  he-goat  to
+times.  People  boil  meat  for  him  and  in  important  cases  sacrifice a  goat.  At  marriage  the  bridegroom  sacrifices  a  he-goat  to
 this  divinity,  and  a  small  pot  of  meal  pudding  as  well  as  eight
 pots  of  tarasun,  asking  for  health,  happiness,  prosperity,  and
 children.  The  wheel  is  made  of  birch;  from  the  bottom  hangs
@@ -6327,8 +5841,7 @@ for  in  their  prayers.  In  the  pockets  below  the  little  tin  pieces
 which  portray  these  spirits  meat  is  placed  as  an  offering.
 
 Third.  A  long  piece  of  felt  containing  three  virgin  sisters
-(little  tin  figures  on  blue  cloth),  Munqugshin  Basagan,  Mun-
-qoden  Basagan,  and  Boryiinten  Basagan.  When  these  are
+(little  tin  figures  on  blue  cloth),  Munqugshin  Basagan,  Munqoden  Basagan,  and  Boryiinten  Basagan.  When  these  are
 consecrated  the  ceremony  is  performed  by  a  Shaman.  Three
 virgin  ewes  are  offered,  thirty  pots  of  tarasun,  and  one  big  pot
 of  meal  pudding.  Through  these  sisters  the  people  ask  of  the
@@ -6393,14 +5906,11 @@ punish  with  disease  or  misfortune  people  who  offend  local  gods.
 For  instance,  if  a  man  calls  to  witness  or  swears  by  a  local  god,
 
 
-122    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 either  he  is  punished  by  that  local  god,  or  judgment  is  rendered
 by  one  of  the  superior  gods,  for  it  is  a  great  sin  to  swear  by  any
 Burkan,  whether  the  man  swears  truly  or  falsely.
 
-Among  these  principal  gods  are  the  bird  gods  of  the  South-
-west. Many  of  them  take  the  form  of  swans.  They  are  very
+Among  these  principal  gods  are  the  bird  gods  of  the  Southwest. Many  of  them  take  the  form  of  swans.  They  are  very
 kind  to  good  people.  To  these  bird  gods  offerings  are  made
 twice  each  year.  In  the  autumn  a  wether  is  offered,  and  in  the
 spring  mare's  milk,  tea,  millet,  and  tobacco.  Between  these
@@ -6420,8 +5930,7 @@ oldest  and  chief  of  those  people  is  Esege  Malan.
 
 Esege  Malan  had  nine  sons.  The  four  elder  sons  said:  "We
 will  succeed  our  father."  The  four  younger  said :  "No,  we  will
-succeed  him."  The  fifth,  or  middle,  son,  a  hero  and  very  power-
-ful, was  on  the  side  of  the  four  younger  brothers.  His  name  was
+succeed  him."  The  fifth,  or  middle,  son,  a  hero  and  very  powerful, was  on  the  side  of  the  four  younger  brothers.  His  name  was
 Mahai  Danjin.
 
 The  four  older  brothers  and  the  four  younger  began  a  dispute,
@@ -6435,8 +5944,7 @@ did  to  spite  their  brothers  who  were  ruling  in  the  sky.  They
 would  allow  no  one  to  approach  them,  and  to  this  day  no  man
 has  been  able  to  reach  their  dwelling-place.
 
-As  a  result  of  the  action  of  these  four  brothers,  the  earth  be-
-came full  of  evil  and  great  disorder,  and  continued  so  for  many
+As  a  result  of  the  action  of  these  four  brothers,  the  earth  became full  of  evil  and  great  disorder,  and  continued  so  for  many
 thousands  of  years  —  no  man  knows  how  long.
 
 
@@ -6474,8 +5982,7 @@ comes  from  his  four  sons.  They  are  to  blame  for  the  tears  and
 the  broken  battlements."
 
 When  the  Shalmos  heard  this  they  waited  no  longer,  but
-went  quickly  to  Esege  Malan  and  told  him  what  Zarya  Azer-
-gesha had  said.  Then  Esege  sent  down  to  the  earth  his  grand-
+went  quickly  to  Esege  Malan  and  told  him  what  Zarya  Azergesha had  said.  Then  Esege  sent  down  to  the  earth  his  grand-
 son, Gesir  Bogdo,  the  son  of  Mahai  Danjin  the  hero,  sent  him
 as  a  bird,  and  he  flew  over  the  earth  three  years,  unable  to
 alight,  because  of  the  dreadful  odor  from  dead  bodies  of  every
@@ -6486,8 +5993,6 @@ maggots  ate  the  dead  flesh  and  purified  the  earth,  and  it  was
 sweet  and  clean.  Then  the  bird  alighted  on  a  broad  steppe
 called  Urundashei,  turned  itself  into  a  blue  bull,  and  bellowed
 
-
-124    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 loudly  in  challenge.  The  four  brothers  in  their  home  beyond
 the  Frozen  Sea  heard  the  voice  and  said,  "That  is  the  voice  of
@@ -6508,11 +6013,9 @@ all  horned  cattle ! "    And,  defeated,  he  went  back  to  his  brothers.
 
 Beyond  the  Altai  that  stone  bull  stands  to  this  day.  But
 Gesir  Bogdo,  its  spirit,  went  back  to  Esege  Malan  and  created
-heroes  to  fight  the  Mangathais,  the  evil  animals,  and  the  ser-
-pents of  the  North.  He  had  a  son  named  Buqii  Noyon.  Buqu
+heroes  to  fight  the  Mangathais,  the  evil  animals,  and  the  serpents of  the  North.  He  had  a  son  named  Buqii  Noyon.  Buqu
 Noyon  had  seven  sons  and  one  daughter,  whose  name  was  Irgi
-Siiban.  Irgi  Suban  married  Shandu  Buqu  Besbesh,  the  grand-
-son of  Irlik  Nomun,  the  eldest  of  the  four  brothers  of  the  North,
+Siiban.  Irgi  Suban  married  Shandu  Buqu  Besbesh,  the  grandson of  Irlik  Nomun,  the  eldest  of  the  four  brothers  of  the  North,
 and  thus  the  family  of  Esege  Malan  was  at  last  pacified.
 
 Solobung  Yubiin,  the  Morning  Star,  is  a  great  personage.
@@ -6527,8 +6030,7 @@ Tazar,  Mother  Earth,  went  to  visit  him,  and  they  spent  several
 days  very  pleasantly.  When  Ehe  Tazar's  visit  was  ended  and
 she  was  ready  to  go,  she  asked  Esege  Malan  to  give  her  the  sun
 and  the  moon,  and  he  gave  them  gladly;  but  he  soon  found
-that  it  was  very  difficult  to  get  them  for  her.  He  called  a  thou-
-sand Burkans  together  and  asked  how  he  was  to  accomplish  the
+that  it  was  very  difficult  to  get  them  for  her.  He  called  a  thousand Burkans  together  and  asked  how  he  was  to  accomplish  the
 feat,  and  though  they  studied  long  and  seriously  over  it  they
 could  not  tell  him.    Then  Esege  Malan  sent  for  Esh  (the  hedge-
 
@@ -6576,13 +6078,10 @@ leave  your  backs !"    And  so  it  has  been.
 The  Shalmos  followed  him  always,  listening  to  what  he  said.
 After  a  time  Esh  began  to  talk  to  himself  and  abuse  Esege
 Malan.  "What  sort  of  a  ruler  is  that  Esege  Malan?"  asked
-he.  "What  sort  of  a  master  of  the  world  ?  He  manages  every-
-thing, fixes  everything.  He  has  given  away  the  sun  and  the
+he.  "What  sort  of  a  master  of  the  world  ?  He  manages  everything, fixes  everything.  He  has  given  away  the  sun  and  the
 moon,  but  does  not  know  how  to  get  them !  If  he  is  so  wise,
 why  does  he  not  come  to  visit  Mother  Earth,  and  when  the
 
-
-126    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 visit  is  ended  and  he  is  ready  to  go,  ask  her  for  the  hot  dancing
 air  of  summer  and  the  echo,  habra  yirligin  and  darbon.  She
@@ -6618,11 +6117,9 @@ GESIR   BOGDO.     No.  I
 
 (Told  by  Sckbetaryoff)
 
-AT  first  —  in  the  beginning  of  the  world  —  there  was  confu-
-sion here  below,  and  great  disorder.  There  were  also
+AT  first  —  in  the  beginning  of  the  world  —  there  was  confusion here  below,  and  great  disorder.  There  were  also
 various  vile  creatures,  especially  Mangathais.  Then  a  council
-was  held  in  the  sky  at  which  Qurmus  Tengeri,  one  of  the  forty-
-four  Eastern  gods,  said,  "A  middle  son  can  pacify  and  set  aside
+was  held  in  the  sky  at  which  Qurmus  Tengeri,  one  of  the  fortyfour  Eastern  gods,  said,  "A  middle  son  can  pacify  and  set  aside
 all  this  evil."
 
 Esege  Malan  had  nine  sons.  He  called  the  middle  one,  whose
@@ -6651,8 +6148,6 @@ and  said :  "They  will  be  of  use  to  Gesir  Bogdo.  It  is  necessary
 to  give  them."
 
 
-128    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 The  mother  gave  her  three  daughters,  and  Gesir  Bogdo
 swallowed  them,  as  he  had  swallowed  all  that  Esege  Malan
 gave  him.  Then  he  took  farewell,  but  he  did  not  come  down  to
@@ -6675,8 +6170,7 @@ way,  but  all  flew  to  the  sky.  At  last  one  was  born  who  said,  "As
 I  am  born  all  people  will  be  born  hereafter."  And  so  it  has
 been.  This  infant  was  thin,  and  very  ugly  to  look  at;  but  it
 changed  quickly  and  at  once  grew  to  a  man's  stature.  This
-man,  who  was  Gesir  Bogdo,  cleaned  away  all  vile  things,  de-
-stroyed evil  spirits  and  bad  people.  Lusugtii  Mangathai  was  the
+man,  who  was  Gesir  Bogdo,  cleaned  away  all  vile  things,  destroyed evil  spirits  and  bad  people.  Lusugtii  Mangathai  was  the
 last  evil  spirit  he  killed,  and  when  Gesir  Bogdo  had  him  by  the
 legs  he  scratched  the  earth  with  his  fingers  and  ten  streams
 gushed  out.  They  form  the  river  Aqa,  which  falls  into  the  Angara
@@ -6707,17 +6201,14 @@ u
 
 CO
 
-0
 
 <l
 
-3
 
 Oh
 
 O
 
-2
 
 V,
 
@@ -6749,25 +6240,17 @@ O     3
 o
 
 
-MYTHS  AND  MONGOL  RELIGION  129
-
 Rising  of  the  Sun  (Qiilagana  Qoli).  He  lies  under  an  immense
-flat  rock;  all  around  it  is  a  great  taiga  (a  marshy  forest  of  Sibe-
-ria). When,  to  rest  easy,  he  turns  from  one  side  to  the  other,  the
-earth  trembles.  The  Russians  call  this  trembling  an  "earth-
-quake," but  the  Buriats  know  that  it  is  Gesir  Bogdo  turning
+flat  rock;  all  around  it  is  a  great  taiga  (a  marshy  forest  of  Siberia). When,  to  rest  easy,  he  turns  from  one  side  to  the  other,  the
+earth  trembles.  The  Russians  call  this  trembling  an  "earthquake," but  the  Buriats  know  that  it  is  Gesir  Bogdo  turning
 over.
-
-
-130    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 
 GESIR   BOGDO.    No.  II
 
 A  Version  or  the  Preceding  Story
 
-IN  a  time  unknown,  but  very,  very  long  ago,  in  a  world  pre-
-ceding this  world  there  were  people  called  Marat;  there
+IN  a  time  unknown,  but  very,  very  long  ago,  in  a  world  preceding this  world  there  were  people  called  Marat;  there
 were  also  Mangathais,  who  were  ruled  over  by  Shalmo  Khan
 (Invisible  Khan).
 
@@ -6793,8 +6276,7 @@ ten  days  a  child  was  born,  who  said :
 "In  the  way  that  I  am  born  all  people  will  be  born  hereafter."
 And  so  it  has  been.
 
-This  child  was  Gesir  Bogdo.  No  knife  could  cut  the  um-
-bilical cord.    At  last  the  boy  said  to  his  father:
+This  child  was  Gesir  Bogdo.  No  knife  could  cut  the  umbilical cord.    At  last  the  boy  said  to  his  father:
 
 "On  the  west  side  of  the  yurta  roof  is  a  plant,  the  khan  of
 plants.  Get  that  plant,  wave  it  three  times  in  the  sun  over  the
@@ -6807,8 +6289,6 @@ a  strong  black  stallion.  On  the  lintel  of  the  yurta  door  is  a
 yellow  flint  given  me  by  Esege  Malan;  that  flint  has  magic
 power.    In  a  box  on  the  west  side  of  the  yurta  is  a  saddle,  sweat
 
-
-MYTHS  AND  MONGOL  RELIGION  131
 
 cloth,  and  all  the  outfit  of  a  hero."  Sundlei  Ugugun  did  not
 know  of  these  things ;  they  had  come  with  Gesir  Bogdo.
@@ -6843,8 +6323,7 @@ deformed  boy;  one  arm  and  hand  grew  out  of  his  back,  one
 leg  was  drawn  up  to  his  hip,  his  eyes  were  sunk  in  his  head.
 He  was  ugly,  terrible  to  look  at.
 
-From  the  southwest  came  ninety-nine  Shalmos  on  ninety-
-nine  blue  horses.  They  approached  the  deformed  child  and
+From  the  southwest  came  ninety-nine  Shalmos  on  ninetynine  blue  horses.  They  approached  the  deformed  child  and
 wondered  what  he  could  be,  but  said  nothing  and  rode  on.
 The  boy  sat  awhile  longer;  then  by  his  magic  he  went  around
 the  ninety-nine  Shalmos,  was  at  the  Yellow  Sea  before  them.
@@ -6858,8 +6337,6 @@ Seeing  the  old  man  and  his  boats,  they  said :
 "We  are  going  to  the  Northwest  Tengerin  (heavens).    We
 
 
-132    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 cannot  cross  the  sea  on  horseback.  Take  our  ninety-nine
 horses  and  give  us  thy  ninety-nine  boats."
 
@@ -6870,21 +6347,18 @@ of  the  sea."  #
 
 When  the  Shalmos  were  in  the  boats,  the  boats  shot  away
 of  themselves  and  could  not  be  stopped  or  guided.  They  reached
-the  navel  of  the  sea,  turned  into  tamarack  chips,  and  the  ninety-
-nine  Shalmos  were  drowned.
+the  navel  of  the  sea,  turned  into  tamarack  chips,  and  the  ninetynine  Shalmos  were  drowned.
 
 Then  Gesir  Bogdo  went  back  to  the  old  man's  yurta,  saddled
 his  strong  black  stallion,  put  on  his  armor  of  a  hero,  and  went
-to  the  Northwest,  where  lived  three  hundred  and  sixty  Man-
-gathais.  Of  those  the  greatest,  Danjin  Shara  Mangathai,  had
+to  the  Northwest,  where  lived  three  hundred  and  sixty  Mangathais.  Of  those  the  greatest,  Danjin  Shara  Mangathai,  had
 seventy-three  heads.
 
 Gesir  Bogdo  turned  his  horse  and  armor  into  a  flint,  put  the
 flint  into  his  pocket,  became  a  weak  old  man,  and  went  to  the
 yurta  of  the  Mangathais.
 
-"A  splendid  dinner  has  come  of  itself,"  said  the  chief  Man-
-gathai.    "I  was  without  a  dinner,  now  I  have  one."
+"A  splendid  dinner  has  come  of  itself,"  said  the  chief  Mangathai.    "I  was  without  a  dinner,  now  I  have  one."
 
 "What  dinner  am  I  for  you  ?  I  am  an  old  man,"  said  Gesir
 Bogdo.    "I  paint.    Have  you  no  work  for  me  to  do  ?"
@@ -6896,23 +6370,18 @@ The  old  man  began  painting,  and  as  he  painted  he  said,
 perish!"
 
 "What  are  you  saying?"  as^ed  the  Mangathais,  and  Gesir
-Bogdo  answered,  "I  say,  let  the  three  hundred  and  sixty  Man-
-gathais increase,  let  the  Black  Colt  people  perish."
+Bogdo  answered,  "I  say,  let  the  three  hundred  and  sixty  Mangathais increase,  let  the  Black  Colt  people  perish."
 
 Instead  of  painting,  Gesir  Bogdo  was  making  the  yurta  iron
 inside.  When  he  had  finished  inside  he  went  outside,  and
 painted  until  the  outside  of  the  yurta  was  iron  also.  Then,
 going  to  the  smoke  hole,  he  said :
 
-"Let  thirteen  enchantments  lie  on  this  yurta.  Let  twenty-
-three  iron  hoops  surround  it.  Let  the  three  hundred  and  sixty
+"Let  thirteen  enchantments  lie  on  this  yurta.  Let  twentythree  iron  hoops  surround  it.  Let  the  three  hundred  and  sixty
 Mangathais  perish,  and  the  Black  Colt  people  increase."
 
-"What  art  thou  muttering  up  there?"  asked  the  chief  Man-
-gathai.   "I  was  saying,  'Let  thirteen  enchantments  settle  down
+"What  art  thou  muttering  up  there?"  asked  the  chief  Mangathai.   "I  was  saying,  'Let  thirteen  enchantments  settle  down
 
-
-MYTHS  AND  MONGOL  RELIGION  133
 
 on  this  yurta,  let  twenty-three  iron  hoops  surround  it,  let  the
 three  hundred  and  sixty  Mangathais  perish  inside  it !'"
@@ -6926,12 +6395,8 @@ with  the  ground.  The  chief  Mangathai  stuck  one  of  his  heads
 through  the  opening.  Gesir  crushed  it  with  a  mighty  blow
 from  a  seventy  pood  hammer  sent  him  by  his  grandfather,
 Esege  Malan.  Then  he  asked  the  Burkans  for  an  iron  hero  to
-watch  at  the  yurta  and  crush  with  the  hammer  any  Man-
-gathai who  should  try  to  escape.  Thus  perished  the  Man-
+watch  at  the  yurta  and  crush  with  the  hammer  any  Mangathai who  should  try  to  escape.  Thus  perished  the  Man-
 gathais, "evil  creatures  who  lived  in  a  world  preceding  this."
-
-
-134    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 
 GESIR   BOGDO.    No.  Ill
@@ -6948,8 +6413,7 @@ When  Atai  Ulan  arrived  with  his  forces  Khan  Tyurmas  was
 not  at  the  place  appointed.  He  was  not  there  because  he  had
 gone  to  his  grandmother,  who  lived  in  the  West,  at  Yolda  Molyan
 Qurme  Tudi.  He  went  to  ask  her  advice.  While  at  Yolda
-Molyan  he  got  drunk  on  tarasun,  spent  six  days  in  his  grand-
-mother's company,  and  forgot  his  contest  altogether.
+Molyan  he  got  drunk  on  tarasun,  spent  six  days  in  his  grandmother's company,  and  forgot  his  contest  altogether.
 
 Atai  Ulan  waited  one  day,  waited  two  days.  After  three  days
 had  passed  he  took  possession  of  Segel  Sebdik,  and  turned
@@ -6959,8 +6423,7 @@ did  not  dare  to  fight,  hence  the  case  was  won  by  him.
 Then  the  youngest  son  of  Khan  Tyurmas,  Gesir  Bogdo,  a
 boy  four  years  of  age,  caught  his  father's  horse,  saddled  him,
 put  on  his  father's  clothes,  took  his  weapons,  and  with  a  long
-spear  in  his  hand  rode  out  to  war  against  Atai  Ulan.  He  over-
-took Atai  when  he  was  in  the  middle  of  his  own  dominions,
+spear  in  his  hand  rode  out  to  war  against  Atai  Ulan.  He  overtook Atai  when  he  was  in  the  middle  of  his  own  dominions,
 and  half-way  home.  He  thrust  this  spear  into  Atai's  right
 side,  unhorsed  him,  and  cast  him  down  from  the  sky  to  the
 earth.
@@ -6972,14 +6435,10 @@ destroy  people.
 The  thousand  Burkans,  who  live  above  the  many  skies,
 assembled  on  Dolon  Odun  (Great  Bear,  the  seven  stars)  and
 counseled  what  to  do  to  stop  the  activity  of  all  the  evil  spirits
-that  come  from  Atai  Ulan,  that  is,  to  set  aside  evil.  They  de-
-cided to  send  to  the  earth  Dashin  Shuher,  the  eldest  son  of  Khan
+that  come  from  Atai  Ulan,  that  is,  to  set  aside  evil.  They  decided to  send  to  the  earth  Dashin  Shuher,  the  eldest  son  of  Khan
 
 
-MYTHS  AND  MONGOL  RELIGION    135
-
-Tyurmas,  and  said  that  he  might  be  able  to  conquer  the  Man-
-gathais.    But  Dashin  Shuher  would  not  go.         *
+Tyurmas,  and  said  that  he  might  be  able  to  conquer  the  Mangathais.    But  Dashin  Shuher  would  not  go.         *
 
 "I  will  not  go,"  said  he.  "Let  him  go,  who  overthrew  and
 hurled  down  Atai  Ulan.    Let  Gesir  Bogdo  go."
@@ -7026,8 +6485,6 @@ sorts;  besides,  give  me  all  that  I  may  ask  for  to  carry  out  what
 I  wish.    Leave  me  not  on  earth  without  protection."
 
 
-136    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 After  this  he  went  to  earth  again  and  entered  his  mother  a
 second  time.  The  woman  was  greatly  alarmed  at  this  second
 visit,  and  counseled  with  the  old  man,  her  husband.  "Do  not
@@ -7058,8 +6515,7 @@ what  you  like  with  him."
 The  old  man  cared  for  the  child,  and  in  three  days  the  boy
 spoke:  "To-morrow,"  said  he,  "before  sunrise  you  must  put
 me  in  a  cradle.  I  will  cry,  cry  all  the  time.  You  must  sway  the
-cradle,  and  the  more  you  sway  it  the  more  I  will  cry.  At  sun-
-rise two  men  will  come,  they  will  hear  me  cry,  and  ask:  'What
+cradle,  and  the  more  you  sway  it  the  more  I  will  cry.  At  sunrise two  men  will  come,  they  will  hear  me  cry,  and  ask:  'What
 have  you  here  in  this  cradle?'  You  will  say:  'We  know  not,
 whether  it  is  a  child,  or  some  ugly  creature;  its  legs  are  bent
 upward,  its  hands  are  twisted  behind  its  back.  Can  you  free
@@ -7075,8 +6531,6 @@ Then,  just  at  sunrise,  as  he  had  said,  two  young  men  entered
 the  yurta  and  asked :
 
 
-MYTHS  AND  MONGOL  RELIGION    137
-
 "What  have  you  here  in  the  cradle?  Why  does  it  not  keep
 its  tongue  in  its  mouth?"
 
@@ -7089,8 +6543,7 @@ the  child  to  them.  The  boy  stretched,  struck  out  his  hands  and
 feet  with  such  force  that  it  hurled  down  the  strangers,  crushed
 them,  killed  them  both.
 
-Then  the  child  said  to  the  old  man  and  its  mother:  "To-
-morrow I  will  cry  and  do  you  try  to  hush  me,  rock  me,  sing  to
+Then  the  child  said  to  the  old  man  and  its  mother:  "Tomorrow I  will  cry  and  do  you  try  to  hush  me,  rock  me,  sing  to
 me,  talk  to  me.  Two  young  men  will  come  in  and  ask  the  same
 questions  as  those  asked  to-day,  and  I  will  kill  them,  just  as  I
 killed  those  two."
@@ -7105,8 +6558,7 @@ is  the  matter  with  its  tongue,  there  are  pimples  on  it.  Can  ye  not
 cure  the  poor  child?'  They  will  say:  'Oh,  yes,  only  give  the
 child  here,  we  will  cure  it.'     Ye  will  give  me  into  their  arms."
 
-The  Shalmos  came  in  the  form  of  young  men,  asked  ques-
-tions, and  were  ready  to  cure  the  crying  infant.  The  mother
+The  Shalmos  came  in  the  form  of  young  men,  asked  questions, and  were  ready  to  cure  the  crying  infant.  The  mother
 gave  the  child  to  the  foremost  of  the  Shalmos.  The  little  boy
 opened  his  mouth,  the  stranger  put  out  his  tongue,  the  child
 caught  it,  drew  it  in  hard,  then  sucked  it  out  roots  and  all,  and
@@ -7122,8 +6574,6 @@ bottle  with  milk  and  put  it  in  the  cradle  at  sunrise,  carry  the
 cradle  to  the  roadside,  and  leave  me  there  till  sunset.  If  not  I
 shall  not  be  thy  son."
 
-
-138    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Next  morning  they  put  him,  as  he  wished,  near  the  roadside.
 At  midday  came  two  mighty  ravens,  with  iron  beaks  and  iron
@@ -7145,8 +6595,7 @@ time.    The  ravens  flew  away  small,  insignificant,  and  weak.
 At  sunset  the  old  man  and  woman  came  and  took  the  child
 home.  He  gave  directions  to  be  carried  out  a  second  time,  in
 just  the  same  way.  The  second  day  they  left  him  by  the  roadside.
-Three  valleys  distant  was  a  mighty  mosquito  as  big  as  any  bul-
-lock; it  had  a  great  bone  sting,  sharp  as  a  war  spear.  It  had
+Three  valleys  distant  was  a  mighty  mosquito  as  big  as  any  bullock; it  had  a  great  bone  sting,  sharp  as  a  war  spear.  It  had
 bone  legs  as  hard  as  horse  legs,  and  it  had  tremendous  strength
 in  its  bulky  body.
 
@@ -7171,16 +6620,13 @@ walk  yet,"  said  the  father  and  mother.  "Some  person  there
 would  crush  thee  to  death."
 
 
-MYTHS  AND  MONGOL  RELIGION    139
-
 "The  khan's  daughter  is  to  take  me  as  bridegroom,  and  I
 must  go,"  answered  the  boy.
 
 He  made  them  gird  his  goat  skin  on,  and  then  he  toddled  off.
 When  out  of  sight  he  called  on  the  thousand  Burkans  to  send
 his  steed,  with  outfit  for  beast  and  rider.  The  steed  was  there
-immediately.  It  was  ninety  fathoms  long,  and  other  parts  ac-
-cordingly. The  saddle  was  of  smooth  silver,  the  saddle  cloth
+immediately.  It  was  ninety  fathoms  long,  and  other  parts  accordingly. The  saddle  was  of  smooth  silver,  the  saddle  cloth
 of  silk,  the  bridle  of  silver.  The  trousers  of  the  rider  were  of
 elk  skin,  the  cap  of  sable,  boots  of  fish  skin,  coat  of  silk  and  belt
 of  silver.
@@ -7218,8 +6664,6 @@ She  was  held  to  the  yurta  by  magic.  She  had  to  stay  there
 all  that  night.  She  knew  not  what  had  become  of  her  new
 husband,  but  when  she  went  out  of  the  yurta  to  escape  she  saw
 
-
-140    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 a  boy  tumbling  in  through  the  doorway,  and  thought  him  some
 ugly,  dirty,  unknown  little  urchin.
@@ -7269,8 +6713,6 @@ then  he  followed  her.  Esege  Malan  was  so  angry  that  he  pulled
 in  the  rainbow  and  put  it  down  on  the  earth  where  it  has  re-
 
 
-MYTHS  AND  MONGOL  RELIGION    141
-
 mained,  and  there  has  never  been  a  rainbow  in  heaven  since  that
 morning.
 
@@ -7308,8 +6750,7 @@ and  the  knobs,  but  could  not  injure  them  in  any  way,  could  not
 do  the  least  harm  to  them,  but  they  returned  to  the  Mangathai
 and  told  him  that  they  had  destroyed  the  weapons.
 
-The  Mangathai  now  went  to  fight  with  Gesir  Bogdo,  think-
-ing that  if  his  weapons  were  destroyed  he  could  be  killed  easily.
+The  Mangathai  now  went  to  fight  with  Gesir  Bogdo,  thinking that  if  his  weapons  were  destroyed  he  could  be  killed  easily.
 About  midnight  the  dogs  at  Gesir  Bogdo's  yurta  began  to  bark,
 and  Sangha  Gohun  said:
 
@@ -7322,28 +6763,23 @@ to  defend  his  yurta.  The  Mangathai  appeared  at  a  distance,
 riding  on  an  immense  stallion,  but  when  he  saw  Gesir  Bogdo
 
 
-142    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 ready  and  brandishing  his  weapons  he  turned  quickly  to  flee
 from  him.  Gesir  sent  his  arrow.  "  Go,"  said  he  to  the  arrow,
 "and  cut  off  the  right  arm  of  that  Mangathai,  and  then  cut  off
 .all  his  heads."
 
-The  arrow  did  as  commanded.  Then  Gesir  burned  the  Man-
-gathai's  body  and  scattered  the  ashes.
+The  arrow  did  as  commanded.  Then  Gesir  burned  the  Mangathai's  body  and  scattered  the  ashes.
 
 Three  days  later  the  thirty-three  mighty  champions  came  to
 him.  Gesir  Bogdo  was  angry  and  reproached  them.  They  told
 him  that  Gal  Nurman  Khan  (fire  ashes  and  fire)  was  at  war
-and  they  begged  him  to  go  with  them  to  the  war.  He  was  un-
-willing, and  said  that  they  must  not  go  to  war  in  a  year  of  bad
+and  they  begged  him  to  go  with  them  to  the  war.  He  was  unwilling, and  said  that  they  must  not  go  to  war  in  a  year  of  bad
 grass  and  great  accidents.
 
 "Take  us !  Take  us  even  for  three  days ! "  urged  they.  When
 Gesir  refused,  they  took  skin  straps  and  hair  ropes  and  declared
 that  as  it  was  better  to  die  than  to  be  deprived  of  such  pleasure,
-they  were  going  to  hang  themselves.  Then  Gesir  Bogdo  prom-
-ised to  go  with  them.  He  sent  them  to  collect  all  weapons  that
+they  were  going  to  hang  themselves.  Then  Gesir  Bogdo  promised to  go  with  them.  He  sent  them  to  collect  all  weapons  that
 were  of  use  in  war;  and  in  three  days  the  thirty-three  champions
 and  three  thousand  men  were  armed  properly.
 
@@ -7351,13 +6787,11 @@ Gesir  Bogdo  mounted  his  wonderful  steed  and  went  in  his
 dress  of  a  hero,  which  he  always  wore  now.  The  thirty-three
 mighty  champions  were  afraid  of  Gal  Nurman,  with  whom  they
 were  going  to  fight,  for  he  never  slept  save  for  a  few  moments
-just  before  daybreak,  hence  they  decided  to  climb  a  high  moun-
-tain and  watch  from  there.
+just  before  daybreak,  hence  they  decided  to  climb  a  high  mountain and  watch  from  there.
 
 They  climbed  the  mountain  and  waited,  watched  to  see  if
 Gal  Nurman  would  come  out  as  fire,  or  in  his  own  shape.  He
-was  off  in  the  southeast,  but  he  saw  them  and  stood  up  immedi-
-ately; drank  tarasun,  mounted  his  golden  bay  steed  and  started,
+was  off  in  the  southeast,  but  he  saw  them  and  stood  up  immediately; drank  tarasun,  mounted  his  golden  bay  steed  and  started,
 without  armor  or  attendants;  rode  out  against  them,  rode
 straight  to  where  Gesir  Bogdo  was,  and   asked:
 
@@ -7374,16 +6808,13 @@ other's  breasts  with  their  teeth.
 Vassva,  his  Father,  and  Mr.  Curtis.".     Page  33
 
 
-MYTHS  AND  MONGOL  RELIGION    143
-
 At  last  Gal  Nurman  began  to  overpower  Gesir  Bogdo,  then
 two  of  Gesir's  mighty  champions  sprang  forward;  one  of  them
 seized  Gal  Nurman's  right  leg.  Gal  kicked  him  and  sent  him
 rolling,  turning  over  and  over  down  the  hill.  Then  the  other
 champion  seized  Gal's  left  leg.  Gal  kicked,  and  sent  him  rolling
 and  turning  in  the  same  way.  Then  Gesir  Bogdo  called  on  the
-Burkans  to  help  him,  but  they  would  not ;  they  were  angry  be-
-cause Sangha  Gohun,  his  wife,  had  followed  him  up  the  rainbow
+Burkans  to  help  him,  but  they  would  not ;  they  were  angry  because Sangha  Gohun,  his  wife,  had  followed  him  up  the  rainbow
 to  the  sky.  Then  Gesir  called  on  his  brother  Dashin  Shuher.
 He  came  immediately,  and  the  two  killed  Gal,  put  his  body  in
 an  iron  cask,  and  rolled  it  into  the  sea ;  then  they  went  to  Gal's
@@ -7407,8 +6838,7 @@ to  the  furnace  the  boy  was  playing  with  live  coals.  "Ah,  father,"
 cried  he,  "into  what  a  nice  warm  place  thou  didst  put  me !"
 
 The  second  night  Gesir  made  a  still  greater  fire,  and  put  the
-child  into  it.  The  second  morning  he  again  found  the  boy  play-
-ing with  the  live  coals.  The  third  night  Gesir  watched  the
+child  into  it.  The  second  morning  he  again  found  the  boy  playing with  the  live  coals.  The  third  night  Gesir  watched  the
 child  and  saw  that  a  red  and  green  tube  came  down  from  the
 sky  to  his  navel.  It  raised  the  child  up,  and  a  stream  of  water
 fell  on  him.  Bogdo  took  an  arrow,  shot  at  the  tube  and  cut  it.
@@ -7420,8 +6850,6 @@ domain  he  told  them  where  to  live,  fixed  homes  for  them.  Then
 he  went  into  his  white  stone  yurta  and  lay  down  to  sleep,  but
 first  he  said  to  Sangha  Gohun:  "In  case  of  danger  if  you  can-
 
-
-144    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 not  rouse  me  take  my  sword  and  stab  me  in  the  right  heel.  If
 that  does  not  rouse  me  stab  me  in  the  right  thigh.  If  that  fails
@@ -7472,30 +6900,24 @@ small  pieces,  and  come  back  to  me."
 He  whispered  with  such  force  to  the  arrow,  that,  from  magic,
 
 
-MYTHS  AND  MONGOL  RELIGION    145
-
 red  fire  appeared  on  the  bow  where  the  arrow  touched  it,  and
 little  blue  flames  ran  along  the  whole  bowstring.  He  drew  the
 arrow  to  the  very  head,  drew  it  back  until  the  bow  was  like  half
-a  circle,  then  let  the  arrow  fly.  It  went  straight  to  the  Manga-
-thai, struck  his  spinal  column  below  the  neck,  broke  his  right
+a  circle,  then  let  the  arrow  fly.  It  went  straight  to  the  Mangathai, struck  his  spinal  column  below  the  neck,  broke  his  right
 arm,  went  into  his  left  side  and  cut  his  heart  and  lungs  into  small
 pieces,  killed  him ;  then  returned  to  Gesir  Bogdo  with  a  whistle,
 and  went  of  itself  into  the  quiver.
 
 Now  the  Mangathai's  horse  cried  out  to  Gesir:  "Thou  hast
 killed  my  master,  but  thou  wilt  never  kill  me.  May  my  body
-break  into  bits  if  I  yield  to  thee !"  Then  he  rushed  away  south-
-west to  the  great  barren  steppe.
+break  into  bits  if  I  yield  to  thee !"  Then  he  rushed  away  southwest to  the  great  barren  steppe.
 
 "Where  art  thou,  my  blue  steed,  ninety-nine  fathoms  long?"
 called  Gesir.
 
 That  moment  the  horse  appeared.  Gesir  Bogdo  sprang  on  to
-him  without  a  saddle.  The  horse  said :  "I  will  not  let  the  Man-
-gathai's horse  run  across  five  valleys  till  I  have  bitten  the  strong
-muscle  in  the  back  of  his  leg,  and  he  will  not  run  across  six  val-
-leys till  I  have  him  by  the  bridle  bit."
+him  without  a  saddle.  The  horse  said :  "I  will  not  let  the  Mangathai's horse  run  across  five  valleys  till  I  have  bitten  the  strong
+muscle  in  the  back  of  his  leg,  and  he  will  not  run  across  six  valleys till  I  have  him  by  the  bridle  bit."
 
 Then  he  ran  with  all  his  strength,  and  at  the  fifth  valley  so
 nearly  overtook  the  Mangathai's  horse  that  he  bit  the  strong
@@ -7521,10 +6943,6 @@ others  come  to  assist  them."
 
 Again  he  fell  asleep.    But  his  men,  instead  of  watching,  began
 
-10
-
-
-146    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 to  play  games.  Meanwhile  a  Mangathai  with  twenty-seven
 heads  came  upon  them.  Gesir  with  his  magic  knew  of  this;
@@ -7534,8 +6952,7 @@ Mangathai,  saw  that  he  went  to  the  seashore,  where  they  had
 pulled  up  the  silver-leafed  aspen  tree,  and  went  into  the  hole
 there.
 
-Gesir  watched  and  waited  all  night.  At  daybreak  the  Manga-
-thai thrust  his  heads  up  through  the  hole  to  look  around.  At
+Gesir  watched  and  waited  all  night.  At  daybreak  the  Mangathai thrust  his  heads  up  through  the  hole  to  look  around.  At
 that  moment  Gesir  sent  his  arrow  and  cut  off  the  twenty-seven
 heads  of  the  Mangathai.  This  Mangathai's  horse  called  out  in
 the  manner  of  the 'first  horse,  and  was  treated  in  the  same  way:
@@ -7573,13 +6990,10 @@ Gesir  was  dreadfully  wearied  after  killing  this  fifty-three
 headed  Mangathai.     "I  must  sleep  now,"  said  he  to  Sangha
 
 
-MYTHS  AND  MONGOL  RELIGION    147
-
 Gohun.  "I  must  sleep  for  nine  days  and  nine  nights.  Watch,
 sleep  not,  waken  me  as  before."  1 '
 
-Gesir  had  slept  three  days  and  three  nights  when  a  seventy-
-seven  headed  Mangathai  came.  He  was  more  cautious  at  first
+Gesir  had  slept  three  days  and  three  nights  when  a  seventyseven  headed  Mangathai  came.  He  was  more  cautious  at  first
 than  any  of  the  others,  for  his  brothers  had  been  killed.  He
 watched  from  a  distance,  standing  on  a  mountain.
 
@@ -7623,17 +7037,13 @@ world  of  stories.  It  is  not  as  beautiful  as  some,  but  it  is  the  gr
 is  true."
 
 
-148    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-"  Go  into  the  open  steppe,  where  the  fifty  pine  trees  are  grow-
-ing ;  I  will  meet  thee  in  that  place."
+"  Go  into  the  open  steppe,  where  the  fifty  pine  trees  are  growing ;  I  will  meet  thee  in  that  place."
 
 The  Mangathai  went  to  the  fifty  pine  trees,  killed  two  splendid
 deer,  male  and  female,  put  them  on  spits,  and  was  roasting
 them  in  front  of  a  big  fire  when  Gesir  Bogdo  rode  up  suddenly,
 seized  one  of  the  spits,  sat  down  on  the  ground,  and  fell  to  eating.
-The  Mangathai  rushed  at  him  with  his  axe ;  Gesir  turned  him-
-self into  rock.  The  Mangathai  struck  till  he  was  tired,  but
+The  Mangathai  rushed  at  him  with  his  axe ;  Gesir  turned  himself into  rock.  The  Mangathai  struck  till  he  was  tired,  but
 made  no  impression  on  the  hard,  white  rock ;  he  only  broke  his
 axe  on  it.  When  the  axe  was  broken  Gesir  took  his  own  form
 and  said  to  the  Mangathai :
@@ -7641,8 +7051,7 @@ and  said  to  the  Mangathai :
 "Who  art  thou  who  strikes  and  tries  to  kill  people  when  they
 are  lying  down?"  and  he  hit  him  such  a  blow  that  the  blood
 gushed  from  his  nostrils.  "Thou  and  thy  brothers,"  roared
-Gesir  with  a  shout  that  was  heard  in  the  fifty-fifth  sky,  "are  al-
-ways coming  with  war,  and  never  with  peace.  Ye  are  great
+Gesir  with  a  shout  that  was  heard  in  the  fifty-fifth  sky,  "are  always coming  with  war,  and  never  with  peace.  Ye  are  great
 fools!"
 
 Not  only  was  the  blow  which  followed  the  roar  heard  in  the
@@ -7660,8 +7069,7 @@ said:
 "There  is  a  young  Mangathai;  I  hope  he  will  come  soon."
 Gesir  drank  tarasun,  and  went  around  and  gave  directions  to  his
 people.  While  doing  this  he  saw,  coming  on  a  fiery,  red  horse,  a
-young  man  with  a  neck  like  a  bull;  he  had  a  white  face,  enor-
-mous eyes,  and  ears  with  big  rings  in  them.  When  he  saw  Gesir
+young  man  with  a  neck  like  a  bull;  he  had  a  white  face,  enormous eyes,  and  ears  with  big  rings  in  them.  When  he  saw  Gesir
 Bogdo  he  shouted:   "Be  greeted  !  "
 
 "Be  greeted  !"  said  Gesir  in  reply.
@@ -7674,11 +7082,8 @@ Bogdo  agreed,  but  said :  "It  is  not  convenient  to  wrestle  here,
 let  us  go  out  on  that  broad,  barren  steppe,  where  the  fifty  pine
 
 
-MYTHS  AND  MONGOL  RELIGION    149
-
 trees  are  growing."  And  taking  his  weapons,  he  mounted  his
-steed  and  went  to  the  place  where  he  had  fought  with  the  Manga-
-thai.
+steed  and  went  to  the  place  where  he  had  fought  with  the  Mangathai.
 
 They  began  to  wrestle  and  wrestled  for  three  days.  Wherever
 they  pressed  their  feet  they  knocked  out  a  piece  of  earth  as  big
@@ -7692,8 +7097,7 @@ second  life  was  in  a  vial,  and  the  Burkan,  Hulgin  Sagan  Namo,
 kept  the  vial  between  his  knees,  and  his  hand  was  always  closed
 on  the  mouth  of  the  vial.
 
-The  life  of  the  Mangathai  was  on  a  mountain  in  the  south-
-west. On  that  mountain,  in  the  top  branches  of  a  golden-
+The  life  of  the  Mangathai  was  on  a  mountain  in  the  southwest. On  that  mountain,  in  the  top  branches  of  a  golden-
 trunked,  silver-leafed  aspen,  at  the  foot  of  which  flowed  the
 Water  of  Youth  and  Life,  sat  the  king  of  birds,  Elian  Herdik
 Shubun.  In  the  outside  feathers  of  the  right  wing  of  that  bird
@@ -7715,15 +7119,12 @@ could  not  fly  to  it,  so  Gesir  Bogdo  took  an  arrow  from  his  quiver,
 and  said  to  it:
 
 "Go  to  the  top  of  the  golden-trunked  aspen  tree  where  the
-king  of  birds  is  sitting;  go  when  he  is  sleeping,  pluck  the  out-
-side feather  from  his  right  wing,  and  bring  it  hither."
+king  of  birds  is  sitting;  go  when  he  is  sleeping,  pluck  the  outside feather  from  his  right  wing,  and  bring  it  hither."
 
 Gesir  was  not  sure  that  it  was  the  life  that  he  wanted,  but  it
 proved  to  be.  The  next  morning  Gesir  said  to  the  Mangathai:
 "As  master  of  this  land  I  will  shoot  first."
 
-
-150    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 "No,"  said  the  Mangathai,  "I  come  from  afar;  I  am  a  guest,
 the  first  shot  is  mine."
@@ -7739,8 +7140,7 @@ and  out  under  the  other.  Gesir  caught  the  arrow  as  it  came  out,
 planted  it  in  his  saddle,  put  stones  against  the  wound  to  stop
 the  blood,  and  screamed  to  the  Mangathai:
 
-"What  kind  of  archer  art  thou,  that  can  only  hit  my  saddle-
-bow?"
+"What  kind  of  archer  art  thou,  that  can  only  hit  my  saddlebow?"
 
 Gesir  kept  the  stones  against  his  wounds,  and  in  two  days  he
 had  recovered.  The  Mangathai  grew  well  also ;  then  he  mounted
@@ -7761,22 +7161,16 @@ must  rest  two  days  or  three."    And  he  went  to  his  yurta.
 
 Gesir  knew  now  that  one  of  the  Mangathai's  lives  was  in  the
 feather,  and  he  set  out  for  the  Milk  Sea  to  find  the  Mangathai's
-grandmother  and  get  the  second  life.  By  magic  he  made  him-
-self exactly  like  the  Mangathai.
+grandmother  and  get  the  second  life.  By  magic  he  made  himself exactly  like  the  Mangathai.
 
 When  Gesir  reached  the  Milk  Sea,  not  knowing  the  way  into
-it,  he  began  to  weep  and  call,  "Oh,  grandmother,  grand-
-mother come  out.  Come  up  to  me.  I  have  been  fighting  three
-years  with  Gesir  Bogdo,  and  have  worn  out  my  strength.  In-
-side me  there  is  no  power,  outside  I  have  nothing."
+it,  he  began  to  weep  and  call,  "Oh,  grandmother,  grandmother come  out.  Come  up  to  me.  I  have  been  fighting  three
+years  with  Gesir  Bogdo,  and  have  worn  out  my  strength.  Inside me  there  is  no  power,  outside  I  have  nothing."
 
-The  old  grandmother  came  from  the  sea,  and  was  wonder-
-fully glad  to  look  at  her  grandson.  She  took  him  on  her  knees
+The  old  grandmother  came  from  the  sea,  and  was  wonderfully glad  to  look  at  her  grandson.  She  took  him  on  her  knees
 and  to  strengthen  him  gave  him  her  breast.  "Oh,"  said  she,
 "I  am  astonished,  my  children  do  not  draw  as  they  used  to."
 
-
-MYTHS  AND  MONGOL  RELIGION    151
 
 "I  have  been  fighting  three  years,  of  course  I  cannot  draw  as
 I  used  to,"  said  Gesir.  Then  he  drew  the  breast  so  hard  that
@@ -7826,8 +7220,6 @@ skylarks.
 "Hast  thou  ever  seen  such  beautiful  birds?"   asked  he.
 
 
-152    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 The  Mangathai  was  dreadfully  frightened,  and  cried :
 
 "Oh,  it  is  a  terrible  sin  for  a  young  man  to  take  hold  of  those
@@ -7875,8 +7267,6 @@ An  old  man  from  the  North  stepped  out  of  the  crowd  and  said :
 "I  can  give  a  name.  The  eldest  son  of  Gesir  Bogdo  will  be
 called  Ashir  Bogdo."
 
-
-MYTHS  AND  MONGOL  RELIGION    153
 
 Gesir  accepted  the  name,  gave  the  old  man  the  bone  of  the
 bull  and  three  gallons  of  tarasun,  and  when  the  time  came  sent
@@ -7927,8 +7317,6 @@ bring  her  not.    Do  what  pleases  thee."
 He  made  ready,  mounted  his  steed  in  full  outfit  as  at  first,  and
 
 
-154    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 rode  away  to  Gal  Tulan  Tengeri's  kingdom.  He  traveled  night
 and  day  at  a  gallop.  At  last  he  came  to  a  bronze  and  silver
 square  where  man  had  never  sat.  In  that  square  was  a  spring
@@ -7975,21 +7363,17 @@ if  it  is  thy  wish."  Bogdo  sprang  from  the  saddle-tree  over  the
 horse's  head  and  was  on  the  summit.    That  done  he  drew  the
 
 
-MYTHS  AND  MONGOL  RELIGION    155
-
 horse  up  by  the  strong  bridle  and  they  lay  there,  both  of  them,
 on  the  top  of  the  mountain  for  twenty-four  hours  without
 moving.  When  they  came  to  their  senses  and  looked  around
 they  saw  a  spring  near  them.  In  this  spring  was  the  Water  of
-Life  and  Youth  which  gushed  forth  at  the  foot  of  a  golden-
-trunked,  silver-leafed  aspen  tree;  on  a  branch  of  the  tree  a  cup
+Life  and  Youth  which  gushed  forth  at  the  foot  of  a  goldentrunked,  silver-leafed  aspen  tree;  on  a  branch  of  the  tree  a  cup
 was  hanging.
 
 Gesir  took  one  of  the  silver  leaves  of  the  golden  tree,  ate  it  and
 gave  another  silver  leaf  to  his  stallion.  Then  he  drank  a  cup
 of  the  water  and  gave  one  to  his  horse.  He  took  the  saddle  from
-his  steed  with  great  difficulty,  so  firmly  had  it  clung  to  the  saddle-
-cloth; the  saddle-cloth  itself  had  so  clung  to  the  horse  that  it
+his  steed  with  great  difficulty,  so  firmly  had  it  clung  to  the  saddlecloth; the  saddle-cloth  itself  had  so  clung  to  the  horse  that  it
 had  almost  grown  to  him.
 
 Gesir  fettered  his  steed  and  led  him  out  to  graze.  At  that
@@ -8019,15 +7403,11 @@ sun's  road  (in  the  same  direction  as  the  sun).
 In  front  of  Gal  Tulan's  yurta  was  a  tree  of  such  size  that  a
 man  on  the  swiftest  horse  could  hardly  ride  around  it  in  a  day.
 On  its  boughs  thousands  of  heavenly  birds  were  singing ;  on  its
-branches  hung  all  the  written  wisdom  in  existence.  The  re-
-ligions of  all  peoples  were  recorded  and  hanging  there.
+branches  hung  all  the  written  wisdom  in  existence.  The  religions of  all  peoples  were  recorded  and  hanging  there.
 
-
-156    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 After  Gesir  had  gone  around  on  the  sun's  road  for  three  days,
-praying  to  the  Burkans,  the  doors  of  the  yurta  opened  of  them-
-selves on  the  west  and  he  entered.
+praying  to  the  Burkans,  the  doors  of  the  yurta  opened  of  themselves on  the  west  and  he  entered.
 
 The  rooms  inside  were  without  doors,  apparently,  as  well  as
 the  outer  walls  of  the  yurta.  Gesir  prayed  one  day  and  one
@@ -8073,8 +7453,6 @@ above  the  earth  Gesir  sprang  up  at  the  call  of  Gal  Tulan,  who
 shouted :    "Art  thou  sorry  to  leave  a  soft  bed  ?"
 
 
-MYTHS  AND  MONGOL  RELIGION    157
-
 "Soft  meat  needs  no  knife,  a  true  word  needs  no  road.  My
 bride  had  so  much  to  say  that  time  passed  without  notice  till  the
 sun  was  half  up.  When  our  fathers  made  the  agreement  what
@@ -8087,8 +7465,7 @@ Gesir  went  west  that  day  and  up  to  the  region  of  the  fifty-five
 Tengeris.  He  went  first  to  the  seven  smiths  of  the  sky;  they
 were  to  make  for  him  the  arms  and  armor  of  a  warrior.  He  told
 them  that  he  had  promised  the  arms  and  armor  to  Gal  within
-three  days.  It  took  him  one  day  and  one  night  to  go  to  the  sky-
-smiths.
+three  days.  It  took  him  one  day  and  one  night  to  go  to  the  skysmiths.
 
 Then  Gesir  went  to  his  father,  and  told  him  that  Khan  Tulan
 had  given  him  but  three  days,  and  he  asked  for  the  gold.  Khan
@@ -8125,8 +7502,6 @@ Gal  Tulan  assented,  Gesir's  horse  was  saddled,  and  a  horse  for
 the  bride  was  brought;   its  body  was  ninety  fathoms  long  and
 
 
-158    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 its  ears  nine  ells  high;  he  was  a  bay,  with  a  star  on  the
 forehead.
 
@@ -8160,8 +7535,7 @@ That  moment  another  third  remained  behind,  and  only  the  last
 third  was  following.
 
 They  traveled  in  the  sky  till  above  the  mountain  where  the
-Water  of  Youth  and  Life  was,  and  the  golden-trunked,  silver-
-leafed  aspen  tree.
+Water  of  Youth  and  Life  was,  and  the  golden-trunked,  silverleafed  aspen  tree.
 
 Gesir's  father-in-law  had  given  him  a  silver  stairway.  On  this
 stairway  they  came  down  from  the  sky  to  the  mountain;  the
@@ -8183,8 +7557,6 @@ Drying  Fuel — Cow  Droppixgs —  Island  or  Olkhon.     Paye  74
 Church  near  a  Post  Station  on  the  Road  to  Lake  Baikal.     Page  68
 The  place  which  I  called  "  Ragats"
 
-
-MYTHS  AND  MONGOL  RELIGION    159
 
 had  another  wedding  feast  which  lasted  for  nine  days  and  nights,
 with  a  mountain  of  meat,  and  a  sea  of  drink.  On  the  tenth  day
@@ -8234,8 +7606,6 @@ He  plowed  all  day  with  Gesir  Bogdo,  then  tied  him  firmly  in  the
 iron  stable,  and  closed  the  door  securely.
 
 
-160    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 Sangha  Gohun  with  her  son  left  the  yurta  and  went  southwest
 to  Red  Mountain.  There  the  son  made  a  box  of  bark,  put  his
 mother  inside,  raised  up  the  mountain  and  placed  the  box  under
@@ -8280,8 +7650,6 @@ reached  there,  with  the  stallion  and  all  his  trappings,  the  Iron
 Hero  came,  for  the  thousand  Burkans  had  breathed  into  him
 and  given  him  life.    When  this  hero  walked  seven  acres  of  earth
 
-
-MYTHS  AND  MONGOL  RELIGION    161
 
 groaned  around  him ;  when  he  came  to  the  yurta  Khan  Tyurmas,
 who  was  very  anxious  about  his  son,  said :
@@ -8333,10 +7701,6 @@ then  went  faster  and  faster  till  at  last  he  broke  the  plow,  and
 then  he  dragged  the  Mangathai  in  great  circles  around  the  Iron
 Hero.     The  Iron  Hero  sent  arrow  after  arrow  into  the  Man-
 
-11
-
-
-162    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 gathai's  body,  and  killed  him.  Then  the  blue  stallion  came  up
 to  him  with  the  body  of  the  Mangathai.
@@ -8381,13 +7745,10 @@ ninety-nine  iron  hoops  around  it.  When  they  had  put  her  into
 that  barrel  they  rolled  it  into  the  Lateral  Sea ;  then  all  went  into
 Gesir's  yurta.
 
-"Well,"  asked  Sangha  Gohun,  "didst  thou  have  much  hap-
-piness with  thy  young  wife  ?  If  I  had  not  borne  thee  a  son  and
+"Well,"  asked  Sangha  Gohun,  "didst  thou  have  much  happiness with  thy  young  wife  ?  If  I  had  not  borne  thee  a  son  and
 sent  him  to  the  sky  the  Mangathai  would  be  plowing  with  thee
 yet,  and  beating  thy  lean  body."
 
-
-MYTHS  AND  MONGOL  RELIGION    163
 
 "Now,"  said  the  Iron  Hero  to  Gesir,  "thou  art  my  elder
 brother,  and  I  am  ready  to  help  thee,  but  I  am  old  enough  to
@@ -8397,9 +7758,6 @@ look  for  a  bride."
 to  find  her."
 
 
-164    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-
 THE  IRON  HERO
 
 THE  Iron  Hero  cut  open  his  side,  and  found  a  book  in  his
@@ -8407,8 +7765,7 @@ liver.  He  read  this  book  three  days  and  nights,  without
 stopping ;  at  one  time  he  laughed,  at  another  he  cried,  at  a  third
 he  sang  songs.
 
-In  this  book  it  was  written  that  there  were  seven  noble  Don-
-gins,  that  the  eldest  of  the  seven  had  a  beautiful  daughter  whom
+In  this  book  it  was  written  that  there  were  seven  noble  Dongins,  that  the  eldest  of  the  seven  had  a  beautiful  daughter  whom
 the  Iron  Hero  was  to  marry ;  the  other  six  brothers  were  childless.
 
 Before  he  set  out  to  find  this  bride  the  Iron  Hero  turned  his
@@ -8441,17 +7798,13 @@ does  not  carry  out  what  he  plans  he  would  better  perish.  If  a
 woman  does  not  sew  what  she  has  cut,  better  that  she  cut  off
 
 
-MYTHS  AND  MONGOL  RELIGION    165
-
-her  fingers."  Then  he  made  his  breathing  as  great  as  the  breath-
-ing of  ten  men,  and  the  noise  of  his  car  as  loud  as  the  noise  of
+her  fingers."  Then  he  made  his  breathing  as  great  as  the  breathing of  ten  men,  and  the  noise  of  his  car  as  loud  as  the  noise  of
 ten  carts.
 
 Soon  he  met  a  twenty-five  headed  Mangathai.  When  he  saw
 him  in  front  he  added  to  the  speed  of  his  car,  and  went  so  fast
 that  he  carried  off  the  bottom  of  the  Mangathai's  stirrup  and
-twisted  up  what  was  left  of  it.  He  cut  off  a  part  of  the  Man-
-gathai's right  cheek,  and  went  forward  a  while,  then  turned  his
+twisted  up  what  was  left  of  it.  He  cut  off  a  part  of  the  Mangathai's right  cheek,  and  went  forward  a  while,  then  turned  his
 car  around  toward  the  Mangathai,  saluted,  and  asked  him:
 
 "What  place  dost  thou  wish  now  to  ravage  and  ruin?"
@@ -8487,11 +7840,8 @@ of  which  touched  the  sky.  He  was  frightened ;  he  turned  the  car
 into  a  flint,  himself  into  a  skunk,  and  went  toward  that  iron
 yurta  underground.  He  ate  a  hole  through  the  floors,  and  peeping
 up,  saw  a  hundred  and  eight  headed  Mangathai,  his  feet  against
-one  wall,  his  head  against  another.  This  Mangathai  was  breath-
-ing very  heavily.     Out  of  one  corner  of  his  mouth  a  blue
+one  wall,  his  head  against  another.  This  Mangathai  was  breathing very  heavily.     Out  of  one  corner  of  his  mouth  a  blue
 
-
-166    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 flame  was  quivering,  out  of  the  other  corner  a  red  flame  gushed
 forth.
@@ -8529,8 +7879,7 @@ down  he  mounted  the  car  and  rode  along  swiftly  and  in  comfort.
 At  last  he  saw  a  fifty  headed  Mangathai  riding  on  a  horse  black
 as  the  earth.  The  Mangathai  wore  a  mantle  of  goat  skin,  and
 he  shouted  from  his  horse  to  the  Iron  Hero:  "Thou  hast  killed
-my  father  and  my  younger  brother,  and  now  thou  hast  hap-
-pened into  my  hands  very  luckily ! "
+my  father  and  my  younger  brother,  and  now  thou  hast  happened into  my  hands  very  luckily ! "
 
 He  sprang  from  his  horse,  the  Iron  Hero  leaped  from  his  car,
 and  the  two  went  toward  each  other  like  two  bulls,  or  like  two
@@ -8538,8 +7887,6 @@ black  threatening  clouds,  and  they  closed  in  a  desperate  struggle.
 Each  tore  the  flesh  from  the  back  of  the  other  with  his  fingers,
 and  bit  it  away  from  his  breast  with  his  teeth.    Three  days  and
 
-
-MYTHS  AND  MONGOL  RELIGION    167
 
 nights  did  they  fight.  They  made  hills  and  valleys.  Where  there
 had  been  a  hill  there  was  a  valley  and  where  the  valley  had  been
@@ -8590,10 +7937,7 @@ The  blue  stallion  did  this.  He  brought  the  black  steed  of  the
 Mangathai  to  the  Iron  Hero.    The  Iron  Hero  killed  the  steed
 
 
-168    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-with  the  Mangathai's  axe,  put  a  hill  on  the  dead  Mangathai,  an-
-other one  on  his  steed;  then  he  put  his  blue  stallion  into  his
+with  the  Mangathai's  axe,  put  a  hill  on  the  dead  Mangathai,  another one  on  his  steed;  then  he  put  his  blue  stallion  into  his
 breast  as  a  flint,  and  pushing  his  car  went  into  a  cold  place,  a  land
 so  cold  that  horse  droppings  froze  solid  and  were  as  ice  when
 they  touched  the  ground.
@@ -8613,15 +7957,13 @@ axe  with  a  blade  one  ell  wide.  He  got  the  axe  and  began  to  hew
 and  cut,  but  all  that  he  cut  in  the  day  time  grew  up  again  during
 night  hours.  He  cut  three  days  and  each  night  all  the  trees
 grew  up  again,  and  were  there  in  the  morning.  Seeing  no  good
-in  the  axe  he  took  his  arrow  from  the  quiver  and  spoke  to  it,  say-
-ing: "Cut  thou  the  trees  level  with  the  earth;  cut  a  road  so
+in  the  axe  he  took  his  arrow  from  the  quiver  and  spoke  to  it,  saying: "Cut  thou  the  trees  level  with  the  earth;  cut  a  road  so
 wide  that  a  laden  camel  might  go  through  this  forest  easily,  and
 a  pied  ox  with  a  sleigh  might  pass  without  trouble.  When  all  is
 done  come  back  to  the  quiver."
 
 The  arrow  did  as  commanded.  The  trees  thus  cut  never  grew
-again,  and  the  Iron  Hero  passed  through  the  forest  without  diffi-
-culty. Then  he  went  to  a  high  place  and  looking  down  saw  a
+again,  and  the  Iron  Hero  passed  through  the  forest  without  difficulty. Then  he  went  to  a  high  place  and  looking  down  saw  a
 broad  valley,  and  he  thought,  "To  spring  over  this  valley  —  no
 hero  could  do  that ;  to  pass  through  will  be  difficult ;  there  are  so
 many  serpents  here."
@@ -8636,8 +7978,6 @@ went  into  that  valley.  He  passed  up  and  down,  passed  three
 times  through  the  valley  so  as  not  to  be  suspected,  then  slipped
 out  on  the  opposite  side,  took  the  flint  from  his  pocket,  made
 
-
-MYTHS  AND  MONGOL  RELIGION    169
 
 it  into  a  car  again,  and  became  himself, —  was  the  Iron  Hero
 again.
@@ -8687,8 +8027,6 @@ The  poor  and  maimed  climbed  up  on  foot,  or  crawled  up  as  best
 they  were  able.    They  wore  all  the  flesh  from  the  front  part  of
 
 
-170    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 their  bodies  in  climbing  up,  and  tore  all  the  flesh  off  their  backs
 in  falling  down.  All  who  climbed  fell,  and  every  one  who  fell
 perished.
@@ -8735,10 +8073,7 @@ pushed  it  ahead  toward  the  yurta  till  he  entered  the  courtyard.
 In  the  middle  of  that  courtyard  was  a  pillar  with  branches,  and
 
 
-MYTHS  AND  MONGOL  RELIGION    171
-
-on  those  branches  were  ninety-six  hitching  rings.  Seven  splen-
-did horses  were  tied  to  seven  of  those  hitching  rings.  Each  horse
+on  those  branches  were  ninety-six  hitching  rings.  Seven  splendid horses  were  tied  to  seven  of  those  hitching  rings.  Each  horse
 was  of  a  different  color;  on  the  saddle  of  each  were  the  arms  of
 its  rider.  The  riders  of  those  seven  horses  were  suitors  for  the
 maiden  whom  the  Iron  Hero  wished  to  be  his  wife.
@@ -8773,8 +8108,7 @@ their  horses  and  rode  off  at  a  gallop.
 
 The  old  man  dragged  himself  through  the  chambers.  Sitting
 down  here  and  there  in  each  chamber,  he  soiled  all  the  floors  and
-the  seats.  The  khan  could  do  nothing, —  could  not  frighten,  en-
-tice, or  drive  him  out,  so  he  sent  for  two  heroes  who  lived  in  the
+the  seats.  The  khan  could  do  nothing, —  could  not  frighten,  entice, or  drive  him  out,  so  he  sent  for  two  heroes  who  lived  in  the
 southwest.  It  was  necessary  to  ride  three  days  to  get  to  those
 heroes.  When  the  messenger  reached  them  they  said:  "We
 must  make  ready  our  weapons  and  armor.  Go  home;  we  will
@@ -8784,8 +8118,6 @@ Five  days  the  old  man  was  left  to  himself,  and  during  that
 time  he  soiled  all  the  chambers  of  the  yurta.  Then  he  crawled
 into  the  courtyard,  took  his  car  and  went  to  the  Iron  and  Silver
 
-
-172    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Square  on  the  hilltop;  there  he  made  a  fire  and  lay  down  to
 sleep  quietly.
@@ -8797,8 +8129,7 @@ them.    "Where  is  he  who  is  troubling  thee?"  asked  the  heroes.
 "  He  left  here  just  before  ye  came.  Fifteen  women  are  washing
 the  rooms  which  he  soiled.  He  went  away  when  he  heard  that
 I  had  sent  for  two  great  heroes.  The  seven  suitors  could  not
-drive  off  the  wretched  old  man,  but  he  has  fled  now  to  the  north-
-east, with  his  car."
+drive  off  the  wretched  old  man,  but  he  has  fled  now  to  the  northeast, with  his  car."
 
 Straightway  the  heroes  followed  in  the  direction  which  the
 khan  pointed  out  to  them.  They  came  to  the  Iron  and  Silver
@@ -8837,8 +8168,6 @@ On  the  tenth  day  the  old  man  began  to  grow  weak,  and
 toward  evening  he  fell  to  the  earth,  powerless.    The  two  heroes
 
 
-MYTHS  AND  MONGOL  RELIGION     173
-
 put  him  in  an  iron  barrel  with  ninety-five  hoops  on  it,  and  rolled
 him  into  the  Black  Misty  Sea.  But  before  he  fell  into  the
 water  the  old  man  said :
@@ -8856,8 +8185,7 @@ and  the  ninety  mad  wolves  followed  her.
 
 Only  when  three  days  and  nights  had  passed  did  the  cuckoo
 and  the  ninety  mad  wolves  appear  on  the  shore  of  the  Black
-Misty  Sea.  The  cuckoo  flew  three  times  along  the  shore  sing-
-ing loudly;  and  the  whole  Black  Misty  Sea  vanished,  went
+Misty  Sea.  The  cuckoo  flew  three  times  along  the  shore  singing loudly;  and  the  whole  Black  Misty  Sea  vanished,  went
 into  the  earth  before  the  power  of  the  cuckoo,  and  the  grass
 which  grew  around  on  every  side  of  that  sea  dried  up  and
 withered  at  sight  of  her.
@@ -8885,14 +8213,11 @@ this  way.  My  bride  knows  all  that  I  am  doing."  Then  he  said
 to  the  wolves  and  the  cuckoo:  "Ye  have  served  me  well;  good
 
 
-174    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 thanks  to  you,  go  home  now,  in  peace."  The  wolves  dragged
 the  car  from  the  bottom  of  the  sea.  The  sea  took  its  old  form
 and  grass  appeared  again  along  the  shore.
 
-The  Iron  Hero  went  a  second  time  to  the  khan  for  his  beau-
-tiful daughter,  but  in  a  worse  form  than  before.
+The  Iron  Hero  went  a  second  time  to  the  khan  for  his  beautiful daughter,  but  in  a  worse  form  than  before.
 
 There  was  a  wedding  that  day  at  the  yurta.  The  khan  was
 giving  his  daughter  in  marriage  to  the  younger  of  the  two  strong
@@ -8905,12 +8230,10 @@ rode  away  swiftly.  They  had  thought  never  to  see  that  old  man
 again,  now  they  felt  sure  that  they  would  never  get  rid  of  him.
 
 The  old  man  walked  into  the  chamber  which  he  had  soiled
-on  the  first  day,  and  said,  "A  greeting  from  me  to  thee,  father-
-in-law!"
+on  the  first  day,  and  said,  "A  greeting  from  me  to  thee,  fatherin-law!"
 
 The  khan  was  terrified.  "What  does  this  mean?"  cried
-he.  "The  thirteen  khans  have  all  become  wizards,  the  seventy-
-nine  languages  are  all  used  for  sorcery!  I  am  frightened!
+he.  "The  thirteen  khans  have  all  become  wizards,  the  seventynine  languages  are  all  used  for  sorcery!  I  am  frightened!
 I  know  not  why  any  one  comes  to  me,  whether  for  good  or  evil
 reasons."
 
@@ -8936,8 +8259,6 @@ him."
 
 In  nine  days  and  a  half  the  strong  hero  came,  half  a  day  be-
 
-
-MYTHS  AND  MONGOL  RELIGION    175
 
 fore  his  time.  When  the  old  man  heard  of  the  hero's  coming
 he  went  away  with  his  car  to  the  Bronze  and  Silver  Square  on
@@ -8975,22 +8296,18 @@ in  this  style !    I  will  tear  thee  to  pieces !"
 
 They  rushed  at  each  other  like  two  bulls,  and  were  as  fierce
 and  gloomy  as  two  clouds  filled  with  thunder.  They  closed  and
-wrestled,  —  wrestled  two  days  so  desperately  that  the  third  morn-
-ing their  lowest  ribs  were  bare.  Each  seized  the  other  by  the
+wrestled,  —  wrestled  two  days  so  desperately  that  the  third  morning their  lowest  ribs  were  bare.  Each  seized  the  other  by  the
 last  rib,  each  threw  the  other,  and  each  pulled  out  a  rib  in  the
 struggle,  but  remained  in  his  senses.  They  lay  on  the  ground,
 each  holding  a  rib  in  his  hand.
 
-The  thousand  Heavenly  Burkans  called  together  a  wise  assem-
-bly. "These  two  are  brothers,"  said  they.  "We  made  them
+The  thousand  Heavenly  Burkans  called  together  a  wise  assembly. "These  two  are  brothers,"  said  they.  "We  made  them
 both,  why  do  they  fight  ?"
 
 The  Burkans  threw  down  a  written  message.  It  fell  between
 the  two  wrestlers,  and  it  said:  "Ye  are  brothers.  The  Iron
 Hero  is  the  younger."    Milen  Buhe  took  the  message  and  read
 
-
-176    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 it,  then  the  Iron  Hero  read  it,  read  that  they  were  brothers
 created  by  the  thousand  Burkans.  The  two  were  reconciled
@@ -9048,8 +8365,6 @@ in  Lake  Baikal,  Siberia.     Page  7+
 The  man  and  woman  who  gave  up  their  house  to  us
 
 
-MYTHS  AND  MONGOL  RELIGION  177
-
 The  khan  invited  all  his  people  to  the  wedding  feast.  There
 were  mountains  of  meat  and  a  sea  of  drink;  amusements  of
 all  kinds  and  dances.  Nine  days  and  nights  did  the  feast  last.
@@ -9091,12 +8406,6 @@ drank  of  the  water,  and  then  went  down  by  an  easy  road,  which
 no  person  in  the  world  but  the  bride  knew  of.
 
 
-12
-
-
-178    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-
 ASHIR   BOGDO
 
 AFTER  Gesir  Bogdo  had  been  saved  and  cured  by  the  Iron
@@ -9116,16 +8425,14 @@ will  kill  thee."
 He  sent  his  thirty-three  strong  champions,  mighty  heroes,
 to  dig  a  very  deep  ditch.  When  the  ditch  was  finished  Gesir
 said  to  the  Mangathais,  "Come,  Mangathais,  I  will  show  you
-where  the  work  is."  He  started,  and  with  him  went  the  Man-
-gathais, followed  by  the  thirty-three  strong  heroes.  When  the
+where  the  work  is."  He  started,  and  with  him  went  the  Mangathais, followed  by  the  thirty-three  strong  heroes.  When  the
 Mangathais  came  to  the  edge  of  the  ditch,  and  stood  in  a  row
 looking  into  it,  the  thirty-three  strong  heroes  pushed  them  from
 behind  into  the  ditch,  and  then  threw  down  one  great  long  stone
 and  covered  them.
 
 The  Mangathais  struggled,  were  lifting  the  stone  by  main
-force,  but  the  thirty-three  kept  it  down.  The  eleven  Man-
-gathais died  in  that  ditch ;  the  great  stone  settled  on  them,  and
+force,  but  the  thirty-three  kept  it  down.  The  eleven  Mangathais died  in  that  ditch ;  the  great  stone  settled  on  them,  and
 then  other  stones  were  piled  up  on  that  one.  Gesir  built  a
 splendid  yurta  above  the  ditch.  On  a  wall  of  the  yurta  Gesir
 had  his  image  in  full  armor  sitting  on  horseback,  with  his  bow
@@ -9139,8 +8446,6 @@ Iron  and  Silver  Square  as  he  had  intended.
 Ashir  Bogdo,  who  had  gone  to  get  Gasir  Baiyin  Khan's
 daughter,  reached  at  last  the  boundary  of  that  khan's  dominion.
 
-
-MYTHS  AND  MONGOL  RELIGION    179
 
 When  he  came  the  time  was  autumn;  the  leaves  had  turned
 yellow,  and  were  falling  on  his  side,  but  beyond  the  boundary,
@@ -9159,8 +8464,7 @@ eyes  were  as  large  as  plates,  his  face  red,  and  his  teeth  were  each
 the  size  of  a  spade.  They  greeted,  and  each  said  to  the  other
 that  he  was  going  to  seek  a  bride.
 
-Ashir  rode  farther  till  he  met  a  Mangathai  with  seventy-
-seven  heads.
+Ashir  rode  farther  till  he  met  a  Mangathai  with  seventyseven  heads.
 
 "Where  art  thou  going?"  asked  the  Mangathai.
 "How  does  that  concern  thee  ?     I  am  traveling  on  my  own
@@ -9190,8 +8494,6 @@ hill.
 
 Now  Ashir  rode  farther,  rode  on  till  he  came  to  a  meadow
 
-
-180    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 so  broad  that  he  could  see  neither  side  nor  end  to  it.  Far  off  in
 front  of  him  on  the  horizon  was  a  black  house  a  verst  and  a
@@ -9241,20 +8543,16 @@ the  work  alone."
 "He  is  not  able  to  dig  fast  enough,"  said  Ashir;   "he  cannot
 
 
-MYTHS  AND  MONGOL  RELIGION    181
-
 dig  the  pit  alone  and  fill  buckets  fast  enough.  Let  him  dig  and
 do  thou  fill  the  buckets."
 
 She  hesitated.  "  Get  into  the  bucket,"  ordered  Ashir.  "  Get
 in  I  tell  thee !"  She  stepped  in  reluctantly.  "The  pit  must  be
-sixty  feet  in  depth,"  said  Ashir,  as  he  let  her  down.  She  meas-
-ured as  the  bucket  was  lowered.  "Sixty-one  feet  deep !"  cried
+sixty  feet  in  depth,"  said  Ashir,  as  he  let  her  down.  She  measured as  the  bucket  was  lowered.  "Sixty-one  feet  deep !"  cried
 the  Mangathai.  "I  have  measured  carefully."  "That  is
 enough,"  replied  Ashir,  "send  up  all  the  tools  down  there."
 They  sent  up  the  tools.  Ashir  let  the  bucket  down  to  them.
-The  Mangathai  got  in  first.  Ashir  drew  him  up  to  the  top  al-
-most; then  cut  the  rope  quickly  and  the  bucket  fell.  The
+The  Mangathai  got  in  first.  Ashir  drew  him  up  to  the  top  almost; then  cut  the  rope  quickly  and  the  bucket  fell.  The
 Mangathai  was  crushed  and  killed.
 
 "Oh,"  cried  the  wife  of  the  Mangathai,  "I  knew  that  thou
@@ -9264,14 +8562,12 @@ thy  persuasive  words  and  am  ruined.  I  might  have  fought  with
 thee.    I  could  have  conquered  if  I  had  stayed  up  there."
 
 Ashir  Bogdo  filled  the  hole  with  immense  stones,  then  he
-turned  the  iron  yurta  bottom  upward,  took  all  of  the  Man-
-gathai's  property  and  sent  it  to  his  father's  yurta.
+turned  the  iron  yurta  bottom  upward,  took  all  of  the  Mangathai's  property  and  sent  it  to  his  father's  yurta.
 
 Ashir  traveled  farther;  traveled  till  he  met  a  Mangathai
 with  three  hundred  heads  and  thirty  horns  in  them,  who  called
 out,  "Thou  thinkest  thyself  a  hero !  thou  hast  killed  my
-father  and  brother,  but  I  will  repay  thee!  Thou  wilt  not  de-
-ceive or  overcome  or  trick  me ! "
+father  and  brother,  but  I  will  repay  thee!  Thou  wilt  not  deceive or  overcome  or  trick  me ! "
 
 They  sprang  down  from  their  horses  and  rushed  at  each
 other.  The  struggle  was  long  and  dreadful.  They  wrestled
@@ -9289,8 +8585,6 @@ to  him.
 "Thou  hast  killed  my  father,  mother,  and  brother;  do  not
 dare  to  shoot  thy  arrow  before  I  shoot  mine!"
 
-
-182    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 The  Mangathai  had  no  arrow,  he  wanted  to  deceive  Ashir.
 His  only  weapon  was  an  axe  eighty  fathoms  broad.  He  threw
@@ -9325,8 +8619,7 @@ her  nephew  crying,  and  came  out  of  the  yurta.  "Why  cry?"
 asked  she.  "Come  here."  And  she  gave  him  her  breast  to
 draw.
 
-"Ashir  Bogdo  has  appeared  on  earth,"  said  the  false  Man-
-gathai. "My  strength  is  not  enough  to  overcome  him.  Give
+"Ashir  Bogdo  has  appeared  on  earth,"  said  the  false  Mangathai. "My  strength  is  not  enough  to  overcome  him.  Give
 me  strength  enough,  give  me  power."
 
 "How  strangely  you  draw  my  breast,"  said  she.  "You  took
@@ -9340,8 +8633,6 @@ Inside  were  thirteen  woodcocks.  He  caught  them  all,  put  them
 in  his  pockets  and  hurried  away.  In  nine  days  he  was  back  to
 the  place  of  combat.    The  Mangathai  was  not  there;  he  had
 
-
-MYTHS  AND  MONGOL  RELIGION    183
 
 gone  for  Ashir's  life.  He  made  himself  just  like  Ashir,  went
 up  to  Esege  Malan  and  said:
@@ -9394,8 +8685,6 @@ into  a  black  stone  as  big  as  a  large  stallion.  The  stone  rolled
 along,  swifter  and  swifter,  rolled  into  the  Mangathai's  mouth,
 
 
-184    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 straight  on  to  his  tongue.  Ashir's  hands  and  arms  were  stone;
 they  stuck  in  the  Mangathai's  throat,  and  resisted  swallowing.
 The  Mangathai  could  not  get  the  huge  stone  down,  could  not
@@ -9408,8 +8697,7 @@ stone,  "if  not  let  me  go!"
 
 No  prayer  could  move  the  stone;  on  the  tenth  day  it  had
 worn  through  the  tongue.  Ashir  now  asked  Esege  Malan  for
-weapons ;  they  appeared  and  he  cut  up  the  lungs  of  the  Man-
-gathai. The  Mangathai  fell  dead  on  the  earth.  Ashir  came
+weapons ;  they  appeared  and  he  cut  up  the  lungs  of  the  Mangathai. The  Mangathai  fell  dead  on  the  earth.  Ashir  came
 out,  took  the  Mangathai's  axe,  which  was  fifty  feet  wide,  and  cut
 off  all  his  heads,  cut  out  his  ribs.  Something  was  moving
 through  his  interior.  A  terrible  serpent  came  out.  Ashir  cut
@@ -9442,8 +8730,6 @@ for  three  days  and  finished.  "Read  thou  my  book,"  said  the
 Tengeri.  Ashir  read  for  fifteen  days,  read  all.  "Thou  art  a
 master  at  reading,"  said  the  Tengeri,  "I  can  hardly  read  it
 
-
-MYTHS  AND  MONGOL  RELIGION    185
 
 myself  in  fifteen  days.  Now  thou  mayst  see  thy  bride."  And
 he  opened  the  door  to  Ashir  with  respect.
@@ -9491,7 +8777,6 @@ nights  as  they  had  never  feasted  before.
 
 CHAPTER  XII
 
-MONGOL  MYTHS  AND  FOLK-TALES
 
 BURULDAI  BOGDO,  No.  I
 
@@ -9519,22 +8804,17 @@ When  he  reached  home  the  khan  was  still  crying  bitterly.
 "Why  art  thou  weeping?"  asked  his  wife.  When  he  refused
 to  tell  her  she  went  out,  got  a  hair  rope  and  declared  she  would
 hang  herself  if  he  did  not  tell.  Then  he  said:  "I  am  crying
-because  I  am  an  old  man,  and  thou  too  art  old.  I  saw  a  won-
-derful colt  to-day,  but  when  it  is  fit  for  the  saddle  there  will  be
+because  I  am  an  old  man,  and  thou  too  art  old.  I  saw  a  wonderful colt  to-day,  but  when  it  is  fit  for  the  saddle  there  will  be
 no  one  to  ride  it,  for  we  have  neither  son  nor  daughter."
 
 "Cry  no  more,"  said  his  wife;  "though  I  am  old,  I  am  not
-without  hope  of  having  a  son  or  a  daughter;  but  go  thou  be-
-yond the  mountain  to  the  house  of  the  seven  Lamas  and  beg
+without  hope  of  having  a  son  or  a  daughter;  but  go  thou  beyond the  mountain  to  the  house  of  the  seven  Lamas  and  beg
 them  to  soothsay  for  us."
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    187
-
 Buruldai  Bogdo  went  beyond  the  mountain,  and  came  to  a
 great  square  yurta,  but  could  find  no  door.  He  walked  around
-the  yurta ;  there  was  no  door  to  be  seen.  Then  he  said  to  him-
-self, "What  a  fool  thou  art;  go  back  ten  yards,  run,  kick  the
+the  yurta ;  there  was  no  door  to  be  seen.  Then  he  said  to  himself, "What  a  fool  thou  art;  go  back  ten  yards,  run,  kick  the
 wall  with  all  thy  strength."  This  he  did  and  seventy  doors  flew
 open  before  him.  Inside  were  seven  Lamas,  but  they  were  silent.
 The  khan  begged  them  to  soothsay  for  him,  begged  the  first
@@ -9569,8 +8849,7 @@ asked  for  an  arrow  and  bow,  got  them,  and  killed  the  wolf.
 "  See  what  a  son  we  have !"  said  the  old  father  and  mother  to
 each  other.
 
-One  day  the  boy  came  upon  a  fine  open  meadow,  and  he  de-
-cided to  build  a  yurta  there.  After  it  was  built  he  was  tired  and
+One  day  the  boy  came  upon  a  fine  open  meadow,  and  he  decided to  build  a  yurta  there.  After  it  was  built  he  was  tired  and
 lay  down  to  rest.  He  wished  to  sleep  seven  months,  but  in  the
 fourth  month  his  mother  strove  in  every  way  to  waken  him;
 when  at  last  she  stuck  a  file  in  the  sole  of  his  foot  he  sprang  up
@@ -9578,8 +8857,6 @@ quickly.
 
 "Whilst  thou  wert  sleeping  a  sister  was  born  to  thee,"  said
 
-
-188    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 the  mother,  "but  some  one  came  in  through  the  smoke  hole  and
 stole  her."
@@ -9622,8 +8899,7 @@ He  greeted  the  boy,  and  said  he  was  in  search  of  his  sister,  an
 infant.
 
 Now  a  young  man  from  the  East  came  up  on  a  gray  horse.
-He  was  the  son  of  Gazar  Xara  Khan.  Then  from  the  south-
-west came  a  third  young  man,  Nadur  Gai  Mergin,  on  a  bay
+He  was  the  son  of  Gazar  Xara  Khan.  Then  from  the  southwest came  a  third  young  man,  Nadur  Gai  Mergin,  on  a  bay
 horse.  Each  was  in  search  of  an  infant  sister,  each  had  followed
 a  trail  which  led  to  the  rock.  The  four  held  a  council,  and
 decided  that  their  sisters  must  be  somewhere  under  that  great
@@ -9632,12 +8908,9 @@ rock.
 "Raise  the  rock,"  said  the  first  young  man  to  the  second.
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    189
-
 He  raised  it  until  he  sank  into  the  ground  to  his  knees.  The
 third  man  raised  it  until  he  went  into  the  ground  to  his  waist.
-The  fourth  raised  it  until  he  went  into  the  ground  to  his  should-
-ers. Then  the  first  one  became  angry  and  said :  "Of  what  use
+The  fourth  raised  it  until  he  went  into  the  ground  to  his  shoulders. Then  the  first  one  became  angry  and  said :  "Of  what  use
 to  come  so  far,  if  we  can  do  nothing?"  And  he  seized  the  rock
 of  ninety-nine  poods  in  weight,  hurled  it  beyond  seven  valleys,
 and  found  that  it  had  covered  a  deep  hole.
@@ -9655,8 +8928,7 @@ He  brought  the  chain  to  the  opening  and  said  "Whoever  goes
 down  shall  be  drawn  up  as  soon  as  he  shakes  the  chain,"  then
 he  asked  Zuduk  to  go  first.
 
-The  young  man  went  down  two  hundred  sachens,  then  be-
-came frightened,  and  shook  the  chain.  The  second  young  man
+The  young  man  went  down  two  hundred  sachens,  then  became frightened,  and  shook  the  chain.  The  second  young  man
 went  down  four  hundred  sachens,  then  shook  the  chain.  The
 third  young  man  went  down  six  hundred  sachens,  shook  the
 chain,  and  they  pulled  him  up.
@@ -9680,8 +8952,6 @@ no  one  came  to  him,  and  he  lay  there  nine  years.  At  last  a
 mouse  crept  up  and  made  her  nest  in  his  clothes.  When  he
 saw  that  he  thought,  "I  am  only  half  alive,  if  I  were  altogether
 
-
-190    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 alive  the  mouse  would  not  build  her  nest  on  me."  With  that
 he  struck  at  the  mouse,  and  crushed  one  of  her  sides.  She
@@ -9732,8 +9002,6 @@ he  is  a  great  wizard."
 I  will  fight  the  Mangathai  and  free  thee,"  replied  Altun.    She
 
 
-MONGOL  MYTHS  AND  FOLK-TALES     191
-
 could  not  dissuade  him  so  she  said :  "I  will  tell  thee  a  secret.
 On  the  right  of  the  door  the  Mangathai  has  Water  of  Life,  on
 the  left  he  has  poison  water.  If  thou  even  catch  the  odor  of
@@ -9763,13 +9031,11 @@ and  a  hammer  of  ninety  poods.  "What  sort  of  a  hero  art  thou,"
 cried  he,  "lying  here  on  my  land,  and  roasting  my  goats  ?  With
 one  blow  I  will  kill  thee!"
 
-He  struck  at  Altun  with  the  axe,  but  the  axe  made  no  im-
-pression. Then  he  chopped  at  his  right  side,  made  a  slight  gash,
+He  struck  at  Altun  with  the  axe,  but  the  axe  made  no  impression. Then  he  chopped  at  his  right  side,  made  a  slight  gash,
 and  took  the  wedges  to  drive  them  in,  but  the  wedges  sprang
 back,  flew  up  to  the  sky,  and  floated  away  toward  the  ocean.
 He  struck  at  him  with  the  hammer;  it  broke  in  the  middle
-a^id  flew  off  to  the  sea.  So  the  Mangathai  was  without  weap-
-ons. "What  man  art  thou  on  another  man's  land?"  shouted
+a^id  flew  off  to  the  sea.  So  the  Mangathai  was  without  weapons. "What  man  art  thou  on  another  man's  land?"  shouted
 he  in  a  rage.
 
 Altun  woke  up,  shook  himself,  and  said :  "How  long  I  have
@@ -9779,8 +9045,6 @@ For  three  days  they  fenced  for  a  hold,  and  then  fought  for
 thirty  days,  but  neither  could  overcome  the  other.  At  last  the
 Mangathai  said :  "I  am  thirsty,  let  us  go  down  to  the  yurta  and
 
-
-192    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 get  a  drink  of  strengthening  water."  They  went  down,  and
 Altun  drank  of  the  Water  of  Life,  and  the  Mangathai  drank
@@ -9814,12 +9078,10 @@ him.    Kill  him  quickly!"  said  Agui  na  Gun,  Altun's  sister.
 
 Altun  built  a  great  furnace  and  put  the  young  Mangathai
 into  it.  It  took  nine  days  and  nine  nights  to  burn  him;  then
-Altun  carried  the  ashes  to  the  mother  of  the  boy,  who  was  her-
-self a  Mangathai,  and  asked,  "Which  would  you  rather  have,
+Altun  carried  the  ashes  to  the  mother  of  the  boy,  who  was  herself a  Mangathai,  and  asked,  "Which  would  you  rather  have,
 seventy  horse  tails,  or  seventy  tree-tops  ?"
 
-"Out  of  the  horse  tails  I  could  make  ropes,  out  of  the  tree-
-tops  I  could  make  wood,"  said  she.
+"Out  of  the  horse  tails  I  could  make  ropes,  out  of  the  treetops  I  could  make  wood,"  said  she.
 
 Altun  brought  seventy  horses  and  tied  her  to  their  tails.
 This  frightened  the  horses;  they  ran  in  all  directions  and  tore
@@ -9830,8 +9092,6 @@ died.
 He  overturned  the  house  and  took  whatever  pleased  him.
 He  drove  the  cattle  ahead,  and  with  him  went  the  four  women
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    193
 
 to  the  hole  where  the  chain  was.  He  sent  up  everything  by  the
 chain,  and  then  told  the  four  women  to  go.
@@ -9887,10 +9147,6 @@ evenly  between  us.    As  thou  sayest  we  will  do."
 
 He  divided  the  coin  equally,  and  the  old  man  asked  what  he
 
-13
-
-
-194    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 wanted  for  his  trouble.  "I  wish  to  go  to  my  home,  which  is  in
 a  country  above  this,"  said  Altun.
@@ -9946,8 +9202,6 @@ on  Each  Side  or  him.     Page  76
 My  Carriage  Ready.     The  Italian  Blacksmith.     Page  73
 
 
-MONGOL  MYTHS  AND  FOLK-TALES     195
-
 the  man  of  the  gray  horse,  turned  his  steed  into  a  flint,  himself
 into  a  fly,  sat  on  the  edge  of  the  smoke-hole,  and  listened.  Soon
 he  heard  the  young  man's  sister  ask,  "Why  didst  thou  treat  that
@@ -9991,9 +9245,6 @@ people  assembled,  and  there  was  feasting  for  nine  days  and
 nine  nights.
 
 
-196    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-
 BURULDAI  BOGDO  KHAN.    No.  II.
 
 BURULDAI  BOGDO  was  the  eldest  of  thirteen  khans  and
@@ -10016,8 +9267,7 @@ When  the  men  had  gone  the  boys  took  their  own  forms  and
 walked  eastward  till  they  came  to  a  yurta  so  immense  that  it  had
 seven  hundred  doors.  The  elder  brother  sent  the  younger
 brother  in  to  see  what  kind  of  a  place  it  was.  He  went  through
-thirteen  doors,  and  came  to  a  sixty-three  headed,  six-horned  Man-
-gathai,  sleeping  soundly.  The  boy  was  frightened  and  started
+thirteen  doors,  and  came  to  a  sixty-three  headed,  six-horned  Mangathai,  sleeping  soundly.  The  boy  was  frightened  and  started
 to  go  back  quietly,  but  when  he  had  reached  the  third  door  the
 Mangathai  woke,  opened  the  eyes  in  all  his  heads,  and  called
 out:
@@ -10034,13 +9284,10 @@ thou  hast  come  to  torment  me ! "  cried  the  Mangathai,  in  a  rage.
 He  seized  the  boy,  bound  him,  and  said,  "To-morrow  I  will
 eat  thee."
 
-The  brother,  who  was  waiting  outside,  grew  tired,  turned  him-
-self into  a  squirrel  and  went  back  to  the  forest.
+The  brother,  who  was  waiting  outside,  grew  tired,  turned  himself into  a  squirrel  and  went  back  to  the  forest.
 
 The  Mangathai  went  to  the  woods  for  spits  on  which  to  roast
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    197
 
 the  boy.  While  there  he  met  a  merchant  returning  with  goods
 from  various  countries.  The  Mangathai  invited  the  merchant  to
@@ -10077,8 +9324,7 @@ The  two  squirrels  met,  but  the  elder  did  not  recognize  the
 younger.  "Is  this  an  enemy,"  thought  he;  and  he  went
 straight  up  to  Esege  Malan.
 
-The  younger  brother  followed  him  to  the  door  of  Esege  Ma-
-lan's  yurta,  but  did  not  go  in.  "Let  my  brother  come  out!"
+The  younger  brother  followed  him  to  the  door  of  Esege  Malan's  yurta,  but  did  not  go  in.  "Let  my  brother  come  out!"
 cried  he.  "If  not  I  will  choke  myself."  But  the  elder  brother
 did  not  believe  that  the  other  squirrel  was  his  brother,  and  he
 would  not  go  out.
@@ -10091,8 +9337,6 @@ he  is  an  enemy."
 The  mark  was  found,  and  the  two  brothers  embraced.  Then
 they  went  to  the  merchant,  who  was  flogging  the  seven  hundred
 
-
-198    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 men,  first  for  failing  to  find  the  one  boy,  and  then  for  losing  the
 other.
@@ -10137,18 +9381,14 @@ big  ones  and  thirty-six  smaller  ones.  The  brothers  had  now  all
 that  was  needed  for  warriors,  and  they  made  ready  to  travel  until
 they  found  their  father  and  mother.
 
-"When  you  were  young  I  took  you  and  have  cared  for  you  al-
-ways. Why  do  you  leave  us  in  our  old  age  ?  "  asked  the  merchant.
+"When  you  were  young  I  took  you  and  have  cared  for  you  always. Why  do  you  leave  us  in  our  old  age  ?  "  asked  the  merchant.
 
 "We  are  going  in  search  of  our  own  father  and  mother,  but
 we  will  come  back ;  for  though  we  live  a  thousand  years  we  will
 not  forget  thee."
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    199
-
-They  went  then  to  the  place  where  they  were  born ;  but  every-
-thing had  dropped  away,  except  a  hitching-post  that  had  stood
+They  went  then  to  the  place  where  they  were  born ;  but  everything had  dropped  away,  except  a  hitching-post  that  had  stood
 near  the  yurta.  On  that  hitching-post  the  father  had  written :
 "  If  my  sons  live,  let  them  read  this :  'We  are  taken  by  Bugii
 Curte  Zulut,  and  are  in  his  power.  If  ye  are  able,  rescue  us !  In
@@ -10194,8 +9434,6 @@ yurta,  closed  and  guarded;  but  it  opened  at  their  command.
 They  entered  and  found  there  their  father  and  mother;   their
 
 
-200    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 right  eyes,  hands,  and  feet  were  gone.  They  did  not  recognize
 their  children.
 
@@ -10216,14 +9454,12 @@ father,  mother,  and  all  the  property  and  families  of  the  khan's
 sons  and  went  home  to  their  father's  ruined  yurta,  which  by
 magic  they  made  large  and  beautiful.
 
-"Now,"  said  the  younger  brother,  "we  must  go  to  the  mer-
-chant."
+"Now,"  said  the  younger  brother,  "we  must  go  to  the  merchant."
 
 "Go  thou,"  said  the  elder;  "I  will  remain  here  to  guard  our
 father  and  mother."
 
-They  argued  and  disputed,  and  at  last  both  went.  The  mer-
-chant was  glad  when  he  saw  them,  and  he  made  a  great  feast
+They  argued  and  disputed,  and  at  last  both  went.  The  merchant was  glad  when  he  saw  them,  and  he  made  a  great  feast
 which  lasted  seven  days  and  seven  nights.
 
 "We  rescued  you  from  death,"  said  the  merchant.  "When
@@ -10240,9 +9476,6 @@ father's  home.
 
 In  time  the  two  young  men  became  great  khans,  but  they  lived
 always  with  their  two  fathers  and  two  mothers.
-
-
-MONGOL  MYTHS  AND  FOLK-TALES    201
 
 
 SHARAU
@@ -10296,8 +9529,6 @@ not  be  enough  to  buy  the  dog,  for  he  had  paid  that  much  for  a  cat
 The  man  was  glad  to  part  with  the  worthless  hound  for  such  a
 
 
-202    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 big  sum  of  money,  and  the  young  man  started  toward  home;  but
 the  dog  bit  and  jumped,  and  pulled  so  badly  at  the  leash  that  at
 last  Sharau  lost  patience  and  turned  him  loose.  The  dog  ran
@@ -10317,15 +9548,13 @@ relatives."
 
 "How  can  that  be  ?"  asked  Sazrai.  "The  father  of  your  son
 was  a  merchant,  and  I  am  a  khan.  If  your  son  will  build  a
-silver  bridge  from  my  yurta  to  yours  I  will  give  him  my  daugh-
-ter.    If  he  does  not  build  the  bridge  I  will  have  his  head."
+silver  bridge  from  my  yurta  to  yours  I  will  give  him  my  daughter.    If  he  does  not  build  the  bridge  I  will  have  his  head."
 
 The  mother  went  home  crying.  "What  are  you  crying
 about?"  asked  Sharau.
 
 "You  must  find  some  one  else  for  your  bride,"  sobbed  the
-mother.  "Sazrai  Khan  says  you  are  a  merchant's  son  and  can-
-not marry  his  daughter  till  you  build  a  silver  bridge  from  his
+mother.  "Sazrai  Khan  says  you  are  a  merchant's  son  and  cannot marry  his  daughter  till  you  build  a  silver  bridge  from  his
 yurta  to  ours,  and  if  you  do  not  build  this  bridge  he  will  cut  your
 head  off."
 
@@ -10348,8 +9577,6 @@ there  was  the  silver  bridge.  He  went  to  it,  took  an  axe  and  began
 to  work,  as  though  he  were  just  finishing  a  difficult  task.    The
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    203
-
 khan  came  to  look  at  the  bridge,  was  much  surprised,  but
 only  said,  "Why  are  you  so  long  at  the  work;  were  not  all  the
 hours  of  the  night  sufficient?"
@@ -10366,8 +9593,7 @@ husband,  but  she  grew  dissatisfied,  and  complained  bitterly.
 "How  is  this  ? "  asked  she.  "  You  can  build  a  bridge  of  silver,
 and  yet  you  live  in  this  wretched  old  yurta."
 
-The  young  man  said  nothing  about  the  ring,  hid  it  very  care-
-fully. At  night  he  slept  with  it  in  his  mouth.  One  night  he
+The  young  man  said  nothing  about  the  ring,  hid  it  very  carefully. At  night  he  slept  with  it  in  his  mouth.  One  night  he
 coughed  and  the  ring  blew  out  and  fell  to  the  floor,  but  he
 grasped  it  quickly.
 
@@ -10383,8 +9609,7 @@ wish,  whatever  it  might  be.
 until  he  gave  it  to  her.
 
 Now  Sarung-gohung  had  a  lover  in  a  kingdom  beyond  the  sea,
-and  that  very  night  while  her  husband  was  sleeping  she  deter-
-mined not  to  wait,  but  to  rise  with  the  sun,  and  try  the  power  of
+and  that  very  night  while  her  husband  was  sleeping  she  determined not  to  wait,  but  to  rise  with  the  sun,  and  try  the  power  of
 the  ring.  So  at  sunrise  she  made  the  circles,  wished,  and  that
 moment  she  was  with  her  lover.
 
@@ -10400,8 +9625,6 @@ a  dungeon.  Then  he  said  to  him,  "I  will  wait  seven  days.  If
 my  daughter  does  not  return  by  that  time  she  is  dead,  and  I
 shall  have  your  head  cut  off."
 
-
-204    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 The  young  man  sat  in  the  dungeon  a  day  and  a  night.  He  had
 nothing  to  eat,  and  wondered  what  he  could  do  to  save  his  life.
@@ -10420,8 +9643,7 @@ days  you  are  lost,"  said  the  cat.  "But  be  of  good  courage;  you
 saved  our  lives,  we  will  try  to  save  yours."
 
 The  cat  went  to  the  dog  and  they  counseled  again.  At  last
-the  dog  said,  "  Get  on  my  back,  we  will  go  to  that  kingdom  be-
-yond the  sea."
+the  dog  said,  "  Get  on  my  back,  we  will  go  to  that  kingdom  beyond the  sea."
 
 When  they  came  to  the  place  where  the  wife  was  the  cat  caught
 a  mouse  that  lived  in  the  yurta.  "If  you  do  as  I  tell  you,"  said
@@ -10445,14 +9667,11 @@ The  cat  went  back  to  the  dog,  sat  on  his  back,  and  they  started
 for  their  own  kingdom.  The  dog  wanted  to  carry  the  ring,  but
 the  cat  said:
 
-"No,  you  have  a  large  mouth,  and  always  keep  it  open.  Who-
-ever saw  a  dog  running  with  his  mouth  closed  ?  My  mouth  is
+"No,  you  have  a  large  mouth,  and  always  keep  it  open.  Whoever saw  a  dog  running  with  his  mouth  closed  ?  My  mouth  is
 small.  I  will  carry  the  ring."  The  cat  wished;  there  was  a
 boat.  They  were  halfway  across  the  sea  when  the  cat  sneezed,
 and  the  ring  dropped  into  the  water.
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    205
 
 "  The  man  is  as  good  as  dead,"  said  the  dog ;  "  for  we  can  never
 get  the  ring  from  the  bottom  of  the  sea."
@@ -10487,9 +9706,6 @@ father-in-law,  "what  are  you  going  to  do  ?"
 
 "I  will  do  to  them  what  I  was  going  to  do  to  you  to-day,"  said
 the  khan ;  and  he  had  their  heads  cut  off.
-
-
-206    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 
 HUNKUVAI   AND   THE   HORSE   WITH   ROUND
@@ -10539,8 +9755,6 @@ what  has  happened.    The  book  is  under  thy  midriff."
 The  khan  opened  his  midriff,  took  out  the  book,  read,  and
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    207
-
 found  that  the  son  of  Timur  Shi  Bain  Khan  had  stolen  the  gray
 steed  with  round  head.  In  the  book  it  was  written  also  that
 Timur's  kingdom  was  distant  a  journey  of  fifty-five  years,  that
@@ -10557,14 +9771,12 @@ nephew,  is  the  only  son  of  his  father;  he  is  not  here  because  he
 has  much  wealth.  He  is  so  rich  and  powerful  that  he  did  not
 regard  thy  call."
 
-The  khan  was  enraged,  and  sent  three  heroes  to  bring  Hiin-
-kuvai.
+The  khan  was  enraged,  and  sent  three  heroes  to  bring  Hiinkuvai.
 
 When  the  three  heroes  reached  Hunkuvai's  yurta  they  saw  that
 it  was  richer  than  even  the  khan's  yurta.
 
-"We  are  here  from  our  khan!"  proclaimed  the  three  mes-
-sengers to  the  servants  of  Hunkuvai.
+"We  are  here  from  our  khan!"  proclaimed  the  three  messengers to  the  servants  of  Hunkuvai.
 
 Shik  Shuri  Nogon,  Hunkuvai's  wife,  appeared  before  the
 yurta.
@@ -10596,8 +9808,6 @@ rage.
 away  by  a  woman !"
 
 
-208    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 He  sent  nine  heroes  now  to  summon  Hunkuvai.  When  they
 appeared  in  the  distance  the  man  at  the  yurta  whose  duty  it  was
 to  watch  for  people,  told  Shik  Shuri  that  nine  men  were  coming.
@@ -10620,8 +9830,7 @@ us  away."
 Confined  by  the  khan  in  an  iron  prison  was  a  very  strong
 hero.  The  khan  raged  at  the  nine  beaten  men  and  let  out  the
 strong  hero,  whose  iron  cap  weighed  forty  poods.  He  seated
-this  hero  in  a  car  drawn  by  nine  stallions  and  sent  him  to  con-
-quer Shik  Shuri.  When  he  was  near  her  husband's  yurta  Shik
+this  hero  in  a  car  drawn  by  nine  stallions  and  sent  him  to  conquer Shik  Shuri.  When  he  was  near  her  husband's  yurta  Shik
 Shuri  came  out  to  meet  him.  She  seized  her  heaviest  club  and
 began  at  the  hero.  She  clubbed  him,  and  he  fought  with  her  till
 at  last  both  had  to  stop  for  breath.  The  woman  tottered  into
@@ -10650,11 +9859,8 @@ find  and  bring  back  my  gray  steed  with  round  head.  It  has  been
 stolen.    Thou  mayst  be  khan  after  me."
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    209
-
 "I  am  willing  to  go,  but  I  must  have  the  right  steed  and  good
-fighting  weapons.  In  three  weeks  I  might  start,"  said  Hiin-
-kuvai.  "Ask  all  the  people  to  pray  to  the  Burkans ;  thou  thyself
+fighting  weapons.  In  three  weeks  I  might  start,"  said  Hiinkuvai.  "Ask  all  the  people  to  pray  to  the  Burkans ;  thou  thyself
 pray,  and  I  will  pray  too,  that  weapons  be  given  me,  and  a  steed
 on  which  I  may  ride  such  a  distance."
 
@@ -10699,10 +9905,6 @@ At  the  end  of  the  three  weeks  they  were  so  feeble  that  when
 a  slight  wind  blew  they  bent  before  it.  The  sun  and  moon
 had  grown  red  from  the  awful  dust  which  they  raised  in  that
 
-14
-
-
-210    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 country  and  from  the  blood  which  they  shed  there.  They
 could  not  stop  fighting,  for  neither  could  free  himself  from  the
@@ -10715,8 +9917,7 @@ great  hero,  to  part  them.  When  Iron  Bull  came  down  from  the
 sky  and  touched  the  two,  they  broke  one  of  his  legs.  That  strong
 hero  went  up  to  the  sky  again,  and  declared  to  the  Burkans  that
 neither  Timur  Shi  nor  Hunkuvai  would  stop  till  one  had  killed
-the  other.  Then  the  thousand  Burkans  asked  Hohodai  (Thun-
-der) to  strike  and  kill  both  with  a  thunderbolt.
+the  other.  Then  the  thousand  Burkans  asked  Hohodai  (Thunder) to  strike  and  kill  both  with  a  thunderbolt.
 
 Hohodai  tried,  but  could  not  kill  them;  they  did  not  yield  to
 his  thunderbolt,  though  it  separated  them.
@@ -10751,8 +9952,6 @@ to  shoot!"  Then  he  stretched  his  bowstring  and  said  to  the
 arrow :  "Strike  him  in  his  right  arm  above  the  elbow,  break  his
 spinal  column  below  the  neck,  and  kill  him ! "
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    211
 
 The  arrow  broke  the  right  forearm  of  Timur  Shi  and  then
 his  spinal  column.  The  hero  fell  to  the  earth,  but  had  barely
@@ -10795,16 +9994,13 @@ shall  succeed  then;  otherwise  I  shall  fail."
 
 All  was  done  as  the  steed  directed.  Hunkuvai  rode  back  a
 day's  journey;  the  stallion  rushed  with  mighty  force,  rose  with
-one  leap  to  the  highest  edge  of  Sehir  Mai,  and  clung  to  it.  Hun-
-kuvai took  his  knife  and  cut  strips  from  the  front  hoofs  of  the
+one  leap  to  the  highest  edge  of  Sehir  Mai,  and  clung  to  it.  Hunkuvai took  his  knife  and  cut  strips  from  the  front  hoofs  of  the
 horse,  and  he  sprang  to  the  summit.  Right  there  on  the  top  of
 the  mountain  was  the  Water  of  Life,  and  Hunkuvai  and  his
 horse  drank  deeply.
 
 Hunkuvai's  whip  handle  was  hollow,  and  he  filled  it  with
 
-
-212    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 water.  This  water  lie  scattered  down  on  the  bones  which  he
 had  seen  at  the  foot  of  the  mountain,  and  all  those  men  were
@@ -10822,8 +10018,7 @@ of  those  pieces,  caught  the  thirteen  skylarks,  killed  ten  of  them,
 put  three  in  his  pocket,  refilled  his  whip  handle  with  the  Water
 of  Life,  and  went  down  the  mountain.  He  went  toward  the
 fourth  mountain,  where  his  own  life  was  in  the  black  bear.  He
-knew  that  Timur  Shi  was  going  there.  When  near  the  moun-
-tain he  saw  a  light,  rode  up  to  it,  and  there  lay  Timur  Shi  with
+knew  that  Timur  Shi  was  going  there.  When  near  the  mountain he  saw  a  light,  rode  up  to  it,  and  there  lay  Timur  Shi  with
 his  back  toward  a  fire.
 
 "I  am  sick,"  said  Timur  Shi,  "I  have  a  terrible  headache,
@@ -10845,8 +10040,7 @@ master  of  this  place,  I  will  let  them  fly  away."
 "Here  they  are,"  said  Hiinkuvai,  and  he  stretched  out  his
 hand  as  he  strangled  the  three  skylarks.  That  moment  Timur
 Shi  put  his  palm  on  his  mouth  and  dropped  dead.  His  head
-fell  toward  the  north  mountain,  his  feet  stretched  out  south-
-westward.
+fell  toward  the  north  mountain,  his  feet  stretched  out  southwestward.
 
 Hiinkuvai  gathered  wood,  made  a  pile,  and  burned  Timur
 Shi  Bain  Khan,  broke  his  larger  bones  fine,  and  scattered  to
@@ -10854,8 +10048,6 @@ the  winds  all  that  was  left.  Then  he  went  to  Timur's  yurta
 and  searched  for  the  gray  steed  with  round  head.  At  first  he
 could  not  find  him  anywhere.    But  he  looked  and  looked,  and
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    213
 
 at  last  he  found  him  in  a  stable  of  three  iron  walls,  one  wall
 inside  the  other.
@@ -10903,8 +10095,6 @@ away  in  a  place  of  safety."
 
 "They  are  in  the  cradle,"  said  Shik  Shuri.    "They  are  but
 
-
-214    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 three  days  old;  let  me  keep  them  till  to-morrow.  Let  them
 grow  up  a  little.  The  next  day  take  them  whithersoever  thou
@@ -10971,8 +10161,6 @@ A  Group  of  Unmarried  Mongol  Women  or  Young  Ladies
 in  Ustlrdi.     Page  8-2
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    215
-
 day  Hiinkuvai  raised  his  head  somewhat,  and  saw  that  Hara
 Zaton  was  sitting  with  bow  drawn  ready  to  send  an  arrow.
 
@@ -11024,8 +10212,6 @@ coming  to  kill  us.  I  thought  that  we  should  all  have  to  die ;  so
 I  burned  the  boys,  put  their  bones  in  a  bag,  and  hid  them."
 
 
-216    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 "Show  me  where  they  are  hidden.  I  must  know  the  place,"
 said  the  false  uncle.
 
@@ -11075,19 +10261,15 @@ The  merchant  took  the  boys  to  his  home,  cured  them,  and
 called  them  his  sons.
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    217
-
 Huragin  and  Isbegin  lived  a  whole  year  with  the  merchant.
 They  grew  large,  and  became  skilful  hunters,  filled  their  father's
 storehouses  with  game  and  with  fine  fur  of  all  sorts.
 
-"Hunt  no  more,  I  have  no  place  for  game,"  said  the  mer-
-chant, at  last.
+"Hunt  no  more,  I  have  no  place  for  game,"  said  the  merchant, at  last.
 
 "Let  us  herd  cattle  then,"  said  the  brothers.
 
-Near  by  was  Tomtoy  mountain.  They  drove  out  the  mer-
-chant's flocks  and  herds  to  pasture  on  that  mountain.  While
+Near  by  was  Tomtoy  mountain.  They  drove  out  the  merchant's flocks  and  herds  to  pasture  on  that  mountain.  While
 the  cattle  were  eating,  the  boys  exercised,  tried  their  strength ;
 hurled  stones,  as  big  as  a  sheep,  so  far  that  a  man  would  need
 two  days  to  go  to  the  place  where  the  stones  fell.  Then  they
@@ -11123,16 +10305,13 @@ had  been  conquered.
 Todai  Bain  Khan  had  two  daughters,  Altan  Hurubshe  and
 
 
-218    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 Mungun  Hurubshe.  When  he  had  beaten  Todai,  Yellow  Dog
 demanded  those  two  daughters.
 
 Huragin  and  Isbegin,  the  two  brothers,  now  planned  on  the
 mountain-top  how  to  conquer  Yellow  Dog  and  assist  Todai
 Khan.  "How  much  harm  Yellow  Dog  is  doing  !"  thought  they.
-"He  boils  one  thousand  bullocks  each  day  and  spits  one  thou-
-sand people."
+"He  boils  one  thousand  bullocks  each  day  and  spits  one  thousand people."
 
 Now  the  two  brothers  took  two  huge  round  stones,  which
 were  like  two  great  wheels,  heated  them  as  red  as  red  cloth,
@@ -11172,8 +10351,6 @@ When  Todai  Bain  Khan  heard  that  Yellow  Dog  was  dead  he
 harnessed  eight  blue  horses  and  hurried  forward  to  meet  the
 two  brothers.    After  the  greeting  they  went  with  him  to  his
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    219
 
 splendid  yurta.  Nine  days  they  spent  there,  and  Todai  Bain
 Khan  made  great  feasts  of  all  kinds  to  please  them.  "You  have
@@ -11222,8 +10399,6 @@ scissors  fastened  to  each  cask.  Above  each  person  was  nailed
 these  words :  "If  a  man  passes  this  place  he  is  to  cut  off  with  a
 
 
-220    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 knife  a  small  piece  of  flesh  from  each  person  hanging  here.  If
 a  woman  passes  by  she  is  to  cut  with  the  scissors  a  small  piece
 of  flesh  from  each  person.  The  one  who  fails  to  do  this  will  be
@@ -11236,8 +10411,7 @@ The  two  brothers  took  the  horses  and  removed  the  outfits ;  then
 they  prayed  long  in  thanks,  prayed  three  days  and  nights  to  the
 Heavenly  Burkans ;  after  that  they  mounted  the  steeds  and  rode
 away  beyond  thirteen  lands  to  the  northwest,  where  stands  a
-high  mountain,  Sehir  Mai,  the  White  mountain.  On  that  moun-
-tain were  the  healing  Water  of  Life  and  the  red  restoring  larch
+high  mountain,  Sehir  Mai,  the  White  mountain.  On  that  mountain were  the  healing  Water  of  Life  and  the  red  restoring  larch
 tree.  They  went  to  the  top  of  the  mountain  and  took  bark
 from  the  tree  and  water  from  the  spring.
 
@@ -11247,8 +10421,7 @@ lay  there  exhausted,  barely  living,  holding  on  by  his  wings  and
 his  beak  to  the  mountain  side.
 
 The  brothers  took  some  of  the  water  from  the  spring  and
-some  of  the  bark  from  the  red  restoring  larch  tree,  and  sprin-
-kled the  eagle  with  the  water  mixed  with  the  bark.  He  revived,
+some  of  the  bark  from  the  red  restoring  larch  tree,  and  sprinkled the  eagle  with  the  water  mixed  with  the  bark.  He  revived,
 circled  three  times  about,  then  flew  to  the  mountain-top  and
 still  higher.
 
@@ -11271,8 +10444,6 @@ were  infants."
 us.  We  will  dig  out  and  discover  the  ashes  and  bones  of  our
 father,  wherever  they  may  be."
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    221
 
 Shik  Shuri  took  their  father's  book  out  of  a  box,  brought  it
 to  her  sons,  and  they  read  all  that  was  in  the  book.  They  read
@@ -11303,9 +10474,6 @@ living  and  well.
 
 Then  Huragin  and  Isbegin  went  home  with  their  father,  and
 all  feasted  for  many  days.
-
-
-222    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 
 VARHAN  TULAI  HUBUN
@@ -11353,8 +10521,6 @@ lived  Shandagan  Sagai,  the  beauty  of  all  the  world  above  and
 below.
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    223
-
 He  rode  long  and  fast  till  his  horse  was  wearied;  then  he
 turned  him  into  flint,  put  the  flint  in  his  pocket,  made  himself
 a  wolf,  and  raced  on  and  on.  Traveled  as  a  wolf  till  he  was
@@ -11375,8 +10541,7 @@ thou  going  ?  "
 am  looking  for  Agin  Nogon."  Shandagan  Sagai  made  tea  then
 from  a  silver  kettle,  and  they  drank  together.
 
-"  I  have  traveled  far,"  said  Varhan  Tulai,  "  I  am  tired ;  some-
-thing troubles ;  something  irritates  my  head.  Look  in  it."  He
+"  I  have  traveled  far,"  said  Varhan  Tulai,  "  I  am  tired ;  something troubles ;  something  irritates  my  head.  Look  in  it."  He
 put  his  head  on  her  knees.  Her  fingers,  searching  through  his
 hair,  gave  him  wonderful  pleasure,  and  he  fell  asleep.  All  at
 once  she  screamed.  Varhan  sprang  up  and  rushed  out.  There
@@ -11397,11 +10562,8 @@ Esege  Malan  opened  his  doors  and  saw  Varhan  Tulai  stealing
 his  daughter  away,  —  saw  him  far  off,  hurrying,  racing  with  all
 speed.  He  called  the  three  Shalmos  and  sent  them  to  bring  to
 him  a  perfect  fool.  They  brought  the  fool  quickly,  and  Esege
-Malan  said  to  him:  "I  brought  thee,  thou  fool,  for  this  pur-
-pose.  A  man  came  and  stole  my  yurta,  with  my  daughter  and  all
+Malan  said  to  him:  "I  brought  thee,  thou  fool,  for  this  purpose.  A  man  came  and  stole  my  yurta,  with  my  daughter  and  all
 
-
-224    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 her  property.  Do  thou  hurry,  hasten,  overtake  him,  catch  him,
 kill  him,  and  bring  back  my  daughter."
@@ -11412,8 +10574,7 @@ Esege  Malan  sent  three  hundred  champions  with  clubs,  three
 hundred  more  with  hammers,  and  three  hundred  with  sharp
 swords,  to  help  the  fool.  They  went  swiftly  and  were  gaining
 on  Varhan  Tulai.  He  was  on  earth  now,  hurrying  always.  His
-horse  was  untiring,  but  the  fool  and  the  champions  were  gain-
-ing, coming  nearer  each  moment;  so  Varhan  rose  in  the  air
+horse  was  untiring,  but  the  fool  and  the  champions  were  gaining, coming  nearer  each  moment;  so  Varhan  rose  in  the  air
 with  his  horse  and  rushed  to  a  high  country  at  one  side.
 
 The  fool  and  his  men  lost  the  trail,  but  the  fool  knew  what
@@ -11426,8 +10587,7 @@ grass,  and  since  that  day  nothing  has  grown  there.
 The  fool  saw  Varhan  at  a  great  distance.  When  he  had  almost
 caught  up  with  him  Varhan  turned  himself  into  an  old  man
 and  sat  down  near  a  spring  of  pure  water.  He  had  made  a  hut
-there,  and  a  woman  was  sitting  inside;  the  woman  was  Shan-
-dagan  Sagai.
+there,  and  a  woman  was  sitting  inside;  the  woman  was  Shandagan  Sagai.
 
 Varhan,  with  a  girdle  of  the  inner  bark  of  a  larch  tree  around
 his  middle,  seemed  very  poor.  This  trick  did  not  mislead  the
@@ -11453,8 +10613,6 @@ and  fifty  acres  in  a  circle  around  him.
 three  mountain  ranges,"  cried  Varhan;  "now  I  will  throw  thee
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    225
-
 so  far  that  thou  wilt  never  be  seen  again !"  That  moment  he
 seized  the  fool  and  threw  him  over  seven  mountain  ranges.  He
 sank  eighty  fathoms  through  the  earth  and  stayed  there.
@@ -11478,8 +10636,7 @@ a  miserable,  starving  old  man  with  hair  sticking  out  a  whole
 foot  through  his  cap  and  finger-nails  growing  out  through  his
 gloves.
 
-He  went  farther  and  saw  seven  hundred  of  his  brother's  bul-
-locks, six  hundred  sheep,  five  hundred  goats,  and  only  one  he-
+He  went  farther  and  saw  seven  hundred  of  his  brother's  bullocks, six  hundred  sheep,  five  hundred  goats,  and  only  one  he-
 goat.  Farther  still  he  saw  two  dogs;  two  wolves  ran  up  to
 fight  with  the  dogs.  Varhan  killed  both  wolves  and  went  farther.
 Next  he  met  four  young  men  on  four  red  horses.  Each  man
@@ -11490,8 +10647,7 @@ had  an  iron  whip.
 "We  are  herdsmen,"  said  they;  "we  run  after  cattle."
 
 Varhan  waved  his  whip  thrice;  the  horses  were  fettered  and
-the  men  were  tied  to  their  saddles.  Farther  on  he  saw  the  hun-
-dred and  eight  headed  Mangathai  walking  along.
+the  men  were  tied  to  their  saddles.  Farther  on  he  saw  the  hundred and  eight  headed  Mangathai  walking  along.
 
 "Whither  art  thou  going,  old  man?"  asked  the  Mangathai.
 
@@ -11504,10 +10660,6 @@ where  Varhan  Tulai  Hubun  is  ?    If  thou  knowest  tell  me."
 
 "Of  course  I  know.    He  was  killed  long  ago  by  the  perfect
 
-15
-
-
-226    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 fool.  What  a  great  man  Varhan  Tulai  was,  a  bony  fellow!  It
 would  take  three  days  to  walk  over  his  bones."
@@ -11518,16 +10670,13 @@ Go  home  and  put  it  away  carefully,"  said  he.  "While  you  have
 the  stone  no  one  will  offend,  no  one  will  harm  you.  I  must  go
 after  my  cattle."
 
-Yarhan  Tulai  broke  the  stone  against  a  tree,  and  a  box  cov-
-ered with  tin  fell  out.  He  opened  the  box,  sixteen  little  birds
+Yarhan  Tulai  broke  the  stone  against  a  tree,  and  a  box  covered with  tin  fell  out.  He  opened  the  box,  sixteen  little  birds
 were  in  it;  thirteen  he  killed  and  three  he  put  in  his  pocket.
-Then  he  went  to  find  the  Mangathai's  yurta  while  the  Man-
-gathai was  off  hunting  for  his  cattle.
+Then  he  went  to  find  the  Mangathai's  yurta  while  the  Mangathai was  off  hunting  for  his  cattle.
 
 The  Mangathai's  wife  was  at  home,  an  angry  woman  with
 an  ugly  face.  On  one  of  her  knees  Varhan's  brother  was  sitting;
-on  the  other  was  Deri  Sisin,  Albat's  wife.  Whenever  the  Man-
-gathai woman  went  out  they  had  to  go  with  her.
+on  the  other  was  Deri  Sisin,  Albat's  wife.  Whenever  the  Mangathai woman  went  out  they  had  to  go  with  her.
 
 "Why  did  you  make  my  brother  and  his  wife  your  servants  ?"
 asked  Yarhan,  as  he  pushed  the  woman  over  and  caught  hold
@@ -11545,8 +10694,7 @@ dead.
 
 Varhan  brought  dry  trees  and  burned  the  body.  Then  he
 made  a  wooden  mill  and  ground  up  the  larger  bones  of  his
-enemy,  turned  all  into  ashes  and  scattered  the  ashes  every-
-where.
+enemy,  turned  all  into  ashes  and  scattered  the  ashes  everywhere.
 
 "Which  will  you  have,  seventy  tree  tops  or  seventy  good
 horse  tails?"  asked  he  of  the  Mangathai's  wife.
@@ -11559,10 +10707,7 @@ the  stake,  impaled  and  killed  her;  then  he  brought  her  to  life
 again.    Next  he  took  seventy  horses,  tied  her  to  their  tails,  and
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    227
-
-tore  her  into  seventy  pieces.  After  that  he  put  the  seventy-
-pieces  together  and  made  her  alive  a  second  time;  then  he  im-
+tore  her  into  seventy  pieces.  After  that  he  put  the  seventypieces  together  and  made  her  alive  a  second  time;  then  he  im-
 paled her  on  a  stake  again  and  left  her  there.  He  searched  the
 house  carefully.  In  one  chamber  he  found  an  iron  cradle;  in
 the  cradle  an  infant,  the  son  of  the  Mangathai.  Varhan  seized
@@ -11602,8 +10747,7 @@ days  we  will  make  a  dreadful  heat,  and  the  boy  will  burst."
 
 Varhan  built  the  houses;  then  he  and  his  brother  and  his
 brother's  wife  took  refuge  in  the  lead  house,  while  the  Burkans
-made  such  a  terrible  heat  in  all  the  country  around  the  Man-
-gathai's  house  where  the  boy  was  that  he  became  dreadfully
+made  such  a  terrible  heat  in  all  the  country  around  the  Mangathai's  house  where  the  boy  was  that  he  became  dreadfully
 swollen  and  at  last  burst.
 
 When  the  nine  days  were  over  Varhan  and  his  brother  came
@@ -11611,8 +10755,6 @@ out  of  the  lead  house,  burned  the  body  of  the  Mangathai  child,
 scattered  the  ashes,  took  all  of  the  cattle  and  wealth  of  the
 Mangathai,*and  went  home.    When  Varhan  reached  his  yurta
 
-
-228    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 his  wife  was  gone;  she  had  fled  back  to  Esege  Malan,  her
 father.
@@ -11637,8 +10779,7 @@ Esege  Malan  now  called  the  seven  heavenly  smiths  from  the
 sky  and  sent  them  down  with  their  forges ;  he  sent  also  the  three
 hundred  heroes,  and  this  time  each  hero  carried  a  hammer
 ninety  poods  in  weight.  The  smiths  were  to  heat  up  and  the
-heroes  to  hammer.  They  worked  a  whole  month,  but  accom-
-plished nothing;  everything  they  did  was  useless.
+heroes  to  hammer.  They  worked  a  whole  month,  but  accomplished nothing;  everything  they  did  was  useless.
 
 All  this  time  there  was  darkness  everywhere.  At  last  the
 thousand  Burkans  held  a  second  council.  There  was  one  very
@@ -11649,8 +10790,7 @@ old  Burkan  to  Esege  Malan,  and  he  said :
 give  Shandagan  Sagai  to  him.  Are  the  sky  and  the  earth  to  be
 in  darkness  because  of  thy  daughter?"
 
-Esege  Malan  said,  "I  will  give  him  my  daughter  immedi-
-ately." And  that  moment  he  summoned  Herdik  Shubun
+Esege  Malan  said,  "I  will  give  him  my  daughter  immediately." And  that  moment  he  summoned  Herdik  Shubun
 (the  eagle),  and  said:
 
 "Take  my  daughter  to  the  place  where  Hohodai  Mergen
@@ -11714,8 +10854,6 @@ they  went  home  and  asked  their  mother  if  a  Mangathai  woman
 had  carried  off  Varhan  Tulai  Hubun,  and  was  he  their  father?
 
 
-230    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 "Vorhan  Tulai  was  your  father,"  answered  Shandagan
 Sagai,  "but  he  died  before  you  were  born."
 
@@ -11731,8 +10869,7 @@ the  cover  off  the  kettle,  seize  her  and  hold  her  hands  down  in
 the  water  till  she  tells  where  our  father  is."
 
 The  younger  brother  went  into  the  house  and  was  talking
-with  his  mother,  when  suddenly  the  elder  brother,  who  had  re-
-mained in  the  field,  cried :  "Mother,  come  quickly !  The  calves
+with  his  mother,  when  suddenly  the  elder  brother,  who  had  remained in  the  field,  cried :  "Mother,  come  quickly !  The  calves
 are  sucking  the  cows  dry,  we  shall  have  no  milk !"
 
 The  mother  hurried  out,  but  had  not  reached  the  field  when
@@ -11763,8 +10900,6 @@ home.
 
 "I  have  killed  the  sixty-three  headed  Mangathai,"  said  Albat
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    231
 
 Mergin,  "but  have  seen  nothing  of  my  brother,  Varhan  Tulai
 Hubun."
@@ -11801,9 +10936,6 @@ They  left  the  Mangathai  woman  and  her  seven  sons  at  the
 cross-roads,  turned  the  Mangathai's  house  bottom  upward,  took
 all  that  she  had,  went  home  with  it,  and  lived  there  afterward,
 rejoicing.
-
-
-232    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 
 ALTIN  SHAGOY
@@ -11854,8 +10986,6 @@ The  father  and  mother  thought  their  son  was  making  sport  of
 them  beyond  forgiveness  and  that  they  must  get  rid  of  him.
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    233
-
 "Oh,  an  evil,  a  very  evil  child  was  born  to  us!"  said  the
 father  and  mother.
 
@@ -11874,14 +11004,12 @@ went  out,  looked  around,  came  back,  and  passed  a  second
 night.
 
 When  the  father  took  his  son  to  the  mountain  the  child  could
-not  walk.  The  next  morning  the  parents,  looking  at  the  moun-
-tain and  wondering  what  had  become  of  the  boy,  noticed  the
+not  walk.  The  next  morning  the  parents,  looking  at  the  mountain and  wondering  what  had  become  of  the  boy,  noticed  the
 beautiful  yurta  and  marveled  that  it  had  appeared  there  in
 one  night.
 
 "Some  enemy  of  ours  has  come,  surely  to  kill  us  in  the  end,"
-said  they.  "Let  us  go  up  to  the  mountain.  Let  us  give  an  offer-
-ing to  the  Burkans.    Our  son  must  be  dead  by  this  time."
+said  they.  "Let  us  go  up  to  the  mountain.  Let  us  give  an  offering to  the  Burkans.    Our  son  must  be  dead  by  this  time."
 
 They  did  not  go  to  the  mountain ;  they  made  no  offering  to
 the  Burkans.
@@ -11903,8 +11031,6 @@ must  count  all  my  people,  my  cattle,  and  my  herds  of  horses."
 His  mother  now  gave  birth  to  a  second  child,  a  real  glutton,  a
 terrible  eater.    People  brought  word  to  Altin  that  his  father  and
 
-
-234    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 mother  had  a  daughter,  that  they  had  killed  their  one  cow  to
 feed  her,  and  were  suffering  from  want,  —  that  his  mother  was
@@ -11952,8 +11078,6 @@ From  the  reed  Altin  became  himself  and  seized  the  bridle.
 The  horse  was  so  frightened  that  he  ran  and  dragged  Altin,
 dragged  him  a  day  and  a  night,  around  that  great  mountain.
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    235
 
 "If  thou  wish  to  kill  me,"  said  Altin,  "kill  me  quickly.  If
 thou  wish  to  save,  stop  at  once.  If  not  I  shall  be  dizzy  and  die
@@ -12006,15 +11130,12 @@ counted  them  for  three  days  and  nights,  but  could  not  finish.  On
 the  fourth  day  he  discovered  that  three  years  before  the  best
 
 
-236    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 mare  In  his  herd  had  had  a  colt;  that  colt  was  gone.  They
 searched  for  bones  to  see  if  a  wolf  had  eaten  the  colt,  but  could
 find  none.
 
 At  last  on  the  north  side  of  the  meadow  they  found  a  trail.
-A  thief  had  stolen  the  colt.  Three  brothers  lived  off  in  that  direc-
-tion, and  Altin  thought  that  they  had  taken  it ;  so  he  rode  to  their
+A  thief  had  stolen  the  colt.  Three  brothers  lived  off  in  that  direction, and  Altin  thought  that  they  had  taken  it ;  so  he  rode  to  their
 yurta  and  tied  his  horse  to  their  hitching-post.  The  post  would
 not  stand,  came  out  of  the  ground.  Altin  took  an  arrow,  thrust
 it  into  the  earth,  and  tied  his  steed  to  it.  Then  he  went  into  the
@@ -12064,8 +11185,6 @@ Buriat  Gods,  or  Representations  of  their  Gods
 Outside  Ongons.     Page  85
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    237
-
 That  moment  Altin  seized  the  boaster  by  the  back  of  the  neck,
 whirled  him  three  times  around  his  own  head,  struck  a  pine  tree
 with  his  body,  and  killed  him.  The  second  brother  came  now.
@@ -12114,8 +11233,6 @@ place."
 "Where  can  I  find  such  a  person,  a  good  man  ?"  asked  Altin.
 
 
-238    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 No  one  spoke,  till  at  last  the  old  man  said :  "I  have  a  son  of
 twenty  years  who  knows  seven  languages.  He  may  manage  the
 country  for  thee."
@@ -12125,12 +11242,10 @@ to  come,"  said  the  messengers.  The  young  man  was  in  one
 shirt.  "I  am  khan  for  myself,"  said  he.  "I  owe  your  khan
 nothing;  I  taught  myself  with  my  own  father's  means,  I  took
 nothing  from  any  man,  I  am  not  in  debt  to  any  one.  But  since
-the  khan  calls  I  will  go."  He  put  on  a  black  shuba,  black  trou-
-sers, a  cap,  and  fishskin  shoes ;  then  he  went  to  Altin,  who  came
+the  khan  calls  I  will  go."  He  put  on  a  black  shuba,  black  trousers, a  cap,  and  fishskin  shoes ;  then  he  went  to  Altin,  who  came
 out  to  meet  him,  took  him  by  the  hand,  and  led  him  into  the
 yurta.  "What  wilt  thou  eat?"  asked  Altin.  He  had  drink
-placed  before  the  young  man,  and  next  the  book  which  he  him-
-self had  read.
+placed  before  the  young  man,  and  next  the  book  which  he  himself had  read.
 
 "If  thou  finish  this  book  in  three  days,"  said  Altin,  "I  shall
 believe  that  if  thou  art  here  in  my  place  it  will  be  as  well  as  if
@@ -12167,25 +11282,20 @@ to  know  that  thou  art  well.    Canst  thou  give  me  a  sign  ?  "
 The  young  man  gave  his  own  silver  ring.    "If  I  am  well  and
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    239
-
 in  health,"  said  he,  "the  ring  will  glitter.  If  I  die  it  will  fall
 into  two  parts.    Give  me  a  sign  also."
 
 "I  will  show  thee  thy  dwelling-place  first,"  answered  Altin,
 "and  then  give  thee  a  sign."  After  he  had  showed  him  a  yurta
-aside,  he  gave  him  an  arrow  and  said :  "Keep  this  arrow  care-
-fully.   If  I  die  it  will  rot.    If  I  live  it  will  be  as  it  now  is."
+aside,  he  gave  him  an  arrow  and  said :  "Keep  this  arrow  carefully.   If  I  die  it  will  rot.    If  I  live  it  will  be  as  it  now  is."
 
 Altin  was  ready  to  mount  when  on  a  sudden  he  thought  of
-something  he  had  forgotten,  and  called  out,  "I  have  not  sum-
-moned the  people  -to  wish  me  good  fortune."  He  summoned
+something  he  had  forgotten,  and  called  out,  "I  have  not  summoned the  people  -to  wish  me  good  fortune."  He  summoned
 them,  then  placed  out  meat  and  drink  in  plenty.  They  gave
 good  wishes,  and  he  went  toward  the  South,  unattended.
 
 "I  can  go  mightily  if  you  wish,"  said  Altin's  steed.  And  he
-rushed  forward  like  a  strong  wind.  Soon  he  was  at  the  boun-
-dary. The  sun  was  high  when  Altin  left  home,  but  he  was  on
+rushed  forward  like  a  strong  wind.  Soon  he  was  at  the  boundary. The  sun  was  high  when  Altin  left  home,  but  he  was  on
 the  boundary  at  midday.  Taking  tobacco,  he  smoked.  "We
 can  work  well  together,"  said  he  to  his  steed.
 
@@ -12217,16 +11327,12 @@ has  she  to  cause  a  man's  death  ?  I  will  make  her  take  up  to
 heaven  what  is  left  of  my  master."
 
 
-240    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
-The  falcon  flew  to  the  sky,  straight  to  Zayasha  Zayan  Ten-
-geri,  who  had  made  him,  and  told  what  had  happened.  "There
+The  falcon  flew  to  the  sky,  straight  to  Zayasha  Zayan  Tengeri,  who  had  made  him,  and  told  what  had  happened.  "There
 will  be  a  council,"  said  Zayasha,  and  he  sent  at  once  for  the
 thousand  Heavenly  Burkans.
 
 "Who  dared  to  kill  the  man  whom  I  made?"  asked  he,
-when  all  the  thousand  Burkans  were  assembled  the  next  morn-
-ing at  daybreak.  They  told  him,  and  then  summoned  Tiyil
+when  all  the  thousand  Burkans  were  assembled  the  next  morning at  daybreak.  They  told  him,  and  then  summoned  Tiyil
 Biige  and  sentenced  him  to  bring  the  lower  half  of  Altin's  body
 to  the  sky.  "  Thou  hast  not  done  right,"  said  they ;  "  thy  daughter
 was  to  blame  altogether.  She  has  led  an  evil  life  on  earth  and
@@ -12258,14 +11364,11 @@ cuckoo  as  big  as  a  horse's  head.  This  bird  knows  all  that  is
 done  in  the  sky,  everything  thought  out  there  by  the  Burkans.
 She  can  bring  the  dead  to  life  and  give  riches  to  poor  people;
 she  has  immense  wisdom,  this  cuckoo.  Drink  of  that  Water
-of  Life,  give  some  to  thy  horse,  and  ride  forward  next  morn-
-ing. From  here  to  that  mountain  are  golden  stairs."  Altin
+of  Life,  give  some  to  thy  horse,  and  ride  forward  next  morning. From  here  to  that  mountain  are  golden  stairs."  Altin
 reached  the  mountain  and  never  stopped  till  he  stood  by  the
 golden-trunked  aspen  tree.  He  dismounted,  then  drank  of  the
 water,  gave  some  to  his  horse,  made  a  fire,  and  ate  silver  leaves
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    241
 
 from  the  aspen.  Whoso  ate  of  those  leaves  was  not  hungry
 or  cold  thereafter.
@@ -12288,8 +11391,7 @@ horseback!"
 "Thy  daughter  is  to  be  my  wife.  This  has  been  settled  by
 the  Heavenly  Burkans  and  depends  on  them."
 
-"If  that  is  true,"  said  Gal,  "thou  canst  see  her.  She  is  be-
-yond seventy-seven  doors ;  go  to  her."
+"If  that  is  true,"  said  Gal,  "thou  canst  see  her.  She  is  beyond seventy-seven  doors ;  go  to  her."
 
 The  doors  were  of  iron,  strong  and  heavy.  With  a  kick  Altin
 opened  each  door.  When  he  reached  the  seventy-seventh
@@ -12319,10 +11421,6 @@ When  she  read  that  she  commanded  to  bring  food  and  drink
 
 and  began  to  entertain  Altin.
 
-16
-
-
-242    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 In  the  morning  Gal  Nurman  cried  outside  Altin's  door.
 "Thou  art  sleeping  long !"  Altin  went  out  to  his  father-in-law.
@@ -12377,8 +11475,6 @@ cured  at  a  place  on  a  distant  mountain.  Now  Mogoi  Khan
 wants  to  eat  us  while  our  father  is  gone.    He  will  come  to-day
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    243
-
 and  eat  my  sister  who  is  crying,  to-morrow  he  will  eat  my
 sister  who  is  singing,  and  the  third  day  he  will  eat  me."
 
@@ -12410,8 +11506,7 @@ could  not,  it  was  bloody.
 
 Altin  took  his  own  form,  and  ran  back  to  the  three  sisters,
 ran  swiftly.  But  Mogoi  Khan  was  terribly  poisonous.  All  Altin's
-hair  fell  off,  and  for  one  mile  around  each  spear  of  grass  with-
-ered up.
+hair  fell  off,  and  for  one  mile  around  each  spear  of  grass  withered up.
 
 "I  have  conquered  your  enemy,"  said  Altin  to  the  sisters.
 
@@ -12429,8 +11524,6 @@ cannot  aid  thee  in  any  way."
 
 Altin  rode  to  that  mountain  from  which  golden  stairs  reach
 
-
-244    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 the  sky.  He  went  up  those  stairs  on  his  steed,  went  to  the
 heavenly  smiths  for  hoofs,  chains,  and  fetters.  "We  have  no
@@ -12482,8 +11575,6 @@ sent  us  to  meet  thee."
 "  Gal  Niirman  would  not  believe  me  if  I  went  to  him  without
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    245
-
 the  dog ;  he  would  make  me  go  again  on  this  long  journey.  Ye
 must  be  strange  people  and  think  me  very  simple.  Eat  up
 those  two  men  and  their  horses !"  said  Altin  to  the  yellow  dog.
@@ -12529,15 +11620,12 @@ had  got  chains,  hoops,  and  fetters  of  the  heavenly  smiths,  had
 fettered  the  yellow  dog,  and  brought  him  to  her  father.
 
 "Thou  hast  said  nothing  about  the  three  sisters  on  the  pine
-tree.  When  shooting  the  arrow  thy  command  to  it  was  to  re-
-turn to  thee.  Why  did  it  not  come  back  ?  I  know  about  those
+tree.  When  shooting  the  arrow  thy  command  to  it  was  to  return to  thee.  Why  did  it  not  come  back  ?  I  know  about  those
 sisters  and  what  they  said.  One  said  that  she  would  be  thy  son's
 wife."
 
 The  next  day  was  the  wedding.    There  were  many  people,  and
 
-
-246    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 they  had  much  meat  and  drink.    Ravens  and  magpies  had  their
 fill.
@@ -12545,9 +11633,6 @@ fill.
 On  the  fifth  day  Altin  and  his  bride  were  at  his  own  yurta  on
 the  mountain.  And  then  the  young  man  whom  he  had  left  in
 charge  went  for  his  bride;  but  that  is  another  story.
-
-
-MONGOL  MYTHS  AND  FOLK-TALES    247
 
 
 YERENTE  KHAN  AND  HIS  SON  SOKTO
@@ -12595,8 +11680,6 @@ iron  storehouse  and  led  forth  a  red  bull  with  horns  sixty  fathoms
 long,  took  a  rope  of  rawhide,  put  it  through  the  bull's  nose,
 sat  on  the  beast's  back,  and  rode  away  westward.
 
-
-248    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Yerente  rode  far,  rode  to  a  certain  mountain  beyond  the
 boundary  of  his  land,  and  there  found  his  mares  and  his  stallion.
@@ -12647,8 +11730,6 @@ Each  with  all  his  ten  fingers  tore  bits  of  flesh  from  the  other.
 The  stallion  ran  at  the  bull  and  bit  his  spine.    The  bull  drew
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    249
-
 back,  freed  himself,  and  rushed  with  his  long  horns  at  the  stallion,
 fought  with  him,  pierced  him  through  the  breast.  Then  the
 bull  rushed  at  the  Mangathai,  pierced  him,  raised  him  on  his
@@ -12697,8 +11778,6 @@ and  it  ran  home  quickly.  Yerente  put  a  silk  saddle-cloth  on
 the  stallion,  then  a  saddle  of  silver ;  he  put  a  silver  bit  in  its  mouth
 
 
-250    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 and  silver  trinkets  on  the  saddle.  Then  he  mounted,  took  bow
 and  quiver,  and  went  to  hunt.
 
@@ -12737,8 +11816,7 @@ Yerente.  "How  long  thou  wert  gone !  Thou  hast  wearied
 thyself  for  nothing.  Give  me  the  horse.  I  will  help  thee,  I
 will  tie  him  to  the  hitching-post."
 
-"I  have  never  let  any  one  tie  my  horse;  I  will  do  that  my-
-self," said  Yerente.
+"I  have  never  let  any  one  tie  my  horse;  I  will  do  that  myself," said  Yerente.
 
 He  unsaddled  the  horse  quickly  and  let  him  out.  "Be  as
 fat  as  possible,"  said  he  to  the  stallion.  Yerente  went  into  the
@@ -12746,8 +11824,6 @@ yurta.  Duryai  took  him  by  the  hand,  commanded  to  skin  the
 goats  and  dress  them.  All  things  were  made  ready;  tarasun
 was  brought  in  quickly.     Duryai  gave  Yerente  one  cup  after
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    251
 
 another,  and  soon  he  was  drunk.  "Let  me  have  more  drink!"
 said  he.
@@ -12758,8 +11834,7 @@ said  he.
 Duiyai  was  in  high  spirits ;  she  brought  another  pot  of  tarasun.
 Yerente  drank  all  from  the  pot  and  was  senseless.  The  poison
 came  out  in  blue  and  red  flames  through  his  mouth  and  his
-nostrils.  As  her  husband  lay  there,  Duiyai  called  to  the  Man-
-gathai :  "Thy  enemy  is  dead  now,  come  out  tome!"
+nostrils.  As  her  husband  lay  there,  Duiyai  called  to  the  Mangathai :  "Thy  enemy  is  dead  now,  come  out  tome!"
 
 The  Mangathai  came  out,  but  Yerente  was  not  dead.  He
 sprang  up,  and  the  two  fought;  the  old  man  fought  his  false
@@ -12801,8 +11876,6 @@ overtake  him,  and  he  saved  the  two  children.  On  the  top  of
 that  mountain  was  the  Water  of  Life.
 
 
-252    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 "Let  us  go  back,"  said  the  Mangathai.  "What  can  that
 horse  do  alone  ?  What  good  is  a  horse  without  a  master  ?  What
 good  is  a  knife  without  a  handle?"
@@ -12816,8 +11889,7 @@ from  heat.  For  three  years  the  children  played;  after  that  the
 horse  said  to  them.  "Ye  are  large  enough  now,  I  may  take  you
 down  to  the  valley.    If  ye  are  lucky  ye  will  prosper."
 
-They  went  down  the  mountain,  and  then  hand  in  hand  wan-
-dered farther.  Soon  they  came  to  a  large  open  place,  where
+They  went  down  the  mountain,  and  then  hand  in  hand  wandered farther.  Soon  they  came  to  a  large  open  place,  where
 there  were  eighty-five  immense  pine  trees.  Beyond  the  trees
 was  a  splendid  yurta  which  shone  like  silver.  Near  the  pine
 trees  Sokto  made  a  shelter  for  his  sister.  "Stay  here,"  said  he,
@@ -12852,8 +11924,6 @@ do  for  him  daily  till  I  kill  him."
 "If  I  do  not  kill  him  he  may  become  my  enemy."
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    253
-
 The  khan  gave  the  Mangathai  half  a  cask  of  tarasun  to  drink
 and  begged  again  for  the  boy.
 
@@ -12883,8 +11953,7 @@ cried,  "She  must  be  alive,  and  not  far  from  here."
 
 They  looked  for  tracks  and  found  them.  The  time  was  early
 morning.  The  tracks  led  to  a  valley  near  by.  There  was  dew  on
-the  grass,  and  they  found  Agiii  drinking  dew,  which  she  gath-
-ered on  her  palms.  Her  face  and  body  were  covered  with  sores
+the  grass,  and  they  found  Agiii  drinking  dew,  which  she  gathered on  her  palms.  Her  face  and  body  were  covered  with  sores
 from  the  bites  of  insects ;  she  had  no  clothing  whatever.  They
 gave  her  milk  from  home,  one  spoonful.  The  khan  took  her  in
 his  arms  and  carried  her;  when  half-way  to  his  yurta  he  gave  her
@@ -12903,8 +11972,6 @@ my  son,"  said  the  khan ;  and  he  made  a  bridle  of  red  cloth,  and
 reins  of  the  same  stuff.  Sokto  cared  for  the  colt;  he  was  fond
 of  horses.    When  a  year  had  passed  he  said  to  his  new  father:
 
-
-254    A  JOURNEY  IN  SOUTHERN  SIBERIA.
 
 "Show  me  thy  shuba  and  trousers;  I  want  to  see  thy  clothing
 and  weapons."
@@ -12949,15 +12016,12 @@ him  to  the  biggest  pine;  then  he  took  ninety-nine  hoops  and  •
 bound  him  to  the  pine  with  them.
 
 "Thou  wilt  neither  die  nor  be  free.  Thou  canst  never  free
-thyself,  and  another  will  not  free  thee.  Thou  wilt  stay  here  for-
-ever," said  Sokto.  Then  he  left  him  and  went  toward  the
+thyself,  and  another  will  not  free  thee.  Thou  wilt  stay  here  forever," said  Sokto.  Then  he  left  him  and  went  toward  the
 yurta;  when  one  verst  from  the  place  he  sent  an  arrow  at  it,
 saying  to  the  arrow :
 
 "Destroy  the  yurta  and  kill  the  wife  of  the  Mangathai."   The
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    255
 
 arrow  went  through  the  center  of  the  yurta  and  hit  the  woman.
 She  gave  premature  birth  to  a  son  and  died.  The  child  sat  on
@@ -12976,12 +12040,10 @@ cool.    A  tube  came  from  the  sky  to  the  furnace.
 "Three  days  were  left  me  to  be  born,"  complained  the  boy,
 "and  nine  days  later  I  was  to  be  ready  for  battle."
 
-The  fourth  night  Sokto  cut  the  tube  and  the  child  was  con-
-sumed by  the  fire.
+The  fourth  night  Sokto  cut  the  tube  and  the  child  was  consumed by  the  fire.
 
 The  young  hero  then  took  the  Mangathai's  property  and  went
-home  to  his  father's  yurta.  AH  was  silent  there.  He  left  every-
-thing he  had  brought  and  went  off  to  the  great  house  where
+home  to  his  father's  yurta.  AH  was  silent  there.  He  left  everything he  had  brought  and  went  off  to  the  great  house  where
 his  mother  and  the  seventy-five  headed  Mangathai  lived.  He
 called  to  them  from  outside.  Uutun  Duryai  recognized  his
 voice.
@@ -13008,8 +12070,6 @@ trees  he  wrote  these  words :  "With  the  dull  knife  every  man  who
 passes  must  cut  a  piece  of  flesh  from  each  of  these  two  who  hang
 here,  with  the  blunt  scissors  every  woman  who  passes  must
 
-
-256    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 cut  a  piece  of  flesh  from  them  also.  If  not  they  will  be  treated
 like  this  Mangathai,  and  this  woman."
@@ -13063,10 +12123,7 @@ times  fiercely.    Then  they  went  to  the  khan's  yurta.
 "I  never  thought  that  thou  wouldst  be  such  a  hero,"  said
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    257
-
-the  khan's  wife  to  Sokto.  The  next  morning  all  came  to-
-gether, —  two  fathers,  one  mother,  one  sister,  and  one  brother.
+the  khan's  wife  to  Sokto.  The  next  morning  all  came  together, —  two  fathers,  one  mother,  one  sister,  and  one  brother.
 
 "If  I  say  a  word  will  ye  be  willing  that  I  accomplish  it?"
 inquired  Sokto.
@@ -13097,8 +12154,7 @@ new  place  and  feasted.
 "Thou  shouldst  read  thy  book  of  life,"  said  his  mother.
 
 He  opened  his  midriff  and  found  the  book  in  his  liver.  He
-read  this  book  for  three  days  and  nights,  —  at  night  by  torch-
-light, in  the  day  by  sunlight.  At  times  he  cried,  at  times  he
+read  this  book  for  three  days  and  nights,  —  at  night  by  torchlight, in  the  day  by  sunlight.  At  times  he  cried,  at  times  he
 sang  songs.
 
 "In  the  south  country  lives  Gul  Khan,  and  he  has  a  daughter,
@@ -13119,10 +12175,6 @@ corner  of  the  yurta,  grows  a  golden-trunked  aspen  tree  with
 silver  leaves.  On  the  twigs  of  that  aspen  tree  thousands  of  little
 birds  will  be  twittering.    These  birds  will  speak  in  their  own
 
-17
-
-
-258    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 way;  from  them  news  may  be  heard  through  knowledge  of  their
 speech.  If  I  die  the  tree  will  rot  and  fall,  and  the  birds  will  fly
@@ -13139,24 +12191,20 @@ dead  or  ill,  or  married  in  spite  of  my  wishes,  the  ring  will  be
 ugly  and  dim."
 
 Sokto  assembled  all  the  people,  placed  before  them  drink
-and  meat  in  plenty,  and  asked  them  to  wish  him  success  and  re-
-member him.  "I  will  bring  a  bride  home  to  you,"  said  he,  in
+and  meat  in  plenty,  and  asked  them  to  wish  him  success  and  remember him.  "I  will  bring  a  bride  home  to  you,"  said  he,  in
 parting.
 
 An  old  man,  gray  bearded  to  the  knees,  wished  him  good  health
 and  success  on  his  journey.
 
-Sokto  set  out  on  a  gallop,  rode  till  he  reached  another  king-
-dom, then  halted,  for  right  before  him  was  a  spring.  He  took
+Sokto  set  out  on  a  gallop,  rode  till  he  reached  another  kingdom, then  halted,  for  right  before  him  was  a  spring.  He  took
 out  his  pipe  and  burned  tobacco  to  the  spring;  then  he  threw
 tobacco  into  the  water.  He  named  all  the  thousand  Burkans  and
 asked  for  a  favoring  journey.
 
-Then  he  rode  farther,  rode  beyond  the  boundary  of  the  king-
-dom. Soon  he  heard  the  tramp  of  ten  horses  and  the  voices  of
+Then  he  rode  farther,  rode  beyond  the  boundary  of  the  kingdom. Soon  he  heard  the  tramp  of  ten  horses  and  the  voices  of
 ten  riders.  He  reined  in  his  steed.  "Are  those  enemies  or  good
-people  ?  A  man  should  accomplish  his  purpose,"  said  he  to  him-
-self.    "Why  should  I  fear?    Those  are  people  like  me!"
+people  ?  A  man  should  accomplish  his  purpose,"  said  he  to  himself.    "Why  should  I  fear?    Those  are  people  like  me!"
 
 He  hurried  on,  turned  himself  into  eleven  young  heroes  on
 horseback,  made  just  such  a  tramping  and  sound  of  voices  as
@@ -13172,7 +12220,6 @@ turned  toward  each  other.
 "From  what  place  art  thou?"  inquired  Sokto.
 
 
-3
 he
 
 
@@ -13204,8 +12251,6 @@ Ed  X
 
 Ph
 
-
-MONGOL  MYTHS  AND  FOLK-TALES     259
 
 "I  am  going  to  Yerente  Khan,"  said  the  big  man.  "I  have
 heard  that  he  has  a  daughter,  Agiii  Nogun  Duhe ;  I  want  her  for
@@ -13254,8 +12299,6 @@ again  and  the  flint  chip  became  the  red  stallion.
 blood  is  sold  cheaply  by  any  man.  This  will  be  a  great  Shaman
 place  hereafter."
 
-
-260    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Sokto  mounted  his  steed,  rode  farther  and  met  a  twenty-five
 headed  Mangathai  on  a  gray  stallion.
@@ -13309,8 +12352,6 @@ She  hurled  after  him  a  scraper  twenty  fathoms  long  which
 was  used  in  tanning  leather.     Then  she  fell  down  and  that
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    261
-
 moment  seven  acres  of  land  were  covered  with  foul  worms.  All
 the  land  covered  by  the  tarasun  was  burned  up  immediately.
 The  scraper  followed  Sokto;  he  felt  it  coming.  He  made  a
@@ -13338,8 +12379,7 @@ great  friends  now.  Sokto  went  farther  and  came  to  a  meadow.
 In  that  meadow  was  a  multitude  of  frogs,  some  of  them  as  large
 as  a  three-year-old  bullock.
 
-"Do  not  let  that  traveler  pass,"  said  one  of  the  frogs  to  an-
-other. Sokto  turned  his  horse  into  a  flint  chip  and  himself  into
+"Do  not  let  that  traveler  pass,"  said  one  of  the  frogs  to  another. Sokto  turned  his  horse  into  a  flint  chip  and  himself  into
 a  black  frog  as  big  as  a  young  bullock,  so  that  the  others  should
 not  know  him;  then  he  moved  forward  slowly.  He  moved  for
 nine  days  and  nights  through  that  frog-covered  meadow.  When
@@ -13356,8 +12396,6 @@ Sokto  went  back  some  distance,  made  his  horse  a  flint  chip
 and  himself  a  snake  like  the  snakes  of  that  meadow.  He  spent
 seven  days  and  nights  among  those  hostile,  venemous  snakes,
 
-
-262    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 passed  by  them  unobserved  and  then  became  a  man  again.  The
 snakes  were  terribly  angry  and  had  a  furious  battle  when  they
@@ -13389,12 +12427,10 @@ that  hair  out  in  front  of  me,"  said  the  horse.
 Sokto  threw  the  hair.  That  moment  the  stone  disappeared;
 out  in  front  was  a  good  level  road  through  a  valley  and  farther
 on  a  broad  forest.  They  passed  the  valley  and  were  soon  on
-the  mountain  top,  where  there  was  a  golden-trunked,  silver-
-leafed  aspen  tree.  At  the  foot  of  the  tree  was  the  Water  of  Life,
+the  mountain  top,  where  there  was  a  golden-trunked,  silverleafed  aspen  tree.  At  the  foot  of  the  tree  was  the  Water  of  Life,
 and  a  silver  cup  was  hanging  from  a  branch  of  the  tree.  Without
 the  cup  no  man  could  drink  at  the  spring  or  take  water  out  of  it.
-Sokto  drank  and  gave  water  to  his  horse.  Then  the  horse  be-
-gan to  graze,  and  Sokto  kindled  a  fire,  made  a  bed  of  the  saddle-
+Sokto  drank  and  gave  water  to  his  horse.  Then  the  horse  began to  graze,  and  Sokto  kindled  a  fire,  made  a  bed  of  the  saddle-
 cloth, a  pillow  of  the  saddle,  lay  down  and  slept  soundly.
 
 The  next  morning  when  he  rose  his  horse  had  changed
@@ -13405,8 +12441,6 @@ and  rode  toward  them.
 
 On  the  boundary  Sokto  made  his  horse  gray  and  lean,  made
 
-
-.    MONGOL  MYTHS  AND  FOLK-TALES   263
 
 himself  decrepit,  white  bearded  to  the  knees,  old,  and  wretched.
 Then  he  rode  toward  the  yurta.  Five  horses  of  various  colors
@@ -13423,8 +12457,7 @@ of  bridegroom  art  thou,  poor  old  fellow  ?"  asked  they.
 "Who  art  thou,  old  man?"   asked  the  khan.
 
 "Why  talk  to  me  in  this  way  ?  What  a  strange  father-in-law !
-Thou  hast  five  daughters,  they  should  choose  their  own  bride-
-grooms. Assemble  the  people  to-morrow,  let  each  daughter
+Thou  hast  five  daughters,  they  should  choose  their  own  bridegrooms. Assemble  the  people  to-morrow,  let  each  daughter
 choose  the  man  who  pleases  her."
 
 The  daughters  were  behind  seventy-seven  doors  at  this  time.
@@ -13459,8 +12492,6 @@ bride  of  that  old  man."
 
 The  four  went  out  to  hunt  wild  goats,  and  the  old  man  went
 
-
-264    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 also.  He  made  his  horse  lame.  The  beast  could  hardly  move
 he  was  so  crippled  and  wretched.  They  reached  the  forest.
@@ -13502,8 +12533,7 @@ The  four  young  bridegrooms  laughed,  ridiculed  the  old  man.
 
 He  grew  angry  at  their  laughter  and  jokes  and  when  they
 reached  the  forest  he  kindled  a  fire  and  sat  down  by  it.  "  Go  ye
-to  hunt,"  said  he.  "I  will  stay  here  by  the  fire."  He  killed  an-
-other goat.  When  he  sent  the  arrow  he  said :  "Let  the  entrails
+to  hunt,"  said  he.  "I  will  stay  here  by  the  fire."  He  killed  another goat.  When  he  sent  the  arrow  he  said :  "Let  the  entrails
 be  poison  and  the  meat  the  cure."
 
 "What  have  ye  killed  ?"  asked  he  of  the  four  when  they  came
@@ -13512,8 +12542,6 @@ in  the  evening.    "Nothing,"  said  they.
 "Though  I  have  killed  one  big  goat  I  will  not  divide  this
 time,"  said  the  old  man.    They  insisted  on  division  till  at  last
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    265
 
 he  said:  "I  will  divide  if  each  of  you  will  give  me  a  finger's
 width  of  skin  from  his  neck  to  the  end  of  his  back."  They
@@ -13528,8 +12556,7 @@ is  coming,  my  end  is  near !    I  must  die  this  time ! "
 The  old  man's  bride  cooked  clean  meat  and  brought  it  to  her
 sick  father.  "Why  bring  me  meat?"  asked  he.  "I  do  not
 want  it."  She  bowed  down  to  him,  entreated :  "Try  a  little."
-The  meat  was  very  savory.  The  moment  the  khan  ate  a  mouth-
-ful he  was  well  again.
+The  meat  was  very  savory.  The  moment  the  khan  ate  a  mouthful he  was  well  again.
 
 On  the  third  morning  he  called  the  four  bridegrooms  and  said :
 
@@ -13564,8 +12591,6 @@ Mangathai.  The  ashes  from  his  bones  filled  ninety-seven  bags.
 Then  the  old  man  made  a  windmill,  ground  all  the  ashes  in  the
 ninety-seven  bags  and  let  the  wind  bear  the  ashes  away.     All
 
-
-266    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 was  finished  by  morning.  The  four  bridegrooms  knew  nothing
 of  what  had  happened.  At  dawn  the  old  man  was  by  their
@@ -13619,8 +12644,6 @@ understanding  than  any  one  of  them.  How  didst  thou  get  the
 other  four  straps  from  the  bridegrooms?"
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    267
-
 "For  telling  them  that  a  shadow,  or  bird,  seized  the  colt.  I
 did  not  tell  them  what  really  happened.  I  will  tell  thee  the
 whole  truth.  A  Mangathai  came  in  the  night;  I  shot  that
@@ -13628,8 +12651,7 @@ Mangathai,  and  killed  him.  The  colt  is  alive  now,  and  any  one
 may  see  it  at  the  place  where  I  killed  the  Mangathai."
 
 "Thou  art  the  son  of  a  khan,  and  thou  art  young,"  said  the
-father-in-law.  "Be  kind  and  take  thy  own  shape."  The  father-
-in-law  bowed  down  a  whole  day,  and  begged :  "Tell  the  truth.
+father-in-law.  "Be  kind  and  take  thy  own  shape."  The  fatherin-law  bowed  down  a  whole  day,  and  begged :  "Tell  the  truth.
 Tell  what  thy  name  is."    At  last  the  old  man  said :
 
 "My  name  is  Khan  Sokto,  and  I  am  the  son  of  Yerente  Khan."
@@ -13673,8 +12695,6 @@ Malan;  take  advice  of  him.  The  seven  heavenly  smiths  may
 help  thee."
 
 
-268    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 Sokto  made  his  horse  into  a  flint  chip,  and  went  to  the  sky  as
 a  gray  falcon.
 
@@ -13707,8 +12727,7 @@ help  this  minute."
 
 That  moment  the  chain  became  laxer,  the  fetters  dropped
 off,  the  hoops  loosened.  Sokto  sat  on  his  horse;  led  the  dog
-to  his  father-in-law's  yurta,  and  tied  him  to  the  hitching-
-post.
+to  his  father-in-law's  yurta,  and  tied  him  to  the  hitchingpost.
 
 "Such  a  dog  is  not  needed  here!"  screamed  the  khan.  "Take
 him  back  to  where  you  found  him ! "
@@ -13723,8 +12742,6 @@ alone.  I  fear  nothing  on  earth.  For  ten  years  I  shall  be  a  great
 friend  to  thee.  If  any  trouble  happens  between  thee  and  thy
 father-in-law  I  will  be  on  thy  side."
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    269
 
 Yellow  Dog  ate  much ;  he  ate  a  whole  ox  and  went  home  to
 the  edge  of  the  Frozen  Ocean.
@@ -13776,20 +12793,14 @@ ate,  and  was  glad.
 "what  wilt  thou  give  me  for  a  present?"
 
 
-270    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 Sokto  had  a  bay  horse  eighty  fathoms  long,  which  had  been
 trained  for  eight  days.
 
-"Take  this  horse,"  said  he,  "and  ask  nothing  of  another  per-
-son. I  thank  thee  for  thy  care  of  my  yurta  while  I  was  strug-
+"Take  this  horse,"  said  he,  "and  ask  nothing  of  another  person. I  thank  thee  for  thy  care  of  my  yurta  while  I  was  strug-
 gling with  Mangathais,  and  winning  my  bride."
 
 Sokto's  sister  mounted  and  rode  away  with  her  bridegroom,
 contented  and  happy.
-
-
-MONGOL  MYTHS  AND  FOLK-TALES    271
 
 
 ALAMALDJIN  AND  HIS  TWIN  SISTER   HANHAI
@@ -13807,8 +12818,7 @@ bone.
 
 In  ten  days  the  skin  of  a  ten-year-old  sheep  was  not  big  enough
 for  Alamaldjin.  When  the  boy  was  three  years  old  his  father
-taught  him  to  reckon.  When  the  child  played  with  other  chil-
-dren he  said  always  that  he  would  be  khan.
+taught  him  to  reckon.  When  the  child  played  with  other  children he  said  always  that  he  would  be  khan.
 
 This  life  continued  till  the  boy  was  eleven,  then  he  hired  men
 to  quarry  stone,  and  he  built  a  yurta  one  verst  long,  and  so  high
@@ -13835,11 +12845,8 @@ there  were  so  many  cattle.  At  last  they  finished.  The  cattle  in
 front  were  very  thin  and  uneasy,  those  behind  very  fat  and
 
 
-272    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 well  satisfied.  The  two  uncles  cried  out  when  they  saw  this.
-They  went  to  their  nephew  and  asked  him  to  choose  other  pas-
-tures.   He  was  not  willing  to  do  so.
+They  went  to  their  nephew  and  asked  him  to  choose  other  pastures.   He  was  not  willing  to  do  so.
 
 "My  father's  cattle  did  not  suffer,"  said  he.  "How  is  it  that
 my  cattle  suffer?"
@@ -13885,8 +12892,6 @@ it  will  vanish.  But  I  shall  not  be  lost,  and  this  hair  will  remain
 here.    If  ye  grieve  for  me,  smell  the  hair,  and  ye  will  be  cheerful."
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    273
-
 They  agreed  now  to  stay  in  the  Altai  Mountains.
 
 The  horse  ran  toward  his  master  at  full  speed,  came  at  the
@@ -13920,8 +12925,7 @@ corner  of  the  yurta.  Inside  was  a  Mangathai  of  a  hundred  and
 fifty  heads.  The  Mangathai  sprang  up,  and  shouted,  "Who  art
 thou,  who  hast  dared  to  break  into  my  house  in  this  manner  ?  "
 
-The  Mangathai  took  his  axe,  forty  fathoms  broad,  and  sharp-
-ened it,  but  when  he  heard  that  the  strange  old  man  was  a
+The  Mangathai  took  his  axe,  forty  fathoms  broad,  and  sharpened it,  but  when  he  heard  that  the  strange  old  man  was  a
 Shaman  he  threw  the  axe  aside.  Then  it  turned  out  that  the
 right  eye  of  the  Mangathai  had  been  struck  by  an  arrow  and
 was  injured.
@@ -13936,16 +12940,11 @@ arrow;   thy  sight  is  poor,  there  are  many  worms  in  thy  eye  at
 
 this  moment."
 
-18
-
-
-274    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 "True,"  said  the  Mangathai.
 
 "I  will  cure  thee  quickly,"  said  Alamaldjin.  "I  am  afraid
-thou  art  so  big  that  a  strong  remedy  is  needed.  Wilt  thou  en-
-dure it?"
+thou  art  so  big  that  a  strong  remedy  is  needed.  Wilt  thou  endure it?"
 
 "I  will."
 
@@ -13980,17 +12979,13 @@ to  himself,  "now  when  my  eye  is  gone  he  butts  me."
 The  Mangathai  made  an  iron  wall  with  his  magic,  a  very
 high  wall,  so  the  Shaman  might  not  save  himself.  Then  he
 took  the  goat  and  threw  him  over  the  high  enclosure.  The  flea
-stayed  in  the  goat's  ear  till  he  was  outside,  then  it  became  Ala-
-maldjin. Alamaldjin  mounted  his  horse  and  called  to  the  Man-
+stayed  in  the  goat's  ear  till  he  was  outside,  then  it  became  Alamaldjin. Alamaldjin  mounted  his  horse  and  called  to  the  Man-
 gathai, "Well,  is  thy  eye  any  better?"
 
 "It  is  better,  thanks  to  thee.  For  reward  I  will  give  thee  this
-axe ! "  And  he  threw  the  axe  over  the  wall  at  Alamaldjin,  in-
-tending to  kill  him.  The  axe  did  not  hit  Alamaldjin.  He  picked
+axe ! "  And  he  threw  the  axe  over  the  wall  at  Alamaldjin,  intending to  kill  him.  The  axe  did  not  hit  Alamaldjin.  He  picked
 it  up,  stuck  it  in  the  wall  of  another  yurta,  and  said,  "Stay  here
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    275
 
 till  I  come,  see  that  this  Mangathai  does  not  leave  that  house
 and  enclosure.  This  place  will  be  mine  hereafter ;  my  pastures
@@ -14009,8 +13004,7 @@ here  to  greet  thee,"  said  they ;  "we  have  brought  a  feast  with  us."
 Alamaldjin  was  angry,  "Why  have  ye  come  ?  why  bring  a
 feast?  why  can  I  not  go  home  alone?"
 
-"We  did  this  as  a  mark  of  respect,  because  thou  hast  con-
-quered a  great  Mangathai."
+"We  did  this  as  a  mark  of  respect,  because  thou  hast  conquered a  great  Mangathai."
 
 He  tied  his  horse  to  a  tree  and  went  into  the  shed  with  his
 uncles.  First  they  gave  him  ten  pots  of  tarasun.  He  emptied
@@ -14030,8 +13024,7 @@ fell  to  crying,  "How  is  thy  master?  where  is  he?"
 killed  him."  Hanhai  mounted  and  rode  to  the  boundary
 quickly.  Her  brother's  body  was  lying  in  the  shed ;  she  found
 no  one  there  with  it.  She  tied  two  silk  cloths  around  the  body,
-and  wrapped  it  up  carefully.  Not  far  away  was  Red  Moun-
-tain ;  she  buried  her  brother  at  the  foot  of  that  mountain  and
+and  wrapped  it  up  carefully.  Not  far  away  was  Red  Mountain ;  she  buried  her  brother  at  the  foot  of  that  mountain  and
 went  home.  In  her  brother's  yurta  was  his  book;  she  read
 this  book  and  learned  from  it  how  to  guard  against  death,  and
 how  to  bring  the  dead  back  to  life.    This  is  what  the  book  said :
@@ -14042,16 +13035,13 @@ silver  leaves,  at  the  foot  of  that  aspen  tree  is  the  Water  of  Life.
 On  the  top  of  the  tree  sits  a  cuckoo.    If  any  one  goes  there  the
 
 
-276    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 cuckoo  will  help  them ;  the  water  will  heal  and  bring  the  dead
 back  to  life  again."
 
 The  sister  put  on  her  brother's  dress,  took  his  weapons,
 mounted  his  steed,  and  rode  away  swiftly.  At  the  end  of  six
 days  she  was  near  the  impassable  swamp.  She  made  her  horse
-a  flint  chip,  and  put  him  into  her  pocket,  then  she  turned  her-
-self into  a  raven.
+a  flint  chip,  and  put  him  into  her  pocket,  then  she  turned  herself into  a  raven.
 
 It  was  forty  versts  from  the  edge  of  the  swamp  to  the  living
 water.  She  had  a  small  keg  and  flew  to  the  place.  The  water
@@ -14094,8 +13084,6 @@ where  thy  brother  is  buried."
 dead  man?    Who  gave  thee  permission?"
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    277
-
 "I  hunted  the  world  over,  but  could  not  find  a  shoulder-blade
 of  man  or  beast.  Passing  thy  brother's  grave  I  knew  by  the
 odor  that  a  corpse  was  lying  in  it,  then  I  made  bold  to  take  the
@@ -14113,8 +13101,7 @@ Alamaldjin  and  Hanhai  went  home.  They  took  the  cuckoo
 with  them,  and  gave  her  good  entertainment,  —  entertained  her
 one  day.
 
-"We  shall  be  friends  from  this  time,  and  forever,"  said  Ala-
-maldjin when  the  cuckoo  was  going.  "Be  thou  kind,  and  assist
+"We  shall  be  friends  from  this  time,  and  forever,"  said  Alamaldjin when  the  cuckoo  was  going.  "Be  thou  kind,  and  assist
 us."
 
 "I  will,"  said  the  cuckoo,  "whenever  the  need  comes."
@@ -14147,8 +13134,6 @@ wife  without  a  husband?"  cried  she  as  the  horse  rushed  away
 from  her.
 
 
-278    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 Again  the  horse  neighed  loudly  at  the  hitching-post.  Hanhai
 ran  out,  embraced  his  feet,  and  cried :  "Where  is  my  brother  ?"
 
@@ -14171,8 +13156,7 @@ cattle.  I  have  asked  every  one  where  to  look  for  them,  but
 cannot  find  them.  But  look  around  ! "  cried  the  woman  on  a
 sudden,  "see  how  many  men  are  behind  thee!"
 
-"Let  them  stay  behind  me,  they  are  my  people.  Look  be-
-hind thyself!  There  are  twenty  Mangathais  coming  against
+"Let  them  stay  behind  me,  they  are  my  people.  Look  behind thyself!  There  are  twenty  Mangathais  coming  against
 thee ! "  said  Hanhai.
 
 The  tall  woman  forgot  herself,  looked,  and  Hanhai  dealt  her
@@ -14199,10 +13183,7 @@ When  Hanhai  finished  reading  she  cried,  "I  am  a  maiden;
 how  can  I  go  to  that  country?"
 
 
-MONGOL  MYTHS  AND  FOLK-TALES     279
-
-She  read  the  book  three  days  and  three  nights  and  then  pre-
-pared to  go.  She  put  on  her  brother's  clothes,  took  his  weapons,
+She  read  the  book  three  days  and  three  nights  and  then  prepared to  go.  She  put  on  her  brother's  clothes,  took  his  weapons,
 mounted  his  steed,  and  rode  to  the  boundary.
 
 "All  is  left  behind,"  thought  Hanhai;  "what  will  become  of
@@ -14247,8 +13228,6 @@ the  axe,  which  was  full  of  magic.  "Cunning  people  have  come;
 this  is  the  end  of  me ! "  these  were  the  last  words  of  the  seven
 hundred  headed  Mangathai.
 
-
-280    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 Ilanhai  made  a  forest  by  magic,  and  on  one  of  the  largest  of
 the  trees  she  wrote,  "This  will  be  a  sacred  forest  henceforward ; "
@@ -14298,8 +13277,6 @@ horns  on  the  heads  and  a  goat-skin  thrown  over  his  shoulders.
 shouted  the  Mangathai,  springing  from  his  horse.  "I  will  tear
 thee  into  bits!"
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    281
 
 "Very  well,"  answered  Hanhai,  coming  down  from  her  steed.
 They  rushed  at  each  other,  fought  nine  days  and  nine  nights
@@ -14351,8 +13328,6 @@ to  two  seas,  where  the  land  between  was  only  one  ell  wide  and
 rose  one  ell  above  the  water.    The  sea  on  the  right  was  a  poison
 
 
-282    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 sea,  the  sea  on  the  left  was  a  sea  of  fresh  water.  Hanhai  halted,
 and  said  to  her  steed,  "Thou  canst  not  pass  this  sea."  She
 made  flint  of  him  and  turned  herself  into  a  swallow,  then  she
@@ -14377,8 +13352,7 @@ one  third  of  the  mountain,  and  was  falling ;  then  she  caught  on  a
 tree  and  became  a  skunk.  As  a  skunk  she  went  up  the  second
 third  with  great  difficulty;  then  became  a  swallow,  and  flew
 the  last  third  of  the  way.  Three  days  and  three  nights  and  the
-half  of  another  day  was  she  flying  till  she  dropped  on  the  sum-
-mit, and  lay  there  without  stirring  for  one  whole  day  and  a  half
+half  of  another  day  was  she  flying  till  she  dropped  on  the  summit, and  lay  there  without  stirring  for  one  whole  day  and  a  half
 of  a  day.  Then  she  revived  and  looked  around.  Right  there
 in  front  of  her  was  a  spring  of  the  Water  of  Life,  Youth,  and
 Health.  A  gold  goblet  hung  from  a  bough  of  the  tree  by  a  chain
@@ -14418,15 +13392,12 @@ Representations  of  Buriat  Gods.     Page  I2l
 These  are  held  sacred  in  each  Buriat  household
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    283
-
 "A  greeting  from  me  to  thee,  father-in-law ! "  said  Hanhai.
 
 "Whence  hast  thou  come,  a  son  of  what  khan  art  thou?"
 asked  Gazar  Bain  Khan.
 
-"  I  am  Alamaldjin  Bogdo.  I  have  heard  that  thou  hast  a  beau-
-tiful daughter,  Nalhan  Taiji  is  her  name;  I  have  come  to  ask
+"  I  am  Alamaldjin  Bogdo.  I  have  heard  that  thou  hast  a  beautiful daughter,  Nalhan  Taiji  is  her  name;  I  have  come  to  ask
 for  her.    In  my  book  it  is  written  that  she  must  be  my  bride."
 
 "These  suitors  here  came  earlier;  they  have  not  spoken  yet.
@@ -14475,8 +13446,6 @@ leave  me  thus?"
 "Only  let  me  go  home  on  this  horse,  then  I  will  leave  him.    I
 
 
-284    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 will  send  him  back  to  the  Altai  Deda,  where  he  pastures  in  the
 mountains  with  thirteen  wild  deer.  In  all  this  world  he  is  the
 luckiest  and  best  horse  for  the  road.  No  ill  is  possible  with
@@ -14486,8 +13455,7 @@ ride  him.  Not  only  should  I  die,  but  my  wife  would  die
 also."
 
 Nalhan  Taiji  believed  her  bridegroom  now ;  she  let  him  go
-from  that  forty-third  chamber.  The  next  morning  his  father-
-in-law  called  him :  "I  will  give  thee  my  daughter,  but  thou  must
+from  that  forty-third  chamber.  The  next  morning  his  fatherin-law  called  him :  "I  will  give  thee  my  daughter,  but  thou  must
 do  something  for  me :  bring  me  a  quill  from  the  wing  of  Khan
 Herdik,  I  wish  to  write  with  it.  If  thou  bring  not  the  quill  I
 will  not  give  my  daughter."
@@ -14528,8 +13496,6 @@ father."
 "Art  thou  a  khan?  Was  thy  father  a  khan  also?"  asked
 Khan  Herdik's  elder  daughter.     "Our  father  is  at  war  with
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    285
 
 Mogoi  Khan.  He  is  near  the  Icy  Ocean,  but  thou  canst  go  to
 him."
@@ -14581,8 +13547,6 @@ back  to  Khan  Herdik !"
 "  Have  the  wedding  and  I  '11  take  it."     Hanhai  turned  then
 
 
-286    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 to  Nalhan  Taiji:  "I  have  brought  the  quill,  now  your  father
 does  not  want  it,  and  asks  me  to  take  it  back."
 
@@ -14597,8 +13561,7 @@ next  day  the  people  had  all  assembled  for  the  wedding  when  a
 female  Shaman  cried  out:  "What  a  misery!  Our  khan  is
 crazy  to  give  his  daughter  to  a  woman !"
 
-The  khan  was  frightened  and  sent  for  Gazari  Ganek,  a  cham-
-pion, to  try  the  bridegroom  in  a  contest.  Hanhai  hurried  to
+The  khan  was  frightened  and  sent  for  Gazari  Ganek,  a  champion, to  try  the  bridegroom  in  a  contest.  Hanhai  hurried  to
 her  steed.  "What  am  I  to  do  now?  How  am  I  to  hide  my
 bosom?"
 
@@ -14638,8 +13601,6 @@ The  champion  was  very  heavy,  nine  horses  drew  him  away.
 "I  say  that  this  bridegroom  is  a  woman !"  cried  Shorgo,  the
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    287
-
 Shaman.  "Let  four  men  go  to  the  sea  and  swim  with  her;
 they  will  find  out  then  what  she  is."
 
@@ -14672,16 +13633,14 @@ This  is  a  woman,  this  is  no  man !"
 
 Hanhai  now  made  a  gray  wolf  by  magic.  Not  far  from  the
 khan's  yurta  a  herd  of  five  hundred  horses  were  grazing.  The
-gray  wolf  sprang  at  the  horses.  When  they  saw  the  great  crea-
-ture they  were  frightened  and  ran,  stampeded  to  the  yurta.
+gray  wolf  sprang  at  the  horses.  When  they  saw  the  great  creature they  were  frightened  and  ran,  stampeded  to  the  yurta.
 There  was  great  terror  among  the  people ;  they  had  to  follow
 and  kill  the  gray  wolf.  Shorgo,  the  Shaman,  was  left  alone.
 Hanhai  slipped  into  the  place.  There  was  a  large  barrel  of
 sour  milk  standing  near.  She  seized  the  witch  and  put  her
 head  first  into  the  barrel.
 
-When  the  khan  came  back  from  killing  the  wolf  the  bride-
-groom took  the  Shaman  woman  by  the  feet  and  stirred  the  milk
+When  the  khan  came  back  from  killing  the  wolf  the  bridegroom took  the  Shaman  woman  by  the  feet  and  stirred  the  milk
 with  her  as  with  a  stick.
 
 "How  is  this?"  asked  Hanhai.  "Instead  of  wood  you  mix
@@ -14689,8 +13648,6 @@ milk  with  an  old  woman.    You  stir  milk  with  people's  bodies!"
 
 "What  a  wonderful  thing!"    exclaimed  the  khan.     "I  left
 
-
-288    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 this  old  woman  here  alive  and  well.  How  did  she  fall  into  the
 milk  barrel?"
@@ -14720,8 +13677,7 @@ madly.
 
 Hanhai  lay  motionless ;  she  waited  to  hear  what  the  daughters
 would  say.  All  three  began  to  cry.  "If  only  our  mother  had
-died  it  would  not  have  been  so  bad,  but  now  the  khan's  son-in-
-law  is  killed,  what  will  happen  ?    What  will  become  of  us  ?  "
+died  it  would  not  have  been  so  bad,  but  now  the  khan's  son-inlaw  is  killed,  what  will  happen  ?    What  will  become  of  us  ?  "
 
 After  a  while  the  bridegroom  recovered.  "It  appears,"  said
 he  to  the  old  woman's  daughters,  "that  I  only  fainted,  but  maybe
@@ -14740,8 +13696,6 @@ and  nine  nights.  "What  present  will  you  give  me?"  asked  the
 bride  of  her  father,  when  she  was  ready  to  go  home  with  her
 bridegroom.
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    289
 
 The  father  gave  her  a  horse  ninety  fathoms  long  with  ears
 nine  ells  high.  The  mother  gave  her  a  silver  goblet;  the  brother
@@ -14787,10 +13741,6 @@ fire,  and  covered  the  skeleton  head  with  the  goblet  turned  bottom
 upward,  then  she  waved  her  kerchief  thrice,  saying  each  time
 before  she  waved  it,  "How  long  thou  art  sleeping !"    The  third
 
-19
-
-
-290    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 time  that  Nalhun  Taiji  waved  the  kerchief  Alamaldjin  sprang
 
@@ -14839,13 +13789,10 @@ The  hare  ran  away  then,  ran  outside.  Alamaldjin  beat  on,
 beat  his  wife  more.  She  began  to  cry  bitterly.  The  hare  turned
 to  a  woman  and  went  into  the  yurta.
 
-"What  art  thou  doing,  brother  ?"  cried  she.  "Thou  art  beat-
-ing the  wife  whom  I  brought  thee.  How  much  have  I  suffered
+"What  art  thou  doing,  brother  ?"  cried  she.  "Thou  art  beating the  wife  whom  I  brought  thee.  How  much  have  I  suffered
 from  thy  folly  already?  How  much  have  I  passed  through?"
 Then  she  told  the  whole  story.    Told  how  her  brother  had  died
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    291
 
 twice;   told  all  the  wonders.    Then  came  tarasun  and  a  feast.
 There  was  much  conversation  and  great  joy.
@@ -14854,9 +13801,6 @@ There  was  much  conversation  and  great  joy.
 the  next  morning.  "Make  me  a  white  stone  yurta  with  silver
 roof."  He  did  so,  and  she  lived  ever  after  in  that  white  stone
 yurta  which  Alamaldjin  Bogdo  built  for  her.
-
-
-292    A  JOURNEY  IN  SOUTHERN  SIBERIA
 
 
 THE  TWIN  BOYS,  ALTIN  SHAGOY  AND  MUNGUN
@@ -14903,8 +13847,6 @@ to  Hodoy  Khan,"  said  she  in  her  own  mind.  She  went  out  to  the
 broad  steppe,  the  open  country,  and  got  a  plant  which  makes  all
 people  who  eat  of  it  swell  up,  but  does  not  otherwise  injure  them.
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    293
 
 "Eat  this,"  said  she  to  the  khan's  sister;  and  foolishly  she  ate
 it.    Then  she  began  to  swell  up,  and  was  terribly  frightened.
@@ -14957,8 +13899,6 @@ They  went  back ;  the  horse  rushed  forward,  sprang,  reached
 the  top,  crossed  the  mountain,  went  down  on  the  other  side,  and
 
 
-294    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 went  farther,  but  could  not  reach  Yellow  Dog's  land  for  a  long
 time.  They  came  to  the  boundary  at  last,  and  crossed  it.  Yellow
 Dog  heard  them  approaching,  and  began  to  call  to  them,  to
@@ -15005,8 +13945,6 @@ grew  so  fast  that  three  days  after  their  birth  the  skin  of  a  sheep
 three  years  old  was  too  narrow  to  wrap  around  them.
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    295
-
 The  Mangathai  by  his  magic  knew  that  Hodoy's  wife  had
 twins,  and  he  said :  "We  must  kill  those  two  children."
 
@@ -15014,8 +13952,7 @@ A  magpie  flew  into  the  yurta,  and  told  the  poor  mother  that
 the  wicked  Mangathai  was  coming  to  kill  her  two  children.
 
 She  took  the  boys,  put  them  on  the  red  horse,  with  provisions,
-and  rode  away  to  a  mountain.  She  left  the  boys  on  that  moun-
-tain and  went  home  again  quickly.  Soon  after  the  Mangathai
+and  rode  away  to  a  mountain.  She  left  the  boys  on  that  mountain and  went  home  again  quickly.  Soon  after  the  Mangathai
 came  to  her  wretched  little  yurta.
 
 "Thou  hast  two  young  sons,"  said  he.  "Where  are  they?
@@ -15037,8 +13974,7 @@ Where  are  their  bones?"
 twin  lambs.
 
 The  Mangathai  looked  at  them.  "These  are  the  bones  of  a
-beast,"  said  he,  "not  the  bones  of  children,"  and  he  fell  to  beat-
-ing her  with  a  club  very  cruelly.
+beast,"  said  he,  "not  the  bones  of  children,"  and  he  fell  to  beating her  with  a  club  very  cruelly.
 
 She  would  tell  nothing  about  her  sons,  except  that  the  charred
 bones  were  theirs.  The  Mangathai  went  home ;  then  he  sent
@@ -15060,15 +13996,12 @@ and  went  back  to  the  mountain  top.  They  sent  home  the  red
 horse,  ate  bomshoy,  and  started ;  rode  away  southward ;  escaped
 
 
-296    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 on  the  two  small  horses.  The  seven  hundred  could  not  find
 them,  and  went  back  empty  handed.
 
 The  brothers  rode  on  and  on  till  they  reached  a  broad  meadow.
 At  one  side  of  the  meadow  was  a  poor  little  hut  with  a  big
-smoke  rising  out  of  it.  They  tied  their  horses  to  the  hitching-
-post  and  went  into  the  hut.  There  they  saw  a  gray  old  man,
+smoke  rising  out  of  it.  They  tied  their  horses  to  the  hitchingpost  and  went  into  the  hut.  There  they  saw  a  gray  old  man,
 and  a  little  old  woman  sitting  by  the  fire,  but  no  child  was
 there.
 
@@ -15108,13 +14041,10 @@ crying,  the  other  half  laughing.
 "Why  are  ye  shut  up  here  ?"  asked  the  brothers.  "Why  are
 some  of  you  laughing,  while  others  are  crying?"
 
-"Those  who  are  crying  will  be  eaten  to-day  by  the  Man-
-gathai;  those  who  are  laughing  will  be  eaten  to-morrow.  The
+"Those  who  are  crying  will  be  eaten  to-day  by  the  Mangathai;  those  who  are  laughing  will  be  eaten  to-morrow.  The
 Mangathai  comes  every  day  to  eat  people.  Do  ye  go  away
 quickly."
 
-
-MONGOL  MYTHS  AND  FOLK-TALES    297
 
 "We  have  no  fear  of  that  Mangathai,"  said  the  boys.  "What
 will  ye  give  us  if  we  kill  him?"
@@ -15170,8 +14100,6 @@ The  two  brothers  mounted  their  horses  straightway  and  rode
 to  Yellow  Dog's  kingdom.    When  they  were  near  that  great
 
 
-298    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 kingdom  Yellow  Dog  heard  them  coming  and  pulled  them  in
 by  his  magic,  and  when  they  were  close  enough,  he  asked :
 
@@ -15183,8 +14111,7 @@ home  to  his  own  place."
 
 The  stone  was  very  heavy.  The  elder  of  the  twins  raised  it
 a  little,  the  younger  raised  it  higher,  with  great  effort,  and  then
-they  rolled  it  to  one  side  completely.  Their  father  was  won-
-drous to  look  at.  His  hair  had  grown  out  through  his  cap;  his
+they  rolled  it  to  one  side  completely.  Their  father  was  wondrous to  look  at.  His  hair  had  grown  out  through  his  cap;  his
 toe-nails  had  gone  through  his  boots,  and  his  finger-nails  through
 his  gloves.    He  was  barely  alive  when  they  freed  him.
 
@@ -15222,12 +14149,9 @@ These  women  did  not  answer  questions  put  to  them,  and  they
 were  killed  also.
 
 
-MONGOL  MYTHS  AND  FOLK-TALES    299
-
 When  the  friends  were  near  the  house  of  the  Mangathai  they
 turned  into  two  immense  dogs  of  great  strength,  and  became
-of  the  very  same  age.  Everything  was  bright  at  the  Man-
-gathai's  yurta,  gleaming.  Guards  would  not  let  in  the  strange,
+of  the  very  same  age.  Everything  was  bright  at  the  Mangathai's  yurta,  gleaming.  Guards  would  not  let  in  the  strange,
 dreadful  dogs ;  the  dogs  tore  the  heads  off  those  guards,  and  then
 walked  into  the  yurta  very  boldly.
 
@@ -15270,8 +14194,6 @@ with  him,  and  they  had  a  great  feast;  a  sea  of  drink  and  a
 mountain  of  meat  for  all  present.    Then  he  gave  half  of  his
 
 
-300    A  JOURNEY  IN  SOUTHERN  SIBERIA
-
 cattle  and  riches  to  Yellow  Dog,  and  conducted  him  homeward
 with  honor.  "We  shall  be  friends,"  said  he,  "from  this  day
 forth,  and  forever."
@@ -15292,8 +14214,7 @@ NOTES
 NOTES
 
 TV/fY  collection  of  Buriat  myths  and  folk-tales  is  small.  The
-work  should  have  been  done  years  ago.  I  found  many  incom-
-plete stories  and  fragments  of  myths,  and  am  convinced  that  during  the
+work  should  have  been  done  years  ago.  I  found  many  incomplete stories  and  fragments  of  myths,  and  am  convinced  that  during  the
 past  five  decades  a  large  amount  of  rich  Mongol  material  has  been  lost.
 The  collection  of  the  folk-lore  of  the  different  peoples  of  the  world
 should  not  be  neglected,  for  it  is  of  great  value.  It  is  the  entire  stock
@@ -15309,11 +14230,9 @@ philosophy,  and  literature,  if  the  latter  term  may  be  used  with  refer
 to  people  unacquainted  with  letters.
 
 The  term  "  Folk-lore  "  first  appeared  in  1846.  Mr.  Thorns,  in  a  letter
-to  the  "London  Atheneum  "  dated  August  22  of  that  year,  signed  Am-
-brose Merton,  proposed  it,  adding,  "Remember  I  claim  the  honor  of
+to  the  "London  Atheneum  "  dated  August  22  of  that  year,  signed  Ambrose Merton,  proposed  it,  adding,  "Remember  I  claim  the  honor  of
 introducing  the  epithet  Folk-lore,  as  Disraeli  does  that  of  introducing
-Fatherland  into  the  literature  of  this  country."  The  term  has,  I  be-
-lieve, no  exact  equivalent  in  other  languages.  The  words  more  nearly
+Fatherland  into  the  literature  of  this  country."  The  term  has,  I  believe, no  exact  equivalent  in  other  languages.  The  words  more  nearly
 corresponding  to  our  folk-lore  refer  only  to  that  part  of  it  included  in
 stories  or  tales,  such  as  the  German  marchen;  the  French  conies;  the
 Russian  skazki;  the  Bohemian  pohadki;  and  the  Magyar  mSsek.
@@ -15327,8 +14246,7 @@ gives  the  result  of  the  activity.
 The  folk-lore  of  the  great  nations  of  antiquity,  the  Greeks  and
 Romans,  is  lost  to  us  in  its  popular  form,  which  we  can  only  infer  from
 what  we  find  preserved  in  literature,  religion,  and  art.  The  folk-lore
-of  the  Kelts,  Teutons,  and  Slavs  has  come  to  us  preserved  by  the  un-
-educated people.    Keltic  folk-lore  from  Irish  and  Welsh  sources  has
+of  the  Kelts,  Teutons,  and  Slavs  has  come  to  us  preserved  by  the  uneducated people.    Keltic  folk-lore  from  Irish  and  Welsh  sources  has
 
 
 304  NOTES
@@ -15351,19 +14269,16 @@ the  most  interesting  field  possible  for  the  philologist,  and  no  divisi
 of  the  race  has  a  richer  or  more  beautiful  stock  of  folk-lore.
 
 Folk-lore,  though  interesting  in  many  directions  and  of  the  utmost
-value, —  for  taken  together  with  language  it  furnishes  us  with  a  docu-
-mentary history  of  the  human  mind, —  is  undoubtedly  of  most  impor-
+value, —  for  taken  together  with  language  it  furnishes  us  with  a  documentary history  of  the  human  mind, —  is  undoubtedly  of  most  impor-
 tance in  what  may  be  called  its  religions,  meaning  by  religions  theories
 of  the  universe  and  man's  place  in  it.
 
 The  first  five  myths  in  this  volume  are  not  considered  as  myths  by
 the  Mongols,  but  as  true  descriptions  of  the  Creation,  the  destruction
-of  evil  creatures,  and  the  preparation  of  the  world  for  its  present  in-
-habitants. They  are  for  the  Pagan  Buriats  what  the  Bible  is  for  Chris-
+of  evil  creatures,  and  the  preparation  of  the  world  for  its  present  inhabitants. They  are  for  the  Pagan  Buriats  what  the  Bible  is  for  Chris-
 tian peoples.  Esege  Malan  is  the  Creator.  To  destroy  the  harmful
 creatures  which  inhabited  the  earth,  Gesir  Bogdo,  his  grandson,  leaves
-heaven  and  is  born  of  woman.  The  Iron  Hero  is  created  for  the  pur-
-pose of  aiding  Gesir  Bogdo.  When  the  earth  is  purified  and  inhabited
+heaven  and  is  born  of  woman.  The  Iron  Hero  is  created  for  the  purpose of  aiding  Gesir  Bogdo.  When  the  earth  is  purified  and  inhabited
 by  man,  Mindiu  appears.
 
 MINDIU  QUBUN  NOYAN
@@ -15406,8 +14321,7 @@ It  is  almost  certain  that  in  Mongol  mythology  there  was  once  a  long
 myth  about  the  Cuckoo  from  which  we  could  get  some  idea  of  why  this
 bird  is  connected  with  the  burning  of  the  dead.  From  the  time  that
 the  cuckoo  ceases  to  sing  in  August  till  its  first  song  in  spring  no  one
-who  dies  is  burned.  The  Mongols  do  not  know  why  this  is.  To  ques-
-tions asked  the  old  men  in  the  Buriat  land,  the  answer  was  always  the
+who  dies  is  burned.  The  Mongols  do  not  know  why  this  is.  To  questions asked  the  old  men  in  the  Buriat  land,  the  answer  was  always  the
 same:  "Mindiu  Qubun  told  us  when  and  how  to  burn  our  dead."
 
 The  cuckoo  appears  in  many  of  the  myths  in  this  volume,  and  usually
@@ -15424,8 +14338,7 @@ A  Buriat  will  never  kill  or  shoot  at  a  cuckoo.
 THE  MORNING  STAR
 Page  124
 
-There  was  once  a  Mongol  myth  about  Solobung  Yubun,  the  morn-
-ing star,  but,  so  far  as  I  could  find,  only  fragments  of  it  remain.
+There  was  once  a  Mongol  myth  about  Solobung  Yubun,  the  morning star,  but,  so  far  as  I  could  find,  only  fragments  of  it  remain.
 
 In  the  religious  system  of  the  Buriats  the  morning  star  is  a  great
 personage,  the  son  of  Esege  Malan  the  Creator.    Solobung  Yubun  is
@@ -15440,8 +14353,7 @@ and  the  dance  in  his  honor  must  continue  from  sunset  till  daybreak.
 Solobung  Yubun,  the  Lucifer  of  the  Latins,  has  in  Mongol  myths
 much  the  same  character  as  in  the  myths  of  the  Indians,  especially  in
 those  of  the  Modocs  and  Delawares.  The  Modocs  have  a  very  long
-story  which  contains  much  valuable  material.  In  this  story  the  morn-
-ing star  appears  as  the  attendant  spirit  of  the  sun.  (Introduction  to
+story  which  contains  much  valuable  material.  In  this  story  the  morning star  appears  as  the  attendant  spirit  of  the  sun.  (Introduction  to
 "Myths  and  Folk-lore  of  the  Russians,  Western  Slavs,  and  Magyars.")
 
 In  Delaware  myths  the  morning  star  often  assists  people  by  bringing
@@ -15460,8 +14372,7 @@ man  of  the  Sauk  tribe  told  me  of  the  many  countries  he  had  seen  "w
 his  spirit,"  stating  also  that  his  spirit  was  not  happy  when  away  from
 the  body,  for  it  feared  that  something  would  happen  to  the  body  and
 it  could  not  return.  In  India  where  this  conception  is  universal  among
-the  native  peoples,  a  "wise  man"  will  say  "I  am  going  to  such  a  vil-
-lage or  town."  »  He  finds  where  his  body  will  be  safe,  lies  down  and
+the  native  peoples,  a  "wise  man"  will  say  "I  am  going  to  such  a  village or  town."  »  He  finds  where  his  body  will  be  safe,  lies  down  and
 apparently  falls  asleep,  then  the  spirit  leaves  the  body,  makes  the  long
 journey  and  returns.  When  the  man  wakens  he  describes  accurately
 places  which  he  knew  nothing  about  previous  to  his  spirit  journey.
@@ -15546,8 +14457,7 @@ spring  water  through  hard  gravelly  ground.  Clods  the  size  of  a  bull
 shoot  out  from  under  their  feet.  Usually  the  battle  lasts  for  a  day  and
 a  year,  and  each  day  is  a  day  of  fierce  struggle.
 
-In  Indian  myths  struggles  for  supremacy  are  not  decided  by  fight-
-ing, as  in  Aryan  and  Mongol  myths,  but  by  trials  of  skill,  strength,  and
+In  Indian  myths  struggles  for  supremacy  are  not  decided  by  fighting, as  in  Aryan  and  Mongol  myths,  but  by  trials  of  skill,  strength,  and
 dexterity.  The  opponents  always  bet  their  heads,  and  the  head  of  the
 losing  party  is  cut  off  at  once.
 
@@ -15558,17 +14468,14 @@ Page  206
 A  prominent  characteristic  of  Buriat  myths  is  the  wisdom  of  the
 horse,  which  in  many  instances  is  sent  from  heaven  in  answer  to  prayers.
 These  wonderful  stallions  of  Buriat  mythology  are  different  in  some
-respects  from  the  steeds  in  Aryan  myths ;  they  have  the  same  appear-
-ance always,  whereas  in  Aryan  myths  the  steed  when  taken  from  the
-stable  or  pasture  is  often  either  a  miserable  mangy  colt  or  a  shaggy-
-haired,  crooked-legged  mare;  its  wonderful  power  and  beauty  being
+respects  from  the  steeds  in  Aryan  myths ;  they  have  the  same  appearance always,  whereas  in  Aryan  myths  the  steed  when  taken  from  the
+stable  or  pasture  is  often  either  a  miserable  mangy  colt  or  a  shaggyhaired,  crooked-legged  mare;  its  wonderful  power  and  beauty  being
 made  manifest  only  when  in  action.
 
 The  god-given  stallion  of  the  Buriats  is  of  enormous  size,  and
 travels  with  such  speed  that  "he  can  reach  in  one  day  a  place  so  far
 distant  that  a  boy  of  five  years  of  age  would  be  sixty  when  at  the  end
-of  the  journey,  and  a  full-grown  man  would  die  on  the  road."  Some-
-times the  horse  foresees  the  death  of  his  master  and  warns  him.
+of  the  journey,  and  a  full-grown  man  would  die  on  the  road."  Sometimes the  horse  foresees  the  death  of  his  master  and  warns  him.
 
 The  steed  which  the  Iron  Hero  rides  is  always  spoken  of  as  "the
 blue  stallion  of  the  sky."  In  most  instances  the  color  of  the  stallion  is
@@ -15615,8 +14522,7 @@ their  benefactor,  and  each  man  returns  to  his  home.
 
 Among  the  Yana  Indians  of  California  there  are  several  methods
 for  restoring  life,  sometimes  it  is  done  by  kicking  or  turning  over  a
-corpse  with  the  foot,  sometimes  by  boiling  one  hair  or  the  heart,  fre-
-quently it  is  accomplished  by  the  stroke  of  a  twig  from  a  red  rose-
+corpse  with  the  foot,  sometimes  by  boiling  one  hair  or  the  heart,  frequently it  is  accomplished  by  the  stroke  of  a  twig  from  a  red  rose-
 bush.
 
 In  Modoc  mythology,  when  the  hero  has  been  dead  many  hours  or
@@ -15636,8 +14542,7 @@ Pacific  coast,  in  some  of  which  the  idea  is  worked  out  with  great  d
 and  beauty.  But  the  "first  people"  of  the  Wintu  and  Yana  and  other
 Indian  tribes  of  the  coast  and  of  Mexico,  the  people  who  occupied
 "that  world  before  this,"  are  unlike  the  "first  people"  of  the  Buriats.
-With  the  Indians  the  first  people  lived  for  untold  ages  in  perfect  har-
-mony, then  very  slowly  a  change  came,  discord  appeared,  and  in  time
+With  the  Indians  the  first  people  lived  for  untold  ages  in  perfect  harmony, then  very  slowly  a  change  came,  discord  appeared,  and  in  time
 conflict,  which  grew  in  venom  and  continued  till  all  the  first  people,
 except  a  very  small  number,  were  turned  into  the  various  kinds  of
 living  creatures  —  beasts,  birds,  insects,  trees,  plants,  etc.  —  that  are
@@ -15651,14 +14556,12 @@ and  he  mentioned  what  his  enemy  was  to  be,  and  at  once  the  change
 was  accomplished.
 
 With  the  Mongols  the  people  of  the  earlier  world  were  so  wicked
-that  Esege  Malan  the  Creator,  and  his  grandson,  Gesir  Bogdo,  deter-
-mined to  destroy  them.  In  one  or  two  instances  the  destruction  is
+that  Esege  Malan  the  Creator,  and  his  grandson,  Gesir  Bogdo,  determined to  destroy  them.  In  one  or  two  instances  the  destruction  is
 accomplished  in  the  same  way  as  described  in  the  Indian  myths,  —  for
 example,  Gesir  Bogdo  takes  all  power  from  the  Raven;  from  being
 a  great  personage  he  makes  him  the  insignificant  bird  that  he  is  to-day,
 saying  to  him,  "Hereafter  you  will  be  puny  and  weak,  unable  to  harm
-people."  The  first  people  were  not  Mongols,  but  Marat  and  Man-
-gathai,  evil  spirits.
+people."  The  first  people  were  not  Mongols,  but  Marat  and  Mangathai,  evil  spirits.
 
 ALTIN  SHAGOY
 
@@ -15686,13 +14589,11 @@ Sibir  (Siberia),  1638,  15.
 
 A  birthday  in  Siberia,  87.
 
-Adaha  Zayang,  Buriat  divinity,  crea-
-tor of  cattle,  46.
+Adaha  Zayang,  Buriat  divinity,  creator of  cattle,  46.
 
 Alamaldjin  and  bis  twin  sister,  271.
 
-Alexander  of  Macedon,  visits  Yu-
-gria,  5.
+Alexander  of  Macedon,  visits  Yugria,  5.
 
 Altin  Shagoy,  a  myth,  232.
 
@@ -15717,8 +14618,7 @@ Baikal,  1,  3,  4,  15,  16,  17,  18,  44,  69,
 
 Barguzin  is  founded,  16.
 
-Baronye  Tabin,  first  spirit  in  the  uni-
-verse, 105.
+Baronye  Tabin,  first  spirit  in  the  universe, 105.
 
 Batu,  grandson  of  Jinghis  Khan,  1.
 
@@ -15731,8 +14631,7 @@ Berkut,  white-headed  eagle,  100.
 Bolhovski,  first  government  official
 sent  to  Siberia,  11,  12.
 
-British  in  India,  2 ;  allies  of  the  Mon-
-gols, 3.
+British  in  India,  2 ;  allies  of  the  Mongols, 3.
 
 Buddhism,  50,  51.
 
@@ -15746,8 +14645,7 @@ Buhan  Khan,  mythical  character,  97.
 
 Bulugat,  mythical  character,  98.
 
-Buriats,  besiege  Verholevsk,  15;  con-
-flict with  Russians,  16,  17,  22;
+Buriats,  besiege  Verholevsk,  15;  conflict with  Russians,  16,  17,  22;
 Buriat  horsemen,  31 ;  their  houses,
 
 
@@ -15768,8 +14666,7 @@ Sibir  as  master,  10.
 
 Chronicle  of  Nestor,  5,  6.
 
-Chukchi,  natives  of  northeastern  Si-
-beria, 16.
+Chukchi,  natives  of  northeastern  Siberia, 16.
 
 Chulkoff,  leads  an  army  to  Sibir,  12;
 captures  the  capital,  IS.
@@ -15787,8 +14684,7 @@ doubles  Shelag  Point;  first  man  to
 discover  the  passage  between  the
 Arctic  and  Pacific  Oceans,  16.
 
-Difficulties,  of  introducing  a  new  re-
-ligion, 50.
+Difficulties,  of  introducing  a  new  religion, 50.
 
 Delquen  Sagan  Burkan,  world  white
 god,  Esege  Malan,  105.
@@ -15808,9 +14704,6 @@ Exile,  25,  35,  55,  76,  77,  78,  79,  81.
 82,  83,  85.
 
 Fort  Balazansk  established,  17.
-
-
-314
 
 
 GENERAL  INDEX
@@ -15847,16 +14740,14 @@ Hunkuvai  and  the  horse  with  a  round
 
 head,  206.
 
-Irkutsk,  established,  17,  18;  gymna-
-sium, 52,  77,  86,  91,  111,  113.
+Irkutsk,  established,  17,  18;  gymnasium, 52,  77,  86,  91,  111,  113.
 
 Iron  Gates,  pass  in  Ural  Mountains,  5.
 
 Iron  Hero,  creation  of,  160,  164,  178.
 
 Ivan  the  Terrible,  entitles  himself
-Commander  of  Sibir,  7;  sends  Ku-
-chum  a  message,  8;  sends  force  to
+Commander  of  Sibir,  7;  sends  Kuchum  a  message,  8;  sends  force  to
 capture  Yermak,  8,  10,  12,  13.
 
 Ivan  Veliki,  sends  Skryaba  to  subject
@@ -15925,8 +14816,7 @@ Mikailoff,  a  pagan  Buriat,  20,  21,  25 ;
 his  home,  27;  a  visit,  38,  40,  68,
 86.
 
-Minga  Nudite  Mila,  mythical  char-
-acter, 111.
+Minga  Nudite  Mila,  mythical  character, 111.
 
 Mongols,  their  origin  and  rule,  1, 2.
 
@@ -15934,8 +14824,7 @@ Mother  Earth,  a  Buriat  god,  39, 124.
 
 Muravieff,  19,  68.
 
-Novgorod  counts  Yugria  as  a  posses-
-sion, 6.
+Novgorod  counts  Yugria  as  a  possession, 6.
 Nur,  a  village  on  Olkhon,  71.
 
 Obdovski,  founded,  IS.
@@ -15957,9 +14846,6 @@ which  exiles  were  sent,  13,  14.
 GENERAL  INDEX
 
 
-315
-
-
 Perfilyeff,  sent  to  force  the  Buriats  to
 pay  tribute,  15.
 
@@ -15970,8 +14856,7 @@ Pisemski,  founds  Tomsk,  14.
 
 Pohakoff,  founds  Irkutsk,  17.
 
-Popoff,  editor  of  "The  Eastern  Re-
-view," 20.
+Popoff,  editor  of  "The  Eastern  Review," 20.
 
 Roboff  sent  in  search  of  a  northern
 continent,  17.
@@ -15986,8 +14871,7 @@ founder  of  the  Romanoff  dynasty,
 14.
 
 Russia,  establishes  itself  in  Siberia,
-14;  becomes  acquainted  with  Bu-
-riats, 14,  17 ;  Russian  language,  90.
+14;  becomes  acquainted  with  Buriats, 14,  17 ;  Russian  language,  90.
 
 Russianized  Buriats,  57.
 
@@ -16017,8 +14901,7 @@ by  Karacha,  11,  12,  13.
 
 Sickness,  70,  99.
 
-Sojourn  on  the  sacred  island  of  Olk-
-hon, 73.
+Sojourn  on  the  sacred  island  of  Olkhon, 73.
 
 Starkoff,  carries  the  first  tea  to  Russia,
 15.
@@ -16059,8 +14942,7 @@ Trahanistoff,  founds  Berizoff,  13.
 
 Trans-Baikal  Buriats,  99.
 
-Tsar  Fedor,  sends  Mansuroff  to  Si-
-beria, 12;  sends  first  exiles  to  Sibir,
+Tsar  Fedor,  sends  Mansuroff  to  Siberia, 12;  sends  first  exiles  to  Sibir,
 13.
 
 Tumbinai,  great-great-grandfather  of
@@ -16106,12 +14988,8 @@ to  Yakuts  country,  25, 40, 53,  59, 79.
 Yerente  Khan  and  his  son,  a  myth,
 247.
 
-Yermak,  his  origin,  9;  meets  the  na-
-tives of  Sibir,  10 ;  sends  Koltso  to  lay
+Yermak,  his  origin,  9;  meets  the  natives of  Sibir,  10 ;  sends  Koltso  to  lay
 Tsardom  of  Sibir  at  the  feet  of  Ivan
-
-
-316
 
 
 GENERAL  INDEX
@@ -16121,17 +14999,14 @@ the  Terrible,  10;  his  death,  11,  12,
 18, 17.
 Yugria  (Ugri),  name  for  Siberia  in  the
 eleventh  century,  4;  story  of  the
-Yugrians,  5;  pay  tribute  to  Nov-
-gorod, 6,  7,  17.
+Yugrians,  5;  pay  tribute  to  Novgorod, 6,  7,  17.
 
 
 Zakuska,  Russian  lunch,  56.
 
-Zayahung  Yihe  Zayasha,  Buriat  di-
-vinity, 45.
+Zayahung  Yihe  Zayasha,  Buriat  divinity, 45.
 
-Zayang  Sagan  Tengeri,  Buriat  di-
-vinity, 45.
+Zayang  Sagan  Tengeri,  Buriat  divinity, 45.
 
 
 INDEX  OF  INCIDENTS  IN  MYTHS
@@ -16189,14 +15064,12 @@ Cold  so  great  that  horse  droppings
 turn  to  ice  while  falling,  168.
 
 
-Cuckoo,  101;  sings  and  the  sea  van-
-ishes, 173;  assists  in  restoring  life,
+Cuckoo,  101;  sings  and  the  sea  vanishes, 173;  assists  in  restoring  life,
 240,  275,  276,  277.
 
 Dead  men  dance,  113.
 
-Dog,  gives  hero  a  ring  which  accom-
-plishes whatever  is  required  of  it,
+Dog,  gives  hero  a  ring  which  accomplishes whatever  is  required  of  it,
 204.
 
 Eagle  assists  hero  in  his  escape  from
@@ -16262,19 +15135,15 @@ Hero,  begs  Esege  Malan  for  a  horse,
 enormous  size,  180 ;  turns  to  stone,
 167,  183;  turns  himself  and  bride
 to  ravens,  185 ;  goes  to  Yellow  Dog,
-244 ;  curses  the  heavenly  black-
-smiths, 244;  makes  himself  old,
-225;  makes  a  stone  mountain  be-
-hind him,  261 ;  goes  to  heaven  for
+244 ;  curses  the  heavenly  blacksmiths, 244;  makes  himself  old,
+225;  makes  a  stone  mountain  behind him,  261 ;  goes  to  heaven  for
 aid,  261;  prays  three  days  to  the
 Heavenly  Burkans,  220 ;  drinks
 spider  oil  and  has  no  need  of  food,
 247;  poisons  food  by  magic,  264;
 goes  to  heaven  for  chains  to  bind
-Yellow  Dog,  268;  brings  a  multi-
-tude of  people  to  life,  247;  makes
-a  journey  to  Yellow  Dog's  king-
-dom, 293;  turns  to  a  flea,  297.
+Yellow  Dog,  268;  brings  a  multitude of  people  to  life,  247;  makes
+a  journey  to  Yellow  Dog's  kingdom, 293;  turns  to  a  flea,  297.
 
 Heroine,  looks  for  insects  in  Hero's
 hair,  223 ;  goes  to  the  sky  to  get  aid
@@ -16311,8 +15180,7 @@ to  life,  177.
 Lake  of  poison,  169.
 
 Life  in  a  place  aside  from  the  body,
-in  woodcocks,  149,  182;  in  sky-
-larks, 211;  in  a  feather,  150;  in
+in  woodcocks,  149,  182;  in  skylarks, 211;  in  a  feather,  150;  in
 three  birds,  226.
 
 Looking  back,  42,  158.
@@ -16333,8 +15201,7 @@ eagle,  243.
 Perfect  fool,  throws  hero  over  three
 mountain  ranges,  224.
 
-Raven  (ancient  of),  changed  to  harm-
-less bird,  138,  151,  181.
+Raven  (ancient  of),  changed  to  harmless bird,  138,  151,  181.
 Red  restoring  larch  tree,  220,  221.
 
 Scissors  which  multiply  cloth,  177.
@@ -16356,8 +15223,7 @@ terrible  speed,  209;  from  the  sky,
 around  the  world  before  a  cup  of
 milk,  placed  over  a  hot  fire,  boils,
 235 ;  red  as  blood,  249 ;  sinks  to  the
-earth  to  listen,  250 ;  foretells  his  mas-
-ter's death,  250;  gives  advice,  267.
+earth  to  listen,  250 ;  foretells  his  master's death,  250;  gives  advice,  267.
 
 Sun  and  moon  fall  to  the  earth,  228.
 
@@ -16369,8 +15235,7 @@ given  to  new  son-in-law,  176,  242,
 
 Traveling  on  the  rainbow,  140.
 
-Tree  on  which  all  religions  are  re-
-corded, 155.
+Tree  on  which  all  religions  are  recorded, 155.
 
 
 INDEX  OF  INCIDENTS  IN  MYTHS   319
@@ -16401,5 +15266,4 @@ sky,  lower  jaw  grazes  the  earth,
 rushes  toward  the  sun,  218;  draws
 people  into  his  mouth,  293,  294.
 
-Yurta  (Buriat  house),  hanging  be-
-tween sky  and  first  heaven,  155.   .-
+Yurta  (Buriat  house),  hanging  between sky  and  first  heaven,  155.   .-

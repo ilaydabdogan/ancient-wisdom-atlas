@@ -157,7 +157,6 @@ VOL.   IV
 
 
 AT     THE     CLARENDON      PRESS
-1880
 
 [All  rights  reserved}
 
@@ -181,7 +180,6 @@ JAMES    DARMESTETER
 
 
 AT      THE      CLARENDON      PRESS
-1880
 
 [All  rights  reserved"]
 
@@ -288,36 +286,11 @@ Contracts  ....
 (44-45)-
 
 
-1
-10
-
-21
-
-
-24
-
 ?5
 3i
 
-33
-34
-34
-35
-36
-37
-39
-39
-39
-40
 
 4i
-42
-42
-43
-44
-45
-45
-46
 
 
 viii  CONTENTS.
@@ -378,8 +351,7 @@ III  (10-22).    Cleansing  of  clothes  defiled  by  the  dead       .       77
 
 IV  (23-24).    Eating  of  corpses  an  abomination  ...      79
 
-V  (25-27).  Bringing  corpses  to  fire  or  water  an  abomina-
-tion       •  8o
+V  (25-27).  Bringing  corpses  to  fire  or  water  an  abomination       •  8o
 
 VI  (28-35).   Cleansing  of  wood  and  corn  defiled  by  the  dead       81
 
@@ -399,10 +371,6 @@ X  (73-75).    Cleansing  of  vessels  defiled  by  the  dead  .       91
 XI  (76).    Cleansing  of  the  cow 92
 
 XII  (77).    Unclean  libations 92
-
-
-66
-67
 
 
 CONTENTS.  IX
@@ -432,8 +400,7 @@ IX  (81-96).    The  Bahram  fire 112
 X  (97-107).    Purification  in  the  wilderness.         .         .         .116
 
 Fargard  IX.    The  Nine  Nights'  Barashnum  .        .        .119
-la  (1-11).    Description  of  the  place  for  cleansing  the  un-
-clean (the  Barashnum-gah) 119
+la  (1-11).    Description  of  the  place  for  cleansing  the  unclean (the  Barashnum-gah) 119
 
 I  b  (12-36).    Description  of  the  cleansing    ....  122
 
@@ -469,16 +436,7 @@ III  (17-19).    On  the  several  duties  of  the  dog  .
 IV  (20-28).   On  the  food  due  to  the  dog
 
 
-144
-
-151
-152
-152
-153
-
 '53
-156
-156
 
 
 V  (29-38).    On  the  mad  dog  ;  how  he  is  to  be  kept,  and  cured     1 59
@@ -517,8 +475,7 @@ IV  (46-51).   On  the  breeding  of  dogs  .         .         .         .180
 
 Fargard  XVI 181
 
-I  (1— 1 1).    On  the  uncleanness  of  women  during  their  sick-
-ness       181
+I  (1— 1 1).    On  the  uncleanness  of  women  during  their  sickness       181
 
 II  (11-12).    How  it  can  be  removed 183
 
@@ -572,8 +529,7 @@ Ahura  Mazda  applies  for  healing  to  the  Holy
 Word  and  to  Airyaman 229
 
 
-Transliteration  of  Oriental  Alphabets  adopted  for  the  Transla-
-tions of  the  Sacred  Books  of  the  East        ....     237
+Transliteration  of  Oriental  Alphabets  adopted  for  the  Translations of  the  Sacred  Books  of  the  East        ....     237
 
 
 MhkkAtu
@@ -587,10 +543,8 @@ The  Zend-Avesta  is  the  sacred  book  of  the  Parsis,  that
 is  to  say,  of  the  few  remaining  followers  of  that  religion
 which  reigned  over  Persia  at  the  time  when  the  second
 successor  of  Mohammed  overthrew  the  Sassanian  dynasty1,
-and  which  has  been  called  Dualism,  or  Mazdeism,  or  Ma-
-gism,  or  Zoroastrianism,  or  Fire-worship,  according  as  its
-main  tenet,  or  its  supreme  God2,  or  its  priests,  or  its  sup-
-posed founder,  or  its  apparent  object  of  worship  has  been
+and  which  has  been  called  Dualism,  or  Mazdeism,  or  Magism,  or  Zoroastrianism,  or  Fire-worship,  according  as  its
+main  tenet,  or  its  supreme  God2,  or  its  priests,  or  its  supposed founder,  or  its  apparent  object  of  worship  has  been
 most  kept  in  view.  In  less  than  a  century  after  their  defeat,
 nearly  all  the  conquered  people  were  brought  over  to  the
 faith  of  their  new  rulers,  either  by  force,  or  policy,  or  the
@@ -626,18 +580,13 @@ sacred  books  the  ruins  of  a  religion.  There  has  been  no
 other  great  belief  in  the  world  that  ever  left  such  poor  and
 meagre  monuments  of  its  past  splendour.  Yet  great  is  the
 value  which  that  small  book,  the  Avesta,  and  the  belief  of
-that  scanty  people,  the  Parsis,  have  in  the  eyes  of  the  his-
-torian and  theologist,  as  they  present  to  us  the  last  reflex
-of  the  ideas  which  prevailed  in  Iran  during  the  five  cen-
-turies which  preceded  and  the  seven  which  followed  the
-birth  of  Christ,  a  period  which  gave  to  the  world  the  Gos-
-pels, the  Talmud,  and  the  Our'an.  Persia,  it  is  known,  had
+that  scanty  people,  the  Parsis,  have  in  the  eyes  of  the  historian and  theologist,  as  they  present  to  us  the  last  reflex
+of  the  ideas  which  prevailed  in  Iran  during  the  five  centuries which  preceded  and  the  seven  which  followed  the
+birth  of  Christ,  a  period  which  gave  to  the  world  the  Gospels, the  Talmud,  and  the  Our'an.  Persia,  it  is  known,  had
 much  influence  on  each  of  the  movements  which  produced,
 or  proceeded  from,,  those  three  books  ;  she  lent  much  to
-the  first  heresiarchs,  much  to  the  Rabbis,  much  to  Moham-
-med. By  help  of  the  Parsi  religion  and  the  Avesta,  we  are
-enabled  to  go  back  to  the  very  heart  of  that  most  mo-
-mentous period  in  the  history  of  religious  thought,  which
+the  first  heresiarchs,  much  to  the  Rabbis,  much  to  Mohammed. By  help  of  the  Parsi  religion  and  the  Avesta,  we  are
+enabled  to  go  back  to  the  very  heart  of  that  most  momentous period  in  the  history  of  religious  thought,  which
 saw  the  blending  of  the  Aryan  mind  with  the  Semitic,  and
 thus  opened  the  second  stage  of  Aryan  thought.
 
@@ -646,8 +595,7 @@ ago,  and  it  was  the  old  foe  of  Persia,  the  Greek,  who  first
 studied  it.  Aristotle *,  Hermippus 2,  and  many  others 3
 wrote  of  it  in  books  of  which,  unfortunately,  nothing  more
 than  a  few  fragments  or  merely  the  titles  have  come  down
-to  us.  We  find  much  valuable  information  about  it,  scat-
-tered in  the  accounts  of  historians  and  travellers,  extending
+to  us.  We  find  much  valuable  information  about  it,  scattered in  the  accounts  of  historians  and  travellers,  extending
 over  ten  centuries,  from  Herodotus  down  to  Agathias  and
 Procopius.  It  was  never  more  eagerly  studied  than  in  the
 first  centuries  of  the  Christian  era ;  but  that  study  had  no
@@ -673,8 +621,7 @@ INTRODUCTION,    I.  Xlll
 rpov,  or  '  Oracula  ChaldaTca  sive  Magica,'  the  work  of  Neo-
 Platonists  who  were  but  very  remote  disciples  of  the  Median
 sage.  As  his  name  had  become  the  very  emblem  of  wisdom,
-they  would  cover  with  it  the  latest  inventions  of  their  ever-
-deepening  theosophy.  Zoroaster  and  Plato  were  treated
+they  would  cover  with  it  the  latest  inventions  of  their  everdeepening  theosophy.  Zoroaster  and  Plato  were  treated
 as  if  they  had  been  philosophers  of  the  same  school,  and
 Hierocles  expounded  their  doctrines  in  the  same  book.
 Proclus  collected  seventy  Tetrads  of  Zoroaster  and  wrote
@@ -682,8 +629,7 @@ commentaries  on  them l  ;  but  we  need  hardly  say  that
 Zoroaster  commented  on  by  Proclus  was  nothing  more  or
 less  than  Proclus  commented  on  by  Proclus.  Prodicus  the
 Gnostic  had  secret  books  of  Zoroaster  2  ;  and  upon  the
-whole  it  may  be  said  that  in  the  first  centuries  of  Chris-
-tianity, the  religion  of  Persia  was  more  studied  and
+whole  it  may  be  said  that  in  the  first  centuries  of  Christianity, the  religion  of  Persia  was  more  studied  and
 less  understood  than  it  had  ever  been  before.  The  real
 object  aimed  at,  in  studying  the  old  religion,  was  to  form  a
 new  one.
@@ -691,19 +637,15 @@ new  one.
 Throughout  the  Middle  Ages  nothing  was  known  of
 Mazdeism  but  the  name  of  its  founder,  who  from  a  Magus
 was  converted  into  a  magician  and  master  of  the  hidden
-sciences.  It  was  not  until  the  Renaissance  that  real  in-
-quiry was  resumed.  The  first  step  was  to  collect  all  the
+sciences.  It  was  not  until  the  Renaissance  that  real  inquiry was  resumed.  The  first  step  was  to  collect  all  the
 information  that  could  be  gathered  from  Greek  and  Roman
-writers.  That  task  was  undertaken  and  successfully  com-
-pleted by  Barnabe  Brisson  3.  A  nearer  approach  to  the
+writers.  That  task  was  undertaken  and  successfully  completed by  Barnabe  Brisson  3.  A  nearer  approach  to  the
 original  source  was  made  in  the  following  century  by
 Italian,  English,  and  French  travellers  in  Asia.  Pietro
 della  Valle,  Henry  Lord,  Mandelslo,  Ovington,  Chardin,
 Gabriel  du  Chinon,  and  Tavernier  found  Zoroaster's  last
-followers  in  Persia  and  India,  and  made  known  their  exist-
-ence, their  manners,  and  the  main  features  of  their  belief  to
-Europe.  Gabriel  du  Chinon  saw  their  books  and  recog-
-nised that  they  were  not  all  written  in  the  same  language,
+followers  in  Persia  and  India,  and  made  known  their  existence, their  manners,  and  the  main  features  of  their  belief  to
+Europe.  Gabriel  du  Chinon  saw  their  books  and  recognised that  they  were  not  all  written  in  the  same  language,
 their  original  holy  writ  being  no  longer  understood  except
 
 
@@ -725,8 +667,7 @@ tongue.
 In  the  year  1700,  a  professor  at  Oxford,  Thomas  Hyde,
 the  greatest  Orientalist  of  his  time  in  Europe,  made  the
 first  systematic  attempt  to  restore  the  history  of  the  old
-Persian  religion  by  combining  the  accounts  of  the  Moham-
-medan writers  with  '  the  true  and  genuine  monuments  of
+Persian  religion  by  combining  the  accounts  of  the  Mohammedan writers  with  '  the  true  and  genuine  monuments  of
 ancient  Persia1.5  Unfortunately  the  so-called  genuine
 monuments  of  ancient  Persia  were  nothing  more  than
 recent  compilations  referring  to  the  last  stage  of  Parsiism.
@@ -738,8 +679,7 @@ Parsiism,  and  it  made  inquiry  into  its  history  the  order  of
 the  day.  A  warm  appeal  made  by  him  to  the  zeal  of
 travellers,  to  seek  for  and  procure  at  any  price  the  sacred
 books  of  the  Parsis,  did  not  remain  ineffectual,  and  from
-that  time  scholars  bethought  themselves  of  studying  Par-
-siism in  its  own  home.
+that  time  scholars  bethought  themselves  of  studying  Parsiism in  its  own  home.
 
 Eighteen  years  later,  a  countryman  of  Hyde,  George
 Boucher,  received  from  the  Parsis  in  Surat  a  copy  of  the
@@ -776,8 +716,7 @@ Impatient  to  set  off,  without  waiting  for  a  mission  from  the
 government  which  had  been  promised  to  him,  he  enlisted
 as  a  private  soldier  in  the  service  of  the  French  East  India
 Company;  he  embarked  at  Lorient  on  the  24th  of  February
-1755)  and  after  three  years  of  endless  adventures  and  dan-
-gers through  the  whole  breadth  of  Hindustan,  at  the  very
+1755)  and  after  three  years  of  endless  adventures  and  dangers through  the  whole  breadth  of  Hindustan,  at  the  very
 time  when  war  was  raging  between  France  and  England,
 he  arrived  at  last  in  Surat,  where  he  stayed  among  the
 Parsis  for  three  years  more.  Here  began  another  struggle,
@@ -785,21 +724,18 @@ not  less  hard,  but  more  decisive,  against  that  mistrust  and
 ill-will  of  the  Parsis  which  had  disheartened  Fraser;  but  he
 came  out  of  it  victorious,  and  succeeded  at  last  in  winning
 from  the  Parsis  both  their  books  and  their  knowledge.  He
-came  back  to  Paris  on  the  14th  of  March  1764,  and  de-
-posited on  the  following  day  at  the  Bibliotheque  Royale
+came  back  to  Paris  on  the  14th  of  March  1764,  and  deposited on  the  following  day  at  the  Bibliotheque  Royale
 the  whole  of  the  Zend-Avesta  and  copies  of  most  of  the
 traditional  books.  He  spent  ten  years  in  studying  the
 material  he  had  collected,  and  published  in  177.1  the  first
 European  translation  of  the  Zend-Avesta  \
 
 A  violent  dispute  broke  out  at  once,  as  half  the  learned
-world  denied  the  authenticity  of  the  Avesta,  which  it  pro-
-nounced a  forgery.  It  was  the  future  founder  of  the  Royal
+world  denied  the  authenticity  of  the  Avesta,  which  it  pronounced a  forgery.  It  was  the  future  founder  of  the  Royal
 Asiatic  Society,  William  Jones,  a  young  Oxonian  then,
 who  opened  the  war.  He  had  been  wounded  to  the  quick
 by  the  scornful  tone  adopted  by  Anquetil  towards  Hyde
-and  a  few  other  English  scholars :  the  Zend-Avesta  suf-
-fered for  the  fault  of  its  introducer,  Zoroaster  for  Anquetil.
+and  a  few  other  English  scholars :  the  Zend-Avesta  suffered for  the  fault  of  its  introducer,  Zoroaster  for  Anquetil.
 In  a  pamphlet  written  in  French2,  with  a  verve  and  in  a
 style  which  showed  him  to  be  a  good  disciple  of  Voltaire,
 W.  Jones  pointed  out,  and  dwelt  upon,  the  oddities  and
@@ -815,19 +751,16 @@ traduction  des  livres  attribues  a  Zoroastre.'
 XVI  VENDIDAD.
 
 
-absurdities  with  which  the  so-called  sacred  books  of  Zo-
-roaster teemed.  It  is  true  that  Anquetil  had  given  full  scope
+absurdities  with  which  the  so-called  sacred  books  of  Zoroaster teemed.  It  is  true  that  Anquetil  had  given  full  scope
 to  satire  by  the  style  he  had  adopted  :  he  cared  very  little
 for  literary  elegance,  and  did  not  mind  writing  Zend  and
 Persian  in  French  ;  so  the  new  and  strange  ideas  he  had  to
 express  looked  stranger  still  in  the  outlandish  garb  he  gave
 them.  Yet  it  was  less  the  style  than  the  ideas  that
-shocked  the  contemporary  of  Voltaire1.  His  main  argu-
-ment was  that  books,  full  of  such  silly  tales,  of  laws  and
+shocked  the  contemporary  of  Voltaire1.  His  main  argument was  that  books,  full  of  such  silly  tales,  of  laws  and
 rules  so  absurd,  of  descriptions  of  gods  and  demons  so
 grotesque,  could  not  be  the  work  of  a  sage  like  Zoroaster,
-nor  the  code  of  a  religion  so  much  celebrated  for  its  simpli-
-city, wisdom,  and  purity.  His  conclusion  was  that  the
+nor  the  code  of  a  religion  so  much  celebrated  for  its  simplicity, wisdom,  and  purity.  His  conclusion  was  that  the
 Avesta  was  a  rhapsody  of  some  modern  Guebre.  In  fact
 the  only  thing  in  which  Jones  succeeded  was  to  prove  in  a
 decisive  manner  that  the  ancient  Persians  were  not  equal
@@ -835,8 +768,7 @@ to  the  lumieres  of  the  eighteenth  century,  and  that  the
 authors  of  the  Avesta  had  not  read  the  Encyclopedic
 
 Jones's  censure  was  echoed  in  England  by  Sir  John
-Chardin  and  Richardson,  in  Germany  by  Meiners.  Richard-
-son tried  to  give  a  scientific  character  to  the  attacks  of
+Chardin  and  Richardson,  in  Germany  by  Meiners.  Richardson tried  to  give  a  scientific  character  to  the  attacks  of
 Jones  by  founding  them  on  philological  grounds2.  That
 the  Avesta  was  a  fabrication  of  modern  times  was  shown,
 he  argued,  by  the  number  of  Arabic  words  he  fancied  he
@@ -845,8 +777,7 @@ element  was  introduced  into  the  Persian  idioms  earlier  than
 the  seventh  century ;  also  by  the  harsh  texture  of  the
 Zend,  contrasted  with  the  rare  euphony  of  the  Persian  ;
 and,  lastly,  by  the  radical  difference  between  the  Zend
-and  Persian,  both  in  words  and  grammar.  To  these  objec-
-tions, drawn  from  the  form,  he  added  another  derived  from
+and  Persian,  both  in  words  and  grammar.  To  these  objections, drawn  from  the  form,  he  added  another  derived  from
 the  uncommon  stupidity  of  the  matter.
 
 In  Germany,  Meiners,  to  the  charges  brought  against  the
@@ -865,16 +796,14 @@ INTRODUCTION,    I.  XV11
 
 ascribe  to  Zoroaster  books  in  which  are  found  numberless
 names  of  trees,  animals,  men,  and  demons  unknown  to  the
-ancient  Persians  ;  in  which  are  invoked  an  incredible  num-
-ber of  pure  animals  and  other  things,  which,  as  appears
+ancient  Persians  ;  in  which  are  invoked  an  incredible  number of  pure  animals  and  other  things,  which,  as  appears
 from  the  silence  of  ancient  writers,  were  never  known,  or  at
 least  never  worshipped,  in  Persia  ?  What  Greek  ever  spoke
 of  Horn,  of  Jemshid,  and  of  such  other  personages  as  the
 fabricators  of  that  rhapsody  exalt  with  every  kind  of  praise,
 as  divine  heroes1?'  Yet,  in  the  midst  of  his  Ciceronian
 nonsense,  Meiners  inadvertently  made  a  remark  which,  if
-correctly  interpreted,  might  have  led  to  important  dis-
-coveries. He  noticed  that  many  points  of  resemblance  are
+correctly  interpreted,  might  have  led  to  important  discoveries. He  noticed  that  many  points  of  resemblance  are
 to  be  found  between  the  ideas  of  the  Parsis  and  those  of
 the  Brahmans  and  Musulmans.  He  saw  in  this  a  proof
 that  Parsiism  is  a  medley  of  Brahmanical  and  Musulman
@@ -887,8 +816,7 @@ religions  of  India  and  Persia  flowed  from  a  common  source.
 tales  of  numberless  demons  of  either  sex  as  the  Indian
 priests  do,  but  he  also  prescribes  the  same  remedies  in
 order  to  drive  them  away,  and  to  balk  their  attempts.'  In
-these  words  there  was  something  like  the  germ  of  compara-
-tive mythology ;  seldom  has  a  man  approached  the  truth
+these  words  there  was  something  like  the  germ  of  comparative mythology ;  seldom  has  a  man  approached  the  truth
 so  closely  and  then  departed  from  it  so  widely.
 
 Anquetil  and  the  Avesta  found  an  eager  champion  in
@@ -899,8 +827,7 @@ historical  dissertations  2.  Then,  in  a  series  of  dissertations
 of  his  own 3,  he  vindicated  the  authenticity  of  the  Zend
 books.     Anquetil  had  already  tried  to  show,  in  a  memoir
 
-1  '  De   Zoroastris  vila,    institutis,    doctrina    et    libris,'   in  the   Novi   Com-
-mentarii  Societatis  Regiae,  Goettingen,  1 778-1 779.
+1  '  De   Zoroastris  vila,    institutis,    doctrina    et    libris,'   in  the   Novi   Commentarii  Societatis  Regiae,  Goettingen,  1 778-1 779.
 
 2  '  Zend-Avesta  .  .  .  nach  dem  Franzoesischen  des  Herrn  Anquetil  Du  Perron,'
 3  vols,  in  40,  1776.
@@ -917,8 +844,7 @@ on  Plutarch,  that  the  data  of  the  Avesta  fully  agree  with
 the  account  of  the  Magian  religion  given  in  the  treatise  on
 '  Isis  and  Osiris.'  Kleuker  enlarged  the  circle  of  comparison
 to  the  whole  of  ancient  literature.  He  tried  also  to  appeal
-to  internal  evidence,  an  attempt  in  which  he  was  less  suc-
-cessful. The  strength  of  his  defence  was  seldom  greater
+to  internal  evidence,  an  attempt  in  which  he  was  less  successful. The  strength  of  his  defence  was  seldom  greater
 than  the  strength  of  the  attack.  Meiners  had  pointed  out
 the  mythical  identity  of  the  Mount  Albor^-  of  the  Parsis
 with  the  Mount  Meru  of  the  Hindus,  as  a  proof  that  the
@@ -932,17 +858,13 @@ Meru  is  only  to  be  found  in  Fairyland.  Seldom  were  worse
 arguments  used  in  the  service  of  a  good  cause.  Meiners
 had  said  that  the  name  of  the  Parsi  demons  was  of  Indian
 origin,  as  both  languages  knew  them  by  the  Latin  name
-'  Deus.'  This  was  an  incorrect  statement,  and  yet  an  impor-
-tant observation.  The  word  which  means  '  a  demon '  in
+'  Deus.'  This  was  an  incorrect  statement,  and  yet  an  important observation.  The  word  which  means  '  a  demon '  in
 Persia  means  quite  the  contrary  in  India,  and  that  radical
-difference  is  just  a  proof  of  the  two  systems  being  indepen-
-dent of  one  another.  Kleuker  pointed  out  the  incorrectness
-of  the  statement ;  but,  being  unable  to  account  for  the  iden-
-tity of  the  words,  he  flatly  denied  it.
+difference  is  just  a  proof  of  the  two  systems  being  independent of  one  another.  Kleuker  pointed  out  the  incorrectness
+of  the  statement ;  but,  being  unable  to  account  for  the  identity of  the  words,  he  flatly  denied  it.
 
 Kleuker  was  more  successful  in  the  field  of  philology :  he
-showed,  as  Anquetil  had  done,  that  Zend  has  no  Arabic  ele-
-ments in  it,  and  that  Pahlavi  itself;  which  is  more  modern  than
+showed,  as  Anquetil  had  done,  that  Zend  has  no  Arabic  elements in  it,  and  that  Pahlavi  itself;  which  is  more  modern  than
 Zend,  does  not  contain  any  Arabic,  but  only  Semitic  words
 of  the  Aramean  dialect,  which  are  easily  accounted  for  by
 the  close  relations  of  Persia  with  Aramean  lands  in  the  time
@@ -950,8 +872,7 @@ of  the  Sassanian  kings.  He  showed,  lastly,  that  Arabic  words
 appear  only  in  the  very  books  which  Parsi  tradition  itself
 considers  modern.
 
-Another  stanch  upholder  of  the  Avesta  was  the  numis-
-matologist  Tychsen,  who,  having  begun  to  read  the  book
+Another  stanch  upholder  of  the  Avesta  was  the  numismatologist  Tychsen,  who,  having  begun  to  read  the  book
 with  a  prejudice  against  its  authenticity,  quitted  it  with
 a  conviction  to  the  contrary.     '  There  is  nothing  in  it,'  he
 
@@ -959,8 +880,7 @@ a  conviction  to  the  contrary.     '  There  is  nothing  in  it,'  he
 INTRODUCTION,    I.  XIX
 
 
-writes,  '  but  what  befits  remote  ages,  and  a  man  philo-
-sophising in  the  infancy  of  the  world.  Such  traces  of  a
+writes,  '  but  what  befits  remote  ages,  and  a  man  philosophising in  the  infancy  of  the  world.  Such  traces  of  a
 recent  period  as  they  fancy  to  have  found  in  it,  are  either
 due  to  misunderstandings,  or  belong  to  its  later  portions.
 On  the  whole  there  is  a  marvellous  accordance  between  the
@@ -969,25 +889,20 @@ to  the  doctrine  and  institutions  of  Zoroaster.  Plutarch
 agrees  so  well  with  the  Zend  books  that  I  think  no  one
 will  deny  the  close  resemblance  of  doctrines  and  identity
 of  origin.  Add  to  all  this  the  incontrovertible  argument  to
-be  drawn  from  the  language,  the  antiquity  of  which  is  estab-
-lished by  the  fact  that  it  was  necessary  to  translate  a  part
+be  drawn  from  the  language,  the  antiquity  of  which  is  established by  the  fact  that  it  was  necessary  to  translate  a  part
 of  the  Zend  books  into  Pahlavi,  a  language  which  was
 growing  obsolete  as  early  as  the  time  of  the  Sassanides.
 Lastly,  it  cannot  be  denied  that  Zoroaster  left  books,  which
-were,  through  centuries,  the  groundwork  of  the  Magic  reli-
-gion, and  which  were  preserved  by  the  Magi,  as  shown  by  a
-series  of  documents  from  the  time  of  Hermippus.  There-
-fore I  am  unable  to  see  why  we  should  not  trust  the  Magi
+were,  through  centuries,  the  groundwork  of  the  Magic  religion, and  which  were  preserved  by  the  Magi,  as  shown  by  a
+series  of  documents  from  the  time  of  Hermippus.  Therefore I  am  unable  to  see  why  we  should  not  trust  the  Magi
 of  our  days  when  they  ascribe  to  Zoroaster  those  traditional
-books  of  their  ancestors,  in  which  nothing  is  found  to  indi-
-cate fraud  or  a  modern  hand  V
+books  of  their  ancestors,  in  which  nothing  is  found  to  indicate fraud  or  a  modern  hand  V
 
 Two  years  aftenvards,  in  1793,  was  published  in  Paris  a
 book  which,  without  directly  dealing  with  the  Avesta,  was
 the  first  step  taken  to  make  its  authenticity  incontrovertible.
 It  was  the  masterly  memoir  by  Sylvestre  de  Sacy,  in  which
-the  Pahlavi  inscriptions  of  the  first  Sassanides  were  deci-
-phered for  the  first  time  and  in  a  decisive  manner.  De
+the  Pahlavi  inscriptions  of  the  first  Sassanides  were  deciphered for  the  first  time  and  in  a  decisive  manner.  De
 Sacy,  in  his  researches,  had  chiefly  relied  on  the  Pahlavi
 lexicon  published  by  Anquetil,  whose  work  vindicated  itself
 thus — better  than  by  heaping  up  arguments — by  promoting
@@ -1009,8 +924,7 @@ XX  VENDIDAD.
 
 to  the  importance  of  the  new  discovery  :  '  This,'  he  writes,
 '  is  a  proof  that  the  Pahlavi  was  used  during  the  reign  of
-the  Sassanides,  for  it  was  from  them  that  these  inscrip-
-tions emanated,  as  it  was  by  them — nay,  by  the  first  of
+the  Sassanides,  for  it  was  from  them  that  these  inscriptions emanated,  as  it  was  by  them — nay,  by  the  first  of
 them,  Ardeshir  Babagan — that  the  doctrine  of  Zoroaster
 was  revived.  One  can  now  understand  why  the  Zend  books
 were  translated  into  Pahlavi.  Here,  too,  everything  agrees,
@@ -1033,17 +947,14 @@ creator  of  the  comparative  grammar  of  Sanskrit  and  Zend.
 '  When  I  perused  the  Zend  glossary,'  he  writes,  '  I  was
 inexpressibly  surprised  to  find  that  six  or  seven  words  in  ten
 are  pure  Sanscrit,  and  even  some  of  their  inflexions  formed
-by  the  rules  of  the  Vyacaran1,  as  yushmacam,  the  geni-
-tive plural  of  yushmad.  Now  M.  Anquetil  most  certainly,
+by  the  rules  of  the  Vyacaran1,  as  yushmacam,  the  genitive plural  of  yushmad.  Now  M.  Anquetil  most  certainly,
 and  the  Persian  compiler  most  probably,  had  no  knowledge
 of  Sanscrit,  and  could  not,  therefore,  have  invented  a  list  of
 Sanscrit  words  ;  it  is,  therefore,  an  authentic  list  of  Zend
 words,  which  has  been  preserved  in  books  or  by  tradition  ;
-it  follows  that  the  language  of  the  Zend  was  at  least  a  dia-
-lect of  the  Sanscrit,  approaching  perhaps  as  nearly  to  it  as
+it  follows  that  the  language  of  the  Zend  was  at  least  a  dialect of  the  Sanscrit,  approaching  perhaps  as  nearly  to  it  as
 the  Pracrit,  or  other  popular  idioms,  which  we  know  to  have
-been  spoken  in  India  two  thousand  years  ago  V  This  con-
-clusion, that  Zend  is  a  Sanskrit  dialect,  was  incorrect,  the
+been  spoken  in  India  two  thousand  years  ago  V  This  conclusion, that  Zend  is  a  Sanskrit  dialect,  was  incorrect,  the
 connection  assumed  being  too  close ;  but  it  was  a  great
 
 1  The  Sanskrit  Grammar.  2  Asiatic  Researches,  II,  §  3.
@@ -1059,41 +970,35 @@ In  1798  Father  Paulo  de  St.  Barthelemy  further  developed
 Jones's  remark  in  an  essay  on  the  antiquity  of  the  Zend
 language1.  He  showed  its  affinity  with  the  Sanskrit  by  a
 list  of  such  Zend  and  Sanskrit  words  as  were  least  likely  to
-be  borrowed,  viz.  those  that  designate  the  degrees  of  rela-
-tionship, the  limbs  of  the  body,  and  the  most  general  and
+be  borrowed,  viz.  those  that  designate  the  degrees  of  relationship, the  limbs  of  the  body,  and  the  most  general  and
 essential  ideas.  Another  list,  intended  to  show,  on  a  special
 topic,  how  closely  connected  the  two  languages  are,  contains
 eighteen  words  taken  from  the  liturgic  language  used  in
 India  and  Persia.  This  list  was  not  very  happily  drawn  up,
 as  out  of  the  eighteen  instances  there  is  not  a  single  one
 that  stands  inquiry ;  yet  it  was  a  happy  idea,  and  one  which
-has  not  even  yet  yielded  all  that  it  promised.  His  conclu-
-sions were  that  in  a  far  remote  antiquity  Sanskrit  was  spoken
+has  not  even  yet  yielded  all  that  it  promised.  His  conclusions were  that  in  a  far  remote  antiquity  Sanskrit  was  spoken
 in  Persia  and  Media,  that  it  gave  birth  to  the  Zend  language,
 and  that  the  Zend-Avesta  is  authentic  :  '  Were  it  but  a  recent
 compilation,'  he  writes,  '  as  Jones  asserts,  how  is  it  that  the
 oldest  rites  of  the  Parsis,  that  the  old  inscriptions  of  the
-Persians,  the  accounts  of  the  Zoroastrian  religion  in  the  clas-
-sical writers,  the  liturgic  prayers  of  the  Parsis,  and,  lastly,
+Persians,  the  accounts  of  the  Zoroastrian  religion  in  the  classical writers,  the  liturgic  prayers  of  the  Parsis,  and,  lastly,
 even  their  books  do  not  reveal  the  pure  Sanskrit,  as  written
 in  the  land  wherein  the  Parsis  live,  but  a  mixed  language,
 which  is  as  different  from  the  other  dialects  of  India  as
-French  is  from  Italian?'  This  amounted,  in  fact,  to  say-
-ing that  the  Zend  is  not  derived  from  the  Sanskrit,  but
+French  is  from  Italian?'  This  amounted,  in  fact,  to  saying that  the  Zend  is  not  derived  from  the  Sanskrit,  but
 that  both  are  derived  from  another  and  older  language.
 The  Carmelite  had  a  dim  notion  of  that  truth,  but,  as  he
 failed  to  express  it  distinctly,  it  was  lost  for  years,  and  had
 to  be  re-discovered.
 
-The  first  twenty-five  years  of  this  century  were  void  of  re-
-sults, but  the  old  and  sterile  discussions  as  to  the  authenticity
+The  first  twenty-five  years  of  this  century  were  void  of  results, but  the  old  and  sterile  discussions  as  to  the  authenticity
 of  the  texts  continued  in  England.  In  1808  John  Leyden
 regarded  Zend  as  a  Prakrit  dialect,  parallel  to  Pali ;  Pali
 being  identical  with  the  Magadhi  dialect  and  Zend  with  the
 
 
 1  '  De  antiquitate  et  affinitate  linguae  samscredamicae  et  germanicae,'  Rome,
-1798
 
 
 XXll  VENDIDAD.
@@ -1112,10 +1017,8 @@ theologians  appealed  to  the  Avesta  in  their  polemics4,
 and  Rhode  sketched  the  religious  history  of  Persia  after
 the  translations  of  Anquetil 5.
 
-Erskine's  essay  provoked  a  decisive  answer6  from  Em-
-manuel Rask,  one  of  the  most  gifted  minds  in  the  new
-school  of  philology,  who  had  the  honour  of  being  a  pre-
-cursor of  both  Grimm  and  Burnouf.  He  showed  that  the
+Erskine's  essay  provoked  a  decisive  answer6  from  Emmanuel Rask,  one  of  the  most  gifted  minds  in  the  new
+school  of  philology,  who  had  the  honour  of  being  a  precursor of  both  Grimm  and  Burnouf.  He  showed  that  the
 list  of  the  Jehangiri  referred  to  an  epoch  later  than  that  to
 which  Zend  must  have  belonged,  and  to  parts  of  Persia
 different  from  those  where  it  must  have  been  spoken ;  he
@@ -1138,8 +1041,7 @@ grammar,  and  it  was  a  masterly  one.
 
 3  A  large  Persian  dictionary  compiled  in  India  in  the  reign  of  Jehangir.
 
-4  '  Erlauterungen  zum  Neuen  Testament  aus  einer  neueruffneten  Morgenland-
-ischen  Quelle,  'l8ov  payoi  and  avaroXuv?  Riga,  1775.
+4  '  Erlauterungen  zum  Neuen  Testament  aus  einer  neueruffneten  Morgenlandischen  Quelle,  'l8ov  payoi  and  avaroXuv?  Riga,  1775.
 
 5  '  Die  Heilige  Sage  .  .  .  des  Zend-Volks,'  Francfort,  1820.
 
@@ -1163,12 +1065,10 @@ what  was  worse,  he  took  the  proper  names  in  their  modern
 Parsi  forms,  which  often  led  him  to  comparisons  that  would
 have  appalled  Menage.  Thus  Ahriman  became  a  Sanskrit
 word  ariman,  which  would  have  meant  '  the  fiend  ;'  yet
-Bohlen  might  have  seen  in  Anquetil's  work  itself  that  Ahri-
-man is  nothing  but  the  modern  form  of  Angra  Mainyu,
+Bohlen  might  have  seen  in  Anquetil's  work  itself  that  Ahriman is  nothing  but  the  modern  form  of  Angra  Mainyu,
 words  which  hardly  remind  one  of  the  Sanskrit  ariman.
 Again,  the  angel  Vohu-mano,  or  'good  thought,'  was
-reduced,  by  means  of  the  Parsi  form  Bah  man,  to  the  San-
-skrit bahuman,  'a  long-armed  god.'
+reduced,  by  means  of  the  Parsi  form  Bah  man,  to  the  Sanskrit bahuman,  'a  long-armed  god.'
 
 At  last  came  Burnouf.  From  the  time  when  Anquetil
 had  published  his  translation,  that  is  to  say,  during  seventy
@@ -1177,19 +1077,16 @@ Avesta  texts.  The  notion  that  Zend  and  Sanskrit  are  two
 kindred  languages  was  the  only  new  idea  that  had  been
 acquired,  but  no  practical  advantage  for  the  interpretation
 of  the  texts  had  resulted  from  it.  Anquetil's  translation
-was  still  the  only  guide,  and  as  the  doubts  about  the  authen-
-ticity of  the  texts  grew  fainter,  the  authority  of  the  transla-
+was  still  the  only  guide,  and  as  the  doubts  about  the  authenticity of  the  texts  grew  fainter,  the  authority  of  the  transla-
 tion became  greater,  the  trust  reposed  in  the  Avesta  being
 reflected  on  to  the  work  of  its  interpreter.  The  Parsis  had
-been  the  teachers  of  Anquetil ;  and  who  could  ever  under-
-stand the  holy  writ  of  the  Parsis  better  than  the  Parsis
+been  the  teachers  of  Anquetil ;  and  who  could  ever  understand the  holy  writ  of  the  Parsis  better  than  the  Parsis
 themselves?  There  was  no  one  who  even  tried  to  read
 the  texts  by  the  light  of  Anquetil's  translation,  to  obtain
 a  direct  understanding  of  them.
 
 About  1825  Eugene  Burnouf  was  engaged  in  a  course  of
-researches  on  the  geographical  extent  of  the  Aryan  lan-
-guages in  India.  After  he  had  defined  the  limits  which
+researches  on  the  geographical  extent  of  the  Aryan  languages in  India.  After  he  had  defined  the  limits  which
 divide  the  races  speaking  Aryan  languages  from  the  native
 non-brahmanical  tribes  in  the  south,  he  wanted  to  know  if
 a  similar  boundary  had  ever  existed  in  the  north-west ;  and
@@ -1198,8 +1095,7 @@ a  similar  boundary  had  ever  existed  in  the  north-west ;  and
 XXIV  VENDIDAD.
 
 
-if  it  is  outside  of  India  that  the  origin  of  the  Indian  lan-
-guages and  civilisation  is  to  be  sought  for.  He  was  thus
+if  it  is  outside  of  India  that  the  origin  of  the  Indian  languages and  civilisation  is  to  be  sought  for.  He  was  thus
 led  to  study  the  languages  of  Persia,  and,  first  of  all,  the
 oldest  of  them,  the  Zend.  But  as  he  tried  to  read  the  texts
 by  help  of  Anquetil's  translation,  he  v/as  surprised  to  find
@@ -1212,13 +1108,10 @@ that  the  tradition  on  which  his  work  rested,  being  incorrect
 in  itself,  corrupted  it  from  the  very  beginning  ;  on  the  other
 hand,  as  Sanskrit  was  unknown  to  him  and  comparative
 grammar  did  not  as  yet  exist,  he  could  not  supply  the
-defects  of  tradition  by  their  aid.  Burnouf,  laying  aside  tradi-
-tion as  found  in  Anquetil's  translation,  consulted  it  as  found
+defects  of  tradition  by  their  aid.  Burnouf,  laying  aside  tradition as  found  in  Anquetil's  translation,  consulted  it  as  found
 in  a  much  older  and  purer  form,  in  a  Sanskrit  translation  of
-the  Yasna  made  in  the  fifteenth  century  by  the  Parsi  Nerio-
-sengh  in  accordance  with  the  old  Pahlavi  version.  The
-information  given  by  Neriosengh  he  tested,  and  either  con-
-firmed or  corrected,  by  a  comparison  of  parallel  passages
+the  Yasna  made  in  the  fifteenth  century  by  the  Parsi  Neriosengh  in  accordance  with  the  old  Pahlavi  version.  The
+information  given  by  Neriosengh  he  tested,  and  either  confirmed or  corrected,  by  a  comparison  of  parallel  passages
 and  by  the  help  of  comparative  grammar,  which  had  just
 been  founded  by  Bopp,  and  applied  by  him  successfully
 to  the  explanation  of  Zend  forms.  Thus  he  succeeded
@@ -1233,8 +1126,7 @@ a  marvellous  and  unparalleled  model  of  critical  insight  and
 steady  good  sense,  equally  opposed  to  the  narrowness  of
 mind  which  clings  to  matters  of  fact  without  rising  to  their
 cause  and  connecting  them  with  the  series  of  associated
-phenomena,  and  to  the  wild  and  uncontrolled  spirit  of  com-
-parison, which,  by  comparing  everything,  confounds  every-
+phenomena,  and  to  the  wild  and  uncontrolled  spirit  of  comparison, which,  by  comparing  everything,  confounds  every-
 thing. Never  sacrificing  either  tradition  to  comparison  or
 comparison  to  tradition,  he  knew  how  to  pass  from  the  one
 
@@ -1249,15 +1141,13 @@ At  the  same  time  the  ancient  Persian  inscriptions  at
 Persepolis  and  Behistun  were  deciphered  by  Burnouf  in
 Paris,  by  Lassen  in  Bonn,  and  by  Sir  Henry  Rawlinson  in
 Persia.  Thus  was  revealed  the  existence,  at  the  time  of
-the  first  Achsemenian  kings,  of  a  language  closely  con-
-nected with  that  of  the  Avesta,  and  the  last  doubts  as  to
+the  first  Achsemenian  kings,  of  a  language  closely  connected with  that  of  the  Avesta,  and  the  last  doubts  as  to
 the  authenticity  of  the  Zend  books  were  at  length  removed.
 It  would  have  required  more  than  an  ordinary  amount  of
 scepticism  to  look  still  upon  the  Zend  as  an  artificial
 language,  of  foreign  importation,  without  root  in  the  land
 where  it  was  written,  and  in  the  conscience  of  the  people
-for  whom  it  was  written,  at  the  moment  when  a  twin  lan-
-guage, bearing  a  striking  likeness  to  it  in  nearly  every
+for  whom  it  was  written,  at  the  moment  when  a  twin  language, bearing  a  striking  likeness  to  it  in  nearly  every
 feature,  was  suddenly  making  itself  heard  from  the  mouth
 of  Darius,  and  speaking  from  the  very  tomb  of  the  first
 Achsemenian  king.  That  unexpected  voice  silenced  all
@@ -1268,11 +1158,9 @@ CHAPTER   II.
 The  Interpretation  of  the  Zend-Avesta.
 
 The  peace  did  not  last  long,  and  a  year  after  the  death
-of  Burnouf  a  new  controversy  broke  out,  which  still  con-
-tinues, the  battle  of  the  methods,  that  is,  the  dispute
+of  Burnouf  a  new  controversy  broke  out,  which  still  continues, the  battle  of  the  methods,  that  is,  the  dispute
 between  those  who,  to  interpret  the  Avesta,  rely  chiefly  or
-exclusively  on  tradition,  and  those  who  rely  only  on  com-
-parison with  the  Vedas.  The  cause  of  the  rupture  was
+exclusively  on  tradition,  and  those  who  rely  only  on  comparison with  the  Vedas.  The  cause  of  the  rupture  was
 the  rapid  progress  made  in  the  knowledge  of  the  Vedic
 language  and  literature:  the  deeper  one  penetrated  into
 that  oldest  form  of  Indian  words  and  thoughts,  the
@@ -1292,23 +1180,19 @@ Avesta  received  an  unlooked-for  light  from  the  poems  of
 the  Indian  Rishis,  and  the  long-forgotten  past  and  the
 origin  of  many  gods  and  heroes,  whom  the  Parsi  worships
 and  extols  without  knowing  who  they  were  and  whence
-they  came,  were  suddenly  revealed  by  the  Vedas.  Em-
-boldened by  its  bright  discoveries,  the  comparative  method
+they  came,  were  suddenly  revealed  by  the  Vedas.  Emboldened by  its  bright  discoveries,  the  comparative  method
 took  pity  on  its  slower  and  less  brilliant  rival,  which  was
-then  making  its  first  attempts  to  unravel  the  Pahlavi  tradi-
-tional books.  Is  it  worth  while,  said  the  Vedic  scholars1,  to
+then  making  its  first  attempts  to  unravel  the  Pahlavi  traditional books.  Is  it  worth  while,  said  the  Vedic  scholars1,  to
 try  slowly  and  painfully  to  extract  the  secret  of  the  old
 book  from  that  uncouth  literature  ?  Nay,  is  there  any  hope
-that  its  secret  is  there  ?  Translating  the  Avesta  in  accord-
-ance with  the  Pahlavi  is  not  translating  the  Avesta,  but  only
+that  its  secret  is  there  ?  Translating  the  Avesta  in  accordance with  the  Pahlavi  is  not  translating  the  Avesta,  but  only
 translating  the  Pahlavi  version,  which,  wherever  it  has  been
 deciphered,  is  found  to  wander  strangely  from  the  true
 meaning  of  the  original  text.  Tradition,  as  a  rule,  is  wont
 to  enforce  the  ideas  of  its  own  ages  into  the  books  of  past
 ages.  From  the  time  when  the  Avesta  was  written  to  the
 time  when  it  was  translated,  many  ideas  had  undergone
-great  changes  :  such  ideas,  tradition  must  needs  either  mis-
-understand or  not  understand  at  all,  and  tradition  is  always
+great  changes  :  such  ideas,  tradition  must  needs  either  misunderstand or  not  understand  at  all,  and  tradition  is  always
 either  new  sense  or  nonsense.  The  key  to  the  Avesta  is
 not  the  Pahlavi,  but  the  Veda.  The  Avesta  and  the  Veda
 are  two  echoes  of  one  and  the  same  voice,  the  reflex  of  one
@@ -1317,8 +1201,7 @@ best  lexicon  and  the  best  commentary  to  the  Avesta.
 
 The  traditional  school 2  replied  that  translating  Zend  by
 means  of  Sanskrit  and  the  Avesta  by  means  of  the  Vedas,
-because  Zend  and  the  Avesta  are  closely  related  to  San-
-skrit and  the  Vedas,  is  forgetting  that  relationship  is  not
+because  Zend  and  the  Avesta  are  closely  related  to  Sanskrit and  the  Vedas,  is  forgetting  that  relationship  is  not
 identity,  and  that  what  interests  the  Zend  scholar  is  not  to
 know  how  far  Zend  agrees  with  Sanskrit,  but  what  it  is  in
 itself:  what  he  seeks  for  in  the  Avesta,  is  the  Avesta,  not
@@ -1334,40 +1217,33 @@ INTRODUCTION,    II.  XXV11
 
 
 method,  the  Zend  meregha,  which  means  'a  bird,'  would
-assume  the  meaning  of  '  gazelle '  to  accord  with  the  San-
-skrit mrz'ga  ;  ratu,  '  a  part  of  the  day/  would  be  extended
+assume  the  meaning  of  '  gazelle '  to  accord  with  the  Sanskrit mrz'ga  ;  ratu,  '  a  part  of  the  day/  would  be  extended
 to  '  a  season'  out  of  regard  for  rttu ;  mainyu, '  a  spirit,'  and
 dahyu,  'a  province,'  would  be  degraded  to  ' anger '  and  to
 'a  set  of  thieves/  and  'the  demons,'  the  Daevas,  would
 ascend  from  their  dwelling  in  hell  up  to  heaven,  to  meet
-their  philological  brothers,  the  Indian  Devas.  The  tradi-
-tional method,  as  it  starts  from  matters  of  facts,  moves
+their  philological  brothers,  the  Indian  Devas.  The  traditional method,  as  it  starts  from  matters  of  facts,  moves
 always  in  the  field  of  reality ;  the  comparative  method
 starts  from  an  hypothesis,  moves  in  a  vacuum,  and  builds
 up  a  fanciful  religion  and  a  fanciful  language.
 
-Such  being  the  methods  of  the  two  schools,  it  often  hap-
-pened that  a  passage,  translated  by  two  scholars,  one  of
+Such  being  the  methods  of  the  two  schools,  it  often  happened that  a  passage,  translated  by  two  scholars,  one  of
 each  school,   took  so   different  an  aspect  that   a  layman
 would  have  been  quite  unable  to  suspect  that  it  was  one
-and   the   same  passage  he  had   read  twice.     Yet  the  di-
-vergence between  the  two  methods  is  more  apparent  than
+and   the   same  passage  he  had   read  twice.     Yet  the  divergence between  the  two  methods  is  more  apparent  than
 real,  and  proceeds  from  an  imperfect  notion  of  the  field  in
 which  each  of  them  ought  to  work.     They  ought  not  to
 oppose,  but  assist  one  another,  as  they  are  not  intended  to
 instruct  us  about  the  same   kind   of  facts,  but  about  two
-kinds  of  facts  quite  different  and  independent.     No  lan-
-guage, no  religion,  that  has  lived  long  and  changed  much,
+kinds  of  facts  quite  different  and  independent.     No  language, no  religion,  that  has  lived  long  and  changed  much,
 can    be   understood   at  any  moment  of   its   development,
 unless  we  know  what  it  became  afterwards,  and  what  it  was
 before.     The  language  and  religion  of  the  Avesta  record
 but  a  moment  in  the  long  life  of  the  Iranian  language  and
 thought,  so  that  we  are  unable  to  understand  them,  unless
 we  know  what  they  became  and  whence  they  came.     What
-they  became  we  learn  directly  from  tradition,  since  the  tradi-
-tion arose  from  the  very  ideas  which  the  Avesta  expresses ;
-whence  they  came  we  learn  indirectly  from  the  Vedas,  be-
-cause theVedas  come  from  the  same  source  as  the  Avesta.
+they  became  we  learn  directly  from  tradition,  since  the  tradition arose  from  the  very  ideas  which  the  Avesta  expresses ;
+whence  they  came  we  learn  indirectly  from  the  Vedas,  because theVedas  come  from  the  same  source  as  the  Avesta.
 Therefore  it  cannot  happen  that  the  tradition  and  the  Veda
 will  really  contradict  one  another,  if  we  take  care  to  ask
 from  each  only  what  it  knows,  from  one  the  present,  and
@@ -1379,14 +1255,10 @@ XXVlii  VENDIDAD.
 
 
 place.  The  first  place  belongs  to  tradition,  as  it  comes
-straight  from  the  Avesta.  The  second  inquiry,  to  be  suc-
-cessful, requires  infinite  prudence  and  care  :  the  Veda  is  not
-the  past  of  the  Avesta,  as  the  Avesta  is  the  past  of  tra-
-dition ;  the  Avesta  and  Veda  are  not  derived  from  one
-another,  but  from  one  and  the  same  original,  diversely-
-altered  in  each,  and,  therefore,  there  are  two  stages  of
-variation  between  them,  whereas  from  the  Avesta  to  tradi-
-tion there  is  only  one.  The  Veda,  if  first  interrogated,
+straight  from  the  Avesta.  The  second  inquiry,  to  be  successful, requires  infinite  prudence  and  care  :  the  Veda  is  not
+the  past  of  the  Avesta,  as  the  Avesta  is  the  past  of  tradition ;  the  Avesta  and  Veda  are  not  derived  from  one
+another,  but  from  one  and  the  same  original,  diverselyaltered  in  each,  and,  therefore,  there  are  two  stages  of
+variation  between  them,  whereas  from  the  Avesta  to  tradition there  is  only  one.  The  Veda,  if  first  interrogated,
 gives  no  valuable  evidence,  as  the  words  and  gods,  common
 to  the  two  systems,  may  not  have  retained  in  both  the
 same  meaning  they  had  in  the  Indo-Iranian  period :  they
@@ -1397,8 +1269,7 @@ matters  of  fact  in  the  Avesta,  but  only  in  explaining  them
 when  discovered  by  tradition.  If  we  review  the  discoveries
 made  by  the  masters  of  the  comparative  school,  it  will  be
 seen  that  they  have  in  reality  started,  without  noticing  it,
-from  facts  formerly  established  by  tradition.  In  fact  tradi-
-tion gives  the  materials,  and  comparison  puts  them  in  order.
+from  facts  formerly  established  by  tradition.  In  fact  tradition gives  the  materials,  and  comparison  puts  them  in  order.
 It  is  not  possible,  either  to  know  the  Avesta  without  the
 former,  or  to  understand  it  without  the  latter.
 
@@ -1408,8 +1279,7 @@ the  nature  of  the  old  Iranian  religion  by  gathering  together
 all  its  materials ;  the  comparative  school  tried  to  explain
 its  growth.  The  traditional  school  published  the  text  and
 the  traditional  translations,  and  produced  the  first  Parsi
-grammar,  the  first  Pahlavi  grammar,  and  the  first  transla-
-tion of  the  Avesta  which  had  been  made  since  Anquetil.
+grammar,  the  first  Pahlavi  grammar,  and  the  first  translation of  the  Avesta  which  had  been  made  since  Anquetil.
 The  danger  with  it  is  that  it  shows  itself  too  apt  to  stop  at
 tradition,  instead  of  going  from  it  to  comparison.  When  it
 undertakes  to  expound  the  history  of  the  religion,  it  cannot
@@ -1433,8 +1303,7 @@ growth,  their  changes,  their  former  relations,  and  lead  us
 from  the  logical  order,  which  is  a  shadow,  to  the  historical
 order,  which  is  the  substance.
 
-The  comparative  school  developed  Indo-Iranian  mytho-
-logy. Roth  showed  after  Burnouf  how  the  epical  history  of
+The  comparative  school  developed  Indo-Iranian  mythology. Roth  showed  after  Burnouf  how  the  epical  history  of
 Iran  was  derived  from  the  same  source  as  the  myths  of
 Vedic  India,  and  pointed  out  the  primitive  identity  of
 Ahura  Mazda,  the  supreme  god  of  Iran,  with  Varuwa,  the
@@ -1443,8 +1312,7 @@ Windischmann,  in  his  « Zoroastrian  Essays '  and  in  his
 studies  on  Mithra  and  Anahita,  displayed  singular  sagacity.
 But  the  dangers  of  the  method  came  to  light  in  the  works
 of  Haug,  who,  giving  a  definite  form  to  a  system  still
-fluctuating,  converted  Mazdeism  into  a  religious  revolu-
-tion against  Vedic  polytheism,  found  historical  allusions  to
+fluctuating,  converted  Mazdeism  into  a  religious  revolution against  Vedic  polytheism,  found  historical  allusions  to
 that  schism  both  in  the  Avesta  and  in  the  Veda,  pointed
 out  curses  against  Zoroaster  in  the  Vedas,  and,  in  short,
 transformed,  as  it  were,  the  two  books  into  historical
@@ -1479,20 +1347,16 @@ The  Formation  of  the  Zend-Avesta.
 Zend-Avesta  \  is  divided,  in  its  usual  form,  into  two  parts.
 
 The  first  part,  or  the  Avesta  properly  so  called,  contains
-the  Vendidad,  the  Visperad,  and  the  Yasna.  The  Ven-
-didad is  a  compilation  of  religious  laws  and  of  mythical
-tales  ;  the  Visperad  is  a  collection  of  litanies  for  the  sacri-
-fice ;  and  the  Yasna  is  composed  of  litanies  of  the  same
+the  Vendidad,  the  Visperad,  and  the  Yasna.  The  Vendidad is  a  compilation  of  religious  laws  and  of  mythical
+tales  ;  the  Visperad  is  a  collection  of  litanies  for  the  sacrifice ;  and  the  Yasna  is  composed  of  litanies  of  the  same
 kind  and  of  five  hymns  or  Gathas  written  in  a  special
 dialect,  older  than  the  general  language  of  the  Avesta.
 
-These  three  books  are  found  in  manuscripts  in  two  dif-
-ferent forms :  either  each  by  itself,  in  which  case  they  are
+These  three  books  are  found  in  manuscripts  in  two  different forms :  either  each  by  itself,  in  which  case  they  are
 generally  accompanied  by  a  Pahlavi  translation ;  or  the
 three  mingled  together  according  to  the  requirements  of
 the  liturgy,  as  they  are  not  each  recited  separately  in  their
-entirety,  but  the  chapters  of  the  different  books  are  inter-
-mingled ;  and  in  this  case  the  collection  is  called  the
+entirety,  but  the  chapters  of  the  different  books  are  intermingled ;  and  in  this  case  the  collection  is  called  the
 Vendidad  Sadah  or  '  Vendidad  pure,'  as  it  exhibits  the
 original  text  alone,  without  a  translation.
 
@@ -1507,14 +1371,11 @@ in  the  Khorda  Avesta,  although  forming  no  real  part  of  it,
 the  Yasts  or  hymns  of  praise  and  glorification  to  the  several
 
 
-1  A  very  improper  designation,  as  Zend  means  '  a  commentary  or  explana-
-tion,' and  was  applied  only  to  explanatory  texts,  to  the  translations  of  the
+1  A  very  improper  designation,  as  Zend  means  '  a  commentary  or  explanation,' and  was  applied  only  to  explanatory  texts,  to  the  translations  of  the
 Avesta.  Avesta  (from  the  old  Persian  a.  bast  a,  '  the  law  ;'  see  Oppert,  Journal
 Asiatique,  1872,  Mars)  is  the  proper  name  of  the  original  texts.  What  it  is
-customary  to  call  '  the  Zend  language '  ought  to  be  named  '  the  Avesta  lan-
-guage ; '  the  Zend  being  no  language  at  all ;  and,  if  the  word  be  used  as  the
-designation  of  one,  it  can  be  rightly  applied  only  to  the  Pahlavi.  The  ex-
-pression 'Avesta  and  Zend'  is  often  used  in  the  Pahlavi  commentary  to
+customary  to  call  '  the  Zend  language '  ought  to  be  named  '  the  Avesta  language ; '  the  Zend  being  no  language  at  all ;  and,  if  the  word  be  used  as  the
+designation  of  one,  it  can  be  rightly  applied  only  to  the  Pahlavi.  The  expression 'Avesta  and  Zend'  is  often  used  in  the  Pahlavi  commentary  to
 designate  '  the  law  with  its  traditional  and  revealed  explanation.'
 
 
@@ -1525,42 +1386,35 @@ which  is  the  Hadhokht  Nosk.
 
 §  2.  That  the  extent  of  the  sacred  literature  of  Mazdeism
 was  formerly  much  greater  than  it  is  now,  appears  not  only
-from  internal  evidence,  that  is,  from  the  fragmentary  cha-
-racter of  the  book,  but  is  also  proved  by  historical  evidence.
+from  internal  evidence,  that  is,  from  the  fragmentary  character of  the  book,  but  is  also  proved  by  historical  evidence.
 In  the  first  place,  the  Arab  conquest  proved  fatal  to  the
 religious  literature  of  the  Sassanian  ages,  a  great  part  of
-w^hich  was  either  destroyed  by  the  fanaticism  of  the  con-
-querors and  the  new  converts,  or  lost  during  the  long
+w^hich  was  either  destroyed  by  the  fanaticism  of  the  conquerors and  the  new  converts,  or  lost  during  the  long
 exodus  of  the  Parsis.  Thus  the  Pahlavi  translation  of  the
 Vendidad,  which  was  not  finished  before  the  latter  end  of  the
 Sassanian  dynasty,  contains  not  a  few  Zend  quotations  from
 books  which  are  no  longer  in  existence ;  other  quotations,
 as  remarkable  in  their  importance  as  in  their  contents,  are
-to  be  found  in  Pahlavi  and  Parsi  tracts,  like  the  Niran-
-gistan  and  the  Aogemaide.  The  Bundahij-  contains  much
+to  be  found  in  Pahlavi  and  Parsi  tracts,  like  the  Nirangistan  and  the  Aogemaide.  The  Bundahij-  contains  much
 matter  which  is  not  spoken  of  in  the  existing  Avesta,  but
 which  is  very  likely  to  have  been  taken  from  Zend  books
-which  were  still  in  the  hands  of  its  compiler.  It  is  a  tradi-
-tion with  the  Parsis,  that  the  Ya^ts  were  originally  thirty
+which  were  still  in  the  hands  of  its  compiler.  It  is  a  tradition with  the  Parsis,  that  the  Ya^ts  were  originally  thirty
 in  number,  there  having  been  one  for  each  of  the  thirty
 Izads  who  preside  over  the  thirty  days  of  the  month  ;  yet
 there  are  only  eighteen  still  extant.
 
 The  cause  that  preserved  the  Avesta  is  obvious  ;  taken
-as  a  whole,  it  does  not  profess  to  be  a  religious  encyclo-
-pedia, but  only  a  liturgical  collection,  and  it  bears  more
+as  a  whole,  it  does  not  profess  to  be  a  religious  encyclopedia, but  only  a  liturgical  collection,  and  it  bears  more
 likeness  to  a  Prayer  Book  than  to  the  Bible.  It  can  be
 readily  conceived  that  the  Vendidad  Sadah,  which  had  to
 be  recited  every  day,  would  be  more  carefully  preserved
 than  the  Yarts,  which  are  generally  recited  once  a  month  ;
 and  these  again  more  carefully  than  other  books,  which,
-however  sacred  they  might  be,  were  not  used  in  the  per-
-formance of  worship.  Many  texts,  no  doubt,  were  lost  in
+however  sacred  they  might  be,  were  not  used  in  the  performance of  worship.  Many  texts,  no  doubt,  were  lost  in
 consequence  of  the  Arab  conquest,  but  mostly  such  as  would
 have  more  importance  in  the  eyes  of  the  theologian  than  in
 those  of  the  priest.  We  have  a  fair  specimen  of  what  these
-lost  texts  may  have  been  in  the  few  non-liturgical  frag-
-ments which  we  still  possess,  such  as  the  Viitasp  Ya.st  and
+lost  texts  may  have  been  in  the  few  non-liturgical  fragments which  we  still  possess,  such  as  the  Viitasp  Ya.st  and
 
 
 xxxii  vend!dad.
@@ -1590,8 +1444,7 @@ the  present  period  even  to  Sassanian  times2.  It  involves
 the  assumption  that  the  Avesta  is  the  remnant  of  the  sacred
 literature  of  Persia  under  the  last  Achaemenian  kings.  To
 ascertain  whether  this  inference  is  correct,  and  to  what
-extent  it  may  be  so,  we  must  first  try  to  define,  as  accu-
-rately as  we  can,  the  exact  time  at  which  the  collection,
+extent  it  may  be  so,  we  must  first  try  to  define,  as  accurately as  we  can,  the  exact  time  at  which  the  collection,
 now  in  existence,  was  formed.
 
 §  4.  The  Ravaet  quoted  above  states  that  it  was  formed
@@ -1606,8 +1459,7 @@ authority  with  the  Parsis  of  our  days,  and  which,  although
 it  contains  many  things  of  late  origin  3,  also  comprises  many
 
 1  Ravaet  ap.  Anquetil,  Memoires  de  l'Acad.  des  Inscr.  et  Belles-Lettres
-XXXVIII,  216;  Spiegel,  Zeitschrift  der  Deutschen  Morgenlandischen  Gesell-
-schaftIX,i74.
+XXXVIII,  216;  Spiegel,  Zeitschrift  der  Deutschen  Morgenlandischen  GesellschaftIX,i74.
 
 2  J.  Darmesteter,  La  legende  d' Alexandre  chez  les  Parses.
 
@@ -1644,8 +1496,7 @@ writers  agree  that  it  was  the  Sassanian  dynasty  which  raised
 the  Zoroastrian  religion  from  the  state  of  humiliation  into
 which  the  Greek  invasion  had  made  it  sink,  and,  while  it
 gave  the  signal  for  a  revival  of  the  old  national  spirit,  made
-Mazdeism  one  of  the  corner  stones  of  the  new  establish-
-ment5. Therefore  it  seems  strange  to  hear  that  the  first  step
+Mazdeism  one  of  the  corner  stones  of  the  new  establishment5. Therefore  it  seems  strange  to  hear  that  the  first  step
 taken  to  make  Mazdeism  a  state  religion  was  taken  by  one
 of  those  very  Philhellenic  Parthian  princes,  who  were  so
 fully  imbued  with  Greek  ideas  and  manners.  Yet  this  is  the
@@ -1683,15 +1534,13 @@ Parsi  would  ever  have  thought  of  making  them  share  what
 was  in  his  eyes  their  first  and  best  title  of  honour  with  any
 of  the  despised  princes  of  the  Parthian  dynasty.
 
-§  6.  It  is  difficult,  of  course,  to  prove  directly  the  authen-
-ticity of  this  record,  the  more  so  as  we  do  not  even  know
+§  6.  It  is  difficult,  of  course,  to  prove  directly  the  authenticity of  this  record,  the  more  so  as  we  do  not  even  know
 who  was  the  king  alluded  to.  There  were,  in  fact,  four
 kings  at  least l  who  bore  the  name  of  Valkhash  :  the  most
 celebrated  and  best  known  of  the  four  was  Vologeses  I,  the
 contemporary  of  Nero.  Now  that  Zoroastrianism  prevailed
 with  him,  or  at  least  with  members  of  his  family,  we  see
-from  the  conduct  of  his  brother  Tiridates,  who  was  a  Ma-
-gian  (Magus) 2 ;  and  by  this  term  we  must  not  understand  a
+from  the  conduct  of  his  brother  Tiridates,  who  was  a  Magian  (Magus) 2 ;  and  by  this  term  we  must  not  understand  a
 magician  3,  but  a  priest,  and  one  of  the  Zoroastrian  religion.
 That  he  was  a  priest  appears  from  Tacitus' testimony4;  that
 he  was  a  Zoroastrian  is  shown  by  his  scruples  about  the
@@ -1700,12 +1549,10 @@ to  receive  the  crown  of  Armenia  at  the  hands  of  Nero,  he
 wanted  not  to  come  by  sea,  but  rode  along  the  coasts 5,
 because  the  Magi  were  forbidden  to  defile  the  sea6.  This
 is  quite  in  the  spirit  of  later  Zoroastrianism,  and  savours
-much  of  Mazdeism.  That  Vologeses  himself  shared  the  reli-
-gious scruples  of  his  brother  appears  from  his  answer  to  Nero,
+much  of  Mazdeism.  That  Vologeses  himself  shared  the  religious scruples  of  his  brother  appears  from  his  answer  to  Nero,
 
 
-1  Perhaps  five  (see  de  Longperier,  Memoire  sur  la  Numismatique  des  Arsa-
-cides,  p.  in).
+1  Perhaps  five  (see  de  Longperier,  Memoire  sur  la  Numismatique  des  Arsacides,  p.  in).
 
 2  •  Magus  ad  eum  Tiridates  venerat '  (Pliny,  Nat.  Hist.  XXX,  6).
 
@@ -1721,27 +1568,22 @@ sacerdotii  religione  attineretur'  (Ann.  XV,  24).
 
 5  He  crossed  only  the  Hellespont.
 
-6  '  Navigare  noluerat,  quoniam  inspuere  in  maria,  aliisque  mortalium  necessi-
-tatibus  violare  naturam  earn  fas  non  putant '  (Pliny,  1.1.    Cf.  Introd.  V,  8  seq.)
+6  '  Navigare  noluerat,  quoniam  inspuere  in  maria,  aliisque  mortalium  necessitatibus  violare  naturam  earn  fas  non  putant '  (Pliny,  1.1.    Cf.  Introd.  V,  8  seq.)
 
 
 INTRODUCTION,    III.  XXXV
 
-who  insisted  upon  his  coming  to  Rome  also  :  '  Come  your-
-self, it  is  easier  for  you  to  cross  such  immensity  of  sea  V
+who  insisted  upon  his  coming  to  Rome  also  :  '  Come  yourself, it  is  easier  for  you  to  cross  such  immensity  of  sea  V
 
 §  7.  Thus  we  hear  on  one  hand  from  the  Parsis  that  the
 first  collection  of  the  Avesta  was  made  by  an  Arsacide
 named  Vologeses  ;  and  we  hear,  on  the  other  hand,  from
-a  quite  independent  source,  that  an  Arsacide  named  Volo-
-geses behaved  himself  as  a  follower  of  the  Avesta  might
-have  done.  In  all  this  there  is  no  evidence  that  it  is  Volo-
-geses I  who  is  mentioned  in  the  Dinkar/,  much  less  that
+a  quite  independent  source,  that  an  Arsacide  named  Vologeses behaved  himself  as  a  follower  of  the  Avesta  might
+have  done.  In  all  this  there  is  no  evidence  that  it  is  Vologeses I  who  is  mentioned  in  the  Dinkar/,  much  less  that
 he  was  really  the  first  editor  of  the  Avesta ;  but  it  shows
 at  all  events  that  the  first  attempt  to  recover  the  sacred
 literature  of  Iran  might  very  well  have  been  made  by  an
-Arsacide,  and  that  we  may  trust,  in  this  matter,  to  a  docu-
-ment which  has  been  written  perhaps  by  a  Sassanian  king,
+Arsacide,  and  that  we  may  trust,  in  this  matter,  to  a  document which  has  been  written  perhaps  by  a  Sassanian  king,
 but,  at  any  rate,  in  a  Sassanian  spirit.  In  fact,  in  the
 struggle  between  Ardavan  and  Ardeshir,  there  was  no
 religious  interest  at  stake,  but  only  a  political  one ;  and  we
@@ -1751,8 +1593,7 @@ matters2.  It  can,  therefore,  be  fairly  admitted  that  even  in
 the  time  and  at  the  court  of  the  Philhellenic  Parthians  a
 Zoroastrian  movement  may  have  originated,  and  that  there
 came  a  time  when  they  perceived  that  a  national  religion
-is  a  part  of  national  life.  It  was  the  merit  of  the  Sassa-
-nides  that  they  saw  the  drift  of  this  idea  which  they  had
+is  a  part  of  national  life.  It  was  the  merit  of  the  Sassanides  that  they  saw  the  drift  of  this  idea  which  they  had
 the  good  fortune  to  carry  out ;  and  this  would  not  be  the
 only  instance,  in  the  history  of  the  world,  of  an  idea  being
 sown  by  one  party  and  its  advantages  reaped  by  their
@@ -1780,26 +1621,20 @@ XXXVI  VENDIDAD.
 
 §  8.  Another  presumptive  evidence  of  the  groundwork
 of  the  Avesta  being  anterior  to  the  age  of  the  Sassanians
-is  given  by  the  language  in  which  it  is  written.  That  lan-
-guage not  only  was  not,  but  had  never  been,  the  national
+is  given  by  the  language  in  which  it  is  written.  That  language not  only  was  not,  but  had  never  been,  the  national
 language  of  Persia.  It  is  indeed  closely  connected  with
 the  ancient  Persian,  as  found  in  the  cuneiform  inscriptions
 of  the  Achsmenian  kings,  from  which  modern  Persian  is
 derived  ;  but  the  relations  between  ancient  Persian  and
-Zend  are  of  such  a  kind  that  neither  language  can  be  con-
-ceived as  being  derived  from  the  other ;  they  are  not  one
-and  the  same  language  in  two  different  stages  of  its  deve-
-lopment, but  two  independent  dialects  in  nearly  the  same
+Zend  are  of  such  a  kind  that  neither  language  can  be  conceived as  being  derived  from  the  other ;  they  are  not  one
+and  the  same  language  in  two  different  stages  of  its  development, but  two  independent  dialects  in  nearly  the  same
 stage,  which  is  a  proof  that  they  did  not  belong  to  the
-same  country,  and,  therefore,  that  Zend  was  not  the  lan-
-guage of  Persia.  Now  the  language  used  in  Persia  after
-the  death  of  Alexander,  under  the  Arsacides  and  Sassa-
-nides,  that  is,  during  the  period  in  which  the  Avesta  must
+same  country,  and,  therefore,  that  Zend  was  not  the  language of  Persia.  Now  the  language  used  in  Persia  after
+the  death  of  Alexander,  under  the  Arsacides  and  Sassanides,  that  is,  during  the  period  in  which  the  Avesta  must
 have  been  edited,  was  Pahlavi,  which  is  not  derived  from
 Zend,  but  from  ancient  Persian,  being  the  middle  dialect
 between  ancient  and  modern  Persian.  Therefore,  if  the
-Sassanian  kings  had  conceived  the  project  of  having  reli-
-gious books  of  their  own  written  and  composed,  it  is  not
+Sassanian  kings  had  conceived  the  project  of  having  religious books  of  their  own  written  and  composed,  it  is  not
 likely  that  they  would  have  had  them  written  in  an  old
 foreign  dialect,  but  in  the  old  national  language,  the  more
 so,  because,  owing  both  to  their  origin  and  their  policy,  they
@@ -1812,12 +1647,10 @@ Zend,  and  the  editors  of  the  Avesta  had  Zend  writings
 before  them.
 
 This  does  not,  of  course,  prove  that  all  we  find  in  the
-Avesta  is  pre-Sassanian,  and  that  the  editors  did  not  com-
-pose new  Zend  texts.  Although  Zend  was  not  only  a
+Avesta  is  pre-Sassanian,  and  that  the  editors  did  not  compose new  Zend  texts.  Although  Zend  was  not  only  a
 dead  language,  but  also  a  foreign  one,  it  was  not  an
 unknown  language:  that  it  was  well  understood  by  the
-learned  class,  the  priests,  appears  from  the  Pahlavi  trans-
-lation, which  was  made  by  them,  and  which,  the   deeper
+learned  class,  the  priests,  appears  from  the  Pahlavi  translation, which  was  made  by  them,  and  which,  the   deeper
 
 
 INTRODUCTION,    III.  XXXVU
@@ -1842,19 +1675,16 @@ the  bulk  of  the  Avesta  is  pre-Sassanian.
 
 §  9.  The  date  assigned  by  the  Dinkar/  to  the  final
 edition  of  the  Avesta  and  to  its  promulgation  as  the  sacred
-law  of  the  nation,  agrees  with  what  we  know  of  the  reli-
-gious state  of  Iran  in  the  times  of  Shapur  II.  Mazdeism
+law  of  the  nation,  agrees  with  what  we  know  of  the  religious state  of  Iran  in  the  times  of  Shapur  II.  Mazdeism
 had  just  been  threatened  with  destruction  by  a  new  religion
 sprung  from  itself,  the  religion  of  Mani,  which  for  a  while
 numbered  a  king  amongst  its  followers  (Shapur  I,  240-
 270).  Mazdeism  was  shaken  for  a  long  time,  and  when
 Mani  was  put  to  death,  his  work  did  not  perish  with  him.
-In  the  Kissah-i  San^ah,  Zoroaster  is  introduced  prophe-
-sying that  the  holy  religion  will  be  overthrown  three  times
+In  the  Kissah-i  San^ah,  Zoroaster  is  introduced  prophesying that  the  holy  religion  will  be  overthrown  three  times
 and  restored  three  times ;  overthrown  the  first  time  by
 Iskander,  it  will  be  restored  by  Ardeshir ;  overthrown
-again,  it  will  be  restored  by  Shapur  II  and  Adarbad  Mah-
-raspand  ;  and,  lastly,  it  will  be  overthrown  by  the  Arabs
+again,  it  will  be  restored  by  Shapur  II  and  Adarbad  Mahraspand  ;  and,  lastly,  it  will  be  overthrown  by  the  Arabs
 and  restored  at  the  end  of  time  by  Soshyos.  The  Parsi
 traditions  about  Adarbad,  although  they  are  mixed  with
 much  fable,  allow  some  historical  truth  to  show  itself.
@@ -1872,16 +1702,14 @@ was  falling  into  oblivion,  restored  it  through  a  miracle,  as
 he  gave  a  sign  of  its  truth  by  allowing  melted  brass  to  be
 poured  on  his  breast,  without  his  being  injured.  Setting
 aside  the  miracle,  which  is  most  probably  borrowed  from
-the  legend  of  Zoroaster,  this  account  receives  its  true  inter-
-pretation from  the  passages  in  the  Kissah-i  San^ah  and
+the  legend  of  Zoroaster,  this  account  receives  its  true  interpretation from  the  passages  in  the  Kissah-i  San^ah  and
 the  Dinkar/,  which  imply  that  Adarbad  restored  Mazdeism,
 which  had  been  shaken  by  the  Manichean  heresy,  and  that
 in  order  to  settle  it  upon  a  solid  and  lasting  base,  he  gave
 a  definitive  form  to  the  religious  book  of  Iran  and  closed
 the  Holy  Writ.  And  even  nowadays  the  Parsi,  while
 reciting  the  Patet,  acknowledges  Adarbad  as  the  third
-founder  of  the  Avesta  ;  the  first  being  Zoroaster,  who  re-
-ceived it  from  Ormazd  ;  the  second  Gamasp,  who  received  it
+founder  of  the  Avesta  ;  the  first  being  Zoroaster,  who  received it  from  Ormazd  ;  the  second  Gamasp,  who  received  it
 from  Zoroaster ;  and  the  third  Adarbad,  who  taught  it  and
 restored  it  to  its  purity.
 
@@ -1891,8 +1719,7 @@ that  the  Avesta  took  its  definitive  form  from  the  hands  of
 
 A
 
-Adarbad  Mahraspand,  under  King  Shapur  II,  in  conse-
-quence of  the  dangers  with  which  Mani's  heresy  had
+Adarbad  Mahraspand,  under  King  Shapur  II,  in  consequence of  the  dangers  with  which  Mani's  heresy  had
 threatened  the  national  religion.  As  the  death  of  Mani
 and  the  first  persecution  of  his  followers  took  place  some
 thirty  years  before  Shapur' s  accession  to  the  throne,  it  may
@@ -1907,8 +1734,7 @@ composed  even  as  late  as  the  fourth  century  A.  D.  This  is,
 of  course,  a  mere  theoretical  possibility,  for  although  the
 liturgical  parts  of  the  Yasna,  theVisperad,  the  Sirozah,  and
 
-1  Shapur  II  ascended  the  throne  about  309  (before  being  bom,  as  the  tradi-
-tion goes)  :  and  as  he  appears  from  the  Dinkar/  to  have  taken  a  personal  part
+1  Shapur  II  ascended  the  throne  about  309  (before  being  bom,  as  the  tradition goes)  :  and  as  he  appears  from  the  Dinkar/  to  have  taken  a  personal  part
 in  the  work  of  Adarbad,  the  promulgation  of  the  Avesta  can  hardly  have  taken
 place  at  an  earlier  date  than  325-330.  Adarbad  and  the  Fathers  at  Nicaea
 lived  and  worked  in  the  same  age,  and  the  Zoroastrian  threats  of  the  king  of
@@ -1950,8 +1776,7 @@ illustrated  by  a  Parsi  book  of  the  same  period  \  the
 Mainyo-i-Khard  :
 
 '  Good  government  is  that  which  maintains  and  orders
-the  true  law  and  custom  of  the  city  people  and  poor  un-
-troubled, and  thrusts  out  improper  law  and  custom  ;  .  .  .
+the  true  law  and  custom  of  the  city  people  and  poor  untroubled, and  thrusts  out  improper  law  and  custom  ;  .  .  .
 and  keeps  in  progress  the  worship  of  God,  and  duties,  and
 good  works; . .  .  and  will  resign  the  body,  and  that  also  which
 [is]  its  own  life,  for  the  sake  of  the  good  religion  of  the
@@ -1980,11 +1805,9 @@ girdle.  We  know  too  little  of  the  Manichean  liturgy  to  guess
 if  the  Manicheans  are  here  alluded  to :  that  Mini  should
 have  rejected  many  Zoroastrian  practices  is  not  unlikely,
 as  his  aim  was  to  found  a  universal  religion.  While  he
-pushed  to  extremes  several  of  the  Zoroastrian  tenets,  espe-
-cially those  which  had  taken,  or  might  receive,  a  moral  or
+pushed  to  extremes  several  of  the  Zoroastrian  tenets,  especially those  which  had  taken,  or  might  receive,  a  moral  or
 metaphysical  meaning,  he  must  have  been  very  regardless
-of  practices  which  could  not  be  ennobled  into  moral  sym-
-bolism. However  it  may  be  with  regard  to  the  foregoing
+of  practices  which  could  not  be  ennobled  into  moral  symbolism. However  it  may  be  with  regard  to  the  foregoing
 passage,  it  is  difficult  not  to  see  a  direct  allusion  to
 Manicheism  in  lines  like  the  following  (IV,  47  seq.) :
 
@@ -2000,34 +1823,28 @@ the  latter  is  all  but  dead  ;  the  former  is  above  him  by  the
 worth  of  an  Asperena,  by  the  worth  of  a  sheep,  by  the
 worth  of  an  ox,  by  the  worth  of  a  man.
 
-'  It  is  this  man  that  can  strive  against  the  onsets  of  Asto-
-vidhotu  ;  that  can  strive  against  the  self-moving  arrow  ;
-that  can  strive  against  the  winter  fiend,  with  thinnest  gar-
-ment on ;  that  can  strive  against  the  wicked  tyrant  and
+'  It  is  this  man  that  can  strive  against  the  onsets  of  Astovidhotu  ;  that  can  strive  against  the  self-moving  arrow  ;
+that  can  strive  against  the  winter  fiend,  with  thinnest  garment on ;  that  can  strive  against  the  wicked  tyrant  and
 smite  him  on  the  head ;  it  is  this  man  that  can  strive
 against  the  ungodly  Ashemaogha  2  who  does  not  eat  V
 
 1  Chap.  XV,  16  seq.  as  translated  by  West.
 
 2  Ashemaogha,  'the  confounder  of  A --ha'  (see  IV,  37),  is  the  name  of  the
-fiends  and  of  the  heretics.  The  Parsis  distinguish  two  sorts  of  Ashemao-
-ghas,  the  deceiver  and  the  deceived;    the  deceiver,  while  alive,  is  mar-
+fiends  and  of  the  heretics.  The  Parsis  distinguish  two  sorts  of  Ashemaoghas,  the  deceiver  and  the  deceived;    the  deceiver,  while  alive,  is  mar-
 
 
 INTRODUCTION,    III.  xli
 
 That  this  is  a  bit  of  religious  polemics,  and  that  it  refers
 to  definite  doctrines  and  tenets  which  were  held  at  the
-time  when  it  was  written,  can  hardly  be  doubted.  It  may-
-remind  one  of  the  Christian  doctrines  ;  and.  in  fact,  it  was
+time  when  it  was  written,  can  hardly  be  doubted.  It  mayremind  one  of  the  Christian  doctrines  ;  and.  in  fact,  it  was
 nearly  in  the  same  tone,  and  with  the  same  expressions,
-that  in  the  fifth  century  King  Yazdgard  branded  the  Chris-
-tians in  Armenia  4.  But  however  eager  the  Christian  pro-
+that  in  the  fifth  century  King  Yazdgard  branded  the  Christians in  Armenia  4.  But  however  eager  the  Christian  pro-
 paganda may  have  been  for  a  time  in  Persia,  they  never
 endangered  the  state  religion.  The  real  enemy  was  the
 heresy  sprung  from  Mazdeism  itself;  and  Christianity,
-coming  from  abroad,  was  more  of  a  political  than  a  reli-
-gious foe.  And,  in  point  of  fact,  the  description  in  the
+coming  from  abroad,  was  more  of  a  political  than  a  religious foe.  And,  in  point  of  fact,  the  description  in  the
 above  passage  agrees  better  with  the  Manichean  doctrines
 than  with  the  Christian  5.  Like  Mani,  Christian  teachers
 held  the  single  life  holier  than  the  state  of  matrimony,  yet
@@ -2036,17 +1853,14 @@ put  poor  Lazarus  above  Dives,  but  they  never  forbade  trade
 and  husbandry,  which  Mani  did  ;  and,  lastly,  they  never
 prohibited  the  eating  of  flesh,  which  was  one  of  the  chief
 precepts  of  Mani 6.  We  find,  therefore,  in  this  passage,  an
-illustration,  from  the  Avesta  itself,  of  the  celebrated  doc-
-trine of  the  three  seals  with  which  Mani  had  sealed  the
-bosom,  the  hand,  and  the  mouth  of  his  disciples  (signa-
-culum  sinus,  manus,  oris)6.
+illustration,  from  the  Avesta  itself,  of  the  celebrated  doctrine of  the  three  seals  with  which  Mani  had  sealed  the
+bosom,  the  hand,  and  the  mouth  of  his  disciples  (signaculum  sinus,  manus,  oris)6.
 
 garzan, '  worthy  of  death,'  and  after  death  is  a  darvarcd  (a  fiend,  or  one  of  the
 damned) ;  the  deceived  one  is  only  margarzan.
 
 3  The  Pahlavi  translation  illustrates  the  words  'who  does  not  eat'  by  the
-gloss,  '  like  Mazdak,  son  of  Bamdad,'  which  proves  that  this  part  of  the  com-
-mentary is  posterior  to,  or  contemporary  with  the  crushing  of  the  Mazdakian
+gloss,  '  like  Mazdak,  son  of  Bamdad,'  which  proves  that  this  part  of  the  commentary is  posterior  to,  or  contemporary  with  the  crushing  of  the  Mazdakian
 sect  (in  the  first  years  of  Khosrav  Anosharvan,  about  531).  The  words  'against
 the  wicked  tyrant'  are  explained  by  the  gloss,  'like  Zarvandad  ;'  may  it  not
 be  Kobad,  the  heretic  king,  or  '  Yazdgard  the  sinner,'  the  scorner  of  the
@@ -2073,8 +1887,7 @@ xlii  vendidad.
 solve  the  question  whence  came  the  original  texts  out  of
 which  the  editors  of  the  Avesta  formed  their  collection.
 Setting  aside  the  Dinkar/,  we  have  no  oriental  document
-to  help  us  in  tracing  them  through  the  age  of  the  Arsa-
-cides,  a  complete  historical  desert,  and  we  are  driven  for
+to  help  us  in  tracing  them  through  the  age  of  the  Arsacides,  a  complete  historical  desert,  and  we  are  driven  for
 information  to  the  classical  writers  who  are,  on  this  point,
 neither  very  clear  nor  always  credible.     The  mention  of
 books  ascribed  to  Zoroaster  occurs  not  seldom  during  that
@@ -2090,8 +1903,7 @@ The  existence  of  a  Zoroastrian  literature  might  be  traced
 back  as  far  as  the  third  century  before  Christ,  if  Pliny  could
 be  credited  when  he  says  that  Hermippus :!  had  given  an
 analysis  of  the  books  of  Zoroaster,  which  are  said  to  have
-amounted  to  2,000,000  lines  4.     For  want  of  external  evi-
-dence  for   ascertaining   whether   the    original    texts   were
+amounted  to  2,000,000  lines  4.     For  want  of  external  evidence  for   ascertaining   whether   the    original    texts   were
 already  in  existence  in  the  later  years  of  the  Achaemenian
 dynasty,  we  must  seek  for  internal  evidence.    A  comparison
 between   the  ideas  expressed  in   our  texts  and  what  we
@@ -2120,17 +1932,14 @@ ixa-ywv  (Diog.  Laert.  Prooem.  8).
 
 INTRODUCTION,    III.  xliil
 
-Achasmenian  dynasty,  appears  from  the  perfect  accord-
-ance of  the  account  of  Mazdeism  in  Theopompos 1  with  the
+Achasmenian  dynasty,  appears  from  the  perfect  accordance of  the  account  of  Mazdeism  in  Theopompos 1  with  the
 data  of  the  Zend  books.  All  the  main  features  of  Mazdean
 belief,  namely,  the  existence  of  two  principles,  a  good  and
-an  evil  one,  Ormazd  and  Ahriman,  the  antithetical  crea-
-tions of  the  two  supreme  powers,  the  division  of  all  the
+an  evil  one,  Ormazd  and  Ahriman,  the  antithetical  creations of  the  two  supreme  powers,  the  division  of  all  the
 beings  in  nature  into  two  corresponding  classes,  the  limited
 duration  of  the  world,  the  end  of  the  struggle  between
 Ormazd  and  Ahriman  by  the  defeat  and  destruction  of  the
-evil  principle,  the  resurrection  of  the  dead,  and  the  ever-
-lasting life,  all  these  tenets  of  the  Avesta  had  already  been
+evil  principle,  the  resurrection  of  the  dead,  and  the  everlasting life,  all  these  tenets  of  the  Avesta  had  already  been
 established  at  the  time  of  Philip  and  Aristotle.  Therefore
 we  must  admit  that  the  religious  literature  then  in  existence,
 if  there  were  any,  must  have  differed  but  little,  so  far  as  its
@@ -2140,8 +1949,7 @@ account  of  Theopompos,  which  gives  us  details  nowhere  to
 be  found  in  the  present  texts,  and  yet  the  authenticity  of
 which  is  made  quite  certain  by  comparative  mythology  2.
 Therefore  there  is  nothing  that  forbids  us  to  believe,  with
-the  Parsis,  that  the  fragments  of  which  the  Avesta  is  com-
-posed were  already  in  existence  before  the  Greek  invasion55.
+the  Parsis,  that  the  fragments  of  which  the  Avesta  is  composed were  already  in  existence  before  the  Greek  invasion55.
 §  13.  But  it  does  not  follow  hence  that  the  Achsemenian
 Avesta  was  the  sacred  book  of  the  Achaemenians  and  of
 Persia,  and  it  must  not  be  forgotten  that  the  account  in
@@ -2149,14 +1957,12 @@ Plutarch  is  not  about  the  religion  of  Persia,  but  about  the
 belief  of  the  Magi  and  the  lore  of  Zoroaster.  Now  if  we
 consider  that  the  two  characteristic  features  of  Avestean
 Magism  are,  so  far  as  belief  goes,  the  admission  of  two
-principles,  and  so  far  as  practice  is  concerned,  the  prohibi-
-tion of  burying  the  dead,  we  find  that  there  is  no  evidence
+principles,  and  so  far  as  practice  is  concerned,  the  prohibition of  burying  the  dead,  we  find  that  there  is  no  evidence
 
 1  In  Plutarch,  De  Iside  et  Osiride,  §§  46-47.
 
 2  Men,  when  raised  from  the  dead,  shall  have  no  shadow  any  longer  (fir)Tt
-aKiav  wotovvTas).  In  India,  gods  have  no  shadows  (Nalus) ;  in  Persia,  Ra-
-shidaddm  was  recognised  to  be  a  god  from  his  producing  no  shadow  (Guyard,
+aKiav  wotovvTas).  In  India,  gods  have  no  shadows  (Nalus) ;  in  Persia,  Rashidaddm  was  recognised  to  be  a  god  from  his  producing  no  shadow  (Guyard,
 Un  grand  maitre  des  Assassins,  Journal  Asiatique,  1S77,  I,  392);  the  plant  of
 eternal  life,  Haoma,  has  no  shadow  (Henry  Lord).
 
@@ -2189,8 +1995,7 @@ articles  of  faith.
 The  account  of  the  Persian  religion  in  Herodotus  also
 leaves,  or  seems  to  leave,  Ahriman  unnoticed.  But  it  must
 be  borne  in  mind  that  he  does  not  expound  the  religious
-conceptions  of  the  Persians,  but  only  their  religious  cus-
-toms ;  he  describes  their  worship  more  than  their  dogmas,
+conceptions  of  the  Persians,  but  only  their  religious  customs ;  he  describes  their  worship  more  than  their  dogmas,
 and  not  a  single  tenet  is  mentioned.  He  seems  even  not
 to  know  anything  of  Ormazd,  who  was,  however,  most
 certainly  the  supreme  god  of  Persia  in  his  days  ;  yet,  in
@@ -2199,8 +2004,7 @@ Persians  worship  Zeus  on  the  summits  of  mountains,  and
 call  by  the  name  of  Zeus  the  whole  circle  of  the  heavens,
 which  exactly  agrees  with  the  character  of  Ormazd  2.  In
 the  same  way  the  existence  of  Ahriman  is  indirectly
-pointed  to  by  the  duty  enforced  upon  the  faithful  to  perse-
-cute and  kill  noxious  animals,  as  it  was  only  on  account  of
+pointed  to  by  the  duty  enforced  upon  the  faithful  to  persecute and  kill  noxious  animals,  as  it  was  only  on  account  of
 
 1  Professor  Oppert  thinks  he  has  found  in  Darius'  inscriptions  an  express
 mention  of  Ahriman  (Le  peuple  et  le  langue  des  Medes,  p.  199) ;  yet  the
@@ -2225,8 +2029,7 @@ existence,  and  that  dualism  was  constituted,  at  least,  as  a
 Magian  article  of  faith.
 
 If  we  pass  now  from  dogma  to  practice,  we  find  that  the
-most  important  practice  of  the  Avesta  law  was  either  dis-
-regarded by  the  Achaemenian  kings,  or  unknown  to  them.
+most  important  practice  of  the  Avesta  law  was  either  disregarded by  the  Achaemenian  kings,  or  unknown  to  them.
 According  to  the  Avesta  burying  corpses  in  the  earth  is  one
 of  the  most  heinous  sins  that  can  be  committed  3 ;  we  know
 that  under  the  Sassanians  a  prime  minister,  Seoses,  paid
@@ -2268,8 +2071,7 @@ xlvi  VENDIDAD.
 
 
 therefore,  practically,  two  religions  in  Iran,  the  one  for
-laymen  and  the  other  for  priests.  The  Avesta  was  ori-
-ginally the  sacred  book  only  of  the  Magi,  and  the  progress
+laymen  and  the  other  for  priests.  The  Avesta  was  originally the  sacred  book  only  of  the  Magi,  and  the  progress
 of  the  religious  evolution  was  to  extend  to  laymen  what
 was  the  custom  of  the  priests.
 
@@ -2293,11 +2095,9 @@ the  worship  of  the  gods.  ...  In  former  times  their  number
 was  very  scanty  .  .  .  ,  but  they  grew  up  by  and  by  into  the
 number  and  name  of  a  nation,  and  inhabiting  towns  without
 walls  they  were  allowed  to  live  according  to  their  own  laws,
-protected  by  religious  awe.'  Putting  aside  the  legendary  ac-
-count of  their  origin,  one  sees  from  this  passage  that  in  the
+protected  by  religious  awe.'  Putting  aside  the  legendary  account of  their  origin,  one  sees  from  this  passage  that  in  the
 time  of  Marcellinus1  (fourth  cent.  A.D.)  there  was  in  Media  a
-tribe,  called  Magi,  which  had  the  hereditary  privilege  of  pro-
-viding Iran  with  priests.  Strabo,  writing  three  centuries  before
+tribe,  called  Magi,  which  had  the  hereditary  privilege  of  providing Iran  with  priests.  Strabo,  writing  three  centuries  before
 Marcellinus,  considered  the  Magi  as  a  sacerdotal  tribe
 spread  over  the  land2.  Lastly,  we  see  in  Herodotus  (III,  65)
 that  the  usurpation  of  the  Magian  Smerdis  was  interpreted
@@ -2329,10 +2129,8 @@ be  correct  even  for  so  early  a  period  as  that  of  Herodotus.
 
 §  15.  Parsi  traditions  agree  with  Greek  testimonies.
 
-That  the  priesthood  was  hereditary,  we  see  from  the  state-
-ment in  the  Bundahij-,  that  all  the  Maubeds  are  descend-
-ants from  King  Minochihr1,  and  even  nowadays  the  priest-
-hood cannot  extend  beyond  the  priestly  families  ;  the  son
+That  the  priesthood  was  hereditary,  we  see  from  the  statement in  the  Bundahij-,  that  all  the  Maubeds  are  descend-
+ants from  King  Minochihr1,  and  even  nowadays  the  priesthood cannot  extend  beyond  the  priestly  families  ;  the  son
 of  a  Dastur  is  not  obliged  to  be  a  Dastur,  but  no  one  that
 is  not  the  son  of  a  Dastur  can  become  one2.
 
@@ -2348,8 +2146,7 @@ was  born  in  Rai,  that  is  in  Media,  properly  so  called  ;
 according  to  the  other  he  was  born  in  Shiz,  that  is  in
 Media  Atropatene.
 
-The  former  tradition  seems  to  be  the  older  ;  it  is  ex-
-pressed directly  in  the  Pahlavi  Commentary  to  Vendidad  I,
+The  former  tradition  seems  to  be  the  older  ;  it  is  expressed directly  in  the  Pahlavi  Commentary  to  Vendidad  I,
 16  3 ;  and  there  is  in  the  Avesta  itself  (Yasna  XIX,  1 8  (50))  a
 passage  that  either  alludes  to  it  or  shows  how  it  originated.
 
@@ -2382,21 +2179,18 @@ there  only  four  masters,  in  Ragha,  the  Zarathu^trian  city  V
 borough,  the  lord  of  the  town,  and  Zarathiutra  is  the
 fourth2.'
 
-This  amounts  to  saying  that  the  high-priest,  the  Mau-
-bedan  Maubed,  held  in  Rai  the  position  of  the  da/^yuma,
+This  amounts  to  saying  that  the  high-priest,  the  Maubedan  Maubed,  held  in  Rai  the  position  of  the  da/^yuma,
 or  lord  of  the  land,  and  was  the  chief  magistrate.  It  may
 be  suspected  that  this  was  the  independent  sacerdotal  state
 which  is  spoken  of  in  Marcellinus,  and  this  suspicion  is
 raised  to  a  certain  degree  of  probability  by  the  following
 lines  in  Yaqut :
 
-'Ustunawand,  a  celebrated  fortress  in  the  district  of  Dan-
-bawand,  in  the  province  of  Rai.  It  is  very  old,  and  was
+'Ustunawand,  a  celebrated  fortress  in  the  district  of  Danbawand,  in  the  province  of  Rai.  It  is  very  old,  and  was
 strongly  fortified.  It  is  said  to  have  been  in  existence  for
 more  than  3000  years,  and  to  have  been  the  stronghold  of
 the  Masmoghan  of  the  land  during  the  times  of  paganism.
-This  word,  which  designates  the  high-priest  of  the  Zoroas-
-trian  religion,  is  composed  of  mas,  "great,"  and  moghan,
+This  word,  which  designates  the  high-priest  of  the  Zoroastrian  religion,  is  composed  of  mas,  "great,"  and  moghan,
 which  means  "magian."  Khaled  besieged  it,  and  destroyed
 the  power  of  the  last  of  them  3.'
 
@@ -2439,20 +2233,17 @@ After  this  he  declared  himself  to  be  a  prophet2.'
 
 Now  we  read  in  the  Bundahij-  that  Zartu.st  founded  his
 religion  by  offering  a  sacrifice  in  IranVe^(AiryanemVaeg-o)3.
-Although  this  detail  referred  originally  to  the  mythical  cha-
-racter of  Zoroaster,  and  Iran  Ve»-  was  primitively  no  real
+Although  this  detail  referred  originally  to  the  mythical  character of  Zoroaster,  and  Iran  Ve»-  was  primitively  no  real
 country,  yet  as  it  was  afterwards  identified  with  the  basin
 of  the  Aras  (Vanguhi  Daitya)4,  this  identification  is  a  proof
 that  the  cradle  of  the  new  religion  was  looked  for  on  the
-banks  of  the  Aras.  In  the  Avesta  itself  we  read  that  Zoro-
-aster was  born  and  received  the  law  from  Ormazd  on  a
+banks  of  the  Aras.  In  the  Avesta  itself  we  read  that  Zoroaster was  born  and  received  the  law  from  Ormazd  on  a
 mountain,  by  the  river  Dare^a  5,  a  name  which  strikingly
 reminds  one  of  the  modern  Darah  river,  which  falls  from
 the  Sebilan  mount  into  the  Aras.
 
 To  decide  which  of  the  two  places,  Rai  or  Atropatene,
-had  the  better  claim  to  be  called  the  native  place  of  Zoro-
-aster is  of  course  impossible.  The  conflict  of  the  two
+had  the  better  claim  to  be  called  the  native  place  of  Zoroaster is  of  course  impossible.  The  conflict  of  the  two
 traditions  must  be  interpreted  as  an  indication  that  both
 places  were  important  seats  of  the  Magian  worship.  That
 both  traditions  may  rely  on  the  Avesta  is  perhaps  a  sign
@@ -2472,9 +2263,6 @@ a  Kazwini,  apud  Rawlinson  1.  c.  p.  69.
 5  See  Farg.  XIX,  4,11.
 
 [4]  d
-
-
-1  VENDIDAD.
 
 
 Magi  of  Atropatene1.  Which  of  the  two  places  had  the
@@ -2536,8 +2324,7 @@ INTRODUCTION,    III.  li
 
 having  risen  sooner  to  a  high  degree  of  civilisation,  should
 have  given  to  religion  and  worship  a  more  systematic  and
-elaborate  form,  and  in  religion,  as  in  politics,  the  best  organ-
-ised power  must  sooner  or  later  get  the  upper  hand.  It  is
+elaborate  form,  and  in  religion,  as  in  politics,  the  best  organised power  must  sooner  or  later  get  the  upper  hand.  It  is
 likely  that  it  began  with  the  conquest  of  Media  by  Cyrus :
 Media  capta  ferum  victorem  cepit.  .  .  .  Cyrus  is  said  to  have
 introduced  the  Magian  priesthood  into  Persia  (Xenophon,
@@ -2554,8 +2341,7 @@ priest  as  a  priest,  but  as  a  member  of  the  tribe  of  the  Magi.
 The  proper  word  for  a  priest  in  the  Avesta  is  Athravan,
 literally,  '  fire-man,'  and  that  this  was  his  name  with  the
 Persians  too  appears  from  the  statement  in  Strabo  (XV,  733)
-that  the  Magi  are  also  called  Ylvpa.1601.  It  is  easy  to  con-
-ceive that  the  Persians,  especially  in  ordinary  parlance,
+that  the  Magi  are  also  called  Ylvpa.1601.  It  is  easy  to  conceive that  the  Persians,  especially  in  ordinary  parlance,
 would  rather  designate  their  priests  after  their  origin  than
 after  their  functions2;  but  the  Magi  themselves  had  no
 reason  to  follow  the  Persian  custom,  which  was  not  always
@@ -2577,8 +2363,7 @@ the  Talis  dialect,  on  the  southern  bank  of  the  Aras.
 
 2  The  Pahlavi  has  'one  who  hates  the  Magu-men.'  In  the  passage  LIII
 (LII),  7,  mageus  is  not  a  Magian,  and  it  is  translated  by  magi,  'holiness,
-godliness,*  related  to  the  Vedic  magha.  Afterwards  the  two  words  were  con-
-founded, whence  came  the  Greek  statement  that  fuiyos  means  at  the  same
+godliness,*  related  to  the  Vedic  magha.  Afterwards  the  two  words  were  confounded, whence  came  the  Greek  statement  that  fuiyos  means  at  the  same
 time  'a  priest '  and  'a  god'  (Apollon.  Tyan.  Ep.  XVII).
 
 d    2
@@ -2646,8 +2431,7 @@ INTRODUCTION,    III.  1 1 1  £
 
 But  as  the  Magi  of  that  time  sang  songs  of  their  gods
 during  sacrifice,  it  is  very  likely  that  there  was  already  a
-sacred  literature  in  existence.  The  very  fact  that  no  sacri-
-fice could  be  performed  without  the  assistance  of  the  Magi
+sacred  literature  in  existence.  The  very  fact  that  no  sacrifice could  be  performed  without  the  assistance  of  the  Magi
 makes  it  highly  probable  that  they  were  in  possession  of
 rites,  prayers,  and  hymns  very  well  composed  and  arranged,
 and  not  unlike  those  of  the  Brahmans  ;  their  authority  can
@@ -2655,8 +2439,7 @@ only  be  accounted  for  by  the  power  of  a  strongly  defined
 ritual  and  liturgy.  There  must,  therefore,  have  been  a
 collection  of  formulae  and  hymns,  and  it  is  quite  possible
 that  Herodotus  may  have  heard  the  Magi  sing,  in  the  fifth
-century  B.  c,  the  very  same  Gathas  which  are  sung  nowa-
-days by  the  Mobeds  in  Bombay.  A  part  of  the  Avesta,
+century  B.  c,  the  very  same  Gathas  which  are  sung  nowadays by  the  Mobeds  in  Bombay.  A  part  of  the  Avesta,
 the  liturgical  part,  would  therefore  have  been,  in  fact,  a
 sacred  book  for  the  Persians.  It  had  not  been  written  by
 them,  but  it  was  sung  for  their  benefit.  That  Zend  hymns
@@ -2696,8 +2479,7 @@ work  of  co-ordination  was  already  terminated  at  the  end  of
 which,  so  far  as  the  matter  is  concerned,  may  not  have  been
 written  in  those  times.  Nay,  the  Greek  accounts  of  that
 period  present  us,  in  some  measure,  with  a  later  stage  of
-thought,  and  are  pervaded  with  a  stronger  sense  of  sym-
-metry, than  the  Avesta  itself.  Such  passages  as  the  latter
+thought,  and  are  pervaded  with  a  stronger  sense  of  symmetry, than  the  Avesta  itself.  Such  passages  as  the  latter
 end  of  the  Zamyad  Yast  and  Vendidad  X,  9  seq.  prove
 that,  when  they  were  composed,  the  seven  Arch-Devs  were
 not  yet  pointedly  contrasted  with  the  seven  Amshaspands,
@@ -2717,10 +2499,8 @@ the  other  Iranians.  The  new  principle  they  introduced,  or,
 rather,  developed  into  new  consequences,  was  that  of  the
 purity  of  the  elements.  Fire,  earth,  and  water  had  always
 been  considered  sacred  things,  and  had  received  worship  l :
-the  Magi  drew  from  that  principle  the  conclusion  that  bury-
-ing the  dead  or  burning  the  dead  was  defiling  a  god  :  as
-early  as  Herodotus  they  had  already  succeeded  in  preserving-
-fire  from  that  pollution,  and  cremation  was  a  capital  crime.
+the  Magi  drew  from  that  principle  the  conclusion  that  burying the  dead  or  burning  the  dead  was  defiling  a  god  :  as
+early  as  Herodotus  they  had  already  succeeded  in  preservingfire  from  that  pollution,  and  cremation  was  a  capital  crime.
 The  earth  still  continued  to  be  defiled,  notwithstanding  the
 example  they  set  ;  and  it  was  only  under  the  Sassanians,
 when  Mazdeism  became  the  religion  of  the  state,  that  they
@@ -2738,8 +2518,7 @@ INTRODUCTION,    III.  lv
 
 the  necessity  of  strict  observances,  the  yoke  of  which  was
 not  willingly  endured  by  the  mass  of  the  people.  Many
-acts,  insignificant  in  the  eyes  of  the  people,  became  repug-
-nant to  their  consciences  and  their  more  refined  logic.  The
+acts,  insignificant  in  the  eyes  of  the  people,  became  repugnant to  their  consciences  and  their  more  refined  logic.  The
 people  resisted,  and  for  a  time  Magian  observances  were
 observed  only  by  the  Magi.  The  slow  triumph  of  Magism
 can  be  dimly  traced  through  the  Achaemenian  period.
@@ -2759,8 +2538,7 @@ Persia,  and  that  his  reign  was  an  epoch  in  the  political
 history  of  Magism3.  But  the  real  victory  was  not  won
 till  six  centuries  later,  when  national  interest  required  a
 national  religion.  Then,  as  happens  in  every  revolution,
-the  ultra  party,  that  had  pushed  to  the  extreme  the  princi-
-ples common  to  all,  took  the  lead  ;  the  Magi  ascended  the
+the  ultra  party,  that  had  pushed  to  the  extreme  the  principles common  to  all,  took  the  lead  ;  the  Magi  ascended  the
 throne  with  Ardeshir,  one  of  their  pupils  4,  and  the  Magian
 
 1  Darius  rebuilt  the  temples  which  the  Magus  Gaumata  had  destroyed
@@ -2838,8 +2616,7 @@ We  have  tried  in  another  book a  to  show  that  the  religion
 of  the  Magi  is  derived  from  the  same  source  as  that  of  the
 Indian  Rishis,  that  is,  from  the  religion  followed  by  the
 common  forefathers  of  the  Iranians  and  Indians,  the  Indo-
-Iranian  religion.  The  Mazdcan  belief  is,  therefore,  com-
-posed of  two  different  strata  ;  the  one  comprises  all  the
+Iranian  religion.  The  Mazdcan  belief  is,  therefore,  composed of  two  different  strata  ;  the  one  comprises  all  the
 gods,  myths,  and  ideas  which  were  already  in  existence
 during  the  Indo-Iranian  period,  whatever  changes  they
 may  have  undergone  during  the  actual  Iranian  period  ;  the
@@ -2856,8 +2633,7 @@ seasons,  years  after  years  come  and  come  again  ;  there  is  a
 marvellous  friendship  between  the  sun  and  the  moon,  the
 dawn  has  never  missed  its  appointed  time  and  place,  and
 the  stars  that  shine  in  the  night  know  where  to  g^>  when
-the  day  is  breaking.  There  is  a  God  who  fixed  that*never-
-failing  law,  and  on  whom  it  rests  for  ever2.
+the  day  is  breaking.  There  is  a  God  who  fixed  that*neverfailing  law,  and  on  whom  it  rests  for  ever2.
 
 There  is  a  war  in  nature,  because  it  contains  powers  that
 work  for  good  and  powers  that  work  for  evil  :  there  are
@@ -2892,8 +2668,7 @@ extreme.
 
 §  3.  The  God  that  has  established  the  laws  in  nature  is
 the  Heaven  God.  He  is  the  greatest  of  gods,  since  there  is
-nothing  above  him  nor  outside  of  him  ;  he  has  made  every-
-thing, since  everything  is  produced  or  takes  place  in  him  ;  he
+nothing  above  him  nor  outside  of  him  ;  he  has  made  everything, since  everything  is  produced  or  takes  place  in  him  ;  he
 is  the  wisest  of  all  gods,  since  with  his  eyes,  the  sun,  moon,
 and  stars,  he  sees  everything1.
 
@@ -2941,8 +2716,7 @@ of  the  composers  of  the  Avesta.
 INTRODUCTION,    IV.  lix
 
 
-his  body1.  In  the  time  of  Herodotus,  Persians,  while  in-
-voking Auramazda,  the  creator  of  earth  and  heaven,  still
+his  body1.  In  the  time  of  Herodotus,  Persians,  while  invoking Auramazda,  the  creator  of  earth  and  heaven,  still
 knew  who  he  was,  and  called  the  whole  vault  of  the  sky
 Zeus,  that  is  to  say,  called  it  the  supreme  god2.
 
@@ -3002,8 +2776,7 @@ seven  gods  are  known  as  Amesha  Spe/ztas,  'the  undying
 and  well-doing  ones;'  they  by  and  by,  according  to  the
 new  spirit  that  breathed  in  the  religion,  received  the  names
 of  -the  deified  abstractions1,  Vohu-mano  (good  thought),
-Asha  Vahuta  (excellent  holiness),  Khshathra  vairya  (per-
-fect sovereignty),  Spe/zta  Armaiti  (divine  piety),  Haurvata/
+Asha  Vahuta  (excellent  holiness),  Khshathra  vairya  (perfect sovereignty),  Spe/zta  Armaiti  (divine  piety),  Haurvata/
 and  Amereta/  (health  and  immortality).  The  first  of  them
 all  was  and  remained  Ahura  Mazda  ;  but  whereas  formerly
 he  had  been  only  the  first  of  them,  he  was  now  their  father.
@@ -3031,8 +2804,7 @@ of  seven  heavens.  Hvan'uatha.  itself  was  divided  into  seven  climes  (Or
 1  Most  of  which  were  already  either  divine  or  holy  in  the  Indo-Iranian  period:
 health  and  immorlality  are  invoked  in  the  Vedas  as  in  the  Avesta  (see
 J.  Darmesteter,  Haurvata.'  et  Amereta^,  §§  49  seq.);  Asha  Vahista  is  revered
-in  the  Vedas  as  Rita  (vide  infra,  §  30);  Spe«ta  Armaiti  is  the  Vedic  god-
-dess Aramati  (§  30);  Khshathra  vairya  is  the  same  as  the  Brahmanical
+in  the  Vedas  as  Rita  (vide  infra,  §  30);  Spe«ta  Armaiti  is  the  Vedic  goddess Aramati  (§  30);  Khshathra  vairya  is  the  same  as  the  Brahmanical
 K,hatra ;  Vohu-mano  is  a  personification  of  the  Vedic  sumati  (Orm.  Ahr.
 §§  196-201).
 
@@ -3069,8 +2841,7 @@ the  wind,  he  entreats  him  :  '  Grant  me  the  favour,  thou
 Vayu  whose  action  is  most  high  3,  that  I  may  smite  the
 world  of  Angra  Mainyu,  and  that  he  may  not  smite  mine  !
 Vayu,  whose  action  is  most  high,  granted  the  asked-for
-favour  to  the  creator  Ahura  Mazda4.'  And  when  Zoro-
-aster is  born,  Ahura  entreats  Ardvi  Sura  Anahita  that  the
+favour  to  the  creator  Ahura  Mazda4.'  And  when  Zoroaster is  born,  Ahura  entreats  Ardvi  Sura  Anahita  that  the
 new-born  hero  may  stand  by  him  in  the  fight s  (see  §  40).
 
 
@@ -3100,8 +2871,7 @@ lxil  VENDIDAD.
 
 
 §  io.  Whereas   in    India   the   fiends   were    daily   driven
-farther  and  farther  into  the  background,  and  by  the  pre-
-valence of  the   metaphysical  spirit  gods  and  fiends  came
+farther  and  farther  into  the  background,  and  by  the  prevalence of  the   metaphysical  spirit  gods  and  fiends  came
 to  be  nothing  more  than  changing  and  fleeting  creatures  of
 the  everlasting,  indifferent  Being,  Persia  took  her  demons  in
 real  earnest ;  she  feared  them,  she  hated  them,  and  the  vague
@@ -3174,11 +2944,9 @@ born  from  the  cloud,  in  the  lightning.  The  same  tale  is  told
 in  the  same  terms  in  the  Avesta  :  Thraetaona  Athwya
 killed  Asi  Dahaka  (the  fiendish  snake),  the  three-mouthed,
 three-headed,  six-eyed,  .  .  .  the  most  dreadful  Dru£-  created
-by  Angra  Mainyu  5.  The  scene  of  the  battle  is  'the  four-
-cornered  Varena  V  which  afterwards  became  a  country  on
+by  Angra  Mainyu  5.  The  scene  of  the  battle  is  'the  fourcornered  Varena  V  which  afterwards  became  a  country  on
 the  earth,  when  Thraetaona  himself  and  A#i  became  earthly
-kings,  but  which  was  formerly  nothing  less  than  '  the  four-
-pointed  Varuwa7/  that  is,  'the  four-sided  Ovpavos,'  the
+kings,  but  which  was  formerly  nothing  less  than  '  the  fourpointed  Varuwa7/  that  is,  'the  four-sided  Ovpavos,'  the
 Heavens.
 
 §  13.  The  fight  for  the  waters  was  described  in  a  myth
@@ -3188,8 +2956,7 @@ worsted  at  first,  then  strengthened  by  a  sacrifice  which  has
 been  offered  to  him  by  Mazda,  knocks  down  Apaosha10
 with  his  club,  the  fire  Vaztata11,  and  the  waters  stream  freely
 
-I  The  Aj/areno,  Persian  khurrah  and  farr,  is  properly  the  light  of  sove-
-reignty, the  glory  from  above  which  makes  the  king  an  earthly  god.  He
+I  The  Aj/areno,  Persian  khurrah  and  farr,  is  properly  the  light  of  sovereignty, the  glory  from  above  which  makes  the  king  an  earthly  god.  He
 who  possesses  it  reigns,  he  who  loses  it  falls  down ;  when  Yima  lost  it  he
 perished  and  Azi  Dahaka  reigned ;  as  when  light  disappears,  the  fiend  rules
 supreme.     Vide  infra,  §  39 ;  and  cf.  Yt.  XIX,  32  seq.
@@ -3230,8 +2997,7 @@ most  powerful  protector  of  the  land  against  foes  and  fiends.
 for  both  the  atmosphere  and  the  bright  god  who  fights  and
 conquers  in  it.
 
-As  a  god,  Vayu  became  in  Mazdeism  Vayu,  '  a  god  con-
-queror of  light,  a  smiter  of  the  fiends,  all  made  of  light,
+As  a  god,  Vayu  became  in  Mazdeism  Vayu,  '  a  god  conqueror of  light,  a  smiter  of  the  fiends,  all  made  of  light,
 who  moves  in  a  golden  car,  with  sonorous  rings  V  Ahura
 Mazda  invokes  him  for  help  against  Angra  Mainyu  5.
 
@@ -3247,8 +3013,7 @@ Rama  /ivastra.  became  the  god  who  gives  a  good  flavour  to
 aliments9.
 
 §  1 7.  Considered  as  a  thing,  as  the  atmosphere,  Vayu  is
-the  place  where  the  god  and  the  fiend  meet :  there  is  there-
-fore a  part  of  it  which  belongs  to  the  good  and  another
+the  place  where  the  god  and  the  fiend  meet :  there  is  therefore a  part  of  it  which  belongs  to  the  good  and  another
 part  which  belongs  to  the  evil10.  Hence  came  the  later
 notion  that  between  Ormazd  and  Ahriman  there  is  a  void
 space,  Vai,  in  which  their  meeting  takes  place11.
@@ -3267,8 +3032,7 @@ INTRODUCTION,    IV.  lxV
 
 
 Hence  came  also  the  distinction  of  two  Vai  \  the  good
-one  and  the  bad  one,  which,  probably  by  the  natural  con-
-nection of  Vayu,  the  atmosphere,  with  the  heavens 2  whose
+one  and  the  bad  one,  which,  probably  by  the  natural  connection of  Vayu,  the  atmosphere,  with  the  heavens 2  whose
 movement  is  Destiny 3,  became  at  last  the  good  Fate  and  the
 bad  Fate,  or  Destiny  bringing  good  and  evil,  life  and  death  4.
 
@@ -3278,8 +3042,7 @@ and  darkened  the  light,  that  the  battle  breaks  out.  Azi
 has  carried  off  the  sovereign  light,  the  /r^arcno,  from  Yima
 Khshaeta,  '  the  shining  Yima  :\
 
-In  the  course  of  time  Thraetaona,  Yima,  and  Az'\  Da-
-haka  became  historical:  it  was  told  how  King  Jemshid
+In  the  course  of  time  Thraetaona,  Yima,  and  Az'\  Dahaka  became  historical:  it  was  told  how  King  Jemshid
 (Yima  Khshaeta)  had  been  overthrown  and  killed  by  the
 usurper  Zohak  (Dahaka),  a  man  with  two  snakes'  heads  upon
 his  shoulders,  and  how  Zohak  himself  had  been  overthrown
@@ -3294,8 +3057,7 @@ as  dark  and  fearful  as  ever".
 §  19.  While  the  serpent  passed  thus  from  mythology  into
 legend,  he  still  continued  under  another  name,  or,  more
 correctly,  under  another  form  of  his  name,  azi,  a  word
-which  the  Parsis  converted  into  a  pallid  and  lifeless  abstrac-
-tion by  identifying  it  with  a  similar  word  from  the  same
+which  the  Parsis  converted  into  a  pallid  and  lifeless  abstraction by  identifying  it  with  a  similar  word  from  the  same
 root,  meaning  '  want.'  But  that  he  was  the  very  same
 being  as  Azi,  the  snake,  appears  from  his  adversaries :
 like  Azi,  he  fights  against  Atar,  the  fire,  and  strives  to
@@ -3355,16 +3117,14 @@ together  with  Azi  and  Apaosha  4.
 
 Then  we  see  the  Pairika,  under  the  name  of  Knathaiti,
 cleave  to  Keresaspa 5.  Keresaspa,  like  Thraetaona,  is  a
-great  smiter  of  demons,  who  killed  the  snake  Srvara,  a  twin-
-brother  of  Az\  Dahaka G.  It  was  related  in  later  tales  that
+great  smiter  of  demons,  who  killed  the  snake  Srvara,  a  twinbrother  of  Az\  Dahaka G.  It  was  related  in  later  tales  that
 he  was  born  immortal,  but  that  having  despised  the  holy
 religion  he  was  killed,  during  his  sleep,  by  a  Turk,  Niyaz7,
 which,  being  translated  into  old  myth,  would  mean  that  he
 
 1  Farg.  VIII,  80.  2  Orm.Ahr.  §  142.
 
-3  Ibid.  p.  176,  n.  6.  Then  pairikam,  the  accusative  of  pairika,  was  inter-
-preted as  a  Pahlavi  compound,  pari-kam, '  love  of  the  Paris'  (Comm.  ad  Farg.
+3  Ibid.  p.  176,  n.  6.  Then  pairikam,  the  accusative  of  pairika,  was  interpreted as  a  Pahlavi  compound,  pari-kam, '  love  of  the  Paris'  (Comm.  ad  Farg.
 XIX.  5).
 
 *  Yast  VIII,  8,  39,  49-56 ;  Yasna  XVI,  8  (XVII,  46).
@@ -3383,8 +3143,7 @@ at  the  same  time  by  Saoshya/^1,  the  son  of  Zarathuitra,
 which  shows  her  to  be  a  genuine  sister  of  A^i.
 
 §  22.  Then  come  the  host  of  storm  fiends,  the  Drva«/s,
-the  Dvaraw/s,  the  Dregva;//s,  all  names  meaning  '  the  run-
-ning ones,'  and  referring  to  the  headlong  course  of  the
+the  Dvaraw/s,  the  Dregva;//s,  all  names  meaning  '  the  running ones,'  and  referring  to  the  headlong  course  of  the
 fiends  in  storm,  '  the  onsets  of  the  wounding  crew.'
 
 One  of  the  foremost  amongst  the  Diva///s,  their  leader
@@ -3402,8 +3161,7 @@ into  demons  (see  §  41),  they  became  'the  fiends  in  the
 heavens,'  the  fiends  who  assail  the  sky ;  and  later  on,  as
 the  meaning  of  the  word  Varena  was  lost,  '  the  fiends  of
 the  Varena  land  ;'  and  finally,  nowadays,  as  their  relation
-to  Varena  is  lost  to  sight,  they  are  turned  by  popular  ety-
-mology, now  into  demons  of  lust,  and  now  into  demons  of
+to  Varena  is  lost  to  sight,  they  are  turned  by  popular  etymology, now  into  demons  of  lust,  and  now  into  demons  of
 doubt 3.
 
 §  24.  To  the  Pairika  is  closely  related  Bushyasta  the
@@ -3441,8 +3199,7 @@ demon 2,  was  probably  identical  in  meaning,  as  he  is  in
 name,  with  the  Vedic  Sa.ru,  ( the  arrow,'  a  personification
 of  the  arrow  of  death  as  a  godlike  being 3.
 
-The  same  idea  seems  to  be  conveyed  by  Ishu.s-  /iva-
-thakhto,  'the  self-moving  arrow4,'  a  designation  to  be
+The  same  idea  seems  to  be  conveyed  by  Ishu.s-  /ivathakhto,  'the  self-moving  arrow4,'  a  designation  to  be
 accounted  for  by  the  fact  that  5aru,  in  India,  before
 becoming  the  arrow  of  death,  was  the  arrow  of  lightning
 with  which  the  god  killed  his  foe.
@@ -3459,12 +3216,10 @@ active  :  he  takes  a  part  in  it  through  the  sacrifice.
 
 The  sacrifice  is  more  than  an  act  of  worship,  it  is  an  act
 of  assistance  to  the  gods.  Gods,  like  men,  need  drink  and
-food  to  be  strong  ;  like  men,  they  need  praise  and  encourage-
-ment to  be  of  good  cheer 8.  When  not  strengthened  by  the
+food  to  be  strong  ;  like  men,  they  need  praise  and  encouragement to  be  of  good  cheer 8.  When  not  strengthened  by  the
 sacrifice,  they  fly  helpless  before  their  foes.  Tutrya,  worsted
 by  Apaosha,  cries  to  Ahura  :  '  O  Ahura  Mazda !  men  do
-not  worship  me  with  sacrifice  and  praise  :  should  they  wor-
-ship me  with  sacrifice  and  praise,  they  would  bring  me  the
+not  worship  me  with  sacrifice  and  praise  :  should  they  worship me  with  sacrifice  and  praise,  they  would  bring  me  the
 strength  often  horses,  ten  bulls,  ten  mountains,  ten  rivers.'
 Ahura  offers  him   a  sacrifice,  he   brings  him   thereby  the
 
@@ -3505,18 +3260,15 @@ and  for  the  benefit  of  their  gods.  It  comprises  in  it  the
 powers  of  life  of  all  the  vegetable  kingdom.
 
 There  are  two  Haomas  :  one  is  the  yellow  or  golden
-Haoma,  which  is  the  earthly  Haoma,  and  which,  when  pre-
-pared for  the  sacrifice,  is  the  king  of  healing  plants  4  ;  the
+Haoma,  which  is  the  earthly  Haoma,  and  which,  when  prepared for  the  sacrifice,  is  the  king  of  healing  plants  4  ;  the
 other  is  the  white  Haoma  or  Gaokerena,  which  grows  up
 in  the  middle  of  the  sea  Vouru-kasha,  surrounded  by  the
 ten  thousand  healing  plants5.  It  is  by  the  drinking  of
 Gaokerena  that  men,  on  the  day  of  the  resurrection,  will
 become  immortal G.
 
-§  29.  Spell  or  prayer  is  not  less  powerful  than  the  offer-
-ings. In  the  beginning  of  the  world,  it  was  by  reciting  the
-Honover  (Ahuna  Vairya)  that  Ormazd  confounded  Ahri-
-man7.  Man,  too,  sends  his  prayer  between  the  earth  and
+§  29.  Spell  or  prayer  is  not  less  powerful  than  the  offerings. In  the  beginning  of  the  world,  it  was  by  reciting  the
+Honover  (Ahuna  Vairya)  that  Ormazd  confounded  Ahriman7.  Man,  too,  sends  his  prayer  between  the  earth  and
 the  heavens,  there  to  smite  the  fiends,  the  Ka/^-aredhas
 and  the  Ka//z;aredhis,  the  Kayadhas  and  the  Kayadhis,  the
 Za^das  and  the  Yatus 8.
@@ -3545,15 +3297,13 @@ s  Yasna  LXI  (LX).  "
 lxX  VENDIDAD
 
 
-streaming  with  the  sacred  butter,  goes  and  gives  up  her-
-self to  Agni  K  She  was  praised  in  the  Avesta  in  a  more
+streaming  with  the  sacred  butter,  goes  and  gives  up  herself to  Agni  K  She  was  praised  in  the  Avesta  in  a  more
 sober  manner  as  the  abstract  genius  of  piety;  yet  a  few
 practices  preserved  evident  traces  of  old  myths  on  her
 union  with  Atar,  the  fire-god2.
 
 Agni,  as  a  messenger  between  gods  and  men,  was  known
-to  the  Vedas  as  Nara-^ansa ;  hence  came  the  Avesta  mes-
-senger of  Ahura,  Nairyo-sangha  3.
+to  the  Vedas  as  Nara-^ansa ;  hence  came  the  Avesta  messenger of  Ahura,  Nairyo-sangha  3.
 
 The  riches  that  go  up  from  earth  to  heaven  in  the  offerings
 of  man  and  come  down  from  heaven  to  earth  in  the  gifts  of  the
@@ -3581,8 +3331,7 @@ vanquished  and  brought  to  nought  n.
 §  32.  Thus  far,  the  single  elements  of  Mazdeism  do
 not  essentially  differ  from  those  of  the  Vedic  and  Indo-
 European  mythologies  generally.  Yet  Mazdeism,  as  a
-whole,  took  an  aspect  of  its  own  by  grouping  these  ele-
-ments in  a  new  order,  since  by  referring  everything  either
+whole,  took  an  aspect  of  its  own  by  grouping  these  elements in  a  new  order,  since  by  referring  everything  either
 
 
 1  Orm.  Ahr.  §  205.  2  Farg.  XVIII,  51  seq.
@@ -3666,22 +3415,19 @@ world,  as  maintained  chiefly  by  the  sacrificial  fire,  became
 A
 
 the  genius  of  fire.  Armaiti  seems  to  have  become  a  goddess
-of  the  earth  as  early  as  the  Indo-Iranian  period,  and  Vohu-
-mano  had  the  living  creation  left  to  his  superintendence  \
+of  the  earth  as  early  as  the  Indo-Iranian  period,  and  Vohumano  had  the  living  creation  left  to  his  superintendence  \
 
 §  34.  The  Amesha  Spewtas  projected,  as  it  were,  out  of
 themselves,  as  many  Daevas  or  demons,  who,  either  in  their
 being  or  functions,  were,  most  of  them,  hardly  more  than
 dim  inverted  images  of  the  very  gods  they  were  to  oppose,
-and  whom  they  followed  through  all  their  successive  evolu-
-tions. Haurvata/  and  Amereta/,  health  and  life,  were
+and  whom  they  followed  through  all  their  successive  evolutions. Haurvata/  and  Amereta/,  health  and  life,  were
 opposed  by  Tauru  and  Zairi,  sickness  and  decay,  who
 changed  into  rulers  of  thirst  and  hunger  when  Haurvata/
 and  Amereta^  had  become  the  Amshaspands  of  waters  and
 trees.
 
-Vohu-mano,  or  good  thought,  was  reflected  in  Ako-
-mano,  evil  thought.  Sauru,  the  arrow  of  death  2,  Indra,  a
+Vohu-mano,  or  good  thought,  was  reflected  in  Akomano,  evil  thought.  Sauru,  the  arrow  of  death  2,  Indra,  a
 name  or  epithet  of  fire  as  destructive3,  Naunhaithya,  an
 old  Indo-Iranian  divinity  whose  meaning  was  forgotten  in
 Iran  and  misinterpreted  by  popular  etymology 4,  were
@@ -3711,8 +3457,7 @@ Or  ratu  above  it  ^Bund.  XXIV).    The  same  organisation  extends  to  all
 INTRODUCTION,    IV.  lxxiii
 
 belong  cither  to  Ormazd  or  Ahriman  according  as  they  are
-useful  or  hurtful  to  man  ;  but,  in  fact,  they  belonged  origin-
-ally to  either  the  one  or  the  other,  according  as  they  had
+useful  or  hurtful  to  man  ;  but,  in  fact,  they  belonged  originally to  either  the  one  or  the  other,  according  as  they  had
 been  incarnations  of  the  god  or  of  the  fiend,  that  is,  as  they
 chanced  to  have  lent  their  forms  to  either  in  the  storm
 tales l.  In  a  few  cases,  of  course,  the  habits  of  the  animal
@@ -3745,8 +3490,7 @@ Ahura.
 
 2  Far-.  Ill,  10;  XIV,"  5  seq.,  8,  n.  8 ;  XVIII,  70,  &c.
 
-3  There  is  scarcely  any  religious  custom  that  can  be  followed  through  so  con-
-tinuous a  series  of  historical  evidence  :  fifth  century  b.c,  Herodotus  1, 140  ;  first
+3  There  is  scarcely  any  religious  custom  that  can  be  followed  through  so  continuous a  series  of  historical  evidence  :  fifth  century  b.c,  Herodotus  1, 140  ;  first
 century  a.  d.,  Plutarch,  Ue  Isid.  XLVI ;  Quaest  Conviv.  IV,  5,  2  ;  sixth  century,
 Agathias  II,  24;  seventeenth  century,  G.  du  Chinon.
 
@@ -3765,8 +3509,7 @@ man  who  never  has  money  enough,  thou  art  never  satisfied  with  killing
 
 §  36.  The  fulgurating  conqueror  of  Apaosha,  TLrtrya,
 was  described  in  mythic  tales  sometimes  as  a  boar  with
-golden  horns,  sometimes  as  a  horse  with  yellow  ears,  some-
-times as  a  beautiful  youth.  But  as  he  had  been  compared
+golden  horns,  sometimes  as  a  horse  with  yellow  ears,  sometimes as  a  beautiful  youth.  But  as  he  had  been  compared
 to  a  shining  star  on  account  of  the  gleaming  of  lightning,
 the  stars  joined  in  the  fray,  where  they  stood  with  TLrtrya
 on  Ahura's  side;  and  partly  for  the  sake  of  symmetry,
@@ -3825,8 +3568,7 @@ he  presides  over  them  in  heaven,  in  the  Yamasadanam,  as
 king  of  men,  near  Varu^a  the  king  of  gods.
 
 His  Avesta  twin-brother,  Yima,  the  son  of  Vivanghat,  is
-no  longer  the  first  man,  as  this  character  had  been  trans-
-ferred to  another  hero,  of  later  growth,  Gayo  Maratan  ;  yet
+no  longer  the  first  man,  as  this  character  had  been  transferred to  another  hero,  of  later  growth,  Gayo  Maratan  ;  yet
 he  has  kept  nearly  all  the  attributes  which  were  derived
 from  his  former  character :  on  the  one  hand  he  is  the  first
 king,  and  the  founder  of  civilisation  ;  on  the  other  hand,
@@ -3839,8 +3581,7 @@ man  and  the  first  of  the  dead,  it  was  also  forgotten  that  his
 people  were  nothing  else  than  the  dead  going  to  their
 common  ancestor  above  and  to  the  king  of  heaven  :  the
 people  in  the  Vara  were  no  longer  recognised  as  the  human
-race,  but  became  a  race  of  a  supernatural  character,  dif-
-ferent from  those  who  continued  going,  day  by  day,  from
+race,  but  became  a  race  of  a  supernatural  character,  different from  those  who  continued  going,  day  by  day,  from
 earth  to  heaven  to  join  Ahura  Mazda2.
 
 §  39.  But  the  life  of  the  world  is  limited,  the  struggle  is
@@ -3869,8 +3610,7 @@ the  definitive  one.
 The  serpent,  Azi  Dahaka,  let  loose,  takes  hold  of  the
 world  again.  As  the  temporary  disappearance  of  the  light
 was  often  mythically  described  either  as  the  sleeping  of  the
-god,  or  as  his  absence,  or  death,  its  reappearance  was  indi-
-cative of  the  awakening  of  the  hero,  or  his  return,  or  the
+god,  or  as  his  absence,  or  death,  its  reappearance  was  indicative of  the  awakening  of  the  hero,  or  his  return,  or  the
 arrival  of  a  son  born  to  him.  Hence  came  the  tales  about
 Keresaspa  awakening  from  his  sleep  to  kill  the  snake
 finally1;  the  tales  about  Peshotanu,  Aghraeratha,  Khumbya,
@@ -3890,8 +3630,7 @@ accounts,  but  by  the  strong  unity  and  symmetry  of  the
 whole  system.  Moreover,  as  the  moral  and  abstract  spirit
 which  pervades  Mazdeism  is  different  from  the  Vedic  spirit,
 and  as  the  word  deva,  which  means  a  god  in  Sanskrit,
-means  a  demon  in  the  Avesta,  it  was  thought  that  Zoro-
-aster's work  had  been  a  work  of  reaction  against  Indian
+means  a  demon  in  the  Avesta,  it  was  thought  that  Zoroaster's work  had  been  a  work  of  reaction  against  Indian
 polytheism,  in  fact,  a  religious  schism.  When  he  lived  no
 one  knows,  and  every  one  agrees  that  all  that  the  Parsis
 and  the  Greeks  tell  of  him  is  mere  legend,  through  which
@@ -3939,13 +3678,11 @@ his  birth,  in  his  growth  the  floods  and  trees  exclaimed  with
 joy G.'      Ahura  himself  longs  for  him  and  fears  lest  the  hero
 about  to  be  born  may  not  stand  by  him  :  '  He  offered  up  a
 sacrifice   to    Ardvi  Sura  Anahita,   he,   the   Maker,  Ahura
-Mazda  ;  he  offered  up  the  Haoma,  the  Myazda,  the  Bares-
-ma,  the  holy  words,  he  besought   her,   saying  :  Vouchsafe
+Mazda  ;  he  offered  up  the  Haoma,  the  Myazda,  the  Baresma,  the  holy  words,  he  besought   her,   saying  :  Vouchsafe
 me  that  boon,  O  high,   mighty,  undcfiled  goddess,  that  I
 may  bring  about  the  son  of  Pourushaspa,  the  holy  Zara-
 
-1  The  same  view  as  to  the  mythological  character  of  Zoroaster  was  main-
-tained, although  with  different  arguments,  by  Professor  Kern  in  an  essay  '  Over
+1  The  same  view  as  to  the  mythological  character  of  Zoroaster  was  maintained, although  with  different  arguments,  by  Professor  Kern  in  an  essay  '  Over
 het  woord  Zarathustra,'  as  I  see  from  a  short  abstract  of  it  which  Professor
 Max  Midler  kindly  wrote  for  me.
 
@@ -3972,8 +3709,7 @@ libations,  sacrificing  and  beseeching1.
 Zarathu^tra  stands  by  Ahura.  The  fiends  come  rushing
 along  from  hell  to  kill  him,  and  fly  away  terrified  by  his
 /wareno :  Angra  Mainyu  himself  is  driven  away  by  the
-stones  he  hurls  at  him 2.  But  the  great  weapon  of  Zara-
-thu^tra  is  neither  the  thunder-stones  he  hurls,  nor  the  glory
+stones  he  hurls  at  him 2.  But  the  great  weapon  of  Zarathu^tra  is  neither  the  thunder-stones  he  hurls,  nor  the  glory
 with  which  he  is  surrounded,  it  is  the  Word2.
 
 In  the  voice  of  the  thunder  the  Greeks  recognised  the
@@ -3999,8 +3735,7 @@ whom,  under  different  names,  forms,  and  functions,  are  one
 and  the  same  being  with  Zarathu.stra,  that  is  to  say,  the
 godlike  champion  in  the  struggle  for  light,  knew  the  law  as
 well  as  Zarathiutra.  But  as  mythology,  like  language  and
-life,  likes  to  reduce  every  organ  to  one  function,  Zara-
-thu^tra  became  the  titulary  lawgiver6.
+life,  likes  to  reduce  every  organ  to  one  function,  Zarathu^tra  became  the  titulary  lawgiver6.
 
 1  Ya<t  V,  18.  2  Orm.  Ahr.  §  162  seq.  3  Yast  XVII,  18.
 
@@ -4020,13 +3755,11 @@ by  the  hands  of  a  son  yet  unborn.  '  Three  times  he  came
 near  unto  his  wife  Hrogvi,  and  three  times  the  seed  fell
 upon  the  ground.  The  Ized  Neriosengh  took  what  was
 bright  and  strong  in  it  and  intrusted  it  to  the  Ized  Anahita.
-At  the  appointed  time,  it  will  be  united  again  with  a  ma-
-ternal womb :  99,999  Fravashis  of  the  faithful  watch  over
+At  the  appointed  time,  it  will  be  united  again  with  a  maternal womb :  99,999  Fravashis  of  the  faithful  watch  over
 it,  lest  the  fiends  destroy  it  V  A  maid  bathing  in  the  lake
 Kasava  will  conceive  by  it  and  bring  forth  the  victorious
 Saoshya/z/  (Soshyos),  who  will  come  from  the  region  of  the
-dawn  to  free  the  world  from  death  and  decay,  from  cor-
-ruption and  rottenness,  ever  living  and  ever  thriving,  when
+dawn  to  free  the  world  from  death  and  decay,  from  corruption and  rottenness,  ever  living  and  ever  thriving,  when
 the  dead  shall  rise  and  immortality  commence2.
 
 All  the  features  in  Zarathu^tra  point  to  a  god :  that  the
@@ -4050,8 +3783,7 @@ words  is  not  the  same  as  the  life  of  the  things  they  express,
 the  nature  of  things  does  not  change  with  the  meaning  of
 the  syllables  which  were  attached  to  them  for  a  while,  and
 the  history  of  the  world  is  not  a  chapter  of  grammar.  And,
-in  fact,  the  evidence  appealed  to,  when  more  closely  con-
-sidered, proves  to  speak  against  the  very  theory  it  is  meant
+in  fact,  the  evidence  appealed  to,  when  more  closely  considered, proves  to  speak  against  the  very  theory  it  is  meant
 
 
 1  Bund.  XXXIII ;  Eznik.     The  whole  of  the  myth  belongs  to  the  Avesta
@@ -4097,8 +3829,7 @@ denoted  ;  neither  Varu;/a,  nor  Mitra,  nor  the  Adityas,  nor
 Agni,  nor  Soma,  in  fact  none  of  the  old  Aryan  deities  fell
 or  tottered.  Though  the  word  Indra  is  the  name  of  a  fiend
 in  the  Avesta,  the  Vedic  god  it  denotes  was  as  bright  and
-as  mighty  in  Iran  as  in  India  under  the  name  of  Vere-
-thraghna :  and  as  we  do  not  know  the  etymological  mean-
+as  mighty  in  Iran  as  in  India  under  the  name  of  Verethraghna :  and  as  we  do  not  know  the  etymological  mean-
 
 1  Rig-veda  VI,  62,  8  ;  VII,  52, 1  ;  VIII,  19,  6  ;  Ya*t  X,  34 ;  Yasna  IX  (60).
 
@@ -4113,8 +3844,7 @@ are  in  the  Avesta  mere  names  :  neither  the  Avesta  nor  old
 tradition  knows  anything  about  them,  which  would  look
 very  strange,  had  they  been  vanquished  in  a  religious
 struggle,  as  they  should  have  played  the  foremost  part  at
-the  head  of  the  fiends.  As  to  the  third  comparison  estab-
-lished between  the  Iranian  demon  Sauru  and  the  Indian
+the  head  of  the  fiends.  As  to  the  third  comparison  established between  the  Iranian  demon  Sauru  and  the  Indian
 god  Sarva,  it  fails  utterly,  as  Sauru  is  the  Vedic  Sam,
 a  symbol  of  death,  and  both  are  therefore  beings  of  the
 same  nature.
@@ -4158,8 +3888,7 @@ was  written.
 
 The  reflective  spirit  that  had  given  rise  to  Mazdeism
 never  rested,  but  continued  to  produce  new  systems ;  and
-there  is  hardly  any  religion  in  which  slow  growth  and  con-
-tinual change  is  more  apparent.  When  the  Magi  had
+there  is  hardly  any  religion  in  which  slow  growth  and  continual change  is  more  apparent.  When  the  Magi  had
 accounted  for  the  existence  of  evil  by  the  existence  of  two
 principles,  there  arose  the  question  how  there  could  be  two
 principles,  and  a  longing  for  unity  was  felt,  which  found  its
@@ -4216,8 +3945,7 @@ there  are  even  some  faint  signs  that  it  began  at  a  time
 when  the  old  religion  was  still  flourishing ;  at  any  rate,  no
 one  can  think  of  ascribing  to  one  man,  or  to  one  time,  that
 slow  change  from  dualism  to  monotheism,  which  is,  however,
-really  deeper  and  wider  than  the  movement  which,  in  pre-
-historic times,  brought  the  Magi  from  an  imperfect  form  of
+really  deeper  and  wider  than  the  movement  which,  in  prehistoric times,  brought  the  Magi  from  an  imperfect  form  of
 dualism  to  one  more  perfect.
 
 
@@ -4250,8 +3978,7 @@ to  be  the  orthodox  Christian  view  of  the  devil.'  Haug's  Essays,  2nd  
 Mandelslo,  in  the  seventeenth  century,  speaks  of  Parsiism  as  a  monotheistic
 religion.
 
-1  The  word  Vendidad  is  a  corruption  ofVidaevo-datem  (datem),  'the  anti-
-demoniac  law.'  It  is  sometimes  applied  to  the  whole  of  the  law  (Vendidad
+1  The  word  Vendidad  is  a  corruption  ofVidaevo-datem  (datem),  'the  antidemoniac  law.'  It  is  sometimes  applied  to  the  whole  of  the  law  (Vendidad
 Sadah).
 
 4  See  above,  p.  xxxii.
@@ -4262,11 +3989,9 @@ f   2
 1XXX1V  VENDIDAD.
 
 
-The  first  two  chapters  deal  with  mythical  matter,  with-
-out any  direct  connection  with  the  general  object  of  the
+The  first  two  chapters  deal  with  mythical  matter,  without any  direct  connection  with  the  general  object  of  the
 Vendidad,  and  are  remnants  of  an  old  epic  and  cosmogonic
-literature.     The  first  deals  with  the  creations  and  counter-
-creations  of  Ahura  Mazda  and  Angra  Mainyu  ;  the  second
+literature.     The  first  deals  with  the  creations  and  countercreations  of  Ahura  Mazda  and  Angra  Mainyu  ;  the  second
 speaks  of  Yima,  the   founder   of  civilisation.      Although
 there  was  no  particular  reason  for   placing  them  in  the
 Vendidad,  as   soon   as  they  were   admitted  into   it   they
@@ -4274,16 +3999,14 @@ were  put  at  the  beginning,  because  they  referred  to  the
 first  ages  of  the  world.      Three  chapters   of  a   mythical
 character,  about  the  origin  of  medicine,  were  put  at  the
 end  of  the  book,  for  want  of  any  better  place,  but  might
-as  well  have  been  kept  apart1,  as  was  the  so-called  Had-
-hokht   Nosk   fragment.     There   is   also   another  mythical
+as  well  have  been  kept  apart1,  as  was  the  so-called  Hadhokht   Nosk   fragment.     There   is   also   another  mythical
 Fargard,  the  nineteenth,  which,  as  it  treats  of  the  revelation
 of  the  law  by  Ahura  to  Zarathartra,  would  have  been  more
 suitably  placed  at  the  beginning  of  the  Vendidad  proper,
 that  is,  as  the  third  Fargard.
 
 The  other  seventeen  chapters  deal  chiefly  with  religious
-observances,  although  mythical  fragments,  or  moral  digres-
-sions, are  met  with  here  and  there,  which  are  more  or  less
+observances,  although  mythical  fragments,  or  moral  digressions, are  met  with  here  and  there,  which  are  more  or  less
 artificially  connected  with  the  text,  and  which  were  most
 probably  not  written  along  with  the  passages  which  they
 
@@ -4349,8 +4072,7 @@ languages :  they  do  not  refer  to  an  inward  state  of  the
 
 1 —
 
-1  It  contains  two  digressions,  the  one  on  funeral  laws,  the  other  on  hus-
-bandry.    See  Farg.  Ill,  Introd.
+1  It  contains  two  digressions,  the  one  on  funeral  laws,  the  other  on  husbandry.    See  Farg.  Ill,  Introd.
 
 8  It  contains  one  digression  on  physical  weal,  which  must  have  belonged
 originally  to  Farg.  III.     See  Farg.  IV,  Introd.
@@ -4371,8 +4093,7 @@ Man  must  ask  of  Ahura,  who  knows  everything,  and  is  pleased  to  answe
 lxXXVl  VENDiDAD.
 
 
-person,  but  chiefly  to  a  physical  state  of  the  body.  Im-
-purity or  uncleanness  may  be  described  as  the  state  of
+person,  but  chiefly  to  a  physical  state  of  the  body.  Impurity or  uncleanness  may  be  described  as  the  state  of
 a  person  or  thing  that  is  possessed  of  the  demon ;  and  the
 object  of  purification  is  to  expel  the  demon.
 
@@ -4447,8 +4168,7 @@ he  wants,  by  performing  the  acts  which  are  supposed  to
 have  brought  about  things  of  the  same  kind  when  practised
 by  the  gods.
 
-The  Parsis,  being  at  a  loss  to  find  four-eyed  dogs,  inter-
-pret the  name  as  meaning  a  dog  with  two  spots  above  the
+The  Parsis,  being  at  a  loss  to  find  four-eyed  dogs,  interpret the  name  as  meaning  a  dog  with  two  spots  above  the
 eyes * :  but  it  is  clear  that  the  two-spotted  dog's  services
 are  only  accepted  for  want  of  a  four-eyed  one,  or  of  a  white
 one  with  yellow  ears,  which  amounts  to  saying  that  there
@@ -4552,8 +4272,7 @@ they  are  worshipped  as  godlike  beings.  Yet  this  did  not
 prevent  the  Indian  from  burning  his  dead  ;  death  did  not
 appear  to  him  so  decidedly  a  work  of  the  demon,  and  the
 dead  man  was  a  traveller  to  the  other  world,  whom  the
-fire  kindly  carried  to  his  heavenly  abode  'on  his  undecay-
-ing,  flying  pinions,  wherewith  he  killed  the  demons.'  The
+fire  kindly  carried  to  his  heavenly  abode  'on  his  undecaying,  flying  pinions,  wherewith  he  killed  the  demons.'  The
 fire  was  in  that,  as  in  the  sacrifice,  the  god  that  goes  from
 earth  to  heaven,  from  man  to  god,  the  mediator,  the  god
 most  friendly  to  man.  In  Persia  it  remains  more  distant
@@ -4600,8 +4319,7 @@ bath-houses,  as  they  cared  more  for  the  cleanness  of  water
 than  for  their  own 8.
 
 §  9.  Not  less  holy  was  the  earth,  or,  at  least,  it  became
-so.  There  was  a  goddess  who  lived  in  her,  Spe;zta  Ar-
-maiti 9 ;  no  corpse  ought  to  defile  her  sacred  breast :
+so.  There  was  a  goddess  who  lived  in  her,  Spe;zta  Armaiti 9 ;  no  corpse  ought  to  defile  her  sacred  breast :
 burying  the  dead  is,  like  burning  the  dead,  a  deed  for
 which  there  is  no  atonement10.  It  was  not  always  so  in
 Persia  :    the   burning  of  the  dead  had  been  forbidden  for
@@ -4694,8 +4412,7 @@ XCli  VENDIDAD.
 
 
 do  so  no  more  when  dead ;  it  becomes  clean  by  dying  \
-None  of  the  faithful  are  defiled  by  the  corpse  of  an  Ashe-
-maogha  or  of  a  Khrafstra.  Nay,  killing  them  is  a  pious
+None  of  the  faithful  are  defiled  by  the  corpse  of  an  Ashemaogha  or  of  a  Khrafstra.  Nay,  killing  them  is  a  pious
 work,  as  it  is  killing  Ahriman  himself2.
 
 §  12.  Not  only  real  death  makes  one  unclean,  but  partial
@@ -4703,8 +4420,7 @@ death  too.  Everything  that  goes  out  of  the  body  of  man
 is  dead,  and  becomes  the  property  of  the  demon.  The
 going  breath  is  unclean,  it  is  forbidden  to  blow  the  fire  with
 it 3,  and  even  to  approach  the  fire  without  screening  it  from
-the  contagion  with  a  Penom  4.  Parings  of  nails  and  cut-
-tings or  shavings  of  hair  are  unclean,  and  become  weapons
+the  contagion  with  a  Penom  4.  Parings  of  nails  and  cuttings or  shavings  of  hair  are  unclean,  and  become  weapons
 in  the  hands  of  the  demons  unless  they  have  been  protected
 by  certain  rites  and  spells  5.  Any  phenomenon  by  which
 the  bodily  nature  is  altered,  whether '  accompanied  with
@@ -4745,16 +4461,14 @@ INTRODUCTION,    V.  Xciil
 is  also  unclean  \  although  it  would  seem  that  she  ought  to
 be  considered  pure  amongst  the  pure,  since  life  has  been
 increased  by  her  in  the  world,  and  she  has  enlarged  the
-realm  of  Ormazd.  But  the  strength  of  old  instincts  over-
-came the  drift  of  new  principles.  Only  the  case  when  the
+realm  of  Ormazd.  But  the  strength  of  old  instincts  overcame the  drift  of  new  principles.  Only  the  case  when  the
 woman  has  been  delivered  of  a  still-born  child  is  examined
 in  the  Vendidad.  She  is  unclean  as  having  been  in  contact
 with  a  dead  creature ;  and  she  must  first  drink  gomez  to
 wash  over  the  grave  in  her  womb.  So  utterly  unclean  is
 she,  that  she  is  not  even  allowed  to  drink  water,  unless  she
 is  in  danger  of  death  ;  and  even  then,  as  the  sacred  element
-has  been  defiled,  she  is  liable  to  the  penalty  of  a  Pesho-
-tanu  2.  It  appears  from  modern  customs  that  the  treatment
+has  been  defiled,  she  is  liable  to  the  penalty  of  a  Peshotanu  2.  It  appears  from  modern  customs  that  the  treatment
 is  the  same  when  the  child  is  born  alive :  the  reason  of
 which  is  that,  in  any  case,  during  the  first  three  days  after
 delivery  she  is  in  danger  of  death  3.  A  great  fire  is  lighted
@@ -4783,8 +4497,7 @@ and  Drug's  unable  to  harm  the  child ;  for  there  is  great  danger  duri
 three  days  and  nights  after  the  birth  of  the  child'  (Saddar  16).
 
 *  '  When  the  child  is  being  born,  one  brandishes  a  sword  on  the  four  sides,
-lest  fairy  Aal  kill  it'  (Polack,  Persien  I,  223).  In  Rome,  three  gods,  Interci-
-dona,  Pilumnus,  and  Deverra,  keep  her  threshold,  lest  Sylvanus  come  in  and
+lest  fairy  Aal  kill  it'  (Polack,  Persien  I,  223).  In  Rome,  three  gods,  Intercidona,  Pilumnus,  and  Deverra,  keep  her  threshold,  lest  Sylvanus  come  in  and
 harm  her  (Augustinus,  De  Civ.  D.  VI,  9).
 
 5  Farg.  VII,  44.  •  Ibid.  p.  86,  n.  1.
@@ -4807,20 +4520,17 @@ living.  All  the  unclean,  all  those  struck  with  temporary
 death,  the  man  who  has  touched  dead  matter,  the  woman
 in  her  menses,  or  just  delivered  of  child,  the  leper4,  or  the
 man  who  has  made  himself  unclean  for  ever  by  carrying
-a  corpse  alone5,  stay  there  all  the  time  of  their  un-
-cleanness.
+a  corpse  alone5,  stay  there  all  the  time  of  their  uncleanness.
 
 §  16.  Thus  far  for  general  principles.  From  the  diversity
-of  circumstances  arises  a  system  of  casuistry,  the  develop-
-ment of  which  may  be  followed  first  through  the  glosses  to
+of  circumstances  arises  a  system  of  casuistry,  the  development of  which  may  be  followed  first  through  the  glosses  to
 the  Vendidad,  in  which  the  labours  of  several  generations
 of  theologians  are  embodied,  and,  later  on,  through  the
 Ravaets.  We  will  give  a  few  instances  of  it,  as  found  in
 the  Vendidad  itself.
 
 The  process  of  the  cleansing  varies  according  to  the
-degree  of  uncleanness  ;  and,  again,  the  degree  of  unclean-
-ness depends  on  the  state  of  the  thing  that  defiles  and  the
+degree  of  uncleanness  ;  and,  again,  the  degree  of  uncleanness depends  on  the  state  of  the  thing  that  defiles  and  the
 nature  of  the  thing  that  is  defiled.
 
 The  uncleanness  from  the  dead  is  the  worst  of  all,  and  it
@@ -4854,15 +4564,13 @@ as  the  defiling  power  was  less,  a  simple  washing  once  made,
 the  GhoseL.  is  enough1.
 
 The  defiling  power  of  the  Nasu  reaches  farther,  if  the
-death  has  just  taken  place,  and  if  the  dying  creature  occu-
-pied a  higher  rank  in  the  scale  of  beings 2 ;  for  the  more
+death  has  just  taken  place,  and  if  the  dying  creature  occupied a  higher  rank  in  the  scale  of  beings 2 ;  for  the  more
 recent  the  victory  of  the  demon,  or  the  higher  the  being  he
 has  overcome,  the  stronger  he  must  have  been  himself.
 
 Menstruous  women  are  cleansed  by  the  Ghosel  3.
 
-As  for  things  they  are  more  or  less  deeply  defiled  ac-
-cording to  their  degree  of  penetrability :  metal  vessels  can
+As  for  things  they  are  more  or  less  deeply  defiled  according to  their  degree  of  penetrability :  metal  vessels  can
 be  cleansed,  earthen  vessels  cannot4;  leather  is  more  easily
 cleansed  than  woven  cloth  5 ;  dry  wood  than  soft  wood 6.
 Wet  matter  is  a  better  conductor  of  uncleanness  than  dry
@@ -4880,10 +4588,8 @@ Zoroastrianism.
 
 The  contracts  were  divided  into  two  classes,  according
 to  their  mode  of  being  entered  into,  and  according  to  the
-value  of  their  object8.  As  to  their  mode  they  are  word-
-contracts  or  hand-contracts :  as  to  their  object,  they  are
-sheep-contracts,  ox-contracts,  man-contracts,  or  field-con-
-tracts, which  being  estimated  in  money  value  are  contracts
+value  of  their  object8.  As  to  their  mode  they  are  wordcontracts  or  hand-contracts :  as  to  their  object,  they  are
+sheep-contracts,  ox-contracts,  man-contracts,  or  field-contracts, which  being  estimated  in  money  value  are  contracts
 to  the  amount  of  3,  12,  500  istirs,  and  upwards9.
 
 No  contract  can  be  made  void  by  the  will  of  one  party
@@ -4912,11 +4618,9 @@ answerable  for  the  fulfilment  of  a  contract,  a  principle  of
 the  old  Indo-European  civil  law1.
 
 §  1 8.  Assaults  are  of  seven  degrees  :  agerepta,  avaoirLsta2,
-stroke,  sore  wound,  bloody  wound,  broken  bone,  and  man-
-slaughter. The  gravity  of  the  guilt  does  not  depend  on  the
+stroke,  sore  wound,  bloody  wound,  broken  bone,  and  manslaughter. The  gravity  of  the  guilt  does  not  depend  on  the
 gravity  of  the  deed  only,  but  also  on  its  frequency.  Each
-of  these  seven  crimes  amounts,  by  its  being  repeated  with-
-out having  been  atoned  for,  to  the  crime  that  immediately
+of  these  seven  crimes  amounts,  by  its  being  repeated  without having  been  atoned  for,  to  the  crime  that  immediately
 follows  in  the  scale,  so  that  an  agerepta  seven  times  repeated
 amounts  to  manslaughter.
 
@@ -4936,16 +4640,13 @@ with  one's  body,'  and  seem  to  have  originally  amounted  to
 
 1  Farg.  IV,  5  seq.  2  Two  different  sorts  of  menaces;  see  IV,  54.
 
-3  The  general  formula  is  literally,  '  Let  (the  priest ;  probably,  the  Sraosha-
-varez)  strike  so  many  strokes  with  the  Aspahe-astra,  so  many  strokes  with  the
+3  The  general  formula  is  literally,  '  Let  (the  priest ;  probably,  the  Sraoshavarez)  strike  so  many  strokes  with  the  Aspahe-astra,  so  many  strokes  with  the
 Sraosho-^arana.'  Astra  means  in  Sanskrit  '  a  goad,'  so  that  Aspahe-astra  may
 mean  ' a  horse-goad  ;'  but  Aspendiarji  translates  it  by  durra,  'a  thong,'  which
 suits  the  sense  better,  and  agrees  with  etymology  too  ('  an  instrument  to  drive
 a  horse,  a  whip;'  astra,  from  the  root  az,  'to  drive;'  it  is  the  Aspahe-astra
-which  is  referred  to  by  Sozomenos  II,  13:  l/iaaiv  wfiots  xa^(1T^>s  avruv  l/3a<ra-
-viaav  oi  fidyot  (the  Sraosha-varez),  /3ta£6/j.(voi  irpoffKWTJacu  tov  tjXiov).  Sraosho-
-&arana  is  translated  by  £abuk,  'a  whip,'  which  agrees  with  the  Sanskrit  trans-
-lation of  the  si-sroshiaranam  sin,  '  yat  tribhir  go£armasa<aghatais  prayas-
+which  is  referred  to  by  Sozomenos  II,  13:  l/iaaiv  wfiots  xa^(1T^>s  avruv  l/3a<raviaav  oi  fidyot  (the  Sraosha-varez),  /3ta£6/j.(voi  irpoffKWTJacu  tov  tjXiov).  Sraosho-
+&arana  is  translated  by  £abuk,  'a  whip,'  which  agrees  with  the  Sanskrit  translation of  the  si-sroshiaranam  sin,  '  yat  tribhir  go£armasa<aghatais  prayas-
 iityam  bhavati  tavanmatram,  a  sin  to  be  punished  with  three  strokes  with  a
 whip.'  It  seems  to  follow  that  Aspahe-astra  and  Sraosho-^arana  are  one  and
 the  same  instrument,  designated  with  two  names,  first  in  reference  to  its  shape,
@@ -4959,8 +4660,7 @@ INTRODUCTION,    V.  XCV11
 
 
 'worthy  of  death,  worthiness  of  death;'  and  in  effect  the
-word  Pesho-tanu  is  often  interpreted  in  the  Pahlavi  Com-
-mentary by  margarzan,  '  worthy  of  death.'  But,  on  the
+word  Pesho-tanu  is  often  interpreted  in  the  Pahlavi  Commentary by  margarzan,  '  worthy  of  death.'  But,  on  the
 whole,  it  was  attached  to  the  technical  meaning  of  '  one  who
 has  to  receive  two  hundred  strokes  with  the  horse-whip1.'
 The  lowest  penalty  in  the  Vendidad  is  five  stripes,  and  the
@@ -4979,12 +4679,10 @@ to  the  Peshotanu  penalty.
 §  20.  If  one  reviews  the  different  crimes  described  in  the
 Vendidad,  and  the  respective  penalties  prescribed  for  them,
 one  cannot  but  wonder  at  first  sight  at  the  strange  inequality
-between  crime  and  penalty.  Beccaria  would  have  felt  un-
-comfortable while  reading  the  Vendidad.  It  is  safer  to  kill
+between  crime  and  penalty.  Beccaria  would  have  felt  uncomfortable while  reading  the  Vendidad.  It  is  safer  to  kill
 a  man  than  to  serve  bad  food  to  a  shepherd's  dog,  for  the
 manslayer  gets  off  with  ninety  stripes,  whereas  the  bad
-master  is  at  once  a  Peshotanu  2,  and  will  receive  two  hun-
-dred stripes.  Two  hundred  stripes  are  awarded  if  one  tills
+master  is  at  once  a  Peshotanu  2,  and  will  receive  two  hundred stripes.  Two  hundred  stripes  are  awarded  if  one  tills
 land  in  which  a  corpse  has  been  buried  within  the  year3,
 if  a  woman  just  delivered  of  child  drinks  water4,  if  one
 suppresses  the  menses  of  a  woman5,  if  one  performs  a
@@ -5033,19 +4731,16 @@ injure  only  one  man ;  offences  against  gods  endanger  all
 mankind.  No  one  should  wonder  at  the  unqualified  cleanser
 being  put  to  death  who  reads  Demosthenes'  Neaera ;  the
 Persians  who  defiled  the  ground  by  burying  a  corpse  were
-not  more  severely  punished  than  the  Greeks  were  for  de-
-filing with  corpses  the  holy  ground  of  Delos 8,  or  than  the
+not  more  severely  punished  than  the  Greeks  were  for  defiling with  corpses  the  holy  ground  of  Delos 8,  or  than  the
 conquerors  at  Arginousae ;  nor  would  the  Athenians,  who
 put  to  death  Atarbes0,  have  much  stared  at  the  awful
 revenge  taken  for  the  murder  of  the  sacred  dog.  There  is
 hardly  any  prescription  in  the  Vendidad,  however  odd  and
-absurd  it  may  seem,  but  has  its  counterpart  or  its  explana-
-tion in  other  Aryan  legislations :  if  we  had  a  Latin  or  a
+absurd  it  may  seem,  but  has  its  counterpart  or  its  explanation in  other  Aryan  legislations :  if  we  had  a  Latin  or  a
 Greek  Vendidad,  I  doubt  whether  it  would  look  more
 rational.
 
-§  21.  Yet,  if  theoretically  the  very  absurdity  of  its  prin-
-ciples is  nothing  peculiar  to  the  Mazdean  law,  nay,  is  a
+§  21.  Yet,  if  theoretically  the  very  absurdity  of  its  principles is  nothing  peculiar  to  the  Mazdean  law,  nay,  is  a
 proof  of  its  authenticity,  it  may  be  doubted  whether  it  could
 
 
@@ -5080,8 +4775,7 @@ hundred  stripes,  or  a  Tanafuhr,  are  estimated  as  equal  to
 three  hundred  istirs  or  twelve  hundred  dirhems,  or  thirteen
 hundred  and  fifty  rupees ;  a  stripe  is  therefore  about  equal
 to  six  rupees  3.  How  far  that  system  prevailed  in  practice,
-whether  the  guilty  might  take  advantage  of  this  commuta-
-tion of  his  own  accord,  or  only  with  the  assent  of  the
+whether  the  guilty  might  take  advantage  of  this  commutation of  his  own  accord,  or  only  with  the  assent  of  the
 judge,  we  cannot  decide.  It  is  very  likely  that  the  riches
 of  the  fire-temples  came  for  the  most  part  from  that  source,
 and  that  the  sound  of  the  dirhems  often  made  the  Sraosho-
@@ -5089,8 +4783,7 @@ and  that  the  sound  of  the  dirhems  often  made  the  Sraosho-
 of  financial  penalties  did  not,  however,  suppress  the  system
 of  bodily  penalties,  appears  from  the  customs  of  the  Parsis
 who  apply  both,  and  from  the  Pahlavi  Commentary  which
-expressly  distinguishes  three  sorts  of  atonement :  the  atone-
-ment by  money  (khvastak),  the  atonement  by  the  Sra-
+expressly  distinguishes  three  sorts  of  atonement :  the  atonement by  money  (khvastak),  the  atonement  by  the  Sra-
 osho-X-arana,  and  the  atonement  by  cleansing.
 ,  §  22.  This  third  element  of  atonement  is  strictly  religious.
 It  consists  in  repentance,  which  is  manifested  by  avowal
@@ -5109,9 +4802,6 @@ Herodotus  noticed  the  same  principle  of  compensation  in  the  Persian  la
 his  time  (I,  137  ;  cf.  VII,  194).
 
 g    2
-
-
-VENDIDAD.
 
 
 the  Patet.  The  performance  of  the  Patet  has  only  a
@@ -5136,21 +4826,17 @@ death,  yet  we  know  it  of  several  of  them,  either  from
 Greek  accounts  or  from  Parsi  tradition.  There  are  also
 whole  classes  of  sinners  whose  life,  it  would  seem,  can  be
 taken  by  any  one  who  detects  them  in  the  act,  such  as  the
-courtezan,  the  highwayman,  the  Sodomite,  and  the  corpse-
-burner7.
+courtezan,  the  highwayman,  the  Sodomite,  and  the  corpseburner7.
 
-§  24.  Such  are  the  most  important  principles  of  the  Maz-
-dean  law  that  can  be  gathered  from  the  Vendidad.  These
+§  24.  Such  are  the  most  important  principles  of  the  Mazdean  law  that  can  be  gathered  from  the  Vendidad.  These
 details,  incomplete  as  they  are,  may  give  us  an  idea,  if  not
 of  the  Sassanian  practice,  at  least  of  the  Sassanian  ideal.
 That  it  was  an  ideal  which  intended  to  pass  into  practice,
 we  know  from  the  religious  wars  against  Armenia,  and
-from  the  fact  that  very  often  the  superintendence  of  jus-
-tice and  the  highest  offices  of  the  state  were  committed  to
+from  the  fact  that  very  often  the  superintendence  of  justice and  the  highest  offices  of  the  state  were  committed  to
 Mobeds.
 
-We  must  now  add  a  few  words  on  the  plan  of  the  fol-
-lowing translation.  As  to  our  method  we  beg  to  refer  to
+We  must  now  add  a  few  words  on  the  plan  of  the  following translation.  As  to  our  method  we  beg  to  refer  to
 the  second  chapter  above.  It  rests  on  the  Parsi  tradition,
 corrected  or  confirmed  by  the  comparative  method.     The
 
@@ -5173,19 +4859,15 @@ the  Haug  collection  in  Munich3,  for  the  use  of  which  we
 were  indebted  to  the  obliging  kindness  of  the  Director  of
 the  State  Library  in  Munich,  Professor  von  Halm.  The
 Ravaets  and  the  Saddar4  frequently  gave  us  valuable
-information  as  to  the  traditional  meaning  of  doubtful  pas-
-sages. As  for  the  works  of  European  scholars,  we  are
-much  indebted  to  the  Commentary  on  the  Avesta  by  Pro-
-fessor Spiegel,  and  to  the  translations  in  the  second  edition
+information  as  to  the  traditional  meaning  of  doubtful  passages. As  for  the  works  of  European  scholars,  we  are
+much  indebted  to  the  Commentary  on  the  Avesta  by  Professor Spiegel,  and  to  the  translations  in  the  second  edition
 of  Martin  Haug's  Essays.
 
 We  have  followed  the  text  of  the  Avesta  as  given  by
 Westergaard  ;  the  division  into  paragraphs  is  according  to
-Westergaard ;  but  we  have  given  in  brackets  the  corre-
-sponding divisions  of  Professor  Spiegel's  edition.
+Westergaard ;  but  we  have  given  in  brackets  the  corresponding divisions  of  Professor  Spiegel's  edition.
 
-Many  passages  in  the  Vendidad  Sadah  are  mere  quota-
-tions from  the  Pahlavi  Commentary  which  have  crept  into
+Many  passages  in  the  Vendidad  Sadah  are  mere  quotations from  the  Pahlavi  Commentary  which  have  crept  into
 the  Sadah  text :  we  have  not  admitted  them  into  the  text.
 They  are  generally  known  to  be  spurious  from  their  not
 being  translated  in  the  Commentary5:  yet  the  absence  of
@@ -5201,8 +4883,7 @@ after  the  London  manuscript.
 
 3  Unfortunately  the  copy  is  incomplete :  there  are  two  lacunae,  one  from  I,
 11  to  the  end  of  the  chapter;  the  other,  more  extensive,  from  VI,  26  to  IX.
-The  perfect  accordance  of  this  Persian  translation  with  the  Gujarathi  of  Aspen-
-diarji shows  that  both  are  derived  from  one  and  the  same  source.  Their
+The  perfect  accordance  of  this  Persian  translation  with  the  Gujarathi  of  Aspendiarji shows  that  both  are  derived  from  one  and  the  same  source.  Their
 accordance  is  striking  even  in  mistakes;  for  instance,  the  Pahlavi  avastar
 1j*j[>*1>>^P*>,  a  transliteration  of  the  Zend  a-vastra,  'without  pastures'
 (VII,  28),  is  misread  by  the  Persian  translator  Avastar,  .L^il..-*.  '  he  who  wishes,'
@@ -5223,8 +4904,7 @@ that  this  was  the  case,  we  have  admitted  the  untranslated
 passages  into  the  text,  but  in  brackets  \
 
 We  have  divided  the  principal  Fargards  into  several
-sections  according  to  the  matter  they  contain :  this  divi-
-sion, which  is  meant  as  an  attempt  to  resolve  the  Vendidad
+sections  according  to  the  matter  they  contain :  this  division, which  is  meant  as  an  attempt  to  resolve  the  Vendidad
 into  its  primitive  fragments,  has,  of  course,  no  traditional
 authority,  the  divisions  into  paragraphs  being  the  only  ones
 that  rest  upon  the  authority  of  the  manuscripts.
@@ -5238,8 +4918,7 @@ for  the  new  meanings  we  have  adopted,  and,  in  some  cases,
 we  hope  that  the  original  text,  read  anew,  will  by  itself
 justify  our  translation3.
 
-We  must  not  conclude  this  introduction  without  ten-
-dering our  warmest  thanks  to  Mr.  E.  W.  West,  who  kindly
+We  must  not  conclude  this  introduction  without  tendering our  warmest  thanks  to  Mr.  E.  W.  West,  who  kindly
 revised  the  MS.  of  the  translation  before  it  went  to  press,
 and  who  has,  we  hope,  succeeded  in  making  our  often
 imperfect  English  more  acceptable  to  English  readers.
@@ -5249,8 +4928,7 @@ Paris,
 November,  1879.
 
 
-1  Farg.  VII,  3  ;  VIII,  95.  Formulae  and  enumerations  are  often  left  untrans-
-lated, although  they  must  be  considered  part  of  the  text  (VIII,  72 ;  XI,  9,  12  ;
+1  Farg.  VII,  3  ;  VIII,  95.  Formulae  and  enumerations  are  often  left  untranslated, although  they  must  be  considered  part  of  the  text  (VIII,  72 ;  XI,  9,  12  ;
 
 XX,  6,  &c.)
 
@@ -5268,16 +4946,12 @@ edition) ;  Roman  numbers  refer  to  the  page  and  line.
 
 Comm.=The  Pahlavi  Commentary.
 
-Gr.  Rav.  =  Le  Grand  Ravaet  (in  the  Bibliotheque  Nationale  in  Paris,  Supple-
-ment Persan,  No.  47).
+Gr.  Rav.  =  Le  Grand  Ravaet  (in  the  Bibliotheque  Nationale  in  Paris,  Supplement Persan,  No.  47).
 
 Orm.  Ahr.  =  Ormazd  et  Ahriman,  Paris,  Vieweg,  1877.
 
 
 A  A
-
-
-VENDIDAD.
 
 
 Fargard    I.
@@ -5286,8 +4960,7 @@ This  chapter  is  an  enumeration  of  sixteen  lands  created  by
 Ahura  Mazda,  and  of  as  many  plagues  created  in  opposition  by
 Angra  Mainyu.
 
-Many  attempts  have  been  made,  not  only  to  identify  these  six-
-teen lands,  but  also  to  draw  historical  conclusions  from  their  order
+Many  attempts  have  been  made,  not  only  to  identify  these  sixteen lands,  but  also  to  draw  historical  conclusions  from  their  order
 of  succession,  as  representing  the  actual  order  of  the  migrations
 and  settlements  of  the  old  Iranian  tribes  \  But  there  is  nothing  in
 the  text  that  would  authorise  us  to  look  to  it  even  for  legendary
@@ -5312,15 +4985,10 @@ zur  Geschichte,  I,  p.  498  ;  Lassen,  Indische  Alterthumskunde  I,
 p.  526  ;  Haug  in  Bunsen's  work,  Aegypten's  Stellung,  V,  2nd  part,
 p.  104;  Kiepert,  Monatsberichte  der  Berliner  Akademie,  1856,
 p.  621. — New  light  was  thrown  on  this  record  by  M.  Brdal  in  his
-paper  '  De  la  gdographie  de  l'Avesta '  (in  the  Melanges  de  mytho-
-logie  et  de  linguistique,  p.  187  seq.)
+paper  '  De  la  gdographie  de  l'Avesta '  (in  the  Melanges  de  mythologie  et  de  linguistique,  p.  187  seq.)
 
 [4]  4  /  B
 
-
-2
-
-VENDIDAD.
 
 ZEND  NAME.
 
@@ -5405,8 +5073,7 @@ cannot  be  exactly  determined  (see  the  note  to  §  8).
 
 For  the  other  lands  we  are  confined  for  information  to  the
 Pahlavi  Commentary.  Aakhra(  1 3)  is  only  transliterated,  whether  the
-name  was  then  too  much  known  to  require  any  further  explana-
-tion or  too  little  to  allow  of  any.  Urva  (8)  is  described  as  being
+name  was  then  too  much  known  to  require  any  further  explanation or  too  little  to  allow  of  any.  Urva  (8)  is  described  as  being
 Masan  ('the  land  of  Masan'  or  'the  land  of  the  Great'),  a  name
 which  applied,  in  the  Sassanian  ages,  to  the  land  around  Ispahan
 (Firdausi,  ed. Mohl,V,  270).
@@ -5415,8 +5082,7 @@ For  '  Varena,  the  four-cornered'  (14),  the  Commentary  hesitates
 between  the  Padashkhvargar  mountains  (the  Elborz)  and  Kirman,
 a  hesitation  easily  accounted  for  by  the  fact  that  Varena  is  the  seat
 of  the  struggle  between  Az\s  Dahaka  and  Thraetaona,  between  the
-storm  serpent  and  the  storm  god,  and  was  formerly  'the  four-
-sided  Heaven'  (see  Introd.  IV,  12,  23).  Modern  tradition  decides  in
+storm  serpent  and  the  storm  god,  and  was  formerly  'the  foursided  Heaven'  (see  Introd.  IV,  12,  23).  Modern  tradition  decides  in
 favour  of  Padashkhvargar,  probably  because  the  serpent  was  at  last
 bound  to  Demavand,  the  highest  peak  in  that  chain.  The  claims  of
 Kirman  were  probably  founded  on  the  popular  etymology  of  its
@@ -5424,10 +5090,8 @@ name,  '  the  land  of  snakes.'
 
 'Vaekereta,  of  the  evil  shadows'  (8),  is  identified  with  Kapul
 (Cabul) ;  whether  rightly  or  wrongly,  we  are  unable  to  decide ;
-yet,  as  it  is  spoken  of  only  as  the  seat  of  the  adventures  of  Kere-
-saspa  (see  Introd.  IV,  21),  it  may  be  suspected  that  this  assimilation
-rests  merely  on  the  fact  that,  in  later  tradition,  the  legend  of  Kere-
-saspa  was  localised  in  the  table-land  of  Peshyansai,  in  Kabulistan
+yet,  as  it  is  spoken  of  only  as  the  seat  of  the  adventures  of  Keresaspa  (see  Introd.  IV,  21),  it  may  be  suspected  that  this  assimilation
+rests  merely  on  the  fact  that,  in  later  tradition,  the  legend  of  Keresaspa  was  localised  in  the  table-land  of  Peshyansai,  in  Kabulistan
 (Bund.  XXX).
 
 In  the  enumeration  there  is  no  apparent  order  whatever,  and
@@ -5471,8 +5135,7 @@ the  world  eastward  under  the  name  of  Veh  (Vanguhi),  which  was  the
 Sassanian  name'of  the  Oxus — Indus 1.  It  seems  that  in  the  time  of
 Herodotus,  the  Araxes  and  the  Oxus  were  considered  one  and  the
 same  river 2,  as  the  Oxus  and  the  Indus  were  later  on ;  this  would
-account  for  his  strange  statement  that  the  Araxes,  which  is  con-
-fessedly with  him  the  Oxus  or  Yaxartes,  springs  from  the  land
+account  for  his  strange  statement  that  the  Araxes,  which  is  confessedly with  him  the  Oxus  or  Yaxartes,  springs  from  the  land
 of  the  Matianians,  like  the  Gyndes,  and  flows  eastwards  (I,  202  ;
 IV,  40;  cf.  Ill,  36;  IV,  11);  and,  at  the  same  time,  this  would
 account  both  for  how  the  Airyana  Vaegd  could  be  localised  in  the
@@ -5489,9 +5152,6 @@ XX  ;  cf.  Garrez  1.  c.)
 3  Whether  in  the  time  when  this  Fargard  was  written,  the  Airyana
 
 B    2
-
-
-VENDIDAD.
 
 
 It  follows  hence  that  no  historical  conclusions  can  be  drawn  from
@@ -5511,8 +5171,7 @@ indicate  that  the  first  Fargard  was  not  composed  earlier  than  the
 time  when  the  basin  of  the  Indus  became  a  part  of  Iran,  that  is,
 not  earlier  than  the  reign  of  Darius  the  First.
 
-1.  Ahura  Mazda1  spake  unto  Spitama2  Zara-
-thu-stra 3,  saying :
+1.  Ahura  Mazda1  spake  unto  Spitama2  Zarathu-stra 3,  saying :
 
 2.  I  have  made  every  land  dear  to  its  dwellers,
 even  though  it  had  no  charms  whatever  in  it 4 :  had
@@ -5526,12 +5185,10 @@ Vae^o  5.
 Vae^o  was  still  believed  to  be  in  the  far-off  lands  of  the  rising  sun,
 or  already  on  the  banks  of  the  Aras,  we  leave  undecided.
 
-1  See  Introd.  IV,  4.
 
 2  Literally  '  the  most  beneficent,'  an  epithet  of  Zarathuitra,
 which  was  later  mistaken  for  a  family  name,  '  the  Spitamide.'
 
-3  See  Introd.  IV,  40.
 
 4  'Every  one  fancies  that  the  land  where  he  is  born  and  has
 been  brought  up  is  the  best  and  fairest  land  that  I  have  created.'
@@ -5603,9 +5260,6 @@ s
 *  Suguda;  Sogdiana.
 
 
-VENDIDAD.
-
-
 Thereupon  came  Angra  Mainyu,  who  is  all  death,
 and  he  counter-created  by  his  witchcraft  the  fly
 Skaitya  \  which  brings  death  to  the  cattle.
@@ -5617,8 +5271,7 @@ Mouru  2.
 Thereupon  came  Angra  Mainyu,  who  is  all  death,
 and  he  counter-created  by  his  witchcraft  sinful  lusts  3.
 
-7  (21).  The  fourth  of  the  good  lands  and  coun-
-tries which  I,  Ahura  Mazda,  created,  was  the
+7  (21).  The  fourth  of  the  good  lands  and  countries which  I,  Ahura  Mazda,  created,  was  the
 beautiful  Bakhdhi  4  with  high-lifted  banners.
 
 Thereupon  came  Angra  Mainyu,  who  is  all  death,
@@ -5703,7 +5356,6 @@ beautiful  Harahvaiti 10.
 
 4  'Kapul'  (Comm.;  see  the  Introd.  to  the  Fargard).
 
-5  See  Introd.  IV,  21.
 
 0  According  to  Asp.  Tus  (in  Khorasan) ;    more  probably  the
 land  around  Ispahan.     See  the  Introd.  to  the  Fargard.
@@ -5713,9 +5365,6 @@ Varkana;    Hyrcania.      '  Khnewta    is    a   river  in    Vehrkana'
 (Comm.);  consequently  the  river  Gorman.
 
 9  See  Farg.  VIII,  31.  10  Harauvati;  'APdXcoTos;  Harut.
-
-
-8  VENDIDAD.
 
 
 Thereupon  cafne  Angra  Mainyu,  who  is  all  death,
@@ -5733,8 +5382,7 @@ and  he  counter-created  by  his  witchcraft  the  evil
 witchcraft  of  the  Yatus  3.
 
 15  (53).  And  this  is  how  the  Yatu's  nature  shows
-itself:  it  shows  itself  by  the  look4;  and  then,  when-
-ever the  wizard  goes  and  howls  forth  his  spells5,
+itself:  it  shows  itself  by  the  look4;  and  then,  whenever the  wizard  goes  and  howls  forth  his  spells5,
 most  deadly  works  of  witchcraft  go  forth  G.
 
 16  (59).  The  twelfth  of  the  good  lands  and
@@ -5785,8 +5433,7 @@ corpses  2.
 
 18  (67).  The  fourteenth  of  the  good  lands  and
 countries  which  I,  Ahura  Mazda,  created,  was  the
-four-cornered  Varena  3,  for  which  was  born  Thrae-
-taona,  who  smote  Az\s  Dahaka.
+four-cornered  Varena  3,  for  which  was  born  Thraetaona,  who  smote  Az\s  Dahaka.
 
 Thereupon  came  Angra  Mainyu,  who  is  all  death,
 and  he  counter-created  by  his  witchcraft  abnormal
@@ -5834,8 +5481,7 @@ Thereupon  came  Angra  Mainyu,  who  is  all  death,
 and  he  counter-created  by  his  witchcraft  winter,  a
 work  of  the  Daevas 1.
 
-21  (8r).  There  are  still  other  lands  and  coun-
-tries, beautiful  and  deep,  desirable  and  bright,  and
+21  (8r).  There  are  still  other  lands  and  countries, beautiful  and  deep,  desirable  and  bright,  and
 thriving.
 
 
@@ -5886,8 +5532,7 @@ the  second  part  is  a  combination  of  the  myths  of  Yima,  as  the  first
 dead  and  the  king  of  the  dead  over  whom  he  rules  in  a  region  of
 bliss,  and  of  old  myths  about  the  end  of  the  world.  The  world,
 lasting  a  long  year  of  twelve  millenniums,  was  to  end  by  a  dire
-winter,  like  the  Eddie  Fimbul  winter,  to  be  followed  by  an  everlast-
-ing spring,  when  men,  sent  back  to  earth  from  the  heavens,  should
+winter,  like  the  Eddie  Fimbul  winter,  to  be  followed  by  an  everlasting spring,  when  men,  sent  back  to  earth  from  the  heavens,  should
 enjoy,  in  an  eternal  earthly  life,  the  same  happiness  that  they  had
 enjoyed  after  their  death  in  the  realm  of  Yima.  But  as  in  the
 definitive  form  which  was  taken  by  Mazdean  cosmology  the  world
@@ -5915,8 +5560,7 @@ the  law  of  Zarathiutra  ?
 
 2  (4).    Ahura  Mazda  answered  :
 
-The  fair  Yima,  the  great  shepherd,  O  holy  Zara-
-thu^tra !  he  was  the  first  mortal,  before  thee,
+The  fair  Yima,  the  great  shepherd,  O  holy  Zarathu^tra !  he  was  the  first  mortal,  before  thee,
 Zarathiutra,  with  whom  I,  Ahura  Mazda,  did
 converse,  whom  I  taught  the  law  of  Ahura,  the
 law  of  Zarathuitra.
@@ -5929,9 +5573,6 @@ And  the  fair  Yima,  O  Zarathu-stra,  replied  unto
 me,  saying  :
 
 1  '  On  the  law'  (Comm.)
-
-
-12  VENDIDAD.
 
 
 '  I  was  not  born,  I  was  not  taught  to  be  the
@@ -6031,9 +5672,6 @@ Persian  kings  in  particular  are  '  the  brothers  of  the  sun.'
 3  The  happiness  which  Yima  made  reign  on  the  earth  is  also
 
 
-14  VENDIDAD.
-
-
 12  (23).  Thus,  under  the  sway  of  Yima,  six
 hundred  winters  passed  away,  and  the  earth  was
 replenished  with  flocks  and  herds,  with  men  and
@@ -6067,8 +5705,7 @@ dogs  and  birds  and  with  red  blazing  fires,  and  there
 was  no  more  room  for  flocks,  herds,  and  men.
 
 17(28).  And  I  warned  the  fair  Yima,  saying:
-'  O  fair  Yima,  son  of  Vivanghat,  the  earth  has  be-
-come full  of  flocks  and  herds,  of  men  and  dogs  and
+'  O  fair  Yima,  son  of  Vivanghat,  the  earth  has  become full  of  flocks  and  herds,  of  men  and  dogs  and
 birds  and  of  red  blazing  fires,  and  there  is  no  more
 room  for  flocks,  herds,  and  men.'
 
@@ -6129,9 +5766,6 @@ the  law).
 4  Primitively  the  souls  of  the  righteous  (see  Introd.  IV,  38).
 
 
-1 6  VENDIDAD.
-
-
 world  the  fatal  winters  are  going  to  fall,  that  shall
 bring  the  fierce,  foul  frost ;  upon  the  material  world
 the  fatal  winters  *  are  going  to  fall,  that  shall  make
@@ -6175,8 +5809,7 @@ fingers  deep'  (Comm.);  that  is,  fourteen  fingers  deep.
 
 s  Doubtful.
 
-4  Literally, '  an  enclosure.'  This  Vara  is  known  in  later  mytho-
-logy as  the  Var-Gam-kard,  '  the  Var  made  by  Yima.'
+4  Literally, '  an  enclosure.'  This  Vara  is  known  in  later  mythology as  the  Var-Gam-kard,  '  the  Var  made  by  Yima.'
 
 
 FARGARD    II.  I  J
@@ -6186,16 +5819,14 @@ riding-ground  on  every  side  of  the  square l,  and
 thither  bring  the  seeds  of  sheep  and  oxen,  of  men,
 of  dogs,  of  birds,  and  of  red  blazing  fires.
 
-Therefore  make  thee  a  Vara,  long  as  a  riding-
-ground  on  every  side  of  the  square,  to  be  an  abode
+Therefore  make  thee  a  Vara,  long  as  a  ridingground  on  every  side  of  the  square,  to  be  an  abode
 for  men ;  a  Vara,  long  as  a  riding-ground  on  every
 side  of  the  square,  to  be  a  fold  for  flocks.
 
 26  (65).  There  thou  shalt  make  waters  flow  in  a
 bed  a  hathra  long ;  there  thou  shalt  settle  birds,  by
 the  ever-green  banks  that  bear  never-failing  food.
-There  thou  shalt  establish  dwelling  places,  con-
-sisting of  a  house  with  a  balcony,  a  courtyard,  and
+There  thou  shalt  establish  dwelling  places,  consisting of  a  house  with  a  balcony,  a  courtyard,  and
 a  gallery2.
 
 27  (70).  Thither  thou  shalt  bring  the  seeds3  of
@@ -6228,9 +5859,6 @@ time  (?  see  §  41,  text  and  note).
 [4]  C
 
 
-1 8  vEndidad.
-
-
 decayed  tooth,  no  leprous  to  be  confined1,  nor  any
 of  the  brands  wherewith  Angra  Mainyu  stamps  the
 bodies  of  mortals.
@@ -6239,8 +5867,7 @@ bodies  of  mortals.
 shalt  make  nine  streets,  six  in  the  middle  part,  three
 in  the  smallest.  To  the  streets  of  the  largest  part
 thou  shalt  bring  a  thousand  seeds  of  men  and
-women  ;  to  the  streets  of  the  middle  part,  six  hun-
-dred;  to  the  streets  of  the  smallest  part,  three
+women  ;  to  the  streets  of  the  middle  part,  six  hundred;  to  the  streets  of  the  smallest  part,  three
 hundred.  That  Vara  thou  shalt  seal  up  with  the
 golden  ring2,  and  thou  shalt  make  a  door,  and  a
 window  self-shining  within.
@@ -6285,8 +5912,7 @@ a  riding-ground  on  every  side  of  the  square,  to  be  a
 fold  for  flocks.
 
 34  (101).  There  he  made  waters  flow  in  a  bed  a
-hathra  long;  there  he  settled  birds,  by  the  ever-
-green banks  that  bear  never-failing  food.  There  he
+hathra  long;  there  he  settled  birds,  by  the  evergreen banks  that  bear  never-failing  food.  There  he
 established  dwelling  places,  consisting  of  a  house
 with  a  balcony,  a  courtyard,  and  a  gallery.
 
@@ -6321,13 +5947,9 @@ streets  of  the   smallest  part,  three  hundred.     That
 c  2
 
 
-20  VENDIDAD.
-
-
 Vara  he  sealed  up  with  the  golden  ring,  and  he
 made  a  door,  and  a  window  self-shining  within.
 
-39  (129).  O  Maker  of  the  material  world,  thou
 Holy  One!  What  [lights  are  there  to  give  light1]
 in  the  Vara  which  Yima  made  ?
 
@@ -6363,7 +5985,6 @@ and  religion  the  primeval  religion,  and  when  they  die,  they  are
 righteous  (=blessed);  and  their  chief  is  Gopatshah,  and  the  ruler
 and  king  is  Srosh'  (XLIV,  24).
 
-3  Doubtful.
 
 4  From  the  seeds  deposited  in  the  Vara  (see  §§  27  seq.,  35  seq.);
 in  the  same  way  as  the  first  human  couple  grew  up,  after  forty
@@ -6377,18 +5998,14 @@ received  by  Spewta  Armaiti  (the  Earth.     See  Bund.  XV).
 FARGARD    III.  2  1
 
 
-42  (137).  O  Maker  of  the  material  world,  thou
 Holy  One !  Who  is  he  who  brought  the  law  of
 Mazda  into  the  Vara  which  Yima  made  ?
 
-Ahura  Mazda  answered  :  '  It  was  the  bird  Kar-
-shipta1,  O  holy  Zarathurtra !'
+Ahura  Mazda  answered  :  '  It  was  the  bird  Karshipta1,  O  holy  Zarathurtra !'
 
-43  (140).  O  Maker  of  the  material  world,  thou
 Holy  One!     Who  is  the  lord  and  ruler  there?
 
-Ahura  Mazda  answered:  'Urvata^-nara2,  O  Zara-
-thiutra!  and  thyself,  Zarathu^tra.'
+Ahura  Mazda  answered:  'Urvata^-nara2,  O  Zarathiutra!  and  thyself,  Zarathu^tra.'
 
 
 Fargard    III.
@@ -6418,22 +6035,15 @@ speaking  from  above,  the  song  of  the  bird  was  often  thought  to  be
 the  utterance  of  a  god  and  a  revelation  (see  Orm.  Ahr.  §  157).
 
 2  Zarathurtra  had  three  sons  during  his  lifetime  (cf.  Introd.  IV,
-40),  Isa</-vastra,  Hvare-X-ithra,  and  Urvata</-nara,  who  were  respec-
-tively the  fathers  and  chiefs  of  the  three  classes,  priests,  warriors,
-and  husbandmen.  They  play  no  great  part  in  Mazdean  mytho-
-logy, and  are  little  more  than  three  subdivisions  of  Zarathurtra
-himself,  who  was  '  the  first  priest,  the  first  warrior,  the  first  hus-
-bandman '  (Yt.  XIII,  88).  Zarathurtra,  as  a  heavenly  priest,  was,
+40),  Isa</-vastra,  Hvare-X-ithra,  and  Urvata</-nara,  who  were  respectively the  fathers  and  chiefs  of  the  three  classes,  priests,  warriors,
+and  husbandmen.  They  play  no  great  part  in  Mazdean  mythology, and  are  little  more  than  three  subdivisions  of  Zarathurtra
+himself,  who  was  '  the  first  priest,  the  first  warrior,  the  first  husbandman '  (Yt.  XIII,  88).  Zarathurtra,  as  a  heavenly  priest,  was,
 by  right,  the  ratu  in  Airyana  Vae^o,  where  he  founded  the  religion
 by  a  sacrifice  (Bund.  XXXIII  and  Introd.  Ill,  15)-
 
 
-22  VENDIDAD.
-
-
 second  parts,  but  there  is  none  as  to  matter;  no  clause  in  the
-former  has  its  counterpart  in  the  latter.  There  is  more  resem-
-blance between  the  second  part  and  the  third ;  as  the  first  three
+former  has  its  counterpart  in  the  latter.  There  is  more  resemblance between  the  second  part  and  the  third ;  as  the  first  three
 clauses  of  the  third  part  (§§  12,  13,  22)  relate  to  the  same  things
 as  the  second,  third,  and  fourth  clauses  of  the  second  part  (§§  8,
 9,  10).
@@ -6444,8 +6054,7 @@ III  is  more  interesting,  as  it  contains  two  long  digressions,  the  one
 husbandry.  The  fourth  part  of  the  chapter  may  be  considered  as
 a  digression  relating  to  the  first  clause  of  the  third  part  (§  12).
 
-The  things  which  rejoice  or  grieve  the  Earth  are  those  that  pro-
-duce fertility  and  life  or  sterility  and  death,  either  in  it  or  on  it.
+The  things  which  rejoice  or  grieve  the  Earth  are  those  that  produce fertility  and  life  or  sterility  and  death,  either  in  it  or  on  it.
 
 The  subject  of  this  chapter  has  become  a  commonplace  topic
 with  the  Parsis,  who  have  treated  it  more  or  less  antithetically  in
@@ -6462,8 +6071,7 @@ One  !  Which  is  the  first  place  where  the  Earth
 feels  most  happy  ?
 
 Ahura  Mazda  answered:  '  It  is  the  place  whereon
-one  of  the  faithful  steps  forward,  O  Spitama  Zara-
-thuitra !  with  the  holy  wood  in  his  hand  \  the
+one  of  the  faithful  steps  forward,  O  Spitama  Zarathuitra !  with  the  holy  wood  in  his  hand  \  the
 baresma2  in   his  hand,  the  holy  meat  in   his  hand,
 
 1  The  wood  for  the  fire  altar.
@@ -6486,7 +6094,6 @@ FARGARD    III.  23
 love,  and  beseeching  aloud  Mithra,  the  lord  of  wide
 pastures,  and  Rama  //z/astra2.'
 
-2,  3  (6-10).  O  Maker  of  the  material  world,  thou
 Holy  One!  Which  is  the  second  place  where  the
 Earth  feels  most  happy  ?
 
@@ -6499,7 +6106,6 @@ thriving,  the  dog  is  thriving,  the  wife  is  thriving,
 the  child  is  thriving,  the  fire  is  thriving,  and  every
 blessing  of  life  is  thriving.'
 
-4(11).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Which  is  the  third  place  where  the
 Earth  feels  most  happy  ?
 
@@ -6509,7 +6115,6 @@ fruit,  O  Spitama  Zarathu^tra !  where  he  waters
 ground  that  is  dry,  or  dries  ground  that  is  too
 wet.'
 
-5  (15).  O  Maker  of  the  material  world,  thou
 Holy  One!  Which  is  the  fourth  place  where  the
 Earth  feels  most  happy  ?
 
@@ -6525,7 +6130,6 @@ pu/38coi/   fivpiKivav   XfTTTwv    Seafxrjv    KaTexoVTes>  ^V,   3,   1 4).
 Horn  (see  Introd.  IV,  28).
 
 2  The  god  that  gives  good  folds  and  good  pastures  to  cattle
-(see  Introd.  IV,  16).
 
 3  By  the  performance  of  worship.
 
@@ -6533,10 +6137,6 @@ Horn  (see  Introd.  IV,  28).
 »>
 
 
-24  VENDIDAD.
-
-
-6  (18).  O  Maker  of  the  material  world,  thou
 Holy  One !  Which  is  the  fifth  place  where  the
 Earth  feels  most  happy  ?
 
@@ -6545,22 +6145,18 @@ flocks  and  herds  yield  most  dung.'
 
 II.
 
-7  (21).  O  Maker  of  the  material  world,  thou
 Holy  One !  Which  is  the  first  place  where  the
 Earth  feels  sorest  grief?
 
-Ahura  Mazda  answered  :  '  It  is  the  neck  of  Are-
-zura1, whereon  the  hosts  of  fiends  rush  forth  from
+Ahura  Mazda  answered  :  '  It  is  the  neck  of  Arezura1, whereon  the  hosts  of  fiends  rush  forth  from
 the  burrow  of  the  Dru^2.'
 
-8  (25).  O  Maker  of  the  material  world,  thou
 Holy  One!  Which  is  the  second  place  where  the
 Earth  feels  sorest  grief?
 
 Ahura  Mazda  answered :  '  It  is  the  place  wherein
 most  corpses  of  dogs  and  of  men  lie  buried 3.
 
-9  (28).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Which  is  the  third  place  where  the
 Earth  feels  sorest  grief?
 
@@ -6568,7 +6164,6 @@ Ahura  Mazda  answered:  'It  is  the  place  whereon
 stand  most  of  those  Dakhmas  on  which  corpses  of
 men  are  deposited  V
 
-10  (31).    O   Maker  of  the    material  world,   thou
 
 1  The  neck  of  Arezura  (Arezurahe  griva)  is  'a  mount  at  the
 gate  of  hell,  whence  the  demons  rush  forth  '  (Bund.  22,  16) ;  it  is
@@ -6595,7 +6190,6 @@ Ahura  Mazda  answered  :  '  It  is  the  place  wherein
 are  most  burrows  of  the  creatures  of  Angra
 Mainyu  V
 
-1 1  (34).  O  Maker  of  the  material  world,  thou
 Holy  One !  Which  is  the  fifth  place  where  the
 Earth  feels  sorest  grief?
 
@@ -6607,18 +6201,14 @@ of  wailing-.'
 
 III.
 
-12  (38).  O  Maker  of  the  material  world,  thou
 Holy  One!  Who  is  the  first  that  rejoices  the
 Earth  with  greatest  joy?
 
 Ahura  Mazda  answered  :  'It  is  he  who  digs  out
 of  it  most  corpses  of  dogs  and  men  3.'
 
-13  (41).    O   Maker  of  the    material  world,  thou
 
-
-resurrection'  (Gr.  Rav.  435,  437).  Although  the  erection  of  Dakh-
-mas  is  enjoined  by  the  law,  yet  the  Dakhma  in  itself  is  as  unclean
+resurrection'  (Gr.  Rav.  435,  437).  Although  the  erection  of  Dakhmas  is  enjoined  by  the  law,  yet  the  Dakhma  in  itself  is  as  unclean
 as  any  spot  on  the  earth  can  be,  since  it  is  always  in  contact  with
 the  dead  (cf.  Farg.VII,  55).  The  impurity  which  would  otherwise
 be  scattered  over  the  whole  world,  is  thus  brought  together  to
@@ -6641,9 +6231,6 @@ XXXI,  sub  fin.)
 A
 
 
-26  VENDIDAD
-
-
 Holy  One!     Who   is  the  second  that  rejoices   the
 Earth  with  greatest  joy  ?
 
@@ -6660,7 +6247,6 @@ hinder  parts.  This  Dru^,  this  Nasu,  falls  upon
 him,  stains  him  even  to  the  end  of  the  nails,  and  he
 is  unclean,  thenceforth,  for  ever  and  ever.
 
-15  (49).  O  Maker  of  the  material  world,  thou
 Holy  One!  What  shall  be  the  place  of  that  man
 who  has  carried  a  corpse  alone  3  ?
 
@@ -6668,8 +6254,7 @@ Ahura  Mazda  answered  :  '  It  shall  be  the  place
 on  this  earth  wherein  is  least  water  and  fewest
 plants,  whereof  the  ground  is  the  cleanest  and  the
 driest  and  the  least  passed  through  by  flocks  and
-herds,  by  Fire,  the  son  of  Ahura  Mazda,  by  the  con-
-secrated bundles  of  baresma,  and  by  the  faithful.'
+herds,  by  Fire,  the  son  of  Ahura  Mazda,  by  the  consecrated bundles  of  baresma,  and  by  the  faithful.'
 
 1  No  ceremony  in  general  can  be  performed  by  one  man  alone.
 Two  Mobeds  are  wanted  to  perform  the  Vendidad  service,  two
@@ -6691,7 +6276,6 @@ with  men,  whom  he  would  defile.
 FARGARD    III.  2J
 
 
-1 6  (55).  O  Maker  of  the  material  world,  thou
 Holy  One!  How  far  from  the  fire?  How  far  from
 the  water  ?  How  far  from  the  consecrated  bundles
 of  baresma  ?     How  far  from  the  faithful  ?
@@ -6712,15 +6296,13 @@ grown  to  the  age  of  a  Hana,  or  of  a  Zaurura,  or  of
 a  Pairiita-khshudra 2.
 
 20,  21  (64-71).  'And  when  he  has  grown  to  the
-age  of  a  Hana,  or  of  a  Zaurura,  or  of  a  PairLrta-
-khshudra,  then  the  worshippers  of  Mazda  shall
+age  of  a  Hana,  or  of  a  Zaurura,  or  of  a  PairLrtakhshudra,  then  the  worshippers  of  Mazda  shall
 order  a  man  strong,  vigorous,  and  skilful 3,  to  flay
 the  skin  off  his  body  and  cut  the  head  off  his  neck 4,
 on  the  top  of  the  mountain  :  and  they  shall  deliver
 his  corpse  unto  the  greediest  of  the  corpse-eating
 creatures  made  by  Ahura  Mazda,  to  the  greedy
-ravens,  with  these  words  :  "  The  man  here  has  re-
-pented of  all  his  evil   thoughts,  words,  and  deeds.
+ravens,  with  these  words  :  "  The  man  here  has  repented of  all  his  evil   thoughts,  words,  and  deeds.
 
 
 1  The  Armejt-gah,  the  place  for  the  unclean;  seelntrod.  V,  15.
@@ -6735,22 +6317,16 @@ meanings  of  '  fifty,  sixty,  and  seventy  years  old.'
 4  Cf.  Farg.  IX,  49,  text  and  note.
 
 
-28  vendIdad.
-
-
-If  he  has  committed  any  other  evil  deed,  it  is  re-
-mitted by  his  repentance1:  if  he  has  committed  no
+If  he  has  committed  any  other  evil  deed,  it  is  remitted by  his  repentance1:  if  he  has  committed  no
 other  evil  deed,  he  is  absolved  by  his  repentance,
 for  ever  and  ever2.'"
 
-22  (72).  O  Maker  of  the  material  world,  thou
 Holy  One !  Who  is  the  third  that  rejoices  the
 Earth  with  greatest  joy?
 
 Ahura  Mazda  answered  :  'It  is  he  who  fills  up
 most  burrows  of  the  creatures  of  Angra  Mainyu.'
 
-2 3  (75)-  O  Maker  of  the  material  world,  thou
 Holy  One!  Who  is  the  fourth  that  rejoices  the
 Earth  with  greatest  joy  ?
 
@@ -6813,7 +6389,6 @@ ever  shalt  thou  wait  there  for  the  refuse  that  is
 brought  unto  thee  3,  brought  by  those  who  have
 profusion  of  wealth."
 
-30  (96).  O  Maker  of  the  material  world,  thou
 Holy  One  !  What  is  the  food  that  fills  the  law  of
 Mazda4?
 
@@ -6831,9 +6406,6 @@ grows  up,  it  will  grow  up  for  thee  first'  (Comm.)
 what  is  bad'  (Comm.)
 
 4  Literally, '  What  is  the  stomach  of  the  law  ?'
-
-
-30  VENDIDAD.
 
 
 makes  the  law  of  Mazda  grow  higher  and  higher  :
@@ -6858,12 +6430,10 @@ works  of  husbandry,  strength  to  beget  children.  By
 eating  every  material  creature  lives,  by  not  eating
 it  dies  away 6."  '
 
-34(116).  O  Maker  of  the  material  world,  thou
 Holy  One !  Who  is  the  fifth  that  rejoices  the
 Earth  with  greatest  joy  ?
 
-1  The  translation  'acts  of  adoration'  and  'oblations'  is  doubt-
-ful :  the  words  in  the  text  are  airag  \cy6fieva,  which  are  traditionally
+1  The  translation  'acts  of  adoration'  and  'oblations'  is  doubtful :  the  words  in  the  text  are  airag  \cy6fieva,  which  are  traditionally
 translated  '  feet'  and  'breasts.'  The  Commentary  has  as  follows  :
 '  He  makes  the  law  of  Mazda  as  fat  as  a  child  could  be  made  by
 means  of  a  hundred  feet,  that  is  to  say,  of  fifty  servants  walking  to
@@ -6890,14 +6460,12 @@ piously  gives l  to  one  of  the  faithful.]
 
 35  (118).  '  He  who  tilling  the  earth,  O  Spitama
 Zarathustra !  would  not  kindly  and  piously  give  to
-one  of  the  faithful,  he  shall  fall  down  into  the  dark-
-ness of  Spewta  Armaiti 2,  down  into  the  world  of
+one  of  the  faithful,  he  shall  fall  down  into  the  darkness of  Spewta  Armaiti 2,  down  into  the  world  of
 woe,  the  dismal  realm,  down  into  the  house  of
 hell.'
 
 IV.     C-
 
-36  (122).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  bury  in  the  earth  either
 the  corpse  of  a  dog  or  the  corpse  of  a  man,  and  if
 he  shall  not  disinter  it  within  half  a  year,  what  is
@@ -6907,7 +6475,6 @@ Ahura  Mazda  answered :  '  Five  hundred  stripes
 with  the  Aspahe-a^tra 3,  five  hundred  stripes  with
 the  Sraoshd-/£arana.'
 
-37  (126).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  bury  in  the  earth  either
 the  corpse  of  a  dog  or  the  corpse  of  a  man,  and  if
 he  shall  not  disinter  it  within  a  year,  what  is  the
@@ -6917,7 +6484,6 @@ Ahura  Mazda  answered :  '  A  thousand  stripes
 with  the  Aspahe-a^tra,  a  thousand  stripes  with  the
 Sraosho-/C'arana.'
 
-38  (130).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  shall  bury  in  the  earth  either
 the  corpse  of  a  dog  or  the  corpse  of  a  man,  and  if
 he  shall  not  disinter  it  within  the  second  year,  what
@@ -6930,9 +6496,6 @@ Vendidad  Sadah.
 
 
 A,
-
-
-32  VENDIDAD.
 
 
 is  the  penalty  for  it  ?     What  is  the  atonement  for
@@ -6957,8 +6520,7 @@ deeds.
 41  (142).  'The  law  of  Mazda  indeed,  O  Spitama
 Zarathuitra !  takes  away  from  him  who  confesses  it
 the  bonds  of  his  sin4;  it  takes  away  (the  sin  of)
-breach  of  trust 5 ;  it  takes  away  (the  sin  of)  mur-
-dering one  of  the  faithful0;  it  takes  away  (the  sin
+breach  of  trust 5 ;  it  takes  away  (the  sin  of)  murdering one  of  the  faithful0;  it  takes  away  (the  sin
 of)  burying  a  corpse  7 ;   it  takes  away  (the  sin  of)
 
 1  As  he  must  have  known  that  he  was  committing  sin.
@@ -7048,16 +6610,12 @@ do  so  from  the  faithful '  (Comm.)
 [4]  D
 
 
-34  VENDIDAD.
-
-
 I.
 
 I.  He  that  does  not  restore  (a  thing  lent),  when
 it  is  asked  for  back  again,  steals  the  thing ;  he  robs
 the  man  \  So  he  does  every  day,  every  night,  as
-long  as  he  keeps  in  his  house  his  neighbour's  pro-
-perty, as  though  it  were  his  own2.
+long  as  he  keeps  in  his  house  his  neighbour's  property, as  though  it  were  his  own2.
 
 II  a.
 
@@ -7065,8 +6623,7 @@ II  a.
 One!  How  many  in  number  are  thy  contracts,  O
 Ahura  Mazda  ?
 
-Ahura  Mazda  answered :  '  They  are  six  in  num-
-ber 3.     The  first  is  the  word-contract 4 ;  the  second
+Ahura  Mazda  answered :  '  They  are  six  in  number 3.     The  first  is  the  word-contract 4 ;  the  second
 
 
 1  '  He  is  a  thief  when  he  takes  with  a  view  not  to  restore;  he  is  a
@@ -7075,8 +6632,7 @@ robber  when,  being  asked  to  restore,  he  answers,  I  will  not'  (Comm.)
 2  Every  moment  that  he  holds  it  unlawfully,  he  steals  it  anew.
 '  The  basest  thing  with  Persians  is  to  lie  ;  the  next  to  it  is  to  be  in
 debt,  for  this  reason  among  many  others,  that  he  who  is  so,  must
-needs  sink  to  lying  at  last'  (Herod.  I,  183).  The  debtor  in  ques-
-tion is  of  course  the  debtor  of  bad  faith,  '  he  who  says  to  a  man,
+needs  sink  to  lying  at  last'  (Herod.  I,  183).  The  debtor  in  question is  of  course  the  debtor  of  bad  faith,  '  he  who  says  to  a  man,
 Give  me  this,  I  will  restore  it  to  thee  at  the  proper  time,  and  he
 says  to  himself,  I  will  not  restore  it'  (Comm.)
 
@@ -7114,15 +6670,13 @@ lib.
 
 3  (13).  If  a  man  make  the  word-contract  a  mere
 word  7,  it  shall  be  redeemed  by  the  hand-contract ;
-he  shall  give  in  pledge  8  the  amount  of  the  hand-
-contract.
+he  shall  give  in  pledge  8  the  amount  of  the  handcontract.
 
 4  (16).  The  hand-contract9  shall  be  redeemed  by
 the  sheep-contract;  he  shall  give  in  pledge  the
 amount  of  the  sheep-contract.  The  sheep-contract
 shall  be  redeemed  by  the  ox-contract ;  he  shall  give
-in  pledge  the  amount  of  the  ox-contract.  The  ox-
-contract  shall  be  redeemed  by  the  man-contract ;  he
+in  pledge  the  amount  of  the  ox-contract.  The  oxcontract  shall  be  redeemed  by  the  man-contract ;  he
 
 
 i  1
@@ -7148,8 +6702,7 @@ to  the  contract  between  teacher  and  pupil.
 5  '  Upwards  of  500  istirs.'
 
 6  A  sort  of  gloss  added  to  define  more  accurately  the  value  of
-the  object  and  to  indicate  that  it  is  greater  than  that  of  the  pre-
-ceding one.
+the  object  and  to  indicate  that  it  is  greater  than  that  of  the  preceding one.
 
 7  If  he  fail  to  fulfil  it.  8  Or,  '  as  damages  (?).'
 9  The  breach  of  the  hand-contract.
@@ -7158,26 +6711,19 @@ ceding one.
 D  2
 
 
-36  VENDIDAD.
-
-
 shall  give  in  pledge  the  amount  of  the  man-contract.
-The  man-contract  shall  be  redeemed  by  the  field-
-contract  ;  he  shall  give  in  pledge  the  amount  of  the
+The  man-contract  shall  be  redeemed  by  the  fieldcontract  ;  he  shall  give  in  pledge  the  amount  of  the
 
 field-contract.
 
 He.
 
-5  (24).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  break  the  word-contract,  how
 many  are  involved  in  his  sin l  ?
 
 Ahura  Mazda  answered:  'His  sin  makes  his
-Nabanazdistas  2  answerable  for  the 3  three  hundred-
-fold atonement.'
+Nabanazdistas  2  answerable  for  the 3  three  hundredfold atonement.'
 
-6  (26).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  break  the  hand-contract,  how
 many  are  involved  in  his  sin?
 
@@ -7215,23 +6761,18 @@ word-contract,  his  soul  shall  abide  for  three  hundred  years  in  hell'
 FARGARD    IV.  37
 
 
-7  (28).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  break  the  sheep-contract,
 how  many  are  involved  in  his  sin  ?
 
 Ahura  Mazda  answered:  'His  sin  makes  his
-Nabanazdiitas  answerable  for  the  seven  hundred-
-fold atonement  V
+Nabanazdiitas  answerable  for  the  seven  hundredfold atonement  V
 
-8  (30).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  break  the  ox-contract,  how
 many  are  involved  in  his  sin  ?
 
 Ahura  Mazda  answered :  'His  sin  makes  his
-Nabanazdiitas  answerable  for  the  eight  hundred-
-fold atonement 2/
+Nabanazdiitas  answerable  for  the  eight  hundredfold atonement 2/
 
-9  (32).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  break  the  man-contract,  how
 many  are  involved  in  his  sin  ?
 
@@ -7239,7 +6780,6 @@ Ahura  Mazda  answered  :  'His  sin  makes  his
 Nabanazdiitas  answerable  for  the  nine  hundred-fold
 atonement  V
 
-10  (34).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  break  the  field-contract,  how
 many  are  involved  in  his  sin  ?
 
@@ -7249,7 +6789,6 @@ atonement  V
 
 lid.
 
-11  (36).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  break  the  word-contract,
 what  is  the  penalty  that  he  shall  pay  ?
 
@@ -7271,7 +6810,6 @@ hell'  (Gr.  Rav.  1.  1.)
 with  the  Aspahe-astra,  three  hundred  stripes  with
 the  Sraosho-/£arana  V
 
-12  (39).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  break  the  hand-contract,
 what  is  the  penalty  that  he  shall  pay  ?
 
@@ -7279,7 +6817,6 @@ Ahura  Mazda  answered :  '  Six  hundred  stripes
 with  the  Aspahe-a^tra,  six  hundred  stripes  with
 the  Sraosho-/£arana  V
 
-13  (42).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  break  the  sheep-contract,
 what  is  the  penalty  that  he  shall  pay  ?
 
@@ -7287,7 +6824,6 @@ Ahura  Mazda  answered  :  '  Seven  hundred  stripes
 with  the  Aspahe-aitra,  seven  hundred  stripes  with
 the  Sraosho-^arana  3.'
 
-14  (45).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  break  the  ox-contract,  what
 is  the  penalty  that  he  shall  pay?
 
@@ -7295,7 +6831,6 @@ Ahura  Mazda  answered  :  '  Eight  hundred  stripes
 with  the  Aspahe-a-stra,  eight  hundred  stripes  with
 the  Sraosho-Z'aranaV
 
-15  (48).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  break  the  man-contract,  what
 is  the  penalty  that  he  shall  pay  ?
 
@@ -7303,7 +6838,6 @@ Ahura  Mazda  answered  :  '  Nine  hundred  stripes
 with  the  Aspahe-a.stra,  nine  hundred  stripes  with
 the  Sraosh.6-/t,arana 5.'
 
-16  (51).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  break  the  field-contract,  what
 is  the  penalty  that  he  shall  pay  ?
 
@@ -7333,7 +6867,6 @@ smite  him,  it  is  an  Avaoirista.  If  a  man  actually
 smite  a  man  with  evil  aforethought,  it  is  an  Aredus.
 Upon  the  fifth  Aredus3  he  becomes  a  Peshotanu4.
 
-18  (58).  O  Maker  of  the  material  world,  thou
 Holy  One !  He  that  committeth  an  Agerepta,
 what   penalty   shall   he   pay  ?
 
@@ -7348,8 +6881,7 @@ fifteen  stripes  with  the  Sraosho-/£arana.
 
 1  Five  tanafuhrs,  or  6000  dirhems.
 
-2  In  this  paragraph  are  defined  the  first  three  of  the  eight  out-
-rages with  which  the  rest  of  the  Fargard  deals.  Only  these  three
+2  In  this  paragraph  are  defined  the  first  three  of  the  eight  outrages with  which  the  rest  of  the  Fargard  deals.  Only  these  three
 are  defined,  because  they  are  designated  by  technical  terms.  We
 subjoin  the  definitions  of  them  found  in  a  Sanskrit  translation  of
 a  Patet  (Paris,  Bibl.  Nat.  f.  B.  5,  154),  in  which  their  etymological
@@ -7367,11 +6899,7 @@ within  three  days.
 
 3  Viz.  on  the  sixth  commission  of  it,  as  appears  from  §  28.
 
-4  He  shall  receive  two  hundred  stripes,  or  shall  pay  1200  dir-
-hems (see  Introd.  V,  19).
-
-
-4-0  VENDiDAD.
+4  He  shall  receive  two  hundred  stripes,  or  shall  pay  1200  dirhems (see  Introd.  V,  19).
 
 
 Aspahe-astra,  thirty  stripes  with  the  Sraosho-^arana;
@@ -7383,8 +6911,7 @@ the  Aspahe-a^tra,  ninety  stripes  with  the  Sraosho-
 /£arana.'
 
 20  (6y).  If  a  man  commit  an  Agerepta  for  the
-eighth  time,  without  having  atoned  for  the  pre-
-ceding, what  penalty  shall  he  pay?
+eighth  time,  without  having  atoned  for  the  preceding, what  penalty  shall  he  pay?
 
 Ahura  Mazda  answered:  'He  is  a  Peshotanu:
 two  hundred  stripes  with  the  Aspahe-aitra,  two
@@ -7397,7 +6924,6 @@ Ahura  Mazda  answered  :  '  He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-a^tra,  two
 hundred  stripes  with  the  Sraosho-^arana.'
 
-22  (73).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  commit  an  AvaoirLsta,  what
 penalty  shall  he  pay  ?
 
@@ -7426,16 +6952,13 @@ stripes  with  the  Sraosho-/£arana ;  on  the  sixth,
 ninety  stripes  with  the  Aspahe-a.stra,  ninety  stripes
 with  the  Sraosho-^'arana.'
 
-24  (76).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  commit  an  AvaoirLsta  for  the
-seventh  time,  without  having  atoned  for  the  pre-
-ceding, what  penalty  shall  he  pay?
+seventh  time,  without  having  atoned  for  the  preceding, what  penalty  shall  he  pay?
 
 Ahura  Mazda  answered :  'He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-artra,  two
 hundred  stripes  with  the  Sraosho-^arana.'
 
-2 5  (77)-  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  commit  an  Avaoirista,  and
 refuse  to  atone  for  it,  what  penalty  shall  he  pay  ?
 
@@ -7443,7 +6966,6 @@ Ahura  Mazda  answered :  'He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-aitra,  two
 hundred  stripes  with  the  Sraosho-^arana.'
 
-26  (79).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  commit  an  Aredus,  what
 penalty  shall  he  pay?
 
@@ -7469,22 +6991,16 @@ penalty  shall  he  pay?
 A
 
 
-42  VENDIDAD.
-
-
 Ahura  Mazda  answered  :  '  He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-a.?tra,  two
 hundred  stripes  with  the  Sraosho-/£arana.'
 
-29  (82).  O  Maker  of  the  material  world,  thou
-Holy  One  !  If  a  man  commit  an  Aredu^,  and  re-
-fuse to  atone  for  it,  what  penalty  shall  he  pay?
+Holy  One  !  If  a  man  commit  an  Aredu^,  and  refuse to  atone  for  it,  what  penalty  shall  he  pay?
 
 Ahura  Mazda  answered  :  '  He  is  a  Peshotanu :
 two  hundred  stripes  with  the  Aspahe-a.stra,  two
 hundred  stripes  with  the  Sraosho-/£arana.'
 
-30  (85).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  smite  another  and  hurt  him
 sorely,  what  is  the  penalty  that  he  shall  pay?
 
@@ -7493,8 +7009,7 @@ with  the  Aspahe-astra,  thirty  stripes  with  the
 Sraosh6-/£arana ;  the  second  time,  fifty  stripes  with
 the  Aspahe-a-stra,  fifty  stripes  with  the  Sraosho-
 /'arana ;  the  third  time,  seventy  stripes  with  the
-Aspahe-aitra,  seventy  stripes  with  the  Sraosho-
-z^arana ;  the  fourth  time,  ninety  stripes  with  the
+Aspahe-aitra,  seventy  stripes  with  the  Sraoshoz^arana ;  the  fourth  time,  ninety  stripes  with  the
 Aspahe-aitra,  ninety  stripes  with  the  Sraosho-
 /£arana.'
 
@@ -7513,7 +7028,6 @@ Ahura  Mazda  answered  :  '  He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-a^tra,  two
 hundred  stripes  with  the  Sraosh6-/£arana.'
 
-34  (93).  O  Maker  of  the  material  world,  thou
 Holy  One  !     If  a   man   smite   another  so   that  the
 
 
@@ -7525,8 +7039,7 @@ pay?
 
 Ahura  Mazda  answered  :  '  Fifty  stripes  with  the
 Aspahe-a.stra,  fifty  stripes  with  the  Sraosho-Z'arana  ;
-the  second  time,  seventy  stripes  with  the  Aspahe-
-aitra,  seventy  stripes  with  the  Sraosho-^arana ;  the
+the  second  time,  seventy  stripes  with  the  Aspaheaitra,  seventy  stripes  with  the  Sraosho-^arana ;  the
 third  time,  ninety  stripes  with  the  Aspahe-astra,
 ninety  stripes  with  the  Sraosh6-/£arana.'
 
@@ -7538,7 +7051,6 @@ Ahura  Mazda  answered :  '  He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-astra,  two
 hundred  stripes  with  the  Sraosho-/C'arana.'
 
-36  (96).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  smite  another  so  that  the
 blood  comes,  and  if  he  refuse  to  atone  for  it,  what  is
 the  penalty  that  he  shall  pay  ?
@@ -7547,7 +7059,6 @@ Ahura  Mazda  answered  :  'He  is  a  Peshotanu :
 two  hundred  stripes  with  the  Aspahe-a^tra,  two
 hundred  stripes  with  the  Sraosho-/£arana.'
 
-37  (99)-  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  smite  another  so  that  he
 breaks  a  bone,  what  is  the  penalty  that  he  shall
 pay  ?
@@ -7565,13 +7076,9 @@ is  the  penalty  that  he  shall  pay  ?
 Ahura  Mazda  answered :    '  He   is   a    Peshotanu :
 
 
-44  VENDiDAD.
-
-
 two    hundred   stripes   with    the    Aspahe-astra,    two
 hundred  stripes  with  the  Sraosho-/£arana/
 
-39  (104).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  smite  another  so  that  he
 breaks  a  bone,  and  if  he  refuse  to  atone  for  it,  what
 is  the  penalty  that  he  shall  pay  ?
@@ -7580,7 +7087,6 @@ Ahura  Mazda  answered  :  '  He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-a^tra,  two
 hundred  stripes  with  the  Sraoshd-/§arana.'
 
-40  (106).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  smite  another  so  that  he
 gives  up  the  ghost,  what  is  the  penalty  that  he  shall
 pay?
@@ -7597,7 +7103,6 @@ Ahura  Mazda  answered  :  '  He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-aitra,  two
 hundred  stripes  with  the  Sraosho-^arana.'
 
-42  (112).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  smite  another  so  that  he
 gives  up  the  ghost,  and  if  he  refuse  to  atone  for  it,
 what  is  the  penalty  that  he  shall  pay  ?
@@ -7632,8 +7137,7 @@ he  sit  up,  giving  thanks  and  praying  to  the  gods,
 that  he  may  be  increased  in  knowledge  :  he  shall
 rest  during  the  middle  part  of  the  day,  during  the
 middle  part  of  the  night,  and  thus  shall  he  continue
-until  he  can  say  all  the  words  which  former  Aethra-
-paitis  5  have  said.
+until  he  can  say  all  the  words  which  former  Aethrapaitis  5  have  said.
 
 Ill  b.
 
@@ -7660,9 +7164,6 @@ class  (the  man-contract,  see  p.  35,  n.  4).
 5  A  teaching  priest  (Parsi  Herbad).
 
 3  Doubtful.     This  clause  is  intended,  as  it  seems,  against  false
-
-
-46  VENDIDAD.
 
 
 O  Spitama  Zarathustra !  let  no  one  make  bold  to
@@ -7694,8 +7195,7 @@ which  the  penalty  for  a  false  oath  is  described.
 1  '  In  Persia  there  are  prizes  given  by  the  king  to  those  who
 have  most  children'  (Herod.  I,  136).  'He  who  has  no  child,  the
 bridge  (of  paradise)  shall  be  barred  to  him.  The  first  question  the
-angels  there  will  ask  him  is,  whether  he  has  left  in  this  world  a  sub-
-stitute for  himself;  if  he  answers,  No,  they  will  pass  by  and  he  will
+angels  there  will  ask  him  is,  whether  he  has  left  in  this  world  a  substitute for  himself;  if  he  answers,  No,  they  will  pass  by  and  he  will
 stay  at  the  head  of  the  bridge,  full  of  grief  and  sorrow'  (Saddar  18  ;
 Hyde  19).  The  primitive  meaning  of  this  belief  is  explained  by
 Brahmanical  doctrine ;  the  man  without  a  son  falls  into  hell,  because
@@ -7760,9 +7260,6 @@ The  water  before  which  the  oath  is  taken  contains  some  incense,
 brimstone,  and  one  danak  of  molten  gold  (Gr.  Rav.  101).
 
 9  Doubtful.     Possibly  'bright.'
-
-
-48  VENDIDAD.
 
 
 water  with  an  appeal  unto  Rashnu  x  and  a  lie  unto
@@ -7834,8 +7331,7 @@ a  bird  takes  flight  from  the  top  of  the  mountain
 down  into  the  depths  of  the  vale,  and  it  eats  up  the
 corpse  of  the  dead  man  there  :  then,  up  it  flies  from
 the  depths  of  the  vale  to  the  top  of  the  mountain  :
-it  flies  to  some  one  of  the  trees  there,  of  the  hard-
-wooded  or  the  soft-wooded,  and  upon  that  tree  it
+it  flies  to  some  one  of  the  trees  there,  of  the  hardwooded  or  the  soft-wooded,  and  upon  that  tree  it
 vomits,  it  deposits  dung,  it  drops  pieces  from  the
 corpse.
 
@@ -7861,8 +7357,7 @@ Peshotanus 2,  shut    out   from    the  way  of  holiness,
 
 1  For  defiling  the  fire  by  bringing  dead  matter  into  it,  see  Farg.
 VII,  25  seq.  The  Vendidad  Sadah  has  here,  '  Put  ye  only  proper
-and  well-examined  fuel  (in  the  fire).'  For  the  purification  of  un-
-clean wood,  see  Farg.  VII,  28  seq.
+and  well-examined  fuel  (in  the  fire).'  For  the  purification  of  unclean wood,  see  Farg.  VII,  28  seq.
 
 2  'People  guilty  of  death'  (Comra.;  cf.  Introd.  V,  19).
 
@@ -7872,15 +7367,11 @@ clean wood,  see  Farg.  VII,  28  seq.
 So
 
 
-VENDIDAD.
-
-
 whose  souls  will  cry  and  wail  *  !  so  numberless  are
 the  beings  that  die  upon  the  face  of  the  earth.'
 
 lb.
 
-5  (15).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Here  is  a  man  watering  a  corn  field.
 The  water  streams  down  the  field;  it  streams  again;
 it  streams  a  third  time  ;  and  the  fourth  time,  a  dog,
@@ -7903,15 +7394,13 @@ the  beings  that  die  upon  the  face  of  the  earth.'
 
 II  a.
 
-8  (23).  O  Maker  of  the  material  world,  thou
 Holy  One  !     Does  water  kill 3  ?
 
 1  After  their  death,  '  When  the  soul,  crying  and  beaten  off,  is
 driven  far  away  from  paradise'  (Comra.)  Possibly,  'Whose  soul
 shall  fly  (from  paradise)  amid  howls '  (cf.  Farg.  XIII,  8).
 
-2  For  defiling  the  earth  and  the  water :  '  If  a  man  wants  to  irri-
-gate a  field,  he  must  first  look  after  the  water-channel,  whether
+2  For  defiling  the  earth  and  the  water :  '  If  a  man  wants  to  irrigate a  field,  he  must  first  look  after  the  water-channel,  whether
 
 there  is  dead  matter  in  it  or  not If  the  water,  unknown  to
 
@@ -7934,7 +7423,6 @@ chance  brings  him  here,  or  brings  him  there5.'
 
 lib.
 
-9  (29).  O  Maker  of  the  material  world,  thou
 Holy  One  !     Does  fire  kill  ?
 
 Ahura  Mazda  answered :  '  Fire  kills  no  man  :
@@ -7945,7 +7433,6 @@ brings  him  there6.'
 
 III.
 
-10  (34).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  the  summer  is  past  and  the  winter
 has  come,  what  shall  the  worshippers  of  Mazda
 do7?
@@ -7975,9 +7462,6 @@ that  he  departs  '  (Comm.)
 7  In  case  a  man  dies  during  the  snowy  season,  while  it  is  diffi-
 
 E  2
-
-
-52  vendIdad.
 
 
 Ahura  Mazda  answered :  '  In  every  house,  in
@@ -8045,7 +7529,6 @@ corpse.'
 
 IV.
 
-15  (49).  O  Maker  of  the  material  world,  thou
 Holy  One !  Is  it  true  that  thou,  Ahura  Mazda,
 sendest  the  waters  from  the  sea  Vouru-kasha l
 down  with  the  wind  and  with  the  clouds  ?
@@ -8053,8 +7536,7 @@ down  with  the  wind  and  with  the  clouds  ?
 16  (51).  That  thou,  Ahura  Mazda,  makest  them
 flow  down  to  the  corpses2?  that  thou,  Ahura  Mazda,
 makest  them  flow  down  to  the  Dakhmas  ?  that  thou,
-Ahura  Mazda,  makest  them  flow  down  to  the  un-
-clean remains  ?  that  thou,  Ahura  Mazda,  makest
+Ahura  Mazda,  makest  them  flow  down  to  the  unclean remains  ?  that  thou,  Ahura  Mazda,  makest
 them  flow  down  to  the  bones  ?  and  that  then  thou,
 Ahura  Mazda,  makest  them  flow  back  unseen  ?  that
 thou,  Ahura  Mazda,  makest  them  flow  back  to  the
@@ -8064,8 +7546,7 @@ sea   Puitika  3  ?
 
 1  The  sea  above,  the  clouds.     See  Introd.  IV,  11.
 
-2  Zoroaster  seems  to  wonder  that  Ormazd  fears  so  little  to  in-
-fringe his  own  laws  by  defiling  waters  with  the  dead.  In  a  Ravaet,
+2  Zoroaster  seems  to  wonder  that  Ormazd  fears  so  little  to  infringe his  own  laws  by  defiling  waters  with  the  dead.  In  a  Ravaet,
 he  asks  him  bluntly  why  he  forbids  men  to  take  corpses  to  the
 water,  while  he  himself  sends  rain  to  the  Dakhmas  (Gr.  Rav.  125).
 
@@ -8080,12 +7561,8 @@ which  have  been  defiled  here  below,  and  which  we  see  falling  again
 to  us  pure  and  clean  ? '
 
 
-54  VENDiDAD.
-
-
 as  thou  hast  said,  O  righteous  Zarathurtra !  I,
-Ahura  Mazda,  send  the  waters  from  the  sea  Vouru-
-kasha  down  with  the  wind  and  with  the  clouds.
+Ahura  Mazda,  send  the  waters  from  the  sea  Vourukasha  down  with  the  wind  and  with  the  clouds.
 
 1 8  (55).  'I,  Ahura  Mazda,  make  them  stream
 down  to  the  corpses;  I,  Ahura  Mazda,  make  them
@@ -8099,8 +7576,7 @@ the  sea  Puitika  1.
 19  (56).  'The  waters  stand  there  boiling,  boiling
 up  in  the  heart  of  the  sea  Puitika,  and,  when
 cleansed  there,  they  run  back  again  from  the  sea
-Puitika  to  the  sea  Vouru-kasha,  towards  the  well-
-watered  tree 2,  whereon  grow  the  seeds  of  my
+Puitika  to  the  sea  Vouru-kasha,  towards  the  wellwatered  tree 2,  whereon  grow  the  seeds  of  my
 plants  of  every  kind  [by  hundreds,  by  thousands,  by
 hundreds  of  thousands].
 
@@ -8118,8 +7594,7 @@ the  tide  (Bund.  XIII).
 
 2  The  tree  of  all  seeds  (Harvisptokhm),  which  grows  in  the
 middle  of  the  sea  Vouru-kasha ;  the  seeds  of  all  plants  are  on  it.
-There  is  a  godlike  bird,  the  Sinamru,  sitting  on  that  tree ;  when-
-ever he  flies  off  the  tree,  there  grow  out  of  it  a  thousand  boughs ;
+There  is  a  godlike  bird,  the  Sinamru,  sitting  on  that  tree ;  whenever he  flies  off  the  tree,  there  grow  out  of  it  a  thousand  boughs ;
 whenever  he  alights  on  it,  there  break  a  thousand  boughs,  the  seeds
 of  which  are  scattered  about,  and  rained  down  on  the  earth  by
 TLrtar  (Tutrya),  the  rain-god  (Yt.  XII,  17;  Minokhired  LXII,  37
@@ -8141,7 +7616,6 @@ life,  the  greatest  good  3,  that  purity  that  is  procured
 by  the  law  of  Mazda  to  him  who  cleanses  his  own
 self  with  good  thoughts,  words,  and  deeds  V
 
-22  (68).  O  Maker  of  the  material  world,  thou
 Holy  One!  This  law,  this  fiend-destroying  law
 of  Zarathustra,  by  what  greatness,  goodness,  and
 fairness  is  it  great,  good,  and  fair  above  all  other
@@ -8150,8 +7624,7 @@ utterances  ?
 23(69).  Ahura  Mazda  answered:  'As  much
 above  all  other  floods  as  is  the  sea  Vouru-kasha,
 so  much  above  all  other  utterances  in  greatness,
-goodness,  and  fairness  is  this  law,  this  fiend-
-destroying  law  of  Zarathiutra.
+goodness,  and  fairness  is  this  law,  this  fienddestroying  law  of  Zarathiutra.
 
 24  (71).  'As  much  as  a  great  stream  flows  swifter
 than  a  slender  rivulet,  so  much  above  all  other
@@ -8164,8 +7637,7 @@ small  plants  it  overshadows,  so  high  above  all  other
 
 1  The  cleansing,  the  purification.
 
--  '  When  Zoroaster  saw  that  man  is  able  to  escape  sin  by  per-
-forming good  works,  he  was  filled  with  joy'  (Comm.)
+-  '  When  Zoroaster  saw  that  man  is  able  to  escape  sin  by  performing good  works,  he  was  filled  with  joy'  (Comm.)
 
 3  As  uncleanness  is   nothing  less  than   a  form  of  death  (see
 
@@ -8175,9 +7647,6 @@ Introd.  V,  3).
 to  the  prescriptions  of  the  law.'
 
 5  '  The  royal  cypress  above  small  herbs '  (Comm.)
-
-
-56  VENdIdAD.
 
 
 utterances  in  greatness,  goodness,  and  fairness  is  this
@@ -8190,8 +7659,7 @@ of  Mazda.
 
 '  [Therefore],  when  the  Ratu  has  been  applied  to  \
 when  the  Sraosha-varez  has  been  applied  to 2 ;
-whether  for  a  draona-service3  that  has  been  under-
-taken 4,  or  for  one  that  has  not  been  undertaken  5 ;
+whether  for  a  draona-service3  that  has  been  undertaken 4,  or  for  one  that  has  not  been  undertaken  5 ;
 whether  for  a  draona  that  has  been  offered  up,  or
 for  one  that  has  not  been  offered  up ;  whether  for  a
 draona  that  has  been  shared,  or  for  one  that  has
@@ -8217,8 +7685,7 @@ would  be  the  priest  who  pronounces  the  favete  Unguis,  the
 .srausha/;  in  the  other  case  he  would  be  the  priest  who  wields
 the  Sraosho-/£arana  (see  Introd.  V,  19).
 
-3  A  service  in  honour  of  any  of  the  angels,  or  of  deceased  per-
-sons, in  which  small  cakes,  called  draona,  are  consecrated  in  their
+3  A  service  in  honour  of  any  of  the  angels,  or  of  deceased  persons, in  which  small  cakes,  called  draona,  are  consecrated  in  their
 names,  and  then  given  to  those  present  to  eat.
 
 4  When  it  ought  not  to  be.
@@ -8239,7 +7706,6 @@ and  ever  V
 
 VI.
 
-27  (82).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  there  be  a  number  of  men  resting  in
 the  same  place,  on  adjoining  carpets,  on  adjoining
 pillows,  be  there  two  men  near  one  another,  or  five,
@@ -8266,18 +7732,13 @@ whole  of  it  (Saddar  29).
 
 2  Cf.  Farg.  Ill,  21.  3  See  Introd.  V,  3.
 
-4  In  opposition  to  the  case  when  the  dead  one  is  an  Ashe-
-maogha  (§  35),  as  no  Nasu  issues  then.
+4  In  opposition  to  the  case  when  the  dead  one  is  an  Ashemaogha  (§  35),  as  no  Nasu  issues  then.
 
 5  Literally,  '  If  she  falls  on  the  eleventh,  she  denies  the  tenth.'
 The  word  if  refers  to  the  supposition  that  there  are  eleven  persons
 at  least,  and  the  words  '  she  denies  the  tenth '  must  be  understood
-to  mean  '  she  defiles  to  the  tenth.'  In  the  Ravaets,  the  A  vesta  dis-
-tinctions are  lost,  and  the  defiling  power  of  the  Nasu  is  the  same,
+to  mean  '  she  defiles  to  the  tenth.'  In  the  Ravaets,  the  A  vesta  distinctions are  lost,  and  the  defiling  power  of  the  Nasu  is  the  same,
 whatever  may  have  been  the  rank  of  the  dead :   '  If  there  be  a
-
-
-58  VENDIDAD.
 
 
 '  If  the  dead  one  be  a  warrior,  the  Drug-  Nasu
@@ -8344,7 +7805,6 @@ falls  on  the  second  and  defiles  the  next.
 O  Spitama  Zarathuitra !  she  falls  on  the  next,  she
 defiles  the  next.'
 
-2,3  (108).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  it  be  an  Urupi  dog1,  how  many  of
 the  creatures  of  the  good  spirit  does  it  directly
 defile,  how  many  does  it  indirectly  defile  in  dying  ?
@@ -8355,9 +7815,7 @@ the  creatures  of  the  good  spirit,  but  him  who  smites
 and  kills  it ;  to  him  the  uncleanness  clings  for  ever
 and  ever  V
 
-35  (113).  O  Maker  of  the  material  world,  thou
-Holy  One  !  If  the  dead  one  be  a  wicked,  two-
-footed  ruffian,  an  ungodly  Ashemaogha  3,  how  many
+Holy  One  !  If  the  dead  one  be  a  wicked,  twofooted  ruffian,  an  ungodly  Ashemaogha  3,  how  many
 of  the  creatures  of  the  good  spirit  does  he  directly
 defile,  how  many  does  he  indirectly  defile  in  dying  ?
 
@@ -8384,12 +7842,8 @@ the  tree  wherever  the  frog  would  slip  in  (Bund.  XVIII ;  cf.  Orm.
 Ahr.  §  146).
 
 
-60  VENDIDAD
-
-
 legged  ruffian,  that  ungodly  Ashemaogha,  directly
-defiles  the  creatures  of  the  good  spirit,  and  indi-
-rectly defiles  them.
+defiles  the  creatures  of  the  good  spirit,  and  indirectly defiles  them.
 
 37(119).  'Whilst  alive  he  smites  the  water1;
 whilst  alive  he  blows  out  the  fire  2  ;  whilst  alive  he
@@ -8397,8 +7851,7 @@ carries  off  the  cow 3 ;  whilst  alive  he  smites  the
 faithful  man  with  a  deadly  blow,  that  parts  the  soul
 from  the  body4 ;  not  so  will  he  do  when  dead.
 
-38  (120).  'Whilst  alive,  indeed,  O  Spitama  Zara-
-thuitra!  that  wicked,  two-legged  ruffian,  that  un-
+38  (120).  'Whilst  alive,  indeed,  O  Spitama  Zarathuitra!  that  wicked,  two-legged  ruffian,  that  un-
 godly Ashemaogha,  never  ceases  depriving  the
 faithful  man  of  his  food,  of  his  clothing,  of  his
 house,  of  his  bed,  of  his  vessels 5 ;  not  so  will  he
@@ -8406,7 +7859,6 @@ do  when  dead.'
 
 VII.
 
-39  (122).  O  Maker  of  the  material  world,  thou
 Holy  One!  When  into  our  houses  here  below  we
 have  brought  the  fire,  the  baresma,  the  cups,  the
 Haoma,  and  the  mortar6,  O  holy  Ahura  Mazda!  if
@@ -8420,7 +7872,6 @@ mortar ;  they  shall  take  the  dead  one  out  to  the
 proper  place7  whereto,  according  to  the  law,  corpses
 must  be  brought,  to  be  devoured  there.'
 
-41  (128).    O    Maker   of  the  material  world,  thou
 
 1  By  defiling  it  (a  capital  crime ;  see  Introd.  V,  8,  and  Farg.
 VII,  25).
@@ -8441,19 +7892,16 @@ Holy  One !     When  shall  they  bring  back  the   fire
 into  the  house  wherein  the  man  has  died  ?
 
 42  (129).  Ahura  Mazda  answered:  'They  shall
-wait  for  nine  nights  in  winter,  for  a  month  in  sum-
-mer, and  then  they  shall  bring  back  the  fire  to
+wait  for  nine  nights  in  winter,  for  a  month  in  summer, and  then  they  shall  bring  back  the  fire  to
 the  house  wherein  the  man  has  died.'
 
-43  (131).  O  Maker  of  the  material  world,  thou
 Holy  One !  And  if  they  shall  bring  back  the  fire
 to  the  house  wherein  the  man  has  died,  within  the
 nine  nights,  or  within  the  month,  what  penalty
 shall  they  pay?
 
 44  (134).  Ahura  Mazda  answered:  'They  shall  be
-Peshotanus  :  two  hundred  stripes  with  the  Aspahe-
-a^tra,  two  hundred  stripes  with  the  Sraosho-ztarana.'
+Peshotanus  :  two  hundred  stripes  with  the  Aspahea^tra,  two  hundred  stripes  with  the  Sraosho-ztarana.'
 
 VIII.
 
@@ -8462,8 +7910,7 @@ Holy  One!  If  in  the  house  of  a  worshipper  of
 Mazda  there  be  a  woman  with  child,  and  if  being  a
 month  gone,  or  two,  or  three,  or  four,  or  five,  or  six,
 or  seven,  or  eight,  or  nine,  or  ten  months  gone,  she
-bring  forth  a  still-born  child,  what  shall  the  wor-
-shippers of  Mazda  do  ?
+bring  forth  a  still-born  child,  what  shall  the  worshippers of  Mazda  do  ?
 
 46  (139).  Ahura  Mazda  answered:  'The  place  in
 that  Mazdean  house  whereof  the  ground  is  the
@@ -8472,7 +7919,6 @@ by  flocks  and  herds,  by  Fire,  the  son  of  Ahura
 Mazda,  by  the  consecrated  bundles  of  baresma,  and
 by  the  faithful ; ' —
 
-47  (143).  O  Maker  of  the  material  world,  thou
 Holy  One !  How  far  from  the  fire  ?  How  far  from
 the  water  ?  How  far  from  the  consecrated  bundles
 of  baresma  ?     How  far  from  the  faithful  ?
@@ -8493,7 +7939,6 @@ Mazda  erect  an  enclosure  \  and  therein  shall  they
 establish  her  with  food,  therein  shall  they  establish
 her  with  clothes.'
 
-50  (147).  O  Maker  of  the  material  world,  thou
 Holy  One!  What  is  the  food  that  the  woman  shall
 first  take  ?
 
@@ -8508,7 +7953,6 @@ without  pap4;  she  may  take  cooked  meat  without
 water,  bread  without  water,  and  wine  without
 water 5.'
 
-53  (154).  O  Maker  of  the  material  world,  thou
 Holy  One  !  How  long  shall  she  remain  so  ?  How
 long  shall  she  live  only  on  that  sort  of  meat,  bread,
 and  wine  ?
@@ -8556,7 +8000,6 @@ Then,  when  the  nine  nights  have  gone,  she  shall
 wash  her  body,  and  cleanse  her  clothes  with  gomez
 and  water  2.'
 
-57(1 60) 3.  O  Maker  of  the  material  world,  thou
 Holy  One !  Can  those  clothes,  when  once  washed
 and  cleansed,  ever  be  used  either  by  a  Zaotar,  or  by
 a  Havanan,  or  by  an  Atare-vakhsha,  or  by  a  Fra-
@@ -8582,9 +8025,6 @@ her  clothes  with  water  until  the  forty-first  day '  (Gr.  Rav.  568).
 3  §§  57-62  =Farg.  VII,  17-22.
 
 
-64  VENDIDAD.
-
-
 Rathwiskar,    or   by   a    Sraosha-varez 1,    or   by   any
 priest,  warrior,  or  husbandman  2  ?
 
@@ -8593,19 +8033,16 @@ those  clothes,  even  when  washed  and  cleansed,  be
 used  either  by  a  Zaotar,  or  by  a  Havanan,  or  by  an
 Atare-vakhsha,  or  by  a  Frabaretar,  or  by  an  Aberert',
 or  by  an  Asnatar,  or  by  a  Rathwiskar,  or  by  a
-Sraosha-varez,  or  by  any  priest,  warrior,  or  husband-
-man.
+Sraosha-varez,  or  by  any  priest,  warrior,  or  husbandman.
 
 59  (164).  '  But  if  there  be  in  a  Mazdean  house  a
 woman  who  is  in  her  sickness,  or  a  man  who  has
 become  unfit  for  work 3,  and  who  must  sit  in  the
 place  of  infirmity4,  those  clothes  shall  serve  for  their
-coverings  and  for  their  sheets 5,  until  they  can  with-
-draw and  move  their  hands 6.
+coverings  and  for  their  sheets 5,  until  they  can  withdraw and  move  their  hands 6.
 
 1  These  are  the  names  of  the  different  priests  who  were  engaged
-in  the  sacrifices.  The  Havanan  strains  the  Haoma ;  the  Atare-
-vakhsha  kindles  the  fire ;  the  Frabaretar  brings  all  that  is  necessary
+in  the  sacrifices.  The  Havanan  strains  the  Haoma ;  the  Atarevakhsha  kindles  the  fire ;  the  Frabaretar  brings  all  that  is  necessary
 for  the  sacrifice  (Anquetil) ;  the  Abered  brings  the  water  (Anquetil
 and  Zand-Pahlavi  Glossary,  21);  the  Asnatar  cleanses  the  vessels.
 Those  are  the  priests  who  are  entrusted  with  the  preparatory  or
@@ -8672,8 +8109,7 @@ shroud,  and  even  the  dead  shall  rise  against  him  and  seize  him
 by  the  skirt,  and  say,  That  shroud  which  thou  madest  for  me  has
 become  food  for  worms  and  vermin '  (Saddar  1 2).  The  Greeks
 entertained  quite  different  ideas,  and  dressed  the  dead  in  their
-gayest  attire,  as  if  for  a  feast.  Yet  the  difference  is  only  in  appear-
-ance ;  for,  after  the  fourth  day,  when  the  soul  is  in  heaven,  then
+gayest  attire,  as  if  for  a  feast.  Yet  the  difference  is  only  in  appearance ;  for,  after  the  fourth  day,  when  the  soul  is  in  heaven,  then
 rich  garments  are  offered  up  to  it,  which  it  will  wear  in  its  celestial
 life  (Saddar  87,  Hyde  64).
 
@@ -8688,9 +8124,6 @@ Aogemaide  28);  something  more  than  the  'visible  darkness.'
 
 
 A  A
-
-
-66  VENDIDAD.
 
 
 dismal  realm,  you  are  delivered  by  your  own  doings,
@@ -8749,8 +8182,7 @@ FARGARD    VI.  6"]
 within  the  year,  the  ground  whereon  dogs  or  men
 have  died,  what  is  the  penalty  that  they  shall  pay?
 
-5  (9).  Ahura  Mazda  answered  :  '  They  are  Pesho-
-tanus  :  two  hundred  stripes  with  the  Aspahe-astra,
+5  (9).  Ahura  Mazda  answered  :  '  They  are  Peshotanus  :  two  hundred  stripes  with  the  Aspahe-astra,
 two  hundred  stripes  with  the  Sraosho-/£arana  V
 
 6  (10).  O  Maker  of  the  material  world,  thou  Holy
@@ -8767,13 +8199,11 @@ One  !  If  they  shall  not  look  on  the  ground  for  any
 bones,  hair,  flesh,  dung,  or  blood  that  may  be  there,
 what  is  the  penalty  that  they  shall  pay?
 
-9  (15).  Ahura  Mazda  answered:  'They  are  Pesho-
-tanus  :  two  hundred  stripes  with  the  Aspahe-astra,
+9  (15).  Ahura  Mazda  answered:  'They  are  Peshotanus  :  two  hundred  stripes  with  the  Aspahe-astra,
 two  hundred  stripes  with  the  Sraosho-/6arana.'
 
 II.
 
-10  (16).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  shall  throw  on  the  ground
 a  bone  of  a  dead  dog,  or  of  a  dead  man,  as  large  as
 the  top  joint  of  the  little  finger,  and  if  grease  or
@@ -8794,10 +8224,6 @@ facto.
 F    2
 
 
-68  VENDIDAD.
-
-
-12  (20).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  throw  on  the  ground
 a  bone  of  a  dead  dog,  or  of  a  dead  man,  as  large  as
 the  top  joint  of  the  fore-finger,  and  if  grease  or
@@ -8808,7 +8234,6 @@ shall  he  pay?
 with  the  Aspahe-astra,  fifty  stripes  with  the  Sraosho-
 /£arana.'
 
-14(25).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  shall  throw  on  the  ground  a
 bone  of  a  dead  dog,  or  of  a  dead  man,  as  large  as
 the  top  joint  of  the  middle  finger,  and  if  grease  or
@@ -8819,7 +8244,6 @@ shall  he  pay?
 with  the  Aspahe-astra,  seventy  stripes  with  the
 Sraosho-/£arana.'
 
-16  (30).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  throw  on  the  ground  a
 bone  of  a  dead  dog,  or  of  a  dead  man,  as  large  as  a
 finger  or  as  a  rib,  and  if  grease  or  marrow  flow  from
@@ -8829,32 +8253,27 @@ it  on  to  the  ground,  what  penalty  shall  he  pay?
 with  the  Aspahe-astra,  ninety  stripes  with  the
 Sraosho-/£arana.'
 
-18  (35).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  throw  on  the  ground  a
 bone  of  a  dead  dog,  or  of  a  dead  man,  as  large  as  two
 fingers  or  as  two  ribs,  and  if  grease  or  marrow  flow
 from  it  on  to  the  ground,  what  penalty  shall  he  pay  ?
 
-19  (39).  Ahura  Mazda  answered:  '  He  is  a  Pesho-
-tanu  :  two  hundred  stripes  with  the  Aspahe-astra,
+19  (39).  Ahura  Mazda  answered:  '  He  is  a  Peshotanu  :  two  hundred  stripes  with  the  Aspahe-astra,
 two  hundred  stripes  with  the  Sraosho-/w'arana.'
 
 
 FARGARD    VI.  69
 
 
-20  (40).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  throw  on  the  ground
 a  bone  of  a  dead  dog,  or  of  a  dead  man,  as  large  as
 an  arm-bone  or  as  a  thigh-bone,  and  if  grease  or
-marrow  flow  from  it  on  to  the  ground,  what  penalty-
-shall  he  pay  ?
+marrow  flow  from  it  on  to  the  ground,  what  penaltyshall  he  pay  ?
 
 2 1  (44).  Ahura  Mazda  answered  ;  '  Four  hundred
 stripes  with  the  Aspahe-a^tra,  four  hundred  stripes
 with  the  Sraosho-iarana.'
 
-22  (45).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  shall  throw  on  the  ground
 a  bone  of  a  dead  dog,  or  of  a  dead  man,  as  large  as
 a  man's  skull,  and  if  grease  or  marrow  flow  from  it
@@ -8864,7 +8283,6 @@ on  to  the  ground,  what  penalty  shall  he  pay  ?
 stripes  with  the  Aspahe-a^tra,  six  hundred  stripes
 with  the  Sraosho-^arana.'
 
-24  (50).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  shall  throw  on  the  ground
 the  whole  body  of  a  dead  dog,  or  of  a  dead  man,
 and  if  grease  or  marrow  flow  from  it  on  to  the
@@ -8876,14 +8294,12 @@ the  Sraosho-Z'arana.'
 
 III.
 
-26  (54).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  worshipper  of  Mazda,  walking,  or
 running,  or  riding,  or  driving,  come  upon  a  corpse  in
 a  stream  of  running  water,  what  shall  he  do  ?
 
 27(56).  Ahura  Mazda  answered:  'Taking  off
-his  shoes,  putting  off  his  clothes,  boldly,  O  Zara-
-thustra !  he  shall  enter  the  river,  and  take  the  dead
+his  shoes,  putting  off  his  clothes,  boldly,  O  Zarathustra !  he  shall  enter  the  river,  and  take  the  dead
 out  of  the  water  ;  he  shall  go  clown  into  the  water
 
 
@@ -8896,7 +8312,6 @@ YEN  DI  DAD.
 ankle-deep,   knee-deep,   waist-deep,  or  a  man  s  full
 depth,  till  he  can  reach  the  dead  body1.'
 
-28  (61).  O  Maker  of  the  material  world,  thou
 Holy  One!  If,  however,  the  body  be  already  falling
 to  pieces  and  rotting,  what  shall  the  worshipper  of
 Mazda  do  ?
@@ -8908,7 +8323,6 @@ the  dry  ground ;  no  sin  attaches  to  him  for  any
 bone,  hair,  grease,  flesh,  dung,  or  blood  that  may
 drop  back  into  the  water.'
 
-30  (65).  O  Maker  of  the  material  world,  thou
 Holy  One  !  What  part  of  the  water  in  a. pond  does
 the  Dru^  Nasu  defile  with  infection,  pollution,  and
 uncleanness  ?
@@ -8926,8 +8340,6 @@ according  as  they  are  able  ;  and  after  the  corpse  has
 been  taken  out  and  the  water  has  been  drawn  off,
 the  rest  of  the  water  is  clean,  and  both  cattle  and
 men  may  drink  of  it  at  their  pleasure,  as  before.'
-
-"(72).    O    Maker    of  the    material   world,   thou
 
 
 1  '  If  he  is  able  to  draw  out  the  corpse  and  does  so,  it  is  a  pious
@@ -8958,7 +8370,6 @@ drawn  off,  the  rest  of  the  water  is  clean,  and  both
 cattle  and  men  may  drink  of  it  at  their  pleasure,
 as  before.'
 
-36  (74).  O  Maker  of  the  material  world,  thou
 Holy  One!  What  part  of  a  sheet  of  snow  or  hail
 does  the  Dru^f  Nasu  defile  with  infection,  pollution,
 and  uncleanness  ?
@@ -8975,15 +8386,11 @@ and  the  snow  or  the  hail  has  melted,  the  water  is
 clean,  and  both  cattle  and  men  may  drink  of  it  at
 their  pleasure,  as  before.'
 
-39  (79)-  O  Maker  of  the  material  world,  thou
 Holy  One  !     What  part  of  the  water  of  a  running
 
 1  All  the  water  in  the  well  is  unclean, '  as  the  well  has  the  length
 and  breadth  of  a  man's  stature'  (Brouillons  d'Anquetil,  VendiVad,
 p.  206).
-
-
-72  VENDIDAD.
 
 
 stream   does  the  Dru^*  Nasu  defile  with  infection,
@@ -8994,8 +8401,7 @@ down  the  stream,  nine  steps  up  the  stream,  six  steps
 across.  As  long  as  the  corpse  has  not  been  taken
 out  of  the  water,  so  long  shall  the  water  be  unclean
 and  unfit  to  drink.  They  shall,  therefore,  take  the
-corpse  out  of  the  water,  and  lay  it  down  on  the  dry-
-ground.
+corpse  out  of  the  water,  and  lay  it  down  on  the  dryground.
 
 41  (83).  'After  the  corpse  has  been  taken  out  and
 the  stream  has  flowed  three  times1,  the  water  is  clean,
@@ -9004,7 +8410,6 @@ pleasure,  as  before.'
 
 IV.
 
-42  (84).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Can  the  Haoma  that  has  been  touched
 by  the  corpse  of  a  dead  dog,  or  the  corpse  of  a  dead
 man,  be  made  clean  again  ?
@@ -9021,8 +8426,6 @@ may  drink  of  its  juice  at  their  pleasure,  as  before.'
 
 V.
 
-44  (92).    O    Maker   of  the    material  world,  thou
-
 
 1  When  three  waves  have  passed.
 
@@ -9036,8 +8439,7 @@ FARGARD    VI.  73
 Holy  One  !     Whither   shall  we  bring,  where  shall
 we  lay  the  bodies  of  the  dead,  O  Ahura  Mazda  ?
 
-45  (93).  Ahura  Mazda  answered :  '  On  the  high-
-est summits  \  where  they  know  there  are  always
+45  (93).  Ahura  Mazda  answered :  '  On  the  highest summits  \  where  they  know  there  are  always
 corpse-eating  dogs  and  corpse-eating  birds,  O  holy
 Zarathuitra !
 
@@ -9057,12 +8459,10 @@ be  Peshotanus :  two  hundred  stripes  with  the
 Aspahe-artra,  two  hundred  stripes  with  the  Sraosho-
 >£arana.'
 
-49  (101).  O  Maker  of  the  material  world,  thou
 Holy  One2 !  Whither  shall  we  bring,  where  shall  we
 lay  the  bones  of  the  dead,  O  Ahura  Mazda  ?
 
-50(102).  Ahura  Mazda  answered:  'The  wor-
-shippers of  Mazda  shall  erect  a  building 3  out  of  the
+50(102).  Ahura  Mazda  answered:  'The  worshippers of  Mazda  shall  erect  a  building 3  out  of  the
 reach  of  the  dog,  of  the  fox,  and  of  the  wolf,  and
 wherein  rain-water  cannot  stay4.
 
@@ -9078,9 +8478,6 @@ corpse.
 
 4  The  rain-water  that  washes  away  the  remains  of  corpses  (V,
 16  seq.)  must  not  remain  on  the  Dakhmas  (cf.  Comm.  ad  VIII,  7),
-
-
-74  VENDIDAD.
 
 
 5 1  (105).  'Such  a  building  shall  they  erect,  if  they
@@ -9188,13 +8585,9 @@ or  eagle)  when  its  shadow  passes  over  the  body  (Coram,  ad  §  2  ;  c
 
 0  '  By  poison '  (Coram.)
 
-7  Literally,  'by  men;'  that  is  to  say,  put  to  death  by  the  com-
-munity according  to  law  (Comra.)
+7  Literally,  'by  men;'  that  is  to  say,  put  to  death  by  the  community according  to  law  (Comra.)
 
 1  If  he  has  strangled  himself.     Or  possibly,  '  by  want,'
-
-
-76  VENDIDAD.
 
 
 5  (6).  Ahura  Mazda  answered  :  '  At  the  next
@@ -9261,16 +8654,12 @@ and  for  their  sheets2.'   .  .   .
 
 III.
 
-10  (26).  O  Maker  of  the  material  world,  thou
 Holy  One!  What  part  of  his  bedding3  and  pillow
-does  the  Druf  Nasu  defile  with  infection,  unclean-
-ness,  and  pollution  ?
+does  the  Druf  Nasu  defile  with  infection,  uncleanness,  and  pollution  ?
 
 11  (27).  Ahura  Mazda  answered:  'The  Dru£*
-Nasu  defiles  with  infection,  uncleanness,  and  pollu-
-tion the  upper  sheet  and  the  inner  garment 4.'
+Nasu  defiles  with  infection,  uncleanness,  and  pollution the  upper  sheet  and  the  inner  garment 4.'
 
-12  (28).  O  Maker  of  the  material  world,  thou
 Holy  One !  Can  that  garment  be  made  clean,  O
 holy  Ahura  Mazda  !  that  has  been  touched  by  the
 carcase  of  a  dog  or  the  corpse  of  a  man  ?
@@ -9317,16 +8706,14 @@ times,  they  shall  wash  it  with  water  six  times,  and
 afterwards  they  shall  expose  it  to  the  air  for  six
 months  at  the  window  of  the  house.
 
-16  (37).  'The  spring  named  Ardvi  Sura,  O  Spi-
-tama  Zarathiutra !  that  spring  of  mine,  purifies  the
+16  (37).  'The  spring  named  Ardvi  Sura,  O  Spitama  Zarathiutra !  that  spring  of  mine,  purifies  the
 seed  in  man,  the  fruit  in  a  woman's  womb,  the  milk
 in  a  woman's  breast 3.'
 
 i74(4i).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Can  those  clothes,  when  once  washed
 and  cleansed,  ever  be  used  either  by  a  Zaotar,  or  by
-a  Havanan,  or  by  an  Atare-vakhsha,  or  by  a  Fra-
-baretar,  or  by  an  Abere^,  or  by  an  Asnatar,  or  by  a
+a  Havanan,  or  by  an  Atare-vakhsha,  or  by  a  Frabaretar,  or  by  an  Abere^,  or  by  an  Asnatar,  or  by  a
 Rathwiskar,  or  by  a  Sraosha-varez,  or  by  any  priest,
 warrior,  or  husbandman  ?
 
@@ -9356,15 +8743,13 @@ Atare-vakhsha,  or  by  a  Frabaretar,  or  by  an  Aberetf',
 A
 
 or  by  an  Asnatar,  or  by  a  Rathwrskar,  or  by  a
-Sraosha-varez,  or  by  any  priest,  warrior,  or  hus-
-bandman.
+Sraosha-varez,  or  by  any  priest,  warrior,  or  husbandman.
 
 19  (45).  '  But  if  there  be  in  a  Mazdean  house  a
 woman  who  is  in  her  sickness,  or  a  man  who  has
 become  unfit  for  work,  and  who  must  sit  in  the
 place  of  infirmity,  those  clothes  shall  serve  for  their
-coverings  and  for  their  sheets,  until  they  can  with-
-draw and  move  their  hands.
+coverings  and  for  their  sheets,  until  they  can  withdraw and  move  their  hands.
 
 20  (49).  '  Ahura  Mazda,  indeed,  does  not  allow
 us  to  waste  anything  of  value  that  we  may  have,
@@ -9385,7 +8770,6 @@ your  own  souls,  O  sinners  ! '
 
 IV.
 
-2  3  (59)-  O  Maker  of  the  material  world,  thou
 Holy  One  !  Can  he  be  clean  again  who  has  eaten
 of  the  carcase  of  a  dog  or  of  the  carcase  of  a  man  x  ?
 
@@ -9406,7 +8790,6 @@ thenceforth,  for  ever  and  ever  V
 
 V.
 
-25  (65).  O  Maker  of  the  material  world,  thou
 Holy  One!  Can  he  be  clean  again,  O  holy  Ahura
 Mazda!  who  has  brought  a  corpse  with  filth  into  the
 waters,  or  unto  the  fire,  and  made  either  unclean  ?
@@ -9420,8 +8803,7 @@ drought.
 
 27(69).  'Those  wicked  ones  it  is,  those  men
 turned  to  Nasus,  that  increase  most  the  power  of
-the  winter,  produced  by  the  fiends,  the  cattle-
-killing,    thick-snowing,    overflowing,    the     piercing,
+the  winter,  produced  by  the  fiends,  the  cattlekilling,    thick-snowing,    overflowing,    the     piercing,
 
 1  His  house,  as  he  is  assimilated  to  a  devouring  Khrafstra.
 
@@ -9453,7 +8835,6 @@ thenceforth,  for  ever  and  ever  K
 
 VI.
 
-28  (72).  O  Maker  of  the  material  world,  thou
 Holy  One !  Can  the  wood  be  made  clean,  O  holy
 Ahura  Mazda!  whereunto  dead  matter  has  been
 brought  from  a  dead  dog,  or  from  a  dead  man  ?
@@ -9477,8 +8858,7 @@ fire),  winter  grows  colder,  and  summer  grows  warmer'  (Saddar  72,
 Hyde  80).
 
 2  Whoever  shall  do  that  deed,  shall  pay  for  it  in  this  world  and
-in  the  next ;  they  shall  flay  his  body  in  the  presence  of  the  as-
-sembly, they  shall  tear  him  limb  from  limb,  and  his  corpse  shall  be
+in  the  next ;  they  shall  flay  his  body  in  the  presence  of  the  assembly, they  shall  tear  him  limb  from  limb,  and  his  corpse  shall  be
 thrown  away  to  dogs  and  ravens,  .  .  .  and  when  his  soul  comes
 to  the  other  world,  he  shall  suffer  tortures  from  the  devs  (Gr.  Rav.
 p.  123).
@@ -9497,12 +8877,8 @@ fingers,  Vd.  II,  22,  Comm.)
 [4]  G
 
 
-82  VENDIDAD.
-
-
 30  (78).  '  But  if  the  Nasu  has  already  been
-smitten1  by  the  corpse-eating  dogs,  or  by  the  corpse-
-eating  birds,  they  shall  lay  down,  apart  on  the
+smitten1  by  the  corpse-eating  dogs,  or  by  the  corpseeating  birds,  they  shall  lay  down,  apart  on  the
 ground,  the  wood  on  the  length  of  a  Frarathni  all
 around  the  dead  matter,  if  the  wood  be  dry ;  on  the
 length  of  a  Frabazu  2  all  around,  if  it  be  wet ;  then
@@ -9515,10 +8891,8 @@ the  ground,  according  as  the  wood  is  dry  or  wet ;
 according  as  it  is  hard  or  soft;  they  shall  sprinkle  it
 once  over  with  water,  and  it  shall  be  clean.'
 
-32  (83).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Can  the  corn  or  the  fodder  be  made
-clean,  O  holy  Ahura  Mazda !  whereunto  dead  mat-
-ter has  been  brought  from  a  dead  dog,  or  from  a
+clean,  O  holy  Ahura  Mazda !  whereunto  dead  matter has  been  brought  from  a  dead  dog,  or  from  a
 dead  man?
 
 33  (84).    Ahura  Mazda  answered:  'It  can,  O  holy
@@ -9552,8 +8926,7 @@ around,   if  it   be  wet;    then   they  shall  sprinkle   it
 once  over  with  water,  and  it  shall  be  clean.
 
 34  (89).  '  But  if  the  Nasu  has  already  been
-smitten1  by  the  corpse-eating  dogs,  or  by  the  corpse-
-eating  birds,  they  shall  lay  down,  apart  on  the
+smitten1  by  the  corpse-eating  dogs,  or  by  the  corpseeating  birds,  they  shall  lay  down,  apart  on  the
 ground,  the  corn  on  the  length  of  a  Frabazu  all
 around  the  dead  matter,  if  the  corn  be  dry  ;  on  the
 length  of  a  Vibazu  2  all  around,  if  it  be  wet ;  then
@@ -9562,8 +8935,7 @@ shall  be  clean.
 
 35  (92)-  ;  This  is  the  quantity  of  corn  around  the
 dead  matter,  that  they  shall  lay  down,  apart  on  the
-ground,  according  as  the  corn  is  dry  or  wet ;  accord-
-ing as  it  is  sown  or  not  sown  ;  according  as  it  is
+ground,  according  as  the  corn  is  dry  or  wet ;  according as  it  is  sown  or  not  sown  ;  according  as  it  is
 reaped  or  not  reaped  ;  according  as  it  is  ground  or
 not  ground  3 ;  according  as  it  is  (kneaded)  4  or  not
 kneaded;  they  shall  sprinkle  it  once  over  with  water,
@@ -9571,14 +8943,12 @@ and  it  shall  be  clean.'
 
 Vila.
 
-36  (94).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  worshipper  of  Mazda  want  to
 practice  the  art  of  healing,  on  whom  shall  he  first
 prove  his  skill  ?  on  worshippers  of  Mazda  or  on
 worshippers  of  the  Daevas  ?
 
-37  (96).  Ahura  Mazda  answered:  'On  worship-
-pers   of  the   Daevas    shall    he  first  prove  himself,
+37  (96).  Ahura  Mazda  answered:  'On  worshippers   of  the   Daevas    shall    he  first  prove  himself,
 
 
 1  The  same  observation  applies  to  the  first  words  of  §§  33,  34,
@@ -9595,9 +8965,6 @@ from  the  Pahlavi  translation,  to  be  wanting.
 
 
 G  2
-
-
-84  VENDIDAD.
 
 
 rather  than  on  worshippers  of  Mazda.  If  he  treat
@@ -9638,8 +9005,7 @@ VII  b.
 Parsis  as  the  designation  of  a  penalty,  consisting  in  the  amputation
 of  six  fingers  (Asp.)
 
-2  '  Some  say,  One  who  has  been  qualified  may  become  dis-
-qualified; one  who  has  been  disqualified  shall  never  become
+2  '  Some  say,  One  who  has  been  qualified  may  become  disqualified; one  who  has  been  disqualified  shall  never  become
 qualified '  (Comm.  ad  §  43).
 
 
@@ -9668,8 +9034,7 @@ value  for  that  of  an  ox  of  low  value  ;  he  shall  heal
 an  ox  of  low  value  for  the  value  of  a  sheep;  he  shall
 heal  a  sheep  for  the  value  of  a  meal  of  meat 4.
 
-44  (118).  '  If  several  healers  offer  themselves  to-
-gether, O  Spitama  Zarathustra !  namely,  one  who
+44  (118).  '  If  several  healers  offer  themselves  together, O  Spitama  Zarathustra !  namely,  one  who
 heals  with  the  knife,  one  who  heals  with  herbs,  and
 one  who  heals  with  the  holy  word  5}  it  is  this  one
 
@@ -9685,8 +9050,7 @@ street.'
 
 4  Cf.  the  tariff  of  fees  for  the  cleanser,  Farg.  IX,  37  seq.
 
-5  'By  spells'  (Comm.;  cf.  Odyssea  XIX,  457).  This  classifi-
-cation was  not  unknown  to  Asclepios :  he  relieved  the  sick  '  now
+5  'By  spells'  (Comm.;  cf.  Odyssea  XIX,  457).  This  classification was  not  unknown  to  Asclepios :  he  relieved  the  sick  '  now
 with  caressing  spells,  now  with  soothing  drink  or  balsam,  now  with
 the  knife'  (Pindaros,  Pyth.  Ill,  51).
 
@@ -9699,7 +9063,6 @@ the  faithful  V
 
 VIII.
 
-45  (122).  O  Maker  of  the  material  world,  thou
 Holy  One  !  How  long  after  the  corpse  of  a  dead
 man  has  been  laid  down  on  the  ground,  clothed
 with  the  light  of  heaven  and  beholding  the  sun,  is
@@ -9711,7 +9074,6 @@ for  a  year,  clothed  with  the  light  of  heaven,  and
 beholding  the  sun,  then  the  ground  is  itself  again,
 O  holy  Zarathuitra 3 ! '
 
-47  (124).  O  Maker  of  the  material  world,  thou
 Holy  One !  How  long  after  the  corpse  of  a  dead
 man  has  been  buried  in  the  earth,  is  the  earth  itself
 again  ?
@@ -9721,7 +9083,6 @@ corpse  of  a  dead  man  has  lain  buried  in  the  earth
 for  fifty  years,  O  Spitama  Zarathiutra!  then  the
 earth  is  itself  again4.'
 
-49  (126).  O  Maker  of  the  material  world,  thou
 Holy  One!     How  long  after  the  corpse  of  a  dead
 
 1  '  It  may  be  that  he  may  not  relieve,  but  he  will  not  harm '
@@ -9731,8 +9092,7 @@ heals  with  the  holy  word ;  for  he  is  the  best  healer  among  all
 healers,  who  heals  by  the  holy  word ;  this  one  it  is  who  will  drive
 away  sickness  from  the  body  of  the  faithful.'  The  treatment  by
 the  holy  word  seems  not  to  consist  only  in  the  recitation  of  spells,
-but  the  spells  must  be  accompanied  by  the  ceremony  of  the  Ba-
-rashnum  (see  Farg.  XXII  and  Introd.  V,  14).
+but  the  spells  must  be  accompanied  by  the  ceremony  of  the  Barashnum  (see  Farg.  XXII  and  Introd.  V,  14).
 
 2  Restored  to  the  purity  of  its  nature,  and  fit  to  till ;  as  it
 remains  Nasu  till  that  time.
@@ -9748,8 +9108,7 @@ ground,  whereon  the  Dakhma  stands,  itself  again?
 50(127).  Ahura  Mazda  answered:  'Not  until
 the  dust  of  the  corpse,  O  Spitama  Zarathustra !
 has  mingled  with  the  dust  of  the  earth  \  Urge
-every  one  in  the  material  world,  O  Spitama  Zara-
-thiutra !  to  pull  down  Dakhmas 2.
+every  one  in  the  material  world,  O  Spitama  Zarathiutra !  to  pull  down  Dakhmas 2.
 
 51  (129).  '  He  who  should  pull  down  Dakhmas,
 even  so  much  thereof  as  the  size  of  his  own  body,
@@ -9805,8 +9164,7 @@ their  hundreds  and  their  thousands,  their  thousands
 and  their  tens  of  thousands,  their  tens  of  thousands
 and  their  myriads  of  myriads  ?
 
-56  (138).  Ahura  Mazda  answered:  'Those  Dakh-
-mas  that  are  built  upon  the  face  of  the  earth,  O  Spi-
+56  (138).  Ahura  Mazda  answered:  'Those  Dakhmas  that  are  built  upon  the  face  of  the  earth,  O  Spi-
 tama  Zarathustra !  and  whereon  are  laid  the  corpses
 of  dead  men,  that  is  the  place  where  the  fiends  are,
 that  is  the  place  whereon  the  troops  of  fiends  rush
@@ -9817,8 +9175,7 @@ hundreds,  their  hundreds  and  their  thousands,  their
 thousands  and  their  tens  of  thousands,  their  tens  of
 thousands  and  their  myriads  of  myriads.
 
-57  (140).  'On  those  Dakhmas,  O  Spitama  Zara-
-thujtra !  those  fiends  take  food  and  void  filth,  (eating
+57  (140).  'On  those  Dakhmas,  O  Spitama  Zarathujtra !  those  fiends  take  food  and  void  filth,  (eating
 up  corpses)  in  the  same  way  as  you,  men,  in  the
 material  world,  eat  cooked  meal  and  cooked  meat.
 It  is,  as  it  were,  the  smell  of  their  feeding  that  you
@@ -9845,7 +9202,6 @@ thighs,  on  their  hands,  on  their  plaited  hair  V
 
 IX.
 
-60  4  (151).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  in  the  house  of  a  worshipper  of
 Mazda  there  be  a  woman  with  child,  and  if  being  a
 month  gone,  or  two,  or  three,  or  four,  or  five,  or
@@ -9860,7 +9216,6 @@ by  flocks  and  herds,  by  Fire,  the  son  of  Ahura
 Mazda,  by  the  consecrated  bundles  of  baresma,  and
 by  the  faithful ;' —
 
-62  (158).  O  Maker  of  the  material  world,  thou
 Holy  One !  How  far  from  the  fire  ?  How  far  from
 the  water  ?  How  far  from  the  consecrated  bundles
 of  baresma  ?     How  far  from  the  faithful  ?
@@ -9878,7 +9233,6 @@ bringing  sickness  (cf.  Farg.  XXI,  2).
 seats  of  infection,  of  which  the  action  becomes  worse  and  stronger
 when  people  live  in  impiety  and  vices.
 
-3  Doubtful.
 
 4  §§6o-69=Farg.V,  45-54.
 
@@ -9886,15 +9240,11 @@ when  people  live  in  impiety  and  vices.
 A
 
 
-90  VENDIDAD
-
-
 64  (160).  'On  that  place  shall  the  worshippers  of
 Mazda  erect  an  enclosure,  and  therein  shall  they
 establish  her  with  food,  therein  shall  they  establish
 her  with  clothes.'
 
-65  (162).  O  Maker  of  the  material  world,  thou
 Holy  One !  What  is  the  food  that  the  woman  shall
 first  take  ?
 
@@ -9908,7 +9258,6 @@ without  pap ;  she  may  take  cooked  meat  without
 water,  bread  without  water,  and  wine  without
 water.'
 
-68  (169).  O  Maker  of  the  material  world,  thou
 Holy  One!  How  long  shall  she  remain  so  ?  How
 long  shall  she  live  only  on  that  sort  of  meat,  bread,
 and  wine  ?
@@ -9921,7 +9270,6 @@ wash  her  body,  she  shall  wash  her  clothes,  with
 gomez  and  water,  by  the  nine  holes,  and  thus  shall
 she  be  clean/
 
-70  (172).  O  Maker  of  the  material  world,  thou
 Holy  One!  But  if  fever  befall  her  unclean  body,  if
 that  twofold  plague,  hunger  and  thirst,  befall  her,
 may  she   be  allowed  to  drink  water  ?
@@ -9937,19 +9285,16 @@ FARGARD    VII.  9  I
 
 ledge1,  she  shall  drink  of  the  strength-giving  water.
 But  you,  worshippers  of  Mazda,  fix  ye  the  penalty
-for  it.  The  Ratu  being  applied  to,  the  Sraosha-
-varez  being  applied  to  2,  shall  prescribe  the  penalty
+for  it.  The  Ratu  being  applied  to,  the  Sraoshavarez  being  applied  to  2,  shall  prescribe  the  penalty
 to  be  paid  z!
 
 72  (181).    What  is  the  penalty  to  be  paid?
 Ahura  Mazda  answered  :  '  The  deed  is  that  of  a
 
-Peshotanu  :  two  hundred  stripes  with  the  Aspahe-
-astra,  two  hundred  stripes  with  the  Sraosho-^arana  V
+Peshotanu  :  two  hundred  stripes  with  the  Aspaheastra,  two  hundred  stripes  with  the  Sraosho-^arana  V
 
 X.
 
-73  (183).  O  Maker  of  the  material  world,  thou
 Holy  One!  Can  the  eating  vessels  be  made  clean
 that  have  been  touched  by  the  carcase  of  a  dog,
 or  by  the  corpse  of  a  man  ?
@@ -9985,9 +9330,6 @@ Patet  for  her  fault  before  the  Dastur'  (Old  Rav.  98  b).
 A
 
 
-92  VENDIDAD.
-
-
 earth,  you  shall  wash  them  thrice  with  water,  and
 they  shall  be  clean.
 
@@ -10006,7 +9348,6 @@ are  unclean  for  ever  and  ever  V
 
 XI.
 
-76  (189).  O  Maker  of  the  material  world,  thou
 Holy  One!  Can  the  cow  be  made  clean  that  has
 eaten  of  the  carcase  of  a  dog,  or  of  the  corpse  of
 a  man  ?
@@ -10096,23 +9437,18 @@ downright  into  the  jaws  of  the  venomous  snake '  (Nirangistan,  in
 the  Zand-Pahlavi  Glossary,  p.  76).
 
 
-94  vendIdad.
-
-
 2  (4).  Ahura  Mazda  answered  :  '  They  shall  look
 for  a  Dakhma,  they  shall  look  for  a  Dakhma  all
 around.  If  they  find  it  easier  to  remove  the  dead
 than  to  remove  the  house,  they  shall  take  out  the
-dead,  they  shall  let  the  house  stand,  and  shall  per-
-fume it  with  Urvasni,  or  Vohu-gaona,  or  Vohu-kereti,
+dead,  they  shall  let  the  house  stand,  and  shall  perfume it  with  Urvasni,  or  Vohu-gaona,  or  Vohu-kereti,
 or  Hadha-naepata,  or  any  other  sweet-smelling
 plant  \
 
 3  (8).  '  If  they  find  it  easier  to  remove  the  house
 than  to  remove  the  dead  2,  they  shall  take  away  the
 house,  they  shall  let  the  dead  lie  on  the  spot,  and
-shall  perfume  the  house  with  Urvasni,  or  Vohu-
-gaona,  or  Vohu-kereti,  or  Hadha-naepata,  or  any
+shall  perfume  the  house  with  Urvasni,  or  Vohugaona,  or  Vohu-kereti,  or  Hadha-naepata,  or  any
 other  sweet-smelling  plant.'
 
 II.
@@ -10128,8 +9464,7 @@ worshippers  of  Mazda  do  4  ?
 1  '  So,  when  a  dog  or  a  man  dies,  the  first  thing  to  do  is  to  take
 the  corpse  out  (from  the  house),  and  to  purify  the  house,  inside  and
 outside,  with  perfumes  burnt  on  the  fire '  (Coram.)  Cf.  XI,  4.
-Urvasni  is  the  rasan  plant,  a  sort  of  garlic;  Vohu-gaona,  Vohu-
-kereti,  and  Hadha-naepata  are  respectively  (according  to  Aspen-
+Urvasni  is  the  rasan  plant,  a  sort  of  garlic;  Vohu-gaona,  Vohukereti,  and  Hadha-naepata  are  respectively  (according  to  Aspen-
 diarji)  benzoin,  aloe,  and  pomegranate.
 
 2  If  the  house  is  simply  a  hut  or  a  tent.
@@ -10157,7 +9492,6 @@ the    consecrated   bundles   of  baresma,   and   by  the
 
 faithful  ;'—
 
-6  (16).  O  Maker  of  the  material  world,  thou
 Holy  One !  How  far  from  the  fire  ?  How  far
 from  the  water  ?  How  far  from  the  consecrated
 bundles  of  baresma?     How  far  from  the  faithful?
@@ -10182,18 +9516,13 @@ from  off  the  earth.
 
 10(23).  'And  when  the  birds  begin  to  fly,  the
 plants  to  grow,  the  floods  to  flow,  and  the  wind  to
-dry  up  the  waters  from  off  the  earth,  then  the  wor-
-shippers of  Mazda  shall  make  a  breach  in  the  wall
+dry  up  the  waters  from  off  the  earth,  then  the  worshippers of  Mazda  shall  make  a  breach  in  the  wall
 
 1  Vendidad  Sadah.
 
 2  In  the  similar  case  in  V,  10,  it  is  prescribed  to  isolate  the
-corpse  in  a  permanent  dead  house  (the  Zad-marg) ;  the  rule  pre-
-scribed here  seems  to  be  older,  as  it  is  now  obsolete ;  it  was
+corpse  in  a  permanent  dead  house  (the  Zad-marg) ;  the  rule  prescribed here  seems  to  be  older,  as  it  is  now  obsolete ;  it  was
 besides  less  convenient.
-
-
-96  VENDIDAD.
 
 
 of  the  house  \  and  they  shall  call  for  two  men,
@@ -10210,7 +9539,6 @@ thus :  "  Let  the  worshippers  of  Mazda  here  bring
 the  urine  wherewith  the  corpse-bearers  there  shall
 wash  their  hair  and  their  bodies ! "  '
 
-12  (32).  O  Maker  of  the  material  world,  thou
 Holy  One!  Which  is  the  urine  wherewith  the
 corpse-bearers  shall  wash  their  hair  and  their
 bodies  ?  Is  it  of  sheep  or  of  oxen  ?  Is  it  of
@@ -10238,8 +9566,7 @@ Dakhma  clothes.'
 
 4  The  Dakhma  (see  Farg.  VI,  50  seq.)
 
-5  The  priest  who  directs  the  funerals,  '  the  chief  of  the  Nasu-
-kashas'  (Comm.)
+5  The  priest  who  directs  the  funerals,  '  the  chief  of  the  Nasukashas'  (Comm.)
 
 
 FARGARD    VIII.  97
@@ -10251,7 +9578,6 @@ bodies  V
 
 III.
 
-14  (38).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Can  the  way,  whereon  the  carcases  of
 dogs  or  corpses  of  men  have  been  carried,  be  passed
 through  again  by  flocks  and  herds,  by  men  and
@@ -10278,8 +9604,7 @@ Khrafstras4.
 17  (45).  '  If  the  dog  goes  unwillingly,  they  shall
 cause  the  yellow  dog  with  four  eyes,  or  the  white
 
-1  When  back  in  the  village  they  perform  the  regular  Barash-
-num  with  consecrated  gomez  (Comm.)
+1  When  back  in  the  village  they  perform  the  regular  Barashnum  with  consecrated  gomez  (Comm.)
 
 2  See  Introd.  V,  4.
 
@@ -10288,9 +9613,6 @@ way ;  Maidyo-mah  says,  he  goes  across  it  from  side  to  side '
 (Comm.)
 
 4  Cf.  Farg.  VII,  3.
-
-
-98  VENDIDAD.
 
 
 dog  with  yellow  ears,  to  go  six  times :  through  that
@@ -10332,8 +9654,7 @@ generally  known  as  the  Ahuna  Vairya  or  Honover.  It  was  by
 reciting  it  that  Ormazd  in  his  first  conflict  with  Ahriman  drove
 him  back  to  hell  (Bund.  I).
 
-3  Of  paradise,  as  Vohu-man6  (Good  Thought)  is  the  door-
-keeper of  heaven  (cf.  Farg.  XIX,  31).
+3  Of  paradise,  as  Vohu-man6  (Good  Thought)  is  the  doorkeeper of  heaven  (cf.  Farg.  XIX,  31).
 
 
 FARGARD    VIII.  99
@@ -10363,13 +9684,11 @@ men  and  women,  and  Fire,  the  son  of  Ahura
 Mazda,  the  consecrated  bundles  of  baresma,  and
 the  faithful.
 
-1  The  worshippers  of  Mazda  may  afterwards  3  pre-
-pare meals  with  meat  and  wine  in  that  house  ;  it
+1  The  worshippers  of  Mazda  may  afterwards  3  prepare meals  with  meat  and  wine  in  that  house  ;  it
 shall  be  clean,  and  there  will  be  no  sin,  as  before.'
 
 IV.
 
-23  (65).  O  Maker  of  the  material  world,  thou
 Holy  One  !     If  a  man  shall  throw  clothes,  either  of
 
 1  When  Ahriman  broke  into  the  world  he  was  repelled  by  Atar
@@ -10396,7 +9715,6 @@ Ahura  Mazda  answered  :  '  Four  hundred  stripes
 with  the  Aspahe-artra,  four  hundred  stripes  with  the
 Sraosho-^arana.'
 
-24  (68).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  shall  throw  clothes,  either
 of  skin  or  woven,  upon  a  dead  body,  enough  to
 cover  both  legs,  what  is  the  penalty  that  he  shall
@@ -10406,7 +9724,6 @@ Ahura  Mazda  answered  :  '  Six  hundred  stripes
 with  the  Aspahe-a^tra,  six  hundred  stripes  with  the
 Sraosho-Z'arana.'
 
-25  (71).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  throw  clothes,  either  of
 skin  or  woven,  upon  a  dead  body,  enough  to  cover
 the  whole  body,  what  is  the  penalty  that  he  shall
@@ -10418,7 +9735,6 @@ Sraosho-/£arana.'
 
 V.
 
-26  (74).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  involuntarily  emits  his  seed,
 what  is  the  penalty  that  he  shall  pay  ?
 
@@ -10426,7 +9742,6 @@ Ahura  Mazda  answered :  '  Eight  hundred  stripes
 with  the  Aspahe-astra,  eight  hundred  stripes  with
 the  Sraosho->£arana.'
 
-2  7  (77)-  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  voluntarily  emits  his  seed,
 what  is  the  penalty  for  it  ?  What  is  the  atonement
 for  it  ?    What  is  the  cleansing  from  it  ?
@@ -10454,8 +9769,7 @@ to  commit  again  such  forbidden  deeds.
 29  (88).  'The  law  of  Mazda  indeed,  O  Spitama
 Zarathurtra  !  takes  away  from  him  who  confesses  it
 the  bonds  of  his  sin;  it  takes  away  (the  sin  of)
-breach  of  trust ;  it  takes  away  (the  sin  of)  mur-
-dering one  of  the  faithful ;  it  takes  away  (the  sin  of)
+breach  of  trust ;  it  takes  away  (the  sin  of)  murdering one  of  the  faithful ;  it  takes  away  (the  sin  of)
 burying  a  corpse  ;  it  takes  away  (the  sin  of)  deeds
 for  which  there  is  no  atonement ;  it  takes  away  the
 heaviest  penalties  of  sin ;  it  takes  away  any  sin  that
@@ -10463,14 +9777,12 @@ may  be  sinned.
 
 30  (95).  'In  the  same  way  the  law  of  Mazda,  O
 Spitama  Zarathurtra !  cleanses  the  faithful  from
-every  evil  thought,  word,  and  deed,  as  a  swift-
-rushing  mighty  wind  cleanses  the  plain.
+every  evil  thought,  word,  and  deed,  as  a  swiftrushing  mighty  wind  cleanses  the  plain.
 
 '  So  let  all  the  deeds  thou  doest  be  henceforth
 good,  O  Zarathu^tra !  a  full  atonement  for  thy  sin  is
 effected  by  means  of  the  law  of  Mazda  V
 
-31  (98).  O  Maker  of  the  material  world,  thou
 Holy  One!  Who  is  the  man  that  is  a  Daeva  ?
 Who  is  he  that  is  a  worshipper  of  the  Daevas  ?  that
 is  a  male  paramour  of  the  Daevas  ?  that  is  a  female
@@ -10480,13 +9792,9 @@ paramour   of  the  Daevas  ?    that    is  a  she-Daeva  ?
 1  See  Farg.  Ill,  38-42,  text  and  notes.
 
 
-102  VENDiDAD.
-
-
 that  is  in  his  inmost  self  a  Daeva  ?  that  is  in  his
 whole  beine  a  Daeva J  ?  Who  is  he  that  is  a
-Daeva  before  he  dies,  and  becomes  one  of  the  un-
-seen Daevas  after  death2  ?
+Daeva  before  he  dies,  and  becomes  one  of  the  unseen Daevas  after  death2  ?
 
 32  (102).  Ahura  Mazda  answered:  'The  man
 that  lies  with  mankind  as  man  lies  with  womankind,
@@ -10505,8 +9813,7 @@ as  mankind,  or  as  womankind 3.'
 1  The  text  has  a  Vispo-daeva,  a  curious  expression  which  comes
 from  the  time  when  daeva  still  meant '  a  god'  (see  Introd.  IV,  41).
 In  the  time  of  the  Indo-Iranian,  nay,  as  early  as  the  time  of  the
-Indo-European  religion,  it  was  the  custom,  beside  special  invoca-
-tions to  the  several  gods,  to  address  one  to  all  the  gods,  for  fear
+Indo-European  religion,  it  was  the  custom,  beside  special  invocations to  the  several  gods,  to  address  one  to  all  the  gods,  for  fear
 of  the  resentment  of  those  who  might  have  been  forgotten  or
 ignored;  thus  the  Greeks  never  failed  to  invoke  all  gods  and
 goddesses  (deols  ttSo-i  kcu  miaus) ;  in  the  same  way  the  Indian
@@ -10531,7 +9838,6 @@ FARGARD    VIII.
 
 VI.
 
-33  (107).  O  Maker  of  the  material  world,  thou
 Holy  One !  Shall  the  man  be  clean  who  has
 touched  a  corpse  that  has  been  dried  up  and  dead
 more  than  a  year  ?
@@ -10560,24 +9866,19 @@ How  so  ?
 corpse-eating  dogs,  or    by  the  corpse-eating  birds,
 
 
-1  See  Introd.  V.  This  principle  still  prevails  even  with  Musul-
-man  Persians :  '  Pour  encourir  leur  immondicite"  dans  l'attouche-
+1  See  Introd.  V.  This  principle  still  prevails  even  with  Musulman  Persians :  '  Pour  encourir  leur  immondicite"  dans  l'attouche-
 ment  des  Chretiens  et  autres  idolatres,  il  est  ndcessaire  que  s'ils  les
 touchent,  leurs  vetements  soient  mouillds.  C'est  a  cause,  disent-ils,
 qu'e"tans  sees  1'immondicit^  ne  s'attache  pas;  ....  ce  qui  est
 cause  que  dans  les  villes  ou  leurs  Mullas  et  Docteurs  ont  plus
 d'autoritd,  ils  font  par  fois  deTendre  par  leurs  Kans  que  lorsqu'il
 pleut,  les  Chrdtiens  ne  sortent  pas  de  leurs  maisons,  de  crainte
-que  par  accident,  venans  a  les  heurter,  ils  ne  soient  rendus  im-
-mondes'  (G.  du  Chinon,  p.  88  seq. ;  cf.  Chardin).
+que  par  accident,  venans  a  les  heurter,  ils  ne  soient  rendus  immondes'  (G.  du  Chinon,  p.  88  seq. ;  cf.  Chardin).
 
 '-'  See  Farg.V,  4.
 
 
 A
-
-
-104  VENDIDAD.
 
 
 he  shall  cleanse  his  body  with  gomez  and  water,  and
@@ -10593,8 +9894,7 @@ him  (thus  shall  it  be  done  and  not  otherwise)  in
 front  of  the  man5.
 
 38(121).  'The  worshippers  of  Mazda  shall  dig
-three  other  holes  6  in  the  ground,  and  he  shall  there-
-upon wash  his  body  with  gomez,  not  with  water.
+three  other  holes  6  in  the  ground,  and  he  shall  thereupon wash  his  body  with  gomez,  not  with  water.
 They  shall  then  lift  and  bring  my  dog,  they  shall
 bring  him  (thus  shall  it  be  done  and  not  otherwise)
 in  front  of  the  man.  Then  they  shall  wait  until  he
@@ -10614,8 +9914,7 @@ with  water,  not  with  gomez.
 2  If  the  Sag-did  has  not  been  performed,  the  Barashnum  is
 necessary  (see  Introd.  V,  16).
 
-3  The  first  three  holes,  which  contain  gomez.     For  the  dis-
-position of  the  holes,  see  the  following  Fargard.
+3  The  first  three  holes,  which  contain  gomez.     For  the  disposition of  the  holes,  see  the  following  Fargard.
 
 4  Three  times  ;  every  time  that  the  unclean  one  passes  from  one
 hole  to  another  (Comm.  ad  IX,  32).
@@ -10638,15 +9937,12 @@ his  body  unclean.  When  he  has  washed  his  hands
 three  times,  after  his  hands  have  been  washed,  thou
 shalt  sprinkle  with  water  the  forepart  of  his  skull.'
 
-41  (131).  O  Maker  of  the  material  world,  thou
-Holy  One  !  When  the  good  waters  reach  the  fore-
-part of  the  skull,  whereon  does  the  Dru^  Nasu
+Holy  One  !  When  the  good  waters  reach  the  forepart of  the  skull,  whereon  does  the  Dru^  Nasu
 rush  x  ?
 
 Ahura  Mazda  answered  :  '  In  front,  between  the
 brows,  the  Dru£*  Nasu  rushes.'
 
-42  (134).  O  Maker  of  the  material  world,  thou
 Holy  One!  When  the  good  waters  reach  in  front
 between  the  brows,  whereon  does  the  Dru^  Nasu
 rush  ?
@@ -10662,14 +9958,12 @@ rush  ?
 Ahura  Mazda  answered  :  '  In  front,  on  the  jaws,
 the  Dru^"  Nasu  rushes.'
 
-44  (140).  O  Maker  of  the  material  world,  thou
 Holy  One!  When  the  good  waters  reach  in  front,
 on  the  jaws,  whereon  does  the  Drug"  Nasu  rush?
 
 Ahura  Mazda  answered : .'  Upon  the  right  ear  the
 Dru^"  Nasu  rushes.'
 
-45  (143).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  right
 ear,  whereon  does  the  Dru£"  Nasu  rush  ?
 
@@ -10686,21 +9980,18 @@ I06  VENDIDAD.
 Ahura  Mazda  answered  :  '  Upon  the  left  ear  the
 Drug"  Nasu  rushes.'
 
-46  (146).  O  Maker  of  the  material  world,  thou
 Holy  One!  When  the  good  waters  reach  the  left
 ear,  whereon  does  the  Drug-  Nasu  rush  ?
 
 Ahura  Mazda  answered:  'Upon  the  right  shoulder
 the  Drug"  Nasu  rushes.'
 
-47  (149).  O  Maker  of  the  material  world,  thou
 Holy  One !  When  the  good  waters  reach  the  right
 shoulder,  whereon  does  the  Drug-  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  '  Upon  the  left  shoulder
 the  Drug-  Nasu  rushes.'
 
-48  (152).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  left
 shoulder,  whereon  does  the  Drug-  Nasu  rush  ?
 
@@ -10714,22 +10005,18 @@ arm-pit,  whereon  does  the  Drug-  Nasu  rush  ?
 Ahura  Mazda  answered:  '  Upon  the  left  arm-pit
 the  Drug*  Nasu  rushes.'
 
-50(158).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  left
 arm-pit,  whereon  does  the  Drug-  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  'In  front,  upon  the
 chest,  the  Drug-  Nasu  rushes.'
 
-51  (161).  O  Maker  of  the  material  world,  thou
 Holy  One!  When  the  good  waters  reach  the
 chest  in  front,  whereon  does  the  Drug-  Nasu
 rush  ?
 
 Ahura  Mazda  answered :  '  Upon  the  back  the
 Drug"  Nasu  rushes.'
-
-52  (164).    O  Maker  of  the  material  world,  thou
 
 
 FARGARD    VIII.  107
@@ -10741,42 +10028,36 @@ whereon  does  the  Dru^  Nasu  rush?
 Ahura  Mazda  answered  :  '  Upon  the  right  nipple
 the  Dru^"  Nasu  rushes.'
 
-53  (167).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  right
 nipple,  whereon  does  the  Dru£-  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  '  Upon  the  left  nipple
 the  Dru^-  Nasu  rushes.'
 
-54(170).  O  Maker  of  the  material  world,  thou
 Holy  One!  When  the  good  waters  reach  the  left
 nipple,  whereon  does  the  Dru^  Nasu  rush  ?
 
 Ahura  Mazda  answered:  'Upon  the  right  rib  the
 Dru^  Nasu  rushes.'
 
-55  (173).  O  Maker  of  the  material  world,  thou
 Holy  One !  When  the  good  waters  reach  the  right
 rib,  whereon  does  the  Druf  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  '  Upon  the  left  rib  the
 Dru^"  Nasu  rushes.'
 
-56(176).  O  Maker  of  the  material  world,  thou
 Holy  One!  When  the  good  waters  reach  the  left
 rib,  whereon  does  the  Dru£"  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  'Upon  the  right  hip  the
 Dru£"  Nasu  rushes.'
 
-57  (179).  O  Maker  of  the  material  world,  thou
 Holy  One !  When  the  good  waters  reach  the  right
 hip,  whereon  does  the  Druf  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  '  Upon  the  left  hip  the
 Dru£"  Nasu  rushes.'
 
-58  (182).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  left
 hip,  whereon  does  the  Druf  Nasu  rush  ?
 
@@ -10791,49 +10072,41 @@ man,  thou  shalt  sprinkle  him  first  behind,  then
 before ;  if  the  unclean  one  be  a  woman,  thou  shalt
 sprinkle  her  first  before,  then  behind.
 
-59  (187).  O  Maker  of  the  material  world,  thou
 Holy  One !  When  the  good  waters  reach  the
 sexual  parts,  whereon  does  the  Dru^"  Nasu  rush  ?
 
 Ahura  Mazda  answered:  'Upon  the  right  thigh
 the  Dru^  Nasu  rushes.'
 
-60  (190).  O  Maker  of  the  material  world,  thou
 Holy  One !  When  the  good  waters  reach  the
 right  thigh,  whereon  does  the  Dru^  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  '  Upon  the  left  thigh
 the  Drii^  Nasu  rushes.'
 
-61  (193).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  left
 thigh,  whereon  does  the  Dru^  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  '  Upon  the  right  knee
 the  Dru£"  Nasu  rushes.'
 
-62  (196).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  right
 knee,  whereon  does  the  Dru^  Nasu  rush?
 
 Ahura  Mazda  answered :  '  Upon  the  left  knee  the
 Dru^  Nasu  rushes.'
 
-63  (199).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  left
 knee,  whereon  does  the  Dru£-  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  '  Upon  the  right  leg  the
 Dru^  Nasu  rushes.'
 
-64  (202).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  right
 leg,  whereon  does  the  Dru^  Nasu  rush?
 
 Ahura  Mazda  answered  :  '  Upon  the  left  leg  the
 Dru^  Nasu  rushes/
-
-65  (205).    O  Maker  of  the    material  world,  thou
 
 
 FARGARD    VIII.  1 09
@@ -10845,28 +10118,24 @@ leg,  whereon  does  the  Dru^  Nasu  rush  ?
 Ahura  Mazda  answered  :  '  Upon  the  right  ankle
 the  Dru^  Nasu  rushes.'
 
-66  (208).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  right
 ankle,  whereon  does  the  Dru£*  Nasu  rush?
 
 Ahura  Mazda  answered  :  '  Upon  the  left  ankle
 the  Dru^  Nasu  rushes.'
 
-67  (211).  O  Maker  of  the  material  world,  thou
 Holy  One !  When  the  good  waters  reach  the  left
 ankle,  whereon  does  the  Druf  Nasu  rush  ?
 
 Ahura  Mazda  answered  :  '  Upon  the  right  instep
 the  Dru^-  Nasu  rushes.'
 
-68  (214).  O  Maker  of  the  material  world,  thou
 Holy  One  !  When  the  good  waters  reach  the  right
 instep,  whereon  does  the  Druf  Nasu  rush  ?
 
 Ahura  Mazda  answered :  '  Upon  the  left  instep
 the  Dru^"  Nasu  rushes.'
 
-69  (217).  O  Maker  of  the  material  world,  thou
 Holy  One!  When  the  good  waters  reach  the  left
 instep,  whereon  does  the  Dru£-  Nasu  rush  ?
 
@@ -10919,10 +10188,8 @@ living  world  of  the  holy  spirit 2 !  "  ']
 
 VIII.
 
-73  (229).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  worshippers  of  Mazda,  walking,  or
-running,  or  riding,  or  driving,  come  upon  a  corpse-
-burning  fire,  whereon  a  corpse  is  being  cooked  or
+running,  or  riding,  or  driving,  come  upon  a  corpseburning  fire,  whereon  a  corpse  is  being  cooked  or
 roasted,  what  shall  they  do  ?
 
 74  (233).  Ahura  Mazda  answered  :  '  They  shall
@@ -10949,8 +10216,7 @@ fire,  and  they  shall  separate  and  disperse  it,  that  it
 may  die  e>ut  the  sooner.
 
 77  (245).  'They  shall  lay  down  a  second  bundle
-on  the  ground,  a  Vitasti  away  from  the  corpse-
-burning  fire,  and  they  shall  separate  and  disperse
+on  the  ground,  a  Vitasti  away  from  the  corpseburning  fire,  and  they  shall  separate  and  disperse
 it,  that  it  may  die  out  the  sooner.
 
 '  They  shall  lay  down  a  third  bundle  on  the
@@ -10971,16 +10237,12 @@ the  Nasa-burner,  the  highwayman,  the  Sodomite,  and  the  criminal
 taken  in  the  deed '  (Comm.)
 
 2  In  a  hole  dug  for  that  purpose ;  such  is  at  least  the  custom
-nowadays.  The  ceremony  seems  to  be  an  imitation  of  the  Ba-
-rashnum.  The  unclean  fire,  represented  by  the  nine  bundles,
+nowadays.  The  ceremony  seems  to  be  an  imitation  of  the  Barashnum.  The  unclean  fire,  represented  by  the  nine  bundles,
 passes  through  the  nine  holes,  as  the  unclean  man  does  (see  above,
 §  37  seq.  and  Farg.  IX,  12  seq.),  and  leaves  at  each  of  them  some
 of  the  uncleanness  it  has  contracted.
 
 3  A  span  of  twelve  fingers.
-
-
-112  VENDIDAD.
 
 
 '  They  shall  lay  down  a  fifth  bundle  on  the
@@ -11010,8 +10272,7 @@ may  die  out  the  sooner.
 
 79,  80  (246).  '  If  a  man  shall  then  piously  bring
 unto  the  fire,  O  Spitama  Zarathiutra!  wood  of
-Urvasna,  or  Vohu-gaona,  or  Vohu-kereti,  or  Hadha-
-naepata,  or  any  other  sweet-smelling  wood,  whereso-
+Urvasna,  or  Vohu-gaona,  or  Vohu-kereti,  or  Hadhanaepata,  or  any  other  sweet-smelling  wood,  whereso-
 ever the  wind  shall  bring  the  perfume  of  the  fire,
 thereunto  Fire,  the  son  of  Ahura  Mazda,  shall  go
 and  kill  thousands  of  unseen  Daevas,  thousands  of
@@ -11020,10 +10281,7 @@ of  Yatus  and  Pairikas  V
 
 IX.
 
-81  (251).  O  Maker  of  the  material  world,  thou
 Holy  One!     If  a  man  bring  a  corpse-burning  fire
-
-1  See  Introd.  IV,  20-21.
 
 
 FARGARD    VIII.  I  I  3
@@ -11033,19 +10291,15 @@ to  the  Daityo-gatu  \  what  shall  be  his  reward  when
 his  soul  has  parted  with  his  body  ?
 
 Ah  ura  Mazda  answered  :  'His  reward  shall  be
-the  same  as  if  he  had,  here  below,  brought  ten  thou-
-sand fire-brands  to  the  Daityo-gatu.'
+the  same  as  if  he  had,  here  below,  brought  ten  thousand fire-brands  to  the  Daityo-gatu.'
 
-82  (254).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  bring  to  the  Daityo-gatu  the
 fire  wherein  excrement  has  been  burnt2,  what  shall  be
 his  reward  when  his  soul  has  parted  with  his  body?
 
 Ahura  Mazda  answered  :  'His  reward  shall  be
-the  same  as  if  he  had,  here  below,  brought  a  thou-
-sand fire-brands  to  the  Daityo-gatu.'
+the  same  as  if  he  had,  here  below,  brought  a  thousand fire-brands  to  the  Daityo-gatu.'
 
-8  3  (257)-  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  bring  to  the  Daityo-gatu  the
 fire  wherein  cowdung  has  been  burnt3,  what  shall  be
 his  reward  when  his  soul  has  parted  with  his  body  ?
@@ -11054,7 +10308,6 @@ Ahura  Mazda  answered  :  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  five
 hundred  fire-brands  to  the  Daityo-gatu.'
 
-84  (258).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  bring  to  the  Daityo-gatu  the
 fire  from  the  kiln  of  a  brick-maker  4,  what  shall  be
 
@@ -11079,9 +10332,6 @@ Introd.  V,  8.
 [4]  I
 
 
-114  VENDIDAD.
-
-
 his   reward   when    his    soul    has    parted   with    his
 body  ?
 
@@ -11089,7 +10339,6 @@ Ahura  Mazda  answered:  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  four
 hundred  fire-brands  to  the  Daityo-gatu.'
 
-85  (259).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  bring  to  the  Daityo-gatu  the
 fire  from  a  potter's  kiln,  what  shall  be  his  reward
 when  his  soul  has  parted  with  his  body?
@@ -11099,7 +10348,6 @@ the  same  as  if  he  had,  here  below,  brought  to  the
 Daityo-gatu  as  many  fire-brands  as  there  were  pots
 baked  in  that  fire  V
 
-86  (260).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  bring  to  the  Daityo-gatu  the
 fire  of  the  reapers  1,  what  shall  be  his  reward  when
 his  soul  has  parted  with  his  body?
@@ -11118,13 +10366,9 @@ Ahura  Mazda  answered :  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  a
 hundred  fire-brands  to  the   Daityo-gatu.'
 
-88  (262).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  bring  to  the  Daityo-gatu  the
 fire  of  a  silversmith,  what  shall  be  his  reward  when
 his  soul  has  parted  with  his  body  ?
-
-
-1
 
 
 Doubtful.
@@ -11137,7 +10381,6 @@ Ahura  Mazda  answered:  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  ninety
 fire-brands  to  the  Daityo-gatu.'
 
-89  (263).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  bring  to  the  Daityo-gatu  the
 fire  of  a  worker  in  brass,  what  shall  be  his  reward
 when  his  soul  has  parted  with  his  body?
@@ -11146,7 +10389,6 @@ Ahura  Mazda  answered :  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  eighty
 fire-brands  to  the  Daityo-gatu.'
 
-90  (264).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  bring  to  the  Daityo-gatu  the
 fire  of  a  blacksmith,  what  shall  be  his  reward  when
 his  soul  has  parted  with  his  body  ?
@@ -11155,7 +10397,6 @@ Ahura  Mazda  answered:  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  seventy
 fire-brands  to  the  Daityo-gatu.'
 
-91  (265).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  bring  to  the  Daityo-gatu  the
 fire  of  an  oven  \  what  shall  be  his  reward  when  his
 soul  has  parted  from  his  body  ?
@@ -11164,7 +10405,6 @@ Ahura  Mazda  answered  :  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  sixty
 fire-brands  to  the   Daityo-gatu/
 
-92  (266).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  bring  to  the  Daityo-gatu  the
 fire  from  under  a  cauldron2,  what  shall  be  his  reward
 when  his  soul  has  parted  with  his  body  ?
@@ -11173,7 +10413,6 @@ Ahura  Mazda  answered  :  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  fifty
 fire-brands  to  the  Daityo-gatu.'
 
-93  (267).    O  Maker  of  the    material  world,  thou
 
 1  A  baker's  fire.  2  The  kitchen-fire.
 
@@ -11194,7 +10433,6 @@ Ahura  Mazda  answered  :  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  forty
 fire-brands  to  the  Daityo-gatu.'
 
-94  (268).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  bring  a  herdsman's  fire  to  the
 Daityo-gatu,  what  shall  be  his  reward  when  his  soul
 has  parted  with  his  body  ?
@@ -11203,7 +10441,6 @@ Ahura  Mazda  answered  :  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  thirty
 fire-brands  to  the  Daityo-gatu.'
 
-[95  (269) 2-  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  bring  to  the  Daityo-gatu  the
 fire  of  the  field  3,  what  shall  be  his  reward  when  his
 soul  has  parted  with  his  body  ?
@@ -11212,7 +10449,6 @@ Ahura  Mazda  answered :  'His  reward  shall  be
 the  same  as  if  he  had,  here  below,  brought  twenty
 fire-brands  to  the  Daityo-gatu.']
 
-96  (270).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  bring  to  the  Daityo-gatu  the
 fire  of  his  own  hearth,  what  shall  be  his  reward
 when  his  soul  has  parted  with  his  body  ?
@@ -11223,10 +10459,8 @@ fire-brands  to  the  Daityo-gatu.'
 
 X.
 
-97  (271).  O  Maker  of  the  material  world,  thou
 Holy   One !     Can   a  man    be  made  clean,  O   hoi}'
 
-1  Doubtful.
 
 2  From  the  Vendidad  Sadah.  s  The  hunter's  fire.
 
@@ -11268,8 +10502,7 @@ trespass.
 he  shall  run  off  ao-ain  until  he  overtakes  a  man ;  if
 
 
-1  Where  the  regular  process  of  purification  cannot  be  per-
-formed.
+1  Where  the  regular  process  of  purification  cannot  be  performed.
 
 2  If  the  Sag-did  has  been  performed,  the  Si-shu  (thirtyfold
 washing)  is  enough.     Cf.  above,  §§  35,  36.
@@ -11279,9 +10512,6 @@ a  summary  way  till  he  comes  to  a  place  where  the  Barashnum  can
 be  performed.
 
 4  See  p.  17,  n.  1.
-
-
-1 1 8  vendIdad.
 
 
 the  man  will  not  cleanse  him,  he  takes  upon  his  own
@@ -11301,16 +10531,13 @@ and  who  wishes  to  be  made  clean."  If  they  will  not
 cleanse  him,  he  shall  cleanse  his  body  with  gomez
 and  water ;  thus  shall  he  be  clean  V
 
-104  (300).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  he  found  water  on  his  way,  the
 water  requires  an  atonement 2 ;  what  is  the  penalty
 that  he  shall  pay  ?
 
-105  (303).  Ahura  Mazda  answered:  'Four  hun-
-dred stripes  with  the  Aspahe-astra,  four  hundred
+105  (303).  Ahura  Mazda  answered:  'Four  hundred stripes  with  the  Aspahe-astra,  four  hundred
 stripes  with  the  Sraosho-^arana.'
 
-106  (304).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  he  found  trees  3  on  his  way,  the  fire
 requires  an  atonement ;  what  is  the  penalty  he  shall
 pay  ?
@@ -11334,15 +10561,13 @@ fire  to  which  they  are  brought  becomes  unclean  by  his  fault.
 FARGARD    IX.  119
 
 
-107  (308).  '  This  is  the  penalty,  this  is  the  atone-
-ment, which  saves  him  who  submits  to  it ;  he  who
+107  (308).  '  This  is  the  penalty,  this  is  the  atonement, which  saves  him  who  submits  to  it ;  he  who
 does  not  submit  to  it,  shall  surely  be  an  inhabitant
 in  the  mansion  of  the  Drug'1.'
 
 
 Fargard   IX.
 
-1
 
 The  nine  nights'  Barashnum.
 
@@ -11358,8 +10583,7 @@ III  (47-57).  The  false  cleanser;  his  punishment.
 
 The  ceremony  described  in  this  Fargard  is  known  among  the
 Parsis  as  Barashnum  nu  shaba,  or  'nine  nights'  Barashnum,'
-because  it  lasts  for  nine  nights  (see  §  35) 2.  It  is  the  great  purifi-
-cation, the  most  efficacious  of  all ;  it  not  only  makes  the  defiled
+because  it  lasts  for  nine  nights  (see  §  35) 2.  It  is  the  great  purification, the  most  efficacious  of  all ;  it  not  only  makes  the  defiled
 man  clean,  but  it  opens  to  him  the  heavens  (see  Farg.  XIX,  33  ;
 cf.  Introd.  V,  16).  So,  although  it  was  formerly  intended  only  for
 the  man  defiled  by  the  dead,  it  became,  during  the  Parsi  period,
@@ -11376,15 +10600,11 @@ I  a.
 
 1  Hell.     Cf.  Farg.  XIV,  18.
 
-2  As  to  the  word  Barashnum,  it  seems  not  to  refer  to  the  cere-
-mony itself,  and  to  be  nothing  more  than  the  Zend  word  baresh-
+2  As  to  the  word  Barashnum,  it  seems  not  to  refer  to  the  ceremony itself,  and  to  be  nothing  more  than  the  Zend  word  baresh-
 niim, '  the  top  of  the  head,  the  skull,'  the  part  of  the  body  that  is
 first  to  be  washed  (§  15).
 
 3  For  the  plan  of  the  Barashnum-gah,  see  Anquetil  II,  p.  456.
-
-
-]  20  VENDIDAD.
 
 
 beneficent  Spirit,  Maker. of  the  material  world,  thou
@@ -11485,9 +10705,6 @@ from  the  north  to  the  south '  (Comm.)
 2  The  three  holes  to  contain  water.
 
 
-122  VENDIDAD.
-
-
 How  much  are  those  (three)  paces  ?
 '  As  much  as  nine  feet.
 
@@ -11495,8 +10712,7 @@ How  much  are  those  (three)  paces  ?
 of  which  thou  shalt  draw  around  (the  first)  three
 holes ;  three  thou  shalt  draw  around  (the  first)  six
 holes ;  three  thou  shalt  draw  around  the  nine  holes;
-three  thou  shalt  draw  around  the  three  holes,  out-
-side the  six  holes  2.  At  each  of  the  three  times
+three  thou  shalt  draw  around  the  three  holes,  outside the  six  holes  2.  At  each  of  the  three  times
 nine  feet3,  thou  shalt  place  stones  as  steps  to  the
 holes ;  or  potsherds,  or  stumps,  or  clods,  or  any  hard
 matter  V
@@ -11528,8 +10744,7 @@ presence.
 2  '  The  three  holes  for  water,  the  six  holes  for  gomez '  (Comm.)
 
 3  The  nine  feet  between  the  holes  containing  gomez  and  those
-containing  water,  the  nine  feet  between  the  first  holes  and  the  fur-
-rows, and  the  nine  feet  between  the  last  hole  and  the  furrows.
+containing  water,  the  nine  feet  between  the  first  holes  and  the  furrows, and  the  nine  feet  between  the  last  hole  and  the  furrows.
 
 4  That  the  foot  of  the  unclean  one  may  not  touch  the  earth  (see
 Introd.  V,  10).
@@ -11560,8 +10775,7 @@ times,  after  his  hands  have  been  washed,  thou  shalt
 sprinkle  the  forepart  of  his  skull ;  then  the  Dru^
 Nasu  rushes  in  front,  between  his  brows 5.
 
-16  (50).  '  Thou  shalt  sprinkle  him  in  front  be-
-tween the  brows  ;  then  the  Dru£-  Nasu  rushes  upon
+16  (50).  '  Thou  shalt  sprinkle  him  in  front  between the  brows  ;  then  the  Dru£-  Nasu  rushes  upon
 the  back  part  of  the  skull.
 
 '  Thou  shalt  sprinkle  the  back  part  of  the  skull ;
@@ -11579,16 +10793,12 @@ Nasu  rushes  upon  the  right  shoulder.
 1  Yasna  XLIX,  10.     2  See  Introd.  IV,  22.     3  See  Introd.  IV,  23.
 
 4  So  long  that  the  cleanser  may  take  gomez  or  water  from  the
-holes  and  sprinkle  the  unclean  one,  without  touching  him  and  with-
-out going  inside  the  furrows.
+holes  and  sprinkle  the  unclean  one,  without  touching  him  and  without going  inside  the  furrows.
 
 5  Cf.  Farg.  VIII,  40-71.
 
 
 A
-
-
-124  VENDIDAD.
 
 
 '  Thou  shalt  sprinkle  the  right  shoulder ;  then  the
@@ -11597,8 +10807,7 @@ Dru^  Nasu  rushes  upon  the  left  shoulder.
 '  Thou  shalt  sprinkle  the  left  shoulder ;  then  the
 Dru£-  Nasu  rushes  upon  the  right  arm-pit.
 
-18(64).  'Thou  shalt  sprinkle  the  right  arm-
-pit ;  then  the  Dru^"  Nasu  rushes  upon  the  left
+18(64).  'Thou  shalt  sprinkle  the  right  armpit ;  then  the  Dru^"  Nasu  rushes  upon  the  left
 arm-pit.
 
 '  Thou  shalt  sprinkle  the  left  arm-pit ;  then  the
@@ -11628,8 +10837,7 @@ Nasu  rushes  upon  the  left  hip.
 21  (82).  'Thou  shalt  sprinkle  the  left  hip ;  then
 the  Dru^"  Nasu  rushes  upon  the  sexual  parts.
 
-'  Thou  shalt  sprinkle  the  sexual  parts.  If  the  un-
-clean one  be  a  man,  thou  shalt  sprinkle  him  first
+'  Thou  shalt  sprinkle  the  sexual  parts.  If  the  unclean one  be  a  man,  thou  shalt  sprinkle  him  first
 behind,  then  before  ;  if  the  unclean  one  be  a  woman,
 thou  shalt  sprinkle  her  first  before,  then  behind  ;  then
 the  Dru£*  Nasu  rushes  upon  the  right  thigh.
@@ -11689,9 +10897,6 @@ Nasu  flies  away  to  the  regions  of  the  north,  in  the
 shape  of  a  raging  fly,  with  knees  and  tail  sticking
 out,  all  stained  with  stains,  and  like  unto  the  foulest
 Khrafstras.
-
-
-126  VENDIDAD.
 
 
 27  (118).  'And  thou  shalt  say  those  fiend-smiting
@@ -11785,9 +10990,6 @@ the  furrows  of  the  holes  containing  water.
 2  Or,  possibly,  '  his  clothes'  (see  Farg.  XIX,  24).
 
 
-128  VENDIDAD
-
-
 smelling  plant ;  then  he  shall  put  on  his  clothes,  and
 shall  go  back  to  his  house.
 
@@ -11816,8 +11018,7 @@ place  of  infirmity,  inside  the  house,  apart  from  the
 other  worshippers  of  Mazda.  He  shall  not  go  near
 the  fire,  nor  near  the  water,  nor  near  the  earth,  nor
 near  the  cow,  nor  near  the  trees,  nor  near  the
-faithful,  either  man  or  woman.  Thus  shall  he  con-
-tinue, until  nine  nights  have  passed.  When  nine
+faithful,  either  man  or  woman.  Thus  shall  he  continue, until  nine  nights  have  passed.  When  nine
 nights  have  passed,  he  shall  wash  his  body,  he  shall
 wash  his  clothes  with  gomez  and  water  to  make
 them  clean.
@@ -11887,8 +11088,7 @@ the  moon,  it  grieves  the  stars.
 
 42  (162).  'That  man  delights  them,  O  Spitama
 Zarathuitra !  who  cleanses  from  the  Nasu  those
-whom  she  has  defiled  ;  he  delights  the  fire,  he  de-
-lights the  water,  he  delights  the  earth,  he  delights
+whom  she  has  defiled  ;  he  delights  the  fire,  he  delights the  water,  he  delights  the  earth,  he  delights
 the  cow,  he  delights  the  trees,  he  delights  the
 faithful,  both  men  and  women.'
 
@@ -11929,7 +11129,6 @@ FARGARD    IX.  I3I
 
 III.
 
-47  (172).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  who  does  not  know  the  rites
 of  cleansing  according  to  the  law  of  Mazda,  offers  to
 cleanse  the  unclean,  what  shall  the  worshippers  of
@@ -11944,7 +11143,6 @@ stronger  than  she  was  before.  Stronger  then  are
 sickness  and  death  and  the  working  of  the  fiend
 than  they  were  before.'
 
-49  (177).  O  Maker  of  the  material  world,  thou
 Holy  One !  What  is  the  penalty  that  he  shall
 pay?
 
@@ -11953,8 +11151,7 @@ Mazda  shall  bind  him  ;  they  shall  bind  his  hands
 first ;  then  they  shall  strip  him  of  his  clothes,  they
 shall  flay  him  alive,  they  shall  cut  off  his  head,  and
 they  shall  give  over  his  corpse  unto  the  greediest  of
-the  birds  of  the  beneficent  spirit,  unto  the  corpse-
-eating  birds,  unto  the  ravens,  with  these  words  * : —
+the  birds  of  the  beneficent  spirit,  unto  the  corpseeating  birds,  unto  the  ravens,  with  these  words  * : —
 
 1  "  The  man  here  has  repented  of  all  his  evil
 thoughts,  words,  and  deeds.
@@ -11972,9 +11169,6 @@ p.  398).     Cf.  Farg.  Ill,  20  seq.
 K  2
 
 
-132  VENDIDAD.
-
-
 deed,  it  is  remitted  by  his  repentance ;  if  he  has
 committed  no  other  evil  deed,  he  is  absolved  by  his
 repentance  for  ever  and  ever  V  :
@@ -11983,8 +11177,7 @@ repentance  for  ever  and  ever  V  :
 threatens  to  take  away  fulness  and  increase  from
 the  world,  and  to  bring  in  sickness  and  death  ?
 
-52  (188).  Ahura  Mazda  answered  :  '  It  is  the  un-
-godly Ashemaogha 2,  O  Spitama  ZarathuJtra !  who
+52  (188).  Ahura  Mazda  answered  :  '  It  is  the  ungodly Ashemaogha 2,  O  Spitama  ZarathuJtra !  who
 in  this  material  world  cleanses  the  unclean  without
 knowing-  the  rites  of  cleansing-  according-  to  the  law
 of  Mazda.
@@ -11995,14 +11188,12 @@ land  and  from  those  fields,  with  health  and  healing,
 with  fulness  and  increase  and  growth,  and  a  growing
 of  corn  and  grass  V
 
-54  (191).  O  Maker  of  the  material  world,  thou
 Holy  One !  When  are  sweetness  and  fatness  to
 come  back  again  to  that  land  and  to  those  fields,
 with  health  and  healing,  with  fulness  and  increase
 and  growth,  and  a  growing  of  corn  and  grass  ?
 
-55-  56(192,  193).  Ahura  Mazda  answered:  'Sweet-
-ness and  fatness  will  never  come  back  again  to  that
+55-  56(192,  193).  Ahura  Mazda  answered:  'Sweetness and  fatness  will  never  come  back  again  to  that
 land  and  to  those  fields,  with  health  and  healing,
 with  fulness  and  increase  and  growth,  and  a  growing
 of  corn  and  grass,  until  that  ungodly  Ashemaogha
@@ -12014,8 +11205,7 @@ been  in  that  place,  offered  up  a  sacrifice4,  for  three
 2  See  Introd.  IV.  3  Cf.  XIII,  52  seq.
 
 4  The  so-called  zanda  ravan,  'the  sacrifice  that  makes  the
-soul  living,'  that  is  to  say,  that  makes  it  enter  heaven.  It  is  pro-
-bably to  be  performed  only  in  case  the  sinner  has  performed  the
+soul  living,'  that  is  to  say,  that  makes  it  enter  heaven.  It  is  probably to  be  performed  only  in  case  the  sinner  has  performed  the
 Patet  (see  the  note  to  §  49).
 
 
@@ -12054,8 +11244,7 @@ by  an  exorcism,  written  in  the  ordinary  language  of  the  Avesta,
 which  has  been  expressly  composed  for  the  occasion.
 
 i.  Zarathu-stra  asked  Ahura  Mazda:  'O  Ahura
-Mazda !  most  beneficent  spirit,  Maker  of  the  ma-
-terial world,  thou  Holy  One !  How  shall  I  fight
+Mazda !  most  beneficent  spirit,  Maker  of  the  material world,  thou  Holy  One !  How  shall  I  fight
 against  that  Dru^  who  from  the  dead  rushes  upon
 the  living  ?  How  shall  I  fight  against  that  Dru£-
 who  from  the  dead  defiles  the  livine  ?'
@@ -12065,9 +11254,6 @@ words  in  the  Gathas  that  are  to  be  said  twice  1 ;  say
 
 
 1  The  so-called  bi>r-amruta.
-
-
-134  VENDIDAD.
 
 
 aloud  those  words  in  the  Gathas  that  are  to  be  said
@@ -12115,14 +11301,12 @@ from  this  house,  from  this  borough,  from  this  town,
 FARGARD    X.  I  35
 
 
-from  this  land ;  from  the  very  body  of  the  man  de-
-filed by  the  dead,  from  the  very  body  of  the  woman
+from  this  land ;  from  the  very  body  of  the  man  defiled by  the  dead,  from  the  very  body  of  the  woman
 defiled  by  the  dead  ;  from  the  master  of  the  house,
 from  the  lord  of  the  borough,  from  the  lord  of  the
 town,  from  the  lord  of  the  land ;  from  the  whole  of
 the  holy  world."  '
 
-7  (13).  O  Maker  of  the  material  world,  thou
 Holy  One!  Which  are  those  words  in  the  Gathas
 that  are  to  be  said  thrice  ?
 
@@ -12136,8 +11320,7 @@ hukhshathrotemai  .  .  .  vahiitai  (Yas.  XXXV,  5),
 dusvarenal? .  .  .  vahyo  (Yas.  LI  1 1,  9).
 
 9  (16).  'After  thou  hast  thrice  said  those  words,
-thou  shalt  say  aloud  these  fiend-smiting  and  most-
-healing  words  : —
+thou  shalt  say  aloud  these  fiend-smiting  and  mosthealing  words  : —
 
 '"I  drive  away  Indra1,  I  drive  away  Sauru  l,  I
 drive  away  the  daeva  N^unghaithya \  from  this
@@ -12165,7 +11348,6 @@ house,  from  the  lord  of  the  borough,  from  the  lord
 of  the  town,  from  the  lord  of  the  land ;  from  the
 whole  of  the  holy  world."  '
 
-11  (19).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Which  are  those  words  in  the  Gathas
 that  are  to  be  said  four  times  ?
 
@@ -12199,12 +11381,10 @@ drive  away  the  wind-daeva 7,  from  this  house,  from
 
 3  Translated  Farg.  XX,  11.
 
-4  See  Introd.  IV,  22.
 
 5  '  The  worker  of  evil,'  a  personification  of  the  evil  powers,  it
 may  be  a  mere  name  of  Ahriman.
 
-6  See  Introd.  IV,  23.
 
 7  The  demon  Vateh,  who  raises  storms  (Brouillons  d'Anquetil).
 
@@ -12243,8 +11423,7 @@ trees;  where  there  is  nothing  that  may  be  food
 either  for  man  or  beast ;  for  purity  is  for  man,  next
 to   life,  the  greatest  good  ;  that  purity  that  is  pro-
 
-1  According  to  tradition,  'the  Divs  in  Mazanderan;'  Mazan-
-deran  is  known,  in  fact,  as  a  land  of  fiends  and  sorcerers;  a  reputa-
+1  According  to  tradition,  'the  Divs  in  Mazanderan;'  Mazanderan  is  known,  in  fact,  as  a  land  of  fiends  and  sorcerers;  a  reputa-
 tion for  which  it  is  very  likely  indebted  to  the  neighbouring  mount
 Damavand,  to  which  Azis  Dahaka  is  said  to  be  bound.  ^  Yet  one
 may  doubt  whether  it  gave  its  name  to  the  Mazainya  daevas,  or  if
@@ -12443,8 +11622,7 @@ is  clean,  they  are  freed  from  the  pain.
 
 3  Khru  and  Khruighni  are  not  met  with  elsewhere  ;  their  names
 mean,  apparently, (  wound '  and  '  the  wounding  one  ;'  whether  they
-belonged  to  concrete  mythology,  or  were  mere  abstractions,  is  dif-
-ficult to  decide.  They  may  have  been  mere  names  or  epithets  of
+belonged  to  concrete  mythology,  or  were  mere  abstractions,  is  difficult to  decide.  They  may  have  been  mere  names  or  epithets  of
 Aeshma  khruidru,  'Aeshma  of  the  wounding  spear.'
 
 4  Buidhiza  is  'the  offspring  of  Buidhi/  but  the  meaning  of
@@ -12470,8 +11648,7 @@ I42  VENDIDAD.
 
 '  I  drive  away  the  Pairika  l  that  comes  upon  the
 fire,  upon  the  water,  upon  the  earth,  upon  the  cow,
-upon  the  tree.  I  drive  away  the  demon  of  unclean-
-ness  that  comes  upon  the  fire,  upon  the  water,  upon
+upon  the  tree.  I  drive  away  the  demon  of  uncleanness  that  comes  upon  the  fire,  upon  the  water,  upon
 the  earth,  upon  the  cow,  upon  the  tree.
 
 10  (32).  'I  drive  thee  away,  O  mischievous  Angra
@@ -12519,8 +11696,7 @@ FARGARD    XI.  H;
 Angra  Mainyu!  from  the  fire,  from  the  water,  from
 the  earth,  from  the  cow,  from  the  tree,  from  the
 faithful  man  and  from  the  faithful  woman,  from  the
-stars,  from  the  moon,  from  the  sun,  from  the  bound-
-less light,  from  all  good  things,  made  by  Mazda,  the
+stars,  from  the  moon,  from  the  sun,  from  the  boundless light,  from  all  good  things,  made  by  Mazda,  the
 offspring  of  the  holy  principle.
 
 14  (41).  :  Then  thou  shalt  say  these  fiend-smiting
@@ -12540,8 +11716,7 @@ Nasu,'  &c.2
 Mainyu !  from  the  fire,  from  the  water,'  &c.3
 
 1 7.  '  Then  thou  shalt  say  these  fiend-smiting  and
-most-healing  words  ;  thou  shalt  chant  the  Airyama-
-ishyo  four  times:  "May  the  beloved  Airyaman
+most-healing  words  ;  thou  shalt  chant  the  Airyamaishyo  four  times:  "May  the  beloved  Airyaman
 come  hither!"  &c.4
 
 18.  'Away  is  Aeshma  driven;  away  is  the  Nasu
@@ -12562,9 +11737,6 @@ Vairyas : —
 3  The  rest  as  in  §  10.  4  As  in  §  7.
 
 5  As  in  §  12.  6  As  in  §  13.
-
-
-144  VENDIDAD.
 
 
 '  "  Whom  hast  thou  placed  to  protect  me?"  &c.
@@ -12593,18 +11765,15 @@ depend  on  the  relationship  of  the  faithful  with  the  deceased  person ;
 but  those  in  this  Fargard  are  of  a  special  character,  and  apply  only
 to  the  near  relatives  of  the  dead.  Their  object  is  to  determine  how
 long  the  time  of 'staying '(up  am  an)  should  last  for  different  relatives.
-What  is  meant  by  this  word  is  not  explained;  but,  as  the  word  u pa-
-man  is  usually  employed  to  indicate  the  staying  of  the  unclean  in
+What  is  meant  by  this  word  is  not  explained;  but,  as  the  word  u paman  is  usually  employed  to  indicate  the  staying  of  the  unclean  in
 the  Arme^t-gah,  apart  from  the  faithful  and  from  every  clean  object,
 it  seems  to  follow  that  the  relatives  of  a  dead  person  were  considered
 unclean  from  the  mere  fact  of  being  related  to  him,  and  were,  on
 this  account,  shut  out  of  the  frequented  parts  of  the  house.  So,
 besides  the  general  uncleanness  arising  from  actual  contact  with  a
-corpse,  there  was  another  form  of  uncleanness  arising  from  rela-
-tionship with  the  dead.  The  natural  link  that  connects  the  mem-
+corpse,  there  was  another  form  of  uncleanness  arising  from  relationship with  the  dead.  The  natural  link  that  connects  the  mem-
 bers of  one  and  the  same  family  is  of  such  a  kind  that  no  one  can
-die  without  death  entering  all  of  them.  Whether  this  is  the  pri-
-mitive form  of  mourning,  or  only  a  later  form  of  it,  we  will  not
+die  without  death  entering  all  of  them.  Whether  this  is  the  primitive form  of  mourning,  or  only  a  later  form  of  it,  we  will  not
 discuss  here.
 
 1  See  Farg.VHI,  19,  20.
@@ -12614,8 +11783,7 @@ FARGARD    XII.  I  45
 
 
 On  the  other  hand,  the  house  is  unclean  too,  at  least  with  regard
-to  the  relatives;  for  the  time  of  '  staying'  is  followed  by  a  purifica-
-tion of  the  house,  that  is  not  to  be  confounded  with  that  described  in
+to  the  relatives;  for  the  time  of  '  staying'  is  followed  by  a  purification of  the  house,  that  is  not  to  be  confounded  with  that  described  in
 the  eighth  Fargard,  which  takes  place  directly  after  the  death  and,
 as  it  appears,  opens  the  house  again  only  to  those  who  were  not
 connected  with  the  dead  man.  Even  nowadays,  in  Persia,  the
@@ -12635,7 +11803,6 @@ long  for  the  sinners  3  ?
 Ahura  Mazda  answered:  '  They  shall  stay  thirty
 days  for  the  righteous,  sixty  days  for  the  sinners.'
 
-2  (5).  O  Maker  of  the  material  world,  thou
 Holy  One!  How  shall  I  cleanse  the  house  ?  How
 shall  it  be  clean  again  ?
 
@@ -12665,7 +11832,6 @@ I46  VENDIDAD.
 
 
 ->
-6
 
 
 (9).  If  one's  son  or  daughter  dies,  how  long
@@ -12676,7 +11842,6 @@ How  lonof  for  the  sinners  ?
 Ahura  Mazda  answered  :  '  They  shall  stay  thirty
 days  for  the  righteous,  sixty  days  for  the  sinners.'
 
-4(13).  O  Maker  of  the  material  world,  thou
 Holy  One!  How  shall  I  cleanse  the  house?  How
 shall  it  be  clean  again  ?
 
@@ -12698,7 +11863,6 @@ How  lon^  for  the  sinners  ?
 Ahura  Mazda  answered  :  '  They  shall  stay  thirty
 days  for  the  righteous,  sixty  days  for  the  sinners.'
 
-6  (21).  O  Maker  of  the  material  world,  thou
 Holy  One!  How  shall  I  cleanse  the  house?  How
 shall  it  be  clean  again  ?
 
@@ -12725,7 +11889,6 @@ sinners  ?
 Ahura  Mazda  answered:  'They2  shall  stay  six
 months  for  the  righteous,  a  year  for  the  sinners.'
 
-8  (28).  O  Maker  of  the  material  world,  thou
 Holy  One  !  How  shall  I  cleanse  the  house  ?  How
 shall  it  be  clean  again  ?
 
@@ -12740,16 +11903,13 @@ the  fire  may  enter,  and  then  the  Amesha-Spe/ztas
 may  enter,  O  Spitama  Zarathustra ! '
 
 9  (31).  If  one's  grandfather  or  grandmother  dies,
-how  long  shall  they  stay,  the  grandson  for  his  grand-
-father, the  granddaughter  for  her  grandmother?
+how  long  shall  they  stay,  the  grandson  for  his  grandfather, the  granddaughter  for  her  grandmother?
 How  long  for  the  righteous  ?  How  long  for  the
 sinners  ?
 
-Ahura  Mazda  answered:  '  They  shall  stay  twenty-
-five  days  for  the  righteous,  fifty  days  for  the
+Ahura  Mazda  answered:  '  They  shall  stay  twentyfive  days  for  the  righteous,  fifty  days  for  the
 sinners.'
 
-10  (34).  O  Maker  of  the  material  world,  thou
 Holy  One  !  How  shall  I  cleanse  the  house  ?  How
 shall  it  be  clean  again  ?
 
@@ -12775,14 +11935,11 @@ may  enter,   O   Spitama  Zarathustra  !'
 
 11  (37).  If  one's  grandson  or  granddaughter
 dies,  how  long  shall  they  stay,  the  grandfather  for
-his  grandson,  the  grandmother  for  her  grand-
-daughter ?  How  long  for  the  righteous  ?  How
+his  grandson,  the  grandmother  for  her  granddaughter ?  How  long  for  the  righteous  ?  How
 long  for   the  sinners  ?
 
-Ahura  Mazda  answered:  'They  shall  stay  twenty-
-five  days  for  the  righteous,  fifty  days  for  the  sinners.'
+Ahura  Mazda  answered:  'They  shall  stay  twentyfive  days  for  the  righteous,  fifty  days  for  the  sinners.'
 
-12  (40).  O  Maker  of  the  material  world,  thou
 Holy  One !  How  shall  I  cleanse  the  house  ?  How
 shall  it  be  clean  again  ?
 
@@ -12803,8 +11960,6 @@ long  for  the  sinners  ?
 
 Ahura  Mazda  answered :  '  They  shall  stay  twenty
 days  for  the  righteous,  forty  days  for  the  sinners.'
-
-14  (45).    O    Maker   of  the    material  world,  thou
 
 
 FARGARD    XII.  149
@@ -12830,7 +11985,6 @@ righteous  ?     How  long  for  the  sinners  ?
 Ahura  Mazda  answered  :  '  They  shall  stay  fifteen
 days  for  the  righteous,  thirty  days  for  the  sinners.'
 
-16  (50).  O  Maker  of  the  material  world,  thou
 Holy  One!  How  shall  I  cleanse  the  house  ?  How
 shall  it  be  clean  again  ?
 
@@ -12877,7 +12031,6 @@ long  for  the  sinners  ?
 Ahura  Mazda  answered  :  '  They  shall  stay  five
 days  for  the  righteous,  ten  days  for  the  sinners.'
 
-20  (60).  O  Maker  of  the  material  world,  thou
 Holy  One  !  How  shall  I  cleanse  the  house  ?  How
 shall  it  be  clean  again  ?
 
@@ -12895,8 +12048,7 @@ enter,  O  Spitama  Zarathu5tra !'
 the  true  faith,  or   the  true  law1,  what  part  of  the
 
 1  The  case  of  a  stranger  (no  relative)  who  professes  the  true
-faith  is  not  provided  for  here,  because  it  has  been  sufficiently  con-
-sidered in  the  preceding  chapters.
+faith  is  not  provided  for  here,  because  it  has  been  sufficiently  considered in  the  preceding  chapters.
 
 
 FARGARD    XIII.  I  5  I
@@ -12915,12 +12067,10 @@ defiles  them.
 
 23(70).  'Whilst  alive  he  smites  the  water;
 whilst  alive  he  blows  out  the  fire ;  whilst  alive  he
-carries  off  the  cow ;  whilst  alive  he  smites  the  faith-
-ful man  with  a  deadly  blow,  that  parts  the  soul  from
+carries  off  the  cow ;  whilst  alive  he  smites  the  faithful man  with  a  deadly  blow,  that  parts  the  soul  from
 the  body;  not  so  will  he  do  when  dead.
 
-24  (71).  'Whilst  alive,  indeed,  O  Spitama  Zara-
-thuitra !  that  wicked,  two-legged  ruffian,  that  ungodly
+24  (71).  'Whilst  alive,  indeed,  O  Spitama  Zarathuitra !  that  wicked,  two-legged  ruffian,  that  ungodly
 Ashemaogha,  never  ceases  depriving  the  faithful
 man  of  his  food,  of  his  clothing,  of  his  house,  of  his
 bed,  of  his  vessels ;  not  so  will  he  do  when  dead.'
@@ -12952,15 +12102,11 @@ VII  (41-43).  On  the  wolf-dog.
 A
 
 
-152  VENDIDAD.
-
-
 VIII  (44-48).  On  the  virtues  and  vices  of  the  dog.
 
 IX  (49-50).  Praise  of  the  dog.
 
 X  (50-54).  The  water  dog.
-See  Introd.  IV,  35.
 
 I  a.
 
@@ -12974,8 +12120,7 @@ the  prickly  back,  with  the  long  and  thin  muzzle,  the
 dog  Vanghapara i,  which  evil-speaking  people  call
 the  Du^aka  2 ;  this  is  the  good  creature  among  the
 creatures  of  the  good  spirit  that  from  midnight  till
-the  sun  is  up  goes  and  kills  thousands  of  the  crea-
-tures of  the  evil  spirit.
+the  sun  is  up  goes  and  kills  thousands  of  the  creatures of  the  evil  spirit.
 
 3  (6).  'And  whosoever,  O  Zarathiutra !  shall  kill
 the  dog  with  the  prickly  back,  with  the  long  and
@@ -12987,12 +12132,10 @@ sin  by  offering  up  a  sacrifice  to  Sraosha4.
 
 1  The  hedge-hog.  As  it  struggles  from  midnight  till  the  dawn,
 this  supposes  the  existence  of  a  myth,  in  which  the  rays  of  the  sun,
-beginning  from  midnight  to  pierce  the  veil  of  darkness,  were  com-
-pared to  the  prickles  of  a  heavenly  hedge-hog.
+beginning  from  midnight  to  pierce  the  veil  of  darkness,  were  compared to  the  prickles  of  a  heavenly  hedge-hog.
 
 2  Duzaka  is  the  popular  name  of  the  hedge-hog  (Pers.  zuza.h).
-The  name  Vanghapara  must  have  referred  to  its  mythical  quali-
-ties. It  is  not  without  importance  which  name  is  given  to  it  :
+The  name  Vanghapara  must  have  referred  to  its  mythical  qualities. It  is  not  without  importance  which  name  is  given  to  it  :
 '  When  called  by  its  high  name,  it  is  powerful'  (Comm.) ;  cf.  §  6,
 and  Farg.  XVIII,  1 5.  The  nature  of  every  being  lies  partly  in
 its  name.
@@ -13006,10 +12149,8 @@ his  life  even  by  performing  a  sacrifice  to  Sraosha.'
 FARGARD    XIII.  153
 
 
-4  (10).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  kill  the  dog  with  the  prickly
-back,  with  the  long  and  thin  muzzle,  the  dog  Van-
-ghapara,  which  evil-speaking  people  call  the  Dusaka,
+back,  with  the  long  and  thin  muzzle,  the  dog  Vanghapara,  which  evil-speaking  people  call  the  Dusaka,
 what  is  the  penalty  that  he  shall  pay?
 
 Ahura    Mazda    answered:     'A   thousand    stripes
@@ -13022,15 +12163,12 @@ I  b.
 
 5  (13).  Which  is  the  evil  creature  among  the
 creatures  of  the  evil  spirit  that  from  midnight  till
-the  sun  is  up  goes  and  kills  thousands  of  the  crea-
-tures of  the  good  spirit?
+the  sun  is  up  goes  and  kills  thousands  of  the  creatures of  the  good  spirit?
 
-6  (15).  Ahura  Mazda  answered  :  'The  daeva  Zai-
-rimyangura  \  which  evil-speaking  people  call  the
+6  (15).  Ahura  Mazda  answered  :  'The  daeva  Zairimyangura  \  which  evil-speaking  people  call  the
 Zairimyaka 2,  this  is  the  evil  creature  among  the
 creatures  of  the  evil  spirit  that  from  midnight  till
-the  sun  is  up  goes  and  kills  thousands  of  the  crea-
-tures of  the  good  spirit.
+the  sun  is  up  goes  and  kills  thousands  of  the  creatures of  the  good  spirit.
 
 7  (18).  'And  whosoever,  O  Zarathustra !  shall  kill
 the  daeva  Zairimyangura,  which  evil-speaking  people
@@ -13040,16 +12178,14 @@ sins  in  thought,  word,  and  deed  are  atoned  for.
 
 II.
 
-8(21).  'Whosoever  shall  smite  either  a  shep-
-herd's dog,  or  a  house  dog,  or  a  Vohunazga  dog3,  or
+8(21).  'Whosoever  shall  smite  either  a  shepherd's dog,  or  a  house  dog,  or  a  Vohunazga  dog3,  or
 
 
 1  The  tortoise  (Asp.)
 
 2  '  When  not  so  called  it  is  less  strong'  (Comm.)  Zairimyaka
 is  a  lucky  name,  as  it  is  connected  with  a  word  (z  air  i  my  a)  which
-denotes  the  freshness  of  water  and  verdure ;  and  it  seems  to  desig-
-nate the  tortoise  as  '  the  fresh-water  creature'  (Asp.) ;  therefore  the
+denotes  the  freshness  of  water  and  verdure ;  and  it  seems  to  designate the  tortoise  as  '  the  fresh-water  creature'  (Asp.) ;  therefore  the
 name  is  corrected  into  '  the  injurer  (?)  of  fresh  water.'
 
 3  See  §  19  n.
@@ -13085,7 +12221,6 @@ dog  giving  any  warning,  the  man  shall  pay  for  the
 lost  goods,  and  he  shall  pay  for  the  wound  of  the
 dog  as  for  wilful  wounding.'
 
-12  (36).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  smite  a  shepherd's  dog,
 so  that  it  gives  up  the  ghost  and  the  soul  parts  from
 the  body,  what  is  the  penalty  that  he  shall  pay?
@@ -13114,7 +12249,6 @@ Ahura  Mazda  answered  :  '  Seven  hundred  stripes
 with  the  Aspahe-astra,  seven  hundred  stripes  with
 the  Sraosho-/£arana.'
 
-14  (42).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  shall  smite  a  Vohunazga  dog
 so  that  it  gives  up  the  ghost  and  the  soul  parts  from
 the  body,  what  is  the  penalty  that  he  shall  pay  ?
@@ -13123,7 +12257,6 @@ Ahura  Mazda  answered :  '  Six  hundred  stripes
 with  the  Aspahe-astra,  six  hundred  stripes  with
 the  Sraosho-/£arana.'
 
-15  (45).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  smite  a  young  dog1  so
 that  it  gives  up  the  ghost  and  the  soul  parts  from
 the  body,  what  is  the  penalty  that  he  shall  pay  ?
@@ -13150,12 +12283,8 @@ against  the  demon  Khava  (Bund.  XIX ;  cf.  Orm.  Ahr.  §  228).
 (Comm.)     Cf.  §  52  seq.  and  Farg.  XIV.
 
 
-156  VENDIDAD.
-
-
 III.
 
-17  (49).  O  Maker  of  the  material  world,  thou
 Holy  One !  Which  is  the  dog  that  must  be  called  a
 shepherd's  dog?
 
@@ -13163,7 +12292,6 @@ Ahura  Mazda  answered  :  '  It  is  the  dog  who  goes
 a  Yu^yesti *  round  about  the  fold,  watching  for  the
 thief  and  the  wolf.'
 
-18  (51).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Which  is  the  dog  that  must  be  called
 a  house  dogf  ?
 
@@ -13171,7 +12299,6 @@ Ahura  Mazda  answered  :  'It  is  the  dog  who  goes
 a  Hathra  round  about  the  house,  watching  for  the
 thief  and  the  wolf.'
 
-19  (53)-  O  Maker  of  the  material  world,  thou
 Holy  One !  Which  is  the  dog  that  must  be  called
 a  Vohunazga  dog  ?
 
@@ -13183,7 +12310,6 @@ subsistence  2.'
 
 IV.
 
-20  (55).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  give  bad  food  to  a  shepherd's
 dog,  of  what  sin  is  he  guilty?
 
@@ -13191,8 +12317,7 @@ Ahura  Mazda  answered :  'It  is  the  same  guilt  as
 though  he  should  serve  bad  food  to  a  master  of  a
 house  of  the  first  rank  3.'
 
-1  A  measure  unknown  ;  it  seems  to  have  been  the  average  dis-
-tance of  fourteen  houses  (see  the  gloss  ad  §  1 7  in  the  Introd.  V,  4,
+1  A  measure  unknown  ;  it  seems  to  have  been  the  average  distance of  fourteen  houses  (see  the  gloss  ad  §  1 7  in  the  Introd.  V,  4,
 Farg.  XV,  45,  and  Bund.  p.  31,  7).
 
 2  '  He  cannot  do  the  same  as  the  shepherd's  dog  and  the  house
@@ -13206,7 +12331,6 @@ for  the  Sag-did  (Introd.  V,  4).
 
 FARGARD    XIII.  157
 
-21  (57).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  give  bad  food  to  a  house  dog,
 of  what  sin  is  he  guilty  ?
 
@@ -13214,7 +12338,6 @@ Ahura  Mazda  answered  :  '  It  is  the  same  guilt
 as  though  he  should  serve  bad  food  to  a  master  of
 a  house  of  middle  rank.'
 
-22  (59).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  give  bad  food  to  a  Vohunazga
 dog,  of  what  sin  is  he  guilty  ?
 
@@ -13223,7 +12346,6 @@ though  he  should  serve  bad  food  to  a  holy  man,  in
 the  character  of  a  priest1,  who  should  come  to  his
 house.'
 
-23  (61).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  give  bad  food  to  a  young
 dog,  of  what  sin  is  he  guilty?
 
@@ -13232,17 +12354,14 @@ though  he  should  serve  bad  food  to  a  young  man,
 born  of  pious  parents,  and  who  can  answer  for
 himself2.'
 
-24  (63).  O  Maker  of  the  material  world,  thou
-Holy  One !  If  a  man  shall  give  bad  food  to  a  shep-
-herd's dog,  what  is  the  penalty  that  he  shall  pay  ?
+Holy  One !  If  a  man  shall  give  bad  food  to  a  shepherd's dog,  what  is  the  penalty  that  he  shall  pay  ?
 
 Ahura  Mazda  answered  :  'He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-astra,  two
 hundred  stripes  with  the  Sraosho-^arana3.'
 
 
-1  The  Vohunazga  dog  has  no  domicile,  therefore  he  is  not  com-
-pared with  the  master  of  a  house ;  as  he  smites  the  Nasu,  he  is
+1  The  Vohunazga  dog  has  no  domicile,  therefore  he  is  not  compared with  the  master  of  a  house ;  as  he  smites  the  Nasu,  he  is
 iike  a  holy  man,  of  the  wandering  class,  a  sort  of  begging  friar.
 
 2  Probably,  'Who  has  performed  the  nu-zud,  fifteen  years  old.'
@@ -13253,10 +12372,6 @@ four  months,  when  he  can  smite  the  Nasu.
 ever  tear.     That  man  gives  bread  to  the  dogs,  and  they  eat  it  not ;
 
 
-158  VENDIDAD.
-
-
-25  (66).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  shall  give  bad  food  to  a  house
 dog,  what  is  the  penalty  that  he  shall  pay  ?
 
@@ -13264,7 +12379,6 @@ Ahura  Mazda  answered:  'Ninety  stripes  with  the
 Aspahe-a^tra,  ninety  stripes  with  the  Sraosho-
 Z'arana/
 
-26  (69).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  man  shall  give  bad  food  to  a
 Vohunazga  dog,  what  is  the  penalty  that  he  shall
 
@@ -13274,7 +12388,6 @@ Ahura  Mazda  answered  :  '  Seventy  stripes  with
 the  Aspahe-astra,  seventy  stripes  with  the  Sraosho-
 /£arana.'
 
-27  (72).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  man  shall  give  bad  food  to  a
 young  dog,  what  is  the  penalty  that  he  shall  pay  ?
 
@@ -13293,8 +12406,7 @@ but  they  ever  devour  the  breast,  legs,  belly,  and  thighs  of  the  man.
 And  I  asked  thus  :  What  sin  was  committed  by  this  body,  whose
 soul  suffers  so  severe  a  punishment  ?  Srosh  the  pious  and  Ataro  the
 angel  said  thus :  This  is  the  soul  of  that  wicked  man  who,  in  the
-world,  kept  back  the  food  of  the  dogs  of  shepherds  and  house-
-holders; or  beat  and  killed  them'  (Ardai  Viraf  XLVIII,  translated
+world,  kept  back  the  food  of  the  dogs  of  shepherds  and  householders; or  beat  and  killed  them'  (Ardai  Viraf  XLVIII,  translated
 
 by  Haug).
 
@@ -13308,9 +12420,7 @@ FARGARD    XIII.  159
 
 V.
 
-29  (80).  O  Maker  of  the  material  world,  thou
-Holy  One!  If  there  be  in  the  house  of  a  wor-
-shipper of  Mazda  a  mad  dog,  or  one  that  bites
+Holy  One!  If  there  be  in  the  house  of  a  worshipper of  Mazda  a  mad  dog,  or  one  that  bites
 without    barking,   what    shall    the    worshippers    of
 
 Mazda  do?
@@ -13366,16 +12476,13 @@ shall  not  do  so,  and  the  mad  dog,  or  the  dog  that
 bites  without  barking,  smite  a  sheep  or  wound  a
 man,  he  shall  pay  for  it  as  for  wilful  murder.'
 
-35  (97).  O  Maker  of  the  material  world,  thou
-Holy  One!  If  there  be  in  the  house  of  a  wor-
-shipper of  Mazda  a  scentless  dog,  or  a  mad  dog,
+Holy  One!  If  there  be  in  the  house  of  a  worshipper of  Mazda  a  scentless  dog,  or  a  mad  dog,
 what  shall  the  worshippers  of  Mazda  do  ?
 
 Ahura  Mazda  answered  :  '  They  shall  attend  him
 to  heal  him,  in  the  same  manner  as  they  would  do
 for  one  of  the  faithful.'
 
-36  (100).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  they  try  to  heal  him  and  fail,  what
 shall  the  worshippers  of  Mazda  do  ?
 
@@ -13386,8 +12493,7 @@ two  a^tis  thick  if  it  be  soft.  To  that  post  they  shall
 tie  him ;  by  the  two  sides  of  the  collar  they  shall  tie
 him.
 
-38  (102).  '  If  they  shall  not  do  so,  and  the  scent-
-less dog  fall  into  a  hole,  or  a  well,  or  a  precipice,  or
+38  (102).  '  If  they  shall  not  do  so,  and  the  scentless dog  fall  into  a  hole,  or  a  well,  or  a  precipice,  or
 a  river,  or  a  canal,  and  he  be  wounded  and  die  thereof,
 they  shall  be  Peshotanus.
 
@@ -13407,18 +12513,15 @@ against  the  evil-doer,  and  watchful  over  your  goods,
 when  he  is  of  sound  mind.
 
 40(112).  'And  whosoever  shall  awake  at  his
-voice,  neither  shall  the  thief  nor  the  wolf  steal  any-
-thing from  his  house,  without  his  being  warned  ;  the
+voice,  neither  shall  the  thief  nor  the  wolf  steal  anything from  his  house,  without  his  being  warned  ;  the
 wolf  shall  be  smitten  and  torn  to  pieces ;  he  is
 driven  away,  he  flees  away.'
 
 VII.
 
-41  (115).  O  Maker  of  the  material  world,  thou
 Holy  One !  Which  of  the  two  wolves  deserves
 more  to  be  killed,  the  one  that  is  born  of  a  he-doe
-and  of  a  she-wolf,  or  the  one  that  is  born  of  a  she-
-dog  and  of  a  he-wolf  ?
+and  of  a  she-wolf,  or  the  one  that  is  born  of  a  shedog  and  of  a  he-wolf  ?
 
 Ahura  Mazda  answered  :  '  Of  these  two  wolves,
 the  one  that  is  born  of  a  he-dog  and  of  a  she-wolf
@@ -13447,9 +12550,6 @@ different  sorts  of  people  : — ■
 '  He  has  the  character  of  a  priest,
 
 [4]  M
-
-
-1 62  vendIdad.
 
 
 '  He  has  the  character  of  a  warrior,
@@ -13493,7 +12593,6 @@ prowls  about  in  darkness,  like  a  thief;  he  is  a  shame-
 
 1  A  wandering  priest  (see  p.  157,  n.  1).
 
-2  Doubtful.
 
 3  '  He  keeps  away  the  wolf  and  the  thief  (Comm.)
 
@@ -13502,8 +12601,6 @@ prowls  about  in  darkness,  like  a  thief;  he  is  a  shame-
 5  When  taking  the  cattle  out  of  the  stables.
 
 6  When  bringing  the  cattle  back  to  the  stables.
-
-7  Doubtful.
 
 
 FARGARD    XIII.  I  63
@@ -13514,13 +12611,11 @@ like  a  thief1;  in  these  things  he  is  like  unto  a
 thief.
 
 '  He  likes  darkness,  like  a  wild  beast 2;  he  prowls
-about  in  darkness,  like  a  wild  beast ;  he  is  a  shame-
-less eater,  like  a  wild  beast ;  he  is  an  unfaithful
+about  in  darkness,  like  a  wild  beast ;  he  is  a  shameless eater,  like  a  wild  beast ;  he  is  an  unfaithful
 keeper,  like  a  wild  beast ;  in  these  things  he  is  like
 unto  a  wild  beast.
 
-48  (153).  '  He  sings,  like  a  courtezan  ;  he  is  in-
-trusive, like  a  courtezan ;  he  walks  about  the  roads,
+48  (153).  '  He  sings,  like  a  courtezan  ;  he  is  intrusive, like  a  courtezan ;  he  walks  about  the  roads,
 like  a  courtezan  ;  he  is  meagre,  like  a  courtezan  ;  he
 is  poor,  like  a  courtezan ;  in  these  things  he  is  like
 unto  a  courtezan.
@@ -13532,18 +12627,15 @@ he  is  like  unto  a  child.
 
 IX.
 
-49  (163).  '  If  those  two  dogs  of  mine,  the  shep-
-herd's dog  and  the  house  dog,  pass  by  the  house  of
+49  (163).  '  If  those  two  dogs  of  mine,  the  shepherd's dog  and  the  house  dog,  pass  by  the  house  of
 any  of  my  faithful  people,  let  them  never  be  kept
 away  from  it.
 
 '  For  no  house  could  subsist  on  the  earth  made  by
-Ahura,  but  for  those  two  dogs  of  mine,  the  shep-
-herd's dog  and  the  house  dog 5.'
+Ahura,  but  for  those  two  dogs  of  mine,  the  shepherd's dog  and  the  house  dog 5.'
 
 X.
 
-50  (166).    O   Maker  of  the  material  world,  thou
 
 1  '  When  one  trusts  him  with  something,  he  eats  it'  (Comm.)
 
@@ -13557,9 +12649,6 @@ existence'  (Saddar  31;  Hyde  35).
 M  2
 
 
-1 64  VENDIDAD
-
-
 Holy  One !     When  a  dog  dies,  with   marrow  and
 seed  x  dried  up,  whereto  does  his  ghost  go  ?
 
@@ -13571,20 +12660,17 @@ water  dog  and  a  water  she-dog 3.
 
 52  (170).  '  He  who  kills  a  water  dog  brings  about
 a  drought  that  dries  up  pastures.  Before  that
-time,  O  Spitama  Zarathu^tra  !  sweetness  and  fat-
-ness would  flow  out  from  that  land  and  from  those
+time,  O  Spitama  Zarathu^tra  !  sweetness  and  fatness would  flow  out  from  that  land  and  from  those
 fields,  with  health  and  healing,  with  fulness  and
 increase  and  growth,  and  a  growing  of  corn  and
 grass.'
 
-53  (171).  O  Maker  of  the  material  world,  thou
 Holy  One !  When  are  sweetness  and  fatness  to
 come  back  again  to  that  land  and  to  those  fields,
 with  health  and  healing,  with  fulness  and  increase
 and  growth,  and  a  growing  of  corn  and  grass?
 
-54,55(172).  Ahura  Mazda  answered:  'Sweet-
-ness and  fatness  will  never  come  back  again  to  that
+54,55(172).  Ahura  Mazda  answered:  'Sweetness and  fatness  will  never  come  back  again  to  that
 land  and  to  those  fields,  with  health  and  healing,  with
 fulness  and  increase  and  growth,  and  a  growing  of
 corn  and  grass,  until  the  murderer  of  the  water  dog
@@ -13600,8 +12686,7 @@ and  disproved  by  Aristotle  (De  Part.  Anim.  Ill,  7).
 
 2  To  the  spring  of  Ardvi  Sura,  the  goddess  of  waters.
 
-3  There  is  therefore  in  a  single  water  dog  as  much  life  and  holi-
-ness as  in  a  thousand  dogs.     This  accounts  for  the  following.
+3  There  is  therefore  in  a  single  water  dog  as  much  life  and  holiness as  in  a  thousand  dogs.     This  accounts  for  the  following.
 
 
 FARGARD    XIV.  1 65
@@ -13629,8 +12714,7 @@ Vendidad  has  ever  existed  as  real  and  living  law.  See,  however,
 Introduction  V,  20.
 
 i.  Zarathustra  asked  Ahura  Mazda:  'O  Ahura
-Mazda,  most  beneficent  Spirit,  Maker  of  the  mate-
-rial world,  thou  Holy  One !  He  who  smites  one  of
+Mazda,  most  beneficent  Spirit,  Maker  of  the  material world,  thou  Holy  One !  He  who  smites  one  of
 those  water  dogs  that  are  born  one  from  a  thousand
 dogs  and  a  thousand  she-dogs 4,  so  that  he  gives  up
 the  ghost  and  the  soul  parts  from  the  body,  what  is
@@ -13653,9 +12737,6 @@ his  soul.     Cf.  p.  132,  n.  4.
 5  He  shall  pay  50  tanafuhrs  (=15000  istirs  =  60000  dirhems;
 
 
-1 66  vendidad.
-
-
 '  He  shall  godly  and  piously  bring  unto  the  fire
 of  Ahura  Mazda  1  ten  thousand  loads  of  hard,  well
 dried,  well  examined  2  wood,  as  an  atonement  unto
@@ -13663,12 +12744,10 @@ the  soul  (of  the  water  dog).
 
 3  (6).  'He  shall  godly  and  piously  bring  unto  the
 fire  of  Ahura  Mazda  ten  thousand  loads  of  soft
-wood,  of  Urvasna,  Vohu-gaona,  Vohu-kereti,  Hadha-
-naepata  3,  or  any  sweet-scented  plant,  as  an  atone-
+wood,  of  Urvasna,  Vohu-gaona,  Vohu-kereti,  Hadhanaepata  3,  or  any  sweet-scented  plant,  as  an  atone-
 ment unto  the  soul  (of  the  water  dog).
 
-4  (7).  '  He  shall  godly  and  piously  tie  and  con-
-secrate ten  thousand  bundles  of  baresma ;  he  shall
+4  (7).  '  He  shall  godly  and  piously  tie  and  consecrate ten  thousand  bundles  of  baresma ;  he  shall
 offer  up  to  the  good  waters  ten  thousand  Zaothra
 libations  with  the  Haoma  and  the  sacred  meat4,
 cleanly  prepared  and  well  strained,  cleanly  prepared
@@ -13716,8 +12795,7 @@ bite  and  dig  holes  and  work  mischief4.
 6(16).  'He  shall  kill  ten  thousand  earth  worms  ;
 he  shall  kill  ten  thousand  horrid  flies  5.
 
-'  He  shall  fill  up  ten  thousand  holes  for  the  un-
-clean 6.
+'  He  shall  fill  up  ten  thousand  holes  for  the  unclean 6.
 
 
 1  'Mar  banak  snakes:  they  are  dog-like,  because  they  sit
@@ -13743,8 +12821,7 @@ des  grains  plus  qu'il  n'e'toit  necessaire  pour  leur  nourriture,'  G.  du
 Chinon,  p.  464.  Firdusi  protested  against  the  proscription  :  '  Do
 no  harm  to  the  corn-carrying  ant;  a  living  thing  it  is,  and  its  life  is
 dear  to  it.'  The  celebrated  high-priest  of  the  Parsis,  the  late  Moola
-Firooz,  entered  those  lines  into  his  Pand  Namah,  which  may  be-
-token better  days  for  this  wise  and  careful  creature.
+Firooz,  entered  those  lines  into  his  Pand  Namah,  which  may  betoken better  days  for  this  wise  and  careful  creature.
 
 4  Doubtful.  The  Commentary  has,  'that  is,  darak  ants  (wood
 ants ;  termites  ?).'
@@ -13753,9 +12830,6 @@ ants ;  termites  ?).'
 
 6  'The  holes  at  which  the  unclean  are  washed'  (Comm.;  cf.  Farg.
 IX,  6  seq.)
-
-
-1 68  VENDiDAD.
 
 
 '  He  shall  godly  and  piously  give  to  godly  men
@@ -13773,8 +12847,7 @@ procure  wood  for  the  fire  of  Ahura  Mazda.
 8  (26).  'He  shall  godly  and  piously  give  to  godly
 men  a  set  of  the  priestly  instruments  of  which  the
 priests  make  use,  as  an  atonement  unto  the  soul
-(of  the  water  dog),  namely  :  The  Astra  5,  the  meat-
-vessel 6,  the   Paitidana7,  the  Khrafstraghna  8,  the
+(of  the  water  dog),  namely  :  The  Astra  5,  the  meatvessel 6,  the   Paitidana7,  the  Khrafstraghna  8,  the
 
 
 1  Doubtful :  the  intended  materials  would  be  two  loads  of  wood,
@@ -13798,8 +12871,7 @@ cotton  cloth,  hanging  loosely  from  the  bridge  of  the  nose  to,  at
 least,  two  inches  below  the  mouth,  and  tied  with  two  strings  at  the
 back  of  the  head'  (Haug,  Essays,  2nd  ed.  p.  243,  n.  1;  cf.  Comm.
 ad  Farg.  XVIII,  1,  and  Anquetil  II,  530).  This  principle  appears
-not  to  have  been  peculiar  to  the  Zoroastrian  Aryans,  for  the  Sla-
-vonian priest  in  Arkona  was  enjoined  to  go  out  of  the  temple,
+not  to  have  been  peculiar  to  the  Zoroastrian  Aryans,  for  the  Slavonian priest  in  Arkona  was  enjoined  to  go  out  of  the  temple,
 whenever  he  wanted  to  draw  breath,  'lest  the  presence  of  the  god
 should  be  defiled  by  contact  with  mortal  breath '  (ne  dei  presentia
 mortalis  spiritus  contagio  pollueretur,  Saxo  Grammaticus,  ap.  Klek,
@@ -13814,21 +12886,18 @@ Sraosho-/6arana  \  the  cup  for  the  Myazda  2,  the  cups
 for  the  juice3,  the  mortar  made  according  to  the
 rules,  the  Haoma  cups4,  and  the  baresma.
 
-9  (32).  'He  shall  godly  and  piously  give  to  godly-
-men  a  set  of  all  the  war  implements  of  which  the
+9  (32).  'He  shall  godly  and  piously  give  to  godlymen  a  set  of  all  the  war  implements  of  which  the
 warriors  make  use  6,  as  an  atonement  unto  the  soul
 (of  the  water  dog) ;  the  first  being  a  javelin  6,  the
 second  a  knife  7,  the  third  a  club,  the  fourth  a  bow  8,
 the  fifth  a  quiver9  with  shoulder-belt  and  thirty
-brass-headed  arrows10,  the  sixth  a  sling  with  arm-
-string  and  with  thirty  sling  stones,  the  seventh  a
+brass-headed  arrows10,  the  sixth  a  sling  with  armstring  and  with  thirty  sling  stones,  the  seventh  a
 cuirass  n,  the  eighth  a  hauberk  12,  the  ninth  a  tunic  13,
 the  tenth  a  helmet,  the  eleventh  a  girdle,  the  twelfth
 a  pair  of  greaves14.
 
 1  See  Introd.  V,  19.
 
-2  Doubtful.
 
 3  The  cup  in  which  the  juice  of  the  hom  and  of  the  urvaran
 (the  twigs  of  hadh^-naepata  which  are  pounded  together  with  the
@@ -13920,8 +12989,6 @@ for    godly    men    a  house   with   ox-stalls,  with    nine
 
 3  Which  is  estimated  '  a  foot  deep,  a  foot  broad  '  (Coram.)
 
-4  Doubtful.
-
 
 FARGARD    XIV.  IJl
 
@@ -13972,13 +13039,9 @@ that  are  produced  on  the  body  of  a  dog.
 2  He  shall  build  a  caravansary,  which  is    considered  a  pious
 work  (Mainyo-i-khard  IV,  6  ;  XXXVII,  36).
 
-3  A  word  of  unknown  meaning ;  probably  a  measure,  but  pos-
-sibly '  a  passage  or  alley.'
+3  A  word  of  unknown  meaning ;  probably  a  measure,  but  possibly '  a  passage  or  alley.'
 
 4  Those  three  words  are  doubtful.
-
-
-1 72  VENDIDAD.
 
 
 '  He  shall  treat  twice  nine  godly  men  to  their  fill
@@ -14001,8 +13064,7 @@ Fargard    XV.
 I  (1-8).    On  five  sins  the  commission  of  which  makes  the  sinner
 a  Peshotanu.    ;
 
-II  (9-19).   On  unlawful  unions  and  attempts  to  procure  mis-
-carriage.
+II  (9-19).   On  unlawful  unions  and  attempts  to  procure  miscarriage.
 
 III  (20-45).    On  the  treatment  of  a  bitch  big  with  young.
 
@@ -14085,15 +13147,13 @@ it  is  then  that  the  child  is  formed  and  a  soul  is  added  to  its  bo
 I  74  VENDIDAD.
 
 
-come  to  her  breasts  or  has  not  yet  come  :  if  mis-
-chief follow  therefrom,  and  she  die,  this  is  a  sin  that
+come  to  her  breasts  or  has  not  yet  come  :  if  mischief follow  therefrom,  and  she  die,  this  is  a  sin  that
 makes  the  man  a  Peshotanu  l.
 
 II.
 
 9  (30).  'If  a  man  come  near  unto  a  damsel,  either
-dependent  on  the  chief  of  the  family  or  not  depend-
-ent, either  delivered  unto  a  husband  or  not  deli-
+dependent  on  the  chief  of  the  family  or  not  dependent, either  delivered  unto  a  husband  or  not  deli-
 vered2, and  she  conceives  by  him,  let  her  not,  from
 dread  of  the  people,  produce  in  herself  the  menses,
 against  the  course  of  nature,  by  means  of  water  and
@@ -14152,8 +13212,7 @@ then  to  the  old  woman  2  and  apply  to  her  that  she
 may  procure  thee  miscarriage  ;  "
 
 14  (43).  '  And  the  damsel  goes  to  the  old  woman
-and  applies  to  her  that  she  may  procure  her  mis-
-carriage ;  and  the  old  woman  brings  her  some  Banga,
+and  applies  to  her  that  she  may  procure  her  miscarriage ;  and  the  old  woman  brings  her  some  Banga,
 or  Shaeta,  or  Ghnana,  or  Fraspata3,  or  some  other
 of  the  drugs  that  produce  miscarriage  and  [the  man
 says],  "Cause  thy  fruit  to  perish  !  "  and  she  causes  her
@@ -14187,7 +13246,6 @@ he  support  her,  until  the  child  is  born.
 child  comes  to  mischief1,  for  want  of  proper  support,
 he  shall  pay  the  penalty  for  wilful  murder/
 
-17  (54).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  she  be  near  her  time  and  be  lying
 on  the  high  road,  which  is  the  worshipper  of  Mazda
 that  shall  support  her  ?
@@ -14205,7 +13263,6 @@ is  born  2.
 after  every  pregnant  female,  either  two-footed  or
 four-footed,  either  woman  or  bitch.'
 
-20  (61).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  (a  bitch4)  be  near  her  time  and  be
 lying  on  the  high  road,  which  is  the  worshipper  of
 Mazda  that  shall  support  her?
@@ -14237,21 +13294,18 @@ are  born.
 whelps  come  to  mischief,  for  want  of  proper  support,
 he  shall  pay  the  penalty  for  wilful  murder.'
 
-23  (68).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  bitch  be  near  her  time  and  be
 lying  in  a  camel-stall,  which  is  the  worshipper  of
 Mazda  that  shall  support  her  ?
 
 24  (70).  Ahura  Mazda  answered:  '  He  who  built
-the  camel-stall  or  who  holds  it 2,  the  care  of  sup-
-porting her  is  his  ;  so  long  shall  he  support  her,
+the  camel-stall  or  who  holds  it 2,  the  care  of  supporting her  is  his  ;  so  long  shall  he  support  her,
 until  the  whelps  are  born.
 
 25  (76).  '  If  he  shall  not  support  her,  so  that  the
 whelps  come  to  mischief,  for  want  of  proper  support,
 he  shall  pay  the  penalty  for  wilful  murder.'
 
-26  (77).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  bitch  be  near  her  time  and  be
 lying  in  a  horse-stall,  which  is  the  worshipper  of
 Mazda  that  shall  support  her  ?
@@ -14265,8 +13319,6 @@ whelps  are  born.
 whelps  come  to  mischief,  for  want  of  proper  support,
 he  shall  pay  the  penalty  for  wilful  murder.'
 
-29  (84).    O    Maker   of  the    material  world,  thou
-
 
 1  '  The  bitch  is  lying  on  the  high  road  :  the  man  whose  house
 has  its  door  nearest  shall  take  care  of  her.  If  she  dies,  he  shall
@@ -14277,9 +13329,6 @@ her  any  longer,  one  intrusts  her  to  a  richer  man'  (Comm.  and  Asp.)
 2  'In  pledge  or  for  rent'  (Asp.;  cf.  Comm.  ad  §  42).
 
 [4]  N
-
-
-178  VENDIDAD
 
 
 Holy  One  !  If  a  bitch  be  near  her  time  and  be
@@ -14295,7 +13344,6 @@ whelps  are  born.
 whelps  come  to  mischief,  for  want  of  proper  support,
 he  shall  pay  the  penalty  for  wilful  murder.'
 
-32  (92).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  bitch  be  near  her  time  and  be
 lying  in  a  sheep-fold,  which  is  the  worshipper  of
 Mazda  that  shall  support  her  ?
@@ -14309,14 +13357,12 @@ whelps  are  born.
 whelps  come  to  mischief,  for  want  of  proper  support,
 he  shall  pay  the  penalty  for  wilful  murder.'
 
-35  (100).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  bitch  be  near  her  time  and  be
 lying  on  the  earth-wall1,  which  is  the  worshipper  of
 Mazda  that  shall  support  her  ?
 
 36  (102).  Ahura  Mazda  answered :  '  He  who
-erected  the  wall  or  who  holds  it,  the  care  of  sup-
-porting her  is  his ;  so  long  shall  he  support  her,
+erected  the  wall  or  who  holds  it,  the  care  of  supporting her  is  his ;  so  long  shall  he  support  her,
 until  the  whelps  are  born.
 
 2,J  (105).  '  If  he  shall  not  support  her,  so  that
@@ -14330,7 +13376,6 @@ support,  he  shall  pay  the  penalty  for  wilful  murder.'
 FARGARD    XV.  I  79
 
 
-38  (108).  O  Maker  of  the  material  world,  thou
 Holy  One !  If  a  bitch  be  near  her  time  and  be
 lying  in  the  moat1,  which  is  the  worshipper  of
 Mazda  that  shall  support  her  ?
@@ -14344,7 +13389,6 @@ are  born.
 whelps  come  to  mischief,  for  want  of  proper  support,
 he  shall  pay  the  penalty  for  wilful  murder.'
 
-41  (113).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  a  bitch  be  near  her  time  and  be
 lying  in  the  middle  of  a  pasture-field,  which  is  the
 worshipper  of  Mazda  that  shall  support  her  ?
@@ -14358,9 +13402,7 @@ rest  upon  a  litter  of  any  foliage  fit  for  a  litter ;  so
 long  shall  he  support  her,  until  the  young  dogs  are
 capable  of  self-defence  and  self-subsistence.'
 
-44(122).  O  Maker  of  the  material  world,  thou
-Holy  One!  When  are  the  dogs  capable  of  self-
-defence  and  self-subsistence  ?
+Holy  One!  When  are  the  dogs  capable  of  selfdefence  and  self-subsistence  ?
 
 45  (123).  Ahura  Mazda  answered:  'When  they
 are  able  to  run  about  in  a  circuit  of  twice  seven
@@ -14372,7 +13414,6 @@ months,  children  for  seven  years.
 
 1  The  moat  before  the  earth-wall.
 
-2  Doubtful.
 
 3  Probably  the  distance  of  one  yu§ye\rti;  cf.  Farg.  XIII,  17.
 
@@ -14387,7 +13428,6 @@ l8o  VENDIDAD.
 
 IV.
 
-46  (127).  O  Maker  of  the  material  world,  thou
 Holy  One!  If  worshippers  of  Mazda  want  to  have
 a  bitch  so  covered  that  the  offspring  shall  be  one
 of  a  strong  nature,  what  shall  they  do  ?
@@ -14400,8 +13440,7 @@ of  a  man  if  the  earth  be  soft.
 48  (131).  'They  shall  first  tie  up  the  bitch  there,
 far  from  children  and  from  the  Fire,  the  son  of
 Ahura  Mazda2,  and  they  shall  watch  by  her  until  a
-dog  comes  there  from  anywhere.  They  shall  after-
-wards let  another  dog  come  near  her,  and  then  a
+dog  comes  there  from  anywhere.  They  shall  afterwards let  another  dog  come  near  her,  and  then  a
 third  besides3,  each  being  kept  apart  from  the
 former,  lest  they  should  assail  one  another.
 
@@ -14431,11 +13470,7 @@ meaning  doubtful.
 FARGARD    XVI.
 
 
-181
-
-
-51  (137).  Ahura  Mazda  answered:  'Seven  hun-
-dred stripes  with  the  Aspahe-artra,  seven  hundred
+51  (137).  Ahura  Mazda  answered:  'Seven  hundred stripes  with  the  Aspahe-artra,  seven  hundred
 stripes  with  the  Sraosho-^arana/
 
 
@@ -14485,9 +13520,6 @@ IX,  11,  and  Introd.  V,  10.
 4  The  Dashtanistan.  s  See  Introd.  V,  12.
 
 
-1 82  VENDIDAD
-
-
 paces  from  the  consecrated  bundles  of  baresma,
 three  paces  from  the  faithful.'
 
@@ -14510,8 +13542,7 @@ metal  V
 7(15).  How  much  food  shall  he  bring  to  her?
 How  much  bread  shall  he  bring  ?
 
-'  (Only)  two  danares3  of  long  bread,  and  one  da-
-nare  of  milk  pap,  lest  she  should  gather  strength  4.
+'  (Only)  two  danares3  of  long  bread,  and  one  danare  of  milk  pap,  lest  she  should  gather  strength  4.
 
 '  If  a  child  has  just  touched  her,  they  shall  first
 wash  his  hands  and  then  his  body5.
@@ -14590,9 +13621,6 @@ corn-carrying  ants,  if  it  be  summer ;  two  hundred  of
 place.
 
 
-184  VENDIDAD.
-
-
 any  other  sort   of  the  Khrafstras  made  by  Angra
 Mainyu,  if  it  be  winter1.'
 
@@ -14607,7 +13635,6 @@ Ahura  Mazda  answered  :  '  He  is  a  Peshotanu  :
 two  hundred  stripes  with  the  Aspahe-a^tra,  two
 hundred  stripes  with  the  Sraosho-^arana.'
 
-14  (33).  O  Maker  of  the  material  world,  thou
 Holy  One  !  If  a  man  shall  again  and  again  wilfully
 touch  the  body  of  a  woman  who  has  an  issue  of
 blood,  either  out  of  the  ordinary  course  or  at  the
@@ -14621,8 +13648,7 @@ time  he  comes  near  unto  her,  for  the  first  time  he
 lies  by  her,  thirty  stripes  with  the  Aspahe-aitra,
 thirty  stripes  with  the  Sraosho- Parana;  for  the
 second  time  he  comes  near  unto  her,  for  the  second
-time  he  lies  by  her,  fifty  stripes  with  the  Aspahe-
-aitra,  fifty  stripes  with  the  Sraosho-^arana ;  for
+time  he  lies  by  her,  fifty  stripes  with  the  Aspaheaitra,  fifty  stripes  with  the  Sraosho-^arana ;  for
 the  third  time  he  comes  near  unto  her,  for  the
 third  time  he  lies  by  her,  seventy  stripes  with
 the  Aspahe-astra,  seventy  stripes  with  the  Sraosho-
@@ -14631,9 +13657,6 @@ the  Aspahe-astra,  seventy  stripes  with  the  Sraosho-
 16.  For  the  fourth  time  he  comes  near  unto  her,
 for  the  fourth  time  he  lies  by  her,  if  he  shall  press
 the    body  under   her  clothes,  if  he  shall   press  the
-
-
-1  See  Introd.  IV,  35.
 
 
 FARGARD    XVII.  1 85
@@ -14646,8 +13669,7 @@ Ahura  Mazda  answered:  'Ninety  stripes  with
 the  Aspahe-astra,  ninety  stripes  with  the  Sraosho-
 X'arana.
 
-J7  (39)-  'Whosoever  shall  lie  in  sexual  inter-
-course with  a  woman  who  has  an  issue  of  blood,
+J7  (39)-  'Whosoever  shall  lie  in  sexual  intercourse with  a  woman  who  has  an  issue  of  blood,
 either  out  of  the  ordinary  course  or  at  the  usual
 period,  does  no  better  deed  than  if  he  should  burn
 the  corpse  of  his  own  son,  born  of  his  own  body  and
@@ -14664,8 +13686,7 @@ Fargard     XVII.
 Hair  and   Nails.
 
 
-Anything  that  has  been  separated  from  the  body  of  man  is  con-
-sidered dead  matter  (Introd.  V,  12),  and  is  accordingly  supposed  to
+Anything  that  has  been  separated  from  the  body  of  man  is  considered dead  matter  (Introd.  V,  12),  and  is  accordingly  supposed  to
 fall  into  the  possession  of  the  demon  and  to  become  the  abode  of
 death  and  uncleanness.  Therefore,  hair  and  nails,  as  soon  as  cut
 off,  are  at  once  the  property  of  Ahriman,  and  the  demon  has  to  be
@@ -14683,9 +13704,6 @@ atonement  (Farg.  I,  17;  VIII,  73  seq. ;  Introd.  V,  8).
 
 3  Literally,  'is  a  Peshotanu;'  '  he  is  a  tanafuhr  sinner,  that  is  to
 say,  margarzan  (worthy  of  death)/  Comm.
-
-
-1 86  VENDIDAD.
 
 
 the  recital  of  certain  prayers,  and  by  being  deposited  in  the  earth
@@ -14712,8 +13730,7 @@ I.
 
 i.  Zarathuitra  asked  Ahura  Mazda  :  '  O  Ahura
 Mazda,  most  beneficent  Spirit,  Maker  of  the  material
-world,  thou  Holy  One  !  Which  is  the  most  deadly-
-deed  whereby  a  man  increases  most  the  baleful
+world,  thou  Holy  One  !  Which  is  the  most  deadlydeed  whereby  a  man  increases  most  the  baleful
 strength  of  the  Daevas,  as  he  would  do  by  offering
 them  a  sacrifice  ?'
 
@@ -14735,16 +13752,13 @@ of  the  world  is  come  (Gylfaginning,  51).
 
 4  Without  performing  the  requisite  ceremonies.
 
-5  Doubtful.
-
 
 FARGARD    XVII.  I  87
 
 
 3  (6).  '  Then  for  want  of  the  lawful  rites  being
 observed,  Daevas  are  produced  in  the  earth ;  for
-want  of  the  lawful  rites  being  observed,  those  Khraf-
-stras  are  produced  in  the  earth  which  men  call  lice,
+want  of  the  lawful  rites  being  observed,  those  Khrafstras  are  produced  in  the  earth  which  men  call  lice,
 and  which  eat  up  the  corn  in  the  corn-field  and  the
 clothes  in  the  wardrobe.
 
@@ -14776,8 +13790,7 @@ II.
 the  presence  of  the  word  plants  in  it:  man  was  considered  a
 microcosm,  and  every  element  in  him  was  supposed  to  come  from
 a  similar  element  in  nature,  to  which  it  was  to  return  after  death,
-and  whence  it  was  to  come  back  again  at  the  time  of  the  resur-
-rection:  his  bones  from  the  earth,  his  blood  from  the  water,  his
+and  whence  it  was  to  come  back  again  at  the  time  of  the  resurrection:  his  bones  from  the  earth,  his  blood  from  the  water,  his
 hair  from  the  trees,  his  life  from  the  fire  (Bundahu  XXXI,
 Ulamai  Islam);  an  old  Aryan  theory,  traces  of  which  are  also  to
 be  found  in  India  (Rig-veda  X,  16,  3),  in  Greece  (Ilias  VII,  99  ;
@@ -14785,14 +13798,10 @@ Empedocles,  fr.  378  ;  cf.  Epicharmus  ap.  Plut.  Consol.  ad  Apoll.  15),
 and  in  Scandinavia  (Edda,  Grimnismal  40).
 
 
-1 88  VENDIDAD.
-
-
 of  the  house,  as  deep  as  the  top  joint  of  the  little
 finger ;  thou  shalt  take  the  nails  down  there  and
 thou  shalt  say  aloud  these  fiend-smiting  words :
-"  The  words  that  are  heard  from  the  pious  in  holi-
-ness and  good  thought1."
+"  The  words  that  are  heard  from  the  pious  in  holiness and  good  thought1."
 
 8  (24).  '  Then  thou  shalt  draw  three  furrows  with
 a  knife  of  metal  around  the  hole,  or  six  furrows  or
@@ -14825,8 +13834,7 @@ Ashozurta  and  kill  him.  Therefore,  when  the  nails  have  had  a  spell
 uttered  over  them,  the  bird  takes  and  eats  them  up,  that  the  fiends
 may  not  do  any  harm  by  their  means '  (Bundahw  XIX).
 
-3  See  above,  p.  137,  n.  1.  The  nails  are  cut  in  two  and  the  frag-
-ments are  put  in  the  hole  with  the  point  directed  towards  the
+3  See  above,  p.  137,  n.  1.  The  nails  are  cut  in  two  and  the  fragments are  put  in  the  hole  with  the  point  directed  towards  the
 north,  that  is  to  say,  against  the  breasts  of  the  Devs  (see  above,
 p.  75,  n.  2).  See  Anquetil,  Zend-Avesta  II,  117;  India  Office
 Library,  VIII,  80.
@@ -14855,8 +13863,7 @@ III  (30-60).  The  four  paramours  of  the  Drug-.
 
 IV  (61-71).  On  unlawful  lusts.
 
-The  text  and  the  Pahlavi  commentary  of  this  Fargard  are  trans-
-lated in  Haug's  Essays,  pp.  243  seq.,  364  seq.
+The  text  and  the  Pahlavi  commentary  of  this  Fargard  are  translated in  Haug's  Essays,  pp.  243  seq.,  364  seq.
 
 I.
 
@@ -14890,9 +13897,6 @@ law'(cf.  §5).
 4  See  above,  p.  168,  n.  8.
 
 
-190  VENDIDAD.
-
-
 3  (7).  '  He  holds  a  twig1  in  his  hand,  but  he  has
 not  girded  his  loins  with  the  law ;  when  he  says,
 "  I  am  an  Athravan,"  he  lies ;  do  not  call  him  an
@@ -14923,8 +13927,7 @@ world,  the  world  of  paradise.
 
 7  (18).  '(Therefore)  demand  of  me,  thou  upright
 one !  of  me,  who  am  the  Maker,  the  best  of  all
-beings,  the  most  knowing,  the  most  pleased  in  an-
-swering what  is  asked  of  me  ;  demand  of  me,  that
+beings,  the  most  knowing,  the  most  pleased  in  answering what  is  asked  of  me  ;  demand  of  me,  that
 
 1  The  bundles  of  baresma  or  the  urvaran  (see  p.  22,  n.  2;
 p.  169,  n.  3).
@@ -14949,10 +13952,8 @@ of  the  material  world,  thou  Holy  One!  What  is  it
 that  makes  the  unseen  power  of  Death  increase  V
 
 9  (22).  Ahura  Mazda  answered  :  'It  is  the  man
-that  teaches  a  wrong  law2;  it  is  the  man  who  con-
-tinues for  three  years 3  without  wearing  the  sacred
-girdle4,  without  chanting  the  Gathas,  without  wor-
-shipping the  good  waters.
+that  teaches  a  wrong  law2;  it  is  the  man  who  continues for  three  years 3  without  wearing  the  sacred
+girdle4,  without  chanting  the  Gathas,  without  worshipping the  good  waters.
 
 10  (25).    'And  he  who   should  set  that   man    at
 
@@ -14961,22 +13962,18 @@ shipping the  good  waters.
 2  '  The  deceiver  Ashemaogha '  (Comm.) ;  the  heretic.  Cf.  Farg.
 XV,  2,  and  Introd.  Ill,  10.
 
-3  Doubtful.
 
 4  The  Kosti,  which  must  be  worn  by  every  Parsi,  man  or  woman,
 from  their  fifteenth  year  of  age  (see  below,  §  54  seq.) ;  it  is  the  badge
 of  the  faithful,  the  girdle  by  which  he  is  united  both  with  Ormazd  and
 with  his  fellow  believers.    He  who  does  not  wear  it  must  be  refused
 water  and  bread  by  the  members  of  the  community ;  he  who  wears
-it  becomes  a  participator  in  the  merit  of  all  the  good  deeds  per-
-formed all  over  the  Zarathustrian  world  (Saddar  10  and  46  ;  Hyde
-10  and  50).     The  Kosti  consists  'of  seventy-two  interwoven  fila-
-ments, and  should  three  times  circumvent  the  waist.  .  .  .  Each  of
+it  becomes  a  participator  in  the  merit  of  all  the  good  deeds  performed all  over  the  Zarathustrian  world  (Saddar  10  and  46  ;  Hyde
+10  and  50).     The  Kosti  consists  'of  seventy-two  interwoven  filaments, and  should  three  times  circumvent  the  waist.  .  .  .  Each  of
 the  threads  is  equal  in  value  to  one  of  the  seventy -two  Hahs  of  the
 Izashne ;  each  of  the  twelve  threads  in  the  six  lesser  cords  is  equal
 in  value  to  the  dawazdih  hamaist  .  .  .;  each  of  the  lesser  cords
-is  equal  in  value  to  one  of  the  six  Gahanbars ;  each  of  the  three  cir-
-cumventions of  the  loins  is  equal  in  value  to  hum  at,  good  thought,
+is  equal  in  value  to  one  of  the  six  Gahanbars ;  each  of  the  three  circumventions of  the  loins  is  equal  in  value  to  hum  at,  good  thought,
 hukhat,  good  speech,  huaresta,  good  work;  the  binding  of  each
 of  the   four  knots    upon  it  confers  pleasure  on  each  of  the  four
 elements,  fire,  air,  water,  and  the  earth '  (Edal  Daru,  apud  Wilson,
@@ -14990,15 +13987,11 @@ that  does  not  reach  lower  than  the  hips,  with  a  small  pocket  at  the
 opening  in  front  of  the  shirt  (see  §  54  seq.)
 
 
-192  VENDIDAD.
-
-
 liberty,  when  bound  in  prison  1,  does  no  better  deed
 than  if  he  should  flay  a  man  alive  and  cut  off  his
 head 2.
 
-ii  (27).  '  The  blessing  uttered  on  a  wicked,  un-
-godly Ashemaogha  does  not  go  past  the  mouth  (of
+ii  (27).  '  The  blessing  uttered  on  a  wicked,  ungodly Ashemaogha  does  not  go  past  the  mouth  (of
 the  blesser) ;  the  blessing  for  two  Ashemaoghas
 does  not  go  past  his  tongue  ;  the  blessing  for  three
 is  no  word  at  all ;  the  blessing  for  four  is  a  curse
@@ -15022,8 +14015,7 @@ the  better,  that  thou  mayst  be  the  happier.'
 
 14(33).  Zarathu-ftra  asked  Ahura  Mazda:  'Who
 is  the  Sraosha-varez  3  of  Sraosha 4  ?  the  holy,  strong
-Sraosha,  who  is  the  incarnate  Word,  a  mighty-
-speared  and  lordly  god.'
+Sraosha,  who  is  the  incarnate  Word,  a  mightyspeared  and  lordly  god.'
 
 1  See  Introd.  Ill,  10.    Cf.  §  12.
 
@@ -15034,8 +14026,6 @@ make  him  alive  again.'
 
 3  'Who  is  he  who  sets  the  world  in  motion?'  (Comra.)  See
 above,  p.  56,  n.  2.
-
-4  See  Introd.  IV,  31.
 
 
 FARGARD    XVIII.  193
@@ -15083,14 +14073,10 @@ that  instant  the  evil  spirit  takes  to  flight '  (Mirkhond,  History  of
 the  Early  Kings  of  Persia,  translated  by  Shea,  p.  57  5  cf-  Saddar
 32,  Hyde  35,  and  J.  Ovington,  A  Voyage  to  Suratt,  1696,  p.  371).
 
-4  See  Introd.  IV,  24.
 
 5  '  To  perform  thy  religious  duties '  (Comm.)
 
 [4]  °
-
-
-194  VENDiDAD.
 
 
 with  the  clean  wood,  carried  by  thy  well-washed
@@ -15131,7 +14117,6 @@ who  lulls  to  sleep  again  the  whole  living  world  as
 1  The  Parsi,  as  soon  as  he  has  risen,  must  put  on  the  Kostr,
 wash  his  hands,  and  put  wood  on  the  fire.
 
-2  See  Introd.  IV,  19.
 
 3  The  text  seems  to  be  corrupt :  it  must  probably  be  emendated
 into  '  bring  into  me  .  .  .'
@@ -15178,8 +14163,7 @@ he  had  given  l  a  house  with  a  hundred  columns,  a
 thousand  beams,  ten  thousand  large  windows,  ten
 thousand  small  windows.
 
-29  (67).    «  And  whosoever  shall  give  to  my  Paro-
-daw  bird  his  fill  of  meat,  I,  Ahura  Mazda,  need  not
+29  (67).    «  And  whosoever  shall  give  to  my  Parodaw  bird  his  fill  of  meat,  I,  Ahura  Mazda,  need  not
 
 
 1  <
@@ -15234,8 +14218,7 @@ as  other  males  make  their  females.'
 
 36  (83).  The  holy  Sraosha  asked  the  Dnif,  with
 his  club  uplifted  against  her  :  '  O  thou  wretched  and
-wicked  Druf !  What  is  the  thing  that  can  counter-
-act that?'
+wicked  Druf !  What  is  the  thing  that  can  counteract that?'
 
 2,J  (84).  Then  the  "Drug  demon,  the  guileful  one,
 answered :  '  O  holy,  tall-formed  Sraosha !     This  is
@@ -15270,8 +14253,7 @@ as  other  males  make  their  females.'
 
 42  (93).  The  holy  Sraosha  asked  the  Dru^,  with
 his  club  uplifted  against  her  :  '  O  thou  wretched  and
-wicked  Dru^ !  What  is  the  thing  that  can  counter-
-act that  ? '
+wicked  Dru^ !  What  is  the  thing  that  can  counteract that  ? '
 
 43  (94).  Then  the  Dru£-  demon,  the  guileful  one,
 answered  :  '  O  holy,  tall-formed  Sraosha !  This  is
@@ -15287,9 +14269,6 @@ Hyde  60.  Cf.  Manu  IV,  47  seq.,  and  Polack,  Persien  I,  67  :  'Von
 einem  in  Paris  weilenden  Perser  hinterbrachte  man  dem  Konig,  um
 seine  Emancipation  und  Abtriinnigkeit  vom  Gesetz  zu  beweisen,
 dass  er  Schweinefleisch  esse  und  stehend  die  Function  verrichte.'
-
-
-1 98  vendidad.
 
 
 44  (98).  '  He  does  thereby  as  thoroughly  destroy
@@ -15311,29 +14290,23 @@ as  other  males  make  their  females.'
 
 48  (103).  The  holy  Sraosha  asked  the  Drug;  with
 his  club  uplifted  against  her  :  '  O  thou  wretched  and
-wicked  Dru^!  What  is  the  thing  that  can  counter-
-act that?'
+wicked  Dru^!  What  is  the  thing  that  can  counteract that?'
 
 49  (104).  Then  the  Dru£*  demon,  the  guileful  one,
 answered:  'O  holy,  tall-formed  Sraosha!  this  is  the
 thing  that  counteracts  it,  namely,  if  the  man,  when
 he  has  risen  from  sleep,  shall  say  three  Ahuna-
-Vairya,  two  humatanam,  three  hukhshathro-
-temam,  and  then  chant  the  Ahuna-Vairya  and
+Vairya,  two  humatanam,  three  hukhshathrotemam,  and  then  chant  the  Ahuna-Vairya  and
 offer  up  one  Ye^he  hatam.
 
 50  (107).  '  He  does  thereby  as  thoroughly  destroy
 the  fruit  of  my  womb  as  a  four-footed  wolf  does
 who  tears  the  child  out  of  a  mother's  womb.'
 
-51  (108).  Then  he  shall  speak  unto  Spe^ta  Ar-
-maiti  \  saying :  '  O  Spe/zta  Armaiti,  this  man  do
+51  (108).  Then  he  shall  speak  unto  Spe^ta  Armaiti  \  saying :  '  O  Spe/zta  Armaiti,  this  man  do
 I  deliver  unto  thee ;  this  man  deliver  thou  back
 unto  me,  against  the  mighty  day  of  resurrection ;
 deliver  him  back  as  one  who  knows  the  Gathas,  who
-
-
-1
 
 
 The  genius  of  the  earth  (cf.  Farg.  II,  10).
@@ -15345,8 +14318,7 @@ FARGARD    XVIII.  I  99
 knows  the  Yasna,  and  the  revealed  law 1,  a  wise  and
 clever  man,  who  is  the  Word  incarnate.
 
-52  (112).  'Then  thou  shalt  call  his  name  "Fire-
-creature,  Fire-seed,  Fire-offspring,  Fire-land,"  or  any
+52  (112).  'Then  thou  shalt  call  his  name  "Firecreature,  Fire-seed,  Fire-offspring,  Fire-land,"  or  any
 name  wherein  is  the  word  Fire  V
 
 53(113).  The  holy  Sraosha  asked  the  Dru^-,  with
@@ -15357,12 +14329,10 @@ thine  ?'
 54  (1 14).  Then  the  Dru^  demon,  the  guileful  one,
 answered  :  '  O  holy,  tall-formed  Sraosha  !  This  one
 is  my  fourth  male  who,  either  man  or  woman,  being
-more  than  fifteen  years  of  age,  walks  without  wear-
-ing the  sacred  girdle  and  the  sacred  shirt 3.
+more  than  fifteen  years  of  age,  walks  without  wearing the  sacred  girdle  and  the  sacred  shirt 3.
 
 55(115).  'At  the  fourth  step4  we  Daevas,  at
-once,  wither  him  even  to  the  tongue  and  the  mar-
-row, and  he  goes  thenceforth  with  power  to  destroy
+once,  wither  him  even  to  the  tongue  and  the  marrow, and  he  goes  thenceforth  with  power  to  destroy
 the  world  of  the  holy  spirit,  and  he  destroys  it  like
 the  Yatus  and  the  Za;zdas  V
 
@@ -15393,9 +14363,6 @@ X'arana  sin;  from  the  fourth  step,  it  is  a  tanafuhr  sin'  (Comm.)
 A
 
 
-200  VENDIDAD.
-
-
 58  (120).  '  When  a  man  or  a  woman,  being  more
 than  fifteen  years  of  age,  walks  without  wearing  the
 sacred  girdle  or  the  sacred  shirt.
@@ -15420,8 +14387,7 @@ with  the  sorest  pain  ?'
 
 62(124).  Ahura  Mazda  answered:  'It  is  the
 Cahi1,  O  Spitama  Zarathurtra!  who  goes  a-whoring
-after  the  faithful  and  the  unfaithful,  after  the  wor-
-shippers of  Mazda  and  the  worshippers  of  the  Daevas,
+after  the  faithful  and  the  unfaithful,  after  the  worshippers of  Mazda  and  the  worshippers  of  the  Daevas,
 after  the  wicked  and  the  righteous 2.
 
 63(125).  'Her  look  dries  up  one  third  of  the
@@ -15433,10 +14399,8 @@ growing  plants ;
 
 
 1  The  courtezan,  as  an  incarnation  of  the  female  demon  Gahi
-(see  Introd.  IV,  15).
 
-2  '  [Whether  she  gives  up  her  body  to  the  faithful  or  to  the  un-
-faithful], there  is  no  difference ;  when  she  has  been  with  three  men,
+2  '  [Whether  she  gives  up  her  body  to  the  faithful  or  to  the  unfaithful], there  is  no  difference ;  when  she  has  been  with  three  men,
 she  is  guilty  of  death '  (Comm.)
 
 
@@ -15465,8 +14429,7 @@ the  better,  that  thou  mayst  be  the  happier.
 67-68  (133).  Zarathostra  asked  Ahura  Mazda:  'If
 a  man  shall  come  unto  a  woman  who  has  an  issue
 of  blood,  either  out  of  the  ordinary  course  or  at  the
-usual  period,  and  he  does  so  wittingly  and  know-
-ingly5,   and    she    allows    it   wilfully,   wittingly,    and
+usual  period,  and  he  does  so  wittingly  and  knowingly5,   and    she    allows    it   wilfully,   wittingly,    and
 
 1  The  earth.
 
@@ -15477,16 +14440,14 @@ A.
 strength  of  Spewta  Armaiti.'
 
 3  '  If  a  Gahi  (courtezan)  look  at  running  waters,  they  fall  ;  if  at
-trees,  they  are  stunted  ;  if  she  converse  with  a  pious  man,  his  intel-
-ligence and  his  holiness  are  withered  by  it'  (Saddar  67;  Hyde  74).
+trees,  they  are  stunted  ;  if  she  converse  with  a  pious  man,  his  intelligence and  his  holiness  are  withered  by  it'  (Saddar  67;  Hyde  74).
 Cf.  Manu  IV,  40  seq.
 
 4  It  is  written  in  the  law  (the  Avesta) :  'O  Zarturt  Isfitaman  !  with
 regard  to  woman,  I  say  to  thee  that  any  woman  that  has  given  up
 her  body  to  two  men  in  one  day  is  sooner  to  be  killed  than  a  wolf,
 a  lion,  or  a  snake  :  any  one  who  kills  such  a  woman  will  gain  as
-much  merit  by  it  as  if  he  had  provided  with  wood  a  thousand  fire-
-temples,  or  destroyed  the  dens  of  adders,  scorpions,  lions,  wolves,
+much  merit  by  it  as  if  he  had  provided  with  wood  a  thousand  firetemples,  or  destroyed  the  dens  of  adders,  scorpions,  lions,  wolves,
 or  snakes '  (Old  Rav.  59  b).
 
 6  '  Knowing  her  state  and  knowing  that  it  is  a  sin '  (Comm.)
@@ -15502,14 +14463,12 @@ deed  they  have  done  ?  '
 69(136).  Ahura  Mazda  answered:  'If  a  man
 shall  come  unto  a  woman  who  has  an  issue  of
 blood,  either  out  of  the  ordinary  course  or  at  the
-usual  period,  and  he  does  so  wittingly  and  know-
-ingly, and  she  allows  it  wilfully,  wittingly,  and
+usual  period,  and  he  does  so  wittingly  and  knowingly, and  she  allows  it  wilfully,  wittingly,  and
 knowingly  ;
 
 70  (137).  'He  shall  slay  a  thousand  head  of  small
 cattle ;  he  shall  godly  and  piously  offer  up  to  the
-fire  1  the  entrails 2  thereof  together  with  Zaothra-
-libations  ;  he  shall  bring  the  shoulder  bones  to  the
+fire  1  the  entrails 2  thereof  together  with  Zaothralibations  ;  he  shall  bring  the  shoulder  bones  to  the
 good  waters 3.
 
 71  (140).  'He  shall  godly  and  piously  bring  unto
@@ -15517,10 +14476,8 @@ the  fire  a  thousand  loads  of  soft  wood,  of  Urvasna,
 Vohu-gaona,  Vohu-kereti,  Hadha-naepata,  or  of  any
 sweet-scented  plant4.
 
-72(142).  'He  shall  tie  and  consecrate  a  thou-
-sand bundles  of  baresma;  he  shall  godly  and  piously
-offer  up  to  the  good  waters  a  thousand  Zaothra-
-libations,  together  with  the  Haoma  and  the  meat,
+72(142).  'He  shall  tie  and  consecrate  a  thousand bundles  of  baresma;  he  shall  godly  and  piously
+offer  up  to  the  good  waters  a  thousand  Zaothralibations,  together  with  the  Haoma  and  the  meat,
 cleanly  prepared  and  well  strained  by  a  pious  man,
 together  with  the  roots  of  the  tree  known  as
 Hadha-naepata 5.
@@ -15598,9 +14555,6 @@ have  its  place  between  the  first  and  the  third  part ;  as  the  first  
 4  §§  75,  76  =  Farg.  XIV,  18.
 
 
-204  VENDIDAD.
-
-
 shows  the  fiend's  struggles  to  prevent  the  revelation,  and  the  third
 shows  the  effects  of  it ;  the  second  being,  as  it  were,  an  abstract  of
 the  law,  an  abridged  Vendidad.
@@ -15676,13 +14630,10 @@ thou  who  standest  by  the  river  Dare^a 4,  upon  the
 mountains,  in  the  mansion  of  Pourusaspa 5  ? '
 
 5  (16).  Thus  Zarathuitra  answered  Angra  Mainyu:
-'  O  evil-doer,  Angra  Mainyu !  I  will  smite  the  crea-
-tion of  the  Daeva;  I  will  smite  the  Nasu,  a  creature
+'  O  evil-doer,  Angra  Mainyu !  I  will  smite  the  creation of  the  Daeva;  I  will  smite  the  Nasu,  a  creature
 of  the  Daeva  ;  I  will  smite  the  Pairika  Knathaiti 6,
 till  the  fiend-smiter  Saoshyawt  come  up  to  life  out
 
-
-1  See  Introd.  IV,  22.
 
 2  This  is  a  fragment  of  an  old  myth  in  which  Zarathuitra  and
 Angra  Mainyu  played  respectively  the  parts  of  Oedipus  and  the
@@ -15690,8 +14641,7 @@ Sphinx.     See,  for  further  explanation,  Orm.  Ahr.  §§  163-165.
 
 3  See  Introd.  IV,  40.  The  Commentary  has,  '  Some  say,  those
 stones  are  the  Ahuna-Vairya.'  In  another  attempt  to  account  for  a
-mythical  expression,  which  was  no  longer  understood,  those  thunder-
-bolts were  turned  into  the  nine-knotted  stick  used  in  the  Barashnum
+mythical  expression,  which  was  no  longer  understood,  those  thunderbolts were  turned  into  the  nine-knotted  stick  used  in  the  Barashnum
 (see  Farg.  IX,  14  ;  Comm.  and  Asp.)
 
 4  See  Introd.  Ill,  15.
@@ -15740,8 +14690,7 @@ gave  it,  he  gave  it  to  me  in  the  boundless  Time 5 ;
 1  See  Introd.  IV,  39-40.  2  '  I  know  thee '  (Comm.)
 
 3  Doubtful  (cf.  §  46) ;  possibly,  '  I  was  invoked  by  thy  mother.'
-The  Commentary  has,  '  Some  explain  thus  :  Thy  forefathers  wor-
-shipped me  :  worship  me  also.'
+The  Commentary  has,  '  Some  explain  thus  :  Thy  forefathers  worshipped me  :  worship  me  also.'
 
 4  Ajis  Dahaka  or  Zohak,  who,  as  a  legendary  king,  is  said  to
 have  ruled  the  world  for  a  thousand  years  (Introd.  IV,  1 1 ).
@@ -15752,8 +14701,7 @@ have  ruled  the  world  for  a  thousand  years  (Introd.  IV,  1 1 ).
 FARGARD    XIX.  207
 
 
-to  me  the  Amesha  Spe^tas,  the  all-ruling,  the  all-
-beneficent,  gave  it.'
+to  me  the  Amesha  Spe^tas,  the  all-ruling,  the  allbeneficent,  gave  it.'
 
 10  (35).  Zarathurtra  chanted  aloud  the  Ahuna-
 Vairya.  The  holy  Zarathiutra  said  aloud  :  '  This  I
@@ -15799,17 +14747,13 @@ the  world  and  of  the  law.
 4  See  Introd.  IV,  42.  5  See  Introd.  IV,  15.
 
 
-208  VENDIDAD.
-
-
 '  Invoke,  O  Zarathuitra !  the  powerful  Wind,
 made  by  Mazda,  and  Speuta.  [Armaiti] \  the  fair
 daughter  of  Ahura  Mazda.
 
 14(46).  'Invoke,  O  Zarathuitra!  my  Fravashi 2,
 who  am  Ahura  Mazda,  the  greatest,  the  best,  the
-fairest  of  all  beings,  the  most  solid 3,  the  most  intel-
-ligent, the  best  shapen,  the  highest  in  holiness,  and
+fairest  of  all  beings,  the  most  solid 3,  the  most  intelligent, the  best  shapen,  the  highest  in  holiness,  and
 whose  soul  is  the  holy  Word  4 !
 
 'Invoke,  O  Zarathuitra!  this  creation  of  mine,
@@ -15836,8 +14780,7 @@ Time,  and  Vayu,  whose  action  is  most  high.
 '  I  invoke  the  mighty  Wind,  made  by  Mazda,  and
 Spe/rta  (Armaiti),  the  fair  daughter  of  Ahura  Mazda.
 
-'  I  invoke  the  good  law  of  Mazda,  the  fiend-
-destroying  law  of  Zarathuitra.'
+'  I  invoke  the  good  law  of  Mazda,  the  fienddestroying  law  of  Zarathuitra.'
 
 17(58).  Zarathuitra  asked  Ahura  Mazda:  'O
 Maker    of  the    good   world,   Ahura    Mazda!     With
@@ -15847,7 +14790,6 @@ Maker    of  the    good   world,   Ahura    Mazda!     With
 
 3  See  Introd.  IV,  5.  4  Mathra  Spercta ;  see  Introd.  IV,  40.
 
-5  See  Introd.  IV,  8.
 
 6  See  Introd.  IV,  31,  and  cf.  Farg.  XVIII,  22  seq.
 
@@ -15867,12 +14809,10 @@ O  good,  holy  tree,  made  by  Mazda!  Ashem
 vohu 2 !"
 
 19  (63).  «  Let  the  faithful  man  cut  off  a  twig  of
-baresma,  long  as  a  ploughshare,  thick  as  a  barley-
-corn 3.  The  faithful  one,  holding  it  in  his  left  hand,
+baresma,  long  as  a  ploughshare,  thick  as  a  barleycorn 3.  The  faithful  one,  holding  it  in  his  left  hand,
 shall  not  leave  off  keeping  his  eyes  upon  it4,  whilst
 he  is  offering  up  the  sacrifice  to  Ahura  Mazda  and
-to  the  Amesha-Spewtas,  and  to  the  high  and  beau-
-tiful golden  Haomas,  and  to  Vohu-mano5  and  to  the
+to  the  Amesha-Spewtas,  and  to  the  high  and  beautiful golden  Haomas,  and  to  Vohu-mano5  and  to  the
 good  Rata6,  made  by  Mazda,  holy  and  excellent7.'
 
 20(67).  Zarathurtra  asked  Ahura  Mazda:  'O  thou,
@@ -15985,8 +14925,7 @@ holy  beings." '
 26  (85).  Zarathustra  asked  Ahura  Mazda :  '  O
 thou  all -knowing  Ahura  Mazda  :  Should  I  urge
 upon  the  godly  man,  should  I  urge  upon  the  godly
-woman,  should  I  urge  upon  the  wicked  Daeva-
-worshipper  who  lives  in  sin,  that  they  have  once
+woman,  should  I  urge  upon  the  wicked  Daevaworshipper  who  lives  in  sin,  that  they  have  once
 to  leave  behind  them   the   earth  made  by  Ahura,
 
 ought  to  be  washed  six  times  with  gomez  and  three  times  with
@@ -16016,7 +14955,6 @@ that  grows,  and  all  the  rest  of  their  wealth  1?'
 Ahura  Mazda  answered  :  '  Thou  shouldst,  O  holy
 Zarathustra/
 
-27  (89).  O  Maker  of  the  material  world,  thou
 Holy  One  !  Where  are  the  rewards  given  ?  Where
 does  the  rewarding  take  place  ?  Where  is  the
 rewarding;  fulfilled  ?  Whereto  do  men  come  to
@@ -16042,8 +14980,7 @@ Mazda  3,    they   ask  for   their  spirits  and  souls   the
 'Linquenda  tellus,  et  domus  et  placens
 Uxor,  nee  harum,  quas  colis  arborum.  .  .  . '
 The  translation  is  doubtful  in  its  details ;  yet  there  is  little  doubt
-that  the  sentence  refers  to  future  life  (cf.  §  27).     Aspendiarji  trans-
-lates, '  Shall  the  godly  man  .  .  .  arise  (from  the  dead)  .  .  .  ? '  which
+that  the  sentence  refers  to  future  life  (cf.  §  27).     Aspendiarji  translates, '  Shall  the  godly  man  .  .  .  arise  (from  the  dead)  .  .  .  ? '  which
 seems  to  be  the  meaning  of  the  Pahlavi  Commentary  too.
 
 2  '  Every  one  has  a  noose  cast  around  his  neck  :  when  a  man
@@ -16129,9 +15066,6 @@ the  abode  of  the  gods  rests.
 A
 
 
-214  VENDIDAD.
-
-
 32  (105).  '  Gladly  pass  the  souls  of  the  righteous
 to  the  golden  seat  of  Ahura  Mazda,  to  the  golden
 seat  of  the  Amesha-Spe/ztas,  to  the  Garo-nmanem1,
@@ -16171,8 +15105,7 @@ songs/
 
 2  That  has  performed  the  Barashnum.
 
-3  Ormazd  is  all  perfume,  Ahriman  is  infection  and  stench  (Bun-
-dahij  I ;  Eznig,  Refutatio  Haeresiarum  II) ;  the  souls  of  their  fol-
+3  Ormazd  is  all  perfume,  Ahriman  is  infection  and  stench  (Bundahij  I ;  Eznig,  Refutatio  Haeresiarum  II) ;  the  souls  of  their  fol-
 lowers partake  of  the  same  qualities,  and  by  the  performance  of
 the  Barashnum  both  the  body  and  the  soul  are  perfumed  and
 sweetened.
@@ -16181,14 +15114,11 @@ sweetened.
 
 5  See  Introd.  IV,  n.
 
-6  See  Introd.  IV,  42.
-
 
 FARGARD    XIX.  215
 
 
-36  (120).  '  I  invoke  the  bright,  all  glorious,  bliss-
-ful abode  of  the  holy  ones.
+36  (120).  '  I  invoke  the  bright,  all  glorious,  blissful abode  of  the  holy  ones.
 
 '  I  invoke  the  Garo-nmanem,  the  abode  of  Ahura
 Mazda,  the  abode  of  the  Amesha-Spe^tas,  the  abode
@@ -16224,7 +15154,6 @@ savah,  or  saoka.
 
 2  A  personification  of  the  Ormazdean  weal.
 
-3  See  Introd.  IV,  37.
 
 4  See  Introd.  IV,  14,  and  Yasht  XIV.
 
@@ -16285,10 +15214,8 @@ Fire.
 
 1  See  Introd.  IV,  7.  2  See  Farg.  I,  14.
 
-3  See  Introd.  IV,  30.
 
-4  An  angel  of  knowledge  ;  the  clause  is  found  only  in  the  Ven-
-didad  Sadah.
+4  An  angel  of  knowledge  ;  the  clause  is  found  only  in  the  Vendidad  Sadah.
 
 5  Religious  knowledge.
 
@@ -16310,8 +15237,7 @@ cooked  meat  and  the  offerings  of  boiling  milk  2.
 
 41  (137).  'Offer  up  the  sacrifice  to  the  holy
 Sraosha,  that  the  holy  Sraosha  may  smite  down
-the  fiend  Kuwda3,  who  is  drunken  without  drink-
-ing. He  will  fall  upon  the  men  of  the  Dru^,  the
+the  fiend  Kuwda3,  who  is  drunken  without  drinking. He  will  fall  upon  the  men  of  the  Dru^,  the
 slothful  ones  4,  the  wicked  Daeva-worshippers,  who
 live  in  sin.
 
@@ -16339,8 +15265,7 @@ doubtful.
 
 5  From  the  Vendidad  Sadah.  The  clause  may  have  belonged
 to  the  original  text ;  it  is  preceded  by  another  clause  which  certainly
-did  not  belong  to  it,  and  part  of  which  is  cited  in  the  Commen-
-tary ad  Farg.  VIII,  103,  where  it  would  have  been  more  suitably
+did  not  belong  to  it,  and  part  of  which  is  cited  in  the  Commentary ad  Farg.  VIII,  103,  where  it  would  have  been  more  suitably
 placed :  '  When  he  has  been  cleansed  in  the  next  inhabited  place,
 he  may  then  sow  and  till  the  pasture  fields,  as  food  for  the  sheep
 and  as  food  for  the  ox.'
@@ -16351,7 +15276,6 @@ and  as  food  for  the  ox.'
 Zcndsprache  s.  v.),  an  Iranian  representative  of  the  Eddie  Bifrost.
 There  is  much  probability  in  that  translation.
 
-8  Doubtful.
 
 9  A  word  of  unknown  meaning.
 
@@ -16369,8 +15293,7 @@ Daeva 5,  Driwi 6  the  Daeva,  Daiwi 7  the  Daeva,
 Kasvi 8  the  Daeva,  Paitisha  9  the  most  Daeva-like
 amongst  the  Daevas.]
 
-44  (140).  'And  he  said,  the  guileful,  the  evil-
-doing  Daeva,  Angra  Mainyu  the  deadly:  "What!
+44  (140).  'And  he  said,  the  guileful,  the  evildoing  Daeva,  Angra  Mainyu  the  deadly:  "What!
 let  the  wicked,  evil-doing  Daevas  gather  together
 at  the  head  of  Arezura10."
 
@@ -16380,12 +15303,10 @@ wicked,  evil-doing  Daevas  ;  they  run  away  casting
 the  evil  eye,  the  wicked,  evil-doing  Daevas  :  "  Let
 us  gather  together  at  the  head  of  Arezura  !
 
-46  (143).  '  "  For  he  is  just  born  the  holy  Zara-
-thuitra,  in  the  house  of  Pourushaspa.  How  can  we
+46  (143).  '  "  For  he  is  just  born  the  holy  Zarathuitra,  in  the  house  of  Pourushaspa.  How  can  we
 procure  his  death  ?  He  is  the  stroke  that  fells  the
 fiends  :  he  is  a  counter-fiend  to  the  fiends  ;  he  is  a
-Dru£*  to  the  Drug:  Down  are  the  Daeva-wor-
-shippers,  the  Nasu  made  by  the  Daeva,  the  false-
+Dru£*  to  the  Drug:  Down  are  the  Daeva-worshippers,  the  Nasu  made  by  the  Daeva,  the  false-
 speaking  Lie ! "
 
 47  (147).  '  They  run  away,  they  rush  away,  the
@@ -16442,11 +15363,9 @@ according  to  Hamza  he  was  the  inventor  of  medicine 2 ;  the  Tavids3
 against  sickness  are  inscribed  with  his  name,  and  we  find  in  the
 Avesta  itself  the  Fravashi  of  Thraetaona  invoked  '  against  itch,  hot
 fever,  humours,  cold  fever4,  vavareshi,  against  the  plagues  created
-by  the  serpent  V  We  see  from  this  passage  that  disease  was  under-
-stood as  coming  from  the  serpent ;  in  other  words,  that  it  was
+by  the  serpent  V  We  see  from  this  passage  that  disease  was  understood as  coming  from  the  serpent ;  in  other  words,  that  it  was
 considered  a  sort  of  poisoning 6,  and  this  is  the  reason  why  the
 
-1  See  Introd.  IV,  14.
 
 2  Ed.  Gottwaldt,  p.  23;  cf.  Mirkhond,  Early  Kings  of  Persia,
 Shea,  p.  152.
@@ -16460,9 +15379,6 @@ Shea,  p.  152.
 accounts  for  the  great  part  which  the  serpent  plays  in  the  worship
 of  Asklepios ;  as  sickness  comes  from  him,  from  him  too  must  or
 may  come  the  healing.
-
-
-2  26  VENDIDAD.
 
 
 killer  of  the  serpent  was  invoked  to  act  against  it.  Thus  Thrita-
@@ -16502,15 +15418,12 @@ became  the  name  of  the  first  Iranian  dynasty.
 4  '  That  is  to  say,  who  kept  sickness  in  bonds,  who  kept  death
 in  bonds'  (Comm.)
 
-5  Doubtful.
 
 6  As  Khshathra -Vairya  presides  over  metals,  it  was  a  knife  he
 received,  '  of  which  the  point  and  the  base  were  set  in  gold.'  He
 was  therefore  the  first  who  healed  with  the  knife  (cf.  Farg.VII,  44);
 and  it  appears  from  §  4  that  he  was  also  the  first  who  healed  with
 herbs.     As  for  the  healing  with  the  holy  word,  see  Farg.  XXII.
-
-7  Doubtful.
 
 
 FARGARD    XX.  221
@@ -16535,8 +15448,7 @@ to  thee,  O  Disease,  I   say  avaunt5!
 
 1  The  Vendidad  Sadah  has  here  eight  names  of  diseases :  to
 withstand  Sarana  (head-ache),  to  withstand  Sarastya  (cold  fever),
-to  withstand  Azana,  to  withstand  Azahva,  to  withstand  Kuru-
-gha,  to  withstand  Azivaka,  to  withstand  Duruka,  and  to  withstand
+to  withstand  Azana,  to  withstand  Azahva,  to  withstand  Kurugha,  to  withstand  Azivaka,  to  withstand  Duruka,  and  to  withstand
 
 Astairya.
 
@@ -16556,17 +15468,12 @@ do  we  pray,  all  those  (plants)  do  we  praise,  for  (the  weal  of)  the
 bodies  of  mortals.
 
 4  Vendidad  Sadah  :  6.  To  withstand  sickness,  to  withstand  death,
-to  withstand  pain,  to  withstand  fever,  to  withstand  Sarana,  to  with-
-stand Sarastya,  to  withstand  Azana,  to  withstand  Azahva,  to  with-
+to  withstand  pain,  to  withstand  fever,  to  withstand  Sarana,  to  withstand Sarastya,  to  withstand  Azana,  to  withstand  Azahva,  to  with-
 stand Kurugha,  to  withstand  Azivaka,  to  withstand  Duruka,  to
-withstand  Astairya,  to  withstand  the  disease,  rottenness,  and  infec-
-tion which  Angra  Mainyu  has  created  by  his  witchcraft  against  the
+withstand  Astairya,  to  withstand  the  disease,  rottenness,  and  infection which  Angra  Mainyu  has  created  by  his  witchcraft  against  the
 bodies  of  mortals.
 
 5  Vendidad  Sadah:  To  thee,  O  Sarana,  I  say  avaunt !  to  thee,
-
-
-2  22  VENDIDAD.
 
 
 8(21).  'By  their  might  may  we  smite  down
@@ -16610,7 +15517,6 @@ Sarastya,  I  drive  away  Azana,  I  drive  away  Azahva,  I  drive  away
 Kurugha,  I  drive  away  Asivaka,  I  drive  away  Duruka,  I  drive
 away  Astairya.'
 
-4  See  Introd.  IV,  20-21.
 
 6  '  Gai '  (Coram.),  that  is  Gahi  (see  Introd.  IV,  5) ;  cf.  p.  89,
 note  1,  and  Farg.  XXII,  2,  note.
@@ -16634,8 +15540,7 @@ the  power  he  gave  to  him  to  relieve  the  poor.
 
 K^m  na  mazda : — whom  hast  thou  placed  to
 protect  me,  O  Mazda!  while  the  hate  of  the  fiend  is
-grasping  me  ?  Whom  but  thy  Atar  and  Vohu-
-mano,  by  whose  work  the  holy  world  goes  on  ?
+grasping  me  ?  Whom  but  thy  Atar  and  Vohumano,  by  whose  work  the  holy  world  goes  on  ?
 Reveal  to  me  the  rules  of  thy  law !
 
 Ke  verethrem  g&: — who  is  he  who  will  smite
@@ -16668,8 +15573,6 @@ light  of  the  moon.
 
 From  the  Vendidad  Sadah.
 
-
-2  24  VENDIDAD.
 
 IIIc  (12-17).  Joint  invocation  addressed  to  the  waters  and  to
 the  light  of  the  stars.
@@ -16706,8 +15609,7 @@ night !
 1  The  primeval  bull  who  was  created  by  Ormazd  and  killed  by
 Ahriman  with  the  help  of  the  Crahi.  The  praise  of  the  holy  bull
 serves  as  an  introduction  to  the  praise  of  the  waters.  There  were
-old  myths  in  which  a  cloud  was  compared  to  a  bull  in  the  atmo-
-sphere, from  whom  rain  was  supposed  to  come.  (See  Orm.  Ahr.
+old  myths  in  which  a  cloud  was  compared  to  a  bull  in  the  atmosphere, from  whom  rain  was  supposed  to  come.  (See  Orm.  Ahr.
 §122  seq. ;  cf.  Introd.  V,  5.  Clause  1  is  to  be  recited  when  one
 meets  an  ox  or  any  kind  of  cattle,  Gr.  Rav.  386.)
 
@@ -16738,8 +15640,7 @@ up  the  aerial  way2.  Rise  up  and  roll  along!  thou  in
 whose  rising  and  growing  Ahura  Mazda  made  the
 aerial  way3.
 
-5  (20).  '  Up !  rise  up  and  roll  along !  thou  swift-
-horsed  sun,  above  Hara  Berezaiti,  and  produce
+5  (20).  '  Up !  rise  up  and  roll  along !  thou  swifthorsed  sun,  above  Hara  Berezaiti,  and  produce
 light  for  the  world  (and  mayst  thou  [O  man  !]  rise
 up  there,  if  thou  art  to  abide  in  Garo-nmanem4)5,
 along  the  path  made  by  Mazda,  along  the  way  made
@@ -16763,16 +15664,12 @@ movements  of  light.
 2  Waters  come  down  from  the  sky  to  the  earth  and  come  up
 back  from  the  earth  to  the  sky  (see  Farg.  V,  15  seq.)
 
-3  Doubtful.
 
 4  '  If  thou  art  a  righteous  man '  (Comm.)
 
 5  The  translation  of  this  clause  is  doubtful.
 
 [4]  Q
-
-
-2  26  VENDIDAD.
 
 
 6(23).  'And  thou  shalt  keep  away  the  evil  by
@@ -16811,13 +15708,11 @@ to  facilitate  childbirth.
 *  milk,'  the  one  referring  to  the  milk  of  women,  the  other  to  the
 milk  of  cows.
 
-3  Doubtful.
 
 4  When  the  bull  died,  '  what  was  bright  and  strong  in  his  seed
 was  brought  to  the  sphere  of  the  moon,  and  when  it  was  cleansed
 there  in  the  light  of  the  astre,  two  creatures  were  shaped  with  it,
-a  male  and  a  female,  from  which  came  two  hundred  and  seventy-
-two  kinds  of  animals'  (Bund.  IV,  X;  cf.  Orm.  Ahr.  §§  125  and
+a  male  and  a  female,  from  which  came  two  hundred  and  seventytwo  kinds  of  animals'  (Bund.  IV,  X;  cf.  Orm.  Ahr.  §§  125  and
 127).
 
 
@@ -16851,8 +15746,7 @@ everything  grow1.
 x3  (33)-  '  Up!  rise  up,  ye  stars,  that  have  in  you
 the  seed  of  waters 2,  rise  up  above  Hara  Berezaiti,
 and  produce  light  for  the  world  (and  mayst  thou  [O
-man !]  rise  up  there,  if  thou  art  to  abide  in  Garo-
-nmanem),  along  the  path  made  by  Mazda,  along
+man !]  rise  up  there,  if  thou  art  to  abide  in  Garonmanem),  along  the  path  made  by  Mazda,  along
 the  way  made  by  the  gods,  the  watery  way  they
 opened.
 
@@ -16860,16 +15754,12 @@ opened.
 this  holy  spell :  Of  thee  [O  child !]  I  will  cleanse  the
 birth  and  growth ;  of  thee  [O  woman !]  I  will  make
 
-1  Doubtful.
 
 2  When  Tijtrya,  the  storm  god  who  gives  rain,  became  a  star
 (see  Introd.  IV,  36),  it  was  thought  that  there  was  a  relation
 between  the  stars  and  rain.
 
 Q    2
-
-
-2  28  VENDIDAD.
 
 
 the    body  and   the   strength   pure ;  I   make  thee  a
@@ -16980,8 +15870,7 @@ that  is  to  say,  the  sky.  In  later  Parsism,  Airyaman  appears  as
 
 This  Fargard  is  unfinished  or,  more  correctly,  the  end  of  it  is
 understood.  Airyaman,  called  out  from  his  mansion,  comes  and
-digs  nine  furrows.  It  is  no  doubt  in  order  to  perform  the  Bara-
-shnum 2  or  some  ceremony  of  that  kind,  in  order  to  cleanse  the
+digs  nine  furrows.  It  is  no  doubt  in  order  to  perform  the  Barashnum 2  or  some  ceremony  of  that  kind,  in  order  to  cleanse  the
 unclean,  that  is  to  say,  the  sick  man 3,  and  to  restore  him  to  health
 by  virtue  of  the  Nirang  and  of  the  holy  word.  The  Fargard  ends
 therefore  with  spells  against  sickness  and  against  death.
@@ -16996,13 +15885,11 @@ may  I  pass!)
 
 2  (5).  '  Then  the  ruffian  looked  at  me 5 ;  the
 ruffian  Angra  Mainyu,  the  deadly,  wrought  by  his
-witchcraft  nine  diseases,  and  ninety,  and  nine  hun-
-dred, and  nine  thousand,  and  nine  times  ten  thou-
+witchcraft  nine  diseases,  and  ninety,  and  nine  hundred, and  nine  thousand,  and  nine  times  ten  thou-
 sand diseases.  So  mayst  thou  heal  me,  O  Mathra
 Spewta 6,  thou  most  glorious  one !
 
-3  (8).  'Unto  thee  will  I  give  in  return  a  thou-
-sand fleet,  swift-running  steeds;  offer  them  up7  as
+3  (8).  'Unto  thee  will  I  give  in  return  a  thousand fleet,  swift-running  steeds;  offer  them  up7  as
 a  sacrifice  unto  the  good  Saoka 8,  made  by  Mazda
 and  holy.
 
@@ -17031,8 +15918,7 @@ FARGARD    XXII.  23  I
 high-humped  camels  ;    offer  them  up  as  a  sacrifice
 unto  the  good  Saoka,  made  by  Mazda  and  holy.
 
-4  (12).  '  Unto  thee  will  I  give  in  return  a  thou-
-sand brown  oxen  that  do  not  push  * ;  offer  them  up
+4  (12).  '  Unto  thee  will  I  give  in  return  a  thousand brown  oxen  that  do  not  push  * ;  offer  them  up
 as  a  sacrifice  unto  the  good  Saoka,  made  by  Mazda
 and  holy.
 
@@ -17058,8 +15944,7 @@ II.
 
 7  (22).  The  Maker  Ahura  Mazda  called  for
 Nairyo-sangha 2 :  Go  thou,  Nairyo-sangha,  the
-herald,  and  drive  towards  the  mansion  of  Airya-
-man,  and  speak  thus  unto  him  :
+herald,  and  drive  towards  the  mansion  of  Airyaman,  and  speak  thus  unto  him  :
 
 8  (23).  Thus  speaks  Ahura  Mazda,  the  Holy
 One,  unto  thee:  T,  Ahura  Mazda,  the  Maker  of
@@ -17096,8 +15981,7 @@ Mazda  and  holy.
 high-humped  camels ;  offer  them  up  as  a  sacrifice
 unto  the  good  Saoka,  made  by  Mazda  and  holy.
 
-11  (30).  '  Unto  thee  will  I  give  in  return  a  thou-
-sand brown  oxen  that  do  not  push  ;  offer  them  up
+11  (30).  '  Unto  thee  will  I  give  in  return  a  thousand brown  oxen  that  do  not  push  ;  offer  them  up
 as  a  sacrifice  unto  the  good  Saoka,  made  by  Mazda
 and  holy.
 
@@ -17132,13 +16016,11 @@ there  may  I  pass !)
 
 15(39).  'Then  the  ruffian  looked  at  me;  the
 ruffian  Angra  Mainyu,  the  deadly,  wrought  by  his
-witchcraft  nine  diseases,  and  ninety,  and  nine  hun-
-dred, and  nine  thousand,  and  nine  times  ten
+witchcraft  nine  diseases,  and  ninety,  and  nine  hundred, and  nine  thousand,  and  nine  times  ten
 thousand  diseases.  So  mayst  thou  heal  me,  O
 Airyaman,  the  much-desired!
 
-16  (40).  '  Unto  thee  will  I  give  in  return  a  thou-
-sand fleet,  swift-running  steeds ;  offer  them  up  as  a
+16  (40).  '  Unto  thee  will  I  give  in  return  a  thousand fleet,  swift-running  steeds ;  offer  them  up  as  a
 sacrifice  unto  the  good  Saoka,  made  by  Mazda  and
 holy.
 
@@ -17146,8 +16028,7 @@ holy.
 high-humped  camels ;  offer  them  up  as  a  sacrifice
 unto  the  good  Saoka,  made  by  Mazda  and  holy.
 
-17  (44).  '  Unto  thee  will  I  give  in  return  a  thou-
-sand brown  oxen  that  do  not  push ;  offer  them  up
+17  (44).  '  Unto  thee  will  I  give  in  return  a  thousand brown  oxen  that  do  not  push ;  offer  them  up
 as  a  sacrifice  unto  the  good  Saoka,  made  by  Mazda
 and  holy.
 
@@ -17171,20 +16052,15 @@ eagerly  set  off  the  much-desired  Airyaman,  towards
 A
 
 
-234  VENDIDAD
-
-
 the  mountain  of  the  holy  questions  1,  towards  the
 forest  of  the  holy  questions.
 
 20  (54).  Nine  stallions  brought  he  with  him,  the
 much-desired  Airyaman  2.
 
-Nine  camels  brought  he  with  him,  the  much-
-desired  Airyaman.
+Nine  camels  brought  he  with  him,  the  muchdesired  Airyaman.
 
-Nine  bulls  brought  he  with  him,  the  much-
-desired  Airyaman.
+Nine  bulls  brought  he  with  him,  the  muchdesired  Airyaman.
 
 Nine  head  of  small  cattle  brought  he  with  him,
 the  much-desired  Airyaman.
@@ -17244,8 +16120,7 @@ he  gave  him  to  relieve  the  poor.
 
 '  K^m  na  mazda  : — whom  hast  thou  placed  to
 protect  me,  O  Mazda !  while  the  hate  of  the  fiend
-is  grasping  me  ?  Whom  but  thy  Atar  and  Vohu-
-mano,  by  whose  work  the  holy  world  goes  on  ?
+is  grasping  me  ?  Whom  but  thy  Atar  and  Vohumano,  by  whose  work  the  holy  world  goes  on  ?
 Reveal  to  me  the  rules  of  thy  law!
 
 lKe  verethrem  gk\ — who  is  he  who  will  smite
@@ -17258,8 +16133,7 @@ and  help  whomsoever  thou  pleasest.
 Spewta!  Perish,  O  fiendish  Druf!  Perish,  O  brood
 of  the  fiend !  Perish,  O  world  of  the  fiend !  Perish
 away,  O  Dru£" !  Perish  away  to  the  regions  of  the
-north,  never  more  to  give  unto  death  the  living-
-world  of  the  holy  spirit!']
+north,  never  more  to  give  unto  death  the  livingworld  of  the  holy  spirit!']
 
 
 TRANSLITERATION    OF    ORIENTAL    ALPHABETS.
@@ -17300,7 +16174,6 @@ P*
 
 <
 
-0
 
 w
 
@@ -17503,11 +16376,8 @@ co
 
 El
 
-0
 
-
-•        -fr-
-ee
+•        -free
 
 —
 .          Ct
@@ -17548,7 +16418,6 @@ a
 
 (A
 
-3
 
 o
 
@@ -17604,8 +16473,6 @@ CO
 a!
 
 
-3
-
 o
 
 
@@ -17645,19 +16512,10 @@ i—*     CO
 Pi
 
 
-3
-
-
-3
 C
 
 Eh
 
-
-93
-
-
-83
 
 +=
 S3
@@ -17673,9 +16531,6 @@ S3
 
 
 CO    *    m    CD    N
-
-
-238
 
 
 TRANSLITERATION    OF    ORIENTAL    ALPHABETS
@@ -17761,7 +16616,6 @@ nj\
 
 •  .
 
-9
 
 Q
 
@@ -17836,7 +16690,6 @@ DO
 
 •
 
-0
 
 D'S
 
@@ -17860,7 +16713,6 @@ a
 
 ^)
 
-3
 
 •^
 
@@ -17885,7 +16737,6 @@ N
 
 .  ^S/"
 
-3
 
 ^    .    .
 
@@ -17912,7 +16763,6 @@ Vf
 
 12  IS
 
-17
 
 n
 
@@ -17971,7 +16821,6 @@ M
 
 i
 
-13
 D
 
 *-4
@@ -18011,7 +16860,6 @@ J
 
 C
 
-2
 C
 
 .   8
@@ -18045,7 +16893,6 @@ e3
 to
 "3
 
-03
 
 1— 1
 
@@ -18087,7 +16934,6 @@ CM
 
 CO
 
-0
 
 s
 
@@ -18107,11 +16953,9 @@ CO
 
 e3
 
-1
 
 'i
 
-1
 
 •       to        CO
 
@@ -18121,9 +16965,6 @@ e3
 
 (.
 
-1
-
-0
 
 a
 
@@ -18133,7 +16974,6 @@ c8
 
 crt
 
-0
 
 O
 >
@@ -18148,9 +16988,6 @@ to
 
 C
 
-0
-
-3
 
 c
 
@@ -18160,7 +16997,6 @@ M
 
 f3
 
-1
 
 n         •»         *
 
@@ -18183,7 +17019,6 @@ J
 
 |2
 
-00
 
 C5
 
@@ -18254,9 +17089,6 @@ P
 FOR    THE    SACRED    BOOKS    OF    THE    EAST.
 
 
-239
-
-
 a
 
 
@@ -18275,12 +17107,6 @@ to
 a  0  n  n
 
 
-9
-
-
-1
-
-
 n
 
 
@@ -18297,9 +17123,6 @@ CLr
 
 
 a-
-
-
-1
 
 
 u>
@@ -18354,9 +17177,6 @@ d
 
 EG
 
-3
-
-0
 
 rn
 
@@ -18402,9 +17222,6 @@ cu
 ^  s
 
 
-3
-
-
 CO
 
 CD
@@ -18418,7 +17235,6 @@ e8
 ■8
 
 
-03
 S
 
 co
@@ -18437,10 +17253,6 @@ a
 CU
 
 
-73
-
-
-3
 C
 cu
 
@@ -18481,8 +17293,6 @@ CO       1 — I
 
 CL,
 
-72
-
 
 CO
 
@@ -18490,7 +17300,6 @@ CO
 
 CO
 
-3
 C
 
 
@@ -18506,8 +17315,6 @@ OOfflOHNM^WtON
 
 OOOOHtMnrtflOCONOOO
 
-
-240
 
 TRANSLITERATION    OF    ORIENTAL    ALPHABETS.
 
@@ -18534,7 +17341,6 @@ V
 
 „    jpi        ^2                •                ■•■••                •                ••••                 •••■■
 
-73
 
 c
 N
@@ -18561,7 +17367,6 @@ o
 
 m
 
-2
 
 _     in
 
@@ -18671,7 +17476,6 @@ i      0
 +j
 
 •  O
-03
 
 ;  £
 
@@ -18730,8 +17534,7 @@ variorum  instruxit  Thomas  Gaisford,  S.T.P.     1848.  fol.  cloth,  il.  12s
 Suidae  Lexicon.    Ad  Codd.  MSS.  recensuit  Thomas  Gaisford,
 
 S.T.P.     Tomi  III.      1834.  fol.  cloth,  2I.  2s.
-Scheller's  Lexicon  of  the  Latin  Tongue,  with  the  German  ex-
-planations translated  into  English  by  J.  E.  Riddle,  M.A.     1835.  fol.
+Scheller's  Lexicon  of  the  Latin  Tongue,  with  the  German  explanations translated  into  English  by  J.  E.  Riddle,  M.A.     1835.  fol.
 cloth,  1/.  is.
 A  Latin  Dictionary,  founded  on  Andrews'  edition  of  Freund's
 Latin    Dictionary,   revised,   enlarged,  and  in    great   part   rewritten   by
@@ -18743,7 +17546,6 @@ Tomi  III.     8vo.  cloth,  15s.
 Sold  separately:
 Hephaestion,   Terentianus  Maurus,  Proclus,   cum   annotationibus,  etc.
 Tomi  II.  10s.         Scriptores  Latini.  5s.
-[2]
 
 
 Clarendon  Press,  Oxford.
@@ -18757,35 +17559,29 @@ A  Treatise  on  the  use  of  the  Tenses  in  Hebrew.     By  S.  R.
 
 Driver,  M.A.     Extra  fcap.  8vo.  cloth,  6s.  6d.
 
-Thesaurus  Syriaeus  :  collegerunt  Quatremere,  Bernstein,  Lors-
-bach,  Arnoldi,  Field:  edidit  R.  Payne  Smith,  S.T.P.R.
+Thesaurus  Syriaeus  :  collegerunt  Quatremere,  Bernstein,  Lorsbach,  Arnoldi,  Field:  edidit  R.  Payne  Smith,  S.T.P.R.
 Fasc.  I-V.   1868-80.  sm.  fol.  each,  ll.  is.
 Vol.  I,  containing  Fasc.  I-V.  sm.  fol.  cloth,  5/.  5s.  Just  Published.
 
 A  Practical  Grammar  of  the  Sanskrit  Language,  arranged
 with  reference  to  the  Classical  Languages  of  Europe,  for  the  use  of
-English  Students,  by  Monier  Williams,  M.A.,  Boden  Professor  of  San-
-skrit.    Fourth  Edition,  1877.     8vo.  cloth,  15s.
+English  Students,  by  Monier  Williams,  M.A.,  Boden  Professor  of  Sanskrit.    Fourth  Edition,  1877.     8vo.  cloth,  15s.
 
-A  Sanskrit-English  Dictionary,  Etymologically  and  Philo-
-logically  arranged,  with  special  reference  to  Greek,  Latin,  German,
+A  Sanskrit-English  Dictionary,  Etymologically  and  Philologically  arranged,  with  special  reference  to  Greek,  Latin,  German,
 Anglo-Saxon,  English,  and  other  cognate  Indo-European  Languages.
 By  Monier  Williams,  M.A.,  Boden  Professor  of  Sanskrit.  1872.  4to.
 cloth,  4/.  14s.  6d.
 
 Nalopakhyanam.  Story  of  Nala,  an  Episode  of  the  Maha-
-Bhirata  :  the  Sanskrit  text,  with  a  copious  Vocabulary,  and  an  im-
-proved version  of  Dean  Milman's  Translation.  By  Monier  Williams,  M.A.
+Bhirata  :  the  Sanskrit  text,  with  a  copious  Vocabulary,  and  an  improved version  of  Dean  Milman's  Translation.  By  Monier  Williams,  M.A.
 Second  Edition,  Revised  arid  Improved.      1 879.  8vo.  cloth,  15s.
 
 Sakuntala.  A  Sanskrit  Drama,  in  seven  Acts.  Edited  by
 Monier  Williams,  M.A.     Second  Edition,   1876.    8vo.  cloth,  2  is.
 
-An  Anglo-Saxon  Dictionary,  by  Joseph  Bosworth,  D.D.,  Pro-
-fessor of  Anglo-Saxon,  Oxford.     New  edition.     In  the  Press.
+An  Anglo-Saxon  Dictionary,  by  Joseph  Bosworth,  D.D.,  Professor of  Anglo-Saxon,  Oxford.     New  edition.     In  the  Press.
 
-An  Icelandic-English  Dictionary,  based  on  the  MS.  col-
-lections of  the  late  Richard  Cleasby.  Enlarged  and  completed  by
+An  Icelandic-English  Dictionary,  based  on  the  MS.  collections of  the  late  Richard  Cleasby.  Enlarged  and  completed  by
 G.  Vigfiisson.  With  an  Introduction,  and  Life  of  Richard  Cleasby,
 by  G.  Webbe  Dasent,  D.C.L.     1874.  4to.  cloth,  3/.  7s.
 
@@ -18856,8 +17652,7 @@ Sophocles  :  Scholia  Graeca  :
 Vol.  I.  ed.  P.  Elmsley,  A.M.     1825.  8vo.  clotb,  4s.  6d.
 Vol.  II.  ed.  Guil.  Dindorfius.     1852.  8vo.  clotb,  4s.  6d.
 
-Euripides:  Tragoediae  et  Fragmenta, ex  recensione  Guil. Din-
-dorfii.    Tomi  II.     1834.  8vo.  clotb,  10s.
+Euripides:  Tragoediae  et  Fragmenta, ex  recensione  Guil. Dindorfii.    Tomi  II.     1834.  8vo.  clotb,  10s.
 
 Euripides  :    Annotationes   Guil.    Dindorfii.    Partes  II.    1840.
 
@@ -18894,14 +17689,12 @@ cloth,  Ks.
 Anecdota  Graeea  Oxoniensia.    Edidit  J.  A.  Cramer,  S.T.P.
 Tomi  IV.     1835.  8vo.  cloth,  il.  2s.
 
-Anecdota  Graeea  e  Codd.  MSS.  Bibliothecae  Regiae  Parisien-
-sis.     Edidit  J.  A.  Cramer,  S.T.P.    Tomi  IV.    1839.  8vo.  cloth,  il.  2s.
+Anecdota  Graeea  e  Codd.  MSS.  Bibliothecae  Regiae  Parisiensis.     Edidit  J.  A.  Cramer,  S.T.P.    Tomi  IV.    1839.  8vo.  cloth,  il.  2s.
 
 Apsinis  et  Longini  Rhetorica.    E  Codicibus  MSS.  recensuit
 Joh.  Bakius.     1849.  8vo.  cloth,  3s.
 
-Aristoteles;  ex  recensione  ImmanuelisBekkeri.    Accedunt  In-
-dices Sylburgiani.     Tomi  XI.     1837.  8vo.  cloth,  2I.  10s.
+Aristoteles;  ex  recensione  ImmanuelisBekkeri.    Accedunt  Indices Sylburgiani.     Tomi  XI.     1837.  8vo.  cloth,  2I.  10s.
 The  volumes  (except  vol.  IX.)  may  be  had  separately,  price  5s.  6d.  each.
 
 Aristotelis  Ethica  Wieomachea,  ex  recensione  Immanuelis
@@ -18930,13 +17723,11 @@ Heraeliti  Ephesii  Reliquiae.     Recensuit   I.  Bywater,  M.A.
 
 Herculanensium  VoluminumPartes  II.  1824.  8vo.  cloth,  10s.
 
-Homerus :  Ilias,  cum  brevi  Annotatione  C.  G.  Heynii.  Acce-
-dunt Scholia  minora.     Tomi  II.     1834.  8vo.  cloth,  15s.
+Homerus :  Ilias,  cum  brevi  Annotatione  C.  G.  Heynii.  Accedunt Scholia  minora.     Tomi  II.     1834.  8vo.  cloth,  15s.
 
 Homerus:  Ilias,  ex  rec.  Guil. Dindorfii.  1856.  8vo.  cloth,  5s.  6d.
 
-Homerus :  Scholia  Graeea  in  Iliadem.  Edited  by  Prof.  W.  Din-
-dorf,  after  a  new  collation  of  the  Venetian  MSS.  by  D.  B.  Monro,
+Homerus :  Scholia  Graeea  in  Iliadem.  Edited  by  Prof.  W.  Dindorf,  after  a  new  collation  of  the  Venetian  MSS.  by  D.  B.  Monro,
 M.A.,  Fellow  of  Oriel  College.
 
 Vols.  I.  II.  1875.  Svo.  cloth,  24s.  Vols.  III.  IV.  1877.  8vo.  cloth,  26s.
@@ -18967,8 +17758,7 @@ II.  Isocrates.     1 82 2.  8vo.  cloth,  Js.
 
 III.  Isaeus,  Aeschines,  Lycurgus,Dinarchus,etc.  1823.  8vo.  cloth,  7s.
 
-Scholia  Graeea  in  Aeschinem  et  Isocratem.  Edidit  G.  Dindor-
-fius.     1852.  8vo.  cloth,  4s.
+Scholia  Graeea  in  Aeschinem  et  Isocratem.  Edidit  G.  Dindorfius.     1852.  8vo.  cloth,  4s.
 
 Paroemiographi  Graeei,  quorum  pars  nunc  primum  ex  Codd.
 MSS.  vulgatur.     Edidit  T.  Gaisford,  S.T.P.     1836.    8vo.   cloth,  $s.  6d.
@@ -18980,8 +17770,7 @@ cloth,  8s.  6d.
 Plato :  Philebus,  with  a  revised  Text  and  English  Notes,  by
 Edward  Poste,  M.A.     i860.  8vo.  cloth,  7s.  6d.
 
-Plato :  Sophistes  and  Politieus,  with  a  revised  Text  and  Eng-
-lish Notes,  by  L.Campbell,  M.A.     1866.  8vo.  cloth,  lSs.
+Plato :  Sophistes  and  Politieus,  with  a  revised  Text  and  English Notes,  by  L.Campbell,  M.A.     1866.  8vo.  cloth,  lSs.
 
 Plato  :  Theaetetus,  with  a  revised  Text  and  English  Notes,  by
 L.Campbell,  M.A.     1861.  8vo.  cloth,  9s.
@@ -19002,8 +17791,7 @@ Plotinus.    Edidit  F.  Creuzer.    Tomi  III.     1835.  4to.  1/.  8s.
 Stobaei  Florilegium.  Ad  MSS.fidem  emendavit  et  supplevit
 T.  Gaisford,  S.T.P.     Tomi  IV.     1822.  8vo.  cloth,  il.
 
-Stobaei  Eclogarum  Physiearum  et  Ethicarum  libri  duo.  Ac-
-cedit  Hieroclis  Commentarius  in  aurea  carmina  Pythagoreorum.  Ad
+Stobaei  Eclogarum  Physiearum  et  Ethicarum  libri  duo.  Accedit  Hieroclis  Commentarius  in  aurea  carmina  Pythagoreorum.  Ad
 MSS.Codd.recensuitT.Gaisford.S.T.P.  Tomill.  1850.  8vo.c/o/A,lls.
 
 Thucydides:  History  of  the  Peloponnesian  War,  translated
@@ -19014,20 +17802,16 @@ In  the  Press.
 Clarendon  Press,  Oxford.
 
 
-Xenophon :  Historia  Graeca,  ex  recensione  et  cum  annotatio-
-nibus  L.  Dindorfii.     Second  Edition,  1852.  8vo.  cloth,  lOs.Gd.
+Xenophon :  Historia  Graeca,  ex  recensione  et  cum  annotationibus  L.  Dindorfii.     Second  Edition,  1852.  8vo.  cloth,  lOs.Gd.
 
-Xenophon :  Expeditio  Cyri,  ex  rec.  et  cum  annotatt.  L.  Din-
-dorfii.    Second  Edition,  1855.  8vo.  cloth,  ios.6d.
+Xenophon :  Expeditio  Cyri,  ex  rec.  et  cum  annotatt.  L.  Dindorfii.    Second  Edition,  1855.  8vo.  cloth,  ios.6d.
 
-Xenophon:  Institutio  Cyri,  ex  rec.  et  cum  annotatt.  L.  Din-
-durfii.     1857.  8vo.  cloth,  ios.6d.
+Xenophon:  Institutio  Cyri,  ex  rec.  et  cum  annotatt.  L.  Dindurfii.     1857.  8vo.  cloth,  ios.6d.
 
 Xenophon:  Memorabilia  Socratis,  ex  rec.  et  cum  annotatt.  L.
 Dindorfii.     1862.  8vo.  cloth,  p.  6d.
 
-Xenophon :  Opuscula  Politica  Equestria  et  Venatica  cum  Arri-
-ani  Libello  de  Venatione,  ex  rec.  et  cum  annotatt.  L.  Dindorfii.  1866.
+Xenophon :  Opuscula  Politica  Equestria  et  Venatica  cum  Arriani  Libello  de  Venatione,  ex  rec.  et  cum  annotatt.  L.  Dindorfii.  1866.
 8vo.  cloth,  1  os.  6c?.
 
 THE  HOLY  SCRIPTURES,  &e.
@@ -19041,11 +17825,9 @@ John  Wycliffe,  about  a.d.  1 380,  and  Revised  by  John  Purvey,  about
 a.d.  1388.  Reprinted  from  the  above.  With  Introduction  and  Glossary
 by  W.  W.  Skeat,  M.A.     1S79.  Extra  fcap.  8vo.  cloth,  6s.
 
-The  Holy  Bible :  an  exact  reprint,  page  for  page,  of  the  Author-
-ized Version  published  in  the  year  1611.    Demy  4to.  half  bound,  il.  is.
+The  Holy  Bible :  an  exact  reprint,  page  for  page,  of  the  Authorized Version  published  in  the  year  1611.    Demy  4to.  half  bound,  il.  is.
 
-Vetus  Testamentum  Graeee  cum  Variis  Lectionibus.  Edi-
-tionem  a  R.  Holmes,  S.T.P.  inchoatam  continuavit  J.  Parsons,  S.T.B.
+Vetus  Testamentum  Graeee  cum  Variis  Lectionibus.  Editionem  a  R.  Holmes,  S.T.P.  inchoatam  continuavit  J.  Parsons,  S.T.B.
 Tomi  V.  1 798-1 82 7.  folio,  7/.
 
 Vetus    Testamentum    ex   Versione    Septuaginta    Interpretum
@@ -19053,8 +17835,7 @@ Vetus    Testamentum    ex   Versione    Septuaginta    Interpretum
 secundum  exemplar  Vaticanum  Romae  editum.     Accedit  potior  varietas
 Codicis  Alexandrini.    Tomi   III.     Editio  Altera.     i8mo.    cloth,   18s.
 
-Origenis  Hexaplorum  quae  supersunt;  sive,  Veterum  Inter-
-pretum Graecorum  in  totum  Vetus  Testamentum  Fragmenta.  Edidit
+Origenis  Hexaplorum  quae  supersunt;  sive,  Veterum  Interpretum Graecorum  in  totum  Vetus  Testamentum  Fragmenta.  Edidit
 Fridericus  Field,  A.M.     2  vols.  1867-1874.  410.  cloth,  5/.  5s.
 
 Libri  Psalmorum.  Versio  antiqua  Latina,  cum  Paraphrasi
@@ -19068,8 +17849,7 @@ Doct.     i860.  8vo.  cloth,  10s.  6d.
 The  Psalms  in  Hebrew  without  points.  1879.  Crown  8vo.
 cloth,  3s.  6d.
 
-Libri  Prophetarum  Majorum,  cum  Lamentationibus  Jere-
-miae,  in  Dialecto  Linguae  Aegyptiacae  Memphitica  seu  Coptica.  Edidit
+Libri  Prophetarum  Majorum,  cum  Lamentationibus  Jeremiae,  in  Dialecto  Linguae  Aegyptiacae  Memphitica  seu  Coptica.  Edidit
 cum  Versione  Latina  H.  Tattam,  S.T.P.  Tomi  II.    1852.  8vo.  cloth,  175,
 
 
@@ -19086,8 +17866,7 @@ Textus  in  ordine  parallelo  dispositi.  Accedit  collatio  Codicis  Sinailici
 Edidit  E.  H.  Hansell,   S.T.B.     Tomi  III.     1864.   8vo.   half  morocco,
 2I.  12s.  6d.
 
-Novum  Testamentum  Graece.  Accedunt  parallela  S.  Scrip-
-turae  loca,  necnon  vetus  capitulorum  notatio  et  canones  Eusebii.  Edidit
+Novum  Testamentum  Graece.  Accedunt  parallela  S.  Scripturae  loca,  necnon  vetus  capitulorum  notatio  et  canones  Eusebii.  Edidit
 Carolus  Lloyd,  S.T.P.R.,  necnon  Episcopus  Oxoniensis.  i8mo.  cloth,  3s.
 
 The  same  on  writing  paper,  with  large  margin,  cloth,  10s.  6d.
@@ -19138,9 +17917,6 @@ of  his  Life  by  William  Bright,  D.D.,  Regius  Professor  of  Ecclesiastica
 History,  Oxford.     1873.    Crown  8vo.  cloth,  9s.
 
 
-8  Clarendon  Press,  Oxford.
-
-
 St.  Augustine:  Select  Anti-Pelagian  Treatises,  with  the  Acts
 of  the  Second  Council  of  Orange.  With  an  Introduction  by  William
 Bright,  D.D.     Crown  8vo.  cloth,  9s.
@@ -19171,19 +17947,16 @@ The  same,  translated  by  R.  Payne  Smith,  M.A.  2  vols.  1859.
 8vo.  cloth,  14s.
 
 Ephraemi  Syri,  Rabulae  Episcopi  Edesseni,  Balaei,  aliorumque
-Opera  Selecta.  E  Codd.  Syriacis  MSS.  in  Museo  Britannico  et  Biblio-
-theca  Bodleiana  asservatis  primus  edidit  J.  J.  Overbeck.  1865.  8vo.
+Opera  Selecta.  E  Codd.  Syriacis  MSS.  in  Museo  Britannico  et  Bibliotheca  Bodleiana  asservatis  primus  edidit  J.  J.  Overbeck.  1865.  8vo.
 cloth,  il.  is.
 
 Eusebii  Pamphili  Evangelicae  Praeparationis  Libri  XV.  Ad
 Codd.  MSS.  recensuit  T.  Gaisford,  S.T.P.  Tomi  IV.  1843.  Svo.
 cloth,  il.  10s.
 
-Eusebii  Pamphili  Evangelicae  Demonstrations  Libri  X.  Re-
-censuit T.  Gaisford,  S.T.P.     Tomi  II.     1852.  Svo.  cloth,  15s.
+Eusebii  Pamphili  Evangelicae  Demonstrations  Libri  X.  Recensuit T.  Gaisford,  S.T.P.     Tomi  II.     1852.  Svo.  cloth,  15s.
 
-Eusebii  Pamphili  contra  Hieroclem  et  Marcellum  Libri.  Re-
-censuit T.  Gaisford,  S.T.P.     1852.  8vo.  cloth,  7s.
+Eusebii  Pamphili  contra  Hieroclem  et  Marcellum  Libri.  Recensuit T.  Gaisford,  S.T.P.     1852.  8vo.  cloth,  7s.
 
 Eusebius'  Ecclesiastical  History,  according  to  the  text  of
 
@@ -19257,8 +18030,7 @@ Works.    10  vols.    1855.   8vo.   cloth,  3/.  3s.
 Bright  (W.,  D.D.).  Chapters  of  Early  English  Church  History.
 1878.  8vo.  cloth,  12s.
 
-Burnet's  History  of  the  Reformation  of  the  Church  of  Eng-
-hnd.  A  new  Edition.  Carefully  revised,  and  the  Records  collated
+Burnet's  History  of  the  Reformation  of  the  Church  of  Enghnd.  A  new  Edition.  Carefully  revised,  and  the  Records  collated
 with  the  originals,  by  N.Pocock,  M.A.     7  vols.   1865.  Svo.  4/.  4s.
 
 Burnet's  Life  of  Sir  M.  Hale,  and  Fell's  Life  of  Dr.  Hammond.
@@ -19275,8 +18047,7 @@ io  Clarendon  Press,  Oxford.
 
 Cardwell's  Documentary  Annals  of  the  Reformed  Church  of
 
-England;  being  a  Collection  of  Injunctions,  Declarations,  Orders,  Arti-
-cles of  Inquiry,  &c.  from  1546  to  17 16.  2  vols.   1843.  8vo.  cloth,  1 8s.
+England;  being  a  Collection  of  Injunctions,  Declarations,  Orders,  Articles of  Inquiry,  &c.  from  1546  to  17 16.  2  vols.   1843.  8vo.  cloth,  1 8s.
 
 Cardwell's  History  of  Conferences  on  the  Book  of  Common
 
@@ -19308,8 +18079,7 @@ Second  Edition,  1863.  fcap.  8vo.  cloth,  4s.  6d.
 Inett's  Origines  Anglicanae  (in  continuation  of  Stillingfleet).
 Edited  by  J.  Griffiths,  M.A.     3  vols.  1855.  8vo-  cloth,  15s.
 
-John,  Bishop  of  Ephesus.  The  Third  Part  of  his  Ecclesias-
-tical History.  [In  Syriac]  Now  first  edited  by  William  Cureton,
+John,  Bishop  of  Ephesus.  The  Third  Part  of  his  Ecclesiastical History.  [In  Syriac]  Now  first  edited  by  William  Cureton,
 M.A.     1853.  410.  cloth,  il.  12s.
 
 The  same,  translated  by  R.  Payne  Smith,  M.A.  i860.  8vo.
@@ -19348,8 +18118,7 @@ VI,  and  Elizabeth.  Edited  by  E.  Cardwell,  D.D.  1850.  8vo.  cloth,
 Shirley's  (W.  W.)  Some  Account  of  the  Church  in  the  Apostolic
 Age.     Second  Edition,  1874.  fcap.  8vo.  cloth,  3s.  6c?.
 
-Shuekford's  Sacred  and  Profane  History  connected  (in  con-
-tinuation of  Prideaux).     2  vols.  1848.  8vo.  cloth,  10s.
+Shuekford's  Sacred  and  Profane  History  connected  (in  continuation of  Prideaux).     2  vols.  1848.  8vo.  cloth,  10s.
 
 Stillingfleet's  Origines  Britannicae,  with  Lloyd's  Historical
 Account  of  Church  Government.  Edited  byT.  P.  Pantin,  M.A.  2  vols.
@@ -19374,8 +18143,7 @@ Ecclesiastical  Memorials.    6  vols.  1822.  8vo.  cloth,  1/.  irs.
 Annals  of  the  Reformation.   7  vols.   8vo.  cloth,  2/.  3J.  6d.
 General  Index.     2  vols.  1828.  8vo.  cloth,  11s.
 
-Sylloge  Confessiortum  sub  tempus  Reformandae  Ecclesiae  edi-
-tarum.  Subjiciuntur  Catechismus  Heidelbergensis  et  Canones  Synodi
+Sylloge  Confessiortum  sub  tempus  Reformandae  Ecclesiae  editarum.  Subjiciuntur  Catechismus  Heidelbergensis  et  Canones  Synodi
 Dordrechtanae.    1827.  8vo.  cloth,  8s.
 
 ENGLISH  THEOLOGY.
@@ -19398,9 +18166,6 @@ Burton's  (Edward)  Testimonies  of  the  Ante-Nicene  Fathers  to
 the  Divinity  of  Christ.     Second  Edition,  1829.  8vo.  cloth,  ■js.
 
 B3
-
-
-12  Clarendon  Press,  Oxford.
 
 
 Burton's  (Edward)  Testimonies  of  the  Ante-Nicene  Fathers  to
@@ -19454,8 +18219,7 @@ of  a  Harmony  of  the  Gospels.     5  vols.  1837.  8vo.  cloth,  3/.  3s.
 Hall's  (Bp.)  "Works.  A  ne<w  Edition,  by  Philip  Wynter,  D.D.
 10  vols.   1863.  8vo.  cloth,  3/.  3s.
 
-Hammond's  Paraphrase  and  Annotations  on  the  New  Testa-
-ment.    4  vols.  1845.  8vo.  cloth,  ll.
+Hammond's  Paraphrase  and  Annotations  on  the  New  Testament.    4  vols.  1845.  8vo.  cloth,  ll.
 
 Hammond's  Paraphrase  on  the  Book  of  Psalms.  2  vols.  1850.
 8vo.  cloth,  ios.
@@ -19464,9 +18228,6 @@ Heurtley's  Collection  of  Creeds.     1858.  8vo.  cloth,  6s.  6d.
 
 Homilies  appointed  to  be  read  in  Churches.  Edited  by  J.
 Griffiths,  M.A.    1859.  8vo.  cloth,  7s.  6d.
-
-
-Clarendon  Press,  Oxford.  13
 
 
 Hooker's  "Works,  with  his  Life  by  Walton,  arranged  by  John
@@ -19528,9 +18289,6 @@ Wyclif.  Trialogus.  With  the  Supplement  now  first  edited.  By
 Gotthard  Lechler.     1869.  8vo.  cloth,  14s.
 
 
-14  Clarendon  Press,  Oxford.
-
-
 ENGLISH  HISTORICAL  AND  DOCUMENTARY
 
 WORKS.
@@ -19548,41 +18306,35 @@ Glossarial  Index,  by  J.  Earle,  M.A.     1865.  8vo.  cloth,  16s.
 Magna  Carta,  a  careful  Reprint.  Edited  by  W.Stubbs,  M.A.,
 Regius  Professor  of  Modern  History.     1879.  4t0-  stitched,  is.
 
-Britton,  a  Treatise  upon  the  Common  Law  of  England,  com-
-posed by  order  of  King  Edward  I.  The  French  Text  carefully  revised,
+Britton,  a  Treatise  upon  the  Common  Law  of  England,  composed by  order  of  King  Edward  I.  The  French  Text  carefully  revised,
 with  an  English  Translation,  Introduction,  and  Notes,  by  F.  M.  Nichols,
 M.A.     2  vols.  1865.  royal  8vo.  cloth,  il.  16s.
 
-Burnet's  History  of  His  Own  Time,  with  the  suppressed  Pas-
-sages and  Notes.     6  vols.  1S33.  8vo.  cloth,  2I.  10s.
+Burnet's  History  of  His  Own  Time,  with  the  suppressed  Passages and  Notes.     6  vols.  1S33.  8vo.  cloth,  2I.  10s.
 
 Burnet's  History  of  James  II,  with  additional  Notes.  1852.
 8vo.  cloth,  gs.  6d.
 
-Carte's  Life  of  James  Duke  of  Ormond.  A  new  Edition,  care-
-fully compared  with  the  original  MSS.   6  vols.  1851.  Svo.  cloth,  ll.  5s.
+Carte's  Life  of  James  Duke  of  Ormond.  A  new  Edition,  carefully compared  with  the  original  MSS.   6  vols.  1851.  Svo.  cloth,  ll.  5s.
 
 Casauboni  Ephemerid.es,  cum  praefatione  et  notis  J.  Russell,
 S.T.P.     Tomi  II.     1850.  8vo.  cloth,  15s.
 
 Clarendon's  (Edw.  Earl  of)  History  of  the  Rebellion  and  Civil
 
-Wars  in  England.      To  which  are  subjoined  the  Notes  of  Bishop  War-
-burton.     7  vols.  1849.  medium  8vo.  cloth,  ll.  10s.
+Wars  in  England.      To  which  are  subjoined  the  Notes  of  Bishop  Warburton.     7  vols.  1849.  medium  8vo.  cloth,  ll.  10s.
 
 Clarendon's  (Edw.  Earl  of)  History  of  the  Rebellion  and  Civil
 Wars  in  England.    7  vols.  1839.  iSmo.  cloth,  ll.  Is.
 
 Clarendon's  (Edw.  Earl  of)  History  of  the  Rebellion  and  Civil
-Wars  in  England.  Also  His  Life,  written  by  Himself,  in  which  is  in-
-cluded a  Continuation  of  his  History  of  the  Grand  Rebellion.  With
+Wars  in  England.  Also  His  Life,  written  by  Himself,  in  which  is  included a  Continuation  of  his  History  of  the  Grand  Rebellion.  With
 copious  Indexes.    In  one  volume,  royal  Svo.  1842.  cloth,  ll.  2s.
 
 Clarendon's  (Edw.  Earl  of)  Life,  including  a  Continuation  of
 his  History.     2  vols.   1857.  medium  8vo.  cloth,  ll.  2s.
 
-Clarendon's  (Edw.  Earl  of)  Life,  and  Continuation  of  his  His-
-tory.    3  vols.   1827.  8vo.  cloth,  16s.  6d.
+Clarendon's  (Edw.  Earl  of)  Life,  and  Continuation  of  his  History.    3  vols.   1827.  8vo.  cloth,  16s.  6d.
 
 Calendar  of  the  Clarendon  State  Papers,  preserved  in  the
 
@@ -19634,8 +18386,7 @@ Protests  of  the  Lords,  including  those  which  have  been
 expunged,  from  1624  to  1874;  with  Historical  Introductions  Edited
 by  James  E.  Thorold  Rogers,  M.A.      1875.    3  vols.  Svo.  cloth,  2/.  2S.
 
-Enactments  in  Parliament.,  specially  concerning  the  Universi-
-ties of  Oxford  and  Cambridge.  Collected  and  arranged  by  J.  Griffiths,
+Enactments  in  Parliament.,  specially  concerning  the  Universities of  Oxford  and  Cambridge.  Collected  and  arranged  by  J.  Griffiths,
 M.A.     1S69.  8vo.  cloth,  12s.
 
 Ordinances  and  Statutes  [for  Colleges  and  Halls]  framed  or
@@ -19654,9 +18405,6 @@ royal  8vo.  cloth,  3s.  6d.
 
 Catalogue  of  Oxford  Graduates  from  1659  to  1850.  185  1.
 8vo.  cloth,  7s.  6d.
-
-
-1 6  Clarendon  Press,  Oxford.
 
 
 CHRONOLOGY,  GEOGRAPHY,  &c.
@@ -19708,8 +18456,7 @@ Greswell's  Origines  Kalendariae  Hellenicse.  6  vols.  1862.
 MATHEMATICS,  PHYSICAL  SCIENCE,  &c.
 
 Archimedis  quae  supersunt  omnia  cum  Eutocii  commentariis
-ex  recensione  Josephi  Torelli,  cum  nova  versione  Latina.  1 792-  f°l-
-clotk,  ll.  5s.
+ex  recensione  Josephi  Torelli,  cum  nova  versione  Latina.  1 792-  f°lclotk,  ll.  5s.
 
 Bradley's  Miscellaneous  Works  and  Correspondence.  With  an
 Account  of  Harriot's  Astronomical  Papers.      1832.  4to.  cloth,  ljs.
@@ -19717,11 +18464,7 @@ Account  of  Harriot's  Astronomical  Papers.      1832.  4to.  cloth,  ljs.
 Reduction  of  Bradley's  Observations  by  Dr.  Busch.  1838.  4to.  f/ofl[,  3s.
 
 
-Clarendon  Press,  Oxford.  1 7
-
-
-Astronomical  Observations  made  at  the  University  Obser-
-vatory, Oxford,  under  the  direction  of  C.  Pritchard,  M.A.,  Savilian  Pro-
+Astronomical  Observations  made  at  the  University  Observatory, Oxford,  under  the  direction  of  C.  Pritchard,  M.A.,  Savilian  Pro-
 fessor of  Astronomy.     No.  I.     1878.   Royal  8vo.  paper  covers,  3s.  6d.
 
 Treatise  on  Infinitesimal  Calculus.  By  Bartholomew  Price,
@@ -19775,9 +18518,6 @@ F.  J.  Bell,  B.A.,  and  edited  with  an  Appendix,  by  A.  H.  Garrod,  M.A
 F.R.S.     With  Plates.     4to.  paper  covers,  7s.  6d.
 
 
-1 8  Clarendon  Press,  Oxford.
-
-
 BIBLIOGRAPHY.
 
 Ebert's  Bibliographical  Dictionary,  translated  from  the  German.
@@ -19829,12 +18569,8 @@ and  RalTaello  in  the  University  Galleries,  Oxford.     By  J.  C.  Robinso
 F.S.A.     1870.  Crown  Svo.  cloth,  4s.
 
 Sturlunga  Saga,  including  the  Islendinga  Saga  of  Lawman
-Sturla  Thordsson  and  other  works.  Edited  with  Prolegomena,  Ap-
-pendices, Tables,  Indices,  and  Maps,  by  Dr.  Gudbrand  Vigfusson.  In
+Sturla  Thordsson  and  other  works.  Edited  with  Prolegomena,  Appendices, Tables,  Indices,  and  Maps,  by  Dr.  Gudbrand  Vigfusson.  In
 2  vols.      1878.  Svo.'cloth,  2/.  2S.
-
-
-Clarendon  Press,  Oxford.  19
 
 
 The  Orrnuhim ;  with  the  Notes  and  Glossary  of  Dr.  R.  M.
@@ -19845,20 +18581,17 @@ The  Sacred  Books  of  the  East.  Translated  by  various.
 Oriental  Scholars,  and  edited  by  F.  Max  Miiller.
 
 Vol.1.  The  Upanishads.  Parti.  The  AT^andogya-upanishad,
-The  Talavakara-upanishad.  The  Aitareya-ara^yaka,  The  Kaushitaki-
-brahmawa-upanishad,  and  The  Va^-asaneyi-samhita-upanishad.  Trans-
+The  Talavakara-upanishad.  The  Aitareya-ara^yaka,  The  Kaushitakibrahmawa-upanishad,  and  The  Va^-asaneyi-samhita-upanishad.  Trans-
 lated by  F.  Max  Miiller.     8vo.  cloth,  ios.  6c?.
 
 Vol.  II.  The  Sacred  Laws  of  the  Aryas,  as  taught  in  the
 Schools  of  Apastamba  and  Gautama.  Translated  by  Georg  Buhler.
 8vo.  cloth,  ios.  6d.
 
-Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Con-
-fucianism. Part  I.  The  Shu  King,  The  Shih  King,  and  The  Hsiao
+Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Confucianism. Part  I.  The  Shu  King,  The  Shih  King,  and  The  Hsiao
 King.     Translated  by  James  Legge.     8vo.  cloth,  1  2s.  6d.
 
-Vol.  IV.  The  Zend-Avesta.  Part  I.  The  Vendidad.  Trans-
-lated by  James  Darmesteter.     8vo.  cloth,  ios.  6c?.
+Vol.  IV.  The  Zend-Avesta.  Part  I.  The  Vendidad.  Translated by  James  Darmesteter.     8vo.  cloth,  ios.  6c?.
 
 Vol.  V.  Pahlavi  Texts.  Part  I.  The  Bundahis,  Bahman
 Yast,  and  Shayast-la-Shayast.     Translated  by  E.  W.  West.    8vo.  cloth,
@@ -19887,9 +18620,6 @@ Fausboll.
 Vol.  XI.  The  Mahaparinibbana  Sutta,  The  Tevir/^a
 Sutta,  The  Mahasudassana  Sutta,  The  Dhamma-A'akkappavattana
 Sutta.     Translated  by  T.  W.  Rhys  Davids.
-
-
-20  Clarendon  Press,  Oxford.
 
 
 Clamtittw  Drigg  %txm.
@@ -19927,8 +18657,7 @@ An  English  Grammar  and  Reading  Book,  for  Lower  Forms
 in  Classical  Schools.     By  O.  W.  Tancock,  M.A.,  Assistant  Master  of
 Sherborne  School.      Third  Edition.     Extra  fcap.  8vo.  cloth,  3s.  6d.
 
-Typical  Selections  from  the  best  English  Writers,  with  Intro-
-ductory Notices.  Second  Edition.  In  Two  Volumes.  Extra  fcap.  8vo.
+Typical  Selections  from  the  best  English  Writers,  with  Introductory Notices.  Second  Edition.  In  Two  Volumes.  Extra  fcap.  8vo.
 cloth,  3s.  6d.  each.
 
 Vol.  I.  Latimer  to  Berkeley.  Vol.  II.  Pope  to  Macaulay.
@@ -19941,9 +18670,6 @@ Oxford.      Third  Edition.     Extra  fcap.  8vo.  cloth,  "]s.  6d.
 A  Book  for  the  Beginner  in  Anglo-Saxon.  By  John  Earle,
 M.A.,  Professor  of  Anglo-Saxon,  Oxford.  Second  Edition.  Extra  fcap.
 Svo.  cloth,  2s.  6d.
-
-
-Clarendon  Press,  Oxford.  21
 
 
 An  Anglo-Saxon  Reader.  In  Prose  and  Verse.  V\  ith
@@ -20003,9 +18729,6 @@ Richard  the  Third.     In  the  Press.
 (For  other  Plays,  see  p.  23.)
 
 
-22  Clarendon  Press,  Oxford.
-
-
 Milton.  Areopagitica.  With  Introduction  and  Notes.  By
 J.  W.  Hales,  M.A.,  late  Fellow  of  Christ's  College,  Cambridge.  Second
 Edition.     Extra  fcap.  8vo.  cloth,  3s.
@@ -20014,8 +18737,7 @@ Addison.  Selections  from  Papers  in  the  Spectator.  With
 Notes.  By  T.  Arnold,  M.A.,  University  College.  Second  Edition..
 Extra  fcap.  8vo.  cloth,  4.?.  6d.
 
-Burke.  Four  Letters  on  the  Proposals  for  Peace  with  the  Regi-
-cide Directory  of  France.  Edited,  with  Introduction  and  Notes,  by
+Burke.  Four  Letters  on  the  Proposals  for  Peace  with  the  Regicide Directory  of  France.  Edited,  with  Introduction  and  Notes,  by
 E.  J.  Payne,  M.A.     Extra  fcap.  8vo.  cloth,  5s.     (See  also  p.  23.)
 
 Also  the  following  in  paper  covers  :—
@@ -20063,9 +18785,6 @@ Book  II.     Third  Edition.     Extra  fcap.  8vo.  cloth,  2s.  6d.
 
 Church,  M.A.,  Dean  of  St.  Paul's  ;  formerly  Fellow  of  Oriel  College,
 Oxford.     Second  Edition.     Extra  fcap.  8vo.  cloth,  2s.
-
-
-Clarendon  Press,  Oxford.  23
 
 
 4.  Shakespeare.     Select  Plays.     Edited  by  W.  G.  Clark,  M.A.,
@@ -20132,9 +18851,6 @@ II.  The  Task,  with  Tirocinium,  and  Selections  from  the  Minor  Poems,
 a.d.  1 784-1 799.     Extra  fcap.  8vo.  clotb,  3s.
 
 
-24  Clarendon  Press,  Oxford.
-
-
 II.  LATIlff.
 An  Elementary  Latin  Grammar.     By  John  B.  Allen,  M.A.,
 
@@ -20149,8 +18865,7 @@ Anglice  Reddenda,  or   Easy  Extracts,  Latin   and  Greek,  for
 
 Unseen  Translation.     By  C.  S.  Jerram,  M.A.     Extra  fcap.  8vo.  cloth,  2s.
 
-Passages  for  Translation  into  Latin.  For  the  use  of  Pass-
-men and  others.  Selected  by  J.  Y.  Sargent,  M.A.,  Fellow  and  Tutor  of
+Passages  for  Translation  into  Latin.  For  the  use  of  Passmen and  others.  Selected  by  J.  Y.  Sargent,  M.A.,  Fellow  and  Tutor  of
 Magdalen  College,  Oxford.  Fifth  Edition.  Ext.  fcap.  8vo.  cloth,  2s.  6d.
 
 First  Latin  Reader.  By  T.  J.  Nunns,  M.A.  Third  Edition.
@@ -20195,13 +18910,9 @@ Part  II.    Hannibal's  Campaign  in  Italy.
 Part  III.  The  Macedonian  War.
 
 
-Clarendon  Press,  Oxford.  25
-
-
 Ovid.  Selections  for  the  use  of  Schools.  With  Introductions
 and  Notes,  and  an  Appendix  on  the  Roman  Calendar.  By  W.  Ramsay,
-M.A.  Edited  by  G.  G.  Ramsay,  M.A.,  Professor  of  Humanity,  Glas-
-gow.    Second  Edition.     Ext.  fcap.  8vo.  cloth,  5s.  6d.
+M.A.  Edited  by  G.  G.  Ramsay,  M.A.,  Professor  of  Humanity,  Glasgow.    Second  Edition.     Ext.  fcap.  8vo.  cloth,  5s.  6d.
 
 Pliny.  Selected  Letters  (for  Schools).  With  Notes.  By
 the  late  C.  E.  Prichard,  M.A.,  and  E.  R.  Bernard,  M.A.  Second  Edition.
@@ -20215,8 +18926,7 @@ Demy  8vo.  cloth,  1 6s.
 A  Commentary  on  Catullus.  By  Robinson  Ellis,  M.A.  1876,
 Demy  Svo.  cloth,  16s.
 
-Catulli  Veronensis  Carmina  Seleeta,  secundum  recogni-
-tionem  Robinson  Ellis,  A.M.     Extra  fcap.  8vo.  cloth,  3s.  6d.
+Catulli  Veronensis  Carmina  Seleeta,  secundum  recognitionem  Robinson  Ellis,  A.M.     Extra  fcap.  8vo.  cloth,  3s.  6d.
 
 Cicero  de  Oratore.  Book  I.  With  Introduction  and  Notes.
 By  A.S.  Wilkins,  M.A.,  Professor  of  Latin,  Owens  College,  Manchester.
@@ -20255,14 +18965,10 @@ By  John  Conington,  M.A.     Edited  by  Henry  Nettleship,  M.A.    Second
 Edition.     1874.    8vo.  clotb,  7s.  6d.
 
 
-26  Clarendon  Press,  Oxford.
-
-
 Selections  from  the  less  known  Latin  Poets.  By  North
 Pinder,  M.A.     1S69.    Demy  8vo.  cloth,  15s.
 
-Fragments  and  Specimens  of  Early  Latin.  With  Introduc-
-tions and  Notes.  1874.    By  John  Wordsworth,  M.A.     8vo.  cloth,  185.
+Fragments  and  Specimens  of  Early  Latin.  With  Introductions and  Notes.  1874.    By  John  Wordsworth,  M.A.     8vo.  cloth,  185.
 
 Tacitus.  The  Annals.  Books  I -VI.  With  Essays  and  Notes.
 By  T.  F.  Dallin,  M.A.,  Tutor  of  Queen's  College,  Oxford.    Preparing.
@@ -20300,11 +19006,9 @@ Graecae  Grammaticae  Rudimenta  in  usum  Scholarum.  Auctore
 Carolo  Wordsworth,  D.C.L.   Nineteenth  Edition,  1 877.  1 2mo.  bound, 4.S.
 
 A  Greek-English  Lexicon,  abridged  from  Liddell  and  Scott's
-4to.  edition,  chiefly  for  the  use  of  Schools.  Eighteenth  Edition.  Care-
-fully Revised  throughout.     1879.    Square  1 2mo.  cloth,  "js.  6d.
+4to.  edition,  chiefly  for  the  use  of  Schools.  Eighteenth  Edition.  Carefully Revised  throughout.     1879.    Square  1 2mo.  cloth,  "js.  6d.
 
-Greek  Verbs,  Irregular  and  Defective;  their  forms,  mean-
-ing, and  quantity ;  embracing  all  the  Tenses  used  by  Greek  writers,
+Greek  Verbs,  Irregular  and  Defective;  their  forms,  meaning, and  quantity ;  embracing  all  the  Tenses  used  by  Greek  writers,
 with  reference  to  the  passages  in  which  they  are  found.  By  W.  Veitch.
 Third  Edition.     Crown  Svo.  cloth,  10s.  6d.
 
@@ -20313,13 +19017,9 @@ from  his  larger  work  by  H.  W.  Chandler,  M.A.,  Waynflete  Professor  of
 Moral  and  Metaphysical  Philosophy,  Oxford.  Ext.  fcap.  Svo.  cloth,  2s.  6d.
 
 
-Clarendon  Press,  Oxford.  27
-
-
 A  Series  of  Graduated  Greek  Readers ; —
 
-First  Greek  Reader.  By  W.  G.  Rushbrooke,  M.L.,  for-
-merly Fellow  of  St.  John's  College,  Cambridge,  Second  Classical
+First  Greek  Reader.  By  W.  G.  Rushbrooke,  M.L.,  formerly Fellow  of  St.  John's  College,  Cambridge,  Second  Classical
 Master  at  the  City  of  London  School.    Extra  fcap.  8vo.  cloth,  2s.  6d.
 
 Second  Greek  Reader.     By  A.  M.  Bell,  M.A.     Extra  fcap.
@@ -20337,8 +19037,7 @@ Abbott,M.A.,Fellow  of  Balliol College.  Ext.fcap.  Svo.clolh,^s.6d.
 
 Part  II.     By  the  same  Editor.  In  Preparation.
 
-The  Golden  Treasury  of  Ancient  Greek  Poetry;  being  a  Col-
-lection of  the  finest  passages  in  the  Greek  Classic  Poets,  with  Introduc-
+The  Golden  Treasury  of  Ancient  Greek  Poetry;  being  a  Collection of  the  finest  passages  in  the  Greek  Classic  Poets,  with  Introduc-
 tory Notices  and  Notes.  By  R.  S.  Wright,  M.A.,  Fellow  of  Oriel
 College,  Oxford.     Ext.  fcap.  8vo.  cloth,  8s.  6d.
 
@@ -20347,8 +19046,7 @@ finest  passages  in  the  principal  Greek  Prose  Writers,  with  Introductory
 Notices  and  Notes.  By  R.  S.  Wright,  M.A.,  and  J.  E.  L.  Shadwell,  M.A.
 Ext.  fcap.  8vo.  cloth,  4s.  6d.
 
-Aeschylus.  Prometheus  Bound  (for  Schools).  With  Intro-
-duction and  Notes,  by  A.  O.  Prickard,  M.A.,  Fellow  of  New  College.
+Aeschylus.  Prometheus  Bound  (for  Schools).  With  Introduction and  Notes,  by  A.  O.  Prickard,  M.A.,  Fellow  of  New  College.
 Extra  fcap.  8vo.  cloth,  2s.
 
 Aeschylus.  Agamemnon  (for  Schools),  with  Introduction  and
@@ -20362,17 +19060,13 @@ The  Clouds,  2s.  The  Acharnians.    In  Preparation.
 
 Other  Plays  will  follow.
 
-Arrian.  Selections  (for  Schools).  With  Notes.  By  J.  S.  Phill-
-potts,  B.C.L.,  Head  Master  of  Bedford  School.
+Arrian.  Selections  (for  Schools).  With  Notes.  By  J.  S.  Phillpotts,  B.C.L.,  Head  Master  of  Bedford  School.
 
 Cebes.  Tabula.  With  Introduction  and  Notes  by  C.  S.
 Jirram,  M.A.    Extra  fcap.  8vo.  cloth,  2s.  6d.
 
 Euripides.  Alcestis  (for  Schools).  By  C.  S.  Jerram,  M.A.
 Extra  fcap.  Svo.  cloth,  2s.  6d.     Just  Published.
-
-
-28  Clarendon  Press,  Oxford.
 
 
 Herodotus.  Selections  from.  Edited,  with  Introduction,  Notes,
@@ -20436,9 +19130,6 @@ and  iEschines  on  the  Crown.  With  Introductory  Essays  and  Notes.
 ByG.  A.  Simcox,  M.A.,and  W.H.Simcox.M.A.   1872.  8vo.  cloth,  1 2s.
 
 
-Clarendon  Press,  Oxford.  29
-
-
 Homer.  Odyssey,  Books  I-XII.  Edited  with  English  Notes,
 Appendices,  etc.  By  W.  W.  Merry,  M.A.,  and  the  late  James  Riddell,
 M.A.     1876.     Demy  8vo.  cloth,  16s.
@@ -20498,9 +19189,6 @@ de  l'Hotel  Corneille,  by  Edmond  About ;  Mesaventures  d'un  Ecolier,
 by  Kodolphe  Topffer.    Extra  fcap.  8vo.  cloth,  2s.  6d.
 
 
-30  Clarendon  Press,  Oxford.
-
-
 Regnard's    Le    Joueur,    and   Brueys    and    Palaprat's    Le
 
 Grondeur.    By  Gustave  Masson,  B.A.     Extra  fcap.  8vo.  cloth,  2s.  6d.
@@ -20533,8 +19221,7 @@ chiefly  for  the  purpose  of  being  able  to  read  German  books.
 
 German  Composition;    Extracts  from  English  and  American
 
-writers  for  Translation  into  German,  with  Hints  for  Translation  in  foot-
-notes.    In  the  Press.
+writers  for  Translation  into  German,  with  Hints  for  Translation  in  footnotes.    In  the  Press.
 
 Lessing's  Laokoon.  With  Introduction,  English  Notes,  etc.
 By  A.  Hamann,  Phil.  Doc,  M.A.,  Taylorian  Teacher  of  German  in  the
@@ -20558,9 +19245,6 @@ Lessing's  Minna  von  Barnhelm.     A  Comedy.    With  a  Life  of
 
 Lessing,  Critical  Analysis,  Complete  Commentary,  &c.     Third  Edition.
 Extra  fcap.  8vo.  cloth,  3s.  6c?.
-
-
-Clarendon  Press,  Oxford.  31
 
 
 Schiller's  Historische  Skizzen ;   Egmont's  Leben  und  Tod,  and
@@ -20606,8 +19290,7 @@ Acoustics.  By  W.  F.  Donkin,  M.A.,  F.R.S.,  Savilian  Professor
 of  Astronomy,  Oxford.     1870.     Crown  8vo.  clotb,  7s.  6d.
 
 A  Treatise  on  Electricity  and  Magnetism.  By  J.  Clerk
-Maxwell,  M.A.,  F.R.S.,  Professor  of  Experimental  Physics  in  the  Uni-
-versity of  Cambridge.     1873.     2  vols.  8vo.  cloth,  il.  lis.  6d.
+Maxwell,  M.A.,  F.R.S.,  Professor  of  Experimental  Physics  in  the  University of  Cambridge.     1873.     2  vols.  8vo.  cloth,  il.  lis.  6d.
 
 An  Elementary  Treatise  on  the  same  subject.  By  the  same
 Author.     Preparing.
@@ -20616,9 +19299,6 @@ A  Treatise  on  Statics.     By  G.  M.  Minchin,  M.A.,  Professor  of
 
 Applied  Mathematics  in  the  Indian  Engineering  College,  Cooper  s  Hill.
 Second  Edition,  Revised  and  Enlarged.     1879.     8vo.  cloth,  14s.
-
-
-32  Clarendon  Press,  Oxford.
 
 
 A  Treatise  on  the  Kinetic  Theory  of  Gases.     By  Henry
@@ -20667,8 +19347,7 @@ By  A.  G.  Vernon  Harcourt,  M.A.,  F.R.S.,  Senior  Student  of  Christ
 Church,  and  Lee's  Reader  in  Chemistry:  and  H.  G.  Madan,  M.A.,  Fellow
 of  Queen's  College,  Oxford.  Second  Edition.  Crown  8vo.  cloth,  Js.  6c?.
 
-Crystallography.  By  M.  H.  N.  Story-Maskelyne,  M.A.,  Pro-
-fessor of  Mineralogy,  Oxford  ;  and  Deputy  Keeper  in  the  Department  of
+Crystallography.  By  M.  H.  N.  Story-Maskelyne,  M.A.,  Professor of  Mineralogy,  Oxford  ;  and  Deputy  Keeper  in  the  Department  of
 Minerals,  British  Museum.     In  the  Press.
 
 
@@ -20680,15 +19359,10 @@ Development.  By  William  Stubbs,  M.A.,  Regius  Professor  of  Modern
 History.  Library  Edition.  Three  vols,  demy  Svo.  cloth,  2I.  8s.  Jtist
 Published.
 
-Also  in  crowa  8vo.  vols.  II  and  III,  price  12s.  each.     Vol.  I  Re-
-printing.
+Also  in  crowa  8vo.  vols.  II  and  III,  price  12s.  each.     Vol.  I  Reprinting.
 
 
-Clarendon  Press,  Oxford.  33
-
-
-Select  Charters  and  other  Illustrations  of  English  Con-
-stitutional History,  from  the  Earliest  Time?  to  the  Reign  of  Edward  I.
+Select  Charters  and  other  Illustrations  of  English  Constitutional History,  from  the  Earliest  Time?  to  the  Reign  of  Edward  I.
 Arranged  and  Edited  by  W.  Stubbs,  M.A.  Third  Edition.  1876.
 Crown  Svo.  cloth,  8s.  6d.
 
@@ -20733,19 +19407,14 @@ Fellow  of  Trinity  College,  Oxford.
 
 A  History  of  Greece  from  its  Conquest  by  the  Romans  to
 the  present  time,  b.c.  146  to  a.d.  1864.  By  George  Finlay,  LL.  D.
-A  new  Edition,  revised  throughout,  and  in  part  re-written,  with  con-
-siderable additions,  by  the  Author,  and  Edited  by  H.  F.  Tozer,  M.A.,
+A  new  Edition,  revised  throughout,  and  in  part  re-written,  with  considerable additions,  by  the  Author,  and  Edited  by  H.  F.  Tozer,  M.A.,
 Tutor  and  late  Fellow  of  Exeter  College,  Oxford.  1877.  7  vols.
 8vo.  cloth,  3/.  10s.
 
 
-34  Clarendon  Press,  Oxford.
-
-
 A  Selection  from  the  Despatches,  Treaties,  and  other  Papers
 of  the  Marquess  Wellesley,  K.G.,  during  his  Government  of  India.
-Edited  by  S.  J.  Owen,  M.A.,  formerly  Professor  of  History  in  the  Elphin-
-stone  College,  Bombay.     1877.  8vo.  cloth,  il.  4s.
+Edited  by  S.  J.  Owen,  M.A.,  formerly  Professor  of  History  in  the  Elphinstone  College,  Bombay.     1877.  8vo.  cloth,  il.  4s.
 
 A  Selection  from  the  Wellington  Despatches.  By  the  same
 Editor.     In  the  Press.
@@ -20765,11 +19434,9 @@ Lincoln's  Inn,  Barrister-at-Law.  Second  Edition.  1876.  Crown  8vo.
 cloth,  "js.  6d.
 
 The  Elements  of  Jurisprudence.  By  Thomas  Erskine
-Holland,  D.C.L.,  Chichele  Professor  of  International  Law  and  Diplo-
-macy, and  Fellow  of  All  Souls  College,  Oxford,    cloth,  10s.  6d.
+Holland,  D.C.L.,  Chichele  Professor  of  International  Law  and  Diplomacy, and  Fellow  of  All  Souls  College,  Oxford,    cloth,  10s.  6d.
 
-The  Institutes  of  Justinian,  edited  as  a  recension  of  the  Insti-
-tutes of  Gaius.  By  the  same  Editor.   1873.  Extra  fcap.  8vo.  cloth,  5s.
+The  Institutes  of  Justinian,  edited  as  a  recension  of  the  Institutes of  Gaius.  By  the  same  Editor.   1873.  Extra  fcap.  8vo.  cloth,  5s.
 
 Alberici  Gentilis,  I.  C.  D.,  I.  C.  Professoris  Regii,  De  lure  Belli
 Libri  Tres.  Edidit  Thomas  Erskine  Holland  I.  C.  D.,  Iuris  Gentium
@@ -20778,14 +19445,12 @@ Perusin.  Iuris  Professor  Honorarius.  1877.  Small  4to.  half  morocco,  21s
 
 G-aii  Institutionum  Juris  Civilis  Commentarii  Quatuor;
 
-or,  Elements  of  Roman  Law  by  Gaius.  With  a  Translation  and  Com-
-mentary by  Edward  Poste,  M.A.,  Barrister-at-Law,  and  Fellow  of  Oriel
+or,  Elements  of  Roman  Law  by  Gaius.  With  a  Translation  and  Commentary by  Edward  Poste,  M.A.,  Barrister-at-Law,  and  Fellow  of  Oriel
 College,  Oxford.     Second  Edition.     1875.    8vo.  cloth,  18s.
 
 Select  Titles  from  the    Digest    of  Justinian.    By  T.   E.
 
-Holland,  D.C.L.,  Chichele  Professor  of  International  Law  and  Diplo-
-macy, and  Fellow  of  All  Souls'  College,  Oxford,  and  C.  L.  Shadwell,
+Holland,  D.C.L.,  Chichele  Professor  of  International  Law  and  Diplomacy, and  Fellow  of  All  Souls'  College,  Oxford,  and  C.  L.  Shadwell,
 B.C.L.,  Fellow  of  Oriel  College,  Oxford.     In  Parts.
 
 Part  I.      Introductory  Titles.     8vo.  sewed,  2s.  6d.
@@ -20831,16 +19496,14 @@ A  Manual  of  Political  Economy,  for  the  use  of  Schools.  By
 J.  E.  Thorold  Rogers,  M.A.,  formerly  Professor  of  Political  Economy,
 Oxford.     Third  Edition.     Extra  fcap.  8vo.  cloth,  4s.  6c?.
 
-An  Introduction  to  the  Principles  of  Morals  and  Legisla-
-tion.   By  Jeremy  Bentham.    Crown  8vo.  cloth,  6s.  6c?.
+An  Introduction  to  the  Principles  of  Morals  and  Legislation.   By  Jeremy  Bentham.    Crown  8vo.  cloth,  6s.  6c?.
 
 
 XI.  ART,  &c.
 
 A  Handbook  of  Pictorial  Art.  By  R.  St.  J.  Tyrwhitt,  M.A.,
 formerly  Student  and  Tutor  of  Christ  Church,  Oxford.  With  coloured
-Illustrations,  Photographs,  and  a  chapter  on  Perspective  by  A.  Mac-
-donald.     Second  Edition.     1875.  Svo.  half  morocco,  18s.
+Illustrations,  Photographs,  and  a  chapter  on  Perspective  by  A.  Macdonald.     Second  Edition.     1875.  Svo.  half  morocco,  18s.
 
 A  Music  Primer  for  Schools.  By  J.  Troutbeck,  M.A.,  Music
 M.istcr  in  Westminster  School,  and  R.  F.  Dale,  M.A.,  B.  Mus.,  Assistant
@@ -20861,9 +19524,6 @@ The  Cultivation  of  the  Speaking  Voice.  By  John  Hullah.
 Second  Edition.     Extra  fcap.  Svo.  cloth,  2s.  6c?.
 
 
-6  Clarendon  Press,  Oxford.
-
-
 XII.  MISCELLANEOUS.
 
 Houses,  Cottages,  Barracks,  and  Hospitals ;  the  Conditions
@@ -20880,13 +19540,11 @@ Tasso.  La  Gerusalemme  Liberata.  Cantos  i,  ii.  With
 Introduction  and  Notes.  By  the  same  Editor.  Extra  fcap.  8vo.
 cloth,  2s.  6d.
 
-An  Icelandic  Prose  Reader,  with  Notes,  Grammar,  and  Glos-
-sary by  Dr.  Gudbrand  Vigfusson  and  F.  York  Powell,  M.A.  1879.
+An  Icelandic  Prose  Reader,  with  Notes,  Grammar,  and  Glossary by  Dr.  Gudbrand  Vigfusson  and  F.  York  Powell,  M.A.  1879.
 Extra  fcap.  8vo.  cloth,  10s.  6d.
 
 The  Book  of  Tobit.  A  Chaldee  Text,  from  a  unique  MS.  in
-the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Trans-
-lations, and  the  Itala.  Edited  by  Ad.  Neubauer,  M.A.  1878.  Crown
+the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Translations, and  the  Itala.  Edited  by  Ad.  Neubauer,  M.A.  1878.  Crown
 8vo.  cloth,  6s.
 
 Outlines  of  Textual  Criticism  applied  to  the  New  Testament.

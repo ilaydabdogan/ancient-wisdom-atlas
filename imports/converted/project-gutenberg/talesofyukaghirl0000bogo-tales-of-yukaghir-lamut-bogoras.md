@@ -12,9 +12,6 @@ in  2019  with  funding  from
 Kahle/Austin  Foundation
 
 
-https://archive.org/details/talesofyukaghirlOOOObogo
-
-
 V  -rrs  vr  &X//rYo£V)o  O  V\  cIa
 
 
@@ -41,8 +38,6 @@ WALDEMAR  BOGORAS
 NEW  YORK
 
 PUBLISHED  BY  ORDER  OF  THE  TRUSTEES
-
-1918
 
 
 TALES  OF  YUKAGHIR,  LAMUT,  AND  RUSSIANIZED  NATIVES
@@ -96,9 +91,6 @@ Waldemar  Bogoras.
 
 
 i  Bogoras,  “The  Chukchee,”  10.
-
-
-3
 
 
 CONTENTS.
@@ -189,9 +181,6 @@ III.  KOLYMA  TALES . 38
 19.  Stepmother  and  Stepdaughter  ......  83
 
 21.  Sea-Wanderers . 86
-
-
-5
 
 
 6  Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -291,9 +280,6 @@ VI.  ANADYR  TALES . 136
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-7
 
 
 The  following  alphabet  is  used  in  transcribing  native  words :  —
@@ -410,9 +396,6 @@ a  full  pause  between  two  vowels:  yine’  a.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-9
-
-
 I.  TALES  OF  THE  TUNDRA  YUKAGHIR.1
 
 1.  (The  Girl  and  the  Evil  Spirit.)
@@ -460,9 +443,6 @@ and  Folklore  [Cracow,  1912],  205,  240). —  F.  B.
 
 3  Bolte  und  Polivka,  Anmerkungen  zu  den  Kinder-u.  Hausmarchen  der  Briiier  Grimm,
 vol.  2,  140. —  F.  B.
-
-
-10
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -526,9 +506,6 @@ Pacific  Expedition,
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-11
-
-
 At  last  he  felt  very  tired,  so  he  found  a  cavity  under  a  steep  bank  of  the
 river.  Then  he  made  a  fire  and  crouched  before  it,  waiting  for  better
 ■weather.  All  at  once,  not  far  off,  he  saw  a  huge  iron  sledge.  An  iron
@@ -544,8 +521,7 @@ Wood-Master  and  awaited  his  words.  “  What  have  you  done  to  my  prop
 erty?”  cried  the  Wood-Master.  “Aou  have  broken  my  sledge,  you  have
 destroyed  my  driving-reindeer,  and  you  have  even  frightened  me.  I  was
 frightened  no  less  than  you.  And  now  you  want  me  to  walk  on  foot!  I
-will  not.  Amu  must  repair  my  sledge,  and  restore  to  life  my  driving  reindeer-
-buck.  This  is  the  task  that  you  must  perform.”  —  “  How  can  I  perform  a
+will  not.  Amu  must  repair  my  sledge,  and  restore  to  life  my  driving  reindeerbuck.  This  is  the  task  that  you  must  perform.”  —  “  How  can  I  perform  a
 task  like  that?”  said  the  man.  “Ah!”  said  the  Wood-Master,  “why  have
 you  been  thinking  about  me  so  steadily?  You  were  calling  me  in  your
 mind,  so  I  came.  Now  you  must  make  good  your  evil  action.”  —  “Ah,
@@ -572,9 +548,6 @@ five  large  self-acting  bows.  They  shall  give  you  ample  food.”
 The  Lamut  went  home.  His  wife  said  to  him,  “  O  husband !  I  thought
 you  would  never  come.  It  is  several  days  since  I  saw  you  last.”  —  “I  was
 caught  in  a  heavy  snowstorm,  so  I  sat  crouching  under  the  steep  bank,
-
-
-12
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -635,9 +608,6 @@ populates  de  Lorraine ,  vol.  1,  66,  and  vol.  2,  260. —  F.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-13
-
-
 his  place  close  to  the  chief’s  daughter,  and  said  to  her,  “Louse  me  a  little,
 and  make  me  sleep!  But  if  anybody  comes,  make  me  get  up!”
 
@@ -682,9 +652,6 @@ of  water,  scalding  hot,  but  good  for  healing  all  kinds  of  wounds.” 
 to  the  rock  with  a  stone  bottle  and  fetched  some  of  the  water.  They  washed
 the  wound  with  it,  and,  lo!  the  youth  came  to  life  again.  The  girl  took  him
 by  the  hand  and  led  him  to  her  father.  “This  is  the  man  who  saved  me.
-
-
-14
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -742,9 +709,6 @@ instance,  as  nails  driven  into  the  flesh  of  the  heel,  which  undoubted
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-15
 
 
 so,  searching  all  through  the  house,  but  found  nothing.  Then  he  said  again,
@@ -843,9 +807,6 @@ her  garments.  “Take  care!”  said  the  old  woman,  “do  not  let  go  
 1918.]
 
 
-17
-
-
 Bogoras,  Tales  of  Eastern  Siberia.
 
 tassel!  He  grasped  the  tassel,  and  the  old  woman  wound  herself  around
@@ -890,12 +851,8 @@ are  already  as  good  as  dead.  O  God!”  he  continued,  “we  are  in  a
 plight.  Somebody  must  go  and  carry  the  Wolf-woman  to  her  own  house.”
 
 The  people  were  full  of  fear  and  nobody  wanted  to  go.  Then  the  old
-man  tried  to  induce  the  young  visitor  to  convey  the  body  of  the  Wolf-
-woman  to  her  family.  The  young  man  said,  “  How  can  I  do  this?  They
+man  tried  to  induce  the  young  visitor  to  convey  the  body  of  the  Wolfwoman  to  her  family.  The  young  man  said,  “  How  can  I  do  this?  They
 will  tear  me  into  bits.”  The  old  man  had  a  young  daughter  who  was  very
-
-
-18
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -918,8 +875,7 @@ easily.  Take  care  lest  you  cause  some  great  misfortune.”  And  he  sec
 spurred  his  horse  with  the  nails  of  his  feet.  The  horse  reared  and  threw
 him  down.  The  other  horse  did  the  same.  The  body  of  the  wolf-mother
 fell  down  like  a  bundle  of  rags.  The  bladder  burst,  and  all  the  blood  was
-spilled.  They  lay  there  side  by  side,  swimming  in  blood.  The  wolf-
-children  said,  “O  brother!  our  mother  is  dead;  but  that  is  as  nothing.  We
+spilled.  They  lay  there  side  by  side,  swimming  in  blood.  The  wolfchildren  said,  “O  brother!  our  mother  is  dead;  but  that  is  as  nothing.  We
 have  killed  that  stranger  by  our  imprudence.  He  is  near  unto  death,  and
 no  doubt  his  brothers  and  sisters,  and  all  his  kith  and  kin,  will  come  here  to
 have  revenge.”
@@ -950,9 +906,6 @@ here!  I  thought  you  were  dead  but  I  see  you  have  brought  some  girls
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-19
 
 
 ado,  cut  off  the  head  of  his  sister-in-law.  “  There  you  are !  ”  said  he.  “  You
@@ -1002,9 +955,6 @@ deer,  the  elk,  the  mountain-sheep.  Then  they  fought.  The  bear  and  the
 1  See  Bolte  und  Polivka,  l.  c.,  vol.  2,  1. —  F.  B.
 
 2  Cf.  Bogoras,  “Chukchee  Materials,”  No.  32,  131.
-
-
-20
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -1064,9 +1014,6 @@ sea,  and  plunged  into  the  sea.  He  went  across  the  sea  to  the  opposi
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-21
-
-
 but  the  man  was  still  alive.  Then  the  fox  said,  “Oh,  you  are  an  excellent
 man!  I  want  to  have  you  for  a  husband  for  my  daughter.  I  will  let  go  of
 your  hand.  So  please  let  go  of  my  back.”  The  man  said,  “  I  do  not  want
@@ -1104,8 +1051,7 @@ Early  in  the  morning  the  woman  arose  from  the  bed.  She  threw  her
 thimble  upon  the  man;  and  his  sleep  grew  sound  and  strong,  almost  like
 death.  He  slept  throughout  the  day,  and  on  until  midnight.  The  Monster-
 Woman  took  his  bow  and  arrows  and  went  to  the  water-hole.  She  lay  there
-in  ambush,  holding  the  bow  strung  and  ready  to  shoot.  At  last,  the  water-
-woman  appeared  out  of  the  water-hole.  The  Monster-Woman  shot  at  her,
+in  ambush,  holding  the  bow  strung  and  ready  to  shoot.  At  last,  the  waterwoman  appeared  out  of  the  water-hole.  The  Monster-Woman  shot  at  her,
 and  hit  her  straight  in  the  heart.  She  fell  down,  and  sank  to  the  bottom.
 
 The  Monster-Woman  came  home  and  picked  up  her  thimble  from  the
@@ -1114,9 +1060,6 @@ how  long  have  I  slept?  ”  So  he  put  on  his  clothes  and  ran  to  th
 
 
 1  See  p.  124.
-
-
-22
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Yol.  XX,
@@ -1175,9 +1118,6 @@ the  Chukchee.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-23
 
 
 scended  to  the  hill;  the  third  was  still  circling  around  in  the  air.  All  at
@@ -1280,9 +1220,6 @@ the  reindeer-herd,  and  next  it  will  be  my  turn.”  He  left  his  house
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-25
-
-
 and  fled  away,  not  knowing  where  he  was  going.  He  walked. on  for  a  long
 time.  Then  he  saw  an  iron  house.
 
@@ -1302,8 +1239,7 @@ and  if  the  Reindeer-born  should  see  you  and  should  pursue  you,  run  t
 tree  and  hide  behind  it.  Reindeer-born  will  not  be  able  to  catch  you.  And
 if  Reindeer-born  should  not  desist,  touch  the  tree  with  this  neckerchief.”
 
-The  man  went  back  and  came  to  his  house.  All  at  once  he  saw  Reindeer-
-born,  who  rushed  straight  for  him.  The  man  turned  about  and  ran  for  his
+The  man  went  back  and  came  to  his  house.  All  at  once  he  saw  Reindeerborn,  who  rushed  straight  for  him.  The  man  turned  about  and  ran  for  his
 life.  He  came  to  a  tree,  and  hid  behind  it.  Reindeer-born  gave  chase,
 and  ran  straight  into  the  tree,  striking  his  forehead  against  it  with  all  his
 might.  “Ah!”  said  Reindeer-born,  “Your  strength  is  greater  than  mine.
@@ -1321,9 +1257,6 @@ the  Kolyma  country,  winter  of  1895.
 
 i  This  detail  is  borrowed  from  Yakut  folklore  in  which  it  is  frequently  met.  See  also
 Radloff,  l.  c. ,  vol.  1,  11.—  F.  B.
-
-
-26
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -1349,8 +1282,7 @@ single  daughter.  He  entered,  and  stayed  with  this  family  as  an  adopte
 son-in-law.  One  day  the  father-in-law  said  to  him,  “  Let  us  go  to  the  river
 to  catch  fish!”
 
-There  was  on  the  river  a  large  open  place.  They  set  off.  The  son-in-
-law  was  very  light  of  foot.  He  was  the  first  to  reach  the  open  water.  With¬
+There  was  on  the  river  a  large  open  place.  They  set  off.  The  son-inlaw  was  very  light  of  foot.  He  was  the  first  to  reach  the  open  water.  With¬
 out  much  ado  he  cast  into  the  water  his  fish-line,  and  immediatelv  felt
 something  heavy  on  it.  So  he  pulled  it  up,  and  there,  caught  on  the  hook,
 was  a  small  child,  human  in  appearance.  He  was  much  afraid,  and  threw
@@ -1380,9 +1312,6 @@ whom  they  dwell.  They  number  about  thirty  or  forty  families.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-27
 
 
 \ou  are  playing  jokes  on  us.  Better  go  away!  I  was  mistaken  when  I
@@ -1430,9 +1359,6 @@ Late  in  the  evening  he  came  home.  “Where  have  you  been  the  whole
 day  long?”— “I  found  those  reindeer  bucks  and  killed  both  of  them.”
 Oh,  they  were  very  glad.  Now  they  had  plenty  of  food,  but  the  son-in-law
 could  not  eat  it.  They  slaughtered  for  him  real  reindeer.  One  day  his
-
-
-28
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -1491,9 +1417,6 @@ first  said,  “We  can  kill  all  of  them,” — only  glanced  back,  and 
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-29
-
-
 off  the  halter  of  her  reindeer,  which  was  attached  to  his  own  saddle.  After
 that  he  galloped  on  more  headlong  than  ever.
 
@@ -1541,9 +1464,6 @@ and  marrow.”  So  the  woman  understood.  The  next  morning  the  young
 1  Among  the  Tungus  and  the  Lamut,  cradles  of  small  children  are  so  constructed  that
 they  may  form  one  half  of  the  usual  pack  load  of  a  pack  reindeer  so  they  may  be  carried
 along  with  infants  on  the  reindeer  back.
-
-
-30
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -1603,9 +1523,6 @@ numerous  tracks  of  wolves  were  seen  in  the  deep  snow.  The  rich  man  
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-31
-
-
 nothing  left,  not  even  a  single  riding  reindeer,  so  he  had  to  stay  in  camp  with
 all  his  children  and  grandchildren.
 
@@ -1651,9 +1568,6 @@ and  gave  evil  advice  to  her  husband.  Several  poor  people  were  in  tha
 camp.  The  old  woman  said  again,  “We  are  rich,  but  we  must  not  feed
 these  good-for-nothings.  We  never  saw  them,  they  are  strangers.  Let  us
 rather  move  away  from  here.”
-
-
-32
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -1712,9 +1626,6 @@ will  be  scared  away.”
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-33
-
-
 _  After  three  days  the  arctic  Fox  came  back  to  the  weirs.  “Oh,  oh!”
 cried  the  Wolf.  “  There,  you  arctic  Fox,  where  is  your  fish?  I  am  frozen
 and  nearly  dying  of  cold.  Please  help  .me  get  away,  and  pick  me  off!” —
@@ -1762,9 +1673,6 @@ summer  of  1895.
 
 
 1  O.  Dahnhardt,  Natursagen,  vol.  4,  219. —  F.  B.
-
-
-34
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [\  ol.  XX:
@@ -1825,9 +1733,6 @@ brown.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-35
-
-
 could  not  find  it?  Where  can  it  be?  I  will  go  and  look  for  it  myself.”
 He  came  to  the  pasture,  and  walked  all  around  it,  but  he  also  could  not  find
 any  tracks  outside  of  it.  He  grew  quite  tired.  There  was  on  the  border
@@ -1873,9 +1778,6 @@ in  my  sleep  and  walk  about  sleeping.  I  shall  kill  you.  Do,  please.
 
 
 i  One  of  the  usual  invocations.  “You  man!”  (Biy,  “man”).
-
-
-36
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX.
@@ -1934,9 +1836,6 @@ must  be  our  closest  friends  and  assistants.  You  must  be  our  best  eom
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-37
-
-
 ions  in  every  way.  If  some  member  of  a  strange  tribe  should  come  here  with
 evil  intentions,  you  must  kill  him  without  fear.  You  must  give  us  assist¬
 ance  in  every  struggle  against  all  kinds  of  invaders.”  1  They  gave  them  iron
@@ -1954,9 +1853,6 @@ the  Kolyma  country,  summer  of  1895.
 i  Tlie  Lamut  consider  themselves,  and  are  considered  by  the  Russians,  as  the  closest
 allies  of  the  latter  in  every  struggle  against  other  more  stubborn  and  refractory  tribes,  such  as
 the  Chukchee  and  the  Koryak.
-
-
-38
 
 
 Anthropological  Papers  American  Museum  oj  N atural  History.  [Vol.  XX,
@@ -2015,9 +1911,6 @@ ney”  is  used  everywhere  among  the  Yakut,  as  well  as  among  Russian  
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-39
-
-
 woman  nursed  the  infant.  But  One-Side  did  not  want  to  stay  at  home.
 He  would  wander  about  all  the  time,  and  bring  back  reindeer  and  elk.
 They  had  so  much  meat  that  the  storehouses  would  no  longer  hold  it.  He
@@ -2068,9 +1961,6 @@ certain  that  this  tale,  though  it  mentions  the  Tungus,  must  have  refe
 reindeer-riding  Tungus,  with  their  light  tents  of  curried  reindeer  skin,  but  to  the  people  living
 
 
-40
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
 
 
@@ -2118,17 +2008,13 @@ the  Bear  Islands,  for  example,  were  found  remnants  of  some  houses,  de
 The  people  living  along  the  Kolyma  were  chiefly  Yukaghir;  and  along  the  seacoast,  also  the
 httle  known  Ca'acet  and  Shelags.  At  the  present  time,  among  the  Russian  creoles  and  the
 Russianized  natives  on  the  Kolyma,  several  types  of  houses  are  in  use;  but  the  ancient  type
-oi  house  cannot  be  ascertained,  because  of  the  preponderant  influence  of  the  Russian  "loo-
-cabm  with  its  wooden  chimney  of  so-called  “Yakut”  type. —  AV.  B.
+oi  house  cannot  be  ascertained,  because  of  the  preponderant  influence  of  the  Russian  "loocabm  with  its  wooden  chimney  of  so-called  “Yakut”  type. —  AV.  B.
 
 
 1918.]
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-41
 
 
 2.  A  Yukaghir  Tale.
@@ -2198,9 +2084,6 @@ It  caught  around  the  stone,  and  she  climbed  up.  The  other  two  follow
 
 2  I  give  also  the  Russian  words,  which  are  arranged  in  the  form  of  a  lay.  The  burden
 is  said  to  be  Yukaghir,  and  to  have  no  particular  meaning,  like  so  many  other  burdens.  W.  B.
-
-
-42
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [\  ol.  XX,
@@ -2275,9 +2158,6 @@ largest  kettle  that  she  could  find.  She  hung  it  over  the  fire  and  w
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-43
-
-
 water  was  scalding  hot,  she  poured  it  over  the  vermin,  and  scalded  them  all
 to  death.  After  that  she  crept  back  into  the  box  and  waited  till  evening.
 One-Side  came  home,  and  called  aloud,  “Chimney,  burn!  Kettle,  bubble!
@@ -2349,9 +2229,6 @@ and  the  next  morning  she  moved  on;  and  so  throughout  the  day  from  s
 rise  to  sunset.
 
 
-44
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
 
 
@@ -2385,8 +2262,7 @@ They  arrived  at  the  house.  The  old  people  ran  out  and  rejoiced.  From
 mere  joy  they  fell  down  and  became  ashes  that  were  scattered  by  the  wind.
 The  end.
 
-Told  by  Innocent  Korkin,  a  Russianized  Yukaghir  man,  in  the  village  of  Pok-
-hotsk,  the  Kolyma  country,  summer  of  1895.
+Told  by  Innocent  Korkin,  a  Russianized  Yukaghir  man,  in  the  village  of  Pokhotsk,  the  Kolyma  country,  summer  of  1895.
 
 
 3.  Raven  Tale.
@@ -2408,9 +2284,6 @@ of  the  Russian  language. —  W.  B.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-45
 
 
 caught  her  and  carried  her  away.  The  old  couple  wandered  about,  looking
@@ -2458,9 +2331,6 @@ insect,  rather  obscure  at  present.  Compare  the  Chukchee  tales  about  Br
 
 2  See  American  parallels  in  Franz  Boas,  “Tsimshian  Mythology”  ( Thirty-first  Annual
 Report,  Bureau  of  American  Ethnology,  Washington,  1916),  806.  F.  B.
-
-
-46
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -2519,9 +2389,6 @@ them  along,  or  put  them  away  in  secret  places.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-47
-
-
 there.  She  gathered  all  the  bones,  even  the  smallest  joints,  and  put  them
 into  the  pouch  which  she  hung  high  up  on  a  tree.
 
@@ -2564,9 +2431,6 @@ became  swollen  with  crying.  At  last  she  came  home.  Raven  looked  up
 Take  care,  lest  I  swallow  you  some  day!”  —  “Ah,  brother  mine!”  said  the
 young  man,  “so  you  swallow  human  beings?”  —  “Oh  no!”  answered
 Raven-Man,  “it  is  only  a  little  joke.  Nevertheless  let  us  go  and  have  our
-
-
-48
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -2624,9 +2488,6 @@ Kamchadal  story  collected  by  W.  Bogoras) ;  etc. —  W.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-49
-
-
 very  angry  and  struck  the  boy.  “He  is  dead.  How  could  he  laugh?”
 They  continued  hauling  the  sledge,  and  after  a  while  they  came  to  another
 brook.  Again  the  old  woman  pulled  with  great  force  and  broke  wind.  The
@@ -2667,9 +2528,6 @@ of  Pokhotsk,  in  the  Kolyma  country,  summer  of  1896.
 
 1  Probably  in  an  earlier  version  of  this  story  the  following  words  were  really  told  in  the
 Yukaghir  language. —  W.  B.
-
-
-50
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -2730,9 +2588,6 @@ natives. —  W.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-51
-
-
 them!);  and,  moreover,  he  brought  her  large  masses  of  every  kind  of  meat.
 She  made  a  fire,  and  roasted  the  meat  on  wooden  spits.  On  this  she  lived
 all  the  time.
@@ -2775,9 +2630,6 @@ ringing  quite  loud;  but  gradually  the  sound  grew  fainter  and  fainter, 
 then  ceased  altogether.  “Oh,”  thought  the  woman,  “we  are  lost!”  She
 ran  off  in  more  haste  than  ever.  Then  all  at  once  the  bell  sounded  again,
 stronger  and  stronger.  Her  brother-in-law  had  vanquished  the  other  one
-
-
-52
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -2836,9 +2688,6 @@ stories  of  various  peoples  of  the  Old  World. —  W.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-53
-
-
 Then  he  married  her  and  took  her  to  his  house.  On  the  way,  they  passed
 the  house  of  Yaghishna.  Just  as  they  were  right  opposite  it,  the  bride  said,
 “Oh,  my  dear!  I  am  very  thirsty.  Bring  me  some  water.”  He  took  the
@@ -2847,8 +2696,7 @@ The  bottom  was  dry.  He  tried  another  place,  and  still  another.  There
 was  no  water  anywhere,  and  at  last  he  went  so  far  toward  the  middle  of  the
 lake,  that  he  disappeared  from  the  sight  of  the  woman.  In  the  meantime
 the  dogs  of  the  team  scented  the  house  of  Yaghishna.  So  they  rushed  off
-with  the  sledge,  and  she  could  not  keep  them  back.  They  arrived  at  Ya-
-ghishna’s  door.  The  witch  came  out,  took  the  young  woman  by  the  hand,
+with  the  sledge,  and  she  could  not  keep  them  back.  They  arrived  at  Yaghishna’s  door.  The  witch  came  out,  took  the  young  woman  by  the  hand,
 and  led  her  into  the  house.  She  made  her  take  a  place  on  a  new  reindeer
 skin,  and  went  to  prepare  some  food  and  hot  tea  for  her;  but  when  she  took
 the  first  cup  of  tea,  the  witch  unexpectedly  pulled  out  the  bedding  from  under
@@ -2884,9 +2732,6 @@ bov  and  turned  her  face  toward  the  wall.  After  that  she  began  to  ta
 her  left  boot.  He  looked  on  with  great  wonder,  and  thought,  “What  is
 
 
-54
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [\ ol.  XX
 
 
@@ -2919,8 +2764,7 @@ bride.  They  had  supper,  and  then  lay  down  to  sleep.  The  old  woman  s
 to  Grass-Blade-Girl,  “Tell  us  a  tale.”  So  the  girl  began,  “There  lived  an
 old  woman.  She  found  a  yellowish-green  grass  blade  and  took  it  home.
 She  put  it  under  her  bedding.  The  next  morning  she  went  out  to  open
-the  chimney-hole,  and  something  was  crying  within  the  house.  The  grass-
-blade  had  turned  into  a  little  girl.  The  girl  grew  up,  and  a  young  man  came
+the  chimney-hole,  and  something  was  crying  within  the  house.  The  grassblade  had  turned  into  a  little  girl.  The  girl  grew  up,  and  a  young  man  came
 and  married  her.  He  took  her  to  his  house.  On  the  way  she  asked  for  a
 drink.  The  bridegroom  went  for  some  water.  Near  the  trail  stood  the
 house  of  Yaghishna.  The  dogs  scented  it  and  rushed  there.”
@@ -2939,9 +2783,6 @@ of  Pokhotsk,  in  the  Kolyma  country,  summer  of  1S96.
 
 
 Bogorad,  Tales  of  Eastern  Siberia.
-
-
-55
 
 
 7.  The  Alder-Block.1
@@ -3046,9 +2887,6 @@ meal  of  him.  1  She  set  off.  The  eldest  daughter  brought  an  iron  sho
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-57
-
-
 and  said  to  the  boy,  “Well,  Alder-Block,  sit  down  on  the  shovel.”  He
 spread  his  legs  and  stretched  his  arms.  She  tried  to  put  him  down  into  the
 oven,  but  could  not  do  it.  “Why,”  said  she,  “Alder-Block,  you  hold  your
@@ -3092,9 +2930,6 @@ the  meal,  and  they  themselves  are  gone,  perhaps  for  a  little  walk.”
 
 
 i  Details  usual  in  all  Russian  tales. —  W.  B.
-
-
-58
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -3148,9 +2983,6 @@ to  draw  water,  feeling  wearied  and  unhappy.  She  wept  and  a  tear  fell
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-59
 
 
 straight  into  the  water.  At  the  same  time  she  whispered  to  herself :  “  What
@@ -3258,9 +3090,6 @@ and  saw  the  iron  storehouse.  He  grew  very  angry.  First  of  all,  he  c
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-61
-
-
 two  of  her  children  and  swallowed  them.  The  girl’s  legs  just  passed  through
 his  mouth  like  a  flash.  “You  also  shall  not  escape,”  said  he,  and  began  to
 vomit.  After  a  few  efforts  he  vomited  out  a  large  ax  and  attacked  the  iron
@@ -3359,9 +3188,6 @@ it  is  too  awful !  I  will  not  stay  here  any  longer.”  “  And  what 
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-63
-
-
 with  you?  asked  the  eldest  sister.  “This  and  this,”  said  the  middle  sister.
 “Oh,  please!  enough  of  this!  How  can  a  little  baby  leave  the  cradle  and
 become  large?”
@@ -3407,9 +3233,6 @@ kettle  and  all,  and  gave  chase  again.
 
 
 >  See  p.  9.  note  3.
-
-
-64
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -3473,9 +3296,6 @@ F.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-65
-
-
 10.  Yukaghir  Tale.
 
 There  was  a  man  and  his  wife.  They  had  a  little  boy.  One  time  the
@@ -3516,9 +3336,6 @@ the  bare  skulls.  As  soon  as  she  saw  him,  she  threw  the  skulls  under
 The  young  man  felt  afraid.  She  rushed  up  to  him,  however,  and  said,
 “O  brother  dear!  you  have  come  at  last.”  In  the  evening  she  asked  him,
 “Where  are  you  going  to  sleep?”  He  said,  “I  am  going  to  sleep  on  the
-
-
-66
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -3580,9 +3397,6 @@ Send  off  the  dogs!”
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-67
-
-
 She  heard  this,  and  in  a  moment  she  sent  off  two  wolves  and  two  bearsJ
 They  lan  off  and  reached  the  tree.  The  Pike-Girl,  as  soon  as  she  saw  them,
 turned  into  an  ermine  and  went  under  the  roots  of  the  tree.  The  bears
@@ -3592,8 +3406,7 @@ ered  the  pieces  and  burnt  them  in  the  fire,  and  the  ashes  he  let  f
 winds.  Then  he  went  back  to  his  wife  and  told  her  all.  After  that  they
 lived  in  peace,  and  they  are  still  living.  The  end.
 
-Told  by  Anne  Korkin,  a  Russianized  Yukaghir  woman,  in  the  village  of  Suk-
-harnoye  in  the  Kolyma  country,  in  the  autumn  of  1896.
+Told  by  Anne  Korkin,  a  Russianized  Yukaghir  woman,  in  the  village  of  Sukharnoye  in  the  Kolyma  country,  in  the  autumn  of  1896.
 
 
 11.  The  She-Monster.
@@ -3626,9 +3439,6 @@ Let  us  run  to  the  open  country,"  or  let  us  flee  across  the  blue  se
 
 1  For  comparative  notes  see  Elsie  Clews  Parsons,  “Folk-Tales  of  Andros  Island,
 Bahamas.”  ( Memoirs ,  American  Folk-Lore  Society,  vol.  13,  66). —  F.  B.
-
-
-68
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -3687,9 +3497,6 @@ window-sills.  This  wall  serves  also  as  a  bench. —  W.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-69
-
-
 The  children  were  growing  up.  One  spring  day  they  were  playing  on  the
 earth  bench  in  front  of  the  house.  Then  suddenly  appeared  her  eldest
 sister,  the  bhe-Monster.  She  hugged  the  children  and  kissed  them.  In
@@ -3735,9 +3542,6 @@ places.  The  first  night  they  stopped  at  a  way  house.1  They  made  a  f
 i  Small  log  cabins,  or  houses  of  other  types,  are  built  in  various  places  for  the  use  of
 travelers,  especially  along  the  trading  or  official  routes.  They  are  called  in  local  Russian
 HOBapun  (“cooking-house”). —  W.  B.
-
-
-70
 
 
 Anthropological  Papers  American  Museum  of  Natural  Histonj.  [Vol.  XX,
@@ -3796,9 +3600,6 @@ and  Asia,  “heretic”  is  used  as  a  synonym  for  “devil”  or  “ev
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-71
-
-
 They  drove  away  from  there,  crying  for  fear.  They  traveled  through¬
 out  the  night  and  the  next  day.  After  sunset  they  came  to  the  log  cabin,
 and  of  course  wanted  to  pass  it,  but  they  could  not  induce  their  dogs  to
@@ -3850,8 +3651,7 @@ the  Church  upon  the  monsters;  that  they  should  cease  to  appear  and  m
 trouble.  After  that  all  the  people  traveled  about  without  fear  or  danger,
 and  they  met  with  nothing  extraordinary.  The  end.
 
-Told  by  Nicholas  Kusakoff,  a  Russian  creole  (cossack),  at  the  village  of  Po-
-khotsk  in  the  Kolyma  country,  summer  of  1896.
+Told  by  Nicholas  Kusakoff,  a  Russian  creole  (cossack),  at  the  village  of  Pokhotsk  in  the  Kolyma  country,  summer  of  1896.
 
 
 13.  The  Girl  from  the  Grave-Box.
@@ -3894,9 +3694,6 @@ box  and  saw  a  skeleton.  The  bones  held  together  only  by  the  dry  sin
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-73
 
 
 He  cut  the  skeleton,  disjointed  all  the  bones,  and  laid  them  down  in  four
@@ -3945,9 +3742,6 @@ skin  ;  and  even  her  voice  was  hardly  audible.
 country  of  the  Kolyma,  chiefly  in  deep  woods,  on  the  banks  of  some  lonesome  little  river,
 as  described  in  the  tale.  This  tale  expresses  the  superstitious  fear  of  the  ancient  grave-boxes
 common  to  all  the  peoples  of  the  country,  the  remainder  of  the  Yukaghir  included.
-
-
-74
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX
@@ -4005,9 +3799,6 @@ said  the  shaman,  and  raked  the  fire.  Thus,  he  roasted  her  for  three 
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-75
-
-
 three  nights.  On  the  fourth  day  there  was  a  faint  squeal  like  the  voice  of  a
 red  fox.  “Oh,  please  let  me  go!  I  cannot  stand  it.”  Then  he  asked  the
 other  people  of  the  village,  “  What  shall  I  do  to  her?  Shall  I  really  set  her
@@ -4063,12 +3854,10 @@ Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX
 
 
 each!”  They  consented,  but  secretly  they  proposed  to  send  a  man  along.
-This  man  was  to  lie  down  behind  the  shaman;  and  when  the  daring  one-
-should  stretch  out  his  hand  for  the  braid,  the  other  one  was  to  make  a  noise
+This  man  was  to  lie  down  behind  the  shaman;  and  when  the  daring  oneshould  stretch  out  his  hand  for  the  braid,  the  other  one  was  to  make  a  noise
 and  clatter,  and  so  frighten  him  off.  Then  the  one  asked,  “  Is  it  time  to  go?  ”
 They  said,  “All  right,  go!”  and  he  rode  off.  He  arrived  at  the  empty  hut,
-tied  his  horse  to  the  post,  and  entered  the  hut.  When  he  was  opening  the-
-door,  he  heard  in  the  darkness  a  ringing  of  iron  and  a  clattering  of  the  drum,
+tied  his  horse  to  the  post,  and  entered  the  hut.  When  he  was  opening  thedoor,  he  heard  in  the  darkness  a  ringing  of  iron  and  a  clattering  of  the  drum,
 as  if  the  shaman  were  stirring  about;  but  he  said,  “There,  uncle,  you  may
 ring  and  clatter,  but  I  shall  take  that  for  which  I  came.”  So  he  approached
 the  dead  body,  and,  catching  hold  of  the  braid,  cut  it  off  at  the  very  roots.
@@ -4102,12 +3891,10 @@ chief,  Who  are  these  people  —  your  workmen  or  your  guests?”  —  
 
 
 1  For  thc  last  hundred  years,  the  northern  Miatushski  clan  has  been  living  on  the
-Great  Anui  River,  in  the  Lower  Kolyma  country.  This  clan  has  been  superficially  Russian-
-ized.  Their  way  of  living  is  quite  Russo-Yukaghir.  They  have  no  cattle,  and  catch  their
+Great  Anui  River,  in  the  Lower  Kolyma  country.  This  clan  has  been  superficially  Russianized.  Their  way  of  living  is  quite  Russo-Yukaghir.  They  have  no  cattle,  and  catch  their
 fish  not  in  the  lakes,  but  in  the  Great  Anui  and  Kolyma  rivers. —  W.  B.
 
-2  This  indicates  that  they  were  probably  Yakut.  The  tribute  chief  in  local  Russian  is-
-roAOBa  (literally,  “head'').  This  chief  was  elected  by  several  clans  related  to  one  another
+2  This  indicates  that  they  were  probably  Yakut.  The  tribute  chief  in  local  Russian  isroAOBa  (literally,  “head'').  This  chief  was  elected  by  several  clans  related  to  one  another
 and  forming  together  one  tribal  branch. —  W.  B.
 
 
@@ -4115,9 +3902,6 @@ and  forming  together  one  tribal  branch. —  W.  B.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-77
 
 
 •oh!”  said  the  tribute  chief,  “what  are  you  thinking  of!  These  people  are
@@ -4230,9 +4014,6 @@ i
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-79
-
-
 Yukaghir  or  something  else.  They  were  good  hunters,  and  every  fall  with
 the  first  snow  they  would  set  off  to  hunt  sable  and  red  and  gray  foxes.  Each
 time  they  would  divide  the  skins  into  three  equal  parts.  One  year  the  snow
@@ -4327,9 +4108,6 @@ she  has  been  a  tree,  and  I  do  not  know  how  to  restore  her  to  her 
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-81
 
 
 human  shape.  The  second  part  of  the  incantation  has  ceased  to  work.
@@ -4432,17 +4210,13 @@ bent  over  the  heap.  The  young  man,  with  an  innocent  face,  picked  up 
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-83
-
-
 lance.  “What  a  beautiful  lance!”  said  he,  “and  what  a  shaft!  Strong
 like  iron.  Even  against  a  bear  such  a  shaft  would  hold  out  and  never
 break.”  Then  he  poised  it  in  his  hands.  Together  with  the  shaft  it  weighed
 no  less  than  one  pud.1  He  took  the  lance  by  the  iron  and  lifted  it,  shaft
 upward,  and  all  at  once  struck  the  Bad  Merchant  on  the  neck.  The  woman
 seized  a  knife  and  tried  to  stab  him;  but  he  struck  her  with  the  shaft,  and
-she  fell  down  senseless.  Then  he  cried  to  the  workman,  “  Bring  those  elk-
-hide  lines  there  in  the  corner!”  With  them  he  bound  him  securely.  The
+she  fell  down  senseless.  Then  he  cried  to  the  workman,  “  Bring  those  elkhide  lines  there  in  the  corner!”  With  them  he  bound  him  securely.  The
 woman  came  to  herself,  but  he  violated  her.  Then  he  said  to  the  workman,
 “You  accompanied  him  on  his  travels,  and  were  compelled  by  him  to  do
 his  work,  and  he  paid  you  with  blows.  You  might  have  expected  a  violent
@@ -4478,9 +4252,6 @@ lived  in  this  way,  and  the  young  girl  suffered  much.  At  last  she  co
 1  Thirty-six  pounds  avoirdupois.
 
 2  This  is  a  version  of  the  well-known  Russian  tale,  but  with  some  details  of  local  life. — -
-
-
-84
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -4542,9 +4313,6 @@ und  Polivka,  l.  c.,  vol.  1,  207. —  F.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-85
-
-
 the  house.  “Oh,  oh,  oh!  We  heard  nothing,  we  saw  nothing,  the  little
 Russian  bone  came  to  the  house  of  its  own  free  will.”  All  at  once  a  board
 was  lifted,  as  before,  and  his  vermin  children  spurted  out  in  all  directions;
@@ -4588,14 +4356,10 @@ backs  are  dislocated  or  broken.  All  of  us  are  suffering.”  The  Uncle
 grew  angry.  He  caught  the  girl  and  tore  her  in  two.  Then  he  swallowed
 
 
-86
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX
 
 
-both  parts,  and  vomited  the  bones  into  the  corner.  After  a  while  her  mother-
-said  to  the  old  man,  “  Now,  go  and  bring  my  daughter  back.  Take  care  lest
+both  parts,  and  vomited  the  bones  into  the  corner.  After  a  while  her  mothersaid  to  the  old  man,  “  Now,  go  and  bring  my  daughter  back.  Take  care  lest
 you  leave  behind  any  of  her  presents.”  The  old  man  went  to  the  house  of
 the  Unclean  Idol  who  was  not  at  home  when  he  arrived.  He  opened  the
 entrance,  but  the  girl  was  not  to  be  seen.  Only  some  bones  were  heaped
@@ -4647,9 +4411,6 @@ Russia  and  all  along  the  northern  parts  of  Siberia. —  W.  B.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-87
 
 
 bank  resounded  with  the  noise  of  their  voices.  At  last  they  found  an
@@ -4736,8 +4497,7 @@ He  took  a  small  bit  and  swallowed  it.  “  Ah!  it  is  sweet.”  He  t
 piece,  and  by  and  by  had  eaten  a  large  and  hearty  meal,  in  the  manner  of
 human  beings.  In  due  time,  however,  he  felt  uncomfortable,  and  shouted,
 “My  buttocks  prick  me,  my  buttocks  prick  me!”  Tears  started  from  his
-eyes  from  pain.  The  man  with  incantations  took  a  splinter  of  drift  larch-
-wood  and  made  it  round  and  sharp-pointed.  He  pronounced  several
+eyes  from  pain.  The  man  with  incantations  took  a  splinter  of  drift  larchwood  and  made  it  round  and  sharp-pointed.  He  pronounced  several
 incantations  over  it,  and  then  thrust  it  through  the  old  man’s  breeches,
 thus  making  an  anus  for  him.  In  a  similar  manner  he  made  for  him  also  a
 urethra.  At  the  same  moment  the  old  man  eased  himself  in  both  ways,
@@ -4753,9 +4513,6 @@ of  American  Ethnology,  'Washington,  1916),  773.—  F.  B.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-89
 
 
 The  next  morning,  however,  the  visitors  were  requested  to  furnish  the
@@ -4796,16 +4553,12 @@ the  house  fell  asleep  and  slept  like  logs.  The  visitors  went  out  and
 the  skin  boat.
 
 They  gave  up  journeying  farther,  and  turned  homeward.  On  the  return
-journey,  they  made  almost  no  landings,  but  sailed  steadily  on.  They  iet  is-
-ited  only  those  people  whose  intestines  they  had  provided  with  openings,
+journey,  they  made  almost  no  landings,  but  sailed  steadily  on.  They  iet  isited  only  those  people  whose  intestines  they  had  provided  with  openings,
 and  obtained  from  them  more  provisions  for  the  last  part  of  their  journey.
 
 i  see  Eskimo  (Boas,  “The  Eskimo  of  Baffin  Land  and  Hudson  Bay”  Bulletin  American
 Museum  of  Natural  History,  vol.  15,  170]) ;  for  other  references,  Ibid.,  360;  Wishram  (Sapir,
 “Wishram  Texts”  Publications,  American  Ethnological  Society,  vol.  2,  19).  F.  B.
-
-
-90
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX.
@@ -4823,8 +4576,7 @@ the  house,  the  women  glanced  at  them  and  swooned.  They  remained
 unconscious  for  many  hours,  and  could  hardly  be  restored.  After  that  they
 lived  with  their  husbands  exactly  as  they  had  in  former  times.  The  end.1
 
-Told  by  Innocent  Korkin,  a  Russianized  Yukaghir  man,  in  the  village  of  Pok-
-hotsk,  in  the  Kolyma  country,  summer  of  1896.
+Told  by  Innocent  Korkin,  a  Russianized  Yukaghir  man,  in  the  village  of  Pokhotsk,  in  the  Kolyma  country,  summer  of  1896.
 
 
 22.  The  Tale  of  La’la.2
@@ -4866,9 +4618,6 @@ mean  “elder  brother”.  —  W.  B.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-91
 
 
 attack  La’la!”  La’la  looked  up,  and  asked,  “What  do  you  say?”  —  “Ah,
@@ -4914,9 +4663,6 @@ man.  “  Are  you  not  a  Yukaghir?  ”  1  said  La’la.  “  You  must  
 
 i  the  word  “Khadya”  a  little  above  was  indicated  as  Chuvantzi.  Cf.  Anadyr
 version,  footnote,  p.  95. —  W.  B.
-
-
-92
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -4973,9 +4719,6 @@ tines  are  immediately  pulled  out. —  W.  B,
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-93
-
-
 sledges.  These  two  old  men  were  sitting  there.  He  killed  one, —  the  one
 who  said,  “Be  careful,  boys!”  He  struck  him  on  the  head  with  a  piece  of
 wood.  He  took  the  other  one  along  and  married  him  to  his  mother.  He
@@ -5020,9 +4763,6 @@ mountain-sheep  cooked  with  edible  roots.
 He  went  on,  and  after  a  while  he  came  to  another  place.  Smoke  was
 •coming  up  out  of  the  ground.  He  looked  down  the  hole.  An  old  woman
 •clad  in  a  coat  of  autumn  skins  was  skipping  about  like  a  jumping  hare.
-
-
-94
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -5119,9 +4859,6 @@ though  to  kill  La’la.”  One  man  retorted,  “  La’la  has  been  kil
 i  Inserted  here  for  the  purpose  of  ready  comparison  with  the  preceding  tale.  W  .  B
 
 
-96
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
 
 
@@ -5146,8 +4883,7 @@ old.  So  I  am  going.  Please  get  an  overcoat  ready  for  me  of  the  wor
 shreds  of  skin.  I  want  it  for  my  journey.”  He  put  on  his  best  suit  of
 clothes, —  trousers  of  white  reindeer  legskins,  and  a  coat  of  spotted  fawnskin,
 all  embroidered  around  the  skirts, —  and  over  all  this  he  donned  a  poor
-and  shabby  overcoat  made  of  shreds  of  skin.  He  went  along  on  his  snow-
-shoes,  and  came  to  a  river.  There  was  a  village  there  of  thirty  houses.
+and  shabby  overcoat  made  of  shreds  of  skin.  He  went  along  on  his  snowshoes,  and  came  to  a  river.  There  was  a  village  there  of  thirty  houses.
 Near  a  water-hole  he  saw  a  number  of  women  and  girls.  He  went  there  and
 lay  down  close  to  the  water-hole.  Y\  hen  the  women  saw  him,  they  laughed
 and  scoffed  at  him.  “What  do  you  want,  you  shabby  one,  you  dog  of  the
@@ -5174,9 +4910,6 @@ lay  down.  He  married  her.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-97
 
 
 Told  by  Mary  Alin,  a  Russianized  Chuvantzi  woman,  and  noted  down  by  Mrs.
@@ -5221,9 +4954,6 @@ The  old  man  addressed  him,  and  said,  “  O,  young  man!  are  you  also
 being,  as  I  am?  If  you  are,  why  did  you  come  here?  The  people  who  live
 here  are  man-eaters.  They  feed  on  human  flesh,  and  they  even  tried  to
 induce  me  to  do  the  same;  but  I  refused.  Therefore  I  am  so  lean,  that  they
-
-
-98
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -5279,9 +5009,6 @@ Then  he  crept  out,  and  hurried  to  the  shore.  There  on  the  sand  lay 
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-99
-
-
 canoes,  one  of  iron,  and  the  other  of  wood.  He  took  the  iron  awl  and  pierced
 the  wooden  canoe  in  twenty  places.  Then  he  called  the  old  man  who  had
 given  him  advice,  and  bade  him  go  aboard  the  iron  canoe.  He  himself
@@ -5330,9 +5057,6 @@ near  the  mouth  of  the  Baraniklia  River,  east  of  the  Kolyma  River,  in
 at  present  uninhabited.  The  natives  say  that  in  former  times,  before  the  coming  of  the
 Russians,  a  considerable  village  stood  here,  but  at  present  there  are  no  visible  traces  of  it —
 W.  B.
-
-
-100
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -5391,9 +5115,6 @@ F.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-101
-
-
 26.  Story  of  the  Fish-Woman.
 
 There  was  a  man  who  lived  alone  and  was  poor  and  destitute.  He  had
@@ -5412,8 +5133,7 @@ poor.  I  can  lose  nothing  by  it,  let  me  take  her  home!”  He  took  S
 home  and  laid  her  down  in  the  corner  of  his  house.  The  next  morning  he
 went  fishing  again.  He  caught  nothing  at  all;  but  when  he  came  home,  his
 house  looked  quite  festive.  Everything  was  well  cleaned  and  in  good  order;
-a  good  meal  stood  ready  on  the  table;  but  nobody  was  there,  and  the  Sher-
-kala-Fish  lay  in  the  corner  just  as  before.  From  that  time  on  everything
+a  good  meal  stood  ready  on  the  table;  but  nobody  was  there,  and  the  Sherkala-Fish  lay  in  the  corner  just  as  before.  From  that  time  on  everything
 continued  in  that  manner.  He  caught  no  fish;  but  somebody  kept  the  house
 in  good  order,  and  cooked  excellent  meals  of  nothing.  When  he  stayed
 at  home,  the  dinner  would  not  appear,  so  that  he  was  obliged  to  go  out  every
@@ -5428,8 +5148,7 @@ lay  on  the  floor.  He  threw  it  into  the  fire,  and  it  was  burned.  �
 have  you  done,”  said  the  girl.  “We  lived  so  happily,  and  now  I  must  go
 away.”  She  fell  down  and  melted  away  into  sea  water.  The  end.
 
-Told  by  Innocent  Korkin,  a  Russianized  Yukaghir  man,  in  the  village  of  Pok-
-hotsk,  the  Kolyma  country,  summer  of  1896.
+Told  by  Innocent  Korkin,  a  Russianized  Yukaghir  man,  in  the  village  of  Pokhotsk,  the  Kolyma  country,  summer  of  1896.
 
 
 i  In  Russian  HlepKajra.  Compare  this  very  curious  fish  tale  with  that  of  the  Koryak
@@ -5437,9 +5156,6 @@ i  In  Russian  HlepKajra.  Compare  this  very  curious  fish  tale  with  that
 also  with  Indian  tales  of  a  similar  character  (Bogoras,  "The  Folklore  of  Northeastern  Asia,
 as  compared  with  that  of  Northwestern  America,”  ( American  Anthropologist,  Vol.  4,  1902),
 658. —  W.  B.
-
-
-102
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -5493,9 +5209,6 @@ My  uncle  told  me  one  time  how  his  “grandfather”  saved  him  from  a
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-103
 
 
 evil  spirit.1  One  summer  my  uncle  went  in  a  wooden  canoe  down  the  river
@@ -5558,8 +5271,7 @@ ground.  Meantime  I  feel  as  if  my  intestines  had  gone  out  of  my  anus
 she  again  shouted,  and  he  was  much  frightened,  and  flopped  down  upon  a
 bench.  The  bladder  burst,  and  the  faeces  flowed  around.  The  end.
 
-Told  by  Mary  Korkin,  a  Russianized  Yukaghir  woman,  in  the  village  of  Po-
-khotsk,  the  Kolyma  country,  summer  of  1896.
+Told  by  Mary  Korkin,  a  Russianized  Yukaghir  woman,  in  the  village  of  Pokhotsk,  the  Kolyma  country,  summer  of  1896.
 
 
 29.  The  Mouse  and  the  Snow-Bunting.
@@ -5597,9 +5309,6 @@ nothing.  About  dinner  time  she  brought  some  seeds  for  herself,  and  fo
 
 
 Boyoras,  Tales  of  Eastern  Siberia.
-
-
-105
 
 
 Snow-Bunting  nothing.  Then  Snow-Bunting  cried  from  grief.  “Why,
@@ -5705,9 +5414,6 @@ yes!”  repeated  the  woman,  “at  that  very  time,  when  the  women  flog
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-107
-
-
 you  in  the  stable.  A  ou  cried  most  vehemently.”  The  chief  officer  grew
 angry  and  turned  her  out  of  the  house.  Her  husband  gave  her  a  severe
 thrashing.
@@ -5750,9 +5456,6 @@ left  the  church  and  went  home.  “Ah!”  said  she,  “  this  time  it 
 wTanted  it.  The  people  gave  me  the  best  place,  in  front  of  all;  the  children
 on  the  street  fell  down  before  me;  and  the  priest  in  the  church  never  ceased
 bowing  before  me,  and  he  filled  the  whole  church  with  clouds  of  incense  in
-
-
-108
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -5812,9 +5515,6 @@ of  the  usual  load  of  the  pack  horse. —  W.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-109
-
-
 of  falling  branches.  In  the  morning  she  went  out.  All  the  trees  had  been
 cut  down  to  the  very  roots,  and  her  husband  was  lying  on  the  ground,  half
 dead  and  senseless.  She  nursed  him  and  dressed  his  wounds,  until  he  came
@@ -5857,9 +5557,6 @@ pulled  it  out  of  the  moss  up  to  the  middle  of  the  breast,  and  then
 at  the  man.  He  pushed  her  right  foreleg  upward  with  his  muzzle  and  in
 every  possible  way  tried  to  explain  his  desire.  At  last  the  man  understood
 that  the  bear  wanted  him  to  skin  this  leg.  He  took  off  the  skin,  and  on  the
-
-
-110
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -5944,9 +5641,6 @@ of  a  cycle  of  stories  more  ancient  than  the  advent  of  the  Russian,  
 Yukaghir  inhabitants  of  the  country.  —  W.  B.
 
 
-112
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
 
 
@@ -6001,9 +5695,6 @@ bed.  Then  they  heard  Yaghishna  coming.  They  were  frightened,  and  ran
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-113
-
-
 off.  leaving  the  girl  behind.  \  aghishna  came  in  shuffling  over  the  floor
 with  her  bristle-soled  frozen  boots.1  She  seized  the  old  man  and  the  old
 woman,  but  forgot  to  take  the  girl.  Then  she  came  back  and  felt  with  her
@@ -6050,9 +5741,6 @@ Yaghishna  angrily.  “  Ah!  it  is  too  sticky  here.”  Indeed,  the  rive
 i  Cf.  Bogoras,  “  The  Chukchee  ”,  239. —  W.  B.
 
 
-114
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
 
 
@@ -6072,8 +5760,7 @@ Take  my  fingers  for  your  forks,
 Take  my  joints  for  your  supports,
 Take  my  buttocks  for  your  mortar,
 Take  my  legs  for  a  stone-scraper  handle,
-Take  my  backbone  for  your  scraping-
-board.”
+Take  my  backbone  for  your  scrapingboard.”
 
 
 “  MoK)  t edh  daiLLKy  h;i  uanncy,
@@ -6124,9 +5811,6 @@ old  woman  seized  the  oven  rake  and  struck  the  old  man  on  the  back. 
 Bogoras,  Tales  of  Eastern  Siberia:
 
 
-115
-
-
 down  and  died.  The  night  passed.  In  the  morning  the  children  awoke,
 but  the  old  woman  slept  on.  They  wanted  to  waken  her,  but  were  unable
 to  do  so.  One  of  them  took  up  an  ax  and  struck  her  on  the  loins.  The  old
@@ -6174,9 +5858,6 @@ BaiOT'b,  HHKaKoro  ,a;of5pa  He  HaacuBaiOT'b) .  W.  B.
 2  l  am  not  sure  that  this  story  belongs  to  the  children’s  cycle.  It  looks  much  more  like
 some  mutilated  version  of  a  longer  story  of  considerable  interest.  To  my  regret,  however,
 I  could  find  no  other  version  of  it. —  W.  B.
-
-
-116
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -6232,9 +5913,6 @@ the  lubbish.  Perhaps  you  will  find  some  scraps.  ’  The  old  woman  re
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-117
-
-
 found  some  scraps,  and  brought  them  home.  A  few  of  them  were  reindeer
 meat,  others  were  seal  blubber,  and  a  third  kind  were  some  heads  of  dried
 fish.  They  put  all  this  into  a  large  kettle  and  prepared  a  soup.  They  ate
@@ -6278,9 +5956,6 @@ all  covered  with  foam  and  even  their  breath  of  fire  was  extinguished.
 The  girls  wanted  to  thank  God  for  their  salvation.  The  elder  one  took  a
 thin  wax  taper  and  wanted  to  light  it;  but  with  the  taper  her  own  finger
 flamed  up.  She  was  burnt  to  death,  and  her  sister  with  her.  That  is  all.
-
-
-118
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -6364,9 +6039,6 @@ without  interest. —  W.  B.
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-119
-
-
 The  Cat  heard  this  time,  and  chased  the  Fox.  He  swung  over  her  head  his
 mighty  sword,  but  she  slipped  into  her  furrow  and  was  gone.  So  the  Cock
 went  to  market  and  bought  for  himself  a  fine  dulcimer.  Then  he  came  to
@@ -6412,8 +6084,7 @@ nopaft,  jmca,
 
 nOflOBblft  nnp03K0K'b.”
 
-So  the  Fox  said  to  the  Small-Stuffed-One,  “Go  and  give  him  this  oven-
-baked-cake.”  She  went  with  the  cake,  but  he  struck  her  on  the  head  and
+So  the  Fox  said  to  the  Small-Stuffed-One,  “Go  and  give  him  this  ovenbaked-cake.”  She  went  with  the  cake,  but  he  struck  her  on  the  head  and
 killed  her.
 
 “He  hid  the  carcass  under  the  sand,
@@ -6435,9 +6106,6 @@ provenience. —  W.  B.
 2  This  and  the  following  line  are  probably  inserted  from  an  ancient  conundrum.  “The
 mother  is  thick,  the  daughter  is  red,  the  son  is  valorous,  went  up  the  sky. —  Oven,  fire,  smoke.”
 (Mam  ToncTa,  poub  KpacHa,  cbiHb  xopodepb,  nopa.  Hedeca  yniejrb). —  W.B.
-
-
-120
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -6487,8 +6155,7 @@ Ilo^aft,  jtnca,
 IIo^OBbift  napoacoKb.”
 
 Ah,  said  the  Fox,  “go,  Palachelka,  and  give  him  this  oven-baked
-cake.”  She  went  with  the  cake  but  he  killed  her  likewise.  Then  he  san-
-again : —
+cake.”  She  went  with  the  cake  but  he  killed  her  likewise.  Then  he  sanagain : —
 
 “Jingle,  jingle,  my  fine  dulcimer,
 
@@ -6528,9 +6195,6 @@ lustily.—  W.  B.  The  Cock  came  t0  life-  and  crowed
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-121
 
 
 time,  whoever  comes,  you  must  not  forget  to  keep  the  door  tightly  closed.”
@@ -6576,9 +6240,6 @@ to  put  the  teakettle  on  the  burning  coals;  but  the  kettle  was  set  a
 reclined  to  one  side.  Some  of  the  scalding  water  poured  out  on  the  boy’s
 hand.  He  let  go  of  the  kettle,  and  it  was  nearly  overthrown.  The  father
 and  the  mother  grew  angry  and  gave  him  a  severe  spanking.  “  In  vain  was
-
-
-122
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -6635,9 +6296,6 @@ cheek,  and  then  the  left, —  and  flew  away  snorting  with  anger.  The 
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-123
-
-
 down  and  was  scattered  about  as  gravel.  After  a  while  Yaghishna  came
 back.  She  looked  for  the  girl,  but  she  was  not  to  be  found.  Only  some
 gravel  lay  scattered  all  around.  “Is  it  you?”  But  the  gravel  was  silent.
@@ -6645,9 +6303,6 @@ gravel  lay  scattered  all  around.  “Is  it  you?”  But  the  gravel  was 
 
 Told  by  Annie  Korkin,  a  Russianized  Yukaghir  girl,  aged  fourteen,  in  the  village
 of  Pokhotsk,  the  Kolyma  country,  summer  of  1895.
-
-
-124
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -6701,9 +6356,6 @@ The  girl  dropped  back,  and  the  stone  woman  returned  to  her  home.  She
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-125
-
-
 put  her  husband’s  clothes  in  their  former  place,  also  his  how  and  snowshoes.
 Then  she  removed  the  sleeping-spell  from  him.  He  jumped  up,  and  saw
 that  the  sun  was  already  high  up  in  the  sky.  He  took  his  bow,  put  on  his
@@ -6755,9 +6407,6 @@ have  slept  forever.”  They  stayed  there  till  the  following  morning.  W
 
 
 i  In  Russian  this  is  a  kind  of  rhymed  prose.
-
-
-126
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -6815,9 +6464,6 @@ deer.  She  saw  it  in  the  valley,  close  to  a  group  of  larch  trees.  I
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-127
-
-
 spotted,  and  its  antlers  stood  upright.  She  tried  to  approach,  but  it  ran
 away.  At  last  she  came  within  range  of  it  and  killed  it.  Then  she  opened
 it  and  extracted  the  liver.  It  was  full  of  maggots.  She  destroyed  these  one
@@ -6826,8 +6472,7 @@ invaders.  Arai,  arai.  1  She  came  to  the  shaman’s  tent.  He  jumped  u
 but  when  she  destroyed  the  largest  maggot,  he  fell  back  dead.  Then  she
 went  to  her  sisters.  “Ah,  sisters!  I  have  killed  them  all.”  — “How  is  it
 possible?’  said  the  sisters.  “It  is  not  true.”- — -“Indeed,  let  us  go  and
-look  at  them!”  They  arrived  at  the  camp.  All  their  enemies  were  stone-
-dead.  They  carried  out  the  bodies,  and  took  everything  in  the  camp  for
+look  at  them!”  They  arrived  at  the  camp.  All  their  enemies  were  stonedead.  They  carried  out  the  bodies,  and  took  everything  in  the  camp  for
 themselves.  The  end.
 
 Told  by  Anne  Sosykin,  a  Russianized  Chuvantzi  woman,  in  the  village  of  Mar¬
@@ -6836,8 +6481,7 @@ kova.  Recorded  by  Mrs.  Sophie  Bogoras,  winter  of  1900.
 
 3.  Yukaghir  Tale.
 
-There  were  two  sisters.  One  time  they  walked  about  and  met  Kose-
-toka.2  The  first  sister  saw  him,  and  immediately  let  herself  fall  down,
+There  were  two  sisters.  One  time  they  walked  about  and  met  Kosetoka.2  The  first  sister  saw  him,  and  immediately  let  herself  fall  down,
 pretending  to  be  dead.  He  came  to  her  and  investigated  the  body.  He
 found  an  aperture  in  the  hind  part,  and  said,  “Ah!  this  is  the  wound.”
 Then  he  put  his  finger  into  the  wound  and  smelled  of  it.  “Ah!”  said  he,
@@ -6865,9 +6509,6 @@ about  this  spirit. —  W.  B.
 
 3  See  references  in  Boas,  “Kutenai  Tales”  ( Bulletin  59,  Bureau  of  American  Ethnology) ,
 296,  No.  16. —  F.  B.
-
-
-128
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -6925,9 +6566,6 @@ W.  B.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-129
 
 
 to  perch  on  the  fish  racks  you  would  hurl  lumps  of  earth  at  my  head.  I  will
@@ -7035,9 +6673,6 @@ where  is  your  fire?”  —  “A  jay  passed  by  and  extinguished  it.”
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-131
-
-
 where  is  the  jay?  It  flew  away  to  the  mountain  to  peck  at  the  larch
 gum.”  The  end.
 
@@ -7084,9 +6719,6 @@ for  instance,  blood-soup  with  marrow  in  it, —  belong  to  northeastern 
 2  See  Bolte  und  Polivka,  l.  c.,  vol.  1,  135,  204. —  F.  B.
 
 3  Cf.  Bogoras,  “  Chukchee  Materials  ”,  No.  59,  171. —  W.  B.
-
-
-132
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -7142,9 +6774,6 @@ on  the  fish.  The  first  day  he  consumed  one  storehouse  full.  The  seco
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-133
-
-
 day  he  finished  the  second  storehouse.  Thus  in  nine  days  he  was  through
 with  all  his  stores  of  dried  fish.  Then  he  said,  “  I  have  nothing  to  eat,  so
 I  will  go  and  try  to  find  a  dwelling.”
@@ -7192,9 +6821,6 @@ jargon,  and  means  “food,”  to  “eat.'
 Still  the  unknown  words  occurring  in  it  were  indicated  as  belonging  to  the  Chuvantzi  language,
 though  nobody  was  able  to  translate  them.  The  Chuvantzi  may  have  been  a  branch  of  the
 Yukaghir.  (Cf.  Bogoras,  “  The  Chukchee,”  18). —  W.  B.
-
-
-134
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Yol.  XX,
@@ -7263,9 +6889,6 @@ may  come  here  and  destroy  us  unawares.”
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-135
-
-
 They  followed  in  her  tracks,  and  finally  found  a  house.  They  stole  up
 to  it.  Nobody  was  stirring  there.  They  found  a  chink  and  looked  through
 it.  The  house  was  empty:  so  they  entered  and  looked  about.  There  was
@@ -7286,9 +6909,6 @@ time.
 
 Told  by  Anne  Pleskov,  an  old  Russianized  native  woman,  in  the  village  of
 Vakarena,  the  Anadyr  River,  autumn  of  1899.
-
-
-136
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -7345,15 +6965,11 @@ W.  B.
 1918.]
 
 
-137
-
-
 Bogoras,  Tales  of  Eastern  Siberia.
 
 He  jumped  up  and  danced  about,  and  then  started  off  like  an  arrow.
 She  said  to  herself,  Oh,  let  him  go!  Perhaps  the  bear  will  devour  him,  and
-I  shall  be  rid  of  him.”  The  next  morning  she  went  to  the  river,  and  Pon-
-dandi,  was  sitting  there  as  before.  “Ah!”  thought  she,  “he  is  still  alive.”
+I  shall  be  rid  of  him.”  The  next  morning  she  went  to  the  river,  and  Pondandi,  was  sitting  there  as  before.  “Ah!”  thought  she,  “he  is  still  alive.”
 But  when  she  came  back  to  her  house,  a  big  bear’s  carcass  was  lying  near
 the  entrance.
 
@@ -7411,9 +7027,6 @@ heaven.  Then  he  jumped  upward  and  followed  the  arrow.  She  looked  up
 and  followed  him  with  her  eyes,  until  he  was  lost  out  of  sight.  She  waited
 and  waited,  but  he  did  not  fall  back,  and  never  descended.  “  Ah,”  said  she,
 “  surely  he  fell  down  at  some  other  place.  No  doubt  he  is  dead.”  She  went
-
-
-138
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -7507,9 +7120,6 @@ OrajIH  M6HH  THCKaTb.”
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-139
 
 
 “‘We  girls  we  have  come
@@ -7641,9 +7251,6 @@ And  there  they  were.  After  a  while  his  father-in-law  also  went  out  a
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-141
-
-
 saw  the  new  house.  Ah,  ah !  ’  said  he,  “  some  new  people  have  come  here,
 together  with  their  house.”  The  end.
 
@@ -7690,9 +7297,6 @@ shaman.  “  Reverend  father,  it  is  your  wife  who  destroyed  half  of  t
 Had  it  not  been  for  me,  she  would  have  taken  you  also.”  —  “Ah,  ah!”
 
 
-142
-
-
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
 
 
@@ -7711,8 +7315,7 @@ There  was  an  old  man  and  his  wife.  The  old  woman  died  leaving  a
 single  daughter.  The  old  man  sought  another  wife,  and  married  a  widow,
 who  had  a  daughter  of  her  own.  This  widow  was  a  Yahga-Witch.  The
 stepmother  had  a  violent  dislike  for  her  stepdaughter.  She  used  to  strike
-her  hard  and  gave  her  nothing  to  eat.  One  day  she  sent  her  to  the  water-
-hole  to  wash  some  old  nets.1  While  the  girl  was  washing  it  the  swift  current
+her  hard  and  gave  her  nothing  to  eat.  One  day  she  sent  her  to  the  waterhole  to  wash  some  old  nets.1  While  the  girl  was  washing  it  the  swift  current
 carried  it  away.  She  cried  bitterly.  Then  she  looked  down  the  water-hole
 and  saw  a  road.  She  descended  and  came  to  the  lower  world.  She  walked
 and  walked,  and  then  saw  a  horse  stable.  Several  horses  stood  in  it,  and
@@ -7748,9 +7351,6 @@ of  towels  and  napkins. —  W.  B.
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-143
 
 
 also  a  small  box  with  an  iron  cover.  She  said  to  the  girl,  “Give  this* net  to
@@ -7794,9 +7394,6 @@ the  Anadyr  country,  winter  of  1900.
 
 
 i  See  Bolte  und  Polivka,  vol.  1,  207.
-
-
-144
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -7854,9 +7451,6 @@ voice  answered,  “I  am  here.”  It  was  Magus,  who  had  found  the  und
 Bogoras,  Tales  of  Eastern  Siberia.
 
 
-145
-
-
 ground  storehouse  and  entered  it,  blocking  the  entrance  behind  him.  “Ah!
 where  are  you?  ”  —  “  I  am  here.”  The  spirit  ran  out  of  the  house  and  back
 again.  The  entrance  was  blocked;  but  he  found  a  round  hole,  and  tried
@@ -7901,9 +7495,6 @@ The  third  and  the  youngest  son  mounted  the  roof  ,  and  saw  Gege-Woman
 ,  In  Russian,  TereftKa  Baba  winch  probably  means  “woman  who  cried  'gege,  gege’!"
 
 ^  One  of  the  calls  addressed  to  the  dog-team  (Cf.  Bogoras,  '  The  Chukchee,  111).
-
-
-146
 
 
 Anthropological  Papers  American  Museum  of  Natural  History.  [Vol.  XX,
@@ -7959,9 +7550,6 @@ looked  at  them  from  -the  sleeping  compartment  through  a  chink  in  the
 
 
 Bogoras,  Tales  of  Eastern  Siberia.
-
-
-147
 
 
 partition.  All  at  once  she  noticed  that  the  teeth  of  the  men  were  quite
@@ -8038,9 +7626,6 @@ episode  which  seems  of  local  character. —  W.  B.
 2  Some  of  the  nests  of  these  large  owls  are  said  to  be  placed  within  hollow  trunks  of  trees,
 or  among  piles  of  driftwood  which  are  found  at  certain  places  all  along  the  arctic  coast.  (Cf.
 Bogoras,  “  The  Chukchee,”  97.) —  W.  B.
-
-
-7872
 
 
 Date  Due

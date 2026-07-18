@@ -44,7 +44,6 @@ The   Zend-Avesta
 
 — : -3-^ E~_i£ -.^ :
 
-1
 
 .  •  ■   f
 
@@ -59,9 +58,6 @@ THE
 
 
 SACRED  BOOKS  OF  THE  EAST
-
-
-[23]
 
 
 Honlron
@@ -98,7 +94,6 @@ VOL.   XXIII
 
 
 AT     THE     CLARENDON     PRESS
-1883
 
 [All  rights  reserved ]
 
@@ -123,7 +118,6 @@ JAMES     DARMESTETER
 (Bytovti
 
 AT    THE    CLARENDON    PRESS
-1883
 
 I  A//  rights  reserved '\
 
@@ -184,28 +178,8 @@ XVI.   Din  Yajt
 
 I
 
-3
-13
 
-21
-
-31
-35
-41
-48
-
-52
-85
-88
-92
 no
-119
-
-168
-179
-231
-249
-264
 
 
 Vlll
@@ -241,32 +215,12 @@ IV.  Aban  Nyayij      .
 V.  Ataj  Nyayij-
 
 
-270
-283
-286
-310
-
-311
-314
-
-324
-328
-
-349
-349
-353
-355
-356
-357
-
-
 Index    to    the    Translations    of    the   Vendidad,    Sirozahs,
 
 Yai'ts,  and  Nyayif  ,         .         .         .         .         .         .     363
 
 
-Transliteration  of  Oriental  Alphabets  adopted  for  the  Trans-
-lations of  the  Sacred  Books  of  the  East         .         .         .381
+Transliteration  of  Oriental  Alphabets  adopted  for  the  Translations of  the  Sacred  Books  of  the  East         .         .         .381
 
 
 INTRODUCTION.
@@ -276,15 +230,12 @@ Sirozahs  and  Yai'ts,  and  of  the  Nyayij-.  This  part  of
 the  Avesta  treats  chiefly  of  the  mythical  and  legendary
 lore  of  Zoroastrianism.
 
-For  a  satisfactory  translation  of  these  texts,  the  etymo-
-logical and  comparative  method  is  generally  considered  as
+For  a  satisfactory  translation  of  these  texts,  the  etymological and  comparative  method  is  generally  considered  as
 the  best  or  as  the  only  possible  one,  on  account  of  the
 entire  absence  of  any  traditional  interpretation,  I  have
-tried,  however,  to  reduce  the  sphere  of  etymological  guess-
-work to  its  narrowest  limits,  with  the  help  of  different
+tried,  however,  to  reduce  the  sphere  of  etymological  guesswork to  its  narrowest  limits,  with  the  help  of  different
 Pahlavi,  Persian,  and  Sanskrit  translations,  which  are  as
-yet  unpublished,  and  have  been  neglected  by  former  trans-
-lators. I  found  such  translations  for  the  Sirozahs,  for
+yet  unpublished,  and  have  been  neglected  by  former  translators. I  found  such  translations  for  the  Sirozahs,  for
 Ya^ts  I,  VI,  VII,  XI,  XXIII,  XXIV,  and  for  the  Nyayi^^
 (besides  the  already  published  translations  of  Yaj-ts  XXI
 and  XXII).
@@ -300,8 +251,7 @@ others''^.
 
 In  this  volume,  as  in  the  preceding  one,  I  have  to  thank
 Mr.  West  for  his  kind  assistance  in  making  my  translation
-more  readable,  as  well  as  for  valuable  hints  in  the  inter-
-pretation of  several  passages.
+more  readable,  as  well  as  for  valuable  hints  in  the  interpretation of  several  passages.
 
 JAMES  DARMESTETER.
 Paris,
@@ -316,9 +266,6 @@ Paris,
 A  A
 
 
-YA5TS   AND   SIROZAHS
-
-
 r
 
 
@@ -328,11 +275,7 @@ r
 ^^''
 
 
-YA5TS   AND   SIROZAHS.
-
-
-The  word  ya^t,  in  Zend  ye^ti,  means  properly  'the  act  of  wor-
-shipping,' the  performance  of  the  yasna;  and  it  is  often  used
+The  word  ya^t,  in  Zend  ye^ti,  means  properly  'the  act  of  worshipping,' the  performance  of  the  yasna;  and  it  is  often  used
 in  Parsi  tradition  as  synonymous  with  yasna.  But  it  has  also
 been  particularly  applied  to  a  certain  number  of  writings  in  which
 the  several  Izeds  are  praised  and  magnified.  These  writings  are
@@ -349,13 +292,11 @@ Yai'ts,  and  have  no  liturgical  character ;  they  are  not  devoted  to  th
 praise  of  any  Ized.
 
 The  order  in  which  the  Yajts  have  been  arranged  by  the  Parsis
-follows  exactly  the  order  of  the  Sirozah,  which  is  the  proper  in-
-troduction to  the  Yajts.
+follows  exactly  the  order  of  the  Sirozah,  which  is  the  proper  introduction to  the  Yajts.
 
 s1r6zah.
 
-Sirozah  means  'thirty  days:'  it  is  the  name  of  a  prayer  com-
-posed of  thirty  invocations  addressed  to  the  several  Izeds  who
+Sirozah  means  'thirty  days:'  it  is  the  name  of  a  prayer  composed of  thirty  invocations  addressed  to  the  several  Izeds  who
 preside  over  the  thirty  days  of  the  month.
 
 There  are  two  Sirozahs,  but  the  only  difference  between  them  is
@@ -367,8 +308,7 @@ the  latter.
 
 ^  In  the  greater  Sirozah  the  names  of  the  gods  invoked  are
 introduced  with  the  word  yazamaide,  ' we  sacrifice  to;'  in  the
-lesser  Sirozah  there  is  no  introductory  word,  the  word  khshnao-
-thra,  '  propitiation,' being  understood,  as  can  be  seen  from  the
+lesser  Sirozah  there  is  no  introductory  word,  the  word  khshnaothra,  '  propitiation,' being  understood,  as  can  be  seen  from  the
 introductory  formulas  to  the  several  Ya^ts.
 
 
@@ -616,9 +556,6 @@ the  Amesha-Spe;7tas  ^
 B   2
 
 
-YA^TS    AND    SIROZAHS.
-
-
 2.    Bahman.
 
 To  Vohii-Mano^;  to  Peace  ^,  whose  breath  is
@@ -629,8 +566,7 @@ ear  ^,  made  by  Mazda,
 
 3.    Ardibehej-t.
 
-To  Asha-Vahi^ta,  the  fairest^;  to  the  much-
-desired  Airyaman,  made  by  Mazda  "^ ;  to  the  instru-
+To  Asha-Vahi^ta,  the  fairest^;  to  the  muchdesired  Airyaman,  made  by  Mazda  "^ ;  to  the  instru-
 ment made  by  Mazda  ^ ;  and  to  the  good  Saoka  ^
 with  eyes  of  love  ^°,  made  by  Mazda  and  holy.
 
@@ -644,15 +580,13 @@ to  strike :  '  Peace  that  smites.'
 
 *  Taradhatem  anyaij'  daman,  interpreted :  tarvinitartftm
 min  zaki  Sn  daman  pun  anashtih  akar  kartan  (Phi.  Comm.),
-'  more  destroying  than  other  creatures,  to  make  Non-peace  (Ana-
-khjti)  powerless.'
+'  more  destroying  than  other  creatures,  to  make  Non-peace  (Anakhjti)  powerless.'
 
 ^  Asnya  khratu,  the  inborn  intellect,  intuition,  contrasted  with
 gaosho-sriita  khratu,  the  knowledge  acquired  by  hearing  and
 learning.  There  is  between  the  two  nearly  the  same  relation
 as  between  the  paravidya  and  aparavidya  in  Brahmanism,  the
-former  reaching  Brahma  in  se  (parabrahma),  the  latter  jabda-
-brahma,  the  word-Brahma  (Brahma  as  taught  and  revealed).
+former  reaching  Brahma  in  se  (parabrahma),  the  latter  jabdabrahma,  the  word-Brahma  (Brahma  as  taught  and  revealed).
 The  Mobeds  of  later  times  interpreted  their  name  Maguj,  i^jJ^^,
 as  meaning,  '  men  without  ears,'  (_Py\.*,  '  pour  insinuer  que  leur
 Docteur  avait  puisd  toute  sa  science  dans  le  ciel  et  qu'il  ne  I'avait
@@ -691,8 +625,7 @@ holiness.
 7.  Murdad.
 
 To  Amereta/f  ^,  the  master ;  to  fatness  and  flocks  ;
-to  the  plenty  of  corn ;  and  to  the  powerful  Gaoke-
-rena  ^  made  by  Mazda.
+to  the  plenty  of  corn ;  and  to  the  powerful  Gaokerena  ^  made  by  Mazda.
 
 (At  the  gah^  Havan)  :  to  Mithra  ^  the  lord  of
 wide  pastures  and  to  Rama  //it'astra  '\
@@ -739,8 +672,7 @@ to  the  well-shapen  and  tall-formed  Strength,  to
 Verethraghna  ^  made  by  Ahura,  and  to  the  crushing
 Ascendant  ^.
 
-(At  the  gah  Ushahin)  :  to  the  holy,  devout,  fiend-
-smiting  Sraosha  '^,  who  makes  the  world  grow ;  to
+(At  the  gah  Ushahin)  :  to  the  holy,  devout,  fiendsmiting  Sraosha  '^,  who  makes  the  world  grow ;  to
 Rashnu  Razii-ta  ^  and  to  Arsidit  ^  who  makes  the
 world  grow,  who  makes  the  world  increase  ^°.
 
@@ -752,12 +684,10 @@ and  to  the  Amesha-Spe/ztas.
 ^  Literally  '  the  Son  of  the  Waters ; '  he  was  originally  the  Fire
 of  lightning,  as  born  in  the  clouds  (like  the  Vedic  Apam  napat);
 he  still  appears  in  that  character,  Yt.  VIII,  34  ;  he  is  for  that
-reason  '  the  lord  of  the  females '  because  the  waters  were  con-
-sidered as  females  (cf  Yasna  XXXVIII,  i  [2]).  But,  as  napa/
+reason  '  the  lord  of  the  females '  because  the  waters  were  considered as  females  (cf  Yasna  XXXVIII,  i  [2]).  But,  as  napa/
 means  also  '  navel'  (the  same  words  having  often  the  two  meanings
 of 'navel'  and  'offspring;'  cf.  nabhi  in  the  Vedas  and  the  Zend
-nafyo,  'offspring,'  from  nafa  'navel'),  Apam  Napa/  was  inter-
-preted as  '  the  spring  of  the  waters,  the  navel  of  the  waters,'  which
+nafyo,  'offspring,'  from  nafa  'navel'),  Apam  Napa/  was  interpreted as  '  the  spring  of  the  waters,  the  navel  of  the  waters,'  which
 was  supposed  to  be  at  the  source  of  the  Arvand  (the  Tigris;
 Neriosengh  ad  Yasna  I,  5  [15]  )  ;  cf.  Yt.  V,  72.
 
@@ -820,8 +750,7 @@ husbandman.   Ya^t  XIX  is  devoted  to  the  praise  of  the  HvdiXQx\o.
 ^  Or  '  the  awful  kingly  glory : '  Kavi  means  a  king,  but  it  is
 particularly  used  of  the  kings  belonging  to  the  second  and  most
 celebrated  of  the  two  mythical  dynasties  of  Iran.  The  Kavis
-succeeded  the  Paradhata  or  Peshdadians,  and  Darius  Codo-
-manes  was  supposed  to  be  the  last  of  them.  For  an  enumeration
+succeeded  the  Paradhata  or  Peshdadians,  and  Darius  Codomanes  was  supposed  to  be  the  last  of  them.  For  an  enumeration
 of  the  principal  Kavis,  see  Yt.  XIII,  132  seq.  The  HvsiVQwo  alluded
 to  in  this  clause  is  the  ^^'areno  of  the  priest;  'it  is  the  fire
 known  as  Adarapra  [Adar  Froba];  or  better  Adar  Farnbag  :
@@ -839,8 +768,7 @@ Husravah  settled  the  fire  Gushasp.
 «  SeeYt.V,  49.
 
 ''  The  glory  of  the  warriors,  the  fire  known  ,as  Adar  Gushasp
-orGushnasp;  with  its  help  king  Husravah  destroyed  the  idol-
-temples  near  Lake  A'e/^ast,  and  he  settled  it  on  Mount  Asnava«/
+orGushnasp;  with  its  help  king  Husravah  destroyed  the  idoltemples  near  Lake  A'e/^ast,  and  he  settled  it  on  Mount  Asnava«/
 (Bund.  XVII,  7).
 
 
@@ -932,8 +860,7 @@ invoked  by  his  own  name  ;  to  Rama  //z'astra  ^
 
 17.  Srosh.
 
-To  the  holy,  strong  Sraosha^  who  is  the  incar-
-nate Word,  a  mighty-speared  and  lordly  God.
+To  the  holy,  strong  Sraosha^  who  is  the  incarnate Word,  a  mighty-speared  and  lordly  God.
 
 18.  Rashn.
 
@@ -967,8 +894,7 @@ holy  ones\
 20.   Bahram.
 
 To  the  well-shapen,  tall-formed  Strength;  to
-Verethraghna^,  made  by  Ahura ;  to  the  crush-
-ing Ascendant.
+Verethraghna^,  made  by  Ahura ;  to  the  crushing Ascendant.
 
 21.   Ram.
 
@@ -1069,11 +995,9 @@ by  Mazda.
 
 To  the  holy,  righteousness-performing  Mathra
 Spe/2ta^;  to  the  Law  opposed  to  the  Daevas,  the
-Law  of  Zarathui-tra ;  to  the  long-traditional  teach-
-ing^; to  the  good  Law  of  the  worshippers  of  Mazda  ;
+Law  of  Zarathui-tra ;  to  the  long-traditional  teaching^; to  the  good  Law  of  the  worshippers  of  Mazda  ;
 to  the  Devotion  to  the  Mathra  Spe//ta ;  to  the
-understanding  that  keeps'*  the  Law  of  the  worship-
-pers of  Mazda ;  to  the  knowledge  of  the  Mathra
+understanding  that  keeps'*  the  Law  of  the  worshippers of  Mazda ;  to  the  knowledge  of  the  Mathra
 Spe;/ta ;  to  the  heavenly  Wisdom  made  by  Mazda  ;
 to  the  Wisdom  acquired  through  the  ear^  and
 made  by  Mazda.
@@ -1091,8 +1015,7 @@ thought  of  the  wise  ^;    to  all  the  holy  Gods  of  the
 
 ^  See  p.  II,  note  6.  ^  The  Holy  Word.
 
-'  Daregha  upayana:  ihe  Genius  of  Teaching  (jixam  admya-
-rupi7nm;  Yasna  I,  12  [40]).
+'  Daregha  upayana:  ihe  Genius  of  Teaching  (jixam  admyarupi7nm;  Yasna  I,  12  [40]).
 
 *  In  memory.  ^  See  above,  §  2.
 
@@ -1158,12 +1081,8 @@ Yasna  I,  15  [44]).     Upamana  is  the  same  as  the  Vedic  manyu.
 ^  In  contradistinction  to  general  invocations.
 
 
-14  YA5TS    AND    SIROZAHS.
-
-
 4.  Shahrevar.
-We  sacrifice  unto  Khshathra-Vairya,  the  Ame-
-sha-Spe/2ta ;  we  sacrifice  unto  the  metals ;  we  sacri-
+We  sacrifice  unto  Khshathra-Vairya,  the  Amesha-Spe/2ta ;  we  sacrifice  unto  the  metals ;  we  sacri-
 fice unto  Mercy  and  Charity.
 
 5.  Sapendarmad.
@@ -1206,8 +1125,7 @@ flocks  of  males ;  we  sacrifice  unto  the  thrift  of  the
 siROZAII    II.  15
 
 
-seasons  ;  we  sacrifice  unto  the  well-shapen  and  tall-
-formed  Strength  ;  we  sacrifice  unto  Verethraghna,
+seasons  ;  we  sacrifice  unto  the  well-shapen  and  tallformed  Strength  ;  we  sacrifice  unto  Verethraghna,
 made  by  Mazda  ;  we  sacrifice  unto  the  crushing
 Ascendant.
 
@@ -1230,15 +1148,13 @@ A
 
 We  sacrifice  unto  Atar,  the  son  of  Ahura  Mazda  ;
 we  sacrifice  unto  the  Glory,  made  by  Mazda ;  we
-sacrifice  unto  the  Weal,  made  by  Mazda  ;  we  sacri-
-fice unto  the  Glory  of  the  Aryas,  made  by  Mazda  ;
+sacrifice  unto  the  Weal,  made  by  Mazda  ;  we  sacrifice unto  the  Glory  of  the  Aryas,  made  by  Mazda  ;
 we  sacrifice  unto  the  awful  Glory  of  the  Kavis,  made
 by  Mazda.
 
 We  sacrifice  unto  Atar,  the  son  of  Ahura  Mazda ;
 we  sacrifice  unto  kingr  Husravah ;  we  sacrifice  unto
-the  lake  of  Husravah  ;  we  sacrifice  unto  Mount  As-
-nava/^/,  made  by  Mazda ;  we  sacrifice  unto  Lake
+the  lake  of  Husravah  ;  we  sacrifice  unto  Mount  Asnava/^/,  made  by  Mazda ;  we  sacrifice  unto  Lake
 /ifae/C-asta,  made  by  Mazda;  we  sacrifice  unto  the
 awful  Glory  of  the  Kavis,  made  by  Mazda.
 
@@ -1250,8 +1166,6 @@ made  by  Mazda.
 We  sacrifice  unto  Atar,  the  son  of  Ahura  Mazda  ;
 we   sacrifice  unto  Atar,  the  beneficent,  the  warrior.
 
-
-1 6  YA5'TS    AND    SIROZAHS.
 
 We  sacrifice  unto  that  God,  who  is  a  full  source  of
 glory.  We  sacrifice  unto  that  God,  who  is  a  full
@@ -1265,8 +1179,7 @@ kings,
 lo.  Aban.
 
 We  sacrifice  unto  the  good  Waters,  made  by
-Mazda  and  holy ;  we  sacrifice  unto  the  holy  water-
-spring  Ardvi  Anahita ;  we  sacrifice  unto  all  waters,
+Mazda  and  holy ;  we  sacrifice  unto  the  holy  waterspring  Ardvi  Anahita ;  we  sacrifice  unto  all  waters,
 made  by  Mazda  and  holy ;  we  sacrifice  unto  all
 plants,  made  by  Mazda  and  holy.
 
@@ -1292,8 +1205,7 @@ waters ;  we  sacrifice  unto  all  the  Stars  that  have  in
 them  the  seed  of  the  earth ;  we  sacrifice  unto  all  the
 Stars  that  have  in  them  the  seeds  of  the  plants ;  we
 sacrifice  unto  the  Star  Vana/^^*,  made  by  Mazda ;
-we  sacrifice  unto  those  stars  that  are  seven  in  num-
-ber, the  Hapt6iri//gas,  made  by  Mazda,  glorious  and
+we  sacrifice  unto  those  stars  that  are  seven  in  number, the  Hapt6iri//gas,  made  by  Mazda,  glorious  and
 healing ;  in  order  to  oppose  the  Yatus  and  Pairikas.
 
 
@@ -1314,15 +1226,13 @@ Spe;^tas,  the  all-ruling,  the  all-beneficent.
 
 16.  Mihir.
 
-We  sacrifice  unto  Mithra,  the  lord  of  wide  pas-
-tures, who  has  a  thousand  ears  and  ten  thousand
+We  sacrifice  unto  Mithra,  the  lord  of  wide  pastures, who  has  a  thousand  ears  and  ten  thousand
 eyes,  a  God  invoked  by  his  own  name ;  we  sacrifice
 unto  Rama  i^z^astra.
 
 17.  Srosh.
 
-We  sacrifice  unto  the  holy,  tall-formed,  fiend-
-smiting,  world-increasing  Sraosha,  holy  and  master
+We  sacrifice  unto  the  holy,  tall-formed,  fiendsmiting,  world-increasing  Sraosha,  holy  and  master
 of  holiness.
 
 18.  Rashn.
@@ -1344,8 +1254,6 @@ Ahura ;  we  sacrifice  unto  the  crushing  Ascendant.
 [23]  C
 
 
-1 8  YA^TS    AND    siROZAHS.
-
 21.  Ram.
 
 We  sacrifice  unto  Rama  i/z^astra;  we  sacrifice
@@ -1361,8 +1269,7 @@ sovereio-n  Time  of  the  lono-  Period.
 
 We  sacrifice  unto  the  beneficent,  bounteous  Wind  ;
 we  sacrifice  unto  the  wind  that  blows  below ;  we
-sacrifice  unto  the  wind  that  blows  above ;  we  sacri-
-fice unto  the  wind  that  blows  before ;  we  sacrifice
+sacrifice  unto  the  wind  that  blows  above ;  we  sacrifice unto  the  wind  that  blows  before ;  we  sacrifice
 unto  the  wind  that  blows  behind.  We  sacrifice  unto
 the  manly  Courage.
 
@@ -1404,8 +1311,7 @@ Mazda,  a  God  of  holy  happiness.
 
 27.  Asman.
 
-We  sacrifice  unto  the  shining  H  eavens  ;  we  sacri-
-fice unto  the  bright,  all-happy,  blissful  abode  of  the
+We  sacrifice  unto  the  shining  H  eavens  ;  we  sacrifice unto  the  bright,  all-happy,  blissful  abode  of  the
 
 holy  ones.
 
@@ -1426,8 +1332,7 @@ that  cannot  be  forcibly  seized,  made  by  Mazda.
 We  sacrifice  unto  the  Mathra  Spe;^ta,  of  high
 glory;  we  sacrifice  unto  the  Law  opposed  to  the
 Daevas  ;  we  sacrifice  unto  the  Law  of  Zarathurtra  ;  we
-sacrifice  unto  the  long-traditional  teaching  ;  we  sacri-
-fice unto  the  good  Law  of  the  worshippers  of  Mazda  ;
+sacrifice  unto  the  long-traditional  teaching  ;  we  sacrifice unto  the  good  Law  of  the  worshippers  of  Mazda  ;
 we  sacrifice  unto  the  Devotion  to  the  Mathra  Spe/^ta  ;
 we  sacrifice  unto  the  understanding  that  keeps  the
 Law  of  the  worshippers  of  Mazda ;  we  sacrifice  unto
@@ -1445,8 +1350,7 @@ ear  and  made  by  Mazda.
 
 30.  Aneran.
 
-We  sacrifice  unto  the  eternal  and  sovereign  lumi-
-nous space ;  we  sacrifice  unto  the  bright  Garo-
+We  sacrifice  unto  the  eternal  and  sovereign  luminous space ;  we  sacrifice  unto  the  bright  Garo-
 nmana ;  we  sacrifice  unto  the  sovereign  place  of
 eternal  Weal ;  we  sacrifice  unto  the  i'TinvaZ-bridge,
 made  by  Mazda  ;  we  sacrifice  unto  Apam  Napa/,  the
@@ -1455,15 +1359,13 @@ many  wives ;  and  we  sacrifice  unto  the  water,  made
 by  Mazda  and  holy ;  we  sacrifice  unto  the  golden
 and  tall  Haoma ;  we  sacrifice  unto  the  enlivening
 Haoma,  who  makes  the  world  grow ;  we  sacrifice
-unto  Haoma,  who  keeps  death  far  away ;  we  sacri-
-fice unto  the  pious  and  good  Blessing  ;  we  sacrifice
+unto  Haoma,  who  keeps  death  far  away ;  we  sacrifice unto  the  pious  and  good  Blessing  ;  we  sacrifice
 unto  the  awful,  powerful,  cursing  thought  of  the  wise,
 a  God  ;  we  sacrifice  unto  all  the  holy  Gods  of  the
 heavenly  world  ;  we  sacrifice  unto  all  the  holy  Gods
 of  the  material  world.
 
-I  praise,  I  invoke,  I  meditate  upon,  and  we  sacri-
-fice unto  the  good,  strong,  beneficent  Fravashis  of
+I  praise,  I  invoke,  I  meditate  upon,  and  we  sacrifice unto  the  good,  strong,  beneficent  Fravashis  of
 the  holy  ones  ^
 
 '  Cf.  Yasna  XXVI,  i.
@@ -1475,8 +1377,7 @@ ORMAZD    YA5T.  21
 L    ORMAZD    YA^-T.
 
 The  Ormazd  Yajt,  properly  so  called,  ends  with  §  23.  The  rest
-of  the  Ya^ct,  from  §  24  to  the  end,  is  wanting  in  several  manu-
-scripts, and  is  supposed  by  the  Parsis  to  be  a  fragment  of  the
+of  the  Ya^ct,  from  §  24  to  the  end,  is  wanting  in  several  manuscripts, and  is  supposed  by  the  Parsis  to  be  a  fragment  of  the
 Bahman  Ya^t.
 
 The  Ormazd  Yaxt  is  exclusively  devoted  to  an  enumeration  of
@@ -1527,8 +1428,7 @@ edited  in  our  Etudes  Iraniennes,  II,  255).
 2  2  YAS'TS    AND    SIROZAHS.
 
 
-The  second  part  of  the  Ya.st,  the  so-called  Bahman  Ya^-t  frag-
-ment, is  In  a  state  of  the  utmost  corruption.  It  is  difficult  to  trace
+The  second  part  of  the  Ya.st,  the  so-called  Bahman  Ya^-t  fragment, is  In  a  state  of  the  utmost  corruption.  It  is  difficult  to  trace
 any  connection  in  the  ideas,  yet  §§  28,  29,  30  seem  to  point  rather
 clearly  to  the  final  struggle  between  Ormazd  and  Ahriman  and  to
 the  annihilation  of  the  Daevas,  and,  thereby,  some  connection  is
@@ -1559,8 +1459,7 @@ I  recite  the  'Praise  of  Holiness'^:'
 'Ashem  Vohu  :  Holiness  is  the  best  of  all  good.  Well  is  it  for
 it,  well  is  it  for  that  holiness  which  is  perfection  of  holiness  !'
 
-1  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura";
+1  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura";
 
 ^  Translated  by  West  (Pahlavi  Texts,  I).
 
@@ -1586,11 +1485,9 @@ recited  prayers.
 ORMAZD    VAST.
 
 
-For  sacrifice  S  prayer,  propitiation,  and  glorification  unto  [Ha-
-vani]",  the  holy  and  master  of  holiness  ;
+For  sacrifice  S  prayer,  propitiation,  and  glorification  unto  [Havani]",  the  holy  and  master  of  holiness  ;
 
-For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Savan-
-ghi  and  Visya]  ^,  the  holy  and  masters  of  holiness;
+For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Savanghi  and  Visya]  ^,  the  holy  and  masters  of  holiness;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  the
 Masters  of  the  days,  of  the  periods  of  the  day,  of  the  months,  cf
@@ -1640,17 +1537,12 @@ manasas  asti  prapakatara  (Sansk.  tr.);  »j^l^  A^  (Pers.  tr.).
 *  Pun  akhu  it  bara  mflshitartflm  :  pim(i)  umandiim  i  aparun
 
 
-24  YA5TS   AND    SIROZAHS.
-
-
-3.  Ahura  Mazda  answered  :  '  Our  Name,  O  Spi-
-tama  Zaratluutra !  who  are  the  Amesha-Spe/^tas,
+3.  Ahura  Mazda  answered  :  '  Our  Name,  O  Spitama  Zaratluutra !  who  are  the  Amesha-Spe/^tas,
 that  is  the  strongest  part  of  the  Holy  Word;  that
 is  the  most  victorious  ;  that  is  the  most  glorious  ;
 that  is  the  most  effective  ;
 
-4.  'That  is  the  most  hend-smiting;  that  is  the  best-
-healing  ;  that  destroyeth  best  the  malice  of  Daevas
+4.  'That  is  the  most  hend-smiting;  that  is  the  besthealing  ;  that  destroyeth  best  the  malice  of  Daevas
 and  Men ;  that  maketh  the  material  world  best  come
 to  the  fulfilment  of  its  wishes ;  that  freeth  the  material
 world  best  from  the  anxieties  of  the  heart.'
@@ -1700,8 +1592,7 @@ Mazda,  the  offspring  of  the  holy  principle.
 
 *  My  sixth  name  is  Understanding'^;
 
-'My  seventh  name  is  the  One  with  under-
-standing.
+'My  seventh  name  is  the  One  with  understanding.
 
 'My  eighth  name  is  Knowledge;
 
@@ -1753,9 +1644,6 @@ tr.);  praka/am  gawanakaras  kila  puwyapapayos  sahkhyam  aham
 karomi  (Sansk.  tr.).     Cf.  Yasna  XXXII,  6,  b.
 
 
-26  YA5'TS    AND    SIROZAHS
-
-
 night,  with  offerings  of  libations  well  accepted  ^
 I  will  come  unto  thee  for  help  and  joy,  I,  Ahura
 Mazda ;  the  good,  holy  Sraosha  will  come  unto  thee
@@ -1764,8 +1652,7 @@ Fravashis  of  the  holy  ones  will  come  unto  thee  for
 help  and  joy.
 
 10.  'If  thou  wantest,  O  Zarathu-ftra,  to  destroy  the
-malice  of  Daevas  and  Men,  of  the  Yatus  and  Pai-
-rikas,  of  the  oppressors,  of  the  blind  and  of  the
+malice  of  Daevas  and  Men,  of  the  Yatus  and  Pairikas,  of  the  oppressors,  of  the  blind  and  of  the
 deaf  ^,  of  the  two-legged  ruffians",  of  the  two-legged
 Ashemaoghas  ^,  of  the  four-legged  wolves  ;
 
@@ -1781,14 +1668,12 @@ night.
 ^  The  Kavis  and  the  Karapans,  the  blind  and  the  deaf,  are
 those  '  who  cannot  see  nor  hear  anything  of  God.'  Those  terms
 were  current  in  the  theological  language  of  the  Sassanian  times  to
-designate  the  unbelievers.  An  edict,  promulgated  by  king  Yazd-
-gard  III  (fifth  century  a.  c.)  to  make  Zoroastrism  the  state  religion
+designate  the  unbelievers.  An  edict,  promulgated  by  king  Yazdgard  III  (fifth  century  a.  c.)  to  make  Zoroastrism  the  state  religion
 in  Armenia,  had  the  following  words :  '  You  must  know  that  any
 man  who  does  not  follow  the  religion  of  Mazda  is  deaf,  blind,
 and  deceived  by  Ahriman's  devs '  (Elisaeus,  The  War  of  Vartan).
 
-^  Or  murderers  (m  airy  a);  according  to  the  Parsis  highway-
-men (^^j  ii\j).
+^  Or  murderers  (m  airy  a);  according  to  the  Parsis  highwaymen (^^j  ii\j).
 
 ^  The  heretics.   Casuists  distinguish  three  kinds  of  Ashemaogha:
 
@@ -1877,8 +1762,7 @@ most  liberal  Kin(T.
 name  is  He  who  is  not  deceived.
 
 'My  name  is  the  good  Keeper;  my  name  is  He
-who  destroys  malice  ;  my  name  is  He  who  con-
-quers at  once;  my  name  is  He  who  conquers
+who  destroys  malice  ;  my  name  is  He  who  conquers at  once;  my  name  is  He  who  conquers
 everything;  my  name  is  He  who  has  shaped
 everything  ^.
 
@@ -1890,8 +1774,7 @@ wish;  my  name  is  He  who  can  best  benefit  at
 his  wish.
 
 '  My  name  is  the  Beneficent  One;  my  name  is
-the  Energetic  One;  my  name  is  the  most  Bene-
-ficent.
+the  Energetic  One;  my  name  is  the  most  Beneficent.
 
 '  My  name  is  Holiness  ;  my  name  is  the  Great
 One;  my  name  is  the  good  Sovereign;  my  name
@@ -1960,8 +1843,7 @@ p.  191,  note  4).
 °  Interpreted  as  the  demon  of  lust  and  envy.  Cf.  Vendidad,
 Introd.  IV,  23.
 
-®  Kayadha,  translated  kastar  (Phi.),  'the  impairer;'  kadar-
-thaka  (Sansk.),  'he  who  holds  for  nothing,  who  makes  slight  of.'
+®  Kayadha,  translated  kastar  (Phi.),  'the  impairer;'  kadarthaka  (Sansk.),  'he  who  holds  for  nothing,  who  makes  slight  of.'
 
 ■^  Doubtful.    The  Phi.  tr.  has  '  who  impairs  living  creatures,'  etc.
 
@@ -2050,8 +1932,7 @@ harm  unto  that  man  who  would  offer  me  a  sacrifice,
 be  it  ever  so  great  or  ever  so  small,  if  it  has  reached
 unto  us,  the  Amesha-Spe;/tas.
 
-25.  '  Here  is  Vohu-Mano,  my  creature,  O  Zara-
-thui-tra!  here  is  Asha-Vahij>ta,  my  creature,  O  Zara-
+25.  '  Here  is  Vohu-Mano,  my  creature,  O  Zarathui-tra!  here  is  Asha-Vahij>ta,  my  creature,  O  Zara-
 thui-tra!  here  is  Khjathra-Vairya,  my  creature,  O
 Zarathu^tra!  here  is  Spe;na-Armaiti,  my  creature,
 O  Zarathu^tra !  here  are  Haurvata/  and  Amereta/,
@@ -2079,19 +1960,12 @@ Paradise.    Cf.  Yt.  XXII,  18.
 «  From  Yasna  XXVIII,  12.  '  Cf.  Yasna  XXX,  4.
 
 
-32
-
-
-YA5TS    AND    SIROZAHS.
-
-
 '  A  thousand  remedies,  ten  thousand  remedies  ^ !
 '  A  thousand  remedies,  ten  thousand  remedies !
 *  A  thousand  remedies,  ten  thousand  remedies !
 
 27.  '[We  worship]  the  well-shapen,  tall -formed
-Strength  ;  Verethraghna,  made  by  Ahura  ;  the  crush-
-ing Ascendant^,  and  Spe/2ta-Armaiti.
+Strength  ;  Verethraghna,  made  by  Ahura  ;  the  crushing Ascendant^,  and  Spe/2ta-Armaiti.
 
 28.  'And  with  the  help  of  Spe/^ta-Armaiti,  break
 ye  ^asunder  their*  malice,  turn  their  minds  astray,
@@ -2140,8 +2014,7 @@ said  to  have  obliged  the  Daevas  to  hide  themselves  in  the  earth.
 ORMAZD  VAST.  ;^;},
 
 
-'  We  worship  the  mountain  that  gives  under-
-standing, that  preserves  understanding' ;  [we  worship
+'  We  worship  the  mountain  that  gives  understanding, that  preserves  understanding' ;  [we  worship
 it]  by  day  and  by  night,  with  offerings  of  Hbations
 well-accepted  -.
 
@@ -2172,8 +2045,7 @@ additional  words :
 'A  thousand   remedies,   ten   thousand    remedies !    (three  times ;
 cf.  above,  §  26.)
 
-We  worship  the  Fravashi  of  the  man  whose  name  is  Asmo-
-hvsiX\v2inf ;  then  I  will  worship  the  Fravashis  of  the  other
+We  worship  the  Fravashi  of  the  man  whose  name  is  AsmohvsiX\v2inf ;  then  I  will  worship  the  Fravashis  of  the  other
 holy  ones  who  were  strong  of  faith'  (Yt.  XXII,  37).
 Asm6-/n'anva;//was  one  of  the  first  followers  of  Zarathujtra,  and  with
 his  name  begins  the  enumeration  of  the  Fravashis  (Yt.  XIII,  96).
@@ -2191,8 +2063,6 @@ twice.
 [23]  D
 
 
-34  YA5TS    AND    SIROZAHS.
-
 bright  and  glorious;  to  increase  the  Amesha-Spe/ztas;
 to  increase  the  star  Tii'trya^  the  bright  and  glorious  ;
 to  increase  the  faithful  men ;  to  increase  all  the  holy
@@ -2205,8 +2075,7 @@ good  .  .  .  .^
 give  him  health  of  body,  give  him  sturdiness  of  body,
 give  him  victorious  strength  of  body,  give  him  full
 welfare  of  wealth,  give  him  a  virtuous^  offspring,
-give  him  long,  long  life,  give  him  the  bright,  all-
-happy,  blissful  abode  of  the  holy  Ones  ^
+give  him  long,  long  life,  give  him  the  bright,  allhappy,  blissful  abode  of  the  holy  Ones  ^
 
 '  May  it  come  according  to  my  blessing  ^ !
 
@@ -2222,8 +2091,7 @@ Ascendant  ^.
 '  We  worship  Rama  //z^astra,  and  Vayu  who  works
 highly  and  is  more  powerful  to  destroy  than  all
 other  creatures.  That  part  of  thee  do  we  worship,
-O  Vayu,  that  belongs  to  Spe;-Jta  Mainyu.  We  wor-
-ship the  sovereign  Sky,  the  boundless  Time,  and
+O  Vayu,  that  belongs  to  Spe;-Jta  Mainyu.  We  worship the  sovereign  Sky,  the  boundless  Time,  and
 the  sovereign  Time  of  the  long  Period  ^
 
 'Ash  em  Vohd  :  Holiness  is  the  best  of  all
@@ -2263,8 +2131,7 @@ o,  jMay  Ahura  INIazda  be  rejoiced  M  .  .  .  .
 
 Ashem  Vohu:  Holiness  is  the  best  of  all  good  ^  .  .  .  .
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ^  .  .  .  .
@@ -2280,8 +2147,7 @@ all  other  creatures;  to  the  heavenly  Wisdom,  made
 by  Mazda,  and  to  the  Wisdom  acquired  through  the
 ear,  made  by  Mazda  ;
 
-2'\  To  Asha-Vahi^ta,  the  fairest;  to  the  much-
-desired  Airyaman ;  to  the  instrument  made  by
+2'\  To  Asha-Vahi^ta,  the  fairest;  to  the  muchdesired  Airyaman ;  to  the  instrument  made  by
 Mazda  ;  and  to  the  good  Saoka,  with  eyes  of  love,
 made  by  Mazda  and  holy;
 
@@ -2291,8 +2157,6 @@ made  by  Mazda  and  holy;
 ^  Sirozah  I,  3-4.
 D  2
 
-
-36  YA5TS    AND    SIROZAHS.
 
 To  Khshathra-Vairya  ;  to  the  metals  ;  to  Mercy
 and  Charity.
@@ -2321,12 +2185,10 @@ lord,  and  to  water,  made  by  Mazda.
 5^  (At  the  Gah  Aiwisruthrem) :  To  the  Fravashis
 of  the  faithful  and  to  the  females  that  bring  forth
 flocks  of  males  ;  to  the  prosperity  of  the  seasons  ;  to
-the  well-shapen  and  tall-formed  Strength  ;  to  Vere-
-thraghna,  made  by  Ahura,  and  to  the  crushing
+the  well-shapen  and  tall-formed  Strength  ;  to  Verethraghna,  made  by  Ahura,  and  to  the  crushing
 Ascendant.
 
-(At  the  Gah  Ui-ahin)  :  To  the  holy,  devout,  fiend-
-smiting  Sraosha,  who  makes  the  world  grow ;  to
+(At  the  Gah  Ui-ahin)  :  To  the  holy,  devout,  fiendsmiting  Sraosha,  who  makes  the  world  grow ;  to
 Rashnu-Razii'ta  and  to  Ari-ta/,  who  makes  the  world
 grow,  who  makes  the  world  increase  ^ ;
 
@@ -2359,13 +2221,11 @@ Wisdom,  made  by  Mazda ;  we  sacrifice  unto  the
 wisdom  acquired  through  the  ear,  made  by  Mazda.
 
 7^.  We  sacrifice  unto  Asha-Vahi^ta,  the  fairest,
-the  Amesha-Spe;/ta ;  we  sacrifice  unto  the  much-
-desired  Airyaman  ;  we  sacrifice  unto  the  instrument
+the  Amesha-Spe;/ta ;  we  sacrifice  unto  the  muchdesired  Airyaman  ;  we  sacrifice  unto  the  instrument
 made  by  Mazda ;  we  sacrifice  unto  the  good  Saoka,
 with  eyes  of  love,  made  by  Mazda  and  holy.
 
-We  sacrifice  unto  Khshathra-Vairya ;  we  sacri-
-fice unto  the  metals  ;  we  sacrifice  unto  Mercy  and
+We  sacrifice  unto  Khshathra-Vairya ;  we  sacrifice unto  the  metals  ;  we  sacrifice  unto  Mercy  and
 Charity.
 
 8^  We  sacrifice  unto  the  good  Spe^^ta-Armaiti ;
@@ -2425,8 +2285,7 @@ III.
 II.  Let  the  Yatus  be  crushed,  O  Zarathujtra  - !
 both  Daevas  and  men  ^
 
-Who  is  he  in  whose  house,  O  Spltama  Zara-
-thu^tra !  every  Dru^^  is  destroyed,  every  Dru^
+Who  is  he  in  whose  house,  O  Spltama  Zarathu^tra !  every  Dru^^  is  destroyed,  every  Dru^
 perishes,  when  he  pronounces  these  words  * :
 
 12' .?
@@ -2458,8 +2317,7 @@ faults  \  O  Zarathu<rtra !  when  he  throws  down  ^  the
 destroyer  of  Vohu-Mano  and  his  words  ^  with  a
 hundred  times  hundredfold,  with  a  many  times
 manifold  preaching  and  smiting,  and  he  takes  away
-the  Law  of  Mazda,  that  was  carried  away  as  a  pri-
-soner ^  from  the  hands  of  the  [ungodly],  who  are
+the  Law  of  Mazda,  that  was  carried  away  as  a  prisoner ^  from  the  hands  of  the  [ungodly],  who  are
 destroyed  by  his  strength,
 
 Ashem  Vohti:  Holiness  is  the  best  of  all
@@ -2484,8 +2342,7 @@ friendly  '^  .  .  .  .
 mruye  (Yasna  XII,  4  [XIII,  16]):  atareman  seems  to  be  a  sin
 by  commission,  vitareman  a  sin  by  omission.
 
-*  Doubtful  (fraspavare^:  fraspa  is  generally  translated  rami-
-tuntan).
+*  Doubtful  (fraspavare^:  fraspa  is  generally  translated  ramituntan).
 
 ^  Doubtful,
 
@@ -2495,8 +2352,6 @@ uzvazha/  (1. 1.).
 
 '  The  rest  as  above,  §  i.
 
-
-40  YA5TS    AND    SIROZAHS.
 
 Of  Asha-Vahi^ta,  the  fairest ;  of  the  much-desired
 Airyaman  ^  .  .  .  .
@@ -2520,8 +2375,7 @@ Napa/^ ....
 (At  the  Gah  Aiwisruthrem)  :  Of  the  Fravashis  of
 the  faithful  ^  .  .  .  .
 
-(At  the  Gah  U^ahin)  :  Of  the  holy,  devout,  fiend-
-smiting  Sraosha,  who  makes  the  world  grow ;  of
+(At  the  Gah  U^ahin)  :  Of  the  holy,  devout,  fiendsmiting  Sraosha,  who  makes  the  world  grow ;  of
 Rashnu-Razi-?ta  and  of  Ar^ta/,  who  makes  the  world
 erow,  who  makes  the  world  increase.
 
@@ -2546,8 +2400,7 @@ ARDIBEUWT    YAST.  41
 
 III.     ARDIBEHI6^Ti  YA^-T.
 
-This  Y3.st  is  for  a  great  part  devoted  to  the  praise  of  the  Air-
-yaman  prayer,  which  is  described  as  driving  away  all  the  diseases
+This  Y3.st  is  for  a  great  part  devoted  to  the  praise  of  the  Airyaman  prayer,  which  is  described  as  driving  away  all  the  diseases
 and  plagues  that  have  been  brought  upon  the  world  by  Angra
 Mainyu;  and  when  the  writer  passes  from  the  glorification  of
 Airyaman  to  that  of  Asha-Vahijta,  which  is  put  into  the  mouth
@@ -2575,8 +2428,7 @@ o.  May  Ahura  Mazda  be  rejoiced!  ....
 
 Ashem  Vohia  :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura  ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura  ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ''....
@@ -2599,13 +2451,11 @@ asha.
 
 42  YASTS    AND    SIROZAHS.
 
-Unto  Asha-Vahi^ta,  the  fairest;  unto  the  much-
-desired  Airyaman,  made  by  Mazda,  and  unto  the
+Unto  Asha-Vahi^ta,  the  fairest;  unto  the  muchdesired  Airyaman,  made  by  Mazda,  and  unto  the
 good  Saoka,  with  eyes  of  love,  made  by  Mazda  and
 holyi;
 
-Be   propitiation,  witli  sacrifice,  prayer,  propitiation,  and  glori-
-fication.
+Be   propitiation,  witli  sacrifice,  prayer,  propitiation,  and  glorification.
 
 Yath^  ahu  vairyo:  The  will  of  the  Lord  Is  the  law  of  holi-
 
@@ -2660,8 +2510,7 @@ abide  in  the  shining  luminous  space,  in  the  beautiful
 abodes, — for  the  sacrifice  and  invocation  of  you,  the
 Amesha-Spe;^tas.
 
-3\  '.  .  .  .  I  proclaim  Asha-Vahi^ta :  if  I  pro-
-claim Asha-Vahii'ta,  then  easy  Is  the  way  to  the
+3\  '.  .  .  .  I  proclaim  Asha-Vahi^ta :  if  I  proclaim Asha-Vahii'ta,  then  easy  Is  the  way  to  the
 abode  of  the  other  Amesha-Spe;^tas  ^,  which  Ahura
 Mazda  keeps  with  Good  Thoughts,  which  Ahura
 Mazda  keeps  with  Good  Words,  which  Ahura  Mazda
@@ -2702,8 +2551,6 @@ XXII,  15),
 ■^^  A  ,
 
 
-44  YA5TS    AND    SIROZAHS.
-
 fairest  of  spells,  the  very  fairest  of  all  spells ;  the
 fearful  one  amongst  spells,  the  most  fearful  of  all
 spells ;  the  firm  one  amongst  spells,  the  firmest  of
@@ -2721,8 +2568,7 @@ faithful  :  for  this  one  is  the  best-healing  of  all
 remedies  ^
 
 7.  '  Sickness  fled  away  [before  it].  Death  fled
-away ;  the  Daeva  fled  away,  the  Daeva's  counter-
-work -  fled  away ;  the  unholy  Ashemaogha ''  fled
+away ;  the  Daeva  fled  away,  the  Daeva's  counterwork -  fled  away ;  the  unholy  Ashemaogha ''  fled
 away,  the  oppressor  of  men  fled  away.
 
 8.  '  The  brood  of  the  Snake  fled  away ;  the  brood
@@ -2745,8 +2591,7 @@ Ill,  13  seq. ;  Vend.  I;  see  Ormazd  et  Ahriman,  §§  195  seq.
 
 ^  See  Yt.  I,  10  and  note  4.
 
-*  The  Ahrimanian  creatures  belonging  to  mankind,  the  Mair-
-yas  and  Ashemaoghas  (Yt.  I,  10).
+*  The  Ahrimanian  creatures  belonging  to  mankind,  the  Mairyas  and  Ashemaoghas  (Yt.  I,  10).
 
 *  The  courtezan;  cf.  Vend.  XXI,  17  (35),  and  Introd.  IV,  25.
 
@@ -2759,8 +2604,7 @@ blows  from  the  North  ^  fled  away ;  the  wind  that
 blows  from  the  North  vanished  away.
 
 10.  '  He  it  is  who  smites  me  that  brood  of  the
-Snake,  and  who  might  smite  those  Daevas  by  thou-
-sands of  thousands,  by  ten  thousands  of  ten  thou-
+Snake,  and  who  might  smite  those  Daevas  by  thousands of  thousands,  by  ten  thousands  of  ten  thou-
 sands ;  he  smites  sickness,  he  smites  death,  he  smites
 the  Daevas,  he  smites  the  Daeva's  counter-work,
 he  smites  the  unholy  Ashemaogha,  he  smites  the
@@ -2790,8 +2634,7 @@ the  sickliest  of  all  sicknesses,  who  will  afflict  the
 sickliest  of  all  sicknesses ;
 
 
-^  The  Zend  is  Kahvaredhaini,  a  synonym  of  which,  Kah-
-varedha,  Yasna  LXI,  2  [LX,  7],  is  translated  impairer  of
+^  The  Zend  is  Kahvaredhaini,  a  synonym  of  which,  Kahvaredha,  Yasna  LXI,  2  [LX,  7],  is  translated  impairer  of
 Glory,  which  means  very  likely:  he  who  makes  one  'dwindle,
 peak,  and  pine'  (cf.  Vend.  XVIII,  62-64).
 
@@ -2808,15 +2651,13 @@ afflict  the  deadliest  of  all  deaths  ;
 will  afflict  the  most  fiendish  of  all  fiends ;
 
 *  "  He  will  smite  the  most  counter-working  of  all
-counter-works,  he  will  afflict  the  most  counter-
-working of  all  counter-works  ;
+counter-works,  he  will  afflict  the  most  counterworking of  all  counter-works  ;
 
 '  "  He  will  smite  the  unholy  Ashemaogha,  he  will
 afflict  the  unholy  Ashemaogha ;
 
 ' "  He  will  smite  the  most  oppressive  of  the
-oppressors  of  men,  he  will  afflict  the  most  oppres-
-sive of  the  oppressors  of  men.
+oppressors  of  men,  he  will  afflict  the  most  oppressive of  the  oppressors  of  men.
 
 15.  '"He  will  smite  the  snakiest  of  the  Snake's
 brood,  he  will  afflict  the  snakiest  of  the  Snake's
@@ -2908,11 +2749,8 @@ right  formulas.'
 ^  As  above,  Yt.  I,  22.
 
 
-48  YA^TS    AND    SIROZAHS.
-
 '  I  bless  the  sacrifice  and  prayer  and  the  strength
-and  vigour  of  Asha-Vahi-fta,  the  fairest;  of  the  much-
-desired  Airyaman,  made  by  Mazda  ;  and  of  the  good
+and  vigour  of  Asha-Vahi-fta,  the  fairest;  of  the  muchdesired  Airyaman,  made  by  Mazda  ;  and  of  the  good
 Saoka,  with  eyes  of  love,  made  by  Mazda  and
 holy  \
 
@@ -2944,8 +2782,7 @@ o.  May  Ahura  Mazda  be  rejoiced !  .  .  .  .
 
 Ashem  Vohu  :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thui'tra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathui'tra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ^  .  .  .  .
@@ -2968,8 +2805,7 @@ KPIORDAD    VAST.  49
 of  the  seasons  and  unto  the  years,  the  masters  of
 hoHness  \
 
-Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glori-
-fication.
+Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glorification.
 
 Yatlia  ahu  vairyo:  The  will  of  the  Lord  is  the  law  of
 holiness  ....
@@ -3018,8 +2854,6 @@ harm  ;'  Bfl^i  is  '  he  who  preys  upon.'
 A  ,
 
 
-50  YA5TS    AND    SIROZAHS.
-
 [of  men]',  then  Rashnu  Razii-ta^,  then  every  heavenly
 Yazata  of  male  nature  in  company  with  the  Amesha-
 Spe;/tas  will  free  the  faithful  man  ^
@@ -3034,8 +2868,7 @@ Pairika,  from  the  straying  way.
 5.  'How  does  the  way  of  the  faithful  turn  and
 part  from  the  way  of  the  wicked  ^  ? '
 
-Ahura  Mazda  answered  :  'It  is  when  a  man  pro-
-nouncing my  spell,  either  reading '^  or  reciting  it  by
+Ahura  Mazda  answered  :  'It  is  when  a  man  pronouncing my  spell,  either  reading '^  or  reciting  it  by
 heart,  draws  the  furrows  ^  and  hides  ^  there  himself,
 [saying]  :
 
@@ -3058,8 +2891,7 @@ thee  down  below,  O  Dru^^!"
 
 ^  Starai;  cf.  Etudes  Iraniennes,  II,  135.
 ^  How  is  the  wicked  known  from  the  faithful  one  ?
-'  Marao:  Phi.  o^morit,  Sansk.  adhyeti;   safarilnit,  posha-
-yati  (pustakayati ?  Yasna  XIX,  6  [9]).
+'  Marao:  Phi.  o^morit,  Sansk.  adhyeti;   safarilnit,  poshayati  (pustakayati ?  Yasna  XIX,  6  [9]).
 
 *  The  furrows  for  the  Bareshnum  purification  (Vend.  IX).
 ®  Doubtful:  gaozaiti;  read  yaozdaiti  (?  he  cleanses).
@@ -3122,10 +2954,7 @@ E    2
 A
 
 
-52  YA5TS    AND    SIROZAHS.
-
-holy  spells,  the  speech,  the  deeds,  the  libations,  and  the  rightly-
-spoken  words.
+holy  spells,  the  speech,  the  deeds,  the  libations,  and  the  rightlyspoken  words.
 
 12.  'Yatha  ahu  vairyo:  The  will  of  the  Lord  is  the  law  of
 holiness  ....
@@ -3152,23 +2981,19 @@ the  Hukairya,  in  the  star  region.  Her  descent  from  the  heavens
 is  described  in  §§  85  seq. ;  it  reminds  one  of  the  Indian  legend  of
 the  celestial  Ganga.
 
-This  Yaxt  contains  much  valuable  information  about  the  his-
-torical legends  of  Iran,  as  it  enumerates  the  several  heroes  who
+This  Yaxt  contains  much  valuable  information  about  the  historical legends  of  Iran,  as  it  enumerates  the  several  heroes  who
 worshipped  Ardvi  Sijra  and  asked  for  her  help.  First  of  all  is
 Ahura  himself  (§  16) ;  then  came  Haoshyangha  (§  21),  Yima  (§  25),
-A0i  Dahaka  (§  29),  Thraetaona  (§  33),  Keresaspa  (§  37),  Fran-
-ghrasyan  (§  41),  Kava  Usa  (§45),  Husravah  (§  49),  Tusa  (§53),
+A0i  Dahaka  (§  29),  Thraetaona  (§  33),  Keresaspa  (§  37),  Franghrasyan  (§  41),  Kava  Usa  (§45),  Husravah  (§  49),  Tusa  (§53),
 Vaesaka's  sons  (§  57),  Vafra  Navaza  (§  61),  G^amaspa  (§  68),
 Ashavazdah,  the  son  of  Pourudhakhjti,  and  Ashavazdah  and  Thrita,
 the  sons  of  Sayuzdri  (§  72),  Vistauru  (§  76),  Yoijta  (§81);  the
-Hvovas  and  the  Naotaras  (§  98),  Zarathujtra  (§103),  Kava  Vij-
-taspa  (§  107),  Zairivairi  (§  112),  Are^a/-aspa  and  Vandaremaini
+Hvovas  and  the  Naotaras  (§  98),  Zarathujtra  (§103),  Kava  Vijtaspa  (§  107),  Zairivairi  (§  112),  Are^a/-aspa  and  Vandaremaini
 (§116).
 
 This  enumeration  is  interrupted  by  a  description  of  the  descent
 of  Ardvi  Sura  from  the  heavens  (§§  85-89),  and  of  certain  rules  for
-her  sacrifice  given  by  herself  to  Zarathu^rtra  (§§90-97).  This  in-
-terruption may  have  been  intentional,  as  it  takes  place  just  when
+her  sacrifice  given  by  herself  to  Zarathu^rtra  (§§90-97).  This  interruption may  have  been  intentional,  as  it  takes  place  just  when
 
 ^  Who  shall  have  sacrificed  to  Haurvata/.
 
@@ -3180,8 +3005,7 @@ ihe  course  of  the  enumeration  brings  us  to  the  times  of  Zarathujtra
 and  of  the  institution  of  the  new  religion.
 
 The  Yajt  is  opened  with  a  laudation  of  the  benefits  bestowed  by
-Ardvi  Sura  (§§  1-16),  and  it  closes  with  a  description  of  her  gar-
-ments and  apparel.
+Ardvi  Sura  (§§  1-16),  and  it  closes  with  a  description  of  her  garments and  apparel.
 
 The  first  record  of  the  worship  of  Ardvi  Sura  is  in  a  cuneiform
 inscription  by  Artaxerxes  Mnemon  (404-361),  in  which  her  name
@@ -3209,8 +3033,7 @@ o.  May  Ahura  Mazda  be  rejoiced !  .  .  .  .
 
 Ashem  Vohu:  Hohness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
@@ -3223,8 +3046,7 @@ Be  propitiation,  with  sacrifice,  prayer,  propitiation,
 
 and  orlorification.
 
-Yatha  ahu  vairyo:  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+Yatha  ahu  vairyo:  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 
 Sirozah  I,  10.
@@ -3242,8 +3064,7 @@ Daevas  and  obeys  the  laws  of  Ahura,  who  is  worthy
 of  sacrifice  in  the  material  world,  worthy  of  prayer  in
 the  material  world;  the  life-increasing ^  and  holy,  the
 herd-increasing  and  holy,  the  fold-increasing  and
-holy,  the  wealth-increasing  and  holy,  the  country-
-increasing  and  holy ;
+holy,  the  wealth-increasing  and  holy,  the  countryincreasing  and  holy ;
 
 2.  '  Who  makes  the  seed  of  all  males  pure^,  who
 makes  the  womb  of  all  females  pure  for  bringing
@@ -3299,20 +3120,17 @@ milk  in  females'  breasts.
 
 6.  '  I,  Ahura  Mazda,  brought  it  down  with  mighty
 vigour,  for  the  increase  of  the  house,  of  the  borough,
-of  the  town,  of  the  country,  to  keep  them,  to  main-
-tain them,  to  look  over  them,  to  keep  and  maintain
+of  the  town,  of  the  country,  to  keep  them,  to  maintain them,  to  look  over  them,  to  keep  and  maintain
 them  close.
 
-7.  '  Then  Ardvi  Sura  Anahita,  O  Spitama  Zara-
-thu^tra!  proceeded  forth  from  the  Maker  Mazda.
+7.  '  Then  Ardvi  Sura  Anahita,  O  Spitama  Zarathu^tra!  proceeded  forth  from  the  Maker  Mazda.
 Beautiful  were  her  white  arms,  thick  as  a  horse's
 shoulder  or  still  thicker ;  beautiful  was  her  .  .  .  .  ^
 and  thus  came  she,  strong,  with  thick  arms,  thinking
 thus  in  her  heart :
 
 8.  '  "  Who  will  praise  me  ?  Who  will  offer  me  a
-sacrifice,  with  libations  cleanly  prepared  and  well-
-strained,  together  with  the  Haoma  and  meat  ?  To
+sacrifice,  with  libations  cleanly  prepared  and  wellstrained,  together  with  the  Haoma  and  meat  ?  To
 whom  shall  I  cleave,  who  cleaves  unto  me,  and
 thinks  with  me,  and  bestows  gifts  upon  me,  and  is
 of  good  will  unto  me  ?  ^ "
@@ -3348,8 +3166,7 @@ Ahura  Mazda  ....
 lo.  'Offer  up  a  sacrifice,  O  Spitama  Zarathujtra !  unto  this  spring
 of  mine,  Ardvi  Sura  Anahita,  the  wide-expanding  and  health-giving,
 who  hates  the  Da^vas  and  obeys  the  laws  of  Ahura,  who  is  worthy
-of  sacrifice  in  the  material  world,  worthy  of  prayer  in  the  mate-
-rial world;  the  life-increasing  and  holy,  the  herd-increasing  and
+of  sacrifice  in  the  material  world,  worthy  of  prayer  in  the  material world;  the  life-increasing  and  holy,  the  herd-increasing  and
 holy,  the  fold-increasing  and  holy,  the  wealth-increasing  and  holy,
 the  country-increasing  and  holy^;
 
@@ -3357,8 +3174,7 @@ II.  'Who  drives  forwards  on  her  chariot,  holding
 the  reins  of  the  chariot.  She  goes,  driving,  on  this
 chariot,  longing  for  men^  and  thinking  thus  in  her
 heart :  "  Who  will  praise  me  ?  Who  will  offer  me
-a  sacrifice,  with  libations  cleanly  prepared  and  well-
-strained,  together  with  the  Haoma  and  meat  ?  To
+a  sacrifice,  with  libations  cleanly  prepared  and  wellstrained,  together  with  the  Haoma  and  meat  ?  To
 whom  shall  I  cleave,  who  cleaves  unto  me,  and
 thinks  with  me,  and  bestows  gifts  upon  me,  and  is  of
 good  will  unto  me  ?"
@@ -3369,8 +3185,7 @@ being  heard  \  .  .  .
 ^  As  above,  p.  30 ;  §  9  is  repeated  at  the  end  of  every  chapter.
 '  §  io  =  §  2.
 
-'  Viz.  for  their  worshipping;  cf.  Yasna  XXIII,  2  [5],  paitijma-
-refiti  =  Phl.  humitinit,  they  hope,  they  expect.     Cf.  §  123.
+'  Viz.  for  their  worshipping;  cf.  Yasna  XXIII,  2  [5],  paitijmarefiti  =  Phl.  humitinit,  they  hope,  they  expect.     Cf.  §  123.
 *  As  above,  §  9.
 
 
@@ -3383,8 +3198,7 @@ III.
 of  mine,  Ardvi  Sfira  Anahita  \  .  .  .
 
 13.  'Whom  four  horses  carry,  all  white,  of  one
-and  the  same  colour,  of  the  same  blood,  tall,  crush-
-ing down  the  hates  of  all  haters,  of  the  Daevas  and
+and  the  same  colour,  of  the  same  blood,  tall,  crushing down  the  hates  of  all  haters,  of  the  Daevas  and
 men,  of  the  Yatus  and  Pairikas,  of  the  oppressors,
 of  the  blind  and  of  the  deaf-.
 
@@ -3422,16 +3236,13 @@ and  with  the  rightly-spoken  words ^
 '  Doubtful;  cf.  Yt.  VIII,  47.  "  Cf  above,  §  3.
 
 *  Cf.  Vend.  Introd.  IV,  9,  40.  This  is  the  heavenly  prototype  of
-the  Mazdean  sacrifice  as  it  was  later  shown  to  men  by  Zara-
-thujtra;  cf.  §  loi.
+the  Mazdean  sacrifice  as  it  was  later  shown  to  men  by  Zarathujtra;  cf.  §  loi.
 
 «  Cf.  Yt.  I,  4  and  notes.  '  Cf.  Yt.  Ill,  18.
 
 
 ^
 
-
-58  YA5TS    AND    SIROZAHS.
 
 18.  *  He  begged  of  her  a  boon,  saying:  "Grant
 me  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita  !
@@ -3457,15 +3268,12 @@ with  a  hundred  male  horses,  a  thousand  oxen,  and
 ten  thousand  lambs.
 
 22.  'He  begged  of  her  a  boon,  saying:  "Grant
-me  this,  O  good,  most  beneficent  Ardvi  Sfira  Ana-
-hita !  that  I  may  become  the  sovereign  lord  of
+me  this,  O  good,  most  beneficent  Ardvi  Sfira  Anahita !  that  I  may  become  the  sovereign  lord  of
 all    countries,    of    the    Daevas    and    men,    of    the
 
 
-^  Haoshyangha  was  the  first  king  of  the  Paradhata  (Pesh-
-dadyan)  dynasty  (cf,  above,  p.  7,  note  2,  and  Bundahij  XXXI,  i).
-It  is  related  in  Firdausi's  Shah  Namah  that  he  was  the  grand-
-son of  Gayomarth,  the  first  man  and  king,  and  the  son  of  Syamak ;
+^  Haoshyangha  was  the  first  king  of  the  Paradhata  (Peshdadyan)  dynasty  (cf,  above,  p.  7,  note  2,  and  Bundahij  XXXI,  i).
+It  is  related  in  Firdausi's  Shah  Namah  that  he  was  the  grandson of  Gayomarth,  the  first  man  and  king,  and  the  son  of  Syamak ;
 that  his  father  having  been  killed  by  the  black  Div,  he  encountered
 him  at  the  head  of  an  army  of  lions,  tigers,  birds,  and  Paris,  and
 destroyed  him ;  he  then  succeeded  his  grandfather,  and  reigned
@@ -3499,14 +3307,12 @@ VII.
 24.  'Offer  up  a  sacrifice,  O  Spitama  Zaralhujtra  !  unto  this
 spring  of  mine,  Ardvl  Sura  Anahita  ....
 
-25.  'To  her  did  Yima  Khshaeta'*,  the  good  shep-
-herd, offer  up  a  sacrifice  from  the  height  Hukairya•^
+25.  'To  her  did  Yima  Khshaeta'*,  the  good  shepherd, offer  up  a  sacrifice  from  the  height  Hukairya•^
 with  a  hundred  male  horses,  a  thousand  oxen,  ten
 thousand  lambs.
 
 26.  '  He  begged  of  her  a  boon,  saying :  "  Grant
-me  this,  O  good,  most  beneficent  Ardvi  Sura  Ana-
-hita !  that  I  may  become  the  sovereign  lord  of  all
+me  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita !  that  I  may  become  the  sovereign  lord  of  all
 countries,  of  the  Daevas  and  men,  of  the  Yatus
 and  Pairikas,  of  the  oppressors,  the  blind  and  the
 deaf;   and  that  I  may  take   from  the  Daevas  both
@@ -3557,8 +3363,7 @@ overthrown  by  Azi  Dahaka  (Zohak),  who  seized  the  power  and
 reigned  in  his  place  for  a  thousand  years  (cf.  Yt.  XIX,  33  seq.).
 
 Asi  Dahaka,  literally  'the  fiendish  snake,'  was  first  a  mythical
-personage  ;  he  was  the  '  snake  '  of  the  storm-cloud,  and  a  counter-
-part of  the  Vedic  Ahi  or  Vr/tra.  He  appears  still  in  that
+personage  ;  he  was  the  '  snake  '  of  the  storm-cloud,  and  a  counterpart of  the  Vedic  Ahi  or  Vr/tra.  He  appears  still  in  that
 character  in  Ya^t  XIX  seq.,  where  he  is  described  struggling
 for  the  HvdiXtnb  against  Atar  (Fire),  in  the  sea  Vourukasha
 (Vendidad,  Introd.  IV,  38 ;  cf  this  Ya^t,  §  90).  His  struggle
@@ -3605,13 +3410,11 @@ IX.
 Sura  Anahita  ....
 
 33.  'To  her  did  Thraetaona^  the  heir^  of  the
-valiant  Athwya  clan,  offer  up  a  sacrifice  in  the  four-
-cornered  Varena^,  with  a  hundred  male  horses,  a
+valiant  Athwya  clan,  offer  up  a  sacrifice  in  the  fourcornered  Varena^,  with  a  hundred  male  horses,  a
 thousand  oxen,  ten  thousand  lambs.
 
 34.  'He  begged  of  her  a  boon,  saying:  "Grant
-me  this,  O  good,  most  beneficent  Ardvi  Sura  Ana-
-hita! that  I  may  overcome  Asi  Dahaka,  the  three-
+me  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita! that  I  may  overcome  Asi  Dahaka,  the  three-
 mouthed,  the  three-headed,  the  six-eyed,  who  has  a
 thousand  senses^,  that  most  powerful,  fiendish  Dru^,
 
@@ -3625,8 +3428,7 @@ XXIX,  8  seq.).
 
 139)-
 
-*  Cf.  Vend.  I,  18  and  Introd.  IV,  12.  Modern  tradition  sup-
-poses Varena  to  have  been  the  region  of  Ghilan  (very  likely  on
+*  Cf.  Vend.  I,  18  and  Introd.  IV,  12.  Modern  tradition  supposes Varena  to  have  been  the  region  of  Ghilan  (very  likely  on
 account  of  its  proximity  to  Mazandaran  and  Mount  Damavand).
 
 *  See  Yt.  X,  82,  note.
@@ -3636,8 +3438,7 @@ account  of  its  proximity  to  Mazandaran  and  Mount  Damavand).
 
 
 that  demon,  baleful  to  the  world,  the  strongest
-Drii^  that  Angra  Mainyu  created  against  the  mate-
-rial world,  to  destroy  the  world  of  the  good  prin-
+Drii^  that  Angra  Mainyu  created  against  the  material world,  to  destroy  the  world  of  the  good  prin-
 ciple ^ ;  and  that  I  may  deliver  his  two  wives,
 Savanghava/^  and  Erenavai^  who  are  the  fairest
 of  body  amongst  women,  and  the  most  wonderful
@@ -3693,24 +3494,20 @@ lambs.
 this,  O  good,  most  beneficent  Ardvi  Sura  Anahita  !
 that  I  may  overcome  the  golden-heeled  Ga7zdarewa\
 thouo-h  all  the  shores  of  the  sea  Vouru-Kasha  are
-boiling  over ;  and  that  I  may  run  up  to  the  strong-
-hold of  the  fiend  on  the  wide,  round  earth,  whose
+boiling  over ;  and  that  I  may  run  up  to  the  stronghold of  the  fiend  on  the  wide,  round  earth,  whose
 ends  lie  afar."
 
 39.  'Ardvi  Sura  Anahita  granted  him  that  boon,
-as  he  was  offering  libations,  giving  gifts,  sacri-
-ficing, and  entreating  that  she  would  grant  him  that
+as  he  was  offering  libations,  giving  gifts,  sacrificing, and  entreating  that  she  would  grant  him  that
 boon.
 
 '  For  her  brightness  and  glory,  I  will  offer  her  a  sacrifice  ....
 
 
 ^  A  Parsi  poem,  of  a  very  late  date,  gives  further  details  about
-Gandarewa.  It  was  a  monster  who  lived  '  in  the  sea,  on  the  moun-
-tain, and  in  the  valley/  he  was  called  Pashnah  zarah,  because  the
+Gandarewa.  It  was  a  monster  who  lived  '  in  the  sea,  on  the  mountain, and  in  the  valley/  he  was  called  Pashnah  zarah,  because  the
 sea  did  not  go  above  his  heel  (a  misinterpretation  of  his  Avestean
-epithet  zairi  pashna,  golden-heeled,  the  Zend  zairi  being  mis-
-taken for  the  Persian  zarah  i',  sea);  his  head  would  rise  to  the
+epithet  zairi  pashna,  golden-heeled,  the  Zend  zairi  being  mistaken for  the  Persian  zarah  i',  sea);  his  head  would  rise  to  the
 sun  and  rub  the  sky ;  he  could  swallow  up  twelve  men  at  once.
 Keresaspa  fought  him  for  nine  days  and  nine  nights  together ;  he
 drew  him  at  last  from  the  bottom  of  the  sea  and  smashed  his  head
@@ -3735,14 +3532,12 @@ XL
 40.  '  Offer  up  a  sacrifice,  O  Spitama  Zarathujtra !  unto  this  spring
 of  mine,  Ardvi  Sura  Anahita  ....
 
-41.  *  To  her  did  the  Turanian  murderer,  Frangra-
-syan^,  offer  up  a  sacrifice  in  his  cave  under  the
+41.  *  To  her  did  the  Turanian  murderer,  Frangrasyan^,  offer  up  a  sacrifice  in  his  cave  under  the
 earth  ^,  with  a  hundred  male  horses,  a  thousand
 oxen,  ten  thousand  lambs.
 
 42.  'He  begged  of  her  a  boon,  saying:  "Grant
-me  this,  O  good,  most  beneficent  Ardvi  Sura  Ana-
-hita !  that  I  may  seize  hold  of  that  Glory  "\  that  is
+me  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita !  that  I  may  seize  hold  of  that  Glory  "\  that  is
 waving  in  the  middle  of  the  sea  Vouru-Kasha  ^  and
 
 ^  Frangrasyan  (Afrasyab)  was  king  of  Turan  for  two  hundred
@@ -3761,14 +3556,12 @@ order  for  putting  him  to  death  (see  Yt.  XIX,  77).  Syavakhsh
 was  revenged  by  his  son,  Kai  Khosrav,  the  grandson  of  Afrasyab
 (Yt.  IX,  22).
 
-^  Ha;/kane:  Firdausi  speaks  of  a  cave  on  the  top  of  a  moun-
-tain, near  Barda  (on  the  frontier  of  Adarbai^an),  where  Afrasyab,
+^  Ha;/kane:  Firdausi  speaks  of  a  cave  on  the  top  of  a  mountain, near  Barda  (on  the  frontier  of  Adarbai^an),  where  Afrasyab,
 when  defeated,  took  refuge,  and  was  discovered  by  Kai  Khosrav ;
 that  cave  was  called  'the  cave  of  Afrasyab'  (hang  i  Afrasiab;  Shah
 Namah,  IV,  196).  In  an  older  form  of  the  legend,  that  cave  was
 a  palace  built  under-ground,  with  walls  of  iron  and  a  hundred
-columns  :  its  height  was  a  thousand  times  a  man's  size  (Aoge-
-maid^,  §  61  ;  cf  Bund.  XII,  20:  see  Etudes  Iraniennes,  II,  225,
+columns  :  its  height  was  a  thousand  times  a  man's  size  (Aogemaid^,  §  61  ;  cf  Bund.  XII,  20:  see  Etudes  Iraniennes,  II,  225,
 Le  Hang  d' Afrasyab).
 
 "  Yt.  XIX,  56'seq.
@@ -3795,8 +3588,7 @@ hundred  male  horses,  a  thousand  oxen,  ten  thousand
 lambs.
 
 46.  'He  begged  of  her  a  boon,  saying:  "Grant
-me,  this,  O  good,  most  beneficent  Ardvi  Sura  And-
-hita  !  that  I  may  become  the  sovereign  lord  of  all
+me,  this,  O  good,  most  beneficent  Ardvi  Sura  Andhita  !  that  I  may  become  the  sovereign  lord  of  all
 countries,  of  the  Daevas  and  men,  of  the  Yatus  and
 Pairikas,  of  the  oppressors,  the  blind  and  the  deaf."
 
@@ -3835,8 +3627,7 @@ thousand  oxen,  ten  thousand  lambs.
 
 50.  'He  begged  of  her  a  boon,  saying:  "Grant  me
 this,  O  good,  most  beneficent  Ardvi  Siira  Anahita !
-that  I  may  become  the  sovereign  lord  of  all  coun-
-tries, of  Daevas  and  men,  of  the  Yatus  and  Pairikas,
+that  I  may  become  the  sovereign  lord  of  all  countries, of  Daevas  and  men,  of  the  Yatus  and  Pairikas,
 of  the  oppressors,  the  blind  and  the  deaf;  and  that
 I  may  have  the  lead  in  front  of  all  the  teams  *  and
 that  he  may  not  pass  through  ^  the  forest  ^,  he,  the
@@ -3881,8 +3672,7 @@ Pahlavans  of  Kai  Khosrav;  he  was  the  son  of  king  Naotara
 ABAN    YA^T.  d']
 
 
-worship  on  the  back  of  his  horse  \  begging  swift-
-ness for  his  teams,  health  for  his  own  body,  and
+worship  on  the  back  of  his  horse  \  begging  swiftness for  his  teams,  health  for  his  own  body,  and
 that  he  might  watch  with  full  success  ^  those  who
 hated  him,  smite  down  his  foes,  and  destroy  at  one
 stroke  his  adversaries,  his  enemies,  and  those  who
@@ -3931,9 +3721,6 @@ Kai  Khosrav  himself.
 F    2
 
 
-68  YA5TS    AND    SIROZAHS.
-
-
 XV.
 
 56.  '  Offer  up  a  sacrifice,  0  Spitama  Zarathujtra  !  unto  this  spring
@@ -3946,8 +3733,7 @@ hundred  male  horses,  a  thousand  oxen,  ten  thousand
 lambs.
 
 58.  'They  begged  of  her  a  boon,  saying:  "Grant
-us  this,  O  good,  most  beneficent  Ardvi  Sura  Ana-
-hita !  that  we  may  overcome  the  valiant  warrior
+us  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita !  that  we  may  overcome  the  valiant  warrior
 Tusa,  and  that  we  may  smite  of  the  Aryan  people
 their  fifties  and  their  hundreds,  their  hundreds  and
 their  thousands,  their  thousands  and  their  tens  of
@@ -3997,8 +3783,7 @@ brink  of  the  river  Rangha,  if  I  reach  alive  the  earth
 made  by  Ahura  and  my  own  house."
 
 64.  'Ardvi  Sura  Anahita  hastened  unto  him  in
-the  shape  of  a  maid,  fair  of  body,  most  strong,  tall-
-formed,  high-girded,  pure,  nobly  born  of  a  glorious
+the  shape  of  a  maid,  fair  of  body,  most  strong,  tallformed,  high-girded,  pure,  nobly  born  of  a  glorious
 race,  wearing  shoes  up  to  the  ankle,  wearing  a
 golden  .  .  .  .  ^,  and  radiant  ^.
 
@@ -4029,12 +3814,6 @@ II,  pp.  135  seq.).    Cf.  Yt.  XIV,  40  and  note.
 ^  This  clause  is  no  doubt  spurious  here.
 
 
-70
-
-
-YA5TS    AND    SIROZAHS.
-
-
 XVII.
 
 67.  '  Offer  up  a  sacrifice,  O  Spitama  Zarathujtra !  unto  this  spring
@@ -4052,8 +3831,7 @@ that  I  may  be  as  constantly  victorious  as  any  one  of
 all  the  Aryans  ^."
 
 70.  '  Ardvi  Sura  Anahita  granted  him  that  boon,
-as  he  was  offering  up  libations,  giving  gifts,  sacri-
-ficing, and  entreating  that  she  would  grant  him  that
+as  he  was  offering  up  libations,  giving  gifts,  sacrificing, and  entreating  that  she  would  grant  him  that
 boon.
 
 '  For  her  brightness  and  glory,  I  will  offer  her  a  sacrifice  ....
@@ -4146,12 +3924,10 @@ well-spoken  words,  speaking  thus  :
 ^'].  "'This  is  true,  this  is  truly  spoken,  that  I
 have  smitten  as  many  of  the  worshippers  of  the
 Daevas  as  the  hairs  I  bear  on  my  head.  Do  thou
-then,  O  Ardvi  Sura  Anahita !  leave  me  a  dry  pas-
-sage, to  pass  over  the  good  Vitanghuhaiti."
+then,  O  Ardvi  Sura  Anahita !  leave  me  a  dry  passage, to  pass  over  the  good  Vitanghuhaiti."
 
 78.  'Ardvi  Sura  Anahita  hastened  unto  him  in
-the  shape  of  a  maid,  fair  of  body,  most  strong,  tall-
-formed,  high-girded,  pure,  nobly  born  of  a  glorious
+the  shape  of  a  maid,  fair  of  body,  most  strong,  tallformed,  high-girded,  pure,  nobly  born  of  a  glorious
 race,  wearing  shoes  up  to  the  ankle,  with  all  sorts  of
 ornaments  and  radiant  ^.  A  part  of  the  waters  she
 made  stand  still,  a  part  of  the  waters  she  made  flow
@@ -4159,8 +3935,7 @@ forward,  and  she  left  him  a  dry  passage  to  pass
 over  the  good  Vitanghuhaiti  ^
 
 [79.  'Ardvi  Sura  Anahita  granted  him  that  boon,
-as  he  was  offering  up  libations,  giving  gifts,  sacri-
-ficing, and  entreating  that  she  would  grant  him  that
+as  he  was  offering  up  libations,  giving  gifts,  sacrificing, and  entreating  that  she  would  grant  him  that
 boon  ^]
 
 *  For  her  brightness  and  glory,  I  will  offer  her  a  sacrifice  ....
@@ -4190,20 +3965,17 @@ are  not  solved.    A  Mazdayasnian,  named  Gojti  FrySn,  guesses  the
 ABAN    YA^T.  J^
 
 
-offer  up  a  sacrifice  with  a  hundred  horses,  a  thou-
-sand oxen,  ten  thousand  lambs  on  the  P^dvaepa^  of
+offer  up  a  sacrifice  with  a  hundred  horses,  a  thousand oxen,  ten  thousand  lambs  on  the  P^dvaepa^  of
 the  Rangha.
 
 82.  *  He  begged  of  her  a  boon,  saying:  "Grant
-me  this,  O  good,  most  beneficent  Ardvi  Sura  Ana-
-hita  !  that  I  may  overcome  the  evil-doing  Akhtya,
+me  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita  !  that  I  may  overcome  the  evil-doing  Akhtya,
 the  offspring  of  darkness,  and  that  I  may  answer  the
 ninety-nine  hard  riddles  that  he  asks  me  maliciously,
 the  evil-doing  Akhtya,  the  offspring  of  darkness. "
 
 ^T,.  'Ardvi  Sura  Anahita  granted  him  that  boon,
-as  he  was  offering  up  libations,  giving  gifts,  sacri-
-ficing, and  entreating  that  she  would  grant  him  that
+as  he  was  offering  up  libations,  giving  gifts,  sacrificing, and  entreating  that  she  would  grant  him  that
 boon.
 
 '  For  her  brightness  and  glory,  I  will  offer  her  a  sacrifice  ....
@@ -4221,8 +3993,7 @@ from  those  stars  ^  down  to  the  earth  made  by  Ahura,
 thirty-three  riddles  proposed  by  Akht;  then,  in  his  turn,  he
 proposes  him  three  riddles  which  the  sorcerer  is  unable  to  guess,
 and,  in  the  end,  he  destroys  him  by  the  strength  of  a  Nirang.
-Cf.  Yt.  XIII,  120.  This  tale,  which  belongs  to  the  same  wide-
-spread cycle  as  the  myth  of  Oedipus  and  the  Germanic  legend  of
+Cf.  Yt.  XIII,  120.  This  tale,  which  belongs  to  the  same  widespread cycle  as  the  myth  of  Oedipus  and  the  Germanic  legend  of
 the  Wartburg  battle,  is  found  in  the  Zarathujtra  legend  too
 (Vendidad  XIX,  4).
 
@@ -4248,8 +4019,7 @@ of  the  countries,  and  their  sons.
 horses  and  supremacy  of  Glory.
 
 '  "  The  Athravans  who  read  ^  and  the  pupils  of  the
-Athravans  will  beg  of  thee  knowledge  and  pros-
-perity, the  Victory  made  by  Ahura,  and  the  crushing
+Athravans  will  beg  of  thee  knowledge  and  prosperity, the  Victory  made  by  Ahura,  and  the  crushing
 Ascendant.
 
 87.  '"The  maids  of  barren  womb  ^  longing  for
@@ -4279,8 +4049,7 @@ keeps  his  flock.''
 
 90.  '  Zarathu^tra  asked  Ardvi  Sura  Anahita  :  "  O
 Ardvi  Sura  Anahita  !  With  what  manner  of  sacrifice
-shall  I  worship  thee  ?  With  what  manner  of  sacri-
-fice shall  I  worship  and  forward  thee  ?  So  that
+shall  I  worship  thee  ?  With  what  manner  of  sacrifice shall  I  worship  and  forward  thee  ?  So  that
 Mazda  may  make  thee  run  down  (to  the  earth),  that
 
 
@@ -4352,8 +4121,7 @@ libations  which  the  wicked  worshippers  of  the
 Daevas  bring  unto  thee  after  the  sun  has  set^?"
 
 95.  'Ardvi  Sura  Anahita  answered:  "O  pure,
-holy  Spitama  Zarathui^tra !  howling,  clapping,  hop-
-ping, and  shouting  ^  six  hundred  and  a  thousand
+holy  Spitama  Zarathui^tra !  howling,  clapping,  hopping, and  shouting  ^  six  hundred  and  a  thousand
 Daevas,  who  ought  not  to  receive  that  sacrifice  ^
 receive  those  libations  ^  that  men  bring  unto  me
 after  [the  sun  has  set]^"
@@ -4404,8 +4172,7 @@ the  Naotaride,  the  lord  of  the  swiftest  horses  in  these
 countries  ^.
 
 99.  ['Ardvi  Stira  Anahita  granted  them  that  boon,
-as  they  were  offering  up  libations,  giving  gifts,  sacri-
-ficing, and  entreating  that  she  would  grant  them
+as  they  were  offering  up  libations,  giving  gifts,  sacrificing, and  entreating  that  she  would  grant  them
 that  boon^]
 
 '  For  her  brightness  and  glory,  I  will  offer  her  a  sacrifice  ....
@@ -4423,8 +4190,7 @@ channel  there  stands  a  palace,  well-founded,  shining
 with  a  hundred  windows,  with  a  thousand  columns,
 well-built,  with  ten  thousand  balconies,  and  mighty.
 
-102.  '  In  each  of  those  palaces  there  lies  a  well-
-laid,    well-scented   bed,    covered  with    pillows,   and
+102.  '  In  each  of  those  palaces  there  lies  a  welllaid,    well-scented   bed,    covered  with    pillows,   and
 
 *  The  Hv6va  or  Hvogva  family  plays  as  great  a  part  in  the
 religious  legend,  as  the  Naotara  family  in  the  heroic  one.  Two
@@ -4462,8 +4228,7 @@ with  the  speech,  with  the  deeds,  with  the  libations,
 and  with  the  rightly-spoken  words  2.
 
 105.  '  He  begged  of  her  a  boon,  saying:  "Grant
-me  this,  O  good,  most  beneficent  Ardvi  Sura  Ana-
-hita !  that  I  may  bring  the  son  of  Aurva/-aspa  ^,  the
+me  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita !  that  I  may  bring  the  son  of  Aurva/-aspa  ^,  the
 valiant  Kavi  Vi^aspa,  to  think  according  to  the  law,
 to  speak  according  to  the  law,  to  do  according  to
 the  law^"
@@ -4504,8 +4269,7 @@ hundred  male  horses,  a  thousand  oxen,  ten  thousand
 lambs.
 
 109.  *He  begged  of  her  a  boon,  saying:  "Grant
-me  this,  O  good,  most  beneficent  Ardvi  Sura  Ana-
-hita !  that  I  may  overcome  Tathrava?^/,  of  the  bad
+me  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita !  that  I  may  overcome  Tathrava?^/,  of  the  bad
 law,  and  Peshana,  the  worshipper  of  the  Daevas,
 and  the  wicked  Are^a/-aspa  ^  in  the  battles  of  this
 world !"
@@ -4554,8 +4318,7 @@ Humayaka^  the  worshipper  of  the  Daevas,  and  the
 wicked  Are^a/-aspa  ^  in  the  battles  of  this  world.
 
 1 14.  'Ardvi  Sura  Anahita  granted  him  that  boon",
-as  he  was  offering  up  libations,  giving  gifts,  sacri-
-ficing, and  entreating  that  she  would  grant  him  that
+as  he  was  offering  up  libations,  giving  gifts,  sacrificing, and  entreating  that  she  would  grant  him  that
 boon.
 
 '  For  her  brightness  and  glory,  I  will  offer  her  a  sacrifice  ....
@@ -4599,8 +4362,7 @@ lambs.
 us  this,  O  good,  most  beneficent  Ardvi  Sura  Anahita!
 that  we  may  conquer  the  valiant  Kavi  Vii'taspa  and
 Zairivairi  who  fights  on  horseback,  and  that  we  may
-smite  of  the  Aryan  people  their  fifties  and  their  hun-
-dreds, their  hundreds  and  their  thousands,  their
+smite  of  the  Aryan  people  their  fifties  and  their  hundreds, their  hundreds  and  their  thousands,  their
 thousands  and  their  tens  of  thousands,  their  tens  of
 thousands  and  their  myriads  of  myriads."
 
@@ -4638,8 +4400,6 @@ passage  ViJ-taspo  Zairivairij  (see  ]^tudes  Iraniennes,  II,  229).
 [23]  G
 
 
-82  YA^TS    AND    SIROZAHS.
-
 deep  precipices,  made  of  gold,  wherefrom  this  mine
 Ardvi  Sura  Anahita  leaps,  from  a  hundred  times  the
 height  of  a  man,  while  she  is  possessed  of  as  much
@@ -4660,8 +4420,7 @@ shall  offer  her  libations  and  prayers,  and  thinking
 thus  in  her  heart :
 
 124.  *  "  Who  will  praise  me  ?  Who  will  offer  me  a
-sacrifice,  with  libations  cleanly  prepared  and  well-
-strained,  together  with  the  Haoma  and  meat  ?  To
+sacrifice,  with  libations  cleanly  prepared  and  wellstrained,  together  with  the  Haoma  and  meat  ?  To
 whom  shall  I  cleave,  who  cleaves  unto  me,  and
 thinks  with  me,  and  bestows  gifts  upon  me,  and  is
 of  good  will  unto  me^?"
@@ -4690,8 +4449,7 @@ ABAN    VAST.  83
 a  glorious  race  ^  wearing  along  her  ....  ^  a  mantle
 fully  embroidered  with  gold  ;
 
-127.  *  Ever  holding  the  baresma  in  her  hand,  ac-
-cording to  the  rules,  she  wears  square  golden  ear-
+127.  *  Ever  holding  the  baresma  in  her  hand,  according to  the  rules,  she  wears  square  golden  ear-
 rings on  her  ears  bored  '\  and  a  golden  necklace
 around  her  beautiful  neck,  she,  the  nobly  born  Ardvi
 Sura  Anahita ;  and  she  girded  her  waist  tightly,  so
@@ -4735,8 +4493,6 @@ the  round  shape  of  the  chest  of  a  chariot  is  meant.
 
 G  2
 
-
-8'4  YA^TS    AND    SIROZAHS.
 
 at  my  wish  the  fulness  of  the  good  things  of  life
 and  whatever  makes  a  kingdom  thrive  \
@@ -4801,8 +4557,7 @@ all  three  edited  in  lEtudes  Iraniennes,  II).
 
 Ashem  Vohu:  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ^  .  .  .  .
@@ -4811,11 +4566,9 @@ Unto  the  undying,  shining,  swift-horsed  Sun^;
 Be  propitiation,  with  sacrifice,  prayer,  propitiation,
 and  glorification.
 
-Yatha  ahu  vairyo:  The  will  of  the  Lord  is  the  law  of  holi-
-ness ^  .  .  .  .
+Yatha  ahu  vairyo:  The  will  of  the  Lord  is  the  law  of  holiness ^  .  .  .  .
 
-1.  We  sacrifice  unto  the  undying,  shining,  swift-
-horsed  Sun.
+1.  We  sacrifice  unto  the  undying,  shining,  swifthorsed  Sun.
 
 When  the  light  of  the  sun  waxes  warmer  *,  when
 the  brightness  of  the   sun  waxes  warmer,  then  up
@@ -4832,15 +4585,10 @@ That  is  to  say,  rises  up '  (Phi.  tr.).
 4  (
 
 
-86  YA^TS    AND    sIroZAHS.
-
-
-Stand  the  heavenly  Yazatas,  by  hundreds  and  thou-
-sands :  they  gather  together  its  Glory,  they  make  its
+Stand  the  heavenly  Yazatas,  by  hundreds  and  thousands :  they  gather  together  its  Glory,  they  make  its
 Glory  pass  down,  they  pour  its  Glory  upon  the  earth
 made  by  Ahura,  for  the  increase  of  the  world  of
-holiness,  for  the  increase  of  the  creatures  of  holi-
-ness \  for  the  increase  of  the  undying,  shining,  swift-
+holiness,  for  the  increase  of  the  creatures  of  holiness \  for  the  increase  of  the  undying,  shining,  swift-
 horsed  Sun.
 
 2.  And  when  the  sun  rises  up,  then  the  earth,
@@ -4864,8 +4612,7 @@ Pairikas,  to  withstand  death  that  creeps  in  unseen —
 offers  it  up  to  Ahura  Mazda,  offers  it  up  to  the
 Amesha-Spe;/tas,  offers  it  up  to  his  own  soul^  He
 rejoices  all  the  heavenly  and  worldly  Yazatas,  who
-offers  up  a  sacrifice  unto  the  undying,  shining,  swift-
-horsed  Sun.
+offers  up  a  sacrifice  unto  the  undying,  shining,  swifthorsed  Sun.
 
 5.   I  will  sacrifice  unto  Mithra,  the  lord  of  wide
 
@@ -4894,20 +4641,17 @@ friendships,  that  reigns  between  the  moon  and  the
 sun  ^.
 
 6.  For  his  brightness  and  glory,  I  will  offer  unto  him  a  sacrifice
-worth  being  heard,  namely,  unto  the  undying,  shining,  swift-
-horsed  Sun.  Unto  the  undying,  shining,  swift-horsed  Sun  we  offer
+worth  being  heard,  namely,  unto  the  undying,  shining,  swifthorsed  Sun.  Unto  the  undying,  shining,  swift-horsed  Sun  we  offer
 up  the  libations,  the  Haoma  and  meat,  the  baresma,  the  wisdom
 of  the  tongue,  the  holy  spells,  the  speech,  the  deeds,  the  libations,
 and  the  rightly-spoken  words  ^.
 
 Yewhe  hatam  :  All  those  beings  of  whom  Ahura  Mazda  ....
 
-7.  Yatha  ahu  vairyo :  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+7.  Yatha  ahu  vairyo :  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 I  bless  the  sacrifice  and  the  invocation,  and  the
-strength  and  vigour  of  the  undying,  shining,  swift-
-horsed  Sun.
+strength  and  vigour  of  the  undying,  shining,  swifthorsed  Sun.
 
 Ashem  Vohu :  Holiness  is  the  best  of  all  good  ....
 
@@ -4929,8 +4673,7 @@ holy  Ones.
 VII.     MAH    YA^r.
 
 This  Yajt  to  the  Moon  is  recited  on  the  day  of  the  Moon,  and
-on  those  of  Bahman,  Gos,  and  Ram^  (Anquetil,  II,  185).  Bah-
-man  and  Gos  are  so  far  connected  with  the  Moon  that  all  three
+on  those  of  Bahman,  Gos,  and  Ram^  (Anquetil,  II,  185).  Bahman  and  Gos  are  so  far  connected  with  the  Moon  that  all  three
 are  gao/^ithra:  ' Bahman ^  the  Moon,  and  Gds\  all  three,
 are  having  in  them  the  seed  of  the  bull ;  Bahman  can  neither
 be  seen  nor  seized  with  the  hand;  the  Moon  proceeded  from
@@ -4939,16 +4682,14 @@ G6s  proceeded  from  the  Moon  ^  and  can  both  be  seen  and  seized
 with  the  hand  ^'  Ram  is  referred  to  here  as  being  ;^z;astra, '  lord
 of  good  pastures  V
 
-Of  this  Yajt  we  have  translations  in  Pahlavi,  Persian,  and  San-
-skrit (edited  in  Etudes  Iraniennes,  II).
+Of  this  Yajt  we  have  translations  in  Pahlavi,  Persian,  and  Sanskrit (edited  in  Etudes  Iraniennes,  II).
 
 
 o.  May  Ahura  Mazda  be  rejoiced !  .  .  .  .
 
 Ashem  Vohii :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thu^tra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathu^tra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
@@ -4986,8 +4727,7 @@ and  crlorification.
 
 o
 
-Yatha  ahii  vairyo:  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+Yatha  ahii  vairyo:  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 1.  Hail  to  Ahura  Mazda!  Hail  to  the  Amesha-
 Spe;^tas !  Hail  to  the  Moon  that  keeps  in  it  the
@@ -5030,8 +4770,6 @@ and  the  stars  relieve  each  other  in  the  batde  against  Ahriman.
 
 '  Quoted  from  Yasna  XLIV  [XLIII],  3.
 
-
-90  YA^TS    AND    SIROZAHS.
 
 3.  We  sacrifice  unto  the  Moon  that  keeps  in  it
 the  seed  of  the  Bull,  the  holy  and  master  of
@@ -5103,8 +4841,7 @@ and  the  rightly-spoken  words.
 
 Ye?/he  hatam  :  All  those  beings  of  whom  Ahura  ]\Iazda  ....
 
-7.  Yathaahiivairyo:  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+7.  Yathaahiivairyo:  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 I  bless  the  sacrifice  and  prayer,  and  the  strength
 and  vigour  of  the  Moon,  that  keeps  in  it  the  seed  of
@@ -5128,8 +4865,7 @@ in  this  word  as  in  the  following.
 *  Yaokhjtiva«tem,  'pondering  on  what  good  is  to  be  done'
 (vi/^aryavantam  karyanyayanam ;  J jj:  .  XS  sjo  ,b  dLo  is^AJl).
 
-^  Zairimyavawtem:  haritavarwavantam,  kila  pr/thivi(m)  sardra-
-taram  karoti  (Sansk.).
+^  Zairimyavawtem:  haritavarwavantam,  kila  pr/thivi(m)  sardrataram  karoti  (Sansk.).
 
 *  Vohvavawtem:  uttamasamr/ddhimantam  (Sansk.).
 
@@ -5171,8 +4907,7 @@ o.  May  Ahura  Mazda  be  rejoiced  I  .  .  .  .
 
 Ashem  Voh{i :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
@@ -5193,8 +4928,7 @@ TIR    VAST.  93
 Be  propitiation,  with  sacrifice,  prayer,  propitiation,
 and  glorification.
 
-Yatha  ahu  vairyo:  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+Yatha  ahu  vairyo:  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 I.
 
@@ -5202,8 +4936,7 @@ I.
 saying :  '  We  worship  the  lordship  and  mastership
 [of  Ti^trya],  whereby  he  protects  ^  the  Moon,  the
 dwelling,  the  food,  when  my  glorious  stars  come
-along  and  impart  their  gifts  ^  to  men.  I  will  sacri-
-fice unto  the  star  Tijtrya,  that  gives  the  fields  their
+along  and  impart  their  gifts  ^  to  men.  I  will  sacrifice unto  the  star  Tijtrya,  that  gives  the  fields  their
 share  [of  waters].
 
 2.  '  We  offer  up  libations  unto  Tij-trya,  the  bright
@@ -5211,8 +4944,7 @@ and  glorious  star,  that  gives  happy  dwelling  and
 good  dwelling ;  the  white,  shining,  seen  afar,  and
 piercing  ;  the  health-bringing,  loud-snorting  ^,  and
 high,  piercing  from  afar  with  its  shining,  undefiled
-rays  ;  and  unto  the  waters  of  the  wide  sea,  the  Van-
-guhi  of  wide  renown  ^,  and  the  species  ^  of  the  Bull,
+rays  ;  and  unto  the  waters  of  the  wide  sea,  the  Vanguhi  of  wide  renown  ^,  and  the  species  ^  of  the  Bull,
 made  by  Mazda,  the  awful  kingly  Glory,  and  the
 Fravashi  of  the  holy  Spitama  Zarathui-tra.
 
@@ -5223,8 +4955,7 @@ star  Ti.ytrya.
 '  Unto  Ti^trya,  the  bright  and  glorious  star,  we
 offer  up  the  libations,  the  Haoma  and  meat,  the
 baresma,  the  wisdom  of  the  tongue,  the  holy  spells,
-the  speech,  the  deeds,  the  libations,  and  the  rightly-
-spoken  words ".
+the  speech,  the  deeds,  the  libations,  and  the  rightlyspoken  words ".
 
 ^  Doubtful.  2  The  rain.
 
@@ -5236,9 +4967,6 @@ spoken  words ".
 
 
 K.
-
-
-94  YA5'TS    AND    SIROZAHS
 
 
 'Ye;2he    hatam:    All    those    beings    of   whom
@@ -5267,8 +4995,7 @@ being  heard  ....
 
 III.
 
-5.  *  We  sacrifice  unto  Tirtrya,  the  bright  and  glo-
-rious star ;  for  whom  long  ^  flocks  and  herds  and
+5.  *  We  sacrifice  unto  Tirtrya,  the  bright  and  glorious star ;  for  whom  long  ^  flocks  and  herds  and
 men.  looking  forward  for  him  and  deceived  in  their
 hope*:  "When  shall  we  see  him  rise  up,  the  bright
 and  glorious  star  Ti^trya  ?  When  will  the  springs
@@ -5280,8 +5007,7 @@ being  heard  ....
 
 IV.
 
-6.  'We  sacrifice  unto  Tii-trya,  the  bright  and  glo-
-rious star  ;  who  flies,  towards  the  sea  Vouru-Kasha  ^,
+6.  'We  sacrifice  unto  Tii-trya,  the  bright  and  glorious star  ;  who  flies,  towards  the  sea  Vouru-Kasha  ^,
 as  swiftly  as  the  arrow  darted  through  the  heavenly
 
 ^  Powerfully.
@@ -5352,8 +5078,6 @@ time  when  Tijtrya,  in  the  European  climate,  is  supposed  to  be  most
 active,  on  the  loth  of  August.
 
 
-96  YA^TS    AND    SIROZAHS.
-
 between  the  earth  and  the  heavens,  in  the  sea
 Vouru-Kasha,  the  powerful  sea,  the  large-sized,  deep
 sea  of  salt^  waters.  He  goes  to  its  lake  in  the  shape
@@ -5363,8 +5087,7 @@ above  powerfully  all  around.
 
 9.  *  Then  Satavaesa  ^  makes  those  waters  flow
 down  to  the  seven  Karshvares  of  the  earth  ^,  and
-when  he  has  arrived  down  there,  he  stands,  beau-
-tiful, spreading  ease  and  joy  on  the  fertile  countries
+when  he  has  arrived  down  there,  he  stands,  beautiful, spreading  ease  and  joy  on  the  fertile  countries
 (thinking  in  himself):  "  How  shall  the  countries  of
 the  Aryas  grow  fertile  ?  "
 
@@ -5373,8 +5096,7 @@ being  heard  ....
 
 VI.
 
-10.  '  We  sacrifice  unto  Ti^trya,  the  bright  and  glo-
-rious star,  who  spake  unto  Ahura  Mazda,  saying :
+10.  '  We  sacrifice  unto  Ti^trya,  the  bright  and  glorious star,  who  spake  unto  Ahura  Mazda,  saying :
 "  Ahura  Mazda,  most  beneficent  Spirit,  Maker  of  the
 material  world,  thou  Holy  One!
 
@@ -5429,8 +5151,7 @@ trya,  the  bright  and  glorious  star,  mingles  his  shape
 
 ^  Cf.  §§  23-24  and  Yt.  X,  54-55,  74.
 
-^  AsTijtrya  is  the  producer  of  the  rain:  Tijti7enyas/^a=Tistara-
-tarakasya  vr/sh/im  (Khorshe^  Nyayij-  8,  Sansk.  tr.).
+^  AsTijtrya  is  the  producer  of  the  rain:  Tijti7enyas/^a=Tistaratarakasya  vr/sh/im  (Khorshe^  Nyayij-  8,  Sansk.  tr.).
 ^  Tijtrya ;  cf.  p.  105,  note  3.
 
 *  Haptoiriwga  (Ursa  Major)  is  the  leader  of  the  stars  in  the
@@ -5536,8 +5257,7 @@ overcomes  him.
 as  far  as  a  Hathra's  ^  length.  He  cries  out  in  woe
 and  distress,  the  bright  and  glorious  Ti^trya  :  "  Woe
 is  me,  O  Ahura  Mazda!  I  am  in  distress,  O  Waters
-and  Plants. !  O  Fate  and  thou.  Law  of  the  worship-
-pers of  Mazda !     Men  do   not  worship  me  with  a
+and  Plants. !  O  Fate  and  thou.  Law  of  the  worshippers of  Mazda !     Men  do   not  worship  me  with  a
 
 ^  '  Tijtar  was  converted  into  three  forms,  the  form  of  a  man  and
 the  form  of  a  horse  and  the  form  of  a  bull  ....  as  the  astrologers
@@ -5567,8 +5287,7 @@ of  ten  camels,  the  strength  of  ten  bulls,  the  strength
 of  ten  mountains,  the  strength  of  ten  rivers  ^."
 
 25.  'Then  I,  Ahura  Mazda,  offer  up  to  the  bright
-and  glorious  Tii'trya  a  sacrifice  in  which  he  is  in-
-voked by  his  own  name,  and  I  bring  him  the
+and  glorious  Tii'trya  a  sacrifice  in  which  he  is  invoked by  his  own  name,  and  I  bring  him  the
 strength  of  ten  horses,  the  strength  of  ten  camels,
 the  strength  of  ten  bulls,  the  strength  of  ten
 mountains,  the  strength  of  ten  rivers.
@@ -5605,8 +5324,7 @@ bright  and  glorious  Ti^trya.  "Hail  unto  me,0  Ahura
 Mazda  !  Hail  unto  you,  O  waters  and  plants  !  Hail,
 O  Law  of  the  worshippers  of  Mazda !  Hail  will  it
 be  unto  you,  O  lands  !  The  life^  of  the  waters  will
-flow  down  unrestrained  to  the  big-seeded  ^  corn-
-fields, to  the  small-seeded  ^  pasture-fields,  and  to  the
+flow  down  unrestrained  to  the  big-seeded  ^  cornfields, to  the  small-seeded  ^  pasture-fields,  and  to  the
 whole  of  the  material  world!"
 
 30.  '  Then  the  bright  and  glorious  Ti^trya  goes
@@ -5686,8 +5404,7 @@ the  atmosphere '  (ibid.  XIII,  5).
 
 ^  Haoma  opens  the  way  for  the  waters  from  heaven,  as  being
 the  foremost  element  in  sacrifice  (cf.  §  24).  For  the  same  reason
-the  Bundahi^  numbers  Vohu-Mano,  *  Good  Mind,'  amongst  the  co-
-operators  of  Tij-trya.
+the  Bundahi^  numbers  Vohu-Mano,  *  Good  Mind,'  amongst  the  cooperators  of  Tij-trya.
 
 ^  See  p.  6,  note  i.
 
@@ -5717,8 +5434,7 @@ live  on  the  fruits  of  the  year,  by  the  chiefs  of  deep^
 understanding 2;  by  the  wild  beasts  in  the  mountains,
 by  the  tame  beasts  that  run  in  the  plains ;  they
 watch  him,  as  he  comes  up  to  the  country  for  a
-bad  year,  or  for  a  good  year  ^,  (thinking  in  them-
-selves): "How  shall  the  Aryan  countries  be
+bad  year,  or  for  a  good  year  ^,  (thinking  in  themselves): "How  shall  the  Aryan  countries  be
 fertile  ?"
 
 *  For  his  brightness  and  glory,  I  will  offer  him  a  sacrifice  worth
@@ -5735,8 +5451,7 @@ Aryas  whose  arrow  was  the  swiftest,  shot  from
 Mount  Khshaotha  to  Mount  Hvd.xs.vdJit.
 
 2,'^.  'Ahura  Mazda  gave  him  assistance,  and  the
-Amesha-Spe;^tas  and  Mithra,  the  lord  of  wide  pas-
-tures, pointed  him   the  way :  behind  him  went  the
+Amesha-Spe;^tas  and  Mithra,  the  lord  of  wide  pastures, pointed  him   the  way :  behind  him  went  the
 
 ^  Doubtful.  '      ^  The  chiefs  of  the  state.
 
@@ -5817,8 +5532,7 @@ XII.
 glorious  star,  who  washes  away  all  things  of  fear  ^
 who  stunts  the  growth  of  all ...  .  ^,  and  brings  health
 to  all  these  creations,  being  most  beneficent,  when
-he  has  been  worshipped  with  a  sacrifice  and  pro-
-pitiated, rejoiced,  and  satisfied.
+he  has  been  worshipped  with  a  sacrifice  and  propitiated, rejoiced,  and  satisfied.
 
 '  For  his  brightness  and  glory,  I  will  oflfer  him  a  sacrifice  worth
 being  heard  ....
@@ -5880,8 +5594,7 @@ being  heard  ....
 
 XV.
 
-48.  '  We  sacrifice  unto  Tii"trya,  the  bright  and  glo-
-rious star,  for  whom  long  all  the  creatures  of  Spe;-5ta-
+48.  '  We  sacrifice  unto  Tii"trya,  the  bright  and  glorious star,  for  whom  long  all  the  creatures  of  Spe;-5ta-
 Mainyu,  those  that  live  under  the  ground,  and  those
 that  live  above  the  ground ;  those  that  live  in  the
 waters,  and  those  that  live  on  dry  land ;  those  that
@@ -5912,8 +5625,7 @@ being  heard  ....
 
 XVI.
 
-49.  '  We  sacrifice  unto  Tii-trya,  the  bright  and  glo-
-rious star,  the  healthful,  wise,  happy,  and  powerful,
+49.  '  We  sacrifice  unto  Tii-trya,  the  bright  and  glorious star,  the  healthful,  wise,  happy,  and  powerful,
 who  is  the  lord  of  a  thousand  boons,  and  grants
 many  boons  to  that  man  who  has  pleased  him,
 whether  begging  or  not  begging  for  them.
@@ -5928,8 +5640,7 @@ afflict,  to  drive  back  the  malice  of  that  Pairika  Du^-
 yairya^,  whom  evil-speaking^  people  call  Huyairya*.
 
 52.  '  Had  I  not  created  that  star  Ti^trya  as  worthy
-of  sacrifice,  as  worthy  of  prayer,  as  worthy  of  propi-
-tiation, as  worthy  of  glorification  as  myself,  Ahura
+of  sacrifice,  as  worthy  of  prayer,  as  worthy  of  propitiation, as  worthy  of  glorification  as  myself,  Ahura
 Mazda ;
 
 53.  'In  order  to  withstand,  to  break  asunder,  to
@@ -5961,23 +5672,19 @@ she  goes  on,  rushing  upon  and  around  it.
 that  Pairika  in  bonds,  with  twofold  bonds,  with
 threefold  bonds,  that  cannot  be  overcome,  with
 bonds  all  over  the  body :  it  is  as  if  there  were  a
-thousand  men  keeping  one  man  in  bonds,  a  thou-
-sand men  of  those  who  are  the  strongest  in
+thousand  men  keeping  one  man  in  bonds,  a  thousand men  of  those  who  are  the  strongest  in
 strength.
 
-56.  'If  the  Aryan  countries,  O  Spitama  Zara-
-thui^tra  !  would  perform  in  honour  of  the  bright  and
+56.  'If  the  Aryan  countries,  O  Spitama  Zarathui^tra  !  would  perform  in  honour  of  the  bright  and
 glorious  Tii'trya  the  due  sacrifice  and  invocation,
-just  as  that  sacrifice  and  invocation  ought  to  be  per-
-formed in  the  perfection  of  holiness  ;  never  should  a
+just  as  that  sacrifice  and  invocation  ought  to  be  performed in  the  perfection  of  holiness  ;  never  should  a
 hostile  horde  enter  these  Aryan  countries,  nor  any
 plague,  nor  leprosy,  nor  venomous  plants  2,  nor  the
 chariot  of  a  foe,  nor  the  uplifted  spear  of  a  foe.'
 
 57  ^  Zarathurtra  asked  :  'What  is  then,  O  Ahura
 Mazda!  the  sacrifice  and  invocation  in  honour  of  the
-bright  and  glorious  Ti^-trya,  as  it  ought  to  be  per-
-formed in  the  perfection  of  holiness  ? '
+bright  and  glorious  Ti^-trya,  as  it  ought  to  be  performed in  the  perfection  of  holiness  ? '
 
 58.  Ahura  Mazda  answered :  '  Let  the  Aryan
 nations  bring  libations  unto  him ;  let  the  Aryan
@@ -6001,8 +5708,7 @@ nor  a  whore,  nor  a  ....  ^  who  does  not  sino-  the
 
 o
 
-Gathas,  who  spreads  death  in  the  world  and  with-
-stands the  law  of  Mazda,  the  law  of  Zarathui-tra.
+Gathas,  who  spreads  death  in  the  world  and  withstands the  law  of  Mazda,  the  law  of  Zarathui-tra.
 
 60.  '  If  a  murderer  take  of  these  offerinofs,  or  a
 whore,  or  a  ...  .  who  does  not  sing  the  Gathas,
@@ -6011,8 +5717,7 @@ the  law  of  Mazda,  the  law  of  Zarathunra,  then  the
 bright  and  glorious  Ti^trya  takes  back  his  healing
 virtues.
 
-61.  'Plagues  will  ever  pour  upon  the  Aryan  na-
-tions ;  hostile  hordes  will  ever  fall  upon  the  Aryan
+61.  'Plagues  will  ever  pour  upon  the  Aryan  nations ;  hostile  hordes  will  ever  fall  upon  the  Aryan
 nations  ;  the  Aryans  will  be  smitten,  by  their  fifties
 and  their  hundreds,  by  their  hundreds  and  their
 thousands,  by  their  thousands  and  their  tens  of
@@ -6043,8 +5748,7 @@ no  YA5?TS    AND    sIroZAHS.
 
 IX.    GO^"  YA^'T.
 
-Gos,  '  the  cow,'  kut  i^oxhv,  is  a  personation  of  the  animal  king-
-dom which  she  maintains  .  and  protects.  She  is  also  called
+Gos,  '  the  cow,'  kut  i^oxhv,  is  a  personation  of  the  animal  kingdom which  she  maintains  .  and  protects.  She  is  also  called
 Drvaspa  and  Gojurun  :  Drvaspa  means  '  she  who  keeps  horses
 in  health,'  and  is  nothing  more  than  an  epithet  of  Gbs :  Go^urun
 (from  the  Zend  Gews  urvan)  means  'the  Soul  of  the  Bull'  (the
@@ -6070,8 +5774,7 @@ afflicted !
 
 Ashem  Vohu  :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura;
 
 For  sacrifice,  prayer,  satisfaction,  and  glorification  unto  Havani,
 the  holy  and  master  of  holiness.
@@ -6082,8 +5785,7 @@ holyS
 Be  propitiation,  with  sacrifice,  prayer,  propitiation,
 and  glorification.
 
-Yatha  ahu  vairyo  :  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+Yatha  ahu  vairyo  :  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 ^  Sirozah  I,  14.
 
@@ -6097,8 +5799,7 @@ I.
 by  Mazda  and  holy,  who  keeps  the  flocks  in  health,
 the  herds  in  health,  the  grown-up i  (cattle)  in  health,
 the  young  ones  in  health ;  who  watches  well  from
-afar,  with  a  wide-spread  and  long-continued  welfare-
-giving  friendship ;
+afar,  with  a  wide-spread  and  long-continued  welfaregiving  friendship ;
 
 2.  Who  yokes  teams  of  horses,  who  makes
 her  chariot  turn  and  its  wheels  sound,  fat  and
@@ -6141,8 +5842,7 @@ Drvaspa,  made  by  Mazda  and  holy.  We  offer  up
 libations  to  the  powerful  Drvaspa,  made  by  Mazda
 and  holy ;  we  offer  her  the  Haoma  and  meat,  the
 baresma,  the  wisdom  of  the  tongue,  the  holy  spells,
-the  speech,  the  deeds,  the  libations,  and  the  rightly-
-spoken  words.
+the  speech,  the  deeds,  the  libations,  and  the  rightlyspoken  words.
 
 Ye;2he    hatam :     All    those    beings    of    whom
 Ahura  Mazda  .  .  .  .^
@@ -6203,8 +5903,7 @@ Who  yokes  teams  of  horses  ....  for  assistance  to  the  faithful.
 
 A
 
-valiant  Athwya  clan,  offer  up  a  sacrifice  in  the  four-
-cornered  Varena,  with  a  hundred  male  horses,  a
+valiant  Athwya  clan,  offer  up  a  sacrifice  in  the  fourcornered  Varena,  with  a  hundred  male  horses,  a
 thousand  oxen,  ten  thousand  lambs,  and  with  an
 offering  of  libations :
 
@@ -6213,8 +5912,7 @@ Drvaspa!  that  I  may  overcome  A^i  Dahaka,  the
 three-mouthed,  the  three-headed,  the  six-eyed,  who
 has  a  thousand  senses,  that  most  powerful,  fiendish
 Dru^,  that  demon,  baleful  to  the  world,  the  strongest
-Dru^  that  Angra  Mainyu  created  against  the  mate-
-rial world,  to  destroy  the  world  of  the  good  principle ;
+Dru^  that  Angra  Mainyu  created  against  the  material world,  to  destroy  the  world  of  the  good  principle ;
 and  that  I  may  deliver  his  two  wives,  Savanghava/^
 and  Erenava/^,  who  are  the  fairest  of  body  amongst
 women,  and  the  most  wonderful  creatures  in  the
@@ -6222,8 +5920,7 @@ worlds'
 
 15.  The  powerful  Drvaspa,  made  by  Mazda,  the
 holy  Drvaspa,  the  maintainer,  granted  him  that  boon,
-as  he  was  offering  up  libations,  giving  gifts,  sacri-
-ficing, and  entreating  that  she  would  grant  him  that
+as  he  was  offering  up  libations,  giving  gifts,  sacrificing, and  entreating  that  she  would  grant  him  that
 boon.
 
 For  her  brightness  and  glory,  I  will  offer  her  a  sacrifice  worth
@@ -6258,8 +5955,7 @@ Franghrasyan^  that  I  may  drag  him  bound,  that  I
 may  bring  him  bound  unto  king  Husravah,  that  king
 Husravah  may  kill  him,  behind  the  A!'ae/'asta  lake*,
 the  deep  lake  of  salt^  waters,  to  avenge  the  murder
-of  his  father  Syavarshana^  a  man,  and  of  Aghrae-
-ratha,  a  semi-man"^.'
+of  his  father  Syavarshana^  a  man,  and  of  Aghraeratha,  a  semi-man"^.'
 
 
 1  §§i7-i9=Yt.  XVII,  37-38.
@@ -6277,8 +5973,7 @@ Iraniennes,  II,  227).
 
 ^  See  p.  66,  note  3.  ®  See  p.  64,  note  i.
 
-'  Doubtful  (nar a V a,  as  opposed  to  nara).  Aghraeratha  (Aghre-
-rath)  was  a  brother  of  Afrasyab's;  he  was  a  righteous  man,  and
+'  Doubtful  (nar a V a,  as  opposed  to  nara).  Aghraeratha  (Aghrerath)  was  a  brother  of  Afrasyab's;  he  was  a  righteous  man,  and
 Afrasyab  killed  him  for  his  having  saved  the  Iranian  king  Mino-
 ^ihr  with  his  army,  when  captive  in  the  Padashkhvar  mountains
 (Bundahij'  XXXI,  21).  Yet  he  is  still  Hving  as  an  immortal  in  the
@@ -6291,8 +5986,7 @@ GO^   VAST.  115
 
 19.  The  powerful  Drvaspa,  made  by  Mazda,  the
 holy  Drvaspa,  the  maintainer,  granted  him  that  boon,
-as  he  was  offering  up  libations,  giving  gifts,  sacri-
-ficing, and  entreating  that  she  would  give  him  that
+as  he  was  offering  up  libations,  giving  gifts,  sacrificing, and  entreating  that  she  would  give  him  that
 boon.
 
 For  her  brightness  and  glory,  I  will  offer  her  a  sacrifice  worth
@@ -6308,8 +6002,7 @@ Who  yokes  teams  of  horses  ....  for  assistance  to  the  faithful.
 21  ^  To  her  did  the  gallant  Husravah,  he  who
 united  the  Arya  nations  into  one  kingdom,  offer  up
 a  sacrifice,  behind  the  A'ae/^'asta  lake,  the  deep  lake
-of  salt  waters,  with  a  hundred  male  horses,  a  thou-
-sand oxen,  ten  thousand  lambs,  and  an  offering  of
+of  salt  waters,  with  a  hundred  male  horses,  a  thousand oxen,  ten  thousand  lambs,  and  an  offering  of
 libations  :
 
 22.  '  Grant  me  this  boon,  O  good,  most  beneficent
@@ -6407,16 +6100,13 @@ son  of  Vispa-thaurvo-asti,  the  all-affficting,  of  the
 brazen  helmet,  of  the  brazen  armour,  of  the  thick
 neck,  behind  whom  seven  hundred  camels  . . .  .^ ;  that
 I  may  put  to  flight  the  Z^z^yaona  murderer,  Are^a/-
-aspa^ ;  that  I  may  put  to  flight  Dar^inika^  the  wor-
-shipper of  the  Daevas ;
+aspa^ ;  that  I  may  put  to  flight  Dar^inika^  the  worshipper of  the  Daevas ;
 
 31.  And  that  I  may  smite  Tathrava;^/'^  of  the
-bad  law ;  that  I  may  smite  Spin^aurui-ka^,  the  wor-
-shipper of  the  Daevas ;  and  that  I  may  bring  unto
+bad  law ;  that  I  may  smite  Spin^aurui-ka^,  the  worshipper of  the  Daevas ;  and  that  I  may  bring  unto
 the  ofood  law  the  nations  of  the  Varedhakas  and  of
 the  //z/yaonas^ ;  and  that  I  may  smite  of  the  ZTz^yaona
-nations  their  fifties  and  their  hundreds,  their  hun-
-dreds and  their  thousands,  their  thousands  and  their
+nations  their  fifties  and  their  hundreds,  their  hundreds and  their  thousands,  their  thousands  and  their
 
 1  §§  29-31  =Yt.  XVII,  49-51.  2  ?  G^ainySvara/.
 
@@ -6426,8 +6116,7 @@ dreds and  their  thousands,  their  thousands  and  their
 
 "  The  ZTfyaonas  seem  to  have  been  the  Chionitae,  a  bellicose
 tribe,  near  the  land  of  Gilan,  often  at  war  with  the  first  Sassanides
-(Amm.  Marcellinus  XVII,  5).  The  name  of  the  Varedhakas  re-
-minds one  of  the  Vertae  who  are  mentioned  once  in  company  with
+(Amm.  Marcellinus  XVII,  5).  The  name  of  the  Varedhakas  reminds one  of  the  Vertae  who  are  mentioned  once  in  company  with
 the  Chionitae  (ibid.  XIX,  i) ;  but  their  geographical  situation  is  not
 ascertained.  In  any  case  the  proximity  of  the  Daitya  (§  29)  shows
 that  both  people  must  have  inhabited  the  western  coast  of  the
@@ -6453,8 +6142,7 @@ we  offer  her  the  Haoma  and  meat,  the  baresma,  the  wisdom  of
 the  tongue,  the  holy  spells,  the  speech,  the  deeds,  the  libations,  and
 the  rightly-spoken  words.
 
-Yatha  ahfi  vairyo:  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+Yatha  ahfi  vairyo:  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 I  bless  the  sacrifice  and  prayer,  and  the  strength
 and  vigour  of  the  powerful  Drvaspa,  made  by  Mazda
@@ -6495,8 +6183,7 @@ o.  May  Ahura  Mazda  be  rejoiced !  .  .  .  .
 
 Ashem  Vohu  :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas,  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas,  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
@@ -6508,8 +6195,7 @@ by  his  own  name,  and  unto  Rama  //z^astra^
 Be  propitiation,  with  sacrifice,  prayer,  propitiation,
 and  glorification.
 
-Yatha  ahu  vairyo  :  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+Yatha  ahu  vairyo  :  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 I.
 
@@ -6535,12 +6221,10 @@ one  that  thou  hadst  entered  into  with  one  of  the
 faithful  who  is  one  of  thy  own  faith*.  For  Mithra
 stands  for  both  the  faithful  and  the  unfaithful.
 
-3.  '  Mithra,  the  lord  of  wide  pastures,  gives  swift-
-ness to  the  horses  of  those  who  lie  not  unto
+3.  '  Mithra,  the  lord  of  wide  pastures,  gives  swiftness to  the  horses  of  those  who  lie  not  unto
 Mithra.
 
-'  Fire,  the  son  of  Ahura  Mazda,  gives  the  straight-
-est  way  to  those  who  lie  not  unto  Mithra.
+'  Fire,  the  son  of  Ahura  Mazda,  gives  the  straightest  way  to  those  who  lie  not  unto  Mithra.
 
 '  The  good,  strong,  beneficent  Fravashis  of  the
 faithful  give  a  virtuous  offspring  to  those  who  lie
@@ -6581,8 +6265,7 @@ Yazata,  the  powerful  Mithra,  most  beneficent  to  the
 creatures  :  I  will  apply  unto  him  with  charity^  and
 prayers  :  I  will  offer  up  a  sacrifice  worth  being  heard
 unto  him,  Mithra,  the  lord  of  wide  pastures,  with  the
-Haoma  and  meat,  with  the  baresma,  with  the  wis-
-dom of  the  tongue,  with  the  holy  spells,  with  the
+Haoma  and  meat,  with  the  baresma,  with  the  wisdom of  the  tongue,  with  the  holy  spells,  with  the
 speech,  with  the  deeds,  with  the  libations,  and  with
 the  rightly-spoken  words.
 
@@ -6620,8 +6303,7 @@ is  translated  in  the  same  way.
 122  YA^-TS    AND    SIROZAHS.
 
 
-8.  '  To  whom  the  chiefs  of  nations  offer  up  sacri-
-fices, as  they  go  to  the  field,  against  havocking  hosts,
+8.  '  To  whom  the  chiefs  of  nations  offer  up  sacrifices, as  they  go  to  the  field,  against  havocking  hosts,
 against  enemies  coming  in  battle  array,  in  the  strife
 of  conflicting  nations.
 
@@ -6643,8 +6325,7 @@ II.'  Whom  the  horsemen  worship  on  the  back
 of  their  horses,  begging  swiftness  for  their  teams,
 health  for  their  own  bodies,  and  that  they  may  watch
 with  full  success  those  who  hate  them,  smite  down
-their  foes,  and  destroy  at  one  stroke  their  adver-
-saries, their  enemies,  and  those  who  hate  them^.
+their  foes,  and  destroy  at  one  stroke  their  adversaries, their  enemies,  and  those  who  hate  them^.
 
 '  For  his  brightness  and  glory,  I  will  offer  him  a  sacrifice  worth
 being  heard  ....
@@ -6764,8 +6445,7 @@ the  foe  of  Mithra  flings,  darts  backwards,  for  the
 ^  Apayeiwti,  frastanvaiwti,  framanyei«te :  these  are  three
 technical  words  for  the  movements  of  the  three  classes  of  soldiers,
 footmen,  horsemen,  and  chariot-men;  the  last  two  words  are
-probably  synonymous  with  the  first,  but  the  exact  shades  of  mean-
-ing are  not  known.  Mr.  West  suggests,  cannot  outrun,  outride,
+probably  synonymous  with  the  first,  but  the  exact  shades  of  meaning are  not  known.  Mr.  West  suggests,  cannot  outrun,  outride,
 outdrive  him.
 
 
@@ -6799,12 +6479,10 @@ sleepless,  and  ever  awake  ;
 *  Who  takes  out  of  distress  the  man  who  has  not
 lied  unto  him,  who  takes  him  out  of  death.
 
-23.  'Take  us  out  of  distress,  take  us  out  of  dis-
-tresses, O  Mithra !  as  we  have  not  lied  unto  thee.
+23.  'Take  us  out  of  distress,  take  us  out  of  distresses, O  Mithra !  as  we  have  not  lied  unto  thee.
 Thou  bringest  down  terror  upon  the  bodies  of  the
 men  who  lie  unto  Mithra;  thou  takest  away  the
-strength  from  their  arms,  being  angry  and  all-power-
-ful;  thou  takest  the  swiftness  from  their  feet,  the
+strength  from  their  arms,  being  angry  and  all-powerful;  thou  takest  the  swiftness  from  their  feet,  the
 eye-sight  from  their  eyes,  the  hearing  from  their
 ears.
 
@@ -6842,8 +6520,7 @@ strong  arms ;
 most  cruel  in  exacting  pains ;  the  punisher  of  the
 men  who  lie  unto  Mithra,  the  withstander  of  the
 Pairikas ;  who,  when  not  deceived,  establisheth
-nations  in  supreme  strength  ;  who,  when  not  de-
-ceived, establisheth  nations  in  supreme  victory;
+nations  in  supreme  strength  ;  who,  when  not  deceived, establisheth  nations  in  supreme  victory;
 
 2  7.  '  Who  confounds  the  ways  of  the  nation  that
 delights  in  havoc,  who  turns  away  their  Glory  2,  takes
@@ -6882,8 +6559,7 @@ to  men  ;  thou,  O  Mithra !  keepest  in  thy  hands  both
 peace  and  trouble  for  nations.
 
 30.  '  Thou  makest  houses  large,  beautiful  with
-women,  beautiful  with  chariots,  with  well-laid  found-
-ations ^  and  high  above  their  groundwork 2;  thou
+women,  beautiful  with  chariots,  with  well-laid  foundations ^  and  high  above  their  groundwork 2;  thou
 makest  that  house  lofty,  beautiful  with  women,
 beautiful  with  chariots,  with  well-laid  foundations,
 and  high  above  its  groundwork,  of  which  the  master,
@@ -6922,12 +6598,8 @@ good  conscience  and  bliss",  good  fame  and  a  good
 '  Cf.  §  5.
 
 
-128  YA5TS   AND    SIROZAHS.
-
-soul ;  wisdom  and  the  knowledge  that  gives  happi-
-ness ^  the  victorious  strength  given  by  Ahura,  the
-crushing  Ascendant  of  Asha  Vahi^ta,  and  conversa-
-tion (with  God)  on  the  Holy  Word 2.
+soul ;  wisdom  and  the  knowledge  that  gives  happiness ^  the  victorious  strength  given  by  Ahura,  the
+crushing  Ascendant  of  Asha  Vahi^ta,  and  conversation (with  God)  on  the  Holy  Word 2.
 
 34.  'Grant  that  we,  in  a  good  spirit  and  high  spirit,
 exalted  in  joy  and  a  good  spirit,  may  smite  all  our
@@ -6947,8 +6619,7 @@ IX.
 sleepless,  and  ever  awake ;
 
 'Victory-making^,  army-governing,  endowed  with
-a  thousand  senses^ ;  power-wielding,  power-possess-
-ing, and  all-knowing ;
+a  thousand  senses^ ;  power-wielding,  power-possessing, and  all-knowing ;
 
 36.  '  Who  sets  the  battle  a  going,  who  stands
 against  (armies)  in  battle,  who,  standing  against
@@ -7030,8 +6701,7 @@ of  wide   pastures,  angry,  offended,  and  unsatisfied,
 comes  and  meets  them^.
 
 42.  '  They  cry  unto  MIthra,  the  lord  of  wide
-pastures,  saying  :  "  O  Mithra,  thou  lord  of  wide  pas-
-tures !  here  are  our  fiery  horses  taking  us  away,  as
+pastures,  saying  :  "  O  Mithra,  thou  lord  of  wide  pastures !  here  are  our  fiery  horses  taking  us  away,  as
 they  flee  from  Mithra ;  here  are  our  sturdy  arms  cut
 to  pieces  by  the  sword,  O  Mithra!"
 
@@ -7059,8 +6729,7 @@ the  material  world,  large-,  unconfined^,  and  bright,
 a  far-and-wlde-extending  abode.
 
 45.  'Whose  eight  friends^  sit  as  spies  for  Mithra,
-on  all  the  heights,  at  all  the  watching-places,  observ-
-ing the  man  who  lies  unto  Mithra,  looking  at  those,
+on  all  the  heights,  at  all  the  watching-places,  observing the  man  who  lies  unto  Mithra,  looking  at  those,
 rememberinor  those  who  have  lied  unto  Mithra,  but
 guarding  the  ways  of  those  whose  life  Is  sought  by
 
@@ -7095,10 +6764,8 @@ XI.
 47.  *We  sacrifice  unto  Mithra,  the  lord  of  wide  pastures,  ....
 sleepless,  and  ever  awake ;
 
-'  A  god  of  high  renown  and  old  age  ^  whom  wide-
-hoofed  horses  carry  against  havocking  hosts,  against
-enemies  coming  in  battle  array,  in  the  strife  of  con-
-flicting nations^,
+'  A  god  of  high  renown  and  old  age  ^  whom  widehoofed  horses  carry  against  havocking  hosts,  against
+enemies  coming  in  battle  array,  in  the  strife  of  conflicting nations^,
 
 48.  '  And  when  Mithra  drives  along  towards  the
 
@@ -7138,8 +6805,7 @@ K    2
 built  up  a  dwelling  on  the  Hara  Berezaiti,  the  bright
 mountain  around  which  the  many  (stars)  revolve  \
 where  come  neither  night  nor  darkness,  no  cold
-wind  and  no  hot  wind,  no  deathful  sickness,  no  un-
-cleanness  made  by  the  Daevas,  and  the  clouds
+wind  and  no  hot  wind,  no  deathful  sickness,  no  uncleanness  made  by  the  Daevas,  and  the  clouds
 cannot  reach  up  unto  the  Haraiti  Bareza^;
 
 51.  'A  dwelling  that  all  the  Amesha-Spe^ittas,  in
@@ -7188,8 +6854,7 @@ in  which  I  were  invoked  by  my  own  name,  as  they
 worship  the  other  Yazatas  with  sacrifices  in  which
 they  are  invoked  by  their  own  names,  then  I  would
 come  to  the  faithful  at  the  appointed  time  ;  I  would
-come  in  the  appointed  time  of  my  beautiful,  im-
-mortal life."
+come  in  the  appointed  time  of  my  beautiful,  immortal life."
 
 56  \  '  But  the  pious  man,  holding  libations  in  his
 hands,  does  worship  thee  with  a  sacrifice,  in  which
@@ -7211,17 +6876,14 @@ libations,  O  thou  undeceivable  Mithra !
 57.  '  Listen  unto  our  sacrifice,  O  Mithra!  Be  thou
 pleased  with  our  sacrifice,  O  Mithra!  Come  and  sit
 at  our  sacrifice  !  Accept  our  libations  !  Accept  them
-as  they  have  been  consecrated  !  Gather  them  toge-
-ther with  love  and  lay  them  in  the  Garo-nmana!
+as  they  have  been  consecrated  !  Gather  them  together with  love  and  lay  them  in  the  Garo-nmana!
 
 58.  '  Grant  us  these  boons  which  we  beg  of  thee,
 O  powerful  god!  in  accordance  with  the  words  of
 revelation,  namely,  riches,  strength,  and  victory,
 good  conscience  and  bliss,  good  fame  and  a  good
-soul ;  wisdom  and  the  knowledge  that  gives  happi-
-ness, the  victorious  strength  given  by  Ahura,  the
-crushing  Ascendant  of  Asha-Vahi^ta,  and  conver-
-sation (with  God)  on  the  Holy  Word.
+soul ;  wisdom  and  the  knowledge  that  gives  happiness, the  victorious  strength  given  by  Ahura,  the
+crushing  Ascendant  of  Asha-Vahi^ta,  and  conversation (with  God)  on  the  Holy  Word.
 
 
 '  §§  56-59  =  §§  30-34-
@@ -7258,8 +6920,7 @@ sleepless,  and  ever  awake  ;
 'Whose  renown  is  good,  whose  shape  is  good,
 whose  glory  is  good ;  who  has  boons  to  give  at  his
 will,  who  has  pasture-fields  to  give  at  his  will ;
-harmless  to  the  tiller  of  the  ground,  .  .  .  .  ^  benefi-
-cent ;  he,  of  the  ten  thousand  spies,  the  powerful,
+harmless  to  the  tiller  of  the  ground,  .  .  .  .  ^  beneficent ;  he,  of  the  ten  thousand  spies,  the  powerful,
 all-knowing,  undeceivable  god.
 
 '  For  his  brightness  and  glory,  I  will  offer  him  a  sacrifice  worth
@@ -7271,15 +6932,13 @@ XV.
 sleepless,  and  ever  awake ;
 
 '  Firm-legged  -,  a  watcher  fully  awake ;  valiant,  a
-chief  in  assemblies ;  making  the  waters  flow  for-
-ward ;  listening  to  appeals ;  making  the  waters  run
+chief  in  assemblies ;  making  the  waters  flow  forward ;  listening  to  appeals ;  making  the  waters  run
 and  the  plants  grow  up ;    ruling   over  the  Karsh-
 
 
 ^  The  text  is  corrupt  (vaso-yaonai  inatam  ?).
 
-^  Eredhw6-za?zgem:  sudr/a'/ia^ahghata,  kila  karye  yad  pada-
-bhyam  yu^yate  kartum  vyavasayi  ^aktaj-^^a  (Yasna  LXII,  5  [LXI,
+^  Eredhw6-za?zgem:  sudr/a'/ia^ahghata,  kila  karye  yad  padabhyam  yu^yate  kartum  vyavasayi  ^aktaj-^^a  (Yasna  LXII,  5  [LXI,
 13]).
 
 
@@ -7316,15 +6975,13 @@ XVI.
 64.  'We  sacrifice  unto  Mithra,  the  lord  of  wide  pastures,  ....
 sleepless,  and  ever  awake  ;
 
-'  Who  takes  possession  ^  of  the  beautiful,  wide-
-expanding  law,  greatly  and  powerfully,  and  whose  face
+'  Who  takes  possession  ^  of  the  beautiful,  wideexpanding  law,  greatly  and  powerfully,  and  whose  face
 looks  over  all  the  seven  Karshvares  of  the  earth ;
 
 65.  '  W^ho  is  swift  amongst  the  swift,  liberal
 amongst  the  liberal,  strong  amongst  the  strong,  a
 chief  of  assembly  amongst  the  chiefs  of  assemblies  ;
-increase-giving,  fatness-giving,  cattle-giving,  sove-
-reignty-giving, son-giving,  cheerfulness '-giving,  and
+increase-giving,  fatness-giving,  cattle-giving,  sovereignty-giving, son-giving,  cheerfulness '-giving,  and
 bliss  ''-giving.
 
 ^  Kari-o-razanghem:  ke^-var  virai  (Pahl.  tr.  ibid.).
@@ -7338,14 +6995,9 @@ for.  Vend.  XX,  i  [3]).
 '  Cf.  Yt.  X,  5,  p.  121,  notes  i  and  2.
 
 
-136  YA5TS    AND    sIroZAHS.
-
-
-66.  '  With  whom  proceed  Ashi  Vanguhi,  and  Pa-
-rendi  on  her  hght  chariot  S  the  awful  Manly  Courage,
+66.  '  With  whom  proceed  Ashi  Vanguhi,  and  Parendi  on  her  hght  chariot  S  the  awful  Manly  Courage,
 the  awful  kingly  Glory,  the  awful  sovereign  Sky,  the
-awful  cursinor  thouorht  -  of  the  wise,  the  awful  Fra-
-vashis  of  the  faithful,  and  he  who  keeps  united  toge-
+awful  cursinor  thouorht  -  of  the  wise,  the  awful  Fravashis  of  the  faithful,  and  he  who  keeps  united  toge-
 ther the  many  faithful  worshippers  of  Mazda  \
 
 '  For  his  brightness  and  glory,  I  will  offer  him  a  sacrifice  worth
@@ -7360,8 +7012,7 @@ sleepless,  and  ever  awake  ;
 *Who  drives  along  on  his  high-wheeled  chariot,
 made  of  a  heavenly*  substance,  from  the  Karshvare
 of  Arezahi  ^  to  the  Karshvare  of  //z^aniratha,  the
-bright  one ;  accompanied  by  ^  the  wheel  of  sove-
-reignty ^  the  Glory  made  by  Mazda,  and  the  Victory
+bright  one ;  accompanied  by  ^  the  wheel  of  sovereignty ^  the  Glory  made  by  Mazda,  and  the  Victory
 made  by  Ahura ;
 
 68.  'Whose  chariot  is  embraced^  by  the  great
@@ -7409,8 +7060,7 @@ XVIII.
 sleepless,  and  ever  awake ;
 
 *  Before  whom  Verethraghna,  made  by  Ahura,  runs
-opposing  the  foes  in  the  shape  of  a  boar  ^,  a  sharp-
-toothed  he-boar,  a  sharp-jawed  boar,  that  kills  at
+opposing  the  foes  in  the  shape  of  a  boar  ^,  a  sharptoothed  he-boar,  a  sharp-jawed  boar,  that  kills  at
 one  stroke,  pursuing^,  wrathful,  with  a  dripping  face;
 strong,  with  iron  feet,  iron  fore-paws*,  iron  weapons,
 an  iron  tail,  and  iron  jaws  ;
@@ -7463,8 +7113,7 @@ which  I  were  invoked  by  my  own  name,  as  they
 worship  the  other  gods  with  sacrifices  in  which  they
 are  invoked  by  their  own  names,  then  I  should
 come  to  the  faithful  at  the  appointed  time ;  I  should
-come  in  the  appointed  time  of  my  beautiful,  im-
-mortal life  ^."
+come  in  the  appointed  time  of  my  beautiful,  immortal life  ^."
 
 75.  'May  we  keep  our  field;  may  we  never  be
 exiles^  from  our  field,  exiles  from  our  house,  exiles
@@ -7486,8 +7135,7 @@ that  we,  abiding  in  thee,  may  long  inhabit  a  good
 abode,  full  of  all  the  riches  that  can  be  wished  for.
 
 
-^  They  have  worshipped  him  and  he  has  consequently  over-
-come the  Mithradru^es  j  this  accounts  for  the  word  rejoicing.
+^  They  have  worshipped  him  and  he  has  consequently  overcome the  Mithradru^es  j  this  accounts  for  the  word  rejoicing.
 2  Cf.  Yt.  X,  55.  '  Iric;  cf.  linquo.
 
 
@@ -7513,11 +7161,9 @@ sleepless,  and  ever  awake ;
 '  Who  made  a  dwelling  for  Rashnu  \  and  to  whom
 Rashnu  gave  all  his  soul  for  long  friendship ;
 
-80.  '  Thou  art  a  keeper  and  protector  of  the  dwell-
-ing of  those  who  lie  not:  thou  art  the  maintainer  of
+80.  '  Thou  art  a  keeper  and  protector  of  the  dwelling of  those  who  lie  not:  thou  art  the  maintainer  of
 those  who  lie  not.  With  thee  hath  Verethraghna,
-made  by  Ahura,  contracted  the  best  of  all  friend-
-ships ^,  and  thus  it  is  how  so  many  men  who  have
+made  by  Ahura,  contracted  the  best  of  all  friendships ^,  and  thus  it  is  how  so  many  men  who  have
 lied  unto  Mithra,  even  privily^,  lie  smitten  down  on
 the  ground.
 
@@ -7548,8 +7194,7 @@ liar  (§  80).
 senses  ^  and  ten  thousand  eyes  to  see.  With  those
 eyes  and  those  senses,  he  watches  the  man  who
 injures  Mithra,  the  man  who  Hes  unto  Mithra,
-Through  those  eyes  and  those  senses,  he  is  unde-
-ceivable,  he,  of  the  ten  thousand  spies,  the  powerful,
+Through  those  eyes  and  those  senses,  he  is  undeceivable,  he,  of  the  ten  thousand  spies,  the  powerful,
 all-knowing,  undeceivable  god.
 
 '  For  his  brightness  and  glory,  I  will  offer  him  a  sacrifice  worth
@@ -7582,8 +7227,7 @@ for  help,  with  hands  uplifted.
 85.  '  The  voice  of  his  wailing  reaches  up  to  the
 sky,  it  goes  over  the  earth  all  around,  it  goes  over
 
-^  Yaokhjti,  the  root  of  Persian  ny6jidan,  Pahlavi  niyokh-
-jitan,  to  hear;  one  might  be  inclined  to  translate  'a  thousand
+^  Yaokhjti,  the  root  of  Persian  ny6jidan,  Pahlavi  niyokhjitan,  to  hear;  one  might  be  inclined  to  translate  'a  thousand
 ears,'  or  '  a  thousand  hearings ;'  but  the  meaning  of  the  word  must
 have  been  rather  more  general,  as  Neriosengh  translates  it
 (prawidhi,  IX,  8  [25]).
@@ -7649,8 +7293,7 @@ Sicut  et  Cacus  Vulcani  filius  ille.'
 the    undefiled    to    one    undefiled,    with    undefiled
 baresma,  undefiled  Hbations,  and  undefiled  words;
 
-89.  'Whom^  the  holy  Ahura  Mazda  has  estab-
-lished as  a  priest,  quick  in  performing  the  sacrifice
+89.  'Whom^  the  holy  Ahura  Mazda  has  established as  a  priest,  quick  in  performing  the  sacrifice
 and  loud  in  song.  He  performed  the  sacrifice  with
 a  loud  voice,  as  a  priest  quick  in  sacrifice  and  loud
 in  song,  a  priest  to  Ahura  Mazda,  a  priest  to
@@ -7677,8 +7320,7 @@ well-washed,  with  the  bundles  of  baresma  tied  up,
 the  Haoma  uplifted,  and  the  Ahuna  Vairya  sung
 through.
 
-92.  '  The  holy  Ahura  Mazda  confessed  that  reli-
-gion and  so  did  Vohu-Mano,  so  did  Asha-Vahii-ta,
+92.  '  The  holy  Ahura  Mazda  confessed  that  religion and  so  did  Vohu-Mano,  so  did  Asha-Vahii-ta,
 so  did  Khshathra -Vairya,  so  did  Spe;^ta-Armaiti,  so
 
 
@@ -7700,18 +7342,15 @@ amongst  all  creatures  the  right  lord  and  master  of
 the  world,  the  best  cleanser  of  these  creatures.
 
 93.  '  So  mayest  thou  in  both  worlds,  mayest  thou
-keep  us  in  both  worlds,  O  Mithra,  lord  of  wide  pas-
-tures! both  in  this  material  world  and  in  the  world  of
+keep  us  in  both  worlds,  O  Mithra,  lord  of  wide  pastures! both  in  this  material  world  and  in  the  world  of
 the  spirit,  from  the  fiend  of  Death,  from  the  fiend
 Aeshma  -,  from  the  fiendish  hordes,  that  lift  up  the
 spear  of  havoc,  and  from  the  onsets  of  Aeshma,
 wherein  the  evil-doing  Aeshma  rushes  along  with
 Vidotu  ^,  made  by  the  Daevas.
 
-94.  '  So  mayest  thou,  O  Mithra,  lord  of  wide  pas-
-tures !  give  swiftness  to  our  teams,  strength  to  our
-own  bodies,  and  that  we  may  watch  with  full  suc-
-cess those  who  hate  us,  smite  down  our  foes,  and
+94.  '  So  mayest  thou,  O  Mithra,  lord  of  wide  pastures !  give  swiftness  to  our  teams,  strength  to  our
+own  bodies,  and  that  we  may  watch  with  full  success those  who  hate  us,  smite  down  our  foes,  and
 destroy  at  one  stroke  our  adversaries,  our  enemies
 and  those  who  hate  us^.
 
@@ -7741,9 +7380,6 @@ the  west  to  the  east  with  its  dark  face  turned  towards  the  earth.
 ^„  ^ ,
 
 
-144  YA5TS    AND    SIROZAHS
-
-
 this  wide,  round  earth,  whose  ends  lie  afar,  and
 surveys  everything  that  is  between  the  earth  and
 the  heavens,
@@ -7755,8 +7391,7 @@ strong,  golden  brass ;  the  strongest  of  all  weapons,
 the  most  victorious  of  all  weapons  ^ ;
 
 97.  '  From  whom  Angra  Malnyu,  who  is  all  death,
-flees  away  in  fear  ;  from  whom  Aeshma,  the  evil-
-doing  Peshotanu  2,  flees  away  in  fear ;  from  whom
+flees  away  in  fear  ;  from  whom  Aeshma,  the  evildoing  Peshotanu  2,  flees  away  in  fear ;  from  whom
 the  long-handed  Bushyasta^  flees  away  in  fear;
 from  whom  all  the  Daevas  unseen  and  the  Varenya
 fiends  flee  away  in  fear  *.
@@ -7782,9 +7417,6 @@ sleepless,  and  ever  awake ;
 Varenya  fiends  flee  away  in  fear^.
 
 
-3
-
-
 Cf.  §  132.  '^  See  Vend.  Introd.  V,  19.
 
 See  ibid.  IV,  24.  *  Cf.  §  69.
@@ -7806,8 +7438,7 @@ Sraosha ;  at  his  left  hand  drives  the  tall  and  strong
 Rashnu  ;  on  all  sides  around  him  drive  the  waters,
 the  plants,  and  the  Fravashis  of  the  faithful.
 
-loi.  'In  his  might,  he  ever  brings  to  them  falcon-
-feathered  arrows,  and,  when  driving,  he  himself
+loi.  'In  his  might,  he  ever  brings  to  them  falconfeathered  arrows,  and,  when  driving,  he  himself
 comes  there,  where  are  nations,  enemy  to  Mithra,
 he,  first  and  foremost,  strikes  blows  with  his  club
 on  the  horse  and  his  rider;  he  throws  fear  and
@@ -7837,9 +7468,6 @@ being  heard  ....
 
 ^  Fravoij;  Parsi  tradition  translates  large:  fraz  (tr.  Phi.),
 buland  (Asp.,  Yasna  LVII,  15  [LVI,  7,  3]).
-
-
-[23]
 
 
 A  ,
@@ -7884,8 +7512,7 @@ the  good  words  of  the  heavenly  Mithra;
 2  The  Rangha  or  Tigris.  The  words  ag^urvayeiti  and
 nighne,  'he  seizes,  he  beats,'  are  the  words  used  of  the  priest
 laying  the  Haoma  in  the  mortar  and  pounding  it  with  the  pestle
-(Yasna,  X,  2  [4-5]).  The  Sind  and  the  Rangha  are  thus  com-
-pared with  the  two  parts  of  the  Havana,  the  land  between  is  the
+(Yasna,  X,  2  [4-5]).  The  Sind  and  the  Rangha  are  thus  compared with  the  two  parts  of  the  Havana,  the  land  between  is  the
 Haoma,  and  Mithra's  arms  are  the  arms  of  the  priest.
 
 ^  Sanake,  an  aira^  Xeyofifvov;  opposed  to  the  aodhas  of  the
@@ -7947,9 +7574,6 @@ he 3  soothes  thy  mind,  and  makes  Mithra  satisfied.
 L  2
 
 
-148  YA5TS   AND   SIROZAHS.
-
-
 1 10.  *"To  whom  shall  I,  m  my  might,  impart
 sickness  and  death  ?  To  whom  shall  I  impart
 poverty  and  sterility^?  Of  whom  shall  I  at  one
@@ -8004,8 +7628,7 @@ whistle  and  shoot  sharp  arrows ;  then  the  brood  of
 those  whose  libations  are  hated  fall  smitten  to  the
 ground,  with  their  hair  torn  off.
 
-114.  'So  mayest  thou,  O  Mithra,  lord  of  wide  pas-
-tures !  give  swiftness  to  our  teams,  strength  to  our
+114.  'So  mayest  thou,  O  Mithra,  lord  of  wide  pastures !  give  swiftness  to  our  teams,  strength  to  our
 own  bodies,  and  that  we  may  watch  with  full  success
 those  who  hate  us,  smite  down  our  foes,  and  destroy
 at  one  stroke  our  adversaries,  our  enemies,  and
@@ -8035,12 +7658,10 @@ same  groups;
 
 «  SeeYt.  V,  53;  X,  11,  94.
 
-*  The  chief  of  the  sacerdotal  order,  the  so-called  Maubedan-
-maused.
+*  The  chief  of  the  sacerdotal  order,  the  so-called  Maubedanmaused.
 
 ^  Or  'the  contract  is  twentyfold  ....,'  that  is,  twenty  times
-more  strictly  binding  than  between  any  two  strangers.  This  pas-
-sage is  one  of  the  most  important  of  the  Avesta,  as  a  short  account
+more  strictly  binding  than  between  any  two  strangers.  This  passage is  one  of  the  most  important  of  the  Avesta,  as  a  short  account
 of  the  social  constitution  and  morals  of  Zoroastrian  Iran.
 
 *  Of  the  same  gild  (svapahkti,  ap.  Neriosengh).
@@ -8100,8 +7721,7 @@ order  thy  pupils  to  do  the  same.
 
 ^  A  fair  recognition  of  the  jus  gentium.
 
-3  The  contract  between  the  faithful  and  the  Law,  the  cove-
-nant (?).
+3  The  contract  between  the  faithful  and  the  Law,  the  covenant (?).
 
 ^  Reading  [hjamahe  ayan.
 
@@ -8178,8 +7798,7 @@ sleepless,  and  ever  awake ;
 '  To  whom  Ahura  Mazda  offered  up  a  sacrifice  in
 the  shining  Garo-nmana  ^
 
-124.  'With  his  arms  Hfted  up  towards  Immor-
-tality*, Mithra,  the  lord  of  wide  pastures,  drives
+124.  'With  his  arms  Hfted  up  towards  Immortality*, Mithra,  the  lord  of  wide  pastures,  drives
 forward  from  the  shining  Garo-nmana,  in  a  beautiful
 chariot  that  drives  on,  ever-swift,  adorned  with  all
 sorts  of  ornaments,  and  made  of  gold.
@@ -8226,8 +7845,7 @@ thought  2  of  the  Law  of  Mazda.
 
 127.  'Close  by  him  drives  the  strong  cursing
 thought  2  of  the  wise  man,  opposing  foes  in  the
-shape  of  a  boar,  a  sharp-toothed  he-boar,  a  sharp-
-jawed  boar,  that  kills  at  one  stroke,  pursuing,
+shape  of  a  boar,  a  sharp-toothed  he-boar,  a  sharpjawed  boar,  that  kills  at  one  stroke,  pursuing,
 wrathful,  with  a  dripping  face  ^  strong  and  swift
 to  run,  and  rushing  all  around  *.
 
@@ -8265,22 +7883,17 @@ XIV,  15.
 ^  The  Genius  of  Fire.     '  See  p.  95,  note  i.     ''A  golden  point.
 
 
-154  YA^TS    AND    SIROZAHS.
-
-wide  pastures,  stand  a  thousand  steel-hammers,  two-
-edged,  well-made.  They  go  through  the  heavenly-
+wide  pastures,  stand  a  thousand  steel-hammers,  twoedged,  well-made.  They  go  through  the  heavenly-
 space,  they  fall  through  the  heavenly  space  upon
 the  skulls  of  the  Daevas.
 
 131.  'On  a  side  of  the  chariot  of  Mithra,  the  lord
-of  wide  pastures,  stand  a  thousand  swords,  two-
-edged  and  well-made.  They  go  through  the  hea-
+of  wide  pastures,  stand  a  thousand  swords,  twoedged  and  well-made.  They  go  through  the  hea-
 venly space,  they  fall  through  the  heavenly  space
 upon  the  skulls  of  the  Daevas.
 
 'On  a  side  of  the  chariot  of  Mithra,  the  lord  of
-wide  pastures,  stand  a  thousand  maces  of  iron,  well-
-made.  They  go  through  the  heavenly  space,  they
+wide  pastures,  stand  a  thousand  maces  of  iron,  wellmade.  They  go  through  the  heavenly  space,  they
 fall  through  the  heavenly  space  upon  the  skulls  of
 the  Daevas.
 
@@ -8457,9 +8070,6 @@ U^^  ^j^\j^^,j^  (Pers.  tr.  of  Mihir  Nyayij-).
 *■„   A  ,
 
 
-158  YA^TS    AND    SIROZAHS.
-
-
 'We  sacrifice  unto  the  Mithra  in  this  country^;
 '  We  sacrifice  unto  the  Mithra  above  countries ;
 
@@ -8505,10 +8115,8 @@ SROSH    VAST    HADHOKHT.  1 59
 
 XI.     SROSH  YA^-T  HADHOKHT.
 
-There  are  two  Yajts  dedicated  to  Sraosha,  the  angel  of  divine  wor-
-ship^: one  is  a  part  of  the  Yasna  (LVII  [LVI]),  and  this,  the  other,
-is  called  the  Srosh  Yzst  Hadhokht.  Whether  it  belonged  to  the  so-
-called  Hadhokht  Nosk  ^,  one  of  the  twenty-one  Nosks  of  which
+There  are  two  Yajts  dedicated  to  Sraosha,  the  angel  of  divine  worship^: one  is  a  part  of  the  Yasna  (LVII  [LVI]),  and  this,  the  other,
+is  called  the  Srosh  Yzst  Hadhokht.  Whether  it  belonged  to  the  socalled  Hadhokht  Nosk  ^,  one  of  the  twenty-one  Nosks  of  which
 the  original  Avesta  was  formed ',  or  whether  it  was  recited  in  the
 Hadhokht  sacrifice  *,  a  particular  liturgy,  is  a  matter  on  which  we
 have  no  sufficient  information.
@@ -8529,14 +8137,12 @@ o.  May  Ahura  Mazda  be  rejoiced  I  . . .  .
 
 Ashem  Vohu  :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thuj-tra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathuj-tra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
 
-Unto  the  holy,  strong  Sraosha,  who  is  the  incar-
-nate Word,  a  mighty-speared  and  lordly  god,
+Unto  the  holy,  strong  Sraosha,  who  is  the  incarnate Word,  a  mighty-speared  and  lordly  god,
 
 Be  propitiation,  with  sacrifice,  prayer,  propitiation,
 and  glorification.
@@ -8556,16 +8162,14 @@ l6o  YASTS    AND    SIROZAHS.
 
 I.
 
-1.  We  sacrifice  unto  the  holy,  tall-formed,  fiend-
-smiting  Sraosha,  who  makes  the  world  increase,
+1.  We  sacrifice  unto  the  holy,  tall-formed,  fiendsmiting  Sraosha,  who  makes  the  world  increase,
 the  holy  and  master  of  holiness.
 
 Good  prayer,  excellent  prayer  to  the  worlds  \  O
 Zarathui-tra !
 
 2.  This  it  is  that  takes  away  the  friendship  of
-the  fiend  and  fiends,  of  the  he-fiend  and  of  the  she-
-fiend  ;  it  turns  away  in  giddiness  their  eyes,  minds,
+the  fiend  and  fiends,  of  the  he-fiend  and  of  the  shefiend  ;  it  turns  away  in  giddiness  their  eyes,  minds,
 ears  ^,  hands,  feet,  mouths,  and  tongues  ^ ;  as  good
 prayer,  without  deceit  and  without  harm,  is  Manly
 Courage  *,  and  turns  away  the  Dru^  ^.
@@ -8625,8 +8229,7 @@ malice  of  the  thief  ^  who  carries  off  cattle  shall  not
 reach  him.
 
 6.  Pronounce  then  that  word,  O  Zarathu^tra  !  that
-word  to  be  spoken  ^  when  thou  fall  upon  the  idola-
-ters ^  and  thieves  and  Daevas  rushing  together.
+word  to  be  spoken  ^  when  thou  fall  upon  the  idolaters ^  and  thieves  and  Daevas  rushing  together.
 Then  the  malice  of  the  wicked  worshippers  of  the
 Daevas,  of  the  Yatus  and  their  followers,  of  the
 Pairikas  and  their  followers,  will  be  affrighted  and
@@ -8634,8 +8237,7 @@ rush  away.  Down  are  the  Daevas !  Down  are  the
 Daeva-worshippers,  and  they  take  back  their  mouths
 from  biting'^.
 
-*  Different  words  are  used,  as  usual,  to  express  the  same  con-
-flict, according  as  it  refers  to  the  faithful  or  to  the  idolaters.
+*  Different  words  are  used,  as  usual,  to  express  the  same  conflict, according  as  it  refers  to  the  faithful  or  to  the  idolaters.
 
 '  Aipi-ayanam:  madam  ras.
 
@@ -8656,14 +8258,9 @@ were  the  name  of  Christ ;  cf.  Bahman  Yast  II,  19 ;  III,  2.
 [23]  M
 
 
-1 62  YA5TS    AND    siROZAHS.
-
-
-7.  And  therefore  we  take  around  us  the  holy-
-natured  Sraosha,  the  holy,  the  fiend-smiter,  as  one
+7.  And  therefore  we  take  around  us  the  holynatured  Sraosha,  the  holy,  the  fiend-smiter,  as  one
 does  with  shepherds'  dogs ;  therefore  we  sacrifice
-unto  the  holy-natured  Sraosha,  the  holy,  the  fiend-
-smiter,  with  good  thoughts,  good  words,  and  good
+unto  the  holy-natured  Sraosha,  the  holy,  the  fiendsmiter,  with  good  thoughts,  good  words,  and  good
 deeds.
 
 8  \  For  his  brightness  and  glory,  for  his  strength
@@ -8677,8 +8274,7 @@ So  may  the  holy  Sraosha,  the  fiend-smiter,  come
 to  us  for  help  !
 
 9.  We  worship  the  holy  Sraosha ;  we  worship  the
-great  master,  Ahura  Mazda,  who  is  supreme  in  holi-
-ness, who  is  the  foremost  to  do  deeds  of  holiness.
+great  master,  Ahura  Mazda,  who  is  supreme  in  holiness, who  is  the  foremost  to  do  deeds  of  holiness.
 
 We  worship  all  the  words  ^  of  Zarathu^tra,  and
 all  the  good  deeds,  those  done  and  those  to  be
@@ -8742,23 +8338,18 @@ who  makes  the  world  increase,  the  holy  and  master  of  holiness ;
 
 Who  with  peace  and  friendship*  watches  the
 Dru^  and  the  most  beneficent  Spirit :  so  that  the
-Amesha-Spe/2tas  may  go  along  the  seven  Karsh-
-vares    of  the    earth  ^ ;    who   is   the    teacher   of  the
+Amesha-Spe/2tas  may  go  along  the  seven  Karshvares    of  the    earth  ^ ;    who   is   the    teacher   of  the
 
 
 ^  Cf.  above,  p.  145,  note  i.  ^  To  hell.
 
 ^  As  above,  §§  8-9,  *  To  the  creation  of  Ormazd.
 
--  Doubtful.  The  Yasna  has:  'Through  whose  strength,  vic-
-torious power,  wisdom,  and  knowledge  the  Amesha-Spewtas  go
+-  Doubtful.  The  Yasna  has:  'Through  whose  strength,  victorious power,  wisdom,  and  knowledge  the  Amesha-Spewtas  go
 (avan;  Phi.  satiinand)  along  the  seven  Karshvares  of  the  earth'
 (LVII,  23  [LVI,  10,  2]).
 
 M    2
-
-
-1 64  YA5TS    AND    sIroZAHS.
 
 
 Law  1 :   he  himself  was  taught  it  by  Ahura  Mazda,
@@ -8924,8 +8515,7 @@ Spe?^tas ;
 SROSH    YAST    HADHOKHT.  167
 
 We  sacrifice  unto  the  bodies  of  ourselves,  the
-Saoshya;2/s,  the  two-footed  part  of  the  holy  crea-
-tion ;
+Saoshya;2/s,  the  two-footed  part  of  the  holy  creation ;
 
 We  sacrifice  unto  the  bodies  of  all  the  beings  of
 the  holy  world  ^
@@ -8937,8 +8527,7 @@ power  ....
 holiness  ....
 
 I  bless  the  sacrifice  and  prayer,  the  strength  and
-vigour  of  the  holy,  strong  Sraosha,  who  is  the  in-
-carnate Word,  a  mighty-speared  and  lordly  god.
+vigour  of  the  holy,  strong  Sraosha,  who  is  the  incarnate Word,  a  mighty-speared  and  lordly  god.
 
 [Give]  unto  that  man^  brightness  and  glory,  ....  give  him  the
 bright,  all-happy,  blissful  abode  of  the  holy  Ones !
@@ -8980,8 +8569,7 @@ o.  May  Ahura  Mazda  be  rejoiced  !  .  .  .  .
 
 AshemVohu:  Holiness  is  the  best  Of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness.
@@ -8997,8 +8585,7 @@ the  true-spoken  speech,  that  makes  the  world  grow^;
 RASHN    YA5'T.  1 69
 
 
-Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glorifi-
-cation.
+Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glorification.
 
 YathS  ahii  vairy6:  The  will  of  the  Lord  is  the  law  of
 holiness  ....
@@ -9007,8 +8594,7 @@ I.
 
 1.  The  holy  (Zarathuj'tra)  asked  him  M  '  O  holy
 Ahura  Mazda!  I  ask  thee ;  answer  me  with  words  of
-truth,  thou  who  knowest  the  truth.  Thou  art  unde-
-ceivable,  thou  hast  an  undeceivable  understanding ;
+truth,  thou  who  knowest  the  truth.  Thou  art  undeceivable,  thou  hast  an  undeceivable  understanding ;
 thou  art  undeceivable,  as  thou  knowest  everything.
 
 '  What  of  the  Holy  Word  is  created  true?  what  is
@@ -9046,8 +8632,6 @@ we  bless  me,  Ahura  Mazda.'
 "  Literally,  the  fat.
 
 
-170  YA5TS    AND    SIROZAHS.
-
 4.  'Then  I,  Ahura  Mazda,  shall  come  for  help
 unto  thee,  towards  this  var  prepared,  towards
 the  fire  and  the  baresma,  towards  the  full  boiling
@@ -9084,8 +8668,7 @@ Rashnu!    most    far-seeing   Rashnu!     Rashnu,    the
 ^  Var 6;  this  seems  to  be  the  Var  nirang  or  ordeal  which
 is  alluded  to  in  several  passages  of  the  Avesta ;  of.  Afrigan  I,  9  ;
 Yasna  XXXI,  3  b  (see  Pahl.  Comm. ;  of.  Coram,  ad  XXXIV,  4  a) ;
-cf.  Vend.  IV,  46,  55.  According  to  the  Dinkart,  there  were  thirty-
-three  kinds  of  var  ordeals  (Haug,  Arda  Viraf,  p.  145);  the  most
+cf.  Vend.  IV,  46,  55.  According  to  the  Dinkart,  there  were  thirtythree  kinds  of  var  ordeals  (Haug,  Arda  Viraf,  p.  145);  the  most
 common  was  to  pour  melted  copper  upon  the  breast  of  the  man
 whose  truth  was  to  be  tested :  if  he  went  off  uninjured,  he  was
 considered  to  have  spoken  the  truth.     Cf  Vend.  Inirod.  Ill,  9.
@@ -9097,8 +8680,7 @@ RASHN    VAST.  I7I
 best  doer  of  justiceM    Rashnu,  the  best  smiter  of
 thieves ;
 
-8.  '  The  uninjured,  the  best  killer,  smiter,  de-
-stroyer of  thieves  and  bandits !  in  whatever  part  of
+8.  '  The  uninjured,  the  best  killer,  smiter,  destroyer of  thieves  and  bandits !  in  whatever  part  of
 the  world  thou  art  watching  the  doings  ^  of  men  and
 making  the  account  ,  .  .  .  ^
 
@@ -9232,12 +8814,6 @@ at  the  mouth  of  the  Tigris.
 and  northern  basin  of  the  Tigris.
 
 
-174
-
-
-YA5'TS    AND    SIROZAHS.
-
-
 XIII.
 
 20.  'Whether  thou,  O  holy  Rashnu!   art  at  one
@@ -9268,8 +8844,7 @@ the  many  (stars)  revolve,  where  come  neither  night
 nor  darkness,  no  cold  wind  and  no  hot  wind,  no
 deathful  sickness,  no  uncleanness  made  by  the
 Daevas,  and  the  clouds  cannot  reach  up  unto  the
-Haraiti  Bareza^;  we  invoke,  we  bless  Rashnu.  I  in-
-voke his  friendship  towards  this  var  prepared
+Haraiti  Bareza^;  we  invoke,  we  bless  Rashnu.  I  invoke his  friendship  towards  this  var  prepared
 
 XVII.
 
@@ -9293,8 +8868,7 @@ XVIII.
 25.  *  Whether  thou,  O  holy  Rashnu !  art  upon
 the  Taera  of  the  height  Haraiti,  around  which  the
 stars,  the  moon,  and  the  sun  revolve  ^  we  Invoke,
-we  bless  Rashnu,  the  strong.  I  invoke  his  friend-
-ship towards  this  var  prepared  ....
+we  bless  Rashnu,  the  strong.  I  invoke  his  friendship towards  this  var  prepared  ....
 
 XIX.
 
@@ -9354,14 +8928,12 @@ XXV.
 
 32.  'Whether  thou,  O  holy  Rashnu!  art  in  the
 stars  that  belong  to  the  Good  Spirit  ^  we  invoke,
-we  bless  Rashnu,  the  strong.  I  invoke  his  friend-
-ship towards  this  var  prepared  ....
+we  bless  Rashnu,  the  strong.  I  invoke  his  friendship towards  this  var  prepared  ....
 
 XXVI.
 
 33.  'Whether  thou,  O  holy  Rashnu!  art  In  the
-moon  which  has  the  seed  of  the  Bull  in  it^  we  in-
-voke, we  bless  Rashnu,  the  strong.  I  invoke  his
+moon  which  has  the  seed  of  the  Bull  in  it^  we  invoke, we  bless  Rashnu,  the  strong.  I  invoke  his
 friendship  towards  this  var  prepared  ....
 
 for  the  increase  of  cattle  ;  and  the  essence  of  water,  and  earth,  and
@@ -9413,8 +8985,7 @@ XXXI.
 we  invoke,  we  bless  Rashnu,  the  strong.  I  invoke
 his  friendship  towards  this  var  prepared  ....
 
-39.  '  For  his  brightness  and  glory,  I  will  ofler  unto  him  a  sacri-
-fice worth  being  heard  ....
+39.  '  For  his  brightness  and  glory,  I  will  ofler  unto  him  a  sacrifice worth  being  heard  ....
 
 '  The  highest  heaven,  the  abode  of  Ormazd.
 ^  ?Upa  hadhana  hadhana  tanasui';  cf.  §  8,  p.  171,  note  3.
@@ -9429,8 +9000,7 @@ holiness  ....
 
 '  I  bless  the  sacrifice  and  prayer,  and  the  strength
 and  vigour  of  Rashnu  Razi^ta ;  of  Ar^-ta/,  who
-makes  the  world  grow,  who  makes  the  world  in-
-crease ;  and  of  the  true-spoken  speech  that  makes
+makes  the  world  grow,  who  makes  the  world  increase ;  and  of  the  true-spoken  speech  that  makes
 the  world  grow.
 
 'AshemVohu:  Holiness  is  the  best  of  all  good  ....
@@ -9464,8 +9034,7 @@ of  the  Fravashis  of  the  most  celebrated  heroes  of  Mazdeism,  from
 the  first  man,  Gaya  Maretan,  down  to  the  last,  Saoshyaw/.
 
 This  latter  part  is  like  a  Homer's  catalogue  of  Mazdeism.
-The  greatest  part  of  the  historical  legends  of  Iran  lies  here  con-
-densed into  a  register  of  proper  names.  This  enumeration  is
+The  greatest  part  of  the  historical  legends  of  Iran  lies  here  condensed into  a  register  of  proper  names.  This  enumeration  is
 divided  into  seven  chapters  :
 
 The  first  (XXIV,  §§  85-95)  contains  the  names  of  several  gods,
@@ -9501,8 +9070,7 @@ N    2
 l8o  YA^-TS    AND    stROZAHS.
 
 name  of  AstvaZ-ereta  (that  is  to  say,  Saoshya«/),  which  shows  that
-they  do  not  refer  to  successive  generations,  but  to  three  inde-
-pendent branches,  which  are  each  developed  apart  down  to  the
+they  do  not  refer  to  successive  generations,  but  to  three  independent branches,  which  are  each  developed  apart  down  to  the
 time  of  the  Saviour.
 
 
@@ -9510,21 +9078,17 @@ o.  May  Ahura  Mazda  be  rejoiced  !  .  .  .  .
 
 Ashem  Vohu  :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness.
 
 Unto  the  awful,  overpowering  Fravashis  of  the
-faithful ;  unto  the  Fravashis  of  the  men  of  the  pri-
-mitive law^;  unto  the  Fravashis  of  the  next-of-kin,
+faithful ;  unto  the  Fravashis  of  the  men  of  the  primitive law^;  unto  the  Fravashis  of  the  next-of-kin,
 
-Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glori-
-fication.
+Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glorification.
 
-Yatha  ahii  vairyo:  The  will  of  the  Lord  is  the  law  of  holi-
-ness ....
+Yatha  ahii  vairyo:  The  will  of  the  Lord  is  the  law  of  holiness ....
 
 I.
 
@@ -9536,8 +9100,7 @@ and  overpowering  Fravashis  ;  do  thou  tell  how  they
 come  to  help  me,  how  they  bring  assistance  unto
 me,  the  awful  Fravashis  of  the  faithful  ^.
 
-2.  '  Through  their  brightness  and  glory,  O  Zara-
-thu^tra !  I  maintain  that  sky,  there  above,  shining
+2.  '  Through  their  brightness  and  glory,  O  Zarathu^tra !  I  maintain  that  sky,  there  above,  shining
 and  seen  afar,  and  encompassing  this  earth  all
 around.
 
@@ -9562,15 +9125,13 @@ Mazda  puts  on,  along  with  Mithra  and  Rashnu  and
 Spe;zta-Armaiti,  and  on  no  side  can  the  eye  perceive
 the  end  of  it.
 
-4.  *  Through  their  brightness  and  glory,  O  Zara-
-thui-tra !  I  maintain  Ardvi  Siira  Anahita,  the  wide-
+4.  *  Through  their  brightness  and  glory,  O  Zarathui-tra !  I  maintain  Ardvi  Siira  Anahita,  the  wide-
 expanding  and  health-giving,  who  hates  the  Daevas
 and  obeys  the  laws  of  Ahura,  who  is  worthy  of
 sacrifice  in  the  material  world,  worthy  of  prayer  in
 the  material  w^orld  ;  the  life-increasing  and  holy,  the
 flocks-increasing  and  holy,  the  fold-increasing  and
-holy,  the  wealth-increasing  and  holy,  the  country-
-increasing  and  holy^^;
+holy,  the  wealth-increasing  and  holy,  the  countryincreasing  and  holy^^;
 
 5  *.  '  Who  makes  the  seed  of  all  males  pure,  who
 makes  the  womb  of  all  females  pure  for  bringing
@@ -9613,8 +9174,7 @@ both  in  summer  and  in  winter.  This  river  of  mine
 purifies  the  seed  in  males,  the  womb  in  females,  the
 milk  in  females'  breasts  ^
 
-9.  '  Through  their  brightness  and  glory,  O  Zara-
-thui'tra !  I  maintain  the  wide  earth  made  by  Ahura,
+9.  '  Through  their  brightness  and  glory,  O  Zarathui'tra !  I  maintain  the  wide  earth  made  by  Ahura,
 the  large  and  broad  earth,  that  bears  so  much  that
 is  fine,  that  bears  all  the  bodily  world,  the  live  and
 the  dead,  and  the  high  mountains,  rich  in  pastures
@@ -9626,8 +9186,7 @@ up  from  the  ground,  to  nourish  animals  and  men,
 to  nourish  the  Aryan  nations,  to  nourish  the  five
 kinds  of  animals  ^,  and  to  help  the  faithful.
 
-1 1.  *  Through  their  brightness  and  glory,  O  Zara-
-thui-tra !  I  maintain  in  the  womb  the  child  that  has
+1 1.  *  Through  their  brightness  and  glory,  O  Zarathui-tra !  I  maintain  in  the  womb  the  child  that  has
 been  conceived,  so  that  it  does   not  die  from  the
 
 
@@ -9694,8 +9253,7 @@ who  listens  well  ^  to  the  (holy)  words,  whom  Wisdom
 
 184  YAS'TS    AND    SIROZAHS.
 
-holds  dear  \  and  who  returns  a  victor  from  discus-
-sions with  Gaotema,  the  heretic  ^.
+holds  dear  \  and  who  returns  a  victor  from  discussions with  Gaotema,  the  heretic  ^.
 
 '  Through  their  brightness  and  glory  the  sun  goes
 his  way ;  through  their  brightness  and  glory  the
@@ -9721,8 +9279,7 @@ treat  Mithra  well,  the  lord  of  wide  pastures,  and
 Ari-ta/,  who  makes  the  world  grow,  who  makes  the
 world  increase.
 
-19.  'Thus  do  I  proclaim  unto  thee,  O  pure  Spi-
-tama !  the  vigour  and  strength,  the  glory,  the  help,
+19.  'Thus  do  I  proclaim  unto  thee,  O  pure  Spitama !  the  vigour  and  strength,  the  glory,  the  help,
 and  the  joy  that  are  in  the  Fravashis  of  the  faithful,
 
 
@@ -9748,11 +9305,9 @@ unto  me,  the  awful  Fravashis  of  the  faithful  \'
 
 II.
 
-20.  Ahura  Mazda  spake  unto  Spitama  Zara-
-thui-tra,  saying :  '  If  in  this  material  world,  O  Spi-
+20.  Ahura  Mazda  spake  unto  Spitama  Zarathui-tra,  saying :  '  If  in  this  material  world,  O  Spi-
 tama Zarathui-tra !  thou  happenest  to  come  upon
-frightful  roads,  full  of  dangers  and  fears,  O  Zara-
-thui-tra !  and  thou  fearest  for  thyself,  then  do  thou
+frightful  roads,  full  of  dangers  and  fears,  O  Zarathui-tra !  and  thou  fearest  for  thyself,  then  do  thou
 recite  these  words,  then  proclaim  these  fiend-smiting
 words,  O  Zarathui'tra !
 
@@ -9761,8 +9316,7 @@ sacrifice  unto  the  good,  strong,  beneficent  Fravashis
 of  the  faithful.  We  worship  the  Fravashis  of  the
 masters  of  the  houses,  those  of  the  lords  of  the
 boroughs,  those  of  the  lords  of  the  towns,  those  of
-the  lords  of  the  countries,  those  of  the  Zarathui'tro-
-temas  ^ ;  the  Fravashis  of  those  that  are,  the  Fra-
+the  lords  of  the  countries,  those  of  the  Zarathui'trotemas  ^ ;  the  Fravashis  of  those  that  are,  the  Fra-
 vashis of  those  that  have  been,  the  Fravashis  of
 those  that  will  be  ;  all  the  Fravashis  of  all  nations  ^,
 and  most  friendly  the  Fravashis  of  the  friendly
@@ -9783,13 +9337,9 @@ organs  * ;
 '  See  §  143,  text  and  note.  *  See  §  11.
 
 
-1 86  YA5TS    AND    SIROZAHS.
-
-
 awfulness,  well-moving,  swiftly  moving,  quickly
 moving,  who  move  when  invoked ;  who  are  to  be
-invoked  in  the  conquest  of  good,  who  are  to  be  in-
-voked in  fights  against  foes,  who  are  to  be  invoked
+invoked  in  the  conquest  of  good,  who  are  to  be  invoked in  fights  against  foes,  who  are  to  be  invoked
 in  battles  ;
 
 24.  '  "  Who  give  victory  to  their  invoker,  who  give
@@ -9805,11 +9355,9 @@ and  where  the  faithful  man  is  not  ill-treated  ^" '
 
 III.
 
-26.  We  worship  the  good,  strong,  beneficent  Fra-
-vashis  of  the  faithful,  who  are  the  mightiest  of  drivers,
+26.  We  worship  the  good,  strong,  beneficent  Fravashis  of  the  faithful,  who  are  the  mightiest  of  drivers,
 the  lightest  of  those  driving  forwards,  the  slowest
-of  the  retiring  ^  the  safest  ^  of  all  bridges,  the  least-
-erring^  of  all  weapons  and  armsS  and  who  never
+of  the  retiring  ^  the  safest  ^  of  all  bridges,  the  leasterring^  of  all  weapons  and  armsS  and  who  never
 turn  their  backs  \
 
 27.  At  once,  wherever  they  come,  we  worship
@@ -9847,23 +9395,19 @@ entrails,  the  feet,  and  the  sexual  organs  \
 sustained  it  from  below,  they,  the  strong  Fravashis,
 who  sit  in  silence,  gazing  with  sharp  looks  ;  whose
 eyes  and  ears  are  powerful,  who  bring  long  joy,  high
-and  high-girded  ;  well-moving  and  moving  afar,  loud-
-snorting  2,  possessing  riches  and  a  high  renown.
+and  high-girded  ;  well-moving  and  moving  afar,  loudsnorting  2,  possessing  riches  and  a  high  renown.
 
 IV.
 
-30.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful ;  whose  friendship  is  good,
 and  who  know  how  to  benefit;  whose  friendship
 lasts  long ;  who  like  to  stay  in  the  abode  where  they
 are  not  harmed  by  its  dwellers ;  who  are  good,
-beautiful  afar  ^,  health-giving,  of  high  renown,  con-
-quering in  battle,  and  who  never  do  harm  first.
+beautiful  afar  ^,  health-giving,  of  high  renown,  conquering in  battle,  and  who  never  do  harm  first.
 
 
 V.
 
-31.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful ;  whose  will  is  dreadful
 unto  those  who  vex  them ;  powerfully  working  and
 most  beneficent ;  who  in  battle  break  the  dread
@@ -9885,16 +9429,13 @@ A
 
 VI.
 
-32.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful;  Hberal,  vaHant,  and  full
-of  strength,  not  to  be  seized  by  thought,  welfare-
-giving,  kind,  and  health-giving,  following  with  Ashi's
+of  strength,  not  to  be  seized  by  thought,  welfaregiving,  kind,  and  health-giving,  following  with  Ashi's
 remedies,  as  far  as  the  earth  extends,  as  the  rivers
 stretch,  as  the  sun  rises  ^
 
 VII.
 
-33.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  gallantly  and  bravely
 fight,  causing  havoc,  wounding^,  breaking  to  pieces
 all  the  malice  of  the  malicious,  Daevas  and  men,
@@ -9902,15 +9443,13 @@ and  smiting  powerfully  in  battle,  at  their  wish  and
 will.
 
 34.  You  kindly  deliver  the  Victory  made  by
-Ahura,  and  the  crushing  Ascendant,  most  bene-
-ficently, to  those  countries  where  you,  the  good  ones,
+Ahura,  and  the  crushing  Ascendant,  most  beneficently, to  those  countries  where  you,  the  good  ones,
 unharmed  and  rejoiced,  unoppressed  and  unoffended,
 have  been  held  worthy  of  sacrifice  and  prayer,  and
 proceed  the  way  of  your  wish.
 
 VIII.
 
-35.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  of  high  renown,  smiting
 in  battle,  most  strong,  shield-bearing  and  harmless
 to  those  who  are  true,  whom  both  the  pursuing  and
@@ -9936,7 +9475,6 @@ and  where  the  faithful  man  is  not  ill-treated  \
 
 IX.
 
-37.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  form  many  battalions,
 girded  with  weapons  ^,  lifting  up  spears,  and  full  of
 sheen;  who  in  fearful  battles  come  rushing  along
@@ -9952,7 +9490,6 @@ myriads,  who  wound  with  stones  ^
 
 X.
 
-39.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  rout  the  two  wings
 of  an  army  standing  in  battle  array,  who  make  the
 centre  swerve,  and  swiftly  pursue  onwards,  to  help
@@ -9960,7 +9497,6 @@ the  faithful  and  to  distress  the  doers  of  evil  deeds.
 
 XI.
 
-40.  We    worship    the    good,    strong,    beneficent
 
 1  Cf.  §  25.  2  Yasto-zayau.  ^  Doubtful.
 
@@ -9974,8 +9510,7 @@ XI.
 I90  YA^TS    AND    SIROZAHS.
 
 Fravashis  of  the  faithful ;  awful,  overpowering,  and
-victorious,  smiting  in  battle,  sorely  wounding,  blow-
-ing away  (the  foes),  moving  along  to  and  fro,  of
+victorious,  smiting  in  battle,  sorely  wounding,  blowing away  (the  foes),  moving  along  to  and  fro,  of
 good  renown,  fair  of  body,  godly  of  soul,  and  holy ;
 who  give  victory  to  their  invoker,  who  give  boons  to
 their  lover,  who  give  health  to  the  sick  man  ^ ;
@@ -9989,11 +9524,9 @@ he  had  to  enter,  in  whatever  distress  he  did  fear ;
 42.  Who,  when  well  invoked,  enjoy  bliss  in  the
 heavens ;  who,  when  well  invoked,  come  forward
 from  the  heavens,  who  are  the  heads  ^  of  that  sky
-above,  possessing  the  well-shapen  Strength,  the  Vic-
-tory made  by  Ahura,  the  crushing  Ascendant,  and
+above,  possessing  the  well-shapen  Strength,  the  Victory made  by  Ahura,  the  crushing  Ascendant,  and
 Welfare  ^,  the  wealth-bringing,  boon-bringing,  holy,
-well  fed,  worthy  of  sacrifice  and  prayer  in  the  per-
-fection of  holiness.
+well  fed,  worthy  of  sacrifice  and  prayer  in  the  perfection of  holiness.
 
 43.  They  shed  Satavaesa*  between  the  earth  and
 the  sky,  him  to  whom  the  waters  belong  ^  who  listens
@@ -10003,8 +9536,7 @@ Aryan  nations,  to  nourish  the  five  kinds  of  animals",
 and  to  help  the  faithful  '^.
 
 44.  Satavaesa  comes  down  and  flows  between
-the  earth  and  the  sky,  he  to  whom  the  waters  be-
-long, who  listens  to  appeals  and  makes  the  waters
+the  earth  and  the  sky,  he  to  whom  the  waters  belong, who  listens  to  appeals  and  makes  the  waters
 and  the   plants  grow  up,  fair,  radiant,   and  full  of
 
 '  Cf.  §  24.
@@ -10029,12 +9561,10 @@ and  to  help  the  faithful.
 
 XII.
 
-45.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful ;  with  helms  of  brass,  with
 weapons  of  brass,  with  armour  ^  of  brass ;  who
 struggle  in  the  fights  for  victory  in  garments  of
-light,  arraying  the  battles  and  bringing  them  for-
-wards, to  kill  thousands  of  Daevas.
+light,  arraying  the  battles  and  bringing  them  forwards, to  kill  thousands  of  Daevas.
 
 When  the  wind  blows  from  behind  them  ^  and
 brings  their  breath  unto  men,
@@ -10044,8 +9574,7 @@ victory  :  and  they  pay  pious  homage  unto  the  good,
 strong,  beneficent  Fravashis  of  the  faithful,  with
 their  hearts  prepared  and  their  arms  uplifted.
 
-47.  Whichever  side  they  have  been  first  wor-
-shipped in  the  fulness  of  faith  of  a  devoted  heart  ^
+47.  Whichever  side  they  have  been  first  worshipped in  the  fulness  of  faith  of  a  devoted  heart  ^
 to  that  side  turn  the  awful  Fravashis  of  the  faithful,
 along  with  Mithra  and  Rashnu  and  the  awful  cursing
 thought  ^  of  the  wise  and  the  victorious  wind.
@@ -10069,7 +9598,6 @@ wise  and  the  victorious  wind.
 
 XIII.
 
-49.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  come  and  go  through
 the  borough  at  the  time  of  the  Hamaspathmaedha^;
 they  go  along  there  for  ten  nights,  asking  thus  ^ :
@@ -10079,10 +9607,8 @@ sacrifice  ?  Who  will  meditate  upon  us  ?  Who  will
 bless  us^?  Who  will  receive  us  with  meat  and
 clothes  in  his  hand  *  and  with  a  prayer  worthy  of
 bliss  ^  ?  Of  which  of  us  will  the  name  be  taken  for
-invocation*'?  Of  which  of  you  will  the  soul  be  wor-
-shipped by  you  with  a  sacrifice"^?  To  whom  will
-this  gift  of  ours  be  given,  that  he  may  have  never-
-failinof  food  for  ever  and  ever  ?'
+invocation*'?  Of  which  of  you  will  the  soul  be  worshipped by  you  with  a  sacrifice"^?  To  whom  will
+this  gift  of  ours  be  given,  that  he  may  have  neverfailinof  food  for  ever  and  ever  ?'
 
 51.  And  the  man  who  offers  them  up  a  sacrifice,
 
@@ -10132,7 +9658,6 @@ with  a  prayer  worthy  of  bliss ^.'
 
 XIV.
 
-53.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  show  beautiful  paths
 to  the  waters,  made  by  Mazda,  which  had  stood
 before  for  a  long  time  in  the  same  place  without
@@ -10145,7 +9670,6 @@ at  the  wish  of  the  Amesha-Spe/ztas.
 
 XV.
 
-55.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  show  a  beautiful
 growth  to  the  fertile*  plants,  which  had  stood  before
 for  a  long  time  in  the  same  place  without  growing :
@@ -10171,51 +9695,40 @@ synonymous  with  /k- a  par  a,  kind,  merciful  (Visperad  XXI
 4_   A  .
 
 
-194  YA^TS    AND   SIROZAHS.
-
 by  Mazda,  along  the  way  made  by  the  gods,  in  the
 time  appointed  to  them,  at  the  wish  of  Ahura
 Mazda,  at  the  wish  of  the  Amesha-Spe;^tas.
 
 XVI.
 
-57.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  showed  their  paths  to
 the  stars,  the  moon,  the  sun,  and  the  endless  lights,
 that  had  stood  before  for  a  long  time  in  the  same
-place,  without  moving  forwards,  through  the  oppres-
-sion of  the  Daevas  and  the  assaults  of  the  Daevas\
+place,  without  moving  forwards,  through  the  oppression of  the  Daevas  and  the  assaults  of  the  Daevas\
 
-58.  And  now  they  move  around  in  their  far-
-revolving  circle  for  ever,  till  they  come  to  the  time
+58.  And  now  they  move  around  in  their  farrevolving  circle  for  ever,  till  they  come  to  the  time
 of  the  good  restoration  of  the  world.
 
 XVII.
 
-59.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  watch  over  the  bright
-sea  Vouru-Kasha^,  to  the  number  of  ninety  thou-
-sand,   and   nine   thousand,   and  nine  hundred,  and
+sea  Vouru-Kasha^,  to  the  number  of  ninety  thousand,   and   nine   thousand,   and  nine  hundred,  and
 
 ninety-nine.
 
 XVIII.
 
-60.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  watch  over  the  stars
 Hapt6iri;^ga^,  to  the  number  of  ninety  thousand,
-and  nine  thousand,  and  nine  hundred,  and  ninety-
-nine.
+and  nine  thousand,  and  nine  hundred,  and  ninetynine.
 
 XIX.
 
-61.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  watch  over  the  body
 
 ^  Bundahij  VI,  3.
 
-2  To  keep  the  white  Horn  there  from  the  evil  beings  that  try-
-to  destroy  it  (Minokhirad  LXII,  28).
+2  To  keep  the  white  Horn  there  from  the  evil  beings  that  tryto  destroy  it  (Minokhirad  LXII,  28).
 ^  See  above,  p.  97,  note  4.
 
 
@@ -10224,12 +9737,10 @@ FARVARDtN    VAST.  I95
 
 of  Keresaspa,  the  son  of  Sama^  the  club-bearer
 with  plaited  hair,  to  the  number  of  ninety  thousand,
-and  nine  thousand,  and  nine  hundred,  and  ninety-
-nine.
+and  nine  thousand,  and  nine  hundred,  and  ninetynine.
 
 XX.
 
-62.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  watch  over  the  seed
 of  the  holy  Zarathui'tra  ^,  to  the  number  of  ninety
 thousand,  and  nine  thousand,  and  nine  hundred,  and
@@ -10237,7 +9748,6 @@ ninety-nine.
 
 XXI.
 
-62,.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  fio^ht  at  the  rio-ht
 hand  of  the  reigning  lord,  if  he  rejoices  the  faithful  ^
 and  if  the  awful  Fravashis  of  the  faithful  are  not
@@ -10246,7 +9756,6 @@ and  unoffended.
 
 XXII.
 
-64.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  faithful,  who  are  greater,  who  are
 
 
@@ -10430,8 +9939,7 @@ We  worship  the  waters  by  their  names  ^ ;
 
 We  worship  the  plants  by  their  names  ^ ;
 
-We  worship  the  good,  strong,  beneficent  Frava-
-shis of  the  faithful  by  their  names.
+We  worship  the  good,  strong,  beneficent  Fravashis of  the  faithful  by  their  names.
 
 80.  Of  all  those  ancient  Fravashis,  we  worship
 the  Fravashi  of  Ahura  Mazda ;  who  is  the  greatest,
@@ -10439,14 +9947,12 @@ the  best,  the  fairest,  the  most  solid,  the  wisest,  the
 finest  of  body  and  supreme  in  holiness  ^ ;
 
 81.  Whose  soul  is  the  Mathra  Spe;^ta,  who  is
-white,  shining,  seen  afar ;  and  we  worship  the  beau-
-tiful forms,  the  active  forms  wherewith  he  clothes
+white,  shining,  seen  afar ;  and  we  worship  the  beautiful forms,  the  active  forms  wherewith  he  clothes
 the  Amesha-Spe;^tas ;  we  worship  the  swift-horsed
 sun.
 
 XXIII.
 
-82.  We  worship  the  good,  strong,  beneficent
 Fravashis  of  the  Amesha-Spe;^tas,  the  bright  ones,
 whose  looks  perform  what  they  wish,  the  tall,  quickly
 coming  to  do,  strong,  and  lordly,  who  are  undecaying
@@ -10464,8 +9970,6 @@ Bund.  XXI).
 2  After  their  kinds  (Bund.  XXVII).  "  Cf.  Yasna  I,  i.
 
 
-200  YA^TS    AND    siROZAHS.
-
 commander  is  the  same,  namely,  the  Maker,  Ahura
 Mazda ;
 
@@ -10476,7 +9980,6 @@ are  shining  as  they  go  down  towards  the  libations^.
 
 XXIV.
 
-85.  We  worship  the  good,  strong,  beneficent
 Fravashis :  that  of  the  most  rejoicing  ^  fire,  the
 beneficent  and  assembly-making^;  and  that  of  the
 holy,  strong  Sraosha  ^,  who  is  the  incarnate  Word,
@@ -10537,8 +10040,7 @@ holy  Zarathui^tra  ;  \
 spoke  what  is  good,  who  first  did  what  is  good ;  who
 was  the  first  Priest,  the  first  Warrior,  the  first
 Plougher  of  the  ground  ^ ;  who  first  knew  and  first
-taught ;  who  first  possessed  ^  and  first  took  pos-
-session of  the  BulP,  of  Holiness*,  of  the  Word,  the
+taught ;  who  first  possessed  ^  and  first  took  possession of  the  BulP,  of  Holiness*,  of  the  Word,  the
 obedience  to  the  Word,  and  dominion,  and  all  the
 good  things  made  by  Mazda,  that  are  the  offspring
 of  the  good  Principle  ;
@@ -10590,8 +10092,7 @@ Law,  that  most  excellent  of  all  beings  ;
 one  accord  with  the  sun,  in  the  fulness  of  faith  of  a
 devoted  heart ;  they  longed  for  him,  as  the  lord  and
 master  of  the  world,  as  the  praiser  of  the  most  great,
-most  good,  and  most  fair  As  ha,  as  having  a  revela-
-tion of  the  Law,  that  most  excellent  of  all  beings  ;
+most  good,  and  most  fair  As  ha,  as  having  a  revelation of  the  Law,  that  most  excellent  of  all  beings  ;
 
 93.  In  whose  birth  and  growth  the  waters  and
 the  plants  rejoiced ;  In  whose  birth  and  growth  the
@@ -10624,17 +10125,14 @@ and  allay  their  troubles.'
 FARVARDIN    YAST.
 
 
-We  worship  the  piety  and  Fravashi  of  Maidhyo-
-m^ungha,  the  son  of  Arasti  ^,  who  first  Hstened  unto
+We  worship  the  piety  and  Fravashi  of  Maidhyom^ungha,  the  son  of  Arasti  ^,  who  first  Hstened  unto
 the  word  and  teaching  of  Zarathu^tra.
 
 XXV.
 
-96.  We  worship  the  Fravashi  of  the  holy  Asmo-
-hv2.VLV2Jit  ^ ;
+96.  We  worship  the  Fravashi  of  the  holy  Asmohv2.VLV2Jit  ^ ;
 
-We  worship  the  Fravashi  of  the  holy  Asan-
-hv2inv2.nt.
+We  worship  the  Fravashi  of  the  holy  Asanhv2inv2.nt.
 
 We  worship  the  Fravashi  of  the  holy  Gavayan.
 
@@ -10651,14 +10149,12 @@ son  of  Varaza.
 the  son  of  Ahum-stu^f  ^  who  first  appeared  upon  this
 earth  with  a  hundred  pupils  ^
 
-We  worship  the  Fravashi  of  the  holy  Fradhi-
-daya.
+We  worship  the  Fravashi  of  the  holy  Fradhidaya.
 
 We  worship  the  Fravashi  of  the  holy  Usmanara,
 the  son  of  Paeshata.
 
-^  Maidhyo-m^ungha  was  the  cousin  and  first  disciple  of  Zara-
-thujtra  ;  Zarathujtra's  father,  Pourushaspa,  and  Arasti  were  brothers
+^  Maidhyo-m^ungha  was  the  cousin  and  first  disciple  of  Zarathujtra  ;  Zarathujtra's  father,  Pourushaspa,  and  Arasti  were  brothers
 (Bund.  XXXII,  3);  cf.  Yasna  LI  [L],  19.
 
 '^  Cf.  p.  33,  note  2;  Yt.  XXII,  37.
@@ -10675,17 +10171,11 @@ and  Dabistan  I,  55).
 ^  Who  was  the  first  regular  teacher,  the  first  aethrapaiti.
 
 
-204  YA5TS    AND    siROZAHS.
+We  worship  the  Fravashi  of  the  holy  Vohuraoi-ah,  the  son  of  Fr^nya ;
 
+We  worship  the  Fravashi  of  the  holy  Ashorao/^ah,  the  son  of  Frdnya  ;
 
-We  worship  the  Fravashi  of  the  holy  Vohu-
-raoi-ah,  the  son  of  Fr^nya ;
-
-We  worship  the  Fravashi  of  the  holy  Asho-
-rao/^ah,  the  son  of  Frdnya  ;
-
-We  worship  the  Fravashi  of  the  holy  Varesmo-
-rao/^-ah,  the  son  of  Franya.
+We  worship  the  Fravashi  of  the  holy  Varesmorao/^-ah,  the  son  of  Franya.
 
 98.  We  worship  the  Fravashi  of  the  holy  Isa/-
 vastra,  the  son  of  Zarathu^tra ;
@@ -10693,14 +10183,12 @@ vastra,  the  son  of  Zarathu^tra ;
 We  worship  the  Fravashi  of  the  holy  Urvata/-
 nara,  the  son  of  Zarathiutra  ;
 
-We  worship  the  Fravashi  of  the  holy  //z^are-
-iithra,  the  son  of  Zarathu^tra  ^
+We  worship  the  Fravashi  of  the  holy  //z^areiithra,  the  son  of  Zarathu^tra  ^
 
 We  worship  the  Fravashi  of  the  holy  Daevo-
 Ih'is,  the  son  of  Takhma.
 
-We  worship  the  Fravashi  of  the  holy  Thrimith-
-wa;2/,  the  son  of  Spitama  I
+We  worship  the  Fravashi  of  the  holy  Thrimithwa;2/,  the  son  of  Spitama  I
 
 We  worship  the  Fravashi  of  the  holy  D(2ungha,
 the  son  of  Zairita.
@@ -10722,8 +10210,7 @@ and  Khurshea'-y^ihar  were  from  a  serving  (/takar)  wife,  the  rest
 were  from  a  privileged  (pa^akhshah)  wife '  (Bund.  XXXII,  5-6 ;
 tr.  West).
 
-^  According  to  Anquetil, '  the  threefold  seed  of  Spitama  Zara-
-thuj-tra;'  cf.  above,  §  62.
+^  According  to  Anquetil, '  the  threefold  seed  of  Spitama  Zarathuj-tra;'  cf.  above,  §  62.
 
 *  The  king  of  Bactra,  the  champion  of  Zoroastrism ;  cf.  Yt.  V,
 98,  108.
@@ -10742,27 +10229,22 @@ Ahura,  of  this  law  of  Zarathui-tra.
 I  oo.  Who  took  her  ^,  standing  bound  ^,  from  the
 hands  of  the  Hunus'^,  and  established  her  to  sit  in
 the  middle  [of  the  world],  high  ruling,  never  falling
-back,  holy,  nourished  with  plenty  of  cattle  and  pas-
-tures, blessed  with  plenty  of  cattle  and  pastures  ^
+back,  holy,  nourished  with  plenty  of  cattle  and  pastures, blessed  with  plenty  of  cattle  and  pastures  ^
 
-loi.  We  worship  the  Fravashi  of  the  holy  Zairi-
-vairi  ^ ;
+loi.  We  worship  the  Fravashi  of  the  holy  Zairivairi  ^ ;
 
-We  worship  the  Fravashi  of  the  holy  Yukhta-
-vairi ;
+We  worship  the  Fravashi  of  the  holy  Yukhtavairi ;
 
 We  worship  the  Fravashi  of  the  holy  Sriraokh-.
 shan ;
 
-We  worship  the  Fravashi  of  the  holy  Keresaokh-
-shan ;
+We  worship  the  Fravashi  of  the  holy  Keresaokhshan ;
 
 We  worship  the  Fravashi  of  the  holy  Vanara ;
 
 We  worship  the  Fravashi  of  the  holy  Varaza ;
 
-We  worship  the  Fravashi  of  the  holy  Bto^i-
-sravah  ^ ;
+We  worship  the  Fravashi  of  the  holy  Bto^isravah  ^ ;
 
 
 ^  Dru^a  paurva«-^a,  possibly,  '  with  the  spear  pushed  forwards'
@@ -10784,20 +10266,14 @@ other  sons  of  Aurva/-aspa  (Bund.  XXXI,  29).
 in  the  Ya^kar-i  Zariran,  as  Mr.  West  informs  me.
 
 
-206  YA^TS    AND    SIROZAHS.
-
-
-We  worship  the  Fravashi  of  the  holy  Berezy-
-ar^ti ;
+We  worship  the  Fravashi  of  the  holy  Berezyar^ti ;
 
 We  worship  the  Fravashi  of  the  holy  Ti^yar^ti ;
 
-We  worship  the  Fravashi  of  the  holy  Perethu-
-ar>rti ;
+We  worship  the  Fravashi  of  the  holy  Perethuar>rti ;
 
 We  worship  the  Fravashi  of  the  holy  Vi^yar^ti.
 
-1 02.  We  worship  the  Fravashi  of  the  holy
 Naptya ;
 
 We  worship  the  Fravashi  of  the  holy  Va-^aspa  ;
@@ -10807,33 +10283,26 @@ We  worship  the  Fravashi  of  the  holy  Habaspa.
 We  worship  the  Fravashi  of  the  holy  Vistauru  \
 the  son  of  Naotara.
 
-We  worship  the  Fravashi  of  the  holy  Fra^-ham-
-vareta  ^ ;
+We  worship  the  Fravashi  of  the  holy  Fra^-hamvareta  ^ ;
 
-We  worship  the  Fravashi  of  the  holy  Frasho-
-kareta.
+We  worship  the  Fravashi  of  the  holy  Frashokareta.
 
-We  worship  the  Fravashi  of  the  holy  Atare-
-vanu ;
+We  worship  the  Fravashi  of  the  holy  Atarevanu ;
 
-We  worship  the  Fravashi  of  the  holy  Atare-
-pata;
+We  worship  the  Fravashi  of  the  holy  Atarepata;
 
-We  worship  the  Fravashi  of  the  holy  Atare-
-data;
+We  worship  the  Fravashi  of  the  holy  Ataredata;
 
 We  worship  the  Fravashi  of  the  holy  Atare-
 -^ithra ;
 
 ^  Gustahm,  the  son  of  Nodar ;  see  Yt.  V,  76.  Strangely  enough,
 Tusa  is  not  mentioned  here,  unless  he  is  the  same  with  one  of  the
-preceding  names  :  possibly  the  words  '  the  son  of  Naotara '  (Nao-
-tairyana)  refer  to  all  the  four.
+preceding  names  :  possibly  the  words  '  the  son  of  Naotara '  (Naotairyana)  refer  to  all  the  four.
 
 "  Possibly  Frashidvard  ij^s^J  (misspelt  from  a  Pahlavi  form
 Fra^anvard  ?»J)>»oo^e'  (?) ;  the  Ya<fkar-i  Zariran,  as  Mr.  West  informs
-me,  has  <f>')»oo^e)  and  'J'o^'oo^fi')-  Frashidvard  was  a  son  of  Guj-
-tasp :  he  was  killed  by  one  of  Ar^asp's  heroes  and  avenged  by
+me,  has  <f>')»oo^e)  and  'J'o^'oo^fi')-  Frashidvard  was  a  son  of  Gujtasp :  he  was  killed  by  one  of  Ar^asp's  heroes  and  avenged  by
 his  brother  Isfendyar  (Speilto-data).  The  following  names  would
 belong  to  his  brothers :  most  of  them  contain  the  word  Atar,  in
 honour  of  the  newly-adopted  worship  of  fire.
@@ -10845,32 +10314,24 @@ FARVARDIN   VAST.  207
 We  worship  the  Fravashi  of  the  holy  Atare-
 ^z'arenah  ;
 
-We  worship  the  Fravashi  of  the  holy  Atare-
-savah ;
+We  worship  the  Fravashi  of  the  holy  Ataresavah ;
 
-We  worship  the  Fravashi  of  the  holy  Atare-
-za;2tu ;
+We  worship  the  Fravashi  of  the  holy  Atareza;2tu ;
 
-We  worship  the  Fravashi  of  the  holy  Atare-
-danghii.
+We  worship  the  Fravashi  of  the  holy  Ataredanghii.
 
-103.  We  worship  the  Fravashi  of  the  holy
 Hiukyaothna  ;
 
-We  worship  the  Fravashi  of  the  holy  Pi^k-
-yaothna ;
+We  worship  the  Fravashi  of  the  holy  Pi^kyaothna ;
 
 We  worship  the  Fravashi  of  the  holy  and  gallant
 Spe;^t6-d^ta  ^.
 
-We  worship  the  Fravashi  of  the  holy  Basta-
-vairi  ^  ;
+We  worship  the  Fravashi  of  the  holy  Bastavairi  ^  ;
 
-We  worship  the  Fravashi  of  the  holy  Kava-
-razem  ^
+We  worship  the  Fravashi  of  the  holy  Kavarazem  ^
 
-We  worship  the  Fravashi  of  the  holy  Frasha-
-oi'tra  *,  the  son  of  Hvova  ;
+We  worship  the  Fravashi  of  the  holy  Frashaoi'tra  *,  the  son  of  Hvova  ;
 
 We  worship  the  Fravashi  of  the  holy  Camaspa  ^,
 the  son  of  Hvova  ;
@@ -10895,31 +10356,24 @@ iy,  ;_/jjJ*-     ^^^  Etudes  Iraniennes,  II,  230.
 »  See  Yt.  V,  68.
 
 
-208  YA5TS   AND    SIROZAHS.
+We  worship  the  Fravashi  of  the  holy  Avarao^tri  \
 
-We  worship  the  Fravashi  of  the  holy  Avara-
-o^tri  \
-
-104.  We  worship  the  Fravashi  of  the  holy
 Hui-kyaothna,  the  son  of  Frashao-rtra ;
 
 We  worship  the  Fravashi  of  the  holy  //"z^adaena,
 the  son  of  Frashao^tra.
 
-We  worship  the  Fravashi  of  the  holy  Hang-
-haurv(^ungh,  the  son  of  6^amaspa  ^;
+We  worship  the  Fravashi  of  the  holy  Hanghaurv(^ungh,  the  son  of  6^amaspa  ^;
 
 We  worship  the  Fravashi  of  the  holy  Vareshna,
 the  son  of  Hanghaurv^ungh.
 
-We  worship  the  Fravashi  of  the  holy  Vohu-
-nemah,  the  son  of  Avaraoi"tri,
+We  worship  the  Fravashi  of  the  holy  Vohunemah,  the  son  of  Avaraoi"tri,
 
 To  withstand  evil  dreams,  to  withstand  evil
 visions,  to  withstand  evil  .  .  .  .^  to  withstand  the
 evil  Pairikas.
 
-105.  We  worship  the  Fravashi  of  the  holy
 Mathravaka,  the  son  of  Simae^'i,  the  Aethrapati,
 the  Hamidhpati  *,  who  was  able  to  smite  down
 most  of  the  evil,  unfaithful  Ashemaoghas,  that
@@ -10951,11 +10405,9 @@ Hamidhpati  is  literally  'the  master  of  the  sacrificial  log.'
 FARVARDIN    YAST.  209
 
 
-io6.  We  worship  the  Fravashi  of  the  holy  Asha-
-stu,  the  son  of  Maidhyo-m^ungha  ^
+io6.  We  worship  the  Fravashi  of  the  holy  Ashastu,  the  son  of  Maidhyo-m^ungha  ^
 
-We  worship  the  Fravashi  of  the  holy  Avare-
-thrabah,  the  son  of  Rastare-vagha??/.
+We  worship  the  Fravashi  of  the  holy  Avarethrabah,  the  son  of  Rastare-vagha??/.
 
 We  worship  the  Fravashi  of  the  holy  Bu^ra,  the
 son  of  Dazgaraspa.
@@ -10963,18 +10415,15 @@ son  of  Dazgaraspa.
 We  worship  the  Fravashi  of  the  holy  Zbaurva;^/ ;
 
 We  worship  the  Fravashi  of  the  holy  and  gallant
-Karesna  -,  the  son  of  Zbaurva;/^^ ;  who  was  the  incar-
-nate Word,  mighty-speared  and  lordly ;
+Karesna  -,  the  son  of  Zbaurva;/^^ ;  who  was  the  incarnate Word,  mighty-speared  and  lordly ;
 
-107.  In  whose  house  did  walk  the  good,  beau-
-tiful, shining  Ashi  Vanguhi,  in  the  shape  of  a  maid
+107.  In  whose  house  did  walk  the  good,  beautiful, shining  Ashi  Vanguhi,  in  the  shape  of  a  maid
 fair  of  body,  most  strong,  tall-formed,  high-up  girded,
 pure,  nobly  born  of  a  glorious  seed  ^ ;  who,  rushing
 to  the  battle,  knew  how  to  make  room  for  himself
 with  his  ow^n  arms ;  who,  rushing  to  the  battle,  knew
 how  to  fight  the  foe  with  his  own  arms  *.
 
-108.  We  worship  the  Fravashi  of  the  holy
 Viraspa,  the  son  of  Karesna ;
 
 We  worship  the  Fravashi  of  the  holy  Azata,  the
@@ -11026,30 +10475,23 @@ We  worship  the  Fravashi  of  the  holy  iTamru  \
 
 We  worship  the  Fravashi  of  the  holy  Dratha ;
 
-We  worship  the  Fravashi  of  the  holy  Paiti-
-dratha ;
+We  worship  the  Fravashi  of  the  holy  Paitidratha ;
 
-We  worship  the  Fravashi  of  the  holy  Paiti-
-vangha.
+We  worship  the  Fravashi  of  the  holy  Paitivangha.
 
-We  worship  the  Fravashi  of  the  holy  Frasha-
-vakhsha.
+We  worship  the  Fravashi  of  the  holy  Frashavakhsha.
 
-We  worship  the  Fravashi  of  the  holy  Nemo-
-vanghu,  the  son  of  Vaedhayangha.
+We  worship  the  Fravashi  of  the  holy  Nemovanghu,  the  son  of  Vaedhayangha.
 
 no.  We  worship  the  Fravashi  of  the  holy
 Visadha.
 
-We  worship  the  Fravashi  of  the  holy  Asha-
-vanghu,  the  son  of  Biva;/dangha  ^ ;
+We  worship  the  Fravashi  of  the  holy  Ashavanghu,  the  son  of  Biva;/dangha  ^ ;
 
-We  worship  the  Fravashi  of  the  holy  Gdivb-
-danghu,  the  son  of  Pairii-tira  ^ ;
+We  worship  the  Fravashi  of  the  holy  Gdivbdanghu,  the  son  of  Pairii-tira  ^ ;
 
 
-^  Amru  and  ^amru  are  apparently  the  two  mythical  birds  men-
-tioned above  under  the  names  of  Sin-amru  (the  Amru-falcon)  and
+^  Amru  and  ^amru  are  apparently  the  two  mythical  birds  mentioned above  under  the  names  of  Sin-amru  (the  Amru-falcon)  and
 A^amroi-  (p.  173,  note  i).
 
 2  Mr.  West  compares  Ashavanghu,  the  son  of  Bivawdangha,  and
@@ -11060,8 +10502,7 @@ the  Karshvares  of  Arezahi  and  Savahi,  whose  names  are,  in  the
 FARVARDIN    YAST.  2  I  I
 
 
-We  worship  the  Fravashi  of  the  holy  Nere-
-myazdana,  the  son  of  Athwyoza.
+We  worship  the  Fravashi  of  the  holy  Neremyazdana,  the  son  of  Athwyoza.
 
 We  worship  the  Fravashi  of  the  holy  Bereziiriu,
 the  son  of  Ara ;
@@ -11078,8 +10519,7 @@ ERETA  \
 
 XXVI.
 
-111.  We  worship  the  Fravashi  of  the  holy  Gaopi-
-vanghu.
+111.  We  worship  the  Fravashi  of  the  holy  Gaopivanghu.
 
 We  worship  the  Fravashi  of  the  holy  and  gallant
 Ham-baretar  vanghvam  ^.
@@ -11087,14 +10527,11 @@ Ham-baretar  vanghvam  ^.
 We  worship  the  Fravashi  of  the  holy  Staotar-
 Vahii-tahe-Ashyehe  ^.
 
-We  worship  the  Fravashi  of  the  holy  Pouru-
-dhakhjti,  the  son  of  Kh^tavaenya  ;
+We  worship  the  Fravashi  of  the  holy  Pourudhakhjti,  the  son  of  Kh^tavaenya  ;
 
-We  worship  the  Fravashi  of  the  holy  Khshol-
-wraspa,  the  son  of  Kh^-tavaenya.
+We  worship  the  Fravashi  of  the  holy  Khsholwraspa,  the  son  of  Kh^-tavaenya.
 
-112.  We  worship  the  Fravashi  of  the  holy  Ayo-
-asti,  the  son  of  Pouru-dhakh^ti  ^ ;
+112.  We  worship  the  Fravashi  of  the  holy  Ayoasti,  the  son  of  Pouru-dhakh^ti  ^ ;
 
 We  worship  the  Fravashi  of  the  holy  Vohv-asti,
 the  son  of  Pouru-dhakh^ti ;
@@ -11116,26 +10553,18 @@ reciter  of  the  Ashem  Vohu).
 r   2
 
 
-2  12  YA^TS    AND    SIROZAHS.
+We  worship  the  Fravashi  of  the  holy  Gayadhasti,  the  son  of  Poiiru-dhakhi-ti  ;
 
-
-We  worship  the  Fravashi  of  the  holy  Gaya-
-dhasti,  the  son  of  Poiiru-dhakhi-ti  ;
-
-We  worship  the  Fravashi  of  the  holy  Asha-vaz-
-dah,  the  son  of  Pouru-dhakhi^ti  ^ ;
+We  worship  the  Fravashi  of  the  holy  Asha-vazdah,  the  son  of  Pouru-dhakhi^ti  ^ ;
 
 We  worship  the  Fravashi  of  the  holy  Urudhu,
 the  son  of  Pourii-dhakhi"ti.
 
-We  worship  the  Fravashi  of  the  holy  Khshathro-
-y^inah,  the  son  of  Khshvoiwraspa  ^.
+We  worship  the  Fravashi  of  the  holy  Khshathroy^inah,  the  son  of  Khshvoiwraspa  ^.
 
-113.  We  worship  the  Fravashi  of  the  holy
 Ashahura,  the  son  of  Gisti.
 
-We  worship  the  Fravashi  of  the  holy  Fraya-
-za;2ta ;
+We  worship  the  Fravashi  of  the  holy  Frayaza;2ta ;
 
 We  worship  the  Fravashi  of  the  holy  Frmah,
 the  son  of  Frayaza?2ta  ;
@@ -11143,22 +10572,17 @@ the  son  of  Frayaza?2ta  ;
 We  worship  the  Fravashi  of  the  holy  6^ar6-
 vanghu,  the  son  of  Frayaza;/ta.
 
-We  worship  the  Fravashis  of  the  holy  Asha-
-vazdah  and  Thrita,  the  sons  of  Sayu^dri  ^
+We  worship  the  Fravashis  of  the  holy  Ashavazdah  and  Thrita,  the  sons  of  Sayu^dri  ^
 
-We  worship  the  Fravashi  of  the  holy  Vohu-
-rao/^ah,  the  son  of  Varakasa.
+We  worship  the  Fravashi  of  the  holy  Vohurao/^ah,  the  son  of  Varakasa.
 
-We  worship  the  Fravashi  of  the  holy  Are^an-
-gha.n^,  the  Turanian  ^.
+We  worship  the  Fravashi  of  the  holy  Are^angha.n^,  the  Turanian  ^.
 
 We  worship  the  Fravashi  of  the  holy  Usinemah.
 
-114.  We  worship  the  Fravashi  of  the  holy
 Yiikhtaspa.
 
-We  worship  the  Fravashi  of  the  holy  Asha-
-skyaothna,  the  son  of  Gayadhasti  ^.
+We  worship  the  Fravashi  of  the  holy  Ashaskyaothna,  the  son  of  Gayadhasti  ^.
 
 
 *  One  of  the  seven  immortals,  rulers  in  Z^z'aniratha;  cf.  Yt.  V,
@@ -11179,17 +10603,13 @@ FARVARDtN    YA^T.  21  3
 J
 
 
-We  worship  the  Fravashi  of  the  holy  Vohu-
-nemah,  the  son  of  Katu  ;
+We  worship  the  Fravashi  of  the  holy  Vohunemah,  the  son  of  Katu  ;
 
-We  worship  the  Fravashi  of  the  holy  Vohu-
-vazdah,  the  son  of  Katu.
+We  worship  the  Fravashi  of  the  holy  Vohuvazdah,  the  son  of  Katu.
 
-We  worship  the  Fravashi  of  the  holy  Asha-
-saredha,  the  son  of  Asha-sairya/C^ ;
+We  worship  the  Fravashi  of  the  holy  Ashasaredha,  the  son  of  Asha-sairya/C^ ;
 
-We  worship  the  Fravashi  of  the  holy  Asha-
-saredha,  the  son  of  Zairya/C'.
+We  worship  the  Fravashi  of  the  holy  Ashasaredha,  the  son  of  Zairya/C'.
 
 We  worship  the  Fravashi  of  the  holy  A'akhshni.
 
@@ -11199,7 +10619,6 @@ We  worship  the  Fravashi  of  the  holy  Pouriuti,
 
 the  son  of  Kavi.
 
-115.  We  worship  the  Fravashi  of  the  holy
 Varesmapa,  the  son  of  6^anara.
 
 We  worship  the  Fravashi  of  the  holy  Nanarasti,
@@ -11224,8 +10643,7 @@ We  worship   the   Fravashi  of  the  holy  Fra/^ya,
 
 the  son  of  Taurvati.
 
-We  worship  the  Fravashi  of  the  holy  Vahmae-
-data,  the  son  of  Mathravaka  \
+We  worship  the  Fravashi  of  the  holy  Vahmaedata,  the  son  of  Mathravaka  \
 
 
 1  There  are  two  men  of  this  name;  one  is  the  son  of  Katu
@@ -11241,37 +10659,29 @@ data,  the  son  of  Mathravaka  \
 We  worship  the  Fravashi  of  the  holy  U^tra,  the
 son  of  Sadhanah.
 
-1 1 6.  We  worship  the  Fravashi  of  the  holy
 Danghu-sriita ;
 
-We  worship  the  Fravashi  of  the  holy  Danghu-
-fradhah.
+We  worship  the  Fravashi  of  the  holy  Danghufradhah.
 
-We  worship  the  Fravashi  of  the  holy  Aspo-
-padho-makhi'ti ;
+We  worship  the  Fravashi  of  the  holy  Aspopadho-makhi'ti ;
 
-We  worship  the  Fravashi  of  the  holy  Payanghro-
-makhi'ti.
+We  worship  the  Fravashi  of  the  holy  Payanghromakhi'ti.
 
 We  worship  the  Fravashi  of  the  holy  U^tiza^^ta.
 
-We  worship  the  Fravashi  of  the  holy  Asha-
-savah  ;
+We  worship  the  Fravashi  of  the  holy  Ashasavah  ;
 
-We  worship  the  Fravashi  of  the  holy  Asho-
-urvatha.
+We  worship  the  Fravashi  of  the  holy  Ashourvatha.
 
 We  worship  the  Fravashi   of  the   holy  Haomo-
 
-117.  We  worship  the  Fravashi  of  the  holy
 Frava.
 
 We  worship  the  Fravashi  of  the  holy  Usnaka.
 
 We  worship  the  Fravashi  of  the  holy  //z'anva/^/.
 
-We  worship  the  Fravashi  of  the  holy  Daeno-
-vazah.
+We  worship  the  Fravashi  of  the  holy  Daenovazah.
 
 We  worship  the  Fravashi  of  the  holy  Are^aona.
 
@@ -11280,16 +10690,13 @@ We  worship  the  Fravashi  of  the  holy  Aiwi-
 
 We  worship  the  Fravashi  of  the  holy  Huyazata.
 
-We  worship  the  Fravashi  of  the  holy  Hare-
-dhaspa.
+We  worship  the  Fravashi  of  the  holy  Haredhaspa.
 
 We  worship  the  Fravashi  of  the  holy  Pazinah.
 
-We  worship  the  Fravashi  of  the  holy  Z?^i7akhsha-
-thra.
+We  worship  the  Fravashi  of  the  holy  Z?^i7akhshathra.
 
-We  worship  the  Fravashi  of  the  holy  Asho-
-paoirya.
+We  worship  the  Fravashi  of  the  holy  Ashopaoirya.
 
 
 FARVARDIN    YAST.  21$
@@ -11301,7 +10708,6 @@ ERETA  \
 
 XXVII.
 
-1 1 8.  We   worship    the    Fravashi    of    the    holy
 
 Hug^u.
 
@@ -11325,7 +10731,6 @@ We    worship    the    Fravashi    of   the    holy  Suro-
 
 yazata.
 
-119.  We   worship    the    Fravashi    of    the    holy
 
 Eredhwa.
 
@@ -11334,8 +10739,7 @@ We  worship  the  Fravashi  of  the  holy  Kavi.
 We  worship  the  Fravashi  of  the  holy  Ukhshan,
 the  son  of  the  great  Vidi-sravah,  known  afar  I
 
-We  worship  the  Fravashi  of  the  holy  Vanghu-
-dhata,  the  son  of  i7z^adhata  ;
+We  worship  the  Fravashi  of  the  holy  Vanghudhata,  the  son  of  i7z^adhata  ;
 
 We  worship  the  Fravashi  of  the  holy  Uzya,  the
 son  of  Vanghu-dhata ;
@@ -11369,7 +10773,6 @@ We  worship  the  Fravashi  of  the  holy  Usmanara,
 the  son  of  Paeshatah  Paitisrira  ^,  to  withstand  the
 evil  done  by  one's  kindred  *.
 
-12  1.  We  worship  the  Fravashi  of  the  holy
 Spiti^,  the  son  of  Uspasnu  ;
 
 We  worship  the  Fravashi  of  the  holy  Erezraspa,
@@ -11387,8 +10790,7 @@ We  worship  the  Fravashi  of  the  holy  RaoZ'as-
 We  worship  the  Fravashi  of  the  holy  Hvare-
 ^aeshman  '^.
 
-We  worship  the  Fravashi  of  the  holy  Frasrtj-
-t^ra ;
+We  worship  the  Fravashi  of  the  holy  Frasrtjt^ra ;
 
 We  worship  the  Fravashi  of  the  holy  Visrutara.
 
@@ -11400,11 +10802,9 @@ district  of  the  river  Naivtak  (Bund.  XXIX,  5).
 
 2  See  Yt.V,  81.
 
-'  Paitisrira  is  perhaps  an  epithet  (most  beautiful  ?),  added  to  dis-
-tinguish Paeshatah  from  the  hero  mentioned  in  §  115.
+'  Paitisrira  is  perhaps  an  epithet  (most  beautiful  ?),  added  to  distinguish Paeshatah  from  the  hero  mentioned  in  §  115.
 
-*  An  allusion  to  some  legend  of  domestic  feud  of  which  PaSsha-
-tah  was  the  hero.
+*  An  allusion  to  some  legend  of  domestic  feud  of  which  PaSshatah  was  the  hero.
 
 ^  The  high-priest  of  the  Fradadhafshu  Karshvare  (Spitoi^-i
 Ausposinan  ;  Bund.  XXIX,  i ;  tr.  West,  note  6).
@@ -11422,14 +10822,11 @@ We  worship  the  Fravashi  of  the  holy  Visrdta.
 122.    We    worship    the    Fravashi    of    the    holy
 //z^aspa  ^ ;
 
-We  worship  the  Fravashi  of  the   holy  A'athwar-
-aspa  2.
+We  worship  the  Fravashi  of  the   holy  A'athwaraspa  2.
 
-We  worship    the  Fravashi   of  the  holy  Dawra-
-maeshi.
+We  worship    the  Fravashi   of  the  holy  Dawramaeshi.
 
-We  worship   the   Fravashi   of  the   holy  Fraora-
-ostra,  the  son  of  Kaosha.
+We  worship   the   Fravashi   of  the   holy  Fraoraostra,  the  son  of  Kaosha.
 
 We  worship  the  Fravashi  of  the  holy  Frinaspa,
 the  son  of  Kaeva.
@@ -11437,11 +10834,9 @@ the  son  of  Kaeva.
 We  worship  the  Fravashi   of  the   holy  Frada/-
 nara,  the  son  of  Gravaratu.
 
-We   worship   the    Fravashi    of    the    holy  Vohu-
-u^tra,  the  son  of  Akhnangha.
+We   worship   the    Fravashi    of    the    holy  Vohuu^tra,  the  son  of  Akhnangha.
 
-We   worship  the   Fravashi    of  the  holy  Vivare-
-shva;^/,  the  son  of  Ainyu.
+We   worship  the   Fravashi    of  the  holy  Vivareshva;^/,  the  son  of  Ainyu.
 
 123.     We   worship    the    Fravashi    of    the    holy
 Frarazi,  the  son  of  Ttara  ^
@@ -11459,8 +10854,7 @@ We  worship   the  Fravashi  of  the  holy  Aeta,  the
 son  of  Mayu ;
 
 
-1  Probably  the  same  with  Huvasp,  the  high-priest  in  the  Vouru-
-barerti  Karshvare  (Bund.  XXIX,  i ;  tr.  West,  note  8).
+1  Probably  the  same  with  Huvasp,  the  high-priest  in  the  Vourubarerti  Karshvare  (Bund.  XXIX,  i ;  tr.  West,  note  8).
 
 2  Possibly  the  same  with  the  high-priest  in  the  Vouru-^^'are^ti
 karshvare, i^akhravak  (ibid.,  note  9).  iTakhravak  is  the  generic
@@ -11478,11 +10872,9 @@ gau,  the  son  of  Vyatana.
 We  worship  the  Fravashi  of  the  holy  Gari^ta,
 the  son  of  Kavi.
 
-124.  We  worship  the  Fravashi  of  the  holy
 Pouru-bangha,  the  son  of  Zaosha.
 
-We  worship  the  Fravashi  of  the  holy  Vohu-
-data,  the  son  of  Kata.
+We  worship  the  Fravashi  of  the  holy  Vohudata,  the  son  of  Kata.
 
 We  worship  the  Fravashi  of  the  holy  Bc^ungha,
 the  son  of  S^ungha.
@@ -11496,11 +10888,9 @@ the  son  of  Erezva^danghu.
 We  worship  the  Fravashi  of  the  holy  Fra/§ithra,
 the  son  of  Berezva;^/.
 
-We  worship  the  Fravashi  of  the  holy  Vohu-
-peresa,  the  son  of  Ainyu.
+We  worship  the  Fravashi  of  the  holy  Vohuperesa,  the  son  of  Ainyu.
 
-125.  We  worship  the  Fravashi  of  the  holy  Paro-
-dasma,  the  son  of  Dai'taghni,  a  Mka  man  of  the
+125.  We  worship  the  Fravashi  of  the  holy  Parodasma,  the  son  of  Dai'taghni,  a  Mka  man  of  the
 Mi^'a  land.
 
 We  worship  the  Fravashis  of  the  holy  Fratira
@@ -11523,8 +10913,7 @@ Tanya  land.
 
 farvard!n  vast.  219
 
-126.  We  worship  the  Fravashi  of  the  holy  Tiro-
-nakathwa,  of  the  Uspae^ta-Saena  housed
+126.  We  worship  the  Fravashi  of  the  holy  Tironakathwa,  of  the  Uspae^ta-Saena  housed
 
 We  worship  the  Fravashi  of  the  holy  Utayuti
 Vi/-kavi,  the  son  of  Zighri,  of  the  Saena  house  ^ ;
@@ -11532,18 +10921,15 @@ Vi/-kavi,  the  son  of  Zighri,  of  the  Saena  house  ^ ;
 We  worship  the  Fravashi  of  the  holy  Frohakafra,
 the  son  of  Merezishmya,  of  the  Saena  house  ^
 
-We  worship  the  Fravashi  of  the  holy  Varesmo-
-rao/C-ah,  the  son  of  Perethu-afzem.
+We  worship  the  Fravashi  of  the  holy  Varesmorao/C-ah,  the  son  of  Perethu-afzem.
 
 127.  We  worship  the  Fravashis  ^  of  the  holy
 Asha-nemah  and  VidaZ-g^u,  of  this  country.
 
-We  worship  the  Fravashis  ^  of  the  holy  Par-
-sha/-g^u  and  Dazgara-g^u,  of  the  Apakhshira
+We  worship  the  Fravashis  ^  of  the  holy  Parsha/-g^u  and  Dazgara-g^u,  of  the  Apakhshira
 country.
 
-We  worship  the  Fravashi  of  the  holy  Hufra-
-vakhi-,  of  the  Kahrkana  house  \
+We  worship  the  Fravashi  of  the  holy  Hufravakhi-,  of  the  Kahrkana  house  \
 
 We  worship  the  Fravashi  of  the  holy  Akayadha,
 of  the  Pidha  house  ^
@@ -11557,7 +10943,6 @@ m^ungha,  the  younger*.
 We  worship  the  Fravashi  of  the  holy  Urvata/-
 nara,  the  younger  ^
 
-128.  We  worship  the  Fravashi  of  the  holy
 Rao>^as-/^ae^man  ;
 
 We  worship  the  Fravashi  of  the  holy  HvsLve-
@@ -11584,11 +10969,9 @@ We  worship  the  Fravashi  of  the  holy  FradaA
 We  worship  the  Fravashi  of  the  holy  Vareda/-
 ^z^arenah  ;
 
-We  worship  the  Fravashi  of  the  holy  Vouru-
-nemah ;
+We  worship  the  Fravashi  of  the  holy  Vourunemah ;
 
-We  worship  the  Fravashi  of  the  holy  Vouru-
-savah  ^ ;
+We  worship  the  Fravashi  of  the  holy  Vourusavah  ^ ;
 
 We  worship  the  Fravashi  of  the  holy  Ukhshya/-
 ereta  ^ ;
@@ -11610,13 +10993,11 @@ AsTVAr-ERETA  (he  who  makes  the  bodily  creatures
 
 ^  The  six  foremost  helpers  of  Saoshya«/,  each  in  one  of  the  six
 Karshvares  :  '  It  is  said  that  in  the  fifty-seven  years,  which  are  the
-period  of  the  raising  of  the  dead,  R6shan6-/^ashm  in  Arzah,  Khur-
-y^ashm  inSavah,Frada(f-gadman(Frada/-^z;aren6,  Increaser  of  Glory)
+period  of  the  raising  of  the  dead,  R6shan6-/^ashm  in  Arzah,  Khury^ashm  inSavah,Frada(f-gadman(Frada/-^z;aren6,  Increaser  of  Glory)
 in  Frada^afsh,  Varedarf-gadman  (VaredaZ-Az'areno,  Multiplier  of
 Glory)  in  Vidad'afsh,  Kamak-vakhshijn  (Vouru-nemo,  Prayer- loving)
 in  Voriibarj-t,  and  Kamak-su«/  (Vouru-savo,  Weal-loving)  in  Voru-
-^arjt,  while  Soshans  in  the  illustrious  and  pure  Khvaniras  is  con-
-nected with  them,  are  immortal.  The  completely  good  sense,
+^arjt,  while  Soshans  in  the  illustrious  and  pure  Khvaniras  is  connected with  them,  are  immortal.  The  completely  good  sense,
 perfect  hearing,  and  full  glory  of  those  seven  producers  of  the
 renovation  are  so  miraculous  that  they  converse  from  region  unto
 region,  every  one  together  with  the  six  others '  (Dadistan  XXXVI,
@@ -11636,8 +11017,7 @@ FARVARdIn    YAST.  221
 
 rise  up),  because  as  a  bodily  creature  and  as  a  living
 creature  he  will  stand  against  the  destruction  of  the
-bodily  creatures,  to  withstand  the  Dru^  of  the  two-
-footed  brood,  to  withstand  the  evil  done  by  the
+bodily  creatures,  to  withstand  the  Dru^  of  the  twofooted  brood,  to  withstand  the  evil  done  by  the
 faithful  ^
 
 XXIX.
@@ -11649,10 +11029,8 @@ caused  by  the  Da^vas,  against  the  drought  that
 destroys  pastures,  and  against  death  that  creeps
 unseen  *.
 
-131.  We  worship  the  Fravashi  of  the  holy
 Thraetaona,  of  the  Athwya  house  ^;  to  stand  against
-itch,  hot  fever,  humours,  cold  fever,  and  incon-
-tinency^  to  stand  against  the  evil  done  by  the
+itch,  hot  fever,  humours,  cold  fever,  and  incontinency^  to  stand  against  the  evil  done  by  the
 Serpent''.
 
 We  worship  the  Fravashi  of  the  holy  Aoshnara,
@@ -11663,8 +11041,7 @@ son  of  Tiimaspa  ^.
 
 
 ^  He  will  suppress  both  the  destructive  power  of  the  men  of
-the  Dru^  (idolaters  and  the  like)  and  the  errors  of  INIazdayas-
-nians  (?).
+the  Dru^  (idolaters  and  the  like)  and  the  errors  of  INIazdayasnians  (?).
 
 ^  See  above,  p.  25,  note  4.
 
@@ -11684,14 +11061,10 @@ Pahlavi  Texts,  II,  171,  note  3.
 to  have  been  a  son  of  Nodar  (Bund.  XXXI,  23).
 
 
-222
-
-
 YA5TS   AND    SIRdZAHS.
 
 
-We  worship  the  Fravashi  of  the  holy  Aghrae-
-ratha,  the  demi-man  ^
+We  worship  the  Fravashi  of  the  holy  Aghraeratha,  the  demi-man  ^
 
 We  worship  the  Fravashi  of  the  holy  Manu5-
 ^ithra,  the  son  of  Airyu^.
@@ -11768,8 +11141,7 @@ withstand  the  Yatus  and  Pairikas,  the  oppressors,
 the  blind,  and  the  deaf;  to  withstand  the  evil  done
 by  oppressors  \
 
-136.  We  worship  the  Fravashi  of  the  holy  Kere-
-saspa  2,  the  Sama  ^,  the  club-bearer  with  plaited  hair ;
+136.  We  worship  the  Fravashi  of  the  holy  Keresaspa  2,  the  Sama  ^,  the  club-bearer  with  plaited  hair ;
 to  withstand  the  dreadful  arm  and  the  hordes  with
 the  wide  battle  array,  with  the  many  spears,  with  the
 straight  spears,  with  the  spears  uplifted,  bearing  the
@@ -11777,7 +11149,6 @@ spears  of  havoc;  to  withstand  the  dreadful  brigand
 who  works  destruction*,  the  man-slayer  who  has  no
 mercy ;  to  withstand  the  evil  done  by  the  brigand.
 
-137.  We  worship  the  Fravashi  of  the  holy
 Akhrura"',  the  son  of  Husravah;
 
 To  withstand  the  wicked  one  that  deceives  his
@@ -11807,12 +11178,10 @@ West,  Pahlavi  Texts,  II,  375.
 We  worship  the  Fravashi  of  the  holy  and  gallant
 Haoshyangha ;
 
-To  withstand  the  Mazainya  Daevas  and  the  Va-
-renya  fiends ;  to  withstand  the  evil  done  by  the
+To  withstand  the  Mazainya  Daevas  and  the  Varenya  fiends ;  to  withstand  the  evil  done  by  the
 Daevas  ^.
 
-138.  We  worship  the  Fravashi  of  the  holy  Fra-
-dhakh^ti,  the  son  of  the  jar^,
+138.  We  worship  the  Fravashi  of  the  holy  Fradhakh^ti,  the  son  of  the  jar^,
 
 To  withstand  Aeshma,  the  fiend  of  the  wounding
 spear,  and  the  Daevas  that  grow  through  Aeshma ;
@@ -11820,7 +11189,6 @@ to  withstand  the  evil  done  by  Aeshma.
 
 XXX.
 
-139.  We  worship  the  Fravashi  of  the  holy
 Hvovi^
 
 We  worship  the  Fravashi  of  the  holy  Fr^ni  ;
@@ -11858,13 +11226,11 @@ A
 
 FARVARDIN    VAST.  22  5
 
-We  worship  the  Fravashi  of  the  holy  Vispa-
-taurvashi.
+We  worship  the  Fravashi  of  the  holy  Vispataurvashi.
 
 We  worship  the  Fravashi  of  the  holy  Ui"tavaiti.
 
-We  worship  the  Fravashi  of  the  holy  Tuiria-
-maiti.
+We  worship  the  Fravashi  of  the  holy  Tuiriamaiti.
 
 140.  We  worship  the  Fravashi  of  the  holy  Frt'ni,
 the  wife  of  Usenemah  ^ ;
@@ -11881,8 +11247,7 @@ wife  of  Gayadhasti  *.
 We  worship  the  Fravashi  of  the  holy  Asabani,
 the  wife  of  Pourudhakh^ti  ^.
 
-We  worship  the  Fravashi  of  the  holy  Ukhsh-
-yei;«ti,  the  wife  of  Staotar-Vahi^tahe-Ashyehe  ^.
+We  worship  the  Fravashi  of  the  holy  Ukhshyei;«ti,  the  wife  of  Staotar-Vahi^tahe-Ashyehe  ^.
 
 141.  We  worship  the  Fravashi  of  the  holy  maid
 Vadh{i^.
@@ -11893,8 +11258,7 @@ We  worship  the  Fravashi  of  the  holy  maid
 We  worship  the  Fravashi  of  the  holy  maid
 Franghadh.
 
-We  worship  the  Fravashi  of  the  holy  maid  Urii-
-dhayawA
+We  worship  the  Fravashi  of  the  holy  maid  UriidhayawA
 
 We  worship  the  Fravashi  of  the  holy  maid  Pa6-
 sanghanu.
@@ -11913,9 +11277,6 @@ We  worship  the  Fravashi  of  the  holy  Kanuka.
 "^  See§in.  «  Ibid.
 
 [23]  Q
-
-
-226  YA5TS    AND    SIROZAHS
 
 
 We  worship  the  Fravashi  of  the  holy  maid
@@ -11947,11 +11308,9 @@ We  worship  the  Fravashis  of  the  holy  men  in
 the  Sairimyan  countries*';
 
 
-^  UkhshyaZ-ereta's  mother  (see  above,  §  126);  the  Saddar  Bun-
-dahij  (Etudes  Iraniennes,  II,  209)  calls  her  Bad,  from  the  last
+^  UkhshyaZ-ereta's  mother  (see  above,  §  126);  the  Saddar  Bundahij  (Etudes  Iraniennes,  II,  209)  calls  her  Bad,  from  the  last
 part  of  her  name  (fedhri  for  padhri),  and  states  that,  bathing  in
-Lake  Kasava,  she  will  become  pregnant  from  the  seed  of  Zara-
-thuj-tra,  that  is  preserved  there  (see  above,  p.  195,  note  2),  and  she
+Lake  Kasava,  she  will  become  pregnant  from  the  seed  of  Zarathuj-tra,  that  is  preserved  there  (see  above,  p.  195,  note  2),  and  she
 will  bring  forth  a  son,  Oshedar  bamt.
 
 ^  UkhshyaZ-nemah's  mother,  called  Vah  Bad  in  the  Saddar ;  she
@@ -12040,8 +11399,7 @@ asking  help,  and  for  offering  a  sacrifice  unto  you,
 O  most  beneficent  Fravashis  !
 
 148.  We  worship  the  Fravashis  of  all  the  holy
-men  and  holy  women  whose  souls  are  worthy  of  sa-
-crifice ^,  whose  Fravashis  are  worthy  of  invocation.
+men  and  holy  women  whose  souls  are  worthy  of  sacrifice ^,  whose  Fravashis  are  worthy  of  invocation.
 
 We  worship  the  Fravashis  of  all  the  holy  men
 and  holy  women,  our  sacrificing  to  whom  makes  us
@@ -12049,12 +11407,10 @@ good  in  the  eyes  of  Ahura  Mazda  :  of  all  of  those  we
 have  heard  that  Zarathu^tra  is  the  first  and  best,  as  a
 follower  of  Ahura  and  as  a  performer  of  the  law.
 
-149.  We  worship  the  spirit,  conscience,  percep-
-tion, soul,  and  Fravashi  ^  of  men  of  the  primitive
+149.  We  worship  the  spirit,  conscience,  perception, soul,  and  Fravashi  ^  of  men  of  the  primitive
 law  ^  of  the  first  who  listened  to  the  teaching  (of
 Ahura),  holy  men  and  holy  women,  who  struggled
-for  holiness^;  we  worship  the  spirit,  conscience,  per-
-ception, soul,  and  Fravashi  of  our  next-of-kin,  holy
+for  holiness^;  we  worship  the  spirit,  conscience,  perception, soul,  and  Fravashi  of  our  next-of-kin,  holy
 men  and  holy  women,  who  struggled  for  holiness^.
 
 150.  We  worship  the  men  of  the  primitive  law
@@ -12084,19 +11440,15 @@ FARVARDiN    YA^-T.  229
 
 in  all  houses,  boroughs,  towns,  and  countries,  who
 obtained  these  houses,  who  obtained  these  boroughs,
-who  obtained  these  towns,  who  obtained  these  coun-
-tries, who  obtained  holiness, who  obtained  the  Mathra,
-who  obtained  the  [blessedness  of  the]  soul,  who  ob-
-tained all  the  perfections  of  goodness.
+who  obtained  these  towns,  who  obtained  these  countries, who  obtained  holiness, who  obtained  the  Mathra,
+who  obtained  the  [blessedness  of  the]  soul,  who  obtained all  the  perfections  of  goodness.
 
 152.  We  worship  Zarathu^tra,  the  lord  and
 master  of  all  the  material  world,  the  man  of  the
-primitive  law ;  the  wisest  of  all  beings,  the  best-
-ruling  of  all  beings,  the  brightest  of  all  beings,  the
+primitive  law ;  the  wisest  of  all  beings,  the  bestruling  of  all  beings,  the  brightest  of  all  beings,  the
 most  glorious  of  all  beings,  the  most  worthy  of
 sacrifice  amongst  all  beings,  the  most  worthy  of
-prayer  amongst  all  beings,  the  most  worthy  of  pro-
-pitiation amongst  all  beings,  the  most  worthy  of
+prayer  amongst  all  beings,  the  most  worthy  of  propitiation amongst  all  beings,  the  most  worthy  of
 glorification  amongst  all  beings,  whom  we  call
 well-desired  and  worthy  of  sacrifice  and  prayer  as
 much  as  any  being  can  be,  in  the  perfection  of  his
@@ -12128,10 +11480,8 @@ Iraniennes,  II,  150).
 2^0  YA^TS    AND    siROZAHS.
 
 
-155.  We  worship  the  spirit,  conscience,  percep-
-tion, soul,  and  Fravashi  of  the  holy  men  and  holy
-women  who  struggle,  will  struggle,  or  have  strug-
-gled, and  teach  the  Law,  and  who  have  struggled
+155.  We  worship  the  spirit,  conscience,  perception, soul,  and  Fravashi  of  the  holy  men  and  holy
+women  who  struggle,  will  struggle,  or  have  struggled, and  teach  the  Law,  and  who  have  struggled
 for  holiness.
 
 Y^nhe  hatam:  All  those  beings  to  whom  Ahura  Mazda  ....
@@ -12189,8 +11539,7 @@ Verethraghna  appeared  to  Zarathui'tra  (as  a  wind,  §  2 ;  as  a  bull,
 youth,  §  17  ;  as  a  raven,  §  19  ;  as  a  ram,  §  23  ;  as  a  buck,  §  25 ;
 and  as  a  man,  §  27).
 
-II  (§§  30-33).  The  powers  given  by  Verethraghna  to  his  wor-
-shipper, Zarathujtra.
+II  (§§  30-33).  The  powers  given  by  Verethraghna  to  his  worshipper, Zarathujtra.
 
 III  (§§  34-46).  The  magical  powers,  ascribed  to  the  raven's
 feather,  of  striking  terror  into  an  army  and  dispersing  it  (the  raven
@@ -12203,8 +11552,7 @@ o.  May  Ahura  Mazda  be  rejoiced !  .  .  . .
 
 Ashem  Vohu  :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura  ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura  ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
@@ -12212,8 +11560,7 @@ the  holy  and  master  of  holiness  ....
 Unto  Verethraghna,  made  by  Mazda,  and  unto
 the  crushing  Ascendant^ ;
 
-Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glorifi-
-cation.
+Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glorification.
 
 Yatha  ahft  vairyo :  The  will  of  the  Lord  is  the  law  of
 holiness  ....
@@ -12243,11 +11590,9 @@ made  by  Mazda,  the  Glory  made  by  Mazda,  that  is
 both  health  and  strength.
 
 3.  Then  he,  who  is  the  strongest \  said  unto  him^:
-'  I  am  the  strongest  in  strength  ;  I  am  the  most  vic-
-torious in  victory ;  I  am  the  most  glorious  in  Glory ;
+'  I  am  the  strongest  in  strength  ;  I  am  the  most  victorious in  victory ;  I  am  the  most  glorious  in  Glory ;
 I  am  the  most  favouring  in  favour ;  I  am  the  best
-giver  of  welfare  ;  I  am  the  best- healing  in  health-
-giving.
+giver  of  welfare  ;  I  am  the  best- healing  in  healthgiving.
 
 4.  '  And  I  shall  destroy  the  malice  of  all  the
 malicious,  the  malice  of  Daevas  and  men,  of  the
@@ -12256,13 +11601,11 @@ and  the  deaf.
 
 5.  'For  his  brightness  and  glory,  I  will  offer  unto
 him  a  sacrifice  worth  being  heard ;  namely,  unto
-Verethraghna,  made  by  Ahura.  We  worship  Vere-
-thraghna, made  by  Ahura,  with  an  offering  of  liba-
+Verethraghna,  made  by  Ahura.  We  worship  Verethraghna, made  by  Ahura,  with  an  offering  of  liba-
 tions, according  to  the  primitive  ordinances  of
 Ahura ;  with  the  Haoma  and  meat,  the  baresma,
 the  wisdom  of  the  tongue,  the  holy  spells,  the
-speech,  the  deeds,  the  libations,  and  the  rightly-
-spoken  words.
+speech,  the  deeds,  the  libations,  and  the  rightlyspoken  words.
 
 'Ye«he  hatam:  All  those  beings  of  whom  Ahura  Mazda  ....
 
@@ -12317,8 +11660,7 @@ Ahura    Mazda   answered :    'It    is  Verethraghna,
 made  by  Ahura,  O  Spitama  Zarathu^tra!'
 
 9.  Verethraghna,  made  by  Ahura,  came  to  him
-the  third  time,  running  in  the  shape  of  a  white,  beau-
-tiful horse,  with  yellow  ears  and  a  golden  caparison  ;
+the  third  time,  running  in  the  shape  of  a  white,  beautiful horse,  with  yellow  ears  and  a  golden  caparison  ;
 upon  whose  forehead  floated  the  well-shapen  Strength,
 
 ^  As  above,  §  3.         ^  As  above,  §  4.         ^  As  above,  §  5.
@@ -12353,15 +11695,13 @@ Ahura    Mazda    answered :    'It    is  Verethraghna,
 made  by  Ahura,  O  Spitama  Zarathunra!'
 
 11.  Verethraghna,  made  by  Ahura,  came  to  him
-the  fourth  time,  running  in  the  shape  of  a  burden-
-bearing  ^  camel,  sharp-toothed  '\  swift  .  .  .  .  •\
+the  fourth  time,  running  in  the  shape  of  a  burdenbearing  ^  camel,  sharp-toothed  '\  swift  .  .  .  .  •\
 stamping  forwards,  long-haired,  and  living  in  the
 abodes  of  men  ^;
 
 1 2.  Who  of  all  males  in  rut  shows  greatest  strength
 and  greatest  fire,  when  he  goes  to  his  females.  Of
-all  females  those  are  best  kept  whom  a  burden-
-bearing  camel  keeps,  who  has  thick  forelegs  and
+all  females  those  are  best  kept  whom  a  burdenbearing  camel  keeps,  who  has  thick  forelegs  and
 large  humps,  .  .  .  .^  quick-eyed,  long-headed,  bright,
 tall,  and  strong ;
 
@@ -12400,8 +11740,7 @@ Ahura    Mazda    answered :    'It    Is  Verethraghna,
 made  by  Ahura,  O  Spltama  Zarathu^tra !'
 
 15.  Verethraghna,  made  by  Ahura,  came  to  him
-the  fifth  time,  running  In  the  shape  of  a  boar,  oppos-
-ing the  foes,  a  sharp-toothed  he-boar,  a  sharp-jawed
+the  fifth  time,  running  In  the  shape  of  a  boar,  opposing the  foes,  a  sharp-toothed  he-boar,  a  sharp-jawed
 boar,  that  kills  at  one  stroke,  pursuing,  wrathful,
 with  a  dripping  face\  strong,  and  swift  to  run,  and
 rushlnof  all  around  ^.
@@ -12593,8 +11932,7 @@ the  health  of  the  whole  body,  the  sturdiness  of  the
 whole  body,  and  the  eye-sight  of  the  Kara  fish  ^
 that  lives  beneath  the  waters  and  can  measure  =^  a
 rippling  of  the  water,  not  thicker  than  a  hair,  in  the
-Rangha  whose  ends  lie  afar,  whose  depth  is  a  thou-
-sand times  the  height  of  a  man  ^.
+Rangha  whose  ends  lie  afar,  whose  depth  is  a  thousand times  the  height  of  a  man  ^.
 
 For  his  brightness  and  glory,  I  will  offer  unto  him  a  sacrifice
 worth  being  heard  ....
@@ -12633,9 +11971,6 @@ water  shall  increase,  or  by  which  it  is  diminishing '  (tr.  West).
 time  when  the  light  begins  to  grow ;  midnight).
 
 «  Cf  Yt.  XVI,  10,  and  Bundahi^  XIX,  32  :  '  Regarding  the  Arab
-
-
-240  YA^TS    AND    SIROZAHS.
 
 
 For  his  brightness  and  glory,  I  will  offer  unto  him  a  sacrifice
@@ -12728,8 +12063,7 @@ carries  the  chariots  of  the  lordly  ones,  the  chariots
 of  the  sovereigns.     He  carried  the  chariot  of  Kavi
 
 
-^  Pesho-parena.  The  Varew^ana  is  the  same  bird  as  the  Vara-
-ghna,  the  raven.
+^  Pesho-parena.  The  Varew^ana  is  the  same  bird  as  the  Varaghna,  the  raven.
 
 2  The  feather  of  the  Varew^ana  plays  here  the  same  part  as  the
 Simurgh's  feather  in  the  Shah  Namah.  When  Riadabah's  flank
@@ -12809,13 +12143,11 @@ we  must  praise  him  ?     That  we  must  humbly  praise
 him?'
 
 43.  Ahura  Mazda  answered  :  '  When  armies  meet
-together  in  full  array,  O  Spitama  Zarathu^tra !  (ask-
-ing) which  of  the  two  is  the  party  that  conquers^  and
+together  in  full  array,  O  Spitama  Zarathu^tra !  (asking) which  of  the  two  is  the  party  that  conquers^  and
 is  not  crushed,  that  smites  and  is  not  smitten ;
 
 44.  'Do  thou  throw ^  four  feathers ^  in  the  way.
-Whichever  of  the  two  will  first  worship  the  well-
-shapen  Strength,  andVerethraghna,  beautiful  of  form,
+Whichever  of  the  two  will  first  worship  the  wellshapen  Strength,  andVerethraghna,  beautiful  of  form,
 made  by  Mazda,  on  his  side  will  victory  stand.
 
 45.  '  I  will  bless  Strength  and  Victory,  the  two
@@ -12843,14 +12175,10 @@ who  goes  along  the  armies  arrayed,  and  goes  here
 
 ^  Or  an  arrow  feathered  with  four  Vare?/^ana's  feathers.
 '  A-dhwaozen,  vi-dhwaozen,  fra-dhwaozen.
-*  Amarezen,  cf.  ^JJo^^^T;  vimarezen,  cf.  Yt.  I,  2  ;  fra  mare-
-zen,  cf.  ^Jiy^.
+*  Amarezen,  cf.  ^JJo^^^T;  vimarezen,  cf.  Yt.  I,  2  ;  fra  marezen,  cf.  ^Jiy^.
 «  Cf.  Yt.  IV,  10.
 
 R  2
-
-
-244  YA^TS    AND    SIROZAHS.
 
 
 and  there  asking,  along  with  Mithra  and  Rashnu  :
@@ -12882,8 +12210,7 @@ one  and  the  same  colour.
 51.  '  Let  not  a  murderer  take  of  those  offerings,
 nor  a  whore,  nor  a  ....  ,  who  does  not  sing
 the  Gathas,  who  spreads  death  in  the  world  and
-withstands  the  law  of  Mazda,  the  law  of  Zara-
-thui^tra.
+withstands  the  law  of  Mazda,  the  law  of  Zarathui^tra.
 
 52.  '  If  a  murderer  take  of  those  offerings,  or  a
 whore,  or  a  .... ,  who  does  not  sing  the  Gathis,
@@ -12902,23 +12229,19 @@ Against  truth.  ^  Cf.  Yt.  X,  108  seq.
 BAHRAM    YA^T.  245
 
 
-53.  '  Plagues  will  ever  pour  upon  the  Aryan  na-
-tions ;  hostile  hordes  will  ever  fall  upon  the  Aryan
+53.  '  Plagues  will  ever  pour  upon  the  Aryan  nations ;  hostile  hordes  will  ever  fall  upon  the  Aryan
 nations ;  the  Aryans  will  be  smitten  by  their  fifties
 and  their  hundreds,  by  their  hundreds  and  their
 thousands,  by  their  thousands  and  their  tens  of
 thousands,  by  their  tens  of  thousands  and  their
 myriads  of  myriads.'
 
-54.  There  Verethraghna,  made  by  Ahura,  pro-
-claimed thus :  '  The  Soul  of  the  Bull  \  the  wise
+54.  There  Verethraghna,  made  by  Ahura,  proclaimed thus :  '  The  Soul  of  the  Bull  \  the  wise
 creature,  does  not  receive  from  man  due  sacrifice
-and  prayer ;  for  now  the  Daevas  and  the  wor-
-shippers of  the  Daevas  make  blood  flow  and  spill  it
+and  prayer ;  for  now  the  Daevas  and  the  worshippers of  the  Daevas  make  blood  flow  and  spill  it
 like  water ;
 
-55.  'For  now  the  .  .  .  .^  Daevas  and  the  wor-
-shippers of  the  Daevas  bring  to  the  fire  the  plant
+55.  'For  now  the  .  .  .  .^  Daevas  and  the  worshippers of  the  Daevas  bring  to  the  fire  the  plant
 that  is  called  Haperesi,  the  wood  that  is  called
 Neme/ka^ ;
 
@@ -12927,8 +12250,7 @@ worshippers  of  the  Daevas  bow  their  backs,  bend
 their  waists,  and  arrange  all  their  limbs'*,  they  think
 they  will  smite  and  smite  not,  they  think  they  will
 kill  and  kill  not ;  and  then  the  . .  . .  ^  Daevas  and  the
-worshippers  of  the  Daevas  have  their  minds  con-
-founded and  their  eyes  made  giddy  ^'
+worshippers  of  the  Daevas  have  their  minds  confounded and  their  eyes  made  giddy  ^'
 
 For  his  brightness  and  glory,  I  will  offer  unto  him  a  sacrifice
 worth  being  heard  ....
@@ -13049,8 +12371,6 @@ him  his  need  (water  and  grass),  he  gives  us  our  need  (milk  and
 calves),'  (Pahl.  tr.).
 
 
-248  YA5'TS    AND    sIrOZAHS.
-
 from  the  ears  of  the  Mithradrii^es^  marching  in
 cohimns,  alHed  by  cities,  they  can  no  longer  move
 their  feet,  they  can  no  longer  withstand.
@@ -13107,8 +12427,7 @@ o.  May  Ahura  Mazda  be  rejoiced !  .  .  .  .
 
 Ashem  Vohu :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas,  and  obeys  the  laws  of  Ahura ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas,  and  obeys  the  laws  of  Ahura ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
@@ -13167,8 +12486,7 @@ belongs  to  Spewta  Mainyu ^
 
 For  his  brightness  and  glory,  I  will  offer  unto  him
 a  sacrifice  worth  being  heard,  namely,  unto  the  awful
-Vayu,  who  works  highly.  We  offer  up  a  sacri-
-fice unto  the  awful  Vayu,  who  works  highly,  with
+Vayu,  who  works  highly.  We  offer  up  a  sacrifice unto  the  awful  Vayu,  who  works  highly,  with
 the  libations,  with  the  Haoma  and  meat,  with  the
 baresma,  with  the  wisdom  of  the  tongue,  with  the
 
@@ -13202,8 +12520,7 @@ invoke  .  .  .  .^
 7.  To  him  did  Haoshyangha,  the  Paradhata,  offer
 up  a  sacrifice  on  the  Taera  of  the  Hara,  bound  with
 iron^  on  a  golden  throne,  under  golden  beams  and
-a  golden  canopy,  with  bundles  of  baresma  and  offer-
-ings of  full-boiling  [milk].
+a  golden  canopy,  with  bundles  of  baresma  and  offerings of  full-boiling  [milk].
 
 8.  He  begged  of  him  a  boon,  saying  :  '  Grant  me,
 O  Vayu  !  who  dost  work  highly,  that  I  may  smite
@@ -13273,13 +12590,11 @@ into  a  horse.  But  at  last  his  wife,  deceived  by  Ahriman,  revealed
 to  him  the  secret  of  her  husband's  power,  and  Tahmuraf  was
 swallowed  up  by  his  horse.  But  Yima  managed  to  take  back  his
 brother's  body  from  the  body  of  Ahriman  and  recovered  thereby
-the  arts  and  civilisation  which  had  disappeared  along  with  Tah-
-muraf (see  Minokhired  XXVII,  32 ;  Ravaet  apud  Spiegel,  Einleitung
+the  arts  and  civilisation  which  had  disappeared  along  with  Tahmuraf (see  Minokhired  XXVII,  32 ;  Ravaet  apud  Spiegel,  Einleitung
 in  die  traditionelle  Literatur,  pp.  317  seq.;  Ormazd  et  Ahriman,
 §  137  seq.;  cf  above,  p.  60,  note  i).
 
-2  Azinava^z/  or  zaenahvaw/:  he  kept  that  epithet  in  later  tra-
-dition :  Zinavend, '  quod  cognomen  virum  significat  armis  probe
+2  Azinava^z/  or  zaenahvaw/:  he  kept  that  epithet  in  later  tradition :  Zinavend, '  quod  cognomen  virum  significat  armis  probe
 instructum'  (Hamza  Ispahensis,  p.  20,  tr.  Gottwaldt).
 
 '  As  told  Yt.  XIX,  29.
@@ -13288,8 +12603,7 @@ instructum'  (Hamza  Ispahensis,  p.  20,  tr.  Gottwaldt).
 RAM    YA^T.  253
 
 
-herd,  sacrifice  from  the  height  Hukairya,  the  all-
-shining  and  golden,  on  a  golden  throne,  under  golden
+herd,  sacrifice  from  the  height  Hukairya,  the  allshining  and  golden,  on  a  golden  throne,  under  golden
 beams  and  a  golden  canopy,  with  bundles  of  baresma
 and  offerings  of  full-boiling  [milk].
 
@@ -13328,8 +12642,7 @@ offer  up  a  sacrifice  in  his  accursed  palace  of  Kviri;/ta^,
 "^  This  passage  is  interpolated  from  Yasna  IX,  5  (17-19).
 
 '  Or,  'his  accursed  palace  of  the  Stork'  (upa  kviri«tem  duzitem).
-'Azi  Dahaka,' says  Hamza  (p.  32  in  the  text,  p.  22  in  the  transla-
-tion), 'used  to  live  in  Babylon  (cf.  Yt.V,  29),  where  he  had  built
+'Azi  Dahaka,' says  Hamza  (p.  32  in  the  text,  p.  22  in  the  translation), 'used  to  live  in  Babylon  (cf.  Yt.V,  29),  where  he  had  built
 a  palace  in  the  form  of  a  stork;  he  called  it  Kuleng  Dis
 ((_^j  dli^,  the  fortress  of  the  Stork;  the  inhabitants  called
 it  Dis  Het  (o^  ^j-^.^)'  Kuleng  Dis  was  in  Zend  Kviriwta
@@ -13392,8 +12705,7 @@ RAM    VAST.  255
 demon  baleful  to  the  world,  the  strongest  Druc^  that
 Angra  Mainyu  created  against  the  material  world,  to
 destroy  the  world  of  the  good  principle  ;  and  that  I
-may  deliver  his  two  wives,  Savanghava./^  and  Erena-
-vak,  who  are  the  fairest  of  body  amongst  women,  and
+may  deliver  his  two  wives,  Savanghava./^  and  Erenavak,  who  are  the  fairest  of  body  amongst  women,  and
 the  most  wonderful  creatures  in  the  world  \'
 
 25.  Vayu,  who  works  highly,  granted  him  that
@@ -13419,8 +12731,7 @@ golden  beams  and  a  golden  canopy,  with  bundles  of
 baresma  and  offerings  of  full-boiling  [milk].
 
 28.  He  begged  of  him  a  boon,  saying  :  'Grant  me
-this,  O  Vayu  !  who  dost  work  highly,  that  I  may  suc-
-ceed in  avenging  my  brother  Urvakhshaya*,  that  I
+this,  O  Vayu  !  who  dost  work  highly,  that  I  may  succeed in  avenging  my  brother  Urvakhshaya*,  that  I
 may  smite  Hitaspa  and  yoke  him  to  my  chariot.'
 
 The  Ga;^darewa,  who  lives  beneath  the  waters.
@@ -13513,8 +12824,7 @@ To  this  Vayu  do  we  sacrifice,  this  Vayu  do  we
 invoke  ....
 
 35.  To  him  did  Hutaosa,  she  of  the  many
-brothers^,  of  the  Naotara  house ^,  offer  up  a  sacri-
-fice, on  a  golden  throne,  under  golden  beams  and  a
+brothers^,  of  the  Naotara  house ^,  offer  up  a  sacrifice, on  a  golden  throne,  under  golden  beams  and  a
 golden  canopy,  with  bundles  of  baresma  and  offerings
 of  boiling  milk.
 
@@ -13556,8 +12866,7 @@ baresma  and  offerings  of  boiling  milk.
 40.  They  begged  of  him  a  boon,  saying :  '  Grant
 us  this,  O  Vayu  !  who  dost  work  highly,  that  we
 may  find  a  husband,  young  and  beautiful  of  body,
-who  will  treat  us  well,  all  life  long,  and  give  us  off-
-spring ;  a  wise,  learned,  ready-tongued  husband.'
+who  will  treat  us  well,  all  life  long,  and  give  us  offspring ;  a  wise,  learned,  ready-tongued  husband.'
 
 41.  Vayu,  who  works  highly,  granted  them  that
 boon,  as  the  Maker,  Ahura  Mazda,  did  pursue  it.
@@ -13585,8 +12894,7 @@ name  is  Vayu,  because  I  go  through  (vyemi)  the
 two  worlds  ^  the    one  which    the  Good  Spirit  has
 
 ^  It  may  be  doubted  whether  the  allusion  here  is  to  a  legend  of
-marriage  en  masse,  following  the  marriage  of  Hutaosa  with  Vij-
-taspa,  or  whether  the  aorist  is  used  with  an  indicative  meaning :
+marriage  en  masse,  following  the  marriage  of  Hutaosa  with  Vijtaspa,  or  whether  the  aorist  is  used  with  an  indicative  meaning :
 '  To  him  do  the  maids  who  have  known  no  man  ....  They  beg
 of  him  a  boon,  saying  .  .  .  .'     Cf.Yt.  XVI,  17.
 
@@ -13615,8 +12923,7 @@ creatures  of  both  worlds,  the  one  that  the  Good
 Spirit  has  made  and  the  one  that  the  Evil  Spirit
 has  made.
 
-My  name  is  the  Worker  of  Good,  O  holy  Zara-
-thui-tra !  My  name  is  the  Worker  of  Good,  because
+My  name  is  the  Worker  of  Good,  O  holy  Zarathui-tra !  My  name  is  the  Worker  of  Good,  because
 I  work  the  good  of  the  Maker,  Ahura  Mazda,  and  of
 the  Amesha-Spe/;tas\
 
@@ -13681,11 +12988,9 @@ the  long  spear.
 My  name  is  Piercingness  of  spear ;  my  name  is
 He  of  the  piercing  spear.
 
-My  name  is  the  Glorious ;  my  name  is  the  Over-
-glorious.
+My  name  is  the  Glorious ;  my  name  is  the  Overglorious.
 
-49 ^  Invoke  these  names  of  mine,  O  holy  Zara-
-thui'tra !  in  the  midst  of  the  havocking  hordes,  in  the
+49 ^  Invoke  these  names  of  mine,  O  holy  Zarathui'tra !  in  the  midst  of  the  havocking  hordes,  in  the
 midst  of  the  columns  moving  forwards,  in  the  strife
 of  the  conflicting  nations.
 
@@ -13706,21 +13011,18 @@ his  better  half,  he  struggles  against  the  fiend  and  destroys  him.
 RAM    YA5T.  26 1
 
 
-50.  Invoke  these  names  of  mine,  O  holy  Zara-
-thujtra!  when  the  all-powerful  tyrant  of  a  country
+50.  Invoke  these  names  of  mine,  O  holy  Zarathujtra!  when  the  all-powerful  tyrant  of  a  country
 falls  upon  thee,  rushes  upon  thee,  deals  wounds  upon
 thee,  or  hurls  his  chariot  against  thee,  to  rob  thee^
 of  thy  wealth,  to  rob  thee  of  thy  health.
 
-51.  Invoke  these  names  of  mine,  O  holy  Zara-
-thu^tra!  when  the  unholy  Ashemaogha  falls  upon
+51.  Invoke  these  names  of  mine,  O  holy  Zarathu^tra!  when  the  unholy  Ashemaogha  falls  upon
 thee,  rushes  upon  thee,  deals  wounds  upon  thee,  or
 hurls  his  chariot  against  thee,  to  rob  thee  of  thy
 strength,  to  rob  thee  of  thy  wealth,  to  rob  thee  of
 thy  health.
 
-52.  Invoke  these  names  of  mine,  O  holy  Zara-
-thu^tra !  when  a  man  stands  in  bonds,  when  a  man
+52.  Invoke  these  names  of  mine,  O  holy  Zarathu^tra !  when  a  man  stands  in  bonds,  when  a  man
 is  being  thrown  into  bonds,  or  when  a  man  is  being
 dragged  in  bonds  :  thus  the  prisoners  flee  from  the
 hands  of  those  who  carry  them,  they  flee  away  out
@@ -13736,8 +13038,7 @@ power  ^
 thee  ?  With  what  manner  of  sacrifice  shall  I  forward
 and  worship  thee  ?  With  what  manner  of  sacrifice
 will  be  achieved  thy  adoration,  O  great  Vayu  !  thou
-who  art  high-up  girded,  firm,  swift-moving,  high-
-footed,  wide-breasted,  wide-thighed,  with  untrembling
+who  art  high-up  girded,  firm,  swift-moving,  highfooted,  wide-breasted,  wide-thighed,  with  untrembling
 eyes,  as  powerful  in  sovereignty  as  any  absolute
 sovereign  in  the  world  ? '
 
@@ -13755,11 +13056,9 @@ o
 
 55.  'Take  thou  a  baresma,  O  holy  Zarathu^tra !
 turn  it  upwards  or  downwards,  according  as  it  is  full
-day  or  dawning ;  upwards  during  the  day,  down-
-wards at  the  dawn\
+day  or  dawning ;  upwards  during  the  day,  downwards at  the  dawn\
 
-56.  '  If  thou  makest  me  worshipped  with  a  sacri-
-fice, then  I  shall  say  unto  thee  with  my  own  voice
+56.  '  If  thou  makest  me  worshipped  with  a  sacrifice, then  I  shall  say  unto  thee  with  my  own  voice
 things  of  health,  made  by  Mazda  and  full  of  glory,
 so  that  Angra  Mainyu  may  never  do  harm  unto  thee,
 nor  the  Yatus,  nor  those  addicted  to  the  works  of  the
@@ -13834,8 +13133,7 @@ the  knowledge  of  what  leads  to  bliss  (far^anak,  nirvawa^ilana ;  the
 same  as  ^isti).
 
 The  description  of  Alsta  is  rather  pallid,  and  does  not  rise  above
-abstractions  (see,  however,  Mihir  Ya-rt,  §  126).  She  was  not  wor-
-shipped by  the  old  epic  heroes  as  Anahita  was,  but  by  Zarathujtra
+abstractions  (see,  however,  Mihir  Ya-rt,  §  126).  She  was  not  worshipped by  the  old  epic  heroes  as  Anahita  was,  but  by  Zarathujtra
 and  his  wife,  because  she  must  have  been,  from  her  very  name  and
 nature,  a  goddess  of  Zoroastrian  origin  and  growth.
 
@@ -13881,8 +13179,7 @@ Abode  2,  thou  most  right  Arista,  made  by  Mazda  and
 holy.  If  thou  art  before  me,  stay  for  me;  if  thou
 art  behind  me,  overtake  me.
 
-3.  '  Let  everything  be  as  friendly  to  us  as  any-
-thing can  be  :  may  we  go  smoothly  along  the  roads,
+3.  '  Let  everything  be  as  friendly  to  us  as  anything can  be  :  may  we  go  smoothly  along  the  roads,
 find  good  pathways  in  the  mountains,  run  easily
 through  the  forests,  and  cross  happily  the  rivers!'
 
@@ -13893,8 +13190,7 @@ offer  up  a  sacrifice  unto  the  most  right  A'ista,
 made  by  Mazda  and  holy,  with  the  libations,  with
 the  Haoma  and  meat,  with  the  baresma,  with  the
 wisdom  of  the  tongue,  with  the  holy  spells,  with  the
-words  and  deeds,  with  the  libations,  with  the  well-
-spoken  words.
+words  and  deeds,  with  the  libations,  with  the  wellspoken  words.
 
 YenhQ  hatam:  All  those  beings  of  whom
 Ahura  Mazda  ....
@@ -13906,9 +13202,6 @@ Mazda  and  holy :  we  sacrifice  to  the  good  Law  of
 the  worshippers  of  Mazda  .  .
 
 
-3
-
-
 ^  Reading  nimarezijta;  cf.  vimarezijtem,  Yt.  I,  2.
 2  The  heavenly  abode,  the  Garolhmdn.
 '  The  rest  as  in  §  i.
@@ -13917,8 +13210,7 @@ the  worshippers  of  Mazda  .  .
 266  YASTS    AND    siROZAHS.
 
 
-6.  To  whom  Zarathiutra  did  sacrifice  for  right-
-eousness of  thought,  for  righteousness  of  speech,  for
+6.  To  whom  Zarathiutra  did  sacrifice  for  righteousness of  thought,  for  righteousness  of  speech,  for
 righteousness  of  deed,  and  for  this  boon,
 
 7.  That  the  most  right  ATista,  made  by  Mazda
@@ -13940,8 +13232,7 @@ III.
 Mazda  and  holy :  we  sacrifice  to  the  good  Law  of
 the  worshippers  of  Mazda  ....
 
-9.  To  whom  Zarathu^tra  did  sacrifice  for  righteous-
-ness of  thought,  for  righteousness  of  speech,  for
+9.  To  whom  Zarathu^tra  did  sacrifice  for  righteousness of  thought,  for  righteousness  of  speech,  for
 righteousness  of  deed,  and  for  this  boon,
 
 10.  That  the  most  right  Arista,  made  by  Mazda
@@ -13971,8 +13262,7 @@ lY.
 by  Mazda  and  holy  :  we  sacrifice  to  the  good  Law
 of  the  worshippers  of  Mazda  ....
 
-12.  To  whom  Zarathu^tra  did  sacrifice  for  right-
-eousness of  thought,  for  righteousness  of  speech,  for
+12.  To  whom  Zarathu^tra  did  sacrifice  for  righteousness of  thought,  for  righteousness  of  speech,  for
 righteousness  of  deed,  and  for  this  boon,
 
 13.  That  the  most  right  TiTista,  made  by  Mazda
@@ -13980,8 +13270,7 @@ and  holy,  would  give  him  the  swiftness  of  the  feet,
 the  quick  hearing  of  the  ears,  the  strength  of  the
 arms,  the  health  of  the  whole  body,  the  sturdiness
 of  the  whole  body,  and  the  eye-sight  of  the  vulture
-with  a  golden  collar,  that,  from  as  far  as  nine  dis-
-tricts, can  perceive  a  piece  of  flesh,  not  thicker  than
+with  a  golden  collar,  that,  from  as  far  as  nine  districts, can  perceive  a  piece  of  flesh,  not  thicker  than
 a  fist,  giving  just  as  much  light  as  a  needle  gives,  as
 the  point  of  a  needle  gives  \
 
@@ -14007,9 +13296,6 @@ from  the  legends  of  Gu^tasp  and  Arda  Viraf,  who  are  said  to  have
 been  transported  in  soul  to  the  heavens,  and  to  have  had  the  higher
 
 
-268  YA5TS   AND    SIROZAHS.
-
-
 think  according  to  the  law,  speak  according  to  the
 law,  and  do  according  to  the  law.
 
@@ -14025,8 +13311,7 @@ VI.
 by  Mazda  and  holy  :  we  sacrifice  to  the  good  Law
 of  the  worshippers  of  Mazda  ....
 
-1 7.  To  whom  the  Athravans,  sent  afar  ^  did  sacri-
-fice ^  wishing  a  good  memory  to  preach  the  law,  and
+1 7.  To  whom  the  Athravans,  sent  afar  ^  did  sacrifice ^  wishing  a  good  memory  to  preach  the  law,  and
 wishing  strength  for  their  own  body.
 
 For  her  brightness  and  glory,  I  will  offer  unto  her  a  sacrifice
@@ -14074,15 +13359,11 @@ long  life,  give  him  the  bright,  all-happy,  blissful  abode  of  the  holy
 Ones.
 
 
-270  YA5TS    AND    SIROZAHS.
-
-
 XVII.    ASHI    YAST.
 
 Ashi  Vanguhi  or  'the  good  Ashi^'is  a  feminine  impersonation
 of  piety  ^  and  she  is,  at  the  same  time,  the  source  of  all  the  good
-and  riches  that  are  connected  with  piety  ■'.  She  is  described,  there-
-fore, as  a  goddess  of  Fortune  and  Wealth,  and  is  invoked  in  com-
+and  riches  that  are  connected  with  piety  ■'.  She  is  described,  therefore, as  a  goddess  of  Fortune  and  Wealth,  and  is  invoked  in  com-
 pany with  Pare;;di,  the  goddess  of  Treasures  {Sirozah  25)
 
 She  appears  in  the  latter  character  in  the  first  part  of  the  Yast
@@ -14145,16 +13426,14 @@ Mazda  ....
 
 II.
 
-4.  We  sacrifice  to  Ashi  Vanguhi,  who  is  shining,  high,  tall-
-formed,  well  worthy  of  sacrifice,  with  a  loud-sounding  chariot,  strong,
+4.  We  sacrifice  to  Ashi  Vanguhi,  who  is  shining,  high,  tallformed,  well  worthy  of  sacrifice,  with  a  loud-sounding  chariot,  strong,
 welfare-giving,  healing,  with  fulness  of  intellect,  and  powerful.
 
 5.  Homage  unto  Haoma,  and  unto  the  Mathra^
 and  unto  the  holy  Zarathu^tra !
 
 Homage  unto  Haoma,  because  all  other  drinks
-are  attended  with  Aeshma  ^  the  fiend  of  the  wound-
-ing spear  :  but  the  drinking  of  Haoma  is  attended
+are  attended  with  Aeshma  ^  the  fiend  of  the  wounding spear  :  but  the  drinking  of  Haoma  is  attended
 with  Asha  and  with  Ashi  Vanguhi  herself  ^
 
 6.  Ashi  is  fair ;  Ashi  is  radiant  with  joy ;  she  is
@@ -14190,15 +13469,13 @@ Happy  the  man  whom  thou  dost  attend  !  do  thou
 attend  me,  thou  rich  in  all  sorts  of  desirable  things
 and  strong !
 
-8.  Those  men  whom  thou  dost  attend,  O  Ashi  Van-
-guhi! have  houses  that  stand  well  laid  up,  rich  in
+8.  Those  men  whom  thou  dost  attend,  O  Ashi  Vanguhi! have  houses  that  stand  well  laid  up,  rich  in
 cattle,  foremost  in  Asha,  and  long-supported.  Happy
 the  man  whom  thou  dost  attend !  Do  thou  attend
 me,  thou  rich  in  all  sorts  of  desirable  things  and
 strong !
 
-9.  The  men  whom  thou  dost  attend,  O  Ashi  Van-
-guhi! have  beds  that  stand  well-spread,  well-adorned,
+9.  The  men  whom  thou  dost  attend,  O  Ashi  Vanguhi! have  beds  that  stand  well-spread,  well-adorned,
 well-made,  provided  with  cushions  and  with  feet
 inlaid  with  gold.  Happy  the  man  whom  thou  dost
 attend !  Do  thou  attend  me,  thou  rich  in  all  sorts
@@ -14244,8 +13521,7 @@ and  strong !
 
 13.  The  men  whom  thou  dost  attend,  O  Ashi
 Vanguhi !  have  large-humped,  burden-bearing  camels,
-flying  from  the  ground  or  fighting  with  holy  fieri-
-ness  ^.  Happy  the  man  whom  thou  dost  attend !
+flying  from  the  ground  or  fighting  with  holy  fieriness  ^.  Happy  the  man  whom  thou  dost  attend !
 Do  thou  attend  me,  thou  rich  in  all  sorts  of  desirable
 things  and  strong !
 
@@ -14263,11 +13539,8 @@ of  desirable  thins^s  and  strong- !
 /■
 
 
-2  74  YA5TS    AND    SIROZAHS.
-
 15.  Do  not  turn  thy  look  from  me!  turn  thy
-mercy  towards  me,  O  great  Ashi !  thou  art  well-
-made  and  of  a  noble  seed^-  thou  art  sovereign  at
+mercy  towards  me,  O  great  Ashi !  thou  art  wellmade  and  of  a  noble  seed^-  thou  art  sovereign  at
 thy  wish ;  thou  art  Glory  in  a  bodily  form.
 
 16.  Thy  father  is  Ahura  Mazda,  the  greatest  of
@@ -14275,17 +13548,14 @@ all  gods,  the  best  of  all  gods  ;  thy  mother  is  Armaiti
 Spe;^ta  ;  thy  brothers  are  Sraosha  ^  a  god  of  Asha,
 and  Rashnu  ^  tall  and  strong,  and  Mithra  *,  the  lord
 of  wide  pastures,  who  has  ten  thousand  spies  and
-a  thousand  ears ;  thy  sister  is  the  Law  of  the  wor-
-shippers of  Mazda.
+a  thousand  ears ;  thy  sister  is  the  Law  of  the  worshippers of  Mazda.
 
-1 7.  Praised  of  the  gods,  unoffended  by  the  right-
-eous ^,  the  great  Ashi  Vanguhi  stood  up  on  her
+1 7.  Praised  of  the  gods,  unoffended  by  the  righteous ^,  the  great  Ashi  Vanguhi  stood  up  on  her
 chariot,  thus  speaking  :  '  Who  art  thou  who  dost
 invoke  me,  whose  voice  is  to  my  ear  the  sweetest
 of  all  that  invoked  me  most  ?'
 
-18.  And  he''  said  aloud:  'I  am  Spitama  Zara-
-thui^tra,  who,  first  of  mortals,  recited  the  praise  of
+18.  And  he''  said  aloud:  'I  am  Spitama  Zarathui^tra,  who,  first  of  mortals,  recited  the  praise  of
 the  excellent  Asha'^  and  offered  up  sacrifice  unto
 Ahura  Mazda  and  the  Amesha-Spe;2tas ;  in  whose
 birth  and  growth  the  waters  and  the  plants  rejoiced ;
@@ -14341,8 +13611,7 @@ it  unto  thee.'
 
 HI.
 
-23*.  We  sacrifice  to  Ashi  Vanguhi,  who  is  shining,  high,  tall-
-formed,  well  worthy  of  sacrifice,  with  a  loud-sounding  chariot,
+23*.  We  sacrifice  to  Ashi  Vanguhi,  who  is  shining,  high,  tallformed,  well  worthy  of  sacrifice,  with  a  loud-sounding  chariot,
 strong,  welfare-giving,  healing,  with  fulness  of  intellect  and
 powerful.
 
@@ -14367,8 +13636,7 @@ T    2
 276  YA-STS    AND    SIROZAHS
 
 
-me  this,  O  great  Ashi  Vanguhi !  that  I  may  over-
-come all  the  Daevas  of  Mazana ;  that  I  may  never
+me  this,  O  great  Ashi  Vanguhi !  that  I  may  overcome all  the  Daevas  of  Mazana ;  that  I  may  never
 fear  and  bow  through  terror  before  the  Daevas,  but
 that  all  the  Daevas  may  fear  and  bow  in  spite  of
 themselves  before  me,  that  they  may  fear  and  flee
@@ -14422,8 +13690,7 @@ V.
 and  powerful.
 
 33  ^  To  her  did  Thraetaona,  the  heir  of  the
-vahant  Athwya  clan,  offer  up  a  sacrifice  in  the  four-
-cornered  Varena.
+vahant  Athwya  clan,  offer  up  a  sacrifice  in  the  fourcornered  Varena.
 
 34.  He  begged  of  her  a  boon,  saying  :  'Grant  me
 this,  O  great  Ashi  Vanguhi !  that  I  may  overcome
@@ -14434,8 +13701,7 @@ world,  the  strongest  Dru^  that  Angra  Mainyu  created
 against  the  material  world,  to  destroy  the  world  of
 the  good  principle  ;  and  that  I  may  deliver  his  two
 wives,  Savanghava/l'  and  Erenava/^,  who  are  the
-fairest  of  body  amongst  women,  and  the  most  won-
-derful creatures  in  the  world.'
+fairest  of  body  amongst  women,  and  the  most  wonderful creatures  in  the  world.'
 
 35.  The  great  Ashi  Vanguhi  ran  and  came^  to  his
 side.  Thraetaona,  the  heir  of  the  valiant  Athwya
@@ -14458,9 +13724,6 @@ o
 
 '  Cf.  Yt.V,  34;  IX,  14;  XV,  24.
 2  For  §§  37-39,  cf.Yt.  IX,  17-19.
-
-
-278  YA^TS    AND    siROZAHS.
 
 
 38.  He  begged  of  her  a  boon,  saying:  'Grant  me
@@ -14554,9 +13817,6 @@ armour,    of  the    thick    neck,    behind   whom    seven
 For  §§45-47.  cf.Yt.  IX,  25-27.
 
 
-280  YA5TS   AND    siROZAHS.
-
-
 hundred  camels  .  .  .  . ;  that  I  may  put  to  flight  the
 ^z^yaona  murderer,  Are^a/-aspa ;  that  I  may  put  to
 flight  Dar^inika,  the  worshipper  of  the  Daevas  ;
@@ -14566,8 +13826,7 @@ law;  that  I  may  smite  Spin^auru^ka,  the  worshipper
 of  the  Daevas  ;  and  that  I  may  bring  unto  the  good
 law  the  nations  of  the  Varedhakas  and  of  the
 iVz^yaonas ;  and  that  1  may  smite  of  the  //z/yaona
-nations  their  fifties  and  their  hundreds,  their  hun-
-dreds and  their  thousands,  their  thousands  and  their
+nations  their  fifties  and  their  hundreds,  their  hundreds and  their  thousands,  their  thousands  and  their
 tens  of  thousands,  their  tens  of  thousands  and  their
 myriads  of  myriads.'
 
@@ -14590,8 +13849,7 @@ or  by  young  boys,  or  by  girls  who  have  known  no
 
 man^
 
-*  When  the  Turanians  and  the  swift-horsed  Nao-
-taras  *,  clapping  their  hands,  ran  after  me,
+*  When  the  Turanians  and  the  swift-horsed  Naotaras  *,  clapping  their  hands,  ran  after  me,
 
 
 1  See  Vend.  Ill,  20  [63],  note.
@@ -14755,8 +14013,7 @@ intelligence,  with  all  Glory,  the  great  Ashi  Vanguhi
 puts  one  foot^  inside  his  family  ;  she  comes  in,  inside
 his  fine  royal  palace.
 
-5.  '  Horses  multiply  a  thousandfold,  flocks  multi-
-ply a  thousandfold;  and  so  does  his  virtuous  off-
+5.  '  Horses  multiply  a  thousandfold,  flocks  multiply a  thousandfold;  and  so  does  his  virtuous  off-
 spring, (as)  the  bright,  glorious  star  Ti^trya  moves
 on  equally^  and  so  does  the  strong  wind  made  by
 Mazda,  and  so  does  the  Glory  of  the  Aryas.
@@ -14777,8 +14034,7 @@ golden-hued.  And  they  bring  (away)^^  the  contagion
 
 "^  Who  gives  alms  to  the  poor  Mazdayasnians.
 
-8  Even  one  foot(?),  when  she  stays  not  there  'for  long  friend-
-ship'  (Yt.  XVII,  6).
+8  Even  one  foot(?),  when  she  stays  not  there  'for  long  friendship'  (Yt.  XVII,  6).
 
 9  So  that  the  rain  falls  in  due  time  (Yt.  VIII,  11).
 
@@ -14807,8 +14063,7 @@ holiness  ....
 '  We  worship  Asha-Vahi^ta,  the  fairest  Amesha-
 Spe;^ta.
 
-*  We  worship  the  rightly-spoken  Words\  fiend-
-smiting  and  healing.
+*  We  worship  the  rightly-spoken  Words\  fiendsmiting  and  healing.
 
 '  We  worship  the  healing,  well-spoken  Words,  the
 fiend-smitingr.
@@ -14848,8 +14103,7 @@ corresponding  formula  of  the  Sirdzah  (§  28):  there  is  no  Ya^t
 devoted  to  the  Earth  itself
 
 The  mountains  are  simply  enumerated  (§§  1-8).  The  rest  of
-the  Yajt  is  devoted  to  the  praise  of  the  ffvaveno,  or,  more  pre-
-cisely, to  that  of  those  who  possessed  it,  whose  powers  or  feats
+the  Yajt  is  devoted  to  the  praise  of  the  ffvaveno,  or,  more  precisely, to  that  of  those  who  possessed  it,  whose  powers  or  feats
 are  described.  The  list  begins  with  Ahura  Mazda  (§  10),  and  closes
 with  Saoshya«/  (§  89);  that  is  to  say,  it  begins  with  the  beginning
 of  the  world,  and  closes  with  its  end.  It  includes  the  Amesha-
@@ -14870,8 +14124,7 @@ o.  May  Ahura  Mazda  be  rejoiced !  .  .  .  .
 
 Ashem  Vohu:  Hohness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura  ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura  ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
@@ -14901,8 +14154,7 @@ Barez^  That  mountain  stretches  all  along  the
 shores  of  the  land  washed  by  waters^  towards
 the  east.
 
-The  second  mountain  was  Mount  Zeredho,  out-
-side^ Mount  Manusha^:  this  mountain  too  stretches
+The  second  mountain  was  Mount  Zeredho,  outside^ Mount  Manusha^:  this  mountain  too  stretches
 all  along  the  shores  of  the  land  washed  by  waters
 towards  the  east.
 
@@ -14925,8 +14177,7 @@ p.  58,  note  3.
 Mount  Zeredho  (XII,  2).  It  is  the  mountain  on  which  Manm/iihar
 was  born  (ibid.  10).
 
-®  *  The  mountain  that  gives  understanding,  that  preserves  under-
-standing,' the  later  Mount  O^da^tar;  see  p.  33,  note  i.
+®  *  The  mountain  that  gives  understanding,  that  preserves  understanding,' the  later  Mount  O^da^tar;  see  p.  33,  note  i.
 
 ''  Sec  p.  65,  note  2.
 
@@ -14954,8 +14205,7 @@ Vidhvana  summits;
 
 4.  Mount  Aezakha,  Mount  Maenakha,  Mount
 Vakhedrakae,  Mount  Asaya,  Mount  Tudhaskae,
-Mount  li'avae,  Mount  Draoshii-v^u,  Mount  Sii-
-riv^u,  Mount  Nanghui'm^u,  Mount  Kakahyu,
+Mount  li'avae,  Mount  Draoshii-v^u,  Mount  Siiriv^u,  Mount  Nanghui'm^u,  Mount  Kakahyu,
 Mount  A;2tare-Kangha*;
 
 5.  Mount  Si/^idava^  Mount  Ahuna,  Mount
@@ -14963,8 +14213,7 @@ Raemana,  Mount  Asha-stembana,  Mount  Uru-
 
 A
 
-nyo-vaidhkae,  Mount  Asnava/2/°,  Mount  Usha-
-oma,  Mount  Usta.-/iva.ren2ih,  Mount  Syamaka"^,
+nyo-vaidhkae,  Mount  Asnava/2/°,  Mount  Ushaoma,  Mount  Usta.-/iva.ren2ih,  Mount  Syamaka"^,
 Mount  Vafray^u,  Mount  Vourusha;
 
 means  'the  mountain  on  which  vegetation  has  grown'  (ibid.  tr.
@@ -14973,8 +14222,7 @@ West).
 ^  The  Badghes  mountain  near  Herat,  jjMwJ:.>b.
 
 ^  Or  *  Mount  Ijkata  ("  rugged  "),  belonging  to  the  Upairi-saena
-ridge.'  The  Upairi-saena  ridge  or  Aparsen  ridge  is  '  the  moun-
-tain of  Persia,  and  its  beginning  is  in  Seistan  and  its  end  in
+ridge.'  The  Upairi-saena  ridge  or  Aparsen  ridge  is  '  the  mountain of  Persia,  and  its  beginning  is  in  Seistan  and  its  end  in
 Susiana'  (Bund.  XII,  9).
 
 ^  ?  Kaso-tafedhra;  possibly  the  name  of  a  mountain :  Mount
@@ -14997,10 +14245,8 @@ ZAMYAD    YAST.  289
 
 
 6.  Amongst  which  stand  Mount  6^atara,  Mount
-Adhutav^u,  Mount  Spitavarena,  Mount  Spento-
-data^,  Mount  Kadrva-aspa^,  Mount  Kaoirisa^,
-Mount  Taera*,  Mount  Baro-srayana,  Mount  Ba-
-rana,  Mount  Frapay^Ju,  Mount  Udrya,  and
+Adhutav^u,  Mount  Spitavarena,  Mount  Spentodata^,  Mount  Kadrva-aspa^,  Mount  Kaoirisa^,
+Mount  Taera*,  Mount  Baro-srayana,  Mount  Barana,  Mount  Frapay^Ju,  Mount  Udrya,  and
 Mount  'Ra.evB.n^^,  and  all  those  heights  to  which
 men  have  given  the  name  of  mount,
 
@@ -15046,12 +14292,9 @@ Bund.  XII,  24).
 [23]  U
 
 
-290  YA^TS    AND    siROZAHS.
-
 10.  That  belongs  to  Ahura  Mazda,  as  (through  it)
 Ahura  Mazda  made  the  creatures,  many  and  good,
-many  and  fair,  many  and  wonderful,  many  and  pros-
-perous, many  and  bright ;
+many  and  fair,  many  and  wonderful,  many  and  prosperous, many  and  bright ;
 
 11^.  So  that  they  may  restore  the  world,  which
 will  (thenceforth)  never  grow  old  and  never  die,
@@ -15063,8 +14306,7 @@ and  the  world  will  be  restored  at  its  wish ;
 12.  When  the  creation  will  grow  deathless, — the
 prosperous  creation  of  the  Good  Spirit, — and  the
 Dru^  shall  perish,  though  she  may  rush  on  every
-side  to  kill  the  holy  beings  ;  she  and  her  hundred-
-fold brood  shall  perish,  as  it  is  the  will  of  the
+side  to  kill  the  holy  beings  ;  she  and  her  hundredfold brood  shall  perish,  as  it  is  the  will  of  the
 Lord  ^.
 
 13.  For  its  brightness  and  glory,  I  will  offer  it  a  sacrifice  ....
@@ -15076,8 +14318,7 @@ Mazda  .  .  .  .^
 
 15*.  That  belongs  to  the  Amesha-Spe;2tas,  the
 bright  ones,  whose  looks  perform  their  wish,  tall,
-quickly  coming  to  do,  strong,  lordly,  who  are  un-
-decaying  and  holy ;
+quickly  coming  to  do,  strong,  lordly,  who  are  undecaying  and  holy ;
 
 16.  Who  are  all  seven  of  one  thought,  who  are  all
 seven  of  one  speech,  who  are  all  seven  of  one  deed  ;
@@ -15114,8 +14355,7 @@ and  the  world  will  be  restored  at  its  wish  ;
 20.  When  the  creation  will  grow  deathless, —  the
 prosperous  creation  of  the  Good  Spirit,  —  and  the
 Dru(^  shall  perish,  though  she  may  rush  on  every
-side  to  kill  the  holy  beings  ;  she  and  her  hundred-
-fold brood  shall  perish,  as  it  is  the  will  of  the  Lord.
+side  to  kill  the  holy  beings  ;  she  and  her  hundredfold brood  shall  perish,  as  it  is  the  will  of  the  Lord.
 
 For  its  brightness  and  glory,  I  will  offer  it  a  sacrifice  ....
 
@@ -15148,8 +14388,7 @@ and  the  world  will  be  restored  at  its  wish ;
 24.  When  the  creation  will  grow  deathless, — the
 prosperous  creation  of  the  Good  Spirit, — and  the
 Dru^  shall  perish,  though  she  may  rush  on  every
-side  to  kill  the  holy  beings ;  she  and  her  hundred-
-fold brood  shall  perish,  as  it  is  the  will  of  the  Lord.
+side  to  kill  the  holy  beings ;  she  and  her  hundredfold brood  shall  perish,  as  it  is  the  will  of  the  Lord.
 
 For  its  brightness  and  glory,  I  will  offer  it  a  sacrifice  ....
 
@@ -15172,8 +14411,7 @@ VI.
 27.  We  sacrifice  unto  the  awful  kingly  Glory,  made  by
 Mazda  ....
 
-28.  That  clave  unto  Takhma  Unipa,  the  well-
-armed,  while  he  ruled  over  the  seven  Karshvares  of
+28.  That  clave  unto  Takhma  Unipa,  the  wellarmed,  while  he  ruled  over  the  seven  Karshvares  of
 the  earth,  over  the  Daevas  and  men,  the  Yatus  and
 Pairikas,  the  oppressors,  the  blind,  and  the  deaf;
 
@@ -15215,8 +14453,7 @@ waters  and  plants  were  undrying ;
 33.  In  whose  reign  there  was  neither  cold  wind
 nor  hot  wind,  neither  old  age  nor  death,  nor  envy
 made  by  the  Daevas  ^,  in  the  times  before  his  lie,
-before  he  beean  to  have  delight  in  words  of  false-
-hood  and  untruth.
+before  he  beean  to  have  delight  in  words  of  falsehood  and  untruth.
 
 34.  But  when  he  began  to  find  delight  in  words
 of  falsehood  and  untruth  ^  the  Glory  was  seen  to
@@ -15241,8 +14478,6 @@ XXXIV,  4).
 A
 
 
-294  YA5'TS    AND    SIROZAHS.
-
 Khshaeta,  the  good  shepherd,  trembled  and  was  in
 sorrow  before  his  foes  ^ ;  he  was  confounded,  and
 laid  him  down  on  the  ground.
@@ -15264,8 +14499,7 @@ the  son  of  Vivangha/?/,  in  the  shape  of  a  Varaghna
 bird.
 
 Then  Thraetaona  seized  that  Glory,  he,  the  heir
-of  the  valiant  Athwya  clan,  who  was  the  most  vic-
-torious of  all  victorious  men  next  to  Zarathurtra ;
+of  the  valiant  Athwya  clan,  who  was  the  most  victorious of  all  victorious  men  next  to  Zarathurtra ;
 
 37.  Who  smote  Az'i  Dahaka,  the  three-mouthed,
 the  three-headed,  the  six-eyed,  who  had  a  thousand
@@ -15305,8 +14539,7 @@ worship  Manly  Courage,  firm  of  foot,  unsleeping,
 quick  to  rise,  and  fully  awake,  that  clave  unto
 Keresaspa  ;
 
-40.  Who  killed  the  snake  Srvara,  the  horse-
-devouring,  men-devouring,  yellow,  poisonous  snake,
+40.  Who  killed  the  snake  Srvara,  the  horsedevouring,  men-devouring,  yellow,  poisonous  snake,
 over  which  yellow  poison  flowed  a  thumb's  breadth
 thick.  Upon  him  Keresaspa  was  cooking  his  food
 in  a  brass  vessel  :  at  the  time  of  noon,  the  fiend  felt
@@ -15323,8 +14556,7 @@ Who  killed  the  brood  of  Pathana,  all  the  nine'*;
 
 '  See  V,  37  (pp.  62-63,  and  notes);  XIII,  136 ;  XV,  27.
 
-^  Cf.  Yasna  IX,  11  (34-39).  This  tale  belongs  to  the  wide-
-spread cyclus  of  the  island-whale  (a  whale  whose  back  is  mistaken
+^  Cf.  Yasna  IX,  11  (34-39).  This  tale  belongs  to  the  widespread cyclus  of  the  island-whale  (a  whale  whose  back  is  mistaken
 by  sailors  for  an  island ;  they  land  upon  it,  cook  their  food  there,
 and  the  monster,  awaked  by  the  heat,  flies  off  and  carries  them
 away :  see  Arabian  Nights,  Seventy-first  Night ;  Baba  Bathra,  5).
@@ -15341,16 +14573,14 @@ the  highwaymen  who  were  so  big  in  body  that,  when  they  were
 
 296  YAS-TS    AND    SIROZAHS.
 
-and  the  brood  of  Nivika,  and  the  brood  of  Da^ta-
-yana;
+and  the  brood  of  Nivika,  and  the  brood  of  Da^tayana;
 
 Who  killed  the  golden-crowned  Hitaspa\  and
 Vareshava,  the  son  of  Dana  ^,  and  Pitaona,  attended
 by  many  Pairikas  ^;
 
 42.  Who  killed  Arezo-shamana,  him  of  the  manly
-courage,  who  was  strong,  well-beloved ^  hail,  energe-
-tically rushing,  fully  awake,  never  falling  back —  ^  ;
+courage,  who  was  strong,  well-beloved ^  hail,  energetically rushing,  fully  awake,  never  falling  back —  ^  ;
 
 43.  Who  killed  Snavidhaka,  him  who  killed  with
 his  nails,  the  stone-handed  :  thus  did  he  exclaim  to
@@ -15441,8 +14671,6 @@ more  is  known  of  him,  though  he  appears  to  have  played  a  great
 part  in  the  original  Yima  legend,  and  to  have  stood  to  his  brother
 in  the  same  relation  as  Barmayfan  and  Katayun  to  Feridun,  or
 
-
-298  YA^TS    AND    SIROZAHS.
 
 47.  Then  forward  came  Atar  ^  the  son  of  Ahura
 Mazda,  thinking  thus  in  his  heart :  '  I  want  to  seize
@@ -15540,9 +14768,6 @@ A
 
 
 A
-
-
-300  YA5TS    AND    SIROZAHS.
 
 
 IX.
@@ -15659,8 +14884,7 @@ X.
 seized,  made  by  Mazda  ....
 
 66.  That  cleaves  unto  him  ^  who  grows  up  there,
-where  lies  Lake  Kasava  ^,  along  with  the  Haetu-
-man^^  river;  there  where  stands  Mount  Ushidh^u*,
+where  lies  Lake  Kasava  ^,  along  with  the  Haetuman^^  river;  there  where  stands  Mount  Ushidh^u*,
 surrounded  by  waters,  that  run  from  the  mountain.
 
 67.  It^  runs  unto  him,  it  flows  and  swells  unto
@@ -15731,8 +14955,7 @@ XII.
 73.  We  sacrifice  unto  the  awful  kingly  Glory,  made  by
 Mazda  ....
 
-74^  That  clave  unto  Kavi  Husravah  for  the  well-
-shapen  Strength,  for  the  Victory  made  by  Ahura,
+74^  That  clave  unto  Kavi  Husravah  for  the  wellshapen  Strength,  for  the  Victory  made  by  Ahura,
 for  the  crushing  Ascendant ;  for  the  righteousness
 of  the  law,   for  the   innocence  of  the  law,  for  the
 
@@ -15740,10 +14963,7 @@ of  the  law,   for  the   innocence  of  the  law,  for  the
 *  §§  74-76=Yt.XIII,  133-135-
 
 
-304  YA5TS    AND    SIROZAHS.
-
-unconquerable  power  of  the  law ;  for  the  extermina-
-tion of  the  enemies  at  one  stroke  ;
+unconquerable  power  of  the  law ;  for  the  extermination of  the  enemies  at  one  stroke  ;
 
 75.  And  for  the  vigour  of  health,  for  the  Glory
 made  by  Mazda,  for  the  health  of  the  body,  and  for
@@ -15879,8 +15099,7 @@ XV.
 88.  We  sacrifice  unto  the  awful  kingly  Glory,  made  by
 Mazda  ....
 
-89*.  That  will  cleave  unto  the  victorious  Sao-
-shya;z/  and  his  helpers  ^  when  he  shall  restore  the
+89*.  That  will  cleave  unto  the  victorious  Saoshya;z/  and  his  helpers  ^  when  he  shall  restore  the
 
 
 1  §§  85-86= Yt.  XIII,  99-100.
@@ -15904,8 +15123,7 @@ wish  ;
 90.  When  the  creation  will  grow  deathless, — the
 prosperous  creation  of  the  Good  Spirit, — and  the
 Dru^  shall  perish,  though  she  may  rush  on  every
-side  to  kill  the  holy  beings ;  she  and  her  hundred-
-fold brood  shall  perish,  as  it  is  the  will  of  the  Lord.
+side  to  kill  the  holy  beings ;  she  and  her  hundredfold brood  shall  perish,  as  it  is  the  will  of  the  Lord.
 
 For  its  brightness  and  glory,  I  will  offer  it  a  sacrifice  ....
 
@@ -15915,8 +15133,7 @@ XVI.
 ]\Iazda  ....
 
 92.  When  AstvaZ-ereta  ^  shall  rise  up  from  Lake
-Kasava  -,  a  friend  of  Ahura  Mazda,  a  son  of  Vispa-
-taurvairi  ^,  knowing  the  victorious  knowledge.
+Kasava  -,  a  friend  of  Ahura  Mazda,  a  son  of  Vispataurvairi  ^,  knowing  the  victorious  knowledge.
 
 It  was  that  Glory  that  Thraetaona  bore  with  him
 when  A^'i  Dahaka  was  killed*;
@@ -15933,8 +15150,7 @@ Turanian,  was  killed  "^ ;
 
 =>  See  Yt.  XIII,  142.  "  Cf.  §  36.  '  Or  'the  demon.'
 
-®  This  Hne  is  in  contradiction  with  w^hat  we  know  of  the  Frangra-
-syan legend,  unless  the  text  is  corrupt  and  the  name  of  Frangrasyan
+®  This  Hne  is  in  contradiction  with  w^hat  we  know  of  the  Frangrasyan legend,  unless  the  text  is  corrupt  and  the  name  of  Frangrasyan
 has  been  introduced  here  by  mistake  (for  Keresaspa?).  Yet  it
 may  allude  to  brighter  sides,  unknown  to  us,  of  the  Turanian  hero  :
 the  Bull  (gauj)  may  be  his  brother  Aghraeratha,  the  Bull-man
@@ -15944,8 +15160,6 @@ the  Bull  (gauj)  may  be  his  brother  Aghraeratha,  the  Bull-man
 
 X   2
 
-
-308  YA5TS    AND    SIROZAHS.
 
 That  king  Vt^t^spa  bore,  when  he  victoriously
 maintained  HoHness  against  the  host  of  the  fiends
@@ -15972,8 +15186,7 @@ darkness.
 
 96.  Akem-Mano  '^  smites,  but  Vohu-Mano  shall
 smite  him  ;  the  Word  of  falsehood  smites,  but  the
-Word  of  truth  shall  smite  it.  Haurvata/  and  Ame-
-reta/'  shall  smite  both  hunofer  and  thirst:  Haur-
+Word  of  truth  shall  smite  it.  Haurvata/  and  Amereta/'  shall  smite  both  hunofer  and  thirst:  Haur-
 vata/  and  Amereta/  shall  smite  the  evil  hunger  and
 the  evil  thirst.  The  evil-doing  Angra  Mainyu  bows
 and  flees,  becoming  powerless.
@@ -16011,14 +15224,10 @@ bright,  all-happy,  blissful  abode  of  the  holy  Ones.
 ^  Cf  §0.  2  Who  sacrifices  to  the  kingly  Glory.
 
 
-310  YA^TS    AND    siROZAHS.
-
-
 XX.    VAN  ANT  VAST.
 
 This  Yast  ought  to  follow  immediately  after  the  Tir  Yajt,  as  it
-is  derived  from  the  same  Sirozah  formula ;  the  one  in  which  Ti.f-
-trya  is  invoked  along  with  Vana«/  and  Haptoiriwga  (Sirozah,  §  13).
+is  derived  from  the  same  Sirozah  formula ;  the  one  in  which  Ti.ftrya  is  invoked  along  with  Vana«/  and  Haptoiriwga  (Sirozah,  §  13).
 It  is  a  mere  supplement  to  that  Yajt.    On  Vana«/,  see  p.  97,  note  6.
 
 
@@ -16026,8 +15235,7 @@ o.  May  Ahura  Mazda  be  rejoiced  1  .  .  .  .
 
 Ashem  Vohfi  :  Holiness  is  the  best  of  all  good  ....
 
-I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zara-
-thujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura  ;
+I  confess  myself  a  worshipper  of  Mazda,  a  follower  of  Zarathujtra,  one  who  hates  the  Daevas  and  obeys  the  laws  of  Ahura  ;
 
 For  sacrifice,  prayer,  propitiation,  and  glorification  unto  [Havani],
 the  holy  and  master  of  holiness  ....
@@ -16071,8 +15279,7 @@ XXI  AND  XXII.     YA^-T  FRAGMENTS.
 
 These  two  Yajts  or  Ya^t  fragments  are  known  among  the  Parsis
 as  the  Hadhokht  Nask,  though  their  context  does  not  correspond
-to  any  part  of  the  description  of  that  Nask  as  given  in  the  Din-
-kart  (West,  Pahlavi  Texts,  I,  224,  note  8).  A  Pahlavi  translation
+to  any  part  of  the  description  of  that  Nask  as  given  in  the  Dinkart  (West,  Pahlavi  Texts,  I,  224,  note  8).  A  Pahlavi  translation
 of  these  Ya^ts  has  been  edited  by  Haug  and  West  (The  Book  of
 Arda  Viraf,  p.  269  seq.).
 
@@ -16084,8 +15291,7 @@ under  which  it  is  being  recited  are  of  greater  importance.
 
 
 1.  Zarathu^tra  asked  Ahura  Mazda:  'O  Ahura
-Mazda,  most  beneficent  Spirit,  Maker  of  the  mate-
-rial world,  thou  Holy  One!
+Mazda,  most  beneficent  Spirit,  Maker  of  the  material world,  thou  Holy  One!
 
 '  What  is  the  only  word  in  which  is  contained  the
 glorification  of  all  good  things,  of  all  the  things  that
@@ -16120,8 +15326,7 @@ when  delivered  during  cohabitation,  or  any  number
 when  delivered  in  departing  this  life.'
 
 6.  '  What  is  the  one  recital  of  the  praise  of
-Holiness  that  is  worth  ten  others  in  greatness,  good-
-ness, and  fairness  ? '
+Holiness  that  is  worth  ten  others  in  greatness,  goodness, and  fairness  ? '
 
 7.  Ahura  Mazda  answered :  '  It  is  that  one,  O
 holy  Zarathu-ytra !  that  a  man  delivers  when  eating
@@ -16131,8 +15336,7 @@ good  deeds,  and  rejecting  evil  thoughts,  evil  words,
 and  evil  deeds.'
 
 8.  '  What  is  the  one  recital  of  the  praise  of
-Holiness  that  is  worth  a  hundred  others  in  great-
-ness, goodness,  and  fairness  ?  '
+Holiness  that  is  worth  a  hundred  others  in  greatness, goodness,  and  fairness  ?  '
 
 9.  Ahura  Mazda  answered :  'It  is  that  one,  O
 holy  Zarathui'tra  !  that  a  man  delivers  while  drinking
@@ -16142,14 +15346,12 @@ good  deeds,  and  rejecting  evil  thoughts,  evil  words,
 and  evil  deeds.'
 
 10.  'What  is  the  one  recital  of  the  praise  of
-Holiness  that  is  worth  a  thousand  others  In  great-
-ness, goodness,  and  fairness  ?  '
+Holiness  that  is  worth  a  thousand  others  In  greatness, goodness,  and  fairness  ?  '
 
 11.  Ahura  Mazda  answered:  'It  is  that  one,  O
 holy  Zarathui-tra !  that  a  man  delivers  when  starting
 
-*  A  hundred  times  the  formula:  'Be  propitiation  (khshnao-
-thra)  unto  N,  .  .  . ,  the  holy  and  master  of  holiness'  (cf  p.  i,  note  2).
+*  A  hundred  times  the  formula:  'Be  propitiation  (khshnaothra)  unto  N,  .  .  . ,  the  holy  and  master  of  holiness'  (cf  p.  i,  note  2).
 -  Eating  or  drinking  (see  Vendidad,  Introd.  IV,  33).
 
 
@@ -16165,8 +15367,7 @@ good  deeds,  and  rejecting  evil  thoughts,  evil  words,
 and  evil  deeds.'
 
 12.  'What  is  the  one  recital  of  the  praise  of
-Holiness  that  is  worth  ten  thousand  others  in  great-
-ness, goodness,  and  fairness  ? '
+Holiness  that  is  worth  ten  thousand  others  in  greatness, goodness,  and  fairness  ? '
 
 13.  Ahura  Mazda  answered:  '  It  is  that  one,  O
 holy  Zarathu^tra !  that  a  man  delivers  when  waking
@@ -16209,8 +15410,7 @@ YA^-T    XXII.
 This  Ya^t  is  a  description  of  the  fate  that  attends  the  soul  of  the
 righteous  (§§  1-18)  and  the  soul  of  the  wicked  (§§  19-37)  after
 death.  They  spend  the  first  three  nights  (the  sadis  or  sidos;  of.
-Commentaire  du  Vendidad,  XIII,  55)  amongst  the  highest  enjoy-
-ments or  pains  ;  they  are  then  met  by  their  own  conscience  in  the
+Commentaire  du  Vendidad,  XIII,  55)  amongst  the  highest  enjoyments or  pains  ;  they  are  then  met  by  their  own  conscience  in  the
 shape  of  a  beautiful  heavenly  maiden  (or  a  fiendish  old  woman  ^),
 and  are  brought  in  four  steps  up  to  heaven  or  down  to  hell,  through
 the  three  paradises  of  Good -Thought,  Good -Word,  and  Good-
@@ -16259,8 +15459,7 @@ VAST   XXII.  315
 abide  ?'
 
 4.  Ahura  Mazda  answered:  'It  takes  its  seat  near
-the  head,  singing  the  U^tavaiti  Gatha  and  pro-
-claiming happiness  :  "  Happy  is  he,  happy  the  man,
+the  head,  singing  the  U^tavaiti  Gatha  and  proclaiming happiness  :  "  Happy  is  he,  happy  the  man,
 whoever  he  be,  to  whom  Ahura  Mazda  gives  the  full
 accomplishment  of  his  wishes!"  On  that  night  his
 soul  tastes  as  much  of  pleasure  as  the  whole  of  the
@@ -16281,14 +15480,12 @@ whole  of  the  livins:  world  can  taste.'
 appears,  it  seems  to  the  soul  of  the  faithful  one  as
 if  it  were  brought  amidst  plants  and  scents :  it
 seems  as  if  a  wind  were  blowing  from  the  region  of
-the  south,  from  the  regions  of  the  south,  a  sweet-
-scented  wind,  sweeter-scented  than  any  other  wind
+the  south,  from  the  regions  of  the  south,  a  sweetscented  wind,  sweeter-scented  than  any  other  wind
 in  the  world.
 
 8.  And  it  seems  to  the  soul  of  the  faithful  one  as
 if  he  were  inhaling  that  wind  with  the  nostrils,  and  he
-thinks:  'Whence  does  that  wind  blow,  the  sweetest-
-scented  wind  I  ever  inhaled  with  my  nostrils  ?'
+thinks:  'Whence  does  that  wind  blow,  the  sweetestscented  wind  I  ever  inhaled  with  my  nostrils  ?'
 
 9.  And  it  seems  to  him  as  if  his  own  conscience
 were  advancing  to  him  in  that  wind,  in  the  shape
@@ -16314,19 +15511,16 @@ him  :  '  O  thou  youth  of  good  thoughts,  good  words,
 and  good  deeds,  of  good  religion,  I  am  thy  own
 conscience !
 
-*  Everybody  did  love  thee  for  that  greatness,  good-
-ness, fairness,  sweet-scentedness,  victorious  strength
+*  Everybody  did  love  thee  for  that  greatness,  goodness, fairness,  sweet-scentedness,  victorious  strength
 and  freedom  from  sorrow,  in  which  thou  dost
 appear  to  me ;
 
 12.  'And  so  thou,  O  youth  of  good  thoughts,
 good  words,  and  good  deeds,  of  good  religion  !  didst
-love  me  for  that  greatness,  goodness,  fairness,  sweet-
-scentedness,  victorious  strength,  and  freedom  from
+love  me  for  that  greatness,  goodness,  fairness,  sweetscentedness,  victorious  strength,  and  freedom  from
 sorrow,  in  which  I  appear  to  thee.
 
-13.  'When  thou  wouldst  see  a  man  making  deri-
-sion^ and  deeds  of  idolatry,  or  rejecting^  (the  poor)
+13.  'When  thou  wouldst  see  a  man  making  derision^ and  deeds  of  idolatry,  or  rejecting^  (the  poor)
 and  shutting  his  door  ^,  then  thou  wouldst  sit  singing
 the  Gathas  and  worshipping  the  good  waters  and
 Atar,  the  son  of  Ahura  Mazda,  and  rejoicing^  the
@@ -16341,8 +15535,7 @@ faithful  that  would  come  from  near  or  from  afar.
 '  He  would  not  give  his  friends  what  they  begged  for.'
 
 *  To  the  poor:  —  Urvaro-straya:  urvar  babai/^  kart  (Pahl.
-Comm.):  aighshan  bab^  bara  asrunast  (star,  to  tie,  as  in  frasta-
-retem  baresma).     Cf.  Yt.  XXIV,  37,  59.
+Comm.):  aighshan  bab^  bara  asrunast  (star,  to  tie,  as  in  frastaretem  baresma).     Cf.  Yt.  XXIV,  37,  59.
 
 ^  With  alms  to  the  poor  Mazdayasnians  (asho-dad).
 
@@ -16435,8 +15628,7 @@ near  the  skull,  singing  the    Kima   Gatha,  O   holy
 
 ^  Zaremaya  is  the  spring:  the  word  translated  oil  (raoghna,
 Persian  ^^^  might  perhaps  be  better  translated  'butter;'  the
-milk  made  in  the  middle  of  spring  was  said  to  be  the  best  (Vis-
-perad  I,  2  ;  PahL  Comm.;  cf.  Dadistan  XXXI,  14).
+milk  made  in  the  middle  of  spring  was  said  to  be  the  best  (Visperad  I,  2  ;  PahL  Comm.;  cf.  Dadistan  XXXI,  14).
 
 ^  The  Gatha  of  lamenting,  beginning  with  the  word  Kam  (Kam
 neme  zam  :  '  To  what  land  shall  I  turn  ?') ;  Yasna  XLVI  (XLV).
@@ -16462,8 +15654,7 @@ Mazda  ?     To  whom  shall  I  go  with  praying  ?"
 'On  that  night  his  soul  tastes  as  much  of  suffering
 as  the  whole  of  the  living  world  can  taste.'
 
-25.  At  the  end  of  the  third  night,  O  holy  Zara-
-thui-tra !  when  the  dawn  appears,  it  seems  to  the
+25.  At  the  end  of  the  third  night,  O  holy  Zarathui-tra !  when  the  dawn  appears,  it  seems  to  the
 soul  of  the  faithful  one  as  if  it  were  brought  amidst
 snow  and  stench,  and  as  if  a  wind  were  blowing
 from  the  region  of  the  north,  from  the  regions  of
@@ -16472,8 +15663,7 @@ of  all  the  winds  in  the  world.
 
 26-32.  And  it  seems  to  the  soul  of  the  wicked  man
 as  if  he  were  Inhaling  that  wind  with  the  nostrils,  and
-he  thinks:  'Whence  does  that  wind  blow,  the  foulest-
-scented  wind  that  I  ever  inhaled  with  my  nostrils  V  )
+he  thinks:  'Whence  does  that  wind  blow,  the  foulestscented  wind  that  I  ever  inhaled  with  my  nostrils  V  )
 
 ^  A  development  similar  to  that  in  §§  9-14  is  to  be  supplied
 here  :  in  the  Arda  Viraf  and  the  INIinokhired  the  soul  of  the  wicked
@@ -16578,8 +15768,7 @@ to  study  the  Holy  Word.
 '  We  worship  the  tongue  of  Ahura  Mazda,  to
 speak  forth  the  Holy  W^ord.
 
-'  We  worship  the  mountain  that  gives  under-
-standing, that  preserves  understanding ;  [we  worship
+'  We  worship  the  mountain  that  gives  understanding, that  preserves  understanding ;  [we  worship
 
 *  Cf.  Yasna  XXXI,  20  :  'He  who  would  deceive  the  holy  One,  to
 him  afterwards  (will  be)  a  long  weeping  in  the  dark  place,  bad
@@ -16649,8 +15838,7 @@ the  master  of  the  house  for  help,  saying :
 *  Then  towards  the  dawning  of  the  dawn  . .  .  . '  (see  the  text).
 '  CfVend.  XVIII,  23.
 
-*  'He  who  has  knowledge  made,'  or  'He  who  has  the  know-
-ledge of  what  is  made'  (kartak  danishn);  his  other  name  Paro-
+*  'He  who  has  knowledge  made,'  or  'He  who  has  the  knowledge of  what  is  made'  (kartak  danishn);  his  other  name  Paro-
 dar.r  is  'He  who  foresees.'
 
 ^  Here  again  a  large  passage  is  omitted  :  it  can  only  partly  be
@@ -16702,10 +15890,8 @@ Zartusht,  in  obedience  to  God,  went  to  the  court  of  Gushtasp : '  He
 came  forward  and  called  down  a  blessing  on  the  Shah^.'  Then  he
 read  to  him  the  Zandavasta  and  said  :  '  Learn  its  statutes  and  walk
 therein.  If  your  desire  is  towards  its  laws,  your  abode  shall  be  in
-the  paradise  of  heaven.  But  if  you  turn  away  from  its  command-
-ments, you  shall  bring  down  your  crowned  head  to  the  dust.  Your
-God  will  be  displeased  with  you,  and  will  overthrow  your  pros-
-perous condition.  At  the  last  you  shall  descend  into  hell,  if  you
+the  paradise  of  heaven.  But  if  you  turn  away  from  its  commandments, you  shall  bring  down  your  crowned  head  to  the  dust.  Your
+God  will  be  displeased  with  you,  and  will  overthrow  your  prosperous condition.  At  the  last  you  shall  descend  into  hell,  if  you
 hear  not  the  counsel  of  the  Almighty  ^'
 
 These  lines  of  the  Zartusht-Namah  are  a  summary  of  the  following
@@ -16718,8 +15904,7 @@ Vii-taspa  ^
 Ya^t  XXIV  contains  the  exhortations  of  the  prophet  to  the
 king  to  follow  and  closely  adhere  to  the  Law  of  Mazda.  It  is  a
 counterpart  to  the  XlXth  Fargard  of  the  Vendidad,  as  Zarathu^-tra
-plays  here  the  same  part  to  Vijtaspa  as  Ahura  does  there  to  Zara-
-thujtra.     It  is,  therefore,  a  summary  of  the  Law,  of  the  duties  it
+plays  here  the  same  part  to  Vijtaspa  as  Ahura  does  there  to  Zarathujtra.     It  is,  therefore,  a  summary  of  the  Law,  of  the  duties  it
 
 ^  The  Zartusht-Namah,  translated  by  E.  B.  Eastwick,  in  Wilson's
 Parsi  Religion,  p.  495.
@@ -16747,8 +15932,7 @@ in  it  are  incomplete  quotations  from  the  Vendidad,  or  allusions
 to  statements  therein  \  which,  when  supplied,  help  a  good  deal  to
 relieve  this  Yajt  from  its  apparent  state  of  utter  incoherence.
 
-For  this  translation  I  was  able  to  avail  myself  of  a  Pahlavi  trans-
-lation, of  which  a  copy  was  kindly  lent  to  me  by  Mr,  West.
+For  this  translation  I  was  able  to  avail  myself  of  a  Pahlavi  translation, of  which  a  copy  was  kindly  lent  to  me  by  Mr,  West.
 That  translation  is  apparently  of  late  date  and  often  manifestly
 wrong  ;  yet  it  was  very  useful  to  me  in  several  passages,  besides  its
 giving  a  Zend  text  generally  more  correct  and  more  correctly
@@ -16766,8 +15950,7 @@ XXIII.    AfrIn  PAIGHAMBAR  ZARTO^T.
 blessing.'
 
 — '  Thou  appearest  unto  me  full  of  Glory.'
-And  Zarathiutra  spake  unto  king  Vi.rtaspa,  say-
-ino- :  '  I  bless  thee,  O  man !  O  lord  of  the  country !
+And  Zarathiutra  spake  unto  king  Vi.rtaspa,  sayino- :  '  I  bless  thee,  O  man !  O  lord  of  the  country !
 with  the  living  of  a  good  life,  of  an  exalted  life,  of
 a  long  life.  May  thy  men  live  long!  May  thy
 women  live  long !  May  sons  be  born  unto  thee  of
@@ -16785,8 +15968,6 @@ by  the  letter  W.  in  the  notes.
 
 ^  See  the  introduction  to  this  Ya^t  and  Yt.  XXIV,  3,  text  and  note.
 
-
-326  YA5TS    AND    SIROZAHS.
 
 '  Mayest  thou  be  most  beneficent,  like  Mazda  !
 '  Mayest  thou  be  fiend-smiting,  hke  Thraetaona  ^ !
@@ -16810,8 +15991,7 @@ UrvakhshayaM
 '  Mayest  thou  be  beautiful  of  body  and  without
 fault,  like  Syavarshana  "^ !
 
-4.  '  Mayest  thou  be  rich  in  cattle,  like  an  Athwya-
-nide  ^ !
+4.  '  Mayest  thou  be  rich  in  cattle,  like  an  Athwyanide  ^ !
 
 '  Mayest  thou  be  rich  in  horses,  like  Pouru^-aspa  ^ !
 
@@ -16820,8 +16000,7 @@ nide  ^ !
 '  Mayest  thou  be  able  to  reach  the  Rangha,  whose
 shores  lie  afar,  as  Vafra  Navaza  was  ^^^ !
 
-'  Mayest  thou  be  beloved  by  the  gods  and  reve-
-renced by  men  " !
+'  Mayest  thou  be  beloved  by  the  gods  and  reverenced by  men  " !
 
 ^  Cf.  Yt.  V,  33.  2  cf  Yt.  V,  68.
 
@@ -16873,8 +16052,7 @@ HvdiStvdi. '' !
 *  Mayest  thou  be  freed  from  sickness  and  death,
 like  king  Husravah  ^ !
 
-8.  'Then  the  blessing  goes  for  the  bright,  all-
-happy,  blissful  abode  of  the  holy  Ones  ^
+8.  'Then  the  blessing  goes  for  the  bright,  allhappy,  blissful  abode  of  the  holy  Ones  ^
 
 'May  it  happen  unto  thee  according  to  my
 blessing !
@@ -16980,8 +16158,7 @@ like  Pesho-tanu  '^.
 old  man  can  be  ^ !
 
 5.  '  And  when  thou  hast  fulfilled  a  duration  of  a
-thousand  years,  [mayest  thou  obtain]  the  bright,  all-
-happy,  blissful  abode  of  the  holy  Ones  !
+thousand  years,  [mayest  thou  obtain]  the  bright,  allhappy,  blissful  abode  of  the  holy  Ones  !
 
 'Ashem  Vohfi :  Holiness  is  the  best  of  all  good  ....
 
@@ -16991,16 +16168,14 @@ happy,  blissful  abode  of  the  holy  Ones  !
 2  '  Like  Aturpat,  the  son  of  Mahraspand '  (Pahl.  Comm.).
 ^  '  Like  Spenddat  (Isfendyar),  the  son  of  Gmtasp '  (ibid.).
 
-*  '  Like  Zav'  (Uzava  ;  '  Zav  ....  urbes  et  castella,  quae  Afras-
-siab  deleverat,  refici  jussis,  aperuit  fluvios,  quos  ille  operuerat,  ....
+*  '  Like  Zav'  (Uzava  ;  '  Zav  ....  urbes  et  castella,  quae  Afrassiab  deleverat,  refici  jussis,  aperuit  fluvios,  quos  ille  operuerat,  ....
 agros  denuo  coluit,  qui  in  optimam,  qua  antehac  floruerant,
 conditionem  redierunt,'  Hamzah  Ispahensis,  p.  24  of  the  Gottwaldt
 translation).
 
 °  Cf.  Yt.  XXIII,  2.
 
-*  W.  has  the  same  text  as  Yt.  XXIII,  2  :  yatha  dangh^ uj  Vijtas-
-pai,  which  is  interpreted  afrin  pataj  obdunat  X-igun  Gamasp  kart
+*  W.  has  the  same  text  as  Yt.  XXIII,  2  :  yatha  dangh^ uj  Vijtaspai,  which  is  interpreted  afrin  pataj  obdunat  X-igun  Gamasp  kart
 madam  matapat  Gfijtasp.
 
 "^  Peshotanu  was  a  son  of  ViJtaspa:  Zarathujtra  made  him  drink
@@ -17087,8 +16262,7 @@ Frashao^tra  ^  and  6'amaspa  :  '  May  ye  practise
 holiness  and  thrive,  O  young  Frashao^tra  (and
 6"amaspa) !'
 
-12.  Thus  said  Ahura  Mazda  unto  the  holy  Zara-
-thu5tra,  and  thus  again  did  Zarathui^tra  say  unto  the
+12.  Thus  said  Ahura  Mazda  unto  the  holy  Zarathu5tra,  and  thus  again  did  Zarathui^tra  say  unto  the
 young  king  Vi^taspa :  '  Have  no  bad  priests  or
 unfriendly  priests ;  for  bad  priests  or  unfriendly
 priests  will  bring  about  much  harm,  and,  though
@@ -17130,13 +16304,11 @@ to  the  songs  and  rejoices  the  faithful  man  at  his
 wish  ;  who  protects  the  faithful  man,  who  maintains
 the  faithful  man ;
 
-15.  'From  whom  come  the  knowledge  of  holi-
-ness and  the  increase  in  holiness  of  the  world  of  the
+15.  'From  whom  come  the  knowledge  of  holiness and  the  increase  in  holiness  of  the  world  of  the
 holy  Principle,  and  without  whom  ^  no  faithful  man  ^
 can  know  holiness.
 
-'  To  thee  ^  come  every  Havanan,  every  Atare-
-vakhsha,  every  Frabaretar,  every  Abere/,  every
+'  To  thee  ^  come  every  Havanan,  every  Atarevakhsha,  every  Frabaretar,  every  Abere/,  every
 Asnatar,  every  Rathwi^kar,  every  Sraosha-varez  ^ ;
 
 1 6. '  Every  priest,  every  warrior,  every  husbandman ;
@@ -17150,8 +16322,7 @@ the  next-of-kin  marriage  ^ ;  every  itinerant  priest ;
 every  mistress  of  a  house ;  every  wandering  priest,
 obedient  to  the  Law.
 
-18.  'To  thee  come  all  the  performers ^  (of  holi-
-ness),   all    the    masters    of  holiness,    who,    to    the
+18.  'To  thee  come  all  the  performers ^  (of  holiness),   all    the    masters    of  holiness,    who,    to    the
 
 
 1  Doubtful.
@@ -17174,8 +16345,7 @@ number  of  three  and  thirty  \  stand  next  to  Havani,
 beine  masters  of  holiness.
 
 1 9.  '  May  they  be  fully  protected  ^  in  thee,  O
-young  king  Vii-taspa !  While  thou  smitest  thy  ad-
-versaries, thy  foes,  those  who  hate  thee,  a  hundred
+young  king  Vii-taspa !  While  thou  smitest  thy  adversaries, thy  foes,  those  who  hate  thee,  a  hundred
 times  a  hundred  for  a  hundred  ^  a  thousand  times
 a  thousand  for  a  thousand,  ten  thousand  times  ten
 thousand  for  ten  thousand,  myriads  of  myriads  for
@@ -17185,8 +16355,7 @@ a  myriad.
 it  unto  thee  !
 
 '  O  Maker  of  the  good  world !  Ahura  Mazda,
-I  worship  thee  with  a  sacrifice,  I  worship  and  for-
-ward thee  with  a  sacrifice,  I  worship  this  creation
+I  worship  thee  with  a  sacrifice,  I  worship  and  forward thee  with  a  sacrifice,  I  worship  this  creation
 of  Ahura  Mazda.'
 
 21'^.  The  young  king  Vi^taspa  asked  Zarathu^tra  :
@@ -17197,8 +16366,7 @@ this  creation  of  Ahura  Mazda  ?'
 22.  Zarathunra  answered:  'We  will  make  it
 known  unto  thee,  O  young  king  Vij-taspa !
 
-'  Go  towards  that  tree  that  is  beautiful,  high-
-growing,  and  mighty  amongst  the  high-growing  trees,
+'  Go  towards  that  tree  that  is  beautiful,  highgrowing,  and  mighty  amongst  the  high-growing  trees,
 and  say  thou  these  words  :  "Hail  to  thee !  O  good,
 holy  tree,  made  by  Mazda  !  Ash  em  Vohu  !"
 
@@ -17218,9 +16386,6 @@ text  and  notes.
 
 
 ^„    A  .
-
-
-334  YA5TS    AND    SIROZAHS.
 
 
 tie  them  up  according  to  the  rites,  being  bound  and
@@ -17248,8 +16413,7 @@ may  give  thee  the  boon  wished  for ;  that  thou,
 strong,  and  belonging  to  the  creation  of  the  good
 Spirit,  mayest  smite  and  take  away  the  Dru^  and
 watch  with  full  success  those  who  hate  thee ;  smite
-down  thy  foes,  and  destroy  at  one  stroke  thy  adver-
-saries, thy  enemies,  and  those  who  hate  thee  ^.
+down  thy  foes,  and  destroy  at  one  stroke  thy  adversaries, thy  enemies,  and  those  who  hate  thee  ^.
 
 26.  '  Proclaim  thou  those  prayers  :  they  will  cleanse
 thy  body  from  deeds  of  lust^  O  young  king  Virtaspa  !
@@ -17324,8 +16488,6 @@ turn  him  to  the  way  of  the  Law  of  Mazda ;  that  is  to  say,  receive
 the  Law'  (Pahl.  Comm.).
 
 
-336  YA^TS    AND    siROZAHS.
-
 'He  who  wishes  to  seize  the  heavenly  reward  ^
 will  seize  it  by  giving  gifts  to  him  who  holds  up
 (the  Law)  to  us^  in  this  world  here  below  ^  ....
@@ -17342,8 +16504,7 @@ who  is  not  so  ^ ;  thy  speech  will  be  powerful  to  smite
 him,  who  is  not  so ;  thy  deed  will  be  powerful  to
 smite  him.
 
-32.  '  "  Hear  me  !  Forgive  me  ^ !  " — We,  the  Ame-
-sha-Spe;2tas,  will  come  and  show  thee,  O  Zara-
+32.  '  "  Hear  me  !  Forgive  me  ^ !  " — We,  the  Amesha-Spe;2tas,  will  come  and  show  thee,  O  Zara-
 thu^tra !  the  way  to  that  world  ^^,  to  long  glory  in
 the  spiritual  world,  to  long  happiness  of  the  soul  in
 Paradise ;
@@ -17427,8 +16588,6 @@ Comm.).
 ''The  Law.
 
 
-338  YA5TS    AND    SIROZAHS.
-
 '  Ever  will  that  bread  be  burning  coal  upon  thy
 head  \
 
@@ -17445,13 +16604,11 @@ thee,  so  that  thou  shouldst  indulge  in  evil  lusts,
 make  derision  and  idolatry,  and  shut  (to  the  poor)
 the  door  of  thy  house  *.
 
-38  ^  '  Atar  thus  blesses  the  man  who  brings  in-
-cense to  him,  being  pleased  with  him  and  not  angry,
+38  ^  '  Atar  thus  blesses  the  man  who  brings  incense to  him,  being  pleased  with  him  and  not  angry,
 and  fed  as  he  required  :  "  May  herds  of  oxen  grow
 for  thee,  and  increase  of  sons !  May  fate  and  its
 decrees  bringf  thee  the  boons  thou  wishest  for !
-Therefore  do  thou  invoke  and  praise  (me)  excel-
-lently in  this  glorious  world !  That  I  may  have
+Therefore  do  thou  invoke  and  praise  (me)  excellently in  this  glorious  world !  That  I  may  have
 unceasing  food,  full  of  the  glory  of  Mazda  ^  and  with
 which  I  am  well  pleased."
 
@@ -17496,8 +16653,7 @@ tall-formed,  and  Atar,  the  son  of  Ahura  Mazda,  and
 the  well-desired  kingly  Glory.
 
 41.  '  Men  with  lustful  deeds  address  the  body  ^ ;  but
-thou,  all  the  night  long,  address  the  heavenly  Wis-
-dom 2 ;  but  thou,  all  night  long,  call  for  the  Wisdom
+thou,  all  the  night  long,  address  the  heavenly  Wisdom 2 ;  but  thou,  all  night  long,  call  for  the  Wisdom
 that  will  keep  thee  awake.
 
 '  Three  times  a  day  raise  thyself  up  and  go  to
@@ -17537,8 +16693,7 @@ placed  him  down  below  to  suffer.'
 Glory  in  him,  who  is  full  of  death :  '  This  is  an
 unbeliever,  let  us  throw  him  down  below ;  this  is  a
 liar,  or  a  traitor  to  his  relatives,  and  like  a  mad  dog
-who  wounds  cattle  and  men ;  but  the  dog  v^^ho  in-
-flicts wounds  pays  for  it  as  for  wilful  murder  ^.
+who  wounds  cattle  and  men ;  but  the  dog  v^^ho  inflicts wounds  pays  for  it  as  for  wilful  murder  ^.
 
 '  The  first  time  he  shall  smite  a  faithful  man,  the
 first  time  he  shall  wound  a  faithful  man,  he  shall  pay
@@ -17549,8 +16704,7 @@ for  it  as  for  wilful  murder.
 VII.
 
 45.  *  Mayest  thou  receive  ^  O  holy  young  king
-Vii-taspa !  (a  house)  with  a  hundred  .  .  .  .  ^  ten  thou-
-sand large  windows,  ten  thousand  small  windows,
+Vii-taspa !  (a  house)  with  a  hundred  .  .  .  .  ^  ten  thousand large  windows,  ten  thousand  small  windows,
 all  the  year  long  ^,  O  holy  Vi-ftaspa !  never  growing
 old,  never  dying,  never  decaying,  never  rotting,
 giving  plenty  of  meat,  plenty  of  food,  plenty  of
@@ -17576,8 +16730,7 @@ VI5TASP    VAST.  341
 
 
 47.  'He  wields  his  power  according  to  the  wish
-of  Ahura  Mazda,  the  Good  Spirit,  and  for  the  de-
-struction of  the  Evil  Spirit,  whichever  of  two  men
+of  Ahura  Mazda,  the  Good  Spirit,  and  for  the  destruction of  the  Evil  Spirit,  whichever  of  two  men
 goes  quicker  to  perform  a  sacrifice  (to  Ahura) ;  but
 if  he  chooses  to  perform  the  sacrifice  and  prayer  to
 us  not  in  the  right  way,  he  does  not  wield  the  right
@@ -17620,9 +16773,6 @@ in  lust  and  of  all  females.
 XVIII,  64).
 
 
-342  YA5TS    AND    SIROZAHS.
-
-
 Ahura  Mazda,  takes  them  ^  away  from  afar ;  .  .  .  .  ^ ;
 and  all  those  that  harm  the  creation  of  the  Good
 Spirit  are  destroyed  3;
@@ -17643,8 +16793,7 @@ the  full  accomplishment  of  his  wishes."
 
 '  Where  does  his  soul  abide  on  that  night '  ? '
 
-54.  Ahura  Mazda  answered  : '  O  my  son,  Frashao-
-rtra !  It  takes  its  seat  near  the  head,  singing  the
+54.  Ahura  Mazda  answered  : '  O  my  son,  Frashaortra !  It  takes  its  seat  near  the  head,  singing  the
 U^tavaiti  Gatha  and  proclaiming  happiness  :  "  Happy
 is  he,  happy  the  man  whoever  he  be ! "
 
@@ -17661,8 +16810,7 @@ thee  through  the  good  will  of  Atar  (fire).'
 beshitaran  min  spinak  minoi  daman  Ivit  apetak  avin  yahvunit
 (Pahl.  Comm.).
 
-*  Yatha  ya/  te  fravaoiami  (fravao/^ama,W.)  puthro  bere-
-thya/  sairimananam  (sairi  mananam,W.)  bakhedhrai  (trans-
+*  Yatha  ya/  te  fravaoiami  (fravao/^ama,W.)  puthro  berethya/  sairimananam  (sairi  mananam,W.)  bakhedhrai  (trans-
 lated as  hakhedhrai:  dostih,  friendship).
 
 ^  This  chapter  is  borrowed,  though  slightly  altered,  from  Yt.  XXII.
@@ -17687,8 +16835,7 @@ third  night,  it  goes  along  the  ways  (to  Garo-nmina).
 55.  'At  the  end  of  the  third  night,  O  my  son,
 Frashaoi^tra  !  when  the  dawn  appears,  it  seems  to  the
 soul  of  the  faithful  one  as  if  it  were  brought  amidst
-plants  [and  scents  :  it  seems  as  if  a  wind  were  blow-
-ing from  the  region  of  the  south,  from  the  regions
+plants  [and  scents  :  it  seems  as  if  a  wind  were  blowing from  the  region  of  the  south,  from  the  regions
 of  the  south]  \  a  sweet-scented  wind,  sweeter-scented
 than  any  other  wind  in  the  world,  and  it  seems  to  his
 soul  as  if  he  were  inhalino-  that  wind  with  the  nose,
@@ -17698,8 +16845,7 @@ nose  r
 
 56.  '  And  it  seems  to  him  as  if  his  own  conscience
 were  advancing  to  him  in  that  wind,  in  the  shape
-of  a  maiden  fair,  bright,  white-armed,  strong,  tall-
-formed,  high-standing,  thick-breasted,  beautiful  of
+of  a  maiden  fair,  bright,  white-armed,  strong,  tallformed,  high-standing,  thick-breasted,  beautiful  of
 body,  noble,  of  a  glorious  seed,  of  the  size  of  a  maid
 in  her  fifteenth  year,  as  fair  as  the  fairest  things  in
 the  world.
@@ -17899,8 +17045,7 @@ Hail  to  Gaya^ !
 
 ^  In  thought,  speech,  and  deed  (Pers.  and  Sansk.  transl).
 
-2  Vayu,  as  being  the  same  with  Fate  (Vend.  Introd.  IV,  17),  be-
-came identified  with  Time.
+2  Vayu,  as  being  the  same  with  Fate  (Vend.  Introd.  IV,  17),  became identified  with  Time.
 
 3  The  Ashem  Vohu.  *  See  p.  22.
 «  §  5=Yasna  LXVIII  (22-23  [LXVII,  58-67]).
@@ -17911,8 +17056,7 @@ came identified  with  Time.
 KHORSHED    NYAYI5.  35^
 
 
-Hail  to  the  Fravashi  of  the  holy  Spitama  Zara-
-thui-tra !
+Hail  to  the  Fravashi  of  the  holy  Spitama  Zarathui-tra !
 
 Hail  to  the  whole  of  the  holy  creation  that  was,
 is,  or  will  be  !
@@ -17927,14 +17071,12 @@ Ashem  Vohil :  Holiness  is  the  best  of  all  good  ....
 6.  We  sacrifice  unto  the  bright,  undying,  shining,
 swift-horsed  Sun.
 
-We  sacrifice  unto  Mithra,  the  lord  of  wide  pas-
-tures, who  is  truth-speaking,  a  chief  in  assemblies,
+We  sacrifice  unto  Mithra,  the  lord  of  wide  pastures, who  is  truth-speaking,  a  chief  in  assemblies,
 with  a  thousand  ears.well-shapen,  with  ten  thousand
 eyes,  high,  with  full  knowledge,  strong,  sleepless,
 and  ever  awake  ^.
 
-7.  We  sacrifice  unto  Mithra,  the  lord  of  all  coun-
-tries, whom  Ahura  Mazda  made  the  most  glorious
+7.  We  sacrifice  unto  Mithra,  the  lord  of  all  countries, whom  Ahura  Mazda  made  the  most  glorious
 of  all  the  gods  in  the  world  unseen  ^.
 
 So  may  Mithra  and  Ahura,  the  two  great  gods,
@@ -17980,8 +17122,7 @@ We  sacrifice  unto  the  beneficent,  well-doing  Wind.
 We  sacrifice  unto  the  most  upright  Arista  \  made
 by  Mazda  and  holy.
 
-We  sacrifice  unto  the  good  Law  of  the  wor-
-shippers of  Mazda.
+We  sacrifice  unto  the  good  Law  of  the  worshippers of  Mazda.
 
 We  sacrifice  unto  the  way  of  content^.
 
@@ -17992,8 +17133,7 @@ Mazda  \
 9.  We  sacrifice  unto  all  the  holy  gods  of  the
 world  unseen.
 
-We  sacrifice  unto  all  the  holy  gods  of  the  mate-
-rial world.
+We  sacrifice  unto  all  the  holy  gods  of  the  material world.
 
 We  sacrifice  unto  our  own  soul.
 
@@ -18027,8 +17167,7 @@ MIHIR    NYAYIS-.  353
 Unto  the  bright,  undying,  shining,  swift-horsed
 Sun ;
 
-Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glori-
-fication .  .  .  .  ^
+Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glorification .  .  .  .  ^
 
 Ashem  Vohu:  Holiness  is  the  best  of  all  good  ....
 
@@ -18094,8 +17233,7 @@ glorious  of  all  the  heavenly  gods.
 So  may  Mithra  and  Ahura,  the  two  great  gods,
 come  to  us  for  help !
 
-We  sacrifice  unto  the  undying,  shining,  swift-
-horsed  Sun.
+We  sacrifice  unto  the  undying,  shining,  swifthorsed  Sun.
 
 8  ^.  We  sacrifice  unto  Tij-trya,  whose  sight  is  sound  ....
 9.  We  sacrifice  unto  all  the  holy  gods  of  the  world  unseen  ....
@@ -18132,8 +17270,7 @@ yield  baresma.     We  sacrifice  unto  Mithra,  the  lord
 
 of  all  countries.
 
-1 3''.  For  his  brightness  and  glory,  I  will  offer  unto  him  a  sacri-
-fice worth  being  heard  ....
+1 3''.  For  his  brightness  and  glory,  I  will  offer  unto  him  a  sacrifice worth  being  heard  ....
 
 1  §§  8-9  =  Kh6rsha^  Nyayij,  §§  8-9.  ^  Yt.  X,  o.
 
@@ -18191,8 +17328,7 @@ Bull
 9.  Yatha  ahil  vairyo:  The  will  of  the  Lord  is  the  law  of
 holiness  ....
 
-lo*.  Give  us  strength  and  victory!  Give  us  wel-
-fare in  cattle  and  in  bread!  Give  us  a  great  number
+lo*.  Give  us  strength  and  victory!  Give  us  welfare in  cattle  and  in  bread!  Give  us  a  great  number
 of  male  children,  praisers  [of  God]  and  chiefs  in
 assemblies,  who  smite  and  are  not  smitten,  who
 smite  at  one  stroke  their  enemies,  who  smite  at  one
@@ -18259,8 +17395,7 @@ yesnya'^;  he  from  whom  she  will  hear  the  Ahuna
 ATA5    NYAYI5.  357
 
 
-vairya^  he  from  whom  she  will  hear  the  Asha-
-vahi^ta^;  he  by  whom  the  good  waters,  will  be
+vairya^  he  from  whom  she  will  hear  the  Ashavahi^ta^;  he  by  whom  the  good  waters,  will  be
 made  pure  ;  with  the  words  of  the  holy  hymns  \  he
 will  enter  first  the  Gar6-nmana  of  Ahura  Mazda  :
 she  will  give  him  the  boons  asked  for*.
@@ -18272,8 +17407,7 @@ us  when  thou  art  appealed  to!  Mayest  thou  be
 most  fully  worshipped.
 
 '  We  sacrifice  unto  the  holy  Ardvi  Sflra  Anahita  with  libations.
-We  sacrifice  unto  Ardvi  Siira  Anahita,  the  holy  and  master  of  holi-
-ness, with  the  Haoma  and  meat,  with  the  baresma,  with  the
+We  sacrifice  unto  Ardvi  Siira  Anahita,  the  holy  and  master  of  holiness, with  the  Haoma  and  meat,  with  the  baresma,  with  the
 wisdom  of  the  tongue,  with  the  holy  spells,  with  the  words,  with
 the  deeds,  with  the  libations,  and  with  the  rightly-spoken  words.
 
@@ -18312,12 +17446,6 @@ Cf,  Aban  Ya^t,  §  9.
 
 '  Deliver  me  from  Ahriman '  (Pahl.  Comm.).
 ^  As  in  Ormazd  Ya^t,  o.
-
-
-6
-
-
-7
 
 
 n
@@ -18364,8 +17492,7 @@ Unto  Atar,  the  son  of  Ahura  Mazda,  with  all
 Atars ;  unto  the  God  Nairyo-sangha,  who  dwells  in
 the  navel  of  kings ;
 
-Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glori-
-fication.
+Be  propitiation,  with  sacrifice,  prayer,  propitiation,  and  glorification.
 
 Yatha  ahft  vairyo:  The  will  of  the  Lord  is  the  law  of
 holiness  ....
@@ -18375,8 +17502,7 @@ holiness  ....
 
 '  As  in  Ormazd  Ya.st,  o.  ^  Cf.  Sirozah,  §  9.
 
-^  §§7-i6=Yasna  LXII,  i-io  (LXI).    See  the  Sanskrit  transla-
-tion in  Etudes  Iraniennes,  II.
+^  §§7-i6=Yasna  LXII,  i-io  (LXI).    See  the  Sanskrit  translation in  Etudes  Iraniennes,  II.
 
 
 AT  AS   NYAYW.  359
@@ -18387,8 +17513,7 @@ assistance  offered  unto  thee,  O  Atar,  son  of  Ahura
 Mazda  !
 
 Thou  art  worthy  of  sacrifice  and  invocation ;
-mayest  thou  receive  the  sacrifice  and  the  invoca-
-tion in  the  houses  of  men.
+mayest  thou  receive  the  sacrifice  and  the  invocation in  the  houses  of  men.
 
 Well  may  it  be  unto  the  man  who  ever  worships
 thee  with  a  sacrifice,  holding  the  sacred  wood  in  his
@@ -18413,8 +17538,7 @@ of  the  world  !
 welfare,  lively  maintenance,  lively  living ;  fulness  of
 welfare,  fulness  of  maintenance,  fulness  of  life  ;
 
-Knowledge,  sagacity ;  quickness  of  tongue  ;  (holi-
-ness of)  soul ;  a  good  memory  ;  and  then  the  under-
+Knowledge,  sagacity ;  quickness  of  tongue  ;  (holiness of)  soul ;  a  good  memory  ;  and  then  the  under-
 standing that  goes  on  growing  and  the  one  that  is
 not  acquired  through  learning*;
 
@@ -18445,8 +17569,7 @@ good,  freeing  us  from  the  pangs  (of  hell),  endowed
 with  a  good  intellect,  that  may  increase  my  house,
 my  borough,  my  town,  my  country,  my  empire.
 
-12.  Give  me,  O  Atar,  son  of  Ahura  Mazda!  how-
-ever unworthy  I  am  \  now  and  for  ever,  a  seat  in
+12.  Give  me,  O  Atar,  son  of  Ahura  Mazda!  however unworthy  I  am  \  now  and  for  ever,  a  seat  in
 the  bright,  all-happy,  blissful  abode  of  the  holy
 Ones.
 
@@ -18492,8 +17615,7 @@ twigs  of  Hadhanaepata\  then  Atar,  the  son  of  Ahura
 Mazda,  well  pleased  with  him  and  not  angry,  and
 fed  as  required,  will  thus  bless  him  :
 
-1 6,  'May  herds  of  oxen  grow  for  thee,  and  in-
-crease of  sons ;  may  thy  mind  be  master  of  its
+1 6,  'May  herds  of  oxen  grow  for  thee,  and  increase of  sons ;  may  thy  mind  be  master  of  its
 vow,  may  thy  soul  be  master  of  its  vow,  and  mayest
 thou  live  on  in  the  joy  of  the  soul  all  the  nights  of
 thy  life.'
@@ -18512,8 +17634,7 @@ AshemVohu:  Holiness  is  the  best  of  all  good  ....
 
 18^.  We  gladden  by  our  virtue  thy  mighty  Fire,
 O  Ahura !  thy  most  quick  and  powerful  Fire,  who
-shows  his  assistance^  to  him  who  has  ever  com-
-forted him,  but  delights  in  taking  vengeance  with
+shows  his  assistance^  to  him  who  has  ever  comforted him,  but  delights  in  taking  vengeance  with
 his  hands  on  the  man  who  has  harmed  him.
 
 
@@ -18535,9 +17656,6 @@ AND   TO    THE
 
 SIROZAHS,  YA5TS,   AND    NYAYI5,
 VOLUME  xxin.
-
-
-INDEX  TO  VOLS.  IV  AND  XXIII.
 
 
 The  references  in  small  Roman  numerals  are  to  the  Introduction  to  the
@@ -18619,10 +17737,8 @@ Ahuna  Vairya,  prayer,  Ixix,  Ixxviii,
 serves  as  a  weapon,  II,  275.
 
 Ahura  Mazda,  god,  Iviii,  Ixi ;  4  (his
-creations),  207 ;  208  (his  Fra-
-vashi);  II,  3,  6,  9,  10,  13,  15;
-21-34  (Ormazd  Yajt) ;  57  (sacri-
-fices to  Ardvi  Sura  Anahita) ;  86,
+creations),  207 ;  208  (his  Fravashi);  II,  3,  6,  9,  10,  13,  15;
+21-34  (Ormazd  Yajt) ;  57  (sacrifices to  Ardvi  Sura  Anahita) ;  86,
 116,119,138,142,  151,152,154,
 155, 156, 157,162,  164,  169,  180,
 199,  201,  227,  228,  230,  231,  232
@@ -18651,12 +17767,6 @@ Akayadha,  man,  II,  219.
 Akem  Mano,  demon,  Ixxii;  II,  297,
 
 308.
-
-
-366
-
-
-INDEX    TO    VOLS.  IV    AND    XXIII.
 
 
 Akhnangha,  man,  11,  217,
@@ -18715,8 +17825,7 @@ Anghuyu,  II,  215.
 Angra  Mainyu,  demon,  Ivi,  Ixii,  4
 (his  counter-creations),  24, 142-
 143  (expelled),  204-207  (tempts
-Zarathujtra),  217-218  (in  des-
-pair), 228,  229,  230  (creates
+Zarathujtra),  217-218  (in  despair), 228,  229,  230  (creates
 diseases);  II,  29,  33,  44,  105,
 113,144, 150,  i54j  198,  242;  250
 (a  part  of  Vayu  belongs  to  him) ;
@@ -18820,12 +17929,6 @@ Arjta/, genius,  II,  6,9, 15, 17, 19,  36,
 285  (AjtadYajt).   SeeA^tad.
 Arjti,  genius,  II,  166.
 Arjva«/,  man,  II,  210.
-
-
-INDEX    TO    VOLS.  IV    AND    XXIII.
-
-
-67
 
 
 Artaxerxes,  xliv,  Iv;  II,  53.
@@ -18986,12 +18089,6 @@ word,  ^xxx.      See  Abajta   and
 
 Zand  Avasta.
 Aws-danva,  lake,  II,  301.
-
-
-368
-
-
-INDEX    TO    VOLS.  IV   AND    XXIII.
 
 
 Ayehi,  demon,  228.
@@ -19162,12 +18259,6 @@ Daev6-/bij,  man,  II,  204.
 Dahae,  people,  II,  227.  n  2.
 
 
-INDEX    TO    VOLS.  IV    AND    XXIII.
-
-
-369
-
-
 Dahak,  demon,  II,  298.11 1.  See  Aisi
 Dahaka.
 
@@ -19244,8 +18335,7 @@ Dog,  58,  180;  described,  151-172,
 1 61-163  ;  praised,  163  ;  how
 fed,  173;  offences  to,  153-155;
 mad,  159-160;  yellow-eared,
-Ixxxviii.  See  Sagdid,  Vangha-
-para,  Vohunazga,  Zairimyan-
+Ixxxviii.  See  Sagdid,  Vanghapara,  Vohunazga,  Zairimyan-
 gura.
 
 Drafja,  II,  26.  n  5.
@@ -19264,8 +18354,7 @@ Driwi,  demon,  218.
 
 Dron  ceremony,  II,  319,  n  r.
 
-Dru^,  demon,  Ixxxvi,  24;  her  para-
-mours, 196-200,  217;  II, 29, 47,
+Dru^,  demon,  Ixxxvi,  24;  her  paramours, 196-200,  217;  II, 29, 47,
 
 [23]  B
 
@@ -19359,17 +18448,10 @@ n  3,  208.  n  2,  222.  n  5,  223.  n  5,
 224.  n  6,   237.  n  3,  241.  n  2,
 
 
-370
-
-
-INDEX    TO    VOLS.  IV    AND    XXIII.
-
-
 253.  n  3>  292.  n  I,  293.  n  6,
 297.  n  5,  327. n  8.
 
-Fire,  its  purity,  xx,  Ixxxix  ;  how  de-
-filed, 9,  80,  no,  168.  n  7  ;  how
+Fire,  its  purity,  xx,  Ixxxix  ;  how  defiled, 9,  80,  no,  168.  n  7  ;  how
 purified,  135;  its  innocuity,  51  ;
 sonof  Ahura  Mazda,  II,  322.  ns.
 
@@ -19484,8 +18566,7 @@ Gaumata,  man,  Iv.  n  i.
 Gauri,  man,  II,  215.
 Gavayan,  man,  II,  203.
 Gayadhasti,  man,  II,  212,  225.
-Gaya,  man,  II,  350.  See  Gaya  Mare-
-tan  and  Gayomar^/.
+Gaya,  man,  II,  350.  See  Gaya  Maretan  and  Gayomar^/.
 Gaya   Maretan,    man,   Ixxviii;    II,
 
 98.  n  3,  200,  227.
@@ -19516,9 +18597,6 @@ n  7,  307.  n  6.
 
 
 n  2  ;  II,  114.
-
-
-INDEX    TO   VOLS.  IV    AND    XXIII.
 
 
 37^
@@ -19677,9 +18755,6 @@ b  2
 Zl^
 
 
-INDEX    TO    VOLS.  IV    AND    XXIII.
-
-
 Hunus,  people,  II,  205.
 
 Husravah,  king,  II,  65,  114, 115,  222,
@@ -19817,9 +18892,6 @@ See  Qobad.
 Kavis,  heretics,  II,  26.  n  2.
 
 
-INDEX    TO   VOLS.  IV    AND    XXIII.
-
-
 37:
 
 
@@ -19827,8 +18899,7 @@ Kavis,  kings,  II,  213,  215,  218.  See
 Aipivohu,  Apiveh,  Arij,  Armin,
 Arshan,  Byarshan,  Husravah,
 Kavata,  Kaus,  Khosrav,  Pashin,
-Qpbad,  Syavakhsh,  Syavar-
-shana,  Usa,  Usadha.
+Qpbad,  Syavakhsh,  Syavarshana,  Usa,  Usadha.
 
 Kayadha,  Ixix.
 
@@ -19973,12 +19044,6 @@ Maretan,  man.     See  Gaya,
 Margiana,  land,  II,  123.  n  4.
 
 
-374
-
-
-INDEX    TO    VOLS.  IV    AND    XXIII.
-
-
 Margus,  river,  II,  123.  n  4.
 
 Maruts,  Ixxvii.
@@ -20027,8 +19092,7 @@ Meiners,  xvi.
 
 Melek  Taus,  Ixxiii.  n  4.
 
-Menstruation,  xciii ;  caused  by  Dae-
-vas, 183.  See  Menstruous  woman.
+Menstruation,  xciii ;  caused  by  Daevas, 183.  See  Menstruous  woman.
 
 Menstruous  woman,  treatment  of  a,
 1 8 1- 1 83  ;  intercourse  with,  173,
@@ -20048,8 +19112,7 @@ Minoy^ihr,  man,  xlvii;  II,  95.  n  2,
 ii4.n7.
 
 Mithra,  genius,  created  by  Ahura,
-Ixi ;  his  attributes,  Ixi.  n  i  ;  co-
-equal to  Ahura,  Ix;  praised,  II,
+Ixi ;  his  attributes,  Ixi.  n  i  ;  coequal to  Ahura,  Ix;  praised,  II,
 1 19-158  (Mihir  Yajt),  23,  87.
 n4,  208;  11,5,9,  14,  17,  36,  38,
 39,  86,  87,  95,  166, 181, 184, 191,
@@ -20131,8 +19194,7 @@ Neo-Platonicians,  xiii.
 
 Neremyazdana,  man,  II,  211.
 
-Neryosengh,II,i95.n2.  See  Nairyo-
-sangha.
+Neryosengh,II,i95.n2.  See  Nairyosangha.
 
 Nikolaus,  li.
 
@@ -20166,12 +19228,6 @@ n  5.    See  Ushi-darena.
 Oshedar  Bami,  man,  II,  79.  n  3,  164.
 
 n  I,  220.  n  3,  226.  n  i.
-
-
-INDEX    TO    VOLS.  IV    AND    XXIII.
-
-
-375
 
 
 6shedar  Mah,  II,  164.  n  i,  220.  n  2.
@@ -20264,26 +19320,22 @@ Pd-han,  man,  II,  293.  n  4.
 
 Penalties,  in  the  Vendidad,  xcviii ;
 for  a  woman  unclean  drinking
-water,  91;  for  breach  of  con-
-tract, 37 ;  for  burning  dead
+water,  91;  for  breach  of  contract, 37 ;  for  burning  dead
 matter,  iii;  for  burying  a
 corpse,  31;  for  defiling  fire  or
 water,  80-81  ;  a  river  or  trees,
 118;   the  ground,  67-69;   for
 
 
-eating  of  a  corpse,  80 ;  for  giv-
-ing bad  food  to  a  dog,  156-158 ;
+eating  of  a  corpse,  80 ;  for  giving bad  food  to  a  dog,  156-158 ;
 for  a  false  oath,  47-48  ;  for  a
-false  cleanser,  131;  for  inter-
-course with  a  menstruous  wo-
+false  cleanser,  131;  for  intercourse with  a  menstruous  wo-
 man, 184-185,  202;  for  killing
 a  Vanghapara  dog,  1 5  3  ;— any
 dog,  165-169;  for  smiting  a  dog,
 1 5  3- 1 55 ;— a  bitch  pregnant,  180;
 for  sodomy,  1 11.  n  i ;  for  sowing
-or  watering  the  ground  un-
-clean, 67;  for  throwing  clothes
+or  watering  the  ground  unclean, 67;  for  throwing  clothes
 on  the  dead,  99-100.
 
 Penitence,  c,  32.     See  Patet.
@@ -20347,9 +19399,6 @@ Priesthood,  xlvii.
 Z1^
 
 
-INDEX    TO    VOLS.  IV    AND    XXIII.
-
-
 Proclus,  xiii.
 
 Prodicus,  xiii,  xlii.  n  i.
@@ -20362,12 +19411,10 @@ Purification,  of  clothes,  77-79,  209.
 n  8  ;  corpse-bearers,  96  ;  cow,
 92  ;  earth,  86  ;  Haoma,  72  ;
 house,  93-94;  fire,  110-112;
-man,  103-110,  119-129;  sacri-
-ficial implements,  60 ;  water,
+man,  103-110,  119-129;  sacrificial implements,  60 ;  water,
 69-72;  ways,  97-99;  woman
 delivered  of  a  child,  61,  89-91;
-wood,  81-83;  ii^  the  wilder-
-ness, 11 6- 119.  See  Barashnijm,
+wood,  81-83;  ii^  the  wilderness, 11 6- 119.  See  Barashnijm,
 Ghosel,  Si-shu.
 
 Purity,  Ixxxv,  55.
@@ -20511,9 +19558,6 @@ Scythes,  II,  161.  n  4.
 Scythian  theory  of  Magism,  Ivi.
 Seistan,  land,  II,  123.  n  3,  288.  n  2.
 Selm,  man.     See  Sairima.
-
-
-INDEX    TO    VOLS.  IV    AND    XXIII.
 
 
 zn
@@ -20665,12 +19709,6 @@ Takhma-Urupa,  prince,  II,  60.  n  i,
 
 204,  252,  292,  326.
 Tanafahr,  xcvi.
-
-
-378
-
-
-INDEX    TO    VOLS.  IV    AND    XXIII.
 
 
 Tanuperetha,  xcvi.
@@ -20831,12 +19869,6 @@ Vanaw/,  star,  II,  9,  16,  97.  n  6,  175,
 jio,  351.
 Vanara,  man,  II,  205.
 Va«daremaini,  man,  IT,  80.
-
-
-INDEX    TO    VOLS.  IV    AND    XXIII.
-
-
-379
 
 
 Vanghapara,  152.
@@ -21008,9 +20040,6 @@ Vyatana,  man,  II,  218.
 38o
 
 
-INDEX    TO   VOLS.  IV   AND    XXIII.
-
-
 Walking  without  Kosti,  199.
 War  implements,  169.
 Wartburg  battle,  II,  72.  n  5,
@@ -21127,8 +20156,7 @@ Zarathujtra's  birth,  xlix,  218;  he
 destroys  the  Daevas,  11,304-305;
 founds  the  Law,  11,  201  ;  his
 sacrifices,  II,  74,  78,  265-267,
-279  (see  Zartusht  and  Zoroas-
-trian) ;  reveals  the  Law,  11, 324  ;
+279  (see  Zartusht  and  Zoroastrian) ;  reveals  the  Law,  11, 324  ;
 his  Glory,  205  ;  II,  11,  19,  300  ;
 P'ravashi,  II,  351;  his  sons,  21,
 n  2  ;  II,  204  ;  his  seed,  11,  195  ;
@@ -21185,9 +20213,6 @@ Zrayah,  11,  213,
 TRANSLITERATION  OF    ORIENTAL    ALPHABETS.
 
 
-381
-
-
 CO
 
 "-A
@@ -21223,7 +20248,6 @@ W
 w
 
 H
-0
 
 K
 H
@@ -21234,7 +20258,6 @@ fcn
 
 <:
 
-0
 
 CO
 
@@ -21256,19 +20279,15 @@ en
 
 H
 
-0
 
 fe
 
-0
 
 ^
 
-0
 
 'A
 
-0
 
 I— 1
 
@@ -21390,7 +20409,6 @@ o
 I— ^
 
 
-03
 .a
 
 
@@ -21410,16 +20428,10 @@ o
 S
 
 
-03
 ^1
 
 
 o3
-
-
-05
-
-3
 
 
 C
@@ -21432,20 +20444,11 @@ C-i
 o
 
 
-03
-
-3
-
-
-3
-
 o
 
 
 t-H     (M     CO     Tt<     O
 
-
-03
 
 CO
 
@@ -21477,14 +20480,10 @@ S-c  to
 '3
 
 
-3
 C
 
 
 CO    TfH    »n    cr    t^
-
-
-382
 
 
 TRANSLITERATION    OF    ORIENTAL    ALPHABETS
@@ -21588,9 +20587,6 @@ o
 u
 
 
-3
-
-
 ^      c3
 
 
@@ -21617,8 +20613,6 @@ b3
 ei
 
 
-03
-
 CO         05
 
 c8      c3
@@ -21633,9 +20627,6 @@ S3
 M
 
 
-09
-
-
 C3      C3
 
 
@@ -21643,7 +20634,6 @@ C3      C3
 T-H     CM     (M     CSI
 
 
-3
 C
 
 
@@ -21678,8 +20668,6 @@ CS       I— (
 «3
 
 
-03
-
 EO
 
 
@@ -21699,9 +20687,6 @@ CO     CO
 
 
 FOR    THE    SACRED    BOOKS    OF    THE    EAST.
-
-
-383
 
 
 a
@@ -21732,9 +20717,6 @@ h
 
 
 4)
-
-
-1
 
 
 5)
@@ -21825,9 +20807,6 @@ O
 >
 
 
-02
-
-
 CO
 
 
@@ -21841,12 +20820,6 @@ o
 e  ^  i  «*-  >
 
 
-05
-
-
-03
-
-
 c
 
 Eh
@@ -21856,15 +20829,11 @@ c3
 to
 
 
-03
-
 o
 o
 >
 
 s
-
-03
 
 
 S  2
@@ -21879,16 +20848,10 @@ S  2
 bD
 
 
-02
-
-
 CO     CO     ^     ^     ^     "^     ^     ^     ^     ^
 
 
 OOOO'— ilMCO-^lOOI^OOCl
-
-
-384
 
 
 TRANSLITERATION    OF    ORIENTAL    ALPHABETS.
@@ -21916,7 +20879,6 @@ I        •••*-'.        •       •       •       •••  rr      :
 U               1
 
 '■5
-2
 <       1
 
 •          •
@@ -21973,7 +20935,6 @@ i
 
 •            •••            ■•••■            ■••«■■•••■••••            •
 
-1
 
 •                ••                                  •                                  •■•••                                  •                            ^— ^              .                 a                •                                                    •                 •                 .                 •
 
@@ -22007,7 +20968,6 @@ i      h-
 -*^
 .      o
 
-03
 
 1                        •        •     -3
 
@@ -22060,18 +21020,14 @@ J
 15  „               ]
 
 16  Diphthongus  gutt
-17
 
-18
 
 19  Gutturo-labialis  b
 
 20  „             k
 
 21  Diphthongus  gutt
-22
 
-23
 
 24  Gutturalis  fracta
 
@@ -22124,8 +21080,7 @@ A  Practical  Introduction  to  Greek  Accentuation,
 by  H.  W.  Chandler,  M.A.     Second  Edition.     18S1.    8vo.   cloth,
 10s.  6(f.
 
-A  Latin  Dictionary,  founded  on  Andrews'  edi-
-tion of  Freund's  Latin  Dictionary,  revised,  enlarged,  and  in  great
+A  Latin  Dictionary,  founded  on  Andrews'  edition of  Freund's  Latin  Dictionary,  revised,  enlarged,  and  in  great
 part  rewritten  by  Charlton  T.  Lewis,  Ph.D.,  and  Charles  Short,
 LL.D.,  Professor  of  Latin  in  Columbia  College,  New  York.  1879.
 4to.  cloth,  1/.  5s.
@@ -22136,9 +21091,6 @@ Marwan  ibn  Janah,  otherwise  called  Rabbi  Yonah.   Now  first  edited,
 with  an  Appendix,  by  Ad.  Neubauer.     1875.  4to.  cloth,  2/.  75.  (>d.
 
 [9]  B
-
-
-CLARENDON  PRESS,  OXFORD.
 
 
 A  Treatise  on  the  tise  of  the  Tenses  in  Hebrew.
@@ -22169,8 +21121,7 @@ A  Sanskrit-English  Dictionary^  Etymologlcally
 
 and  Philologically  arranged,  with  special  reference  to  Greek,  Latin,
 German,  Anglo-Saxon,  English,  and  other  cognate  Indo  European
-Languages.  By  Monier  Williams,  M.A.,  Boden  Professor  of  San-
-skrit.    1872.  4to.  cloth,  4Z.  14s.  6c?.
+Languages.  By  Monier  Williams,  M.A.,  Boden  Professor  of  Sanskrit.    1872.  4to.  cloth,  4Z.  14s.  6c?.
 
 Nalopdkhydnam.     Story  of   Nala,  an  Episode
 
@@ -22193,12 +21144,8 @@ Parts  I  and  II.     1882.  4to.  15s.  each.
 
 A71  Icelandic-English  Dictionary ,  based  on  the
 
-MS.  collections  of  the  late  Richard  Cleasby.  Enlarged  and  com-
-pleted by  G.  Vigfusson,  M.A.  With  an  Introduction,  and  Life  of
+MS.  collections  of  the  late  Richard  Cleasby.  Enlarged  and  completed by  G.  Vigfusson,  M.A.  With  an  Introduction,  and  Life  of
 Richard  Cleasby,  by  G.  Webbe  Dasent,  D.C.L,     1874.  4to.  cloth,
-
-
-CLARENDON  PRESS,  OXFORD.
 
 
 A   List  of  English    Words  the  Etymology   of
@@ -22226,13 +21173,11 @@ cloth,  5s.  6d.
 
 GKEEK  CLASSICS,  &c.
 
-Heracliti  Ephesii  Reliquiae.  Recensuit  I.  By-
-water,  M.A.  Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita
+Heracliti  Ephesii  Reliquiae.  Recensuit  I.  Bywater,  M.A.  Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita
 Heracliti,  Particulae  Hippocralei  De  Diaeta  Libri  Primi,  Epistolae
 Heracliteae.     1S77.  Svo.  cloth,  price  6s.
 
-Homer:  A  Complete  Concordance  to  the  Odys-
-sey and  Hymns  of  Homer ;  to  which  is  added  a  Concordance  to
+Homer:  A  Complete  Concordance  to  the  Odyssey and  Hymns  of  Homer ;  to  which  is  added  a  Concordance  to
 the  Parallel  Passages  in  the  Iliad,  Odyssey,  and  Hymns.  By
 Henry  Dunbar,  M.D.,  Member  of  the  General  Council,  University
 of  Edinburgh.     1880.  4to.  cloth,  \l.  is.
@@ -22259,9 +21204,6 @@ lOs.  dd.     Just  Published.
 B   2
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Plato :    The  Dialogues^  translated  into  English,
 
 with  Analyses  and  Introductions,  by  B.  Jowett,  M.A.,  Regius
@@ -22278,8 +21220,7 @@ Plato:   Index  to.     Compiled   for   the    Second
 Edition  of  Professor  Jowett's  Translation  of  the  Dialogues.  By
 Evelyn  Abbott,  M.A.     1875.  8vo.  paper  covers,  2s.  dd.
 
-Thucydides :  Translated  into  English,  with  In-
-troduction, Marginal  Analysis,  Notes,  and  Indices.  By  B.  Jowett,
+Thucydides :  Translated  into  English,  with  Introduction, Marginal  Analysis,  Notes,  and  Indices.  By  B.  Jowett,
 M.A.,  Regius  Professor  of  Greek.     2  vols.     1881.     Medium  8vo.
 
 cloth,  1/.   I2S.
@@ -22320,9 +21261,6 @@ potior  varietas  Codicis  Alexandrini.  Tomi  III.  Editio  Altera.
 i8mo.  cloth,  18s,
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Origenis    Hexaplorum    quae    supersunt ;    sive,
 
 Veterum  Interpretum  Graeconim  in  totum  Vetus  Testamentum
@@ -22346,8 +21284,7 @@ Crown  Svo.  cloth,  3s.  dd.
 
 The  Book  of   Wisdom :   the   Greek   Text,  the
 
-Latin  Vulgate,  and  the  Authorised  English  Version ;  with  an  In-
-troduction, Critical  Apparatus,  and  a  Commentary.  By  William
+Latin  Vulgate,  and  the  Authorised  English  Version ;  with  an  Introduction, Critical  Apparatus,  and  a  Commentary.  By  William
 J.  Deane,  M.A.,  Oriel  College,  Oxford;  Rector  of  Ashen,  Essex.
 Small  4to.  cloth,  1 2s.  6d.
 
@@ -22357,8 +21294,7 @@ unique  MS.  in  the  Bodleian  Library  ;  with  other  Rabbinical  Texts,
 English  Translations,  and  the  Itala.  Edited  by  Ad.  Neubauer,  M.  A.
 1878.  Crown  Svo.  cloth,  6s.
 
-A  Commentary  on  the  Book  of  Proverbs.  Attri-
-buted to  Abraham  Ibn  Ezra.  Edited  from  a  Manuscript  in  the
+A  Commentary  on  the  Book  of  Proverbs.  Attributed to  Abraham  Ibn  Ezra.  Edited  from  a  Manuscript  in  the
 Bodleian  Library  by  S.  R.  Driver,  M.A.  Crown  Svo.  paper  cover,
 3s,  dd.
 
@@ -22383,9 +21319,6 @@ Oxoniensis.     iSmo.  cloth,  3s.
 The  same  on  writing  paper,  with  large  margin,  cloth,  los.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Novtun    Testmnentum   Graece  juxta   Exemplar
 
 Millianum.     i8mo.  cloth,  is.  6d.
@@ -22403,8 +21336,7 @@ Demy  8vo.  cloth,  105,  dd.
 
 (3)  The  same,  on  writing  paper,  with  wide  margin,  cloth,  15s,
 
-The  Parallel  New  Testament,  Greek  and  Eng-
-lish; being  the  Authorised  Version,  161 1;  the  Revised  Version,
+The  Parallel  New  Testament,  Greek  and  English; being  the  Authorised  Version,  161 1;  the  Revised  Version,
 1881 ;  and  the  Greek  Text  followed  in  the  Revised  Version.  8vo.
 cloth,  \2s.  ()d.
 
@@ -22439,11 +21371,7 @@ D.D.     18S1.     Crown  Svo.  cloth,  los.  6d.
 
 St.  Augustine:   Select  Anti-Pelagian  Treatises,
 
-and  the  Acts  of  the  Second  Coimcil  of  Orange.     With  an  Intro-
-duction by  William  Bright,  D.D.     Crown  8vo.  cloth,  9s.
-
-
-CLARENDON  PRESS,  OXFORD.
+and  the  Acts  of  the  Second  Coimcil  of  Orange.     With  an  Introduction by  William  Bright,  D.D.     Crown  8vo.  cloth,  9s.
 
 
 The  Canons  of  the  First  Four  General  Councils
@@ -22510,8 +21438,7 @@ a  CLARENDON  PRESS,  OXFORD.
 
 ECCLESIASTICAL  HISTORY,  BIOGRAPHY,  &c.
 
-Baedae  Historia  Ecclesiastica.  Edlted,wlth  Eng-
-lish Notes,  by  G.  H.  Moberly,  M.A.  1881.  Crown  8vo.  cloth.  los.  M.
+Baedae  Historia  Ecclesiastica.  Edlted,wlth  English Notes,  by  G.  H.  Moberly,  M.A.  1881.  Crown  8vo.  cloth.  los.  M.
 
 Bright  (PV.,  V.D.).    Chapters  of  Early  English
 
@@ -22565,9 +21492,6 @@ notes.  By  William  Maskell,  MA.  Third  Edition.  1882.  8vo.
 cloth,  15s.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 The  Lihcr^y  and  Rihial  of  the  Celtic  Chtirch.
 
 By  F.  E.  Warren,  B.D.,  Fellow  of  St.  John's  College,  Oxford.
@@ -22590,8 +21514,7 @@ in  the  Apostolic  Age.  Second  Edition,  1874.  fcap.  8vo.  cloth,
 
 Stubbs  (JV.).     Registrtim  Sacru7n  Anglicamim.
 
-An  attempt  to  exhibit  the  course  of  Episcopal  Succession  in  Eng-
-land.    1858.  small  4to.  cloth,  8$.  6rf.
+An  attempt  to  exhibit  the  course  of  Episcopal  Succession  in  England.    1858.  small  4to.  cloth,  8$.  6rf.
 
 
 ENGLISH    THEOLOGY.
@@ -22612,8 +21535,7 @@ Homilies    appointed    to    be   read  in    Churches.
 
 Edited  by  J.  Griffiths,  M.A.     1859.  8vo.  cloth,  7s.  6cf.
 
-Hookers  Works,  with  his  Life  by  Walton,  ar-
-ranged by  John  Keble,  M.A.  Sixth  Edition,  1874.  3  vols.  8vo.
+Hookers  Works,  with  his  Life  by  Walton,  arranged by  John  Keble,  M.A.  Sixth  Edition,  1874.  3  vols.  8vo.
 cloth,  i/.  IIS.  6d,
 
 Hooker  s  Works ;  the  text  as  arranged  by  John
@@ -22729,8 +21651,7 @@ Metcalfe,  M.A.     Small  4to.  stiff  cover,  6s.
 
 Protests  of  the  Lords,    including   those  which
 
-have  been  expunged,  from  1624  to  1874;  with  Historical  Intro-
-ductions. Edited  by  James  E.  Thorold  Rogers,  M.A.  1875.  3  vols.
+have  been  expunged,  from  1624  to  1874;  with  Historical  Introductions. Edited  by  James  E.  Thorold  Rogers,  M.A.  1875.  3  vols.
 8vo.  cloth,  2/.  2s.
 
 Rogers  s  History  of  Agriculture  and  Prices  in
@@ -22741,9 +21662,6 @@ Vols.  I  and  II  (1259-1400).   1866.  8vo.  cloth,  2/.  2s.
 Vols.  Ill  and  IV  (1401-1582).  1882.  8vo.  cloth,  2/.  los.
 
 
-12  CLARENDON  PRESS,  OXFORD.
-
-
 SttLrlunga  Saga,  including  the  Islendinga  Saga
 
 of  Lawman  Sturla  Thordsson  and  other  works.  Edited  by  Dr.
@@ -22751,8 +21669,7 @@ Gudbrand  Vigfiisson.     In  2  vols.     1878.  8vo.  cloth,  2I.  2s.
 
 Two   of  the   Saxon    Chronicles  parallel,   with
 
-Supplementary  Extracts  from  the  Others.  Edited,  with  Intro-
-duction, Notes,  and  a  Glossarial  Index,  by  J.  Earle,  M.A.  1865.
+Supplementary  Extracts  from  the  Others.  Edited,  with  Introduction, Notes,  and  a  Glossarial  Index,  by  J.  Earle,  M.A.  1865.
 8vo.  cloth,  1 6s.
 
 Statutes  made  for  the  University  of  Oxford,  and
@@ -22779,13 +21696,11 @@ cloth,  2s.  6d.
 
 MATHEMATICS,  PHYSICAL   SCIENCE,   &c.
 
-Astronomical  Observations  made  at  the  Uni-
-versity Observatory,  Oxford,  under  the  direction  of  C.  Pritchard,
+Astronomical  Observations  made  at  the  University Observatory,  Oxford,  under  the  direction  of  C.  Pritchard,
 M.A.,  Savilian  Professor  of  Astronomy.  No.  i.  1878.  Royal  8vo.
 paper  covers,  3s.  6d,
 
-Treatise  on  Infinitesimal  Calcuhis.    By  Bartho-
-lomew Price,  M.A.,  F.R.S.,  Professor  of  Natural  Philosophy,  Oxford.
+Treatise  on  Infinitesimal  Calcuhis.    By  Bartholomew Price,  M.A.,  F.R.S.,  Professor  of  Natural  Philosophy,  Oxford.
 Vol.  I.  Differential  Calculus.   Second  Edition,  8vo.  cloth,  14s.  6cf.
 Vol.  II.    Integral  Calculus,  Calculus  of  Variations,  and  Differential
 
@@ -22797,9 +21712,6 @@ Particle.     Second  Edition,  1S68.  8vo.  cloth,  i6s.
 Vol.  IV.  Dynamics  of  Material  Systems ;  together  with  a  chapter
 on  Theoretical  Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S.  1862.
 8vo.  cloth,  1 6s.
-
-
-CLARENDON  PRESS,  OXFORD.  13
 
 
 Rigaiid's    Correspondence  of  Scientific  Men  of
@@ -22821,13 +21733,11 @@ Synopsis    of   the    Pathological    Seizes    in    the
 Oxford  Museum.  By  H.  W.  Acland,  M.D.,  F.R.S.,  1867.  8vo.
 cloth,  2s.  dd.
 
-Thesaurtis  Entomologicus  Hopeianus,  or  a  De-
-scription of  the  rarest  Insects  in  the  Collection  given  to  the
+Thesaurtis  Entomologicus  Hopeianus,  or  a  Description of  the  rarest  Insects  in  the  Collection  given  to  the
 University  by  the  Rev.  William  Hope.  By  J.  O.  Westwood,  M.A.,
 F.L.S.     "\Vith  40  Plates.     1874.   Small  folio,  half  morocco,  7/.  105.
 
-Text-Book  of  Botany,  Morphological  and  Phy-
-siological. By  Dr.  Julius  Sachs,  Professor  of  Botany  in  the  Uni-
+Text-Book  of  Botany,  Morphological  and  Physiological. By  Dr.  Julius  Sachs,  Professor  of  Botany  in  the  Uni-
 versity of  Wurzburg.  A  New  Edition.  Translated  by  S.  H.  Vines,
 M.A.    1882.     Royal  8vo.  1/.  IIS.  6i.
 
@@ -22841,8 +21751,7 @@ covers,  7s,  dd.
 
 MISCELLANEOUS.
 
-BacorHs  Novum  Organum.     Edited,  with  Eng-
-lish notes,  by  G.  W.  Kitchin,  M.A,     1855.  8vo.  cloth,  9s.  dd.
+BacorHs  Novum  Organum.     Edited,  with  English notes,  by  G.  W.  Kitchin,  M.A,     1855.  8vo.  cloth,  9s.  dd.
 
 Bacon  s  Novum  Organum.     Translated  by  G.
 
@@ -22850,19 +21759,14 @@ W.  Kitchin,  M.A.     1855.  8vo.  cloth,  9s.  dd.     (See  also  p.  38.)
 
 The  Works  of  George  Berkeley,  D.D.,  formerly
 
-Bishop  of  Cloyne ;  including  many  of  his  writings  hitherto  un-
-published. With  Prefaces,  Annotations,  and  an  Account  of  his
+Bishop  of  Cloyne ;  including  many  of  his  writings  hitherto  unpublished. With  Prefaces,  Annotations,  and  an  Account  of  his
 Life  and  Philosophy,  by  Alexander  Campbell  Fraser,  M.A.  4  vols.
 1871.  8vo.  cloth,  2I.  18s.
 
 The  Life,  Letters,  Sec.     i  vol.  cloth,  ids.     (See  also  p.  38.)
 
 
-14  CLARENDON  PRESS,  OXFORD.
-
-
-The  Logic  of  Hegel ;  translated  from  the  En-
-cyclopaedia of  the  Philosophical  Sciences.  With  Prolegomena  by-
+The  Logic  of  Hegel ;  translated  from  the  Encyclopaedia of  the  Philosophical  Sciences.  With  Prolegomena  by-
 William  Wallace,  M.A.     1874.  8vo.  cloth,  14s.
 
 Smith's  Wealth  of  Nations.     A  new   Edition,
@@ -22897,8 +21801,7 @@ F.  Max  MUller.
 
 Vol.    I.    The    Upanishads.     [Translated  by  F.  Max
 
-Miiller.]  Part  I.  The  A'V/andogya-upanishad,  The  Talavakara-
-upanishad.  The  Aitareya-ara^yaka,  The  Kaushitaki-brahmawa-
+Miiller.]  Part  I.  The  A'V/andogya-upanishad,  The  Talavakaraupanishad.  The  Aitareya-ara^yaka,  The  Kaushitaki-brahmawa-
 upanishad,  and  The  Va^asaneyi-sa;«hita-upanishad.  8vo.  cloth,
 I  OS.  6rf.
 
@@ -22914,8 +21817,6 @@ of  Confucianism.  [Translated  by  James  Legge.]  Parti.  The  Shu
 King,  The  Religious  portions  of  the  Shih  King,  and  The  Hsiao
 King.     8vo.  cloth,  1 2s.  6rf.
 
-
-CLARENDON  PRESS,  OXFORD.  15
 
 Vol.    IV.     The     Vendtdad.      Translated     by    James
 
@@ -22961,8 +21862,7 @@ Oldenberg.     8vo.  cloth,  lOs.  dd.
 
 Vol.  XIV.  The  Sacred  Laws  of  the  Aryas,  as  taught
 
-in  the  Schools  of  Vasish//;a  and  Baudhayana.  Translated  by  Pro-
-fessor Georg  Biihler.     8vo.  cloth,  ios.  6d.
+in  the  Schools  of  Vasish//;a  and  Baudhayana.  Translated  by  Professor Georg  Biihler.     8vo.  cloth,  ios.  6d.
 
 Vol.  XVI.   The  Yt  King,  with  an  Appendix  on  the
 
@@ -23043,9 +21943,6 @@ L.  G.  Mowat,  M.A.,  Fellow  of  Pembroke  College.  Small  4to.
 3s.  6rf.
 
 
-CLARENDON  PRESS,  OXFORD.  17
-
-
 Clarmtron  liitss  Serijcs
 
 
@@ -23098,9 +21995,6 @@ Anglo-Saxon,  Oxford.  Third  Edition.  Extra  fcap.  Svo.  cloth,
 C
 
 
-1 8  CLARENDON  PRESS,  OXFORD.
-
-
 A  Book  for  the  Beginner  in  Anglo-Saxon.     By
 
 John    Earle,  M.A.,  Professor   of  Anglo-Saxon,    Oxford.     Second
@@ -23120,8 +22014,7 @@ The  Ormulum;  with  the  Notes  and  Glossary
 of  Dr.  R.  M.  White.  Edited  by  Rev.  R.  Holt,  M.A.  1878.  2  vols.
 Extra  fcap.  8vo.  cloth,  21s.
 
-Specimens  of  Early  English.  A  New  and  Re-
-vised Edition.  With  Introduction,  Notes,  and  Glossarial  Index.
+Specimens  of  Early  English.  A  New  and  Revised Edition.  With  Introduction,  Notes,  and  Glossarial  Index.
 By  R.  Morris,  LL.D.,  and  W.  W.  Skeat,  M.A.
 
 Part  I.     From  Old  English  Homilies  to  King  Horn  (a.d.  1150
@@ -23152,9 +22045,6 @@ Chaucer.      The    Tale  of  the  Man   of  Lawe ;
 The  Pardoneres  Tale ;  The  Second  Nonnes  Tale ;  The  Chanouns
 Yemannes  Tale.  By  the  same  Editor.  Second  Edition.  Extra
 fcap.    Svo.    cloth,  4s.  6rf.     (See  also  p.  20.)
-
-
-CLARENDON  PRESS,  OXFORD.  19
 
 
 Old  En(rlish  Drama.     Marlowe  s  Tragical  His-
@@ -23202,20 +22092,16 @@ with  Introduction,  Notes,  &c.,  by  T.  Fowler,  M.A.,  Professor  of
 Logic  in  the  University  of  Oxford.  Second  Edition.  Extra  fcap.
 8vo.  cloth,  2s.
 
-Addison.  Selections  from  Papers  in  the  Spec-
-tator. With  Notes.  By  T,  Arnold,  M.A.,  University  College.
+Addison.  Selections  from  Papers  in  the  Spectator. With  Notes.  By  T,  Arnold,  M.A.,  University  College.
 Extra  fcap.  8vo.  cloth,  4s.  dd.
 
 Burke.     Four    Letters    on    the    Proposals    for
 
-Peace  with  the  Regicide  Directory  of  France.  Edited,  with  In-
-troduction and  Notes,  by  E.  J.  Payne,  M.A.  Extra  fcap.  8vo.
+Peace  with  the  Regicide  Directory  of  France.  Edited,  with  Introduction and  Notes,  by  E.  J.  Payne,  M.A.  Extra  fcap.  8vo.
 cloth,  5s.     (See  also  p.  21.)
 
 C  2
 
-
-20  CLARENDON  PRESS,  OXFORD.
 
 Also  the  following  in  paper  covers  : —
 
@@ -23242,8 +22128,7 @@ and  Canto  I,  with  Preface  and  Notes  by  W.  Minto,  M.A.     6<f.
 
 A  SERIES  OP  ENGLISH  CLASSICS,
 
-Designed  to  meet  the  wants  of  Students  in  English  Litera-
-ture, by  the  late  Kev.  J.  S.  BREWER,  M.A.,  of  Queen's  College,
+Designed  to  meet  the  wants  of  Students  in  English  Literature, by  the  late  Kev.  J.  S.  BREWER,  M.A.,  of  Queen's  College,
 Oxford,  and  Professor  of  English  Literature  at  King's  College,
 London.
 
@@ -23278,9 +22163,6 @@ I.  The  Merchant  of  Venice,     is.
 II.  Richard  the  Second,     is.  (id.
 
 III.  Macbeth,     is.  dd.    (For  other  Plays,  see  p.  19.)
-
-
-CLARENDON  PRESS,  OXFORD.  21
 
 
 5.  Bacon.
@@ -23322,8 +22204,7 @@ II.  Satires  and  Epistles.    Third  Edition.     Extra  fcap.  8vo.  2s.
 Dryden.  Edited  by  Alfred  Milnes,  B.A.  (London),  late  Scholar  of
 Lincoln  College,  Oxford.     Extra  fcap.   8vo.  cloth,  4s.  dd.
 
-11.  Bttrke.     Select  Works.     Edited,  with    In-
-troduction and  Notes,  by  E.  J.   Payne,  M.A.,  of  Lincoln's  Inn,
+11.  Bttrke.     Select  Works.     Edited,  with    Introduction and  Notes,  by  E.  J.   Payne,  M.A.,  of  Lincoln's  Inn,
 
 Barrister-at-Law,  and  Fellow  of  University  College,  Oxford.
 
@@ -23342,9 +22223,6 @@ I.  The  Didactic  Poems  of  1782,  with  Selections  from  the  Minor
 Pieces,  a.d.  i  779-1 783.     Extra  fcap.  Svo.  cloth,  3s.
 II.  The  Task,  with  Tirocinium,  and  Selections  from  the  Minor
 Poems,  A.D.  1 784-1 799.     Extra  fcap.   8vo.  cloth,  3s.
-
-
-2  2  CLARENDON  PRESS,  OXFORD.
 
 
 II.    LATIN.
@@ -23389,8 +22267,7 @@ Part  II.   The  Civil  War.     Extra  fcap.  Svo.  cloth,  3s.  6d.
 
 The  Civil  War.     Book  I.     Extra  fcap.  Svo.  cloth,  2s.
 
-Cicero.  Selection  of  interesting  and  descrip-
-tive passages.  With  Notes.  By  Henry  Walford,  M.A.  In  three
+Cicero.  Selection  of  interesting  and  descriptive passages.  With  Notes.  By  Henry  Walford,  M.A.  In  three
 Parts.  Second  Edition.  Extra  fcap.  Svo.  cloth,  4s.  6rf.  Each
 Part  separately,  limp,  I5.  6 J.
 
@@ -23402,9 +22279,6 @@ Cicero.     Selected  Letters   (for   Schools).     With
 
 Notes.  By  the  late  C.  E.  Prichard,  M.A.,  and  E.  R.  Bernard,
 M.A.     Second  Edition.    Extra  fcap.  Svo.  cloth,  3s.
-
-
-CLARENDON  PRESS,  OXFORD.  23
 
 
 Cicero.     Select   Orations  (for  Schools).      With
@@ -23464,16 +22338,12 @@ Manchester.
 Book  I.  1879.  Svo.  cloth,  65.         Book  II.  i88i.  Svo.  cloth,  5^.
 
 
-24  CLARENDON  PRESS,  OXFORD.
-
-
 Cicero  s  Philippic  Orations.     With  Notes.     By
 
 J.  R.  King,  M.A.     Second  Edition.     1879.    8vo.  cloth,  los.  6d.
 
 
-Cicero.  Select  Letters.  With  English  Intro-
-ductions, Notes,  and  Appendices.  By  Albert  Watson,  M.A.  Third
+Cicero.  Select  Letters.  With  English  Introductions, Notes,  and  Appendices.  By  Albert  Watson,  M.A.  Third
 Edition.     1881.     Demy  Svo.  cloth,  iSs.
 
 
@@ -23488,8 +22358,7 @@ Extra  fcap.  Svo.  cloth,  3s.  dd.
 
 Horace.      With    a    Commentary.      VoKime    I.
 
-The  Odes,  Carmen  Seculare,  and  Epodes.  By  Edward  C.  Wick-
-ham,  M.A.,  Head  Master  of  Wellington  College.  Second  Edition.
+The  Odes,  Carmen  Seculare,  and  Epodes.  By  Edward  C.  Wickham,  M.A.,  Head  Master  of  Wellington  College.  Second  Edition.
 1877.     Demy  Svo.  cloth,  12s.
 
 Horace.     A   reprint   of  the    above,   in   a   size
@@ -23504,8 +22373,7 @@ cloth,  6s.
 
 Ovid.      P.    Ovidii  Nasonis   Ibis.      Ex    Novis
 
-Codicibus  Edidit.  Scholia  Vetera  Commentarium  cum  Prolego-
-menis  Appendice  Indice  addidit,  R.  Ellis,  A.M.  Demy  Svo.
+Codicibus  Edidit.  Scholia  Vetera  Commentarium  cum  Prolegomenis  Appendice  Indice  addidit,  R.  Ellis,  A.M.  Demy  Svo.
 cloth,  IDS.  (id.
 
 Persius.       The   Satires.      With   a   Translation
@@ -23517,9 +22385,6 @@ Virgil.    With  Introduction  and  Notes,  by  T.  L.
 
 Papillon,  M.A.,  Fellow  of  New  College,  Oxford.  Two  vols,
 crown  Svo.  cloth,  los.  (>d.
-
-
-CLARENDON  PRESS,  OXFORD.  25
 
 
 Selections  from  the  less  know7i  Latin  Poets.     By
@@ -23544,8 +22409,7 @@ Ancient  Lives  of  Vergil ;  with  an  Essay  on  the
 Poems  of  Vergil,  in  connection  with  his  Life  and  Times.  By
 H.  Nettleship,  M.A.     Svo.  sewed,  2s.
 
-The  Roman  Satura :  its  original  form  in  con-
-nection with  its  literary  development.  By  H.  Nettleship,  M.A.
+The  Roman  Satura :  its  original  form  in  connection with  its  literary  development.  By  H.  Nettleship,  M.A.
 Svo.  sewed,  is.
 
 A  .  Manual    of    Comparative    Philology.      By
@@ -23555,8 +22419,7 @@ Third  Edition.     1S82.  Crown  Svo.  cloth,  6s.
 
 The  Roman  Poets  of  the  Augustan  Age.     By
 
-William  Young  Sellar,  M.A.,  Professor  of  Humanity  in  the  Uni-
-versity of  Edinburgh.     Virgil.     1877.     Svo.  cloth,  14s.
+William  Young  Sellar,  M.A.,  Professor  of  Humanity  in  the  University of  Edinburgh.     Virgil.     1877.     Svo.  cloth,  14s.
 
 The  Roman  Poets  of  the  Republic.    By  the  same
 
@@ -23575,9 +22438,6 @@ Graecae    Granmtaticae    Rudimenta     in     usum
 
 Scholarum.  Auctore  Carolo  Wordsworth,  D  C.L.  Twentieth
 Edition,  18S2.     i2mo.  cloth,  4s.
-
-
-26  CLARENDON  PRESS,  OXFORD.
 
 
 A  Greek-English  Lexicon,  abridged  from  Liddell
@@ -23638,9 +22498,6 @@ W^riters,  with  Introductory  Notices  and  Notes.  By  R.  S.  Wright,
 M.A..  and  J.  E.  L.  Shadwell,  M.A.     Extra  fcap.  Svo.  cloth,  4s.  dd.
 
 
-CLARENDON  PRESS,  OXFORD.  27
-
-
 Aeschylus.      Prometheus   Bound  (for  Schools).
 
 With  Introduction  and  Notes,  by  A.  O.  Prickard,  M.A.,  Fellow  of
@@ -23682,8 +22539,7 @@ Eiiripides.     Helena.     Edited  with  Introduction,
 Notes,  and  Critical  Appendix,  for  Upper  and  Middle  Forms.  By
 C.  S.  Jerram,  M.A.     Extra  fcap,  Svo.  cloth,  3s,
 
-Herodotus.  Selections  from.  Edited,  with  In-
-troduction, Notes,  and  a  Map,  by  W.  W.  Merry,  M.A.,  Fellow  and
+Herodotus.  Selections  from.  Edited,  with  Introduction, Notes,  and  a  Map,  by  W.  W.  Merry,  M.A.,  Fellow  and
 Lecturer  of  Lincoln  College.     Extra  fcap.  Svo.  cloth,  2s.  6a?.
 
 Homer.     Odyssey,  Books  I-XII  (for  Schools).
@@ -23696,9 +22552,6 @@ Book  II,  separately,  is.  6rf.
 Homer.      Odyssey,    Books    XIII-XXIV    (for
 
 Schools).     By  the  same  Editor.     Extra  fcap.  Svo.  cloth,  5s.
-
-
-28  CLARENDON  PRESS,  OXFORD.
 
 
 Homer.      Iliad,    Book    I    (for   Schools).       By
@@ -23722,8 +22575,7 @@ College,  Oxford.     Extra  fcap.  Bvo.  cloth,  6s.  dd.
 
 Sophocles.  In  Single  Plays,  with  English  Notes,
 
-&c.  By  Lewis  Campbell,  M.A.,  Professor  of  Greek  in  the  Univer-
-sity of  St.  Andrew's,  and  Evelyn  Abbott,  M.A.,  Balliol  College,
+&c.  By  Lewis  Campbell,  M.A.,  Professor  of  Greek  in  the  University of  St.  Andrew's,  and  Evelyn  Abbott,  M.A.,  Balliol  College,
 Oxford.     Extra  fcap.  Svo.  limp.
 
 Oedipus  Tyrannus.     New  and  Revised  Edition.      2s.
@@ -23758,9 +22610,6 @@ Xenophon.     Anabasis,  Book  II.     With   Notes
 and  Map.     By  C.  S.  Jerram,  M.A.     Extra  fcap,  Svo,  cloth,  2s,
 
 
-CLARENDON  PRESS,  OXFORD.  29
-
-
 Aristotle s  Politics.     By  W.  L.  Newman,  M.A.,
 
 Fellow  of  Balliol  College,  Oxford.
@@ -23784,8 +22633,7 @@ late  James  Riddell,  M.A.     1876.  Demy  8vo.  cloth,  i6s.
 
 Homer.     Iliad.     With  Introduction  and  Notes.
 
-By  D.  B.  Monro,  M.A.,  Provost  of  Oriel  College,  Oxford.  Pre-
-paring.
+By  D.  B.  Monro,  M.A.,  Provost  of  Oriel  College,  Oxford.  Preparing.
 
 A  Grammar  of  the  Homeric  Dialect.    By  D.  B.
 
@@ -23794,8 +22642,7 @@ Monro,  M.A ,  Provost  of  Oriel  College.  Demy  Svo.  cloth,
 
 Sophocles.     The  Plays  and  Fragments.     With
 
-English  Notes  and  Introductions,  by  Lewis  Campbell,  M.A.,  Pro-
-fessor of  Greek,  St.  Andrews,  formerly  Fellow  of  Queen's  College,
+English  Notes  and  Introductions,  by  Lewis  Campbell,  M.A.,  Professor of  Greek,  St.  Andrews,  formerly  Fellow  of  Queen's  College,
 Oxford.     2  vols.
 
 Vol.  I.      Oedipus   Tyrannus.      Oedipus   Coloneus.      Antigone.
@@ -23857,8 +22704,7 @@ Racine s  Andromague,  and  Corneilles  Le  Men-
 teur.  With  Louis  Racine's  Life  of  his  Father.  Extra  fcap.  Svo.
 cloth,  2s.  dd.
 
-Mo  Here  s  Les  Fourberies  de  Scapin,  and  Ra-
-cine's Atlialie.  With  Voltaire's  Life  of  Moliere.  Extra  fcap.  Svo.
+Mo  Here  s  Les  Fourberies  de  Scapin,  and  Racine's Atlialie.  With  Voltaire's  Life  of  Moliere.  Extra  fcap.  Svo.
 cloth,  2s.  dd.
 
 Selections  from  the  Correspondence  of  Madame
@@ -23874,15 +22720,11 @@ Mesa  ventures  d'un  Ecolier,  by  Rodolphe  Topffer.  Extra  fcap.  Svo,
 cloth,  2s.  dd.
 
 
-CLARENDON  PRESS,  OXFORD.  31
-
-
 Regnard's  Le  JoueiLr  and  Brueys  and  Pala-
 
 prafs  Le  Grondeur.     Extra  fcap.  8vo.  cloth,  2s.  6rf.
 
-Loins  XIV  and  his  Contemporaries ;  as  de-
-scribed in  Extracts  from  the  best  Memoirs  of  the  Seventeenth
+Loins  XIV  and  his  Contemporaries ;  as  described in  Extracts  from  the  best  Memoirs  of  the  Seventeenth
 Century.  With  English  Notes,  Genealogical  Tables,  &c.  Extra
 fcap.  8vo.  cloth,  2s.  6</.
 
@@ -23892,8 +22734,7 @@ V.    GERMAN.
 LANGE'S  German  Course.     By  HERMANN  LANGE,
 Teacher  of  Modern  Languages,  Mancliester :
 
-The  Germans  at  Home;  a  Practical  Introduc-
-tion to  German  Conversation,  with  an  Appendix  containing  the
+The  Germans  at  Home;  a  Practical  Introduction to  German  Conversation,  with  an  Appendix  containing  the
 Essentials   of  German    Grammar.     Second    Edition.     8vo.   cloth.
 
 The   German  Manic al ;   a  German    Grammar,
@@ -23906,8 +22747,7 @@ A   Grammar  of  the  German  Language.     Svo.
 cloth,  3s.  6c?.
 
 This  '  Grammar '  is  a  reprint  of  the  Grammar  contained  in
-*  The  German  Manual,'  and,  in  this  separate  form,  is  in-
-tended for  the  use  of  Students  who  wish  to  make  them-
+*  The  German  Manual,'  and,  in  this  separate  form,  is  intended for  the  use  of  Students  who  wish  to  make  them-
 selves acquainted  with  German  Grammar  chiefly  for  the
 purpose  of  being  able  to  read  German  books.
 
@@ -23922,12 +22762,8 @@ Lessins;'s   Laokoon,     With    Introduction,   Ene-
 lish  Notes,  etc.     By  A.  Hamann,  Phil.  Doc,  M.A.     Extra  fcap.
 Svo.  cloth,  4s.  dd.
 
-Wilhelm  Tell.  A  Drama.  By  Schiller.  Trans-
-lated into  English  Verse  by  E.  Massie,  M.A.  Extra  fcap.  Svo.
+Wilhelm  Tell.  A  Drama.  By  Schiller.  Translated into  English  Verse  by  E.  Massie,  M.A.  Extra  fcap.  Svo.
 cloth,  5s.
-
-
-32  CLARENDON  PRESS,  OXFORD.
 
 
 Also,  Edited  by  C.  A.  BUCHHEIM,  PhU.  Doc,  Professor
@@ -23956,21 +22792,17 @@ Goethe  s  Iphigenie  auf  Tanris.    A  Drama.  With
 
 a  Critical  Introduction  and  Notes.     Extra  fcap.  Svo.  cloth,  3s.
 
-Modern  German  Reader.    A  Graduated  Collec-
-tion of  Prose  Extracts  from  Modern  German  writers  : —
-Part  I.     With  English  Notes,  a  Grammatical  Appendix,  and  a  com-
-plete Vocabulary.   Second  Edition.   Extra  fcap.  Svo.  cloth,  2s.  6d.
+Modern  German  Reader.    A  Graduated  Collection of  Prose  Extracts  from  Modern  German  writers  : —
+Part  I.     With  English  Notes,  a  Grammatical  Appendix,  and  a  complete Vocabulary.   Second  Edition.   Extra  fcap.  Svo.  cloth,  2s.  6d.
 Parts  II  and  III  in  Preparation.
 
-Lessing  s  Natha7i  der   Weise.     With  Introduc-
-tion, Notes,  etc.    Extra  fcap.  Svo.  cloth,  4s.  dd.
+Lessing  s  Natha7i  der   Weise.     With  Introduction, Notes,  etc.    Extra  fcap.  Svo.  cloth,  4s.  dd.
 
 In  Preparation.
 
 Becker  s  {K.  F.)  Friedrich  der  Grosse.
 
-Schiller  s  Maria  Sttcart.     With  Notes,  Intro-
-duction, &c.
+Schiller  s  Maria  Sttcart.     With  Notes,  Introduction, &c.
 
 Schiller  s  Jungfrau  von  Orleans.     With  Notes,
 
@@ -23979,9 +22811,6 @@ Introduction,  &c.
 Selections   from    the    Poems    of   Schiller   and
 
 Goeihe.
-
-
-CLARENDON  PRESS,  OXFORD.  33
 
 
 VI.    MATHEMATICS,  &c.
@@ -24044,8 +22873,6 @@ Svo.  cloth,  14s.
 D
 
 
-34  CLARENDON  PRESS,  OXFORD.
-
 Uniplanar  Kinematics   of  Solids   and  Fhiids.
 
 By  G.  M.  Minchin,  MA.     Crown  8vo.  cloth,  7s.  6  J.
@@ -24072,8 +22899,7 @@ A   Handbook   of  Descriptive  Astronomy.     By
 G.  F.  Chambers,  F.R.A.S.  Third  Edition.  1S77.  Demy  8vo.
 cloth,  28s.
 
-A  Cycle  of  Celestial  Objects.  Observed,  Re-
-duced, and  Discussed  by  Admiral  W.  H.  Smyth,  R.N.  Revised,
+A  Cycle  of  Celestial  Objects.  Observed,  Reduced, and  Discussed  by  Admiral  W.  H.  Smyth,  R.N.  Revised,
 condensed,  and  greatly  enlarged  by  G.  F.  Chambers,  F.R.A.S.
 1881.  8vo.  cloth,  2is.
 
@@ -24101,9 +22927,6 @@ by  Descriptions  and  Drawings  of  Dissections.  A  New  Edition  in
 the  Press.
 
 
-CLARENDON  PRESS,  OXFORD.  35
-
-
 Exercises    in    Practical    Chemistry.      Vol.   I.
 
 Elementary  Exercises.  By  A.  G.  Vernon  Harcourt  M.A  ;  and
@@ -24124,8 +22947,7 @@ VIII.  HISTORY.
 
 The  Constitutional  History  of  England,  in   its
 
-Origin  and  Development.  By  William  Stubbs,  D.D.,  Regius  Pro-
-fessor of  Modem  History.  Library  Edition.  Three  vols,  demy  8vo.
+Origin  and  Development.  By  William  Stubbs,  D.D.,  Regius  Professor of  Modem  History.  Library  Edition.  Three  vols,  demy  8vo.
 cloth,  2I.  8s.
 
 Also  in  3  vols,  crown  8vo.  price  12s.  each.
@@ -24136,8 +22958,7 @@ lish  Constitutional  History,  from  the  Earliest  Times  to  the  Reign
 of  Edward  L  Arranged  and  Edited  by  W.  Stubbs,  M.A.  Fourth
 Edition.     1881.     Crown  8vo.  cloth,  8i.  6c?.
 
-A  History  of  England,  principally  in  the  Seven-
-teenth Century.  By  Leopold  Von  Ranke.  Translated  by  Resident
+A  History  of  England,  principally  in  the  Seventeenth Century.  By  Leopold  Von  Ranke.  Translated  by  Resident
 Members  of  the  University  of  Oxford,  under  the  superintendence
 of  G.  W.  Kitchin,  M.A.,  and  C.  W.  Boase.  M.A.  1875.  6  vols.
 8vo.  cloth,  il.  3s.
@@ -24146,8 +22967,7 @@ A  Short  History  of  the  Norman  Conquest  of
 
 England.    By  E.  A.  Freeman,  M.A.    Extra  fcap.  Svo.  cloth,  2s.  6J.
 
-Genealogical  Tables  illustrative  of  Modern  His-
-tory. 'By  H.  B.  George,  M.A.  Second  Edition.  Small  4to.
+Genealogical  Tables  illustrative  of  Modern  History. 'By  H.  B.  George,  M.A.  Second  Edition.  Small  4to.
 cloth,  12s.
 
 A  History  of  Trance.     With  numerous  Maps,
@@ -24162,9 +22982,6 @@ Vol.  2.  From  1453-1624.
 Vol.  3.  From  1624-1793.
 
 I)  2
-
-
-36  CLARENDON  PRESS,  OXFORD.
 
 
 A   History  of  Germany  and  of  the  E-)npire^
@@ -24226,11 +23043,7 @@ and  Diplomacy,  and  Fellow  of  All  Souls  College,  Oxford.  Second
 Edition.     Demy  8vo.  cloth,  los.  dd.
 
 
-CLARENDON  PRESS,  OXFORD.  37
-
-
-The  Instittctes  of  Justinian,  edited  as  a  recen-
-sion of  the  Institutes  of  Gains.  By  the  same  Editor.  Second
+The  Instittctes  of  Justinian,  edited  as  a  recension of  the  Institutes  of  Gains.  By  the  same  Editor.  Second
 Edition,  1881.     Extra  fcap.  8vo.  cloth,  5s.
 
 Select  Titles  from  the  Digest  of  Justi^iian.     By
@@ -24254,15 +23067,13 @@ Part  IV.  Law  of  Obligations  (No.  2).     4s.  6(f.
 
 Imperatoris    histiniani    InstittUionuni     Libjd
 
-Qitattitor ;  with  Introductions,  Commentary,  Excursus  and  Trans-
-lation. By  J.  B.  Moyle,  B.C.L.,  M.A.,  of  Lincoln's  Inn,  Barrister-
+Qitattitor ;  with  Introductions,  Commentary,  Excursus  and  Translation. By  J.  B.  Moyle,  B.C.L.,  M.A.,  of  Lincoln's  Inn,  Barrister-
 at-Law,  and  Fellow  and  Tutor  of  New  College,  Oxford.  2  vols.
 8vo.  cloth,  2\s.
 
 Gaii  Institutioniun  Juris  Civilis  Commentarii
 
-Quatuor ;  or.  Elements  of  Roman  Law  by  Gains.  With  a  Trans-
-lation and  Commentary  by  Edward  Poste,  M.A.,  Barrister-at-Law,
+Quatuor ;  or.  Elements  of  Roman  Law  by  Gains.  With  a  Translation and  Commentary  by  Edward  Poste,  M.A.,  Barrister-at-Law,
 and  Fellow  of  Oriel  College,  Oxford.  Second  Edition.  1875.  8vo.
 cloth,  18s.
 
@@ -24289,9 +23100,6 @@ International  Laiv.     By  William  Edward  Hall,
 M.A.,  Banister-at  Law.     Demy  Svo.  cloth,  2i.«.
 
 
-38  CLARENDON  PRESS,  OXFORD.
-
-
 An  Introduction  to  the  History  of  the  Laiv  of
 
 Real  Property,  with  original  Authorities.  By  Kenelm  E.  Digby,
@@ -24306,8 +23114,7 @@ Second  Edition.     Demy  Svo.  cloth,  los.  6c?.
 
 X.     MENTAL  AND  MORAL  PHILOSOPHY.
 
-Bacon.  Novum  Organum.  Edited,  with  In-
-troduction, Notes,  &c.,  by  T.  Fowler,  M.A..  Professor  of  Logic  in
+Bacon.  Novum  Organum.  Edited,  with  Introduction, Notes,  &c.,  by  T.  Fowler,  M.A..  Professor  of  Logic  in
 the  University  of  Oxford.     1878.     Svo.  cloth,  14s.
 
 Locke  s  Conduct  of  the  Understanding.     Edited,
@@ -24350,9 +23157,6 @@ on  Perspective  by  A.  Macdonald.  Second  Edition.  1875.  Svo.
 half  morocco,  18s.
 
 
-CLARENDON  PRESS,  OXFORD.  39
-
-
 A  MiLsic  Primer  for  Schools.    By  J.  Troutbeck,
 
 M.A.,  Music  Master  in  Westminster  School,  and  R.  F.  Dale,  M.A.,
@@ -24388,8 +23192,7 @@ cloth,  los.  dd.
 
 A    Treatise  on  Rivers  and  Canals,  relating  to
 
-the  Control  and  Improvement  of  Rivers,  and  the  Design,  Construc-
-tion, and  Development  of  Canals.  By  Leveson  Francis  Vernon-
+the  Control  and  Improvement  of  Rivers,  and  the  Design,  Construction, and  Development  of  Canals.  By  Leveson  Francis  Vernon-
 Harcourt,  M.A.,  Balliol  College,  Oxford,  Member  of  the  Institution
 of  Civil  Engineers.  2  vols.  (Vol.  I,  Text.  Vol.  II,  Plates.)  8vo.
 cloth,  2 Is.
@@ -24408,11 +23211,7 @@ English  Plant  Names  from  the  Tenth  to  the
 Fifteenth  Century.     By  J.  Earle,  M.A.     Small  fcap.  8vo.  cloth,  5s.
 
 
-40  CLARENDON  PRESS,  OXFORD.
-
-
-An  Icelandic  Prose  Reader,  with  Notes,  Gram-
-mar, and  Glossary  by  Dr.  Gudbrand  Vigfiisson  and  F.  York
+An  Icelandic  Prose  Reader,  with  Notes,  Grammar, and  Glossary  by  Dr.  Gudbrand  Vigfiisson  and  F.  York
 Powell,  M.A.     1879.     Extra  fcap.  8 vo.  cloth,  10s.  6c/.
 
 Dante.      Selections   from    the    Inferno.     With

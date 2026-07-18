@@ -8,15 +8,10 @@ UNIVERSITY
 LIBRARY
 
 
-TALES  AND  TRADITIONS
-
 OF  THE
 
 
 ESKIMO
-
-
-TALES  AND  TRADITIONS
 
 
 OF  THE
@@ -69,9 +64,6 @@ in  2017  with  funding  from
 Duke  University  Libraries
 
 
-https://archive.org/details/talestraditionso01  rink
-
-
 ■/
 
 
@@ -92,29 +84,24 @@ HE  author  of  this  work  has  partly  resided,  partly
 
 X been  travelling  about,  on  the  shores  of  Davis
 Strait,  from  the  southernmost  point  of  Greenland  up
-to  73°  north  latitude,  for  sixteen  winters  and  twenty-
-two  summers  ; first  as  a scientific  explorer,  afterwards
+to  73°  north  latitude,  for  sixteen  winters  and  twentytwo  summers  ; first  as  a scientific  explorer,  afterwards
 as  Royal  Inspector  or  Governor  of  the  Southern
 Danish  establishments  in  Greenland.  The  first  series
 of  tales  was  published  by  him  in  1866  ; but  as  this  field
 of  ethnological  investigation  was  at  that  time  almost
 uncultivated,  much  new  material  came  to  hand  after
 that  publication,  and,  moreover,  the  author  had  then
-only  acquired  such  a degree  of  familiarity  with  the  lan-
-guage, as  made  it  possible  for  him  to  understand  his
+only  acquired  such  a degree  of  familiarity  with  the  language, as  made  it  possible  for  him  to  understand  his
 native  informants  sufficiently  well  to  write  down  their
-verbal  communications.  In  1871  he  determined  to  pub-
-lish a new  series  of  tales  as  a supplement  to  the  former,
+verbal  communications.  In  1871  he  determined  to  publish a new  series  of  tales  as  a supplement  to  the  former,
 in  which  he  has  also  described  the  general  habits,  religion,
 and  other  peculiarities  of  the  Eskimo,  having  by  that
-time  been  enabled  to  give  a more  comprehensive  ac-
-count of  these  subjects,  and  to  make  some  farther
+time  been  enabled  to  give  a more  comprehensive  account of  these  subjects,  and  to  make  some  farther
 improvements  on  the  first  publication.
 
 
 Besides  the  translation  into  English,  a twofold  object
-has  been  aimed  at  in  this  edition  : first,  that  of  incor-
-porating the  two  parts  into  one ; and  second,  of  partly
+has  been  aimed  at  in  this  edition  : first,  that  of  incorporating the  two  parts  into  one ; and  second,  of  partly
 abbreviating  their  contents.  The  principal  aim  of  this
 
 
@@ -126,8 +113,7 @@ vi
 abridgment  has  been  to  make  these  accounts  more
 available  to  readers  engaged  in  archaeological  studies,
 or  investigations  of  the  earliest  history  of  mankind  by
-comparison  of  the  traditional  tales,  languages,  and  re-
-ligious opinions  of  the  more  primitive  nations,  in  which
+comparison  of  the  traditional  tales,  languages,  and  religious opinions  of  the  more  primitive  nations,  in  which
 respect  the  Eskimo,  and  specially  the  Greenlanders,
 have  been  studied  more  minutely,  perhaps,  than  any
 other  similar  people.  Keeping  this  object  in  view,  some
@@ -144,8 +130,7 @@ peoples,  which  for  this  purpose  have  become  greatly
 valued,  and  are  searched  for  in  the  bowels  of  the  earth,
 and  drawn  forth  to  light  in  nearly  every  part  of  the
 globe.  But  the  time  will  certainly  come  when  any
-relics  of  spiritual  life  brought  down  to  us  from  pre-
-historic mankind,  which  may  still  be  found  in  the  folk-
+relics  of  spiritual  life  brought  down  to  us  from  prehistoric mankind,  which  may  still  be  found  in  the  folk-
 lore of  the  more  isolated  and  primitive  nations,  will  be
 valued  as  highly  as  those  material  remains.  In  this
 respect  the  Eskimo  may  be  considered  among  the  most
@@ -168,21 +153,18 @@ Vll
 
 As  to  the  spelling  of  Greenland  words  and  names,  we
 have  to  draw  a distinction  between  those  which  are
-more  properly  used  as  representing  the  foreign  expres-
-sions themselves,  and  those  which  have  been  wholly
+more  properly  used  as  representing  the  foreign  expressions themselves,  and  those  which  have  been  wholly
 embodied  in  the  Danish  or  English  language  of  the
 text,  and  thereby  subject  to  the  orthography  of  these
 languages.  In  the  first  instance,  the  words  distinguished
 by  a different  type,  are  spelt  in  exact  accordance  with
 the  orthography  now  adopted  in  the  native  schools  of
-Greenland.  In  the  preliminary  sketch,  where  this  ortho-
-graphy is  explained,  it  will  be  seen  that  all  the  sounds
+Greenland.  In  the  preliminary  sketch,  where  this  orthography is  explained,  it  will  be  seen  that  all  the  sounds
 may  be  expressed  by  our  usual  Latin  characters,  with
 the  exception  only  of  a deep  guttural  k,  for  which  the
 character  k has  been  formed  ; the  other  more  peculiar
 sounds  having  been  substituted  by  double  consonants
-or  expressed  by  accents.  The  other  letters  are  pro-
-nounced almost  identically  with  those  of  the  German
+or  expressed  by  accents.  The  other  letters  are  pronounced almost  identically  with  those  of  the  German
 and  Scandinavian  languages.  In  the  second  instance
 we  have,  as  far  as  possible,  accommodated  the  mode  of
 spelling  to  the  English  pronunciation  of  the  letters,  in
@@ -196,8 +178,7 @@ agree  with  the  Danish  orthography.
 
 To  prevent,  as  far  as  possible,  misunderstanding  and
 farther  corruption  of  the  original  Greenland  words,  we
-have  added,  wherever  it  appeared  necessary,  in  paren-
-theses, how  the  word  is  most  nearly  to  be  pronounced
+have  added,  wherever  it  appeared  necessary,  in  parentheses, how  the  word  is  most  nearly  to  be  pronounced
 (pron.  . . .),  in  other  instances  how  it  is  to  be  correctly
 spelt  in  Greenlandish  (cor.  sp.  . . .) ; as,  for  instance’
 Kulange  (pron.  Koolanghee),  angakok  (cor.  sp.  ang&koK).
@@ -222,23 +203,20 @@ As  to  uncommon  words  or  expressions  in  general,
 those  peculiar  to  Eskimo  life  will  be  found  explained  in
 the  preliminary  sketch.  But  in  order  to  make  the
 stories  more  readable,  as  well  as  better  understood,  we
-have,  without  paying  particular  attention  to  this,  in-
-serted the  most  necessary  explanations  in  parentheses
+have,  without  paying  particular  attention  to  this,  inserted the  most  necessary  explanations  in  parentheses
 or  in  notes,  in  different  places  of  the  text  itself,  where
 it  appeared  most  useful  ; especially  in  the  earlier  pages,
 where  the  expressions  are  first  met  with.
 
 Dr  Robert  Brown,  who  at  the  author’s  request  has
 been  good  enough  to  revise  the  manuscript  and  make
-such  corrections  or  emendations  in  the  style  and  con-
-struction of  the  collection  as  in  his  judgment  were  ad-
+such  corrections  or  emendations  in  the  style  and  construction of  the  collection  as  in  his  judgment  were  ad-
 visable, has  had  in  his  travels  in  the  northern  regions  of
 America,  as  well  as  in  Greenland  and  on  the  western
 shores  of  Davis  Strait  and  Baffin  Bay,  an  opportunity
 of  visiting  the  aborigines  of  these  countries  in  their  own
 homes ; and  these  advantages,  coupled  with  his  long
-personal  acquaintance  with  the  author,  and  his  experi-
-ence as  a writer  on  Ethnology,  have  rendered  him  pecu-
+personal  acquaintance  with  the  author,  and  his  experience as  a writer  on  Ethnology,  have  rendered  him  pecu-
 liarly fitted  for  this  friendly  editorial  task.
 
 
@@ -272,7 +250,6 @@ VI.  Probable  Origin  and  History,  ....  70
 
 VII.  Influence  of  Contact  with  Europeans,  ...  76
 
-TALES  AND  TRADITIONS.
 
 Introduction,  .......  83
 
@@ -529,7 +506,6 @@ xii
 
 The  Visiting  Animals,
 
-1
 
 45°
 
@@ -543,7 +519,6 @@ Avigiatsiak,  ...
 
 The  Bird’s  Cliff,
 
-451
 
 109.
 
@@ -555,67 +530,56 @@ no.
 
 An  Angakok  on  Kekertarsuak,
 
-452
 
 III.
 
 Singajuk  and  his  Descendants,
 
-453
 
 1 12.
 
 The  Cousins,  ....
 
-453
 
 II3-
 
 Manik,  ....
 
-454
 
 1 14.
 
 The  Land  of  the  Isarukitsok  Bird,
 
-455
 
 ns-
 
 Kakortuliak,  ....
 
-455
 
 1 16.
 
 The  Kuinasarinook,  .
 
-456
 
 1 1 7-
 
 An  Old  Man,  who  was  always  anxious  to  outdo  other  People,
 
-456
 
 1 18.
 
 The  Revenging  Animals,
 
-456
 
 1 19.
 
 The  Igdlokok,
 
-457
 
 120.
 
 Iviangersook  travelled  all  around  the  Coast  of  Greenland,
 
-458
 
 121.
 
@@ -625,13 +589,11 @@ account  of  their
 
 both  being  Angakok,
 
-458
 
 122.
 
 An  Old  Man  lost  his  only  Son,
 
-459
 
 123-
 
@@ -639,145 +601,121 @@ Angakorsiak  was  very  proud  of  his  Angakok
 
 Wisdom,
 
-459
 
 124.
 
 A Girl  named  Tuagtuanguak,
 
-460
 
 - 125-
 
 The  Gifts  from  the  Under-world,
 
-461
 
 126.
 
 The  Tupilak,
 
-461
 
 127.
 
 The  Grateful  Bear,
 
-462
 
 128.
 
 The  Inhabitants  of  Akilinek,
 
-462
 
 129.
 
 The  Mother  and  Son  as  Kivigtut,
 
-462
 
 130.
 
 The  Help  from  Ingnersuit,  .
 
-463
 
 131-
 
 The  Removal  of  Disco  Island,
 
-464
 
 132.
 
 The  Amarok,
 
-464
 
 1.33-
 
 An  Old  Bachelor
 
-465
 
 Ji34-
 
 A Girl  named  Isserfik,
 
-465
 
 135-
 
 The  Sunrise,  ....
 
-466
 
 136.
 
 The  Arnarkuagsak,  .
 
-466
 
 137-
 
 Saugak,  ....
 
-466
 
 138.
 
 The  Bloody  Rock,
 
-467
 
 139-
 
 Isigarsigak  and  his  Sister,
 
-467
 
 140.
 
 A Woman  named  Arnasugaussak,
 
-468
 
 141.
 
 A Tale  from  East  Greenland,
 
-468
 
 142.
 
 Another  Tale  from  East  Greenland,  .
 
-468
 
 143-
 
 The  Swimmer,  a Tale  from  Labrador,
 
-469
 
 144.
 
 The  Natives  of  Labrador,
 
-469
 
 145.
 
 The  Shark  as  Provider,
 
-470
 
 146.
 
 A Woman  named  Alekakukiak,
 
-470
 
 147.
 
@@ -801,7 +739,6 @@ Katigagse,  ....
 
 Ordlavarsuk,  ....
 
-472
 
 THE  ESKIMO.
 
@@ -813,11 +750,9 @@ tribes  who  may  be  considered  as  the  only  link
 between  the  coast  people  and  the  inlanders,  the  Eskimo
 always  have  their  habitations  close  to  the  sea,  or  on  the
 banks  of  rivers  in  the  immediate  vicinity  of  their  outlets
-into  the  sea.  Even  on  their  hunting  and  trading  expe-
-ditions they  seldom  withdraw  more  than  twenty,  and
+into  the  sea.  Even  on  their  hunting  and  trading  expeditions they  seldom  withdraw  more  than  twenty,  and
 only  in  very  rare  cases  more  than  eighty  miles,  from  the
-sea-shore.  Save  a slight  intermixture  of  European  set-
-tlers, the  Eskimo  are  the  only  inhabitants  of  the  shores
+sea-shore.  Save  a slight  intermixture  of  European  settlers, the  Eskimo  are  the  only  inhabitants  of  the  shores
 of  Arctic  America,  and  of  both  sides  of  Davis  Strait  and
 Baffin  Bay,  including  Greenland,  as  well  as  a tract  of
 about  four  hundred  miles  on  the  Behring  Strait  coast  of
@@ -834,30 +769,22 @@ all  the  surrounding  islands.  Of  these  the  Aleutian
 A
 
 
-SKETCH  OF  THE  ESKIMO.
-
-
-2
-
 Islands  form  an  exceptional  group  ; the  inhabitants  of
 these  on  the  one  hand  distinctly  differing  from  the  coast
 people  here  mentioned,  while  on  the  other  they  show  a
-closer  relationship  to  the  Eskimo  than  any  other  na-
-tion. The  Aleutians,  therefore,  may  be  considered  as
+closer  relationship  to  the  Eskimo  than  any  other  nation. The  Aleutians,  therefore,  may  be  considered  as
 only  an  abnormal  branch  of  the  Eskimo  nation.  The
 Aleutian  language,  though  differing  completely  from
 the  Eskimo  with  regard  to  the  sound  of  the  words,
 shows  a great  similarity  to  it  in  structure  ; and  otherwise
-the  Aleutians  only  seem  to  differ  from  the  Eskimo  in-
-asmuch as  some  institutions  have  been  slightly  more
+the  Aleutians  only  seem  to  differ  from  the  Eskimo  inasmuch as  some  institutions  have  been  slightly  more
 developed  among  them.  On  the  other  hand,  all  over
 the  eastern  and  widest  parts  of  their  territories  the
 Eskimo  are  very  distinctly  severed  from  the  adjoining
 nations.  In  the  western  part  some  slight  transitions
 may  be  traced  : namely,  in  the  case  of  the  inland  Eskimo
 by  the  different  situation  of  their  dwelling-places  ; in
-that  of  the  Aleutians  by  their  language  and  social  insti-
-tutions. Finally,  it  may  be  mentioned  that  a few  small
+that  of  the  Aleutians  by  their  language  and  social  institutions. Finally,  it  may  be  mentioned  that  a few  small
 Indian  tribes  have  adopted  somewhat  of  the  Eskimo
 mode  of  life,  which  has  also  been  the  case  with  some  of
 their  neighbours  on  the  Asiatic  side.
@@ -883,9 +810,6 @@ there  are  certain  boundaries  which,  in  our  days  at  least,
 INTRODUCTORY  REMARKS.
 
 
-3
-
-
 are  scarcely  ever  passed — partly  on  account  of  natural
 obstacles,  partly  because  the  nation  at  those  points  has
 been  broken  up  into  tribes,  whose  mutual  intercourse
@@ -896,8 +820,7 @@ point  of  view  the  following  principal  divisions  will  be
 sufficient : —
 
 1.  The  East  Greenlanders , along  the  whole  of  the  east
-coast  of  Greenland  down  to  Cape  Farewell,  the  south-
-ernmost of  whom  every  year  make  bartering  excursions
+coast  of  Greenland  down  to  Cape  Farewell,  the  southernmost of  whom  every  year  make  bartering  excursions
 to  the  Danish  settlement  nearest  the  Cape,  and  have
 intercourse  with  the  next  section.
 
@@ -922,8 +845,7 @@ near  Mackenzie  River.  This  division  is  the  most  widely
 spread  of  them  all — its  territories  representing  an  extent
 of  land,  traversed  and  intercepted  in  many  directions  by
 the  sea,  measuring  2000  miles  in  length  and  800  miles
-in  breadth.  Perhaps  there  may  be  reasons  for  estab-
-lishing subdivisions  of  this  section,  but  they  do  not
+in  breadth.  Perhaps  there  may  be  reasons  for  establishing subdivisions  of  this  section,  but  they  do  not
 appear  anywhere  to  exhibit  such  mutual  differences  as
 those  separating  them  from  the  next  tribe,  with  whom
 they  have  regular  meetings  on  Barter  Island.
@@ -931,18 +853,11 @@ they  have  regular  meetings  on  Barter  Island.
 6.  The  Western  Eskimo,  inhabiting  the  remaining
 
 
-4
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 coast  of  America  from  Barter  Island  to  the  west  and
 south.  They  seem  to  deviate  from  all  the  former  in
 respect  of  certain  habits,  such  as  the  labial  ornaments
 of  the  men  and  the  head-dress  of  the  women.  They
-must  also  be  considered  as  the  nearest  akin  to  the  Aleu-
-tians and  the  inland  Eskimo,  and  in  the  vicinity  of
+must  also  be  considered  as  the  nearest  akin  to  the  Aleutians and  the  inland  Eskimo,  and  in  the  vicinity  of
 Alaska  they  show  traces  of  intermingled  Indian  blood.
 This  may  be  owing  to  the  Indian  women  captured  in
 war  with  the  Eskimo  having  been  married  into  the
@@ -968,33 +883,25 @@ make  inquiries  as  to  their  ideas  of  God  and  the  origin
 of  the  world  ; and  also  how  European  settlers  among
 natives  whose  language  they  are  quite  unconversant
 with  pretend  to  have  found  them  altogether  without
-religion.  Such  views,  however,  resting  upon  the  pre-
-judice of  race  and  on  superficial  observation,  are  now
+religion.  Such  views,  however,  resting  upon  the  prejudice of  race  and  on  superficial  observation,  are  now
 being  abandoned.  We  have  gradually  been  finding  out
 that  manifestations  of  culture  must  be  supposed  to  exist
 in  every  nation,  although  they  may  not  assume  the  same
 form  as  those  we  observe  among  more  advanced  races.
-We  think  it  a great  mistake  to  suppose  any  people  de-
-void of  religion  ; and  it  seems  to  us  equally  unreason-
+We  think  it  a great  mistake  to  suppose  any  people  devoid of  religion  ; and  it  seems  to  us  equally  unreason-
 
 
 INTRODUCTORY  REMARKS.
 
 
-5
-
-
 able  to  fancy  a community  of  men  living  altogether
-without  laws,  if  by  laws  we  understand  bonds  or  restric-
-tions by  which  the  community  voluntarily  limits  the
+without  laws,  if  by  laws  we  understand  bonds  or  restrictions by  which  the  community  voluntarily  limits  the
 free  actions  of  its  members.  In  the  lower  stages  of
 development,  the  laws,  being  principally  represented  by
 habits  and  customs,  leave  the  individual  perhaps  even
 less  free  than  in  a more  civilised  state,  inasmuch  as  they
-dictate  his  mode  of  life,  and  not  even  in  his  most  pri-
-vate and  domestic  affairs  is  he  left  to  act  at  liberty.
-These  habits  and  customs  are  closely  allied  to  the  reli-
-gious opinions,  by  which  they  are  still  more  powerfully
+dictate  his  mode  of  life,  and  not  even  in  his  most  private and  domestic  affairs  is  he  left  to  act  at  liberty.
+These  habits  and  customs  are  closely  allied  to  the  religious opinions,  by  which  they  are  still  more  powerfully
 influenced.  When  laws  and  religion  were  asserted  to  be
 wanting,  there  was  still  less  likelihood  of  art  and  science
 being  observed.  In  these  introductory  remarks  we  shall
@@ -1004,11 +911,9 @@ for  the  most  part  embodied  in  the  traditional  tales.
 It  is  in  accordance  with  the  views  here  stated  that
 the  author  has  been  guided  in  attempting  to  divide  and
 arrange  the  subject-matter  of  the  following  remarks.  It
-has  already  been  mentioned,  and  will,  moreover,  be-
-come evident  from  the  traditions,  that  the  Eskimo  ex-
+has  already  been  mentioned,  and  will,  moreover,  become evident  from  the  traditions,  that  the  Eskimo  ex-
 hibit great  conformity  and  similarity,  notwithstanding
-their  being  spread  over  such  vast  territories.  An  ex-
-amination of  one  of  the  principal  divisions  or  tribes
+their  being  spread  over  such  vast  territories.  An  examination of  one  of  the  principal  divisions  or  tribes
 named  above  will  therefore  more  or  less  illustrate  the
 others.  For  this  reason  the  Greenlanders,  who  are  by
 far  the  best  known  of  all,  may  here  be  considered  to
@@ -1024,12 +929,6 @@ supposed  to  have  been  when  Europeans  came  to  settle
 among  them  during  last  century — viz.,  in  1721.
 
 
-6
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 I. — Subsistence  and  Mode  of  Life.
 
 The  sustenance  of  the  Eskimo  is  entirely  derived
@@ -1039,22 +938,18 @@ of  animals  enable  them,  especially  by  means  of  their
 blubber,  and  the  seals  also  by  their  skins,  to  brave  the
 severity  of  climate,  and,  independent  of  any  vegetable
 resources,  to  settle  and  procure  the  means  of  life  as  far
-north  as  any  explorers  have  hitherto  found  human  in-
-habitants. The  seals  are  sufficient,  and  at  the  same
+north  as  any  explorers  have  hitherto  found  human  inhabitants. The  seals  are  sufficient,  and  at  the  same
 time  indispensable,  for  this  purpose.  They  are  caught
 partly  from  kayaks,  or  shuttle-shaped  boats,  and  partly
 from  the  ice  and  the  shore.  Among  their  more  or  less
 peculiar  hunting  contrivances  we  may  mention : (i)
 Their  kayaks,  or  boats,  which  consist  of  a framework  of
-wood,  joined  together  principally  by  strings,  and  pro-
-vided with  a cover  of  skins  impenetrable  to  the  water.
-(2)  The  adjustment  of  the  kayak  itself  and  the  kayak-
-coverings,  with  a view  to  provide  an  entire  shelter  for  the
+wood,  joined  together  principally  by  strings,  and  provided with  a cover  of  skins  impenetrable  to  the  water.
+(2)  The  adjustment  of  the  kayak  itself  and  the  kayakcoverings,  with  a view  to  provide  an  entire  shelter  for  the
 kayaker,  or  seal-hunter,  with  the  exception  only  of  the
 face,  to  protect  him  against  the  water.  Only  a small
 number  of  Eskimo  have  kayaks  fitted  for  more  than  a
-single  man;1  and  still  more  exceptionally,  in  the  far-
-thest north  some  are  found  who  have  no  kayaks  at  all,
+single  man;1  and  still  more  exceptionally,  in  the  farthest north  some  are  found  who  have  no  kayaks  at  all,
 from  the  sea  being  almost  constantly  frozen.  (3)  The
 adaptation  of  a bladder  filled  with  air  to  the  harpoons  or
 javelins,  in  order,  by  retarding  the  animals,  to  prevent
@@ -1074,9 +969,6 @@ Page  7.
 SUBSISTENCE  AND  MODE  OF  LIFE.
 
 
-7
-
-
 the  skin  of  the  animal,  the  point  is  bent  out  of  the  shaft,
 which  is  either  entirely  loosened,  while  only  the  point
 with  the  line  and  the  bladder  remains  attached  to  the
@@ -1086,8 +978,7 @@ shaft  or  make  the  barbs  slip  out  of  its  body  again.
 (5)  The  sledge  with  the  dogs  trained  for  drawing  it.  In
 speaking  of  these  complex  contrivances  as  characteristic
 of  the  Eskimo,  we  do  not  claim  any  of  them  as  their
-exclusive  property  or  invention,  or  as  having  been  un-
-known among  other  nations  now  or  in  former  ages.  It
+exclusive  property  or  invention,  or  as  having  been  unknown among  other  nations  now  or  in  former  ages.  It
 would,  however,  be  perhaps  difficult  to  find  anything  at
 all  like  their  kayaks  in  any  other  part  of  the  globe.
 
@@ -1099,13 +990,11 @@ fourteen  poles,  with  one  end  raised  high  and  leaning  on
 the  frame  which  forms  the  entrance,  and  the  whole
 covered  over  with  a double  layer  of  skins.  The  tents
 seem  to  be  constructed  in  the  same  way  everywhere,
-and  to  differ  from  those  of  neighbouring  nations  in  hav-
-ing their  highest  point  at  the  entrance  in  front,  from
+and  to  differ  from  those  of  neighbouring  nations  in  having their  highest  point  at  the  entrance  in  front,  from
 which  the  roof  inclines  towards  the  sides,  resting  all
 round  upon  a low  wall  of  stones  and  turf ; while  the
 neighbouring  tribes  generally  construct  their  tents  of  a
-conical  form,  with  the  top  in  the  centre.  The  winter-
-houses  are  far  more  varied  in  structure.  Generally  they
+conical  form,  with  the  top  in  the  centre.  The  winterhouses  are  far  more  varied  in  structure.  Generally  they
 are  built  of  stones  and  turf,  the  roof-spars  and  the  pillars
 which  support  the  middle  of  the  roof  being  of  wood.
 Only  the  Eskimo  of  the  middle  regions  have  vaults  of
@@ -1117,16 +1006,9 @@ instead  of  wood.  As  to  the  form  of  the  houses,  the
 passage  leading  into  them  is  long  and  very  narrow,  and
 
 
-8
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 elevated  towards  both  ends — viz.,  the  outer  and  the  inner
 entrances  ; so  that  on  entering  the  house  one  has  first
-to  descend,  and  afterwards  again  to  ascend  before  reach-
-ing the  interior.  This  consists  of  a single  apartment,
+to  descend,  and  afterwards  again  to  ascend  before  reaching the  interior.  This  consists  of  a single  apartment,
 only  the  ledge  or  bench  for  resting  and  sleeping  on  is
 divided  into  separate  portions  for  the  different  families.
 In  Greenland  the  ledge  or  bench — the  “ brix,”  as  the
@@ -1140,22 +1022,19 @@ case  with  the  plank-houses  in  western  Eskimo-Land,
 which  have  a cooking-place  in  the  centre  of  the  floor,
 with  a smoke-hole  in  the  roof,  like  the  houses  of  the
 neighbouring  Indians.  But  the  house-passage  has
-generally  everywhere  a small  side-room  with  a cooking-
-place.  The  provisions  are  sometimes  kept  in  rooms
+generally  everywhere  a small  side-room  with  a cookingplace.  The  provisions  are  sometimes  kept  in  rooms
 connected  with  the  house  or  house-passage  ; in  other
 places  in  separate  storehouses,  or  in  caves  or  holes  of
 the  rocks  covered  with  stones.  In  former  times  it
 seems  to  have  been  the  custom  at  the  more  populous
 places  to  have  a public  building  for  meetings,  especially
-for  solemn  occasions.  Such  buildings  are  still  in  com-
-mon use  among  the  western  Eskimo : they  are  also
+for  solemn  occasions.  Such  buildings  are  still  in  common use  among  the  western  Eskimo : they  are  also
 spoken  of  in  Labrador  ; and  in  Greenland  they  are  well
 known  by  tradition,  and  were  called  Kagsse;  while  in
 other  districts  they  are  termed  kagge , karrigi,  and
 kashim.  Though  the  dwelling-houses  are  nearly  always
 built  for  more  than  one  family,  the  number  of  these  is
-seldom  found  to  exceed  three  or  four.  In  south  Green-
-land, however,  houses  have  been  met  with  more  than
+seldom  found  to  exceed  three  or  four.  In  south  Greenland, however,  houses  have  been  met  with  more  than
 sixty  feet  in  length,  and  containing  stalls  for  ten  families.
 At  Point  Barrow,  Simpson  found  nearly  fifty  houses
 with  two  karrigi,  for  309  inhabitants.
@@ -1175,20 +1054,14 @@ A girl  in  holiday  costume  {present  fashion).  Godthaab.
 SUBSISTENCE  AND  MODE  OF  LIFE.
 
 
-9
-
-
 ing  of  trousers,  and  a jacket  with  a hood  to  be  drawn
 up  to  cover  the  head  (at  least  for  men),  and  otherwise
-fitting  tightly  round  the  body,  leaving  no  opening  ex-
-cepting for  the  face  and  the  hands.  The  same  shape
+fitting  tightly  round  the  body,  leaving  no  opening  excepting for  the  face  and  the  hands.  The  same  shape
 is  adopted  for  the  kayak-jacket,  the  inside  border  of
 which  is  pressed  closely  round  the  rim  encircling  the
-opening  in  which  the  man  sits,  and  the  hands  are  pro-
-tected by  a pair  of  waterproof  leather  mittens.  The
+opening  in  which  the  man  sits,  and  the  hands  are  protected by  a pair  of  waterproof  leather  mittens.  The
 foot-gear  consists  of  different  kinds  of  boots,  exceedingly
-well  made,  and  in  preparing  the  skins  for  the  manu-
-facture of  which  a considerable  degree  of  care  and  in-
+well  made,  and  in  preparing  the  skins  for  the  manufacture of  which  a considerable  degree  of  care  and  in-
 genuity is  displayed.
 
 The  Eskimo  may  more  properly  be  classed  among  the
@@ -1202,8 +1075,7 @@ their  furniture  with  them  from  one  place  to  another,
 choosing  their  route  with  different  objects,  generally
 preferring  that  of  reindeer-hunting,  but  also  having  an
 eye  to  seal-hunting,  fishery,  or  trade.  When  travelling
-in  this  manner  for  very  distant  places,  they  are  some-
-times arrested  on  their  route  and  obliged  to  take  up
+in  this  manner  for  very  distant  places,  they  are  sometimes arrested  on  their  route  and  obliged  to  take  up
 winter  quarters  before  reaching  their  proper  destination.
 An  Eskimo  from  the  northern  shores  of  Hudson  Bay,
 who  accompanied  Franklin  as  interpreter,  is  said  to
@@ -1219,22 +1091,13 @@ regular  property.  They  only  possess  the  most  necessary
 utensils  and  furniture,  with  a stock  of  provisions  for  less
 
 
-10
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
-than  one  year ; and  these  belongings  never  exceed  cer-
-tain limits  fixed  upon  by  tradition  or  custom.  On
+than  one  year ; and  these  belongings  never  exceed  certain limits  fixed  upon  by  tradition  or  custom.  On
 account  of  these  limits,  which  are  of  great  importance  as
-regards  their  social  order,  and  the  laws  which  will  be  dis-
-cussed hereafter,  the  properties  may  be  thus  classified: —
+regards  their  social  order,  and  the  laws  which  will  be  discussed hereafter,  the  properties  may  be  thus  classified: —
 
 1.  Property  owned  by  an  association  of  generally  more
 than  one  family — e.g.,  the  winter-house,  which,  however,
-is  only  of  any  real  value  as  regards  the  timber  em-
-ployed in  raising  it,  the  rest  of  it  being  built  of  such
+is  only  of  any  real  value  as  regards  the  timber  employed in  raising  it,  the  rest  of  it  being  built  of  such
 materials  as  are  to  be  found  everywhere,  by  the  work
 of  women’s  hands.
 
@@ -1245,26 +1108,20 @@ of  wood,  soapstone  pots  ; a boat,  or  umiak,  which  can
 carry  all  these  articles  along  with  the  tent ; one  or  two
 sledges  with  the  dogs  attached  to  them  ; the  latter,
 however,  are  wanting  in  South  Greenland.  To  this
-must  be  added  the  stock  of  winter  provisions,  represent-
-ing as  much  as,  used  exclusively,  will  be  sufficient  for
+must  be  added  the  stock  of  winter  provisions,  representing as  much  as,  used  exclusively,  will  be  sufficient  for
 two  or  three  months’  consumption  ; and  lastly,  a varying
 but  always  very  small  store  of  articles  for  barter.
 
 3.  As  regards  personal  property — i.e.,  owned  by  every
-individual — cognisance  must  be  taken  of  clothes,  consist-
-ing of,  at  least  for  the  principal  members  of  the  family,  two
-suits,  but  rarely  more;  the  sewing  implements  of  the  wo-
-men ; the  kayaks  of  the  men,  with  tools  and  weapons  be-
+individual — cognisance  must  be  taken  of  clothes,  consisting of,  at  least  for  the  principal  members  of  the  family,  two
+suits,  but  rarely  more;  the  sewing  implements  of  the  women ; the  kayaks  of  the  men,  with  tools  and  weapons  be-
 longing to  these  ; a few  other  tools  for  working  in  wood  ;
-and  weapons  for  the  land-chase.  Only  a very  few  first-
-rate  seal-hunters  own  two  kayaks,  but  several  of  them
+and  weapons  for  the  land-chase.  Only  a very  few  firstrate  seal-hunters  own  two  kayaks,  but  several  of  them
 have  two  suits  of  the  appertaining  implements, — namely,
 the  large  harpoon  (tukak,  the  point ; and  ernangnak,  the
 shaft  of  it),  with  its  bladder  and  line ; the  bladder-arrow  or
-javelin  (agdligax),  a smaller  harpoon  with  the  bladder  at-
-tached to  its  shaft ; the  bird-arrow  or  bird-spear  (might) ;
-the  lance  or  spear  (anguvigax),  the  point  of  which  is  with-
-out barbs  ; fishing-lines,  and  various  smaller  articles.
+javelin  (agdligax),  a smaller  harpoon  with  the  bladder  attached to  its  shaft ; the  bird-arrow  or  bird-spear  (might) ;
+the  lance  or  spear  (anguvigax),  the  point  of  which  is  without barbs  ; fishing-lines,  and  various  smaller  articles.
 
 
 Thrower.
@@ -1282,32 +1139,25 @@ A kayaker  in  half-jacket  of  skin,  and  a white  cotton  jacket  ( present  
 SUBSISTENCE  AND  MODE  OF  LIFE.  I I
 
 Excepting  the  houses  of  the  western  Eskimo,  which,
-being  composed  of  timber,  are  of  more  value,  the  condi-
-tions of  property  seem  to  be  nearly  alike  everywhere.
-With  a few  exceptions,  the  natives  carry  all  their  mov-
-able goods  along  with  them  in  the  boat  on  their  summer
+being  composed  of  timber,  are  of  more  value,  the  conditions of  property  seem  to  be  nearly  alike  everywhere.
+With  a few  exceptions,  the  natives  carry  all  their  movable goods  along  with  them  in  the  boat  on  their  summer
 travels,  and  on  arriving  at  some  narrow  strip  of  land
 which  has  to  be  crossed,  everything  is  brought  over
 along  with  the  boat.
 
-Notwithstanding  their  very  limited  feeling  as  to  ac-
-cumulating property,  the  Eskimos  have  kept  up  a kind
+Notwithstanding  their  very  limited  feeling  as  to  accumulating property,  the  Eskimos  have  kept  up  a kind
 of  trade  among  themselves,  and  it  is  for  this  purpose
 that  some  of  their  most  distant  journeys  are  undertaken.
 But  the  mere  desire  to  travel  may  perhaps  have  urged
-them  quite  as  much  as  the  prospect  of  gain.  The  ob-
-jects for  barter  have  been  such  as  were  produced  or  were
-only  to  be  found  in  certain  localities,  and  which  never-
-theless might  to  a certain  degree  be  considered  almost
+them  quite  as  much  as  the  prospect  of  gain.  The  objects for  barter  have  been  such  as  were  produced  or  were
+only  to  be  found  in  certain  localities,  and  which  nevertheless might  to  a certain  degree  be  considered  almost
 indispensable — such  as  soapstone,  and  the  lamps  and
 vessels  manufactured  from  it,  whalebone,  narwal  and
 walrus  teeth,  certain  kinds  of  skin,  sometimes  even
 finished  boats  and  kayaks,  but  rarely  articles  of  food.
-The  articles  looked  upon  as  most  precious  were,  how-
-ever, any  objects  made  of  metal,  or  other  materials
+The  articles  looked  upon  as  most  precious  were,  however, any  objects  made  of  metal,  or  other  materials
 more  exclusively  possessed  by  foreign  nations.  In  the
-most  remote  ages  the  Eskimo  on  those  trading  expedi-
-tions appear  to  have  overpassed  their  present  southern
+most  remote  ages  the  Eskimo  on  those  trading  expeditions appear  to  have  overpassed  their  present  southern
 limits.  This  may  be  gathered  partly  from  pure  Eskimo
 words  being  found  in  the  language  of  more  southern
 tribes,  partly  from  the  sagas  of  the  old  Scandinavians,
@@ -1319,12 +1169,6 @@ Eskimo  of  the  middle  territories,  perhaps  even  sometimes
 the  shores  of  Davis  Strait  or  Hudson  Bay;  and  others,
 on  the  other  hand,  have  travelled  from  there  to  Behring
 Strait, — all  through  internal  trading  carried  on  among
-
-
-12
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 the  natives  themselves.  No  communication  of  this  kind
@@ -1372,29 +1216,21 @@ Bird-spear.
 LANGUAGE.
 
 
-13
-
-
 through  interpreters  of  little  intelligence  ; and  then  the
 structure  is  so  widely  different  from  that  of  European
-languages,  that  a single  word  in  most  cases  has  no  cor-
-responding word  in  these,  but  requires  several  for  its
+languages,  that  a single  word  in  most  cases  has  no  corresponding word  in  these,  but  requires  several  for  its
 complete  expression.  The  sounds,  too,  may  make  a
-different  impression  on  different  hearers — may  be  imper-
-fectly expressed  in  Russian,  English,  and  German  writ-
-ing, and  this  also  may  not  be  free  from  errors  of  tran-
-scription. All  this  may  cause  any  amount  of  misunder-
+different  impression  on  different  hearers — may  be  imperfectly expressed  in  Russian,  English,  and  German  writ-
+ing, and  this  also  may  not  be  free  from  errors  of  transcription. All  this  may  cause  any  amount  of  misunder-
 standing. Let  us  first  take  up  the  question  of  a variety
 of  dialects,  where  closer  examination  will  perhaps  show
 the  contrary.  These  authors  alluded  to  mention  about
 eight  different  Eskimo  dialects  round  Behring  Strait.
-Some  examples  will  explain  -how  the  supposed  differ-
-ences between  the  words  here  and  in  Greenland  may
+Some  examples  will  explain  -how  the  supposed  differences between  the  words  here  and  in  Greenland  may
 have  originated.  For  instance,  wife  is  called  nulijak  and
 ahanak ; man,  uika  and  nuhelpach;  baby,  inukisskok ;
 shoulders,  tidclika  and  tuik ; hand,  tatlichka  and  aiged ;
-dying,  tukko  and  tukoeuchluk ; cold,  ninhlichtu  and  paz-
-nachtuk ; heat,  matschachtuk  and  uknachtuk ; fire,  eknek
+dying,  tukko  and  tukoeuchluk ; cold,  ninhlichtu  and  paznachtuk ; heat,  matschachtuk  and  uknachtuk ; fire,  eknek
 and  knk  (!).  Let  us  now  take  what  we  find  in  the
 Greenlandish  dictionary  and  grammar  : nuliax,  wife  (of  a
 man) ; arnax,  woman  ; uviga,  my  husband  ; nukagpiax,
@@ -1403,26 +1239,17 @@ fruvik,  shoulders  ; tatdlika,  my  arms  ; agssait,  fingers  or
 hand  ; toxo,  death ; toxussox,  dead  ; nigdlertox,  cool ;
 panertox,  dry  ; masagtox,  wet ; unartox,  hot ; ingnex,
 fire.  The  apparent  differences  between  these  two  lists
-seem  evidently  to  have  arisen  from  mere  misunderstand-
-ing, without  any  real  variation  between  the  languages.
+seem  evidently  to  have  arisen  from  mere  misunderstanding, without  any  real  variation  between  the  languages.
 On  comparing,  in  the  same  manner,  the  rest  of  the  lists
-of  words  from  Behring  Strait,  two  - thirds  or  three-
-fourths  of  the  words  are  found  to  be  more  or  less  Green-
+of  words  from  Behring  Strait,  two  - thirds  or  threefourths  of  the  words  are  found  to  be  more  or  less  Green-
 landish. Moreover,  taking  into  consideration  the  manner
 in  which  travellers  have  been  enabled  to  communicate
 with  one  tribe  of  Eskimo,  by  interpreters  taken  from
 another,  and  that  the  difference  between  the  Greenland
 
 
-14
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 and  the  Labrador  is  smaller  than,  for  instance,  between
-Swedish  and  Danish,  one  is  induced  to  assume  an  affin-
-ity of  language  among  all  the  real  Eskimo  sufficient
+Swedish  and  Danish,  one  is  induced  to  assume  an  affinity of  language  among  all  the  real  Eskimo  sufficient
 to  allow  mutual  intercourse  everywhere.  On  the  other
 hand,  it  cannot  be  denied  that  the  language  of  the
 Eskimo  to  the  west  of  the  Mackenzie  is  considerably
@@ -1442,17 +1269,14 @@ to  fix  them  in  the  sentence.  This  construction  is  effected
 by  the  help  of  additional  elements  or  imperfect  words,
 having  no  meaning  by  themselves,  but  expressive  as
 additions  to  the  main  word,  with  which  they  can  be
-combined  in  varieties  of  number  and  order,  every  com-
-bination altering  or  modifying  the  sense  of  the  radical
-or  adding  a certain  complexity  of  notions  to  it.  Com-
-position is  completed  by  flexion,  and  particularly  by
+combined  in  varieties  of  number  and  order,  every  combination altering  or  modifying  the  sense  of  the  radical
+or  adding  a certain  complexity  of  notions  to  it.  Composition is  completed  by  flexion,  and  particularly  by
 conjugation,  which  not  only,  as  in  several  other  dialects,
 can  make  the  verb  include  a pronoun  as  subject,  but
 also  as  object,  and  in  this  way  can  form  a sentence  by
 itself,  whereby  these  additional  elements  may  render
 the  sentence  compound,  or  even  include  other  sentences.
-The  following  abstract  of  Samuel  Kleinschmidt’s  Green-
-landish grammar  will  give  a sufficient  idea  of  this
+The  following  abstract  of  Samuel  Kleinschmidt’s  Greenlandish grammar  will  give  a sufficient  idea  of  this
 process : —
 
 Writing  and  pronunciation. — The  language  is  written
@@ -1463,9 +1287,6 @@ K,  differing  from  k by  its  being  formed  in  the  remotest
 
 
 LANGUAGE.
-
-
-15
 
 
 part  of  the  mouth,  and  sounding  as  something  between
@@ -1481,13 +1302,11 @@ The  pronunciation  of  the  vowels  is  often  modified
 by  the  next  consonants.  The  letter  a is  often  heard  as
 in  the  English  word  at.  The  accents  /A  , which  show
 whether  the  syllable  is  to  be  pronounced  sharp,  long,  or
-long  combined  with  sharp,  are  of  the  greatest  import-
-ance as  to  the  sense  of  a word.  Otherwise,  the  letters
+long  combined  with  sharp,  are  of  the  greatest  importance as  to  the  sense  of  a word.  Otherwise,  the  letters
 have  mostly  the  same  power  as  in  German  and  the
 Scandinavian  tongues.
 
-Greenlandish  likes  simplicity  in  its  syllables,  prefer-
-ring those  composed  of  one  vowel  and  one  consonant.
+Greenlandish  likes  simplicity  in  its  syllables,  preferring those  composed  of  one  vowel  and  one  consonant.
 More  than  one  consonant  in  a syllable  is  allowed,  if  any
 harshness  should  arise.  No  word  can  end  with  other
 consonants  than  k,  k,  p,  and  t,  nor  begin  with  others
@@ -1510,8 +1329,7 @@ perhaps  originally  were  words,  are  numerous  as  well  as
 completely  movable,  and  can  be  embodied  in  the  word
 as  required  by  the  meaning.  Affixes  of  this  kind  are
 of  course  not  wanting  in  our  better-known  European
-languages,  but  are  by  no  means  so  numerous  or  service-
-able as  in  Greenlandish.  On  the  other  hand,  the  forma-
+languages,  but  are  by  no  means  so  numerous  or  serviceable as  in  Greenlandish.  On  the  other  hand,  the  forma-
 
 
 l6  SKETCH  OF  THE  ESKIMO.
@@ -1531,8 +1349,7 @@ going,  but  with  the  verbal  ending  they  give  ajorpoK,
 he  is  bad  ; pisugpoK,  he  goes.  By  help  of  the  same
 ending  also,  nouns  can  be  converted  into  verbs,  but  only
 a few  of  them,  and  then  they  comprise  some  peculiar
-additional  signification,  such  as  that  of  acquiring  or  get-
-ting, as  a seal  ; atarpox,  he  caught  a seal.
+additional  signification,  such  as  that  of  acquiring  or  getting, as  a seal  ; atarpox,  he  caught  a seal.
 
 In  the  way  here  described,  the  stems  give  rise  to
 nouns  and  verbs  ; and  in  reality  these  are  nearly  the  only
@@ -1553,8 +1370,7 @@ Next,  the  flexions  express  something  relating  to  another
 thing,  either  as  a property  or  as  an  object ; and  in  these
 cases  they  have  obtained  the  name  of  suffixes , as
 igdlua,  his  house  ; igdluvnt,  our  houses  ; takuv&,  he  sees
-it ; takuvavut,  we  see  them.  Moreover,  the  nouns,  be-
-sides their  simple  form,  in  which  they  are  used  as  objects,
+it ; takuvavut,  we  see  them.  Moreover,  the  nouns,  besides their  simple  form,  in  which  they  are  used  as  objects,
 and  which  on  this  account  is  called  objective,  also
 
 
@@ -1573,8 +1389,7 @@ nouns  flexion  also  takes  the  place  of  prepositions,  by
 help  of  cases  answering  to  the  questions  where,  in  what
 way,  whereto,  in  what  manner , — as  nuna,  land  ; nuname,
 on  the  land  ; nunavtinut,  to  our  land.  Lastly,  in  verbs
-the  flexion  comprises  seven  moods — viz.,  indicative,  inter-
-rogative, optative,  conjunctive,  subjunctive,  infinitive,
+the  flexion  comprises  seven  moods — viz.,  indicative,  interrogative, optative,  conjunctive,  subjunctive,  infinitive,
 and  participle.
 
 While  end-flexion  thus  expresses  the  relations  in  a
@@ -1585,22 +1400,19 @@ time  is  expressed  more  distinctly  by  help  of  additional
 stems  containing  the  notions  of  begins  to,  has  finished,
 is  going  to,  joined  to  the  original  verb.
 
-As  regards  nouns  particularly,  they  all  in  their  ob-
-jective form  end  in  a vowel,  or  in  k,  k,  and  t,  the  subjec-
+As  regards  nouns  particularly,  they  all  in  their  objective form  end  in  a vowel,  or  in  k,  k,  and  t,  the  subjec-
 tive taking  p,  the  dual  k,  and  the  plural  t.  There  are  two
 kinds  of  suffixes  expressing  the  relation  to  the  sentence
 itself,  or  to  another  ; and  besides  this,  every  suffix  has  its
 peculiar  form  for  number,  subjective,  objective,  and  the
 local  cases.  But  in  order  to  add  the  above  flexional
 letters,  the  nouns  themselves,  in  certain  cases,  must  be
-somewhat  modified  ; and  the  rules  for  this  transforma-
-tion are  nearly  the  only  complicated  part  of  Greenlandish
+somewhat  modified  ; and  the  rules  for  this  transformation are  nearly  the  only  complicated  part  of  Greenlandish
 grammar.  Yet  the  natives  would  seem  sometimes  not
 to  consider  this  transformation  absolutely  necessary  in
 correct  speaking,  saying  igdlo,  house ; igdlut,  houses  ;
 but  tupex,  tent ; tovxit,  or  also  tupit,  tents.  Excepting
-these  transformations,  the  numerous  forms  may  be  re-
-presented by  help  of  a scheme  which  can  be  written  on
+these  transformations,  the  numerous  forms  may  be  represented by  help  of  a scheme  which  can  be  written  on
 a quarto  page.
 
 The  verbs  are  divided,  according  to  the  mark  of  the
@@ -1608,20 +1420,16 @@ The  verbs  are  divided,  according  to  the  mark  of  the
 B
 
 
-1 8 SKETCH  OF  THE  ESKIMO.
-
 third  person  indicative,  into  five  classes,  with  endings  as
 follow : poK,  rpoK,  gpoK,  vok,  and  aoK,  but  each  still  to
-be  conjugated  according  to  the  same  scheme,  which  com-
-prises all  the  numerous  combinations  of  these  forms —
+be  conjugated  according  to  the  same  scheme,  which  comprises all  the  numerous  combinations  of  these  forms —
 viz.,  numbers,  persons,  suffixes,  and  moods — and  still,  on
 account  of  its  regularity,  can  be  written  on  one  folio
 page.  Negation  is  expressed  by  the  additional  stem
 ngilaK,  which  is  conjugated  in  a somewhat  peculiar
 manner.
 
-In  consequence  of  what  has  just  been  explained,  per-
-sonal pronouns  generally  are  of  no  use.  Still,  some
+In  consequence  of  what  has  just  been  explained,  personal pronouns  generally  are  of  no  use.  Still,  some
 words  of  pronominal  signification  exist,  used  when  the
 person  must  be  expressed  more  distinctly ; but  even
 those  words  seem  to  have  been  formed  by  help  of
@@ -1640,10 +1448,8 @@ The  real  numerals  only  run  from  i to  5,  like  the
 fingers  on  one  hand,  then  the  fingers  on  the  other  are
 enumerated,  and  afterwards,  if  necessary,  the  toes  on  the
 feet.  For  this  reason  20  is  called  “the  man  finished.”
-The  rest  are  expressed  by  some  partitive  word  show-
-ing the  number  counted,  as  atauseK,  1 ; mardluk,  2 ;
-pingasut,  3 ; sisamat,  4 ; tatdlimat,  5 ; but  arfinex  pin-
-gasut,  8 (or  3 upon  the  other  hand)  ; 24  is  called  4 upon
+The  rest  are  expressed  by  some  partitive  word  showing the  number  counted,  as  atauseK,  1 ; mardluk,  2 ;
+pingasut,  3 ; sisamat,  4 ; tatdlimat,  5 ; but  arfinex  pingasut,  8 (or  3 upon  the  other  hand)  ; 24  is  called  4 upon
 the  second  man,  and  80,  finishing  4 men.
 
 Construction  of  words. — We  have  already  mentioned
@@ -1653,9 +1459,6 @@ have  a common  root,  or  that  several  roots  have  been
 
 
 LANGUAGE.
-
-
-19
 
 
 related  to  each  other,  as,  for  example,  kok,  urine ; and
@@ -1679,8 +1482,7 @@ I.  Added  Nouns  or  Nominal  Affixes.
 
 1 . Transforming.
 
-toK  or  ssok,  being  or  doing  so,  consequently  a sort  of  nomi-
-nal participle,  as  ajorpoK,  he  is  bad ; ajortok,  a bad  one ;
+toK  or  ssok,  being  or  doing  so,  consequently  a sort  of  nominal participle,  as  ajorpoK,  he  is  bad ; ajortok,  a bad  one ;
 autdlarpoK,  he  goes  away ; autdlartoK,  he  who  is  departed.
 
 tax,  ssax  or  gax,  representing  a kind  of  passive  participle,
@@ -1703,20 +1505,13 @@ nguax,  small  or  little.
 tsiaK  or  atsiax,  tolerable  or  somewhat.
 
 
-20
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 b.  Substantive-like , which  make  the  stem-word  totally  subordinate.
 
 lik,  provided  with.
 
 mio,  inhabitant  of.
 
-ussaK,  like  or  similar,  as  sioraK,  sand ; sioraussaK,  some-
-thing like  sand,  among  other  meanings  used  for  raw  sugar.
+ussaK,  like  or  similar,  as  sioraK,  sand ; sioraussaK,  something like  sand,  among  other  meanings  used  for  raw  sugar.
 
 II.  Additional  Verbs  or  Verbal  Affixes,
 i.  Transforming.
@@ -1744,8 +1539,7 @@ get  a knife.
 
 niarpoK,  endeavours  to.
 
-dluarpoK,  well,  sufficiently ; ingerdlavoK,  it  moves ; in-
-gerdlavdluarpoK,  it  goes  quick.
+dluarpoK,  well,  sufficiently ; ingerdlavoK,  it  moves ; ingerdlavdluarpoK,  it  goes  quick.
 
 ng&rpoii,  highly;  angivoK,  it  is  large;  an.ging&rpoi£,  is
 very  large.
@@ -1758,8 +1552,7 @@ juipoK,  never.
 
 gajugpoK,  is  bending  to,  likes  to.
 
-narpoK,  is  to  make  one  ; masagpoK,  is  wet ; masangnar-
-poK,  is  to  grow  wet  from.
+narpoK,  is  to  make  one  ; masagpoK,  is  wet ; masangnarpoK,  is  to  grow  wet  from.
 
 c.  Transitive.
 
@@ -1775,12 +1568,8 @@ waiting  till  he  comes.
 LANGUAGE.
 
 
-21
-
-
 It  is  by  combining  a series  of  these  added  stems  to
-the  principal  stem,  that  such  an  extraordinary  complex-
-ity of  ideas  can  be  conveyed  in  a single  word.  Only
+the  principal  stem,  that  such  an  extraordinary  complexity of  ideas  can  be  conveyed  in  a single  word.  Only
 the  more  intelligent,  however,  are  perfectly  skilled  in
 this  operation,  and  the  number  of  affixes  attached  to
 one  primitive  stem  seldom  amounts  to  ten.  The  order
@@ -1802,10 +1591,8 @@ large  house  shall  be  built.
 
 igdlu-gssar-si-ni-uti-ger-KU-vara.
 
-This  word  is  constructed  of  one  primitive  and  six  ad-
-ditional stems,  with  the  flexion  for  the  first  person  indi-
-cative, and  the  suffix  for  him  or  it,  and  signifies — I or-
-dered him  to  use  it  as  a means  for  buying  (endeavour-
+This  word  is  constructed  of  one  primitive  and  six  additional stems,  with  the  flexion  for  the  first  person  indi-
+cative, and  the  suffix  for  him  or  it,  and  signifies — I ordered him  to  use  it  as  a means  for  buying  (endeavour-
 ing to  get)  house-materials  (a  future  house).
 
 Syntax. — In  consequence  of  what  has  been  explained
@@ -1813,19 +1600,12 @@ above,  much  of  what  in  other  dialects  belongs  to  syntax,
 in  Greenland  is  represented  by  composing  words  and  by
 flexion.  There  is  a very  sharp  distinction  between  the
 verbs  as  transitive,  intransitive,  or  having  both  qualities
-at  once.  The  exclusively  transitive  verbs  always  re-
-quire a suffix  ; where  this  is  wanting  they  grow  reflective
+at  once.  The  exclusively  transitive  verbs  always  require a suffix  ; where  this  is  wanting  they  grow  reflective
 — for  instance,  toKupa,  he  killed  him  ; but  toKupoK,  he
 killed,  always  supposes  himself.
 
 Among  the  seven  moods  of  the  verb,  the  infinitive  and
 the  participle  do  not  exactly  correspond  to  what  are
-
-
-22
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 so  called  in  other  languages.  The  infinitive  is  very
@@ -1834,8 +1614,7 @@ express  what  in  other  tongues  is  obtained  by  help  of
 while,  then,  as,  during,  &c.  The  participle  exhibits  the
 peculiarity  of  only  in  some  degree  corresponding  to  a noun,
 on  which  account  it  has  been  called  a verbal  participle.
-It  can  become  the  object,  but  not  the  subject  of  a sen-
-tence. On  the  other  hand,  even  in  this  mood  the  verb
+It  can  become  the  object,  but  not  the  subject  of  a sentence. On  the  other  hand,  even  in  this  mood  the  verb
 includes  at  once  its  own  subject  and  its  object,  for  which
 reason  the  participle  is  used  for  subordinate  sentences,
 as  takug&,  he  who  sees  him ; takugingma,  thou  who  seest
@@ -1856,19 +1635,14 @@ the  house — he  saw  it, — viz.,  the  man  saw  the  house.
 III. — Social  Order,  Customs,  and  Laws.
 
 As  a matter  of  course,  what  we  have  now  to  treat  on  is
-closely  connected  with  what  has  already  been  said  regard-
-ingthe  sustenance  and  mode  of  life  peculiar  to  the  Eski-
+closely  connected  with  what  has  already  been  said  regardingthe  sustenance  and  mode  of  life  peculiar  to  the  Eski-
 mo, because  the  life  of  a hunting  people  appears  to  require
-or  give  rise  to  a certain  natural  partnership  or  joint  pos-
-session of  goods  confined  to  wider  or  smaller  circles  of
+or  give  rise  to  a certain  natural  partnership  or  joint  possession of  goods  confined  to  wider  or  smaller  circles  of
 the  inhabitants,  and  directed  by  certain  laws  or  customs.
 What  one  individual  gains  by  his  own  labour  being,  in
 
 
 SOCIAL  ORDER,  CUSTOMS,  AND  LAWS.
-
-
-23
 
 
 consequence  of  this  partnership,  made  accessible  to
@@ -1878,52 +1652,39 @@ on  the  part  of  others  ; or,  in  other  words,  the  right  of
 property  being  in  a peculiar  way  restricted  with  all  the
 hunting  nations,  the  personal  rights  and  duties  must
 have  their  corresponding  peculiarities.  In  dealing  with
-this  part  of  our  subject,  we  shall  first  treat  of  the  divi-
-sion of  the  inhabitants  into  smaller  communities ; second,
+this  part  of  our  subject,  we  shall  first  treat  of  the  division of  the  inhabitants  into  smaller  communities ; second,
 of  the  mutual  rights  and  obligations  of  the  individuals
 and  of  those  communities  as  regards  persons  as  well  as
-property ; and  lastly,  of  the  larger  or  smaller  public  meet-
-ings, which  at  once  represent  the  national  rejoicings  and
+property ; and  lastly,  of  the  larger  or  smaller  public  meetings, which  at  once  represent  the  national  rejoicings  and
 the  courts  of  justice,  by  which  the  laws  were  maintained.
 
 The  smaller  communities  or  subdivisions  which  were
 based  upon  a certain  partnership,  we  have  already  alluded
 to  as  falling  under  the  three  following  classes — the
 family,  the  inhabitants  of  a house,  and  the  inhabitants
-of  a wintering  place  or  hamlet.  But  scarcely  any  fur-
-ther connection  of  this  kind  can  be  traced  between  the
+of  a wintering  place  or  hamlet.  But  scarcely  any  further connection  of  this  kind  can  be  traced  between  the
 different  wintering  places.
 
 Firstly,  regarding  the  family.  Scarcely  anywhere  did
 more  than  a very  few  of  the  men  appear  to  have  more
 than  one  wife,  but  the  right  of  divorce  and  of  taking
 another  wife  seems  to  have  been  tolerated  without  any
-definite  restriction.  Divorce,  however,  as  well  as  poly-
-gamy and  the  exchange  of  wives,  which  is  also  men-
+definite  restriction.  Divorce,  however,  as  well  as  polygamy and  the  exchange  of  wives,  which  is  also  men-
 tioned as  having  existed,  was  only  approved  of  by
 public  opinion  in  so  far  as  it  aimed  at  propagation,
 especially  of  male  descendants.  The  betrothal  was
 managed  in  three  ways — by  mediators,  as  being  fixed
-on  from  childhood,  and  by  compulsion.  But  the  wed-
-ding itself  seems  rarely  to  have  taken  place  without
+on  from  childhood,  and  by  compulsion.  But  the  wedding itself  seems  rarely  to  have  taken  place  without
 some  degree  of  force  having  been  practised  upon  the
 bride — a custom  of  very  universal  use  among  barbarous
 and  savage  races.  It  also  seems  that  the  engagement
 had  first  to  be  settled  with  the  bride’s  parents  and
 
 
-24
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
-brothers,  and  that  their  consent  in  every  case  was  re-
-quisite. A girl  having  many  and  eligible  suitors,  but
+brothers,  and  that  their  consent  in  every  case  was  requisite. A girl  having  many  and  eligible  suitors,  but
 the  parents  and  brothers  being  unwilling  to  part  with
 her,  is  a very  common  theme  in  the  traditional  tales.
-The  wedding  was  performed  without  any  special  cere-
-mony, and  without  imposing  any  peculiar  obligations.
+The  wedding  was  performed  without  any  special  ceremony, and  without  imposing  any  peculiar  obligations.
 The  bride  brought  along  with  her  her  clothes,  an  “ oolo,”
 or  semicircular  knife,  and  generally  a lamp.  The  family
 in  a narrower  sense  comprised  foster-children,  as  well  as
@@ -1940,8 +1701,7 @@ of  brothers  are  spoken  of  as  being  unwilling  to  allow
 their  sister  to  marry  till  one  of  them  happened  to  acquire
 a good  friend,  whom  he  persuaded  to  take  her  solely
 with  the  view  of  making  him  his  brother-in-law.  This
-story  is  in  no  way  offensive  to  the  feelings  of  the  Green-
-landers. But,  on  the  other  hand,  their  mode  of  life  and
+story  is  in  no  way  offensive  to  the  feelings  of  the  Greenlanders. But,  on  the  other  hand,  their  mode  of  life  and
 of  housekeeping  hardly  seems  to  allow  of  these  slaves
 being  treated  otherwise  than  as  subordinate  members  of
 the  family.  In  a wider  sense  the  family  comprised
@@ -1977,13 +1737,11 @@ these  arrangements  every  family  generally  had  more
 than  one  provider.  Widows  or  unmarried  women  with
 children  rarely  set  up  housekeeping  by  themselves,  and
 were  generally  provided  for  by  their  housemates  or
-kindred.  If  there  was  more  than  one  son,  the  subse-
-quent ones  sometimes,  on  acquiring  a boat  and  tent,  left
+kindred.  If  there  was  more  than  one  son,  the  subsequent ones  sometimes,  on  acquiring  a boat  and  tent,  left
 home  and  established  a separate  family  or  household.
 The  owner  of  a boat  or  a tent  was  thus  considered  the
 chief  or  head  of  the  family,  and  it  was  principally  he
-who  was  called  the  igtuat  of  the  others.  Simpson  men-
-tions the  chiefs  on  Point  Barrow  as  Oomeliks,  which  no
+who  was  called  the  igtuat  of  the  others.  Simpson  mentions the  chiefs  on  Point  Barrow  as  Oomeliks,  which  no
 doubt  must  be  the  Greenlandish  umialik,  signifying
 owner  of  a boat , and  thus  is  in  strict  accordance  with
 what  has  just  been  said.  When  a man  died,  the  oldest
@@ -1992,16 +1750,8 @@ incumbent  on  the  provider.  If  no  such  grown-up  son
 existed,  the  nearest  relative  took  his  place  and  adopted
 the  children  of  the  deceased  as  his  foster-children.  But
 when  these  were  grown  up,  and  had  themselves  become
-providers,  their  widowed  mother  was  at  liberty  to  estab-
-lish a separate  household  with  them,  without  any
-further  obligation  to  the  foster-father.  As  regards  in-
-heritance in  general,  it  must  be  remembered,  that
-
-
-26
-
-
-SKETCH  OF  THE  ESKIMO.
+providers,  their  widowed  mother  was  at  liberty  to  establish a separate  household  with  them,  without  any
+further  obligation  to  the  foster-father.  As  regards  inheritance in  general,  it  must  be  remembered,  that
 
 
 among  the  Greenlanders  it  represented  a question  of
@@ -2010,16 +1760,14 @@ Moreover,  the  only  real  hereditary  goods — viz.,  the  boat
 and  tent — required  annual  repair  and  covering  with  new
 skins,  almost  as  many  as  one  hunter  on  an  average  could
 procure  during  the  whole  year.  Lastly,  it  must  be
-noticed  that,  even  if  the  family  were  divided  by  re-
-moving to  distant  winter-quarters,  the  ties  of  relation-
+noticed  that,  even  if  the  family  were  divided  by  removing to  distant  winter-quarters,  the  ties  of  relation-
 ship were  always  respected  whenever  mutual  assistance
 was  required.
 
 The  next  kind  of  community  was  that  of  the  housemates,
 where  more  than  one  family  agreed  to  inhabit  the  same
 house.  This,  as  a general  custom,  has  perhaps  only
-existed  in  Greenland,  where  often  three  or  four,  some-
-times even  more,  families  housed  together.  Each  of
+existed  in  Greenland,  where  often  three  or  four,  sometimes even  more,  families  housed  together.  Each  of
 these  families,  however,  in  the  main  maintained  their
 own  household  ; every  family  in  the  narrower  sense —
 viz.,  the  married  couple  with  their  children — having  its
@@ -2028,16 +1776,12 @@ front  of  it,  while  the  unmarried  people  and  the  guests
 slept  on  the  window  and  side  ledges.  As  the  house  was
 built  and  repaired  by  joint  labour,  it  could  scarcely  be
 said  to  have  any  particular  owner  ; or  if  there  happened
-to  be  one,  he  would  only  have  all  the  burdens  and  obli-
-gations without  any  real  rights  as  to  possession.  But
-among  the  heads  of  the  several  families  one  was  gene-
-rally found  who  was  held  in  greater  esteem  than  the
+to  be  one,  he  would  only  have  all  the  burdens  and  obligations without  any  real  rights  as  to  possession.  But
+among  the  heads  of  the  several  families  one  was  generally found  who  was  held  in  greater  esteem  than  the
 rest  by  all  the  housemates,  though  not  in  the  same
-degree  as  the  members  of  a family  respected  their  so-
-called  igtuat.
+degree  as  the  members  of  a family  respected  their  socalled  igtuat.
 
-The  third  kind  of  community  is  what  we  may  call place-
-fellows — viz.,  inhabitants  of  the  same  hamlet  or  wintering
+The  third  kind  of  community  is  what  we  may  call placefellows — viz.,  inhabitants  of  the  same  hamlet  or  wintering
 place.  Only  in  exceptional  cases  might  a single  house
 be  found  at  such  a place.  When  it  is  considered  how
 widely  the  population  was  spread,  and  how  distant  the
@@ -2046,9 +1790,6 @@ matter  of  course  that  the  inhabitants  living  together  on
 
 
 SOCIAL  ORDER,  CUSTOMS,  AND  LAWS.
-
-
-27
 
 
 such  a sequestered  spot  must  continually  come  into
@@ -2091,9 +1832,6 @@ Beyond  the  confines  of  such  places  as  were  already
 inhabited,  every  one  was  at  liberty  to  put  up  his  house
 
 
-SKETCH  OF  THE  ESKIMO.
-
-
 and  go  hunting  and  fishing  whenever  he  chose.  Not
 even  where  others  had  first  established  a fishing-place,
 by  making  weirs  across  a river,  would  any  objection  be
@@ -2124,8 +1862,7 @@ property  of  the  finder.
 
 If  two  hunters  at  the  same  time  hit  a bird  or  a seal,  it
 was  divided  into  equal  parts  with  the  skin  attached.
-But  if  this  happened  with  a reindeer,  the  animal  be-
-longed to  the  one  whose  arrow  had  reached  nearest  the
+But  if  this  happened  with  a reindeer,  the  animal  belonged to  the  one  whose  arrow  had  reached  nearest  the
 heart,  the  other  only  getting  part  of  the  flesh.
 
 All  kinds  of  game  or  animals  which  happened  to  be  rare ,
@@ -2141,19 +1878,14 @@ of  such  animals  as  only  appeared  at  certain  seasons,  or
 SOCIAL  ORDER,  CUSTOMS,  AND  LAWS.
 
 
-29
-
-
 with  any  animal  caught  during  times  of  long  want  and
 bad  luck  to  the  hunters.  But  if  an  animal  of  the  largest
-size,  more  especially  a zvhale,  zvas  captured,  it  was  con-
-sidered common  property,  and  as  indiscriminately  belong-
+size,  more  especially  a zvhale,  zvas  captured,  it  was  considered common  property,  and  as  indiscriminately  belong-
 ing to  every  one  who  might  come  and  assist  in  flensing
 it,  whatever  place  he  belonged  to,  and  whether  he  had
 any  share  in  capturing  the  animal  or  not.  The  flensing
 was  also  managed  without  any  order  or  control ; and  if
-any  one  happened  to  wound  another  on  such  an  occa-
-sion, he  was  not  held  answerable  for  it.
+any  one  happened  to  wound  another  on  such  an  occasion, he  was  not  held  answerable  for  it.
 
 In  South  Greenland,  where  bears  are  rarely  seen,  it  is
 said  that,  on  a bear  being  killed , it  belongs  to  whoever  first
@@ -2180,22 +1912,14 @@ retract  it.  Nothing  was  sold  on  credit,  at  least  not
 without  being  paid  for  very  soon.
 
 Looking  at  what  has  been  said  regarding  the  rights  of
-property  and  the  division  of  the  people  into  certain  com-
-munities, in  connection  with  the  division  of  property  into
+property  and  the  division  of  the  people  into  certain  communities, in  connection  with  the  division  of  property  into
 the  classes  just  given,  we  are  led  to  the  conclusion  that
 the  right  of  any  individual  to  hold  more  than  a certain
 amount  of  property  was,  if  not  regulated  by  law,  at  least
 jealously  watched  by  the  rest  of  the  community;  and
 
 
-30
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
-that,  virtually,  the  surplus  of  any  individual  or  com-
-munity— fixed  by  the  arbitrary  rate  which  tradition  or
+that,  virtually,  the  surplus  of  any  individual  or  community— fixed  by  the  arbitrary  rate  which  tradition  or
 custom  had  assigned — was  made  over  to  those  who  had
 less.  From  this  point  of  view,  the  first  class  of  goods
 would  be  what  belonged  to  a single  person — viz.,  his
@@ -2206,15 +1930,13 @@ reminding  us  of  that  between  the  body  and  the  soul.
 Lending  them  to  others  was  not  customary  ; but  if  a
 person  owned  more  suits  than  usual,  public  opinion
 would  doubtless  compel  him  to  allow  others  to  make
-use  of  them.  The  custom  just  mentioned,  that  a bor-
-rowed article  which  was  lost  or  damaged  need  not
+use  of  them.  The  custom  just  mentioned,  that  a borrowed article  which  was  lost  or  damaged  need  not
 necessarily  be  returned  or  compensated  to  the  owner,
 strikingly  shows  that  if  a man  had  anything  to  spare  or
 lend,  it  was  considered  superfluous  to  him,  and  not  held
 with  the  same  right  of  possession  as  his  more  necessary
 belongings,  but  to  be  ranked  among  those  goods  which
-were  possessed  in  common  with  others.  The  conse-
-quence was,  that  superfluous  garments  or  implements
+were  possessed  in  common  with  others.  The  consequence was,  that  superfluous  garments  or  implements
 rarely  existed.  Only  a few  first-rate  hunters  possessed
 two  kayaks,  one  fitted  for  the  open  sea  and  another  for
 the  sheltered  inlets  ; but  if  he  did  happen  to  have  three
@@ -2225,33 +1947,25 @@ belonged  to  the  whole  family — the  boat  and  tent,  the
 provisions  collected  during  the  summer  season,  and
 lastly,  a small  store  of  skins  and  other  articles  intended
 either  for  family  use  or  for  bartering  purposes.  The
-third  class  consisted  of  what  belonged  to  the  house-
-mates in  common — viz.,  the  house  itself,  the  supply  of
+third  class  consisted  of  what  belonged  to  the  housemates in  common — viz.,  the  house  itself,  the  supply  of
 victuals  sufficient  for  certain  meals,  &c.  A fourth  class
-we  may  make  comprise  what  was  shared  with  the  in-
-habitants of  the  same  hamlet,  such  as  the  flesh  and
+we  may  make  comprise  what  was  shared  with  the  inhabitants of  the  same  hamlet,  such  as  the  flesh  and
 blubber  derived  from  all  the  seals  caught  during  the
 
 
 SOCIAL  ORDER,  CUSTOMS,  AND  LAWS.
 
 
-31
-
-
 stay  in  winter-quarters.  A fifth  and  last  class  might
 be  added,  comprising  those  spoils  which,  either  on
-account  of  the  size  of  the  captured  animal,  or  some-
-times owing  to  great  scarcity  and  famine,  were  shared
+account  of  the  size  of  the  captured  animal,  or  sometimes owing  to  great  scarcity  and  famine,  were  shared
 with  the  inhabitants  of  the  neighbouring  hamlets.
 
-Some  of  the  laws  or  customs  above  described  con-
-cerning property — as,  for  instance,  those  that  relate  to
+Some  of  the  laws  or  customs  above  described  concerning property — as,  for  instance,  those  that  relate  to
 things  found — which  at  first  sight  may  appear  very
 strange,  will  find  their  explanation  on  closer  inspection,
 and  with  due  consideration  of  the  peculiar  localities,
-the  long  distances,  and  the  scanty  population,  on  ac-
-count of  which  any  article  lost  could  hardly  be  expected
+the  long  distances,  and  the  scanty  population,  on  account of  which  any  article  lost  could  hardly  be  expected
 to  be  recovered  in  a state  still  fit  for  use.  But  as  to
 the  principal  peculiarities,  it  naturally  follows  that  the
 members  of  the  different  communities,  in  profiting  by
@@ -2265,8 +1979,7 @@ into  a family,  have  already  been  described  in  connection
 with  the  mutual  relationship  of  its  members.  In  order
 to  become  housemates,  an  agreement  between  the  families
 in  question  was  of  course  required.  So  also,  if  a new
-family  wished  to  settle  at  an  inhabited  place,  the  new-
-comers had  to  wait  the  consent  of  the  people  already
+family  wished  to  settle  at  an  inhabited  place,  the  newcomers had  to  wait  the  consent  of  the  people  already
 settled  there,  which  was  given  by  means  of  certain  signs
 of  civility  or  welcome,  the  strangers  having  meanwhile
 put  their  boat  ashore,  but  not  yet  begun  bringing  up
@@ -2281,22 +1994,14 @@ brought  upon  himself  the  reprehensions  not  only  of  the
 other  members  of  his  own  family,  but  also  of  the  wider
 
 
-32
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 community.  So  also  he  was  in  duty  bound  to  bring  up
-his  sons  to  the  same  business  from  their  early  child-
-hood.
+his  sons  to  the  same  business  from  their  early  childhood.
 
 From  their  living  together  in  small  habitations,  a
 friendly  way  of  conversing  was  necessary  ; and  all  high
 words  or  quarrelling  are  considered  as  unlawful.  The
 Greenlandish  language  is  therefore  devoid  of  any  real
-words  for  scolding.  The  general  mode  of  uttering  annoy-
-ance at  an  offence  is  by  silence  ; w'hereas  the  slightest
+words  for  scolding.  The  general  mode  of  uttering  annoyance at  an  offence  is  by  silence  ; w'hereas  the  slightest
 harshness  in  speaking,  even  to  younger  or  subordinate
 persons,  is  considered  as  an  offence  in  so  far  that  it  may
 give  rise  to  violent  quarrels  and  ruptures.
@@ -2304,19 +2009,15 @@ give  rise  to  violent  quarrels  and  ruptures.
 In  what  has  now  been  said,  as  in  general,  we  have
 mainly  had  in  view  the  Greenlanders  under  ordinary
 conditions.  We  have,  however,  also  noted,  that  the  rules
-of  property  were  necessarily  subjected  to  several  modi-
-fications, according  to  the  size  of  the  houses,  the  hamlets,
-and  other  local  circumstances.  Where  among  the  west-
-ern Eskimo  one  place  is  said  to  contain  50  houses  and
-300  inhabitants,  the  housemates  here  must  have  repre-
-sented the  family  as  well,  and  the  population  have  been
+of  property  were  necessarily  subjected  to  several  modifications, according  to  the  size  of  the  houses,  the  hamlets,
+and  other  local  circumstances.  Where  among  the  western Eskimo  one  place  is  said  to  contain  50  houses  and
+300  inhabitants,  the  housemates  here  must  have  represented the  family  as  well,  and  the  population  have  been
 too  numerous  to  allow  of  any  general  distribution  of
 flesh  and  blubber  during  the  winter.  In  such  cases  it
 would  be  reasonable  to  suppose  that  the  inmates  of
 a certain  number  of  houses  were  united,  and  made  a
 community  by  themselves,  like  that  of  a whole  hamlet
-in  Greenland.  Nobody  being  able  to  acquire  and  ac-
-cumulate property  beyond  certain  limits,  and  the  state
+in  Greenland.  Nobody  being  able  to  acquire  and  accumulate property  beyond  certain  limits,  and  the  state
 and  conditions  of  the  different  households  being  all
 alike  even  there,  the  principles  of  social  institutions
 among  the  western  Eskimo  can  hardly  be  supposed
@@ -2332,9 +2033,6 @@ delinquent,  public  opinion  formed  the  judgment-seat,
 SOCIAL  ORDER,  CUSTOMS,  AND  LAWS.
 
 
-33
-
-
 the  general  punishment  consisting  in  the  offenders
 being  shamed  in  the  eye  of  the  people  ; and  the  only
 regular  courts  were  the  public  meetings  or  parties,  which
@@ -2347,21 +2045,16 @@ occurred  when  the  men  returned  from  their  seal-hunt
 and  invited  each  other  to  partake  of  whatever  they  had
 brought  home.  The  men  alone  partook  of  those  meals,
 the  females  getting  their  share  afterwards.  During
-these  meals  the  events  of  the  day  were  told  and  com-
-mented on,  several  matters  of  common  interest  discussed,
-and  the  bad  behaviour,  or  perhaps  vices,  of  some  in-
-dividuals censured  and  blamed.
+these  meals  the  events  of  the  day  were  told  and  commented on,  several  matters  of  common  interest  discussed,
+and  the  bad  behaviour,  or  perhaps  vices,  of  some  individuals censured  and  blamed.
 
-The  other  kind  of  'meetings  consisted  of  the  real  festi-
-vals, which  were  most  commonly  held  in  the  middle  of
+The  other  kind  of  'meetings  consisted  of  the  real  festivals, which  were  most  commonly  held  in  the  middle  of
 the  winter;  though  they  also  took  place  during  summer,
 when,  of  course,  the  guests  could  be  more  numerous.
 Besides  eating  and  talking,  the  principal  entertainments
 on  those  occasions  consisted  in  (i)  different  games  and
-matches  of  strength  and  agility  ; (2)  singing  and  drum-
-playing, with  dancing  and  declamation ; (3)  satirical
-songs,  or  nith-songs,  which,  properly  speaking,  repre-
-sented the  court  of  justice.
+matches  of  strength  and  agility  ; (2)  singing  and  drumplaying, with  dancing  and  declamation ; (3)  satirical
+songs,  or  nith-songs,  which,  properly  speaking,  represented the  court  of  justice.
 
 Playing  at  ball  was  the  favourite  game,  and  managed
 in  two  different  ways, — either  by  throwing  the  ball  from
@@ -2378,19 +2071,12 @@ games.
 C
 
 
-34
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 The  songs  and  declamations  were  at  times  performed
 in  the  open  air,  but  generally  at  the  feast,  immediately
 after  the  meal,  and  by  the  men  alternately.  The  singer
 stood  forth  on  the  floor  with  his  drum — a ring  \]/2  foot  in
 diameter  with  a skin  stretched  on  it — beating  it  with  a
-stick  in  accompaniment  to  his  song,  adding  gesticula-
-tions, and  dancing  at  intervals.  The  nith-songs  just
+stick  in  accompaniment  to  his  song,  adding  gesticulations, and  dancing  at  intervals.  The  nith-songs  just
 mentioned  were  of  a peculiar  kind,  used  for  settling  all
 kinds  of  quarrels,  and  punishing  any  sort  of  crime,  or
 breach  of  public  order  or  custom,  with  the  exception
@@ -2398,35 +2084,27 @@ of  those  which  could  only  be  expiated  by  death,  in  the
 shape  of  the  blood-revenge.  If  a person  had  a complaint
 against  another,  he  forthwith  composed  a song  about  it,
 and  invited  his  opponent  to  meet  him,  announcing  the
-time  and  place  where  he  would  sing  against  him.  Gen-
-erally, and  always  in  cases  of  importance,  both  sides
+time  and  place  where  he  would  sing  against  him.  Generally, and  always  in  cases  of  importance,  both  sides
 had  their  assistants,  who,  having  prepared  themselves  for
-this  task,  could  act  their  parts  if  their  principals  hap-
-pened to  be  exhausted.  These  songs  also  were  accom-
+this  task,  could  act  their  parts  if  their  principals  happened to  be  exhausted.  These  songs  also  were  accom-
 panied by  drum-playing  and  dancing.  The  cheering  or
-dissent  of  the  assembly  at  once  represented  the  judg-
-ment as  well  as  the  punishment.
+dissent  of  the  assembly  at  once  represented  the  judgment as  well  as  the  punishment.
 
 As  regards  real  crimes,  those  in  violation  of  the  rights
 of  property,  as  a matter  of  course,  can  only  have  been
 trifling  ; on  the  other  hand,  the  passions  of  the  people
 tending  to  ambition,  domineering,  or  the  mere  fancy  for
-making  themselves  feared,  sometimes  gave  rise  to  vio-
-lence and  murder.  The  practice  of  witchcraft  must  also
+making  themselves  feared,  sometimes  gave  rise  to  violence and  murder.  The  practice  of  witchcraft  must  also
 be  ranked  among  this  class — those  who  believed,  or  even
 confessed  themselves  able  to  practise  it,  being  stimulated
 by  almost  the  same  passions,  and  punished  in  the  same
-way  if  suspected.  When  the  witches,  on  being  threat-
-ened with  death,  did  not  deny  their  guilt,  the  only
+way  if  suspected.  When  the  witches,  on  being  threatened with  death,  did  not  deny  their  guilt,  the  only
 passion  which  can  have  incited  them  seems  to  have  been
 a kind  of  ambition  ; and  this  is  quite  in  accordance  with
 the  angakoks  being  their  principal  adversaries,  de-
 
 
 RELIGION.
-
-
-35
 
 
 nouncing  them,  and  inflicting  punishment  upon  them.
@@ -2441,14 +2119,12 @@ whom  he  had  killed.  Capital  punishment,  as  the
 result  of  deliberation  and  decree,  was  inflicted  upon
 witches,  and  upon  such  individuals  as  were  obviously
 dangerous  to  the  whole  community,  or  at  least  suspected
-of  being  so.  Lastly,  some  cases  of  manslaughter  oc-
-curred which  were  considered  neither  decidedly  admis-
+of  being  so.  Lastly,  some  cases  of  manslaughter  occurred which  were  considered  neither  decidedly  admis-
 sible nor  altogether  unlawful.  These  were  as  follow :
 The  killing  of  an  infant  that,  from  the  loss  of  its  mother,
 would  be  liable  to  die  from  starvation  ; the  killing  of
 insane  persons  ; threatening  the  life  of  the  housemates  ;
-and  lastly,  the  continued  blood  - revenge  or  this  re-
-venge carried  out  on  some  kindred  or  place-fellow  of
+and  lastly,  the  continued  blood  - revenge  or  this  revenge carried  out  on  some  kindred  or  place-fellow  of
 the  murderer.
 
 
@@ -2457,19 +2133,12 @@ IV. — Religion.
 The  following  account  of  the  religious  belief  of  the
 Eskimo  is  principally  founded  upon  the  traditions — the
 author  having  made  inquiries  among  the  natives  as  to
-all  that  appeared  doubtful  and  obscure,  and  lastly,  com-
-pleting this  information  with  the  help  of  the  oldest
+all  that  appeared  doubtful  and  obscure,  and  lastly,  completing this  information  with  the  help  of  the  oldest
 authors.  The  whole  information  thus  brought  together
 has  been  divided  and  arranged  with  a view  to  making  it
 as  convenient  and  intelligible  to  the  reader  as  possible  :
 a more  complete  understanding  of  several  portions  of  it
 must  be  sought  in  the  tales  themselves.
-
-
-36
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 i.  General  Ideas  concerning  the  Existence  of  the  World,
@@ -2484,8 +2153,7 @@ speculations  have  been,  in  respect  to  other  nations,  also
 the  product  of  a later  stage  of  culture.  Existence  in
 general  is  accepted  as  a fact,  without  any  speculation
 as  to  its  primitive  origin.  Only  the  still  acting  powers
-concealed  in  nature,  and  to  which  human  life  is  sub-
-ordinated, are  taken  into  consideration.
+concealed  in  nature,  and  to  which  human  life  is  subordinated, are  taken  into  consideration.
 
 Men,  as  well  as  animals,  have  both  soul  and  body.
 The  soul  performs  the  breathing,  with  which  it  is  closely
@@ -2515,9 +2183,6 @@ be  partial — viz.,  that  some  parts  of  the  soul  of  a de-
 RELIGION.
 
 
-37
-
-
 ceased  person  may  pass  into  another  man  and  cause  in
 him  a likeness  to  the  first.
 
@@ -2536,8 +2201,7 @@ of  certain  mountains  or  lakes,  of  strength,  of  eating.
 The  appellation,  therefore,  quite  corresponds  to  what
 other  nations  have  understood  by  such  expressions  as
 spirits,  or  inferior  deities.  An  owner  or  ruler  conveys
-the  idea  of  a person  or  soul,  but  it  appears  not  neces-
-sarily that  of  a body.  The  soul  of  the  dead  seems  to
+the  idea  of  a person  or  soul,  but  it  appears  not  necessarily that  of  a body.  The  soul  of  the  dead  seems  to
 have  been  considered  as  the  inua  of  the  bodily  remains.
 
 The  earth,  with  the  sea  supported  by  it,  rests  upon
@@ -2554,20 +2218,12 @@ preferred,  as  being  warm  and  rich  in  food.  There  are
 the  dwellings  of  the  happy  dead  called  arsissut  —
 viz.,  those  who  live  in  abundance.  On  the  contrary,
 those  who  go  to  the  upper  world  will  suffer  from  cold
-and  famine  ; and  these  are  called  the  arssartut,  or  ball-
-players, on  account  of  their  playing  at  ball  with  a walrus-
+and  famine  ; and  these  are  called  the  arssartut,  or  ballplayers, on  account  of  their  playing  at  ball  with  a walrus-
 head,  which  gives  rise  to  the  aurora  borealis,  or  Northern
 
 
-33
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 lights.  Further,  the  upper  world  must  be  considered  a
-continuation  of  the  earth  in  the  direction  of  height,  al-
-though those  individuals,  or  at  least  those  souls  tem-
+continuation  of  the  earth  in  the  direction  of  height,  although those  individuals,  or  at  least  those  souls  tem-
 porarily delivered  from  the  body,  that  are  said  to  have
 visited  it,  for  the  most  part  passed  through  the  air.  The
 upper  world,  it  would  seem,  may  be  considered  identical
@@ -2581,15 +2237,13 @@ ocean,  where  the  sky  comes  down  to  meet  it.
 The  invisible  rulers  by  which  the  earth  is  governed
 can  scarely  be  imagined  without  regarding  them  in  some
 relation  of  dependency  one  on  another.  Inasmuch  as
-we  are  allowed  to  consider  almost  every  spot  or  sup-
-posed object  a special  dominion  with  its  special  inua
+we  are  allowed  to  consider  almost  every  spot  or  supposed object  a special  dominion  with  its  special  inua
 ruling  within  certain  limits,  we  might  also  be  led  to
 imagine  several  of  those  dominions  as  united,  and
 made  subordinate  to  one  common  ruler,  by  which
 means  we  would  have  a general  government  of  the
 world  under  one  supreme  head  ready  organised.  The
-mythology  of  the  Greenlanders,  however,  does  not  con-
-tain any  direct  doctrine  with  such  a tendency.  Very
+mythology  of  the  Greenlanders,  however,  does  not  contain any  direct  doctrine  with  such  a tendency.  Very
 scanty  traces  also  have  been  found  of  any  attempts
 towards  explaining  the  origin  of  the  world,  as  well  as  of
 things  existing  and  their  qualities,  as,  e.g.,  regarding
@@ -2608,11 +2262,7 @@ but  have  probably  involuntarily  acted  upon  the  latter  by
 RELIGION.
 
 
-39
-
-
-their  prepossessed  mode  of  questioning.  Still,  on  look-
-ing at  the  whole  religious  views  of  the  natives,  they  do
+their  prepossessed  mode  of  questioning.  Still,  on  looking at  the  whole  religious  views  of  the  natives,  they  do
 seem  to  presuppose  a single  power  by  which  the  world
 is  ruled.  Certain  means  were  believed  to  exist  by  which
 man  was  not  only  enabled  to  enter  into  communion
@@ -2620,8 +2270,7 @@ with  the  invisible  rulers,  but  could  also  make  them  his
 helpers  and  servants.  Such  supernatural  assistance
 might  be  acquired  in  a more  or  less  direct  way — viz.,
 either  through  men  endowed  with  the  peculiar  gift  called
-angakoonek  (cor.  spelling  ang&kuneK,  signifying  angakok-
-zvisdom  or  -power,  or  the  state  of  being  angakok).  But
+angakoonek  (cor.  spelling  ang&kuneK,  signifying  angakokzvisdom  or  -power,  or  the  state  of  being  angakok).  But
 these  men  only  acquired  this  gift  by  applying  to  and
 calling  on  a yet  more  exalted  power,  which  made  these
 rulers  become  their  helping  or  guardian  spirits,  or  tornat
@@ -2631,36 +2280,23 @@ will  of  all  the  minor  powers,  forcing  them  to  serve  the
 angakut,  and  in  the  same  degree  making  the  whole
 nature  subordinate  to  mankind,  some  idea  surely  of  the
 godhead  must  be  connected  with  him.  It  also  seems  to
-have  been  ascertained  that  the  Greenlanders  have  ima-
-gined him  as  having  his  abode  in  company  with  the
+have  been  ascertained  that  the  Greenlanders  have  imagined him  as  having  his  abode  in  company  with  the
 happy  deceased  in  the  under  world ; but  to  this  vague
 belief  the  whole  doctrine  concerning  his  existence  seems
 to  have  been  limited.  The  early  authors  on  Greenland,
-indeed,  have  given  utterance  to  different  opinions  con-
-cerning tornarsuk  which  they  have  gathered  from  the
+indeed,  have  given  utterance  to  different  opinions  concerning tornarsuk  which  they  have  gathered  from  the
 natives,  some  of  them  representing  him  as  the  size  of  a
-finger,  others  of  a bear,  and  so  on  ; but  all  these  state-
-ments seem  to  rest  upon  error  and  superficial  inquiry.
-As  far  as  the  traditions  are  concerned,  the  name  of  tor-
-narsuk is  very  rarely  mentioned  in  any  of  them.
+finger,  others  of  a bear,  and  so  on  ; but  all  these  statements seem  to  rest  upon  error  and  superficial  inquiry.
+As  far  as  the  traditions  are  concerned,  the  name  of  tornarsuk is  very  rarely  mentioned  in  any  of  them.
 
-Among  the  supernatural  powers  was  another  consti-
-tuting the  source  of  nourishment,  supplying  the  physical
+Among  the  supernatural  powers  was  another  constituting the  source  of  nourishment,  supplying  the  physical
 wants  of  mankind.  These  being  almost  exclusively  got
 from  the  sea,  we  cannot  wonder  that  this  power  had  its
 abode  in  the  depths  of  the  ocean  ; and  its  being  repre-
 
 
-40
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
-sented  as  a female  is  probably  emblematical  of  the  con-
-tinual regeneration  of  life  in  nature,  as  well  as  of  economy
-and  household  management,  generally  devolving  on  wo-
-men. This  being  is  named  arnarkuagsak  (cor.  sp.  arnar-
+sented  as  a female  is  probably  emblematical  of  the  continual regeneration  of  life  in  nature,  as  well  as  of  economy
+and  household  management,  generally  devolving  on  women. This  being  is  named  arnarkuagsak  (cor.  sp.  arnar-
 Kuagss&K:,  also  signifying  old  woman  in  general)  ; but  the
 common  opinion  among  the  older  authors,  describing
 her  as  a demon  of  evil,  is  quite  erroneous.  She  sits  in
@@ -2682,25 +2318,19 @@ constantly  turning  round  as  slippery  as  ice  ; and  then
 having  safely  got  past  a boiling  kettle  with  seals  in  it,
 he  arrived  at  the  house,  in  front  of  which  a watch  was
 kept  by  terrible  animals,  sometimes  described  as  seals,
-sometimes  as  dogs  ; and  lastly,  within  the  house-pass-
-age itself  he  had  to  cross  an  abyss  by  means  of  a bridge
+sometimes  as  dogs  ; and  lastly,  within  the  house-passage itself  he  had  to  cross  an  abyss  by  means  of  a bridge
 as  narrow  as  a knife’s  edge.
 
 According  to  the  religious  notions  just  given,  there
 must  have  existed  a generally  established  belief  in  the
 presence  of  some  ruling  power  to  which  mankind  and
 nature  were  alike  subjected,  as  well  as  in  certain  modes
-of  obtaining  assistance  from  this  power.  This  supernat-
-ural aid,  as  well  as  all  the  actions  of  men  with  a view
+of  obtaining  assistance  from  this  power.  This  supernatural aid,  as  well  as  all  the  actions  of  men  with  a view
 to  call  it  forth,  were  in  social  estimation  considered
-as  being  good  and  proper.  But  besides  this,  there  ex-
-isted another  supernatural  influence,  which  was  wholly
+as  being  good  and  proper.  But  besides  this,  there  existed another  supernatural  influence,  which  was  wholly
 
 
 RELIGION.
-
-
-41
 
 
 opposed  to  that  which  had  its  source  from  tornarsuk  ;
@@ -2709,8 +2339,7 @@ from  mouth  to  mouth  by  people  not  acknowledged  or
 authorised  by  the  community.  It  was  always  invoked
 in  secret,  and  always  with  the  object  of  injuring  others,
 and  wholly  in  favour  of  the  practiser.  This  art  was
-called  kusuinek  or  iliseenek  (cor.  sp.  ilisinex),  corre-
-sponding very  exactly  to  witchcraft , and  representing
+called  kusuinek  or  iliseenek  (cor.  sp.  ilisinex),  corresponding very  exactly  to  witchcraft , and  representing
 the  worst  form  of  evil,  both  with  regard  to  the  help
 obtained  and  the  means  of  procuring  it.  The  essence
 of  it  was  selfishness  in  the  narrowest  sense,  being  alike
@@ -2720,42 +2349,28 @@ believed.  When  we  look  at  these  ideas,  as  very  strongly
 discerned  and  maintained  by  the  Greenlanders,  certain
 opinions  not  unfrequently  professed  by  authors  as  to
 the  religious  creeds  of  the  more  primitive  nations  are
-shown  to  be  utterly  erroneous, — viz.,  first  as  regards  con-
-founding the  practice  of  witchcraft  with  their  calling  to
-their  aid  supernatural  powers,  authorised  and  acknow-
-ledged by  their  religious  beliefs ; and  secondly,  the
-maintaining  that  those  nations  on  a lower  stage  of  civil-
-isation were  wholly  without  any  conception  of  moral
+shown  to  be  utterly  erroneous, — viz.,  first  as  regards  confounding the  practice  of  witchcraft  with  their  calling  to
+their  aid  supernatural  powers,  authorised  and  acknowledged by  their  religious  beliefs ; and  secondly,  the
+maintaining  that  those  nations  on  a lower  stage  of  civilisation were  wholly  without  any  conception  of  moral
 good  and  evil,  and  limited  their  regards  to  physical  evil.
 
 In  the  practice  of  iliseenek,  or  witchcraft,  a power  was
 applied  to  which  was  superior  to  mankind  ; and  we  might
 thus  be  led  to  suppose  that  this  power  represented  an  evil
 being  or  ruler  in  opposition  to  tornarsuk.  Some  mystical
-tradition  is  related  by  Egede,  mentioning  two  men  en-
-gaged in  dispute,  one  desiring  man  to  be  subjected  to
-death,  and  the  other  insisting  upon  his  becoming  immor-
-tal. The  words  spoken  by  them  may  perhaps  be  con-
+tradition  is  related  by  Egede,  mentioning  two  men  engaged in  dispute,  one  desiring  man  to  be  subjected  to
+death,  and  the  other  insisting  upon  his  becoming  immortal. The  words  spoken  by  them  may  perhaps  be  con-
 sidered as  magic  spells,  and  the  one  of  them  is  represented
 as  having  made  death  enter  into  the  world.  This  legend
 is  rather  obscure,  both  with  regard  to  its  authenticity
-and  its  meaning ; but  the  idea  of  death  was  closely  con-
-nected with  that  of  witchcraft,  this  latter  always  more
-
-
-42
-
-
-SKETCH  OF  THE  ESKIMO.
+and  its  meaning ; but  the  idea  of  death  was  closely  connected with  that  of  witchcraft,  this  latter  always  more
 
 
 or  less  having  death  for  its  aim.  Sickness  or  death
 coming  about  in  an  unexpected  manner  was  always
-ascribed  to  witchcraft ; and  it  remains  a question  whe-
-ther death  on  the  whole  was  not  originally  accounted
+ascribed  to  witchcraft ; and  it  remains  a question  whether death  on  the  whole  was  not  originally  accounted
 for  as  resulting  from  it.  The  fact  that  witches  were
-punished  as  transgressors  of  human  laws,  and  were  per-
-secuted by  the  angakut,  makes  it  possible  that  they  re-
+punished  as  transgressors  of  human  laws,  and  were  persecuted by  the  angakut,  makes  it  possible  that  they  re-
 present the  last  remains  of  a still  more  primitive  faith,
 which  prevailed  before  the  angakut  sprang  up  and
 made  themselves  acknowledged  as  the  only  mediators
@@ -2767,13 +2382,10 @@ on  the  conditions  of  human  life.  Traces  of  the  same
 belief  were  perhaps  also  preserved  among  the  people  in
 the  shape  of  some  slight  acquaintance  with  the  medical
 art,  and  superstitions  regarding  amulets,  the  knowledge
-of  which  was  likewise  peculiar  to  women.  And  allow-
-ing this  supposition,  we  shall  find  the  most  striking  an-
-alogy between  the  persecution  of  witches  by  the  anga-
-kut and  the  persecution  of  the  angakut  by  the  Christian
+of  which  was  likewise  peculiar  to  women.  And  allowing this  supposition,  we  shall  find  the  most  striking  an-
+alogy between  the  persecution  of  witches  by  the  angakut and  the  persecution  of  the  angakut  by  the  Christian
 settlers,  with  this  exception,  that  the  Christian  faith
-exhibits  a personification  of  the  evil  principle  which  en-
-abled the  missionaries  to  vanquish  for  ever  the  autho-
+exhibits  a personification  of  the  evil  principle  which  enabled the  missionaries  to  vanquish  for  ever  the  autho-
 rity of  tornarsuk  as  the  supreme  ruler  and  source  of
 benefits,  by  transforming  him  into  the  Christian  devil,
 who  for  this  reason  henceforth  was  termed  tornarsuk.
@@ -2792,9 +2404,6 @@ had  died  in  child-birth,  went  to  the  world  below.  At
 RELIGION.
 
 
-43
-
-
 the  same  time,  some  tales  seem  to  hint  at  a belief  that
 the  manner  in  which  the  body  of  the  deceased  is  treated
 by  the  survivors  influences  the  condition  of  his  soul.
@@ -2810,13 +2419,10 @@ By  supernatural  we  understand  such  agencies  as  do
 not  work  according  to  the  usual  laws  of  nature,  and
 accomplish  their  deeds  in  a manner  imperceptible  to
 the  common  organs  of  sense,  except  in  a few  rare
-instances,  but  only  manifest  themselves  to  certain  in-
-dividuals peculiarly  gifted,  or  in  some  cases  to  animals,
-also  endowed  with  a peculiar  sense.  This  sense  is  gene-
-rally called  nalussaerunek,  and  the  individual  possessing
+instances,  but  only  manifest  themselves  to  certain  individuals peculiarly  gifted,  or  in  some  cases  to  animals,
+also  endowed  with  a peculiar  sense.  This  sense  is  generally called  nalussaerunek,  and  the  individual  possessing
 it  nalussaerutok,  signifying,  “ not  being  unconscious  of
-anything,”  consequently  nearly  the  same  as  clairvoy-
-ant. Such  agencies  may  be  divided  into  those  which
+anything,”  consequently  nearly  the  same  as  clairvoyant. Such  agencies  may  be  divided  into  those  which
 are  performed  by  the  inue  (plural  of  inua)  of  nature  in
 general,  and  those  belonging  to  witchcraft.
 
@@ -2836,17 +2442,10 @@ body).  Heavy  grief  often  produced  a state  of  mind
 called  suiiarKineK,  in  which  the  sufferer  deliberately
 
 
-44
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 went  out  in  search  of  horrors  and  dangers,  in  order  to
 deafen  grief  by  means  of  excitement .
 
-Although  all  the  supernatural  rulers  may  be  con-
-sidered as  the  inue  each  of  their  special  domains,  they
+Although  all  the  supernatural  rulers  may  be  considered as  the  inue  each  of  their  special  domains,  they
 also  lead  an  independent  existence  as  individual  beings
 wholly  apart  from  these.  In  the  first  place,  it  is  possible
 even  for  man,  and  in  certain  cases  animals,  to  practise  a
@@ -2862,8 +2461,7 @@ persons  or  people  in  a peculiar  state  of  existence
 are  even  in  life  endowed  with  superhuman  properties.
 Individuals  belonging  to  this  class  in  general  are
 commonly  called  im&inaK  ingitsut,  which  signifies,  who
-are  not  only  such, — meaning,  as  others ; or,  not  of  com-
-mon kind.  The  dead  man  is  considered  as  the  inua  of
+are  not  only  such, — meaning,  as  others ; or,  not  of  common kind.  The  dead  man  is  considered  as  the  inua  of
 his  grave,  and  of  the  personal  properties  he  left.  It
 is  no  doubt  for  this  reason  that  things  belonging  to
 absent  persons  can  by  certain  signs  announce  the  death
@@ -2875,26 +2473,19 @@ in  the  ears  (aviuiartorneK),  by  which  performance  he
 simply  asks  for  food  ; and  generally  when  singing  in
 the  ear  is  perceived,  it  is  the  custom  to  say:  “Take  as
 thou  likest  ” — viz.,  of  my  stores.  But  more  dangerous
-are  the  ghosts  that  appear  in  a true  bodily  shape,  espe-
-cially those  of  delirious  people  and  of  angakut.  The
-deceased  must  also  be  considered  fully  able  to  recom-
-pense the  benefits  bestowed  upon  them  during  their
-lifetime,  being  a kind  of  guardian  spirits  to  their  chil-
-dren and  grandchildren,  especially  to  those  who  are
+are  the  ghosts  that  appear  in  a true  bodily  shape,  especially those  of  delirious  people  and  of  angakut.  The
+deceased  must  also  be  considered  fully  able  to  recompense the  benefits  bestowed  upon  them  during  their
+lifetime,  being  a kind  of  guardian  spirits  to  their  children and  grandchildren,  especially  to  those  who  are
 
 
 RELIGION.
-
-
-45
 
 
 named  after  them.  But  a slain  man  is  said  to  have
 power  to  avenge  himself  upon  the  murderer  by  rushing
 into  him,  which  can  only  be  prevented  by  eating  a piece
 of  his  liver.  Danger  is  more  or  less  connected  with
-everything  appertaining  to,  or  having  been  in  any  con-
-tact with,  dead  bodies,  or  used  at  funerals,  the  invisible
+everything  appertaining  to,  or  having  been  in  any  contact with,  dead  bodies,  or  used  at  funerals,  the  invisible
 rulers  in  some  cases  being  apt  to  take  offence,  or  have
 smoke  or  fog  of  it — viz.,  causing  bad  weather  and  bad
 hunting  on  this  account.
@@ -2905,23 +2496,19 @@ A kivigtok  (correct  spelling,  Kivigtos),  or  a man  who
 fled  mankind  and  led  a solitary  life  alone  with  nature,
 generally  in  the  interior  of  the  country,  obtained  an
 enormous  agility,  and  became  nalussaerutok,  learned  to
-understand  the  speech  of  animals,  and  acquired  informa-
-tion about  the  state  of  the  world-pillars.  The  reasons
+understand  the  speech  of  animals,  and  acquired  information about  the  state  of  the  world-pillars.  The  reasons
 which  led  men  to  become  kivigtok,  were  being  unjustly
-treated,  or  being  merely  scolded  by  kindred  or  house-
-mates, who  in  this  case  were  always  in  danger  of  ven-
+treated,  or  being  merely  scolded  by  kindred  or  housemates, who  in  this  case  were  always  in  danger  of  ven-
 geance from  the  hand  of  the  fugitive.
 
-An  anghiak  (correct  spelling,  &ngiaK)  was  an  abor-
-tion, or  a child  born  under  concealment,  which  became
+An  anghiak  (correct  spelling,  &ngiaK)  was  an  abortion, or  a child  born  under  concealment,  which  became
 transformed  into  an  evil  spirit,  purposely  to  revenge
 himself  upon  his  relatives.  Akin  to  the  anghiak  were
 those  who,  either  when  new-born  or  at  a maturer  age,
 were  converted  into  monsters,  devouring  their  former
 housemates.
 
-An  angherdlartugsiak  (correct  spelling,  angerdlartug-
-sian)  was  a man  brought  up  in  a peculiar  manner,  with
+An  angherdlartugsiak  (correct  spelling,  angerdlartugsian)  was  a man  brought  up  in  a peculiar  manner,  with
 a view  to  acquiring  a certain  faculty,  by  means  of  which
 he  might  be  called  to  life  again  and  returned  to  land
 in  case  he  should  ever  be  drowned  while  kayaking  (also
@@ -2930,12 +2517,6 @@ to  keep  a strict  fast,  and  the  child  to  be  accustomed  to
 the  smell  of  urine,  and  be  taught  never  to  hurt  a dog.
 Lastly,  when  placing  him  in  the  kayak  for  exercise,  the
 father  mumbled  a prayer,  beseeching  his  deceased
-
-
-46
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 parents  or  grandparents  to  take  the  child  under  their
@@ -2948,8 +2529,7 @@ speaking,  or  in  the  shape  of  men,  this  is  not  always  to
 be  understood  as  analogous  to  fable.  Partly  it  is  in  the
 power  of  beasts  to  show  themselves  in  a supernatural
 shape,  partly  they  may  appear  as  ghosts,  or  in  some
-state  akin  to  that.  Probably  they  must  also  be  con-
-sidered as  the  inue  of  their  own  kind,  having  the  power
+state  akin  to  that.  Probably  they  must  also  be  considered as  the  inue  of  their  own  kind,  having  the  power
 of  avenging  their  destruction.  The  so-called  7imiarissat
 (plural  of  umiariaK)  is  a supernatural  “ umiak,”  or
 women’s  boat  and  its  crew,  who  are,  in  some  cases  at
@@ -2962,8 +2542,7 @@ The  ingncrsuit  (plural  of  ingnerssuaK,  properly,  great
 fire)  have  their  abodes  beneath  the  surface  of  the  earth,
 in  the  cliffs  along  the  sea-shore,  where  the  ordinarily
 invisible  entrances  to  them  are  found.  They  have  also
-been  noticed  entering  through  mounds  of  turf.  Pro-
-bably these  abodes  have  some  connection  with  the  real
+been  noticed  entering  through  mounds  of  turf.  Probably these  abodes  have  some  connection  with  the  real
 under  world  itself.  They  are  divided  into  two  classes,
 the  upper  and  the  lower  ingnersuit.  The  former,  called
 mej's?igkat  or  kutdlit,  are  benevolent  spirits,  protecting
@@ -2983,13 +2562,9 @@ them  in  painful  captivity.
 RELIGION.
 
 
-47
-
-
 The  kayarissat  (plural  of  Kajariax)  are  kayakmen  of
 an  extraordinary'  size,  who  always  seem  to  be  met  with
-at  a distance  from  land  beyond  the  usual  hunting-
-grounds.  Theyr  were  skilled  in  different  arts  of  sorcery',
+at  a distance  from  land  beyond  the  usual  huntinggrounds.  Theyr  were  skilled  in  different  arts  of  sorcery',
 particularly  in  the  way  of  raising  storms  and  bringing
 bad  weather.  Like  the  umiarissat,  they  use  one-bladed
 paddles,  like  those  of  the  Indians.  Pieces  of  bark  from
@@ -3032,25 +2607,17 @@ their  lower  limbs.
 The  inuarutligkat  (plural  of  inuarutdligae)  are  a kind
 
 
-48
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 of  dwarf,  possessing  a shooting-weapon,  with  which
 they  are  able  to  kill  a creature  by  merely  aiming  or
 pointing  at  it.
 
-Among  the  inlanders  are  also  to  be  included  the  tar-
-rayarsuit,  or  shadows,  and  the  narrayout,  or  big-bellies.
+Among  the  inlanders  are  also  to  be  included  the  tarrayarsuit,  or  shadows,  and  the  narrayout,  or  big-bellies.
 Several  monsters  reside  at  the  bottom  of  lakes  and
 inside  certain  rocks,  and  are  named  the  inue  of  these
 places.  Among  these  are  to  be  ranked  the  amarsiniook
 and  the  kuinasarinook,  referred  to  in  the  tales.
 
-The  amarok,  which  in  other  Eskimo  countries  signi-
-fies a wolf,  in  Greenland  represents  a fabulous  animal  of
+The  amarok,  which  in  other  Eskimo  countries  signifies a wolf,  in  Greenland  represents  a fabulous  animal  of
 enormous  size,  also  repeatedly  referred  to  in  the  tales.
 
 The  kiliopak,  also  called  kukoriax,  kukiopag&K,  ataliK,
@@ -3066,8 +2633,7 @@ hares,  and  birds,  and  the  ice-covered  bears.
 
 The  upper  world  is  also  inhabited  by  several  rulers
 besides  the  souls  of  the  deceased.  Among  these  are
-the  owners  or  inhabitants  of  celestial  bodies,  who,  hav-
-ing once  been  men,  were  removed  in  their  lifetime  from
+the  owners  or  inhabitants  of  celestial  bodies,  who,  having once  been  men,  were  removed  in  their  lifetime  from
 the  earth,  but  are  still  attached  to  it  in  different  ways,
 and  pay  occasional  visits  to  it.  They  have  also  been
 represented  as  the  celestial  bodies  themselves,  and  not
@@ -3077,8 +2643,7 @@ Aningaut,  and  the  inua  of  the  sun  was  his  sister,  a
 woman  beautiful  in  front,  but  like  a skeleton  at  her
 back.  The  moon  is  principally  referred  to  in  the  tales.
 
-The  erdlaveersissok — viz.,  the  entrail-seizer — is  a wo-
-man residing  on  the  way  to  the  moon,  who  takes  out
+The  erdlaveersissok — viz.,  the  entrail-seizer — is  a woman residing  on  the  way  to  the  moon,  who  takes  out
 the  entrails  of  every  person  whom  she  can  tempt  to
 laughter.
 
@@ -3086,9 +2651,6 @@ The  siagtut,  or  the  three  stars  in  Orion’s  belt,  were
 
 
 RELIGION.
-
-
-49
 
 
 men  who  were  lost  in  going  out  to  hunt  on  the  ice
@@ -3106,8 +2668,7 @@ he  who  lays  down  the  rules  for  abstinence.
 
 The  practice  of  witchcraft  has  already  been  explained
 in  the  preceding  pages  as  representing  the  principal
-source  from  which  all  the  evils  to  which  mankind  is  sub-
-ject have  their  origin — viz.,  death,  and  what  will  more  or
+source  from  which  all  the  evils  to  which  mankind  is  subject have  their  origin — viz.,  death,  and  what  will  more  or
 less  immediately  lead  to  death,  as  sickness  and  famine.
 Generally,  it  is  called  kusuinek,  and  its  performance  may
 be  limited  to  a single  act ; but  those  who  have  practised
@@ -3118,8 +2679,7 @@ mankind.  Witches,  however,  in  part  acquired  the
 powers  of  these — their  souls  being  able  to  leave  the
 body,  and  to  approach  those  whom  they  intended  to
 injure  without  being  visible  to  any  but  the  nalussaerutut
-or  clairvoyants,  to  whom  the  witches  themselves  ap-
-peared as  breathing  fire,  and  with  their  hands  and  the
+or  clairvoyants,  to  whom  the  witches  themselves  appeared as  breathing  fire,  and  with  their  hands  and  the
 lower  parts  of  their  arm  blackened.
 
 In  practising  witchcraft  some  magic  words  were
@@ -3127,21 +2687,17 @@ spoken,  but  it  remains  uncertain  if  words  were  thought
 necessary  in  every  case,  or  if  words  alone  sufficed  ; and
 lastly,  whether  witches  were  able  to  work  their  wicked
 ends  by  merely  touching.  Generally,  different  materials
-were  considered  necessary  for  the  performance  of  sor-
-cery, such  as  (1)  parts  of  human  bodies,  or  objects  that
+were  considered  necessary  for  the  performance  of  sorcery, such  as  (1)  parts  of  human  bodies,  or  objects  that
 had  been  in  some  way  connected  with  dead  bodies,  as
 if  some  remnant  of  that  power  which  had  caused  death
 
 D
 
 
-50  SKETCH  OF  THE  ESKIMO.
-
 still  attached  to  them.  (2)  Worms  and  insects,  perhaps
 on  account  of  their  apparent  annual  coming  out  of  the
 soil,  the  common  grave  of  all  that  lives  and  breathes,  or
-possibly  on  account  of  their  mysterious  nature  and  des-
-tination ; spiders  were  used  for  creating  sickness  ; and
+possibly  on  account  of  their  mysterious  nature  and  destination ; spiders  were  used  for  creating  sickness  ; and
 insects  swallowed  in  drinking  water  could  be  made  to
 eat  the  entrails,  kill  the  man,  and  reappear  from  out  his
 body  enlarged  in  size.  (3)  Parts  of  the  animals  caught
@@ -3155,20 +2711,16 @@ something.  In  all  cases  witchcraft  was  an  art  handed
 down  by  tradition,  but  taught  as  well  as  practised  in
 perfect  secrecy.
 
-3.  Of  the  Manner  in  which  Man  by  Supernatural  Assist-
-ance can  avert  Evil  and  obtain  Benefit.
+3.  Of  the  Manner  in  which  Man  by  Supernatural  Assistance can  avert  Evil  and  obtain  Benefit.
 
 Certain  agents  or  means  are  given  to  mankind  by
 which  they  are  enabled  to  avert  impending  misfortune
 and  obtain  prosperity,  in  a manner  deviating  from  the
 ordinary  lav/s  of  nature.  These  means  are  gained  by
 aid  of  a knowledge  the  highest  stage  of  which  is  called
-angakoonek.  But  an  angakok  being  not  only  able  him-
-self directly  to  procure  specially  desired  advantages,  but
-also  acting  as  the  leading  authority  in  all  matters  of  re-
-ligion, the  angakoonek  will  be  separately  treated  of
-hereafter.  The  fair  and  righteous  means  to  which  man-
-kind in  general  may  have  recourse  are  thus  to  be  con-
+angakoonek.  But  an  angakok  being  not  only  able  himself directly  to  procure  specially  desired  advantages,  but
+also  acting  as  the  leading  authority  in  all  matters  of  religion, the  angakoonek  will  be  separately  treated  of
+hereafter.  The  fair  and  righteous  means  to  which  mankind in  general  may  have  recourse  are  thus  to  be  con-
 sidered as  having  their  source  in  tornarsuk,  with  the
 angakut  as  mediators.  Their  general  aim  may  be  said
 to  be  the  counteracting  and  defeating  of  witchcraft,  at
@@ -3177,9 +2729,6 @@ of  nature,  partly  for  the  purpose  of  averting  the  danger
 
 
 RELIGION.
-
-
-51
 
 
 arising  from  these  powers,  especially  that  of  being
@@ -3198,18 +2747,14 @@ to  be  spoT:en--viz.,  prayer  and  invocation  ; the  second,
 in  the  possession  and  application  of  certain  material
 objects  called  amulets  ; and  the  third,  of  certain  actions,
 such  as  the  following  out  certain  rules  as  to  the  mode  of
-life,  sacrifices,  and  different  other  observances  for  ap-
-peasing the  ruling  powers  and  defeating  witchcraft.
+life,  sacrifices,  and  different  other  observances  for  appeasing the  ruling  powers  and  defeating  witchcraft.
 
 In  the  prayer  or  serranek,  as  far  as  we  know,  only  the
-desired  object  is  pronounced,  without  any  direct  men-
-tion being  made  of  the  fulfiller ; whereas  the  invocation
+desired  object  is  pronounced,  without  any  direct  mention being  made  of  the  fulfiller ; whereas  the  invocation
 (&ernain.eK)  is  merely  an  appeal  for  aid  to  some  special
 owner  of  power  (xernarpa,  he  invokes  him).  It  is  not
-known  whether  in  any  of  these  cases  words  of  the  pro-
-nouncer’s  own  choice  could  be  employed.  The  general
-custom,  at  all  events,  was  to  use  distinct  spells  with  pecu-
-liar tunes  belonging  to  them.  Such  a prayer  was  called
+known  whether  in  any  of  these  cases  words  of  the  pronouncer’s  own  choice  could  be  employed.  The  general
+custom,  at  all  events,  was  to  use  distinct  spells  with  peculiar tunes  belonging  to  them.  Such  a prayer  was  called
 serrat  (in  the  tales  translated  by  spell,  magic  lay,  or  song),
 and  might  have  reference  to  health,  hunting,  assistance
 against  enemies  or  dangers — in  short,  whatever  purpose
@@ -3218,40 +2763,28 @@ right  and  proper.  A serrat  was  supposed  to  have  a
 power  by  itself,  independent  of  the  person  who  happened
 to  know  or  make  use  of  it.  It  was  therefore  considered
 an  object  of  possession  and  barter  ; but  it  had  also  a
-deeper  significance,  in  so  far  as  a man  in  using  it  ap-
-plied to  a certain  power,  or  had  his  thoughts  fixed  upon
+deeper  significance,  in  so  far  as  a man  in  using  it  applied to  a certain  power,  or  had  his  thoughts  fixed  upon
 the  fulfiller  or  the  original  giver  of  the  spell,  these  per-
 
 
-52
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 sons  being  generally  identical — viz.,  the  nearest  deceased
-kindred  of  the  user.  The  serrats  were  in  some  cases  ex-
-pressly directed  to  the  invoker’s  ancestors,  and  are  also
+kindred  of  the  user.  The  serrats  were  in  some  cases  expressly directed  to  the  invoker’s  ancestors,  and  are  also
 known  to  have  been  the  hereditary  property  of  the  same
 family.  In  the  same  way,  invocations  were  generally
 addressed  to  the  souls  of  the  grandparents,  and  were
 principally  employed  as  a preventive  against  being
-frightened  to  death.  A serrat  had  to  be  originally  ac-
-quired by  a revelation  to  some  individual  who  possessed
+frightened  to  death.  A serrat  had  to  be  originally  acquired by  a revelation  to  some  individual  who  possessed
 a certain  degree  of  angakok-wisdom,  and  in  most  cases
-they  probably  dated  from  very  remote  ages.  The  ser-
-ranek  was  chiefly  practised  by  old  men,  who,  while
+they  probably  dated  from  very  remote  ages.  The  serranek  was  chiefly  practised  by  old  men,  who,  while
 performing  it,  partly  uncovered  the  head.
 
 The  amulets,  or  armiat  (plural  of  arnuan;),  were  small
-articles  which  either  permanently  belonged  to  the  indi-
-vidual, and  in  this  case  were  always  carried  about  his
+articles  which  either  permanently  belonged  to  the  individual, and  in  this  case  were  always  carried  about  his
 person  or  worn  on  the  body  or  inserted  in  his  weapons,
 or  were  sometimes  only  acquired  for  certain  special
 occurrences.  The  efficacy  of  an  amulet  depends  firstly
 on  the  nature  of  the  original  thing  or  matter  from
-whence  it  has  been  derived.  To  serve  this  purpose,  cer-
-tain animals  or  things  which  had  belonged  to  or  been
+whence  it  has  been  derived.  To  serve  this  purpose,  certain animals  or  things  which  had  belonged  to  or  been
 in  contact  with  certain  persons  or  supernatural  beings
 were  chiefly  chosen  ; and  sometimes,  but  more  rarely,
 also  objects  which  merely  by  their  appearance  recalled
@@ -3263,8 +2796,7 @@ belonged  to  the  ingnersuit  and  the  inuarutligkat.  Very
 precious  amulets  were  got  from  the  avingak,  which  in
 Labrador  signifies  a kind  of  weasel,  but  in  Greenland
 a fabulous  animal,  and  the  application  of  which  in  a
-tale  from  both  countries  exhibits  a most  striking  simi-
-larity. It  is  also  said  to  serve  the  western  Eskimo  for
+tale  from  both  countries  exhibits  a most  striking  similarity. It  is  also  said  to  serve  the  western  Eskimo  for
 amulets.  Probably  the  choice  and  appreciation  of
 things  most  useful  and  appropriate  for  amulets  was
 
@@ -3272,16 +2804,12 @@ things  most  useful  and  appropriate  for  amulets  was
 RELIGION.
 
 
-53
-
-
 akin  to  their  faith  in  different  medicines,  both  kinds  of
 knowledge  being  principally  professed  by  old  women,
 and  was  perhaps,  like  witchcraft,  a remnant  of  the
 older  religion  which  was  tolerated  by  the  angakut.
 Although  the  articles  thus  used  had  a power  of  their
-own  because  of  their  origin,  they  still  required  the  ap-
-plication of  a serrat,  which  was  pronounced  by  him  who
+own  because  of  their  origin,  they  still  required  the  application of  a serrat,  which  was  pronounced  by  him  who
 gave  the  amulet  to  its  final  proprietor.  If  it  was  only
 to  be  used  in  particular  cases,  a special  serrat  was  also
 required  in  order  to  make  it  work  ; and  in  some  cases,
@@ -3289,8 +2817,7 @@ when  the  owner  happened  not  to  have  the  amulet  at
 hand,  he  might  have  recourse  to  invocation.  Among
 the  amulets  probably  we  should  also  include  what  was
 called  poj£,  or  bag,  signifying  the  skin  of  some  animal,
-enabling  a man  to  acquire  its  shape.  Amulets  were  ordi-
-narily acquired  from  the  parents  during  early  childhood.
+enabling  a man  to  acquire  its  shape.  Amulets  were  ordinarily acquired  from  the  parents  during  early  childhood.
 
 It  remains  somewhat  doubtful  how  to  class  the  art  of
 making  artificial  animals,  which  were  sent  out  for  the
@@ -3304,21 +2831,13 @@ of  its  own  user,  and  being  secretly  fashioned  by  himself.
 It  therefore  might  seem  to  belong  to  witchcraft  ; but
 according  to  the  opinion  of  the  present  Greenlanders,  it
 is  considered  as  having  been  a just  and  proper  remedy,
-made  by  help  of  a serrat.  It  must  always  be  remem-
-bered that  its  secret  origin  and  traditional  teaching,  and
+made  by  help  of  a serrat.  It  must  always  be  remembered that  its  secret  origin  and  traditional  teaching,  and
 not  the  immediate  intention  of  it  in  every  single  case,
 constituted  the  evil  of  witchcraft.  The  serrat  and
 arnuak  might  be  used  with  a good  intention,  though  at
 the  same  time  pernicious  to  their  immediate  objects —
-viz.,  the  enemies.  On  the  other  hand,  they  could  cer-
-tainly also  be  used  with  evil  designs  : and  moreover,  even
+viz.,  the  enemies.  On  the  other  hand,  they  could  certainly also  be  used  with  evil  designs  : and  moreover,  even
 angakoks  were  known  to  have  practised  witchcraft ;
-
-
-54
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 but  all  such  cases  were  condemned  by  public  opinion  as
@@ -3333,13 +2852,11 @@ the  wife,  the  child,  and  the  mourners  after  death  ; partly
 to  special  or  accidental  occurrences,  such  as  sickness.
 The  powers  worshipped  through  these  observances
 appear  to  have  been,  besides  the  inerterrissok,  the  inue  of
-the  air,  the  moon,  and  other  domains,  supposed  to  influ-
-ence the  weather  and  the  chase,  and  also  the  souls  of
+the  air,  the  moon,  and  other  domains,  supposed  to  influence the  weather  and  the  chase,  and  also  the  souls  of
 the  deceased.  The  lying-in  woman  was  not  allowed  to
 work,  nor  to  eat  any  flesh  excepting  from  the  produce  of
 her  husband’s  chase,  and  of  which  the  entrails  had  not
-been  wounded  ; but  fish  was  allowed.  Two  weeks'sub-
-sequent  to  her  delivery  she  might  eat  flesh,  but  the
+been  wounded  ; but  fish  was  allowed.  Two  weeks'subsequent  to  her  delivery  she  might  eat  flesh,  but  the
 bones  of  it  were  not  to  be  carried  outside  the  house.  In
 the  first  child-birth  they  were  not  allowed  to  partake  of
 the  head  or  the  liver.  They  were  permitted  neither  to
@@ -3364,9 +2881,6 @@ belonging  to  persons  recently  dead  must  not  be  pro-
 RELIGION.
 
 
-59
-
-
 announced  himself  in  a voice  arising  from  the  depths
 of  the  earth.  Others  maintain  that  only  the  inferior
 angakut  perfected  themselves  in  these  caves,  while  the
@@ -3380,8 +2894,7 @@ he  had  still  to  show  his  power  by  calling  forth  his
 tornak.  During  this  interval,  his  state  would  sometimes
 be  revealed  by  the  fact  of  his  feet  sinking  in  the  rocky
 ground  just  as  in  snow  ; and  according  to  others,  he  was
-liable  to  die  if  he  did  not  manifest  himself  within  a cer-
-tain time.  The  clairvoyants  could  detect  the  angakut
+liable  to  die  if  he  did  not  manifest  himself  within  a certain time.  The  clairvoyants  could  detect  the  angakut
 from  their  breathing  fire  like  the  witches  ; they  had  not,
 however,  black  arms  like  these.  If  an  incipient  angakok
 failed  ten  times  in  succession  to  call  forth  his  tornak,
@@ -3393,8 +2906,7 @@ the  inue  of  land  and  sea  could  be  made  such,  and  also
 the  souls,  of  kivigtut,  of  the  dead,  and  of  animals.  As
 to  the  services  rendered  by  these,  some  of  them  were
 only  advising  and  informing  spirits,  others  assistant
-ones  in  danger,  and  others,  again,  revenging  and  destruc-
-tive powers.  The  first  kind,  called  eKungassoK,  were
+ones  in  danger,  and  others,  again,  revenging  and  destructive powers.  The  first  kind,  called  eKungassoK,  were
 indispensable  on  account  of  their  skill,  but  were  without
 strength,  though  they  boasted  of  their  bravery,  and  were
 therefore  ridiculed.  According  to  the  early  authors,  an
@@ -3412,40 +2924,32 @@ and  judges  on  all  questions  concerning  religious  belief;
 6o
 
 
-SKETCH  OF  THE  ESKIMO.
-
-
 and  this  belief  in  many  ways  acting  upon  the  customs
 and  social  life  of  the  people,  the  angakut  necessarily
 became  a kind  of  civil  magistrate  : and  lastly,  they  had
-not  only  to  teach  their  fellow-men  how  to  obtain  super-
-natural help,  but  also  to  give  such  assistance  directly
+not  only  to  teach  their  fellow-men  how  to  obtain  supernatural help,  but  also  to  give  such  assistance  directly
 themselves**
 
 With  regard  to  the  mode  of  practising  their  art,  it  has
 to  be  remarked  that  they  partly  made  use  of  the  same
 medical  appliances  or  remedies  which  are  accessible  to
 mankind  in  general,  partly  that  they  had  recourse  to  a
-means  peculiar  to  the  angakut — viz.,  summoning  their  tor-
-naks.  The  first  kind  of  acts  may  more  or  less  be  ranked
+means  peculiar  to  the  angakut — viz.,  summoning  their  tornaks.  The  first  kind  of  acts  may  more  or  less  be  ranked
 among  those  explained  in  the  preceding  section,  only
 distinguished  by  being  still  more  marvellous  than  those
 performed  by  ordinary  people.  Of  course  the  art  often
 degenerated  into  mere  imposture,  with  a view  to  impress
-the  credulous  with  awe.  To  the  acts  of  this  kind  be-
-longed the  angmainek , or  taking  out  the  entrails  of  a
+the  credulous  with  awe.  To  the  acts  of  this  kind  belonged the  angmainek , or  taking  out  the  entrails  of  a
 sick  person,  and  returning  them  to  their  place  after
 having  them  cleaned,  the  repairing  of  a soul,  or  from  a
 tub  of  water  divining  information  as  to  persons  lost  or
-missing  articles.  The  other  kind  of  deeds  were  per-
-formed by  means  of  what  is  termed  tPrnineK,  or  conjur-
+missing  articles.  The  other  kind  of  deeds  were  performed by  means  of  what  is  termed  tPrnineK,  or  conjur-
 ing, the  angakok  either  merely  summoning  a tornak
 and  asking  counsel  of  him,  or  himself  starting  for  an
 ilimarneK:,  or  spirit-flight,  for  the  purpose  of  examining
 or  accomplishing  what  was  required,  or  finally  calling
 forth  evil  spirits,  such  as  witches  and  anghiaks,  in  order
-to  defeat  and  destroy  them.  The  art  of  torninek  ordin-
-arily had  to  be  performed  before  a company  of  auditors
+to  defeat  and  destroy  them.  The  art  of  torninek  ordinarily had  to  be  performed  before  a company  of  auditors
 in  a house,  this  being  made  completely  dark,  while  the
 angakok  was  tied  with  the  hands  behind  his  back,  and
 his  head  between  the  legs,  and  thus  placed  on  the  floor
@@ -3462,10 +2966,8 @@ RELIGION.
 
 
 his  voice  by  the  skin  and  the  drum.  The  arrival  of  the
-tornak  was  known  by  a peculiar  sound  and  the  appear-
-ance of  a light  or  fire.  If  only  information  or  counsel  were
-required,  the  question  was  heard,  as  well  as  the  answer-
-ing voice  from  without,  the  latter  generally  being  some-
+tornak  was  known  by  a peculiar  sound  and  the  appearance of  a light  or  fire.  If  only  information  or  counsel  were
+required,  the  question  was  heard,  as  well  as  the  answering voice  from  without,  the  latter  generally  being  some-
 what ambiguous,  in  some  cases  also  said  to  proceed  from
 tornarsuk  himself.  If,  on  the  other  hand,  the  angakok
 had  to  make  a flight,  he  started  through  an  opening
@@ -3473,8 +2975,7 @@ which  appeared  of  itself  in  the  roof.  Whether  his  flight
 was  supposed  to  be  a bodily  one,  or  by  his  spirit  alone,
 for  the  time  severed  from  its  mortal  frame,  is  a question
 which,  like  many  others  connected  with  religious  matters,
-has  to  be  answered  differently,  according  to  the  intelli-
-gence of  the  individuals  applied  to  for  information.  Not
+has  to  be  answered  differently,  according  to  the  intelligence of  the  individuals  applied  to  for  information.  Not
 until  the  torninek  had  been  finished  was  the  house  allowed
 to  be  lighted  as  before,  on  which  the  angakok  showed
 himself  released  from  his  bands.  During  the  following
@@ -3496,8 +2997,7 @@ That  of  giving  counsel  in  all  cases  connected  with
 supernatural  help.
 
 That  of  discovering  the  cause  of  accidental  disasters,
-including  a certain  judicial  authority — viz.,  that  of  de-
-nouncing certain  individuals  as  guilty  either  as  regards
+including  a certain  judicial  authority — viz.,  that  of  denouncing certain  individuals  as  guilty  either  as  regards
 witchcraft  or  any  other  violation  of  customs  or  rules.
 
 Especially  was  their  art  exercised  in  discovering  the
@@ -3505,14 +3005,7 @@ whereabouts  and  the  fate  of  persons  who  had  disappeared,
 and  in  tracing  out  and  defeating  enemies  in  general,  as
 
 
-62
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
-well  as  those  who,  like  the  anghiaks,  could  only  be  per-
-ceived and  caught  by  the  angakut.
+well  as  those  who,  like  the  anghiaks,  could  only  be  perceived and  caught  by  the  angakut.
 
 Their  other  functions  consisted  in  giving  counsel  and
 instructions  as  to  the  rules  of  abstinence  and  the  mode  of
@@ -3537,8 +3030,7 @@ made  up  of  allegorical  expressions  and  transformations
 of  ordinary  Greenlandish  words.
 
 The  death  of  an  angakok  was  believed  to  be  generally
-attended  by  various  strange  phenomena.  His  soul,  it  ap-
-peared, had  more  than  ordinary  difficulty  in  disengaging
+attended  by  various  strange  phenomena.  His  soul,  it  appeared, had  more  than  ordinary  difficulty  in  disengaging
 itself  from  the  body  ; and  he  might  thus  happen  to  lie  in
 a half-dead  state,  reviving  at  intervals.  Death  having
 finally  taken  place,  after  five  days  had  elapsed,  he  was
@@ -3551,8 +3043,7 @@ The  nation  being  so  widely  spread,  its  traditions,
 and  especially  the  religious  element  in  them,  formed
 the  only  connecting-link  between  the  scattered  tribes  ;
 just  as  the  supporters  of  that  belief,  the  angakut,
-in  their  persons  afforded  the  means  of  connection  be-
-tween smaller  communities.  From  this  cause  religion,
+in  their  persons  afforded  the  means  of  connection  between smaller  communities.  From  this  cause  religion,
 more  than  could  reasonably  be  the  case  with  nations  in
 higher  stages  of  culture,  became  the  standard  by  which
 
@@ -3560,30 +3051,23 @@ higher  stages  of  culture,  became  the  standard  by  which
 RELIGION.
 
 
-63
-
-
-social  and  private  life  was  alike  regulated  ; and  this  cir-
-cumstance also  very  likely  accounts  for  the  marked  dis-
+social  and  private  life  was  alike  regulated  ; and  this  circumstance also  very  likely  accounts  for  the  marked  dis-
 inclination of  the  people  to  any  change  in  their  habits.
 It  must  be  observed  that,  the  angakut  being  the  only
 authority  who  were  acknowledged  to  derive  their
 power  from  the  supernatural  world,  naturally  make
-the  religious  belief  a governing  principle  in  their  ac-
-tions. Their  influence,  of  course,  at  the  same  time,
+the  religious  belief  a governing  principle  in  their  actions. Their  influence,  of  course,  at  the  same  time,
 rested  upon  their  greater  intelligence  and  talent.  The
 unshaken  faith  with  which  the  population  regarded
 their  marvellous  deeds  cannot  be  explained  except  by
 supposing  them  to  have  had  a more  profound  knowledge
 of  the  laws  of  nature,  enabling  them  to  form  a more
 accurate  conception  than  others  of  Avhat  was  likely  to
-happen  as  regards  weather,  hunting,  sickness,  and  every-
-thing depending  upon  physical  laws  ; while  as  to  their
+happen  as  regards  weather,  hunting,  sickness,  and  everything depending  upon  physical  laws  ; while  as  to  their
 own  belief,  their  skill  in  divination  most  probably  was
 confounded  in  their  own  fancy  with  imagined  revelations
 from  superior  beings.  No  doubt  they  themselves  relied
-upon  the  reality  of  their  supernatural  performances,  not-
-withstanding the  necessity  which,  on  the  other  hand,
+upon  the  reality  of  their  supernatural  performances,  notwithstanding the  necessity  which,  on  the  other  hand,
 often  caused  them  to  act  with  the  sole  aim  of  more  or
 less  consciously  deceiving  others  as  well  as  themselves.
 
@@ -3592,8 +3076,7 @@ and  what  represented  the  administration  of  justice,
 evidently  bore  a close  relation  to  their  religious  belief.
 The  customs  according  to  which  an  individual  became
 member  of  a family,  partaking  of  its  reputation  as  well
-as  its  means  of  subsistence,  were  supported  and  con-
-firmed by  the  belief  that  the  souls  of  ancestors  remained
+as  its  means  of  subsistence,  were  supported  and  confirmed by  the  belief  that  the  souls  of  ancestors  remained
 guardian  spirits  to  their  descendants,  having  left  them
 their  amulets  and  serrats  as  a kind  of  pledges.  The
 same  ideas  must  be  regarded  as  having  formed  the
@@ -3602,12 +3085,6 @@ principal  foundation  for  the  avenging  of  blood.
 The  social  institutions  in  connection  with  the  local
 conditions  leaving  still  ample  room  for  arbitrary  acts  of
 violence,  the  fear  of  vengeance  by  ghosts,  kivigtoks,
-
-
-64
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 anghiaks,  serrats,  amulets,  and  tupilaks,  must  have
@@ -3647,8 +3124,7 @@ them  beneath  a heap  of  stones,  or  in  a kind  of  stone  cell.
 V.— Traditional  Tales,  Science,  and  Arts.
 
 In  the  Introduction  to  the  Tales  and  Traditions  which
-precedes  them  we  shall  endeavour  to  explain  the  pro-
-bable origin  and  the  significance  of  the  tales,  as  re-
+precedes  them  we  shall  endeavour  to  explain  the  probable origin  and  the  significance  of  the  tales,  as  re-
 presenting the  science,  poetry,  and  religious  doctrines
 of  the  nation.  While  these  three  elements  are  gene-
 
@@ -3658,50 +3134,34 @@ TRADITIONAL  TALES,  SCIENCE,  AND  ARTS.  65
 
 rally  more  or  less  associated,  there  are  many  tales  in
 which  one  of  them  may  be  said  to  predominate,  so
-that  these  might  with  propriety  be  called  either  reli-
-gious, historical,  or  merely  amusing  tales.  Anything
+that  these  might  with  propriety  be  called  either  religious, historical,  or  merely  amusing  tales.  Anything
 traditional,  apart  from  the  tales,  which  could  in  any
-sense  be  called  science,  is  only  to  be  found  in  the  anga-
-kok-wisdom,  in  addition  to  some  trifling  knowledge  of
+sense  be  called  science,  is  only  to  be  found  in  the  angakok-wisdom,  in  addition  to  some  trifling  knowledge  of
 medicine,  of  astronomy,  and  of  dividing  the  year  into
 seasons  in  conformity  with  the  wanderings  of  animals,
 the  position  of  the  sun,  moon,  and  stars,  and  other  scanty
-observations  derived  from  experience.  Art,  on  the  con-
-trary, we  may  properly  consider  to  be  separately  repre-
-sented by  songs,  already  mentioned  as  an  entertain-
-ment at  the  festive  meetings.  In  being  recited  or
+observations  derived  from  experience.  Art,  on  the  contrary, we  may  properly  consider  to  be  separately  repre-
+sented by  songs,  already  mentioned  as  an  entertainment at  the  festive  meetings.  In  being  recited  or
 intoned,  it  will  be  remembered  that  they  combined
-mimicry  and  music  with  poetry.  To  be  properly  appre-
-ciated, even  the  tales  must  be  heard  in  Greenland,  re-
+mimicry  and  music  with  poetry.  To  be  properly  appreciated, even  the  tales  must  be  heard  in  Greenland,  re-
 lated by  a native  raconteur  in  his  own  language ; but  the
 songs  are  still  more  unfit  for  rendering  by  writing  or
 translation,  the  words  themselves  being  rather  trifling,
 the  sentences  abrupt,  and  the  author  evidently  presuming
 the  audience  to  be  familiar  with  the  whole  subject  or
 gist  of  the  song,  and  able  to  guess  the  greater  part  of  it.
-Every  strophe  makes  such  an  abrupt  sentence,  or  con-
-sists of  single  and  even  abbreviated  words,  followed  by
-some  interjectional  words  only  used  for  songs  and  with-
-out any  particular  signification.  The  gesticulations  and
+Every  strophe  makes  such  an  abrupt  sentence,  or  consists of  single  and  even  abbreviated  words,  followed  by
+some  interjectional  words  only  used  for  songs  and  without any  particular  signification.  The  gesticulations  and
 declamation,  accompanied  by  the  drum,  are  said  to
 have  been  very  expressive,  while  the  melody  itself  was
-rather  monotonous  and  dull.  The  old  mode  of  sing-
-ing is  now  nearly  extinct  in  the  Danish  districts  of
-Greenland.  The  author,  however,  succeeded  in  collect-
-ing several  songs  which  were  still  remembered,  of  which
+rather  monotonous  and  dull.  The  old  mode  of  singing is  now  nearly  extinct  in  the  Danish  districts  of
+Greenland.  The  author,  however,  succeeded  in  collecting several  songs  which  were  still  remembered,  of  which
 the  following  may  serve  as  samples.  The  first  is  given
-for  this  purpose  in  the  original  language,  with  the  inter-
-jectional burden  complete  as  it  is  said  by  the  natives  to
+for  this  purpose  in  the  original  language,  with  the  interjectional burden  complete  as  it  is  said  by  the  natives  to
 have  been  sung.
 
 
 E
-
-
-66
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 A NITH-SONG  OF  KUKOOK,
@@ -3775,8 +3235,7 @@ imaKaja  ha
 
 Translation.
 
-The  wicked  little  Kukook  imakayah  hayah,  ima-
-kayah  hah — hayah  uses  to  say,  ....  I am  going
+The  wicked  little  Kukook  imakayah  hayah,  imakayah  hah — hayah  uses  to  say,  ....  I am  going
 to  leave  the  country  ....  in  a large  ship
 
 . . . . for  that  sweet  little  woman Til
@@ -3813,14 +3272,7 @@ Pulangitsissok,  . . . who  had  grown  stout  and  fat
 
 with  eating  halibut.  . . . Those  people  from  the
 
-midland  coast  they  don’t  know  speaking,  . . . be-
-cause they  are  ashamed  of  their  speech.  . . . Stupid
-
-
-68
-
-
-SKETCH  OF  THE  ESKIMO.
+midland  coast  they  don’t  know  speaking,  . . . because they  are  ashamed  of  their  speech.  . . . Stupid
 
 
 they  are  besides.  . . . Their  speech  is  not  alike,
@@ -3853,8 +3305,7 @@ A SONG  FRON  SANERUT.
 
 ( South  Greenland .)
 
-I behold  yon  land  of  Nunarsuit ; . . the  mountain-
-tops  on  its  south  side  are  wrapped  in  clouds  ; . . it
+I behold  yon  land  of  Nunarsuit ; . . the  mountaintops  on  its  south  side  are  wrapped  in  clouds  ; . . it
 
 slopes  towards  the  south,  . . towards  Usuarsuk.
 
@@ -3882,15 +3333,13 @@ yonder  south,  . . I contemplate.  . . Outside  of
 TRADITIONAL  TALES,  SCIENCE,  AND  ARTS.  69
 
 Koonak  . . it  is  expanding,  . . the  same  that
-Koonak  towards  the  seaside  . . doth  quite  encom-
-pass. . . Behold  how  in  the  south  . they
+Koonak  towards  the  seaside  . . doth  quite  encompass. . . Behold  how  in  the  south  . they
 
 (clouds  ?)  shift  and  change.  . . Behold  how  yonder
 
 south  . . they  tend  to  beautify  each  other,  . .
 
-while  from  the  seaside  it  (the  mountain-top)  is  envel-
-oped . . in  sheets  still  changing,  . . from  the
+while  from  the  seaside  it  (the  mountain-top)  is  enveloped . . in  sheets  still  changing,  . . from  the
 
 seaside  enveloped,  . . to  mutual  embellishment.
 
@@ -3922,8 +3371,7 @@ here  only  separated  by  breaks.
 Lastly,  it  must  be  noticed  that  though  the  present
 Greenlanders  appear  to  have  a pretty  fair  talent  for
 drawing  and  writing,  scarcely  any  traces  of  the  arts  of
-drawing  and  sculpture  belonging  to  earlier  times  re-
-main, with  the  exception  of  a few  small  images  cut  out
+drawing  and  sculpture  belonging  to  earlier  times  remain, with  the  exception  of  a few  small  images  cut  out
 in  wood  or  bone,  which  have  probably  served  children
 as  playthings.  The  western  Eskimo,  on  the  other
 hand,  displayed  great  skill  in  carving  bone  ornaments
@@ -3933,14 +3381,10 @@ principally  on  their  weapons  and  tools.
 ;o
 
 
-SKETCH  OF  THE  ESKIMO.
-
-
 VI. — Probable  Origin  and  History.
 
 If  we  suppose  the  physical  conditions  and  the  climate
-of  the  Eskimo  regions  not  to  have  altered  in  any  re-
-markable way  since  they  were  first  inhabited,  their  in-
+of  the  Eskimo  regions  not  to  have  altered  in  any  remarkable way  since  they  were  first  inhabited,  their  in-
 habitants of  course  must  originally  have  come  from
 more  southern  latitudes,  and,  after  their  arrival  in  those
 regions,  have  made  the  inventions  and  adopted  the
@@ -3949,10 +3393,8 @@ When  we  consider  how  uniformly  this  character  now
 manifests  itself,  notwithstanding  the  great  separation  of
 the  tribes  for  upwards  of  a thousand  years  or  more,  it
 seems  probable,  firstly,  that  the  nation  during  such  a
-period  of  development  must  have  lived  in  closer  con-
-nection, allowing  of  concurrence  in  making  the  necessary
-inventions,  as  well  as  in  bringing  about  a general  adop-
-tion of  the  same  mode  of  life;  and  secondly,  that  the
+period  of  development  must  have  lived  in  closer  connection, allowing  of  concurrence  in  making  the  necessary
+inventions,  as  well  as  in  bringing  about  a general  adoption of  the  same  mode  of  life;  and  secondly,  that  the
 development  of  their  culture  during  that  period  must
 have  been  active  and  rapid  in  comparison  with  the  time
 of  separation  which  followed,  during  which  the  tribes
@@ -3976,14 +3418,11 @@ seems  to  be  whether  their  development  can  be  conjee-
 PROBABLE  ORIGIN  AND  HISTORY.  J I
 
 tured  with  any  probability  to  have  taken  place  in  that
-part  of  the  world.  Other  geographical  conditions  ap-
-pear greatly  to  favour  such  a supposition.  It  has  been
+part  of  the  world.  Other  geographical  conditions  appear greatly  to  favour  such  a supposition.  It  has  been
 stated  (principally  by  Lewis  Morgan)  that  the  primitive
 hunting  nations  of  North  America  have  obtained  their
-principal  means  of  subsistence  from  the  rivers,  espe-
-cially by  the  salmon-fishery.  The  north-west  angle  of
-America,  from  California  to  the  Coppermine  river,  con-
-tains several  large  rivers  very  rich  in  fish.  The  general
+principal  means  of  subsistence  from  the  rivers,  especially by  the  salmon-fishery.  The  north-west  angle  of
+America,  from  California  to  the  Coppermine  river,  contains several  large  rivers  very  rich  in  fish.  The  general
 tendency  of  all  the  primitive  nations  to  expand  by
 driving  out  one  another  must  have  almost  necessarily
 compelled  those  of  them  who  occupied  the  extreme
@@ -3992,8 +3431,7 @@ If  this  happened  to  be  that  of  the  polar  seas,  the  new
 settlers  would  at  once  in  its  animals  find  a rich  source
 of  sustenance,  at  the  same  time  as  the  country  which
 they  had  passed  through  and  left  behind  had  gradually
-grown  more  barren  and  destitute  of  the  means  of  sup-
-porting human  life.  This  almost  sudden  change  in  their
+grown  more  barren  and  destitute  of  the  means  of  supporting human  life.  This  almost  sudden  change  in  their
 whole  mode  of  life  is  also  very  likely  to  have  given  rise
 to  the  general  sharp  separation  of  this  coast  people  from
 the  inland  tribes,  and  the  position  of  hostility  in  which
@@ -4014,24 +3452,15 @@ begun  catching  seals  and  whales,  covering  their  boats
 with  skins  instead  of  birch-bark,  and  making  the  prin-
 
 
-72
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 cipal  inventions  with  regard  to  seal-hunting  peculiar  to
 the  Eskimo ; and  while  the  whole  nation  in  this  way
-gradually  settled  down  on  the  sea-shore,  it  also  main-
-tained the  unity  necessary  for  the  purpose  of  defending
-itself  against  the  hostile  inland  people.  If,  in  accord-
-ance with  what  has  been  above  stated,  we  likewise
+gradually  settled  down  on  the  sea-shore,  it  also  maintained the  unity  necessary  for  the  purpose  of  defending
+itself  against  the  hostile  inland  people.  If,  in  accordance with  what  has  been  above  stated,  we  likewise
 suppose  the  principal  part  of  the  folk-lore  to  have
 originated  about  this  period,  the  subjects  mentioned
 in  the  tales  would  constitute  a means  for  guiding  us  in
 search  of  the  locality  where  the  first  settling  on  the
-sea-shore  is  likely  to  have  taken  place.  For  this  pur-
-pose it  will  be  sufficient  to  call  to  mind  the  tales  treating
+sea-shore  is  likely  to  have  taken  place.  For  this  purpose it  will  be  sufficient  to  call  to  mind  the  tales  treating
 of  the  following  subjects  : —
 
 1.  An  expedition  to  the  inlanders  for  the  purpose  of
@@ -4061,17 +3490,13 @@ crossing  the  frozen  sea.
 
 On  comparing  these  subjects  of  the  tales  with  the
 present  geographical  conditions,  we  will  find  that  in  all
-respects  they  suggest  America  and  not  Asia.  The  pro-
-bable identity  of  the  “inlanders”  with  the  Indians  has
+respects  they  suggest  America  and  not  Asia.  The  probable identity  of  the  “inlanders”  with  the  Indians  has
 already  been  remarked  on.  When  the  new  coast  people
 began  to  spread  along  the  Arctic  shores,  some  bands  of
 them  may  very  probably  have  crossed  Behring  Strait
 
 
 PROBABLE  ORIGIN  AND  HISTORY.
-
-
-73
 
 
 and  settled  on  the  opposite  shore,  which  is  perhaps
@@ -4084,13 +3509,11 @@ and  afterwards  almost  wholly  emigrated  to  America.
 On  comparing  the  Eskimo  with  the  neighbouring
 nations,  their  physical  complexion  certainly  seems  to
 point  at  an  Asiatic  origin  ; but,  as  far  as  we  know,
-the  latest  investigations  have  also  shown  a transi-
-tional link  to  exist  between  the  Eskimo  and  the  other
+the  latest  investigations  have  also  shown  a transitional link  to  exist  between  the  Eskimo  and  the  other
 American  nations,  which  would  sufficiently  indicate  the
 possibility  of  a common  origin  from  the  same  continent.
 As  to  their  mode  of  life,  the  Eskimo  decidedly  resemble
-their  American  neighbours  ; whereas  all  the  northern-
-most nations  of  the  Old  World,  with  the  exception  of
+their  American  neighbours  ; whereas  all  the  northernmost nations  of  the  Old  World,  with  the  exception  of
 the  Kamtskadales,  are  pastoral  tribes,  regarding  fishing
 on  their  rivers  as  only  a secondary  occupation;  and  when
 some  of  them  have  settled  on  the  river-sides,  or  even  on
@@ -4102,8 +3525,7 @@ account  of  poverty.  In  the  Old  World  we  nowhere  find
 anything  at  all  like  a coast  race  as  opposed  to  an  inland
 people,  with  the  exception  of  the  Asiatic  Eskimo  on  the
 coast  (Tschoukschees),  who  are  quite  different  from,  but
-still  live  in  friendly  relations  with,  the  pastoral  Tschouk-
-schees. As  to  religion,  the  Eskimo  are  also  allied  to
+still  live  in  friendly  relations  with,  the  pastoral  Tschoukschees. As  to  religion,  the  Eskimo  are  also  allied  to
 the  Americans,  and  differ  from  the  Asiatic  nations,  who
 have  a more  perfect  system  of  deities,  worship  idols,
 and  with  whom  sacrifices  form  the  principal  part  of
@@ -4114,22 +3536,14 @@ however,  on  the  other  hand,  we  meet  with  some  very
 remarkable  similarities  between  the  Eskimo  idiom  and
 
 
-74
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 the  language  of  Siberia,  belonging  to  the  Altaic  or
 Finnish  group : first,  as  to  the  rule  of  joining  the
-affixes  to  the  end  and  not  the  beginning  of  the  primi-
-tive word  ; and  second,  the  very  characteristic  mode  of
+affixes  to  the  end  and  not  the  beginning  of  the  primitive word  ; and  second,  the  very  characteristic  mode  of
 forming  the  dual  by  k and  the  plural  by  t.
 
 At  all  events,  it  must  be  granted  that  the  origin  of
 the  Eskimo  people  remains  very  obscure ; and  that,
-possibly,  early  intercourse  and  subsequent  mutual  in-
-fluence may  once  have  existed  between  the  northernmost
+possibly,  early  intercourse  and  subsequent  mutual  influence may  once  have  existed  between  the  northernmost
 nations  of  the  two  continents,  which  future  researches
 may  yet  reveal.
 
@@ -4137,34 +3551,27 @@ As  regards  their  numbers,  the  Eskimo  must  also
 be  supposed  to  have  increased  considerably  in  early
 periods  beyond  what  has  been  the  case  in  later  times  ;
 and  the  feuds  between  the  single  families,  or  larger
-bands,  must  probably  have  accelerated  their  being  dis-
-persed to  the  far  east  of  Greenland  and  Labrador.  Ac-
+bands,  must  probably  have  accelerated  their  being  dispersed to  the  far  east  of  Greenland  and  Labrador.  Ac-
 cording to  the  sagas  of  the  Icelanders,  they  were  already
 met  with  on  the  east  coast  of  Greenland  about  the  year
 1000,  and  almost  at  the  same  time  on  the  east  coast
 of  the  American  continent,  on  the  so-called  Vinland,
 probably  Massachusetts  or  Rhode  Island.  Thorvald,  the
 son  of  Erik  the  Red,  was  killed  in  a fight  which  ensued
-at  this  meeting ; but  later  travellers  in  Vinland  en-
-gaged in  barter  with  the  same  natives,  and  brought  two
+at  this  meeting ; but  later  travellers  in  Vinland  engaged in  barter  with  the  same  natives,  and  brought  two
 young  Eskimo  back  with  them,  who  were  subsequently
 baptised,  and  stated  that  their  mother’s  name  was
 Vatheldi,  and  that  of  their  father  Uvoege  (probably  the
 Greenlandish  uvia,  signifying  her  husband).  Between  the
 years  IOOO  and  1300,  they  do  not  seem  to  have  occupied
-the  land  south  of  65°  N.L.,  on  the  west  coast  of  Green-
-land, where  the  Scandinavian  colonies  were  then  situated.
+the  land  south  of  65°  N.L.,  on  the  west  coast  of  Greenland, where  the  Scandinavian  colonies  were  then  situated.
 But  the  colonists  seem  to  have  been  aware  of  their
 existence  in  higher  latitudes,  and  to  have  lived  in  fear
-of  an  attack  by  them,  since,  in  the  year  1266,  an  ex-
-pedition was  sent  out  for  the  purpose  of  exploring  the
+of  an  attack  by  them,  since,  in  the  year  1266,  an  expedition was  sent  out  for  the  purpose  of  exploring  the
 abodes  of  the  Skrcelings,  as  they  were  called  by  the
 
 
 PROBABLE  ORIGIN  AND  HISTORY.
-
-
-75
 
 
 colonists.  In  1379,  the  northernmost  settlement  was
@@ -4177,12 +3584,10 @@ being  thus  cut  off  from  the  world  abroad,  retired  into
 the  interior  of  the  fiords  and  creeks ; while  the  Eskimo
 gradually  settled  on  the  islands, — and  that  the  latter
 defeated  and  partly  destroyed  the  remains  of  the  former.
-The  features  of  the  natives  in  the  southern  part  of  Green-
-land indicate  a mixed  descent  from  Scandinavians  and
+The  features  of  the  natives  in  the  southern  part  of  Greenland indicate  a mixed  descent  from  Scandinavians  and
 Eskimo,  the  former,  however,  not  having  left  the  slightest
 sign  of  any  influence  on  the  nationality  or  culture  of  the
-present  natives.  In  the  year  1585,  Greenland  was  dis-
-covered anew  by  John  Davis,  and  found  inhabited  ex-
+present  natives.  In  the  year  1585,  Greenland  was  discovered anew  by  John  Davis,  and  found  inhabited  ex-
 clusively by  Eskimo.  After  a series  of  exploring  and
 fishing  expeditions,  during  which  many  acts  of  violence
 and  cruelty  were  perpetrated  on  the  natives,  the  present
@@ -4195,30 +3600,21 @@ reason  that  though  their  hunting  habits,  ways  of  life,  and
 methods  of  thought  are  still  much  as  they  always  were,
 the  influence  of  the  Danish  officials,  who  conduct  the
 trading  monopoly,  and  of  the  missionaries,  has  been  such
-that  they  have  within  the  bounds  of  the  Danish  posses-
-sions abandoned  many  of  their  ancient  customs  along
+that  they  have  within  the  bounds  of  the  Danish  possessions abandoned  many  of  their  ancient  customs  along
 with  their  paganism,  which  change  we  shall  endeavour
 to  explain  in  the  following  section.
-
-
-76
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 VII.— Influence  of  Contact  with  Europeans.
 
 The  natives  of  the  Danish  districts,  whose  numbers
 during  last  century  seem  to  have  been  greatly  on  the
-decrease,  were  afterwards,  for  a long  period,  again  in-
-creasing; while,  since  1855,  they  have  remained  almost
+decrease,  were  afterwards,  for  a long  period,  again  increasing; while,  since  1855,  they  have  remained  almost
 stationary  between  9400  and  9700  souls.  They  have  long
 been  Christianised,  and  brought  into  a regular  state  of
 subjection  to  the  Danish  Government,  by  means  of  the
 monopolised  trade,  the  missionaries  and  schools,  as  well
-as  several  other  administrative  institutions.  The  intro-
-duction of  intoxicating  liquors,  as  well  as  those  acts  of
+as  several  other  administrative  institutions.  The  introduction of  intoxicating  liquors,  as  well  as  those  acts  of
 violence  and  oppression  which  in  other  countries  have
 destroyed  the  primitive  races,  especially  those  who  live
 by  hunting,  have  been  here  unknown.  Scarcely  any
@@ -4227,13 +3623,11 @@ shown  so  much  consideration  for,  and  been  so  careful
 of,  the  uncivilised  natives  as  in  this  case.  From  the
 very  beginning  of  the  monopolised  trade,  it  has  been
 carried  on  with  a view  to  introduce  and  make  accessible
-to  them  such  articles  as  were  judged  to  be  most  neces-
-sary and  useful  to  them  ; and  not  without  much  hesita-
+to  them  such  articles  as  were  judged  to  be  most  necessary and  useful  to  them  ; and  not  without  much  hesita-
 tion have  such  articles  of  luxury  as  bread,  coffee,  and
 sugar,  besides  tobacco,  been  sold  to  them.  By  help  of
 native  schoolmasters,  instruction  is  given  to  the  children
-in  all  the  wintering  places,  except  a few  where  the  num-
-ber of  inhabitants  is  too  small.  Attempts  have  been  made
+in  all  the  wintering  places,  except  a few  where  the  number of  inhabitants  is  too  small.  Attempts  have  been  made
 to  provide  the  natives  with  necessary  medicines,  alongwith
 some  medical  aid,  although  the  latter  remains,  of  course,
 very  insufficient  and  illusory,  on  account  of  the  extreme
@@ -4248,12 +3642,8 @@ far  more  advanced  stage  of  culture  upon  those  on  a
 INFLUENCE  OF  EUROPEANS.
 
 
-77
-
-
 lower  stage  may  here  be  traced — poverty,  combined  with
-predisposition  to  certain  diseases,  having  sensibly  in-
-creased. Greenland  must  be  considered  peculiarly  ad-
+predisposition  to  certain  diseases,  having  sensibly  increased. Greenland  must  be  considered  peculiarly  ad-
 apted for  making  closer  inquiries  as  to  the  nature  of  this
 influence.
 
@@ -4262,24 +3652,19 @@ of  the  working  classes  have  intermarried  with  native
 women,  and  formed  their  household  after  the  Greenland
 model,  with  merely  a few  European  improvements.
 These  marriages  have  generally  been  rich  in  offspring  ;
-and  have  probably  become  a concurring  means  of  tem-
-porarily increasing  the  population,  the  children,  for  the
+and  have  probably  become  a concurring  means  of  temporarily increasing  the  population,  the  children,  for  the
 most  part,  growing  up  as  complete  Greenlanders.  This
 mixed  offspring  being  now  very  numerous,  and  its
 individuals  representing  the  mixture  of  European  and
 native  blood  in  almost  every  possible  proportion,  any
-marked  distinction  between  the  Europeans  and  the  na-
-tives might  be  supposed  to  have  gradually  disappeared.
-But  the  real  difference  of  nationality  depending  on  edu-
-cation, not  on  physical  constitution,  there  are  still  suffi-
+marked  distinction  between  the  Europeans  and  the  natives might  be  supposed  to  have  gradually  disappeared.
+But  the  real  difference  of  nationality  depending  on  education, not  on  physical  constitution,  there  are  still  suffi-
 ciently sharp  distinctions  to  indicate  what  we  mean  by
-Europeans  and  natives.  The  average  number  of  Euro-
-peans in  the  country,  excepting  at  the  time  of  existence
+Europeans  and  natives.  The  average  number  of  Europeans in  the  country,  excepting  at  the  time  of  existence
 of  some  temporary  establishments  peculiarly  European,
 has  varied  between  200  and  300.
 
-When  the  natives  saw  the  first  Europeans  approach-
-ing their  country  from  the  sea  in  great  ships,  furnished
+When  the  natives  saw  the  first  Europeans  approaching their  country  from  the  sea  in  great  ships,  furnished
 with  things  all  wonderful  to  them,  they  can  hardly  have
 failed  to  combine  the  idea  of  something  supernatural
 with  them.  The  Europeans,  on  their  part,  on  settling
@@ -4292,38 +3677,26 @@ social  aims — and  national  prejudice  tended  to  make  them
 despise  and  indiscriminately  denounce  all  the  native
 
 
-78
-
-
-SKETCH  OF  THE  ESKIMO.
-
-
 customs  and  institutions  as  heathenish ; and  in  time,
-European  authority  more  and  more  became  the  prin-
-cipal law  among  them.  From  this  abolition  of  native
+European  authority  more  and  more  became  the  principal law  among  them.  From  this  abolition  of  native
 laws  and  authority,  and  a kind  of  self-abasement  and
 disheartening  consequently  arising  among  them,  the
 real  or  principal  source  of  the  national  evils  must  be
 considered  to  proceed.
 
 Two  national  treasures  yet  remain  to  the  natives,  by
-means  of  which  they  still  maintain  a kind  of  independ-
-ence and  national  feeling — viz.,  their  language  and  their
+means  of  which  they  still  maintain  a kind  of  independence and  national  feeling — viz.,  their  language  and  their
 folk-lore.  Through  the  tales,  they  also  still  preserve  a
 knowledge  of  their  ancient  religious  opinions,  combined
-somewhat  systematically  with  the  Christian  faith.  Tor-
-narsuk,  in  being  converted  into  the  devil  by  the  first
-missionaries,  was  only  degraded,  getting  in  the  mean-
-time, on  the  other  hand,  his  real  existence  confirmed  for
+somewhat  systematically  with  the  Christian  faith.  Tornarsuk,  in  being  converted  into  the  devil  by  the  first
+missionaries,  was  only  degraded,  getting  in  the  meantime, on  the  other  hand,  his  real  existence  confirmed  for
 ever.  In  consequence  of  this  acknowledgment  in  part
 of  tornarsuk,  the  whole  company  of  inue  or  spirits  were
 also  considered  as  still  existing.  The  ingnersuit  were
-expressly  charged  by  Egede  as  being  the  devil’s  ser-
-vants. The  Christian  heaven  coming  into  collision  with
+expressly  charged  by  Egede  as  being  the  devil’s  servants. The  Christian  heaven  coming  into  collision  with
 the  upper  world  of  their  ancestors,  the  natives  very
 ingeniously  placed  it  above  the  latter,  or,  more  strictly,
-beyond  the  blue  sky.  By  making  tornarsuk  the  prin-
-ciple of  evil,  a total  revolution  was  caused  with  regard
+beyond  the  blue  sky.  By  making  tornarsuk  the  principle of  evil,  a total  revolution  was  caused  with  regard
 to  the  general  notions  of  good  and  evil,  the  result  of
 which  was  to  identify  the  idea  of  good  with  what  was
 conformable  to  European  authority ; but,  unhappily,
@@ -4341,14 +3714,10 @@ care  of  by  invisible  ingnersuit.  Although  the  natives
 INFLUENCE  OF  EUROPEANS.
 
 
-79
-
-
 are  aware  that  the  aid  required  from  the  spirit-world  of
 the  angakut  is  opposed  to  Christianity,  they  still  discern
 as  clearly  as  formerly  between  that  and  witchcraft.
-Only  in  rare  instances  have  some  of  the  natives  at-
-tempted to  form  a Christian  community  independent
+Only  in  rare  instances  have  some  of  the  natives  attempted to  form  a Christian  community  independent
 of  the  Europeans,  and  founded  on  alleged  immediate
 revelations  from  heaven ; but  these  efforts  have  been  soon
 suppressed.  No  attempts  have  ever  been  made  to
@@ -4360,8 +3729,7 @@ natives.  The  principal  means  of  subsistence  are  still
 procured  in  the  same  way  as  they  were  a thousand  years
 ago.  It  will  also  be  evident  that  a consumption  of  from
 thirty  to  forty  pounds  of  bread  annually  per  individual,
-besides  coffee,  sugar,  and  tobacco,  cannot  have  essen-
-tially contributed  to  change  the  habitual  food  of  the
+besides  coffee,  sugar,  and  tobacco,  cannot  have  essentially contributed  to  change  the  habitual  food  of  the
 population.  As  to  the  rules  regarding  property,  and
 the  distribution  of  the  daily  gains  from  hunting  and
 fishing,  some  changes  must  of  course  have  arisen  from
@@ -4373,21 +3741,15 @@ feeling  of  clanship  it  may  be,  still  predominates  among
 the  Eskimo.  When,  however,  the  lazy  and  the  active,
 the  skilled  and  the  unskilled,  fared  the  same,  owing  to
 this  division  of  the  produce  of  the  hunt,  personal  energy
-and  activity  necessarily  abated.  As  to  the  body  of  per-
-sons constituting  the  family,  the  Europeans  from  the
+and  activity  necessarily  abated.  As  to  the  body  of  persons constituting  the  family,  the  Europeans  from  the
 first  made  a practice  of  interfering  with  the  discipline
 exercised  by  the  head  member,  and  even  with  the  choice
-of  husband  or  wife ; while,  at  the  same  time,  the  chil-
-dren were  not,  as  before,  invariably  brought  up  to  the
-national  occupation  of  hunters  and  fishers,  and  accord-
-ingly a temptation  to  waste  the  proceeds  of  the  good
+of  husband  or  wife ; while,  at  the  same  time,  the  children were  not,  as  before,  invariably  brought  up  to  the
+national  occupation  of  hunters  and  fishers,  and  accordingly a temptation  to  waste  the  proceeds  of  the  good
 man’s  labour  increased.  As  to  the  communities  com-
 
 
 8o
-
-
-SKETCH  OF  THE  ESKIMO.
 
 
 prising  the  inhabitants  of  the  same  house  or  the  same
@@ -4398,11 +3760,9 @@ household,  and  also  by  their  being  enabled  to  barter
 away  their  seal-oil,  and  even  the  flesh,  for  European
 articles,  principally  such  as  would  serve  to  improve  their
 meals.  On  the  other  hand,  in  cases  of  any  particular
-want,  public  opinion  still  requires  the  neighbouring  seal-
-hunter  to  proffer  his  aid,  if  he  had  anything  left  beyond
+want,  public  opinion  still  requires  the  neighbouring  sealhunter  to  proffer  his  aid,  if  he  had  anything  left  beyond
 his  own  needs  for  the  day.  In  fact,  the  Europeans,  and
-perhaps  those  who  are  in  their  service,  are  now  con-
-sidered the  only  persons  really  entitled  to  possess  pro-
+perhaps  those  who  are  in  their  service,  are  now  considered the  only  persons  really  entitled  to  possess  pro-
 perty to  any  extent,  the  native  sooner  or  later  finding
 too  much  trouble  in  keeping  what  he  may  have  saved
 up.  Probably,  by  way  of  lessening  the  demands  made
@@ -4448,8 +3808,7 @@ that  the  natives  show  a great  aptitude  for  learning,  and
 are  anxious  to  profit  by  the  instruction  imparted  at
 schools,  regular  school  attendance  being  perhaps  in  no
 country  more  popular  than  in  Greenland  ; and  lastly,  it
-has  been  proved  by  experience  that  the  natives  them-
-selves are  acquiring  a notion  of  the  benefit  arising  from
+has  been  proved  by  experience  that  the  natives  themselves are  acquiring  a notion  of  the  benefit  arising  from
 suitable  laws  and  social  institutions,  which  are  necessary
 for  the  bringing  about  a more  regulated  way  of  making
 those  habits  which  are  inseparable  from  their  trade  and
@@ -4475,41 +3834,33 @@ of  the  Greenlanders,  appear  to  be  instructive,  and  not
 without  signification  in  regard  to  the  study  of  the  origin
 and  development  of  traditions  in  general.
 
-Firstly,  it  must  be  observed  that  the  natives  them-
-selves divide  their  tales  into  two  classes — the  ancient
+Firstly,  it  must  be  observed  that  the  natives  themselves divide  their  tales  into  two  classes — the  ancient
 tales,  called  OKalugtuat  (plural  of  OKalugtuaK),  and  the
-more  recent  ones,  called  oxalualarutit  (plural  of  OKalu-
-al&rut).  The  first  kind  may  be  more  or  less  considered
+more  recent  ones,  called  oxalualarutit  (plural  of  OKalual&rut).  The  first  kind  may  be  more  or  less  considered
 the  property  of  the  whole  nation,  at  least  of  the  greater
 part  of  its  tribes ; while  the  tales  included  under  the
 second  are,  on  the  other  hand,  limited  to  certain  parts
 of  the  country,  or  even  to  certain  people  related  to  each
 other,  thus  presenting  the  character  of  family  records.
 The  Eskimo  are,  more  than  any  other  nation,  spread
-over  a wide  extent  of  country,  only  occupied  by  them-
-selves, and  thus  are  little  acted  upon  by  alien  settlers.
+over  a wide  extent  of  country,  only  occupied  by  themselves, and  thus  are  little  acted  upon  by  alien  settlers.
 The  inhabitants  of  their  extreme  western  bounds,  with
 their  native  means  of  transport,  would  have  to  traverse
 somewhere  about  five  thousand  miles  before  reaching
 the  dwellings  of  their  countrymen  in  the  farthest  east,
 
 
-84
-
-
 INTRODUCTION.
 
 
 and  in  this  journey  would  meet  only  with  scanty  little
-bands  of  their  own  tribes  settled  here  and  there,  gene-
-rally consisting  of  less  than  a hundred  souls.  Their
+bands  of  their  own  tribes  settled  here  and  there,  generally consisting  of  less  than  a hundred  souls.  Their
 little  hamlets  are  severed  from  each  other  by  desolate
 tracts  of  ten  to  twenty — nay,  even  hundreds  of  miles.
 Though  there  is  every  probability  that  the  various  tribes
 of  these  vast  regions  have  originated  from  one  common
 home,  their  present  intercourse  is  very  limited  ; and  it
-may  without  exaggeration  be  asserted  that  the  inhabi-
-tants of  Greenland  and  Labrador,  and  those  of  the
+may  without  exaggeration  be  asserted  that  the  inhabitants of  Greenland  and  Labrador,  and  those  of  the
 shores  of  Behring  Strait,  cannot  in  any  likelihood
 have  communicated  with  each  other  for  a thousand
 years  or  more,  nor  have  they  any  idea  of  their  mutual
@@ -4518,8 +3869,7 @@ study  of  the  traditions  will  also  show  how  wide  a space
 of  time  must  be  supposed  to  exist  between  the  origin  of
 the  two  classes  of  tales.  The  greater  part  of  the  ancient
 tales  probably  date  from  a far  remoter  period  than  one
-thousand  years  ; the  invention  of  the  more  recent  tradi-
-tions, on  the  other  hand,  must  be  supposed  in  most  cases
+thousand  years  ; the  invention  of  the  more  recent  traditions, on  the  other  hand,  must  be  supposed  in  most  cases
 not  even  to  go  back  so  far  as  two  hundred  years,  and  they
 chiefly  comprise  events  concerning  families  living  in  the
 very  district  where  they  are  told.  It  may,  however,  be
@@ -4527,12 +3877,9 @@ taken  for  granted,  that  in  days  of  yore  such  new  tales
 may  have  appeared  at  any  time ; but  after  a short
 existence  they  were  gradually  forgotten,  giving  place  to
 others,  and  so  on,  continuously  alternating  during  the
-lapse  of  ages  : while  the  ancient  tales  have  been  pre-
-served unchanged,  like  some  precious  heirlooms  which  it
-would  have  been  sacrilege  to  have  touched.  The  defi-
-nition we  have  here  tried  to  give  of  the  two  classes  is,
-however,  by  no  means  exhaustive,  nor  without  excep-
-tions. In  our  collection  will  be  found  stories  which
+lapse  of  ages  : while  the  ancient  tales  have  been  preserved unchanged,  like  some  precious  heirlooms  which  it
+would  have  been  sacrilege  to  have  touched.  The  definition we  have  here  tried  to  give  of  the  two  classes  is,
+however,  by  no  means  exhaustive,  nor  without  exceptions. In  our  collection  will  be  found  stories  which
 undoubtedly  must  have  originated  between  the  two
 
 1 When  Dr  Kane  first  visited  the  small  tribe  of  Eskimo  living  in
@@ -4543,11 +3890,7 @@ people  on  the  face  of  the  earth.
 INTRODUCTION.
 
 
-85
-
-
-periods  described,  and  therefore  should  form  an  inter-
-mediate or  exceptional  class,  if  the  division  were  to  be
+periods  described,  and  therefore  should  form  an  intermediate or  exceptional  class,  if  the  division  were  to  be
 complete  and  fully  carried  out.  There  are,  moreover,
 many  others  which  we  are  at  a loss  how  to  classify.
 
@@ -4563,8 +3906,7 @@ varied  according  to  the  individual  talents  of  the  narrator,
 as  to  the  mode  of  recitation,  gesture,  &c.  The  only
 real  discretionary  power  allowed  by  the  audience  to  the
 narrator  is  the  insertion  of  a few  peculiar  passages  from
-some  shorter  traditions  ; but  even  in  that  case  no  altera-
-tion of  these  original  or  elementary  materials  used  in
+some  shorter  traditions  ; but  even  in  that  case  no  alteration of  these  original  or  elementary  materials  used  in
 the  composition  of  tales  is  admissible.  Generally,  even
 the  smallest  deviation  from  the  original  version  will  be
 taken  notice  of  and  corrected,  if  any  intelligent  person
@@ -4576,45 +3918,36 @@ audience,  every  similarity  of  these  tales,  told  in  such
 widely-separated  countries,  would  certainly  have  been
 lost  in  the  course  of  centuries.  It  would  also  appear
 that  it  is  the  same  narrators  who  compose  the  more
-recent  stories  by  picking  up  the  occurrences  and  adven-
-tures of  their  latest  ancestors,  handed  down  occasionally
+recent  stories  by  picking  up  the  occurrences  and  adventures of  their  latest  ancestors,  handed  down  occasionally
 by  some  old  members  of  the  family,  and  connecting  and
-embellishing  them  by  a large  addition  of  the  super-
-natural, for  which  purpose  resort  is  always  had  to  the
+embellishing  them  by  a large  addition  of  the  supernatural, for  which  purpose  resort  is  always  had  to  the
 same  traditional  and  mystical  elements  of  the  ancient
 folk-lore.  Undoubtedly  the  ancient  tales  have  originally
 been  invented  in  a similar  way,  but  at  a time  when  the
-
-
-86
 
 
 INTRODUCTION.
 
 
 different  tribes  were  living  in  closer  connection  with
-each  other  and  perhaps  endowed  with  greater  origin-
-ality. It  is  to  be  supposed  that  the  real  or  principal
+each  other  and  perhaps  endowed  with  greater  originality. It  is  to  be  supposed  that  the  real  or  principal
 traditions,  with  the  power  of  continuance  through  many
 centuries,  are  only  produced  after  long  intervals,  and  at
 certain  periods  peculiarly  qualified  for  their  production.
 As  regards  the  Greenlanders,  probably  a new  era  of  this
 kind  may  have  arisen  from  the  time  of  their  being
-Christianised,  many  of  the  recent  tales  exhibiting  con-
-siderable similarity  to  Christian  legends.  The  ele-
+Christianised,  many  of  the  recent  tales  exhibiting  considerable similarity  to  Christian  legends.  The  ele-
 mentary parts  used  in  composing  all  kinds  of  tales
 being  very  numerous,  it  may  be  seen  from  the  collection
 itself  that,  notwithstanding  the  stability  and  limited
 number  of  the  ancient  tales,  the  narrators,  by  help  of
 the  interpolations  mentioned,  and  by  their  power  of
 manufacturing  modern  tales,  possess  means  for  an
-almost  unlimited  variety  at  their  story-telling  enter-
-tainments.
+almost  unlimited  variety  at  their  story-telling  entertainments.
 
 The  traditional  tales,  or  rather  the  traditional  elements
 of  the  ancient  as  well  as  the  more  recent  tales,  would
-never  have  been  able  to  withstand  the  influence  of  cen-
-turies among  these  scattered  and  isolated  bands  if  they
+never  have  been  able  to  withstand  the  influence  of  centuries among  these  scattered  and  isolated  bands  if  they
 had  not  been  one  of  the  most  important  means  of
 maintaining  their  national  life.  Generally,  all  sorts  of  \
 mythical  traditions  are  looked  upon  chiefly  as  materials
@@ -4637,9 +3970,6 @@ of  laws  and  rules  for  social  life.  Such  knowledge  as
 INTRODUCTION.
 
 
-87
-
-
 they  convey  is  unconsciously  imbibed  by  the  native
 from  his  earliest  childhood  through  listening  to  the
 story-tellers,  exactly  as  a child  learns  to  speak.  And
@@ -4652,10 +3982,8 @@ kept  up  in  this  manner  by  succeeding  generations.  The
 information  used  for  our  introductory  remarks  has  also
 been  chiefly  derived  from  this  source.
 
-Ethnologists  and  travellers  will  find  themselves  mis-
-taken if  they  expect  to  discover  traditions  that  might
-supply  direct  information  regarding  the  origin  and  his-
-tory of  the  Eskimo.  The  more  recent  tales  only  may  be
+Ethnologists  and  travellers  will  find  themselves  mistaken if  they  expect  to  discover  traditions  that  might
+supply  direct  information  regarding  the  origin  and  history of  the  Eskimo.  The  more  recent  tales  only  may  be
 said  to  include  such  real  historical  material,  and  that
 merely  relating  to  family  matters  and  events  going  back
 as  far  as  four  or  six  generations.  The  author  has  often
@@ -4668,8 +3996,7 @@ European  ships,  or  even  the  terrible  smallpox  epidemic
 of  comparatively  recent  date — viz.,  1733-34.  But  these
 attempts  have  been  almost  entirely  without  result ; and,
 as  already  said,  the  tales  dating  from  an  intermediate
-period  are  either  very  scanty,  or  at  least  must  be  sup-
-posed devoid  of  any  historical  interest.  It  may  be
+period  are  either  very  scanty,  or  at  least  must  be  supposed devoid  of  any  historical  interest.  It  may  be
 considered  certain  that  the  present  tribes  of  the  nation
 have  not  the  remotest  idea  of  their  common  original
 home,  nor  of  the  migrations  and  rovings  by  which  their
@@ -4678,9 +4005,6 @@ them.  Still,  it  may  be  supposed  that  at  least  a part
 of  their  oldest  tales  have  originated  in  true  historical
 events — are,  in  a word,  “ myths  of  observation  ; ” but
 in  order  to  extract  any  reliable  historical  information
-
-
-88
 
 
 INTRODUCTION.
@@ -4699,8 +4023,7 @@ a period  intermediate  between  ancient  and  modern
 times.  When  the  Eskimo  invaded  the  southern  part
 of  Greenland,  they  soon  commenced  hostilities  with
 the  ancient  Scandinavian  settlers,  who  were  at  length
-defeated,  or  totally  disappeared.  Among  the  gener-
-ations immediately  succeeding  these  events,  there
+defeated,  or  totally  disappeared.  Among  the  generations immediately  succeeding  these  events,  there
 must  doubtless  have  existed  several  traditions  about
 the  numerous  feuds  which  must  be  supposed  to  have
 occurred  between  the  parties ; but  by-and-by  they  were
@@ -4720,8 +4043,7 @@ similar  tales,  originating  from  the  period  when  the
 Eskimo  got  their  first  dogs  by  domesticating  some
 species  of  wild  animal,  such  as  the  wolf.
 
-Next,  it  must  be  remembered  that  no  tale  could  main-
-tain its  existence  unless  it  was  entertaining  to  the
+Next,  it  must  be  remembered  that  no  tale  could  maintain its  existence  unless  it  was  entertaining  to  the
 audiences  to  whom  it  was  related  from  time  to  time,
 and  especially  unless  it  was  easy  to  comprehend
 without  any  elaborate  explanation.  For  this  pur-
@@ -4730,19 +4052,14 @@ without  any  elaborate  explanation.  For  this  pur-
 INTRODUCTION.
 
 
-89
-
-
 pose  the  tales  had  to  be  localised,  or  adapted  to  the
 different  countries  in  which  the  tribes  in  course  of  time
 came  to  settle  down,  carrying  their  original  traditions
 with  them — as,  for  instance,  when  told  in  Greenland,
 their  heroes  were  described  as  inhabitants  not  only  of
 Greenland,  but  even  of  various  districts  of  the  country,
-according  to  the  location  of  the  narrator  and  his  lis-
-teners. And,  moreover,  when  foreign  nations  and
-animals  unknown  in  Greenland  happened  to  be  men-
-tioned in  the  ancient  tales,  they  were  generally,  as  time
+according  to  the  location  of  the  narrator  and  his  listeners. And,  moreover,  when  foreign  nations  and
+animals  unknown  in  Greenland  happened  to  be  mentioned in  the  ancient  tales,  they  were  generally,  as  time
 went  on,  transformed  into  supernatural  beings,  with
 which  the  imagination  of  the  Greenlanders  forthwith
 peopled  the  vast  interior  of  their  land,  as  well  as  the
@@ -4750,8 +4067,7 @@ adjacent  sea.
 
 Besides  religion  and  history,  these  traditional  tales
 also  represent  the  poetry  of  the  inhabitants  of  the  frozen
-North  ; and  this  element  has  mainly  inspired  their  lis-
-teners with  that  love  for  them  which  still  continues.
+North  ; and  this  element  has  mainly  inspired  their  listeners with  that  love  for  them  which  still  continues.
 They  present  a true  picture  of  what  is  likely  to  have
 formed  the  principal  objects  of  the  people’s  imagination,
 of  what  is  considered  great  and  delightful  on  one  side,
@@ -4768,12 +4084,8 @@ room.  No  wonder  that  such  a scarcity  of  objects,  and
 such  simplicity  of  passions  and  feelings  in  these  details
 of  human  life,  render  them  uniform  and  rather  fatiguing
 to  us ; but,  on  the  other  hand,  we  cannot  but  admit  that
-their  inventors  have  exhibited  a peculiar  skill  in  pro-
-ducing effect  and  variety  with  the  help  of  such  very
+their  inventors  have  exhibited  a peculiar  skill  in  producing effect  and  variety  with  the  help  of  such  very
 scanty  materials.  Closer  examination  will  scarcely  fail
-
-
-90
 
 
 INTRODUCTION.
@@ -4782,27 +4094,22 @@ INTRODUCTION.
 to  discover  real  poetical  feeling  in  their  way  of  causing
 the  highest  perfection  to  be  developed  from  the  very
 smallest  beginnings,  as  well  as  in  their  art  of  holding
-forth  the  dangers  on  one  side  and  the  means  of  over-
-coming them  on  the  other,  just  as  it  might  suit  the  nar-
+forth  the  dangers  on  one  side  and  the  means  of  overcoming them  on  the  other,  just  as  it  might  suit  the  nar-
 rator’s object  of  arresting  the  attention  of  their  audience.
 The  poetical  elements  are  also  closely  connected  with
 the  religious  contents,  and  many  religious  opinions  may
 further  be  regarded  as  emblematical  or  poetical.  Such,
 for  example,  are  expressions  for  certain  ideas — such  as,
-for  instance,  certain  human  qualities,  the  voice  of  con-
-science, an  invisible  ruling  justice,  and  several  powers  of
+for  instance,  certain  human  qualities,  the  voice  of  conscience, an  invisible  ruling  justice,  and  several  powers  of
 nature  in  their-  relation  to  mankind.  A tendency  to
 figurative  expression  is  also  shown  in  their  habit  of
 representing  mankind  in  different  stages  of  sexes  and
 ages  as  personifications  of  certain  common  human
-qualities.  For  instance,  the  old  bachelors  always  repre-
-sent some  ridiculous  oddity  ; the  wife  is  in  general  re-
-presented as  with  no  care  but  of  providing  for  her  house-
-hold, or  how  best  she  can  economise  ; the  poor  widow  is
+qualities.  For  instance,  the  old  bachelors  always  represent some  ridiculous  oddity  ; the  wife  is  in  general  re-
+presented as  with  no  care  but  of  providing  for  her  household, or  how  best  she  can  economise  ; the  poor  widow  is
 represented  as  especially  excelling  in  benevolence  and
 mercy ; a band  of  five  brothers,  generally  called  “ a lot
-of”  brothers  or  men,  represent  haughtiness  and  bru-
-tality, and  “ the  middlemost  ” of  them,  moreover,  means
+of”  brothers  or  men,  represent  haughtiness  and  brutality, and  “ the  middlemost  ” of  them,  moreover,  means
 envy.
 
 The  materials  upon  which  the  author  has  founded
@@ -4812,17 +4119,13 @@ the  natives,  and  in  the  latter  case  to  a large  extent  by
 the  author  himself.  The  manuscripts  collected  in  this
 manner  amounted  to  upwards  of  five  hundred  sheets  or
 two  thousand  pages,  and  could  be  referred  to  about
-fifty  native  narrators  or  story-tellers.  Several  difficul-
-ties were  met  with  in  collecting  these  materials.  The
+fifty  native  narrators  or  story-tellers.  Several  difficulties were  met  with  in  collecting  these  materials.  The
 mode  most  generally  adopted  by  travellers  when  making
 inquiries  among  a barbarous  or  foreign  people  about
 their  traditions  is  that  of  selecting  certain  facts  as  sub-
 
 
 INTRODUCTION.
-
-
-91
 
 
 jects  for  questioning  them  upon,  such  as  how  their
@@ -4835,15 +4138,12 @@ the  questioner  and  get  rid  of  the  trouble  he  causes  them,
 will  be  influenced  in  their  answers  chiefly  by  what  they
 think  the  questioner  would  best  like  to  hear.  The  only
 way  to  acquire  the  information  wanted  is  simply  to
-make  the  natives  relate  what  forms  the  principal  sub-
-ject of  the  stories  told  at  their  own  assemblies.  To
+make  the  natives  relate  what  forms  the  principal  subject of  the  stories  told  at  their  own  assemblies.  To
 make  them  understand  that  this  was  all  we  desired
 caused,  however,  the  first  difficulty.  The  next  arose
-from  their  fear  of  being  accused  of  heathenish  supersti-
-tion by  revealing  those  superstitious  tales  to  strangers.
+from  their  fear  of  being  accused  of  heathenish  superstition by  revealing  those  superstitious  tales  to  strangers.
 In  consequence  of  these  hindrances,  several  Europeans
-whom  the  author  had  specially  requested  to  make  in-
-vestigations among  the  natives  with  whom  they  lived,
+whom  the  author  had  specially  requested  to  make  investigations among  the  natives  with  whom  they  lived,
 came  to  the  erroneous  conclusion  that  no  traditions  at
 all,  or  only  the  most  trifling  ones,  existed  in  the  country.
 Lastly,  it  may  easily  be  imagined  that  part  of  the
@@ -4851,14 +4151,12 @@ manuscripts  forwarded  to  him  were  in  an  incomplete
 and  exceedingly  illegible  condition  — some  of  them,
 indeed,  conveying  no  meaning  whatever.
 
-The  principal  tales  have  for  the  most  part  been  col-
-lated from  more  than  one  version,  and  all  the  variations
+The  principal  tales  have  for  the  most  part  been  collated from  more  than  one  version,  and  all  the  variations
 have  been  most  carefully  examined  and  compared  for
 the  purpose  of  composing  a text  such  as  might  agree
 best  with  the  supposed  original  and  most  popular
 mode  of  telling  the  same  story.  In  the  first  and
-principal  part  of  the  collection,  the  tales  are  in  gene-
-ral to  be  considered  as  a nearly  literal  rendering  of
+principal  part  of  the  collection,  the  tales  are  in  general to  be  considered  as  a nearly  literal  rendering  of
 the  verbal  narratives,  with  only  the  omission  of  the
 more  arbitrary  reiterations  and  interpolations  already
 referred  to.
@@ -4866,14 +4164,10 @@ referred  to.
 The  natives  who  have  contributed  to  this  collection
 
 
-92
-
-
 INTRODUCTION.
 
 
-were  inhabitants  of  the  following  parts  of  Eskimo-
-land  : —
+were  inhabitants  of  the  following  parts  of  Eskimoland  : —
 
 South  Greenland,  or  the  west  coast  of  Greenland  up
 to  6f  N.L.
@@ -4893,11 +4187,9 @@ in  that  part  of  the  country,  but  were  picked  up  on  the
 west  coast  from  east-coast  people  who  had  wandered
 round  Cape  Farewell  into  the  Danish  settlement.  From
 Labrador  only  sixteen  tales  have  been  obtained,  from
-materials  written  down  by  Moravian  missionaries  resi-
-dent in  that  country  in  the  years  1861-63,  and  one  half
+materials  written  down  by  Moravian  missionaries  resident in  that  country  in  the  years  1861-63,  and  one  half
 of  those  are  undoubtedly  identical  with  Greenland  tales,
-some  passages  of  them  even  exhibiting  the  most  strik-
-ing verbal  conformity.  Besides  the  tales  written  down
+some  passages  of  them  even  exhibiting  the  most  striking verbal  conformity.  Besides  the  tales  written  down
 in  North  Greenland  in  1861-63,  the  author  was  furnished
 with  a very  valuable  collection  written  down  by  natives
 there  in  the  years  1823-28,  but  never  published.
@@ -4905,8 +4197,7 @@ there  in  the  years  1823-28,  but  never  published.
 It  has  generally  been  an  easy  task  to  make  out
 whether  the  written  relations  had  the  character  of  true
 folk-lore,  or  might  have  been  of  foreign  origin — i.  e., either
-from  European  sources  or  to  be  traced  to  mere  indi-
-vidual invention.  Only  a few  instances  of  this  still
+from  European  sources  or  to  be  traced  to  mere  individual invention.  Only  a few  instances  of  this  still
 remain  doubtful.
 
 The  entire  collection  of  manuscripts  consisted  of  more
@@ -4946,8 +4237,7 @@ old  woman.  These  poor  people  had  a wretched  little
 shed  adjoining  the  house-passage / and  they  were  not
 allowed  to  enter  the  main  room.  Kagsagsuk  did  not
 even  venture  to  enter  the  shed,  but  lay  in  the  passage,
-seeking  to  warm  himself  among  the  dogs.  In  the  morn-
-ing, when  the  men  were  rousing  their  sledge-dogs  with
+seeking  to  warm  himself  among  the  dogs.  In  the  morning, when  the  men  were  rousing  their  sledge-dogs  with
 their  whips,  they  often  hit  the  poor  boy  as  well  as  the
 dogs.  He  then  would  cry  out,  “ Na-ah  ! Na-ah  !”
 
@@ -4955,12 +4245,6 @@ dogs.  He  then  would  cry  out,  “ Na-ah  ! Na-ah  !”
 tunnel,  leading  by  an  upward  step  to  the  main,  or  rather  the  only,  room  of
 the  winter  hut,  and  adapted  to  keeping  out  the  cold  air.  Its  ends  we  have
 called  the  outer  and  the  inner  entrance.
-
-
-94
-
-
-TALES  AND  TRADITIONS.
 
 
 mocking  himself  in  imitating  the  dogs.  When  the  men
@@ -4972,8 +4256,7 @@ fingers  into  his  nostrils  ; these  accordingly  enlarged,
 but  otherwise  he  did  not  grow  at  all.  They  would  give
 the  poor  wretch  frozen  meat,  without  allowing  him  a
 knife  to  cut  it  with,  saying  his  teeth  might  do  instead  ;
-and  sometimes  they  pulled  out  a couple  of  teeth,  com-
-plaining of  his  eating  too  much.  His  poor  foster-
+and  sometimes  they  pulled  out  a couple  of  teeth,  complaining of  his  eating  too  much.  His  poor  foster-
 mother  procured  him  boots  and  a small  beard-spear,  in
 order  to  enable  him  to  go  outside  the  house  and  play
 with  the  other  children  ; but  they  would  turn  him  over
@@ -4981,8 +4264,7 @@ and  roll  him  in  the  snow,  filling  his  clothes  with  it,  and
 treating  him  most  cruelly  in  various  ways  : the  girls
 sometimes  covered  him  all  over  with  filth.  Thus  the
 little  boy  was  always  tormented  and  mocked,  and  did
-not  grow  except  about  the  nostrils.  At  length  he  ven-
-tured out  among  the  mountains  by  himself,  choosing
+not  grow  except  about  the  nostrils.  At  length  he  ventured out  among  the  mountains  by  himself,  choosing
 solitary  places,  and  meditating  how  to  get  strength.
 His  foster-mother  had  taught  him  how  to  manage  this.
 Once,  standing  between  two  high  mountains,  he  called
@@ -5000,12 +4282,6 @@ stopped.”  Again  it  wound  its  tail  round  the  boy,  and
 again  they  fell  down,  but  the  little  bones  were  fewer
 this  time  ; and  when  the  beast  threw  him  down  the
 third  time,  the  last  bones  fell  off.  The  fourth  time  he
-
-
-TALES  AND  TRADITIONS.
-
-
-95
 
 
 did  not  quite  fall,  and  at  the  fifth  he  did  not  fall  at  all,
@@ -5029,8 +4305,7 @@ do  ; human  beings  will  not  be  able  to  conquer  thee  any
 more.  Still,  thou  hast  better  stick  to  thy  old  habits.
 When  winter  sets  in,  and  the  sea  is  frozen,  then  is  thy
 time  to  show  thyself ; three  great  bears  will  then  appear,
-and  they  shall  be  killed  by  thy  hand.”  That  day  Kag-
-sagsuk ran  all  the  way  back,  kicking  the  stones  right
+and  they  shall  be  killed  by  thy  hand.”  That  day  Kagsagsuk ran  all  the  way  back,  kicking  the  stones  right
 and  left,  as  was  his  wont.  But  at  home  he  went  on  as
 usual,  and  the  people  tormented  him  more  than  ever.
 One  day,  in  the  autumn,  the  kayakers  1 returned  home
@@ -5044,14 +4319,10 @@ slipped  out  of  the  house,  and  having  reached  the  beach,
 and  loosened  the  moorings,  he  flung  the  piece  of  timber  on
 his  shoulders  and  carried  it  up  behind  the  house,  where
 
-1 Men  in  their  kayaks,  or  skin  canoes,  made  for  the  purpose  of  seal-
-hnnting,  with  room  only  for  a single  person.
+1 Men  in  their  kayaks,  or  skin  canoes,  made  for  the  purpose  of  sealhnnting,  with  room  only  for  a single  person.
 
 
 9 6
-
-
-TALES  AND  TRADITIONS.
 
 
 he  buried  it  deep  in  the  ground.  In  the  morning,  when
@@ -5087,17 +4358,10 @@ his  ragged  clothes  around  him,  and  then  was  off  for  the
 bears.  Those  who  were  standing  outside  cried,  “Well,
 if  that  is  not  Kagsagsuk ! What  can  he  be  about  ?
 Kick  him  away!”  and  the  girls  went  on,  “He  must
-surely  be  out  o£  his  wits  ! ” But  Kagsagsuk  came  run-
-ning right  through  the  crowd,  as  if  they  had  been  a
+surely  be  out  o£  his  wits  ! ” But  Kagsagsuk  came  running right  through  the  crowd,  as  if  they  had  been  a
 shoal  of  small  fish ; his  heels  seemed  almost  to  be
 touching  his  neck,  while  the  snow,  foaming  about,
 sparkled  in  rainbow  colours.  He  ascended  the  iceberg
-
-
-TALES  AND  TRADITIONS.
-
-
-97
 
 
 by  taking  hold  with  his  hands,  and  instantly  the  largest
@@ -5115,8 +4379,7 @@ of  by  the  fore-paws,  and,  swinging  it  above  his  head,  he
 hurled  it  at  the  bystanders,  crying,  “This  fellow  behaved
 shamefully  towards  me!”  and  then,  smiting  another,
 “ That  one  treated  me  still  worse ! ” until  they  all  fled
-before  him,  making  for  the  house  in  great  conster-
-nation. On  entering  it  himself  he  went  straight  to  his
+before  him,  making  for  the  house  in  great  consternation. On  entering  it  himself  he  went  straight  to  his
 foster-mother  with  the  two  bear-skins,  crying,  “ There
 is  one  for  thy  couch,  and  another  for  thy  coverlet ! ”
 after  which  he  ordered  the  flesh  of  the  bears  to  be
@@ -5135,18 +4398,11 @@ down,  as  usual,  on  the  side-ledge.  Some  of  them  went
 
 1 Take  off  the  skin  and  blubber.
 
-2 The  main  ledge  or  bench  ; a low  and  broad  bench  for  sitting  and  sleep-
-ing places,  occupying  the  whole  length  of  the  wall  opposite  to  the  windows,
+2 The  main  ledge  or  bench  ; a low  and  broad  bench  for  sitting  and  sleeping places,  occupying  the  whole  length  of  the  wall  opposite  to  the  windows,
 the  narrower  side-ledge  and  window-ledge  bordering  the  other  walls.  It
 is  generally  known  in  Greenland  as  the  “brix.”
 
 G
-
-
-98
-
-
-TALES  AND  TRADITIONS.
 
 
 on,  “We  have  got  boots  for  Kagsagsuk;”  and  others,
@@ -5182,18 +4438,10 @@ is  known  all  along  the  coast,  and  on  many  places  there
 are  marks  of  his  great  deeds  still  shown,  and  this  is  why
 the  history  of  Kagsagsuk  is  supposed  to  be  true.
 
-Note. — In  the  Labrador  tale,  the  name  of  the  champion  is  called  Kau-
-jakjuk,  and  in  different  copies  from  Greenland,  Kausaksuk,  Kassaksuk,
+Note. — In  the  Labrador  tale,  the  name  of  the  champion  is  called  Kaujakjuk,  and  in  different  copies  from  Greenland,  Kausaksuk,  Kassaksuk,
 Kausasuk,  and  Kauksaksuk.  Several  parts  of  Greenland  claim  the  honour
-of  pointing  out  the  ruins  of  his  house.  A remarkable  ruin  on  cape  Noog-
-suak,  of  a very  doubtful  origin,  is  supposed  to  have  been  his  bear-trap.  In
+of  pointing  out  the  ruins  of  his  house.  A remarkable  ruin  on  cape  Noogsuak,  of  a very  doubtful  origin,  is  supposed  to  have  been  his  bear-trap.  In
 one  of  the  writings,  the  relater,  hinting  at  the  European  fancy  for  curiosities.
-
-
-TALES  AND  TRADITIONS.
-
-
-99
 
 
 observes  : “I  wonder  why  the  masters,  or  even  the  king  himself,  who  all
@@ -5225,8 +4473,7 @@ the  beginning  of  winter  he  caught  a thong-seal  (a  very
 large  species,  Phoca  barbata 1).  On  bringing  it  home,
 his  mother  wanted  the  skin  for  a ledge-cover,  but  he
 insisted  on  having  it  for  making  hunting-lines?  The
-mother  grew  angry,  and  in  preparing  the  skin  and  re-
-moving the  hairs,  she  practised  some  witchcraft  on  it,
+mother  grew  angry,  and  in  preparing  the  skin  and  removing the  hairs,  she  practised  some  witchcraft  on  it,
 and  spoke  thus : “ When  he  cuts  thee  into  thongs,
 when  he  cuts  thee  asunder,  then  thou  shalt  snap  and
 smite  his  face  and  she  rejoiced  in  the  thought  that
@@ -5239,14 +4486,7 @@ Society  of  London  (1868)  ; and  the  Admiralty  Manual  of  the  Natural
 History  of  Greenland  (1875).
 
 2 Line  or  thong  attached  with  one  end  to  the  harpoon,  with  the  other  to
-the  hunting-bladder,  an  inflated  entire  seal-skin,  which  prevents  the  har-
-pooned seals  running  away.
-
-
-100
-
-
-TALES  AND  TRADITIONS.
+the  hunting-bladder,  an  inflated  entire  seal-skin,  which  prevents  the  harpooned seals  running  away.
 
 
 ations,  and  he  had  cut  out  the  first  thong,  he  stretched
@@ -5258,8 +4498,7 @@ main  provisions,  and  had  to  live  entirely  upon  mussels
 ( Mytilus  edulis ) ; and  the  blind  boy  took  his  place  on  the
 ledge,  unable  to  go  out  hunting  any  more.  Thus  he
 passed  the  first  half  of  the  winter.  A great  bear  then
-appeared,  which  began  to  eat  away  their  (skin J)  window-
-pane,  and  next  thrust  its  head  into  the  room.  The
+appeared,  which  began  to  eat  away  their  (skin J)  windowpane,  and  next  thrust  its  head  into  the  room.  The
 mother  and  the  sister  fled  in  great  terror  to  the  inmost
 retired  part  of  the  ledge ; but  the  blind  man  said  to  his
 sister,  “Please  bring  my  bow;”  and  she  having  given
@@ -5286,11 +4525,7 @@ be  off  again.  I can  take  hold  of  thee.”  And  the  next
 morning  at  daybreak  they  went  out  together,  he  taking
 
 1 In  modem  times,  most  of  the  Eskimo  huts  in  Danish  Greenland  have
-got  glass  window-panes  ; but  through  Eskimo-land  generally,  the  semi-
-transparent entrail  of  some  animal  serves  this  purpose.
-
-
-TALES  AND  TRADITIONS.
+got  glass  window-panes  ; but  through  Eskimo-land  generally,  the  semitransparent entrail  of  some  animal  serves  this  purpose.
 
 
 IOI
@@ -5300,8 +4535,7 @@ hold  of  her  garments  ; and  all  day  long  they  wandered
 about,  the  sister  occupied  in  gathering  shrubs 1 for  fuel.
 One  day  they  came  to  a large  plain  beside  a lake,  and
 the  brother  then  said,  “ I think  I will  lie  down  a little,
-while  thou  goest  away  to  find  more  fuel ; ” and  accord-
-ingly she  left  him.  Whilst  he  was  thus  resting  himself,
+while  thou  goest  away  to  find  more  fuel ; ” and  accordingly she  left  him.  Whilst  he  was  thus  resting  himself,
 he  heard  some  wild  geese  flying  in  the  air  above  him,
 and  when  they  were  right  over  his  head,  he  heard  one  of
 them  crying  out,  “ Look  at  the  poor  young  man  down
@@ -5336,19 +4570,12 @@ had  happened.  In  descending  the  hills,  and  approach-
 dwarf  birch  ( Beticla  nana),  &c.
 
 
-102
-
-
-TALES  AND  TRADITIONS.
-
-
 ing  the  house,  he  caught  sight  of  his  bear-skin  stretched
 out  to  dry,  and  in  front  of  the  entrance  its  bones,  and  on
 entering  the  main  room  he  got  a glimpse  of  its  paws.
 Shutting  his  eyes,  he  now  took  his  usual  place  on  the
 ledge,  and  feigning  to  have  been  asleep,  he  started  up,
-saying,  “ I dreamt  I saw  a bear-skin  stretched  out  be-
-hind the  house ; ” but  the  old  woman  merely  replied,
+saying,  “ I dreamt  I saw  a bear-skin  stretched  out  behind the  house ; ” but  the  old  woman  merely  replied,
 “ Thou  must  surely  have  been  thinking  about  somebody
 who  happened  to  hurt  thee  some  time  ago.”  Again  the
 son  feigned  sleeping,  and  starting  up,  he  said,  “ Methinks
@@ -5360,8 +4587,7 @@ mother  again  giving  the  same  answer,  suddenly  opening
 his  eyes,  he  said,  “ Mother,  I mean  these ; ” and  then
 she  knew  that  he  had  regained  the  use  of  his  eyes,  and
 she  exclaimed,  “Eat  them,  just  eat  them!”  He  now
-took  up  his  old  habits,  and  again  commenced  seal-hunt-
-ing ; but,  after  some  time,  the  idea  grew  upon  him  to
+took  up  his  old  habits,  and  again  commenced  seal-hunting ; but,  after  some  time,  the  idea  grew  upon  him  to
 take  revenge  on  his  detestable  old  mother.  The  season
 was  at  hand  when  the  white  whales  1 began  to  appear
 along  the  ice-bound  shore,  and  he  used  to  catch  them  in
@@ -5377,22 +4603,14 @@ One  day,  returning  home,  he  asked  his  sister,  “ Dost
 thou  like  our  old  mother  ? ” She  made  no  answer  ; but
 on  his  repeating  the  question  she  only  answered,  “ I am
 
-1 “White  fish,” — a large  sort  of  dolphin — the  Beluga  or  Delphinus  albi-
-cans of  zoologists.  It  is  captured  in  great  abundance  in  Greenland.
+1 “White  fish,” — a large  sort  of  dolphin — the  Beluga  or  Delphinus  albicans of  zoologists.  It  is  captured  in  great  abundance  in  Greenland.
 
 2 The  inflated  skin  or  bladder  attached  to  the  line  to  bring  up  the  animal,
 as  well  as  the  weapon  when  it  has  missed  its  mark  and  fallen  into  the  sea.
 
 
-TALES  AND  TRADITIONS.
-
-
-103
-
-
 more  fond  of  thee  than  of  her  ; thou  art  the  only  one  I do
-love.”  “Well, then, to-morrow  she  shall  serve  us  for  a blad-
-der. I’ll  pay  her  off  for  having  made  me  blind.”  They
+love.”  “Well, then, to-morrow  she  shall  serve  us  for  a bladder. I’ll  pay  her  off  for  having  made  me  blind.”  They
 both  agreed  upon  the  plan  ; and  returning  to  the  house
 where  they  found  the  mother  busy  mending  boots,  he
 said,  “ Oh  dear,  how  tired  we  are  with  hauling  in  the  fish!
@@ -5410,14 +4628,12 @@ instant,  however,  one  of  the  very  largest  fishes  rose  to
 the  surface  ; and  harpooning  it,  he  let  go  his  hold  of  the
 line,  and  when  the  animal  had  drawn  his  mother  pretty
 close  to  the  water,  he  cried  out,  “ Dost  thou  remember
-the  time  thou  madest  me  blind  ? ” and  while  she  en-
-deavoured to  hold  back,  he  pushed  her  on,  saying,  “ That
+the  time  thou  madest  me  blind  ? ” and  while  she  endeavoured to  hold  back,  he  pushed  her  on,  saying,  “ That
 fellow  will  give  me  my  revenge.”  When  she  was  close
 to  the  very  edge  of  the  water,  she  cried,  “ My  ullo ! ”
 (woman’s  knife) — “ it  was  I who  nursed  thee  ; ” and  with
 these  words  she  was  plunged  into  the  sea,  which  soon
-covered  her.  Still  she  reappeared  on  the  surface,  cry-
-ing, “ My  rillo,  my  ullo ; I nursed  thee ! ” but  then  dis-
+covered  her.  Still  she  reappeared  on  the  surface,  crying, “ My  rillo,  my  ullo ; I nursed  thee ! ” but  then  dis-
 appeared for  ever.  It  is  said  that  she  was  afterwards
 transformed  into  a fish,  and  that  her  spreading  hair
 turned  into  long  horny  teeth,  from  which  the  narwals1
@@ -5430,18 +4646,11 @@ that  she  had  nursed  them,  and  taken  care  of  them.
 1 Monodon  monoceros.
 
 
-104
-
-
-TALES  AND  TRADITIONS.
-
-
 They  now  began  to  be  terrified  at  their  deed,  and
 dared  not  stay  in  their  little  house ; they  therefore
 fled  on  eastward,  far  away  to  the  large  continent,
 roaming  about  the  interior  parts  of  the  country.1  At
-first  he  would  not  even  kill  a bird,  feeling  pity  to-
-wards them  for  having  restored  the  use  of  his  eyes  to
+first  he  would  not  even  kill  a bird,  feeling  pity  towards them  for  having  restored  the  use  of  his  eyes  to
 him  ; but  at  last  he  killed  a swan,  because  his  sister
 wanted  to  have  it,  and  it  is  said  that  this  was  the  only
 bird  he  caught  for  the  remainder  of  his  life.  Far  away
@@ -5466,8 +4675,7 @@ my  childhood  that  many  many  years  ago  there  lived  a
 brother  and  a sister  who  fastened  their  poor  mother  as  a
 bladder  to  a white  whale.”  The  stranger  outside  then
 said  : “ I am  that  very  man  ; I have  come  to  denounce
-myself : do  come  out  and  see  what  I am  like.”  The  an-
-gakok went  out,  followed  by  his  auditors,  and  they  saw
+myself : do  come  out  and  see  what  I am  like.”  The  angakok went  out,  followed  by  his  auditors,  and  they  saw
 him  standing  erect  in  the  bright  moonlight  beside  the
 boat.  The  hair  of  his  head  was  snowy  white,  as  if  he
 
@@ -5476,15 +4684,8 @@ of  Greenland  were  called  kivigtoks,  and  believed  to  acquire  supernatura
 qualities — such  as  clairvoyance,  immense  swiftness,  and  longevity.
 
 
-TALES  AND  TRADITIONS.
-
-
-105
-
-
 had  been  covered  with  a hood  of  white  hare-skins  ; but
-his  face  was  black,  and  his  clothes  were  made  of  rein-
-deer-skins, and  he  told  them  that  his  sister  was  not  able
+his  face  was  black,  and  his  clothes  were  made  of  reindeer-skins, and  he  told  them  that  his  sister  was  not  able
 to  move  from  old  age,  and  that  they  had  their  hut  far
 away  in  the  interior  of  the  country,  and  that  their  house-
 
@@ -5506,17 +4707,13 @@ cried,  “ It  was  I who  cleared  away  thy  urine  ” — instead  of  “ 
 io6
 
 
-TALES  AND  TRADITIONS.
-
-
 3.
 
 
 IGIMARASUGSUK.
 
 [This  somewhat  trifling  but  still  curious  story  is  well  known  to  every  child
-in  Greenland  ; and  one  tale  has  also  been  got  from  Labrador,  and  is  un-
-doubtedly another  reading  of  the  same  original,  though  much  abridged
+in  Greenland  ; and  one  tale  has  also  been  got  from  Labrador,  and  is  undoubtedly another  reading  of  the  same  original,  though  much  abridged
 and  altered.]
 
 IT  was  said  of  Igimarasugsuk  that  he  always  lost  his
@@ -5538,8 +4735,7 @@ to  dress  and  boil  some  parts  of  the  body  of  her  brother.
 Igimarasugsuk  now  commenced  eating,  and  offered  a
 piece  of  an  arm  to  his  wife,  insisting  upon  her  eating
 with  him ; but  she  only  feigned  to  do  so,  and  concealed
-her  portion  under  the  ashes  of  the  fire.  Then  the  hus-
-band exclaimed,  “ I actually  think  thou  art  crying  ! ”
+her  portion  under  the  ashes  of  the  fire.  Then  the  husband exclaimed,  “ I actually  think  thou  art  crying  ! ”
 “No,”  she  said;  “I  am  only  a little  shy.”  After  having
 devoured  his  brother-in-law,  the  husband  now  began  to
 fatten  his  wife  ; and  to  this  end  ordered  her  to  eat  nothing
@@ -5549,19 +4745,10 @@ not  able  to  move  about  at  all.  One  day  he  went  away,
 after  having  securely  shut  the  entrance  to  the  summer-
 
 
-TALES  AND  TRADITIONS.
-
-
-107
-
-
 tent,  fastening  it  with  strong  cords.  When  he  had
-been  gone  a considerable  time  she  took  her  knife,  let  her-
-self fall  down  from  the  bench,  and  rolled  herself  as  far
-as  to  the  entry.  By  great  efforts  she  crossed  the  thresh-
-old, and  was  now  in  the  fore-room,  where  she  cut  the
-strings  fastening  the  outer  curtain.  She  then  rolled  her-
-self down  to  a muddy  pool  and  drank  a great  deal  of
+been  gone  a considerable  time  she  took  her  knife,  let  herself fall  down  from  the  bench,  and  rolled  herself  as  far
+as  to  the  entry.  By  great  efforts  she  crossed  the  threshold, and  was  now  in  the  fore-room,  where  she  cut  the
+strings  fastening  the  outer  curtain.  She  then  rolled  herself down  to  a muddy  pool  and  drank  a great  deal  of
 water ; after  which  she  felt  less  heavy,  and  was  able  to
 get  up  and  walk  back.  She  re-entered  the  tent,  stuffed
 out  her  jacket,  put  it  on  the  bench  with  its  back  turned
@@ -5569,8 +4756,7 @@ outward  ; and  fastening  the  entrance  well,  she  went  away.
 But  being  convinced  that  her  husband  would  shortly
 pursue  her,  she  took  her  way  down  to  a very  large  piece
 of  drift-wood  that  had  been  hauled  ashore,  and  she  then
-worked  a spell  upon  it,  singing  thus  : “ Jd.ssugssu.aK  pin-
-gerssuaK,  ia-ha-ha,  arape,  Kupe,  sipe,  sipe  sisaria.”  And
+worked  a spell  upon  it,  singing  thus  : “ Jd.ssugssu.aK  pingerssuaK,  ia-ha-ha,  arape,  Kupe,  sipe,  sipe  sisaria.”  And
 forthwith  the  timber  opened  midways,  and  she  entered
 
 it,  again  singing,  “ KissugssuaK arape,  mame,
@@ -5585,8 +4771,7 @@ timber,  he  stopped  there,  and  she  plainly  heard  him  say  :
 “ Oh  what  a pity  I waited  so  long  in  killing  her!  oh  poor
 miserable  me ! ” Then  she  heard  him  turn  away  and
 return  several  times  ; but  every  trace  ending  at  the  large
-timber,  he  at  last  went  away,  and  she  again  sang  Kissug-
-ssuaK, &c.  &c.,  and  instantly  the  drift-wood  opening,
+timber,  he  at  last  went  away,  and  she  again  sang  KissugssuaK, &c.  &c.,  and  instantly  the  drift-wood  opening,
 she  crept  out  and  ran  farther  on.  But  lest  he  should
 overtake  and  discover  her,  she  hid  herself  in  a fox-hole.
 Every  trace  again  ending  here,  she  heard  him  digging
@@ -5599,24 +4784,17 @@ what  a pity,  poor  miserable  man  that  I am  ! ” &c.  &c.
 io8
 
 
-TALES  AND  TRADITIONS.
-
-
-Perceiving  him  to  be  gone,  she  again  set  off  on  her  jour-
-ney. Still,  however,  fearing  him,  she  next  took  refuge
+Perceiving  him  to  be  gone,  she  again  set  off  on  her  journey. Still,  however,  fearing  him,  she  next  took  refuge
 behind  some  bushes.  Again  she  heard  him  come  and
 repeat  his  old  lament : “ What  a pity  I put  off  eating
 her  so  long!”  and  again  going  away,  he  immediately
-returned,  saying,  “ Here  every  trace  of  her  ends.”  Pro-
-ceeding on  her  way,  she  now  had  a faint  hope  of  reach-
+returned,  saying,  “ Here  every  trace  of  her  ends.”  Proceeding on  her  way,  she  now  had  a faint  hope  of  reach-
 ing some  inhabited  place  ere  he  could  get  up  with  her
 again.  At  length  she  caught  sight  of  some  people
 gathering  berries  in  the  country  ; but  on  perceiving  her
 they  were  on  the  point  of  taking  fright,  when  she  cried
-out,  “ I am  the  wife  of  Igimarasugsuk.”  They  now  ap-
-proached her,  and  taking  hold  of  her  hands,  brought  her
-to  their  home.  Having  arrived  there  she  said  : “ Igim-
-arasugsuk, who  has  the  habit  of  eating  his  wives,  has
+out,  “ I am  the  wife  of  Igimarasugsuk.”  They  now  approached her,  and  taking  hold  of  her  hands,  brought  her
+to  their  home.  Having  arrived  there  she  said  : “ Igimarasugsuk, who  has  the  habit  of  eating  his  wives,  has
 also  eaten  his  brother-in-law  ; and  if  he  really  wants  to
 get  hold  of  me  too,  he  will  be  sure  to  come  and  fetch  me  ;
 and  as  he  is  very  fond  of  entertainment,  ye  had  better
@@ -5626,10 +4804,8 @@ up  and  went  out  to  welcome  him,  saying  : “ We  trust  thy
 people  at  home  are  quite  well.”  “Yes,  they  are  very
 well  indeed,”  he  answered.  When  he  had  entered  they
 served  a meal  before  him,  and  afterwards  offered  him  a
-drum,  saying,  “ Now  let  us  have  a little  of  thy  perform-
-ance.” He  took  hold  of  the  drum,  but  soon  returned
-it  to  one  of  the  others,  saying,  “Ye  ought  rather  to  en-
-tertain me  ; ” and  the  other  man,  seizing  the  drum,  be-
+drum,  saying,  “ Now  let  us  have  a little  of  thy  performance.” He  took  hold  of  the  drum,  but  soon  returned
+it  to  one  of  the  others,  saying,  “Ye  ought  rather  to  entertain me  ; ” and  the  other  man,  seizing  the  drum,  be-
 gan to  sing  : “ Igimarasugsuk — the  cruel  man — who  ate
 his  wives.”  ...  At  these  words  Igimarasugsuk
 blushed  all  over  his  face  and  down  his  throat ; but  when
@@ -5639,9 +4815,6 @@ own  brother’s  arm,”  the  wife  came  forward,  saying,
 the  ashes.”  They  now  caught  hold  of  him,  and  the  wife
 killed  him  with  a lance,  saying,  “ Dost  thou  remember
 thrusting  thy  lance  into  my  stuffed  jacket  ? ”
-
-
-TALES  AND  TRADITIONS.
 
 
 IO9
@@ -5658,18 +4831,15 @@ from  five  copies,  written  in  different  parts  of  that  country.  Unlike  
 preceding  tales,  it  exhibits  a more  historical  appearance,  apparently
 referring  to  certain  occurrences  which  must  have  taken  place  during  the
 stay  of  the  primeval  Eskimo  on  the  shores  of  the  American  continent,
-and  have  been  repeated  until  our  day.  It  indicates  the  first  appear-
-ances of  culture  in  attempts  to  provide  tools  or  weapons  from  sea-
-shells,  stones,  and  metal,  as  well  as  conflicts  and  meetings  of  the  Eski-
-mo with  the  Indians,  which  in  recent  times  have  still  taken  place  on
+and  have  been  repeated  until  our  day.  It  indicates  the  first  appearances of  culture  in  attempts  to  provide  tools  or  weapons  from  sea-
+shells,  stones,  and  metal,  as  well  as  conflicts  and  meetings  of  the  Eskimo with  the  Indians,  which  in  recent  times  have  still  taken  place  on
 the  banks  of  the  Mackenzie  and  Coppermine  Rivers.  ]
 
 
 HREE  cousins  named  Kumagdlat,  Asalok,  and
 
 
-X Merak  were  very  fond  of  one  another.  Kumag-
-dlat occupied  a house  by  himself,  and  had  his  own  boat.1
+X Merak  were  very  fond  of  one  another.  Kumagdlat occupied  a house  by  himself,  and  had  his  own  boat.1
 The  other  two  kept  a house  and  a boat  in  partnership;  but
 they  all  assisted  each  other  early  and  late,  and  amused
 themselves  in  exercising  and  exhibiting  their  mutual
@@ -5681,12 +4851,10 @@ and  she  used  to  be  very  cross-tempered  ; and  one  day
 he  accosted  her  as  follows  : “ I won’t  have  cross  old
 women  living  in  my  house,  and  I shall  certainly  put
 thee  to  death  some  day  or  other.”  The  old  hag  now
-behaved  peacefully  and  quietly,  until  one  day  she  ex-
-claimed : “ I can  tell  thee,  it  is  not  without  reason  that
+behaved  peacefully  and  quietly,  until  one  day  she  exclaimed : “ I can  tell  thee,  it  is  not  without  reason  that
 I am  so  quiet  and  low-spirited  ; from  the  first  day  thou
 began  to  maintain  and  support  me  I have  been  very
-sorry  for  thee,  and  this  has  made  me  silent  and  down-
-hearted.” “ How  so  ? ” asked  Kumagdlat ; and  she  an-
+sorry  for  thee,  and  this  has  made  me  silent  and  downhearted.” “ How  so  ? ” asked  Kumagdlat ; and  she  an-
 swered : “ Is  it  not  that  thy  cousins  love  thee  so  very
 
 1 umiaK,  the  larger  skin-boat,  fit  for  one  to  three  families  travelling
@@ -5696,9 +4864,6 @@ with  their  tents,  and  all  the  other  necessaries,  for  the  summer  seaso
 1 10
 
 
-TALES  AND  TRADITIONS.
-
-
 dearly?  Nevertheless  they  now  intend  to  put  an  end
 to  thy  life.”  However,  she  had  invented  this  lie,  being
 so  ill-natured  and  resentful  that  she  could  not  even  sleep
@@ -5706,14 +4871,11 @@ at  night.  But  from  that  time  Kumagdlat  began  to  fear
 his  cousins ; and  though  he  never  used  to  be  parted  from
 them  all  day  long,  he  now  began  to  shun  them.  One
 day  in  the  spring  they  entered  his  house,  saying,  “ Art
-thou  not  going  out  in  thy  kayak  to-day  ? ” But  he  an-
-swered, “No,  I can’t  go  ; I must  leave  my  kayak  time
+thou  not  going  out  in  thy  kayak  to-day  ? ” But  he  answered, “No,  I can’t  go  ; I must  leave  my  kayak  time
 to  dry,” — and  accordingly  they  set  out  without  him.  In
 their  absence  he  dug  up  his  tent-poles  from  the  snow,
-and  had  just  finished  when  they  returned.  Next  morn-
-ing they  again  entered  with  the  same  question,  but  he
-answered  as  before:  “No,  I must  have  my  kayak  per-
-fectly dry  before  I can  use  it.”  They  would  have  liked
+and  had  just  finished  when  they  returned.  Next  morning they  again  entered  with  the  same  question,  but  he
+answered  as  before:  “No,  I must  have  my  kayak  perfectly dry  before  I can  use  it.”  They  would  have  liked
 him  to  go  with  them  ; but  as  he  would  not  be  persuaded,
 they  again  went  out  by  themselves.  As  soon  as  they
 were  out  of  sight  he  prepared  everything  for  leaving  his
@@ -5723,8 +4885,7 @@ to  the  people  on  shore  : “Tell  them  to  follow  as  soon  as
 possible ; we  intend  to  go  out  to  sea  to  our  usual  reserves  ”
 (depots  for  provisions) : and  so  saying,  he  started.  Asalok
 and  Merak  at  last  returned,  and  when  they  discovered
-that  Kumagdlat  was  gone,  they  made  inquiries,  and  re-
-ceived the  answer,  “ They  have  newly  departed,  and  left
+that  Kumagdlat  was  gone,  they  made  inquiries,  and  received the  answer,  “ They  have  newly  departed,  and  left
 word  that  they  intended  to  go  out  seaward  to  their
 usual  reserves,  and  that  they  wanted  you  to  follow  them
 as  soon  as  possible.”  They  at  once  determined  to  do
@@ -5733,16 +4894,14 @@ loaded,  and  away  they  went,  taking  the  usual  direction  :
 but  they  did  not  find  him,  nor  any  marks  or  traces  of
 him  along  the  shore.  It  is  said  that  Kumagdlat  had  the
 skull  of  a seal  for  an  amulet,  and  that  now  every  time
-when  he  had  to  pass  inhabited  places  he  fixed  his  amu-
-let on  the  prow  of  his  boat,  that  the  people  of  the  places
+when  he  had  to  pass  inhabited  places  he  fixed  his  amulet on  the  prow  of  his  boat,  that  the  people  of  the  places
 might  think  it  to  be  nothing  but  a spotted  seal  diving
 
 
 ■ TALES  AND  TRADITIONS.  1 1 1
 
 up  and  down.  But  in  one  of  the  settlements  he  thus
-passed  there  happened  to  be  a fool,  who  (fools  or  natu-
-rals being  considered  as  clairvoyants)  always  had  a pre-
+passed  there  happened  to  be  a fool,  who  (fools  or  naturals being  considered  as  clairvoyants)  always  had  a pre-
 sentiment of  whatever  was  to  take  place,  and  being
 aware  of  the  boat  passing  by,  he  cried  out,  “ A boat ! a
 boat ! ” But  when  the  others  went  out  to  look  for  it,
@@ -5750,8 +4909,7 @@ they  could  only  see  a spotted  seal  diving  up  and  down,
 and  after  a while  totally  disappearing.  When  Asalok
 with  his  company  came  to  this  place  and  heard  these
 news,  they  knew  that  Kumagdlat  must  have  passed  by,
-because  they  knew  of  his  having  such  an  amulet.  Mean-
-time Kumagdlat  travelled  on  night  and  day  without
+because  they  knew  of  his  having  such  an  amulet.  Meantime Kumagdlat  travelled  on  night  and  day  without
 going  ashore  ; when  the  rowing-girls  got  too  tired,  they
 only  made  fast  the  boat  a short  time  to  take  rest,  and
 then  continuing  their  voyage,  until  they  at  last  stopped
@@ -5763,8 +4921,7 @@ a bearded  young  man.  Some  time  after  the  arrival  of
 Kumagdlat,  the  old  man  said  to  him,  “ Before  this
 young  man  here  was  born  I commenced  building  that
 boat,  and  by  this  time  I have  only  just  finished  the  hull.”
-But  right  and  left  heaps  of  shells  were  seen  piled  to-
-gether, these  being  the  only  tools  he  had  had  to  work
+But  right  and  left  heaps  of  shells  were  seen  piled  together, these  being  the  only  tools  he  had  had  to  work
 with.  “ Here  we  have  not  got  so  much  as  a single  knife,”
 rejoined  the  old  man  ; “ but  yonder,  in  the  interior  of  the
 country,  live  people  who  have  knives  in  abundance.”
@@ -5781,9 +4938,6 @@ by  inlanders.
 
 
 1 12
-
-
-TALES  AND  TRADITIONS.
 
 
 killed,  I suppose.”  Kumagdlat  now  said,  “ I have  a
@@ -5804,10 +4958,8 @@ them,  where  the  erkileks  lived  in  many  tents,  and  only
 had  a lake  for  their  sea.  They  now  hid  themselves,
 awaiting  the  fall  of  night,  and  watching  the  return  of  the
 erkileks  from  their  day’s  hunting.  Beneath  the  rays
-of  the  setting  sun  they  espied  a very  tall  man  carry-
-ing a burden  on  his  back.  They  were  just  in  the  act
-of  discharging  their  arrows  at  him,  when  both  ex-
-claimed, “ Why,  is  not  that  man  like  Kumagdlat  ? ” and
+of  the  setting  sun  they  espied  a very  tall  man  carrying a burden  on  his  back.  They  were  just  in  the  act
+of  discharging  their  arrows  at  him,  when  both  exclaimed, “ Why,  is  not  that  man  like  Kumagdlat  ? ” and
 when  he  answered,  “Yes,  so  it  is,”  they  said  to  each
 other,  “ Well,  since  we  have  so  happily  met,  one  of  the
 hateful  erkileks  shall  fall.”  Having  thus  again  met  and
@@ -5826,27 +4978,20 @@ succeeded  in  gaining  the  island  ; Asalok,  too,  reached
 the  opposite  shore;  but  Merak  exclaimed,  “ I really  can-
 
 
-TALES  AND  TRADITIONS.
-
-
-113
-
 not  do  it.”  When,  however,  the  others  prevailed  upon
 him  to  try  the  leap,  he,  too,  reached  the  island,  though
 not  without  touching  the  water  in  crossing.  In  this
 place  they  now  deposited  their  arrows,  each  providing
 himself  with  only  two,  after  which  they  returned  to  the
 mainland,  Merak,  as  before,  almost  touching  the  water.
-They  now  advanced  towards  the  tents,  where  the  in-
-mates had  all  retired  to  rest.  Having  reached  the
+They  now  advanced  towards  the  tents,  where  the  inmates had  all  retired  to  rest.  Having  reached  the
 largest,  Kumagdlat  said  to  his  companions,  “ I’ll  jump
 up  on  the  cross-beam  above  the  entrance,  while  ye  pass
 through  the  fore-room.”  Having  passed  the  entrance,
 and  peeping  through  the  skin  curtain  of  the  main  room,
 they  beheld  an  old  married  couple  inside,  who  were  still
 awake.  The  woman,  who  was  in  the  family  way,  was
-sitting  upright,  whilst  the  man  was  leaning  forward,  rest-
-ing his  head  on  his  hands.  All  of  a sudden  the  man
+sitting  upright,  whilst  the  man  was  leaning  forward,  resting his  head  on  his  hands.  All  of  a sudden  the  man
 gave  a howl  like  a dog,  at  which  the  woman  arose  to
 her  feet.  He  then  commenced  licking  her  belly,  and
 she  handed  him  some  reindeer-tallow.  Kumagdlat  now
@@ -5870,16 +5015,12 @@ who  pulled  them  out  sideways.  While  the  cousins  were
 watching  the  archers  on  shore,  always  diving  down  be-
 
 
-1 14  TALES  AND  TRADITIONS.
-
 fore  their  arrows,  they  noted  one  whistling  through  the
 air,  and  having  slightly  touched  the  two,  they  heard  it
 strike  behind  them  ; and  looking  round,  they  saw  that
 Merak  had  been  dangerously  hit  in  the  throat  through
-venturing  to  raise  his  head.  Then  Asalok  said  to  Ku-
-magdlat,  “ Dost  not  thou  know  any  spell  for  restoring
-life?”  He  answered,  “Yes,  I believe  I do;”  where-
-upon he  began  to  murmur  some  words.  When  he  had
+venturing  to  raise  his  head.  Then  Asalok  said  to  Kumagdlat,  “ Dost  not  thou  know  any  spell  for  restoring
+life?”  He  answered,  “Yes,  I believe  I do;”  whereupon he  began  to  murmur  some  words.  When  he  had
 finished,  they  looked  round  and  observed  that  the  arrow
 had  already  gone  half-way  out  of  Merak’s  throat,  and
 when  Kumagdlat  spoke  the  third  time,  Merak  was  alive
@@ -5898,8 +5039,7 @@ but  the  cousins  caught  hold  of  them  nevertheless,  and
 having  pierced  them  through  the  ears,  they  quickly
 killed  them — only  one  boy  and  a girl  being  left  alive.
 They  examined  the  furniture  of  the  erkileks,  and  found
-pots  of  copper,  with  copper  handles  to  them,  and  no  re-
-quisites of  any  kind  wanting.  On  opening  the  boxes,
+pots  of  copper,  with  copper  handles  to  them,  and  no  requisites of  any  kind  wanting.  On  opening  the  boxes,
 the  covers  unlocked  of  themselves,  because  of  the  great
 quantity  of  clothes  they  contained.  These  boxes
 they  again  closed,  but  opened  others  containing  knives
@@ -5909,9 +5049,6 @@ made  their  way  towards  the  coast.  In  the  meantime
 the  people  with  whom  Kumagdlat  had  left  his  family
 often  used  to  mock  them,  saying,  “ Look  ye,  those  who
 go  to  the  erkileks  won’t  fail  to  bring  back  many  fine
-
-
-TALES  AND  TRADITIONS.
 
 
 US
@@ -5925,18 +5062,15 @@ and  provided  for  her,  considering  her  to  be  a widow.
 At  the  time  when  Kumagdlat  was  actually  returning  to
 the  coast,  the  people  were  again  ridiculing  his  family,
 crying  out  as  before.  But  at  the  same  moment  the  old
-boat-builder  turned  round  and  beheld  Kumagdlat  de-
-scending the  hill,  and  carrying  great  loads  on  his  back  ;
+boat-builder  turned  round  and  beheld  Kumagdlat  descending the  hill,  and  carrying  great  loads  on  his  back  ;
 and  on  his  approach  he  discovered  his  burden  to  consist
 of  knives  with  beautiful  hafts.  On  entering  the  tent
 Kumagdlat  found  his  mother  and  wife  mourning  his
 absence,  and  he  said,  “ I expected  to  have  found  you
-with  the  lamps  extinguished  ” (viz.,  at  the  point  of  star-
-vation). They  made  answer,  “ The  old  bachelor  has
+with  the  lamps  extinguished  ” (viz.,  at  the  point  of  starvation). They  made  answer,  “ The  old  bachelor  has
 provided  for  us,  that  we  might  not  perish  from  hunger.”
 Kumagdlat  rejoined,  “ Many  thanks  to  him,  then,  and  let
-him  come  and  choose  himself  a knife.”  But  the  old  bach-
-elor would  not  enter,  but  wanted  the  knife  to  be  brought
+him  come  and  choose  himself  a knife.”  But  the  old  bachelor would  not  enter,  but  wanted  the  knife  to  be  brought
 to  him ; whereupon  Kumagdlat  said,  “ Having  such
 great  cause  to  be  thankful  towards  him,  I must  have  him
 come  in.”  But  the  old  man,  fearing  some  mischief  (viz.,
@@ -5950,15 +5084,11 @@ sit  down,  said,  “ Thou  hast  provided  well  for  these  poor
 creatures  ; I thank  thee  very  much,  and  hope  thou  wilt
 accept  of  these  knives,”  and  he  offered  him  two  with
 beautiful  handles.  It  is  said  that  the  cousins  afterwards
-returned  to  their  old  home,  and  that  they  grew  very  re-
-nowned for  their  vigour  and  dexterity,  and  killed  bears
+returned  to  their  old  home,  and  that  they  grew  very  renowned for  their  vigour  and  dexterity,  and  killed  bears
 as  well  as  kilivfaks  (fabulous  beasts).
 
 
 1 16
-
-
-TALES  AND  TRADITIONS.
 
 
 5.
@@ -5977,8 +5107,7 @@ given  in  an  abridged  form,  the  story  itself  not  being  very  interestin
 IN  days  of  yore  it  once  happened  that  some  people
 went  far  into  a firth  to  fish  for  salmon,  and  at  the
 time  one  of  the  women  was  carried  off  by  an  inlander,
-and  was  taken  by  him  to  a very  remote  place.  She  be-
-longed to  the  coast  people,  but  afterwards  married  the
+and  was  taken  by  him  to  a very  remote  place.  She  belonged to  the  coast  people,  but  afterwards  married  the
 man  who  carried  her  off,  and  they  begat  a son,  who  was
 named  Akigsiak.  In  his  boyhood  two  of  his  father’s
 nephews  were  his  constant  playfellows.  They  often
@@ -5988,31 +5117,25 @@ did  not  surpass  him.  As  his  mother  belonged  to  the
 coast  people,  while  his  father  was  from  the  interior  of  the
 country,  he  was  smaller  of  growth  ; but  notwithstanding,
 he  was  respected  and  feared  by  the  other  inlanders,  and
-had  a great  reputation  for  strength  and  ability  in  hunt-
-ing. Akigsiak  used  to  seek  intercourse  with  the  coast
+had  a great  reputation  for  strength  and  ability  in  hunting. Akigsiak  used  to  seek  intercourse  with  the  coast
 people  in  order  to  gain  information  concerning  his
 mother’s  relatives  ; and  at  such  a meeting  he  once  told
 them  as  follows  : “ When  my  father  grew  older  he  was
 incapable  of  providing  for  us.  One  winter  we  had  a great
-famine,  and  every  day  I went  out  in  search  of  provi-
-sions ; and  meanwhile  my  father  watched  me  from  the
+famine,  and  every  day  I went  out  in  search  of  provisions ; and  meanwhile  my  father  watched  me  from  the
 tops  of  the  highest  mountains,  at  the  same  time  taking
 note  of  any  change  in  the  weather,  and  as  soon  as  the
 sky  darkened  he  made  me  a signal  that  I could  hear  far
 
 
-TALES  AND  TRADITIONS.  117
-
 and  wide,  after  which  I took  my  way  homewards.  He
 also  gave  me  several  instructions,  and  said  I might  go
-anywhere  excepting  to  the  north,  because  of  a mon-
-strous reptile  that  was  reported  to  ravage  those  parts.
+anywhere  excepting  to  the  north,  because  of  a monstrous reptile  that  was  reported  to  ravage  those  parts.
 One  day  my  father  gave  me  the  signal ; but  not  even
 having  had  a chance  of  killing  any  game,  I did  not  obey
 his  call.  Afterwards,  when  I was  going  to  return  home,
 the  storm  overtook  me,  and  I could  hardly  see  anything
-on  account  of  the  wind  and  the  snow-drifts,  and  conse-
-quently lost  my  way.  Wandering  about  in  this  manner,
+on  account  of  the  wind  and  the  snow-drifts,  and  consequently lost  my  way.  Wandering  about  in  this  manner,
 I at  length  discovered  something  that  appeared  to  me
 like  two  large  windows  of  a house  ; then  I saw  that  the
 other  parts  were  like  a hill;  and  finally  I saw  that  this
@@ -6034,16 +5157,13 @@ been  given  up  for  lost.  On  entering  the  house  my
 father  said,  ‘ Our  housemates  have  got  nothing  to  help
 thee  with.’  But  I told  him  that  I had  barely  escaped
 from  the  reptile,  and  that  apparently  I had  left  him
-dead  ; and  then  my  father  said,  ‘ The  body  of  the  rep-
-tile is  said  to  consist  of  nothing  but  fat ; ’ and  he  added,
+dead  ; and  then  my  father  said,  ‘ The  body  of  the  reptile is  said  to  consist  of  nothing  but  fat ; ’ and  he  added,
 
 ‘ our  house-fellows  are  almost  starving.’  These  were  now
 informed  of  what  had  happened,  and  they  went  out  in
 search  of  the  monster;  but  many  of  them  died  before
 they  reached  the  spot — some  just  outside  their  houses
 
-
-1 1 8 TALES  AND  TRADITIONS.
 
 others  farther  away,  till  the  whole  road  was  covered
 with  dead  bodies.  But  those  who  reached  the  reptile
@@ -6053,29 +5173,24 @@ had  it  for  food  the  whole  winter.”  This  was  Akigsiak’s
 report  at  his  first  meeting  with  the  coast  people.
 
 The  next  time  he  told  how  he  had  once  been  away
-on  an  excursion  with  his  father,  and  that  on  approach-
-ing the  sea-shore  they  observed  a whale  close  outside,
+on  an  excursion  with  his  father,  and  that  on  approaching the  sea-shore  they  observed  a whale  close  outside,
 and  a number  of  coast  people  standing  on  the  beach.
 By  his  father’s  orders  he  ran  down  and  made  an  old
 man  teach  him  a magic  lay  for  luring  the  whale  up  the
 river.  As  soon  as  the  whale  had  entered  the  river  a
 crowd  of  inlanders  appeared  ; but  before  they  had  been
-able  to  penetrate  the  skin  of  the  whale  with  their  har-
-poons, Akigsiak  ran  off  home  in  order  to  fetch  his
+able  to  penetrate  the  skin  of  the  whale  with  their  harpoons, Akigsiak  ran  off  home  in  order  to  fetch  his
 weapons.  Though  he  had  to  round  three  large  bays  on
 his  way,  he  was  still  in  good  time  to  despatch  the  whale
 after  his  return,  and  then  proceeded  to  give  everybody
 his  share  of  it,  not  forgetting  the  old  coast  man,  whom
-he  protected  against  the  inlanders.  At  the  third  meet-
-ing he  went  on  to  tell  how,  having  once  heard  that  some
+he  protected  against  the  inlanders.  At  the  third  meeting he  went  on  to  tell  how,  having  once  heard  that  some
 other  inlanders  had  caught  an  immense  fish  the  shape
 of  a salmon,  he  hurried  down  to  the  river-side  and
-threw  his  harpoon  also  into  the  fish,  but  that  his  com-
-panions being  too  few,  the  other  inlanders  stationed  on
+threw  his  harpoon  also  into  the  fish,  but  that  his  companions being  too  few,  the  other  inlanders  stationed  on
 the  opposite  side  succeeded  in  hauling  it  from  them.
 He  then  hastened  on  to  a place  where  the  river  was
-somewhat  narrower,  and  in  jumping  across  hurled  him-
-self round,  head  over  heels,  before  he  alighted  on  his
+somewhat  narrower,  and  in  jumping  across  hurled  himself round,  head  over  heels,  before  he  alighted  on  his
 feet  at  the  opposite  shore.  There  he  soon  frightened
 away  the  other  inlanders,  took  his  share  of  the  fish —
 which  he  threw  across  to  his  own  people  on  the  other
@@ -6083,12 +5198,6 @@ side — and  then  jumped  back  in  the  same  way  he  had
 come.  At  his  fourth  meeting  with  the  coast  people,
 Akigsiak  told  them  about  a quarrel  he  once  had  with
 an  igalilik  (viz.,  “pot-bearer,”  certain  fabulous  inlanders
-
-
-TALES  AND  TRADITIONS.
-
-
-119
 
 
 carrying  boiling  pots  on  their  shoulders),  whom  he  had
@@ -6132,26 +5241,18 @@ for  some  days,  they  felt  a mutual  longing  to  meet  again.
 In  the  summer  the  man  from  the  fiord  used  to  go  out
 
 
-120
-
-
-TALES  AND  TRADITIONS.
-
-
 reindeer-hunting  in  the  interior;  but  before  he  went  back
 to  the  place  where  he  lived,  he  always  took  a whole
 reindeer,  choosing  one  of  those  with  velvety  horns  and
 leaving  all  the  tallow  in  it,  to  regale  his  friend  with.
-The  islander,  on  his  part,  saved  and  laid  by  large  quan-
-tities of  seals  : and  when  the  reindeer-hunter  returned,
+The  islander,  on  his  part,  saved  and  laid  by  large  quantities of  seals  : and  when  the  reindeer-hunter  returned,
 he  immediately  visited  his  friend  and  was  regaled  with
 nicely-dried  seal-flesh  ; but  in  the  evening,  when  the
 room  grew  heated,  the  frozen  meat  was  produced  and
 set  before  his  friend  as  a cold  dish.  The  guest  then
 praised  it  very  much,  and  they  gossiped  till  late  in  the
 evening.  The  next  day  the  reindeer-hunter  usually  had
-a visit  from  his  friend,  but  now  they  only  ate  reindeer-
-flesh,  and  especially  the  tallow.  The  friend  found  it
+a visit  from  his  friend,  but  now  they  only  ate  reindeerflesh,  and  especially  the  tallow.  The  friend  found  it
 extremely  delicious,  and  ate  till  he  was  ready  to  burst ;
 and  at  his  departure  next  day  he  was  presented  with
 some  dried  meat  and  tallow.
@@ -6164,8 +5265,7 @@ him  ; and  when  the  first  of  the  preserved  seals  began  to
 spoil,  they  commenced  to  eat  away  at  the  whole  lot.
 Later  on,  when  he  heard  that  the  hunter  had  returned,  he
 went  out  to  a grave  and  cut  a bit  of  fat  from  a dead  body,
-and  with  this  he  rubbed  certain  parts  of  a seal  he  in-
-tended to  treat  his  friend  with,  in  order  to  do  him  an
+and  with  this  he  rubbed  certain  parts  of  a seal  he  intended to  treat  his  friend  with,  in  order  to  do  him  an
 evil  turn  on  his  arrival.  Shortly  afterwards  he  came  to
 pay  his  visit.  The  meeting  was  very  pleasant,  and  as
 usual  he  was  regaled  with  various  delicacies ; and  the
@@ -6178,9 +5278,6 @@ all  up ; ” and  he  added,  “ let  us  have  the  one  that  was
 last  put  by ; we  will  have  it  for  a cold  dish.”  It  was
 
 
-TALES  AND  TRADITIONS.
-
-
 I 2 I
 
 
@@ -6188,8 +5285,7 @@ accordingly  brought  in  and  nicely  served  up,  and  the
 host  laid  the  piece  that  had  been  rubbed  over  with  the
 bit  of  fat  uppermost,  and  set  it  before  his  friend,  at  the
 same  time  begging  him  to  partake  of  it ; but  just  as  the
-visitor  was  in  the  act  of  helping  himself  to  a piece,  some-
-thing from  beneath  the  ledge  gave  a pull  at  his  leg.
+visitor  was  in  the  act  of  helping  himself  to  a piece,  something from  beneath  the  ledge  gave  a pull  at  his  leg.
 This  somewhat  puzzled  him  ; however,  he  was  going  to
 commence  a second  time  when  he  got  another  pull,  on
 which  he  said,  “ I must  go  outside  a little,”  and  rose  up
@@ -6201,8 +5297,7 @@ part ; if  thou  eatest  of  the  part  that  is  now  uppermost
 thou  wilt  be  sure  to  go  mad.”  Having  again  seated
 himself,  he  turned  the  meat  over ; but  his  host  thought
 it  might  be  a mere  accident.  When  the  guest  had  eaten
-sufficiently,  he  felt  a pain  in  his  stomach — he  had  pro-
-bably touched  some  of  the  poisoned  flesh  ; but  he  soon
+sufficiently,  he  felt  a pain  in  his  stomach — he  had  probably touched  some  of  the  poisoned  flesh  ; but  he  soon
 recovered,  and  on  taking  leave,  he  asked  his  friend  to
 return  the  visit  soon.  When  he  came  home  he  took  a
 reindeer  with  velvety  horns  and  treated  it  in  the  same
@@ -6221,12 +5316,6 @@ felt  a pain  in  his  stomach,  and,  looking  hard  at  every  one
 present,  he  got  up  and  went  outside,  but  the  pains  were
 not  relieved.  Next  day  he  took  his  leave,  and  it  was  a
 long  time  before  his  friend  saw  him  again  ; when  he
-
-
-122
-
-
-TALES  AND  TRADITIONS.
 
 
 went  out  kayaking  he  never  met  him  as  he  had  done
@@ -6250,10 +5339,8 @@ devour  thee  too” — and  he  bounded  towards  him;  but
 the  other  escaped  through  the  entry,  and  quickly  made
 for  his  kayak.  He  only  succeeded  in  pushing  off  as  his
 pursuer  was  in  the  very  act  of  seizing  hold  of  him.  The
-madman  now  continued  running  along  the  shore  and  cry-
-ing, “ I feel  much  better  now ; do  come  back.  When  I
-have  not  seen  thee  for  a day  or  two,  I am  longing  dread-
-fully for  thee.”  On  hearing  him  speak  quite  sensibly  the
+madman  now  continued  running  along  the  shore  and  crying, “ I feel  much  better  now ; do  come  back.  When  I
+have  not  seen  thee  for  a day  or  two,  I am  longing  dreadfully for  thee.”  On  hearing  him  speak  quite  sensibly  the
 friend  believed  him,  and  put  back  again.  As  soon  as  he
 reached  the  shore,  however,  the  former  made  a rush  at
 him ; but,  happily  observing  this,  he  pushed  off  in  time.
@@ -6266,12 +5353,6 @@ would  eat  him  too,  if  he  had  the  chance.  Nevertheless,  he
 paddled  away  the  very  next  morning  as  if  compelled  to
 do  so.  Then  it  all  happened  just  as  on  the  former  day.
 The  madman  pursued  him  right  into  the  house,  and
-
-
-TALES  AND  TRADITIONS.
-
-
-123
 
 
 fastened  the  door,  so  that  he  was  obliged  to  get  out
@@ -6299,20 +5380,13 @@ my  friend  for  a whole  day,  I am  ready  to  die  with
 longing,  and  cannot  desist  from  going  to  him.”  Having
 arrived  at  the  house  of  his  friend,  he  found  it  to  be
 deserted  ; he  searched  about  everywhere,  but  did  not
-find  him.  Outside  he  observed  some  footprints  wind-
-ing up  hills,  and  following  them,  he  stopped  at  a cave  in
+find  him.  Outside  he  observed  some  footprints  winding up  hills,  and  following  them,  he  stopped  at  a cave  in
 the  rock.  Here  his  friend  was  sitting  bent  together  and
 much  shrunk.  As  he  did  not  move  his  friend  went  up
 to  him,  and  on  trying  to  lift  him  up,  found  him  to  be
 quite  dead,  and  his  eyelids  filled  with  blood.  He  now
 carefully  covered  and  closed  up  the  entrance  of  the  cave,
 and  was  henceforth  friendless.
-
-
-124
-
-
-TALES  AND  TRADITIONS.
 
 
 7.
@@ -6327,15 +5401,12 @@ KATERPARSUK  was  a poor  orphan  boy.  When
 he  grew  up  he  was  anxious  to  get  on  in  the
 world,  because  nobody  wanted  to  take  care  of  him  and
 help  him  along.  At  length  he  resolved,  by  his  own  efforts,
-to  try  to  make  himself  a kayak  ; but,  nobody  being  wil-
-ling to  lend  him  a knife,  he  first  tried  to  work  with  stone
+to  try  to  make  himself  a kayak  ; but,  nobody  being  willing to  lend  him  a knife,  he  first  tried  to  work  with  stone
 tools,  and  later  on  with  shells.  In  the  same  place  there
 happened  to  live  a wicked  man,  who,  instead  of  pitying
 the  poor  boy,  took  delight  in  annoying  and  terrifying
-him.  For  this  purpose  he  disguised  himself  in  a bear-
-skin, and  stole  up  behind  Katerparsuk,  growling  like  a
-bear.  On  turning  round  and  perceiving  him,  Katerpar-
-suk flung  down  his  work  and  tools  in  consternation,  and
+him.  For  this  purpose  he  disguised  himself  in  a bearskin, and  stole  up  behind  Katerparsuk,  growling  like  a
+bear.  On  turning  round  and  perceiving  him,  Katerparsuk flung  down  his  work  and  tools  in  consternation,  and
 ran  away.  When  the  other  house-fellows  came  to  the
 spot  and  saw  his  implements  of  shells  and  stones,  they
 were  quite  moved  at  the  sight.  Meanwhile  the  wicked
@@ -6345,19 +5416,12 @@ couldst  ever  think  of  making  a kayak  all  by  thyself:
 and  that  was  why  I frightened  thee  in  a bear-skin.”  On
 hearing  this  his  housemates  broke  out  into  a fit  of
 laughter  at  the  poor  boy’s  embarrassment ; but  he  grew
-mortally  vexed,  and  only  thought  of  revenge  and  re-
-sentment. Subsequently  he  betook  himself  to  solitary
+mortally  vexed,  and  only  thought  of  revenge  and  resentment. Subsequently  he  betook  himself  to  solitary
 places,  and  studied  angakok  science.  After  a long  time
 he  finished  his  kayak,  and  exercised  himself  in  rowing
 and  hunting,  and  shortly  afterwards  he  was  even  able  to
 hunt  seals.  Having  once,  from  the  top  of  a hill,  seen  a
 walrus  dive,  he  thought,  “ Oh  that  I could  make  him
-
-
-TALES  AND  TRADITIONS.
-
-
-125
 
 
 throw  off  his  skin  ! ” He  began  to  sing  a magic  lay,  but
@@ -6373,36 +5437,25 @@ he  had  a view  of  the  sea,  he  detected  a great  many
 walrus  diving  up  and  down.  He  began  to  sing  his
 magic  lay  to  one  of  them,  which  soon  approached  the
 beach  right  below  him  ; he  continued  singing  louder  and
-louder  until  the  animal  at  last  threw  off  his  skin.  Kater-
-parsuk  at  once  crept  into  it,  and  began  to  try  swimming
+louder  until  the  animal  at  last  threw  off  his  skin.  Katerparsuk  at  once  crept  into  it,  and  began  to  try  swimming
 and  diving,  and  when  the  kayakers  approached,  he  knew
 how  to  harden  his  skin  so  that  the  harpoon  could  not
 pierce  it.  Meanwhile  the  wicked  man  had  grown  old  and
 decrepit,  and  had  given  up  seal-hunting ; he  now  only
-went  out  fishing.  Once  Katerparsuk  put  on  his  walrus-
-skin  and  emerged  from  the  water  close  to  the  place
+went  out  fishing.  Once  Katerparsuk  put  on  his  walrusskin  and  emerged  from  the  water  close  to  the  place
 where  the  old  man  was  fishing.  He  then  heard  him
 exclaim,  “ Oh  that  I were  young  again,  what  a catch  I
-might  have  had!”  Meantime  he  returned  home,  col-
-lected all  his  hunting  implements,  which  he  had  not  been
+might  have  had!”  Meantime  he  returned  home,  collected all  his  hunting  implements,  which  he  had  not  been
 using  for  a long  time,  and  took  them  out  with  him  to
 his  fishing-place  the  next  day.  “ Oh,  look  ! there  he  is
 again  ! ” the  old  man  exclaimed,  upon  which  he  paddled
 towards  him  : but  Katerparsuk  hardened  his  skin,  and
 made  it  tough  ; and  seizing  the  point  of  the  harpoon,
-pulled  it  down  into  the  water  along  with  the  hunting-
-bladder,  from  which  he  took  away  the  stopper,  so  that
+pulled  it  down  into  the  water  along  with  the  huntingbladder,  from  which  he  took  away  the  stopper,  so  that
 the  air  escaped,  and  then  he  hurried  home  in  his  kayak.
-But  the  old  man  was  vexed  that  he  had  lost  his  bladder-
-float;  and  at  home  he  said,  boasting,  “ I have  again  com-
+But  the  old  man  was  vexed  that  he  had  lost  his  bladderfloat;  and  at  home  he  said,  boasting,  “ I have  again  com-
 menced to  go  out  hunting  ; to-day  I pursued  a large
 walrus,  but  he  escaped  me,  and  took  my  bladder-float
-
-
-126
-
-
-TALES  AND  TRADITIONS.
 
 
 along  with  him.”  Katerparsuk  let  him  chat  on,  but  in  the
@@ -6415,8 +5468,7 @@ on  a peg  in  the  wall ; and  while  the  old  man  was  prating,
 he  pointed  to  them,  saying,  “ Look,  there  are  all  thy
 hunting  tools,  and  thou  canst  take  them  away  with
 thee  when  thou  goest  home.”  And  the  old  man  looked
-quite  abashed,  and  left  the  party  in  a somewhat  con-
-fused state.  It  is  said  that  the  resentment  of  Kater-
+quite  abashed,  and  left  the  party  in  a somewhat  confused state.  It  is  said  that  the  resentment  of  Kater-
 parsuk was  somewhat  appeased  by  the  fun  he  had  had
 in  playing  walrus  to  the  man  who  had  been  playing
 bear  to  him.
@@ -6445,12 +5497,6 @@ one  girl  up  and  flew  away  with  her,  and  the  whale  took
 the  other  down  to  the  bottom  of  the  sea,  having  first
 
 
-TALES  AND  TRADITIONS.
-
-
-127
-
-
 made  her  eyes  and  ears  impenetrable,  so  that  the  water
 could  not  enter.  The  eagle  carried  his  bride  to  the  top  of
 a steep  cliff,  and  brought  her  different  sorts  of  little  birds
@@ -6477,24 +5523,16 @@ a boat  of  immense  swiftness,  in  which  they  intended  to
 deliver  their  sister ; but  when  the  boat  was  finished  it
 could  not  match  a bird  in  speed,  and  was  therefore
 broken  to  pieces,  and  another  begun.  This  boat  proved
-a match  for  a flying  bird,  but  was  nevertheless  dis-
-carded, and  they  again  built  a new  one,  in  which  they
+a match  for  a flying  bird,  but  was  nevertheless  discarded, and  they  again  built  a new  one,  in  which  they
 tried  to  overtake  a gull ; and  on  finding  that  this  one
 even  outdid  the  bird,  they  started  from  home  to  fetch
 back  their  sister.  On  becoming  aware  of  their  approach
 she  loosened  the  cord  that  held  her,  and  twisting  it
 round  the  stone,  she  left  with  the  boat.  When  the  whale
-on  his  return  drew  the  cord  to  get  hold  of  her,  and  dis-
-covered that  she  was  gone,  he  hurried  after  her.  But
+on  his  return  drew  the  cord  to  get  hold  of  her,  and  discovered that  she  was  gone,  he  hurried  after  her.  But
 
 
 1 Cyamus  ceti , a parasitic  crustacean,  well  known  as  the  “ whale  louse.
-
-
-128
-
-
-TALES  AND  TRADITIONS.
 
 
 when  he  came  quite  close  to  the  boat  she  threw  her
@@ -6516,8 +5554,7 @@ THE  BROTHERS  VISIT  THEIR  SISTER.
 
 [This  tale  is  very  popular  in  Greenland.  Traces  of  it  are  also  found  mixed
 up  with  other  tales  from  Greenland,  and  with  one  from  Labrador.
-Here  the  text  is  very  nearly  a literal  translation  from  a single  manu-
-script, by  a native  of  South  Greenland.]
+Here  the  text  is  very  nearly  a literal  translation  from  a single  manuscript, by  a native  of  South  Greenland.]
 
 
 MAN  had  three  children  ; the  eldest  was  a daugh-
@@ -6538,12 +5575,6 @@ these  is  the  winter  station  of  your  sister,  whose  hair,
 strange  to  say,  is  quite  white  on  one  side.  However,  ye
 
 
-TALES  AND  TRADITIONS.
-
-
-129
-
-
 must  not  think  of  going  there,  for  the  people  she  is  living
 among  are  all  cannibals.”  On  hearing  this  the  eldest
 brother  changed  his  mind,  and  gave  up  the  idea  of  going  ;
@@ -6553,8 +5584,7 @@ wanted  to  go  more  than  ever.  The  following  day  the
 brothers  set  out  on  their  journey,  but  the  parents  warned
 them,  saying,  “ If  ye  reach  the  country  yonder  in  the
 day-time  ye  must  wait  the  fall  of  night,  and  not  go  near
-them  until  they  are  all  asleep,  lest  ye  should  be  mur-
-dered by  them.”  And  when  they  had  gone  away  the
+them  until  they  are  all  asleep,  lest  ye  should  be  murdered by  them.”  And  when  they  had  gone  away  the
 parents  gave  them  up  for  lost.  The  travellers  reached
 the  high  mountains  in  the  south,  and  began  to  examine
 the  land  below,  in  order  to  discover  houses.  At  length
@@ -6578,17 +5608,13 @@ The  eldest  brother  now  got  up  and  said,  “ Were  we  not
 told  that  our  sister  was  to  be  white-haired  011  one  side
 of  her  head  ? do  come  and  see  ! ” The  younger  brother
 now  looked  down,  and  perceiving  her,  exclaimed  in  great
-consternation,  “ Why,  that  must  surely  be  our  sister  sit-
-ting down  there  ! Just  spit  down  through  the  hole,  before
+consternation,  “ Why,  that  must  surely  be  our  sister  sitting down  there  ! Just  spit  down  through  the  hole,  before
 the  lamp,  and  when  they  notice  that,  some  one  will  pro-
 
 I
 
 
 i3°
-
-
-TALES  AND  TRADITIONS.
 
 
 bably  come  out.”  The  moment  he  spat  down,  the
@@ -6602,13 +5628,11 @@ had  set  eyes  upon  them,  saying,  “We  have  come  here
 to  visit  our  sister,  and  have  been  told  that  she  is  quite
 white  on  one  side  of  her  head.”  The  other  answered
 him  in  a whisper,  “Your  sister  is  within  ; please  go  in.”
-On  entering  he  at  once  played  the  part  of  a brother-in-
-law  to  them,  and  ordered  a meal  to  be  prepared.  The
+On  entering  he  at  once  played  the  part  of  a brother-inlaw  to  them,  and  ordered  a meal  to  be  prepared.  The
 wife  put  on  her  boots,  and  told  some  of  the  children  to
 assist  her  ; and  the  guests  soon  understood  that  the  only
 housemates  of  their  sister  were  her  children.  The  beams
-for  boot-drying  were  hung  all  over  with  boots  and  skin-
-stockings,  according  to  their  several  sizes,  the  biggest
+for  boot-drying  were  hung  all  over  with  boots  and  skinstockings,  according  to  their  several  sizes,  the  biggest
 outermost.  Sometime  afterwards  a large  tub  of  berries
 mingled  with  blubber  was  set  before  them,  and  their
 sister  asked  them  to  partake  of  the  meal.  The  brothers
@@ -6619,29 +5643,20 @@ at  the  wrist,  clutching  the  berries,  and  very  much  shrunk.
 They  merely  said,  “ We  don’t  eat  such  food  as  this  ; ”
 but  she  only  drew  the  tub  closer  to  herself,  and  began
 to  eat  along  with  the  children.  When  she  took  hold  of
-the  hand,  and  had  taken  a bite  of  the  thumb,  the  chil-
-dren all  cried,  “ Mother,  do  let  us  have  some  too  ! ” The
+the  hand,  and  had  taken  a bite  of  the  thumb,  the  children all  cried,  “ Mother,  do  let  us  have  some  too  ! ” The
 eldest  brother  now  got  up,  and  went  close  beside  her,
 saying,  “ Hast  thou  also  turned  cannibal  ? ” and  giving
 her  husband  a pull,  she  answered,  “ This  nasty  fellow
-has  made  me  one.”  Meanwhile  the  brother-in-law  or-
-dered something  separate  to  be  cooked  for  them  on  the
+has  made  me  one.”  Meanwhile  the  brother-in-law  ordered something  separate  to  be  cooked  for  them  on  the
 lamp,  but  cautiously  added,  “ Mind  ye  don’t  let  it  burn
 
-
-TALES  AND  TRADITIONS.
-
-
-131
 
 too  high,  lest  our  neighbours  should  detect  us,  and  make
 a row  about  it.”  Suspending  the  pot  above  the  lamp,
 and  at  the  same  time  addressing  her  brothers,  his  wife
-now  put  in,  “ When  our  people  caught  a whale  last  win-
-ter, and  it  was  brought  ashore  to  be  cut  up  and  flensed,
+now  put  in,  “ When  our  people  caught  a whale  last  winter, and  it  was  brought  ashore  to  be  cut  up  and  flensed,
 a man  happened  to  have  a fall,  and  was  cut  up  with  it.”
-Before  the  meal  was  ready  the  host  whispered  to  his  chil-
-dren, “ Go  out  and  cut  asunder  all  the  lashings  of  our
+Before  the  meal  was  ready  the  host  whispered  to  his  children, “ Go  out  and  cut  asunder  all  the  lashings  of  our
 neighbours’  sledges,  but  beware  of  making  a noise.”  The
 children  all  went  out  immediately,  and  when  they  came
 back  he  inquired  of  them,  “ Have  ye  done  as  I told
@@ -6649,11 +5664,9 @@ ye  to  all  of  them  ? ” “ Yes,”  they  answered,  “ we  have.”
 
 But  still  they  had  forgotten  one  of  them.  When  the
 meat  was  boiled,  and  they  had  commenced  eating,  the
-host  said,  “ As  soon  as  ye  have  finished  I shall  accom-
-pany you  a little  way  off ; but  as  soon  as  ye  have  left
+host  said,  “ As  soon  as  ye  have  finished  I shall  accompany you  a little  way  off ; but  as  soon  as  ye  have  left
 the  mainland  I’ll  give  a shout,  and  ye’ll  just  see  what
-will  happen.”  On  their  departure,  after  supper,  he  ad-
-dressed them,  saying,  “Ye  now  know  our  place  of  abode  ;
+will  happen.”  On  their  departure,  after  supper,  he  addressed them,  saying,  “Ye  now  know  our  place  of  abode  ;
 do  come  back  and  visit  your  sister.”  Upon  which  he
 saw  them  off  in  their  sledges,  and  away  they  fled  ; but  as
 soon  as  they  turned  out  upon  the  ice  he  gave  a great
@@ -6666,8 +5679,7 @@ state  they  all  hastened  off  to  their  sledges  ; but  when
 they  were  about  to  start,  the  sledges  all  broke  down.
 Meanwhile  the  travellers  had  taken  fright,  and  urged  on
 their  dogs  as  fast  as  possible  ; but  turning  round  they
-perceived  one  sledge  to  be  following  them,  and  appar-
-ently gaining  upon  them.  The  brother-in-law  having
+perceived  one  sledge  to  be  following  them,  and  apparently gaining  upon  them.  The  brother-in-law  having
 likewise  observed  it,  hastened  to  pursue  it,  and  killed
 the  driver,  besides  a number  of  the  other  people,  and
 afterwards  filled  his  sledge  with  human  limbs  ; and  thus
@@ -6676,12 +5688,8 @@ afterwards  filled  his  sledge  with  human  limbs  ; and  thus
 i32
 
 
-TALES  AND  TRADITIONS.
-
-
 freighted,  he  returned  to  his  house.  But  the  brothers
-reached  home  late  at  night,  and  reported  how  their  sis-
-ter had  turned  a cannibal,  and  how  they  had  barely
+reached  home  late  at  night,  and  reported  how  their  sister had  turned  a cannibal,  and  how  they  had  barely
 escaped  death  through  the  aid  of  their  brother-in-law.
 But  they  never  saw  their  sister  again.
 
@@ -6700,27 +5708,19 @@ territories.  Several  passages  of  this  story  are  still  frequently  mixed
 up  in  different  ways  with  other  tales.  The  text  has  been  constructed
 from  three  copies,  in  most  particulars  agreeing  with  each  other.  ]
 
-SEVERAL  men  had  their  permanent  winter-quar-
-ters near  the  entrance  to  a fiord,  and  with  them
+SEVERAL  men  had  their  permanent  winter-quarters near  the  entrance  to  a fiord,  and  with  them
 lived  two  boys,  who  were  very  officious  and  obliging.  In
 the  morning,  when  the  men  prepared  to  go  out  hunting,
 the  boys  helped  to  turn  and  rub  their  gloves,  and  made
 them  ready  for  use,  and  likewise  arranged  the  kayak
 implements  and  tools,  and  fetched  the  water  for  their
-morning  drink.  When  the  men  had  left,  the  boys  ex-
-ercised themselves  in  archery,  and  never  entered  the
+morning  drink.  When  the  men  had  left,  the  boys  exercised themselves  in  archery,  and  never  entered  the
 house  the  whole  day  long,  until  the  men  had  returned,
 and  they  had  assisted  them  in  carrying  their  things  from
 the  beach.  They  did  not  even  think  of  entering  and
 partaking  of  their  first  meal  till  the  last  of  the  men
 had  gone  in,  and  they  had  once  more  fetched  water.
 One  evening  in  winter,  by  moonlight,  when  they  had
-
-
-TALES  AND  TRADITIONS.
-
-
-133
 
 
 gone  out  to  draw  Avater,  the  youngest  said,  “ I think  I
@@ -6743,16 +5743,13 @@ their  little  sister ; and  when  they  had  determined  to  go
 and  hide  her,  they  entered  the  house  and  brought  her
 outside  ; and  seeing  a heap  of  chips  close  to  the  window,
 they  put  her  down,  and  covered  her  well  up  with  them.
-Having  done  this,  they  went  back  and  climbed  the  raf-
-ters beneath  the  roof  of  the  house-passage  ; and  in  help-
+Having  done  this,  they  went  back  and  climbed  the  rafters beneath  the  roof  of  the  house-passage  ; and  in  help-
 ing his  brother  to  get  up,  Kunuk  warned  him  not  to  get
 tired  though  he  might  find  it  an  inconvenient  place  of
 refuge  : they  were  keeping  hold  of  one  beam  with  their
 hands,  and  supported  their  feet  against  the  next,  and
-thus  lay  at  full  length,  with  their  faces  turned  down-
-wards. Presently  a large  man  with  a spear  made  his
-way  through  the  entrance  ; after  him  another  one  ap-
-peared ; and  all  told,  they  counted  seven,  who  came
+thus  lay  at  full  length,  with  their  faces  turned  downwards. Presently  a large  man  with  a spear  made  his
+way  through  the  entrance  ; after  him  another  one  appeared ; and  all  told,  they  counted  seven,  who  came
 rushing  into  the  house.  But  as  soon  as  they  got  inside
 a fearful  cry  was  heard  from  those  who  were  put  to
 death  by  them.  While  they  were  still  lingering  inside
@@ -6762,22 +5759,14 @@ fighting  about,  right  and  left,  and  flinging  their  spears
 everyA\diere,  and  likeAvise  into  the  heap  of  chips,  Avhere
 
 
-134
-
-
-TALES  AND  TRADITIONS.
-
-
 their  little  sister  was  lying.  When  the  last  of  them  had
 disappeared  the  younger  boy  fell  to  the  ground,  and
 Kunuk  after  him.  When  they  came  to  look  for  their
 sister  they  found  her  struck  right  through  the  body  with
-a lance,  and  with  her  entrails  protruding  ; and  on  enter-
-ing the  house  the  floor  was  all  covered  with  blood,  every
+a lance,  and  with  her  entrails  protruding  ; and  on  entering the  house  the  floor  was  all  covered  with  blood,  every
 one  of  the  inmates  having  been  killed,  besides  one  of  the
 assailants.  Being  quite  alone  in  the  dreary  house  they
-would  not  stay,  but  left  the  place  that  very  night,  car-
-rying their  wounded  sister  by  turns,  and  taking  care  that
+would  not  stay,  but  left  the  place  that  very  night,  carrying their  wounded  sister  by  turns,  and  taking  care  that
 the  entrails  did  not  come  out  of  their  proper  place.
 They  wandered  on  for  a long  while  in  this  manner,  and
 at  length  they  arrived  at  a firth,  which  was  quite  frozen
@@ -6794,12 +5783,6 @@ After  a great  lapse  of  time  they  one  day  noticed  a man
 standing  on  the  ice  beside  a huge  piece  of  wood,  which  he
 
 
-TALES  AND  TRADITIONS.
-
-
-135
-
-
 had  made  use  of  in  hunting  the  small  seals.  When  they
 approached  and  told  him  what  had  befallen  them,  he
 said  he  would  like  to  adopt  them  as  his  sons,  and  they
@@ -6807,17 +5790,13 @@ followed  him  to  a house  where  he  and  his  wife  lived
 all  by  themselves.  Their  foster  - parents  encouraged
 them  never  to  forget  their  enemies,  but  always  to  be
 exercising  themselves  in  order  to  strengthen  their  limbs.
-One  night  the  brothers  came  home  laden  with  ptarmi-
-gan and  foxes,  which  they  had  caught  without  any  wea-
+One  night  the  brothers  came  home  laden  with  ptarmigan and  foxes,  which  they  had  caught  without  any  wea-
 pons at  all,  only  by  throwing  large  stones  at  them,
-which  made  the  old  people  rejoice  very  much,  commend-
-ing their  dexterity  and  perseverance.  To  increase  their
+which  made  the  old  people  rejoice  very  much,  commending their  dexterity  and  perseverance.  To  increase  their
 strength  still  farther,  they  lifted  very  large  stones  with
-their  hands  only.  They  also  practised  boxing  and  wrest-
-ling; and  no  matter  how  hard  the  one  might  be  pressing
+their  hands  only.  They  also  practised  boxing  and  wrestling; and  no  matter  how  hard  the  one  might  be  pressing
 on  the  other,  they  made  a point  of  never  falling,  but
-rolling  together  along  the  ground.  At  last,  with  con-
-stant practice,  they  had  grown  so  dexterous  that  they
+rolling  together  along  the  ground.  At  last,  with  constant practice,  they  had  grown  so  dexterous  that  they
 could  even  kill  a bear  without  any  weapon.  At  first  they
 gave  him  a blow,  and  when  he  turned  upon  them  they
 took  no  more  notice  of  him  than  if  he  had  been  a hare,
@@ -6825,8 +5804,7 @@ but  merely  took  hold  of  him  by  the  legs  and  smashed
 him  to  pieces.  When  these  results  had  been  gained,
 they  began  to  think  of  seeking  out  other  people.  Where  ?
 That  was  a matter  of  indifference.  They  now  took  a
-northerly  direction,  and  wandered  on  a long  way  with-
-out falling  in  with  any  human  being.  At  length  they
+northerly  direction,  and  wandered  on  a long  way  without falling  in  with  any  human  being.  At  length  they
 came  to  a great  inlet  of  the  sea,  where  a number  of
 kayakers  were  out  seal-hunting,  but  only  one  of  them
 seemed  to  be  provided  with  weapons.  This  one  was  their
@@ -6839,20 +5817,12 @@ soon  as  the  “ strong  man  ” had  pierced  them  with  his
 arrow,  the  others  all  helped  to  kill  them.  Kunuk  and
 
 
-136
-
-
-TALES  AND  TRADITIONS.
-
-
 his  brother  were  too  modest  to  go  down  at  once,  and
-awaited  the  approach  of  evening.  Meanwhile  they  wit-
-nessed the  cutting  up  of  a walrus,  and  saw  it  being
+awaited  the  approach  of  evening.  Meanwhile  they  witnessed the  cutting  up  of  a walrus,  and  saw  it  being
 divided — each  person  getting  a huge  piece  for  himself,
 excepting  an  old  man,  who  lived  in  the  poorest  tent,  who
 got  nothing  but  the  entrails,  which  his  two  daughters
-helped  him  to  carry  home  from  the  beach.  The  bro-
-thers agreed  that  they  would  go  to  the  old  man  when  it
+helped  him  to  carry  home  from  the  beach.  The  brothers agreed  that  they  would  go  to  the  old  man  when  it
 had  grown  dark,  because  they  had  taken  pity  on  him  on
 account  of  his  patience.  Having  arrived  at  the  tent,
 Kunuk  had  to  enter  by  himself,  his  brother  being  too
@@ -6861,8 +5831,7 @@ him,  “Art  thou  alone?”  “No,  my  little  brother  is
 standing  outside  ; he  is  ashamed  to  enter.”  On  hearing
 this,  the  old  man  cried,  “ Come  in,  thou  who  art  standing
 outside  ; ” and  when  he  entered,  he  was  astonished  to
-see  his  strong  limbs,  he  being  even  bigger  than  his  bro-
-ther. When  the  meal  was  over  the  old  man  said  he
+see  his  strong  limbs,  he  being  even  bigger  than  his  brother. When  the  meal  was  over  the  old  man  said  he
 would  like  to  have  them  for  his  sons-in-law,  and  that
 they  might  go  and  take  his  daughters  for  their  wives.
 Kunuk  chose  the  youngest  of  them,  and  his  brother
@@ -6874,20 +5843,13 @@ had  taken  his  javelin  (or  arrow  to  be  flung  only  by
 hand)  away,  with  the  intention  of  hiding  it,  so  that  the
 others  might  get  something  to  look  for.  They  brought
 it  away  to  a spring,  and  a little  way  off  they  stuck  it
-down  into  the  earth,  but  pulled  it  out  again,  trying  an-
-other place,  where  the  turf  was  dry  and  hard.  There
+down  into  the  earth,  but  pulled  it  out  again,  trying  another place,  where  the  turf  was  dry  and  hard.  There
 Kunuk  fixed  it  so  deep  in  the  ground  that  only  so
 much  of  it  as  could  be  seized  with  two  fingers  was  to  be
 seen.  While  they  were  lying  down  inside  the  tent,  they
 heard  some  one  come  running  along,  and  partly  lift  the
 curtain,  but  instantly  drop  it  and  go  off  again.  It  was
 an  old  gossip,  and  mother  to  the  “ strong  man,”  who  had
-
-
-TALES  AND  TRADITIONS.
-
-
-137
 
 
 been  doing  this  ; and  a moment  later  a multitude  of
@@ -6905,8 +5867,7 @@ were  shouting,  they  heard  the  old  gossip,  who  had  been
 away  to  fetch  water,  exclaim,  “ Look,  yonder  is  the
 javelin  !”  and  at  the  same  time  she  pointed  to  the  rock
 leading  to  the  spring.  All  of  them  now  rushed  to  the
-spot,  in  order  to  pull  it  out  of  the  earth,  but  nobody  suc-
-ceeded in  doing  it.  The  brothers  were  now  called,  and
+spot,  in  order  to  pull  it  out  of  the  earth,  but  nobody  succeeded in  doing  it.  The  brothers  were  now  called,  and
 were  asked  to  draw  it  out.  They  had  all  been  pulling
 and  biting  it  with  their  teeth  to  get  it  loose,  so  that  the
 end  had  been  quite  wasted.  But  Kunuk  just  took  it
@@ -6920,25 +5881,16 @@ things  he  now  wanted  to  make  over  to  his  sons-in-law,
 and  he  told  them  that  the  “ strong  man  ” had  murdered
 his  son  because  he  envied  him  his  still  greater  strength ;
 for  this  reason  he  was  now  the  enemy  of  his  daughters.
-Hitherto,  however,  they  had  not  been  able  to  get  their  re-
-venge. After  a short  interval  the  cry  was  heard,  “ Let
+Hitherto,  however,  they  had  not  been  able  to  get  their  revenge. After  a short  interval  the  cry  was  heard,  “ Let
 the  strangers  come  on  for  a boxing  and  fighting  match
 on  the  great  plain  up  yonder  ; ” upon  which  all  the  men
-made  thither  to  behold  the  spectacle.  The  brothers  fol-
-lowed them  ; and  arriving  at  the  place,  they  saw  a pole
+made  thither  to  behold  the  spectacle.  The  brothers  followed them  ; and  arriving  at  the  place,  they  saw  a pole
 set  up  on  end,  and  beside  it  the  leader  standing  with  a
-
-
-138
-
-
-TALES  AND  TRADITIONS.
 
 
 whip  made  of  walrus-skin,  with  a knot  on  the  end.  There
 was  also  a stuffed  white  hare,  and  whenever  anybody  set
-foot  on  it,  he  quickly  lashed  them  with  the  whip.  Ku-
-nuk  was  the  first  who  advanced  towards  the  hare,  and
+foot  on  it,  he  quickly  lashed  them  with  the  whip.  Kunuk  was  the  first  who  advanced  towards  the  hare,  and
 the  chief  tried  to  hit  him,  but  did  not  succeed  in  reach-
 
 
@@ -6950,53 +5902,38 @@ the  whip  gave  a loud  crack.  The  “ strong  man  ” now
 believed  that  he  had  killed  Kunuk,  who  nevertheless
 came  away  unhurt.  When  the  crack  of  the  thong  was
 heard,  the  “ strong  man  ” ordered  the  younger  brother
-to  step  forward.  He,  however,  cared  less  than  Ku-
-nuk : and  after  the  first  attempt  the  chief  proposed  that
+to  step  forward.  He,  however,  cared  less  than  Kunuk : and  after  the  first  attempt  the  chief  proposed  that
 he  should  take  the  whip  for  a change  ; and  giving  it  to
 him,  he  went  himself  and  put  his  foot  on  the  hare.
 Kunuk’s  brother  now  cried,  “ Look  out  and  harden
 thy  body ! ” but  at  the  same  time  smote  him,  so  that  he
 
 
-TALES  AND  TRADITIONS.
-
-
-139
-
-
-fell  down  dead  on  the  spot.  All  his  inferiors  now  re-
-joiced greatly,  and  called  out  to  the  brothers,  “Hence-
+fell  down  dead  on  the  spot.  All  his  inferiors  now  rejoiced greatly,  and  called  out  to  the  brothers,  “Hence-
 forth ye  shall  be  our  leaders  ! ” but  they  rejoined,  “ In
 future  ye  shall  have  no  masters,  but  hunt  at  liberty  and
-at  your  own  will.”  The  brothers  now  practised  all  man-
-ner of  feats  belonging  to  kayaking  and  seal-hunting,  and
+at  your  own  will.”  The  brothers  now  practised  all  manner of  feats  belonging  to  kayaking  and  seal-hunting,  and
 procured  themselves  bladder  - arrows 1 — the  bladders
 being  made  out  of  one  entire  blown-up  seal-skin.  One
 day  they  joined  some  other  kayakers,  and  went  in
 pursuit  of  a very  large  she-walrus.  Kunuk  lanced  it
 four  times  at  a greater  distance  than  usual,  and  his
-arrow  went  right  through  the  animal,  which,  pant-
-ing for  breath,  after  a minute  or  two  was  quite  dead.
+arrow  went  right  through  the  animal,  which,  panting for  breath,  after  a minute  or  two  was  quite  dead.
 When  the  others  came  on  to  give  it  the  finishing  stroke,
 they  found  that  the  arrow  had  penetrated  to  the  very
 vent-holes  of  the  bladder ; and  they  all  rejoiced  at  his
 great  dexterity,  and  praised  it  highly.  Ordinary  seals
 even  grew  quite  stiff  when  his  spear  merely  grazed  them.
-He  once  heard  a report  of  a very  giant,  who  lived  south-
-ward, and  was  named  Ungilagtake.2  He  had  a huge
+He  once  heard  a report  of  a very  giant,  who  lived  southward, and  was  named  Ungilagtake.2  He  had  a huge
 sword,  and  nobody  was  ever  known  to  escape  him  ; even
 the  most  valiant  of  men  were  vanquished  and  put  to
-death  by  him.  On  hearing  this,  the  brothers  immedi-
-ately supposed  him  to  have  been  among  the  strong
+death  by  him.  On  hearing  this,  the  brothers  immediately supposed  him  to  have  been  among  the  strong
 armed  men  who  attacked  their  housemates  at  home,
 when  they  themselves  were  still  little  children  ; and  they
 at  once  determined  to  go  and  find  him  out,  knowing
-that  they  were  now  more  capable  of  revenging  them-
-selves than  they  had  been  at  that  time.  They  left  the
-place  in  two  boats,  one  of  which  belonged  to  the  young-
-est ; in  this  the  mother  of  the  “ strong  man  ” who  had
-been  killed  accompanied  him.  The  other  boat  was  Ku-
-nuk’s,  and  many  kayaks  went  along  with  them  to  make
+that  they  were  now  more  capable  of  revenging  themselves than  they  had  been  at  that  time.  They  left  the
+place  in  two  boats,  one  of  which  belonged  to  the  youngest ; in  this  the  mother  of  the  “ strong  man  ” who  had
+been  killed  accompanied  him.  The  other  boat  was  Kunuk’s,  and  many  kayaks  went  along  with  them  to  make
 war  against  Ungilagtake.  A pretty  strong  breeze  from
 
 1 Small  harpoons  with  a bladder  attached  to  the  shaft,  but  without  any
@@ -7005,15 +5942,8 @@ line,  and  principally  used  for  small  animals.
 2 Pron.  Unghilagtakee.
 
 
-140
-
-
-TALES  AND  TRADITIONS.
-
-
 the  north  had  sprung  up,  and  the  boats  hoisted  their
-sails,  and  the  kayak-men  amused  themselves  with  throw-
-ing their  harpoons  alongside  the  boats.  It  so  happened
+sails,  and  the  kayak-men  amused  themselves  with  throwing their  harpoons  alongside  the  boats.  It  so  happened
 that  Kunuk,  in  flinging  the  harpoon,  hit  the  prow  of  the
 boat,  so  that  it  rebounded  into  the  water  with  a great
 splash.  On  seeing  this,  the  old  hag  chuckled,  and  went
@@ -7022,11 +5952,9 @@ not  help  crying  ; and  Kunuk  asked  his  brother,  who
 was  in  command  of  the  boat,  “ Why  is  my  wife  crying  ? ”
 “ Oh,  that’s  on  account  of  the  arrow,”  he  answered ; “ she
 is  so  mortified  because  the  old  woman  laughed  at  thee.”
-Kunuk  now  purposely  dropped  astern  a little,  and  hold-
-ing his  harpoon  ready,  suddenly  pushed  forward,  and
+Kunuk  now  purposely  dropped  astern  a little,  and  holding his  harpoon  ready,  suddenly  pushed  forward,  and
 flung  it  across  the  boat,  so  that  it  hit  the  hood  of  the
-old  woman’s  fur  coat,  while  she  sat  rowing  in  the  fore-
-end of  the  boat,  even  tearing  a piece  out  of  it ; and  this
+old  woman’s  fur  coat,  while  she  sat  rowing  in  the  foreend of  the  boat,  even  tearing  a piece  out  of  it ; and  this
 trick  he  repeated  once  more.  After  a while,  Kunuk’s
 brother  turned  his  looks  towards  land,  and  recognised
 the  burial-place  of  their  little  sister.  This  made  him  very
@@ -7050,12 +5978,9 @@ put  his  third  finger,  and  carried  it  round  the  room,  after
 which  he  ordered  his  guest  to  do  the  same.  Kunuk
 
 
-TALES  AND  TRADITIONS.  141
-
 took  hold  of  the  strap  with  his  little  finger,  lifted  the
 thing  with  unbent  arm,  and  put  it  down  without  being
-fatigued.  The  host  then  went  on,  “ Now  sit  down  oppo-
-site to  me,  and  I will  throw  a lance  at  thee,  which,  how-
+fatigued.  The  host  then  went  on,  “ Now  sit  down  opposite to  me,  and  I will  throw  a lance  at  thee,  which,  how-
 ever, won’t  hurt  thee  ; ” upon  which  he  brought  out  a
 lance  and  a drum,  and  began  singing,  while  Ivunuk
 heard  the  others  saying,  “ Bend  thee  down,  stranger  ! ”
@@ -7064,44 +5989,29 @@ was  visible  ; and  when  his  host  threw  the  lance  at  him,
 he  lost  his  aim,  merely  observing,  “ This  is  the  way  of
 Ungilagtake,  who  always  hits  the  mark,  and  never  fails.
 Yet  I don’t  know  how  thou  wilt  fare  with  him ; he  will
-hardly  be  able  to  molpst  thee.  But  then  he  has  a com-
-panion, called  Tajangiarsuk,  with  a double  back,  being
+hardly  be  able  to  molpst  thee.  But  then  he  has  a companion, called  Tajangiarsuk,  with  a double  back,  being
 as  fat  in  front  as  behind,  who  is  immensely  strong,  and
-gives  him  a hand  if  there  happen  to  be  any  one  he  can-
-not master.”  Whilst  they  were  sitting  down  at  the  meal
-a cry  was  heard  without,  “ Ungilagtake  invites  the  stran-
-ger to  his  house  ! ” When  Kunuk  and  his  wife  were
-preparing  to  go,  the  host  said,  “ Now  make  a bold  en-
-trance, or  he  will  be  sure  to  kill  thee  at  once.”  The
-visitors  now  went  up  to  a large  house  with  three  win-
-dows, which  was  occupied  with  Ungilagtake’s  numerous
+gives  him  a hand  if  there  happen  to  be  any  one  he  cannot master.”  Whilst  they  were  sitting  down  at  the  meal
+a cry  was  heard  without,  “ Ungilagtake  invites  the  stranger to  his  house  ! ” When  Kunuk  and  his  wife  were
+preparing  to  go,  the  host  said,  “ Now  make  a bold  entrance, or  he  will  be  sure  to  kill  thee  at  once.”  The
+visitors  now  went  up  to  a large  house  with  three  windows, which  was  occupied  with  Ungilagtake’s  numerous
 wives — all  of  whom  he  had  stolen.  Kunuk  was  ordered
 to  sit  down  on  the  side  bench,  but  his  wife  was  brought
 to  a seat  on  the  main  ledge,  and  their  former  host  placed
 himself  opposite  her  husband.  Many  other  spectators
-now  entered  ; but  whenever  a new  visitor  made  his  ap-
-pearance, Kunuk  asked  his  first  host  if  that  were  Tajan-
-giarsuk, until  at  last  he  too  arrived.  Refreshments,  con-
-sisting of  various  dishes,  were  now  served  before  them  ;
+now  entered  ; but  whenever  a new  visitor  made  his  appearance, Kunuk  asked  his  first  host  if  that  were  Tajan-
+giarsuk, until  at  last  he  too  arrived.  Refreshments,  consisting of  various  dishes,  were  now  served  before  them  ;
 and  when  they  had  finished  eating,  Ungilagtake  ordered
 Kunuk  to  seat  himself  opposite  to  him,  and  presently
 drew  out  a huge  spear  from  beneath  the  bench,  and
-striking  upon  the  drum,  which  had  likewise  been  pro-
-duced, the  whole  joined  in  a song  for  Kunuk,  at  the
+striking  upon  the  drum,  which  had  likewise  been  produced, the  whole  joined  in  a song  for  Kunuk,  at  the
 same  time  crying  out,  “ Bend  thee  down,  stranger  that
-
-
-142
-
-
-TALES  AND  TRADITIONS.
 
 
 has  come  among  us  ; the  great  Ungilagtake,  who  never
 missed  his  aim,  is  going  to  thrust  his  spear  at  thee.”
 He  bent  down  as  before,  so  that  only  his  chin  appeared  ;
-but  whilst  Ungilagtake  was  taking  aim  at  him,  he  nim-
-bly gave  a jump,  and  caught  hold  of  one  of  the  roof-
+but  whilst  Ungilagtake  was  taking  aim  at  him,  he  nimbly gave  a jump,  and  caught  hold  of  one  of  the  roof-
 beams,  while  the  spear  went  far  below  him ; and  when  it
 was  flung  at  him  the  second  time,  he  quickly  jumped
 down,  and  the  spear  came  flying  above  him,  amid  great
@@ -7109,14 +6019,12 @@ cheers  from  the  spectators.  When  Ungilagtake  was
 about  to  take  aim  the  third  time,  Kunuk  seized  the
 spear,  saying  that  he,  too,  would  like  to  have  a try  at
 killing  with  it.  They  now  exchanged  places.  Kunuk,
-beating  the  drum,  now  struck  up  a song  for  Ungilak-
-take  ; but  the  very  moment  the  latter  was  preparing  to
+beating  the  drum,  now  struck  up  a song  for  Ungilaktake  ; but  the  very  moment  the  latter  was  preparing  to
 bend  his  back,  Kunuk  had  already  taken  aim  at  him,
 and  the  spear  hit  him  in  the  throat,  so  that  he  fell  dead
 on  the  spot.  Everybody  now  rushed  out  of  the  house,
 and  Kunuk  was  following,  but  soon  found  himself  seized
-fi'om  behind  by  some  one,  who  proved  to  be  Tajangiar-
-suk.  A wrestling-match  soon  ensued  on  a plain  of  ice,
+fi'om  behind  by  some  one,  who  proved  to  be  Tajangiarsuk.  A wrestling-match  soon  ensued  on  a plain  of  ice,
 covered  with  many  projecting  stones,  which  he  had
 chosen  on  purpose,  in  order  to  finish  off  his  adversaries
 by  dashing  them  against  the  stones.  Kunuk  felt  a little
@@ -7136,18 +6044,10 @@ legs  ; ” and  soon  after  three  boats  were  seen  to  carry  this
 champion  thither,  for  he  was  not  like  ordinary  men,  but
 
 
-TALES  AND  TRADITIONS.
-
-
-143
-
-
 of  an  immense  size,  so  that  he  was  obliged  to  lie  across
-all  three  boats  to  get  along.  Having  reached  the  landing-
-place,  he  crept  up  to  the  combat-field  on  his  elbows.
+all  three  boats  to  get  along.  Having  reached  the  landingplace,  he  crept  up  to  the  combat-field  on  his  elbows.
 When  Kunuk  tried  to  throw  him,  his  legs  never  moved
-an  inch  ; but  when  he  proceeded  to  lift  him  up  by  tak-
-ing hold  of  him  round  the  waist,  and  began  to  whirl  him
+an  inch  ; but  when  he  proceeded  to  lift  him  up  by  taking hold  of  him  round  the  waist,  and  began  to  whirl  him
 round,  he  gradually  succeeded  in  lifting  also  his  feet ;
 and  when  they  at  last  turned  right  outwards,  to  let  him
 fall  in  such  a way  that  his  skull  was  crushed.  The  people
@@ -7163,8 +6063,7 @@ THE  FAITHLESS  WIFE.
 
 
 [This  and  the  next  tale,  with  a third  one  about  “the  dog’s  offspring,”
-which  has  been  omitted  in  this  translation,  are  taken  from  five  manu-
-scripts, one  of  which  was  written  down  in  Labrador,  the  others  in
+which  has  been  omitted  in  this  translation,  are  taken  from  five  manuscripts, one  of  which  was  written  down  in  Labrador,  the  others  in
 different  parts  of  Greenland.  In  these  some  parts  of  the  stories
 were  intermixed  in  various  ways,  hut  still  they  seem  originally  to  have
 represented  the  three  separate  stories,  of  which  two  are  here  given.]
@@ -7184,20 +6083,11 @@ her,  and  followed  her  till  she  reached  a lake ; there  he
 observed  her  throw  off  something  into  the  water,  upon
 
 
-144
-
-
-TALES  AND  TRADITIONS.
-
-
 which  a masculine  being  appeared,  and  she  undressing,
-went  out  to  him  in  the  water.  At  this  sight  the  hus-
-band got  into  a great  rage,  and  set  about  gathering  all
+went  out  to  him  in  the  water.  At  this  sight  the  husband got  into  a great  rage,  and  set  about  gathering  all
 kinds  of  vermin  ; and  one  day  when  he  was  quite  alone
-with  his  wife  he  stuffed  them  into  her,  and  in  this  man-
-ner killed  her.  From  that  time  he  was  all  alone,  but  did
-not  wish  to  go  out  in  his  kayak  minding  his  usual  busi-
-ness. One  day,  on  his  returning  to  his  lonely  tent,  he
+with  his  wife  he  stuffed  them  into  her,  and  in  this  manner killed  her.  From  that  time  he  was  all  alone,  but  did
+not  wish  to  go  out  in  his  kayak  minding  his  usual  business. One  day,  on  his  returning  to  his  lonely  tent,  he
 was  very  much  surprised  to  find  his  supper  cooked,  and
 the  smoking  meat  served  up.  The  next  day  the  same
 thing  happened  again  ; the  meat  smoking  hot  was  served
@@ -7205,46 +6095,37 @@ up  on  his  dish,  and  his  boots  were  dried  and  ready  to
 put  on  : 1 and  all  this  was  repeated  every  day.  One  day
 he  only  paddled  a little  way  off  the  coast,  and  then  went
 on  shore  to  hide  in  a place,  whence  he  could  keep  a
-look-out  on  his  tent  ; and  he  soon  observed  a little  wo-
-man, with  her  hair  dressed  up  in  a very  large  tuft,  come
+look-out  on  his  tent  ; and  he  soon  observed  a little  woman, with  her  hair  dressed  up  in  a very  large  tuft,  come
 down  the  hill  and  enter  his  tent.  He  now  quickly  made
 for  his  kayak,  paddled  home,  and  went  creeping  up  to
 his  house.  Having  softly  lifted  the  door-curtain,  he
 noticed  a strong  unpleasant  smell,  and  saw  the  little
 woman  busily  trimming  his  lamp.  She  was  really  a fox
-transformed  into  the  shape  of  a woman,  and  this  ac-
-counted for  the  strong  smell.  Nevertheless,  he  took  her
+transformed  into  the  shape  of  a woman,  and  this  accounted for  the  strong  smell.  Nevertheless,  he  took  her
 for  his  wife.  One  day  he  met  his  cousin  out  at  sea,  and
 told  him  about  his  new  wife,  praising  her  loveliness,  and
 next  asked  him  to  come  and  see  her,  “ But,”  added  he,
 “ if  thou  shouldst  happen  to  notice  a rank  smell  about
 her,  be  sure  not  to  make  any  remarks  about  it.”  The
 cousin  followed  him  at  once,  and  having  landed  together
-they  both  entered  the  tent.  But  when  the  visitor  ob-
-served how  nice  and  pleasant  the  wife  of  his  cousin  was,
+they  both  entered  the  tent.  But  when  the  visitor  observed how  nice  and  pleasant  the  wife  of  his  cousin  was,
 
 
 1 The  Eskimo  boots,  or  kamik,  are  neatly  made  of  dressed  seal-skin.
-After  they  are  put  off  they  must  be  dried,  and  then  rubbed  with  a broad-
-pointed  blunt  stick  until  they  are  soft  and  fit  to  be  used  again.  Rubbing
+After  they  are  put  off  they  must  be  dried,  and  then  rubbed  with  a broadpointed  blunt  stick  until  they  are  soft  and  fit  to  be  used  again.  Rubbing
 and  drying  boots  and  dog-skin  socks  form  a most  important  part  of  an
 Eskimo  wife’s  household  duties.
-
-
-TALES  AND  TRADITIONS.
 
 
 H5
 
 
 he  grew  quite  jealous;  and  in  order  to  make  mischief
-exclaimed,  “Whence  comes  this  nasty  smell?”  In-
-stantly the  little  woman  rose  to  her  feet : she  had  now
+exclaimed,  “Whence  comes  this  nasty  smell?”  Instantly the  little  woman  rose  to  her  feet : she  had  now
 got  a tail,  wherewith  she  extinguished  the  lamp,  and  like
 a fox  cried,  “ Ka,  ka,  ka ! " 1 and  ran  out  of  the  tent.
 The  husband  followed  her  quickly ; but  when  he  again
-caught  sight  of  her  she  was  transformed  into  a fox,  run-
-ning up  hill  as  fast  as  possible.  He  pursued  her,  and
+caught  sight  of  her  she  was  transformed  into  a fox,  running up  hill  as  fast  as  possible.  He  pursued  her,  and
 at  last  she  vanished  into  a cave.  It  is  told  that  while
 he  stood  outside  calling  for  her,  she  first  sent  him  a
 beetle,  and  then  a spider,  and  at  last  a caterpillar.  He
@@ -7278,20 +6159,13 @@ of  Arctic  voyagers,  “ Huk,  huk,  huk  ! ”
 K
 
 
-146
-
-
-TALES  AND  TRADITIONS.
-
-
 tell  ye  to  keep  off  from  the  water  before  I set  off?”
 Then  taking  hold  of  one  of  the  heads,  he  threw  it  into
 the  sea,  “ Look,  there’s  your  little  brother  fallen  into  the
 water!”  Another  time,  feeling  himself  very  sad  and
 lonely,  he  went  running  far  away  into  the  country,  and
 happened  to  fall  in  with  a great  many  women  bathing
-in  a lake.  At  this  sight  an  idea  seized  him,  and  noise-
-lessly he  stole  away  to  the  place  where  they  had  put
+in  a lake.  At  this  sight  an  idea  seized  him,  and  noiselessly he  stole  away  to  the  place  where  they  had  put
 their  clothes,  securing  those  belonging  to  the  one  he
 thought  the  prettiest,  and  then  stepped  boldly  forward.
 When  the  women  saw  him  they  hastened  back  to  their
@@ -7319,22 +6193,13 @@ are  akin  to  birds.”  On  a certain  day  she  fastened  a
 pair  of  these  wings  upon  one  of  the  boys,  who  was  at
 once  changed  into  a sea-fowl,  and  flew  away.  She  did
 the  same  thing  to  his  brother ; and  last  of  all  she  herself
-put  on  wings  and  followed  them  in  the  shape  of  a sea-
-fowl.  When  the  old  husband  came  home  he  found  nei-
+put  on  wings  and  followed  them  in  the  shape  of  a seafowl.  When  the  old  husband  came  home  he  found  nei-
 
 
-TALES  AND  TRADITIONS.
-
-
-147
-
-
-ther  wife  nor  children,  at  which  he  grew  very  sad.  How-
-ever, he  did  not  cease  to  go  out  in  his  kayak,  although
+ther  wife  nor  children,  at  which  he  grew  very  sad.  However, he  did  not  cease  to  go  out  in  his  kayak,  although
 he  no  more  chased  seals.  One  day  he  put  in  close  to  a
 sand-hill,  and  leaving  his  kayak  on  the  beach,  he  crossed
-the  hill,  and  went  a good  way  into  the  country.  Look-
-ing round,  he  saw  a man  with  his  back  turned  towards
+the  hill,  and  went  a good  way  into  the  country.  Looking round,  he  saw  a man  with  his  back  turned  towards
 him,  working  away  at  a piece  of  timber  with  his  axe.
 On  approaching  him,  he  observed  that  the  lower  parts
 of  his  body  visibly  trembled.  The  man  now  asked  him,
@@ -7368,20 +6233,13 @@ was  sitting,  and  opposite  her  a man  with  a pug-nose,
 constantly  repeating,  “ Wilt  thou  not  marry  me  ?”  But
 
 
-148
-
-
-TALES  AND  TRADITIONS.
-
-
 the  woman  answered,  “No,  I have  already  got  another
 husband.”  All  the  rest  now  left  the  house,  and  only
 those  two  remained.  At  last,  when  the  fellow  with  the
 pug-nose  had  left  also,  the  old  man  made  an  attempt  to
 take  his  wife  back  ; but  she  quickly  followed  the  other
 out,  and  while  he  pursued  her  she  was  transformed  into
-a gull,  as  were  also  the  rest  of  the  women.  The  pug-
-nosed  man  was  changed  into  a wild-duck  ; and  when
+a gull,  as  were  also  the  rest  of  the  women.  The  pugnosed  man  was  changed  into  a wild-duck  ; and  when
 the  discarded  husband  turned  round,  he  saw  that  the
 house  had  been  transformed  into  a gulls-hill.1
 
@@ -7416,12 +6274,6 @@ and  especially  gulls,  whose  ordure  has  accumulated  to  a great  extent  i
 such  localities.
 
 
-TALES  AND  TRADITIONS.
-
-
-149
-
-
 “ catch  ” if  he  could  think  of  some  means  whereby  to  get
 children.  When  the  wife  appeared  on  the  beach  the
 next  day,  the  old  man  instantly  made  for  the  shore,  and
@@ -7453,8 +6305,7 @@ they  shoved  it  off  the  beach.  The  old  man  told  what
 would  happen  to  him,  saying,  “ The  very  first  time  he
 goes  out,  one  of  the  ‘ quiet  ’ seals  will  rise  to  the  surface,
 and  he  shall  not  return  home  till  he  has  captured  ten  of
-them  ; and  in  future  he  will  always  get  ten  seals  when-
-ever he  goes  out  kayaking.  The  old  man  and  the  father
+them  ; and  in  future  he  will  always  get  ten  seals  whenever he  goes  out  kayaking.  The  old  man  and  the  father
 now  followed  him  closely,  but  as  soon  as  they  left  him
 at  a little  distance  a seal  popped  its  head  above  the
 water,  and  he  paddled  on  and  harpooned  it,  at  which
@@ -7462,25 +6313,16 @@ water,  and  he  paddled  on  and  harpooned  it,  at  which
 1 An  1 1 okaitsok  ” — Phalacrocorax  Carbo.
 
 
-TALES  AND  TRADITIONS.
-
-
-150
-
 the  old  man  was  quite  transported  ; and  from  this  time
 the  boy  began  to  hunt.  When  he  was  grown  up  he  took
-two  wives  ; and  he  became  of  great  use  to  his  house-
-fellows  and  neighbours.  In  times  of  need  he  was  their
+two  wives  ; and  he  became  of  great  use  to  his  housefellows  and  neighbours.  In  times  of  need  he  was  their
 only  provider.  One  winter  the  sea  was  frozen  over  very
 early,  and  ere  long  there  was  only  one  opening  in  the
 ice  left,  right  in  front  of  their  dwelling-place  ; out  of  this
-he  every  day  got  his  ten  seals.  Later  on  the  cleft  be-
-came so  narrow  that  his  kayak  touched  the  edge  of  the
+he  every  day  got  his  ten  seals.  Later  on  the  cleft  became so  narrow  that  his  kayak  touched  the  edge  of  the
 ice  with  both  ends,  and  at  last  it  altogether  closed  up.
-The  whole  sea  was  now  covered  with  ice  ; great  perplex-
-ity came  over  the  people,  and  they  deliberated  whether
-it  would  not  be  necessary  to  call  in  an  angakok.  One  per-
-son mentioned  that  in  the  summer-time  he  had  seen  the
+The  whole  sea  was  now  covered  with  ice  ; great  perplexity came  over  the  people,  and  they  deliberated  whether
+it  would  not  be  necessary  to  call  in  an  angakok.  One  person mentioned  that  in  the  summer-time  he  had  seen  the
 widow  Igdlutsialik’s  daughter  practising  the  angakok  art
 in  a lake.  Kujavarsuk  at  once  sent  off  a messenger  to
 let  her  know  that  he  would  give  her  a large  seal-skin  in
@@ -7490,35 +6332,27 @@ by  offering  her  different  things,  such  as  clothes  and
 lamps;  but  still  she  refused.  Then  some  one  brought  her
 a handful  of  beads,  which  happened  to  take  her  fancy  ;
 and  she  said  to  her  mother,  “ Bring  my  summer  dress.”
-When  she  had  put  it  on,  she  walked  down  to  the  water-
-side and  disappeared  among  the  loose  ice-blocks  scat-
+When  she  had  put  it  on,  she  walked  down  to  the  waterside and  disappeared  among  the  loose  ice-blocks  scat-
 tered all  along  the  sea-shore.  Shortly  afterwards  the
 spectators  heard  a splash,  and  she  was  seen  no  more.
 She  now  remained  in  the  depths  of  the  ocean  for  three
 days,  and  at  the  bottom  of  the  sea  she  had  a struggle
 with  the  old  woman  (viz.,  the  arnarkuagssax  of  the
 Eskimo  mythology),  to  make  her  let  loose  the  animals
-of  the  sea,  which  she  purposely  detained,  and  kept  swim-
-ming about  underneath  her  lamp  ; and  when  at  length
+of  the  sea,  which  she  purposely  detained,  and  kept  swimming about  underneath  her  lamp  ; and  when  at  length
 she  had  managed  to  conciliate  her,  she  again  returned
-to  the  earth.  On  the  evening  of  the  third  day  she  re-
-appeared among  the  ice-blocks  on  the  beach,  and  let
+to  the  earth.  On  the  evening  of  the  third  day  she  reappeared among  the  ice-blocks  on  the  beach,  and  let
 the  people  know  that  she  wanted  every  other  seal  that
-
-
-TALES  AND  TRADITIONS.
 
 
 15  I
 
-was  caught,  for  herself,  of  those  with  the  most  beauti-
-ful skin,  as  well  as  of  the  common  fiord  seals.  As  yet,
+was  caught,  for  herself,  of  those  with  the  most  beautiful skin,  as  well  as  of  the  common  fiord  seals.  As  yet,
 however,  the  sea  was  all  covered  with  ice.  But  on  the
 following  morning,  at  dawn,  the  ice  broke  up,  and  an
 opening  appeared  near  the  houses  ; and  after  a while  it
 had  become  so  wide  that  the  men  could  put  down  their
-kayaks.  Each  of  them  soon  caught  two  seals,  but  Kuja-
-varsuk  as  usual  got  ten,  which  made  the  others  very
+kayaks.  Each  of  them  soon  caught  two  seals,  but  Kujavarsuk  as  usual  got  ten,  which  made  the  others  very
 jealous.  It  now  happened  one  day  that  his  wives  had
 only  put  by  a piece  of  the  back  instead  of  the  briskets
 for  his  mother’s  brother,  who  was  expected  to  come
@@ -7536,25 +6370,15 @@ approached  him  he  was  in  the  very  act  of  drawing  his
 kayak  on  the  shore.  The  same  thing  happened  on  the
 second  and  the  third  day.  The  tupila.k  now  determined
 to  pursue  him  to  his  house,  and  then  frighten  him  to
-death.  It  transformed  itself  into  a toogdlik ,x  and  com-
-menced shrieking  outside  the  house.  Kujavarsuk  went
+death.  It  transformed  itself  into  a toogdlik ,x  and  commenced shrieking  outside  the  house.  Kujavarsuk  went
 out ; but  as  he  could  not  be  brought  to  look  at  it,  the
-charm  would  not  work.  It  then  resolved  to  go  under-
-ground, and  pop  up  into  the  room.  However,  it  suc-
+charm  would  not  work.  It  then  resolved  to  go  underground, and  pop  up  into  the  room.  However,  it  suc-
 ceeded no  better  this  time,  but  rose  at  the  back  of  the
 house  ; and  just  as  it  was  about  to  climb  up  the  roof,  it
-met  his  own  amulet-bird,  which  at  once  set  about  pick-
-ing and  scratching  its  face.  It  now,  however,  turned
+met  his  own  amulet-bird,  which  at  once  set  about  picking and  scratching  its  face.  It  now,  however,  turned
 desperate,  and  thought,  “ Why  did  this  miserable  fool
 
-1 The  largest  sea-fowl  in  Greenland,  Colymbus  glacialis,  or  Great  Nor-
-thern Diver.
-
-
-152
-
-
-TALES  AND  TRADITIONS.
+1 The  largest  sea-fowl  in  Greenland,  Colymbus  glacialis,  or  Great  Northern Diver.
 
 
 of  a man  ever  make  me  ! ” and  in  the  height  of  its  wrath
@@ -7562,8 +6386,7 @@ it  turned  against  its  maker.  Diving  down  into  the
 water  near  his  fishing-place,  it  emerged  right  beneath
 his  kayak,  and  fairly  upsetting  it,  devoured  him  on  the
 spot.  It  now  fled  far  away  from  the  habitations  of  man,
-out  on  the  roaring  ocean.  Kujavarsuk  afterwards  re-
-mained unmolested,  and  died  at  a very  old  age.
+out  on  the  roaring  ocean.  Kujavarsuk  afterwards  remained unmolested,  and  died  at  a very  old  age.
 
 
 [There  are  other  tales  of  Kujavarsuk  among  the  Greenlanders.  The
@@ -7572,13 +6395,11 @@ following  may  be  taken  as  a sample  of  the  whole.]
 
 When  Kujavarsuk  had  grown  a man  he  travelled  to
 a place  in  the  north,  where  he  had  had  a namesake  who
-died  from  starvation.  The  people  of  those  parts  fol-
-lowed the  pursuit  of  whale-fishery,  and  here  Kujavarsuk
+died  from  starvation.  The  people  of  those  parts  followed the  pursuit  of  whale-fishery,  and  here  Kujavarsuk
 made  friends  with  a youth.  Those  two  were  always
 trying  to  outdo  each  other,  but  Kujavarsuk  was  more
 than  a match  for  him.  In  the  beginning  of  winter  they
-were  to  try  who  could  detect  the  first  whale.  Kuja-
-varsuk had  never  seen  any  animal  of  this  kind  before.
+were  to  try  who  could  detect  the  first  whale.  Kujavarsuk had  never  seen  any  animal  of  this  kind  before.
 He  had  by  this  time  taken  up  his  abode  with  an
 old  man,  who  said  to  him,  “ When  a whale  is  near  at
 hand,  it  cannot  be  mistaken  ; its  breathing  is  at  once
@@ -7595,12 +6416,6 @@ sound  of  heavy  breathing  from  the  sea  coming  closer  to
 him,  and  stopping  at  the  mouth  of  the  bay  ; and  on
 entering  he  said,  “ I wonder  what  sound  it  was  I heard
 just  now.”  The  old  man  walked  out,  and  returned,  say-
-
-
-TALES  AND  TRADITIONS.
-
-
-153
 
 
 mg,  “ Why,  that’s  just  the  whale  blowing;  he  did  not
@@ -7626,11 +6441,9 @@ boats,  meantime,  had  stood  farther  out  to  sea,  and  the
 people  shouted  to  him,  “ If  thou  art  on  the  look-out  for
 the  whale  thou  must  come  out  to  us  ; he’ll  never  rise
 where  thou  art  now.”  But  he  did  not  mind  them,  and
-stayed  where  he  was,  his  mother  having  said,  “ I con-
-ceived thee  on  the  sea-shore,  and  for  this  reason  thou
+stayed  where  he  was,  his  mother  having  said,  “ I conceived thee  on  the  sea-shore,  and  for  this  reason  thou
 shalt  watch  thy  chance  near  it.”  In  a little  rvhile  a
-whale  appeared  close  by  ; he  at  once  pursued  and  har-
-pooned it,  and  the  beast  could  not  even  draw  his  blad-
+whale  appeared  close  by  ; he  at  once  pursued  and  harpooned it,  and  the  beast  could  not  even  draw  his  blad-
 der under  the  water.  Again  the  others  cried,  “If  thou
 wilt  not  lose  it  thou  must  pursue  it  more  seawards.”
 But  he  only  replied,  “ All  the  animals  of  the  sea  that  I
@@ -7639,12 +6452,6 @@ dwelling-place.”  And  thus  he  was  left  alone  to  kill  it
 all  by  himself.  Whether  he  got  any  more  than  this
 one  is  not  known  ; but  perhaps  he  even  got  his  ten  of
 them.  When  spring  came  on  he  returned  to  his  former
-
-
-154
-
-
-TALES  AND  TRADITIONS.
 
 
 home,  where  he  still  found  the  old  fisherman  alive,  and
@@ -7663,12 +6470,10 @@ THE  TWO  BROTHERS.
 TWO  brothers  lived  in  the  mouth  of  a fiord — the  elder
 one  on  the  sunny  side,  the  other  on  the  shady
 side  of  the  inlet.  One  night  the  servant  of  the  younger
-brother  happening  to  go  behind  the  house  suddenly  per-
-ceived something  bright  glittering  out  on  the  sea,  and
+brother  happening  to  go  behind  the  house  suddenly  perceived something  bright  glittering  out  on  the  sea,  and
 at  the  same  time  detected  a boat  that  seemed  to  grow
 in  size  as  it  approached  ; on  looking  sharply  she  was
-horrified  at  recognising  it  to  be  an  umiariak  (or  super-
-natural boat  manned  with  fabulous  beings).  She  wanted
+horrified  at  recognising  it  to  be  an  umiariak  (or  supernatural boat  manned  with  fabulous  beings).  She  wanted
 to  run,  but  was  not  able  to  stir ; she  tried  to  call  out,
 but  found  that  she  could  not  utter  a sound,  and  so  she
 must  needs  keep  quiet.  The  next  thing  she  saw  was  a
@@ -7685,28 +6490,19 @@ was  still  dark,  she  could  not  possibly  wait,  but  set
 off  at  once,  and  wandered  ever  so  far  round  the  whole
 
 
-TALES  AND  TRADITIONS.
-
-
-155
-
-
 bay  to  reach  the  opposite  shore,  where  the  other  brother
 lived,  and  having  reached  his  tent  she  told  him  what  had
 taken  place,  and  that  all  her  housemates  had  been  put
 to  death.  But  somehow  he  got  suspicious,  and  believed
 that  she  herself  had  killed  them.  Seeing  this,  she
-merely  said,  “ First  go  and  look  for  thyself,  and  after-
-ward thou  mayst  kill  me  if  thou  likest.”  He  now  went
+merely  said,  “ First  go  and  look  for  thyself,  and  afterward thou  mayst  kill  me  if  thou  likest.”  He  now  went
 across  to  his  brother’s  station,  and  when  he  had  seen  the
 tent  pierced  from  all  sides  he  was  reassured  with  regard
-to  the  servant,  and  only  thought  of  finding  out  the  ene-
-mies. He  bespoke  an  angakok  to  come  and  see  him,
+to  the  servant,  and  only  thought  of  finding  out  the  enemies. He  bespoke  an  angakok  to  come  and  see  him,
 that  he  might  point  them  out  to  him.  At  night,  when
 the  angakok  had  arrived,  the  lamps  were  extinguished,
 and  he  spoke,  “ Look  there  ; far  away  in  the  interior  of
-the  land,  I espy  them.”  When  he  could  no  longer  des-
-cry them  he  again  had  the  lamps  lighted.  On  the  fol-
+the  land,  I espy  them.”  When  he  could  no  longer  descry them  he  again  had  the  lamps  lighted.  On  the  fol-
 lowing day  the  surviving  brother  paddled  up  to  the
 fiord  head,  left  his  kayak  on  the  beach,  and  walked,
 only  armed  with  his  spear,  to  the  interior.  After  a long
@@ -7716,31 +6512,19 @@ with  only  one  eye  sitting  down,  and  busily  carving  some
 implement  out  of  wood.  On  turning  round,  the  man
 caught  sight  of  the  stranger,  and  at  once  invited  him  to
 come  in.  Having  entered  the  house,  he  went  and  sat
-down  beside  the  man  with  one  eye,  who,  however,  mo-
-tioned him  off  a little,  saying,  “ Don’t  sit  quite  so  close
+down  beside  the  man  with  one  eye,  who,  however,  motioned him  off  a little,  saying,  “ Don’t  sit  quite  so  close
 to  me ; I might  happen  to  cut  thee.”  When  the  guest
 had  complied,  and  moved  farther  away,  he  went  on,
-saying,  “ Let  refreshment  be  brought  in  for  the  stran-
-ger.” A loud  peal  of  laughter  was  then  heard,  and  from
+saying,  “ Let  refreshment  be  brought  in  for  the  stranger.” A loud  peal  of  laughter  was  then  heard,  and  from
 beneath  the  ledge  emerged  a lot  of  narrciyoot  (plural  of
 n&rr&jok,  big-bellied),  these  being  the  only  womankind
-of  his  household.  They  went  out,  returning  soon  after-
-wards with  great  quantities  of  meat,  chiefly  reindeer
-flesh  and  tallow.  The  host  now  said  to  him,  “ To-mor-
-row I will  go  with  thee  and  help  thee  to  find  out  thy
-
-
-156
-
-
-TALES  AND  TRADITIONS.
+of  his  household.  They  went  out,  returning  soon  afterwards with  great  quantities  of  meat,  chiefly  reindeer
+flesh  and  tallow.  The  host  now  said  to  him,  “ To-morrow I will  go  with  thee  and  help  thee  to  find  out  thy
 
 
 enemies,  but  now  thou  must  lie  down  to  rest  here  ; thou
-hast  nothing  to  fear.”  On  the  following  day  the  one-
-eyed  man  prepared  to  follow  him,  taking  with  him  a
-large  bunch  of  arrows,  fitted  up  in  a skin  cover.  Hav-
-ing advanced  somewhat  into  the  country,  he  walked  so
+hast  nothing  to  fear.”  On  the  following  day  the  oneeyed  man  prepared  to  follow  him,  taking  with  him  a
+large  bunch  of  arrows,  fitted  up  in  a skin  cover.  Having advanced  somewhat  into  the  country,  he  walked  so
 quickly  that  his  companion  could  hardly  keep  up  with
 him.  At  length  he  stopped,  and  putting  his  arrows  on
 the  ground,  he  said,  “ Turn  thy  face  towards  the  interior
@@ -7761,24 +6545,15 @@ a while  they  decreased  in  number,  and  finally  abated
 altogether.  The  enemies  having  discharged  all  their
 arrows  had  taken  flight.  The  one-eyed  man  then  took
 up  his  bow,  and  the  still  revengeful  brother  his  spear,
-and  both  set  off  in  pursuit  of  them,  overtaking  and  kill-
-ing the  whole  of  them.  On  the  way  home  the  inlander
-noticed  his  companion’s  weapon,  questioned  him  con-
-cerning it,  as  he  had  never  seen  the  like  before,  and  told
-him  he  would  like  very  much  to  purchase  it ; and  be-
-cause of  his  handsome  behaviour  he  had  his  wish.  On
+and  both  set  off  in  pursuit  of  them,  overtaking  and  killing the  whole  of  them.  On  the  way  home  the  inlander
+noticed  his  companion’s  weapon,  questioned  him  concerning it,  as  he  had  never  seen  the  like  before,  and  told
+him  he  would  like  very  much  to  purchase  it ; and  because of  his  handsome  behaviour  he  had  his  wish.  On
 their  return  they  went  together  to  his  storehouse,  and
 he  was  repaid  with  the  renowned  sea-hare  skin  (viz.,
 white  reindeer  skins  with  black  streaks),  and  one  of  the
 little  women  was  called  to  take  them  down.  She  put
 the  bundle  on  her  stomach,  and  ran  so  fast  with  it  that
 the  visitor  could  not  keep  pace  with  her.  On  his  reach-
-
-
-TALES  AND  TRADITIONS.
-
-
-157
 
 
 ing  home,  he  found  them  put  on  the  roof  of  his  house,
@@ -7791,8 +6566,7 @@ great  numbers,  the  surviving  ones  will  often  avenge  themselves  in  the
 shape  of  umiarissai  (plural  of  umiariaK) — that  is,  armed  people  in  a boat
 fashioned  out  of  a solid  piece  of  ice.  In  one  of  the  versions  the  inlanders
 here  mentioned  are  called  erkileks,  in  another  “ the  men  who  twinkle  length-
-■ztrise,”  which  closely  reminds  one  of  the  Indians  called  Loucheux  or  Squint-
-eyes,  who  up  to  the  present  day  are  one  of  the  tribes  most  hostile  to  the
+■ztrise,”  which  closely  reminds  one  of  the  Indians  called  Loucheux  or  Squinteyes,  who  up  to  the  present  day  are  one  of  the  tribes  most  hostile  to  the
 Eskimo,  and  described  as  being  able  to  make  themselves  proof  against  the
 arrows  of  their  enemies  by  means  of  a certain  movement  of  their  eyes.
 
@@ -7827,12 +6601,6 @@ Greenlandish  language  abnormal.  It  has  been  adopted  from  the  original
 manuscripts,  but  the  name  ought  perhaps  to  have  been  called  Kiviok.
 
 
-158
-
-
-TALES  AND  TRADITIONS.
-
-
 “ Thy  mother  is  not  here  ; she  is  lying  under  the  big
 stones  yonder.”  1 But  the  little  boy  persisted,  saying,
 “Look  for  thyself,  then;”  and  when  Giviok  did  look
@@ -7847,22 +6615,18 @@ and  hastened  away.  He  paddled  on  and  on  across  the
 wild  sea  ; he  came  to  the  whirlpool,  and  was  nearly
 drawn  into  it.  Somehow,  however,  he  escaped.  Then
 he  got  among  the  villainous  sea-lice.  First  he  tried  to
-keep  them  back  by  striking  at  them  with  his  kayak-
-stick  ; but  that  was  soon  devoured.  Then  he  threw  out
+keep  them  back  by  striking  at  them  with  his  kayakstick  ; but  that  was  soon  devoured.  Then  he  threw  out
 his  sealskin  gloves  ; and  seeing  that  they  lasted  a little
-longer,  he  bethought  himself  of  covering  his  paddle-
-blades  with  a pair  of  old  gloves,  lest  the  beasts  should
+longer,  he  bethought  himself  of  covering  his  paddleblades  with  a pair  of  old  gloves,  lest  the  beasts  should
 attack  his  paddle  before  he  could  slip  away  from  them  ;
 and  then  he  managed  to  get  past  them.  Continuing
-his  voyage,  he  saw  a long  black  line,  and  on  approach-
-ing it  he  noticed  it  to  be  sea-weed,  which  he  found  to  be
+his  voyage,  he  saw  a long  black  line,  and  on  approaching it  he  noticed  it  to  be  sea-weed,  which  he  found  to  be
 so  compact  that  he  got  out ; and  lying  down  to  rest,  he
 went  to  sleep  on  it.  When  he  awoke,  he  pushed  himself
 and  his  kayak  on  with  his  hands,  and  in  this  manner
 got  across  the  sea-weed.  He  continued  paddling  until
 he  came  in  sight  of  two  icebergs,  with  a narrow  passage
-between  them  ; and  he  observed  that  the  passage  alter-
-nately opened  and  closed  again.  He  tried  to  pass  the
+between  them  ; and  he  observed  that  the  passage  alternately opened  and  closed  again.  He  tried  to  pass  the
 icebergs  by  paddling  round  outside  them,  but  they
 always  kept  ahead  of  him  ; and  at  length  he  ventured
 to  go  right  between  them.  With  great  speed  and  alacrity
@@ -7871,12 +6635,6 @@ closed  together,  and  the  stern-point  of  his  kayak  got
 
 1 The  Eskimo  in  Greenland  and  the  greater  part  of  their  territories
 have  always  been  buried  under  heaps  of  stones.
-
-
-TALES  AND  TRADITIONS.
-
-
-159
 
 
 bruised  between  them.  At  last  he  caught  a glimpse  of
@@ -7889,30 +6647,25 @@ chimney,  and  he  soon  concluded  that  they  were  busy
 cooking  inside.  He  went  straight  on  towards  it,  upset
 the  funnel,  and  hid  himself  close  by.  Instantly  a female
 came  rushing  out,  saying,  “ I wonder  if  any  one  upset
-it?”  upon  which  she  again  put  it  to  rights  ; and  mean-
-time, perceiving  Giviok,  quickly  re-entered  the  house,
-but  as  quickly  returned,  saying  to  him,  “ Thou  art  in-
-vited to  step  inside.”  On  entering,  he  saw  a hideous
+it?”  upon  which  she  again  put  it  to  rights  ; and  meantime, perceiving  Giviok,  quickly  re-entered  the  house,
+but  as  quickly  returned,  saying  to  him,  “ Thou  art  invited to  step  inside.”  On  entering,  he  saw  a hideous
 old  hag  lying  beneath  a coverlet,  who  ordered  her
 daughter  to  go  and  fetch  some  berries ; and,  running
 out,  she  soon  returned  Avith  a great  quantity  of  them,
 profusely  mixed  up  with  fat.  Giviok,  while  he  was
 eating  them,  remarked,  “They  are  really  delicious;”
-and  Usorsak  (this  was  the  name  of  the  old  hag)  re-
-joined, “ No  wonder;  the  fat  is  of  quite  a young  fellow  ; ”
+and  Usorsak  (this  was  the  name  of  the  old  hag)  rejoined, “ No  wonder;  the  fat  is  of  quite  a young  fellow  ; ”
 but  Giviok  answered,  “ Fie  ! anything  of  that  kind  I
 cannot  eat ; ” and  stooping  down,  he  noticed  a lot  of
 human  heads  all  in  a row  beneath  the  ledge  ; and  when
 the  hag  uncovered  herself  a little,  and  turned  her  back
 towards  him,  he  saw  something  glittering  close  behind
 her.  When  they  were  all  ready  to  go  to  rest,  Giviok
-said,  “ I shall  just  go  outside  for  an  instant.”  Accord-
-ingly he  went,  and  soon  found  a flat  stone  to  cover  his
+said,  “ I shall  just  go  outside  for  an  instant.”  Accordingly he  went,  and  soon  found  a flat  stone  to  cover  his
 breast  with ; and  re-entering,  he  lay  down  on  the  ledge
 beneath  the  window.  No  sooner  did  he  seem  to  be
 sleeping,  than  he  heard  the  daughter  saying,  “ Now  he
-is  sound  asleep  ;”  and  instantly  the  old  hag  came  jump-
-ing down  from  her  place  on  the  main  ledge ; but  on  his
+is  sound  asleep  ;”  and  instantly  the  old  hag  came  jumping down  from  her  place  on  the  main  ledge ; but  on  his
 feigning  not  to  be  quite  asleep,  she  cautiously  returned.
 When  he  again  had  become  quiet,  and  lying  on  his  back
 
@@ -7940,8 +6693,7 @@ his  journey ; and  after  a while  again  reached  a bare
 rock.  At  a little  distance  from  it  he  landed ; and,  as
 before,  went  up  to  a house  where  he  likewise  upset  the
 chimney-funnel,  and  afterwards  hid  himself.  A woman
-again  emerged  from  the  doorway ; and  when  she  re-
-entered, he  heard  them  wondering  at  the  chimney
+again  emerged  from  the  doorway ; and  when  she  reentered, he  heard  them  wondering  at  the  chimney
 having  been  upset,  as  there  had  not  been  any  wind.
 When  she  again  made  her  appearance,  Giviok  came
 forth,  and  was  asked  to  come  inside.  Crossing  the
@@ -7958,12 +6710,6 @@ have  killed.”  “Then  thanks  to  thee!”  they  exclaimed.
 put  all  of  them  to  death  ; but  now  thou  hadst  better  stay
 here  with  us.”  Giviok  at  once  consenting,  they  went
 on  saying,  “ To-morrow  we  shall  have  low-water,  and
-
-
-TALES  AND  TRADITIONS.
-
-
-161
 
 
 when  thou  hearest  a roaring  noise,  thou  must  hasten
@@ -8001,12 +6747,6 @@ standing  on  a whale’s  back.
 L
 
 
-TALES  AND  TRADITIONS.
-
-
-162
-
-
 16.
 
 T I G G A K.
@@ -8022,8 +6762,7 @@ after  this  he  grew  neglectful  of  his  duties,  and  gave  up
 hunting.  When  the  brothers-in-law  left  home  in  the
 morning,  they  could  not  persuade  him  to  follow  them  ;
 sometimes  he  even  slept  till  the  first  of  the  kayakers
-returned,  and  then  did  nothing  but  keep  his  wife  com-
-pany, and  dawdle  the  time  away  till  bedtime  came
+returned,  and  then  did  nothing  but  keep  his  wife  company, and  dawdle  the  time  away  till  bedtime  came
 round  again.  This  offended  the  other  men,  and  they
 let  him  understand  that  they  were  vexed  with  him.
 One  evening,  when  one  of  the  brothers  had  ordered
@@ -8039,22 +6778,14 @@ provisions  ; but  at  last  these  were  brought  to  an  end.
 One  day,  when  they  could  not  even  go  out  in  the  kayak,
 Tiggak  was  missing.  Towards  evening  they  looked
 about  for  him,  and  there  was  a terrible  snow-drift.
-Late  at  night  they  heard  a call,  and  they  saw  him  ap-
-proaching, and  dragging  two  seals  along  with  him.
+Late  at  night  they  heard  a call,  and  they  saw  him  approaching, and  dragging  two  seals  along  with  him.
 From  that  time  he  rose  in  their  estimation,  and  was
 now  highly  thought  of  among  them.  He  now  had  the
 briskets  served  up,  and  addressed  the  brothers,  saying,
 
 
-TALES  AND  TRADITIONS.
-
-
-163
-
-
 “Now  come  and  fall  to;  the  meat  is  boiled  and  served
-up,  and  eating  it  is  easy  work.”  They  all  ate,  but  no-
-body spoke.  Next  day  the  same  scene  was  repeated;
+up,  and  eating  it  is  easy  work.”  They  all  ate,  but  nobody spoke.  Next  day  the  same  scene  was  repeated;
 and  all  the  winter  he  continued  providing  for  the  others  :
 but  in  the  summer  he  left  off,  and  let  his  brothers-in-law
 undertake  this  task  themselves.  Subsequently  Tiggak
@@ -8091,12 +6822,6 @@ on  him  and  returned  to  him,  the  others  also  following
 him;  but  now  they  all  drifted  away  seawards,  and  now
 
 
-164
-
-
-TALES  AND  TRADITIONS.
-
-
 and  then  the  waves  washed  over  the  ice-floe  they  were
 standing  on,  and  they  grew  silent  with  fear.  At  last
 one  of  them  remarked,  “ It  is  said  that  Tiggak  is  learned
@@ -8119,8 +6844,7 @@ to  get  water.”  Having  finished  the  incantation,  a little
 spring  bubbled  forth  from  the  centre  of  the  iceberg.
 The  brothers  instantly  wanted  to  drink  ; but  he  told
 them  to  wait,  saying  that  otherwise  it  was  sure  to  dry
-up  at  once.  But  when  he  had  tasted  it  himself,  he  per-
-mitted them  to  drink  ; and  now  it  could  not  change.
+up  at  once.  But  when  he  had  tasted  it  himself,  he  permitted them  to  drink  ; and  now  it  could  not  change.
 After  having  drifted  about  for  a long  time,  they  came
 in  sight  of  an  extensive  country  ; and  Tiggak  said  to
 his  companions,  “If  any  of  you  is  fortunate  enough  to
@@ -8136,8 +6860,6 @@ and  having  crossed  an  isthmus,  they  came  in  sight  of
 many  houses,  and  were  shortly  afterwards  invited  into
 
 
-TALES  AND  TRADITIONS.  1 65
-
 one  of  them.  They  relieved  themselves  of  their  outer
 garments,  and  hanging  them  up  on  the  boat-pillars,1
 went  inside.  During  the  meal,  a squint-eyed  youth
@@ -8150,52 +6872,41 @@ be  obliged  to  go.”  And  so  they  entered  another  house,
 where  a great  many  people  were  assembled.  On  the
 main  ledge  a disagreeable  giant-like  man  was  sitting,
 and  by  his  side  a similar  old  woman,  gnawing  away  at
-a big  shoulder-bone.  The  huge  man  pulled  forth  a seal-
-skin, spread  it  on  the  ground,  and,  in  a deep-sounding
+a big  shoulder-bone.  The  huge  man  pulled  forth  a sealskin, spread  it  on  the  ground,  and,  in  a deep-sounding
 voice,  exclaimed,  “ Now  come  on  for  a wrestling-match!”
 The  brothers  commenced  whispering  to  Tiggak  that  he
 should  take  the  first  turn;  but  he  said,  “Not  so;  you
 go  down  first,  then  I’ll  follow.”  The  other  guests  were
 all  ordered  away,  and  the  old  hag  fastened  the  door
 with  the  shoulder-blade.  One  of  the  brothers  now
-hooked  his  arm  into  that  of  the  giant.  Unable  to  van-
-quish him,  however,  he  was  soon  obliged  to  give  in  to
+hooked  his  arm  into  that  of  the  giant.  Unable  to  vanquish him,  however,  he  was  soon  obliged  to  give  in  to
 the  strong  man,  who,  catching  hold  of  his  lower  parts,
 fell  over  him,  and,  with  a deep  groan,  he  was  crushed  to
 death.  The  giant  next  called  out  for  a rope,  and  this
-being  immediately  let  down  through  the  ceiling,  he  fast-
-ened it  round  the  dead  man’s  body,  and  had  him  hoisted
+being  immediately  let  down  through  the  ceiling,  he  fastened it  round  the  dead  man’s  body,  and  had  him  hoisted
 up  to  the  roof  of  the  house,  where  a sound  of  knives
 was  presently  heard,  and  whence  one  cried  out,  “ Here
-is  his  eye  ; let  it  be  kept  for  our  master.”  Tiggak  mean-
-while thought,  “In  this  manner  I shall  soon  lose  all  my
+is  his  eye  ; let  it  be  kept  for  our  master.”  Tiggak  meanwhile thought,  “In  this  manner  I shall  soon  lose  all  my
 brothers-in-law ; ” and  therefore  he  whispered  to  him
 who  was  going  to  stand  forward,  “Just  let  me  take  a
-turn  with  him  ! ” They  now  hooked  their  arms  toge-
-ther, and  the  giant,  taking  a pull  in  good  earnest,  nearly
+turn  with  him  ! ” They  now  hooked  their  arms  together, and  the  giant,  taking  a pull  in  good  earnest,  nearly
 succeeded  in  hauling  Tiggak’s  arm  across  to  him.  For-
 
 1 Poles  for  supporting  the  boat  during  the  winter.
 
 
-1 66  TALES  AND  TRADITIONS.
-
-tunately,  however,  he  stopped  him.  Then  pausing  a min-
-ute, he  feigned  to  have  been  overcome  by  his  adversary,
+tunately,  however,  he  stopped  him.  Then  pausing  a minute, he  feigned  to  have  been  overcome  by  his  adversary,
 but  suddenly  threw  him  down,  and  leapt  upon  him.
-The  brothers  now  came  to  his  aid,  and  assisted  in  put-
-ting him  to  death  in  the  same  way  as  he  had  treated
+The  brothers  now  came  to  his  aid,  and  assisted  in  putting him  to  death  in  the  same  way  as  he  had  treated
 their  brother.  Imitating  the  voice  of  the  other,  Tiggak
-now  called  out,  “ A rope,  a rope  ! ” which  instantly  ap-
-peared, and  was  made  fast  round  the  neck  of  the  giant;
+now  called  out,  “ A rope,  a rope  ! ” which  instantly  appeared, and  was  made  fast  round  the  neck  of  the  giant;
 and  again  he  cried,  “ Haul  away ! ” Once  more  the
 sound  of  knives  was  heard  ; but  after  a while  all  was
 silent,  and  at  last  one  cried  out,  “ Are  we  not  flensing
 our  own  master  ? We’ll  make  them  perish  down  below!”
 And  presently  they  commenced  pouring  water  down
 upon  them.  They  tried  to  leave  the  house,  but  found
-no  means  of  escape.  Suddenly,  however,  Tiggak  re-
-membered that  his  amulet  was  sowed  up  in  the  lining
+no  means  of  escape.  Suddenly,  however,  Tiggak  remembered that  his  amulet  was  sowed  up  in  the  lining
 of  his  outer  jacket,  which  he  had  left  on  the  boat-pillars
 on  their  arrival,  and  he  called  out,  “ Bring  me  my  coat
 that  lies  outside  ; I want  it  for  a shroud  ! ” Contrary
@@ -8203,26 +6914,17 @@ to  his  anticipations,  it  was  instantly  thrown  down,  and
 catching  hold  of  it,  he  loosened  something  from  within
 the  fur-lining,  and  there  was  his  amulet  all  right.  He
 put  it  into  his  mouth,  and,  after  saying  “ Revenge  us  ! ”
-he  again  took  it  out.  Already  they  heard  voices  out-
-side crying,  “He  is  falling! — and  he  too! — and  there
-is  another  one  ! ” and  so  on  ; and  after  a while  the  amu-
-let returned,  covered  with  blood.  Having  well  wiped
+he  again  took  it  out.  Already  they  heard  voices  outside crying,  “He  is  falling! — and  he  too! — and  there
+is  another  one  ! ” and  so  on  ; and  after  a while  the  amulet returned,  covered  with  blood.  Having  well  wiped
 and  cleaned  it,  the  owner  again  threw  it  out  and  cried,
 “ All  of  them  ! ” When  the  amulet  next  time  returned
-no  sound  was  heard  outside.  They  now  pushed  for-
-ward, and  from  a corner  of  the  ledge  they  found  their
+no  sound  was  heard  outside.  They  now  pushed  forward, and  from  a corner  of  the  ledge  they  found  their
 way  out.  Not  seeing  any  person  alive,  they  went  back
 to  the  house  where  they  had  been  first  received,  and
 again  set  to  work  at  their  meal.  But  the  silly-looking
 youth  again  appeared  in  the  entry,  and  said,  “ I’ll  tell
 you  what — Apiak  is  now  doing  her  very  worst : she  is
 cooking  the  brains,  hands,  and  feet  of  her  son.”  Tiggak,
-
-
-TALES  AND  TRADITIONS.
-
-
-167
 
 
 however,  could  not  understand  him.  The  youth  returned
@@ -8245,26 +6947,20 @@ thine  eyes  again,  and  sit  down  beside  the  lamp.  She
 will  then  turn  her  gaze  upon  thee,  and  thou  wilt  still
 remain  unchanged  ; and  when  she  takes  the  dish  and
 turns  it  round,  the  contents  of  it  will  be  all  restored,  and
-thou  shalt  say  to  her,  ‘Now,  please,  eat  something  thy-
-self, as  I have  done.’  While  she  is  eating,  with  her  looks
+thou  shalt  say  to  her,  ‘Now,  please,  eat  something  thyself, as  I have  done.’  While  she  is  eating,  with  her  looks
 turned  upon  thee,  just  see  what  becomes  of  her!”
-When  the  brother-in-law  had  thus  spoken,  the  squint-
-ing youth  again  appeared,  saying,  “ The  foreigner  is  in-
+When  the  brother-in-law  had  thus  spoken,  the  squinting youth  again  appeared,  saying,  “ The  foreigner  is  in-
 vited to  follow  me!”  Tiggak  walked  up  to  the  house
 of  the  old  hag,  and  acted  exactly  as  he  had  been  told  ;
 and  having  eaten,  the  wicked  old  woman  turned  raving
-mad  and  died.  Tiggak  now  .returned  to  his  brothers-in-
-law,  saying,  “ I have  killed  the  old  hag,  but  they  will
+mad  and  died.  Tiggak  now  .returned  to  his  brothers-inlaw,  saying,  “ I have  killed  the  old  hag,  but  they  will
 go  on  in  this  manner  if  we  stay  here ; so  we  had  better
 leave  the  place  altogether  and  make  for  our  home  again.”
 They  again  crossed  the  isthmus,  and  saw  a snow-covered
-hill  sloping  down  to  the  water’s  side.  There  they  stop-
-ped, and  Tiggak  asked  the  eldest  brother,  “ What  kind
+hill  sloping  down  to  the  water’s  side.  There  they  stopped, and  Tiggak  asked  the  eldest  brother,  “ What  kind
 of  amulet  didst  thou  take  when  thou  hadst  to  make  thy
 choice?”  He  answered,  “A  small  piece  of  bear-skin.”
 
-
-1 68  TALES  AND  TRADITIONS.
 
 Tiggak  said,  “ That  is  first-rate.”  He  then  asked  the
 second  one ; and  he  had  the  same  amulet,  and  so  had  all
@@ -8281,12 +6977,10 @@ said,  “ When  I was  able  to  judge  for  myself,  I got
 a snow  - bunting1  for  my  amulet;”  at  which  Tiggak
 became  silent,  and  shook  his  head.  After  a while
 he  remarked,  “And  yet  it  may  do;  thou  must  perch
-down  on  us;”  and  Tiggak  let  himself  slide  down-
-hill, right  down  into  the  sea,  where  he  disappeared,  and
+down  on  us;”  and  Tiggak  let  himself  slide  downhill, right  down  into  the  sea,  where  he  disappeared,  and
 again  reappeared  in  the  shape  of  a bear.  He  shook  the
 water  from  his  ears,  and  turned  to  the  others,  saying,
-“ Now  follow  me  all  of  you  ;”  and  they  were  all  trans-
-formed into  bears.  When  the  son’s  turn  came,  he  had
+“ Now  follow  me  all  of  you  ;”  and  they  were  all  transformed into  bears.  When  the  son’s  turn  came,  he  had
 not  the  courage.  However,  when  the  others  had  long
 besought  him  to  follow  them,  he  went  gliding  slowly
 down  ; and  when  he  reached  the  margin  of  the  water,
@@ -8297,18 +6991,11 @@ between  their  ears.  At  length  they  landed  a little  to
 the  north  of  their  old  homestead  ; and  when  they  first
 climbed  up  the  shore,  Tiggak  shook  himself  well,  and
 his  bear-skin  glided  off.  The  rest  all  did  the  same.
-When  the  son’s  turn  had  come,  he  shook  off  the  snow-
-bunting’s skin ; and  thus  all  of  them  marched  home,
+When  the  son’s  turn  had  come,  he  shook  off  the  snowbunting’s skin ; and  thus  all  of  them  marched  home,
 except  the  one  who  had  been  killed.
 
 
 1 E tuber iza  nivalis.
-
-
-TALES  AND  TRADITIONS.
-
-
-169
 
 
 17.
@@ -8330,8 +7017,7 @@ him  on  foot,  going  along  the  beach  ; and  returning  as
 soon  as  they  saw  him  put  back,  they  reached  home  at
 the  same  time.  One  day  when  the  sea  was  all  covered
 with  ice  the  sisters  went  away  to  the  outermost  islets,
-to  gather  some  roots.  Suddenly  an  eastern  gale  over-
-took them  ; the  ice  broke  up,  and  they  were  taken  far
+to  gather  some  roots.  Suddenly  an  eastern  gale  overtook them  ; the  ice  broke  up,  and  they  were  taken  far
 out  to  sea  in  very  bad  weather.  After  a while  the  sky
 became  clear,  and  they  came  in  sight  of  some  high  land.
 They  drifted  on  towards  it  and  landed  safely,  but  almost
@@ -8342,36 +7028,26 @@ They  now  wandered  across  the  country,  and  arrived  at
 a little  bay  into  which  a river  emptied  itself,  and  the
 eldest  said,  “ There  will  be  salmon  yonder,  I warrant,  or
 there  would  not  be  so  many  gulls  about.  Let  us  go  and
-have  a look  at  the  place.”  Coming  down  to  the  river-
-side they  found  it  abounding  in  salmon  ; and  having
+have  a look  at  the  place.”  Coming  down  to  the  riverside they  found  it  abounding  in  salmon  ; and  having
 instantly  caught  one,  they  made  a fire  by  rubbing  pieces
 of  wood  together,  and  put  the  fish  on  a slab  to  fry  it :
 but  though  they  only  ate  half  of  the  tail-piece,  both
 were  quite  satisfied.  It  was  now  getting  low  tide,  and
 
 
-TALES  AND  TRADITIONS.
-
-
-170
-
 they  saw  the  beach  turning  quite  dry,  and  all  along  the
-coast  there  were  numbers  of  spotted  seals  ( Phoca  vitu-
-lind),  and  various  other  kinds  besides,  of  which  they
+coast  there  were  numbers  of  spotted  seals  ( Phoca  vitulind),  and  various  other  kinds  besides,  of  which  they
 killed  as  many  as  they  required  with  big  stones.  Having
-taken  up  their  abode  in  this  place,  they  one  day  ob-
-served two  kayakers,  who  were  out  hunting  for  spotted
+taken  up  their  abode  in  this  place,  they  one  day  observed two  kayakers,  who  were  out  hunting  for  spotted
 seals.  On  seeing  the  girls  they  were  heard  to  exclaim,
 “ Well,  he  who  gets  ashore  first  shall  marry  the  prettiest
-of  the  two  ; ” upon  which  they  both  took  to  their  pad-
-dles, and  he  who  first  reached  the  shore  touched  the
+of  the  two  ; ” upon  which  they  both  took  to  their  paddles, and  he  who  first  reached  the  shore  touched  the
 elder  sister,  the  other  one  taking  the  younger  ; and  quite
 forgetting  their  hunt,  they  hastened  home  to  fetch  a
 boat.  Before  long  they  returned  with  a good  crew,  got
 the  girls  into  the  boat,  and  brought  them  to  their  house,
 where  they  lived  as  happy  as  could  be  for  some  time.
-After  a while  each  of  them  had  a daughter ; but  subse-
-quently the  eldest  one  noticed  that  her  sister  had  quite
+After  a while  each  of  them  had  a daughter ; but  subsequently the  eldest  one  noticed  that  her  sister  had  quite
 lost  her  spirits.  One  day,  when  the  two  happened  to  be
 all  by  themselves,  she  asked  her  why  she  was  always
 sobbing  and  crying ; and  the  sister  answered  that  her
@@ -8385,19 +7061,13 @@ clothes,  and  put  them  by  in  their  bags,  which  had  been
 concealed  beneath  the  boat  outside  about  the  same  time
 that  the  ice  covered  the  sea.  The  seal-hunting  ceased  ;
 and  the  men  having  nothing  else  to  do,  went  out  visiting
-at  a large  house  close  by,  where  they  amused  them-
-selves with  dancing.  The  elder  sister  now  proposed
+at  a large  house  close  by,  where  they  amused  themselves with  dancing.  The  elder  sister  now  proposed
 that  they  should  try  to  make  their  escape  at  a time
 when  the  men  had  gone  away  to  their  dancing ; and
 they  only  waited  a convenient  opportunity.  One  night
 when  there  was  to  be  a dance,  and  all  the  other  women
 had  gone  to  look  on,  so  that  nobody  was  to  be  seen
 
-
-TALES  AND  TRADITIONS.
-
-
-171
 
 outside,  the  sisters  first  walked  up  and  down  outside
 the  house,  lulling  their  children  to  sleep.  That  they
@@ -8422,12 +7092,10 @@ They  then  set  forth  and  continued  their  journey;  but
 on  the  way  they  suffered  their  babies  to  freeze  to  death,
 and  having  put  them  down  on  the  snow,  left  them  there.
 Some  time  afterwards  they  reached  land  and  recognised
-the  place  where  they  had  formerly  had  their  winter-
-station.  They  proceeded  a little  further,  and  behold  !
+the  place  where  they  had  formerly  had  their  winterstation.  They  proceeded  a little  further,  and  behold  !
 there  was  their  own  little  house,  just  as  they  had  left  it.
 Malaise  was  very  much  astonished  to  see  his  sisters
-entering,  and  immediately  questioned  them  about  Aki-
-linek  and  the  hunting  in  those  parts,  but  he  could  not
+entering,  and  immediately  questioned  them  about  Akilinek  and  the  hunting  in  those  parts,  but  he  could  not
 make  them  tell  anything.  After  the  return  of  his  sisters,
 Malaise  displayed  great  energy  in  fishing  and  hunting.
 When  the  days  were  beginning  to  lengthen,  he  one
@@ -8437,12 +7105,6 @@ fine  day  to  go  out  kayaking  ; ” upon  which  the  sisters
 
 1 Cor.  sp.  amaut,  hood  on  the  back  of  a woman’s  jacket  to  carry  the
 child  in.
-
-
-172
-
-
-TALES  AND  TRADITIONS.
 
 
 turned  to  him,  saying,  “ Though  almost  nothing  is  to
@@ -8455,8 +7117,7 @@ day  they  began  telling  him  all  he  wished  ; and  even  in
 fine  weather  Malaise  did  not  stir  out.  Once  when  they
 had  been  telling  him  of  the  many  seals  they  had  found
 on  the  dry  beach,  he  could  not  forbear  saying,  “ I really
-must  try  Akilinek — in  spring  when  the  saddleback-
-seals1  appear.  I will  give  my  women’s  boat  a threefold
+must  try  Akilinek — in  spring  when  the  saddlebackseals1  appear.  I will  give  my  women’s  boat  a threefold
 covering.  Then  his  wife  began  crying,  being  of  a very
 timid  disposition  ; but  Malaise  only  laughed  at  her.  As
 soon  as  the  seals  appeared,  he  caught  as  many  of  them
@@ -8468,8 +7129,7 @@ On  finding  that  not  a breath  of  wind  was  stirring,  he
 returned,  and  on  entering  the  house,  observed,  “ The
 day  is  fine  and  it  is  quite  calm  now  ; let  us  be  off  for
 xTkilinek.”  His  wife  again  cried  ; but  Malaise  laughed
-down  her  fears,  and  made  preparations  for  their  depar-
-ture. When  the  boat  was  ready,  his  wife,  still  sobbing
+down  her  fears,  and  made  preparations  for  their  departure. When  the  boat  was  ready,  his  wife,  still  sobbing
 and  crying,  was  put  into  it ; then  they  pushed  off  from
 shore,  and  heading  westward,  at  once  put  out  to  sea.
 The  sisters  had  to  row  all  by  themselves,  and  their
@@ -8485,12 +7145,6 @@ last  they  entirely  lost  sight  of  their  own  country  ; but
 of  the  large  seals.  The  skin  is  used  for  boat-covers.
 
 
-TALES  AND  TRADITIONS.
-
-
-173
-
-
 Malaise  thought  they  were  very  slow  in  getting  on,  and
 he  cut  the  outer  covering  away  because  it  had  grown
 too  wet.  Before  they  had  sighted  any  land,  he  likewise
@@ -8501,13 +7155,11 @@ hearing  this  his  wife  also  got  up  and  stuck  to  the  oars
 bravely.  They  soon  came  close  to  this  land,  and  the
 sisters  recognised  the  bay  in  which  they  had  first  landed,
 and  at  the  same  time  observed  their  former  husbands,  who
-were  now  coming  on  to  attack  them.  Before  their  depar-
-ture, however,  Malaise  had  been  out  to  the  grave  of  some
+were  now  coming  on  to  attack  them.  Before  their  departure, however,  Malaise  had  been  out  to  the  grave  of  some
 relative  in  search  of  a pair  of  reindeer-skin  stockings,
 which  he  had  brought  away  with  him.  He  now  took  a
 drinking-vessel,  which  he  filled  with  water,  and  having
-poured  some  dust  mingled  with  the  hairs  of  the  stock-
-ings into  it,  he  put  the  tub  down  on  an  adjacent  rock,
+poured  some  dust  mingled  with  the  hairs  of  the  stockings into  it,  he  put  the  tub  down  on  an  adjacent  rock,
 where  their  adversaries  were  obliged  to  pass  by.  When
 the  eldest  came  up  to  it,  he  took  a drink  of  water,  but
 was  at  once  transformed  into  a reindeer,  which  was  shot
@@ -8523,28 +7175,19 @@ his  former  home,  where  he  stayed  content  until  his
 death.
 
 
-174
-
-
-TALES  AND  TRADITIONS.
-
-
 18.
 
 
 NAVARANAK  OR  JAVRAGANAK.
 
 
-[This  apparently  historical  tradition  has  been  given  in  two  separate  narra-
-tives, the  original  copies  not  agreeing  sufficiently  to  admit  of  their
+[This  apparently  historical  tradition  has  been  given  in  two  separate  narratives, the  original  copies  not  agreeing  sufficiently  to  admit  of  their
 being  combined  into  one,  although  they  have  evidently  sprung  from
-the  same  source.  Tire  variants  of  this  tale  exemplify  in  a very  re-
-markable manner  how  the  narrators  have  practised  their  habit  of
+the  same  source.  Tire  variants  of  this  tale  exemplify  in  a very  remarkable manner  how  the  narrators  have  practised  their  habit  of
 localising  events.  The  first  copy  is  one  from  North  Greenland,  where  the
 inlanders  are  meant  to  represent  the  fabulous  inhabitants  of  the  interior
 of  Greenland  ; the  second  is  one  from  Labrador,  in  which  the  native
-Indians  of  that  country  are  plainly  alluded  to  ; and  it  is  very  remark-
-able that  a third  record  of  the  same  events  has  been  received  from
+Indians  of  that  country  are  plainly  alluded  to  ; and  it  is  very  remarkable that  a third  record  of  the  same  events  has  been  received  from
 South  Greenland,  in  which  the  inlanders  are  represented  as  being
 identical  with  the  ancient  Scandinavian  settlers  in  those  parts  of  the
 country.]
@@ -8572,15 +7215,8 @@ upon  the  helpless  women  and  children.  In  their  fright
 some  of  the  mothers  killed  their  own  children,  but  one
 woman  who  was  pregnant  fled  down  beneath  the  ledge ;
 and  when  Navaranak  was  sent  back  by  the  inlanders  to
-find  her  out,  she  promised  her  all  she  possessed  not  to  be-
-tray her.  Some  also  escaped  by  hiding  themselves  among
+find  her  out,  she  promised  her  all  she  possessed  not  to  betray her.  Some  also  escaped  by  hiding  themselves  among
 the  rocks,  but  all  the  rest  were  killed.  When  the  men
-
-
-TALES  AND  TRADITIONS.
-
-
-175
 
 
 returned,  those  who  were  left  alive  ran  down  and  told
@@ -8588,16 +7224,12 @@ them  what  had  happened  ; and  on  coming  up  from  the
 beach  to  their  houses  and  beholding  all  their  dead,  the
 men  were  almost  desperate.  When  the  time  came  for
 flensing  and  cutting  up  the  whale,  Navaranak  did  not
-arrive  as  usual ; she  seemed  to  have  disappeared  alto-
-gether. When  summer  had  again  come  round,  the  men
-prepared  a great  many  arrows,  and  set  out  for  the  in-
-terior to  take  revenge  on  the  inlanders.  On  their  way
+arrive  as  usual ; she  seemed  to  have  disappeared  altogether. When  summer  had  again  come  round,  the  men
+prepared  a great  many  arrows,  and  set  out  for  the  interior to  take  revenge  on  the  inlanders.  On  their  way
 they  called  out,  as  was  their  wont,  “ Navaranak,  come
 on  ; we  have  got  matak  for  thee  ! ” but  no  one  appeared.
-Again  they  went  on  a good  distance,  and  then  repeat-
-edly called  out,  “ Navaranak,”  &c.  And  this  time  she
-answered  the  summons,  and  went  up  to  them.  On  no-
-ticing their  arrows,  she  was  about  to  take  flight.  Reas-
+Again  they  went  on  a good  distance,  and  then  repeatedly called  out,  “ Navaranak,”  &c.  And  this  time  she
+answered  the  summons,  and  went  up  to  them.  On  noticing their  arrows,  she  was  about  to  take  flight.  Reas-
 suring her,  however,  they  told  her  she  had  no  need  to
 do  that.  When  she  had  ventured  quite  close  to  them,
 they  asked  her  where  her  countrymen  were  to  be  found,
@@ -8609,10 +7241,8 @@ of  the  inlanders  were  pitched  all  around,  and  they  saw
 people  going  out  and  in.  But  they  waited  till  all  had
 entered  the  tents,  and  then  they  made  their  attack.
 Arrows  came  flying  from  both  sides  ; but  those  of  the
-inlanders  soon  grew  fewer  in  number,  and  the  coast-
-people  remained  all  unwounded.  When  they  had  done
-with  the  men,  they  went  inside,  killing  women  and  chil-
-dren ; and  having  thus  satisfied  their  revenge,  returned
+inlanders  soon  grew  fewer  in  number,  and  the  coastpeople  remained  all  unwounded.  When  they  had  done
+with  the  men,  they  went  inside,  killing  women  and  children ; and  having  thus  satisfied  their  revenge,  returned
 to  their  homes.
 
 
@@ -8621,12 +7251,6 @@ to  their  homes.
 At  Kivalek,  on  the  island  of  Okak,  there  once  lived  a
 great  many  people,  among  whom  was  an  Indian  woman
 named  Javraganak.  From  her  childhood  she  had  been
-
-
-176
-
-
-TALES  AND  TRADITIONS.
 
 
 living  with  the  coast-people,  whose  servant  she  was  ;
@@ -8665,12 +7289,6 @@ this  way  she  was  paid  back  for  what  she  had  done  to
 them.
 
 
-TALES  AND  TRADITIONS.
-
-
-177
-
-
 19.
 
 AVARUNGUAK  OR  AGDLERUT.
@@ -8688,8 +7306,7 @@ was  a man  totally  unknown  to  all  of  them.  Avarunguak
 and  when  he  came  among  people  he  married  this  girl,
 and  after  a while  learned  to  manage  a kayak,  and
 grew  an  excellent  hunter.  Once  they  had  some  visitors
-from  the  south,  and  an  old  woman  of  the  party  ac-
-costed Avarunguak  thus,  saying,  “ If  Avarunguak  were
+from  the  south,  and  an  old  woman  of  the  party  accosted Avarunguak  thus,  saying,  “ If  Avarunguak  were
 to  hear  of  the  nice  hunt,  and  the  many  auks 1 we
 have  down  in  the  south,  I am  sure  he  would  be
 wanting  to  go  there ! ” So  saying,  she  went  away ;
@@ -8702,8 +7319,7 @@ way  out  they  asked  the  people  they  encountered  whether
 the  place  was  still  far  off,  and  all  made  answer  that  it
 was  not  very  nigh  yet.  At  length  they  put  on  shore,  to
 rest  from  the  toil  of  rowing,  at  a place  where  the  people
-said  that  to-morrow  they  might  possibly  gain  their  desti-
-nation. “ When  ye  leave  here,  and  have  doubled  the
+said  that  to-morrow  they  might  possibly  gain  their  destination. “ When  ye  leave  here,  and  have  doubled  the
 cape,  ye  will  come  in  sight  of  a very  large  tent — this  ye
 must  shun  ; but  soon  afterwards  ye  will  perceive  a little
 
@@ -8712,18 +7328,10 @@ must  shun  ; but  soon  afterwards  ye  will  perceive  a little
 M
 
 
-178
-
-
-TALES  AND  TRADITIONS.
-
-
 white  point,  and  having  also  passed  this,  ye  will  fall  in
 with  a great  many  people.  To  those  ye  shall  go  up.”
-On  leaving,  they  soon  observed  the  little  white  promon-
-tory right  enough.  Avarunguak  steered  his  boat  to-
-wards the  large  tent,  unheeding  the  advice  of  his  com-
-panions. On  landing,  a huge  man  came  out  from  the
+On  leaving,  they  soon  observed  the  little  white  promontory right  enough.  Avarunguak  steered  his  boat  to-
+wards the  large  tent,  unheeding  the  advice  of  his  companions. On  landing,  a huge  man  came  out  from  the
 tent  towards  them,  and  receiving  them  very  civilly,
 went  on  saying,  “ It  is  really  a matter  of  difficulty  to  get
 any  one  to  keep  company  with  here  ; pray  stay  and  live
@@ -8733,8 +7341,7 @@ there.
 Every  morning  Avarunguak  awoke  at  an  early  hour,
 but  somehow  his  housemate  was  always  out  and  off
 before  him.  One  day  in  autumn  he  happened  to  meet
-him  on  their  look-out  hill ; and  when  the  huge  man  ob-
-served him,  he  said,  “ It  will  soon  be  the  time  when  the
+him  on  their  look-out  hill ; and  when  the  huge  man  observed him,  he  said,  “ It  will  soon  be  the  time  when  the
 auks  will  come  screaming  across  the  country  ; then  thou
 must  be  sure  to  get  up  in  good  time.”  But  rise  as
 early  as  he  might,  Avarunguak  was  never  able  to  be
@@ -8758,9 +7365,6 @@ a good  length  of  time.  Some  time  after,  his  house-fellow
 said,  “ Now  it  is  near  the  time  for  the  walrus,  but  I do
 
 
-TALES  AND  TRADITIONS.
-
-
 1/9
 
 
@@ -8773,20 +7377,16 @@ first  walrus,  his  big  companion  came  down  to  the  beach,
 took  half  of  the  walrus,  and  dragging  it  along  with  only
 one  hand,  passed  by  Avarunguak’s  tent,  and  carried  it
 off  to  his  own.  Avarunguak  wondered,  and  said  to
-himself,  “ I doubt  if  I shall  have  a taste  of  my  first  wal-
-rus ; ” and  entering,  he  saw  the  big  man  busy  eating  it
+himself,  “ I doubt  if  I shall  have  a taste  of  my  first  walrus ; ” and  entering,  he  saw  the  big  man  busy  eating  it
 all  by  himself,  his  wife  and  daughter  only  looking  on  ;
 but  he  did  not  dare  to  make  any  objections.  Next  time
 he  got  a walrus  the  big  man’s  wife  came,  and  at  once
 carried  off  his  prize,  and,  after  her,  their  three  daughters
 did  the  same  by  turns.  Not  until  they  had  all  got
 their  walrus  did  they  desist  ; and  then,  at  last,  he  could
-think  of  providing  for  the  ensuing  winter.  In  the  be-
-ginning his  huge  friend  proposed  that  they  should  come
-and  live  all  together  in  his  house  ; and  when  Avarun-
-guak consented,  the  big  man  added,  “ We  are  five
-individuals  ourselves,  and  consequently  have  five  win-
-dows. Now  I suppose  that  thou  wilt  add  as  many  as
+think  of  providing  for  the  ensuing  winter.  In  the  beginning his  huge  friend  proposed  that  they  should  come
+and  live  all  together  in  his  house  ; and  when  Avarunguak consented,  the  big  man  added,  “ We  are  five
+individuals  ourselves,  and  consequently  have  five  windows. Now  I suppose  that  thou  wilt  add  as  many  as
 ye  count  persons.”  To  this  Avarunguak  answered,
 “ Why,  we  have  never  built  any  more  than  two  or  three
 windows  for  a company  of  travellers,  with  only  one
@@ -8808,15 +7408,11 @@ five  must  have  been  very  rare.
 i8o
 
 
-TALES  AND  TRADITIONS.
-
-
 morrow.”  Avarunguak  had  a great  mind  to  accompany
 them  ; but  the  other  asked  him,  “ How  swift  mayst
 thou  be  ? ” “ Why,  I think  I can  run  a race  with  any
 
-of  the  quadrupeds.”  But  still  the  man  was  very  unwil-
-ling to  take  him  with  him,  and  only  consented  at  last
+of  the  quadrupeds.”  But  still  the  man  was  very  unwilling to  take  him  with  him,  and  only  consented  at  last
 after  much  beseeching.  The  next  day  they  departed,
 all  of  them  carrying  cords  of  sealskin  round  their  necks.
 They  crossed  the  neighbouring  mountains,  and  in  the
@@ -8835,18 +7431,15 @@ see  a huge  white  whale  rise  to  the  surface  than  he  at
 once  aimed  at  and  killed  it.  Then  the  other  party  came
 on,  each  of  them  bringing  up  two  fish  ; but  when  the
 master  saw  that  Avarunguak  had  disobeyed  his  orders,
-he  gave  him  a scolding  ; and  when  they  prepared  to  re-
-turn, they  wanted  to  tie  his  fish  to  their  own,  and  make
+he  gave  him  a scolding  ; and  when  they  prepared  to  return, they  wanted  to  tie  his  fish  to  their  own,  and  make
 him  sit  down  on  the  top  of  it,  and  thus  be  dragged
 home.  But  he  answered,  “ Since  I commenced  hunting
 I have  never  let  my  game  be  carried  home  by  any  one
 but  myself,  nor  shall  I do  so  now.  I have  caught  the
 fish  myself,  and  will  take  care  to  bring  it  home.”  They
-let  him  have  his  own  way,  but  in  a moment  they  disap-
-peared from  his  sight,  as  if  they  had  been  blown  away.
+let  him  have  his  own  way,  but  in  a moment  they  disappeared from  his  sight,  as  if  they  had  been  blown  away.
 It  was  evening,  and  again  beginning  to  dawn,  before
-he  could  even  see  his  home,  and  he  met  the  others  com-
-ing back  to  fish  anew.  It  was  not  till  the  fourth  day  he
+he  could  even  see  his  home,  and  he  met  the  others  coming back  to  fish  anew.  It  was  not  till  the  fourth  day  he
 got  home  ; and  on  the  way  he  had  been  obliged  to  eat
 all  the  matak  (skin)  of  his  dolphin.  Meanwhile  his
 
@@ -8871,8 +7464,7 @@ take  the  one  you  like  best.”  This  seemed  to  please
 them  highly,  and  they  chose  the  last  born,  and  became
 so  fond  of  it  that  they  let  it  stop  on  the  ledge  and  sleep
 at  night  beside  them.  From  this  time  Avarunguak
-himself  became  a great  favourite  with  his  other  house-
-fellows.  While  the  winter  lasted,  the  big  man  once
+himself  became  a great  favourite  with  his  other  housefellows.  While  the  winter  lasted,  the  big  man  once
 spoke  as  follows,  “ We  intend  soon  to  go  and  visit  our
 enemies.”  Avarunguak  was  very  desirous  to  join  the
 party,  but  his  house-master  answered  him,  “ No,  friend;
@@ -8892,38 +7484,30 @@ fish,  and  thou  must  thrust  thy  knife  right  into  it,  turn
 it  round,  and  put  the  piece  thou  has  cut  out  into  thy
 
 
-1 8:2  TALES  AND  TRADITIONS.
-
 mouth,  and  suddenly  exclaim,  ‘ I must  go  outside,  but
 I will  be  back  in  a moment,  and  go  on  eating  ; I enjoy
 it  very  much.’  But  when  outside  take  to  thy  heels,  and
 run  for  home  as  fast  as  possible,  and  before  thou  hast
-been  off  long,  we  shall  empty  the  lamps,  and  soon  over-
-take thee.”  Some  time  after,  they  carried  out  their
+been  off  long,  we  shall  empty  the  lamps,  and  soon  overtake thee.”  Some  time  after,  they  carried  out  their
 intention  of  visiting  their  enemies  in  their  place  of
 abode.  They  at  once  set  about  licking  the  oil  of  the
 lamps,  beginning  with  the  first,  Avarunguak  joining
 them  to  the  best  of  his  ability.  When  the  hosts  saw  a
 stranger  among  their  visitors,  they  regarded  him  keenly,
-so  that  the  huge  man  interposed  : “ That  is  a new  house-
-mate of  ours  ; he  is  living  with  us  at  present,  and  assists
-us  every  way,” — and  they  went  on  praising  and  flatter-
-ing him  very  much,  and  making  a great  deal  of  his  dex-
+so  that  the  huge  man  interposed  : “ That  is  a new  housemate of  ours  ; he  is  living  with  us  at  present,  and  assists
+us  every  way,” — and  they  went  on  praising  and  flattering him  very  much,  and  making  a great  deal  of  his  dex-
 terity and  strength,  adding  that  he  was  more  than  a
 match  for  them  every  way.  This  was  anything  but  the
 truth  ; but  they  dared  not  do  otherwise,  for  fear  of  their
 enemies.  The  host  now  said,  “ Bring  in  the  meal  for
-the  visitors,”  and  the  women  instantly  went  out,  and  re-
-turned, bringing  in  large  white  fish.  The  guests  soon
+the  visitors,”  and  the  women  instantly  went  out,  and  returned, bringing  in  large  white  fish.  The  guests  soon
 fell  to  ; but  Avarunguak  forgot  he  had  been  advised  to
 leave  off  in  good  time,  and  never  remembered  till  he
 was  quite  satisfied.  He  then  observed  his  companions
 making  signs  to  him,  and  quickly  pronouncing  the
-words  he  had  been  told,  took  himself  off,  and  com-
-menced running  as  fast  as  possible.  On  coming  near
+words  he  had  been  told,  took  himself  off,  and  commenced running  as  fast  as  possible.  On  coming  near
 their  own  house  he  turned  round,  and  looking  back,  he
-saw  that  the  creatures  he  had  been  visiting  were  trans-
-formed into  bears,  pursuing  him  closely  ; but  his  own
+saw  that  the  creatures  he  had  been  visiting  were  transformed into  bears,  pursuing  him  closely  ; but  his  own
 housemates  soon  overtook  him,  and  the  daughters  again
 took  him  by  the  arms  to  speed  him  on.  When  they
 had  almost  reached  the  house,  the  enemies  seemed  at
@@ -8933,20 +7517,12 @@ bears  instantly  gathered  round  him.  But  he  chanced  to
 have  a salmon  for  his  amulet,  and  this  did  him  good
 
 
-TALES  AND  TRADITIONS.
-
-
-183
-
-
 service  in  making  him  too  slippery  to  be  caught  hold  of,
-and  thus  he  escaped.  When  spring  came  round,  Avar-
-unguak  took  a fancy  to  remove  to  another  place ; and
+and  thus  he  escaped.  When  spring  came  round,  Avarunguak  took  a fancy  to  remove  to  another  place ; and
 on  departing,  his  huge  companion  said  to  him,  “ I hope
 thou  wilt  soon  return  and  stay  with  us ; but  wherever
 thou  goest,  mind  to  tell  the  people  never  to  kill  a bear
-when  one  appears.”  Thus  they  departed  ; but  on  turn-
-ing round,  they  now  saw  that  their  housemates  too  had
+when  one  appears.”  Thus  they  departed  ; but  on  turning round,  they  now  saw  that  their  housemates  too  had
 been  transformed  into  bears : they  had  been  wintering
 among  bears  in  human  shape.  Later  on  they  heard
 that  some  people  in  the  south  had  killed  a bear,  and
@@ -8979,20 +7555,13 @@ of  elves  or  gnomes,  supposed  to  have  their  abodes  within  rocks  along 
 sea-shore.
 
 
-184
-
-
-TALES  AND  TRADITIONS.
-
-
 then  look  out  if  there  be  any  one  to  help  him  ! ” But
 he  set  off  without  deigning  to  answer  them,  and  landed
 at  one  of  the  outermost  islets.  There  they  built  their
 house,  and  put  up  for  the  winter.  One  morning  the  old
 man  awoke,  saying,  “ I wonder  what  I have  just  been
 seeing  ? Methinks  I saw  a man  gliding  through  the
-doorway.”  He  questioned  his  daughter  ; but  she  keep-
-ing silence,  he  got  suspicious.  When  he  awoke  the  next
+doorway.”  He  questioned  his  daughter  ; but  she  keeping silence,  he  got  suspicious.  When  he  awoke  the  next
 morning,  he  saw  a real  man  slip  out  of  the  doorway  ;
 and  on  being  closely  questioned,  the  daughter  confessed
 that  she  was  married  to  an  atliarusek.  On  hearing  this,
@@ -9009,8 +7578,7 @@ father  was  very  well  pleased,  and  leaned  back  on  his
 couch  ; but  listening  again,  and  peeping  out,  the  man
 was  not  to  be  seen.  Towards  evening  the  daughter
 several  times  left  the  room.  At  last  she  stayed  away
-rather  long,  but  after  some  time  returned  with  a hunt-
-ing-line, which  she  hung  up  on  a nail  to  dry,  saying  that
+rather  long,  but  after  some  time  returned  with  a hunting-line, which  she  hung  up  on  a nail  to  dry,  saying  that
 he  had  returned  and  brought  home  the  produce  of  his
 hunt,  but  that  he  must  take  some  part  of  it  to  his
 relatives.  When  her  parents  went  outside,  they  saw
@@ -9022,9 +7590,6 @@ old  man  again  lay  down,  believing  him  to  be  asleep.
 I11  a little  while,  however,  he  heard  something  stirring,
 at  which  he  arose  ; but  the  son-in-law  had  already  taken
 himself  off.  He  again  spoke  to  his  daughter,  saying,
-
-
-TALES  AND  TRADITIONS.
 
 
 IS5
@@ -9046,8 +7611,7 @@ and  when  it  was  ready  loaded,  and  they  were  going  to
 set  off",  another  boat  appeared,  coming  straight  out  of
 the  beach.  Both  went  along  together,  and  made  the
 land  at  the  same  time  in  the  evening.  Next  morning
-they  again  started  ; and  when  they  approached  an  in-
-habited place,  the  head-man  of  the  atliaruseks  told  them
+they  again  started  ; and  when  they  approached  an  inhabited place,  the  head-man  of  the  atliaruseks  told  them
 always  to  keep  close  in  their  wake  ; and  all  of  a sudden
 they  saw  his  boat  sink  beneath  the  surface,  and  totally
 disappear.  At  this  sight  the  old  man  got  rather
@@ -9072,9 +7636,6 @@ loaded  his  kayak  with  matak,  and  brought  it  to
 1 86
 
 
-TALES  AND  TRADITIONS.
-
-
 them.  On  his  arrival,  they  asked  him  whence  he  had
 got  it — whether  it  was  not  taken  from  the  carcass  of
 a whale  that  had  been  driven  on  shore  accidentally.
@@ -9082,19 +7643,16 @@ However,  he  left  them  without  deigning  them  an  answer
 to  this  question  ; and  talking  over  this  matter  on  his
 return  home,  the  son-in-law  exclaimed,  “ I should  really
 like  to  have  a look  at  these  people  ; ” whereat  the  old
-man  went  back  to  fetch  off  all  the  men  who  had  for-
-merly been  his  daughter’s  suitors,  and  returned  with  a
+man  went  back  to  fetch  off  all  the  men  who  had  formerly been  his  daughter’s  suitors,  and  returned  with  a
 large  train  of  kayaks  following  him.  They  landed,  and
-were  very  hospitably  received, 'and  regaled  with  reindeer-
-meat  and  seal-flesh  ; and  when  they  had  satisfied  their
+were  very  hospitably  received, 'and  regaled  with  reindeermeat  and  seal-flesh  ; and  when  they  had  satisfied  their
 appetite,  the  old  man  accosted  them  thus  : “ I wonder
 if  ye  can  still  remember  what  ye  were  telling  me  a long
 time  ago  when  ye  had  nearly  killed  me,  wanting  by
 main  force  my  daughter  for  your  wife  ? Your  words
 were  these  : ‘Thou  wilt  surely  never  get  a clever  husband
 for  thy  daughter.’  But  you  see  I have,  for  all  that.
-Likewise  ye  said  that  ye  would  deny  me  your  assist-
-ance if  ever  I came  in  want : now  help  yourself,  if  ye
+Likewise  ye  said  that  ye  would  deny  me  your  assistance if  ever  I came  in  want : now  help  yourself,  if  ye
 please,  and  eat  as  much  as  ever  ye  like.”
 
 
@@ -9114,8 +7672,6 @@ daughter’s  manners ; and  one  day  it  happened  that
 she  went  out  by  herself,  and  stayed  away  for  good.
 The  brothers  sought  her  far  and  wide  ; but  at  last  they
 
-
-TALES  AND  TRADITIONS.  1 87
 
 gave  it  up,  and  again  took  to  kayaking  and  hunting,
 and  now  lived  alone  with  their  mother.  But  one  day,
@@ -9138,16 +7694,14 @@ large  reptile,  which  she  allowed  to  bite  her  lips  so  as  to
 make  them  bleed  ; and  having  caressed  it  in  a motherly
 way,  she  let  it  suck  at  her  breast.  Then  having  replaced
 it  in  her  amowt,  she  asked  her  mother  to  look  up  again,
-upon  which  the  latter  asked  her,  “ Where  is  thy  dwell-
-ing-place, child  ? ” “ My  house  lies  far  from  here,  in  a
+upon  which  the  latter  asked  her,  “ Where  is  thy  dwelling-place, child  ? ” “ My  house  lies  far  from  here,  in  a
 
 very  large  valley  ; but  my  husband  is  not  of  human
 race:  so  none  of  you  must  ever  think  of  coming  to  see
 me,”  she  added,  and  left.  In  the  evening,  when  the
 sons  returned,  the  mother  told  them  what  had  happened,
 saying,  “ I have  seen  your  sister,  but  in  a very  low  and
-contemptible  state.  Only  think  ! she  carried  a vile  rep-
-tile in  her  amowt,  and  was  also  married  to  such  a one  ! ”
+contemptible  state.  Only  think  ! she  carried  a vile  reptile in  her  amowt,  and  was  also  married  to  such  a one  ! ”
 The  brothers  got  into  a great  rage  on  hearing  this,  and
 at  once  prepared  their  bows  and  arrows  to  attack  the
 vermin.  Starting  together,  they  took  the  direction  which
@@ -9158,9 +7712,6 @@ window,  and  there  saw  their  sister  comfortably  seated
 
 
 1 88
-
-
-TALES  AND  TRADITIONS.
 
 
 in  a snug  and  well-furnished  room.  They  entered  at
@@ -9188,22 +7739,14 @@ as  all  her  things,  and  some  dried  reindeer.  And  now
 the  sister  was  once  more  with  her  parents  ; and  they
 warned  her  to  leave  off  her  former  bad  habits.  After  a
 little,  however,  her  manner  towards  them  again  suddenly
-changed  ; and  they  perceived  that  she  was  always  carry-
-ing something  about  in  her  hand.  This  appeared  to  be
+changed  ; and  they  perceived  that  she  was  always  carrying something  about  in  her  hand.  This  appeared  to  be
 a small  worm  or  reptile,  with  black  streaks  round  its
 body.  Every  day  it  grew  in  size,  so  that  before  long
-both  sides  appeared  out  of  her  hand  ; and  now  she  dis-
-appeared a second  time.  The  brothers  again  went  in
+both  sides  appeared  out  of  her  hand  ; and  now  she  disappeared a second  time.  The  brothers  again  went  in
 search  of  her,  this  time  taking  their  mother  along  with
 them  ; but  she  soon  died  on  her  way ; and  one  brother
 had  his  leg  broken : and  henceforth  they  gave  up  all
 hope  of  ever  finding  their  sister.
-
-
-TALES  AND  TRADITIONS.
-
-
-189
 
 
 22.
@@ -9225,12 +7768,10 @@ and  in  spring  - time,  when  Angutisugsuk’s  family  left
 their  winter  - quarters,  and  were  away  on  some  long
 excursion,  they  visited  the  place  in  their  kayaks,  entered
 the  empty  house,  and  practised  all  manner  of  sorcery
-and  witchcraft  upon  the  wall  adjoining  the  ledge  occu-
-pied by  Angutisugsuk’s  wife,  in  order  to  produce  discord
+and  witchcraft  upon  the  wall  adjoining  the  ledge  occupied by  Angutisugsuk’s  wife,  in  order  to  produce  discord
 among  the  family  when  they  came  back  from  their
 travels.  In  autumn  they  all  returned  to  the  old  house
-as  usual.  One  day  Angutisugsuk  did  not  go  out  kayak-
-ing, but  stayed  at  home  to  make  a wooden  plate  and
+as  usual.  One  day  Angutisugsuk  did  not  go  out  kayaking, but  stayed  at  home  to  make  a wooden  plate  and
 spoon.  At  that  time  he  had  got  two  wives,  both  of
 whom  were  very  clever  at  needle-work  ; and  he  offered
 to  give  her  who  would  mend  his  fur  jacket  for  him  the
@@ -9243,11 +7784,8 @@ got  into  a passion.  Perceiving  this,  the  husband  struck
 her,  because  of  her  having  borne  him  no  children.  At
 
 
-190  TALES  AND  TRADITIONS.
-
 this  his  youngest  son  began  crying ; and  seeing  it,  the
-child’s  uncle  fell  upon  the  father,  who  was  still  ill-treat-
-ing his  second  wife.  In  this  fight  Angutisugsuk  thrust
+child’s  uncle  fell  upon  the  father,  who  was  still  ill-treating his  second  wife.  In  this  fight  Angutisugsuk  thrust
 his  brother  against  the  door-sill  with  such  force  that  his
 thigh-bone  was  bruised  ; and  he  would  have  followed  up
 his  advantage  over  him  but  for  the  younger  brother  and
@@ -9263,8 +7801,7 @@ and  only  took  the  second  one  along  with  him.  Seeing
 that  his  brother  was  now  able  to  stir,  he  resolved  to
 kill  him,  and  repeatedly  returned  to  despatch  him  ; but
 somehow  he  always  found  his  younger  brother  or  his
-nephew  by  his  side,  and  never  succeeded  in  accom-
-plishing his  end.  These  two  watched  the  sick  man  by
+nephew  by  his  side,  and  never  succeeded  in  accomplishing his  end.  These  two  watched  the  sick  man  by
 turns  ; and  only  one  at  a time  went  out  in  his  kayak.
 Angutisugsuk  one  day  encountered  his  nephew  at  sea,
 and  resolved  to  pursue  him ; but  as  soon  as  they  came
@@ -9282,9 +7819,6 @@ them,  saying,  “ Let  us  agree  to  kill  Angutisugsuk.  Every
 day  he  comes  this  way  intending  to  take  my  life  ; but
 as  soon  as  he  sees  anybody  staying  with'  me,  he  desists
 and  turns  back.”  All  the  men  prepared  to  pass  the
-
-
-TALES  AND  TRADITIONS.
 
 
 I9I
@@ -9306,8 +7840,7 @@ doubt  of  their  success.  Having  got  out  on  the  beach,
 he  only  drew  his  kayak  half-way  out  of  the  water,  and
 went  straight  up  to  the  house  as  if  to  enter  it  at  once  ;
 but  bethinking  himself  of  something,  turned  back  to  the
-large  boat  to  get  hold  of  a flensing-knife,  and  then  pro-
-ceeded to  the  entry.  The  men  were  all  reclining  on  the
+large  boat  to  get  hold  of  a flensing-knife,  and  then  proceeded to  the  entry.  The  men  were  all  reclining  on  the
 side-ledge  couches  except  two,  who  stood  posted  at  the
 inner  entrance  ready  to  seize  him.  When  he  saw  his
 brother  sitting  on  the  main  ledge,  he  addressed  him  in
@@ -9317,12 +7850,6 @@ the  following  words,  saying,  “ Here  is  a brave  man  for
 thee ! I’ll  show  thee  the  way  to  fight ! Didst  thou
 really  believe  I did  not  intend  to  kill  thee  ? ” Thus
 speaking,  he  advanced  a step  or  two,  but  was  soon  seized
-
-
-192
-
-
-TALES  AND  TRADITIONS.
 
 
 by  the  two  men,  and  quickly  disarmed.  He  was  at
@@ -9349,19 +7876,12 @@ his  second  wife,  and  kill  her  at  any  rate  ; it  was  she  who
 began  it  all.”  They  did  so  ; and  the  person  who  slew
 her  admonished  the  bystanders,  saying,  “Now  put
 together  all  her  things,  and  all  her  clothes,  all  her
-jackets  of  reindeer-skin,  her  breeches  and  boots  of  seal-
-skin— get  them  all  together,  and  carry  them  along  with
+jackets  of  reindeer-skin,  her  breeches  and  boots  of  sealskin— get  them  all  together,  and  carry  them  along  with
 her ; and  mind  you  close  up  the  burial-place  well,  and
 heap  plenty  of  stones  on  top  of  it.”  Later  on,  when
 the  invalid  recovered,  he  felt  great  remorse  for  his  act  of
 violence ; but  the  old  magician  was  quite  satisfied  that
 Angutisugsuk  should  have  been  killed  by  his  brother.
-
-
-TALES  AND  TRADITIONS.
-
-
-193
 
 
 23.
@@ -9385,30 +7905,21 @@ roaming  about  the  country  in  search  of  people,  and
 passed  an  isthmus  on  which  they  observed  a little  hut
 with  only  one  window.  Sitliarnat  then  spoke,  “ Let
 them  make  me  their  first  prize;”  and  he  went  on  and
-crossed  the  threshold  in  front  of  his  companions.  In-
-side the  house  they  only  found  an  old  couple,  who
+crossed  the  threshold  in  front  of  his  companions.  Inside the  house  they  only  found  an  old  couple,  who
 seemed  to  be  its  sole  inhabitants.  The  four  strangers
-seated  themselves  on  the  ledge ; but  finding  that  no-
-body spoke,  the  old  man  began  to  eye  them  more
+seated  themselves  on  the  ledge ; but  finding  that  nobody spoke,  the  old  man  began  to  eye  them  more
 closely,  and  having  breathed  upon  them,  asked  them,
 “Whence  do  you  come?”  Sitliarnat  answered  him,
 “ Some  time  ago  we  set  off  from  the  land  on  the  other
 side  of  the  ocean,  and  went  out  on  the  ice  to  catch  seals ;
 but  a gale  from  the  south-east  came  on,  breaking  up  the
 ice  and  drifting  us  across  to  your  country.  So  here  we
-are ; three  of  us  are  brothers,  and  the  fourth  is  a com-
-panion of  ours.”  Turning  to  his  wife  the  old  man
+are ; three  of  us  are  brothers,  and  the  fourth  is  a companion of  ours.”  Turning  to  his  wife  the  old  man
 observed,  “ After  travelling  so  far  people  are  apt  to  get
 hungry,”  upon  which  they  added  some  words  which  the
 people  did  not  understand.  The  wife  fetched  some
 
 N
-
-
-194
-
-
-TALES  AND  TRADITIONS.
 
 
 blubber  in  a pan,  put  it  on  to  boil,  and  gave  it  them
@@ -9424,15 +7935,13 @@ people  and  have  come  to  grief.”  While  he  was  thus
 speaking,  the  guests  began  to  think,  “ What  sort  of
 people  may  these  be  ? ” Meanwhile  the  visitors  stayed
 on,  and  for  some  time  the  old  man  provided  food  for
-them.  One  morning,  when  they  were  all  sitting  to-
-gether, they  heard  a voice  calling  from  without,  “ I want
+them.  One  morning,  when  they  were  all  sitting  together, they  heard  a voice  calling  from  without,  “ I want
 to  get  in;  do  let  me  get  in  ! ” whereat  the  old  man  rose
 from  his  seat  and  went  outside,  but  soon  returned
 holding  his  son  by  the  hand,  who  was  looking  very  pale
 and  haggard.  After  supper  he  lay  down  on  the  side
 ledge,  and  remained  thus  for  several  days,  until  one
-morning  when  he  rose  up  very  early.  He  had  now  re-
-covered his  health  and  strength  as  well  as  his  appetite,
+morning  when  he  rose  up  very  early.  He  had  now  recovered his  health  and  strength  as  well  as  his  appetite,
 and  had  regained  his  former  aspect  also,  and  again
 took  up  his  task  as  provider  of  the  household  ; but
 strange  to  say,  he  was  never  seen  to  carry  any  weapons.
@@ -9448,12 +7957,6 @@ time  or  other.”  One  of  the  brothers  now  put  in,  “All
 of  us  have  got  the  same  bird  for  our  amulets;”  but
 when  the  stranger  was  asked,  he  told  them  that  his  was
 a raven,  a bird  that  always  seeks  his  prey  landward  ;
-
-
-TALES  AND  TRADITIONS.
-
-
-195
 
 
 on  which  the  old  man  replied,  “ I doubt  if  thou  wilt  ever
@@ -9474,8 +7977,7 @@ longfor  your  homes;  I shall  see  you  along  myself  and
 they  now  rose  as  quickly  as  possible,  and  followed  him
 down  to  the  steep  shore,  where  they  had  landed  years
 ago.  Here  the  old  man  said,  “ Now  watch  me  ! ” Then
-taking  a run,  he  leapt  into  the  sea,  dived  down,  and  reap-
-peared in  the  shape  of  a bear,  saying,  “ If  Sitliarnat
+taking  a run,  he  leapt  into  the  sea,  dived  down,  and  reappeared in  the  shape  of  a bear,  saying,  “ If  Sitliarnat
 really  has  a gull  for  his  amulet,  it  will  soon  appear  to
 him.  Do  as  I have  done,  and  throw  thyself  into  the
 water.”  Sitliarnat,  however,  still  lingered  a little  ; but
@@ -9485,20 +7987,13 @@ on  and  took  the  leap  ; and  as  soon  as  he  had  plunged
 down,  he  again  rose  and  merely  touched  the  surface
 with  his  feet,  gliding  along  as  if  he  were  on  solid  ice,
 instead  of  being  on  the  waves  of  the  sea.  At  the  same
-time  the  gull  also  made  its  appearance,  and  a large  ice-
-berg was  seen  which  he  climbed,  both  his  brothers
+time  the  gull  also  made  its  appearance,  and  a large  iceberg was  seen  which  he  climbed,  both  his  brothers
 following  him.  The  old  man  now  turned  to  the  fourth,
 saying,  “ Thou,  too,  wouldst  like  to  return,  I know  ; now
 try  thy  wings  !”  He,  too,  plunged  into  the  sea,  trying
 to  fly,  but  went  right  down  instead,  and  would  have
 lost  breath  but  for  the  bear,  who  put  him  on  shore,
 saying,  “ No,  thou  wilt  never  get  home,  because  thou
-
-
-196
-
-
-TALES  AND  TRADITIONS.
 
 
 hast  got  a raven  for  thy  amulet ; thou  canst  return  to
@@ -9516,16 +8011,14 @@ before  them,  and  recognised  it  as  their  own.  They  had
 landed  just  a little  south  of  what  had  been  their  former
 habitation.  They  asked  the  bear  to  enter,  that  they
 might  recompense  him  in  some  way  or  other ; but  he
-said,  “No,  I don’t  care  for  being  paid — I merely  in-
-tended to  do  you  a good  turn  ; but  when  in  winter-time
+said,  “No,  I don’t  care  for  being  paid — I merely  intended to  do  you  a good  turn  ; but  when  in  winter-time
 ye  should  happen  to  see  a bear  with  a bald  head,  and
 your  companions  prepare  to  hunt  him  down,  then  try
 to  make  them  desist,  and  put  some  food  before  him.”
 After  these  words  he  plunged  into  the  sea,  and  instantly
 disappeared.  The  brothers  now  went  up  to  their  former
 house,  and  knew  it  to  be  inhabited  because  of  some
-little  boys  who  were  seen  at  play  outside.  These  chil-
-dren had  been  named  after  them  by  their  parents,  in
+little  boys  who  were  seen  at  play  outside.  These  children had  been  named  after  them  by  their  parents,  in
 remembrance  of  their  lost  friends.  Their  wives  had  all
 married  again  ; but  their  other  relatives  rejoiced  greatly
 at  receiving  those  whom  they  had  given  up  for  lost  a
@@ -9539,12 +8032,6 @@ our  relatives.”  But  the  wives,  nevertheless,  were  given
 back  to  them.  During  the  winter  the  bear  was  almost
 forgotten,  till  one  evening,  when  they  were  all  at  home,
 some  of  the  men  exclaimed,  “ A bear  is  making  for  the
-
-
-TALES  AND  TRADITIONS.
-
-
-197
 
 
 shore  ! ” When  they  were  collecting  their  arms,  the
@@ -9590,8 +8077,6 @@ was  his  wont,  had  gone  out  hunting,  the  old  people  were
 left  by  themselves,  expecting  no  visitors.  Taking  a turn
 
 
-198  TALES  AND  TRADITIONS.
-
 outside  the  tent,  they  suddenly  observed  a boat  sailing
 up  the  inlet  right  before  the  wind,  accompanied  by
 several  kayakers.  Merkisalik  was  much  pleased  at  this
@@ -9600,8 +8085,7 @@ to  let  them  have  a bite  on  landing.  He  rejoiced  to
 think  that  his  son  should  henceforth  have  companions
 on  his  hunting  excursions.  There  were  a great  number
 of  men  among  the  visitors,  some  of  whom  were  old  and
-rather  talkative  and  entertaining.  When  the  son  re-
-turned from  the  mountains,  he  was  likewise  very  glad  of
+rather  talkative  and  entertaining.  When  the  son  returned from  the  mountains,  he  was  likewise  very  glad  of
 the  company  they  had  got.  He  treated  them  with  the
 utmost  hospitality,  and  invited  them  to  partake  of  the
 meal  as  soon  as  it  was  boiled  and  ready.  Meanwhile
@@ -9610,31 +8094,21 @@ out  together  the  next  day.  They  did  so,  and  before
 long  came  in  sight  of  a number  of  animals  feeding  on
 the  grass  down  in  the  valleys.  When  the  drivers  were
 all  sent  out,  the  hunters  proceeded  to  make  walls  of
-earth,  furnished  with  loopholes.  The  visitors  now  pro-
-posed that  Merkisalik’s  son  should  be  the  last  to  shoot,
+earth,  furnished  with  loopholes.  The  visitors  now  proposed that  Merkisalik’s  son  should  be  the  last  to  shoot,
 and  he  agreed  ; but  when  the  drivers  had  surrounded
 the  animals,  and  began  to  drive  them  on  towards  the
 loopholed  walls,  the  thought  struck  him,  “What  if  they
-are  too  greedy  to  leave  me  any  chance  at  all  ? ” Mean-
-while the  others  took  aim,  and  shot  all  that  were  to  be
+are  too  greedy  to  leave  me  any  chance  at  all  ? ” Meanwhile the  others  took  aim,  and  shot  all  that  were  to  be
 got.  He  afterwards  assisted  them  in  stripping  off  the
 skins  ; but  on  their  descending  the  hills  towards  the
 tents,  he  remained  a little  behind.  When  the  strangers
-returned  they  at  once  set  their  women  to  cook  and  pre-
-pare a meal,  to  which  Merkisalik  and  his  people  were  in-
+returned  they  at  once  set  their  women  to  cook  and  prepare a meal,  to  which  Merkisalik  and  his  people  were  in-
 vited. During  supper  one  of  the  men  remarked,  “ There
 must  be  any  amount  of  animals  in  this  place,  since  even
 Merkisalik’s  son  is  capable  of  getting  at  them.”  The
-Merkisaliks  heard  this  slight  in  silence ; but  after-
-wards, when  they  got  into  their  own  tent  and  sat  down
+Merkisaliks  heard  this  slight  in  silence ; but  afterwards, when  they  got  into  their  own  tent  and  sat  down
 together,  the  father  said,  “ It  can’t  be  otherwise  ; we
 must  just  let  them  have  their  way,  seeing  that  they  are
-
-
-TALES  AND  TRADITIONS.
-
-
-199
 
 
 so  many.”  The  following  day  was  spent  in  the  same
@@ -9644,8 +8118,7 @@ as  far  away  as  possible  from  the  drivers  : but  on  their
 way  home  he  again  kept  back  a little.  Before  long,
 however,  he  rejoined  them,  and  on  their  return  home
 the  Merkisaliks  were  again  invited  to  eat  of  the  day’s
-hunt.  The  man  who  the  day  before  had  scorned  Mer-
-kisalik’s son,  now  spoke  to  him  in  a similar  fashion,  at
+hunt.  The  man  who  the  day  before  had  scorned  Merkisalik’s son,  now  spoke  to  him  in  a similar  fashion,  at
 which  he  got  into  a great  passion.  However,  they  set
 out  together  the  next  day,  and  got  to  the  entrance  of  a
 great  valley,  which  appeared  to  be  almost  overcrowded
@@ -9660,26 +8133,18 @@ warned  to  be  quiet,  that  the  animals  might  not  see  him  ;
 but  he  only  stopped  a moment,  and  then  began  to  move
 about  again.  In  the  mean  time  the  flock  was  close  by,
 when,  all  of  a sudden,  the  leader  stopped  short,  turned
-round,  and  bounded  off  as  fast  as  possible.  On  perceiv-
-ing this,  the  others  began  to  follow  him,  but  dropped
+round,  and  bounded  off  as  fast  as  possible.  On  perceiving this,  the  others  began  to  follow  him,  but  dropped
 short  one  after  another,  so  that  at  the  other  end  of  the
 valley  but  one  of  them  had  kept  up  with  him,  and  this
 one  soon  tired  out ; and  when  he  was  about  to  mount
 the  slope  he  was  left  quite  alone.  Merkisalik’s  son
-shortly  disappeared  on  the  other  side  of  the  hills/pursu-
-ing the  fast-running  animals.  Slowly  the  men  followed
+shortly  disappeared  on  the  other  side  of  the  hills/pursuing the  fast-running  animals.  Slowly  the  men  followed
 in  his  traces  : but  when  they  got  to  the  top  of  the  hill,
 they  beheld  numbers  of  deer  with  white  bellies  ready
 killed  in  the  valley  on  the  other  side  ; and  on  a stone
 close  by,  the  huntsman  was  seated,  already  quite  cool
 and  refreshed.  The  others  now  arrived,  their  faces  all
 red  with  heat  and  wrath,  and  nobody  spoke.  They  at
-
-
-200
-
-
-TALES  AND  TRADITIONS.
 
 
 once  set  to  work,  stripping  the  deer ; but  while  the
@@ -9690,8 +8155,7 @@ and  mocked  him  did  not  altogether  like  this  speech,  but
 became  quite  mute,  and  would  not  join  the  rest.  On  the
 way  home  they  separated.  Merkisalik’s  son  had  now  got
 into  his  old  ways,  and  was  in  front  of  the  rest.  Carrying
-his  burden  on  his  back,  and  now  and  then  resting  him-
-self a little,  he  got  home  first  of  all.  When  the  others
+his  burden  on  his  back,  and  now  and  then  resting  himself a little,  he  got  home  first  of  all.  When  the  others
 came  without  anything,  the  Merkisaliks  had  already  all
 their  pots  and  pans  on  the  fire,  and,  after  their  wont,
 invited  the  foreigners  to  join  them.  During  the  meal  the
@@ -9702,10 +8166,8 @@ father,  who  now  began  to  be  a little  talkative,  and,  as  if
 by  chance,  remarked,  “ We  want  something  that  would
 do  for  a gimlet ; would  ye  mind  letting  me  have  that
 knuckle  ? ” Merkisalik  gave  it  to  him  willingly,  saying,
-“We  have  got  lots  of  them.”  On  the  following  morn-
-ing the  Merkisaliks  were  aroused  by  a clattering  noise,
-as  of  poles,  and  peeping  out,  they  saw  the  visitors  pull-
-ing down  their  tent  and  preparing  to  depart.  Thus
+“We  have  got  lots  of  them.”  On  the  following  morning the  Merkisaliks  were  aroused  by  a clattering  noise,
+as  of  poles,  and  peeping  out,  they  saw  the  visitors  pulling down  their  tent  and  preparing  to  depart.  Thus
 they  were  once  more  alone  ; and  their  son  again  went
 out  hunting  all  by  himself.  One  day,  when  he  was  still
 busy  bringing  down  the  deer  he  had  stalked  to  their
@@ -9721,19 +8183,12 @@ were  inconsolable.  It  was  now  autumn  ; the  little  lakes
 began  to.  be  covered  with  ice,  and  it  was  time  to  leave
 
 
-TALES  AND  TRADITIONS.
-
-
-201
-
-
 the  inland  country  for  the  sea-coast  : so  one  fine  morning
 they  made  preparations  to  go.  They  first  wept  at  the
 tomb  of  their  son,  and,  still  wailing  and  complaining,
 they  went  down  the  firth  with  a light  easterly  breeze.
 Having  arrived  at  their  winter-quarters,  Merkisalik’s
-mind  was  filled  with  hatred,  and  he  was  always  contem-
-plating revenge.  In  order  to  carry  it  out,  he  resolved
+mind  was  filled  with  hatred,  and  he  was  always  contemplating revenge.  In  order  to  carry  it  out,  he  resolved
 to  make  a tiipilak  to  destroy  his  enemies.  To  this  end
 he  every  day  collected  bones  of  all  sorts  of  animals,  and
 put  them  into  the  brook  close  by  to  whiten,  and  then
@@ -9745,21 +8200,16 @@ taking  the  shape  of  an  agpaliarsuk p that  dived  down
 and  turned  round  to  its  owner  ; but  he  said,  “ Thou  art
 not  the  thing  I want  thee  to  be  yet.”  Instantly  it
 dived  down  and  reappeared  in  the  shape  of  a dovekie . 2
-Again  he  said,  “ That  won’t  do  neither.”  It  under-
-went many  changes  and  took  the  shape  of  all  sorts
-of  birds  ; but  he  rejected  them  all.  Then  it  was  trans-
-formed into  all  manner  of  seals  and  dolphins  ; but  they
-did  not  suit  him  either.  At  last,  after  another  dive  be-
-neath the  surface  of  the  water,  its  breath  was  heard  like
+Again  he  said,  “ That  won’t  do  neither.”  It  underwent many  changes  and  took  the  shape  of  all  sorts
+of  birds  ; but  he  rejected  them  all.  Then  it  was  transformed into  all  manner  of  seals  and  dolphins  ; but  they
+did  not  suit  him  either.  At  last,  after  another  dive  beneath the  surface  of  the  water,  its  breath  was  heard  like
 a mighty  roar,  and  he  beheld  a small  whale,  and  then
-he  said,  “ This  will  do  ; thou  shalt  avenge  us.”  The  ani-
-mal now  seemed  to  inquire,  “ Where  am  I to  go  ? ” and
+he  said,  “ This  will  do  ; thou  shalt  avenge  us.”  The  animal now  seemed  to  inquire,  “ Where  am  I to  go  ? ” and
 he  replied,  “To  the  hunting  place  of  the  many  brothers
 At  these  words  it  took  one  long  breath,  then  dived
 down  into  the  sea  ; and  the  man  returned  home  and
 bided  his  time,  waiting  to  hear  how  the  family  would
-fare  who  lived  a little  to  the  north  of  them.  One  even-
-ing a kayaker  appeared  rounding  the  northern  point,
+fare  who  lived  a little  to  the  north  of  them.  One  evening a kayaker  appeared  rounding  the  northern  point,
 and  in  him  he  soon  recognised  a poor  relative  and  very
 old  man,  who  for  some  time  had  had  his  quarters  at  the
 
@@ -9768,18 +8218,11 @@ old  man,  who  for  some  time  had  had  his  quarters  at  the
 2 Another  common  sea-fowl,  Uria  grylle.
 
 
-202
-
-
-TALES  AND  TRADITIONS.
-
-
 same  place  as  their  former  visitors.  On  their  way  from
 the  beach  up  to  the  house,  he  related  what  follows  :
 “ Some  days  ago  an  accident  occurred  up  at  our  place  ;
 one  of  the  many  brothers  has  not  returned  home.  The
-day  before  his  departure  he  told  us  that  he  had  har-
-pooned a little  whale,  adding  that  he  would  now  go  out
+day  before  his  departure  he  told  us  that  he  had  harpooned a little  whale,  adding  that  he  would  now  go  out
 in  search  of  it  ; but  he  has  never  yet  returned.”  The
 maker  of  the  tupilak  feigned  compassion,  saying,  “ He
 must,  of  course,  have  managed  awkwardly  somehow;”
@@ -9788,14 +8231,12 @@ the  visitor  departed,  he  asked  him  soon  to  return,  but
 he  did  not  do  so  for  a good  long  while.  When  at
 length  he  did  come,  he  again  reported  : “ Yesterday  the
 same  accident  happened  to  another  of  the  brothers.”
-When  the  visitor  was  about  to  depart,  Merkisalik  en-
-couraged him  soon  to  return,  saying,  “ We  are  always
+When  the  visitor  was  about  to  depart,  Merkisalik  encouraged him  soon  to  return,  saying,  “ We  are  always
 glad  to  see  thee  ; now  come  back  as  soon  as  thou  canst.”
 After  another  long  interval  he  once  came  back,  and  told
 them  that  the  last  of  the  brothers  had  now  disappeared,
 adding  that  the  poor  parents  were  very  much  grieved
-because  of  their  bereavement.  On  hearing  this,  Mer-
-kisalik’s  wrath  was  somewhat  appeased.
+because  of  their  bereavement.  On  hearing  this,  Merkisalik’s  wrath  was  somewhat  appeased.
 
 
 25.
@@ -9812,19 +8253,11 @@ weak  and  helpless  child,  a man  happened  to  take  pity  on
 him  and  adopted  him  for  his  son.  But  this  same  foster-
 
 
-TALES  AND  TRADITIONS.
-
-
-203
-
-
 father  was  fond  of  worrying  the  boy,  and  inventing
 stories  to  frighten  and  excite  him.  Sometimes,  when  the
-child  was  asleep,  he  would  cry  out,  “Namak,  thy  ene-
-mies have  come  to  kill  thee,  too.”  At  first  he  was
+child  was  asleep,  he  would  cry  out,  “Namak,  thy  enemies have  come  to  kill  thee,  too.”  At  first  he  was
 much  alarmed,  but  by  degrees  he  got  used  to  it.  But
-sometimes  his  foster-father  would  say,  “ Ah,  how  forget-
-ful that  Namak  is  ! Here  are  his  parents  newly  murdered,
+sometimes  his  foster-father  would  say,  “ Ah,  how  forgetful that  Namak  is  ! Here  are  his  parents  newly  murdered,
 and  he  forgetting  all  about  it.”  At  this,  Namak  would
 get  into  a great  rage.  When  he  was  still  a child,  his
 father  one  day  made  him  a present  of  a sling,  saying,
@@ -9832,8 +8265,7 @@ father  one  day  made  him  a present  of  a sling,  saying,
 that  thy  enemies  will  kill  thee  for  all  that ; but  take
 this  sling  and  practise  with  it.”  Namak  instantly  began
 to  do  so,  and  soon  got  very  clever  in  using  it.  In  the
-spring  he  would  betake  himself  to  solitary  places,  prac-
-tising his  sling,  always  pondering  over  the  things  his
+spring  he  would  betake  himself  to  solitary  places,  practising his  sling,  always  pondering  over  the  things  his
 foster-father  had  said  to  stir  up  vengeance  within  him.
 At  home  he  spoke  little,  but  inwardly  rejoiced  at  his
 growing  strength.  Sometimes  he  brought  in  hares,  and
@@ -9845,8 +8277,7 @@ then  awakened  to  assist  in  carrying  it  up  to  the  house  ;
 but  he  would  then  hide  his  strength,  and  make-believe
 it  was  very  hard  work  for  him.  One  day,  however,  he
 said  that  his  sling  was  too  weak,  and  his  father  went  to
-cut  him  a stronger  one  out  of  a very  thick  piece  of  seal-
-skin ; and  after  that  time  he  left  off  gibing  the  boy,
+cut  him  a stronger  one  out  of  a very  thick  piece  of  sealskin ; and  after  that  time  he  left  off  gibing  the  boy,
 because  he  began  to  fear  him.  During  the  winter  it  was
 reported  that  the  enemies  of  Namak  intended  to  remove
 farther  to  the  north  in  spring.  He  got  quite  enraged  at
@@ -9855,12 +8286,6 @@ could  be  revenged  ; and  from  that  day  his  manner
 changed  altogether.  When  spring  came  round,  and
 they  left  their  winter-house  for  the  tents,  he  one  day
 said,  “ I wish  I could  get  myself  a new  sling.”  On
-
-
-204
-
-
-TALES  AND  TRADITIONS.
 
 
 hearing  this  the  father  went  out  in  his  kayak,  and
@@ -9880,13 +8305,11 @@ and  turning  it  over  without  any  difficulty,  cut  himself  a
 sling  to  his  liking,  all  in  one  piece.  On  seeing  this  his
 foster-father  got  quite  frightened.  Some  time  after  this,
 their  neighbours  were  really  going  to  depart.  Namak
-slept,  and  his  father  roused  him  with  these  words,  “ Na-
-mak, this  time  thou  mayst  believe  me  ; thy  enemies  are
+slept,  and  his  father  roused  him  with  these  words,  “ Namak, this  time  thou  mayst  believe  me  ; thy  enemies  are
 in  the  very  act  of  departing:”  but  Namak  did  not
 think  fit  to  stir  ; he  had  been  cheated  too  often.  The
 father  again  cried  to  him,  “ Now  they  are  taking  their
-tents  away,” — and  as  he  himself  could  hear  the  clatter-
-ing of  the  bars  and  poles,  he  rose  and  put  on  jacket  and
+tents  away,” — and  as  he  himself  could  hear  the  clattering of  the  bars  and  poles,  he  rose  and  put  on  jacket  and
 boots,  but  without  getting  into  the  sleeves  of  his  jacket,
 and  catching  hold  of  his  sling  from  under  the  ledge,  he
 hid  it  inside.  Further  down  on  the  beach  were  some  large
@@ -9904,17 +8327,10 @@ underwent  the  same  fate.  The  third  one  tried  to  save
 1 Phoca  barbata.
 
 
-TALES  AND  TRADITIONS.
-
-
-205
-
-
 itself  by  turning  in  time,  but  at  that  instant  he  flung  the
 stone  at  it,  hitting  the  prow  and  cleaving  right  through  ;
 and  thus  he  destroyed  three  boats,  crews  and  all,  and
-his  mind  now  got  rest.  One  boat  was  saved  from  de-
-struction, as  it  had  gone  out  to  sea  at  once,  instead  of
+his  mind  now  got  rest.  One  boat  was  saved  from  destruction, as  it  had  gone  out  to  sea  at  once,  instead  of
 keeping  along  the  shore.  His  enemies  increased  in
 number  after  they  had  established  themselves  some-
 
@@ -9931,14 +8347,7 @@ his  son  to  go  and  look  them  up  ; and  in  spring  they
 went  away  northward  in  their  boat,  asking  the  people
 
 
-206
-
-
-TALES  AND  TRADITIONS.
-
-
-they  met  with,  “Where  are  Namak’s  enemies?  ” “ Far-
-ther north  ” was  the  constant  answer.  At  last  they
+they  met  with,  “Where  are  Namak’s  enemies?  ” “ Farther north  ” was  the  constant  answer.  At  last  they
 learned  that  their  station  was  close  at  hand  ; and  from
 that  time  they  did  not  as  usual  land  in  the  evening
 to  take  rest,  but  rowed  on  incessantly.  On  their  arrival
@@ -9950,8 +8359,7 @@ themselves ; neither  were  they  afterwards  invited  to
 visit  them.  However,  they  took  up  their  winter-quarters
 at  that  very  place,  and  settled  down  for  the  time.  In
 the  beginning  of  their  stay,  Namak  advised  his  son  to
-watch  them  closely,  but  afterwards  they  got  less  suspi-
-cious. That  same  winter,  one  morning,  it  blew  a gale
+watch  them  closely,  but  afterwards  they  got  less  suspicious. That  same  winter,  one  morning,  it  blew  a gale
 from  the  south-west,  and  the  kayakers  remained  at
 home,  and  on  that  day  it  wras  announced,  “ They  all  want
 to  see  Namak.”  He  was  ready  in  a moment  ; the  son
@@ -9976,11 +8384,8 @@ another,  but  nobody  was  able  to  move  his  arm  in  the
 least.  Seeing  that  they  were  not  able  to  match  him,
 
 
-TALES  AND  TRADITIONS.  207
-
 they  all  departed.  The  son  went  home,  but  Namak
-never  stirred,  but  stayed  on.  At  last,  however,  he  pre-
-pared to  put  on  his  outer  coat,  and  did  it  very  slowly
+never  stirred,  but  stayed  on.  At  last,  however,  he  prepared to  put  on  his  outer  coat,  and  did  it  very  slowly
 and  deliberately,  always  expecting  an  attack.  They
 were  never  invited  afterwards.  In  spring  they  again
 wanted  to  go  to  the  south,  and  at  parting  he  let  his
@@ -9992,18 +8397,11 @@ that  they  did  not  come,  he  finally  left  the  place.
 
 
 Note. — The  native  writer  has  added  the  following  very  characteristic
-remark  : “ It  is  generally  supposed  that  if  his  foster-father  had  not  continu-
-ally excited  him,  he  would  scarcely  have  grown  to  be  so  immensely  strong.
+remark  : “ It  is  generally  supposed  that  if  his  foster-father  had  not  continually excited  him,  he  would  scarcely  have  grown  to  be  so  immensely  strong.
 People  say  that  among  our  ancestors,  before  they  became  Christians,  there
 was  no  lack  of  strong  men,  because  their  bad  consciences  induced  them  to
 cultivate  their  strength.  Nowadays,  since  people  have  turned  Christians,
 and  have  no  bad  consciences,  there  are  no  strong  men  among  them.”
-
-
-208
-
-
-TALES  AND  TRADITIONS.
 
 
 26.
@@ -10012,19 +8410,15 @@ TALES  AND  TRADITIONS.
 THE  LONELY  BROTHERS.
 
 
-[This  tale  is  here  somewhat  abridged,  and  derived  only  from  one  manu-
-script, in  which  the  journey  across  the  country  is  represented  as  having
+[This  tale  is  here  somewhat  abridged,  and  derived  only  from  one  manuscript, in  which  the  journey  across  the  country  is  represented  as  having
 been  achieved  from  the  west  to  the  east  coast  of  Greenland,  an  idea
 which  can  only  have  originated  by  transplanting  the  same  story  from
-another  Eskimo  country,  where  such  a journey  might  be  more  practi-
-cable than  across  the  frozen,  impassable  interior  of  Greenland.]
+another  Eskimo  country,  where  such  a journey  might  be  more  practicable than  across  the  frozen,  impassable  interior  of  Greenland.]
 
 TWO  brothers  had  taken  up  their  abode  at  a fiord;
 
-there  they  lived  alone,  and  having  no  female  as-
-sistance, they  were  obliged  to  cook  and  make  their  gar-
-ments themselves.  One  day  when  they  were  out  kay-
-aking, they  passed  a little  rocky  point,  and  turning  their
+there  they  lived  alone,  and  having  no  female  assistance, they  were  obliged  to  cook  and  make  their  gar-
+ments themselves.  One  day  when  they  were  out  kayaking, they  passed  a little  rocky  point,  and  turning  their
 eyes  landwards,  they  observed  a woman  standing  on
 the  beach.  The  eldest  brother  now  said  he  would  go
 and  fetch  her,  and  with  this  view  he  went  ashore  ; but
@@ -10043,14 +8437,7 @@ off  watching  her  for  a moment ; and  instantly  they  heard
 a clattering  noise,  and  there  she  was  gone.  They  searched
 all  around,  thinking  she  might  have  fallen  into  the  water,
 but  there  were  no  traces  of  her  to  be  seen  anywhere,  and
-after  a while  they  gave  her  up,  saying,  “ No  matter,  per-
-haps she  was  not  a real  woman  ” (i.  e.,  she  had  fled  from
-
-
-TALES  AND  TRADITIONS.
-
-
-209
+after  a while  they  gave  her  up,  saying,  “ No  matter,  perhaps she  was  not  a real  woman  ” (i.  e.,  she  had  fled  from
 
 
 mankind,  and  was  a Kivigtox,  endowed  with  supernatural
@@ -10060,16 +8447,14 @@ tent  mending  their  boots.  They  ran  up  to  her  in  case
 she  wanted  to  run  away ; but  she  said  to  them,  “ Pray
 let  go  your  hold  of  me,  I don’t  want  to  leave  you.”  For
 the  first  few  days  they  were  quite  unwilling  to  leave  her
-alone,  lest  she  should  take  flight  in  their  absence.  After-
-wards they  started,  but  did  not  leave  her  neighbour-
+alone,  lest  she  should  take  flight  in  their  absence.  Afterwards they  started,  but  did  not  leave  her  neighbour-
 hood ; and  they  did  not  venture  to  go  away  from  her
 for  any  length  of  time,  until  she  had  said,  “ I like  to
 stop  with  you,  and  ye  may  go  as  far  as  ye  like.”  As
 they  could  now  employ  all  their  time  in  hunting,  having
 a woman  at  home  to  cook  and  sew  for  them,  they  got
 more  prosperous  than  before.  She  bore  a male  child  in
-due  time  ; but  from  that  period  her  manners  were  al-
-tered, and  she  grew  restrained  and  silent.  The  eldest
+due  time  ; but  from  that  period  her  manners  were  altered, and  she  grew  restrained  and  silent.  The  eldest
 brother  proposed  to  the  younger  one  that  he  should
 question  her  as  to  the  cause.  At  night  when  they  lay
 down  to  rest  he  did  so,  and  she  answered  him,  “ It  is
@@ -10088,16 +8473,9 @@ ahead  of  them,  and  the  others  could  scarcely  keep  up
 with  her.  For  several  days  they  wandered  on  in  the
 same  manner,  but  at  last  the  woman  exclaimed,  “ If  my
 brothers  be  still  alive,  and  are  to  be  found  in  the  old
-place,  we  shall  certainly  come  in  sight  of  their  sea  to-
-morrow ; I recognise  all  the  mountain-hills  of  my  old
+place,  we  shall  certainly  come  in  sight  of  their  sea  tomorrow ; I recognise  all  the  mountain-hills  of  my  old
 
 O
-
-
-210
-
-
-TALES  AND  TRADITIONS.
 
 
 home.”  They  still  wandered  on  the  whole  of  the  next
@@ -10105,8 +8483,7 @@ day,  and  towards  evening  they  sighted  an  open  water.
 At  this  they  all  began  crying  for  joy,  and  were  obliged
 to  stop  a little.  The  wife  now  said,  “ If  we  descend  at
 once  we  shall  not  find  my  brothers  ; at  this  time  of  the
-day  they  always  used  to  be  out  kayaking.  Let  us  there-
-fore stay  here  till  to-morrow,  and  be  down  with  them
+day  they  always  used  to  be  out  kayaking.  Let  us  therefore stay  here  till  to-morrow,  and  be  down  with  them
 before  they  start.”  Accordingly  they  lay  down  to  sleep
 for  the  night,  and  in  the  morning  they  descended  the
 hillside  together.  A great  many  tents  soon  appeared
@@ -10121,25 +8498,19 @@ seal-skin  for  sole-leather,  which  she  was  going  to  stretch
 on  the  ground  to  dry.  All  of  a sudden  the  little  one
 turned  round,  exclaiming,  “ Why,  is  not  that  my  aunt
 coming  there?”  “No,  don’t  speak  such  foolish  things.
-Thou  knowest  very  well  thy  aunt  fled  away  never  to  re-
-turn any  more,  because  of  these  quarrels  and  fights  for
+Thou  knowest  very  well  thy  aunt  fled  away  never  to  return any  more,  because  of  these  quarrels  and  fights  for
 her  sake.”  At  this  rebuke  the  boy  was  silenced,  but  in
 a little  while  again  went  on,  “ Indeed,  indeed,  it  is  my
-aunt,  and  there  she  is  coming  ! ” The  old  woman,  how-
-ever, was  still  bending  over  the  piece  of  skin,  and  busy
+aunt,  and  there  she  is  coming  ! ” The  old  woman,  however, was  still  bending  over  the  piece  of  skin,  and  busy
 in  fastening  it  down.  She  only  rejoined,  “ What  stupid
 nonsense  ! thy  aunt  has  gone  away  from  us  for  ever.  I
 only  wish  I could  manage  those  pegs”  (viz.,  for  fastening
-the  skins)  ; but  as  the  boy  would  not  give  over  chatter-
-ing about  his  aunt  she  got  into  a passion  with  him,  and
+the  skins)  ; but  as  the  boy  would  not  give  over  chattering about  his  aunt  she  got  into  a passion  with  him,  and
 tore  out  the  holes  made  in  the  skin  for  the  pegs.  Then
 for  the  first  time  she  looked  up  and  cried  out,  “ That  is
 she,  sure  enough.  Why  did  not  I believe  the  little  one?”
 she  continued,  and  went  on  caressing  the  boy.  In  the
 meantime  the  brothers  had  also  in  some  way  or  other
-
-
-TALES  AND  TRADITIONS.
 
 
 21 1
@@ -10150,30 +8521,24 @@ cried  out,  “ Oh,  my  dear  sister ! ye  have  not  cared  so
 much  for  her  as  I have ; ye  have  not  missed  her  so
 much  neither ; ye  have  not  longed  so  much  for  her  as  I
 have  done.”  And  each  of  them  wanted  to  be  the  first
-to  greet  her,  and  to  take  hold  of  her.  They  all  ran  to-
-wards her,  but  out  of  reverence  for  the  eldest  they  allowed
-him  to  be  the  first  to  give  her  welcome.  They  now  be-
-gan questioning  her  about  her  fellow-travellers  ; and  she
-told  them  that  the  men  were  waiting  on  the  mountain-
-side above,  and  they  ran  to  bring  them  down,  and  the
-entrance  to  the  tent  was  soon  blocked  up  with  inquisi-
-tive neighbours,  all  eager  to  see  the  travellers  who  had
+to  greet  her,  and  to  take  hold  of  her.  They  all  ran  towards her,  but  out  of  reverence  for  the  eldest  they  allowed
+him  to  be  the  first  to  give  her  welcome.  They  now  began questioning  her  about  her  fellow-travellers  ; and  she
+told  them  that  the  men  were  waiting  on  the  mountainside above,  and  they  ran  to  bring  them  down,  and  the
+entrance  to  the  tent  was  soon  blocked  up  with  inquisitive neighbours,  all  eager  to  see  the  travellers  who  had
 crossed  the  whole  breadth  of  the  country.  The  brothers
 stayed  at  home  all  day,  and  for  joy  at  the  meeting  could
 do  nought  but  sit  down  together  and  regard  each  other
 lovingly.  In  the  evening  the  eldest  proposed  that  some
 kind  of  amusements  should  be  got  up,  and  they  agreed
 to  try  strength  with  one  another  at  “ hook  and  crook ; ”
-upon  which  one  of  them  drew  forth  a skin  for  the  pur-
-pose, saying,  “ When  strangers  meet,  one  always  likes
+upon  which  one  of  them  drew  forth  a skin  for  the  purpose, saying,  “ When  strangers  meet,  one  always  likes
 to  see  which  is  the  better  man  ; ” and  acting  upon  his
 word,  he  at  once  undressed  and  seated  himself  on  the
 skin.  Seeing  that  none  of  the  visitors  moved,  one  of  his
 own  brothers  sat  down  opposite  to  him,  and  they  hooked
 each  other’s  arms,  and  the  eldest  of  the  two  beat  his
 brother’s  back  vigorously  in  order  to  encourage  him  to
-pull  hard.  However,  neither  he  nor  any  of  all  the  bro-
-thers w7ere  able  to  stretch  out  his  arm  ; but  when  they
+pull  hard.  However,  neither  he  nor  any  of  all  the  brothers w7ere  able  to  stretch  out  his  arm  ; but  when  they
 had  all  done,  he  still  retained  his  place  sitting  down  on
 the  skin.  The  eldest  of  the  visitors  now  whispered  to
 his  brother,  “ I shall  first  take  my  chance,  then  thou
@@ -10182,12 +8547,6 @@ stretching  out  his  right  arm  and  hooking  it  inside  his
 adversary’s.  The  visitor,  perceiving  his  strength,  thought,
 “ I will  try  to  conquer  him  before  he  is  tired  out,  so  that
 it  may  not  seem  to  be  too  easy  a job  for  me  and  he
-
-
-212
-
-
-TALES  AND  TRADITIONS.
 
 
 gathered  all  his  strength,  and  slowly  pulled  on  the  arm
@@ -10208,31 +8567,22 @@ this  summons  they  quickly  dressed  and  went  outside.
 There  they  saw  a number  of  people  ascending  the
 heights  ; and  following  in  their  wake,  they  reached  a
 plain,  where  a still  greater  crowd  formed  a circle  about
-a fellow  with  a frame  like  a giant : and  the  elder  bro-
-ther whispered  to  the  younger  one,  “ It  won’t  do  for
+a fellow  with  a frame  like  a giant : and  the  elder  brother whispered  to  the  younger  one,  “ It  won’t  do  for
 thee  to  go  first — thou  dost  look  so  very  dejected  ; I had
 better  go  myself.”  So  saying,  he  suddenly  rushed  at
 the  champion,  and  thus  took  the  huge  man  by  surprise.
-This  was  at  sunrise,  and  at  sunset  they  were  still  fight-
-ing ; and  the  visitor  thought,  “ I must  try  to  throw  him
+This  was  at  sunrise,  and  at  sunset  they  were  still  fighting ; and  the  visitor  thought,  “ I must  try  to  throw  him
 over  before  I get  too  tired.”  Taking  hold  of  him,  he
 slowly  lifted  him  off  his  feet,  and  held  him  swinging  in
 the  air.  He  had  noticed  a pole  stuck  up  among  some
 rocks.  However,  he  did  not  choose  to  knock  him  down
-against  that,  but  hurled  him  right  out  among  the  spec-
-tators, where  he  fell  down,  the  blood  gushing  forth  from
+against  that,  but  hurled  him  right  out  among  the  spectators, where  he  fell  down,  the  blood  gushing  forth  from
 his  mouth.  A loud  roar  was  now  heard  among  the
 people — some  rejoiced,  others  wept ; and  in  descending
 to  the  valley  below,  they  all  gathered  around  the  eldest
 visitor,  merely  to  have  the  satisfaction  of  having  touched
 him,  and  some  addressed  him,  saying,  “ Thou  shalt  have
 my  windlass  in  reward  for  that  job.”  This,  however,
-
-
-TALES  AND  TRADITIONS.
-
-
-213
 
 
 he  did  not  understand  at  the  time.  The  whole  crowd
@@ -10249,8 +8599,7 @@ along  two  large  saddleback  seals,  others  blueside  ones,1
 while  others  had  caught  thong-seals.  On  the  following
 day  the  visitors  accompanied  them  to  see  their  ways  of
 hunting.  They  had  left  the  shore  far  behind  them  before
-they  fell  in  with  the  frost-smoke  and  reached  the  first  aper-
-tures in  the  ice,  at  the  edge  of  which  walrus-teeth  had  been
+they  fell  in  with  the  frost-smoke  and  reached  the  first  apertures in  the  ice,  at  the  edge  of  which  walrus-teeth  had  been
 stuck  down.  These  were  what  they  had  been  calling
 their  windlasses.2  The  eldest  of  the  men  now  said,  “ Do
 not  try  to  harpoon  the  big  ones,  but  aim  at  the  little
@@ -10276,17 +8625,10 @@ of  Smith  Sound,  seems  to  have  been  known  to  the  narrator  of  this  st
 only  as  a very  remarkable  tradition.
 
 
-214
-
-
-TALES  AND  TRADITIONS.
-
-
 out  the  same  way  next  morning.  That  day  the  visitors
 each  caught  a large  seal,  and  the  chief  of  the  men  said,
 
-“ They  will  not  get  home  with  these  by  to-morrow  morn-
-ing.” But  on  their  way  home  the  elder  brother  said,
+“ They  will  not  get  home  with  these  by  to-morrow  morning.” But  on  their  way  home  the  elder  brother  said,
 
 “ This  won’t  do  ; we  won’t  get  any  credit  unless  we  try  to
 be  the  first,” — and  off  they  went,  in  order  to  forestall  the
@@ -10295,16 +8637,14 @@ greatly  astonished  on  seeing  their  outer  clothes  hanging
 outside  the  hut,  but  supposed  that  some  other  visitors
 might  have  arrived.  On  entering  the  house,  however,
 the  brothers  put  the  supper  before  him  at  once,  saying,
-“ We  fear  the  meat  has  got  tough,  and  has  lost  its  fla-
-vour ; it  is  ever  so  long  since  we  boiled  it.”  At  first  he
+“ We  fear  the  meat  has  got  tough,  and  has  lost  its  flavour ; it  is  ever  so  long  since  we  boiled  it.”  At  first  he
 remained  silent,  but  soon  became  more  talkative,  and
 said  he  was  glad  that  he  had  got  such  able  and  clever
 helpmates.  When  spring  came  on,  the  brothers  began
 to  long  for  their  own  home,  and  they  asked  their  former
 companion  whether  she  preferred  to  stay  or  go  with
 them.  She  answered,  “ I will  rather  return  with  you.”
-Her  parents  making  no  objections,  they  went  away  to-
-gether, and  were  never  more  seen  or  heard  of  by  any  of
+Her  parents  making  no  objections,  they  went  away  together, and  were  never  more  seen  or  heard  of  by  any  of
 their  kinsmen  after  the  day  of  their  departure.
 
 
@@ -10324,19 +8664,12 @@ doing  some  work,  the  dog  beside  him.  When  he  came
 close  up  to  him  the  cousin  suddenly  said,  “ Pray,  shoot
 
 
-TALES  AND  TRADITIONS.
-
-
-215
-
-
 my  dog.”  “ No,  I won’t,  because  we  are  friends.”  But
 the  cousin  still  persuaded  him,  saying,  “ Pray  do  it,
 nevertheless.”  He  brought  his  bow  accordingly  ; but  not
 yet  satisfied, he  again  inquired,  “But  wilt  thou  not  really
 get  vexed  when  it  is  too  late?”  “No,  indeed,  I shall
-not ; ” and  the  other  killed  the  dog.  The  cousin,  how-
-ever, took  offence  for  all  that,  and  challenged  his  friend,
+not ; ” and  the  other  killed  the  dog.  The  cousin,  however, took  offence  for  all  that,  and  challenged  his  friend,
 saying,  “ He  had  a mind  to  kill  him  at  once.”  But
 Sikutluk  shot  him  right  through  the  breast,  and  he  fell
 down  dead.  Immediately  after  this,  Sikutluk  went  and
@@ -10344,15 +8677,13 @@ covered  his  cousin’s  boat  and  tent  all  over  with  heavy
 stones,  and  left  the  place  along  with  his  wife  ; but  the
 murder  he  had  committed  had  made  him  thirst  for  blood,
 and  he  went  on  intending  to  kill  whatever  he  met  with.
-At  first  he  was  content  with  killing  ptarmigan  and  rein-
-deer. They  both  brought  with  them  as  many  arrows  as
+At  first  he  was  content  with  killing  ptarmigan  and  reindeer. They  both  brought  with  them  as  many  arrows  as
 they  were  able  to  carry.  After  a while  they  fell  in  with
 an  aviarok}  They  first  discovered  the  young  ones,
 but  towards  evening  the  mother  arrived  with  a young
 buck  in  her  mouth.  From  their  retreat  they  noticed
 her  dropping  the  burden  on  finding  that  her  young
-ones  were  killed  ; and  then  sniffing  the  air,  she  fol-
-lowed the  scent  of  human  beings,  and  with  a fearful
+ones  were  killed  ; and  then  sniffing  the  air,  she  followed the  scent  of  human  beings,  and  with  a fearful
 howl  came  running  on  towards  them  at  full  speed.  The
 woman  screamed,  “ I fear  she  will  devour  us  ! ” but  he
 made  no  other  reply  than,  “ Ah,  my  cousin,  my  beloved
@@ -10374,9 +8705,6 @@ a kilivfak ,2  which  stood  scratching  the  earth  with  its
 2l6
 
 
-TALES  AND  TRADITIONS.
-
-
 feet.  When  the  husband  had  also  seen  it,  he  first
 went  to  look  out  for  a hole  in  the  earth  close  by,  where
 he  ordered  his  wife  to  go  and  hide,  and  remain  quiet
@@ -10391,8 +8719,7 @@ into  the  cave,  where  it  entirely  filled  up  the  opening  ;
 but  after  much  toil  they  got  out  again.  They  continued
 roaming  further  away ; and  in  crossing  the  glaciers  he
 carried  his  wife  across  the  crevasses.  At  length  he  again
-reached  the  sea,  and  at  the  same  time  observed  a kay-
-aker close  by.  This  man  said  he  would  take  them  to
+reached  the  sea,  and  at  the  same  time  observed  a kayaker close  by.  This  man  said  he  would  take  them  to
 his  own  place  if  he  would  wait  a little  while  he  brought
 a boat  for  them ; but  the  crew  of  the  boat  were  all  men.
 They  took  up  with  these  people  ; but  soon  found  out
@@ -10401,8 +8728,7 @@ told  his  wife  that  he  would  return  and  look  for  some  of
 their  kinsmen,  and  named  a certain  time  by  which  they
 expected  to  be  back  ; but  in  vain  they  waited  for  him.
 When  the  appointed  time  had  elapsed,  they  promised  an
-angakok  a great  reward  if  he  could  tell  what  had  be-
-fallen the  traveller.  After  some  meditation  he  replied,
+angakok  a great  reward  if  he  could  tell  what  had  befallen the  traveller.  After  some  meditation  he  replied,
 “ I observed  he  killed  a pair  of  amaroks  with  their
 brood.”  The  wife  acknowledged  it.  “ And  a female
 kilivfak  besides?”  “Indeed  he  did  so.”  “Then  be
@@ -10414,12 +8740,6 @@ of  her  death.
 1 Fabulous  inlanders.
 
 
-TALES  AND  TRADITIONS.
-
-
-217
-
-
 28.
 
 
@@ -10427,13 +8747,10 @@ THE  GIRL  WHO  FLED  TO  THE
 INLANDERS.
 
 
-[The  details  of  this  legend  are  somewhat  defective,  owing  to  the  imper-
-fect state  of  the  manuscripts  from  which  it  was  compiled.  The  tra-
+[The  details  of  this  legend  are  somewhat  defective,  owing  to  the  imperfect state  of  the  manuscripts  from  which  it  was  compiled.  The  tra-
 dition itself  is  widely  spread  over  Greenland,  but  does  not  appear  to
-be  known  any  more  perfectly  by  the  relators  themselves,  and  is  per-
-haps gradually  passing  into  oblivion.  It  is  probably  one  of  the  oldest,
-and  certainly  one  of  the  most  remarkable,  as  pointing  out  the  rela-
-tions between  the  Eskimo  and  the  Indians,  and  gives  us  several  hints
+be  known  any  more  perfectly  by  the  relators  themselves,  and  is  perhaps gradually  passing  into  oblivion.  It  is  probably  one  of  the  oldest,
+and  certainly  one  of  the  most  remarkable,  as  pointing  out  the  relations between  the  Eskimo  and  the  Indians,  and  gives  us  several  hints
 with  regard  to  the  customs  of  the  latter,  such  as  their  dancing  and
 their  modes  of  disguising  themselves.  ]
 
@@ -10444,14 +8761,12 @@ sister  got  dreadfully  angry  with  her,  although  she  lived
 in  great  prosperity,  being  well  married.  So  angry  was
 she,  that  she  told  her  sister  she  might  as  well  take  herself
 off,  and  henceforth  keep  away  from  the  coast-people.
-The  girl  at  once  obeyed,  and  wandered  about  the  coun-
-try for  many  a day.  One  night  when  she  was  sitting
+The  girl  at  once  obeyed,  and  wandered  about  the  country for  many  a day.  One  night  when  she  was  sitting
 down  on  a stone  crying,  she  heard  a voice  beside  her
 saying,  “ Why  dost  thou  cry  thus  ? ” and  turning  round,
 she  saw  a very  tall  man,  whom  she  recognised  to  be  an
 inlander  (viz.,  fabulous  people),  standing  beside  her.
-Again  he  repeated,  “For  what  art  thou  crying?”  “Be-
-cause I broke  my  sister’s  needle,  and  she  sent  me  away.”
+Again  he  repeated,  “For  what  art  thou  crying?”  “Because I broke  my  sister’s  needle,  and  she  sent  me  away.”
 “ And  I was  sent  away  in  the  same  manner  because  I
 spoiled  my  brother’s  precious  snare.”  Then  he  asked
 her  to  follow  him,  and  they  went  away  together  to  his
@@ -10459,12 +8774,6 @@ house,  where  he  made  her  a present  of  deer-skins,  some
 for  outer  garments  and  some  for  inner  clothes,  and  he
 took  her  for  his  wife.  This  inlander  used  to  go  and
 catch  eider-ducks  in  a certain  lake,  by  wading  out  in
-
-
-218
-
-
-TALES  AND  TRADITIONS.
 
 
 the  water  and  taking  the  birds  by  stealth.  One  day  he
@@ -10493,23 +8802,15 @@ peep  at  the  stranger.  Some  crept  up  on  the  roof  and
 made  themselves  a peep-hole  there,  and  in  no  time  the
 house  was  quite  full.  Subsequently  there  was  some  talk
 of  a boat  that  was  shortly  expected,  and  one  morning  it
-was  announced  to  be  coming.  She  knew  them  to  be  inua-
-rutligaks.1  On  coming  up  from  the  beach,  they  stopped
+was  announced  to  be  coming.  She  knew  them  to  be  inuarutligaks.1  On  coming  up  from  the  beach,  they  stopped
 outside  the  house  and  commenced  singing  to  one  another,
 and  then  brought  forth  gifts  of  skins,  and  stayed  with
 them  a whole  month,  enjoying  each  other’s  company
-very  much,  feasting  a great  deal,  and  singing  songs  con-
-tinually. At  one  of  their  banquets  an  inlander  stood
+very  much,  feasting  a great  deal,  and  singing  songs  continually. At  one  of  their  banquets  an  inlander  stood
 forth,  and,  by  way  of  entertaining  the  assembly,  he  sang
 and  danced.  During  the  dance  he  transformed  himself
 into  a reindeer  ; but  at  this  trick  the  children  of  the  inu-
 1 Fabulous  dwarf  inlanders  or  mountain-elves.
-
-
-TALES  AND  TRADITIONS.
-
-
-219
 
 
 arutligaks  got  dreadfully  frightened,  so  that  he  again
@@ -10539,36 +8840,26 @@ house,  and  wondered  how  they  should  all  get  room  in  it.
 While,  however,  she  was  looking  at  it,  it  seemed  to  grow
 bigger — the  inuarutligaks  knew  how  to  enlarge  their
 houses  by  means  of  rubbing  them.  They  now  went
-inside,  bringing  their  bundles  of  skin,  one  for  each  per-
-son, with  them,  and  then  commenced  their  feasting
+inside,  bringing  their  bundles  of  skin,  one  for  each  person, with  them,  and  then  commenced  their  feasting
 and  merry-making.  One  of  the  inuarutligaks  stepped
 forward,  and  after  having  performed  a dance,  flung
-himself  down  on  the  ground  transformed  into  an  orsii-
-ghiak-stone  (viz.,  a sort  of  white,  glistering  felspar).  The
+himself  down  on  the  ground  transformed  into  an  orsiighiak-stone  (viz.,  a sort  of  white,  glistering  felspar).  The
 inlanders  tried  to  lift  it,  but  being  quite  unable,  he  soon
 rose  up  in  his  proper  shape.  One  of  the  inlanders  now
 advanced,  fell  to  the  ground,  and  was  transformed  into
 a common  stone ; but  the  inuarutligaks  managed  to  lift
 
 
-220
-
-
-TALES  AND  TRADITIONS.
-
-
 it,  and  flung  it  against  the  door,  where  it  flew  to  pieces.
 In  this  manner  the  inlanders  lost  one  of  their  people,
-and  they  left  on  the  following  day.  In  the  summer-
-time preparations  were  made  for  reindeer-hunting,  and
+and  they  left  on  the  following  day.  In  the  summertime preparations  were  made  for  reindeer-hunting,  and
 the  coast-woman  was  to  accompany  them.  She  had
 two  girls  for  her  enemies  because  she  married  so  early,
 and  they  were  always  molesting  her,  and  trying  to
 make  her  ridiculous.  They  said  that  she  was  not  so
 smart  and  lightfooted  on  the  march  as  the  inlanders  ;
 and  one  of  them  added,  “ To-day  I even  pursued  and
-overtook  a young  deer  ! ” On  hearing  this,  the  old  wo-
-man of  the  house  produced  a pair  of  boots,  which  she
+overtook  a young  deer  ! ” On  hearing  this,  the  old  woman of  the  house  produced  a pair  of  boots,  which  she
 filled  with  all  kinds  of  vermin,  and  ordering  her  to  put
 them  on,  she  tightened  them  round  her  legs,  the  husband
 encouraging  her,  saying,  “She  must  needs  bear  it  in  order
@@ -10588,22 +8879,14 @@ on  his  face  at  the  bottom  of  the  boat,  where  he  remained
 till  he  landed  close  to  their  home.  They  stayed  that
 winter  at  her  parents,  and  once  her  father  said,  “I  wish
 I could  have  got  another  son-in-law  instead  of  this  one
-— one  who  knew  how  to  trap  eider-ducks.”  The  in-
-lander had  a habit  of  stopping  in  the  house  all  day,  but
+— one  who  knew  how  to  trap  eider-ducks.”  The  inlander had  a habit  of  stopping  in  the  house  all  day,  but
 at  these  words  he  only  asked  a trap  of  him  ; and  one
 day  he  returned  all  covered  with  ducks.  The  other  men
 of  the  place  in  the  winter-time  often  used  to  ridicule
 him,  and  always  wanted  to  persuade  him  to  accompany
 
 
-TALES  AND  TRADITIONS.
-
-
-221
-
-
-them  out  on  the  ice  for  the  viowpok- hunt  (cor.  sp.  mau-
-poK,  seal-hunt,  by  watching  the  breathing-holes).  In
+them  out  on  the  ice  for  the  viowpok- hunt  (cor.  sp.  maupoK,  seal-hunt,  by  watching  the  breathing-holes).  In
 the  summer  he  resolved  to  visit  his  countrymen,  and
 on  parting  said  to  his  wife,  “ If  I find  our  son  in  health,
 I will  return  with  more  companions.”  He  now  set  off,
@@ -10622,8 +8905,7 @@ THE  ORPHANS.
 T a well-peopled  settlement  there  lived  an  old
 
 
-£\  couple,  with  an  only  son  and  a younger  daugh-
-ter ; but  the  parents  died  before  they  were  grown  up.
+£\  couple,  with  an  only  son  and  a younger  daughter ; but  the  parents  died  before  they  were  grown  up.
 They,  however,  soon  got  foster-parents,  but  these  did
 not  love  them — they  were  always  scolded,  and  left  to
 seek  their  food  on  the  beach  at  low-water.  One  spring,
@@ -10638,27 +8920,18 @@ these  were  finished,  the  sister  found  an  instrument  for
 boring.  As  they  could  not  reach  the  ceiling,  they  heaped
 up  stones  to  stand  upon,  and  in  this  way  managed  to
 make  a hole  in  the  roof  to  creep  through.  The  brother
-first  helped  his  sister  to  escape,  and  then  got  out  him-
-self. Outside  they  could  see  tents  standing  in  rows  on
+first  helped  his  sister  to  escape,  and  then  got  out  himself. Outside  they  could  see  tents  standing  in  rows  on
 the  islets,  they  being  themselves  on  the  mainland  ; by
-
-
-222
-
-
-TALES  AND  TRADITIONS.
 
 
 the  smoke  they  observed,  they  knew  them  to  be  cooking
 all  the  day,  and  they  could  see  the  kayakers  pursuing
 the  seals.  Being  hungry,  they  went  to  the  place  where
 the  seals  used  to  be  stripped  and  cut  up  in  the  winter,
-hoping  to  find  some  old  bits  to  eat,  and  they  were  for-
-tunate enough  to  find  the  head  of  a small  thong-seal.
+hoping  to  find  some  old  bits  to  eat,  and  they  were  fortunate enough  to  find  the  head  of  a small  thong-seal.
 When  they  had  eaten  a part  of  it,  the  sister  stripped  off
 the  skin,  prepared  it,  and  said  to  the  brother,  “ I am
-going  to  make  a disguise  for  thee  ; dost  not  thou  re-
-member the  magic  song  our  mother  taught  us  ? ” “ In-
+going  to  make  a disguise  for  thee  ; dost  not  thou  remember the  magic  song  our  mother  taught  us  ? ” “ In-
 
 deed I do;  and  I even  remember  one  for  raising  a storm.
 Make  haste  and  get  ready  the  skin.”  She  rubbed  it
@@ -10668,8 +8941,7 @@ it  only  touched  his  knees.  She  rubbed  still  more,  and
 at  last  he  could  wrap  himself  quite  up  in  it.  The  sister
 fastened  it  on  him,  saying,  “ There,  thou  lookest  just  like
 a young  thong-seal ; now  try  the  water,” — and  he  went
-to  the  beach.  He  leapt  down,  while  she  remained  sing-
-ing the  magic  lay,  and  saying,  “Now  dive  down!”
+to  the  beach.  He  leapt  down,  while  she  remained  singing the  magic  lay,  and  saying,  “Now  dive  down!”
 When  he  reappeared  on  the  surface  she  said,  “ Thou
 art  looking  like  a little  dovekie  (see  p.  201)  ; I will
 sing  again:”  and  when  he  again  appeared,  she  said,
@@ -10690,9 +8962,6 @@ some  of  the  men  had  forgotten  to  put  on  their  kayak-
 
 
 TAI.ES  and  traditions.
-
-
-223
 
 
 jackets,  though  they  were  rather  far  out  at  sea.  These
@@ -10718,8 +8987,7 @@ buck,  he  gave  the  boy  the  knee-pan,  and  said,  “ Until
 thou  hast  swallowed  that,  thou  shalt  have  nothing  else
 to  eat.”  He  was  almost  choked  with  it,  but  at  last
 managed  to  make  it  go  down,  and  then  had  his  meal ;
-but  he  never  forgot  the  knee-pan.  When  the  deer-
-hunting was  at  an  end  in  the  autumn,  some  people  were
+but  he  never  forgot  the  knee-pan.  When  the  deerhunting was  at  an  end  in  the  autumn,  some  people  were
 leaving  for  the  north,  and  the  orphans  were  among  their
 party,  and  thus  left  their  former  masters.  They  were
 not  yet  quite  grown  up  ; but  they  went  on  practising
@@ -10734,12 +9002,6 @@ man  still  went  out  and  tried  his  luck.  One  day  he
 brought  home  a large  thong-seal,  and  ordered  the  sister
 
 
-224
-
-
-TALES  AND  TRADITIONS.
-
-
 to  boil  down  the  blubber  into  train-oil.  This  done,  he
 invited  all  their  neighbours  ; and  when  the  meal  was
 served  up,  he  addressed  the  old  man,  saying,  “ I would
@@ -10750,8 +9012,7 @@ drank  it  off  at  last ; but  his  throat  got  scalded,  and  he
 died  in  the  act  of  drinking.  The  young  man  was  thus
 appeased,  and  left  the  place  on  the  first  thaw.
 
-Note. — There  is  a story  of  some  other  orphans,  that  they  were  left  help-
-less and  destitute  at  the  winter-quarters  when  all  the  rest  of  the  people
+Note. — There  is  a story  of  some  other  orphans,  that  they  were  left  helpless and  destitute  at  the  winter-quarters  when  all  the  rest  of  the  people
 went  deer-hunting ; but  when  they  were  at  the  point  of  starving,  they  heard
 a noise  on  the  roof  of  the  doorway,  and  on  looking  out  to  see  what  it  was,
 they  found  a ptarmigan.  The  next  day  came  a small  seal,  and  when  that
@@ -10759,10 +9020,8 @@ was  finished,  a large  saddleback  seal.  Of  other  orphans  it  is  told  th
 the  eldest,  a boy,  died  of  starvation!  ; but  that  the  girl,  left  alone,  one  day
 happened  to  see  some  kayakers  hallo-hunting  (viz.,  by  driving  the  seals).
 When  they  had  finished,  one  of  them  brought  her  a little  seal  ; and  when
-they  again  put  out  to  sea,  she  observed  them  all  turning  into  gulls  and  fly-
-ing away.  When  she  had  returned,  and  lay  all  alone  in  the  house,  a queer
-little  woman  brought  her  a fire  that  could  never  be  extinguished.  Of  an-
-other orphan  the  legend  is,  that  he  taught  himself  to  walk  on  the  surface
+they  again  put  out  to  sea,  she  observed  them  all  turning  into  gulls  and  flying away.  When  she  had  returned,  and  lay  all  alone  in  the  house,  a queer
+little  woman  brought  her  a fire  that  could  never  be  extinguished.  Of  another orphan  the  legend  is,  that  he  taught  himself  to  walk  on  the  surface
 of  the  ocean.
 
 
@@ -10785,12 +9044,6 @@ wanted  a flat  stone  to  make  a door  for  the  trap,  and
 asked  him  to  bring  her  one.  He  went  to  get  it ; but  as
 
 
-TALES  AND  TRADITIONS.
-
-
-225
-
-
 he  was  rather  long  in  returning,  she  went  oft'  to  seek
 him  : but  in  vain  ; he  had  completely  disappeared  ; and
 she  was  obliged  to  return  by  herself.  On  her  coming
@@ -10802,8 +9055,7 @@ unable  to  make  herself  useful  in  any  way.  Her  mother
 pitied  her,  and  advised  her  to  flee  the  society  of  men  ;
 and  accordingly  she  made  up  a little  bag  with  some
 clothes,  and  went  far  into  the  country.  She  kept
-wandering  about,  and  could  even  overtake  the  rein-
-deer. Having  once  passed  a cleft  in  the  mountains,
+wandering  about,  and  could  even  overtake  the  reindeer. Having  once  passed  a cleft  in  the  mountains,
 she  saw  a little  house  down  in  a valley,  with  an  opening
 in  the  centre  of  the  roof.  She  approached  the  house,
 and  peeping  down  observed  a giant-like  fellow,  who
@@ -10833,9 +9085,6 @@ P
 
 
 22  6
-
-
-TALES  AND  TRADITIONS.
 
 
 the  place  call  out,  “ A kayaker  is  coming  ! he  is  towing
@@ -10877,9 +9126,6 @@ birth  they  brought  her  an  oblong  dish  with  certain
 entrails  of  a fox,  and  ordered  her  to  swallow  them,
 
 
-TALES  AND  TRADITIONS.
-
-
 22  7
 
 
@@ -10916,15 +9162,8 @@ she  noticed  that  the  dog  (being  endowed  with  magic
 power)  sometimes  went  on  scratching  his  face,  and  at  the
 same  time  always  commencing  to  speak,  and  asking,
 “ What  do  I look  like  now  ? ” Towards  the  end  of  the
-winter  they  were  in  great  want,  having  lost  their  pro-
-tectors. The  dog  then  said  he  was  going  for  a walk
+winter  they  were  in  great  want,  having  lost  their  protectors. The  dog  then  said  he  was  going  for  a walk
 into  the  country.  One  night  he  roused  his  foster-
-
-
-228
-
-
-TALES  AND  TRADITIONS.
 
 
 mother,  and  having  given  himself  a scratching,  inquired,
@@ -10937,8 +9176,7 @@ fire  ! ” but  the  dog  scratched  his  face,  and  rushed  into
 the  passage,  hiding  itself  there.  When  the  people  came
 out,  bringing  lights  with  them,  the  dog  frightened  them
 to  death  on  the  spot.  Next  he  set  off  in  search  of  their
-storehouse,  and  carried  some  victuals  back  to  his  foster-
-parents,  and  showed  them  the  place  where  they  could
+storehouse,  and  carried  some  victuals  back  to  his  fosterparents,  and  showed  them  the  place  where  they  could
 find  the  rest.  But  from  that  time  upwards  the  woman
 began  to  fear  him  ; and  in  the  spring,  when  the  boat
 was  loaded  and  ready  for  starting,  she  asked  the  dog  to
@@ -10965,12 +9203,6 @@ THERE  was  a widow  with  a son  named  Kujanguak ;
 
 beyond  her  house  was  another  one,  inhabited  by
 a number  of  brothers,  all  clever  at  their  profession,  and
-
-
-TALES  AND  TRADITIONS.
-
-
-229
 
 
 well  off.  Whenever  they  had  brought  home  any  seals,
@@ -11008,20 +9240,12 @@ on  an  iceberg.  The  eldest  of  the  brothers  tried  to  climb
 it,  but  was  not  able.  After  him  Kujanguak  made  the
 attempt ; and  having  first  asked  the  other  to  take  care
 of  his  kayak,  he  clutched  hold  of  the  ice,  and  scrambled
-up.  At  the  very  top  he  encountered  the  bear,  and  im-
-mediately fell  upon  it;  and  taking  hold  of  it  by  the  neck,
-
-
-230
-
-
-TALES  AND  TRADITIONS.
+up.  At  the  very  top  he  encountered  the  bear,  and  immediately fell  upon  it;  and  taking  hold  of  it  by  the  neck,
 
 
 flung  it  down  into  the  sea,  stone-dead.  The  youngest  of
 the  brothers,  Sanak,  cried  out,  “ I have  got  a bear ! ” but
-Kujanguak  quietly  descended,  got  into  his  kayak,  fast-
-ened his  towing-line  to  the  bear,  and  paddled  home,
+Kujanguak  quietly  descended,  got  into  his  kayak,  fastened his  towing-line  to  the  bear,  and  paddled  home,
 followed  by  the  other  kayakers,  who  had  given  him  their
 assistance.  The  mother  now  went  down  to  the  beach,
 accompanied  by  the  sister  of  the  brothers.  While  they
@@ -11029,8 +9253,7 @@ were  busy  dragging  the  bear  up  to  the  house,  the  mother
 mockingly  observed,  turning  to  her,  “ Who  knows  how
 nourishing  that  flesh  may  be!”  adding,  “ Now  haul  it
 up  the  rest  of  the  way  thyself ; I am  going  to  fetch
-water.”  Having  finished  this  task,  however,  she  re-
-turned to  the  bear,  and  now  divided  it  into  two  equal
+water.”  Having  finished  this  task,  however,  she  returned to  the  bear,  and  now  divided  it  into  two  equal
 parts,  of  which  she  gave  her  companion  one,  saying,
 “ The  skin  thou  mayst  keep  for  a ledge-cover.”  She
 then  boiled  the  flesh,  and  invited  the  whole  party  to
@@ -11044,27 +9267,18 @@ ate  well ; and  on  taking  leave  the  female  visitor  thanked
 her  saying,  that  she  had  altogether  found  it  a delicious
 and  hearty  feed.  The  following  day  Kujanguak  again
 set  off  to  the  iceberg,  and  got  a large  seal.  When  he
-was  returning  towing  it  homewards,  he  chanced  to  en-
-counter the  brothers.  Happily  his  mother  had  advised
+was  returning  towing  it  homewards,  he  chanced  to  encounter the  brothers.  Happily  his  mother  had  advised
 him  beforehand,  “ If  ever  they  venture  to  persecute  thee,
 take  some  water  out  of  the  sea  with  thy  left  hand,  and
 moisten  thy  lips  with  it.”  Kujanguak  tried  this  as  soon
-as  they  all  came  rushing  in  upon  him.  The  eldest  bro-
-ther began  the  attack  by  catching  hold  of  the  kayak
+as  they  all  came  rushing  in  upon  him.  The  eldest  brother began  the  attack  by  catching  hold  of  the  kayak
 point,  doing  his  utmost  to  upset  it ; but  no  sooner  had
 Kujanguak  tasted  the  water  with  his  lips  than  the  other
 let  it  go.  Sanak  now  said,  “ Look  at  the  foaming  breakers
 there  ! let  us  try  which  of  us  can  first  get  beyond  them
 
 
-TALES  AND  TRADITIONS.
-
-
-231
-
-
-and  all  of  them  pushed  on  as  fast  as  possible.  Kujan-
-guak,  who  had  a seal  on  his  line,  was  first  obliged  to
+and  all  of  them  pushed  on  as  fast  as  possible.  Kujanguak,  who  had  a seal  on  his  line,  was  first  obliged  to
 tighten  it ; but  this  done,  he  pushed  on  like  a shot,  and
 soon  came  up  with  the  eldest  brother,  ahead  of  the
 others  ; and  while  they  rowed  outside  of  the  breakers,
@@ -11090,22 +9304,14 @@ to  share  the  good  fare.  On  hearing  this  the  widow  cut
 a piece  of  the  loin,  and  having  pronounced  a spell  upon
 it,  carried  it  to  her  by  way  of  a present.  When  they
 sat  down  to  eat  it,  Sanak  was  almost  suffocated,  and
-presently  his  old  mother  likewise  cried  for  water.  Hav-
-ing  got  a drink,  she  recovered  ; Sanak,  however,  ex-
+presently  his  old  mother  likewise  cried  for  water.  Having  got  a drink,  she  recovered  ; Sanak,  however,  ex-
 pired. When  the  widow  re-entered  the  room,  the  eldest
 brother  accused  her  of  the  deed,  saying,  “You  only  fed
 them  to  work  their  destruction — it  is  none  but  thou  who
 hast  killed  them  ! ” and,  at  the  same  time,  he  rose  and
 rushed  against  the  house-pillars,  in  order  to  shake  it
 down  and  make  it  fall  over  her  : but  the  widow  replaced
-them  quickly.  Again  he  rose  from  his  seat,  and  turn-
-ing towards  the  widow  herself,  he  quickly  snatched  off
-
-
-232
-
-
-TALES  AND  TRADITIONS.
+them  quickly.  Again  he  rose  from  his  seat,  and  turning towards  the  widow  herself,  he  quickly  snatched  off
 
 
 the  two  points  of  her  jacket — the  one  in  front  as  well  as
@@ -11142,17 +9348,10 @@ as  usual,  carrying  their  little  baby  sisters  and  brothers  in
 the  amowts  (hoods)  at  their  backs.  Just  as  the  old  man
 was  in  the  act  of  spearing  a seal,  the  children  happened
 to  give  a shout,  and  the  terrified  seal  at  once  dived  to
-the  bottom.  On  this  the  old  man  got  into  a great  pas-
-sion, and  cried  out  aloud,  “ Shut  up,  mountain-cleft ! ”
+the  bottom.  On  this  the  old  man  got  into  a great  passion, and  cried  out  aloud,  “ Shut  up,  mountain-cleft ! ”
 and  accordingly  it  closed  upon  all  the  playing  children,
 who  were  not  able  to  escape,  but  were  now  buried  in  a
 cavern,  wide  at  the  bottom,  and  narrow  towards  the  top.
-
-
-TALES  AND  TRADITIONS.
-
-
-233
 
 
 The  babies  soon  began  to  cry  for  thirst,  and  the  girls
@@ -11181,25 +9380,17 @@ VIKIAK  was  travelling  to  the  north,  accompanied
 u by  one  son  and  two  daughters.  Whenever  he
 came  to  a favourable  shore,  the  son  kayaked  ahead
 of  them,  and  when  the  others  came  up  to  the  spot  they
-had  fixed  to  land  upon,  he  was  already  standing  in  wait-
-ing. They  generally  remained  on  land  for  the  night,
+had  fixed  to  land  upon,  he  was  already  standing  in  waiting. They  generally  remained  on  land  for  the  night,
 and  travelled  further  the  next  day  ; in  the  evening  the
 son  roamed  ahead,  as  usual,  to  await  them  ashore,  but
 when  they  landed  and  looked  for  him  he  was  not  to  be
 seen.  They  pushed  off  again,  and  having  doubled  a
 point  of  land  and  got  into  a bay,  they  saw  his  lifeless
-body,  standing  erect,  pierced  with  sharp  weapons  be-
-neath his  arms,  and  his  eyes  covered  with  some  of  his
+body,  standing  erect,  pierced  with  sharp  weapons  beneath his  arms,  and  his  eyes  covered  with  some  of  his
 entrails.  At  this  sight  his  father  groaned  with  despair,
 and  left  the  place  to  get  hold  of  the  murderers.  Some
 way  off  he  observed  some  tents,  and  he  went  and  asked,
 “ Have  ye  seen  no  travellers  pass  by  this  way?  ” “To
-
-
-234
-
-
-TALES  AND  TRADITIONS.
 
 
 be  sure  we  have : yesterday  a boat  passed  by  ; they
@@ -11216,40 +9407,27 @@ newly  passed  by.  Uvikiak  still  travelled  on,  with  his
 wife  and  his  two  daughters,  never  now  coming  on  shore
 in  the  night.  At  last  they  again  reached  some  tents,
 and  on  making  the  usual  inquiries,  got- the  answer  that
-a boat  had  lately  passed  by,  the  crew  of  which  were  sing-
-ing very  sadly  about  a young  man  they  had  killed  ; and
+a boat  had  lately  passed  by,  the  crew  of  which  were  singing very  sadly  about  a young  man  they  had  killed  ; and
 the  wrath  of  the  old  Uvikiak  somewhat  subsided  at  their
 
 
-TALES  AND  TRADITIONS.
-
-
-235
-
-
 mild  words.  They  continued  their  journey  for  several
-days  without  being-  able  to  sleep  in  the  night  for  excite-
-ment ; but  at  length  they  set  foot  on  the  spot  where  lived
+days  without  being-  able  to  sleep  in  the  night  for  excitement ; but  at  length  they  set  foot  on  the  spot  where  lived
 the  murderers.  They  put  in  and  landed  somewhat  at
 the  back  of  their  dwelling-place;  and  having  got  the  boat
-on  shore,  placed  it  keel  upwards,  and  gathered  crow-
-berry  plants  and  grass  to  cover  it  up  with.  Uvikiak’s
+on  shore,  placed  it  keel  upwards,  and  gathered  crowberry  plants  and  grass  to  cover  it  up  with.  Uvikiak’s
 wife  betook  herself  under  the  boat,  while  he  himself  went
 away  with  his  daughters  across  the  isthmus.  They
 soon  heard  a noise,  and  listening  on  one  of  the  nearest
-hills,  just  above  the  spot  where  they  used  to  have  danc-
-ing and  other  games, — they  heard  distinctly  that  one  of
+hills,  just  above  the  spot  where  they  used  to  have  dancing and  other  games, — they  heard  distinctly  that  one  of
 them  was  singing  about  Uvikiak’s  son.  The  song  being
 finished,  two  young  men  came  walking  up-hill,  flushed
 with  heat  and  quite  undressed.  The  new-comers  at  once
-inquired  something  about  the  singers.  “ It  is  our  mas-
-ter,” they  answered ; “ he  was  just  singing  about  a young
+inquired  something  about  the  singers.  “ It  is  our  master,” they  answered ; “ he  was  just  singing  about  a young
 man  whom  we  happened  to  meet  with  down  in  the  south,
 and  killed — it  was  mighty  amusing  In  a great  rage,
-Uvikiak  instantly  seized  the  one  of  them,  and  the  daugh-
-ters the  other.  They  soon  got  the  better  of  both  ; and
-having  killed  them,  put  them  in  exactly  the  same  posi-
-tion as  that  in  which  they  had  seen  Uvikiak’s  son;  after
+Uvikiak  instantly  seized  the  one  of  them,  and  the  daughters the  other.  They  soon  got  the  better  of  both  ; and
+having  killed  them,  put  them  in  exactly  the  same  position as  that  in  which  they  had  seen  Uvikiak’s  son;  after
 which  they  hid  themselves  at  a little  distance.  They
 had  not  to  wait  long  before  they  heard  a cry  of  vengeance;
 but  their  hiding-place  was  not  discovered  ; and  they
@@ -11257,19 +9435,12 @@ escaped  without  any  harm,  and  then  returned  to  their
 home  in  the  south.
 
 
-TALES  AND  TRADITIONS.
-
-
-236
-
-
 35.
 
 
 THE  SUN  AND  THE  MOON.
 
-[This  tale,  one  of  the  few  already  mentioned  by  other  authors  on  Green-
-land, has  been  translated  from  one  of  the  oldest  manuscripts.]
+[This  tale,  one  of  the  few  already  mentioned  by  other  authors  on  Greenland, has  been  translated  from  one  of  the  oldest  manuscripts.]
 
 AN  old  married  couple  remained  at  home  while  their
 children  travelled  about  all  the  summer.  One
@@ -11298,21 +9469,13 @@ recognise  them  in  the  dark.  One  night  I was  curious  to
 know  the  one  who  had  chosen  me,  and  so  I went  and
 daubed  my  hands  with  soot  before  I joined  the  others.
 When  our  play  had  come  to  an  end,  I drew  my  hands
-along  his  back,  and  left  him,  and  was  the  first  who  en-
-tered the  house.  The  young  people  came  in,  one  after
-
-
-TALES  AND  TRADITIONS.
-
-
-237
+along  his  back,  and  left  him,  and  was  the  first  who  entered the  house.  The  young  people  came  in,  one  after
 
 
 another  undressed,  but  for  some  time  I observed  no
 marks.  Last  of  all  my  brother  entered,  and  I saw  at
 once  that  the  back  of  his  white  jacket  was  all  besmeared
-with  soot.  I took  a knife,  and  sharpened  it,  and  pro-
-ceeded to  cut  off  my  two  breasts,  and  gave  him  them,
+with  soot.  I took  a knife,  and  sharpened  it,  and  proceeded to  cut  off  my  two  breasts,  and  gave  him  them,
 saying,  ‘ Since  my  body  seems  to  please  thee,  pray  take
 these  and  eat  them.’  He  now  began  to  speak  indecently
 to  me,  and  courted  me  more  than  ever,  and  while  we
@@ -11335,16 +9498,9 @@ Note. — Among  the  rare  cases  which  we  have  of  any  Eskimo  tradition
 from  the  west  about  Behring  Straits,  the  above  legend  is  reported  as
 known  at  Point  Barrow,  and  was  communicated  to  John  Simpson,  surgeon
 on  board  the  Plover.  In  this  the  sister  says  to  the  brother,  “ Ta-man'g -
-ma  mam-mang-mang-an' g-ma  nigK-e-ro,”  which  corresponds  to  the  Green-
-landish  tamarma  mamarmat  ama  neriuk,  “ My  -whole person  being
+ma  mam-mang-mang-an' g-ma  nigK-e-ro,”  which  corresponds  to  the  Greenlandish  tamarma  mamarmat  ama  neriuk,  “ My  -whole person  being
 delicious , eat  this  also  ” — almost  the  same  words  as  in  one  of  the  copies  from
 Greenland.
-
-
-TALES  AND  TRADITIONS.
-
-
-238
 
 
 36.
@@ -11375,8 +9531,7 @@ evening  Nivnitak  said,  “To-morrow  I won’t  go  out
 hunting,  but  I intend  to  climb  the  highest  mountains  to
 have  a survey  of  the  sea  and  he  departed  early  on  the
 following  day,  and  returned  late  in  the  evening,  saying,
-“ I climbed  the  highest,  and  saw  the  frost-smoke  at  dif-
-ferent places  far  out  at  sea.  No  doubt  there  will  be  ani-
+“ I climbed  the  highest,  and  saw  the  frost-smoke  at  different places  far  out  at  sea.  No  doubt  there  will  be  ani-
 mals to  be  got  there  ; to-morrow  I shall  try.”  When
 the  midnight  stars  shone  brightest  he  left  the  house.
 He  gained  the  outermost  islets  at  dawn  of  day,  and
@@ -11386,29 +9541,20 @@ time  he  observed  the  haze  hanging  above  the  open
 water,  which  he  had  plainly  seen  from  the  hills  the  day
 
 
-TALES  AND  TRADITIONS.
-
-
-239
-
-
 before.  Meanwhile  his  house-fellows  were  anxiously
 expecting  him  ; when  all  of  a sudden  a noise  was  heard,
 and  soon  after  he  entered  the  house,  pushing  a seal  on
 before  him,  and  saying,  “ If  we  are  in  want  of  game,  I have
 found  a hole  where  plenty  of  seals,  large  as  well  as  small,
-are  to  be  had.”  But  at  this  speech  his  children  and  grand-
-children only  murmured  and  sulked  a little,  and  then
+are  to  be  had.”  But  at  this  speech  his  children  and  grandchildren only  murmured  and  sulked  a little,  and  then
 asked  for  a morsel  of  blubber.  The  next  morning  he  was
 again  off  at  an  early  hour,  and  did  not  return  till  late
 at  night,  when  the  same  noise  was  heard ; and,  covered
 with  sweat,  he  again  entered  the  room  with  a very  larg^
-seal.  This  day  the  young  men  had  risen,  and  were  sit-
-ting on  the  ledge  with  their  boots  on.  The  following
+seal.  This  day  the  young  men  had  risen,  and  were  sitting on  the  ledge  with  their  boots  on.  The  following
 night,  when  he  again  brought  in  a large  seal,  he  found
 them  mending  their  hunting  tools  ; and  on  the  ensuing
-morning  some  of  the  ablest  among  them  at  length  ac-
-companied him  ; but  because  of  their  slowness  he  ordered
+morning  some  of  the  ablest  among  them  at  length  accompanied him  ; but  because  of  their  slowness  he  ordered
 them  not  to  attack  the  larger  seals.  When  they  had  got
 at  the  aperture,  Nivnitak  roamed  about  by  himself  a
 little,  and  detected  the  marks  of  a sledge  leading  right
@@ -11418,10 +9564,8 @@ seals.  Dragging  them  along  by  the  tug-line,  he  now
 made  for  home  ; but  on  the  way  he  fancied  that  his
 grandchildren,  each  of  them  having  but  one  seal,  were
 too  slow  for  him,  and  prepared  to  leave  them,  saying,
-“Ye  know  your  way,  of  course,  and  can  go  on  by  your-
-selves.” Upon  which  he  proceeded  on  alone,  and  reached
-home  much  earlier  than  they.  When  they  were  all  sit-
-ting together  in  the  evening,  he  observed,  “ If  the  wea-
+“Ye  know  your  way,  of  course,  and  can  go  on  by  yourselves.” Upon  which  he  proceeded  on  alone,  and  reached
+home  much  earlier  than  they.  When  they  were  all  sitting together  in  the  evening,  he  observed,  “ If  the  wea-
 ther stands,  it  is  quite  a treat  to  go  out  hunting  ; now  ye
 may  stop  at  home  if  ye  like  : I will  take  care  that  we  do
 not  suffer  from  want  of  food.”  On  the  morrow  he  left  as
@@ -11429,12 +9573,6 @@ usual,  but  in  the  evening  they  expected  him  back  in
 vain.  Nivnitak  remembered  the  track  of  the  sledsre  he
 had  discovered  the  preceding  day  ; and  having  found  it,
 he  followed  it  across  the  sea.  The  mountains  of  his
-
-
-240
-
-
-TALES  AND  TRADITIONS.
 
 
 own  country  were  lost  to  his  sight,  but  others  appeared
@@ -11450,8 +9588,7 @@ he  saw  two  young  girls  sitting  close  to  the  wall,  and  he
 secretly  determined  that  they  should  be  his  future  wives.
 He  felt  very  hungry,  and  hoped  that  he  should  be
 offered  something  to  eat,  but  in  this  he  was  disappointed.
-After  a while  one  of  the  women  left  the  room,  but  pre-
-sently returned,  saying,  “Yonder  he  is  coming!”  on
+After  a while  one  of  the  women  left  the  room,  but  presently returned,  saying,  “Yonder  he  is  coming!”  on
 which  Nivnitak  looked  out  at  the  window,  and  saw  a
 man  running  along  the  ice  at  a great  rate,  tugging  two
 seals  after  him.  Near  the  beach  he  disappeared  among
@@ -11462,21 +9599,16 @@ the  poles  he  stopped.  Nivnitak  seated  himself,  and
 shortly  afterwards  the  other  man  entered,  seemingly
 pleased,  and  smiling  at  the  visitor.  Having  relieved
 himself  of  his  clothes,  he  took  a bear-skin  from  beneath
-the  ledge,  and  spreading  it  mid-way  on  the  floor,  ex-
-claimed, “ When  two  men  meet  for  the  first  time  they
+the  ledge,  and  spreading  it  mid-way  on  the  floor,  exclaimed, “ When  two  men  meet  for  the  first  time  they
 always  try  to  outdo  each  other ; let  us  have  a try.”
-Nivnitak  did  not  hesitate  a moment,  but  having  un-
-dressed himself  sat  down  on  the  skin  opposite  to  him,
+Nivnitak  did  not  hesitate  a moment,  but  having  undressed himself  sat  down  on  the  skin  opposite  to  him,
 hooked  his  hand  into  his  adversary’s  arms,  and  pulled
-away  with  all  might,  and  almost  succeeded  in  master-
-ing him.  They  then  stopped,  and  the  host  seated  him-
+away  with  all  might,  and  almost  succeeded  in  mastering him.  They  then  stopped,  and  the  host  seated  him-
 self on  the  main  bench  [ledge]  and  inquired  if  the  visitor
 had  got  anything  to  eat.  He  answered  “ No.”  “ Why,
 then,  make  haste  and  treat  him  to  your  best ; ” on  which
 the  women  set  forth  several  dishes.  Nivnitak  now  fell
 
-
-TALES  AND  TRADITIONS.  24 1
 
 eagerly  to,  and  when  the  host  was  going  to  begin  the
 dish  was  already  empty.  He  now  looked  at  the  two
@@ -11491,8 +9623,7 @@ we  have  plenty  of  good  hunting  hereabout.  Away  on
 the  ice  is  a place  where  the  thong-seals  have  their
 breathing-holes.”  When  they  were  about  to  retire  for
 the  night  he  added,  “ If  thou  wantest  a wife,  thou  art
-welcome  to  take  one  of  my  daughters.”  And  thus  Niv-
-nitak  became  his  son-in-law.  Next  day  the  father  put
+welcome  to  take  one  of  my  daughters.”  And  thus  Nivnitak  became  his  son-in-law.  Next  day  the  father  put
 on  the  jacket  of  seal-entrails  from  yesterday’s  hunt ; and
 they  wandered  a great  distance  on  the  ice  together  till
 they  reached  the  apertures  made  by  the  seals.  The
@@ -11501,8 +9632,7 @@ got  my  alacrity  thou  hadst  better  not  catch  more  than
 one  at  a time  ; it  is  as  much  as  I can  manage  to  drag
 along  two  of  them.”  Meanwhile  he  soon  caught  a couple
 of  them.  Nivnitak  thought,  I should  like  to  do  the
-same.  When  he  had  caught  the  first,  and  the  father-
-in-law  had  turned  a little  aside,  he  hastened  to  pull  up
+same.  When  he  had  caught  the  first,  and  the  fatherin-law  had  turned  a little  aside,  he  hastened  to  pull  up
 another,  and  thus  he  had  two.  They  now  prepared  to
 return,  hauling  their  seals  along  with  them,  the  host
 continually  observing  the  sun,  and  guiding  himself  by
@@ -11510,8 +9640,7 @@ it.  After  a while  he  said,  “ I suppose  thou  knowest  thy
 way  by  this  time  ; I think  I will  leave  thee  to  follow  in
 my  wake.”  When  the  father  entered  the  main  room  he
 said,  “ We  cannot  expect  him  before  late,  but  still  ye
-must  keep  a look-out  for  him.”  The  daughters  kept  wait-
-ing and  waiting  for  him,  but  he  did  not  come  home  till
+must  keep  a look-out  for  him.”  The  daughters  kept  waiting and  waiting  for  him,  but  he  did  not  come  home  till
 late  in  the  night.  The  father-in-law  never  spoke  to  him,
 but  the  daughters  were  delighted  to  see  him,  and  at
 once  cut  up  the  animals  ; but  when  they  were  preparing
@@ -11519,18 +9648,11 @@ once  cut  up  the  animals  ; but  when  they  were  preparing
 Q
 
 
-242
-
-
-TALES  AND  TRADITIONS.
-
-
 to  make  the  dress,  the  entrails  had  shrunk,  and  got  too
 small  ; and  this  was  the  reason  why  the  father  made
 such  haste  in  returning,  that  the  entrails  might  not  get
 cold  on  the  way,  lest  they  should  shrink  and  be  unfit
-for  use.  He  was  now  displeased  at  having  got  a son-
-in-law,  who  was  not  as  clever  as  he  wished  him  to  be.
+for  use.  He  was  now  displeased  at  having  got  a sonin-law,  who  was  not  as  clever  as  he  wished  him  to  be.
 They  went  out  together  all  the  same  next  day,  with  a
 similar  result,  and  on  the  way  home  the  father  again  told
 him,  that  as  he  could  not  keep  up  with  him,  he  would  go
@@ -11539,16 +9661,12 @@ to  himself,  “ To-day  I should  just  like  to  run  a race  with
 him.”  However,  he  soon  lost  sight  of  him,  and  lost  his
 way  besides  ; but  at  the  same  time  felt  that  his  burden
 was  getting  lighter.  He  continued  running  still  faster,
-and  turning  round  he  saw  that  his  two  seals  were  swing-
-ing round  in  the  air  after  him.  He  passed  by  his  host
-in  a great  circuit,  and  was  home  in  good  time  long  be-
-fore him.  His  wife  instantly  prepared  the  meal;  and
+and  turning  round  he  saw  that  his  two  seals  were  swinging round  in  the  air  after  him.  He  passed  by  his  host
+in  a great  circuit,  and  was  home  in  good  time  long  before him.  His  wife  instantly  prepared  the  meal;  and
 seeing  the  blown-up  entrails  clean  and  shining,  Nivnitak
 did  not  doubt  that  they  would  make  him  a nice  jacket.
-He  let  the  meat  be  kept  ready  dressed  for  his  father-in-
-law,  and  the  women  had  the  jacket  finished  even  before
-his  arrival.  He  put  it  on  at  once,  and  was  standing  out-
-side mending  his  tools  when  the  host  made  his  appear-
+He  let  the  meat  be  kept  ready  dressed  for  his  father-inlaw,  and  the  women  had  the  jacket  finished  even  before
+his  arrival.  He  put  it  on  at  once,  and  was  standing  outside mending  his  tools  when  the  host  made  his  appear-
 ance. At  first  sight  he  thought  that  some  visitor  had
 arrived  during  his  absence,  and  not  till  he  had  passed  the
 iceberg  did  he  recognise  Nivnitak;  but  on  finding  it  to  be
@@ -11564,19 +9682,12 @@ his  home  and  his  grandchildren,  and  would  not  leave  his
 young  wives.  One  day  his  father-in-law  accosted  him,
 
 
-TALES  AND  TRADITIONS.
-
-
-243
-
-
 saying,  “ The  moon  is  now  in  the  crescent,  and  our
 neighbours  will  be  coming  to  pay  us  a visit  and  practice
 ball-playing;  to-morrow  I shall  stay  at  home  and  make
 tools  for  the  games,  and  we  must  all  be  smart  and  trim
 in  new  dresses.”  Next  day  Nivnitak  likewise  stayed  at
-home,  and  his  father-in-law  brought  in  six  large  shoul-
-der-blades of  walrus.  While  preparing  them  he  said,
+home,  and  his  father-in-law  brought  in  six  large  shoulder-blades of  walrus.  While  preparing  them  he  said,
 “ When  the  play  has  begun,  and  the  ball  has  been
 thrown,  we  must  follow  its  course,  and  always  be  ready
 to  strike  it ; if  any  one  throws  it  wrong  we  shan’t  win  ;
@@ -11596,28 +9707,19 @@ we  are  with  our  new  relative  Nivnitak  ! Let  the  play
 begin  at  once  ! ” The  strangers  answered  with  a loud
 yell.  The  ball,  consisting  of  a large  seal-skin  stuffed
 with  sand  and  clay,  and  fashioned  like  a real  seal,  was
-now  brought  out  ; and  the  master  of  the  house  deter-
-mined that  Nivnitak,  being  the  most  dexterous,  should
+now  brought  out  ; and  the  master  of  the  house  determined that  Nivnitak,  being  the  most  dexterous,  should
 stand  next  to  the  adversaries.  He  then  began  the  play
 by  throwing  the  ball  to  his  wife  ; and  she  running  along
 beneath  it,  thr-ust  it  to  her  younger  daughter,  she  in  her
 turn  to  her  elder  sister,  and  she  to  her  husband.  But
-when  Nivnitak  was  about  to  strike  it,  he  thought  to  him-
-self, “ I only  wish  I may  do  well.”  That  instant  the
+when  Nivnitak  was  about  to  strike  it,  he  thought  to  himself, “ I only  wish  I may  do  well.”  That  instant  the
 ball  hit  him  with  its  whole  force  and  knocked  him  down,
 so  that  he  was  unable  to  rise.  On  this  the  enemies
 shouted  and  yelled  in  great  triumph,  and  took  up  the
 
 
-244
-
-
-TALES  AND  TRADITIONS.
-
-
 ball,  carrying  it  towards  their  dwelling-place.  Their
-opponents,  however,  pursued  them,  but  without  any  re-
-sult ; and  on  turning  round  the  host  saw  a multitude  of
+opponents,  however,  pursued  them,  but  without  any  result ; and  on  turning  round  the  host  saw  a multitude  of
 people,  and  not  observing  Nivnitak  among  them,  he
 suspected  some  evil.  Hurrying  on  to  his  assistance  he
 found  him  almost  dying.  Some  were  filling  his  clothes
@@ -11633,38 +9735,26 @@ very  nice  in  his  new  suit ; but  the  father-in-law  once
 more  admonished  him,  saying,  “ We  must  do  our  utmost
 to  vanquish  them,  and  if  thou  doest  wrong  this  time,  we
 will  have  nothing  more  to  do  with  thee.”  Nivnitak,
-however,  did  not  deign  to  answer  him.  Having  ap-
-proached the  abode  of  the  neighbours,  a tumultuous
+however,  did  not  deign  to  answer  him.  Having  approached the  abode  of  the  neighbours,  a tumultuous
 roar  was  raised  to  welcome  them,  as  was  the  custom,
 and  the  ball  was  soon  brought  down  on  the  ice.  They
-posted  themselves  in  the  same  way  as  last  time,  and  be-
-gan the  play  according  to  the  former  rules.  When  it
+posted  themselves  in  the  same  way  as  last  time,  and  began the  play  according  to  the  former  rules.  When  it
 was  Nivnitak’s  turn  to  strike,  he  gave  the  ball  such  a
 blow  that  it  turned  round  in  the  air,  and  then  flew
 straight  forward.  It  was  now  the  father-in-law’s  turn
 to  run  for  it ; but  Nivnitak  had  already  reached  it,  and
 hit  it  a second  time.  The  adversaries  now  advanced
-to  give  it  a stroke ; Nivnitak,  however,  always  fore-
-stalled them  in  getting  up  with  it,  and  sending  it
+to  give  it  a stroke ; Nivnitak,  however,  always  forestalled them  in  getting  up  with  it,  and  sending  it
 higher  and  higher  aloft.  Nobody  could  cope  with  him,
 and  thus  he  went  on,  pursuing  the  ball  until  he  at  length
 reached  home.  Their  rivals  had  at  last  to  give  in,
-and  retired  to  their  house  very  much  dejected,  and  Niv-
-nitak’s host  cried  out  to  them,  “ To-day  ye  lost  the  game,
+and  retired  to  their  house  very  much  dejected,  and  Nivnitak’s host  cried  out  to  them,  “ To-day  ye  lost  the  game,
 better  luck  next  time!”  On  the  way  home  he  kept
 
 
-TALES  AND  TRADITIONS.
-
-
-245
-
-
-constantly  repeating,  “ That’s  right,  we  will  always  suc-
-ceed in  the  end.”  It  was  only  now  that  Nivnitak  under-
+constantly  repeating,  “ That’s  right,  we  will  always  succeed in  the  end.”  It  was  only  now  that  Nivnitak  under-
 stood what  the  other  had  meant  by  saying  so  before.
-Some  time  after,  Nivnitak  began  to  think  of  his  old  rela-
-tives whom  he  had  left  in  poverty  and  want ; and  one
+Some  time  after,  Nivnitak  began  to  think  of  his  old  relatives whom  he  had  left  in  poverty  and  want ; and  one
 day  returning  from  his  hunt  he  said  to  his  wives,  “ Make
 me  a suit  of  tight  clothes,  jacket,  breeches,  and  boots.”
 They  at  once  set  to  work,  and  when  the  clothes  were
@@ -11681,22 +9771,14 @@ beside  them.  For  several  nights  afterwards  he  repeated
 his  attempts,  but  was  always  obliged  to  turn  in  again.
 
 
-One  night  he  succeeded  in  getting  down  without  any-
-body awaking.  In  order,  however,  to  make  quite  sure
+One  night  he  succeeded  in  getting  down  without  anybody awaking.  In  order,  however,  to  make  quite  sure
 that  they  were  all  fast  asleep,  he  again  stepped  up  on
 the  ledge.  On  finding  that  the  noise  had  awakened  no-
 
 
-246
-
-
-TALES  AND  TRADITIONS.
-
-
 body,  he  jumped  down  on  the  floor  above  the  entrance
 of  the  room,  and  gliding  out  noiselessly,  he  went  and
-dressed  himself  in  his  tight  clothes,  which  had  been  hid-
-den beneath  the  boat.  Having  also  put  on  his  outer
+dressed  himself  in  his  tight  clothes,  which  had  been  hidden beneath  the  boat.  Having  also  put  on  his  outer
 coat,  which  was  hanging  on  the  poles  outside  the  house,
 he  took  hold  of  his  spear,  and  climbed  the  low  roof  of
 the  house,  and  sallied  forth  in  the  opposite  direction  he
@@ -11713,10 +9795,8 @@ formed  plenty  of  round  circles  on  the  ice,  he  jumped
 ashore  and  climbed  an  edge  of  the  rock,  where  he  stuffed
 his  outer  coat  well  with  moss,  and  again  leaped  down.
 On  the  ice  he  built  a snow-hut,  and  placed  the  stuffed
-coat  inside  it,  spear  in  hand,  with  the  back  turned  out-
-wards, that  it  might  resemble  a living  man.  After  this
-he  again  went  back,  and  climbed  the  steep  rock,  await-
-ing the  arrival  of  the  pursuers.  At  sunrise  several  people
+coat  inside  it,  spear  in  hand,  with  the  back  turned  outwards, that  it  might  resemble  a living  man.  After  this
+he  again  went  back,  and  climbed  the  steep  rock,  awaiting the  arrival  of  the  pursuers.  At  sunrise  several  people
 who  had  come  out  in  search  of  him  were  to  be  seen  on
 the  ice,  sometimes  single,  sometimes  making  joint  efforts
 to  find  the  track.  At  last,  halting  at  the  snow-house,
@@ -11731,12 +9811,6 @@ satisfied  that  they  had  killed  him.  When  they  had
 quite  disappeared,  Nivnitak  again  leapt  down  the  rocks.
 
 
-TALES  AND  TRADITIONS,
-
-
-247
-
-
 The  sun  was  then  high  in  the  heavens  ; but  before  it  had
 quite  set,  he  reached  the  shore  of  his  own  country,  and
 found  his  grandchildren,  who  had  totally  given  him  up,
@@ -11747,15 +9821,8 @@ native  place ; but  having  arrived  there,  he  determined
 
 to  spend  the  rest  of  his  days  in  this  place,  and  did  not
 travel  any  more.  He  lived  to  see  his  grandchildren’s
-grandchildren,  but  at  length  the  flesh  of  his  body  be-
-came all  shrivelled  and  shrunk ; and  finally,  at  a very
+grandchildren,  but  at  length  the  flesh  of  his  body  became all  shrivelled  and  shrunk ; and  finally,  at  a very
 old  age,  he  died.
-
-
-248
-
-
-TALES  AND  TRADITIONS.
 
 
 3 7.
@@ -11781,8 +9848,7 @@ he  was  an  excellent  hand  at  harpooning.  His  eldest
 sister  used  to  follow  him  along  the  shore,  where  she
 amused  herself  by  catching  partridges  in  little  traps,  and
 generally  got  a good  many.  At  a time  when  the  sea
-was  frozen  over,  they  one  day  went  away  to  the  outer-
-most islets.  There  the  brother  saw  a fox  and  set  off  to
+was  frozen  over,  they  one  day  went  away  to  the  outermost islets.  There  the  brother  saw  a fox  and  set  off  to
 pursue  it.  After  a short  absence  among  the  islets,  he
 returned  with  the  fox  ; but  meanwhile  the  sister  was
 ■gone.  He  looked  for  her  everywhere,  and  called  out,
@@ -11796,12 +9862,6 @@ making  him  one.  The  next  morning  the  son  set  out  on
 foot,  but  returned  at  nightfall  without  having  killed
 anything,  and  went  to  sleep  without  saying  a word.  In
 the  morning  he  asked  his  father  to  provide  him  with
-
-
-TALES  AND  TRADITIONS.
-
-
-249
 
 
 some  cords,  saying  that  he  wanted  to  fetch  home  an
@@ -11836,25 +9896,17 @@ however,  they  pulled  very  well  together  ; but  now  he
 wanted  a third  one,  and  having  set  out  for  it  in  the
 morning,  he  did  not  return  till  late  at  night,  when  his
 parents  had  long  been  quite  miserable  on  account  of
-his  long  absence  ; and  he  went  to  sleep  as  before  with-
-out speaking  to  any  one.  The  next  morning  he  applied
+his  long  absence  ; and  he  went  to  sleep  as  before  without speaking  to  any  one.  The  next  morning  he  applied
 to  his  father  for  strings  and  lashings,  but  this  time  none
 but  the  very  strongest  would  serve  him  ; having  got
 them,  he  went  off  as  usual.  In  the  evening  there  was
 a terrible  noise  outside,  for  now  he  had  got  the  bear,
 
 
-250
-
-
-TALES  AND  TRADITIONS.
-
-
 the  amarok,  and  an  agshik  (a  fabulous  monster)  fighting
 each  other.  At  length  he  had  them  all  tamed  and
 trained ; and  he  once  more  turned  to  his  father,  saying,
-“All  I wish  for  is  a sledge.”  His  father  was  quite  will-
-ing, and  made  him  one  of  very  hard  wood,  with  many
+“All  I wish  for  is  a sledge.”  His  father  was  quite  willing, and  made  him  one  of  very  hard  wood,  with  many
 knots  in  it.  When  the  sea  was  frozen  over,  he  went  out
 to  try  his  team,  following  the  coast  southwards,  and
 returned  towards  evening  on  the  same  day.  When  his
@@ -11868,8 +9920,7 @@ incapable  of  tiring,  and  will  be  of  great  use  to  me.”  The
 next  day  he  travelled  on  in  the  same  manner  to  the
 north,  returning  home  at  night  ; and  having  made  some
 similar  remarks,  he  added,  “ The  agshik,  I find,  is  soon
-provoked,  and  goes  off  in  a fury  ; he  will  be  rather  dan-
-gerous for  strangers  to  encounter.”  The  ice  now  cover-
+provoked,  and  goes  off  in  a fury  ; he  will  be  rather  dangerous for  strangers  to  encounter.”  The  ice  now  cover-
 ing the  sea  all  over,  and  not  having  broken  up,  although
 it  had  been  very  stormy,  he  supposed  he  might  trust
 himself  out  on  it ; and  the  weather  again  became  settled
@@ -11878,8 +9929,7 @@ and  beautiful.  He  then  spoke  to  his  parents  thus :
 with  my  sister  and  lost  her  there  ? Since  that  day  I
 have  sought  her  far  and  near  all  over  our  country  :
 where  can  she  have  gone  to  ? Not  even  the  bones  of
-her  corpse  did  I find  ; but  on  the  day  I lost  her,  in  look-
-ing for  her,  I noticed  the  marks  of  a sledge  on  the  ice,
+her  corpse  did  I find  ; but  on  the  day  I lost  her,  in  looking for  her,  I noticed  the  marks  of  a sledge  on  the  ice,
 leading  right  to  sea.  Any  other  trace  of  her  I have
 never  seen  ; and  therefore  I should  now  like  to  go  across
 to  Akilinek,  as  I shall  certainly  not  be  at  rest  until  I
@@ -11887,12 +9937,6 @@ have  found  her.”  The  parents  tried  to  persuade  him  to
 stay,  saying,  “ It  does  not  matter  for  thy  sister,  who
 has  been  lost  to  us  for  such  a great  length  of  time ;
 don’t  go  away  in  search  of  her  as  far  away  as  that,  but
-
-
-TALES  AND  TRADITIONS.
-
-
-251
 
 
 bear  in  mind  thou  art  now  our  only  provider.  Out
@@ -11916,8 +9960,7 @@ had  made  fast  his  animals  to  an  iceberg  near  the  strand,
 and  went  to  shore  himself  to  see  if  any  people  were  to
 be  found  there.  He  had  not  walked  long  before  he  saw
 a number  of  houses,  which  made  him  stop  and  consider;
-but  after  a while  he  advanced,  and  having  found  an  en-
-trance, he  walked  up  to  a large  house  and  went  inside.
+but  after  a while  he  advanced,  and  having  found  an  entrance, he  walked  up  to  a large  house  and  went  inside.
 Having  entered  and  given  the  inmates  a look,  he  at
 once  recognised  his  sister  sitting  down  with  a baby  on
 her  lap.  When  he  had  seated  himself  on  the  side  bench,
@@ -11929,12 +9972,8 @@ this  place,  and  that  is  the  reason  why  thou  seest  me
 here.  I am  married,  but  at  present  my  husband  is  out
 as  usual.  However,  I expect  him  home  very  soon,  and
 when  he  comes  thou  must  look  at  him  well.”  The
-brother  now  rejoined,  “ Since  that  day  I have  done  no-
-thing but  try  to  find  thee  out  ; all  over  the  country  I
+brother  now  rejoined,  “ Since  that  day  I have  done  nothing but  try  to  find  thee  out  ; all  over  the  country  I
 have  travelled  in  search  of  thee  ; how  lucky  it  is  that  I
-
-
-TALES  AND  TRADITIONS.
 
 
 0“
@@ -11965,11 +10004,9 @@ more  about  her  in  future  ; and  further,  he  proposed  that
 they  should  come  and  visit  him  and  his  parents  on  the
 opposite  shore.  But  his  brother-in-law  did  not  fancy
 this  much  : he  gave  as  a pretext  that  the  cold  would  be
-too  severe  for  the  children.  Both  now  wanted  to  per-
-suade him  to  stay,  but  he  said  he  must  needs  go  and
+too  severe  for  the  children.  Both  now  wanted  to  persuade him  to  stay,  but  he  said  he  must  needs  go  and
 look  after  his  animals,  without  mention  of  what  kind
-they  were.  His  relatives  gave  him  some  of  the  chil-
-dren’s clothes  for  a gift  to  the  parents  : he  put  them  on
+they  were.  His  relatives  gave  him  some  of  the  children’s clothes  for  a gift  to  the  parents  : he  put  them  on
 his  shoulders,  went  to  his  sledge,  and  departed.  When
 he  had  got  so  far  that  he  had  lost  sight  of  the  land,  the
 bear  again  got  tired,  and  was  taken  in  beside  him.  On
@@ -11977,12 +10014,6 @@ his  return,  his  parents  rejoiced  greatly  at  seeing  the
 clothes  of  their  daughter’s  little  children,  and  on  hearing
 that  their  long-missed  daughter  was  coming  to  visit
 them.  One  day  during  fine  weather,  when  they  were
-
-
-254
-
-
-TALES  AND  TRADITIONS.
 
 
 anxiously  expecting  them,  sledges  were  seen  coming
@@ -12005,8 +10036,7 @@ likelihood  he  devoured  them  all.  The  brother  did  not
 go  in  search  of  them,  as  he  did  not  expect  any  of  them
 to  be  alive.
 
-Note. — The  tale  here  given  is  nearly  literally  translated  from  one  manu-
-script; besides  which  three  copies  have  been  received, and  one  verbal  narration
+Note. — The  tale  here  given  is  nearly  literally  translated  from  one  manuscript; besides  which  three  copies  have  been  received, and  one  verbal  narration
 has  been  written  down  by  the  author  himself.  The  latter,  comprising  the
 most  frequent  variations  of  the  tale,  substitutes  a cousjn  in  the  place  of  the
 brother.  When  he  had  turned  mute  and  sorrowful  on  account  of  his
@@ -12023,17 +10053,10 @@ pass  by,  flying  over  their  heads.  At  the  same  moment  the  old  animal,
 which  had  till  then  been  couchant,  bounded  into  the  air,  snatching  the
 body  of  the  sparrow  so  that  the  wings  fell  to  the  ground  separately,  at  the
 sight  of  which  the  man  had  been  struck  with  terror,  and  fled  the  spot  for
-ever.  The  visitor  on  hearing  this  asked  exact  information  about  the  lo-
-cality of  the  place,  and  having  returned  to  his  father,  made  ready  for  an
+ever.  The  visitor  on  hearing  this  asked  exact  information  about  the  locality of  the  place,  and  having  returned  to  his  father,  made  ready  for  an
 excursion,  upon  which  he  captured  a kukissook.  The  remaining  part  of
 the  story  agrees  with  the  version  given.  But  when  the  cousin  with  her
 husband  and  child  comes  to  visit  their  relatives,  instead  of  being  frightened
-
-
-TALES  AND  TRADITIONS.
-
-
-255
 
 
 and  turning  back,  they  decided  to  stay  with  them  ; but  the  brother-in-law
@@ -12061,8 +10084,7 @@ large  house.  Among  them  was  a man  named
 Ussungussak,  who  generally  came  home  empty-handed,
 when  all  the  others  returned  with  what  they  had  caught,
 for  which  his  wife  used  to  scold  him.  One  night  she  had
-gone  on  rating  him  worse  than  usual,  and  in  the  morn-
-ing he  had  disappeared.  Ele  kayaked  along  shore,  and
+gone  on  rating  him  worse  than  usual,  and  in  the  morning he  had  disappeared.  Ele  kayaked  along  shore,  and
 having  rounded  a point  he  saw  a man  standing  on  the
 beach.  At  first  he  was  frightened  ; but  then  he  thought
 a little,  and  finally  concluded,  “Why  should  I be  afraid
@@ -12076,35 +10098,25 @@ wandered  along  together  and  came  to  the  gulf  of  the
 earth.  There,  poor  Ussungussak  began  to  whine  and
 
 
-256
-
-
-TALES  AND  TRADITIONS.
-
-
 howl  ; but  the  inlander  put  a cord  round  his  neck,
 straining  it  so  hard  that  he  was  nearly  choked  ; when
 he  again  untied  him,  however,  they  had  safely  passed
 the  fearful  precipice.  Having  next  crossed  a beautiful
 meadow,  they  gained  the  house  of  the  inlander,  who
-had  a wife  but  no  children.  In  the  morning  Ussungus-
-sak  was  ordered  to  remain  at  home,  while  the  master  of
+had  a wife  but  no  children.  In  the  morning  Ussungussak  was  ordered  to  remain  at  home,  while  the  master  of
 the  house  went  away  himself,  and  returned  very  noisily
 in  the  evening  with  what  he  had  taken.  In  this  way
 several  days  went  by  ; but  at  length  Ussungussak  got
-desirous  to  see  his  own  home,  and  the  inlander  accom-
-panied him  on  the  way.  This  time  they  did  not  see  the
+desirous  to  see  his  own  home,  and  the  inlander  accompanied him  on  the  way.  This  time  they  did  not  see  the
 precipice  ; but  arriving  at  the  coast  they  saw  a great
 many  killed  seals  on  the  beach,  being  those  which  the
 inlander,  standing  on  shore,  had  caught  in  his  trap.
-When  Ussungussak  was  about  to  take  leave,  the  in-
-lander said,  “ Henceforth  thou  canst  take  some  of  these
+When  Ussungussak  was  about  to  take  leave,  the  inlander said,  “ Henceforth  thou  canst  take  some  of  these
 seals,  but  mind,  thou  art  not  to  be  too  greedy : thou
 inayst  take  one  at  a time  to  begin  with  ; afterwards
 thou  mayst  take  two.”  Ussungussak  then  returned  to
 his  homestead  and  housemates,  who  were  having  good
-hunting  at  the  time.  The  next  day  he  again  disap-
-peared, but  in  the  evening  returned  with  two  seals.
+hunting  at  the  time.  The  next  day  he  again  disappeared, but  in  the  evening  returned  with  two  seals.
 The  following  day  he  brought  home  three  ; the  others
 asked  him  whereabouts  he  had  got  them.  He  answered,
 “ Out  at  the  most  seaward  place  ; ” and  they  demanded
@@ -12115,24 +10127,17 @@ again  scolded  by  his  wife.  The  day  after  he  left  as
 before,  and  kayaking  along  shore  he  at  length  turned
 a point,  and  again  beheld  the  inlander.  This  time  he
 willingly  approached  him  when  he  was  called,  and  went
-along  with  him  ; but  when  they  had  gained  the  preci-
-pice, he  did  not  get  over  this  time,  but  was  fairly
-strangled.  When  Ussungussak’s  relations  and  house-
-mates had  been  expecting  him  in  vain  for  five  days,  one
-
-
-TALES  AND  TRADITIONS.
+along  with  him  ; but  when  they  had  gained  the  precipice, he  did  not  get  over  this  time,  but  was  fairly
+strangled.  When  Ussungussak’s  relations  and  housemates had  been  expecting  him  in  vain  for  five  days,  one
 
 
 25  7
 
 
-of  the  kayakers  went  out  in  search  of  him.  He  en-
-countered the  inlander,  and  asked  him  whether  he  had
+of  the  kayakers  went  out  in  search  of  him.  He  encountered the  inlander,  and  asked  him  whether  he  had
 not  seen  a man.  “ To  be  sure  I have,  and  I killed  him
 myself!”  At  this  the  other  thrust  his  harpoon  at  him,
-and  he  ran  on  with  the  hunting-bladder  dragging  be-
-hind him,  and  thus  disappeared.  The  coastman  now
+and  he  ran  on  with  the  hunting-bladder  dragging  behind him,  and  thus  disappeared.  The  coastman  now
 took  his  spear  and  bladder-arrow,  following  him  swiftly,
 
 
@@ -12147,27 +10152,19 @@ cut  him  up,  and  put  his  knee  on  the  nape  of  his  neck.
 R
 
 
-258
-
-
-TALES  AND  TRADITIONS.
-
-
 39.
 
 
 THE  CHILD-MONSTER.
 
 AMONGST  a number  of  people  who  lived  in  the
-same  house,  one  woman  was  in  the  act  of  child-
-birth, when  all  of  a sudden  the  midwife  attending  her
+same  house,  one  woman  was  in  the  act  of  childbirth, when  all  of  a sudden  the  midwife  attending  her
 cried  out  in  great  dismay,  “ Ah,  it  is  a monster,
 with  great  big  teeth  ; it  is  tearing  my  arm  ! ” As  she
 spoke,  all  the  inmates  fled  away  to  the  boat,  which
 was  turned  keel  upwards,  and  to  the  top  of  a great
 rock  ; only  two  boys  with  their  sister  could  find  no
-room  there,  and  they  therefore  hurried  out  to  the  pro-
-vision-house. Meantime  the  monster  appeared,  drag-
+room  there,  and  they  therefore  hurried  out  to  the  provision-house. Meantime  the  monster  appeared,  drag-
 ging along  his  own  mother,  her  hair  all  loose  and
 flying  about  her,  and  it  soon  turned  upon  those  on
 the  boat.  Not  being  able  itself  to  climb,  it  ate  away
@@ -12192,12 +10189,6 @@ some  one  saying,  “They  have  probably  themselves  put
 their  housemates  to  death,  though  they  tell  us  a different
 
 
-TALES  AND  TRADITIONS.
-
-
-259
-
-
 story.  The  safest  thing  will  be  to  have  them  killed  in
 the  morning.”  At  this  speech  she  got  greatly  alarmed,
 and  when  the  others  had  gone  off  to  sleep,  she  roused
@@ -12208,14 +10199,12 @@ night,  the  sister  took  one  of  her  brother’s  boots  and
 thrust  it  several  times  against  the  house-door,  at  the
 same  time  pronouncing  a spell,  that  the  people  within
 might  all  perish.  Pursuing  their  way,  they  fell  in  with
-a man  of  extraordinary  size,  carrying  one  half  of  a rein-
-deer on  his  shoulders.  The  sister  said  to  the  youngest
+a man  of  extraordinary  size,  carrying  one  half  of  a reindeer on  his  shoulders.  The  sister  said  to  the  youngest
 brother,  “ Go  and  try  to  make  him  understand  why  we
 have  come  here ; ” and  she  told  him  how  to  put  his
 words.  When  the  boy  had  finished,  the  big  man  took
 them  along  with  him  to  his  own  house,  the  interior  of
-which  was  nicely  furnished  and  hung  with  reindeer-
-skins all  along  the  walls.  There  they  remained,  and
+which  was  nicely  furnished  and  hung  with  reindeerskins all  along  the  walls.  There  they  remained,  and
 made  a meal  upon  some  dry  meat.  This  done,  the  girl
 said  to  her  brothers,  “ Reindeer-meat  is  good  eating,  no
 doubt;  but  what  would  make  it  eat  .still  better?” —
@@ -12223,8 +10212,7 @@ doubt;  but  what  would  make  it  eat  .still  better?” —
 “ So  thou  must  make  haste  and  go  out  and  get  some.”
 Off  they  went  ; a flapping  of  wings  was  presently  heard,
 and  lots  of  birds  were  brought  into  the  house.  While
-they  were  busy  eating  them,  the  sister  repeated,  “ Par-
-tridges are  very  nice,  sure  enough  ; but  what  would  make
+they  were  busy  eating  them,  the  sister  repeated,  “ Partridges are  very  nice,  sure  enough  ; but  what  would  make
 them  eat  still  better?  ” — “ Mixing  them  up  with  some  nice
 hares,  to  be  sure  ! ” — &c. ; and  so  they  went  out  and  caught
 a great  many  hares.  The  sister  once  more  repeated  what
@@ -12232,36 +10220,29 @@ she  had  said,  mentioning  all  kinds  of  game  and  fowls,
 and  at  last  she  said,  “ Young  serdlernaks  (fabulous  birds)
 are  exceedingly  nice,  but  the  large  ones, — oh,  be  quick,
 be  quick  ! ” But  the  huge  man  said,  “ I never  hunted
-that  fowl  without  some  misgivings  ; when  she  is  hatch-
-ing her  eggs  on  the  lee  side  of  yonder  point,  and  catches
+that  fowl  without  some  misgivings  ; when  she  is  hatching her  eggs  on  the  lee  side  of  yonder  point,  and  catches
 the  seals,  she  is  rather  dangerous.”  Still,  they  all  ran
 
 
 26o
 
 
-TALES  AND  TRADITIONS.
-
-
 out  to  have  a look  at  it ; but  seeing  it  perched  on  its
 rock,  and  sometimes  rising  to  snatch  at  them,  they  were
-afraid,  and  again  retired  ; only  the  younger  brother  re-
-mained, and  was  torn  asunder  by  it.  Then  the  sister
+afraid,  and  again  retired  ; only  the  younger  brother  remained, and  was  torn  asunder  by  it.  Then  the  sister
 shouted,  “It  is  now  time  for  me  to  interfere;”  upon
 which  they  all  ran  out  together  ; she  quickly  pulled  out
 her  boot,  struck  at  the  bird  with  it,  and  killed  it  on  the
 spot.  She  now  cut  it  up,  and  found  its  pouch  filled  with
 seal-bones,  among  which  she  likewise  found  those  of  her
-brother.  When  these  had  all  been  singled  out,  she  car-
-ried them  with  her.  While  she  was  yet  on  the  way,  she
+brother.  When  these  had  all  been  singled  out,  she  carried them  with  her.  While  she  was  yet  on  the  way,  she
 felt  them  move ; and  when  they  got  close  to  the  house
 she  put  them  down,  and  the  brother  quickly  revived,
 seemingly  quite  unhurt,  and  they  all  of  them  reached
 home  safely.
 
 Note. — We  find  several  stories  treating  of  this  same  subject,  generally
-representing  the  monster  as  the  revenger  of  some  act  of  atrocity  or  misbe-
-haviour and  injustice.  In  one  of  them  the  monster  at  first  is  an  imbecile
+representing  the  monster  as  the  revenger  of  some  act  of  atrocity  or  misbehaviour and  injustice.  In  one  of  them  the  monster  at  first  is  an  imbecile
 child,  called  Tungavik,  neglected  and  ill-treated  by  its  housemates,  till  all
 of  a sudden,  having  been  mute  before,  it  acquired  the  faculty  of  speech,
 and  set  to  eating  its  mother’s  breast,  afterwards  devouring  both  its  parents
@@ -12283,27 +10264,17 @@ HERE  was  once  a man  who  had  several  sons  ; of
 
 
 I these,  the  second  son  turned  kivigtok  (viz.,  fled
-the  society  of  mankind).  This  happened  in  the  winter-
-time ; but  next  summer  the  father,  as  well  as  his  other
-
-
-TALES  AND  TRADITIONS.
-
-
-261
+the  society  of  mankind).  This  happened  in  the  wintertime ; but  next  summer  the  father,  as  well  as  his  other
 
 
 sons,  went  away  from  home  in  order  to  search  for  the
 fugitive.  In  this  manner  summer  went  by  and  winter
 came  round,  but  still  they  had  not  found  him.  When
-summer  was  again  approaching,  they  made  all  prepara-
-tions for  another  search,  this  time  to  other  places,  along
+summer  was  again  approaching,  they  made  all  preparations for  another  search,  this  time  to  other  places,  along
 another  firth.  Late  in  autumn  they  at  length  chanced
 to  find  out  his  solitary  abode,  in  an  out-of-the-way
-place,  after  having  traversed  the  country  in  every  direc-
-tion for  ever  so  long.  His  habitation  was  a cave  or
-hollow  in  a rock,  the  inside  being  covered  with  reindeer-
-skin, and  the  entrance  of  which  had  been  carefully
+place,  after  having  traversed  the  country  in  every  direction for  ever  so  long.  His  habitation  was  a cave  or
+hollow  in  a rock,  the  inside  being  covered  with  reindeerskin, and  the  entrance  of  which  had  been  carefully
 closed  up.  At  the  time  of  their  arrival  the  kivigtok
 was  still  out  hunting  ; but  a little  later  they  saw  him
 advance  towards  the  place  from  the  inland,  dragging  a
@@ -12319,8 +10290,7 @@ must  come  home  with  us;”  and  he  answered,  “Yes,
 that  I will.”  They  remained  in  the  cave  during  the
 night,  enjoying  each  other’s  company.  Next  day  they
 had  much  to  do  with  the  things  that  had  to  be  taken
-back  with  them,  the  store-room,  besides  his  dwelling-
-place,  being  filled  with  dry  meat  and  skins.  They
+back  with  them,  the  store-room,  besides  his  dwellingplace,  being  filled  with  dry  meat  and  skins.  They
 tied  up  bundles  to  be  taken  down  one  by  one  to  the
 tent  of  his  relatives,  which  was  pitched  at  some  distance
 near  the  firth  by  which  they  were  to  travel  home.
@@ -12332,14 +10302,7 @@ things.”  They  went  without  him  ; but  on  their  return
 the  kivigtok  had  disappeared,  and  taken  the  remainder
 
 
-262
-
-
-TALES  AND  TRADITIONS.
-
-
-of  the  provisions  with  him,  and  the  brothers  grew  ex-
-ceedingly vexed  with  themselves,  that  they  had  thus
+of  the  provisions  with  him,  and  the  brothers  grew  exceedingly vexed  with  themselves,  that  they  had  thus
 relied  on  his  word,  without  leaving  any  one  in  charge  of
 him.  But  all  too  late.  Some  time  afterwards,  when
 they  had  gone  out  again  to  look  for  him,  he  terrified
@@ -12376,15 +10339,11 @@ dwelling-place  in  the  gull's-hill,  as  he  wished  to  marry
 or  spirits,  having  their  abodes  in  the  rocks  along  the  sea.
 
 
-TALES  AND  TRADITIONS.  263
-
 her.  She  followed  him  reluctantly;  but  when  he  opened
-it  to  her,  she  noticed  that  it  was  covered  with  reindeer-
-skins on  the  walls,  and  on  the  whole  looked  quite  com-
+it  to  her,  she  noticed  that  it  was  covered  with  reindeerskins on  the  walls,  and  on  the  whole  looked  quite  com-
 fortable. She  now  left  off  crying,  entered  the  hill,  and
 became  his  wife,  and  in  due  time  she  bore  him  a child,
-whom  the  father  wanted  to  be  named  Imitlungnarsun-
-guak.  The  wife,  however,  remonstrated,  saying,  “ That
+whom  the  father  wanted  to  be  named  Imitlungnarsunguak.  The  wife,  however,  remonstrated,  saying,  “ That
 she  had  not  got  any  relatives  of  that  name  ; ” but  the
 husband  answered  her,  “ It  did  not  matter  ; he  would
 take  care  to  make  a great  huntsman  of  him,” — and  then
@@ -12393,11 +10352,9 @@ and  his  mother  had  spent  a good  many  winters  in  this
 place,  she  longed  for  her  former  home,  and  wished  to
 return.  The  husband  merely  answered  her,  “ I claim
 his  first  catch,  mind  ! ” and  then  she  left  him  along  with
-her  son,  and  went  back  to  her  old  relatives  and  house-
-mates, and  once  more  lived  with  them.  When  the
+her  son,  and  went  back  to  her  old  relatives  and  housemates, and  once  more  lived  with  them.  When  the
 other  children  played  with  her  son,  she  used  to  tell
-them  not  to  do  him  any  harm  ; and  for  fear  of  his  un-
-known father  they  desisted.  When  he  was  quite  grown
+them  not  to  do  him  any  harm  ; and  for  fear  of  his  unknown father  they  desisted.  When  he  was  quite  grown
 up,  and  saw  the  men  prepare  for  the  hunt,  he  was  very
 desirous  to  join  them  ; his  mother  observing  this,  went
 outside  and  shouted  out  aloud,  “Now  get  him  some
@@ -12415,12 +10372,6 @@ course,  had  taken  it  away.  His  next  catch  the  mother
 got  ; but  when  he  went  out  hunting  the  third  time,  he
 remained  away.  His  mother  now  mended  his  clothes
 and  put  them  to  rights,  and  in  the  evening  went  outside
-
-
-264
-
-
-TALES  AND  TRADITIONS.
 
 
 as  before,  shouting  something  at  the  pitch  of  her  voice,
@@ -12447,8 +10398,7 @@ HERE  were  once  two  cousins  living  together  at
 X the  same  winter-station,  and  at  the  time,  their
 wives  were  both  childless.  In  spring  they  parted  from
 each  other,  saying,  “ Well,  we  will  see  who  first  gets  a
-child.”  One  travelled  away  to  the  south,  and  estab-
-lished himself  for  the  coming  winter.  At  this  place  he
+child.”  One  travelled  away  to  the  south,  and  established himself  for  the  coming  winter.  At  this  place  he
 lived  in  prosperity,  and  his  wife  bore  him  a child.  When
 the  boy  grew  up,  the  father  took  a fancy  to  return  to
 his  cousin.  He,  however,  had  still  no  children  ; and  for
@@ -12463,16 +10413,9 @@ sometimes  knocked  over  the  boy,  at  which  he  wept.  For
 this  reason  the  boy’s  father  went  and  shot  the  calf,
 
 
-TALES  AND  TRADITIONS.
-
-
-265
-
-
 though  he  loved  his  cousin  dearly.  The  childless  man
 got  into  a great  rage  at  this,  and  at  once  challenged  his
-cousin,  and  they  met,  armed  with  their  bows  ; the  child-
-less man  shot  his  cousin  on  the  spot,  but  was  very  much
+cousin,  and  they  met,  armed  with  their  bows  ; the  childless man  shot  his  cousin  on  the  spot,  but  was  very  much
 afflicted  afterwards,  and  burst  into  a flood  of  tears.  The
 son  of  the  man  that  had  been  thus  killed  removed  to  a
 distance,  for  he  could  not  endure  the  sight  of  his  father’s
@@ -12513,25 +10456,17 @@ putting  all  their  things  on  the  beach,  she  climbed  a
 little  way  up  the  rocks,  and  went  across  a smooth  level
 
 
-266
-
-
-TALES  AND  TRADITIONS.
-
-
 to  the  brook.  All  at  once  she  saw  an  inorusek  (fabulous
 giant-like  inlander)  close  beside  her.  Stupefied  with
 terror,  she  tried  to  escape  ; but  he  caught  hold  of  her
 and  carried  her  further  and  further  inland.  The  others
 plainly  heard  her  shrieks  for  help,  and  hurried  off  to
 rescue  her ; but  she  was  already  gone,  and  her  cries
-soon  died  away  among  the  mountains.  In  the  mean-
-time the  inorusek  carried  her  up  through  the  highlands
+soon  died  away  among  the  mountains.  In  the  meantime the  inorusek  carried  her  up  through  the  highlands
 till  they  stopped  at  a place  with  a number  of  huts.  He
 intended  to  marry  her,  but  first  brought  her  to  the
 house  of  a neighbour,  where  he  put  her  down  on  the
-ledge  and  seated  himself  in  front  of  her.  She  cried  in-
-cessantly, but  whenever  she  tried  to  run  away,  he  took
+ledge  and  seated  himself  in  front  of  her.  She  cried  incessantly, but  whenever  she  tried  to  run  away,  he  took
 hold  of  her  like  a little  child  and  put  her  down  again.
 While  she  was  thus  sitting,  an  old  woman  peeped  across
 the  screen  of  the  ledge,  asking  her,  “ What  wouldst
@@ -12555,12 +10490,6 @@ she  saw  a strange  figure,  all  bones  and  joints,  creeping
 along  the  ledge  towards  her.  This  creature  warned  her,
 saying,  “ Leave  off  crying,  lest  they  should  treat  thee  as
 they  did  me.  I was  once  like  thee ; I was  stolen  and
-
-
-TALES  AND  TRADITIONS.
-
-
-267
 
 
 brought  to  this  place,  and  because  I would  not  leave  off
@@ -12588,15 +10517,8 @@ the  door-curtain,  not  giving  herself  time  to  draw  it
 before  entering.  She  hastened  to  say,  “ Let  us  be  off
 at  once  and  remove  to  some  other  place  ; the  inlanders
 are  sure  to  come  and  seek  me  here.”  They  at  once
-left  the  mainland  to  settle  down  on  one  of  the  farthest-
-off  islets  ; and  after  that  time  they  never  again  ventured
+left  the  mainland  to  settle  down  on  one  of  the  farthestoff  islets  ; and  after  that  time  they  never  again  ventured
 to  pitch  their  tents  on  the  continent.
-
-
-268
-
-
-TALES  AND  TRADITIONS.
 
 
 44.
@@ -12608,8 +10530,7 @@ INLANDERS.
 A MAN,  whose  name  was  Tungnerdluk,  had  his  fixed
 abode  by  a firth,  from  which  he  made  his  regular
 excursions  into  the  highlands  to  hunt  the  reindeer,  and
-generally  he  was  lucky.  In  winter  he  carried  on  seal-
-hunting at  the  mouth  of  the  firth.  One  summer  he  was
+generally  he  was  lucky.  In  winter  he  carried  on  sealhunting at  the  mouth  of  the  firth.  One  summer  he  was
 out  chasing  the  deer  as  usual,  and  during  his  absence
 his  wife  went  away  to  gather  berries  among  the  heather,
 with  their  only  child.  She  put  the  boy  down  on  the  sod,
@@ -12617,12 +10538,10 @@ and  left  him  a moment ; but  she  had  hardly  turned  away
 before  she  heard  him  crying  out.  Although  she  instantly
 turned  back,  she  did  not  find  him  in  his  place,  but  only
 heard  his  lamentations  a long  way  off  from  where  she
-was  standing.  She  returned  to  the  tent  in  great  afflic-
-tion, and  told  how  she  had  suffered  her  child  to  be  taken
+was  standing.  She  returned  to  the  tent  in  great  affliction, and  told  how  she  had  suffered  her  child  to  be  taken
 by  the  inlanders,  adding  that  she  feared  her  husband’s
 anger.  In  the  evening  he  returned,  heavily  laden,  and
-they  heard  him  call  out,  “ I have  got  plenty  of  reindeer-
-flesh  for  thee.”  On  finding  that  nobody  answered,  he
+they  heard  him  call  out,  “ I have  got  plenty  of  reindeerflesh  for  thee.”  On  finding  that  nobody  answered,  he
 at  once  knew  that  some  mischief  had  befallen  them  in
 his  absence.  He  hurried  in,  and  breathlessly  asked  if
 his  son  had  died.  The  wife  made  no  answer;  but  the
@@ -12637,12 +10556,6 @@ angakok  now  told  him  he  must  go  up  to  it  alone,  and
 that  he  himself  would  have  to  return.  Tungnerdluk
 
 
-TALES  AND  TRADITIONS.
-
-
-269
-
-
 peeped  in  at  the  window,  and  saw  two  terrible  women
 quarrelling  and  fighting  about  his  weeping  child.  He
 leapt  down  into  the  outer  passage  ; but  he  was  obliged
@@ -12653,10 +10566,8 @@ but  whenever  he  tried  to  take  it  from  one  woman,  she
 directly  handed  it  to  the  other,  and  thus  they  went  on  a
 good  while.  A huge  man  at  length  entered,  who  said
 he  would  assist  him,  declaring  that  he  had  sprung  from
-the  coast  people.  He  said,  “Thou’dst  better  run  on  be-
-forehand : be  sure  I will  soon  come  after  with  the  child  ;
-but  mind  be  quick — my  house-fellows  will  soon  be  pur-
-suing us.”  And  Tungnerdluk  came  running  at  full  speed,
+the  coast  people.  He  said,  “Thou’dst  better  run  on  beforehand : be  sure  I will  soon  come  after  with  the  child  ;
+but  mind  be  quick — my  house-fellows  will  soon  be  pursuing us.”  And  Tungnerdluk  came  running  at  full  speed,
 and  entered  his  tent,  saying,  “ Make  ready  to  depart  at
 once  ; ” and  meanwhile  the  other  entered  with  the  child.
 They  folded  their  tents,  and  quickly  loaded  their  boat ;
@@ -12668,24 +10579,16 @@ one  of  them  with  his  harpoon,  and  then  followed  his  own
 people  out  of  the  firth.  After  this  his  son  fell  sick,  and
 again  he  consulted  an  angakok,  who  was  not,  however,
 able  to  find  out  the  cause  of  his  complaint.  He  then
-called  another  one,  who  was  besides  renowned  as  a per-
-former of  headlifting  (a  peculiar  charm  for  discovering
+called  another  one,  who  was  besides  renowned  as  a performer of  headlifting  (a  peculiar  charm  for  discovering
 the  cause  of  sickness).  He  conjured  and  called  up
 spirits  ; and  lying  down  on  his  back,  he  first  let  go  his
 breath,  then  rose  up,  and  again  began  to  breathe,  saying,
 “ The  child’s  spirit  is  still  with  the  inlanders.”  The  father
-rejoined,  “ Then  lose  no  time  in-preparing  for  an  angakok-
-flight  to  bring  it  back  and  restore  it  to  us;”  and  he  flew
+rejoined,  “ Then  lose  no  time  in-preparing  for  an  angakokflight  to  bring  it  back  and  restore  it  to  us;”  and  he  flew
 away  to  the  inlanders,  fetching  the  spirit  of  the  child
 home  with  him.  On  his  return  to  the  parents,  he  heard
 the  voice  of  the  child  growing  weaker  ; but  by  restoring
 the  spirit  to  it,  the  baby  soon  recovered.  Tungnerdluk
-
-
-270
-
-
-TALES  AND  TRADITIONS.
 
 
 paid  the  angakok  well  with  different  kinds  of  victuals,
@@ -12696,19 +10599,16 @@ him.  On  their  approach,  he  observed  that  one  carried
 a lot  of  whalebones  with  him.  They  addressed  him,
 saying,  “We  have  heard  of  the  celebrated  Tungnerdluk,
 who  fetched  his  child  back  from  the  inlanders  ; pray  tell
-us  some  of  thy  achievements  : we  will  make  thee  a pre-
-sent of  our  whalebones  in  return.”  Tungnerdluk  an-
+us  some  of  thy  achievements  : we  will  make  thee  a present of  our  whalebones  in  return.”  Tungnerdluk  an-
 swered, “ I am  not  in  want  of  any  such  thing,” — whereat
 he  took  them  to  his  storehouse,  where  he  showed  them
 his  large  stock  of  whalebones  as  well  as  of  walrus-teeth.
 Seeing  this,  they  respectfully  retired,  and  left  the  place
 without  so  much  as  entering  the  house.
 
-Note. — A story  very  similar  to  this  has  been  received  in  another  manu-
-script, and  through  a verbal  narration  written  down  by  the  author.  The
+Note. — A story  very  similar  to  this  has  been  received  in  another  manuscript, and  through  a verbal  narration  written  down  by  the  author.  The
 principal  difference  consists  in  the  fact  of  the  inlanders  being  replaced  by
-the  amarsiniook  (a  fabulous  monster,  which  lived  upon  one  of  the  moun-
-tain-tops emerging  from  the  inland  ice).  The  old  k' elaumassok  (or  angakok
+the  amarsiniook  (a  fabulous  monster,  which  lived  upon  one  of  the  mountain-tops emerging  from  the  inland  ice).  The  old  k' elaumassok  (or  angakok
 of  an  inferior  class),  who  brought  back  the  child,  was  again  overtaken  by
 the  amarsiniook,  who  put  both  of  them  into  his  hood.  The  angakok  then
 summoned  his  torjiaks,  the  slinghitter  and  the  falcon,  of  which  the  latter
@@ -12724,15 +10624,8 @@ THE  ANGAKOK’S  .FLIGHT  TO  AKILINEK.
 [The  following  three  tales  are  here  given  separately,  but  nevertheless  put
 under  one  number,  their  contents  being,  on  the  one  hand,  interesting
 with  regard  to  the  information  implied  about  the  art  of  angakut  (plur.
-of  angakok)  in  general,  while,  on  the  other,  they  are  somewhat  imper-
-fect and  obscure,  so  as  to  make  it  difficult  to  decide  whether  we  have
+of  angakok)  in  general,  while,  on  the  other,  they  are  somewhat  imperfect and  obscure,  so  as  to  make  it  difficult  to  decide  whether  we  have
 one  or  two  original  stories  before  us.  The  first  was  written  down  in
-
-
-TALES  AND  TRADITIONS.
-
-
-271
 
 
 North  Greenland  before  1830  ; the  second  in  the  southernmost  part  of
@@ -12750,18 +10643,14 @@ to  get  farther  away,  but  was  never  able  to  pass  beyond
 this  mark ; and  therefore  he  determined  to  educate  his
 son  for  an  angakok,  hoping  that  he  might  possibly  be
 brought  to  excel  him.  When  the  boy  was  grown  up,  he
-went  through  all  the  grades  and  branches  of  the  angakok-
-science  with  him  ; but  when  the  father  proposed  to  give
-up  teaching  him,  the  son  turned  very  moody  and  low-
-spirited.  The  father  now  questioned  him,  saying,  “ Is
+went  through  all  the  grades  and  branches  of  the  angakokscience  with  him  ; but  when  the  father  proposed  to  give
+up  teaching  him,  the  son  turned  very  moody  and  lowspirited.  The  father  now  questioned  him,  saying,  “ Is
 there  any  part  of  the  science  thou  thinkest  we  have
 overlooked,  and  neglected  to  practise  ? ” and  the  son
-answered,  “I  think  there  is;”  whereat  the  father  re-
-called all  the  exercises  they  had  gone  through,  one  by
+answered,  “I  think  there  is;”  whereat  the  father  recalled all  the  exercises  they  had  gone  through,  one  by
 one,  but  after  due  meditation  asked  him,  “ Didst  thou
 visit  the  graves  ? ” The  son  told  him  he  had  not ; and
-the  father  said,  “Well,  I will  take  thee  thither  this  even-
-ing ; ” whereat  the  son  was  very  glad.  At  the  time  ap-
+the  father  said,  “Well,  I will  take  thee  thither  this  evening ; ” whereat  the  son  was  very  glad.  At  the  time  ap-
 pointed, they  wandered  to  the  burying-grounds,  where
 the  father  opened  one  of  the  graves,  and  undid  the  pall
 of  a corpse  beneath  the  waist,  and  made  his  son  thrust
@@ -12773,12 +10662,6 @@ particular  at  this  tomb  ; but  wait  till  thou  seest  the  last
 rays  of  the  setting  sun,  and  take  not  thy  eyes  from  its
 splendour  : but  the  moment  thou  dost  notice  a spark  of
 light  falling  down  from  it,  beware,  and  flee  the  place  at
-
-
-272
-
-
-TALES  AND  TRADITIONS.
 
 
 once.”  While  he  was  yet  standing  and  gazing  at  the
@@ -12806,8 +10689,7 @@ and  having  with  some  difficulty  succeeded  in  passing  it,
 he  saw  an  extensive  country  : crossing  it  in  a southerly
 direction,  he  came  upon  a small  house,  and  alighted
 close  beside  it.  It  was  a house  with  two  windows  ; and
-peeping  within,  he  saw  one  man  standing  at  each  win-
-dow, and  watching  him  closely.  One  of  the  men  went
+peeping  within,  he  saw  one  man  standing  at  each  window, and  watching  him  closely.  One  of  the  men  went
 out  and  beckoned  to  a woman  : on  seeing  the  stranger,
 he  invited  him  to  step  inside  ; and  as  both  were  entering,
 they  met  the  woman  in  the  passage  ready  to  follow,  and
@@ -12818,12 +10700,6 @@ opposite  side  he  saw  a squint-eyed  person,  whose  breath
 was  like  fire  (peculiar  to  angakut,  and  also  only  to  be
 observed  by  them).  At  his  feet  were  chips  of  bone,  at
 which  he  had  been  working.  Further  away  he  observed
-
-
-TALES  AND  TRADITIONS.
-
-
-273
 
 
 a woman,  whose  body  was  all  over  hairy.  When  the
@@ -12838,15 +10714,13 @@ of  his  art  ? ” and  he  answered,  “ Why,  I am  not  unwilling,
 though  it  is  but  the  second  time  I have  practised  angakok
 science.”  They  all  repaired  to  the  kagse  (their  house  of
 festivities).  The  squint-eyed  person,  who  was  always
-keeping  close  at  the  visitor’s  heels,  asked  him  what  fear-
-ful tornak  (guardian  spirit)  he  had  got  at  his  service;  and
+keeping  close  at  the  visitor’s  heels,  asked  him  what  fearful tornak  (guardian  spirit)  he  had  got  at  his  service;  and
 he  answered,  “ If  I succeed,  a large  iceberg  will  presently
 appear.”  They  all  entered  the  dark  kagse , and  he  also
 observed  the  hairy  woman,  the  sight  of  whom  he  did
 not  like,  suspecting  her  to  be  dangerous  to  his  purpose.
 When  the  conjuring  had  begun,  and  he  felt  that  his
-tornak  was  drawing  nigh,  he  said,  “ I fancy  that  some-
-thing is  approaching  us.”  They  looked  out  at  the  win-
+tornak  was  drawing  nigh,  he  said,  “ I fancy  that  something is  approaching  us.”  They  looked  out  at  the  win-
 dow, and  whispered  to  each  other,  “ A monstrous  iceberg
 is  close  upon  the  beach.”  The  angakok  said,  “ Let  a
 young  man  and  a maiden  step  forth  and  post  themselves
@@ -12857,8 +10731,7 @@ couple  was  ordered  out  on  the  floor,  and  a loud  roar
 from  without  followed.  Thus  they  were  all  called  forth,
 one  after  the  other,  and  at  last  it  was  the  turn  of  the  ugly
 woman  to  step  out.  When  she  was  about  to  advance,
-she  missed  her  footing  on  one  of  the  flags,  and  got  be-
-yond the  proper  stepping-stones,  and  at  the  same  time
+she  missed  her  footing  on  one  of  the  flags,  and  got  beyond the  proper  stepping-stones,  and  at  the  same  time
 the  iceberg  turned  over,  and  came  tumbling  over  the
 shore,  crushing  the  house  to  atoms.  Only  the  angakok
 visitor  and  the  man  with  the  squint  came  out  unhurt.
@@ -12877,8 +10750,7 @@ wrong  in  calling  forth  the  hairy  woman  ; and  by  this
 fault  of  mine  many  happy  and  vigorous  people  have
 perished.”  Next  day  the  squint-eyed  person  made  his
 appearance  in  the  house,  and  observed,  “ Perhaps  I too
-may  be  allowed  to  exhibit  my  art  ? I too  am  an  anga-
-kok.”  To  this  the  old  angakok  remarked,  “My  son
+may  be  allowed  to  exhibit  my  art  ? I too  am  an  angakok.”  To  this  the  old  angakok  remarked,  “My  son
 there  is  just  telling  me  that  he  has  killed  many  brave
 and  strong  people  by  his  want  of  experience.”  The
 other  answered,  “ So  he  did,  the  bad  one.”  The
@@ -12887,8 +10759,7 @@ flight  in  the  house,  which  was  still  lighted  up,  and  as
 soon  as  they  began  singing,  he  flew  out  of  it.  Somehow
 they  suspected  that  he  was  likely  to  be  dangerous  to
 them,  and  accordingly  they  extinguished  the  lamps,  in
-order  to  prevent  his  re-entering  the  place  ; but  on  look-
-ing out  at  the  window,  they  saw  him  take  a direction  to-
+order  to  prevent  his  re-entering  the  place  ; but  on  looking out  at  the  window,  they  saw  him  take  a direction  to-
 wards his  own  homestead,  and  soon  after  proceeded  to
 light  the  lamps,  concluding  that,  at  any  rate,  he  would
 not  return  the  same  night.
@@ -12905,11 +10776,7 @@ the  next  time  he  flew  straight  across  to  Akilinek,  and
 alighted  right  in  front  of  a house,  where  lay  the  bloody
 sword  which  was  to  be  taken  by  him.  He  went  up  to
 the  entrance,  from  whence  a man  emerged  whose  eyes
-were  all  dim,  like  those  of  an  unborn  seal.  He  re-
-entered the  house  without  noticing  the  stranger,  and
-
-
-TALES  AND  TRADITIONS.
+were  all  dim,  like  those  of  an  unborn  seal.  He  reentered the  house  without  noticing  the  stranger,  and
 
 
 27S
@@ -12922,8 +10789,7 @@ where  the  inmates  of  the  house  welcomed  him,  saying,
 a while  the  angakok  observed,  “ I want  another  to  fill
 my  place  at  home  to-night,  otherwise  my  relatives  will
 not  believe  that  I have  been  here.”  The  dim-eyed  man
-answered  him,  “ I should  very  much  like  to  be  thy  sub-
-stitute, but  I am  rather  a slow  one.”  They  now  pro-
+answered  him,  “ I should  very  much  like  to  be  thy  substitute, but  I am  rather  a slow  one.”  They  now  pro-
 ceeded to  have  him  tied.  Presently  he  was  lifted  up
 within  the  house,  and  then  soared  out  into  the  open  air,
 while  Ipisanguak  enjoyed  a happy  night  in  the  company
@@ -12934,30 +10800,24 @@ of  a great  fire  shining  about  him,  which  appeared  to  be
 from  his  substitute,  who  likewise  was  on  his  way  home,
 and  thus  meeting,  both  aimed  at  each  other.  Ipisanguak
 again  visited  Akilinek  next  evening,  and  at  the  same
-time  his  substitute  exclaimed,  “ I hear  him  coming;  be-
-hold, there  he  is!”  whereupon  he  also  went  off,  and  again
+time  his  substitute  exclaimed,  “ I hear  him  coming;  behold, there  he  is!”  whereupon  he  also  went  off,  and  again
 they  encountered  each  other  on  the  way,  and  smiled  as
 they  met,  and  returned  in  the  same  way  at  daybreak.
 On  the  following  day,  when  Ipisanguak  returned  from  a
 trip  in  his  kayak,  he  said  he  had  met  several  kayakers
 from  an  adjoining  place,  called  Kagsimiut,  and  likewise
-reported  that  he  had  heard  them  say  of  himself,  “ Ipis-
-anguak has  turned  angakok,  and  almost  every  day  ex-
+reported  that  he  had  heard  them  say  of  himself,  “ Ipisanguak has  turned  angakok,  and  almost  every  day  ex-
 changes place  with  an  angakok  from  Akilinek.  Let  us
 go  and  hear  him.”  On  the  following  day  a great  many
 kayakers  and  several  boats’  crews  arrived  ; and  when
 he  suffered  himself  to  be  tied,  and  left  for  Akilinek,  he
 was  soon  replaced  by  his  comrade,  who  entered  the
 house,  and  entertained  the  guests  all  the  night  long.
-Some  time  after  this  Ipisanguak  paid  a visit  to  Kagsi-
-miut ; and  during  his  stay  one  of  the  seal-hunters  said  :
+Some  time  after  this  Ipisanguak  paid  a visit  to  Kagsimiut ; and  during  his  stay  one  of  the  seal-hunters  said  :
 “ Seals  are  rather  scanty  with  us  at  present : a clever
 
 
 2 76
-
-
-TALES  AND  TRADITIONS.
 
 
 hunter  can  hardly  get  one  at  a time ; thou  mightest
@@ -12968,16 +10828,14 @@ fancy,  standing  outside  the  house.  In  the  evening  he
 conjured  spirits  ; and  during  that  interval  an  immense
 iceberg  appeared,  fast  approaching  the  beach.  He  now
 let  the  women  advance  one  by  one ; but  she  to  whom  he
-had  taken  a liking  would  not  come.  At  length  one  ap-
-peared with  a fine  new  ribbon  round  her  topknot,  and  at
+had  taken  a liking  would  not  come.  At  length  one  appeared with  a fine  new  ribbon  round  her  topknot,  and  at
 that  very  moment  the  iceberg  began  to  waver  and  shake;
 the  angakok  immediately  sank  down  beneath  the  floor,
 and  reached  his  own  house  by  an  underground  way,
 while  the  iceberg  came  rolling  on,  tumbling  right  across
 the  beach,  crushing  the  house  to  atoms.  On  getting
 home  he  had  all  the  lamps  lighted  ; but  in  less  than  a
-moment  the  angakok  from  Kagsimiut  made  his  appear-
-ance to  avenge  his  people.  However,  they  hit  him  with
+moment  the  angakok  from  Kagsimiut  made  his  appearance to  avenge  his  people.  However,  they  hit  him  with
 stones,  and  drove  him  back,  and  his  voice  had  become
 inaudible.  The  following  day  Ipisanguak  went  to  have
 a look  at  the  destroyed  house,  but  not  a trace  was  left
@@ -12989,17 +10847,13 @@ to  her  housemates.
 
 (3.)  A great  angakok  at  his  conjurations  always  used
 to  talk  of  his  having  been  to  Akilinek,  and  his  auditors
-fully  believed  him.  Once  he  forced  his  little  son  to  at-
-tend his  conjurations,  sitting  upon  his  knee.  The  boy,
+fully  believed  him.  Once  he  forced  his  little  son  to  attend his  conjurations,  sitting  upon  his  knee.  The  boy,
 who  was  horribly  frightened,  said,  “ Lo  ! what  is  it  I see  ?
 The  stars  are  dropping  down  in  the  old  grave  on  yonder
 hill.”  The  father  said,  “ When  the  old  grave  is  shining
 to  thee,  it  will  enlighten  thy  understanding.”  When  the
 boy  had  been  lying  down  in  his  lap  for  a while,  he  again
 burst  out,  “ What  is  it  I now  see  ? — the  bones  in  the  old
-
-
-TALES,  AND  TRADITIONS.
 
 
 2 77
@@ -13018,8 +10872,7 @@ altered — he  found  himself  able  at  a sight  to  survey  the
 whole  country  away  to  the  farthest  north,  and  nothing
 remained  concealed  from  him.  All  the  dwelling-places
 of  man  appeared  to  be  close  together,  side  by  side  ; and
-on  looking  at  the  sea,  he  saw  his  father’s  tracks,  stretch-
-ing across  to  Akilinek.  When  going  down  to  the  house,
+on  looking  at  the  sea,  he  saw  his  father’s  tracks,  stretching across  to  Akilinek.  When  going  down  to  the  house,
 he  observed  his  clothes  flying  through  the  air,  and  had
 only  to  put  forth  his  hands  and  feet  to  make  them  cover
 his  body  again.  But  on  entering  the  house  he  looked
@@ -13027,35 +10880,24 @@ exceedingly  pale,  because  of  the  great  angakok  wisdom
 he  had  acquired  down  in  the  old  grave.  After  having
 become  an  angakok  himself,  he  once  went  on  a flight  to
 Akilinek,  and  entered  a house  where  a number  of  men
-were  assembled,  one  of  whom  he  observed  to  be  dim-
-eyed. By  help  of  his  angakok  sense  he  discovered  this
-man  also  to  be  an  angakok,  and  remarked  some  bone-
-chips  lying  at  his  feet.  These  chips  (probably  super-
-natural ones,  and  only  visible  to  a clairvoyant)  the  dim-
-eyed man  had  in  vain  tried  to  get  rid  of ; because  they
+were  assembled,  one  of  whom  he  observed  to  be  dimeyed. By  help  of  his  angakok  sense  he  discovered  this
+man  also  to  be  an  angakok,  and  remarked  some  bonechips  lying  at  his  feet.  These  chips  (probably  super-
+natural ones,  and  only  visible  to  a clairvoyant)  the  dimeyed man  had  in  vain  tried  to  get  rid  of ; because  they
 arose  from  some  work  he  had  taken  in  hand  before  the
 appointed  days  of  mourning  for  some  person  deceased
 had  gone  by,  thereby  provoking  the  invisible  rulers.
 While  staying  here,  the  angakok  visitor  was  requested
 to  make  a conjuration,  in  order  to  procure  a plentiful
-seal-hunting.  He  summoned  his  tornak  called  a kivin-
-gak  (viz.,  an  iceberg,  steep  on  one  side,  but  sloping  down
+seal-hunting.  He  summoned  his  tornak  called  a kivingak  (viz.,  an  iceberg,  steep  on  one  side,  but  sloping  down
 on  the  other,  all  covered  with  seals).  The  iceberg  quickly
 approached  with  the  latter  side  towards  them,  and  bend-
-
-
-278
-
-
-TALES  AND  TRADITIONS.
 
 
 ing  over,  was  just  about  to  cast  off  all  the  seals  into  the
 water.  But  it  so  happened  that  among  the  housemates
 who  had  stepped  forth  on  the  floor  there  was  a woman
 with  an  anghiak,  which  immediately  made  the  iceberg
-turn  on  its  steep  side ; and  tumbling  over  with  a tremen-
-dous roar,  it  crushed  the  house  and  all  the  people  within,
+turn  on  its  steep  side ; and  tumbling  over  with  a tremendous roar,  it  crushed  the  house  and  all  the  people  within,
 all  of  whom  perished  excepting  the  two  angakut,  who
 took  care  to  make  their  escape  at  the  right  moment.
 
@@ -13088,21 +10930,13 @@ the  ingnersuit,  and  had  no  effect  upon  them.  It  then
 occurred  to  him  to  call  forth  two  tornaks  he  had  amongst
 
 
-TALES  AND  TRADITIONS.
-
-
-279
-
-
 the  benevolent  ingnersuit.  Their  approach  was  instantly
 heard  ; and  one  of  them  was  named  Nepingasuak,  the
 other  Napatarak.  The  latter  of  the  two,  however,  was
 the  first  to  hasten  to  the  spot,  crying  loudly,  “ What
-have  ye  been  doing  to  Kuvitsina  ? ” He  was  in  a ter-
-rible passion,  and  at  once  severed  the  strings,  and,  fur-
+have  ye  been  doing  to  Kuvitsina  ? ” He  was  in  a terrible passion,  and  at  once  severed  the  strings,  and,  fur-
 ther, gave  Kuvitsina  an  amulet,  saying,  “ Make  haste,
-and  be  off!  ” and  he  had  thus  escaped  even  before  Nep-
-ingasuak arrived.  On  coming  down  to  his  ruined  kayak,
+and  be  off!  ” and  he  had  thus  escaped  even  before  Nepingasuak arrived.  On  coming  down  to  his  ruined  kayak,
 Nepingasuak  merely  breathed  upon  it,  which  soon  made
 it  all  right ; and  thus  he  again  returned  to  his  own  world,
 while  Napatarak  warned  the  ingnersuit,  saying,  “Ye
@@ -13110,8 +10944,7 @@ should  never  lay  hand  on  the  people  who  live  on  the
 face  of  the  earth  : ye  ought  much  more  to  hold  them  in
 awe,  because  they  can  vanquish  the  beings  we  hold  in
 fear,  such  as  whales,  which  they  catch  by  means  of  the
-bladder.”  Kuvitsina  had  another  name,  which  was  Aka-
-mak.  On  his  way  home  he  met  Nepingasuak,  and  at
+bladder.”  Kuvitsina  had  another  name,  which  was  Akamak.  On  his  way  home  he  met  Nepingasuak,  and  at
 the  same  time  observed  a strange  noise  overhead : this
 was  his  nose,  which  came  whirling  along  in  the  air,  and
 adjusted  itself  in  its  proper  place — only  it  became  a little
@@ -13126,8 +10959,7 @@ of  a sudden  he  was  surprised  at  the  sound  of  kayakers
 approaching  from  the  shore.  He  saw  that  they  were
 the  ingnersuit,  and  of  the  malignant  sort  ; but  still  he
 thought  it  better  to  be  captured  by  them  than  drown.
-He  was  carried  off  to  their  place,  put  down  on  the  win-
-dow-bench, and  encouraged  to  talk.  But  seeing  that  he
+He  was  carried  off  to  their  place,  put  down  on  the  window-bench, and  encouraged  to  talk.  But  seeing  that  he
 remained  quite  mute,  they  first  cut  off  his  nose,  and
 then  tied  him  up  beneath  the  roof-beams.  Being  in  the
 greatest  distress,  he  called  his  tornaks,  three  of  whom
@@ -13136,15 +10968,11 @@ greatest  distress,  he  called  his  tornaks,  three  of  whom
 28o
 
 
-TALES  AND  TRADITIONS.
-
-
 instantly  appeared  and  relieved  him,  after  a hard  struggle.
 On  going  outside  he  found  his  erkungassok  (the  wise  man
 among  the  tornaks)  prostrate  and  killed  ; but  quickly
 made  him  revive  again  by  breathing  on  him.  When  he
-had  pushed  off  in  his  kayak  he  heard  a voice  calling  be-
-hind him,  and  a whistling  besides ; turning  his  face  round,
+had  pushed  off  in  his  kayak  he  heard  a voice  calling  behind him,  and  a whistling  besides ; turning  his  face  round,
 he  beheld  his  nose,  which  came  flying  through  the  air,
 sent  by  his  erkungassok  ; it  soon  fitted  itself  into  its  due
 place.  In  the  evening,  when  he  had  gained  his  home,
@@ -13171,12 +10999,6 @@ and  paddle,  conducting  him  into  a large  house.  (The
 rest  of  the  story  is  much  like  the  preceding  two.)
 
 
-TALES  AND  TRADITIONS.
-
-
-281
-
-
 47.
 
 
@@ -13189,13 +11011,11 @@ baby.  Another  family  adopted  him  ; but  on  finding
 that  he  gave  them  more  trouble  than  they  had  expected,
 they  soon  grew  tired  of  him,  and  he  became  nothing
 but  a bore  to  them.  Others  took  him  up,  but  in  a little
-time  neglected  him  ; and  thus  it  befell  that  all  the  fami-
-lies in  a house  came  to  take  charge  of  him  by  turns.
+time  neglected  him  ; and  thus  it  befell  that  all  the  families in  a house  came  to  take  charge  of  him  by  turns.
 His  last  foster-parents  had  him  for  rather  a long  time;
 but  on  a certain  day  when  the  man  happened  to  return
 home  without  any  catch,  and  was  cross  and  moody,  he
-addressed  his  wife,  saying,  “ This  boy  is  a mere  good-
-for-nothing  ; cast  him  out  on  the  dunghill  at  once.”
+addressed  his  wife,  saying,  “ This  boy  is  a mere  goodfor-nothing  ; cast  him  out  on  the  dunghill  at  once.”
 Meantime  a widow,  whose  son  had  just  commenced  to
 try  his  hand  at  seal-hunting,  took  him  in.  She  brought
 him  up,  and  he  did  well,  and  was  well  provided  for  from
@@ -13213,12 +11033,6 @@ hunting  was  her  adopted  son  Iliarsorkik.  One  of  his
 housemates,  a man  who  did  not  possess  any  kayak,  used
 to  take  him  by  the  hand  every  morning,  and  give  him  a
 run  uphill ; and  by  continuing  this  exercise  he  soon  got
-
-
-282
-
-
-TALES  AND  TRADITIONS.
 
 
 to  be  very  swift  and  agile.  Meanwhile  the  inmates  of
@@ -13244,11 +11058,9 @@ them.  The  mother  cut  the  little  bird  through  at  all  its
 joints,  and  gave  every  one  their  share,  but  still  some
 one  went  on  crying  for  more.  The  next  day  Iliarsorkik
 brought  two,  and  every  succeeding  day  one  more;  and
-the  widow  always  divided  them,  and  gave  their  house-
-fellows  something,  each  in  turn.  One  day  he  again  met
+the  widow  always  divided  them,  and  gave  their  housefellows  something,  each  in  turn.  One  day  he  again  met
 the  man  who  used  to  give  him  a turn  up  the  hills,  who
-pointed  out  to  him  a spot  where  the  partridges  were  sit-
-ting in  the  snow  with  their  black  beaks  peeping  forth,
+pointed  out  to  him  a spot  where  the  partridges  were  sitting in  the  snow  with  their  black  beaks  peeping  forth,
 and  he  went  on  directing  him  how  to  get  at  them.  He
 returned  bringing  one  home  the  first  day ; but  every
 following  day  the  number  increased,  and  the  widow
@@ -13260,12 +11072,6 @@ observed  a mist  hanging  above  the  waters,  at  one  time
 growing  thicker,  and  shortly  after  dissolving  ; and  this
 
 
-TALES  AND  TRADITIONS.
-
-
-283
-
-
 his  companions  hailed  as  a good  sign,  informing  him
 that  it  was  a sure  token  of  holes  in  the  ice,  kept  open
 by  the  sea  animals  that  gathered  there  to  breathe.
@@ -13275,25 +11081,20 @@ the  evening  Iliarsorkik  said  to  his  brother,  “ To-morrow
 I don’t  intend  to  hunt  on  shore  ; I shall  just  take  a
 walk  on  the  ice,  and  give  a look  round  to  find  out  the
 breathing  - holes.”  His  foster-brother  answered  him:
-“ Yonder  beneath  the  boat  thou  wilt  find  my  hunting-
-tools:  I shall  soon  put  thee  right,  and  make  them  smaller
+“ Yonder  beneath  the  boat  thou  wilt  find  my  huntingtools:  I shall  soon  put  thee  right,  and  make  them  smaller
 for  thee  ; but  mind  they  are  put  deep  down  in  the
 snow.”  Iliarsorkik  dug  away  for  them,  and  having
 found  them  brought  them  to  his  brother,  who  fitted
 them  for  him.  Early  in  the  morning  he  was  off ; after
 a while  he  fell  in  with  the  frost-haze.  He  followed  the
-direction  of  it,  and  soon  arrived  at  the  brim  of  the  aper-
-ture, where  he  saw  the  seals  diving  up  and  down,  and
-playing  about  in  large  crowds  in  the  open  water.  Find-
-ing it  difficult  to  get  a sure  footing  on  the  slippery  edge,
-he  lost  no  time,  but  at  once  took  aim  and  fixed  his  har-
-poon into  one  of  the  smaller  seals.  Having  hauled  it
+direction  of  it,  and  soon  arrived  at  the  brim  of  the  aperture, where  he  saw  the  seals  diving  up  and  down,  and
+playing  about  in  large  crowds  in  the  open  water.  Finding it  difficult  to  get  a sure  footing  on  the  slippery  edge,
+he  lost  no  time,  but  at  once  took  aim  and  fixed  his  harpoon into  one  of  the  smaller  seals.  Having  hauled  it
 up  upon  the  ice,  he  fastened  it  to  his  towing-line,  and
 made  the  best  of  his  way  home.  When  the  starving
 creatures  heard  him  dragging  a seal  along  through  the
 house-passage  a great  clamour  and  strife  ensued.  The
-widow  first  cut  very  thin  slices  of  blubber  and  skin  to-
-gether, and  handed  it  to  them.  Some  of  them,  however,
+widow  first  cut  very  thin  slices  of  blubber  and  skin  together, and  handed  it  to  them.  Some  of  them,  however,
 were  not  able  to  bide  their  time,  but  came  creeping  along
 on  the  floor,  stretching  out  their  lean  hands  ; but  the
 widow  merely  said,  “ Each  of  you  will  get  a piece  in  his
@@ -13305,23 +11106,15 @@ got  no  food  at  all.  In  the  night  some  of  them  even
 came  creeping  across  the  floor  to  steal  the  raw  flesh,
 
 
-284
-
-
-TALES  AND  TRADITIONS.
-
-
 but  they  were  so  faint  that  they  were  not  able  to  get
 back  and  climb  the  ledge  for  their  couches.  Iliarsorkik
 brought  a larger  seal  on  the  following  day,  and  the
 widow  was  now  able  to  light  all  the  lamps,  to  warm  up
 the  house';  but  she  was  still  very  careful  in  sharing  out
-the  meals,  and  continued  to  give  them  very  small  ra-
-tions. From  this  day  forth  Iliarsorkik  every  day  brought
+the  meals,  and  continued  to  give  them  very  small  rations. From  this  day  forth  Iliarsorkik  every  day  brought
 home  seals.  One  time  when  he  had  got  two  very  big
 ones,  and  had  already  got  half-way  home  with  them,  he
-was  suddenly  caught  in  an  easterly  gale,  with  a snow-
-storm blowing  right  in  his  face,  so  that  he  was  not  able
+was  suddenly  caught  in  an  easterly  gale,  with  a snowstorm blowing  right  in  his  face,  so  that  he  was  not  able
 to  see  anything  at  all.  He  continued  to  walk  straight
 against  the  wind,  but  as  it  happened  to  haul  round  to
 the  south  he,  of  course,  took  a wrong  direction,  and  lost
@@ -13333,8 +11126,7 @@ house.  On  entering  it  he  saw  that  only  the  foremost
 lamps  were  burning,  and  behind  this  a widow  and  a
 young  man  were  sitting,  the  latter  with  his  chin  buried
 deep  in  the  fur  collar  of  his  jacket;  but  behind,  in  the
-more  remote  corner  of  the  house,  the  lamps  were  all  ex-
-tinguished. Iliarsorkik  said,  “ I have  not  absolutely
+more  remote  corner  of  the  house,  the  lamps  were  all  extinguished. Iliarsorkik  said,  “ I have  not  absolutely
 come  here  on  a visit,  but  I was  not  aware  that  the  wind
 had  changed,  and  thus  lost  my  way  in  the  snow-drift.”
 The  widow  replied,  “ Then  thou  hadst  better  stay  here
@@ -13350,31 +11142,20 @@ his  home,  and  when  he  had  told  his  mother  how  he  had
 solaced  the  hungry  and  starving,  she  answered  him,
 
 
-TALES  AND  TRADITIONS.
-
-
-285
-
-
-“ Always  act  in  that  way,  and  the  number  of  thy  cap-
-tured animals  will  always  increase.”  Another  time
+“ Always  act  in  that  way,  and  the  number  of  thy  captured animals  will  always  increase.”  Another  time
 when  he  was  just  making  ready  what  he  had  caught  to
 carry  it  home,  he  suddenly  heard  a tremendous  roar,
 and  at  the  same  time  the  ice  seemed  to  quake  beneath
-his  feet.  He  looked  round,  and  seeing  nothing  but  ice-
-bergs right  and  left,  he  thought  it  might  have  been  one
+his  feet.  He  looked  round,  and  seeing  nothing  but  icebergs right  and  left,  he  thought  it  might  have  been  one
 of  them  calving  (bursting  and  moving).  When  the
 roaring  sound  was  again  heard,  and  had  come  much
 nearer,  he  again  turned  round,  and  saw  that  what  he  had
 taken  for  an  iceberg  was  a great  bear,  all  covered  with
 ice,  and  standing  erect  before  him.  When  he  saw  the
-beast  preparing  to  attack  him  he  ran  on  towards  an  ice-
-berg at  some  distance,  and  kept  on  running  about,  al-
+beast  preparing  to  attack  him  he  ran  on  towards  an  iceberg at  some  distance,  and  kept  on  running  about,  al-
 ways pursued  by  the  bear.  Each  time  he  rounded  it
-he  managed  to  hit  a blow  in  the  same  spot  on  the  ice-
-berg, and  in  this  manner  he  had  soon  made  a cave,  into
-which  he  hastened  to  creep,  while  the  animal  still  hur-
-ried, and  followed  the  scent  of  his  footmarks.  Whenever
+he  managed  to  hit  a blow  in  the  same  spot  on  the  iceberg, and  in  this  manner  he  had  soon  made  a cave,  into
+which  he  hastened  to  creep,  while  the  animal  still  hurried, and  followed  the  scent  of  his  footmarks.  Whenever
 the  bear  passed  him  he  thrust  at  it  with  his  tok  (tool  for
 making  holes  in  the  ice) ; each  time  he  thus  hit  it  some  of
 the  ice-cover  dropped  down  from  its  back,  and  at  length
@@ -13386,19 +11167,11 @@ and  made  the  best  of  his  way  home ; having  arrived
 safely,  he  gave  notice  at  the  dwelling  - places  in  the
 neighbourhood,  that  whoever  chose  might  go  and  fetch
 away  some  of  the  bear’s  flesh  ; he  himself  went  along  to
-the  spot  with  his  house-fellows,  who  had  in  the  mean-
-time fully  recovered,  to  flense  and  cut  it  up,  on  the  fol-
+the  spot  with  his  house-fellows,  who  had  in  the  meantime fully  recovered,  to  flense  and  cut  it  up,  on  the  fol-
 lowing day.  Having  gone  on  for  some  time  he  saw  a
 black  spot  on  the  ice,  which  soon  appeared  to  be  the
-body  of  a dead  man  : further  on  they  came  across  an-
-other one ; and  so  on  all  the  way.  These  were  the
+body  of  a dead  man  : further  on  they  came  across  another one ; and  so  on  all  the  way.  These  were  the
 corpses  of  people  who  had  been  on  the  point  of  starva-
-
-
-286
-
-
-TALES  AND  TRADITIONS.
 
 
 tion,  and  had  expired  in  making  their  attempt  to  reach
@@ -13438,12 +11211,6 @@ Seeing,  however,  that  nobody  was  able  to  conquer  him
 in  this  way,  they  dared  not  downright  kill  him.  His
 
 
-TALES  AND  TRADITIONS.
-
-
-287
-
-
 kayak  being  destroyed,  he  was  deprived  of  all  means  of
 returning.  His  brother  in  vain  awaited  his  arrival,  and
 therefore  at  length  resolved  to  follow  him.  He  took  the
@@ -13469,24 +11236,16 @@ south.  In  the  ensuing  winter  they  started  in  great
 numbers  to  take  revenge  on  the  fiord  people.  When
 the  latter  had  been  apprised  of  their  approach,  the  elder
 brother,  who  was  still  staying  with  them,  said  he  would
-rescue  them,  and  they  had  better  go  and  hide  them-
-selves in  a cave  close  by  ; but  no  sooner  had  the  assail-
+rescue  them,  and  they  had  better  go  and  hide  themselves in  a cave  close  by  ; but  no  sooner  had  the  assail-
 ants arrived,  than  the  brother  hastened  to  point  out
 their  hiding-place,  and  they  commenced  the  attack,
 pouring  their  arrows  into  the  cave,  killing  all  but  one,
-for  whom  there  was  not  an  arrow  left.  Presently,  how-
-ever, a bird  came  flying  out  of  the  cave ; but  one  of
+for  whom  there  was  not  an  arrow  left.  Presently,  however, a bird  came  flying  out  of  the  cave ; but  one  of
 them  quickly  got  an  arrow  from  an  orphan  boy,  who
 had  just  been  practising  bow-shooting,  and  hit  the  bird
 with  it ; and  when  they  came  to  look  more  closely  at  it,
 the  bird  turned  out  to  have  been  one  of  the  men.  They
 cut  him  to  pieces,  and  at  once  took  out  his  entrails.
-
-
-288
-
-
-TALES  AND  TRADITIONS.
 
 
 Part  of  them  were  sunk  in  the  depths  of  the  ocean,  and
@@ -13514,8 +11273,7 @@ THE  SOLITARY  KAYAKER.
 HERE  was  once  a kayaker  who  had  only  one
 
 
-I certain  hunting-place  to  which  he  always  re-
-sorted, and  whither  he  was  never  accompanied  by  any
+I certain  hunting-place  to  which  he  always  resorted, and  whither  he  was  never  accompanied  by  any
 one  else.  He  was  well  skilled  in  his  craft,  and  generally
 brought  home  a great  quantity  of  seals.  Not  far  off,  to
 the  north  of  his  habitation,  lived  a number  of  other
@@ -13527,21 +11285,13 @@ him  one  of  his  northern  neighbours.  This  man  spoke
 to  him  and  was  so  talkative  that  the  other  found  it
 rather  difficult  to  mind  his  work.  At  home  he  reported,
 “To-day  I at  length  had  a fellow  joining  me  at  my
-hunting-place  ; he  turned  out  to  be  one  of  our  neigh-
-bours : but  to-morrow  I intend  to  be  off  earlier  and  try
-
-
-TALES  AND  TRADITIONS.
-
-
-289
+hunting-place  ; he  turned  out  to  be  one  of  our  neighbours : but  to-morrow  I intend  to  be  off  earlier  and  try
 
 
 to  forestall  him.”  Accordingly  he  started  sooner  than
 was  his  wont,  but  on  reaching  the  place,  he  found  that
 the  other  man  had  already  arrived,  and  was  even  more
-loquacious  than  on  the  first  day.  It  was  almost  day-
-break before  they  had  begun  their  work.  When  they
+loquacious  than  on  the  first  day.  It  was  almost  daybreak before  they  had  begun  their  work.  When  they
 had  both  caught  their  seals  they  returned.  But  the  first
 kayaker  on  coming  home,  remarked,  “ It  seems  almost
 impossible  to  be  beforehand  with  this  man  ; however,  I
@@ -13576,20 +11326,12 @@ to  stand  in  need  of  some  one  to  talk  to  thee  at  such  an
 unhappy  time  : and  if  thou  wouldst  like  it,  I will  be-
 
 
-290
-
-
-TALES  AND  TRADITIONS.
-
-
 think  me  of  something-  to  tell  thee.”  But  at  this  the
 widower  uttered  some  unintelligible  words,  at  the  same
-time  looking  very  fierce  and  angry.  Suddenly  he  ad-
-vanced and  took  hold  of  the  visitor  by  the  throat  and
+time  looking  very  fierce  and  angry.  Suddenly  he  advanced and  took  hold  of  the  visitor  by  the  throat  and
 threw  him  down  into  the  doorway.  Taking  it  all  for
 a jest,  he  quickly  got  up  and  re-entered  the  room  ; but
-he  was  again  seized  and  thrust  right  against  the  door-
-posts and  broke  his  spine,  which  immediately  caused
+he  was  again  seized  and  thrust  right  against  the  doorposts and  broke  his  spine,  which  immediately  caused
 his  death.  The  murderer  again  with  downcast  eyes
 seated  himself  on  the  ledge.  Meanwhile  a youth,  the
 son  of  a widow,  coolly  proceeded  to  whet  his  knife  ; and
@@ -13597,12 +11339,10 @@ when  he  had  got  it  well  sharpened,  he  sprang  up  behind
 the  widower  and  made  a long  cut  on  each  side  of  his
 back  ; the  blood  rushed  out,  and  in  a few  minutes  he
 fell  down  dead.  At  this  sight  they  all  got  infuriated
-and  took  to  their  knives,  and  a terrible  slaughter  en-
-sued ; the  widow  and  her  son,  with  an  adopted  daughter,
+and  took  to  their  knives,  and  a terrible  slaughter  ensued ; the  widow  and  her  son,  with  an  adopted  daughter,
 were  the  only  ones  that  remained  unhurt ; and  having
 made  their  escape  through  the  window,  they  went  to
-take  up  their  abode  in  the  storehouse.  But  subse-
-quently the  winter  became  very  severe,  and  the  frost
+take  up  their  abode  in  the  storehouse.  But  subsequently the  winter  became  very  severe,  and  the  frost
 fearfully  keen,  so  that  the  widow's  son  at  last  had  to
 give  up  hunting,  and  remain  indoors.  They  had  almost
 finished  their  stock  of  provisions,  only  a few  angmagsat
@@ -13611,20 +11351,12 @@ still  left ; and  accordingly  they  could  not  afford  to  eat
 their  fill  every  day.  Not  till  supper-time  did  the  widow
 venture  to  share  out  their  portions.  The  son  then
 got  two  and  a half  fish,  while  she  herself  and  her
-stepdaughter  had  one  and  a half.  Owing  to  this  sen-
-sible management,  they  kept  alive,  though  badly
-enough,  and  did  not  altogether  starve  with  hunger,  be-
-cause they  always  got  a morsel  of  blubber  besides.
+stepdaughter  had  one  and  a half.  Owing  to  this  sensible management,  they  kept  alive,  though  badly
+enough,  and  did  not  altogether  starve  with  hunger,  because they  always  got  a morsel  of  blubber  besides.
 For  three  succeeding  days  they  went  on  like  this,  but
 on  the  fourth,  the  young  man  disappeared.  However,
 he  had  only  gone  out  to  take  a look  round  from  some
 of  the  neighbouring  heights.  In  the  evening  he  put  his
-
-
-TALES  AND  TRADITIONS.
-
-
-291
 
 
 weapons  and  tools  to  rights,  and  on  the  very  next  day
@@ -13641,8 +11373,7 @@ inside ; but  the  moment  she  bent  down  to  descend
 through  the  entrance,  she  broke  in  twain,  and  was  dead
 on  the  spot.  In  the  evening  the  son  wrought  a spell
 upon  the  body  of  the  deceased,  and  not  till  then  was  her
-mother  aware  of  his  being  an  angakok.  They  extin-
-guished the  lamps  and  he  called  forth  the  spirits,  and
+mother  aware  of  his  being  an  angakok.  They  extinguished the  lamps  and  he  called  forth  the  spirits,  and
 restored  her  to  life  and  health.  They  all  remained
 living  together  at  this  place,  and  he  afterwards  married
 his  adopted  sister.  At  length  they  died  there  without
@@ -13656,26 +11387,18 @@ ever  happening  to  them.
 KASIAGSAK,  THE  GREAT  LIAR.
 
 KASIAGSAK,  who  was  living  with  a great  many
-skilful  seal-hunters,  always  returned  in  the  even-
-ing without  a catch  of  his  own.  When  he  was  out,  his
+skilful  seal-hunters,  always  returned  in  the  evening without  a catch  of  his  own.  When  he  was  out,  his
 wife,  named  Kitlagsuak,  was  always  restless  and  fidgety,
 running  out  and  in  looking  out  for  him,  in  the  hope  that
 he  might  be  bringing  home  something  ; but  he  generally
 returned  empty-handed.  One  day,  being  out  in  his
 
 
-292
-
-
-TALES  AND  TRADITIONS.
-
-
 kayak,  he  observed  a black  spot  on  a piece  of  ice,  and
 it  soon  turned  to  be  a little  seal.  His  first  intention  was
 to  harpoon  it,  but  he  changed  his  mind,  and  broke  out,
 saying,  “ Poor  little  thing  ! it  is  almost  a pity.  Perhaps
-it  has  already  been  wounded  by  somebody  else  ; per-
-haps it  will  slide  down  in  the  water  when  I approach  it,
+it  has  already  been  wounded  by  somebody  else  ; perhaps it  will  slide  down  in  the  water  when  I approach  it,
 and  then  I need  only  take  hold  of  it  with  my  hands.”
 So  saying  he  gave  a shout,  at  which  the  seal  was  not
 slow  to  get  down.  Presently  it  appeared  close  before
@@ -13689,20 +11412,17 @@ thing!  ye  are  not  easy  to  get  at  ; but  just  wait  till  next
 time.”
 
 Another  day  he  went  seaward  in  bright,  fine  weather.
-Looking  towards  land  he  got  sight  of  the  other  kay-
-akers, and  observed  that  one  of  them  had  just  harpooned
+Looking  towards  land  he  got  sight  of  the  other  kayakers, and  observed  that  one  of  them  had  just  harpooned
 a seal,  and  that  the  others  were  all  hurrying  on  to  his
 assistance.  As  to  himself,  he  never  stirred,  but  remained
 quite  unconcerned  in  his  former  place.  He  also  noticed
 that  the  one  who  had  caught  the  seal  tugged  it  to  the
-shore,  and  made  it  fast  to  a rock  on  the  beach,  intend-
-ing to  return  in  pursuit  of  others.  He  instantly  put
+shore,  and  made  it  fast  to  a rock  on  the  beach,  intending to  return  in  pursuit  of  others.  He  instantly  put
 further  out  to  sea  ; but  when  he  had  got  quite  out  of
 sight  he  returned  to  the  beach  by  a roundabout  way,
 and  made  straight  for  the  other  man’s  seal,  and  carried
 it  off.  The  towing-line  was  all  around  ornamented  with
-walrus-teeth,  and  he  was  greatly  delighted  at  the  pros-
-pect of  getting  home  with  this  prize.  Meanwhile  his
+walrus-teeth,  and  he  was  greatly  delighted  at  the  prospect of  getting  home  with  this  prize.  Meanwhile  his
 wife  had  been  wandering  about  in  expectation  of  him,
 and  looking  out  for  the  returning  kayakers.  She  at
 length  cried  out,  “ There  is  a kayak  ! ” — at  which  more
@@ -13710,38 +11430,27 @@ people  came  running  out  ; and  shading  her  eyes  with
 her  hand,  she  continued,  “ It  looks  like  Kasiagsak,  and
 
 
-TALES  AND  TRADITIONS.
-
-
-293
-
-
 he  moves  his  arms  like  one  tugging  something  along
 with  him.  Well,  I suppose  it  will  now  be  my  turn  to
 give  you  a share,  and  ye  shall  all  get  a nice  piece  of
 blubber.”  As  soon  as  he  landed  she  hastened  to  ask
-him,  “ Where  didst  thou  get  that  beautiful  tugging-
-line?”  He  answered,  “This  morning  at  setting  out  I
-thought  it  might  come  in  handy,  as  I was  bent  on  hav-
-ing a catch,  and  so  I brought  it  out  with  me  ; I have
+him,  “ Where  didst  thou  get  that  beautiful  tuggingline?”  He  answered,  “This  morning  at  setting  out  I
+thought  it  might  come  in  handy,  as  I was  bent  on  having a catch,  and  so  I brought  it  out  with  me  ; I have
 kept  it  in  store  this  long  time.”  “ Hast  thou,  indeed  ? ”
 she  rejoined,  and  then  began  the  flensing  and  carving
 business.  She  put  the  head,  the  back,  and  the  skin
 aside  ; all  the  rest,  as  well  as  the  blubber,  she  intended
-to  make  a grand  feast  upon.  The  other  kayakers  suc-
-cessively returned,  and  she  took  care  to  inform  each  of
+to  make  a grand  feast  upon.  The  other  kayakers  successively returned,  and  she  took  care  to  inform  each  of
 them  separately  that  a seal  was  already  brought  home ;
 and  when  some  of  the  women  came  back  from  a ramble
 on  the  beach,  she  repeated  the  whole  thing  over  to  them.
-But  while  they  were  sitting  down  to  supper  in  the  even-
-ing, a boy  entered,  saying,  “ I have  been  sent  to  ask
+But  while  they  were  sitting  down  to  supper  in  the  evening, a boy  entered,  saying,  “ I have  been  sent  to  ask
 for  the  towing-line ; as  to  the  seal,  that  is  no  matter.”
 Turning  to  Kasiagsak,  his  wife  now  put  in,  “ Didst  thou
 tell  me  an  untruth  ? ” He  only  answered,  “To  be  sure
 I did  ; ” whereto  his  wife  remarked,  “What  a shame  it
 is  that  Kasiagsak  behaves  thus ! ” but  he  only  made  a
-wry  face,  saying,  “ Bah  !”  which  made  her  quite  fright-
-ened ; and  when  they  lay  down  to  rest  he  went  on
+wry  face,  saying,  “ Bah  !”  which  made  her  quite  frightened ; and  when  they  lay  down  to  rest  he  went  on
 pinching  her  and  whistling  until  they  both  fell  asleep.
 
 Another  day,  rowing  about  in  his  kayak,  he  happened
@@ -13757,9 +11466,6 @@ and  foam.  Meanwhile  he  got  into  his  kayak  again,
 
 
 2Q4
-
-
-TALES  AND  TRADITIONS.
 
 
 making  a great  roar  in  order  to  call  the  others  to  his
@@ -13796,16 +11502,9 @@ ashore.  Two  women,  gathering  berries,  watched  his
 doings  all  along.  They  saw  him  fill  his  kayak  with
 bits  of  broken  ice  ; and  this  done,  he  waded  down  into
 the  water  till  it  reached  his  very  neck,  and  then  turned
-back  and  got  upon  the  beach,  where  he  set  to  hammer-
-ing his  kayak  all  over  with  stones  ; and  having  finally
+back  and  got  upon  the  beach,  where  he  set  to  hammering his  kayak  all  over  with  stones  ; and  having  finally
 stuffed  his  coat  with  ice,  he  turned  towards  home.  At
 some  distance  he  commenced  shrieking  aloud  and  cry-
-
-
-TALES  AND  TRADITIONS.
-
-
-295
 
 
 ing,  “ Ah  me  ! a big  iceberg  went  calving  (bursting  and
@@ -13833,8 +11532,7 @@ nothing  else  to  eat  we  killed  the  dog.”  Kasiagsak
 boastingly  answered  him,  “ Yesterday  we  had  a hard
 job  at  home.  One  of  the  women  and  I had  our  hands
 full  with  the  great  heaps  of  seals  and  walruses  that  have
-been  caught.  I have  got  both  my  storehouses  choke-
-full  with  them ; my  arms  are  quite  sore  with  the  work.”
+been  caught.  I have  got  both  my  storehouses  chokefull  with  them ; my  arms  are  quite  sore  with  the  work.”
 The  father-in-law  now  rejoined,  “Who  would  ever
 have  thought  that  the  poor  little  orphan  boy  Kasiagsak
 should  turn  out  such  a rich  man  ! ” and  so  saying,  he
@@ -13848,16 +11546,9 @@ is  saying  ? thou  hadst  better  go.”  On  reaching  home,
 Kasiagsak  took  hold  of  a string  and  brought  it  into  the
 
 
-296
-
-
-TALES  AND  TRADITIONS.
-
-
 house,  where  he  busied  himself  in  making  a trap,  and
 taking  some  scraps  of  frizzled  blubber  from  his  wife’s
-lamp,  he  thrust  them  out  as  baits  for  the  ravens.  Sud-
-denly he  gave  a pull  at  the  string,  crying  out,  “ Two  ! —
+lamp,  he  thrust  them  out  as  baits  for  the  ravens.  Suddenly he  gave  a pull  at  the  string,  crying  out,  “ Two  ! —
 alas ! one  made  its  escape ; ” and  then  he  ran  out  and
 brought  back  a raven,  which  his  wife  skinned  and  boiled.
 But  his  brother-in-law  had  to  look  to  the  other  people
@@ -13878,8 +11569,7 @@ on  which  the  mourning  parents  and  relations  exclaimed,
 name;”  and  then  they  wept,  and  Kasiagsak  also  made
 believe  to  be  weeping ; but  he  peeped  through  his
 fingers  all  the  while.  Later  in  the  day  they  treated
-him  richly  with  plenty  of  good  things  to  eat.  Kasiag-
-sak went  on  saying,  “ Our  little  daughter  cannot  speak
+him  richly  with  plenty  of  good  things  to  eat.  Kasiagsak went  on  saying,  “ Our  little  daughter  cannot  speak
 plainly  as  yet ; she  only  cries  ‘ apangaja  ! ’ ” but  the
 others  said,  “ She  surely  means  ‘ scipangaja  ’ ” (sapangat,
 beads)  ; “ we  will  give  thee  some  for  her  ; ” and  at  his
@@ -13887,17 +11577,10 @@ departure  he  was  loaded  with  gifts — such  as  beads,  a
 plate,  and  some  seal-paws.  Just  as  he  was  going  to
 start,  one  of  the  men  cried  out  to  him,  “ I would  fain
 buy  a kayak,  and  I can  pay  it  back  with  a good  pot  ;
-make  it  known  to  the  people  in  thy  place.”  But  Kasi-
-agsak said,  “ Give  it  to  me  ; I have  got  a new  kayak,
+make  it  known  to  the  people  in  thy  place.”  But  Kasiagsak said,  “ Give  it  to  me  ; I have  got  a new  kayak,
 but  it  is  a little  too  narrow  for  my  size.”  At  length  he
 started  along  with  his  presents,  and  the  pot  stuck  upon
 the  front  part  of  his  kayak.  At  home  he  said,  “ Such  a
-
-
-TALES  AND  TRADITIONS.
-
-
-297
 
 
 dreadful  accident ' a boat  must  surely  have  been  lost  ;
@@ -13907,8 +11590,7 @@ to  give  her  cracked  old  pot  a smash,  and  threw  away  the
 shoulder-blades  that  till  now  had  served  her  instead  of
 plates,  and  ornamented  her  coat  with  beads,  and  proudly
 walked  to  and  fro  to  make  the  pearls  rattle.  The  next
-day  a great  many  kayakers  were  announced.  Kasiag-
-sak  instantly  kept  as  far  back  on  the  ledge  as  possible.
+day  a great  many  kayakers  were  announced.  Kasiagsak  instantly  kept  as  far  back  on  the  ledge  as  possible.
 As  soon  as  the  kayakers  put  in  to  shore,  they  called  out,
 “ Tell  Kasiagsak  to  come  down  and  fetch  off  some
 victuals  we  have  brought  for  their  little  daughter  ; ” but
@@ -13930,15 +11612,8 @@ good  while  they  asked  him,  “ Whereabout  is  it  ? ” but
 he  merely  answered  them,  “ Away  yonder  ; ” and  then
 a little  bit  further,  “ we  shall  soon  get  at  it.”  But  when
 they  had  gone  a long  way  from  home  without  seeing
-anything  like  a floating  whale,  they  got  tired  of  Kasiag-
-sak, and  put  a stop  to  all  his  fibs  by  killing  him  then
+anything  like  a floating  whale,  they  got  tired  of  Kasiagsak, and  put  a stop  to  all  his  fibs  by  killing  him  then
 and  there.
-
-
-298
-
-
-TALES  AND  TRADITIONS.
 
 
 51.
@@ -13948,11 +11623,9 @@ UNDER-WORLD  PEOPLE.
 
 A HUSBAND  and  a wife,  with  an  only  son,  were
 living  together  with  an  old  married  couple,  who
-had  got  no  children  at  all.  On  a certain  day,  while  to-
-gether on  the  fishing-place,  the  former  lost  their  son,
+had  got  no  children  at  all.  On  a certain  day,  while  together on  the  fishing-place,  the  former  lost  their  son,
 and  left  the  place  before  the  five  subsequent  mourning
-days  were  over,  leaving  the  old  childless  people  be-
-hind. Not  knowing  anyway  to  get  food  without  assist-
+days  were  over,  leaving  the  old  childless  people  behind. Not  knowing  anyway  to  get  food  without  assist-
 ance, the  man  said  to  his  wife,  “ Let  us  go  up  to  the
 tomb.”  Having  arrived  there,  he  went  on,  “ Thou  being
 a woman,  must  open  the  grave  ; ” but  she  told  him
@@ -13969,8 +11642,7 @@ The  old  man  first  rose,  and  going  up  to  him  said,  “ Now,
 dear,  come  along  and  stay  with  us  ; ” and  the  revived
 youth  went  home  with  them,  got  a kayak,  and  became
 their  provider.  Once  his  real  father  came  back  to  see
-what  had  become  of  the  old  people,  who  he  almost  ex-
-pected had  starved  for  want  of  food.  Coming  round  the
+what  had  become  of  the  old  people,  who  he  almost  expected had  starved  for  want  of  food.  Coming  round  the
 point,  and  seeing  blood  upon  the  stones  on  the  beach,
 he  thought,  “ They  must  have  been  to  the  grave  and
 taken  away  the  corpse  ; ” but  coming  closer,  he  observed
@@ -13978,35 +11650,24 @@ marks  of  seal-flensing  besides,  and  therefore  inquired,
 “ Whoever  might  have  caught  these  for  you  ? ” They
 
 
-TALES  AND  TRADITIONS.
-
-
-299
-
-
 made  answer,  “ Thy  own  son,  whom  we  have  restored
 to  life  again  ; ” but  he  at  once  prepared  to  kill  them,
-because  he  doubted  the  truth  of  this  assertion,  and  be-
-lieved they  were  mocking  him.  The  old  man  now  said,
+because  he  doubted  the  truth  of  this  assertion,  and  believed they  were  mocking  him.  The  old  man  now  said,
 “Just  wait  a little  ; and  if  he  then  does  not  come,  it  is
-time  enough  to  kill  us  ! ” Before  he  had  finished  speak-
-ing, the  son  appeared  from  behind  the  point.  They
+time  enough  to  kill  us  ! ” Before  he  had  finished  speaking, the  son  appeared  from  behind  the  point.  They
 both  cried  out,  “ Don’t  touch  him  at  once ! ” but  the
 father  could  not  forbear  so  doing,  and  consequently  he
 again  fell  down  dead  on  the  spot.  The  old  people  again
-sang  some  magic  lay  over  him,  and  by  this  means  re-
-stored him  to  life.  Once  more  he  moved,  rose  up,  and
+sang  some  magic  lay  over  him,  and  by  this  means  restored him  to  life.  Once  more  he  moved,  rose  up,  and
 ran  right  up  to  his  father,  whom  he  threw  down,  and
 likewise  his  foster-mother,  but  then  stopped.  His  father
 would  fain  have  taken  him  home  to  his  true  mother,  but
 the  son  answered  him,  “No,  no!  ye  left  me  before  the
-five  mourning  days  were  over,  and  therefore  I will  re-
-main with  those  who  have  revived  me  ; ” and  the  father
+five  mourning  days  were  over,  and  therefore  I will  remain with  those  who  have  revived  me  ; ” and  the  father
 started  off  by  himself.  One  day  the  youth  returned  in
 his  kayak,  but  in  a strangely  silent  mood,  whereat  his
 father  said,  “ Why  doestn’t  thou  speak,  dear  ? ” to  which
-the  son  answered  that  he  had  gone  and  taken  an  ing-
-nersuak-zvoman  for  a wife.  The  old  people  were  sorry
+the  son  answered  that  he  had  gone  and  taken  an  ingnersuak-zvoman  for  a wife.  The  old  people  were  sorry
 that  he  should  have  to  leave  them,  and  asked  him  if
 they  might  not  accompany  him  ; and  one  day,  on
 meeting  an  ingnersuak,  he  inquired  of  him  whether  he
@@ -14016,8 +11677,7 @@ them  not  to  look  back  when  they  approached  the  rock
 which  enclosed  the  abode  of  the  ingnersuit , lest  the
 entrance  should  remain  shut  for  them.  He  told  them
 this,  and  impressed  on  them  all  the  way  to  keep  their
-eyes  fixed  on  the  point  of  his  kayak.  They  then  in-
-stantly loaded  the  boat,  and  made  ready  to  depart.
+eyes  fixed  on  the  point  of  his  kayak.  They  then  instantly loaded  the  boat,  and  made  ready  to  depart.
 When  they  had  reached  the  cliff,  and  were  rowing  up  to
 it,  it  forthwith  opened  ; and  inside  was  seen  a beautiful
 country,  with  many  houses,  and  a beach  covered  with
@@ -14026,16 +11686,12 @@ country,  with  many  houses,  and  a beach  covered  with
 3oo
 
 
-TALES  AND  TRADITIONS.
-
-
 pebbles,  and  large  heaps  of  flesh  and  matak  (edible
 skin).  Perceiving  this,  the  old  people  for  joy  forgot  the
 warning  and  turned  round,  and  instantly  all  disappeared:
 the  prow  of  the  boat  knocked  right  against  the  steep
 rock,  and  was  smashed  in,  so  that  they  all  were  thrown
-down  by  the  shock.  The  son  said,  “Now  we  must  re-
-main apart  for  ever ; but  build  your  house  on  yonder
+down  by  the  shock.  The  son  said,  “Now  we  must  remain apart  for  ever ; but  build  your  house  on  yonder
 cliff : they  will  no  doubt  provide  you  with  food.”  They
 built  their  house  on  the  cliff,  and  every  day  they  got
 their  meals  without  trouble  from  the  ingnersuit.
@@ -14058,21 +11714,13 @@ the  crew  of  a boat  which  was  going  up  the  firth  right
 against  the  wind,  and  without  being  rowed.  This  song
 pleased  him  ; and  he  went  up  to  the  boat,  which  he
 several  times  noticed  to  be  lifted  up  into  the  air,  soon
-to  sink  down  again  on  the  surface  of  the  water,  and  con-
-stantly advancing,  although  the  crew  seemed  resting  on
+to  sink  down  again  on  the  surface  of  the  water,  and  constantly advancing,  although  the  crew  seemed  resting  on
 their  oars  all  the  while.  He  now  asked  leave  to  be  one
 of  the  party ; and  the  steersman  said  he  might  follow
 them  if  he  chose,  but  that  he  must  keep  close  to  them  ;
 upon  which  they  tied  his  kayak  to  the  boat,  and  then
 continued  singing,  Kangatarsa,  Kangatarsartigut ! (let  us
-be  taken  aloft !)  imaKaja,  ah,  ha,  ha.  They  were  in-
-stantly lifted  up  and  taken  away  across  the  country.
-
-
-TALES  AND  TRADITIONS.
-
-
-301
+be  taken  aloft !)  imaKaja,  ah,  ha,  ha.  They  were  instantly lifted  up  and  taken  away  across  the  country.
 
 
 Being  now  on  the  top  of  a very  high  mountain,  they
@@ -14098,25 +11746,17 @@ He  tried  to  catch  hold  of  the  proper  words,  and  sang,
 “ 1 immakctja  ! ’ — no;  not  quite  that;  ‘ kcinajaja  /’ — no,
 that’s  not  it  neither ; ” and  now  he  began  crying  and
 tumbling  down  the  precipice.  When  he  was  quite  close
-to  the  stone-heaps  at  the  foot  of  the  mountain,  he  re-
-membered the  song,  and  was  again  carried  through  the
+to  the  stone-heaps  at  the  foot  of  the  mountain,  he  remembered the  song,  and  was  again  carried  through  the
 air,  and  thus  saved  from  destruction.  At  last  he  saw  his
 dwelling-place,  where  his  house-fellows  had  quite  given
 him  up  for  lost.  They  were  just  assembled  outside,
 when  all  at  once  they  heard  a song  from  above,  and
 looking  upwards,  perceived  a kayaker  overhead  rushing
 through  the  air,  and  before  long  they  recognised  their
-own  old  bachelor.  He  directed  his  course  staight  to-
-wards the  entrance,  never  stopping  until  he  sat  right
+own  old  bachelor.  He  directed  his  course  staight  towards the  entrance,  never  stopping  until  he  sat  right
 down  on  the  ledge,  his  kayak’s  point  crushing  against
 the  wall  of  the  room  ; and  this  was  his  first  and  last
 journey  through  the  air.
-
-
-302
-
-
-TALES  AND  TRADITIONS.
 
 
 5 3.
@@ -14157,15 +11797,8 @@ till  he  returned.  Then  he  Avould  say  to  our  mother,
 ‘Have  not  they  had  anything  to  eat  as  yet?’  Upon
 
 
-TALES  AND  TRADITIONS.
-
-
-303
-
-
 which  she  used  to  put  a large  plate  with  meat  before  us.
-This  was  always  our  first  meal  each  day,  and  we  swal-
-lowed it  greedily.  But  we  were  ten  children,  and  there-
+This  was  always  our  first  meal  each  day,  and  we  swallowed it  greedily.  But  we  were  ten  children,  and  there-
 fore the  plate  had  to  be  filled  thrice  before  we  were  quite
 satisfied.  One  evening,  when  our  father  had  come  back
 and  gone  into  the  house,  we  also  went  inside  as  usual,
@@ -14186,8 +11819,7 @@ if  nothing  had  passed  : my  brothers  and  sisters  were  also
 soon  quite  at  their  ease,  but  I was  not  abie  to  forget  my
 mother’s  harsh  words,  though  they  had  not  been  addressed
 to  me.  I could  only  take  one  little  morsel  ; and  when
-the  dish  was  filled  the  second  time,  I had  not  yet  swal-
-lowed that.  Winter  passed  by,  and  I still  wondered
+the  dish  was  filled  the  second  time,  I had  not  yet  swallowed that.  Winter  passed  by,  and  I still  wondered
 over  my  mother’s  speech.  In  spring  father  took  us  all
 away  to  the  firth  for  angmagsat- fishing ; and  all  were
 happy,  and  helped  mother  in  drawing  the  fishes  up  on
@@ -14202,19 +11834,12 @@ their  ice-coverings,  and  father  taught  us  to  build  a dyke
 at  the  outlet  of  the  brooks,  in  order  to  stop  and  catch
 
 
-304
-
-
-TALES  AND  TRADITIONS.
-
-
 the  salmon.  At  full  tide  he  used  to  catch  them  in  his
 kayak,  and  we  from  land  by  throwing  stones  at  them  ;
 and  when  the  tide  was  out  we  could  easily  take  the  fish
 that  were  stopped  behind  the  dykes  with  our  spears.
 We  had  all  work  enough  in  helping  to  carry  them  up  to
-our  mother  and  assisting  her  in  cutting  them  up  for  dry-
-ing. My  brothers  enjoyed  that  busy  time  ; but  I had
+our  mother  and  assisting  her  in  cutting  them  up  for  drying. My  brothers  enjoyed  that  busy  time  ; but  I had
 not  yet  learned  to  forget  those  words  of  my  mother’s,
 and  my  spirits  grew  more  and  more  depressed.  One
 day  a great  many  salmon  had  been  caught  behind  the
@@ -14226,14 +11851,7 @@ asked  my  brothers  to  do  my  part  of  the  business.  How-
 ever, they  all  agreed  that  I was  to  do  it  myself ; but  on
 seeing  my  youngest  brother  drawing  his  fish  on  a cord,
 I turned  to  him  saying,  ‘ I think  I see  a partridge  yonder:
-pray  take  my  lot  of  salmons  along  with  thee  while  I pur-
-sue the  bird.’  He  willingly  obeyed  me,  and  I darted  off;
-
-
-TALES  AND  TRADITIONS.
-
-
-305
+pray  take  my  lot  of  salmons  along  with  thee  while  I pursue the  bird.’  He  willingly  obeyed  me,  and  I darted  off;
 
 
 and  running  straight  on  for  the  interior,  I never  stopped
@@ -14241,13 +11859,11 @@ my  flight  till  nightfall.  I lay  down  to  sleep  as  best  I
 might.  All  the  summer-time  I roamed  about  snaring
 partridges,  and  in  the  autumn  I set  to  build  myself  a
 suitable  house  for  the  winter : the  birds,  however,  were
-now  getting  scarcer.  One  morning  there  was  a ter-
-rible snow-fall,  on  account  of  which  I stayed  at  home.
+now  getting  scarcer.  One  morning  there  was  a terrible snow-fall,  on  account  of  which  I stayed  at  home.
 Now  and  then  I looked  out  of  the  window,  and  once  saw
 something  brown  moving  about  in  the  snow.  As  the
 storm  was  going  down,  and  the  sky  clearing  a little,  I
-recognised  a large  male  reindeer  seeking  for  food  be-
-neath the  snow.  I was  dreadfully  hungry  at  the  time  ;
+recognised  a large  male  reindeer  seeking  for  food  beneath the  snow.  I was  dreadfully  hungry  at  the  time  ;
 and,  although  it  was  very  unwise,  I could  not  suppress
 a loud  cry  on  seeing  it.  The  knife  I have  got  here  ” —
 showing  a stump  of  a knife  hardly  a finger’s-length —
@@ -14256,15 +11872,12 @@ crept  up  to  the  animal  very  cautiously,  not  to  frighten
 it.  When  the  snow  fell  thicker  I took  to  running;  but
 when  it  cleared  off  a little,  I lay  down  flat  on  the  ground
 to  hide.  Once  I entirely  lost  sight  of  it  concealed  in  a
-cloud  of  snow,  when  all  of  a sudden  I rushed  at  it,  thrust-
-ing my  knife  several  times  into  its  flanks.  It  ran  on,
+cloud  of  snow,  when  all  of  a sudden  I rushed  at  it,  thrusting my  knife  several  times  into  its  flanks.  It  ran  on,
 nevertheless,  but  I followed  up  its  bloody  tracks,  and
 soon  managed  to  get  it  killed.  I brought  it  quickly  to
 my  house,  and  found  it  to  be  a fat  buck  ; and  thus  I was
-provided  sufficiently  for  the  winter.  Next  summer  I tra-
-velled to  a place  abounding  in  those  animals,  and  I soon
-became  well  skilled  in  hunting  them.  But  I was  con-
-stantly getting  very  low-spirited  : I did  not  much  care
+provided  sufficiently  for  the  winter.  Next  summer  I travelled to  a place  abounding  in  those  animals,  and  I soon
+became  well  skilled  in  hunting  them.  But  I was  constantly getting  very  low-spirited  : I did  not  much  care
 for  that  sort  of  thing,  but  went  in  search  of  more  daring
 excitement.  However,  I only  happened  to  meet  with
 some  poor  old  kivigtut  (plural  of  Kivigtox).  I had  got
@@ -14280,16 +11893,11 @@ U
 30  6
 
 
-TALES  AND  TRADITIONS.
-
-
 to  take  out  the  skin-stockings  in  order  to  have  them
 dried  in  the  sun.  Meantime,  surveying  the  immense
-plain  stretching  out  before  me,  at  some  distance  I per-
-ceived a tiny  black  spot ; moving  on,  I took  it  to  be  a
+plain  stretching  out  before  me,  at  some  distance  I perceived a tiny  black  spot ; moving  on,  I took  it  to  be  a
 raven,  but  presently  it  grew  to  be  more  like  a fox,  and
-this  set  me  wondering  in  what  manner  a fox  could  pos-
-sibly have  got  on  to  the  glacier.  When  I again  examined
+this  set  me  wondering  in  what  manner  a fox  could  possibly have  got  on  to  the  glacier.  When  I again  examined
 it,  it  had  become  the  size  of  a reindeer  ; then  it  appeared
 like  an  amarok,  or  something  like  that.  As  I had  all  the
 time  been  in  search  of  something  appalling  enough  to
@@ -14315,17 +11923,10 @@ down  the  precipice  as  to  be  swallowed  up  by  the  beast.
 I barely  managed  to  cross  it:  and  no  sooner  had  I gained
 the  other  side  than  I heard  a fearful  yell,  and  turning
 round,  beheld  the  monster  hanging  perched  on  the  edge
-of  the  icy  rocks,  unable  to  get  up  again.  I sprang  to-
-wards it  ; but  before  I had  time  to  kill  it,  it  was  tumbling
+of  the  icy  rocks,  unable  to  get  up  again.  I sprang  towards it  ; but  before  I had  time  to  kill  it,  it  was  tumbling
 down  the  precipice — and  thus  I lost  my  prize.  At  the
 beginning  of  every  winter  I filled  two  storehouses  with
 victuals,  remembering  the  terrible  want  of  the  first  win-
-
-
-TALES  AND  TRADITIONS.
-
-
-307
 
 
 ter.  One  evening,  seated  at  my  work  in  the  house,  I
@@ -14348,16 +11949,13 @@ right  out ; ’ and  they  went  on  laughing  till  they  were
 quite  out  of  breath.  I joined  their  merry  laughter,  and
 felt  very  happy  indeed.  At  length,  however,  they  left
 me,  taking  their  bags  with  them  ; and  I now  perceived
-for  the  first  time  that  my  guests  had  been  hares  dis-
-guised in  the  shape  of  women.  Another  evening,  when
+for  the  first  time  that  my  guests  had  been  hares  disguised in  the  shape  of  women.  Another  evening,  when
 I again  sat  working,  two  other  little  women  entered  the
 house ; but  these  had  a darker  complexion  and  larger
-tufts  of  hair  : they  were  still  more  amiable  than  the  for-
-mer ones,  and  likewise  poured  out  their  berries  before
+tufts  of  hair  : they  were  still  more  amiable  than  the  former ones,  and  likewise  poured  out  their  berries  before
 me,  and  I brought  forth  tallow  and  dried  meat  as  before.
 They  ate  of  this  with  great  pleasure  ; and  having  done,
-they  said,  ‘ These  silly  little  hares,  whenever  they  hap-
-pen to  meet  folks,  they  sit  down  staring  at  them — they
+they  said,  ‘ These  silly  little  hares,  whenever  they  happen to  meet  folks,  they  sit  down  staring  at  them — they
 look  so  very  funny  with  their  cloven  lips  ; and  when
 they  take  to  run,  and  people  only  say  itek , they  sit  down
 on  the  spot.’  In  such  wise  we  chattered  away,  and  spent
@@ -14367,15 +11965,8 @@ place  whenever  I know  that  people  have  newly  left.
 Accordingly  I came  here.  Thou  alone  hast  taken  me
 
 
-308
-
-
-TALES  AND  TRADITIONS.
-
-
 by  surprise ; otherwise  I seem  to  hear  everything.  When
-the  partridges  sit  down  yonder  behind  the  high  moun-
-tain-ridges, I shall  be  sure  to  hear  them  as  if  they  were
+the  partridges  sit  down  yonder  behind  the  high  mountain-ridges, I shall  be  sure  to  hear  them  as  if  they  were
 quite  close  by:  but  thy  steps  I have  not  heard.”  From
 the  upper  part  of  his  boot  the  first  Salik  produced  a
 knife,  and  handed  it  to  the  narrator  with  these  words,
@@ -14399,25 +11990,17 @@ KAVDLUNAIT.
 
 [The  four  following  tales  are  given  in  one  section  on  account  of  their  more
 local  character,  being  known  only  to  the  west  Greenlanders,  especially
-the  southernmost  of  them,  and  representing  the  only  trace  of  intelli-
-gence left  concerning  the  ancient  Scandinavian  settlers  which  the
+the  southernmost  of  them,  and  representing  the  only  trace  of  intelligence left  concerning  the  ancient  Scandinavian  settlers  which  the
 author  has  been  able  to  discover  by  inquiries  made  in  the  country.]
 
 
 (t.)  UNGORTOK,  THE  CHIEF  OF  KAKORTOK.
 
 IT  once  happened  that  a kayaker  from  Arpatsivik
-came  rowing  up  the  firth,  trying  his  new  bird-
-javelin  as  he  went  along.  On  approaching  Kakortok,
+came  rowing  up  the  firth,  trying  his  new  birdjavelin  as  he  went  along.  On  approaching  Kakortok,
 where  the  first  Kavdlimait 1 had  taken  up  their
 
 1 Plur.  of  Kavdlunak,  a foreigner,  a European,  a Dane.
-
-
-TALES  AND  TRADITIONS,
-
-
-309
 
 
 !
@@ -14426,14 +12009,10 @@ TALES  AND  TRADITIONS,
 3io
 
 
-TALES  AND  TRADITIONS.
-
-
 abode,  he  saw  one  of  them  gathering  shells  on  the
 beach,  and  presently  he  called  out  to  him,  “ Let  us  see
 whether  thou  canst  hit  me  with  thy  lance/’  The
-kayaker  would  not  comply,  although  the  other  con-
-tinued asking  him.  At  last,  however,  the  master  of  the
+kayaker  would  not  comply,  although  the  other  continued asking  him.  At  last,  however,  the  master  of  the
 place,  named  Ungortok,  made  his  appearance,  and  said,
 “ Since  he  seems  so  very  anxious  about  it,  take  good
 aim  at  him  ; ” and  soon  the  kayaker  sent  out  his  spear
@@ -14468,9 +12047,6 @@ into  the  house  to  tell  what  had  happened.  At  the  same
 time  the  enemies  posted  themselves  in  front  of  the  door
 
 
-TALES  AND  TRADITIONS.
-
-
 31 1
 
 and  the  windows.  One  of  the  inmates  instantly  ran
@@ -14493,8 +12069,7 @@ quickly  overtaken.  Ungortok  cut  off  his  left  arm,  and
 
 held  it  up  before  his  brother,  saying,  “ Kaisape  ! as  long
 as  thou  livest  thou  won’t  surely  forget  thy  poor  brother.”
-Kaisape,  who  was  not  armed,  could  render  him  no  as-
-sistance, but  quickly  took  to  his  heels.  He  crossed  the
+Kaisape,  who  was  not  armed,  could  render  him  no  assistance, but  quickly  took  to  his  heels.  He  crossed  the
 country  for  Kangermiutsiak,  where  his  father-in-law  was
 living.  Here  he  remained  all  winter,  and  was  presented
 with  a kayak.  In  summer  he  kayaked  southward  to
@@ -14504,25 +12079,17 @@ when  the  summer  came  round  he  went  away  to  the
 north,  in  order  to  find  himself  a companion.  At  every
 
 
-312
-
-
-TALES  AND  TRADITIONS.
-
-
 place  he  came  to,  he  first  inquired  if  there  happened  to
 be  a couple  of  brothers,  and  then  he  went  on  to  examine
 the  inside  fur  of  their  boots  to  see  whether  they  had
 any  lice  in  them  ; and  he  travelled  far  and  wide  before
 he  found  two  brothers,  of  whom  the  younger  one  was
 altogether  without  lice.  This  one  he  persuaded  to
-assist  him,  and  made  him  return  with  him  to  Kanger-
-miutsiak.  He  was  now  very  intent  on  catching  seals ;
+assist  him,  and  made  him  return  with  him  to  Kangermiutsiak.  He  was  now  very  intent  on  catching  seals ;
 and  of  all  he  caught  he  had  the  hairs  removed  from  the
 skins,  which  were  then  used  for  white  skins.  This  done,
 he  went  out  in  search  of  a large  piece  of  driftwood,  and
-at  last  found  one  to  suit  his  purpose.  He  now  pro-
-ceeded to  excavate  it  with  his  knife  until  it  was  all
+at  last  found  one  to  suit  his  purpose.  He  now  proceeded to  excavate  it  with  his  knife  until  it  was  all
 hollow  like  a tube,  and  made  a cover  to  fit  tightly  at
 one  end ; and  both  sides  he  furnished  with  little  holes,
 for  which  he  also  made  stoppers  of  wood.  Being  thus
@@ -14533,13 +12100,11 @@ down  into  the  water,  upon  which  all  the  kayakers  joined
 in  towing  it  down  the  inlet  to  Pingiviarnek,  where  they
 landed  it  ; and  having  got  out  the  skins,  attached  strings
 to  them,  then  hoisted  and  spread  them  like  sails,  so
-that  the  boat  came  to  have  the  appearance  of  a some-
-what dirty  iceberg,  the  skins  being  not  all  alike  white.
+that  the  boat  came  to  have  the  appearance  of  a somewhat dirty  iceberg,  the  skins  being  not  all  alike  white.
 The  people  now  got  in  : it  was  pushed  off  from  land,
 and  Kaisape  gave  the  order,  “ Let  the  skins  be  spread  ! ”
 This  was  accordingly  done  ; and  the  people  on  shore
-were  astonished  to  see  how  very  like  it  was  to  an  ice-
-berg floating  slowly  along.  Kaisape,  who  wanted  to
+were  astonished  to  see  how  very  like  it  was  to  an  iceberg floating  slowly  along.  Kaisape,  who  wanted  to
 take  a survey  of  the  whole  from  shore,  said  to  the  crew,
 “ Now  ye  can  take  the  boat  out  yourselves,  while  I step
 ashore  to  have  a look  at  it.”  When  he  beheld  the  work
@@ -14549,12 +12114,6 @@ to  dry  in  the  sun ; and  when  this  had  been  done,  he
 remarked  that  he  had  not  yet  forgotten  his  brother.
 
 
-TALES  AND  TRADITIONS.
-
-
-313
-
-
 They  were  now  ready  to  go  to  Kakortok  and  have  their
 revenge,  but  for  some  time  they  were  obliged  to  station
 themselves  at  Arpatsivik,  waiting  a favourable  wind  to
@@ -14562,12 +12121,10 @@ carry  them  up  the  inlet.  When  the  fair  wind  had  set
 in,  the  firth  gradually  filled  with  broken  bits  of  ice  of
 different  form  and  size.  Now  was  the  time  for  Ivaisape
 to  spread  all  sail  and  get  in.  Several  boats  followed  in
-his  wake,  but  the  crews  landed  a little  north  of  Kakor-
-tok  to  gather  fagots  of  juniper;  while  Kaisape  and  his
+his  wake,  but  the  crews  landed  a little  north  of  Kakortok  to  gather  fagots  of  juniper;  while  Kaisape  and  his
 helpmates,  well  hidden  in  the  hollow  wood,  and  keeping
 a constant  look-out  through  the  peep-holes,  drifted
-straight  on  towards  the  house.  They  saw  the  Kavd-
-lunait  go  to  and  fro,  now  and  then  taking  a look  down
+straight  on  towards  the  house.  They  saw  the  Kavdlunait  go  to  and  fro,  now  and  then  taking  a look  down
 the  inlet.  Once  they  distinctly  heard  it  announced,
 “ The  Kaladlit  (plur.  of  kal&lejs>  a Greenlander)  are
 coming  : ” upon  which  they  all  came  running  out  of  the
@@ -14586,8 +12143,7 @@ helpmates  exclaiming,  “ Kaisape  ! the  man  whom  thou
 seekest  is  up  there.”  The  chief  had  by  this  time  left
 the  burning  house  through  a window,  and  was  flying
 with  his  little  son  in  his  arms.  Kaisape  went  off  in
-pursuit  of  him,  and  approached  him  rapidly.  On  reach-
-ing the  lake,  the  father  threw  his  child  into  the  water  that
+pursuit  of  him,  and  approached  him  rapidly.  On  reaching the  lake,  the  father  threw  his  child  into  the  water  that
 it  might  rather  die  unwounded.  Kaisape,  however,  not
 being  able  to  overtake  his  antagonist,  was  forced  to
 return  to  his  crew.  Ungortok  ran  on  till  he  reached
@@ -14597,25 +12153,14 @@ Igaliko,  and  there  established  himself  with  another  chief
 3H
 
 
-TALES  AND  TRADITIONS.
-
-
-TALES  AND  TRADITIONS.
-
-
-315
-
-
 named  Olave.  On  finding  that  Kaisape  would  not  leave
 him  at  peace  there,  he  removed  to  the  head  of  the  firth
 Agdluitsok,  where  he  settled  at  Sioralik,  while  Kaisape
 established  himself  at  the  outlet  of  the  same  firth.  The
-following  summer  he  again  left  in  pursuit  of  Ungor-
-tok,  who,  however,  succeeded  in  getting  to  the  coast
+following  summer  he  again  left  in  pursuit  of  Ungortok,  who,  however,  succeeded  in  getting  to  the  coast
 opposite  the  island  of  Aluk.  Kaisape  traced  him  right
 along  to  the  north  side  of  the  same  island,  where  he
-took  up  his  abode  ; and  he  now  consulted  the  East-
-landers  with  regard  to  some  means  of  killing  Ungortok.
+took  up  his  abode  ; and  he  now  consulted  the  Eastlanders  with  regard  to  some  means  of  killing  Ungortok.
 At  last  one  stood  forth,  saying,  “ I will  get  thee  a bit
 of  wood  from  a barren  woman’s  boot-shelf,  out  of  which
 thou  must  shape  thine  arrow.”  Having  pronounced
@@ -14640,15 +12185,11 @@ the  window,  holding  his  bow  ready  bent.  Ungortok
 was  passing  up  and  down  as  swiftly  as  a shadow,  on
 account  of  which  it  was  impossible  for  him  to  take  a
 sure  aim.  He  therefore  levelled  his  bow  at  Ungortok’s
-wife,  who  lay  sleeping  with  a baby  at  her  breast.  Un-
-gortok, hearing  a noise,  gave  a look  at  his  wife,  and
+wife,  who  lay  sleeping  with  a baby  at  her  breast.  Ungortok, hearing  a noise,  gave  a look  at  his  wife,  and
 perceived  the  arrow  sticking  fast  in  her  throat.  Mean-
 
 
 3 1 6
-
-
-TALES  AND  TRADITIONS.
 
 
 time  Kaisape  had  quickly  run  back  to  the  margin  of  the
@@ -14666,16 +12207,9 @@ into  the  lake.  But  at  last  Kaisape  caught  hold  of  the
 charmed  arrow,  and  this  went  straight  through  the
 
 
-TALES  AND  TRADITIONS.
-
-
-317
-
-
 protruding  chin  down  into  the  throat.  As  Ungortok
 did  not,  however,  expire  immediately,  Kaisape  took
-flight,  but  was  shortly  followed  by  the  wounded  Ungor-
-tok. Kaisape  had  been  running  on  for  a good  long
+flight,  but  was  shortly  followed  by  the  wounded  Ungortok. Kaisape  had  been  running  on  for  a good  long
 while,  when  all  of  a sudden  he  felt  his  throat  getting
 dry,  and  fell  down  totally  exhausted.  Remembering
 Ungortok,  however,  he  soon  rose  again,  and  running
@@ -14684,8 +12218,7 @@ body  lying  close  by.  He  now  cut  off  his  right  arm,  and
 holding  it  up  before  the  dead  man,  repeated  his  own
 words,  “ Behold  this  arm,  which  thou  wilt  surely  never
 forget  ! ” He  also  killed  the  orphan  child  ; and  taking
-the  old  Eastlander  with  him,  he  travelled  back  to  Kan-
-germiutsiak,  where  he  sustained  the  old  man,  whose
+the  old  Eastlander  with  him,  he  travelled  back  to  Kangermiutsiak,  where  he  sustained  the  old  man,  whose
 bones,  according  to  report,  were  laid  to  rest  in  that
 same  place.
 
@@ -14695,43 +12228,32 @@ ANCIENT  KAVDLUNAIT  IN  GREENLAND.
 
 In  former  times,  when  the  coast  was  less  peopled
 than  now,  a boat’s  crew  landed  at  Nook  (Godthaab).
-They  found  no  people,  and  traversed  the  fiord  to  Kan-
-gersunek.  Half-way  up  to  the  east  of  Kornok,  near
+They  found  no  people,  and  traversed  the  fiord  to  Kangersunek.  Half-way  up  to  the  east  of  Kornok,  near
 Ivangiusak,  they  came  upon  a large  house;  but  on
 getting  closer  to  it,  they  did  not  know  what  to  make
 of  the  people,  seeing  that  they  were  not  Kaladlit.  In
 this  manner  they  had  quite  unexpectedly  come  across
 the  first  Kavdlunak  settlers.  These  likewise  for  the
 first  time  saw  the  natives  of  the  country,  and  treated
-them  kindly  and  civilly ; but  the  Greenlanders  never-
-theless feared  them,  and  made  for  their  boats.  On
+them  kindly  and  civilly ; but  the  Greenlanders  nevertheless feared  them,  and  made  for  their  boats.  On
 getting  farther  up  the  fiord,  they  found  many  Kavdlunait
 stationed.  However,  they  did  not  put  in  anywhere,  but
 hastened  away  as  fast  as  possible.  When  the  boat  and
 its  crew  returned  from  their  summer  trip  in  the  fiord,
 
 
-313
-
-
-TALES  AND  TRADITIONS.
-
-
 they  told  their  countrymen  all  around  of  their  encounter
 with  the  foreigners,  and  many  of  them  now  travelled  up
-to  see  them.  Many  boats  having  thus  reached  Kanger-
-sunek,  they  now  began  to  have  intercourse  with  the
+to  see  them.  Many  boats  having  thus  reached  Kangersunek,  they  now  began  to  have  intercourse  with  the
 Kavdlunait,  seeing  that  they  were  well  disposed  towards
 them.  Later  on  in  the  summer,  many  more  Kaladlit
 arrived,  and  the  foreigners  began  to  learn  their  language.
 At  Kapisilik  a Kavdlunak  and  a Kalalek,  it  is  said,
-became  such  fast  friends  that  they  would  not  be  separ-
-ated, but  were  constantly  together.  They  tried  to  excel
+became  such  fast  friends  that  they  would  not  be  separated, but  were  constantly  together.  They  tried  to  excel
 each  other  at  different  games  and  feats  of  dexterity;
 and  their  countrymen  on  both  sides  were  greatly  diverted
 as  lookers-on ; but  being  both  first-rate  archers,  their
-arrows  always  fell  side  by  side.  One  day  the  Kavdlu-
-nak said,  “ Come,  let  us  climb  yon  lofty  hill ; but  first
+arrows  always  fell  side  by  side.  One  day  the  Kavdlunak said,  “ Come,  let  us  climb  yon  lofty  hill ; but  first
 we  will  stretch  a skin  for  a target  to  aim  at  on  that
 little  islet  yonder ; then  we  will  try  which  of  us  can  hit
 the  mark.  He  who  fails  shall  be  thrown  down  the
@@ -14758,18 +12280,10 @@ same  events  have  been  localised  for  each  of  the  two  tracts  of  coastl
 which  ruins  of  the  old  settlements  are  still  to  be  seen — viz.,  the  district
 
 
-TALES  AND  TRADITIONS.
-
-
-319
-
-
-of  Julianehaab,  now  most  generally  supposed  to  have  been  the  old  Easter-
-bygd,  and  the  district  of  Godthaab,  identified  with  the  ancient  Westerbygd.
+of  Julianehaab,  now  most  generally  supposed  to  have  been  the  old  Easterbygd,  and  the  district  of  Godthaab,  identified  with  the  ancient  Westerbygd.
 The  second  story,  however,  is  only  told  by  the  Godthaab  narrators,  who
 appear  to  have  linked  the  first  one  to  it,  having  previously  altered  and
-adapted  it  for  their  homestead  fiords  of  Kapisilik,  Pisigsarfik,  and  Amer-
-alik,  and  inserted  the  tale  of  Navaranak  (see  No.  18)  to  explain  the
+adapted  it  for  their  homestead  fiords  of  Kapisilik,  Pisigsarfik,  and  Ameralik,  and  inserted  the  tale  of  Navaranak  (see  No.  18)  to  explain  the
 beginning  of  the  warfare.  The  name  Kakortok  signifies  Julianehaab
 itself,  as  also  some  very  remarkable  Scandinavian  ruins  about  eight  miles
 distant  from  it.  Arpatsivik  is  an  island  between  these  places,  upon  which
@@ -14785,25 +12299,16 @@ belonging  to  some  Kavdlunait.  He  heard  them  jesting
 and  prating  inside,  and  was  strongly  minded  to  go  and
 look  in  upon  them.  Accordingly  he  left  his  kayak,  went
 up  to  the  place,  and  began  to  strike  on  the  sides  of  the
-tent.  This  made  them  apprehensive,  and  they  now  be-
-came quiet,  which  only  encouraged  him  to  continue  all
-the  more,  until  he  succeeded  in  silencing  them  alto-
-gether. Then  he  took  a peep  in  at  them,  and  behold  !
+tent.  This  made  them  apprehensive,  and  they  now  became quiet,  which  only  encouraged  him  to  continue  all
+the  more,  until  he  succeeded  in  silencing  them  altogether. Then  he  took  a peep  in  at  them,  and  behold  !
 they  were  all  dead  with  fear.  At  Ikat,  the  Kavdlunait
-living  there  were  also  taken  by  surprise  by  the  Kalad-
-lit,  and  four  fathers  fled  with  their  children  out  upon
+living  there  were  also  taken  by  surprise  by  the  Kaladlit,  and  four  fathers  fled  with  their  children  out  upon
 the  ice,  which,  however,  being  too  thin,  broke  through
 with  them,  so  that  all  were  drowned  ; and  it  is  said  that
 only  a few  years  ago  they  might  be  seen  at  the  bottom
 of  the  sea.  It  is  a common  tradition  at  Arsut,  that
 whenever  they  become  visible  it  is  a sure  foreboding
 that  one  of  the  people  will  die.
-
-
-320
-
-
-TALES  AND  TRADITIONS.
 
 
 (4.)  ENCOUNTER  OF  KALADLIT  WITH  THE  ANCIENT
@@ -14829,8 +12334,7 @@ were  miserably  killed.  The  master  of  the  house,  who
 had  escaped  along  with  his  wife,  returned  to  bring  his
 mother  out,  but  finding  her  badly  wounded  had  to  leave
 her  to  her  fate.  Some  had  in  this  manner  escaped,  and
-hastened  away  to  hide  themselves  among  the  stone-
-heaps,  from  whence  they  heard  the  enemy’s  wild  shouts
+hastened  away  to  hide  themselves  among  the  stoneheaps,  from  whence  they  heard  the  enemy’s  wild  shouts
 of  triumph.  And  the  man  had  to  witness  his  mother
 being  dragged  across  the  frozen  lake  by  a rope  fastened
 to  her  tuft  of  hair.  Though  greatly  enraged,  he  tried
@@ -14842,12 +12346,6 @@ as  they  were  bid.  No  sooner  had  they  been  observed
 by  the  Kavdlunait  than  they  were  seen  to  run  out  after
 them  ; but  the  ice  was  too  slippery  for  them,  and  they
 lost  their  footing.  Some  fell  on  their  backs,  others
-
-
-TALES  AND  TRADITIONS.
-
-
-321
 
 
 sideways,  and  some  went  tottering  about.  The  angry
@@ -14874,8 +12372,7 @@ to  the  house,  where  he  found  the  inmates  all  killed.
 PISAGSAK  AND  THE  KIVIGTOK.
 
 
-[This  tale,  having  only  been  received  from  one  narrator,  appears  too  doubt-
-ful to  be  included  among  those  that  treat  on  the  ancient  Kavdlunait.]
+[This  tale,  having  only  been  received  from  one  narrator,  appears  too  doubtful to  be  included  among  those  that  treat  on  the  ancient  Kavdlunait.]
 
 PISAGSAK  one  day  went  out  kayaking  in  order  to
 try  his  new  bird-javelin,  and  in  the  excitement  of
@@ -14889,18 +12386,11 @@ covered  with  cotton-grass,  the  down  of  which  was  car-
 x
 
 
-322
-
-
-TALES  AND  TRADITIONS.
-
-
 ried  along  by  the  wind.  On  the  further  side  the  plain
 was  bordered  by  another  mountain-wall.  He  climbed
 this  likewise,  and  far  below,  on  the  other  side,  he  now
 beheld  a little  house.  He  stole  along  to  it  and  peeped
-in  at  the  window,  but  only  saw  one  old  kivigtok  sit-
-ting at  his  work.  When  he  was  about  to  withdraw  as
+in  at  the  window,  but  only  saw  one  old  kivigtok  sitting at  his  work.  When  he  was  about  to  withdraw  as
 noiselessly  as  he  had  come,  the  old  man  accosted  him,
 saying,  “ Of  course  I have  seen  thee,  so  please  to  come
 inside.”  Pisagsak  now  entered  ; and  the  old  man,  all
@@ -14922,22 +12412,14 @@ bucks.  Pie  now  said  to  him,  “ Here  is  some  work  for  thee
 to  put  thy  hand  to  ; come  away  and  skin  them  at  once.”
 Pisagsak  remained  with  him,  and  took  charge  of  the
 household  work  ; he  learned  to  snare  partridges  and
-shoot  reindeer,  and  after  some  time  grew  very  dexter-
-ous as  a sportsman.  One  evening  the  old  kivigtok  went
+shoot  reindeer,  and  after  some  time  grew  very  dexterous as  a sportsman.  One  evening  the  old  kivigtok  went
 on,  saying,  “ To-morrow  is  the  day  when  the  women  of
-the  Kavdlunait  use  to  come  here  to  fetch  water.  I dare-
-say there  will  be  some  young  girls  among  them  : we  will
+the  Kavdlunait  use  to  come  here  to  fetch  water.  I daresay there  will  be  some  young  girls  among  them  : we  will
 go  and  have  a look  at  them.”  The  following  morning
 they  started,  and  arrived  at  a place  from  whence  they
 could  see  a great  many  houses,  beyond  which'  a spring
 was  visible ; and  they  went  to  hide  themselves  behind
 some  large  stones.  About  sunrise  the  first  girl  came,
-
-
-TALES  AND  TRADITIONS.
-
-
-323
 
 
 filled  her  pail,  and  retired.  Others  followed,  some  of
@@ -14951,11 +12433,9 @@ away,  having  first  stuffed  her  mouth  to  keep  her  from
 calling  out ; and  Pisagsak  of  course  followed  them.
 Having  reached  their  house,  they  took  away  her  boots
 to  prevent  her  from  running  away,  and  only  went  out  to
-hunt  by  turns,  in  order  to  keep  watch  on  her.  How-
-ever, the  girl  at  length  got  reconciled  to  her  fate,  and
+hunt  by  turns,  in  order  to  keep  watch  on  her.  However, the  girl  at  length  got  reconciled  to  her  fate,  and
 gave  up  all  idea  of  flight ; and  they  could  now  venture
-to  leave  the  house  together.  On  their  return  they  al-
-ways found  the  work  of  the  house  ready  done,  and  their
+to  leave  the  house  together.  On  their  return  they  always found  the  work  of  the  house  ready  done,  and  their
 clothes  and  boots  mended.  Another  day  Pisagsak  again
 accompanied  the  old  man  to  the  spring  to  look  at  the
 girls.  This  time  the  old  man  ordered  Pisagsak  to  catch
@@ -14979,17 +12459,9 @@ presently  they  had  all  got  on  the  ladder  ; but  not  until
 the  first  of  them  appeared  wielding  his  lance  above  the
 
 
-324
-
-
-TALES  AND  TRADITIONS.
-
-
 summit  of  the  steep  mountain-side  did  the  kivigtok
-loosen  the  cords  from  the  stone.  A tremendous  cry-
-now  followed,  and  the  Kavdlunait  were  all  swallowed
-up  by  the  sea.  Not  one  escaped.  After  this  catas-
-trophe the  others  for  some  time  lived  on  in  their  usual
+loosen  the  cords  from  the  stone.  A tremendous  crynow  followed,  and  the  Kavdlunait  were  all  swallowed
+up  by  the  sea.  Not  one  escaped.  After  this  catastrophe the  others  for  some  time  lived  on  in  their  usual
 way,  but  the  old  woman  at  length  took  ill,  and  died
 from  sheer  old  age ; and  after  that  Pisagsak  began  to
 long  for  his  own  home.  When  he  told  his  master,  he
@@ -15017,19 +12489,12 @@ UGTUTSIAK  and  his  sister  were  a couple  of
 
 
 \_  orphans,  and  lived  in  a great  house.  It  once
-happened  that  all  the  grown-up  people  went  away  berry-
-gathering, leaving  all  children  at  home.  Tugtutsiak,
+happened  that  all  the  grown-up  people  went  away  berrygathering, leaving  all  children  at  home.  Tugtutsiak,
 who  happened  to  be  the  eldest  of  them,  said,  “ Let  us
 try  to  conjure  up  spirits;  ” and  some  of  them  proceeded
 to  make  up  the  necessary  preparations,  while  he  himself
 undressed,  and  covered  the  door  with  his  jacket,  and
 closed  the  opening  at  the  sleeves  with  a string.  He
-
-
-TALES  AND  TRADITIONS.
-
-
-325
 
 
 now  commenced  the  invocation,  while  the  other  children
@@ -15052,8 +12517,7 @@ but  agreed  to  let  him  try  it  over  again  in  the  evening.
 At  this  proposal  Tugtutsiak  got  frightened,  and  took  to
 crying ; but  afterwards,  when  the  hunting  became  bad,
 they  wanted  him  to  conjure  up  the  sea-animals,  and  he
-was  made  to  sit  down  and  call  forth  a bear  and  a wal-
-rus, which  were  soon  roaring  outside  the  house.  The
+was  made  to  sit  down  and  call  forth  a bear  and  a walrus, which  were  soon  roaring  outside  the  house.  The
 bear  went  ashore  and  took  hold  of  Tugtutsiak,  and  flung
 him  along  to  the  walrus,  which  again  hurled  him  out  to
 the  bear.  In  this  manner  Tugtutsiak  alternately  was
@@ -15071,12 +12535,6 @@ approached,  and  for  the  first  time  observed  that  a bridge
 as  narrow  as  a knife’s  edge  led  into  the  inner  room,
 
 
-326
-
-
-TALES  AND  TRADITIONS.
-
-
 which  appeared  totally  dark.  Still  he  proceeded,  and
 made  his  way  to  the  main  room,  where  the  female  owner
 of  the  house  lay  on  the  ledge,  suffering  great  pain.  Her
@@ -15090,8 +12548,7 @@ Having,  however,  got  his  hands  entangled  in  her  long
 hair,  he  was  himself  dragged  along  with  her,  and  could
 not  extricate  himself.  He  tried  to  throw  her  off,  but
 his  hands  could  not  be  got  loose  ; and  she  surrendered  i
-herself  to  him,  saying,  “ Now  I see  thou  mayst  be  cap-
-able of  removing  my  sufferings.”  On  closer  examina-
+herself  to  him,  saying,  “ Now  I see  thou  mayst  be  capable of  removing  my  sufferings.”  On  closer  examina-
 tion Tugtutsiak  found  her  eyes,  nostrils,  and  mouth
 stuffed  with  dirt  and  filth.  He  cleaned  it  away,  and
 threw  it  outside,  after  which  the  hideous  woman  grew
@@ -15100,11 +12557,9 @@ do  my  hair.”  He  put  it  up  in  the  usual  tuft,  upon  which
 she  took  down  some  eagles’  wings  from  a nail  in  the  wall,
 and  stirred  up  the  smoking  lamp,  so  as  to  make  it  burn
 brightly.  For  the  first  time  he  could  now  see  that  the
-walls  were  hung  with  skins  like  those  used  for  boat-
-covers  ; and  though  the  lamp  was  now  burning  quite
+walls  were  hung  with  skins  like  those  used  for  boatcovers  ; and  though  the  lamp  was  now  burning  quite
 clearly,  he  could  not  distinguish  any  objects  in  the  more
-remote  parts  of  the  room,  which  were  in  total  dark-
-ness. A moment  after  he  heard  the  horrible  woman
+remote  parts  of  the  room,  which  were  in  total  darkness. A moment  after  he  heard  the  horrible  woman
 saying,  “ My  guest  ought  not  to  go  alone  ; let  some  one
 accompany  him  out : ” and  presently  a little  man  with
 a very  short  nose  emerged  from  out  of  the  wall,  and
@@ -15116,26 +12571,18 @@ with  flat  noses,  and  others  with  crooked  ones ; but  when
 they  were  getting  too  numerous  she  cried  “ Stop  ! ”
 
 
-TALES  AND  TRADITIONS.
-
-
-327
-
-
 When  the  last  were  about  to  pass  Tugtutsiak,  he
 scratched  some  of  them  in  the  forehead,  because  he
 noticed  that  they  were  transfigured  as  soon  as  they
 passed  the  doorway,  and  he  put  a mark  upon  some  of
 the  most  beautiful  specimens,  that  he  might  know  them
-again  if  he  happened  to  catch  them.  Afterwards  seve-
-ral other  curious  creatures  appeared,  some  of  them  with
+again  if  he  happened  to  catch  them.  Afterwards  several other  curious  creatures  appeared,  some  of  them  with
 large  heads  and  great  beards,  and  as  soon  as  they  were
 getting  too  numerous  she  again  cried  “ Stop  ! ” When
 these  had  all  passed  by,  he  observed  that  the  lamp
 burned  still  brighter,  and  the  way  through  the  passage
 was  now  quite  smooth,  and  sufficiently  wide,  and  the
-dog  wagged  his  tail  quite  amicably  at  him.  Simultane-
-ously with  all  these  strange  doings,  his  house-fellows  at
+dog  wagged  his  tail  quite  amicably  at  him.  Simultaneously with  all  these  strange  doings,  his  house-fellows  at
 home  observed  that  his  belongings  were  shaking.  On
 his  way  home  he  was  again  alternately  thrown  along  by
 the  bear  and  the  walrus  ; but  the  last  time  by  the  bear,
@@ -15152,23 +12599,14 @@ to  revive  a little,  but  at  daybreak  they  saw  that  his
 wounds  were  not  yet  healed,  and  so  they  continued
 the  singing.  There  happened  to  be  among  them  one
 ostentatious  fellow,  who  on  the  following  morning  went
-out  to  have  a look  at  the  ice.  On  his  return  he  ex-
-claimed, “ I guess  it  will  be  a meagre  hunt  he  will  pro-
+out  to  have  a look  at  the  ice.  On  his  return  he  exclaimed, “ I guess  it  will  be  a meagre  hunt  he  will  pro-
 cure us  but  Tugtutsiak  only  muttered,  “Wait  a bit
 — let  my  wounds  first  heal,  and  then  we  will  see ; ” and
 when  they  began  healing,  a gale  from  the  south-east  had
-suddenly  set  in.  A man  who  had  gone  out  to  recon-
-noitre quickly  returned,  reporting  that  the  ice  was
+suddenly  set  in.  A man  who  had  gone  out  to  reconnoitre quickly  returned,  reporting  that  the  ice  was
 
 
-328
-
-
-TALES  AND  TRADITIONS.
-
-
-rapidly  receding  from  the  shore,  and  instantly  after-
-wards auks  and  dovekies  were  seen  in  numbers.  The  in-
+rapidly  receding  from  the  shore,  and  instantly  afterwards auks  and  dovekies  were  seen  in  numbers.  The  in-
 habitants soon  hastened  out  with  their  fowling-spears,
 and  they  had  their  kayaks  filled  before  evening.  The
 boaster,  however,  only  got  one  bird.  When  they  began
@@ -15176,8 +12614,7 @@ to  catch  seals,  they  gave  to  the  angakok  the  first  one
 they  caught,  of  all  varieties ; and  he  examined  all  he
 got  closely,  hoping  to  find  out  those  he  had  marked,  but
 all  in  vain.  Some  time  after,  however,  the  report  came
-that  far  away  at  Illulissat  there  had  been  caught  a thong-
-seal  and  a spotted  seal  both  with  a mark  right  between
+that  far  away  at  Illulissat  there  had  been  caught  a thongseal  and  a spotted  seal  both  with  a mark  right  between
 the  eyes.
 
 
@@ -15204,12 +12641,6 @@ hunter.  He  informed  him  that  he  ought  to  dry  the
 morsel  of  dead  man’s  flesh,  and  put  it  beneath  the  point
 
 
-TALES  AND  TRADITIONS.
-
-
-329
-
-
 of  the  hunter’s  harpoon,  and  that  in  this  manner  he
 might  in  less  than  a moment  turn  a clever  hunter  into  a
 very  poor  one.  The  bladder  he  was  likewise  to  dry,
@@ -15217,18 +12648,15 @@ and  if  ever  he  happened  to  get  an  enemy,  he  was  to
 blow  it  up,  and,  while  the  other  was  asleep,  press  the
 air  out  upon  him.  At  length  Kulange  accepted  the
 gift,  and  after  making  the  grave  up  anew,  they  both
-departed.  Meanwhile  Kulange  put  by  the  things,  in-
-tending to  try  them  on  the  first  occasion.  About  the
-beginning  of  winter  one  of  his  house-fellows  had  a par-
-ticularly good  hunt,  and  consequently  got  quite  rich.
+departed.  Meanwhile  Kulange  put  by  the  things,  intending to  try  them  on  the  first  occasion.  About  the
+beginning  of  winter  one  of  his  house-fellows  had  a particularly good  hunt,  and  consequently  got  quite  rich.
 Kulange  at  once  determined  whether  he  could  put  an
 end  to  his  great  good  luck  ; with  this  view  he  put  a bit
 of  the  flesh  beneath  the  point  of  his  harpoon,  while  the
 owner  was  sleeping,  after  which  he  sneaked  silently
 away  to  his  couch.  On  the  return  of  the  kayakers  the
 following  evening,  it  happened  that  only  he  on  whose
-harpoon  the  bit  of  flesh  had  been  concealed,  was  unsuc-
-cessful ; and  this  continued  from  day  to  day  until  one
+harpoon  the  bit  of  flesh  had  been  concealed,  was  unsuccessful ; and  this  continued  from  day  to  day  until  one
 day  Kulange  again  took  it  away  and  cleaned  the  point
 well  where  it  had  been  deposited.  No  sooner  had  this
 been  done,  than  the  kayaker  returned  tugging  a large
@@ -15242,23 +12670,15 @@ with  him,  and  in  her  wrath  called  him  “ the  nasty
 Kulange.”  The  next  day  it  blew  a gale  from  the  south,
 and  he  went  out  to  fill  the  bladder  with  air.  When  she
 was  asleep  in  the  evening,  he  went  up  beside  her  and  let
-the  air  out  upon  her.  At  dawn  she  awoke  with  a swell-
-ing in  her  side,  and  later  in  the  day  she  was  swollen  all
+the  air  out  upon  her.  At  dawn  she  awoke  with  a swelling in  her  side,  and  later  in  the  day  she  was  swollen  all
 over.  Her  husband  instantly  rowed  away  to  fetch  an
 angakok  from  a neighbouring  place.  He  came  back
 with  him,  and  after  having  practised  his  incantations
 
 
-330
-
-
-TALES  AND  TRADITIONS.
-
-
 for  some  time  in  the  darkened  room,  he  knew  enough
 to  tell  that  the  misdeed  had  been  done  by  Kulange,
-who  immediately  confessed  his  guilt,  saying,  “ I cer-
-tainly did  it,  and  here  are  the  implements  given  me  by
+who  immediately  confessed  his  guilt,  saying,  “ I certainly did  it,  and  here  are  the  implements  given  me  by
 my  friend.”  Having  heard  the  whole  state  of  the  case,
 the  bewitching  objects  were  sunk  deep  in  the  sea  ; but
 the  wicked  friend  was  put  to  death.
@@ -15295,14 +12715,7 @@ he  fashioned  out  of  a sharp-edged  piece  of  bone,  for
 want  of  iron  ; and  for  the  point  of  his  lance,  having
 
 
-TALES  AND  TRADITIONS.
-
-
-331
-
-
-nothing  better,  he  used  the  rib  of  a seal.  Their  prepar-
-ations made,  they  said  to  one  another,  “ We  may  as  well
+nothing  better,  he  used  the  rib  of  a seal.  Their  preparations made,  they  said  to  one  another,  “ We  may  as  well
 run  the  risk  and  be  off ; we  are  not  of  much  account
 anyhow.”  Early  the  next  morning  they  set  off  in  their
 kayaks,  and  soon  lost  sight  of  the  outermost  islands ;
@@ -15314,19 +12727,16 @@ They  quickly  paddled  up  to  him,  all  the  time  keeping  in
 the  sun.  While  he  was  stooping  down,  resting  on  his
 paddle,  they  had  recourse  to  charms,  and  hoped  by  this
 means  to  get  the  better  of  him.  When  they  had  got
-still  closer,  the  one  that  had  no  weapons  said  to  his  com-
-panion, “ When  thou  thinkest  him  to  be  within  thy  aim,
+still  closer,  the  one  that  had  no  weapons  said  to  his  companion, “ When  thou  thinkest  him  to  be  within  thy  aim,
 lose  no  time  in  thrusting  thy  harpoon  at  him  : if  he  sees
 us  beforehand  he  will  be  sure  to  catch  us  both.”  At
-these  words  the  other  rushed  forward  and  lifted  his  har-
-poon. His  companion  thought  he  was  going  to  throw
+these  words  the  other  rushed  forward  and  lifted  his  harpoon. His  companion  thought  he  was  going  to  throw
 it,  but  while  he  was  in  the  act  of  so  doing,  he  took
 fright  and  whispered,  “ Where  ? where  ? when  ? ” At
 length,  however,  he  did  fling  the  harpoon  ; but  in  the
 meantime  the  murderer  had  heard  the  noise,  and  as
 he  was  turning  round  to  look  for  the  cause,  the  other
-missed  him,  only  hitting  the  kayak.  On  this  his  com-
-panion exclaimed,  “ Did  not  I tell  thee  to  be  quick  lest
+missed  him,  only  hitting  the  kayak.  On  this  his  companion exclaimed,  “ Did  not  I tell  thee  to  be  quick  lest
 he  should  forestall  thee  and  make  us  both  his  prey  ?
 Now  look  well  after  thy  bladder.”  The  other  merely
 replied,  “ Now  is  thy  turn  ; lance  thy  javelin  into  him.”
@@ -15338,12 +12748,6 @@ now  the  first  kayaker  launched  his  spear  at  him,  and
 another  splash  was  heard.  When  they  had  thus  killed
 him  between  them,  they  examined  his  body  and  found
 that  the  javelin  with  the  bone  point  had  killed  him
-
-
-332
-
-
-TALES  AND  TRADITIONS.
 
 
 without  even  penetrating  as  far  as  the  barbs.  They  now
@@ -15385,17 +12789,9 @@ if  thou  goest.”  He  gave  up  his  intention,  and  having
 put  further  out  to  sea,  they  once  more  looked  round  and
 
 
-TALES  AND  TRADITIONS.
-
-
-333
-
-
-saw  the  woman  jump  up  and  run  up  to  the  house  with-
-out ever  minding  her  clothes.  The  second  kayaker
+saw  the  woman  jump  up  and  run  up  to  the  house  without ever  minding  her  clothes.  The  second  kayaker
 now  remarked,  “ Being  so  strong,  she  will  very  likely
-pursue  us  in  her  boat  ; ” and  he  was  not  mistaken.  Im-
-mediately they  saw  her  creeping  down  beneath  the
+pursue  us  in  her  boat  ; ” and  he  was  not  mistaken.  Immediately they  saw  her  creeping  down  beneath  the
 boat,  intending  to  carry  it  down  on  her  back  ; and  they
 could  still  hear  her  gnashing  her  teeth,  calling  out,
 “Would  I could  kill  them  both  like  this  ! ” at  the  same
@@ -15416,8 +12812,7 @@ WO  widows,  having  each  a son,  had  chosen  their
 
 
 X winter  quarters  at  no  great  distance  from  one
-another.  Both  of  them  happened  to  have  several  neigh-
-bours ; but  though  these  principally  consisted  of  rich
+another.  Both  of  them  happened  to  have  several  neighbours ; but  though  these  principally  consisted  of  rich
 and  prosperous  people,  they  did  not  think  of  assisting
 the  poor  orphans.  Having  lost  their  supporters,  the
 widows  suffered  much  from  want,  and  they  therefore
@@ -15429,12 +12824,6 @@ lived  furthest  south  was  named  Aterfio,  and  the  other
 one  living  to  the  north  was  called  Sukallassok.  They
 grew  up  to  be  much  renowned  for  their  strength  and
 vigour.  They  always  chose  their  hunting-places  far  off
-
-
-334
-
-
-TALES  AND  TRADITIONS.
 
 
 the  coast ; and  even  in  hard  weather  and  heavy  gales
@@ -15454,15 +12843,13 @@ him  so  as  make  the  harpoon  only  touch  the  side  of  it.
 As  soon  as  he  again  had  risen,  the  thought  flashed
 through  him  to  revenge  himself  on  Sukalassok  ; but  he
 gave  up  the  idea  and  turned  towards  home.  On  his
-arrival  he  did  not  mention  the  matter  at  all ; but  some-
-time later,  in  a gale  from  the  north,  the  same  thing  hap-
+arrival  he  did  not  mention  the  matter  at  all ; but  sometime later,  in  a gale  from  the  north,  the  same  thing  hap-
 pened over  again.  He  forebore  to  take  revenge  ; but
 this  time  told  those  at  home  that  Sukalassok  had  twice
 attempted  to  kill  him.  But  his  mother  bade  him  not  to
 take  revenge.  “Never  mind,”  she  went  on  ; “let  him
 go  on  as  he  likes,  only  thou  shun  his  companionship.”
-Soon  after,  however,  Aterfio  being  busy  in  his  hunting-
-grounds,  suddenly  heard  a whizzing  sound  close  by,
+Soon  after,  however,  Aterfio  being  busy  in  his  huntinggrounds,  suddenly  heard  a whizzing  sound  close  by,
 and  presently  afterwards  was  grazed  by  an  arrow,  which
 fell  into  the  water  alongside  of  him.  His  wrath  was
 now  up,  and  he  could  not  resist  paying  him  back.  In
@@ -15471,21 +12858,13 @@ and  killed  him  right  off.  At  home  he  reported  his
 deed,  and  said  he  would  flee  to  the  south,  thinking  it
 probable  that  the  relatives  of  Sukalassok  might  take
 part  with  the  slain  and  pursue  him.  But  his  mother
-told  him  he  need  not  fear  his  new  enemies,  and  he  re-
-mained at  the  old  place  as  before.  Soon  after  he  mar-
+told  him  he  need  not  fear  his  new  enemies,  and  he  remained at  the  old  place  as  before.  Soon  after  he  mar-
 ried and  got  a son,  whom  he  called  Akeralik.  One  day
-
-
-TALES  AND  TRADITIONS.
-
-
-335
 
 
 an  old  man  came  to  visit  them,  who  reported  that  the
 relatives  of  Sukalossok  were  ill-minded  towards  Aterfio  ;
-to  which  he  rejoined,  “They  are  quite  welcome  to  any-
-thing ; and  thou  mayst  tell  them  that  I myself,  my  little
+to  which  he  rejoined,  “They  are  quite  welcome  to  anything ; and  thou  mayst  tell  them  that  I myself,  my  little
 son,  and  the  rest  of  the  household,  are  ready  to  receive
 them  whenever  they  like.”  But  from  that  day  they
 grew  suspicious,  and  not  long  afterwards  a great  many
@@ -15498,8 +12877,7 @@ the  first  to  wound  him.  Some  of  them  quickly  gained
 upon  the  rest,  and  on  coming  quite  close  to  him,  the
 foremost  took  up  his  harpoon  to  strike  him  ; although
 it  hit  the  mark,  it  did  him  no  harm,  but  the  harpoon
-broke  in  three  pieces.  The  next  kayakers  likewise  un-
-launched their  harpoons  at  him,  but  had  them  broken  in
+broke  in  three  pieces.  The  next  kayakers  likewise  unlaunched their  harpoons  at  him,  but  had  them  broken  in
 the  same  manner  without  wounding  him  in  the  least.
 They  now  held  a council,  and  agreed  in  landing  to  try
 a match  with  him  on  shore.  Aterfio  willingly  attended.
@@ -15521,12 +12899,6 @@ his  father.  His  hunting-ground  was  far  out  at  sea,  and  he
 hunted  seals  and  white  whales  alike,  and  could  keep  his
 
 
-336
-
-
-TALES  AND  TRADITIONS.
-
-
 breath  under  water  as  well  as  any  seal.  One  day  when
 they  were  a long  way  off  the  coast,  a small-topped  cloud
 rose  on  the  horizon.  Aterfio  asked  his  son,  “Dost  thou
@@ -15537,8 +12909,7 @@ kayaks  and  made  them  fast  with  the  harpoon-lines,  and
 headed  for  the  shore.  Each  of  them  had  captured  two
 seals.  Scarcely  had  they  put  about,  before  a heavy  gale
 came  rushing  down  upon  them,  turning  the  sea  into  one
-mass  of  foam,  and  completely  hiding  the  land.  A roar-
-ing noise  was  now  heard,  and  Aterfio  said,  “ Take  care
+mass  of  foam,  and  completely  hiding  the  land.  A roaring noise  was  now  heard,  and  Aterfio  said,  “ Take  care
 we  don’t  smash  together ; keep  further  away  from  me.”
 At  the  same  time  he  saw  a great  sea  topped  with  foam
 close  upon  them,  and  turning  side  on,  bolted  across
@@ -15564,12 +12935,6 @@ evening ; ye  had  better  put  in  and  take  shelter  with  us
 for  the  night.”  One  of  the  men  replied,  “ We  have
 heard  of  the  mighty  Aterfio,  and  have  come  to  offer  him
 a match.”  Aterfio  replied,  “ He  whom  ye  see  is  nothing
-
-
-TALES  AND  TRADITIONS.
-
-
-337
 
 
 extraordinary,  but  his  son  is  a man  of  great  strength  ; ”
@@ -15601,8 +12966,7 @@ INUGTUJUSOK.
 
 SEVERAL  brothers  lived  in  a large  house  with  five
 windows.  About  the  time  when  the  youngest  of
-them  had  grown  to  manhood,  a widow  with  one  beau-
-tiful daughter  happened  to  live  at  a place  not  far  off.
+them  had  grown  to  manhood,  a widow  with  one  beautiful daughter  happened  to  live  at  a place  not  far  off.
 The  brothers  were  very  kindly  disposed  towards  the
 widow,  and  when  the  youngest  had  made  the  daughter
 his  sweetheart  they  grew  still  more  intimate,  and  the
@@ -15610,18 +12974,10 @@ his  sweetheart  they  grew  still  more  intimate,  and  the
 Y
 
 
-338
-
-
-TALES  AND  TRADITIONS.
-
-
 brothers  never  failed  to  bring  her  part  of  their  hunt.
 Every  night  the  bridegroom  used  to  cross  the  country  to
-see  his  bride,  but  unhappily  there  lived  in  that  neigh-
-bourhood a wicked  angakok,  a man-slayer,  named  Inug-
-tujusok. He  had  made  himself  a hiding-place  by  dig-
-ging out  a cave  in  the  snow  like  those  formerly  used  for
+see  his  bride,  but  unhappily  there  lived  in  that  neighbourhood a wicked  angakok,  a man-slayer,  named  Inug-
+tujusok. He  had  made  himself  a hiding-place  by  digging out  a cave  in  the  snow  like  those  formerly  used  for
 fox-trapping.  Close  by  the  way  on  which  the  young
 man  used  to  pass  on  going  to  his  girl,  Inugtujusok  slyly
 made  his  cave,  and  went  to  hide  himself  there  in  order
@@ -15635,16 +12991,14 @@ will  kill  you  both.”  The  girl  pitied  her  lover,  but  being
 obliged  to  help  the  dreadful  angakok  she  pretended  to
 be  pursuing  him,  and  before  long  he  was  overtaken  and
 killed.  She  returned  home,  and  mentioned  naught
-about  the  matter  to  her  mother.  The  following  morn-
-ing, however,  the  brothers  all  came  up  to  her  house,
+about  the  matter  to  her  mother.  The  following  morning, however,  the  brothers  all  came  up  to  her  house,
 calling  out,  “ Where  is  our  brother  ? ” No  reply  was
 made.  Again  they  cried,  “ Where  is  our  brother  ? ” but
 again  no  answer  came.  At  last  they  tore  a hole  in  the
 window,  and  constantly  repeating  their  question,  went  on
 to  break  down  the  roof.  Nor  until  the  mother  said,
 “ They  have  begun  to  unroof  our  house,  do  give  them
-an  answer,”  did  she  exclaim,  “Yesterday,  on  his  re-
-turn from  our  house,  I accompanied  him  on  the  way,
+an  answer,”  did  she  exclaim,  “Yesterday,  on  his  return from  our  house,  I accompanied  him  on  the  way,
 and  saw  him  killed  by  Inugtujusok;”  and  then  she
 burst  into  tears.  The  brothers  likewise  returned  in
 tears,  and  filled  with  hatred  towards  Inugtujusok.  Well
@@ -15655,17 +13009,10 @@ intended  to  leave  for  the  north  for  fear  of  his  enemies.
 Inugtujusok  travelled  all  the  summer,  and  did  not
 
 
-TALES  AND  TRADITIONS.
-
-
-339
-
-
 settle  down  till  late  in  the  autumn,  in  the  far  north.
 There  he  got  a son,  whom  he  brought  up  with  great  care,
 saying,  “ That  since  they  had  many  enemies  he  ought
-not  to  grow  up  a good-for-nothing.”  When  he  was  full-
-grown  he  was  so  clever  and  dexterous  that  he  could
+not  to  grow  up  a good-for-nothing.”  When  he  was  fullgrown  he  was  so  clever  and  dexterous  that  he  could
 catch  the  very  tikagugdlik  (beaked  whale,  Balcenoptera
 rostrata)  with  nothing  but  the  ordinary  kayak  tools.
 When  he  had  attained  to  his  perfection,  and  could  not
@@ -15673,8 +13020,7 @@ be  conquered  by  mere  human  beings,  they  remained  no
 longer  where  they  were,  but  travelled  back  to  the  south.
 The  brothers  had  not  meanwhile  left  their  abode  ;
 but  hearing  that  their  enemy  was  drawing  nigh  they
-went  on  to  meet  him  half-way.  One  had  furnished  him-
-self with  a girdle  of  whalebone  three  fingers  wide  ; he
+went  on  to  meet  him  half-way.  One  had  furnished  himself with  a girdle  of  whalebone  three  fingers  wide  ; he
 had  first  made  it  out  of  the  skin  of  a thong-seal,  and
 tried  to  burst  it  open  by  pressing  back  his  breath,  but  this
 was  not  nearly  strong  enough  ; and  then  he  proceeded  to
@@ -15687,23 +13033,15 @@ would  not  go  back  there,  but  went  to  the  place  where
 the  brothers  had  formerly  lived.  Having  passed  the
 night,  they  loaded  their  boat  in  order  to  proceed  on
 their  journey.  In  the  meantime  the  brothers  had  also
-loaded  their  boat,  ready  to  pursue  them  as  fast  as  pos-
-sible. Discovering  their  intention,  Inugtujusok  did  not
+loaded  their  boat,  ready  to  pursue  them  as  fast  as  possible. Discovering  their  intention,  Inugtujusok  did  not
 proceed,  but  returned  to  his  former  quarters  ; and  the
 brothers  said,  “ Let  us  rather  remain  where  we  are,  that
 we  may  not  frighten  them  away.”  Winter  had  now  set
-in,  and  a little  daughter  belonging  to  one  of  the  bro-
-thers was  taken  very  ill.  They  now  advised  “ Let  us  call
+in,  and  a little  daughter  belonging  to  one  of  the  brothers was  taken  very  ill.  They  now  advised  “ Let  us  call
 in  the  angakok  Inugtujusok  that  he  may  come  and  try
 his  art  upon  her ; and  when  he  has  done  we  will  of
 course  put  him  to  death.”  An  old  bachelor  who  lived
 in  the  house  with  them  was  now  sent  off  on  this  errand  ;
-
-
-340
-
-
-TALES  AND  TRADITIONS.
 
 
 and  when  he  had  brought  his  message  to  Inugtujusok,
@@ -15718,22 +13056,16 @@ he  answered ; and  this  was  all  he  spoke.  They  treated
 him  to  a good  meal,  and  in  the  evening  the  invocation
 commenced  ; and  soon  they  agreed  that  the  little  girl
 improved  at  once,  The  brothers  thanked  him,  saying,
-“ Thou  mayst  sleep  without  fear,  and  go  back  to-mor-
-row.” When  he  awoke  and  found  himself  all  alone  he
+“ Thou  mayst  sleep  without  fear,  and  go  back  to-morrow.” When  he  awoke  and  found  himself  all  alone  he
 suspected  evil,  and  started  up.  On  raising  his  head  in
-stepping  over  the  door-sill  of  the  outer  entrance,  he  en-
-countered a man  standing  close  by,  who  accosted  him,
+stepping  over  the  door-sill  of  the  outer  entrance,  he  encountered a man  standing  close  by,  who  accosted  him,
 saying,  “ It  is  very  fine  weather,  but  it  is  only  daybreak,
-and  rather  dark  yet.”  On  hearing  these  words  he  trem-
-bled. After  speaking,  the  man,  though  not  he  with
-the  strong  girdle,  struck  him  on  the  head,  and  al-
-most stunned  him,  upon  which  the  others  rushed  in
+and  rather  dark  yet.”  On  hearing  these  words  he  trembled. After  speaking,  the  man,  though  not  he  with
+the  strong  girdle,  struck  him  on  the  head,  and  almost stunned  him,  upon  which  the  others  rushed  in
 upon  him,  beating  him  so  that  his  head  was  bruised,
 and  the  brain  gushed  forth.  The  next  morning  the  son
-of  Inugtujusok  came  on,  ready  for  them.  He  was  tak-
-ing such  strokes  with  his  oars  that  the  prow  of  his  kayak
-rose  right  out  of  the  water,  and  he  exclaimed,  “ I sup-
-pose ye  have  done  for  him  ! ” They  made  answer  from
+of  Inugtujusok  came  on,  ready  for  them.  He  was  taking such  strokes  with  his  oars  that  the  prow  of  his  kayak
+rose  right  out  of  the  water,  and  he  exclaimed,  “ I suppose ye  have  done  for  him  ! ” They  made  answer  from
 land,  “ If  thou  venturest  to  approach  this  place  we  shall
 send  thee  straight  after  him.”  At  these  words  he  rushed
 on  in  a great  passion ; but  they  stood  ready  to  receive
@@ -15743,12 +13075,6 @@ crying,  “ To-morrow  ye  shall  be  my  spoil ! ” The  old
 bachelor,  however,  warned  him,  saying,  “ Thou  hadst
 better  give  it  up,  and  leave  thy  father  alone.  He  was
 only  paid  back  according  to  his  deserts,  being  himself  a
-
-
-TALES  AND  TRADITIONS.
-
-
-341
 
 
 man-slayer.”  And  the  son  of  Inugtujusok  responded,
@@ -15770,8 +13096,7 @@ GREAT  many  brothers  were  living  in  a house  to-
 
 
 gether,  with  but  one  female  ; that  one  being  their
-old  mother.  Beside  the  house  they  occupied  was  an-
-other inhabited  by  an  old  couple,  whose  children  con-
+old  mother.  Beside  the  house  they  occupied  was  another inhabited  by  an  old  couple,  whose  children  con-
 sisted of  girls  only  ; and  they  never  left  their  parents.
 When  the  brothers  removed  to  the  other  side  of  the
 fiord  in  search  of  provender  the  old  people  followed
@@ -15783,17 +13108,10 @@ elder  ones  went  out  kayaking,  and  repaired  to  their
 mother’s  grave  to  mourn  her  death.  At  last  they
 moved  back  to  their  usual  winter  station,  and  the  old
 people  likewise  resorted  to  their  hut.  From  this  place
-also  the  brothers  continued  alternately  to  go  out  hunt-
-ing one  day,  and  visit  their  mother’s  grave  the  next,
+also  the  brothers  continued  alternately  to  go  out  hunting one  day,  and  visit  their  mother’s  grave  the  next,
 whereas  the  youngest  always  stopped  at  home  to  flense
 the  seals  and  attend  to  the  other  house-work.  One  day,
 on  reaching  the  grave,  they  noticed  that  the  top-stones
-
-
-342
-
-
-TALES  AND  TRADITIONS.
 
 
 had  been  disturbed,  and  were  out  of  their  proper  place  ;
@@ -15818,27 +13136,18 @@ come  to  thee,  but  because  the  tomb  of  our  mother  has
 recently  been  disturbed.”  “ But  who  could  possibly
 have  done  it?”  the  old  man  exclaimed;  “I  am  but  a
 poor  decayed  fellow,  and  am  hardly  able  to  get  up  to
-the  little  house  on  the  shore.”  The  eldest  brother  an-
-swered him  : “ Notwithstanding,  I know  thou  art  the
+the  little  house  on  the  shore.”  The  eldest  brother  answered him  : “ Notwithstanding,  I know  thou  art  the
 trespasser,  inasmuch  as  we  all  saw  thee  pilfering  about
 the  grave  yesterday  and  so  saying,  he  rushed  upon
 him,  and  hauling  him  outside  the  tent  killed  him  on  the
 spot  This  done  he  returned  to  the  hut,  and  going  right
-up  to  the  eldest  girl,  said  to  her,  “ Thy  father  shall  re-
-compense me  through  his  daughter ; ” upon  which  he
+up  to  the  eldest  girl,  said  to  her,  “ Thy  father  shall  recompense me  through  his  daughter ; ” upon  which  he
 brought  her  home  and  took  her  for  his  wife.  The  next
 day  the  younger  brothers  were  to  watch  her  during  the
 absence  of  the  elder  ones,  lest  she  should  make  her
-escape.  She  remained  there  for  a long  while,  but  con-
-tinued to  be  very  obstinate,  and  could  not  be  made  to
+escape.  She  remained  there  for  a long  while,  but  continued to  be  very  obstinate,  and  could  not  be  made  to
 lie  down  on  the  ledge,  but  remained  sitting  up  till  dawn
 of  day.  At  last  she  determined  to  kill  her  husband.
-
-
-TALES  AND  TRADITIONS.
-
-
-343
 
 
 He  always  used  to  put  his  knife  in  front  of  the  lamp  on
@@ -15854,14 +13163,12 @@ silently  expired.  Without  drawing  the  knife  back,  she
 hurried  away  to  her  mother’s  house,  saying,  “ Pack  up
 thy  things  speedily  and  let  us  be  off ; I have  killed  the
 eldest  brother.”  That  same  night  the  boat  was  loaded,
-and  they  started.  She  who  had  slain  her  husband  ques-
-tioned the  man  at  the  steer-oar,  “ What  way  are  we
+and  they  started.  She  who  had  slain  her  husband  questioned the  man  at  the  steer-oar,  “ What  way  are  we
 going?”  He  answered,  “I  shall  follow  the  coast  up
 north.”  But  she  thought  that  the  pursuers  would  most
 probably  likewise  take  that  direction;  when  he  turned  to
 the  south,  she  feared  that  they  would  do  the  same,  when
-they  had  sought  them  in  vain  to  the  north  ; and  she  ad-
-vised him  to  steer  right  to  sea.  No  sooner  had  they
+they  had  sought  them  in  vain  to  the  north  ; and  she  advised him  to  steer  right  to  sea.  No  sooner  had  they
 turned  their  prow  off 'the  land  than  the  foremost  of  the
 women-rowers  broke  her  oar.  She  asked  for  that  of  her
 neighbour,  but  broke  that  too  ; and  thus  went  on  to
@@ -15880,12 +13187,6 @@ the  shore,  they  landed  there.  It  so  happened  that  only
 one  man  was  standing  outside ; with  this  exception  all
 
 
-344
-
-
-TALES  AND  TRADITIONS.
-
-
 there  happened  to  be  women.  They  were  invited  to
 come  in,  and  they  accordingly  entered.
 
@@ -15901,8 +13202,7 @@ and  having  again  passed  by  their  own  place,  they  now
 rowed  south.  There  they  had  no  better  luck  ; and  having
 roamed  about  for  a long  time,  they  only  returned  home
 in  time  to  get  settled  for  the  winter.  Next  summer  they
-also  put  out  to  sea,  intending  to  cross  the  sea  for  Akili-
-nek,  but  having  reached  the  land  on  the  other  side,  they
+also  put  out  to  sea,  intending  to  cross  the  sea  for  Akilinek,  but  having  reached  the  land  on  the  other  side,  they
 made  to  the  north  instead  of  to  the  south  ; and  having
 put  many  inquiries  to  different  people  they  happened
 to  meet  with  on  the  coast,  they  gave  up  the  chase,  and
@@ -15916,46 +13216,33 @@ called  his  name  after  that  of  his  poor  deceased  father.
 The  grandmother  ordered  them,  “ Bring  me  my  bag ! ”
 and  having  got  it  she  produced  the  whetstone  of  the
 inuarutligaks  (mountain-elves)  from  the  bottom  of  it ;
-and  rubbing  the  new-born  baby  with  it,  she  went  on  re-
-peating : “ Child  ! be  as  hard  as  this  stone  ” (viz.,  invul-
+and  rubbing  the  new-born  baby  with  it,  she  went  on  repeating : “ Child  ! be  as  hard  as  this  stone  ” (viz.,  invul-
 nerable, by  charm) ; and  each  time  the  child  got  a new
 suit  of  clothes  she  would  give  him  a rub  with  the  stone,
 repeating  the  words,  “ Be  hard,”  &c.  In  course  of  time,
 when  the  son  had  got  more  children,  he  one  day  chanced
-to  ask  whether  there  were  no  more  people  in  that  coun-
-try. One  of  the  women  answered  him,  “ Ah,  yes,  to  the
+to  ask  whether  there  were  no  more  people  in  that  country. One  of  the  women  answered  him,  “ Ah,  yes,  to  the
 north  of  us  are  plenty  of  people,  but  having  never  been
 
 
-TALES  AND  TRADITIONS.
-
-
-345
-
-
-there  we  don’t  know  them.”  After  this  he  tried  to  per-
-suade his  brother-in-law  to  follow  him  thither.  At  first,
+there  we  don’t  know  them.”  After  this  he  tried  to  persuade his  brother-in-law  to  follow  him  thither.  At  first,
 however,  he  would  not  consent  to  go  to  these  strange
 people  ; but  when  the  other  went  on  entreating,  he  at  last
 agreed,  and  they  started  with  only  one  boat.  After  a
 rather  long  journey,  they  at  last  passed  by  a foreland,
 under  shelter  of  which  they  saw  a great  many  tents
-pitched  round  a little  bay.  The  fugitive,  next  morn-
-ing, ascended  a hill ; but  seeing  a kayaker  shove  off  from
+pitched  round  a little  bay.  The  fugitive,  next  morning, ascended  a hill ; but  seeing  a kayaker  shove  off  from
 land  he  hastened  down,  and  likewise  got  into  his  kayak
 in  order  to  make  his  acquaintance.  On  getting  up  with
 him,  he  thought  he  knew  his  features,  thinking  them  to
-be  those  of  the  next  younger  brother  he  had  been  liv-
-ing with  in  his  former  home.  On  their  way  to  the
+be  those  of  the  next  younger  brother  he  had  been  living with  in  his  former  home.  On  their  way  to  the
 hunting-place,  he  went  on  to  question  him  thus : “ Art
 thou  a native  of  this  country?”  “Yes,  I was  bora
 here.”  “Art  thou  also  grown  up  here?”  “No,  I am
-neither  born  nor  grown  up  here,  but  in  the  country  op-
-posite. When  our  eldest  brother  was  killed  by  his  wife
+neither  born  nor  grown  up  here,  but  in  the  country  opposite. When  our  eldest  brother  was  killed  by  his  wife
 we  left  our  land  in  search  of  her,  hoping  to  find  her  out,
 and  finally  landed  here.”  The  fugitive  said,  “ Art  thou
-married?”  “Yes,  I am.”  “Are  all  thy  brothers  mar-
-ried?” “Yes,  excepting  the  youngest.”  “Hast  thou
+married?”  “Yes,  I am.”  “Are  all  thy  brothers  married?” “Yes,  excepting  the  youngest.”  “Hast  thou
 got  any  children  ? ” “Yes,  two — both  boys.”  “Have
 thy  brothers  got  children?”  “Yes,  and  all  of  them
 boys.”  On  his  return  from  the  hunt,  after  having  been
@@ -15972,12 +13259,6 @@ in  with  them?”  Their  old  adversary,  the  woman  who
 had  committed  the  murder,  was  busy  making  sewing-
 
 
-346
-
-
-TALES  AND  TRADITIONS.
-
-
 thread.  Her  brother  said,  “ They  say  that  womankind
 are  not  fit  to  revenge  themselves  on  men;"  and  taking  up
 a large  knife,  he  gave  it  to  the  other,  saying,  “ Look
@@ -15987,8 +13268,7 @@ first.”  The  bad  man  at  once  thrust  his  knife  at  the
 boy,  who  was  standing  erect  in  the  centre  of  the  tent ;
 but  the  knife  glided  off  him,  and  a sound  was  heard  as
 if  it  had  struck  against  something  hard.  On  finding
-that  they  were  not  able  to  pierce  him  through,  he  ex-
-amined the  knife  and  found  it  broken  ; on  which  he  re-
+that  they  were  not  able  to  pierce  him  through,  he  examined the  knife  and  found  it  broken  ; on  which  he  re-
 turned it  to  the  owner,  and  they  all  left  the  tent.  Shortly
 after,  the  former  fugitive  went  outside  and  saw  to  his
 amazement  the  people  preparing  to  leave  the  place.  He
@@ -16016,18 +13296,10 @@ mother  of  having  caused  his  death,  and  they  only  waited
 a time  when  they  should  find  her  alone  in  the  house  to
 
 
-TALES  AND  TRADITIONS.
-
-
-347
-
-
-charge  her  with  the  deed.  One  morning  Ernersiak  fur-
-nished himself  with  some  strings,  and  went  away  to  set
+charge  her  with  the  deed.  One  morning  Ernersiak  furnished himself  with  some  strings,  and  went  away  to  set
 up  fox-traps,  and  the  brothers,  profiting  by  his  absence,
 entered  and  struck  the  old  woman  dead.  But  the  strong
-man  took  pity  on  Ernersiak  ; and  when  he  saw  him  re-
-turning he  went  out  to  meet  him,  and  said,  “ Don’t  thou
+man  took  pity  on  Ernersiak  ; and  when  he  saw  him  returning he  went  out  to  meet  him,  and  said,  “ Don’t  thou
 go  into  the  tent  ; thou  won’t  see  her  any  more  ; the
 brothers  killed  her  this  morning  as  soon  as  thou  wert
 gone  ; ” and  the  strong  man  adopted  him,  and,  for  want
@@ -16045,32 +13317,22 @@ how  to  draw  hook  and  crook.  But  he  admonished  him
 not  to  join  the  other  children  at  ball-playing,  and  for
 this  reason  Ernersiak  was  always  seen  standing  with
 one  arm  out  of  his  sleeve  (a  token  of  modesty),  and
-regarding  them  from  a safe  distance.  One  day,  how-
-ever, while  he  was  thus  looking  on,  he  got  a severe
+regarding  them  from  a safe  distance.  One  day,  however, while  he  was  thus  looking  on,  he  got  a severe
 stroke  on  the  top  of  his  head,  at  which  he  fell  to  the
 ground  in  a swoon  ; when  he  came  to  himself,  nobody
 was  near.  Another  time  he  was  again  struck  down  in
 the  same  manner,  but  on  rising  he  plainly  saw  some  one
 sneaking  away.  Hurrying  after  him,  he  found  him
 hiding  behind  a rock  ; and  making  right  up  to  him,  he
-took  hold  of  him  by  the  collar  of  his  jacket,  and,  hurl-
-ing him  several  times  round  in  the  air,  flung  him  to  the
+took  hold  of  him  by  the  collar  of  his  jacket,  and,  hurling him  several  times  round  in  the  air,  flung  him  to  the
 ground  with  such  force  that  the  blood  gushed  out  of
-his  mouth  and  nose.  “ Ernersiak  has  been  up  to  mis-
-chief,” was  now  all  the  cry;  and  a large  skin  was  pro-
+his  mouth  and  nose.  “ Ernersiak  has  been  up  to  mischief,” was  now  all  the  cry;  and  a large  skin  was  pro-
 duced to  carry  the  wounded  boy  away  upon,  while
-
-
-348
-
-
-TALES  AND  TRADITIONS.
 
 
 Ernersiak  seated  himself  on  a little  mound  in  front  of
 the  house.  Soon  after  the  kayakers  were  seen  to  return,
-and  they  were  welcomed  with  the  same  cry — “ Erner-
-siak has  been  up  to  mischief.”  When  his  foster-father
+and  they  were  welcomed  with  the  same  cry — “ Ernersiak has  been  up  to  mischief.”  When  his  foster-father
 heard  this,  he  speedily  loosened  his  towing-line,  and
 running  up  to  Ernersiak  said  that  they  intended  to  kill
 him.  The  brothers  by  this  time  had  also  got  on  shore,
@@ -16097,8 +13359,7 @@ would  relish  that,  and  on  entering  with  it,  remarked,
 “ The  very  last  boat  is  now  leaving  us,  and  we  shall
 have  no  neighbours  henceforth.”  On  hearing  this,  he
 leaned  forward  and  chuckled  grimly,  well  knowing  that
-he  had  been  the  cause  of  their  hasty  departure  ; he  en-
-joyed the  idea  vastly,  and  from  that  moment  he  began
+he  had  been  the  cause  of  their  hasty  departure  ; he  enjoyed the  idea  vastly,  and  from  that  moment  he  began
 to  find  his  appetite.  His  father,  who  now  deemed  it
 only  fair  that  he  should  have  his  own  kayak,  set  to
 building  him  one,  and  subsequently  began  to  teach  him
@@ -16106,28 +13367,19 @@ how  to  manage  it,  and  before  long  the  pupil  proved
 himself  very  apt  at  paddling  as  well  as  hunting  in  kayak.
 
 
-TALES  AND  TRADITIONS.
-
-
-349
-
-
 When  his  father  awoke  in  the  morning,  his  son  had
 already  fetched  his  kayak-jacket,  and  when  the  father
 went  away  for  his  own  jacket,  the  son  was  already  seated
-in  his  kayak,  waiting  for  his  father,  and  invariably  re-
-turned home  with  some  capture.  One  day  he  had  been
+in  his  kayak,  waiting  for  his  father,  and  invariably  returned home  with  some  capture.  One  day  he  had  been
 waiting  in  his  kayak  for  his  father  to  come  down  and
 start  with  him  ; but  thinking  him  too  long  about  it  he
 paddled  away  alone,  following  the  coast  southwards,  and
 there,  behind  a cape,  he  suddenly  fell  in  with  another
-kayaker.  This  man,  however,  did  not  recognise  Erner-
-siak,  because  he  left  him  before  he  had  got  his  kayak.
+kayaker.  This  man,  however,  did  not  recognise  Ernersiak,  because  he  left  him  before  he  had  got  his  kayak.
 He  asked  him  to  go  with  him  and  visit  his  people  ; and
 presently  they  came  upon  a place  covered  with  tents,  in
 front  of  which  a number  of  people  were  engaged  in
-building  boats,  kayaks,  &c.  On  catching  sight  of  Er-
-nersiak  and  his  companion,  they  shouted,  “ Look  there  !
+building  boats,  kayaks,  &c.  On  catching  sight  of  Ernersiak  and  his  companion,  they  shouted,  “ Look  there  !
 Ernersiak  has  turned  a kayaker.”  At  this  moment
 Ernersiak’s  companion  paddled  on  in  advance  of  him,
 intending  to  make  the  shore  before  him  ; but  Ernersiak
@@ -16151,12 +13403,6 @@ despatch  the  whole  of  you  ; but  I have  heard  of  plenty
 good  hunting  away  to  the  north,  and  I will  encourage
 
 
-350
-
-
-TALES  AND  TRADITIONS.
-
-
 him  to  go  thither.”  After  this  speech  he  returned,  and
 did  not  fail  to  tell  his  son  the  exciting  report,  and  found
 him  very  anxious  to  try  that  place.  In  the  spring  they
@@ -16164,18 +13410,14 @@ left  their  old  quarters,  and  travelled  northwards  the
 whole  summer-time.  Just  as  the  frost  was  beginning  to
 harden  the  earth  a little,  they  got  to  a place  with  many
 tents,  and  being  hailed  from  land  to  put  in  there,  they
-went  ashore  accordingly.  They  were  very  civilly  re-
-ceived, and  were  not  allowed  to  trouble  themselves
-about  their  luggage  ; the  inhabitants  of  the  place  un-
-loaded and  carried  it  all  up  for  them.  It  happened  that
+went  ashore  accordingly.  They  were  very  civilly  received, and  were  not  allowed  to  trouble  themselves
+about  their  luggage  ; the  inhabitants  of  the  place  unloaded and  carried  it  all  up  for  them.  It  happened  that
 Ernersiak  being  somewhat  fatigued  with  kayaking,  had
 seated  himself  in  the  boat  for  a rest ; and  on  finding  his
 tools  and  weapons  so  heavy  that  they  had  to  carry  them
 on  their  shoulders,  the  people  remarked,  that  he  was  not
-likely  ever  to  have  more  use  for  them.  The  foster-
-father  overhearing  their  talk,  in  the  evening  repeated  it
-to  Ernersiak,  who,  tickled  at  the  idea,  burst  out  laugh-
-ing. This  was  his  first  mirth  since  the  murder.  In  this
+likely  ever  to  have  more  use  for  them.  The  fosterfather  overhearing  their  talk,  in  the  evening  repeated  it
+to  Ernersiak,  who,  tickled  at  the  idea,  burst  out  laughing. This  was  his  first  mirth  since  the  murder.  In  this
 place  they  passed  the  winter.  One  morning,  on  coming
 outside,  Ernersiak  was  astonished  not  to  see  any  one
 about  the  houses  as  usual  ; but  on  glancing  round  he
@@ -16192,14 +13434,8 @@ tossed  back  its  head,  blew  a great  puff  of  air  at  him,  and
 rushed  towards  him,  while  he  kept  steadily  moving  in
 upon  it.  About  the  distance  of  an  arrow-shot,  he  aimed
 his  weapon  at  it,  and  when  the  animal  bent  down  and
-curved  its  back,  he  lanced  and  thrust,  instantly  de-
-spatching it.  Having  towed  it  ashore,  he  went  back
+curved  its  back,  he  lanced  and  thrust,  instantly  despatching it.  Having  towed  it  ashore,  he  went  back
 
-
-TALES  AND  TRADITIONS.
-
-
-351
 
 to  catch  one  more  before  he  landed  for  good  himself.
 Towards  spring  they  again  prepared  to  go  south,  but
@@ -16216,8 +13452,7 @@ THE  OLD  SOUTHLANDER.
 
 IN  days  of  yore  there  was  an  old  man  who  lived  down
 south  with  his  only  son,  a very  dexterous  and  able
-sportsman,  in  the  country  near  Agdluitsok  (South  Green-
-land). When  this  son  was  able  to  supply  their  wants,
+sportsman,  in  the  country  near  Agdluitsok  (South  Greenland). When  this  son  was  able  to  supply  their  wants,
 the  father  left  everything  to  his  care,  and  for  his  part
 lived  only  to  eat  and  sleep.  One  day  the  son  did  not
 return  as  usual  in  the  evening.  It  was  the  season  for
@@ -16238,28 +13473,19 @@ harpoon  and  a lance.  He  also  provided  himself  with  a
 new  bladder.  From  that  time  he  resumed  all  his  former
 
 
-352
-
-
-TALES  AND  TRADITIONS.
-
-
 habits — going  out  kayaking,  always  hoping  to  find  an
 opportunity  to  avenge  his  son.  One  morning  early,  he
 went  off  to  one  of  the  hunting-grounds  farthest  out  at
 sea.  After  a while  he  came  back  inside  the  reefs,  and
-on  approaching  the  shore  encountered  a kayaker  tow-
-ing a seal  and  making  for  the  land.  This  was  the
+on  approaching  the  shore  encountered  a kayaker  towing a seal  and  making  for  the  land.  This  was  the
 murderer  of  his  son.  Keeping  right  in  the  sunlight,  he
 looked  carefully  about  to  see  if  they  were  alone  ; and
 having  first  made  sure  of  his  man,  who  did  not  detect
 him,  being  blinded  by  the  sun,  he  suddenly  rushed  in
-upon  him,  and,  lifting  his  weapon,  gave  him  the  death-
-stroke.  He  towed  him  towards  land  ; but  on  seeing
+upon  him,  and,  lifting  his  weapon,  gave  him  the  deathstroke.  He  towed  him  towards  land  ; but  on  seeing
 an  iceberg  driven  up  on  the  rocks  by  the  tide,  he  made
 him  fast  to  this  ; and  leaving  him  there,  pursued  his
-way  landwards  to  let  his  brothers  know  what  had  hap-
-pened. They  were  all  at  home,  and  his  cousin  was
+way  landwards  to  let  his  brothers  know  what  had  happened. They  were  all  at  home,  and  his  cousin  was
 among  them.  They  were  sitting  in  the  open  air  outside
 their  tents,  when  they  suddenly  beheld  him  paddling  in
 with  unwonted  speed.  He  stopped  short,  and  called
@@ -16267,13 +13493,11 @@ aloud  to  those  on  shore,  “ Since  your  brother  wanted  to
 get  rid  of  his  life,  I have  done  away  with  it.”  He  then
 turned  quickly  away,  and  made  for  his  own  abode.
 They  all  stood  gazing  wonderingly  at  him  while  he  was
-making  such  way  through  the  rushing  waters,  all  foam-
-ing about  him.  Then  the  brothers  began  to  cry,  and
+making  such  way  through  the  rushing  waters,  all  foaming about  him.  Then  the  brothers  began  to  cry,  and
 prepared  to  fetch  home  their  dead.  They  found  him
 awfully  massacred.  But  the  old  man  again  ceased
 kayaking  and  hunting  from  the  time  he  had  killed  the
-murderer.  Whilst  he  still  had  his  tent  pitched  along-
-side of  his  winter-house,  his  cousin  one  day  came  to  tell
+murderer.  Whilst  he  still  had  his  tent  pitched  alongside of  his  winter-house,  his  cousin  one  day  came  to  tell
 him  that  the  brothers  had  been  calling  several  relatives
 together  with  a view  to  attacking  him  in  company.
 When  he  heard  this,  he  employed  himself  in  making  a
@@ -16281,12 +13505,6 @@ great  supply  of  arrows,  but  otherwise  remained  quietly
 at  his  place,  not  leaving  home  at  all.  One  day  he
 espied  the  long-expected  kayakers  crossing  the  bay  to
 attack  him  in  his  loneliness.  He  went  to  fetch  his
-
-
-TALES  AND  TRADITIONS.
-
-
-353
 
 
 bow ; and,  dividing  his  arrows  into  three  portions,  he
@@ -16303,16 +13521,13 @@ bent  for  him.  At  the  third  point  they  fared  no  better;
 and  becoming  awed  by  his  great  expertness,  they  soon
 retreated.  Subsequently  he  was  again  informed  of  an
 intended  attack,  and  that  they  were  coming  in  still
-greater  number;  but  he  said,  “ They  may  come  when-
-ever they  please  ; this  time  I am  not  even  going  to  use
+greater  number;  but  he  said,  “ They  may  come  whenever they  please  ; this  time  I am  not  even  going  to  use
 any  weapons ; I only  intend  to  show  my  face.”  His
 tent,  they  say,  lay  just  above  the  water-mark.  The
-tide  happened  to  be  full ; and  there  he  sat  within  sing-
-ing a magic  song  to  have  his  face  enlarged  ; and  as  he
+tide  happened  to  be  full ; and  there  he  sat  within  singing a magic  song  to  have  his  face  enlarged  ; and  as  he
 sang,  it  grew  in  size,  but  he  went  on  until  it  fairly
 resembled  the  full  moon.  He  then  went  out  into  the
-front  part  of  the  tent,  hiding  himself  among  the  skin-
-curtains.  At  this  time  one  of  the  men  had  just  got  out
+front  part  of  the  tent,  hiding  himself  among  the  skincurtains.  At  this  time  one  of  the  men  had  just  got  out
 of  his  kayak,  and  prepared  to  enter  ; but  turning  round,
 he  started  at  seeing  the  terrible  face  which  the  old  man
 poked  out  towards  him  through  the  entrance.  "A
@@ -16321,17 +13536,10 @@ almost  capsizing  his  kayak,  he  put  about,  and  quickly
 rowed  away.  Another  was  now  ready  to  enter,  but  met
 the  same  face ; and  merely  by  showing  his  face,  he
 succeeded  in  keeping  them  all  off,  and  was  attacked  no
-more.  When  they  were  all  gone,  he  sang  a counter-
-acting lay  to  get  his  face  to  its  proper  shape  again.
+more.  When  they  were  all  gone,  he  sang  a counteracting lay  to  get  his  face  to  its  proper  shape  again.
 Next  spring,  he  heard  that  his  enemies,  in  company
 with  some  others,  were  chasing  spotted  seals.  He  now
 made  himself  a couple  of  very  large  bladder-arrows  ;
-
-
-354
-
-
-TALES  AND  TRADITIONS.
 
 
 and  one  fine  day  kayaked  away  to  have  a look  at  them.
@@ -16346,8 +13554,7 @@ pierce  it  with  his  two  big  arrows  ; and  tearing  out  the
 first  one,  he  threw  it  contemptuously  to  the  owner.
 With  one  hand  he  lifted  the  seal  upon  the  kayak  behind
 him,  and  left  his  enemies  in  utter  amazement.  They
-never  afterwards  ventured  to  attack  one  who,  notwith-
-standing his  great  age,  had  such  strength  and  vigour
+never  afterwards  ventured  to  attack  one  who,  notwithstanding his  great  age,  had  such  strength  and  vigour
 left.  The  old  man  at  length  died  in  peace  without  being
 killed  or  even  wounded.
 
@@ -16370,15 +13577,8 @@ spring,  when  the  first  seals  had  made  their  appearance,
 they  used  to  bring  full-loaded  boats  with  dried  meat  to
 their  storehouses.  Once  Kukajak  happened  to  have
 put  by  a greater  store  than  his  friend,  and  this  made
-Naujarsuak  jealous.  Kukajak  used  to  go  away  deer-
-hunting in  the  spring,  and  did  the  same  that  summer;
+Naujarsuak  jealous.  Kukajak  used  to  go  away  deerhunting in  the  spring,  and  did  the  same  that  summer;
 and  on  his  way  home  in  the  autumn,  he  was  as  usual  to
-
-
-TALES  AND  TRADITIONS.
-
-
-355
 
 
 pass  by  his  store-places  on  the  coast,  and  take  out  some
@@ -16388,21 +13588,16 @@ on  arriving  at  his  stores,  he  found  that  the  foxes  had
 been  there  beforehand,  and  had  left  nothing  for  him.
 On  a close  examination,  he  found  out  that  some  one
 had  been  making  little  holes  in  the  stone  coverings,  just
-large  enough  for  a fox  to  pass  through.  He  got  ex-
-tremely vexed  ; and  at  home  he  learned  that  Naujarsuak
-had  made  the  holes  during  his  absence.  At  this  intel-
-ligence he  became  still  more  angry ; but  nevertheless  he
+large  enough  for  a fox  to  pass  through.  He  got  extremely vexed  ; and  at  home  he  learned  that  Naujarsuak
+had  made  the  holes  during  his  absence.  At  this  intelligence he  became  still  more  angry ; but  nevertheless  he
 could  not  help  longing  for  his  friend  ; and  he  started  on
 a visit  to  him  the  day  after.  Naujarsuak,  in  his  turn,
 was  longing  as  much  to  see  Kukajak  ; and  as  soon  as
 the  other  had  arrived,  he  hastened  to  draw  his  kayak
 on  land,  and  take  him  to  his  house.  During  the  meal,
-Kukajak  carelessly  observed,  “ I also  had  a small  por-
-tion of  dried  meat  put  by,  but  the  foxes  have  carried  it
-•all  off,  which  has  never  happened  to  me  before.”  Nau-
-jarsuak remarked,  “Thou  hast  been  wrong  in  coming
-so  late  to  look  after  thy  stores.”  At  this  speech  Ku-
-kajak got  inwardly  enraged.  Having  passed  the  night
+Kukajak  carelessly  observed,  “ I also  had  a small  portion of  dried  meat  put  by,  but  the  foxes  have  carried  it
+•all  off,  which  has  never  happened  to  me  before.”  Naujarsuak remarked,  “Thou  hast  been  wrong  in  coming
+so  late  to  look  after  thy  stores.”  At  this  speech  Kukajak got  inwardly  enraged.  Having  passed  the  night
 beneath  his  friend’s  roof,  he,  as  usual,  invited  him  to
 accompany  him  home  to  have  some  dried  reindeer-flesh.
 While  they  were  thus  talking,  they  saw  from  land  some
@@ -16420,14 +13615,10 @@ thus — “ Now  thou  hast  seen  thy  father  killed,  it  will  not
 do  for  thee  to  grow  up  in  idleness.”  He  then  resolved
 
 
-356  TALES  AND  TRADITIONS.
-
 to  leave  his  place,  where  he  was  continually  reminded
 of  his  lost  son.  They  travelled  on  to  Amerdlok  (the
-present  Holsteinsborg),  where  they  established  them-
-selves for  the  winter.  Here  the  boy  grew  up  under  the
-constant  care  and  unceasing  admonitions  of  his  grand-
-father ; and  he  was  never  seen  to  smile.  While  they
+present  Holsteinsborg),  where  they  established  themselves for  the  winter.  Here  the  boy  grew  up  under  the
+constant  care  and  unceasing  admonitions  of  his  grandfather ; and  he  was  never  seen  to  smile.  While  they
 were  still  at  Amerdlok,  he  grew  to  manhood,  assisted
 at  the  whale-fishing,  and  turned  out  an  able  and  expert
 kayaker.  Under  these  circumstances,  the  old  man
@@ -16441,10 +13632,8 @@ they  inquired,  “Have  ye  heard  nothing  of  Ivukajak  ? ”
 but  invariably  the  answer  was,  “No;  we  don’t  know
 him.”  Far  away  south,  however,  they  met  some  people
 who  told  them — “ Kukajak  ! ah,  yes  ; he  is  all  right !
-but  getting  rather  old  now,  and  has  taken  to  frog-
-fishing.” At  length  they  reached  their  former  home,
-and  settled  there  for  good.  All  their  relatives  imme-
-diately came  to  see  them  after  their  long  absence  ; and
+but  getting  rather  old  now,  and  has  taken  to  frogfishing.” At  length  they  reached  their  former  home,
+and  settled  there  for  good.  All  their  relatives  immediately came  to  see  them  after  their  long  absence  ; and
 on  leaving  they  presented  them  with  some  of  the  longest
 and  best  whalebones.  They  had  many  unexpected
 visitors,  some  of  whom  only  came  in  the  hope  of
@@ -16456,22 +13645,14 @@ the  murder  of  his  father.  He  one  day  requested  his
 grandfather  to  make  him  a very  big  harpoon,  with  a
 strong  line  to  match.  The  grandfather  got  it  ready  for
 him  the  very  next  day  ; and,  regarding  it  with  great
-satisfaction,  the  son  smiled,  and  thanked  him,  and  con-
-cealed it  carefully  beneath  the  ledge.  Some  time  after,
+satisfaction,  the  son  smiled,  and  thanked  him,  and  concealed it  carefully  beneath  the  ledge.  Some  time  after,
 Kukajak  took  a great  fancy  to  go  and  ask  the  son  of
-
-
-TALES  AND  TRADITIONS.
-
-
-357
 
 
 his  betrayed  friend  for  a piece  of  whalebone  for  his
 fishing-line,  but  on  further  consideration  gave  up  the
 idea,  fearing  that  he  might  bring  down  vengeance  upon
-himself  if  he  carried  it  out.  However,  the  people  there-
-about were  always  telling  him  of  the  gifts  they  had
+himself  if  he  carried  it  out.  However,  the  people  thereabout were  always  telling  him  of  the  gifts  they  had
 received,  saying,  “ If  thou  goest,  thou  wilt  be  sure  to
 get  some  too  : it  was  only  the  other  day  the  old  man
 said  that  he  longed  much  to  see  thee.”  On  hearing  this,
@@ -16481,14 +13662,12 @@ He  got  a friendly  welcome,  and  was  beginning  to  think
 repast  was  soon  served  up  before  him  ; and  the  talk  went
 merrily  round  all  the  evening ; but  somehow,  whenever
 there  was  a short  silence,  he  always  thought,  “ there,
-now,  it  all  returns  to  them.”  At  daybreak  the  follow-
-ing morning,  when  Naujarsuak’s  son  went  outside  the
+now,  it  all  returns  to  them.”  At  daybreak  the  following morning,  when  Naujarsuak’s  son  went  outside  the
 house,  the  thought  struck  him  it  was  just  on  such  a day
 that  his  father  was  killed.  The  air  was  soft,  and  light
 clouds  appeared  and  passed  by  overhead.  At  this  his
 former  wrath  awoke  with  full  force  ; but  on  entering  the
-house,  he  looked  quite  guileless.  At  Kukajak’s  depar-
-ture, he  also  was  presented  with  whalebones.  Still  he
+house,  he  looked  quite  guileless.  At  Kukajak’s  departure, he  also  was  presented  with  whalebones.  Still  he
 apprehended  some  evil,  and  kept  glancing  back  to  be
 sure  that  he  was  not  pursued ; and  thus  he  succeeded
 in  getting  a considerable  way  off.  Now,  however,  was
@@ -16504,12 +13683,6 @@ thinking  that  he  might  reach  home  unharmed.  At  that
 moment,  however,  his  adversary  again  darted  on,  and,
 just  outside  his  own  house,  took  aim,  and  sent  his  lance
 with  a great  crash  into  Kukajak’s  body.  The  son  of
-
-
-358
-
-
-TALES  AND  TRADITIONS.
 
 
 Naujarsuak  now  turned  to  the  bystanders,  saying,  “ I
@@ -16531,12 +13704,10 @@ NE  widow  lived  all  alone  with  her  son  at  a winter
 
 station  ; and  a little  more  to  the  south  another
 widow,  also  with  an  only  son,  had  her  residence.  The
-young  men  were  fast  friends,  and  used  to  go  out  kayak-
-ing and  perform  their  several  tasks  in  company.  But
+young  men  were  fast  friends,  and  used  to  go  out  kayaking and  perform  their  several  tasks  in  company.  But
 one  morning  the  one  who  was  to  the  north  seeing  the
 clear  bright  sky  and  a light  breeze  from  the  east,
-resolved  on  going  to  the  hunting-place  by  himself,  with-
-out waiting  his  friend’s  arrival.  After  he  had  been  on
+resolved  on  going  to  the  hunting-place  by  himself,  without waiting  his  friend’s  arrival.  After  he  had  been  on
 the  hunting-ground  for  some  time,  he  suddenly  heard  a
 noise  from  the  sunny  side  of  the  bay,  and,  turning  round,
 he  saw  his  friend  with  gloomy  looks  and  hand  uplifted,
@@ -16546,15 +13717,8 @@ moment  the  harpoon  came  flying  towards  him,  he  upset
 himself,  kayak  and  all,  so  that  the  weapon  touched  the
 edge  of  the  kayak,  and  fell  splashing  into  the  water
 beside  him,  after  which  he  again  rose  by  means  of  his
-paddle.  The  other  now  proceeded  to  coil  up  his  har-
-poon-line  ; and  without  further  reference  to  the  matter,
+paddle.  The  other  now  proceeded  to  coil  up  his  harpoon-line  ; and  without  further  reference  to  the  matter,
 the  friends  as  usual  remained  together,  catching  their
-
-
-TALES  AND  TRADITIONS.
-
-
-359
 
 
 seals,  and  speaking  pleasantly  to  each  other  on  the  way
@@ -16562,14 +13726,11 @@ home.  Still  he  kept  an  eye  upon  his  companion,  but
 did  not  find  anything  to  rouse  his  suspicion.  Another
 time  he  again  left  home  without  waiting  the  arrival  of
 his  friend,  and  the  same  thing  happened.  After  a third
-similar  attempt,  however,  he  resolved  to  revenge  him-
-self. He  did  so  in  the  following  way:  As  soon  as  he
+similar  attempt,  however,  he  resolved  to  revenge  himself. He  did  so  in  the  following  way:  As  soon  as  he
 rose  above  water  after  having  capsized  his  kayak  as
-before,  he  aimed  his  harpoon  at  his  friend,  who,  how-
-ever, averted  the  danger  by  likewise  upsetting  himself ;
+before,  he  aimed  his  harpoon  at  his  friend,  who,  however, averted  the  danger  by  likewise  upsetting  himself ;
 but  before  he  was  able  to  get  his  kayak  righted,  the
-other  was  by  his  side  and  kept  him  from  rising  by  run-
-ning the  point  of  his  own  kayak  right  across  the  one
+other  was  by  his  side  and  kept  him  from  rising  by  running the  point  of  his  own  kayak  right  across  the  one
 that  lay  bottom  upwards.  After  having  killed  his  friend
 in  this  manner,  he  rowed  towards  land  ; but  before  he
 reached  the  first  islets,  he  noticed  the  water  coming  fast
@@ -16596,17 +13757,13 @@ the  house,  a man  so  very  old  that  his  wrinkled  skin  was
 hanging,  and  almost  hiding  his  eyes  ; but  the  old  man
 
 
-360  TALES  AND  TRADITIONS.
-
-pushed  it  aside  a little,  and  then  looked  at  the  new-
-comers. Presently  some  one  called  out  that  two  kay-
+pushed  it  aside  a little,  and  then  looked  at  the  newcomers. Presently  some  one  called  out  that  two  kay-
 akers were  approaching,  tugging  seals  along  with  them.
 Those  whose  business  it  was  to  bring  them  up  to  the
 house  soon  returned  with  hauling-thongs,  ornamented
 with  fittings  of  bright  walrus-bone ; and  then  followed
 the  seal-hunters  themselves.  On  entering  the  house,
-they  accosted  their  brothers,  and  reproached  them,  say-
-ing, “ Why  were  ye  not  quicker  in  giving  him  your
+they  accosted  their  brothers,  and  reproached  them,  saying, “ Why  were  ye  not  quicker  in  giving  him  your
 assistance  before  he  got  to  be  so  cold  ? ” but  they
 answered,  “ He  did  not  call  for  our  aid  till  then.”
 They  now  ordered  the  women  to  bring  some  dry  meat.
@@ -16619,12 +13776,10 @@ seeing  him  reflected,  “ Where  can  he  have  been,  since
 no  house  seems  to  be  near  ? ” and  soon  after  five  other
 brothers,  much  like  his  hosts,  and  also  accompanied  by
 an  old  man,  entered  the  house.  There  was  also  another
-man,  who  turned  out  to  be  his  former  friend  and  com-
-panion, whom  he  had  killed  in  his  kayak.  He  sat  down
+man,  who  turned  out  to  be  his  former  friend  and  companion, whom  he  had  killed  in  his  kayak.  He  sat  down
 right  opposite,  and  hardly  dared  to  look  up.  When  they
 had  had  their  meal,  the  eldest  brother  brought  out  a
-skin,  spread  it  on  the  floor,  and  first  tried  a wrestling-
-match  with  his  own  brothers,  and  afterwards  with  the
+skin,  spread  it  on  the  floor,  and  first  tried  a wrestlingmatch  with  his  own  brothers,  and  afterwards  with  the
 visitors  ; but  no  one  was  able  to  hold  his  own  against
 him.  The  master  of  the  house  now  challenged  the
 other  old  man,  who,  however,  had  to  give  in  to  him.
@@ -16635,12 +13790,6 @@ henceforth  to  give  up  quarrelling,  and  be  friends  again.
 When  the  rest  had  all  withdrawn,  the  stranger  who  had
 been  saved  remained  five  days  longer ; but  on  the  sixth
 he  left.  On  passing  his  usual  hunting-place,  he  encoun-
-
-
-TALES  AND  TRADITIONS.
-
-
-361
 
 
 tered  his  friend,  who  had  been  restored  to  life  in  the
@@ -16673,22 +13822,13 @@ coast  had  altogether  vanished  in  the  tempest.  At  length,
 however,  he  knew  by  the  great  breakers  that  he  must
 be  right  off  Tulugartalik  (close  to  the  large  glacier)  ;
 and  having  passed  those  isles,  land  soon  appeared  ahead,
-and  he  observed  a light  from  a window  on  shore.  Land-
-ing his  kayak,  he  went  up  towards  the  house,  and  stopped
-short  on  hearing  some  one  singing  within.  After  listen-
-ing for  a while,  he  found  that  he  had  unawares  landed
-on  Ukevik,  the  homestead  of  his  adversary,  who  hap-
-pened to  be  practising  a nith-song  (satirical  song),  with
+and  he  observed  a light  from  a window  on  shore.  Landing his  kayak,  he  went  up  towards  the  house,  and  stopped
+short  on  hearing  some  one  singing  within.  After  listening for  a while,  he  found  that  he  had  unawares  landed
+on  Ukevik,  the  homestead  of  his  adversary,  who  happened to  be  practising  a nith-song  (satirical  song),  with
 which  to  abuse  him  when  they  met  in  the  spring.  He
 took  great  care  to  impress  the  exact  words  on  his
 memory,  and  then  went  silently  down  to  his  kayak,
 leaving  the  place  in  the  dark  ; and  having  again  crossed
-
-
-362
-
-
-TALES  AND  TRADITIONS.
 
 
 the  heavy  surf  about  Tulugartalik,  he  reached  his  own
@@ -16701,8 +13841,7 @@ had  some  enemies  among  the  southern  people.  During
 the  summer,  when  he  was  one  day  out  at  sea  kayaking
 in  fine  calm  weather,  he  noticed  some  kayakers  coming
 from  the  south,  and  from  their  numbers  guessed  they
-were  his  enemies  coming  to  attack  him.  On  this  sur-
-mise he  fled  towards  the  shore,  with  the  rest  in  full
+were  his  enemies  coming  to  attack  him.  On  this  surmise he  fled  towards  the  shore,  with  the  rest  in  full
 pursuit  after  him  ; but  reaching  a large  iceberg,  he
 happened  to  observe  a great  cave  on  the  opposite  side
 of  it,  and  quickly  glided  in,  kayak  and  all.  The  prow
@@ -16728,12 +13867,6 @@ several  of  the  older  ones  were  married.  Niakunguak,
 one  of  the  younger  brothers,  had  as  yet  no  wife.  His  dis-
 
 
-TALES  AND  TRADITIONS.
-
-
-363
-
-
 position  differed  greatly  from  the  others,  who  were  all
 wild  and  boisterous.  He  would  never  join  in  any  of
 their  noisy  pastimes  and  wanton  tricks,  although  they
@@ -16748,8 +13881,7 @@ up  the  hope  of  falling  in  with  any,  when  suddenly  he
 was  hailed  from  shore,  and  at  the  same  time  discovered
 a little  bay  with  many  tents  pitched  round  it,  and
 people  shouting  to  him  to  land.  When  he  reached  the
-beach,  he  was  received  by  a crowd  of  men,  who  wel-
-comed him  very  civilly,  although  he  did  not  know  any
+beach,  he  was  received  by  a crowd  of  men,  who  welcomed him  very  civilly,  although  he  did  not  know  any
 one  of  them.  An  old  man  now  invited  him  to  come  to
 his  tent.  There  were  only  his  two  daughters  inside,  but
 before  long  it  was  crowded  with  visitors,  who  were  all
@@ -16766,17 +13898,13 @@ the  days  lengthened,  and  seals  got  scarce,  Niakunguak
 chose  his  hunting-place  at  a good  distance  out.  His
 wife  in  the  meantime  had  borne  him  a son  ; and  during
 his  childhood  a boat’s  crew  of  Southlanders  arrived  and
-took  up  their  winter  abode  among  them.  It  soon  ap-
-peared that  one  of  the  strangers  was  presumptuous  and
+took  up  their  winter  abode  among  them.  It  soon  appeared that  one  of  the  strangers  was  presumptuous  and
 full  of  conceit,  though  Niakunguak  in  his  modesty  felt
 loath  to  contradict  him.  One  morning  after  the  winter
 solstice,  when  the  cold  was  very  severe,  Niakunguak
 
 
 3^4
-
-
-TALES  AND  TRADITIONS.
 
 
 was  the  only  man  of  the  place  who  thought  of  starting.
@@ -16786,10 +13914,8 @@ Meantime  the  wind  increased  ; but  Niakunguak,  nothing
 daunted,  lanced  his  seal,  hoping  that  his  companion
 would  come  and  help  him  to  kill  the  animal.  However,
 he  showed  no  such  intention,  but  had  already  turned
-homewards,  frightened  at  the  fury  of  the  gale.  Niakun-
-guak made  his  seal  fast  to  the  tug-line,  but  did  not
-return  till  he  had  got  another.  Meantime  his  com-
-panion had  gained  the  shore,  where  Niakunguak’s  little
+homewards,  frightened  at  the  fury  of  the  gale.  Niakunguak made  his  seal  fast  to  the  tug-line,  but  did  not
+return  till  he  had  got  another.  Meantime  his  companion had  gained  the  shore,  where  Niakunguak’s  little
 son  was  standing  on  the  beach  gazing  out  upon  the
 heaving  sea,  on  the  look-out  for  his  father.  The  boy  at
 once  inquired  about  his  father,  having  seen  them  go  out
@@ -16818,20 +13944,12 @@ remarked,  “ When  I had  harpooned  my  second  seal,  I
 looked  about  in  vain  for  a kayaker  to  assist  me  in
 
 
-TALES  AND  TRADITIONS.
-
-
-365
-
-
 securing  it.”  Later  on  the  guests  grew  talkative,  and
-all  passed  the  evening  pleasantly,  excepting  his  com-
-panion of  the  morning,  who  never  spoke  a word.  When
+all  passed  the  evening  pleasantly,  excepting  his  companion of  the  morning,  who  never  spoke  a word.  When
 the  days  grew  still  longer,  and  there  were  no  seals  to  be
 had,  the  men  entertained  themselves  with  ball-playing.
 Once  there  was  a general  calling  for  Niakunguak  to
-come  and  join  the  ball  - players.  Though  not  dis-
-posed to  do  so,  he  at  once  obeyed  their  summons,  but
+come  and  join  the  ball  - players.  Though  not  disposed to  do  so,  he  at  once  obeyed  their  summons,  but
 only  went  to  look  on  at  some  distance.  While  occupied
 in  watching  the  ball-players,  and  standing  modestly
 with  one  arm  drawn  out  of  the  sleeve  of  his  jacket,  the
@@ -16850,30 +13968,21 @@ gushed  from  his  mouth.  His  brothers  instantly  left  off
 playing,  and  brought  him  into  the  house,  where  he  soon
 expired.  Niakunguak  had  now,  much  against  his  will,
 made  himself  enemies  ; and  he  told  his  young  son  that
-he  ought  to  mind  this,  and  train  himself  to  endure  hard-
-ships that  he  might  attain  strength  and  vigour.  He
+he  ought  to  mind  this,  and  train  himself  to  endure  hardships that  he  might  attain  strength  and  vigour.  He
 should  no  longer  practise  lifting  and  flinging  stones,
 but  should  try  to  pull  up  shrubs  and  bushes  by  the  root.
 Afterwards  he  taught  him-  everything  belonging  to
 kayaking.  Before  long  he  came  to  be  his  father’s  equal
 every  way,  and  even  in  the  roughest  weather  chased  the
-seal  far  out  seawards.  Once  another  party  of  South-
-landers  arrived,  and  among  them  were  two  sons  of  the
+seal  far  out  seawards.  Once  another  party  of  Southlanders  arrived,  and  among  them  were  two  sons  of  the
 man  whom  Niakunguak  had  formerly  killed.  They
 also  had  been  reared  to  manly  exercise  in  order  to  pro-
-
-
-366
-
-
-TALES  AND  TRADITIONS.
 
 
 mote  their  strength.  The  strangers  were  polite  and
 friendly  enough,  and  chose  to  settle  with  them  for  the
 winter.  The  equinoctial  gales  proved  very  strong  that
-autumn,  with  much  bad  weather ; and  often  no  kayak-
-ing was  possible.  On  such  a day  Niakunguak  with  his
+autumn,  with  much  bad  weather ; and  often  no  kayaking was  possible.  On  such  a day  Niakunguak  with  his
 son  and  other  housemates  was  invited  to  the  foreigners.
 They  were  well  received,  and  afterwards  regaled  with
 many  dainties ; and  there  was  no  want  of  lively  talking
@@ -16887,8 +13996,7 @@ to  do  so,  he  again  put  it  by.  Silence  still  prevailed,
 when  Niakunguak’s  son  advanced,  and,  taking  up  the
 same  bit,  crushed  it  to  atoms  with  his  fingers,  so  that  it
 fell  like  dust  upon  the  floor.  All  were  utterly  amazed,
-and  not  a word  was  spoken.  Niakunguak  and  his  rela-
-tions still  felt  some  suspicion  of  their  enemies  ; but  these
+and  not  a word  was  spoken.  Niakunguak  and  his  relations still  felt  some  suspicion  of  their  enemies  ; but  these
 departed  peaceably  as  soon  as  spring  came  on  ; and
 henceforth  the  Niakunguaks  remained  undisturbed  until
 their  death.
@@ -16901,15 +14009,8 @@ UGPILAGTOK,  who  was  living  in  the  southern
 
 
 part  of  the  country,  chanced  to  hear  that  Kangek
-(pron.  Kanghek — at  the  firth  of  Godthaab)  was  an  ex-
-cellent place  for  seal-hunting.  Pie  accordingly  started
+(pron.  Kanghek — at  the  firth  of  Godthaab)  was  an  excellent place  for  seal-hunting.  Pie  accordingly  started
 for  it ; but  the  autumn  set  in,  and  the  ground  was  hard
-
-
-TALES  AND  TRADITIONS.
-
-
-367
 
 
 with  frost  before  he  arrived  ; so  on  coming  across  an
@@ -16920,41 +14021,29 @@ was  he  able  to  store  up,  that  it  might  have  been  thought
 the  seals  came  to  his  house  of  their  own  accord.  Heavy
 northern  gales  were  blowing,  and  the  fall  of  snow  was
 so  great  that  he  was  forced  to  take  his  store  of  seals  into
-the  house,  and  live  entirely  upon  them.  At  last,  how-
-ever, they  were  finished.  The  weather  was  getting
+the  house,  and  live  entirely  upon  them.  At  last,  however, they  were  finished.  The  weather  was  getting
 calmer,  but  the  sea  was  still  covered  with  ice.  In  these
 circumstances  he  made  himself  a small  harpoon  for
 hunting  on  the  ice,  but  first  went  out  to  reconnoitre,  and
 find  out  the  breathing-holes  of  the  seals.  The  first  day
-he  roamed  all  around  the  bay  Ameralik  without  find-
-ing one  opening  in  the  ice.  The  next  he  tried  Kapi-
+he  roamed  all  around  the  bay  Ameralik  without  finding one  opening  in  the  ice.  The  next  he  tried  Kapi-
 silik,  but  also  in  vain.  The  third  day,  having  had  the
 same  bad  luck  at  Kangersunek,  and  having  nothing  to
 eat,  he  set  to  whetting  his  knife  in  the  evening.  He
-had  a dog  with  drooping  ears,  and  his  knife  was  in-
-tended for  this  poor  animal.  He  killed  it,  and  cut  a
+had  a dog  with  drooping  ears,  and  his  knife  was  intended for  this  poor  animal.  He  killed  it,  and  cut  a
 piece  from  the  loin,  which  he  ate  raw,  skin  and  all,  only
 scraping  off  the  hairs  ; and  when  the  rest  had  been
-boiled  he  again  ate  with  a hearty  appetite.  The  follow-
-ing day  he  remained  in  the  house.  On  the  next  he
-climbed  the  highest  mountains  to  survey  the  neigh-
-bourhood, and  discovered  an  opening  in  the  ice,  not  far
+boiled  he  again  ate  with  a hearty  appetite.  The  following day  he  remained  in  the  house.  On  the  next  he
+climbed  the  highest  mountains  to  survey  the  neighbourhood, and  discovered  an  opening  in  the  ice,  not  far
 from  his  dwelling-place,  but  it  was  then  too  late  to  start.
 The  following  morning  he  set  off,  carrying  his  kayak  on
 his  head  as  far  as  the  water’s  edge.  Having  rowed  for
 some  time  along  the  margin  of  the  ice,  he  unexpectedly
 detected  a number  of  huts  ; and  the  beach  was  also  red
 with  blood  from  sea-animals  which  had  been  killed.
-He  pulled  away  ; and  on  arriving  had  a friendly  wel-
-come from  the  inmates,  who  asked  him  to  their  huts.
+He  pulled  away  ; and  on  arriving  had  a friendly  welcome from  the  inmates,  who  asked  him  to  their  huts.
 This  place  was  that  Kangek  which,  for  want  of  better
 knowledge  of  the  locality,  he  had  not  been  able  to  reach
-
-
-368
-
-
-TALES  AND  TRADITIONS.
 
 
 before  the  winter  overtook  him.  In  ascending  the  beach
@@ -16968,11 +14057,9 @@ went  out  seal-hunting  and  spearing  birds  ; and  during
 this  period  his  little  son  was  provided  with  a kayak  of
 his  own.  When  auk-hunting  his  father  told  him,  “ When
 thou  goest  out  for  auks  and  I am  not  with  thee,  thou
-needest  not  look  so  much  for  my  kayak,  but  be  watch-
-ful of  the  others  ; there  are  those  among  them  whom  it
+needest  not  look  so  much  for  my  kayak,  but  be  watchful of  the  others  ; there  are  those  among  them  whom  it
 would  be  no  joke  to  disturb  while  they  are  busy  at  their
-hunt.”  One  day,  however,  when  they  had  gone  out  to-
-gether after  birds,  Augpilagtok  had  got  to  a little  dis-
+hunt.”  One  day,  however,  when  they  had  gone  out  together after  birds,  Augpilagtok  had  got  to  a little  dis-
 tance from  his  son.  Suddenly  he  heard  angry  voices,
 and  turning  round  saw  the  small  kayak  surrounded  by
 the  other  men.  Augpilagtok,  who  at  once  suspected
@@ -16981,8 +14068,7 @@ out  the  edging  of  his  jacket,  and  hiding  it  inside  his
 mouth  rowed  on  as  fast  as  possible.  Having  reached
 them  he  tossed  up  the  amulet,  saying,  “ Whomsoever  ! ”
 at  which  one  was  instantly  overturned,  then  a second,
-then  a third,  and  so  on,  till  all  were  drowned  ex-
-cepting himself  and  his  son,  who  returned  home  to-
+then  a third,  and  so  on,  till  all  were  drowned  excepting himself  and  his  son,  who  returned  home  to-
 gether. Not  feeling  secure  in  this  place  any  longer,
 they  removed  farther  north  to  Antangmik  in  the  spring.
 During  their  stay  there  the  father  recommended  the
@@ -16990,16 +14076,9 @@ son  to  exert  himself  to  grow  a match  for  his  enemies,
 from  whom  they  might  expect  an  assault  some  day  or
 other.  The  son  soon  became  a first-rate  kayaker,  and
 chased  the  sea-animals  at  the- remotest  places.  On  his
-excursions  he  was  often  accompanied  by  the  middle-
-most of  several  brothers  living  at  the  same  settlement.
+excursions  he  was  often  accompanied  by  the  middlemost of  several  brothers  living  at  the  same  settlement.
 One  day  when  he  thought  himself  quite  alone,  he  was
 surprised  to  hear  a sound  like  that  of  an  approaching
-
-
-TALES  AND  TRADITIONS.
-
-
-369
 
 
 kayak,  and  turning  round  he  saw  with  some  amazement
@@ -17007,15 +14086,13 @@ his  usual  companion  deliberately  aiming  at  him  with
 his  harpoon.  He  narrowly  escaped  by  overturning  his
 kayak  ; and  when  he  rose  again  the  other  said  it  was
 only  in  fun,  although  it  had  been  an  attempt  on  his  life
-in  good  earnest.  At  home  he  told  his  father  of  this  oc-
-currence, but  he  advised  him  to  take  no  notice  of  it,  lest
+in  good  earnest.  At  home  he  told  his  father  of  this  occurrence, but  he  advised  him  to  take  no  notice  of  it,  lest
 he  should  stir  up  more  foes  for  himself.  The  next  day
 the  same  thing  happened,  and  he  barely  escaped.  The
 third  time  he  resolved  to  revenge  himself,  and  killed  his
 antagonist.  After  the  deed  he  returned  home,  having
 first  put  the  seal  on  his  kayak,  but  turned  tail  foremost.
-By  this  sign  his  father  at  once  knew  what  had  hap-
-pened ; but  the  brothers  of  the  deceased,  who  were
+By  this  sign  his  father  at  once  knew  what  had  happened ; but  the  brothers  of  the  deceased,  who  were
 standing  outside  the  house-door,  thought  he  had  placed
 it  the  wrong  way  to  ease  the  kayak  while  rowing
 against  the  wind.  Augpilagtok’s  son  on  landing  said,
@@ -17023,12 +14100,10 @@ against  the  wind.  Augpilagtok’s  son  on  landing  said,
 man  ; he  thrice  attempted  my  life,  and  was  in  the  act  of
 killing  me  ; if  ye  are  longing  for  him  ye  may  go  and
 look  for  him.”  At  this  news  they  all  began  to  cry,  and
-entered  the  house,  to  observe  the  usual  mourning  cere-
-monies. After  this  the  youth  became  cautious,  and
+entered  the  house,  to  observe  the  usual  mourning  ceremonies. After  this  the  youth  became  cautious,  and
 never  started  except  when  the  weather  was  too  bad  for
 the  others  to  venture  out.  Once  in  the  spring  he  was
-invited  with  his  father  to  visit  the  brothers.  Augpilag-
-tok  said  to  his  son,  “We  may  as  well  make  a bold  en-
+invited  with  his  father  to  visit  the  brothers.  Augpilagtok  said  to  his  son,  “We  may  as  well  make  a bold  en-
 trance, and  I will  go  first,  and  take  a good  leap  across
 the  doorway,  right  to  the  entrance  of  the  room.”  They
 thus  entered,  and  saw  all  the  brothers  stretched  out  at
@@ -17041,12 +14116,6 @@ now  said,  “ When  the  roof  falls  down  like  this,  it  only
 can  be  by  sorcery.  The  Southlanders  are  rather  deep,
 
 2 A
-
-
-370
-
-
-TALES  AND  TRADITIONS.
 
 
 and  know  a thing  or  two  ; we  had  better  leave  them
@@ -17068,8 +14137,7 @@ TAITSIAK  was  a very  celebrated  angakok,  who
 
 had  his  hunting-place  close  to  his  abode,  and  he
 used  to  frequent  it  all  by  himself.  If  he  ever  wanted
-company  he  used  to  invoke  some  of  his  tornaks  be-
-longing to  the  ingnersuit,  and  they  always  came  at
+company  he  used  to  invoke  some  of  his  tornaks  belonging to  the  ingnersuit,  and  they  always  came  at
 his  call.  One  day  he  had  just  harpooned  a seal,  and
 was  about  to  slacken  the  line,  when  suddenly  the  seal
 gave  a pull  which  capsized  his  kayak,  throwing  him
@@ -17080,18 +14148,11 @@ calling  his  tornaks.  No  sooner  had  he  done  so  than
 they  appeared,  coming  from  the  shore  in  their  kayaks.
 The  foremost  called  out  to  the  others,  “ Quick,  or  he
 may  be  drawn  down  ; make  haste  !”  When  the  first  was
-taking  hold  of  his  kayak  he  perceived  that  he  was  al-
-ready lifted  up,  and  when  the  others  came  up  he  saw
+taking  hold  of  his  kayak  he  perceived  that  he  was  already lifted  up,  and  when  the  others  came  up  he  saw
 that  the  kayak  was  emptied  of  the  sea-water,  whilst
 others  supported  his  weak  limbs.  They  then  replaced
 him  in  his  kayak,  giving  him  dry  warm  clothes.  Being
 well  propped  up,  he  noticed  that  his  seal  and  kayak
-
-
-TALES  AND  TRADITIONS.
-
-
-371
 
 
 were  being  towed  along  by  the  others,  and  that  they
@@ -17101,28 +14162,24 @@ the  seal  does  not  drop  to  earth  ; for  in  that  case  he  will
 never  see  his  home  again.”  When  they  were  near  enough
 to  hear  what  was  said  ashore,  they  heard  people  cry  that
 a dolphin  was  probably  caught ; to  which  they  answered,
-that  they  were  only  bringing  their  old  angakok.  Hav-
-ing  got  him  inside,  all  the  lamps  were  lighted.  They
+that  they  were  only  bringing  their  old  angakok.  Having  got  him  inside,  all  the  lamps  were  lighted.  They
 first  laid  him  naked  down  on  the  floor,  and  covered  him
 well  up  ; and  after  a while  he  again  recovered  his  lost
 senses,  and  began  to  walk.  In  the  evening  they  served
 all  kind  of  victuals  before  him.  During  the  meal  he
 noticed  a poor  young  man,  who  was  very  ill,  lying  down
-on  the  ledge.  The  oldest  among  them  said,  “ A most  dis-
-tressing case  with  the  lad  yonder  ; he  is  failing  fast.
+on  the  ledge.  The  oldest  among  them  said,  “ A most  distressing case  with  the  lad  yonder  ; he  is  failing  fast.
 When  he  chased  the  reindeer  in  the  autumn  we  feasted
 and  were  well  off ; he  was  equally  clever  at  stalking
 deer  and  chasing  white  whales ; and  even  in  the  worst
-season  was  always  lucky ; will  you  examine  his  case  to-
-night ? there  must  be  something  particular  the  matter
+season  was  always  lucky ; will  you  examine  his  case  tonight ? there  must  be  something  particular  the  matter
 with  him,  preventing  his  recovery.”  He  said  he  would
 fain  do  it ; but  as  he  was  going  to  set  about  it,  he  noticed
 the  sick  man’s  aunt  (viz.,  her  soul  or  ghost,  she  being  a
 witch)  going  close  up  to  him  in  order  to  touch  him.  On
 seeing  this  he  said,  “ It  would  be  an  easy  matter,  and
 he  would  look  to  it  the  day  after.”  When  he  began  his
-conjurations  the  following  night  he  saw  the  woman  ap-
-proaching still  nearer  to  the  sick  youth,  and  then  said,
+conjurations  the  following  night  he  saw  the  woman  approaching still  nearer  to  the  sick  youth,  and  then  said,
 “ In  the  practice  of  my  art  I must  speak  the  truth  ; it  is
 the  woman  there  that  does  him  the  mischief.”  They
 cried  with  one  voice,  “ Take  her,  do  take  her  away.”
@@ -17136,9 +14193,6 @@ though  he  brought  home  deer  as  well  as  dolphins,  and
 3/2
 
 
-TALES  AND  TRADITIONS.
-
-
 I was  in  the  highest  expectation,  he  never  gave  me  a
 bit.  From  that  day  I determined  to  blast  and  wither
 him,  and  but  for  thee  I would  have  touched  him  now.”
@@ -17149,8 +14203,7 @@ to  hit  her,  but  as  long  as  she  looked  at  him  he  could  not
 conquer  her.  As  soon,  however,  as  she  turned  to  the
 wall,  he  thrust  at  her,  and  a loud  cracking  noise  ensued  ;
 but  she,  having  watched  him  sharply,  as  soon  as  he
-moved,  let  herself  down  beneath  the  floor,  and  the  har-
-poon only  caught  the  sole  of  her  foot.  She  went  drag-
+moved,  let  herself  down  beneath  the  floor,  and  the  harpoon only  caught  the  sole  of  her  foot.  She  went  drag-
 ging the  line  down  with  her,  so  that  the  men  with  all
 their  strength  could  hardly  stop  her.  One  after  another
 they  let  go  their  hold.  At  last  there  was  only  one  man
@@ -17171,12 +14224,6 @@ gifts  for  Ataitsiak,  and  at  the  same  time  reporting  that
 his  aunt,  the  base  old  hag,  had  died.
 
 
-TALES  AND  TRADITIONS.
-
-
-373
-
-
 70.
 
 
@@ -17195,30 +14242,20 @@ hunting  off  the  coast  in  the  autumn  season  ; but  after
 the  winter  solstice  the  angakok  used  to  roam  about  on
 the  open  sea  all  by  himself,  and  when  he  had  caught  a
 couple  of  big  seals,  he  used  to  put  them  upon  his  kayak,
-one  in  front  and  the  other  behind  (viz.,  instead  of  tow-
-ing them),  making  them  fast  with  his  harpoon  - line.
+one  in  front  and  the  other  behind  (viz.,  instead  of  towing them),  making  them  fast  with  his  harpoon  - line.
 Before  the  sun  had  gone  round  to  the  west  he  was  sure
 to  have  reached  home  with  his  two  seals  ; and  then  lost
 no  time  in  ordering  the  women  to  cook  the  briskets.
 When  the  meal  was  served,  the  men  sat  down  to  it,  and
-generally  the  angakok  started  the  conversation  by  say-
-ing, “ I was  again  caught  in  a heavy  snowstorm  from  the
-north.”  This  seemed  very  strange,  for  on  shore  the  wea-
-ther had  been  fine,  and  far  away  seawards  only  a small
+generally  the  angakok  started  the  conversation  by  saying, “ I was  again  caught  in  a heavy  snowstorm  from  the
+north.”  This  seemed  very  strange,  for  on  shore  the  weather had  been  fine,  and  far  away  seawards  only  a small
 mist-band  had  been  noticed.  Being  a man  of  such  rare
 qualities,  he  naturally  wished  his  son  to  come  up  to  his
 own  standard,  and  carefully  trained  him  with  this  view.
 When  full  grown  the  son  also  would  go  far  out  to  sea
 in  all  weathers,  and  bring  big  seals  home  with  him.
 From  that  time  the  father  grew  quite  easy  about  him,
-and  occasionally  remained  at  home  himself,  though  per-
-fectly hale  and  hearty.  Once  in  the  long  days  the  son
-
-
-374
-
-
-TALES  AND  TRADITIONS.
+and  occasionally  remained  at  home  himself,  though  perfectly hale  and  hearty.  Once  in  the  long  days  the  son
 
 
 had  started  by  himself,  and  at  night  the  father  in  vain
@@ -17228,8 +14265,7 @@ that  the  southern  islands  looked  quite  dim  and  shadowy,
 he  heard  a voice  calling  out  “ Eek  ! ” On  hearing  this
 strange  voice,  which  he  soon  knew  did  not  belong  to  any
 of  his  countrymen,  he  hastened  on  southwards,  steering
-towards  the  sun  ; and  in  a little  while  he  suddenly  stop-
-ped short,  again  hearing  a voice  shouting  “ Where  ? ”
+towards  the  sun  ; and  in  a little  while  he  suddenly  stopped short,  again  hearing  a voice  shouting  “ Where  ? ”
 Soon  after  he  came  in  sight  of  an  immense  kayak,  and  on
 nearing  it  found  it  to  be  a kayariak  (fabulous  kayaker).
 The  huge  kayaker  had  a paddle  with  only  one  blade,
@@ -17241,29 +14277,20 @@ got  into  such  a rage  that  he  instantly  darted  his  harpoon
 and  killed  the  kayaker.  Having  drawn  out  the  harpoon,
 whose  pointwas  the  length  of  half  an  arm, he  kayaked  still
 further  along,  until  he  heard  the  former  cry  repeated.  He
-answered  it,  and  continuing  his  way  soon  fell  in  with  an-
-other kayaker,  who  carried  the  second  arm  of  his  son,  aft
+answered  it,  and  continuing  his  way  soon  fell  in  with  another kayaker,  who  carried  the  second  arm  of  his  son,  aft
 on  his  kayak.  Having  killed  him  also,  he  stood  out  to  sea,
 till  the  high  mountains  of  his  own  country  were  almost
-lost  to  sight.  He  again  heard  a deep  rough  voice,  be-
-longing to  a similar  kayaker,  who  was  the  father  of  the
+lost  to  sight.  He  again  heard  a deep  rough  voice,  belonging to  a similar  kayaker,  who  was  the  father  of  the
 two  he  had  already  killed.  The  weather  being  calm,
 with  a swell  from  the  south-west,  he  put  in  his  oar,
 and  having  secured  it  by  means  of  the  kayak-line,
-drifted  along,  steering  only  with  his  hands.  Approach-
-ing the  great  kayaker  thus,  he  discovered  his  son’s  body
+drifted  along,  steering  only  with  his  hands.  Approaching the  great  kayaker  thus,  he  discovered  his  son’s  body
 behind  him  on  his  kayak.  He  did  not  throw  his  lance,
 but  rowed  right  in  upon  him,  and  kept  alongside  of  him
 by  hooking  his  oar  into  the  stranger’s  kayak-straps.
 This  somewhat  startled  th£  former,  and  he  was  heard
 to  exclaim,  “Where  are  those  whom  I am  seeking?”  and
 then  the  angakok  understood  of  whom  he  was  speaking.
-
-
-TALES  AND  TRADITIONS.
-
-
-375
 
 
 Turning  landwards,  they  soon  fell  in  with  one  kayak,
@@ -17274,8 +14301,7 @@ he  merely  touched  him,  and  brought  him  to  life  again.
 Then  they  reached  the  next,  and  the  father  did  the  same
 to  him.  Being  now  four  in  number,  the  angakok  went
 on,  “ Perhaps  ye  would  not  mind  making  him  alive  too
-whom  ye  have  got  there  on  your  kayak.  The  other  re-
-plied, “ It  might  be  done  if  a fitting  place  can  be  found
+whom  ye  have  got  there  on  your  kayak.  The  other  replied, “ It  might  be  done  if  a fitting  place  can  be  found
 to  manage  it  properly.”  On  reaching  a piece  of  floating
 ice  they  landed  upon  it,  and  when  the  kayariak  had
 joined  the  severed  limbs  together,  and  had  revived  him
@@ -17290,34 +14316,24 @@ down  into  it  to  the  pit  of  his  arms.  On  reaching  land
 he  cried  out  that  no  one  must  look  down  into  the  big
 kayak.  But  one  unbeliever  among  their  placemates  did
 so,  in  consequence  of  which  the  son  of  the  angakok  who
-had  made  use  of  it  grew  lame  in  his  legs.  The  unbe-
-liever also  was  found  close  by,  having  been  frightened
+had  made  use  of  it  grew  lame  in  his  legs.  The  unbeliever also  was  found  close  by,  having  been  frightened
 to  death  at  something  he  had  seen  inside  the  big  kayak.
 Meantime  the  angakok  brought  the  kayak  back  to  the
 big  man,  who  stood  waiting  for  him  on  the  ice.  The
 sons  now  both  descended  into  their  kayaks,  but  the
 father  remained  a while,  and  first  took  a general  view  of
 the  whole  horizon,  and  then  producing  a small  pipe  he
-had  hidden  in  his  own  boat,  he  blew  it  successively  to-
-wards the  four  quarters  of  the  horizon,  and  then  repaired
+had  hidden  in  his  own  boat,  he  blew  it  successively  towards the  four  quarters  of  the  horizon,  and  then  repaired
 to  his  boat.  When  the  angakok  left  them  the  weather
 was  fine  and  calm,  but  he  was  hardly  off  before  clouds
 arose,  the  sky  became  overcast,  and  all  of  a sudden  a
 heavy  gale  was  blowing.  The  wind  rushing  on  from  dif-
 
 
-376
-
-
-TALES  AND  TRADITIONS.
-
-
 ferent  quarters  almost  prevented  his  making  the  land.
-However,  he  went  ahead  undauntedly,  having  a first-
-rate  kayak  covered  with  skins,  joined  together  length-
+However,  he  went  ahead  undauntedly,  having  a firstrate  kayak  covered  with  skins,  joined  together  length-
 ways. When  the  storm  abated,  and  the  stars  again
-shone  out,  a high  land  became  visible,  which  he  recog-
-nised to  be  Akilinek,  on  the  shore  opposite  his  own.
+shone  out,  a high  land  became  visible,  which  he  recognised to  be  Akilinek,  on  the  shore  opposite  his  own.
 He  was  again  caught  in  a tempest ; but  this  having  also
 subsided,  he  landed  at  the  southernmost  point  of  our
 country  (Cape  Farewell),  and  finally  reached  his  own
@@ -17336,14 +14352,11 @@ Greenland.  If  we  wish  to  appreciate  properly  these  reminiscences  of
 the  original  account  given  by  Kigutikak  on  his  return  home,  we  must
 take  into  consideration  first  the  manner  in  which  he  probably  was
 treated  by  his  European  keepers,  merely  as  an  object  of  curiosity  and
-jokes  ; next,  the  difficulty  he  had  in  explaining  his  strange  experi-
-ences and  adventures  to  his  countrymen,  who  had  seen  nothing  but
+jokes  ; next,  the  difficulty  he  had  in  explaining  his  strange  experiences and  adventures  to  his  countrymen,  who  had  seen  nothing  but
 Greenland  ; and  lastly,  the  continued  endeavours  at  localising  and
-adaptation  by  which  succeeding  narrators  have  altered  it,  until  it  be-
-came capable  of  being  understood  by  every  assembly  in  Greenland,
+adaptation  by  which  succeeding  narrators  have  altered  it,  until  it  became capable  of  being  understood  by  every  assembly  in  Greenland,
 merely  as  an  object  of  entertainment,  without  needing  any  further
-explanation.  From  this  point  of  view  the  tale  will  be  found  inter-
-esting and  instructive  with  regard  to  the  notions  of  the  natives,  and
+explanation.  From  this  point  of  view  the  tale  will  be  found  interesting and  instructive  with  regard  to  the  notions  of  the  natives,  and
 the  development  of  traditions  in  general.  ]
 
 IN  former  times  when  European  ships  used  to  come  to
@@ -17351,12 +14364,6 @@ the  Ameralik  shore,  the  whalers  and  natives  met
 for  trading.  Once  a whaler  warned  Kigutikak  and  his
 brother:  “Ye  had  better  beware  of  approaching  my
 countrymen  yonder  ; they  intend  some  evil.”  One  day
-
-
-TALES  AND  TRADITIONS.
-
-
-377
 
 
 Kigutikak  had  got  some  gifts  from  the  sailors  ; his
@@ -17377,8 +14384,7 @@ Kigutikak  had  planted  himself,  the  sea  carried  away
 every  part  of  the  gunwale  with  a loud  crash  ; and  when
 the  sailors  appeared  on  deck  they  could  not  but  see
 that  he  had  been  in  great  danger.  Afterwards,  when
-the  storm  had  passed,  and  they  had  made  a good  dis-
-tance off  the  land,  which  was  now  out  of  sight,  it  blew
+the  storm  had  passed,  and  they  had  made  a good  distance off  the  land,  which  was  now  out  of  sight,  it  blew
 another  gale.  This  time  the  sailors  persuaded  him  to
 go  below  with  them  before  they  shipped  another  sea.
 Approaching  their  own  country  they  shortened  sail,
@@ -17394,28 +14400,14 @@ on  shore,  taking  the  Kalaleks  (Greenlanders)  with  him.
 People  having  got  news  of  their  presence,  gathered  like
 gnats  in  great  swarms  to  catch  sight  of  them.  In  the
 boat  the  captain  gave  orders  to  them  saying,  “ When  I
-am  going  among  people  on  shore,  ye  must  not  be  star-
-ing about  you,  but  keep  your  eyes  fixed  on  my  heels  ;
-
-
-378
-
-
-TALES  AND  TRADITIONS.
-
-
-TALES  AND  TRADITIONS.
-
-
-379
+am  going  among  people  on  shore,  ye  must  not  be  staring about  you,  but  keep  your  eyes  fixed  on  my  heels  ;
 
 
 if  ye  don’t  mind  my  words,  and  take  your  eyes  off  my
 heels,  ye  are  sure  to  be  lost  in  the  throng  ; ” and  they
 answered  him,  “ Well,  we  will  follow  thee  closely.”  On
 landing  there  was  not  a spot  to  plant  their  feet,  such
-was  the  crowd.  At  last  a soldier  appeared  and  under-
-took to  clear  a passage  for  them  by  dividing  the  masses,
+was  the  crowd.  At  last  a soldier  appeared  and  undertook to  clear  a passage  for  them  by  dividing  the  masses,
 and  following  in  his  wake  they  managed  to  get  through.
 Arriving  at  the  captain’s  house  the  brother  of  Ivigutikak
 was  missing  ; in  looking  round  he  had  lost  his  way,  but
@@ -17434,38 +14426,27 @@ his  master.  His  master  forthwith  gave  him  a bit  of  a
 rope  with  a large  knob  at  one  end,  saying,  “ Now  go
 and  open  the  door  and  hit  away  among  them  with  all
 thy  might  ; ” and  having  taken  the  rope’s  end  he  did  as
-he  was  told,  hitting  right  and  left  without  ever  look-
-ing at  them.  Having  thus  cleared  a way  for  himself,
+he  was  told,  hitting  right  and  left  without  ever  looking at  them.  Having  thus  cleared  a way  for  himself,
 and  being  again  ready  to  enter,  he  saw  them  peeping
 round  a corner  of  the  house,  covering  their  faces  with  a
 handkerchief,  for  in  lashing  them  with  the  rope  he  had
 sorely  hurt  their  eyes.  His  master  merely  said,  it  served
 them  quite  right.  During  his  stay  at  the  captain’s
-house,  Kigutikak  sometimes  went  out  to  chase  par-
-tridges. On  one  of  these  excursions  he  happened  to
+house,  Kigutikak  sometimes  went  out  to  chase  partridges. On  one  of  these  excursions  he  happened  to
 meet  a great  big  European  who  wanted  to  kill  him,  but
 he  forestalled  him  and  killed  him  instead  ; and  in  order
 that  no  one  should  find  out  the  deed,  he  buried  him  on
 
 
-380
-
-
-TALES  AND  TRADITIONS.
-
-
 the  spot,  and  afterwards  made  the  gravel  quite  smooth
 on  the  top.  At  home  he  put  on  an  unconcerned  air,  as
-if  nothing  at  all  had  happened.  The  next  day  he  en-
-countered another  big  Kavdlunak,  who  had  the  same
+if  nothing  at  all  had  happened.  The  next  day  he  encountered another  big  Kavdlunak,  who  had  the  same
 bad  fortune  ; but  on  meeting  one  on  the  same  road  the
-third  day,  whom  he  was  just  about  to  despatch,  he  sud-
-denly in  time  recognised  his  brother.  After  having
+third  day,  whom  he  was  just  about  to  despatch,  he  suddenly in  time  recognised  his  brother.  After  having
 questioned  each  other  about  various  matters,  they  both
 fell  a-weeping,  and  then  Kigutikak  asked  his  brother
 where  he  had  come  to  live.  The  brother  answered  him,
-“ My  present  master  is  a very  grand  gentleman ; in  follow-
-ing you  the  other  day  I only  turned  to  look  about  once,
+“ My  present  master  is  a very  grand  gentleman ; in  following you  the  other  day  I only  turned  to  look  about  once,
 but  from  that  instant  losing  sight  of  you,  I was  happily
 taken  up  by  him,  and  am  there  in  want  of  nothing.”
 When  Kigutikak  told  him  what  had  become  of  the  two
@@ -17475,27 +14456,18 @@ The  brother  then  agreed  to  meet  the  next  day  after  the
 following,  whereat  they  parted  and  each  returned  to  his
 place.  At  the  next  encounter  Kigutikak  exclaimed,
 “ What  a lot  of  money  I have  got ! ” and  the  brother
-replied,  “ The  same  have  I.”  And  they  began  to  de-
-liberate whether  by  adding  the  money  together  they
+replied,  “ The  same  have  I.”  And  they  began  to  deliberate whether  by  adding  the  money  together  they
 could  not  buy  a ship  with  it.  The  brother  decided  that
 it  would  not  be  a bad  plan  and  should  be  carried  out,
 and  thus  they  parted.  At  home  Kigutikak  took  his
 master  into  counsel,  asking  him,  “ Could  we  not  put
 our  money  together  and  buy  a ship,  my  brother  and  I ?
 Pray  count  it  over.”  “ Why,  ye  have  plenty  to  get  one
-for,”  his  master  gave  answer ; and  Kigutikak  soon  pro-
-ceeded to  carry  out  his  plan,  finding  materials  and
-hiring  the  workmen.  The  hull  being  finished  in  spring-
-time, he  began  to  talk  to  his  master  about  the  masts.
+for,”  his  master  gave  answer ; and  Kigutikak  soon  proceeded to  carry  out  his  plan,  finding  materials  and
+hiring  the  workmen.  The  hull  being  finished  in  springtime, he  began  to  talk  to  his  master  about  the  masts.
 “ They  are  easily  got,”  he  answered  ; “ a little  south  of
 this  is  a place  with  many  straight  and  tall  trees,  just  the
 thing  for  masts  : ” and  when  the  time  for  his  departure
-
-
-TALES  AND  TRADITIONS.
-
-
-381
 
 
 arrived  his  master  added,  “ But  mark  my  words  : when
@@ -17503,8 +14475,7 @@ you  cut  trees,  have  great  care  in  looking  about  on  all
 sides  and  listen  attentively.  If  you  happen  to  hear
 any  noise,  then  flee  at  once,  and  if  you  think  the  way
 hither  too  long,  betake  yourself  to  a steep  rock  a little  to
-the  north,  and  there  you  will  find  people.”  He  pro-
-mised to  remember  this  piece  of  advice  ; and  starting
+the  north,  and  there  you  will  find  people.”  He  promised to  remember  this  piece  of  advice  ; and  starting
 for  the  forest  he  at  length  reached  it.  He  soon  found
 out  the  highest  and  most  beautiful  trees,  and  very
 cautiously  began  to  cut  them  down  ; but  when  he  was
@@ -17512,15 +14483,12 @@ about  to  fell  the  second  one,  he  fancied  he  saw  another
 tree  moving,  and  at  the  same  time  heard  a noise,  but
 did  not  take  any  notice  of  either  as  long  as  he  saw
 nothing  (although  he  had  been  warned  beforehand).
-No  sooner  had  he  caught  sight  of  a horrid  beast  emerg-
-ing from  among  the  trees,  than  he  flung  down  his  axe
+No  sooner  had  he  caught  sight  of  a horrid  beast  emerging from  among  the  trees,  than  he  flung  down  his  axe
 and  took  to  running  with  all  his  might.  On  turning
 round  he  plainly  saw  that  the  beast  was  gaining  upon
-him,  and  his  master’s  home  being  too  far  off,  he  re-
-treated towards  the  cave,  which  opened  all  of  itself,  and
+him,  and  his  master’s  home  being  too  far  off,  he  retreated towards  the  cave,  which  opened  all  of  itself,  and
 closed  in  the  same  manner  as  soon  as  he  had  got  within,
-and  almost  instantly  he  heard  the  pursuing  beast  bound-
-ing against  the  door  with  a terrible  roar.  Inside  the
+and  almost  instantly  he  heard  the  pursuing  beast  bounding against  the  door  with  a terrible  roar.  Inside  the
 cave  he  found  a lot  of  dissolute  women,  with  whom  he
 remained  without  caring  much  for  getting  home.  As
 time  passed  and  he  did  not  return,  his  master  supposed
@@ -17530,22 +14498,9 @@ having  first  had  his  pockets  filled  with  money  by  the
 women  as  a recompense  for  having  slept  with  them.  On
 his  way  home  he  first  repaired  to  the  forest  to  cut  down
 the  second  tree  and  fetch  off  the  tools,  and  then  returned
-to  his  master.  On  seeing  him  enter,  the  latter  ex-
-claimed, “ I thought  the  wild  beast  had  made  thee  his
+to  his  master.  On  seeing  him  enter,  the  latter  exclaimed, “ I thought  the  wild  beast  had  made  thee  his
 prey ; where  hast  thou  been  all  this  while  ? ” He
 answered  him,  “ I was  with  the  solitary  women  in  the
-
-
-382
-
-
-TALES  AND  TRADITIONS.
-
-
-TALES  AND  TRADITIONS.
-
-
-383
 
 
 cave  ; they  made  themselves  very  pleasant  towards  me.”
@@ -17567,8 +14522,7 @@ would  be  a change  and  diversion  for  thee.”  The)^  set
 out,  and  arriving  at  a small  lake,  found  a boat  moored
 off  the  shore ; in  this  they  rowed  across  to  the  other
 side,  and  soon  reaching  another  lake  and  a small  boat,
-they  crossed  this  in  the  same  manner,  and  then  pro-
-ceeded to  the  next  lake,  where  they  likewise  found  a
+they  crossed  this  in  the  same  manner,  and  then  proceeded to  the  next  lake,  where  they  likewise  found  a
 boat,  such  being  the  regular  means  of  conveyance  for
 travellers  going  this  way.  Having  moored  the  last  boat
 and  proceeded  on  their  way,  they  soon  arrived  at  a
@@ -17577,8 +14531,7 @@ entered  a house  to  get  refreshments.  Whilst  they  were
 eating,  they  heard  a cry,  “ The  whalers  are  leaving  !
 the  whalers  are  off ! ” At  this  news  Kigutikak  started,
 and  leaving  his  meal  unfinished,  he  sped  down  and
-unmoored  the  boat,  his  master  following  at  a little  dis-
-tance. He  travelled  back  across  the  lakes  all  by  him-
+unmoored  the  boat,  his  master  following  at  a little  distance. He  travelled  back  across  the  lakes  all  by  him-
 self, his  master  being  continually  somewhat  behind.
 When  Kigutikak  at  last  reached  the  main  harbour,  he
 heard  that  the  whaling  ships  were  all  gone,  excepting
@@ -17588,25 +14541,16 @@ boat  and  get  on  board.  His  master,  who  all  this  time
 had  been  unable  to  keep  pace  with  him,  was  now  calling
 
 
-384
-
-
-TALES  AND  TRADITIONS.
-
-
 to  the  sailors  to  take  good  care  of  him,  and  watch  him
 closely  during  their  stay  in  Greenland.
 
 After  a voyage  of  many  days,  they  got  sight  of  the
-southern  point  of  the  land  ; and  from  that  time  Kiguti-
-kak  would  no  more  undress  himself ; he  wanted  to
+southern  point  of  the  land  ; and  from  that  time  Kigutikak  would  no  more  undress  himself ; he  wanted  to
 make  use  of  his  time  and  collect  as  many-odd  bits  of
 old  iron  as  he  could  with  which  to  stuff  his  pockets
-before  leaving  the  Europeans.  As  soon  as  he  recog-
-nised his  own  country,  and  the  places  where  he  used  to
+before  leaving  the  Europeans.  As  soon  as  he  recognised his  own  country,  and  the  places  where  he  used  to
 live,  he  proposed  to  the  sailors  to  land  and  go  out
-partridge-shooting.  To  this  they  consented,  but  with-
-out leaving  him  alone  for  a single  moment,  fearing  he
+partridge-shooting.  To  this  they  consented,  but  without leaving  him  alone  for  a single  moment,  fearing  he
 would  either  be  lost  or  run  off  for  his  home.  Kigutikak
 then  told  them,  “Ye  need  not  fear  my  being  lost,  but
 just  go  after  your  game  and  so  they  left  him  for  a
@@ -17615,15 +14559,13 @@ upon  him  than  he  hid  himself  in  a deep  cleft ; and
 immediately  after  he  heard  them  shouting  for  him,  and
 saying  to  each  other,  “ We  were  charged  to  keep  a
 good  watch  over  him,  and  it  will  be  a bad  job  for  us  if
-he  is  not  found.”  As  soon  as  he  thought  them  suffi-
-ciently far  off,  he  emerged  and  proceeded  onwards.
+he  is  not  found.”  As  soon  as  he  thought  them  sufficiently far  off,  he  emerged  and  proceeded  onwards.
 Having  wandered  a long  while,  he  observed  a steep
 rock,  and  began  to  descend  it.  Half-way  down,  he  was
 somewhat  perplexed  at  finding  himself  utterly  unable
 either  to  advance  or  retreat.  At  length  he  determined
 to  ease  himself  of  all  the  things  he  had  carried  away  in
-his  pockets,  and  slid  down  the  rest  of  the  way.  He  pro-
-ceeded still  further,  and  came  in  sight  of  a great  many
+his  pockets,  and  slid  down  the  rest  of  the  way.  He  proceeded still  further,  and  came  in  sight  of  a great  many
 tents.  Seeing  him  approach,  people  came  running  and
 crying  aloud,  “ Kigutikak  is  coming  ! ” and  then  all  the
 rest  hastened  out  to  have  a look  at  him.  He  asked  them
@@ -17632,12 +14574,6 @@ but  they  could  not  understand  him.  Asking  them  in
 their  own  language,  however,  their  place  of  abode  was
 pointed  out  to  him.  His  own  people  had  long  ago
 given  him  up,  and  since  then  an  old  bachelor  had  under-
-
-
-TALES  AND  TRADITIONS.
-
-
-385
 
 
 taken  to  provide  for  them.  Kigutikak  rewarded  him
@@ -17660,8 +14596,7 @@ on  the  isle  of  Umanak  (district  of  Sukkertoppen),  and
 people  used  to  go  there  and  fetch  the  rejected  matak
 (whale-skin).  Once  Kenake  went  away  to  call  on  the
 whalers’  on  this  errand.  The  natives  in  those  times
-used  to  gather  merchandise  for  trading  with  the  Euro-
-peans. When  he  had  begun  dealing  with  them,  he
+used  to  gather  merchandise  for  trading  with  the  Europeans. When  he  had  begun  dealing  with  them,  he
 chanced  to  give  some  offence  to  the  sailors  ; and  in  a
 struggle  that  ensued  Kenake  was  killed.  The  captain,
 however,  was  not  made  aware  of  this  accident  till  later.
@@ -17673,16 +14608,9 @@ of  nice  things — such  as  various  kinds  of  knives,  and
 other  trifles  highly  prized  in  those  days — into  the  boat  ;
 but  Kenake’s  wife  flung  them  into  the  sea,  all  the  while
 crying  for  her  lost  husband.  At  last,  however,  the  son
-got  hold  of  a knife,  which  he  secretly  put  aside,  think-
-ing it  rather  too  bad  to  throw  away  so  many  valuable
+got  hold  of  a knife,  which  he  secretly  put  aside,  thinking it  rather  too  bad  to  throw  away  so  many  valuable
 
 2 B
-
-
-336
-
-
-TALES  AND  TRADITIONS.
 
 
 articles.  When  she  was  about  to  push  off  in  good
@@ -17708,11 +14636,9 @@ sailors  to  come  on  deck  to  barter  with  him.  Finding
 that  they  did  not  even  approach,  he  got  his  things  back
 into  the  boat,  but  soon  returned  without  any  goods,
 rummaging  about  the  deck,  and  taking  away  from  the
-ship  whatever  he  fancied  ; and  though  the  sailors  be-
-came aware  of  this,  they  turned  away,  pretending  not
+ship  whatever  he  fancied  ; and  though  the  sailors  became aware  of  this,  they  turned  away,  pretending  not
 to  observe  anything.  Having  brought  the  things  into
-his  boat,  he  went  back  on  deck  ; and  it  being  now  meal-
-time on  board,  the  visitors  were  now  all  treated  to.  a
+his  boat,  he  went  back  on  deck  ; and  it  being  now  mealtime on  board,  the  visitors  were  now  all  treated  to.  a
 meal,  except  the  eye-me-not.  But  he  revenged  himself
 by  going  into  the  cabin  and  laying  hold  of  whatever  he
 chose,  such  as  flensing-knives,  and  so  forth.  When
@@ -17722,12 +14648,6 @@ only  stopped  of  his  own  accord,  when  he  had  taken  all
 he  wanted.  He  went  on  this  way  all  his  life,  as  often
 as  whalers  came  to  the  place.  When  a ship  had  been
 at  Umanak  for  some  time,  and  the  sailors  were  missing
-
-
-388
-
-
-TALES  AND  TRADITIONS.
 
 
 too  many  of  their  belongings,  they  went  off  in  a sloop
@@ -17758,12 +14678,6 @@ not  make  out  what  they  answered,  and  though  they
 could  not  bear  to  look  at  him.
 
 
-TALES  AND  TRADITIONS.
-
-
-389
-
-
 73.
 
 THE  ANGAKOK  FROM  KAKORTOK.
@@ -17773,15 +14687,13 @@ THE  ANGAKOK  FROM  KAKORTOK.
 AN  angakok,  who  used  to  have  his  winter  station  a
 little  north  of  Kakortok  (Julianehaab),  took  a
 fancy  to  go  and  discover  a nice  and  delightful  country ;
-and  starting  for  his  journey,  he  came  to  Nook  (Godt-
-haab).  He  had  a daughter  called  Kakamak,  and  a son
+and  starting  for  his  journey,  he  came  to  Nook  (Godthaab).  He  had  a daughter  called  Kakamak,  and  a son
 besides.  From  Nook  they  went  farther  on  to  Pisugfik,
 and  met  another  angakok,  named  Kajuernek,  who  was
 the  only  person  that  had  been  far  to  the  north.  On
 being  questioned  concerning  these  parts,  he  answered,
 “ Indeed  all  the  country  northwards  is  very  fine,  but  no
-other  part  of  it  can  be  compared  with  Ilulissat”  (Jakobs-
-havn).  On  hearing  this,*the  Southlander  at  once  started,
+other  part  of  it  can  be  compared  with  Ilulissat”  (Jakobshavn).  On  hearing  this,*the  Southlander  at  once  started,
 and  after  a long  journey  at  length  landed  on  the  coast
 at  Ilulissat,  when  the  earth  was  already  becoming  hard
 .with  frost,  in  consequence  of  which  they  had  great  trouble
@@ -17791,20 +14703,13 @@ small.  During  their  stay  at  this  place,  a fine  young
 man  courted  Kakamak,  without  the  knowledge  of  her
 parents.  Her  brother’s  wife  was  a very  modest  and
 timid  person  ; but  Kakamak,  on  the  contrary,  was
-proud  and  presumptuous,  and  often  abused  her  sister-
-in-law,  who,  however,  did  not  mind  her  scolding,  and  her
+proud  and  presumptuous,  and  often  abused  her  sisterin-law,  who,  however,  did  not  mind  her  scolding,  and  her
 parents  likewise  let  her  have  her  own  way,  and  never
 interfered.  But  one  day  another  woman  of  the  place
 told  Kakamak’s  mother  that  her  daughter  was  secretly
 married  to  the  young  man : the  mother  told  it  to  her
 husband  when  they  had  gone  to  rest  in  the  evening.  On
 this  the  angakok  at  once  had  his  boat  put  out,  and  every-
-
-
-390
-
-
-TALES  AND  TRADITIONS.
 
 
 thing  prepared  for  departing ; and  when  so  far  ready,  he
@@ -17815,8 +14720,7 @@ young  man  now  stepped  forward,  saying,  “ Kakamak  is
 mine,  and  I want  her  but  her  father  replied,  “ No  man
 shall  ever  have  my  daughter  ; and  if  any  one  should  dare
 to  take  her  by  force,  I shall  be  sure  to  fetch  her  back.”
-So  saying,  he  pushed  from  land  ; and  travelling  on  in-
-cessantly, they  at  length  came  to  a little  island  called
+So  saying,  he  pushed  from  land  ; and  travelling  on  incessantly, they  at  length  came  to  a little  island  called
 Alangok,  where,  for  the  first  time,  they  pitched  their
 tent.  In  this  place  Kakamak  secretly  gave  birth  to  a
 child,  which  she  afterwards  killed.  Proceeding  further,
@@ -17826,8 +14730,7 @@ built  their  house  for  the  coming  winter.
 In  his  excursions  here  the  angakok  used  to  meet  with
 a little  manly  kayaker,  to  whom  he  proposed  to  marry
 Kakamak.  The  other  answered,  “ I am  willing  enough,
-but  the  women  are  always  telling  me  that  I am  dark-
-skinned.”  The  angakok  did  not  mind  that  the  least,
+but  the  women  are  always  telling  me  that  I am  darkskinned.”  The  angakok  did  not  mind  that  the  least,
 but  led  him  home  to  his  daughter,  saying,  “ Thou  art
 a vain  and  frivolous  girl,  and  thou  hast  great  need  of
 a good  provider  and  husband,  and  such  a one  I have,
@@ -17847,36 +14750,26 @@ floor,  he  suddenly  gave  a loud  shriek,  the  blood  gushed
 out  of  his  mouth  and  nostrils,  and  he  was  soon  dead.
 
 
-TALES  AND  TRADITIONS.
-
-
-391
-
-
 They  had  another  son,  who  died  about  the  same  age,
 and  in  the  same  manner;  and  when  the  same  misfortune
 befell  a third,  the  angakok  tried  a conjuration.  Not
-being  able  to  find  out  anything  about  it,  he  said,  “ Per-
-haps we  are  too  near  akin:  let  Kajuernek  be  called  ; ”
+being  able  to  find  out  anything  about  it,  he  said,  “ Perhaps we  are  too  near  akin:  let  Kajuernek  be  called  ; ”
 and  they  at  once  started  with  a boat  for  him.  In  the
 evening,  when  the  conjuration  was  performed,  he  said,
 “When  the  children  died  the  sister-in-law  of  Kakamak
 always  reproached  her  as  being  guilty  of  a crime,  and
 having  an  anghiak  (ghost  of  a child)  who  had  killed
 the  children.”  The  sister-in-law  did  not  utter  a word
-in  reply.  Continuing  his  conjurations,  he  farther  pro-
-nounced, “ I see  a kayak  approaching  from  the  north  ;
+in  reply.  Continuing  his  conjurations,  he  farther  pronounced, “ I see  a kayak  approaching  from  the  north  ;
 it  has  the  shape  of  a dog’s  head  ; it  draws  nigh  ; now  it
 is  in  the  doorway,  but  it  cannot  get  through  the  inner
 entrance.”  The  angakok  now  asked,  “ Who  was  thy
-sack?”  (poK,  in  the  angakok  language  the  same  as  mo-
-ther.) All  listening  in  silence,  they  heard  an  infant’s
+sack?”  (poK,  in  the  angakok  language  the  same  as  mother.) All  listening  in  silence,  they  heard  an  infant’s
 voice  replying,  “ Kakamak.” — “ Where  is  thy  home  ? ”
 — “ I was  born  on  the  island  of  Alangok  ; it  is  I who
 have  caused  the  death  of  all  my  younger  brothers.”
 Kajuernek  ordered  the  anghiak  to  pass  the  threshold.
-It  was  very  long  in  doing  so  ; but  having  at  length  en-
-tered, he  pursued  it,  hoping  to  get  it  destroyed.  It  was
+It  was  very  long  in  doing  so  ; but  having  at  length  entered, he  pursued  it,  hoping  to  get  it  destroyed.  It  was
 now  seen  also  by  the  other  angakok,  but  slipped  away
 through  a hole  near  one  of  the  roof-beams.  Kajuernek
 said,  “ It  is  difficult  to  get  it,  because  it  has  already
@@ -17887,19 +14780,11 @@ thus,  the  sister-in-law,  mindful  of  all  the  bad  language
 she  had  to  put  up  with  from  Kakamak,  took  to  rebuking
 and  scolding  her  in  turn.  The  following  day  Kajuernek
 tried  to  catch  hold  of  the  anghiak,  but  in  vain  ; it  made
-its  escape  through  a small  opening  just  as  the  day  be-
-fore, in  consequence  of  which  he  was  obliged  to  give  it
+its  escape  through  a small  opening  just  as  the  day  before, in  consequence  of  which  he  was  obliged  to  give  it
 up.  Kakamak  now  grew  meek  and  more  submissive  ;
 
 
-392
-
-
-TALES  AND  TRADITIONS.
-
-
-but  her  father,  being  greatly  depressed  in  spirits,  deter-
-mined to  leave  for  another  place  ; and  choosing  Nia-
+but  her  father,  being  greatly  depressed  in  spirits,  determined to  leave  for  another  place  ; and  choosing  Nia-
 kungunak,  they  went  to  settle  there  along  with  another
 family,  consisting  of  many  brothers.  Towards  winter
 they  all  joined  company,  went  out  deer-hunting,  and
@@ -17930,8 +14815,7 @@ and  even  Upernivik,  and  at  last  came  to  people  who
 had  no  wood  for  tent-poles,  and  merely  placed  the  stiff
 dried  seal-skins  upon  end,  so  as  to  form  a tent,  in  which
 they  slept  on  the  bare  ground.  The  first  morning  after
-their  arrival,  Utereetsok  was  standing  quite  uncon-
-sciously, his  arms  drawn  out  of  his  sleeves,  when,  all  of
+their  arrival,  Utereetsok  was  standing  quite  unconsciously, his  arms  drawn  out  of  his  sleeves,  when,  all  of
 a sudden,  he  felt  some  one  giving  him  a heavy  push
 from  behind  ; but  without  hesitation  he  turned  round
 and  dealt  the  offender  such  a blow  that  he  rolled  along
@@ -17940,22 +14824,14 @@ When  this  had  been  twice  repeated,  the  inhabitants
 learned  to  fear  him,  and  he  was  left  in  peace.  In  this
 
 
-TALES  AND  TRADITIONS.
-
-
-393
-
-
 place  they  noticed  that  the  infants  had  all  holes  in  the
 hoods  of  their  jackets.  Having  got  more  familiar  with
 the  parents,  they  asked  them  about  these  holes,  and
 pointing  to  the  moon,  they  answered,  “It  is  because  he
 on  high  has  been  gazing  at  them  ; whomsoever  he  deigns
-to  look  down  on  is  always  sure  to  get  holes  in  his  gar-
-ments.”
+to  look  down  on  is  always  sure  to  get  holes  in  his  garments.”
 
-When  Utereetsok  got  weary  of  his  stay  there,  he  tra-
-velled still  farther  north,  following  the  margin  of  the
+When  Utereetsok  got  weary  of  his  stay  there,  he  travelled still  farther  north,  following  the  margin  of  the
 solid  ice.  All  along  the  coast  there  were  abundance  of
 white  whales.  Unable  to  get  on  shore,  they  pitched
 their  tents  upon  the  ice,  sometimes  spreading  the  skin
@@ -17966,13 +14842,10 @@ steep  and  craggy  coast ; and  near  the  only  place  where
 landing  was  practicable  they  found  a little  house,  but  no
 people.  On  entering  it,  Utereetsok  at  once  perceived
 that  the  ceiling-beams  were  made  out  of  narwals’  horn,
-and  not  a bit  of  wood  was  seen  anywhere.  They  like-
-wise found  a head  of  strange  appearance,  consisting  of
+and  not  a bit  of  wood  was  seen  anywhere.  They  likewise found  a head  of  strange  appearance,  consisting  of
 tallow  only,  and  instruments  whose  points  were  carefully
-wrapped  up  in  tallow  and  skin.  Seeing  no  people  what-
-ever, they  began  to  feel  uneasy,  and  soon  left  again.
-They  managed  the  same  way  on  their  homeward  jour-
-ney, and  settled  for  the  winter  at  a place  where  the
+wrapped  up  in  tallow  and  skin.  Seeing  no  people  whatever, they  began  to  feel  uneasy,  and  soon  left  again.
+They  managed  the  same  way  on  their  homeward  journey, and  settled  for  the  winter  at  a place  where  the
 people  were  excellent  ball-players.  In  the  middle  of
 winter  they  made  an  immense  ball,  by  stuffing  out  an
 entire  seal-skin  with  sand  and  various  other  heavy  things,
@@ -17986,20 +14859,12 @@ continued  playing  and  pushing  one  another  until  the
 winners  succeeded  in  striking  the  ball  ashore  and  right
 
 
-TALES  AND  TRADITIONS.
-
-
-395
-
-
 through  the  window  of  their  house.  Then  it  was  seized
-on  by  an  old  hag,  who  seated  herself  upon  it.  After-
-wards the  victorious  party  gave  a succession  of  enter-
+on  by  an  old  hag,  who  seated  herself  upon  it.  Afterwards the  victorious  party  gave  a succession  of  enter-
 tainments; and  the  general  amusement  continued  during
 all  the  season  of  the  increasing  daylight.  In  spring
 Utereetsok  returned  to  Ilulissat.  There  he  met  with  a
-man  called  Kepigsuak,  from  Kangamiut  (South  Green-
-land), and  it  was  he  to  whom  he  told  his  adventures  in
+man  called  Kepigsuak,  from  Kangamiut  (South  Greenland), and  it  was  he  to  whom  he  told  his  adventures  in
 the  north.  During  Kepigsuak’s  stay  two  sledgers  also
 arrived  from  the  north,  who  stated  that  they  had  left
 their  far-away  home  at  the  time  of  full  moon,  and  who
@@ -18009,8 +14874,7 @@ from  head  to  feet  clothed  in  suits  made  of  reindeer-skin  ;
 they  reported  that  in  their  home  the  reindeers  might  be
 seen  lying  close  to  the  houses,  and  on  the  tops  of  the
 roofs,  like  dogs  in  other  places.  Their  object  in  this
-long  journey,  they  said,  was  to  barter  with  the  Euro-
-peans for  firearms,  with  which  view  they  had  brought
+long  journey,  they  said,  was  to  barter  with  the  Europeans for  firearms,  with  which  view  they  had  brought
 fox  and  reindeer  skins.  The  merchant  wanted  also
 to  buy  their  dogs,  and  made  a handsome  bid  for  them,
 offering  a tin  box  of  powder,  and  a whole  barrel  of  lead
@@ -18020,8 +14884,7 @@ answered  that  they  could  not  spare  them.
 In  the  spring  Kepigsuak  returned  to  Kangamiut,
 while  Utereetsok  started  for  another  trip  to  the  far  north
 to  revisit  the  house  with  beams  of  narwal-horn.  This
-time  he  intended  to  land  at  a little  distance  and  ap-
-proach it  cautiously  from  the  land  side,  in  order  to  find
+time  he  intended  to  land  at  a little  distance  and  approach it  cautiously  from  the  land  side,  in  order  to  find
 out  whether  it  was  occupied  ; and  if  so,  he  wanted  to
 see  what  the  people  were  like.
 
@@ -18036,9 +14899,6 @@ was  very  haughty,  and  greedy  besides.  When  the  news
 39^
 
 
-TALES  AND  TRADITIONS.
-
-
 of  the  k’epokak  was  spread  many  visitors  came  ; but
 Igpak  had  nothing  to  spare  for  the  guests.  Sakak
 himself  invited  an  old  man  to  his  house,  but  when  he
@@ -18051,14 +14911,12 @@ cutting  it  ; the  latter,  however,  he  rejected,  saying  he
 only  wanted  to  take  it  home  with  him.  Igpak,  who
 was  always  eating  as  if  she  could  never  be  satisfied,
 after  a while  went  on  in  this  style  : “ What  ails  me  ?
-what  is  becoming  of  me  ? I left  my  work  undone  be-
-cause of  the  victuals,  that  always  seem  to  be  drawing
+what  is  becoming  of  me  ? I left  my  work  undone  because of  the  victuals,  that  always  seem  to  be  drawing
 me  on.”  However,  she  did  not  give  over,  but  ate  all
 the  more,  till  her  tongue  at  length  was  so  sore  that  it
 turned  quite  awry,  and  crying  out,  “ Sakak,  my  tongue  !
 I am  growing  matak  myself,”  she  suddenly  died.
-People  say  that  while  she  lived  a noxious  whale-
-monster  used  to  appear  above  the  water  whenever  she
+People  say  that  while  she  lived  a noxious  whalemonster  used  to  appear  above  the  water  whenever  she
 left  the  house  ; but  after  her  death  it  was  seen  no  more.
 The  principal  wife  being  gone,  the  others  were  now  at
 liberty  to  share  out  as  they  liked.  In  the  following
@@ -18079,12 +14937,6 @@ Niumak,  with  his  wife  Kujapigak.  Both  were
 very  anxious  to  get  a suitable  wife  for  their  only  son.
 
 
-TALES  AND  TRADITIONS.
-
-
-397
-
-
 Niumak,  from  his  early  youth,  had  neither  fancied  nor
 taken  any  part  in  singing  or  dancing  entertainments.
 At  the  dancing  parties  he  would  turn  away  from  the
@@ -18098,8 +14950,7 @@ himself ; and  on  landing  from  a hill  perceived  a ship
 approaching.  He  lost  no  time  in  getting  out  his  kayak,
 and  rowed  away  to^neet  it.  Having  got  alongside  the
 vessel,  he  saw  a rope-ladder  hanging  down  the  side,  but
-not  a single  man  was  seen  on  deck  ; and  no  one  answer-
-ing his  repeated  calls,  he  went  on  board  and  entered  the
+not  a single  man  was  seen  on  deck  ; and  no  one  answering his  repeated  calls,  he  went  on  board  and  entered  the
 cabin.  All  was  desolate  there  as  elsewhere,  and  he
 concluded  that  the  crew  had  recently  left  the  ship,
 omitting  to  furl  the  sails.  The  ship  having  run  in
@@ -18118,8 +14969,7 @@ order  to  make  use  of  them  as  an  outside  cover  of  their
 tents.  All  the  finest  beads  were  given  to  Savanguak.
 
 Afterwards,  when  Savanguak  had  already  got  several
-children,  some  Southlanders  arrived,  whom  Niumak  in-
-vited to  come  and  stay  at  his  house.  In  the  beginning
+children,  some  Southlanders  arrived,  whom  Niumak  invited to  come  and  stay  at  his  house.  In  the  beginning
 of  winter  the  younger  baby  of  Savanguak  died,  and
 they  were  all  very  sorry.  One  day,  when  her  husband
 was  absent,  a vile  old  crone  belonging  to  the  South-
@@ -18128,12 +14978,8 @@ was  absent,  a vile  old  crone  belonging  to  the  South-
 39§
 
 
-TALES  AND  TRADITIONS.
-
-
 landers  went  on  mocking  the  bereaved  mother,  holding
-up  her  own  grandchild  before  her  in  a provoking  man-
-ner unobserved  by  the  others.  This  roused  Savanguak’s
+up  her  own  grandchild  before  her  in  a provoking  manner unobserved  by  the  others.  This  roused  Savanguak’s
 suspicion  against  her.  On  the  same  day  her  husband
 was  expected  back,  her  mother-in-law  brought  all  the
 reindeer-skins  in,  to  have  them  looked  oyer.  While
@@ -18148,16 +14994,13 @@ a hill,  and  at  length  found  her  at  the  bottom  of  a little
 lake  close  by.  Nobody  was  able  to  draw  her  out  ; but
 at  the  same  time  they  perceived  Niumak  in  his  kayak
 making  for  the  shore.  No  one,  however,  dared  to  call
-him  and  tell  him  what  had  happened,  but  getting  suspi-
-cious from  their  silence,  he  put  in  at  once,  and  hurried
+him  and  tell  him  what  had  happened,  but  getting  suspicious from  their  silence,  he  put  in  at  once,  and  hurried
 to  them.  On  looking  round  for  information,  one  of  the
 bystanders  screamed  out,  “ Thy  daughter-in-law  is
-lying  dead  at  the  bottom  of  the  lake.”  Without  utter-
-ing a single  word,  he  proceeded  to  draw  her  out,  and
+lying  dead  at  the  bottom  of  the  lake.”  Without  uttering a single  word,  he  proceeded  to  draw  her  out,  and
 tried  every  means  for  reviving  her;  but  these  proving  all
 in  vain,  he  let  the  others  bring  her  to  the  house.  On
-carrying  her  in,  they  brought  all  their  things  out  accord-
-ing to  custom.  The  husband  of  the  deceased,  who  was
+carrying  her  in,  they  brought  all  their  things  out  according to  custom.  The  husband  of  the  deceased,  who  was
 named  Taterak,  also  arrived,  calling  out  that  he  had  got
 a white  whale.  The  servant-maid  of  the  house  silently
 went  down  to  receive  and  help  him.  ’Feeling  assured
@@ -18170,12 +15013,6 @@ the  sad  intelligence  that  his  wife  had  drowned  herself.
 Without  undressing  he  quickly  entered  the  house,  and
 
 
-TALES  AND  TRADITIONS.
-
-
-399
-
-
 the  father  as  well  as  the  son  went  up  and  down  the
 room  deliberating  upon  how  to  find  out  the  cause  of  her
 death.  Meanwhile  some  of  the  others  were  whispering,
@@ -18186,8 +15023,7 @@ any  reason,  they  broke  out  into  loud  lamentations,
 joined  by  all  the  rest,  the  old  hag  only  excepted,  who
 was  busy  eating  matak.  Some  time  after,  a baby  of
 the  place  was  called  Savanguak  in  memory  of  the
-deceased  ; and  it  happened  that  one  of  Niumak’s  house-
-fellows  told  him  that  the  old  woman  had  been  heard  to
+deceased  ; and  it  happened  that  one  of  Niumak’s  housefellows  told  him  that  the  old  woman  had  been  heard  to
 mock  and  ridicule  the  baby’s  namesake.  When  the
 little  one  was  learning  to  walk,  the  old  hag  one  day
 took  to  scolding  it  ; on  hearing  which,  Niumak  and  his
@@ -18202,8 +15038,7 @@ he  removed  all  his  belongings  out  of  the  house.  They
 departed  from  thence  to  Kassigissat,  leaving  their
 wicked  house-fellows  behind.  During  their  stay  at
 Kassigissat  several  other  people  came  to  encamp  there,
-waiting  for  the  migratory  seal.  About  that  time  Haba-
-kuk,1  a youth  whose  parents  had  likewise  pitched  their
+waiting  for  the  migratory  seal.  About  that  time  Habakuk,1  a youth  whose  parents  had  likewise  pitched  their
 tents  there,  one  day  kayaked  northwards  to  meet  the
 seals  ; and  was  suddenly  surprised  on  seeing  a boat
 coming  down  upon  him,  rowed  by  a single  man.
@@ -18217,16 +15052,9 @@ seal.  We  came  away  from  Sakak,  where  all  our  house-
 a Christian  sect,  independent  of  the  European  missionary.
 
 
-400
-
-
-TALES  AND  TRADITIONS.
-
-
 fellows  died  of  famine,  and  we  have  travelled  all  this
 way  south  without  once  taking  our  boat  ashore  for
-drying;  our  only  provisions  have  been  half-dried  boat-
-skins.”  When  she  had  ended,  Habakuk  went  closer  to
+drying;  our  only  provisions  have  been  half-dried  boatskins.”  When  she  had  ended,  Habakuk  went  closer  to
 them,  saying,  “ Well,  take  the  skin  of  my  seal  with
 blubber  and  all,  and  the  liver  besides.”  They  forthwith
 tried  to  get  the  animal  out  of  the  boat,  but  were  too
@@ -18243,10 +15071,8 @@ shift  with  her  forefinger,  at  the  same  time  exclaiming,
 “ What  a length  of  time  I have  longed  for  the  sight  of
 this  ! ” However,  the  strange  travellers  began  to  recover
 by  the  nourishing  food  they  were  getting,  but  still  they
-often  fell  asleep  in  the  midst  of  their  meal.  On  awak-
-ing, however,  they  fell  to  again,  and  at  last  grew  so  fat
-that  they  could  hardly  get  on  their  boots.  Soon  after-
-wards they  prepared  to  leave,  intending  to  go  still
+often  fell  asleep  in  the  midst  of  their  meal.  On  awaking, however,  they  fell  to  again,  and  at  last  grew  so  fat
+that  they  could  hardly  get  on  their  boots.  Soon  afterwards they  prepared  to  leave,  intending  to  go  still
 further  to  the  south.
 
 
@@ -18258,14 +15084,7 @@ NAME  WAS  PETER  RANTHOLL.
 
 [A  tale  from  North  Greenland.]
 
-N times  far  back,  the  ancestors  of  this  same  Inuarut-
-ligak  (viz.,  fabulous  dwarf-inlander  or  mountain-elf)
-
-
-TALES  AND  TRADITIONS.
-
-
-401
+N times  far  back,  the  ancestors  of  this  same  Inuarutligak  (viz.,  fabulous  dwarf-inlander  or  mountain-elf)
 
 
 are  said  to  have  lived  at  the  southernmost  point  of  the
@@ -18277,8 +15096,7 @@ man  ; and  ever  after,  they  say  that  the  gnomes  have
 resorted  to  desert  places,  making  hollows  in  the  earth
 for  their  abodes,  and  shunning  the  society  of  man.
 Thirsting  for  vengeance,  they  in  return  killed  a man
-whom  they  chanced  to  meet  with  on  one  of  their  ex-
-cursions. Being  sadly  in  want  of  proper  arms,  they
+whom  they  chanced  to  meet  with  on  one  of  their  excursions. Being  sadly  in  want  of  proper  arms,  they
 found  a large  willow-bush  on  the  sunny  side  of  the
 Kutserfik-mount.  Its  form  was  like  a man  bending
 down  on  his  knees  and  supporting  his  hand  against  the
@@ -18310,14 +15128,10 @@ that  of  the  large  beast  called  kilivfak , the  one  with  six
 40:
 
 
-TALES  AND  TRADITIONS.
-
-
 legs.  The  story  goes  that  when  they  had  eaten  the
 flesh  of  this  animal,  the  bones  were  covered  anew  with
 flesh,  but  only  up  to  the  sixth  time  ; and  despite  its
-strength  and  size,  they  killed  it  with  the  above-men-
-tioned instrument,  by  merely  pointing  at  it.  They  also
+strength  and  size,  they  killed  it  with  the  above-mentioned instrument,  by  merely  pointing  at  it.  They  also
 
 
 knew  how  to  diminish  the  distance  from  one  place  to
@@ -18338,22 +15152,14 @@ they  settled  to  wait  till  the  frost  should  cover  the  ground
 with  ice  and  make  it  possible  to  join  those  on  the  other
 
 
-TALES  AND  TRADITIONS.
-
-
-403
-
-
 side.  Starting  again  in  spring,  and  passing  several
 winters  at  different  places,  they  at  length  reached
-Noosak  on  the  continent,  and  came  to  their  long-
-wished -for  relatives,  and  there  they  lived  for  many
+Noosak  on  the  continent,  and  came  to  their  longwished -for  relatives,  and  there  they  lived  for  many
 winters.  People  say  that  at  the  beginning  of  the
 journey  to  the  north  the  high  mountains  were  still
 without  ice,  and  Ikerasarsuak  without  any  glacier.
 
-These  elves  had  two  different  ways  of  clothing  them-
-selves— one  suit  they  had  fitting  their  natural  size,  and
+These  elves  had  two  different  ways  of  clothing  themselves— one  suit  they  had  fitting  their  natural  size,  and
 the  other  was  large  enough  to  fit  a man.  During  their
 wandering  they  wore  their  own  proper  clothes,  carrying
 the  large  ones  with  them,  ready  to  put  on  in  case  they
@@ -18373,20 +15179,13 @@ and  some  whalebones  already  twisted  into  fishing-lines.
 Malerke,  on  seeing  them,  grew  very  desirous  of  these
 
 
-404
-
-
-TALES  AND  TRADITIONS.
-
-
 things ; and  having  got  them,  he  gave  the  knives  to  his
 three  sons,  but  the  fourth  and  youngest  he  sold  in
 exchange  for  them.  His  new  father  brought  him  home,
 and  went  to  hide  him  behind  the  house.  At  night,
 however,  he  got  inside,  and  at  once  slipped  into  the
 womb  of  his  mother,  on  which  account  it  was  said  that
-he  was  in  a state  of  perfect  consciousness  while  he  re-
-mained in  his  mother’s  womb.
+he  was  in  a state  of  perfect  consciousness  while  he  remained in  his  mother’s  womb.
 
 These  elves  were  long  in  turning  old  ; their  youth  was
 renewed  five  times  over.  On  getting  old  the  first  time,
@@ -18407,8 +15206,7 @@ AKUTAK  AND  INUINAK.
 
 SEVERAL  brothers  had  an  only  sister,  whom  they
 loved  dearly  and  were  very  loath  to  part  with.  To
-the  north  of  them  was  another  hamlet,  where  lived  Aku-
-tak  and  Inuinak.  One  day  when  out  kayaking,  Akutak
+the  north  of  them  was  another  hamlet,  where  lived  Akutak  and  Inuinak.  One  day  when  out  kayaking,  Akutak
 said,  “ Let  us  go  and  give  the  brothers  yonder  a call.”
 Inuinak  surmised  they  would  only  get  a cold  reception.
 However,  they  started,  but  not  a frian  did  they  find  at
@@ -18417,22 +15215,14 @@ any  welcome,  their  husbands  having  strictly  ordered
 them  not  to  receive  any  unmarried  man  whatever  during
 
 
-TALES  AND  TRADITIONS.
-
-
-405
-
-
 their  absence.  The  strangers  nevertheless  entered  the
 house,  where  they  found  the  lonely  sister  occupying  a
-seat  on  the  southern  side  of  the  ledge,  where  her  bed-
-ding also  could  be  seen  most  handsomely  piled  up.
+seat  on  the  southern  side  of  the  ledge,  where  her  bedding also  could  be  seen  most  handsomely  piled  up.
 Though  seats  were  offered  to  them  at  the  northern  end,
 they  preferred  a settle  facing  the  unmarried  sister.
 They  now  proceeded  to  relieve  themselves  of  their
 jackets,  Akutak  displaying  a skin  as  fair  and  soft  as
-that  of  a white  whale,  while  Inuinak  on  stripping  him-
-self came  out  as  black  as  a raven.  Thus  they  remained
+that  of  a white  whale,  while  Inuinak  on  stripping  himself came  out  as  black  as  a raven.  Thus  they  remained
 a short  time  ; but  before  food  had  been  offered  to  them,
 the  men  of  the  place  were  hailed  returning  with  their
 prey.  The  women  ran  down  to  assist  them  in  bringing
@@ -18456,16 +15246,9 @@ heard  Inuinak  call  out  in  a loud  voice,  “Young  girl,
 make  up  a bed  for  me  ! ” The  sister  at  once  complied,
 and  he  lay  down  beside  her.  The  brothers  first  thought
 of  interfering,  but  soon  gave  up  the  idea,  and  took  no
-further  notice  of  them.  Akutak  being  now  left  by  him-
-self, was  beginning  to  feel  rather  lonely  ; and,  not  ad-
+further  notice  of  them.  Akutak  being  now  left  by  himself, was  beginning  to  feel  rather  lonely  ; and,  not  ad-
 dressing any  one  in  particular,  simply  cried  out,  “ Make
 up  a bed  for  me,  too  ! ” The  brothers  only  glanced  at
-
-
-406
-
-
-TALES  AND  TRADITIONS.
 
 
 him,  saying,  “Why,  thou  art  raving;  just  lie  down  by
@@ -18496,8 +15279,7 @@ let  us  be  off  from  here;”  and  away  they  fled,  having
 first  cut  asunder  all  the  lashings  of  their  boat ; and  at
 their  departure,  one  of  them  said  to  their  brother-in-law,
 “ If  people  are  like  this  one,  nothing  is  to  be  done  ; and
-thou  hadst  better  come  with  us.”  But  the  other  re-
-joined, “ I will  take  my  chance,  and  stay,  if  it  be  only
+thou  hadst  better  come  with  us.”  But  the  other  rejoined, “ I will  take  my  chance,  and  stay,  if  it  be  only
 for  this  one  night.”  The  others  all  started  off,  while  he
 remained  with  his  wife  ; but  she  went  on  pursuing  him
 all  the  night,  and  he  kept  running  away  from  her,
@@ -18506,12 +15288,6 @@ however,  he  succeeded  in  making  a bold  leap  from  the
 floor  right  down  the  house  passage,  and  rushing  along
 to  seize  his  kayak,  he  quickly  got  into  it.  But  at  the
 very  moment  he  was  ready  to  push  off,  she  again
-
-
-TALES  AND  TRADITIONS.
-
-
-407
 
 
 reached  him,  and  made  an  attempt  to  catch  hold  of
@@ -18553,12 +15329,6 @@ seeing  her  approach,  they  cried,  “ Why  didst  thou
 bring  her  over  ? She  will  kill  us  all.”  While  they  were
 
 
-408
-
-
-TALES  AND  TRADITIONS.
-
-
 thus  exclaiming,  and  the  husband  could  not  persuade
 himself  to  leave  her  altogether,  she  saw  before  her  a
 streak  of  little  ripples  on  the  water  ; and  when  she  came
@@ -18577,21 +15347,18 @@ of  the  islets,  soon  after  which  the  sea  was  frozen  over.
 About  this  time  a poor  orphan  boy,  living  in  the  house
 of  Akutak,  said  to  his  house-fellows,  “ I am  in  great  want
 of  boots,  and  intend  to  go  to  the  brothers  and  offer  them
-my  little  dog  in  exchange  for  a pair  of  old  boots.”  Ac-
-cordingly he  betook  himself  to  their  old  place.  On
+my  little  dog  in  exchange  for  a pair  of  old  boots.”  Accordingly he  betook  himself  to  their  old  place.  On
 arriving  there  in  the  morning,  he  wondered  at  seeing  the
 house  without  windows.  However,  he  went  up  to  it,
 and  found  it  still  well  provisioned ; but  he  could  neither
 see  a boat  nor  any  person  about  the  place.  On  entering,
 he  found  all  the  skin-hangings  of  the  walls  torn  down
-and  spread  on  the  floor.  But  knowing  no  other  in-
-habited house  in  the  neighbourhood,  he  soon  made  up
+and  spread  on  the  floor.  But  knowing  no  other  inhabited house  in  the  neighbourhood,  he  soon  made  up
 his  mind  to  stay  the  night  over,  and  at  dark  went  to
 fetch  some  blubber,  trimmed  a lamp,  and  lighted  it.
 He  then  pulled  off  his  ragged  boots,  and  having  put
 them  up  above  the  lamp  to  dry,  seated  himself  at  the
-south  end  of  the  ledge.  At  first  his  little  dog  had  fol-
-lowed him  into  the  house,  and  rolled  itself  up  at  his  feet
+south  end  of  the  ledge.  At  first  his  little  dog  had  followed him  into  the  house,  and  rolled  itself  up  at  his  feet
 on  the  floor.  But  while  his  boots  were  drying,  the  dog
 began  to  sniff  and  yell  ; and  running  outside,  its  barking
 gradually  became  more  distant.  Some  time  after,  it
@@ -18599,27 +15366,19 @@ again  returned,  and  lying  down  before  its  master,  looked
 at  him  very  sharply,  and  then  rushed  out  howling  as
 
 
-TALES  AND  TRADITIONS.
-
-
-409
-
-
 before,  this  time  re-entering  immediately.  The  orphan
 thought,  “ Dogs  are  not  unconscious  of  anything .”  He
 then  put  on  his  boots  and  rushed  out,  soon  followed  by
 the  dog.  Before  they  had  made  their  way  through  the
 house  passage,  on  looking  out  he  caught  sight  of  the
-ghost  making  towards  him  through  the  entrance,  drag-
-ging its  shroud  behind  it.  The  boy  being  in  the  middle
+ghost  making  towards  him  through  the  entrance,  dragging its  shroud  behind  it.  The  boy  being  in  the  middle
 part  of  the  passage,  pressed  himself  close  up  to  the  wall,
 and  the  dog  also.  At  the  very  moment  he  expected  to
 be  discovered  by  the  ghost,  it  passed  by,  on  which  the
 dog  instantly  jumped  noiselessly  out,  followed  by  his
 poor  master.  Both  now  hastened  down  to  the  ice  ; but
 before  they  had  got  far,  the  spectre  was  seen  emerging
-from  the  house  in  full  pursuit  of  them.  It  did  not,  how-
-ever, get  hold  of  them  ; for  at  a little  distance  the  fugi-
+from  the  house  in  full  pursuit  of  them.  It  did  not,  however, get  hold  of  them  ; for  at  a little  distance  the  fugi-
 tive had  to  pass  by  a large  iceberg  ; and  seeing  a cave
 on  one  side  of  it,  he  stepped  quickly  in,  and  there
 awaited  the  coming  day.
@@ -18630,8 +15389,7 @@ back  to  his  own  home,  when  he  suddenly  espied  a
 number  of  people  on  one  of  the  outer  islets.  He  at
 once  turned  towards  them.  They  apparently  got  much
 excited  at  seeing  him,  thinking  it  might  be  the  mad
-woman.  Not  till  he  was  quite  close  did  they  recog-
-nise the  poor  orphan  boy,  when  they  all  asked  whether
+woman.  Not  till  he  was  quite  close  did  they  recognise the  poor  orphan  boy,  when  they  all  asked  whether
 he  had  not  slept  in  the  haunted  house,  and  whether  he
 had  seen  anything  amiss  there.  He  answered,  “ No;  I
 observed  nothing  particular  ; ” and  in  so  saying  he  told
@@ -18646,9 +15404,6 @@ boy  was  about  to  leave,  he  asked  a gift  of  a knife  with
 
 
 4io
-
-
-TALES  AND  TRADITIONS.
 
 
 a pretty  handle.  All  the  other  brothers  likewise  loaded
@@ -18671,25 +15426,20 @@ as  his  concubine.  Before  long  she  was  with  child,  but
 notwithstanding,  her  brother  still  continued  loving  her
 dearly.  One  day  she  had  been  out  to  fetch  water,  and
 at  the  very  moment  she  was  about  to  enter  she  chanced
-to  hear  her  sisters-in-law  within  talking  about  her,  say-
-ing to  each  other,  “ I wonder  who  ever  will  care  to  be
+to  hear  her  sisters-in-law  within  talking  about  her,  saying to  each  other,  “ I wonder  who  ever  will  care  to  be
 troubled  with  the  charge  of  that  wretch  Arnarsarsuak  is
 going  to  give  birth  to.”  On  hearing  these  words,  she  at
 once  put  down  her  pails  in  the  passage,  and  ran  off  far
 to  the  inland,  away  from  humankind.  During  her  flight
 she  perceived  that  the  time  had  come  when  she  should
-be  delivered  ; she  fell  into  a deep  swoon,  and  on  recov-
-ering found  she  had  given  birth  to  a kingulerak ,1  For-
+be  delivered  ; she  fell  into  a deep  swoon,  and  on  recovering found  she  had  given  birth  to  a kingulerak ,1  For-
 merly, in  the  days  of  her  prosperity,  she  had  been  kind
 and  charitable  to  two  orphan  children,  a boy  and  a girl,
-who  lived  among  them.  Many  years  after,  when  Arnar-
-sarsuak’s  brothers  were  all  dead,  the  two  orphans  took
+who  lived  among  them.  Many  years  after,  when  Arnarsarsuak’s  brothers  were  all  dead,  the  two  orphans  took
 
 1 An  anghiaM  who  remained  attached  to  the  mother  on  account  of  her
 being  kivigtok,  until  she  had  revenged  herself.
 
-
-TALES  AND  TRADITIONS.  411
 
 up  their  abode  at  a solitary  place  out  on  some  far  away
 islands.  When  the  brother  was  following  his  trade  in
@@ -18697,11 +15447,9 @@ his  kayak  the  sister  felt  miserably  lonely ; to  make  up
 for  which,  however,  when  he  again  returned  she  felt  as
 if  the  house  were  full  of  visitors.  One  evening  when
 they  were  sitting  chatting  together,  the  brother  suddenly
-said,  “ I think  I shall  try  to  recall  the  song  that  Arnar-
-sarsuak  used  to  sing.”  But  the  sister  advised  him  rather
+said,  “ I think  I shall  try  to  recall  the  song  that  Arnarsarsuak  used  to  sing.”  But  the  sister  advised  him  rather
 to  desist,  saying,  “ Remember  that  Arnarsarsuak  now
-belongs  to  those  of  uncommon  kind,  having  fled  from  man-
-kind during  her  pregnancy.  I have  heard  that  such
+belongs  to  those  of  uncommon  kind,  having  fled  from  mankind during  her  pregnancy.  I have  heard  that  such
 people  have  the  gift  of  hearing  their  own  songs  a long
 way  off.”  However,  the  brother  would  not  give  up  his
 intention  ; but  no  sooner  -had  he  commenced  singing
@@ -18714,33 +15462,22 @@ which  the  sister  resumed,  “ Did  not  I tell  thee  she  would
 be  sure  to  hear  thee  singing  ? now  go  and  answer,  thou
 being  the  best  talker  of  us.”  The  brother,  however,
 did  not  stir;  and  the  voice  was  again  heard,  “Ye  need
-not  be  afraid  of  me ; I only  want  to  get  inside.”  See-
-ing her  brothers  could  find  no  words,  the  sister  said,
+not  be  afraid  of  me ; I only  want  to  get  inside.”  Seeing her  brothers  could  find  no  words,  the  sister  said,
 “ Well,  come  in;”  and  presently  a sound  was  heard  of
 something  creeping  along  the  passage,  while  the  two
-shrank  back  on  the  ledge  in  silence,  with  a sure  forebod-
-ing that  the  next  moment  they  would  be  frightened  to
-death.  The  sound  rapidly  approached  ; they  only  ven-
-tured a timid  glance  towards  the  entrance,  and  immedi-
+shrank  back  on  the  ledge  in  silence,  with  a sure  foreboding that  the  next  moment  they  would  be  frightened  to
+death.  The  sound  rapidly  approached  ; they  only  ventured a timid  glance  towards  the  entrance,  and  immedi-
 ately after  Arnarsarsuak  entered,  prettier  than  ever,  and
 said,  “ I was  lately  far  from  this  place,  in  the  interior,
 whence  I was  suddenly  lured  by  some  voice  calling
 me  hither.”  The  sister  now  took  courage  to  say,  “ It
-was  only  for  a pastime  he  tried  to  sing  thy  lay.”  Ar-
-narsarsuak continued,  “ Ye  know  why  I fled  ; it  was  be-
-
-
-412
-
-
-TALES  AND  TRADITIONS.
+was  only  for  a pastime  he  tried  to  sing  thy  lay.”  Arnarsarsuak continued,  “ Ye  know  why  I fled  ; it  was  be-
 
 
 cause  I heard  my  sisters-in-law  observing  that  no  one
 would  be  found  willing  to  provide  for  my  poor  offspring.
 On  that  day  I ran  far  off  into  the  interior,  when  I was
-soon  to  give  birth  to  a kingulerak , which  ever  since  ad-
-hered to  my  body  till  a few  days  ago.  In  my  present
+soon  to  give  birth  to  a kingulerak , which  ever  since  adhered to  my  body  till  a few  days  ago.  In  my  present
 state  ye  have  nothing  to  fear  from  me,  and  I would  be
 very  glad  to  come  and  stay  with  you.”  Seeing  that
 they  had  no  choice,  and  could  not  get  rid  of  her,  they
@@ -18748,8 +15485,7 @@ allowed  her  room  on  the  farthest  end  of  the  ledge,  and
 themselves  lay  down,  leaving  a wide  space  / between
 them  ; still  they  were  quite  unable  to  fall  asleep.  The
 following  day  the  brother  wanted  to  go  out  hunting ; his
-sister,  however,  persuaded  him  to  stay  at  home  on  ac-
-count of  her  new  housemate,  whom  they  still  considered
+sister,  however,  persuaded  him  to  stay  at  home  on  account of  her  new  housemate,  whom  they  still  considered
 rather  a doubtful  personage.  On  the  ensuing  day  he
 went  out  kayaking,  but  kept  so  near  to  the  house  as  not
 to  lose  sight  of  them  for  any  length  of  time.  In  the
@@ -18759,10 +15495,8 @@ and  cut  up  the  animals,  but  Arnarsarsuak  would  not
 allow  it,  taking  all  the  work  on  herself ; and  having
 quickly  flensed  both  seals,  she  made  up  a fire,  and  while
 she  did  the  cooking  she  sewed  at  the  same  time.  As
-time  went  by,  and  their  fears  subsided,  the  brother  re-
-solved to  marry  her ; but  when  she  came  to  be  pregnant
-the  sister  began  to  fear  she  would  bear  no  human  off-
-spring, and  in  that  case  she  said,  “ Whither  am  I to
+time  went  by,  and  their  fears  subsided,  the  brother  resolved to  marry  her ; but  when  she  came  to  be  pregnant
+the  sister  began  to  fear  she  would  bear  no  human  offspring, and  in  that  case  she  said,  “ Whither  am  I to
 flee  ? seeing  we  live  on  an  island,  I can  only  rush  down
 to  the  sea.”  When  her  time  had  come,  the  brother  as
 well  as  the  sister  determined  to  run  away  from  the
@@ -18774,16 +15508,9 @@ hastened  to  bring  his  sister  back.  When  they  returned,
 Arnarsarsuak  sat  smiling  kindly  on  them,  and  said,
 
 
-TALES  AND  TRADITIONS.
-
-
-413
-
-
 “ Behold  the  object  of  your  fears,  my  two  babes.”  She
 then  showed  them  a little  bear  cub  and  a real  child.
-Both  were  nursed  together,  and  when  the  bear  had  be-
-gun to  go  about  by  himself  she  again  bore  a child  and
+Both  were  nursed  together,  and  when  the  bear  had  begun to  go  about  by  himself  she  again  bore  a child  and
 another  little  bear.
 
 In  due  time  the  father  gave  his  boys  kayaks,  and  the
@@ -18792,8 +15519,7 @@ at  length  the  father  could  afford  to  take  things  easy,  and
 rest  from  work.  Subsequently  he  proposed  that  they
 should  all  set  out  together  in  search  of  other  people,
 thinking  that  the  children  ought  not  to  live  always  at
-such  a desolate  place.  Accordingly  they  started  north-
-wards, the  sons  following  in  their  kayaks,  while  the  bears
+such  a desolate  place.  Accordingly  they  started  northwards, the  sons  following  in  their  kayaks,  while  the  bears
 kept  swimming  alongside  the  boat.  Travelling  on  thus,
 they  at  length  came  in  sight  of  a well-peopled  place  ;
 on  this  the  bears  stuck  closer  to  the  boat,  and  out  of
@@ -18817,9 +15543,6 @@ where  their  bones  now  rest.
 4H
 
 
-TALES  AND  TRADITIONS.
-
-
 79.
 
 
@@ -18834,14 +15557,12 @@ admonished  him  not  to  harm  the  meanest  dog,  and
 never  to  be  uncivil  towards  old  people,  not  even  on
 being  reproved  by  them.  When  he  came  to  possess  a
 kayak  of  his  own  he  remarked  that  his  grandfather,  when
-pushing  him  off  the  beach,  was  always  heard  to  pro-
-nounce some  strange  words,  at  the  same  time  uncover-
+pushing  him  off  the  beach,  was  always  heard  to  pronounce some  strange  words,  at  the  same  time  uncover-
 ing his  head  by  pulling  the  hood  back  behind  the  ears
 But  though  the  youth  listened  carefully,  he  could  not
 make  out  the  meaning  of  the  words.
 
-About  the  time  when  he  first  commenced  seal-catch-
-ing his  grandfather  died,  and  being  left  alone  he  took
+About  the  time  when  he  first  commenced  seal-catching his  grandfather  died,  and  being  left  alone  he  took
 up  his  winter  quarters  at  a place  where  the  Southlanders
 had  to  pass  by  when  on  their  trading  excursions  to  the
 European  settlement  at  Pamiut  (Fredrikshaab).  At
@@ -18859,21 +15580,12 @@ the  bay.  Suddenly  something  emerged  from  the  water,
 coming  up  close  behind  him,  and  beating  the  top  of  his
 
 
-TALES  AND  TRADITIONS.
-
-
-415
-
-
-kayak,  and  lo  ! it  was  nothing  less  than  a tupilak  (mon-
-ster made  by  sorcery).  It  accosted  him,  saying,  “ How
+kayak,  and  lo  ! it  was  nothing  less  than  a tupilak  (monster made  by  sorcery).  It  accosted  him,  saying,  “ How
 lucky  I met  thee  thus  alone,  as  I am  longing  for  some
-entrails  ! ” Stupefied  with  awe,  he  felt  the  creature  creep-
-ing up  on  the  top  of  the  kayak  behind  him,  constantly
+entrails  ! ” Stupefied  with  awe,  he  felt  the  creature  creeping up  on  the  top  of  the  kayak  behind  him,  constantly
 repeating,  “ I shall  soon  make  a feast  on  thy  entrails ; ”
 at  the  same  time  pressing  down  the  stern  of  the  kayak
-so  deep  as  to  make  the  prow  rise  in  the  air.  Never  be-
-fore had  he,  who  was  wont  to  carry  spotted  seals,  had
+so  deep  as  to  make  the  prow  rise  in  the  air.  Never  before had  he,  who  was  wont  to  carry  spotted  seals,  had
 such  a weight  on  board.  Feeling  his  strength  giving
 way,  and  knowing  nothing  better,  he  tried  to  capsize  his
 kayak  to  the  left,  but  was  greatly  perplexed  to  find  his
@@ -18881,11 +15593,9 @@ oar  striking  against  a hard  substance  below,  though  out
 in  deep  water.  At  this  he  got  up  ; but  in  attempting
 to  turn  his  kayak  to  the  right,  he  again  hit  something
 hard,  on  which  he  slowly  righted  himself,  and  rowed
-away,  at  the  same  time  perceiving  that  he  was  regain-
-ing his  strength.  But  though  he  pulled  homewards  with
+away,  at  the  same  time  perceiving  that  he  was  regaining his  strength.  But  though  he  pulled  homewards  with
 all  his  strength,  he  found  it  impossible  to  make  his  kayak
-go  straight.  It  kept  turning  round,  carrying  him  to-
-wards uninhabited  places.  The  tupilak  now  cried,
+go  straight.  It  kept  turning  round,  carrying  him  towards uninhabited  places.  The  tupilak  now  cried,
 “ Thou  hateful  creature,  I see  I have  made  a mistake,
 and  climbed  up  to  one  of  zincommon  kind ” (viz.,  a man
 endowed  with  a certain  degree  of  angakok  power)  ; and
@@ -18894,8 +15604,7 @@ being  able  to  detach  itself.  Thus  he  went  on  pulling
 away  to  the  sunny  side  of  the  firth.  When  they  were
 quite  close  to  the  beach,  the  tupilak  said,  “ I see  I shall
 not  get  through  with  thee,  and  I think  I shall  be  made
-thy  prize.”  Just  then  the  man  on  looking  round  dis-
-covered a boat  occupied  by  women,  who  had  been
+thy  prize.”  Just  then  the  man  on  looking  round  discovered a boat  occupied  by  women,  who  had  been
 farther  up  the  firth  getting  angmagsat  (capelins).  He
 called  out  to  them,  “ I have  got  something  on  my  kayak
 that  is  not  a seal ; put  ashore  yonder  and  come  round
@@ -18903,8 +15612,6 @@ this  way  quickly.”  When  they  had  done  as  he  told
 them,  he  went  on  saying,  “ Don’t  attack  it  in  front,  as  it
 might  be  dangerous  to  you.”  The  foremost  among  them
 
-
-41 6 TALES  AND  TRADITIONS.
 
 on  seeing  the  beast  fled  in  terror.  The  kayaker  again
 began  to  lose  strength,  but  at  length  his  repeated  calls
@@ -18918,14 +15625,12 @@ the  women  he  said,  “ I do  not  care  to  touch  it ; ye  cut  it
 up;  I shall  repay  you  hereafter.”  In  expectation  of  the
 reward  she  at  once  fell  to  and  cut  open  the  tupilak,
 which  she  found  stuffed  with  all  kinds  of  bones,  such  as
-of  birds,  walruses,  and  seals.  They  had  it  entirely  de-
-stroyed by  sinking  part  of  it  in  the  sea,  and  hiding  the
+of  birds,  walruses,  and  seals.  They  had  it  entirely  destroyed by  sinking  part  of  it  in  the  sea,  and  hiding  the
 rest  of  it  in  some  old  tombs.  This  done,  he  prepared  to
 row  home,  but  first  said  to  the  women,  “ Thanks  to  you
 and  your  roaming  thus  about,  without  which  I wonder
 how  I had  fared.  I will  take  care  to  repay  you ; I am
-not  likely  to  forget  you.”  At  home  he  told  his  adven-
-ture, and  all  now  felt  sure  that  it  must  have  been  the
+not  likely  to  forget  you.”  At  home  he  told  his  adventure, and  all  now  felt  sure  that  it  must  have  been  the
 tupilak  which  had  formerly  killed  the  two  traders.  After
 this  all  travellers  were  unmolested,  and  the  women  were
 well  paid  by  Avatarsuak.
@@ -18946,8 +15651,6 @@ however,  he  found  himself  almost  entirely  stopped,  and
 at  the  same  time  saw  a large  iceberg  drifting  down  upon
 
 
-TALES  AND  TRADITIONS.  417
-
 him.  He  tried  to  escape,  but  presently  heard  the  roar
 of  its  calving  (breaking)  right  alongside  him,  and  pressing
 him  deep  under  the  waters.  However,  he  rose  on  the
@@ -18960,17 +15663,13 @@ strings  of  his  kayak-jacket  rattling  about,  and  smiting
 his  back  with  the  quick  motion,  while  he  was  pushed  on
 towards  the  land  beneath  the  waves.  He  had  no  kayak,
 but  found  himself  sitting  down,  the  loose  bottom  skin  of
-his  kayak  fastened  round  him,  and  having  his  kayak-
-stick  for  an  oar,  and  with  one  leg  somewhat  bent.  In
+his  kayak  fastened  round  him,  and  having  his  kayakstick  for  an  oar,  and  with  one  leg  somewhat  bent.  In
 front  he  saw  some  one  in  a large  hood  rushing  on  and
 cleaving  the  waters  for  him,  and  behind  he  heard  some
 one  talking,  but  without  being  able  to  make  out  the  words.
-These  companions  proved  to  be  his  grandparents  pro-
-tecting their  grandson.  When  they  came  nearer  to  the
-islets  he  felt  exceedingly  thirsty ; and  presently  dis-
-covering an  iceberg  with  a fine  spring  flowing  from  it
-he  wanted  to  go  and  quench  his  thirst  ; but  at  that  mo-
-ment he  heard  a warning  voice  behind  him  saying,
+These  companions  proved  to  be  his  grandparents  protecting their  grandson.  When  they  came  nearer  to  the
+islets  he  felt  exceedingly  thirsty ; and  presently  discovering an  iceberg  with  a fine  spring  flowing  from  it
+he  wanted  to  go  and  quench  his  thirst  ; but  at  that  moment he  heard  a warning  voice  behind  him  saying,
 “ Dear  grandson,  do  not  drink  of  the  fountain  designed
 for  those  perishing  at  sea  ; if  thou  drinkest  thou  wilt
 never  return.”  At  length  he  was  carried  far  towards
@@ -18992,14 +15691,10 @@ on  being  handled  by  them,  and  touched  upon  his  bare
 4i  8
 
 
-TALES  AND  TRADITIONS.
-
-
 skin,  he  lost  all  consciousness,  but  soon  after  revived,
 hearing  a sweet  tune  of  a song  from  his  childhood.  At
 the  very  moment  he  revived  the  sick  man  breathed  his
-last.  The  people  of  the  house  put  a new  skin  under-
-neath him,  and  let  him  remain  perfectly  quiet  in  his  own
+last.  The  people  of  the  house  put  a new  skin  underneath him,  and  let  him  remain  perfectly  quiet  in  his  own
 clothes  for  five  succeeding  days,  after  which  he  began
 to  stir  about  a little,  and  long  to  get  home,  but  he  had
 no  kayak.  One  day,  however,  a woman  went  down  along
@@ -19008,15 +15703,10 @@ the  beach  to  gather  the  red  sea-weed,  and  returned  saying,
 ashore  to  us.”  When  they  had  gathered  on  the  beach,
 and  duly  inspected  it,  they  made  it  out  to  be  the  kayak
 of  their  anghiniartok,  in  perfect  order,  and  lying  just
-above  high-water  mark,  and  well  closed  by  the  half-
-jacket. On  opening  this  they  also  found  his  goods,  not
-a single  implement  amissing.  The  next  day  he  re-
-turned ; and  from  that  time  upwards  he  became  still
+above  high-water  mark,  and  well  closed  by  the  halfjacket. On  opening  this  they  also  found  his  goods,  not
+a single  implement  amissing.  The  next  day  he  returned ; and  from  that  time  upwards  he  became  still
 more  of  a wise  man,  and  no  witchcraft  could  ever  work
 upon  him.
-
-
-80
 
 
 ABOUT  THE  MEN  FROM  THE  FIRTH  VISITING
@@ -19033,12 +15723,6 @@ auks  were  to  be  met  with  at  Kangek,  at  the  mouth  of
 the  firth,  they  agreed  to  make  a trip  thither.  When  they
 were  ready  for  their  departure,  however,  the  youngest
 changed  his  mind  and  would  not  be  of  the  party;  so  the
-
-
-TALES  AND  TRADITIONS.
-
-
-419
 
 
 other  two  went  off  by  themselves.  Arrived  at  Kangek,
@@ -19074,16 +15758,12 @@ he  achieved  it  with  even  greater  agility  and  swiftness
 than  the  brother.  After  this  the  men  on  shore  took
 a sudden  fancy  to  them,  and  vied  with  each  other  in
 inviting  them  to  their  houses.  The  elder,  who  had  by
-this  time  found  out  their  former  intention  of  mock-
-ing them,  replied,  “ Poor  worthless  fellows  like  us  are
+this  time  found  out  their  former  intention  of  mocking them,  replied,  “ Poor  worthless  fellows  like  us  are
 little  fit  to  come  here  ; but  our  younger  brother  would
 just  be  the  man  for  you.  However,  he  had  no  fancy
 
 
 4-0
-
-
-TALES  AND  TRADITIONS.
 
 
 for  coming.  In  summer,  when  the  mighty  glaciers  are
@@ -19093,8 +15773,7 @@ we  dare  not  venture  out  on  account  of  the  dreadful  surf
 from  the  glacier.  We  only  stand  watching  our  brother,
 when  he.  heedless  of  the  danger,  crosses  the  firth  ; so
 you  see  that  we  are  not  at  all  the  right  ones  to  call  in
-here."  Still  not  a word  escaped  the  others.  After  hav-
-ing put  their  kayaks  and  implements  ashore,  they  entered
+here."  Still  not  a word  escaped  the  others.  After  having put  their  kayaks  and  implements  ashore,  they  entered
 the  houses,  and  were  regaled  with  auks,  which  they  liked
 very  much.  However,  they  preferred  the  entrails  to  the
 flesh  itself,  thinking  them  more  like  the  entrails  of  gulls,
@@ -19125,31 +15804,21 @@ them  — she  worked  away  as  she  never  did  before.
 When  she  had  put  her  own  poor  bundles  into  the  boat
 
 
-TALES  AND  TRADITIONS.
-
-
-421
-
-
 she  hurried  up  for  her  ledge-cover ; but  when  she  came
 outside  again,  she  observed  the  foster-daughter  still
 standing  on  shore  watching  their  master  closely ; and
 when  she  herself  came  down  he  leaped  into  the  boat,
 and  shoving  off,  called  out  to  them,  “ Ye  only  eat  our
-food ; we  won’t  take  you  along.”  So  saying,  their  house-
-mates turned  their  backs  upon  them,  and  got  under
+food ; we  won’t  take  you  along.”  So  saying,  their  housemates turned  their  backs  upon  them,  and  got  under
 way.  The  poor  creatures,  whose  scanty  belongings
-had  all  been  put  into  the  boat  excepting  the  ledge-
-cover,  on  seeing  the  boat  depart,  faced  each  other  in
+had  all  been  put  into  the  boat  excepting  the  ledgecover,  on  seeing  the  boat  depart,  faced  each  other  in
 blank  despair,  and  then  burst  into  tears.  However,
 when  the  boat  was  out  of  sight,  the  widow  wiped  her
 eyes,  and  said,  “Never  mind,  my  dear;  we  must  just  do
-without  them.”  But  the  child  was  not  so  easily  con-
-soled. When  at  length  she  stopped  crying,  her  mother
+without  them.”  But  the  child  was  not  so  easily  consoled. When  at  length  she  stopped  crying,  her  mother
 said,  “ Let  us  go  and  find  out  a house  to  make  our
 home.”  They  went  through  all  the  deserted  huts,  but
-everywhere  the  walls  were  bare  and  the  hangings  re-
-moved, till  at  length  they  came  into  one  without  win-
+everywhere  the  walls  were  bare  and  the  hangings  removed, till  at  length  they  came  into  one  without  win-
 dows, where  the  skins  still  hung  on  the  walls,  and  the
 old  one  said,  “ Here,  in  the  southern  corner,  we'll  take
 up  our  quarters.”  She  at  once  proceeded  to  make  a
@@ -19171,20 +15840,13 @@ One  morning,  having  taken  a small  morsel,  they  noticed
 that  there  was  only  a bit  left  for  their  supper  at  night.
 
 
-422
-
-
-TALES  AND  TRADITIONS.
-
-
 Then  the  widow  said  to  her  daughter,  “ Child,  thou  art
 more  strong  and  active  than  I : thou  must  go  and  dig
 a hole  over  yonder  beneath  the  window-ledge.”  The
 daughter  obeyed  at  once,  and  began  to  dig  up  the  loose
 earth.  When  she  had  finished,  the  mother  repeated,
 “ Thou  art  more  brisk  and  active  than  I : run  away  and
-fill  the  hole  with  water.”  The  daughter  continued  fetch-
-ing water  from  the  sea,  and  before  evening  the  hole  was
+fill  the  hole  with  water.”  The  daughter  continued  fetching water  from  the  sea,  and  before  evening  the  hole  was
 filled.  That  evening  they  took  their  last  bit  of  food,  and
 went  to  rest,  but  without  being  able  to  sleep.  In  the
 early  morning  the  mother  said,  “ I shall  probably  not
@@ -19197,29 +15859,19 @@ and  as  she  went  through  it,  warned  her  daughter  to
 attend  well.  The  child  listened,  and  presently  heard  a
 splash  : on  which  she  exclaimed,  “ Mother  dear,  there  is
 something  moving  in  the  water.”  When  the  old  woman
-told  her  to  see  what  it  was,  she  ran  off  to  look,  and  see-
-ing a little  frog-fish,  called  out,  “ Ah,  mother,  it  is  a frog-
-fish  ! ” The  mother  told  her  to  kill  it  with  the  old  grind-
-stone (probably  an  amulet).  The  little  girl  obeyed,  and
+told  her  to  see  what  it  was,  she  ran  off  to  look,  and  seeing a little  frog-fish,  called  out,  “ Ah,  mother,  it  is  a frog-
+fish  ! ” The  mother  told  her  to  kill  it  with  the  old  grindstone (probably  an  amulet).  The  little  girl  obeyed,  and
 the  fish  was  boiled  and  cut  in  two,  putting  aside  one-half
-for  their  evening  meal.  Next  morning  the  mother  re-
-peated her  incantation,  and  they  got  a nepisak-fish
+for  their  evening  meal.  Next  morning  the  mother  repeated her  incantation,  and  they  got  a nepisak-fish
 ( Cyclopterus  litmpus) ; the  next  day,  in  the  same  way,
 an  eider-duck — and  so  on  the  following  days,  a firth-seal,
 a saddleback-seal,  a small  dolphin,  a white  whale,  and
-at  last  a narwal.  When  she  had  done  flensing  the  cap-
-tured animals,  the  following  day  large  quantities  of  dif-
+at  last  a narwal.  When  she  had  done  flensing  the  captured animals,  the  following  day  large  quantities  of  dif-
 ferent kinds  of  provisions  were  heaped  up  outside  the
 house.  Towards  evening  they  went  to  the  top  of  a rock
 sloping  south  to  cut  the  flesh  in  thin  slices  for  drying.
 While  there  engaged  the  daughter  exclaimed,  “I  almost
 think  I see  a kayak  coming  in;”  and  in  this  she  was  quite
-
-
-TALES  AND  TRADITIONS.
-
-
-423
 
 
 right.  The  lonely  woman  had  one  relative,  a very  aged
@@ -19232,8 +15884,7 @@ with  blood  he  could  not  believe  his  own  eyes,  but  thought
 it  all  a delusion.  And  when  he  observed  the  two  women
 standing  on  the  rock  and  slicing  large  pieces  of  flesh  for
 drying,  and  when  they  afterwards  came  running  down
-to  receive  him,  he  accosted  them,  “ Here  am  I,  expect-
-ing to  find  you  starved  to  death : I actually  came  to
+to  receive  him,  he  accosted  them,  “ Here  am  I,  expecting to  find  you  starved  to  death : I actually  came  to
 bury  you.”  She  answered  him,  “ Silly  old  thing  thou
 art ! just  get  thee  out  of  thy  kayak,  and  partake  of  our
 good  fare  here.”  The  poor  old  man  went  ashore,  but
@@ -19247,8 +15898,7 @@ when  all  your  provisions  are  ready  prepared  I shall
 come  to  fetch  you  off.”  When  he  was  gone  they  went
 to  rest,  and  the  morning  after  she  again  made  ready  to
 practise  her  art.  However,  she  chanted  and  invoked,
-and  chanted  again,  and  the  daughter  watched  and  lis-
-tened as  usual,  but  neither  breathing  nor  splashing  was
+and  chanted  again,  and  the  daughter  watched  and  listened as  usual,  but  neither  breathing  nor  splashing  was
 heard.  The  reason  was  that  they  had  taken  offence  at
 her  having  made  the  gifts  over  to  other  people  ; and
 from  that  time  upwards  she  never  succeeded  in  calling
@@ -19257,12 +15907,6 @@ its  effect,  and  she  had  finished  drying  her  stock  of  flesh,
 her  poor  old  relative  came  and  fetched  her  off  to  his  own
 homestead,  and  there  she  remained  the  rest  of  her  days
 with  him.
-
-
-424
-
-
-TALES  AND  TRADITIONS.
 
 
 8 2.
@@ -19274,8 +15918,7 @@ ISIGARSIGAK  and  his  younger  brother  once  set  out
 on  a journey  northwards,  and  did  not  stop  till  the
 frost  obliged  them  to  establish  themselves  for  the  winter
 before  they  had  reached  their  goal.  Not  till  the  middle
-of  next  summer  did  they  arrive  at  their  place  of  desti-
-nation, where  they  found  a number  of  people  all  friendly
+of  next  summer  did  they  arrive  at  their  place  of  destination, where  they  found  a number  of  people  all  friendly
 and  well  inclined  ; and  therefore  they  resolved  to  pass
 the  next  winter  with  them.  Winter  went  by  in  the
 usual  way  ; but  when  spring  came  round,  some  of  the
@@ -19284,12 +15927,10 @@ shall  no  doubt  again  see  the  dark  stripe This  implied
 the  intention  of  going  a trip  to  Akilinek  (the  country
 beyond  the  ocean)  ; but  the  strangers  did  not  understand
 their  meaning.  One  day  a man  came  up  to  Isigarsigak
-saying,  “We  all  of  us  intend  to  go  a voyage  out  sea-
-wards to  Akilinek  ; with  that  view  thou  wouldst  do  well
+saying,  “We  all  of  us  intend  to  go  a voyage  out  seawards to  Akilinek  ; with  that  view  thou  wouldst  do  well
 to  gather  skins  for  a double  coating  to  thy  boat.”  He
 followed  this  advice  ; and  when  all  had  got  their  boats
-new  coverings,  he  noticed  that  every  morning  the  in-
-habitants mounted  the  top  of  a hill  to  take  a survey  of
+new  coverings,  he  noticed  that  every  morning  the  inhabitants mounted  the  top  of  a hill  to  take  a survey  of
 the  ocean.  Sometimes  he  joined  them,  and  then  they
 used  to  say,  “ Much  as  we  long  to  be  off,  we  dare
 not  risk  it  yet.”  But  at  length  the  rattling  noise  of  the
@@ -19302,12 +15943,6 @@ wet  and  began  to  slacken  their  speed,  they  cut  their
 fastenings  and  cast  them  off.  Isigarsigak  dropped
 
 
-TALES  AND  TRADITIONS.
-
-
-425
-
-
 astern  a little,  and  had  almost  given  up  hope  of  seeing
 land  again,  when  suddenly  he  heard  land-shouts  ahead
 of  him.  As  he  listened  again,  he  could  make  out  that
@@ -19318,12 +15953,10 @@ broke  out  into  exulting  shouts  that  they  had  reached
 the  opposite  shore  without  a gale,  and  on  coming  close
 to  the  land  they  found  it  abounding  with  reindeer.
 They  moored  their  boats,  and  at  once  went  off  shooting,
-but  Isigarsigak  and  his  brother  slew  the  greatest  num-
-ber. They  decided  on  staying  at  this  place  for  a sea-
+but  Isigarsigak  and  his  brother  slew  the  greatest  number. They  decided  on  staying  at  this  place  for  a sea-
 son. Some  time  after  there  was  heard  a cry  of  “ Boats.”
 Isigarsigakwent  out  and  saw  a great  numbercoming  down
-from  the  north.  These  travellers  also  took  up  their  quar-
-ters there  ; but  Isigarsigak  did  not  care  to  assist  them,
+from  the  north.  These  travellers  also  took  up  their  quarters there  ; but  Isigarsigak  did  not  care  to  assist  them,
 and  remained  in  his  tent.  Before  long,  however,  there
 was  a cry  at  the  entrance,  “ Isigarsigak  and  his  brother
 are  called  upon  to  come  out  for  a singing  match  ” ( nith -
@@ -19333,8 +15966,7 @@ outside.  They  saw  an  enormous  crowd  of  people  all
 going  up  hill,  the  men  in  front,  the  women  following.
 As  soon  as  they  were  seen  there  was  another  shout,
 “ Let  the  men  from  East  step  forward.”  The  brother  of
-Isigarsigak  first  performed  a dance  and  retired.  Isigar-
-sigak himself  was  now  summoned,  but  as  he  did  not
+Isigarsigak  first  performed  a dance  and  retired.  Isigarsigak himself  was  now  summoned,  but  as  he  did  not
 know  much  about  either  singing  or  dancing  he  proposed
 to  his  wife  to  advance,  who  was  so  smart  and  clever  that
 nobody  could  match  her.
@@ -19342,16 +15974,9 @@ nobody  could  match  her.
 The  brother  of  Isigarsigak  being  unmarried  now  took
 a wife  in  this  place ; but  as  his  brothers-in-law  came  to
 like  him  uncommonly  well  they  would  not  allow  him  to
-leave  them.  The  year  being  far  advanced,  they  all  pre-
-pared to  cross  to  their  own  land,  giving  their  boats  new
+leave  them.  The  year  being  far  advanced,  they  all  prepared to  cross  to  their  own  land,  giving  their  boats  new
 covers.  Though  Isigarsigak  had  been  greatly  attached
 to  his  brother,  and  did  not  like  the  idea  of  leaving  him,
-
-
-426
-
-
-TALES  AND  TRADITIONS.
 
 
 he  wished  to  die  in  his  own  countty,  and  therefore  made
@@ -19372,32 +15997,22 @@ never  to  meet  again,  so  he  did  not  take  his  eyes  off  him
 till  he  was  quite  lost  to  sight.
 
 The  boats  safely  reached  their  own  shore  without
-encountering  any  storm.  Isigarsigak  now  began  seal-
-hunting with  his  children,  but  in  time  these  grew  old
+encountering  any  storm.  Isigarsigak  now  began  sealhunting with  his  children,  but  in  time  these  grew  old
 and  died  successively.  Then  he  went  out  in  company
 with  his  grandchildren,  as  yet  without  losing  strength
 himself.  It  was  not  till  his  grandchildren  were  getting
 aged  that  he  began  to  feel  a little  less  handy  himself.
 He  was  much  beloved  by  his  grandchildren,  and  they
-often  went  with  him  to  a craggy  reddish  cliff,  a favour-
-ite spot  of  his,  where  a number  of  gulls  had  built  their
+often  went  with  him  to  a craggy  reddish  cliff,  a favourite spot  of  his,  where  a number  of  gulls  had  built  their
 nests,  and  the  grandchildren’s  children  would  call  to
 him,  saying,  “ Here  we  are  at  thy  favourite  cliff ; do  sing
 to  us.”  He  had  a fine  voice,  and  could  also  imitate  the
-cries  of  birds,  which  delighted  the  urchins  beyond  every-
-thing. This  generation  also  died,  and  their  children  be-
-came his  companions  ; but  his  grandchildren’s  grand-
-children had  to  carry  him  in  a boat,  and  to  treat  him
+cries  of  birds,  which  delighted  the  urchins  beyond  everything. This  generation  also  died,  and  their  children  be-
+came his  companions  ; but  his  grandchildren’s  grandchildren had  to  carry  him  in  a boat,  and  to  treat  him
 like  a child.  His  strong  frame  had  now  grown  thin  and
 shrunk  like  that  of  a baby  ; he  ate  almost  nothing,  and
 to  know  whether  he  still  breathed  they  used  to  hold  a
 bit  of  down  before  his  nose.  In  passing  by  the  bird’s-
-
-
-TALES  AND  TRADITIONS.
-
-
-427
 
 
 cliff  they  would  say,  “ Now  we  are  at  thy  favourite  spot ;
@@ -19408,8 +16023,7 @@ came  to  take  him  out  as  usual,  they  observed  that  the
 feather  before  his  mouth  did  not  stir  ; he  had  breathed
 his  last.  Isigarsigak  never  had  his  like  with  regard  to
 old  age  in  this  country  (Greenland) ; he  got  quite  as  old
-as  Nivnitak.  His  younger  brother  may  even  have  out-
-lived him,  but  he  had  never  been  heard  of.  It  is  through
+as  Nivnitak.  His  younger  brother  may  even  have  outlived him,  but  he  had  never  been  heard  of.  It  is  through
 him  that  we  are  related  to  the  people  of  Akilinek.
 
 
@@ -19438,12 +16052,6 @@ ledge  to  go  outside,  one  of  the  other  people,  whom  she
 happened  to  pass  by,  remarked,  “ What  a very  peculiar
 
 
-428
-
-
-TALES  AND  TRADITIONS.
-
-
 smell  I perceived  ; ” but  his  housemates  told  him  to  take
 great  care  not  to  offend  her,  as  they  had  observed  that
 she  was  not  a woman  of  the  common  kind.  The  same
@@ -19457,14 +16065,12 @@ saw  his  wife  sitting  on  a ledge.  He  called  out,  “ I feel
 so  cold,  let  me  come  in.”  “ Well,  come.”  “ But  in  what
 way  am  I to  enter  ? ” “ Thou  hast  only  to  breathe  upon
 
-the  entrance  and  thou  wilt  easily  get  in.”  Thus  he  en-
-tered, and  sitting  down  beside  his  wife,  he  exclaimed,
+the  entrance  and  thou  wilt  easily  get  in.”  Thus  he  entered, and  sitting  down  beside  his  wife,  he  exclaimed,
 “ It  is  dreadfully  cold — do  make  me  warm.”  At  the
 same  time  he  saw  one  of  the  walls  covered  with  flies,
 dirt-flies,  beetles,  and  all  kinds  of  reptiles.  She  now
 raised  up  her  head  and  ordered  them  to  lull  Atalianguak
-to  sleep,  and  presently  they  all  began  singing,  “ Atali-
-anguak, sleep,  sleep  ; at  spring  we  will  rouse  thee  again:”
+to  sleep,  and  presently  they  all  began  singing,  “ Atalianguak, sleep,  sleep  ; at  spring  we  will  rouse  thee  again:”
 and  he  slept  for  ever  so  long.  At  last  he  awoke  of  his
 own  accord,  and  when  he  rose  and  went  outside  the
 sun  was  high  in  the  sky,  while  the  cave  itself  swarmed
@@ -19481,12 +16087,6 @@ THE  orphan  boy  Inoosarsuk  was  greatly  loved  by
 his  foster-mother,  but  not  by  his  foster-father.
 
 
-TALES  AND  TRADITIONS.
-
-
-429
-
-
 One  day,  when  the  father  was  out  on  a seal-hunt,  the
 mother  told  Inoosarsuk  she  was  tired  of  seal-flesh,  and
 ordered  him  out  in  her  husband’s  other  kayak  to  catch
@@ -19496,8 +16096,7 @@ on  desiring  him  to  go,  at  the  same  time  assuring  him
 she  would  clean  and  put  it  back  all  right  in  its  place.
 Notwithstanding,  the  father  coming  home  observed  that
 it  had  been  used,  and  beat  Inoosarsuk  till  he  could  not
-move  for  pain.  Another  day  his  mother  went  on  per-
-suading him  in  the  same  way  to  take  the  kayak  in  order
+move  for  pain.  Another  day  his  mother  went  on  persuading him  in  the  same  way  to  take  the  kayak  in  order
 to  go  out  and  get  her  some  quannek  (the  eatable  stalk
 of  Angelica  archangelica ),  growing  near  the  shore,  a little
 up  the  firth.  But  when  he  had  ascended  the  hills  in
@@ -19522,28 +16121,19 @@ treated,  but  still  he  at  last  grew  tired  of  his  sojourn  ; and
 one  day  pretending  to  row  a little  in  the  neighbourhood,
 he  took  himself  far  off,  and  fled  to  the  south.  At  length
 he  arrived  at  a wild  firth  ; but  thinking  it  too  long  to
-enter,  he  resolved  merely  to  cross  the  inlet  to  the  oppo-
-site shore.  When  half-way  across  he  saw  what  he  fan-
-
-
-430
-
-
-TALES  AND  TRADITIONS.
+enter,  he  resolved  merely  to  cross  the  inlet  to  the  opposite shore.  When  half-way  across  he  saw  what  he  fan-
 
 
 cied  was  a rock  ; but  on  coming  closer  he  found  it  to  be
 an  enormously  big  kayaker,  who  took  hold  of  him  and
 lifted  him  up  quite  easily,  kayak  and  all,  in  one  hand,
-and  put  him  down  before  himself  on  his  own  vessel,  in-
-tending to  take  him  home  as  an  amulet  for  his  little
+and  put  him  down  before  himself  on  his  own  vessel,  intending to  take  him  home  as  an  amulet  for  his  little
 daughter.  When  they  approached  the  homestead  of
 the  giant,  something  like  a big  iceberg  was  standing  in
 front  of  the  house ; on  closer  inspection  it  proved  to
 be  an  enormous  gull,  which  the  giant’s  daughter  was  in
 the  act  of  catching.  Inoosarsuk  was  now  brought  up  to
-the  house  and  put  upon  a shelf  near  the  window.  Dur-
-ing the  night  he  took  a fancy  to  some  very  nice-looking
+the  house  and  put  upon  a shelf  near  the  window.  During the  night  he  took  a fancy  to  some  very  nice-looking
 eatables  lying  behind  the  lamp.  He  managed  to  slide
 down  on  the  side  ledge,  but  finding  it  quite  filled  up  by
 the  giant’s  sleeping  daughter,  without  any  room  left
@@ -19556,8 +16146,7 @@ little  amulet.  The  giant  seeing  Inoosarsuk’s  dismay
 and  utter  dejection,  at  length  put  him  down  on  the  floor,
 and  covered  him  up  with  his  large  cloak,  saying,  “ Thou
 shalt  grow  as  big  as  that,  as  big  as  that.”  He  forthwith
-commenced  to  grow,  and  was  soon  as  tall  as  the  daugh-
-ter, after  which  the  giant  furnished  him  with  a kayak  of
+commenced  to  grow,  and  was  soon  as  tall  as  the  daughter, after  which  the  giant  furnished  him  with  a kayak  of
 suitable  size.  He  now  remembered  his  foster-parents  ;
 and  longing  to  take  revenge  for  the  many  blows  he  had
 formerly  got,  he  crossed  the  ocean,  and  soon  found  the
@@ -19565,12 +16154,6 @@ place  where  they  had  formerly  lived.  But  the  house
 was  laid  waste,  and  the  old  people  buried  beneath  its
 ruins.  He  then  returned  to  pass  the  rest  of  his  days  at
 Akilinek.
-
-
-TALES  AND  TRADITIONS.
-
-
-431
 
 
 85.
@@ -19584,18 +16167,15 @@ and  Sukkertoppen,  in  Greenland,  is  perhaps  a variant  of  an  older
 tale,  only  localised  in  this  way.  We  give  it  here  in  an  abridged  form.]
 
 IT  is  said  that  Kagsuk  once  had  his  wintering-place
-on  the  Karsit  islands,  outside  of  Amerdlok  (Hol-
-steinsborg), and  that  his  son  married  the  only  sister  of
-some  men  living  at  Satok,  near  Maneetsok  (Sukkertop-
-pen). Kagsuk,  as  well  as  his  son,  were  powerful  and
+on  the  Karsit  islands,  outside  of  Amerdlok  (Holsteinsborg), and  that  his  son  married  the  only  sister  of
+some  men  living  at  Satok,  near  Maneetsok  (Sukkertoppen). Kagsuk,  as  well  as  his  son,  were  powerful  and
 strong  men  ; the  former  was  also  a man-slayer,  invincible
 to  his  enemies.  Once,  when  the  son  had  been  out  during
 the  day  with  his  brothers-in-law,  at  evening,  when  it  was
 growing  dark,  he  had  some  talk  with  his  wife  that  ended
 in  a quarrel.  Her  brothers,  fearing  his  strength,  at  first
 kept  silence ; but  soon  after,  when  he  gave  her  a kick,
-they  all  went  up  to  him  and  seized  him  in  order  to  pro-
-tect their  sister.  He  tried  to  appease  their  wrath,  but
+they  all  went  up  to  him  and  seized  him  in  order  to  protect their  sister.  He  tried  to  appease  their  wrath,  but
 in  vain,  and  at  last  they  struck  him  with  a knife  ; but
 every  time  he  was  wounded  he  only  rubbed  the  place
 with  his  hand,  and  directly  it  healed,  after  which  he
@@ -19613,23 +16193,15 @@ and  destroy  the  people  of  Satok  this  very  night.”  And
 off  they  went  the  same  day  for  Satok,  and  slew  the  whole
 
 
-432
-
-
-TALES  AND  TRADITIONS.
-
-
 of  them,  only  sparing  a boy  and  a girl.  On  returning  to
 Karsit,  Kagsuk  became  a still  more  desperate  murderer.
 The  people  of  Amerdlok,  on  becoming  aware  of  this,  did
-not  venture  themselves  far  away  from  the  shore.  Kag-
-suk and  his  son,  being  both  very  suspicious,  agreed  on
+not  venture  themselves  far  away  from  the  shore.  Kagsuk and  his  son,  being  both  very  suspicious,  agreed  on
 the  following  mode  of  life  : If  the  weather  was  fine,  the
 son  went  out  kayaking  alone,  and  when  the  father  went
 out,  the  son  remained  at  home,  unless  it  happened  to
 blow  very  hard,  in  which  case,  and  then  only,  they  went
-out  together.  One  winter,  when  the  days  were  begin-
-ning to  lengthen,  two  kayakers  from  Amerdlok,  while
+out  together.  One  winter,  when  the  days  were  beginning to  lengthen,  two  kayakers  from  Amerdlok,  while
 out  seal-hunting,  were  overtaken  by  a snowstorm,  and
 could  not  make  out  their  own  land.  Bewildered,  they
 came  to  Kagsuk’s  house  ; at  seeing  which  they  got  very
@@ -19653,15 +16225,8 @@ had  arrived,  tugging  a walrus  ; and  when  the  people
 whose  business  it  was  to  haul  it  up  on  shore  had  gone
 out,  Kagsuk  said,  “ They  don’t  intend  to  stop,  but  having
 lost  their  way,  chanced  to  come  in  here  much  against
-their  will.”  The  guests,  looking  round,  then  first  (dis-
-covered that  he  was  speaking  to  his  son,  who  appeared
+their  will.”  The  guests,  looking  round,  then  first  (discovered that  he  was  speaking  to  his  son,  who  appeared
 in  the  entrance,  and  already  had  bent  his  bow  and  was
-
-
-TALES  AND  TRADITIONS.
-
-
-433
 
 
 aiming  at  them,  but  now  drew  back,  and  directly  after
@@ -19695,8 +16260,7 @@ One  day  on  hearing  its  cry  he  went  out,  and  observing
 the  kayakers  approaching,  he  said,  “ All  right;  I see  you.”
 But  at  the  same  moment  the  two  old  men,  having  escaped
 observation  by  means  of  magic  spells,  came  stealing  on
-from  behind  and  shot  him  dead  on  the  spot.  The  kay-
-akers, coming  on  shore,  killed  all  his  housemates,  with
+from  behind  and  shot  him  dead  on  the  spot.  The  kayakers, coming  on  shore,  killed  all  his  housemates,  with
 the  exception  of  his  son,  who  happened  not  to  be  at
 home,  and  afterwards  fled  to  the  north.
 
@@ -19704,12 +16268,6 @@ Note. — Some  narrators  have  prolonged  the  story  of  Kagsagsuk  (No.  i)
 by  making  him  meet  with  Kagsuk  in  the  far  north,  the  house  of  the  latter
 
 2 E
-
-
-434
-
-
-TALES  AND  TRADITIONS.
 
 
 being  situated  on  a wide  plain,  the  entrance  to  it  being  provided  with  a
@@ -19751,12 +16309,6 @@ returned  home,  sleep  at  length  was  again  restored  to
 him,  and  then  he  dreamt  as  follows : Some  one  peeped
 
 
-TALES  AND  TRADITIONS.
-
-
-435
-
-
 in  at  the  window,  and  calling  out  for  him,  said  that  he
 was  to  come  and  get  his  piece  of  blubber  from  a young
 whale  which  was  just  being  caught.  He  at  once  went
@@ -19776,35 +16328,25 @@ came  to  three  high  steps,  which  it  appeared  impossible
 to  ascend  ; but  merely  looking  at  his  guide,  he  gave  a
 leap  and  almost  unwillingly  mounted  them.  From  the
 top  he  again  saw  before  him  a great  plain,  and  a crowd
-of  people  in  beautiful  clothing ; among  them  he  recog-
-nised a man  in  the  murder  of  whom  he  himself  had
+of  people  in  beautiful  clothing ; among  them  he  recognised a man  in  the  murder  of  whom  he  himself  had
 taken  an  active  part  many  years  ago,  and  could  not  but
 be  astonished  at  hearing  people  talk  in  answer  to  what
 he  was  thinking  of  but  had  not  yet  spoken  out.  Voices
 were  then  heard  calling  the  crowd  to  divine  service  : the
-people  all  sallied  forth,  and  he  followed  their  steps,  pass-
-ing over  a dreadful  abyss  with  fires  burning  down  in  the
+people  all  sallied  forth,  and  he  followed  their  steps,  passing over  a dreadful  abyss  with  fires  burning  down  in  the
 depths ; then  they  ascended  still  higher  to  a place  so
 dazzlingly  bright  and  beautiful  as  he  never  had  seen
 before.  Here  the  Saviour  Himself  was  preaching  and
 leading  the  song  of  innumerable  people.  The  Saviour
 spoke  to  Akamalik,  reproaching  him  with  his  sins,  at
 the  same  time  pointing  out  to  him  the  abyss,  where  He
-told  him  that  tornarsuk  resided  in  the  depths,  and  ad-
-vised him,  saying,  “ Next  summer  thou  must  repair  thee
+told  him  that  tornarsuk  resided  in  the  depths,  and  advised him,  saying,  “ Next  summer  thou  must  repair  thee
 to  Nook  for  the  purpose  of  getting  instructed.”  The
 Saviour  guided  him  on  his  way  back  across  the  abyss,
 
 
-TALES  AND  TRADITIONS.
-
-
-437
-
-
 and  thus  going  downwards,  on  approaching  the  earth
-again  he  (viz.,  his  soul)  beheld  his  own  poor  body,  walk-
-ing backwards  and  forwards  all  void  of  intellect,  people
+again  he  (viz.,  his  soul)  beheld  his  own  poor  body,  walking backwards  and  forwards  all  void  of  intellect,  people
 believing  him  to  be  mad.  It  appeared  very  uncouth  in
 his  sight,  all  covered  with  maggots ; but  though  he
 greatly  abhorred  it,  he  nevertheless  entered  into  it,
@@ -19832,18 +16374,12 @@ disappeared  in  the  body  of  his  wife,  who  soon  gave
 birth  to  a son,  whom  they  called  Sangiak.  While  he
 was  yet  a small  child,  he  asked  his  father  for  a kayak  ;
 and  when  following  his  father  out  to  sea,  he  surprised
-him  by  hitting  two  seals,  though  he  only  threw  his  har-
-poon once.  He  acquired  the  art  of  always  taking  the
+him  by  hitting  two  seals,  though  he  only  threw  his  harpoon once.  He  acquired  the  art  of  always  taking  the
 whole  flock  of  seals  by  only  throwing  at  one  of  them.
 At  last  his  father  hardly  knew  how  to  bring  home  all
 the  seals  he  captured.  Once  Sangiak  happened  to  get
 acquainted  with  another  seal-hunter,  who  could  also
 
-
-TALES  AND  TRADITIONS.
-
-
-438
 
 take  two  seals  at  a time,  but  only  by  means  of  two
 harpoons,  which  he  threw  one  with  each  hand  at  once.
@@ -19856,8 +16392,7 @@ relatives  of  the  double-armed  notice  of  the  murder.  The
 relatives  would  fain  have  avenged  it ; but  he  took  flight
 in  his  kayak,  which,  though  his  enemies  had  cut  holes
 in  its  bottom,  did  not  sink.  Having  filled  his  kayak
-with  stones,  he  stopped  the  holes  with  them,  and  re-
-turned to  his  father  safe  and  sound.
+with  stones,  he  stopped  the  holes  with  them,  and  returned to  his  father  safe  and  sound.
 
 88.  AtlunGUAIv  was  a miserable  hunter,  despised
 and  mocked  by  his  housemates,  who  only  saw  in
@@ -19869,31 +16404,21 @@ bestirred  himself,  and  braved  the  danger  alone.  Thus,
 he  first  killed  an  ice-covered  bear,  then  an  amarok,  and
 finally  a kilivfak  (all  fabulous  animals).
 
-89.  NAKASUNGNAK  travelled  far  up  north,  and  set-
-tled down  with  some  people  who  used  boats,  but  no
+89.  NAKASUNGNAK  travelled  far  up  north,  and  settled down  with  some  people  who  used  boats,  but  no
 kayaks.  He  was  very  presumptuous  and  obstinate.
 His  new  place-fellows  told  him  that  before  long  the
 ice-covered  bear  would  make  its  appearance,  that  it  was
-very  dangerous,  and  for  mere  men  a deed  impractica-
-ble to  slay  it.  But  Nakasungnak,  nothing  heeding,  set
-out  to  encounter  the  terrible  animal;  and  on  discover-
-ing it,  he  ran  in  upon  it  only  armed  with  a knife.  He
+very  dangerous,  and  for  mere  men  a deed  impracticable to  slay  it.  But  Nakasungnak,  nothing  heeding,  set
+out  to  encounter  the  terrible  animal;  and  on  discovering it,  he  ran  in  upon  it  only  armed  with  a knife.  He
 instantly  disappeared  down  its  open  mouth.  The  bear
 was  then  seen  to  totter,  and  soon  after  fell  down  dead.
 On  approaching  it,  they  observed  a knife  sticking  out
 between  its  ribs  ; and  when  the  hole  was  widened
 
 
-TALES  AND  TRADITIONS.
-
-
-439
-
-
 Nakasungnak  jumped  out  of  it ; but  his  hair,  as  well
 as  the  skin  of  his  face,  had  come  off,  and  shivering  with
-cold  and  ague,  he  ran  away  to  the  house.  In  the  mean-
-time, the  bear’s  flesh  served  them  for  food  the  greater
+cold  and  ague,  he  ran  away  to  the  house.  In  the  meantime, the  bear’s  flesh  served  them  for  food  the  greater
 part  of  the  winter.  Afterwards  they  told  Nakasungnak
 how  to  behave  when  they  were  going  to  catch  the  birds
 that  could  speak,  and  the  little  fishes  with  both  eyes  on
@@ -19916,23 +16441,15 @@ go.  The  Anghiak. — A company  of  brothers  had
 a single  sister,  and  would  not  allow  her  to  marry.
 Nevertheless,  having  many  suitors,  she  finally  came  to
 be  with  child  ; and  because  of  her  brothers’  reproaches,
-she  secretly  had  a miscarriage  ; but  the  child  got  intel-
-lect, and  became  an  anghiak.  It  picked  up  the  skull
+she  secretly  had  a miscarriage  ; but  the  child  got  intellect, and  became  an  anghiak.  It  picked  up  the  skull
 of  a dog,  using  it  as  a kayak,  and  the  bone  of  a man’s
 arm  for  a paddle.  Every  night  it  used  to  creep  into
 the  house  and  lie  down  to  suckle  its  mother’s  breasts,
 but  during  the  day  - time  it  was  about  pursuing  her
 brothers  when  they  were  kayaking,  and  made  them
-capsize  and  perish  one  after  another.  Having  accom-
-plished its  revenge,  it  repented  its  deeds,  and  fled  to
+capsize  and  perish  one  after  another.  Having  accomplished its  revenge,  it  repented  its  deeds,  and  fled  to
 the  north,  where  it  slipped  down  in  the  doorway  of  a
 house  in  which  a conjuration  was  going  on.  The
-
-
-440
-
-
-TALES  AND  TRADITIONS.
 
 
 angakok  (by  means  of  his  second  - sight)  at  once
@@ -19944,8 +16461,7 @@ and  found  a refuge  in  a heap  of  rubbish.  It  now
 happened  that  the  angakok  of  the  place  was  about
 to  perform  a conjuration  for  the  purpose  of  finding  out
 what  had  caused  the  brothers’  destruction.  The  sister,
-on  being  examined,  first  denied,  but  finally  she  con-
-fessed her  sin,  saying,  “ What  I brought  forth  was  no
+on  being  examined,  first  denied,  but  finally  she  confessed her  sin,  saying,  “ What  I brought  forth  was  no
 real  child.”  No  sooner  had  she  pronounced  these  words
 than  the  anghiak  felt  a pain  in  its  head,  and  while  she
 continued  her  tale,  it  lost  its  senses  and  died.
@@ -19959,8 +16475,7 @@ up  from  the  ground,  and  following  the  way  of  the  dead.
 At  length  he  lost  his  senses,  and  on  awakening  again
 found  himself  in  front  of  the  house  where  the  spirit  (or
 owner)  of  the  moon  resided.  This  man  of  the  moon
-assisted  him  to  get  inside,  which  was  a perilous  under-
-taking, the  entrance  being  very  large,  and  guarded  by
+assisted  him  to  get  inside,  which  was  a perilous  undertaking, the  entrance  being  very  large,  and  guarded  by
 a terrible  dog.  The  moon-man  having  then  breathed
 upon  Kanak  in  order  to  ease  the  pain  that  racked  his
 limbs,  and  having  restored  him  to  health,  spoke  thus  :
@@ -19971,23 +16486,17 @@ which  he  could  overlook  the  surface  of  the  earth,  with
 all  the  dwelling-places  of  man.  He  regaled  him  with
 eating,  which  was  served  and  brought  in  by  a woman,
 whose  back  was  like  that  of  a skeleton.  Kanak  was
-getting  afraid  on  perceiving  that,  on  which  the  moon-
-man  said,  “Why,  that’s  nothing;  but  lo ! soon  the  old
-
-
-TALES  AND  TRADITIONS.
+getting  afraid  on  perceiving  that,  on  which  the  moonman  said,  “Why,  that’s  nothing;  but  lo ! soon  the  old
 
 
 44I
 
 
 woman  will  appear  who  takes  out  the  entrails  of  every
-one  she  can  tempt  to  laugh.  If  thou  canst  not  with-
-hold thy  smiles,  thou  only  needst  to  rub  thy  leg  under-
+one  she  can  tempt  to  laugh.  If  thou  canst  not  withhold thy  smiles,  thou  only  needst  to  rub  thy  leg  under-
 neath the  knee  with  the  nail  of  thy  little  finger.”  Soon
 after  the  old  hag  entered  dancing  and  whirling  about,
-licking  her  own  back,  and  putting  on  the  most  ridicu-
-lous gestures  ; but  when  Kanak  rubbed  his  leg  with  the
+licking  her  own  back,  and  putting  on  the  most  ridiculous gestures  ; but  when  Kanak  rubbed  his  leg  with  the
 nail  of  his  little  finger,  she  gave  a sudden  start,  at  which
 the  moon-man  seized  her,  and  threw  her  down  in  the
 entrance.  She  went  off,  but  afterwards  a voice  was
@@ -20006,8 +16515,7 @@ followed  and  taken  care  of  him ; and  at  length  he
 reached  the  earth’s  surface,  arose  and  went  to  his  home,
 after  which  he  grew  a celebrated  angakok.
 
-A Barren  Wife , who  was  treated  badly  by  her  hus-
-band, went  off  one  winter  night  and  met  with  the
+A Barren  Wife , who  was  treated  badly  by  her  husband, went  off  one  winter  night  and  met  with  the
 moon-man,  who  came  driving  in  his  sledge,  and  took
 her  along  with  him  to  his  home.  Many  days  after  in
 spring,  she  again  appeared,  and  went  to  live  with  her
@@ -20020,30 +16528,20 @@ caught  a white  whale  which,  having  a black  spot  on
 one  side,  was  known  to  belong  to  the  animals  of  chase
 
 
-442
-
-
-TALES  AND  TRADITIONS.
-
-
-set  apart  for  the  spirit  of  the  moon.  On  a fine  win-
-ter night  the  moon-man  was  heard  to  call  him  out-
+set  apart  for  the  spirit  of  the  moon.  On  a fine  winter night  the  moon-man  was  heard  to  call  him  out-
 side and  challenge  him  to  fight.  When  he  came  down
-upon  the  ice,  the  moon-man  said,  “ Well,  we  will  pre-
-sently begin,  but  first  let  us  name  all  the  animals  of
+upon  the  ice,  the  moon-man  said,  “ Well,  we  will  presently begin,  but  first  let  us  name  all  the  animals  of
 chase  we  have  caught  during  our  lifetime.”  They  then,
 each  in  his  turn,  named  the  different  sorts  of  birds,  seals,
 and  whales  they  had  chased  ; and  beginning  with  the
 fishes,  Manguarak  went  on  to  tell  how  he  once  assisted
 at  a halibut-fishing,  when  they  happened  to  haul  up  a
-KeraK  ( Anarrichas  lupus).  On  hearing  this,  the  moon-
-man  exclaimed,  “ What  art  thou  saying,  man  ? Now
+KeraK  ( Anarrichas  lupus).  On  hearing  this,  the  moonman  exclaimed,  “ What  art  thou  saying,  man  ? Now
 just  wait,  and  listen  to  me.”  He  then  went  on  to  tell
 how,  when  a child,  and  still  living  among  mankind,  he
 had  once  seen  some  people  haul  up  a fish  of  that  same
 kind,  at  which  he  was  so  terrified  that  he  had  never
-since  tried  to  catch  that  fish.  “ And  now,”  he  con-
-tinued, “ that  I know  thou  hast  caught  an  animal  which
+since  tried  to  catch  that  fish.  “ And  now,”  he  continued, “ that  I know  thou  hast  caught  an  animal  which
 I never  ventured  to  pursue,  I will  do  thee  no  harm.  I
 begin,  in  fact,  rather  to  like  thee  ; so  come  along  with
 me  and  see  my  place.”  Manguarak  accordingly  went
@@ -20052,8 +16550,7 @@ he  returned  to  the  ice,  where  he  found  the  moon-man
 waiting  with  a sledge  drawn  only  by  a single  dog.
 When  he  had  taken  his  place  on  the  sledge,  away  they
 drove  at  a great  pace,  and  gradually  rising  from  the
-ground,  they  seemed  to  fly  through  the  air.  At  mid-
-night they  came  to  a high  land,  upon  which  they  still
+ground,  they  seemed  to  fly  through  the  air.  At  midnight they  came  to  a high  land,  upon  which  they  still
 travelled  on.  They  went  through  a valley  covered  with
 snow,  and  had  to  pass  by  a dark-looking  cliff,  inside  of
 which  lived  the  old  hag  who  was  wont  to  cut  out  the
@@ -20065,19 +16562,11 @@ much  the  same  as  those  encountered  by  Kanak.
 — A woman  named  Arnarkuak  would  not  give  up  scold-
 
 
-TALES  AND  TRADITIONS.
-
-
-443
-
-
 ingher  son  on  account  of  his  want  of  skill  in  hunting
 and  other  manly  pursuits.  Once  in  his  absence,  when
-he  had  gone  out  kayaking,  she  forced  her  daughter-
-in-law,  by  threatening  her  with  death,  to  flee  with  her
+he  had  gone  out  kayaking,  she  forced  her  daughterin-law,  by  threatening  her  with  death,  to  flee  with  her
 to  the  interior  of  the  country,  where  she  disguised
-herself  like  a man,  and  had  her  daghter-in-law,  Ukua-
-mak,  for  a wife.  But  the  son  found  out  their  place  of
+herself  like  a man,  and  had  her  daghter-in-law,  Ukuamak,  for  a wife.  But  the  son  found  out  their  place  of
 refuge,  and  killed  his  despicable  mother.
 
 93.  An  Angakok  Flight.  — A great  angakok,
@@ -20110,36 +16599,26 @@ he  travelled  as  far  as  he  could  get  to  the  north,  and  the
 next  as  far  as  possible  to  the  south,  before  he  succeeded
 
 
-444
-
-
-TALES  AND  TRADITIONS.
-
-
 in  finding  an  old  woman  who  promised  to  help  him.
 From  the  bottom  of  her  bag  she  produced  two  small
 dried  fishes,  a male  and  a female,  of  which  he  was  to
 give  his  wife  the  former  to  eat  if  he  wanted  a son,  and
-the  latter  in  case  they  preferred  a daughter.  He  re-
-ceived the  fishes,  and  started  on  his  way  home  ; but
+the  latter  in  case  they  preferred  a daughter.  He  received the  fishes,  and  started  on  his  way  home  ; but
 having  to  travel  very  far,  and  not  always  being  able  to
 get  any  victuals,  he  once  in  a great  strain  for  something
 to  eat  began  to  consider,  “ What  is  the  use  of  keeping
 this  spawner  ? a son  is  what  we  desire  ; ” on  which  he
 swallowed  the  one  little  fish.  After  a while  he  began
-to  feel  very  ill  at  ease,  at  the  same  time  growing  big-
-ger and  bigger,  till  at  length  he  could  hardly  manage  to
+to  feel  very  ill  at  ease,  at  the  same  time  growing  bigger and  bigger,  till  at  length  he  could  hardly  manage  to
 slip  down  in  his  kayak.  A skilful  old  woman,  who  lived
 at  a place  where  he  happened  to  land,  soon  suspected
 what  was  the  matter  with  him,  and  hit  on  a charm  to
 deliver  him  of  what  was  encumbering  his  inside,  which
-soon  proved  to  be  a fine  little  daughter.  (It  is  doubt-
-ful whether  the  rest  of  the  tale  is  of  genuine  Eskimo
+soon  proved  to  be  a fine  little  daughter.  (It  is  doubtful whether  the  rest  of  the  tale  is  of  genuine  Eskimo
 origin.)
 
 95.  Kanginguak  was  a native  of  the  south,  who
-set  forth  on  a journey  and  took  up  his  abode  near  Uma-
-narsuak  (Kin  of  Sael,  a high  island  of  South  Greenland).
+set  forth  on  a journey  and  took  up  his  abode  near  Umanarsuak  (Kin  of  Sael,  a high  island  of  South  Greenland).
 He  had  a son  named  Tunerak,  who  was  such  an  expert
 rower  that  he  used  to  overtake  the  falcons  in  their  flight,
 and  killed  them  with  a blow  of  his  paddle-oar.  He
@@ -20151,14 +16630,7 @@ afterwards  went  to  the  place  where  he  was  buried,  brought
 out  his  body  again  and  carried  it  along  with  him,  till  he
 found  an  angakok,  who  restored  it  to  life.
 
-96.  KlGDLINARARSUK,  in  order  to  avenge  the  mur-
-der of  his  sister,  went  out  in  search  of  an  old  woman
-
-
-TALES  AND  TRADITIONS.
-
-
-445
+96.  KlGDLINARARSUK,  in  order  to  avenge  the  murder of  his  sister,  went  out  in  search  of  an  old  woman
 
 
 who  could  assist  him  in  getting  an  amulet  for  giving
@@ -20184,8 +16656,7 @@ Goothaab)  every  day  used  to  repair  to  Kangek  (about
 24  miles  distant)  for  the  purpose  of  hunting  auks.
 For  his  companion  he  had  an  ingnersuak,  who  at
 the  same  time  was  the  tornak  of  an  angakok,  living
-farther  up  the  firth  at  Tukak.  It  is  said  that  even  now-
-adays many  kayakers  have  an  ingnersuak  for  their
+farther  up  the  firth  at  Tukak.  It  is  said  that  even  nowadays many  kayakers  have  an  ingnersuak  for  their
 companion,  and  every  now  and  then  they  become  visible.
 Sometimes  a kayaker  observing  two  distinct  kayaks  at
 a distance,  t>n  coming  nearer  will  only  meet  with  one,
@@ -20198,25 +16669,17 @@ he  saw  the  man  ready  to  start  for  Kangek,  and  then
 followed,  and  took  care  of  him  the  whole  day,  and  re-
 
 1 The  original  words  I have  not  ventured  to  translate,  sufficiently
-characteristic  though  they  are  of  the  modesty  which  it  is  considered  neces-
-sary by  the  Eskimo  to  assume  on  such  occasions  as  that  described  in  the
+characteristic  though  they  are  of  the  modesty  which  it  is  considered  necessary by  the  Eskimo  to  assume  on  such  occasions  as  that  described  in  the
 text.  It  would  have  been  scarcely  possible  for  the  old  woman  to  have
 claimed  skill  in  a manufacture  more  lowly  than  that  of  which  the  words
 omitted  would  have  been  a translation.
-
-
-446
-
-
-TALES  AND  TRADITIONS.
 
 
 turned  with  him  to  Karusuk,  from  whence  he  went  on
 to  his  home  at  Tukak.
 
 98.  Atarsuatsiak  and  his  brothers  were  a set  of
-fearful  manslayers,  living  in  the  country  about  Uper-
-nivik  (Greenland),  who  had  their  heads  tattooed  with  a
+fearful  manslayers,  living  in  the  country  about  Upernivik  (Greenland),  who  had  their  heads  tattooed  with  a
 separate  mark  for  each  murder  they  had  committed.
 On  Atarsuatsiak  these  marks  formed  a whole  row  along
 his  forehead  from  one  side  to  the  other.  At  last  the
@@ -20225,36 +16688,25 @@ him  killed  at  a place  to  which  he  used  to  resort  in
 order  to  visit  his  concubine.
 
 99.  Among  the  last  Angakut  at  Kanger-
-DLUGSUATSIAK  (Greenland)  was  a man  named  Kapi-
-arsuk,  and  a woman  called  Avangnanersuak,  who  every
+DLUGSUATSIAK  (Greenland)  was  a man  named  Kapiarsuk,  and  a woman  called  Avangnanersuak,  who  every
 day  during  the  whole  winter  used  to  go  out  together
 to  catch  partridges,  but  never  brought  any  home,
 and  never  were  seen  to  eat  anything  at  all.  At  last
 a child,  who  was  anxious  as  to  their  doings,  one  day
 asked  leave  to  accompany  them,  and  soon  observed  that
 they  never  looked  for  any  partridges  at  all ; but  having
-come  a good  way  up  the  country,  Kapiarsuak  com-
-menced to  strike  a flat  rock  with  his  staff,  and  murmur-
+come  a good  way  up  the  country,  Kapiarsuak  commenced to  strike  a flat  rock  with  his  staff,  and  murmur-
 ing certain  words,  an  opening  appeared  in  the  ground,
-out  of  which  they  went  on  angling  and  hauling  up  dif-
-ferent kinds  of  food,  allowing  the  child  to  partake  of
+out  of  which  they  went  on  angling  and  hauling  up  different kinds  of  food,  allowing  the  child  to  partake  of
 the  good  fare.  On  going  home  they  gave  it  a small  fish
 to  swallow,  after  which  it  lost  all  remembrance  of  what
 it  had  seen.  Not  until  he  was  full  grown,  many  years
 after,  did  he  suddenly  recollect  the  event  and  narrate  it.
 
-Another  angakok  of  the  same  place,  named  Kuvat-
-siak,  had  two  brothers,  Usuinak  and  Igpak,  of  whom  the
+Another  angakok  of  the  same  place,  named  Kuvatsiak,  had  two  brothers,  Usuinak  and  Igpak,  of  whom  the
 former,  having  gone  out  kayaking,  did  not  return,  and
 entirely  disappeared.  In  the  evening  they  saw  the
-clothes  of  the  missing  brother  moving  about  by  them-
-selves. Kuvatsiak  forthwith  began  to  conjure,  by  means
-
-
-TALES  AND  TRADITIONS.
-
-
-447
+clothes  of  the  missing  brother  moving  about  by  themselves. Kuvatsiak  forthwith  began  to  conjure,  by  means
 
 
 of  which  he  found  out  that  he  had  been  seized  by  the
@@ -20285,11 +16737,9 @@ their  brains.  A young  lad  was  also  there  who  carried
 a sling  wherewith  to  entangle  strangers  ; but  when  he
 approached  Atungak  with  this  design  he  was  struck  on
 the  head  with  a piece  of  pyrites-stone,  and  fell  to  the
-ground.  Afterwards,  when  his  mother  came  from  an-
-other house  to  look  for  him  she  only  found  one  of  his
+ground.  Afterwards,  when  his  mother  came  from  another house  to  look  for  him  she  only  found  one  of  his
 legs  left,  lying  under  the  bench,  with  the  boot  still  on
-it,  by  means  of  which  she  recognised  it.  She  then  ex-
-claimed, “Ye  have  done  very  ill  in  taking  that  miser-
+it,  by  means  of  which  she  recognised  it.  She  then  exclaimed, “Ye  have  done  very  ill  in  taking  that  miser-
 able Ajajusek,  who  ought  to  have  served  his  younger
 brother  for  food.”  Atungak  and  his  wife  travelling  on,
 came  to  a country  the  people  of  which  were  all  lame.
@@ -20299,15 +16749,11 @@ Before  they  reached  them  the  chief  came  to  receive
 44S
 
 
-TALES  AND  TRADITIONS.
-
-
 them,  and  warned  them  against  his  people  as  being  a
 very  ill-natured  set.  Nevertheless,  when  Atungak’s
 wife  saw  their  ball-playing,  she  could  not  help  laughing,
 and  said  that  they  hopped  about  like  so  many  ravens.
-Atungak  got  very  much  afraid  when  he  heard  the  by-
-standers repeating  this.  He  at  once  cut  asunder  all  the
+Atungak  got  very  much  afraid  when  he  heard  the  bystanders repeating  this.  He  at  once  cut  asunder  all  the
 lashings  of  the  sledges  belonging  to  the  lame  people,  so
 that  they  could  not  pursue  them.  Hastening  from  there
 they  came  to  two  black  bears  engaged  in  a fight,  and  no
@@ -20315,25 +16761,21 @@ other  way  being  left  they  were  obliged  to  pass  between
 them  ; after  which  they  came  to  a pot  boiling  of  itself,
 which  they  could  not  avoid  crossing  over.  Lastly,  they
 came  to  a man  watching  at  the  breathing-hole  of  a seal,
-and  on  speaking  to  him  they  recognised  him  as  Atun-
-gak’s son,  whom  they  had  left  behind  a child.  They
+and  on  speaking  to  him  they  recognised  him  as  Atungak’s son,  whom  they  had  left  behind  a child.  They
 had  travelled  over  the  whole  world  without  changing  or
 getting  old.  In  the  north,  caves  and  clefts  in  the  rocks
 are  still  to  be  seen,  in  which  they  are  said  to  have
 rested.
 
-Note. — This  story,  and  the  next  from  East  Greenland,  being  both  im-
-perfect fragments,  received  from  the  most  widely  severed  Eskimo  coun-
+Note. — This  story,  and  the  next  from  East  Greenland,  being  both  imperfect fragments,  received  from  the  most  widely  severed  Eskimo  coun-
 tries, will  be  found  to  contain  some  very  curious  similarities.
 
-ioi.  Malarsuak,  a Story  from  East  Green-
-land.— A man  named  Malarsuak  started  in  search  of
+ioi.  Malarsuak,  a Story  from  East  Greenland.— A man  named  Malarsuak  started  in  search  of
 his  lost  sister.  Travelling  by  sledge,  he  came  to  houses
 inhabited  by  cannibals,  with  one  of  which  he  found
 his  sister  domesticated.  A hideous-looking  youth  came
 into  the  house,  whom  Malarsuak  killed  by  piercing
-his  head  with  a bear’s  tooth  fastened  into  a stick,  where-
-upon the  host  threw  the  dead  body  under  the  bench.
+his  head  with  a bear’s  tooth  fastened  into  a stick,  whereupon the  host  threw  the  dead  body  under  the  bench.
 Some  time  after  a woman  appeared,  saying,  “ Is  this  not
 my  miserable  son  here — I mean  the  one  who  ought  to
 serve  as  food  for  his  brothers  ? ” Malarsuak  travelled
@@ -20343,31 +16785,21 @@ of  their  child.  When  going  to  leave,  the  brother-in-law
 tried  to  persuade  him  first  to  cut  all  the  lashings  of  his
 
 
-TALES  AND  TRADITIONS.
-
-
-449
-
-
 place-fellows’  sledges,  in  order  to  prevent  their  pursuing
 the  travellers.  Malarsuak  took  his  advice,  but  happened
 to  forget  one  of  the  sledges,  which  came  speeding  after
 him ; but  he  killed  the  driver  and  made  his  escape  himself.
 
-102.  A Tale  from  Labrador.  — Sikuliarsiujuit-
-sok,  on  account  of  his  great  size,  was  unable  to  walk
+102.  A Tale  from  Labrador.  — Sikuliarsiujuitsok,  on  account  of  his  great  size,  was  unable  to  walk
 upon  new  ice.  He!  all  by  himself,  caught  a whale  from
 his  kayak.  But  he  was  much  dreaded  and  hated,  and
 never  ventured  to  sleep  in  strange  places.  He  was,
-however,  once  persuaded  to  stay  for  a night  in  a snow-
-hut  ; and  being  too  big  to  find  room  in  it,  he  lay  all
+however,  once  persuaded  to  stay  for  a night  in  a snowhut  ; and  being  too  big  to  find  room  in  it,  he  lay  all
 doubled  up,  and  allowed  his  feet  to  be  tied  together.
 In  this  condition  he  was  hauled  out  and  killed,  but  not
 before  he  himself  had  killed  four  men  in  the  struggle.
-He  had  three  sisters,  one  of  whom  had  three  sons,  like-
-wise powerful  men.  They  had  an  enclosure,  fenced  in
-with  stones,  into  which  they  enticed  all  those  they  in-
-tended to  kill.
+He  had  three  sisters,  one  of  whom  had  three  sons,  likewise powerful  men.  They  had  an  enclosure,  fenced  in
+with  stones,  into  which  they  enticed  all  those  they  intended to  kill.
 
 103.  Aklaujak,  a Tale  from  Labrador..  — A
 man  named  Aklaujak  was  of  immense  strength.  Once,
@@ -20375,29 +16807,19 @@ when  away  on  a reindeer-hunt,  his  brothers  robbed
 him  of  his  wife.  But  the  mother,  who  from  a high
 hill  observed  him  sitting  in  his  kayak  and  seizing  two
 large  reindeers  by  the  antlers  and  drowning  them  by
-holding  them  under  water,  hastened  down  and  per-
-suaded the  wife  to  return  to  him,  on  which  the  brothers
+holding  them  under  water,  hastened  down  and  persuaded the  wife  to  return  to  him,  on  which  the  brothers
 took  flight.
 
-104.  The  Giant  of  Kangersuak  or  Cape  Fare-
-well.— The  people  from  the  south  (or  east)  and
+104.  The  Giant  of  Kangersuak  or  Cape  Farewell.— The  people  from  the  south  (or  east)  and
 those  from  the  north  (or  west)  were  at  war  with  each
 other.  The  latter  had  a powerful  champion,  who  was
-sitting  on  the  top  of  Kangersuak  to  watch  the  South-
-landers  passing  by.  A man  who  had  been  killed
+sitting  on  the  top  of  Kangersuak  to  watch  the  Southlanders  passing  by.  A man  who  had  been  killed
 by  him  left  a son,  who  practised  angakok  science,  and
-
-
-450
-
-
-TALES  AND  TRADITIONS.
 
 
 revenged  his  father  by  inducing  the  giant  to  walk  with
 him  over  a marshy  plain,  where  he  went  down,  and
-from  beneath  pierced  the  feet  of  the  giant,  and  after-
-wards killed  him.
+from  beneath  pierced  the  feet  of  the  giant,  and  afterwards killed  him.
 
 105.  The  Kidnappers. — A band  of  brothers  tried
 to  carry  off  a girl  by  force  ; but  her  mother,  by  means
@@ -20413,35 +16835,24 @@ died  at  some  distance  up  the  country.  In  his  grief  he
 could  not  persuade  himself  to  leave  his  son’s  grave,
 and  he  therefore  put  up  his  winter-house  on  the  spot.
 In  this  lonely  abode  they  were  once  surprised  by  seeing
-three  men  entering  the  house,  one  of  them  tall  and  long-
-nosed,  the  other  smaller  and  with  a flat  nose,  and  the
+three  men  entering  the  house,  one  of  them  tall  and  longnosed,  the  other  smaller  and  with  a flat  nose,  and  the
 last  of  very  small  stature  and  white  as  snow.  After
-passing  the  evening  talking  with  the  host,  the  short-
-nosed man,  before  starting,  asked  for  a piece  of  sole-
-leather,  and  the  white  one  wanted  a piece  of  walrus-
-tooth.  The  old  man  saw  the  departing  visitors  out,
+passing  the  evening  talking  with  the  host,  the  shortnosed man,  before  starting,  asked  for  a piece  of  sole-
+leather,  and  the  white  one  wanted  a piece  of  walrustooth.  The  old  man  saw  the  departing  visitors  out,
 but  when  they  left  him,  stood  dumfoundered  at  seeing
 them  bounding  off  in  the  shape  of  a reindeer,  a fox,  and
 a hare.  It  is  said  that  the  hare  had  need  of  something
 for  a new  tooth.
 
-107.  AviGIATSIAK  was  the  name  of  a young  wo-
-man who,  while  grinding  her  knife  on  the  beach,  was
+107.  AviGIATSIAK  was  the  name  of  a young  woman who,  while  grinding  her  knife  on  the  beach,  was
 taken  by  a whale.  After  living  for  a time  with  the
 whales,  she  fled  and  was  transformed  into  a seal,  living
 with  the  seals.  As  such  she  was  caught  by  a man,  hauled
 upon  the  ice,  and  cut  to  pieces,  all  excepting  the  head.
 
 
-TALES  AND  TRADITIONS.
-
-
-451
-
-
 which  was  thrown  beneath  the  bench.  From  thence  she
-slipped  into  the  womb  of  the  man’s  wife  who  had  har-
-pooned her,  and  was  afterwards  born  anew,  and  called
+slipped  into  the  womb  of  the  man’s  wife  who  had  harpooned her,  and  was  afterwards  born  anew,  and  called
 Avigiatsiak.
 
 108.  The  Bird’s  Cliff. — A father  and  his  son,
@@ -20461,8 +16872,7 @@ but  on  looking  behind  them,  they  saw  that  the  house
 was  a cave  in  the  rock,  the  inhabitants  gulls  and  ravens,
 and  a drollish  visitor  staying  with  them,  a falcon.
 
-109.  Kuanak,  an  Angakok  in  South  Green-
-land, started  for  a flight,  having  previously  had  his
+109.  Kuanak,  an  Angakok  in  South  Greenland, started  for  a flight,  having  previously  had  his
 feet  and  his  head  tied  together.  While  passing  along
 between  two  high  rocks,  an  amarsiniook  rushed  out
 from  the  mountain-side  and  wanted  to  take  him  into
@@ -20478,18 +16888,10 @@ whence  it  came,  they  found  him  in  an  almost  dying
 state  lying  upon  the  snow,  an  old  skin-cover  from  a
 
 
-452
-
-
-TALES  AND  TRADITIONS.
-
-
 kayak  having  frightened  him  and  caused  his  downfall.
-Kuanak  was  once  capsized  by  a seal  he  had  just  har-
-pooned ; but  being  an  anghiniartok,  his  senses  again
+Kuanak  was  once  capsized  by  a seal  he  had  just  harpooned ; but  being  an  anghiniartok,  his  senses  again
 returned,  and  he  found  himself  at  the  bottom  of  the  sea,
-in  company  with  his  grandmother.  She  tied  his  kayak-
-jacket  close  to  his  body,  leaving  no  part  of  it  uncovered,
+in  company  with  his  grandmother.  She  tied  his  kayakjacket  close  to  his  body,  leaving  no  part  of  it  uncovered,
 and  then  supplying  him  with  a piece  of  skin  by  way  of
 kayak,  she  pushed  him  upwards.  When  he  emerged
 from  the  water  he  first  betook  himself  far  out  to  sea,
@@ -20498,11 +16900,9 @@ at  an  inhabited  place,  where  somebody  was  emptying
 out  the  urine-tub,  which  scared  him  away  from  the  shore.
 He  tried  to  land  on  another  place,  but  here  a woman,
 dressing  her  hair  on  the  beach,  scared  him  away.  If  he
-had  a third  time  taken  fright,  he  would  never  have  re-
-turned to  the  land  of  the  living.  But  he  happened  to
+had  a third  time  taken  fright,  he  would  never  have  returned to  the  land  of  the  living.  But  he  happened  to
 land  at  Pisugfik,  where  a couple  of  old  men  were  sitting
-playing  at  dice.  They  at  once  knew  him  to  be  an  ang-
-hiniartok ; and  on  merely  touching  his  naked  body,  he
+playing  at  dice.  They  at  once  knew  him  to  be  an  anghiniartok ; and  on  merely  touching  his  naked  body,  he
 dropped  down  senseless  ; but  on  their  chanting  a magic
 lay,  he  revived.  They  then  brought  him  back  to  his
 homestead,  where  his  relatives,  who  had  already  finished
@@ -20511,8 +16911,7 @@ gladly  surprised  at  hearing  the  crew  of  the  boat  that
 brought  him  home  intuning  Kuanak’s  song.
 
 i io.  An  Angakok  on  Kekertarsuaic  set  off
-in  his  sledge  to  visit  his  married  sister.  On  approach-
-ing the  house  his  dogs  suddenly  stopped.  After  in
+in  his  sledge  to  visit  his  married  sister.  On  approaching the  house  his  dogs  suddenly  stopped.  After  in
 vain  trying  to  urge  them  on  with  his  whip,  he  alighted
 and  went  up  to  the  house  on  foot.  But  seeing  no  people
 about,  he  looked  in  at  the  window,  and  was  horror-struck
@@ -20521,12 +16920,6 @@ their  eyes  open  and  staring.  His  sister  alone  showed
 signs  of  life,  and  seeing  her  brother,  began  to  move  her
 mouth  as  if  chewing,  and  crept  towards  the  entrance.
 At  sight  of  this  he  was  struck  with  terror,  and  fled  to  his
-
-
-TALES  AND  TRADITIONS.
-
-
-453
 
 
 dogs,  but  was  again  unable  to  make  them  stir.  Not  until
@@ -20539,18 +16932,14 @@ had  been  frightened  to  death  by  the  sight  of  a skin-cover
 from  a kayak  (viz.,  which  had  been  used  at  a funeral  to
 carry  the  corpse  upon).
 
-111.  SlNGAJUK  AND  HIS  DESCENDANTS.  — Sin-
-gajuk  was  a celebrated  hunter  living  in  Kangek  (near
+111.  SlNGAJUK  AND  HIS  DESCENDANTS.  — Singajuk  was  a celebrated  hunter  living  in  Kangek  (near
 Godthaab).  His  wife  miscarried,  and  brought  forth  a
 poor  little  wretch  of  a child,  that  was  swaddled  in  the
 skin  of  an  eider-duck,  and  had  to  be  fostered  with  the
-utmost  care  to  keep  it  alive.  This  child  was  called  Man-
-gilak,  and  became  one  of  the  most  powerful  of  men.  His
+utmost  care  to  keep  it  alive.  This  child  was  called  Mangilak,  and  became  one  of  the  most  powerful  of  men.  His
 first  deed  was  killing  an  ingnersuak.  Afterwards  he  was
-once  caught  in  a gale  of  wind  at  sea,  but  espying  a soli-
-tary spot  of  smooth  water  and  a gull  swimming  in  it,  by
-dint  of  listening  to  its  voice  he  learned  a spell  for  procur-
-ing a calm  ; and  from  that  time  he  was  not  to  be  equalled
+once  caught  in  a gale  of  wind  at  sea,  but  espying  a solitary spot  of  smooth  water  and  a gull  swimming  in  it,  by
+dint  of  listening  to  its  voice  he  learned  a spell  for  procuring a calm  ; and  from  that  time  he  was  not  to  be  equalled
 in  kayaking.  His  mother  then  persuaded  him  to  marry,
 and  he  took  a wife,  who,  however,  shortly  afterwards
 died.  Being  almost  a wizard,  he  used  to  visit  her  grave
@@ -20559,8 +16948,7 @@ gave  him  a mussel-shell  containing  a drink  to  endow
 him  with  angakok  wisdom.  Mangilak  married  a second
 wife,  and  got  a son,  called  Akajarok,  whose  daughter
 became  the  grandmother  of  the  man  who  related  this
-story  (to  the  author).  Akajarok  died  a Christian.  Man-
-gilak also  was  baptised,  and  named  Moses,  but  was  too
+story  (to  the  author).  Akajarok  died  a Christian.  Mangilak also  was  baptised,  and  named  Moses,  but  was  too
 full  of  angakok  wisdom  to  become  more  than  a nominal
 Christian.
 
@@ -20568,20 +16956,12 @@ Christian.
 to  No.  15,  but  in  the  present  version  the  revenge  is
 
 
-454
-
-
-TALES  AND  TRADITIONS.
-
-
 brought  on  by  an  angakok,  who  assisted  the  cousins  on
 a flight,  and  while  staying  with  them  invoked  his  tornak,
 the  toolik,  who  carried  a red-hot  weapon,  and  destroyed
-the  house  and  all  its  inhabitants  by  fire,  while  the  anga-
-kok flew  homewards.  After  his  return  to  his  house,
+the  house  and  all  its  inhabitants  by  fire,  while  the  angakok flew  homewards.  After  his  return  to  his  house,
 while  narrating  the  deed  to  his  people,  a laughing  voice
-was  heard  from  without,  recognised  as  that  of  his  erkun-
-gasok  (the  ingenious  and  cunning  adviser,  but  rather
+was  heard  from  without,  recognised  as  that  of  his  erkungasok  (the  ingenious  and  cunning  adviser,  but  rather
 powerless  and  boasting  dweller  among  the  tornaks),  who
 came  to  give  notice  of  his  having  also  assisted  at  the
 destruction  of  his  enemies.
@@ -20597,13 +16977,10 @@ to  be  released.  Having  placed  her  on  the  boat  he  at
 once  pushed  off,  and  made  for  the  north  with  all  speed.
 At  the  first  inhabited  place  they  came  past  he  again
 carried  away  a woman  ; and  this  continued  until  he  had
-got  a complete  boat’s  crew  of  rowing  girls.  He  con-
-tinued his  voyage  the  whole  season,  till  at  length,  having
+got  a complete  boat’s  crew  of  rowing  girls.  He  continued his  voyage  the  whole  season,  till  at  length,  having
 reached  the  far  north,  the  frost  set  in,  and  for  the  time
-obliged  him  to  take  up  his  quarters  there.  While  win-
-tering here,  and  making  excursions  into  the  country,
-he  once  came  to  a solitary  house,  where  he  had  an  ad-
-venturous meeting  with  the  ghost  of  a deceased  woman  ;
+obliged  him  to  take  up  his  quarters  there.  While  wintering here,  and  making  excursions  into  the  country,
+he  once  came  to  a solitary  house,  where  he  had  an  adventurous meeting  with  the  ghost  of  a deceased  woman  ;
 and  from  there  he  came  to  another,  where  he  found
 the  people  feasting  upon  various  meats,  which  they  kept
 hauling  from  the  ground  by  help  of  magic  lays.  The
@@ -20612,20 +16989,13 @@ their  relatives  all  the  women,  excepting  only  the  first
 one,  whom  he  kept  for  his  wife.
 
 
-TALES  AND  TRADITIONS.
-
-
-455
-
-
 1 14.  The  Land  of  the  Isarukitsok  Bird  (Aka
 impennis),  a story  from  South  Greenland. — Two  young
 men  with  one  elder  companion  lost  their  way  when
 kayaking  in  foggy  weather,  and  having  roamed  about
 without  being  able  to  sight  any  land,  they  came  to
 a high  promontory,  showing  one  continuous  steep
-and  inaccessible  cliff,  inhabited  by  crowds  of  isarukit-
-soks.  By  following  the  coast  they  at  last  came  to  a
+and  inaccessible  cliff,  inhabited  by  crowds  of  isarukitsoks.  By  following  the  coast  they  at  last  came  to  a
 landing-place,  and  found  a nice  situation,  where  they
 rested  themselves,  and  had  their  strength  restored  by
 eating  birds.  Having  also  filled  their  kayaks  with  them,
@@ -20651,15 +17021,8 @@ time  had  disappeared,  a little  morsel  only  remaining.
 He  then  felt  himself  lifted  off  his  feet  and  carried  away
 through  the  air ; but  by  rubbing  his  skin  with  the  bit  of
 tallow  he  again  quickly  descended  towards  the  earth  ;
-yet  without  touching  it  he  gained  his  home.  On  arriv-
-ing, however,  he  had  lost  the  use  of  his  senses,  and  lay
+yet  without  touching  it  he  gained  his  home.  On  arriving, however,  he  had  lost  the  use  of  his  senses,  and  lay
 down  almost  lifeless,  though  unable  to  die.  Such  was,
-
-
-456
-
-
-TALES  AND  TRADITIONS.
 
 
 as  has  been  told,  the  condition  of  the  heathen  when  the
@@ -20671,14 +17034,12 @@ and  on  returning  he  related  what  he  had  seen,  and  how
 he  had  lived  with  the  inlanders.
 
 116.  The  Kuinasarinooic. — Uvnek,  one  of  the  last
-angakut  at  the  firth  of  Godthaab,  on  one  of  his  spirit-
-flights  narrowly  escaped  being  taken  by  an  amarsiniook.
+angakut  at  the  firth  of  Godthaab,  on  one  of  his  spiritflights  narrowly  escaped  being  taken  by  an  amarsiniook.
 After  his  return  he  once  performed  a conjuration  and
 summoned  the  amarsiniook.  A brightness  was  observed,
 and  a voice  was  heard  from  above  the  house  saying,  “If
 thou  hadst  not  happened  to  be  an  angakok  thou  wouldst
-never  have  escaped  ; it  was  I who  killed  the  kuinasari-
-nook  (another  monster,  dwelling  in  certain  mountains),
+never  have  escaped  ; it  was  I who  killed  the  kuinasarinook  (another  monster,  dwelling  in  certain  mountains),
 because  it  had  torn  a man  to  pieces.”  The  auditors  then
 remembered  how  some  time  ago  a man  had  been  found
 dead,  and  his  body  terribly  mutilated  ; but  nobody  had
@@ -20689,23 +17050,14 @@ till  it  was  thus  explained  by  Uvnek.
 outdo  OTHER  PEOPLE,  had  laid  a bet  with  his  friend
 as  to  whose  wife  should  first  get  a son  ; and  afterwards,
 as  to  which  of  their  sons  should  in  course  of  time  become
-the  greatest  angakok.  One  of  them,  Ajagutarsuk,  at-
-tained angakok  wisdom  in  a cave  ; and  the  other,  named
+the  greatest  angakok.  One  of  them,  Ajagutarsuk,  attained angakok  wisdom  in  a cave  ; and  the  other,  named
 Ularpana,  acquired  it  in  a dried-up  lake.  The  latter
-went  on  an  angakok  flight  to  the  first,  and  while  stay-
-ing with  him  Ajagutarsuk  called  forth  his  tornaks,  which
+went  on  an  angakok  flight  to  the  first,  and  while  staying with  him  Ajagutarsuk  called  forth  his  tornaks,  which
 belonged  to  the  inlanders,  and  instantly  appeared.  But
-Ularpana  invoked  his  tornaks,  being  the  upper  ingner-
-suit,  who  totally  defeated  the  inlanders.
+Ularpana  invoked  his  tornaks,  being  the  upper  ingnersuit,  who  totally  defeated  the  inlanders.
 
 1 18.  The  Revenging  Animals. — A great  angakok,
 while  kayaking  about  at  midsummer,  suddenly  took  a
-
-
-TALES  AND  TRADITIONS.
-
-
-457
 
 
 longing  for  eggs  ; and  landing  upon  an  island,  he  found
@@ -20723,22 +17075,18 @@ but  as  soon  as  they  scented  the  filth  they  all  jumped
 into  the  water,  and  the  boat  appeared  as  a piece  of  ice.
 Later  in  the  evening  a voice  was  heard  outside,  and  the
 head  of  the  gooseander  emerged  from  the  entrance  with
-dreadfully  enlarged  eyes.  Addressing  itself  to  the  an-
-gakok,  it  scolded  him  for  having  robbed  it  of  its  descend-
+dreadfully  enlarged  eyes.  Addressing  itself  to  the  angakok,  it  scolded  him  for  having  robbed  it  of  its  descend-
 ants, but  now  it  had  come  to  fetch  its  eggs  back,  having
 by  help  of  a charm  caused  him  to  forget  them  and  leave
 them  in  his  kayak.  If  he  had  not  left  them  it  certainly
-would  have  frightened  them  all  to  death.  Another  an-
-gakok  in  a similar  case  was  bereft  of  his  angakok  power
+would  have  frightened  them  all  to  death.  Another  angakok  in  a similar  case  was  bereft  of  his  angakok  power
 by  the  merganser.
 
 1 19.  The  Igdlokok. — A man  had  lost  his  beloved
 cousin  and  friend,  who  in  his  sight  had  been  torn  to
-pieces  by  one  of  those  bears  that  are  made  by  sor-
-cery. In  his  despair  he  went  out  to  encounter  and
+pieces  by  one  of  those  bears  that  are  made  by  sorcery. In  his  despair  he  went  out  to  encounter  and
 brave  all  kinds  of  danger  by  way  of  excitement ; and
-he  first  killed  an  amarok.  One  evening,  when  stay-
-ing at  home,  he  was  surprised  in  his  lonely  house  by  a
+he  first  killed  an  amarok.  One  evening,  when  staying at  home,  he  was  surprised  in  his  lonely  house  by  a
 stranger  dropping  in,  who  explained  that  he  also  having
 lost  his  brother  was  roaming  about  for  excitement.
 Being  very  talkative,  he  spent  the  evening  there  very
@@ -20750,9 +17098,6 @@ The  guest  then  burst  out  in  loud  praises  of  its  delicious
 45§
 
 
-TALES  AND  TRADITIONS.
-
-
 flavour  and  tempting  appearance  ; but  before  he  had
 taken  a morsel  he  went  on,  “But  I see  the  dish  is  all
 aslope,”  and  the  same  instant  arose  and  vanished
@@ -20762,8 +17107,7 @@ found  them  to  be  made  by  only  one  foot,  so  that  the
 guest  must  have  been  an  igdlokok  (whose  body  is  only
 the  one  half  of  the  human  body  cut  in  twain).
 
-Note. — In  another  similar  story  there  are  two  guests,  who  at  their  sud-
-den disappearance  manifest  themselves  as  certain  stars  (siagtut  or  Kilug-
+Note. — In  another  similar  story  there  are  two  guests,  who  at  their  sudden disappearance  manifest  themselves  as  certain  stars  (siagtut  or  Kilug-
 tussat).  The  mysterious  words  about  the  sloping  dish  are  the  same.
 
 120.  I VIANGERSOOK  TRAVELLED  ALL  AROUND  THE
@@ -20771,8 +17115,7 @@ Coast  of  Greenland.— He  started  for  the  south,  and
 having  passed  Cape  Farewell,  he  came  on  the  eastward
 to  some  light-haired  people  of  European  complexion  ;
 and  lastly  he  returned  through  the  Sound,  which  was
-formerly  open  from  east  to  west,  near  Ilulissat  (Jakobs-
-havn).  When  approaching  his  home  near  Godthaab  he
+formerly  open  from  east  to  west,  near  Ilulissat  (Jakobshavn).  When  approaching  his  home  near  Godthaab  he
 lost  his  brother,  who  was  buried  upon  a small  island,
 after  them  named  Uviarniak  (one  who  travelled  all
 around).
@@ -20783,8 +17126,7 @@ ON  ACCOUNT  OF  THEIR  BOTH  BEING  ANGAIvOK. —
 The  husband  and  wife  always  used  to  go  out  kayaking
 together.  Once  they  happened  to  come  to  a foreign
 place,  where  a young  man  was  found  in  an  almost  dying
-state.  The  angakok-man  began  a conjuration,  sum-
-moning the  witch  who  had  caused  his  sickness.  He  de-
+state.  The  angakok-man  began  a conjuration,  summoning the  witch  who  had  caused  his  sickness.  He  de-
 tected the  ghost  of  the  witch  approaching  the  sick  youth
 in  order  to  touch  him  with  her  black  hands.  But  the
 angakok  thrust  his  harpoon  at  her,  hitting  her  heel  ; and
@@ -20794,25 +17136,16 @@ witch.  While  spending  the  rest  of  the  evening  there,
 eating  and  talking  in  a pleasant  way,  the  visitors  noticed
 
 
-TALES  AND  TRADITIONS.
-
-
-459
-
-
 the  children  playing  on  the  floor  ; and  thinking  of  their
 own  childless  state  burst  out,  “ That  crowd  of  boys
-might  almost  make  people  envious.'”  They  were  an-
-swered, “ The  boys  yonder  are  the  namesakes  of  those
+might  almost  make  people  envious.'”  They  were  answered, “ The  boys  yonder  are  the  namesakes  of  those
 whom  the  monster-gulls  carried  off  as  food  for  their
 young  ones  ” (viz.,  who  perished  in  kayaks) ; whereupon
 the  whole  assembly  at  once  became  silent.
 
 122.  An  Old  Man  lost  his  only  Son  when  they
-were  both  reindeer-hunting  up  the  country.  After  re-
-turning home  he  often  used  to  visit  his  son’s  grave.
-Kayaking  up  the  firth  with  this  view,  he  once  right  be-
-fore him  saw  an  inlander  pulling  himself  through  the
+were  both  reindeer-hunting  up  the  country.  After  returning home  he  often  used  to  visit  his  son’s  grave.
+Kayaking  up  the  firth  with  this  view,  he  once  right  before him  saw  an  inlander  pulling  himself  through  the
 water  without  any  kayak  (“using  the  fog  as  kayak”),
 and  after  some  angry  words,  he  killed  the  inlander.
 Another  time,  when  he  was  again  visiting  the  grave,  he
@@ -20830,20 +17163,11 @@ grave  of  his  son.
 
 GAKOK  WISDOM,  and  always  roamed  about  seeking
 opportunities  of  emulating  other  angakut.  When  he
-happened  to  surpass  them,  he  used  to  mock  and  ridi-
-cule them  in  a most  overbearing  manner.  Once  he
+happened  to  surpass  them,  he  used  to  mock  and  ridicule them  in  a most  overbearing  manner.  Once  he
 visited  an  angakok  far  up  north,  and  challenged  him  to
-a match,  at  which,  in  broad  daylight,  they  were  to  con-
-tend in  working  the  wonders  of  their  art  before  an  as-
-sembly. Angakorsiak  began  his  performance  by  cut-
-ting off  his  arm  near  the  shoulder,  inserting  it  again  and
+a match,  at  which,  in  broad  daylight,  they  were  to  contend in  working  the  wonders  of  their  art  before  an  as-
+sembly. Angakorsiak  began  his  performance  by  cutting off  his  arm  near  the  shoulder,  inserting  it  again  and
 drinking  the  blood  from  the  wound ; after  which  he
-
-
-460
-
-
-TALES  AND  TRADITIONS.
 
 
 swallowed  an  arrow-point  and  made  it  appear  again,
@@ -20858,8 +17182,7 @@ a rock  with  such  force  as  to  make  it  enter  the  stone  and
 blood  to  spring  from  it.  Angakorsiak  on  trying  this
 entirely  failed,  his  harpoon  being  broken  and  lost.  On
 their  way  back  to  the  shore  he  bent  down  his  head  from
-shame,  capsized  his  kayak,  and  sank.  But  directly  after-
-wards a reindeer  emerged  from  the  water,  and  ran  up  on
+shame,  capsized  his  kayak,  and  sank.  But  directly  afterwards a reindeer  emerged  from  the  water,  and  ran  up  on
 the  beach.  Shame  having  thus  transformed  him  into  a
 reindeer,  he  afterwards  turned  a man  again,  and  hastened
 away,  resolved  to  give  up  all  kind  of  emulation  in  future.
@@ -20872,24 +17195,16 @@ brother-in-law,  who  persecuted  her.  Running  across
 the  ice,  she  fell  through  ; but  having  again  got  up,
 she  ran  on  and  on  to  the  north  constantly,  viewing  a
 black  spot  before  her.  Swooning  several  times,  and
-again  seeing  the  black  spot  on  awaking,  she  mean-
-while acquired  angakok  power.  Going  on  in  this  way
+again  seeing  the  black  spot  on  awaking,  she  meanwhile acquired  angakok  power.  Going  on  in  this  way
 for  five  successive  days,  she  came  to  a precipice,  and
 setting  out  from  its  edge,  she  leaped  across,  but  was
 somehow  wafted  back  through  the  air  to  the  same  spot.
 This  process  she  continued  for  five  days.  She  then
 pursued  her  journey  north,  and  came  to  an  inhabited
 place,  where  she  took  up  her  abode,  and  afterwards  got
-married.  She  visited  the  ingnersuit,  and  received  pre-
-sents from  them  ; but  while  carrying  them  homewards
+married.  She  visited  the  ingnersuit,  and  received  presents from  them  ; but  while  carrying  them  homewards
 the  gifts  were  wafted  out  of  her  hands,  and  flew  back
 to  their  first  owners.
-
-
-TALES  AND  TRADITIONS.
-
-
-461
 
 
 125.  The  Gifts  from  the  Under-world. — An  old
@@ -20909,16 +17224,14 @@ to  the  cause  of  his  recent  success,  when  he  imparted  to
 him  the  information  he  had  gained  from  his  mother,
 only  substituting  the  first  boat  for  the  second.  The
 young  man  in  this  way  also  got  a piece  of  matak,  by
-eating  which  he  only  secured  the  worst  luck  in  his  hunt-
-ing. Meanwhile  the  old  man  had  consumed  his  piece,
+eating  which  he  only  secured  the  worst  luck  in  his  hunting. Meanwhile  the  old  man  had  consumed  his  piece,
 and  went  to  fetch  more  ; but  when  he  came  to  the  spot
 the  second  time,  he  found  himself  quite  unable  to  move
 the  stone.
 
 126.  The  Tupilak. — An  old  man  named  Nikook,
 who  had  given  up  seal-hunting,  once,  entirely  by  chance,
-brought  home  a walrus.  The  middle  one  of  some  bro-
-thers with  whom  he  lived  grew  jealous  of  him  at  this,
+brought  home  a walrus.  The  middle  one  of  some  brothers with  whom  he  lived  grew  jealous  of  him  at  this,
 and  every  morning  repaired  to  the  opposite  shore  of  an
 island,  where  he  secretly  worked  at  a tupilak.  Nikook
 got  a suspicion  of  this,  and  following  him,  he  surprised
@@ -20931,42 +17244,31 @@ Meanwhile  the  brothers  had  also  reached  the  island,
 and  on  being  guided  to  the  place  by  Nikook,  they  found
 
 
-462
-
-
-TALES  AND  TRADITIONS.
-
-
 the  tupilak  still  sucking  the  dead.  They  then  killed  it
 with  stones,  sinking  it,  as  well  as  the  maker  of  it,  into
 the  sea.  During  five  nights  Nikook  was  disturbed  by  a
-bubbling  sound,  but  afterwards  nothing  more  was  per-
-ceived.
+bubbling  sound,  but  afterwards  nothing  more  was  perceived.
 
 127.  The  Grateful  Bear.— A married  couple  lived
 on  a lonely  spot  far  from  other  people.  When  the  man
 was  out  on  his  hunting-ground  his  place  of  refuge  used
 to  be  a snow-hut.  Once,  when  he  was  stopping  in  it,  he
-saw  his  wife  running  about  quite  naked.  Greatly  ex-
-cited, he  hastened  home,  but  found  his  wife  inside  the
+saw  his  wife  running  about  quite  naked.  Greatly  excited, he  hastened  home,  but  found  his  wife  inside  the
 house,  sitting  quietly  with  her  baby,  without  having
 stirred.  The  man  now  went  raving  mad  ; and  the  wife,
 frightened  at  seeing  him  in  such  a state,  fled  from  the
-house  with  her  child.  When  at  the  very  point  of  starva-
-tion she  chanced  to  catch  a partridge,  but  seeing  a ter-
+house  with  her  child.  When  at  the  very  point  of  starvation she  chanced  to  catch  a partridge,  but  seeing  a ter-
 rible bald-headed  bear  approaching,  she  threw  the  bird
 to  him  and  made  her  escape.  Afterwards,  when  she  had
 built  herself  a hut  on  the  shore,  she  always  got  an  ample
 supply  of  newly-killed  seals,  which  used  to  come  drifting
 in,  being  gifts  from  the  grateful  bear.
 
-128.  The  Inhabitants  of  Aicilinek. — Ivianger-
-sook,  while  travelling  far  and  wide  for  some  time,  settled
+128.  The  Inhabitants  of  Aicilinek. — Iviangersook,  while  travelling  far  and  wide  for  some  time,  settled
 down  in  Akilinek,  leaving  descendants  there.  Many
 years  after,  some  people  from  the  farthest  north,  in
 crossing  the  ice,  came  to  a crevice  far  off  the  coast,  and
-had  some  talk  with  people  who  appeared  on  the  oppo-
-site side  and  announced  themselves  as  Iviangersook’s
+had  some  talk  with  people  who  appeared  on  the  opposite side  and  announced  themselves  as  Iviangersook’s
 descendants  in  Akilinek.  The  countrymen  from  each
 side  alternately  enumerated  all  the  products  of  their
 homesteads.
@@ -20974,12 +17276,6 @@ homesteads.
 129.  The  Mother  and  Son  as  Kivigtut. — A
 widow,  greatly  harassed  by  the  persecutions  of  a man
 who  wanted  to  marry  her,  fled  to  the  inland  with  her
-
-
-TALES  AND  TRADITIONS.
-
-
-463
 
 
 little  son,  whom  she  educated  with  the  view  of  making
@@ -21021,12 +17317,6 @@ and  henceforth  the  ingnersuak  declined  to  assist  him
 further.
 
 
-464
-
-
-TALES  AND  TRADITIONS.
-
-
 1 31.  The  Removal  of  Disco  Island. — Off  the
 southernmost  part  of  Greenland  an  island  was  situated
 which  some  of  the  inhabitants  of  the  mainland  took  a
@@ -21050,10 +17340,8 @@ they  travelled.
 of  a relative  went  out  in  hopes  of  finding  some  means  of
 excitement ; and  being  told  that  an  amarok  had  been
 heard  roaring  in  the  firth  of  Nook  (Godthaab),  he  could
-not  be  kept  from  going  off  to  encounter  the  beast.  Ac-
-companied by  a relative,  he  went  up  the  country,  and
-finding  the  young  ones  of  the  amarok,  the  mourner  in-
-stantly killed  the  whole.  But  his  companion,  getting
+not  be  kept  from  going  off  to  encounter  the  beast.  Accompanied by  a relative,  he  went  up  the  country,  and
+finding  the  young  ones  of  the  amarok,  the  mourner  instantly killed  the  whole.  But  his  companion,  getting
 terribly  frightened,  betook  himself  to  a cave  for  refuge,
 accompanied  by  the  mourner.  From  their  retreat  the
 relative  soon  saw  how  the  old  amarok  came  running,
@@ -21066,12 +17354,6 @@ The  amarok,  from  which  nothing  remains  concealed,  had
 discovered  him  and  taken  the  soul  out  of  his  body.
 
 
-TALES  AND  TRADITIONS.
-
-
-465
-
-
 133.  An  Old  Bachelor,  being  a very  successful
 hunter,  was  always  worried  by  his  place-fellows  about
 taking  to  himself  a wife.  At  last  he  consented  ; but
@@ -21080,8 +17362,7 @@ the  place  appeared  good  enough  for  him.  Starting  in
 his  boat  for  the  neighbouring  hamlet,  he  declared  he  was
 going  to  fetch  the  only  sister  of  some  men  living  there.
 On  his  way  thither  he  met  with  another  kayaker,  and
-addressed  him,  “ Art  not  thou  one  of  the  many  bro-
-thers ? ” “ Yes,  I am  the  middle  one  of  them.”  “ I
+addressed  him,  “ Art  not  thou  one  of  the  many  brothers ? ” “ Yes,  I am  the  middle  one  of  them.”  “ I
 
 come  to  demand  thy  only  sister  in  marriage,  and  if  I
 may  have  her  I will  give  thee  my  boat  and  a new  tent.”
@@ -21094,8 +17375,7 @@ stream  of  water  running  down  a rock.  Remaining  in
 his  kayak,  he  merely  turned  his  face  upwards,  so  as  to
 let  the  water  run  into  his  open  mouth.  When  his  thirst
 had  been  quenched,  and  he  wanted  to  push  off,  his
-mouth  clung  to  the  rock,  being  at  the  same  time  gradu-
-ally prolonged,  because  the  tide  was  falling;  and  thus
+mouth  clung  to  the  rock,  being  at  the  same  time  gradually prolonged,  because  the  tide  was  falling;  and  thus
 he  had  to  remain  hanging  until  the  next  tide  should
 float  him  off  again.
 
@@ -21117,28 +17397,19 @@ to  peck  at  it  with  its  beak  to  make  a hole  in  it  ; but  the
 2 G
 
 
-466
-
-
-TALES  AND  TRADITIONS.
-
-
 man  sent  out  his  amulet,  killed  the  eagle,  and  carried
 Isserfik  back  to  her  home,  where  she  gave  birth  to  a
 child,  half  man,  half  eagle.  Finally,  she  lost  her  mind
 and  died.
 
 135.  The  SUNRISE. — A man  from  the  east  coast  of
-Greenland  from  love  for  his  home  never  left  it  even  dur-
-ing the  summer-time;  and  among  his  principal  enjoy-
+Greenland  from  love  for  his  home  never  left  it  even  during the  summer-time;  and  among  his  principal  enjoy-
 ments was  that  of  gazing  at  the  sun  rising  out  of  the
 ocean.  But  when  his  son  grew  up  he  became  desirous
 of  seeing  other  countries,  and,  above  all,  accompanying
-his  countrymen  to  the  west  coast.  At  length  he  per-
-suaded his  father  to  go  with  him.  No  sooner,  however,
+his  countrymen  to  the  west  coast.  At  length  he  persuaded his  father  to  go  with  him.  No  sooner,  however,
 had  he  passed  Cape  Farewell,  and  saw  the  sun  about  to
-rise  behind  the  land,  than  he  insisted  upon  returning  im-
-mediately. Having  again  reached  their  home  island,  he
+rise  behind  the  land,  than  he  insisted  upon  returning  immediately. Having  again  reached  their  home  island,  he
 went  out  from  his  tent  early  next  morning,  and  when
 his  people  had  in  vain  waited  for  his  return,  they  went
 out  and  found  him  dead.  His  delight  at  again  seeing
@@ -21147,10 +17418,8 @@ the  sunrise  had  overpowered  and  killed  him.
 136.  The  Arnarkuagsail. — An  angakok  performed
 a conjuration  in  order  to  procure  good  seal-hunting.
 He  went  down  to  the  old  hag,  the  arnarkuagsak,  at  the
-bottom  of  the  sea,  and  found  her  in  a great  rage.  Hav-
-ing entered  her  abode,  she  seized  hold  of  her  hair  be-
-hind one  ear,  grasping  some  bloody  clothes,  and  after-
-wards from  behind  the  other  one  she  fetched  down  a
+bottom  of  the  sea,  and  found  her  in  a great  rage.  Having entered  her  abode,  she  seized  hold  of  her  hair  be-
+hind one  ear,  grasping  some  bloody  clothes,  and  afterwards from  behind  the  other  one  she  fetched  down  a
 crying  baby,  flinging  both  upon  the  floor.  The  angakok
 then  succeeded  in  propitiating  her.
 
@@ -21162,20 +17431,12 @@ daughters,  and  an  immense  stock  of  provisions.  He
 ordered  meat  to  be  served  up  for  Saugak,  and  forced
 
 
-TALES  AND  TRADITIONS.
-
-
-467
-
-
-him  to  eat.  When  Saugak  declared  that  he  was  sati-
-ated,  his  host  went  on  to  point  his  knife  at  his  eyes,  say-
+him  to  eat.  When  Saugak  declared  that  he  was  satiated,  his  host  went  on  to  point  his  knife  at  his  eyes,  say-
 ing that  as  long  as  he  could  twinkle  them  he  could  also
 eat.  When  he  finally  left  off  twinkling  they  served  up
 dried  human  flesh  before  him.
 
-138.  The  Bloody  Rock. — At  a certain  wintering-
-place  all  the  men  successively  disappeared  on  going  out.
+138.  The  Bloody  Rock. — At  a certain  winteringplace  all  the  men  successively  disappeared  on  going  out.
 Two  young  lads  who  were  still  left,  while  roaming  about
 came  to  a mountain  continually  turning  round,  and  on
 one  side  all  bloody.  One  youth  tried  the  bloody  path,
@@ -21202,15 +17463,8 @@ head- lifting,  and  found  out  that  on  leaving  his  mother
 he  had  forgotten  some  hunting  - bladders.  Cutting
 open  his  stomach  she  brought  forth  the  bladders,  which
 would  otherwise  have  made  him  burst,  she  said,  if  they
-had  been  allowed  to  remain  much  longer.  At  that  in-
-stant a woman  appeared  at  the  entrance,  armed  with  a
+had  been  allowed  to  remain  much  longer.  At  that  instant a woman  appeared  at  the  entrance,  armed  with  a
 knife  ; and  they  warned  him  to  make  haste  if  he  would
-
-
-468
-
-
-TALES  AND  TRADITIONS.
 
 
 escape  her,  because  it  was  she  who  had  killed  the  men
@@ -21252,15 +17506,12 @@ rattling,  and  in  came  its  mother,  leading  another  child
 in  her  hand,  and  afterwards  its  father,  accompanied  by
 
 
-TALES  AND  TRADITIONS.  469
-
 other  deceased  people,  who  took  Kongajuk  along  with
 them  to  their  abodes.
 
 143.  The  Swimmer,  a Tale  from  Labrador. —
 A mother,  who  lived  at  a solitary  place,  successively
-lost  all  her  children,  who  were  killed  by  enemies.  Fin-
-ally, she  got  a son,  whom  from  his  babyhood  she  brought
+lost  all  her  children,  who  were  killed  by  enemies.  Finally, she  got  a son,  whom  from  his  babyhood  she  brought
 up  with  the  aim  of  making  him  fit  for  dwelling  in  the
 water  like  a seal.  The  enemies  once  went  to  the  place
 with  the  intention  of  killing  him  also.  But  the  mother,
@@ -21268,8 +17519,7 @@ seeing  the  kayakers  approach,  told  him  to  make  his
 escape  through  the  water.  The  enemies,  who  observed
 him  jumping  into  the  water,  had  no  doubt  they  would
 get  hold  of  him  ; but,  swimming  like  a seal,  he  seduced
-them  far  out  to  sea,  when  the  mother  whipped  the  sur-
-face of  the  water  with  a string,  causing  a storm,  by  which
+them  far  out  to  sea,  when  the  mother  whipped  the  surface of  the  water  with  a string,  causing  a storm,  by  which
 they  all  perished,  her  son  being  the  only  one  saved.
 
 Note. — From  East  Greenland  there  is  a somewhat  similar  tale  about
@@ -21277,48 +17527,34 @@ a man  having  three  sons,  who  would  not  grow  properly,  and  were  brough
 up  as  swimmers.
 
 
-144.  The  Natives  of  Labrador  tell  how  our  an-
-cestors and  the  tunneks  (or  tunnit , in  Greenlandish  tor-
+144.  The  Natives  of  Labrador  tell  how  our  ancestors and  the  tunneks  (or  tunnit , in  Greenlandish  tor-
 nit,  plural  of  tuneK.)  in  days  of  yore  lived  together  ; but
 the  tunneks  fled  from  fear  of  our  people,  who  used  to
 drill  holes  in  their  foreheads  while  yet  alive.  With  this
 view  they  removed  from  here  to  the  north,  crossing  over
 to  Killinek  (Cape  Chudleigh).  While  dwelling  among  us
-they  had  sealskins  with  the  blubber  attached  for  bed-
-robes.  Their  clothes  were  made  in  the  same  way.  Their
+they  had  sealskins  with  the  blubber  attached  for  bedrobes.  Their  clothes  were  made  in  the  same  way.  Their
 weapons  were  formed  of  slate  and  hornstone,  and  their
 drills  of  crystal.  They  were  strong  and  formidable,
 especially  one  of  them,  called  by  the  name  of  Jauranat,
-from  which  is  formed  javianarpok  (Greenlandish,  navi-
-anarpoK:).  Huge  blocks  of  stone  are  still  to  be  seen
+from  which  is  formed  javianarpok  (Greenlandish,  navianarpoK:).  Huge  blocks  of  stone  are  still  to  be  seen
 which  they  were  able  to  move.  Some  ruins  of  their
 houses  are  also  to  be  found  here  and  there  in  our  coun-
 
 
-470
-
-
-TALES  AND  TRADITIONS.
-
-
 try,  chiefly  upon  the  islands,  having  been  built  of  stones,
 and  differing  from  the  abodes  of  our  people.  One  of  our
-ancestors  when  kayaking  had  a tunnek  for  his  com-
-panion, who  had  a bird-spear,  the  points  of  which  were
+ancestors  when  kayaking  had  a tunnek  for  his  companion, who  had  a bird-spear,  the  points  of  which  were
 made  of  walrus-tooth.
 
 
 Note. — This  tradition  is  compiled  from  several  manuscripts  in  German
 from  the  missionaries  in  Labrador,  in  which  the  alien  nation,  expelled  by
 the  present  inhabitants,  are  called  partly  “ Die  Tunnit,”  and  partly  “Die
-Gronlaender.”  Very  probably  these  denominations  have  arisen  from  a mis-
-understanding, induced  by  inquiries  put  to  the  natives  as  to  their  knowing
-anything  about  the  Greenlanders.  The  tunnit  are  almost  certainly  identi-
-cal with  the  tornit  or  inlanders  of  the  Greenland  tales.  The  Eskimo  of
-Cumberland  Inlet  speak  about  the  tunudlermiut,  which  signifies  people  liv-
-ing in  the  inland.  The  present  Indians  of  Labrador  are  called  by  the  Es-
-kimo of  the  same  country  aitllak;  but  it  is  possible  they  distinguish  be-
-tween these  and  the  traditional  or  fabulous  inlanders.  However,  the  most
+Gronlaender.”  Very  probably  these  denominations  have  arisen  from  a misunderstanding, induced  by  inquiries  put  to  the  natives  as  to  their  knowing
+anything  about  the  Greenlanders.  The  tunnit  are  almost  certainly  identical with  the  tornit  or  inlanders  of  the  Greenland  tales.  The  Eskimo  of
+Cumberland  Inlet  speak  about  the  tunudlermiut,  which  signifies  people  living in  the  inland.  The  present  Indians  of  Labrador  are  called  by  the  Es-
+kimo of  the  same  country  aitllak;  but  it  is  possible  they  distinguish  between these  and  the  traditional  or  fabulous  inlanders.  However,  the  most
 striking  incongruity  is  that  of  the  tunnit  having  had  their  abodes  on  the
 islands,  which  looks  as  if  ancient  settlers  of  European  race  are  hinted  at.
 Be  this  as  it  may,  the  tradition  of  the  Labradorans  should  be  more  closely
@@ -21327,11 +17563,9 @@ examined.
 145.  Tiie  Shark  as  Provider. — A mother  with
 her  daughter  being  abandoned  by  their  relatives,  and
 helpless,  were  saved  from  starvation  by  a dead  seal
-which  drifted  to  the  shore.  After  a time  they  found  an-
-other, and  a shark  appeared  to  them,  rising  out  of  the
+which  drifted  to  the  shore.  After  a time  they  found  another, and  a shark  appeared  to  them,  rising  out  of  the
 sea,  and  saying  that  now  he  would  supply  all  their
-wants.  He  took  up  his  abode  with  them  ; and  after-
-wards, when  some  inuarutligaks  were  approaching,  he
+wants.  He  took  up  his  abode  with  them  ; and  afterwards, when  some  inuarutligaks  were  approaching,  he
 took  the  two  women  on  his  back,  along  with  all  their
 implements,  and  brought  them  away  to  an  island.
 
@@ -21343,12 +17577,6 @@ On  hearing  this  she  fled  to  the  inland,  where  she  first
 met  with  a bear.  Having  no  sort  of  weapon  whatever,
 she  took  a string  from  her  hood,  and  cracking  it  like  a
 whip  in  the  front  of  the  animal,  she  made  it  fall  to  the
-
-
-TALES  AND  TRADITIONS.
-
-
-471
 
 
 ground.  She  proceeded  in  the  same  manner  with  an
@@ -21366,8 +17594,7 @@ suddenly  recollected  to  have  heard  old  people  talking
 of  the  ocean-spider,  a most  dangerous  animal  to  the
 kayakers.  Presently  he  discovered  a monstrous  eye,  and
 at  the  distance  of  about  a kayak-paddle’s  length  from
-it  a similar  one,  and  on  tearing  away  from  the  spot  a ter-
-rible gap  made  its  appearance.  Indeed,  if  he  had  been  a
+it  a similar  one,  and  on  tearing  away  from  the  spot  a terrible gap  made  its  appearance.  Indeed,  if  he  had  been  a
 less  skilled  kayaker,  he  would  never  have  got  off  alive.
 
 148.  A Woman  who  was  Mated  with  a Dog  1
@@ -21375,8 +17602,7 @@ got  ten  children.  .When  they  had  grown  larger,  she
 ordered  them  to  devour  her  father,  whereupon  she
 divided  them  into  two  parties  and  sent  them  off  from
 home  to  seek  their  subsistence  henceforth  by  themselves.
-Five  of  them,  who  were  sent  up  the  country,  grew  erki-
-leks  ; and  to  the  other  five  she  gave  the  sole  of  an  old
+Five  of  them,  who  were  sent  up  the  country,  grew  erkileks  ; and  to  the  other  five  she  gave  the  sole  of  an  old
 boot,  and  put  it  in  the  sea,  where  it  rapidly  expanded
 and  grew  a ship,  in  which  they  went  off,  turning  into
 kavdlunaks  (Europeans).
@@ -21391,37 +17617,25 @@ origin  of  the  Europeans,  for  instance,  corresponding,  as  far  as  we  kn
 the  origin  attributed  by  a Japanese  popular  tradition  to  the  Ainos  of  the
 Kurile  Islands.
 
-s This  and  the  following  tale  are  only  interesting  as  showing  the  deeply-
-seated  fear  of,  and  belief  in,  the  angakut.
-
-
-472
-
-
-TALES  AND  TRADITIONS.
+s This  and  the  following  tale  are  only  interesting  as  showing  the  deeplyseated  fear  of,  and  belief  in,  the  angakut.
 
 
 away  the  window-curtain,  and  thereby  dispelled  all  their
-doings.  But  once  when  an  angakok  had  begun  his  con-
-juration, and  announced  his  tornak  to  be  approaching
+doings.  But  once  when  an  angakok  had  begun  his  conjuration, and  announced  his  tornak  to  be  approaching
 in  the  shape  of  a fire,  Katigagse  tore  away  the  curtain
 which  covered  the  entrance,  and  ran  outside.  Suddenly
 he  discovered  a great  flame  rushing  through  the  air,
 which  struck  him  with  terror,  and  made  him  re-enter  the
-house,  and  trembling  from  head  to  foot  cling  to  the  raf-
-ters of  the  hut,  from  whence  fatigue  soon  made  him  fall
-to  the  ground.  When  the  conjuration  had  been  fin-
-ished, and  the  fire  kept  off,  Katigagse  was  missed.  At
+house,  and  trembling  from  head  to  foot  cling  to  the  rafters of  the  hut,  from  whence  fatigue  soon  made  him  fall
+to  the  ground.  When  the  conjuration  had  been  finished, and  the  fire  kept  off,  Katigagse  was  missed.  At
 length  they  brought  him  forth  from  underneath  the
 ledge,  all  covered  with  filth,  in  which  state  he  left  the
 house,  never  to  attend  angakok  service  any  more.
 
 i 50.  ORDLAVARSUK  despised  the  angakut,  and  never
 used  to  attend  their  conjurations.  But  once  spending
-an  evening  at  another  place,  in  a house  where  an  anga-
-kok went  on  performing  his  art,  he  became  so  fond  of
-the  women’s  song,  that  suddenly  he  took  a fancy  to  be-
-come an  angakok  himself.  Imitating  the  angakut’s
+an  evening  at  another  place,  in  a house  where  an  angakok went  on  performing  his  art,  he  became  so  fond  of
+the  women’s  song,  that  suddenly  he  took  a fancy  to  become an  angakok  himself.  Imitating  the  angakut’s
 fashion,  he  betook  himself  to  lonely  places,  and  called
 for  a tornak.  At  length  a giant-like  man  appeared,
 armed  with  a long  staff,  with  which  he  would  touch  him.
@@ -21429,8 +17643,7 @@ But  Ordlavarsuk  got  terrified,  and  turning  round  to
 the  beach  walked  through  some  shallow  water  to  an
 island,  whither  the  demon  was  unable  to  follow  him.
 The  tornak  having  in  vain  offered  himself  to  his  disposal,
-turned  back  and  disappeared.  Ordlavarsuk  then  repent-
-ing his  foolishness,  called  out  for  him  again,  but  received
+turned  back  and  disappeared.  Ordlavarsuk  then  repenting his  foolishness,  called  out  for  him  again,  but  received
 no  answer,  and  never  more  succeeded  in  calling  forth  a
 tornak.
 

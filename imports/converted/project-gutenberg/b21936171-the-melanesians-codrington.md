@@ -20,9 +20,6 @@ Digitized  by  the  Internet  Archive
 in  2015
 
 
-https://archive.org/details/b21936171
-
-
 THE  MELANESIANS
 
 
@@ -48,7 +45,6 @@ With.  Illustrations
 Oxford
 
 AT  THE  CLARENDON  PRESS
-1891
 
 [All  rights  reserved]
 
@@ -79,12 +75,10 @@ notes  were  made,  in  the  years  from  1863,  when  I  first
 visited  the  islands,  to  1887,  when  I  left  the  Mission  ;  partly
 in  the  Melanesian  Islands,  but  mostly  in  Norfolk  Island,
 where  natives  of  many  of  these  islands  have  for  many
-years  been  brought  together  for  instruction.  Twice  durino-
-this  period  I  made  with  natives  of  the  various  islands  a
+years  been  brought  together  for  instruction.  Twice  durinothis  period  I  made  with  natives  of  the  various  islands  a
 systematic  enquiry  into  the  religious  beliefs  and  practices  of
 the  Melanesians,  and  the  social  regulations  and  conditions
-prevailing  among  them.  On  the  first  occasion  I  had,  as  re-
-gards the  Banks'  Islands,  the  very  valuable  assistance  of  a
+prevailing  among  them.  On  the  first  occasion  I  had,  as  regards the  Banks'  Islands,  the  very  valuable  assistance  of  a
 native  who  was  a  grown  youth  before  his  people  had  been
 at  all  affected  by  intercourse  with  Europeans  or  had  heard
 any  Christian  teaching— the  Rev.  George  Sarawia,  the  first,
@@ -105,10 +99,8 @@ I  was  so  fortunate  then  as  to  meet  there  several  old  friends
 and  pupils  who  had  come  down,  for  their  health's  sake  and
 for  other  reasons,  after  a  residence  as  teachers  among  their
 own  people.  They  had  been  living  in  their  various  islands
-in  a  position  and  at  an  age  which  would  make  them  ac-
-quainted with  the  views  and  habits  of  their  countrymen,
-and  they  were  able,  and,  I  believe,  entirely  willing,  to  com-
-municate freely  what  they  knew.  It  happened  thus  that  I
+in  a  position  and  at  an  age  which  would  make  them  acquainted with  the  views  and  habits  of  their  countrymen,
+and  they  were  able,  and,  I  believe,  entirely  willing,  to  communicate freely  what  they  knew.  It  happened  thus  that  I
 was  able  to  go  through  the  subjects  which  are  treated  of  in
 this  book  with  native  instructors  from  the  Solomon  Islands,
 the  Banks'  Islands,  and  the  Northern  New  Hebrides ;  with
@@ -167,10 +159,8 @@ In  conclusion,  this  book,  though  written  by  a  missionary,
 with  his  full  share  of  the  prejudices  and  predilections
 belonging  to  missionaries,  is  not  meant  to  have  what  is
 generally  understood  to  be  a  missionary  character ;  but  the
-writer  is  persuaded  that  one  of  the  first  duties  of  a  mis-
-sionary is  to  try  to  understand  the  people  among  whom  he
-works,  and  to  this  end  he  hopes  that  he  may  have  con-
-tributed something  that  may  help.
+writer  is  persuaded  that  one  of  the  first  duties  of  a  missionary is  to  try  to  understand  the  people  among  whom  he
+works,  and  to  this  end  he  hopes  that  he  may  have  contributed something  that  may  help.
 
 
 Wadhurst  :
@@ -187,8 +177,7 @@ INTRODUCTORY.
 Groups  of  Melanesian  Islands.  Connexion  East  and  West.  Discovery.
 Spanish,  French,  English  Discoverers.  Names  of  Islands,  native  and
 geographical.  Identification.  Condition  on  discovery.  Native  view  of
-discoverers.  Geology.  Voloanos.  Coral.  Reef  Islands.  Lakes.  Water-
-falls.   Zoology.  pp.  1-19
+discoverers.  Geology.  Voloanos.  Coral.  Reef  Islands.  Lakes.  Waterfalls.   Zoology.  pp.  1-19
 
 
 CHAPTER  II.
@@ -196,17 +185,14 @@ CHAPTER  II.
 SOCIAL  REGULATIONS.     DIVISIONS  OF  THE  PEOPLE.
 KINSHIP  AND  MARRIAGE  CONNEXION.
 
-Ethnology,  Origin.  Division  of  people  into  Exogamous  Classes,  or  Kin-
-dreds, with  Succession  through  the  Mother.  No  Tribes.  Exception  in
+Ethnology,  Origin.  Division  of  people  into  Exogamous  Classes,  or  Kindreds, with  Succession  through  the  Mother.  No  Tribes.  Exception  in
 Eastern  Solomon  Islands.  Intercourse  of  sexes  regulated  and  restricted.
 Incest.  Guest-wives.  Division  into  two  Kins.  Banks' Islands;  Families,
-Adoption.  New  Hebrides.  Question  of  Communal  marriage.  Testi-
-mony of  language.  Nearness  of  blood.  Plural  Divisions,  Florida,
+Adoption.  New  Hebrides.  Question  of  Communal  marriage.  Testimony of  language.  Nearness  of  blood.  Plural  Divisions,  Florida,
 Bugotu.  Abomination,  buto.  Totems.  Custom  at  Ulawa.  Shifting
 predominance  of  Florida  kema.  Relation  of  Bister's  son  and  mother's
 brother.  Banks'  Island  System  of  Relationship,  in  Kinship,  Family,  by
-Marriage.  Pedigree  of  Mota  family.  Step-father.  Terms  of  relation-
-ship in  Florida.  System  where  descent  follows  the  Father.  Reserve.
+Marriage.  Pedigree  of  Mota  family.  Step-father.  Terms  of  relationship in  Florida.  System  where  descent  follows  the  Father.  Reserve.
 Avoidance,  in  Banks'  Islands.    Disuse  of  Names  as  words.  New
 
 Hebrides  ....
@@ -227,8 +213,7 @@ SOCIAIi  REGULATIONS.  CHIEFS.
 Chiefs  recognised  by  visitors.  Their  Power  in  Solomon  Islands,  Banks'
 Islands,  and  New  Hebrides.  Absence  of  History  and  Tradition
 Remarkable  exception  at  Saa.  Origin  of  that  settlement.  Chiefs  there
-Hereditary  element.  Chiefs  in  Florida;  in  Banks'  Islands  Alterna-
-tion of  predominance  in  Kindreds.  Chiefs  in  New  Hebrides  Lepers'
+Hereditary  element.  Chiefs  in  Florida;  in  Banks'  Islands  Alternation of  predominance  in  Kindreds.  Chiefs  in  New  Hebrides  Lepers'
 Island        .  >  f
 
  4r'-.^
@@ -248,8 +233,7 @@ CHAPTER  V.
 
 SECRET  SOCIETIES  AND  MYSTERIES.
 
-Wide  extent  of  Secret  Societies  in  Melanesia.  Difference  from  Austra-
-lian Mysteries;  no  'Making  young  men."  Social  importance.  Exclu-
+Wide  extent  of  Secret  Societies  in  Melanesia.  Difference  from  Australian Mysteries;  no  'Making  young  men."  Social  importance.  Exclu-
 sion of  women.  Conspicuous  feature  in  native  life.  Banks'  Islands
 Tamate,  'Ghosts';  masks;  badges;  lodges.  Salacjoro  ;  hats;  mysterious
 sounds  ;  admission  ;  seclusion  of  neophytes  ;  license.  Smaller  Societies.
@@ -283,10 +267,8 @@ CHAPTEK  VII.
 RELIGION.
 
 Difficulty  of  the  subject.  Language  of  Natives  and  Europeans.  Manu  ;
-stones  ;  charms.  Spirits  and  Ghosts  distinguished  by  natives.  Differ-
-ence between  religion  of  Eastern  and  Western  Melanesia.  Misuse  of
-terms  ;  '  god  '  and  '  devil.'  Banks'  Islands,  Spirits,  vui.  Solomon  Is-
-lands, tindalo,  Ghosts  of  worship.    Example  of  Ganindo.    Prayers  and
+stones  ;  charms.  Spirits  and  Ghosts  distinguished  by  natives.  Difference between  religion  of  Eastern  and  Western  Melanesia.  Misuse  of
+terms  ;  '  god  '  and  '  devil.'  Banks'  Islands,  Spirits,  vui.  Solomon  Islands, tindalo,  Ghosts  of  worship.    Example  of  Ganindo.    Prayers  and
 
 
 CHAPTER  VIII.
@@ -326,8 +308,7 @@ SACRED  PLACES  AND  THINGS.
 Images  not  idols.  Stones.  Solomon  Islands,  Places  of  sepulture  sacred  ;
 Shrines.  Other  sacred  places,  Streams.  Florida,  Bugotu.  Sharks,  snakes,
 frigate-birds,  crocodiles.  Banks'  Islands  and  New  Hebrides;  Stones,
-heaps,  streams  and  pools,  trees,  sharks,  snakes,  changeling  snakes,  king-
-fi9hers  .......  173-190
+heaps,  streams  and  pools,  trees,  sharks,  snakes,  changeling  snakes,  kingfi9hers  .......  173-190
 
 
 xu
@@ -340,8 +321,7 @@ CHAPTER,  XII.
 
 MAGIC.
 
-Mana,  and  equivalent  terms.  Native  belief  in  magic,  (i)  Sickness-
-causes.  Solomon  Islands.  Treatment  with  charms  ;  medicine.  Ghosts
+Mana,  and  equivalent  terms.  Native  belief  in  magic,  (i)  Sicknesscauses.  Solomon  Islands.  Treatment  with  charms  ;  medicine.  Ghosts
 fighting;  Sea-ghosts.  Santa  Cruz.  Banks"  Islands.  New  Hebrides
 (2)  Weather:  weather  doctoring ;  Banks' Islands,  charms.  (,)  Witch
 craft:  fragments  of  food;  bones;  < ghost-shooter ■ ;  Metamorphosis.
@@ -371,8 +351,7 @@ BIETH.     CHILDHOOD.     MAEBIAGE.  ■
 
 Couvade;  abortion;  infanticide;  twins.  Birth.  Weaning;  nose-boring;
 clothing.  Eeserve.  Separation  of  sexes.  Initiation  at  Saa.  Circumcision;'
-tattoo.  Intercourse  of  sexes ;  harlots.  Betrothal  and  Marriage.  Adul-
-tery. Divorce.  Levirate.  Widowhood ;  mourning.  Polygamy,  Poly-
+tattoo.  Intercourse  of  sexes ;  harlots.  Betrothal  and  Marriage.  Adultery. Divorce.  Levirate.  Widowhood ;  mourning.  Polygamy,  Poly-
 andfy   •       .       .     '.  22S-246
 
 
@@ -382,8 +361,7 @@ DEATH.     BUBIAL.     AETEE  DEATH.
 
 Death.  Soul  called  shadow.  Native  words  translated  soul,  in  Florida,
 Banks'  Islands,  New  Hebrides.  Ghosts,  two  classes.  Burial  customs  in
-Florida  and  Bugotu.  Hades;  ship  and  bridge  of  the  dead.  San  Cris-
-toval,  Sea-ghosts.  Saa,  ghosts;  Hades;  burial;  relics;  memorials.
+Florida  and  Bugotu.  Hades;  ship  and  bridge  of  the  dead.  San  Cristoval,  Sea-ghosts.  Saa,  ghosts;  Hades;  burial;  relics;  memorials.
 Santa  Cruz.  Torres  Islands.  Banks'  Islands.  Panoi.  Origin  of  death  ;
 burial ;  driving  away  ghost ;  funeral  feasts  ;  death-days ;  state  of  the
 dead  ;  judgment.  Descents  to  Panoi.  Aurora.  Journey  of  the  dead  ;
@@ -401,8 +379,7 @@ CHAPTEE  XVI.
 
 ABTS  OF  LIFE.
 
-Outrigger-canoes  ;  plank-built  canoes  ;  voyages ;  trade.  Houses :  dwel-
-ling-houses ;  canoe-houses ;  pile-houses  ;  tree-houses ;  forts ;  stone-
+Outrigger-canoes  ;  plank-built  canoes  ;  voyages ;  trade.  Houses :  dwelling-houses ;  canoe-houses ;  pile-houses  ;  tree-houses ;  forts ;  stone-
 buildings.  Cultivations.  Weapons.  Fighting.  Bows  ;  slings  ;  poisoned
 arrows.  Shell  and  stone  implements  ;  pottery;  stone-boiling.  Fishing:
 hooks ;  floats ;  nets ;  kites  ;  traps.  Food ;  Cookery.  Native  cloth  ;  Dress.
@@ -438,8 +415,7 @@ the  Sea.  7.  How  Tagaro  found  Fish.  8.  How  the  old  Woman  made
 the  Sea.  III.  Wonder  Tales.— 1.  Dilingavuv.  2.  Story  of  an  Eel.
 3.  Molgon  and  Molwor.  4.  Ghost-wife.  5.  Ganviviris.  6.  The  Little
 Orphan.  7.  The  Woman  and  Eel.  8.  The  Little  Owl.  9.  The  Winged
-Wife.  10.  Taso.  11.  Betawerai.  12.  Basi  and  Dovaowari.  13.  Dei-
-tari.  14.  Tarkeke.  15.  The  Woman  and  Ghost.  16.  Tagaro  the
+Wife.  10.  Taso.  11.  Betawerai.  12.  Basi  and  Dovaowari.  13.  Deitari.  14.  Tarkeke.  15.  The  Woman  and  Ghost.  16.  Tagaro  the
 Little.    17.  Merambuto  and  Tagaro  3g(
 
 
@@ -592,10 +568,7 @@ From  a  rubbing.
 From  a  photograph  by  Capi.  Acland,  R.N.
 
 
-329
 33°
-331
-337
 
 
 NOTE.
@@ -667,8 +640,7 @@ Hebrides,  Aurora,  Pentecost  and  Lepers'  Islands.  Within  this
 field  are  contained  certain  islands  inhabited  by  Polynesian
 colonists  from  the  East  who  still  retain  their  Polynesian
 speech.  Such  are  Nupani,  Pileni,  Nukapu,  and  other  reef
-islands  of  the  Swallow  group,  where  the  physical  character-
-istics of  the  Polynesian  people  may  possibly  be  traced,  but
+islands  of  the  Swallow  group,  where  the  physical  characteristics of  the  Polynesian  people  may  possibly  be  traced,  but
 certainly  are  not  conspicuous,  having  been  lost  by  mixture
 with  neighbouring  Melanesians.  In  Eennell  Island  and  Bellona
 Island,  southern  members  of  the  Solomon  group,  the  people
@@ -752,8 +724,7 @@ his  wonderful  boat  voyage  after  the  mutiny  of  the  Bounty,
 passed  through  and  named  the  islands  of  the"  Banks'  group.
 
 The  names  given  by  the  Spaniards  to  the  Solomon  and  Santa
-Cruz  groups,  and  to  the  islands  of  Ysabel,  Florida,  Guadal-
-canal-, San  Cristoval,  Santa  Anna  and  Santa  Catalina,  to
+Cruz  groups,  and  to  the  islands  of  Ysabel,  Florida,  Guadalcanal-, San  Cristoval,  Santa  Anna  and  Santa  Catalina,  to
 Espiritu  Santo  in  the  New  Hebrides  and  Santa  Maria  in  the
 Banks'  Islands,  have  maintained  themselves;  some  of  the
 French  names  have  disappeared ;  some,  Aurora,  Pentecost  or
@@ -790,8 +761,7 @@ j]  Discoveries.  5
 by  Mendana  in  his  first  voyage,  Ysabel,  Guadalcanal-,  and
 San  Cristoval  have  no  native  names,  though  names  of  parts
 are  often  taken  to  designate  the  whole  ;  the  second  of  these,
-so  far  as  is  known  to  them,  is  called  Gera  by  natives  of  south-
-east Malanta  and  San  Cristoval ;  and  the  latter  has  become
+so  far  as  is  known  to  them,  is  called  Gera  by  natives  of  southeast Malanta  and  San  Cristoval ;  and  the  latter  has  become
 known  as  Bauro,  from  its  most  conspicuous  part.  It  is  strange
 that  the  large  island  which  has  somehow  got  the  name  of
 Malanta  has  a  native  name,  at  any  rate  all  along  the  west  side,
@@ -832,8 +802,7 @@ hand  it  on.  The  only  security  is  the  writing  of  a  native  who  knows.
 
 6  Introductory.  rCH
 
-who  are  great  voyagers  at  the  present  day,  and  are  easily  dis-
-tinguished by  then-  Polynesian  tongue,  though  where  they  lie
+who  are  great  voyagers  at  the  present  day,  and  are  easily  distinguished by  then-  Polynesian  tongue,  though  where  they  lie
 near  larger  elands  of  Melanesian  population,  the  appearance  of
 Polynesians  has  been  lost  \  Many  of  these  islands  are  easily
 identified,  and  lie  away  from  the  New  Hebrides  \  but  Quiros
@@ -938,14 +907,12 @@ matters  must  be  allowed  to  prevail.    The  interest  of  the
 point  lies  m  the  connexion  shewn  by  the  common  use  of
 this  preposition  m  place-names  between  Melanesia,  the  Malay
 Archipelago  and  Madagascar.    Ethnological  and  historical
-questions  are  inseparable  from  the  consideration  of  place-
-names  ;  for  example,  the  questions  whether  the  Bauro  of
+questions  are  inseparable  from  the  consideration  of  placenames  ;  for  example,  the  questions  whether  the  Bauro  of
 the  Solomon  Islands  is  the  same  with  the  Bouro,  properly
 Bum  near  the  Moluccas,  or  whether  Futuna  of  the  New
 Hebrides  is  named  after  Futuna,  Home's  Island.    About  one
 thing  however  there  ought  to  be  no  disagreement;  however
-dimcult  it  may  be  to  ascertain  a  native  name  and  its  ortho-
-graphy, European  names  should  be  written  in  the  language
+dimcult  it  may  be  to  ascertain  a  native  name  and  its  orthography, European  names  should  be  written  in  the  language
 to  which  they  belong ;  San  Cristoval,  or  Cristobal,  not
 Chnstoval ;  Espiritu  Santo,  not  Spirito  Santo  or  St.  Esprit  •
 and  where  French  names  are  retained,  Contraries  Island  and
@@ -966,8 +933,7 @@ as  are  now  in  use ;  one  of  the  few  words  not  names  to
 be  found  in  Gallego's  narrative,  benau,  panale,  panay,  is  clearly
 pana,  a  kind  of  yam  with  prickles  on  the  vines.  In  three  points
 it  may  be  observed  that  Gallego  reports  what  would  not
-have  been  lately  seen.    The  natives  are  represented  as  at-
-tacking the  Spaniards  with  bows  and  arrows  everywhere,
+have  been  lately  seen.    The  natives  are  represented  as  attacking the  Spaniards  with  bows  and  arrows  everywhere,
 
 
 ji  Discoveries.  9
@@ -990,12 +956,10 @@ The  account  of  the  visit  of  Mendana  to  Santa  Cruz  in
 1595  and  of  the  Spanish  attempt  to  form  a  settlement  is
 ample  and  detailed  ;  and  it  was  remarked  by  Bishop  Patteson,
 who  was  probably  the  first  European  after  Mendana's  party  to
-go  about  the  native  villages,  that  what  he  observed  corre-
-sponded closely  with  the  Spanish  record.  It  is  only  within  the
+go  about  the  native  villages,  that  what  he  observed  corresponded closely  with  the  Spanish  record.  It  is  only  within  the
 last  ten  years  that,  by  the  courage  and  enterprise  of  the  present
 Missionary  Bishop  John  Selwyn,  the  island  of  Santa  Cruz  has
-again  become  open  to  friendly,  and  unhappily  also  to  mis-
-chievous, approach.  The  present  writer  has  gone  through
+again  become  open  to  friendly,  and  unhappily  also  to  mischievous, approach.  The  present  writer  has  gone  through
 the  account  of  Mendana's  visit  with  natives  of  Santa  Cruz,
 whose  comments  were  certainly  interesting.  One  point  may
 be  mentioned  ;  the  Spaniards,  failing  to  get  the  people  of  the
@@ -1114,8 +1078,7 @@ world,  have  not  compensated  native  people  for  new  diseases
 and  the  weakening  of  social  bonds  \    White  visitors  have  not
 meant  to  do  the  natives  wrong,  but  they  have  in  fact  harmed
 them,  and  have  not  earned  moral  respect  at  any  rate  generally
-from  them.    Europeans  have  from  the  beginning  of  inter-
-course with  Melanesian  natives  kidnapped  them,  and  have
+from  them.    Europeans  have  from  the  beginning  of  intercourse with  Melanesian  natives  kidnapped  them,  and  have
 persuaded  themselves  that  they  were  doing  them  a  service
 by  bringing  them  into  what  is  called  contact  with  civilization  ;
 the  natives  have  from  the  first  resented  the  kidnapping  of  their
@@ -1135,10 +1098,8 @@ till  natives  returned  from  residence  with  Europeans.  When  the  Nukapu
 men,  whose  kidnapping  was  the  immediate  cause  of  the  death  of  Bishop
 Patteson,  escaped  from  Fiji  and  made  their  way  to  their  native  island,
 dysentery,  before  unknown,  broke  out  there.  The  absence  of  a  native  name
-for  this  and  other  diseases,  is  to  some  extent  at  least  a  proof  of  recent  in-
-troduction. Within  my  own  recollection  syphilis,  or  the  venereal  disease
-which  was  taken  for  it,  was  unknown  in  the  islands  visited  by  the  Mela-
-nesian Mission,  except  at  San  Cristoval,  where  alone  intercourse  with  whalers
+for  this  and  other  diseases,  is  to  some  extent  at  least  a  proof  of  recent  introduction. Within  my  own  recollection  syphilis,  or  the  venereal  disease
+which  was  taken  for  it,  was  unknown  in  the  islands  visited  by  the  Melanesian Mission,  except  at  San  Cristoval,  where  alone  intercourse  with  whalers
 and  traders  had  been  considerable.  It  has  lately  become  widely  known,
 and  it  is  certain  that  it  has  been  brought  back  by  returned  '  labourers,'  male
 and  female.
@@ -1146,8 +1107,7 @@ and  female.
 
 i.]  Geology.  1 3
 
-of  them  cannot  fail  to  be  apparent.  The  lofty  land  of  Guadal-
-canar,  rising  to  a  height  of  8000  feet,  and  the  high  mountains
+of  them  cannot  fail  to  be  apparent.  The  lofty  land  of  Guadalcanar,  rising  to  a  height  of  8000  feet,  and  the  high  mountains
 of  Espiritu  Santo  and  New  Caledonia,  may  be  thought  by
 him  to  have  some  other  origin  ;  but  he  cannot  miss  the  still
 active  volcanos,  or  fail  to  observe  that  many  islands  have  the
@@ -1156,13 +1116,11 @@ ruinous  condition.  The  vast  cone  of  Lopevi  in  the  New
 Hebrides  rises  to  an  apparent  point  at  the  height  of  5000  feet,
 and  has  been  seen  to  cast  out  smoke  and  ashes.  Tinakula,  as
 it  is  called,  near  Santa  Cruz,  the  native  name  of  which  is
-Tamami,  is  a  well-formed  cone  3000  feet  high.  When  Men-
-dana  was  attempting  his  settlement  in  1595,  the  point  of  the
+Tamami,  is  a  well-formed  cone  3000  feet  high.  When  Mendana  was  attempting  his  settlement  in  1595,  the  point  of  the
 cone  was  blown  away;  the  volcano  is  now  very  active,  throwing
 out  glowing  masses  of  lava,  which  roll  down  into  the  sea.
 The  enormous  crater  of  Ambrym,  at  the  height  of  3500  feet,
-is  the  centre  of  vast  rugged  fields  of  lava,  hitherto  unapproach-
-able ;  round  this  main  mass  of  the  volcano  there  rise  lateral
+is  the  centre  of  vast  rugged  fields  of  lava,  hitherto  unapproachable ;  round  this  main  mass  of  the  volcano  there  rise  lateral
 cones  no  longer  active,  forest-covered  to  their  peaks,  and
 affording*  perhaps  the  most  beautiful  of  Melanesian  landscapes.
 When  the  Solomon  Islands  were  discovered  Savo  was  active.
@@ -1201,8 +1159,7 @@ discovered  the  island  :  there  is  now  no  recollection  of  activity  1.
 In  the  New  Hebrides,  volcanic  action  has  not  yet  exhausted
 itself  on  Lepers'  Island  ;  it  is  probable  that  besides  the  very
 conspicuous  volcanos  of  Ambrym,  Lopevi,  and  Yazur  on
-Tanna,  there  are  many  solfataras  and  fumaroles  as  yet  un-
-noticed in  this  group.
+Tanna,  there  are  many  solfataras  and  fumaroles  as  yet  unnoticed in  this  group.
 
 All  these  volcanic  islands,  whether  still  in  active  operation,
 or  stiU  fuming  with  latent  fires,  or  long  ago  extinct,  have
@@ -1226,8 +1183,7 @@ lightly  about  native  superstitions.  Mr.  Palmer  thus  describes  the  crate
 '  We  could  see  nothing  at  first,  as  a  cloud  was  over,  but  presently  it  lifted,  and
 we  saw  a  large  deep  crater  with  splendid  precipitous  sides,  in  some  places
 fully  three  hundred  feet  high.  There  is  a  small  pool  of  water  at  the  bottom,
-and  rather  on  one  side  a  second  perfectly  round  crater,  which  we  also  deter-
-mined to  look  into.  We  descended  through  trees  and  mosses ;  I  was  much
+and  rather  on  one  side  a  second  perfectly  round  crater,  which  we  also  determined to  look  into.  We  descended  through  trees  and  mosses ;  I  was  much
 interested  in  finding  the  tutu  of  New  Zealand  (coriaria  sarmentora),  which  I
 have  never  seen  anywhere  else  in  these  islands  ;  the  second  crater  goes  down
 to  a  point,  where  the  trees  and  ferns  are  of  better  growth.'
@@ -1266,8 +1222,7 @@ last  few  years.
 
 Florida  in  the  Solomon  group  is  divided  into  three  parts  by
 two  channels  called  utuha,  and  calls  to  mind  the  mainland  of
-the  Aru  Islands,  as  described  in  Mr.  Wallace's  Malay  Archi-
-pelago. Though  the  northernmost  channel  is  pretty  wide,  the
+the  Aru  Islands,  as  described  in  Mr.  Wallace's  Malay  Archipelago. Though  the  northernmost  channel  is  pretty  wide,  the
 island  in  its  native  name,  Nggela,  and  in  native  conception,  is
 one,  and  neither  of  the  three  parts  has  a  name  of  its  own.  A
 similar  channel  divides  Mala  masiki  from  Mala  paina,  little
@@ -1327,8 +1282,7 @@ part  of  Melanesia.  The  cuscus  common  in  the  Solomon  Islands
 does  not  reach  to  Santa  Cruz;  it  is  believed  to  exist  in
 Espiritu  Santo,  where  Quiros  reported  that  there  were  goats.
 The  white  cockatoo,  abundant  in  the  Solomon  Islands  generally,
-does  not  pass  the  two  straits  that  separate  respectively  Guadal-
-canal- and  San  Cristoval,  Malanta  and  Ulawa ;  but  while
+does  not  pass  the  two  straits  that  separate  respectively  Guadalcanal- and  San  Cristoval,  Malanta  and  Ulawa ;  but  while
 Ulawa  does  not  strike  the  unlearned  visitor  as  different  in  its
 zoology  from  Malanta,  the  birds  of  San  Cristoval  seem  few  and
 strange.  Frogs  stop  short  of  Santa  Cruz,  abundant  as  they
@@ -1363,8 +1317,7 @@ Banks'  Islands  there  are  no  land  snakes,  and  the  natives
 maintain  that  if  imported  they  will  not  live ;  in  Vanua  Lava
 and  Saddle  Island  of  the  same  group,  those  that  live  among
 the  root-stems  of  the  huge  banyan-trees  are  said  to  attain  an
-enormous  size.  The  eels  in  the  Tas  of  Santa  Maria  are  some-
-times more  than  thirty  inches  in  girth.  It  is  tantalizing  to
+enormous  size.  The  eels  in  the  Tas  of  Santa  Maria  are  sometimes more  than  thirty  inches  in  girth.  It  is  tantalizing  to
 those  who  suffer  so  much  from  mosquitos  in  the  islands  now  to
 know  that  Mendana,  who  was  two  months  at  Santa  Cruz,
 
@@ -1391,8 +1344,7 @@ mosquitos,  but  it  is  probably  the  small  house  fly  that  is
 meant.  The  variety  of  the  mosquitos  of  the  present  time  is
 interesting  with  all  the  suffering  they  bring ;  in  Mota  there
 is  but  one  kind,  which  bites  only  in  the  daylight;  in  Vanua
-Lava,  in  the  rainy  season,  they  drive  the  natives  to  bury  them-
-selves in  the  sea-sand  for  sleep.  The  same  name  for  the
+Lava,  in  the  rainy  season,  they  drive  the  natives  to  bury  themselves in  the  sea-sand  for  sleep.  The  same  name  for  the
 mosquito  prevails  from  the  Asiatic  continent  to  Fiji ;  and  the
 odious  blow-fly  carries  the  same  name  and  habits  through  all
 the  islands.  Dr.  Guppy  commends  the  habits  of  the  Birgus
@@ -1440,8 +1392,7 @@ the  stories  which  pass  among  them  represent  themselves  to
 have  been  created  where  they  are.  The  variety  of  their
 languages,  and  to  a  much  less  extent  of  their  arts  and
 customs,  shews  that  they  have  not  come  in  one  body  into
-the  islands  they  now  inhabit ;  an  examination  of  their  lan-
-guages discovers  a  very  considerable  underlying  sameness ;
+the  islands  they  now  inhabit ;  an  examination  of  their  languages discovers  a  very  considerable  underlying  sameness ;
 and  the  present  book  may  be  taken  perhaps  as  an  evidence
 of  a  large  general  resemblance  in  the  religious  beliefs  and
 practices,  the  customs  and  ways  of  life,  which  prevail  in  the
@@ -1451,8 +1402,7 @@ from  all  sides,  a  connexion  will  no  doubt  be  traced  with
 regions  beyond  Melanesia ;  the  loom,  for  example,  peculiar
 to  Santa  Cruz  alone  among  the  islands  here  treated  of,  may
 connect  the  people  of  that  group  with  those  of  the  Caroline
-Islands;  many  things  in  common  between  Fiji  and  Mada-
-gascar besides  language  may  bring  those  countries  and  much
+Islands;  many  things  in  common  between  Fiji  and  Madagascar besides  language  may  bring  those  countries  and  much
 that  lies  between  them  into  whatever  ethnographic  province
 the  latter  is  held  to  belong  to ;  but  to  endeavour  to  trace
 such  connexion  is  beyond  the  present  purpose,  which  is
@@ -1480,8 +1430,7 @@ race  or  nation,  as  if  they  thought  themselves  the  only  men  in
 the  world.  In  Melanesia,  when  natives  were  first  asked  who
 they  were,  they  answered  '  men,'  meaning  that  they  were  not
 demons  or  ghosts,  but  living  men  ;  and  they  did  so  because
-they  did  not  believe  their  visitors  to  be  men,  but  ghosts  them-
-selves, or  demons,  or  spirits  belonging  to  the  sea.
+they  did  not  believe  their  visitors  to  be  men,  but  ghosts  themselves, or  demons,  or  spirits  belonging  to  the  sea.
 
 In  the  native  view  of  mankind,  almost  everywhere  in  the
 islands  which  are  here  under  consideration,  nothing  seems
@@ -1493,8 +1442,7 @@ of  it  forms  probably  the  first  social  conception  which  shapes
 itself  in  the  mind  of  the  young  Melanesian  of  either  sex,  and
 it  is  not  too  much  to  say  that  this  division  is  the  foundation
 on  which  the  fabric  of  native  society  is  built  up.  There  are
-no  Tribes  among  the  natives ;  if  the  word  tribe  is  to  be  ap-
-plied as  it  is  to  the  Maori  people  of  New  Zealand,  or  as  it  is
+no  Tribes  among  the  natives ;  if  the  word  tribe  is  to  be  applied as  it  is  to  the  Maori  people  of  New  Zealand,  or  as  it  is
 used  in  Fiji.  No  portion  of  territory,  however  small,  can  be
 said  to  belong  to  any  one  of  tbese  divisions  ;  no  single  family
 of  natives  can  fail  to  consist  of  members  of  more  than  one
@@ -1583,8 +1531,7 @@ relaxed,  money  and  pigs  can  condone  the  offence,  but  much
 more  than  is  exacted  if  a  man  is  found  sinning  with  one  who
 might  possibly  have  become  his  wife.  In  the  Banks'  Islands,
 where  the  divisions  of  the  people  are  two,  if  it  became  known
-that  two  members  of  one  of  them  had  been  guilty  of  this  dis-
-graceful crime,  as  they  considered  it,  the  people  of  the  other
+that  two  members  of  one  of  them  had  been  guilty  of  this  disgraceful crime,  as  they  considered  it,  the  people  of  the  other
 division  would  come  and  destroy  the  gardens  of  those  who
 belonged  to  that  in  which  the  offence  had  been  committed,
 and  these  would  make  no  resistance  nor  complaint.    It  was
@@ -1623,8 +1570,7 @@ islanders  know  theirs  in  Espiritu  Santo.  Strange,  therefore,
 as  the  language  is  to  a  Mota  man  in  Pentecost,  or  to  a  Lepers'
 islander  in  Motalava,  each  is  at  home  in  a  way  which  would  be
 impossible  to  him  in  the  Solomon  Islands1.  In  neither  the
-Banks'  Islands  nor  the  New  Hebrides  is  there  a  name  to  dis-
-tinguish the  division  or  kindred ;  nor  is  there  any  badge  or
+Banks'  Islands  nor  the  New  Hebrides  is  there  a  name  to  distinguish the  division  or  kindred ;  nor  is  there  any  badge  or
 emblem  belonging  to  either ;  in  their  small  communities
 every  neighbour  is  well  known.    Each  of  the  divisions  is  in
 
@@ -1662,8 +1608,7 @@ to  the  wife,  and  care  is  taken  to  conceal  the  fact  of  adoption.
 When  the  child  grows  up  and  by  some  chance  finds  out  that
 he  has  been  brought  up  on  the  wrong-  '  side  of  the  house/  he
 will  leave  his  foster  parents,  and  go  and  live  with  his  own
-sogoi.  Much  grief  and  bitterness  is  caused  by  such  a  dis-
-covery.
+sogoi.  Much  grief  and  bitterness  is  caused  by  such  a  discovery.
 
 In  Aurora,  Maewo,  the  nearest  of  the  New  Hebrides  to  the
 Banks'  Islands,  with  one  of  which,  Merlav,  there  is  a  good
@@ -1675,9 +1620,6 @@ of  Gaua  and  Merlav  are  counted  the  same  with  three  groups  at  Mota,  
 Gapmaras  of  Takelvarea,  the  Wotawota  of  Maligo,  and  the  Liwotuqe  of  Gatava
 These  family  groups  lie  within  the  veve,  but  do  not  take  in  all  the  veve  :  neither
 side  of  the  house  is  exhaustively  divided  into  family  groups
-
-
-26
 
 
 Social  Regulations.
@@ -1711,8 +1653,7 @@ if  such  a  one  were  among  them  they  thought  that  they  would
 die1.
 
 In  Araga,  Pentecost  Island,  though  irregular  intercourse
-between  members  of  the  same  kin  is  punished  by  the  de-
-struction of  the  gardens  of  the  offending  side  by  the  members
+between  members  of  the  same  kin  is  punished  by  the  destruction of  the  gardens  of  the  offending  side  by  the  members
 of  the  other,  yet  marriages  within  the  kin  are  not- unknown.
 Those  who  contract  them  are  despised,  and  even  abhorred,
 but  money  and  pigs  having  been  given  and  received,  the
@@ -1769,9 +1710,6 @@ of  the  feast.  The  stories  also  of  the  creation  of  mankind,
 and  particularly  of  woman,  represent  individual  marriage.
 
 
-28
-
-
 Social  Regulations.
 
 
@@ -1801,8 +1739,7 @@ the  particular  woman  who  bore  him,  but  of  the  whole  kindred
 for  whom  she  brought  him  into  the  world.    By  a  parallel  use
 to  this  a  plural  form  is  given  to  the  Mota  word  for  child,
 reremera,  with  a  doubled  plural  sign  ;  a  single  boy  is  called  not
-'  child '  but  '  children,'  as  if  his  individuality  were  not  dis-
-tinguished from  the  common  offspring  of  his  veve.    The  same
+'  child '  but  '  children,'  as  if  his  individuality  were  not  distinguished from  the  common  offspring  of  his  veve.    The  same
 plural  prefix  is  found  in  other  Banks'  Island  words  meaning
 mother ;  rave  in  Santa  Maria,  retne  in  Vanua  Lava,  rente  in
 Torres  Islands.    The  mother  is  called  raialu  in  Whitsuntide,
@@ -1821,10 +1758,8 @@ ii.]      Testimony  of  Words.    Agnatic  Descent.  29
 
 composite  married  body.  The  Mota  people  know  that  the
 word  they  use  means  this ;  it  was  owned  to  myself  with  a
-blush  that  it  was  so,  with  a  Melanesian  blush,  and  a  protesta-
-tion that  the  word  did  not  represent  a  fact.  The  word  used
-in  Motlav,  part  of  Saddle  Island,  gives  hardly  the  less  con-
-firmation to  this  interpretation  of  the  Mota  word  because  it
+blush  that  it  was  so,  with  a  Melanesian  blush,  and  a  protestation that  the  word  did  not  represent  a  fact.  The  word  used
+in  Motlav,  part  of  Saddle  Island,  gives  hardly  the  less  confirmation to  this  interpretation  of  the  Mota  word  because  it
 has  not  a  plural  form  ;  in  Motlav  ignige  has  the  same  meaning
 with  the  Mota  soai ;  a  man  says  of  his  leg  or  his  arm  ignih,
 my  membei',  one  of  my  members,  and  he  calls  also  his  wife
@@ -1882,8 +1817,7 @@ Himbo,  perhaps  only  as  strangers,  go  together  ;  and  the  Lahi,
 a  small  division,  are  said  to  be  so  closely  connected  with  Himbo
 that  the  members  cannot  intermarry.  Whether  Honggokama
 and  Manukama  are  names  of  one  kema,  or  of  two  divisions
-into  which  the  one  is  separating,  is  a  question.  The  Honggo-
-kama and  the  Honggo-kiki,  the  great  and  the  little,  are  plainly
+into  which  the  one  is  separating,  is  a  question.  The  Honggokama and  the  Honggo-kiki,  the  great  and  the  little,  are  plainly
 parts  of  one  original.  It  is  not  the  case  in  Florida  that  an
 originally  double  division  has  simply  split  and  split  again ;
 but  the  settlement  of  foreigners  has  so  complicated  the
@@ -1921,8 +1855,7 @@ believed  to  be  themselves  the  divided  other  member  of  the
 original  pair.  The  meaning  of  the  names  of  three  of  the
 Florida  kema,  besides  the  two  that  are  local,  are  known ;
 Honggo  is  cat's-cradle,  Manukama  is  an  eagle,  Kakau  is  a
-crab.  It  is  evident  that  when  the  divisions  of  a  people  mul-
-tiply names  must  be  given  them  ;  where  there  are  two  '  sides  of
+crab.  It  is  evident  that  when  the  divisions  of  a  people  multiply names  must  be  given  them  ;  where  there  are  two  '  sides  of
 the  bouse'  no  name  is  needed  for  either,  but  when  a  man  may
 have  wives  and  children  of  three  or  four  kindreds  not  his  own,
 a  name  for  each  kin  is  necessary  to  maintain  the  matriarchal
@@ -2004,13 +1937,9 @@ II.]
 Florida  Divisions.
 
 
-33
-
-
 in  that  island,  that  the  people  of  the  .place  would  not  eat
 bananas,  and  had  ceased  to  plant  the  tree.  It  was  found
-that  the  origin  of  this  restraint  was  recent  and  well  re-
-membered ;  a  man  of  much  influence  had  at  his  death  not
+that  the  origin  of  this  restraint  was  recent  and  well  remembered ;  a  man  of  much  influence  had  at  his  death  not
 long-  ago  prohibited  the  eating  of  bananas  after  his  decease,
 saying  that  he  would  be  in  the  banana.  The  elder  natives
 would  still  give  his  name  and  say,  '  We  cannot  eat  So-and-
@@ -2032,8 +1961,7 @@ of  the  members  of  each  kema  is  intermixed  with  that  of  the
 others.  In  a  considerable  village  the  principal  chief  is  the
 head  of  the  kema  which  predominates  there,  and  he  exercises
 his  authority  over  all,  while  the  principal  men  of  the  less
-numerous  kema  are  lesser  chiefs.  It  is  evident  that  the  pre-
-dominance of  any  kema  cannot  be  permanent.  A  chiefs  sons
+numerous  kema  are  lesser  chiefs.  It  is  evident  that  the  predominance of  any  kema  cannot  be  permanent.  A  chiefs  sons
 are  none  of  them  of  his  own  kin  ;  and,  as  will  be  shewn,  he
 passes  on  what  he  can  of  his  property  and  authority  to  them.
 If  then  in  a  certain  district  one  kindred  is  now  most  numerous,
@@ -2042,15 +1970,11 @@ those  now  most  numerous  will  be  naturally  many  more  in
 
 1  When  some  outrage  on  white  men  has  been  committed  the  'tribe'  is
 supposed  responsible;  but  any  party  of  natives  concerned  is  sure  to  be
-made  up  of  members  of  both  veve  or  several  Tcema,  and  some  of  these  prob-
-ably do  not  belong  to  the  place  where  the  outrage  is  committed.  Of  the  five
+made  up  of  members  of  both  veve  or  several  Tcema,  and  some  of  these  probably do  not  belong  to  the  place  where  the  outrage  is  committed.  Of  the  five
 natives  who  cut  off  the  boat  at  Mandoliana  in  1880,  only  two  were  of  the  same
 kema,  and  only  one  was  at  home  at  Gaeta.
 
 D
-
-
-1
 
 
 34  Divisions  of  the  People.  [CH.
@@ -2079,11 +2003,9 @@ between  his  sister's  children  and  himself  has  the  strength  of
 the  traditional  bond  of  all  native  society,  that  of  kinship
 through  the  mother.  The  youth  as  he  begins  to  feel  social
 wants,  over  and  above  the  food  and  shelter  that  his  father
-p-ives  him,  looks  to  his  mother's  brother  as  the  male  re-
-presentative  of  his  kin.  It  is  well  known  that  in  Fiji  the
+p-ives  him,  looks  to  his  mother's  brother  as  the  male  representative  of  his  kin.  It  is  well  known  that  in  Fiji  the
 vasu,  the  sister's  son,  has  extraordinary  rights  with  his
-maternal  uncle.  The  corresponding  right  is  much  less  con-
-spicuous and  important  than  this  in  the  Melanesian  Islands
+maternal  uncle.  The  corresponding  right  is  much  less  conspicuous and  important  than  this  in  the  Melanesian  Islands
 west  of  Fiji ;  but  it  is  a  matter  of  course  that  the  nephew
 should  look  to  his  mother's  brother  for  help  of  every  kind,
 and  that  the  uncle  should  look  upon  his  sister's  son  as  his
@@ -2098,8 +2020,7 @@ caused  by  marriage  between  members  of  the  groups  and
 h.]  Banks  Island  System.  35
 
 families  is  a  third  relation  equally  felt  and  expressed  in  words.
-The  terms  therefore  in  which  the  various  degrees  of  relation-
-ship are  conveyed  fall  into  three  classes ;  the  first  of  the  kin-
+The  terms  therefore  in  which  the  various  degrees  of  relationship are  conveyed  fall  into  three  classes ;  the  first  of  the  kin-
 ship through  the  mother,  the  second  of  the  family  generally
 on  father's  and  mother's  side,  the  third  those  following  on
 marriage.
@@ -2135,8 +2056,7 @@ can  be  arranged  in  four  successive  stages  of  generation  ;  the
 grandparents,  the  parents,  the  children,  the  grandchildren.
 Take  the  present  generation,  tarangiu,  of  young  married  men
 and  women ;  they  are  brothers  and  sisters ;  the  generation
-above  them  are  their  fathers  and  mothers  ;  the  generation  be-
-low them  are  their  children  ;  the  generation  below  that  will  be
+above  them  are  their  fathers  and  mothers  ;  the  generation  below them  are  their  children  ;  the  generation  below  that  will  be
 their  grandchildren,  to  whom  again  all  who  come  before  their
 
 D  2
@@ -2179,8 +2099,7 @@ a  misconception  with  the  explanation,  'my  own  child,  tur
 1  It  may  be  observed  that  the  principal  terms  of  relationship  are  generally
 the  same,  not  only  in  the  Melanesian  islands  here  in  view,  but  throughout  the
 languages  with  which  the  Melanesian  languages  -are  connected  ;  mother  being
-an  exception.  Common  words  however  are  not  always  used  in  the  same  appli-
-cation, as  the  Florida  tubw  is  no  doubt  the  Mota  tupu.
+an  exception.  Common  words  however  are  not  always  used  in  the  same  application, as  the  Florida  tubw  is  no  doubt  the  Mota  tupu.
 
 
 iji  A  Mota  Family.  37
@@ -2189,8 +2108,7 @@ natuk ;  his  real  father,  tur  tamana ;  iur  tasina,  his  brother  not
 his  cousin1.'
 
 (3)  A  general  term  qaliga  embraces  all  of  the  other  side  of
-the  house  who  have  been  brought  near  by  marriage,  fathers-
-in-law,  mothers-in-law,  sons-  and  daughters-in-law,  and  all
+the  house  who  have  been  brought  near  by  marriage,  fathersin-law,  mothers-in-law,  sons-  and  daughters-in-law,  and  all
 their  brothers  and  sisters.  A  man  and  his  wife's  brother  call
 one  another  wulus,  and  a  woman  and  her  husband's  sister  call
 one  another  walu  ;  but  the  man  is  also  called  walu  ;  and  both
@@ -2200,8 +2118,7 @@ she  is  nothing  to  him,  though  her  children,  being  his  brother's
 children,  are  called  his.  A  man  calls  his  daughter-in-law
 tawarig.  There  is,  moreover,  a  term  of  marriage  relation  to
 which  no  equivalent  exists  in  English  ;  parents  whose  children
-have  intermarried  call  one  another  gasala,  which  may  be  trans-
-lated fellow- wayfarers.
+have  intermarried  call  one  another  gasala,  which  may  be  translated fellow- wayfarers.
 
 A  genealogical  table  or  pedigree  of  a  Mota  family  (see  p.  38)
 will  supply  examples  of  the  various  relationships  subsisting,
@@ -2250,8 +2167,6 @@ I
 
 r  "2.
 
-33
-
 
 1^
 
@@ -2259,7 +2174,6 @@ r  "2.
 I-
 
 
-3
 Ph
 
 /-—•>.
@@ -2275,8 +2189,6 @@ _fl  m
 O  N
 
 
-02
-
 O
 «
 
@@ -2291,7 +2203,6 @@ Eh
 
 $  a
 
-3
 
 S
 
@@ -2335,9 +2246,6 @@ E-t
 *  a  *
 
 
-10
-
-
 §..1  §l
 
 laic
@@ -2354,9 +2262,6 @@ O      H  M
 
 
 s  -IS    b  -a
-
-
-33
 
 
 d
@@ -2377,7 +2282,6 @@ S
 £  £  is
 ess
 
-1
 
 .3
 
@@ -2401,7 +2305,6 @@ u
 
 iwal
 
-5
 
 Joh:
 
@@ -2416,12 +2319,6 @@ s
 
 R
 
-0
-0
-
-1
-
-0
 
 a
 
@@ -2431,7 +2328,6 @@ Pi
 
 s
 
-0
 
 n
 
@@ -2458,17 +2354,14 @@ uncle  properly  to  his  first  cousins  John  and  Agnes,  though,  as
 they  are  of  the  same  generation  and  older  than  himself,  he
 calls  them  improperly  brother  and  sister :  improperly,  because
 they  are  not  his  sogoi,  and  he  could  in  strictness,  though  not
-with  public  approval,  marry  Agnes.  It  is  still  more  remark-
-able that  J ohn  is  properly  father  or  uncle  to  his  second  cousins
+with  public  approval,  marry  Agnes.  It  is  still  more  remarkable that  J ohn  is  properly  father  or  uncle  to  his  second  cousins
 Tavrowar  and  Mowur,  who  are  much  older  than  himself ;  but
-his  father  Pantutun  is  their  great-uncle,  tupui,  and  he  is  there-
-fore their  uncle,  tamai,  or  as  it  naturally  sounds  to  us  their
+his  father  Pantutun  is  their  great-uncle,  tupui,  and  he  is  therefore their  uncle,  tamai,  or  as  it  naturally  sounds  to  us  their
 father 1.  The  case  of  Matevagqoe  and  Ro  Tapermaro  is  distinct
 from  this :  he  married  her  brother's  daughter,  and  to  do  that
 must  have  been  of  her  side  of  the  house,  her  sogoi.  If  it  had
 been  her  sister's  daughter,  she  and  her  niece's  husband  would
-be  qaliga  ;  but  that  cannot  be  between  sogoi,  so  they  call  them-
-selves cousins,  brother  and  sister.
+be  qaliga  ;  but  that  cannot  be  between  sogoi,  so  they  call  themselves cousins,  brother  and  sister.
 
 The  pedigree  here  exhibited  does  not  shew  the  polygamy
 
@@ -2531,8 +2424,7 @@ and,  with  more  or  less  attention  to  nearness  of  blood,  brothers
 and  sisters ;  that  is  to  say,  an  elder  brother  or  sister  is  tuga  to
 one  of  the  same  sex,  and  a  younger  brother  or  sister  is  tah,
 while  a  brother  or  sister  is  vavine  to  one  of  the  other  sex.
-With  the  exception  of  the  mother's  brother,  the  blood  rela-
-tions of  the  ascending  generation  are  all  father  and  mother,
+With  the  exception  of  the  mother's  brother,  the  blood  relations of  the  ascending  generation  are  all  father  and  mother,
 tama  and  Una.  In  the  generation  above,  with  the  exception
 of  the  father's  mother's  brother  aforesaid,  who  is  tumbu,  all
 male  and  female  are  JcuJcua.  In  descending  a  man's  sons  and
@@ -2544,10 +2436,8 @@ and  her  husband's  brother's  and  sister's  children  are  all  her
 children,  dale  mane  male,  dale  vaivine  female.  Descending  to
 the  next  generation,  all  are  again  kukua  to  their  grandparents
 and  great  uncles  and  aunts,  and  all  above  them  ;  except  that,
-as  aforesaid,  the  relation  of  tumbu  subsists  between  a  great-
-nephew  and  his  father's  mother's  brother.  Husband  and  wife
-are  tau.  A  father-  or  mother-in-law,  and  son-  or  daughter-in-
-law,  is  vungo,  the  term  being  applied  widely  to  persons  con-
+as  aforesaid,  the  relation  of  tumbu  subsists  between  a  greatnephew  and  his  father's  mother's  brother.  Husband  and  wife
+are  tau.  A  father-  or  mother-in-law,  and  son-  or  daughter-inlaw,  is  vungo,  the  term  being  applied  widely  to  persons  con-
 nected by  marriage  who  are  not  of  the  same  generation.
 Brothers-  and  sisters-in-law,  and  generally  persons  of  the  same
 generation  connected  by  marriage,  are  iva  to  one  another  \
@@ -2568,8 +2458,7 @@ of  family  relationship  very  different  there  from  that  which
 has  been  described  as  prevailing-  in  the  Banks'  Islands  and  in
 Florida.    To  a  very  considerable  extent  no  doubt  this  is  so ;
 but  it  is  improbable  that  the  peculiar  closeness  of  relation
-between  a  man  and  his  sister's  son  should  entirely  fail  to  ap-
-pear.   Of  this  I  have  little  evidence  to  offer  1 ;  the  families  are
+between  a  man  and  his  sister's  son  should  entirely  fail  to  appear.   Of  this  I  have  little  evidence  to  offer  1 ;  the  families  are
 formed  upon  the  father,  and  tbe  only  restriction  upon  marriage
 is  nearness  in  blood.   To  whatever  extent,  however,  it  may  be
 that  descent  through  the  father  removes  that  characteristic
@@ -2584,8 +2473,7 @@ as  their  children,  and  the  children  call  them  all  fathers  and
 mothers ;  the  ancestors  above  father  and  mother,  and  the
 descendants  in  the  second  and  lower  generations,  are  all  united
 under  one  general  term,  which  covers  ancestry  and  posterity
-alike.    At  Wango  in  San  Cristoval,  where  owing  to  immo-
-rality and  infanticide  the  population  has  been  kept  up  by  the
+alike.    At  Wango  in  San  Cristoval,  where  owing  to  immorality and  infanticide  the  population  has  been  kept  up  by  the
 adoption  of  children  from  the  bush,  adopted  children  take  the
 position  in  the  family  which  would  have  been  theirs  if  they
 had  been  born  in  it ;  although  no  blood  relationship  exists,  they
@@ -2662,8 +2550,7 @@ being  still  made,  he  looked  round  to  be  sure  that  no  one  was
 near  and  whispered,  not  the  name  of  his  son's  wife,  but  the
 respectful  substitute  for  her  name,  amen  Mulegona,  she  who
 was  with  his  son,  and  whose  name  was  Tawurima,  Hind-house  K
-Thus,  referring  to  the  Mota  pedigree  given  on  page  38,  Leve-
-veg  could  not  use  the  common  words  mate,  to  die,  or  qoe,
+Thus,  referring  to  the  Mota  pedigree  given  on  page  38,  Leveveg  could  not  use  the  common  words  mate,  to  die,  or  qoe,
 pig,  because  of  his  son-in-law  Matevagqoe ;  Virsal  could  not  use
 the  common  words  panei,  hand,  or  tutun,  hot,  because  of  his
 wife's  brother's  name,  or  even  the  numeral  tuwale,  one,  because
@@ -2737,8 +2624,7 @@ CHAPTER  III.
 
 SOCIAL  REGULATIONS.  CHIEFS.
 
-It  has  been  shewn  that  the  social  structure  in  these  Mela-
-nesian  islands  is  not  tribal,  and  it  will  have  been  observed
+It  has  been  shewn  that  the  social  structure  in  these  Melanesian  islands  is  not  tribal,  and  it  will  have  been  observed
 therefore  that  there  can  be  no  political  structure  held  together
 by  the  power  of  tribal  chiefs  ;  but  chiefs  exist,  and  still  have
 in  most  islands  important  place  and  power,  though  never
@@ -2748,8 +2634,7 @@ persuasion  that  savage  people  are  always  ruled  by  chiefs.  A
 trader  or  other  visitor  looks  for  a  chief,  and  finds  such  a  one
 as  he  expects  ;  a  very  insignificant  person  in  this  way  comes
 to  be  called,  and  to  call  himself,  the  king  of  his  island,  and
-his  consideration  among  his  own  people  is  of  course  enor-
-mously enhanced  by  what  white  people  make  of  him.  The
+his  consideration  among  his  own  people  is  of  course  enormously enhanced  by  what  white  people  make  of  him.  The
 practice  moreover  of  the  commanders  of  ships  of  war  by  which
 local  chiefs  are  held  responsible  for  the  conduct  of  their  people,
 and  are  treated  as  if  they  had  considerable  power,  undoubtedly
@@ -2769,9 +2654,6 @@ Banks'  Islands,  and  the  New  Hebrides,  as  supplied  by  natives
 Power  of  Chiefs,
 
 
-47
-
-
 of  those  groups  respectively,  who  well  knew  what  they  were
 speaking  about.  A  Florida  Vunagi  kept  order  in  his  place,
 directed  the  common  operations  and  industries,  represented
@@ -2785,20 +2667,17 @@ him  at  his  word.  He  inflicts  fines,  and  can  oider  a  man  to  be
 put  to  death.  At  Banks'  Islands  the  Tavusmele  or  Etvusmel
 in  former  days  kept  order,  gave  commands  about  the  common
 concerns  of  the  place,  arranged  difficulties  with  neighbouring
-villages,  could  order  an  offender  (one  for  example  who  had  be-
-witched or  poisoned  another)  to  be  put  to  death,  or  to  pay  a
+villages,  could  order  an  offender  (one  for  example  who  had  bewitched or  poisoned  another)  to  be  put  to  death,  or  to  pay  a
 fine  of  pigs.  In  Lepers'  Island  the  RataJdgi  commands  or
 forbids  in  such  matters  as  fishing,  voyaging,  and  building ;
 he  can  order  an  offender  to  be  shot  or  clubbed,  or  to  give
 a  fine  of  pigs.  In  each  of  these  cases  it  may  be  added  that
-the  chief  has  with  him  young  men  who  have  attached  them-
-selves to  him  and  cany  out  his  commands,  and  that  the
+the  chief  has  with  him  young  men  who  have  attached  themselves to  him  and  cany  out  his  commands,  and  that  the
 chief  has  no  more  property  in  or  dominion  over  land  than
 another  man.  Further  details  as  to  the  position  and  power  of
 chiefs  in  the  various  islands  will  be  hereafter  given.
 
-A  point  of  difference  between  the  Polynesian  and  Mela-
-nesian  sections  of  the  Pacific  peoples  is  the  conspicuous
+A  point  of  difference  between  the  Polynesian  and  Melanesian  sections  of  the  Pacific  peoples  is  the  conspicuous
 j>resence  in  the  former,  and  the  no  less  conspicuous  absence
 in  the  latter,  of  native  history  and  tradition.  In  the
 Melanesian  islands,  with  one  notable  exception,  the  enquirer
@@ -2843,8 +2722,7 @@ found  at  Saa  in  Malanta,  and  is  so  remarkable  and  characteristic
 of  native  life  that  the  story  must  be  told  at  length.    The  larger
 and  principal  part  of  the  present  inhabitants  of  Saa  ani  menu
 came  from  Saa  haalu,  inland  not  very  far  off,  eleven  generations
-ago.    The  migration  took  place  under  the  following  circum-
-stances.   There  were  four  brothers  at  the  ancient  Saa,  of  whom
+ago.    The  migration  took  place  under  the  following  circumstances.   There  were  four  brothers  at  the  ancient  Saa,  of  whom
 the  eldest  was  the  chief ;  two  were  named  Pau-ulo,  the  eldest
 Pauulo  paina,  the  great,  the  second  Pauulo  oou,  the  champion  ;
 
@@ -2858,9 +2736,6 @@ III.]
 
 
 History  of  Saa.
-
-
-49
 
 
 the  two  younger  had  the  same  name,  Ro  Ute  seu  oo'u1.
@@ -2915,14 +2790,12 @@ made,  so  that  in  the  end  three  settlements  were  formed  of
 people  who  counted  themselves  of  kin.    The  inhabitants  of
 what  is  now  Saa  ani  menu  received  the  fugitives  with  Pauulo
 Paina,  and  his  descendants  in  the  male  line  have  ever  since
-been  the  hereditary  chiefs  \    The  descendants  of  the  old  in-
-habitants are  now  but  few  and  of  the  lower  orders,  but  they
+been  the  hereditary  chiefs  \    The  descendants  of  the  old  inhabitants are  now  but  few  and  of  the  lower  orders,  but  they
 are  still  the  owners  of  the  land.    It  has  never  occurred  to  the
 Saa  immigrants  to  dispossess  them ;  the  new-comers  remain,
 eyen  the  chiefs,  landless  men,  except  so  far  as  a  little  has  been
 given  to  them  and  a  little  sold;  they  have  always  been
-allowed  what  they  wanted  for  their  gardens,  and  have  been  con-
-tent.   When  the  move  was  made  there  was  no  great  difference
+allowed  what  they  wanted  for  their  gardens,  and  have  been  content.   When  the  move  was  made  there  was  no  great  difference
 m  speech,  and  there  is  none  now  in  words;  but  the  older
 race  speak  very  slowly,  and  may  be  distinguished  now  by  that
 slow  habit  of  speech.
@@ -2933,8 +2806,7 @@ chiefs  with  a  history,  and  with  descent  in  the  male  line.  All
 of  that  family  are  born  in  a  certain  sense  chiefs,  the  eldest  son
 succeeding  to  the  position  of  his  father  as  principal  chief
 unless  he  be  judged  incompetent.  If  he  turns  out  a  bad,
-vicious  man  he  loses  respect  and  power,  and  his  brother  in-
-sensibly replaces  him.  Sometimes  a  man  will  retire  because
+vicious  man  he  loses  respect  and  power,  and  his  brother  insensibly replaces  him.  Sometimes  a  man  will  retire  because
 he  knows  his  own  unfitness2.    The  chief's  power  therefore
 
 1  The  eleven  generations  from  Pauulo  to  the  present  chiefs  are  kept  in  mind
@@ -2953,13 +2825,11 @@ important  man.    It  should  be  observed  that  thus  the  particularly  clos
 m.]  Hereditary  Element.  5 1
 
 at  Saa  comes  from  his  birth  and  personal  qualities,  not  from  his
-intimacy  with  supernatural  beings  and  his  magical  know-
-ledge ;  he  may  have  these,  and  is  in  fact  pretty  sure  to
+intimacy  with  supernatural  beings  and  his  magical  knowledge ;  he  may  have  these,  and  is  in  fact  pretty  sure  to
 have  them,  but  if  one,  like  Dorawewe  now,  sacrifices  for
 the  family,  it  is  not  as  chief,  but  because  he  has  had  the
 knowledge  how  to  do  it  passed  on  to  him.  In  the  same  way
-the  chief  curses  in  the  name  of  a  lid  a,  powerful  ghost,  for-
-bidding something  to  be  done  under  the  penalty  of  death,
+the  chief  curses  in  the  name  of  a  lid  a,  powerful  ghost,  forbidding something  to  be  done  under  the  penalty  of  death,
 taboos,  because  of  his  ancestral  connexion  with  that  lid  a.
 Pie  inherits  wealth  from  his  father,  and  adds  to  it  by  the  fines
 he  imposes  and  by  the  gifts  of  the  people ;  but  no  wealth  or
@@ -3047,9 +2917,6 @@ of  Mboli  the  duty  of  apprehending  a  certain  offender,  and  keeping  him
 Chiefs  in  Florida.
 
 
-53
-
-
 fine  was  an  active  one  ;  a  chief  forbids  under  penalty  of  a
 fine,  which  is  a  form  of  taboo ;  he  orders  one  who  has  done
 wrong  or  has  offended  him  to  pay  a  certain  sum  of  money  to
@@ -3101,8 +2968,7 @@ make  over  the  dead  chief's  property  to  their-  chosen  head.
 Sometimes  a  man  would  assert  himself  and  claim  to  be  chief,
 on  the  ground  that  the  late  chief  had  designated  him,  or
 because  he  had  already  a  considerable  following  (belonging
-perhaps  to  an  increasing  kema,  as  the  dead  chief  to  a  de-
-creasing  one),  or  boldly  standing  forth  and  crying  out  to  the
+perhaps  to  an  increasing  kema,  as  the  dead  chief  to  a  decreasing  one),  or  boldly  standing  forth  and  crying  out  to  the
 people  that  he  was  chief.  Without  a  chief  a  village  would  be
 broken  up  1.
 
@@ -3132,16 +2998,14 @@ chiefs  of  the  other  districts,  his  cousins,  came  to  get  their  share  
 and  were  hospitably  entertained  ;  but  the  chiefs  of  Honggo,  Liukolilia  and
 Tambukoru,  of  the  Manukama  kema,  would  have  attacked  the  Gaeta  people  in
 their  headless  state,  if  Charles  Snpimbuana,  the  Christian  teacher,  himself  a
-Manukama,  had  not  got  pigs  and  money  together  and  bought  them  off.  With-
-out a  chief  the  Gaeta  people  would  have  dispersed  ;  no  Christian  could  be  a  chief
+Manukama,  had  not  got  pigs  and  money  together  and  bought  them  off.  Without a  chief  the  Gaeta  people  would  have  dispersed  ;  no  Christian  could  be  a  chief
 of  the  ancient  sort,  and  the  Christian  teachers  had  all  agreed  among  themselves
 that  they  would  take  no  place  of  such  authority.
 
 
 mi  Chiefs  in  Banks  Islands.  55
 
-in  Vanua  Lava  and  Mota.  Still  there  was  a  name  meaning-
-chief,  etvusmel,  tamsmele,  and  a  native  of  Motlav  who  resided
+in  Vanua  Lava  and  Mota.  Still  there  was  a  name  meaningchief,  etvusmel,  tamsmele,  and  a  native  of  Motlav  who  resided
 some  weeks  in  Florida,  in  the  district  where  Takua  was  counted
 a  great  chief,  bears  witness  that  he  saw  no  great  difference
 between  that  vunagi  and  the  etvusmel  of  his  own  home  \  The
@@ -3164,8 +3028,7 @@ but  two,  and  each  of  them  in  alternate  generations  more
 numerous  than  the  other,  the  chief  man  was  regularly  found
 on  the  most  powerful  side  of  the  house.  Thus  it  can  be  said
 that  the  succession  of  Etvusmel  at  Motlav  has  been  from
-father  to  son  as  long  as  can  be  remembered,  and  will  so  con-
-tinue, thongh  with  lessened  consequence.  Besides  those  who
+father  to  son  as  long  as  can  be  remembered,  and  will  so  continue, thongh  with  lessened  consequence.  Besides  those  who
 were  really  chiefs  many  men  were  called  *  great  men,'  and  had
 considerable  influence  in  their  villages,  men  who  had  been
 
@@ -3253,8 +3116,7 @@ of  pig 1 :  then  Mairuru,  he  said,  himself  appeared  to  him  and
 gave  him  the  mana,  the  magic  chant,  with  which  he  was  to
 work  the  stone  for  producing  abundance  of  those  pigs.  When
 he  showed  the  stone  the  people  believed  his  story ;  but  in  the
-event  nothing  came  of  his  mana,  and  Mairuru  had  no  suc-
-cessor.   It  appears,  therefore,  that  in  Lepers'  Island  and  in
+event  nothing  came  of  his  mana,  and  Mairuru  had  no  successor.   It  appears,  therefore,  that  in  Lepers'  Island  and  in
 Araga,  as  elsewhere,  the  real  ground  on  which  the  power  of
 a  chief  rests  is  that  of  belief  in  the  mana  he  possesses,  with
 
@@ -3286,8 +3148,7 @@ PEOPERTY  AND  INHERITANCE.
 Ijj  the  character  of  property  and  in  the  laws  of  succession
 to  property,  there  is  hardly  any  difference  to  be  found  in  the
 Melanesian  islands  with  which  we  are  concerned ;  in  all  it
-may  be  said  that  property  is  in  land  and  in  personal  posses-
-sions ;  that  there  is  a  certain  distinction  between  land  which
+may  be  said  that  property  is  in  land  and  in  personal  possessions ;  that  there  is  a  certain  distinction  between  land  which
 has  been  inherited  and  that  which  has  been  reclaimed  from
 the  waste ;  that  there  is  no  strictly  communal  property  in
 land ;  and  that  with  landed  and  personal  property  alike,  the
@@ -3358,8 +3219,7 @@ tribes.
 iv  n  Land  and  Trees.  b 1
 
 every  single  individual  discussed  and  satisfied.  A  fruit-tree
-planted  on  another's  land,  with  his  consent,  remains  the  pro-
-perty of  the  planter  and  of  his  heirs  \  It  is  important  also  to
+planted  on  another's  land,  with  his  consent,  remains  the  property of  the  planter  and  of  his  heirs  \  It  is  important  also  to
 observe  that  the  property,  whether  in  the  villages  or  in  the
 gardens,  does  not  lie  in  large  divisions  corresponding  to  the
 divisions  of  the  people  for  marriage  purposes  into  two  or  more
@@ -3410,8 +3270,7 @@ matanga.  It  happens  naturally,  as  a  village  is  not  inhabited
 by  a  local  tribe,  that  some  of  the  villagers  have  no  property
 of  their  own  in  the  village  or  in  the  neighbouring  garden
 gTounds,  in  which  ease  their  neighbours  accommodate  them
-with  what  they  want.  The  matanga  property  is  never  ab-
-solutely in  the  individual  but  in  the  kema,  being  looked  upon
+with  what  they  want.  The  matanga  property  is  never  absolutely in  the  individual  but  in  the  kema,  being  looked  upon
 as  having  been  cleared  originally  by  the  kema ;  portions  are
 occupied  in  hereditary  succession  by  families  within  the  kema,
 by  an  original  agreement  which  now  has  come  to  be  a
@@ -3430,10 +3289,8 @@ the  property  may  be  forgotten,  and  the  nephews  of  a  deceased
 proprietor  will  claim  it  from  his  sons  and  be  supported  by
 their  kema ;  serious  quarrels  arise  in  this  way.  A  chief,
 vunagi,  differs  in  no  way  from  another  man  in  his  right  to
-property  in  komu  and  matanga  1.  If  a  man  plants  a  cocoa-
-nut-tree,  an  areca  palm-tree,  or  other  useful  tree  on  a?  friend's
-ground,  the  tree  goes  to  the  planter's  son,  and  if  the  land-
-owner continues  friendly  will  pass  on  without  dispute.  A
+property  in  komu  and  matanga  1.  If  a  man  plants  a  cocoanut-tree,  an  areca  palm-tree,  or  other  useful  tree  on  a?  friend's
+ground,  the  tree  goes  to  the  planter's  son,  and  if  the  landowner continues  friendly  will  pass  on  without  dispute.  A
 
 1  Dikea  the  chief  at  Ravu  drove  away  Logana  and  his  family  from  that  place
 on  the  pretext  that  Logana's  brother-in-law  had  set  fire  to  his  canoe-house,  but
@@ -3481,8 +3338,7 @@ the  owner  can  be  found  for  each  piece ;  the  owner  being  the
 one  who  has  for  his  life  the  possession  of  the  portion  of  the
 family  land  which  he  has  inherited  ;  the  lands  and  houses  of
 the  two  veve  are  intermingled ;  the  succession  to  the  land  is
-rightly  with  the  sister's  children.  Here  also  the  uiag  is  dis-
-tinguished into  the  ancient  hereditary  cultivated  ground,  and
+rightly  with  the  sister's  children.  Here  also  the  uiag  is  distinguished into  the  ancient  hereditary  cultivated  ground,  and
 
 
 64  Property  and  Inheritance.  [CH.
@@ -3491,8 +3347,7 @@ that  which  has  been  reclaimed  from  the  moi,  the  uncleared
 forest,  by  the  present  owner  or  his  recent  predecessors.  In
 the  first  case  the  nephews  on  their  mother's  side  of  the
 previous  proprietor  occupy  the  ground,  each  taking  the
-piece  he  wishes  for  his  own  garden,  and  all  having  col-
-lectively a  property  in  the  whole.  The  land  of  the  other
+piece  he  wishes  for  his  own  garden,  and  all  having  collectively a  property  in  the  whole.  The  land  of  the  other
 character  passes  to  the  children  of  the  man  who  has  cleared
 the  forest  from  it ;  his  kin  have  no  claim  to  it.  The  children
 divide  it  into  separate  lots,  and  do  not  in  any  way  hold  the
@@ -3511,8 +3366,7 @@ prospect  of  the  deceased's  brother,  was  the  son  of  their  sister ;
 and  to  him  Woser  gave  money  to  quiet  his  claim.  Upon  this
 Woser,  with  his  two  brothers  and  two  sisters,  entered  upon  the
 Vttag  as  if  they  had  inherited  it ;  that  is,  they  occupied  it  by  a
-common  property  in  the  whole  and  with  a  particular  occu-
-pation of  separate  gardens.  If  a  similar  transaction  were
+common  property  in  the  whole  and  with  a  particular  occupation of  separate  gardens.  If  a  similar  transaction  were
 to  follow  upon  the  death  of  tfcese  present  owners,  who  are  not
 of  their  father's  kin,  the  land  would  go  to  their  children  who
 will  be  not  of  their  kin  but  of  their  mother's ;  the  property
@@ -3547,8 +3401,7 @@ his  own  kin  are ;  the  products  of  the  new  owner's  work  will
 not  be  claimed.  Property  in  trees  is  distinct  from  that  in
 land,  and  goes  to  the  planter's  children.  In  case  therefore  of
 a  sale  of  land  there  is  much  variety  in  the  title  to  the  parcels
-of  ground  and  in  the  ownership  of  the  fruit-trees,  the  know-
-ledge of  which  is  most  minute  and  accurate.  The  exact
+of  ground  and  in  the  ownership  of  the  fruit-trees,  the  knowledge of  which  is  most  minute  and  accurate.  The  exact
 limits  of  each  bit  of  property  are  known,  and  the  value  of  the
 right  to  be  extinguished  is  discussed  and  settled  by  common
 consent 2.
@@ -3594,8 +3447,7 @@ way  of  rent,  was  treated  with  respect  by  the  householders
 because  they  were  not  on  property  of  their  own.
 
 Personal  property— the  pigs  which  are  so  much  valued,  the
-money,  canoes,  ornaments,  weapons,  and  the  various  imple-
-ments used  in  native  life — goes  to  the  children  generally ;  but
+money,  canoes,  ornaments,  weapons,  and  the  various  implements used  in  native  life — goes  to  the  children  generally ;  but
 the  right  of  the  sister's  children  is  still  maintained.  When  a
 man  dies  his  brothers  and  kinsmen,  soffoi,  will  come  and  carry
 off  his  pigs  unless  the  children  buy  them  off;  but  if  a  man
@@ -3611,8 +3463,7 @@ it  is  gone  for  ever.'  In  that  place  a  man's  money  at  his  death
 is  carefully  distributed  in  short  lengths  among  his  children
 and  his  kinsmen,  and  his  pigs  are  distributed  in  the  same
 way ;  the  children  give  money  and  pigs  to  the  kinsmen  that
-they  may  keep  his  personal  belongings,  and  his  land  and  fruit-
-trees,  which  are  then  completely  given  up.  In  the  case  of  the
+they  may  keep  his  personal  belongings,  and  his  land  and  fruittrees,  which  are  then  completely  given  up.  In  the  case  of  the
 death  of  a  native  in  some  place  in  which  he  has  settled  as
 a  stranger,  or  where  he  has  been  on  a  visit,  his  kinsmen,  and
 
@@ -3661,14 +3512,10 @@ looked  upon  as  a  matter  of  course  (the  woman  not  being  much  hurt)  ;
 on  the  best  of  terms  with  his  neighbours  and  relations.
 
 
-68
-
-
 Property  and  Inheritance.
 
 
-and  there  cannot  be  any  difference  between  this  and  his  here-
-ditary property.  Gardens  are  all  fenced.  Fruit-trees  planted  on
+and  there  cannot  be  any  difference  between  this  and  his  hereditary property.  Gardens  are  all  fenced.  Fruit-trees  planted  on
 another  man's  land  remain  the  property  of  the  planter  and  his
 heirs.  It  is  in  the  succession  to  a  man's  personal  property
 that  the  rights  of  kinship  assert  themselves.  On  a  man's
@@ -3694,12 +3541,10 @@ especially  his  sister's  sons,  to  be  his  heirs  not  only  to  the
 hereditary  lands  which  have  come  down  in  the  kin  but  to
 personal  property,  is  yet  strongly  maintained,  even  at  Lepers'
 Island,  where  the  advance  towards  the  patriarchal  system  has
-been  so  considerable.  It  is  probable  that  even  at  Saa  some-
-thing still  survives  of  what  must  have  been  the  original  custom
+been  so  considerable.  It  is  probable  that  even  at  Saa  something still  survives  of  what  must  have  been  the  original  custom
 of  the  ancestors  of  that  people,  as  well  as  of  the  rest  of  the
 Melanesians.  It  is  evident  that  the  newer  form  of  succession
-depends  upon  the  assertion  of  paternity ;  and  as  it  arises  some-
-times on  the  occupation  of  new  ground,  it  may  be  thought  to
+depends  upon  the  assertion  of  paternity ;  and  as  it  arises  sometimes on  the  occupation  of  new  ground,  it  may  be  thought  to
 be  strengthened  by  the  formation  of  new  settlements  after  the
 family  has  established  itself  within  the  kin.
 
@@ -3709,16 +3554,14 @@ CHAPTER  V.
 
 SECEET  SOCIETIES  AND  MYSTERIES.
 
-There  is  certainly  nothing  more  characteristic  of  Molane-
-sian  life  than  the  presence  of  Societies  which  celehrate
+There  is  certainly  nothing  more  characteristic  of  Molanesian  life  than  the  presence  of  Societies  which  celehrate
 Mysteries  strictly  concealed  from  the  uninitiated  and  from  all
 females.  A  dress,  with  a  mask  or  hat,  disguises  the  members
 if  they  appear  in  open  day;  they  have  strange  cries  and
 sounds  by  which  they  make  their  presence  known  when
 they  are  unseen.  In  some  cases,  as  in  Florida  and  Aurora,
 they  make  a  public  show  of  a  piece  of  the  handiwork  of  the
-ghosts  with  whom  it  is  pretended  that  they  have  been  as-
-sociating. Such  societies  are  the  Dukduk  of  New  Britain
+ghosts  with  whom  it  is  pretended  that  they  have  been  associating. Such  societies  are  the  Dukduk  of  New  Britain
 described  by  Mr.  Brown  and  Mr.  Romilly,  the  Matambala  of
 Florida,  the  Tamate  of  the  Banks'  Islands,  the  tiatu  of  the
 Northern  New  Hebrides.  A  photograph  from  New  Caledonia
@@ -3742,8 +3585,7 @@ closely  connected  with  the  Solomon  islanders.    When  it  is  remembered  
 The  Florida  mysteries  were  believed  to  have  been  brought
 from  Ysabel,  where  nothing  of  the  kind  has  as  yet  been
 
-observed.  This  belief,  how-
-ever, serves  to  point  to  a
+observed.  This  belief,  however, serves  to  point  to  a
 connexion  with  the  Dukduk
 of  New  Britain,  in  the  name
 of  which  a  further  connexion
@@ -3754,8 +3596,7 @@ to  be  present ;  in  the  Banks'
 Islands  their  name  is  'The
 Ghosts ; '  in  Santa  Cruz  a
 ghost  is  chtka;  in  Florida
-one  method  of  consulting-
-the  ghosts  of  the  dead  is
+one  method  of  consultingthe  ghosts  of  the  dead  is
 paludulca.  It  is  very  likely
 therefore  that  in  New
 Britain  the  Dukduk  are  also
@@ -3767,17 +3608,14 @@ from  the  bora  of  Australia,
 in  which  the  grown  youth
 of  the  tribe  are  'made  young  men,'  and  have  imparted  to
 them  some  knowledge  of  the  religious  beliefs  and  practices
-of  the  elders.  Grown  men  and  infants,  married  and  un-
-married, are  equally  admitted  to  the  societies  of  Florida
+of  the  elders.  Grown  men  and  infants,  married  and  unmarried, are  equally  admitted  to  the  societies  of  Florida
 and  the  New  Hebrides  ;  and  if  in  the  Banks'  Islands  it
-is  not  customary  to  admit  boys  very  young,  there  is  cer-
-tainly no  limit  of  age  as  regards  admission.  It  is  no
+is  not  customary  to  admit  boys  very  young,  there  is  certainly no  limit  of  age  as  regards  admission.  It  is  no
 doubt  the  case  that  where  these  societies  flourish,  a  youth
 who  has  not  become  a  member  of  one  of  them  does  not
 take  a  position  of  full  social  equality  with  the  young  men
 
-Nanga  appears  to  be  limited  to  a  part  only  of  Viti  Levn  in  Fiji,  and  for  a  long-
-time escaped  notice  there,  it  is  reasonable  to  look  for  the  discovery  of  many
+Nanga  appears  to  be  limited  to  a  part  only  of  Viti  Levn  in  Fiji,  and  for  a  longtime escaped  notice  there,  it  is  reasonable  to  look  for  the  discovery  of  many
 secret  societies  in  Melanesia  which  have  not  jet  been  observed.
 
 
@@ -3796,8 +3634,7 @@ a  preliminary  step  to  matrimony.  It  is  difficult,  in  view  of
 the  strict  secrecy  and  solemnity  of  the  mysteries,  to  believe
 that  there  is  no  knowledge  imparted  in  initiation  of  a  religious
 character.  The  outer  world  of  women  and  children,  and  the
-uninitiated,  matawonoioono, — whose  eyes  were  closed, — undoubt-
-edly believed  that  the  initiated  entered  into  association  with
+uninitiated,  matawonoioono, — whose  eyes  were  closed, — undoubtedly believed  that  the  initiated  entered  into  association  with
 the  ghosts  of  the  dead  ;  the  strange  cries  and  awful  sounds
 that  proceeded  from  the  sacred  and  unapproachable  lodge  of
 the  association,  or  from  the  forest  when  the  members  of  it
@@ -3809,8 +3646,7 @@ but  then  his  disguise  was  not  the  work  of  mortal  hands  ;  and
 the  shrewd  conjecture  that  all  the  rest  were  as  much  men  and
 neighbours  as  the  one  whose  fall  revealed  him  might  be
 entertained,  but  would  be  dangerous  to  express.  It  was  only
-when  the  neophyte  was  admitted  into  the  mysterious  pre-
-cincts that  he  found  only  his  daily  companions  there,  and
+when  the  neophyte  was  admitted  into  the  mysterious  precincts that  he  found  only  his  daily  companions  there,  and
 learnt  that  there  was  nothing  to  be  imparted  to  him  except
 the  knowledge  how  the  sounds  were  produced,  how  the
 dresses  and  decorations  were  made,  and  in  some  cases  a  song
@@ -3963,8 +3799,7 @@ o  tamate,  netmet.  In  the  Torres  Islands  alone  there  are  a
 hundred  of  them,  and  every  man  belongs  to  four  or  five.  The
 chief  society,  the  tamate  liwoa  of  Mota,  is  present  everywhere,
 though  in  some  places  it  is  not  so  important  as  some  more
-exclusive  one  of  local  origin.  Another  association  is  distin-
-guished by  its  peculiar  dance,  and  differs  from  the  others  in
+exclusive  one  of  local  origin.  Another  association  is  distinguished by  its  peculiar  dance,  and  differs  from  the  others  in
 having  no  permanent  lodge  or  club-house;  this,  the  Qat,
 is  found  in  all  the  Banks'  Islands,  but  not  in  the  Torres
 Islands.  All  these  tamate  associations  have  as  their  particular
@@ -4103,8 +3938,7 @@ to  be  the  cry  or  voice  of  the  ghosts.  This  is  a  flat,  smooth  stone
 on  which  the  butt-end  of  the  stalk  of  a  fan  of  palm  is  rubbed.
 The  vibration  of  the  fan  produces  an  extraordinary  sound,
 which  can  be  modulated  in  strength  and  tone  at  the  will  of
-the  performer,  and  which  proceeding  in  the  stillness  of  day-
-break from  the  mysterious  recesses  of  the  salacjoro,  may  well
+the  performer,  and  which  proceeding  in  the  stillness  of  daybreak from  the  mysterious  recesses  of  the  salacjoro,  may  well
 have  carried  with  it  the  assurance  of  a  supernatural  presence
 and  power.  The  origin  of  this  contrivance  is  thus  narrated.
 Two  members  of  the  Great  Tamate  in  Vanua  Lava  going
@@ -4119,8 +3953,7 @@ men  perceived  the  value  of  the  discovery  for  the  purpose
 of  their  mysteries,  ran  in  upon  the  woman  and  killed  her,
 and  carried  off  the  stone  and  her  umbrella.  This  apparatus
 does  the  work  which  the  'bull-roarer,'  too  wrell  known  in
-the  Banks'  Islands  to  be  used  in  mysteries,  performs  else-
-where.
+the  Banks'  Islands  to  be  used  in  mysteries,  performs  elsewhere.
 
 To  obtain  admission  into  any  of  these  societies  is  to  tiro.
 Before  admission  can  be  obtained  to  the  Great  Tamate,  the
@@ -4142,12 +3975,10 @@ v.]  Banks  Island  'Tamate'  81
 into  the  house.  He  has  then  to  goto,  remain  secluded,  so  many
 days  before  he  can  go  back  into  his  village,  and  after  that
 has  to  serve  so  many  days  more  in  the  preparation  of  the
-daily  oven.  The  number  of  days  of  seclusion  and  of  at-
-tendance, and  the  amount  of  the  admission  fees,  vary  with
+daily  oven.  The  number  of  days  of  seclusion  and  of  attendance, and  the  amount  of  the  admission  fees,  vary  with
 the  dignity  of  the  society1.  In  Ureparapara,  where  the
 Great  Tamate  is  not  of  much  importance,  there  are  three  chief
-societies,  Ni  Pir,  No  Vov,  Ne  Menmenclol,  into  which  the  ad-
-mission is  difficult ;  the  new  member  has  to  goto  for  a  hundred
+societies,  Ni  Pir,  No  Vov,  Ne  Menmenclol,  into  which  the  admission is  difficult ;  the  new  member  has  to  goto  for  a  hundred
 
 1  Mr.  Palmer  thus  describes  the  initiation  of  children  at  Pek  in  Vanua
 Lava.  *  A  number  of  children  were  about  to  enter  the  Salagoro,  which  was  the
@@ -4204,11 +4035,9 @@ and  the  uninitiated,  the  matawonowono  who  have  their  eyes
 closed,  are  strictly  excluded.  "Women  will  venture  to  stand
 near  the  entrance  to  the  retreats  of  the  lesser  clubs,  which
 are  often  very  little  secluded  from  the  public  road ;  but
-the  salagoro  of  the  Great  Tamate  and  the  sara  of  the  im-
-portant societies  are  very  carefully  respected.  The  croton
+the  salagoro  of  the  Great  Tamate  and  the  sara  of  the  important societies  are  very  carefully  respected.  The  croton
 leaves  which  are  the  badge  of  each  are  well  known ;  a
-member  of  any  one  will  mark  with  such  a  leaf  the  fruit-
-trees  or  garden  that  he  wishes  to  reserve  for  a  particular
+member  of  any  one  will  mark  with  such  a  leaf  the  fruittrees  or  garden  that  he  wishes  to  reserve  for  a  particular
 use,  and  the  prohibition  will  be  observed  ;  he  has  behind
 him  the  whole  tamate  \  with  whom  an  offender  would  have
 to  deal.
@@ -4233,8 +4062,7 @@ atonement.
 v-]  Banks  Island  'Tamate!  83
 
 into  activity,  with  a  view  to  bring-  themselves  into  evidence,
-to  attract  recruits,  to  impress  the  people  with  a  sense  of  then-
-importance,  and  to  enjoy  a  festival.  Then  they  begin  to  make
+to  attract  recruits,  to  impress  the  people  with  a  sense  of  thenimportance,  and  to  enjoy  a  festival.  Then  they  begin  to  make
 new  masks  and  dresses  within  their  lodge,  and  the  solemn
 sound  of  the  linge  iamate  warns  all  without  that  the  mysteries
 have  begun.  The  country  is  said  to  be  close,  0  vanua  we  gona,
@@ -4254,8 +4082,7 @@ finely  and  daDce.  A  pretty  and  pleasant  scene  it  is  when  two
 or  three  figures  dance  forth  into  the  sunshine  of  the  village
 place ;  their  heads  concealed  in  masks  in  shape  like  the  cowls
 of  Italian  becchini,  coming  down  in  a  point  upon  the  breast,
-and  with  round  eyes  painted  on  the  sides,  white,  and  glisten-
-ing with  scarlet  seeds  and  the  fresh  green  of  the  cycas  fronds ;
+and  with  round  eyes  painted  on  the  sides,  white,  and  glistening with  scarlet  seeds  and  the  fresh  green  of  the  cycas  fronds ;
 their  bodies  hidden  in  golden  brown  cloaks  of  sago  leaves  ;
 
 1  The  smaller  societies  make  their  appearance  with  less  pretence.  '  On  my
@@ -4303,13 +4130,11 @@ rate  the  Araga  tamate  is  different  from  the  Qeta  to  be  hereafter
 described.
 
 Different  from  these  tamate  societies  in  the  Banks'  Islands
-in  having  no  permanent  place  of  resort,  and  yet  closely  resem-
-bling them  in  all  the  most  important  characteristics,  is  the
+in  having  no  permanent  place  of  resort,  and  yet  closely  resembling them  in  all  the  most  important  characteristics,  is  the
 institution  of  the  Qat,  common  to  all  the  group.  The  great
 distinction  of  this,  however,  is  the  dance.  The  tamate  will
 prepare  and  execute  most  elaborate  performances  of  the  dances
-of  their  islands,  but  the  Qat  itself  is  danced.  For  the  initia-
-tion, whenever  a  sufficient  number  of  candidates  are  forth-
+of  their  islands,  but  the  Qat  itself  is  danced.  For  the  initiation, whenever  a  sufficient  number  of  candidates  are  forth-
 coming, an  enclosure  in  a  retired  place  is  made  by  a  fence  of
 reeds,  the  two  ends  of  which  overlap  to  make  an  entrance,  the
 shark's  mouth  as  it  is  called,  through  which  it  is  impossible
@@ -4387,8 +4212,7 @@ members  past  their  dancing  days  from  far  and  near  would
 gather  round  with  their  bows  in  their  hands  and  jealously
 watch  the  steps ;  if  they  saw  an  error  they  would  shoot ;
 and  if  any  one  were  hit  the  blame  was  laid  on  the  faulty
-dancer;  there  was  no  quarrel  with  the  shooter  and  no  com-
-pensation to  be  made.
+dancer;  there  was  no  quarrel  with  the  shooter  and  no  compensation to  be  made.
 
 II.  The  New  Hebrides.  In  the  Northern  New  Hebrides  the
 Qatib,  with  other  institutions  of  the  same  kind,  has  its  place
@@ -4422,8 +4246,7 @@ of  the  Qatu  is  the  flower  of  the  nalnal,  a  scitamineous  plant,
 which  no  outsider  is  allowed  to  wear.  Those  who  enter  these
 societies  assume  a  new  name,  which  however  does  not,  as  in
 the  neighbouring  island,  supersede  the  old  one.  They  become
-Tari,  or  Yula  ;  the  young  men,  Tileg  and  Gao,  though  com-
-monly so  called,  are  Tari-koli  and  Vula-ngoda  in  the  Qaiu.
+Tari,  or  Yula  ;  the  young  men,  Tileg  and  Gao,  though  commonly so  called,  are  Tari-koli  and  Vula-ngoda  in  the  Qaiu.
 While  the  initiation  is  going  on,  if  women  assemble,  as  they
 do,  to  hear  the  singing  in  the  enclosure  where  the  neophytes
 are  being  taught,  it  is  an  allowed  custom  for  men  to  carry
@@ -4475,13 +4298,11 @@ that  I  went  where  there  was  a  building,  a  gamal,  put  up  for
 the  purpose  not  far  from  the  village ;  my  malo  (dress)  and
 ornaments  were  taken  off,  and  I  went  inside.  The  gamal  was
 narrow,  low,  and  very  long,  and  they  had  placed  inside  it  two
-rows  of  kalato  leaves  (of  the  nettle-tree)  sprinkled  with  salt-
-water, which  met  together  about  a  yard  from  the  ground.
+rows  of  kalato  leaves  (of  the  nettle-tree)  sprinkled  with  saltwater, which  met  together  about  a  yard  from  the  ground.
 And  I  bent  my  knees  and  I  ran  into  it.  And  that  thing,  the
 kalato,  that  they  had  put  in  the  gamal,  bites  exceedingly,  and
 they  had  heated  the  salt-water  before  they  poured  it  on  the
-leaves,  not  stalks,  nothing  but  leaves,  and  they  bite  exceed-
-ingly. Then  when  I  came  out  from  that  thing  I  cried  as
+leaves,  not  stalks,  nothing  but  leaves,  and  they  bite  exceedingly. Then  when  I  came  out  from  that  thing  I  cried  as
 I  never  did  before  or  since,  and  nearly  fainted  with  pain ;  and
 I  neither  ate  nor  drank  water,  but  did  nothing  but  cry  for
 two  days,  and  then  I  ate  food.  And  the  pig  (one  of  his
@@ -4545,8 +4366,7 @@ hair  also  was  all  dung  ;  and  there  was  a  man  who  poured  a
 great  quantity  of  dung  over  me.  Then  I  got  out,  and
 washed  myself  in  good  water.  But  those  others,  grown  up
 men,  did  not  get  into  that;  they  did  nothing  but  cry.
-Then  some  went  away,  and  we  danced  in  the  night  till  morn-
-ing, and  then  we  danced  the  Qatu  dance.  After  that  we
+Then  some  went  away,  and  we  danced  in  the  night  till  morning, and  then  we  danced  the  Qatu  dance.  After  that  we
 killed  a  pig.  And  the  women  cannot  eat  that  pig,  nor  can
 some  men,  because  they  have  not  yet  been  initiated;  and
 that  pig  is  all  eaten  up  at  once,  none  of  it  will  be  put  by,  it
@@ -4622,8 +4442,7 @@ he  was  illuminated  he  enjoyed  the  deception  of  those  who
 followed  him,  and  was  well  satisfied  to  eat  their  pigs  and
 take  their  money.
 
-In  the  island  of  Araga,  Pentecost  or  Whitsuntide,  im-
-mediately south  of  Aurora,  the  institution  is  called  the  Qeta.
+In  the  island  of  Araga,  Pentecost  or  Whitsuntide,  immediately south  of  Aurora,  the  institution  is  called  the  Qeta.
 I  have  the  description  of  it  from  one  who  was  made  a  member
 as  an  infant,  but  has  seen  all  the  proceedings  of  late  years.
 The  rites  are  celebrated  at  uncertain  intervals,  whenever  there
@@ -4631,8 +4450,7 @@ are  a  sufficient  number  of  candidates  forthcoming  from  a  group
 of  villages  ;  at  intervals  perhaps  of  six  or  ten  years.  Some
 great  man  (or  two  or  three  of  them  together)  presides  and
 manages  the  arrangements,  and  teaches  the  songs  and  dance ;
-the  Qeta  is  said  to  be  his  or  theirs.  The  scene  of  the  meeting-
-is  some  nte  gogona,  a  place  on  which  tapu  has  been  laid.
+the  Qeta  is  said  to  be  his  or  theirs.  The  scene  of  the  meetingis  some  nte  gogona,  a  place  on  which  tapu  has  been  laid.
 Many  small  houses  are  built  there,  in  which  the  boys  live
 during  the  first  part  of  their  seclusion.  Boys  of  all  ages  are
 initiated,  generally  about  the  time  of  putting  on  the  malo,  the
@@ -4688,8 +4506,7 @@ restriction  as  to  food  is  easier,  but  no  fish  or  shell-fish  is
 allowed  ;  the  beach  is  made  gogona)  unapproachable,  on  their
 behalf ;  no  one  can  go  there  to  gather  shell-fish.  During  the
 whole  time  of  seclusion  the  boys  are  not  allowed  to  wash,  and
-their  bodies  have  become  quite  black.  The  conclusion,  there-
-fore, of  the  whole  thing  is  that  when  the  first  yams  are  dug
+their  bodies  have  become  quite  black.  The  conclusion,  therefore, of  the  whole  thing  is  that  when  the  first  yams  are  dug
 they  assemble  in  one  body  and  go  down  to  the  beach  to  wash
 and  eat.  The  women  then  come  and  look  at  them.  After
 this  they  return  to  their  villages,  and  having  become  tari,
@@ -4707,8 +4524,7 @@ initiated  there.  The  origin  of  the  institution  is  ascribed  to
 one  Siko,  who  came  from  Bugotu  in  Ysabel.  To  him  sacrifices
 were  made  in  their  assemblies  by  a  succession  of  men  who  had
 received  the  office  till  the  year  1883,  when  the  last  embraced
-Christianity,  and  the  Matambala  came  to  an  end.  The  mys-
-teries were  celebrated  at  irregular  intervals  of  six  or  ten  years,
+Christianity,  and  the  Matambala  came  to  an  end.  The  mysteries were  celebrated  at  irregular  intervals  of  six  or  ten  years,
 but  the  initiated  formed  a  permanent  body,  and  a  certain  part
 of  the  beach  at  Belaga  with  the  forest  behind  it  was  always
 tambu,  so  that  no  uninitiated  person  might  enter  the  precincts,
@@ -4728,13 +4544,9 @@ actions.
 Solomon  Islands.  Florida.
 
 
-95
-
-
 I  have  a  written  account  of  the  proceedings  sent  from  Belaga
 by  an  old  friend  and  pupil  of  mine,  and  explained  to  me  in
-all  particulars  in  Norfolk  Island  by  a  native  of  a  neighbouring-
-district,  who  remembered  his  own  initiation  perfectly  well.
+all  particulars  in  Norfolk  Island  by  a  native  of  a  neighbouringdistrict,  who  remembered  his  own  initiation  perfectly  well.
 I  have  also  been  furnished  by  Bishop  Selwyn  with  the  account
 given  to  him  at  Belaga,  the  seat  of  the  Matambala,  by  initiated
 men.  It  is  not  easy  in  all  points  to  connect  the  two  accounts,
@@ -4792,8 +4604,7 @@ as  an  appearance  of  the  ghosts  themselves.  Another,  the
 Koitaba-vunutha,  was  so  large  that  eighty  or  a  hundred  men
 inside  it  carried  it  down  to  the  beach,  where  the  outside
 population  gazed  at  it.  There  was  another  instrument,  the
-Kuku,  a  wooden  club  with  a  bird's  head.  One  of  the  first  pro-
-ceedings of  the  Matambala  men  after  the  paths  were  swept,
+Kuku,  a  wooden  club  with  a  bird's  head.  One  of  the  first  proceedings of  the  Matambala  men  after  the  paths  were  swept,
 and  the  country  was  made  close,  was  to  cut  down  tall  bamboos
 for  these  structures,  tie  them  in  bundles,  and  lay  them  in  the
 sun  to  dry.  '  After  a  while  they  brought  these  down  to  the
@@ -4816,9 +4627,6 @@ tindalo,  and  all  the  men  in  the  vumttha  held  up  and  brought
 
 
 Florida  '  Matambala!
-
-
-97
 
 
 down  the  iindalo  images  to  the  heach  ;  and  all  the  women  and.
@@ -4856,8 +4664,7 @@ was ;  the  candidate  clasped  a  tree,  and  was  touched  in  six
 places  with  a  fire-stick  on  shoulders,  loins,  and  buttocks.
 When  thus  branded  they  were  told  that  they  were  now  Siko's
 men,  or  Siko's  messengers.  In  admission  to  these  mysteries,
-also,  there  was  no  limit  of  age,  and  no  time  of  life  more  ap-
-propriate than  another.  Grown-up  men  were  admitted,  who
+also,  there  was  no  limit  of  age,  and  no  time  of  life  more  appropriate than  another.  Grown-up  men  were  admitted,  who
 generally  came  from  other  parts  of  the  island;  at  Belaga
 
 H
@@ -4876,8 +4683,7 @@ entrance  to  the  Matambala,  The  initiation  of  the  new  members
 was  not  performed  till  they  had  been  some  time  living  in  the
 houses  on  the  beach,  while  the  mysterious  figures  were  being
 constructed  in  the  secret  places  in  the  wood ;  it  was  part  of
-their  preparation  that  they  should  be  frightened  by  the  bird-
-headed  clubs,  the  kuku,  and  they  were  threatened  with  death
+their  preparation  that  they  should  be  frightened  by  the  birdheaded  clubs,  the  kuku,  and  they  were  threatened  with  death
 if  they  revealed  the  secrets.  Altogether  they  remained  away
 from  their  homes  three  months.
 
@@ -4906,9 +4712,6 @@ the  seesee  and  whirl  the  buro,  and  come  into  the  village ;  and
 
 
 Florida  '  Matambala!
-
-
-99
 
 
 they  whistle  and  cluck,  and  all  the  women  in  the  village  shut
@@ -4973,8 +4776,7 @@ SOCIETIES.  CLUBS.
 
 
 In  every  village  and  group  of  houses  in  the  Torres  Islands,
-the  Banks'  Islands,  and  the  Northern  New  Hebrides,  is  con-
-spicuous a  building  which  does  not  appear  to  be  a  dwelling-
+the  Banks'  Islands,  and  the  Northern  New  Hebrides,  is  conspicuous a  building  which  does  not  appear  to  be  a  dwelling-
 house.  In  a  populous  village  of  the  Banks'  Islands  it  is  very
 long  and  low,  -with  entrances  at  intervals  along  the  sides
 below  the  wall-plate,  with  stone  seats  or  a  stone  platform  at
@@ -5031,12 +4833,10 @@ purposes,  because  almost  every  man  is  a  member  of  the  club,
 but  are  in  fact  the  homes  of  a  society  in  which  every  one  has
 his  place  according  to  his  rank  in  the  society.
 
-The  name  Suqe  is  the  same  as  that  of  the  Wui,  the  super-
-natural personage,  Supwe  of  the  New  Hebrides,  but  it  is
+The  name  Suqe  is  the  same  as  that  of  the  Wui,  the  supernatural personage,  Supwe  of  the  New  Hebrides,  but  it  is
 doubtful  whether  any  connexion  between  the  two  really
 exists ;  for  in  the  Banks'  Islands,  where  the  society  is  in
-great  vigour,  there  is  no  Yui  Suqe  known,  and  in  Whitsun-
-tide of  the  New  Hebrides,  where  the  Wui  Supwe  is  recognized,
+great  vigour,  there  is  no  Yui  Suqe  known,  and  in  Whitsuntide of  the  New  Hebrides,  where  the  Wui  Supwe  is  recognized,
 the  society  has  another  name.  Nothing  is  known  of  the
 origin  of  the  club.  It  is  not  connected  with  the  secret
 societies  of  the  ghosts,  and  is  not  a  secret  society  of  the  same
@@ -5084,9 +4884,6 @@ while  hardly  any  lad  is  so  friendless  as  not  to  enter  the
 lowest  division,  hardly  any  live  to  rise  to  the  highest  place  ;
 
 
-104
-
-
 Societies  or  Clubs.
 
 
@@ -5131,8 +4928,7 @@ the  Qal,  but  sometimes  forked ;  the  poroporolava  has  an  image
 of  a  man  ringed  black  and  white ;  the  wometeloa  an  image  of
 a  man  carrying  on  his  head  with  outstretched  arms  a  disk
 representing  the  firmament,  with  heavenly  bodies  painted  on
-it.  These  images  are  carried  about  at  the  feast  which  cele-
-brates the  step  in  rank,  and  are  afterwards  set  up  in  the  little
+it.  These  images  are  carried  about  at  the  feast  which  celebrates the  step  in  rank,  and  are  afterwards  set  up  in  the  little
 gamal  in  which  the  great  man  cooks  his  food  ;  the  hat  is
 worn  by  the  new  lano  at  the  feast  he  makes,  and  is  afterwards
 to  be  seen  leaning  against  the  gamal.  At  Gaua  in  Santa
@@ -5163,13 +4959,11 @@ present  of  a  pig,  which  is  made  over  formally  to  him  with  a
 slap  upon  its  back.  Having  undertaken  to  make  the  mqe  for
 bis  candidate,  the  patron  makes  a  feast  for  him  with  a  dance,
 decorating  the  village  square  with  male  pandanus  flowers,  and
-setting  out  money  for  him  ;  the  partakers  of  the  feast,  in-
-cluding the  candidate,  make  him  a  present  of  a  little  money,
+setting  out  money  for  him  ;  the  partakers  of  the  feast,  including the  candidate,  make  him  a  present  of  a  little  money,
 and  he  makes  a  return  present  to  them  ;  they  vene,  shoot,  and
 be  sar,  compensates.  For  the  lowest  grade  in  Mota  the'v«w
 money  is  only  half  a  fathom,  returned  with  a  full  fathom  ;  for
-the  higher  grades  very  much  money  is  required,  and  some-
-times money  fails  and  pigs  are  brought  in.  A  boy  who  has
+the  higher  grades  very  much  money  is  required,  and  sometimes money  fails  and  pigs  are  brought  in.  A  boy  who  has
 no  property  of  his  own  is  supplied  by  his  father  or  some
 friend  with  what  is  necessary  for  engaging  the  patronage  of
 bis  uncle,  upon  whom  the  expense  chiefly  falls.  In  the  higher
@@ -5270,8 +5064,7 @@ umbrella  before  his  face,  because  of  his  modesty,  they  said,  in
 his  new  position.  Then  a  man  of  high  position  in  the  Suqe
 pranced  forth  and  made  a  speech.  The  correct  thing  seems  to
 be  to  pant  a  good  deal,  as  other  people  cough,  to  disguise  a
-want  of  eloquence ;  it  shews  that  the  orator  is  a  man  of  sub-
-stance, well  fed  and  short-winded.  He  trotted  backwards  and
+want  of  eloquence ;  it  shews  that  the  orator  is  a  man  of  substance, well  fed  and  short-winded.  He  trotted  backwards  and
 forwards  before  the  palakos,  with  his  new  messmate  at  bis
 heels  modestly  covering  his  face.  His  speech  was  interpreted
 as  to  this  effect :  "  This  man  has  had  difficulty  in  getting  into
@@ -5307,8 +5100,7 @@ that  it  was  to  the  effect  that  some  people  had  said  the  money
 was  not  enough,  and  now  here  was  some  more.'
 
 Though  women  are  completely  excluded  from  the  Suqe  of
-the  men,  they  have  something  of  the  sort  among  them-
-selves, which  is  called  improperly  by  the  same  name.  They
+the  men,  they  have  something  of  the  sort  among  themselves, which  is  called  improperly  by  the  same  name.  They
 admit  to  grades  of  honour  on  payment  of  money  and  making
 of  a  feast,  and  so  become  tavine  motar,  women  of  distinction.
 By  their  Suqe  they  become  rich  in  money,  with  which  to
@@ -5357,8 +5149,7 @@ more  probably  he  would  take  advantage  of  another  man's
 feast,  and  dance  about  exhibiting  it.    Orators  mounted  on  the
 gamal  roof,  or  on  the  new-built  house,  would  harangue  the
 crowd,  setting  forth  the  virtues  of  the  giver  of  the  feast ;
-others  would  go  about  with  baskets  of  his  money  proclaim-
-ing his  liberality;  the  decorated  palako  logs  heavy  with
+others  would  go  about  with  baskets  of  his  money  proclaiming his  liberality;  the  decorated  palako  logs  heavy  with
 mana  would  be  carried  in ;  pigs  would  be  dismissed  to  distant
 villages  with  a  smack  from  the  giver ;  crowds  from  all  parts
 assembled  ;  dancers  and  drummers  exerted  themselves  in  view
@@ -5389,8 +5180,7 @@ yellow  colour.  The  Fui  Ro  Som  in  the  Story  of  Ganviviris,
 when  she  made  her  appearance  with  all  the  ornaments  that
 money  could  procure  the  right  to  wear,  was  thus  adorned.
 
-A  feast  of  the  same  kind  is  held  to  commemorate  a  deliver-
-ance, a  V ovo  feast ;  when  the  famine  and  misery  following-  on
+A  feast  of  the  same  kind  is  held  to  commemorate  a  deliverance, a  V ovo  feast ;  when  the  famine  and  misery  following-  on
 a  disastrous  hurricane  had  passed  away  at  Mota,  and  food  was
 once  more  abundant,  then  they  celebrated  a  Vovo  feast ;  such
 a  feast  was  made  by  a  native  of  the  same  island  w  hen  he  had
@@ -5399,8 +5189,7 @@ he  danced  about  exhibiting  his  hat  with  the  arrow  through  it.
 
 In  the  northern  part  of  Maewo,  Aurora,  in  the  New
 Hebrides,  the  Suqe  is  now  nearly  extinct ;  the  old  members
-use  the  gamal  as  a  convenient  resort,  but  no  one  cares  fox-
-admission.  The  reason  for  this  in  a  great  measure  is  that
+use  the  gamal  as  a  convenient  resort,  but  no  one  cares  foxadmission.  The  reason  for  this  in  a  great  measure  is  that
 a  place  in  the  Suqe  was  in  old  times  valued  for  the  advantages
 it  carried  with  it  after  death.  A  native  wrote  that '  the-reason
 for  Suqe  is  this,  that  hereafter  when  a  man  comes  to  die,  his
@@ -5467,8 +5256,6 @@ desires  to  take  each  further  step.  The  higher  ranks  of  the
 Huqe  give  much  power  and  authority,  because  those  who  have
 reached  them  can  always  keep  back  those  who  wish  to  rise,
 
-1
-
 
 !I4  Societies  or  Clubs.  [CH.
 
@@ -5503,8 +5290,7 @@ population  are  in  fact  members  of  the  society ;  wherever
 there  is  a  dwelling-house,  there  is  also  a  gamal.  The  divisions
 with  the  ovens,  matan  gabi,  are  twelve;  (i)  ma  lavggelu,
 the  stage  of  youth;  (2)  gabi  I'm  hangvtilu,  the  oven  of  ten
-tusks ;  (3)  ma  votu ;  (4)  gabi  rara,  the  oven  of  the  ery-
-thrina  leaf,  which  is  the  badge  of  the  rank ;  (5)  icorla,  the
+tusks ;  (3)  ma  votu ;  (4)  gabi  rara,  the  oven  of  the  erythrina  leaf,  which  is  the  badge  of  the  rank ;  (5)  icorla,  the
 stone- wall  seat  by  the  front  of  the  gamal,  on  which  no
 one  below  this  rank  may  sit.  These  five  are  the  inferior
 steps  which  fathers  see  that  their  boys  take  as  soon  as
@@ -5540,8 +5326,7 @@ abundant  supplies  of  food ;  such  things  come  to  the  man
 supernaturally,  he  must  have  mana.  The  Vira  is  seldom
 reached ;  the  man  of  that  rank,  like  Viradoro  now,  is  in  fact
 the  chief ;  he  has  great  mana  and  the  favour  of  Tagar,  or  he
-could  not  have  risen  to  be  what  he  is ;  his  authority  is  para-
-mount in  the  Loli,  for  none  can  rise  without  his  consent,  and
+could  not  have  risen  to  be  what  he  is ;  his  authority  is  paramount in  the  Loli,  for  none  can  rise  without  his  consent,  and
 every  one  is  a  member  of  the  society  and  hopes  to  rise ;  he
 has  been  fortunate  in  war,  or  he  would  not  have  survived ;
 he  comes  of  a  family  of  rich  and  leading  men  who  bought  his
@@ -5574,11 +5359,9 @@ ordinary  purposes  of  life,  he  finds  that  to  fail  when  he  seeks
 to  know  what  is  the  real  meaning  of  those  expressions  which
 his  informant  must  needs  use  in  his  own  tongue,  because  he
 knows  no  equivalent  for  them  in  the  common  language  which
-is  employed.  Or  if  he  gives  what  he  supposes  to  be  an  equi-
-valent, it  will  often  happen  that  he  and  the  enquirer  do  not
+is  employed.  Or  if  he  gives  what  he  supposes  to  be  an  equivalent, it  will  often  happen  that  he  and  the  enquirer  do  not
 understand  that  word  in  the  same  sense.  A  missionary  has
-his  own  difficulty  in  the  fact  that  very  much  of  his  com-
-munication is  with  the  young,  who  do  not  themselves  know
+his  own  difficulty  in  the  fact  that  very  much  of  his  communication is  with  the  young,  who  do  not  themselves  know
 and  understand  very  much  of  what  their  elders  believe  and
 practice.  Converts  are  disposed  to  blacken  generally  and
 indiscriminately  their  own  former  state,  and  with  greater  zeal
@@ -5587,9 +5370,6 @@ are  really  ashamed  to  speak  of ;  and  there  are  others  which
 
 
 Difficulties.
-
-
-117
 
 
 they  think  they  ought  to  consider  wrong,  because  they  are
@@ -5643,20 +5423,17 @@ makers  carved  them  for  amusement;  a  Solomon  islander
 fashions  the  head  of  his  lime-box  stick  into  a  grotesque  figure,
 and  it  becomes  the  subject  of  a  woodcut  as  '  a  Solomon  Island
 god.'  It  is  extremely  difficult  for  any  one  to  begin  enquiries
-without  some  prepossessions,  which,  even  if  he  can  com-
-municate with  the  natives  in  their  own  language,  affect  his
+without  some  prepossessions,  which,  even  if  he  can  communicate with  the  natives  in  their  own  language,  affect  his
 conception  of  the  meaning  of  the  answers  he  receives.  The
 questions  he  puts  guide  the  native  to  the  answer  he  thinks
 he  ought  to  give.  The  native,  with  very  vague  beliefs  and
 notions  floating  in  cloudy  solution  in  his  mind,  finds  in  the
-questions  of  the  European  a  thread  on  which  these  will  preci-
-pitate themselves,  and,  without  any  intention  to  deceive,
+questions  of  the  European  a  thread  on  which  these  will  precipitate themselves,  and,  without  any  intention  to  deceive,
 avails  himself  of  the  opportunity  to  clear  his  own  mind  while
 he  satisfies  the  questioner.
 
 Some  such  statement  as  this  of  the  difficulties  in  the  way
-of  a  certain  knowledge  of  the  subject  is  a  necessary  intro-
-duction to  the  account  which  is  given  here  of  the  religion
+of  a  certain  knowledge  of  the  subject  is  a  necessary  introduction to  the  account  which  is  given  here  of  the  religion
 of  the  Melanesians  ;  and  it  is  desirable  that  the  writer  should
 disclaim  pretension  to  accuracy  or  completeness.  The  general
 view  which  is  presented  must  be  taken  with  the  particular
@@ -5735,8 +5512,7 @@ which  the  ghost  or  spirit  exercises  through  it.    Thus  all
 conspicuous  success  is  a  proof  that  a  man  has  mana ;  his
 influence  depends  on  the  impression  made  on  the  people's
 mind  that  he  has  it ;  he  becomes  a  chief  by  virtue  of  it.
-Hence  a  man's  power,  though  political  or  social  in  its  cha-
-racter, is  his  mana  ;  the  word  is  naturally  used  in  accordance
+Hence  a  man's  power,  though  political  or  social  in  its  character, is  his  mana  ;  the  word  is  naturally  used  in  accordance
 with  the  native  conception  of  the  character  of  all  power  and
 influence  as  supernatural.    If  a  man  has  been  successful  in
 fighting,  it  has  not  been  his  natural  strength  of  arm,  quickness
@@ -5770,8 +5546,7 @@ TO.]  Spirits  and  Ghosts.  121
 
 From  the  neg-lect  of  this  distinction  great  confusion  and
 misunderstanding  arises ;  and  it  is  much  to  be  desired  that
-missionaries  at  any  rate  would  carefully  observe  the  dis-
-tinction.   Any  personal  object  of  worship  among  natives  in
+missionaries  at  any  rate  would  carefully  observe  the  distinction.   Any  personal  object  of  worship  among  natives  in
 all  parts  of  the  world  is  taken  by  the  European  observer
 to  be  a  spirit  or  a  god,  or.  a  devil;  but  among  Melanesians
 at  any  rate  it  is  very  common  to  invoke  departed  relatives
@@ -5784,18 +5559,15 @@ being  he  worships  does  not  exist.    The  perplexed  native
 hears  with  one  ear  that  tbere  is  no  such  thing  as  that
 departed  spirit  of  a  man  which  he  venerates  as  a  ghost  but
 his  instructor  takes  to  be  a  god,  and  with  the  other  that  the
-soul  never  dies,  and  that  his  own  spiritual  interests  are  para-
-mount and  eternal.    They  themselves  make  a  clear  distinction
+soul  never  dies,  and  that  his  own  spiritual  interests  are  paramount and  eternal.    They  themselves  make  a  clear  distinction
 between  the  existing,  conscious,  powerful,  disembodied  spirits
 of  the  dead,  and  other  spiritual  beings  that  never  have  been
 men  at  all.    It  is  true  that  the  two  orders  of  beings  get
-confused  in  native  language  and  thought,  but  their  confu-
-sion begins  at  one  end  and  the  confusion  of  their  visitors
+confused  in  native  language  and  thought,  but  their  confusion begins  at  one  end  and  the  confusion  of  their  visitors
 at  another ;  they  think  so  much  and  constantly  of  ghosts
 that  they  speak  of  beings  who  were  never  men  as  ghosts  ;
 Europeans  take  the  spirits  of  the  lately  dead  for  gods ;  less
-educated  Europeans  call  them  roundly  devils.    All  Mela-
-nesians, as  far  as  my  acquaintance  with  them  extends,  believe
+educated  Europeans  call  them  roundly  devils.    All  Melanesians, as  far  as  my  acquaintance  with  them  extends,  believe
 in  the  existence  both  of  spirits  that  never  were  men,  and  of
 ghosts  which  are  the  disembodied  souls  of  men  deceased :  to
 preserve  as  far  as  possible  this  distinction,  the  supernatural
@@ -5825,10 +5597,8 @@ they  rather  do  geographically,  on  the  side  of  the  Solomon
 Islands.  In  Fiji  it  is  the  established  custom  to  call  the  objects
 of  the  old  worship  gods ;  but  Mr.  Fison  was  1  inclined  to
 think  all  the  spiritual  beings  of  Fiji,  including  the  gods,  simply
-the  Mota  tamate?  i.e.  ghosts;  and  the  words  of  Mr.  Hazel-
-wood,  quoted  by  Mr.  Brenchley  (Cruise  of  the  Curagoa,  p.  i8t),
-confirm  this  view.  Tuikilakila  told  one  of  the  first  mission-
-aries how  he  proposed  to  treat  him.  '  If  you  die  first,'  said  he,
+the  Mota  tamate?  i.e.  ghosts;  and  the  words  of  Mr.  Hazelwood,  quoted  by  Mr.  Brenchley  (Cruise  of  the  Curagoa,  p.  i8t),
+confirm  this  view.  Tuikilakila  told  one  of  the  first  missionaries how  he  proposed  to  treat  him.  '  If  you  die  first,'  said  he,
 '  I  shall  make  you  my  god.'  And  the  same  Tuikilakila  would
 sometimes  say  of  himself,  '  I  am  a  god.'  It  is  added  that  he
 believed  it  too ;  and  his  belief  was  surely  correct.  For  it
@@ -5838,8 +5608,7 @@ in  Fijian,  and  a  kalou  he  no  doubt  became ;  that  is  to  say,  on
 his  decease  his  departed  spirit  was  invoked  and  worshipped
 as  he  knew  it  would  be.  He  used  no  verb  '  am'  or '  shall  be ' ;
 said  only  '  I  a  kalou'  In  Fiji  also  this  worship  of  the  dead,
-rather  than  of  beings  that  never  were  in  the  flesh,  accom-
-panies a  more  considerable  advance  in  the  arts  of  life  than  is.
+rather  than  of  beings  that  never  were  in  the  flesh,  accompanies a  more  considerable  advance  in  the  arts  of  life  than  is.
 found  in,  for  example,  the  Banks'  Islands.  It  is  plain  that
 the  natives  of  the  southern  islands  of  the  New  Hebrides,
 though  they  are  said  to  worship  '  gods,'  believe  in  the
@@ -5883,13 +5652,11 @@ and  in  the  Banks'  Islands.
 (3)  In  the  Banks'  Islands  a  spirit  is  called  a  vui,  and  is
 thus  described  by  a  native  who  was  exhorted  to  give  as  far  as
 possible  the  original  notion  conveyed  among  the  old  people  by
-the  word,  and  gave  his  definition  after  considerable  re-
-flection : — '  What  is  a  vui  ?  It  lives,  thinks,  has  more
+the  word,  and  gave  his  definition  after  considerable  reflection : — '  What  is  a  vui  ?  It  lives,  thinks,  has  more
 intelligence  than  a  man ;  knows  things  which  are  secret
 without  seeing ;  is  supernaturally  powerful  with  mana  ;  has
 no  form  to  be  seen  ;  has  no  soul,  "because  itself  is  like  a  soul.'
-But  though  the  true  conception  of  a  vui  represents  it  as  in-
-corporeal, the  stories  about  the  vui  who  have  names  treat
+But  though  the  true  conception  of  a  vui  represents  it  as  incorporeal, the  stories  about  the  vui  who  have  names  treat
 
 
 1 2  4  Religion.  [CH>
@@ -5899,8 +5666,7 @@ The  umi  of  the  Northern  New  Hebrides  are  the  same.  In
 the  Solomon  Islands  it  is  difficult  to  get  any  definition  of  a
 spirit  except  that  there  are  beings  which  were  never  men,
 and  have  not  the  bodily  nature  of  a  man.  In  San  Cristoval
-such  a  being  is  called  Figona  or  EVona.  Such  was  Kahausi-
-bware,  a  female,  and  a  snake.  The  name  hi'ona  is  known  in
+such  a  being  is  called  Figona  or  EVona.  Such  was  Kahausibware,  a  female,  and  a  snake.  The  name  hi'ona  is  known  in
 Malanta  also,  but  used  with  no  very  clear  application ;  they
 believe  there  also  in  ureM,  not  living  men,  nor  the  ghosts  of
 dead  men,  that  haunt  big  trees  in  the  forest  and  snatch
@@ -5909,8 +5675,7 @@ not  sacrificed  to  or  invoked.  The  name  vigona  is  known  also
 at  Florida,  and  is  applied  to  beings  whose  power  exercises
 itself  in  storms,  rain,  drought,  calms,  and  in  the  growth  of
 food ;  but  these  the  natives  decline  to  admit  to  be  simple
-spirits,  thinking  they  must  once  have  been  men  ;  and  doubt-
-less some'  so  called  were  men  not  long  ago.  One  being  only
+spirits,  thinking  they  must  once  have  been  men  ;  and  doubtless some'  so  called  were  men  not  long  ago.  One  being  only
 is  asserted  there  to  be  superhuman,  never  alive  with  a  mere
 human  life,  and  therefore  not  now  a  ghost;  one  that  now
 receives  no  worship,  but  is  the  subject  of  stories  only,  without
@@ -5937,18 +5702,15 @@ Florida,  tidaclho  of  Ysabel,  tiuda'o  of  Guadalcanal',  lid  a  of  Saa,
 vii.]  Ghosts  of  Worship.    Example.  125
 
 ghost  becomes  an  object  of  worship.  A  man  in  danger  may
-call  upon  his  father,  his  grandfather,  or  his  uncle  ;  his  near-
-ness of  kin  is  sufficient  ground  for  it.  The  ghost  who  is  to
+call  upon  his  father,  his  grandfather,  or  his  uncle  ;  his  nearness of  kin  is  sufficient  ground  for  it.  The  ghost  who  is  to
 be  worshipped  is  the  spirit  of  a  man  who  in  his  lifetime  had
 mana  in  him  ;  the  souls  of  common  men  are  the  common  herd
-of  ghosts,  nobodies  alike  before  and  after  death.  The  super-
-natural power  abiding  in  the  powerful  living  man  abides  in
+of  ghosts,  nobodies  alike  before  and  after  death.  The  supernatural power  abiding  in  the  powerful  living  man  abides  in
 his  ghost  after  death,  with  increased  vigour  and  more  ease  of
 movement.  After  his  death,  therefore,  it  is  expected  that  he
 should  begin  to  work,  and  some  one  will  come  forward  and  claim
 particular  acquaintance  with  the  ghost ;  if  his  power  should
-shew  itself,  his  position  is  assured  as  one  worthy  to  be  in-
-voked, and  to  receive  offerings,  till  his  cultus  gives  way
+shew  itself,  his  position  is  assured  as  one  worthy  to  be  invoked, and  to  receive  offerings,  till  his  cultus  gives  way
 before  the  rising  importance  of  one  newly  dead,  and  the
 sacred  place  where  his  shrine  once  stood  and  his  relics  were
 preserved  is  the  only  memorial  of  him  that  remains;  if  no
@@ -6036,26 +5798,22 @@ are  all  tindalo  ;  and  every  tindalo  was  once  a  man.
 come  here  into  view,  as  a  whole,  it  is  found  that  Prayers
 and  Offerings  are  made  everywhere  to  spirits,  to  ghosts,  or  to
 both.  The  prayers  axe  perhaps  in  some  cases  constraining
-charms,  are  certainly  often  forms  of  words  believed  to  be  ac-
-ceptable to  the  being  addressed,  and  known  only  to  those  who
+charms,  are  certainly  often  forms  of  words  believed  to  be  acceptable to  the  being  addressed,  and  known  only  to  those  who
 have  special  access  to  him.  But  there  are  also  natural  calls
 for  help  in  danger  and  distress.  The  offerings  or  sacrifices,
 whether  made  to  spirits  or  to  ghosts,  and  differing  a  good
 deal  in  eastern  and  western  islands,  have  various  motives.
 Some  are  propitiatory,  substituting  an  animal  for  the  person
-who  has  offended  ;  some  deprecatory;  some  are  offered  to  con-
-ciliate and  gratify  with  a  view  to  gain ;  some  only  to  shew
+who  has  offended  ;  some  deprecatory;  some  are  offered  to  conciliate and  gratify  with  a  view  to  gain ;  some  only  to  shew
 proper  attention  and  respect  or  even  affection  ;  but  the  notion
 of  propitiation  is  not  at  all  commonly  present.  There  is  no
 priestly  order,  and  no  persons  who  can  properly  be  called
 priests.  Any  man  can  have  access  to  some  object  of  worship,
 and  most  men  in  fact  do  have  it,  either  by  discovery  of  their
 own  or  by  knowledge  imparted  to  them  by  those  who  have
-before  employed  it.  If  the  object  of  worship,  as  in  some  sacri-
-fices, is  one  common  to  the  members  of  a  community,  the  man
+before  employed  it.  If  the  object  of  worship,  as  in  some  sacrifices, is  one  common  to  the  members  of  a  community,  the  man
 who  knows  how  to  approach  that  object  is  in  a  way  their  priest
-and  sacrifices  for  them  all ;  but  it  is  in  respect  of  that  par-
-ticular function  only  that  he  has  a  sacred  character ;  and  it  is
+and  sacrifices  for  them  all ;  but  it  is  in  respect  of  that  particular function  only  that  he  has  a  sacred  character ;  and  it  is
 very  much  by  virtue  of  that  function  that  a  man  is  a  chief,  and
 not  at  all  because  he  is  chief  that  he  performs  the  sacrifice.
 Women  and  children  generally  are  excluded  from  religious
@@ -6102,9 +5860,6 @@ offerings  a  sacrifice,  do  not  use  for  either  the  words  for  which
 Solomon  Island  Sacrifice.
 
 
-129
-
-
 in  English  no  other  translation  can  be  found.  The  sacrifices,
 in  the  more  restricted  sense,  of  the  Solomon  Islands 'are
 widely  different  from  those  of  the  New  Hebrides  and  Banks'
@@ -6114,8 +5869,7 @@ islands  they  are  made  to  spirits,  and  there  is  no  sacrificiab.
 fire  or  meal.  In  the  former  nothing-  is  offered  but  food,  in
 the  latter  money  has  a  conspicuous  place.
 
-(1)  A  Solomon  Island  sacrifice  has  been  excellently  de-
-scribed by  a  native  of  San  Cristoval.  '  In  my  country,'  he
+(1)  A  Solomon  Island  sacrifice  has  been  excellently  described by  a  native  of  San  Cristoval.  '  In  my  country,'  he
 wrote,  1  they  think  that  ghosts  are  many,  very  many  indeed,
 some  very  powerful,  and  some  not.  There  is  one  who  is
 principal  in  war ;  this  one  is  truly  mighty  and  strong,  When
@@ -6173,8 +5927,7 @@ are  known  only  to  one  man  and  another  who  has  found  out
 or  been  taught  how  to  approach  them,  and  calls  each  tindalo
 his  own,  nagana.  We  are  concerned  here  with  sacrifices  ;  public,
 as  offered  to  a  -well-known  tindalo,  powerful  in  such  things  as
-concern  the  general  well-being ;  and  private,  offered  by  indi-
-viduals to  the  tindalo  of  whom  they  have  particular  knowledge 1.
+concern  the  general  well-being ;  and  private,  offered  by  individuals to  the  tindalo  of  whom  they  have  particular  knowledge 1.
 In  every  village  there  was  the  tindalo  accepted  at  the  time,
 and  the  chief  was  the  sacrificer.  He  had  received  from  his
 predecessor  the  knowledge  how  to  '  throw '  the  sacrifice  to  this
@@ -6214,8 +5967,7 @@ there  is  a  solemn  silence.  If  a  pig  is  killed  on  the  occasion,
 the  heart  in  Florida,  at  Bugotu  the  gullet,  is  burnt  upon  the
 sacrificial  fire.  One  tiudalo  commonly  known,  whose  worship
 is  not  local,  is  Manoga.  At  sacrifices  offered  to  him  little  boys
-are  present,  and  sometimes  even  women  partake  of  the  sacri-
-ficial food.  '  He  who  throws  the  sacrifice  when  he  invokes
+are  present,  and  sometimes  even  women  partake  of  the  sacrificial food.  '  He  who  throws  the  sacrifice  when  he  invokes
 this  tindalo  heaves  the  offering  round  about,  and  calls  him  ;
 first  to  the  east,  where  rises  the  sun,  saying,  If  thou  dwellest  in
 the  east,  where  rises  the  sun,  Manoga!  come  hither  and  eat
@@ -6238,8 +5990,7 @@ K  a
 
 Turivatu ;  if  in  the  distant  sea ;  if  on  high  in  the  sun,  or  in
 the  moon  ;  if  thou  dwellest  inland  or  by  the  shore,  Manoga !
-come  hither  and  eat  thy  tutu ! '  This  Manoga  belongs  parti-
-cularly to  the  Manukama  or  Lahi  division  of  the  Florida  people,
+come  hither  and  eat  thy  tutu ! '  This  Manoga  belongs  particularly to  the  Manukama  or  Lahi  division  of  the  Florida  people,
 each  division,  kema,  having  a  tindalo  whom  they  worship  as
 peculiarly  their  own,  and  whom  they  vaguely  call  their
 ancestor ;  Polika  of  the  Nggaomhata,  Barego  of  the  Kakau,
@@ -6270,8 +6021,7 @@ planting  or  a  fight.
 There  were  two  general  sacrifices  in  the  year,  in  which  the
 people  of  a  village  took  part.  The  first,  the  Ugo,  was  when
 the  canarium  nut,  ngali,  so  much  used  in  native  cookery,
-was  ripe 1.  None  could  be  eaten  till  the  sacrifice  of  the  first-
-fruits  was  offered.    The  knowledge  of  the  way  to  do  this,  and
+was  ripe 1.  None  could  be  eaten  till  the  sacrifice  of  the  firstfruits  was  offered.    The  knowledge  of  the  way  to  do  this,  and
 
 1  This  sacrifice  is  described  by  Mr.  Woodford  (p.  26).  In  that  part  of
 Guadalcanar,  where  I  is  dropped  in  many  words,  tindalo  becomes  tindao.
@@ -6384,8 +6134,7 @@ skull  and  set  it  in  his  sacred  place.  It  was  widely  known
 that  Dikea  had  made  his  vow,  and  that  he  would  pay  well  for
 some  one  to  kill.  The  Savo  people  had  bought  a  captive  boy
 in  Guadalcanal-,  lame  and  nearly  blind,  and  him  they  brought
-and  sold  to  Dikea  for  twenty  coils  of  money.  The  boy,  igno-
-rant of  the  language,  did  not  know  his  fate.  Dikea,  laying  his
+and  sold  to  Dikea  for  twenty  coils  of  money.  The  boy,  ignorant of  the  language,  did  not  know  his  fate.  Dikea,  laying  his
 hand  on  the  victim's  breast,  cried  '  Hauri !  here  is  a  man  for
 you,'  and  his  followers  killed  him  with  clubs  and  axes.  His
 head  was  taken  to  set  up  with  Dikea's'  collection  of  skulls,  his
@@ -6411,8 +6160,7 @@ the  sacnficer  burnt  a  bit  in  the  fire  for  the.  Undatho.    Did  the
 men  assembled  eat  of  the  sacrifice  ?    Bera,  the  principal  chief,
 •at  any  rate  used  to  do  so  till  Wadrokal  went  there  as  a  teacher  •
 he  would  cook  an  arm  in  the  oven  and  eat  it,  havino-  first
-sacrificed  with  a  portion.    Only  six  yearsago  Soga  at  Mang-
-gotu  sacrificed  a.  man.    He  accused  some  Bogota  visitors  of
+sacrificed  with  a  portion.    Only  six  yearsago  Soga  at  Manggotu  sacrificed  a.  man.    He  accused  some  Bogota  visitors  of
 charming  one  of  his  own  friends  to  death  ;  eight  of  them  he
 killed,  bot  one  he  boond  and  took  to  the  place  where  his
 friend  was  buried;  there  he  offered  him  to  the  ghost,  now  a
@@ -6515,8 +6263,7 @@ which  cooked  flying  fish  are  laid  ;  some  ghost-sharks  have  no
 place  on  shore,  and  to  them  the  fish  are  taken  out  to  sea,  their
 names  are  called,  and  the  fish  shred  to  them  for  their  food.
 
-(7)  The  new  canarium  almonds  cannot  be  eaten  till  the  first-
-fruits  have  been  offered  to  the  lio'a,  and  a  similar  offerine-  is
+(7)  The  new  canarium  almonds  cannot  be  eaten  till  the  firstfruits  have  been  offered  to  the  lio'a,  and  a  similar  offerine-  is
 made  of  the  dried  almonds  before  they  are  eaten,  with  added
 flying-fish.
 
@@ -6540,15 +6287,13 @@ to  represent  him.  This  remains,  and  is  from  time  to  time
 renewed,  until  after  a  time  the  man  is  forgotten,  or  the  stock
 is  neglected  by  the  transference  of  attention  to  some  newer
 and  more  successful  dnka.  When  the  stock  is  first  put  up,  a
-pig  is  killed,  and  the  two  strips  of  flesh  from  along  the  back-
-bone inside  are  put  before  the  stock  as  food  for  the  duka
+pig  is  killed,  and  the  two  strips  of  flesh  from  along  the  backbone inside  are  put  before  the  stock  as  food  for  the  duka
 represented.  These  do  not  stay  long,  but  are  taken  away  and
 eaten.  When  the  stocks  are  renewed  the  same  is  done  again;
 and  from  time  to  time  offerings  of  food  are  made  to  the  duka
 before  the  stock,  laid  there  for  a  time,  and  then  taken  up  and
 eaten.  In  case  of  danger  at  sea,  a  duka  is  called  by  name,  a  man's
-father  or  a  deceased  chief,  or  a  certain  Lata  who  is  not  remem-
-bered as  a  man,  and  a  bit  of  food  is  thrown  out ;  '  This  is  for
+father  or  a  deceased  chief,  or  a  certain  Lata  who  is  not  remembered as  a  man,  and  a  bit  of  food  is  thrown  out ;  '  This  is  for
 you  to  eat.'  Betel-nuts  are  placed  on  sacred  stones  for  the
 duka.  When  a  garden  is  planted  they  spread  feather-money
 and  red  native  cloth  round  it  for  the  duka,  and  take  it  away
@@ -6678,8 +6423,7 @@ belongs,  as  his  familiar,  goes  to  the  sacred  place  it  haunts  and
 calls  it  till  it  comes.    He  sits  down  and  the  snake  crawls  over
 him,  putting  its  tongue  into  his  mouth,  which  he  sucks.
 He  scatters  money  for  the  spirit,  for  he  does  not  offer  to  the
-snake  but  to  the  spirit,  vui,  that  is  with  the  snake  and  mani-
-fested in  it.    He  does  not  invoke  or  pray  to  the  spirit,  but  he
+snake  but  to  the  spirit,  vui,  that  is  with  the  snake  and  manifested in  it.    He  does  not  invoke  or  pray  to  the  spirit,  but  he
 may  pray  to  the  ghosts  of  his  predecessors  in  this  particular
 mystery.    "When  a  man  visits  his  familiar  in  this  way  no  one
 else  is  present,  and  the  doubt  has  occurred  to  the  native  people
@@ -6740,14 +6484,10 @@ he  mutters  to  Tagaro  the  spirit,  '  This  man  has  given  us  two
 a  pig,  let  him  be  great,  let  him  be  a  full-grown  man.'  After
 this  the  supplicant  can  go  and  make  his  requests  in  the  sacred
 place  by  himself.  Sometimes  a  very  young  cocoa-nut  is  broken
-and  the  juice  poured  over  his  head  as  a  sign  that  he  is  ad-
-mitted. They  also  put  such  a  young  cocoa-nut  on  the  stone  as
+and  the  juice  poured  over  his  head  as  a  sign  that  he  is  admitted. They  also  put  such  a  young  cocoa-nut  on  the  stone  as
 an  offering.  Such  sacrifices  are  made  for  sunshine,  rain,  and
 abundant  crops.  Offerings  also  are  made  to  the  ghosts  of
 powerful  men  recently  deceased,  either  at  their  graves  or
-
-
-144
 
 
 Sacrifices.
@@ -6758,12 +6498,10 @@ and  have  access  to  them,  take  mats,  food,  pigs,  living  or
 cooked,  into  the  sacred  place  and  leave  them  there.  At
 Lepers'  Island  they  clrwju  to  the  men  who  have  access  to
 spirits,  wui,  in  connexion  with  stones,  giving  money  and  pigs
-to  them  for  their  intercession  ;  but  offerings  are  not  com-
-monly made  directly  to  wui,  or  to  ghosts  either.  Offerings
+to  them  for  their  intercession  ;  but  offerings  are  not  commonly made  directly  to  wui,  or  to  ghosts  either.  Offerings
 are  made  at  sea  near  certain  dangerous  rocks  ;  a  tuft  of  pig's
 hair  or  a  fowl's  feather  from  the  cargo,  or  a  bit  of  food,  is
-thrown  into  the  sea  for  Tagaro,  that  he  may  give  a  safe  pas-
-sage to  the  canoe.  Bishop  Patteson  noted  in  the  course  of  his
+thrown  into  the  sea  for  Tagaro,  that  he  may  give  a  safe  passage to  the  canoe.  Bishop  Patteson  noted  in  the  course  of  his
 last  voyage,  that  at  Ambrym  it  was  the  practice  for  great
 men  to  burn  a  pig  entirely,  without  any  accompanying  prayer,
 in  their  Suqe,  with  the  view  of  obtaining  mana.  This  must  be
@@ -6922,8 +6660,7 @@ forth  and  advance.'  There  is  no  difference  between  these  and
 the  invocations  of  the  spirits,  vuir  Qat  and  Marawa,  except
 that  these  latter  which  follow,  not  being  addressed  to  the
 dead,  are  not  properly  tataro.  These  three  were  used  at  sea  :
-1  Qate  !  you  and  Marawa,  cover  over  with  your  hand  the  blow-
-hole from  me,  that  I  may  come  into  a  quiet  landing-place ;
+1  Qate  !  you  and  Marawa,  cover  over  with  your  hand  the  blowhole from  me,  that  I  may  come  into  a  quiet  landing-place ;
 let  it  calm  well  down  away  from  me.  Let  the  canoe  of  you
 and  me  go  up  in  a  quiet  landing-place.'  '  Qate !  Marawo  !
 look  down  upon  me,  prepare  the  sea  of  you  and  me,  that  I
@@ -6949,8 +6686,7 @@ residing  in  the  words  and  in  the  names  of  the  spirits
 mentioned.  When  in  distress  and  danger  they  call  to  a  dead
 father  or  friend,  '  Take  care  of  your  canoe  and  mine,'  it  is  a
 cry,  not  a  tataro.  The  word  is  also  used  in  Whitsuntide  and
-Lepers'  Island,  and  with  probably  the  same  limited  applica-
-tion in  strict  native  usage.
+Lepers'  Island,  and  with  probably  the  same  limited  application in  strict  native  usage.
 
 
 CHAPTER  X.
@@ -6963,13 +6699,11 @@ Beings  of  a  more  or  less  distinctly  spiritual  nature,  who
 at  any  rate  never  were  men,  have  their  place  in  the  beliefs  and
 in  the  stones  of  the  Banks'  Islands  and  the  New  Hebrides
 very  much  more  than  in  the  Solomon  Islands.  Koevasi,
-already  mentioned,  in  Florida  and  Kahausibware  in  San  Cris-
-toval  belong  to  the  latter  group,  and  may  well  be  supposed
+already  mentioned,  in  Florida  and  Kahausibware  in  San  Cristoval  belong  to  the  latter  group,  and  may  well  be  supposed
 to  be  the  same  personage  under  different  names.  Both  were
 never  human,  yet  in  some  way  originators  of  the  human
 race ;  both  were  female,  both  subjects  of  stories,  not  objects  of
-worship.  Kahausibware  was  a  Hi'ona,  a  being  of  super-
-human character,  dwelling  on  the  mountain  of  Bauro,  the
+worship.  Kahausibware  was  a  Hi'ona,  a  being  of  superhuman character,  dwelling  on  the  mountain  of  Bauro,  the
 central  mass  of  San  Cristoval,  in  the  time  of  the  infancy
 of  the  human  race.  She  was  a  snake  in  outward  form.
 There  was  in  the  same  place  a  woman,  a  human  being,  the
@@ -6992,8 +6726,7 @@ Solomon  Islands.    Banks  Islands.  151
 
 snake  at  last  could  bear  it  no  longer,  and  cried  out  weeping,
 <I  go,  and  who  will  help  you  now?'  She  made  her  way
-down  to  the  sea  accordingly,  and  her  track  became  a  water-
-course. Leaving  the  island,  she  swam  across  first  to  Ugi,  but
+down  to  the  sea  accordingly,  and  her  track  became  a  watercourse. Leaving  the  island,  she  swam  across  first  to  Ugi,  but
 from  thence  she  could  see  the  Bauro  mountain ;  she  went  'on
 further  to  Ulawa,  and  thence  again  to  the  south-east  end  of
 Malanta,  but  even  there  in  clear  weather  she  could  see  her
@@ -7007,8 +6740,7 @@ Kahausibware  ;  but  they  are  simple  snakes,  and  she  was  a
 Hi'ona,  or  Figona.
 
 In  the  Banks'  Islands  and  in  the  Northern  New  Hebrides
-the  purely  spiritual  beings  who  are  incorporeal  are  innumer-
-able and  unnamed.  These  are  they  whose  representative  form
+the  purely  spiritual  beings  who  are  incorporeal  are  innumerable and  unnamed.  These  are  they  whose  representative  form
 is  generally  a  stone,  who  haunt  the  places  that  are  sacred
 because  of  their  presence,  and  who  connect  themselves  with
 certain  snakes,  owls,  sharks,  and  other  creatures.  There  is  in
@@ -7080,8 +6812,7 @@ shewed  how  these  beings  were  believed  to  be  at  hand  in  the
 affairs  of  men.  A  woman  working  in  her  garden  heard  a
 voice  from  the  fruit  of  a  gourd  asking  her  for  food  ;  when  she
 pulled  up  a  ealadium  or  dug  a  yam  another  immediately  came
-into  its  place ;  but  when  she  listened  to  another  vui  playing-
-on  his  panpipe,  the  first  in  his  jealousy  conveyed  away  the
+into  its  place ;  but  when  she  listened  to  another  vui  playingon  his  panpipe,  the  first  in  his  jealousy  conveyed  away  the
 garden  and  all.  In  these  stories,  and  no  doubt  in  common
 belief,  there  was  a  certain  confusion  between  these  spirits  and
 ghosts  of  the  departed.
@@ -7097,13 +6828,11 @@ Such  a  one  would  call  himself  Nopitu;  rather,  speaking  of
 himself,  will  say  not  '  1/  but  '  we  two,'  meaning  the  Nopitu
 in  him  and  himself,  or  '  we '  when  he  is  possessed  by  many.
 He  would  dance  at  a  festival,  such  as  a  kolekole,  as  no  man  not
-possessed  by  a  Nopitu  could  dance.    He  would  scratch  him-
-self, his  arm  or  his  head,  and  new  money  not  yet  strung  would
+possessed  by  a  Nopitu  could  dance.    He  would  scratch  himself, his  arm  or  his  head,  and  new  money  not  yet  strung  would
 fall  from  his  fingers ;  Vetpepewu  told  me  that  he  had  seen
 money  fall  from  a  Nopitu  at  a  JcoMole—hags  full.  One  would
 shake  himself  on  a  mat  and  unstrung  money  would  pour
-down  into  it.  He  would  take  a  cocoa-nut  to  drink,  and  the  by-
-standers would  hear  money  pouring  out  instead  of  the  liquor,
+down  into  it.  He  would  take  a  cocoa-nut  to  drink,  and  the  bystanders would  hear  money  pouring  out  instead  of  the  liquor,
 and  rattling  against  his  teeth,  and  he  would  spit  it  up  upon
 the  ground.    Tursal  has  seen  at  Mota  a  woman  vomit  native
 money— a  Nopitu  possessed  by  such  a  spirit.    To  obtain  the
@@ -7124,8 +6853,7 @@ would  roast  a  little  red  yam,  and  when  it  was  done  fold  it  in
 the  corner  of  the  mat  on  which  he  was  sitting.    In  a  little
 while  it  would  be  gone,  and  then  the  Nopitu  would  begin  to
 talk  and  sing  in  a  voice  so  small  and  clear  and  sweet,  that
-once  heard  it  never  could  be  forgotten ;  but  it  sang  the  or-
-dinary Mota  songs,  while  the  men  drummed  an  accompaniment
+once  heard  it  never  could  be  forgotten ;  but  it  sang  the  ordinary Mota  songs,  while  the  men  drummed  an  accompaniment
 for  it.    Then  it  would  say,  <  I  am  going ; '  they  would  call
 it,  and  it  was  gone.    Then  a  woman  would  feel  it  come
 to  her,   and  sit  upon  her  knee;   she  would  hear  it  cry
@@ -7162,8 +6890,7 @@ things  in  the  world.  The  regular  courses  of  the  seasons  are
 ascribed  to  him,  the  calm  months  from  September  to  December,
 when  the  wi,  Palolo  sea- worm,  comes,  the  yearly  blow,  and  the
 high  tide  in  the  month  wotgoro ;  but  irregular  rains,  winds
-and  calms  are  put  to  the  account  of  the  men  who  could  influ-
-ence other  vui  spirits  so  as  to  produce  them.  The  name  of  Qat
+and  calms  are  put  to  the  account  of  the  men  who  could  influence other  vui  spirits  so  as  to  produce  them.  The  name  of  Qat
 is  given  also  to  remarkable  objects  and  effects  in  nature  ;  when
 fish  die  in  the  sea  from  excessive  heat  of  the  sun,  Qat  is  said
 to  have  poisoned  them  ;  a  kind  of  fungus  is  his  basket,  a  fungia
@@ -7225,8 +6952,7 @@ Tangaro  Noav,  Tangaro  Nopatau,  Tangaro  Noau,  Tangaro
 Nomatig,  Tangaro  Novunue1,  Tangaro  Novlog ;   eleven  of
 them,  all  Tangaro,  twelve  in  all  with  Qat.    The  names  of  the
 last  nine  are  made  up  of  the  names  of  the  leaves  of  trees  and
-plants,  Nettle-leaf,  Bread-fruit-leaf,  Bamboo-leaf,  Cocoa-nut-
-leaf,  Umbrella-palm-leaf,  added  to  Tangaro,  which  is  no
+plants,  Nettle-leaf,  Bread-fruit-leaf,  Bamboo-leaf,  Cocoa-nutleaf,  Umbrella-palm-leaf,  added  to  Tangaro,  which  is  no
 doubt  the  same  with  the  Tagaro  of  the  New  Hebrides  and
 the  Tangaroa  of  the  Polynesians.    These  all  grew  up  as  soon
 as  they  were  born,  and  they  took  up  their  abode  in  the  village
@@ -7245,9 +6971,6 @@ X.]
 
 
 Story  of  Qat.
-
-
-157
 
 
 put  it  into  his  canoe,  and  sailed  over  to  Vava,  where  he
@@ -7280,8 +7003,7 @@ According  to  the  story  told  at  Lakona,  in  Santa  Maria,  Qat
 and  Marawa  (another  vui  who  here  corresponds  to  the  Supwe
 of  Maewo  and  Araga)  dwelt  in  their  place  at  Matan,  near  to
 the  mountain  Garat,  where  the  volcanic  fires  still  smoulder.
-They  two  made  men  in  this  way.  Qat  cut  wood  of  dracama-
-trees  into  shape;  he  formed  legs,  arms,  trunks,  heads,  and
+They  two  made  men  in  this  way.  Qat  cut  wood  of  dracamatrees  into  shape;  he  formed  legs,  arms,  trunks,  heads,  and
 added  ears  and  eyes  ;  then  he  fitted  part  to  part,  and  six  days
 he  worked  about  it.  After  this  he  fixed  the  time  of  six  days
 for  them  to  come  to  life.    Three  days  he  hid  them  away,  and
@@ -7338,9 +7060,6 @@ X.]
 
 
 Story  of  Qat.
-
-
-159
 
 
 progress  in  his  work ;  every  day  when  he  returned  to  work  he
@@ -7422,8 +7141,7 @@ in  disguise.
 
 Again  they  consulted  how  they  might  destroy  him,  and
 determined  to  entrap  him  while  snaring  birds.  They  prepared
-each  one  for  himself  his  place  in  a  nutmeg-tree,  each  in  suc-
-cession further  and  further  from  the  village,  and  the  tree  for
+each  one  for  himself  his  place  in  a  nutmeg-tree,  each  in  succession further  and  further  from  the  village,  and  the  tree  for
 Qat  much  further  away  than  all.  Then  they  took  Qat  out
 and  shewed  him  his  place.  Qat  mounted  into  his  tree,  and  as
 soon  as  he  was  busy  with  his  snares  his  brother  nearest  to
@@ -7435,9 +7153,6 @@ X.]
 
 
 Adventures  of  Qat.
-
-
-161
 
 
 nutmeg-tree  instantly  grew  so  large  in  the  trunk  that  Qat's
@@ -7457,8 +7172,7 @@ voice  and  wept.    His  friend  Marawa,  the  Spider,  heard  his
 cries,  and  came  to  ask  him  what  was  the  matter.    '  I  can't  ffet
 down,'  said  he  ;  'my  brothers  have  played  me  this  trick.'
 '  Down  with  you,'  said  Marawa,  whose  hair  was  exceedingly
-long  and  loose  ;  and  he  sent  up  his  hair  to  Qat,  who  de-
-scended by  it  and  ran  into  the  village.    There  he  found  the
+long  and  loose  ;  and  he  sent  up  his  hair  to  Qat,  who  descended by  it  and  ran  into  the  village.    There  he  found  the
 rollers  of  his  canoe  alone  remaining,  and  sought  his  wife  in
 vain,  for  his  brothers  had  taken  off  his  wife  and  his  canoe  to
 be  their  own.   Then  Qat  went  inside  his  house,  and  took  his
@@ -7467,8 +7181,7 @@ his  red  earth,  and  his  shell  hatchet,  and  asked  his  mother  for
 his  banana  fruit.  <  They  have  plucked  them  all,'  she  answered,
 '  except  these  little  ones  at  the  end  of  the  bunch.'    '  Pluck
 them  all  off,'  said  Qat.    Then  he  took  a  cocoa-nut-shell  bottle
-and  stowed  all  his  things  and  his  food  within  it,  made  him-
-self small  and  took  his  seat  within  it,  and  bade  his  mother
+and  stowed  all  his  things  and  his  food  within  it,  made  himself small  and  took  his  seat  within  it,  and  bade  his  mother
 count  three  waves,  and  at  the  fourth  small  wave  to  throw  it
 into  the  sea.    So  Qat  floated  on  and  on  in  the  bottle  till  he
 came  up  to  the  canoe  in  which  his  brothers  were,  for  they  had
@@ -7528,11 +7241,7 @@ X.]
 Adventures  of  Qat.
 
 
-163
-
-
-Another  remarkable  series  of  adventures  were  Qat's  en-
-counters with  Qasavara.    This  was  a  vui,  very  strong-,  a  great
+Another  remarkable  series  of  adventures  were  Qat's  encounters with  Qasavara.    This  was  a  vui,  very  strong-,  a  great
 fighter,  tyrant  and  cannibal,  who  dwelt  in  the  island  which
 was  the  home  of  Qat  and  his  brothers.    One  day  the  brothers
 went  to  bathe,  and  found  floating  down  the  stream  a  fruit  of
@@ -7555,8 +7264,7 @@ Qasavara  by  dropping  a  make  on  his  house.    They  fought,  and
 Qat  killed  Qasavara  ;  then,  searching  for  his  brothers,  he  found
 their  bones  in  the  food-chest.    He  revived  them  by  blowing
 through  a  reed  into  their  mouths,  and  bidding  them,  if  they
-were  his  brothers,  laugh.    Another  adventure  not  very  con-
-sistent with  this  is  thus  narrated.    Qasavara  falling  in  with
+were  his  brothers,  laugh.    Another  adventure  not  very  consistent with  this  is  thus  narrated.    Qasavara  falling  in  with
 Qat  and  his  brothers  invited  them  to  his  village,  and  made  a
 fire  m  his  oven  for  them.    When  it  was  evening  he  told  them
 that  they  were  to  sleep  by  themselves  in  his  gamal;  but  they
@@ -7608,8 +7316,7 @@ two  are  to  go  at  once ;  and  when  you  get  some  way  off  smash
 the  bamboo  vessels  on  the  ground,  and  climb  up  into  the
 casuarina-tree.    All  of  you  are  to  do  this.'    They  all  agreed,
 and  did  as  they  were  bid.    Then,  when  the  oven  was  all
-covered  in,  Qasavara's  men  cried  out  '  Hallo !  there  is  no  salt-
-water !  who  will  fetch  some  ? '    '  We  two,'  said  two  of  Qat's
+covered  in,  Qasavara's  men  cried  out  '  Hallo !  there  is  no  saltwater !  who  will  fetch  some  ? '    '  We  two,'  said  two  of  Qat's
 brothers ;  and  they  went,  and  smashed  the  water- Aressels  and
 
 
@@ -7759,8 +7466,7 @@ wm.    Of  any  wui  the  belief  in  Maewo  was  that  he  had  no
 bodily  form ;  any  old  man  there  would  so  describe  one.  Yet
 the  stories  of  Tagaro,  who  was  a  wui,  deal  with  him  as  the
 stories  of  the  Banks'  Islands  deal  with  Qat.    Of  the  brothers
-of  Tagaro  nothing  is  to  be  told,  but  his  companion  was  Suqe-
-matua,  who  in  all  things  was  contrary  to  him.    Tagaro  wanted
+of  Tagaro  nothing  is  to  be  told,  but  his  companion  was  Suqematua,  who  in  all  things  was  contrary  to  him.    Tagaro  wanted
 everything  to  be  good,  and  would  have  no  pain  or  suffering ;
 Suqe-matua  would  have  all  things  bad.    When  Tagaro  made
 things,  he  or  Suqe-matua  tossed  them  up  into  the  air;  what
@@ -7789,8 +7495,7 @@ x.]  New  Hebrides.    Tagaro.  169
 dam,  the  yam  gamal.    There  is  also  one  wui,  Gaviga,  and  some
 say  another,  who  rules  over  the  dead;  but  the  multitude  of  the
 purely  spiritual,  incorporeal  beings  that  are  called  wui  belong
-to  the  sacred  stones.    In  Araga,  Whitsuntide  Island,  imme-
-diately south  of  Maewo,  Tagaro  has  ten  brothers,  besides  Suqe,
+to  the  sacred  stones.    In  Araga,  Whitsuntide  Island,  immediately south  of  Maewo,  Tagaro  has  ten  brothers,  besides  Suqe,
 who  accompanies  and  thwarts  him.    Tagaro  came  down  from
 heaven,  made  men  and  other  things,  and  went  back  again  to
 heaven.    Suqe  belonged  to  the  earth ;  his  head  was  forked,
@@ -7861,8 +7566,7 @@ made  them  sleep  elsewhere.    All  the  stones  that  are  sacred  are
 connected  with  Tagaro,  though  other  spirits  also  are  concerned  ;
 all  charms  have  their  power  from  the  name  of  Tagaro  in  them.
 There  are  besides,  as  in  the  neighbouring  islands,  spiritual
-beings,  vui,  not  of  the  same  order  as  Tagaro.    They  are  super-
-human in  nature  and  in  power,  and  they  can  be  seen.  There
+beings,  vui,  not  of  the  same  order  as  Tagaro.    They  are  superhuman in  nature  and  in  power,  and  they  can  be  seen.  There
 is  a  man  still  living  who  one  day  followed  his  two  wives  dow  n
 to  the  beach,  and  noticed  there  that  some  cocoa-nuts  had  been
 stolen  from  a  heap  he  had  made.    Following  footsteps  he
@@ -7915,8 +7619,7 @@ and  planted  them.  His  brothers  scolded  him  for  idleness,  not
 knowing  what  he  had  done  ;  but  when  the  season  came  round
 and  they  had  nothing  to  eat,  he  shewed  them  his  garden  full
 ol  abundant  food.  It  was  Tagaro  also  (but  Qatu  in  the
-Maewo  story)  who  married  the  winged  woman-a  Banewono-
-wono  or  Vmmara,  Web-wing  or  Dove-skin-from  heaven.  This
+Maewo  story)  who  married  the  winged  woman-a  Banewonowono  or  Vmmara,  Web-wing  or  Dove-skin-from  heaven.  This
 was  not  exactly  a  spirit,  vui,  but  one  of  a  party  of  women  with
 webbed  wings  like  those  of  bats.  These  women  flew  down
 from  heaven  to  bathe,  and  Tagaro  watched  them.  He  saw
@@ -7945,8 +7648,7 @@ of  the  real  character  of  the  Tavogivogi,  but  the  test  is  to
 ask  the  name  of  a  tree,  and  a  wrong  answer  will  shew  that
 there  is  deceit.  Successful  or  not  the  Tavogivogi  suddenly
 disappears,  '  like  a  bird,'  but  in  the  form  of  a  bird  or  other
-creature.  The  young  man  goes  home  and  sickens;  he  re-
-members the  sudden  disappearance,  knows  what  has  befallen
+creature.  The  young  man  goes  home  and  sickens;  he  remembers the  sudden  disappearance,  knows  what  has  befallen
 him,  and  never  recovers.  The  name  means  '  changeling,'  from
 the  word,  in  the  Banks'  Islands  wog,  to  change  the  form.
 
@@ -7978,8 +7680,7 @@ an  idol,  but  is  as  much  an  idol  as  many  figures  which  have
 found  their  way  into  museums  as  such.  The  canoe-houses,
 common  halls,  public-houses,  called  in  those  parts  oka,  were
 full  of  carvings  in  the  constructive  as  well  as  decorative  parts.
-Some  of  these,  the  posts  for  example  which  support  the  ridge-
-pole and  purlins,  are  often  figures  of  men,  who  would-be
+Some  of  these,  the  posts  for  example  which  support  the  ridgepole and  purlins,  are  often  figures  of  men,  who  would-be
 loosely  called  ancestors  by  the  principal  people  of  the  village,
 and  these  would  be  treated  with  respect ;  sometimes  food  and
 betel-nuts  would  be  seen  laid  before  them.  But  these  had  no
@@ -7995,8 +7696,7 @@ ghost  of  the  dead  taking  up  his  abode  in  the  image,  nor  was
 the  image  supposed  to  have  any  supernatural  efficacy  in  itself.
 In  any  oka  in  Malanta  may  be  seen  an  image  of  a  shark,  a
 sword-fish,  or  a  bonito,  before  which  portions  of  food  are
-placed  ;  and  these  figures  will  be  said  to  be  fathers,  grand-
-fathers, ancestors  of  those  who  thus  respect  them.  These
+placed  ;  and  these  figures  will  be  said  to  be  fathers,  grandfathers, ancestors  of  those  who  thus  respect  them.  These
 are  indeed  receptacles  of  the  dead,  not  of  their  spirits,  but  of
 their  mortal  remains  or  relics  ;  such  cannot  be  called  idols.
 Although  too  they  sometimes  make  other  images  and  give
@@ -8018,23 +7718,18 @@ the  simplest  of  memorials.  In  the  Banks'  Islands  tree-fern
 trunks  cut  into  very  rude  figures  of  men  were  often  seen—
 memorials  made  at  funeral  feasts,  having  really  no  sacred
 character  at  all.  In  the  same  islands  the  images  carried
-about  at  the  Suqe  feasts,  and  afterwards  set  up  in  the  eating-
-places  proper  to  the  rank  they  represent,  may  well  be  taken
+about  at  the  Suqe  feasts,  and  afterwards  set  up  in  the  eatingplaces  proper  to  the  rank  they  represent,  may  well  be  taken
 for  idols  by  those  who  are  not  acquainted  with  their  meaning ;
 and  so  indeed  may  the  figure,  the  nule,  into  which  the  post
 of  a  house  is  cut,  the  building  of  which  is  celebrated  by  a
 Mekole.  In  the  New  Hebrides,  at  Ambrym,  images  of  the
-dead  whose  death-feasts  are  to  be  celebrated  are  very  elabo-
-rately prepared,  not  with  any  attempt  at  representing  the
+dead  whose  death-feasts  are  to  be  celebrated  are  very  elaborately prepared,  not  with  any  attempt  at  representing  the
 
 
 XI.
 
 
 Images  not  Idols.  Stones.
-
-
-175
 
 
 figure  of  the  particular  deceased,  but  in  conventional  form  ;
@@ -8044,8 +7739,7 @@ Some  shut  up  from  common  view  by  bamboo  screens  may
 probably  belong  to  secret  societies.  In  the  same  island  drums
 are  set  up  for  funeral  feasts  with  fantastic  faces  cut  upon
 them,  and  these  remain  as  in  a  manner  images  of  the  deceased,
-taken  by  visitors  for  idols  or  devil-drums.  In  the  neighbour-
-ing islands  similar  images  are  made.
+taken  by  visitors  for  idols  or  devil-drums.  In  the  neighbouring islands  similar  images  are  made.
 
 Sacred  places  have  almost  always  stones  in  them ;  it  is
 impossible  to  treat  separately  sacred  places  and  sacred  stones.
@@ -8094,8 +7788,7 @@ when  the  sun  was  so  low  as  to  cast  his  shadow  into  it ;  the
 ghost  would  draw  it  from  him.  If  there  were  a  shrine  in  a
 vunuha,  only  the  sacrificer  would  enter  it.  Within  it  were  the
 weapons  and  other  properties  used  by  the  object  of  worship
-when  alive,  some  said  to  be  of  great  antiquity  \  The  school-
-boys now  have  broken  down  the  shrines  and  pelted  the  images,
+when  alive,  some  said  to  be  of  great  antiquity  \  The  schoolboys now  have  broken  down  the  shrines  and  pelted  the  images,
 and  the  teachers  have  carried  off  the  weapons.  Dikea,  a  chief
 at  Eavu,  had  ten  vunuha  of  his  own,  one  close  to  a  garden  that
 he  wanted  to  enlarge.  He  was  afraid  to  desecrate  the  sacred
@@ -8152,8 +7845,7 @@ sacredness  of  which  does  not  depend  on  the  presence  of  a
 ghost.  In  Florida  the  appearance  of  something  wonderful
 will  cause  any  place  to  become  a  vunuha,  the  wonder  being
 an  evidence  of  the  ghostly  presence.  Tor  example,  a  man
-planted  in  the  bush  near  Olevuga  some  cocoa-nut  and  almond-
-trees,  and  not  long  after  died.  There  then  appeared  among
+planted  in  the  bush  near  Olevuga  some  cocoa-nut  and  almondtrees,  and  not  long  after  died.  There  then  appeared  among
 the  trees  a  white  kandora,  cuscus,  a  great  rarity.  This  was
 assumed  to  be  the  appearance  of  the  dead  man,  now  a  tindalo
 and  was  called  by  his  name.  The  place  became  a  vunuha  ;  no
@@ -8200,8 +7892,7 @@ stones  acquire  a  redoubled  efficacy  as  they  take  their  place
 among  the  relics  and  implements  of  the  deceased  man  of
 power,  now  himself  become  a  ghost  of  power ;  his  sacrifices
 had  been  wont  to  reach  the  tindalo  whose  presence  was
-secured  to  him  by  that  stone,  and  now  the  presumed  attach-
-ment of  his  ghost  to  the  same  gives  credit  and  efficacy  to  the
+secured  to  him  by  that  stone,  and  now  the  presumed  attachment of  his  ghost  to  the  same  gives  credit  and  efficacy  to  the
 sacrifices  offered  near  it  or  upon  it  to  himself.
 
 Living  sacred  objects  in  the  Solomon  Islands  are  chiefly
@@ -8220,8 +7911,7 @@ will  before  their  death  announce  that  they  will  appear  as
 sharks,  and  afterwards  any  shark  remarkable  for  size  or  colour
 which  is  observed  to  haunt  a  certain  shore  or  rock  is  taken  to
 be  some  one's  ghost,  and  the  name  of  the  deceased  is  given  to  it.
-Such  a  one  was  Sautahimatawa  at  Ulawa,  a  dreaded  man-
-eater  to  which  offerings  of  porpoise  teeth  were  made.    At  Saa
+Such  a  one  was  Sautahimatawa  at  Ulawa,  a  dreaded  maneater  to  which  offerings  of  porpoise  teeth  were  made.    At  Saa
 certain  food,  such  as  cocoa-nuts  from  certain  trees,  is  reserved
 to  feed  such  a  ghost-shark,  and  there  are  certain  men  of
 whom  it  is  known  that  after  death  they  will  be  in  sharks,
@@ -8288,8 +7978,7 @@ religious  obligation.
 
 In  Santa  Cruz  there  are  stones  about  which  stories  are  told
 connecting  them  with  the  dvka,  whether  ghosts  or  other
-spirits,  which  are  the  objects  of  worship ;  and  on  these  betel-
-nuts  are  placed  as  offerings.  Passing  eastwards  to  the  Banks'
+spirits,  which  are  the  objects  of  worship ;  and  on  these  betelnuts  are  placed  as  offerings.  Passing  eastwards  to  the  Banks'
 Islands  and  the  New  Hebrides,  a  region  is  reached  in  which
 religion  concerns  itself  chiefly  with  spirits  that  never  were
 
@@ -8315,8 +8004,7 @@ instances  it  is  found  that  a  spirit  is  associated  with  a  stone.
 In  the  Banks'  Islands  a  man  would  happen  upon  a  boulder  of
 volcanic  or  coral  rock,  and  would  be  struck  with  a  belief  that
 a  spirit  was  connected  with  it.    The  stone  then  was  rongo,  and
-the  place  in  which  it  lay  was  rongo  ;  the  man  constituted  him-
-self the  master  of  the  sanctuary;  it  was  his  marana  within
+the  place  in  which  it  lay  was  rongo  ;  the  man  constituted  himself the  master  of  the  sanctuary;  it  was  his  marana  within
 which  none  but  himself,  or  those  brought  in  by  him,  could
 come.    Some  stones  are  known  to  all,  and  are  of  more  common
 access.    At  Losalav  in  Saddle  Island  there  is  near  the  beach
@@ -8325,8 +8013,7 @@ a  sacred  place.    The  people  call  the  ring  a  fence,  the  space
 within  it  a  garden,  and  the  stones  that  he  within  yam,  banana,
 kava  pepper,  and  other  roots  and  fruits  commonly  planted
 by  them.     These  stones  were  used  for  offerings  of  money
-and  sweet-smelling  leaves,  in  the  belief  that  the  plants  corre-
-sponding to  the  stones  would  flourish  and  abound.  The
+and  sweet-smelling  leaves,  in  the  belief  that  the  plants  corresponding to  the  stones  would  flourish  and  abound.  The
 character  and  influence  of  the  spirit  connected  with  any  sacred
 stone  was  judged  by  the  shape  of  the  stone.    If  a  man  came
 upon  a  large  stone  with  a  number  of  small  ones  beneath  it,
@@ -8359,8 +8046,7 @@ some  mishap  one  finds  that  he  has  intruded  on  a  sacred  place,
 he  hastens  to  engage  the  services  of  the  man  who  knows  the
 stone,  to  make  an  offering  to  the  spirit,  lest  he  should  suffer
 from  accident  or  sickness.  There  are  some  stones  that  have  a
-sinister  reputation,  as  those  near  which  an  accident  has  hap-
-pened ;  and  there  are  some  upon  which  it  is  dangerous  for  a  man's
+sinister  reputation,  as  those  near  which  an  accident  has  happened ;  and  there  are  some  upon  which  it  is  dangerous  for  a  man's
 shadow  to  fall ;  it  is  well  to  make  offerings  upon  these,  to  keep
 the  spirit  in  good  humour.  A  stone  which  is  good  for  success
 in  fighting  is  also  likely  to  do  harm  if  not  treated  with  due
@@ -8438,8 +8124,7 @@ one  it  will  draw  out  his  soul  from  him,  so  that  he  wiU  die.
 Such  stones  therefore  are  set  in  a  house  to  guard  it ;  any  one
 sent  to  his  house  by  the  owner  in  his  absence  will  call  out
 his  sender's  name,  lest  the  ghost  should  think  he  has  bad
-intentions  and  do  him  a  mischief.    Other  stones,  also  con-
-nected with  ghosts,  have  such  power  that  when  the  owner  of
+intentions  and  do  him  a  mischief.    Other  stones,  also  connected with  ghosts,  have  such  power  that  when  the  owner  of
 one  puts  it  under  his  pillow  and  dreams  of  another  man,  that
 man  will  die.    One  who  has  such  a  stone  is  paid  by  an  enemy
 to  destroy  a  man  in  this  way,  and  '  dreams  him  to  an  end,'  U
@@ -8466,9 +8151,6 @@ XI.]
 Sacred  Stones.  Heaps.
 
 
-185
-
-
 naturally  lie  m  situ,  but  are  small,  and  may  be  lost.  In  such
 a  case  the  owner  of  the  stone,  knowing-  that  ghosts  have
 hidden  it,  cries  to  them  and  they  restore  it ;  although  such  a
@@ -8480,8 +8162,7 @@ stones  in  the  Northern  New  Hebrides.  Besides  those  which
 lie  naturally  in  the  bush,  in  the  tauten,  the  sacred  spot  in
 which  Tagaro  is  invoked,  there  are  sacred  stones  which  have
 more  or  less  mana,  and  are  effective  for  various  purposes.  Some
-are  hung  up  in  bags  in  the  house.  Some  of  these  are  in-
-herited from  ancient  times,  and  some  are  new ;  some  are  good
+are  hung  up  in  bags  in  the  house.  Some  of  these  are  inherited from  ancient  times,  and  some  are  new ;  some  are  good
 in  fighting,  some  will  produce  food,  some  will  cause  a  failure
 of  crop ;  none  will  cause  a  large  general  crop  for  the  year
 (that  must  be  done  by  forms  of  words),  and  none  are  good  for
@@ -8493,8 +8174,7 @@ it  is  put  to  use.
 
 Though  the  superstitious  regard  for  stones  is  so  commonly
 shew-n,  and  the  superstitious  uses  of  them  are  so  multifarious,
-there  are  yet  practices  with  regard  to  them  in  which  the  na-
-tives deny  that  there  is  any  superstitious  or  religious  meaning
+there  are  yet  practices  with  regard  to  them  in  which  the  natives deny  that  there  is  any  superstitious  or  religious  meaning
 and  intent,  natural  as  it  is  that  an  observer  should  suppose  it.
 Such  is  the  practice  of  throwing  stones  upon  a  heap  by  the
 way-side.  Such  a  heap  is  to  be  seen  at  Valuwa  in  Saddle
@@ -8550,8 +8230,7 @@ common  in  their  islands  ;  both  declared  that  there  was  no  thought  of
 or  offering,  and  no  prayer,  only,  if  anything  was  said,  the  words  '  There  goes
 my  fatigue.'  Mr.  Forbes  mentions  a  similar  practice  twice,  once  in  Sumatra
 (p.  166),  where  the  porters  placed  handfuls  of  leaves  on  a  stone  and  prayed  for
-a  dry  day  and  good  luck  ;  and  again  in  Timor  (p.  481),  where  at  the  commence-
-ment of  a  steep  and  precipitous  descent  the  natives  laid  leaves  and  twigs  on  a
+a  dry  day  and  good  luck  ;  and  again  in  Timor  (p.  481),  where  at  the  commencement of  a  steep  and  precipitous  descent  the  natives  laid  leaves  and  twigs  on  a
 mound  '  to  ensure  a  safe  descent.'
 
 
@@ -8561,16 +8240,12 @@ XI.]
 Trees.    Sharks.  Snakes.
 
 
-187
-
-
 Mota  word  is  tano-aruaru,  place  of  casuarinas.  The  cycas  is
 also  sacred,  rongo,  but  it  is  cut  down  without  hesitation  by  the
 natives  if  it  be  in  the  way.  Crotons  and  dracssnas  have  a
 certain  sacredness  in  connexion  with  the  dead.  In  Aiaga,
 Pentecost  Island,  there  is  a  strange  belief  that  the  cycas-tree
-turns  into  a  young-  man  or  woman,  like  the  snake  to  be  here-
-after mentioned  ;  only  the  ear  remains  unchanged,  it  shews  a
+turns  into  a  young-  man  or  woman,  like  the  snake  to  be  hereafter mentioned  ;  only  the  ear  remains  unchanged,  it  shews  a
 leaflet  of  the  tree.
 
 The  living  creatures  which  are  most  commonly  held  sacred
@@ -8591,8 +8266,7 @@ difference  is  instructive  that  in  the  Banks'  Islands  the  shark
 was  a  spirit  and  in  the  Solomon  Islands  it  was  a  ghost.  In
 the  New  Hebrides  some  men  have  the  power,  as  the  natives
 believe,  of  changing  themselves  into  sharks,  as  may  be  seen  in
-the  story  of  Tarkeke.  A  great  deal  of  superstition  is  con-
-nected with  snakes,  not  only  because  one  is  sure  to  be  seen
+the  story  of  Tarkeke.  A  great  deal  of  superstition  is  connected with  snakes,  not  only  because  one  is  sure  to  be  seen
 about  a  sacred  place,  but  because  the  reptile  is  often  thought
 to  be  otherwise  connected  with  a  vui,  spirit,  to  have  a  spirit
 near  it.  In  Mota  there  are  no  land-snakes;  in  the  other
@@ -8615,8 +8289,7 @@ expect  to  find  the  world  go  well  with  him  through  the
 influence  of  the  spirit,  or  it  may  be  of  the  ghost,  associated
 with  the  reptile.  In  Lepers'  Island  if  a  snake  haunts  a  man's
 house,  more  particularly  if  it  be  a  great  man's  house,  they  are
-persuaded  that  it  is  a  spirit ;  it  is  gogona,  not  to  be  lightly  ap-
-proached ;  it  brings  good  luck  to  the  house,  and  makes  the
+persuaded  that  it  is  a  spirit ;  it  is  gogona,  not  to  be  lightly  approached ;  it  brings  good  luck  to  the  house,  and  makes  the
 owner  rise  in  the  huqe  society.  The  house  itself  is  treated
 with  respect ;  no  one  will  throw  a  stone  at  it,  or  mount  upon
 it;  the  snake  would  resent  such  disrespect  and  make  the
@@ -8634,8 +8307,7 @@ a  sacred  place,  upon  which  their  lips  will  swell  and  their  bodies
 break  out  with  ulcers.  Some  men  turn  into  these  snakes,
 and  these  snakes  again  turn  into  men.  A  mae  does  not  behave
 like  an  ordinary  snake  ;  it  shews  that  it  is  something  different,
-for  example,  by  washing  its  young.  In  a  certain  gamal,  club-
-house, in  Araga,  is  a  hollow  piece  of  the  wood  of  a  certain  tree
+for  example,  by  washing  its  young.  In  a  certain  gamal,  clubhouse, in  Araga,  is  a  hollow  piece  of  the  wood  of  a  certain  tree
 they  call  bugo,  in  which  is  water.  In  the  night  a  mother  mae
 used  to  come  and  wash  her  young  one  in  this  water  ;  the
 people  sleeping  there  used  to  hear  it  cry  and  knew  what  it
@@ -8670,10 +8342,8 @@ a  young  man  can  strike  the  temptress  with  a  dracaena  leaf  she
 turns  into  her  own  shape  and  glides  away  a  snake.    At  Gaua,
 Santa  Maria,  a  man  met  one  of  these  standing  or  variegated
 snakes,  as  they  call  them,  mae  tiratira,  valeleas,  on  the  beach
-at  night  in  the  form  of  a  woman  of  the  place.    Seeing  by  hex-
-reversed  joints  what  she  was,  he  offered  to  go  to  the  village
-and  bring  her  money.    When  he  returned  he  found  her  wait-
-ing for  him.  in  her  proper  form  as  a  mae ;  he  scattered  money
+at  night  in  the  form  of  a  woman  of  the  place.    Seeing  by  hexreversed  joints  what  she  was,  he  offered  to  go  to  the  village
+and  bring  her  money.    When  he  returned  he  found  her  waiting for  him.  in  her  proper  form  as  a  mae ;  he  scattered  money
 upon  her  back,  and  she  went  off  with  it  into  the  sea.  More
 lately  in  the  same  place  a  young  man  just  returned  from
 'labour'  in  Queensland,  saw  one  of  these  in  the  form  of  a
@@ -8735,14 +8405,11 @@ of  the  dead,  being  imparted  by  them  to  their  names  and  to
 various  things  that  belong  to  them,  such  as  stones,  snakes,
 and  indeed  objects  of  all  sorts,  is  that  generally  known  as
 nana.  Without  some  understanding  of  this  it  is  impossible
-to  understand  the  religious  beliefs  and  practices  of  the  Mela-
-nesians;  and  this  again  is  the  active  force  in  all  they  do  and
+to  understand  the  religious  beliefs  and  practices  of  the  Melanesians;  and  this  again  is  the  active  force  in  all  they  do  and
 believe  to  be  done  in  magic,  white  or  black.  By  means  of
 this  men  are  able  to  control  or  direct  the  forces  of  nature,  to
-make  rain  or  sunshine,  wind  or  calm,  to  cause  sickness  or  re-
-move it,  to  know  what  is  far  off  in  time  and  space,  to  bring
-good  luck  and  prosperity,  or  to  blast  and  curse.  No  man,  how-
-ever, has  this  power  of  his  own  ;  all  that  he  does  is  done  by
+make  rain  or  sunshine,  wind  or  calm,  to  cause  sickness  or  remove it,  to  know  what  is  far  off  in  time  and  space,  to  bring
+good  luck  and  prosperity,  or  to  blast  and  curse.  No  man,  however, has  this  power  of  his  own  ;  all  that  he  does  is  done  by
 the  aid  of  personal  beings,  ghosts  or  spirits  ;  he  cannot  be  said,
 as  a  spirit  can,  to  be  mana  himself,  using  the  word  to  express
 a  quality ;  he  can  be  said  to  have  mana,  it  may  be  said  to  be
@@ -8767,8 +8434,7 @@ channel,  think  that  the  men  of  the  larger  part,  Mala  Paina,
 are  very  saka.  If  one  of  these  visiting  the  Saa  people
 points  with  his  finger,  suisui,  there  is  danger  of  death  or
 calamity;  if  one  of  them  spits  on  a  man  he  dies  at  once.
-By  whatever  name  it  is  called,  it  is  the  belief  in  this  super-
-natural power,  and  in  the  efficacy  of  the  various  means  by
+By  whatever  name  it  is  called,  it  is  the  belief  in  this  supernatural power,  and  in  the  efficacy  of  the  various  means  by
 which  spirits  and  ghosts  can  be  induced  to  exercise  it  for  the
 benefit  of  men,  that  is  the  foundation  of  the  rites  and  practices
 which  can  be  called  religious  ;  and  it  is  from  the  same  belief
@@ -8777,8 +8443,7 @@ draws  its  origin.  Wizards,  doctors,  weather-mongers,  prophets,
 diviners,  dreamers,  all  alike,  everywhere  in  the  islands,  work
 by  this  power.  There  are  many  of  these  who  may  be  said  to
 exercise  their  art  as  a  profession  ;  they  get  their  property  and
-influence  in  this  way.  Every  considerable  village  or  settle-
-ment is  sure  to  have  some  one  who  can  control  the  weather  and
+influence  in  this  way.  Every  considerable  village  or  settlement is  sure  to  have  some  one  who  can  control  the  weather  and
 the  waves,  some  one  who  knows  how  to  treat  sickness,  some
 one  who  can  work  mischief  with  various  charms.  There  may
 be  one  whose  skill  extends  to  all  these  branches  ;  but  generally
@@ -8789,8 +8454,7 @@ the  rites  and  methods  of  sacrifice  and  prayer ;  and  very  often
 the  same  man  who  knows  the  sacrifice  knows  also  the  making
 of  the  weather,  and  of  charms  for  many  purposes  besides.
 But  as  there  is  no  order  of  priests,  there  is  also  no  order  of
-magicians  or  medicine-men.  Almost  every  man  of  considera-
-tion knows  how  to  approach  some  ghost  or  spirit,  and  has
+magicians  or  medicine-men.  Almost  every  man  of  consideration knows  how  to  approach  some  ghost  or  spirit,  and  has
 some  secret  of  occult  practices.  Knowledge  of  either  kind  can
 be  bought,  if  the  possessor  chooses  to  impart  it  to  any  other
 than  the  heirs  of  whatever  he  has  besides.
@@ -8804,15 +8468,11 @@ XII.]
 Native  Belief  in  Charms.
 
 
-193
-
-
 believe  in  the  power  of  them  as  much  as  the  people  on  whose
 behalf  they  exercise  them.     In  some  cases  there  is  conscious
 deceit,  such  as  has  been  many  times  confessed  by  those  who
 have  become  Christians.  A  young  woman  of  my  acquaintance
-in  the  Banks'  Islands  had  a  reputation  for  power  of  healing-
-toothache  by  a  charm  which  had  been  taught  her  by  an
+in  the  Banks'  Islands  had  a  reputation  for  power  of  healingtoothache  by  a  charm  which  had  been  taught  her  by  an
 aged  relative  deceased.    She  would  lay  a  certain  leaf  rolled
 up  with  certain  muttered  words  upon  the  part  inflamed  ;  and
 when  in  course  of  time  the  pain  subsided,  she  would  take  out
@@ -8827,13 +8487,10 @@ kept  them  back  according  to  his  observations.    But  the  means
 he  used  seemed  to  him  to  be  so  naturally  effective,  and  had
 been  so  often  followed  by  the  results  at  which  they  were
 aimed,  that  he  seriously  believed  in  them  ;  and  if  sometimes
-they  failed  conspicuously,  as  when  at  Ysabel  the  weather-
-doctor's  own  house  was  blown  down  by  a  storm  on  the.  very
-day  on  which  he  had  warranted  a  calm,  there  was  also  the  ex-
-planation that  another  counter-charm  had  been  at  work  and
+they  failed  conspicuously,  as  when  at  Ysabel  the  weatherdoctor's  own  house  was  blown  down  by  a  storm  on  the.  very
+day  on  which  he  had  warranted  a  calm,  there  was  also  the  explanation that  another  counter-charm  had  been  at  work  and
 had  been  stronger.    Such  a  supposition  tended  to  confirm
-much  more  than  to  weaken  the  belief  in  the  power  of  weather-
-doctors.    It  is  not  only  in  Melanesian  islands  that  whatever
+much  more  than  to  weaken  the  belief  in  the  power  of  weatherdoctors.    It  is  not  only  in  Melanesian  islands  that  whatever
 confirms  a  belief  is  accepted  and  whatever  makes  against  it  is
 not  weighed.    Those  who  practised  the  various  kinds  of  magic
 did  believe  very  much  in  their  own  art.
@@ -8843,11 +8500,7 @@ separated  into  various  classes  or  orders,  or  even  regarded  as
 an  order  by  themselves,  inasmuch  as  they  are  mixed  among
 the  population,  and  practise  as  they  know  some  more  some
 fewer  arts,  it  will  be  almost  necessary  to  classify  their
-practices.  These  may  be  arranged  under  the  heads  of  Sick-
-ness, Weather,  Witchcraft,  Dreams,  Prophecy  and  Divination,
-
-
-0
+practices.  These  may  be  arranged  under  the  heads  of  Sickness, Weather,  Witchcraft,  Dreams,  Prophecy  and  Divination,
 
 
 194  Magic.  [CH.
@@ -8862,8 +8515,7 @@ things  to  which  this  mysterious  influence  is  attached.
 (i)  Sickness.  Any  sickness  that  is  serious  is  believed  to  be
 brought  about  by  ghosts  or  spirits  ;  common  complaints  such
 as  fever  and  ague  are  taken  as  coming  in  the  course  of  nature.
-To  say  that  savages  are  never  ill  without  supposing  a  super-
-natural cause  is  not  true  of  Melanesians  ;  they  make  up  their
+To  say  that  savages  are  never  ill  without  supposing  a  supernatural cause  is  not  true  of  Melanesians  ;  they  make  up  their
 minds  as  the  sickness  comes  whether  it  is  natural  or  not,  and
 the  more  important  the  individual  who  is  sick,  the  more  likely
 his  sickness  is  to  be  ascribed  to  the  anger  of  a  ghost  whom  he
@@ -9007,9 +8659,6 @@ from  the  sole.  Sometimes  very  bitter  juice  squeezed  out  of
 certain  leaves  is  given  to  the  patient  to  drink,  sometimes  the
 
 
-198
-
-
 Magic.
 
 
@@ -9076,8 +8725,7 @@ supposed  to  be  caused  by  ghosts,  but  as  the  sacred  places  and
 objects  which  may  be  profaned  or  lightly  used  belong  to  spirits,
 these  are  believed  often  to  be  angry,  and  to  inflict  pain  and
 disease.  The  power  of  a  spirit  is  also  brought  by  a  charm  or
-curse  to  harm  a  man  ;  it  is  natural,  therefore,  that  in  the  treat-
-ment of  the  sick  recourse  should  be  had  to  spirits,  and  above
+curse  to  harm  a  man  ;  it  is  natural,  therefore,  that  in  the  treatment of  the  sick  recourse  should  be  had  to  spirits,  and  above
 all  to  Tagaro,  rather  than  to  ghosts.  The  name  of  Tagaro
 controls  both  ghosts  and  spirits.  In  Pentecost  the  doctor  will
 forbid  some  kind  of  food  to  the  patient,  and  when  he  recovers
@@ -9122,8 +8770,7 @@ ghosts  are  believed  to  be  able  to  move  them  to  interfere  for
 wind  or  calm,  sunshine  or  rain,  as  may  be  desired.  The
 spirits  and  ghosts  also  have  imparted  power  to  forms  of  words,
 stones,  leaves,  and  other  things,  which  therefore  of  themselves
-affect  the  weather ;  and  there  is  also  a  certain  natural  con-
-gruity  between  some  of  these  things  and  the  effect  they
+affect  the  weather ;  and  there  is  also  a  certain  natural  congruity  between  some  of  these  things  and  the  effect  they
 produce,  which  seems  to  make  them  suitable  vehicles  of  power.
 The  men,  therefore,  who  have  and  know  these  things  have
 with  them  mana  which  they  can  use  to  benefit  or  to  afflict
@@ -9152,14 +8799,10 @@ XII.]
 Weather  Doctors.
 
 
-201
-
-
 mana  to  the  leaves.  Then  he  climbed  a  tree  and  fastened  the
 bamboo. to  the  topmost  branch  ;  as  the  wind  blew  about  the
 flexible  bamboo  the  mana  was  cast  abroad,  and  the  sun  shone
-out.  To  stop  sunshine  ginger-leaves  were  bound  tight  to-
-gether with  others  and  kept  in  the  wizard's  bag.
+out.  To  stop  sunshine  ginger-leaves  were  bound  tight  together with  others  and  kept  in  the  wizard's  bag.
 
 In  the  seafaring-  life  of  the  Solomon  Islands  the  maker  of
 calms  is  a  valuable  citizen.  The  Santa  Cruz  people  also  are
@@ -9219,8 +8862,7 @@ closely  resembling  that  used  for  kava,  strewing  the  blossoms  of
 the  wotaga,  Barringtonia,  upon  her  back,  laying  cocoa-nut
 fronds  on  her,  breaking  a  bamboo  water-vessel  over  her  back  so
 that  the  salt-water  may  run  over  her,  hanging  a  bag  full  of
-native  almonds  above  her  head  ;  all  being  done  with  the  ap-
-propriate form  of  words.  Nets  also  used  for  the  first  time  are
+native  almonds  above  her  head  ;  all  being  done  with  the  appropriate form  of  words.  Nets  also  used  for  the  first  time  are
 charmed  with  leaves  and  the  song  mana  for  the  purpose.  In
 Lepers'  Island  when  a  large  new  canoe  is  finished,  and  is  for  the
 first  time  to  be  used,  a  very  young  cocoa-nut  is  made  mana  with
@@ -9235,8 +8877,7 @@ obstruct  their  enemies.  In  prospect  of  a  fight,  for  example,
 besides  his  amulets  and  stones,  a  man  in  the  Banks'  Islands
 would  strengthen  his  hand  to  shoot  and  kill  by  drinking  an
 infusion  of  very  bitter  herbs  and  bark  ;  and  by  chewing  other
-leaves  and  puffing  forth  their  magic  influence  would  dis-
-hearten an  approaching  enemy.
+leaves  and  puffing  forth  their  magic  influence  would  dishearten an  approaching  enemy.
 
 (3)  Witchcraft.    The  wizards  who  cure  diseases  are  very
 
@@ -9248,8 +8889,7 @@ spirits  and  ghosts  being  in  both  cases  the  agent  employed ;
 but  it  often  happens  that  the  darker  secrets  of  the  magic  art
 are  possessed  and  practised  only  by  those  whose  power  lies  in
 doing  harm,  and  who  are  resorted  to  when  it  is  desired  to
-bring  evil  upon  an  enemy.  Their  secrets,  like  others  con-
-nected with  mana,  are  passed  down  from  one  generation  to
+bring  evil  upon  an  enemy.  Their  secrets,  like  others  connected with  mana,  are  passed  down  from  one  generation  to
 another,  and  may  be  bought.  The  most  common  working  of
 this  malignant  witchcraft  is  that,  so  commpn  among  savages,
 in  which  a  fragment  of  food,  bit  of  hair  or  nail,  or  anything
@@ -9260,8 +8900,7 @@ ghost  is  set  to  work  is,  if  not  necessary,  very  desirable  for
 bringing  his  power  into  the  charm  ;  and  a  stone  may  have
 its  mana  for  doing  mischief.  What  is  needed  is  the  bringing
 together  of  the  man  who  is  to  be  injured  and  the  spirit  or
-ghost  who  is  to  injure  him  ;  this  can  be  done  when  some-
-thing which  pertains  to  the  man's  person  can  be  used,  such  as
+ghost  who  is  to  injure  him  ;  this  can  be  done  when  something which  pertains  to  the  man's  person  can  be  used,  such  as
 a  hair,  a  nail,  a  leaf  with  which  he  has  wiped  the  perspiration
 from  his  face,  and  with  equal  effect  when  a  fragment  of  the
 food  which  has  passed  into  the  man  forms  the  link  of  union.
@@ -9273,8 +8912,7 @@ food  into  the  place  sacred  to  a  spirit,  the  man  who  had  eaten
 of  the  food  would  sicken  as  the  fragment  decayed.  It  was
 for  this  reason  a  constant  care  to  prevent  anything  that
 might  be  used  in  witchcraft  from  falling  into  the  hands  of
-ill-wishers  ;  it  was  the  regular  practice  to  hide  hair  and  nail-
-parings,  and  to  give  the  remains  of  food  most  carefully  to  the
+ill-wishers  ;  it  was  the  regular  practice  to  hide  hair  and  nailparings,  and  to  give  the  remains  of  food  most  carefully  to  the
 pigs1.    In  the  Banks'  Islands  the  fragment  of  food,  or  what-
 
 1  There  is  little  doubt  that  the  common  practice  of  retiring  into  the  sea  or  a
@@ -9330,9 +8968,6 @@ XII.]
 
 
 'Ghost-shooter!
-
-
-205
 
 
 which  the  person  at  whom  the  charm  is  aimed  must  pass,  so
@@ -9391,8 +9026,7 @@ within  his  closed  fingers  stopped  with  his  thumb,  his  trembling
 arm  stretched  out,  and  his  bleared  eyes  watching  for  his  enemy.
 Every  man  trembled  inwardly  as  he  danced  by  him,  and  the
 attention  of  the  whole  crowd  was  fixed  on  him.  After  a  while,
-bewildered  and  dazed  with  his  own  weakness,  the  rapid  move-
-ments of  the  dancers,  and  the  noise,  he  mistook  his  man  ;  he
+bewildered  and  dazed  with  his  own  weakness,  the  rapid  movements of  the  dancers,  and  the  noise,  he  mistook  his  man  ;  he
 raised  his  arm  and  lifted  his  thumb.  The  man  he  aimed  at
 fell  at  once  upon  the  ground,  and  the  dancers  stopped.  Then
 he  saw  that  he  had  failed,  and  that  the  wrong  man  was  hit,
@@ -9424,11 +9058,7 @@ XII.]
 Metamorphosis.  Dreams.
 
 
-207
-
-
-be  attacked  in  this  way.  The  same  thing  is  done  in  Guadal-
-canal*, and  the  people  of  Saa  at  the  extremity  of  Malanta  hear
+be  attacked  in  this  way.  The  same  thing  is  done  in  Guadalcanal*, and  the  people  of  Saa  at  the  extremity  of  Malanta  hear
 of  it  at  Marau  Sound  by  the  name  of  /tele.  At  Lepers'  Island,
 in  the  New  Hebrides,  the  vequa  very  much  resembles  this.
 The  wizard  overcomes  his  victim  with  his  charms,  so  that  the
@@ -9459,8 +9089,7 @@ as  well  as  sharks.  This  power  is  not  always  used  for  malicious
 ends,  as  was  shewn  by  Molitavile  at  Lepers'  Island.  A  vessel
 '  recruiting  labour/  called  by  the  natives  a  1  thief-ship,'  had
 carried  away  some  people  from  the  island,  and  their  friends
-were  very  anxious  to  know  what  had  become  of  them.  Moli-
-tavile, who  had  the  power  of  changing  his  form,  undertook
+were  very  anxious  to  know  what  had  become  of  them.  Molitavile, who  had  the  power  of  changing  his  form,  undertook
 to  turn  himself  into  an  eagle  and  fly  after  the  vessel.  He
 told  all  the  people  of  the  village  in  the  first  place  to  keep
 away  from  that  side  of  the  open  space  between  the  houses
@@ -9565,8 +9194,7 @@ with  a  lid  a  prophesy  of  things  to  come.  In  Lepers'  Island
 it  is  believed  that  the  spirit  Tagaro  puts  his  power  as  a  spirit
 into  a  man,  manag,  so  that  he  speaks  what  otherwise  he  could
 not,  in  the  way  of  foretelling  things  to  come,  as  well  as  of
-making  known  what  is  concealed.  These  prophets  are  con-
-sulted when  a  new  gamali,  the  house  of  the  Suqe  Society,
+making  known  what  is  concealed.  These  prophets  are  consulted when  a  new  gamali,  the  house  of  the  Suqe  Society,
 is  to  be  built,  to  know  if  there  will  be  peace  or  war ;  because
 a  number  of  people  assemble  for  such  a  purpose,  and  if  there  is
 danger  of  fighting  they  will  not  leave  their  homes.
@@ -9593,8 +9221,7 @@ stick  or  bamboo  by  the  two  ends.  The  wizard  begins  to  slap
 with  one  hand  the  end  of  the  bamboo  he  holds,  calling  one
 after  another  the  names  of  men  not  veiy  long  deceased  ;  when
 he  names  the  one  who  is  afflicting  the  sick  man  the  stick  of
-itself  becomes  violently  agitated.  Another  method  of  divina-
-tion is  called  gogondo.  The  operator  who  knows  this  art  takes
+itself  becomes  violently  agitated.  Another  method  of  divination is  called  gogondo.  The  operator  who  knows  this  art  takes
 leaves  of  the  dracaana  equal  in  number  to  the  tindalo  ghosts  he
 
 
@@ -9655,15 +9282,13 @@ was  held  tight,  at  the  right  name  the  end  moved  briskly
 round  and  round.  Then  questions  were  put  to  the  enclosed
 ghost,  '  Who  stole  such  a  thing  ?  Who  was  guilty  in  such  a
 ease  ?  '  The  bamboo  pointed  of  itself  at  the  culprit  if  present,
-or  made  signs  as  before  when  names  were  called.  This  bam-
-boo they  say  would  run  about  with  a  man  who  had  it  lying
+or  made  signs  as  before  when  names  were  called.  This  bamboo they  say  would  run  about  with  a  man  who  had  it  lying
 only  on  the  palms  of  his  hands  ;  but,  it  is  remarked  by  my
 native  informant,  though  it  moved  in  men's  hands  it  never
 moved  when  no  one  touched  it.
 
 (7)  Ordeals.  To  clear  or  to  convict  a  man  accused  of  guilt
-there  are  ordeals  managed  by  men  with  whom  the  magic  in-
-struments, and  the  knowledge  of  the  charms  by  which  they
+there  are  ordeals  managed  by  men  with  whom  the  magic  instruments, and  the  knowledge  of  the  charms  by  which  they
 can  be  used,  remain.  There  are  several  ordeals  used  at  Saa
 which  may  stand  as  examples  from  the  Solomon  Islands.  One
 is  called  the  dan  /ten,  stone  working,  the  knowledge  of  the
@@ -9676,8 +9301,7 @@ latter  heats  the  stone  and  throws  it  from  hand  to  hand  ;  if
 his  hands  are  not  burnt  the  accused  is  pronounced  innocent,
 and  pays  a  porpoise-tooth  fee.  There  is  much  preparation
 with  a  very  young  cocoa-nut,  the  flower  of  sugar-cane  and
-chanted  charms  to  make  the  proceeding  saka,  hot,  with  super-
-natural power.  It  is  probable  that  sometimes  the  accusers
+chanted  charms  to  make  the  proceeding  saka,  hot,  with  supernatural power.  It  is  probable  that  sometimes  the  accusers
 make  their  preparations  also  with  a  bribe.  Another  consists
 in  the  application  of  a  lighted  bundle  of  cocoa-nut  fronds  to
 the  legs  of  the  accused,  who  stands  up  for  it  or  is  tied  between
@@ -9700,12 +9324,10 @@ because  it  has  clogs'  teeth  upon  it.    This  is  placed  on  the
 head  of  the  accused  and  he  says,  '  If  I  did  the  thing,  may  I
 die  with  this  spear  ; '  if  he  is  guilty  he  sickens  and  dies  with
 the  power  of  the  spear.    There  is  also  a  very  sacred  song,
-very  saka.    The  wizard  who  knows  it  sings  it,  and  the  ac-
-cused man  says,  '  Well,  that  song  is  for  me ;  if  I  did  that  let
+very  saka.    The  wizard  who  knows  it  sings  it,  and  the  accused man  says,  '  Well,  that  song  is  for  me ;  if  I  did  that  let
 me  and  my  children  suffer.'    Finally,  there  is  the  alligator
 ordeal,  used  in  the  passage  between  Mala  Paina  and  Mala
-Masiki,  where  the  reptiles  are  very  numerous.    A  man  ac-
-cused of  serious  crime  is  taken  there ;  the  wizard  who  manages
+Masiki,  where  the  reptiles  are  very  numerous.    A  man  accused of  serious  crime  is  taken  there ;  the  wizard  who  manages
 the  ordeal  calls  the  alligators  with  his  charms,  and  the  accused
 who  is  confident  in  his  innocence  and  in  the  wizard's  power
 dares  to  swim  across.    No  one  will  hold  him  guilty  if  he
@@ -9778,8 +9400,7 @@ XII>]  Taboo.  215
 equal  fear  lest  lie  should  be  charmed  through  a  fragment  of  his
 food  or  poisoned  by  what  might  be  put  into  his  food.  The
 poisoned  arrows,  of  which  more  hereafter,  have  never  been
-found  to  have  been  prepared  with  anything  which  could  be  pro-
-perly said  to  be  poison  ;  and  undoubtedly  the  dreaded  power  of
+found  to  have  been  prepared  with  anything  which  could  be  properly said  to  be  poison  ;  and  undoubtedly  the  dreaded  power  of
 such  arrows  to  give  fatal  wounds  was  by  the  natives  believed
 to  be  due  to  the  magic  charms  with  which  they  were  made,
 and  to  the  dead  man's  bone  with  which  they  were  pointed.
@@ -9794,8 +9415,7 @@ signifies  any  inherent  holiness  or  awfulness,  but  always  a
 sacred  and  unapproachable  character  which  is  imposed.  This
 is  not  strictly  accurate  as  regards  the  word  in  the  Solomon
 Islands,  where  everything  connected  with  a  ghost  of  worship,
-tindalo,  lio'a,  or  'adaro,  is  tambu  of  itself ;  it  is  accurate  as  con-
-cerns the  Banks'  Islands  and  New  Hebrides,  where  what  is
+tindalo,  lio'a,  or  'adaro,  is  tambu  of  itself ;  it  is  accurate  as  concerns the  Banks'  Islands  and  New  Hebrides,  where  what  is
 inherently  sacred  is  rongo  or  sapuga.  But  still  in  cases  where
 the  English  word  taboo  can  be  employed  there  is  always  in
 Melanesia  human  sanction  and  prohibition.  Some  thing,
@@ -9803,13 +9423,11 @@ action,  or  place  is  made  tambu  or  tapu  by  one  who  has  the
 power  to  do  it,  any  one  whose  standing  among  the  people
 gives  him  confidence  to  lay  this  character  upon  it.  The
 power  at  the  back  of  the  tapu  or  tambu  is  that  of  the  ghost  or
-spirit  in  whose  name,  or  in  reliance  upon  whom,  it  is  pro-
-nounced ;  for  the  tapu  is  a  prohibition  with  a  curse  expressed
+spirit  in  whose  name,  or  in  reliance  upon  whom,  it  is  pronounced ;  for  the  tapu  is  a  prohibition  with  a  curse  expressed
 or  implied.  Thus  in  Florida  a  chief  will  forbid  something  to
 be  done  or  touched  under  a  penalty;  he  has  said,  for  example,
 tambu  hangalatu,  any  one  who  violates  his  prohibition  must
-pay  him  a  hundred  strings  of  money ;  it  seems  to  the  Euro-
-pean a  proof  of  the  power  of  the  chief ;  but  to  the  native  the
+pay  him  a  hundred  strings  of  money ;  it  seems  to  the  European a  proof  of  the  power  of  the  chief ;  but  to  the  native  the
 power  of  the  chief,  in  this  and  in  everything  else,  rests  on  the
 persuasion  that  the  chief  has  his  tindalo  at  his  back.  The
 sense  of  this  in  the  particular  case  is»remote,  the  apprehension
@@ -9827,15 +9445,13 @@ recognized  at  once  as  one  who  had  a  powerful  tindalo,  and  he
 would  rise.    Each  tindalo  has  his  special  leaf,  and  a  man  will
 set  his  tambu  with  the  leaf  of  his  tindalo  as  a  mark  ;  men  do
 not  always  know  whose  leaf  it  is,  but  they  know  that  they
-have  to  deal  with  a  tindalo,  not  only  with  a  man,  if  they  dis-
-regard the  mark.    The  tambu,  is  too  convenient  an  institution
+have  to  deal  with  a  tindalo,  not  only  with  a  man,  if  they  disregard the  mark.    The  tambu,  is  too  convenient  an  institution
 to  drop  when  the  original  sanction  of  it  has  ceased  to  operate ;
 a  native  Christian  teacher  therefore  does  not  hesitate,  as  a
 man  of  position  in  society,  to  set  a  tambu  ;  thieves  he  says  are
 afraid  of  a  man  if  not  of  a  tindalo.    In  the  Banks'  Islands
 there  is  a  minor  prohibition,  soloi,  as  well  as  the  more  solemn
-tajm,  in  which  probably  there  is  no  direct  reference  to  a  super-
-natural sanction.    But  a  man  by  virtue  of  the  supernatural
+tajm,  in  which  probably  there  is  no  direct  reference  to  a  supernatural sanction.    But  a  man  by  virtue  of  the  supernatural
 111  ana  which  accrues  to  him  through  his  association  with  a
 spirit  will  va-lapu,  separate  from  common  use,  a  path,  trees,
 part  of  the  sea-beach,  a  canoe,  a  fishing-net,  and  no  one  would
@@ -9881,8 +9497,7 @@ they  learn  of  English.    I  am  not  aware  of  the  existence  of  this
 habit  in  the  Banks'  Islands.     The  more  serious  curse  there  is
 to  vctffotia,  to  make  into  a  tangle,  to  prohibit  easy  access
 or  procedure,  under  the  sanction  of  a  spirit's  power ;  to  swear
-therefore  by  the  name  of  some  ghost  or  spirit  is  to  vava  vago-
-gonag,  that  is,  to  speak  making  a  supernatural  power  to
+therefore  by  the  name  of  some  ghost  or  spirit  is  to  vava  vagogonag,  that  is,  to  speak  making  a  supernatural  power  to
 intervene,  the  withdrawal  of  which  can  only  be  effected  by  a
 sufficient  offering  to  appease  the  layer  of  the  curse,  who  will
 proceed  to  satisfy  the  being  invoked.     To  curse  in  the  sense
@@ -9913,8 +9528,7 @@ connexion  between  the  unseen  powerful  being  and  the  man,
 in  whatever  way  the  connexion  is  made  and  works,  is  that
 which  makes  the  wizard.  Yet  there  is  a  distinction  between
 the  witchcraft  and  sorcery  in  which  by  magic  charms  the  wizard
-brings  the  unseen  power  into  action,  and  the  spontaneous  mani-
-festation of  such  power  by  the  unseen  being ;  even  though
+brings  the  unseen  power  into  action,  and  the  spontaneous  manifestation of  such  power  by  the  unseen  being ;  even  though
 there  may  be  only  a  few  who  can  interpret,  or  to  whom  the
 manifestations  are  made.  In  a  case  of  madness  the  native
 belief  is  that  the  madman  is  possessed.  There  is  at  the  same
@@ -9934,9 +9548,6 @@ man  who  lately  sacrificed  there  was  angry  with  him.  The
 
 
 Possession  by  Ghosts.
-
-
-219
 
 
 doctors  were  called  in  ;  they  found  out  whose  ghost  it  was  by
@@ -10054,8 +9665,7 @@ appears  it  is  a  sign  that  the  work  will  be  interrupted  by
 death  or  war ;  if  nothing  comes,  all  will  be  well.  The  sacred
 character  of  the  sigo,  kingfisher,  in  the  Banks'  Islands  has  been
 mentioned,  and  that  its  cry  is  ominous.  It  is  the  same  in
-Lepers'  Island,  where,  if  a  party  is  going  to  battle  and  a  king-
-fisher, higo,  cries  to  the  right,  it  foretells  victory ;  if  it  cries  to
+Lepers'  Island,  where,  if  a  party  is  going  to  battle  and  a  kingfisher, higo,  cries  to  the  right,  it  foretells  victory ;  if  it  cries  to
 the  left,  it  bodes  failure.
 
 There  is  a  belief  in  the  Banks'  Islands  in  the  existence  of  a
@@ -10066,8 +9676,7 @@ power  like  that  of  Vampires.    A  man  or  woman  would  obtain
 
 this  power  out  of  a  morbid  desire  for  communion  with  some
 ghost,  and  to  gain  it  would  steal  and  eat  a  morsel  of  a  corpse.
-The  ghost  then  of  the  dead  man  would  join  in  a  close  friend-
-ship with  the  person  who  had  eaten,  and  would  gratify  him  by
+The  ghost  then  of  the  dead  man  would  join  in  a  close  friendship with  the  person  who  had  eaten,  and  would  gratify  him  by
 afflicting  any  one  against  whom  his  ghostly  power  might  be
 directed.  The  man  so  afflicted  would  feel  that  something  was
 influencing  his  life,  and  would  come  to  dread  some  particular
@@ -10097,8 +9706,7 @@ A  certain  mysterious  power  was  believed  to  attach  to  some
 men  in  the  Banks'  Islands,  which  the  natives  find  it  difficult
 to  explain.  There  is  something  belonging  to  a  man  called
 his  wuqa  or  uqa.  If  a  stranger  sleeps  in  some  one's  habitual
-sleeping-place  in  his  absence  and  afterwards  finds  himself  un-
-well, he  knows  that  the  uqa  of  the  man  in  whose  place  he
+sleeping-place  in  his  absence  and  afterwards  finds  himself  unwell, he  knows  that  the  uqa  of  the  man  in  whose  place  he
 slept  has  struck  him  there ;  or  if  one  leaves  an  associate  and
 goes  elsewhere  to  sleep,  the  uqa  of  the  man  he  leaves  will  follow
 him  and  strike  him ;  he  will  rise  in  the  morning  weak  and
@@ -10107,8 +9715,7 @@ him  and  strike  him ;  he  will  rise  in  the  morning  weak  and
 x,,,.]  Tricks  of  Ghosts,  223
 
 languid,  or  if  he  had  been  unwell  before  he  would  be  worse.
-Although  this  is  not  done  by  witchcraft  a  man  is  held  re-
-sponsible for  what  his  nqa  does,  and  is  made  to  pay  money  to
+Although  this  is  not  done  by  witchcraft  a  man  is  held  responsible for  what  his  nqa  does,  and  is  made  to  pay  money  to
 the  injured  man,  and  by  an  act  of  his  will  to  take  off  the
 malignant  influence.
 
@@ -10117,8 +9724,7 @@ spirits  play  on  men,  or  which  men  know  how  to  make  them
 play.  At  Mota  in  the  Banks'  Islands  a  little  boy  named
 Peitavunana,  heavenly  water,  was  frightened  and  chased  by  a
 ghost  up  the  mountain.  He  was  sought  for  in  vain,  and  a
-fight  was  threatened.  They  divined  for  him,  so  ilo,  by  crack-
-ing of  the  fingers  (page  an),  and  a  man  from  Vanua  Lava
+fight  was  threatened.  They  divined  for  him,  so  ilo,  by  cracking of  the  fingers  (page  an),  and  a  man  from  Vanua  Lava
 announced  that  he  would  be  found  in  a  certain  very  inaccessible
 place.  There  he  was  found  by  Somwaswas  at  the  root  of  a
 tree  crying  and  calling  on  his  mother,  his  body  covered  with
@@ -10146,9 +9752,6 @@ sinks  back.  They  are  sure  then  of  the  presence  of  the  ghost,
 and  tell  him  they  will  go  outside  ;  and  they  go  out,  singing,
 
 
-1
-
-
 224      Possession.    Intercourse  with  Ghosts.  [CH.
 
 with  one  end  of  the  bamboo  in  their  hands.  Then  the  bamboo
@@ -10174,8 +9777,7 @@ This  resembles  a  good  deal  a  method  of  divination  used  at
 Motlav,  and  described  above,  but  there  is  no  divination  in
 these  tricks.
 
-There  was,  and  perhaps  still  is,  in  the  Torres  Islands  some-
-thing similar  to  this,  when  ghosts  influenced  and  took
+There  was,  and  perhaps  still  is,  in  the  Torres  Islands  something similar  to  this,  when  ghosts  influenced  and  took
 possession  of  people  with  the  use  of  sticks.  This  has  been
 described  by  a  native  under  the  name  of  Na  tamet  lingalinga,
 by  which  name  those  who  are  subjected  to  the  ghostly  influence
@@ -10206,8 +9808,7 @@ ghosts  and  becoming  themselves  so  much  possessed  that  they
 appeared  to  have  lost  their  senses,  though  they  acted  in  a
 certain  method.    In  the  meanwhile  the  subjects  lying  in  the
 gamal  begin  to  be  moved ;  those  who  bring  as  they  say  the
-ghosts  to  them  go  quietly  along  both  sides  of  the  house  with-
-out, and  all  at  once  strike  the  house  along  its  whole  length
+ghosts  to  them  go  quietly  along  both  sides  of  the  house  without, and  all  at  once  strike  the  house  along  its  whole  length
 with  the  sticks  they  carry  in  their  hands.    This  startles  those
 inside,  and  they  roll  about  on  the  ground  distracted.  Then
 the  'ghosts'  enter  in  with  their  sticks,  and  in  this  performance
@@ -10226,8 +9827,7 @@ bamboo  water-vessels,  or  the  rafters  of  the  houses,  and  their
 strength  is  such  that  a  full-grown  man  cannot  hold  a  boy  in
 this  state.    After  a  time  the  '  ghosts '  take  them  back  into
 the  gamal,  and  there  they  lie  exhausted  ;  the  '  ghosts  '  go  to
-drink  /cava,  and  as  each  drinks  he  pours  away  the  dregs  call-
-ing the  name  of  one  of  the  possessed,  and  the  senses  of  each
+drink  /cava,  and  as  each  drinks  he  pours  away  the  dregs  calling the  name  of  one  of  the  possessed,  and  the  senses  of  each
 return  as  his  name  is  called.    It  is  five  days,  however,  before
 they  can  go  about  again.     This  was  done  once  after  a
 Christian  teacher  had  come  to  Lo,  and  two  of  his  scholars
@@ -10243,8 +9843,7 @@ Q
 
 226      Possession.    Intercourse  with  Ghosts.  [ch.
 
-his  feet,  calling  him  by  his  name.  This  is  said  to  be  clone  by-
-letting"  an  open  bamboo  some  foot  or  two  into  the  ground  in
+his  feet,  calling  him  by  his  name.  This  is  said  to  be  clone  byletting"  an  open  bamboo  some  foot  or  two  into  the  ground  in
 some  place  not  far  from  the  person  to  be  addressed,  where  the
 operation  will  be  unseen,  and  then  speaking  into  the  end  of
 the  bamboo,  and  directing  the  voice  in  the  way  the  sound  is
@@ -10322,8 +9921,7 @@ child.  He  will  not  eat  pig's  flesh,  and  he  abstains  from
 movements  which  are  believed  to  do  harm,  upon  the  principle
 that  the  father's  movements  affect  those  of  the  child.  A
 man  will  not  do  hard  work,  lift  heavy  weights,  or  go  out  to
-sea ;  he  keeps  quiet  lest  the  child  should  start,  should  over-
-strain itself,  or  should  throw  itself  about  as  he  paddles.  In
+sea ;  he  keeps  quiet  lest  the  child  should  start,  should  overstrain itself,  or  should  throw  itself  about  as  he  paddles.  In
 the  Banks'  Islands  also,  both  parents  are  careful  what
 they  eat  when  the  child  is  born,  they  take  only  what  if  taken
 by  the  infant  would  not  make  it  ill ;  before  the  birth  of  her
@@ -10337,9 +9935,6 @@ father  keeps  away  from  sacred  places,  ute  sajmga,  before  the
 
 
 Coitvade.  Infanticide.
-
-
-229
 
 
 child's  birth,  and  does  not  enter  his  house  ;  after  the  birth,  he
@@ -10361,14 +9956,11 @@ did  not  want  the  trouble  of  bringing  up  a  child,  desired  to
 appear  young,  was  afraid  her  husband  might  think  the  birth
 before  its  time,  or  wished  to  spite  her  husband,  she  would  find
 some  one  to  procure  abortion  either  by  the  juice  of  certain  plants
-taken  in  drink  or  by  twisting  and  squeezing  the  foetus.  Infan-
-ticide was  more  prevalent  in  some  islands  than  others  ;  since
+taken  in  drink  or  by  twisting  and  squeezing  the  foetus.  Infanticide was  more  prevalent  in  some  islands  than  others  ;  since
 Christian  teaching  has  been  introduced  a  great  change  is  visible
 in  Maewo,  Aurora  Island,  and  at  Wango  in  San  Cristoval,
-where  the  birth  of  an  infant  was  of  late  years  indeed  an  un-
-usual thing,  and  all  the  children  in  the  villages  had  been
-bought  from  inland.  In  those  parts  the  old  women  of  the  vil-
-lage generally  determined  whether  a  newborn  child  should  live ;
+where  the  birth  of  an  infant  was  of  late  years  indeed  an  unusual thing,  and  all  the  children  in  the  villages  had  been
+bought  from  inland.  In  those  parts  the  old  women  of  the  village generally  determined  whether  a  newborn  child  should  live ;
 if  not  promising  in  appearance,  or  likely  to  be  troublesome,  it
 was  made  away  with,  its  mouth  perhaps  stuffed  with  leaves  and
 the  body  cast  into  a  hole  and  covered  with  a  stone.  In  the
@@ -10401,8 +9993,7 @@ ghost,  tinclalo,  whose  power  lies  that  way.  In  Lepers'  Island
 also  it  is  thought  that  twins  may  be  a  gift  of  Tagaro.
 "Women  who  want  a  child  will  go  to  a  sacred  place  in  hope
 that  the  spirit  will  give  them  one,  and  sometimes  he  gives
-them  two.  There  is  now  in  the  island  one  Malavaiboe,  Piff-
-twin,  the  survivor  of  twin  sons  of  Arusese  ;  the  people  believe
+them  two.  There  is  now  in  the  island  one  Malavaiboe,  Pifftwin,  the  survivor  of  twin  sons  of  Arusese  ;  the  people  believe
 he  will  turn  out  a  great  man,  not  so  much  because  he  is  a
 twin,  as  because  Tagaro  gave  the  twins  of  which  he  is  one  to
 their  mother  when  she  went  to  ask  a  child.
@@ -10465,8 +10056,7 @@ six  or  seven  put  on  the  little  wrapper  worn  by  males,  and  are
 very  particular  about  it.  At  Santa  Cruz  the  boys  go  at  first
 to  the  chiefs  manclai,  canoe-house  and  public  hall,  in  the
 daytime  and  go  home  to  sleep ;  after  a  while  they  cease  to
-return  at  night.  Before  dress  in  that  island  comes  the  indis-
-pensable nose-ring ;  the  hole  for  this  is  made  in  infancy  and
+return  at  night.  Before  dress  in  that  island  comes  the  indispensable nose-ring ;  the  hole  for  this  is  made  in  infancy  and
 a  little  ring  inserted.    When  the  ears  are  bored  it  is  a  great
 
 
@@ -10475,8 +10065,7 @@ a  little  ring  inserted.    When  the  ears  are  bored  it  is  a  great
 occasion  and  a  pig-  is  killed,  and  so  always  when  an  additional
 hole  is  made,  and  a  Santa  Cruz  hoy  may  be  seen  with  more
 than  bhirty  ear-rings.  The  Santa  Cruz  dress  is  ample,  and  is
-assumed  with  a  feast  and  killing  of  a  pig.  The  boy's  as-
-sumption of  a  dress  depends  therefore  on  the  ability  and
+assumed  with  a  feast  and  killing  of  a  pig.  The  boy's  assumption of  a  dress  depends  therefore  on  the  ability  and
 willingness  of  his  friends  to  provide  the  feast,  and  some  big
 boys  go  naked.  The  dress  in  the  New  Hebrides,  at  Lepers'
 Island,  and  Pentecost  differs  little  from  that  of  Santa  Cruz.
@@ -10588,10 +10177,8 @@ being  adapted  to  it.
 The  childhood  of  a  girl  can  hardly  be  marked  except  by
 her  advance  towards  matrimony,  to  which  her  being  clothed
 and  tattooed  is  in  some  places  at  least  a  necessary  step.  In
-Florida  and  the  neighbouring  parts,  in  Santa  Cruz,  in  Pente-
-cost Island,  and  most  of  the  New  Hebrides,  the  women's  dress
-is  a  petticoat  of  strings  of  fibre  or  of  leaves.  In  the  south-
-eastern Solomon  Islands  and  the  Banks'  Islands  the  women
+Florida  and  the  neighbouring  parts,  in  Santa  Cruz,  in  Pentecost Island,  and  most  of  the  New  Hebrides,  the  women's  dress
+is  a  petticoat  of  strings  of  fibre  or  of  leaves.  In  the  southeastern Solomon  Islands  and  the  Banks'  Islands  the  women
 wear  a  band  with  tufts  or  fringes,  to  which  in  Lepers'  Island
 there  is  added  out  of  doors  a  mat  which  envelopes  the  person.
 The  moral  character  and  training  of  the  girls  may  well  be
@@ -10601,9 +10188,6 @@ XIV.]
 
 
 Chastity.  Harlots.
-
-
-235
 
 
 noticed  before  their  betrothal  and  marriage  are  taken  in  hand.
@@ -10676,8 +10260,7 @@ he  went  from  home  hung  a  bag  in  his  house  which  he
 expected  to  be  filled  with  mats  by  the  time  he  came  home.
 In  these  islands  also  a  reputation  for  chastity  is  valued  for  its
 own  sake,  and  in  respectable  families  care  is  taken  of  the
-girls.  In  every  island  it  may  be  said  that  there  are  house-
-holds in  which  it  is  understood  that  the  family  is  generally
+girls.  In  every  island  it  may  be  said  that  there  are  households in  which  it  is  understood  that  the  family  is  generally
 
 1  To  translate  the  word  harlot  in  Mota,  it  has  been  necessary  to  use  the
 phrase  iavine  vilcvile  som,  a  woman  who  gives  money,  with  a  singular  inversion
@@ -10692,12 +10275,7 @@ toota  vanameag,  born  without  belongings,  as  a  desert  place  is  vcmuavan
 XIV.]
 
 
-00
-
 Betrothal.  Tattoo.
-
-
-237
 
 
 well  conducted,  and  which  are  respectable  accordingly,  and
@@ -10713,8 +10291,7 @@ their  end  at  the  marriage.  The  general  character  of  these
 transactions  may  be  understood  from  the  wa)rs  in  which
 matrimonial  affairs  are  managed  in  the  various  islands.  The
 first  marriage  of  the  young  man  may  be  taken  to  be  in  view  ;
-wives  are  added  to  the  first  with  less  to  do  about  it,  but  not  with-
-out a  good  deal  of  bargaining  on  the  part  of  the  men  concerned,
+wives  are  added  to  the  first  with  less  to  do  about  it,  but  not  without a  good  deal  of  bargaining  on  the  part  of  the  men  concerned,
 and  a  great  deal  of  business  and  talking  on  that  of  the  women.
 In  Florida  the  girl  who  has  been  engaged  as  an  infant,  and
 for  whom  some  payment  has  been  made  on  the  engagement,
@@ -10725,8 +10302,7 @@ art;  a  feast  is  made  for  him  and  for  the  company  assembled
 of  friends  and  relations,  who  help  to  bear  the  expense.  The
 pattern  is  first  marked  out  in  circles  with  a  bamboo,  and  the
 skin  is  cut  with  the  bone  of  a  bat's  wing.  The  amount
-of  tattooing  varies,  but  the  pain  and  swelling  is  always  con-
-siderable. No  girl  would  be  considered  marriageable  unless
+of  tattooing  varies,  but  the  pain  and  swelling  is  always  considerable. No  girl  would  be  considered  marriageable  unless
 tattooed,  and  the  operation  performed  is  a  sign  that  the  time
 is  come  when  the  father  of  the  young  man  to  whom  one  is
 engaged  should  pay  something  down  with  a  view  to  the
@@ -10846,8 +10422,7 @@ very  shy  about  it,  and  will  hardly  look  at  one  another ;  but
 as  the  time  for  marriage  dra  ws  on  it  is  correct  for  the  youth  to
 make  little  presents  and  otherwise  shew  attention.
 
-In  the  Northern  New  Hebrides  a  girl  betrothed  in  child-
-hood is  taken  to  her  future  father-in-law's  house  and
+In  the  Northern  New  Hebrides  a  girl  betrothed  in  childhood is  taken  to  her  future  father-in-law's  house  and
 brought  up  there ;  the  boy  often  thinks  she  is  his  sister,  and
 is  much  ashamed  when  he  comes  to  know  the  relation  in
 which  he  stands.  This  however  is  not  the  common  way,  for
@@ -10876,14 +10451,12 @@ brethren  is  hurt,  it  is  his  business  to  make  it  up  with  him  by
 a  present.    Whether  this  can  be  called  capture  is  very
 doubtful ;  but  no  doubt  it  represents  the  feelings  with  which
 the  bride's  kinsmen  regard  the  loss  of  her  services  ;  it  cannot
-be  the  loss  of  any  rights  of  intercourse,  since  she  was  un-
-approachable by  any  of  them.    The  bride  is  taken  by  female
+be  the  loss  of  any  rights  of  intercourse,  since  she  was  unapproachable by  any  of  them.    The  bride  is  taken  by  female
 friends  to  the  bridegroom's  house  or  his  father's,  sometimes
 crying,  and  dragged  along  if  she  dislikes  the  match.  An
 unwilling  bride  will  refuse  intercourse  with  her  husband,  or
 run  away  to  some  one  she  likes  better ;  in  that  case,  if  her
-return  seems  hopeless,  a  pig  is  given  and  she  stays.  Some-
-times, again,  the  young  couple  are  so  shy  of  one  another  that
+return  seems  hopeless,  a  pig  is  given  and  she  stays.  Sometimes, again,  the  young  couple  are  so  shy  of  one  another  that
 they  will  not  speak  after  marriage,  as  it  has  not  been  proper
 to  speak  before ;  the  friends  and  neighbours  do  not  approve
 of  this,  and  it  is  on  this  account  that  it  is  thought  wise
@@ -10960,8 +10533,7 @@ when  that  is  paid  no  more  notice  is  taken  of  the  matter ;  but
 
 XIV>-j  Adultery.  243
 
-if  satisfaction  were  refused  a  quarrel  would  ensue.  A  newly-
-married  husband,  without  waiting  for  observations,  would
+if  satisfaction  were  refused  a  quarrel  would  ensue.  A  newlymarried  husband,  without  waiting  for  observations,  would
 often  beat  his  bride  to  make  her  confess  who  her  paramour
 had  been.
 
@@ -10991,8 +10563,7 @@ Saa  he  makes  the  sacrifice  tofo  'akalo  (page  137),  to  clear
 away  any  danger  that  may  happen  to  him  as  the  cause  of
 death.  In  the  Banks'  Islands  and  Northern  New  Hebrides
 the  treatment  of  adultery  is  very  simple  ;  the  man  is  shot  or
-clubbed  by  the  husband  or  his  friends  in  their  first  indig-
-nation, and  the  woman  is  beaten,  scolded,  and  threatened  with
+clubbed  by  the  husband  or  his  friends  in  their  first  indignation, and  the  woman  is  beaten,  scolded,  and  threatened  with
 death,  but  the  matter  is  compromised  very  generally  by
 payment  of  money  and  pigs.  A  wife  jealous  of  her  husband,
 or  in  any  way  incensed  at  him,  would  in  former  times  throw
@@ -11079,8 +10650,7 @@ is  approved  of,  whereby  a  man  who  has  a  young  wife  takes  an
 elder  woman,  a  widow,  for  a  second,  to  look  after  the  first.
 Some  men  there  have  three  or  four  wives  ;  a  great  man
 lately  had  fifty  wives,  and  his  son  and  successor  has  already
-thirty  ;  a  chief  inland  is  credited  with  a  hundred.  Poly-
-gamy in  all  the  islands  is  a  fruitful  cause  of  quarrels  and
+thirty  ;  a  chief  inland  is  credited  with  a  hundred.  Polygamy in  all  the  islands  is  a  fruitful  cause  of  quarrels  and
 bloodshed.
 
 Anything  properly  called  Polyandry  is  unknown,  nor  is  it
@@ -11097,8 +10667,7 @@ arrangement  for  people  who  find  themselves  alone  in  later
 life.  In  Lepers'  Island,  also,  there  has  been  a  case  lately  in
 which  two  young  men,  brothers,  returned  from  Queensland,
 have  taken  a  young  woman  as  a  wife  for  hoth.  The  two  men
-have  their  gamali,  and  she  has  a  house  ;  there  are  two  chil-
-dren. This  is  a  new  and  unheard-of  thing,  brought,  as  the
+have  their  gamali,  and  she  has  a  house  ;  there  are  two  children. This  is  a  new  and  unheard-of  thing,  brought,  as  the
 natives  say,  from  Queensland 1 ;  the  young  men  could  only
 get  one  woman  to  many,  and  in  their  absence  had  lost  all
 care  for  propriety.  In  the  Banks'  Islands  also  cases  occur
@@ -11148,14 +10717,11 @@ individual  and   inseparable   from   him,  but  unsubstantial.
 The  Mota  word  we  use  for  soul  is  in  Maori  a  shadow,  but
 
 
-248         Death.    Burial.    After  Death.  [CH.
-
 no  Mota  man  knows  that  it  ever  meant  that.    In  fact  my
 behei  is  that  m  the  original   language  this  word  did  not
 definitely  mean  either  soul  or  shadow,  but  had  a  meaning  one
 can  conceive  but  not  express,  which  has  come  out  in  one
-language  meaning  shadow,  and  in  the  other  meaning  some-
-thing like  soul,  i.e.  second  self1.'    So  Mr.  Fison  writes    <  The
+language  meaning  shadow,  and  in  the  other  meaning  something like  soul,  i.e.  second  self1.'    So  Mr.  Fison  writes    <  The
 Fijian  word  for  soul  is  yah,  that  for  shadow  yaloyah.    I  have
 not  been  able  to  find  any  trace  of  the  belief  that  shadow  and
 soul  are  mdentical.    I  believe  that  Williams'  remark  about
@@ -11164,18 +10730,15 @@ concerning  yah  and  yaloyah:    The  civilized  observer  is
 always  ready  to  assume  that  the  savage  takes  a  childish  view
 and  has  absurd  beliefs,  when  all  the  while,  if  the  savage  could
 put  him  to  a  close  examination,  his  own  conceptions  would
-be  found  very  indistinct  and  his  expressions  mainly  figur-
-ative.   Many  a  voyager,  not  an  observer,  carries  away  as  a
+be  found  very  indistinct  and  his  expressions  mainly  figurative.   Many  a  voyager,  not  an  observer,  carries  away  as  a
 sort  of  joke  the  story  that  the  natives  think  their  shadows
 are  their  souls,  who  could  not  tell  exactly  what  he  means
 by  the  word  '  soul '  which  he  uses  himself.    It  may  suffice
-to  make  the  statement  that,  whatever  word  the  Melane-
-sian  people  use  for  soul,  they  mean  something  essentially
+to  make  the  statement  that,  whatever  word  the  Melanesian  people  use  for  soul,  they  mean  something  essentially
 belonging  to  each  man's  nature  which  carries  life  to  his
 body  with  it,  and  is  the  seat  of  thought  and  intelligence,
 exercising  therefore  power  which  is  not  of  the  body  and  is
-invisible  in  its  action.    Further  understanding  of  their  con-
-ceptions cannot  well  fail  to  follow  from  the  study  of  the
+invisible  in  its  action.    Further  understanding  of  their  conceptions cannot  well  fail  to  follow  from  the  study  of  the
 words  they  use.
 
 It  has  been  shown  (page  121)  that  among  Melanesians  there
@@ -11183,8 +10746,7 @@ is  a  universal  belief  in  the  existence  of  personal  intelligent
 beings  of  power  superior  to  that  of  men,  and  without  bodies
 such  as  are  the  bodies  of  mankind;  and  that  these  beings,
 whom  we  call  spirits,  are  distinct  from  the  disembodied  spirits
-or  souls  of  dead  men  which  we  call  ghosts.  It  is  not  sur-
-prising, therefore,  that  the  same  word  which  is  used  for  spirit
+or  souls  of  dead  men  which  we  call  ghosts.  It  is  not  surprising, therefore,  that  the  same  word  which  is  used  for  spirit
 should  be  used  also  to  describe  the  soul  of  man  while  it  is
 clothed  with  and  animates  his  body.  The  soul  of  a  living
 1  Quoted  in  Professor  Max  Mtiller's  Hibbert  Lectures,  p.  88.
@@ -11208,8 +10770,7 @@ leaf,  which  he  hangs  up  in  his  house ;  thus  he  does  not  lose
 more  than  the  fleshly  accidents  of  the  pig,  the  tarunga  remains
 waiting  to  animate  some  pig  that  will  be  born.  A  pig  is  an
 animal  of  distinction  and  has  a  tarunga  ;  yams  and  such
-things  have  none ;  they  do  not  live  with  any  kind  of  in-
-telligence. Is  it  then  to  be  said  that  a  man  and  a  pig
+things  have  none ;  they  do  not  live  with  any  kind  of  intelligence. Is  it  then  to  be  said  that  a  man  and  a  pig
 are  alike  as  regards  the  tarunga,  that  each  has  a  soul  ?  The
 native  to  whom  the  question  is  put  intelligibly  will  laugh ;
 such  a  thing  cannot  be  ;  when  a  man  dies  his  tarunga  is  a
@@ -11223,8 +10784,7 @@ impossible  to  say  that  it  would  be  incorrectly  so  used,  for  the
 nature  of  a  vui  and  of  a  soul  is  the  same  (page  1 24)  2.  The
 words  accepted  in  use  to  represent  the  English  soul  are  in
 Motlav  lalegi,  in  Mota  atai.  A  man's  talegi  goes  out  of  him  in
-sleep,  not  in  all  dreams,  but  in  such  as  leave  a  vivid  im-
-pression of  scenes  and  persons  visited  when  the  man  awakes.
+sleep,  not  in  all  dreams,  but  in  such  as  leave  a  vivid  impression of  scenes  and  persons  visited  when  the  man  awakes.
 
 1  The  word  taluna,  .another  form  of  tarunga,  is  found  in  Santa  Cruz,  but  I
 am  unable  to  assign  to  it  anymore  particular  meaning  than  '  spirit.'
@@ -11232,8 +10792,6 @@ am  unable  to  assign  to  it  anymore  particular  meaning  than  '  spirit.'
 a  In  fact  I  have  known  a  native  of  Mota  writing  of  his  inward  feelings  to
 speak  of  his  vui,  na  vuik.
 
-
-250         Death.    Burial.    After  Death.  [CH.
 
 When  a  man  fainted  the  talegi  had  gone  out,  but  life  remained.
 Life  depends  on  the  presence  of  the  talegi  in  the  body,  health
@@ -11259,12 +10817,9 @@ person  of  the  man.  But  that  the  shadow  was  the  soul  was
 never  thought.  So  in  Saa  they  talk  of  a  ghost  snatching
 away  the  shadow  of  a  child  that  starts  in  sleep,  and  a
 doctor  undertakes  to  bring  it  back ;  but,  says  Joseph  Wate,
-who  tells  the  tale,  1  they  say  shadow  and  they  mean  some-
-thing else,  for  the  shadow  of  the  child  is  seen  all  the  while.'
-The  use  of  the  word  atai  in  Mota  seems  properly  and  origin-
-ally to  have  been  to  signify  something  peculiarly  and
-intimately  connected  with  a  person  and  sacred  to  him,  some-
-thing that  he  has  set  his  fancy  upon  when  he  has  seen  it  in
+who  tells  the  tale,  1  they  say  shadow  and  they  mean  something else,  for  the  shadow  of  the  child  is  seen  all  the  while.'
+The  use  of  the  word  atai  in  Mota  seems  properly  and  originally to  have  been  to  signify  something  peculiarly  and
+intimately  connected  with  a  person  and  sacred  to  him,  something that  he  has  set  his  fancy  upon  when  he  has  seen  it  in
 what  has  seemed  to  him  a  wonderful  manner,  or  some  one  has
 shewn  it  to  him  as  such.  Whatever  the  thing  might  be  the
 man  believed  it  to  be  the  reflection  of  his  own  personality;
@@ -11280,8 +10835,7 @@ second  self,  the  visible  object  so  mysteriously  connected  with
 the  man,  and  to  this  invisible  second  self  which  we  call  the
 soul.   There  is  another  Mota  word,  tamaniu,  which  has  almost
 if  not  quite  the  same  meaning-  as  atai  has  when  it  describes
-something  animate  or  inanimate  which  a  man  has  come  to  be-
-lieve to  have  an  existence  intimately  connected  with  his  own.
+something  animate  or  inanimate  which  a  man  has  come  to  believe to  have  an  existence  intimately  connected  with  his  own.
 The  word  tamaniu  may  be  taken  to  be  properly  'likeness,'  and
 the  noun  form  of  the  adverb  tama,  as,  like.    It  was  not  every
 one  in  Mota  who  had  his  tamaniu ;  only  some  men  fancied
@@ -11314,8 +10868,6 @@ remains  ;  a  man  fishing  for  flying-fish  paddles  all  day  alone  in
 his  canoe  with  a  long  light  line  fastened  round  his  neck  ;  he
 lies  down  tired  at  night  and  feels  the  line  pulling  as  if  a  fish
 
-
-252  Death.    Burial.    After  Death.  [cH.
 
 were  caught,  though  the  line  is  no  longer  on  his  neck  ;  this  is
 the  nunuai  of  the  line.  To  the  native  it  is  not  a  mere  fancy,
@@ -11382,8 +10934,7 @@ concerning  the  state  after  death  together  as  they  are  found  in
 the  various  islands.  It  will  be  seen  that  there  is  a  considerable
 agreement  both  in  customs  and  beliefs,  and  a  universal  consent
 about  some  particulars,  such  as  in  belief  in  the  continued
-existence  of  the  separated  soul,  and  in  the  practice  of  com-
-memorating the  dead  by  feasts  at  which  some  portion  of  food
+existence  of  the  separated  soul,  and  in  the  practice  of  commemorating the  dead  by  feasts  at  which  some  portion  of  food
 is  offered  to  them.  In  the  Solomon  Islands  the  ghost,  being
 the  principal  object  of  worship,  occupies,  as  has  been  shewn,  a
 much  higher  place  in  the  religious  world  of  the  natives  than
@@ -11393,13 +10944,10 @@ the  distinction  between  the  two  classes  of  ghosts  which  is
 generally  recognized  in  the  former  islands.  The  distinction  is
 between  ghosts  of  power  and  ghosts  of  no  account,  between
 those  whose  help  is  sought  and  their  wrath  deprecated,  and
-those  from  whom  nothing  is  expected  and  to  whom  no  ob-
-servance is  due.  Among  living  men  there  are  some  who  stand
+those  from  whom  nothing  is  expected  and  to  whom  no  observance is  due.  Among  living  men  there  are  some  who  stand
 out  distinguished  for  capacity  in  affairs,  success  in  life,  valour
 in  fighting,  and  influence  over  others ;  and  these  are  so,  it  is
 
-
-254         Death.    Burial.    After  Death.  [CH.
 
 believed,  because  of  the  supernatural  and  mysterious  powers
 which  they  have,  and  which  are  derived  from  communication
@@ -11412,8 +10960,7 @@ the  aid  of  his  powers  is  sought  and  worship  is  offered  him ;
 he  is  the  tindalo  of  Florida,  the  lio'a  of  Saa.  In  every  society,'
 again,  the  multitude  is  composed  of  insignificant  persons!
 •numerus  fruges  consumere  nati,'  of  no  particular  account  for
-valour,  skill,  or  prosperity.  The  ghosts  of  such  persons  con-
-tinue their  insignificance,  and  are  nobodies  after  death  as
+valour,  skill,  or  prosperity.  The  ghosts  of  such  persons  continue their  insignificance,  and  are  nobodies  after  death  as
 before  ;  they  are  ghosts  because  all  men  have  souls,  and  the  souls
 of  dead  men  are  ghosts  ;  they  are  dreaded  because  all  ghosts  are
 awful,  but  they  get  no  worship  and  are  soon  only  thought  of
@@ -11421,13 +10968,10 @@ as  the  crowd  of  the  nameless  population  of  the  lower  world.
 
 In  the  Solomon  Islands,  in  Florida,  when  a  man  dies,  his
 spirit,  tarunga,  becomes  a  ghost,  tindalo,  and  the  body  is
-spoken  of  as  a  dead  man,  tinoni  mate.  Some  ghosts  are  wor-
-shipped and  exercise  much  spiritual  activity  in  the  world  as
-tindalo  (chaps,  vii,  viii) ;  some  pass  at  once  out  of  the  con-
-sideration of  all  but  members  of  the  family.  The  corpse  is
+spoken  of  as  a  dead  man,  tinoni  mate.  Some  ghosts  are  worshipped and  exercise  much  spiritual  activity  in  the  world  as
+tindalo  (chaps,  vii,  viii) ;  some  pass  at  once  out  of  the  consideration of  all  but  members  of  the  family.  The  corpse  is
 usually  buried.  Common  men  are  buried  in  their  garden
-ground,  chiefs  sometimes  in  the  village,  a  chiefs  child  some-
-times in  the  house.  The  grave  is  not  deep;  it  becomes
+ground,  chiefs  sometimes  in  the  village,  a  chiefs  child  sometimes in  the  house.  The  grave  is  not  deep;  it  becomes
 sacred  in  so  far  as  no  one  will  tread  upon  any  grave,  while
 the  burial-place  of  a  man  whose  tindalo  has  become  an  object
 of  worship  is  a  sanctuary,  vunuha ;  the  skull  is  often  dug
@@ -11464,13 +11008,11 @@ indeed,  perhaps,  a  touching  sight;  for  these  things  are  not
 set  up  that  they  may  in  a  ghostly  manner  accompany  their
 former  owner,  they  are  set  there  for  a  memorial  of  him  as  a
 great  and  valued  man,  like  the  hatchment  of  old  times.
-With  the  same  feeling  they  cut  down  a  dead  man's  fruit-
-trees  as  a  mark  of  respect  and  affection,  not  with  any  notion
+With  the  same  feeling  they  cut  down  a  dead  man's  fruittrees  as  a  mark  of  respect  and  affection,  not  with  any  notion
 of  these  things  serving  him  in  the  world  of  ghosts ;  he  ate  of
 them,  they  say,  when  he  was  alive,  he  will  never  eat  again,
 and  no  one  else  shall  have  them.    There  is  a  certain  notion
-that  burial  is  a  benefit  to  the  ghost ;  if  a  man  is  killed  any-
-where and  his  body  is  not  buried,  his  ghost  will  haunt  the
+that  burial  is  a  benefit  to  the  ghost ;  if  a  man  is  killed  anywhere and  his  body  is  not  buried,  his  ghost  will  haunt  the
 place  ;  when  a  man's  head  has  been  taken,  and  his  skull  added
 to  some  chief's  collection,  the  ghost  for  a  time,  at  least,
 haunts  about ;  and  so  it  is  also  when  the  arms  and  legs  of
@@ -11481,8 +11023,6 @@ abode  of  the  departed  is  Betindalo ;  but  yet  ghosts  not  only
 haunt  their  burial-places  and  come  to  the  sacrifices  offered  to
 them,  but  they  are  heard  at  play  by  night  blowing  panpipes,
 
-
-256         Death.    Burial.    After  Death.  [CH.
 
 dancing  and  shouting.    Betindalo  is  apparently  situated  in
 the  south-eastern  part  of  the  great  island  of  Guadalcanal-,  to
@@ -11531,8 +11071,7 @@ the  island  neatly  kept,  and  bathing-places  cleared  of  stones ;
 if  they  hang  up  fish  in  the  trees,  they  seek  for  them  in  vain
 in  the  morning  ;  marks  made  to  shew  a  road  are  taken  away.
 On  the  top  of  the  island  is  a  pool  of  water,  Kolapapauro,  and
-thither  the  ghosts,  when  they  arrive,  repair  to  present  them-
-selves to  Bolafagina,  the  Mndaclho  who  is  the  lord  of  the
+thither  the  ghosts,  when  they  arrive,  repair  to  present  themselves to  Bolafagina,  the  Mndaclho  who  is  the  lord  of  the
 place.  Across  the  pool  is  a  narrow  tree-trunk  lying,  along
 which  the  ghosts  advance ;  Bolafagina  examines  their  hands
 to  see  if  they  have  the  mark  cut  upon  them  (a  conventional
@@ -11556,8 +11095,7 @@ At  Wango  in  San  Cristoval  the  soul,  'aunga  (another  form
 of  tarunga),  departed  from  the  body  becomes  a  ghost,  'ataro,  and
 the  ghost  on  leaving  the  body  is  believed  to  make  its  way  to
 three  small  islands  near  Ulawa.  On  his  first  arrival  there  the
-ghost  feels  himself  still  a  man,  and  does  not  realize  his  con-
-dition ;  he  finds  friends,  and  gives  them  the  news  of  the  place
+ghost  feels  himself  still  a  man,  and  does  not  realize  his  condition ;  he  finds  friends,  and  gives  them  the  news  of  the  place
 he  has  just  left.  After  some  days  a  kingfisher  pecks  his  head,
 and  he  becomes  a  mere  ghost  (page  190).  The  existence  of
 the  ghosts  in  these  islands,  Rondomana,  is  shadowy  and
@@ -11569,12 +11107,9 @@ rifles,  money,  and  valuables  of  all  kinds.'— Rev.  A.  Penny.
 S
 
 
-258  Death.   Burial.    After  Death.  [CH.
-
 inactive  ;  they  range  aimlessly  about  and  lodge  in  caves.  Men
 landing-  on  the  islands  in  stress  of  weather  see  them  on  the
-beach  ;  but  they  dread  living-  men,  and  disappear  when  closely-
-approached.  It  must  be  taken  that  these  'ataro  which  abide
+beach  ;  but  they  dread  living-  men,  and  disappear  when  closelyapproached.  It  must  be  taken  that  these  'ataro  which  abide
 in  Rondomana  are  but  the  ghosts  of  common  men  who  while
 they  lived  had  no  power,  mana  ;  for  there  are  'ataro  also  which
 are  active  and  powerful,  feared,  invoked,  and  propitiated,
@@ -11591,8 +11126,7 @@ people  are  cast  into  the  sea,  but  men  of  consequence  are
 buried,  and  some  relic  of  them,  skull,  tooth,  or  finger-bone,
 is  taken  up  and  preserved  in  a  shrine  in  the  village.
 There  are,  therefore,  land  ghosts  and  sea  ghosts.  The  former
-are  seen  about  the  villages  and  heard  to  speak,  haunt-
-ing their  graves  and  relics ;  their  appearance  that  of  men
+are  seen  about  the  villages  and  heard  to  speak,  haunting their  graves  and  relics ;  their  appearance  that  of  men
 lately  dead,  their  voice  a  hollow  whisper.  Their  aid  can  be
 obtained  by  those  who  know  them,  and  they  are  believed  to
 fight  among  themselves  with  ghostly  weapons.  The  ghosts
@@ -11638,8 +11172,6 @@ before  it  food  Was  placed.
 s  %
 
 
-260         Death.    Burial.    After  Death.  [CH.
-
 At  Saa,  and  in  the  neighbouring  parts  of  Malanta,  the  same
 word  is  used  for  the  soul  of  a  living  man  and  the  ghost  of  an
 ordinary  person,  'akalo,  which  is  another  form  of  the  'alaro  of
@@ -11665,8 +11197,7 @@ it  is  no  longer  a  man.  The  ghostly  inhabitants  of  Marapa
 live  something  like  a  worldly  life ;  the  children  chatter  and
 annoy  the  elder  ghosts,  so  they  are  placed  apart  upon  the
 second  island ;  men  and  women  ghosts  are  together,  they  have
-houses,  gardens,  and  canoes,  yet  all  is  unsubstantial.  Living-
-men  cross  to  Marapa  and  see  nothing ;  but  there  is  water
+houses,  gardens,  and  canoes,  yet  all  is  unsubstantial.  Livingmen  cross  to  Marapa  and  see  nothing ;  but  there  is  water
 there  in  which  laughter  and  cries  are  heard ;  there  are  places
 where  water  is  seen  to  have  been  disturbed,  and  the  banks  are
 wet  as  if  bathers  had  been  there.  A  dead  chief  makes  his
@@ -11685,12 +11216,10 @@ Ho'a  ghosts  of  power  last  longer  because  they  are  sa&a,  and  the
 more  saka  they  are  the  longer  they  last ;  they  are  remembered
 and  worshipped  on  earth,  and  so  long  their  strength  remains ;
 but  when  men  forget  them  aud  turn  to  worship  some  more
-lately  dead,  and  when  no  sacrificial  food  is  offered  them,  then-
-power  fades  away,  and  they  turn  into  white  ants'  nests  like
+lately  dead,  and  when  no  sacrificial  food  is  offered  them,  thenpower  fades  away,  and  they  turn  into  white  ants'  nests  like
 the  others.  There  are  two  rulers  of  Marapa,  who  are  called
 lid  a,  though  not  strictly  so,  because  they  were  never  men  and
-never  pass  away— the  chief  Kari'eu,  and  inferior  to  him,  Kikiri-
-ba'u,  the  cutter— off  of  heads.  These  two  go  about  in  their
+never  pass  away— the  chief  Kari'eu,  and  inferior  to  him,  Kikiriba'u,  the  cutter— off  of  heads.  These  two  go  about  in  their
 canoes,  one  collecting  ghosts,  the  other  heads;  in  times  of
 sickness  at  Saa  if  trunks  of  trees  are  seen  floating  by  at  sea
 they  are  said  to  be  the  canoes  of  Kari'eu  and  Kikiriba'u.  The
@@ -11699,8 +11228,7 @@ their  village  and  their  friends  again.  They  are  seen  like
 shadows,  having  a  certain  form  fleeting  and  indistinct,  some
 hideous,  some  not  unpleasant.  If  one  who  sees  a  ghost  is
 not  frightened  he  can  discern  the  features  and  know  who
-it  is ;  but  if  he  is  frightened  he  sees  only  a  dreadful  some-
-thing. A  man  who  for  some  reason  wishes  to  see  a  ghost,
+it  is ;  but  if  he  is  frightened  he  sees  only  a  dreadful  something. A  man  who  for  some  reason  wishes  to  see  a  ghost,
 puts  lime  from  his  betel-box  upon  his  forehead,  and  then  he
 plainly  sees.
 
@@ -11730,8 +11258,7 @@ corpse  is  kept  in  this  way  for  years,  either  in  the  house  or  in
 the  o/ia,  the  public  canoe-house,  waiting  for  a  great  funeral
 feast1.    When  a  year  of  good  crops  arrives  a  man  will  say,
 '  Now  we  wiU  take  out  Father.'    The  corpse  is  taken  then,  if
-that  of  a  comparatively  inferior  person,  to  the  common  burial-
-ground,  if  of  a  chief,  to  the  family  burying-place,  where
+that  of  a  comparatively  inferior  person,  to  the  common  burialground,  if  of  a  chief,  to  the  family  burying-place,  where
 sacrifices  are  made  as  above  (page  137)  described.    The  skull
 and  jawbone  are  taken  out,  and  these  are  called  mangite,  which
 are  saka,  hot  with  spiritual  power,  and  by  means  of  which  the
@@ -11786,8 +11313,7 @@ in  the  sea,  burnt,  enclosed  in  a  case,  or  rapidly  denuded  of
 flesh,  is  active  and  available  at  once.
 
 The  ornaments  of  a  dead  man  are  buried  with  him,  or  are
-kept  in  remembrance  of  him.  A  man's  cocoa-nut  and  bread-
-fruit-trees, and  others,  are  cut  down  by  his  friends  after  his
+kept  in  remembrance  of  him.  A  man's  cocoa-nut  and  breadfruit-trees, and  others,  are  cut  down  by  his  friends  after  his
 death,  out  of  respect  to  him  as  they  say;  and  they  deny  that
 they  think  that  such  things  follow  a  man  in  any  ghostly  form,
 since  it  seems  ridiculous  to  suppose  that  even  pigs  can  have  a
@@ -11796,8 +11322,7 @@ dead  chief  they  ngoli-tda,  they  fence  round  a  certain  plot  of
 ground  and  put  his  canoe  in  it  in  memory  of  him,  with  his
 bowl  and  weapons ;  his  friends  add  such  things  of  their  own
 in  honour  of  him,  and  decorate  the  fence  with  leaves  and
-flowers.  For  a  man  of  no  great  position  they  content  them-
-selves with  throwing  yams  and  other  food  upon  the  roof  of
+flowers.  For  a  man  of  no  great  position  they  content  themselves with  throwing  yams  and  other  food  upon  the  roof  of
 the  dead  man's  house  in  memory  of  him.
 
 At  Santa  Cruz  the  corpse  is  buried  in  a  very  deep  grave  in
@@ -11808,8 +11333,6 @@ over  a  man  and  then  bury  him ;  on  the  fifth  day  the  funeral
 of  the  dead  which  Dr.  Guppy  found  to  be  common  in  the  chiefs'  families  about
 the  Bougainville  Straits.
 
-
-264         Death.    Burial.    After  Death.  [cH.
 
 meal  is  eaten  and  all  is  over.  Inland  they  dig  up  the  bones
 again  to  make  arrowheads,  and  take  the  skull  to  keep  in  a
@@ -11827,18 +11350,14 @@ The  abode  of  the  dead  has  in  all  these  examples  been  shewn
 to  be  above  ground,  in  islands  more  or  less  remote  from  tho<=e
 in  which  the  living  dwell,  and  all  known  and  visited  by  living
 men.    It  is  probable,  however,  that  a  certain  belief  in  an
-underworld  is  also  present,  the  Turivatu  of  the  Florida  invoca-
-tion in  sacrifice  (page  131),  a  region  beneath  the  earth
-corresponding  to  that  country  above  the  sky  where  Kamaka-
-jaku  or  Vulaninggela  visited  the  sun.    The  belief  in  Santa
-Cruz  that  ghosts  pass  into  the  great  volcano  implies  some-
-thing of  a  descent  below,  as  does  the  parallel  belief  at  Savo
+underworld  is  also  present,  the  Turivatu  of  the  Florida  invocation in  sacrifice  (page  131),  a  region  beneath  the  earth
+corresponding  to  that  country  above  the  sky  where  Kamakajaku  or  Vulaninggela  visited  the  sun.    The  belief  in  Santa
+Cruz  that  ghosts  pass  into  the  great  volcano  implies  something of  a  descent  below,  as  does  the  parallel  belief  at  Savo
 that  the  volcanic  crater  there  is  the  receptacle  of  departed
 spirits.    When  we  pass,  however,  to  the  eastward  the  ghosts
 no  longer  have  their  abodes  upon  the  surface  of  the  earth,  but
 underground.    Erom  the  Torres  Islands  to  Pentecost  in  "the
-New  Hebrides,  the  name  of  the  nether- world  is,  with  varia-
-tions, Panoi,  to  which  all  the  openings— whether  by  volcanic
+New  Hebrides,  the  name  of  the  nether- world  is,  with  variations, Panoi,  to  which  all  the  openings— whether  by  volcanic
 vents  or  unknown  mouths— throughout  all  these  neighbouring
 islands  lead.    In  all  alike  the  ghosts  assemble  at  certain
 places  and  go  down  to  what  is  their  proper  place,  though  they
@@ -11875,8 +11394,7 @@ down  it  caught  against  a  stick.    Then  she  went  home,
 where  she  had  left  her  child.    The  child,  however,  refused  to
 recognize  her,  crying  that  its  mother  was  an  old  woman  not
 like  this  young  stranger  ;  and  to  pacify  the  child  she  went  after
-her  cast  integument  and  put  it  on.    From  that  time  man-
-kind ceased  to  cast  their  skins  and  died.    In  another  Banks'
+her  cast  integument  and  put  it  on.    From  that  time  mankind ceased  to  cast  their  skins  and  died.    In  another  Banks'
 Island  story  this  woman  is  Iro  Puget,  Bird's-nest  Pern,  the
 wife  of  Mate,  Death  \    There  are  many  others.    In  one  the
 cause  of  the  introduction  of  Death  was  the  inconvenience  of
@@ -11884,8 +11402,7 @@ the  permanence  of  property  in  the  same  hands  while  men
 changed  their  skins  and  lived  for  ever.    Qat  therefore  sent
 for  Mate,  who  dwelt  in  Panoi,  or  by  the  side  of  a  volcanic
 vent  in  Santa  Maria,  and  assured  him  that  he  would  only
-have  to  go  to  Vanua  Lava  and  not  be  hurt.    Death  there-
-fore came  forth ;  they  laid  him  on  a  board,  killed  a  pig,  and
+have  to  go  to  Vanua  Lava  and  not  be  hurt.    Death  therefore came  forth ;  they  laid  him  on  a  board,  killed  a  pig,  and
 covered  him  over ;  then  they  proceeded  to  divide  his  property
 
 1  There  is  a  saying  at  Mota,  when  any  one  is  observed  not  to  have  his  ears
@@ -11898,8 +11415,7 @@ This  is  parallel  to  what  has  been  noticed  at  Florida  and  Bugotu.
 266         Death.    Burial.    After  Death.  [c„.
 
 and  eat  the  funeral  feast.  On  the  fifth  day  when  the  conch
-was  blown  to  drive  away  the  ghost,  Qat  opened  the  covering-
-over  Mate  and  found  him  gone  ;  nothing  but  bones  remained.
+was  blown  to  drive  away  the  ghost,  Qat  opened  the  coveringover  Mate  and  found  him  gone  ;  nothing  but  bones  remained.
 In  the  meanwhile  Tangaro  the  Fool  had  been  set  to  watch
 the  way  to  Panoi,  where  the  paths  to  the  lower  and  upper
 worlds  divided,  lest  Mate  should  go  below ;  the  fool  sat  in
@@ -11955,8 +11471,7 @@ by  noises  in  the  house  and  lights  upon  the  grave.    It  is  not
 generally  in  the  Banks'  Islands  thought  desirable  that  the
 ghost  should  stay  longer  than  the  fifth  day,  and  there  is  a
 custom  of  driving  it  away  with  shouts  and  blowing  of  conchs;
-in  some  places  bull-roarers  are  sounded.    It  will  be  con-
-venient to  take  the  proceedings  which  follow  after  death  in
+in  some  places  bull-roarers  are  sounded.    It  will  be  convenient to  take  the  proceedings  which  follow  after  death  in
 the  various  islands  of  the  group,  before  describing  the  course
 of  the  departed  ghost  into  the  lower  world  and  its  condition
 there.    These  proceedings  consist  of  the  mourning,  the
@@ -12011,8 +11526,7 @@ a  great  man,  to  say  what  was  heaped  beside  him.   The  orator
 would  not  spare  his  faults 1 ;  if  he  were  a  man  of  bad  character
 he  would  say  to  him,  '  Poor  ghost !  will  you  be  able  to  enter
 Panoi?    I  think  not.'    Then  the  burial  took  place.  Upon
-the  grave  was  set  a  bamboo  vessel  of  water  with  a  cocoa-nut-
-shell cup,  and  a  little  dish  with  a  roasted  yam  in  it ;  as  the
+the  grave  was  set  a  bamboo  vessel  of  water  with  a  cocoa-nutshell cup,  and  a  little  dish  with  a  roasted  yam  in  it ;  as  the
 food  was  eaten  by  rats  they  renewed  it,  for  the  rat  might  be
 the  deceased  himself,  at  any  rate  during  the  five  days  that  the
 ghost  remained  about  the  place.    At  Gaua  they  hang  up  pigs
@@ -12053,8 +11567,7 @@ for  arrows.    At  Ureparapara 2  as  soon  as  a  man  dies  his
 
 1  If  the  pigs  that  have  been  killed  are  seen  in  Panoi,  it  may  be  thought  that
 they  must  have  souls  to  be  seen  there,  since  their  bodies  are  at  the  grave.  But
-this  is  not  the  native  notion ;  of  a  pig  or  an  ornament  there  is  a  certain  some-
-thing, shadow,  echo,  of  itself  that  can  be  seen,  but  there  is  not  that  which  man
+this  is  not  the  native  notion ;  of  a  pig  or  an  ornament  there  is  a  certain  something, shadow,  echo,  of  itself  that  can  be  seen,  but  there  is  not  that  which  man
 has,  the  intelligent  personal  spiritual  part  which  separates  from  the  body  in
 death.  When  a  ghost  is  seen  what  is  seen  ?  Not  the  soul,  the  atai,  but  the
 dead  man,  the  tamate  ;  for  the  atai  can  never  be  seen,  the  nunuai,  echo,  of  the
@@ -12065,8 +11578,6 @@ that  appears  ?
 2  For  this  and  for  what  follows  concerning  Lakona,  I  am  indebted  to  the
 Kev.  J.  Palmer.
 
-
-270         Death.    Burial.    After  Death.  [CH.
 
 friends  bring  a  quantity  of  food  of  all  kinds  to  hang-  up  on
 white  peeled  palako  sticks  round  the  corpse  when  it  is  laid
@@ -12127,8 +11638,7 @@ not  strike  another  man  with  the  disease.
 
 The  series  of  funeral-feasts  or  death-meals,  the  1  eating  the
 death  '  as  they  call  it,  follows  upon  the  funeral,  or  even  begins
-before  it,  and  is  the  most  important  part  of  the  commemora-
-tion of  the  dead ;  it  may  be  said,  indeed,  to  be  one  of  the
+before  it,  and  is  the  most  important  part  of  the  commemoration of  the  dead ;  it  may  be  said,  indeed,  to  be  one  of  the
 principal  institutions  of  the  islands.  The  number  of  the
 feasts  and  the  length  of  time  during  which  they  are  repeated
 varys  very  much  in  the  various  islands,  and  depend  also  upon
@@ -12149,8 +11659,6 @@ cooked.'  At  a  death-meal  the  words  are  'This  is  for  thee.'
 It  is  readily  denied  now  that  the  dead,  either  dead  friends
 generally  in  the  one  case  or  the  lately  deceased  in  the
 
-
-272  Death.    Burial.    After  Death.  [CH.
 
 other,  are  thought  to  come  and  eat  the  food,  which  they  say
 is  given  as  a  friendly  remembrance  only,  and  in  the  way  of
@@ -12200,8 +11708,7 @@ death-meal  with  cheerfulness ;  visitors  come  to  dance  and  are
 paid  for  it.  The  death-feast  lasts  only  five  days  for  a  woman,
 six  for  a  man.  The  concluding  action  is  peculiar  to  Lakona ;
 on  the  sixth  day  after  death  each  man  kills  a  sow,  and  the
-women  come  and  buy  the  meat,  from  which  the  last  death-
-meal,  called  the  Vulqat,  is  supplied.  The  next  morning  all  is
+women  come  and  buy  the  meat,  from  which  the  last  deathmeal,  called  the  Vulqat,  is  supplied.  The  next  morning  all  is
 finished  with  a  meal  '  to  clear  away  the  Vulqat.'
 
 The  ghost  when  it  leaves  its  former  dwelling-place  makes
@@ -12235,8 +11742,6 @@ difficult  indeed  to  obtain  from  the  natives  of  this  group  ;  nor
 
 T
 
-
-274         Death.    Burial.    After  Death.  [CH.
 
 perhaps  is  it  reasonable  to  expect  it.    But  the  stories  of
 descents  to  Panoi  shew  in  their  relation  what  are  the  common
@@ -12307,8 +11812,7 @@ when  she  is  buried.  Then,  as  she  departs,  she  thinks  she  has
 the  child  with  her ;  as  she  goes  the  banana  stalk  slips  about
 in  the  leaves  and  she  thinks  the  child  is  moving ;  and  this  in
 her  bewildered  new  condition  contents  her,  till  she  gets  to-
-Panoi  and  finds  that  she  has  been  deceived.  In  the  mean-
-while the  child  has  been  taken  to  another  house,  because  they
+Panoi  and  finds  that  she  has  been  deceived.  In  the  meanwhile the  child  has  been  taken  to  another  house,  because  they
 know  that  the  mother  will  come  back  to  take  its  soul.  She
 seeks  everywhere  for  the  child  in  grief  and  rage  without
 ceasing ;  and  the  ghost  of  a  vasisgona  therefore  is  particularly
@@ -12321,8 +11825,6 @@ is  like  the  upper  world,  villages,  houses,  trees  with  red  leaves,
 
 T  2
 
-
-276  Death.    Burial.    After  Death.  [cH.
 
 and  there  is  day  and  night ;  it  is  even  a  beautiful  place,  for
 at  a  great  festival  when  the  village  place  is  bright  with
@@ -12393,8 +11895,7 @@ of  Valuwa,  who  went  down  and  saw  his  wife ;  but  a  man  in
 Motlav,  more  lately  dead,  used  to  go  down  in  sleep,  his  soul
 descending,  and  his  body  remaining  as  in  a  trance.    He  could
 do  this  at  will,  and  received  money  for  doing  it,  professing  to
-visit  the  recently  dead,  about  whom  their  friends  were  un-
-happy, and  even  to  be  able  to  bring  them  back.    He  never
+visit  the  recently  dead,  about  whom  their  friends  were  unhappy, and  even  to  be  able  to  bring  them  back.    He  never
 did  in  fact  bring  any  back ;  he  said  he  had  seen  the  persons
 and  talked  with  them,  but  was  prevented  from  bringing  them
 back.    He,  too,  prepared  for  his  soul's  descent  by  washing  his
@@ -12427,8 +11928,7 @@ they  have  when  they  come  back  into  the  world;   else  the
 man  could  not  have  taken  hold  of  his  dead  wife's  hand.
 When  a  ghost  comes  into  the  world,  it  is  but  a  taqangiu  that
 is  seen,  a  something  circumscribed  by  an  outline  like  a
-shadow;  but  the  ghost  in  Panoi,  of  which  the  other  is  prob-
-ably again  the  ghost,  has  a  tarapei,  a  body,  which  has  not
+shadow;  but  the  ghost  in  Panoi,  of  which  the  other  is  probably again  the  ghost,  has  a  tarapei,  a  body,  which  has  not
 only  form  and  colour,  but  a  certain  consistency.    There  is
 still  living  in  Vanua  Lava  a  woman  who  turned  her  descent
 to  Panoi  to  a  useful  purpose.    Her  husband,  a  Gaua  man,
@@ -12450,8 +11950,7 @@ which  what  follows  is  generally  a  translation.    In  the  first
 xv.]    New  Hebrides.   Journey  of  the  Dead.  279
 
 place,  he  says,  they  think  that  when  the  wljamani,  leaves
-the  body  in  death,  it  mounts  into  a  tree  m  which  is  a  birds-
-nest  fern,  and  sitting  among  the  fronds,  laughs  and  mocks  at
+the  body  in  death,  it  mounts  into  a  tree  m  which  is  a  birdsnest  fern,  and  sitting  among  the  fronds,  laughs  and  mocks  at
 the  people  who  are  crying  and  making  great  lamentations
 over  him.    There  he  sits,  wondering  at  them  and  ridiculing
 them.   <  What  are  they  crying  for  ?  '  he  says  ;  <  who  is  it  they
@@ -12478,8 +11977,7 @@ those  who  have  died  before  assemble  and  receive  him  joyfully.
 They  believe  also  that  as  he  runs  the  ghosts  of  those  whom  he
 has  wronged  in  this  world,  whom  he  has  foully  slain  by  club
 or  arrow,  or  has  killed  by  charms,  take  a  full  revenge  upon
-him,  beating  him,  tearing  him,  and  stabbing  him  with  dag-
-gers, mataso,  such  as  men  stick  pigs  with ;  one  of  them  will
+him,  beating  him,  tearing  him,  and  stabbing  him  with  daggers, mataso,  such  as  men  stick  pigs  with ;  one  of  them  will
 say  to  him,  '  While  you  were  still  in  the  world  you  thought
 yourself  a  valiant  man  ;  but  now  we  will  take  our  revenge
 upon  you.'    Another  path  of  the  ghosts  takes  them  to  the
@@ -12496,8 +11994,7 @@ ghosts.    Here  is  the  mouth  of  the  hollow  which  leads  to
 Hanoi  and  here  the  newly-arrived  ghost  is  beaten  by  those
 whom  he  has  wronged,  and  they  cry  to  him,  <  Down  already ' '
 Here  is  Gaviga,  a  mi,  the  chief  of  Banoi,  and  Matamakira,  or
-fealolo  as  the  Tanorild  people  say,  a  quarrelsome  and  ill-
-tempered  man  on  earth ;  these  stand  with  large  and  sharp
+fealolo  as  the  Tanorild  people  say,  a  quarrelsome  and  illtempered  man  on  earth ;  these  stand  with  large  and  sharp
 spears  and  try  to  stab  the  new-comers.  There  is  a  huo-e  fierce
 pig  also  there,  which  will  devour  all  who  have  not  in  their
 lifetime  planted  the  emba,  pandanus,  from  which  mats  are  made
@@ -12524,10 +12021,8 @@ are  black,  and  feed  on  excrement,  some  of  them  at  least ;  and
 that  the  trees  there  have  red  leaves,  and  that  the  fowls  there
 are  also  red.
 
-The  writer  goes  on  to  describe  the  funeral  and  the  death-
-meals.  '  The  first  thing  after  the  death  of  a  man  of  some  rank,
-is  to  cut  in  the  bush  certain  vines  which  are  called  corpse-
-binding  vines.    Then  they  bring  together  many  mats  (such
+The  writer  goes  on  to  describe  the  funeral  and  the  deathmeals.  '  The  first  thing  after  the  death  of  a  man  of  some  rank,
+is  to  cut  in  the  bush  certain  vines  which  are  called  corpsebinding  vines.    Then  they  bring  together  many  mats  (such
 
 
 xvj  Aurora.    Burial.  281
@@ -12564,14 +12059,11 @@ on  a  mat,  "as  large  as  a  single  plank,"  which  remains  on  their
 head  as  a  sign  that  they  are  in  mourning  for  the  death,  and
 refrain  from  certain  food  ;  but  the  immediate  relatives  of  the
 deceased  may  not  eat  yam,  caladium,  bananas,  or  other  good
-food ;  they  eat  only  the  gigantic  caladium,  bread-fruit,  cocoa-
-nuts,  and  mallow,  and  other  things ;  and  all  these  they  seek
+food ;  they  eat  only  the  gigantic  caladium,  bread-fruit,  cocoanuts,  and  mallow,  and  other  things ;  and  all  these  they  seek
 in  the  bush  where  they  grow  wild,  not  eating  those  which  have
 been  planted.    They  count  five  days,  and  then  build  up  stones
 over  the  grave  ;  great  heaps  of  stones,  much  larger  than  are
 
-
-282         Death.    Burial.    After  Death.  [CH.
 
 now  made,  are  seen  where  men  of  old  times  were  buried
 Alter  that,  if  the  deceased  was  a  very  great  man  with  many
@@ -12598,8 +12090,7 @@ reason  for  it  but  that  V
 
 '  Meanwhile,'  he  continues,  '  the  ghosts  have  known  the
 number  of  days  since  the  last  comer  has  died  ;  and  the
-relatives  of  the  dead  man  have  counted  the  days  to  eat  the  death-
-meal  for  him,  the  fifth  day  or  the  tenth,  and  a  crowd  has
+relatives  of  the  dead  man  have  counted  the  days  to  eat  the  deathmeal  for  him,  the  fifth  day  or  the  tenth,  and  a  crowd  has
 
 1  Bishop  Selwyn  witnessed  a  singular  practice  at  Tanoriki  in  Aurora  on  the
 hundredth  day  after  a  woman's  death,  while  the  feast  was  being  held.  '  Pigs
@@ -12613,8 +12104,7 @@ exposed.  Long  before  they  came  in  sight  one  heard  cracks  like  a  whip
 saw  the  cause.  If  a  smiter  was  ready  he  threw  his  rod  back,  and  the  sufferer
 instantly  stood  still  and  received  an  unmerciful  thwack  delivered  with  both
 hands,  which  shivered  the  rod  to  atoms.  The  point  came  right  round  the  man's
-body,  and  I  could  see  the  long  wheals  afterwards,  though  the  back  was  some-
-what protected  by  the  string  girdle  they  wear.'
+body,  and  I  could  see  the  long  wheals  afterwards,  though  the  back  was  somewhat protected  by  the  string  girdle  they  wear.'
 
 
 xv. -\New  Hebrides.  Death-Meal.  Origin  of  Death.  283
@@ -12658,8 +12148,6 @@ two  don't  wish  to  live  for  ever,  but  would  rather  that  we  should
 not  live.'  She  had  just  come  back  from  changing  her  skin  in
 the  water  higher  up  in  the  stream  which  the  boys  were  blocking
 
-
-284         Death.    Burial.    After  Death.  [CH.
 
 back;  and  they  had  seen  the  cast-off  skin,  picked  it  up  with  a
 stick,  and  thrown  it  out  of  the  water.  The  old  woman  in  her
@@ -12715,8 +12203,7 @@ hear  his  voice.  They  have  no  thought  of  driving  away  the
 ghost ;  they  call  to  him  to  come  and  take  all  their  food  and
 all  they  have,  and  go  with  it  to  Nggalevu.  If  no  sound
 answers  to  the  last  call  they  think  he  has  already  gone.  A
-man  is  buried  with  his  bow  and  arrows  and  his  best  orna-
-ments ;  but  his  pigs'-tusk  bracelets  are  put  on  upside  down.
+man  is  buried  with  his  bow  and  arrows  and  his  best  ornaments ;  but  his  pigs'-tusk  bracelets  are  put  on  upside  down.
 Nggalevu  will  know  him  to  be  a  great  man  by  what  he  sees
 with  him  and  upon  him,  for  he  will  be  seen  as  a  man  is  seen
 though  he  be  a  ghost,  a  tamtegi ;  what  it  is  of  the  ornaments
@@ -12743,8 +12230,6 @@ reach,  there  is  a  volcanic  vent  which  sends  up  clouds  of  steam.
 Men  go  up  to  the  nearer  side  of  the  lake  and  climb  a  tree
 
 
-286  Death.    Burial.    After  Death.  [cH.
-
 which  overhangs  it ;  they  cry  aloud  to  Nggalevu  to  give
 a  sign  that  he  is  there,  and  a  column  of  steam  goes  up.  In
 Lolomboetogitogi  are  trees  and  houses  where  the  dead  have
@@ -12755,8 +12240,7 @@ and  fears  to  go  on  further.  In  Lolomboetogitogi  the  dead
 are  thought  to  live  a  happy  if  an  empty  life,  free  from  pain
 and  sickness  ;  but  there  are  those  that  come  out  for  mischief,
 hunting  men  to  add  them  to  their  company;  and  if  a  man
-has  left  children  when  he  died,  one  of  whom  sickens  after-
-wards, it  is  said  that  the  dead  father  takes  it.
+has  left  children  when  he  died,  one  of  whom  sickens  afterwards, it  is  said  that  the  dead  father  takes  it.
 
 Two  descents  to  Lolomboetogitogi  are  well  remembered.
 A  young  man  lost  his  wife  and  much  desired  once  more  to  see
@@ -12816,8 +12300,7 @@ fire  is  lighted  for  the  death-meal,  and  they  go  on  '  eating  the
 death '  for  a  hundred  days,  which  are  counted  on  a  cycas  leaf.
 By  way  of  mourning  the  relatives  smear  themselves  with
 smut  and  ashes.  The  ghosts,  going  away,  or  being  let  go,
-make  their  way  down  the  coast,  along  the  beach,  to  Vatang-
-gele,  where  they  are  heard  singing,  shouting,  and  drumming.
+make  their  way  down  the  coast,  along  the  beach,  to  Vatanggele,  where  they  are  heard  singing,  shouting,  and  drumming.
 The  place  of  assembly  before  the  descent  into  Banoi  is  a  point
 of  land  opposite  Ambrym,  where  there  is  a  stream  the  ghosts
 cannot  pass,  and  a  tree  from  which  they  leap  into  the
@@ -12827,8 +12310,6 @@ There  is  a  town  in  Banoi,  with  houses,  trees,  sweet-smelling
 plants,  and  shrubs  with  coloured  leaves,  but  no  gardens,  because
 there  is  no  work.    The  new-comer  is  weak  at  first,  and  rests
 
-
-288  Death.    Burial.    After  Death.  [cH.
 
 before  he  begins  to  move  about  the  place.  A  new  arrival  is
 g  reeted  by  a  danee  ;  for  the  husband,  wife,  or  friend  of  one
@@ -12890,8 +12371,7 @@ CHAPTER  XVI
 
 ARTS  OF  LIFE.
 
-The  foregoing  chapters  have  been,  mainly  at  least,  con-
-cerned with  subjects  to  deal  with  which  such  knowledge  of
+The  foregoing  chapters  have  been,  mainly  at  least,  concerned with  subjects  to  deal  with  which  such  knowledge  of
 the  thoughts  and  ways  of  Melanesian  people  as  can  only  be
 gained  by  personal  acquaintance  with  them,  and  familiarity
 with  their  language,  is  most  required.  The  present  chapter  will
@@ -12915,8 +12395,7 @@ in  what  natives  say  about  themselves.
 
 (i)  Canoes.  The  inhabitants  of  groups  of  islands  are  likely  to
 be  seafaring  people,  and  canoes  are  naturally  among  the  first
-objects  that  present  themselves  to  a  visitor.  Hardly  any-
-thing seems  in  my  remembrance  to  have  been  more  striking
+objects  that  present  themselves  to  a  visitor.  Hardly  anything seems  in  my  remembrance  to  have  been  more  striking
 
 
 Canoes.
@@ -12966,8 +12445,7 @@ decks  laid  with  planks  tied  on  with  sinnet.  Before  the  time
 when  the  labour  trade  made  the  natives  afraid  to  move
 about,  and  '  recruiting '  meant  destruction  of  canoes  for  the
 capture  of  their  crews,  red  '  butterfly '  sails  were  the  common
-and  pleasing  ornament  of  an  island  scene  in  the  New  He-
-brides and  Banks'  groups.
+and  pleasing  ornament  of  an  island  scene  in  the  New  Hebrides and  Banks'  groups.
 
 
 Mota  Canoe.
@@ -13013,8 +12491,7 @@ canoes,  loju,  carry  a  large  stage  on  either  side  above  a  very
 
 1  In  the  Torres  Islands  of  late  years  there  were  no  canoes  ;  the  people  were
 reduced  to  use  catamarans  of  bamboo,  if  they  wished  to  cross  from  one  to
-another  island.  Their  canoe-makers  had  died  out,  and  they,  very  character-
-istically, acquiesced,  as  at  Lakona  also  they  did  for  a  time,  in  going  without.
+another  island.  Their  canoe-makers  had  died  out,  and  they,  very  characteristically, acquiesced,  as  at  Lakona  also  they  did  for  a  time,  in  going  without.
 
 
 294  Arts  of  Life.  [CH.
@@ -13023,10 +12500,8 @@ narrow  hull,  and  have  a  house  upon  one  of  them  for  the  crew.
 In  these  canoes,  with  the  large  sail  rising  into  curved  horns
 they  make  long  voyages  to  Vanikoro  and  other  islands  that
 they  know,  steering  by  the  stars.  The  Solomon  Island
-plank-built  canoe  has  probably  not  been  developed  in  ignor-
-ance of  the  outrigger1.  In  the  straits  between  long  islands
-like  Malanta  and  Guadalcanal  the  natives  have  prided  them-
-selves on  the  skill  with  which  they  build  and  paddle  their
+plank-built  canoe  has  probably  not  been  developed  in  ignorance of  the  outrigger1.  In  the  straits  between  long  islands
+like  Malanta  and  Guadalcanal  the  natives  have  prided  themselves on  the  skill  with  which  they  build  and  paddle  their
 canoes.  Ulawa  was  once  a  famous  centre  of  manufacture
 and  of  sale2.  Canoes  from  Saa  would  make  a  six  days'
 voyage  for  trade  and  pleasure,  to  Owa,  Santa  Anna  and
@@ -13041,8 +12516,7 @@ reefs  of  San  Cristoval ;  five  or  six  stems  of  the  fronds  of  the
 sago-palm  lashed  together,  the  tips  of  them  brought  back  by
 lines  towards  the  butts,  and  the  end  of  the  high  curved  prow
 so  formed  decorated  with  a  crimson  streamer.  A  war  canoe
-of  the  first  rate  is  a  long  while  in  building ;  for  three  suc-
-cessive years  I  had  the  opportunity  of  seeing  one  at  Ha'ani,
+of  the  first  rate  is  a  long  while  in  building ;  for  three  successive years  I  had  the  opportunity  of  seeing  one  at  Ha'ani,
 from  the  lea  set  up  to  gain  funds  when  the  work  began  to
 the  last  ornamentation  with  shell  carvings  and  streamers.
 Such  a  canoe  forty-five  feet  long  would  carry  ninety  men.  The
@@ -13067,12 +12541,8 @@ XVI.]
 Canoes.
 
 
-295
-
-
 feet  long  by  six  feet  wide,  and  the  stem  and  stern  turned  up
-to  the  height  of  fifteen  feet1.  These  canoes  are  all  con-
-structed of  planks  adzed  out  so  as  to  leave  cleats  by  which
+to  the  height  of  fifteen  feet1.  These  canoes  are  all  constructed of  planks  adzed  out  so  as  to  leave  cleats  by  which
 they  are  lashed  to  curved  rib-pieces  of  mangrove  wood,  which
 give  the  necessary  stiffness  to  the  vessel ;  the  edges  of  the
 planks  being  sewn   together  with  sinnet,  and  the  seam
@@ -13096,9 +12566,6 @@ of  a  canoe  from  Ugi,  now  at  Maidstone,  in  which  the  spears  are  seen
 rest ;  upon  them  is  a  bent  bow  set  up  upon  its  back,  which  is  described  as  a
 bowl  for  propitiatory  libations.  Though  the  explanation  is  incorrect  in  this
 particular,  sacrifices  are  commonly  offered  in  canoes.  The  woodcut  above  shows
-
-
-296
 
 
 Arts  of  Life.
@@ -13149,8 +12616,7 @@ launched.
 It  is  remarkable  that  while  the  paddles  used  in  the  Eastern
 Solomon  Islands  as  far  as  Florida  are  pointed,  some  very
 narrow  and  pointed  indeed,  those  used  in  Ysabel  have  an
-obtusely  pointed,  short,  and  broad  blade  with  a  compara-
-tively long  shaft,  the  latter  having  a  crescent-shaped  handle,
+obtusely  pointed,  short,  and  broad  blade  with  a  comparatively long  shaft,  the  latter  having  a  crescent-shaped  handle,
 and  the  former  a  crutch,  for  the  upper  hand.  The  paddles  of
 the  Banks'  Islands  and  New  Hebrides  are  comparatively
 shapeless  and  heavy.
@@ -13172,8 +12638,7 @@ Before  daylight  they  had  ambushed  at  Hagalu ;  and  in  the  morning  a  s
 man,  Tibona,  came  by  them  in  his  canoe.  They  hid  till  he  was  past,  and  then
 drew  down  the  new  peko  to  chase  him ;  lie  dived  to  escape,  but  they  caught
 and  killed  him,  set  up  his  head  at  the  prow  of  the  canoe,  and  paddled  back  to
-Eavu  with  shouting  and  blowing  conch-shells ;  the  women  and  children  how-
-ever would  not  go  out  to  see.
+Eavu  with  shouting  and  blowing  conch-shells ;  the  women  and  children  however would  not  go  out  to  see.
 
 
 298  Arts  of  Life.  [CH.
@@ -13223,14 +12688,12 @@ XVI.-|  Hotises.  299
 
 house,  is  in  construction  the  same,  but  larger,  stronger,  and
 furnished  with  openings  in  the  sides  as  well  as  doorways
-at  the  ends.  The  roofing  is  thatch  of  the  smaller  sago-
-palm,  which  makes  an  excellent  roof,  and  the  preparation
+at  the  ends.  The  roofing  is  thatch  of  the  smaller  sagopalm,  which  makes  an  excellent  roof,  and  the  preparation
 and  fixing  of  which  is  the  chief  work  of  house-building.
 The  palm  frond,  with  its  midrib  removed,  and  the  leaflets
 doubled  over  a  reed,  and  pinned  together  with  wooden  skewers,
 or  spikes  from  the  base  of  sago  fronds  (the  Malay  atap),
-is  in  all  the  islands  what  a  tile  or  slate  or  shingle  is  else-
-where. In  the  Solomon  Islands  the  cocoa-nut  frond  is  also
+is  in  all  the  islands  what  a  tile  or  slate  or  shingle  is  elsewhere. In  the  Solomon  Islands  the  cocoa-nut  frond  is  also
 used,  the  lesser  sago  being  apparently  unknown.  The  roofing
 there,  however,  is  very  fine,  the  ataps  being  laid  very  close
 together,  and  the  thatch  extremely  thick  in  the  large
@@ -13278,8 +12741,7 @@ House  at  Ysabel.
 
 house  handsomely  ornamented  with  interlacing  patterns  of
 bamboo  stained  black.  The  dwelling-houses  of  chiefs  are
-sometimes  noble  buildings;  a  new  one  at  Honggo  mea-
-sured twenty-four  paces  long  by  nine  wide,  and  was  thirty
+sometimes  noble  buildings;  a  new  one  at  Honggo  measured twenty-four  paces  long  by  nine  wide,  and  was  thirty
 feet  high.  The  floor  of  this,  of  interlaced  bamboo,  was
 raised  some  height  above  the  ground,  and  the  hearth  upon
 the  ground  occupied  a  sunken  space.  Inside  such  a  house
@@ -13324,8 +12786,7 @@ the  same  site,  it  is  found  that  the  constant  sweeping  of  the
 this  house  the  cooking  of  the  food  for  the  family  is  done,  and  the  married
 couples  live.  This  house  is  known  from  the  rest  by  having  the  front  and
 back  ends  worked  with  cane,  and  more  pains  are  expended  on  the  building  of
-it.  The  vale  has  no  fire-place  for  cooking,,  and  is  mostly  used  as  the  apart-
-ment of  the  young  females  before  marriage,  and  for  stowing  anything  that  may
+it.  The  vale  has  no  fire-place  for  cooking,,  and  is  mostly  used  as  the  apartment of  the  young  females  before  marriage,  and  for  stowing  anything  that  may
 be  inconvenient  in  the  ima.'— Journal  of  Rev.  C.  Bice,  1886.
 
 
@@ -13357,8 +12818,7 @@ Gaua,  Santa  Maria,  are  very  extraordinary;  nothing  like
 them  has  been  seen  elsewhere  in  these  islands.  There  are
 three  small  gamal  houses  on  platforms  about  ten  feet  high,
 built  up  with  stones  untouched  by  any  tool,  and  some  of
-them  three  feet  long  by  two  deep.  The  building  is  wonder-
-fully square  and  regular ;  the  style  quite  Cyclopean,  the  large
+them  three  feet  long  by  two  deep.  The  building  is  wonderfully square  and  regular ;  the  style  quite  Cyclopean,  the  large
 stones  ingeniously  fitted,  and  the  interstices  filled  with  small
 stones.  Besides  these  platforms  there  are  two  or  three
 obelisks  about  four  feet  high,  and  a  little  dolmen  of  three
@@ -13375,9 +12835,6 @@ XVI.]
 
 
 Stone-work.  Cultivation.
-
-
-303
 
 
 is  nothing  at  all  resembling-  it.  It  would  naturally  be
@@ -13402,8 +12859,7 @@ could  not  from  the  first  fail  to  strike  their  visitors,  and
 marked  them  off  by  a  distinction  that  cannot  be  mistaken  from
 the  natives  of  Australia.  The  Melanesian  '  labourer '  carried
 off  to  Queensland  was  amazed  to  find  men  who,  though  black,
-had  no  garden,  and  did  not  bring  back  very  flattering  ac-
-counts of  white  men's  cultivation  either.  A  garden  of  yams
+had  no  garden,  and  did  not  bring  back  very  flattering  accounts of  white  men's  cultivation  either.  A  garden  of  yams
 carefully  trained  on  reeds,  kept  absolutely  clear  from  weeds,
 and  beautiful  in  the  leafage  of  the  vines,  is  a  fine  sight
 indeed ;  gardens,  in  San  Cristoval  as  an  example,  with  the
@@ -13434,8 +12890,7 @@ Indian  and  Pacific  Oceans ;  it  is  not  by  any  accident  that  a
 dry  garden,  as  opposed  to  an  irrigated  one,  is  called  uma  in
 Sumatra  and  in  the  New  Hebrides  \  The  respective  shares  of
 men  and  women  in  garden  work  is  settled  by  local  custom.
-Cultivation  has  produced  a  wonderful  variety  in  yams,  ba-
-nanas, bread-fruit,  and  no  doubt  other  common  food-producing
+Cultivation  has  produced  a  wonderful  variety  in  yams,  bananas, bread-fruit,  and  no  doubt  other  common  food-producing
 plants  ;  I  have  a  list  of  eighty  names  of  varieties  of  yams,  and
 sixty  of  bread-fruit,  grown  in  the  little  island  of  Mota,
 most  of  which  an  experienced  native  recognizes  and  names  at
@@ -13472,9 +12927,6 @@ XVI.]
 
 
 Weapons.  Fighting.
-
-
-305
 
 
 has  seen  a  good  deal  of  native  life  to  deny  that  the  bow  is
@@ -13517,9 +12969,6 @@ they  fought  with  spears  on  the  slope  of  the  hill  for  three  days.    
 then  withdrew,  without  much  loss  on  either  side.
 
 X
-
-
-306
 
 
 Arts  of  Life.
@@ -13578,8 +13027,7 @@ arrows  is  not  poisonous,  and  that  therefore  the  fatal  effects  of
 wounds  from  the  arrows  are  not  due  to  the  preparation  which
 is  reputed  poisonous1.  From  the  scientific  side,  then,  the
 view  is  clear ;  and  if  the  matter  is  approached  from  the
-native  side,  it  appears  with  equal  plainness  that  the  deadly-
-quality  which  they  believe  to  attach  to  these  weapons  does
+native  side,  it  appears  with  equal  plainness  that  the  deadlyquality  which  they  believe  to  attach  to  these  weapons  does
 not  belong-  to  what  can  properly  be  called  poison.  It  has  been
 said  (page  2T3)  that  the  Melanesian  preparations  wherewith
 deadly  property  was  believed  to  be  conveyed  to  food  were  not
@@ -13645,10 +13093,8 @@ In  the  Torres  Islands  and  Lepers'  Island  arrows  are  used  for
 fighting  which  are  not  poisoned,  yet  belong  entirely  to  the
 same  class  with  those  that  are,  being  as  much  valued,
 trusted  and  feared  as  the  others ;  a  very  instructive  fact :  in
-Lepers'  Island  both  kinds  are  used.  There  is  a  great  differ-
-ence in  the  size  and  weight  of  the  arrows  of  various  islands,
-and  in  the  proportion  of  the  parts,  but  the  structure  is  every-
-where the  same.  There  is  a  shaft  of  reed,  a  foreshaf't  of  hard
+Lepers'  Island  both  kinds  are  used.  There  is  a  great  difference in  the  size  and  weight  of  the  arrows  of  various  islands,
+and  in  the  proportion  of  the  parts,  but  the  structure  is  everywhere the  same.  There  is  a  shaft  of  reed,  a  foreshaf't  of  hard
 wood,  tree-fern  or  palm,  and  a  point  of  human  bone ;  the
 point  is  let  into  the  foreshaft,  and  that  into  the  shaft,  and
 the  joinings  are  firmly  bound  with  fine  string  or  fibre.
@@ -13657,8 +13103,7 @@ and  weigh  about  two  ounces ;  Banks'  Island  arrows  are
 about  three  feet  nine  inches  long,  and  weigh  about  an
 ounce  ;  Torres  Island  arrows  are  only  two  feet  ten  inches
 long,  weighing  three-quarters  of  an  ounce.  The  bone  point
-of  a  Santa  Cruz  arrow  is  seven  inches  long,  and  the  fore-
-shaft  of  hard  wood,  curiously  carved  and  coloured,  is  sixteen
+of  a  Santa  Cruz  arrow  is  seven  inches  long,  and  the  foreshaft  of  hard  wood,  curiously  carved  and  coloured,  is  sixteen
 inches  loner.    The  bone  head  of  a  Torres  Island  arrow  is
 
 1  Natives  would  never  use  the  same  word  for  the  preparation  with  which
@@ -13681,8 +13126,7 @@ powerful  when  alive  is  more  valued 1.
 
 Though  it  is  the  human  bone  that  gives  in  the  first  place
 the  deadly  quality  to  the  arrow,  yet  the  bone  must  be  fitted
-into  the  shaft  with  the  magic  charms  which  secure  super-
-natural power  to  the  weapon.  The  maker  sings  or  mutters
+into  the  shaft  with  the  magic  charms  which  secure  supernatural power  to  the  weapon.  The  maker  sings  or  mutters
 charms  as  he  ties  the  bone  to  the  foreshaft ;  hence,  as  I  have
 been  told,  the  mana  is  put  in  where  the  bone  joins  the  foreshaft.
 These  charms  are  known  but  to  a  few  whose  business  it  is
@@ -13718,8 +13162,7 @@ The  treatment  of  the  wounded  man  proceeds  on  the  same
 principle.  If  the  arrow,  or  a  part  of  it,  has  been  retained,  or
 has  been  extracted  with  leaf  poultices,  it  is  kept  in  a  damp  place
 or  in  cool  leaves  ;  then  the  inflammation  will  be  little  and  soon
-subside.  Shells,  which  have  been  made  efficacious  for  the  pur-
-pose by  charms,  are  kept  rattling-  above  the  house  where  the
+subside.  Shells,  which  have  been  made  efficacious  for  the  purpose by  charms,  are  kept  rattling-  above  the  house  where  the
 wounded  man  lies,  to  keep  off  the  hostile  ghost.  In  the  same
 way  the  man  who  has  inflicted  the  wound  has  by  no  means
 done  all  that  he  can  do.  He  and  his  friends  will  drink  hot
@@ -13767,8 +13210,7 @@ earth,  which  is  only  found  in  one  place,  and
 paint  it  over1.  "When  it  has  been  painted,
 they  take  it  to  the  beach  and  dip  it  into  the
 sea-water  till  it  becomes  hard  ;  then  the  toto
-(poisoned  arrow)  is  finished.'  In  the  neigh-
-bouring island  of  Whitsuntide  they  finish
+(poisoned  arrow)  is  finished.'  In  the  neighbouring island  of  Whitsuntide  they  finish
 off  with  stuff  found  on  rocks  on  the  shore,
 thought  by  them  to  be  the  dung  of  crabs,  and
 believed  to  have  much  magic  power  2.
@@ -13803,9 +13245,6 @@ any  one. has  been  with  a  woman  he  cannot  possibly  go
 near ;  if  he  goes  to-day,  the  man  will  die  to-morrow.'
 
 
-312
-
-
 Arts  of  Life.
 
 
@@ -13824,8 +13263,7 @@ shark's  tooth   or  shell,  and  painted  red  and  white.  The
 
 bone  head  is  covered  with
 a  preparation  of  vegetable
-ashes,  which  gives  great  su-
-pernatural power.  The  fore-
+ashes,  which  gives  great  supernatural power.  The  fore-
 shaft  is  bound  at  intervals
 with  a  string  of  fibre,  which
 is  covered  with  the  same
@@ -13897,13 +13335,11 @@ Islands  and  the  New  Hebrides,  and  the  shell
 adzes  of  the  Banks'  Islands,  have  the  same
 general  form,  a  long  oval  section,  the  flattish
 sides  meeting  to  form  the  edge.    The  shell     Shell  Adze.
-adzes  of  Santa  Cruz  are  beautifully  finished,     Santa  Ceuz-
-those  of  the  Banks'  Islands  often  very  rough.
+adzes  of  Santa  Cruz  are  beautifully  finished,     Santa  Ceuzthose  of  the  Banks'  Islands  often  very  rough.
 When  iron  was  introduced  the  Banks'  Islands  people,  seeing  it
 in  the  form  of  hoop  iron,  were  inclined  to  call  it  heaven-root,
 (jar  tu/ca,  supposing  ships  to  come  from  beyond  the  horizon,  and
-to  have  brought  some  of  the  strong  and  hard  base  of  the  firma-
-ment; when  axes  were  seen  they  settled  into  the  use  of  the  word
+to  have  brought  some  of  the  strong  and  hard  base  of  the  firmament; when  axes  were  seen  they  settled  into  the  use  of  the  word
 
 
 3H  Arts  of  Life.  [CH<
@@ -13926,10 +13362,8 @@ Stone  Adze.   San  Cristoval.
 for  working  the  inside  of  their  canoes.  Another  shell,  the
 tire,  was  used  in  the  Banks'  Islands  for  a  chisel.  The  rapidity
 with  which  the  shell  and  stone  implements  give  way  to  iron
-is  surprising.  Santa  Cruz  was  very  little  visited,  almost  un-
-visited,  ten  years  ago,  and  it  was  difficult  to  get  any  shell
-specimens  even  five  years  ago.  The  crookedness  and  slight-
-ness  of  the  wooden  handles  used  in  the  Solomon  Islands  is
+is  surprising.  Santa  Cruz  was  very  little  visited,  almost  unvisited,  ten  years  ago,  and  it  was  difficult  to  get  any  shell
+specimens  even  five  years  ago.  The  crookedness  and  slightness  of  the  wooden  handles  used  in  the  Solomon  Islands  is
 surprising.  .  For  cutting  threads,  shaving,  and  fine  carving,
 
 
@@ -13958,8 +13392,7 @@ Shell  Adze.  Mota.
 
 Banks'  Islands,  and  the  deep  wooden  pots,  popo,  bought  by
 the  Florida  people  from  Guadalcanal  carry  with  them  any
-reminiscence  of  fictile  ware.  The  paltara,  used  to  chop  bread-
-fruit open  in  the  Banks'  Islands,  is  an  interesting  representation
+reminiscence  of  fictile  ware.  The  paltara,  used  to  chop  breadfruit open  in  the  Banks'  Islands,  is  an  interesting  representation
 in  wood  of  the  shell  adze.
 
 Stone-boiling,  in  Mota  salo,  was  known  all  through  the
@@ -13977,16 +13410,14 @@ m  the  Banks'  Islands,  where  the  cream  squeezed  out  from
 grated  cocoa-nut  was  often  cooked  over  the  embers  in  the
 shells.  The  bowls  of  the  south-eastern  Solomon  Islands,
 remarkable  some  of  them  for  their  enormous  size,  some  for
-their  fantastic  shape,  all  for  their  really  beautiful  orna-
-mentation, represent  stone-boiling-  in  purpose  if  not  often
+their  fantastic  shape,  all  for  their  really  beautiful  ornamentation, represent  stone-boiling-  in  purpose  if  not  often
 in  use.  The  oval  wooden  bowls,  wumeto,  of  the  Banks'
 Islands  sometimes  stand  on  legs.  The  pestles  in  very  active
 use  there  for  making  mash,  lot,  in  the  broad  wooden  dishes
 are  wooden,  sometimes  ornamented  with  the  figure  of  a  bird
 at  the  upper  end,  an  almost  solitary  instance  of  carved  figure
 ornament  on  the  implements  of  those  people.  It  need  hardly
-be  said  that  all  Melanesian  people  are  mat-makers  ;  the  remark-
-able thing  is  that  in  Santa  Cruz  alone  is  found  a  loom  with
+be  said  that  all  Melanesian  people  are  mat-makers  ;  the  remarkable thing  is  that  in  Santa  Cruz  alone  is  found  a  loom  with
 which  beautiful  mats  are  woven  with  the  fibre  of  a  banana
 cultivated  for  the  purpose;  these  looms  are  identical  with
 those  in  use  in  the  Caroline  and  Philippine  Islands  and  in
@@ -14005,8 +13436,7 @@ tortoise-shell ;  in  the  Solomon  Islands  the  hook  common  in
 the  Pacific  was  beautifully  made  ;  a  piece  of  mother-of-pearl,
 with  or  without  a  wooden  back,  with  a  tortoise-shell  hook
 lashed  to  it,  and  a  few  beads  on  a  short  string,  requiring  no
-bait.  The  very  small  fish-hooks  of  mother-of-pearl  and  tor-
-toise-shell, of  either  material  alone,  or  of  some  shell  which
+bait.  The  very  small  fish-hooks  of  mother-of-pearl  and  tortoise-shell, of  either  material  alone,  or  of  some  shell  which
 might  imitate  a  bettle,  at  Savo,  San  Cristoval,  Ulawa,  were
 among  the  prettiest  and  most  skilful  products  of  native
 handiwork.  The  flying-fish  is  caught  not  with  a  hook,  but
@@ -14029,8 +13459,7 @@ bird  atop,  weighted
 with  a  stone,  a
 contrivance  which
 must  also  he  known
-in  the  Banks'  Is-
-lands, since  it  has
+in  the  Banks'  Islands, since  it  has
 a  name,  wo-uto,
 there 1.  The  stitch
 in  netting  is  that
@@ -14058,8 +13487,7 @@ the  line  is  wound  round  the  hollow  of  the  bird's  back  and  a
 projection  below  made  for  the  purpose.  For  this  the  shape  of
 a  bird  is  certainly  convenient,  and  the  genius  of  those  people
 leads  them  to  ornamental  forms.  The  Celebes  floats  seem
-certainly  to  represent  those  of  the  Solomon  Islands  in  a  remark-
-able and  instructive  way.
+certainly  to  represent  those  of  the  Solomon  Islands  in  a  remarkable and  instructive  way.
 
 
 3?8  Arts  of  Life.  [CH.
@@ -14109,9 +13537,6 @@ XVI.]
 Food.  Cooking.
 
 
-319
-
-
 rises ;  when  it  recedes  again  the  eels  are  left  behind  and  are
 shot  and  speared.  Names  of  rank  are  given  to  the  very
 largest  eels,  after  the  names  of  the  Suqe ;  it  is  the  fashion  to
@@ -14122,10 +13547,8 @@ rank.
 
 (7)  Food  and  Cooking.   The  yam  no  doubt  takes  the  highest
 place  as  the  staple  food  of  Melanesians,  though  in  some
-places  what  is  commonly  known  as  taro,  the  esculent  cala-
-dium,  is  much  more  grown.    The  number  of  varieties  of
-yams  in  a  single  island  has  been  noticed  ;  there  is  much  dif-
-ference also  in  the  general  character  of  the  tuber  in  eastern
+places  what  is  commonly  known  as  taro,  the  esculent  caladium,  is  much  more  grown.    The  number  of  varieties  of
+yams  in  a  single  island  has  been  noticed  ;  there  is  much  difference also  in  the  general  character  of  the  tuber  in  eastern
 and  western  groups  of  islands,  the  Solomon  Island  yams
 being  round  and  compact,  and  of  no  great  size,  while  in  the
 New  Hebrides  one  at  least  has  been  measured  by  the  height
@@ -14139,8 +13562,7 @@ The  caladium  is  only  called  taro  by  the  natives  when  they
 think  they  are  speaking  English;  there  are  many  varieties
 grown  in  dry  ground  on  the  hills,  as  well  as  in  the  skilfully
 irrigated  gardens  of  Aurora,   The  giant  caladium,  via  alike  in
-the  Banks'  Islands  and  Madagascar,  is  eaten  in  the  New  He-
-brides and  the  Solomon  Islands.    Bananas  supply  much  food
+the  Banks'  Islands  and  Madagascar,  is  eaten  in  the  New  Hebrides and  the  Solomon  Islands.    Bananas  supply  much  food
 in  numerous  varieties  ;  in  Lepers'  Island  the  fruit  seems  to  be
 eaten  in  larger  proportion  than  elsewhere.    The  bread-fruit  is
 scarce  in  the  Solomon  Islands,  most  abundant  perhaps  at  Mota
@@ -14185,8 +13607,7 @@ salt  or  fresh,  is  poured  in  to  make  steam,  and  every  escape  of
 the  steam  is  watched  and  closed.  The  process  is  lengthy,  and
 gives  much  of  the  day's  occupation  to  the  native  men,  who
 cook  for  themselves;  it  is  a  pity,  perhaps  also  because  it
-takes  less  time,  that  the  introduction  of  iron  pots  and  sauce-
-pans is  changing  the  native  cooking  for  the  worse.  A  good
+takes  less  time,  that  the  introduction  of  iron  pots  and  saucepans is  changing  the  native  cooking  for  the  worse.  A  good
 deal  of  care  is  taken  about  washing  the  hands  before  cooking,
 and  to  eat  panlepa,  dirty-handed,  is  a  discredit  in  the  Banks'
 Islands.    Fire  is  produced  by  the  stick  and  groove.
@@ -14202,9 +13623,6 @@ at*
 Dress.
 
 
-321
-
-
 bark  of  paper  mulberry  is  made,  but  roughly,  in  Ysabel,  and
 worn  in  Florida ;  it  was  made  till  lately  in  Ulawa  and  San
 Cristoval ;  a  rough  kind,  made  perhaps  always  from  the  bark
@@ -14214,10 +13632,8 @@ sala  in  Ulawa,  was  ready  for  European  cloth.    In  Aurora  gavu,
 and  in  the  Banks'  Islands  nearest  to  Aurora  gar/avii,  is  used  for
 cloth,  no  doubt  identical  with  the  Maori  kahu  and  kakahu.
 In  Mota  the  word  siopa  was  applied  at  once  to  European
-clothes,  which,  as  the  natives  knew  nothing  of  tapa,  was  sur-
-prising.  The  native  explanation  is  that  the  Tongans,  who  for
-two  years  visited  the  Banks'  Islands  and  made  a  short  settle-
-ment on  Qakea,  were  clothed  with  giqpa.    They  have  in  fact
+clothes,  which,  as  the  natives  knew  nothing  of  tapa,  was  surprising.  The  native  explanation  is  that  the  Tongans,  who  for
+two  years  visited  the  Banks'  Islands  and  made  a  short  settlement on  Qakea,  were  clothed  with  giqpa.    They  have  in  fact
 shifted  the  vowels  in  siapo,  Mapo  (the  Maori  Malco,  bark),  the
 name  of  bark  cloth  in  Tonga  and  Samoa.    In  Motlav,  again,
 the  word  malsam  was  applied  to  cloth,  of  which  the  first
@@ -14256,8 +13672,7 @@ amply  clad  m  what  may  perhaps  be  called  the  dress  of  the
 Polynesian  colonies,  and  the  women  wrap  their  bodies  and
 cover  their  heads  with  mats.  In  the  Banks'  Islands  the  men
 wore  nothing,  and  the  women  had  a  little  double  band,  pari,
-ending-  in  fringed  tufts,  of  platted  fibre,  sometimes  well  orna-
-mented with  a  crimson  dye.    In  Lepers'  Island  the  dress
+ending-  in  fringed  tufts,  of  platted  fibre,  sometimes  well  ornamented with  a  crimson  dye.    In  Lepers'  Island  the  dress
 
 
 Bellona.    Holomon  Islands.
@@ -14278,13 +13693,11 @@ a  stencil  of  banana  leaf.
 in  all  the  islands  now  in  view,  but  the  shell  currency  of
 the  Banks'  Islands  and  of  the  Solomon  Islands  is  perhaps
 alone  worthy  of  the  name  of  money.    It  is  probable  that
-the  ornaments  of  the  person  most  in  vogue  have  every-
-where a  certain  relative  value,  and  pass  in  exchange  for
+the  ornaments  of  the  person  most  in  vogue  have  everywhere a  certain  relative  value,  and  pass  in  exchange  for
 food  and  other  necessaries,  and  the  general  apparatus  of
 native  life.    Besides  these  there  are  products  of  industry
 which  are  made  for  the  single  purpose  of  exchange,  and
-which  may  be  called  Mat-money,  Feather-money,  and  Shell-
-money.    The  Mat-money  is  in  use  in  the  Northern  New
+which  may  be  called  Mat-money,  Feather-money,  and  Shellmoney.    The  Mat-money  is  in  use  in  the  Northern  New
 Hebrides,  Aurora,  Pentecost  and  Lepers'  Island.    The  mats
 are  long  and  narrow,  made  for  no  other  purpose  than  to
 represent  value,  and  are  in  Aurora  and  Lepers'  Island  valued
@@ -14315,8 +13728,7 @@ are  very  choice,  though  the  value  still  goes  by  the  number
 
 of  folds.  There  are  three  lengths  of  mats  in  common  use;
 some  mats  are  a  hundred  fathoms  long,  some  when  folded
-ten  fathoms  ;  the  width  is  about  two  feet.  A  middle-
-sized  mat  will  buy  a  tusked  pig.  A  rich  man  will  keep
+ten  fathoms  ;  the  width  is  about  two  feet.  A  middlesized  mat  will  buy  a  tusked  pig.  A  rich  man  will  keep
 fifty  mats  and  more  in  his  house,  hung  up  and  decaying,
 a  proof  of  ancient  wealth.  Mat-money  is  also  lent  at  interest,
 and  so  becomes  a  source  of  wealth ;  there  is  no  fixed  rate
@@ -14335,8 +13747,7 @@ small  red  feathers  are  first  gummed  on  to  pigeon's  feathers,
 and  these  are  bound  on  to  a  prepared  foundation  in  rows,
 so  that  only  the  red  is  seen.  A  length  of  this  feather-money,
 called  tavau,  about  fifteen  feet  long,  is  coiled  up  and  packed
-with  peculiar  ornaments.  Short  pieces  are  made  for  con-
-venience in  arranging  about  prices.  On  festive  occasions
+with  peculiar  ornaments.  Short  pieces  are  made  for  convenience in  arranging  about  prices.  On  festive  occasions
 the  dancing  ground,  nava,  fenced  round  with  huge  discs
 of  coral,  is  hung  with  the  uncoiled  feather-money  of  those
 who  make  the  feast.  The  people  say  that  formerly  they
@@ -14345,8 +13756,7 @@ to  Santa  Cruz,  there  is  in  the  Banks'  Islands,  in  Santa
 Maria  and  Meralava,  where  the  som  shells  are  not  found,
 a  medium  of  exchange  of  the  same  character.  The  little
 feathers  near  the  eye  of  fowls  are  bound  on  strings,  and
-generally  dyed  a  fine  crimson;  these  are  used  as  neck-
-laces or  anklets,  by  way  of  ornament  and  distinction  (Me
+generally  dyed  a  fine  crimson;  these  are  used  as  necklaces or  anklets,  by  way  of  ornament  and  distinction  (Me
 weiaptip,  p.  no),  but  also  pass  very  much  in  the  way  of
 money.  A  braid  not  unlike  this  was  formerly  used  in  the
 Loyalty  Islands  as  a  medium  of  exchange,  the  red  fur  under
@@ -14424,13 +13834,11 @@ is  cent,  per  cent,  without  regard  to  time.  A  man  borrows,
 ami,  and  the  owner  lends,  tawe ;  a  debt,  pug,  is  thus
 established.  A  debt  is  not  only  contracted  by  borrowing,
 but  a  rich  man  upon  occasion  imposes  a  loan,  which  his
-friend  for  his  own  credit  is  bound  to  accept,  and  to  dis-
-charge with  a  double  return.  The  pressure  put  on  a  debtor
+friend  for  his  own  credit  is  bound  to  accept,  and  to  discharge with  a  double  return.  The  pressure  put  on  a  debtor
 who  does  not  pay  when  payment  is  demanded  is  admirably
 effective.  All  the  men  of  the  creditor's  place  come  and  sit,
 bringing  their  wives  with  them,  in  the  debtor's  premises  ;
-the  debtor  lights  his  fire  and  cooks  food  for  them  ;  if  the  pay-
-ment is  not  forthcoming  they  stay  over  night,  go  home  next
+the  debtor  lights  his  fire  and  cooks  food  for  them  ;  if  the  payment is  not  forthcoming  they  stay  over  night,  go  home  next
 morning,  and  after  a  while  repeat  the  visit.  The  debtor's
 neighbours  and  friends  pity  him  and  help  him  with  food  and
 money,  till  he  scrapes  enough  together  to  pay  the  debt.
@@ -14441,9 +13849,6 @@ XVI.]
 
 
 Money.
-
-
-327
 
 
 to  shield  him,  ti  goro,  to  stand  between  him  and  his  creditor.
@@ -14462,17 +13867,14 @@ creditor  of  his  creditor,  and  cannot  so  well  be  dunned  by  him.
 To  pay  a  debt  is  to  close  it  up,  loono.    Money  transactions
 play  a  great  part  in  native  life  :  social  advance  is  secured
 by  possession  of  shell-money,  because  the  steps  in  the  Suqe
-Club  cannot  be  taken  without  it ;  social  eminence  is  main-
-tained by  it,  because  the  moneyed  man  has  his  debtors  under
+Club  cannot  be  taken  without  it ;  social  eminence  is  maintained by  it,  because  the  moneyed  man  has  his  debtors  under
 his  thumb,  and  by  the  power  he  has  of  imposing  a  loan  he
 can  make  rising  men  his  debtors  and  keep  them  back.
-By  the  Suqe  institution  money  was  kept  in  continual  cir-
-culation, alike  in  large  and  small  quantities.    The  little
+By  the  Suqe  institution  money  was  kept  in  continual  circulation, alike  in  large  and  small  quantities.    The  little
 reef  island  of  Rowa  supplies  common  money,  and  also  the
 finer  sort,  which  is  used  only  as  ornament.    This  is  sometimes
 extremely  small  and  finely  made,  and  with  it,  before  the
-introduction  of  beads,  was  sometimes  strung  a  bit  of  remark-
-able stone  or  a  concretion  from  some  shell 1.    In  the  Torres
+introduction  of  beads,  was  sometimes  strung  a  bit  of  remarkable stone  or  a  concretion  from  some  shell 1.    In  the  Torres
 Islands,  where  the  material  for  shell-money  is  absent,  they
 now  buy  with   beads,  which  indeed  have  in  the  Banks'
 Islands  to  some  extent  superseded  money  for  small  purchases  ;
@@ -14484,9 +13886,6 @@ upon  the  string  is  about  an  inch.  The  fine  som  ta  Rowa  is  not  more
 of  an  inch  in  diameter,  and  as  many  as  60  discs  go  on  an  inch  of  string.  A
 puto  laJcai,  rough  pearl  from  a  giant  clam,  when  bored  with  a  rat's  tooth  for
 stringing,  will  buy  a  large  pig.
-
-
-328
 
 
 Arts  of  Life.
@@ -14519,13 +13918,9 @@ XVI.]
 Ornamentation.
 
 
-329
-
-
 Solomon  Islands  must  be  divided  into  two  groups ;  San
 Cristoval,  Ulawa,  and  Eastern  Malanta  have  their  own  style
-of  art.    Santa  Cruz  stands  per-
-fectly distinct ;  the  Banks'  Is-
+of  art.    Santa  Cruz  stands  perfectly distinct ;  the  Banks'  Is-
 lands and  the  Northern  New
 Hebrides  must  go  together.
 
@@ -14545,8 +13940,7 @@ is  represented  in  the  paddles,
 
 for  example,  of  Bugotu.  The
 
-beautifully  made  and  orna-
-mented shields  and  clubs  which
+beautifully  made  and  ornamented shields  and  clubs  which
 
 have  been  common  at  Florida
 
@@ -14570,8 +13964,7 @@ bottles  are   also  characteristic.
 
 representations    of    scenes  of
 
-native  life  executed  in  San  Cris-
-toval and  its  neighbourhood  have
+native  life  executed  in  San  Cristoval and  its  neighbourhood  have
 
 been  mentioned.    Drawings  by
 
@@ -14595,8 +13988,7 @@ Arts  of  Life.
 
 attention ;  the  nautilus-shell  inlay  on  bottles,  cups,  spoons,  is
 really  excellent.  The  artistic  faculty  of  these  people  is
-remarkable.  From  Malanta  come  combs  which  shew  extra-
-ordinary beauty  of  decoration  as  well  as  neatness  of  make ;
+remarkable.  From  Malanta  come  combs  which  shew  extraordinary beauty  of  decoration  as  well  as  neatness  of  make ;
 but  they  are  the  work  of  the  inland  people  rather  than  of
 those  whose  skill  is  shewn  in  the  ornamentation  of  canoes  and
 canoe-houses.    3.  The  change  of  character  in  decoration  when
@@ -14636,20 +14028,17 @@ Ornamentation.
 and  determine  with  certainty  where  it  was  made.  In  the
 patterns  of  tattooing",  where  it  is  used  in  these  groups,  and
 in  the  stencilled  figures  used  on  the  mats  in  the  New  Hebrides,
-the  character  of  the  ornamentation  shewn  in  the  ear-orna-
-ments is  reproduced;  just  as  tattoo  on  the  cheeks  of  the
+the  character  of  the  ornamentation  shewn  in  the  ear-ornaments is  reproduced;  just  as  tattoo  on  the  cheeks  of  the
 women  of  the  Florida  neighbourhood  follows  the  pattern
 incised  on  the  cocoa-nut  bottles.
 
 With  this  conventional  character  of  the  ornament  of  each
-group  or  region  there  appears  also  upon  occasion  a  remark-
-able freedom  of  ornamentation.  The  part  of  an  ornamented
+group  or  region  there  appears  also  upon  occasion  a  remarkable freedom  of  ornamentation.  The  part  of  an  ornamented
 walking-stick  here  shown  was  cut  with  a  common  knife  in
 Norfolk  Island  by  a  native  of  Aurora,  who  was  not  at  all
 aware  that  he  was  executing  a  work  of  art.  A  comparison  of
 the  graceful  foliage  ornamentation  incised  on  the  back  of  a
-nut-shell  used  as  a  casket  with  the  lined  pattern  on  the  cocoa-
-nut  bottle  above,  shews  again  an  unexpected  freedom  in  the
+nut-shell  used  as  a  casket  with  the  lined  pattern  on  the  cocoanut  bottle  above,  shews  again  an  unexpected  freedom  in  the
 art  of  Ysabel.
 
 
@@ -14667,8 +14056,7 @@ always  dance  apart ;  the  songs  which  accompany  the  dances
 are  undoubtedly  some  of  them  indecent,  and  I  would  by  no
 means  deny  that  there  are  indecent  dances,  though  I  never
 heard  of  them.  There  might  be  thought  to  be  a  superstitious
-character  in  those  dances  in  which  the  performers  are  sup-
-posed to  be  '  ghosts,'  if  it  were  not  that  ghosts  were  believed
+character  in  those  dances  in  which  the  performers  are  supposed to  be  '  ghosts,'  if  it  were  not  that  ghosts  were  believed
 to  amuse  themselves  with  dancing  as  well  as  men ;  it  might
 be  thought  that  when  the  members  of  tamale  ghost  clubs
 dance  in  masks  representing  birds  or  fish  they  are  dancing  in
@@ -14689,17 +14077,13 @@ uninteresting  ;  in  the  rorohi  of  Florida  they  sway  their  bodies
 Dances.
 
 
-333
-
-
 and  stamp  their  feet  in  a  circle ;  in  the  lenga  of  the  Banks'
 Islands  they  stamp,  and  scream  a  song-.    In  a  Banks'  Island
 feast  while  the  men  sing*  and  dance  round  the  drum,  the
 women,  two  and  two,  with  the  arms  of  each  over  the  other's
 neck,  tramp  round  the  dancing-ground  with  short  heavy
 steps,  shaking  as  they  go.    The  most  graceful  men's  dance
-I  have  seen  is  one  in  which  in  San  Cristoval  and  Saa  per-
-formers wave  dancing  clubs  as  they  represent  fighting  scenes,
+I  have  seen  is  one  in  which  in  San  Cristoval  and  Saa  performers wave  dancing  clubs  as  they  represent  fighting  scenes,
 with  the  accompaniment  of  a  very  soft  and  tuneful  song.  The
 general  term  for  men's  dancing  in  Florida  is  gavai ;  in  the
 silaru  they  sit  as  if  paddling ;  in  the  IiauJiamumu  there  is  a
@@ -14717,8 +14101,7 @@ his  house  his  dancing- ground,  nava,  fenced  with  huge  discs
 of  coral ;  the  great  aim  in  dancing  is  to  stamp  the  feet  all
 together  with  the  utmost  exactness  and  the  loudest  shock.
 Many  of  the  Banks'  Island  dances,  in  elaborate  figures  earned
-out  with  the  greatest  precision,  are  really  beautiful  and  inter-
-esting ;  the  performers,  with  their  heads  wonderfully  adorned,
+out  with  the  greatest  precision,  are  really  beautiful  and  interesting ;  the  performers,  with  their  heads  wonderfully  adorned,
 and  their  limbs  decorated  with  shining  fringes  of  unopened
 palm-fronds,  advance  and  retire  in  two  lines,  interlace  in  curves,
 cross  and  recross  in  ranks,  waving  their  arms  and  stamping
@@ -14754,8 +14137,7 @@ only  are  words  used  which  are  never  used  in  speech,  some
 probably  archaic  and  some  borrowed  from  a  neighbouring
 island,  and  not  only  are  words  contracted  or  prolonged  to  suit
 the  tune,  but  in  each  island  the  song-language  is  so  different
-from  that  of  ordinary  speech  that  the  two  have  the  appear-
-ance of  two  dialects,  as  completely  as  in  the  Dialogue  and
+from  that  of  ordinary  speech  that  the  two  have  the  appearance of  two  dialects,  as  completely  as  in  the  Dialogue  and
 Chorus  of  a  Greek  play.  The  difference  is  least  conspicuous
 in  Gaua,  Santa  Maria,  most  conspicuous  probably  in  Mota.
 On  one  side  of  Mota  songs  are  composed  in  something  like
@@ -14795,11 +14177,9 @@ are  no  doubt  often  indecent  and  obscene,  but  there  are  many
 which  are  perfectly  harmless,  some  pretty  in  tune  and  words,
 some  in  which  poetry  may  be  recognized,  though  much  is
 conventional.    The  following  song  is  surely  not  devoid  of
-poetry,  and  might  be  so  translated  as  to  give  a  very  favour-
-able impression  of  native  powers.     It  was  composed  at
+poetry,  and  might  be  so  translated  as  to  give  a  very  favourable impression  of  native  powers.     It  was  composed  at
 Lakona,  in  Santa  Maria,  in  honour  of  Maros  in  his  absence  at
-sea,  whose  song  it  therefore  is,  and  who  speaks  in  the  exor-
-dium.   'Leale!  ale!  I  am  an  eagle,  I  have  soared  to  the
+sea,  whose  song  it  therefore  is,  and  who  speaks  in  the  exordium.   'Leale!  ale!  I  am  an  eagle,  I  have  soared  to  the
 furthest  dim  horizon.    I  am  an  eagle,  I  have  flown  and
 lighted  at  Mota.    I  have  sailed  with  whirring  noise  round
 the  mountain.    I  have  gone  down  island  after  island  in  the
@@ -14862,9 +14242,6 @@ XVII.]
 Musical  Instrttments.
 
 
-337
-
-
 to  help  in  moving-  ifc,  and  has  a  little  house  built  over  it  to
 keep  it  from  sun  and  weather.  In  all  these  islands  the  drums
 lie  horizontally  upon  the  ground,  but  in  Ambrym  and  the
@@ -14881,8 +14258,7 @@ can  be  carried  in  a  dancer's
 
 hand.     Such  instruments
 
-as  these  are  no  doubt  im-
-properly called  drums.  I
+as  these  are  no  doubt  improperly called  drums.  I
 
 have  seen  the  hollow  trunk
 
@@ -14890,8 +14266,7 @@ of  a  tree-fern  set  up  in  the
 
 ground,  and  a  mat  tied
 
-over  it  to  form  a  drum-
-head, beaten  with  the  fists,
+over  it  to  form  a  drumhead, beaten  with  the  fists,
 
 and  also  a  thin  broad  slab
 
@@ -14920,9 +14295,6 @@ in  concert  with  considerable  musical  effect.    The  reed  or
 
 
 Ambrtm  dedms.
-
-
-338
 
 
 Dances.    Music.  Games.
@@ -14980,9 +14352,6 @@ XVII.]
 Micsical  Instruments.
 
 
-339
-
-
 bamboo,  pipes  of  the  Banks'  Islands,  ivegore,  produce  a  plaintive
 little  music.    The  corresponding-  nggore  of  Lepers'  Island  is
 long-er,  some  three  feet,  and  has  four  holes,  so  that  native
@@ -15007,8 +14376,7 @@ end  to  tighten  them;  the  strings  are  tuned  to  one  note.
 The  performer  holds  the  curved  back  of  the  instrument  in  his
 mouth,  and  strikes  the  strings  with  a  little  plectrum  of  reed
 held  in  his  right  hand ;  with  the  fingers  of  his  left  hand  he
-holds  the  kalove  so  that  he  keeps  one  of  the  strings  per-
-manently stopped,  and  to  produce  higher  notes  can  stop  the
+holds  the  kalove  so  that  he  keeps  one  of  the  strings  permanently stopped,  and  to  produce  higher  notes  can  stop  the
 free  string  as  the  tune  requires  it.    The  music  thus  produced
 is  not  very  audible  to  any  one  but  the  performer,  to  whom  it
 gives  great  delight.    Among  musical  instruments  must  be
@@ -15135,8 +14503,7 @@ been  mentioned.  It  is  there  only  that  any  superstitious
 character  belongs  to  it.  There  is  no  mystery  about  it  when
 it  is  used  in  the  Banks'  Islands  to  drive  away  a  ghost,  as
 in  Mota,  where  it  is  called  nanamatea,  death-maker,  or  to
-make  a  mourning  sound,  as  in  Merlav,  where  it  is  called  v:o-
-rung-tamb,  a  wailer,  and  used  the  night  after  a  death.  It
+make  a  mourning  sound,  as  in  Merlav,  where  it  is  called  v:orung-tamb,  a  wailer,  and  used  the  night  after  a  death.  It
 is  a  common  plaything;  in  Vanua  Lava  they  call  it  mala,
 a  pig,  from  the  noise  it  makes ;  in  Maewo  it  is  tal-viv,  a
 whirring  string  ;  in  Araga  it  is  merely  tavire  faia,  a  bit  of
@@ -15218,18 +14585,15 @@ taken  away  by  the  conquerors  to  be  cooked  and  given  to  their
 friends.    In  the  neighbouring  islands,  and  at  the  back  of
 his  own  island,  said  my  informant,  they  kill  for  the  sake  of
 eating.    In  Lepers'  Island  they  still  eat  men.    It  was  not  the
-common  fashion,  however,  to  eat  enemies  killed  in  fail-  fight-
-ing, it  was  a  murderer  or  particularly  detested  enemy  who  was
+common  fashion,  however,  to  eat  enemies  killed  in  fail-  fighting, it  was  a  murderer  or  particularly  detested  enemy  who  was
 eaten,  in  anger,  and  to  treat  him  ill ;  such  a  one  was  cooked
 like  a  pig,  and  men,  elder  women  and  boys  ate  him.  The
 boys  were  afraid,  but  were  made  to  do  it.    It  is  the  feeling
-there  that  to  eat  human  flesh  is  a  dreadful  thing,  a  man-
-eater  is  one  afraid  of  nothing ;  on  this  ground  men  will  buy
+there  that  to  eat  human  flesh  is  a  dreadful  thing,  a  maneater  is  one  afraid  of  nothing ;  on  this  ground  men  will  buy
 flesh  when  some  one  has  been  killed,  that  they  may  get  the
 name  of  valiant  men  by  eating  it.    A  certain  man  in  Lepers'
 Island  mourned  many  days  for  his  son,  and  woidd  not  eat  till
-he  bought  a  piece  of  human  flesh  for  himself  and  his  re-
-maining boy ;  it  was  a  horrid  thing  to  do,  appropriate  to  his
+he  bought  a  piece  of  human  flesh  for  himself  and  his  remaining boy ;  it  was  a  horrid  thing  to  do,  appropriate  to  his
 gloomy  grief.
 
 
@@ -15237,9 +14601,6 @@ gloomy  grief.
 
 
 win.]  Heads.  Castaivays.
-
-
-345
 
 
 (2)  Heads.    Head-hunting-  is  not  practised  by  any  of  the
@@ -15263,8 +14624,7 @@ collection  ;  it  was  a  sign  of  his  power  and  greatness.  Hence,
 as  the  more  heads  he  could  show  the  more  his  power  was  in
 view,  he  was  ready  on  every  opportunity  and  on  any  pretext
 to  take  a  life  and  a  head.    When  a  chief  had  a  man  killed,  he
-woidd  keep  the  head,  but  sent  the  legs  and  arms  to  his  neigh-
-bours, to  shew  what  he  had  done.    If,  for  example,  an  accused
+woidd  keep  the  head,  but  sent  the  legs  and  arms  to  his  neighbours, to  shew  what  he  had  done.    If,  for  example,  an  accused
 man  got  away  from  Mboli  in  Florida  to  Savo,  the  Mboli  chief
 would  send  a  request,  backed  by  a  present  of  money,  to  the
 Savo  chief  to  have  him  killed ;  the  Savo  chief  would  keep
@@ -15276,8 +14636,7 @@ seen  suspended  equally  at  the  entrance  of  a  Solomon  Island
 oka  and  a  New  Hebrides  gamal,  but  the  signification  is  in
 all  cases  probably,  distinct.
 
-(3)  Castaways.  A  stranger  as  such  was  generally  through-
-out the  islands  an  enemy  to  be  killed.  Thus  at  Florida  a
+(3)  Castaways.  A  stranger  as  such  was  generally  throughout the  islands  an  enemy  to  be  killed.  Thus  at  Florida  a
 stranger  who  had  escaped  from  a  wreck  on  to  an  islet  was
 killed  when  seen,  and  spoken  of  as  a  cocoa-nut  that  had  floated
 
@@ -15289,8 +14648,7 @@ hnng  with  him  disease  or  some  other  mischief.  But  it  was
 often  a  question  whether  a  castaway  was  a  stranger.  If  he
 were  recognised  as  belonging  to  an  hostile  district,  there  was
 no  doubt  of  his  fate ;  but  if  he  fell  into  the  hands  of  those
-to  whose  division,  kema  or  veve,  he  belonged,  he  would  prob-
-ably be  saved.  It  is  a  not  uncommon  thing  that  canoes
+to  whose  division,  kema  or  veve,  he  belonged,  he  would  probably be  saved.  It  is  a  not  uncommon  thing  that  canoes
 should  be  blown  from  Santa  Cruz  and  the  Beef  Islands  to
 Malanta  and  Ulawa;  the  men  on  board  them  were  not
 wholly  strangers,  though  personally  unknown ;  they  were  men
@@ -15329,8 +14687,7 @@ win.]        Burying  and  B timing  Alive.  347
 
 (5)  Burying  alive.  Nothing  seems  more  inhuman  than  the
 practice  of  burying  sick  and  aged  people  alive,  yet  it  is
-certain  that  when  this  was  done  there  was  generally  a  kind-
-ness intended.  It  is  true  that  sometimes  the  relatives  of  the
+certain  that  when  this  was  done  there  was  generally  a  kindness intended.  It  is  true  that  sometimes  the  relatives  of  the
 sick  became  tired  of  waiting  upon  them,  and  buried  them
 when  they  thought  they  ought  to  be  ready  for  it ;  but  even
 in  such  cases  the  sick  and  aged  acquiesced.  It  was  common
@@ -15354,8 +14711,7 @@ down  in  quiet,  if  any  one  committed  such  a  crime  as  would
 break  up  the  peace,  such  as  adultery,  they  would  tie  him  to  a
 tree,  heap  firewood  round  him,  and  burn  him  alive,  a  proof
 to  the  opposite  party  of  their  detestation  of  his  wickedness.
-This  was  not  done  coolly  as  a  matter  of  course  in  the  execu-
-tion of  a  law,  but  as  a  horrible  thing  to  do,  and  done  for  the
+This  was  not  done  coolly  as  a  matter  of  course  in  the  execution of  a  law,  but  as  a  horrible  thing  to  do,  and  done  for  the
 horror  of  it ;  a  horror  renewed  in  the  voice  and  face  of  the
 native  who  told  me  of  the  roaring  flames  and  shrieks  of
 agony.
@@ -15413,9 +14769,6 @@ setting  off  to  sea ;  when  it  rises  later  it  is  gama  ni  ndani,
 .win.]         Heavenly  Bodies.  Seasons.
 
 
-349
-
-
 the  shining-  stone  of  light ;  the  Pleiades  are  togo  ni  samu,  the
 company  of  maidens  ;  Orion's  belt  is  the  peko,  the  war  canoe  ;
 the  evening-  star  is  vaovarongo  diva,  listen  for  the  oven,  because
@@ -15466,8 +14819,7 @@ When  a  certain  grass,  magolo,  springs,  the  winter  as  it  must
 be  called  is  over  ;  when  the  erythrina,  rara,  is  in  flower  it
 is  the  cool  season  ;  magoto  therefore  and  rara  are  names  of
 seasons  in  native  use,  and  answer  roughly  to  summer  and
-winter.  The  strange  and  exciting  appearance  of  the  well-
-known  annelid,  the  palolo,  un,  sets  a  wide  mark  on  the
+winter.  The  strange  and  exciting  appearance  of  the  wellknown  annelid,  the  palolo,  un,  sets  a  wide  mark  on  the
 seasons.  The  April  moon  coincides  pretty  well  with  the
 time  of  the  magolo  qaro,  the  fresh  grass ;  clearing,  uma,  of
 gardens  goes  on,  the  trade  wind  is  steady.  This  is  followed
@@ -15505,14 +14857,12 @@ very  carefully  taken  up  with  digging-  sticks  to  be  stored.
 A  few  un  appear  at  the  next  moon,  the  werei,  which  may
 be  translated  the  rump,  of  the  un.  In  this  moon  they
 begin  again  to  nma,  clear  the  gardens ;  the  wind  blows  again
-from  the  west,  the  ganoi,  over  Vanua  Lava.  It  is  now  Novem-
-ber or  December,  the  logalau  wind  blows  from  the  north-west ;
+from  the  west,  the  ganoi,  over  Vanua  Lava.  It  is  now  November or  December,  the  logalau  wind  blows  from  the  north-west ;
 it  is  exceedingly  hot,  fish  die  in  the  shallow  pools,  the  reeds
 shoot  up  into  flower;  it  is  the  moon  of  shooting  up,  vide
 u-o/fforo.  The  next  month  is  the  vusiaru,  the  wind  beats  upon
 the  easuarina  trees  upon  the  cliffs ;  the  next  again  is  called
-tetemavuru,  the  wind  blows  hard  and  drives  off  flying  frag-
-ments from  the  seeded  reeds;  these  are  hurricane  months.
+tetemavuru,  the  wind  blows  hard  and  drives  off  flying  fragments from  the  seeded  reeds;  these  are  hurricane  months.
 The  last  in  order  is  the  month  that  beats  and  rattles,  lamasag
 noronoro,  the  dry  reeds ;  the  wind  blows  strong  and  steady,
 work  is  begun  again,  they  rakasag,  to  dry  the  rubbish  of
@@ -15533,8 +14883,7 @@ where  that  pepper  grows  naturally,  but  they  feel  that  they
 have  passed  into  a  foreign  region.    In  the  Banks'  Islands  and
 Wew  Hebrides  they  drink  the  infusion  of  the  root  of  the  Piper
 methyshcum  well  known  as  kava,  called  gea  at  Mota,  malowo
-m  Aurora.    This  is  in  the  Banks'  Islands  so  recent  an  intro-
-duction that  the  use  of  .it  had  not  spread  to  Santa  Maria  a
+m  Aurora.    This  is  in  the  Banks'  Islands  so  recent  an  introduction that  the  use  of  .it  had  not  spread  to  Santa  Maria  a
 few  years  ago.    The  difference  in  the  mode  of  preparation
 seems  to  pomt  to  two  distinct  sources  or  times  of  introduction.
 In  the  Banks  Islands  drinking  the  gea  is  called  woana ;  the
@@ -15548,8 +14897,7 @@ out  the  saliva,  water  is  added  again  in  the  cocoa-nut-shell  cup,
 and  the  fibres  being  removed  and  well  squeezed  over  the  cup
 the  potion  is  ready.  In  Aurora  the  malowo  is  pounded  with
 a  rough  coral  pestle  and  mortar.  The  moderate  use  of  this
-narcotic  has  no  bad  effect ;  excess,  which  is  more  common  per-
-haps in  the  New  Hebrides,  makes  a  man  listless  and  stupid.
+narcotic  has  no  bad  effect ;  excess,  which  is  more  common  perhaps in  the  New  Hebrides,  makes  a  man  listless  and  stupid.
 The  plant  used  is  not  indigenous ;  there  is  indeed  a  pepper  of
 the  same  species  very  common,  but  it  will  not  do  for  the
 woana.  There  is  a  certain  sacred  character  about  the  plant,
@@ -15586,9 +14934,6 @@ XVIII.]
 
 
 Cotmting.  Measures.
-
-
-353
 
 
 (10)  Counting.    Measures.    The  systems  of  numeration  in
@@ -15655,8 +15000,7 @@ pull  them  asunder  with  a  crack.  This  is  a  greeting,  a  mark
 of  fellowship  and  of  approval.  Kissing  is  not  indigenous  ;  to
 flunpun,  is  analogous  to  it,  snuffing  with  the  nose,  not  rubbing
 noses,  and  this  is  not  thought  proper  or  becoming  to  be  done
-except  to  children.  Rubbing  noses  is  practised  in  the  Poly-
-nesian settlements  only.  It  is  not  the  custom  to  say
+except  to  children.  Rubbing  noses  is  practised  in  the  Polynesian settlements  only.  It  is  not  the  custom  to  say
 anything  by  way  of  thanks ;  it  is  rather  improper  to  show
 emotion  when  anything  is  given,  or  when  friends  meet  again ;
 silence  with  the  eyes  cast  down  is  the  sign  of  the  inward
@@ -15670,8 +15014,7 @@ gratitude ;  others  probably  are  ready  enough  to  say  it.
 mountains  of  Laudari,  the  part  of  Guadalcanal-  upon  which
 their  own  island  looks  out,  there  are  wild  men  whom  they  call
 Mumulou.  They  are  men,  and  have  language;  the  hair  of
-their  heads  is  straight  and  reaching  down  their  legs,  then-
-bodies  are  covered  with  long  hair,  and  they  have  long  nails  ;
+their  heads  is  straight  and  reaching  down  their  legs,  thenbodies  are  covered  with  long  hair,  and  they  have  long  nails  ;
 they  are  large  and  tall,  but  not  above  the  size  of  men.  One
 was  killed  not  long  ago,  the  coast  people  of  Laudari  say,  and
 so  they  know  very  well  what  they  are  like.    They  live  in
@@ -15698,8 +15041,7 @@ men  are  called  Mae ;  they  have  long  hair,  long  teeth,  they
 dwell  in  caves,  carry  off  pigs,  and  if  they  meet  a  man  alone
 will  seize  and  eat  him.    In  the  night  they  are  heard  crying
 in  the  valleys,  and  it  is  then  said  that  the  Mae  is  washing
-her  child.    The  name  shows  some  connexion  with  the  super-
-stition described  (page  188),  but  they  call  no  snake  a  mae,  and
+her  child.    The  name  shows  some  connexion  with  the  superstition described  (page  188),  but  they  call  no  snake  a  mae,  and
 these  are  men.    However  much  these  stories  vary,  the  belief
 may  be  said  to  be  general  from  Ysabel  to  Mae,  just  as  stories
 of  wild  men  have  been  current  in  New  Zealand.  Descriptions
@@ -15756,9 +15098,6 @@ a  story  will  be  quoted  to  explain  or  confirm  some  statement,
 The  Heron  and  the  Tzirtle.
 
 
-357
-
-
 and  would  have  little  effect  if  not  brought  forth  as  true ;
 a  story,  because  it  has  always  been  told  and  heard,  is  not  open
 to  much  doubt  or  criticism.    But  it  may  be  safely  said  that  to
@@ -15782,8 +15121,7 @@ pitu,  hahae  lea,  which  marks  the  character  of  the  narrative.
 
 These  stories  are  here  divided  into  three  classes  :  I.  Animal
 Stories,  concerned  mostly  with  birds  and  fishes,  as  is  natural
-in  islands  were  mammals  are  very  few;  II.  Stories  con-
-taining Myths  and  Tales  concerning  the  origin  of  things  •
+in  islands  were  mammals  are  very  few;  II.  Stories  containing Myths  and  Tales  concerning  the  origin  of  things  •
 III.  Wonder  Tales.
 
 
@@ -15860,12 +15198,10 @@ Soo  came  into  the  house  where  the  boys  were,  and  there  he
 danced  for  them.  And  he  says,  Kerembaembae  !  Kerembaembae  !
 Loosed  is  your  leg  that  they  have  tied  !  and  his  leg  is  loosed.
 Kerembaembae !  Slipped  out  is  your  head !  and  his  head
-slipped  out.  Kerembaembae  !  Clear  the  forepart !  and  the  fore-
-part of  him  was  clear.  Kerembaembae  !  Clear  the  hinder  part !
+slipped  out.  Kerembaembae  !  Clear  the  forepart !  and  the  forepart of  him  was  clear.  Kerembaembae  !  Clear  the  hinder  part !
 and  his  hinder  part  was  clear.  Kerembaembae  !  Clear  the  rest
 of  you !  and  the  rest  of  him  was  clear.  Kerembaembae !
-Follow  the  path  !  Kerembaembae  !  Reach  the  sand !  Kerembaem-
-bae !  Down  with  you  into  the  sea  !  Kerembaembae  !  Dive  out
+Follow  the  path  !  Kerembaembae  !  Reach  the  sand !  Kerembaembae !  Down  with  you  into  the  sea  !  Kerembaembae  !  Dive  out
 of  sight !  Kerembaembae  !  Go  a  fathom's  length !  Kerembaembae  !
 Go  two  fathoms  !  So  he  escaped  with  his  life.  And  the
 people  returned  from  inland  and  came  out  into  the  open,
@@ -15887,8 +15223,7 @@ for  certain,  nobody  has  stolen  him,  said  they.
 2.    The  Thb.ee  Fish.  Ureparapapa.
 
 The  story  of  the  Watwata  (an  Ostracion)  and  the  Sole.  The
-two  were  scratching-  one  another,  and  the  Sole  said  to  the  Wat-
-wata, Scratch  me.  But  the  Watwata  said,  No,  you  shall  scratch
+two  were  scratching-  one  another,  and  the  Sole  said  to  the  Watwata, Scratch  me.  But  the  Watwata  said,  No,  you  shall  scratch
 me  first.  And  the  Sole  scratched  the  Watwata,  scratched  him
 well.  And  the  Watwata  said,  Brother,  you  have  scratched  me
 badly,  but  the  Sole  said,  No,  it  is  all  right.  And  the  Watwata
@@ -15929,9 +15264,6 @@ XIX.]
 MP
 
 The  Birds  Voyage.
-
-
-361
 
 
 haste  and  come  clown,  be  quick  about  it.  Then  the  Rail
@@ -16033,8 +15365,7 @@ Parrot,  I  will  tidy  you,  and  the  Tatagoras  said  to  the  JFasia,  I
 will  tidy  you  ;  and  they  all  of  them  sat  down  in  pairs.  Then
 said  the  Rat  to  the  Owl,  Friend,  come  here,  let  me  make  you
 tidy;  so  he  sits  down  and  the  Rat  begins  to  make  him  tidy;
-and  as  he  combs  his  head  he  keeps  saying, '  Comb-comb-dung-
-dung,  comb-comb-dung-dung ' ;  and  he  dungs  upon  the  head
+and  as  he  combs  his  head  he  keeps  saying, '  Comb-comb-dungdung,  comb-comb-dung-dung ' ;  and  he  dungs  upon  the  head
 of  the  Owl.    Then  says  the  Rat,  My  paws  are  tired  out,  let
 some  one  else  take  my  place.    I  will,  says  the  Mes,  the
 trichoglossus  parrot ;  so  the  Rat  runs  off,  and  the  Mes  sits  down
@@ -16104,9 +15435,6 @@ XIX.]
 Kamakajakti.
 
 
-365
-
-
 II.    MYTHS  AND  TALES  OF  ORIGINS,
 i.  The  Story  of  Kamakajaku.    Bugotu,  Ysabel  Island.
 
@@ -16132,8 +15460,7 @@ up  to  the  hill  where  he  dwelt,  and  did  not  yet  get  sight  of  it,
 and  swam  still  out  from  the  shore  till  he  saw  the  hill  at  Gaji,'
 and  then  he  dipped.    And  the  surface  of  the  sea  sounded  and
 bubbled,  and  he  heard  coming-to-him  a  Komlili  (King-fish),
-a  very  great  fish  ;  and  it  came  and  swallowed  him,  and  went-
-off  with  him  eastwards  to  the  rising  up  of  the  sun,  and  went
+a  very  great  fish  ;  and  it  came  and  swallowed  him,  and  wentoff  with  him  eastwards  to  the  rising  up  of  the  sun,  and  went
 off  with  him  till  it  arrived  with  him  at  a  shallow  place,  and  it
 threw  itself  about  so  that  Kamakajaku  perceived  that  there
 was  a  beach  probably.    Here  am  I,  says  he,  and  he  thought
@@ -16190,9 +15517,6 @@ XIX.]
 Samuku.     The  Mim.
 
 
-367
-
-
 2.  The  Story  of  Samuku.    Bugotu,  Ysabbl  Island.
 
 Samukn  lived  in  his  village,  and.  built  his  house,  and  worked,
@@ -16200,8 +15524,7 @@ and  good  and  many  were  his  affairs  ;  so  he  took  a  wife  and
 married,  and  they  two  lived  well,  and  agreed  perfectly  well
 together,  and   worked,  and   much  was   their   food.  And
 Samuku  came  home  and  asked  for  food,  because  he  was
-hungry,  and  his  wife  had  not  prepared  any  food,  and  Sa-
-muku was  angry  with  his  wife,  and  scolded  her  greatly.
+hungry,  and  his  wife  had  not  prepared  any  food,  and  Samuku was  angry  with  his  wife,  and  scolded  her  greatly.
 And  his  wife  said  to  him,  I  am  tired  of  making  food  for  you,
 your  father  and  mother  are  dead,  who  is  to  make  you  food  ?
 Go  and  see  them  in  Tuhilagi,  says  she.    And  Samuku  was
@@ -16390,8 +15713,7 @@ and  launched  his  canoe,  and  paddled  out  to  the  place  where
 those  fish  were.    And  he  called  them  with  a  song-,  which  he
 sang  like  this,  Bulenggn  sava  ige  !  ige  wuweu,  mo  gaigei  woworoa,
 mo  gaigei  woworoa  sole,  My  fish,  whatever  you  are,  nice  little
-fish,  here  is  your  food  with  sauce,  your  food  done  with  cocoa-
-nut  sauce.    But  there  was  another  person,  whose  name  was
+fish,  here  is  your  food  with  sauce,  your  food  done  with  cocoanut  sauce.    But  there  was  another  person,  whose  name  was
 Merambuto,  who  stood  on  the  beach,  and  heard  Tagarombiti
 calling  his  fish  with  a  song  like  that,  and  next  day  Merambuto,
 having  made  haste  to  prepare  food  in  the  night,  drew  down
@@ -16401,8 +15723,7 @@ floated  before.    And  he  sang  again  that  song-,  Bulenggn  sava
 ige ! — Then  those  fish  heard  his  voice  that  it  was  loud,  and
 did  not  rise,  because  they  knew  it  was  a  different  person  by
 his  loud  voice.    And  Merambuto  perceived  that  they  did  not
-rise,  and  he  altered  his  voice  so  as  to  be  small  like  Taga-
-rombiti's.   And  he  called  them  with  a  small  voice  singing
+rise,  and  he  altered  his  voice  so  as  to  be  small  like  Tagarombiti's.   And  he  called  them  with  a  small  voice  singing
 that  song,  Bulenggu  sava  ige! -Then  those  fish  heard  that  the
 voice  was  small,  and  they  rose  all  of  them  to  the  surface,  and
 he  caught  every  one  of  them  with  a  hook.    And  he  made
@@ -16423,8 +15744,7 @@ them,  following  on  till  he  came  to  Merambuto's  place ;  and
 there  he  went  into  the  house  to  him,  and  sat  down  with  him
 in  a  friendly  way.  Then  said  Tagaro,  What  is  that  in  the
 oven?  I  am  hungry.  And  Merambuto  said,  That  is  my
-food,  but  it  is  very  bad,  you  cannot  eat  it.  Then  says  Taga-
-romhiti, Indeed  !  is  your  food  so  very  bad  ?  But  those  are  my
+food,  but  it  is  very  bad,  you  cannot  eat  it.  Then  says  Tagaromhiti, Indeed  !  is  your  food  so  very  bad  ?  But  those  are  my
 fish,  and  you  have  caught  them  all.  And  he  struck  bim,  and
 killed  him  in  his  house,  and  set  fire  to  the  house,  and  it  was
 burnt  and  destroyed.  And  Tagarombiti  took  back  tbe  fish
@@ -16460,8 +15780,7 @@ Dilingavuv.
 
 lizards.  So  one  day  when  the  old  woman  went  into  the
 garden  to  work  and  to  bring-  back  food  for  the  three  of  them,
-she  said  to  those  two,  Don't  you  go  there!  and  they  an-
-swered, Very  well,  we  shall  not  go.  And  she  went  out  of  the
+she  said  to  those  two,  Don't  you  go  there!  and  they  answered, Very  well,  we  shall  not  go.  And  she  went  out  of  the
 house,  and  went  into  the  gardens,  and  those  two  brothers
 played  with  their  bows,  shooting  lizards.  After  a  while  one
 said  to  the  other,  It  would  be  a  good  thing  to  go  and  see
@@ -16472,8 +15791,7 @@ lizard  sitting  on  a  part  of  that  leaf,  and  one  of  them  shot  at
 it,  but  missed  the  lizard  and  hit  the  leaf,  and  the  water  that
 was  in  it  burst  quickly  forth.  And  the  old  woman  heard  it,
 and  perceived  that  those  two  had  probably  shot  the  leaf.  And
-she  stood  up  and  cried  with  a  loud  voice,  Horodali  bulu,  horo-
-dali  buhi,!  and  twice  again,  Dali  tire,  dali  ufe'!  (Pour  round
+she  stood  up  and  cried  with  a  loud  voice,  Horodali  bulu,  horodali  buhi,!  and  twice  again,  Dali  tire,  dali  ufe'!  (Pour  round
 about  and  meet !  Round  about  the  world !)  And  thus  the
 sea  for  the  first  time  stood  full  around  the  whole  world,  for
 before  that  they  say  there  was  no  sea.  So  the  old  woman
@@ -16489,8 +15807,7 @@ a  garden,  and  planted  bananas  in  it.  When  the  bananas  bore
 fruit  and  ripened  Dilingavuv  went  every  day  and  ate  bananas
 in  their  garden,  not  eating  on  the  ground,  but  climbing  into
 the  trees  and  eating.  After  a  while  he  was  discovered ;  one
-of  the  party  went  into  the  garden  and  saw  him  up  in  a  banana-
-tree  eating;  so  he  ran  and  told  the  others.  Says  he,  You
+of  the  party  went  into  the  garden  and  saw  him  up  in  a  bananatree  eating;  so  he  ran  and  told  the  others.  Says  he,  You
 fellows,  I  have  seen  the  one  who  steals  and  eats  our  bananas.
 Then  said  Maraw-hihi,  Hew  out  bows  for  us  to  go  and  shoot
 and  kill  him.  But  they  said,  Marawhihi,  no  one  will  be  able
@@ -16518,8 +15835,7 @@ along  on  tiptoe  under  the  banana,  and  when  Dilingavuv
 stretched  out  his  arms  he  was  not  frightened  at  him ;  but  he
 shot  him  with  a  bird  arrow  of  casuarina  wood,  and  hit  him  on
 the  ear,  and  shot  it  right  off;  and  he  fell  headlong  to  the
-ground.    So  Marawhihi  ran  and  told  his  friends ;  but  Dili-
-gavuv  got  up  from  under  the  banana  and  went  home  to  his
+ground.    So  Marawhihi  ran  and  told  his  friends ;  but  Diligavuv  got  up  from  under  the  banana  and  went  home  to  his
 mother.    When  he  reached  his  mother's  house,  he  called  to
 her  within,  and  she  answered  him  and  said,  What  is  it,  my
 son  ?    And  he  said,  Give  me  an  axe.    And  his  mother  said,
@@ -16558,8 +15874,7 @@ heated  over  the  fire,  and  threw  them  down  into  the  hole  to  kill
 the  men  with  heat ;  but  as  he  threw  them  down  Marawhihi  said
 to  his  companions,  Come  round  over  to  this  side  of  the  pit,  and
 they  did  so,  and  not  one  of  them  was  killed.  But  Dilingavuv
-went  home  thinking  he  had  killed  them  all.  Then  Maraw-
-hihi said  to  his  men,  Do  you  know  how  we  shall  save  our
+went  home  thinking  he  had  killed  them  all.  Then  Marawhihi said  to  his  men,  Do  you  know  how  we  shall  save  our
 lives  ?  and  they  answered,  We  are  all  dead  already.  Not  at
 all,  said  he,  I  know  very  well  that  we  shall  not  die.  Then
 Marawhihi  cast  up  his  eyes  out  of  the  mouth  of  the  pit,  and
@@ -16615,8 +15930,7 @@ heads.    So  they  dressed  their  heads  and  adorned  themselves,
 and  went  into  the  garden,  and  helped  the  people  who  were
 digging  the  ground.    But  when  that  Eel  dug  the  ground  all
 the  people  crowded  to  see  him  do  it ;  some  went  back  to  their
-digging,  but  the  women  would  not  do  their  work,  and  their  hus-
-bands were  exceedingly  angry  with  the  Eel,  and  rushed  upon
+digging,  but  the  women  would  not  do  their  work,  and  their  husbands were  exceedingly  angry  with  the  Eel,  and  rushed  upon
 him,  and  would  have  killed  him ;  but  the  boy  who  came  with
 him  poured  water  on  him,  and  he  turned  into  an  Eel  again.
 And  they  caught  hold  of  him,  but  he  escaped ;  and  they
@@ -16626,9 +15940,6 @@ XIX.]
 
 
 Molgon  and  Molwor.
-
-
-377
 
 
 missed  their  hold  upon  hirn  over  and  over  again,  and  he
@@ -16669,8 +15980,6 @@ one  for  one,  one  for  the  other,  and  one  they  broke  in  two  •
 they  paddled  on  and  four  came  floating  down,  two  for  one'
 two  for  the  other;  they  paddled  on  and  five  came  floatin-
 
-
-378
 
 Stories.  j-CH
 
@@ -16717,9 +16026,6 @@ XIX.]
 
 
 The  Ghost-wife.
-
-
-379
 
 
 have  not  thought  of  me  ;  and  he  went  on  talking-.  But  the
@@ -16772,8 +16078,7 @@ have  their  tips  broken  down,  and  you  will  pass  through  there
 and  come  out  (upon  the  tree).  So  he  follows  the  word  his
 mother  gave  him  ;  and  as  he  goes  along  the  sun  is  setting,
 but  he  arrives  at  the  gaviga-tree  and  climbs  up.  And  when
-he  had  climbed  up  to  eat  it  was  dark.  Then  he  sees  some-
-thing flying  to  him  on  the  gaviga  and  settling.  Then  says
+he  had  climbed  up  to  eat  it  was  dark.  Then  he  sees  something flying  to  him  on  the  gaviga  and  settling.  Then  says
 the  ghost  to  the  living  man,  Where  do  you  come  from  ?  And
 the  man  says  to  him,  It  is  not  as  you  suppose.  Mother  came
 here  to  dig  qawro  and  she  found  this  gaviga,  and  then  she
@@ -16819,8 +16124,7 @@ three  will  live  here,  and  she  may  live  with  you  ;  so  the  three
 lived  together.    And  as  the  three  lived  together  those  two
 worked  for  yams  and  taro  and  tomago  and  hibiscus ;  and  as
 they  were  working  so  her  husband  appointed  the  time  for  his
-mqe,  and  appointed  five  days.    And  they  waited  counting-
-the  days,  and  when  it  came  to  the  fifth  day  he  went  off,  and
+mqe,  and  appointed  five  days.    And  they  waited  countingthe  days,  and  when  it  came  to  the  fifth  day  he  went  off,  and
 he  said  to  his  wife,  You  two  are  not  to  come,  you  and  our
 child ;  you  two  go  into  the  garden  and  weed  away  the  grass
 from  the  taro,  and  when  you  have  finished  weeding  go  to  the
@@ -16855,8 +16159,7 @@ when  she  has  weeded  all  the  place  she  does  again  as  before ;
 if  she  essays  to  dig  a  yam  for  their  food,  and  she  lays  hold  on
 the  leaf  of  the  yam,  there  is  a  tuber  already  in  her  hand  ;  and
 if  she  essays  to  pluck  hibiscus  leaves,  they  are  in  her  hand
-already;  and  if  she  essays  to  take  a  cocoa-nut,  there  is  a  cocoa-
-nut  already  in  her  hand.    And  the  evening  draws  on,  and  the
+already;  and  if  she  essays  to  take  a  cocoa-nut,  there  is  a  cocoanut  already  in  her  hand.    And  the  evening  draws  on,  and  the
 two  go  home ;  and  her  husband  comes  home  and  sees  them,  and
 asks  them,  What  have  you  two  eaten  ?    And  she  says,  We  two
 have  been  in  our  garden  working,  and  have  dug  a  yam  for
@@ -16981,9 +16284,6 @@ XIX.]
 Ganviviris.
 
 
-385
-
-
 But  his  uncle  said  to  him,  What  property  have  you  got  to
 give  for  us  to  buy  your  rank  with,  you  a  penniless  fellow
 with  nothing  coming  in  ?    And  he  says,  Lend  me  some
@@ -17043,26 +16343,20 @@ the  fifth  day  again  they  broke  up  fire-wood,  and  on  the  tenth
 day  he  bought  his  steps,  the  tamasuria  and  the  tavai  suqe ;
 and  on  the  fifth  day  again  he  said,  Let  us  break  up  fire-wood,
 and  on  the'  tenth  day  he  bought  the  steps  lavasuqelava  and
-kerejme.  And  always  he  was  buying  food  with  large  pay-
-ments, and  he  paddled  over  to  Vanua  Lava  and  bought  with
+kerejme.  And  always  he  was  buying  food  with  large  payments, and  he  paddled  over  to  Vanua  Lava  and  bought  with
 large  sums  there,  and  to  Mota  and  bought  with  large  sums
-there :  and  he  went  on  in  the  suqe  till  he  reached  the  weme-
-teloa.  Then  he  desired  to  make  his  suqe  also  at  Mota,  and  he
-went  and  built  his  house  at  Tasmate,  and  they  broke  up  fire-
-wood and  danced  the  taqesara.  But  he  appointed  the  tenth  day
+there :  and  he  went  on  in  the  suqe  till  he  reached  the  wemeteloa.  Then  he  desired  to  make  his  suqe  also  at  Mota,  and  he
+went  and  built  his  house  at  Tasmate,  and  they  broke  up  firewood and  danced  the  taqesara.  But  he  appointed  the  tenth  day
 for  a  sawae,  and  on  the  ninth  day  he  prepared  mashed  yams ;
 and  at  the  sawae  he  appointed  the  tenth  day  for  a.  kolekole.
 And  at  the  kolekole,  when  the  noise  of  the  sawae  was  sounding
 like  thunder,  and  the  feast  was  at  its  height,  they  saw  a
 woman  walking  up  the  sloping  ground  below  the  cliff,  using
-a  spear  for  a  walking  stick,  with  bracelets  on  her  arms  reach-
-ing to  the  elbow,  and  on  her  right  arm  a  boar's  tusk,  and  her
+a  spear  for  a  walking  stick,  with  bracelets  on  her  arms  reaching to  the  elbow,  and  on  her  right  arm  a  boar's  tusk,  and  her
 head  smeared  with  red  earth,  and  pigs'  tails  fastened  to  her
 hair ;  and  they  thought  that  some  visitors  had  just  landed
-from  a  canoe.  And  she  went  straight  to  the  house  of  Gan-
-viviris  and  passed  out  of  sight  within  it ;  and  they  went  to
-see  who  it  was  and  found  no  one  there.  And  they  told  Gan-
-viviris,  We  have  seen  a  woman  go  into  your  kole  house,  with
+from  a  canoe.  And  she  went  straight  to  the  house  of  Ganviviris  and  passed  out  of  sight  within  it ;  and  they  went  to
+see  who  it  was  and  found  no  one  there.  And  they  told  Ganviviris,  We  have  seen  a  woman  go  into  your  kole  house,  with
 bracelets  and  boars'  tusks  on  her  arms ;  and  he  said,  Don't
 
 
@@ -17072,15 +16366,11 @@ XIX.]
 The  Little  Orphan.
 
 
-387
-
-
 mention  it  in  the  village.  And  he  went  up  there  to  bring
 out  his  money-bags  on  his  back,  and  he  saw  that  his  ten  bags
 had  nothing  in  them  ;  and  he  went  outside  and  saw  that  all
 his  pigs  were  gone ;  his  distribution  of  property  came  to
-nothing  at  all.  And  when  the  evening  was  dark,  and  Gan-
-viviris  was  sleeping-  in  his  house,  they  heard  him  cry  out,
+nothing  at  all.  And  when  the  evening  was  dark,  and  Ganviviris  was  sleeping-  in  his  house,  they  heard  him  cry  out,
 and  they  asked  him,  What  ails  you?  And  he  said,  Esi !
 there  is  something,  but  I  "don't  know  what  it  is,  that  has
 happened  to  me.  And  he  began  to  sicken  on  that  very  night,
@@ -17199,8 +16489,7 @@ they  two  cooked  a  quantity  of  food  in  the  oven  inside  the
 390  Stories.  [CH.
 
 house,  and  he  also  cooked  a  quantity  in  the  gamal;  and  the
-pigs'  food  made  by  the  two  in  the  house  was  a  hundred  baskets-
-full  and  that  in  the  gamal  a  hundred.    And  as  soon  as  they
+pigs'  food  made  by  the  two  in  the  house  was  a  hundred  basketsfull  and  that  in  the  gamal  a  hundred.    And  as  soon  as  they
 covered  m  the  ovens  the  food  was  cooked.    And  the  Little
 Orphan  mixed  the  food  for  his  part  in  the  gamal,  and
 Som  and  her  child  mixed  for  their  part  in  the  house ;
@@ -17260,8 +16549,7 @@ pigs  and  money.  And  he  says  to  his  uncle  again,  Pay,
 sar,  them  again  for  the  av  tagataga,  and  he  pays ;  and
 when  he  has  paid  them  all,  his  nephew  makes  the  return  of
 his  property,  gives  pigs  and  money  And  he  says  again  to  his
-uncle,  Tata,  let  those  people  again  make,  vene,  their  contribu-
-tion of  money  for  the  Imcai  av ;  and  they  make  it ;  and  his
+uncle,  Tata,  let  those  people  again  make,  vene,  their  contribution of  money  for  the  Imcai  av ;  and  they  make  it ;  and  his
 uncle  repays  them ;  and  when  he  has  paid  them  all,  his
 nephew  runs  up  into  the  house,  and  brings  money  out  on  his
 back,  and  makes  the  return  of  his  property  to  his  uncle.  And
@@ -17289,8 +16577,7 @@ mele  ;  and  he  pays  ;  and  his  nephew  runs  up  and  goes  into  the
 house  and  carries  out  money,  and  gives  pigs  and  rawes,  and
 makes  return  of  his  uncle's  property.  And  that  money  will
 never  come  to  an  end,  because  his  mother  was  Ro  Som  (i.e.
-Money);  and  she  sits  in  the  house  and  is  hard  at  work  multi-
-plying that  money.  And  he  says  again,  Tata,  pay  them  again
+Money);  and  she  sits  in  the  house  and  is  hard  at  work  multiplying that  money.  And  he  says  again,  Tata,  pay  them  again
 for  the  tetug;  and  he  pays ;  and  his  nephew  runs  up  and  goes
 into  the  house,  and  carries  out  money,  and  gives  pigs  and
 rawes,  and  makes  return  of  his  uncle's  property.  And  he
@@ -17308,11 +16595,9 @@ one  for  a  wenereqoe,  pig's  tail,  makes  one  for  a  wetapup,
 chicken's  feathers,  makes  one  for  a  sarlano,  a  hat,  makes  one
 for  a  liwan  tamate,  figure  of  a  ghost,  all  those  kolekoles  of
 every  sort  and  kind  he  accomplished.  After  that  his  nephew
-made  a  return  of  his  property;  he  returned,  went  on  re-
-turning, returned  to  the  uttermost  his  uncle's  property.
+made  a  return  of  his  property;  he  returned,  went  on  returning, returned  to  the  uttermost  his  uncle's  property.
 And  his  uncle  killed  pigs  for  him  ;  killed  for  the  sewere,
-killed  for  the  nule,  killed  for  the  gamal,  killed  for  the  wenere-
-qoe, killed  for  the  tvetapup,  killed  for  the  kolevat,  the  stone,
+killed  for  the  nule,  killed  for  the  gamal,  killed  for  the  wenereqoe, killed  for  the  tvetapup,  killed  for  the  kolevat,  the  stone,
 killed  for  the  qatqatmemea,  the  red  head,  killed  for  the  sarlano,
 killed  for  the  Imantamate.  And  when  he  had  finished  killinsr,
 his  uncle  commanded  the  people  of  his  village  to  take  his
@@ -17379,8 +16664,7 @@ together;  and  some  other  runs  down  and  cries,  This  is  my
 friend,  and  takes  him,  and  they  two  walk  up  ashore  ;  but
 that  poor  Little  Orphan,  they  don't  want  to  be  friends  with
 him.  And  they  stay  and  stay,  and  the  wind  rises,  and  they
-are  to  start  on  their  voyage  ;  and  they  set  off  and  paddle,  pad-
-dle on,  and  go  out  at  Losalava.  And  when  those  people  drag
+are  to  start  on  their  voyage  ;  and  they  set  off  and  paddle,  paddle on,  and  go  out  at  Losalava.  And  when  those  people  drag
 up  their  canoe  (at  Mota),  he  runs  back,  runs  and  runs,  and
 reaches  the  house  where  they  three  lived,  and  goes  straight
 inside  the  house,  and  sees  the  heap  of  yams  still  remaining  as
@@ -17405,9 +16689,6 @@ XIX.]
 
 
 The  Little  Orphan.
-
-
-395
 
 
 deserted  garden.  But  as  they  ran  away  the  old  woman  sat
@@ -17456,9 +16737,6 @@ jawbones  of  the  pigs  he  has  killed  in  his  feasts.    They  beguile  him
 and  carry  him  off  to  their  own  island  to  kill  and  eat  him.    While  they  are
 
 
-396
-
-
 Stories.
 
 
@@ -17482,8 +16760,7 @@ hard  at  the  eel  and  it  loosed  its  tail  from  the  croton,  and  they
 brought  it  into  the  village,  and  laid  it  at  the  entrance  of  the
 gamal.  So  when  they  ran  off  for  fire-wood  and  banana  leaves
 to  cook  it  with,  the  eel  said  to  the  lame  man,  When  they  are
-eating  don't  you  eat ;  they  shall  eat  by  themselves.  Con-
-sequently the  lame  man  did  not  eat ;  but  they  put  the  eel  to
+eating  don't  you  eat ;  they  shall  eat  by  themselves.  Consequently the  lame  man  did  not  eat ;  but  they  put  the  eel  to
 be  cooked  in  the  oven  of  the  suae,  and  covered  in  the  oven.
 And  when  they  opened  the  oven  they  all  took  up  pieces  of
 the  eel,  every  one  of  them  a  piece,  and  when  the  great  man
@@ -17596,16 +16873,12 @@ XIX.]
 Taso.
 
 
-399
-
-
 killed  with  a  club,  Qatu's  sister,  was  lying-  and  rotting,  her
 two  infants  were  alive,  and  as  the  mother  rotted,  it  left  them
 free.    So  they  lay,  and  they  rolled  along  on  the  smooth
 ground,  and  by  and  bye  they  grew  strong.    Then  they  found
 dry  leaves  in  which  rain  water  had  collected  and  they  sipped
-and  drank;  and  they  came  ©n.to  a  root  of  qena  (a  gingi-
-beraceous  plant)  and  sucked  it,  for  this  qena  has  a  swollen
+and  drank;  and  they  came  ©n.to  a  root  of  qena  (a  gingiberaceous  plant)  and  sucked  it,  for  this  qena  has  a  swollen
 lump  at  its  root  and  water  accumulates  in  a  small  hollow  in  it.
 So  they  clung  to  the  qena  root  till  they  were  strong  and
 could  move  about,  and  then  they  began  to  wander,  and  made
@@ -17648,8 +16921,7 @@ And  they  told  him  how  they  lay  and  rolled  and  found  their
 way  out  of  the  thicket,  and  saw  the  water  and  drank  it,  and
 came  to  the  root  of  qena  and  sucked  it ;  and  how  when  they
 did  so  they  grew  strong,  and  saw  the  sow  and  filled  their
-bellies  with  the  food  the  sow  was  eating.  And  Qatu  under-
-stood without  mistake  that  these  were  the  children  of  his
+bellies  with  the  food  the  sow  was  eating.  And  Qatu  understood without  mistake  that  these  were  the  children  of  his
 sister  whom  Taso  had  killed  long  ago.
 
 Qatu  called  them  and  went  up  to  the  village  and  hid  them
@@ -17676,8 +16948,7 @@ different  ones  for  them.  And  when  they  could  shoot  geckos
 he  took  the  bows  away  from  them  and  broke  them  and  shaped
 
 1  In  another  version  of  the  story,  '  When  Motari  saw  the  two  handsome
-boys  with  their  white  hair,  she  liked  them  and  asked  Qatu,  Are  these  my  chil-
-dren or  my  husbands?  And  Qatu  said,  Yes  indeed,  your  husbands,  for  they
+boys  with  their  white  hair,  she  liked  them  and  asked  Qatu,  Are  these  my  children or  my  husbands?  And  Qatu  said,  Yes  indeed,  your  husbands,  for  they
 are  my  sister's  children.'
 
 
@@ -17685,9 +16956,6 @@ XIX.]
 
 
 Taso.
-
-
-401
 
 
 different  ones  for  them,  and  put  points  to  their  arrows.  And
@@ -17774,9 +17042,6 @@ XIX.]
 
 
 Betaiverai.
-
-
-403
 
 
 11.  About  Betawerai  a  Snake.  Aurora.
@@ -17910,8 +17175,7 @@ all  those  chambers  were  filled  with  the  big-  snake;   and  her
 head,  a  woman's,  lay  opposite  the  door,  though  the  whole
 house  was  full  of  the  snake.    In  the  morning  the  people  came
 to  see  this  person,  and  saw  that  it  was  a  snake  with  a  human
-head.   And  whenever  Dovao  and  Basi  went  anywhere  and  re-
-turned, she  would  go  to  her  mother,  that  snake,  and  rub  her
+head.   And  whenever  Dovao  and  Basi  went  anywhere  and  returned, she  would  go  to  her  mother,  that  snake,  and  rub  her
 nose  upon  her,  and  lie  close  upon  her ;  but  her  husband  did  not
 like  that  sort  of  thing.  On  that  account  (and  because  the  snake
 devoured  the  pigs  and  fowls  that  came  near  the  door),  when
@@ -17974,8 +17238,7 @@ of  the  bamboo,  and  went  off  with  him  into  a  different
 country.  And  Tari  sent  every  kind  of  fish  and  bird  to  seek
 for  Deitari ;  and  he  found  a  little  fish,  extremely  thin,  and
 this  fish  and  Deitari's  father  found  him  hidden  at  the  back
-end  of  Taepupuliti's  house.  And  they  two,  Tari  and  Taepu-
-puliti, sat  down  to  drink  /cava ;  and  the  father  of  the  one
+end  of  Taepupuliti's  house.  And  they  two,  Tari  and  Taepupuliti, sat  down  to  drink  /cava ;  and  the  father  of  the  one
 whom  the  other  'had  devoured  let  the  liquor  fall  from  his
 mouth  as  he  drank,  so  that  the  /cava  did  not  strike  (affect)
 him ;  but  as  for  the  one  who  had  eaten  his  child  it  struck
@@ -18002,8 +17265,7 @@ lying,  and  got  into  it.    And  a  kingfisher  flies  down  as  a  sicn
 if  any  one  gets  into  the  figure  of  the  fish  ;  and  the  old
 woman  lying  in  the  house  when  she  hears  the  kingfisher
 breaks  a  stick,  and  the  image  then  goes  into  the  sea.  And
-when  the  boy  got  into  the  figure  of  the  fish,  and  the  king-
-fisher flew  down  to  the  roof  of  the  house,  and  the  old  woman
+when  the  boy  got  into  the  figure  of  the  fish,  and  the  kingfisher flew  down  to  the  roof  of  the  house,  and  the  old  woman
 heard  it,  she  broke  a  piece  of  fire-wood,  and  the  image  of
 the  fish  with  the  boy  inside  it  went  down  into  the  sea,  and
 crossed  to  Opa.    And  the  father  was  in  his  garden  and  he
@@ -18032,9 +17294,6 @@ XIX.]
 
 
 Tagaro  and  Mera-mbuto.
-
-
-409
 
 
 15.  The  Woman  and  the  Ghost.  Aurora.
@@ -18069,8 +17328,7 @@ sun  set  while  he  was  still  in  the  forest.  And  he  was  hungry,
 for  he  had  nothing  whatever  to  eat.  Now  beside  that  path
 they  say  there  was  a  single  gaviga-tree,  with  many  branches,
 and  also  ripe  fruit  on  it ;  and  he  climbed  up  to  eat,  and  to
-sleep  awhile  on  that  tree ;  and  in  his  hand  was  his  conch-
-shell  trumpet  to  blow  as  he  went  along  the  path.  And  in
+sleep  awhile  on  that  tree ;  and  in  his  hand  was  his  conchshell  trumpet  to  blow  as  he  went  along  the  path.  And  in
 the  middle  of  the  night,  when  he  had  finished  eating,  he
 climbed  further  up  to  the  top  of  that  gaviga-tree  to  sleep  and
 rest  there  ;  and  as  he  begins  to  fall  asleep  he  hears  the  voices
@@ -18078,19 +17336,16 @@ rest  there  ;  and  as  he  begins  to  fall  asleep  he  hears  the  voices
 
 4I°  Stories.  [CH
 
-of  a  number  of  people  coming-  along  underneath  the  gavi-a-
-tree    And  he  woke  up  thinking  that  it  was  probably  his
+of  a  number  of  people  coming-  along  underneath  the  gavi-atree    And  he  woke  up  thinking  that  it  was  probably  his
 brothers  lookiug  for  him  ;  but  it  was  not  so,  these  were
 different  persons;  these  were  Mera-mbuto  and  his  brothers
-coming  along,  and  they  climbed  up  the  gaviga-tree  them-
-selves.   And  Tagaro-mbiti  sits  perfectly  still  lest  they  should
+coming  along,  and  they  climbed  up  the  gaviga-tree  themselves.   And  Tagaro-mbiti  sits  perfectly  still  lest  they  should
 see  him,  and  he  hears  one  of  them  say  <Inm  ranganggn  ngaha,'
 This  is  my  branch,  and  another  cries  'Ineu  ranganggu  ngaha '
 and  so  say  all  of  them.  Then  says  Mera-mbuto  'Ineu  ranganggu
 ngaha  lo  vnlmngegi;  This  is  my  branch  at  the  top;  and  this
 he  said  with  a  loud  voice.    And  Mera-mbuto  climbed  straight
-up  to  the  top  of  that  gaviga-tree,  and  there  he  found  Tagaro-
-mbiti.    Then  says  Mera-mbuto,  Who  are  you  ?   And  says  he,
+up  to  the  top  of  that  gaviga-tree,  and  there  he  found  Tagarombiti.    Then  says  Mera-mbuto,  Who  are  you  ?   And  says  he,
 I  am  Tagaro-mbiti.    Now  they  say  that  this  Mera-mbuto  and
 his  brothers  had  a  cave  for  their  dwelling.    And  he  asked
 Tagaro  again,  What  is  that  in  your  hand  ?  And  he  says,  The
@@ -18105,14 +17360,12 @@ mess  and  then  I  shall  come  back.    Thus  he  deceived  them ;
 and  when  he  reached  his  dwelling,  the  cave,  he  whistled
 for  Tagaro  to  hear,  that  he  might  blow  the  conch.  And
 Tagaro  heard  Mera-mbuto  whistle,  and  he  put  forth  all  his
-strength  to  blow  the  conch  hard,  and  he  blew,  and  Mera-
-mbuto's  brothers  fell  every  one  of  them  from  the  tree  ;  and  he
+strength  to  blow  the  conch  hard,  and  he  blew,  and  Merambuto's  brothers  fell  every  one  of  them  from  the  tree  ;  and  he
 himself  was  delighted  and  jumped  high  again  and  again  in
 his  cave,  and  his  head  struck  against  the  rock,  and  the  rock
 stuck  fast  into  his  head,  and  there  he  died.    And  his  brothers
 who  had  fallen  down  died  every  one  ;  and  on  that  account
-they  say  that  bushes  grew  up  in  that  place  where  Mera-
-mbuto's  brothers  fell.    And  when  it  was  light  Tagaro-mbiti
+they  say  that  bushes  grew  up  in  that  place  where  Merambuto's  brothers  fell.    And  when  it  was  light  Tagaro-mbiti
 returned  to  his  home.
 
 
@@ -18268,9 +17521,6 @@ Canoe-houses,  258,  299.
 Canoes,  290.
 
 Capture  in  Marriage,  238  note,  240.
-
-
-414
 
 
 Index.
@@ -18451,9 +17701,6 @@ note,  198  note,  246  note,  248,  315,
 Index,
 
 
-415
-
-
 Fines,  30,  52.  _
 
 Fingers,  counting  on,  353.
@@ -18630,9 +17877,6 @@ Kites,  342.
 —  song,  336.
 
 
-416
-
-
 Index.
 
 
@@ -18802,9 +18046,6 @@ Origin  of  Chiefs  power,  51,  56,  116,
 
 
 Index.
-
-
-417
 
 
 Origin  of  Death,  260,  265,  283,  286.
@@ -19182,9 +18423,6 @@ Torres  Islands,  3,  7,  16,  75,  104,  ill,
 Index.
 
 
-419
-
-
 Totems,  32.
 
 Town  lots,  59,  61,  63,  65,  67.
@@ -19308,9 +18546,6 @@ PHILOSOPHY,  LOGIC,  ETC.
 PHYSICAL  SCIENCE  .
 
 
-2
-
-
 i.  3
 
 
@@ -19347,8 +18582,7 @@ by  English  Writers  from  the  Twelfth  to  the  Fifteenth  Century.  By
 Francis  Henry  Stratmann.  A  new  edition,  re-arranged,  revised,  and
 enlarged  by  Henry  Bradley.    4to,  half-bound,  ll.  1  is.  6d.
 
-An  Anglo-Saxon  Dictionary,  based  on  the  MS.  col-
-lections of  the  late  Joseph  Bosworth,  D.D.  Edited  and  enlarged  by
+An  Anglo-Saxon  Dictionary,  based  on  the  MS.  collections of  the  late  Joseph  Bosworth,  D.D.  Edited  and  enlarged  by
 Prof.  T.  N.  Toller,  M.A.,  Owens  College,  Manchester.  Parts  I-III.
 A-SAE.  4to,  stiff  covers.  15s.  each.  Part  IV  (completing,  the  Work)  in
 the  Press,
@@ -19429,11 +18663,9 @@ Edition.    8vo.    10s.  6d.
 
 Grueber.   Lex  Aquilia.  The
 
-Eoman  Law  of  Damage  to  Pro-
-perty :  being  a  Commentary  on  the
+Eoman  Law  of  Damage  to  Property :  being  a  Commentary  on  the
 Title  of  the  Digest  'Ad  Legem
-Aquiliam'  (ix.  2).  With  an  Intro-
-duction to  the  Study  of  the  Corpus
+Aquiliam'  (ix.  2).  With  an  Introduction to  the  Study  of  the  Corpus
 Iuris  Civilis.  By  Erwin  Grueber,
 Dr.  Jur.,  M.A.    8vo.    10s.  6d.
 
@@ -19443,8 +18675,7 @@ Hall.     International  Law.
 By  W.  E.  Hall,  M.A.  Third  Edition.
 8vo.    22s.  6d.
 
-Holland.  Elements  of  Juris-
-prudence. By  T.  E.  Holland,  D.CL.
+Holland.  Elements  of  Jurisprudence. By  T.  E.  Holland,  D.CL.
 Fifth  Edition.    8vo.    10s.  6d.
 
  The  European  Concert
@@ -19473,9 +18704,6 @@ Oxford :  Clarendon  Press.
 
 
 HISTORY,  BIOGRAPHY,  ETC.
-
-
-3
 
 
 Holland  and  Shadwell.  Select
@@ -19523,8 +18751,7 @@ Poste.    Gaii  Institutionum
 
 Juris  Oivilis  Commentarii  Quattuor  ;  or,
 Elements  of  Roman  Law  by  Gaius.
-With  a  Translation  and  Commen-
-tary by  Edward  Poste,  M.A.  Tldrd
+With  a  Translation  and  Commentary by  Edward  Poste,  M.A.  Tldrd
 Edition.    Svo.  18s.
 
 Raleigh.    An  Outline  of  the
@@ -19545,8 +18772,7 @@ A  Supplement  to  the  above,  1887-
 
 Twiss.    The  Law  of  Nations
 
-considered  as  Independent  Political  Com-
-munities. By  Sir  Travers  Twiss,
+considered  as  Independent  Political  Communities. By  Sir  Travers  Twiss,
 D.C.L.
 
 Part  I.  On  the  Rights  and  Duties
@@ -19584,22 +18810,17 @@ F.  C.  Montague,  M.A.    Svo,  p.  6d.
 
 Bentham.    An  Introduction
 
-to  the  Principles  of  Morals  and  Legisla-
-tion. By  Jeremy  Bentham.  Crown
+to  the  Principles  of  Morals  and  Legislation. By  Jeremy  Bentham.  Crown
 8vo.    6s.  6d.
 
 BoswelPs  Life   of  Samuel
 
-Johnson,  LL.D.  Edited  by  G.  Birk-
-beck  Hill,  D.C.L.  In  six  volumes,
+Johnson,  LL.D.  Edited  by  G.  Birkbeck  Hill,  D.C.L.  In  six  volumes,
 medium  8vo.  With  Portraits  and
 Facsimiles.    Half  bound,  3?.  3s.
 
 
 London  :  Henby  Frowde,  Amen  Corner,  E.C.
-
-
-4
 
 
 HISTORY,  BIOGRAPHY,  ETC.
@@ -19644,15 +18865,12 @@ Warburton.    7  vols,  medium  8vo.
 
 2l.  I  OS.
 
-  History  of  the  Rebel-
-lion and  Civil  Wars  in  England.
+  History  of  the  Rebellion and  Civil  Wars  in  England.
 Also  his  Life,  written  by  himself,
-in  which  is  included  a  Continua-
-tion of  his  History  of  the  Grand
+in  which  is  included  a  Continuation of  his  History  of  the  Grand
 Eebellion.    Royal  8vo.    il.  2s.
 
- Life,  including  a  Con-
-tinuation of  his  History.  2  vols,
+ Life,  including  a  Continuation of  his  History.  2  vols,
 medium  8vo.    il.  2s.
 
 Earle.  Handbook  to  the  Land-
@@ -19713,8 +18931,7 @@ Documents  of  the  Puritan  Revohdion,
 by  Samuel  Rawson  Gardiner,  M.A.
 Crown  8vo.  9s.
 
-Gaseoigne's  Theological  Dic-
-tionary ('  Liber  Veritatum ')  :  Selected
+Gaseoigne's  Theological  Dictionary ('  Liber  Veritatum ')  :  Selected
 Passages,  illustrating  the  Condition
 of  Church  and  State,  1403-1458.
 With  an  Introduction  by  James  E.
@@ -19727,9 +18944,6 @@ Oxford :  Clarendon  Press.
 HISTORY,  BIOGRAPHY,  ETC.
 
 
-5
-
-
 Greswell.     History    of  the
 
 Dominion  of  Canada.  By  W.  Parr
@@ -19738,8 +18952,7 @@ of  the  Eoyal  Colonial  Institute.
 Crown  8vo.  With  Eleven  Maps.
 7s.  6rf.
 
-  Geography  of  the  Do-
-minim  of  Canada  and  Newfoundland.
+  Geography  of  the  Dominim  of  Canada  and  Newfoundland.
 By  the  same  Author.  Crown  8vo.
 With  Ten  Maps.  6s.
 
@@ -19747,12 +18960,10 @@ Gross.    The  Gild  Merchant;
 
 a  Contribution  to  British  Municipal
 History.  By  Charles  Gross,  Ph.D.
-Instructor  in  History,  Harvard  Uni-
-versity. 2  vols.  8vo.  Half-bound,
+Instructor  in  History,  Harvard  University. 2  vols.  8vo.  Half-bound,
 24s.
 
-Hodgkin.  Italy  and  her  In-
-vaders. With  Plates  and  Maps.  By
+Hodgkin.  Italy  and  her  Invaders. With  Plates  and  Maps.  By
 T.  Hodgkin,  D.C.L.  Vols.  I-IV,
 a.d.  376-553.    8vo.    3Z.  8s.
 
@@ -19800,8 +19011,7 @@ Eastern  Colonies  (exclusive  of
 India).  With  Eleven  Maps.
 Crown  Svo.  5s.
 
-Vol.  II.  The  West  Indian  Colo-
-nies. With  Twelve  Maps.
+Vol.  II.  The  West  Indian  Colonies. With  Twelve  Maps.
 Crown  8vo.    7s.  6dt.
 
 Machiavelli.  II  Principe.
@@ -19809,20 +19019,16 @@ Edited  by  L.  Arthur  Burd,  M.A.
 With  an  Introduction  by  Lord
 Acton.    8vo.    Cloth,  14s.
 
-Ranke.  A  History  of  Eng-
-land, principally  in  the  Seventeenth
-Century.  By  L.  von  Banke.  Trans-
-lated under  the  superintendence  of
+Ranke.  A  History  of  England, principally  in  the  Seventeenth
+Century.  By  L.  von  Banke.  Translated under  the  superintendence  of
 G.  W.  Kitehin,  D.D.,  and  C.  W.
 Boase,  M.A.    6  vols.    8vo.    3Z.  3s.
 
 Rawlinson.     A  Manual  of
 
-Ancient  History.  By  George  Eawlin-
-son,  M.A.  Second  Edition.  8vo.  14s.
+Ancient  History.  By  George  Eawlinson,  M.A.  Second  Edition.  8vo.  14s.
 
-Rhys.  Studies  in  the  Arthu-
-rian Legend.  By  John  Ehys,  M.A.
+Rhys.  Studies  in  the  Arthurian Legend.  By  John  Ehys,  M.A.
 Svo.    12s.  6d.
 
 Ricardo.     Letters  of  David
@@ -19831,8 +19037,7 @@ Bicardo  to  T.  R.  Malthus  (1810-1823).
 Edited  by  James  Bonar,  M.A.  8vo.
 1  os.  6d.
 
-Rogers.  History  of  Agricul-
-ture and  Prices  in  England,  a.d.  1259-
+Rogers.  History  of  Agriculture and  Prices  in  England,  a.d.  1259-
 1702.  By  James  E.  Thorold  Eogers,
 M.A.    6  vols.,  8vo.    7Z.  2s.
 
@@ -19840,8 +19045,7 @@ M.A.    6  vols.,  8vo.    7Z.  2s.
 
 Bank  of  England.    8vo.    8s.  6d.
 
- Protests  of  the  Lords,  in-
-cluding those  which  have  heen  expunged,
+ Protests  of  the  Lords,  including those  which  have  heen  expunged,
 from  1624  to  1874  ;  with  Historical
 Introductions.    In  three  volumes.
 
@@ -19866,15 +19070,12 @@ under  Sir  Thomas  Fairfax.  Svo.  6s.
 
 Stubbs.    Select  Charters  and
 
-other  Illustrations  of  English  Constitu-
-tional History,  from  the  Earliest  Times
+other  Illustrations  of  English  Constitutional History,  from  the  Earliest  Times
 to  the  Reign  of  Edward  I.  Arranged
 and  edited  by  W.  Stubbs,  D.D
-Lord  Bishop  of  Oxford.  Fifth  Edi-
-tion.   Crown  8vo.    8s.  6d.
+Lord  Bishop  of  Oxford.  Fifth  Edition.   Crown  8vo.    8s.  6d.
 
-■  The  Constitutional  His-
-tory of  England,  in  its  Origin  and
+■  The  Constitutional  History of  England,  in  its  Origin  and
 Development.  Library  Edition.  3  vols.
 Demy  8vo.    2I.  8s.
 
@@ -19917,8 +19118,7 @@ English  Affairs  from  1625  to  1660.
 
 4.  PHILOSOPB
 
-Bacon.  The  Essays.  With  In-
-troduction and  Illustrative  Notes.
+Bacon.  The  Essays.  With  Introduction and  Illustrative  Notes.
 By  S.  H.  Reynolds,  M.A.  8vo,  half
 bound.    1 2s.  6d.
 
@@ -19941,37 +19141,32 @@ Svo.    9s.  6d.
 Berkeley.      The    Works  of
 
 George  Berkeley,  D.D.,  formerly  Bishop
-ofCloyne;  including  many  of  his  writ-
-ings hitherto  unpublished.  With  Pre-
+ofCloyne;  including  many  of  his  writings hitherto  unpublished.  With  Pre-
 faces, Annotations,  and  an  Account
 
 
 r,  LOGIC,  ETC.
 
-of  his  Life  and  Philosophy,  by  Alex-
-ander Campbell  Eraser,  LL.D.  4
+of  his  Life  and  Philosophy,  by  Alexander Campbell  Eraser,  LL.D.  4
 vols.    8vo.    21.  1 8s.
 
 The  Life,  Letters,  &c,  separately,  16s.
 
 Bosanquet.     Logic  j   or,  the
 
-Morphology  of  Knowledge.  By  B.  Bo-
-sanquet, M.A.    8vo.    2  is.
+Morphology  of  Knowledge.  By  B.  Bosanquet, M.A.    8vo.    2  is.
 
 Butler's  Works,  with  Index  to
 
 the  Analogy.    2  vols.    8vo.  lis.
 
-Fowler.  The  Elements  of  De-
-ductive Logic,  designed  mainly  for  the
+Fowler.  The  Elements  of  Deductive Logic,  designed  mainly  for  the
 use  of  Junior  Students  in  the  Universities.
 By  T.  Fowler,  D.D.  Ninth  Edition,
 with  a  Collection  of  Examples.
 Extra  fcap.  8vo.    3s.  6d.
 
- The  Elements  of  Induc-
-tive Logic,  designed  mainly  for  the  use  of
+ The  Elements  of  Inductive Logic,  designed  mainly  for  the  use  of
 Students  in  tlie  Universities.  By  the
 same  Author.  Fifth  Edition.  Extra
 fcap.  8vo.  6s.
@@ -19981,9 +19176,6 @@ Oxford :  Clarendon  Press.
 
 
 PHYSICAL  SCIENCE.
-
-
-7
 
 
 Fowler.     The  Principles  of
@@ -20016,8 +19208,7 @@ Index,  by  L.  A.  Selby-Bigge,  M.A.
 Crown  8vo.  9s.
 
 
-Locke's  Conduct  of  the  Under-
-standing. Edited  by  T.  Fowler,  D.D.
+Locke's  Conduct  of  the  Understanding. Edited  by  T.  Fowler,  D.D.
 Third  Edition.  Extra  fcap.  8vo.  2s.6d.
 
 Lotze's  Logic,  in  Three  Books ;
@@ -20047,8 +19238,7 @@ its  Sources  and  Contents.  Second  Edition.
 
 5.  PHYSICAL
 
-Aplin.   The  Birds  of  Oxford-
-shire. By  O.  V.  Aplin.  Svo,  ios.  6d.
+Aplin.   The  Birds  of  Oxfordshire. By  O.  V.  Aplin.  Svo,  ios.  6d.
 Chambers.     A  Handbook  of
 
 Descriptive  and  Practical  Astronomy.
@@ -20057,22 +19247,18 @@ Edition,  in  3  vols.    Demy  8vo.
 Vol.  I.    The  Sun,  Planets,  and
 
 Comets.    2  is.
-Vol.  II.    Instruments  and  Prac-
-tical Astronomy.  21s.
+Vol.  II.    Instruments  and  Practical Astronomy.  21s.
 Vol.  III.    The  Starry  Heavens.
 14s.
 
-De  Bary.  Comparative  Ana-
-tomy of  the  Vegetative  Organs  of  the
+De  Bary.  Comparative  Anatomy of  the  Vegetative  Organs  of  the
 Phanerogams  and  Ferns.  By  Dr.  A.
-De  Bary.  Translated  and  Anno-
-tated by  F.  0.  Bower,  M.A,  F.L.S.,
+De  Bary.  Translated  and  Annotated by  F.  0.  Bower,  M.A,  F.L.S.,
 and  D.  H.  Scott,  M.A,  Ph.D.,
 F.L.S.  Royal  8vo,  half  morocco,
 1 7.  2s.  6d.
 
-  Comparative  Mor-
-phology and  Biology  of  Fungi,  Mycetozoa
+  Comparative  Morphology and  Biology  of  Fungi,  Mycetozoa
 and  Bacteria.    By  Dr.  A.  De  Bary.
 
 
@@ -20085,20 +19271,17 @@ Balfour,  M.A,  M.D.,  F.R.S.  Royal
 
 DeBary.  Lectures  on  Bacteria.
 
-By  Dr.  A.  De  Bary.  Second  Im-
-proved Edition.    Translated  by  H.
+By  Dr.  A.  De  Bary.  Second  Improved Edition.    Translated  by  H.
 
 E.  F.  Garnsey,  MA.  Revised  by
 Isaac  Bayley  Balfour,  M.A.,  M.D.,
 
 F.  R.S.    Crown  8vo,  6s.
 
-Fisher.  A  Class  Book  of  Ele-
-mentary Cliemistry.  By  W.  W.  Fisher
+Fisher.  A  Class  Book  of  Elementary Cliemistry.  By  W.  W.  Fisher
 M.A.,  F.C.S.    Crown  Svo.    4s.  6d.  '
 
-Goebel.  Outlines  of  Classifi-
-cation and  Special  Morphology  of  Plants.
+Goebel.  Outlines  of  Classification and  Special  Morphology  of  Plants.
 A  new  Edition  of  Sachs"  Text-Book
 of  Botany,  Book  II.  By  Dr.  K.
 Goebel.  Translated  by  H.  E.  F.
@@ -20110,14 +19293,10 @@ Royal  8vo,  half  morocco,  il.  is.
 London  :  Hknhy  Frowde,  Amen  Corner,  E.C.
 
 
-8
-
-
 PHYSICAL  SCIENCE.
 
 
-Sachs.  Lectures  on  the  Phy-
-siology of  Plants.  By  Julius  von
+Sachs.  Lectures  on  the  Physiology of  Plants.  By  Julius  von
 Sachs.  Translated  by  II.  Marshall
 Ward,  M.A.,  F.L.S.  Eoyal  Svo,
 half  morocco,  ll.  ns.  6d.
@@ -20130,8 +19309,7 @@ M.A.,  M.D.,  P.E.S.    Crown  8vo.
 
 I  OS.
 
-Solms-Laubach.  Introduc-
-tion to  Fossil  Botany.  By  Count  H.
+Solms-Laubach.  Introduction to  Fossil  Botany.  By  Count  H.
 von  Solms-Laubach.  Authorised
 English  Translation,  by  H.  E.  F.
 Garnsey,  M.A.  Edited  by  Isaac
@@ -20155,8 +19333,7 @@ XIV.  13s.  6d.  ;    XV.  10s.  6d. ;
 XVI.  in  the  Press.
 Vol.  V.    Part  XVII.    10s.  6d.
 
-Biological  Series.  (Transla-
-tions of  Foreign  Biological  Memoirs. )
+Biological  Series.  (Translations of  Foreign  Biological  Memoirs. )
 I.  The  Physiology  of  Nerve,  of  Muscle,
 and  of  the  Electrical  Organ.
 Edited  by  J.  Burdon-Sanderson,
@@ -20182,12 +19359,10 @@ IV.  Essaijs  upon  Heredity  and
 
 By  Dr.  August  Weismann.
 Translated  and  Edited  by  E.  B.
-Poulton,  M.A.,  Selmar  Schim-
-land,  Ph.D.,  and  Arthur  E.
+Poulton,  M.A.,  Selmar  Schimland,  Ph.D.,  and  Arthur  E.
 Shipley,  M.A.  Medium  Svo,  16s.
 
-Prestwich.  Geology,  Chemi-
-cal, Physical,  and  Stratigraphical.  By
+Prestwich.  Geology,  Chemical, Physical,  and  Stratigraphical.  By
 Joseph  Prestwich,  M.A.,  F.E.S.
 In  two  Volumes.
 
@@ -20195,16 +19370,14 @@ Vol.  I.    Chemical  and  Physical.
 
 Eoyal  8vo.  ll.  5s.
 VoL.  II.  Stratigraphical  and
-Physical.  With  a  new  Geo-
-logical Map  of  Europe.  Eoyal
+Physical.  With  a  new  Geological Map  of  Europe.  Eoyal
 Svo.  il.  1 6s.
 New  Geological  Map  of  Europe.
 In  case  or  on  roller.  5s.
 
 Bolleston  and  Jackson.  Forms
 
-of  Animal  Life.  A  Manual  of  Com-
-parative Anatomy,  with  descrip-
+of  Animal  Life.  A  Manual  of  Comparative Anatomy,  with  descrip-
 tions of  selected  types.  By  George
 Bolleston,  M.D.,  F.E.S.  Second
 Edition.  Bevised  and  Enlarged  by

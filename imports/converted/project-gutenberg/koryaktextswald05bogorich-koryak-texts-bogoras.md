@@ -215,8 +215,7 @@ I  left  the  Anadyr  country  in  December,  1900,  and
 travelled  to  the  village  of  Kamenskoye,  on  Penshina  Bay,
 where  I  met  Mr.  Jochelson.  I  staid  with  him  one  month,
 after  which  time  I  proceeded  to  the  southeast,  to  the
-eastern  branch  of  the  Koryak,  and  also  visited  the  Kam-
-chadal.  I  travelled  among  these  tribes  for  two  months,
+eastern  branch  of  the  Koryak,  and  also  visited  the  Kamchadal.  I  travelled  among  these  tribes  for  two  months,
 until  my  return  to  the  mouth  of  the  Anadyr,  on  April  8,
 1901.  A  considerable  part  of  this  time  was  spent  in
 covering  the  long  distances  between  the  villages,  the
@@ -259,15 +258,12 @@ Koryak  of  Penshina  Bay  and  also  the  Reindeer  Koryak  ;
 and  the  eastern  branch,  which  includes  the  Maritime
 Koryak  of  Kamchatka,  and  also  the  inhabitants  of  the
 villages  Reki'nnok,  Pustoretzk,  and  Podkaguirnoye,  to  the
-south  of  Parapolski  Dol.  These  last  belong  ethnographi-
-cally  to  the  Kamchatka  Koryak,  although  they  are  counted
+south  of  Parapolski  Dol.  These  last  belong  ethnographically  to  the  Kamchatka  Koryak,  although  they  are  counted
 by  the  Russian  Administration  as  belonging  to  the  Gishiga
 district.  The  eastern  branch  includes  also  the  Maritime
 
 1  See  map,  Publications  of  the  Jesup  North  Pacific  Expedition,  vol.  vii.
 
-
-3
 
 Koryak  of  the  villages  on  the  Pacific  coast  around  Alutor
 Bay,  and  those  of  the  Pacific  villages  still  farther  east.
@@ -310,8 +306,7 @@ The  following  series  of  texts  was  collected  chiefly  in
 the  village  of  Kamenskoye  (Koryak,  Vai'kenan),  on  Pen-
 
 
-shina  Bay,  with  the  help  of  Nicholas  Vilkhin,  Mr.  Jochel-
-son's  interpreter.  The  correct  transcription  of  Koryak
+shina  Bay,  with  the  help  of  Nicholas  Vilkhin,  Mr.  Jochelson's  interpreter.  The  correct  transcription  of  Koryak
 phonetics  offered  considerable  difficulty,  since  Nicholas
 Vilkhin,  a  half-Russianized  Koryak  raised  in  Gishiginsk,
 belongs  by  birth  to  the  village  of  Paren  (Koryak,  Poi'tin).
@@ -354,8 +349,7 @@ second  group  in  the  other  parts  of  the  word.
 In  Koryak,  with  its  constant  dialectical  changes  from
 a  to  e,  this  pair  of  vowels  is  excluded  from  the  action  of
 the  vocalic  harmony  just  described,  and  both  a  and  e  are
-considered  as  neutral.  Thus,  in  the  dialect  of  Katnen-
-skoye,  nu' ' tanut  (EARTH)  changes  in  the  dative  to  notai'tin.
+considered  as  neutral.  Thus,  in  the  dialect  of  Katnenskoye,  nu' ' tanut  (EARTH)  changes  in  the  dative  to  notai'tin.
 The  two  remaining  pairs  (i-e^  u-d)  also  admit  many  excep
 tions,  in  contrast  to  the  strictness  of  the  rule  of  harmony
 prevailing  in  Chukchee.  Owing  to  the  intermarriage
@@ -393,8 +387,7 @@ Except  when  otherwise  stated,  the  texts  were  taken
 down  in  the  village  of  Kamenskoye,  from  the  lips  of
 Maritime  Koryak  women  or  girls,  as  follows:  i,  2,  12-14,
 1 8,  from  Pa'qa ;  3,  17,  from  Ai'wan-naw ;  4,  5,  8-10,  16,
-from  Anne;  6,  from  Yu'lta-na'ut ;  7,  19,  20,  from  A'qan-
-naw ;  11,  from  Ai'u-na'ut;  15,  from  ipifia'.
+from  Anne;  6,  from  Yu'lta-na'ut ;  7,  19,  20,  from  A'qannaw ;  11,  from  Ai'u-na'ut;  15,  from  ipifia'.
 
 Text  No.  21  is  in  the  dialect  of  Pa'llan,  a  large  village
 of  northern  Kamchatka  on  the  Okhotsk  Sea,  and  was
@@ -471,8 +464,6 @@ numerous  in  Koryak  as  in  Chukchee,  and  hardly  admit
 of  adequate  translation.
 
 
-8
-
 Words  added  in  translations  for  the  sake  of  clearness
 are  placed  in  parentheses.  Literal  translations  of  Koryak
 words  or  phrases  are  enclosed  in  brackets.
@@ -508,7 +499,6 @@ e
 
 a
 
-6
 
 ii
 
@@ -522,7 +512,6 @@ i             e
 
 a
 
-0
 
 u
 
@@ -614,8 +603,6 @@ sound.
 -  ....  used  to  connect  the  parts  of  a  compound  word.
 
 
-10
-
 1    ....  as  in  German.
 
 1  ....  the  tip  of  the  tongue  touching  the  alveoli  of  the  upper  jaw,  back
@@ -695,8 +682,7 @@ Sounds  e,  u,  6,  a,  x-,  j,  z,  belong  only  to  the  Kamchadal.
 
 1 1
 
-Since  in  the  western  branch  of  the  Koryak  the  Chuk-
-chee  r  is  replaced  by  consonantic  jj/,  there  appear  the
+Since  in  the  western  branch  of  the  Koryak  the  Chukchee  r  is  replaced  by  consonantic  jj/,  there  appear  the
 combinations  ay,  oy,  which  are  distinct  from  the  diphthongs
 ai,  oi.  They  are  pronounced  like  the  respective  diphthongs,
 but  their  y  replaces  the  corresponding  Chukchee  r.
@@ -853,8 +839,6 @@ It  is  used  quite  frequently  to  express  a  prolonged  action :  THEY  WERE
 THE  TIME.  Almost  the  same  as  the  corresponding  Chukchee  plural  form  geunno'lenat.
 
 
-14
-
 continued  with  the  same  vigor,  without  abating.  Oh,  at
 last  Raven-Man  entered.  His  boots  were  all  covered  with
 ice,  for  he  would  make  water  in  his  boots.  That  is
@@ -919,8 +903,6 @@ ganrfilalin,  picV  gama^alin.
 
 he  threw  it,  for  a  while  it  grew  better.
 
-
-15
 
 He  came  home,  and  the  snow-storm  broke  out  again.
 Even  the  stopper  was  thrust  back  into  the  house.  It
@@ -1260,8 +1242,6 @@ man!"  He  felt  nattered.  Afterwards          there          she  killed  him.
 Words  borrowed  from  the  Russian:  na/iaTKa  TENT,  rape.ixa  PLATE,  iin/iKa  FORK.
 
 
-20
-
 Yini'a-na'wgut  put  Raven-Man's  (head)  on  above.  She
 said,  "That  spotted  palate  of  yours,  let  it  grow  to  be  a
 fine  cloudless  sky!"1
@@ -1341,10 +1321,8 @@ foot."  They  went  away  on  foot,  and  came  to  a  river.
 Little-Bird-Man  said  to  the  woman,  "Let  me  carry  you
 (across)!"  The  woman  said  to  him,  "Do  not  do  it!"
 He  said,  "It  is  all  right."  He  carried  her,  and  in  doing
-so  he  died.  Yini'a-na'wgut  slept  a  night  among  stone-
-pines  and  was  almost  frozen  to  death.  On  the  following
-morning  it  dawned,  and  close  to  that  place  a  reindeer-
-herd  was  walking.  All  the  reindeer  had  iron  antlers.
+so  he  died.  Yini'a-na'wgut  slept  a  night  among  stonepines  and  was  almost  frozen  to  death.  On  the  following
+morning  it  dawned,  and  close  to  that  place  a  reindeerherd  was  walking.  All  the  reindeer  had  iron  antlers.
 A  man  was  walking  there  too.  He  said,  "Oh,  come
 here!"  She  said,  "I  will  not  come.  My  husband  has
 
@@ -1397,8 +1375,6 @@ Man  also         on  that  place       is  walking.  He  told  her,  "Oh,
 
 come!''  She   told  him,  "I  will  not          come.  My  actual
 
-
-22
 
 died."  He  said  to  her,  "I  am  he,  I  am  your  husband/'
 He  took  out  his  gloves.  "These  you  made  for  me.  I
@@ -1532,8 +1508,6 @@ to  strike,         she  began  to  cry,  "IgigiV
 1   See  Jochelson,  The  Koryak,  /.  c.,  No.   88,  p.   260.
 
 
-24
-
 After  a  while  she  turned  to  them  again,  and  began  as
 before,  "What  is  it  that  I  have  found?  Oh,  indeed,  it
 has  nails!  Oh,  indeed,  it  has  eyes!  Oh,  indeed,  it  has
@@ -1604,8 +1578,6 @@ myself."
 it  is  used  with  both  meanings  indiscriminately.
 
 
-25
-
 One  might  think  she  were  the  daughter  of  some  artisan.
 He  said  to  another  small  girl,  "Louse  me!"  "I  have
 pricked  myself  with  my  mother's  needle."  One  might
@@ -1668,8 +1640,6 @@ tribes  of  this  country,  was  killing  the  lice  with  her  teeth.
 -  Ma'ma^  probably  from  the  Russian  ivtaMa.  The  proper  Koryak  term  with
 endearing  sense  is  a'innia.
 
-
-26
 
 and  asked  one  another,  "Where  did  you  fall?"  -  "I  fell
 into  the  sea."  "Then  you  were  cold."  -  "And  where
@@ -1805,8 +1775,6 @@ They  carried  dropped  it.  Raven-Big  said,  "Miti',
 it  away,
 
 
-28
-
 we  had  better  eat  this  meat  to-morrow."  And  she  said,
 "All  right!"  -  "Oh,  you,  small  Mouse-Girl!  go  and  look
 into  the  house !"  -  "Just  now  Miti'  is  arranging  the  bed."
@@ -1871,8 +1839,6 @@ Ennas/an      i'tiykm  ?"  "Ui'na     yfnna !"        Ouiqimra'qu
 
 thus  art  thou?"  "Not  anything!"  Raven-Big
 
-
-29
 
 Big-Raven  then  put  on  his  boots.  "Ah,  ah,  ah!  ah,  ah,
 ah!"  "And  what  is  the  matter  with  you?  You  cry
@@ -2011,8 +1977,7 @@ He  said,  "  Hm !  now  at  last  I  grew  angry.  Bring  me  my
 big  club.  I  will  go  there  and  club  them."
 
 He  went  there.  "Oh,  grandfather  is  coming!  Say  to
-him,  'Have  some  pudding  of  root  of  Polygonum  vivipa-
-rum  ! '"  "  What  for ?"  -  " Then  have  some  pudding  of
+him,  'Have  some  pudding  of  root  of  Polygonum  viviparum  ! '"  "  What  for ?"  -  " Then  have  some  pudding  of
 
 berries  of  Rubus  Arcticus?  "Yes,  I  will  have  some
 pudding  of  berries  of  Rubus  Arcticus?  He  entered,  and
@@ -2071,8 +2036,6 @@ daylight  is  coming!"  "Yes,    all  right !       1  will  get  up."  He  awok
 
 1   A'li'vck,  root   of  Polygonum  viviparum.
 
-
-32
 
 all  right !  I  will  get  up."  He  awoke.  "Grandfather,
 have  a  drink  from  the  river  there!"  "All  right!  I
@@ -2133,8 +2096,6 @@ thou
 
 Compare  W.  Jochelson,  The   Koryak,  /.  r.,  No.   97,   p.   284.
 
-
-33
 
 shot  by  the  Envious-One  from  heaven.  By  his  arrow  I
 lost  my  tooth.  Now  I  shall  die,  how  can  I  live?"  They
@@ -2202,8 +2163,6 @@ to  the  porch  I  will  go.  Puddings  I  will  inspect.  Small
 I—  FUEL.    AMER.    ETHN.    SOC.    VOL.    V.
 
 
-34
-
 puddings,  and  saw  that  one  made  of  stone-pine  nuts  had
 been  gnawed  at.  There  she  left  a  tooth.  Indeed,  when
 pilfering  she  lost  a  tooth.  Ermine- Woman  brought  in  the
@@ -2269,8 +2228,6 @@ Imca'nu-fia'wgut,    "Ena'n  tawi'tkmik."      Me'fiqan  mctvas/an?
 Ermine-Woman,  "She  did  harm."  How  could   she  be?
 
 
-35
-
 Her  mother  scolded  her,  and  said,  "  Go  and  die  !  Strangle
 yourself  on  a  forked  twig!"  She  (went,  and  very  soon)
 came  back.  She  said,  "I  could  not  strangle  myself  on  a
@@ -2327,8 +2284,6 @@ selves    in  a  forked  willow-twig  (cf.  Jochelson,  The  Koryak,  1.  c.,  p
 
 2  Compare  W.  Jochelson,  The  Koryak,  /.  ^.,  No.  98,  p.  285.
 
-
-36
 
 caught  in  a  snare."  She  said,  "Go  to  the  upper  store
 room  (in  the  porch)  and  eat  something!"  He  said,  "What
@@ -2396,8 +2351,6 @@ he  wanted  to  enter,  he  stumbled.  "This.  now,  what?"
 1  Borrowed  from  the  Russian   Ky/iaKTj   FIST.
 
 
-37
-
 was  crying,  and  brushing  away  his  tears  with  his  small  fist.
 "Stop  blubbering!  1  will  take  you  to  Miti'."  He  brought
 the  small  kamak  to  his  house,  and  said,  "O,  Mitix !  dance
@@ -2464,8 +2417,6 @@ the  roof-hole  (if)
 1  Ga'na  mixes  up  the  sounds  of  the  word  ka'mak.  Still  Big-Raven  finds  it
 quite  right.
 
-
-38
 
 hole,  I  shall  feel  smoky,  I  shall  feel  cold."  The  house
 master  said,  "What  shall  we  make  out  of  you,  a  plug
@@ -2537,8 +2488,6 @@ Annimaya^iyik     gixwlinau,     "Quiqinn'aqu^ak     qai-kaxmak
 Frost-Man
 
 
-39
-
 "Big-Raven  has  caught  a  small  kamak.  They  made  him
 into  a  thong.  Let  us  go  and  steal  it!"  They  found  it,
 and  began  to  untie  it.  Then  it  cried  aloud,  "Quick,
@@ -2602,8 +2551,6 @@ steal  it,        it  is  quite  wakeful.        They  began   to  say,  "We  wi
 
 and  steal  it."          They  said,          "Why,  we  will  steal  it."  Raven-
 
-
-40
 
 They  said,  "Surely  we  will  carry  it  away."  Big-Raven's
 people  went  to  sleep.  The  people  living  down  the  coast
@@ -2737,9 +2684,6 @@ inner  room
 That  is   all.
 
 
-42
-
-
 5.   Big-Raven  and  the   Kamaks.
 
 Raven-Big  said,  "I  will  slide  down  hill."  [He  slid  down
@@ -2804,8 +2748,6 @@ He  recovered  (his  senses).         He  said,  "Cook  soup!"  She  cooked  sou
 1  Evil  spirit  (cf.  W.  Jochelson.  The  Koryak,  1.   c.,  p.  27).
 
 
-43
-
 some  soup  for  me !"  She  cooked  some  soup,  and  he  ate
 all  alone  a  large  kettleful.  Then  he  said  to  Miti',  "Bring
 the  big  hammer !"  She  gave  him  the  hammer,  and  he
@@ -2869,8 +2811,6 @@ Kilu'  was  married,  no  childless  they  were  Afterwards
 2  Compare   W.  Jochelson,  The  Koryak,  /.  <:.,  No     107,  p.  294.
 
 
-44
-
 the  open  (country).  He  followed  a  river  upstream.  Then
 he  saw  numerous  people.  Some  of  them  were  women.
 Their  bodies  were  resplendent  with  the  reflection  of  light.
@@ -2891,8 +2831,7 @@ Eme'mqut      to  the  (open)         went,  river-up  stream     he  followed, 
 
 country
 
-ganyinininVlinau    i'nalka    oya'mtiwilu,   ya'nya  ec/en  na' wit-
-appeared  to  him  numerous  people,  partly  women,
+ganyinininVlinau    i'nalka    oya'mtiwilu,   ya'nya  ec/en  na' witappeared  to  him  numerous  people,  partly  women,
 
 qatu,  h'gan  mimtelhiyalai'ke,  qla'wulu  am-palto'lu,1  nVwis'-
 
@@ -2935,8 +2874,6 @@ people.
 
 1   Borrowed  from  the  Russian  ua/ibTo  OVERCOAT.
 
-
-45
 
 there  with  them  pulling  in  the  nets.  Kilu'  approached
 them.  She  trampled  to  death  Eme'mqut's  new  wife,  who
@@ -2986,8 +2923,7 @@ pursuing  a  whale,          they  killed  the  whale,  they  took  it  home.
 
 Va8/yuk  genacaxcaniiivo'lenati,  I'mi  ca'wcuwau.    Vakithim-
 
-Afterwards       they  arranged  a  thanksgiving        all      reindeer-breeding         all  Magpie-
-ceremonial,  people
+Afterwards       they  arranged  a  thanksgiving        all      reindeer-breeding         all  Magpieceremonial,  people
 
 tila8/nu  g-anumaka'wlinau,  to,   Vaki'thi-na'wg-utinu.
 
@@ -2999,8 +2935,6 @@ People  they  gathered,  oh,  Magpie-Women.
 
 1   Compare   W.  Jochelson,  The  Koryak,  /.  c.^  No.  89,  p.   266.
 
-
-46
 
 while  dancing?  I  am  unskilful.  Vakikikikikiki'.  My  mother
 told  me,  'Do  not  leave  anything  from  the  other  people's
@@ -3090,14 +3024,11 @@ he  wanted  to  make  it.  With         shall  I  eat         ah?"
 
 what          whale-skin,
 
-1  Literally,  VULPES-HoMO.  In  Yay'oca-mtlla^n^  -mtllcfin  is  abridged  from  oya'm-
-tlwttcfin  HOMO.  This  compound  form  is  used  more  frequently  for  the  masculine,
+1  Literally,  VULPES-HoMO.  In  Yay'oca-mtlla^n^  -mtllcfin  is  abridged  from  oya'mtlwttcfin  HOMO.  This  compound  form  is  used  more  frequently  for  the  masculine,
 FOX-MAN;  and  for  the  feminine,  Yayo'ca-nawgut  Fox- WOMAN  is  used.  Still  the
 first  form  may  refer  to  both  sexes,  but  here  it  is  used  exactly  for  Fox-WoMAN.
 The  same  is  true  in  all  analogous  cases.
 
-
-47
 
 The  old  man  Big-Raven  said,  "Ah,  ah!  they  are  singing
 about  their  feeding  at  other  people's  expense."  Still  an
@@ -3170,8 +3101,6 @@ gables  skipping
 what  serves  for)  the  bringing  up  of  other  people's  (children).
 
 
-48
-
 pecking  at  the  food."  -  "Ah,  ah!  they  are  singing  about
 their  feeding  at  other  people's  expense.  O,  Raven-
 
@@ -3236,8 +3165,6 @@ hoof!"  "Off,  when  we  we  on  dog's  inner  skin
 
 have  fed?
 
-
-49
 
 eat  dog's  inner  skin."  Ah!  they  felt  ashamed  and
 flew  away.
@@ -3307,8 +3234,6 @@ carcass  I  will  lay  aside."  Under  a  steep  bank       she  buried  it.
 4 PUBL.    AMER.    ETHN.    SOC.    VOL.    V.
 
 
-50
-
 Then  they  finished  the  thanksgiving  ceremonial  with
 the  food  appointed  for  distribution.  The  reindeer-breeding
 people  loaded  their  sledges  quite  largely  with  sole-leather
@@ -3318,8 +3243,7 @@ loads  (and  went  away).  That  is  the  end.
 
 E'nki     yu']a8n     gaplitcu'linau     inacaxca'tik.       Ca'wcuwau
 
-Then     that,  what  was        they  finished       performing  the  thanks-        Reindeer-
-appointed  for  food  giving   ceremonial.  breeders
+Then     that,  what  was        they  finished       performing  the  thanks-        Reindeerappointed  for  food  giving   ceremonial.  breeders
 
 gamaini-inana'linau  im-qu'lta-vi'thiya,  im-i'lfia-vi'thiya.     Ge-
 
@@ -3495,8 +3419,6 @@ out  of  the  kettle,  mortars,
 he  said,        "Haul   them   away,      take  care    do   not  look  back!"
 
 
-53
-
 He  hauled  them  away,  and  every  little  while  he  would
 take  a  rest.  He  moved  on,  and  he  would  make  one
 stride  and  then  he  would  look  back.  One  time  a  rein
@@ -3552,8 +3474,6 @@ Raven-Big's  people  live.  By  Eme'mqut  Grass
 
 1    Compare  W.  Jochelson,  The  Koryak,  /.  r.,  No.   108,  p.  295.
 
-
-54
 
 Grass- Woman.  Eme'mqut  said  to  his  wife,  "Let  us  go
 out."  She  said,  "It  seems  that  you  are  going  to  do
@@ -3624,8 +3544,6 @@ That  Grass       somewhere  into  the  (open)  entered.  In  the
 (-Woman)  country  house  inner  room
 
 
-55
-
 entered  it.  She  put  one  small  louse  into  the  inner  room,
 and  another  into  the  storehouse.  Then  she  fled  to  Big-
 Raven's  (house).  She  came  to  Big-Raven's,  and  said,  "I
@@ -3692,8 +3610,6 @@ na'wge."      Vas/yuk     ginini'lin.       UiVelqak     gana'lqiwlinau.
 to  eat  them."         Afterwards        he  appeared.        On  the  platform        they  were  sitting.
 
 
-56
-
 said,  "Maybe  I  shall  not  be  able  to  eat  them,  since  they
 have  constructed  a  platform  !"
 
@@ -3757,8 +3673,6 @@ so  thou          listen  to  me,  self  just  now  consume."
 
 wert,
 
-
-57
 
 of  the  nails  of  his  own  toes.  After  that  he  consumed
 his  legs ;  then  his  body,  arms,  and  shoulders.  At  last
@@ -3830,8 +3744,6 @@ Gamilhina^inat,  g'inalva^inat.      Wu8/tcu  ga^qiwlinat.
 They  carried  out  the  fire,  they  fed  the  fire.        They  only      (those)  entered.
 
 
-58
-
 From  that  time  on  he  ceased  to  say,  "Let  us  go  to
 the  open  country!"  They  staid  at  home  all  the  time.
 They  lost  all  desire  to  roam  in  all  directions  and  to  all
@@ -3843,8 +3755,7 @@ Altogether          he  ceased  to  say,       "Let  us  go  to  the  (open)    
 
 countiy !"
 
-am-ya'yak    vanvolai'ke,.  qo'npu    ganka'wlinau  ga'lnil   men-
-only    at  home  they  stay,  altogether  they  ceased  in  all        where-
+am-ya'yak    vanvolai'ke,.  qo'npu    ganka'wlinau  ga'lnil   menonly    at  home  they  stay,  altogether  they  ceased  in  all        where-
 
 directions
 
@@ -3895,8 +3806,6 @@ Then  only  he  looked  back,  he  saw,  and  a  wolverene
 
 1   Compare  Jochelson,  The   Koryak,  /.  <:.,  No.    106,  p.   294.
 
-
-59
 
 the  mouse  had  turned  into  a  wolverene.  He  looked  into
 the  house  and  said,  "Mi'ti,  I  have  killed  a  wolverene.
@@ -4107,9 +4016,6 @@ they  became.     That  is  all.
 Woman,  and  their  subsequent  reconciliation.
 
 
-62
-
-
 ii.  Ermine-People.  -       I.
 
 Ermine-People  were  living.  One  Ermine-Man  came
@@ -4173,8 +4079,7 @@ vila'fiin?"  -       "Tike'nviyik  afi/al  va'ykm."  -       "Tikei',  ae/al
 
 
 Aigmvi'yikin     gala'lin,     "Amei7,    as/al    wu'tcuk
-va'ykm?"  -       "Wna.      A'nam    Aigile'yik    va'ykm."      Aigi-
-le'yikm    gala'lin.       "Aigilei',    ac/af    wu'tcuk    va'ykm?"
+va'ykm?"  -       "Wna.      A'nam    Aigile'yik    va'ykm."      Aigile'yikm    gala'lin.       "Aigilei',    ac/af    wu'tcuk    va'ykm?"
 "WuttnW!"
 
 10  As/al  ga'kmiLin,  gaya^tilen,  wuc/tcu  na^yen  ki'lkil
@@ -4197,12 +4102,9 @@ Averter  has  one."  He  came  to  With-Odor-Averter.  O
 Odor-Averter !  have  you  an  axe?"  "Here  it  is!"
 
 He  took  the  axe,  came  home,  and  only  then  did  they
-sever  the  navel-string.  They  began  to  arrange  the  birth-
-feast.  They  cooked  for  this  one  Ermine-Man.  The  master
+sever  the  navel-string.  They  began  to  arrange  the  birthfeast.  They  cooked  for  this  one  Ermine-Man.  The  master
 said,  "Carry  some  meat  to  Big-Raven's  people!"  They
 
-
-64
 
 vila'lenau.    Ga'lqaLin,  gala'lin,  gi'wlin,    "Ya'qafi  ya'ti?"
 ailla8/    kmina'ti."     Gewfiivolen,  '"Ya'qafi  ya'ti?     Oac/latci."
@@ -4253,8 +4155,6 @@ yalin.      "Mai,   mma'lqin,   nikawi'caqin,   mma'lqin."     Gata'k-
 25   yalinau  ag^nki,  gayi'lqalinau,  gan-kiaca's-qiwlin,  Exnki  ayi'yai
 
 
-65
-
 carried    some    meat.      (One    girl)    went    and    came    there
 They  said,  "Why  did  you  come?"      -  "The  mother  brought
 forth   (a  child)."     They  said,    "Why  did  you   come?     You
@@ -4298,18 +4198,13 @@ went  out  in  the  night-time  to  pass  water ;  and  there  (on
 5 — PUBL.    AMER.    ETHX.    SOC.    VOL.    V.
 
 
-66
-
-
-mi'ml.a  gata'kn.  "Mei,  GrwiLe',1  mani'rrac  i/ti  ?"  Gaya'l-
-kiwlin.  "Ma'ki  ninanimg-umg-a'w-i-gi  ?''  E'wan,  "  lGrwiLe',
+mi'ml.a  gata'kn.  "Mei,  GrwiLe',1  mani'rrac  i/ti  ?"  Gaya'lkiwlin.  "Ma'ki  ninanimg-umg-a'w-i-gi  ?''  E'wan,  "  lGrwiLe',
 mani'irac  mce'lpoqen  ?'  "  E'wan,  ''Mal-kico'l  !'r  E'wan,
 "Oai'lim  mina^so'fivola."
 
 
 5  Gayi'lqalinau,  vac/yuk  afiqa'ta  gatanvo'lenau.  "Gi'ssa
-galu^ai-gi."  Exwan,  "Tpa  a^am  gi'ssa  galu^ai-gi.  Ganix-
-kalinau,  gi'wlinau,  "Anqa^a  natalaikine^iik.  Ganvolenau
+galu^ai-gi."  Exwan,  "Tpa  a^am  gi'ssa  galu^ai-gi.  Ganixkalinau,  gi'wlinau,  "Anqa^a  natalaikine^iik.  Ganvolenau
 e'nmik  yatipga^iiik,  fmin  kmi'fiu  nanimtilifitatfykininau  ;
 g-atfpgalinau.  Gaya^ulen  tipgaxtik,  geic/nnalin  iiTto'lmn,
 10  guptinta^in.
@@ -4326,8 +4221,7 @@ gafivo'len  tac/hk.    Naxwis-qata  giVlin,  ft  Ya'qiykin  ?"    E'wan,
 
 
 Na'wis-qata  g-acac/ulin,  fiitolnin  Eni'n  ufna.  "Knixn  a^mi
-nito'hiin  mitnu'lan.  Mefikei^  mini'lqala?  G^mga-olgi-
-vve'tin,  te'mik-olgiwe'tin."  Imcanalaxwge  qo'npu  g-ana'<:/li-
+nito'hiin  mitnu'lan.  Mefikei^  mini'lqala?  G^mga-olgivve'tin,  te'mik-olgiwe'tin."  Imcanalaxwge  qo'npu  g-ana'<:/li-
 nau.  Acco^.
 
 13.   Eme'mqut  and  the   Kamaks.8
@@ -4343,8 +4237,6 @@ North  Pacific  Expedition,  vol.  vii,  p.  285).  Ermine-Man  pretends  to  ha
 of  these  beings  catching  fish  in  the  sea-,  but  it  was  only  a  standing  block  of  ice,
 too  unstable  to  be  considered  as  a  living  bring.
 
-
-67
 
 the  sea),  upright  blocks  of  ice  were  submerged  in  the
 water.  "O  Stone-Face!  what  success  have  you  had  in
@@ -4387,11 +4279,7 @@ by  the  same  name,  Ta'nfiitan  (cf.   The   Chukchee,  /.   c.,  p.   n).
 :i  Compare   W.  Jochclson,  The  Koryak,  /.   r.,  No.    102,  p.   290.
 
 
-68
-
-
-E'wan,  "La'wa,  mani'trac  oya'myan?"1  E'wan,  "O,  mital-
-vola'mik.2  Ame'yaq  na'wis-qat?"  E'wan,  "O  kmi'nm
+E'wan,  "La'wa,  mani'trac  oya'myan?"1  E'wan,  "O,  mitalvola'mik.2  Ame'yaq  na'wis-qat?"  E'wan,  "O  kmi'nm
 yito'nen.  Qu'nam  mu'yi  am-ya'yak  oya'myan  miti'nmin.
 La'wa,  qana'iiya!"  "Mannu'qi  ya'yay."  "Me'nqan
 
@@ -4425,8 +4313,6 @@ spoken  of  as  a   "little  seal."
 
 :?  These    words  are  supposed  to  be  in  the  language  of  the  kamak.     They  differ,
 
-
-09
 
 there  said,  "Halloo,  La'wa !  is  that  you?  How  are  you
 getting  along  with  your  human  game?"  He  said,  "Well,
@@ -4503,18 +4389,15 @@ yi'ssalin,    gatai'kilin.     ma'n-awi'wut    taiki^kininau    ta'mkal-
 u'ttu.
 
 Oo^a  Enna8/nac  Yayoxca-riawo-ut  gailiLin,  ganfia/wtinaLin.
-15   Trtic-a^ulpel-pei^qit   ganyaitannivo^enat    Enn'a8/anet    ga-
-yaixtilanat  e8/en  tamka^n-aqu  gai'pilen.
+15   Trtic-a^ulpel-pei^qit   ganyaitannivo^enat    Enn'a8/anet    gayaixtilanat  e8/en  tamka^n-aqu  gai'pilen.
 
 Trtic-aVulpel-peLa'qit  ganunmvo'lenat,  Enna8/nvot  gani7-
-kalinau  va(:/yuk,  qla/wulpeht  ganac/linat.  E'waii,  "Mi'kna-
-mi/yi  kmi'ni-mi/yi  ?"  "Gi'wa,  'Amamqu'tina-mu'yi
+kalinau  va(:/yuk,  qla/wulpeht  ganac/linat.  E'waii,  "Mi'knami/yi  kmi'ni-mi/yi  ?"  "Gi'wa,  'Amamqu'tina-mu'yi
 
 20  kmi/ni-mu/yi."'
 
 Enfia5yanet  pattac/la  man^ti  gayi'ssalinat  am-ga'nmac
-gayissalinat  nanka'kenat  na'wis-qatit.  Pilvi'nti-ya'nya-
-a'tvila^'t  ga'lqaLinat.  Ganyai7talenat  na'nyacjit  iia'wis-qatit.
+gayissalinat  nanka'kenat  na'wis-qatit.  Pilvi'nti-ya'nyaa'tvila^'t  ga'lqaLinat.  Ganyai7talenat  na'nyacjit  iia'wis-qatit.
 Ya7qit  a'mu  gatomwa^enat,  gumaka^inat,  as'ka'cikilinat.
 
 1  Acerina  ccrmia.  This  tale  was  told  by  a  young  girl.  It  seems  to  be  a  frag
@@ -4538,13 +4421,11 @@ there.  That  is  all.
 
 Eme'mqut  went  into  the  open  and  found  a  village.
 They  were  catching  winter  fish  with  drag-nets.  The  fish
-were  small  perches.  He  dragged  a  net  along  that  fishing-
-river,  and  filled  with  fish  a  set  of  drying-poles.  He  made
+were  small  perches.  He  dragged  a  net  along  that  fishingriver,  and  filled  with  fish  a  set  of  drying-poles.  He  made
 such  a  set.  Very  quickly  he  constructed  those  drying-poles.
 
 After  a  while  they  gave  him  Fox- Woman,  and  made
-him  marry  her.  He  brought  home  two  small  dried  perch-
-tails.  These  he  brought  home,  and  hung  them  on  the
+him  marry  her.  He  brought  home  two  small  dried  perchtails.  These  he  brought  home,  and  hung  them  on  the
 drying-pole.
 
 They  were  going  to  eat  these  small  dried  perch-tails,
@@ -4561,12 +4442,10 @@ them),  headlong.
 
 Ennas'an  genacixcannivo'lenat,  lawtilnu  gaipmvo'lenau.
 Gen-acixcatpaanvo'lenat,  Amamqu'tinti  gerracixcatpaanvo'-
-lenat.  Nanka'kilu  gana€/linat,  gaaimiyo'olenat.  A'ma-qli'ka-
-kmi'iia  gakmefiannivolenau  Yayo'ca-fia'wguta.
+lenat.  Nanka'kilu  gana€/linat,  gaaimiyo'olenat.  A'ma-qli'kakmi'iia  gakmefiannivolenau  Yayo'ca-fia'wguta.
 
 
-5        Laqlanyo'ykin,    ga'lnil    tilaivmvolai'ke.      Nanyemkiciwni-
-vo^kinenau  vaxcaq.     Accoxc.
+5        Laqlanyo'ykin,    ga'lnil    tilaivmvolai'ke.      Nanyemkiciwnivo^kinenau  vaxcaq.     Accoxc.
 
 1  6.  Miti7  and  Magpie-Man.1
 
@@ -4576,12 +4455,10 @@ qiwmvo'ykinenau.      Vakithfmtila^n    na^nko    awyenyoxykin.
 10   Naxnyen  Mitixnen  i^iinpik  i8nui/fiin  yicemawfiivo^kinen.
 
 
-Gek,  na/nyen  ya^tekm.  Mitix  Ouiqinn'aqi/nak  ewni-
-vc/ykmen,  "Gaya^lin  i^ui'iiin  gatfnpiculin  ?"  E'wan,
+Gek,  na/nyen  ya^tekm.  Mitix  Ouiqinn'aqi/nak  ewnivc/ykmen,  "Gaya^lin  i^ui'iiin  gatfnpiculin  ?"  E'wan,
 <tAstta/ya  o'pitcmik  am-is/na  i'yik,  Ennas/an  i'ti."  Gek,
 Ouyqmn-aqu'nak  I'mifi  asttaxya  o'pitcmu  ^min  cuwi'ykininat.
-15  Gek,  gu'mlan  na'nyen  wicna^iykin.  Naxnyen  Miti7  nitox-
-ykin  astta'yalqak  vagalekin,  mvo'ykm  giya'pcak,  "Mo'ol-
+15  Gek,  gu'mlan  na'nyen  wicna^iykin.  Naxnyen  Miti7  nitoxykin  astta'yalqak  vagalekin,  mvo'ykm  giya'pcak,  "Mo'ol-
 qele!"
 
 Va8/yuk    Vakithi'mtila8n    gayaYin,    gi'wlin,    "Mmya'lqiw
@@ -4590,14 +4467,11 @@ ya'lku."       Ouyqmn-a^u     qayexm     i'n'a    niya'tin.       Oaye'm
 
 
 Gana^vilen.  Ki^ic  gaya/lqiwlin  ineyegene^in,  na^iko
-gaginnicannivo'lenat,  va5;/yuk  Quyqmn'a^u  gayaxLin  ga-
-ki^mfialin,  "Mitei",  qetigo^  vfy-i'mit."  Gek,  erwan  Mirti,
+gaginnicannivo'lenat,  va5;/yuk  Quyqmn'a^u  gayaxLin  gaki^mfialin,  "Mitei",  qetigo^  vfy-i'mit."  Gek,  erwan  Mirti,
 "Iklayo'k  ane'tin.  Gu'mma  ta^ti'ykm."  E'wafi,  "Gina'n
 
 1   Compare  Jochelson,  The    Koryak,  /.   <:.,  No.    100,  p.   288.
 
-
-73
 
 Those  (i.  e.,  Eme'mqut  and  his  wife)  were  sent  away
 by  the  people,  and  were  given  (reindeer  with)  halters  of
@@ -4622,8 +4496,7 @@ Miti',  "What  has  happened  to  you?  Your  nose  is
 scratched  all  over."  She  said,  "By  hitting  with  my  nose
 against  the  sharp  ends  of  the  dog-shed  corner  I  was
 scratched  thus."  Oh,  Big-Raven  cut  away  all  the  ends
-of  the  dog-shed  corners.  Then  again  he  went  for  willow-
-bark.  Miti'  went  out,  perched  on  the  top  of  the  dog-shed,
+of  the  dog-shed  corners.  Then  again  he  went  for  willowbark.  Miti'  went  out,  perched  on  the  top  of  the  dog-shed,
 and  began  to  sing,  "I  am  walking  along  the  cross  beam!"
 
 Then  Magpie-Man  came,  and  said,  "Let  us  enter  the
@@ -4639,8 +4512,6 @@ feet."  "Nay,"  said  Big- Raven,  "I  want  you  to  take  it
 
 -   Small  wooden  charms  of  human  shape  (ef.  Jochelson,   The  Koryak,  /.  <:.,  p.  42)-
 
-
-74
 
 axhmm     qeti'gin."      To,     Miti'nak     gai'tilen,    gaktixnvelen,
 ganaxtvilen.
@@ -4673,8 +4544,7 @@ Gantoxlenat.       "Tatox!    mitqugitaxt !"  "Ouxnam    qun
 gixwa,  "Tulax-vaxkithmat."  Kmixnit  nayexyit  gaqalhaiafivo7-
 lenat.  ulgix,  nana{>yivaxwmik."  Mitixnak  gi'wlinat,  "Oan-
 20  toxtik,  qixwgutca,  'Ixpa  hxge-taxta  nexnako  qoyalaxtekin."
-Gayaxlqiwlinat,  Mitixnak  manixgik  gayoxlenat,  g"axmga-
-vexloqahk.  GaxlqaLin,  galaxlin.  Vakithimtilaxyikin,  gak-
+Gayaxlqiwlinat,  Mitixnak  manixgik  gayoxlenat,  g"axmgavexloqahk.  GaxlqaLin,  galaxlin.  Vakithimtilaxyikin,  gak-
 tmexfiilenat.
 
 Exwan  naxnyen  Ouyqinn'axqu,  "Tipaivakaxnnivok,  Metex-
@@ -4685,13 +4555,10 @@ ixnpi-qlaxwul    yaxtti."      Mitix    exwan,     "Knaxn-ve  agitcaxkEJen  ?
 
 v  C"
 
-Cinixn    yayalqiwixykm."      Gayaxlqiwlin,    gaqamixtva]en,   gan-
-voxlen  axwyik,  gaqaxqlalen,   nachinoixtm  gagixntawlin.
+Cinixn    yayalqiwixykm."      Gayaxlqiwlin,    gaqamixtva]en,   ganvoxlen  axwyik,  gaqaxqlalen,   nachinoixtm  gagixntawlin.
 
 Mitixnak    nenaaiiiawfiivo'qen,    exwaii,    "Ouqex!"          "Oi!"
 
-
-75
 
 down."  Oh,  Miti7  took  it,  and  with  a  violent  pull  drew
 it  into  the  house.
@@ -4736,8 +4603,6 @@ was  choking.  Then  he  ran  out  of  the  house.
 Miti7  called  to  him.      She  said,    "Big-Raven!"  -       "Oi!"
 
 
-76
-
 Piikawnivo'ykin.  Gaktikomna'len,  e'waii,  "Oil"  Na'nyen
 yahi'yican  egitnei'tm  gacmkaita'Len.  Ouyqimva'qu  na'nyen
 gayai'tilen.  Acco'c.
@@ -4781,14 +4646,11 @@ fmm-qun     icu^u.       Exwan,     uAlvaxlin."       Napkawnivorkm
 20  yany^wnik.
 
 
-Va8/yuk  melhe'nko  gace'pfiitolen  nenve'thicnin,  akexyki-
-lacn,  vixyan  gapanqaixpilen.  "Gumna^  myanyfwnin,  yaxyay
+Va8/yuk  melhe'nko  gace'pfiitolen  nenve'thicnin,  akexykilacn,  vixyan  gapanqaixpilen.  "Gumna^  myanyfwnin,  yaxyay
 yaxqin  gataixkilin.  AcaxLun  gata^kilin."  "Alva'lin."
 
 1   Compare   ]ochelson,  The  Koryak,  /.   f.,  No.    103,  p.   291.
 
-
-77
 
 Then  he  could  not  help  himself,  and  shouted,  "Oi!"  The
 piece  that  choked  him  flew  out  (of  his  mouth,  and  fell
@@ -4825,8 +4687,7 @@ describe  it  properly.
 
 Then  from  the  fire  crept  out  an  evil  spirit,  with  no
 clothes  on,  with  only  a  cap  (on  his  head).  "I  can  tell
-of  what  your  drum  is  made.  It  is  made  of  a  chamber-
-vessel."  —  "Not  of  that."  —  "It  is  made  of  a  kettle."  —
+of  what  your  drum  is  made.  It  is  made  of  a  chambervessel."  —  "Not  of  that."  —  "It  is  made  of  a  kettle."  —
 
 
 "Kuka'kin  gatai'kilin."  "Alva'lin."  -  -  "  A'nam  qai-mi'mcin."
@@ -4852,12 +4713,10 @@ Galaxlinau  kama^in,  kamaxkau  g-anto'lenau,  qoyaxwge
 ^mifi  ganunvc/lenau,  "N'am,  n'am,  npam."  Enna^  korc/-
 wapel  ganas/lin.  Vala'ta  ganmitcofivo^enau  kama'kau.
 Vac/yuk  Enna7n  ganas/lin  wottaxkin  ake^kila^n.  Vac/yuk
-pixpip  ganTnlalin,  na'nkalqak  gana^qiwlin.  Va8/yuk  g~a-
-pkaxwlen  yatipga/nnik,  g-apka/wlen  yani/nka  nenve^hicna.
+pixpip  ganTnlalin,  na'nkalqak  gana^qiwlin.  Va8/yuk  g~apkaxwlen  yatipga/nnik,  g-apka/wlen  yani/nka  nenve^hicna.
 
 
-,  "Oa'wun  panixta  mi^inak  nayamataVe,  fieya'nifi-
-kme/nin  yanas/lin,  r:xnki  tiyan^wgi."     Na^yen  nenve^hicnin
+,  "Oa'wun  panixta  mi^inak  nayamataVe,  fieya'nifikme/nin  yanas/lin,  r:xnki  tiyan^wgi."     Na^yen  nenve^hicnin
 galqa^in.       Cawcuwa^a     gama^alen.       Va8/yuk     kmi^iin
 20  gaito'len,     va8/yuk     va'sqin    gaito'len,    g^mlafi    ganvo^en
 qalhai'ak.     Exwan,    "Kama'kata  naya^uw-gum."
@@ -4875,8 +4734,6 @@ gancrmawlin.     Nenve'thicnin  gavis/yalin,  ganto'len.     Miti'w
 3  The    ka'mak    turned    into    an    ordinary    human    being;    namely,  into  a  woman,
 who  was  assisting  them   in   their   work.
 
-
-79
 
 "Not  of  that."  -  "Then  of  a  small  louse."  Miti'  said,
 "That  is  right!  Now  we  must  give  our  daughter  to  the
@@ -4922,11 +4779,9 @@ ate  you  yesterday."
 So
 
 Oya'mtiwilu  ganac/linau  gu'mlan  kmi'fiu.  Kmi'fia  gama'-
-talen.  Ola'wul  gaya'i.in  wus/tcu.  Ooyqmrraqoyikei'ti  ga'l-
-qaunau.  Kmi'fiin  gu'mlan  gana'wtmlen.  Qoyqmiraqoyi-
+talen.  Ola'wul  gaya'i.in  wus/tcu.  Ooyqmrraqoyikei'ti  ga'lqaunau.  Kmi'fiin  gu'mlan  gana'wtmlen.  Qoyqmiraqoyi-
 kei'tifi  gala'linau.  Gi'wlin,  "Nawakc/k  nayato'n."  E7wan,
-5  "Nenve'thicna  nalla'xtatm.  Yaq-na'wis-qat  ni'tm?"  Ga-
-waVvilin.  "Wutmnalai'-g-um,  tiya'tik."  Ganto'lenau,  gaya'l-
+5  "Nenve'thicna  nalla'xtatm.  Yaq-na'wis-qat  ni'tm?"  GawaVvilin.  "Wutmnalai'-g-um,  tiya'tik."  Ganto'lenau,  gaya'l-
 qiwlinau.  Enna'niku  gatvanvo'lenau,  gapittuna'wlenau.
 Acco'c.
 
@@ -4950,8 +4805,7 @@ yana^la'ntik,  miti'w  to'chm-ya'q
 
 vinviira'qu  gato^walen.      Nanekartin  gaginta^linau.
 
-Gaya'Linau.  "Mai,  ui'fia  avaleika?"  Ui'na.  "Minyal-
-qiwicna'nau !  Axmu  Exnnu  gapfs-qalinati."  A'wun  gaya'l-
+Gaya'Linau.  "Mai,  ui'fia  avaleika?"  Ui'na.  "Minyalqiwicna'nau !  Axmu  Exnnu  gapfs-qalinati."  A'wun  gaya'l-
 qiwlinau,  I'mi  ga'ncilinau  kicva'cu.  Ui'na  yi'nna.
 
 20        E'wan,  "Minarracc/mik." 3    Ganvaqyila'wlen.     Aca'geinm
@@ -4979,8 +4833,7 @@ together  and  grew  rich.  That  is  all.
 1 8.   The  Kamak  and  his  Wife.
 
 Some    people    lived    in    a    certain    place.      One    day    a
-kamak    and    his  wife  looked  down   (through  the  entrance-
-hole).    They  said,  "Halloo!  have  you  not  some  blubber?"  •
+kamak    and    his  wife  looked  down   (through  the  entrancehole).    They  said,  "Halloo!  have  you  not  some  blubber?"  •
 "There    is   some  in  the  cache."     They  entered  the  cache,
 and    began    to    eat    blubber.      Then    they   sang,    "It  tastes
 well.      W7e  are  eating  blubber."     The  next  morning  it  was
@@ -5007,24 +4860,17 @@ ornamented  with  beads  and  tassels,  represents  a  female  guardian  of  the
 6— PUBL.    AMER.    ETHN.    SOC.    VOL.    V.
 
 
-82
-
-
-arra'nu  nilniqen.  a  Echathicne'ti  yagintawk'ne,  missaya-
-wala'nninau.  Volqigefie'ti  yagintawla'ne,  missayawala'nfii-
-nau.  Anqai'ti  I'mi  missayawaja'nfiinau.  Gicholai'ti  yagin-
-tawja'ne,  mi^un  ?  Anaxna  alai'tin  na^timik.  Me'fiqan
+arra'nu  nilniqen.  a  Echathicne'ti  yagintawk'ne,  missayawala'nninau.  Volqigefie'ti  yagintawla'ne,  missayawala'nfii-
+nau.  Anqai'ti  I'mi  missayawaja'nfiinau.  Gicholai'ti  yagintawja'ne,  mi^un  ?  Anaxna  alai'tin  na^timik.  Me'fiqan
 5  minyaValat?"
 
 
 Ganvo^en    Ic/lo    i'luk.      "Ane^kilka    panenai^i
-mik?1  Yaqalnawicne^i  minmto^ik."  Kama/w-na/ut,  "Oina-
-quluimti'gi."      Emterpilen.      "Qinanpiykala^i.
+mik?1  Yaqalnawicne^i  minmto^ik."  Kama/w-na/ut,  "Oinaquluimti'gi."      Emterpilen.      "Qinanpiykala^i.
 ga^pilen.      aGinaxn  qun
 
 
-10  Vrafi/yuk  gavifi/yalinat.  Ennaxan  gayiltelmvo'lenat.  Vale-
-lei' ti  laxwut  ganaxlilin.  Va8/yuk  naxnyeu  g-ewfiivo'lenau.
+10  Vrafi/yuk  gavifi/yalinat.  Ennaxan  gayiltelmvo'lenat.  Valelei' ti  laxwut  ganaxlilin.  Va8/yuk  naxnyeu  g-ewfiivo'lenau.
 aMmyo8/olan  yaya^a."  Gayo8/olen,  pilvi'nti-ca^inana
 ga^vilin  laxwut,  a'wun  im-la'wtalin.
 
@@ -5060,8 +4906,7 @@ pleasantly.  How  can  we  follow  them?"
 
 He  began  to  sway  his  penis.  "Shall  we  go  out  through
 the  same  opening  without  any  fear.1  Let  us  go  out  through
-the  vent-hole  in  the  roof  of  the  porch !"  The  kamak-
-woman  said,  "Take  me  on  your  shoulders!"  He  took
+the  vent-hole  in  the  roof  of  the  porch !"  The  kamakwoman  said,  "Take  me  on  your  shoulders!"  He  took
 her  on  his  back.  "Oh,  you  are  strangling  me!"  (His
 head)  thrust  itself  into  her  anus.  "Oh,  you  are  playing
 mischief!"
@@ -5095,17 +4940,14 @@ note  i).
 
 Gayos/olen  :  ya'qyaq.  Oa'cin  ui'na  ana'luka  gati'tkalen.
 Na'nyen  Kama'krraqu  gayai'tilen,  e'wan,  "Tita8/liykin."
-Gayai'tilen,  ki'kit  gayi'ltelen,  gek  nane'ninak  Ya'qyaq-
-na'wtinak  pa'qula  qala'lvun  yicima^iykinin.  Gek,  na'wis'-
+Gayai'tilen,  ki'kit  gayi'ltelen,  gek  nane'ninak  Ya'qyaqna'wtinak  pa'qula  qala'lvun  yicima^iykinin.  Gek,  na'wis'-
 5  qatik  e'wan,  "Oenanyaikmi^gi."  "  E'nnu-korc/tka,  gek,
 enva'ratka!"1
 
-Kama^n-aqu  gavi8/yalin.  Na^yen  Ya'qyaq-naVut  gan-
-to'len.  Ganvo'len  cotcilqe'tm  pinkulaxtik.  PukaVekin
+Kama^n-aqu  gavi8/yalin.  Na^yen  Ya'qyaq-naVut  ganto'len.  Ganvo'len  cotcilqe'tm  pinkulaxtik.  PukaVekin
 yayina'fika.  Ena'n  kitca^a  genermaklin.  Gayixfialin,  ga-
 10  kula'lin,  gafiaikapi'tkalin.  Naxnyeninen  naVis-qat  kinma'-
-ciku  na'nako  ^apfs-qalin.  Gek,  g^mlan  yaqaixqun  gayix-
-fialin,  ya'sqalqak  gi^in.
+ciku  na'nako  ^apfs-qalin.  Gek,  g^mlan  yaqaixqun  gayixfialin,  ya'sqalqak  gi^in.
 
 
 Gayaftilen,    gixwlin,     "Kamakn'aqu^ak    inaxnui,
@@ -5124,8 +4966,7 @@ gatvanvo'len.     fJa^yen    K^mak-nawgut  qai'gut  galalanni-
 vc/ykin,  "  Wutissar-gum."      Me/nqafi  mi^un  uxka  afilas/wun?
 
 
-.,  "Qage',  wutmnalai'-gum,  qina'nu  !"  Pukawni-
-vo'ykm  Iu8k.  Qai'gut  cancis-qonvo'ykmen.  "Mannu'qi?"
+.,  "Qage',  wutmnalai'-gum,  qina'nu  !"  Pukawnivo'ykm  Iu8k.  Qai'gut  cancis-qonvo'ykmen.  "Mannu'qi?"
 Gek,  gala8/ulin.  E'wan,  "TiyanuVgi !"  E\van  "Oina-
 25  nu'wgi!"  Ganu'lin,  ui'na  c/pta  ana'luka  gati'tkalen.  Gek,
 na'nyen  gayai'tden.  Gek,  gu'mlafi  e'wan,  aTita8/!iykin."
@@ -5135,8 +4976,6 @@ efiva^atka !"
 
 1  Compare  p.   68,  footnote   3.  .
 
-
-85
 
 He  came  (nearer,  and  it  was)  a  Gull ;  and,  [even]  without
 chewing,  he  swallowed  her.  Then  Big-Kamak  came  home,
@@ -5178,11 +5017,7 @@ She  said  to  her  husband,  "Cheer  me  up!"  "Without
 collar-string,  without  nostrils !"
 
 
-86
-
-
-Gu'mlan  ga'nmilen,  pa'ninau  vaca'pgicfiu  va8/ga  vagit-
-cu'ykminau.1  ISIa'nyen  gavi8/yalin.  Gti'mlan  ganto'len.
+Gu'mlan  ga'nmilen,  pa'ninau  vaca'pgicfiu  va8/ga  vagitcu'ykminau.1  ISIa'nyen  gavi8/yalin.  Gti'mlan  ganto'len.
 Ivva'lu-fia'wgut  gantolen,  taVa'mu  gavetho'lenau  a8/lmulqu.
 
 
@@ -5193,8 +5028,7 @@ tlaiVik  qo'npu  ganka'wjenau.      A'ccic.
 
 20.   Yinra-nawgut  and   Kiluxs  Marriage  with  Fish-Man.3
 
-Es/en  Ouyqmn-aqu'nu  vanvolai'ke.  Kill/  e'wafi  Yini'a-
-naVgutina,  "Minno'tantala."  No'tan  galalinau,  E'nm-laVut
+Es/en  Ouyqmn-aqu'nu  vanvolai'ke.  Kill/  e'wafi  Yini'anaVgutina,  "Minno'tantala."  No'tan  galalinau,  E'nm-laVut
 inurnu  gaxkmiLin.  Gala'linat,  ganvolenat  aVyik.  Galqai-
 10  nVwlin  E^m-alpfttama.  Gagixntawlin,  "Kama^anu  Yi'ni
 na£/llm."  E'wan,  "U^fia  kama'kanu  anaHka."  -  -  "IVac,
@@ -5228,8 +5062,6 @@ Bogoras,  Chukchee  Mythology,  Publications  of  the  Jesup  North  Pacific  Ex
 vol.  viii,  part  ii,  No.  i,  pp.  15,  19).
 
 
-87
-
 She  killed  her  again,  and  tore  the  old  scars1  with  her
 nails.  This  one  died.  Again  she  came  out.  [Cormorant-
 Woman  came  out,]  and  cut  her  way  through  several
@@ -5242,8 +5074,7 @@ That  is  all.
 
 20.  Yini'a-fiawgut  and  Kilu's  Marriage  with  Fish-Man.3
 
-Big-Raven  lived  with  his  family.  K'flu'  said  to  Yini'a-
-fia'wgut,  "Let  us  go  for  a  walk!"  They  went  out  walking,
+Big-Raven  lived  with  his  family.  K'flu'  said  to  Yini'afia'wgut,  "Let  us  go  for  a  walk!"  They  went  out  walking,
 and  they  took  a  fish-head  for  (travelling-)provisions.  They
 came  to  a  certain  place  and  began  to  eat.  (Kilu')  threw
 at  her  (cousin)  the  cheek-bone  of  a  fish.  She  sped  away,
@@ -5305,12 +5136,9 @@ gama^alen.     Ernki  gatvanvoxlenat  gamainitaina^inat.
 Vas:/yuk  gayai'tilenat  Ooyqinn'aqoyikai^in.  Gi'wlinau,
 "Kflu7  naya'tm."  -  "Mu'chin  Kilux  kama'kanu  g-ana5:/Lm."
 20  Exwan,  "  Wuttmalar-gum,  tiya7tik.  Ennimtilac/nak  enama^ai."
-Exnki  gatvafivo^enat,  nalmqa^vuqinet  yatai^annik.  Yini'a-
-na'wgutinti  kmefianfiivo'ykinat.  Qi/ttu  qla'wulu  naiton-
+Exnki  gatvafivo^enat,  nalmqa^vuqinet  yatai^annik.  Yini'ana'wgutinti  kmefianfiivo'ykinat.  Qi/ttu  qla'wulu  naiton-
 vo'ykinenau.  Acco'c.
 
-
-89
 
 Kill/  began  to  envy  (her  cousin  on  account  of)  her
 Fish  husband.  (She  said,)  "Yi'ni,  how  did  it  happen  to
@@ -5369,8 +5197,7 @@ yu^iy,  att'fyul  genixreLin.  Ligfmmen  gewgeYin,  va7sqin
 gayos/olen  gekelilin  yu'fiiy.  "Vai-i7  yu7fiiy  !"
 
 
-10  Artti  n^mnimu  gakitaine^qilin.  Axtti  Ta^mn-rrnt  ga-
-yunpe'ntalen  vala^a  geprHlqila.  Axtti  givi'nilqila,  gala8/ulin,
+10  Artti  n^mnimu  gakitaine^qilin.  Axtti  Ta^mn-rrnt  gayunpe'ntalen  vala^a  geprHlqila.  Axtti  givi'nilqila,  gala8/ulin,
 Enaxnna  a'tti  gecen'ace^ilqilin.  Axtti  nkiVfiik  gere^qilin,
 Exnki  genalpunc/jqilin  m^tqa.  Gemeifiey/nmilin,  axtti
 gathai'tilen,  getniemyilin.
@@ -5431,23 +5258,19 @@ whale  !"3    Then  the  oil  dropped  down  directly  on  her  (back).
 her  coat  in  a  dogs'trough.  Big-Raven  also  gathered  oil
 (for  himself).  Then  the  small  fox  prepared  a  cake  of
 (berries  and  other)  vegetable  material,  and  sent  it  to
-Big-Raven  to  show  her  gratitude.  With  these  return-
-payments,  however,  she  killed  him.4  It  is  finished.
+Big-Raven  to  show  her  gratitude.  With  these  returnpayments,  however,  she  killed  him.4  It  is  finished.
 
 •*  The    first    two  answers  are  given  by  Big-Raven   with  mouth  closed  5  the  third,
 with  mouth  open.     They  are  also  imitative  of  the  cry   of  the  raven.
 4  Evidently  by   poison   mixed   with  the  berries.
 
 
-92
-
 22.   Eme'mqut  and  Envious-One.
 Dialect  of  Par  en}
 
 Nipaivati'cnm  miti'w  Ememqu'tinak  li/'nin,  i'wnin,
 "Me'nnu  lufi/wan,  mmyo8ogas/an.  Gu'mlm  vus  nayosoga£/an
-niwgas/an  "Toq,  yawo'  eleki'mkm  mipajausqa'wa."  Na'm-
-yax  Ememqu'tinak  pela'nen  Nipaivatfcnin.
+niwgas/an  "Toq,  yawo'  eleki'mkm  mipajausqa'wa."  Na'myax  Ememqu'tinak  pela'nen  Nipaivatfcnin.
 
 5  Nivoi"  eleki'mkimik,  ine'neyik,  ph'tkui.  Yaqqai'-qun
 qati'.  Va£/yuk  n^tkinek  mel-fie'wis'qat  ne'wanu  Ifnnin.
@@ -5455,10 +5278,8 @@ Nane'ninak  Nipaiva^icninak  pe'nin  qun  im  Uwe^pilin
 nanyaita'tinat.  Ti'tequn  niwo-as/an,  aQlexgi.  NVwis-qatit
 minmtencite'wnet !"
 
-10  Na'ni-yax  Nipaivati'cnm,  "Yawox,  ciceLe'fim!"  A'mlm-
-van  kitve'-h'ga  penci'ykin,  ne'wis-qat  pelhinolfii^tola  yixsan
-gattaHen.  Citavana'nnen.  Ce'tik  va'can  acc'ala  elhitaw-
-nu^kinen  cimoutawitkonu^kinen.
+10  Na'ni-yax  Nipaivati'cnm,  "Yawox,  ciceLe'fim!"  A'mlmvan  kitve'-h'ga  penci'ykin,  ne'wis-qat  pelhinolfii^tola  yixsan
+gattaHen.  Citavana'nnen.  Ce'tik  va'can  acc'ala  elhitawnu^kinen  cimoutawitkonu^kinen.
 
 
 Va^yuk     yetha'as     nVm-yax.       Ememqu^ina    ne'wis'qat
@@ -5478,9 +5299,6 @@ co^fionenau    Enixneu    qalalvim'fiqo    ganto^enau.       G^mlm
 
 1  See    p.    6.     This    is    evidently    a    fragment    of   a  larger    tale,    but  the  narrator
 knew  no  more.
-
-
-93
 
 
 22.   Eme'mqut  and  Envious-One.1
@@ -5523,8 +5341,6 @@ He  said,  "I  have  slept."  And  really  he  began  to  eat
 
 2  It  seems  that  he  had  eaten   some   whale-blubber  with  his  wife.
 
-
-94
 
 naitoga£/an.        Vi8/gi.        Yishi'ykineu      genu'lineu     gu'rnlm
 yito'nenau.
@@ -5571,8 +5387,6 @@ Literally,    Piscis-HoMO.     More    frequently    used    for  the  masculine
 line    1 6).
 
 
-95
-
 After  that  Fish-Woman  went  away.  (She  said,)  "Miti7
 some  day  will  make  an  end  of  me."  Big-Raven  came
 back,  but  she  was  not  there.  He  came  to  the  sea-shore
@@ -5587,16 +5401,14 @@ En-qa7m  E7nnin  ora'weLan  Iu87nin,  nrai7tannen.  Le7lha
 g£ch£ti7tkofinoi,  Enqa7n  nano7nnoa8n.  En-qam  Ku7rkilma
 ma7tanen.  Miti7  E7mki  kinVtmoi.  En-qam  Ku7rkil  nota7gti
 5  qati7.  Miti7na  ki'plmen,  timnen,  iparnnen,  ruxnin.  Ci'mquk
-uwa^qoc^gti  p^la^en.  En-qa'm  Ku7rkil  puki^gi2.  "E^ni-
-ne'ut,  qanto^e^ !"  Vaiiai'pu  nitoi7,  ginmflkin  ipaxjo.
+uwa^qoc^gti  p^la^en.  En-qa'm  Ku7rkil  puki^gi2.  "E^nine'ut,  qanto^e^ !"  Vaiiai'pu  nitoi7,  ginmflkin  ipaxjo.
 Res-qixwkwi8,  teqeme^gi9,  iuxnin,  "Gi'nmil  Miti^a  gena^-
 milen  um,  g^na'paLen."  Nexme  irga'tik  ewkwe7tyis,  nexme
 
 10  Mit^na    p^nfmen.      Lerut    nka/wraunen.      "Fgit    t^nmin."
 Kuxrkil  ge7eLin,   nexme  cikeyeVkwi8,   nexme  teqemexgnin.
 
-En-qa^  E'nni-ne^t  raxgtie8.  "  Mitixna  qulixnikek  renan-
-qo'npunaw."  Ki^rkil  ye'tti8,  exun  ui'fia.  Anqa^ti  gexlqaLin,
+En-qa^  E'nni-ne^t  raxgtie8.  "  Mitixna  qulixnikek  renanqo'npunaw."  Ki^rkil  ye'tti8,  exun  ui'fia.  Anqa^ti  gexlqaLin,
 van^punoe8,  "Qiye'tyi8,  E^ni-neV-i-gir !"  "Oar^m
 
 1 5   miye^ik !      Mit^na-m    nexme    r^na^imi."      Qo^pu    eine'uk
@@ -5614,14 +5426,9 @@ but  Ku'rkil  as  do  the  people  on  the  Kolyma  (cf.  Bogoras,  Chukchee  My
 vol.  vii,  p.  315,  footnote  2).
 
 
-96
-
-Ouyqmiraqu'nak  gama'talen.  Miti7  na'nyen  gaqannitcon-
-vo'len.  Va£/yuk  Quyqinira'qu  notai'tm  ga'lqaun.  Miti'nak
-gata'lalen,  ga'nmilen,  gapa'Len,  ganu'lin.  Cu'mkup  qlax-
-wu]m  gape'lajen.  Va^yuk  Quyqinira'qu  gaa'un.  uExnni-
-5  naVgnt,  qanto^e !"  Yino^iqo  gantoxjen,  wottaxken  apax-
-tassasn.  Gaya^qiwlin,  gaqami'tvajen,  e'wafi,  "Wc/tto
+Ouyqmiraqu'nak  gama'talen.  Miti7  na'nyen  gaqannitconvo'len.  Va£/yuk  Quyqinira'qu  notai'tm  ga'lqaun.  Miti'nak
+gata'lalen,  ga'nmilen,  gapa'Len,  ganu'lin.  Cu'mkup  qlaxwu]m  gape'lajen.  Va^yuk  Quyqinira'qu  gaa'un.  uExnni-
+5  naVgnt,  qanto^e !"  Yino^iqo  gantoxjen,  wottaxken  apaxtassasn.  Gaya^qiwlin,  gaqami'tvajen,  e'wafi,  "Wc/tto
 Miti'nak  ena'nme,  enapa'te.1'  Gii'mlan  miti'w  galqaun,
 g-u'mlan  Mitixnak  gapexnyilen.  GalaVtmtilin.  "Wo8/tvafi
 t^nmin."  Ouyqinn-a^u  gaaxLin,  gu'mlan  g-achicanaVlin,
@@ -5630,8 +5437,7 @@ t^nmin."  Ouyqinn-a^u  gaaxLin,  gu'mlan  g-achicanaVlin,
 
 Va8/yuk  E'nni-naVgut  gayai'tijen.  "Mitixnak  va^yuk
 yenanqonpunaVi."  Ouyqinn'a^u  gaaYin,  axwun  uTna.
-Afiqai'tin  ga^qaun,  ganvo'len  aina^ik,  "Qiyaxthe,  Exnni-
-nawgo't!"  -  "Oayo'm  mila'k!  Miti'nak  gu'mlan  y^na'nmi."
+Afiqai'tin  ga^qaun,  ganvo'len  aina^ik,  "Qiyaxthe,  Exnninawgo't!"  -  "Oayo'm  mila'k!  Miti'nak  gu'mlan  y^na'nmi."
 
 15   Qoxnpu  aifia^ik  gapka^len.      Accoxc.
 
@@ -5639,18 +5445,15 @@ Koryak,   Oare^in.
 
 Quyqinrraqu'nu  Ttilkili,  pilhe^ijkili.  Ini/nki  ge^qaLin,
 oraxwucak  Enni/mtila8n  gayo8/olen,  ganrai'talen.  Le'lna
-gapiVtelkil^n),  Enninaxta  gewye^kili.  Ora'wucak  Quyqin-
-rraqu'nak  gafiaVtinlin.  Mitix  Enni'n  gakinca/tilkili(n).
+gapiVtelkil^n),  Enninaxta  gewye^kili.  Ora'wucak  Quyqinrraqu'nak  gafiaVtinlin.  Mitix  Enni'n  gakinca/tilkili(n).
 
 20  OraVucak  Quyqinn-a^u  no^afi  gexlqaLi(n).  Miti^iak
 ga'tkuphlen,  ga'nmilen,  gekukeiVulin,  genu^in.  Cu'mkup
-oia'kocik  gegnu^in.  O'raw  Quyqinn'a^u  geye^m-  "i^nni-
-fie'wut,  qanto7ge !"  TYnuk  gextkurli  ganto^en,  yanu'tken
+oia'kocik  gegnu^in.  O'raw  Quyqinn'a^u  geye^m-  "i^nnifie'wut,  qanto7ge !"  TYnuk  gextkurli  ganto^en,  yanu'tken
 gakukeiVulin.  Gerelkilin,  to'lkaj  gantovaxLen,  giVlin,
 
 25  "Ya'nut  Mitixnak  ena'nme,  inekukeixvi.w  Tnnik  metexw
-ge'lqau,  i'nnik  Miti'nak  gape'ntilen.  Gele'wtmtilin.  "E'chi-
-van  tfnmm."  Quyqmn'a'qu  geye^i,  ixnnik  gachicanaVli,
+ge'lqau,  i'nnik  Miti'nak  gape'ntilen.  Gele'wtmtilin.  "E'chivan  tfnmm."  Quyqmn'a'qu  geye^i,  ixnnik  gachicanaVli,
 Tnnik  g-aqamrtvah.
 
 Ora'wucak  E'nni-ne'wut  garai'tilkah.    "Miti'nak  ora'wucak
@@ -5658,8 +5461,6 @@ Ora'wucak  E'nni-ne'wut  garai'tilkah.    "Miti'nak  ora'wucak
 30  tenanqc/nptmaw."  Quyqinn-a'qu  geye'p,  e'wun  Ttka.  Inu'nki
 ,   ganvo'h  qoqlalha'tik,    "Qiye'thi,  E'nm-iie'wut !"  —
 
-
-97
 
 "Igu't     mile'k!       Miti'nak     i'nnik     tena'nmune."       Qo'npii
 qo'qlak  gapka'wh.      Tenma'wilen.
@@ -5669,23 +5470,20 @@ Koryak,   Lesna.
 Outkmrraxu'nu  i'tilkilin,  pelhala'tki.  A'fiqan  ge'lqaLin,
 ora'wac  Enni'mtilan  gayo8/olen,  ganrai'talen.  Le'lna  gepi'-
 5  vivelin,  Enni'nat  gewye'lkilm.  Ora'wac  Outkinn-axu^ak
-g-afia'wtmlin.  Mitix  Enni'n  gaci'ntawlen.  Ora'wac  Qutkm-
-iraxxu  noxtafi  gexlqaLin.  MitKnak  ga'tkiplilen,  ga^milen,
+g-afia'wtmlin.  Mitix  Enni'n  gaci'ntawlen.  Ora'wac  Qutkmiraxxu  noxtafi  gexlqaLin.  MitKnak  ga'tkiplilen,  ga^milen,
 gekukervilin,  g-enuxlin.  Ci'mkup  uiaxqucita  gape'lalen.
 Oraxwac  Outkinn-a^u  geyexLin.  "e^ini-neVut,  qantx/ge !"
 
 10  Tixnuk  ge^kurli  g-antc/len,  yanuxtken  gekuke^vilin.  Gere7!-
 kilin,  gaqam/tvalen,  giVlin,  "Yaxnut  Miti^iak  ena^me,
-inekukeiVi."  Lig^mmen  mitiV  gexlqaLin,  lig-fmrnen  Mitix-
-nak  gape'ntilen.  GeleVtintilin.  "E^hi-van  tfnmm."
+inekukeiVi."  Lig^mmen  mitiV  gexlqaLin,  lig-fmrnen  Mitixnak  gape'ntilen.  GeleVtintilin.  "E^hi-van  tfnmm."
 Qutkmn-a'xu  geye'Lin,  lig-^mmen  gechicefieVlin,  ligfmmen
 
 15   gaqamftvalen.
 
 Ora'wac  E/nm-ne/wut  garai^ilen.  "Mit^nak  oraVac
 tenanqo/npunaw."  Outkmn'a^u  geye'Lin,  exwun  exLe.
-A^iqan  ge'lqaLin,  ganvc/len  aineVitkuk,  "Oiye^hi,  E^ini-
-fie'wut!"  "Oate'mmi  mile'kki !  Miti'nak  ligi'mmen
+A^iqan  ge'lqaLin,  ganvc/len  aineVitkuk,  "Oiye^hi,  E^inifie'wut!"  "Oate'mmi  mile'kki !  Miti'nak  ligi'mmen
 
 20  tena^imi."     Oo^pu  aine'witkuk  gapkaVlen.     TenmaVila^.
 
@@ -5701,8 +5499,7 @@ Kex'axnke     pi'kiknin,    x*uxxan  ni'ncin  qc!a/mjanlt  kicki^nm
 
 To  the  sea  he  went,  then  Fish-Person  he  found
 
-kintxila'kfiin    axtinoke.       Ne^'nal    kixpctuin,    nu'whel    knux-
-kmtxila/kfiin     a'tnok.         Ne^nal  ki'pctuin,    ixnuwhel    knu7-
+kintxila'kfiin    axtinoke.       Ne^'nal    kixpctuin,    nu'whel    knuxkmtxila/kfiin     a'tnok.         Ne^nal  ki'pctuin,    ixnuwhel    knu7-
 
 he  brought  her  home.  With  roe     she  threw  it  out.    with  that         they
 
@@ -5710,8 +5507,6 @@ he  brought  her  home.  With  roe     she  threw  it  out.    with  that       
 
 7  — PUBL.    AMER.    ETHN.    SOC.    VOL.    V.
 
-
-98
 
 kajuknin.  X'u  K!utx    kna'lxkinm     (nu'whenk.)
 
@@ -5745,8 +5540,7 @@ rear  storeroom
 
 kiqu'mctikfiin,    qla^nan    ki^iclin.      Kice^nin,    no^ium   ki'n-
 
-qu'mctiknm,        qla^nan    ki^iclin.      Kicle'kfiin,   nc/num    kin-
-she  came  out,  that  one      cooked  one.         She  entered,          she  brought
+qu'mctiknm,        qla^nan    ki^iclin.      Kicle'kfiin,   nc/num    kinshe  came  out,  that  one      cooked  one.         She  entered,          she  brought
 recently
 
 clihiin,       kl'c/an,    "Qlank    Mitrnk   I'a^humnen,  kokajo7-
@@ -5779,9 +5573,6 @@ she   brought  the  food.
 
 1   All  these  words  and  forms  are  borrowed  from  the  neighboring  Koryak  (eastern
 branch).
-
-
-99
 
 
 Nusn
@@ -5884,8 +5675,7 @@ young  man.  They  said  to  K'ilu',  "If  you  had  not  run
 away,  he  would  have  married  you."
 
 Then  Kilu'  began  to  boast,  "The  suitor  came  first
-to  me!"  though  it  was  not  true  at  all.  She  envied  Yini'a-
-na'wgut  because  of  her  husband.  He  entered,  (and  proved
+to  me!"  though  it  was  not  true  at  all.  She  envied  Yini'ana'wgut  because  of  her  husband.  He  entered,  (and  proved
 to  be)  a  very  good  young  man,  and  Kilu7  envied  her
 sister  to  a  great  extent.  Her  cousin  was  married,  (and
 not  she).  Oh,  that  is  all.
@@ -5941,15 +5731,13 @@ Koryak,  Paren.
 Enfia8/a  wusaxnau  Yin^a-neVgutinti  notantaga^s.    fle^in
 
 10  lela^itkonnoi.  Yini/a-ne/wgut  vas/yuk  yo8/onen.  "Ne^o
-yi'nna  p/nki  qigitetkmi'gm  !"  Gifmlin  fie'nin  Kilu"  lile'pit-
-km,  inne'etitkin.  "Yi'shi  niV-i-gis,  'Ne^o  yfnna  ya^itkm?'
+yi'nna  p/nki  qigitetkmi'gm  !"  Gifmlin  fie'nin  Kilu"  lile'pitkm,  inne'etitkin.  "Yi'shi  niV-i-gis,  'Ne^o  yfnna  ya^itkm?'
 Ve,  gu'mlm  infie'ti."
 
 Yaite^i  qatharas,   oyelanninoVas,  vas/yuk  tiluus'his-he^i.
 
 15  Am  ennai7  Ce^itin-rtalan  ye/ti.  EccaVamei7  Kilu'nanqal
-vaga'le.  Ne^iin  Kilu'nak  new-yila'lni-t^mgin  nanikanqa-
-lartin  upina^^li'nin.  "Gftca  nile'pitkui-gis.  Oa^a  qatvaxt-
+vaga'le.  Ne^iin  Kilu'nak  new-yila'lni-t^mgin  nanikanqalartin  upina^^li'nin.  "Gftca  nile'pitkui-gis.  Oa^a  qatvaxt-
 kinen."  Ki'tkis  new-gi^a8  yilqe'ti,  eVcem  nas'hinortm
 mel-gmte'wi.  Va8/yuk  kimi'ten  nika^inulas  qo^nolas,  uxttik
 
@@ -5960,8 +5748,7 @@ e'wun  ge^ivelma.
 Va8/yitk    tilei',    te'nnu    netciga8/an.      Caxlatkine'tik  ?"
 Tpa    a'nam    ne'nin    kamaxkata    nenuVa8!!.     Enaxn  lile'pit-
 
-25  kula8n."  Ne'ci  minyo8/ola."  Ge'lqaLinau,  tawa^ilas  galan-
-no'lenau,  necisherti  tile^vitkis,  o^imi-mal-oya^ek.  Kilu7
+25  kula8n."  Ne'ci  minyo8/ola."  Ge'lqaLinau,  tawa^ilas  galanno'lenau,  necisherti  tile^vitkis,  o^imi-mal-oya^ek.  Kilu7
 newnnio'gan,  "Argeve  egmte'wka,  gi'tca  nana^'mata^gis."
 
 Nexnin  Kilu7  mal-taitinisa'nmvoi.    "  Yat,"  eSvan,  "G
@@ -5971,9 +5758,6 @@ geye'Lin  newinn'u'la^n."    Fnmix  iie'no  e'l.e.    Yinra-n
 
 To,  fie'nin  Kilu"  mal-aqine'nnivoi.  New-g-na8n  nama'tan.
 To,  oxpta.
-
-
-102
 
 
 Koryak,   Qare'nm.
@@ -5993,8 +5777,7 @@ E'rrki  Te'ntm-rtilan  ye'ti.  Amei',  Kilu'nanqal  vaga'le.
 Naxm  Kilu^ak  naw-yila^fii-ti^mgin  na^enqac  upin'alfnin.
 "Git  nii^pitkui-git.  Nurax'a  q^tkinin."  Ki'tkit  fiaw-yila^fii-
 10  t^mgin  yfjqalki,  eut  ga'rginok  mel-gintexwi.  Oxraw
-kimi'teu  neka'lkilat  qu'Jkilat,  u'ttik  giva'tkuk  kitmve'tit-
-kinen.  Vaia^i  tileix,  exLe  t^nna.  Gai.^ma  u^tik  giva^-
+kimi'teu  neka'lkilat  qu'Jkilat,  u'ttik  giva'tkuk  kitmve'titkinen.  Vaia^i  tileix,  exLe  t^nna.  Gai.^ma  u^tik  giva^-
 kuk  kitmve^itkinen.  Mui/tilkilat  gagi^TkiLama.
 
 O'raw    tilei',    kri'ru  ne'ssm.      "Taxlatkme'tki?"  -       "Fpa
@@ -6016,8 +5799,6 @@ fie'wgut  nane^inak  aqixnu  ge'lnilin.      Gere^qiwlin  nimi'sax-
 oraxcek  Toq,  na^i  Kilu/  mal-aqine^ilki.
 
 namaxtan.     To,  tenmaVilen.
-
-4
 
 
 APPENDIX  I.
@@ -6125,8 +5906,6 @@ stem  used  in  oblique  cases  (cf.  p.  4).  I  have  also  corrected  some  e
 Enan'venaH  instead  of  Rna ' nvenanana^  Yekenela' tllln  (or  also  Yekenelcfiri)  instead
 of  Yeke.'nclaqlin^  Ulve'-iy-i' mtilatn  instead  of  Uheiyinitilcfin.
 
-[104]
-
 
 PLEIADES.
 
@@ -6180,8 +5959,7 @@ Cassiopeia    among    the    Koryak   of  Kamenskoye.      One  of  these  wome
 the  Koryak  of  Kamenskoye   Yini'a-ria'wgut,  and  another  Kilu'.
 
 3  Among  the  Chukchee,  the  Belt  of  Orion  is  considered  the  crooked  back  of  the
-archer  Rulte'nnin.     It  became  crooked  because  his  wife  struck  at  it  with  her  tailoring-
-board,    or,    according    to    another    version,    with    the    wooden  handle  of  her  scraper.
+archer  Rulte'nnin.     It  became  crooked  because  his  wife  struck  at  it  with  her  tailoringboard,    or,    according    to    another    version,    with    the    wooden  handle  of  her  scraper.
 Among  the   Reindeer  Koryak,   the  Belt  of  Orion  is  called  Kilu'-ena'nvenafi  ("Kilu"s
 handle  of  scraper").     The  Koryak  archer,  who  carries  his  bow  crosswise,  is  evidently
 identical   with  the  Chukchee  archer  with  the  crooked  back.
@@ -6236,8 +6014,7 @@ WAGONER.
 1   According  to  Mr.  Jochelson,  Pege'ten  ("suspended   breath")  is  the  name  of  the
 Morning  Star.     I  was  unable  to  ascertain   the  derivation  of  this   word.
 
-Some    stars    in    the    constellation    Wagoner  are  also  called  geke'iiilit  "reindeer-
-drivers");  cf.  Bogoras,  The  Chukchee,  /.   <•.,   vol.   vii,  p.   308.
+Some    stars    in    the    constellation    Wagoner  are  also  called  geke'iiilit  "reindeerdrivers");  cf.  Bogoras,  The  Chukchee,  /.   <•.,   vol.   vii,  p.   308.
 
 
 VOCABULARY.
@@ -6320,7 +6097,6 @@ Enin-,     that  one
 
 Eni'n,    Ena'n   (Ch.  E'nqan),     that  one
 
-176
 
 E'nki  (Ch.  E'irki),     there   12.6
 Enke'  (with  accent  of  exclamation  on
@@ -6352,9 +6128,6 @@ EL,     father
 ELi'n  (Ch.  ELi'gm),     father  54.6
 
 EL.     See  JL
-
-
-[107]
 
 
 8 — PUBL.     AMER.    ETHN.    SOC.    VOL.    V.
@@ -6771,11 +6544,9 @@ a8'la8!,  ala8'al  (Ch.  as'La8'!),    excrement
 
 
 asla'tvekm  M,  to  taste  of  excrement  29.4
-aslaki'mkim  K,  eleki'mkin  P  (Ch.  ele'm-
-kin),    omasum  (literally,  excrement-
+aslaki'mkim  K,  eleki'mkin  P  (Ch.  ele'mkin),    omasum  (literally,  excrement-
 net)  92.3
 
-0
 
 a8lona'tekin,  a^lona'tekin  M,    daylight
 
@@ -6832,8 +6603,7 @@ ala,     summer
 
 ala'al  K,  ele'el  P  (Ch.  e'leel),    summer
 ala'k  (Ch.  ele'k),     in  summer-time
-ala'kin  (Ch.  ele'kin),     adj.  summer-
-ala'nit     (Ch.     ele'nit),      summer-time,
+ala'kin  (Ch.  ele'kin),     adj.  summerala'nit     (Ch.     ele'nit),      summer-time,
 
 summer  season  31.10
 ala'netma    (Ch.    ala'netm),      place   of
@@ -6881,8 +6651,7 @@ yiyi'wikm    A,   nom.   past   gann'i'wlin,
 to  state,  to  define  76.16
 yiyilpat,  yiyimpat
 
-cicilpe'tikin,  cicimpe'tikm  P  (A),  yiyil-
-pa'tikin,  yiyimpa'tikm  K,  to  hide
+cicilpe'tikin,  cicimpe'tikm  P  (A),  yiyilpa'tikin,  yiyimpa'tikm  K,  to  hide
 
 92-!5
 yip
@@ -6951,8 +6720,7 @@ lor  (literally,  separate  man)
 yanot,     fore
 
 ya'noti  (Ch.  ya'net),     at  first  20.9
-yanot-  (Ch.  ya'net-),     fore-
-ya'not-gitca'lnm  (Ch.  ya'net-gitka'lhm),
+yanot-  (Ch.  ya'net-),     foreya'not-gitca'lnm  (Ch.  ya'net-gitka'lhm),
 
 foreleg
 yano'tekm  M  (Ch.  yano'orkin),    to  be
@@ -7021,8 +6789,7 @@ yalq
 
 yalki'wikm   M    (Ch.   res-qi'urkm),     to
 enter  (mostly  the  sleeping-house)  13.9
-ya'lku    (Ch.   re'lku),     in   the   sleeping-
-room  41.9
+ya'lku    (Ch.   re'lku),     in   the   sleepingroom  41.9
 
 yiya'ykin,  yisa'ykin  A  (Ch.  nra'rkm);
 nom.    past  gayya'len,  gassa'len  (Ch.
@@ -7084,8 +6851,7 @@ yent  K,  cent  P,     monstrous
 
 ye'ntifi  K,  ce'ntm  P,  te'ntin  Qar.,  some
 thing  awful,  monster
-ye'ntin-ita]asn  K,  ce'ntm-italan  P,  te'n-
-tm-i'tilan  Qar.,  monster-being  100.7;
+ye'ntin-ita]asn  K,  ce'ntm-italan  P,  te'ntm-i'tilan  Qar.,  monster-being  100.7;
 101.15;  I02-7
 yekui,  yaqui,     handle
 
@@ -7436,9 +7202,6 @@ seek,  to  look  for  49.9  (cf.  also  Ch.
 qari'rirkm,  to  look  for)
 
 
-8
-
-
 enat,     snare  36.5
 
 enoga'tekin  A,    to  catch  in  a  snare  36.1
@@ -7468,8 +7231,7 @@ enyeina  (adv.),     close  to  15.11
 enval,     nostril  84.6  (cf.  isnin,  nose)
 e'rgifi  Pal.,     sand-spit
 
-ergine'tkm,  to  walk  along  the  sand-
-spit  90.1
+ergine'tkm,  to  walk  along  the  sandspit  90.1
 
 eleki'mkin  P.    See  aslakt'mkim,  under  asl
 e]v,  ilv
@@ -7861,8 +7623,7 @@ pela'ykm  A  (Ch.  pela'rkin),     to  leave
 
 20.9;  34.3
 
-pelhmo'liiin  K,  pelhmo'lfiin  P  (Ch.  pel-
-hino'lhm),    reindeer-mane  92.11  (see
+pelhmo'liiin  K,  pelhmo'lfiin  P  (Ch.  pelhino'lhm),    reindeer-mane  92.11  (see
 pilh)
 pug
 
@@ -7991,9 +7752,6 @@ va'qatekin    M    (Ch.    veqae'rkin),      to
 stride  over  47.11
 
 
-122
-
-
 vaqyiy
 
 va'kyiy,  va'qyiy,     stride
@@ -8106,8 +7864,7 @@ vel
 
 ve'livel   (Ch.  ve'luwel),     thimble  59.5
 vel-ip-yi'lhilfim  (Ch.  vel-ep-rilhi'Linin),
-forefinger  (literally,  thimble-putting-
-on  finger)
+forefinger  (literally,  thimble-puttingon  finger)
 velo
 
 ve'loqa]   (velo-qal),     corner   of  a  bag,
@@ -8346,8 +8103,7 @@ mgo-ya^'t  (Ch.  mo'o-ret),     pack-sledge
 
 road
 
-muu-yil  (Ch.  mu'u-ril),     line  of  pack-
-sledges  78.5
+muu-yil  (Ch.  mu'u-ril),     line  of  packsledges  78.5
 
 much
 
@@ -8483,8 +8239,7 @@ taminna'tekin  M  (Ch.  teminfie'erkin),
 to  work  skilfully
 tamkal
 
-ta'mkal,     drying-pole,  a  set  of  drying-
-poles  70.11
+ta'mkal,     drying-pole,  a  set  of  dryingpoles  70.11
 tata
 
 ta'ta  (Ch.  a'te),     daddy  74.12
@@ -8671,9 +8426,6 @@ tumgine'nin  (Ch.  tumgi'in),    belonging
 to  a  friend
 
 
-127
-
-
 tuch
 
 tu'yi  (Ch.  tu'ri),     you
@@ -8695,8 +8447,7 @@ nitu'laqin  (Ch.  nitu'laqin),    he  is  prone
 to  stealing  39.1
 tomft
 
-tomiie'kin  M,     to  stop  up  the  smoke-
-hole  74.4
+tomiie'kin  M,     to  stop  up  the  smokehole  74.4
 
 tomnalqi'wekm  M,    increase  of  action
 
@@ -8787,8 +8538,7 @@ nom.  past  gauga'Len,  to  lie  down)
 citca
 
 citca'lnin,     pelvis-joint
-citc-a9'ttam,     coccyx   (literally,  pelvis-
-joint  bone)  49.6
+citc-a9'ttam,     coccyx   (literally,  pelvisjoint  bone)  49.6
 
 
 tm  (initial),  nm  (medial)
@@ -8835,7 +8585,6 @@ caiuch
 
 cai'iichm  (Ch.   tei'uchm),     small   bag
 
-384
 
 caim.     See  ceim
 cawcuwa
@@ -8880,8 +8629,6 @@ to  get  broken  14.3
 cema'thitnm   (Ch.   cema'tirgm),     cleft
 14.10
 
-
-128
 
 cichi
 
@@ -9083,9 +8830,6 @@ nv  (medial).     See  yiv  (initial)
 -nviy.     See  yiviy
 -nm.     See  tm
 ntiwat.     See  yitiwat
-
-
-130
 
 
 -ntigiwat.     See  yithewat
@@ -9361,9 +9105,6 @@ qayicu'ykin    A,     to   chop    small   53.6
 (see  qai)
 
 
-132
-
-
 qaya'n    (Ch.    qa'aran),      covered    sledge
 (literally,  reindeer-house;  see  qo'yana,   j
 reindeer)  52.1
@@ -9493,9 +9234,6 @@ qu'tti  dual  (Ch.  qu'tti  //.),  12.7532.8
 plural  quttu,  qutcan
 
 
-33
-
-
 -qun  (Ch.  -qun),     particle  14.8
 
 qu'nam  (qun-am),     even  49.1  (cf.  Ch.
@@ -9586,8 +9324,7 @@ game  61.8
 GIWILC'  (proper  name),    Stone-Face  66.2
 
 
-giva'ikm  K  (M),  giva'tkm  P  (Ch.  uwa'r-
-km),  to  catch  at  36.6 ;  i oo. 1 2 ;  i o i .  1 9
+giva'ikm  K  (M),  giva'tkm  P  (Ch.  uwa'rkm),  to  catch  at  36.6 ;  i oo. 1 2 ;  i o i .  1 9
 git,  gin,  gi
 
 gi'ssa,  gi  K,   gitca   P   (Ch.    git,   gir),
@@ -9622,11 +9359,7 @@ ginu'n-niki'ta       (Ch.      gimi'n-niki'ta),
 midnight
 gmtaw
 
-ginta'wekin  M,     to  run  (cf.  Ch.  gm-
-te'urkm,     to  flee)  36. 6 555. 2
-
-
-134
+ginta'wekin  M,     to  run  (cf.  Ch.  gmte'urkm,     to  flee)  36. 6 555. 2
 
 
 gink
@@ -9863,8 +9596,7 @@ nil  n
 ni'lftm  (Ch.  ni'lhin),     thong  38.6;  40.5
 ne'kel,  fteykil
 
-nekela'tekm,  fteykila'tekm  M  (Ch.  ftir-
-kila'arkin),     to  feel  shame,  to  feel
+nekela'tekm,  fteykila'tekm  M  (Ch.  ftirkila'arkin),     to  feel  shame,  to  feel
 fright  46.6;  82.6
 nelv
 
@@ -10191,9 +9923,6 @@ adverb  of  time,  place,  manner  18.10;
 .     See  -in
 
 
-138
-
-
 -(a)k  (Ch.  -fi]k),  supine  (possessive  of
 verbal  stem)  58.1
 
@@ -10266,12 +9995,10 @@ action  30.7
 -ik-  (-yk-)  (Ch.  -rk-),  present  all  persons
 (sing,  dual)  57.9
 
--i — gi  (Ch.  -i — git),  2d  per.  sing,  nomi-
-nalizing  form  of  verb,  and  conjugated
+-i — gi  (Ch.  -i — git),  2d  per.  sing,  nominalizing  form  of  verb,  and  conjugated
 form  of  noun  60.2;  82.8
 
--i-gum  (Ch.  -i-um),  ist  per.  sing,  nomi-
-nalizing  form  of  verb,  and  conju
+-i-gum  (Ch.  -i-um),  ist  per.  sing,  nominalizing  form  of  verb,  and  conju
 gated  form  of  noun  17.7;  30.1;  47.5;
 60.5
 
@@ -10315,9 +10042,6 @@ future  conjunctive;  transitive  object;
 all  tenses  26.7;  29.9;  64.16
 
 -ma  K,  P.  See  a'wun — ma,  ga— ma
-
-
-139
 
 
 -mu'yi  dual,  -mu'yu  pL  (Ch.  -mu'ri  pL),  \
@@ -10446,9 +10170,6 @@ personal  nouns  28.7  -ki.     See  -(i)k
 
 
 IO — PUBIV    AMER.    ETHN.    SOC.    VOL.    V.
-
-
-140
 
 
 -km,     allative    form    of  personal    nouns
@@ -10709,9 +10430,6 @@ ni — qin,  dual  ni — qinat,  //.  m — qinau
 val  quality  64.24;  88.3;  90.7:  verbal,
 3d  per.  subject,  nominalizing  present
 25-5  ^6.3;  74.12
-
-
-142
 
 
 in — qinau,  //.  of  ni — qin,  q.v.
@@ -11007,9 +10725,6 @@ clothing,     tanataw
 cloud-berry  (Rubus  chamcemosus),    yittil
 
 
-144
-
-
 club,  big,     qulu
 
 coal,     wtilk
@@ -11078,8 +10793,7 @@ create,  to,     taik
 
 cross-beam,     ulqa't
 
-cross-pole,  ki'svac,  (between  sleeping-
-places)  cot
+cross-pole,  ki'svac,  (between  sleepingplaces)  cot
 
 crucifix  worn  on  neck,  -(l)i«nn  (under
 ifc'nn)
@@ -11333,9 +11047,6 @@ foot,  to  go  on,     vaicit
 force  one's  self  on,  to,     ewgupat
 
 
-146
-
-
 fore,  front,     yanot
 
 forefinger,     vel
@@ -11506,9 +11217,6 @@ here!  vus,     qage'
 hide,  to,     yiyilpat,  pis'q
 
 
-147
-
-
 hit,  to,     iy
 
 hold,  to,     yinir,  enaaye
@@ -11592,8 +11300,7 @@ keep  back,  to,    giyip
 kettle,     kuka
 kick,  to,     aate
 
-kick    with    one's    feet,    to   trample    half-
-scraped  skin,      apt
+kick    with    one's    feet,    to   trample    halfscraped  skin,      apt
 kill,  to,     tm
 
 kill  wild  reindeer,  to,     ejv
@@ -11662,9 +11369,6 @@ living  one,     kiyulat
 living  thing,     ilu
 
 load  left  in  the  open,     mai
-
-
-148
 
 
 lonely,  to  feel,     paivak
@@ -12275,9 +11979,6 @@ summer,     ala
 sun,     tiyk
 
 
-152
-
-
 sunset,     vulq
 superior  to,  to  be,     ly
 supernatural  spirit,     kamak
@@ -12317,8 +12018,7 @@ thanksgiving     ceremonial,    to    arrange,
 inacixcat
 that    one,     Enin-,    nayen,    nan;    (apart
 
-from  speaker)  nunin-
-their,     ach
+from  speaker)  nunintheir,     ach
 
 then,     a'tti,  inya'wut,  ora'wucak
 then  only,     wii8'tcu
@@ -12331,10 +12031,8 @@ thief,  female,     flaw
 thigh,     assa
 thimble,     vel
 thirsty,  to  be,     pas
-this  country,  in,     wutin-
-this  much,  to  such  degree,     Enin
-this  one,     wutin-
-this  place,  belonging  to,     wutc
+this  country,  in,     wutinthis  much,  to  such  degree,     Enin
+this  one,     wutinthis  place,  belonging  to,     wutc
 this  side,  to,     yelh,  qo'yiii
 thong,     niln
 thong,  hairless,     i'lnm
@@ -12385,8 +12083,7 @@ trifle,     yaq
 
 tripod,  for  kettle,     kuka
 truly,     i'nmi-qu'num,  ki'wan
-truth,  in,     i'nmi-
-try  on,  to,     tanti
+truth,  in,     i'nmitry  on,  to,     tanti
 Tungus,     qoya
 turn,  to,     yrli,  yilt
 tusk,     yinn

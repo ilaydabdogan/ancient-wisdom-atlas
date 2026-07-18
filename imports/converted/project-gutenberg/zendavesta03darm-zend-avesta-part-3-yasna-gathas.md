@@ -54,8 +54,6 @@ SIM
 I
 
 
-11
-
 ffilflfiH
 
 
@@ -139,7 +137,6 @@ VOL.   XXXI
 
 AT     THE     CLARENDON     PRESS
 
-1887
 
 [  All  rights  reserved]
 
@@ -165,7 +162,6 @@ L.     H.     MILLS
 
 AT     THE     CLARENDON     PRESS
 
-1887
 
 [  All  rights  reserved  ]
 
@@ -222,15 +218,13 @@ by  way  of  meeting  the  necessary  disadvantages  under  which
 I  labour  as  in  any  sense  a  successor  of  Professor  Darmesteter.
 It  is  sufficient  to  state  that  I  believe  myself  to  be  fully
 aware  of  them,  and  that  I  trust  that  those  who  study  my
-work  will  accord  me  the  more  sympathy  under  the  circum-
-stances. Professor  Darmesteter,  having  extended  his  labours
+work  will  accord  me  the  more  sympathy  under  the  circumstances. Professor  Darmesteter,  having  extended  his  labours
 in  his  University,  found  his  entire  time  so  occupied  that  he
 was  obliged  to  decline  further  labour  on  this  Series  for  the
 present.  My  work  on  the  Gathas  had  been  for  some  time
 in  his  hands  \  and  he  requested  me,  as  a  friend,  to  write
 the  still  needed  volume  of  the  translation  of  the  Avesta.
-Although  deeply  appreciating  the  undesirableness  of  follow-
-ing one  whose  scholarship  is  only  surpassed  by  his  genius,
+Although  deeply  appreciating  the  undesirableness  of  following one  whose  scholarship  is  only  surpassed  by  his  genius,
 I  found  myself  unable  to  refuse.
 
 As  to  my  general  treatment,  experts  will  not  need  to  be
@@ -241,8 +235,7 @@ to  venture  to  produce  a  translation  of  the  Yasna,  Visparad,
 Afrinagan,  and  Gahs,  without  defensive  notes.  The  smallest
 freedom  would  be  hypercriticised  by  interested  parties,  and
 after  them  condemned  by  their  followers.  On  the  other
-hand,  even  with  the  imperfect  commentary  which  accom-
-panies the  Gathas  here,  the  generous  courtesy  of  the  Dele-
+hand,  even  with  the  imperfect  commentary  which  accompanies the  Gathas  here,  the  generous  courtesy  of  the  Dele-
 gates of  the  Clarendon  Press  has  been  too  abundantly  drawn
 upon.  One  does  not  expect  detailed  commentaries  in  this
 Series.  My  efforts  have  therefore  been  chiefly  confined  to
@@ -263,14 +256,11 @@ allowed.  In  treating  the  Gathas  however,  even  at  the  risk
 of  too  great  extension,  I  have  endeavoured  to  atone  for  the
 necessary  obscurity  of  notes  by  ample  summaries,  and  a
 translation  supported  by  paraphrase,  as  such  matter  has
-more  prospect  of  being  generally  instructive  than  a  com-
-mentary which  must  necessarily  have  remained  obscure.
-These  summaries  should  also  be  read  with  the  more  indul-
-gence, as  they  are  the  first  of  their  kind  yet  attempted,
+more  prospect  of  being  generally  instructive  than  a  commentary which  must  necessarily  have  remained  obscure.
+These  summaries  should  also  be  read  with  the  more  indulgence, as  they  are  the  first  of  their  kind  yet  attempted,
 Haug's  having  been  different  in  their  scope.  With  regard
 to  all  matters  of  mere  form,  I  expect  from  all  sides  a
-similar  concession.  It  will,  I  trust,  be  regarded  as  a  suffi-
-cient result  if  a  translation,  which  has  been  built  up  upon
+similar  concession.  It  will,  I  trust,  be  regarded  as  a  sufficient result  if  a  translation,  which  has  been  built  up  upon
 the  strictest  critical  principles,  can  be  made  at  all  readable.
 For  while  any  student  may  transcribe  from  the  works  of
 others  what  might  be  called  a  translation  of  the  Yasna,  to
@@ -278,11 +268,9 @@ render  that  part  of  it,  termed  the  Gathas,  has  been  declared
 by  a  respected  authority,  '  the  severest  task  in  Aryan
 philology1.'  And  certainly,  if  the  extent  of  preparatory
 studies  alone  is  to  be  the  gauge,  the  statement  cited  would
-not  seem  to  be  an  exaggeration.  On  mathematical  esti-
-mates the  amount  of  labour  which  will  have  to  be  gone
+not  seem  to  be  an  exaggeration.  On  mathematical  estimates the  amount  of  labour  which  will  have  to  be  gone
 through  to  become  an  independent  investigator,  seems  to  be
-much  greater  than  that  which  presents  itself  before  special-
-ists in  more  favoured  departments.  No  one  should  think
+much  greater  than  that  which  presents  itself  before  specialists in  more  favoured  departments.  No  one  should  think
 of  writing  with  originality  on  the  Gathas,  or  the  rest  of  the
 Avesta,  who  had  not  long  studied  the  Vedic  Sanskrit,  and  no
 one  should  think  of  pronouncing  ultimate  opinions  on  the
@@ -312,35 +300,30 @@ unusual,  if  not  unequalled,  extent.
 
 The  keen  observer  will  at  once  see  that  a  department  of
 science  so  circumstanced  may  cause  especial  embarrassment.
-On  the  one  hand,  it  is  exposed  to  the  impositions  of  dilet-
-tanti, and  the  hard  working  specialist  must  be  content  to
+On  the  one  hand,  it  is  exposed  to  the  impositions  of  dilettanti, and  the  hard  working  specialist  must  be  content  to
 see  those  who  have  advanced  with  studies  one  half,  or
 less  than  one  half  completed,  consulted  as  masters
-by  a  public  which  is  only  ignorant  as  regards  the  inner-
-most laws  of  the  science ;  and,  on  the  other  hand,  the
+by  a  public  which  is  only  ignorant  as  regards  the  innermost laws  of  the  science ;  and,  on  the  other  hand,  the
 deficiencies  of  even  the  most  laborious  of  specialists  must
 leave  chasms  of  imperfection  out  of  which  the  war  of  the
 methods  must  continually  re-arise.  In  handling  the  Gathas
 especially,  I  have  resorted  to  the  plan  of  giving  a  translation
 which  is  inclusively  literal  \  but  filled  out  and  rounded  as
-to  form  by  the  free  use  of  additions.  As  the  serious  stu-
-dent should  read  with  a  strong  negative  criticism,  he  may
+to  form  by  the  free  use  of  additions.  As  the  serious  student should  read  with  a  strong  negative  criticism,  he  may
 notice  that  I  strive  occasionally  after  a  more  pleasing  effect ;
 but,  as  we  lose  the  metrical  flow  of  the  original  entirely,
 such  an  effort  to  put  the  rendering  somewhat  on  a  level
 with  the  original  in  this  respect,  becomes  a  real  necessity.
 I  have,  however,  in  order  to  guard  against  misleading  the
 reader,  generally,  but  not  always,  indicated  the  added  words
-by  parenthetical  curves.  That  these  will  be  considered  un-
-sightly and  awkward,  I  am  well  aware.  I  consider  them  such
+by  parenthetical  curves.  That  these  will  be  considered  unsightly and  awkward,  I  am  well  aware.  I  consider  them  such
 myself,  but  I  have  not  felt  at  liberty  to  refrain  from  using
 them.  As  the  Gathas  are  disputed  word  for  word,  I  could  not
 venture  to  resort  to  free  omissions ;  and  what  a  translation
 would   be  without   either   additions   or  omissions,  may  be
 
 
-1  That  is  approximately  so ;  absolute  literalness,  even  when  treated  as  I  pro-
-pose, would  be  unmanageably  awkward.  In  another  work,  I  give  a  word  for
+1  That  is  approximately  so ;  absolute  literalness,  even  when  treated  as  I  propose, would  be  unmanageably  awkward.  In  another  work,  I  give  a  word  for
 word  rendering  of  the  Gathas.
 
 
@@ -355,15 +338,12 @@ above  given,  and  foreign  readers  should  especially  note  the
 fact,  as  well  as  my  effort  to  preserve  the  colour  of  original
 expressions,  otherwise  they  will  inevitably  inquire  why  I  do
 not  spare  words.  To  preserve  the  colour  and  warmth,  and
-at  the  same  time  to  include  a  literal  rendering,  it  is  impos-
-sible to  spare  words  and  syllables,  and  it  is  unwise  to
+at  the  same  time  to  include  a  literal  rendering,  it  is  impossible to  spare  words  and  syllables,  and  it  is  unwise  to
 attempt  it.  Non-specialists  may  dislike  the  frequency  of
-alternative  renderings  as  leaving  the  impression  of  inde-
-cision, while,  at  the  same  time,  a  decision  is  always  ex-
+alternative  renderings  as  leaving  the  impression  of  indecision, while,  at  the  same  time,  a  decision  is  always  ex-
 pressed by  the  adoption  of  a  preferred  rendering.  The
 alternatives  were  added  with  the  object  of  showing  how
-nearly  balanced  probabilities  may  be,  and  also  how  unim-
-portant to  the  general  sense  the  questions  among  specialists
+nearly  balanced  probabilities  may  be,  and  also  how  unimportant to  the  general  sense  the  questions  among  specialists
 often  are.
 
 In  transliterating,  I  have  followed  the  plan  used  in  the
@@ -377,8 +357,7 @@ moment  2.  As  regards  the  usual  and  inevitable  differences
 of  opinion  on  more  serious  questions,  see  the  remarks  in
 the  Introduction y.  I  would  also  state  that  I  have  often
 avoided  rendering  identical  passages  in  identical  language,
-as  irksome  both  to  reader  and  writer.  I  have  also  not  in-
-variably cited  the  obviously  preferable  variations  of  text
+as  irksome  both  to  reader  and  writer.  I  have  also  not  invariably cited  the  obviously  preferable  variations  of  text
 which  have  been  adopted,  and  which  are  so  familiar  to  the
 
 
@@ -398,18 +377,14 @@ PREFACE.  Xlll
 
 eye  in    Westergaard,    Spiegel,    and    Geldner.     The    texts
 of  Westergaard    have    been    followed    necessarily    as    to
-extent  of  matter,  as  this  work  is  printed  before  the  comple-
-tion  of   Geldner's   text.     The  oft-recurring   formulas   and
+extent  of  matter,  as  this  work  is  printed  before  the  completion  of   Geldner's   text.     The  oft-recurring   formulas   and
 prayers  at  the  ends  of  chapters  and  sections  have  been  left
 unrendered,  and   finally  for  the   most   part  unnoticed,  by
 striking  out  the  useless  notes.    Citations  of  the  Pahlavi  and
 Sanskrit  translations  have  been  given  occasionally  in  full,  in
-order  to  meet  the  extraordinary  statements  which  some-
-times appear  to  the  effect  that  they  have  not  been  vital  to
-the  interpretation  of  the  Gathas.     But  by  giving  these  ex-
-tracts and  by  frequently  citing  the  Pahlavi,  Neryosangh,  and
-the  Persian,  I  have  perhaps  exposed  myself  to  the  miscon-
-ception that  I  am  an  extreme  advocate  of  the  so-called  tra-
+order  to  meet  the  extraordinary  statements  which  sometimes appear  to  the  effect  that  they  have  not  been  vital  to
+the  interpretation  of  the  Gathas.     But  by  giving  these  extracts and  by  frequently  citing  the  Pahlavi,  Neryosangh,  and
+the  Persian,  I  have  perhaps  exposed  myself  to  the  misconception that  I  am  an  extreme  advocate  of  the  so-called  tra-
 dition 1,  whereas  all  conscientious  critics  will  acknowledge
 that  I  follow  the  indications  of  these  works  with  more
 reserve  than  any  writer  who  professes  to  have  studied  them  ;
@@ -417,15 +392,12 @@ in  fact  I  may  well  apprehend  censure  from  '  traditionalists '
 in  this  particular.     These  Asiatic  renderings  are  cited  by
 me  the  more  fully  when  those  who  neglect  them  agree  with
 their  indications  ;  and  they  are  therefore  cited  to  show  that,
-whereas  those  most  opposed  to  them  are  nevertheless  for-
-getfully indebted  to  them  in  nearly  every  line,  therefore  in
+whereas  those  most  opposed  to  them  are  nevertheless  forgetfully indebted  to  them  in  nearly  every  line,  therefore  in
 all  cases  of  great  difficulty  they  should  be  studied  as  an
 absolute    necessity  before   rash    conjectures   are   adopted.
 For  it  is  exactly  where  we  are  all  most  in  doubt,  that  their
-indications  become  of  most  worth,  when  rationally  con-
-sidered.    These  translations  should  be  examined  for  the
-relics  of  the  truth,  the  hints,  and  traces  of  original  explana-
-tions, which  may  most  abound  where  they  are  themselves
+indications  become  of  most  worth,  when  rationally  considered.    These  translations  should  be  examined  for  the
+relics  of  the  truth,  the  hints,  and  traces  of  original  explanations, which  may  most  abound  where  they  are  themselves
 most  faulty  as  translations.     I  therefore  never  search  them
 for  exact  reproductions.     But  the  citations  which   I  give
 
@@ -433,8 +405,7 @@ for  exact  reproductions.     But  the  citations  which   I  give
 1  The  relics  of  a  '  tradition '  direct  from  the  fountain-head  are  present  in  the
 Asiatic  commentaries,  and  also  the  relics  of  a  tradition  from  later,  and,  as  it
 were,  modern  scholarship ;  and,  lastly,  there  are  also  present  the  direct  results
-of  an  ancient  scholarship;  but  to  speak  of  the  Pahlavi  translations  as  'tradi-
-tion,' is  merely  to  use  a  convenient  phrase.  I  know  of  no  scholar  who  supposes
+of  an  ancient  scholarship;  but  to  speak  of  the  Pahlavi  translations  as  'tradition,' is  merely  to  use  a  convenient  phrase.  I  know  of  no  scholar  who  supposes
 these  commentaries  to  be  in  a  simple  sense  '  tradition '  from  the  earliest  Zend
 writers.
 
@@ -443,16 +414,14 @@ XIV  THE    GATHAS,    ETC.
 
 here  constitute  only  a  very  small  fraction  of  those  needed.
 An  argument  should  be  built  up  on  the  fullest  statements
-of  the  circumstances,  elucidated  with  scientific  complete-
-ness. This  alone  would  have  any  prospect  of  obliging
+of  the  circumstances,  elucidated  with  scientific  completeness. This  alone  would  have  any  prospect  of  obliging
 investigators  to  acknowledge  the  truth ;  for  not  only  inertia
 and  prejudice  are  arrayed  on  the  other  side,  but  even
 interest.  This  much  is  said  of  the  Pahlavi  translations  ;  for
 Ner.  is  properly  cited  only  as  a  translation  of  a  translation,
 and,  as  such,  of  the  highest  authority 1  ;  so  of  the  Persian.
 
-Zendists  will  observe  that  I  by  no  means  abandon  ex-
-planations merely  because  they  are  old,  a  practice  which
+Zendists  will  observe  that  I  by  no  means  abandon  explanations merely  because  they  are  old,  a  practice  which
 seems  almost  the  fashion.  I,  however,  fully  approve  of
 testing  and  assailing  again  and  again  all  suggestions
 whether  old  or  new.  I  would  simply  assert  that,  while  the
@@ -460,8 +429,7 @@ tasks  before  us  remain  still  so  very  extensive,  it  would  be
 better  for  scholars  to  exercise  their  sagacity  upon  passages
 which  call  loudly  for  wise  conjecture,  leaving  those  which
 are  clear  as  they  stand,  for  later  assaults.  It  will  be  seen
-that  I  myself  by  no  means  approve  of  refraining  from  con-
-jecture 2,  but  I  would  only  in  all  humility  insist  that  we
+that  I  myself  by  no  means  approve  of  refraining  from  conjecture 2,  but  I  would  only  in  all  humility  insist  that  we
 should  not  abandon  ourselves  to  unprepared  conjecture.
 As  is  known  3, 1  have  attempted  the  present  rendering  after
 more  than  ten  years  of  close  labour,  and  after  a  full  trans-
@@ -477,8 +445,7 @@ Stein  have  kindly  transcribed  for  me  valuable  variations.
 
 2  It  will  be  regarded,  however,  as  especially  desirable  that,  in  a  report  from  a
 specialist  to  the  learned  public  in  general,  the  texts  should  on  no  account  be
-violated  by  conjectural  improvements  where  they  are  at  all  translatable ;  alter-
-natives are  therefore  added.  As  has  been  remarked  by  a  recent  reviewer  on  the
+violated  by  conjectural  improvements  where  they  are  at  all  translatable ;  alternatives are  therefore  added.  As  has  been  remarked  by  a  recent  reviewer  on  the
 new  version  of  the  Scriptures,  there  is  scarcely  a  line  of  very  ancient  writings
 which  scholars  are  not  tempted  to  amend ;  but  such  emendations  are  seldom
 agreed  to  among  specialists.  A  first  translation  should  always  be  attempted
@@ -494,25 +461,20 @@ PREFACE.  XV
 
 lation  of  the  Pahlavi  and  Sanskrit  translations,  together
 with  an  edition  of  the  Zend,  Pahlavi,  Sanskrit,  and  Persian
-texts  of  the  Gathas.  It  is  proper  to  add  that  for  the  pur-
-pose of  keeping  the  judgment  free  from  prejudice,  and  open
+texts  of  the  Gathas.  It  is  proper  to  add  that  for  the  purpose of  keeping  the  judgment  free  from  prejudice,  and  open
 to  honest  conviction  from  the  influence  of  the  i?zg-veda,  I
-have  followed  the  practice  for  a  number  of  years  of  trans-
-cribing the  Hymns  of  the  Veda  into  English  in  word  for
+have  followed  the  practice  for  a  number  of  years  of  transcribing the  Hymns  of  the  Veda  into  English  in  word  for
 word  written  studies,  having  already  so  treated  by  far  the
-greater  part  of  them ;  some  of  these  are  in  curtailed  state-
-ment, others  needlessly  full.  I  have  also,  on  the  other
+greater  part  of  them ;  some  of  these  are  in  curtailed  statement, others  needlessly  full.  I  have  also,  on  the  other
 hand,  turned  a  large  portion  of  the  Gathas  into  Vedic
 Sanskrit.  (This,  however,  is  practically  a  universal  custom,
 as  all  words  are  compared  with  the  Vedic,  so  far  as  analogies
 exist  between  the  Gathas  and  the  Riks.)  If  therefore  the
-opposed  schools  regard  me  as  erring  in  too  implicit  a  reli-
-ance on  the  hints  of  the  Asiatics  on  the  one  side,  or  in  too
+opposed  schools  regard  me  as  erring  in  too  implicit  a  reliance on  the  hints  of  the  Asiatics  on  the  one  side,  or  in  too
 decided  a  tendency  to  read  the  Gathic  as  Vedic  on  the
 other,  they  may  be  assured  that  I  have  not  erred  from
 interest  or  prejudice.  That  my  results  will  please  both
-parties  it  is  folly  to  expect,  in  fact  perfection  in  the  render-
-ing of  the  Gathas  (as  of  some  other  ancient  works)  is  for  ever
+parties  it  is  folly  to  expect,  in  fact  perfection  in  the  rendering of  the  Gathas  (as  of  some  other  ancient  works)  is  for  ever
 unattainable,  and  not  to  be  looked  for  ;  moreover,  it  would
 not  be  recognised,  if  attained  ;  for  no  writer,  whosoever  he
 may  be,  can  produce  a  rendering  of  the  Gathas  without
@@ -521,8 +483,7 @@ imperfect  my  results  may  be  supposed  to  be,  it  is  to  be  hoped
 that  they  will  contribute  some  little  toward  establishing
 a  convention  among  scholars  as  to  what  the  Gathic  and
 Zend  writings  mean  ;  meanwhile  it  is  confidently  expected
-that  they  will  fulfil  the  requirements  of  the  science  of  com-
-parative theology.  Whatever  may  be  the  ultimate  truth
+that  they  will  fulfil  the  requirements  of  the  science  of  comparative theology.  Whatever  may  be  the  ultimate  truth
 as  to  questions  of  close  detail,  the  Yasna,  as  well  as  the
 rest  of  the  Avesta,  is  clear  as  to  its  creed.
 
@@ -537,29 +498,24 @@ occasion.
 XVI  THE    GATHAS,    ETC.
 
 
-It  is  sufficient  to  say  here  that  while  I  follow  a  new  de-
-parture in  the  treatment  of  the  Asiatic  commentaries,  yet
+It  is  sufficient  to  say  here  that  while  I  follow  a  new  departure in  the  treatment  of  the  Asiatic  commentaries,  yet
 the  most  prominent  writers  of  the  opposing  schools  have
 courteously  favoured  me  with  their  advice.  Availing  myself
 of  the  exception  named,  I  would  take  the  liberty  to  express
-my  gratitude,  here  especially,  to  Dr.  E.W.  West,  our  first  au-
-thority on  Pahlavi,  for  placing  at  my  disposal  various  readings
+my  gratitude,  here  especially,  to  Dr.  E.W.  West,  our  first  authority on  Pahlavi,  for  placing  at  my  disposal  various  readings
 of  the  Pahlavi  text  of  the  Yasna,  of  which  we  have  hitherto
 only  possessed  a  single  MS.  in  "the  Pahlavi  character,  that
 contained  in  the  oldest  Zend  writing,  the  Codex  numbered
 five,  in  the  Library  of  Copenhagen.  The  variations  referred
 to  were  transcribed  by  Dr.  West  from  the  venerable  MS.,  the
 hereditary  property  of  Dastur  Dr.  67amasp^*i  Mino/£ihar§"i
-Asana  of  Bombay,  and  written  only  nineteen  (or  twenty-
-two)  days  later  than  that  numbered  five  in  the  Library  of
+Asana  of  Bombay,  and  written  only  nineteen  (or  twentytwo)  days  later  than  that  numbered  five  in  the  Library  of
 Copenhagen.  By  this  generous  loan  I  have  been  enabled
 to  print  elsewhere  the  first  text  of  the  Pahlavi  of  the  Gathas
 yet  edited  with  comparison  of  MSS.,  likewise  also  for  the
-first  time  translated,  in  its  entirety,  into  a  European  lan-
-guage. For  this  Dr.  West,  during  an  extended  correspon-
+first  time  translated,  in  its  entirety,  into  a  European  language. For  this  Dr.  West,  during  an  extended  correspon-
 dence, has  furnished  me  with  information  on  the  Pahlavi
-not  obtainable  elsewhere,  together  with  corrections  and  re-
-visions. There  is  another  eminent  friend  whose  sacrifices
+not  obtainable  elsewhere,  together  with  corrections  and  revisions. There  is  another  eminent  friend  whose  sacrifices
 of  time  and  labour  on  my  behalf  have  been  exceptional,  but
 I  will  defer  the  mention  of  Zend  scholars.
 
@@ -588,17 +544,14 @@ matter  does  not  appear  at  first  sight  a  sufficient  reason  for
 adding  a  word  to  the  masterly  work  which  introduces  the
 first  two  volumes,  and,  in  fact,  save  as  regards  questions
 which  bear  upon  the  Gathas,  I  avoid  for  the  most  part,  for
-the  present,  all  discussion  of  details  which  chiefly  con-
-cern either  the  sections  treated  in  the  first  two  volumes,  or
+the  present,  all  discussion  of  details  which  chiefly  concern either  the  sections  treated  in  the  first  two  volumes,  or
 the  extended  parts  of  the  later  Avesta  treated  here.  But
 the  Gathas  are  of  such  a  nature,  and  differ  so  widely  from
-other  parts  of  the  Avesta,  that  some  words  of  separate  dis-
-cussion seem  quite  indispensable,  and  such  a  discussion  was
+other  parts  of  the  Avesta,  that  some  words  of  separate  discussion seem  quite  indispensable,  and  such  a  discussion  was
 recommended  by  the  author  of  the  other  volumes.  A  second
 reason  why  a  word  of  introduction  is  necessary,  when  the
 translation  of  the  successive  parts  of  the  Avesta  passes  from
-one  hand  to  another,  is  a  reason  which  bears  upon  the  sub-
-ject with  exceptional  force.
+one  hand  to  another,  is  a  reason  which  bears  upon  the  subject with  exceptional  force.
 
 It  is  this  :  the  Avesta,  while  clearly  made  out,  so  far  as
 the  requirements  of  comparative  theology  are  concerned,
@@ -608,8 +561,7 @@ their  solution.  Master  and  pupil,  friend  and  friend,  must
 differ,  and  sometimes  on  questions  of  no  trivial  moment.
 
 The  preliminary  studies  requisite  to  the  formation  of
-ultimate  opinions  are  so  varied,  and  of  such  a  nature,  involv-
-ing the  rendering  of  matter  as  yet  totally  unrendered  with
+ultimate  opinions  are  so  varied,  and  of  such  a  nature,  involving the  rendering  of  matter  as  yet  totally  unrendered  with
 any  scientific  exactness  in  either  India  or  Europe,  that  no
 person  can  claim  to  have  satisfied  himself  in  these  respects.
 Scholars  are  therefore  obliged  to  advance  biassed  by  the
@@ -639,12 +591,10 @@ of  the  reader  if  my  mode  of  expressing  myself  seems
 either  rough  or  abrupt.
 
 As  to  what  the  Gathas  are  in  their  detail,  enough  has  been
-said  in  the  summaries  and  notes.  From  those  representa-
-tions, necessarily  somewhat  scattered,  it  appears  that  they
+said  in  the  summaries  and  notes.  From  those  representations, necessarily  somewhat  scattered,  it  appears  that  they
 comprise  seventeen  sections  of  poetical  matter,  equal  in
 extent  to  about  twenty-five  to  thirty  hymns  of  the  A'zg-veda,
-composed  in  ancient  Aryan  metres,  ascribing  supreme  (bene-
-ficent) power  to  the  Deity  Ahura  Mazda,  who  is  yet  opposed
+composed  in  ancient  Aryan  metres,  ascribing  supreme  (beneficent) power  to  the  Deity  Ahura  Mazda,  who  is  yet  opposed
 co-ordinately  by  an  evil  Deity  called  Aka  Manah,  or  Angra
 Mainyu.  In  all  respects,  save  in  the  one  particular  that  He
 is  not  the  Creator  of  this  evil  Deity,  and  does  not  possess
@@ -654,13 +604,11 @@ He  has  six  personified  attributes  (so  one  might  state  it),
 later,  but  not  in  the  Gathas,  described  as  Archangels,  while
 in  the  Gathas  they  are  at  once  the  abstract  attributes  of  God,
 or  of  God's  faithful  adherents  upon  earth,  and  at  the  same
-time  conceived  of  as  persons,  all  efforts  to  separate  the  in-
-stances in  which  they  are  spoken  of  as  the  mere  dispositions
+time  conceived  of  as  persons,  all  efforts  to  separate  the  instances in  which  they  are  spoken  of  as  the  mere  dispositions
 of  the  divine  or  saintly  mind,  and  those  in  which  they  are
 spoken  of  as  personal  beings,  having  been  in  vain.
 
-We  have  therefore  a  profound  scheme,  perhaps  not  con-
-sciously invented,  but  being  a  growth  through  centuries ;
+We  have  therefore  a  profound  scheme,  perhaps  not  consciously invented,  but  being  a  growth  through  centuries ;
 and  this  system  is  the  unity  of  God  in  His  faithful  creatures.
 It  is  not  a  polytheism  properly  so-called,  as  Ahura  forms
 with  his  Immortals  a  Heptade,  reminding  one  of  the
@@ -671,15 +619,12 @@ INTRODUCTION.  XIX
 
 
 arrested  by  the  domain  of  the  evil   Deity.     It  might  be
-called,  if  we  stretch  the  indications,  a  Hagio-theism,  a  de-
-lineation  of  God    in   the  holy   creation.      Outside   of  the
-Heptade  is  Sraosha,  the  personified  Obedience  (and  pos-
-sibly Vayu,  as  once  mentioned)  ;   and,  as   the  emblem  of
+called,  if  we  stretch  the  indications,  a  Hagio-theism,  a  delineation  of  God    in   the  holy   creation.      Outside   of  the
+Heptade  is  Sraosha,  the  personified  Obedience  (and  possibly Vayu,  as  once  mentioned)  ;   and,  as   the  emblem  of
 the  pious,  is  the  Kine's  soul,  while  the  Fire  is  a  poetically
 personified  symbol   of  the   divine  purity  and  power.     As
 opposed  to  the  good  God,  we  have  the  Evil  Mind,  or  the
-Angry  (?)  Spirit,  not  yet  provided  with  full  personified  attri-
-butes to  correspond  to  the  Bountiful  Immortals.     He  has,
+Angry  (?)  Spirit,  not  yet  provided  with  full  personified  attributes to  correspond  to  the  Bountiful  Immortals.     He  has,
 however,  a  servant,  Aeshma,  the  impersonation  of  invasion
 and  rapine,  the  chief  scourge  of  the  Zarathujtrians  ;  and  an
 evil  angel,  the  Dru^-,  personified  deceit,  while  the  Daevas
@@ -692,8 +637,7 @@ actually  in  the  present,  and  in  principles  which  have  their
 issue  in    the  future    in    rewards    and    punishments.      The
 importance  of  this  creed,  so  far  stated,  as  the  dualistical
 creation,  and,  as    an    attempted    solution,  of   the    hardest
-problem   of  speculation,   should  be   obvious    to   every   en-
-lightened eye.     If  there  existed  a  supreme  God  whose  power
+problem   of  speculation,   should  be   obvious    to   every   enlightened eye.     If  there  existed  a  supreme  God  whose  power
 could  undo  the  very  laws  of  life,  no  evil  could  have  been
 known ;    but  the  doctrine   denies  that    there   is   any  such
 being.     The   good    and   the   evil  in   existence  limit  each
@@ -701,8 +645,7 @@ other.     There  can  be  no  happiness  undefined  by  sorrow,
 and  no  goodness  which  does  not  resist  sin.     Accordingly
 the  evil  principle  is  recognised  as  so  necessary  that  it  is
 represented  by  an  evil  God.     His  very  name,  however,  is  a
-thought,  or  a  passion  ;  while  the  good  Deity  is  not  respon-
-sible for  the  wickedness  and  grief  which  prevail.     His  power
+thought,  or  a  passion  ;  while  the  good  Deity  is  not  responsible for  the  wickedness  and  grief  which  prevail.     His  power
 itself  could  not  have  prevented  their  occurrence.     And  He
 alone  has  an  especially  objective  name,  and  one  which  could
 only  be  applied  to  a  person.     These  suggestions,  whether
@@ -733,8 +676,7 @@ were  delivered  up  to  the  childish  terrors  of  a  future  replete
 with  horrors  visited   upon  them  from  without,  the  early
 Iranian  sage  announced  the  eternal  truth  that  the  rewards
 I  of  Heaven,  and  the  punishments  of  Hell,  can  only  be  from
-within.     He  gave  us,  we  may  fairly  say,  through  the  sys-
-tems which  he  has  influenced,  that  great  doctrine  of  subjec-
+within.     He  gave  us,  we  may  fairly  say,  through  the  systems which  he  has  influenced,  that  great  doctrine  of  subjec-
 tive recompense,  which  must  work  an  essential  change  in
 the  mental  habits  of  every  one  who  receives  it.     After  the
 creation  of  souls,  and  the  establishment  of  the  laws  which
@@ -744,13 +686,11 @@ guidance  of  the  well-disposed.     The  faithful  learn  the  vows
 of  the  holy  system  under  the  teaching  of  the  Immortals,
 while  the  infidel  and  reprobate  portion  of  mankind  accept
 the  seductions  of  the  Worst  Mind,  and  unite  with  the  Daevas
-in  the  capital  sin  of  warfare  from  wanton  cruelty,  or  for  dis-
-honest acquisition.     The  consequence  of  this  latter  alliance
+in  the  capital  sin  of  warfare  from  wanton  cruelty,  or  for  dishonest acquisition.     The  consequence  of  this  latter  alliance
 is  soon  apparent.     The  Kine,  as  the  representative  of  the
 holy  people,  laments  under  the  miseries  which  make  Iranian
 life  a  load.     The  efforts  to  draw  a  livelihood  from  honest
-labour  are  opposed,  but  not  frustrated,  by  the  Daeva-wor-
-shipping  tribes  who  still  struggle  with  the  Zarathu.rtrians
+labour  are  opposed,  but  not  frustrated,  by  the  Daeva-worshipping  tribes  who  still  struggle  with  the  Zarathu.rtrians
 for  the  control  of  the  territory.     The  Kine  therefore  lifts
 
 chief  ideas  in  the  Zarathmtrian  philosophy  as  centring  in  its  dualism.  And
@@ -763,22 +703,19 @@ INTRODUCTION.  XXI
 
 
 her  wail  to  Ahura,  and  His  Righteous  Order,  Asha,  who
-respond  by  the  appointment  of  Zarathujtra,  as  the  indi-
-vidual entrusted  with  her  redemption  ;  and  he,  accepting
+respond  by  the  appointment  of  Zarathujtra,  as  the  individual entrusted  with  her  redemption  ;  and  he,  accepting
 his  commission,  begins  his  prophetic  labours.  From  this
 on  we  have  a  series  of  lamentations,  prayers,  praises,  and
 exhortations,  addressed  by  Zarathiutra  and  his  immediate
 associates  to  Ahura  and  the  people,  which  delineate  the
-public  and  personal  sorrows  in  detail,  utter  individual  sup-
-plications and  thanksgivings,  and  exhort  the  masses  assem-
+public  and  personal  sorrows  in  detail,  utter  individual  supplications and  thanksgivings,  and  exhort  the  masses  assem-
 bled in  special  or  periodical  meetings.
 
 Here,  it  must  be  noted,  that  the  population  among  whom
 these  hymns  were  composed  were  chiefly  agriculturists  and
 herdsmen.  Circumstances  which  affected  their  interests  as
 such  were  of  course  paramount  with  them,  and  as  their  land
-and  cattle  represented  their  most  valuable  property,  what-
-ever threatened  them  was  the  most  of  all  things  to  be
+and  cattle  represented  their  most  valuable  property,  whatever threatened  them  was  the  most  of  all  things  to  be
 dreaded.  Accordingly  rapine,  and  the  raid,  whether  coming
 from  Turanians  or  Daeva-worshippers,  were  regarded  as  the
 most  terrible  of  visitations.  But  their  moral  earnestness  in
@@ -789,8 +726,7 @@ suffered  as  an  affliction ;  and  their  animus  in  this  particular
 was  most  exceptional.  While  the  above  facts  explain  to  us,
 on  the  one  hand,  the  principal  deities,  and  the  peculiar  hopes
 and  fears  which  inspired  their  worship,  they  lead  us  also,  on
-the  other  hand,  to  wonder  the  more  that  so  subtle  a  theo-
-logy as  we  have  found  expressed  in  the  documents,  should
+the  other  hand,  to  wonder  the  more  that  so  subtle  a  theology as  we  have  found  expressed  in  the  documents,  should
 have  arisen  amid  so  simple  a  community.
 
 In  the  course  of  the  recitations  we  have  also  special
@@ -809,8 +745,7 @@ seems  to  have  been  foreign  to  them.
 XX11  THE    GATHAS.
 
 
-the  line,  or  in  skirmish.  We  conclude  from  the  pre-
-valence of  a  thankful  tone  that  the  Zarathuj-trians  gained
+the  line,  or  in  skirmish.  We  conclude  from  the  prevalence of  a  thankful  tone  that  the  Zarathuj-trians  gained
 the  upper  hand  during  the  Gathic  period,  but  although
 the  result  may  have  been  assured,  the  struggle  at  the
 time  of  the  last  Gatha  was  by  no  means  over.  In  the
@@ -825,16 +760,14 @@ we  may  say  that  he  and  his  companions  were  struggling  to
 establish  a  kingdom  under  the  Sovereign  Power  of  God,
 whose  first  care  was  to  relieve  suffering,  and  shelter  the
 honest  and  industrious  poor1.  This  kingdom  was  to  be
-conducted  according  to  His  holy  Order,  or  plan  of  salva-
-tion, to  be  permeated  by  living  Piety,  and  with  the  ultimate
+conducted  according  to  His  holy  Order,  or  plan  of  salvation, to  be  permeated  by  living  Piety,  and  with  the  ultimate
 object  of  bestowing  both  Weal  and  Immortality.  This  high
 ideal  was  also  not  left  as  an  abstract  principle  to  work  its
 way.  Society  was  far  too  rudimental,  then  as  ever,  for  the
 efficient  survival  of  unsupported  principles.  A  compact
 hierarchical  system  seems  to  have  existed,  the  sacramental
 object  being  the  fire,  before  which  a  priesthood  officiated
-with  unwavering  zeal ;  but  the  traces  of  this  are  very  re-
-stricted in  the  Gathas,  and,  according  to  all  probability,  it
+with  unwavering  zeal ;  but  the  traces  of  this  are  very  restricted in  the  Gathas,  and,  according  to  all  probability,  it
 was  greatly  less  elaborated  at  their  period  than  later.
 
 Such,  in  very  brief  outline,  is  the  system  which  meets  us
@@ -847,8 +780,7 @@ when  and  where  did  he  live  ? '  diversity  of  opinion  still  pre-
 
 '  The  practical  operation  of  this  prime  principle  seems  to  have  been  at  times
 beneficial  to  a  remarkable,  if  not  unparalleled,  exient.  Under  the  Sasanids
-the  lower  classes  enjoyed  great  protection.  See  the  remarks  of  Professor  Kaw-
-linson,  The  Seventh  Oriental  Monarchy,  page  440  ff.  Also  recall  the  extra-
+the  lower  classes  enjoyed  great  protection.  See  the  remarks  of  Professor  Kawlinson,  The  Seventh  Oriental  Monarchy,  page  440  ff.  Also  recall  the  extra-
 ordinary treatment  of  the  poor  during  the  drought  and  famine  under  Pcrozes.
 The  account  is,  however,  exaggerated.  SeeTabari  II,  p.  130,  cited  by  Professor
 Rawlinson,  p.  314.
@@ -858,39 +790,32 @@ INTRODUCTION.  XX1I1
 
 
 vails,  so  much  so  that  as  regards  it  I  differ  slightly  even
-from  my  eminent  friend  and  predecessor.  As  such  differ-
-ences on  the  subject  of  the  Avesta  are  however  matters  of
+from  my  eminent  friend  and  predecessor.  As  such  differences on  the  subject  of  the  Avesta  are  however  matters  of
 course,  I  freely  state  my  impressions.  Who  was  then  the
 person,  if  any  person,  corresponding  to  the  name  Zarathiutra  '
 in  the  Gathas  ?  Did  he  exist,  and  was  he  really  the  author  i
 of  these  ancient  hymns  ?  That  he  existed  as  an  historical
-person  I  have  already  affirmed  ;  and  as  to  the  hymns  as-
-cribed to  him  and  his  immediate  associates,  I  have  also  no
+person  I  have  already  affirmed  ;  and  as  to  the  hymns  ascribed to  him  and  his  immediate  associates,  I  have  also  no
 hesitation.  Parts  of  these  productions  may  have  been
 interpolated,  but  the  Gathas,  as  a  whole,  show  great  unity,
 and  the  interpolations  are  made  in  the  spirit  of  the  original.
 And  that  Zarathuj-tra  was  the  name  of  the  individual  in
-which  this  unity  centres,  we  have  no  sufficient  reason  to  dis-
-pute. The  name  is  mentioned  in  the  most  sacred  connec-
+which  this  unity  centres,  we  have  no  sufficient  reason  to  dispute. The  name  is  mentioned  in  the  most  sacred  connec-
 tions, as  well  as  in  those  which  depict  the  reality  of  the
 prophet's  sufferings ;  and  there  is  no  reason  at  all  why  it
-should  have  come  down  endeared  to  humanity,  unless  it  be-
-longed to  one,  who,  in  the  presence  of  a  Sovereign  and  a
+should  have  come  down  endeared  to  humanity,  unless  it  belonged to  one,  who,  in  the  presence  of  a  Sovereign  and  a
 kingdom,  could  impress  his  personality  with  greatly  more
 defined  distinctness  upon  his  contemporaries  than  either
 that  Sovereign  or  any  of  his  adherents  1.  That  any  forgery
 is  present  in  the  Gathas,  any  desire  to  palm  off  doctrines
-upon  the  sacred  community  in  the  name  of  the  great  pro-
-phet, as  in  the  Vendidad  and  later  Yasna,  is  quite  out  of
+upon  the  sacred  community  in  the  name  of  the  great  prophet, as  in  the  Vendidad  and  later  Yasna,  is  quite  out  of
 the  question.  The  Gathas  are  genuine  in  their  mass,  as  I
 believe  no  scholar  anywhere  now  questions.
 
 For  the  characteristics  of  this  great  teacher,  I  refer  to  the
-hymns  themselves,  which  stand  alone,  of  their  kind,  in  litera-
-ture. Nowhere,  at  their  period,  had  there  been  a  human
+hymns  themselves,  which  stand  alone,  of  their  kind,  in  literature. Nowhere,  at  their  period,  had  there  been  a  human
 voice,  so  far  as  we  have  any  evidence,  which  uttered  thoughts
-like  these.  They  are  now,  some  of  them,  the  great  com-
-monplaces of  philosophical  religion;  but  till  then  they  were
+like  these.  They  are  now,  some  of  them,  the  great  commonplaces of  philosophical  religion;  but  till  then  they  were
 unheard  (agiuta).
 
 And  yet  we  must  say  of  Zarathiutra,  as  of  all  our  first
@@ -932,8 +857,7 @@ Archangels,  or  as  the  thoughts  and  beneficent  intentions  of
 the  Deity  reproduced  in  men.  I  can  recall  no  passage
 whatsoever  in  which  Vohu  Manah,  Asha,  Khshathra,  &c,
 are  not  strongly  felt  to  mean  exactly  what  they  signify  as
-words,  while  at  the  same  time  they  are  prayed  to,  and  be-
-sought to  come,  as  Gods  or  angels.  Either  the  personifica-
+words,  while  at  the  same  time  they  are  prayed  to,  and  besought to  come,  as  Gods  or  angels.  Either  the  personifica-
 tion is  purely  poetical,  which  would  make  it,  as  found  in  the
 Gathas,  considering  their  age  and  place,  a  very  remarkable
 phenomenon,  or  else,  having  dogmatically  personified  the
@@ -954,12 +878,10 @@ making  every  laudatory  statement,  however,  I  take  for
 granted,  what  I  fear  is  nevertheless  far  from  uniformly
 granted,  and  that  is,  that  the  reader  will  weigh  well  what
 makes  all  the  difference,  namely,  the  very  remote  period  at
-which  we  are  obliged  to  place  the  Gathas,  and  the  compara-
-tively rude  civilisation  amid  which  we  must  suppose  them
+which  we  are  obliged  to  place  the  Gathas,  and  the  comparatively rude  civilisation  amid  which  we  must  suppose  them
 to  have  been  composed.  We  must  set  the  ideas  which  lie
 before  us  in  this  framework  of  time  and  place.  If  we  fail
-to  do  so,  as  a  matter  of  course  the  thoughts  and  their  ex-
-pression will  contain  for  us  nothing  whatever  new ;  but  as
+to  do  so,  as  a  matter  of  course  the  thoughts  and  their  expression will  contain  for  us  nothing  whatever  new ;  but  as
 viewed  in  the  light  of  relation, after  long  weighing  the  matter,
 I  cannot  refer  to  them  in  any  other  terms  than  those  which  I
 use,  without  becoming  aware  that  I  am  recoiling  through  fear
@@ -974,8 +896,7 @@ yet  endowed  with  rare  persistence  to  overcome  it.
 
 His  sphere  was  not  restricted.  The  objects  which  con-  ]
 cern  him  are  provinces  as  well  as  villages,  armies  as  well  as
-individuals.  His  circle  was  the  reigning  prince  and  promi-
-nent chieftains,  a  few  gifted  men  deeply  embued  with
+individuals.  His  circle  was  the  reigning  prince  and  prominent chieftains,  a  few  gifted  men  deeply  embued  with
 religious  veneration  for  the  sacred  compositions  which  had
 come  down  to  them  from  primeval  antiquity  in  ancient
 metres  ;  and  these,  together  with  a  priesthood  exceptionally
@@ -1002,22 +923,16 @@ priority,  while  others  are  mere  displacements  of  the  Gathas
 made  for  liturgical  purposes,  as  Genesis  is  read  in  churches
 sometimes  after  portions  of  later  matter.     But  a  book  may
 be  cited  by  another  when  it  is  merely  prior  to  it,  and  not
-much  older.    Nor  do  I  lay  too  much  stress  upon  the  differ-
-ence between  the  Gathic  dialect  and  the  so-called  Zend  ;
+much  older.    Nor  do  I  lay  too  much  stress  upon  the  difference between  the  Gathic  dialect  and  the  so-called  Zend  ;
 but  I  do  lay  very  great  stress  upon  the  totally  dissimilar
 atmospheres  of  the  two  portions.     In  the  Gathas  all  is  sober
 and  real.    The  Kine's  soul  is  indeed  poetically  described  as
-wailing  aloud,  and   the  Deity  with   His  Immortals  is  re-
-ported as  speaking,  hearing,   and  seeing ;  but  with   these
-rhetorical  exceptions,  everything  which  occupies  the  atten-
-tion is  practical  in  the  extreme.     G;rhma  and  B^«dva,  the
-Karpans,  the  Kavis,  and  the  Usi^s(-ks),  are  no  mythical  mon-
-sters.    No  dragon  threatens  the  settlements,  and  no  fabulous
+wailing  aloud,  and   the  Deity  with   His  Immortals  is  reported as  speaking,  hearing,   and  seeing ;  but  with   these
+rhetorical  exceptions,  everything  which  occupies  the  attention is  practical  in  the  extreme.     G;rhma  and  B^«dva,  the
+Karpans,  the  Kavis,  and  the  Usi^s(-ks),  are  no  mythical  monsters.    No  dragon  threatens  the  settlements,  and  no  fabulous
 beings  defend  them.     Zarathiutra,  Gamaspa,  Frashao-stra,
-and   Maidhyomah  ;   the  Spitamas,   Hvogvas,   the   Ha.eka.t-
-aspas,  are  as  real,  and  are  alluded  to  with  a  simplicity  as
-unconscious,  as  any  characters  in  history.     Except  inspira-
-tion, there  are  also  no  miracles.     All  the  action  is  made  up
+and   Maidhyomah  ;   the  Spitamas,   Hvogvas,   the   Ha.eka.taspas,  are  as  real,  and  are  alluded  to  with  a  simplicity  as
+unconscious,  as  any  characters  in  history.     Except  inspiration, there  are  also  no  miracles.     All  the  action  is  made  up
 of  the  exertions  and  passions  of  living  and  suffering  men.
 Let  the  Zendist  study  the  Gathas  well,  and  then  let  him
 turn  to  the  Ya.rts  or  the  Vendidad  ;  he  will  go  from  the
@@ -1045,8 +960,7 @@ speculation,    or  dogmatic   statement,   are   prominent ;   but
 nothing  is  certain  except  that  Y.  LI  1 1   must  have  been
 written  after  Zarathmtra  had  attained  to  a  sufficient  age  to
 have   a   marriageable   daughter.     An  ancient   leader    may
-have  reached  a  position  of  influence  from  doctrinal  produc-
-tions, and  afterwards  expressed  the  vicissitudes  of  an  active
+have  reached  a  position  of  influence  from  doctrinal  productions, and  afterwards  expressed  the  vicissitudes  of  an  active
 political  career.     One  circumstance  must,  however,  be  held
 in  view  ;  and  that  is,  that  neither  the  Gathas,  nor  any  other
 ancient  pieces,  which   were  hardly   at   first   committed    to
@@ -1056,19 +970,16 @@ them  into  better  (?)  order  at  each  subsequent  delivery,  and
 verses  which  referred  originally  to  one  period  of  time  would,
 if  especially  striking,  be  reproduced  in  subsequent  effusions.
 And  pieces  which  the  composer  may  have  left  in  one  shape,
-his  early  successors  would  be  likely  to  modify  by  interpola-
-tions, excerptions,  or  inversions.     I  believe  that  the  Gathas
+his  early  successors  would  be  likely  to  modify  by  interpolations, excerptions,  or  inversions.     I  believe  that  the  Gathas
 show  the  presence  of  less  foreign  matter  than  is  usual,  and
-that  the  interpolations  which  are  present  in  them,  are  them-
-selves of  great  antiquity,  or  even  practically  synchronous
+that  the  interpolations  which  are  present  in  them,  are  themselves of  great  antiquity,  or  even  practically  synchronous
 with  the  original.     Certainly  few  of  them  show  anything
 like  an  ingenious  attempt  at  imitation.     If  there  exist  any
 interpolations,  and  we  may  say  a  priori  that  all  existing
 compositions  of  their  antiquity  are,  and  must  have  been,
 interpolated,  the  additions  were  the  work  of  the  author's
 earliest  disciples  who  composed  fully  in  his  spirit,  while  the
-position  of  sections  in  this  or  that  Gatha  has  little  or  no-
-thing to  do  with  the  question  of  their  relative  age,  the  metres
+position  of  sections  in  this  or  that  Gatha  has  little  or  nothing to  do  with  the  question  of  their  relative  age,  the  metres
 being  all  ancient,  and  the  U^tavaiti,  Spewta-mainyu,  &c,
 showing  as  decided  evidence  of  originality  as  any  parts  of  the
 Ahunavaiti.    (See  remarks  on  the  Gatha  U^tavaiti,  p.  91  ff.)
@@ -1088,8 +999,7 @@ XXVlil  THE    GATHAS.
 Professor  Darmesteter,  but  let  it  be  understood,  only  or
 chiefly,  as  to  the  place  of  origin  of  the  Gathas.  I  think  that
 the  scene  of  the  Gathic  and  original  Zarathiutrianism  was
-the  North-east  of  Iran,  and  that  the  later  Avesta  was  com-
-posed during  the  hundreds  of  years  during  which  the  Zara-
+the  North-east  of  Iran,  and  that  the  later  Avesta  was  composed during  the  hundreds  of  years  during  which  the  Zara-
 thiutrian  tribes  were  migrating  westward  in  Media.
 
 One  certain  fact  is  the  occurrence  of  geographical  names
@@ -1115,16 +1025,14 @@ of  Zarathiutra.  From  some  reason,  probably  the  migration
 of  Zarathiutrian  influence  toward  the  West,  Ragha  became
 a  stronghold  of  his  descendants  ;  or  his  name,  entirely  apart
 from  all  family  connection,  may  have  become  a  title  for
-leading  politico-ecclesiastical  officials  (compare  the  Zara-
-thiutrotema).  There  is  no  mention  of  a  foreign  origin  of
+leading  politico-ecclesiastical  officials  (compare  the  Zarathiutrotema).  There  is  no  mention  of  a  foreign  origin  of
 Zarathiutra  in  the  Gathas,  nor  is  there  any  expression  from
 which  we  might  infer  it.  His  family  seems  as  settled  as
 himself.  The  Spitamas  are  mentioned  with  the  same
 familiarity  as  the  Hvogvas,  and  the  persons  named  are,
 some  of  them,  related  to  him.  He  was  no  isolated  figure
 among  the  people  whom  he  influenced.  Unless  then  we
-can  place  Vutaspa  and  c7amaspa,  Frashao.ftra,  and  Maid-
-hyomah,  in  Ragha,  we  cannot  well  place  Zarathiutra  there,
+can  place  Vutaspa  and  c7amaspa,  Frashao.ftra,  and  Maidhyomah,  in  Ragha,  we  cannot  well  place  Zarathiutra  there,
 
 
 INTRODUCTION.  XXIX
@@ -1163,8 +1071,7 @@ well  as  the  later  Avesta,  together  with  their  interpretations,
 have  come  down  to  us  from  the  West,  where  the  Greeks
 also  found  their  system  from  the  time  of  Herodotus  down.
 
-Added  to  which  we  must  acknowledge  that  the  differ-
-ences in  dialect  between  the  Avesta  and  Veda  make  a  wide
+Added  to  which  we  must  acknowledge  that  the  differences in  dialect  between  the  Avesta  and  Veda  make  a  wide
 separation  as  to  place  far  from  startling,  while  myths  as  well
 as  religions  migrate  as  by  a  law.
 
@@ -1189,8 +1096,7 @@ dates  which  the  Inscriptions  cover.
 
 As  to  this  disputed  point,  I  would  answer  that  their
 theology  may  be  the  Zarathujtrian  in  a  sense  as  yet  too
-little  applied  to  the  term,  for  it  may  be  Gathic  Zaratluu-
-trianism,  or  at  least  a  Mazda-worship  at  a  stage  of  develop-
+little  applied  to  the  term,  for  it  may  be  Gathic  Zaratluutrianism,  or  at  least  a  Mazda-worship  at  a  stage  of  develop-
 ment corresponding  to  the  stage  of  Mazda-worship  in  which
 it  stood  when  Zarathuj'tra  left  it ;  but  that  it  was  the  later
 and  fully  developed  Zarathiutrianism,  provided  with  all  the
@@ -1208,13 +1114,11 @@ entire  system  of  Zarathiutra  was  known  in  the  near
 neighbourhood,  and  must  have  been  very  familiar  to  the
 persons  who  ordered  the  Inscriptions  to  be  cut.  To  this
 the  necessary  rejoinder  might  be  made,  that  the  familiarity
-of  Darius  with  the  later,  or  indeed  with  the  original,  Zara-
-thiutrianism,  if  he  was  familiar  with  it,  renders  the  absence
+of  Darius  with  the  later,  or  indeed  with  the  original,  Zarathiutrianism,  if  he  was  familiar  with  it,  renders  the  absence
 of  the  name  of  Angra  Mainyu  at  least  all  the  more  striking.
 
 What  more  imperative  call  could  there  be  for  the  use  of
-that  name  than  in  denouncing  the  opponents  whose  over-
-throw forms  the  theme  of  the  mighty  writings  ?
+that  name  than  in  denouncing  the  opponents  whose  overthrow forms  the  theme  of  the  mighty  writings  ?
 
 As  the  '  grace  of  Auramazda '  is  mentioned  on  the  one
 
@@ -1261,15 +1165,13 @@ Zarathiutrianism,  which  had  found  its  way  during  the
 long  periods  of  its  existence  westward  before  the  later
 Zarathuj-trianism  arose  in  the  western  settlements,  or  else
 that  it,  the  religion  of  the  Inscriptions,  simply  originated
-where  we  find  it,  from  an  original  and  wide-spread  Mazda-
-worship  which  had  not  yet  forbidden  the  burial  of  the  dead  2.
+where  we  find  it,  from  an  original  and  wide-spread  Mazdaworship  which  had  not  yet  forbidden  the  burial  of  the  dead  2.
 
 
 1  And  all  are  the  Inscriptions  of  buried  men.  See  also  the  statements  of
 Professor  de  Harlez  on  the  subject.
 
-2  And  perhaps  it  had  also  not  forbidden  cremation.  Geiger  (see  '  The  Civili-
-sation of  the  Eastern  Iranians  in  Ancient  Times  ;'  English  translation  by  Darab
+2  And  perhaps  it  had  also  not  forbidden  cremation.  Geiger  (see  '  The  Civilisation of  the  Eastern  Iranians  in  Ancient  Times  ;'  English  translation  by  Darab
 Dastur  Peshotan  Sa%"ana,  B.  A.,  p.  90)  conjectures  that  the  dakhma  were
 originally  places  for  cremation.  If  this  is  a  correct  surmise,  both  burial  and
 cremation  may  have  been  permitted  at  the  Gathic  period,  being  forbidden  long
@@ -1283,8 +1185,7 @@ XXX11  THE    GATHAS.
 
 
 That  such  a  Mazda-worship  once  existed  in  primeval  Iran
-seems  certain,  and  that  it  was  greatly  earlier  than  Zara-
-thu^trianism  *.  It  is  also  very  probable  that  some  form  of
+seems  certain,  and  that  it  was  greatly  earlier  than  Zarathu^trianism  *.  It  is  also  very  probable  that  some  form  of
 it  survived  unadulterated  by  Zarathmtrianism.  And  this  is
 as  probable  a  priori  when  we  reflect  on  what  might  have
 happened,  as  it  is  when  we  seek  for  an  explanation  of  the
@@ -1297,8 +1198,7 @@ the  original  term  for  God.  In  the  East  it  began  to  acquire
 additional  peculiarities  out  of  which,  when  Zarathostra  arose,
 he  developed  his  original  system,  while  in  other  parts  of
 Iran,  and  with  great  probability  in  Persia,  it  retained  its
-original  simplicity.  At  subsequent  periods  only,  the  Zara-
-thiutrian  form  spread,  first  at  the  Gathic  stage,  and  later  a
+original  simplicity.  At  subsequent  periods  only,  the  Zarathiutrian  form  spread,  first  at  the  Gathic  stage,  and  later  a
 second  time,  and  from  a  centre  further  West,  as  the  Zarathu^-
 trianism  of  the  later  Avesta  which  is  reported  by  the
 Greeks.  Either  then  Darius  was  a  Mazda-worshipper,  like
@@ -1315,8 +1215,7 @@ from  the  later  Zarathu^trianism ;  and  that  it  must  be  so
 severed  on  some  theory  or  other,  all  with  one  voice  seem
 to  agree.
 
-In  deciding  for  the  North-east  a  as  the  scene  of  Zara-
-thujrtra's  personal  labours,  and  for  the  Gathic  dialect  as
+In  deciding  for  the  North-east  a  as  the  scene  of  Zarathujrtra's  personal  labours,  and  for  the  Gathic  dialect  as
 its  more  particular  form  of  speech,  I  am  not,  I  trust,  solely
 
 1  Compare  even  the  Scythic  nameThamimasadas,  cited  by  Professor  Rawlinson
@@ -1334,16 +1233,14 @@ INTRODUCTION.  XXX111
 
 or  unduly  influenced  by  the  occurrence  of  the  eastern  names
 in  the  first  chapter  of  the  Vendidad,  for  those  names  may
-indicate  primeval  homes  from  which  the  ancestors  of  Zara-
-thostra    migrated   toward   the  west    centuries  before   his
+indicate  primeval  homes  from  which  the  ancestors  of  Zarathostra    migrated   toward   the  west    centuries  before   his
 appearance.      I    merely    say   that   the   occurrence   of  the
 names    shows   that   the   ancestors    of    the    Zarathiutrian
 Mazda-worshippers  once  lived  in  East  Iran  ;  and  if  that  is
 the  case,  their  descendants  may  have  still  lived  there  when
 Zarathujtra  developed  his  system,  and  it  is  also  possible
 that  masses  of  Zarathu^trians  may  long   have   remained
-behind  in  the  East  Iranian  mountains  after  the  Zarathiu-
-trians  of  the  later  Avesta  had  gone  west.     The  descendant
+behind  in  the  East  Iranian  mountains  after  the  Zarathiutrians  of  the  later  Avesta  had  gone  west.     The  descendant
 may  have  arisen  in  the  home  of  his  ancestors,  and  in  fact,
 other  things  being  equal,  there  is  a  stronger  probability
 that  he  arose  there.     I  do  not  think  that  the  appearance  of
@@ -1357,20 +1254,17 @@ the  place  where  we  should  suppose   the  Indo-aryans   to
 have  left   the  Irano-aryans,   as  they  descended    into  the
 Vungab.
 
-Having  formed  an  opinion  as  to  the  place  where  Zara-
-thu^tra  laboured,  and  proceeding  to  the  question  as  to
+Having  formed  an  opinion  as  to  the  place  where  Zarathu^tra  laboured,  and  proceeding  to  the  question  as  to
 when  he  lived  and  wrote  the  Gathas,  we  find  ourselves
 under  the  necessity  to  form  our  estimate  first  as  to  the  age
 of  the  later  parts  of  the  Avesta.  While  interpolated
 passages,  or  indeed  whole  Ya.sts,  may  be  very  late,  I
 cannot  place  the  later  Avesta  in  its  bulk  later  than  the
-Cuneiform  Inscriptions  of  Darius,  for  the  fact  that  the  In-
-scriptions preserve  either  a  pre-Zarathu.s±rian  Mazdaism,  or
+Cuneiform  Inscriptions  of  Darius,  for  the  fact  that  the  Inscriptions preserve  either  a  pre-Zarathu.s±rian  Mazdaism,  or
 the  Zarathiutrianism  of  the  Gathas  long  previous  as  it  was
 in  its  origin  to  that  of  the  Vendidad,  has  nothing  whatever
 to  do  with  the  relative  age  of  the  Inscriptions  themselves.
-The  later  Avesta,  with  its  forbiddal  of  burial  and  crema-
-tion, must  have  existed  for  a  long  time  side  by  side  with
+The  later  Avesta,  with  its  forbiddal  of  burial  and  cremation, must  have  existed  for  a  long  time  side  by  side  with
 that  religion  which  has  left  sepulchral  monuments,  and
 [31]  c
 
@@ -1381,19 +1275,15 @@ that  religion  which  has  left  sepulchral  monuments,  and
 XXXIV  THE    GATHAS.
 
 
-whose  adherents  could  contemplate  the  burning  of  cap-
-tives ;    and  analogous  facts  are  universal.
+whose  adherents  could  contemplate  the  burning  of  captives ;    and  analogous  facts  are  universal.
 
 But  aside  from  the  seeming  difference  in  the  type  of
 Mazda-worship,  which  simply  severs  the  religion  of  the
-Inscriptions  from  that  of  the  more  developed  Zarathuj-
-trianism,  and  which  has,  as  we  have  seen,  nothing  whatever
-to  do  with  the  question  of  the  relative  ages  of  the  Inscrip-
-tions and  the  later  Avesta,  I  think  that  we  have  some  signs
+Inscriptions  from  that  of  the  more  developed  Zarathujtrianism,  and  which  has,  as  we  have  seen,  nothing  whatever
+to  do  with  the  question  of  the  relative  ages  of  the  Inscriptions and  the  later  Avesta,  I  think  that  we  have  some  signs
 of  a  later  age  in  the  language  of  the  Inscriptions  apart
 from  their  contents.  As,  however,  Darmesteter  is  inclined
-to  regard  the  West  Iranian,  or  Cuneiform,  as  better  pre-
-served than  the  Zend  of  the  later  Avesta,  I  make  my  few
+to  regard  the  West  Iranian,  or  Cuneiform,  as  better  preserved than  the  Zend  of  the  later  Avesta,  I  make  my  few
 remarks  only  with  great  hesitation.
 
 The  termination  ^OO*^-,  which  would  otherwise  be  justly
@@ -1401,14 +1291,12 @@ considered  as  an  evidence  of  degeneration  in  the  Zend,  I
 regard  as  merely  a  wrong  writing  for  -ahya  =  Gathic  ahya.
 The  letter  )0  is  a  relic  of  the  time  when  the  Avesta  stood
 in  the  Pahlavi  character ;  I  think  that  it  is  here  merely  a
-lengthened  KJ^ya1.  Terminations  also  seem  much  muti-
-lated in  the  Cuneiform,  and  the  name  Auramazda  written
+lengthened  KJ^ya1.  Terminations  also  seem  much  mutilated in  the  Cuneiform,  and  the  name  Auramazda  written
 as  one  word,  does  not  seem  to  me  so  original.
 
 We  must  indeed  remember  that  a  later  generation,  owing
 to  an  isolated  position,  often  preserves  an  older  dialect,  as
-it  may  an  older  form  of  religion,  whereas  an  earlier  genera-
-tion, if  its  predecessors  have  lived  in  a  compact  society  in
+it  may  an  older  form  of  religion,  whereas  an  earlier  generation, if  its  predecessors  have  lived  in  a  compact  society  in
 smaller  districts,  varies  the  ancient  forms,  as  the  old
 Indian  developed  into  Sanskrit  and  Prakrit.  Still  we  have
 little  reason  to  be  certain  that  the  civilisation  of  Media  and
@@ -1435,8 +1323,7 @@ Persia  was  either  more  or  less  condensed  and  social  than
 that  of  Bactria  and  the  East.  But  beside  a  priority  to  the
 Inscriptions,  we  are  obliged  to  consider  the  time  needed
 for  developments.  The  Greeks  of  the  time  of  Herodotus
-probably,  and  those  later  certainly,  found  a  form  of  Zara-
-thuJtrianism  in  full  development  in  Media ;  but  if  the  con-
+probably,  and  those  later  certainly,  found  a  form  of  ZarathuJtrianism  in  full  development  in  Media ;  but  if  the  con-
 temporaries of  Herodotus  heard  familiarly  of  a  Zarathuj--
 trianism  there,  a  long  period  of  time  must  be  allowed  for
 its  development  if  it  originated  in  Media,  and  a  still  longer
@@ -1459,14 +1346,12 @@ Avesta  must  be  placed  so  long  before  the  Inscriptions  of
 Darius,  where  shall  we  place  the  earlier  Avesta  with  its
 most  important  remaining  fragments,  the  Gathas2?
 
-After  studying  the  Gathas  carefully  in  detail,  and  be-
-coming also  familiar  with  them  as  a  whole  by  frequent
+After  studying  the  Gathas  carefully  in  detail,  and  becoming also  familiar  with  them  as  a  whole  by  frequent
 perusal,  we  must  measure  the  time  needed  for  the  change
 from  their  tone  to  that  of  the  later  Avesta.  Could  it  have
 been  less  than  a  century,  or  centuries?  Was  not  as  much
 time  needed  for  the  Zarathmtra  of  the  Gathas  to  become
-the  Zarathuj-tra  of  the  later  Avesta,  as  was  afterwards  con-
-sumed by  the  migration  of  the  creed  from  the  North-east,
+the  Zarathuj-tra  of  the  later  Avesta,  as  was  afterwards  consumed by  the  migration  of  the  creed  from  the  North-east,
 if  it  really  originated  there  ?     As  there  is  undoubtedly  a
 
 
@@ -1487,8 +1372,7 @@ difference  of  several  centuries  between  the  dates  of  the
 newest  and  oldest  parts  of  the  later  Avesta,  so  we  must
 think  of  a  considerable  interval  between  the  oldest  parts  of
 the  later  Avesta  and  the  latest  parts  of  the  older  Avesta,
-for  there  is  the  other  consideration  which  imperatively  con-
-strains us  to  avoid  concluding  for  short  periods  in  the
+for  there  is  the  other  consideration  which  imperatively  constrains us  to  avoid  concluding  for  short  periods  in  the
 stages  of  development.  The  Vedic  Hymns,  sung  in  metres
 closely  similar  to  those  in  both  the  Gathas  and  the  later
 Avesta,  and  naming  gods,  demons,  and  heroes  so  closely
@@ -1500,23 +1384,18 @@ difference  is.  The  oldest  Riks  have  now  an  established
 antiquity  of  about  4000  ;  were  the  hymns  sung  on  the
 other  side  of  the  mountains  as  old  ?  The  metres  of  these
 latter  are  as  old  as  those  of  the  iv'zg-veda,  if  not  older,  and
-their  grammatical  forms  and  word  structure  are  often  posi-
-tively nearer  the  original  Aryan  from  which  both  proceeded.
+their  grammatical  forms  and  word  structure  are  often  positively nearer  the  original  Aryan  from  which  both  proceeded.
 If  it  were  not  for  two  circumstances,  we  should  be  forced  to
 ask  very  seriously  which  were  the  older,  and  to  abandon
-altogether  our  mention  of  later  dates.  Those  circum-
-stances are  the  absence  of  the  Aryan  gods  from  the  Gathas  ;
+altogether  our  mention  of  later  dates.  Those  circumstances are  the  absence  of  the  Aryan  gods  from  the  Gathas  ;
 and,  secondly,  their  abstract  conceptions.  These  latter  are
 so  little  offset  with  expected  puerilities  that  it  is  often  hard
 to  believe  that  the  Gathas  are  old  at  all.  Their  antiquity
-is  placed  beyond  dispute  by  the  historic  mention  of  Zara-
-thiutra.  But,  if  Zarathujtra  were  not  indisputably  a  living
+is  placed  beyond  dispute  by  the  historic  mention  of  Zarathiutra.  But,  if  Zarathujtra  were  not  indisputably  a  living
 man  in  the  Gathas,  their  depth  and  refinement,  together
-with  the  absence  of  Mithra,  Haoma,  &c,  would,  in  them-
-selves considered,  force  us  to  place  them  rather  late.  As  it
+with  the  absence  of  Mithra,  Haoma,  &c,  would,  in  themselves considered,  force  us  to  place  them  rather  late.  As  it
 is,  the  absence  of  Mithra  and  his  colleagues,  who  reappear  in
-the  later  Avesta,  permits  us  to  place  the  Gathas  con-
-siderably later  than  the  oldest  Riks.  For  no  sudden  and
+the  later  Avesta,  permits  us  to  place  the  Gathas  considerably later  than  the  oldest  Riks.  For  no  sudden  and
 intentional  dismissal  of  the  ancient  gods  is  to  be  accepted
 with  Haug,  nor  any  religious  schism  as  the  cause  (!)  of  the
 migration  of  the  Indians  toward  the  south.  The  process
@@ -1540,14 +1419,11 @@ have  been  composed  as  early  as  about  1500  B.C.,  it  is  also
 possible  to  place  them  as  late  as  (say)  900-1200  B.C..  while
 the  fragments  in  the  Gathic  dialect  must  be  considered
 somewhat  later.  The  dates  of  the  composition  of  the  several
-parts  of  the  later  Avesta,  on  the  other  hand,  must  be  sup-
-posed to  extend  over  many  centuries,  as  the  various  sections
+parts  of  the  later  Avesta,  on  the  other  hand,  must  be  supposed to  extend  over  many  centuries,  as  the  various  sections
 in  the  Zend  dialect  are  so  much  more  numerous  than  those
-in  the  Gathic,  the  Gathas  themselves  representing  practi-
-cally but  one  date.  Placing  then  the  oldest  portions  of  the
+in  the  Gathic,  the  Gathas  themselves  representing  practically but  one  date.  Placing  then  the  oldest  portions  of  the
 later  Avesta  somewhat  earlier  than  Darius,  we  are  obliged  to
-extend  the  period  during  which  its  several  parts  were  com-
-posed so  far  as  perhaps  to  the  third  or  fourth  century
+extend  the  period  during  which  its  several  parts  were  composed so  far  as  perhaps  to  the  third  or  fourth  century
 before  Christ,  the  half-spurious  matter  contained  in  them
 being  regarded  as  indefinitely  later.
 
@@ -1556,8 +1432,7 @@ It  seems  necessary  to  state  here  for  the  information  of
 non-specialists,  and  as  bearing  very  seriously  upon  all  the
 questions  involved,  that  a  very  unusually  severe  controversy
 prevails  upon  the  exegesis  of  the  Avesta,  and  that  it
-centres  in  the  question  as  to  the  value  of  the  Asiatic  trans-
-lations of  it.  A  similar  debate  was  once  held  on  the  Rig-
+centres  in  the  question  as  to  the  value  of  the  Asiatic  translations of  it.  A  similar  debate  was  once  held  on  the  Rig-
 veda,  but  that  is  now  silenced,  all  agreeing  that  the
 traditional  renderings  are  neither  to  be  slavishly  followed,
 nor  blindly  ignored.  Very  different  has  been  the  fate  of
@@ -1637,16 +1512,13 @@ of  the  Parsi  Persian  translations,  they  must  be  read  with
 especial  attention  to  their  originals.  After  these  original
 translations  have  been  fully  mastered,  and  compared  with
 an  improved  rendering  of  the  Gathic,  likewise  also  studied
-in  the  full  light  of  the  Veda,  the  patient  scholar  will  be  sur-
-prised at  the  result.  He  will  find  that  to  a  certain  exten-
+in  the  full  light  of  the  Veda,  the  patient  scholar  will  be  surprised at  the  result.  He  will  find  that  to  a  certain  exten-
 sive degree,  the  two  sources  of  information  coincide  when
-reasonably  estimated,  and,  moreover,  that  where  the  Pah-
-lavi gives  us  an  indication  differing  from  that  derived  from
+reasonably  estimated,  and,  moreover,  that  where  the  Pahlavi gives  us  an  indication  differing  from  that  derived  from
 the  Vedic,  the  surmise  of  the  Pahlavi  is  the  more  often
 correct.  I  say  '  reasonably  estimated,'  for  not  only  is  the
 Pahlavi,  as  a  less  highly  inflected  language,  incapable  of
-rendering  the  Avesta  literally,  but  its  authors  do  not  uni-
-formly make  the  attempt  to  do  so ;  nor  do  they  always
+rendering  the  Avesta  literally,  but  its  authors  do  not  uniformly make  the  attempt  to  do  so ;  nor  do  they  always
 follow  the  order  of  the  Gathic  or  Zend.  Their  translations
 generally  run  word  for  word  as  to  their  outward  forms,  for
 the  ancient  interpreters  probably  regarded  such  a  following
@@ -1664,8 +1536,7 @@ than  those  from  both  text  and  gloss.
 xl  THE    GATHAS.
 
 
-selves  compelled  to  resort  to  the  most  important  excep-
-tions. And,  lastly,  the  rejection,  or  total  neglect  of  the
+selves  compelled  to  resort  to  the  most  important  exceptions. And,  lastly,  the  rejection,  or  total  neglect  of  the
 Pahlavi  translations  and  their  successors,  on  the  ground
 that  they  contain  errors,  is  a  policy  which  seems  to  me
 defective,  and  to  the  last  degree.  What  absurdities  can
@@ -1685,16 +1556,13 @@ Copenhagen,  numbered  5)  dates  from  the  year  1323  a.d.  ;
 and  what  were  the  dates  of  the  ancient  documents  before
 the  eyes  of  the  Pahlavi  translator  who  writes  in  it  ?
 
-We  must  now  ask  whether  our  present  Pahlavi  transla-
-tions are  improvements  upon  their  predecessors,  or  the
-reverse.  That  they  are  improvements  in  some  few  in-
-stances is  undeniable,  for,  as  we  have  seen,  some  of  the
+We  must  now  ask  whether  our  present  Pahlavi  translations are  improvements  upon  their  predecessors,  or  the
+reverse.  That  they  are  improvements  in  some  few  instances is  undeniable,  for,  as  we  have  seen,  some  of  the
 glosses  to  them  from  later  hands  give  the  truth  where  the
 text  is  wide.  But  the  glosses  which  show  a  later  origin  are,
 for  the  most  part,  inferior  in  richness  to  the  texts.  Here
 and  there  a  talented,  or  fortunate,  Parsi  threw  new  light  on
-the  subject,  but  the  general  tendency  was  one  of  deteriora-
-tion ;  that  is,  before  the  revival  of  Parsi-learning  under
+the  subject,  but  the  general  tendency  was  one  of  deterioration ;  that  is,  before  the  revival  of  Parsi-learning  under
 Neryosangh  (400-500  years  ago).  This  deterioration  would
 naturally  decrease  as  we  approach  successive  periods  in
 going  back  to  the  time  when  MSS.  of  the  Gathas  existed
@@ -1712,8 +1580,7 @@ Persian  through  the  Ancient  Persian  and  the  Pahlavi.
 INTRODUCTION.  xli
 
 
-gilded  letters  (for  it  is  not  positively  proved  that  the  in-
-formants of  Herodotus  heard  the  Magian  priests  singing
+gilded  letters  (for  it  is  not  positively  proved  that  the  informants of  Herodotus  heard  the  Magian  priests  singing
 their  '  theogonies '  from  written  books).  At  each  of  these
 periods  scholarship  is  proved  to  have  been  competent  by
 the  results  which  it  accomplished.  The  first  of  them  we
@@ -1728,10 +1595,8 @@ were  more  valuable  than  those  of  any  later  date.  As  we  go
 further  back  we  come  upon  another  period,  when,  under
 Shapur  II,  Adarbad  Mahraspend  brought  the  surviving
 portions  of  the  Zend-Avesta  together  (about  a.d.  330).
-Still  earlier  the  servants  of  Artaxerxes,  the  Sasanian,  col-
-lected yet  more  abundant  writings,  when  Zarathiutrianism
-was  instituted  as  the  state  religion.  Then,  under  the  Arsa-
-cids  (possibly  under  Vologeses  the  first),  those  most
+Still  earlier  the  servants  of  Artaxerxes,  the  Sasanian,  collected yet  more  abundant  writings,  when  Zarathiutrianism
+was  instituted  as  the  state  religion.  Then,  under  the  Arsacids  (possibly  under  Vologeses  the  first),  those  most
 competent  in  the  realm  were  directed  to  gather  the  then
 extant  documents.
 
@@ -1772,28 +1637,23 @@ we  have  yet  the  transliteration  of  the  Gathas  to  account  for,
 which  perhaps  were  brought  over  (after  long  oral  life)  from
 the  so-called  Aryan  character,  while  the  existence  of  a  gradual
 tradition  of  a  scholarship  does  not  refute  the  fact  that  this
-scholarship  must  have  been  at  times  of  the  highest  cha-
-racter ;  it  makes  high  scholarship  more  probable.
+scholarship  must  have  been  at  times  of  the  highest  character ;  it  makes  high  scholarship  more  probable.
 
-What  translations,  we  again  remark,  may  have  ex-
-isted among  these  early  sages !  And,  if  they  could  once
+What  translations,  we  again  remark,  may  have  existed among  these  early  sages !  And,  if  they  could  once
 make  translations  fresh  from  the  exegesis  of  the  latest  Zend
 writers  themselves,  is  it  not  practically  certain,  considering
 the  tenacity  of  life  manifested  by  Zoroastrianism,  that  their
 explanations  still  lurk  in  the  commentaries  which  have
 come  down  to  us.  And  if  these  inferences  be  at  all  correct,
-how  should  we  labour  to  discover  from  our  present  transla-
-tions what  these  predecessors  were ;  and  what  scholar
+how  should  we  labour  to  discover  from  our  present  translations what  these  predecessors  were ;  and  what  scholar
 cannot  perceive  that  gems  of  evidence  as  to  texts  and  sense
 may  yet  linger  in  those  of  our  present  Pahlavi  translations
 which  may  yet  be  otherwise  most  filled  with  phantastic
-error?  And  shall  we  not  therefore  conclude  that  their  ex-
-pected inaccuracies,  whether  small  or  great,  cannot  destroy
+error?  And  shall  we  not  therefore  conclude  that  their  expected inaccuracies,  whether  small  or  great,  cannot  destroy
 their  inherent  value  ?  What,  then,  are  we  to  think  of  it,
 when  the  New  Persian,  a  quasi-daughter  of  the  Pahlavi,  is
 superficially  referred  to  for  linguistic  analogies,  when  even
-the  Armenian  is  also  scanned,  while  the  Pahlavi  is  left  un-
-mastered  ?  Is  a  quasi-mother  language  of  the  New  Persian
+the  Armenian  is  also  scanned,  while  the  Pahlavi  is  left  unmastered  ?  Is  a  quasi-mother  language  of  the  New  Persian
 any  the  less  likely  to  afford  linguistic  analogies  because  an
 actual  translation  of  the  Avesta  has  been  attempted  in  it,
 and  because  the  Avesta  once  stood  in  its  characters,  while
@@ -1818,30 +1678,24 @@ words  and  phrases  are  often  obvious  at  a  glance,  and  we
 should  never  suspend  our  efforts  to  discover  all  the  traces
 of  metre  which  exist  in  the  Avesta,  as  a  necessary  step  to
 the  restoration  of  the  documents  to  their  first  form;  but  we
-should  avoid  exaggeration,  and  a  carelessly  dogmatic  pro-
-cedure in  insisting  upon  reducing  lines  to  an  exact,  or  to  a
-supposed  exact,  number  of  syllables2.     I  regard  it  as  un-
-wise to  suppose  that  the  metrical  lines  of  the  Avesta,  or
-indeed  of  any  very  ancient  poetical  matter,  have  been  com-
-posed with  every  line  filed  into  exact  proportions.     The
+should  avoid  exaggeration,  and  a  carelessly  dogmatic  procedure in  insisting  upon  reducing  lines  to  an  exact,  or  to  a
+supposed  exact,  number  of  syllables2.     I  regard  it  as  unwise to  suppose  that  the  metrical  lines  of  the  Avesta,  or
+indeed  of  any  very  ancient  poetical  matter,  have  been  composed with  every  line  filed  into  exact  proportions.     The
 ancient  poets  would  have  brought  out  the  measures  in  many
 a  place  by  accent  and  a  sandhi  which  are  no  longer  known
 to  us.     The  Vedic  Hymns  may,  to  a  great  extent,  form  an
-exception,  but  who  would  not  say  that  where  uniform  even-
-ness is  at  hand,  an  effort  to  improve  the  metre  has  often
+exception,  but  who  would  not  say  that  where  uniform  evenness is  at  hand,  an  effort  to  improve  the  metre  has  often
 corrupted  the  text.     Priests  or  reciters  of  intelligence  would
 here  and  there  round  off  an  awkward  strophe,  as  year  after
 year  they  felt  the   unevenness  of  numbers.     Metre  must
-inevitably  bring  a  perfecting  corruption  at  times,  as  a  de-
-ficiency in  the  metre  must  also  prove  a  marring  corruption.
+inevitably  bring  a  perfecting  corruption  at  times,  as  a  deficiency in  the  metre  must  also  prove  a  marring  corruption.
 Cases  should  be  carefully  discriminated.    The  expression  of
 passionate  feeling,   for  instance,  would   be   likely  to   cause
 
 
 1  One  of  the  most  powerful  tributes  ever  paid  to  the  Pahlavi  translators  was
 Haug's  conversion  to  them.  Before  studying  them  he  lost  no  opportunity  to
-stigmatise  their  deficiencies ;  later,  however,  he  followed  them  in  many  an  im-
-portant place,  and  sometimes  with  little  reserve.
+stigmatise  their  deficiencies ;  later,  however,  he  followed  them  in  many  an  important place,  and  sometimes  with  little  reserve.
 
 As  writers  of  the  opposed  extremes  seem  honestly  convinced  of  the  radical
 error  of  each  other's  views,  it  is  obvious  that  association  and  interest  have  much
@@ -1873,8 +1727,7 @@ readings  before  us  which  could  not  have  been  original.  The
 composers  have  indeed  here  and  there  constructed  sentences
 which  they  either  could  not,  or  would  not,  make  easy,  but
 as  a  general  thing  we  may  say,  that  where  the  text,  as  it
-stands,  gives  no  satisfactory  sense  to  us,  after  we  have  ex-
-hausted the  resources  of  previous  Asiatic  scholarship,  or
+stands,  gives  no  satisfactory  sense  to  us,  after  we  have  exhausted the  resources  of  previous  Asiatic  scholarship,  or
 direct  analogy,  in  our  efforts  to  explain  it,  it  is  in  that  case
 not  the  text  as  the  composer  delivered  it.  We  are  then
 reduced  to  conjecture,  for  how  are  we  to  translate  a  text
@@ -1882,24 +1735,19 @@ before  we  are  certain  that  it  is  integral  ?  Our  first  efforts
 should  be  directed  to  the  detection  of  losses  ;  for  a  text  may
 still  be  of  great  value  when  considered  as  a  mass  of  broken
 sentences,  for,  if  we  are  certain  that  such  is  its  character,  we
-can  often  fill  out  the  missing  members  with  much  proba-
-bility. But  whether  we  insert  supplementary  conjectures,
+can  often  fill  out  the  missing  members  with  much  probability. But  whether  we  insert  supplementary  conjectures,
 or  merely  bracket  later  interpolations,  we  must  by  all  means
 in  cases  of  real  necessity  make  the  effort  to  amend  the  text
 (as  also  in  the  Veda).
 
 Even  if  we  fail  in  our  attempted  improvements,  we  are
 often  little  worse  off  than  before,  for  whereas  it  is  possible,
-or  even  probable,  that  the  composers  wrote  what  we  sug-
-gest, it  is  sometimes  not  possible  that  they  wrote  exactly
-what  stands  in  our  texts.  We  should  even  suggest  alterna-
-tive readings  where  our  present  ones  are  only  less  probable
+or  even  probable,  that  the  composers  wrote  what  we  suggest, it  is  sometimes  not  possible  that  they  wrote  exactly
+what  stands  in  our  texts.  We  should  even  suggest  alternative readings  where  our  present  ones  are  only  less  probable
 (for  the  suggestion  of  an  alternative  is  not  the  wholesale
 destruction  of  a  sentence),  while  even  when  we  declare  their
-outcoming  meaning  totally  unsatisfactory,  the  MSS.  still  re-
-main to  other  writers  to  begin  on  afresh.  And  in  estimating
-what  would  be  reasonable  meanings,  we  should  guard  care-
-fully against  both  extremes,  and  we  should  especially  exer-
+outcoming  meaning  totally  unsatisfactory,  the  MSS.  still  remain to  other  writers  to  begin  on  afresh.  And  in  estimating
+what  would  be  reasonable  meanings,  we  should  guard  carefully against  both  extremes,  and  we  should  especially  exer-
 cise a  strong  negative  criticism  against  the  recognition  of
 
 
@@ -1942,8 +1790,7 @@ qualifying  words  often  in  apposition  or  agreement  with  it.
 Also  in  the  conception  of  translations,  authors  seem  to  sup-
 
 
-1  Non-specialists  must  not  suppose  that  our  texts  are  more  apparently  uncer-
-tain than  (say)  many  portions  of  the  Old  Testament.  Large  portions  of  them
+1  Non-specialists  must  not  suppose  that  our  texts  are  more  apparently  uncertain than  (say)  many  portions  of  the  Old  Testament.  Large  portions  of  them
 are  also  as  clear,  at  least,  as  the  AYg-veda ;  and  the  emendations  referred  to
 need  very  seldom  affect  the  doctrines.  Let  the  learned  public,  however,  insist
 on  scholars  making  honest  attempts  to  render  the  texts  as  they  stand  before
@@ -1962,14 +1809,12 @@ to  poetic  expression.
 It  has  been  already  implied,  and  it  has  been  taken  for
 granted  throughout1,  that  the  Avesta  should  be  closely
 compared  with  the  Veda,  but  let  it  never  be  forgotten,  in
-the  name  of  science,  that  the  force  and  meaning  of  analo-
-gous words  in  the  Gathic  and  the  Vedic  cannot  be  expected
+the  name  of  science,  that  the  force  and  meaning  of  analogous words  in  the  Gathic  and  the  Vedic  cannot  be  expected
 to  be  uniformly  identical,  considering  the  extent  of  territory,
 and  the  length  of  time,  by  which  those  who  spoke  the  two
 languages  were  separated.  The  meanings  of  the  Vedic  words
 could  not  hold  their  own  even  in  India,  developing  into  the
-Sanskrit  and  Prakrit  which  differ  widely,  how  truly  mis-
-guided is  it  therefore  to  attribute  necessarily  the  same
+Sanskrit  and  Prakrit  which  differ  widely,  how  truly  misguided is  it  therefore  to  attribute  necessarily  the  same
 shades  of  meaning  to  the  terms  of  the  two  sister  tongues.
 If  even  the  Gathic  hymns  stood  in  the  Indian  forms,  and
 had  been  discovered  in  India,  having  also  reference  to  Indian
@@ -1983,14 +1828,12 @@ Zarathu.rtrian  theology.  Besides  its  connection  with  the
 modern  philosophy  through  Gnosticism  which  has  been
 already  noticed2,  a  relation  between  it  and  the  Jewish
 theology  since  the  Captivity  has  long  been  mentioned.
-The  hagiology,  the  demonology,  the  temptation,  the  para-
-bles, the  eschatology,  have  all  been  supposed  to  show  traces
+The  hagiology,  the  demonology,  the  temptation,  the  parables, the  eschatology,  have  all  been  supposed  to  show  traces
 of  the  time  when  Persian  power  was  dominant  in  Jerusalem,
 and  with  it,  Persian  literature ;  but  the  discussion  of  such
 questions  requires  separate  treatises.
 
-As  to  the  general  benefit  which  has  resulted  from  Zara-
-thuj-trianism  in  the  past,  few  reflections  need  to  be  added.
+As  to  the  general  benefit  which  has  resulted  from  Zarathuj-trianism  in  the  past,  few  reflections  need  to  be  added.
 If  the  mental  illumination  and  spiritual  elevation  of  many
 millions  of  mankind,  throughout  long  periods  of  time,  are  of
 
@@ -2010,8 +1853,7 @@ and  deed '  should  be  recognised  as  essential  to  all  sanctity,
 even  in  the  presence  of  a  superstitious  ceremonial,  that  a
 judgment  should  have  been  expected  according  to  the
 deeds  done  in  the  body,  and  the  soul  consigned  to  a  Heaven
-of  virtue  or  to  a  Hell  of  vice,  its  recompense  being  pro-
-nounced by  the  happy  or  stricken  conscience,  these  can
+of  virtue  or  to  a  Hell  of  vice,  its  recompense  being  pronounced by  the  happy  or  stricken  conscience,  these  can
 never  be  regarded  by  serious  historians  as  matters  of  little
 moment,  and  if,  on  the  contrary,  they  are  allowed  to  be
 matters  of  great  moment,  the  Zend-Avesta  should  be
@@ -2053,9 +1895,6 @@ Z.  D.  M.  G.  =  Zeitschrift  der  deutschen  morgenlandischen  Gesellschaft.
 An  asterisk  denotes  irregularities.
 
 
-THE    GATHAS.
-
-
 The  five  Gathas  of  Zarathiutra  and  his  immediate
 followers  are  placed  here  before  the  other  parts  of  the
 Yasna  on  account  of  their  higher  antiquity.  There  existed
@@ -2065,8 +1904,7 @@ The  more  remarkable  circumstances  connected  with
 them  have  been  already  discussed  in  the  Introduction.
 
 If  it  is  necessary  to  recall  any  of  them  here,  the  most
-prominent  would  be  that  they  are  undoubtedly  the  pro-
-ductions of  a  small  group  of  influential  men  who  are
+prominent  would  be  that  they  are  undoubtedly  the  productions of  a  small  group  of  influential  men  who  are
 referred  to  in  them  for  the  most  part  by  name  ;  that
 Zarathuitra,  everywhere  else  nearly  or  quite  a  demi-god,
 is  here  a  struggling  and  suffering  man.  He  is  a  prophet,
@@ -2074,8 +1912,7 @@ or  a  divinely  appointed  instructor,  but  thoroughly  human
 and  real,  so  far  as  his  situations  become  apparent.
 
 Secondly,  their  historical  tone  may  be  emphasised.
-Their  doctrines  and  exhortations  concern  an  actual  reli-
-gious movement  taking  place  contemporaneously  with  their
+Their  doctrines  and  exhortations  concern  an  actual  religious movement  taking  place  contemporaneously  with  their
 composition  ;  and  that  movement  was  exceptionally  pure
 and  most  earnest.  Their  tone  is  therefore  everywhere
 serious.  Nearly  all  myths  are  dropped,  and  likewise,  as
@@ -2098,45 +1935,35 @@ desire  to  benefit  the  spiritual  and  moral  natures  of  those  to
 [31]  B
 
 
-THE   GATHAS.
-
-
 whom  it  was  addressed  as  any  which  the  world  had  yet
 seen.  Nay,  he  may  provisionally  accept  the  opinion  that
-nowhere  else  are  such  traces  of  intelligent  religious  earnest-
-ness to  be  found  as  existing  at  the  period  of  the  Gathas  or
+nowhere  else  are  such  traces  of  intelligent  religious  earnestness to  be  found  as  existing  at  the  period  of  the  Gathas  or
 before  them,  save  in  the  Semitic  scriptures.
 
 As  to  their  speculative  depth;  wherever  theosophical
 speculation  is  put  into  words,  the  evidence  of  their  grasp
-and  subjectivity  becomes  positive.  As  the  extent  of  docu-
-ments necessarily  produces  a  certain  impression  upon  the
+and  subjectivity  becomes  positive.  As  the  extent  of  documents necessarily  produces  a  certain  impression  upon  the
 mind  of  an  investigator,  it  must  not  be  forgotten  that  the
-Gathas  were  in  all  probability  many  times  more  volu-
-minous than  the  fragments  which  now  remain  to  us.  The
+Gathas  were  in  all  probability  many  times  more  voluminous than  the  fragments  which  now  remain  to  us.  The
 historian  may  argue  from  what  has  survived  to  what  once
 existed,  and  the  inevitable  conclusion  is  imposing.
 
-For  additional  details  see  the  Introduction,  and  the  sum-
-maries at  the  head  of  each  Gatha  and  chapter.
+For  additional  details  see  the  Introduction,  and  the  summaries at  the  head  of  each  Gatha  and  chapter.
 
 THE    GATHA(A)   AHUNAVAITI(l).
 
 This    Gatha,  consisting  of  seven  chapters  of  the  Yasna
 (XXVIII-XXXIV),  takes  its  name  from  the  similarity  of
 its  metre  to  that  of  the  Ahuna-vairya  formula  which  also
-occurs  before  it  in  the  Yasna.     It  is  composed  of  homo-
-geneous material,  but  as  its  material  is  also  homogeneous
-with  that  of  the  other  Gathas,  it  probably  owes  its  exist-
-ence as  a  group  of  sections  to  its  metrical  form.     Its  lines
+occurs  before  it  in  the  Yasna.     It  is  composed  of  homogeneous material,  but  as  its  material  is  also  homogeneous
+with  that  of  the  other  Gathas,  it  probably  owes  its  existence as  a  group  of  sections  to  its  metrical  form.     Its  lines
 were  intended  to  number  sixteen  syllables,  and  they  are
 put  together  in   stanzas  of  three.     It  is  all  very  ancient
 and  probably  nearly  all  original  with  Zarathujtra  himself,
 though    parts   seem    to    be   put   into   the   mouths   of  his
 immediate  associates  and  disciples.     Whether  any  persons
 existed   in  the  immediate   circle   of  the   sage   capable   of
-composing  hymns  like  these  unaided,  is  of  course  a  ques-
-tion ;    but  that   some  were   able  to   put   poetical   matter
+composing  hymns  like  these  unaided,  is  of  course  a  question ;    but  that   some  were   able  to   put   poetical   matter
 together  under  his  guidance  or  inspiration  seems  certain.
 An  analysis  and  general  summary  is  placed  before  each
 chapter  as  more  convenient  than  massing  them  all  together.
@@ -2148,16 +1975,12 @@ imitated  in  parts  of  the  translations.
 A
 
 
-THE     GATHAS.
-
-
 YASNA    XXIX.
 
 The  Wail   of   the    Kine.      The   Call  of
 Zarathustra.     His  Prayer  for  Aid.
 
-This  chapter,  the  second  in  the  manuscripts  of  the  Gatha  Ahuna-
-vaiti,  is  placed  here  as  in  a  more  natural  order.  ■  It  may  be  regarded
+This  chapter,  the  second  in  the  manuscripts  of  the  Gatha  Ahunavaiti,  is  placed  here  as  in  a  more  natural  order.  ■  It  may  be  regarded
 as  containing  the  terminus  a  quo  of  the  divine  revelation.  The
 Soul  of  the  Kine,  as  representing  the  herds  of  the  holy  Iranian
 people,  their  only  means  of  honourable  livelihood,  raises  its  voice,
@@ -2192,9 +2015,6 @@ destiny ;  that  the  religious  revelation  afforded  by  the  Ratu  (as  in
 B  2
 
 
-THE   GATHAS.
-
-
 chapter  XXX)  was  intended  to  meet  these  problems  so  far  as  they
 could  be  answered1,  and  that  therefore  all  who  were  entering  upon
 active  enterprises  were  in  the  act  of  approaching,  not  him  Asha,
@@ -2202,8 +2022,7 @@ the  subordinate  archangel,  but  Mazda  himself,  who  was  the
 greatest  of  beings,  and  alone  able  to  answer  their  prayers  and
 questions.
 
-4.  Zarathustra  2,  poetically  conceived  to  be  present,  here  inter-
-venes to  reaffirm  the  homage  just  paid  by  Asha.  He  declares
+4.  Zarathustra  2,  poetically  conceived  to  be  present,  here  intervenes to  reaffirm  the  homage  just  paid  by  Asha.  He  declares
 Ahura  Mazda  to  be  himself  the  most  mindful  of  all  the  previously
 revealed  assertions  and  directions  uttered  by  himself,  and  fulfilled
 in  the  actions  of  both  the  Demon-gods  of  their  enemies,  and  of
@@ -2232,8 +2051,7 @@ listener  in  the  colloquy  between  the  Deity,  the  Kine's  Soul,  and
 Asha,  the  Righteous  Order,  so  the  other  Immortals  beside  Asha 3,
 here  join  in,  as  if  the  appointment  just  made  had  not  been  heard,  or
 was  incredible  (see  below).  Mazda  is  indeed  declared  to  have
-revealed  the  sacred  Word-of-reason  in  harmony  with  the  con-
-senting Righteousness,  and  to  have  provided  food  for  the  Kine  and
+revealed  the  sacred  Word-of-reason  in  harmony  with  the  consenting Righteousness,  and  to  have  provided  food  for  the  Kine  and
 
 
 1  Something  like  this  is  implied.
@@ -2264,8 +2082,7 @@ no  means  impressed  by  the  personality  of  the  individual  selected
 as  her  guardian.  So  far  from  being  the  demi-god  of  the  other
 parts  of  the  Avesta,  Zarathuytra's  declarations  are  characterised
 by  her  as  '  the  voice  of  a  pusillanimous  man,'  while  she,  on  the
-contrary,  expected  one  truly  kingly  in  his  rank  and  characteris-
-tics, and  able  to  bring  his  desires  to  effect,  while  the  Bountiful
+contrary,  expected  one  truly  kingly  in  his  rank  and  characteristics, and  able  to  bring  his  desires  to  effect,  while  the  Bountiful
 Immortals  (or  the  attending  chieftains),  as  if  they  had  meant  their
 question  in  verse  7  to  be  a  question  uttered  in  mere  perplexity  or
 contempt,  join  in  with  chorus,  asking  when  indeed  an  effective  helper
@@ -2273,8 +2090,7 @@ will  be  provided.
 
 10.  Zarathustra,  undismayed  by  the  coldness  of  his  reception,
 enters  at  once  upon  his  office  as  priest  and  prophet,  praying  Ahura  for
-the  people  ;  and  recognising  the  names  of  the  '  Immortals,'  Khsha-
-thra,  Asha,  and  Vohu  Manah,  in  their  original  sense,  asks  Ahura
+the  people  ;  and  recognising  the  names  of  the  '  Immortals,'  Khshathra,  Asha,  and  Vohu  Manah,  in  their  original  sense,  asks  Ahura
 to  grant  to  the  people  in  their  straits,  a  Sovereign  Authority
 established  in  the  Divine  Order,  and  bestowing  the  needed  quiet
 and  happiness  for  which  the  suffering  provinces,  as  represented  by
@@ -2292,9 +2108,6 @@ he  entreats  Ahura  to  bestow  His  help  at  once  for  the  great  cause,
 and  to  a  very  abundant  degree,  upon  himself  and  his  associates.
 (It  is  singular  that  the  name  of  Aramaiti  does  not  occur  in  this
 section.)
-
-
-THE   GATHAS.
 
 
 Translation.
@@ -2322,20 +2135,17 @@ but  the  afflictions  complained  of  seem  rather  to  imply  active  violence
 '  yu '  and  '  vi '  would  be  written  much  alike  in  a  manuscript.
 
 4  Vasta  has  been  found,  as  I  understand,  in  some  manuscripts.
-The  Persian  manuscript  of  Haug  has  a  curious  vastiri</ar  (vasta-
-ridar  ?)  in  the  Pahlavi  text,  which  seems  to  confirm  vasta  in  the
+The  Persian  manuscript  of  Haug  has  a  curious  vastiri</ar  (vastaridar  ?)  in  the  Pahlavi  text,  which  seems  to  confirm  vasta  in  the
 sense  given.
 
 5  As  there  are  very  many  non-specialists  to  whom  it  is  important
 to  weigh  this  present  subject  as  closely  as'  it  may  be  possible,
 and  as  everything  here  is  a  matter  of  the  keenest  questioning
 among  experts,  I  add  occasionally  a  word-for-word  rendering,
-although  necessarily  very  uncouth  :  To  you  the  Kine's  soul  cried-
-complaining  :  For  whom  me  did  ye  fashion  ?  Who  me  made  ?
+although  necessarily  very  uncouth  :  To  you  the  Kine's  soul  criedcomplaining  :  For  whom  me  did  ye  fashion  ?  Who  me  made  ?
 Against  me  assaulting-rapine,  violence -and,  desolations-[blow],
 daring -insolence -and,  (thievish)  might -and  (possibly  change  the
-text).  Not  for  me  a  pasture-giver  than-you  other  ;  therefore  to-
-me teach-ye  good  (things)  for-the-pasture  (adj.  ace.  pi.  neut.).
+text).  Not  for  me  a  pasture-giver  than-you  other  ;  therefore  tome teach-ye  good  (things)  for-the-pasture  (adj.  ace.  pi.  neut.).
 
 6  I  fear  that  I  cannot  follow  Haug  in  his  later  view,  where  he
 follows  tradition  in  rather  an  extreme  manner,  rendering  'the  cutter
@@ -2350,8 +2160,7 @@ herds)  asked  of  Righteousness x :  How  (was)  thy
 guardian  for  the  Kine  (appointed)  by  thee  when,  as
 having  power  (over  all  her  fate),  ye  made  her  ?  (In
 what  manner  did  ye  secure)  for  her,  together  with
-pasture,  a  cattle-chief  who  was  both  skilled  and  like-
-wise energetic  ?  Whom  did  ye  select  -  as  her  (life's)
+pasture,  a  cattle-chief  who  was  both  skilled  and  likewise energetic  ?  Whom  did  ye  select  -  as  her  (life's)
 master   who    might    hurl    back    the    fury   of  the
 
 wicked  3  ?
@@ -2376,8 +2185,7 @@ also  Roth,  Z.D.M.  G.,  Bd.  25,  s.  9.)
 
 1  Observe  the  personification  of  righteousness.
 
-2  Or,  'what  salvation-lord,'  governed  by  data  from  the  pre-
-ceding line ;  so  also  the  Pahlavi  translator  raun  avo  pavan  nadukih
+2  Or,  'what  salvation-lord,'  governed  by  data  from  the  preceding line ;  so  also  the  Pahlavi  translator  raun  avo  pavan  nadukih
 khu^ai.   Ujta  occurs  only  here  as  a  verbal  form.    Supply  angha/  in  b.
 
 3  The  Pahlavi  aeshmo  anaer  zanlrno.
@@ -2398,9 +2206,6 @@ most  simply  explained  as  a  nom.  pi.  Recall  ma  masha  and  man(?)
 matha.    Otherwise,  'to  whom  I  will  come  with  activity  and  invoking.'
 
 
-8  THE    GATHAS.
-
-
 who   have   performed  their   actions  approach   with
 invocations.     (He  has  no  need  to  ask!)
 
@@ -2408,8 +2213,7 @@ Zarathuitra  intervenes  *.
 
 4.  The  Great  Creator 2  (is  himself)  most  mindful
 of  the  uttered  indications  which  have  been  fulfilled
-beforehand  hitherto  in  the  deeds  of 3  demon-
-gods  4  and  (good  or  evil)  men,  and  of  those  which
+beforehand  hitherto  in  the  deeds  of 3  demongods  4  and  (good  or  evil)  men,  and  of  those  which
 shall  be  fulfilled  by! them5  hereafter.  He  Ahura
 is  the  discerning  arbiter ;  so  shall  it  be  to  us  G  as  He
 shall  will 7 !
@@ -2425,8 +2229,7 @@ accepted  comparison  of  Mazdau  and  medha.     See  note  on  p.  104.
 3  Or,  '  He  has  done  by  Da6vas  ? '  If  thus,  absolute  and  not
 qualified  sovereignty  would  be  indicated.     See  the  last  line.
 
-*  Observe  that  while  '  by  Daeva-worshippers '  would  be  an  ad-
-mirable rendering  for  Daevair,  because  more  commonplace  and
+*  Observe  that  while  '  by  Daeva-worshippers '  would  be  an  admirable rendering  for  Daevair,  because  more  commonplace  and
 therefore  safer,  it  is  here  impossible  on  account  of  mashyai^a.  We
 are  closely  confined  to  the  acceptance  of  a  large  idea.  Ahura  was
 mindful  of  what  transpired  in  the  deeds  of  Daeva-gods,  and  not
@@ -2438,8 +2241,7 @@ but  not  probable,  that  a  special  predestination  may  be  indicated.
 
 G  '  To  us  men,'  not  to  us  Ameshospends,  of  course  !
 
-7  Verbatim.  Mazda  the-words  most-mindful  which  for  have-
-been-fulfilled  before  by-means-of-  (the  actions  of)  Daevas-and  men-
+7  Verbatim.  Mazda  the-words  most-mindful  which  for  havebeen-fulfilled  before  by-means-of-  (the  actions  of)  Daevas-and  men-
 and  what-and  (shall)-be-done  after,  He  the  discriminating  lord ;  so
 to-us  shall-it-be  as  He  shall-choose.
 
@@ -2447,8 +2249,7 @@ to-us  shall-it-be  as  He  shall-choose.
 and  in  the  previous  verse ;  '  the  soul  of  Righteousness '  is  of  course
 impossible.
 
-9  Some  have  referred  the  word  to  the  root  zan  obscurely  pre-
-sent in  it ;  otherwise  a  drivable  cow ;  one  mature  and  fit  for  use.
+9  Some  have  referred  the  word  to  the  root  zan  obscurely  present in  it ;  otherwise  a  drivable  cow ;  one  mature  and  fit  for  use.
 The  term  used  in  the  Vendidad  in  a  common  meaning  as  merely
 
 
@@ -2461,17 +2262,14 @@ Great  Creator1  with  questions  in  our  doubt2;  (and
 He  will  answer).
 
 Not  for  the  righteous  liver,  not  for  the  thrifty
-(tiller  of  the  earth),  shall  there  be  destruction3  to-
-gether with  the  wicked!
+(tiller  of  the  earth),  shall  there  be  destruction3  together with  the  wicked!
 
 Ahura.
 
 6.  Upon  this  the  Lord,  the  Great  Creator,  He
-who  understands  the  mysterious  grace4  by  His  in-
-sight 5,  spake  thus:  Not  in  this  manner6  is  a  spiritual
+who  understands  the  mysterious  grace4  by  His  insight 5,  spake  thus:  Not  in  this  manner6  is  a  spiritual
 master  found  for  us,  nor  a  chieftain  moved  by
-Righteousness  and  appointed  (in  its  spirit);  there-
-fore Thee  7  have  I  named 8  (as  such  a  head)  to  the
+Righteousness  and  appointed  (in  its  spirit);  therefore Thee  7  have  I  named 8  (as  such  a  head)  to  the
 diligent  tiller  of  the  ground  ° !
 
 designating  a  cow  at  a  certain  age,  may  be  the  familiar  use  of  an
@@ -2500,10 +2298,8 @@ previous  verses.
 
 8  Appointed.
 
-9  Verbatim.  Thereupon  spake  Ahura  Mazda  knowing  the-
-wonderful  (thing)  through-insight  (?)  not  thus  a  master  found,  nor  a
-ruler  righteous-order-from-even  from,  therefore  for  thee  to-the-
-thrifty-and  to-the-husbandman-and  (I)  as-a-creator  I-have-made.
+9  Verbatim.  Thereupon  spake  Ahura  Mazda  knowing  thewonderful  (thing)  through-insight  (?)  not  thus  a  master  found,  nor  a
+ruler  righteous-order-from-even  from,  therefore  for  thee  to-thethrifty-and  to-the-husbandman-and  (I)  as-a-creator  I-have-made.
 
 
 IO  THE    GATHAS.
@@ -2511,13 +2307,11 @@ IO  THE    GATHAS.
 
 The  Ameshospends 1.
 
-7.  Mazda  has  created  the  inspired  Word-of-
-reason  which  is  a  Mathra  of  fatness  (for  the
+7.  Mazda  has  created  the  inspired  Word-ofreason  which  is  a  Mathra  of  fatness  (for  the
 offering),  the  (Divine)  Righteousness  consenting
 with  Him  in  his  deed.  Food  he  has  prepared  for
 the  Kine  and  for  the  eaters2,  He  the  one  bountiful
-with  his  (saving)  doctrine  ;  but  whom  hast  Thou,  en-
-dowed with  the  Good  Mind,  who  may  give  forth
+with  his  (saving)  doctrine  ;  but  whom  hast  Thou,  endowed with  the  Good  Mind,  who  may  give  forth
 those  (doctrines)  by  word  of  mouth  to  mortals3?
 
 Ahura.
@@ -2533,14 +2327,12 @@ to  stretch  the  meaning  more  than  this.  Converting  instructions
 are  elsewhere  suggested  for  '  all  mankind.'
 
 3  The  translation  of  Neryosangh  is  added  here  not  merely  because
-it  is  of  interest,  but  because  it  is,  together  with  the  Pahlavi  transla-
-tion, of  the  last  importance  in  forming  correct  conclusions.  It
+it  is  of  interest,  but  because  it  is,  together  with  the  Pahlavi  translation, of  the  last  importance  in  forming  correct  conclusions.  It
 may  be  rendered  as  follows;  and  the  reader  may  regard  it  as  a
 specimen,  but  by  no  means  a  particularly  favourable  one.  At
 the  words  azutofa  and  maretaeibyo  different  texts  were  before  him
 and  the  Pahlavi  translator  as  well.  Those  words  are  elsewhere
-rendered  by  the  latter  ^arpih  and  anjfitaan :  This  greatest  magni-
-tude (sic)  of  the  Mathra,  the  Lord  produced  together  with  righteous-
+rendered  by  the  latter  ^arpih  and  anjfitaan :  This  greatest  magnitude (sic)  of  the  Mathra,  the  Lord  produced  together  with  righteous-
 ness as  his  fellow-worker  [  ].  The  Great  Wise  One  discloses  the
 herds  to  the  eaters;  and  he  discloses  also  the  great  matter  to
 the  well-taught  scholars.  Who  is  thine,  who  endowed  with  the
@@ -2548,8 +2340,7 @@ best  mind,  gives  the  two  things,  with  the  mouth  to  those  who  are
 prosecuting  studies  (sic)?  To  expect  an  ancient  rendering  to  be
 closer  would  be  unreasonable.  The  errors  (as  to  root)  are  not  errors,
 but  the  certain  signs  of  differing  MSS.  This  constantly  occurs ;  and
-it  is  hardly  necessary  to  add  that  sometimes  from  such  supposed  mis-
-takes we  get  the  only  possible  means  of  recovering  the  original  text.
+it  is  hardly  necessary  to  add  that  sometimes  from  such  supposed  mistakes we  get  the  only  possible  means  of  recovering  the  original  text.
 
 4  Repeating  the  announcement  in  verse  6.  The  aeva  in  6  would
 incline  one  to  read  aeva  (ye  ue  aeva),  but  the  manuscript  before
@@ -2584,10 +2375,8 @@ to  her 4  help  strong-handed 5  ?)
 1  So  the  Pahlavi  translator,  giving  the  only  critical  etymology  in
 his  hiidemunih,  the  gloss  aside.
 
-2  The  Pahlavi  text  corrected  by  the  Persian  MS.  may  be  ren-
-dered as  follows :  This  gift  I  obtained  [  ].  For  this  one  is  he
-who  was  listening  to  that  which  is  our  teaching,  Zartusht,  the  Spita-
-man.  For  us,  Auharmazd,  and  for  Aharayih  is  his  desire,  [that  is,
+2  The  Pahlavi  text  corrected  by  the  Persian  MS.  may  be  rendered as  follows :  This  gift  I  obtained  [  ].  For  this  one  is  he
+who  was  listening  to  that  which  is  our  teaching,  Zartusht,  the  Spitaman.  For  us,  Auharmazd,  and  for  Aharayih  is  his  desire,  [that  is,
 that  perfectly  performed  duty,  and  good  works  are  desired  by  him].
 He  recites  also  a  remedy-making  (free  or  erroneous),  [that  is,  he
 declares  a  remedy-making  against  the  Drug-  who  is  in  the  world] ;
@@ -2607,15 +2396,11 @@ to  the  first  person  like  the  possessive  sve ;  see  the  connection.
 5  Verbatim.     Thereupon-and  the  Kine's  Soul  wept :   (I)  who
 
 
-12  THE    GATHAS.
-
-
 Zarathu.stra 1.
 
 10.  Do  ye,  O  Ahura  and  thou,  O  Righteousness!
 grant  gladness  unto  these  (our  disciples),  and  the
-sovereign  Kingdom  (of  the  Deity)  such  as  (is  esta-
-blished) in  (His)  Good  Mind  by  which  one  bestows
+sovereign  Kingdom  (of  the  Deity)  such  as  (is  established) in  (His)  Good  Mind  by  which  one  bestows
 upon  them  the  peaceful  amenities  of  home  and
 quiet  happiness  (as  against  the  fearful  ravages
 which  they  suffer2),  for  of  these,  O  Great  Creator!
@@ -2628,8 +2413,7 @@ for  my  task  and  mission),  O  Great  Creator,  the
 Living  Lord!     (For  without    his  I  cannot  advance
 
 (lament)  one-not-able-to-effect-his-wish  in-wounding  as-a-master  (or,
-I  established  ?)  [  ],whom  as-against  I-wish  one  wish-controlling-and-
-effecting-as-a-sovereign.  When  ever  he  may-(shall)-be  who  to  her
+I  established  ?)  [  ],whom  as-against  I-wish  one  wish-controlling-andeffecting-as-a-sovereign.  When  ever  he  may-(shall)-be  who  to  her
 (possibly  to-me-myself  ?)  shall-give  effected-by-the-hand  help.
 
 1  Zarathurtra,  having  accepted  his  call  to  be  the  Ratu  or  his
@@ -2694,15 +2478,10 @@ than  the  Gathic  paiti-zanata.  This  Pahlavi  form  he  could  not  at
 first  believe  to  be  a  second  plural.  Indeed  the  Pahlavi  glossist
 may  have  taken  it  as  a  third  sg.  Neryosangh  therefore  abortively
 renders  word-for-word  as  follows :  You,  O  Great  Wise  One !  it
-offers  or  presents  more  excellently  through  the  '  greatest  exalta-
-tion '  (the  holy  cause).  But  he  recovers  himself  in  the  gloss  by
+offers  or  presents  more  excellently  through  the  '  greatest  exaltation '  (the  holy  cause).  But  he  recovers  himself  in  the  gloss  by
 reading  the  Pahlavi  pa^adahi^no  vadunyen  as  an  imperative :
-[Provide  a  reward  through  that  spotless  exaltation  (the  irreproach-
-able cause)]  continuing  :  Here,  O  Lord  !  is  the  gift  (which  is)  ours,
+[Provide  a  reward  through  that  spotless  exaltation  (the  irreproachable cause)]  continuing  :  Here,  O  Lord  !  is  the  gift  (which  is)  ours,
 and  (which  comes)  to  us  from  Thee.)
-
-
-14  THE    GATHAS.
 
 
 YASNA  XXVIII.
@@ -2775,18 +2554,15 @@ creatures  which  defile  our  sanctity,  or  endanger  our  lives.'
 
 7.  Alluding  immediately  to  this  revelation,  he  beseeches  Ahura
 once  more  to  '  come  with  His  Good  Mind,'  and  to  grant,  not  booty,
-nor  even  wealth,  but  '  Asha-gifts,'  and  (as  a  bestower  of  righteous-
-ness) long  life  and  powerful  spiritual  grace  to  the  leading  agent
+nor  even  wealth,  but  '  Asha-gifts,'  and  (as  a  bestower  of  righteousness) long  life  and  powerful  spiritual  grace  to  the  leading  agent
 Zarathmtra  (in  all  probability  the  composer  of  the  section),  and
 to  himself,  the  officiating  priest  with  his  helpers,  in  order  that,  not
 with  carnal  weapons,  but  by  his  '  lofty  '  and  holy  '  words,'  they  all
 combined  may  overcome  the  torments  of  the  ravagers  who  had
-made  havoc  of  the  settlements,  and  who  were  still  liable  to  over-
-whelm the  faithful  with  their  raids  and  rapine  (see  XLIV,  20).
+made  havoc  of  the  settlements,  and  who  were  still  liable  to  overwhelm the  faithful  with  their  raids  and  rapine  (see  XLIV,  20).
 
 8.  With  an  intentional  and  interesting  alliteration  he  prays  to
-Asha  for  an  ashi ;  that  is,  a  blessing,  even  the  strenuously  attained-
-to  gifts  of  the  great  Benevolence.  Aramaiti  likewise  becomes  the
+Asha  for  an  ashi ;  that  is,  a  blessing,  even  the  strenuously  attainedto  gifts  of  the  great  Benevolence.  Aramaiti  likewise  becomes  the
 object  of  his  petition  together  with  Ahura;  and  this  time  for  the
 benefit  of  Vutaspa  the  monarch,  and  for  himself  that  they  might
 hear  the  gracious  Mathras,  which  is  indeed  the  burden  of  the
@@ -2807,13 +2583,11 @@ I  6  THE    GATHAS.
 
 even  where  the  palate  and  the  olfactory  nerve  are  the  media  of  felicity
 or  of  torture,  there  also  conciliating  language  on  the  one  side,  or  'vile
-speech '  pointed  with  finest  irony  on  the  other,  is  equally  promi-
-nent.    It  is  the  mind  which  chiefly  enjoys  or  suffers.)
+speech '  pointed  with  finest  irony  on  the  other,  is  equally  prominent.    It  is  the  mind  which  chiefly  enjoys  or  suffers.)
 
 10.  Deeply  sensible  of  the  spiritual  benefits  for  which  he  is  asking,
 he  seems  touched  with  gratitude.  Accordingly  he  adds  one  more
-petition,  which  is,  that  he  and  his  coadjutors,  the  three  just  men-
-tioned, may  never  anger  the  indulgent  mercy  which  had  granted
+petition,  which  is,  that  he  and  his  coadjutors,  the  three  just  mentioned, may  never  anger  the  indulgent  mercy  which  had  granted
 them  their  request ;  and  that  they  may  persevere,  as  they  have  begun,
 in  the  strenuous  service  of  Ahura,  Asha,  and  Vohu  Manah.  For
 they  are,  as  he  declares,  easy  to  be  entreated,  and  beings  who
@@ -2832,16 +2606,14 @@ up  his  wishes,  giving  him  more  than  he  has  of  himself  either  the
 intelligence  or  the  grace  to  ask.
 
 12.  Having  added,  in  verse  after  verse,  some  particular  to
-heighten  the  fervour  of  his  request,  he  sums  up  all  in  a  final  ex-
-pression, as  remarkable  for  its  earnestness  as  for  its  depth,  and  begs
+heighten  the  fervour  of  his  request,  he  sums  up  all  in  a  final  expression, as  remarkable  for  its  earnestness  as  for  its  depth,  and  begs
 Ahura,  as  one  set  for  ever  for  the  defence  of  the  Righteous  Order
 and  the  Good  Mind  (whose  hallowed  influences  he  accurately  foresaw
 were  destined  to  endure  for  ages),  to  tell  him,  with  His  very  '  voice
 of  spirit,'  in  order  that  he  may  declare  them  to  the  waiting  masses,
 the  laws  which  pervade  the  moral  universe,  and  according  to  which
 it  arose.  For  according  to  these  holy  principles  and  so  alone,  could
-he  promulgate  a  system  which  might  reclaim  society  from  its  imper-
-fections and  the  Iranian  saint  from  his  sufferings.  Ahura  who,  be
+he  promulgate  a  system  which  might  reclaim  society  from  its  imperfections and  the  Iranian  saint  from  his  sufferings.  Ahura  who,  be
 it  remarked,  is  alone  addressed  in  this  culminating  verse,  hears  and
 answers  by  a  revelation  of  these  eternal  principles,  and  this  answer
 is  contained  in  chapter  XXX.  By  a  thorough  comprehension  of
@@ -2859,8 +2631,7 @@ Translation.
 
 i.  (A  strengthening  blessing1  is  the  thought,  a
 blessing  is  the  word,  a  blessing  is  the  deed  of  the
-righteous  Zarathustra.  May  the  Bountiful  Im-
-mortals 2  accept  and  help  on  3  the  chants.  Homage
+righteous  Zarathustra.  May  the  Bountiful  Immortals 2  accept  and  help  on  3  the  chants.  Homage
 to  you,  O  sacred  Gathas  4 !)
 
 2.  With  venerating  (desire)  for  this  (gift)  of  gracious
@@ -2868,8 +2639,7 @@ help,  O  Mazda5,  and  stretching  forth  my  hands  (to
 Thee)  I  pray  for  the  first  (blessing)  of  (Thy)  bountiful
 Spirit ;  (that  is,  I  beseech  of  Thee  that  my)  actions
 
-1  Yanim  cannot  well  mean  '  revealed,'  except  by  the  most  far-
-fetched conception.  The  Indian  yana,  as  in  devayana,  should  give
+1  Yanim  cannot  well  mean  '  revealed,'  except  by  the  most  farfetched conception.  The  Indian  yana,  as  in  devayana,  should  give
 the  fundamental  idea,  easily  reconcileable  as  it  is  with  the  ancient
 rendering  of  the  Pahlavi  translator.
 
@@ -2884,26 +2654,19 @@ does  not  occur.
 It  is,  however,  in  the  Gathic  dialect,  and  as  it  needs  not,  or  perhaps
 cannot,  be  considered  an  intentional  imitation,  it  must  be  very  old.
 
-5  Vocative  with  the  Vendidad  Sadah,  otherwise  the  accumula-
-tion of  genitives  would  be  suspicious.  Ahura  is,  however,  beyond
+5  Vocative  with  the  Vendidad  Sadah,  otherwise  the  accumulation of  genitives  would  be  suspicious.  Ahura  is,  however,  beyond
 any  question  elsewhere  spoken  of  as  '  the  most  bounteous  Spirit.'
 The  usage  is  like  that  of  the  Semitic  scriptures ;  the  Holy  Spirit  is
 both  God  and  '  of  God.'  As  to  the  rendering  '  bounteous,'  I  fear
 that  '  holiest '  (so  many)  is  too  bold.  Ashavan  occurs  side  by  side
 with  spewta  as  applied  to  Ahura,  and  ashavan  cannot  mean
-'  righteous  '  there,  but  must  mean  '  holy.'  The  Pahlavi  renders  ety-
-mologically  afzunik.  Comp.  jvanta.  The  sole  etymological  bases
-for  the  meaning  '  holy'  are  presented  by  the  Lithuanian  and  Ecclesias-
-tical Sclavonic ;  but,  as  Justi  has  well  remarked,  in  the  conceptions
-of  the  Avesta  that  which  increases  the  kingdom  of  Ahura  is  equiva-
-lent to  what  is  holy.  '  Bountiful '  must  therefore  be  understood  in
+'  righteous  '  there,  but  must  mean  '  holy.'  The  Pahlavi  renders  etymologically  afzunik.  Comp.  jvanta.  The  sole  etymological  bases
+for  the  meaning  '  holy'  are  presented  by  the  Lithuanian  and  Ecclesiastical Sclavonic ;  but,  as  Justi  has  well  remarked,  in  the  conceptions
+of  the  Avesta  that  which  increases  the  kingdom  of  Ahura  is  equivalent to  what  is  holy.  '  Bountiful '  must  therefore  be  understood  in
 a  particular  sense,  only  to  be  rendered  by  the  words,  '  gracious,
 sacred,  and  august.'
 
 [SO  c
-
-
-1 8  THE    GATHAS.
 
 
 (toward)  all  (may  be  performed)  in  (the  Divine)
@@ -2914,8 +2677,7 @@ Kine1  (our  herds  and  folk,  which  cries  so  bitterly  to
 Thee).
 
 3.  And  therefore,  O  Great  Creator,  the  Living
-Lord !  (inspired)  by  Thy  Benevolent  Mind,  I  ap-
-proach You2,  (and  beseech  of  Thee3)  to  grant  me
+Lord !  (inspired)  by  Thy  Benevolent  Mind,  I  approach You2,  (and  beseech  of  Thee3)  to  grant  me
 (as  a  bountiful  gift)  for  both  the  worlds,  the  corporeal
 and  (for  that)  of  mind,  those  attainments  which  are
 to  be  derived  from  the  (Divine)  Righteousness,  and
@@ -2947,8 +2709,7 @@ is  a  better  rendering  here.  If  /ivaihra.  always  means  'comfort,'
 how  comes  it  that  ^z>areno  is  said  to  be  /foathrava/ ?  'Comfortable
 glory '  is  hardly  probable.  Compare  also  the  ancient  mbha.  When
 it  is  the  fashion  to  accept  a  separate  Iranian  root  at  every  difficulty,
-small  and  great,  I  see  no  reason  for  stopping  here,  where  the  pres-
-sure is  considerable.  The  Pahlavi  also  may  be  read  to  favour
+small  and  great,  I  see  no  reason  for  stopping  here,  where  the  pressure is  considerable.  The  Pahlavi  also  may  be  read  to  favour
 my  view.     (Comp.  /iver\g=/ivan.)
 
 
@@ -2957,13 +2718,11 @@ YASNA    XXVIII.  19
 
 nevolent  Mind  (of  Deity) !  I  will  worship  you,  and
 Ahura  Mazda  the  first 1,  for  all  of  whom  the  Pious
-ready  mind  (within  us)  is 2  causing  the  imperish-
-able Kingdom  to  advance.  (And  while  I  thus  utter
+ready  mind  (within  us)  is 2  causing  the  imperishable Kingdom  to  advance.  (And  while  I  thus  utter
 my  supplications  to  You),  come  Ye  to  my  calls  to
 help3!
 
-5.  (Yea,  I  will  approach  You  with  my  supplica-
-tions, I)  who  am  delivering  up  (my)4  mind  and  soul
+5.  (Yea,  I  will  approach  You  with  my  supplications, I)  who  am  delivering  up  (my)4  mind  and  soul
 to  that  (heavenly)  Mount  (whither  all  the  redeemed
 at  last  must  pass 5),  knowing  (full  well)  the  holy
 characteristics  and  rewards  6  of  the  (ceremonial  and
@@ -2978,17 +2737,14 @@ such  a  point,  being  often  free.  As  alternative  read  '  may  Piety  who
 bestows  increase  (fern,  participle)  come  to  my  calls  to  give  grace.'
 
 3  The  Pahlavi  translator,  unable  to  credit  'ye  as  =  I  who'  (so
-also  modern  authority  sometimes  with  regard  to  other  occur-
-rences of  ye  in  this  chapter),  renders  as  follows :  When  I  shall  be
+also  modern  authority  sometimes  with  regard  to  other  occurrences of  ye  in  this  chapter),  renders  as  follows :  When  I  shall  be
 your  own  (thus  for  '  worship,'  and  possibly  deceived  by  the  form  of
 the  words,  ufyani  and  nafrman  being  nearly  alike  in  the  Pahlavi
 character),  O  Ashavahiit  and  Vohuman  !  the  first  [  ],  Auharmazd's
 also  [his  own  I  shall  be],  through  whose  unweakened  acquisition
-his  rule  over  them  exists  [  ],  and  [hers  also  I  shall  be],  Spendar-
-mad's,  the  giver  of  increase.  She  comes  to  me  with  joy  when
+his  rule  over  them  exists  [  ],  and  [hers  also  I  shall  be],  Spendarmad's,  the  giver  of  increase.  She  comes  to  me  with  joy  when
 I  invoke  her  [when  I  shall  call  upon  you,  come  ye  on  toward
-me  with  joy].  (A  plain  and  noticeable  instance  of  an  alterna-
-tive rendering  in  the  gloss.  The  verb  was  first  thought  of  as  a
+me  with  joy].  (A  plain  and  noticeable  instance  of  an  alternative rendering  in  the  gloss.  The  verb  was  first  thought  of  as  a
 3rd  sing,  middle  subjunctive,  afterwards  as  an  imperative  2nd
 plural.)
 
@@ -3002,9 +2758,6 @@ important  authority;  but  we  might  read  m^zgaire  =  mangair6
 c  Ashi,  a  blessing  given  in  reward ;  so  elsewhere.
 
 C  2
-
-
-20  THE    GATHAS.
 
 
 so  long  as  I  am  able  and  may  have  the  power,  so
@@ -3033,8 +2786,7 @@ follow  it  here.     Perhaps,  '  I  will  teach  to  desire  R.'
 
 2  The  Pahlavi  translation  corrected  by  MSS.  may  be  rendered
 thus :  He  who  gives  up  his  soul  within  Garo</man  does  so  by  the
-aid  of  Vohuman  [  ],  and  is  also  intelligent  concerning  the  venera-
-tion which  belongs  to  the  doers  of  good  works  [  ]  in  that  which
+aid  of  Vohuman  [  ],  and  is  also  intelligent  concerning  the  veneration which  belongs  to  the  doers  of  good  works  [  ]  in  that  which
 is  Auharmazd's  [religion]  ;  as  long  as  I  am  a  suppliant  and  have
 the  power,  so  long  do  I  inculcate  the  desire  of  Righteousness
 [which  is,  duty  and  good  works].
@@ -3053,8 +2805,7 @@ in  the  Gathic,  because  it  has  that  sense  most  frequently  in  the  Zend
 the  greatest  One  with  Khrafstra(-slaying)  tongue.'  Perhaps  the
 text  is  to  be  amended  ;  yet  see  XXXIV,  5,  9.
 
-7  The  Pahlavi  translation  may  be  rendered  thus :  O  Asha-
-vahiit !  when  do  (shall)  I  see  thee?     I  know  this  one  by  means
+7  The  Pahlavi  translation  may  be  rendered  thus :  O  Ashavahiit !  when  do  (shall)  I  see  thee?     I  know  this  one  by  means
 
 
 YASNA    XXVIII.  21
@@ -3098,14 +2849,10 @@ others  under  his  inspiration.  Or,  can  there  have  been  a  school,
 or  family,  of  Zarathmtrians,  religious  poets,  similar  to  the  Vedic
 seers?     (See  chap.  LIII,  2  Zarathmtru  Spitamo.)
 
-2  This  mention  of  '  overcoming  an  enemy,'  strengthens  the  pro-
-bability of  my  view  of  vavaroimaidi  (vauroimaidi).
+2  This  mention  of  '  overcoming  an  enemy,'  strengthens  the  probability of  my  view  of  vavaroimaidi  (vauroimaidi).
 
 3  The  Good  Mind  is  now,  as  we  should  say, '  the  Spirit  of  God  '
 in  the  mind  of  God,  and  again  His  Spirit  in  the  human  soul.
-
-
-2  2  THE    GATHAS.
 
 
 Vfotaspa  and  to  me  our  wish  ;  (yea)  may'st  Thou
@@ -3192,8 +2939,7 @@ too  confidently  ;  see  note  at  another  occurrence  of  it)  is  interestin
 (as  corrected  by  the  Persian  MS.) :  On  account  of  a  not-coming
 to  you,  O  Auharmazd!  This  I  would  not  do  [  ].  Ashavahut
 also  I  will  not  pain  for  the  sake  of  a  blessing;  [that  is,  I  do
-not  desire  a  single  blessing  which  appears  displeasing  to  Asha-
-vatmt  (this  turn  of  the  sense  is  followed  by  some  who  have  hitherto
+not  desire  a  single  blessing  which  appears  displeasing  to  Ashavatmt  (this  turn  of  the  sense  is  followed  by  some  who  have  hitherto
 opposed  tradition,  but  I  cannot  follow  it,  although  I  value  every  hint
 of  the  ancient  writers).  Also  Vohuman,  the  excellent  [I  do  not
 harass  him].
@@ -3203,9 +2949,6 @@ desire  with  attainments.'
 
 5  Possibly,  'the  righteous,'  erethw^wg;  cp.  n'tavanas  (?).  Pahl.
 trans. '  i  fraruno.'  6  Possibly,  '  I  obtain.'
-
-
-24  THE    GATHAS.
 
 
 Thine  instructions  to  be  never  void *  of  their  effect
@@ -3227,24 +2970,21 @@ arose 6 !
 asuc/ak.
 
 2  Or,  '  well  reaching  their  aim ; '  but  the  Pahlavi  translator  gives
-his  evidence  for  the  meaning  'food'  =  khuri^n5.  Recall  the  con-
-stant prayers  for  nourishment  in  the  i?/ks.  And  as  favouring  the
+his  evidence  for  the  meaning  'food'  =  khuri^n5.  Recall  the  constant prayers  for  nourishment  in  the  i?/ks.  And  as  favouring  the
 ancient  translation,  see  XXIX,  7,  where  'food  for  the  eaters'  is
 declared  to  be  the  gift  of  God,  who  is  at  the  same  time  '  bounteous
 with  his  doctrine.'
 
 3  Neryosangh  :  Eva#z  ye  dharmasya  vettara^  *  uttamasya^a  dater
 manasa/z  |  ]  ekahelaya*  Mahag-wanin  Svamin!  tebhya/z*  puinam
-pari^inohi*  kamaw  ;  [kila,  [  ]  subham  tebhya/z  kuru].  Evaw/Ja  i^is-
-ne/z*  analaso  labhatara  khadyani  vastrawi^a  vadanena.
+pari^inohi*  kamaw  ;  [kila,  [  ]  subham  tebhya/z  kuru].  Evaw/Ja  i^isne/z*  analaso  labhatara  khadyani  vastrawi^a  vadanena.
 
 4  One  is  tempted  to  read  nipmmgh/as  an  infinitive,  but  the  Pahlavi
 translation  anticipates  us  all  with  its  more  critical  bara  netrunam.
 
 5  This  question  is  answered  in  Y.  XXX.
 
-6  Ner.  improving  upon  the  Pahlavi  has  as  follows  :  Yadi  sunirik-
-shawataya  dharmaz/z  palayami  mana^a*  uttamaz/z  sadapravrzttaye  ;
+6  Ner.  improving  upon  the  Pahlavi  has  as  follows  :  Yadi  sunirikshawataya  dharmaz/z  palayami  mana^a*  uttamaz/z  sadapravrzttaye  ;
 [kila,  ket  satyasya  sadvyaparasya^a  rakshazzz  karomij.  Tvam  tat  *
 Mahao-wanin  Svamin!  prakrz'sh/am  me.rikshapaya*  [  ]  va/H.  Adrisya
 Tvatto  mukhena  [sphu/aya]  antar  bhuvane  purvazzz  babhuva  [tarn
@@ -3285,8 +3025,7 @@ called,  be  it  well  noted,  not  two  persons,  or  at  least  not  only  two
 persons,  but  a  better  thing,  or  principle,  and  a  worse  one.  (The
 qualifying  words  are  all  in  the  neuter  1.)
 
-At  the  next  sentence  they  are  personified  as  a  pair,  each  inde-
-pendent in  his  thoughts,  declarations,  and  actions.  Such  is  the
+At  the  next  sentence  they  are  personified  as  a  pair,  each  independent in  his  thoughts,  declarations,  and  actions.  Such  is  the
 short  Theodicy,  followed  at  once  by  an  admonition  to  those  before
 him  to  choose  the  better.
 
@@ -3302,9 +3041,6 @@ mental  state.'
 
 1  It  is  also  noticeable  that  the  name  Angra  Mainyu  does  not  occur  in  this
 section.
-
-
-2  6  THE    GATHAS.
 
 
 This  is  the  proper  Zarathujtrian  creation.  It  is  undeniably
@@ -3338,8 +3074,7 @@ animosity,  were  too  much  for  his  philosophy.  The  sage  could  not
 regard  all  men  and  their  circumstances  with  broad  and  equable
 impartiality.
 
-The  hated  Daeva-worshippers,  who  were  doubtless  equally  con-
-scientious with  the  Zarathu^trians,  are  said  to  have  failed  of  correct
+The  hated  Daeva-worshippers,  who  were  doubtless  equally  conscientious with  the  Zarathu^trians,  are  said  to  have  failed  of  correct
 discernment.
 
 As  they  were  deliberating,  so  he  recalls,  the  Worst  Mind,  a  very
@@ -3401,8 +3136,7 @@ Ahuras  *  in  merciful  services,  declaring  that  all  their  thoughts  were
 centred  in  that  scene  where  religious  light  dwelt  as  personified  in
 her  home.
 
-10.  Once  more  he  announces  the  certain  defeat  and  chastise-
-ment of  the  incarnate  falsehood  and  her  adherents,  which  enables
+10.  Once  more  he  announces  the  certain  defeat  and  chastisement of  the  incarnate  falsehood  and  her  adherents,  which  enables
 
 1  As  the  Ahuras  of  Mazda,  the  Ameshospends.
 
@@ -3451,8 +3185,7 @@ or  indirectly  upon  human  destiny  seems  to  have  been  early  an
 accepted  doctrine.  (Compare  also  chap.  XXIX,  3,  where  '  the
 lofty  fires '  seem  alluded  to  as  moved  by  the  Deity,  and  this  in
 immediate  connection  with  the  discussion  of  the  most  important
-problems  concerning  the  fate  of  the  holy  community.)  It  is,  how-
-ever, not  impossible  that  the  lights  of  the  altar  may  have  been
+problems  concerning  the  fate  of  the  holy  community.)  It  is,  however, not  impossible  that  the  lights  of  the  altar  may  have  been
 meant.     (See  sukCx  in  the  second  verse.)     The  Pahlavi  translation
 
 
@@ -3460,8 +3193,7 @@ YASNA    XXX.  29
 
 2.  Hear  ye  then  with  your  ears  ;  see  ye  the  bright
 flames  1  with  the  (eyes  of  the)  Better  Mind.  It  is  for
-a  decision  as  to  religions,  man  and  man,  each  indi-
-vidually for  himself.  Before  the  great  effort  of  the
+a  decision  as  to  religions,  man  and  man,  each  individually for  himself.  Before  the  great  effort  of  the
 cause,  awake  ye2  (all)  to  our3  teaching!
 
 3.  Thus  are  the  primeval  spirits  who  as  a  pair 4
@@ -3473,8 +3205,7 @@ between  these  two  let  the  wisely  acting  choose  aright.
 (Choose  ye  6)  not  (as)  the  evil-doers  7 !
 
 has  den  roshano  pavan  venii-no  hu-ravakh-manih.  As  to  ye^'a
-oryae^a,  the  Pahlavi  does  not  favour  a  verbal  form.  But  if  the  pro-
-noun is  accepted,  even  then  change  is  needed;  yae/£a  ya=ye"/£ay£na
+oryae^a,  the  Pahlavi  does  not  favour  a  verbal  form.  But  if  the  pronoun is  accepted,  even  then  change  is  needed;  yae/£a  ya=ye"/£ay£na
 is  hardly  possible.  We  should  be  obliged  to  render :  And  which
 two  things  (were  those?)  whereby  (adverbially)  propitious  results
 have  been  seen  in  the  stars.  Others  have  experienced  difficulty,
@@ -3483,8 +3214,7 @@ place  and  chap.  LI,  2.     Neither  Sp.  nor  Westg.  report  a  long  e.
 
 1  Goshano  sriW  nyokhshunih  [aighaj  gosh  bara.  varammunrf] —
 Zak  1  roshano.  Otherwise  '  with  the  eye ; '  but  see  ya  raoM>fa
-daresata  urvaza.  The  altar-flame  would  not  unnaturally  be  men-
-tioned after  the  heavenly  lights.
+daresata  urvaza.  The  altar-flame  would  not  unnaturally  be  mentioned after  the  heavenly  lights.
 
 2  Literally,  '(be  ye)  wakeful.'
 
@@ -3501,15 +3231,11 @@ and  good  works.     Ner.  yau  pu«yaw  papa;«£a  svayawz  avo&itaw.
 still  the  force  is  as  if  imperative.     Possibly  it  is  preterit.
 
 7  On  this  important  verse  I  cite  Neryosangh.  He  may  be
-rendered  as  follows :  Thus  the  two  spirits  [Hormi^da  and  Ahar-
-mana]  who  uttered  first  in  the  world  each  his  own  (principle);  [that
+rendered  as  follows :  Thus  the  two  spirits  [Hormi^da  and  Aharmana]  who  uttered  first  in  the  world  each  his  own  (principle);  [that
 is,  who  each  uttered,  one  his  own  good  (deed),  and  the  other  his
 own  sin],  these  were  a  pair,  in  thought,  word,  and  deed,  a  highest
 
 *  Adverb  (?).
-
-
-30  THE    GATHAS.
 
 
 4.  (Yea)  when  the  two  spirits  came  together  at
@@ -3529,8 +3255,7 @@ good  intelligence  [  ]  was  the  distinguisher  of  the  true,  and  not  the
 endowed  with  evil  intelligence  [  ].  (Both  he  and  the  Pahlavi  fail  to
 credit  a  plural  form  in  eres  vishyata  with  Spiegel  and  Hiibschmann.)
 The  Gathic  verbatim.  Yea  (  =  thereupon)  the-two  the-two-spirits
-the-two-first-things  which-two  two-twins  two-self-acting-ones  were-
-heard-of  in-thought  in-word-and  in-deed  these-two  a-better  an-evil-
+the-two-first-things  which-two  two-twins  two-self-acting-ones  wereheard-of  in-thought  in-word-and  in-deed  these-two  a-better  an-evil-
 and.  Of-which-two-and  the  wisely-acting  (ones)  aright  may  discern,
 not  the  evil-acting  ones.
 
@@ -3540,8 +3265,7 @@ place  of  a  third  dual  perfect ;  '  they  two  made.'  The  place  of  an
 infinitive  is  not  generally  at  the  end  of  a  sentence  in  Gathic.  Can
 it  be  simply  a  third  singular  ?     '  (Each)  makes  '  (^amasa  karoti).
 
-2  Pavan  zendakih — va  muni/£  azendakih.  Ner.  ^ivitena^a  ag-ivi-
-tena£a.  Observe  the  singular  abstract  a^yaitiwH,  which  is  not
+2  Pavan  zendakih — va  muni/£  azendakih.  Ner.  ^ivitena^a  ag-ivitena£a.  Observe  the  singular  abstract  a^yaitiwH,  which  is  not
 lightly  to  be  passed  over.  Why  not  a  more  ordinary  expression  ?
 Have  we  not  here  an  unusual  antithesis  ?  The  danger  is  great  that
 by  aiming  to  reduce  all  to  commonplace  for  the  sake  of  safety,  we
@@ -3581,8 +3305,7 @@ them  that  he  might  be   chosen.     (They  made  their
 dadau.
 
 2  '  Who  with  actions  really  good  piously  content  Ahura.'  Let  it
-be  noticed  that  fraore/  is  not  independently  translated  by  the  Pah-
-lavi.  It  is  freely  included  in  avo  Auharmazd ;  and  yet  this  is  sup-
+be  noticed  that  fraore/  is  not  independently  translated  by  the  Pahlavi.  It  is  freely  included  in  avo  Auharmazd ;  and  yet  this  is  sup-
 posed by  some  to  be  a  word-for-word  rendering !  Ner.  praka/ai^a
 karmabhi^.
 
@@ -3603,8 +3326,7 @@ the  truth,'  &c.
 see  no  escape  from  the  above  rather  adventurous  rendering.  See
 also  dafshnya  he«tu  in  chap.  LIII,  8.  Perhaps  the  idea  of  injury
 here  preponderates  over  that  of  deceit;  'since  we  have  impaired
-their  power.'  The  choice  between  a  preterit  or  an  improper  sub-
-junctive is  also  difficult.  Possibly,  '  so  that  we  may  fatally  deceive
+their  power.'  The  choice  between  a  preterit  or  an  improper  subjunctive is  also  difficult.  Possibly,  '  so  that  we  may  fatally  deceive
 them.'     Poss.  nom.  '  deception  came  upon  them,  even  A.  M.'
 
 5  This  recalls  Vendidad  XIX,  45,  where  the  demons  assemble
@@ -3613,16 +3335,12 @@ in  council  to  consider  the  advent  of  Zarathu^tra.
 c  Compare  verse  4,  where  Vahutem  Mano  equals  heaven.     The
 
 
-32  THE    GATHAS.
-
-
 fatal  decision.)  And  thereupon  they  rushed  together
 unto  the  Demon  of  Fury,  that  they  might  pollute  *
 the  lives  of  mortals 2.
 
 7.  Upon  this3  Aramaiti  (the  personified  Piety  of
-the  saints)  approached,  and  with  her  came  the  Sove-
-reign Power,  the  Good  Mind,  and  the  Righteous
+the  saints)  approached,  and  with  her  came  the  Sovereign Power,  the  Good  Mind,  and  the  Righteous
 Order.  And  (to  the  spiritual  creations  of  good  and  of
 evil)  Aramaiti  gave  a  body,  she  the  abiding  and  ever
 strenuous  4.    And  for  these  (Thy  people)  so  let 5  (that
@@ -3643,10 +3361,8 @@ Hubschmann:  'urn  durch  ihnPlagen  iiber  dasLeben  desMenschen
 zu  bringen.'
 
 Verbatim.  Of  these  two  spirits  not  aright  may  choose  the
-Daevas,  since  these  we  have  beguiled  (or  have  injured).  To  the-
-questioning  ones  upon  came-he  in-order-that  he  might-be-chosen
-(subjunctive  middle)  he-the  worst  mind.  Thereupon  to-furious-
-rapine  they  rushed-together  in-order-that  (yena)  they  might  disease
+Daevas,  since  these  we  have  beguiled  (or  have  injured).  To  thequestioning  ones  upon  came-he  in-order-that  he  might-be-chosen
+(subjunctive  middle)  he-the  worst  mind.  Thereupon  to-furiousrapine  they  rushed-together  in-order-that  (yena)  they  might  disease
 (or  ruin)  the-life  of-man.
 
 3  Or, 'to  him:'  some  unnamed  benefactor ;  hardly 'to  us.'  The
@@ -3659,8 +3375,7 @@ to  have  thought  of  nam  +  a  priv.
 Kehrpem  is  feminine.     Anma  may  be  a  neuter  in  apposition.
 
 Otherwise  we  must  accept  -ma  as  a  suffix.  Or  can  kehrpem
-(corpus)  be  a  neuter  here  ?  The  clothing  of  the  spirits  with  cor-
-poreal natures  enabled  them  to  advance  in  the  development  of
+(corpus)  be  a  neuter  here  ?  The  clothing  of  the  spirits  with  corporeal natures  enabled  them  to  advance  in  the  development  of
 moral  qualities  by  self-restraint  and  pursuit.  As  has  been  observed
 in  the  summary,  no  Fravashis  appear  in  the  Gathas.  Have  we  here
 possibly  an  indication  of  the  pre-existence  of  souls  ?  If  Aramaiti
@@ -3693,8 +3408,7 @@ be  inferred  from  Yajt   XIX,  89.     (Which  see   in  part  ii   of  the
 translations  of  the  Zend-Avesta.)
 
 1  Verbatim.  To-this  (to  us  ?)-and  wifh-Khshathra  came,  with-
-Manah  Vohu,  with  Asha-and  (Aramaiti)  thereupon  a-body  the-con-
-tinuing  gave  Ar(a)maiti  the  strenuous  (Aramaiti,  or  the  body,  a
+Manah  Vohu,  with  Asha-and  (Aramaiti)  thereupon  a-body  the-continuing  gave  Ar(a)maiti  the  strenuous  (Aramaiti,  or  the  body,  a
 vigorous  and  strenuous  thing).
 
 Of  these  thine  (or  to  thee)  to  let-it  (the  body)-be  as  thou-camest
@@ -3714,8 +3428,7 @@ though  rudely  primitive  poetry  ?  Such  renderings  are  commentary
 rather  than  translation.  The  Pahlavi  may  be  rendered  as  follows  :
 Thus  also  in  that  creation  [in  the  final  body]  hatred  comes  to  these
 haters  and  sinners  ;  [that  is,  the  avengers  shall  execute  chastisement
-upon  them].  And,  therefore,  O  Auharmazd!  what  to  thee  is  the  sove-
-reignty, by  that  (so  possibly)  shall  Vohuman  give  a  reward.  Through
+upon  them].  And,  therefore,  O  Auharmazd!  what  to  thee  is  the  sovereignty, by  that  (so  possibly)  shall  Vohuman  give  a  reward.  Through
 these,  O  Auharmazd !  [through  the  religion  of  Auharmazd],  when
 one  is  instructed  in  Righteousness,  [that  is,  as  to  the  interests  of  the
 pious]  then  the  Drug  is  given  into  one's  hand,  [the  Drug-  who  is
@@ -3724,11 +3437,7 @@ Aharmok].
 [3i]  D
 
 
-34  THE    GATHAS.
-
-
-this  great  renovation,  and  make  this  world  progres-
-sive, (till  its  perfection  shall  have  been  reached).
+this  great  renovation,  and  make  this  world  progressive, (till  its  perfection  shall  have  been  reached).
 (As)  the  Ahuras  of  Mazda1  (even)  may  we  be  ;  (yea,
 like  Thyself),  in  helpful  readiness  to  meet 2  (Thy
 people),  presenting  (benefits 3)  in  union  with  the
@@ -3756,12 +3465,10 @@ showing  the  proper  root,  which  is  mi/ ;  (so  Spiegel.)
 3  Or  possibly  sustaining  (the  feeble).  The  Pahlavi  reads  simply
 dedrununo.
 
-4  The  Pahlavi  renders  hathra  in  the  Indian  sense  as  asar*,  end-
-lessly; so  others  elsewhere.  Hathra  and  yathra  are  of  course
+4  The  Pahlavi  renders  hathra  in  the  Indian  sense  as  asar*,  endlessly; so  others  elsewhere.  Hathra  and  yathra  are  of  course
 distinctly  in  antithesis.
 
-5  The  Pahlavi  mihano,  Persian  makan.  That  maetha  is  an  ad-
-verbial instrumental  meaning,  '  in  one's  home,'  seems  the  more
+5  The  Pahlavi  mihano,  Persian  makan.  That  maetha  is  an  adverbial instrumental  meaning,  '  in  one's  home,'  seems  the  more
 probable  from  the  two  hathra,  yathra,  adverbs  of  place.  Compare,
 for  instance,  athra-yathra  in  XLVI,  16,  where  shaeiti  follows.
 Hiibschmann,  'Dort  mogen  (unsre)  Sinne  sein,  wo  die  Weisheit
@@ -3783,20 +3490,17 @@ earth)  in  good  repute x  (and  honour) 2.
 
 1 1.  Wherefore,  O  ye  men  !  ye  are  learning 3  (thus)
 these  religious  incitations  which  Ahura  gave  in  (our)
-happiness4  and  (our)  sorrow5.  (And  ye  are  also  learn-
-ing) what  is  the  long  wounding  for  the  wicked,  and
+happiness4  and  (our)  sorrow5.  (And  ye  are  also  learning) what  is  the  long  wounding  for  the  wicked,  and
 the  blessings  which  are  in  store  for  the  righteous.
 And  when  these  (shall  have  begun  their  course),
 salvation  shall  be  (your  portion0)!
 
 1  Pahlavi,  '  mun  vadund  zak  i  japir  namikih  =  they  are  creating
-a  good  repute,'  as  if  zazewte  were  understood  in  the  sense  of  pro-
-duce. See  the  sense  'bear'  as  given  for  ha,  Rig-veda  843,  2  (X,
+a  good  repute,'  as  if  zazewte  were  understood  in  the  sense  of  produce. See  the  sense  'bear'  as  given  for  ha,  Rig-veda  843,  2  (X,
 1 7).     The  analogy  is,  however,  not  strong.
 
 2  The  Pahlavi  translation  may  here  be  rendered  as  follows :  Thus
-in  that  dispensation  [in  the  later  body]  the  Drug  [who  is  Gan-
-rak  Minavad]  will  be  overthrown  [  ]  when  (his)  host  is  scattered.
+in  that  dispensation  [in  the  later  body]  the  Drug  [who  is  Ganrak  Minavad]  will  be  overthrown  [  ]  when  (his)  host  is  scattered.
 Thus  they  move  keenly  on  [to  seize  the  reward],  which  is  attained
 through  the  good  citizenship  of  Vohuman  [when  they  shall  have
 dwelt  in  piety].  They  who  are  creating  a  good  renown  are  thus
@@ -3812,8 +3516,7 @@ for  kvitiM  as = sua  sponte.  This  would  require  fonti  as=*/2Z>ati  with
 difficulty  comparing  '  yim  '  and  '  y<?m '(?).  It  is  generally  considered
 now  as=hu  +  iti ;  but  the  letter  YJ  =  yfy  seems  doubtful.
 
-5  Read  aniti='  with  impeded  progress.'  '  In  prosperity  or  adver-
-sity.'    But  these  are  conjectures.
+5  Read  aniti='  with  impeded  progress.'  '  In  prosperity  or  adversity.'    But  these  are  conjectures.
 
 6  The  Pahlavi :  Aetuno  akhar  valmaman  aito  nadukih.  I  do
 not  think  that  we  ought  to  regard  the  words  of  the  original  as
@@ -3827,9 +3530,6 @@ the  translators  to  translate  ruzha  and  bhumandale,  but  these  scholars,
 as  in  many  other  instances,  hinted  at  a  correction.)
 
 D  2
-
-
-36  THE    GATHAS.
 
 
 YASNA  XXXI.
@@ -3850,8 +3550,7 @@ a  change  of  subject  with  it.  I  do  not  regard  it  as  very  useful
 to  lay  too  much  stress  upon  these  occurrences.
 
 Whether  caused  by  gaps  or  interpolations,  they  do  not  at  all
-affect  the  fact  that  the  subject-matter  is  homogeneous  and  contem-
-poraneous ;  and,  probably,  like  many  more  modern  compositions,
+affect  the  fact  that  the  subject-matter  is  homogeneous  and  contemporaneous ;  and,  probably,  like  many  more  modern  compositions,
 the  verses  gain  in  rhetorical  effect  by  being  weeded  of  repetitions.
 
 We  might  divide  as  follows  i,  2,  an  address  to  the  congregation
@@ -3870,8 +3569,7 @@ existing  things  by  those  who  are  sincerely  devoted  to  Mazda,  their
 good  disposition  quickening  their  perception.
 
 2.  He  then  declares  that  if  the  truths  of  the  holy  Religion  are
-not  yet  clearly  seen  by  the  instrumentalities  provided,  he  will  ap-
-proach them  still  more  effectively  in  accordance  with  the  especial
+not  yet  clearly  seen  by  the  instrumentalities  provided,  he  will  approach them  still  more  effectively  in  accordance  with  the  especial
 regulation  of  the  spiritual  chieftainship,  which  Ahura  Mazda  had
 prepared  in  response  to  the  lament  of  the  soul  of  the  Kine  ;  i.  e.  of
 the  Iranian  herds  and  people  possibly  as  representing  the  entire
@@ -3886,8 +3584,7 @@ YASNA    XXXI.  37
 
 
 for  that  satisfying  decision  which  would  be  the  natural  result  of  the
-regulation  just  promised,  and  which  could  be  given  by  the  instru-
-mentality of  the  Sacred  Fire  and  holy  ritual,  affording  mental  keen-
+regulation  just  promised,  and  which  could  be  given  by  the  instrumentality of  the  Sacred  Fire  and  holy  ritual,  affording  mental  keen-
 ness to  the  two  contending  parties.  And  he  declares  that  this  is
 the  doctrine  which  should  be  proclaimed  for  the  conversion  of
 mankind.  Here  we  observe  that  the  Zarathu^trian  Mazda-worship
@@ -3903,8 +3600,7 @@ Here  we  have  only  the  effort  to  convert.)
 
 4.  Addressing  all  the  Bountiful  Immortals,  and  with  the  striking
 title  of  the  Ahuras  of  Mazda,  he  prays  for  the  establishment  of  the
-'  mighty  kingdom  '  by  means  of  which  he  might  overcome  the  per-
-sonified and  aggressive  falsehood  of  the  opposing  and  persecuting
+'  mighty  kingdom  '  by  means  of  which  he  might  overcome  the  personified and  aggressive  falsehood  of  the  opposing  and  persecuting
 Daeva-worshippers.
 
 5.  In  order  to  enable  himself  to  fulfil  his  mission,  he  asks  for
@@ -3921,26 +3617,20 @@ not  predominant.
 7.  He  takes  the  heavenly  bodies  as  evidence  of  the  wisdom  of
 Him  who  created  the  Sacred  Order  personified  as  the  '  Immortal '
 Asha,  and  also  the  Good  Mind,  his  equal.  And  he  ascribes  the
-support  and  extension  of  their  hallowing  influence  to  Ahura,  be-
-cause He  never  changes.
+support  and  extension  of  their  hallowing  influence  to  Ahura,  because He  never  changes.
 
 8.  He  reiterates,  in  expressions  which  form  the  basis  for  another
 hymn,  his  conception  of  Mazda  as  the  supreme  object  of  devotion,
 as  the  father  of  the  Good  Mind  personified  as  His  child,  as  the
 creator  of  the  Righteous  Order,  and  as  both  the  controller  and  the
-judge  of  human  actions.  Therefore  the  Good  Mind  and  Right-
-eousness are  to  be  worshipped  as  standing  in  the  closest  possible
+judge  of  human  actions.  Therefore  the  Good  Mind  and  Righteousness are  to  be  worshipped  as  standing  in  the  closest  possible
 relation  to  him.
 
 9.  He  ascribes  the  '  Immortal '  Piety  to  Him  as  well.  She  is
 His  own,  and  elsewhere  His  own  daughter.     He  is  declared,  as  in
 
 
-38  THE    GATHAS.
-
-
-chapter  XXIX,  to  be  the  Creator  of  the  Kine,  and  of  Under-
-standing, (His  own  intelligence),  to  guide  Him  in  the  disposition  of
+chapter  XXIX,  to  be  the  Creator  of  the  Kine,  and  of  Understanding, (His  own  intelligence),  to  guide  Him  in  the  disposition  of
 the  destiny  of  the  holy  Iranian  people.  And  according  to  it  He
 makes  the  path  for  the  Kine,  which  as  a  matter  of  course  has  no
 meaning  as  applied  to  bucolics,  but  is  full  of  meaning  when  read  in
@@ -3949,11 +3639,9 @@ intervention  of  the  Deity  in  her  behalf,  for  He  actually  appointed
 Zarathurtra  to  meet  her  necessities.  He  adds,  however,  that  her
 free  choice  is  not  abolished  by  the  construction  'of  this  path.'  It  is
 elsewhere  called  the.  'religion  of  the  Saviour-prophets,'  and  she  is
-free  to  proceed  in  it,  guided  by  the  first  prophet,  the  ideal  husband-
-man, or  she  can  follow  the  profaner  nomad.
+free  to  proceed  in  it,  guided  by  the  first  prophet,  the  ideal  husbandman, or  she  can  follow  the  profaner  nomad.
 
-10.  But  he  thankfully  exclaims  that  she  does  not  pause  in  in-
-decision, nor  does  she  choose  perversely.  She  selects  the  guardian
+10.  But  he  thankfully  exclaims  that  she  does  not  pause  in  indecision, nor  does  she  choose  perversely.  She  selects  the  guardian
 appointed  by  Ahura,  the  diligent  and  pious  husbandman,  elsewhere
 identified  with  Zarathurtra  himself.  He  is  rich  with  the  spiritual
 wealth  of  the  Good  Mind ;  and  she  rejects  in  his  favour  the  idle  and
@@ -3975,8 +3663,7 @@ in  extended  detail.     See  XLV,  2.)
 
 13.  The  composer  is  still  more  reanimated  by  the  certainty  that
 Ahura  is  gazing  into  the  depths  of  all  questions,  trivial  and  profound;
-which  is  to  say  that  he  observes  most  closely  the  men  who  are  dis-
-cussing them.  And  he  declares  that  he  also  sees  the  cruel  injustice
+which  is  to  say  that  he  observes  most  closely  the  men  who  are  discussing them.  And  he  declares  that  he  also  sees  the  cruel  injustice
 of  the  punishments  which  the  tyrants  visit  upon  the  smallest  offences,
 as  well  as  the  more  flagrant  wickedness  of  those  who  persecute  his
 adherents  without  even  a  pretence  of  justice.
@@ -3999,8 +3686,7 @@ the  righteous,  shall  be  situated  in  the  final  consummation.
 
 15.  Particularising  as  to  the  latter,  he  asks  what  shall  be  the
 punishment  for  those  who  succeed  in  installing  an  evil  monarch,
-one  of  the  Daeva-party,  a  prince  who  cannot  exist  without  the  ruth-
-less persecution  of  the  pious  husbandman,  who  repudiates  the  Lie-
+one  of  the  Daeva-party,  a  prince  who  cannot  exist  without  the  ruthless persecution  of  the  pious  husbandman,  who  repudiates  the  Lie-
 demon  presiding  over  the  counsels  and  efforts  of  the  opposing
 religion.
 
@@ -4009,16 +3695,14 @@ become  like  Ahura,  or  his  faithful  adherent,  the  expressions  used
 implying  deep  religious  feeling.
 
 1 7.  Striving  to  arouse  the  perceptions  of  his  hearers,  he  inquires
-as  to  which  one  of  the  two  parties  holds  to  the  greater  or  more  im-
-portant religion,  the  disciple  of  Asha,  the  personified  Righteous
+as  to  which  one  of  the  two  parties  holds  to  the  greater  or  more  important religion,  the  disciple  of  Asha,  the  personified  Righteous
 Order  Ahura's  immediate  creature  (see  above),  or  the  opponent.
 And  he  prays  that  no  blind  guide  may  deceive  him,  or  those  who
 belong  to  him,  '  but  that  the  enlightened,  yea,  even  Ahura  Himself,
 may  speak  to  him,  and  become  the  indicator  and  demonstrator  of
 the  truth.'
 
-18.  Closing  this  address  to  the  Deity,  he  turns  to  the  congrega-
-tion, vehemently  forbidding  them  to  listen  to  the  doctrines  of  his
+18.  Closing  this  address  to  the  Deity,  he  turns  to  the  congregation, vehemently  forbidding  them  to  listen  to  the  doctrines  of  his
 opponents,  warning  them  against  the  ruin  and  death  which  would
 ensue,  and  fiercely  appealing  to  the  sword.
 
@@ -4067,15 +3751,13 @@ words)  I  will  come  to  you  all  (in  my  person)  with
 1  Roth,  '  wollen  wir  Worte  kiinden — ungern  gehort  von  denen,
 welche  nach  des  Unholds  Geboten,'  &c.  Hubschmann  preferring
 '  wir  sprechen  Worte  nicht  anhorbar  fur  diejenigen '  (Casuslehre,  s.
-223).  A  dative  of  the  pronoun  is  certainly  more  natural  than  the  abla-
-tive as  inst.  But  on  the  whole  agushta  seems  better  in  its  ordinary
+223).  A  dative  of  the  pronoun  is  certainly  more  natural  than  the  ablative as  inst.  But  on  the  whole  agushta  seems  better  in  its  ordinary
 sense,  although  in  so  rendering  we  are  obliged  to  supply  a  word.
 
 2  Valmaman  mun  pavan  afringanih  i  Drug-  zak  i  Aharayih
 gehan  bara  maren^inen</.
 
-3  The  Pahlavi  may  be  rendered  as  follows  :  Both  these  benedic-
-tions, which  I  (we)  recite  as  yours  [the  Avesta  and  Zand],  we  are
+3  The  Pahlavi  may  be  rendered  as  follows  :  Both  these  benedictions, which  I  (we)  recite  as  yours  [the  Avesta  and  Zand],  we  are
 teaching  by  word  to  him  who  is  no  hearer,  [to  the  destroyer  of
 sanctity  (the  heretical  persecutor)  [  ]  ].  Those  who  utterly  slay  the
 world  of  righteousness  through  the  benedictions  of  the  Drug  [  ],
@@ -4099,8 +3781,7 @@ YASNA    XXXI.  41
 that  power,  and  in  that  way  according  to  which
 Ahura  Mazda  knows  and  appoints  His  ruler1,  that
 ruler  over  both  the  two  (struggling)  bands2,  in
-order  that  we  (in  obedience  to  him),  may  live  ac-
-cording to  Righteousness3.
+order  that  we  (in  obedience  to  him),  may  live  according to  Righteousness3.
 
 3.  And  that  keenness,  that  deciding  satisfaction,
 which  Thou  hast  given  by  (Thy)  Spirit4,  and  (Thy)
@@ -4133,8 +3814,7 @@ from  impossible  that  the  present  Pahlavi  translation  may  be  a  growth
 beyond  an  earlier  one  more  in  accordance  with  ara/zi.  The  strivers,
 or  fighters,  might  describe  the  two  rubbing-sticks  (?).
 
-6  Aimar  (sic),  vi^an/ar.  This  meaning  suits  the  connection  ad-
-mirably. The  word  is  otherwise  difficult,  and  this  general  sense  is
+6  Aimar  (sic),  vi^an/ar.  This  meaning  suits  the  connection  admirably. The  word  is  otherwise  difficult,  and  this  general  sense  is
 followed  by  some  who  do  not  so  often  cite  the  Pahlavi  translator.
 
 7  See  verse  1.
@@ -4143,9 +3823,6 @@ followed  by  some  who  do  not  so  often  cite  the  Pahlavi  translator.
 indication  of  the  Pahlavi  translator.  Pavan  huzvano  i  Lak —
 zivandakan  harvist-gun  hemnund.  Observe  that  the  religious
 system  contemplated  universal  proselytism.
-
-
-42  THE    GATHAS.
 
 
 4.  And  when  the  Divine  Righteousness  shall  be
@@ -4178,8 +3855,7 @@ bemeistern  mogen.'
 
 5  The  Pahlavi  may  be  rendered  thus :  Since  in  that  dispensation
 [in  the  final  body],  I  shall  be  an  invoker  of  Ashavahut,  and  of
-Auharmazd  also  |  ] ;  and  of  her  who  is  veneration  '  Spendar-
-mad  '  ],  I  desire  [that  best  of  things  which  is  the  reward]  of
+Auharmazd  also  |  ] ;  and  of  her  who  is  veneration  '  Spendarmad  '  ],  I  desire  [that  best  of  things  which  is  the  reward]  of
 Vohuman.     Let  also  that  authority  which  belongs  to  my  people
 
 ]  be  from  the  strong  one  [  ]  by  whose  fortitude  [  ]  the  Dru°-  is
@@ -4215,8 +3891,7 @@ there  be)  a  Realm  such  as  that  (whose  strength
 I  asked  for  victory4),  and  which  (at  the  last)  shall
 flourish5  in  its  holiness  to  His  (glory6) !
 
-7.  (For  He  has  sovereign  control.)  He  who  con-
-ceived of  these  (truths  of  the  Mathra)  as  their  first
+7.  (For  He  has  sovereign  control.)  He  who  conceived of  these  (truths  of  the  Mathra)  as  their  first
 (inspirer),  (and  as  He  thought  their  existence  they
 
 
@@ -4250,11 +3925,7 @@ rased],  kih  pah  Sawab  darad— bi-marg  raftani  aza,r  [  ].  Hormuzd
 i  mard — /fondi  (?)  Hormuzd  pah  tan  mihman].
 
 
-44  THE    GATHAS.
-
-
-(all)  as  ( H  is)  glorious 1  (conceptions  first)  clothed  them-
-selves in  the  stars2), He  is  through  His  understanding
+(all)  as  ( H  is)  glorious 1  (conceptions  first)  clothed  themselves in  the  stars2), He  is  through  His  understanding
 the  Creator3  of  the  Righteous  Order.  And  thus
 likewise  He  supports  His  Beneficent  Mind  (in  His
 saints).  And  these  (holy  creatures)  may'st  Thou
@@ -4294,8 +3965,7 @@ Amatam  [  ]  pavan  ham/£ashmih  av5  ham  vakhdun^/  homanih.
 
 Ner.  may  be  rendered  as  follows :  Thus  thou  wert  thought  at
 the  first  by  me,  O  Great  Wise  One,  the  Lord !  when  thou  wert
-engaged  in  the  production  of  Gvahmana  [  ].  In  which  (produc-
-tion) they  apprehend  the  father  of  the  Best  Mind  when  they  observe
+engaged  in  the  production  of  Gvahmana  [  ].  In  which  (production) they  apprehend  the  father  of  the  Best  Mind  when  they  observe
 him  with  a  full-faced  look  [  ].  (And  thou  art  the  father)  of  that
 creation  which  is  manifestly  righteous ;  [that  is,  thou  makest  the  purer
 creation  good  in  conduct].  Thou  art  a  King  in  the  world  as  to
@@ -4320,8 +3990,7 @@ the   Good   Mind's    wealth 7.      Never,    Mazda !    shall
 
 1  His  spewta  mainyu  ;  otherwise  '  spiritual  (understanding),'  but
 mainyu  is  used  elsewhere  (verse  3  and  7)  alone,  and  certainly  not
-as  an  adjective  even  with  a  substantive  understood.  The  render-
-ing '  spirit '  as  '  Thy  spirit '  is  suspiciously  significant ;  but  what  is
+as  an  adjective  even  with  a  substantive  understood.  The  rendering '  spirit '  as  '  Thy  spirit '  is  suspiciously  significant ;  but  what  is
 the  help  ?     We  are  forced  by  grammar  so  to  translate.
 
 2  The  ablative  has  this  force  as  in  Asha/  ha^a.
@@ -4339,15 +4008,12 @@ appear  to  them  promising  ;  nor  is  it  one  main  effort  of  religion
 'to  content  the  soul  of  cattle.'  Cattle,  as  the  chief  article  of
 wealth,  are  taken  to  signify  all  civic  life.  The  '  path '  is  the  path
 for  the  people  to  walk  in,  securing  safety  for  soul  and  life  and
-herds.  The  adhvan  is  '  the  way'  which  '  is  the  religious  character-
-istics and  teachings  of  the  prophets'  (XXXIV,  13).
+herds.  The  adhvan  is  '  the  way'  which  '  is  the  religious  characteristics and  teachings  of  the  prophets'  (XXXIV,  13).
 
 5  Observe  that  this  cow  (some  would  say  '  ox  ')  chooses  her
-master,  unlike  other  cattle.  But  observe  also,  what  is  more  inter-
-esting, that  she  seems  reconciled  to  the  guardian  appointed  by
+master,  unlike  other  cattle.  But  observe  also,  what  is  more  interesting, that  she  seems  reconciled  to  the  guardian  appointed  by
 Ahura.  In  Y.  XXIX,  9,  she  actually  '  wept '  at  the  naming  of  the
-pusillanimous  Zarathujtra,  desiring  a  kingly  potentate.  Now,  how-
-ever, we  see  that  she  must  have  dried  her  tears,  as  she  is  satisfied
+pusillanimous  Zarathujtra,  desiring  a  kingly  potentate.  Now,  however, we  see  that  she  must  have  dried  her  tears,  as  she  is  satisfied
 with  the  simple  workman  whom  he  represents  notwithstanding
 high  rank.
 
@@ -4355,9 +4021,6 @@ high  rank.
 Zarathmtra.
 
 7  Mun  ffuih  pavan  Vohumano.
-
-
-46  THE    GATHAS.
 
 
 the  thieving1  nomad  share  the  good  creed2.     (For
@@ -4380,8 +4043,7 @@ enlightened  or  unenlightened,  lifts  his  voice  (to  utter
 
 1  Pahlavi  davasaha^ ;  Ner.  pratarayitre.
 
-2  Khupo-hoshmurunih.  '  Judicial  blindness  '  is  everywhere  indi-
-cated. (The  wicked  are  kept  from  the  sight  of  the  truth.)  Hubschm.,
+2  Khupo-hoshmurunih.  '  Judicial  blindness  '  is  everywhere  indicated. (The  wicked  are  kept  from  the  sight  of  the  truth.)  Hubschm.,
 Casuslehre,  '  der  frohen  Botschaft.'
 
 3  This  seems  implied.
@@ -4400,8 +4062,7 @@ is  a  person  in  whom  there  is  a  desire  for  the  other  world,  that
 desire  is  granted  to  him  by  thee  ;  [that  is,  what  is  necessary  when
 he  is  arriving  in  the  other  world,  this  which  is  thus  required  (or
 desired)  by  him  at  that  time,  is  given  by  thee — through  that  which
-is  thy  mind  and  wisdom].  Although  not  able  to  follow  the  in-
-dications of  the  Pahlavi  fully,  I  think  that  there  is  no  question  but
+is  thy  mind  and  wisdom].  Although  not  able  to  follow  the  indications of  the  Pahlavi  fully,  I  think  that  there  is  no  question  but
 that  we  have  an  important  statement  in  the  last  line.  It  does  not
 seem  to  me  possible  to  render  less  profoundly  than  '  where  the
 wisher  may  place  his  choices,'  his  religious  preferences  and  beliefs,
@@ -4414,14 +4075,12 @@ YASNA    XXXI.  47
 his  faith),  and  with  devoted  mind  and  heart1.  (But
 without  hindrance  from  this  striving,  or  pausing  with
 feeble  search2,  our)  Piety  steadily3  questions  the  two
-spirits4  (not  here  on  earth)  but  (there  in  the  spirit-
-world)  where  (they  dwell  as)  in  their  home5.
+spirits4  (not  here  on  earth)  but  (there  in  the  spiritworld)  where  (they  dwell  as)  in  their  home5.
 
 13.  (Yea,  my  Piety  questions  searchingly,  for
 Thou,  O  Maker !  hast  Thy  view  on  all ;  we  cannot
 question  lightly.)  What  questions  are  asked  which
-are  open6  (permitted  to  our  thoughts),  or  what  ques-
-tions (are  asked)  which  are  furtive7  (hiding  themselves
+are  open6  (permitted  to  our  thoughts),  or  what  questions (are  asked)  which  are  furtive7  (hiding  themselves
 from  the  light),  or  (what  decision  soever  we  may
 make,  and  the  man)  who  for  the  smallest  sin  binds
 on  the  heaviest  penance,  on  all8  with  Thy  glittering
@@ -4429,8 +4088,7 @@ eye(s)  as  a  righteous  guard  Thou  art  gazing9 !
 
 1  Avo  zak  libbemman.  2  See  verse  13.
 
-3  Pavan  ha^uno  1 :  the  Persian  MS.  (Haug  XII,  b)  transliter-
-ates khezuno:   Ner.  has  mano-utthanena  (sic).    Or, '  immediately.'
+3  Pavan  ha^uno  1 :  the  Persian  MS.  (Haug  XII,  b)  transliterates khezuno:   Ner.  has  mano-utthanena  (sic).    Or, '  immediately.'
 
 4  The  evil  as  well  as  the  good  spirit  is  questioned.  The  two
 spirits  of  Y.  XXX,  3-6  were  here  inspiring  the  conflict.
@@ -4459,9 +4117,6 @@ purification  necessary  on  account  of  a  little  sin  which  has  been
 committed,  commits  a  greater  one,  in  order  that  the  first  may  not
 
 
-48  THE    GATHAS.
-
-
 14.  This  then  I  will  ask  Thee,  O  Ahura  Mazda!
 (as  I  seek  Thy  counsel  once  again1).  What  events
 are  coming  now,  and  what  events  shall  come  in  the
@@ -4470,15 +4125,13 @@ offered  with4  the  offerings  of  the  holy?  And  what
 (are  the  awards)  for  the  wicked  ?  And  how  shall  they
 be  in  the  (final)  state5  of  completion6  ?
 
-15.  And  I  would  ask  Thee  this,  O  Mazda!  (con-
-cerning the  coadjutor  of  the  wicked)  :  What  is  the
+15.  And  I  would  ask  Thee  this,  O  Mazda!  (concerning the  coadjutor  of  the  wicked)  :  What  is  the
 award7  for  him  who  prepares  the  throne8  for  the  evil,
 for  the  evil-doer9,  O  Ahura!  for  him  who  cannot
 else   reclaim10  his  life,  not  else  save11  with  lawless
 
 become  known],  upon  these  two,  each  of  them,  look  with  thy  two
-eyes.  [Over  sins  and  righteous  actions  thou  art  in  one  way,  every-
-where and  again,  the  Lord.]  The  concretes  here  may  give  the
+eyes.  [Over  sins  and  righteous  actions  thou  art  in  one  way,  everywhere and  again,  the  Lord.]  The  concretes  here  may  give  the
 right  indication.
 
 1  See  verse  5.
@@ -4526,8 +4179,7 @@ How  such  an  one  as  he  who,  with  wise  action,  has
 striven  to  promote  (Thy  holy)  Rule  2  over  house,  and
 region,  and  province,  in  the  Righteous  Order  and  in
 truth,  how  he  may  become  like  Thee3,  O  Great
-Creator,  Living  Lord  ?  And  when  he  may  so  be-
-come, (this  also  I  would  ask),  and  in  what  actions
+Creator,  Living  Lord  ?  And  when  he  may  so  become, (this  also  I  would  ask),  and  in  what  actions
 living  he  may  so  be4  ?
 
 17.  And  which  of  the  (religions)  is  the  greater
@@ -4567,13 +4219,9 @@ through  activity].
 [30  E
 
 
-50  THE    GATHAS.
-
-
 righteous  believes,  or  the  wicked1  ?  (Let  then  our
 questionings  cease.)  Let  the  enlightened  (alone)
-speak  to  the  enlightened.  Let  not  the  ignorant  (fur-
-ther) deceive  us,  (high  though  he  may  lift  his  voice  2).
+speak  to  the  enlightened.  Let  not  the  ignorant  (further) deceive  us,  (high  though  he  may  lift  his  voice  2).
 Do  Thou  thyself,  O  Ahura  Mazda  !  declare3  to  us
 (the  truth)  as  Thy  Good  Mind's  full  revealer.
 
@@ -4589,17 +4237,14 @@ righteous  (the  believing  saint)  or  the  wicked  (opponent)  believe  ? '
 
 2  See  verse  12.
 
-3  Or  with  others  '  be  Thou  ' ;  but  the  gloss  of  the  Pahlavi  transla-
-tion contains  an  explanation  which  may  well  afford  the  true  solution
-as  in  so  many  instances  in  which  he  is  both  consciously  and  inadver-
-tently followed.  It  reads  [aighmano  bara  khavitunino — ].  May
+3  Or  with  others  '  be  Thou  ' ;  but  the  gloss  of  the  Pahlavi  translation contains  an  explanation  which  may  well  afford  the  true  solution
+as  in  so  many  instances  in  which  he  is  both  consciously  and  inadvertently followed.  It  reads  [aighmano  bara  khavitunino — ].  May
 we  not  see  an  az  =  ah  in  the  form,  or  at  least  a  separate  Iranian  root,
 as  also  in  azda  (L,  1),  where  the  Pahlavi  translator  gives  the  same
 explanation  admirably  suited  to  the  context.
 
 Neryosangh :  Which  is  it,  the  pure  of  soul,  or  the  wicked  who
-teaches  as  the  great  one  ?  [  ]  The  intelligent  speaks  to  the  intelli-
-gent [  ].  Be  not  thou  ignorant  after  this  ;  because  (ignorance  is)
+teaches  as  the  great  one  ?  [  ]  The  intelligent  speaks  to  the  intelligent [  ].  Be  not  thou  ignorant  after  this  ;  because  (ignorance  is)
 from  the  deceiver.  Instruct  us,  O  Great  Wise  One,  the  Lord  !  j
 Furnish  us  with  a  sign  through  the  Best  Mind ;  [that  is,  make  me
 steadfast  in  good  conduct  through  the  recognition  of  the  din].  Such
@@ -4647,18 +4292,15 @@ mind;'  possibly,  also  chap.  XXX,  1,  'the  signs  in  the  lights  seen
 friendly.'
 
 3  According  to  the  grammatical  forms  the  agent  here  must  be  a
-divine  being,  as  ye  mawta  ashem  ahiibij  (see  verse  7)  is  charac-
-teristic of  the  Deity.  The  vocative,  strange  as  it  may  seem,  does
+divine  being,  as  ye  mawta  ashem  ahiibij  (see  verse  7)  is  characteristic of  the  Deity.  The  vocative,  strange  as  it  may  seem,  does
 not  necessarily  exclude  Ahura,  as  the  subject  referred  to  in  ye.
 Several  analogous  cases  occur.  The  Deity  may  here  however
 represent  His  prophet,  as  the  Daevas  do  their  worshippers  in
-the  later  Avesta.  Some  writers  force  the  language  into  a  refer-
-ence to  the  human  subject  for  the  sake  of  the  greatly  to  be  desired
+the  later  Avesta.  Some  writers  force  the  language  into  a  reference to  the  human  subject  for  the  sake  of  the  greatly  to  be  desired
 simplicity.
 
 One  places  Ahura  in  the  instrumental,  a  case  in  which  the
-Almighty  seldom  appears.  The  above  translation  needs  no  alterna-
-tive, as  the  language  would  be  the  same  whoever  ye  refers  to.
+Almighty  seldom  appears.  The  above  translation  needs  no  alternative, as  the  language  would  be  the  same  whoever  ye  refers  to.
 
 4  See  note  on  verse  3,  and  read  as  alternative  '  from  the  two
 ara«i.'  As  an  inferior  rendering  of  tradition  I  cite  Neryosangh  here:
@@ -4667,27 +4309,20 @@ subjunctive  sense);  [that  is,  a  study  should  be  made  of  it  by  him]
 who  is  even  (in  any  degree)  acquainted  with  the  righteous  design  of
 Hormio-da  for  both  the  worlds.  He  is  independent  in  the  literal
 truth  of  his  words,  in  his  freedom  of  speech,  [and  his  fear  has  no
-existence].  Thy  brilliant  fire  gives  the  explanation  to  the  con-
-tenders.   [It  makes  purity  and  impurity  evident.]
+existence].  Thy  brilliant  fire  gives  the  explanation  to  the  contenders.   [It  makes  purity  and  impurity  evident.]
 
 E  2
 
 
-52  THE    GATHAS.
-
-
-the  saint  deceived1,  for  him  shall  be  later  destruc-
-tion2. Long  life  shall  be  his  lot  in  the  darkness  ;
+the  saint  deceived1,  for  him  shall  be  later  destruction2. Long  life  shall  be  his  lot  in  the  darkness  ;
 foul  shall  be  his  food  ;  his  speech  shall  be  of  the
 lowest3.  And  this,  which  is  such  a  life4  as  your
 own,  O  ye  vile  !  your  (perverted)  conscience  through
 your  own  deeds  will  bring  5  you6 !
 
 21.  But  Ahura  Mazda  will  give  both  Universal
-Weal  and  Immortality7  in  the  fulness  of  His  Right-
-eous Order,  and  from  himself8  as  the  head9  of
-Dominion  (within  His  saints).  And  He  will  like-
-wise give  the  Good  Mind's  vigorous  might 10  to  him
+Weal  and  Immortality7  in  the  fulness  of  His  Righteous Order,  and  from  himself8  as  the  head9  of
+Dominion  (within  His  saints).  And  He  will  likewise give  the  Good  Mind's  vigorous  might 10  to  him
 who  in  spirit  and  deeds  is  His  friend11,  (and  with
 faith  fulfils  his  vows  12).
 
@@ -4706,8 +4341,7 @@ for  the  more  complete  Vast  XXII.
 6  'Has  led  on'?
 
 6  I  cite  Ner. :  He  who  betrays  the  pure  through  his  fraud,  may
-(deceit)  be  (also  his  portion)  at  the  last ;  [that  is,  let  it  be  so  after-
-wards ;  it  is  in  his  soul].  Long  is  his  journey,  and  his  arrival  is  in
+(deceit)  be  (also  his  portion)  at  the  last ;  [that  is,  let  it  be  so  afterwards ;  it  is  in  his  soul].  Long  is  his  journey,  and  his  arrival  is  in
 darkness;  and  evil  food  and  increasing  lawlessness  is  his  |  ].
 Darkness  is  your  world,  O  ye  wicked !  your  in-bred  deeds,  and
 your  din,  are  leading  you  on.
@@ -4720,8 +4354,7 @@ perhaps  'from  His  own  Dominion.'
 9  Sardanh.  10  Vazdvarih ;  Ner.  pfvaratvam.
 
 11  One  naturally  thinks  of  urvatha  (vratha),  as  having  something
-of  the  sense  of  vratya.  But  usage  compels  also  the  sense  of  friend-
-ship. Hiibschmann,  Casuslehre,  s.  259,  'der  durch  Gesinnung  und
+of  the  sense  of  vratya.  But  usage  compels  also  the  sense  of  friendship. Hiibschmann,  Casuslehre,  s.  259,  'der  durch  Gesinnung  und
 Thaten  sich  ihm  als  freund  erweist.'
 
 12  Ner.:  Maha^Ttani  dadau  Svami*  avirdadat*  amirdadat  sawpur-
@@ -4739,8 +4372,7 @@ Mazda  !  such  a  man  shall  be  the  most  helpful  and
 vigorous  being2  (for  he  serves  with  every  power3)!
 
 nztva.m  puzzyatmane  [  ]  niga?n  prabhutvaw  ragne  *  adhipatyena  [
-uttamena  pivaratva/«  manasa  [-tasmai  dadate],  yo  ni^asya  a&ris-
-yamurte/z  karmazza  mitraz/z.
+uttamena  pivaratva/«  manasa  [-tasmai  dadate],  yo  ni^asya  a&risyamurte/z  karmazza  mitraz/z.
 
 1  So  according  to  frequent  indications.
 
@@ -4754,9 +4386,6 @@ when  according  to  his  understanding  he  disposes  and  reflects,
 and  dastur  declares  to  him].  Good  is  the  King  for  whom  they
 would  effect  righteousness  in  word  and  deed,  the  man  whose  body
 is  a  bearer  of  Thee,  O  Auharmazd!
-
-
-54  THE    GATHAS.
 
 
 YASNA  XXXII.
@@ -4785,10 +4414,8 @@ whom  they  would  serve  is  supreme ;  they  need  not  fear.
 3.  After  reporting  this  response  of  Ahura,  the  composer  turns
 with  vehemence  toward  the  Daevas,  poetically  conceived  to  be
 present  as  if  before  their  adherents,  who  also,  according  to  verse  1,
-are  supposed  to  be  in  sight  (or  are  dramatically  so  conceived)  cele-
-brating their  profane  devotions  ;  and  he  addresses  them  as  the  '  very
-seed'  of  Satan.  Their  worshippers  belong  to  the  religious  false-
-hood and  perversity.  And  they  have  persistently  propagated  their
+are  supposed  to  be  in  sight  (or  are  dramatically  so  conceived)  celebrating their  profane  devotions  ;  and  he  addresses  them  as  the  '  very
+seed'  of  Satan.  Their  worshippers  belong  to  the  religious  falsehood and  perversity.  And  they  have  persistently  propagated  their
 evil  creed,  which  is  in  consequence  spreading.
 
 4.  They  have,  so  he  acknowledges  with  grief,  perverted  men's
@@ -4812,11 +4439,9 @@ YASNA   XXXII.  55
 
 
 7.  The  composer  then  contemplates  with  religious  irony  the
-infatuated  security  of  the  wretched  delinquents  whom  he  is  apos-
-trophising. Not  a  man  of  them  knows  the  destruction  which
+infatuated  security  of  the  wretched  delinquents  whom  he  is  apostrophising. Not  a  man  of  them  knows  the  destruction  which
 awaits  him,  and  which,  as  he  intimates,  is  close  at  hand,  but  Ahura,
-he  significantly  exclaims,  is  aware  of  it.  And  it  will  be  proportion-
-ably  severe.  The  blindness  of  sinners  to  danger  seems  as  definite
+he  significantly  exclaims,  is  aware  of  it.  And  it  will  be  proportionably  severe.  The  blindness  of  sinners  to  danger  seems  as  definite
 a  judgment  upon  them  in  his  estimate  as  their  blindness  to  the
 truth.
 
@@ -4841,14 +4466,12 @@ carrying  murder  among  the  saints.
 11.  He  utters  his  bitter  wail  in  view  of  attempted  slaughter,
 and  actual  spiritual  opposition.  He  points  out  the  plots  among
 the  powerful  and  their  illegal  confiscation  of  inheritances,  as  well
-those  of  women  as  those  of  men.  And  he  declares  that  his  op-
-ponents are  endeavouring  to  injure  his  adherents,  as  if  repelled  by
+those  of  women  as  those  of  men.  And  he  declares  that  his  opponents are  endeavouring  to  injure  his  adherents,  as  if  repelled  by
 the  best  spiritual  qualities  which  an  individual  could  possess.
 
 12.  He  announces  the  solemn  judgment  of  God  upon  it  all,
 especially  reprobating  those  who  deal  treacherously  against  the
-mystical  Kine;  that  is,  the  holy  herds  and  people,  and  apostrophis-
-ing those  who  prefer  the  GrAma  above  the  saving  and  sanctifying
+mystical  Kine;  that  is,  the  holy  herds  and  people,  and  apostrophising those  who  prefer  the  GrAma  above  the  saving  and  sanctifying
 Asha,  and  the  Kingdom  of  the  Lie-demon  above  the  Divine
 Khshathra.
 
@@ -4862,9 +4485,6 @@ He  can  have  no  share  in  the  Faith.
 (Here  it  may  be  noticed  that  we  have  some  data  for  presenting
 
 
-56  THE    GATHAS.
-
-
 the  main  features  of  the  struggle.  In  several  instances,  centring
 perhaps  in  the  actual  description  of  a  battle  in  XL1V,  15,  16,  we
 see  traces  of  the  closeness  of  the  controversy.  In  XLIV,  15,  the
@@ -4874,8 +4494,7 @@ or  '  regretful  desire,'  while  judicial  blindness  is  referred  to  over  
 over  again  under  various  phrases.  One  might  suppose  that  the
 Daeva-party  were  very  near  the  Zarathmtrians  in  many  of  their
 religious  peculiarities,  but  that  they  could  not  accede  to,  or
-understand,  the  dualism.  After  the  manner  of  Pagans  they  impli-
-cated the  Gods  in  their  sins.  (Compare  the  drunken  Indra.)  At
+understand,  the  dualism.  After  the  manner  of  Pagans  they  implicated the  Gods  in  their  sins.  (Compare  the  drunken  Indra.)  At
 all  events  a  bitter  and  violent  war  of  doctrines  was  waging  with
 both  speech  and  weapons.  I  think  it  looks  like  the  struggle  '  of
 two  parties '  who  each  claimed  to  be  the  proper  representative  of
@@ -4883,8 +4502,7 @@ some  similar  form  of  faith,  similar,  of  course  I  mean,  outwardly.)
 
 14.  Deploring  the  establishment  of  the  Kavis  who  approach
 with  stratagems  and  false  teachings  to  aid  the  opposing  party,  the
-composer  declares  that  they  say  that  the  Kine  herself  is  to  be  in-
-jured instead  of  blessed  by  the  very  fire-priest  who  kindles1  the
+composer  declares  that  they  say  that  the  Kine  herself  is  to  be  injured instead  of  blessed  by  the  very  fire-priest  who  kindles1  the
 altar-flame.
 
 15.  He  supports  himself  however  with  the  hope  of  ultimate
@@ -4916,8 +4534,7 @@ ruin  and  to  death2,  is  active  in  his  efforts,  and  offer-
 YASNA    XXXII.  57
 
 ing  the  devotions  of  his  false  religion  to  accomplish
-his  ends.)  I.  His1  lord-kinsman  will  pray2  (as  I  Zara-
-thu^tra  prayed),  and  his  labouring  villagers,  with  his
+his  ends.)  I.  His1  lord-kinsman  will  pray2  (as  I  Zarathu^tra  prayed),  and  his  labouring  villagers,  with  his
 (trusted)  peers,  and  his  (fellow)  Daeva-worshippers 3.
 But  in  my  mind  is  the  friendship4  of  Ahura  Mazda,
 the  Great  Creator,  the  living  Lord ;  and  Thine
@@ -4945,8 +4562,7 @@ Daeva-worshipper  in  this  early  composition  is  not  probable.  In
 the  later  Avesta  it  is  frequent  usage.
 
 4  Or,  '  the  friend ; '  I  recoil  as  much  as  possible  from  abstracts,
-but  the  Pahlavi  has  hu-ravakh-manih,  and  Geldner  admirably  pro-
-posed brahman.
+but  the  Pahlavi  has  hu-ravakh-manih,  and  Geldner  admirably  proposed brahman.
 
 5  Aighsan  min  Lekum  lakhvar  yakhsenunem  ;  so  the  Pahlavi
 translation,  first  venturing  on  the  meaning  '  holding  back  from;'
@@ -4964,32 +4580,26 @@ following  '  from  His  Kingdom.'
 verezo.
 
 
-5  8  THE    GATHAS.
-
-
 your  good  and  bountiful  Piety,  and  we  have  chosen
 her  ;  ours  shall  she  be1  !
 
 3.  But  you,  O  ye  Daevas !  are  all  a  seed  from  the
 Evil  Mind2.  He  who  offers  sacrifice3  to  You  the
-most 4  is  of  the  Lie-demon,  and  (he  is  a  child)  of  per-
-version 5.  In  advance 6  (are  your)  deceits  whereby  ye
+most 4  is  of  the  Lie-demon,  and  (he  is  a  child)  of  perversion 5.  In  advance 6  (are  your)  deceits  whereby  ye
 are  famed  in  the  sevenfold  7  earth  !
 
 4.  For  ye  (are)  confusing  our  thoughts  8,  whereby
 men,  giving  forth  the  worst  deeds,  will  speak  9,  as  of
 
 
-1  Aigh  Spendarma</  Lekum  rai  .rapir  doshem  [bundak  mmis-
-nih]  zak  i  lanman  aito  [aighmano  pavan  tanu  mahman  yehevtinarf].
+1  Aigh  Spendarma</  Lekum  rai  .rapir  doshem  [bundak  mmisnih]  zak  i  lanman  aito  [aighmano  pavan  tanu  mahman  yehevtinarf].
 
 Neryosangh  :  To  these  the  Great  Wise  (One),  the  Lord,  answered
 in  the  lordship  of  the  highest  (best)  mind ;  [that  is,  if,  or  since,
 Gvahmana  had  arrived,  as  a  guest,  within  (their)  body] ;  from
 Saharevara  he  answered  [  ]  through  (their)  righteousness,  from  the
 well-inclined,  and  through  good  conduct,  [if  truly  good  conduct
-had  arrived  as  a  guest^  within  (their)  body].  And  he  said :  I  be-
-friend your  Earth  (so  Aramaiti  was  later  understood),  the  perfect-
+had  arrived  as  a  guest^  within  (their)  body].  And  he  said :  I  befriend your  Earth  (so  Aramaiti  was  later  understood),  the  perfect-
 minded  one,  and  your  highest  one ;   she  is  mine  [  ].
 
 2  Compare  Yasna  XXX,  6.  Where  the  Daevas  are  approached
@@ -5049,8 +4659,7 @@ Gvahmana^*  dure*  aste.
 
 3  The  Pahlavi  also  freely  frifeV  amutaan  pavan  hu-zivimih.
 
-*  Fra&nas  far  from  necessarily  means  '  gave  ' ;  '  assigned,'  '  indi-
-cated '  renders  it  more  closely.  The  Pahlavi  has  here  correctly,  but
+*  Fra&nas  far  from  necessarily  means  '  gave  ' ;  '  assigned,'  '  indicated '  renders  it  more  closely.  The  Pahlavi  has  here  correctly,  but
 freely,  ka.shed.
 
 6  The  Pahlavi  has  here  jalitaih  for  khshayo,  and  in  XXVIII,  8
@@ -5078,8 +4687,7 @@ with   an-evil  (-word  as  concerning)  action  with-word  (rules),  by
 
 
 6.  Full  of  crime  (your  leader)  has  desired  to
-destroy l  us,  wherefore  he  is  famed,  (and  his  doc-
-trine is  declared)  ;  but  if  this  be  so  of  these,  then
+destroy l  us,  wherefore  he  is  famed,  (and  his  doctrine is  declared)  ;  but  if  this  be  so  of  these,  then
 in  the  same  manner,  O  Ahura  !  Thou  possessest 2
 (because  Thou  knowest)  the  true  (teachings)  in  Thy
 memory3.  And  in  Thy  kingdom  and  Thy  Righteous
@@ -5108,8 +4716,7 @@ sense.     Or,  '  Thou  knowest  with  the  Best  Mind.'
 *  Parsi-persian  MS.:  Bisyar  kinah-varzandah  kinah  'hwahad,
 [kus  wanah-karan  padafrah  kuned],  kih,  guft  +  srud  isted  [kih  guft
 isted] ;  ku,  kih  o^an  bwumar  [ku,  padafrah  pah  an  zaman
-tamam  bih  kunand,  kih  ruwan  baz  an  tan  dehad].  Zahir  jumar-
-kunandah  Hormuzd  [ku  pah  wanah  wa  kirfah  mmar-kunand] ;
+tamam  bih  kunand,  kih  ruwan  baz  an  tan  dehad].  Zahir  jumarkunandah  Hormuzd  [ku  pah  wanah  wa  kirfah  mmar-kunand] ;
 wan  i  buland  agah  pah  Bahman  [muzd  danad ;  ku  an  kih  bayad
 dadan].  Pah  an  i  Tu  i  -Suma,  Hormuzd  !  'huda,  an  i  Sawab
 amu'htan  bih  danestuwan  (sic  vid) ;  [kih  6"uma  paduahi  tamam
@@ -5183,9 +4790,6 @@ out  by  Thee,  O  Auharmazd !  hereafter ;  [that  is,  even  by  Thee  I
 am  considered  as  good].
 
 
-62  THE    GATHAS.
-
-
 9.  An  evil  teacher  (as  that  leader  is),  he  will  l
 destroy  (our)  doctrines,  and  by  his  teachings  he  will
 pervert  the  (true)  understanding  of  life,  seizing  away2
@@ -5212,8 +4816,7 @@ favourably).
 
 3  Zak  i  li  ishti  avorto  [ — khvastak  i  pavan  dastobar].
 
-4  Pavan  valmanyan  milaya  i  minavadiha ;  Ner.  vagbhi/z  ma-
-nasavrz'ttya  aham — akrandaye  (not  following  our  present  Pahlavi
+4  Pavan  valmanyan  milaya  i  minavadiha ;  Ner.  vagbhi/z  manasavrz'ttya  aham — akrandaye  (not  following  our  present  Pahlavi
 text,  the  gloss  however).  Observe  that  in  reading  Ner.  we  by  no
 means  ipso  facto  read  the  Pahlavi,  either  in  correct  translation,  or  as
 following  our  texts.    Compare  XLVI,  2.
@@ -5227,8 +4830,7 @@ for  'y'  as  often  'y'  for  'v.'  The  Pahlavi  language,  not  to  speak
 of  the  Pahlavi  translation,  suggests  it.  How  are  we  to  account  for
 the  word  viyavanine</?  We  should  not  arrest  our  philology  at
 the  Zend  and  Sanskrit.  The  long  vowel  is  most  awkward  for  a
-comparison  with  the  Indian  vap  =  shear.  And  I  think  that  'de-
-stroying the  means  of  irrigation  '  gives  as  good  a  meaning  as
+comparison  with  the  Indian  vap  =  shear.  And  I  think  that  'destroying the  means  of  irrigation  '  gives  as  good  a  meaning  as
 '  shearing  the  land.'  Notice  that  elsewhere  a  more  correct  form
 appears,  viapotemem  (Vd.  Ill,  15,  (51  Sp.)  )  =  viyap6temem.
 Literally,  '  he  will  discharge  his  club  at  the  righteous.'
@@ -5247,8 +4849,7 @@ that  they  are),  and  those  who  will  fiercely  wound
 the  better  mind  of  the  holy 6.
 
 12.  (But  Ahura  will  speak  His  rebuke,  for)  as  to
-those  doctrines  which  (such)  men  may  be  (basely)  de-
-livering7 (repelled)  by  the  holiest  action,  (and  galled8
+those  doctrines  which  (such)  men  may  be  (basely)  delivering7 (repelled)  by  the  holiest  action,  (and  galled8
 by  its  sacred  truth)  God  hath  said  :  Evil  (are  they  !
 Yea,  unto  these  He  hath  said  it)  who  have  slain  the
 Kine's  life  by  a  blessing  (and  have  cursed  her  while
@@ -5256,10 +4857,8 @@ they  offered  to  help  her9),  men  by  whom  Gr^hmas
 are  loved  above  Righteousness,  and  the  Karpans,
 
 
-1  The  Pahlavi  translator  erroneous,  or  free,  as  to  -£ikoitere.r,  indi-
-cates the  proper  sense  of  mazibii-  by  pavan  masai  [ — pavan
-peshpayih  va  paspayih — ] ;  but  Neryosangh,  mahattaya-pura/fc-
-sarataya.
+1  The  Pahlavi  translator  erroneous,  or  free,  as  to  -£ikoitere.r,  indicates the  proper  sense  of  mazibii-  by  pavan  masai  [ — pavan
+peshpayih  va  paspayih — ] ;  but  Neryosangh,  mahattaya-pura/fcsarataya.
 
 2  Comp.  XXXI,  12,  'there  high  his  voice  lifts  the  truthful  or
 liar.'
@@ -5285,9 +4884,6 @@ and  ceremonial)  action ;  but  to  these  men  Mazda  declared :  Evil
 8  See  the  previous  verse.
 
 9  The  Pahlavi  has  hu-ravakh-manih  yemalelund.
-
-
-64  THE    GATHAS.
 
 
 and  the  Throne  of  those  who  have  wished  1  for  the
@@ -5316,8 +4912,7 @@ upon  the  truth.
 
 5  Comp.  XXX  6.
 
-6  Or,  '  they  gladly  complain  ; '  so  also  the  Pahlavi :  Mun — gar-
-zisnb  kamak.  The  singular  ^lgereza/  is  difficult  with  yaeH.
+6  Or,  '  they  gladly  complain  ; '  so  also  the  Pahlavi :  Mun — garzisnb  kamak.  The  singular  ^lgereza/  is  difficult  with  yaeH.
 Many  would  alter  the  text  at  once,  and  the  temptation  is  great.
 
 7  Htibschm.,'y<?  u  pa/daresa/  ashahya  der  sie  abhaltevom  Schauen
@@ -5336,8 +4931,7 @@ as  the  meaning  of  the  word.  Possibly  some  impious  chieftain  is
 meant  whose  procedure  was  of  that  nature.  The  word  occurs  in
 the  plural.
 
-9  A  hoi;  Thwoi  is  difficult.  Or  (see  Y.  XLIV,  14), 'Thine  under-
-standing has  subdued  the  Kavis.'  The  Pahlavi  translator  renders
+9  A  hoi;  Thwoi  is  difficult.  Or  (see  Y.  XLIV,  14), 'Thine  understanding has  subdued  the  Kavis.'  The  Pahlavi  translator  renders
 masih,  as  if  he  had  read  ahuthwoi,  offering  an  important  alternative.
 
 
@@ -5358,14 +4952,11 @@ Karpans'  and  Kavis'  disciples.  And  after  these
 render  no  longer  rulers  at  will  over  life,  (and  deprive
 of  their  absolute   power),  these  shall  be  borne  (at
 
-Read :  In  his  dominion  he  has  established  the  Kavis  and  their  in-
-tended plans.     Reading  hoithoi,  '  his  G.  is  to  be  bound.'
+Read :  In  his  dominion  he  has  established  the  Kavis  and  their  intended plans.     Reading  hoithoi,  '  his  G.  is  to  be  bound.'
 
-1  The  predecessors  of  the  Pahlavi  translator  seem  to  have  under-
-stood the  word  var(e)&zu  as  conveying  the  idea  of  power  rather  than
+1  The  predecessors  of  the  Pahlavi  translator  seem  to  have  understood the  word  var(e)&zu  as  conveying  the  idea  of  power  rather  than
 that  of  brilliancy.  He  renders  freely  pavan  zak  1  varzanan  avaruno
-danakanS.  Supposing  the  text  to  stand,  and  not  supplying  a  forma-
-tion from  var(e)z,  we  may  hold  that  there  existed  a  var(e)/C'  beside
+danakanS.  Supposing  the  text  to  stand,  and  not  supplying  a  formation from  var(e)z,  we  may  hold  that  there  existed  a  var(e)/C'  beside
 var(e)z,  as  there  undoubtedly  was  a  har(e)£  (see  hareta)  beside
 har(e)z.     This  casts  light  on  the  Vedic  var^as.
 
@@ -5382,17 +4973,13 @@ translator  read  vao^aya/.  Reading  with  him,  we  might  render:
 When  the  Kine  which  (ya  ?)  caused  a  death-removing  help  to  be
 declared,  was  said  to  be  meet  for  subjection  (or  slaying,  reading  an
 infinitive  from  gan).  This  rendering  is  more  probable  than  that
-from  sao^aya/.  The  Kine  distinctly  caused  this  help  to  be  de-
-clared. See  XXIX.  But  I  make  it  a  matter  of  principle  to  follow
+from  sao^aya/.  The  Kine  distinctly  caused  this  help  to  be  declared. See  XXIX.  But  I  make  it  a  matter  of  principle  to  follow
 the  MSS.  in  a  first  translation,  where  that  is  at  all  possible.
 
 4  The  Pahlavi  translator  differs  greatly  here,  having  taken  anaLr
 with   adverbial  force,  and  as  possessing  the  a  priv.  (they  being
 
 [3i]  F
-
-
-66  THE    GATHAS.
 
 
 last)  by  the  (immortal ])  two  to  the  home  of  (Thy)
@@ -5441,8 +5028,7 @@ offering).     Geldner  lately  admirably  suggests  a  2nd  sg.
 
 0  Pavan  farakhu  hushih.
 
-fi  If  this  'best  one'  is  the  Ratu  of  XXXIII,  1,  all  is  gramma-
-tically clear ;    but  the  expressions  are  rather   strong   in  view  of
+fi  If  this  'best  one'  is  the  Ratu  of  XXXIII,  1,  all  is  grammatically clear ;    but  the  expressions  are  rather   strong   in  view  of
 
 
 YASNA    XXXII.  67
@@ -5483,21 +5069,16 @@ vivapem  =  viyapa/,  viyapem.)
 F   2
 
 
-68  THE    GATHAS.
-
-
 YASNA   XXXIII.
 Prayers,  Hopes,  and  Self-Consecration.
 
-Brighter  times  seem  to  have  arrived.     The  vengeance  so  confi-
-dently promised   in    the    close    of  XXXII  is  described  as  near
+Brighter  times  seem  to  have  arrived.     The  vengeance  so  confidently promised   in    the    close    of  XXXII  is  described  as  near
 at  hand.     In  fact  the  first  three  verses  seem  to  belong  as  much
 to  XXXII  as  to  the   present  chapter.    They  remind  one  of  the
 choruses  of  attending  saints,  or  '  Immortals,'  in  XXIX,  perfectly
 germane  to  the  connection,  but  referring  in  the  third  person  to
 a   speaker  who    closes    the    last    chapter    with    a    first,  and  who
-begins  again  with  a   first   in  verse  4.     The  propriety  of  a  divi-
-sion of  chapters  here  rests  upon  the  fact  that  the  thought  comes
+begins  again  with  a   first   in  verse  4.     The  propriety  of  a  division of  chapters  here  rests  upon  the  fact  that  the  thought  comes
 to   a    climax    at  XXXII,   16,    beginning   afresh    at    XXXIII,    4.
 Whether  Zarathujtra,  or  the  chief  composer,  whatever  his  name
 may  have  been,  composed  these  three  verses  relating,  as  they  do,
@@ -5534,8 +5115,7 @@ YASNA    XXXIII.  69
 3.  And  accordingly  the  reciter  is  made  to  pray  in  this  immediate
 connection    for  a   sincere    and   useful    friend  (a  vahi.rta)   to    the
 believer,  to  whichever  class  he  may  belong,  whether  chief,  allied
-peer,  or  villager,  a  friend  spiritually  enlightened  (vidas),  and,  accord-
-ing to  Ahura's  prescript  (XXIX,  2),  keen,  persevering,  and  brave  in
+peer,  or  villager,  a  friend  spiritually  enlightened  (vidas),  and,  according to  Ahura's  prescript  (XXIX,  2),  keen,  persevering,  and  brave  in
 the  cultivation  of  cattle  (thwakhshangha  gavoi).    '  Let  such  an  one  as
 this,  so  asked  for  by  the  Lord  himself,  so  needed  by  the  Kine,  let
 him,'  he  prays,  '  be  supported  in  his  holy  toil  for  us.  Let  him  till  and
@@ -5552,30 +5132,23 @@ that  Zarathurtra  is  the  speaker  here,  we  acquire  some  additional
 grounds   for  believing  that  the  person  who  wrote  (if  we  can  apply
 such  an  expression  to  the  author)  the  words  '  to  Zaratrnutra  and  to
 us.'  as  well  as  '  to  Vutaspa  and  to  me,'  and  '  to  Frashao^tra  and
-to  me,'  was  universally  recognised  to  be  Zarathurtra  himself  com-
-posing a  piece  to  be  recited  by  another.     As  if  in  response  to  the
+to  me,'  was  universally  recognised  to  be  Zarathurtra  himself  composing a  piece  to  be  recited  by  another.     As  if  in  response  to  the
 expression  iri  verse  3,  recalling  that  although  a  vahijta  (a  best  one)
 to  some  of  each  class  (verse  1)  he  was  no  contenter  of  the  wicked
 (XLIII,  15),  he  begins  a  prayer  which  is  only  completed  by  its
-izya  in  verse  6,  and  which  gathers  force  by  each  preceding  profes-
-sion of  fidelity.     And  true  to  a  practical  dualism,  he  first  abjures
-the  leading  sin  of  disobedience  to  God,  and  of  arrogance,   dis-
-content, and  dishonesty  toward  man,  accompanied  (as  it  seems
+izya  in  verse  6,  and  which  gathers  force  by  each  preceding  profession of  fidelity.     And  true  to  a  practical  dualism,  he  first  abjures
+the  leading  sin  of  disobedience  to  God,  and  of  arrogance,   discontent, and  dishonesty  toward  man,  accompanied  (as  it  seems
 to  have  been)  with  neglect  of  the  all-important  duties  to  the  cattle
 who  shared  the  sanctity  of  '  the  soul '  of  their  representative.     And
 perhaps  it  is  this  practical  severity  of  dualism  as  opposed  to  the
 more  facile  '  lying '  of  the  opposed  religion,  which  was  the  cause  of
 that  high  reputation  of  the  Persians  for  veracity,  which  was  grouped
 with  avoiding  debt  by  Herodotus  among  the  virtues  of  the  race.
-5.  I,  he  goes  on  to  say,  or  to  imply,  I  who  not  only  abjure  dis-
-obedience, insolence,  complaint,  and  lying,  but  especially  invoke
+5.  I,  he  goes  on  to  say,  or  to  imply,  I  who  not  only  abjure  disobedience, insolence,  complaint,  and  lying,  but  especially  invoke
 the  great  genius  who  is  Obedience  himself,  Obedience  toward  God,
 (Thee),  endeavouring  as  I  do  by  this   abjuration  and   prayer  to
 attain,    not   to   a  '  hundred    autumns '   of  booty  and   glory,    but
 to  a  long  life  in  the  kingdom  which  was  established  in  the  spirit  of
-
-
-70  THE    GATHAS.
 
 
 the-  Divine  Benevolence,  and  to  paths  not  only  for  the  war-cart,  or
@@ -5607,8 +5180,7 @@ possible  desires,  and  the  most  of  all  things  worthy  of  a  '  sight  of
 Mazda  and  of  consultation  with  Him.'  How  the  fields  had  better
 be  worked,  and  how  the  people  could  best  be  kept  from  bloody
 freebooting  as  aggressors  or  as  victims,  this  involved  Ahura's
-Righteous  Order,  Benevolence,  Power,  and  Piety,  the  four  energis-
-ing Immortals  all  at  once.  And  this  only  could  secure  the  other
+Righteous  Order,  Benevolence,  Power,  and  Piety,  the  four  energising Immortals  all  at  once.  And  this  only  could  secure  the  other
 two  rewarding  personifications,  Welfare  and  Immortality.
 
 7.  Having  prayed  for  that  which  is  the  first  virtue  of  civilised
@@ -5653,8 +5225,7 @@ Order  (which  alone  can  '  push  on  '  the  settlements),  the  Good  Mind
 of  God  within  His  people,  and  His  kingdom,  to  turn  their  mental
 ears  and  listen,  and  listening  to  pardon.
 
-12.  And  specifying  the  one  central  object  of  desire,  the  Thrift-
-law,  the  Avesta  of  the  Ratu,  or  Saoshya«t,  he  asks  Ahura  to  arise
+12.  And  specifying  the  one  central  object  of  desire,  the  Thriftlaw,  the  Avesta  of  the  Ratu,  or  Saoshya«t,  he  asks  Ahura  to  arise
 to  his  help  and  give  him  spiritual  strength  by  sustaining  him  through
 the  inspiring  Righteousness  and  the  Good  Mind,  in  an  effective
 invocation.
@@ -5671,14 +5242,10 @@ accept  verse  14  as  a  legitimate  continuation.  Its  '  Zarathurtra '
 may  mean  '  I '  just  as  '  David '  is  used  by  the  Psalmist  for  '  me.'
 And  the  language  can  mean  nothing  but  a  dedication  of  all  that  he
 is  and  has  to  God,  his  flesh,  his  body,  his  religious  eminence,  the
-obedience  which  he  offers  in  word  and  deed,  inspired  by  Righteous-
-ness, and  the  Kingdom  which  he  has  succeeded  in  saving  and
+obedience  which  he  offers  in  word  and  deed,  inspired  by  Righteousness, and  the  Kingdom  which  he  has  succeeded  in  saving  and
 blessing.  (I  do  not  think  that  I  have  at  all  exaggerated  the  grasp
 and  fervour  of  this  section.  Less  could  not  be  said,  if  the  words
 are  to  be  allowed  their  natural  weight.)
-
-
-*]2  THE    GATHAS.
 
 
 Translation.
@@ -5691,8 +5258,7 @@ toward  the  righteous,  and  toward  him  whose  deeds
 of  fraud 3  and  righteous  deeds  combine  (in  equal
 measure).
 
-2.  Yea,  (he  will  act  with  justice  but  with  ven-
-geance, for)  he  who  does  evil  to  the  wicked  by  word,
+2.  Yea,  (he  will  act  with  justice  but  with  vengeance, for)  he  who  does  evil  to  the  wicked  by  word,
 or  with  thought  (and  plan),  and  (who  therein  does
 not  dally,  but  toils  labouring  as)  with  both  the  hands,
 or  he  (again)  who  admonishes  one  for  his  good4,  such
@@ -5711,8 +5277,7 @@ look  irresistibly  like  two  genitives.  I  would  render  as  an  emphatic
 alternative  'what  fraud  he  may  lay  hold  of  (h^myasaite  with  the
 gen.),  reach  (of  the  one),  and  what  (seem)  to  him  the  righteous
 deeds  (of  the  other).'  But  if  Roth  and  the  Pahlavi  are  right,  we
-have  here  the  origin  of  the  later  hamestaga,  the  souls  in  the  inter-
-mediate place  between  Heaven  and  Hell,  whose  sins  and  good
+have  here  the  origin  of  the  later  hamestaga,  the  souls  in  the  intermediate place  between  Heaven  and  Hell,  whose  sins  and  good
 works  have  been  equal  (West,  Gloss,  to  M.  i  K.).  The  Persian
 manuscript  of  Haug  12  b.  has  :  Kih  \k  (pro  ham)  u  i  an  ham
 rastd  ested  an  i  duru^//,  kih  \k  (ham)  u  an  i  'halu  [ku,  hamestan].
@@ -5731,23 +5296,18 @@ love  of  Ahura.     Pahlavi :  Pavan  zak  1  lak  doshijnS,  Auharmazd  !
 YASNA    XXXIII.  73
 
 
-1
-
-
 3.  (And  so  may  it  be),  O  Ahura  !  Let  the  man
 who  is  the  best  toward  the  righteous  saint,  whether
 lord's  kinsman  1,or  as  village  labourer,  with  the  allied  2
 peer  (of  the  master),  having  light,  and  endowed  with
 energy  for  the  cattle  (a  Ratu  such  as  Ahura  sought
 to  satisfy  their  wail),  let  such  an  one  be  (for  us)3  in
-the  work-field  of  the  Righteous  Order,  in  the  pas-
-tures of  Thy  Good  Mind4.
+the  work-field  of  the  Righteous  Order,  in  the  pastures of  Thy  Good  Mind4.
 
 4.  (And  I  beseech  for  Thine  instruction),  I  who
 will  abjure5  all  disobedience  (toward  Thee,  praying
 that  others  likewise  may  withhold  it)  from  Thee ;  I
-who  abjure  the  Evil  Mind  as  well,  the  lordly  kins-
-man's arrogance  G,  and  that  lying  sin  which  is  (alas  !)
+who  abjure  the  Evil  Mind  as  well,  the  lordly  kinsman's arrogance  G,  and  that  lying  sin  which  is  (alas  !)
 the  next  thing  to  the  people7  (their  most  familiar
 fault),  and  the  blaming  ally's  falsehood,  and  from
 the  Kine  the  worst  care  of  her  meadows  8  (the  crime
@@ -5782,9 +5342,6 @@ of  the  ZarathuJtrians  for  veracity.
 8  Literally,  '  from  the  pasture  of  the  Kine.'
 
 9  The  Pahlavi  may  be  rendered  :    Him  who  will  not  listen  to
-
-
-74  THE    GATHAS.
 
 
 5.  I,  who  (abjuring  these  sins),  call  earnestly  on
@@ -5894,8 +5451,7 @@ our  faith,  so  that  I  may  approach  and  fulfil  them
 with  (Thy)  Good  Mind,  the  offering,  O  Mazda!  of
 the  One  like  You  \  or  the  words  of  praises  offered
 with  Righteousness.  And  give  Ye  as  Your  offering-
-(of  grace  to  me)  the  abiding  gifts  of  Your  Immor-
-tality and  Welfare  !
+(of  grace  to  me)  the  abiding  gifts  of  Your  Immortality and  Welfare  !
 
 9.  And  let  (one  like  those3),  O  Mazda!  bear  on
 to  Thee  the  spirit  of  the  two  leaders  who  cause  the
@@ -5904,12 +5460,10 @@ holy  ritual  Truth  to  flourish  ;  let  him  4  bear  them  to
 and  with  the  Better  Mind.  Yea,  let  him  bear  that
 spirit  on  as  a  fellow-help  7  in  (furthering)  the  readi-
 
-1  To  approach  the  offering  of  a  praiser  seems  certainly  an  un-
-natural expression.  I-- think  that  we  are  obliged  to  regard  khshma-
+1  To  approach  the  offering  of  a  praiser  seems  certainly  an  unnatural expression.  I-- think  that  we  are  obliged  to  regard  khshma-
 vato as  another  way  of  saying  Yourself  rather  than  '  of  Yours ' ;
 and  if  it  equals  'Yourself  here,  it  may  elsewhere;  see  XXXIV,  2,
-khshmavato  vahme,  also  XLIV,  1,  nemf  khshmavato.  All  acknow-
-ledge mavaite  to  mean  '  to  me.'  Htibschmann,  Casuslehre,  s.  200:
+khshmavato  vahme,  also  XLIV,  1,  nemf  khshmavato.  All  acknowledge mavaite  to  mean  '  to  me.'  Htibschmann,  Casuslehre,  s.  200:
 '  dass  ich  mit  frommem  sinne  an  eure  Verehrung,  Mazda,  gehen
 kann.'
 
@@ -5920,8 +5474,7 @@ might  possibly  mean  'possessions'  here.
 3  See  XXXII,  15.  There  helping  princes  are  spoken  of  'as
 borne  by  the  two  (Haurvata/  and  Ameretata/).'  Here  in  immediate
 connection  with  the  same  two  it  is  said :  Let  one  bear  the  spirit  of
-the  two  united  chiefs.  By  the  term  '  spirit,'  which  sounds  so  sus-
-piciously modern,  we  must  nevertheless  understand  very  nearly
+the  two  united  chiefs.  By  the  term  '  spirit,'  which  sounds  so  suspiciously modern,  we  must  nevertheless  understand  very  nearly
 what  the  word  would  mean  in  a  modern  phrase.  By  these  two
 leaders  we  may  understand  either  Gamaspa  and  Vutaspa  (XLIX,  9)
 or  Gamaspa  and  Frashaortra.  (Compare  yavarena  Frashaortia
@@ -5947,8 +5500,7 @@ us  3  as  well.)  All  prosperous  states 4  in  being  which
 have  been  enjoyed  in  the  past,  which  men  are  now
 enjoying,  and  which  shall  be  known  in  the  future,  do
 Thou  grant  (me)  these  in  Thy  love5.  (Yea),  cause
-(our)  bodily  and  personal  life  to  be  blest  with  sal-
-vation 6  through  (Thy)  Good  Mind,  (Thy)  Sovereign
+(our)  bodily  and  personal  life  to  be  blest  with  salvation 6  through  (Thy)  Good  Mind,  (Thy)  Sovereign
 Power,  and  (Thy)  Sanctity7.
 
 ii.  And,   O  Thou   who  art  the  most  beneficent
@@ -5994,14 +5546,10 @@ These  recurring  instances  (recall  the  two  hands  of  Asha  &c.)
 necessitate  the  view  that  the  idea  of  personality  is  never  lost  in  that
 
 
-78  THE    GATHAS.
-
-
 12.  And  Thou,  O  Ahura !  do  Thou  (Thyself)
 arise  *  to  me  !  Through  Aramaiti  give  me  power,
 O  most  bountiful  Spirit  Mazda !  through  (my)
-faithful  appeals  and  offerings  2 ;  and  for  (my)  Right-
-eousness grant  me  mighty  strength,  and  (Thy)
+faithful  appeals  and  offerings  2 ;  and  for  (my)  Righteousness grant  me  mighty  strength,  and  (Thy)
 thrift-law 3  through  (Thy)  Good  Mind 4.
 
 13.  (Arise  to  give  me  power),  and  then  for  grace
@@ -6018,15 +5566,13 @@ Gathas  where  the  names  always  retain  much,  if  not  all  of  their
 original  force).  As  to  adai ;  see  vanghuya  (sic)  zavo-ada  in  the  next
 verse.
 
-1  We  seem  obliged  to  suppose  that  Ahura  was  poetically  con-
-ceived of  as  sitting  (likeVohuman  in  Vendidad  XIX,  31  (Wg.))  upon
+1  We  seem  obliged  to  suppose  that  Ahura  was  poetically  conceived of  as  sitting  (likeVohuman  in  Vendidad  XIX,  31  (Wg.))  upon
 an  ornamented  throne,  or  we  may  take  the  expression  as  pure
 metaphor  equalling  '  exert  Thy  power.'    Aramaiti  may  be  a  voc.
 
 2  See  adai  in  verse  11.
 
-3  Pavan  zak  1  Vohuman  sardarih.  The  '  thrift-law '  is  the  regula-
-tion established  by  the  Ratu  demanded  in  Y.  XXIX  for  the  redemp-
+3  Pavan  zak  1  Vohuman  sardarih.  The  '  thrift-law '  is  the  regulation established  by  the  Ratu  demanded  in  Y.  XXIX  for  the  redemp-
 tion of  the  Kine.  It  expresses  the  entire  polity  and  theology  of
 the  Zarathujtrian  people  as  summed  up  in  the  original  Avesta.
 
@@ -6053,8 +5599,7 @@ YASNA    XXXIII.  79
 
 14.  Thus,  as  an  offering,  Zarathostra  gives  the
 life  l  of  his  very  body.  And  he  offers,  likewise,  O
-Mazda  !  the  priority  of  the  Good  Mind,  (his  emi-
-nence gained)  by  his  holiness  (with  Thy  folk)  ;  and
+Mazda  !  the  priority  of  the  Good  Mind,  (his  eminence gained)  by  his  holiness  (with  Thy  folk)  ;  and
 he  offers  (above  all  his)  Obedience  (to  Thee)  in  deed
 and  in  speech,  and  with  these  (Thine  established)
 Sovereign  Power 2 !
@@ -6068,8 +5613,7 @@ The  Pahlavi  has  khaya,  and  Ner.  givam  (sic).
 2  The  Pahlavi  translation  may  be  rendered  as  follows  :  Thus,  as
 a  gift  of  generosity,  I  who  am  Zartiut  (so  freely,  and  with  no  error
 from  ignorance  (!))  give  the  life  of  my  own  body,  as  the  advance  [as
-the  chieftainship]  to  Vohuman  and  to  Auharmazd,  and  to  Asha-
-vahut,  in  actions  [that  is,  I  would  do  the  deeds  which  Aharayih
+the  chieftainship]  to  Vohuman  and  to  Auharmazd,  and  to  Ashavahut,  in  actions  [that  is,  I  would  do  the  deeds  which  Aharayih
 desires],  and  would  give  obedient  attention  to  the  word  (literally
 the  hearing  of  the  word)  to  (i.  e.  of)  Khshatraver.
 
@@ -6095,8 +5639,7 @@ strict  ecclesiastical  regularity,  so  no  ceremonial  punctuality  was
 conceived  of  apart  from  honour  and  charity  (see  verse  5  and
 Ya^t  XXII).
 
-3.  Accordingly  the  meat-offering,  the  mention  of  which  imme-
-diately follows,  is  spoken  of  as  offered  with  homage  to  the  Right-
+3.  Accordingly  the  meat-offering,  the  mention  of  which  immediately follows,  is  spoken  of  as  offered  with  homage  to  the  Right-
 eous Order  and  to  the  Divine  Sovereignty  for  the  benefit  of  all  the
 sacred  settlements,  in  order  to  equip  the  wise  man  fully,  and  as  a
 helpful  blessing  among  the  Immortals  themselves  and  their
@@ -6111,8 +5654,7 @@ strength  and  for  temporal  blessings  in  various  forms,  together  with
 vengeance  hurled  very  much  as  if  in  the  form  of  a  thunderbolt
 (zasta-utaij  dercrta-aenanghem).  5.  To  explain  what  he  means  by
 his  supplications  for  the  coming  of  the  Kingdom,  and  for  holy
-actions  (that  is,  to  make  it  certain  that  he  does  not  mean  punc-
-tilious ritualism  apart  from  the  noblest  charity),  he  rhetorically  asks  :
+actions  (that  is,  to  make  it  certain  that  he  does  not  mean  punctilious ritualism  apart  from  the  noblest  charity),  he  rhetorically  asks  :
 'And  what  is  Your  Kingdom,  that  which  Zarathiutra  establishes  and
 offers  to  You?  (XXXIII,  14).  What  is  the  kind  of  prayer  (comp.
 XLVIII,  8,  and  LI II,  1)  which  I  must  use,  so  that  I  may  become
@@ -6133,14 +5675,12 @@ also  even  Vendidad  II  [part  i],  where  moral  duties  are  lauded.)
 
 And  the  composer  himself  seems  to  be  so  conscious  of  the  sharply
 defined  difference  between  such  a  kingdom  and  that  of  the  rival
-religion,  that  he  immediately  adds  an  interdict :  '  Such  is  Your  King-
-dom, caring  for  the  righteous  poor,  and  therefore  we  declare  You
+religion,  that  he  immediately  adds  an  interdict :  '  Such  is  Your  Kingdom, caring  for  the  righteous  poor,  and  therefore  we  declare  You
 irreconcilably  distinct  from  the  Daevas  and  their  polluted  followers.
 Ye  are  beyond  them  and  before  in  the  spirit  of  Your  Reign ! '
 
 6.  He  then  utters  an  impressive  doubt,  which  only  deepens  our
-admiration  at  his  expressions  of  faith:  '  If  it  be  really  true,'  he  con-
-tinues (see  XLIV,  6),  '  that  Ye  are  thus  with  the  Righteous  Order
+admiration  at  his  expressions  of  faith:  '  If  it  be  really  true,'  he  continues (see  XLIV,  6),  '  that  Ye  are  thus  with  the  Righteous  Order
 and  the  Good  Mind,  the  God  who  looks  upon  the  goodness  of  the
 heart  and  the  activity  of  the  hands,  then  give  me  a  sign  of  it,  that
 I  may  persevere  and  increase  in  the  depth  of  my  homage  while  life
@@ -6169,15 +5709,11 @@ personified  Good  Intention,  grieved,  will  depart  from  them.'
 depart  from  Thy  kindly  and  sacred  Piety  in  this  ignorance  of  all
 experience  of  Thy  Good  Mind,  will  suffer  an  equal  desertion.  The
 characteristics  of  righteousness  will,  in  their  turn,  avoid  them  as  the
-unclean  creatures  flee  from  us.'  10.  'And  this  is,'  thus  he  con-
-tinues, '  a  sign  or  result  which  the  All- wise  declares  to  me  to  steady
+unclean  creatures  flee  from  us.'  10.  'And  this  is,'  thus  he  continues, '  a  sign  or  result  which  the  All- wise  declares  to  me  to  steady
 my  soul  as  I  waver.'  '  And  these  are  indeed  the  cheering  proofs  of
 Thy  favour,'  he  adds,  addressing  Ahura,  '  which  terrify  our  enemies
 
 [SO  G
-
-
-82  THE    GATHAS.
 
 
 and  advance  us,  giving  us  a  righteous  eminence  (XXXIII,  14)  in
@@ -6192,8 +5728,7 @@ monarch.  And  by  their  means  Ahura  may  defend  Himself
 efficiently  from  the  persecuting  and  idolatrous  foe.'  12.  Taking
 into  consideration  all  that  depends  on  a  correct  understanding  as
 to  religious  and  political  duties,  he  fervently  prays  to  be  guided
-aright  in  the  establishment  of  a  ceremonial  and  of  praises,  beseech-
-ing Mazda  to  speak,  declaring  the  kind  of  worship  which  may
+aright  in  the  establishment  of  a  ceremonial  and  of  praises,  beseeching Mazda  to  speak,  declaring  the  kind  of  worship  which  may
 secure  the  ashis  (which  are  the  blessed  rewards).  And  he  asks  to
 be  taught  those  religious  paths  about  which  no  error  was  possible,
 the  paths  which  are  the  Good  Mind's  own.
@@ -6218,8 +5753,7 @@ Saoshyawts  not  only  declare  and  make,  but  constitute,  '  the  way.'
 
 15.  Again,  concluding  with  a  climacteric  and  synoptical  prayer,
 he  beseeches  Ahura  to  speak  and  reveal  to  him  all  the  most
-available  statements,  ceremonies,  and  praises.  And  never  for-
-getting that  all  ceremonies,  hymns,  and  sacrifices,  sacred  as  they
+available  statements,  ceremonies,  and  praises.  And  never  forgetting that  all  ceremonies,  hymns,  and  sacrifices,  sacred  as  they
 are,  are  only  means  to  a  greater  end ;  he  prays  the  Deity  that
 He  may  exert  that  Sovereign  Power  which  is  alone  supremely
 efficient  in  relieving  actual  distress  (LIII,  9),  for  by  its  holy
@@ -6233,8 +5767,7 @@ YASNA    XXXIV.  83
 
 Translation.
 
-i.  As  to  those  (three  gifts  of  blessings),  Immor-
-tality, the  Righteous  Order,  and  the  (established)
+i.  As  to  those  (three  gifts  of  blessings),  Immortality, the  Righteous  Order,  and  the  (established)
 Kingdom  of  Welfare,  which  Thou,  O  Mazda !  hast
 given  through  (holy)  deeds,  words,  and  the  sacrifice
 unto  these  (Thy  servants  here  in  my  sight1),  gifts
@@ -6259,13 +5792,11 @@ a  Gathic  suffix,  and  especially  not,  as  here,  where  daste  falls  to  t
 end  of  the  sentence.  Too  little  attention  has  been  paid  to  the
 Gathic  sentence.  The  infinitive  seldom  falls  to  the  end  of  it ;
 vidvanoi  vao/£a;  ta/  moi  vi&dyai  vao/fca;  viduye  (vidve)  vohu
-manangha ;  menka.  daidyai  yehya  ma  rishis ;  asha.  fradathai  as-
-perezata;  agoi  (?)  hadroya;  ye  aklstem  vaenanghe  aogeda  ;  but
+manangha ;  menka.  daidyai  yehya  ma  rishis ;  asha.  fradathai  asperezata;  agoi  (?)  hadroya;  ye  aklstem  vaenanghe  aogeda  ;  but
 zbaya  avanghane  (?)  ya  verezyeidyai  ma;/ta  vastrya ;  sruidyai
 Mazda  fravaoH  ;  kahmai  vividuye  (-ve)  vashi;  ta/  verezyeidyai
 hya/  moi  mraota  vahutem  ;  aretha  voizhdyai  kamahya  t^m  moi
-data ;  dazdyai  hakerena ;  but  vasmi  anyaia  viduye  (-ve) ;  men-
-daidyai  ya  Toi  Mazda  adi^tij,  &c.  The  Pahlavi  renders  here  with
+data ;  dazdyai  hakerena ;  but  vasmi  anyaia  viduye  (-ve) ;  mendaidyai  ya  Toi  Mazda  adi^tij,  &c.  The  Pahlavi  renders  here  with
 admirable  freedom  as  a  first  person,  yehabunem.
 
 3  Observe  this  expression.  It  is  the  spewta  mainyu  which,  like
@@ -6273,13 +5804,9 @@ the  '  Holy  Spirit  of  God,'  is  sometimes  identical  with  Him.
 
 4  Souls  are  elsewhere  said  to  go  hand  in  hand ;  see  Y.  XXXIII,  9.
 
-5  I  suppose  that  it  is  possible  that  khshmavato,  here  and  else-
-where, may  refer  to  the  human  subject,  '  to  the  praise  of  your  wor-
+5  I  suppose  that  it  is  possible  that  khshmavato,  here  and  elsewhere, may  refer  to  the  human  subject,  '  to  the  praise  of  your  wor-
 
 G  2
-
-
-84  THE    GATHAS.
 
 
 O  Mazda  !  and   with   the   chants   of  the  (thankful)
@@ -6292,8 +5819,7 @@ for  all  the  settlements  in  Thy  kingdom  which  are
 guarded  2  by  Thy  Good  Mind.  For  in  the  perfect
 preparation  of  the  justly  acting  (has  that  offering  its
 power),  O  Mazda  !  together  with  all  (others  of  its
-kind).  Among  those  like  You  and  worthy  of  Your-
-selves, it  is  a  blessing3.
+kind).  Among  those  like  You  and  worthy  of  Yourselves, it  is  a  blessing3.
 
 4.  And  we  pray  likewise  for  Thy  Fire,  O  Ahura  !
 strong  through  Righteousness  (as  it  is),  most  swift,
@@ -6303,8 +5829,7 @@ Mazda !  it  is  a  steadfast 4  harm  as  if  with  weapons
 hurled  from  the  hands5.
 
 
-shipper,'  but  it  does  not  sound  at  all  natural.  I  think  that  khshma-
-vato  is  merely  another  way  of  saying  'of you,'  as  mava«t=me.
+shipper,'  but  it  does  not  sound  at  all  natural.  I  think  that  khshmavato  is  merely  another  way  of  saying  'of you,'  as  mava«t=me.
 So  the  Pahlavi  also  seems  to  render  here  :  Av6  zak  1  lekiim  va
 niyayuno.  Ner.  also :  Samaga&fcMmi  yushmakam  namaskr/taye,
 Maha^wanin.
@@ -6349,13 +5874,11 @@ this  which  is  Thy  Fire,  which  is  so  powerful,  is  a  satisfaction  to  
 whose  is  Aharayih  [-when  my  chieftain  (the  glossist  seeming  to
 have  a  text  with  a  first  pronoun :  otherwise  the  first  translator  who
 never  saw  ?  us(e)mahi)  becomes  one  by  whom  duty  and  charity  are
-fulfilled],  for  it  is  quick  and  powerful  [the  Fire],  and  remains  con-
-tinually in  friendship  with  him,  and  makes  joy  manifest  to  him.
+fulfilled],  for  it  is  quick  and  powerful  [the  Fire],  and  remains  continually in  friendship  with  him,  and  makes  joy  manifest  to  him.
 And  therefore,  O  Auharmazd  !  on  him  who  is  the  tormentor  it
 takes  revenge  as  if  with  a  mighty  wish.
 
-1  Ka/  is  often  a  mere  interrogative  particle,  so  modern  inter-
-rogatives  are  also  often  merely  formal.
+1  Ka/  is  often  a  mere  interrogative  particle,  so  modern  interrogatives  are  also  often  merely  formal.
 
 2  Bartholomae  admirably  follows  K4  here  with  its  hakhmi;  it
 gives  a  more  common  explanation  of  vao,  which  I  am  obliged  to
@@ -6369,8 +5892,7 @@ the  frequent  mention  of  righteousness,  the  good  mind,  &c.  meant.
 their  worshippers  here;  paivvao  indicates  this,  and  also  mashyaij=
 men,  who  are  separately  mentioned.  The  Pahlavi  translator  is
 finely  critical  here,  giving  us  our  first  hint  as  to  the  meaning :
-Pesh  Lekum  min  harvisp-guno  levino  guft  homanei  [aigh  tuban-
-kan/ar  homane^,  &c.].  So  with  antare-mruye  (-ve),  he  was  the
+Pesh  Lekum  min  harvisp-guno  levino  guft  homanei  [aigh  tubankan/ar  homane^,  &c.].  So  with  antare-mruye  (-ve),  he  was  the
 pioneer  also.  I  render  with  impartiality  :  Which  (of  what  kind)  is
 your  sovereignty?  [that  is,  what  thing  can  I  do,  whereby  your
 sovereignty  may  be  increased  through  my  instrumentality  ?]  And
@@ -6382,9 +5904,6 @@ is  extended ;  and  also  wealth  is  kept  in  your  possession  by  me.]
 For  whenever  I  (?)  shall  do  righteous  deeds,  [that  is,  when  I  (?)
 shall  do  duty  and  good  works],  Vohuman  gives  nourishment  to
 our  poor.      Before   all  of  every  kind,  even  before  them  ye  are
-
-
-86  THE    GATHAS.
 
 
 6.  If  thus  Ye  are  in  verity,  O  Mazda  !  with  the
@@ -6423,10 +5942,8 @@ One  naturally  thinks  of  a  *  vrad  (?)  equivalent  to  '  vn'dh.'
 5  Rhetorically  interrogative  as  often  in  English,  or  indeed  a  mere
 particle.     (Compare  XLVI,  9.)
 
-6  So  also  the  Pahlavi  indicates  with  its  amukhtijno  (sic)  1  hu-
-varij-no  [1  avo  kar  va  kirfak],  miini/£  pavan  asanih  va  muni-6  pavan
-tangih  vadunyen  frakh-hushih.  Ner. :  -Siksham  satyaya  yak  sama-
-dhanatve,  sawka/atve  *  'pi  kurute  vipula^aitanya//  [kila,  yah  karyaw
+6  So  also  the  Pahlavi  indicates  with  its  amukhtijno  (sic)  1  huvarij-no  [1  avo  kar  va  kirfak],  miini/£  pavan  asanih  va  muni-6  pavan
+tangih  vadunyen  frakh-hushih.  Ner. :  -Siksham  satyaya  yak  samadhanatve,  sawka/atve  *  'pi  kurute  vipula^aitanya//  [kila,  yah  karyaw
 pu?zyaffz  yat  samr/ddhataya  kurute]  ta/C'/£a  yat  sawka/ataya  'pi  kurute,
 tasya  vi^jlana^aitanyaw  tasmad  bhavati.
 
@@ -6446,8 +5963,7 @@ oppressing  the  weaker1.  They  who  have  not  thought
 these  Thy  Good  Mind 2  abideth  afar.
 
 9.  Aye,  they  who  desert  Thy  bountiful  Piety,  O
-Mazda!  that  one  desired  of  Thee3,  O  Thou  omnis-
-cient !  and  who  thus  abandon  her  by  reason  of  the
+Mazda!  that  one  desired  of  Thee3,  O  Thou  omniscient !  and  who  thus  abandon  her  by  reason  of  the
 evil-doer,  and  in  their  ignorance  of  (Thy)  Good
 Mind,  from  such  as  these  (Aramaiti)  with  her  holiness
 utterly  departs 4  as  the  red  Khrafstras  (who  destroy
@@ -6471,11 +5987,9 @@ an  impossible  reading,  and  cannot  be  reconciled  with  Vohu.
 3  The  hint  of  the  Pahlavi  points,  as  usual,  to  the  general  sense,
 leaving  us  the  task  of  discovering  the  grammatical  structure.
 
-Here  I  do  not  follow  the  indication  of  sedkunyen  ;  Ner.  parikshi-
-pyanti.     The  voc.  '  O  Thou '  is  free.
+Here  I  do  not  follow  the  indication  of  sedkunyen  ;  Ner.  parikshipyanti.     The  voc.  '  O  Thou '  is  free.
 
-4  So  also  in  general  the  Pahlavi :  Min  valman^an  kabed  Ahara-
-yih  se^dak ;  Ner.  tebhya/^*  prabhuto  dharmaA*  prabhrajyati.
+4  So  also  in  general  the  Pahlavi :  Min  valman^an  kabed  Aharayih  se^dak ;  Ner.  tebhya/^*  prabhuto  dharmaA*  prabhrajyati.
 
 5  So  if  ahma/  is  read,  but  the  MS.  before  the  Pahlavi  translator
 read  ahmat ;  Ner.  etebhya^  (freely).  A  simpler  rendering  results ;
@@ -6487,9 +6001,6 @@ read  ahmat ;  Ner.  etebhya^  (freely).  A  simpler  rendering  results ;
 7  Or  reading  hitham,  and  in  the  sense  of  '  bond,'  we  coincide
 with  Ner.  sukhanivasam.  HaithSm=the  true ;  hatam  ?  =  of  beings.
 Lit.  '  the  true  creatrix  of  Asha  (the  holy).'
-
-
-88  THE    GATHAS.
 
 
 'helps  to  our  progress')  for  they  smite  (our  tyrants)
@@ -6524,17 +6035,14 @@ establish  the  blessed  rewards  of  Thine  ordinance6!
 1  The  word  voyathra  is  difficult  to  place  ;  the  Pahlavi  translator
 divided,  reading  avo-yathra  (possibly  avoi  athra),  and  rendered
 fro^kushi-ait=is  smitten  down;  the  Persian  better:  Frod  zadar,  is
-smiting  down.  We  may  well  hesitate  before  rejecting  this  indica-
-tion, which  may  point  to  a  better  text.  Like  vafur,  it  may  indicate
+smiting  down.  We  may  well  hesitate  before  rejecting  this  indication, which  may  point  to  a  better  text.  Like  vafur,  it  may  indicate
 the  severity  of  the  influences  of  the  righteous  system,  in  the  midst
 of  genial  allusion.  The  ta  vispa  might  refer  quite  naturally  to
-diu-j-kayasthana  in  the  previous  verse.  The  form  voyathra  (cor-
-rected) may  represent  some  derivative  from  the  root  bi  =  to  fear.
+diu-j-kayasthana  in  the  previous  verse.  The  form  voyathra  (corrected) may  represent  some  derivative  from  the  root  bi  =  to  fear.
 Compare  byawte  in  verse  8.
 
 -  So  likewise  the  Pahlavi  with  its  khuiirno ;  otherwise  '  for
-glory;'  /r,-ar  =  svar.  Lit.  '  To  Thee  (are)  both  Weal  and  Immor-
-tality.'
+glory;'  /r,-ar  =  svar.  Lit.  '  To  Thee  (are)  both  Weal  and  Immortality.'
 
 3  Gavid  besh  min  lak  homanih  ;  Ner.  vitakash/as  tvam  asi.
 
@@ -6561,8 +6069,7 @@ within  Thy  saints2.
 Thou  declarest  to  me  as  the  path  of  the  Good  Mind,
 
 0  Ahura!  (is  made3  in  its  parts  by)  the  religious
-precepts  and  laws  of  the  Saviours,  wherein  the  well-
-doer thrives4  from  (his)  Righteousness5.  And  it
+precepts  and  laws  of  the  Saviours,  wherein  the  welldoer thrives4  from  (his)  Righteousness5.  And  it
 marks  for  the  o-ood  a  reward  of  which  Thou  art
 Thyself  the  bestower.
 
@@ -6580,19 +6087,16 @@ mahanyayitarat  kuru  !]  -Sikshapaya*  asmakaw  dharmasya  marga;;/
 uttamena  svadhinaw  manasa.  [Margaw  yaw/  piirvanyayavantaz;/
 asmabhyaw  bruhi.]
 
-3  Observe  the  certainty  of  a  subtle  meaning,  '  the  way  ts  the  con-
-sciences or  laws.'
+3  Observe  the  certainty  of  a  subtle  meaning,  '  the  way  ts  the  consciences or  laws.'
 
 4  Geldner  has  admirably  suggested  a  comparison  with  vra^-  on
 account  of  the  connection  '  way.'  But  as  this  necessitates  two
 urvaz=vraz,  and  as  Ahura  is  spoken  of  as  'dwelling'  in  'paths,'
 
-1  do  not  think  that  '  thriving  in  paths  '  is  very  difficult.  The  pro-
-minent thought  is  not  the  going,  but  the  '  right  going.'  That  path
+1  do  not  think  that  '  thriving  in  paths  '  is  very  difficult.  The  prominent thought  is  not  the  going,  but  the  '  right  going.'  That  path
 indicates  a  reward  (so  also  the  Pahlavi  MshWo,  Ner.  asvadaya//).
 But  we  must  be  thankful  for  the  keen  and  vigorous  discussion.
-Compare  urvakhshanguha  gaya  g-ighae-ra.  The  Pahlavi  has  hu-
-ravakh-manih  and  in  Y.  XLIV,  8.  If  vra,°-  is  compared,  the  idea
+Compare  urvakhshanguha  gaya  g-ighae-ra.  The  Pahlavi  has  huravakh-manih  and  in  Y.  XLIV,  8.  If  vra,°-  is  compared,  the  idea
 must  be  happy  progress  ;  but  varh  (Justi)  seems  the  more  obvious
 correspondent.
 
@@ -6602,9 +6106,6 @@ correspondent.
 G  Of  course  our  life  on  earth,  merely  in  the  bodily  state.  Comp.
 Y.  XXVIII,  3.  There  astavatas^a  evidently  means  'of  earth,'
 manangho,  '  of  heaven  '  ( — of  corporeal — of  mind,  without  body).
-
-
-90  THE    GATHAS.
 
 
 the  deeds  of  Thy  Good  Mind  (in  us).  They  who
@@ -6630,14 +6131,11 @@ of  toil.
 The  Pahlavi  likewise  sees  varzi-ait  in  it ;  Ner.  vidhiyate,  both  free
 as  to  form.
 
-4  Neryosangh :  Sa  yato,  Maha^wanin  !  kamo  'smakaw  yat  tanu-
-mate  ^ivamate  diyate  [a^aryaya],  uttamena  karmawe  manasa
+4  Neryosangh :  Sa  yato,  Maha^wanin  !  kamo  'smakaw  yat  tanumate  ^ivamate  diyate  [a^aryaya],  uttamena  karmawe  manasa
 [khshatriyaya],  yas&a.  gava*  a&irayitre*  A^inamnya,  [ku/umbine],
-yo  yushmaka?/;  sunirvawa^wanataya,  Svamin  !  buddhya/£a,  pimya-
-pradattaya  vidhiyate  [dini/?].
+yo  yushmaka?/;  sunirvawa^wanataya,  Svamin  !  buddhya/£a,  pimyapradattaya  vidhiyate  [dini/?].
 
-5  I  concede  this  shade  of  meaning  to  the  constant  and  unvary-
-ing evidence  of  the  Pahlavi  translator.  He  translates  uniformly  by
+5  I  concede  this  shade  of  meaning  to  the  constant  and  unvarying evidence  of  the  Pahlavi  translator.  He  translates  uniformly  by
 avam  yehabiineW  or  its  equivalents.
 
 6  Bring  on  'millennial'  perfection  when  progress  shall  have  been
@@ -6657,14 +6155,12 @@ YASNA   XLIII.  91
 THE    GATHA(A)    U-STAVAITI(I).
 
 This  Gatha,  consisting  of  Yasna  XLIII-XLVI,  is  named
-from  the  word  which  begins  it,  like  the  three  last  collec-
-tions. The  fact  that  the  word  iwta  possesses  special  signi-
+from  the  word  which  begins  it,  like  the  three  last  collections. The  fact  that  the  word  iwta  possesses  special  signi-
 ficance may  have  influenced  the  minds  of  the  Parsis  of  a
 later  age,  inducing  them  to  associate  this  first  chapter  with
 happy  anticipations,  but  it  was  of  course  not  owing  to  any
 such  circumstance  that  the  name  was  given  to  the  Gatha.
-The  Gatha,  like  its  fellows,  has  its  existence  as  a  unit  from-
-the  nature  of  its  metre.
+The  Gatha,  like  its  fellows,  has  its  existence  as  a  unit  fromthe  nature  of  its  metre.
 
 It  has  lines  generally  of  eleven  syllables,  arranged  in
 stanzas  of  five.  It  seemed  convenient  to  chant  all  the
@@ -6674,16 +6170,14 @@ first  in  the  collection  in  this  metre,  the  Gatha  was  named
 from  its  first  word.
 
 The  question  naturally  arises  at  this  place  whether  this
-Gatha,  in  its  parts  or  as  a  whole,  is  older  than  the  Ahuna-
-vaiti  and  the  others.  For  supplementary  statements  on  this
+Gatha,  in  its  parts  or  as  a  whole,  is  older  than  the  Ahunavaiti  and  the  others.  For  supplementary  statements  on  this
 subject,  see  the  Introduction,  page  xxvii,  also  elsewhere.
 It  is  sufficient  to  recall  here  that  the  procedure  of  the
 Ahunavaiti,  and  the  sequence  of  the  other  Gathas  in  the
 MSS.  of  the  Yasna,  have  little  importance  in  determining
 the  question  of  relative  age.  If  originally  grouped  in  the
 order  of  their  age,  they  might  easily  become  transposed  for
-the  purpose  of  liturgical  recitation.  (See  the  inserted  Hapta-
-nghaiti,  and  Y.  LII.)  As  to  the  metres  present,  they  afford
+the  purpose  of  liturgical  recitation.  (See  the  inserted  Haptanghaiti,  and  Y.  LII.)  As  to  the  metres  present,  they  afford
 no  indications  as  to  relative  age.  The  metre  of  the  Uitavaiti,
 approaching  as  it  does  the  Trish/up,  may  be  as  old  as,  or
 older  than,  that  of  the  Ahunavaiti.  The  oldest  ^shis  sang
@@ -6701,8 +6195,7 @@ There  we  have  the  man  before  us  at  a  period  in  his  life
 before  he  had  attained  to  his  supreme  position.  He  not
 only  laments  the  unfavourable  prospects  of  his  cause,  but
 he  is  full  of  vehement  animosity,  urging  on  his  adherents  to
-the  overthrow  of  some  powerful  opposing  leader,  and  anti-
-cipating an  armed  struggle  so  formidable  that  its  partisans
+the  overthrow  of  some  powerful  opposing  leader,  and  anticipating an  armed  struggle  so  formidable  that  its  partisans
 are  elsewhere  alluded  to  (in  Y.  XLIV)  as  '  hosts.'  We  see
 him  also  exhorting  the  various  chiefs  of  his  party  as  they
 are  evidently  standing  before  him  in  some  large  assembly,
@@ -6710,28 +6203,24 @@ possibly  as  the  army  on  the  eve  of  an  important  encounter.
 
 He  refers  intimately  to  the  monarch,  to  his  own  family,
 the  Spitamas,  and  to  the  Hvogvas,  as  represented  by
-Frashaartra.  He  offers  the  rewards  of  Ahura,  as  he  pro-
-nounces His  threats  and  condemnations.  Every  feature
+Frashaartra.  He  offers  the  rewards  of  Ahura,  as  he  pronounces His  threats  and  condemnations.  Every  feature
 bears  the  strongest  evidence  of  originality.  But  have  we
 not  the  same  in  the  Gathas  Ahunavaiti,  Spe;*ta-mainyu,
 and  the  others?  Beyond  a  question.  Those  passages
 which  express  grief,  fear,  and  passionate  resentment,  we
 should  naturally  refer  to  Zarathiutra  personally,  and  to  the
-earlier  portion  of  his  career  ;  and  we  can  make  no  distinc-
-tion between  such  passages  when  they  occur  in  the  Ahun-
+earlier  portion  of  his  career  ;  and  we  can  make  no  distinction between  such  passages  when  they  occur  in  the  Ahun-
 avaiti, ILstavaiti,  or  elsewhere.  As  to  chapter  XXIX  with
 its  logical  commencement,  as  expressing  the  sufferings  to
 be  remedied  in  the  entire  effort,  together  with  the  call  of
 Zarathujtra  in  immediate  connection,  and  chapter  XXX
 with  its  theosophical  statements,  we  should  say  that  they
-were  composed  later,  during  a  period  of  success  and  reflec-
-tion. But  this  would  be  a  mere  surmise.  The  time  of  the
+were  composed  later,  during  a  period  of  success  and  reflection. But  this  would  be  a  mere  surmise.  The  time  of  the
 sage  need  not  necessarily  have  been  consumed  in  struggles
 even  during  the  early  years  of  his  career.
 
 Chapter  LIII  seems  to  belong  to  a  period  of  mature  age,
-but  not  necessarily  to  a  period  of  advanced  age.  It  cele-
-brates the  marriage  of  Zarathuj-tra's  daughter,  but  maidens
+but  not  necessarily  to  a  period  of  advanced  age.  It  celebrates the  marriage  of  Zarathuj-tra's  daughter,  but  maidens
 were  married  early.  With  the  exception  of  Y.  LIII,  I
 would  say  that  the  occurrence  of  a  piece  in  this  or  that
 Gatha  has  little,  if  anything,  to  do  with  determining  the
@@ -6743,8 +6232,7 @@ YASNA    XLIII.  93
 
 YASNA   XLIII.
 
-Salvation   is   announced   as    universal    for    be-
-lievers.     Reflections  of  Zarathustra   upon
+Salvation   is   announced   as    universal    for    believers.     Reflections  of  Zarathustra   upon
 
 THE    SUBLIMITY    AND    BOUNTIFULNESS    OF  AhURA.
 
@@ -6753,8 +6241,7 @@ here  and  there  in  this  important  piece,  and  some  may  have  been
 inserted,  not  necessarily  from  another  composer,  but  from  other
 compositions.  After  certain  limits,  however,  marked  signs  of  at
 least  external  connection  are  present.  After  the  first  three  verses,
-which  are  quite  apart,  then  from  the  fourth  and  fifth  on,  every  alter-
-nate verse  has  the  formula  Spewtem  a/thwa  Mazda  m^Nhi  Ahura.
+which  are  quite  apart,  then  from  the  fourth  and  fifth  on,  every  alternate verse  has  the  formula  Spewtem  a/thwa  Mazda  m^Nhi  Ahura.
 It  would  indeed  present  no  difficulty  for  a  successor  to  add  these
 words  to  stanzas  otherwise  also  imitated,  but  whether  from  the
 leading  sage  or  not,  whether  from  him  in  one  strain,  or  from  him
@@ -6785,28 +6272,20 @@ may  be  the  actual  truth,  the  main  stress  of  the  thoughts  is  clear
 and  appropriate.     Using  the  word  vas^-khshayas  in  a  good  sense,
 
 
-94  THE    GATHAS.
-
-
 the  composer  beseeches  Ahura  to  grant  those  two  '  mighty  and
 eternal  ones,'  which  logically  form  the  complement  to  each  other,
-universal  wholeness,  welfare  of  soul  and  body,  without  which  beati-
-tude was  inconceivable,  and  then  the  unlimited  duration  of  that
+universal  wholeness,  welfare  of  soul  and  body,  without  which  beatitude was  inconceivable,  and  then  the  unlimited  duration  of  that
 condition;  for  it  is  quite  impossible  that  'long  life'  alone  was  here
 meant  by  a  term,  the  equivalent  of  which  soon  after  designated  the
 Bountiful  Immortals.  We  have  here  again  ample  data  for  affirming
 the  richness  and  depth  of  the  religious  conceptions.
 
 The  'powerful  and  continuous  two'  are  sought  together  with
-splendour  as  rewards,  not  for  the  gratification  of  any  selfish  senti-
-ment, but  in  order  to  maintain  Asha,  the  religious  Order,  on  which
+splendour  as  rewards,  not  for  the  gratification  of  any  selfish  sentiment, but  in  order  to  maintain  Asha,  the  religious  Order,  on  which
 the  sacred  polity,  and  the  tribal,  as  well  as  the  national  wealth
-depended,  but  more  than  any  general  blessings,  the  individual  sanc-
-tity of  life.  2.  And  this  is  signalised  as  the  highest  good ;  and
-to  this  a  prayer  is  added  for  the  '  maya,'  which  recalls  the  super-
-natural wisdom  of  the  Indian  Hercules,  about  which  much  phantastic
-and  highly  coloured  myth  is  grouped ;  but  here,  with  the  ever-
-recurring  contrast,  the  maya  is  the  mysterious  wisdom  of  the  Divine
+depended,  but  more  than  any  general  blessings,  the  individual  sanctity of  life.  2.  And  this  is  signalised  as  the  highest  good ;  and
+to  this  a  prayer  is  added  for  the  '  maya,'  which  recalls  the  supernatural wisdom  of  the  Indian  Hercules,  about  which  much  phantastic
+and  highly  coloured  myth  is  grouped ;  but  here,  with  the  everrecurring  contrast,  the  maya  is  the  mysterious  wisdom  of  the  Divine
 Benevolence,  colourless  and  abstract  indeed,  but  yet  possessing
 how  great  religious  depth !
 
@@ -6855,20 +6334,17 @@ worship,  and  which  was  strong  for  the  holy  order,  as  well  as  by
 means  of  it.  For  these  reasons  he  adores  their  giver,  but  for  still
 another.  It  was  because  the  might  of  the  Good  Mind  of  Ahura
 approached  him  within  them,  and  gave  him  strength  for  all  that
-was  before  him.  5.  Like  the  Semitic  prophet,  he  poetically  con-
-ceives himself  as  having  beheld  Ahura,  as  the  chief  of  the  two
+was  before  him.  5.  Like  the  Semitic  prophet,  he  poetically  conceives himself  as  having  beheld  Ahura,  as  the  chief  of  the  two
 spirits,  and  as  sovereign  over  all  other  powers  when  the  world  was
 born.  And  he  regards  Him  as  having  also  then  established  rewards
-and  punishments  by  his  holiness,  so  separate  in  its  dualistic  dis-
-tinction from  all  complicity  with  evil  either  by  infliction  or  per-
+and  punishments  by  his  holiness,  so  separate  in  its  dualistic  distinction from  all  complicity  with  evil  either  by  infliction  or  per-
 mission. And  these  rewards  and  punishments  were  to  have  their
 issue  not  in  time  alone,  but  in  '  the  last  turning  of  the  creation '  in
 itscourse.
 
 6.  And  for  Ahura's  coming  in  this  last  changing  he  fervently
 beseeches,  as  well  as  for  the  appearance  of  the  Sacred  Kingdom,
-established  and  guarded  by  the  divine  Benevolence.  And  this  con-
-summation, he  implies,  will  take  place  when  the  settlements  shall  be
+established  and  guarded  by  the  divine  Benevolence.  And  this  consummation, he  implies,  will  take  place  when  the  settlements  shall  be
 furthered  in  the  Righteous  Order,  and  by  means  of  it,  the  end  of
 progress  having  been  attained :  for  then  the  piety  of  men's  souls
 will  itself  be  their  instructor,  delivering  the  regulations  which  shall
@@ -6886,13 +6362,9 @@ to  Ahura  (or  finds  His  throne  (Y.  XXVIII,  6)),  now  draws  near
 thought,  word,  and  deed  referred  to  were  not  limited  to  a  ritual  meaning.
 
 
-96  THE    GATHAS.
-
-
 him,  (I  say  Sraosha  (i.  e.  Obedience),  for  if  he  is  not  so  described  as
 drawing  near  in  this  verse,  he  assuredly  is  so  described  in  a  verse
-nearly  following  (the  twelfth)).  Beyond  a  question,  the  fine  subjec-
-tivity here  expressed  was  intended.  As  the  seer  cried  :  O  Right-
+nearly  following  (the  twelfth)).  Beyond  a  question,  the  fine  subjectivity here  expressed  was  intended.  As  the  seer  cried  :  O  Right-
 eousness!  when  shall  I  see  thee  (in  myself  and  within  my  people),
 so  now  he  means  that  his  obedient  spirit  listens  to  the  call  of  God.
 8.  And  as  his  personified  conscience  questions  him  as  to  his  origin,
@@ -6902,11 +6374,9 @@ Sraosha,  while  originally  applied  to  the  personal  will,  is  not  restric
 to  it).  '  Loyalty '  questions  him,  that  '  loyalty '  may  report  his
 answers.  He  therefore  responds,  speaking  in  his  name  as
 Zarathmtra  (or  else  one  thoroughly  in  unison  with  him,  here
-speaks  in  his  name).  And  this  is  his  statement  as  to  the  indica-
-tions which  shall  determine  his  personality.  His  course  will  be
+speaks  in  his  name).  And  this  is  his  statement  as  to  the  indications which  shall  determine  his  personality.  His  course  will  be
 without  a  compromise.  The  unbelieving  opposers,  as  he  declares,
-shall  meet  no  favour  at  his  hands,  but  detestation,  while  to  the  de-
-vout disciple  he  will  be  as  powerful  an  aid.  And  this  because  his
+shall  meet  no  favour  at  his  hands,  but  detestation,  while  to  the  devout disciple  he  will  be  as  powerful  an  aid.  And  this  because  his
 mind  and  thought  are  (as  if  blinded  to  the  present)  fixed  upon  the
 ideal  Kingdom,  while  for  the  present  he  never  ceases  to  toil  on.
 making  preparations  for  the  Frashakar<f,  and  constructing  hymn
@@ -6925,8 +6395,7 @@ a  depth  which  I  confess  seems  suspicious,  asks  of  Mazda  to  put
 his  petitions  for  him,  recalling  Y.  XXVIII,  n,  where  he  beseeches
 Ahura  to  fill  up  his  desire  with  what  not  he,  the  speaker,  but  with
 what  He,  Ahura,  knows  to  be  the  Good  Mind's  gifts.  Or,  with  a
-conjectural  improvement  (?)  of  the  text,  he  asks  of  Ahura  to  ques-
-tion him  that  he  may  be  questioned  indeed,  saying  as  it  were,
+conjectural  improvement  (?)  of  the  text,  he  asks  of  Ahura  to  question him  that  he  may  be  questioned  indeed,  saying  as  it  were,
 '  search  me,  and  know  me.'  But  the  other  reading  being  retained
 as  having  superior  point,  and  needing  no  conjectured  text,  we  may
 see  his  further  thought :  'Ask  Thou  our  questions  for  us,  and  then  we
@@ -6949,14 +6418,11 @@ when  obeyed  in  actions,  will  bring  on  earthly  sufferings.
 
 12.  But  notwithstanding  all  that  may  be  in  store  for  him,  he
 hopes  to  make  those  doctrines  treasures  (Y.  XXXIV,  7),  that  is,  a
-spiritual  wealth  (compare  also  Ahura's  uti).  One  only  qualifica-
-tion would  he  add :  '  Wait  only  before  Thou  givest  the  word  that
+spiritual  wealth  (compare  also  Ahura's  uti).  One  only  qualification would  he  add :  '  Wait  only  before  Thou  givest  the  word  that
 I  should  go  forth  with  Thy  new  truths  (which  bring  such  suffering
-to  him  who  first  pronounces  them),  wait  till  my  obedient  will,  listen-
-ing fully  to  all  which  Thou  shalt  say,  shall  come  to  me,  and  then
+to  him  who  first  pronounces  them),  wait  till  my  obedient  will,  listening fully  to  all  which  Thou  shalt  say,  shall  come  to  me,  and  then
 shall  that  obedient  reverence  in  me  and  my  beloved,  help  on  our
-effort,  that  we  may  spread  abroad  the  tidings  of  Thy  promised  re-
-compense to  win  the  living  to  Thee  (Y.  XXXI,  3).'  13.  'And
+effort,  that  we  may  spread  abroad  the  tidings  of  Thy  promised  recompense to  win  the  living  to  Thee  (Y.  XXXI,  3).'  13.  'And
 that  I  may  know  and  make  known  (so  he  continues)  the  true  aims
 and  objects  of  desire  to  those  to  whom  I  am  at  Thy  word  to  go,
 grant  me  for  this  long  life  within  Thy  Realm,  although  that  life  be
@@ -6974,8 +6440,7 @@ celebrate  Thy  mysteries.'
 
 15.  And  as  he  began  with  fearless  severity,  so  he  would  end
 without  a  compromise.  '  My  patient  suffering  (so  he  implies  as  he
-proceeds  (Y.  XLVI,  1))  reveals  its  lesson  to  me.  My  mind  is  long-
-enduring,  but  that  patience,  although  it  may  seem  to  some  the
+proceeds  (Y.  XLVI,  1))  reveals  its  lesson  to  me.  My  mind  is  longenduring,  but  that  patience,  although  it  may  seem  to  some  the
 cowardice  of  a  pusillanimous  protector  (Y.  XXIX,  9),  yet  it  is  not
 such  in  truth,  for  it  declares  within  me,  and  forces  me  to  say:
 Let  no  man  please  the  wicked ;  this  is  our  only  prospect  of
@@ -6986,9 +6451,6 @@ sums  all  up  well :  '  Thus  doth  Zarathu^tra  choose  the  spirit,  that
 spirit  which  animates  the  faithful  in  their  chiefs  (Y.  XXXIII,  9),
 
 M  H
-
-
-98  THE    GATHAS.
 
 
 and  by  his  side  every  true  believer  utters  his  sympathising  prayer  :
@@ -7002,8 +6464,7 @@ Mind,  thus  grant  rewards  for  all  our  deeds ! '
 
 Translation.
 
-1.  Salvation  to  this  man1,  salvation  to  him  who-
-soever (he  may  be 2) !  Let  the  absolutely  ruling
+1.  Salvation  to  this  man1,  salvation  to  him  whosoever (he  may  be 2) !  Let  the  absolutely  ruling
 Great  Creator  grant  (us,  He)  the  living  Lord,  the
 two  eternal  powers.  Yea,  verily  3,  I  ask  it  of  Thee
 (O  Ahura)  for  the  maintaining  4  Righteousness.  And
@@ -7015,8 +6476,7 @@ life  6.
 
 
 1  Ahmai  as=to  us,  does  not  seem  to  be  good  grammar  here,
-as  it  necessitates  a  forced  separation  between  it  and  yahmai-
-kahmai/£i/.     Cp.  ahmai  yahmai-kahmai^i/  in  Y.  XLIV,  16.
+as  it  necessitates  a  forced  separation  between  it  and  yahmaikahmai/£i/.     Cp.  ahmai  yahmai-kahmai^i/  in  Y.  XLIV,  16.
 
 2  I  turn  from  the  fine  rendering  of  the  Pahlavi  with  the  greatest
 reluctance :  NadiU'  valman  mun  zak  1  valman  nadukih  ka^/arzai  [aigh
@@ -7036,8 +6496,7 @@ as  a  philological  analagon.     Otherwise  '  riches.'
 
 6  Gaem  recalls  srae\rta  gaya  £-(i)vai«ti.
 
-7  As  ahmai  would  more  naturally  mean  '  to  this  one '  in  the  pre-
-vious verse,  it  is  desirable  to  render  it  in  the  same  way  here.
+7  As  ahmai  would  more  naturally  mean  '  to  this  one '  in  the  previous verse,  it  is  desirable  to  render  it  in  the  same  way  here.
 
 
 YASNA    XLIII.  99
@@ -7055,8 +6514,7 @@ of  (our  joy 5),  and  on  a  long  life's  every  day 6.
 3.  And  may  that  (holy  man)  approach  toward  that
 which  is  the  better  than  the  good7,  he  who  will  show
 to  us  the  straight  paths  of  (spiritual)  profit,  (the
-blessings)  of  this  corporeal  life,  and  of  that  the  men-
-tal 8,  in  those  veritably  real  (eternal 9)  worlds,  where
+blessings)  of  this  corporeal  life,  and  of  that  the  mental 8,  in  those  veritably  real  (eternal 9)  worlds,  where
 dwells  Ahura  ;  (that  holy  man)  an  offerer  of  Thine 10,
 O  Mazda  !  a  faithful  citizen11,  and  bountiful  of  (mind).
 
@@ -7085,10 +6543,8 @@ also  '  worse  than  the  evil '  is  the  ultimate  of  woe.
 9  Does  haithy^g  mean  '  eternal,'  with  every  passage  in  which  it
 occurs  considered  ?
 
-10  Thwava»t  may,  however,  like  mava«t,  simply  express  the  per-
-sonal pronoun  here.  The  position  of  aredro,  &c.  is  awkward  if
-thwava«t=thy  :  'Where  dwells  Ahura,  Thyself,  O  Mazda!  bene-
-ficent, wise,  and  bountiful.'  But  aredra  is  almost  a  special  term  for
+10  Thwava»t  may,  however,  like  mava«t,  simply  express  the  personal pronoun  here.  The  position  of  aredro,  &c.  is  awkward  if
+thwava«t=thy  :  'Where  dwells  Ahura,  Thyself,  O  Mazda!  beneficent, wise,  and  bountiful.'  But  aredra  is  almost  a  special  term  for
 a  zealous  partisan.
 
 11  The  Pahl.  has  khup-danakih,  indicating  a  meaning  which  would
@@ -7113,8 +6569,7 @@ O  Great  Giver,  Mazda !  when  I  beheld  Thee  as
 supreme6  in  the  generation  of  life,  when,  as  rewarding7
 deeds  and  words,  Thou  didst  establish  evil  for  the
 evil,  and  happy  blessings  for  the  good,  by  Thy
-(great)  virtue  8  (to  be  adjudged  to  each)  in  the  crea-
-tion's final  change.
+(great)  virtue  8  (to  be  adjudged  to  each)  in  the  creation's final  change.
 
 6.  In  which  (last)  changing  Thou  shalt  come,  and
 with  Thy  bounteous  spirit,  and  Thy  sovereign  power,
@@ -7134,8 +6589,7 @@ and  also  to  the  righteous.  And  this  Thy  Fire  is  burning,  since  by  i
 the  strength  of  him  who  lives  in  Righteousness  is  (maintained)  when
 that  violence  which  approaches  with  a  good  intention  comes  to  me.'
 
-6  See  Y.  XXXI,  8,  where  the  word  is  also  rendered  as=vornehm-
-ster.
+6  See  Y.  XXXI,  8,  where  the  word  is  also  rendered  as=vornehmster.
 
 7  Literally,  '  When  Thou  didst  render  deeds  provided  with
 rewards.'  We  are  forced  to  put  the  action  in  the  past  on  account
@@ -7170,15 +6624,13 @@ truth  a  strong 4  tormentor  and  avenger,  but  to  the
 
 
 1  The  word  ratus  reminds  one  of  the  work  of  the  Ratu  for  the
-afflicted  kine.  In  the  last  changing,  which  shall  complete  the  Fra-
-shakar</,  he,  or  his  representatives,  will  appear  as  the  last  Saoshya?zt,
+afflicted  kine.  In  the  last  changing,  which  shall  complete  the  Frashakar</,  he,  or  his  representatives,  will  appear  as  the  last  Saoshya?zt,
 introducing  '  millennial '  blessedness.
 
 2  I  render  the  Pahlavi  here  as  in  evidence:    'Through  Thee,
 
 0  (?)  bountiful  Spirit !  the  changing  comes  [(later  (?)  gloss)  from
-wickedness  to  goodness].  And  it  comes  likewise  through  Auhar-
-mazd's  supremacy  within  a  good  mind,  through  whose  action  the  pro-
+wickedness  to  goodness].  And  it  comes  likewise  through  Auharmazd's  supremacy  within  a  good  mind,  through  whose  action  the  pro-
 gress of  Aharayih's  settlements  is  furthered,  those  which  the  master  is
 instructing  with  a  perfect  mind  [  ],  and  in  which  this  Thy  wisdom
 shall  in  no  wise  be  deceived  thereby.'
@@ -7231,8 +6683,7 @@ ao^-homand  aito ;  [aighaj,  raminam].
 
 2  The  Pahlavi  here  shows  only  the  correct  root.        3  Ma=sma?
 
-4  '  So  long  as  I  can,  will  I  be  of  this  mind/  seems  hardly  ex-
-pressed here.    Observe  the  nearly  parallel  construction  in  verse  8.
+4  '  So  long  as  I  can,  will  I  be  of  this  mind/  seems  hardly  expressed here.    Observe  the  nearly  parallel  construction  in  verse  8.
 
 5  The  Pahlavi,  Sanskrit,  and  Persian  translations  would  here  be
 regarded  once  more  as  extremely  close  even  by  opponents,  if
@@ -7264,8 +6715,7 @@ did'st 5  say  was  best.
 
 12.  And  since  Thou,  coming  thus,  Thy  legal
 Righteousness  in  fulness  ,;  spakest,  then  declare  not
-to  me  words  as  yet  unheard  (with  faith  or  know-
-ledge ;  command  me  not)  to  go  forth  (with  these
+to  me  words  as  yet  unheard  (with  faith  or  knowledge ;  command  me  not)  to  go  forth  (with  these
 upon  my  task)  before  Thy  Sraosha 7  (Obedience)
 comes  to  me,  to  go  on  hand  in  hand  with  me  with
 holy  recompense  and  mighty  splendour 8,  whereby  to
@@ -7339,12 +6789,10 @@ of  the  fee.
 5  The  Pahlavi  divides  dantaite,  and,  as  I  hold,  mistakes  the  root
 as  was  inevitable.  The  ancient  scribe  feared  to  restore  the  severed
 fragments,  which  appeared,  as  so  often,  in  the  MSS.  before  him.
-I  would  read  dar.yait6  with  Spiegel's  c(?)  (so  Bartholomae,  later,  how-
-ever, recurring  to  a  division,  with  Geldner  after  the  Pahlavi,  for  the
+I  would  read  dar.yait6  with  Spiegel's  c(?)  (so  Bartholomae,  later,  however, recurring  to  a  division,  with  Geldner  after  the  Pahlavi,  for  the
 sake  of  bringing  out  an  infinitive).
 
-6  Vairy<?u  contracted  from  vairyay<?u  by  a  corrupting  improve-
-ment to  regulate  the  metre.
+6  Vairy<?u  contracted  from  vairyay<?u  by  a  corrupting  improvement to  regulate  the  metre.
 
 7  So  the  Pahlavi  indicates,  Bartholomae  following  as  against  the
 rendering  '  possessing.'
@@ -7384,21 +6832,17 @@ kingdom  I  (am)  to  go  forth  to';  (fra  +  as,  participle.)
 2  Prof.  Jolly  has  the  important  rendering, '  Ich  will  mich  erheben ; '
 the  infinitive  in  a  future  or  imperative  sense.
 
-3  Chieftainships.  Compare  (not  with  exactness,  however)  sir-
-dhawzsi.
+3  Chieftainships.  Compare  (not  with  exactness,  however)  sirdhawzsi.
 
 4  The  idea  of  reciting  from  memory  seems  to  be  included  in
 maiwzte.
 
-6  The  rendering  pouruy  (?)  as=pl.  of  puriis  is  attractive,  but  dreg-
-vato  hardly  needs,  and  seldom  has,  a  substantive.  The  wicked  =
-wicked  men;  and, on  the  other  hand,  na  constantly  claims  an  accom-
-panying word ;  (na  ismano ;  na  vaedemno ;  hvo  na-erethwo ;  na
+6  The  rendering  pouruy  (?)  as=pl.  of  puriis  is  attractive,  but  dregvato  hardly  needs,  and  seldom  has,  a  substantive.  The  wicked  =
+wicked  men;  and, on  the  other  hand,  na  constantly  claims  an  accompanying word ;  (na  ismano ;  na  vaedemno ;  hvo  na-erethwo ;  na
 spe«to,  y*-n&,  ke  va-na,  &c.)  Also  it  is  improbable  that  the  words  na
 and  pourur,  as  =  puravas,  should  come  together;  '  let  not  a  man  men
 evil  ingratiate  (?).'  Compare  for  sense  here  purvias  in  one  or  more
-of  its  applications.  Possibly  the  meaning  is, '  let  not  a  man  be  fore-
-most in  conciliating  the  wicked.'  The  Pahlavi  likewise  has  kabed
+of  its  applications.  Possibly  the  meaning  is, '  let  not  a  man  be  foremost in  conciliating  the  wicked.'  The  Pahlavi  likewise  has  kabed
 (freely).  Ner.  has :  Ma  nara£*  pra^ura^  durgatinam  bhuyat*  yatha
 kathaw&t  satkarta.     An  important  rendering  is  that  of  Professor
 
@@ -7415,8 +6859,7 @@ and  in  penitence  J).
 loves  2  the  Spirit 3,  and  every  man  most  bounteous
 prays  4  (beside  him) :  Be  Righteousness  life-strong,
 and  clothed  with  body.  In  that  (holy)  Realm  which
-shines  (with  splendour)  as  the  sun,  let  Piety  be  pre-
-sent ;  and  may  she  through  the  indwelling  of  Thy
+shines  (with  splendour)  as  the  sun,  let  Piety  be  present ;  and  may  she  through  the  indwelling  of  Thy
 Good  Mind  mve  us  blessings  in  reward  for  deeds 5 !
 
 Jolly,  V.S.  s.  47,  '  mochte  es  wenige  Verehrer  des  Liigners  geben.'
@@ -7438,11 +6881,9 @@ avas) ;  and  am  now  sustained  by  Bartholomae's  view.
 3  Possibly  the  Spenirta  mainyu  of  Ahura.  (See  also  Y.  XLIV,  2.)
 
 4  The  Pahlavi,  on  the  contrary,  bears  evidence  to  the  meaning
-'  comes,'  which  I  cannot  accept  as  '  tradition '  in  view  of  the  follow-
-ing precatives.
+'  comes,'  which  I  cannot  accept  as  '  tradition '  in  view  of  the  following precatives.
 
-5  Ner. :  '  The  kingdom  becomes  established  (in  a  manner  com-
-pletely manifest)  in  sun-publicity  through  mental  perfection  [  ];
+5  Ner. :  '  The  kingdom  becomes  established  (in  a  manner  completely manifest)  in  sun-publicity  through  mental  perfection  [  ];
 and  upon  the  workers  of  righteousness  the  Good  Mind  bestows  it.'
 
 
@@ -7456,15 +6897,13 @@ Questions  asked  of  Ahura  with  thankfulness
 and  devotion.
 
 Many  verses  may  here  have  fallen  out,  or,  on  the  other  hand,  the
-piece  having  been  made  up  of  homogeneous,  but  not  originally  con-
-nected fragments,  has  been  left  with  some  abrupt  transitions.  These,
+piece  having  been  made  up  of  homogeneous,  but  not  originally  connected fragments,  has  been  left  with  some  abrupt  transitions.  These,
 however,  occasion  very  little  difficulty  in  exegetical  treatment,
 and  are  also  not  displeasing.  The  formula,  'This  I  ask  Thee,
 O  Ahura!  tell  me  aright'  seems  to  have  been  suggested  by  Y.
 XXXI,  14.  We  might  therefore  look  upon  this  piece  as  composed
 later  than  Y.  XXXI,  but  not  necessarily  in  a  later  generation,  or
-even  from  another  hand.  In  fact  the  style  is  thoroughly  homo-
-geneous in  certain  places  with  that  of  pieces  which  we  ascribe
+even  from  another  hand.  In  fact  the  style  is  thoroughly  homogeneous in  certain  places  with  that  of  pieces  which  we  ascribe
 without  a  doubt  to  Zarathiutra,  and  the  signs  of  struggle  point
 to  the  earliest  period.  It  is  possible  that  the  words  in  Y.  XXXI,
 and  the  formula  here  were  of  common  origin,  neither  having  any
@@ -7473,15 +6912,12 @@ and  derived  in  Y.  XXXI.
 
 Whether  Zarathmtra,  or  another  of  the  narrow  circle  of  religious
 leaders,  was  the  composer  throughout  depends  upon  the  further
-questions  already  more  than  once  broached,  as  to  how  far  a  cor-
-responding intellectual  cultivation  was  extended  at  the  period  in
+questions  already  more  than  once  broached,  as  to  how  far  a  corresponding intellectual  cultivation  was  extended  at  the  period  in
 the  community,  and  as  to  what  is  the  probability  of  the  existence
 of  more  than  one  man  in  the  small  group,  endowed  with  the
-peculiar  qualities  everywhere  manifested  in  these  hymns  (see  re-
-marks in  the  Introduction  and  elsewhere).  It  is  safest  to  say
+peculiar  qualities  everywhere  manifested  in  these  hymns  (see  remarks in  the  Introduction  and  elsewhere).  It  is  safest  to  say
 that  Zarathiwtra  composed  most  of  the  matter  here  before  us,  and
-that  the  supplementary  fragments  were  composed  under  his  domin-
-ating, if  not  immediate,  influence.
+that  the  supplementary  fragments  were  composed  under  his  dominating, if  not  immediate,  influence.
 
 Verses  1  and  2  seem  an  introduction,  but  hardly  give  added
 emphasis  to  the  fact  that  the  following  questions  were  expressions
@@ -7489,8 +6925,7 @@ of  devotion,  and  only  in  a  few  instances  appeals  for  knowledge.
 Verses  3-5  are  certainly  questions  intended  to  express  veneration
 while  naming  particular  objects  of  devout  inquiry.  Verse  6  stands
 somewhat  apart.  Verses  7-1 1  enter  into  details  touching  the
-moral  and  religious  improvement  of  the  people,  12-14  are  po-
-lemical, 15  and  16  are  prophetical,  &c.
+moral  and  religious  improvement  of  the  people,  12-14  are  polemical, 15  and  16  are  prophetical,  &c.
 
 
 IOS  THE    GATHAS.
@@ -7504,8 +6939,7 @@ to  reveal,  as  is  His  wont,  '  the  holy  truth.'  And  the  first  questio
 propounded  to  Him  by  the  composer,  as  comprehensive  of  all
 others,  is  how  he  may  offer  homage,  the  homage  of  God  Himself
 or  of  His  bountiful  spirit;  (see  mainyu  in  verse  2).  And  he  further
-asks  that  Ahura  may  speak  to  him,  showing  him  by  what  cere-
-monial he  may  conciliate  him,  and  by  what  helps  of  grace  that
+asks  that  Ahura  may  speak  to  him,  showing  him  by  what  ceremonial he  may  conciliate  him,  and  by  what  helps  of  grace  that
 spirit,  or  Ahura  Himself,  may  be  inclined  to  draw  near  to  him  in
 accordance  with  his  frequent  prayer.
 
@@ -7523,11 +6957,9 @@ still  be  said  to  say  what  is  homogeneous  to  the  foregoing :  '  Yea,
 I  ask  how  I  may  serve  Him,  O  Mazda !  for  He  is  indeed  Thyself,
 and  therefore,  to  show  my  fervent  homage,  I  ask :  Who  was,  not
 the  first  establisher  alone,  but  the  first  father,  of  our  holy  Order
-as  the  personified  Immortal,  and  that  not  by  creation,  but  De-
-generation, as  the  parent  generates  the  child  ?  Who  fixed  for  stars
+as  the  personified  Immortal,  and  that  not  by  creation,  but  Degeneration, as  the  parent  generates  the  child  ?  Who  fixed  for  stars
 and  sun  that  "way,"  the  undeviating  path  through  space,  long
-noticed  and  studied  by  our  fathers,  as  no  random  course,  or  un-
-known progress  save  Thee  ? '
+noticed  and  studied  by  our  fathers,  as  no  random  course,  or  unknown progress  save  Thee  ? '
 
 4.  The  laws  of  gravitation  then  become  the  theme  of  his  praise
 still  expressed  in  the  form  of  questions,  also  the  atmospheric
@@ -7559,15 +6991,12 @@ before  his  eyes  (taeibyo),  or  to  Ahura  Himself  as  their  sovereign
 controller  (taibyo  ?).     And,  as  including  all  rural  riches  in  herself,
 he  asks  for  whom  He  had  made  the  kine,  not  now  wailing  in  her
 grief  (Y.   XXIX,  9),  but  'delight-affording,'  on    account  of  the
-influence  of  Piety  and  Benevolence  embodied  in  the  Kingdom,  in-
-ferring that  God  had  made  her  for  these  same  (the  faithful  masses).
+influence  of  Piety  and  Benevolence  embodied  in  the  Kingdom,  inferring that  God  had  made  her  for  these  same  (the  faithful  masses).
 7.  And  going  yet  further  back ;  he  asks  who  made  that  paternal
 and  filial  Piety   itself,   together  with  the   Realm  which   it   should
 leaven  ?     Answering  his  own  inquiries  by  an  inference,  he  adds  :  I
-am  pressing  Thee  with  fulness  in  these  questions,  O  Thou  bounti-
-ful Spirit  (compare  mainyuj,  or  mainyu  in  verse  2),  the  maker  of  all
-(sun,  stars,  and  holy  qualities).     8.  Turning  now  to  verbal  revela-
-tions, he  asks  by  what  means  his  soul  may  prosper  in  moral  good-
+am  pressing  Thee  with  fulness  in  these  questions,  O  Thou  bountiful Spirit  (compare  mainyuj,  or  mainyu  in  verse  2),  the  maker  of  all
+(sun,  stars,  and  holy  qualities).     8.  Turning  now  to  verbal  revelations, he  asks  by  what  means  his  soul  may  prosper  in  moral  good-
 ness, praying  that  it  may  indeed  thus   advance  as  the  expected
 answer  would  declare.     9.  He  prays  that  he  may  know  how  he
 may  still  further  sanctify  that  Religion  which  the  King  of  the  Holy
@@ -7578,11 +7007,9 @@ with  the  holy  Order,  and  the  Good  Mind  (see  Y.  XL VI,  16).
 
 10.  Expressing  all  in  a  single  word,  he  asks  Ahura  to  reveal  to
 him  the  Daena,  the  Insight,  the  substance  of  that  Religion  which
-was  '  of  all  things  best,'  and  which  alone  could  '  advance  the  settle-
-ments '  with  the  holy  ritual  and  moral  Order  as  its  ally,  which  would
+was  '  of  all  things  best,'  and  which  alone  could  '  advance  the  settlements '  with  the  holy  ritual  and  moral  Order  as  its  ally,  which  would
 also  render  all  their  moral  and  ceremonial  actions,  and  moral
-principles  just  by  means  of  the  divine  Piety,  which  was  their  realisa-
-tion in  practice ;  and  he  closes  with  the  exclamation  that  the  wishes
+principles  just  by  means  of  the  divine  Piety,  which  was  their  realisation in  practice ;  and  he  closes  with  the  exclamation  that  the  wishes
 and  desires  of  his  soul,  when  most  embued  with  wisdom,  will  seek
 for  God.
 
@@ -7596,8 +7023,7 @@ I  IO  THE    GATHAS.
 
 
 he  is  in  his  devotion  to  the  matter,  and  with  what  hatred  seated  '  in
-his  spirit,'  he  views  the  opposing  Gods.  12.  Then  casting  a  search-
-ing glance  over  the  masses,  and  perhaps  eyeing  their  several  groups,
+his  spirit,'  he  views  the  opposing  Gods.  12.  Then  casting  a  searching glance  over  the  masses,  and  perhaps  eyeing  their  several  groups,
 each  headed  by  its  '  chieftainship  '  (sardenau  smghahya),  he  cries,
 addressing  Ahura  formally,  but  the  people  really  (so  also  elsewhere
 frequently),  and  says:  'Who  is  the  righteous  believer  as  regards
@@ -7617,8 +7043,7 @@ opposers,  representing  their  Lie-demon  as  their  Goddess  ?  How
 can  I  drive  her  hence  to  Hell  beneath,  not  to  those  who  hesitate
 like  these,  pausing  before  they  condemn  the  evil  party,  but  to  those
 who  are  already  filled  with  their  disobedience,  and  who,  having  no
-communion  at  all  with  us,  receive  no  light,  like  these,  from  the  re-
-flected glory  of  the  truth,  and  who  have  moreover  neither  sought
+communion  at  all  with  us,  receive  no  light,  like  these,  from  the  reflected glory  of  the  truth,  and  who  have  moreover  neither  sought
 nor  shared  like  these,  the  counsels  of  Thy  Good  Mind.  Yea,  how/
 he  reiterates,  '  can  I  deliver  up  that  Lying  Goddess,  in  the  persons
 of  her  adherents,  to  the  Holy  Order,  in  the  persons  of  the
@@ -7632,8 +7057,7 @@ spread  slaughter  among  them  to  their  total  overthrow  ? '
 15.  He  then  presses  on  the  coming  collision,  and  prays  to  know
 to  which  of  the  hosts  (compare  asayau,  Y.  XXXI,  2)  that  claim
 the  urvata,  Ahura  will  give  the  prize.  16.  And  who,  he  further
-asks,  shall  be  the  champion  who  shall  lead  the  victors,  the  vere-
-threm-^-an  (compare  sar^a,  Y.  XXIX,  3)  who  will  thus  take  up  the
+asks,  shall  be  the  champion  who  shall  lead  the  victors,  the  verethrem-^-an  (compare  sar^a,  Y.  XXIX,  3)  who  will  thus  take  up  the
 snaitlm  and  the  Mathra  (verse  14),  and  so  at  once  contend  for
 '  both  the  worlds.'  And  he  wishes  him  not  alone  pointed  out,  but
 approached,  as  Zarathmtra  was  approached  (Y.  XLIII),  by  an
@@ -7646,8 +7070,7 @@ YASNA    XLIV.  I  I  I
 Mind  of  Ahura,  be  that  champion  Ratu  whosoever  the  Lord  might
 wish.  Salvation  in  the  shape  of  success  in  his  great  attempt  should
 be  his  portion  (Y.  XLIII,  i ).  17.  Half  intimating  that  he  himself  may
-be  the  coming  man,  he  begs  to  know  when  he  can  have  that  con-
-ference in  which,  as  in  the  desired  h^mpar^ti  and  dar^ti  of  Y.
+be  the  coming  man,  he  begs  to  know  when  he  can  have  that  conference in  which,  as  in  the  desired  h^mpar^ti  and  dar^ti  of  Y.
 XXXIII,  6,  he  may  communicate  more  closely  with  Ahura,  and
 through  the  revelation  which  might  be  vouchsafed,  may  become  a
 protecting  leader  to  secure  the  ever-named  '  abiding  two,'  '  Weal '
@@ -7660,8 +7083,7 @@ before  a  battle  (?),  the  highest  interests  of  the  people  even,  their
 lasting  Welfare,  demanding  that  he  should  receive  this  help.  19.
 For  the  monarch,  or  leading  chief,  who  may  withhold  this  justly
 deserved  and  needed  help,  or  honour,  he  declares  by  the  terms  of
-his  following  question,  that  some  instant  judgment  will  be  forth-
-coming, for  the  threats  of  the  future  condemnation  seem  for  the
+his  following  question,  that  some  instant  judgment  will  be  forthcoming, for  the  threats  of  the  future  condemnation  seem  for  the
 moment  only  trite.
 
 20.  As  a  peroration,  he  appeals  to  the  reason  of  the  wavering
@@ -7672,11 +7094,9 @@ robbery  and  violence  then  the  law  with  them  as  now  ?  And  did
 not  the  Kine,  as  representing  the  sacred  herds  and  people,  lift  up
 her  wailing  voice  ?
 
-(The  piece  from  verse  12  seems  to  constitute  a  religious  war-
-song.  These  verses  seem  not  to  have  been  originally  connected
+(The  piece  from  verse  12  seems  to  constitute  a  religious  warsong.  These  verses  seem  not  to  have  been  originally  connected
 with  the  calm  and  thankful  contemplations  in  verses  1-10,  but
-later  united  with  them.  Verses  12-20  stand  in  the  closest  connec-
-tion with  Y.  XLVI,  which  has,  however,  preserved  more  of  the  ele-
+later  united  with  them.  Verses  12-20  stand  in  the  closest  connection with  Y.  XLVI,  which  has,  however,  preserved  more  of  the  ele-
 ments of  sorrow  and  discouragement  which  influenced  the  leader
 and  his  followers  at  times.     See  also  XLIII,  11.)
 
@@ -7688,9 +7108,6 @@ the  praise  of  the  One  like  You  1,  O  Mazda  ?     Let
 
 1  Some  who  seldom  cite  the  Pahlavi  follow  it  here ;  nfyiyimo
 zak  mun  a6tuno  niyayi^no  i  Lekum  [dino].     Otherwise  one  might
-
-
-112  THE    GATHAS.
 
 
 the  One  like  Thee  declare  it  earnestly  to  the  friend
@@ -7794,9 +7211,6 @@ as  the  object  yoked-on,  is  rather  too  finely  drawn.    I  should  prefer
 [3i]  I
 
 
-114  THE  GATHAS.
-
-
 5.  This  I  ask  Thee,  O  Ahura !  tell  me  aright;
 who,  as  a  skilful  artisan,  hath  made  the  lights  and
 the  darkness x  ?  Who,  as  thus  skilful,  hath  made
@@ -7858,8 +7272,7 @@ that  I  may  ponder 2  these  which  are  Thy  revelations,
 
 0  Mazda  !  and  the  words  which  were  asked  (of  Thee)
 by  Thy  Good  Mind  (within  us),  and  that  whereby  we
-may  attain 3,  through  Thine  Order,  to  this  life's  per-
-fection. Yea,  how  may  my  soul  with  joyfulness 4
+may  attain 3,  through  Thine  Order,  to  this  life's  perfection. Yea,  how  may  my  soul  with  joyfulness 4
 increase  in  goodness?     Let  it  thus5  be6.
 
 9.  This  I  ask  Thee,  O  Ahura  !  tell  me  aright,  how
@@ -7888,8 +7301,7 @@ also  equal  man;  see  Y.  LIII,  5.
 similar  words  here  (although  Geldner's  suggestion  is  most  keen
 and  interesting).  Urvaklwanguha  and  urvakhjukhti  do  not  favour
 a  comparison  with  vrag-  here.  The  Pahlavi  is  indifferent :  .ffigun
-denman  1  li  rubano  zak  1  ^aptr  hu-ravakh-manih  ?  So  Ner.  uttam-
-ananda^.     Barth.  begluckend.
+denman  1  li  rubano  zak  1  ^aptr  hu-ravakh-manih  ?  So  Ner.  uttamananda^.     Barth.  begluckend.
 
 5  Ka-ta  =  kena-te'na.
 
@@ -7936,8 +7348,7 @@ and  meaning.
 
 2  I  cannot  regard  the  caesura  in  this  verse  as  possessing  ordinary
 importance,  the  ma/ivyau  (mahy^u)  Xistoij  is  especially  dependent
-on  the  following  words.  The  Pahlavi  translator  hints  at  an  impor-
-tant solution,  which  is,  that  a  pause  should  be  made  before  usm ;
+on  the  following  words.  The  Pahlavi  translator  hints  at  an  important solution,  which  is,  that  a  pause  should  be  made  before  usm ;
 '  the  wish  of  mine  understanding  wishes,  and  I  wish  (am  wishing) ;
 Khursand  homanam=I  am  content.  If  we  can  accept  a  break  (a
 possibility  far  too  little  recognised),  the  mm  as  representing  a  nom.
@@ -7960,8 +7371,7 @@ hate  2.
 1 2.  This  I  ask  Thee,  O  Ahura  !  tell  me  arieht ;
 who  is  the  righteous  one  in  that  regard  in  which 3  I
 ask  Thee  my  question  ?  And  who  is  evil  ?  For
-which  is  the  wicked  ?  Or  which  is  himself  the  (fore-
-most) wicked  one  ?  And  the  vile  man  who  stands
+which  is  the  wicked  ?  Or  which  is  himself  the  (foremost) wicked  one  ?  And  the  vile  man  who  stands
 against  me  (in  this  gain  of)  Thy  blessing,  wherefore4
 is  he  not  held  and  believed  to  be  the  sinner  that
 he  is  ?
@@ -7984,8 +7394,7 @@ belong  together.
 2  The  Pahlavi  translation  is  as  follows:  'That  which  I  ask  of  Thee,
 tell  me  aright,  O  Auharmazd !  when  shall  the  perfect  mind  come  to
 those  persons  [that  is,  when  does  the  mind  of  my  disciples  become
-perfect]  ?  When  shall  it  come  to  those  who  declare  this  Thy  Reli-
-gion, O  Auharmazd  ?  Grant  to  me  before  these  the  proclamation
+perfect]  ?  When  shall  it  come  to  those  who  declare  this  Thy  Religion, O  Auharmazd  ?  Grant  to  me  before  these  the  proclamation
 of  the  truth.  Against  every  other  spirit  which  is  malevolent  I  keep
 my  guard/
 
@@ -8027,8 +7436,7 @@ day6  ?
 1  Ashai  with  Geldner.
 
 2  The  Pahlavi  anticipates  us  in  the  correct  general  sense  here.
-It  has  nas,honi.ni6.  The  Persian  MS.  renders  the  Pahlavi,  hama-
-vandi  nist  dehand  i  danvand.
+It  has  nas,honi.ni6.  The  Persian  MS.  renders  the  Pahlavi,  hamavandi  nist  dehand  i  danvand.
 
 3  Anashe  seems  regarded  as  an  infinitive  by  the  Pahlavi
 translator,  anayatuni^no.  '  For  the  destruction  of  those  deceivers '
@@ -8036,8 +7444,7 @@ is  an  obvious  alternative  to  the  rendering  above  (a  nashe  ?).
 
 4  Geldner  and  Roth  render  ma/=  Sanskrit  mad  ;  otherwise  '  with
 complete  protection.'  Or  is  ma/ ablative  for  genitive  :  If  thou  rulest
-over  me  to  afford  me  protection  ?  The  Pahlavi  affords  no  indi-
-cation.
+over  me  to  afford  me  protection  ?  The  Pahlavi  affords  no  indication.
 
 5  The  Pahlavi  translator  erred  widely  in  his  attempt  to  render  the
 word  anao&mgha.  As  it  is  certain  that  his  MSS.  differed  from
@@ -8056,19 +7463,16 @@ YASNA   XLIV.  119
 
 
 who  smites  with  victory x  in  the  protection  (of  all)  who
-exist,  and  for  the  sake  of,  and  by  means  of  Thy  doc-
-trine ?  Yea,  clearly  reveal  a  lord  having  power 2  (to
+exist,  and  for  the  sake  of,  and  by  means  of  Thy  doctrine ?  Yea,  clearly  reveal  a  lord  having  power 2  (to
 save  us)  for  both  lives.  Then  let  (our)  Obedience 3
 with  Thy  Good  Mind  draw  near  to  that  (leader),  O
 Mazda !  yea,  to  him  to  whomsoever 4  Thou  (shalt)
 wish  that  he  should  come.
 
 1 7.  This  I  ask  Thee,  O  Ahura !  tell  me  aright ;
-how,  O  Mazda !  shall  I  proceed  to  that  (great)  con-
-ference 5  with  You,  to  that  consummation  of  Your
+how,  O  Mazda !  shall  I  proceed  to  that  (great)  conference 5  with  You,  to  that  consummation  of  Your
 own,  when  my  spoken  wish0  shall  be  (effected)  unto
-me,  (the  desire)  to  be  in  the  chieftainship  7  (and  sup-
-ported) by  (the  hope  of)  Weal  and  Immortality  (those
+me,  (the  desire)  to  be  in  the  chieftainship  7  (and  supported) by  (the  hope  of)  Weal  and  Immortality  (those
 saving  powers  of  Thy  grace),  and  by  that  (holy)
 Mathra  (Thy  word  of  thought)  which  fully  guides
 our  way  through  Righteousness  (within).
@@ -8103,9 +7507,6 @@ bhu^  seems  to  me  hardly  so  probable.  It  may,  however,  deserve  an
 alternative  ;    '  to  enjoy  Weal   and  Immortality ' ;    but  accusatives
 
 
-120  THE    GATHAS.
-
-
 1 8.  (And,  having  gained  Thine  audience  and  Thine
 Order's  sacred  chieftainship),  then  I  ask  of  Thee,
 O  Ahura !  and  tell  me  aright,  how  shall  I  acquire
@@ -8132,11 +7533,9 @@ Vedic,  without  preceding  related  or  qualifying  words.
 
 1  Those  suspected  of  no  partisanship  for  the  Pahlavi  translation
 follow  it  here  as  against  Haug,  who  translated  the  words  ujtremX-a
-by  et  amplius !  It  means  a  camel ;  so  the  Pahlavi  translator  ren-
-dered many  centuries  ago  before  Europeans  even  knew  what  the
+by  et  amplius !  It  means  a  camel ;  so  the  Pahlavi  translator  rendered many  centuries  ago  before  Europeans  even  knew  what  the
 Indian  ush/ra  meant,  which  simple  analogy  Neryosangh  first  drew.
-Horses  were  material  for  sacrifice  among  the  Persians  accord-
-ing to  Herodotus.  The  reasons  for  the  prayer  are  not  fully
+Horses  were  material  for  sacrifice  among  the  Persians  according to  Herodotus.  The  reasons  for  the  prayer  are  not  fully
 expressed.
 
 2  So  better  than  as  a  first  person  aorist  subjunctive,  if  taeibyo  is
@@ -8174,12 +7573,10 @@ welfare) !
 1  So  also  the  Pahlavi  followed  by  all.  Kadar  valman  pavan  zak
 vinasuno  aito  fratum ;  [aigaj  pavan-vinaskarih  pae/afras  fratum
 maman]  ?  Akas  homanam  zak  mun  valman  aito  afdum  [mamanas
-darvandih]  ?  Ner.  (with  regard  to  him)  who  does  not  give  the  re-
-ward which  has  come  for  the  one  fitted  for,  or  deserving  of,  it  [to
+darvandih]  ?  Ner.  (with  regard  to  him)  who  does  not  give  the  reward which  has  come  for  the  one  fitted  for,  or  deserving  of,  it  [to
 Garathustra's  equal],  (the  reward)  which  the  truthful  man  ;  [that  is,
 the  good  man]  is  giving  to  him,  what  is  the  first  thing  which
-happens  through  this  sin  of  his  ?  [that  is,  what  is  his  first  chastise-
-ment in  consequence  of  this  fault  ?]  (For)  I  am  aware  of  what  his
+happens  through  this  sin  of  his  ?  [that  is,  what  is  his  first  chastisement in  consequence  of  this  fault  ?]  (For)  I  am  aware  of  what  his
 punishment  shall  be  in  the  end  [  ].
 
 2  The  Pahlavi  translator  either  had  a  text  with  some  form  of  pa,
@@ -8193,9 +7590,6 @@ transliteration.     Kam=Ved.  kam  with  dat.
 3  See  Y.  XXIX,  1.
 
 4  Professor  Wilhelm  '  vigour'  (De  In  fin.  p.  14).
-
-
-122  THE    GATHAS.
 
 
 YASNA  XLV.
@@ -8214,8 +7608,7 @@ XXXI,  1 8  probably  often  repeated  in  lost  hymns.
 
 An  assembly  is  addressed  as  in  Y.  XXX,  1,  but  this  time  as
 coming  '  from  near  and  from  far.'  It  may  very  possibly  have  been  the
-winning  side  in  a  late  struggle.  The  first  verse  sounds  like  a  con-
-gratulation.
+winning  side  in  a  late  struggle.  The  first  verse  sounds  like  a  congratulation.
 
 It  might  be  said  to  be  intended  to  be  sung,  if  not  shouted,  to  a
 multitude  whose  outskirts  were  by  no  means  within  easy  reach  with
@@ -8231,12 +7624,10 @@ can  no  longer  shout  out  its  periods  of  persuasion  or  invective
 
 2.  He  then  reiterates  the  chief  doctrine  for  which  the  parties  had
 been  at  war,  and  which  they  should  now  see  clearly  in  the  light  of
-their  victory.  '  The  foul  evils  of  society  do  not  lie  within  the  con-
-trol of  the  holy  Ahura  in  such  a  manner  as  that  he  either  originates,
+their  victory.  '  The  foul  evils  of  society  do  not  lie  within  the  control of  the  holy  Ahura  in  such  a  manner  as  that  he  either  originates,
 or  tolerates  them.  They  are,  on  the  contrary,  the  product  of  the
 personified  Anger  of  the  Daevas,  the  Mainyu  in  its  evil  sense,  the
-Angra  (angry  ?)  Spirit.  Between  this  being,  or  personified  abstrac-
-tion, and  Ahura,  there  is  a  gulf  fixed.  (Never  do  we  see  any
+Angra  (angry  ?)  Spirit.  Between  this  being,  or  personified  abstraction, and  Ahura,  there  is  a  gulf  fixed.  (Never  do  we  see  any
 aspersions  upon  Ahura's  name,  or  a  suspicion  of  His  purity  as
 shown  by  complicity  with  cruelty,  or  the  toleration  of  evil  passions.)
 It  is  also  to  be  noted  that  the  defeated  du^sasti  may  have  possibly
@@ -8246,14 +7637,11 @@ been  a  Daeva-worshipper  chiefly  as  being  a  heretic  from  this  Faith
 YASNA    XLV.  123
 
 
-of  Ahura,  believing  Him  to  be  implicated  in  the  creation,  or  permis-
-sion of  sin  and  suffering,  or,  if  the  burial  or  burning  of  the  dead
-was  forbidden  at  this  time,  then  possibly  a  heretic  on  these  ques-
-tions also.  But  yet,  as  a  recreant  Mazda-worshipper  he  may  have
+of  Ahura,  believing  Him  to  be  implicated  in  the  creation,  or  permission of  sin  and  suffering,  or,  if  the  burial  or  burning  of  the  dead
+was  forbidden  at  this  time,  then  possibly  a  heretic  on  these  questions also.  But  yet,  as  a  recreant  Mazda-worshipper  he  may  have
 claimed  a  rightful  allegiance  to  the  urvata,  and  the  future  blessings,
 as  well  as  temporal  advantages,  involved  in  a  correct  discipleship ;
-and  so  he  may  have  used  the  name  of  the  sacred  tenets  of  the  Re-
-ligion itself  to  help  on  a  nefarious  warfare.  In  fact  he  may  have
+and  so  he  may  have  used  the  name  of  the  sacred  tenets  of  the  Religion itself  to  help  on  a  nefarious  warfare.  In  fact  he  may  have
 been  a  self-styled  Mazda-worshipper,  but  not  of  '  Zarathmtra's
 order,'  not  owned  at  all  in  any  degree  by  the  genuine  adherents,
 and  met  as  a  real,  if  not  an  open,  Daeva-worshipper.
@@ -8265,8 +7653,7 @@ indeed  at  first  to  make  life,  and  its  negation,  and  they  co-operate, 
 such  a  term  can  be  applied  to  an  irreconcilable  antagonism  out  of
 whose  antitheses  and  friction  sentient  existence  alone  becomes
 possible.  Their  union  consists  in  opposition,  for  if  they  blend,  they
-each  cease  to  be  what  they  are.  They  are,  while  upholders  of  exist-
-ence, yet  separate  for  ever,  and  that  as  to  every  attribute  and
+each  cease  to  be  what  they  are.  They  are,  while  upholders  of  existence, yet  separate  for  ever,  and  that  as  to  every  attribute  and
 interest.
 
 3.  And  the  sage  goes  on  to  assert  that  in  this  he  is  proclaiming
@@ -8275,13 +7662,11 @@ to  him.  And,  whether  sure  of  the  victorious  masses  before  him,  or
 whether  on  the  contrary  perfectly  aware  that  many  a  group  among
 them  had  been  more  convinced  by  the  snaithw  than  by  reason,  he
 presses  at  once  upon  them  that  one  terrible  doctrine  which  seems
-unfortunately  too  needful  for  all  successful  and  sudden  propa-
-gandism,  and  he  declares  that  they  who  do  not  act  in  a  manner
+unfortunately  too  needful  for  all  successful  and  sudden  propagandism,  and  he  declares  that  they  who  do  not  act  in  a  manner
 accordant  with  what  he  speaks,  and  even  thinks,  (having  formerly
 announced  it),  to  such  delinquents  this  life  should  end  in  woe.
 
-4.  Proceeding  in  a  happier  vein,  he  then  dwells  upon  the  father-
-hood of  God.  He  will  declare  this  world's  best  being  who  is  Mazda
+4.  Proceeding  in  a  happier  vein,  he  then  dwells  upon  the  fatherhood of  God.  He  will  declare  this  world's  best  being  who  is  Mazda
 Himself.  He  is  the  father  of  the  Good  Mind  within  His  people,
 when  that  Good  Mind  is  active  in  good  works.  So  our  piety,  when
 it  is  practical,  is  His  daughter,  for  no  pretended  good  intention  can
@@ -8294,14 +7679,10 @@ rewards  rather  than  to  utter  threats,  he  declares  that  Happiness  and
 Immortality  would  be  the  portion  of  those  who  listened  to,  and
 
 
-124  THE    GATHAS.
-
-
 pondered  his  revelation,  and  that  Ahura  Himself  would  likewise
 approach  them  with  the  rewarding  actions  of  His  Good  Mind,  for
 Ahura  was  also  in  all  good  actions  on  the  one  hand,  just  as  His
-Immortal  Archangels  on  the  other  had  their  objective  existence  like-
-wise in  the  believer's  soul.
+Immortal  Archangels  on  the  other  had  their  objective  existence  likewise in  the  believer's  soul.
 
 6.  Turning  from  admonition  to  worship,  he  announces,  not  what
 he  terms  the  'first'  (verse  3),  nor  the  'best'  (verses  4  and  5),  but
@@ -8313,8 +7694,7 @@ only  the  offerers  who  are  now  living  will  seek  after,  but  those  also
 who  shall  live  in  future  ;  nay,  even  the  spirits  of  the  just  desire  them
 in  the  eternal  Immortality.  And  these  blessings  are,  according  to  a
 well-remembered  law,  woe  to  the  wicked,  and  that,  not  only  from
-outward  discipline,  but  from  inward  grief.  And  Ahura  had  esta-
-blished, so  he  adds,  the  beneficent,  but,  as  regards  the  wicked,  still
+outward  discipline,  but  from  inward  grief.  And  Ahura  had  established, so  he  adds,  the  beneficent,  but,  as  regards  the  wicked,  still
 solemn  regulations  by  the  exercise  of  His  Sovereign  Power  as  the
 controller  of  all  (Y.  XXIX,  4).  8.  Zarathmtra  (or  his  substitute)
 then  professes  his  eagerness  to  serve  the  Lord  with  these  words
@@ -8357,8 +7737,7 @@ the  body).  The  wicked  is  hemmed  in  with  his  faith
 and  his  tongue ! 5
 
 2.  Yea,  I  will  declare  the  world's  two  first6  spirits,
-of  whom  the  more  bountiful  thus  spake  to  the  harm-
-ful7:  Neither  our  thoughts,  nor  commands,  nor  our
+of  whom  the  more  bountiful  thus  spake  to  the  harmful7:  Neither  our  thoughts,  nor  commands,  nor  our
 
 
 1  Ish  means  { to  come  seeking/  The  bavihune</  of  the  Pahlavi,
@@ -8376,8 +7755,7 @@ mtfhmaidi.
 4  Im  may  be  merely  a  particle.
 
 5  I  would  here  strongly  insist  upon  an  alternative  rendering  in
-the  sense  of  the  Pahlavi.  The  rendering  above  is  given  on  prin-
-ciple. A  text  should  never  be  changed,  if  it  is  possible  to  render  it
+the  sense  of  the  Pahlavi.  The  rendering  above  is  given  on  principle. A  text  should  never  be  changed,  if  it  is  possible  to  render  it
 as  it  is.  Read,  'the  wicked  confessing  (vareto,  active  sense)  evil
 beliefs  with  his  tongue.'  The  Pahlavi  has  zaka^  saritar  kamako  va
 zakaj  darvandih  pavan  huzvano  hemnuneW.  Many,  with  this  view,
@@ -8391,9 +7769,6 @@ to  the  mainyu,  and  not  only  because,  as  nominatives,  the  words  fall
 to  the  end  of  the  sentence.  Here  we  have  analogous  adjectives
 applied  unmistakably  to  the  two.  The  neuters  correspond  with
 valmtem  mano  and  astern  mano,  and  are  of  capital  importance  as
-
-
-126  THE    GATHAS.
 
 
 understandings,  nor  our  beliefs,  nor  our  deeds,  nor
@@ -8424,8 +7799,7 @@ and  he  who  takes  his  stand  on  thy  religion,  are  apart ;  their  souls 
 not  occupy  the  same  position].  Ner. :  naka  dini/2  [yato  me  dini^
 gathabhava  te£a  rakshasi*].
 
-2  The  '  first  teaching '  was  a  prominent  idea  with  the  Zarathu-
-jtrians.  Z.  is  called  in  the  later  Avesta  the  paoiryo/kaesha  (sic).  He
+2  The  '  first  teaching '  was  a  prominent  idea  with  the  Zarathujtrians.  Z.  is  called  in  the  later  Avesta  the  paoiryo/kaesha  (sic).  He
 hardly  plays  the  role  of  a  reformer  in  the  Avesta.  He  is  mentioned
 after  others  chronologically,  not  as  repudiating  them.  He  might
 better  be  termed  reviver.  Yam  is  difficult;  perhaps  daenam  is  to
@@ -8481,16 +7855,11 @@ angel  of  Obedience  ;  and  at  the  same  time  it  is  the  only  word  whic
 can  here  bring  out  the  sense  when  it  is  understood  in  its  actual
 meaning ;  so  continually  with  the  words  Vohu  Manah,  Asha,  &c.
 
-3  Lit.  'Him  who  I,  doing  aright,  (praising  Him  with  His  im-
-mortals) who  (all  likewise)  are  (beneficent).'  Or  it  may  be  'that
+3  Lit.  'Him  who  I,  doing  aright,  (praising  Him  with  His  immortals) who  (all  likewise)  are  (beneficent).'  Or  it  may  be  'that
 which.'
 
 4  So  with  many  who  hold  the  least  to  the  hints  of  the  Pahlavi.
-Otherwise  I  would  render  '  there  is  furtherance,'  comparing  afrashi-
-mawto.
-
-
-128  THE    GATHAS.
+Otherwise  I  would  render  '  there  is  furtherance,'  comparing  afrashimawto.
 
 
 also  who  are  coming1  (hereafter.  Yea,  even)  the  soul(s)
@@ -8531,8 +7900,7 @@ pra/zamam  antar  Garothmane  nidadamahe.  This  was  probably  an
 intentional  improvement,  as  the  Persian  MS.  follows  our  Pahlavi
 text.     His  MS.  of  the  Pahlavi  probably  read  bara  yehabund.
 
-,;  Or,  '  who  has  created  weal  and  sorrow  for  us  with  good  inten-
-tion, (and  as  our  discipline);'  but  this  is  hardly  probable.  Ahura
+,;  Or,  '  who  has  created  weal  and  sorrow  for  us  with  good  intention, (and  as  our  discipline);'  but  this  is  hardly  probable.  Ahura
 did  not  originate  evil.  Spenfczi,  asp<?;zX-a  are  used  adverbially  (see
 Y.  XXXIV,  7).
 
@@ -8564,8 +7932,7 @@ latter  one  is  through  the  Saoshya^t's  bounteous
 Faith,  who  likewise  is  the  Lord  of  saving  power4,
 
 
-reverential  honour '  may  have  been  more  directly  in  the  com-
-poser's mind ;  '  may  He  endow  our  (worship)  with  efficiency  that
+reverential  honour '  may  have  been  more  directly  in  the  composer's mind ;  '  may  He  endow  our  (worship)  with  efficiency  that
 it  may  accomplish  its  desired  result.'  See  the  positions  of  the
 words.
 
@@ -8579,8 +7946,7 @@ like  hazah  before  him  instead  of  huza(thwaV).
 
 2  The  Pahlavi  translator,  rendering  this  word  in  the  two  other  places
 by  pavan  astubih,  had  evidently  some  reason  for  seeing  a  form  of
-naman  here.  The  natural  conclusion  is  that  his  MS.  read  differ-
-ently in  this  place.     Ner.  renders  him  appropriately.
+naman  here.  The  natural  conclusion  is  that  his  MS.  read  differently in  this  place.     Ner.  renders  him  appropriately.
 
 3  Dan  looks  like  an  accusative  infinitive  here  (Bartholomae) ;
 otherwise  the  two  verbs  must  be  regarded  as  having  indefinite
@@ -8619,8 +7985,7 @@ seem  spoken  to  an  assembly  of  chiefs.  However  different  they
 may  be  as  to  the  particular  time  or  circumstances  of  their  origin,
 they  are  in  general  so  homogeneous  even  as  to  pitch  of  intensity,
 that,  with  a  little  exercise  of  the  mind,  we  can  as  usual  see  the
-reasons  why  they  were  put  together,  or  were  consecutively  com-
-posed ;  and  in  poetic  diction  sudden  changes  neither  displease  nor
+reasons  why  they  were  put  together,  or  were  consecutively  composed ;  and  in  poetic  diction  sudden  changes  neither  displease  nor
 surprise  us.  1.  Beyond  a  doubt  the  leading  prophet  is  the  figure
 in  the  first  and  second  verses ;  and  those  verses  are  so  free  from
 imagery  that  we  hold  them  as  describing  beyond  any  reasonable
@@ -8660,10 +8025,8 @@ holds  back  (verse  4)  the  bearers  of  the  Holy  Order  from  all  success
 in  their  efforts  to  gain  a  righteous  livelihood  from  the  favoured
 cattle  culture  (Y.  XXIX,  2),  and  who,  as  he  with  grief  long  since
 foresaw,  should  he  attain  to  power,  would  deliver  up  home,  village,
-district,  and  province  to  ruin  and  death  (Y.  XXXI,  18).  He  there-
-fore cries  to  Ahura  in  common  with  the  Kine  herself  (Y.  XXIX,  9),
-and  his  'behold'  is  only  a  changed  expression  for  her  exclama-
-tions (Y.  XXIX,  1).
+district,  and  province  to  ruin  and  death  (Y.  XXXI,  18).  He  therefore cries  to  Ahura  in  common  with  the  Kine  herself  (Y.  XXIX,  9),
+and  his  'behold'  is  only  a  changed  expression  for  her  exclamations (Y.  XXIX,  1).
 
 As  a  friend,  he  would  have  the  good  Mazda  to  regard  him  as
 seeking  an  especial  form  of  grace ;  and  he  would  beseech  Him  to
@@ -8681,8 +8044,7 @@ at  last  bring  on  {  Completed  Progress.'
 his  grief,  he  therefore  springs  to  action,  and  with  a  cry  which  we
 hear  elsewhere  (Y.  LIII,  9),  and  which  was  in  all  probability  often
 uttered  in  hymns  now  lost  to  us,  he  urges  the  reward  for  the
-chief,  who  at  the  head  of  his  retainers,  shall  expel  the  world-
-destroyer,  the  dujsasti  (Y.  XLV,  1),  from  power  and  from  life.  And
+chief,  who  at  the  head  of  his  retainers,  shall  expel  the  worlddestroyer,  the  dujsasti  (Y.  XLV,  1),  from  power  and  from  life.  And
 what  is  that  reward?  It  seems  to  be  merely  the  recognition
 and  confirmation  of  merit  among  the  faithful.     The  man  who  shall
 
@@ -8692,16 +8054,13 @@ K  2
 I32  THE    GAT  HAS.
 
 
-expel,  or  destroy,  the  heretical  tyrant  shall  be  eminent  in  the  recog-
-nition of  his  services  in  the  support  of  the  people  and  their  sacred
+expel,  or  destroy,  the  heretical  tyrant  shall  be  eminent  in  the  recognition of  his  services  in  the  support  of  the  people  and  their  sacred
 agricultural  civilisation.
 
-That  was  to  be  reward  enough,  and  even  that  prestige  (pourva-
-tatem)  was  to  be  given  back  to  God  in  offering  for  still  further
+That  was  to  be  reward  enough,  and  even  that  prestige  (pourvatatem)  was  to  be  given  back  to  God  in  offering  for  still  further
 service  (Y.  XXXIII,  14).
 
-5.  And  every  righteous  official  is  urged  to  repeat  the  proclama-
-tion as  a  warning  to  every  polluted  Daeva-worshipper  whom  he  can
+5.  And  every  righteous  official  is  urged  to  repeat  the  proclamation as  a  warning  to  every  polluted  Daeva-worshipper  whom  he  can
 discover,  or  to  whom  his  voice  can  reach,  as  well  as  to  those  secret
 adherents  who  would  seem  to  need  encouragement.  The  charged
 official  is  to  assail  the  destructive  opponent  (Y.  XXXII,  6-8),  only
@@ -8799,14 +8158,10 @@ infallibly,  will  heed  and  answer ;  for  the  praises  sung  there  will
 be  those  of  obedient  men  who  offer  to  the  cause.     18.  He  once
 
 
-134  THE    GATHAS.
-
-
 more  holds  out  his  spiritual  rewards  as  the  best  gifts  of  the  inspired
 revelation,  threatening  as  usual  commensurate  visitation  upon  the
 oppressing  clans,  while  both  promises  and  threats  are  in  harmony
-with  Ahura's  will,  for  that  alone  has  been  his  guide  in  every  state-
-ment. 19.  After  all  complaints,  and  threats,  and  stern  injunctions,
+with  Ahura's  will,  for  that  alone  has  been  his  guide  in  every  statement. 19.  After  all  complaints,  and  threats,  and  stern  injunctions,
 he  closes  with  the  once  more  repeated  word  '  reward,'  and  that
 for  every  man  who  shall  aid  in  'his  great  affair'  (Y.  XXX,  2),  and
 he  appeals  to  God  Himself,  asserting  His  inspiration  for  all  that
@@ -8876,8 +8231,7 @@ renders  freely  as  if  some  form  of  hi=to  bind  were  before  him
 together,  hamsayaki/fc ;  Ner.  ye  svajre?^ayo.
 
 1  So  the  Kine  complained  of  him  in  Y.  XXIX,  9  as  anaesha ;
-so  also  the  Pahlavi,  explaining  akhvastar  [aigham  denman  atu-
-banikih  raaman  rai  khavitunam].  He  proceeds  li  amat  kam  ramak
+so  also  the  Pahlavi,  explaining  akhvastar  [aigham  denman  atubanikih  raaman  rai  khavitunam].  He  proceeds  li  amat  kam  ramak
 va  amatiZ'  kam-gabra  homanam,  explaining  anaesho  as  not  being
 an  isha-khshathra.     Ma=sma  notwithstanding  position  (?).
 
@@ -8887,8 +8241,7 @@ admirable  sense  '  observe,  take  heed  of  the  desire  of  the  pious.'
 But  we  have  a  positive  proof  of  the  meaning  '  teach,'  '  declare '  for
 khsa;  see  Y.  LXV,  9  (Wg.).  So  also  in  Y.  XXVIII,  5.  That
 Ahura  possessed  an  \st\  is  clear  from  Y.  XXXIV,  5.  And  if  the
-sage  could  ask,  'What  is  your  uti  (wealth)?  what  is  your  king-
-dom (power  over  possessions)  ? '  it  is  certainly  not  strained  to
+sage  could  ask,  'What  is  your  uti  (wealth)?  what  is  your  kingdom (power  over  possessions)  ? '  it  is  certainly  not  strained  to
 suppose  that  he  could  say  here ;  '  tell  me  concerning  your  wealth,'
 especially  as  he  bewails  his  poverty.  Lti  is  in  antithesis  to  the
 idea  expressed  in  kamnafshva  and  kamnana.  So  also  the
@@ -8912,8 +8265,7 @@ yet  in  gloom.)  The  evil  man  is  holding  back  2  those
 who  are  the  bearers  of  the  Righteous  Order  from
 progress 3  with  the  Kine,  (from  progress  with  the
 sacred  cause)  within  the  region,  or  the  province4,  he,
-the  evil  governor,  endowed  with  evil  might5,  con-
-suming0 life  with  evil  deeds.  Wherefore,  whoever
+the  evil  governor,  endowed  with  evil  might5,  consuming0 life  with  evil  deeds.  Wherefore,  whoever
 hurls  him  from  his  power,  O  Mazda  !  or  from  life,
 stores  for  the  Kine  in  sacred  wisdom  shall  he  make  7.
 
@@ -8929,8 +8281,7 @@ those  of  kas.     The  Persian  follows  the  Pahlavi.
 3  Pa  in  the  sense  of '  keeping  back  from  welfare '  as  well  as
 in  that  of  '  protection,'  a  sense  first  taught  us  by  the  Pahlavi
 writers,  is  now  at  last  generally  acknowledged.  It  now,  like  many
-other  suggestions  of  the  Pahlavi,  actually  casts  light  in  the  ren-
-dering of  the  analogous  Vedic  word.
+other  suggestions  of  the  Pahlavi,  actually  casts  light  in  the  rendering of  the  analogous  Vedic  word.
 
 3  So  the  mass  of  MSS.  with  the  Pahl.  min  fravamuno ;  Persian
 az  raftan.  The  expression  might  refer  to  the  '  going  of  the  kine,'
@@ -8941,8 +8292,7 @@ as  representing  the  people  in  her  '  path.'
 5  Pahl.  zak  1  pavan  diu-stahamak ;  Ner.  dush/o  balatkari.
 The  elements  seem  to  be  dus-|-haz6-l-bao(=vao).
 
-0  Ush  in  Iranian  seems  to  have  the  sense  of  destruction  com-
-bined with  it  sometimes ;  hence  aoshah,  aoshi^no.
+0  Ush  in  Iranian  seems  to  have  the  sense  of  destruction  combined with  it  sometimes ;  hence  aoshah,  aoshi^no.
 
 7  A"ar  can  well  mean  'attain  to.'  Pathm<?;?g  as  =  paths  (so  I
 formerly  rendered)  gives  a  far  feebler  sense  than  that  indicated  by
@@ -8953,11 +8303,9 @@ stores  for  the  kine,  even  if  we  suppose  an  animal  only  to  be  meant,
 YASNA    XLVI.  I37
 
 
-5.  (Yea),  he  who,  as  ruler,  treats  no  coming  appli-
-cant with  injury1,  as  a  good  citizen  (or  nobly  wise)
+5.  (Yea),  he  who,  as  ruler,  treats  no  coming  applicant with  injury1,  as  a  good  citizen  (or  nobly  wise)
 in  sacred  vow  and  duty,  and  living  righteously  in
-every  covenant,  who,  as  an  uncorrupted  judge,  dis-
-cerns the  wicked  (that  leader  who,  rejecting  me,
+every  covenant,  who,  as  an  uncorrupted  judge,  discerns the  wicked  (that  leader  who,  rejecting  me,
 would  keep  back  those  who  propagate  the  Faith),  let
 him,  (this  righteous  judge,)  declare  (the  vengeance)  to
 that  (hostile 2)  lord,  (my)  kinsman.  Yea,  let  him
@@ -8989,8 +8337,7 @@ in  an  aristocratic  sense  by  Zarathujtra  and  his  group.
 3  I  compare  uzuithy^usX'a  which  is  used  of  the  breaking  forth
 of  water.  The  Pahlavi  translator  seems  to  have  had  some  such  idea
 '  mini  lala  hengidb,'  but  with  him  the  entire  line,  which  divides  all
-writers,  favours  the  sense  '  in  saving  him  from  his  impiety.'  Khrun-
-ya/  is  a  verbal  form  (with  Bartholomae).
+writers,  favours  the  sense  '  in  saving  him  from  his  impiety.'  Khrunya/  is  a  verbal  form  (with  Bartholomae).
 
 4  The  Pahlavi  translator  sees  the  root  is  =  to  wish  in  ismano,
 '  who  does  not  willingly  approach  him  ; '  or  •'  who  does  not  approach
@@ -8998,9 +8345,6 @@ desiring  (and  seeking  ?)  him.'
 
 5  I  am  gratified  to  see  that  another  takes  nearly  this  view  of  this
 line.     He  has  '  verfolgt.'
-
-
-138  THE    GATHAS.
 
 
 the  abode  of  the  Lie,  (and)  the  enchainer1.  For
@@ -9012,12 +8356,10 @@ fix  the  moral  laws  2,  O  Lord  !
 set  me 4  then  when  that  wicked  one  still  held 5  me
 for  his  hate  ?  Whom  (had  I)  then  but  Thee,  Thy
 Fire  and  Mind,  Ahura  !  by  deeds  performed  in  which
-Thy  Righteous  rule  is  saved  and  nurtured  ?  There-
-fore that  spiritual  power  °  (vouchsafing  me)  for  the
+Thy  Righteous  rule  is  saved  and  nurtured  ?  Therefore that  spiritual  power  °  (vouchsafing  me)  for  the
 (holy)  Faith  (its  truths)  declare.
 
-8.  And  as  to  him  who  (now  by  evil  power)  de-
-livers up  my  settlements  to  harm,  let  not  his  burning
+8.  And  as  to  him  who  (now  by  evil  power)  delivers up  my  settlements  to  harm,  let  not  his  burning
 (wrath)  in  deeds  attain  7  me.  But  bearing  back  8  the
 (evil  will  and  evil  influence  of  such),  let  these  things
 come  (back)  to  him  in  anger.  Let  that  to  his  body
@@ -9047,8 +8389,7 @@ granting  me,  do  Thou  speak  forth  for  the  faith/
 read  as  alternative,  '  let  him  not  wound  us.'
 
 The  meaning  '  but  contrariwise '  has  been  ventured  on.  The
-indication  of  the  Pahlavi  is  'in  opposing;'  pavan  pafl'irak  yam-
-tunijno.
+indication  of  the  Pahlavi  is  'in  opposing;'  pavan  pafl'irak  yamtunijno.
 
 The  Pahlavi  here  misses  the  point,  and  taking  paya/  in  its  usual
 
@@ -9057,8 +8398,7 @@ YASNA    XLVI.  T39
 
 
 at  all  (approach  him,  which  may)  keep  him  back  from
-misery.  (And  let  this  happen  as  I  speak)  from  (venge-
-ful) hate,  O  Lord !
+misery.  (And  let  this  happen  as  I  speak)  from  (vengeful) hate,  O  Lord !
 
 9.  But  who  is  the  freely  helping  one  who  will  teach
 me  foremost 1  how  we  may  adore  Thee,  Thou  the  well
@@ -9082,8 +8422,7 @@ of  the  Pahlavi  to  the  meaning  '  endearing,'  one  is  much  inclined  to
 suggest  a  reading  as  if  from  zush.
 
 3  Ashavanem  is  applied  to  Ahura,  and  cannot  so  well  mean
-'  righteous '  here.  '  Holy '  is  the  more  proper  term  in  this  con-
-nection, while  spetttem  is  necessarily  excluded  from  that  meaning
+'  righteous '  here.  '  Holy '  is  the  more  proper  term  in  this  connection, while  spetttem  is  necessarily  excluded  from  that  meaning
 by  its  occurrence  with  ashavanem  in  immediate  connection.
 
 4  Notice  that  the  word  tasha  occurs  here  with  no  mention  of
@@ -9091,8 +8430,7 @@ wounding  in  the  connection  (see  note  6  on  page  6).
 
 5  I  am  here  recalled  to  the  Pahlavi  by  some  who  rarely  name  it.
 I  had  rendered,  'these  words  are  inciting  me  (in  duty)  through
-Thy  Good  Mind;'  so  ish  often  in  the  Veda.  The  Pahlavi  trans-
-lator, like  his  successors,  scandalised  at  the  difficult  forms,  also
+Thy  Good  Mind;'  so  ish  often  in  the  Veda.  The  Pahlavi  translator, like  his  successors,  scandalised  at  the  difficult  forms,  also
 anticipated  his  successors  (as  elsewhere  often)  in  getting  free  from
 the  difficulty.  He  did  what  is  exactly  equivalent  to  what  is  now
 practised  by  scholars  (sometimes  too  often).  He  rendered  the  text
@@ -9119,8 +8457,7 @@ Judge's  Bridge  (itself)  with  all  of  them  shall  I  lead
 on  4  (at  last).
 
 11.  (And  they  and  I  have  every  need  for  help,  for
-now)  the  Karpan  and  the  Kavi  will  join  in  govern-
-ments 5  to  slay  the  life  of  man  with  evil  deeds,  they
+now)  the  Karpan  and  the  Kavi  will  join  in  governments 5  to  slay  the  life  of  man  with  evil  deeds,  they
 whom  their  own  souls  and  their  own  conscience  will
 beery6.  And  when  they  approach  there  where  the
 Judge's  Bridge  (extends,  unlike  the  believing  ones  of
@@ -9150,8 +8487,7 @@ to  Ahura  and  His  Bountiful  Immortals  (so  often).
 5  Or,  '  with  kings ; '  but  the  Pahlavi  has,  avo  khiu/ayih  ayu^end
 rutin  Kik  va  Karapo.
 
-6  So  the  Pahlavi  indicates.  Otherwise  '  will  harden,'  or,  if  khrao-
-dat  is  read,  '  will  rage  (against).'
+6  So  the  Pahlavi  indicates.  Otherwise  '  will  harden,'  or,  if  khraodat  is  read,  '  will  rage  (against).'
 
 7  Inserted  to  shed  light  on  the  last  line  ;  so  the  later  Parsism.
 
@@ -9159,8 +8495,7 @@ dat  is  read,  '  will  rage  (against).'
 YASNA    XLVI.  14I
 
 
-in    the    Lie's    abode    for    ever    shall    their    habita-
-tion 1  be.
+in    the    Lie's    abode    for    ever    shall    their    habitation 1  be.
 
 1 2.  (But  for  the  penitent  there  is  yet  hope  ;  for  all
 our  former  foes  shall  not  thus  fall,  as  from  the  A'inva^
@@ -9240,8 +8575,7 @@ and  the  previous  verse  were  arranged  to  be  spoken  by  another
 voice  during  the  public  recital.  We  see  that  the  interest  is  much
 increased  by  the  intruding  strophe.
 
-2  This  passage  may  be  regarded  as  recording  the  call  of  Vu-
-taspa  to  the  holy  work.  Zu  =  hu  need  not  always  express  the
+2  This  passage  may  be  regarded  as  recording  the  call  of  Vutaspa  to  the  holy  work.  Zu  =  hu  need  not  always  express  the
 invocation  of  the  gods.
 
 s  Others,  'unite.'
@@ -9276,8 +8610,7 @@ of  Righteousness  (attend).
 him  shall  be  the  best  gifts  whatsoever.     Yea,  of  my
 
 
-1  Ar(e)dra  seems  to  be  especially  applied,  and  might  be  left  un-
-rendered.
+1  Ar(e)dra  seems  to  be  especially  applied,  and  might  be  left  unrendered.
 
 2  I  see  no  impossibility  whatever  in  such  a  rendering,  literally
 in  '  his  choice-abode ; '  so  also  the  Pahlavi  indicates  :  tamman  aigh
@@ -9299,12 +8632,8 @@ vista  might  occupy  the  place  of  a  preterit,  but  it  looks  far  more
 like  a  participle,  and  might  be  regarded  as  forming  a  compositum
 with  vahmeng.    Supply  the  dat.  (?)  pers.  pron.  understood  before  ye.
 
-6  The  alteration  to  yaux,  considered  as  an  aorist,  has  long  cir-
-culated, but  seems  now,  like  so  many  of  the  bolder  conceptions,
+6  The  alteration  to  yaux,  considered  as  an  aorist,  has  long  circulated, but  seems  now,  like  so  many  of  the  bolder  conceptions,
 to  be  given  up.     Yao^  is  the  sister  word  of  the  Vedic  yos,  and
-
-
-144  THE    GATHAS.
 
 
 (spirit's)  wealth  will  I  bestow  on  him  through  Thy
@@ -9315,13 +8644,11 @@ choice  by  righteous  (vengeance).  This  is  the  decision
 of  mine  understanding  and  my  will.
 
 19.  (Yea,  this  I  earnestly  announce.)  He  who  from
-Righteousness  (in  mind  and  life)  shall  verily  per-
-form for  me,  for  Zarathu^tra,  that  which  is  thus  most
+Righteousness  (in  mind  and  life)  shall  verily  perform for  me,  for  Zarathu^tra,  that  which  is  thus  most
 helpful  (for  my  cause)  according  to  my  earnest  wish
 (and  through  my  words  of  urgent  zeal)  on  him  shall
 they  bestow  reward (s)  beyond  this  earth,  with  all  the
-mental 1  blessings  gained  through  the  sacred  mother-
-kine2.  And  these  things  (all)  did'st  Thou  (Thyself)
+mental 1  blessings  gained  through  the  sacred  motherkine2.  And  these  things  (all)  did'st  Thou  (Thyself)
 command  to  me,  O  Mazda,  Thou  most  wise  3 !
 
 shows  us  that  some  shade  of  sanctity  may  inhere  in  that  word.
@@ -9363,17 +8690,14 @@ The   Bountifulness  of  Ahura.
 
 As  in  every  instance,  we  may  have  here  only  the  fragments  of  a
 more  extended  piece ;  but  also,  as  ever,  the  circumstance  does  not
-diminish  the  value  of  what  remains.  Although  some  signs  of  author-
-ship apart  from  Zaratlnutra  are  present,  the  later  verses  are  not  at
-all  remote,  so  far  as  the  period  of  time  which  they  indicate  is  con-
-cerned, from  the  Zarathujtrian  verses,  and  are  therefore  of  nearly
+diminish  the  value  of  what  remains.  Although  some  signs  of  authorship apart  from  Zaratlnutra  are  present,  the  later  verses  are  not  at
+all  remote,  so  far  as  the  period  of  time  which  they  indicate  is  concerned, from  the  Zarathujtrian  verses,  and  are  therefore  of  nearly
 equal  interest,  possessing  the  advantage  moreover  of  affording  data
 for  estimating  the  progress  of  change.
 
 1.  The  Spewta  mainyu  here  is  not  identical  with  Ahura,  but  is,  as
 so  often,  His  spirit.  It  is  more  than  possible  that  the  memorable
-application  of  the  word  spe;/ta  to  the  seven,  giving  us  the  Amesho-
-spends,  the  Amshaspands  of  literature,  derives  its  origin  from  the
+application  of  the  word  spe;/ta  to  the  seven,  giving  us  the  Ameshospends,  the  Amshaspands  of  literature,  derives  its  origin  from  the
 first  verse  here  before  us,  or  from  lost  verses  of  a  similar  character.
 All  the  seven  seem  purposely  and  artificially  grouped  here,  although
 '  His  Spirit'  is  of  course  not  one  of  them.  The  commencing  word
@@ -9388,9 +8712,6 @@ spirits  which  are  before  the  throne  of  God'),  by  means  of  this
 [30  L
 
 
-146  THE    GATHAS.
-
-
 blessed   spirit,   that   is,   in   accordance   with   his  inmost   thoughts,
 Ahura  bestows  a  gift  upon  the  ideal  saint  (verses  4,  5),  upon  him
 who  works  the  best  results  for  Zarathujtra  (Y.  XLVI,  19),  the  Ratu,
@@ -9401,8 +8722,7 @@ in  Immortality.    And  these  He  bestows,  not  through  His  immediate
 action,  which  no  human  intellect,  or  susceptibility,  could  take  in
 unaided,  but  by  His  especially  revealed   Benevolence,   His   Best
 Mind,  as  His  representative,  in  accordance  with  His  plan  of  Order
-and  Purity,  pervading  every  moral  as  well  as  every  spiritual  regula-
-tion, and  by  the  exercise  of  His  Royal  Power,  sent  forth  as  the
+and  Purity,  pervading  every  moral  as  well  as  every  spiritual  regulation, and  by  the  exercise  of  His  Royal  Power,  sent  forth  as  the
 '  archangel '  Khshathra,  and  embodied  in  the  polity  of  the  sacred
 Zarathortrian  state,  and  this  as  influenced  in  all  its  relations,  public
 and  domestic,  by  practical  piety  called  Aramaiti,  Ahura's  daughter
@@ -9433,8 +8753,7 @@ XXXIII,  6)  made  on  her  behalf.
 4.  And  this  '  Spirit/  as  might  be  expected,  does  not  confine  its
 attention  to  the  inspiration  of  Piety  alone.  The  justice  of  Mazda  is
 vindicated.  The  wicked  are  afflicted  under  its  influence  with  a  long
-wounding  (Y.  XXX,  11)  for  their  sins,  and  for  their  cynical  prefer-
-ence for  prosperous  men  of  bad  and  dishonest  character  as  well  as
+wounding  (Y.  XXX,  11)  for  their  sins,  and  for  their  cynical  preference for  prosperous  men  of  bad  and  dishonest  character  as  well  as
 of  heretical  faith.
 
 
@@ -9463,8 +8782,7 @@ light  (Y.  XXX,  1;  Y.  XLV,  1).  Nay,  she  will  cause  all  the  living
 to  choose  and  believe  in  God  (Y.  XXXI,  3).
 
 (If  the  first  two  verses  here  are  more  like  the  work  of  a  disciple,
-the  last  four  show  again  the  original  tone.  It  must  never  be  for-
-gotten, however,  that  later  and  even  interpolated  portions  are,  in
+the  last  four  show  again  the  original  tone.  It  must  never  be  forgotten, however,  that  later  and  even  interpolated  portions  are,  in
 their  sense,  also  original,  and  differ  but  slightly  in  their  great  age
 from  pieces  more  directly  from  the  first  composer.)
 
@@ -9488,9 +8806,6 @@ The  Pahlavi,  moreover,  is  against  a  first  person.
 2  Dan  (Geldn.)  seems  to  be  a  3rd  plural  aorist  subjunctive ;  the
 
 L  2
-
-
-148  THE    GATHAS.
 
 
 Universal  Weal  and  Immortality,  by  means  of  His
@@ -9520,8 +8835,7 @@ plural  being  owing  to  the  fact  that  Ahura  gives  with  the  other
 Ameshospends.  Da  might  also  be  the  relic  of  the  proper  word
 which  represents  the  participle  ;    comp.  das  (sic).
 
-1  The  idea  of  the  sum  mum  bonum  seems  to  have  early  de-
-veloped itself,  and  from  this  constant  use  of  this  word  in  the  neut.
+1  The  idea  of  the  sum  mum  bonum  seems  to  have  early  developed itself,  and  from  this  constant  use  of  this  word  in  the  neut.
 singular  and  plural,  and  also  with  anghu.
 
 2  Notice  once  more  the  pronounced  personification  of  both
@@ -9542,8 +8856,7 @@ YASNA    XLVII.  H9
 
 
 joyful  meadows1  of  her  peace,  wilt  Thou  bestow
-(Thine)  Aramaiti  (who  is  our  Piety  as  earth  con-
-sidered), since  he  2  (for  her)  hath  taken  counsel  with
+(Thine)  Aramaiti  (who  is  our  Piety  as  earth  considered), since  he  2  (for  her)  hath  taken  counsel  with
 Thy  Good  Mind,  Lord  !
 
 4.  (But  this  Thy  bounteous  spirit  doth  not  alone
@@ -9561,14 +8874,12 @@ service)  of  the  wicked,  and  for  much  5.
 identity  of  Aramaiti  with  the  earth  is  recognised  in  the  Gathas.
 I  would  say,  on  the  contrary,  that  here  we  have  an  instance  in
 which  a  poetical  conception  gave  rise  to  a  later  error  or  fantastical
-association.  Piety,  with  frugal  virtue,  induced  a  thorough  hus-
-bandry ;  and  secured  the  hushiti,  peaceful  home-life.  She  gave
+association.  Piety,  with  frugal  virtue,  induced  a  thorough  husbandry ;  and  secured  the  hushiti,  peaceful  home-life.  She  gave
 meadows  to  the  Kine ;  at  the  next  step  she  poetically  represents  the
 meadows,  and  then  the  earth.     If  vastrai,  it  would  be  for  '  nurture.'
 
 2  Or  '  she,'  as  she  once  bewailed  in  a  colloquy.  Otherwise  the
-person  who  was  appointed  to  care  for  her  interests  is  meant.  Com-
-pare Y.  XXXIII,  6,  where  the  righteous  Zaotar  speaks  as  desiring
+person  who  was  appointed  to  care  for  her  interests  is  meant.  Compare Y.  XXXIII,  6,  where  the  righteous  Zaotar  speaks  as  desiring
 counsels  (hrnipawtou)  in  the  interest  of  the  pastures,  and  the  laws
 of  the  sacred  agriculture.  Cp.  also  the  later  reproduction  of  the
 idea  in  an  extended  form  in  the  Vendidad.  The  zaotar  of
@@ -9580,10 +8891,8 @@ Voc.  with  K5  (Barth.).
 meaning  of  '  kathe  ; '  I  follow  Geldner  with  regard  to  it  as  against
 Haug.     The  expressions  here  are  not  literal.
 
-6  IsvaX'i/  connects  only  indirectly  with  kaS(?u^i/,  as  kathe  inter-
-venes. I  regard  paraoj  ako  dregvaite  as  presenting  the  true  antithesis
-to  kasouvfci/na  ashaune.  The  isva  may  have  k\t  merely  from  the  influ-
-ence of  jingle,  being  at  the  head  of  the  line  like  kasau  ;  isva.  means
+6  IsvaX'i/  connects  only  indirectly  with  kaS(?u^i/,  as  kathe  intervenes. I  regard  paraoj  ako  dregvaite  as  presenting  the  true  antithesis
+to  kasouvfci/na  ashaune.  The  isva  may  have  k\t  merely  from  the  influence of  jingle,  being  at  the  head  of  the  line  like  kasau  ;  isva.  means
 
 
 I50  THE    GATHAS.
@@ -9591,8 +8900,7 @@ I50  THE    GATHAS.
 
 5.  But  Thou  wilt  give  these  gifts,  and  through  Thy
 (most  blessed  and  most)  bounteous  spirit,  O  Ahura
-Mazda!  to  this1  Thy  holy  saint,  for  they  are  what-
-soever is  the  best ;  but  far 2  from  Thy  love  the
+Mazda!  to  this1  Thy  holy  saint,  for  they  are  whatsoever is  the  best ;  but  far 2  from  Thy  love  the
 wicked  has  his  portion,  abiding  in  the  actions  of  the
 Evil  Mind.
 
@@ -9600,11 +8908,9 @@ Evil  Mind.
 Thou  Ahura  Mazda !  and  through  Thy  bounteous
 spirit,  (and)  by  Thy  Fire  as  in  a  good  bestowal  to
 
-of  itself  '  possessing  means.'  Paraox  may  depend  on  kathe  under-
-stood, as  kasifu.r  depends  on  it  expressed.  Moreover,  has  in  all  the
+of  itself  '  possessing  means.'  Paraox  may  depend  on  kathe  understood, as  kasifu.r  depends  on  it  expressed.  Moreover,  has  in  all  the
 instances  in  which  it  is  used  ends  the  sense,  and  here  is  separated
-by  the  caesura  from  parao.y,  which,  however,  is  of  no  great  import-
-ance. The  discourse  is  of  the  wicked ;  the  holy  are  incidentally
+by  the  caesura  from  parao.y,  which,  however,  is  of  no  great  importance. The  discourse  is  of  the  wicked ;  the  holy  are  incidentally
 mentioned,  and  here  their  ill-treatment  is  signalised.  Ako  cannot
 well  mean  '  hostile '  here ;  see  also  aka/  in  the  following  verse.
 Isva^i/,  if  understood  with  na,  alters  nothing.  '  A  man  was  desirous  of
@@ -9617,8 +8923,7 @@ of  little  was  at  the  service  of  the  righteous,  while  an  evil  man
 The  other  translation  is  :  '  Even  a  man  of  little  means  stands  to  the
 willing  service  of  the  saint,  but  a  man  even  of  large  means  is  hostile  (?)
 to  the  wicked.'  This  is  very  glib  and  so  attractive,  but  I  cannot
-accept  it  in  view  of  the  context.  Gathic  expression  is  often  un-
-fortunately far  from  glib ;  but  cramped,  awkward,  and  apt  to  con-
+accept  it  in  view  of  the  context.  Gathic  expression  is  often  unfortunately far  from  glib ;  but  cramped,  awkward,  and  apt  to  con-
 tain more  thought  than  could  be  conveniently  expressed  within  the
 counted  number  of  syllables.  The  glib  rendering  needs  other
 language  than  that  in  the  MSS.  See  the  following  verse,  which
@@ -9663,8 +8968,7 @@ Y.  XLIX,  1,  we  shall  say  at  once  that,  if  this  verse  was  intended
 to  connect  with  them,  an  armed  struggle  had  been  expected,  whether
 the  decisive  one  or  not,  we  need  not  say.
 
-The  saint,  that  is,  the  pious  adherent  to  the  Holy  Order,  what-
-ever may  be  the  result  of  the  preliminary  struggles,  is  encouraged
+The  saint,  that  is,  the  pious  adherent  to  the  Holy  Order,  whatever may  be  the  result  of  the  preliminary  struggles,  is  encouraged
 by  a  view  of  the  end.  2.  But  the  burdened  worshipper  craves  still
 further  reassurance  before  the  storms  of  battle  came  once  more
 upon  him.     3.  For  little  as  the  assurances  of  Ahura  are  valued
@@ -9676,26 +8980,22 @@ patkardarano.  I  will  not  positively  decide  as  to  this  point ;  generall
 however,  the  preferred  rendering  is  in  the  text,  while  on  very  many
 questions  there  is  nearly  an  even  balance  of  probabilities.
 
-2  Or,  'chooses  to  herself;'  but  a  causative  sense  may  be  ex-
-pressed by  an  intensive  form ;  the  Pahlavi  also  here  bears  evidence
-in  the  same  sense  to  a  causative  by  hemnuneW,  itself,  however,  mean-
-ing only  the  object  caused ;  namely,  the  belief.
+2  Or,  'chooses  to  herself;'  but  a  causative  sense  may  be  expressed by  an  intensive  form ;  the  Pahlavi  also  here  bears  evidence
+in  the  same  sense  to  a  causative  by  hemnuneW,  itself,  however,  meaning only  the  object  caused ;  namely,  the  belief.
 
 
 I52  THE    GATHAS.
 
 
 by  the  heretic,  to  the  man  who  understands  the  true  relations,
-what  Ahura  declares  by  means  of  His  inspired  prophets,  the  secret-
-announcers,  this  is,  of  all  things,  best ;  (he  need  not  ask  as  else-
+what  Ahura  declares  by  means  of  His  inspired  prophets,  the  secretannouncers,  this  is,  of  all  things,  best ;  (he  need  not  ask  as  else-
 where, Y.  XXXI,  17).  4.  And  whoever  would  hope  for  spiritual
 growth  and  purity  must  turn  his  mind  to  that  word  of  the  Deity,
 and  pursue  its  teachings  faithfully,  and  so  at  last  his  fears  will  vanish,
 for  his  doubts  will  disappear.  He  will  understand  as  the  Lord
 has  taught.
 
-5.  This  verse  seems  a  prayer  to  Aramaiti;  when  the  long-
-struggles  shall  have  found  their  issues,  and  the  one  party  or  the
+5.  This  verse  seems  a  prayer  to  Aramaiti;  when  the  longstruggles  shall  have  found  their  issues,  and  the  one  party  or  the
 other  wins  the  day,  let  not  that  party  be  the  evil  alliance  with  its
 monarch.  For,  if  the  government  is  set  up,  and  carried  on  with
 all  the  prescribed  ceremonial  and  moral  exactness  of  the  wise
@@ -9708,8 +9008,7 @@ the  correct  Authority,  and  the  Order  of  the  Faith.
 
 6.  For  that  sacred  Kine,  as  so  often  already  implied  or  stated,
 was  all  in  all  to  the  pious  worshipper.  It  was  she,  representing,
-as  she  did,  all  wealth  in  herds,  who  alone  could  sustain  the  home-
-life  of  happy  industry.  And  this  is  the  reason  why  Ahura  had
+as  she  did,  all  wealth  in  herds,  who  alone  could  sustain  the  homelife  of  happy  industry.  And  this  is  the  reason  why  Ahura  had
 originally  caused  the  herbage  to  grow  for  her  support.
 
 7.  Urging  the  overthrow  of  the  spirit  of  Rapine  in  accordance
@@ -9784,9 +9083,6 @@ with  its  amat  zak  yamtune*/.
 *  See  Y.  XXX,  11,  sava^a  ashavabyo.
 
 
-154  THE    GATHAS.
-
-
 know  it.  (Tell  me  to  grant  me  strength  and  courage)
 before  those  conflicts  come  which  shall  encounter  me  l
 (as  leader  of  Thy  tribes) ;  shall  the  champion  of  Thy
@@ -9843,8 +9139,7 @@ effort).  Yea,  O  Mazda  !  he  who  would  bend  his
 mind  (till  it  attains  to)  that  which  is  the  better  and  more
 holy,  must  pursue  the  Daena  close  in  word  and
 action.  His  will  and  wish  must  be  consistent  with
-his  chosen  creed  and  fealty,  and  in  Thine  Under-
-standing (which  discerneth  all)  shall  he  in  many  ways4
+his  chosen  creed  and  fealty,  and  in  Thine  Understanding (which  discerneth  all)  shall  he  in  many  ways4
 be  (versed)  at  last !
 
 
@@ -9914,8 +9209,7 @@ leaving  the  text  undisturbed,  and  explaining  as  an  optative.
 in  that  sense.
 
 3  So  the  Pahlavi  correctly  indicates  by  its  arzuk  ;  Ner.  priyataram.
-'  Compare  Y.  LI,  7.     Are  the  plants  here  mentioned  as  in  con-
-nection with  Aramaiti  in  her  figurative  association  with  the  earth  ?
+'  Compare  Y.  LI,  7.     Are  the  plants  here  mentioned  as  in  connection with  Aramaiti  in  her  figurative  association  with  the  earth  ?
 
 r>  See  verses  1,  2.
 
@@ -9984,14 +9278,10 @@ Y.  XXXII,  16.
 might  otherwise  be  a  first  personal  form  in  the  sense  of  the  Vedic  uk.
 
 
-158  THE    GATHAS.
-
-
 working  grace  1  ;  yea,  let  Thy  Saoshyawt  see  how
 gifts  of  recompense  may  be  his  own.
 
-10.  When,  Mazda!  shall  the  men  of  mind's  perfec-
-tion come  2  ?  And  when  shall  they  drive3  from  hence,
+10.  When,  Mazda!  shall  the  men  of  mind's  perfection come  2  ?  And  when  shall  they  drive3  from  hence,
 the  soil  of  this  (polluted)  drunken  joy4,  whereby  the
 Karpans  with  (their)  angry  zeal  would  crush  us5,  and
 by  whose  inspiration  the  tyrants  of  the  provinces
@@ -10018,8 +9308,7 @@ khratavo  ?
 
 3  Compare  Y.  XXXII,  15.
 
-4  Is  Soma-intoxication  here  referred  to?  And  was  the  Haoma-
-worship  in  abeyance  at  the  time  ?  The  Pahlavi  seems  to  have
+4  Is  Soma-intoxication  here  referred  to?  And  was  the  Haomaworship  in  abeyance  at  the  time  ?  The  Pahlavi  seems  to  have
 understood  '  magic '  here,  and  in  the  evil  sense,  that  is,  judging
 from  the  perhaps  later  gloss.  Aside  from  the  gloss,  however,  the
 Pahlavi  may  well  have  been,  nay,  more  probably  was,  intended
@@ -10027,8 +9316,7 @@ to  be  read  madih  as=madahya.
 
 5  As  to  this  word,  we  cannot  do  better  than  follow  Justi  (although
 his  work  is  now  a  score  of  years  old).  The  Indian  varpas,  in  the
-sense  of  deceit,  has  also  been  compared.  The  last  Pahlavi  trans-
-lator was  probably  confused  by  finding  this  word,  as  so  often,
+sense  of  deceit,  has  also  been  compared.  The  last  Pahlavi  translator was  probably  confused  by  finding  this  word,  as  so  often,
 divided  in  his  MS.  He  rendered  as  best  he  could,  or  rather  he
 handed  down  the  shattered  documents,  or  oral  teachings,  of  his
 predecessors  with  his  own  too  often  lame  additions,  the  whole
@@ -10069,8 +9357,7 @@ Verse  1 2  belongs  with  chapter  L.  One  of  the  struggles  in  the  holy
 cause  seems  to  have  gone  against  the  party  of  Asha.     I  say  'one
 
 
-1  Ma/  following  Asha  shows  that  we  may  also  have  the  pre-
-position in  poi  ma/.
+1  Ma/  following  Asha  shows  that  we  may  also  have  the  preposition in  poi  ma/.
 
 2  As  Aramaiti  is  here  spoken  of  as  '  having  pasture,'  that  is,  as
 inspiring  the  thrifty  husbandmen  who  cultivate  the  meadows  by
@@ -10112,8 +9399,7 @@ caused  the  true  prophet  many  an  hour  of  thought  as  well  as  anger.
 Its  functionaries  gave  him  pause  (manayeiti).  Falsity  in  religion
 was  as  ever  his  opportunity  ;  and  invective  follows.  '  The  priestly
 judge  himself  who  served  the  Drug- worshippers  was  a  cheat."  '  The
-holy  Order  was  his  foe,  and  not  his  helper.'  And  he  did  not  con-
-tribute at  all  to  the  spread  of  Piety  as  the  Zarathu.rtrians  conceived
+holy  Order  was  his  foe,  and  not  his  helper.'  And  he  did  not  contribute at  all  to  the  spread  of  Piety  as  the  Zarathu.rtrians  conceived
 of  it,  nor  indeed  really  in  another  sense  for  the  reason  that  he  even
 repudiated  the  source  of  pious  wisdom,  which  is  holy  counsel.
 3.  But,  however,  the  evil  functionaries  might  resort  to  subterfuge
@@ -10126,8 +9412,7 @@ Dru^-party  may  have  wished.
 And  so  the  poet  cries  once  more  for  the  divine  Benevolence  to
 be  his  guardian;  or  perhaps  he  may  have  intended  a  particular
 chief  who  represented  the  Good  Mind,  while  at  the  same  time  he
-swept  the  entire  throng  and  company  who  adhered  to  the  Lie-
-demon,  with  his  interdict,  away  from  his  consideration.  4.  He
+swept  the  entire  throng  and  company  who  adhered  to  the  Liedemon,  with  his  interdict,  away  from  his  consideration.  4.  He
 declares  them  closely  allied  to  the  Daeva-worshippers,  or  else  he
 puts  their  worship  of  the  Daevas  in  the  place  of  climax  as  their
 
@@ -10135,8 +9420,7 @@ puts  their  worship  of  the  Daevas  in  the  place  of  climax  as  their
 YASNA    XL1X.  I  6  I
 
 
-highest  offence,  not  failing  to  point  out  what  should  conciliate  sym-
-pathy with  him  always ;  that  is,  that  those  who  brought  the  Daevas,
+highest  offence,  not  failing  to  point  out  what  should  conciliate  sympathy with  him  always ;  that  is,  that  those  who  brought  the  Daevas,
 and  opposed  Asha,  were  the  devotees  of  Rapine  (aeshmem  vareden);
 for  murderous  rapine  seems  to  have  been,  apart  from  Asha,  the
 universal  sin.  By  this  these  Daeva-worshippers  gained  a  stolen
@@ -10175,8 +9459,7 @@ Y.  XL VI,  1,  will  not  go  forward  with  the  saints  to  the  ^inva/
 (Y.  XL VI,  10),  nor  will  they  be  met  by  their  consciences  under
 pleasing  images,  and  later  by  the  souls  of  saints  who  had  gone
 before,  but  the  wicked  dead  shall  meet  them  in  the  home  of  Lies,
-with  poisoned  food,  and  sneering  words.  And  this  shall  be  a  self-
-inflicted  vengeance.
+with  poisoned  food,  and  sneering  words.  And  this  shall  be  a  selfinflicted  vengeance.
 
 
 [30  M
@@ -10189,13 +9472,11 @@ Translation.
 
 i.  Beudva.1  has  ever  fought  with  me;  (yea,  since
 he  first  appeared  at  hand  to  threaten,  and  alas  to  his
-advantage  in  the  strife).  He  is  the  most  power-
-ful (in  brutal  might),  and  (in  his  predominance)
+advantage  in  the  strife).  He  is  the  most  powerful (in  brutal  might),  and  (in  his  predominance)
 would  crush  my  strength  as  I  seek  to  win  back
 the  disaffected  (in  my  host)  through  Righteous2
 (zeal),  O  Mazda  !  Come  then  with  gifts  of  (vengeful 3)
-good  to  (meet)  my  sorrow4.  Through  (Thine  in-
-spiring) Good  Mind  obtain  (for  me  5)  that  (Bendvas)
+good  to  (meet)  my  sorrow4.  Through  (Thine  inspiring) Good  Mind  obtain  (for  me  5)  that  (Bendvas)
 death6!
 
 2.   (Aye,  he    is    indeed    the   greatest7),    for   that
@@ -10239,8 +9520,7 @@ i
 B^dva's  evil  judge  doth  cause  me  to  hesitate  and
 ponder  (in  my  earnest  course  of  propagation  and
 reform),  a  deceiver  as  he  is,  (estranged)  from  the
-Righteous  Order,  and  receiving 1  from  it  (not  happi-
-ness) but  many  a  wound.  The  bountiful  and  perfect
+Righteous  Order,  and  receiving 1  from  it  (not  happiness) but  many  a  wound.  The  bountiful  and  perfect
 Piety  he  has  not  maintained  nor  strengthened  for
 this  2  land,  nor  questions  with  Thy  Good  Mind  hath
 he  asked 3  (to  gain  him  light),  O  Lord  !
@@ -10262,8 +9542,7 @@ her  Rama 8,  and  (not  by  silent  favour,  but)  with  their
 1  I  would  gladly  accede  to  a  subjunctive  2nd  singular  intensive
 here  in  a  causative  sense,  but  a  3rd  singular  precedes,  and  a  3rd
 singular  follows.  I  cannot  therefore  recognise  a  subjunctive  in  a
-precative,  or  imperative,  sense  here.  I  think  the  word  is  a  nomina-
-tive, as  its  position  in  the  verse  corresponds  well  to  that  form.  It
+precative,  or  imperative,  sense  here.  I  think  the  word  is  a  nominative, as  its  position  in  the  verse  corresponds  well  to  that  form.  It
 may  mean  '  delivering  against  us  many  a  wound.'
 
 2  Possibly  '  for  us  in  (this)  land.'
@@ -10277,16 +9556,12 @@ may  mean  '  delivering  against  us  many  a  wound.'
 6  The  Pahlavi  mun  reshinea?  pavan  Drvig.
 
 7  The  Pahlavi  translator  gave  as  our  first  rendering  here  :
-Andarg  harvisp-guno  darvandano  min  hamkhakih  andarg  yemale-
-lunam ;  [aigh,  min  dostih  i  levatman  valmaiwdn  gaxid&k  yehe-
+Andarg  harvisp-guno  darvandano  min  hamkhakih  andarg  yemalelunam ;  [aigh,  min  dostih  i  levatman  valmaiwdn  gaxid&k  yehe-
 vunam],
 
 8  The  Pahlavi  has  areshko  =  envy.
 
 M  2
-
-
-164  THE    GATHAS.
 
 
 very  tongues,  whose  will  and  wish  '  (run)  not  with
@@ -10325,14 +9600,11 @@ hesitation ;  possibly  views  may  be  harmonised.
 6  Compare  Y.  XXIX,  3,  where  Asha  answers.  I  cannot  well
 accept  mruite  as  an  infinitive.  Geldner  has  keenly  pointed  out
 that  fraeshya  is  inclined  to  unite  with  an  infinitive,  but  so  are  other
-forms  of  ish  and  vas.  Moreover  the  infinitive  does  not  so  natur-
-ally fall  to  the  end  of  the  sentence  in  Gathic  or  Vedic.  (See  above,
-note  on  Y.  XXXIV,  1.)  If  an  infinitive  is  insisted  upon  (so  long-
-since)  let  us  at  least  bring  the  word  into  more  usual  shape,  using
+forms  of  ish  and  vas.  Moreover  the  infinitive  does  not  so  naturally fall  to  the  end  of  the  sentence  in  Gathic  or  Vedic.  (See  above,
+note  on  Y.  XXXIV,  1.)  If  an  infinitive  is  insisted  upon  (so  longsince)  let  us  at  least  bring  the  word  into  more  usual  shape,  using
 the  Pahlavi  translator,  as  in  one  of  his  most  valuable  offices,  as  an
 indirect  evidence,  where  his  translation  is  at  fault  as  a  rendering.
-He  has :  Frazo  avo  zak  1  Lekum  farmayem,  Auharmazd,  va  Asha-
-vahijto^  rai  yemalelunam.  He  had  '  mruve '  before  him,  which
+He  has :  Frazo  avo  zak  1  Lekum  farmayem,  Auharmazd,  va  Ashavahijto^  rai  yemalelunam.  He  had  '  mruve '  before  him,  which
 might  be  an  infinitive.
 
 
@@ -10341,8 +9613,7 @@ YASNA    XLIX.  165
 
 ever  must),  I  may  as  well  discern  aright  how  we  can
 herald  forth  those  (truths),  and  that  pure  Daena
-(with  them)  which  is  the  Faith  of  Him  who  is  Thy-
-self1, O  Lord.
+(with  them)  which  is  the  Faith  of  Him  who  is  Thyself1, O  Lord.
 
 7.  And  (as  we  speak  it  forth  as  taught  by  Asha)
 then  let  the  (zealous2  citizen)  give  heed,  and  with  Thy
@@ -10378,14 +9649,10 @@ from  that  sense.  The  Pahlavi  has  also  vafriganih,  quite  in
 harmony  with  the  connection.
 
 8  This  verse  is  clearly  an  answer  to  the  questions  contained  in
-verse  7.  It  is  a  half  answer,  even  if  we  render  dau.  (dao)  as  a  subjunc-
-tive. As  the  question  in  verse  7  certainly  concerns  a  chief  of  some
+verse  7.  It  is  a  half  answer,  even  if  we  render  dau.  (dao)  as  a  subjunctive. As  the  question  in  verse  7  certainly  concerns  a  chief  of  some
 kind,  I  cannot  see  how  we  can  avoid  rendering  sarrni  analogously.
 We  need  one  who  gives  a  refuge  rather  than  one  who  receives  it.
 Compare  the   Pahlavi,  and  also   the  Persian,  sar.     The  Pahlavi
-
-
-1 66  THE    GATHAS.
 
 
 Ahura !  This  therefore  would  I  pray  of  Thee  (to
@@ -10398,8 +9665,7 @@ blest  and  foremost1  may  we  both  for  ever  be  within  it.
 so  formed  for  giving  help  and  blessings  2,  give  heed
 and  listen  when  I  call,  (O  Mazda !)  Let  not  the
 truthful  (tiller,  he  who  hears  and  speaks  Thy  word 3),
-be  he  who  takes 4  that  sheltering  chieftainship  to-
-gether with  the  wicked.  Let  the  believing  natures
+be  he  who  takes 4  that  sheltering  chieftainship  together with  the  wicked.  Let  the  believing  natures
 (only)  join  in  that  best  recompense.  And  thus  in  the
 course  of  the  holy  Order  are  in  the  fact  so  joined
 those  two,  (^amaspa  and  the  '  hero ' 5.
@@ -10426,11 +9692,9 @@ das  Rechte  redet,  die  Herrschaft  dem  Liigner  iiberlassen.'
 
 5  Yahi  remains  a  singular,  whereas  we  should  expect  a  dual;  (can
 it  be  such,  the  form  being  altered,  as  so  often  by  later  reciters,  to
-accommodate  the  metre  ?)  For  Gamaspa  and  yukhta  as  duals  com-
-pare utayuiti  tevishi.  Yahi  probably  refers  to  Vlrtaspa  (Y.  XLVI,
+accommodate  the  metre  ?)  For  Gamaspa  and  yukhta  as  duals  compare utayuiti  tevishi.  Yahi  probably  refers  to  Vlrtaspa  (Y.  XLVI,
 14).  Was  it  an  especial  epithet  for  the  kings?  The  later  Persian
-kings  took  prominent  places  in  battle.  If  the  duals  are  not  ad-
-mitted, my  rendering  would  be,  'the  souls  are  united  with  the
+kings  took  prominent  places  in  battle.  If  the  duals  are  not  admitted, my  rendering  would  be,  'the  souls  are  united  with  the
 reward  through  the  (influence  and  example  of  the)  valiant
 Gamaspa.'     Perhaps  Gamaspo  is  to  be  read.
 
@@ -10439,8 +9703,7 @@ YASNA   XLIX.  167
 
 
 protection  (Thy)  Good  Mind *  (in  the  living)  and  the
-spirits  (of  the  dead.  Yea,  I  confide  our  very)  self-hum-
-bling praises,  (which  we  offer,  unto  Thee),  by  which
+spirits  (of  the  dead.  Yea,  I  confide  our  very)  self-humbling praises,  (which  we  offer,  unto  Thee),  by  which
 (Thine)  Aramaiti  (who  is  our  Piety,  exists),  and  likewise
 sacrificing  zeal.  And  this  would  we  do  to  further
 Thy  great  Sovereign  Power  (among  Thy  folk),  and
@@ -10471,8 +9734,7 @@ a  form  of  man  (or  a  participle).  They  who  think  upon  the  throne
 been  made;  but  the  Pahlavi  translators  seldom  wilfully  guessed.
 They  took  the  shattered  results  of  their  predecessors,  and  worked
 them  feebly  over ;  hence  their  great  value,  and  the  unimportance  of
-their  errors.  They  used  what  intelligence  they  possessed  in  re-
-delivering what  they  heard  and  read.  Vazdangha.  cannot  well  be
+their  errors.  They  used  what  intelligence  they  possessed  in  redelivering what  they  heard  and  read.  Vazdangha.  cannot  well  be
 taken  in  an  evil  sense,  as  it  is  used  in  a  good  sense  elsewhere.  The
 connection  maza.  with  ra  has  long  circulated ;  maza  avemt  ra  (?).  As
 the  souls  of  the  departed  are  thought  of,  perhaps  '  undying '  is  the
@@ -10490,23 +9752,20 @@ I  68  THE    GATHAS.
 with  his  personal  authorship,  nor  have  we  only  such  expressions  as
 '  to  Zarathmtra  and  to  us '  (Y.  XXVIII,  7),  but  we  have  Zarathmtra
 named  as  '  mahya  razeng  sahi/,'  '  may  he  declare  my  regulations,
-which  could  only  be  said,  without  figure  of  speech,  by  some  supe-
-rior, if  not  by  the  prime  mover  himself.  Were  these  verses  then
+which  could  only  be  said,  without  figure  of  speech,  by  some  superior, if  not  by  the  prime  mover  himself.  Were  these  verses  then
 written  by  the  prime  mover  ?  And  was  he  other  than  Zarathmtra  ?
 If  so,  the  entire  mass  of  the  Gathas  was  of  course  written  by  him,
 or  else  their  style  and  character  may  be  regarded  as  of  such  a
 character  that  they  could  have  been  composed  by  four  or  five
 closely  connected  individuals.  But  while  verses  here  and  there  are
 doubtless  the  productions  of  secondary  persons,  the  mass  of  the
-Gathas  cannot  be  regarded  as  the  work  of  several  different  com-
-posers. They  are  one  man's  work,  directly  or  indirectly.  If  then
+Gathas  cannot  be  regarded  as  the  work  of  several  different  composers. They  are  one  man's  work,  directly  or  indirectly.  If  then
 the  present  section,  which  is  especially  original  in  its  tone,  was  not
 from  Zarathmtra,  the  man  whose  heart  and  soul,  and,  we  may  add,
 whose  power  were  in  Zarathmtrianism,  was  not  Zarathmtra,  but
 some  unnamed  individual  far  more  important.  (See  note  on  Y.
 XXVIII,  7.)  The  prominence  of  the  name  of  Zarathmtra  was  in
-that  case  solely  owing  to  the  personal  activity  of  Zarathmtra  sup-
-ported by  the  social  rank  of  the  Spitamas.  Zarathmtra  was  a
+that  case  solely  owing  to  the  personal  activity  of  Zarathmtra  supported by  the  social  rank  of  the  Spitamas.  Zarathmtra  was  a
 princely  disciple,  on  the  hypothesis  mentioned,  and  nothing  more.
 The  real  author  of  Zarathmtrianism  was,  in  that  case,  in  no  sense
 Zarathmtra ;  compare  'to  Zarathmtra  and  to  us:'  nor  yet  Vutaspa ;
@@ -10519,13 +9778,11 @@ becomes  of  Y.  XXIX,  6,  8  ?  Is  it  probable  that  the  founder  of  a
 religion  (or  of  a  new  departure  in  a  religion)  would  describe
 another  as  the  chosen  of  God,  if  he  were  not  in  fact  supposed  to  be
 thus  eminent  ?  Or,  if  a  popular  and  sincerely  enthusiastic  religious
-composer  were  about  to  chant  a  hymn  at  a  meeting  of  the  re-
-ligious masses,  would  he  be  likely  to  name  a  person  to  the  animated
+composer  were  about  to  chant  a  hymn  at  a  meeting  of  the  religious masses,  would  he  be  likely  to  name  a  person  to  the  animated
 throngs,  whom  they  themselves  did  not  feel  to  be  the  life  of  their
 religious  faith  ?  especially,  if  that  person  were  not  prominent
 from  the  arbitrary  circumstance  that  he  was  the  reigning  prince  ?
-I  do  not  think  that  this  is  at  all  probable.  But  if  Zara-
-thmtra had,  as  described,  the  leading  name,  and  composed  a  portion
+I  do  not  think  that  this  is  at  all  probable.  But  if  Zarathmtra had,  as  described,  the  leading  name,  and  composed  a  portion
 of  the  hymns  with  their  lost  companions,  is  it  probable  that  he
 possessed  no  decided  prominence  in  this  matter  above  VLrtaspa,
 Frashaortra,   and   Gamaspa?     Was    there    no    central    poet,  who
@@ -10544,23 +9801,17 @@ four,  and  he  is  mentioned  as  Zarathmtra,  and  as  the  spokesman  in
 many  portions  of  the  Gathas,  being  likewise  known  by  inference  to
 be  the  composer  of  nearly  all  of  them,  how  can  we  account  for
 the  words,  ( let  him,  Zarathvutra,  teach  or  proclaim  my  regulations  ?'
-Can  the  verse  be  regarded  as  put  into  the  mouth  of  Ahura,  as  else-
-where?    Hardly,  for  Ahura  is  addressed  in  it.      I  can  therefore
+Can  the  verse  be  regarded  as  put  into  the  mouth  of  Ahura,  as  elsewhere?    Hardly,  for  Ahura  is  addressed  in  it.      I  can  therefore
 only  repeat  of  this  verse,  as  of  the  others  which  present  analogous
 questions  in  Y.  XXVIII  (with  which  this  chapter  L  stands  in  the
-closest  connection),  that  this  thoroughly  original  piece  was  com-
-posed by  Zarathujtra  as  by  far  the  most  prominent  individual  in
-the  religious  struggle,  dominating  his  party  essentially  and  posi-
-tively, and  that  these  verses  (6-1 1)  were  simply  rhetorically  put  into
-the  mouth  of  the  monarch  from  the  exigency  of  the  style  of  com-
-position.    And  I  conclude   that  Vutaspa  was  supposed  to  speak
-them,  because  in  the  presence  of  Zarathiutra,  it  is  extremely  impro-
-bable that  any  one  but  the  titular  head  of  the  State  should  have
+closest  connection),  that  this  thoroughly  original  piece  was  composed by  Zarathujtra  as  by  far  the  most  prominent  individual  in
+the  religious  struggle,  dominating  his  party  essentially  and  positively, and  that  these  verses  (6-1 1)  were  simply  rhetorically  put  into
+the  mouth  of  the  monarch  from  the  exigency  of  the  style  of  composition.    And  I  conclude   that  Vutaspa  was  supposed  to  speak
+them,  because  in  the  presence  of  Zarathiutra,  it  is  extremely  improbable that  any  one  but  the  titular  head  of  the  State  should  have
 been  represented  as  saying  of  Zarathurtra,  '  mahya  raz<?«g  sahi/.'
 
 1.  The  piece  from  Y.  XLIX,  12  to  Y.  L,  1-5  joins  well  on  with
-Y.  XLIX,  although  the  tone  is  brighter.  As  he  begins  with  ques-
-tions in  Y.  XLVIII,  8-1 1,  after  the  prospective  prayers  of  Y.
+Y.  XLIX,  although  the  tone  is  brighter.  As  he  begins  with  questions in  Y.  XLVIII,  8-1 1,  after  the  prospective  prayers  of  Y.
 XLVIII,  1-7,  in  which  he  looks  forward  to  a  crisis  in  the  armed
 struggle,  so  now  after  the  hostile  chief  has  got  the  upper  hand,  he
 cries  out  once  more  with  interrogatives,  uttering  the  questions,  not
@@ -10572,12 +9823,10 @@ the  all-powerful  means  of  help,  the  Daena,  in  which  Thy  Righteous
 Order  is  set  (Y.  XLIX,  3).  I  have  cried  to  Thee  for  chief  and
 peer  (verse  7),  naming  Frashaojtra,  Gamaspa,  and  the  Yahin,  and
 now,  while  I  invoke  you,  praying  for  what  in  your  selection  is  the
-best  (Y.  XXVIII,  11  ;  Y.  XLIV,  10),  I  would  more  than  ever  de-
-clare that  I  have  none  other  help  than  Thee  and  Thy  saving  Order.'
+best  (Y.  XXVIII,  11  ;  Y.  XLIV,  10),  I  would  more  than  ever  declare that  I  have  none  other  help  than  Thee  and  Thy  saving  Order.'
 2.  And  he  asks  once  more  to  know  how  he  who  seeks  to  further
 the  sacred  herds,  as  the  emblem  of  the  moral  thrift  of  the  provinces,
-should  proceed  in  his  allotted  work.  3.  Answering  his  own  ques-
-tion, he  says  that  it  is  by  advance  upon  the  enemy ;  he  declares
+should  proceed  in  his  allotted  work.  3.  Answering  his  own  question, he  says  that  it  is  by  advance  upon  the  enemy ;  he  declares
 
 
 I70  THE    GATHAS.
@@ -10591,18 +9840,15 @@ prepared  for  both  worship  and  work,  since  God  had  approached  to
 aid  His  prophet,  encouraging  His  discouraged  spirit.  6.  Here
 Vutaspa  is  represented  as  intervening ;  and  he  addresses  Ahura
 literally,  but  Zarathmtra  really,  exhorting  him  indirectly  to  continue
-on  in  his  work  of  propagation,  undismayed  by  present  circum-
-stances. 7.  And  with  Zarathurtra,  he  would  re-engage  the  other
+on  in  his  work  of  propagation,  undismayed  by  present  circumstances. 7.  And  with  Zarathurtra,  he  would  re-engage  the  other
 powerful  helpers,  whom  he  would  yoke  on  as  steeds  to  gain  God's
-praise  in  Heaven  by  passing  over  every  bridge  of  trial  safely.  8.  Hav-
-ing heard  from  Zarathujtra  his  metric  words,  he  will  approach  with
+praise  in  Heaven  by  passing  over  every  bridge  of  trial  safely.  8.  Having heard  from  Zarathujtra  his  metric  words,  he  will  approach  with
 them  to  pray,  and,  as  in  Y.  XXVIII,  2,  3,  '  with  hands  stretched
 out"  with  homage,  and  with  vigour.  9.  And  he  looks  to  attain
 the  object  of  his  prayers  by  religious  self-control,  and  faithful
 action.  10.  His  efforts  vie  with  the  heavenly  bodies  in  their  praise
 of  God.  1 1.  Therefore  he  will  persevere,  and  as  a  praiser-king  (so
-the  Pahlavi  in  one  place) ;  and  he  beseeches  that  Ahura,  the  life-
-giver,  may  help  on  the  all-engrossing  cause.
+the  Pahlavi  in  one  place) ;  and  he  beseeches  that  Ahura,  the  lifegiver,  may  help  on  the  all-engrossing  cause.
 
 
 Translation.
@@ -10612,8 +9858,7 @@ Thine  invoking  Zarathurtra,  (O  Ahura  Mazda !)  to
 grant  him  through  Thy  Righteous  Order  ?  Yea,  what
 (aids  of2  grace  hast  thou  for  me  as)  through  Thy  Good
 Mind  given  (within  my  soul),  for  me  who  will  (still)
-pray  to  Thee  with  praises,  O  Great  Creator!  be-
-seeching what  in  accordance  with  Your  wished-for
+pray  to  Thee  with  praises,  O  Great  Creator!  beseeching what  in  accordance  with  Your  wished-for
 aim  is  best  ?
 
 Y.  L,  1.  Aye,  doth  my  soul  indeed  obtain  assisting
@@ -10623,8 +9868,7 @@ chapter  L  than  to  chapter  XLIX.  Lost  verses  may,  however,  have
 intervened  between  it  and  Y.  L,  1.
 
 2  Another  rendering,  regarding  ksJ  as  a  purely  interrogative
-participle,  would  be,  '  Are  they  (toi)  helpful  to  the  invoking  Zara-
-thurtra ?'  But  ka/  toi  is  a  familiar  form ;  see  Y.  XXXIV,  1  2,  where
+participle,  would  be,  '  Are  they  (toi)  helpful  to  the  invoking  Zarathurtra ?'  But  ka/  toi  is  a  familiar  form ;  see  Y.  XXXIV,  1  2,  where
 it  must  mean  quid  tibi.
 
 
@@ -10643,8 +9887,7 @@ is  there  for  me  save  Thy  Best  Mind  (itself)  ?
 wealth)  how  shall  he  (obtain,  and  by  what  means
 shall  he)  seek  after  2  that  joy-creating  Kine  (who  is
 the  living  symbol  of  our  peace  3)  ?  (How  shall  that
-man  obtain  his  wish)  who  shall  desire  to  see  her  pro-
-vided with  pastures  for  (the  welfare  of)  this  land  ?
+man  obtain  his  wish)  who  shall  desire  to  see  her  provided with  pastures  for  (the  welfare  of)  this  land  ?
 (That  only  way  is  righteousness.)  Do  Thou  then
 grant  me  lands  (so  would  I  ask  of  Thee)  which  live
 in  justice  in  the  many  4  splendours  of  the  sun,  and
@@ -10653,8 +9896,7 @@ lands  which  openly 5  thus  live,  and  which  are  to  be
 1  I  should  be  far  from  denying  that  azda  may  equal  addha,  but
 a  strengthening  adverb  seems  to  me  of  no  particular  force  here.
 
-1  formerly  rested  at  the  simple  explanation  az  + da =dha  =  desire-
-exciting,  much  desired  one.  But  the  Pahlavi  translator  affords  an
+1  formerly  rested  at  the  simple  explanation  az  + da =dha  =  desireexciting,  much  desired  one.  But  the  Pahlavi  translator  affords  an
 explanation  which  may  surpass  that  of  his  successors.  He  sees
 the  meaning  :  '  When  I  shall  call  upon  You/  (that  is,  freely, '  being
 invoked,')  '  cause  Thou  (sic)  me  to  understand  fully.'  This  is  the
@@ -10673,20 +9915,15 @@ to  the  cry  of  the  Kine,  Zarathujtra  was  sent  to  the  people.
 
 4  I  can  hardly  agree  to  the  rendering  '  among  people  who  see
 the  sun '  without  a  needless  reconstruction  of  the  text.  The  Pahlavi
-likewise  has  pavan  khvarih  ;  for  general  meaning,  compare  Khsha-
-throi  hveng  daresoi,  not  as  equivalent  however.
+likewise  has  pavan  khvarih  ;  for  general  meaning,  compare  Khshathroi  hveng  daresoi,  not  as  equivalent  however.
 
 5  Askarak  sti.
-
-
-172  THE    GATHAS.
 
 
 sought  and  gained  by  me  (as  conquests  for  the  cause).
 Give  Thou  this  gift !
 
-3.  (Yea,  let  that  joy-creating  one)  be  his  posses-
-sion through  the  Righteous  Order  (which  he  helps  to
+3.  (Yea,  let  that  joy-creating  one)  be  his  possession through  the  Righteous  Order  (which  he  helps  to
 bring,  that  living  sign)  which  (the  most  valiant
 citizen)  may  give  to  him  (at  once  reward  and  charge),
 and  in  accordance  with  Thy  Sovereign  Authority.
@@ -10700,8 +9937,7 @@ as  his  x.
 will  I  give  sacrifice  to  You  with  praises,  O  Ahura
 Mazda!  together  with  Thine  Order  and  Thy  Best  Mind
 (in  Thy  saints),  and  in  accordance  with  Thy  sacred
-Sovereign  Power,  by  whose  help  the  wisher  (heaven-
-bound)  may  stand  upon  the  (certain)  pathway2,  and
+Sovereign  Power,  by  whose  help  the  wisher  (heavenbound)  may  stand  upon  the  (certain)  pathway2,  and
 in  Thine  Home-of-song  shall  I  (by  means  of  these
 my  Yasnas  offered  here)  there  hear  the  praises  of
 Thine  offering  saints  who  see  Thy  face  3.
@@ -10756,8 +9992,7 @@ toathre  refers  to  demane  garo.
 
 3  As  remarked,  this  entire  piece  recalls  Y.  XXVIII.  Here  the
 monarch  is  represented  as  speaking  precisely  as  spokesmen  are
-introduced  in  any  other  composition.  We  have  no  reason  to  sup-
-pose the  piece  to  be  the  composition  of  some  leading  person  other
+introduced  in  any  other  composition.  We  have  no  reason  to  suppose the  piece  to  be  the  composition  of  some  leading  person  other
 than  Zarathujtra,  because  of  the  words  '  let  Zarathujtra  speak  forth
 my  regulations.'     (See  page  169.)
 
@@ -10772,13 +10007,9 @@ aurvato  :=  arvand.
 'the  bridge  of  the  earth'  (Y.  LI,  12).  The  crises  of  effort,  or
 temptation,  are  meant,  as  the  _£"inva/  Bridge  was  the  last  crisis
 before  salvation  or  perdition.  The  souls  of  the  good  and  of  the
-evil  were  met  by  their  own  consciences  on  the  Bridge,  and  en-
-couraged or  reviled.
+evil  were  met  by  their  own  consciences  on  the  Bridge,  and  encouraged or  reviled.
 
 'When  the  soul  of  the  pious  passes  over  that  Bridge,  the  width  of
-
-
-174  THE    GATHAS.
 
 
 Your  adoration  (rules  and  is  complete).  Yea,  I  (?)
@@ -10803,8 +10034,7 @@ soul).
 9.  Yea,  with  these  Yasnas  of  Your  sacrifice  would
 
 1  approach  You,  praising  back  to  You  (in  answer  to
-Your  mercies),  O  Ahura !  and  Thou,  O  Righteous-
-ness !  in  (the  holy)  actions  of  Your  Good  Mind,  (as
+Your  mercies),  O  Ahura !  and  Thou,  O  Righteousness !  in  (the  holy)  actions  of  Your  Good  Mind,  (as
 he  moves  within  us),  so  long  indeed  as  I  shall  have
 the  power,  commanding  at  my  will  o'er  this  my  sacred
 (privilege)  and  gift.  (And  doing  as)  the  wise  man
@@ -10851,8 +10081,7 @@ further  us)  which  through  His  veritable  grace  is  most
 promotive  (for  the  cause) !
 
 1  I  can  here  only  follow  the  words  as  they  are  written ;  the
-meaning  is  clear  enough  although  rather  advanced.  Reconstruc-
-tions on  a  large  scale  are  seldom  of  value.
+meaning  is  clear  enough  although  rather  advanced.  Reconstructions on  a  large  scale  are  seldom  of  value.
 
 2  Judging  from  the  context,  we  may  render  a.rgaf  thus.
 
@@ -10867,9 +10096,6 @@ arus  den  bam  I.    Ner.  alone  understood  arus.
 5  An  imperative  has  long  been  recognised  in  van'tam ;  or  read  :
 '  Let  him  cause  that  which  is  the  most  furthering  of  deeds  to  grow
 influential  through  veritable  grace.'     So  perhaps  better.
-
-
-176  THE    GATHAS.
 
 
 THE  GATHA(A)  vohO  khshathrem
@@ -10940,8 +10166,7 @@ his  motives,  a  very  son  of  the  Lie,  and  of  the  seed  of  Akoman.
 the  devotion  of  the  chieftains,  as  he  calls  aloud  to  the  Deity.
 
 12.  Here  a  temptation  of  Zarathartra  is  narrated,  as  in  the
-Vendidad,  here  dwelling  on  his  youth,  there  on  his  maturer  man-
-hood.    But  the  verse  shows  marked  signs  of  later  age.
+Vendidad,  here  dwelling  on  his  youth,  there  on  his  maturer  manhood.    But  the  verse  shows  marked  signs  of  later  age.
 
 13.  And  the  soul  of  the  righteous  is  encouraged  by  the  recorded
 example  ;  he  shall  come  off  the  conqueror,  as  Zarathu^tra  did.
@@ -10950,8 +10175,7 @@ example  ;  he  shall  come  off  the  conqueror,  as  Zarathu^tra  did.
 following  the  typical  destroyer  (as  in  Y.  XXXII),  would  bring  the
 world  to  ruin,  and  the  creatures  to  Hell.
 
-15.  The  true  disciples  will  however  infallibly  receive  the  pro-
-mised recompense.
+15.  The  true  disciples  will  however  infallibly  receive  the  promised recompense.
 
 16.  And  as  for  that  ^fisti,  conceived  by  Mazda  to  give  the
 saving  knowledge  in  the  sacred  verse,  the  King  of  the  Realm  had
@@ -10967,9 +10191,6 @@ stands  in  the  assembly;  (19)  and  still  another.  20.  Then,  as  if
 taking  in  all  with  his  view,  and  with  an  expression  which  shows
 
 [3i]  N
-
-
-178  THE    GATHAS.
 
 
 his  identification  with  the  people,  he  declares  that  the  'Archangels'
@@ -10999,8 +10220,7 @@ that  oppress  us  it  opposes  3,  through  the  holy  Order
 (which  pervades  it),  and  with  the  pious  zeal  (of  its
 true  servants).     Therefore,  O  Great  Creator  !  let  me
 
-1  It  is  far  better  to  take  Khshathra  in  its  usual  and  often  neces-
-sary sense.  And  it  is  especially  desirable  not  to  confound  it  with
+1  It  is  far  better  to  take  Khshathra  in  its  usual  and  often  necessary sense.  And  it  is  especially  desirable  not  to  confound  it  with
 shoithra  =  kshdtra.
 
 2  The  choice  one.
@@ -11008,8 +10228,7 @@ shoithra  =  kshdtra.
 3  One  is  somewhat  inclined  to  regard  vidushemnaLr  as  a
 monstrous  form  of  vid,  which  has  crept  into  the  text  under  the
 influence  of  the  two  words  vidushe  in  verse  8,  and  owing  to  an
-attempt  to  fill  out  the  metre,  the  original  word  having  been  videm-
-nai.r.  The  Pahlavi  gives  no  indication  except  for  a  form  of  du=to
+attempt  to  fill  out  the  metre,  the  original  word  having  been  videmnai.r.  The  Pahlavi  gives  no  indication  except  for  a  form  of  du=to
 give.     Leaving  the  MSS.  intact,  I  compare  dush  +  vi.
 
 I  render  as  above  on  the  principle  that  the  text  in  the  MSS.
@@ -11036,13 +10255,11 @@ through  (the  inspiration  of  His)  Good  Mind  (within
 the  soul).
 
 3.  (And  it  is  not  I  alone  who  thus  appeal  to
-You  ;  I  speak  for  all)  who  are  guarded  in  the  (cere-
-monial and  moral)  actions  of  Your  (law),  and  by
+You  ;  I  speak  for  all)  who  are  guarded  in  the  (ceremonial and  moral)  actions  of  Your  (law),  and  by
 those  (inspired)  words  (which  proceed)  from  the
 tongue  of  Thy  Good  Mind  (as  he  speaks  within  Thy
 Mathra).  Yea,  these  are  all  assembling  (each)  to  hear
-You,  of  whom  Thou,  O  Ahura  Mazda !  art  the  fore-
-most guide  2  and  light.
+You,  of  whom  Thou,  O  Ahura  Mazda !  art  the  foremost guide  2  and  light.
 
 4.  (And  they  cry  aloud  to  Thee,  O  Mazda!  I
 speaking  with  them,  and  in  their  name)  :  Where  is
@@ -11075,8 +10292,7 @@ does  he  stand  to  (show  us)  mercy  ?  Whither  are
 (Thy)  Righteousness  and  the  Bountiful  Aramaiti
 (our  Piety)  approaching  ?  From  what  direction
 comes  Thy  Best  Mind  (to  inspire  and  to  guide)  ?
-And  whence  (again),  O  Great  Creator !  Thy  Sove-
-reign Power  (to  be  our  ruler  and  defence  *)  ?
+And  whence  (again),  O  Great  Creator !  Thy  Sovereign Power  (to  be  our  ruler  and  defence  *)  ?
 
 5.  And  it  is  the  tiller  of  the  earth  who  asks  this  of
 Thee,  O  Ahura !  (Thy  chosen  saint  himself) ;  he
@@ -11086,8 +10302,7 @@ all  wealth  in  herds  beside.  And  he  would  seek  this)
 moved  by  the  motives  which  flow  from  Thy  Righteous
 Order  (and  Thy  cause),  upright  as  he  is  in  actions,
 and  wise  in  his  self-humbling  worship  (of  that 2  One)
-who,  as  a  righteous  ruler,  has  appointed  a  just  con-
-trolling guide  for  those  whom  He  has  made.
+who,  as  a  righteous  ruler,  has  appointed  a  just  controlling guide  for  those  whom  He  has  made.
 
 6.  (And  in  partial  answer  to  his  question,  and  to
 solve  his  doubt,  I  now  declare  the  truth)  :  He  who
@@ -11119,8 +10334,7 @@ YASNA    LI.  l8l
 
 
 a  false  god  of  the  Daevas 1).  And  this  will  He  bestow
-through  His  divine  Authority  (established  in  prepa-
-ration here),  while  on  the  withholder  of  the  sacrifice,
+through  His  divine  Authority  (established  in  preparation here),  while  on  the  withholder  of  the  sacrifice,
 who  offers  nothing  to  His  (cause),  He  will  send  worse
 than  the  evil  (and  that  not  here  alone,  but)  in  the
 last  turning  of  the  creation  in  its  course  !
@@ -11144,8 +10358,7 @@ it  to  the  wise.
 
 9.  (And  when  I  shall  speak,  I  will  declare  for  You
 that  mental)  keenness  (which  reaches  the  decision),
-and  which  Thou  hast  bestowed  upon  the  two  striv-
-ing   sides  5,    (in   Thy    satisfying  word).      And    this
+and  which  Thou  hast  bestowed  upon  the  two  striving   sides  5,    (in   Thy    satisfying  word).      And    this
 
 1  See  Y.  XXXI,  1 7  where  the  faith  of  the  dregva;zt  is  sufficiently
 recognised  to  form  the  basis  for  a  question,  rhetorical  indeed,  but
@@ -11185,15 +10398,13 @@ with  Thy  good  blessing.
 11.  (And  ye  who  throng  the  great  assembly  ",  it  is
 of  you  I  speak  while,  with  my  lips,  I  now  address
 the  Lord) :  Who,  O  Ahura !  is  a  loyal  friend  to  the
-Spitama  8,  to  Zarathustra?  Who  has  asked  his  ques-
-tion of  the  divine  Righteousness,  (as  he  approached9)  ?
+Spitama  8,  to  Zarathustra?  Who  has  asked  his  question of  the  divine  Righteousness,  (as  he  approached9)  ?
 
 1  Compare  Y.  XXXII,  7,  fo'aSna  ayangha  (lit.  iron).
 
 Others  see  the  ordeal  of  fire  here,  and  the  bath  of  melted  metal
 from  which  the  righteous  suffers  nothing,  but  in  which  the  sinner  is
-consumed,  but  rashayanghe  seems  to  point  to  injury  produced  other-
-wise than  by  dipping,  and  dakhshta  certainly  designates  a  metallic
+consumed,  but  rashayanghe  seems  to  point  to  injury  produced  otherwise than  by  dipping,  and  dakhshta  certainly  designates  a  metallic
 instrument  elsewhere  ;  '  sign  '  is,  however,  the  original  meaning.
 
 2  So  several  times;  comp.  Y.  XXVIII,  3,  where  the  depth  is
@@ -11203,12 +10414,10 @@ verse.
 3  The  Pahlavi  while  not  strictly  correct,  affords  the  indication
 of  a  causative,  sudined.
 
-4  From  this  verse  probably  arose  the  later  association  of  khsha-
-thra-vairya  and  metal  founding  and  forging.
+4  From  this  verse  probably  arose  the  later  association  of  khshathra-vairya  and  metal  founding  and  forging.
 
 5  As  invoking  Asha  is  in  the  antithesis,  I  regard  asha/  as
-understood  here.  Ga/  seems  a  particle,  but  also  not  im-
-possibly =ga/.  As  it  is  twice  followed  by  te  (toi),  the  interesting
+understood  here.  Ga/  seems  a  particle,  but  also  not  impossibly =ga/.  As  it  is  twice  followed  by  te  (toi),  the  interesting
 change  is  suggested  to  gate,  infin.
 
 8  Or  a  proper  name.  7  See  the  third  verse.
@@ -11239,8 +10448,7 @@ while  his  soul  rages 4  fiercely  on  the  open  ATinva/
 Bridge5,  as  he  strives  by  his  actions,  and  his  tongue's
 
 
-1  Some  other  portion  of  the  human  body,  suggested  by  the  con-
-text, may  be  meant  by  aodarw.  The  word  looks  like  a  verbal
+1  Some  other  portion  of  the  human  body,  suggested  by  the  context, may  be  meant  by  aodarw.  The  word  looks  like  a  verbal
 form,  3rd  pi.,  but  see  the  preceding  dual.
 
 2  I  render  the  Pahlavi  of  this  most  difficult  verse  as  follows  :  Far
@@ -11264,9 +10472,6 @@ cries  :  '  while  his  soul  cries  fiercely.'
 B  The  occurrence  of  peretau(ao)  in  this  verse  sheds  light  upon  the
 pereto  in  the  previous  one.  Ak<su(ao)  seems  to  be  an  attracted  form
 for  a  loc.  as  elsewhere.     Perhaps  it  is  miswritten.
-
-
-184  THE    GATHAS.
 
 
 (cursing  speech)  to  reach  l  (and  to  pollute)  Asha's
@@ -11345,14 +10550,12 @@ of  Asha ;  (she  will  help  the  great  cause).
 Hvogva6 !  these  (pious  throngs)  are  choosing  through
 
 cording  to  the  general  form  of  the  Gathic  sentence,  koist  para
-go  more  naturally  together  than  if  the  force  of  the  para  was  ex-
-tended to  £-asa/.  The  coming  of  Ahura  is  elsewhere  mentioned  ;
+go  more  naturally  together  than  if  the  force  of  the  para  was  extended to  £-asa/.  The  coming  of  Ahura  is  elsewhere  mentioned  ;
 here  He  enters  His  audience-chamber  before  His  approaching
 saints.
 
 1  Maga  may  have  some  such  cast  of  meaning.  I  have,  moreover,
-more  than  once  suspected  that  the  origin  of  '  magian '  may,  not-
-withstanding the  moghu  of  the  later  Avesta,  be  simply  this  maga  so
+more  than  once  suspected  that  the  origin  of  '  magian '  may,  notwithstanding the  moghu  of  the  later  Avesta,  be  simply  this  maga  so
 often  used  in  the  Gathas  to  designate  '  the  cause.'
 
 2  See  verse  20.
@@ -11443,22 +10646,17 @@ having  been  composed  in  the  latter  portion  of  Z  a  rath  ultra's
 life.  It  is,  as  usual,  separated  from  the  other  Gathas  by  its
 metre,  which  shows  four  lines  with  two  half  lines.  The  first
 two  have  eleven  or  twelve  syllables  ;  the  third  seems  to
-have  fourteen  plus  a  half  line  with  five,  so  also  the  last.  Irre-
-gularities seem  frequent.  The  composition  has  for  its  sub-
+have  fourteen  plus  a  half  line  with  five,  so  also  the  last.  Irregularities seem  frequent.  The  composition  has  for  its  sub-
 stance a  marriage  song,  but  one  of  a  politically  religious
 character.
 
 The  piece  a-airy<?ma-ishyo,  Y.  LIV,  1,  has  been  considered  by
-some  as  susceptible  of  a  similar  metrical  arrangement,  and  it  cer-
-tainly looks  as  if  it  originally  belonged  to  Y.  LIII.     It  is,  however,
+some  as  susceptible  of  a  similar  metrical  arrangement,  and  it  certainly looks  as  if  it  originally  belonged  to  Y.  LIII.     It  is,  however,
 
 1  I  refer  tern  to  Ahura,  supposing  it  to  stand;  reading  tarn,
 I  would  refer  it  to  ashi.
 
 2  Compare  Vend.  XIX,  31.
-
-
-1 88  THE    GATHAS.
 
 
 otherwise  divided  by  Bartholomae  (see  Arische  Forschungen,  2^6V
@@ -11471,15 +10669,12 @@ Spitamo  also  gives  the  impression  that  some  heir  to  Zarathmtra's
 office  and  prestige  existed,  but  even  this  is  not  decisive,  for  a  future
 successor  may  be  for  a  time  a  contemporary,  while,  on  the  contrary,
 the  nuptials  of  Zarathmtra's  daughter,  with  the  mention  of  his  name,
-and  the  reference  to  her  '  father'  as  the  one  from  whom  her  bride-
-groom obtained  her,  indicate  that  Zarathmtra  may  well  have  been
+and  the  reference  to  her  '  father'  as  the  one  from  whom  her  bridegroom obtained  her,  indicate  that  Zarathmtra  may  well  have  been
 still  living.  The  later  forms  Zarathmtrahe  and  fedhro  remain  as
-the  indications  of  a  later  origin  than  the  actual  period  of  Zara-
-thmtra's lifetime ;  but  these  circumstances  may  be  owing  to
+the  indications  of  a  later  origin  than  the  actual  period  of  Zarathmtra's lifetime ;  but  these  circumstances  may  be  owing  to
 accidental  causes.
 
-The  style  has  freshness  and  vigour  throughout,  and  would  indi-
-cate Zarathmtrian  influence,  if  not  authorship.  That  Zarathmtra
+The  style  has  freshness  and  vigour  throughout,  and  would  indicate Zarathmtrian  influence,  if  not  authorship.  That  Zarathmtra
 does  not  speak  in  the  first  person,  has  no  importance  whatever  in
 the  question.  The  piece  is  not  of  course  a  whole ;  but  it  may  well
 be  a  whole  out  of  which  parts  have  fallen.  That  the  subject  passes
@@ -11504,15 +10699,13 @@ parties  (Y.  XLIV,  12),  and  then  over  all  the  living  (Y.  XXXI,  3),
 it  is  not  surprising  that  the  central  prayer  of  Zarathmtra  should
 have  culminated  in  a  desire  for  the  conversion  of  opponents.  Even
 Turanians  had  been  known  to  come  over  to  the  holy  creed,  and
-help  prosper  the  settlements  which  their  kith  had  so  often  plun-
-dered (Y.  XLVI,  12);    he  had  therefore  prayed  that  those  who
+help  prosper  the  settlements  which  their  kith  had  so  often  plundered (Y.  XLVI,  12);    he  had  therefore  prayed  that  those  who
 
 
 YASNA    LIII.  189
 
 had  heretofore  injured  the  holy  Daena  might  become  its  disciples
-by  a  genuine  conversion.     2.  Having  observed  the  fidelity  of  con-
-verts and  original  disciples,  the  king  and  his  chief  nobles  would
+by  a  genuine  conversion.     2.  Having  observed  the  fidelity  of  converts and  original  disciples,  the  king  and  his  chief  nobles  would
 celebrate  their  devotion  by  hymns,  ceremonies,  and  sacrifices,  as
 the  symbols  of  every  moral  virtue,  laying  down  for  the  people  the
 moral  law  of  the  Saviour.     3.  As  it  would  be  pushing  rather  far  to
@@ -11531,8 +10724,7 @@ husband  in  every  sacred  affection,  as   well  as  in   every  domestic
 virtue.     5.  The  priestly  thaliarch  then  addresses  the  bridesmaids
 and   the   pair  with    suitable   admonitions  to  piety  and  affection.
 6.  Turning  now  to  the  assembly,  possibly  after  the  recital  of  some
-stanzas  long  since  vanished,  he  proceeds  with  warnings  and  en-
-couragements.    He  will  exorcise  the  Demon  who  was  especially
+stanzas  long  since  vanished,  he  proceeds  with  warnings  and  encouragements.    He  will  exorcise  the  Demon  who  was  especially
 the  slave  of  the  DaSvas  ;  but  he  warns  all  men  and  women  against
 the  evil  Vayu,  the  spirit  of  the  air.     7.  Charitably  concluding  that
 they  would  come  forth  as  conquerors  from  the  trials  which  still
@@ -11558,14 +10750,12 @@ Translation.
 i .  That  best  prayer  has  been  answered 7 ,  the  prayer
 of  Zarathu.stra  Spitama,  that  Ahura  Mazda  might 2
 grant  him  those  boons,  (the  most  wished-for)  which
-flow  from  the  good  Order,  even  a  life  that  is  pros-
-pered 3  for  eternal  duration,  and  also  those  who
+flow  from  the  good  Order,  even  a  life  that  is  prospered 3  for  eternal  duration,  and  also  those  who
 deceived4  him  (may  He  likewise  thus  grant  him)  as
 the  good  Faith's  disciples  in  word  and  in  deed  5.
 
 2.  And  may  Kavi  Viitaspa,  and  the  Zarathuitrian
-Spitama  G,  and  Frashao.stra  too  with  them,  offer  pro-
-pitiation to  Mazda  in  thought,  word,  and  deed,  and
+Spitama  G,  and  Frashao.stra  too  with  them,  offer  propitiation to  Mazda  in  thought,  word,  and  deed,  and
 
 
 1  Some  lay  stress  upon  the  literal  form  '  was  heard,'  and  regard
@@ -11592,8 +10782,7 @@ after  the  Pahlavi  translator,  reading  Zarathu^tra  Spitama ;  but  I
 would  not  follow  this  evil  example  in  a  first  translation  of  a
 translatable  text.  Why  should  a  Spitama,  who  was  not  Zarathu^tra,
 be  called  Zarathuxtrian  ?  Were  some  of  the  Spitamas  not  in
-sympathy  with  their  great  kinsman,  Spitamas  who  were  Mazda-
-yasnians,  but  not  '  of  Zarathu^tra's  order?'  One  would  however
+sympathy  with  their  great  kinsman,  Spitamas  who  were  Mazdayasnians,  but  not  '  of  Zarathu^tra's  order?'  One  would  however
 suppose  that  some  one  of  Zarathujtra's  family  was  meant  who
 occupied  the  position  of  his  especial  representative  and  natural
 successor.
@@ -11761,12 +10950,6 @@ from  certain  that  he  had  our  present  text.
 [31]  o
 
 
-194
-
-
-THE    GATHAS.
-
-
 battle),  giving  peace  to  our  dwellings,  and  peace  to
 our  hamlets.  Let  him  charge1  those  deceivers,
 chaining  death  as  the  strongest 2 ;  and  swift  be  (the
@@ -11782,8 +10965,7 @@ then  the  Lord  righteous  who  will  smite  them  from
 life 7,  and  (beguile)  them  of  license  ?  Mazda  !
 Thine  is  that  power,  (which  will  banish  and  conquer).
 And  Thine  is  the  Kingdom8;  and  by  it  Thou
-bestowest  the  highest  (of  blessings)  on  the  right-
-living  poor9!
+bestowest  the  highest  (of  blessings)  on  the  rightliving  poor9!
 
 1  '  Let  him  "  rout "  or  "  stir  "  them.'
 
@@ -11842,8 +11024,7 @@ YASNA  I.
 The  Sacrifice  Commences.
 
 1.  I  announce1  and  I  (will)  complete  (my  Yasna)
-to  Ahura  Mazda,  the  Creator,  the  radiant  and  glo-
-rious, the  greatest  and  the  best,  the  most  beautiful  (?)
+to  Ahura  Mazda,  the  Creator,  the  radiant  and  glorious, the  greatest  and  the  best,  the  most  beautiful  (?)
 (to  our  conceptions),  the  most  firm,  the  wisest,  and
 the  one  of  all  whose  body 2  is  the  most  perfect,  who
 
@@ -11873,16 +11054,14 @@ to  the  Sovereignty  which  is  to  be  desired,  and  to  Piety
 the  Bountiful,  and  to  the  two,  the  Universal  Weal
 and  Immortality,  to  the  body  of  the  Kine,  and  to
 the  Kine's  Soul,  and  to  the  Fire  of  Ahura  Mazda,
-that  one  who  more  than4  (all)  the  Bountiful  Immor-
-tals has  made  most  effort  (for  our  succour) !
+that  one  who  more  than4  (all)  the  Bountiful  Immortals has  made  most  effort  (for  our  succour) !
 
 3.  And  I  announce  and  I  (will)  complete  (my
 Yasna)  to  the  Asnya,  the  day-lords  of  the  ritual
 order,  to  Havani  the  holy,  the  lord  5  of  the  ritual
 order ;  and  I  celebrate,  and  I  (will)  complete  (my
 Yasna)  to  Savanghi  and  to  Visya,  the  holy  lord(s)
-of  the  ritual  order.  And  I  announce  and  (will)  com-
-plete (my  Yasna)  to  Mithra  of  the  wide  pastures,  of
+of  the  ritual  order.  And  I  announce  and  (will)  complete (my  Yasna)  to  Mithra  of  the  wide  pastures,  of
 the  thousand  ears,  and  of  the  myriad  eyes,  the  Yazad
 of  the  spoken 6  name,  and  to  Raman  Zfoastra.
 
@@ -11924,16 +11103,12 @@ of  the  ritual  order,  and  to  that  lofty  Ahura  Napa/-
 apam  (the  son  of  waters),  and  to  the  waters  which
 Ahura  Mazda 3  made.
 
-6.  I  announce  and  complete  (my  Yasna)  to  Aiwisru-
-thrima  (and)  Aibigaya  4,  the  holy  lord(s)  of  the  ritual
-order,  and  to  Zarathuitrotema,  and  to  him  who  pos-
-sesses and  who  gives  that  prosperity  in  life  which
+6.  I  announce  and  complete  (my  Yasna)  to  Aiwisruthrima  (and)  Aibigaya  4,  the  holy  lord(s)  of  the  ritual
+order,  and  to  Zarathuitrotema,  and  to  him  who  possesses and  who  gives  that  prosperity  in  life  which
 furthers  all.  And  I  celebrate  and  complete  (my
 Yasna)  to  the  Fravashis  of  the  saints,  and  to  those
-of  the  women  who  have  many  sons  5,  and  to  a  pros-
-perous home-life  which  continues  without  reverse
-throughout  the  year,  and  to  that  Might  which  is  well-
-shaped  and  stately6,  which  strikes  victoriously,  Ahura-
+of  the  women  who  have  many  sons  5,  and  to  a  prosperous home-life  which  continues  without  reverse
+throughout  the  year,  and  to  that  Might  which  is  wellshaped  and  stately6,  which  strikes  victoriously,  Ahura-
 made,  and  to  that  Victorious  Ascendency  (which  it
 secures).
 
@@ -11975,8 +11150,7 @@ and  to  Maidyo-shema,  the  holy  lord  of  the  ritual
 order,  and  to  Paiti^hahya,  and  to  Ayathrima  the
 advancer,  and  the  spender  of  the  strength  of  males 6,
 the  holy  lord  of  the  ritual  order,  and  to  Maidhyairya,
-the  holy  lord  of  the  ritual  order,  and  to  Hamaspath-
-maedhaya,  the  holy  lord  of  the  ritual  order ;  yea,  I
+the  holy  lord  of  the  ritual  order,  and  to  Hamaspathmaedhaya,  the  holy  lord  of  the  ritual  order ;  yea,  I
 celebrate  and  complete  my  Yasna  to  the  seasons,
 lords  of  the  ritual  order.
 
@@ -11985,8 +11159,7 @@ all  those  who  are  the  thirty  and  three  7  lords  of  the
 ritual  order,  which,  coming  the  nearest,  are  around
 about  Havani,  and  which  (as  in  their  festivals)  were
 
-1  I  should  say  that  the  suffix  has  this  force  here  as  in  close  con-
-nection with  ashyo.
+1  I  should  say  that  the  suffix  has  this  force  here  as  in  close  connection with  ashyo.
 
 2  Genius  of  rectitude.  s  Rectitude  in  another  form.
 
@@ -11995,8 +11168,7 @@ nection with  ashyo.
 5  See  the  Afrinagan.  6  The  rutting  season.
 
 7  Haug  first  called  attention  to  the  striking  coincidence  with  the
-Indian.  In  the  Aitareya  and  -Satapatha  Brahmawas,  in  the  Atharva-
-veda,  and  in  the  Ramayawa,  the  gods  are  brought  up  to  the  number
+Indian.  In  the  Aitareya  and  -Satapatha  Brahmawas,  in  the  Atharvaveda,  and  in  the  Ramayawa,  the  gods  are  brought  up  to  the  number
 thirty-three.  The  names  differ  somewhat  however.  (See  Essays,
 ed.  West,  2nd  edition,  p.  276;  see  also  Rv.  240,  9;  250,  2.)
 
@@ -12033,8 +11205,7 @@ revelation  given  against  the  Daevas5;  the  Zarathui--
 
 
 1  The  star  Jupiter  has  been  called  Ormuzd  by  the  Persians  and
-Armenians,  and  it  may  be  intended  here,  as  stars  are  next  men-
-tioned, but  who  can  fail  to  be  struck  with  the  resemblance  to  the
+Armenians,  and  it  may  be  intended  here,  as  stars  are  next  mentioned, but  who  can  fail  to  be  struck  with  the  resemblance  to  the
 Mitra-Varuraa  of  the  i?z'g-veda.  Possibly  both  ideas  were  present
 to  the  composer.
 
@@ -12042,8 +11213,7 @@ to  the  composer.
 
 3  The  first  day  of  the  month  is  called  Ahura  Mazda.
 
-4  The  first  month  is  called  Fravashi.  These  are  put  for  the  par-
-ticular day  of  celebration.
+4  The  first  month  is  called  Fravashi.  These  are  put  for  the  particular day  of  celebration.
 
 5  This  was  the  Vendidad,  the  name  being  a  contraction  of
 vidaeva-data.  It  will  not  be  forgotten  that  the  Vendidad,  although
@@ -12059,8 +11229,7 @@ Mazdayasnian  Faith.
 14.  And  I  announce  and  complete  (my  Yasna)  to
 the  mountain  Ushi-darena2,  the  Mazda-made,  with  its
 sacred  brilliance,  and  to  all  the  mountains  glorious
-with  sanctity  3,  with  their  abundant  Glory  Mazda-
-made,  and  to  that  majestic  Glory  Mazda-made,  the
+with  sanctity  3,  with  their  abundant  Glory  Mazdamade,  and  to  that  majestic  Glory  Mazda-made,  the
 unconsumed4  Glory  which  Mazda  made.  And  I
 announce  and  complete  (my  Yasna)  to  Ashi  the
 good,  the  blessedness  (of  the  reward),  and  to  iifisti,
@@ -12179,8 +11348,7 @@ Zarathu.stra's  order,  a  foe  to  the  Daevas,  devoted  to
 the  lore  of  the  Lord,  for  Havani,  the  holy  lord  of  the
 ritual  order,  for  (his)  sacrifice,  homage,  propitiation,
 and  praise,  for  Savanghi,  and  for  Vlsya,  the  holy  lord
-of  the  ritual  order,  for  (his)  sacrifice,  homage,  pro-
-pitiation and  praise,  and  for  the  sacrifice,  homage,
+of  the  ritual  order,  for  (his)  sacrifice,  homage,  propitiation and  praise,  and  for  the  sacrifice,  homage,
 propitiation  and  praise  of  the  lords  of  the  days  in
 their  duration,  and  of  the  days  during  daylight,  for
 
@@ -12211,14 +11379,12 @@ The  Sacrifice  continues.
 
 1.  I  desire  to  approach1  the  Zaothras 2  with  my
 worship.  I  desire  to  approach  the  Baresman  with
-my  worship.  I  desire  to  approach  the  Zaothra  con-
-jointly with  the  Baresman  in  my  worship,  and  the
+my  worship.  I  desire  to  approach  the  Zaothra  conjointly with  the  Baresman  in  my  worship,  and  the
 Baresman  conjointly  with  the  Zaothra.  Yea,  I  desire
 to  approach  this  Zaothra  (here),  and  with  this  (present)
 Baresman,  and  I  desire  to  approach  this  Baresman
 conjoined  with  this  Zaothra  with  my  praise  3;  and  I
-desire  to  approach  this  Baresman  with  praise  pro-
-vided with  its  Zaothra  with  its  girdle,  and  spread  with
+desire  to  approach  this  Baresman  with  praise  provided with  its  Zaothra  with  its  girdle,  and  spread  with
 sanctity.
 
 2.  And  in  this  Zaothra 3  and  the  Baresman  I  desire
@@ -12233,15 +11399,13 @@ to  were  already  present,  although  some,  like  'the  mountains/
 needed  to  be  spiritually  approached,  or  indeed  invoked.
 
 2  Zaothra  seems  to  me  hardly  a  vocative  here.  If  declined  as
-other  nouns,  it  would  seem  to  be  exceptionally  a  masculine ;  com-
-pare ahmya  zaothre  below.  I  should  feel  constrained  to  regard
+other  nouns,  it  would  seem  to  be  exceptionally  a  masculine ;  compare ahmya  zaothre  below.  I  should  feel  constrained  to  regard
 it  here  as  a  masc.  plural  accusative  (comp.  haoma).
 
 3  If  zaothre  is  not  a  loc.  masc.  it  may  be  used  with  the  loc.  masc.
 pronoun  irregularly.  It  would  then  equal  Zaothraya.  The  letter
 KJ  is  often  simply  the  Pahlavi  <o  a  little  lengthened  and  equivalent
-to  ya  (aya).  hj  does  not  merely  stand  for  ya  (aya),  but  it  is  some-
-times the  correct  writing  for  those  letters.  (Useless  repetitions  are
+to  ya  (aya).  hj  does  not  merely  stand  for  ya  (aya),  but  it  is  sometimes the  correct  writing  for  those  letters.  (Useless  repetitions  are
 curtailed.)
 
 
@@ -12310,16 +11474,14 @@ full  moon  which  scatters  night,  (9)  and  the  Yearly
 festivals,  Maidhyo-zaremaya,  the  holy  lord  of  the
 ritual  order,  and  Maidhyo-shema,  and  Paiti.mahya,
 and  Ayathrima,  the  promoter,  who  spends  the
-strength  of  males,  and  Maidhyairya  and  Hamas-
-pathmaedhaya,  and  the  seasons,  the  holy  lords  of  the
+strength  of  males,  and  Maidhyairya  and  Hamaspathmaedhaya,  and  the  seasons,  the  holy  lords  of  the
 ritual  order.
 
 10.  And  in  this  Zaothra  with  this  Baresman  I  desire
 to  approach  all  the  lords  of  the  ritual  order  with  my
 praise,  the  three  and  thirty  who  come  the  nearest
 round  about  our  Havanis,  who  are  those  lords  (and
-seasons)  of  Righteousness  the  Best,  which  were  incul-
-cated by  Mazda,  and  spoken  forth  by  Zarathustra.
+seasons)  of  Righteousness  the  Best,  which  were  inculcated by  Mazda,  and  spoken  forth  by  Zarathustra.
 
 11.  And  in  this  Zaothra  with  this  Baresman  I
 desire  to  approach  Ahura  and  Mithra  with  my  praise,
@@ -12327,8 +11489,7 @@ the  lofty,  eternal,  and  the  holy  two  ;  and  I  desire  to
 approach  the  stars,  moon,  and  sun  with  the  Baresman
 plants,  and  with  my  praise,  and  with  them  Mithra  the
 governor  of  all  the  provinces,  and  Ahura  Mazda
-the  radiant  and  glorious,  and  the  good,  heroic,  boun-
-tiful Fravashis  of  the  saints,  (12)  and  thee,  the  Fire,
+the  radiant  and  glorious,  and  the  good,  heroic,  bountiful Fravashis  of  the  saints,  (12)  and  thee,  the  Fire,
 
 
 206  YASNA    II.
@@ -12356,8 +11517,7 @@ with  my  praise,  glorious  with  sanctity  as  they  are,
 and  with  abundant  glory,  Mazda-made,  and  holy  lords
 of  the  ritual  order;  and  I  desire  to  approach  the
 mighty  kingly  Glory  Mazda-made  and  unconsumed  ;
-yea,  (even)  the  mighty  unconsumed  Glory  Mazda-
-made.  And  I  desire  to  approach  Ashi  Vanguhi  (the
+yea,  (even)  the  mighty  unconsumed  Glory  Mazdamade.  And  I  desire  to  approach  Ashi  Vanguhi  (the
 good  blessedness)  in  my  praise,  the  brilliant,  lofty,
 powerful,  and  stately,  saving  by  inherent  power.  Yea,
 I  desire  to  approach  the  Glory  Mazda-made  with  my
@@ -12380,8 +11540,7 @@ YASNA    III.  207
 and  pastures,  and  these  dwellings  with  their  springs
 of  water  \  and  this  land-ruler,  who  is  Ahura  Mazda.
 
-17.  And  in  this  Zaothra  with  this  Baresman  I  de-
-sire to  approach  all  the  greatest  lords  with  my  praise,
+17.  And  in  this  Zaothra  with  this  Baresman  I  desire to  approach  all  the  greatest  lords  with  my  praise,
 the  day-lords,  and  the  month-lords,  those  of  the  years,
 and  of  the  seasons,  and  the  good,  heroic,  bountiful
 Fravashis  of  the  saints.
@@ -12429,8 +11588,7 @@ is  Obedience)  the  blessed,  who  is  endowed  with
 sanctity,  and  who  smites  with  the  blow  of  victory,
 and  causes  the  settlements  to  advance.
 
-2.  And  I  desire  to  approach  Haoma  and  Para-
-haoma  1  with  my  praise  for  the  propitiation  of  the
+2.  And  I  desire  to  approach  Haoma  and  Parahaoma  1  with  my  praise  for  the  propitiation  of  the
 Fravashi  of  Spitama  Zarathustra,  the  saint.  And  I
 desire  to  approach  the  (sacred)  wood  with  my  praise,
 with  the  perfume,  for  the  propitiation  of  thee,  the
@@ -12438,8 +11596,7 @@ Fire,  O  Ahura  Mazda's  son !
 
 3.  And  I  desire  to  approach  the  Haomas  with  my
 praise  for  the  propitiation  of  the  good  waters  which
-Mazda  created  ;  and  I  desire  to  approach  the  Haoma-
-water,  and  the  fresh  milk  2  with  my  praise,  and  the
+Mazda  created  ;  and  I  desire  to  approach  the  Haomawater,  and  the  fresh  milk  2  with  my  praise,  and  the
 plant  Hadhanaepata,  offered  with  sanctity  for  the
 propitiation  of  the  waters  which  are  Mazda-made.
 
@@ -12482,26 +11639,22 @@ of  the  myriad  eyes,  the  Yazad  of  the  spoken  name,
 and  with  him  Raman  Zfoastra.
 
 6.  And  I  desire  to  approach  Rapithwina  with  my
-praise,  the  holy  lord  of  the  ritual  order,  and  Fra-
-da/-fshu  and  Za/ztuma,  and  Righteousness  the
+praise,  the  holy  lord  of  the  ritual  order,  and  Frada/-fshu  and  Za/ztuma,  and  Righteousness  the
 Best,  and  Ahura  Mazda's  Fire.
 
 7.  And  I  desire  to  approach  Uzayeirina,  and
 Frada/-vira  and  Da/^yuma*  with  my  praise,  with
-that  lofty  Ahura  Napaz'-apam,  and  the  waters  Mazda-
-made,
+that  lofty  Ahura  Napaz'-apam,  and  the  waters  Mazdamade,
 
 8.  And  Aiwisruthrima,  and  Aibigaya,  and  Frada/-
 vispam-hufaiti,  and  Zarathiutrotema  with  the  Ya.st
 of  the  Fravashis  of  the  saints  2,  and  of  the  women
 who  have  many  sons,  and  the  year  long  unchanged
 prosperity,  and  of  Might,  the  well-shaped  and  stately,
-smiting  victoriously,  Ahura-made  and  of  the  Victo-
-rious Ascendency  (which  it  secures).
+smiting  victoriously,  Ahura-made  and  of  the  Victorious Ascendency  (which  it  secures).
 
 9.  And  I  desire  to  approach  Ushahina,  Bere^ya,
-and  Nmanya  with  the  Yast  of  Sraosha  (Obe-
-dience) the  sacred,  the  holy,  who  smites  with  the
+and  Nmanya  with  the  Yast  of  Sraosha  (Obedience) the  sacred,  the  holy,  who  smites  with  the
 blow  of  victory,  and  makes  the  settlements  advance,
 and  with  that  of  Rashnu,  the  most  just,  and  Arcta/
 
@@ -12563,8 +11716,7 @@ Mazda  made.
 "VASNA    III.  211
 
 
-Mathra  Spe^ta,  the  holy,  the  effective,  the  law  com-
-posed against  the  Daevas,  the  Zarathu-ftrian,  and
+Mathra  Spe^ta,  the  holy,  the  effective,  the  law  composed against  the  Daevas,  the  Zarathu-ftrian,  and
 with  that  of  the  long  descent  of  the  Religion  which
 Mazda  gave.
 
@@ -12627,12 +11779,10 @@ and  of  those  of  the  next  of  kin.
 
 23.  And  I  desire  to  approach  toward  all  the  lords
 of  the  ritual  order  with  a  Ya5t,  toward  all  the  good
-Yazads,  heavenly  and  earthly,  who  are  (set)  for  wor-
-ship and  for  praise  because  of  Asha  Vahrrta  (of
+Yazads,  heavenly  and  earthly,  who  are  (set)  for  worship and  for  praise  because  of  Asha  Vahrrta  (of
 Righteousness  the  Best).
 
-24.  I  will  confess  myself  a  Mazdayasnian,  of  Zara-
-thu-stra's  order,  a  foe  to  the  Daevas,  devoted  to  the
+24.  I  will  confess  myself  a  Mazdayasnian,  of  Zarathu-stra's  order,  a  foe  to  the  Daevas,  devoted  to  the
 lore  of  the  Lord  for  Havani,  the  holy  lord  of  the  ritual
 order,  for  sacrifice,  homage,  propitiation,  and  for
 praise,  and  for  Savanghi  and  Visya,  the  holy  lord(s)
@@ -12640,8 +11790,7 @@ of  the  ritual  order,  and  for  the  sacrifice,  homage,
 propitiation,  and  praise  of  the  day-lords  of  the  days
 in  their  duration,  and  of  the  days  during  daylight,
 and  for  the  month-regulators,  and  the  year-regulators,
-and  for  those  of  the  (several)  seasons,  for  their  sacri-
-fice, and  homage,  their  propitiation,  and  their  praise.
+and  for  those  of  the  (several)  seasons,  for  their  sacrifice, and  homage,  their  propitiation,  and  their  praise.
 
 (The    Zaotar    speaks  *) :    As    the    Ahu    to    be
 
@@ -12670,8 +11819,7 @@ deeds  2,  these  Haomas,  meat-offerings,  and  Zaothras,
 this  Baresman  spread  with  sanctity,  this  flesh,
 and  the  two,  Haurvata/  (who  guards  the  water)  and
 Ameretata/  (who  guards  the  plants  and  wood),  even
-the  flesh,  the  Haoma  and  Haoma-juice,  the  wood-
-billets,  and  their  perfume,  this  sacred  lordship  3  and
+the  flesh,  the  Haoma  and  Haoma-juice,  the  woodbillets,  and  their  perfume,  this  sacred  lordship  3  and
 chieftainship  3,  and  the  timely  prayer  with  blessing,
 and  the  heard  recital  of  the  Gathas,  and  the  well-said
 Mathras,  these  all  we  offer,  and  make  known  with
@@ -12700,8 +11848,7 @@ expressions  being  taken  from  the  Ahuna-vairya.
 214  YASNA    IV.
 
 
-(Obedience)  the  blessed,  and  to  the  Bountiful  Immor-
-tals, and  to  the  Fravashis  of  the  saints,  and  to  their
+(Obedience)  the  blessed,  and  to  the  Bountiful  Immortals, and  to  the  Fravashis  of  the  saints,  and  to  their
 souls,  and  to  the  Fire  of  Ahura  Mazda,  the  lofty  lord
 of  the  entire  creation  of  the  holy,  for  sacrifice,  homage,
 propitiation,  and  praise.
@@ -12726,8 +11873,7 @@ divinities  among  their  number  who  dwell  with  the
 Good  Mind l,  [and  the  female  2  ones  as  well].
 
 5.  And  we  announce  them  in  our  celebrations  as
-more  propitious  for  this  house 3,  and  for  the  fur-
-therance of  this  house,  of  its  herds,  and  of  its  men,
+more  propitious  for  this  house 3,  and  for  the  furtherance of  this  house,  of  its  herds,  and  of  its  men,
 of  those  now  born,  and  of  those  yet  to  be  born,  the
 holy,  yea,  for  the  furtherance  of  that  house  of  which
 these  (men)  are  thus.
@@ -12748,8 +11894,7 @@ of  the  priests  were  pairi^athans.
 YASNA    IV.  215
 
 
-Fravashis  of  the  saints  who  are  mighty  and  over-
-whelming for  the  succour  of  the  saints.
+Fravashis  of  the  saints  who  are  mighty  and  overwhelming for  the  succour  of  the  saints.
 
 7.  Yea,  we  present  these  hereby  to  the  Creator
 Ahura  Mazda,  the  radiant,  the  glorious,  and  the
@@ -12764,11 +11909,9 @@ of  the  wide  pastures,  and  the  thousand  ears,  and  the
 myriad  eyes,  the  Yazad  of  the  spoken  name,
 
 9.  And  to  Rapithwina,  Frada/-fshu,  and  Za^tuma,
-the  holy  lords  of  the  ritual  order,  and  to  Righteous-
-ness the  Best,  and  to  Ahura  Mazda's  Fire,
+the  holy  lords  of  the  ritual  order,  and  to  Righteousness the  Best,  and  to  Ahura  Mazda's  Fire,
 
-10.  And  to  Uzayeirina,  Frada/-vira,  and  DaAv-
-yuma x,  the  holy  lords  of  the  ritual  order,  and  to  that
+10.  And  to  Uzayeirina,  Frada/-vira,  and  DaAvyuma x,  the  holy  lords  of  the  ritual  order,  and  to  that
 lofty  lord  Napa/-apam,  and  to  the  water  Mazda-made,
 
 1 1.  And  to  Aiwisruthrima,  the  life-furtherer  2,  and
@@ -12803,11 +11946,9 @@ of  the  ritual  order,  for  (their)  sacrifice,  homage,  their
 propitiation,  and  their  praise.
 
 14.  And  these  we  announce  hereby  and  we  present
-to  the  Yearly  festivals,  to  Maidhy  6-zaremaya,  Maidhyo-
-shema,  Patishahya,  and  to  Ayathrima,to  Maidhyairya,
+to  the  Yearly  festivals,  to  Maidhy  6-zaremaya,  Maidhyoshema,  Patishahya,  and  to  Ayathrima,to  Maidhyairya,
 Hamaspathmaedhaya,  and  to  the  Seasons  as  holy
-lords  of  the  ritual  order,  for  sacrifice,  homage,  propi-
-tiation, and  for  praise.
+lords  of  the  ritual  order,  for  sacrifice,  homage,  propitiation, and  for  praise.
 
 15.  And  these  we  announce  and  we  present  hereby
 to  all  those  lords  who  are  the  three  and  thirty  lords
@@ -12824,8 +11965,7 @@ Mainyu,  and  to  the  star  Tiitrya,  the  radiant,  the
 glorious,  and  to  the  Moon  which  contains  the  seed
 of  cattle,  and  to  the  resplendent  Sun,  of  the  swift
 horses,  Ahura  Mazda's  eye,  and  to  Mithra,  the  lord  of
-provinces,  for  their  sacrifice,  homage,  their  propitia-
-tion and  their  praise ;  yea,  these  we  present  hereby
+provinces,  for  their  sacrifice,  homage,  their  propitiation and  their  praise ;  yea,  these  we  present  hereby
 to  Ahura  Mazda  (as  he  rules  this  clay)  and  to  the
 Fravashis  of  the  saints  (as  they  rule  this  month),  for
 their  sacrifice,  homage,  their  propitiation  and  their
@@ -12839,21 +11979,18 @@ YASNA    IV.  217
 
 
 thy  sacrifice,  homage,  propitiation,  and  praise,  and
-to  the  good  waters  for  the  sacrifice,  homage,  pro-
-pitiation, and  praise  of  all  the  waters  Mazda-made,
+to  the  good  waters  for  the  sacrifice,  homage,  propitiation, and  praise  of  all  the  waters  Mazda-made,
 and  to  all  the  plants  which  Mazda  made,
 
 18.  And  to  the  Mathra  Speiita,  the  holy,  the
-effective,  the  law  against  the  Daevas,  the  Zarathus-
-trian  statute,  and  to  the  long  descent  of  the  good
+effective,  the  law  against  the  Daevas,  the  Zarathustrian  statute,  and  to  the  long  descent  of  the  good
 Mazdayasnian  religion.
 
 19.  And  these  we  announce  and  we  present  hereby
 to  Mount  Ushi-darena,  Mazda-made,  brilliant  with
 sanctity,  and  to  all  the  mountains  shining  with  their
 holiness,  abundantly  luminous,  and  Mazda-made,  and
-to  the  Kingly  glory,  the  unconsumed1  glory  Mazda-
-made,  and  to  the  good  Blessedness,  and  the  good
+to  the  Kingly  glory,  the  unconsumed1  glory  Mazdamade,  and  to  the  good  Blessedness,  and  the  good
 Religious-knowledge,  and  the  good  Rectitude,  and
 to  the  good  Rasasta/,  and  to  the  Glory  and  the
 Benefit  which  Mazda  created.
@@ -12872,8 +12009,7 @@ female  (the  rulers  as  they  are  of  the  ritual  order).
 
 22.  And  these  we  announce  and  we  present
 hereby  to  that  lofty  lord  who  is  Asha,  the  ritual
-righteousness  itself,  to  the  Day-lords,  and  the  Month-
-lords,  the  Year-lords,  and  the  Seasons  who  are  the
+righteousness  itself,  to  the  Day-lords,  and  the  Monthlords,  the  Year-lords,  and  the  Seasons  who  are  the
 lords  of  the  ritual   at  the  time  of  Havani,  and  for
 
 
@@ -13002,8 +12138,7 @@ and  uttered  forth  by  Zarathuitra.
 sacrifice,  the  lofty,  and  imperishable,  and  holy  two,
 and  the  stars,  moon,  and  sun,  among  the  plants  of
 the  Baresman,  and  Mithra,  the  province-lord  of  all  the
-provinces,  even  Ahura  Mazda,  the  radiant,  the  glo-
-rious, and  the  good,  valiant,  and  bountiful  Fravashis
+provinces,  even  Ahura  Mazda,  the  radiant,  the  glorious, and  the  good,  valiant,  and  bountiful  Fravashis
 of  the  saints.
 
 11.  And  we  worship  thee,  the  Fire,  Ahura
@@ -13022,8 +12157,7 @@ against  the  Daevas,  the  Zarathustrian  law,  and  we
 worship  with  our  sacrifice  its  long  descent,  and  the
 good  Mazdayasnian  Religion.
 
-1 3.  And  we  worship  Mount  Ushi-darena,  the  Mazda-
-made,  the  glorious  Yazad,  shining  with  holiness,  and
+1 3.  And  we  worship  Mount  Ushi-darena,  the  Mazdamade,  the  glorious  Yazad,  shining  with  holiness,  and
 all  the  mountains  that  shine  with  holiness,  with
 abundant  brilliance,  Mazda-made,  the  holy  lords  of
 the  ritual  order.  And  we  worship  the  mighty  Kingly
@@ -13045,8 +12179,7 @@ of  the  district  with  our  sacrifice,  who  is  Ahura  Mazda
 
 16.  And  we  worship  all  the  greatest  lords,  the
 Day-lords  in  the  day's  duration,  and  the  Day-lords
-during  daylight,  and  the  Month-lords,  and  the  Year-
-lords.
+during  daylight,  and  the  Month-lords,  and  the  Yearlords.
 
 17.  And  we  worship  Haurvata/  (who  guards  the
 water)  and  Ameretata^  (who  guards  the  plants  and
@@ -13079,8 +12212,7 @@ and  Savanghi,  and  all  the  greatest  lords  at  their
 21.  The  Ratu.  As  an  Ahii  (revered  and)  to  be
 chosen,  the  priest  speaks  forth  to  me.
 
-The  Zaotar.  So  let  the  Ratu  from  his  Right-
-eousness,  holy  and  learned,  speak  forth  !
+The  Zaotar.  So  let  the  Ratu  from  his  Righteousness,  holy  and  learned,  speak  forth  !
 
 
 YASNA    VII.
@@ -13093,8 +12225,7 @@ and  I  give  this  meat-offering,  and  (with  it)  Haurvata/
 (who  guards  the  water),  and  Ameretata^  (who  guards
 the  plants  and  the  wood),  and  the  flesh  of  the  Kine
 of  blessed  gift,  for  the  propitiation  of  Ahura  Mazda,
-and  of  the  Bountiful  Immortals  (all,  and)  for  the  pro-
-pitiation of  Sraosha  (Obedience)  the  blessed,  endowed
+and  of  the  Bountiful  Immortals  (all,  and)  for  the  propitiation of  Sraosha  (Obedience)  the  blessed,  endowed
 with  sanctity,  who  smites  with  the  blow  of  victory,
 and  who  causes  the  settlements  to  advance.
 
@@ -13117,22 +12248,17 @@ Thy  propitiation,  the  Fire's,  O  Ahura  Mazda's  son!
 sacred  offering  for  propitiation  [to  the  good  waters]
 for  the  good  waters  Mazda-made.  And  I  offer  this
 Haoma-water  with  scrupulous  exactness  and  with
-sanctity,  and  this  fresh  milk,  and  the  plant  Hadha-
-naepata  uplifted  with  a  complete  and  sacred  offering
-for  the  propitiation  of  the  waters  which  are  Mazda-
-made.
+sanctity,  and  this  fresh  milk,  and  the  plant  Hadhanaepata  uplifted  with  a  complete  and  sacred  offering
+for  the  propitiation  of  the  waters  which  are  Mazdamade.
 
 4.  And  I  offer  this  Baresman  with  its  Zaothra
-(and  with  its  binding)  for  a  girdle  spread  with  com-
-plete sanctity  and  order  for  the  propitiation  of  the
+(and  with  its  binding)  for  a  girdle  spread  with  complete sanctity  and  order  for  the  propitiation  of  the
 Bountiful  Immortals,  and  I  offer  with  my  voice  the
 thoughts  well-thought,  the  words  well-spoken,  and
 the  deeds  well-done,  and  the  heard  recital  of  the
-Gathas,  the  Mathras  well-composed  and  well-de-
-livered, and  this  Lordship,  and  this  Sanctity,  and  this
+Gathas,  the  Mathras  well-composed  and  well-delivered, and  this  Lordship,  and  this  Sanctity,  and  this
 ritual  mastership,  and  the  timely  Prayer  for  blessings,
-with  a  complete  and  sacred  offering  for  the  propitia-
-tion of  the  holy  Yazads,  heavenly  and  earthly,  and  for
+with  a  complete  and  sacred  offering  for  the  propitiation of  the  holy  Yazads,  heavenly  and  earthly,  and  for
 the  contentment  of  the  individual  soul !
 
 5.  And  I  offer  to  the  Asnya  with  a  complete  and
@@ -13169,23 +12295,19 @@ and  to  Force,  the  well-shaped  and  stately,  and  to  the
 Blow  which  smites  with  victory  Ahura-given,  and
 to  the  Victorious  Ascendency  (which  it  secures).
 
-9.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  Ushahina,  the  holy  lord  of  the  ritual  order,
-and  to  Bere^ya,  and  Nmanya,  and  to  Sraosha  (Obedi-
-ence) the  blessed,  endowed  with  sanctity,  who  smites
+9.  And  I  offer  with  a  complete  and  sacred  offering to  Ushahina,  the  holy  lord  of  the  ritual  order,
+and  to  Bere^ya,  and  Nmanya,  and  to  Sraosha  (Obedience) the  blessed,  endowed  with  sanctity,  who  smites
 with  the  blow  of  victory,  and  makes  the  settlements
 advance,  and  to  Rashnu  the  most  just,  and  to
 Arcta/  who  furthers  the  settlements  and  causes  them
 to  increase.
 
-10.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  the  Mahya,  lords  of  the  ritual  order,  to  the
+10.  And  I  offer  with  a  complete  and  sacred  offering to  the  Mahya,  lords  of  the  ritual  order,  to  the
 new  and  the  waning  moon  (the  moon  within),  and
 to  the  full  moon  which  scatters  night,  holy  lords  of
 the  ritual  order.
 
-11.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  the  Yearly  festivals,  the  lords  of  the  ritual
+11.  And  I  offer  with  a  complete  and  sacred  offering to  the  Yearly  festivals,  the  lords  of  the  ritual
 order,  to  Maidhyo-zaremaya,  and  Maidhyo-shema,  to
 PaitLmahya,  and  to  Ayathrima  the  furtherer  (the
 breeder),  the  spender  of  the  strength  of  males,  and
@@ -13198,41 +12320,32 @@ to  Maidhyairya  and  Hamaspathmaedhaya,  holy  lords
 of  the  ritual  order,  and  I  offer  with  sanctity  to  the
 several  seasons,  the  lords  of  the  ritual  order.
 
-12.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  all  those  lords  who  are  the  thirty  and  three,
+12.  And  I  offer  with  a  complete  and  sacred  offering to  all  those  lords  who  are  the  thirty  and  three,
 who  approach  the  nearest  round  about  our  Havani,
-and  who  are  the  lords  of  Asha  (the  ritual  by-emi-
-nence), of  Righteousness  who  is  (the  Best),  whose
+and  who  are  the  lords  of  Asha  (the  ritual  by-eminence), of  Righteousness  who  is  (the  Best),  whose
 observances  are  inculcated  as  precepts  by  Mazda,
 and  uttered  forth  by  Zarathuitra.
 
-13.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  Ahura  and  Mithra,  the  lofty  and  imperishable,
+13.  And  I  offer  with  a  complete  and  sacred  offering to  Ahura  and  Mithra,  the  lofty  and  imperishable,
 and  holy  two,  and  to  the  stars  which  are  the  creatures
 of  Spe/^ta  Mainyu,  and  to  the  star  Tistrya,  the
-radiant,  the  glorious,  and  to  the  Moon  which  con-
-tains the  seed  of  cattle  in  its  beams,  and  to  the  re-
+radiant,  the  glorious,  and  to  the  Moon  which  contains the  seed  of  cattle  in  its  beams,  and  to  the  re-
 splendent Sun  of  the  fleet  horses,  the  eye  of
-Ahura  Mazda,  and  to  Mithra,  the  lord  of  the  pro-
-vinces. And  I  offer  with  a  complete  and  sacred
-offering  to  Ahura  Mazda,  the  resplendent,  the  glo-
-rious, (who  rules  this  day),  and  to  the  Fravashis
+Ahura  Mazda,  and  to  Mithra,  the  lord  of  the  provinces. And  I  offer  with  a  complete  and  sacred
+offering  to  Ahura  Mazda,  the  resplendent,  the  glorious, (who  rules  this  day),  and  to  the  Fravashis
 of  the  saints  (who  name  the  month).
 
-14.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  thee,  the  Fire,  O  Ahura  Mazda's  son  !  together
+14.  And  I  offer  with  a  complete  and  sacred  offering to  thee,  the  Fire,  O  Ahura  Mazda's  son  !  together
 with  all  the  fires,  and  to  the  good  waters,  even  to  the
 waters  which  are  Mazda-made,  and  to  all  the  plants
 which  Mazda  made.
 
-15.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  the  Mathra  SpeMa,  the  holy,  the  effective,
+15.  And  I  offer  with  a  complete  and  sacred  offering to  the  Mathra  SpeMa,  the  holy,  the  effective,
 revealed  against  the  Daevas,  the  Zarathu-strian  law,
 and  to  the  long  descent  of  the  good  Religion,  of  the
 Mazdayasnian  faith.
 
-16.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  Mount  Ushi-darena,  the  Mazda-made,  brilliant
+16.  And  I  offer  with  a  complete  and  sacred  offering to  Mount  Ushi-darena,  the  Mazda-made,  brilliant
 
 [31]  Q
 
@@ -13248,13 +12361,10 @@ sacred  offering  to  Ashi  Vanguhi,  and  to  Kisti
 Vanguhi,  and  to  Ereth^,  and  to  Rasastai,  and  to  the
 Glory  (and  the)  Benefit  which  Mazda  made.
 
-1 7.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  the  good  and  pious  Prayer  for  blessings  of  the
-pious  man,  and  to  that  Yazad,  the  swift  and  dread-
-ful Curse  of  the  wise.
+1 7.  And  I  offer  with  a  complete  and  sacred  offering to  the  good  and  pious  Prayer  for  blessings  of  the
+pious  man,  and  to  that  Yazad,  the  swift  and  dreadful Curse  of  the  wise.
 
-18.  And  I  offer  with  a  complete  and  sacred  bless-
-ing to  these  places,  districts,  pastures,  and  abodes
+18.  And  I  offer  with  a  complete  and  sacred  blessing to  these  places,  districts,  pastures,  and  abodes
 with  their  springs  of  water,  and  to  the  waters  and
 the  lands,  and  the  plants,  and  to  this  earth  and  yon
 heaven,  and  to  the  holy  wind,  and  to  the  stars,
@@ -13264,8 +12374,7 @@ the  holy  creatures  of  Spe/^ta  Mainyu,  be  they  male
 or  female,  regulators  (as  they  are)  of  the  ritual
 order.
 
-19.  And  I  offer  with  a  complete  and  sacred  bless-
-ing to  that  lofty  lord  who  is  Righteousness  (the  Best),
+19.  And  I  offer  with  a  complete  and  sacred  blessing to  that  lofty  lord  who  is  Righteousness  (the  Best),
 and  the  Day-lords,  the  lords  of  the  days  during  their
 duration,  and  to  those  of  the  days  during  daylight,
 and  to  the  Month-lords,  and  the  Year-lords,  and  to
@@ -13294,13 +12403,11 @@ And  I  offer  the  wood-billets  with  the  perfume  for
 Thy  propitiation,  the  Fire's,  Ahura  Mazda's  son,  the
 Yazad  of  the  spoken  name.
 
-22.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  the  Fravashis  of  the  saints,  the  mighty  and
+22.  And  I  offer  with  a  complete  and  sacred  offering to  the  Fravashis  of  the  saints,  the  mighty  and
 overwhelming,  to  those  of  the  saints  of  the  ancient
 lore,  and  to  those  of  the  next  of  kin.
 
-23.  And  I  offer  with  a  complete  and  sacred  offer-
-ing to  all  the  lords  of  the  ritual  order,  and  to  all  the
+23.  And  I  offer  with  a  complete  and  sacred  offering to  all  the  lords  of  the  ritual  order,  and  to  all  the
 good  Yazads  heavenly  and  earthly  who  are  (meet)
 for  sacrifice  and  homage  because  of  Asha  who  is
 VahLsta  (of  Righteousness  who  is  the  Best).
@@ -13313,8 +12420,7 @@ such  may  we  be.  What  reward,  O  Ahura  Mazda !
 adapted  to  myself  Thou  hast  appointed  unto  souls,
 
 25.  Of  this  do  Thou  Thyself  bestow  upon  us  for
-this  world  and  for  that  of  mind ;  (yea,  do  Thou  be-
-stow) so  much  of  this  as  that  we  may  attain  to  Thy
+this  world  and  for  that  of  mind ;  (yea,  do  Thou  bestow) so  much  of  this  as  that  we  may  attain  to  Thy
 ruling  protection  and  to  that  of  Righteousness  for
 ever.
 
@@ -13343,8 +12449,7 @@ males  and  females  whose  (superiority  is  such).  (The
 Ratu  speaks.)  As  an  Ahu  (revered  and)  to  be
 chosen,  he  who  is  the  Zaotar  speaks  forth  to  me.
 
-(The  Zaotar.)  So  let  the  Ratu  from  his  Right-
-eousness, holy  and  learned,  speak  forth !
+(The  Zaotar.)  So  let  the  Ratu  from  his  Righteousness, holy  and  learned,  speak  forth !
 
 
 YASNA    VIII.
@@ -13359,8 +12464,7 @@ It  is  weal ;  it  is  weal  to  this  (man),
 When  toward  Righteousness  Best  there  is  right.
 
 I  offer  the  Myazda  (of  the)  meat-offering  with
-a  complete  and  sacred  offering  ;  and  I  offer  Haur-
-vatata/  (who  guards  the  water),  and  Ameretata/
+a  complete  and  sacred  offering  ;  and  I  offer  Haurvatata/  (who  guards  the  water),  and  Ameretata/
 (who  guards  the  plants  and  the  wood),  and  the
 flesh  of  the  blessed  Kine ;  and  I  offer  the  Haoma
 and  the  Haoma-juice,  the  wood-billets  and  the
@@ -13380,8 +12484,7 @@ YASNA   VIII.  2  29
 Myazda,  the  meat-offering,  ye  who  have  deserved  it
 by  your  righteousness  and  correctness!
 
-3.  O  ye  Bountiful  Immortals,  and  thou,  the  Maz-
-dayasnian  law,  ye  just  men  and  just  women,  and  ye
+3.  O  ye  Bountiful  Immortals,  and  thou,  the  Mazdayasnian  law,  ye  just  men  and  just  women,  and  ye
 Zaothras,  whoever  among  these  Mazdayasnians
 would  call  himself  a  Mazdayasnian  desiring  to  live
 in  the  practice  of  the  liberality  of  Righteousness  [for
@@ -13398,8 +12501,7 @@ magician's  word)  '  a  blessing  is  Righteousness  (called)
 the  Best.'
 
 5.  May'st  Thou,  O  Ahura  Mazda !  reign  at  Thy
-will,  and  with  a  saving  rule  over  Thine  own  crea-
-tures, and  render  Ye  the  holy  (man)  also  a  sovereign
+will,  and  with  a  saving  rule  over  Thine  own  creatures, and  render  Ye  the  holy  (man)  also  a  sovereign
 at  his  will  over  waters,  and  over  plants,  and  over  all  the
 clean  and  sacred  (creatures)  which  contain  the  seed  of
 Righteousness.     Strip  ye  the  wicked  of  all  power !
@@ -13434,8 +12536,7 @@ existence  of  the  holy  (man)  while  I  bless  it,  and  I
 pray  for  the  repression  and  shame  *  of  the  entire
 existence  -  of  the  wicked.
 
-9.  Propitiation  to  Haoma  who  brings  righteous-
-ness (to  us)  for  sacrifice,  homage,  propitiation,  and
+9.  Propitiation  to  Haoma  who  brings  righteousness (to  us)  for  sacrifice,  homage,  propitiation,  and
 for  praise.  (The  Zaotar  ?)  As  the  Ahu  to  be
 (revered  and)  chosen,  the  Zaotar  speaks  forth  to
 me.  (The  Ratu.)  As  an  Ahu  to  be  (revered  and)
@@ -13454,8 +12555,7 @@ the  Veda,  in  Aryan  ages  before  Iranian  and  Indian  became  two
 peoples.
 
 The  astonishing  circumstance  has  been  elsewhere  noted  that  a
-hymn,  which  is  a  reproduction  of  an  Aryan  original,  should,  not-
-withstanding its  earlier  characteristics,  be  necessarily  assigned  to
+hymn,  which  is  a  reproduction  of  an  Aryan  original,  should,  notwithstanding its  earlier  characteristics,  be  necessarily  assigned  to
 
 
 1  The  Pahlavi  translator,  as  I  think,  had  a  text  before  him  which
@@ -13479,12 +12579,10 @@ their  more  southern  neighbours  and  themselves,  and  the  use  of
 Soma  by  the  Indians  as  a  stimulant  before  battle,  the  Iranians  of  the
 Gathic  period  had  become  lukewarm  in  their  own  H(a)oma  worship.
 But  that  it  should  have  revived,  as  we  see  it  in  this  Ya^t,  after
-having  nearly  or  quite  disappeared,  is  most  interesting  and  re-
-markable. Was  it  definitively  and  purposely  repudiated  by  Zara-
+having  nearly  or  quite  disappeared,  is  most  interesting  and  remarkable. Was  it  definitively  and  purposely  repudiated  by  Zara-
 thiutra,  afterwards  reviving  as  by  a  relapse  ?  I  do  not  think
 that  it  is  well  to  hold  to  such  deliberate  and  conscious  antagonisms,
-and  to  a  definite  policy  and  action  based  upon  them.  The  Soma-
-worship,  like  the  sacramental  acts  of  other  religions  which  have  be-
+and  to  a  definite  policy  and  action  based  upon  them.  The  Somaworship,  like  the  sacramental  acts  of  other  religions  which  have  be-
 come less  practised  after  exaggerated  attention,  had  simply  fallen
 into  neglect,  increased  by  an  aversion  to  practices  outwardly  similar
 to  those  of  '  Daeva-worshippers.'  The  Ya^t  is,  of  course,  made
@@ -13514,8 +12612,7 @@ one  who  driveth  death  afar :    I  am,  O  Zarathuitra
 2  Or,  '  beautiful  of  life.'
 
 3  '  Me,'  omitted  as  interrupting  rhythm,  seems  to  be  merely
-dramatic  ;  or  did  it  indicate  that  there  was  an  original  Zarathu-
-jtrian  Haoma  Gatha  from  which  this  is  an  extension  ?
+dramatic  ;  or  did  it  indicate  that  there  was  an  original  Zarathujtrian  Haoma  Gatha  from  which  this  is  an  extension  ?
 
 
 232  YASNA    IX.
@@ -13523,8 +12620,7 @@ jtrian  Haoma  Gatha  from  which  this  is  an  extension  ?
 
 H(a)oma,  the  holy  and  driving  death  afar  ;  pray  to
 me,  O  Spitama,  prepare  me  for  the  taste.  Praise
-toward  me  in  (Thy)  praises  as  the  other  [Saosh-
-yauts]  praise.
+toward  me  in  (Thy)  praises  as  the  other  [Saoshyauts]  praise.
 
 3.  Thereupon  spake  Zarathu.5tra  :  Unto  H(a)oma
 be  the  praise1.  What  man,  O  H(a)oma!  first  prepared
@@ -13545,8 +12641,7 @@ food.
 
 5.  In  the  reign  of  Yima  swift  of  motion  was  there
 neither  cold  nor  heat,  there  was  neither  age  nor
-death,  nor  envy 4  demon-made.  Like  fifteen-year-
-lings 5  walked  the  two  forth,  son  and  father,  in  their
+death,  nor  envy 4  demon-made.  Like  fifteen-yearlings 5  walked  the  two  forth,  son  and  father,  in  their
 stature  and  their  form,  so  long  as  Yima,  son  of
 Vivanghva;zt  ruled,  he  of  the  many  herds  !
 
@@ -13570,8 +12665,7 @@ at  fifteen  years  of  age.
 YASNA    IX.  233
 
 
-prepared  thee  for  the  corporeal  world  ?    What  sanc-
-tity was  offered  him  ?  what  gain  did  he  acquire  ?
+prepared  thee  for  the  corporeal  world  ?    What  sanctity was  offered  him  ?  what  gain  did  he  acquire  ?
 
 7.  Thereupon  gave  H(a)oma  answer,  he  the  holy
 one,  and  driving  death  afar :  Athwya 1  was  the
@@ -13589,8 +12683,7 @@ Angra  Mainyu  made  as  the  most  mighty  Dru^(k)
 (our)  settlements,  and  to  slay  the  (homes)  of  Asha !
 
 9.  Who  was  the  third  man,  O  H(a)oma!  who
-prepared  thee  for  the  corporeal  world  ?  What  blessed-
-ness was  given  him  ?  what  gain  did  he  acquire  ?
+prepared  thee  for  the  corporeal  world  ?  What  blessedness was  given  him  ?  what  gain  did  he  acquire  ?
 
 10.  Thereupon  gave  H(a)oma  answer,  the  holy  one,
 and  driving  death  afar :  Thrita 5,  [the  most  helpful
@@ -13628,10 +12721,8 @@ ascendant,  ringlet-headed l,  bludgeon-bearing.
 
 ii.  He  who  smote  the  horny  dragon  swallowing
 men,  and  swallowing  horses,  poisonous,  and  green
-of  colour,  over  which,  as  thick  as  thumbs  are,  green-
-ish poison  flowed  aside,  on  whose  back  once  Keres-
-aspa cooked  his  meat  in  iron  caldron  at  the  noon-
-day meal ;  and  the  deadly,  scorched,  upstarted  2,  and
+of  colour,  over  which,  as  thick  as  thumbs  are,  greenish poison  flowed  aside,  on  whose  back  once  Keres-
+aspa cooked  his  meat  in  iron  caldron  at  the  noonday meal ;  and  the  deadly,  scorched,  upstarted  2,  and
 springing  off,  dashed  out  the  water  as  it  boiled.
 Headlong  fled  affrighted  manly-minded3  Keresaspa.
 
@@ -13650,8 +12741,7 @@ Also  in  Vend.  Ill,  32  when  the  barley  is  produced  the  demons
 hardly  '  sweat  (with  mental  misery).'  The  idea  is  too  advanced
 for  the  document.  Burnouf's  and  Haug's  '  hiss '  was  much  better
 in  both  places.  But  I  prefer  the  hint  of  the  Pahlavi  lala  vazlun</.
-In  Vend.  Ill,  32  (Sp.  105),  khist-homand.  Ner.  taptajX'a  sa  nrisam-
-sak  X'ukshubhe  [dvipado  *  babhuva].  Whether  /;z;isa/<('a=hisa/>£a  (?)
+In  Vend.  Ill,  32  (Sp.  105),  khist-homand.  Ner.  taptajX'a  sa  nrisamsak  X'ukshubhe  [dvipado  *  babhuva].  Whether  /;z;isa/<('a=hisa/>£a  (?)
 has  anything  to  do  with  hiz  or  khiz= Pahlavi  akhizidano  t,  N.  P.
 'hizidan,  is  a  question.  I  follow  tradition  without  etymological
 help  ;  perhaps  we  might  as  well  write  the  word  like  the  better
@@ -13659,8 +12749,7 @@ known  form  as  a  conjecture.
 
 3  The  Pahlavi  translator  makes  the  attempt  to  account  for  the  epithet
 '  manly-minded'  as  applied  to  Keresaspa  while  yet  he  fled  affrighted ;
-he  says :  H6man</  man/mini.rnih  hana.  yehevund,  aigha^  libbem-
-man  pavan  gas  dirt;  Ner.asya  paurushamanasatvam  *  idara  babhuva
+he  says :  H6man</  man/mini.rnih  hana.  yehevund,  aigha^  libbemman  pavan  gas  dirt;  Ner.asya  paurushamanasatvam  *  idara  babhuva
 yad  asau  X'aitanyaw  sthane  dadhau, '  his  manly-mindedness  was  this,
 that  he  kept  his  wits  on  the  occasion.'  See  the  same  story  treated
 somewhat  differently  in  the  Yajts  by  Darmesteter  (p.  295,  note  2).
@@ -13671,8 +12760,7 @@ f  Or,  akhezidano.
 YASNA    IX.  235
 
 
-O  H(a)oma  !  for  the  corporeal  world  ?  What  blessed-
-ness was  given  him  ?  what  gain  did  he  acquire  ?
+O  H(a)oma  !  for  the  corporeal  world  ?  What  blessedness was  given  him  ?  what  gain  did  he  acquire  ?
 
 13.  Thereupon  gave  H(a)oma  answer,  he  the  holy,
 and  driving  death  afar :  Pourushaspa1  was  the  fourth
@@ -13681,8 +12769,7 @@ blessedness  was  given  him,  this  gain  did  he  acquire,
 that  thou,  O  Zarathiutra!  wast  born  to  him,  the  just,
 in  Pourushaspa's  house,  the  D(a)eva's  foe,  the  friend
 of  Mazda's  lore,  (14)  famed  in  Airyena  Vae^ah  ;  and
-thou,  O  Zarathuitra  !  didst  recite  the  first  the  Ahuna-
-vairya 2,  four  times  intoning  it,  and  with  verses  kept
+thou,  O  Zarathuitra  !  didst  recite  the  first  the  Ahunavairya 2,  four  times  intoning  it,  and  with  verses  kept
 apart  [(Pazand)  each  time  with  louder  and  still
 louder  voice].
 
@@ -13698,8 +12785,7 @@ in  the  two  spirits' 3  world.
 H(a)oma.  Good  is  H(a)oma,  and  the  well-endowed,
 exact  and  righteous  in  its  nature,  and  good  inhe
 rently,  and  healing,  beautiful  of  form,  and  good  in
-deed,  and  most  successful  in  its  working4,  golden-
-hued,  with  bending  sprouts.  As  it  is  the  best  for
+deed,  and  most  successful  in  its  working4,  goldenhued,  with  bending  sprouts.  As  it  is  the  best  for
 drinking,  so  (through  its  sacred  stimulus)  is  it  the
 most  nutritious  5  for  the  soul.
 
@@ -13708,8 +12794,7 @@ most  nutritious  5  for  the  soul.
 
 1  Son  of  Paitirasp  or  Spetarasp ;  BundahLy  XXXII,  1,  2,  &c.
 
-2  The  Ahuna-vairya  is  in  the  Gathic  dialect,  and  in  the  Ahuna-
-vaiti  metre ;  it  may  have  been  composed  by  Z.   It  named  the  Gatha.
+2  The  Ahuna-vairya  is  in  the  Gathic  dialect,  and  in  the  Ahunavaiti  metre ;  it  may  have  been  composed  by  Z.   It  named  the  Gatha.
 
 3  Comp.  Y.  XXX,  6  ?  4  Free.
 5  Comp.  pathmmg  gavoi.
@@ -13725,17 +12810,14 @@ is  my  need)  ;  I  make  my  claim  on  thee  for  progress
 and  increased  prosperity,  and  vigour  of  the  entire
 frame,  and  for  understanding2,  of  each  adorning  kind,
 and  for  this,  that  I  may  have  free  course  among  our
-settlements,  having  power  where  I  will,  overwhelm-
-ing angry  malice,  and  a  conqueror  of  lies.
+settlements,  having  power  where  I  will,  overwhelming angry  malice,  and  a  conqueror  of  lies.
 
 18.  Yea,  I  make  my  claim  on  thee  that  I  may
 overwhelm  the  angry  hate  of  haters,  of  the  D(a)evas
 and  of  mortals,  of  the  sorcerers  and  sirens  3,  of  the
 tyrants  4,  and  the  Kavis,  of  the  Karpans,  murderous
-bipeds,  of  the  sanctity-destroyers,  the  profane  apos-
-tate bipeds,  of  the  wolves  four-footed  monsters,  of
-the  invading  host,  wide-fronted,  which  with  strata-
-gems 5  advance.
+bipeds,  of  the  sanctity-destroyers,  the  profane  apostate bipeds,  of  the  wolves  four-footed  monsters,  of
+the  invading  host,  wide-fronted,  which  with  stratagems 5  advance.
 
 19.  This  first  blessing  I  beseech  of  thee,  O
 H(a)oma,  thou  that  drivest  death  afar  !  I  beseech
@@ -13774,8 +12856,7 @@ assaults  of  hate,  and  conquering  the  lie.
 
 This  fifth  blessing,  O  H(a)oma,  I  beseech  of  thee,
 thou  that  drivest  death  afar!  that  I  may  stand
-victorious  on  earth,  conquering  in  battles  2,  over-
-whelming the  assaults  of  hate,  and  conquering  the
+victorious  on  earth,  conquering  in  battles  2,  overwhelming the  assaults  of  hate,  and  conquering  the
 
 lie.
 
@@ -13815,8 +12896,7 @@ of  the  Christians.
 238  YASNA    IX.
 
 
-he  treacherously  said:  No  priest  behind  1  (and  watch-
-ing) shall  walk  the  lands  for  me,  as  a  counsellor  to
+he  treacherously  said:  No  priest  behind  1  (and  watching) shall  walk  the  lands  for  me,  as  a  counsellor  to
 prosper  them,  he  would  rob  everything  of  progress,
 he  would  crush  the  growth  of  all !
 
@@ -13827,8 +12907,7 @@ thee,  thou  art  well-versed  in  many  sayings,  and  true
 and  holy  words.  Hail  to  thee  for  thou  dost  ask  no
 wily  questions,  but  questionest  direct.
 
-26.  Forth  hath  Mazda  borne  to  thee,  the  star-
-bespangled  girdle  2,  the  spirit-made,  the  ancient  one,
+26.  Forth  hath  Mazda  borne  to  thee,  the  starbespangled  girdle  2,  the  spirit-made,  the  ancient  one,
 the  Mazdayasnian  Faith.
 
 So  with  this  thou  art  begirt  on  the  summits  of  the
@@ -13836,8 +12915,7 @@ mountains,  for  the  spreading  of  the  precepts,  and  the
 headings 3  of  the  Mathra,  (and  to  help  the  Mathra's
 teacher),
 
-27.  O  H(a)oma,  thou  house-lord,  and  thou  clan-
-lord,  thou  tribe-lord,  and  chieftain  of  the  land,  and
+27.  O  H(a)oma,  thou  house-lord,  and  thou  clanlord,  thou  tribe-lord,  and  chieftain  of  the  land,  and
 thou  successful  learned  teacher,  for  aggressive
 strength  I  speak  to  thee,  for  that  which  smites  with
 victory,  and  for  my  body's  saving,  and  for  manifold
@@ -13916,8 +12994,7 @@ YASNA    X.
 away  x  from  hence,  and  let  the  good  Sraosha  make
 here  his  home  !  [And  may  the  good  Blessedness
 here  likewise  dwell],  and  may  she  here  spread  delight
-and  peace  within  this  house,  Ahura's,  which  is  sanc-
-tified by  H(a)oma,  bringing  righteousness  (to  all).
+and  peace  within  this  house,  Ahura's,  which  is  sanctified by  H(a)oma,  bringing  righteousness  (to  all).
 
 2.  At  the  first  force  of  thy  pressure,  O  intelligent !
 I  praise  thee  with  my  voice,  while  I  grasp  at  first
@@ -13934,11 +13011,9 @@ the  H(a)oma  branches  spread  2.
 (with  paths),  the  productive,  the  full  bearing,  thy
 mother,  holy  plant !  Yea,  I  praise  the  lands  where
 thou  dost  grow,  sweet-scented,  swiftly  spreading,  the
-good  growth  of  the  Lord.  O  H(a)oma,  thou  grow-
-est  on  the  mountains,  apart  on  many  paths3,  and
+good  growth  of  the  Lord.  O  H(a)oma,  thou  growest  on  the  mountains,  apart  on  many  paths3,  and
 there  still  may'st  thou  flourish.  The  springs  of
-Righteousness  most  verily  thou  art,  (and  the  foun-
-tains of  the  ritual  find  their  source  in  thee) !
+Righteousness  most  verily  thou  art,  (and  the  fountains of  the  ritual  find  their  source  in  thee) !
 
 
 1  The  Pahlavi  as  corrected  by  the  MS.  of  Dastur  Hoshang^i
@@ -13974,18 +13049,15 @@ H(a)oma,  famed,  health-bringing  (as  thou  art).
 
 8.  All  other  toxicants  go  hand  in  hand  with  Rapine
 of  the  bloody  spear,  but  H  (a)oma's  stirring  power  goes
-hand  in  hand  with  friendship.  [Light  is  the  drunken-
-ness of  H(a)oma  (Pazand).]
+hand  in  hand  with  friendship.  [Light  is  the  drunkenness of  H(a)oma  (Pazand).]
 
 Who  as  a  tender  son  caresses  H(a)oma,  forth  to
 the  bodies  of  such  persons  H(a)oma  comes  to  heal.
 
 9.  Of  all  the  healing  virtues,  H(a)oma,  whereby
-thou  art  a  healer,  grant  me  some.  Of  all  the  vic-
-torious powers,  whereby  thou  art  a  victor,  grant  me
+thou  art  a  healer,  grant  me  some.  Of  all  the  victorious powers,  whereby  thou  art  a  victor,  grant  me
 some.  A  faithful  praiser  will  I  be  to  thee,  O  H(a)oma,
-and  a  faithful  praiser  (is)  a  better  (thing)  than  Right-
-eousness the  Best ;  so  hath  the  Lord,  declaring  (it),
+and  a  faithful  praiser  (is)  a  better  (thing)  than  Righteousness the  Best ;  so  hath  the  Lord,  declaring  (it),
 decreed.
 
 10.  Swift *  and  wise  hath  the  well-skilled  2  Deity
@@ -14028,8 +13100,7 @@ dost  thou,  O  H(a)oma,  endow  the  man  who  drinks
 thee  mixed  with  milk  ;  yea,  more  prosperous  thou
 makest  him,  and  more  endowed  with  mind.
 
-14.  Do  not  vanish  from  me  suddenly  like  milk-
-drops  in  the  rain  ;  let  thine  exhilarations  go  forth
+14.  Do  not  vanish  from  me  suddenly  like  milkdrops  in  the  rain  ;  let  thine  exhilarations  go  forth
 ever  vigorous  and  fresh  ;  and  let  them  come  to  me
 with  strong  effect.  Before  thee,  holy  H(a)oma,  thou
 bearer  of  the  ritual  truth,  and  around  thee  would  I
@@ -14039,8 +13110,7 @@ for  gift  and)  grown  4.
 15.  I  renounce  with  vehemence  the  murderous
 woman's 5  emptiness,  the  Caini's,  hers,  with  intellect
 
-1  Possibly  '  the  birds  taught  by  the  bounteous  one ; '  the  '  God-
-taught  birds.'
+1  Possibly  '  the  birds  taught  by  the  bounteous  one ; '  the  '  Godtaught  birds.'
 
 2  Elsewhere  and  here  also  possibly  a  proper  name.
 
@@ -14056,10 +13126,8 @@ YASNA    X.  243
 
 
 dethroned 1.  She  vainly  thinks  to  foil  us,  and  would
-beguile  both  Fire-priest  and  H(a)oma  ;  but  she  her-
-self, deceived  therein,  shall  perish.  And  when  she
-sits  at  home  2,  and  wrongly  eats  of  H(a)oma's  offer-
-ing, priest's  mother  will  that  never  make  her,  nor
+beguile  both  Fire-priest  and  H(a)oma  ;  but  she  herself, deceived  therein,  shall  perish.  And  when  she
+sits  at  home  2,  and  wrongly  eats  of  H(a)oma's  offering, priest's  mother  will  that  never  make  her,  nor
 give  her  holy  3  sons  !
 
 1 6.  4  To  five  do  I  belong,  to  five  others  do  I  not ;
@@ -14067,15 +13135,13 @@ of  the  good  thought  am  I,  of  the  evil  am  I  not  ;  of
 the  good  word  am  I,  of  the  evil  am  I  not;  of  the
 good  deed  am  I,  and  of  the  evil,  not.
 
-To  Obedience  am  I  given,  and  to  deaf  disobedi-
-ence, not ;  to  the  saint  do  I  belong,  and  to  the
+To  Obedience  am  I  given,  and  to  deaf  disobedience, not ;  to  the  saint  do  I  belong,  and  to  the
 wicked,  not ;  and  so  from  this  on  till  the  ending  shall
 be  the  spirits'  parting.     (The  two  shall  here  divide.)
 
 
 1 7.  Thereupon  spake  Zarathurtra :  Praise  to
-H(a)oma,  Mazda-made.  Good  is  H(a)oma,  Mazda-
-made.  All  the  plants  of  H(a)oma  praise  I,  on  the
+H(a)oma,  Mazda-made.  Good  is  H(a)oma,  Mazdamade.  All  the  plants  of  H(a)oma  praise  I,  on  the
 heights  of  lofty  mountains,  in  the  gorges  of  the
 valleys,  in  the  clefts  (of  sundered  hill-sides)  cut  for
 the  bundles  bound  by  women.  From  the  silver  cup
@@ -14107,8 +13173,7 @@ R  2
 
 
 thy  songs,  and  these  thy  teachings  l,  and  these  thy
-truthful  ritual  words,  health2 -imparting,  victory-
-giving,  from  harmful  hatred  healing  giving.
+truthful  ritual  words,  health2 -imparting,  victorygiving,  from  harmful  hatred  healing  giving.
 
 19.  These  and  thou  art  mine,  and  forth  let  thine
 exhilarations  flow  ;  bright  and  sparkling  let  them
@@ -14122,8 +13187,7 @@ spoken  to  her!  Food  for  the  Kine,  and  pasture!
 '  For  the  Kine  let  thrift  use  toil ;  yield  thou  us  food3.'
 
 2 1 .  We  worship  the  yellow  lofty  one  ;  we  worship
-H(a)oma  who  causes  progress,  who  makes  the  settle-
-ments advance;  we  worship  H(a)oma  who  drives
+H(a)oma  who  causes  progress,  who  makes  the  settlements advance;  we  worship  H(a)oma  who  drives
 death  afar  ;  yea,  we  worship  all  the  H(a)oma  plants.
 And  we  worship  (their)  blessedness,  and  the  Fravashi
 of  Zarathustra  Spitama,  the  saint 4.
@@ -14161,14 +13225,12 @@ me,  but  fattenest  me  for  wife  or  children,  and  for  thy
 niggard  selfish  meal.
 
 2.  The  horse  cries  to  his  rider  thus  :  Be  not
-spanner  2  of  the  racers  ;  stretch  no  coursers  to  full-
-speed  ;  do  not  stride  across  the  fleetest,  thou,  who
+spanner  2  of  the  racers  ;  stretch  no  coursers  to  fullspeed  ;  do  not  stride  across  the  fleetest,  thou,  who
 dost  not  pray  me  swiftness  in  the  meeting  thick
 with  numbers,  in  the  circuit  thronged  with  men.
 
 3.  H(a)oma  speaks  his  drinker  thus  :  Childless  be
-thou,  shorn  of  offspring,  evil-famed,  and  slander-
-followed,  who  holdest  me  from  full  outpouring,  as  a
+thou,  shorn  of  offspring,  evil-famed,  and  slanderfollowed,  who  holdest  me  from  full  outpouring,  as  a
 robber,  skulls  in-crushing.  No  head-smiter3  am  I
 ever,  holy  H(a)oma,  far  from  death4.
 
@@ -14218,14 +13280,10 @@ four,  for  the  seven-making  of  the  sixth,  who  are  your
 nine  in  the  decade  (?),  who  serve  you  and  with  zeal
 
 
-6
-
-
 10.  7  To  thee,  O  holy  H(a)oma!  bearer  of  the
 ritual  sanctity,  I  offer  this  my  person  which  is  seen
 (by  all  to  be)  mature,  (and  fit  for  gift)  ;  to  H(a)oma
-the  effective  do  I  offer  it,  and  to  the  sacred  exhilara-
-tion which  he  bestows ;  and  do  thou  grant  to  me  (for
+the  effective  do  I  offer  it,  and  to  the  sacred  exhilaration which  he  bestows ;  and  do  thou  grant  to  me  (for
 this),  O  holy  H(a)oma !  thou  that  drivest  death  afar,
 (Heaven)  the  best  world  of  the  saints,  shining,  all
 brilliant.
@@ -14263,8 +13321,7 @@ YASNA    XII.  247
 
 12-15.  May'st  Thou  rule  at  Thy  will,  O  Lord1 !
 
-16.  I  confess  myself  a  Mazdayasnian  of  Zara-
-thiutra's  order 2.
+16.  I  confess  myself  a  Mazdayasnian  of  Zarathiutra's  order 2.
 
 1 7.  3 1  celebrate  my  praises  for  good'  thoughts,
 good  words,  and  good  deeds  for  my  thoughts,  my
@@ -14275,8 +13332,7 @@ and  words,  and  deeds.  18.  Here  I  give  to  you,  O
 ye  Bountiful  Immortals!  sacrifice  and  homage  with
 the  mind,  with  words,  deeds,  and  my  entire  person  ;
 yea,  (I  offer)  to  you  the  flesh  of  my  very  body  (as
-your  own).  And  I  praise  Righteousness.  A  bless-
-ing is  Righteousness  (called)  the  Best,  &c.
+your  own).  And  I  praise  Righteousness.  A  blessing is  Righteousness  (called)  the  Best,  &c.
 
 
 YASNA  XII   (Sp.  XIII).
@@ -14325,8 +13381,7 @@ the  Mazdayasnian  villages.
 
 3.  Away  from  (?)  their  thoughts  do  I  wish  to  lead
 (the  thought  of)  wandering  at  will,  (away  the  thought
-of)  free  nomadic  pitching  of  the  tent,  for  I  wish  to  re-
-move (?)  all  wandering  from0  (their)  Kine  which  abide
+of)  free  nomadic  pitching  of  the  tent,  for  I  wish  to  remove (?)  all  wandering  from0  (their)  Kine  which  abide
 in  steadfastness  upon  this  land;  and  bowing  down  in
 worship  to  Righteousness  I  dedicate  my  offerings
 with  praise  so  far  as  that.  Never  may  I  stand  as  a
@@ -14350,8 +13405,7 @@ in  Y.  XXIX,  1.
 
 G  Fra  has  the  same  force  as  in  fra  perenaoiti  (?),  to  fill  forth,  to
 empty.  Otherwise,  'forth  to  their  thoughts  I  offer  in  my  prayer
-free  ranging  at  their  choice,  and  a  lodging  where  they  will,  to-
-gether with  their  cattle  which  dwell  upon  this  land.'
+free  ranging  at  their  choice,  and  a  lodging  where  they  will,  together with  their  cattle  which  dwell  upon  this  land.'
 
 T  Comp.  nairi-/£inangho,  khratu-^inangho,  and  shaeto-^inangho.
 
@@ -14365,13 +13419,11 @@ and  void  of  virtue,  deceitful  in  their  wickedness,  of
 most  loathsome  of  existing  things,  and  the  ones  the
 most  of  all  bereft  of  good.
 
-5.  Off,  off,  do  I  abjure  the  Daevas  and  all  pos-
-sessed by  them,  the  sorcerers  and  all  that  hold  to
+5.  Off,  off,  do  I  abjure  the  Daevas  and  all  possessed by  them,  the  sorcerers  and  all  that  hold  to
 their  devices,  and  every  existing  being  of  the  sort  ;
 their  thoughts  do  I  abjure,  their  words  and  actions,
 and  their  seed  (that  propagate  their  sin) ;  away  do  I
-abjure  their  shelter  and  their  headship,  and  the  ini-
-quitous of  every  kind  who  act  as  Rakhshas  act!
+abjure  their  shelter  and  their  headship,  and  the  iniquitous of  every  kind  who  act  as  Rakhshas  act!
 
 Thus  and  so  in  very  deed  might  Ahura  Mazda
 have  indicated *  to  Zarathiutra  in  every  question
@@ -14379,8 +13431,7 @@ which  Zarathartra  asked,  and  in  all  the  consultations
 in  the  which  they  two  conversed  together.  6.  Thus
 and  so  might  Zarathu^tra  have  abjured  the  shelter
 and  the  headship  of  the  Daevas  in  all  the  questions,
-and  in  all  the  consultations  with  which  they  two  con-
-versed together,  Zarathu.rtra  and  the  Lord.
+and  in  all  the  consultations  with  which  they  two  conversed together,  Zarathu.rtra  and  the  Lord.
 
 And  so  I  myself,  in  whatsoever  circumstances
 I  may  be  placed,  as  a  worshipper  of  Mazda,  and  of
@@ -14405,8 +13456,7 @@ Mazda,  who  made  both  Kine  and  holy  men,  belongs,
 25O  YASNA   XIII.
 
 
-to  that  sanctity  do  I.  Of  that  creed  which  Zara-
-thiurtra  held,  which  Kavi  Viitaspa,  and  those  two,
+to  that  sanctity  do  I.  Of  that  creed  which  Zarathiurtra  held,  which  Kavi  Viitaspa,  and  those  two,
 Frashaostra  and  c7amaspa  ;  yea,  of  that  religious
 faith  which  every  Saoshyawt  who  shall  (yet  come
 to)  save  (us),  the  holy  ones  who  do  the  deeds  of
@@ -14421,10 +13471,8 @@ the  word  well  spoken,  and  the  deed  well  done  ;
 9.  Yea,  I  praise  at  once  the  Faith  of  Mazda,  the
 Faith  which  has  no  faltering  utterance  \  the  Faith
 that  wields  the  felling  halbert2,  the  Faith  of  kindred
-marriage,  the  holy  (Creed),  which  is  the  most  impos-
-ing, best,  and  most  beautiful  of  all  religions  which
-exist,  and  of  all  that  shall  in  future  come  to  know-
-ledge, Ahura's  Faith,  the  Zarathustrian  creed.  Yea,
+marriage,  the  holy  (Creed),  which  is  the  most  imposing, best,  and  most  beautiful  of  all  religions  which
+exist,  and  of  all  that  shall  in  future  come  to  knowledge, Ahura's  Faith,  the  Zarathustrian  creed.  Yea,
 to  Ahura  Mazda  do  I  ascribe  all  good,  and  such
 shall  be  the  worship  of  the  Mazdayasnian  belief!
 
@@ -14441,10 +13489,8 @@ prohibitive  -'speech  without  falling,  or  hesitation;'  better  as  adj.
 
 2  Comp.  Y.  XXXI,  18.
 
-3  This  Ratu  is  the  description  and  representation  of  the  Nmano-
-paiti  as  occupying  the  attention  of  the  worshippers  chiefly  at  the
-time  of  his  mention  in  the  course  of  the  ritual.  (I  vary  the  ex-
-pression 'chief  with  that  of  'lord'  here  for  the  sake  of  change.)
+3  This  Ratu  is  the  description  and  representation  of  the  Nmanopaiti  as  occupying  the  attention  of  the  worshippers  chiefly  at  the
+time  of  his  mention  in  the  course  of  the  ritual.  (I  vary  the  expression 'chief  with  that  of  'lord'  here  for  the  sake  of  change.)
 Once  established  as  a  Ratu  in  the  ritual,  he  became  a  guardian
 genius  Nmanya  ;  so  of  the  others.  (Y.  XIII  is  in  the  Gathic  dialect.)
 
@@ -14454,8 +13500,7 @@ YASNA    XIII.  251
 
 the  house-lord,  and  the  chief  of  the  Vis-lord1,  and  the
 chief  of  the  Zawtu-lord  2.  And  I  invoke  the  chief  of
-the  province-lord  3.  And  the  chief  of  women  I  in-
-voke, the  Mazdayasnian  Faith,  the  blessed  and  good
+the  province-lord  3.  And  the  chief  of  women  I  invoke, the  Mazdayasnian  Faith,  the  blessed  and  good
 Pare^di 4,  her  who  is  the  holy  one  of  human-kind 5.
 And  I  invoke  this  (holy)  earth  which  bears  us.
 
@@ -14468,8 +13513,7 @@ I  invoke  the  steady  settler 8  of  sanctity,  (and)  the
 chief  of  the  charioteer.
 
 3.  And  I  invoke  the  chief  of  the  fire-priest  by
-means  of  the  most  imposing  sciences  of  the  Mazda-
-yasnian Faith.  And  I  invoke  the  chief  of  the
+means  of  the  most  imposing  sciences  of  the  Mazdayasnian Faith.  And  I  invoke  the  chief  of  the
 Atharvan,  and  his  pupils  I  invoke  ;  yea,  the  lords  of
 each  of  them.  I  invoke  these  lords,  and  I  summon
 the  Bountiful  Immortals  here,  and  the  Prophets  who
@@ -14484,8 +13528,7 @@ e  Or,  'households.'
 
 7  Ashethwozgatema  (several  manuscripts  have  ashe)  finds  its
 explanation  from  the  Pahlavi  of  Dastur  Hoshanggi  Gamaspgi's  MS.
-It  may  be  read  kabed  rang-  rasirntum  instead  of  kabed  yom  raslm-
-tum.  The  ancient  error  of  yom  arose  from  the  fact  that  the
+It  may  be  read  kabed  rang-  rasirntum  instead  of  kabed  yom  raslmtum.  The  ancient  error  of  yom  arose  from  the  fact  that  the
 copyist  had  before  him  a  form  which  might  be  read  either  rog
 or  rang,  the  characters  being  identical  for  either  word.  He  could
 not  reconcile  himself  to  rang  in  the  sense  of  effort,  and  so  decided
@@ -14563,24 +13606,20 @@ and  of  life's  actions  done  for  Mazda;  and  the  Kingdom
 is  to  Ahura  which  to  the  poor  (may  offer)  nurture  2.
 
 A  blessing  is  the  Right  called  the  best,  there  is
-weal,  there  is  weal  to  this  (man),  when  toward  Right-
-eousness Best  (he  does)  right 2.
+weal,  there  is  weal  to  this  (man),  when  toward  Righteousness Best  (he  does)  right 2.
 
 8.  We  worship  the  Ahuna-vairya  ;  and  we  worship
 Asha  Vahirta  the  best(?),  the  bountiful  Immortal.
-And  we  sacrifice  to  the  Ha  fraoreti,  even  to  the  con-
-fession and  laudation  of  the  Mazdayasnian  Faith  !
+And  we  sacrifice  to  the  Ha  fraoreti,  even  to  the  confession and  laudation  of  the  Mazdayasnian  Faith  !
 
 YASNA  XIV  (Sp.  XV).
 Dedications.
 
 1.  I  will  come  to  You,  O  Ye  Bountiful  Immortals !
-as  a  praiser  and  a  priest,  and  an  invoker  and  sacri-
-ficer,  as  a  memorising  reciter  and  a  chanter,  for  Your
+as  a  praiser  and  a  priest,  and  an  invoker  and  sacrificer,  as  a  memorising  reciter  and  a  chanter,  for  Your
 sacrifice  and  homage,  which  are  to  be  offered  to  You,
 the  Bountiful  Immortals,  and  for  our  dedication  and
-sanctification ;  (yea,  for  ours)  who  are  the  holy  pro-
-phets (destined  to  benefit  the  saints).
+sanctification ;  (yea,  for  ours)  who  are  the  holy  prophets (destined  to  benefit  the  saints).
 
 2.  And  to  You,  O  Ye  Bountiful  Immortals2 !  would
 I  dedicate  the  flesh  of  my  very  body  3,  and  all  the
@@ -14608,8 +13647,7 @@ chosen,  the  Zaotar  (?)  speaks  forth  to  me  (?).
 The  Ratu  speaks :  As  an  Ahii  (revered  and)  to  be
 chosen,  the  Zaotar  speaks  forth  to  me.
 
-The  Zaotar  :  So  let  the  Ratu  from  his  Righteous-
-ness, holy  and  learned,  speak  forth  !
+The  Zaotar  :  So  let  the  Ratu  from  his  Righteousness, holy  and  learned,  speak  forth  !
 
 
 YASNA    XV    (Sp.  XVI).
@@ -14619,8 +13657,7 @@ The  Sacrifice  continues.
 by  grace  3,  I  call  upon  the  Bountiful  Immortals  the
 good,  and  also  therewith  the  beautiful  by  name  4 ;
 and  I  sacrifice  to  them  with  the  blessing  of  the  good
-ritual,  with  the  earnest  blessings  of  the  good  Mazda-
-yasnian Faith.
+ritual,  with  the  earnest  blessings  of  the  good  Mazdayasnian Faith.
 
 2.  Whose  best  eift  from  his  Righteousness  is  mine
 in  the  offering  Ahura  this  knoweth  ;  who  have  lived,
@@ -14655,8 +13692,7 @@ A
 
 Atarevakhsha  thus  speaks  forth  to  me.
 
-(Response)  :  So  let  the  Ratu  from  his  righteous-
-ness, holy  and  learned,  speak  forth  !
+(Response)  :  So  let  the  Ratu  from  his  righteousness, holy  and  learned,  speak  forth  !
 
 
 YASNA    XVI    (Sp.  XVII).
@@ -14669,8 +13705,7 @@ ritual  order,  who  disposes  (all)  aright,  the  greatest
 Yazad,  who  is  also  the  most  beneficent,  and  the  one
 who  causes  the  settlements  to  advance,  the  creator
 of  good  creatures  ;  yea,  we  worship  Him  with  these
-offered  Zaothras,  and  with  truthfully  and  scrupu-
-lously delivered  words ;  and  we  worship  every  holy
+offered  Zaothras,  and  with  truthfully  and  scrupulously delivered  words ;  and  we  worship  every  holy
 Yazad  of  the  heaven  (as  well)  !
 
 2.  And  we  worship  Zarathuitra  Spitama  in  our
@@ -14713,8 +13748,7 @@ the  soul  of  the  Kine  of  blessed  endowment,  (5)  and  its
 Creator  Ahura  Mazda  ;  and  we  worship  Mithra  of  the
 wide  pastures,  and  Sraosha  (Obedience)  the  blessed,
 and  Rashnu  the  most  just,  and  the  good,  heroic,
-bountiful  Fravashis  of  the  saints,  and  the  Blow-of-
-victory  Ahura-given  (as  it  is).  And  we  worship
+bountiful  Fravashis  of  the  saints,  and  the  Blow-ofvictory  Ahura-given  (as  it  is).  And  we  worship
 Raman  //z'astra,  and  the  bounteous  Wind  of  blessed
 gift,  (6)  and  (its)  Creator  Ahura  Mazda,  and  the  good
 Mazdayasnian  Religion,  and  the  good  Blessedness
@@ -14722,11 +13756,9 @@ and  Ar^ta/.
 
 And  we  worship  the  heaven  and  the  earth  of
 blessed  gift,  and  the  bounteous  Mathra,  and  the
-stars  without  beginning  (to  their  course),  self-dispos-
-ing as  they  are.
+stars  without  beginning  (to  their  course),  self-disposing as  they  are.
 
-7.  And  we  worship  the  glorious  works  of  Right-
-eousness in  which  the  souls  of  the  dead  find  satis-
+7.  And  we  worship  the  glorious  works  of  Righteousness in  which  the  souls  of  the  dead  find  satis-
 faction and  delight  [(Pazand)  which  are  the  Fravashis
 
 'of  the   conscience  that  loves  the  right.'     In  Ya^t  XIII,  118  the
@@ -14762,8 +13794,7 @@ is  the  home  of  healthy  herds  and  healthy  men,  and
 of  those  who  are  both  endowed  with  health  and
 lover(s)  of  the  ritual  right.
 
-(Response  of  the  individualworshipper(?).)  Where-
-fore whichever  of  persons,  or  whatever  of  bodily  in-
+(Response  of  the  individualworshipper(?).)  Wherefore whichever  of  persons,  or  whatever  of  bodily  in-
 fluences, is  most  helpful  and  preserving  in  that  abode
 (thus  owned  by  Mazda)  let  this  meet  me  in  mine
 abode,  and  there  may  it  abide  for  summer  and  for
@@ -14837,8 +13868,7 @@ worship.
 YASNA    XIX.  259
 
 
-13.  And  we  worship  the  Mathra-spe^ta  (the  boun-
-teous word-of-reason),  the  Zarathuitrian  law  against
+13.  And  we  worship  the  Mathra-spe^ta  (the  bounteous word-of-reason),  the  Zarathuitrian  law  against
 the  Daevas,  and  its  long  descent.
 
 14.  And  we  worship  Mount  Ushi-darena  which  is
@@ -14898,8 +13928,7 @@ word  which  Thou  did'st  declare  to  me,  (2)  which
 was  before  the  sky,  and  before  the  water,  before  the
 earth,  and  before  the  cattle,  before  the  plants,  and
 before  the  fire,  and  before  the  holy  man,  and  the
-Demon-gods  (the  Daevas),  before  the  Khrafstra-
-men 2,  and  before  all  the  incarnate  world ;  even
+Demon-gods  (the  Daevas),  before  the  Khrafstramen 2,  and  before  all  the  incarnate  world ;  even
 before  all  the  good  creatures  made  by  Mazda,  and
 which  contain  (and  are)  the  seed  of  righteousness  ?
 
@@ -14937,8 +13966,7 @@ YASNA    XIX.  26l
 
 
 tama  Zarathustra!  which  especially  belongs  to  me,  and
-when  each  is  intoned  aloud  without  the  (needless)  re-
-petition 1  of  verses  and  of  words,  and  without  their
+when  each  is  intoned  aloud  without  the  (needless)  repetition 1  of  verses  and  of  words,  and  without  their
 omission,  it  is  worth  a  hundred  of  their  other  stanzas,
 even  although  they  are  prominent  in  the  ritual,  and
 likewise  equally  as  well  recited  without  additions  or
@@ -14948,8 +13976,7 @@ effect  equivalent  (not  to  a  hundred  indeed,  but)  to  ten
 other  (stanzas)  that  are  prominent.
 
 6.  And  whoever  in  this  world  of  mine  which  is
-corporeal  shall  mentally  recall,  O  Spitama*  Zarathu-
-stra. !  a  portion  of  the  Ahuna-vairya,  and  having  thus
+corporeal  shall  mentally  recall,  O  Spitama*  Zarathustra. !  a  portion  of  the  Ahuna-vairya,  and  having  thus
 recalled  it,  shall  undertone  it,  or  beginning  to  recite
 it  with  the  undertone,  shall  then  utter  it  aloud,  or
 chanting  it  with  intoning  voice,  shall  worship  thus,
@@ -14968,8 +13995,7 @@ fifth,  I  who  am  Ahura  Mazda  will  draw  his  soul  off
 
 1  I  do  not  think  that  mispronunciation  is  here  intended;  the
 Pahlavi  has  abara  shutakih;  aigha^  bara  la  khelmune^;  Ner.
-na  sete.  I  am  strongly  inclined  to  read  anapashuta  for  ana-
-pishuta.
+na  sete.  I  am  strongly  inclined  to  read  anapashuta  for  anapishuta.
 
 2  Three  times  seems  to  me  to  lack  meaning,  but  it  may  have
 given  rise  to  a  foolish  belief  that  the  soul  went  three  times  before
@@ -14996,8 +14022,7 @@ Bountiful  Immortals4.
 9.  5And  the  more  bountiful G  of  the  two  Spirits
 (Ahura)  declared  to  me7  (Zarathmtra)  the  entire
 creation  of  the  pure,  that  which  exists  at  present,
-that  which  is  in  the  course  of  emerging  into  exist-
-ence 8,  and  that  which  shall  be,  with  reference  to  the
+that  which  is  in  the  course  of  emerging  into  existence 8,  and  that  which  shall  be,  with  reference  to  the
 performance  and  realisation  '  of  the  actions  of  a  life
 devoted  to  Mazda9.'
 
@@ -15015,8 +14040,7 @@ a  nature,  that  if  all  the  corporeal  and  living  world
 4  Enabling  us  to  receive  the  blessings  which  they  bestow  through
 the  influence  of  the  sun.  '  The  sun-shaped  matter '  would  give
 us  a  materialism.  The  Pahlavi  has  '  levino  min  zak  khurkhshea'o
-brino  (?)  kerpo  tanu  i  khurkhshe</  pavan  bara  ayapakih  i  amesho-
-spendano  yehabun<f.'
+brino  (?)  kerpo  tanu  i  khurkhshe</  pavan  bara  ayapakih  i  ameshospendano  yehabun<f.'
 
 5  I  hold  that  Ahura  speaks  no  further  here.
 
@@ -15048,11 +14072,9 @@ regulator  V  so  (by  thus  reciting  these  authoritative
 words),  he  acknowledges  Ahura  Mazda  (as  prior  to,
 and  supreme)  over,  those  creatures  who  have  '  the
 mind' 3  as  their  first.  '  As  '  he  acknowledges  Him
-as  the  greatest  of  them  all,  'so'  he  assigns  the  crea-
-tures to  Him  (as  to  their  originator).
+as  the  greatest  of  them  all,  'so'  he  assigns  the  creatures to  Him  (as  to  their  originator).
 
-1 3.  As  he  undertones  the  third  sentence,  he  there-
-by announces  that  'all  the  amenities  of  life  appertain
+1 3.  As  he  undertones  the  third  sentence,  he  thereby announces  that  'all  the  amenities  of  life  appertain
 to  the  'good'  Mazda4,  (and  come)  from  Him.  As
 he  recites  '  dazda  manangho,'  '  the  creator  of  mind,'
 he  acknowledges  Him  as  superior  and  prior  to  mind  ;
@@ -15061,8 +14083,7 @@ truth)  to  mind,  (saying)  '  manangho  of  mind,'  which
 means  that  by  this  much  he  makes  Him  (its  director),
 and  then  he  makes  Him  '  the  lord  of  actions 5.'
 
-14.  And  when  he  acknowledges  Him  for  the  crea-
-tures thus,  'O  Mazda6!'  he  acknowledges  Him  (as
+14.  And  when  he  acknowledges  Him  for  the  creatures thus,  'O  Mazda6!'  he  acknowledges  Him  (as
 
 1  Or,  '  it  has  been  declared  to  us,  the  learner,  and  the  one  in
 charge  of  the  ritual.'
@@ -15072,8 +14093,7 @@ charge  of  the  ritual.'
 3  See  dazda  manangho,  coming  '  before  '  jkyaothananam  angheus,
 khshathrem,  and  vastarem.
 
-4  Can  the  Ahuna  have  lost  words,  and  is  Mazdau  hu^itu  vang-
-heus  a  citation?  At  all  events,  the  Zandist  errs  in  separating
+4  Can  the  Ahuna  have  lost  words,  and  is  Mazdau  hu^itu  vangheus  a  citation?  At  all  events,  the  Zandist  errs  in  separating
 vanghau  from  manangho.  He  attributes  mystical  meaning  to
 every  word.
 
@@ -15086,20 +14106,17 @@ every  word.
 their  ruler)  when  he  assigns  the  creatures  to  Him
 thus.  He  then  assigns  the  Kingdom  to  Ahura1,
 saying :  '  Thine,  O  Mazda!  is  the  Kingdom.'  And  he
-assigns  a  nourisher  and  protector  to  the  poor,  say-
-ing:  Yim  drigubyo  dada/  vastarem ;  that  is,  as  a
+assigns  a  nourisher  and  protector  to  the  poor,  saying:  Yim  drigubyo  dada/  vastarem ;  that  is,  as  a
 friend  to  Spitama 2.  This  is  the  fifth  sentence,  (and
 it  concludes)  the  entire  recital  and  word,  (even)  the
 whole  of  this  word  of  Ahura  Mazda 3.
 
-15.  He  who  is  the  best  (of  all)  Ahura  Mazda,  pro-
-nounced the  Ahuna-vairya,  and  as  He  pronounced  it
+15.  He  who  is  the  best  (of  all)  Ahura  Mazda,  pronounced the  Ahuna-vairya,  and  as  He  pronounced  it
 as  the  best,  so  He  caused  it  to  have  its  effect4,  (He,
 ever)  the  same,  (as  He  is).
 
 The  evil  one  at  once5  arose  (to  oppose  Him),  but
-He  (Ahura)  repelled  that  wicked  one  with  His  inter-
-dict, and  with  this  repelling  renunciation  :  Neither
+He  (Ahura)  repelled  that  wicked  one  with  His  interdict, and  with  this  repelling  renunciation  :  Neither
 our  minds  are  in  harmony,  nor  our  precepts,  nor  our
 comprehensions,  nor  our  beliefs,  nor  our  words,  nor
 our  actions,  nor  our  consciences,  nor  our  souls  G !
@@ -15145,11 +14162,9 @@ men  ?  (Answer.)  The  priest,  the  charioteer  (as  the
 chief  of  warriors),  the  systematic  tiller1  of  the  ground,
 and  the  artisan2.  These  classes  therefore  accompany
 the  religious  man  throughout  his  entire  duty  3  with
-the  correct  thought,  the  truthful  word,  and  the  right-
-eous action.  These  are  the  classes  and  states  in
+the  correct  thought,  the  truthful  word,  and  the  righteous action.  These  are  the  classes  and  states  in
 life  which  give  attention  to  the  rulers  4,  and  fulfil  the
-(laws)  of  religion  ;  (yea,  they  are  the  guides  and  com-
-panions of  that  religious  man)  through  whose  actions
+(laws)  of  religion  ;  (yea,  they  are  the  guides  and  companions of  that  religious  man)  through  whose  actions
 the  settlements  are  furthered  in  righteousness.
 
 18.  (Question.)  How  are  the  chiefs  (constituted)?
@@ -15158,10 +14173,8 @@ and  the  tribe-chief,  the  chief  of  the  province,  and  the
 Zarathartra 5  as  the  fifth.  That  is,  so  far  as  those
 provinces  are  concerned  which  are  different  from,
 and  outside  of  the  Zarathiutrian  regency,  or  domain.
-[Ragha c  which  has  four  chiefs  (only)  is  the  Zarathu-
-rtrian  (district)  ].  (Question.)  How  are  the  chiefs  of
-this  one  constituted  ?  (Answer.)  They  (are)  the  house-
-chief,  the  village-chief,  the  tribe-chief,  and  the  Zara-
+[Ragha c  which  has  four  chiefs  (only)  is  the  Zarathurtrian  (district)  ].  (Question.)  How  are  the  chiefs  of
+this  one  constituted  ?  (Answer.)  They  (are)  the  housechief,  the  village-chief,  the  tribe-chief,  and  the  Zara-
 thustra  as  the  fourth.  19.  (Question.)  What  is  the
 thought  well  thought  ?  (Answer.)  (It  is  that  which
 the  holy  man  thinks),  the  one  who  holds  the  holy
@@ -15187,8 +14200,7 @@ thought  to  be  before  all  other  things  7.     (Question.)
 What  is  the  word  well  spoken  ?  (Answer.)  It  is  the
 Mathra  Spewta1,  the  bounteous  word  of  reason.
 (Question.)  What  is  the  deed  well  done  ?  (Answer.)
-It  is  that  done  with  praises 2,  and  by  the  crea-
-tures who  regard  Righteousness  as  before  all  other
+It  is  that  done  with  praises 2,  and  by  the  creatures who  regard  Righteousness  as  before  all  other
 things.  20.  (Question.)  Mazda  made  a  proclamation,
 whom  did  He  announce  ?  (Answer.)  Some  one  who
 was  holy,  and  yet  both  heavenly  and  mundane 3.
@@ -15196,12 +14208,10 @@ was  holy,  and  yet  both  heavenly  and  mundane 3.
 this  sacred  enunciation  ?  (Answer.)  He  who  is  the
 best  (of  all),  the  ruling  one.  (Question.)  Of  what
 character  (did  He  proclaim  him  the  coming  one)  ?
-(Answer.)  As  holy  and  the  best,  a  ruler  who  exer-
-cises no  wanton  or  despotic  power  4.
+(Answer.)  As  holy  and  the  best,  a  ruler  who  exercises no  wanton  or  despotic  power  4.
 
 21.  We  sacrifice  to  the  (several)  part(s)  of  the
-Ahuna-vairya.  We  sacrifice  to  the  memorised  re-
-cital of  the  Ahuna-vairya,  and  its  regular  chanting
+Ahuna-vairya.  We  sacrifice  to  the  memorised  recital of  the  Ahuna-vairya,  and  its  regular  chanting
 and  its  use  in  the  full  Yasna.
 
 
@@ -15223,8 +14233,7 @@ Asha,   the   holy  ritual   sanctity,  one   attributes   the
 
 3  The  Saoshyawt.
 
-4  The  latter  part  of  this  Zand  shows  that  the  Ratu  was  recog-
-nised as  a  human  ruler  in  it.
+4  The  latter  part  of  this  Zand  shows  that  the  Ratu  was  recognised as  a  human  ruler  in  it.
 
 6  Elsewhere  verbally  different;  'when  Asha  is  for  A.V.'
 
@@ -15232,8 +14241,7 @@ nised as  a  human  ruler  in  it.
 YASNA    XX.  267
 
 
-qualities  of  '  good  '  and  '  best,'  as  one  attributes  pro-
-perty to  an  owner  ;  thus  this  sentence  vohu  vahi^tem
+qualities  of  '  good  '  and  '  best,'  as  one  attributes  property to  an  owner  ;  thus  this  sentence  vohu  vahi^tem
 asti  is  substantiated  (at  once  x).
 
 2.  Una  asti  usta  ahmai  ;  by  this  attribution  of
@@ -15242,8 +14250,7 @@ thing)  of  a  sacred  nature  to  every  holy  person,  and
 as  one  usually  (?)  and  regularly  (?) 2  assigns  every
 person  or  thing  (?)  3  that  is  holy  to  every  holy  man.
 
-3.  Yya^  ashai  vahLrtai 4 ;  by  these  words  the  wor-
-shipper ascribes  the  entire  Mathra  (to  Asha  Vahlrta),
+3.  Yya^  ashai  vahLrtai 4 ;  by  these  words  the  worshipper ascribes  the  entire  Mathra  (to  Asha  Vahlrta),
 and  ascribes  all  to  the  Mathra,  as  one  ascribes  the
 kincrdom  to  Righteousness,  and  as  one  ascribes
 righteousness  to  the  invoking  saint ;  yea,  as  one
@@ -15285,8 +14292,7 @@ capricious  tyranny.
 
 We  sacrifice  to  the  (several)  part(s)  of  the  Asha
 VahLrta  (prayer).  We  sacrifice  to  the  heard-recital
-of  the  Asha  Vahiita,  to  its  memorising,  its  chant-
-ing, and  its  sacrificial  use  : !
+of  the  Asha  Vahiita,  to  its  memorising,  its  chanting, and  its  sacrificial  use  : !
 
 
 YASNA  XXI.
@@ -15310,8 +14316,7 @@ and  females  (of  the  saints)  !)
 2  The  expressions  in  this  prayer  were  suggested  by  Y.  LI,  22  ;
 but  the  Zand  does  not  consistently  follow  the  thoughts  in  the
 Gatha.  Tnn  understood  should  be  supplied  as  an  object  for
-yazamaide  in  connection  with  yeNhe,  as  well  as  taus/'a  for  y^ung-
-ham.  In  Y.  LI,  22,  it  is,  however,  by  no  means  certain  that  yazai
+yazamaide  in  connection  with  yeNhe,  as  well  as  taus/'a  for  y^ungham.  In  Y.  LI,  22,  it  is,  however,  by  no  means  certain  that  yazai
 applies  to  a  tern  yehya.  Holding  the  twenty-first  verse  in  mind,
 I  am  obliged  to  refer  yehya  to  na  spe«to.  Here,  however,  men  and
 women  are  worshipped,  as  it  is  improbable  that  the  '  Immortals '
@@ -15323,8 +14328,7 @@ yazai  Avais  nammu  of  Y.  LI,  22.
 Or  did  the  composer  of  the  prayer  correctly  render  Y.  LI,  22,
 and  boldly  write  his  succinct  words  as  being  clear  to  his  hearers
 from  explanations  which  are  now  lost  ?  Such  explanations  (oral
-or  written)  as  a  matter  of  course  existed  from  the  first.  No  com-
-poser fails  to  discuss  his  productions.
+or  written)  as  a  matter  of  course  existed  from  the  first.  No  composer fails  to  discuss  his  productions.
 
 
 YASNA    XXI.  269
@@ -15343,14 +14347,12 @@ homage  to    the   Immortals.     These    are   the  three
 sentences  which  comprehend  all  the  Yasnian  speech.
 (Question.)     To   whom    is    this  Yasna   addressed?
 (Answer.)  To  the  Bountiful  Immortals  (in  the  course
-of  the  Yasna).     3.  Thereupon  spake  Mazda  :   Salva-
-tion to  this  one,  whosoever  he  may  be !     May  the
+of  the  Yasna).     3.  Thereupon  spake  Mazda  :   Salvation to  this  one,  whosoever  he  may  be !     May  the
 absolute  ruler  Ahura  grant  it.    (Question.)    4.  Whom
 did  He  answer  with  this  answer?     (Answer.)     He
 answered  :    The  state  of  salvation ;   and  with  this
 answer,  '  the  state  of  salvation,'  he  answered  every
-saint  who  exists,  every  one  who  is  coming  into  exist-
-ence, and  every  one  who  shall  exist  in  the  future.
+saint  who  exists,  every  one  who  is  coming  into  existence, and  every  one  who  shall  exist  in  the  future.
 (Question.     Who    answered   thus  ?    Answer.)    The
 best     One.      (Question.     What    did    He    answer  ?)
 (Answer.)    The  best  thing.    (That  is,)  the  best  One,
@@ -15383,18 +14385,15 @@ milk,  and  this  plant  Hadhanaepata.  2.  And,  as  an
 act  of  worship  to  the  beneficent. waters,  I  desire  to
 approach  these  Zaothras  with  (my)  praise  offered  (as
 they  are)  with  punctilious  sanctity,  having  the
-Haoma  with  them,  and  the  flesh,  with  the  Hadha-
-naepata. And  I  desire  to  approach  the  Haoma-
+Haoma  with  them,  and  the  flesh,  with  the  Hadhanaepata. And  I  desire  to  approach  the  Haoma-
 water  with  my  praise  for  the  beneficent  waters  ;  and
 I  desire  to  approach  the  stone  mortar  and  the  iron
 mortar  with  my  praise.  3.  And  I  desire  to  approach
 this  plant  for  the  Baresman  with  my  praise,  and  the
 well-timed  prayer  for  blessings,  that  which  has
-approached  (to  accept  our  homage),  and  the  memo-
-rised recital  and  the  fulfilment  of  the  p-ood  Mazda-
+approached  (to  accept  our  homage),  and  the  memorised recital  and  the  fulfilment  of  the  p-ood  Mazda-
 yasnian  Faith,  and  the  heard  recital  of  the  Gathas,
-and]  the  well-timed  and  successful  prayer  for  bless-
-ings, that  of  the  holy  lord  of  the  ritual  order.  And
+and]  the  well-timed  and  successful  prayer  for  blessings, that  of  the  holy  lord  of  the  ritual  order.  And
 I  desire  to  approach  these  wood-billets  and  their
 perfume  with  my  praise, — thine,  the  Fire's,  O  Ahura
 Mazda's  son  !  Yea,  I  desire  to  approach  all  good
@@ -15412,12 +14411,9 @@ Mazda's  Fire,  the  lofty  ritual  lord  1 !
 20.  And  I   desire  to  approach  this  Haoma  with
 (my)  praise,  that  which  is  thus  lifted  up  with  sanctity,
 and  this  milk  (fresh  as  it  is,  and  as  if)  living  and
-lifted  up  with  sanctity,  and  this  plant  the  Hadhanae-
-pata  lifted  up  with  sanctity.     21.   And  I   desire  to
-approach  these  Zaothras  with  (my)  praise  for  the  bene-
-ficial waters,  these  Zaothras  which  have  the  H(a)oma
-with  them  and  the  milk  with  them,  and  the  Hadhanae-
-pata,  and  which  are  lifted  up  with  sanctity.     And  I
+lifted  up  with  sanctity,  and  this  plant  the  Hadhanaepata  lifted  up  with  sanctity.     21.   And  I   desire  to
+approach  these  Zaothras  with  (my)  praise  for  the  beneficial waters,  these  Zaothras  which  have  the  H(a)oma
+with  them  and  the  milk  with  them,  and  the  Hadhanaepata,  and  which  are  lifted  up  with  sanctity.     And  I
 desire  to  approach  the  Haoma-water  with  (my)  praise
 for  the  beneficial  waters,  and  the  two  mortars,  the
 stone  one   and  the  iron   one,  (22)   and  I  desire  to
@@ -15432,8 +14428,7 @@ for  the  propitiation  of  Ahura  Mazda,  the  resplendent,
 the  glorious,  and  of  the  Bountiful  Immortals,  and  of
 Mithra  of  the  wide  pastures,  and  of  Raman  Zfoastra3,
 (24)  and  of  the  resplendent  sun,  immortal,  radiant,  of
-the  fleet  horses,  and  of  Vayu,  (of  predominant  influ-
-ence and)  working  on  high,  set  over  the  other  beings
+the  fleet  horses,  and  of  Vayu,  (of  predominant  influence and)  working  on  high,  set  over  the  other  beings
 in    the    creation  [(Pazand) ;    that    is   for   thee    thus
 (O  Vayu)  when  thine  influence  is  that  which  apper-
 
@@ -15520,8 +14515,7 @@ good  Yasnas  and  (our)  homage.     4.  Yea,  I  desire  to
 approach  the  Fravashis  of  the  saints  with  my  praise,
 redoubted    (as    they  are)    and    overwhelming,    the
 Fravashis  of  those  who  held  to  the  ancient  lore,  and
-the  Fravashis  of  the  next-of-kin  ;  and  I  desire  to  ap-
-proach toward  the  Fravashi  of  mine  own  4  soul  in  my
+the  Fravashis  of  the  next-of-kin  ;  and  I  desire  to  approach toward  the  Fravashi  of  mine  own  4  soul  in  my
 worship  with  my  praise  ;  and  I  desire  therewith  to
 approach  toward  all  the  lords  of  the  ritual,  and  with
 
@@ -15556,13 +14550,11 @@ worship),  we  present  them  to  Ahura  Mazda  ;  (yea,  we
 present)  these  Haomas,  Myazdas,  Zaothras,  and  the
 Baresman  spread  with  punctilious  sanctity,  and  the
 flesh,  and  the  milk,  fresh  as  if  living,  and  lifted  up
-with  punctilious  sanctity,  and  this  branch  the  Hadh-
-anaepata  likewise  lifted  up  with  sanctity.
+with  punctilious  sanctity,  and  this  branch  the  Hadhanaepata  likewise  lifted  up  with  sanctity.
 
 2.  (And  having  approached  these  Zaothras  in  our
 worship),  we  present  them  to  the  good  waters  having
-the  Haoma  with  them,  and  the  milk,  and  the  Hadhanae-
-pata,  and  lifted  up  with  scrupulous  sanctity  ;  and  (with
+the  Haoma  with  them,  and  the  milk,  and  the  Hadhanaepata,  and  lifted  up  with  scrupulous  sanctity  ;  and  (with
 them)  we  present  the  Haoma- water  to  the  good
 waters,  and  both  the  stone  and  the  iron  mortar.
 
@@ -15574,8 +14566,7 @@ and  the  heard  recital  of  the  Gathas,  and  the  timely
 prayer  for  blessings  which  has  approached  as  the
 prayer  of  the  holy  lord  of  the  ritual  order  ;  and  these
 wood-billets,  and  the  perfume,  (even)  thine,  the  Fire's,
-O  Ahura  Mazda's  son  !  and  all  good  objects  Mazda-
-made,  which  have  the  seed  of  righteousness,  we  offer
+O  Ahura  Mazda's  son  !  and  all  good  objects  Mazdamade,  which  have  the  seed  of  righteousness,  we  offer
 and  present.  4.  And  these  we  present  hereby  to
 Ahura    Mazda,    and    to    Sraosha    (Obedience)    the
 
@@ -15585,23 +14576,20 @@ Ahura    Mazda,    and    to    Sraosha    (Obedience)    the
 YASNA    XXIV.  275
 
 
-blessed  (and  Righteous),  and  to  the  Bountiful  Im-
-mortals ;  and  to  the  Fravashis  of  the  saints,  even
+blessed  (and  Righteous),  and  to  the  Bountiful  Immortals ;  and  to  the  Fravashis  of  the  saints,  even
 to  the  souls  of  the  saints,  and  to  the  Fire  of  Ahura
 Mazda,  the  lofty  lord  of  entire  holy  creation,  for
 sacrifice,  homage,  propitiation,  and  for  praise.
 
 5.  And  these  we  present  hereby  to  the  Fravashi
-of  Zarathuitra  Spitama,  the  saint,  for  sacrifice,  pro-
-pitiation, and  for  praise,  and  to  that  of  the  people  1
+of  Zarathuitra  Spitama,  the  saint,  for  sacrifice,  propitiation, and  for  praise,  and  to  that  of  the  people  1
 who  love  Righteousness,  with  all  the  holy  Fravashis
 of  the  saints  who  are  dead  and  who  are  living,  and
 to  those  of  men  who  are  as  yet  unborn,  and  to  those
 of  the  prophets  who  will  serve  us,  and  will  labour  to
 complete  the  progress  and  renovation  of  the  world  2.
 
-6.  And  we  present  these  Haomas,  Myazdas,  Zao-
-thras,  and  the  Baresman  spread  with  sanctity,  and
+6.  And  we  present  these  Haomas,  Myazdas,  Zaothras,  and  the  Baresman  spread  with  sanctity,  and
 the  flesh,  and  the  milk  (fresh  as  if)  living,  and  lifted
 up  with  sanctity,  and  the  Hadhanaepata  branch.
 
@@ -15659,12 +14647,10 @@ Mazda's  son  !  and  we  worship  all  good  objects  which
 are  Mazda-made,  and  which  contain  (and  are)  the
 seed  of  Righteousness.
 
-4.  And  we  worship  Ahura  Mazda  with  our  sacri-
-fice, the  resplendent,  the  glorious,  and  the  Bountiful
+4.  And  we  worship  Ahura  Mazda  with  our  sacrifice, the  resplendent,  the  glorious,  and  the  Bountiful
 Immortals  who  rule  aright,  and  who  dispose  (of  all)
 aright,  and  Mithra  of  the  wide  pastures  and  Raman
-//yastra  ;  and  we  worship  the  shining  sun,  the  re-
-splendent, the  immortal,  of  the  fleet  horses.
+//yastra  ;  and  we  worship  the  shining  sun,  the  resplendent, the  immortal,  of  the  fleet  horses.
 
 
 1  See  Y.  IV,  4-25,  which  is  repeated  here.      Expressions  are
@@ -15686,20 +14672,16 @@ Mazdayasnian  law.
 
 6.  And  we  worship  the  Mathra  Spe^ta  verily
 glorious  (as  it  is),  even  the  law  pronounced  against
-the  Daevas,  the  Zarathuitrian  law,  and  its  long  de-
-scent l ;  yea,  we  worship  the  good  Mazdayasnian
+the  Daevas,  the  Zarathuitrian  law,  and  its  long  descent l ;  yea,  we  worship  the  good  Mazdayasnian
 Religion,  and  the  Mathra  which  is  heart-devoted  and
 bounteous  (imparting  heart's  devotion  to  the  saint) ;
-yea,  we  worship  the  Mazdayasnian  Religion  main-
-tained in  the  understanding 2  of  the  saint ;  and  we
+yea,  we  worship  the  Mazdayasnian  Religion  maintained in  the  understanding 2  of  the  saint ;  and  we
 honour  that  science  which  is  the  Mathra  Spe?^ta,  and
-the  innate  understanding  Mazda-made,  and  the  de-
-rived understanding,  heard  with  ear,  and  Mazda-
+the  innate  understanding  Mazda-made,  and  the  derived understanding,  heard  with  ear,  and  Mazda-
 made.
 
 7.  Yea,  we  worship  thee,  the  Fire,  Ahura  Mazda's
-son !  the  holy  lord  of  the  ritual  order  ;  and  we  wor-
-ship all  the  Fires,  and  Mount  Ushi-darena  (which
+son !  the  holy  lord  of  the  ritual  order  ;  and  we  worship all  the  Fires,  and  Mount  Ushi-darena  (which
 holds  the  light 3)  Mazda-made  and  holy,  the  Yazad
 mount,  brilliant  with  sanctity.  8.  And  we  worship
 every  holy  spiritual 4  Yazad  ;  and  every  holy  earthly
@@ -15710,8 +14692,7 @@ Yazad  (who  exists)  !
 
 2  Or  maintaining  the  understanding.
 
-3  A   sunrise  or  sunset  mountain;    see  the  word  applied  intel-
-lectually just  previously,  also  previous  notes  on  it.
+3  A   sunrise  or  sunset  mountain;    see  the  word  applied  intellectually just  previously,  also  previous  notes  on  it.
 
 4  That  is,  heavenly.
 
@@ -15732,8 +14713,7 @@ the  Da/^yumas  1,  and  the  Zarathustrotemas.
 here  the  Fravashi  of  Ahura  Mazda,  which  is  the
 greatest  and  the  best,  the  most  beautiful  and  the
 firmest,  the  most  wise  and  the  best  in  form,  and  the
-one  that  attains  the  most  its  ends  because  of  Right-
-eousness. 3.  And  (having  invoked  them)  hither,  we
+one  that  attains  the  most  its  ends  because  of  Righteousness. 3.  And  (having  invoked  them)  hither,  we
 worship  the  good,  heroic,  bountiful  Fravashis  of  the
 holy  ones,  those  of  the  Bountiful  Immortals,  the
 brilliant,  of  effective  glance,  the  lofty,  the  devoted,
@@ -15764,15 +14744,13 @@ the  life,  conscience,  intelligence,  soul  and  Fravashi
 of  the  next  of  kin,  of  the  saints  male  and  female
 who  have  striven  after  the  ritual  truth,  which  are
 those  of  the  dead  and  living  saints,  and  which  are
-those  also  of  men  as  yet  unborn,  of  the  future  pro-
-phets who  will  help  on  the  renovation,  and  complete
+those  also  of  men  as  yet  unborn,  of  the  future  prophets who  will  help  on  the  renovation,  and  complete
 the  human  progress,  with  them  all.
 
 7.  And  (having  invoked  them)  hither,  we  worship
 the  souls  of  the  dead  [(Pazand)  which  are  the
 Fravashis  of  the  saints  J]  ;  and  of  all  the  next  of  kin
-who  have  passed  away  in  this  house,  of  the  Aethra-
-paitis  (the  teachers)  and  of  the  disciples  ;  yea,  of  all
+who  have  passed  away  in  this  house,  of  the  Aethrapaitis  (the  teachers)  and  of  the  disciples  ;  yea,  of  all
 holy  men  and  women ;  (8)  and  we  worship  the
 Fravashis  of  all  the  holy  teachers  and  disciples  ;  and
 of  all  the  saints  both  male  and  female.
@@ -15816,12 +14794,10 @@ Aeshma  of  the  bloody  spear,  and  the  Mazainya
 Daevas,  and  to  smite  all  the  wicked  Varenya
 Daevas.
 
-2.  And  this  is  to  further  Ahura  Mazda,  the  re-
-splendent, the  glorious,  to  further  the  Bountiful
+2.  And  this  is  to  further  Ahura  Mazda,  the  resplendent, the  glorious,  to  further  the  Bountiful
 Immortals,  and  the  influences  of  the  star  Tistrya,  the
 resplendent,  the  glorious,  (and)  to  the  furtherance  of
-the  holy  man,  and  of  all  the  (bountiful  and)  holy  crea-
-tures of  the  Bounteous  Spirit.
+the  holy  man,  and  of  all  the  (bountiful  and)  holy  creatures of  the  Bounteous  Spirit.
 
 3-5 5.  6.  The  Haomas  are  crushed,  O  Mazda,
 Khshathra,  and  Asha,  O  ye  Lords  !  Good  is  Sraosha
@@ -15858,8 +14834,7 @@ YASNA    XXXV.
 
 brought  forward1  with  holy  act,  and  with  that  of  the
 correctly  uttered  words  likewise  ;  and  therefore  may
-they  be  to  us  the  more  saving  in  their  wise  signifi-
-cance.
+they  be  to  us  the  more  saving  in  their  wise  significance.
 
 8-12  2.  13.  As  the  Ahu  is  excellent,  so  is  the
 Ratu  (one  who  rules)  from  (his)  sanctity,  a  creator
@@ -15909,24 +14884,20 @@ Gatha  Ahunavaiti  above,  pp.  2-194.
 beings,  the  very  word  yazamaide  is  applied  for  the  first  time.     On
 the  other  hand,  many  later  objects  of  worship  are  totally  absent,
 the  six  seasons  of  the  creation,  the  five  divisions  of  the  day,  the
-five  Gathas,  Zarathurtra,  the  Baresman,  the  Haoma,  &c.     A  con-
-siderable period  of  time  must  have  elapsed  since  the  Gathas  had
+five  Gathas,  Zarathurtra,  the  Baresman,  the  Haoma,  &c.     A  considerable period  of  time  must  have  elapsed  since  the  Gathas  had
 been  composed,  and  a  lengthy  period  must  also  be  supposed  to
 have  passed  before  the  Avesta  of  the  later  type  began  to  be  sung
 and  recited.    The  chapter  numbered  XLII  in  the  Vendidad  Sadah
 of  Brockhaus  (1850),  and  in  the  edition  of  Westergaard  (1852),
-and  numbered  XLI,  18-35  in  Spiegel's  edition,  seems  a  later  ad-
-dition ;  but  it  cannot  be  very  much  later,  as  it  preserves  the  dialect
+and  numbered  XLI,  18-35  in  Spiegel's  edition,  seems  a  later  addition ;  but  it  cannot  be  very  much  later,  as  it  preserves  the  dialect
 and  general  features.     An  intentional  imitation  is  not   probable.
 Spiegel  has  included  it  with  chapter  XLI  to  preserve  the  number
 '  seven  ;'  and  if  the  entire  section  is  to  be  called  '  the  Yasnas  of  the
 Seven  Chapters,'  it  should  most  certainly  not  be  numbered  XLII !
 I  so  number  merely  to  follow  Westergaard,  as   do  the  first  two
 parts  of  these  translations  from  the  Avesta.     This  portion  should
-neither  be  incorporated  with  chapter  XLI,  nor  numbered  as  a  sepa-
-rate one ;  it  should  be  noted  as  a  supplement.     The  name  '  Seven
-Chapters '  was  of  course  given  to  the  pieces  long  after  their  com-
-position.
+neither  be  incorporated  with  chapter  XLI,  nor  numbered  as  a  separate one ;  it  should  be  noted  as  a  supplement.     The  name  '  Seven
+Chapters '  was  of  course  given  to  the  pieces  long  after  their  composition.
 
 
 Praise  to  Ahura  and  the  Immortals;  Prayer  for
@@ -15944,8 +14915,7 @@ the  benignant  Religion,  the  Mazdayasnian  Faith.
 words,  and  of  good  actions,  of  those  now  and  those
 hereafter1  [(Pazand)  of  those  being  done,  and  of  those
 
-1  The  Pahlavi  translator,  as  so  often,  first  saw  the  proper  expla-
-nation here.
+1  The  Pahlavi  translator,  as  so  often,  first  saw  the  proper  explanation here.
 
 
 YASNA    XXXV.  283
@@ -15967,8 +14937,7 @@ creation),  that  she  may  have  comfort  and  have
 fodder  from  the  famed,  and  from  the  humble,  from
 the  potent  and  the  weak.
 
-5.  To  the  best  of  good  rulers  (is)  verily  the  King-
-dom, because  we  render  and  ascribe  it  to  Kim,  and
+5.  To  the  best  of  good  rulers  (is)  verily  the  Kingdom, because  we  render  and  ascribe  it  to  Kim,  and
 make  it  thoroughly  His  own  (?),  to  Mazda  Ahura
 do  we  ascribe  it,  and  to  Righteousness  the  Best.
 6.  As  thus  both  man  or  woman  knows  (the  duty),
@@ -15986,8 +14955,7 @@ so  in  the  active  fulfilment 3  of  its  (precepts)  toward
 every  one  of  the  (clean)  and  better  creatures  which
 
 1  Or,  we  are  '  purifiers,'  or  '  adorners.'  Tradition  '  spreading  from
-man  to  man,'  so  thoroughly  implanting  themselves ;  comp.  per-
-haps nid.
+man  to  man,'  so  thoroughly  implanting  themselves ;  comp.  perhaps nid.
 
 2  Hatam  in  this  sense.  s  Or,  '  in  the  house  and  stall.'
 
@@ -16133,8 +15101,7 @@ wealth.  3.  O  ye  waters  !  now  we  worship  you,  you
 that  are  showered  down,  and  you  that  stand  in  pools
 and  vats,  and  you  that  bear  forth  (our  loaded
 vessels  ?)  ye  female  Ahuras  of  Ahura,  you  that
-serve  us  (all)  in  helpful  ways,  well  forded  and  full-
-flowing,  and  effective  for  the  bathings,  we  will  seek
+serve  us  (all)  in  helpful  ways,  well  forded  and  fullflowing,  and  effective  for  the  bathings,  we  will  seek
 you  and  for  both  the  worlds !  4.  Therefore  did
 Ahura  Mazda  give  you  names,  O  ye  beneficent l
 ones!  when  He  who  made  the  good  bestowed  you.
@@ -16196,8 +15163,7 @@ prayers  to  Thee,  Ahura !  with  confessions  of  our
 sin.
 
 5.  And  we  thus  draw  near  to  Thee  together  with
-the  good  kinship  of  our  kindred,  with  that  of  Righte-
-ousness the  blessed,  and  the  good  law  of  thrift  and
+the  good  kinship  of  our  kindred,  with  that  of  Righteousness the  blessed,  and  the  good  law  of  thrift  and
 energy  and  the  good  Piety,  the  ready  mind  (within
 Thy  folk)  !
 
@@ -16312,16 +15278,14 @@ with  the  entire  collection  of  this  Yasna,  Haptanghaiti
 YASNA    XLII.  29I
 
 
-(as  we  sum  up  all).  And  we  sacrifice  to  the  foun-
-tains of  the  waters,  and  to  the  fordings  of  the  rivers,
+(as  we  sum  up  all).  And  we  sacrifice  to  the  fountains of  the  waters,  and  to  the  fordings  of  the  rivers,
 to  the  forkings  of  the  highways,  and  to  the  meetings
 of  the  roads.
 
 2.  And  we  sacrifice  to  the  hills  that  run  with
 torrents,  and  the  lakes  that  brim  with  waters,  and  to
 the  corn  that  fills  the  corn-fields  ;  and  we  sacrifice  to
-both  the  protector  and  the  Creator,  to  both  Zarathu-
-stra.  and  the  Lord.
+both  the  protector  and  the  Creator,  to  both  Zarathustra.  and  the  Lord.
 
 3.  And  we  sacrifice  to  both  earth  and  heaven,  and
 to  the  stormy  wind  that  Mazda  made,  and  to  the
@@ -16367,8 +15331,7 @@ A  Prayer  for  Sanctity  and  its  Benefits.
 
 1.  I  pray  with  benedictions  for  a  benefit,  and  for
 the  good,  even  for  the  entire  creation  of  the  holy
-(and  the  clean) ;  I  beseech  for  them  for  the  (genera-
-tion which  is)  now  alive,  for  that  which  is  just  coming
+(and  the  clean) ;  I  beseech  for  them  for  the  (generation which  is)  now  alive,  for  that  which  is  just  coming
 into  life  \  and  for  that  which  shall  be  hereafter.  And
 (I  pray  for  that)  sanctity  which  leads  to  prosperity,
 and  which  has  long  afforded  shelter  2,  which  goes  on
@@ -16377,15 +15340,13 @@ of  itself  becoming  its  close  companion  as  it  delivers
 forth  its  precepts,  (2)  bearing  every  form  of  healing
 virtue  which  comes  to  us  in  waters  4,  appertains  to
 cattle,  or  is  found  in  plants,  and  overwhelming  all
-the  harmful  malice  of  the  Daevas,  (and  their  ser-
-vants) who  might  harm  this  dwelling  5  and  its  lord,
+the  harmful  malice  of  the  Daevas,  (and  their  servants) who  might  harm  this  dwelling  5  and  its  lord,
 (3)  bringing  good  gifts,  and  better  blessings,  given
 very  early,  and  later  (gifts),  leading  to  successes,  and
 for  a  longtime  giving  shelter6.  And  so  the  greatest,
 and  the  best,  and  most  beautiful  benefits  of  sanctity
 fall  likewise  to  our  lot  (4)  for  the  sacrifice,  homage,
-propitiation,  and  the  praise  of  the  Bountiful  Immor-
-tals, for  the  bringing  prosperity  to  this  abode,  and
+propitiation,  and  the  praise  of  the  Bountiful  Immortals, for  the  bringing  prosperity  to  this  abode,  and
 for  the  prosperity  of  the  entire  creation  of  the  holy,
 
 1  Or,  '  for  that  which  is  past  ? '  bavaithyai-fa.
@@ -16407,8 +15368,7 @@ YASNA    LIV.  293
 
 and  the  clean,  (and  as  for  this,  so)  for  the  opposition
 of  the  entire  evil  creation.  (And  I  pray  for  this)  as
-I  praise  through  Righteousness,  I  who  am  benefi-
-cent, those  who  are  (likewise  of  a  better  mind) '.  5-8.
+I  praise  through  Righteousness,  I  who  am  beneficent, those  who  are  (likewise  of  a  better  mind) '.  5-8.
 (See  Y.  VIII,  5-8.)  (For  Y.  LIII,  see  Gathas,  pp.
 190-194.)
 
@@ -16416,8 +15376,7 @@ YASNA  LIV2  (Sp.  LIII).
 
 The  Airy^ma-ishyo.
 
-1.  Let  the  Airyaman,  the  desired  friend  and  peers-
-man,  draw  near  for  grace  to  the  men  and  to  the
+1.  Let  the  Airyaman,  the  desired  friend  and  peersman,  draw  near  for  grace  to  the  men  and  to  the
 women  who  are  taught  of  Zarathiutra,  for  the  joyful
 grace  of  the  Good  Mind,  whereby  the  conscience
 may  attain  its  wished-for  recompense.  I  pray  for
@@ -16426,8 +15385,7 @@ the  sacred  reward  of  the  ritual  order  which  is
 Mazda  grant 3  it,  (or  cause  it  to  increase).
 
 
-2.  We  sacrifice  to  the  Airy^ma-ishyo,  the  power-
-ful, the  victoriously  smiting,  the  opponent  of  as-
+2.  We  sacrifice  to  the  Airy^ma-ishyo,  the  powerful, the  victoriously  smiting,  the  opponent  of  as-
 saulting malice,  the  greatest  of  the  sentences  of
 the  holy  ritual  order.  And  we  sacrifice  to  the
 bounteous  Gathas  that  rule  supreme  in  the  ritual,
@@ -16466,8 +15424,7 @@ soul,  and  Fravashi.
 
 2.  That  which  Gathas  (may)  be  to  us,  which  are
 our  guardians  and  defenders,  and  our  spiritual  food,
-yea,  which  (may)  be  to  our  souls  both  food  and  cloth-
-ing, such  are  these  Gathas  to  us,  guardians,  and
+yea,  which  (may)  be  to  our  souls  both  food  and  clothing, such  are  these  Gathas  to  us,  guardians,  and
 defenders,  and  (spiritual)  food,  even  such  they  are,
 both  food  and  clothing  to  the  soul.
 
@@ -16496,10 +15453,8 @@ YASNA    LV.  295
 Mazda,  the  most  beneficent,  has  produced  them,  He
 the  one  who  is  victorious  when  He  smites,  and  who
 helps  the  settlements  advance,  for  the  protection,
-and  the  guarding  of  the  religious  order  of  the  settle-
-ments which  are  now  being  furthered,  and  of  those
-which  shall  bring  salvation  to  us,  and  for  the  protec-
-tion of  the  entire  creation  of  the  holy  (and  the
+and  the  guarding  of  the  religious  order  of  the  settlements which  are  now  being  furthered,  and  of  those
+which  shall  bring  salvation  to  us,  and  for  the  protection of  the  entire  creation  of  the  holy  (and  the
 clean).
 
 4.  And  may'st  thou,  (O  Asha !  who  abidest  within
@@ -16509,8 +15464,7 @@ help  himself2,  according  to  his  good  thoughts,  and
 words,  and  deeds.
 
 5.  We  are  therefore  worshipping  both  the  (divine)
-Righteousness  and  the  Good  Mind,  and  the  bounti-
-ful Gathas,  that  rule  as  the  leading  chants  within  (the
+Righteousness  and  the  Good  Mind,  and  the  bountiful Gathas,  that  rule  as  the  leading  chants  within  (the
 times  and  the  seasons  of)  the  holy  ritual  order.
 
 
@@ -16525,8 +15479,7 @@ advance.
 
 And  we  worship  the  part(s)4  of  the  Praises  of  the
 Yasna,  and  their  recitation  as  it  is  heard,  even  their
-memorised  recital,  and  their  chanting,  and  their  offer-
-ing (as  complete).
+memorised  recital,  and  their  chanting,  and  their  offering (as  complete).
 
 
 1  Conjectural ;  see  Ashem  below.  2  Pahlavi  avo  nafrman.
@@ -16541,11 +15494,9 @@ ing (as  complete).
 YASNA   LVI  (Sp.  LV).
 Introduction  to  the  Srosh  Vast.
 
-1.  Let  Sraosha  (the  listening  Obedience)  be  pre-
-sent here  for  the  worship  of  Ahura  Mazda,  the  most
+1.  Let  Sraosha  (the  listening  Obedience)  be  present here  for  the  worship  of  Ahura  Mazda,  the  most
 beneficent,  and  holy,  of  him)  who  is  desired  by  us  as
-at  the  first,  so  at  the  last ;  and  so  again  may  atten-
-tive Obedience  be  present  here  for  the  worship  of
+at  the  first,  so  at  the  last ;  and  so  again  may  attentive Obedience  be  present  here  for  the  worship  of
 Ahura  Mazda,  the  most  beneficent  and  the  holy  who
 (is  so)  desired  by  us.
 
@@ -16555,17 +15506,14 @@ and  for  the  Fravashis  of  the  saints  which  are  so
 desired  by  us,  [and  for  (their *)  souls],  as  at  the  first,
 so  at  the  last.
 
-And  thus  again  may  Sraosha  (the  listening  Obedi-
-ence) be  present  here  for  the  worship  of  the  good
+And  thus  again  may  Sraosha  (the  listening  Obedience) be  present  here  for  the  worship  of  the  good
 waters,  and  for  the  Fravashis  of  the  saints,  which
 are  so  desired  by  us,  [(and)  for  (their)  souls].
 
-3.  Let  Sraosha  (the  listening  Obedience)  be  pre-
-sent here  for  the  worship  of  the  good  waters  ;  yea,
+3.  Let  Sraosha  (the  listening  Obedience)  be  present here  for  the  worship  of  the  good  waters  ;  yea,
 let  the  good  Obedience  be  here  for  the  worship  of
 the  good  and  bountiful  Immortals  who  rule  aright,
-and  dispose  (of  all)  aright,  the  good,  and  for  the  wor-
-ship of  the  good  Sanctity,  or  Blessedness,  who  is
+and  dispose  (of  all)  aright,  the  good,  and  for  the  worship of  the  good  Sanctity,  or  Blessedness,  who  is
 closely  knit  with  the  Righteous  Order,  to  perfect  us,
 and  to  incite  us.  May  Sraosha  (Obedience)  be  here
 present  for  the  worship  of  the  good  waters,  he  the
@@ -16587,8 +15535,7 @@ waters,  and  of  the  good1  and  bountiful  Immortals,
 and  of  Blessedness  the  good  who  is  closely  knit  with
 the  Righteous  Order  to  perfect  and  to  incite  us  2.
 Yea,  we  worship  Sraosha  the  blessed  and  the  stately,
-who  smites  with  victory,  and  who  furthers  the  settle-
-ments in  their  advance,  the  holy  lord  of  the  ritual
+who  smites  with  victory,  and  who  furthers  the  settlements in  their  advance,  the  holy  lord  of  the  ritual
 order 3.
 
 YASNA-  LVII  (Sp.  LVI).
@@ -16600,8 +15547,7 @@ The  Srosh  Yast4.
 Propitiation  be  to  Sraosha,  Obedience  the  blessed,
 the  mighty,  the  incarnate  word  of  reason,  whose  body
 is  the  Mathra,  him  of  the  daring  spear,  devoted  to
-the  Lord,  for  (his)  sacrificial  worship,  homage,  pro-
-pitiation, and  praise.
+the  Lord,  for  (his)  sacrificial  worship,  homage,  propitiation, and  praise.
 
 1  Of  the  female  (feminine)  names.
 
@@ -16634,13 +15580,11 @@ and  who  furthers  the  settlements,  the  holy,  (ruling)
 as  the  ritual  lord.  Him  do  we  worship,  who  in  l  the
 creation  of  Mazda  the  first  adored  Ahura,  with  the
 Baresman  spread,  who  worshipped  the  Bountiful
-Immortals2  (first),  who  worshipped  both  the  pro-
-tector and  the  Creator,  who  are  :;  (both)  creating  all
+Immortals2  (first),  who  worshipped  both  the  protector and  the  Creator,  who  are  :;  (both)  creating  all
 things  in  the  creation.
 
 3.  For  his  splendour  and  his  glory,  for  his  might,
-and  the  blow  which  smites  with  victory,  I  will  wor-
-ship him  with  the  Yasna  of  the  Yazads,  with  a  Yasna
+and  the  blow  which  smites  with  victory,  I  will  worship him  with  the  Yasna  of  the  Yazads,  with  a  Yasna
 loud  intoned,  him  Obedience  the  blessed,  with  the
 consecrated  waters,  and  the  good  Blessedness,  the
 lofty,  and  Nairya-sangha,  the  stately  ;  and  may  he
@@ -16698,13 +15642,11 @@ who  furthers  the  settlements,  the  holy  ritual  chief.
 
 8.  Who  first  chanted  the  Gathas,  the  five  2  Gathas
 of  Zarathu^tra,  the  Spitama,  the  holy  (with  the
-fashion)  of  their  metres  3,  and  after  the  well-con-
-structed order  of  their  words,  together  with  the  Zand
+fashion)  of  their  metres  3,  and  after  the  well-constructed order  of  their  words,  together  with  the  Zand
 which  they  contain,  and  the  questions 4  which  they
 
 1  Le  Barsom  est  de  cinq  branches  dans  les  Darouns  ordinaires.
-II  est  de  sept  branches  pour  le  Daroun  No  naber,  pour  le  Freoues-
-chi,  et  pour  le  Gahanbar.  II  est  de  neuf  branches  pour  le  Daroun
+II  est  de  sept  branches  pour  le  Daroun  No  naber,  pour  le  Freoueschi,  et  pour  le  Gahanbar.  II  est  de  neuf  branches  pour  le  Daroun
 des  Rois,  et  pour  celui  du  Mobed  des  Mobeds  (Anquetil).
 
 2  This  proves  that  the  Gathas  were  greatly  older  than  this
@@ -16745,8 +15687,7 @@ and  the  stately,  him  who  smites  with  the  blow  of
 victory,  who  furthers  the  settlements,  the  holy  ritual
 chief,  as  the  energetic,  and  the  swift,  the  strong,  the
 daring  (and  redoubted)  hero,  (12)  who  comes  back
-from  all  his  battles  (and  comes  from  them)  a  con-
-queror, who  amid  the  Bountiful  Immortals  sits  as
+from  all  his  battles  (and  comes  from  them)  a  conqueror, who  amid  the  Bountiful  Immortals  sits  as
 companion  at  their  meeting 3.
 
 For  his  splendour  and  his  glory,  for  his  might  ....
@@ -16789,13 +15730,11 @@ VII.
 
 1 5.  We  worship  Sraosha  (Obedience)  the  blessed
 and  the  stately,  who  is  the  conqueror  of  the  Kayadha,
-and  the  Kaidhya,  who  was  the  smiter  of  the  Lie-
-demon  of  the  Daevas,  the  one  veritably  powerful,
+and  the  Kaidhya,  who  was  the  smiter  of  the  Liedemon  of  the  Daevas,  the  one  veritably  powerful,
 the  destroyer  of  the  wrorld,  who  is  the  guardian  and
 watchman  over  all  the  migrations  (?)  of  the  tribes.
 
-16.  Who  sleeplessly  and  vigilant  guards  the  crea-
-tures of  Ahura,  who  sleeplessly  and  with  vigilance
+16.  Who  sleeplessly  and  vigilant  guards  the  creatures of  Ahura,  who  sleeplessly  and  with  vigilance
 
 1  =rkat-tarejtemem,  comp.  for  form  katpayam.
 
@@ -16834,8 +15773,7 @@ healer,  the  beautiful,  the  kingly 3,  of  the  golden
 eye,  (20)  of  the  gracious  words 4,  of  the  warning  and
 the  guarding  words,  who  intones  our  hymns  on
 every  side 5,  who  possesses  understanding  and  of
-every  brilliant  form,  which  abounds  in  many  an  ex-
-planation 6  and  revelation  of  the  word,  who  has  the
+every  brilliant  form,  which  abounds  in  many  an  explanation 6  and  revelation  of  the  word,  who  has  the
 first  place  in  the  Mathra.
 
 For  his  splendour  and  his  glory,  for  his  might  ....
@@ -16862,12 +15800,10 @@ and  read  as  alternative  '  brilliant.'
 YASNA    LVII.  3°3
 
 
-whose  house  stands  with  its  thousand  pillars,  as  vic-
-torious, on  the  highest  height  of  high  Haraiti,  self-
+whose  house  stands  with  its  thousand  pillars,  as  victorious, on  the  highest  height  of  high  Haraiti,  self-
 lighted  from  within,  star-studded  from  without,  (22)
 to  whom  the  Ahuna-vairya  has  come,  the  axe  of
-victory1,  and  the  Haptanghaiti,  and  the  Fshusho-
-mathra  which  smites  with  victory,  and  all  the  Yasna
+victory1,  and  the  Haptanghaiti,  and  the  Fshushomathra  which  smites  with  victory,  and  all  the  Yasna
 sections.
 
 For  his  splendour  and  his  glory,  for  his  might  ....
@@ -16875,26 +15811,22 @@ For  his  splendour  and  his  glory,  for  his  might  ....
 X.
 
 23.  We  worship  Sraosha  (Obedience)  the  blessed,
-by  whose  might  and  victorious  power,  and  wise  con-
-duct, and  (full)  knowledge,  the  Bountiful  Immortals2
+by  whose  might  and  victorious  power,  and  wise  conduct, and  (full)  knowledge,  the  Bountiful  Immortals2
 descend  upon  this  earth  of  seven  quarters.
 
 24.  Who  as  teacher  of  the  law  will  stride  forth
 upon  this  earth  with  its  dwellers  in  the  body,  and
 ruling  as  he  will.
 
-And  in  this  Religion,  Ahura  Mazda  has  been  con-
-fessed 3  with  faith,  and  the  Good  Mind  likewise  with
-Him,  and  Righteousness  the  Best,  and  Khshathra-
-vairya,  and  Piety  the  Bounteous,  and  the  Universal
+And  in  this  Religion,  Ahura  Mazda  has  been  confessed 3  with  faith,  and  the  Good  Mind  likewise  with
+Him,  and  Righteousness  the  Best,  and  Khshathravairya,  and  Piety  the  Bounteous,  and  the  Universal
 Weal  and  Immortality';  and  the  question  to  the  Lord
 is  asked,  and  Mazda's  lore  (is  written).
 
 25.  O  Sraosha  (Obedience),  thou  blessed  one,  and
 stately !  protect  us  for  the  lives  ;  yea,  for  both,  (for
 that)  of  this  world  which  is  corporeal,  and  for  the
-world  of  mind,  against  unhappy  4  death,  and  the  re-
-morseless Wrath  of  rapine,  against  the  hosts  with
+world  of  mind,  against  unhappy  4  death,  and  the  remorseless Wrath  of  rapine,  against  the  hosts  with
 ill-intent,  who  lift  their  bloody  spears 5  against  us ;
 
 1  Comp.Vend.  XIX,  10.
@@ -16927,8 +15859,7 @@ obeying  before  speech,  heeding  orders  from  the
 mind,  with  their  hoofs  of  horn  gold-covered,  (28)
 fleeter  than  (our)  horses,  swifter  than  the  winds,  more
 rapid  than  the  rain(-drops  as  they  fall)  ;  yea,  fleeter
-than  the  clouds,  or  well-winged  birds,  or  the  well-
-shot  arrow  as  it  flies 5,  (29)  which  overtake  these  swift
+than  the  clouds,  or  well-winged  birds,  or  the  wellshot  arrow  as  it  flies 5,  (29)  which  overtake  these  swift
 ones  all,  as  they  fly  after 6  them  pursuing,  but  which
 are  never  overtaken  when  they  flee,  which  plunge
 away  from  both  the  weapons  (hurled  on  this  side
@@ -16985,8 +15916,7 @@ the  Mathra.
 Yea,  we  worship  (all  the  martial  gifts)  of
 Sraosha  (Obedience)  the  mighty,  both  armed  with
 shielding  armour,  and  a  warrior  strong  of  hand,
-skull-cleaver  of  the  Daevas,  conquering  the  en-
-dowments :'  of  the  conqueror,  the  holy  conqueror
+skull-cleaver  of  the  Daevas,  conquering  the  endowments :'  of  the  conqueror,  the  holy  conqueror
 of  the  conqueror,  and  (his)  victorious  powers,  and
 the  Ascendency  which   it  bestows,  and  we  worship
 
@@ -17005,8 +15935,7 @@ Ya^t.
 306  YASNA    LVIII.
 
 
-this  Ascendency  of  Sraosha's  (the  same  which  con-
-quers theirs) ;  and  that  of  Arrti  do  we  praise  as  well.
+this  Ascendency  of  Sraosha's  (the  same  which  conquers theirs) ;  and  that  of  Arrti  do  we  praise  as  well.
 34.  And  every  house  by  Sraosha  guarded  do  we
 worship,  wherein  the  blessed  friendly  Sraosha  is
 befriended  and  made  welcome,  where  the  holy  man
@@ -17015,8 +15944,7 @@ words  and  deeds.
 
 For  his  splendour  and  his  glory,  for  his  might,  which  smites  with
 victory,  I  will  worship  him  with  the  Yasna  of  the  Yazads,  with  a
-Yasna  loud-intoned,  him  Obedience  the  blessed,  with  the  conse-
-crated waters,  and  the  good  Blessedness,  the  lofty,  and  Nairya-
+Yasna  loud-intoned,  him  Obedience  the  blessed,  with  the  consecrated waters,  and  the  good  Blessedness,  the  lofty,  and  Nairya-
 sangha,  the  stately,  and  may  he  come  to  us  to  aid  us,  he  who  smites
 with  victory,  Obedience  the  blessed  !
 
@@ -17030,8 +15958,7 @@ and  praise  of  God)  we  offer  this  service2  which,  as
 our  defence3,  may  shield  us,  which  is  worship4  with
 its  beneficent  results ;  and  Blessedness  is  with  it  of
 a  verity5,  and  Piety  as  well.  [  (Pazand)  and  of  this
-worship  the  results  here  mentioned  are  the  well-
-thought  thought,  the  word  well  spoken,  and  the
+worship  the  results  here  mentioned  are  the  wellthought  thought,  the  word  well  spoken,  and  the
 deed  well  done]  ;  and  let  this  our  worship  shelter
 us  from  the  Daeva  and  from  the  evil-minded  man.
 2.  And  to  this  worship  do  we  confide0  our  settle-
@@ -17059,8 +15986,7 @@ will  we  abide,  O  Ahura  Mazda !  and  with  joy.
 
 In  this  worship  do  we  exercise  our  choices ;  and
 to  it  will  we  approach,  and  to  it  will  we  belong ;
-yea,  to  revering  worship  will  we  confide  our  settle-
-ments and  persons  for  protection,  and  for  care,  for
+yea,  to  revering  worship  will  we  confide  our  settlements and  persons  for  protection,  and  for  care,  for
 guarding,  and  for  oversight,  to  such  worship  as  is
 the  praise  of  such  as  You  \
 
@@ -17072,16 +15998,14 @@ best ;  [  (Pazand)  we  therefore  offer  (this)  service  (for
 herd-owners2)]  for  the  herd-owner  is  the  father  of  the
 Kine  by  the  help  of  him  who  follows  the  ritual  order  ;
 and  he  is  the  father  of  the  holy  man  as  well,  and  of
-the  sanctified  creation3.  He  is  in  verity  the  be-
-stower  of  blessings,  and  to  him4,  O  Ye  Bountiful
+the  sanctified  creation3.  He  is  in  verity  the  bestower  of  blessings,  and  to  him4,  O  Ye  Bountiful
 Immortals5!  we  render,  (and  his  do  we  make)  Your
 greatness,  Your  goodness,  and  Your  (spiritual)
 beauty,  and  let  this  man,  the  cattle-owner,  approach
 to  guard  over  us;  and  may  he  be  our  watchman
 together  with  the  Righteous  Order,  and  with  store
 for  our  nourishment  and  full  generous  liberality,
-together  with  sharing  of  the  goods6,  with  gentle-
-ness7, and  with  Ahura  Mazda's  sacred  Fire !
+together  with  sharing  of  the  goods6,  with  gentleness7, and  with  Ahura  Mazda's  sacred  Fire !
 
 1  Khshmavato  is  often  Gathic  for  '  You.'
 
@@ -17120,15 +16044,13 @@ herds  and  healthy  men,  and  with  all  in  vigour,  and
 endowed  with  the  blessing  of  the  Lord.  7.  Praise
 to  Thee,  O  Fire  of  Ahura  Mazda!  may'st  thou  come
 to  (us  in)  the  greatest  one  of  the  engrossing  interests4
-for  the  help  of  the  great  (effort),  for  the  joy-pro-
-ducing grace  of  the  great  (interest  of  our  cause)  ;
+for  the  help  of  the  great  (effort),  for  the  joy-producing grace  of  the  great  (interest  of  our  cause)  ;
 grant  us  both  Weal  and  Deathlessness !
 
 8.  We  sacrifice  to  the  entire  collection  of  the
 Praises  of  the  Yasna,  with  the  careful  structure  of
 their  language  which  has  reached  the  most  its
-object.  And  we  offer  (our  homage)  in  our  cele-
-brations to  Thy  body,  O  Ahura  Mazda  !  the  most
+object.  And  we  offer  (our  homage)  in  our  celebrations to  Thy  body,  O  Ahura  Mazda  !  the  most
 beautiful  of  forms,  these  stars,  and  to  that  one,  the
 highest  of  the  high  [(Pazand)  such  as  the  sun  was
 called].  Yea,  we  worship  the  Praises  of  the  Yasna
@@ -17152,8 +16074,7 @@ Mutual  Blessings.
 1-17.  (See  Y.  XVII,  1-17.)  18-27.  (See  Y.
 XXVI,  t-io.)  28.  We  worship  Verethraghna,  the
 Ahura-made,  the  victorious  blow ;  and  we  worship
-the  Saoshya;zt,  who  smites  with  victory;  and  we  sacri-
-fice to  this  Baresman  with  its  Zaothra  and  its  girdle
+the  Saoshya;zt,  who  smites  with  victory;  and  we  sacrifice to  this  Baresman  with  its  Zaothra  and  its  girdle
 (which  is  its  band)  and  which  is  spread  with  sanctity.
 And  we  sacrifice  to  (our)  own  soul(s),  and  to  (our)
 own  Fravashi(s).  29.  (See  Y.  XVII,  19.)  30.  (The
@@ -17169,8 +16090,7 @@ you  (likewise)  which  is  better  than  the  good,  and
 may  that  not  happen  which  is  worse  than  the  evil,
 and  may  that  likewise  not  be  my  lot.  32.  As  (our)
 Ahu  (is)  excellent,  so  (is  our)  Ratu  (one  who  rules)
-from  his  Righteousness,  a  creator  of  mental  good-
-ness, and  of  life's  actions  done  for  Mazda,  and  the
+from  his  Righteousness,  a  creator  of  mental  goodness, and  of  life's  actions  done  for  Mazda,  and  the
 Kingdom  (is)  to  Ahura  which  to  the  poor  will  offer
 a  nurturer.  A  blessing  is  Asha  called  the  Best,  &c.
 We  sacrifice  to  the  Ahuna-vairya ;  we  sacrifice  to
@@ -17189,16 +16109,14 @@ Asha  Vahi-sta  occurs  as  immediately  suggested  by  the  Ashem
 
 
 Immortal.  And  we  sacrifice  to  the  Fshiisho-mathra,
-the  by-spoken1.  And  we  sacrifice  to  the  entire  col-
-lection of  the  Praises  of  the  Yasna  ;  (yea),  to  the
+the  by-spoken1.  And  we  sacrifice  to  the  entire  collection of  the  Praises  of  the  Yasna  ;  (yea),  to  the
 Yasna  Praises  which  were  instituted  in  the  world
 of  yore.
 
 YASNA    LX    (Sp.  LIX).
 Prayers  for  the   Dwelling  of  the  Sacrificer*.
 
-i.  Thus  that  better  than  the  good  may  he  ap-
-proach, who  shows  to  us  straight  paths  of  profit
+i.  Thus  that  better  than  the  good  may  he  approach, who  shows  to  us  straight  paths  of  profit
 appertaining  to  this  bodily  life  and  to  the  mental
 likewise,  in  the  eternal  (?)  realms  where  dwells  Ahura  ;
 yea,  may  he  approach  it,  who  is  Thy  worthy  servant,
@@ -17206,8 +16124,7 @@ and  good  citizen,  O  Great  giver  Lord3 !
 
 2.  May  these  blessings  approach  this  house,  which
 are  the  wise  perceptions  of  the  saints,  the  sacred
-blessings  bestowed  through  the  ritual,  their  guile-
-less characteristics,  together  with  their  recognition
+blessings  bestowed  through  the  ritual,  their  guileless characteristics,  together  with  their  recognition
 of  what  is  due  ;  and  may  the  Righteous  Order  appear
 for  this  village,  and  the  Divine  Sovereign  Power,
 together  with  the  benefit  and  glorious  welfare  (which
@@ -17237,8 +16154,7 @@ YASNA    LX.  3II
 
 may  the  rewarded  sanctity  and  the  strength  of  the
 holy  man  be  here,  most  speedily  as  well  Ahura's
-lore.  4.  And  may  the  good  and  heroic  and  boun-
-tiful Fravashis  of  the  saints  come  here,  and  may
+lore.  4.  And  may  the  good  and  heroic  and  bountiful Fravashis  of  the  saints  come  here,  and  may
 they  go  hand  in  hand  with  us  with  the  healing
 virtues  of  (their)  blessed  gifts  as  wide-spread  as  the
 earth,  as  far-spread  as  the  rivers,  as  high-reaching1
@@ -17246,8 +16162,7 @@ as  the  sun,  for  the  furtherance2  of  the  better  men,
 for  the  hindrance  of  the  hostile,  and  for  the  abundant
 growth  of  riches  and  of  glory.
 
-5.  May  Sraosha  (Obedience)  conquer  disobedi-
-ence3 within  this  house,  and  may  peace  triumph
+5.  May  Sraosha  (Obedience)  conquer  disobedience3 within  this  house,  and  may  peace  triumph
 over  discord  here,  and  generous  giving  over  avarice,
 reverence 3  over  contempt,  speech  with  truthful  words
 over  lying  utterance.  May  the  Righteous  Order
@@ -17326,8 +16241,7 @@ pine.'
 YASNA    LXII.  313
 
 
-(to  the  last  individual  of  each),  (3)  and  for  the  en-
-counter with,  and  the  dislodgment  of  the  Kayadhas,
+(to  the  last  individual  of  each),  (3)  and  for  the  encounter with,  and  the  dislodgment  of  the  Kayadhas,
 and  of  the  individual  Kayadhians,  male  and  female1,
 and  of  the  thieves  and  robbers,  of  the  Zandas2,  and
 the  sorcerers,  of  the  covenant  breakers,  and  of  those
@@ -17336,15 +16250,13 @@ forth  for  the  encounter  with,  and  for  the  overthrow
 of  the  murderers  of  the  saints,  and  of  those  who
 hate  and  torment  us  for  our  Faith,  and  of  those
 who  persecute  the  ritual,  and  the  tyrant  full  of
-death.  Yea,  let  us  peal  them  forth  for  the  en-
-counter with,  and  the  overthrow  of  the  wicked,  O
+death.  Yea,  let  us  peal  them  forth  for  the  encounter with,  and  the  overthrow  of  the  wicked,  O
 Zarathuj-tra  Spitama  !  whoever  they  may  be,  whose
 thoughts,  and  words,  and  works  are  not  congenial
 to  the  holy  ritual  laws.
 
 5.  And  how  shall  we  drive  the  Demon  of  the  Lie
-from  hence  from  us3  ?  Aye,  how  shall  we,  the  pro-
-phets who  are  yet  to  serve  and  save  (thy  people),
+from  hence  from  us3  ?  Aye,  how  shall  we,  the  prophets who  are  yet  to  serve  and  save  (thy  people),
 drive  the  Druf  from  hence,  so  that  we,  having  power
 over  her  as  being  utterly  without  power,  may  drive
 her  hence  with  blow  from  the  seven  Karshvars,  for
@@ -17370,8 +16282,7 @@ interpolation.
 14  YASNA    LXII.
 
 
-of  salvation,  even  as  an  offering  of  praise  with  benedic-
-tions, to  thee,  the  Fire,  O  Ahura  Mazda's  son  !  Meet
+of  salvation,  even  as  an  offering  of  praise  with  benedictions, to  thee,  the  Fire,  O  Ahura  Mazda's  son  !  Meet
 for  sacrifice  art  thou,  and  worthy  of  (our)  homage.
 And  as  meet  for  sacrifice,  and  thus  worthy  of  our
 homage,  may'st  thou  be  in  the  houses  of  men  (who
@@ -17381,20 +16292,16 @@ hand,  and  Baresman  ready,  with  flesh  in  hand,  and
 holding    too     the     mortar.       2.   And     may'st    thou
 be  (ever)  fed  with  wood  as  the  prescription  orders.
 Yea,  may'st  thou  have  thy  perfume  justly,  and  thy
-sacred  butter  without  fail,  and  thine  andirons  regu-
-larly placed.     Be  of  full-age  as  to  thy  nourishment,
+sacred  butter  without  fail,  and  thine  andirons  regularly placed.     Be  of  full-age  as  to  thy  nourishment,
 of  the  canon's  age  as  to  the  measure  of  thy  food,  O
 Fire,  Ahura  Mazda's  son  !    3.  Be  now  aflame1  within
 this  house  ;    be  ever  without  fail  in   flame ;    be  all
 ashine  within  this  house  ;  be  on  thy  growth  2  within
-this  house  ;  for  long  time  be  thou  thus  to  the  further-
-ance of  the  heroic  (renovation),  to  the  completion  ol
+this  house  ;  for  long  time  be  thou  thus  to  the  furtherance of  the  heroic  (renovation),  to  the  completion  ol
 (all)  progress,  yea,  even  till  the  good  heroic  (millennial)
-time  when  that  renovation  shall  have  become  com-
-plete.    4.  Give  me,  O  Fire,  Ahura  Mazda's  son  !  a
+time  when  that  renovation  shall  have  become  complete.    4.  Give  me,  O  Fire,  Ahura  Mazda's  son  !  a
 speedy  glory,  speedy  nourishment,  and  speedy  booty,
-and   abundant  glory,  abundant  nourishment,  abun-
-dant  booty,    an    expanded    mind,    and    nimbleness
+and   abundant  glory,  abundant  nourishment,  abundant  booty,    an    expanded    mind,    and    nimbleness
 of   tongue    for    soul    and    understanding,    even    an
 understanding  continually  growing  in  its  largeness,
 and  that  never  wanders  3,  and  long  enduring  virile
@@ -17413,12 +16320,10 @@ YASNA    LXII.  315
 
 
 likewise  a  wakeful  offspring,  helpful  to  nurture,  or
-reclaim,  legitimate,  keeping  order  in  men's  meet-
-ings, (yea,)  drawing  men  to  assemblies  through
+reclaim,  legitimate,  keeping  order  in  men's  meetings, (yea,)  drawing  men  to  assemblies  through
 their  influence  and  word,  grown  to  power,  skilful,
 redeeming  others  from  oppression,  served  by  many
-followers,  which  may  advance  my  line  (in  pros-
-perity and  fame),  and  (my)  Vis,  and  my  Za/ztu,  and
+followers,  which  may  advance  my  line  (in  prosperity and  fame),  and  (my)  Vis,  and  my  Za/ztu,  and
 (my)  province,  (yea,  an  offspring)  which  may  deliver
 orders  to  the  Province  as  (firm  and  righteous
 rulers).  6.  And  may'st  thou  grant  me,  O  Fire,  Ahura
@@ -17426,8 +16331,7 @@ Mazda's  Son !  that  whereby  instructors  may  be
 (given)  me,  now  and  for  evermore,  (giving  light  to  me
 of  Heaven)  the  best  life  of  the  saints,  brilliant,  all
 glorious.  And  may  I  have  experience  1  of  the  good
-reward,  and  the  good  renown,  and  of  the  long  fore-
-casting preparation  of  the  soul.  7.  The  Fire  of  Ahura
+reward,  and  the  good  renown,  and  of  the  long  forecasting preparation  of  the  soul.  7.  The  Fire  of  Ahura
 Mazda  addresses  this  admonition  to  all  for  whom  he
 cooks  the  night  and  morning  (meal).  From  all
 these,  O  Spitama !  he  wishes  2  to  secure  good  care,
@@ -17507,8 +16411,7 @@ herds  and  settlements,  holy,  and  increasing  our  wealth,
 holy,  and  helping  on  the  progress  of  the  Province,  holy
 (as  she  is)?  2.  (Ardvi  Sura  Anahita)  who  purines  the
 seed  of  all  male  beings,  who  sanctifies  the  wombs  of
-all  women  to  the  birth,  who  makes  all  women  fortu-
-nate in  labour,  who  brings  all  women  a  regular  and
+all  women  to  the  birth,  who  makes  all  women  fortunate in  labour,  who  brings  all  women  a  regular  and
 timely  flow  of  milk,  (5)  (Ardvi  Sura  Anahita)  with
 a  volume  sounding  from  afar2,  which  is  alone  equal
 in  its  bulk  to  all  the  waters  which  flow  forth  upon
@@ -17599,14 +16502,12 @@ you  this  favour ;  and  grant  ye  me  this  great  one  in
 whose  bestowal  ye  flow  down  to  me  for  the  bettering
 (of  my  state),  with  a  never-failing  truth.  O  ye
 waters,  I  beseech  of  you  for  wealth  of  many  kinds
-(which  gives)  power  (to  its  holder  1),  and  for  an  off-
-spring self-dependent  whom  multitudes  will  bless,
+(which  gives)  power  (to  its  holder  1),  and  for  an  offspring self-dependent  whom  multitudes  will  bless,
 and  for  whose  wasting,  or  defeat,  or  death,  or
 vengeful  punishment,  or  overtaking,  no  one  prays.
 12.  And  this  do  I  beseech  of  you,  O  waters,  this,
 O  ye  lands,  and  this,  ye  plants !  This  wealth  and
-offspring  I  beseech  of  You,  O  Ye  Bountiful  Immor-
-tals, who  rule  aright,  who  dispose  (of  all)  aright,  O
+offspring  I  beseech  of  You,  O  Ye  Bountiful  Immortals, who  rule  aright,  who  dispose  (of  all)  aright,  O
 Ye  good  beings,  male  and  female2,  givers  of  good
 things  ;  and  this  I  beseech  of  you,  O  ye  beneficent,
 mighty,  and  overwhelming  Fravashis  of  the  saints,
@@ -17648,8 +16549,7 @@ doctrine  3.
 
 YASNA  LXVI  (Sp.  LXV).
 To  the  Ahurian  One5.
-1.  I  am  now  offering  this  Zaothra  here  with  sanc-
-tity6, together  with  the  Haoma  and  the  flesh,  and
+1.  I  am  now  offering  this  Zaothra  here  with  sanctity6, together  with  the  Haoma  and  the  flesh,  and
 the  Hadhanaepata  lifted  up  with  sacred  regularity  as
 to  thee.O  Ahurian  One,  for  the  propitiation  of  Ahura
 Mazda,  of  the  Bountiful  Immortals,  of  Sraosha
@@ -17659,8 +16559,7 @@ XXII,  XXVIII,  24-27.
 
 YASNA   LXVII  (Sp.  LXVI).
 
-1-4.  (SeeY.  XXIII,  1-4,  replacing 'I  desire  to  ap-
-proach with  sanctity'  by  '  I  offer  with  sanctity;'  see
+1-4.  (SeeY.  XXIII,  1-4,  replacing 'I  desire  to  approach with  sanctity'  by  '  I  offer  with  sanctity;'  see
 also  Y.VII,  24.)     5-7.  (See  Y.  XXXVIII,  5-5.)
 
 1  See  below.  2  See  Y.  L,  11.  3  See  Y.  LI,  7.
@@ -17685,8 +16584,7 @@ To  the  Ahurian  One,  and  the  Waters.
 
 i.  We  offer  this  to  thee,  O  Ahurian  (daughter)
 of  Ahura  !  as  a  help ;  (?)  for  life.  If  we  have  offended
-thee,  let  this  Zaothra  then  attain  to  thee  (for  satis-
-faction), for  it  is  thine  with  its  Haoma,  and  its  milk,
+thee,  let  this  Zaothra  then  attain  to  thee  (for  satisfaction), for  it  is  thine  with  its  Haoma,  and  its  milk,
 and  its  Hadhanaepata.  2.  And  may'st  thou  approach
 to  me  for  milk  and  for  libation,  O  Zaothra!  as
 health,  for  healing,  and  for  progress,  for  growth  and
@@ -17699,8 +16597,7 @@ Ahurian  (daughter)  of  Ahura  with  the  Zaothras  of
 the  good  thought ;  and  we  worship,  O  Ahura,  one
 with  the  Zaothras  of  the  good  word  and  deed  (4)  for
 the  enlightenment  of  the  thoughts,  and  words,  and
-actions,  for  preparation  for  the  soul,  for  the  settle-
-ment's advance,  and  to  prepare  the  saints  endowed
+actions,  for  preparation  for  the  soul,  for  the  settlement's advance,  and  to  prepare  the  saints  endowed
 with  ritual  merit.
 
 5.  And  grant  me,  O  thou  Ahurian  One  !  Heaven,
@@ -17724,19 +16621,16 @@ with  K4,  11;    P6,  but  the  form  is  strange.
 32  2  YASNA    LXVIII.
 
 
-nially  flow,  or  the  drippings  of  the  rains,  or  the  irriga-
-tions of  canals.  7.  With  this  hymn  from  the  (spirit  of)
+nially  flow,  or  the  drippings  of  the  rains,  or  the  irrigations of  canals.  7.  With  this  hymn  from  the  (spirit  of)
 the  Yasna  do  we  worship  thee,  and  with  the  homage
 which  it  offers  as  it  is  the  most  legitimate  1  Yasna,
 and  homage  of  them  (all)  because  of  Righteousness
 the  Best.  We  sacrifice  to  the  good  waters,  and  to
-the  best,  which  Mazda  created.  8.  And  we  sacri-
-fice to  the  two,  to  the  milk  and  to  the  libation,  which
+the  best,  which  Mazda  created.  8.  And  we  sacrifice to  the  two,  to  the  milk  and  to  the  libation,  which
 make  the  waters  flow,  and  the  plants  sprout  forth,
 opposing  therein  the  Dragon  Daeva-made,  for  the
 arrest  of  that  cheat  the  Pairika,  and  to  contradict
-the  insulting  malice  of  the  Ashemaogha  (the  dis-
-turber and  destroyer  of  our  Faith),  and  of  the
+the  insulting  malice  of  the  Ashemaogha  (the  disturber and  destroyer  of  our  Faith),  and  of  the
 unholy  tyrant  full  of  death,  and  of  the  human
 Daeva  (worshipper)  of  hateful  malice  (and  intent).
 
@@ -17783,13 +16677,11 @@ is  excellent,  so  is  the  Ratu  (one  who  rules)  from  the
 Righteous  Order,  a  creator  of  mental  goodness  and
 of  life's  actions  done  for  Mazda.  And  the  kingdom
 (is)  for  Ahura,  which  to  the  poor  may  offer  nurture.
-14.  (The  Zaotar  speaks):  I  beseech  with  my  bene-
-diction for  a  safe  abode,  for  a  joyful  and  a  long
+14.  (The  Zaotar  speaks):  I  beseech  with  my  benediction for  a  safe  abode,  for  a  joyful  and  a  long
 abode  for  the  dwellers  in  this  village  from  whence
 these  Zaothras  (which  I  offer  come).  And  I  pray
 in  my  benediction  for  a  safe  abode,  and  a  quiet  and
-a  joyful  one,  and  a  long  abiding  to  every  Mazda-
-yasnian  village,  and  for  a  succour  even  with  my
+a  joyful  one,  and  a  long  abiding  to  every  Mazdayasnian  village,  and  for  a  succour  even  with  my
 wants,  for  a  succour  with  salutations  of  salvation,
 and  for  one  with  praises,  O  Fire 4 !  and  for  thee,  O
 Ahurian  one  of  Ahura !  do  I  ask  the  fullest  Ya^t.
@@ -17817,8 +16709,7 @@ for  ten  thousand  of  the  same.
 16-19.  (See  Y.  VIII,  5-8.)  20.  Thus  may  it
 happen  as  I  pray.  21.  And  by  this  may  I  gain1
 (that)  blessing,  the  good  Blessedness  (our  sanctity
-rewarded).  And  we  address,  and  we  invoke  reli-
-gious zeal  and  capability,  and  the  waters  with  our
+rewarded).  And  we  address,  and  we  invoke  religious zeal  and  capability,  and  the  waters  with  our
 Yasna 2  thus  :  O  ye  good  waters  !  since  (they  are)
 yours,  do  ye,  as  you  are  asked,  grant  splendour
 and  grant  glory,  ye  who  are  well  able  so  to  give ;
@@ -17868,15 +16759,12 @@ YASNA   LXX  (Sp.  LXIX).
 To  the  Bountiful  Immortals,  and  the
 Institutions  of  Religion.
 
-1.  I  would  worship  these  (the  Bountiful  Im-
-mortals) with  my  sacrifice,  those  who  rule  aright,
-and  who  dispose  (of  all)  aright,  and  this  one  (es-
-pecially) I  would  approach  with  my  praise,  (Ahura
+1.  I  would  worship  these  (the  Bountiful  Immortals) with  my  sacrifice,  those  who  rule  aright,
+and  who  dispose  (of  all)  aright,  and  this  one  (especially) I  would  approach  with  my  praise,  (Ahura
 Mazda).  He  is  thus  hymned  (in  our  praise-songs).
 Yea,  we  worship  in  our  sacrifice  that  deity  and
 lord,  who  is  Ahura  Mazda,  the  Creator,  the  gracious
-helper,  the  maker  1  of  all  good  things  ;  and  we  wor-
-ship in  our  sacrifice  Zarathu^tra  Spitama,  that
+helper,  the  maker  1  of  all  good  things  ;  and  we  worship in  our  sacrifice  Zarathu^tra  Spitama,  that
 chieftain  (of  the  rite).
 
 2.  And  we  would  declare  those  institutions
@@ -17902,8 +16790,7 @@ the  indication  of  the  Pahlavi.
 
 dience)  the  blessed,  and  of  Rashnu  the  most  just,
 and  those  of  Mithra  of  the  wide  pastures,  and  of
-(the  good  and)  holy  Wind,  and  of  the  good  Mazda-
-yasnian  Religion,  and  of  the  good  and  pious  Prayer
+(the  good  and)  holy  Wind,  and  of  the  good  Mazdayasnian  Religion,  and  of  the  good  and  pious  Prayer
 for  blessings,  and  those  of  the  good  and  pious
 Prayer  which  frees  one  from  belying,  and  the  good
 and  pious  Prayer  for  blessing  against  unbelieving
@@ -17947,19 +16834,16 @@ YASNA   LXXI    (Sp.  LXX).
 
 The  Yasna  Concluding.
 
-1.  Frashacstra,  the  holy,  asked  the  saintly  Zara-
-thustra  :  Answer  me,  O  thou  most  eminent  Zara-
+1.  Frashacstra,  the  holy,  asked  the  saintly  Zarathustra  :  Answer  me,  O  thou  most  eminent  Zara-
 thuitra,  what  is  (in  very  truth)  the  memorised  recital
 of  the  rites  ?
 
 What  is  the  completed  delivery  of  the  Gathas1  ?
 2.  Upon  this  Zarathuitra  said  :  (It  is  as  follows.)  We
 worship  Ahura  Mazda  with  our  sacrifice  (as)  the  holy
-lord  of  the  ritual  order ;  and  we  sacrifice  to  Zara-
-thuitra likewise  as  to  a  holy  lord  of  the  ritual  order  ;
+lord  of  the  ritual  order ;  and  we  sacrifice  to  Zarathuitra likewise  as  to  a  holy  lord  of  the  ritual  order  ;
 and  we  sacrifice  also  to  the  Fravashi  of  Zarathuitra,
-the  saint.  And  we  sacrifice  to  the  Bountiful  Im-
-mortals, (the  guardians  2)  of  the  saints.  3.  And  we
+the  saint.  And  we  sacrifice  to  the  Bountiful  Immortals, (the  guardians  2)  of  the  saints.  3.  And  we
 sacrifice  to  (all)  the  good  heroic  and  bounteous
 Fravashis  of  the  saints,  of  the  bodily  (world  on
 earth),  and  of  the  mental  (those  in  Heaven).
@@ -17975,8 +16859,7 @@ approached  the  nearest  (to  us  for  our  help).
 
 
 1  This,  while  very  ancient  as  regards  us,  is  of  course  not  genuine
-in  its  present  shape.  It  was  doubtless  composed  long  after  Frasha-
-ortra  and  Zarathuitra  had  ceased  to  live.  It  may  be,  however,  an
+in  its  present  shape.  It  was  doubtless  composed  long  after  Frashaortra  and  Zarathuitra  had  ceased  to  live.  It  may  be,  however,  an
 expansion  of  an  earlier  document.
 
 2  '  The  Amesha  Spercta  of  the  holy  ones.'
@@ -17998,8 +16881,7 @@ descent.  And  we  sacrifice  to  all  the  holy  Yazads,
 heavenly  and  earthly ;  and  we  worship  all  the
 good,  heroic,  and  bountiful  Fravashis  of  the  saints.
 6.  And  we  worship  all  the  holy  creatures  which
-Mazda  created,  and  which  possess  the  holy  institu-
-tions 2,  which  were  established  holy  in  their  nature 3,
+Mazda  created,  and  which  possess  the  holy  institutions 2,  which  were  established  holy  in  their  nature 3,
 which  possess  the  holy  lore,  and  the  holy  sacrifice,
 which  are  holy,  and  for  the  holy,  and  to  be  worshipped
 by  the  holy.  And  we  worship  all  the  five  4  Gathas,
@@ -18040,8 +16922,7 @@ victory,  the  glory,  and  the  speed  of  all  these  words
 to  all  the  springs  of  water,  and  to  the  water-streams
 as  well,  and  to  growing-  plants,  and  forest-trees  \  and
 to  the  entire  land  and  heaven,  and  to  all  the  stars,
-and  to  the  moon  and  sun,  even  to  all  the  lights  with-
-out beginning  (to  their  course)  2.     And  we  sacrifice
+and  to  the  moon  and  sun,  even  to  all  the  lights  without beginning  (to  their  course)  2.     And  we  sacrifice
 to  all  cattle,  and  to  the  aquatic  beasts,  and  to  the
 beasts  that  live  on  land,  and  to  all  that  strike  the
 wine,  and  to  the  beasts  that  roam  the  plains,  and  to
@@ -18055,8 +16936,7 @@ and  which  are  meet  for  sacrifice  because  of  AshaL
 Vahi^ta    (of    Righteousness    the     Best).      And    we
 sacrifice  to  all  the  mountains  brilliant  with  holiness,
 and  to  all  the  lakes  which  Mazda  created,  and  to  all
-fires.      And  we  sacrifice  to  all  the  truthful  and  cor-
-rectly spoken  words,   (n)   even  those   which    have
+fires.      And  we  sacrifice  to  all  the  truthful  and  correctly spoken  words,   (n)   even  those   which    have
 both    rewards    and    Piety   within   them.       Yea,    we
 worship    (you)    for    protection    and    shielding,    for
 guarding  and  watching ;  and  may  ye  be  to  me  for
@@ -18082,8 +16962,7 @@ me,  for  (mine)  own  soul  I  call  on  (you)  \  and  we  would
 worship  (you)  for  protection  and  for  shielding,  for
 guarding  and  for  watching.  12.  And  we  sacrifice  to
 Weal,  the  complete  welfare,  holy  and  ruling  in  its
-course  in  the  ritual  order  ;  and  we  sacrifice  to  Death-
-lessness  (the  immortal  being  of  the  good),  holy,  and
+course  in  the  ritual  order  ;  and  we  sacrifice  to  Deathlessness  (the  immortal  being  of  the  good),  holy,  and
 ruline  in  the  ritual  order.  And  we  sacrifice  to  the
 question  of  the  Lord,  and  to  His  lore,  the  holy  chiefs,
 and  to  the  heroic  Haptanghaiti,  the  holy  lord  of  the
@@ -18144,8 +17023,7 @@ sacrifice  to  (our)  own  soul  and  to  (our)  Fravashi.
 I  weave  my  song  to  the  good,  heroic,  bountiful
 Fravashis  of  the  saints,  to  those  of  the  house,
 and  of  the  village,  the  district  and  the  province,  and
-to  those  of  the  Zarathuitrotemas.  23.  And  we  sacri-
-fice to  the  Fire,  Ahura  Mazda's  son,  the  holy  ritual
+to  those  of  the  Zarathuitrotemas.  23.  And  we  sacrifice to  the  Fire,  Ahura  Mazda's  son,  the  holy  ritual
 chief.
 
 And  we  sacrifice  to  this  Baresman  having-  the
@@ -18155,8 +17033,7 @@ to  Apam-napai,  and  to  Nairya-sangha,  and  to  that
 Yazad,  the  wise  man's  swift  Curse.
 
 And  we  sacrifice  to  the  souls  of  the  dead,  [which
-are  the  Fravashis  of  the  saints].  24.  And  we  sacri-
-fice to  that  lofty  Lord  who  is  Ahura  Mazda  Himself.
+are  the  Fravashis  of  the  saints].  24.  And  we  sacrifice to  that  lofty  Lord  who  is  Ahura  Mazda  Himself.
 
 
 1  Y.  XLIII,  1  follows.  2  Diseases  arising  from  filth.
@@ -18187,19 +17064,16 @@ of  the  earthly  creatures,  to  the  lords 3  of  those  which
 live  under  the  waters,  and  to  the  lords  of  those
 which  live  upon  land,  to  the  lords  of  those  which
 strike  the  wing,  and  to  the  lords  of  those  which  roam
-(wild)  upon  the  plains,  to  the  lords  of  those  of  (home-
-beasts)  of  the  cloven  hoof,  holy  lords  of  the  ritual
+(wild)  upon  the  plains,  to  the  lords  of  those  of  (homebeasts)  of  the  cloven  hoof,  holy  lords  of  the  ritual
 order.
 
 2.  I  announce,  and  I  (will)  complete  (my  Yasna)  to
 the  Yearly  festivals,  the  lords  of  the  ritual  order,
 to  Maidhyo-zaremaya,  the  milk-giver,  the  holy  lord  of
-the  ritual  order,  and  to  Maidhyo-shema,  the  pasture-
-giver,  and  to  PaitLmahya,  the  corn-giver,  and  to
+the  ritual  order,  and  to  Maidhyo-shema,  the  pasturegiver,  and  to  PaitLmahya,  the  corn-giver,  and  to
 Ayathrima,  the  furtherer  or  breeder,  the  spender  of
 the  seed  of  males,  and  to  Maidhyairya  the  cold 4,  the
-holy  lord  of  the  ritual  order,  and  to  Hamaspath-
-maedhaya,  the  especial  time  for  ritual  deeds 5,  holy
+holy  lord  of  the  ritual  order,  and  to  Hamaspathmaedhaya,  the  especial  time  for  ritual  deeds 5,  holy
 lords  of  the  ritual  order.
 
 
@@ -18277,8 +17151,7 @@ first.
 VISPARAD    I.  337
 
 
-with  holiness,  the  abundantly  brilliant *  and  Mazda-
-made,  the  holy  lords  of  the  ritual  order.
+with  holiness,  the  abundantly  brilliant *  and  Mazdamade,  the  holy  lords  of  the  ritual  order.
 
 And  I  announce,  and  (will)  complete  (my  Yasna)
 to  the  Gatha  Spe^ta-mainyu,  the  holy,  ruling  in
@@ -18293,8 +17166,7 @@ to  Raman  //z^astra,  the  holy  lords  of  the  ritual  order.
 And  I  celebrate  and  will  complete  my  Yasna  to  the
 Gatha  VahLrtoLm,  the  holy,  ruling  in  the  ritual  order.
 And  I  celebrate  and  will  complete  my  Yasna  to
-the  good  and  pious  Prayer  for  blessings,  the  bene-
-diction of  the  pious  3,  and  to  that  Yazad,  the  redoubted
+the  good  and  pious  Prayer  for  blessings,  the  benediction of  the  pious  3,  and  to  that  Yazad,  the  redoubted
 and  swift  Curse  of  the  wise,  the  holy  lord  of  the  ritual
 order.
 
@@ -18346,8 +17218,7 @@ approach  the  holy  Yearly  festivals  with  my  praise,
 the  lords  of  the  ritual  order,  Maidhyo-zaremaya,  the
 milk-giver,  and  Maidhyo-shema,  the  pasture-giver,
 and  PaitiAahya,  the  corn-giver,  and  Ayathrima  the
-breeder,  the  spender  of  the  seed  of  males,  Maidhy-
-airya,  the  cold,  Hamaspathmaedhaya,  the  especial
+breeder,  the  spender  of  the  seed  of  males,  Maidhyairya,  the  cold,  Hamaspathmaedhaya,  the  especial
 time  for  ritual  duties,  the  holy  lords  of  the  ritual
 order.
 
@@ -18375,8 +17246,7 @@ Righteousness  the  Best).
 
 4.  And  in  this  Zaothra  with  this  Baresman  I  desire
 to  approach  Thee  \  the  lord,  with  my  praise,  Thou
-who  art  Ahura  Mazda,  the  spiritual  lord  and  regu-
-lator2 of  the  spiritual  creatures  [the  lord  and  regulator
+who  art  Ahura  Mazda,  the  spiritual  lord  and  regulator2 of  the  spiritual  creatures  [the  lord  and  regulator
 of  the  spiritual  creation].
 
 And  in  this  Zaothra  with  this  Baresman  I  desire
@@ -18389,8 +17259,7 @@ terrestrial  creation].
 to  approach  the  man  who  recites  the  ritual  rites  with
 my  praise,  who  is  maintaining  thus  the  thought  well
 thought,  and  the  word  well  spoken,  and  the  deed  well
-done,  and  Piety  the  bountiful,  even  him  3  who  main-
-tains the  Mathra  of  the  Saoshya^t,  by  whose  actions
+done,  and  Piety  the  bountiful,  even  him  3  who  maintains the  Mathra  of  the  Saoshya^t,  by  whose  actions
 the  settlements  are  advanced  in  the  righteous  order.
 
 6.  And  in  this  Zaothra  with  this  Baresman  I  desire
@@ -18422,15 +17291,13 @@ Z  2
 
 
 And  in  this  Zaothra  with  this  Baresman  I  desire  to
-worship  those  women  with  my  praise  who  are  well-
-portioned1,  and  of  good  parentage,  and  who  are
+worship  those  women  with  my  praise  who  are  wellportioned1,  and  of  good  parentage,  and  who  are
 stately  in  their  growth  ;  yea,  I  desire  to  approach
 that  chant  in  my  praise  which  has  the  Ahu  and  the
 Ratu,  [for  He  is  verily  the  one  who  has  the  Ahu  and
 the  Ratu,  that  is,  Ahura  Mazda  2].
 
-And  I  desire  to  approach  the  heroic  Yasna  Hap-
-tanghaiti  in  my  praise,  the  holy,  and  ruling  in  the  ritual
+And  I  desire  to  approach  the  heroic  Yasna  Haptanghaiti  in  my  praise,  the  holy,  and  ruling  in  the  ritual
 order  ;  and  Ardvi  Sura  Anahita,  the  holy,  and  ruling
 in  the  ritual  order.
 
@@ -18438,8 +17305,7 @@ in  the  ritual  order.
 to  approach  the  Gatha  U^tavaiti  with  my  praise,  the
 holy,  and  ruling  in  the  ritual  order ;  and  I  desire  to
 approach  those  mountains 3  with  my  praise  which
-shine  with  holiness,  abundantly  glorious,  Mazda-
-made,  the  holy  lords  of  the  ritual  order,  and  the
+shine  with  holiness,  abundantly  glorious,  Mazdamade,  the  holy  lords  of  the  ritual  order,  and  the
 Gatha  Spe?^ta-mainyu,  and  Verethraghna,  the  blow  of
 victory,  Mazda-given,  the  holy  lord  of  the  ritual  order,
 and  the  Victorious  Ascendency  (which  it  bestows).
@@ -18489,8 +17355,7 @@ and  would  have  him  here.
 (The  Ratu  answers.)  I  will  come  (and  fulfil  his
 duties).
 
-(The  Zaotar  speaks.)  I  would  have  the  Atare-
-vakhsha 4  here.
+(The  Zaotar  speaks.)  I  would  have  the  Atarevakhsha 4  here.
 
 (The  Ratu  answers.)  I  will  come  (and  fulfil  the
 services  which  fall  to  his  charge).
@@ -18590,21 +17455,18 @@ the  Bounteous  Immortals,  and  the  pious  Saoshya^ts
 truthful  in  their  speech,  the  most  zealous,  the  most
 glorious  in  their  thoughts,  the  greatest  ones,  and  the
 powerful ;  and  we  summon  the  Fire-priests,  and  the
-warriors,  and  the  diligent  husbandman  of  the  Mazda-
-yasnian  Faith.
+warriors,  and  the  diligent  husbandman  of  the  Mazdayasnian  Faith.
 
 6  1.  (The  Zaotar.)  As  an  Ahu  to  be  (revered  and)
 chosen,  the  Atarevakhsha  (announcing)  speaks  forth  2
 to  me.
 
-(The  Ratu  [?].)  So  let  the  Ratu  from  his  righteous-
-ness, holy  and  learned,  speak  forth.
+(The  Ratu  [?].)  So  let  the  Ratu  from  his  righteousness, holy  and  learned,  speak  forth.
 
 (The  Ratu.)  As  an  Ahu  to  be  (revered  and)  chosen,
 the  Zaotar  (announcing)  speaks  forth  2  to  me.
 
-(The  Zaotar.)  So  let  the  Ratu  from  (his)  righteous-
-ness, holy  and  learned,  speak  forth.
+(The  Zaotar.)  So  let  the  Ratu  from  (his)  righteousness, holy  and  learned,  speak  forth.
 
 (The  Ratu.)  Thou  art  the  announcer  for  us,  O
 Fire-priest!  [(Pazand.)  It  is  the3  Zaotar  (who  is
@@ -18638,14 +17500,11 @@ explain  the  Athraom  (sic).     It  is  zaota  asti.
 
 sanctity,  and  to  the  good  religious  knowledge,  and
 to  good  health  (of  soul  and  body).  [At  their  (several)
-seasons,  and  with  the  presence  of  seasonable  circum-
-stances, they  are  hymned1.]  2.  Confession  is  to
-be  made  for  the  Kine  ;  we,  Zarathu^trian  Mazda-
-yasnians,  celebrate  at  the  sacrificial  time  for  the
+seasons,  and  with  the  presence  of  seasonable  circumstances, they  are  hymned1.]  2.  Confession  is  to
+be  made  for  the  Kine  ;  we,  Zarathu^trian  Mazdayasnians,  celebrate  at  the  sacrificial  time  for  the
 Myazda-offering,  at  the  time  for  the  Ratufriti,  the
 prayer  for  blessings,  for  the  sacrificial  worship,
-homage,  propitiation,  and  praise  of  the  entire  crea-
-tion of  the  holy  (and  the  clean).
+homage,  propitiation,  and  praise  of  the  entire  creation of  the  holy  (and  the  clean).
 
 VISPARAD  V  (Sp.  VI)2.
 
@@ -18655,8 +17514,7 @@ a  praiser  priest,  and  invoker,  as  a  memoriser,  reciting
 homage,  Your  propitiation,  and  Your  praise ;  (yea,
 for  Yours)  the  Bountiful  Immortals,  and  for  our
 preparation,  (O  ye  holy  Saoshya?^ts !)  and  for  your
-well-timed  prayer  for  blessings,  and  your  sanctifi-
-cation,  and  for  our  victorious  smiting  of  our  foes,
+well-timed  prayer  for  blessings,  and  your  sanctification,  and  for  our  victorious  smiting  of  our  foes,
 beneficial  (as  it  is)  for  our  souls,  for  ours,  the
 Saoshya;zts,  (with  you),  and  holy.  2.  And  I  make
 my  offering  to  You,  O  Ye  Bountiful  Immortals,
@@ -18715,8 +17573,7 @@ that  Arsta^f  which  is  the  Mazdayasnian  Faith  ;  and
 
 1  Nearly  identical  with  Yasna  XV.
 
-2  This  chapter  should  be  read  after  Yasna  XVII,  which  it  appro-
-priately follows  in  the  Vendidad  Sadah.
+2  This  chapter  should  be  read  after  Yasna  XVII,  which  it  appropriately follows  in  the  Vendidad  Sadah.
 
 3  Possibly  '  the  best  (better)  course  of  that  best  world.'
 
@@ -18737,8 +17594,7 @@ God,  which,  when  especially  made  theirs  by  men,
 produces  one  who  is  a  freer  of  the  body.  And  we
 worship  Sleep3,  the  Mazda-made,  the  gladdener  of  the
 herd  and  men.  4.  And  we  worship  those  things  in
-the  creation  of  the  holy  which  are  the  ancient  insti-
-tutions, those  formed  before  the  sky,  the  water,  the
+the  creation  of  the  holy  which  are  the  ancient  institutions, those  formed  before  the  sky,  the  water,  the
 land,  the  plants,  and  the  Kine  of  blessed  gift.  And
 we  worship  the  sea  Vouru-kasha,  and  the  stormy
 wind  which  is  made  by  Mazda,  and  the  shining
@@ -18776,8 +17632,7 @@ aright,  and  dispose  (of  all)  aright,  together  with  fifty,
 and  a  hundred,  and  a  thousand,  and  ten  thousand,  and
 millions,  and  yet  more.
 
-2.  And  to  Him  who  rules  the  best  let  the  King-
-dom be  2!
+2.  And  to  Him  who  rules  the  best  let  the  Kingdom be  2!
 
 VISPARAD  IX  (Sp.  X)3.
 
@@ -18786,14 +17641,12 @@ the  offered  Haomas  and  Zaothras,  and  to  those  also
 which  shall  yet  be  offered,  which  smite  victoriously,
 and  are  foes  of  hatred,  and  following  in  company  (as
 they  do)  with  the  healing  virtues  of  sanctity,  following
-also  in  company  with  those  of  A'isti  (religious  know-
-ledge), and  with  the  remedies  of  Mazda,  and  with
+also  in  company  with  those  of  A'isti  (religious  knowledge), and  with  the  remedies  of  Mazda,  and  with
 those  of  Zarathustra  and  the  Zarathu-ftrotema,  (2)  and
 to  the  offered  Haomas  and  Zaothras  which  accompany
 those  remedies  which  belong  to  the  holy  disciple  well
 versed  in  good  devices 5,  and  accompanying  those  of
-the  itinerant  also  versed  in  good  devices5,  and  accom-
-panying those  likewise  of  the  good  Mazdayasnian
+the  itinerant  also  versed  in  good  devices5,  and  accompanying those  likewise  of  the  good  Mazdayasnian
 Faith,  and  those  of  the  pious  and  beneficent  Prayer
 for  blessings,  and  of  the  pious  and  good  veracity,  and
 
@@ -18885,8 +17738,7 @@ visparad  x,  xi.  349
 
 which  has  approached  us,  and  of  that  well-timed
 prayer  for  blessings  offered  in  the  ritual,  (7)  which  is
-likewise  the  praise  of  the  Mathra  Spe^ta  (the  boun-
-teous word  of  reason),  and  of  the  Mazdayasnian
+likewise  the  praise  of  the  Mathra  Spe^ta  (the  bounteous word  of  reason),  and  of  the  Mazdayasnian
 Religion,  and  the  Praises  of  the  Yasnas  \  which  is
 also  that  of  all  the  lords  of  the  ritual,  and  of  all  the
 well-timed  prayers  for  blessings,  for  the  sacrifice,
@@ -18897,12 +17749,10 @@ VISPARAD  X  (Sp.  XI)2.
 
 1 .  I  desire  to  approach  the  Arezahis  with  my  praise,
 and  the  Savahis,  and  Fradadhafshu,and  Vidadhafshu,
-and  Vouru-bare^ti,  and  Vouru-^aresti,  and  this  Karsh-
-var  which  is  //^aniratha.  2.  And  I  desire  to  ap-
+and  Vouru-bare^ti,  and  Vouru-^aresti,  and  this  Karshvar  which  is  //^aniratha.  2.  And  I  desire  to  ap-
 proach the  stone  mortar  with  my  praise,  and  the
 iron  mortar,  and  the  cup  that  holds  the  Zaothra,  and
-the  hair  (which  stays  the  spilling  3),  and  Thy  Bares-
-man  spread  with  sanctity.  And  I  desire  to  approach
+the  hair  (which  stays  the  spilling  3),  and  Thy  Baresman  spread  with  sanctity.  And  I  desire  to  approach
 the  Ahuna-vairya  with  my  praise,  and  the  ritual
 prayers  beside  Ahuna,  and  the  standing  offices  of
 the  Mazdayasnian  Faith.
@@ -18933,14 +17783,12 @@ beneficial  to  Verethraghna  (the  blow  of  victory)  which
 furthers  the  settlements  ;  and  that  which  is  offered
 to  the  good  and  holy  king,  and  that  which  is  offered  to
 the  holy  ruler  which  rules  according  to,  or  in  the
-ritual,  and  we  make  known  our  Haomas  to  the  Boun-
-tiful Immortals,  and  to  the  good  waters ;  and  we
+ritual,  and  we  make  known  our  Haomas  to  the  Bountiful Immortals,  and  to  the  good  waters ;  and  we
 present  our  Haomas  each  to  (our)  own  soul1;  and
 we  announce  our  Haomas  in  our  celebration  to  the
 entire  creation  of  the  holy  (and  the  clean).
 
-2.  Yea,  we  present  these  Haomas  and  Haoma-
-implements,  and  these  spread  mats,  and  these  Myazdas,
+2.  Yea,  we  present  these  Haomas  and  Haomaimplements,  and  these  spread  mats,  and  these  Myazdas,
 these  stones,  the  first  in  the  creation,  the  stone  mortar
 brought  here  with  the  yellow2  Haoma  in  it,  and  the
 iron  mortar  brought  here  with  the  yellow  Haoma  in
@@ -18955,8 +17803,7 @@ And  we  present  this  fresh  milk  as  an  offering,
 now  lifted  up  with  sanctity,  and  this  Hadhanaepata
 plant,  lifted  up  with  sanctity ;  (4)  and  we  offer,  and
 present  these  Zaothras  with  our  celebration,  having
-the  Haoma  with  them,  and  the  milk,  and  the  Hadha-
-naepata, to  the  good  waters  and  offered  up  with
+the  Haoma  with  them,  and  the  milk,  and  the  Hadhanaepata, to  the  good  waters  and  offered  up  with
 piety.  And  we  present  the  Haoma-water  in  our
 celebrations  to  the  good  waters,  and  both  the  stone
 and  the  iron  mortar,  (5)  and  this  branch  for  the
@@ -18985,23 +17832,19 @@ have  the  seed  of  sanctity  (or  are  that  seed).
 in  this  our  celebration  to  Ahura  Mazda  (as  our  gift),
 and  to  Sraosha  (Obedience)  the  blessed,  and  to  Ashi
 (who  is  the  recompense),  and  to  Rashnu  the  most  just,
-and  to  Mithra  of  the  wide  pastures,  and  to  the  Boun-
-tiful Immortals,  and  the  Fravashis  of  the  saints,  and
+and  to  Mithra  of  the  wide  pastures,  and  to  the  Bountiful Immortals,  and  the  Fravashis  of  the  saints,  and
 to  their  souls,  and  to  the  Fire  of  Ahura  Mazda,  the
 lord,  and  to  the  lofty  lord  (the  Apam-napa/  ?),  and
 to  the  Myazda,  the  lord,  and  to  the  well-timed  prayer
 for  blessings  as  it  rules  in  the  order  of  our  prayers,
 for  the  sacrifice,  homage,  propitiation,  and  adoration
 of  the  entire  creation  of  the  holy  (and  the  clean).
-7.  Yea,  these  we  make  known  in  this  our  celebra-
-tion hereby  for  the  Fravashi  of  Zarathustra  Spitama,
+7.  Yea,  these  we  make  known  in  this  our  celebration hereby  for  the  Fravashi  of  Zarathustra  Spitama,
 the  saint,  for  its  sacrifice,  homage,  propitiation,  and
 praise,  and  to  the  (Fravashi)  of  Anghuyu  (?)x  who  hath
-loved  righteousness,  together  with  all  the  holy  Fra-
-vashis of  the  saints,  of  those  now  dead,  and  of  those
+loved  righteousness,  together  with  all  the  holy  Fravashis of  the  saints,  of  those  now  dead,  and  of  those
 of  the  living,  and  of  those  of  men  unborn,  of  the
-prophets  that  shall  serve  us,  bringing  on  the  renova-
-tion of  the  completed  world.     8-1 1,  see  verses  2-5.
+prophets  that  shall  serve  us,  bringing  on  the  renovation of  the  completed  world.     8-1 1,  see  verses  2-5.
 
 12.  Yea,  we  would  make  these  known  hereby  in
 our  celebrations  to  the  Bountiful  Immortals,  who  rule
@@ -19022,10 +17865,8 @@ the  Good  Mind,  they  who  rule  aright,  and  dispose
 (of  all)  aright,  for  thence  they  are  regulated,  and
 thence  they  arose,  (namely,)  from  the  Good  Mind  1].
 13.  And  we  make  known  these  our  celebrations  as
-the  more  promotive  for  this 2  house,  for  the  fur-
-therance of  this  house,  and  as  benefits  for  this  house,
-because  of  the  increase  of  this  household,  as  over-
-coming the  restrictions  which  impede  this  household,
+the  more  promotive  for  this 2  house,  for  the  furtherance of  this  house,  and  as  benefits  for  this  house,
+because  of  the  increase  of  this  household,  as  overcoming the  restrictions  which  impede  this  household,
 and  as  overcoming  the  harmful  malice  which  may
 mar  this  house,  to  bless  its  herds,  and  its  retainers,
 born,  and  yet  to  be  born,  for  the  saints  of  the  house
@@ -19038,8 +17879,7 @@ the  deeds  conspicuously  good,  and  of  the  females
 likewise  thus,  of  the  saints  who  do  good  deeds  upon
 good  deeds,  and  of  the  females  thus  the  same].
 15.  And  we  make  these  known  in  our  celebrations
-to  the  good  Fravashis  of  the  saints  which  are  for-
-midable and  overwhelming  in  their  aid.  16.  And
+to  the  good  Fravashis  of  the  saints  which  are  formidable and  overwhelming  in  their  aid.  16.  And
 we  make  these  known  in  our  celebrations  hereby  to
 Sraosha  (Obedience)  the  blessed,  and  to  the  good
 
@@ -19056,8 +17896,7 @@ spoken  of.
 VISPARAD    XII.  353
 
 
-Blessedness,  and  to  Nairya-sangha,  and  to  the  vic-
-torious Peace,  and  to  Ahura  Mazda's  Fire,  and  to
+Blessedness,  and  to  Nairya-sangha,  and  to  the  victorious Peace,  and  to  Ahura  Mazda's  Fire,  and  to
 the  lofty  lord,  for  sacrifice,  homage,  propitiation,  and
 for  praise,  to  the  entire  creation  of  the  holy  and  the
 clean.      17,  i8  =  Visp.  X,  1,  2.
@@ -19067,13 +17906,11 @@ lifted  up  in  offering,  and  which  is  the  Avesta  1  as  the
 holy  Ahura  Mazda  directed  that  it  should  be  said,
 and  as  Zarathiutra,  the  holy,  directed,  and  as  I,  the
 priest,  who  am  acquainted  with   their  sacrifice  and
-homage,  am  now  letting  it  be  known.    I  who  under-
-stand the  lawful  and  legitimate  Avesta2,  and  the
+homage,  am  now  letting  it  be  known.    I  who  understand the  lawful  and  legitimate  Avesta2,  and  the
 ritual  prescripts  (20)  for  Your  sacrifice,  homage,  and
 propitiation,  O  Ye  who  are  the  Bountiful  Immortals,
 and  for  our  preparation  (?),  and  for  the  success  of  our
-well-uttered  prayer  for  blessings,  for  victory,  sanctifi-
-cation,  and  the  well-being  of  our  souls,  (of  ours),  for
+well-uttered  prayer  for  blessings,  for  victory,  sanctification,  and  the  well-being  of  our  souls,  (of  ours),  for
 (we  are)  the  holy  Saoshya/^ts.
 
 21.  Yea,  we  make  these  known  in  our  celebrations
@@ -19093,8 +17930,7 @@ ceremonial  laws.
 
 2  Avestic.  3  Follows  Y.  XXVII.
 
-4  Ha  seems  to  have  a  certain  conjunctive  force  like  sa  in  com-
-position, '  And  thereto  the  good  Sraosha ; '  or  is  it  an  interjection  ?
+4  Ha  seems  to  have  a  certain  conjunctive  force  like  sa  in  composition, '  And  thereto  the  good  Sraosha ; '  or  is  it  an  interjection  ?
 
 [31]  A  a
 
@@ -19114,10 +17950,8 @@ their  many  teachings  of  religious  wisdom  (as  they  do),
 and  those  of  the  two  mortars  which  pour  the  Haomas
 out,  and  which  are  pushed  forward  with  precision 2,
 and  are  now  in  the  course  of  being  thus  advanced
-once  more3.  3.  (And  so  we  teach  as  well  the  many-
-teachings  of  the  religious  wisdom)  contained  in  the
-words  correctly  spoken,  in  the  Zarathustrian  utter-
-ances 4,  and  in  the  ceremonies  correctly  practised,
+once  more3.  3.  (And  so  we  teach  as  well  the  manyteachings  of  the  religious  wisdom)  contained  in  the
+words  correctly  spoken,  in  the  Zarathustrian  utterances 4,  and  in  the  ceremonies  correctly  practised,
 and  the  Baresmans  spread  exactly,  and  the  Haomas
 pressed  correctly,  and  the  praise,  Yasnas,  and  the
 doctrines  of  the  Mazdayasnian  Religion  with  their
@@ -19158,20 +17992,16 @@ are  now  being  advanced  \  ye  two  mortars  of  the
 house,  [and  of  the  village,  of  the  tribe,  and  of  the
 province,  and  ye  who  are  in  this  house  (itself),  this
 village,  tribe,  and  province] ;  yea,  in  those  which  are
-ours,  Mazdayasnians,  who  are  steadfast  in  our  wor-
-ship, who  appear  with  our  wood-billets  and  our
-perfumes,  and  with  our  supplicated  blessings  [(Pa-
-zand)  for  so  may  they  be  to  us,  the  more  full  of
+ours,  Mazdayasnians,  who  are  steadfast  in  our  worship, who  appear  with  our  wood-billets  and  our
+perfumes,  and  with  our  supplicated  blessings  [(Pazand)  for  so  may  they  be  to  us,  the  more  full  of
 wisest  teaching].
 
 VISPARAD  XIII  (Sp.  XV)2.
 
 1.  According  to  the  ritual  we  worship  Ahura
-Mazda;  according  to  the  ritual  we  worship  the  Boun-
-tiful Immortals;  and  we  sacrifice  to  the  sacrificial
+Mazda;  according  to  the  ritual  we  worship  the  Bountiful Immortals;  and  we  sacrifice  to  the  sacrificial
 word  correctly  spoken,  and  to  every  Mathra  (as  to  a
-sacred  word  of  reason).  And  we  sacrifice  to  Zara-
-thu^tra,  him  who  is  especially  the  possessor  of  the
+sacred  word  of  reason).  And  we  sacrifice  to  Zarathu^tra,  him  who  is  especially  the  possessor  of  the
 Mathra 3 ;  and  we  sacrifice  to  the  '  blessings  for  the
 saints'4;  and  we  worship  the  'hail'5  addressed  to
 the  Bountiful   Immortals.
@@ -19200,19 +18030,16 @@ A  a  2
 
 
 and  we  worship  the  three  principal  ones  without
-addition  or  omission  ;  we  worship  the  three  com-
-mencing ones  entire  without  addition  or  omission1.
+addition  or  omission  ;  we  worship  the  three  commencing ones  entire  without  addition  or  omission1.
 And  we  worship  the  entirety2  of  the  three  principal
 ones  without  addition  or  omission ;  and  their  Has,
-their  metrical  lines,  their  words,  and  their  word-
-structure  [and  their  recital,  memorising,  chanting,  and
+their  metrical  lines,  their  words,  and  their  wordstructure  [and  their  recital,  memorising,  chanting,  and
 their  steadfast  offering].
 
 VISPARAD  XIV  (Sp.  XVI)3.
 
 i.  (We  worship  Ahura  Mazda,  the  holy  Lord  of  the
-ritual  order 4 ;  and  we  sacrifice  to  the  Gatha  Ahuna-
-vaiti)  with  its  measures,  and  word-structure,  and  its
+ritual  order 4 ;  and  we  sacrifice  to  the  Gatha  Ahunavaiti)  with  its  measures,  and  word-structure,  and  its
 Zand,  with  its  questions  and  counter-questions,  with
 its  words  and  its  metric  feet.  And  we  sacrifice  to
 these  as  well-recited,  and  now  in  the  course  of  being
@@ -19220,8 +18047,7 @@ recited,  as  well-worshipped,  and  now  in  the  course  of
 being  used  in  worship 5.     2.  (Yea,  we  sacrifice  to  it)  in
 
 
-1  It  is  difficult  to  see  how  anapishuta  can  mean  'without  retrench-
-ment,' but  the  context  seems  to  require  it,  and  the  Pahlavi  transla-
+1  It  is  difficult  to  see  how  anapishuta  can  mean  'without  retrenchment,' but  the  context  seems  to  require  it,  and  the  Pahlavi  transla-
 tion bears  evidence  to  it.     Perhaps  read  anapashuta.
 
 2  'The  whole  three  first.'  Some  suppose  the  three  prayers  to  be
@@ -19234,13 +18060,11 @@ at  this  place.
 
 3  This  fragment  was  written  in  evident  allusion  to  the  entire
 Ahunavaiti,  which  it  follows  in  the  Vendidad  Sadah.  It  expresses
-the  veneration  acquired  by  the  first  Gatha  long  after  its  com-
-position.
+the  veneration  acquired  by  the  first  Gatha  long  after  its  composition.
 
 4  From  the  Vendidad  Sadah.
 
-5  Frayazewtam  may  be  a  metaplasm ;  otherwise  '  of  the  sacri-
-ficers.'
+5  Frayazewtam  may  be  a  metaplasm ;  otherwise  '  of  the  sacrificers.'
 
 
 visparad  xv.  357
@@ -19257,8 +18081,7 @@ piety,  for  that  thought  which  originates  from  the
 Ahuna-vairya,  the  holy  lord  of  the  ritual  order,  the
 holy  lord  with  its  Ahu  and  its  Ratu  [(Pazand)  ;  for
 He  is  the  one  with  the  title  Ahu  and  Ratu,  who  is
-Ahura  Mazda 3].  4.  And  we  sacrifice  to  the  con-
-stituent parts  of  the  Gatha  Ahunavaiti,  to  its  chapters,
+Ahura  Mazda 3].  4.  And  we  sacrifice  to  the  constituent parts  of  the  Gatha  Ahunavaiti,  to  its  chapters,
 and  its  metrical  lines,  its  words,  and  word-structure,
 [and  to  its  heard-recital,  and  memorised  recital,  its
 continuous  and  its  steadfast  offering],
@@ -19266,8 +18089,7 @@ continuous  and  its  steadfast  offering],
 VISPARAD  XV  (Sp.  XVIII)4.
 
 1.  Hold  your  feet  in  readiness,  and  your  two  hands,
-and  your  understandings 5,  O  ye  Zarathustrian  Maz-
-dayasnians !  for  the  well-doing  of  lawful  deeds  in
+and  your  understandings 5,  O  ye  Zarathustrian  Mazdayasnians !  for  the  well-doing  of  lawful  deeds  in
 accordance  with  the  sacred  Order,  and  for  the
 avoidance  of  the  unlawful  and  evil  deeds  which
 are  contrary  to  the  ritual.  Let  the  good  deeds  for  the
@@ -19340,8 +18162,7 @@ known  as  the  better  \  and  of  these  Zarathurtra  is  the
 living  chief2  and  master.  And  we  sacrifice  to  the  fields
 and  the  waters,  the  lands  and  the  plants,  and  to  the
 constituent  parts  of  the  Yasna  Haptanghaiti,  its
-chapters,  its  metred  lines,  its  words,  and  word-
-structure.
+chapters,  its  metred  lines,  its  words,  and  wordstructure.
 
 VISPARAD  XVII  (Sp.  XX)3.
 
@@ -19358,8 +18179,7 @@ we  worship  the  Amesha  Spe^ta  with  the  usta,  and  the
 holy  man,  the  saint.  And  we  worship  the  prior  world
 of  the  holy  (and  of  the  clean)  with  an  uita,  and  the
 state  of  weal  and  salvation  for  the  holy  man  (the  saint).
-2.  And  we  worship  that  life-long  state  of  blessed-
-ness (for  the  holy)  which  is  the  evil  man's  calamity6;
+2.  And  we  worship  that  life-long  state  of  blessedness (for  the  holy)  which  is  the  evil  man's  calamity6;
 yea,  we  worship  his  eternal 7  salvation,  and  with  the
 salvation  prayer.    And  we  sacrifice  to  every  saint  who
 
@@ -19400,8 +18220,7 @@ with  3  the  bountiful  creatures  in  the  creation  of  the
 pure.  And  we  sacrifice  to  the  holy  creatures  who
 have  intelligence  as  their  first4,  (to  those  foremost
 in  their  mind).  And  we  worship  the  omniscient
-understanding,  and  Him  who  is  Ahura  Mazda  (Him-
-self). 2.  And  we  sacrifice  to  the  shining  sun,  which
+understanding,  and  Him  who  is  Ahura  Mazda  (Himself). 2.  And  we  sacrifice  to  the  shining  sun,  which
 is  the  highest  of  the  high  ;  yea,  we  worship  the
 sun  together  with  the  Bountiful  Immortals,  and  the
 Mathras  with  their  good  ceremonies 5.  Also  we
@@ -19410,8 +18229,7 @@ glory  (which  we  have  gained).  And  we  sacrifice  to
 the  herds  which  have  the  Fire  and  its  blessings6.
 Also  we  worship  the  holy  benefit  which  is  so  widely
 
-1  The  word  spewta  throughout  alludes  to  the  Gatha  Spe«ta-
-mainyu,  but  it  is  of  course  not  without  grammatical  application.
+1  The  word  spewta  throughout  alludes  to  the  Gatha  Spe«tamainyu,  but  it  is  of  course  not  without  grammatical  application.
 
 2  In  the  Bundahij  especially  referred  to  Ahura.
 
@@ -19434,14 +18252,12 @@ VISPARAD    XX.  36l
 
 diffused  \  and  that  wisdom  which  is  the  bounteous
 Aramaiti,  whose  are  the  laws2  of  the  Righteous
-Order,  and  of  those  holy  creatures  who  have  Righte-
-ousness as  their  first.
+Order,  and  of  those  holy  creatures  who  have  Righteousness as  their  first.
 
 VISPARAD  XX  (Sp.  XXIII)3.
 
 1.  (Homage  to  the  Gatha  Vohu-khshathra4 !  We
-sacrifice  to  the  Vohu-khshathra),  (the  good  king-
-dom) even  the  Khshathra-vairya,  the  kingdom  to
+sacrifice  to  the  Vohu-khshathra),  (the  good  kingdom) even  the  Khshathra-vairya,  the  kingdom  to
 be  desired  ;  and  we  sacrifice  to  the  iron-founding  5,
 and  to  the  (sacrificial)  words 6  correctly  spoken  which
 smite  (the  foe)  with  victory,  and  which  hold  the
@@ -19452,8 +18268,7 @@ healing  and  that  progress,  that  growth  and  that
 victorious  smiting7  (2)  which  are  between  the
 Vohu-khshathra  and  the  Vahistoirti 8,  (and  which  are
 acquired  by  us)  by  the  memorised  recital  of  the  good
-thoughts,  good  words,  and  good  deeds,  for  the  with-
-standing of  evil  thoughts,  and  words,  and  deeds ;
+thoughts,  good  words,  and  good  deeds,  for  the  withstanding of  evil  thoughts,  and  words,  and  deeds ;
 yea,  for  the  undoing  of  all  treacherous  thoughts
 (directed)  against  me,  and  of  all  false  words,  and
 unfair  deeds.  3.  [And  we  sacrifice  to  the  later
@@ -19462,8 +18277,7 @@ recurs  becomes)  the  holy  ritual  chief.]
 
 1  Pahl.  fravaft  sM.  2  Dathra  with  K4.
 
-3  This  piece  from  the  later  Avesta  follows  Y.  LI,  in  the  Vendi-
-dad  Sadah.
+3  This  piece  from  the  later  Avesta  follows  Y.  LI,  in  the  Vendidad  Sadah.
 
 4  From  the  Vendidad  Sadah.
 
@@ -19471,8 +18285,7 @@ dad  Sadah.
 
 6  Compare  Y.  LI,  3.        7  Y.  LI,  9 ;  also  perhaps  Y.  LIII,  8,  9.
 
-8  Between ;  that  is,  described  in  the  space  between  the  Vohu-
-khshathra  and  the  Vahutouti,  i.  e.  in  Y.  LII.  See  hamist^e  in
+8  Between ;  that  is,  described  in  the  space  between  the  Vohukhshathra  and  the  Vahutouti,  i.  e.  in  Y.  LII.  See  hamist^e  in
 Y.  LII,  4,  and  paitutatee  in  Visp.  XX,  2.
 
 9  This  would  seem  misplaced ;  perhaps  Y.  XLII  is  meant,  which
@@ -19556,8 +18369,7 @@ the  Gnosis).     See  Y.  XXXI,  1 2
 2  Not  in  thought,  word,  or  deed  may  we  reach  (his)  priority
 in  progress.
 
-3  This  piece  from  the  later  Avesta  follows  Y.  LIII,  in  the  Ven-
-didad  Sadah,  and  has  reference  to  its  expressions.
+3  This  piece  from  the  later  Avesta  follows  Y.  LIII,  in  the  Vendidad  Sadah,  and  has  reference  to  its  expressions.
 
 4  It  is  an  important  suggestion  which  holds  vahijtem  as  equal
 to  '  saying  vahutem,'  in  allusion  to  the  Vahuta  tstis ;  but  as  the
@@ -19573,8 +18385,7 @@ course,  an  intentional  echo  of  the  first  word  of  Y.  LIII,  1.
 
 
 health,  healing,  furtherance,  and  increase,  and  to
-that  victory  which  is  within  1  the  two,  the  Ahuna-
-vairya  and  the  Airy^ma-ishyo,  through  the  memor-
+that  victory  which  is  within  1  the  two,  the  Ahunavairya  and  the  Airy^ma-ishyo,  through  the  memor-
 ised recital  of  the  good  thoughts,  words,  and  deeds
 (which  they  enjoin).
 
@@ -19595,8 +18406,7 @@ As  to  the  present   use  of  these   blessings,  says    Haug
 (ed.  West) :  '  Afrinagan  are  blessings  which  are  to  be  recited
 over  a  meal  consisting  of  wine,  milk,  and  fruits,  to  which  an
 angel,  or  the  spirit  of  a  deceased  person,  is  invited,  and
-in  whose  honour  the  meal  is  prepared.     After  the  con-
-secration (which  only  a  priest  can  perform)  is  over,  the
+in  whose  honour  the  meal  is  prepared.     After  the  consecration (which  only  a  priest  can  perform)  is  over,  the
 meal  is  eaten  by  those  who  are  present.     The  performance
 of  these  Afrinagan  is  required  of  every  Parsi  at  certain
 fixed  seasons  of  the  year.     These  are  the  six  Gahanbars,
@@ -19615,8 +18425,7 @@ i.  Afrin[-agAn]  gahanbAr1.
 
 i.  I  confess  myself  a  Mazda-worshipper,  and  of
 Zarathustra's  order,  a  foe  of  the  Daevas,  devoted  to
-the  lore  of  the  Lord,  for  the  holy  Havani  \  the  regu-
-lator of  the  ritual  order  (and  its  lord  in  its  turn),  for
+the  lore  of  the  Lord,  for  the  holy  Havani  \  the  regulator of  the  ritual  order  (and  its  lord  in  its  turn),  for
 its  sacrifice,  homage,  propitiation,  and  praise  ;  (and  I
 confess  myself)  for  Savanghi  and  for  Visya,  the  holy
 lords  of  the  ritual  order,  for  their  sacrifice,  homage,
@@ -19639,8 +18448,7 @@ months,  years,  and  seasons — for  those  lords  of  the
 ritual  order  who  are  of  all  the  greatest,  who  are  the
 regulators  of  the  ritual  at  the  time  of  Havani.
 
-2.  To  Maidhyo-zaremya1,  the  lord  [or  to  Maidhyo-
-shema  \  the  lord,  or  to  PaitLmahya  \  the  lord,  or  to
+2.  To  Maidhyo-zaremya1,  the  lord  [or  to  Maidhyoshema  \  the  lord,  or  to  PaitLmahya  \  the  lord,  or  to
 Ayathrima1,  Maidhyairya1,  or  Hamaspathmaedhaya],
 be  propitiation,  homage,  and  praise.
 
@@ -19659,8 +18467,7 @@ most  saintly  from  your  sanctity,  best  ordered  in  your
 exercise  of  power,  least  straitened  by  oppressions,
 heart-easy  with  rejoicings,  most  merciful  of  givers,
 most  helpful  to  the  poor,  fulfilling  most  the  ritual,
-the  blest  and  longed-for  Asha,  (coy  ?)  riches  woman-
-minded  (?)  bringing  (as  reward).     If  ye  can  do  this
+the  blest  and  longed-for  Asha,  (coy  ?)  riches  womanminded  (?)  bringing  (as  reward).     If  ye  can  do  this
 
 
 1  The  name  of  the  season  at  the  time  present,  when  the  text  is
@@ -19685,8 +18492,7 @@ mind's  offering)  ascribe  the  power  to  him  who  rules  the
 best,  Ahura,  (saying1) :  Wherefore  for  this  cause  verily
 we  offer  and  ascribe  the  Sovereign  Power  to  Ahura
 Mazda,  who  rules  the  best,  and  to  Righteousness  (the
-ritual  and  moral  Order),  and  we  complete  our  sacri-
-fice to  them.  Thus  is  the  Myazda  offered  with  the
+ritual  and  moral  Order),  and  we  complete  our  sacrifice to  them.  Thus  is  the  Myazda  offered  with  the
 well-timed  prayer  for  blessings.
 
 7.  In  case  that  a  man  does  not  give  of  the  first
@@ -19697,8 +18503,7 @@ guidance,  expels  2  that  (false)  disciple  who  has  not
 his  Myazda  with  him,  as  a  man  that  does  not  worship,
 from  the  midst  of  the  Mazda-worshippers.  8.  In  the
 case  that  a  man  does  not  give  of  the  second  Myazda,
-O  Spitama  Zarathiutra !  which  is  that  of  the  Mai-
-dhyo-shema,  then  let 2  the  Ratu  to  whom  the  Myazda
+O  Spitama  Zarathiutra !  which  is  that  of  the  Maidhyo-shema,  then  let 2  the  Ratu  to  whom  the  Myazda
 should  come,  and  who  has  the  person  under  his
 guidance,  expel  that  disciple,  since  he  comes  without
 his  Myazda,  as  he  would  a  man  who  refuses  to  recite
@@ -19707,8 +18512,7 @@ his  vows,  from   among  the  number  of  the  Mazda-
 1  Or,  '  because  we  offer.'
 
 2  Not  '  renders  him  (detected)  among  the  Mazdayasnians ; '
-compare  for  form  awtare-mruye ;  see  also  fra-dasti  and  fra-perena-
-oiti ;  also  the  present  may  be  used  for  the  imperative.
+compare  for  form  awtare-mruye ;  see  also  fra-dasti  and  fra-perenaoiti ;  also  the  present  may  be  used  for  the  imperative.
 
 [31]  B  b
 
@@ -19726,8 +18530,7 @@ among  the  number  of  the  Mazdayasnians.      10.   In
 case  that  a  man  does  not  offer  of  the  fourth  Myazda,  O
 Spitama  Zarathu^tra  !  which  is  that  of  the  Ayathrima,
 let  the  Ratu  who  ought  to  receive  that  Myazda,  and
-who  has  the  person  under  his  guidance,  expel  that  dis-
-ciple, since  he  brings  no  Myazda,  as  a  refuse  2  beast
+who  has  the  person  under  his  guidance,  expel  that  disciple, since  he  brings  no  Myazda,  as  a  refuse  2  beast
 from  among  the  number  of  the  Mazdayasnians.   11.  In
 the  case  that  a  man  does  not  give  of  the  fifth  Myazda,
 which  is  that  of  the  Maidhyairya,  then  let  the  Ratu
@@ -19736,8 +18539,7 @@ who  has  that  person  under  his  guidance,  expel  him,
 since  he  brings  no  Myazda,  as  an  alien  3,  from  among
 the  number  of  the  Mazdayasnians.      12.   In  case  that
 a  man  does  not  give  of  the  sixth  Myazda,  which  is
-that  of  the  Hamaspathmaedhaya,  O  Spitama  Zara-
-thustra !  let  the  Ratu  to  whom  that  Myazda  belongs
+that  of  the  Hamaspathmaedhaya,  O  Spitama  Zarathustra !  let  the  Ratu  to  whom  that  Myazda  belongs
 as  a  perquisite,  and  who  has  this  person  under  his
 discipline  to  learn  him  the  lore  of  Ahura,  expel  him,
 (as  ignorant)  since  he  brings  no  Myazda,  from  among
@@ -19770,13 +18572,11 @@ when  toward  Righteousness  Best  there  is  right.
 (who  are  faithful  worshippers)  of  Ahura  Mazda,  the
 resplendent,  the  glorious,  (beseeching)  for  superior
 strength  for  them,  and  for  more  important  victory,
-and  more  influential  rule,  and  desiring  for  them  fur-
-ther authoritative  power,  and  helpful  support,  and
+and  more  influential  rule,  and  desiring  for  them  further authoritative  power,  and  helpful  support,  and
 long  duration  to  their  reign,  and  the  prolonged
 vitality  of  their  frames,  and  health.  15.  And  I  pray
 in  my  benediction  for  strength  well-shaped  and  stately
-of  growth,  and  which  smites  victoriously,  Ahura-
-made,  and  crushing,  and  for  an  ascendency  abun-
+of  growth,  and  which  smites  victoriously,  Ahuramade,  and  crushing,  and  for  an  ascendency  abun-
 dantly subduing  all  who  are  filled  with  furious  hate,
 assaulting  the  evil-minded  enemies,  and  destroying,
 as  if  at  once,  the  deadly,  godless  x  foes.
@@ -19787,10 +18587,8 @@ every  malicious  foe,  and  each  malignant,  profane  in
 thoughts,  and  words,  and  actions,  (17)  that  he  may
 indeed  be  constantly  victorious  in  his  own  religious
 thoughts,  and  words,  and  deeds,  and  unvarying  in
-the  smiting  of  every  foe,  and  of  every  Daeva-
-worshipper,  and  that  he  may,  as  he  proceeds 2,  be
-well  rewarded,  and  of  good  repute,  possessing  a  far-
-foreseeing  preparation  of  the  soul.  18.  And  I  pray
+the  smiting  of  every  foe,  and  of  every  Daevaworshipper,  and  that  he  may,  as  he  proceeds 2,  be
+well  rewarded,  and  of  good  repute,  possessing  a  farforeseeing  preparation  of  the  soul.  18.  And  I  pray
 with  blessines  thus  :  Live  thou  Ions:  and  blessed  be
 
 
@@ -19819,8 +18617,7 @@ and  of  those  lords  of  the  ritual  who  are  of  all  the
 greatest,  and  who  are  the  lords  of  the  ritual  at  the
 time  of  Havani,  for  Maidhyo-zaremaya  the  lord,  [(or)
 for  Maidhyo-shema  the  lord,  (or)  for  Paiti.mahya2  the
-lord,  or  for  Ayathrima,  Maidhyairya,  or  Hamaspath-
-maedhaya  2+3].
+lord,  or  for  Ayathrima,  Maidhyairya,  or  Hamaspathmaedhaya  2+3].
 
 11.  Afr1n[-agAn]4  gAtha4.
 
@@ -19849,8 +18646,7 @@ and  yet  seem  to  have  been  only  remembered  as  such.
 afrin[-agan]  hi.  373
 
 
-holy  Gathas  which  rule  in  the  ritual  order.  (Pro-
-pitiation and  praise  be)  to  the  Gatha  Ahunavaiti,  and
+holy  Gathas  which  rule  in  the  ritual  order.  (Propitiation and  praise  be)  to  the  Gatha  Ahunavaiti,  and
 to  the  Gatha  Urtavaiti,  to  the  Gatha  Spe;zta-mainyu,
 and  to  the  Gatha  Vohu-khshathra,  and  to  the  Gatha
 Vahi^toi^ti.  2.  Propitiation  to  the  Fravashis  of  the
@@ -19868,16 +18664,14 @@ We  sacrifice  to  the  Gatha  Ahunavaiti,  the  holy,
 as  it  rules  in  the  ritual  order  ;  and  we  sacrifice  to  the
 Gatha  Ustavaiti,  the  holy,  as  it  rules  in  the  ritual
 order  ;  and  we  sacrifice  to  the  Gatha  Spe^ta-mainyu,
-the  holy,  as  it  rules  in  the  ritual  order ;  and  we  sacri-
-fice to  the  Gatha  Vohu-khshathra,  the  holy,  as  it
+the  holy,  as  it  rules  in  the  ritual  order ;  and  we  sacrifice to  the  Gatha  Vohu-khshathra,  the  holy,  as  it
 rules  in  the  ritual  order;  and  we  sacrifice  to  the
 Gatha  VahLrtoryti,  the  holy,  as  it  rules  in  the  ritual
 order.     4  =  Yt.  XIII,  49-521.
 
 in.  Afr!n[-agAn]2  rapithvin*.
 
-1 .  I  confess  myself  a  Mazda-worshipper,  of  Zara-
-thiutra's  order,  a  foe  to  the  Daevas,  devoted  to  the
+1 .  I  confess  myself  a  Mazda-worshipper,  of  Zarathiutra's  order,  a  foe  to  the  Daevas,  devoted  to  the
 lore  of  the  Lord,  for  Rapithwina,  the  holy  lord  of
 the  ritual  order,  for  sacrifice,  homage,  propitiation,
 and    praise,  and   for    Frada^-fshu 3   and    Za^tuma*,
@@ -19912,17 +18706,14 @@ time  of  the  Rapithwina,  (saying)  :  Ask  us,  O  holy
 Zarathuitra  !,  what  are  Thy  questions  to  be  asked  of
 us  2,  for  Thy  question  is  as  that  mighty  one  when  Thy
 ruler  speaks  his  mighty  wish1.  4.  Then  Zarathuitra
-asked  Ahura  Mazda  :  O  Ahura  Mazda,  most  boun-
-tiful 3  creator  of  the  material  worlds  and  holy !  what
-does  that  man  acquire,  what  does  he  merit,  what  re-
-ward shall  there  be  for  that  man  (5)  who  shall  recite
+asked  Ahura  Mazda  :  O  Ahura  Mazda,  most  bountiful 3  creator  of  the  material  worlds  and  holy !  what
+does  that  man  acquire,  what  does  he  merit,  what  reward shall  there  be  for  that  man  (5)  who  shall  recite
 the  Rapithwina  office  with  the  Rapithwina  prayer  for
 blessing,  and  who  shall  sacrifice  with4  the  Rapithwina
 office  with  hands  (well)  washed,  and  with  (well)
 washed  mortars,  with  the  Baresman  spread,  and
 with  Haoma  high  uplifted,  and  with  fire  brightly
-flaming,  with  Ahuna-vairya  loud  intoned,  with  Haoma-
-moistened  tongue,  and  with  a  body  Mathra-bound  ?
+flaming,  with  Ahuna-vairya  loud  intoned,  with  Haomamoistened  tongue,  and  with  a  body  Mathra-bound  ?
 6.  And  Ahura  Mazda  answered  him :  As  the  wind  from
 the  southern  quarter,  O  Spitama !  causes  the  entire
 material  world  to  advance  and  to  increase,  and  as  it
@@ -19934,8 +18725,7 @@ such  a  like  reward  does  such  a  man  receive,  (7)  who
 
 3  Insert  '  spirit.'  4  Or,  '  to.'
 
-5  Saoshyati&i ;    or  can  saoshyawti  be  a  locative   absolute,  pre-
-serving a  fuller  form  ?
+5  Saoshyati&i ;    or  can  saoshyawti  be  a  locative   absolute,  preserving a  fuller  form  ?
 
 6  Or,  'causes  it  to  enter  into  helpful  joy'  (?).
 
@@ -19947,8 +18737,7 @@ recites  the  Rapithwina-ratu  with  the  Rapithwina
 blessing,  and  sacrifices  with  1  it  with  (well)  washed
 hands,  and  mortars,  with  Baresman  spread,  and
 Haoma  lifted,  with  fire  brightly  flaming,  and  with
-Ahuna-vairya  loud  intoned,  and  with  Haoma-mois-
-tened  tongue,  and  a  body  Mathra-bound  !  8.  Thus
+Ahuna-vairya  loud  intoned,  and  with  Haoma-moistened  tongue,  and  a  body  Mathra-bound  !  8.  Thus
 hath  Ahura  Mazda  declared  to  Spitama  Zarathmtra
 the  word  which  (should  be)  spoken  at  the  Rapithwina
 time.     9,  io.   (See  A.  I,  14-19.)
@@ -19974,13 +18763,11 @@ I.   THE  GAH   HAVAN2.
 Unto  Ahura  Mazda  be  propitiation.  A  blessing
 is  Righteousness  (called)  the  Best — .
 
-1.  I  confess  myself  a  Mazda-worshipper,  of  Zara-
-thustra's  order,  a  foe  to  the  Daevas,  devoted  to  the
+1.  I  confess  myself  a  Mazda-worshipper,  of  Zarathustra's  order,  a  foe  to  the  Daevas,  devoted  to  the
 lore  of  the  Lord,  for  the  holy  Havani,  regulator  of
 the  ritual  order,  for  its  sacrifice,  homage,  propitiation,
 and  praise,  and  for  Savanghi  and  Visya,  the  righteous
-regulator(s)  of  the  ritual  order,  for  their  homage,  sa-
-crifice, propitiation,  and  praise,  and  for  those  of  the
+regulator(s)  of  the  ritual  order,  for  their  homage,  sacrifice, propitiation,  and  praise,  and  for  those  of  the
 Asnya,  the  day-lords  during  daylight,  and  the  Ayara,
 lords  of  the  days  in  their  length,  and  for  the  Mahya,
 the  month-lords,  and  the  Yairya,  year-lords,  and  for
@@ -20005,8 +18792,7 @@ s  Having  a  special  Ya^t.
 lord  of  the  ritual  Order,  and  to  Zarathurtra,  and  to  the
 Fravashi  of  Zarathu.stra,  the  saint.  And  we  sacrifice
 to  the  Bounteous  Immortals,  (the  guardians)  of  the
-saints,  and  to  the  good,  heroic,  and  bounteous  Fra-
-vashis  of  the  saints  (of  the  living  and  of  the  dead),  of
+saints,  and  to  the  good,  heroic,  and  bounteous  Fravashis  of  the  saints  (of  the  living  and  of  the  dead),  of
 the  bodily,  and  of  those  in  heaven.  And  we  sacrifice
 to  the  highest  of  the  lords,  the  one  that  most  attains
 its  ends  ;  and  we  sacrifice  to  the  most  strenuous  of
@@ -20017,8 +18803,7 @@ approached  the  nearest  in  the  ritual,  even  to  the
 timely  prayer  of  the  saint  who  rules  in  the  ritual
 order.  5.  And  we  sacrifice  to  the  Havani,  the  holy
 lord  of  the  ritual  order,  and  to  the  Universal  Weal,
-the  holy,  ruling  in  the  ritual  order,  and  to  Deathless-
-ness,  the  holy,  ruling  in  the  ritual  order.  And  we
+the  holy,  ruling  in  the  ritual  order,  and  to  Deathlessness,  the  holy,  ruling  in  the  ritual  order.  And  we
 sacrifice  to  the  question  and  lore  of  the  holy  lord  of
 the  ritual.  And  we  sacrifice  to  that  heroic  mighty
 Yasna,  the  Haptanghaiti,  the  lord  of  the  ritual  order.
@@ -20032,8 +18817,7 @@ uppermost,  and  the  middle,  and  the  foremost,  for
 the  effective  invocation  of  that  surpassing  Mathra,
 the  five  Gathas.
 
-7,  8.  And  we  sacrifice  to  Mithra  of  the  wide  pas-
-tures— ,  and  to  Raman  //^astra,  for  the  worship  and
+7,  8.  And  we  sacrifice  to  Mithra  of  the  wide  pastures— ,  and  to  Raman  //^astra,  for  the  worship  and
 exaltation  of  Visya,  the  chief.     And  we  sacrifice  to
 
 
@@ -20092,12 +18876,10 @@ of  the  ritual  order,  and  to  the  Gatha  Ahunavaiti,  the
 holy,  and  ruling  in  the  ritual  order  ;  and  to  the  Gatha
 U^tavaiti,  and  to  the  Gatha  Spewta-mainyu,  and  to  the
 Gatha  Vohu-khshathra,  and  to  the  Gatha  Vahi.st6i.rti,
-holy,  and  ruling  in  the  ritual  order.  6.  And  we  sa-
-crifice to  Frada^-fshu,  and  to  Za^tuma,  and  to  the
+holy,  and  ruling  in  the  ritual  order.  6.  And  we  sacrifice to  Frada^-fshu,  and  to  Za^tuma,  and  to  the
 Fshiisho-mathra,  even  to  the  word  correctly  spoken,
 and  we  sacrifice  to  the  (many)  words  correctly  spoken,
-even  to  the  victorious  ones  which  slay  the  Demon-
-gods  (the  Daevas  -).  And  we  sacrifice  to  the  waters
+even  to  the  victorious  ones  which  slay  the  Demongods  (the  Daevas  -).  And  we  sacrifice  to  the  waters
 and  the  lands,  and  to  the  plants,  and  to  the  heavenly
 Yazads  who  are  givers  of  the  holy  and  the  good.
 And  we  sacrifice  to  the  Bountiful  Immortals,  (the
@@ -20106,8 +18888,7 @@ guardians)  of  the  saints.
 7.  And  we  sacrifice  to  the  good,  heroic,  bountiful
 Fravashis  of  the  saints,  and  to  the  heights  of  Asha
 (called)  Vahista,  and  to  the  greatest  Mathras  as
-moving  us  to  action,  the  greatest  as  teaching  faith-
-fulness to  holy  vows,  the  greatest  as  referring  to
+moving  us  to  action,  the  greatest  as  teaching  faithfulness to  holy  vows,  the  greatest  as  referring  to
 actions  which  are  evidently  just,  and  the  greatest
 for  the  acquisition  of  the  Mazdayasnian  Faith.
 8.  And  we  sacrifice  to  that  assembly  and  reunion
@@ -20126,12 +18907,10 @@ holy  lord  of  the  ritual  order.      9.   And  we  sacrifice
 GAH    III.  383
 
 to  Asha  VahLyta  (who  is  Righteousness  the  Best),  and
-to  the  Fire,  Ahura  Mazda's  son — .  10.  Yea,  we  sacri-
-fice to  Thee,  the  Fire,  Ahura  Mazda's  son,  the  holy
+to  the  Fire,  Ahura  Mazda's  son — .  10.  Yea,  we  sacrifice to  Thee,  the  Fire,  Ahura  Mazda's  son,  the  holy
 ritual  lord  — .
 
-I  bless  the  sacrifice,  homage,  strength,  and  swift-
-ness of  Asha  Vahista,  and  of  the  Fire,  of  Ahura
+I  bless  the  sacrifice,  homage,  strength,  and  swiftness of  Asha  Vahista,  and  of  the  Fire,  of  Ahura
 Mazda — .     And  to  this  one  be  the  glory  !
 
 III.   gAh  UZIREN1.
@@ -20146,8 +18925,7 @@ holy  lord(s)  of  the  ritual  order,  for  their  sacrifice,
 homage,  propitiation,  and  praise.  2.  And  to  that
 lofty  Ahura,  Apam-napa^,  and  to  the  waters  which
 Mazda  created  be  sacrifice,  homage,  propitiation,  and
-praise2!  3,  4.  (G.  I,  3,  4.)  5.  We  sacrifice  to  the  Uza-
-yeirina,  the  holy  lord  of  the  ritual  order.  And  we  sa-
+praise2!  3,  4.  (G.  I,  3,  4.)  5.  We  sacrifice  to  the  Uzayeirina,  the  holy  lord  of  the  ritual  order.  And  we  sa-
 crifice to  the  Zaotar,  the  holy  lord  of  the  ritual  order,
 
 A
@@ -20182,8 +18960,7 @@ the  clean)  by  day  and  by  night  with  Zaothras  together
 with  offered  prayers,  for  the  sacrifice  and  homage  of
 Da/foyuma,  the  lord.  And  we  sacrifice  to  Da/wyuma,
 the  holy  lord  of  the  ritual  order.  8.  And  we  sacrifice
-to  that  lofty  and  royal  lord,  the  brilliant  Apam-
-napaz*  of  the  fleet  horses ;  and  we  sacrifice  to  the
+to  that  lofty  and  royal  lord,  the  brilliant  Apamnapaz*  of  the  fleet  horses ;  and  we  sacrifice  to  the
 water  which  is  Mazda-made  and  holy.  9,  10.  And
 we  sacrifice  to  thee,  the  Fire,  Ahura  Mazda's  son  2.
 1 1 3.  And  I  bless  the  sacrifice,  homage,  strength,  and
@@ -20225,24 +19002,20 @@ Blow  Ahura-given,  and  for  the  crushing  Ascendency
 which  it  bestows,  (to  all)  be  propitiation — .  3,  4.  (See
 Gah  I,  3,  4.)  5.  And  we  sacrifice  to  Aiwisruthrima
 (and)  Aibigaya,  the  holy  lord(s)  of  the  ritual  order,
-and  to  thee,  O  Ahura  Mazda's  Fire  !  And  we  sacri-
-fice to  the  stone-mortar,  and  to  the  iron-mortar,
+and  to  thee,  O  Ahura  Mazda's  Fire  !  And  we  sacrifice to  the  stone-mortar,  and  to  the  iron-mortar,
 and  to  this  Baresman  spread  with  sanctity,  with  the
 Zaothra,  and  with  its  girdle,  holy  lords  of  the  ritual
 order.  Also  we  sacrifice  to  the  sacred  two,  to  the
 waters  and  the  plants,  and  to  the  sacred  vows
 for  the  soul,  (as)  holy  lord(s)  of  the  ritual  order.
 6.  Also  we  sacrifice  to  FradaZ-vispam-hu^yaiti  (as)
-ruling  in  the  ritual  order ;  and  we  sacrifice  to  Zara-
-thu^tra,  the  holy  lord  of  the  ritual ;  also  we  sacrifice
+ruling  in  the  ritual  order ;  and  we  sacrifice  to  Zarathu^tra,  the  holy  lord  of  the  ritual ;  also  we  sacrifice
 to  the  Mathra  Spe^ta,  (the  bounteous  word  of
 reason1),  and  to  the  soul  of  the  Kine,  and  to  the
-Zarathustrotema  2.  7.  Also  we  sacrifice  to  the  Fire-
-priest,  the  holy  lord  of  the  ritual  order,  and  to  the
+Zarathustrotema  2.  7.  Also  we  sacrifice  to  the  Firepriest,  the  holy  lord  of  the  ritual  order,  and  to  the
 charioteer  (the  warrior),  the  holy  lord  of  the  ritual
 order.  Also  we  sacrifice  to  the  thrifty  tiller  of  the
-earth,  the  holy  lord  of  the  ritual  order.  And  we  sacri-
-fice to  the  house-lord,  and  to  the  village-chief,  and
+earth,  the  holy  lord  of  the  ritual  order.  And  we  sacrifice to  the  house-lord,  and  to  the  village-chief,  and
 to  the  Za/ztu-chief,  and  to  the  province-chief  of  the
 province,  the  holy  lord  of  the  ritual  order.  8.  And
 we  sacrifice  to  the  youth  of  the  good  thoughts,  good
@@ -20276,15 +19049,13 @@ Lord !
 
 And  we  sacrifice  to  the  holy  man  most  forward  in
 good  thoughts,  and  words,  and  works,  wise  as  to
-piety,  simple  as  to  sin,  by  whose  deeds  the  settle-
-ments advance  in  the  holy  order,  for  the  worship  and
+piety,  simple  as  to  sin,  by  whose  deeds  the  settlements advance  in  the  holy  order,  for  the  worship  and
 homage  of  the  Zarathustrotema,  the  lord.  And  we
 sacrifice  to  the  Zarathustrotema,  the  holy  lord  of  the
 ritual  order.  10.  And  we  sacrifice  to  the  good,
 heroic,  bountiful  Fravashis  of  the  saints,  and  to  the
 women  who  have  many  sons,  and  to  that  Prosperity
-which  endures  throughout  the  year,  and  to  the  well-
-shaped  and  stately  Strength.  And  we  sacrifice  to
+which  endures  throughout  the  year,  and  to  the  wellshaped  and  stately  Strength.  And  we  sacrifice  to
 the  Blow  of  Victory,  Ahura-given,  and  to  the  crushing
 Ascendency  which  it  secures.  11,  12.  (See  Gah  I,  9,
 10.)     13.  (The  Ahuna-vairya,  &c.)
@@ -20315,8 +19086,7 @@ of  the  ritual  order.  2.  Propitiation  be  to  Sraosha
 smiting  with  the  blow  of  victory,  and  causing  the
 settlements  to  advance  and  to  increase.
 
-3,  4.  (See  Gah  I,  3,  4.)  5.  We  sacrifice  to  Usha-
-hina, the  holy  lord  of  the  ritual  order ;  and  we
+3,  4.  (See  Gah  I,  3,  4.)  5.  We  sacrifice  to  Ushahina, the  holy  lord  of  the  ritual  order ;  and  we
 sacrifice  to  the  beautiful  Aurora,  and  to  the  dawn  of
 morning;  yea,  we  sacrifice  to  the  morning,  the  shining2,
 of  the  glittering  horses,  having  the  men  of  forethought
@@ -20324,12 +19094,10 @@ of  the  glittering  horses,  having  the  men  of  forethought
 heroes  (awake  and  at  their  work),  to  the  morning
 which  gives  light  within  the  house  3.  And  we  sacrifice
 to  the  lights  of  dawn  which  are  radiant  with  their  light
-and  fleetest  horses  which  sweep  over  (?)  the  seven-
-fold earth.  And  we  sacrifice  to  Ahura  Mazda,  the
+and  fleetest  horses  which  sweep  over  (?)  the  sevenfold earth.  And  we  sacrifice  to  Ahura  Mazda,  the
 holy  lord  of  the  ritual  order,  and  to  the  Good  Mind,
 and  to  Asha  Vahiita  (who  is  Righteousness  the  Best),
-and  to  Khshathra-vairya,  and  to  Aramaiti,  the  boun-
-teous and  the  good.
+and  to  Khshathra-vairya,  and  to  Aramaiti,  the  bounteous and  the  good.
 
 6.  And  we  sacrifice  to  Bere^ya,  even  the  holy
 lord  of  the  ritual  order,  even  to  Nmanya  with  the
@@ -20373,8 +19141,7 @@ I.
 
 i.  (An  incitation  to  the  priest  or  worshipper.)  As
 thou  keepest  company  with  the  Good  Mind,  and
-with  Righteousness  the  Best,  and  with  Khshathra-
-vairya  (the  Kingdom  to  be  desired),  speak  to  the
+with  Righteousness  the  Best,  and  with  Khshathravairya  (the  Kingdom  to  be  desired),  speak  to  the
 male  and  female  disciples  of  Zarathuitra  Spitama
 the  saint,  (and  declare)  the  praise  which  is  to  be
 spoken,  that  of  the  Yasna,  even  the  words  against
@@ -20393,8 +19160,7 @@ i.   I  confess  myself  a  Mazda-worshipper — for  the
 
 A
 
-praise  of  Thraetaona,  the  Athwyan.  Let  them  de-
-clare it — .     Propitiation  be  to  the  Fravashi  of  Thrae-
+praise  of  Thraetaona,  the  Athwyan.  Let  them  declare it — .     Propitiation  be  to  the  Fravashi  of  Thrae-
 
 A
 
@@ -20507,11 +19273,9 @@ VIP.
 i .  To  the  good  waters,  and  to  all  the  waters  which
 Mazda  created,  and  to  that  lofty  lord,  Apam-napai,
 and  to  thee,  O  Ahurian  One  of  Ahura,  that  water
-which  Mazda  created  !  be  sacrifice,  homage,  propitia-
-tion, and  praise.  (The  Ahuna  follows.)  2.  We  utter
+which  Mazda  created  !  be  sacrifice,  homage,  propitiation, and  praise.  (The  Ahuna  follows.)  2.  We  utter
 our  praises  forth  to  thee,  O  Ahurian  One  of  Ahura !
-and  we  complete  good  sacrifices,  and  deeds  of  adora-
-tion, with  good  gifts  of  offering,  and  gifts  with  praise,
+and  we  complete  good  sacrifices,  and  deeds  of  adoration, with  good  gifts  of  offering,  and  gifts  with  praise,
 which  are  appropriate  to  thee  among  the  holy  Yazads.
 I  will  seek  to  render  thee  content.  I  will  pour  thee
 out.  [Let  them  now  recite  the  lofty  Gathas  which
@@ -20564,8 +19328,7 @@ word,  the  unsubdued,  the  undeceived,  the  victorious,
 the  opponent  of  malice,  the  healing  and  victorious
 word  of  Mazda,  which,  as  it  is  pronounced 4,  gives
 most  the  victory  to  him  who  utters  it.  2.  I  have
-declared  the  hymn  which  is  most  helpful  and  victo-
-rious against  the  words  of  Aeshma,  which  is  health-
+declared  the  hymn  which  is  most  helpful  and  victorious against  the  words  of  Aeshma,  which  is  health-
 giving  and  healing,  and  conducive  to  progress,  the
 multiplier,  and  the  furtherer  of  growth.  And  let
 the  worshipper  present  it  with  a  liberal  offering  ....
@@ -20593,8 +19356,7 @@ Aethrapaiti,  279,  318,  323.
 Aethrya,  323.
 
 Age  of  the  Gathas,  &c,  xxviii-xxxvii ;
-age  as  compared  with  one  an-
-other, xxvii,  92.
+age  as  compared  with  one  another, xxvii,  92.
 
 Agni,  80,  129.
 
@@ -20726,9 +19488,6 @@ Aramaiti(i),  xii,  14,  15,  27,  32,  33,
 46,  58,  77,  87,88,  101,  109,124,
 126,  146,  148,  149,  150,  152,
 155,    156,   159,    l67,   176,    180,
-
-
-396
 
 
 INDEX.
@@ -20976,9 +19735,6 @@ Fravashi,
 INDEX.
 
 
-197
-
-
 GaroJman,  19,  109,  170,  173,  184,
 
 Gaya  Maretan,  252,  260,  324,  362.
@@ -21133,9 +19889,6 @@ Maidhyairya,  198,  205,  210,  216,  220,
 
 225,  335,  338,  368,  370,  372.
 Maidhyo-mah,  xxvi,  xxviii,  186.
-
-
-398
 
 
 INDEX.
@@ -21311,9 +20064,6 @@ R/'shi,  91.
 INDEX.
 
 
-399
-
-
 Sadduceeism,  xxxii.
 
 Saoshya/zt,  71,  82,  101, 124, 129, 131,
@@ -21472,9 +20222,6 @@ Yazad,  207,  209,  212,  218,  227,  255,
 258,    259,   272,   306,   320,  327,
 
 
-400
-
-
 INDEX.
 
 
@@ -21505,10 +20252,8 @@ Zaothra,  203,  204,  206,  207,  213,
 3395  340,  341,  35°,  384,  385.
 
 Zarathujtra,  personal  history,  xxiii,
-xxiv ;  call,  9  ;  unfavourable  re-
-ception, 5,  11,  1 01,  103  ;  conse-
-cration to  Ahura,  79,  108 ;  suf-
-fering, 93,134;  trust  in  Ahura,  8 1 .
+xxiv ;  call,  9  ;  unfavourable  reception, 5,  11,  1 01,  103  ;  conse-
+cration to  Ahura,  79,  108 ;  suffering, 93,134;  trust  in  Ahura,  8 1 .
 
 Zarathujtrotema,  197,  204,  209,  215,
 224,  259,  331,  337,  347,  384,
@@ -21603,7 +20348,6 @@ z
 o
 
 tn
-2
 O
 U
 
@@ -21633,15 +20377,11 @@ I— I
 •t-3
 
 
-03
-
 "Si
 CO
 
 a
 
-
-09
 
 3-  43
 
@@ -21649,7 +20389,6 @@ a
 d
 
 
-3
 C
 
 H
@@ -21661,15 +20400,12 @@ o
 
 ■-
 
-3
 
-3
 O
 
 
 S3
 w
-03
 
 CO
 
@@ -21678,8 +20414,6 @@ On
 
 
 CO
-
-3
 
 
 a.
@@ -21691,17 +20425,9 @@ E/2
 
 o
 
-3
-
-
-73
 
 O
-3
 r°3
-
-
-03
 
 
 co
@@ -21740,17 +20466,12 @@ H  s
 
 +3  * —
 
-0
 
-
-05
 +=>
 
 'a,
 
 CO
-
-03
 
 
 -2  2
@@ -21769,10 +20490,6 @@ CO  *~^
 N     00     O)     O     i-*     (M
 
 
-3
-3
-11
-
 H
 co
 
@@ -21783,13 +20500,7 @@ cu
 WON
 
 
-[311
-
-
 D(l
-
-
-402
 
 
 TRANSLITERATION    OF    ORIENTAL    ALPHABETS
@@ -21816,9 +20527,6 @@ CO         •        N
 <y
 
 
-0
-
-
 init.
 
 
@@ -21838,9 +20546,6 @@ i     D-D
 
 
 -"S>
-
-
-3
 
 
 '•>    D
@@ -21903,7 +20608,6 @@ C     — '
 
 
 H
-55
 
 <:
 o
@@ -21916,8 +20620,6 @@ u
 
 
 co
-
-3
 
 
 rt
@@ -21951,8 +20653,6 @@ c3  — i
 
 CO
 
-3
-
 
 CO
 Oi    O
@@ -21967,8 +20667,6 @@ CO
 
 Cl3       r-S
 
-
-00
 
 (D
 
@@ -22000,14 +20698,10 @@ s
 rH      CM
 
 
-0
 C
 
 
 ».     cu
-
-
-03
 
 
 o
@@ -22022,8 +20716,6 @@ B
 
 
 co
-
-3
 
 
 CO
@@ -22095,16 +20787,10 @@ cimnn
 O
 
 
-1
-
-
 R     fe
 
 
 J3
-
-
-1
 
 
 o)
@@ -22169,23 +20855,17 @@ O
 o
 
 
-3
-
-
 CO
 
 CD
 r— i
 
-03
 +■>
 
 Q
 
 n
 
-
-10
 
 ©
 
@@ -22225,7 +20905,6 @@ c3
 
 
 C
-03
 
 CO
 
@@ -22233,13 +20912,10 @@ CO
 C3       r— 1
 CO
 
-3
-
 
 CO
 
 
-03
 ©
 
 ■3
@@ -22256,16 +20932,11 @@ id
 s    £
 
 
-3
-
-
 c3
 
 
 OS
 
-
-3
 
 C
 
@@ -22288,7 +20959,6 @@ ei
 
 i-,
 
-02
 
 at
 
@@ -22346,7 +21016,6 @@ TRANSLITERATION    OF    ORIENTAL    ALPHABETS.
 
 u
 
-5
 
 5«J
 
@@ -22406,7 +21075,6 @@ pa
 >  ■
 
 •<
-2
 O
 S!
 
@@ -22432,7 +21100,6 @@ M
 
 VOWELS.
 
-00
 
 M
 
@@ -22514,22 +21181,16 @@ a  ijaryngo-puiaraiis
 13  „       longa    .
 
 14  Gutturo-palatalis
-15
 
 16  Diphthongus  gutt
 
-17
-
-18
 
 19  Gutturo-labialis  b
 
 20  „             lc
 
 21  Diphthongus  gutt
-22
 
-23
 
 24  Gutturalis  fracta
 
@@ -22573,11 +21234,9 @@ Summers.     1863.   8vo.  half  bound,  1/.  8s.
 Fa-hien.     Translated  and  annotated  by  James  Legge,  M.A.,  LL.D.     Crown
 4to.  cloth  back,  \os.  6d.
 
-ENGLISH. — A  New  English  Dictionary,  on  Historical  Prin-
-ciples: founded  mainly  on  the  materials  collected  by  the  Philological  Society.
+ENGLISH. — A  New  English  Dictionary,  on  Historical  Principles: founded  mainly  on  the  materials  collected  by  the  Philological  Society.
 Edited  by  James  A.  H.  Murray,  LL.D..  with  the  assistance  of  many  Scholars
-and  men  of  Science.  Part  I.  A— ANT.  Part  II.  ANT— BATTEN.  Im-
-perial 4to.    1 2 j.  dd.  each.
+and  men  of  Science.  Part  I.  A— ANT.  Part  II.  ANT— BATTEN.  Imperial 4to.    1 2 j.  dd.  each.
 
 An  Etymological  Dictionary  of  the  English  Language.
 
@@ -22585,19 +21244,12 @@ By  W.  W.  Skeat,  M.A.     Second  Edition.     18S4.   4to.  2/.  4*.
 
 Supplement  to  the  First  Edition  of  the  above.  4to.  2s.  6d.
 
-■ A  Concise  Etymological  Dictionary  of  the  English  Lan-
-guage.   By  W.  W.  Skeat,  M.A.    Second  Edition.    1S85.    Crown  Svo.  5J.  6d.
-
-[9]
-
-
-CLARENDON  PRESS,  OXFORD.
+■ A  Concise  Etymological  Dictionary  of  the  English  Language.   By  W.  W.  Skeat,  M.A.    Second  Edition.    1S85.    Crown  Svo.  5J.  6d.
 
 
 Greek. — A     Greek-English     Lexicon,    by     Henry     George
 
-Liddell,  D.D.,  and  Robert  Scott,  D.D.     Seventh  Edition.  Revised  and  Aug-
-mented throughout.     18S3.    4to.  1/.  i6j.
+Liddell,  D.D.,  and  Robert  Scott,  D.D.     Seventh  Edition.  Revised  and  Augmented throughout.     18S3.    4to.  1/.  i6j.
 
 A    Greek-English  Lexicon,  abridged  from   Liddell   and
 
@@ -22668,9 +21320,6 @@ Saxon,  English,  and  other  cognate  Indo-European  Languages.  By  Sir  M.
 Monier  Williams.  M.A.     1S72.  4to.  4/.  14J.  6d.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Sanskrit. — Nalopdkhydnam.     Story  of  Nala,  an  Episode  of
 
 the  Maha-Bharata :  the  Sanskrit  text,  with  a  copious  Vocabulary,  and  an
@@ -22681,8 +21330,7 @@ Sahtntala.    A  Sanskrit  Drama,  in  Seven  Acts.    Edited
 
 by  Sir  M.  Monier-Williams,  M.A.     Second  Edition,  1876.    Svo.  21s.
 
-SYRIAC. —  Thesaurus  Syriacus :  collegerunt  Quatremere,  Bern-
-stein, Lorsbach,  Arnoldi,  Agrell,  Field,  Roediger:    edidit  R.  Payne  Smith.
+SYRIAC. —  Thesaurus  Syriacus :  collegerunt  Quatremere,  Bernstein, Lorsbach,  Arnoldi,  Agrell,  Field,  Roediger:    edidit  R.  Payne  Smith.
 S.T.P.    Fasc.I-VI.    1S6S-S3.  sm.  fol.   each,  1/.  is.    Ease.  VII.   1l.11s.6d.
 Vol.  I,  containing  Fasc.  I-V,  sm.  fol.  5/.  5J.
 
@@ -22702,8 +21350,7 @@ Aristotle:    The   Politics,  with   Introduction,    Notes,   etc.,   by
 W.  L.  Newman,  M.A.,  Fellow  of  Balliol  College,  Oxford.  Vols.  I.  and  II.
 Nearly  ready.
 
-Aristotle:  The  Politics,  translated  into  English,  with  Intro-
-duction, Marginal  Analysis,  Notes,  and  Indices,  by  B.  Jowett,  M.A.  Medium
+Aristotle:  The  Politics,  translated  into  English,  with  Introduction, Marginal  Analysis,  Notes,  and  Indices,  by  B.  Jowett,  M.A.  Medium
 Svo.     2  vols.  2 1  s.
 
 Catalog-its    Codicum    Graecorum    Sinaiticornm.      Scripsit    V.
@@ -22712,8 +21359,7 @@ Gardthausen  Lipsiensis.     With  six  pages  of  Facsimiles.     Svo.  linen, 
 
 Heracliti  Ephesii   Reliquiae.     Recensuit    I.    Bywater,   M.A.
 
-Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita  Heracliti,  Particulae  Hip-
-pocratei  De  Diaeta  Libri  Primi,  Epistolae  Heracliteae.   1877.  Svo.  6s.
+Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita  Heracliti,  Particulae  Hippocratei  De  Diaeta  Libri  Primi,  Epistolae  Heracliteae.   1877.  Svo.  6s.
 
 Herculanensinm   Voluminum  Partes  II.  1824.  8vo.  io.y.
 Fragmenta  Hercnlanensia.     A  Descriptive  Catalogue  of  the
@@ -22737,9 +21383,6 @@ Scholia  Gracca  in  Odysseam.     Edidit  Guil.  Dindorfius.
 Tomi  II.     1855.  8yo-    15s.  6d.
 
 B    2
-
-
-CLARENDON  PRESS,  OXFORD.
 
 
 Plato  :  Apology,  with  a  revised  Text  and  English  Notes,  and
@@ -22775,8 +21418,7 @@ Medium  Svo.    1/.  1  2s.
 
 THE    HOLY   SCRIPTURES,   &c.
 
-STUDIA  BlBLICA. — Essays  in  Biblical  Archaeology  and  Criti-
-cism, and  kindred  subjects.  By  Members  of  the  University  of  Oxford.  Svo.
+STUDIA  BlBLICA. — Essays  in  Biblical  Archaeology  and  Criticism, and  kindred  subjects.  By  Members  of  the  University  of  Oxford.  Svo.
 10s.  6d.
 
 
@@ -22801,9 +21443,6 @@ by  John  Wycliffe,  about  A.D.  1380,  and  Revised  by  John  Purvey,  about 
 1388.     Extra  fcap.    Svo     6s.]
 
 
-CLARENDON  PRESS,  OXFORD.  5
-
-
 English. — The  Holy  Bible:  an  exact  reprint,  page  for  page,
 
 of  the  Authorised  Version  published  in  the  year  161 1.  Demy  4to.  half  bound,
@@ -22817,8 +21456,7 @@ With  an  Introduction  and  Glossary.     Demy  Svo.    it.  is.
 
 Lectures    o?i    Ecclesiastes.     Delivered    in   Westminster
 
-Abbey  by  the  Very  Rev.  George  Granville  Bradley,  D.D.,  Dean  of  West-
-minster.    Crown  Svo.  4s.  6d.
+Abbey  by  the  Very  Rev.  George  Granville  Bradley,  D.D.,  Dean  of  Westminster.    Crown  Svo.  4s.  6d.
 
 Gothic. —  The  Gospel  of  St.  Mark  in   Gothic,  according  to
 
@@ -22877,9 +21515,6 @@ Text  followed  in  the  Revised  Version.     8vo.    1  2s.  6d.
 The  Revised  Version  is  the  joint  property  of  the  Universities  of  Oxford  and  Cambridge.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Greek. — Canon  Muratorianus :  the  earliest  Catalogue  of  the
 
 Books  of  the  New  Testament.  Edited  with  Notes  and  a  Facsimile  of  the
@@ -22902,8 +21537,7 @@ S.  R.  Driver,  M.A.     Crown  Svo.  paper  covers,  3J.  6d.
 
 The  Book  of  Tobit.     A  Chaldee  Text,  from  a  unique
 
-MS.  in  the  Bodleian  Library ;  with  other  Rabbinical  Texts.  English  Transla-
-tions, and  the  Itala.    Edited  by  Ad.  Neubauer,  M.A.    187S.    Crown  Svo.  6s.
+MS.  in  the  Bodleian  Library ;  with  other  Rabbinical  Texts.  English  Translations, and  the  Itala.    Edited  by  Ad.  Neubauer,  M.A.    187S.    Crown  Svo.  6s.
 
 Horae  Hcbraicae  et  Talmudicae,  a  J.  Lightfoot.     A  new-
 Edition,  by  R.  Gandell,  M.A.    4  vols.    1859.  Svo.  \l.  is.
@@ -22932,8 +21566,7 @@ Phil.  Doc.     1S60.  Svo.   105.  6d.
 
 FATHERS  OF  THE  CHURCH,  &c.
 
-St.  Athanasius :  Historical  Writings,  according  to  the  Bene-
-dictine Text.  With  an  Introduction  by  William  Bright.  D.D.  1S81.  Crown
+St.  Athanasius :  Historical  Writings,  according  to  the  Benedictine Text.  With  an  Introduction  by  William  Bright.  D.D.  1S81.  Crown
 8vo.   ioj.  6d.
 
 Orations  against  the  Arians.     With  an  Account  of  his
@@ -22947,11 +21580,7 @@ of  the  Second  Council  of  Orange.     With  an  Introduction  by  William  B
 D.D.     Crown  Svo.   ()s.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
-Canons  of  the  First  Four  General  Councils  of  Nicaea,  Con-
-stantinople, Ephesus,  and  Chalcedon.    1S77.   Crown  8vo.  2s.6d.
+Canons  of  the  First  Four  General  Councils  of  Nicaea,  Constantinople, Ephesus,  and  Chalcedon.    1S77.   Crown  8vo.  2s.6d.
 
 Notes  on  the  Canons  of  the  First  Four  General  Councils.
 
@@ -23014,9 +21643,6 @@ Bacdae  Historia  Ecclesiastica.     Edited,  with  English  Notes,
 by  G.  H.  Moberly,  M.A.  18S1.    Crown  8vo.   ioj.  6d.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Bright  (W.).     Chapters  of  Early  English    Church  History.
 
 I8/8.    8vO.    I2J.
@@ -23046,8 +21672,7 @@ Hammond  [C.  E.).    Liturgies,  Eastern  and  Western.    Edited,
 with  Introduction,  Notes,  and  Liturgical  Glossary.  1878.  Crown  Svo.  los.td.
 An  Appendix  to  the  above.     1879.  Crown  Svo.  paper  covers,  u.  6d.
 
-John,  Bishop  of  Ephcsus.  The  Third  Part  of  his  Eccle-
-siastical History.  [In  Syriac]  Now  first  edited  by  William  Cureton,  M.A.
+John,  Bishop  of  Ephcsus.  The  Third  Part  of  his  Ecclesiastical History.  [In  Syriac]  Now  first  edited  by  William  Cureton,  M.A.
 1853.   4to.    \l.  \2S.
 
 Translated  by  R.  Payne  Smith,  M.A.     i860.  8vo.  \os.
@@ -23056,8 +21681,7 @@ Leofric  Missal,   The,   as  used    in   the    Cathedral   of  Exeter
 
 during  the  Episcopate  of  its  first  Bishop,  A.d.  1050-1072  ;  together  with  some
 Account  of  the  Red  Book  of  Derby,  the  Missal  of  Robert  of  Jumieges,  and  a
-few  other  early  MS.  Service  Books  of  the  English  Church.  Edited,  with  In-
-troduction and  Notes,  by  F.  E.  Warren,  B.D.    4to.  half  morocco,  35J.
+few  other  early  MS.  Service  Books  of  the  English  Church.  Edited,  with  Introduction and  Notes,  by  F.  E.  Warren,  B.D.    4to.  half  morocco,  35J.
 
 ALonumenta  Ritualia  Ecclesiae  Anglicanae.     The   occasional
 
@@ -23067,8 +21691,7 @@ By  William  Maskell,  M.A.     Second  Edition.     1S82.  3  vols.  Svo.  2I. 
 
 Records  of  the  Reformation.   The  Divorce,  1527-1533.  Mostly
 
-now  for  the  first  time  printed  from  MSS.  in  the  British  Museum  and  other  libra-
-ries. Collected  and  arranged  by  N.  Pocock,  M.A.    1870.    2  vols.  Svo.  1/.  i6j.
+now  for  the  first  time  printed  from  MSS.  in  the  British  Museum  and  other  libraries. Collected  and  arranged  by  N.  Pocock,  M.A.    1870.    2  vols.  Svo.  1/.  i6j.
 
 Shirley  (  W.  W.).    Some  Accottnt  of  the  Church  in  the  Apostolic
 
@@ -23081,9 +21704,6 @@ Ss.  6d.
 Warren  (E.  E.).     Liturgy  and  Ritual  of  the  Celtic  Church.
 
 18S1.  Svo.  14J.
-
-
-CLARENDON  PRESS,  OXFORD
 
 
 ENGLISH    THEOLOGY.
@@ -23162,8 +21782,7 @@ HISTORICAL    AND    DOCUMENTARY    WORKS.
 British  Barroivs,  a  Record  of  the  Examination  of  Sepulchral
 
 Mounds  in  various  parts  of  England.  By  William  Greenwell,  M.A.,  F.S.A.
-Together  with  Description  of  Figures  of  Skulls,  General  Remarks  on  Pre-
-historic Crania,  and  an  Appendix  by  George  Rolleston,  M.D.,  F.R.S.  1877.
+Together  with  Description  of  Figures  of  Skulls,  General  Remarks  on  Prehistoric Crania,  and  an  Appendix  by  George  Rolleston,  M.D.,  F.R.S.  1877.
 Medium  Svo.  25J.
 
 Brit  ton.     A    Treatise   upon   the   Common   Law   of  England,
@@ -23177,8 +21796,7 @@ Clarendon"1  s   History  of    the   Rebellion    and    Civil   Wars    in
 England.    7  vols.    1839.  i8mo.  1/.  u.
 
 Clarendon's  History  of  the  Rebellion  and  Civil  Wars  in
-England.  Also  his  Life,  written  by  himself,  in  which  is  included  a  Con-
-tinuation of  his  History  of  the  Grand  Rebellion.  With  copious  Indexes.
+England.  Also  his  Life,  written  by  himself,  in  which  is  included  a  Continuation of  his  History  of  the  Grand  Rebellion.  With  copious  Indexes.
 In  one  volume,  royal  Svo.  1842.  \l.  is.
 
 Clinton  s  Epitome  of  the  Fasti  Hellenici.     1 85 1 .     Svo.    6s.  6d.
@@ -23186,12 +21804,10 @@ Clinton  s  Epitome  of  the  Fasti  Hellenici.     1 85 1 .     Svo.    6s.  6d
 —  Epitome  of  the  Fasti  Romani.     1854.     Svo.    /S.
 Corpvs  Poeticvm  Boreale.    The  Poetry  of  the  Old  Northern
 
-Tongue,  from  the  Earliest  Times  to  the  Thirteenth  Century.  Edited,  clas-
-sified, and  translated,  with  Introduction.  Excursus,  and  Notes,  by  Gudbrand
+Tongue,  from  the  Earliest  Times  to  the  Thirteenth  Century.  Edited,  classified, and  translated,  with  Introduction.  Excursus,  and  Notes,  by  Gudbrand
 Yigfusson,  M.A.,  and  F.  York  Powell,  M.A.     2  vols.     1883.  Svo.  42J.
 
-FreejnaJi  (E.  A.).  History  of  the  Norman  Conquest  of  Eng-
-land; its  Causes  and  Results.    In  Six  Volumes.   Svo.  5/.  gs.  6d.
+FreejnaJi  (E.  A.).  History  of  the  Norman  Conquest  of  England; its  Causes  and  Results.    In  Six  Volumes.   Svo.  5/.  gs.  6d.
 
 The  Reign   of   William   Rufus  and   the  Accession   of
 
@@ -23216,8 +21832,7 @@ covers,  6j.
 
 CLARENDON  PRESS,  OXFORD.  n
 
-Protests  of  the  Lords,  including  those  which  have  been  ex-
-punged, from  1624  to  1874;  with  Historical  Introductions.  Edited  by  James
+Protests  of  the  Lords,  including  those  which  have  been  expunged, from  1624  to  1874;  with  Historical  Introductions.  Edited  by  James
 E.Thorold  Rogers,  M. A.    1875.    3vols.  Svo.  2/.  2s.
 
 Rogers  (J.  E.  T.).     History  of  Agriculture  and  Prices   in
@@ -23229,8 +21844,7 @@ Vols.  IIIandIV(i40i-i582).  1S82.  Svo.  2/.  \os.
 
 Saxon  Chronicles  [Two  of  the)  parallel,  with  Supplementary
 
-Extracts  from  the  Others.  Edited,  with  Introduction,  Notes,  and  a  Glos-
-sarial  Index,  by  J.  Earle,  M.A.     1S65.     Svo.  16s.
+Extracts  from  the  Others.  Edited,  with  Introduction,  Notes,  and  a  Glossarial  Index,  by  J.  Earle,  M.A.     1S65.     Svo.  16s.
 
 Stubbs   (W.,  D.D.).      Seventeen    Lectures    on   the   Study   of
 
@@ -23276,9 +21890,6 @@ Record  of  University  Honours,  Officers,  Distinctions,  and  Class  Lists;  
 Heads  of  Colleges,  &c,  &c,  from  the  Thirteenth  Century  to  1SS3.
 
 
-12  CLARENDON  PRESS,  OXFORD.
-
-
 MATHEMATICS,  PHYSICAL   SCIENCE,  &c.
 
 Acland{H.  W.,  M.I)..  F.R.S.).     Synopsis  of  the  Pathological
@@ -23291,8 +21902,7 @@ Organs  of  the  Phanerogams  and  Feins.  Translated  and  Annotated  by  F.  O
 Bower,  M.A.,  F.L.S.^  and  D.  H.  Scott,  M.A.,  Ph.D.,  F.L.S.  With  241
 woodcuts  and  an  Index.     Royal  Svo.,  half  morocco,  \l.  2s.  6d.
 
-Gocbcl  [Dr.  K.).  Outlines  of  Classification  and  Special  Mor-
-phology of  Plants.  A  New  Edition  of  Sachs'  Text  Book  of  Botany,  Book  II.
+Gocbcl  [Dr.  K.).  Outlines  of  Classification  and  Special  Morphology of  Plants.  A  New  Edition  of  Sachs'  Text  Book  of  Botany,  Book  II.
 English  Translation  by  H.  E.  F.  Gainsey,  M.A.  Revised  by  I.  Bayley  Balfour,
 M.A.,  M.D.,  F.R.S.     With  407  Woodcuts.     Royal  Svo.  half  Morocco,  2U.
 
@@ -23314,8 +21924,7 @@ Second  Edition,  1865.     Svo.   18s.
 Vol.  III.  Statics,  including  Attractions;  Dynamics  of  a  Material  Particle.
 Second  Edition,  1 868.     Svo.  16s.
 
-Vol.  IV.  Dynamics  of  Material  Systems;  together  with  a  chapter  on  Theo-
-retical Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S:     1S62.     Svo.   165
+Vol.  IV.  Dynamics  of  Material  Systems;  together  with  a  chapter  on  Theoretical Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S:     1S62.     Svo.   165
 
 Pntchard  [C,  D.D.,  F.R.S.).      Uranometria  Nova  Oxoniensis.
 
@@ -23332,8 +21941,7 @@ Rigaud's  Coi'rcspondcnce  of  Scientific  Men  of  the  ijth  Century,
 with  Table  of  Contents  by  A.  de  Morgan,  and  Index  by  the  Rev.  J.  Rigaud,
 M.A.     2  vols.     1S41-1S62.     8vo.  iSs.6d.
 
-Rollcstou  [George,  M.D.,  F.R.S.).  Scientific  Papers  and  Ad-
-dresses. Arranged  and  Edited  by  William  Turner,  M.B.,  F.R.S.  With  a
+Rollcstou  [George,  M.D.,  F.R.S.).  Scientific  Papers  and  Addresses. Arranged  and  Edited  by  William  Turner,  M.B.,  F.R.S.  With  a
 Biographical  Sketch  by  Edward  Tylor,  F.R.S.  With  Portrait,  Plates,  and
 Woodcuts.     2  vols.  Svo.    \l.  4s.
 
@@ -23342,9 +21950,6 @@ Westwood  [J.  O.,  M.A.,  F.R.S.).      Thesaurus  Entomologicus
 Hopcianus,  or  a  Description  of  the  rarest  Insects  in  the  Collection  given  to
 the  University  by  the  Rev.  William  Hope.  With  40  Plates.  1S74.  Small
 folio,  hall  morocco,  'jl.ios.
-
-
-CLARENDON  PRESS,  OXFORD.  13
 
 
 Wat  ^acrrty  <t3oofts  of  tfje  lEast.
@@ -23357,8 +21962,7 @@ F.  Max  Muller.
 
 Vol.    I.    The    Upanishacls.     Translated   by  F.   Max    Muller.
 
-Part  I.  The  A"Mndogya-upanishad,  The  Talavakara-upanishad,  The  Aitareya-
-ara«yaka,  The  Kaushitaki-brahma»a-upanishad,  and  The  Va^asaneyi-sawhita-
+Part  I.  The  A"Mndogya-upanishad,  The  Talavakara-upanishad,  The  Aitareyaara«yaka,  The  Kaushitaki-brahma»a-upanishad,  and  The  Va^asaneyi-sawhita-
 upanishad.     ics.  6d.
 
 Vol.  II.  The  Sacred  Laws  of  the  Aryas,  as  taught  in   the
@@ -23366,8 +21970,7 @@ Vol.  II.  The  Sacred  Laws  of  the  Aryas,  as  taught  in   the
 Schools  of  Apastamba,  Gautama,  VasishMa,  and  Baudhayana.  Translated  by
 Prof.  Georg  Biihler.     Part  I.  Apastamba  and  Gautama,     iar.  6d.
 
-Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Con-
-fucianism. Translated  by  James  Legge.  Part  I.  The  Shu  King,  The  Reli-
+Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Confucianism. Translated  by  James  Legge.  Part  I.  The  Shu  King,  The  Reli-
 gious portions  of  the  Shih  King,  and  The  Hsiao  King.     7  is.  6d.
 
 Vol.   IV.  The  Zend-Avesta.     Translated  by  James  Darme-
@@ -23396,8 +21999,7 @@ Canonical  Books  of  the  Buddhists.     10s.  6d.
 
 Vol.  XI.  Buddhist  Suttas.      Translated  from   Pali  by  T.  W.
 
-Rhys  Davids.  1.  The  Mahaparinibbana  Suttanta  ;  2.  The  Dhamma-^akka-
-ppavattana  Sutta  ;  3.  The  Tevi^a  Suttanta;  4.  The  Akankheyya  Sutta ;
+Rhys  Davids.  1.  The  Mahaparinibbana  Suttanta  ;  2.  The  Dhamma-^akkappavattana  Sutta  ;  3.  The  Tevi^a  Suttanta;  4.  The  Akankheyya  Sutta ;
 5.  The  Aetokhila  Sutta;  6.  The  Maha-sudassana  Suttanta  ;  7.  TheSabbasava
 Sutta.     10s.  Gd.
 
@@ -23420,12 +22022,10 @@ by  Georg  Buhler.     Part  II.     Vasish/^a  and  Baudhayana.     10s.  6d.
 
 Vol.  XV.     The  Upanishads.     Translated  by  F.  Max  Miiller.
 
-Part  II.  The  Ka///a-upanishad,  The  Muw^aka-upanishad,  The  Taittiriyaka-
-upanishad,  The  B;-/hadara/zyaka-upanishad,  The  .SVetajvatara-upanishad,  The
+Part  II.  The  Ka///a-upanishad,  The  Muw^aka-upanishad,  The  Taittiriyakaupanishad,  The  B;-/hadara/zyaka-upanishad,  The  .SVetajvatara-upanishad,  The
 Prajv/a-upanishad,  and  The  Maitraya7/a-Brahma«a-upanishad.     10s.  6d.
 
-Vol.  XVI.  The  Sacred  Books  of  China.  The  Texts  of  Con-
-fucianism.   Translated  by  James  Legge.     Part  II.  The  Yi  King.     10s.  6d.
+Vol.  XVI.  The  Sacred  Books  of  China.  The  Texts  of  Confucianism.   Translated  by  James  Legge.     Part  II.  The  Yi  King.     10s.  6d.
 
 Vol.  XVII.  Vinaya  Texts.  Translated  from  the  Pali  by
 T.  W.  Rhys  Davids  and  Hermann  Oldenberg.  Part  II.  The  Mahavagga,
@@ -23436,8 +22036,7 @@ Vol.  XVIII.    Pahlavi    Texts.      Translated    by  E.  W.  West.
 Part  II.     The  Da^istan-i  Dinik  and  The  Epistles  of  ManiU/Hhar.     12s.  6d.
 Vol.  XIX.   The  Fo-sho-hing-tsan-king.     A  Life  of  Buddha
 
-by  A.rvaghosha  Bodhisattva,  translated  from  Sanskrit  into  Chinese  by  Dhnr-
-maraksha,  a.d.  420,  and  from  Chinese  into  English  by  Samuel  Beal.     10s.  6d.
+by  A.rvaghosha  Bodhisattva,  translated  from  Sanskrit  into  Chinese  by  Dhnrmaraksha,  a.d.  420,  and  from  Chinese  into  English  by  Samuel  Beal.     10s.  6d.
 
 Vol.  XX.  Vinaya  Texts.     Translated  from  the  Pali  by  T.  W.
 
@@ -23447,8 +22046,7 @@ ioj.  6d.
 Vol.  XXI.  The  Saddharma-pu/v^arika ;  or,  the  Lotus  of  the
 True  Law.     Translated  by  II.  Kern.     1 2s.  6d.
 
-Vol.  XXII.  Caina-Siitras.  Translated  from  Prakrit  by  Her-
-mann Jacobi.     Part  I.     The  AMrahga-Sulra.     The  Kalpa-Sutra.     ioj.  6d.
+Vol.  XXII.  Caina-Siitras.  Translated  from  Prakrit  by  Hermann Jacobi.     Part  I.     The  AMrahga-Sulra.     The  Kalpa-Sutra.     ioj.  6d.
 
 Vol.  XXIII.     The  Zend-Avesta.     Translated  by  James  Dar-
 
@@ -23457,9 +22055,6 @@ mesteter.    Part  II.     The  Sirozahs,  Ya.rts,  and  Nyayij.     10s.  6d.
 Vol.  XXIV.   Pahlavi   Texts.      Translated    by  E.  W.  West.
 
 Part  III.     Dina-i  Mainog-i  Khirad,  .Sikand-gumanik.  and  Sad-Dar.     los.Cd.
-
-
-CLARENDON  PRESS,  OXFORD.  15
 
 
 Second  Series.
@@ -23495,13 +22090,9 @@ Vol.    XXXIII.       Narada. .  and    some    Minor     Law-books.
 
 Translated  by  Julius  Jolly.     \_Preparing.~]
 
-Vol.  XXXIV.     The  Vedanta-Sutras,  with    .Sarikara's   Com-
-mentary.    Translated  by  G.  Thibaut.     [Preparing.]
+Vol.  XXXIV.     The  Vedanta-Sutras,  with    .Sarikara's   Commentary.    Translated  by  G.  Thibaut.     [Preparing.]
 
 *%*   The  Second  Series  will  consist  of  Twenty-Four  Volumes.
-
-
-1 6  CLARENDON  PRESS,  OXFORD.
 
 
 Clamttron  Urcss  Series
@@ -23531,8 +22122,7 @@ An  English  Grammar  and  Reading  Book,  for  Lower  Forms
 in  Classical  Schools.     By  O.  W.  Tancock,  M.A.     Fourth  Edition.     Extra
 fcap.  Svo.    3J.  6d.
 
-Typical  Selections  from  the  best  English  Writers,  with  Intro-
-ductory Notices.  Second  Edition.     In  2  vols.    Extra  fcap.  Svo.  3-f.  6d.  each.
+Typical  Selections  from  the  best  English  Writers,  with  Introductory Notices.  Second  Edition.     In  2  vols.    Extra  fcap.  Svo.  3-f.  6d.  each.
 Vol.  I.  Latimer  to  Berkeley.  Vol.  II.  Pope  to  Macaixlay.
 
 Shairp  {J.  C.,  LL.D.).     Aspects  of  Poetry ;    being  Lectures
@@ -23544,8 +22134,7 @@ A  Book  for  the  Beginner  in  Anglo-Saxon.     By  John  Earle,
 
 M.A.     Third  Edition.     Extra  fcap.  Svo.   2s.  6d.
 
-An  Anglo-Saxon  Reader.  In  Prose  and  Verse.  With  Gram-
-matical Introduction,  Notes,  and  Glossary.  By  Henry  Sweet,  M.A.  Fourth
+An  Anglo-Saxon  Reader.  In  Prose  and  Verse.  With  Grammatical Introduction,  Notes,  and  Glossary.  By  Henry  Sweet,  M.A.  Fourth
 Edition,  Revised  and  Enlarged.     Extra  fcap.  Svo.  8s.  6d.
 
 A  Second  Anglo-Saxon  Reader.    By  the  same  Author.  Extra
@@ -23572,9 +22161,6 @@ Just  Published.
 
 Principles  of  English  Etymology.  First  Series.  By  W.  W.
 Skeat,  Litt.D.     Crown  Svo.     Nearly  ready.
-
-
-CLARENDON  PRESS,  OXFORD.  17
 
 
 The   Philology  of  the  English   Tongue.     By  J.   Earle,  M.A.
@@ -23614,8 +22200,7 @@ Second  Edition.    Extra  fcap.  8vo.  *js.  6d.
 
 Specimens   of  English    Literature,   from    the    '  Ploughmans
 
-Crede'  to  the  '  Shepheardes  Calender'  (a.d.  1394  to  A.D.  1579).  With  Intro-
-duction, Notes,  and  Glossarial  Index.  By  W.  W.  Skeat,  M.A.  Extra  fcap.
+Crede'  to  the  '  Shepheardes  Calender'  (a.d.  1394  to  A.D.  1579).  With  Introduction, Notes,  and  Glossarial  Index.  By  W.  W.  Skeat,  M.A.  Extra  fcap.
 8vo.     7$.  6d.
 
 The  Vision  of  William  concerning  Piers  the  Plowman,  in  three
@@ -23656,8 +22241,6 @@ Notes,  by  Joseph  Hall,  M.A.     Extra  fcap.  8vo.     Nearly  ready.
 
 C
 
-
-1 8  CLARENDON  PRESS,  OXFORD.
 
 Spenser  s  Faery  Queene.     Books  I  and  II.     Designed  chiefly
 
@@ -23732,11 +22315,7 @@ Samson  Agonistes,  6d.
 Notes  by  John  Churton  Collins.     Extra  fcap.  Svo.  stiff  covers,  is.
 
 
-CLARENDON  PRESS,  OXFORD.  19
-
-
-Bunyan.  I.  The  Pilgrims  Progress,  Grace  Abounding,  Rela-
-tion of  the  Imprisonment  of  Mr.  John  Bunyan.  Edited,  with  Biographical
+Bunyan.  I.  The  Pilgrims  Progress,  Grace  Abounding,  Relation of  the  Imprisonment  of  Mr.  John  Bunyan.  Edited,  with  Biographical
 Introduction  and  Notes,  by  E.  Venables,  M.A.  1S79.  Extra  fcap.  8vo.  5-r.
 In  ornamental  Parchment,  6s.
 
@@ -23754,8 +22333,7 @@ Cromwell;  Astrcea  Redux;  Annus  Mirabilis ;  Absalom  and  Achitophel;
 Religio  Laici ;  The  Hind  and  the  Panther.  Edited  by  W.  D.  Christie,  M.A.
 Second  Edition.     Extra  fcap.  Svo.  y.  6d.
 
-Locke's  Conduct  of  the  Understanding.  Edited,  with  Intro-
-duction, Notes,  &c,  by  T.  Fowler,  M.A.  Second  Edition.   Extra  fcap.  Svo.   2s.
+Locke's  Conduct  of  the  Understanding.  Edited,  with  Introduction, Notes,  &c,  by  T.  Fowler,  M.A.  Second  Edition.   Extra  fcap.  Svo.   2s.
 
 Addison.    Selections  from  Papers  in  the  Spectator.  With  Notes.
 
@@ -23810,8 +22388,6 @@ Minor  Poems,  A.D.  1 7S4-1799.     Second  Edition.     Extra  fcap.  8vo.  3J
 
 c  2
 
-
-20  CLARENDON  PRESS,  OXFORD.
 
 Burke.     Select  Works.     Edited,  with  Introduction  and  Notes,
 
@@ -23887,8 +22463,6 @@ Passages  for  Translation  into  Latin.     For  the  use  of  Passmen
 and   others.     Selected  by  J.  Y.  Sargent,  M.A.    Fifth  Edition.    Extra  fcap.
 Svo.  2 s.  6d.
 
-
-CLARENDON  PRESS,  OXFORD.  21
 
 Exercises  in   Latin  Prose   Composition ;    with   Introduction,
 
@@ -23967,15 +22541,12 @@ Livy.     Books  XXI,  XXII,  and  XXIII.     With  Introduction
 and  Notes.    By  M.  T.  Tatham,  M.A.    Extra  fcap.  8vo.  4s.  6d.
 
 
-22  CLARENDON  PRESS,  OXFORD.
-
 Ovid.     Selections  for  the  use  of  Schools.    With  Introductions
 
 and  Notes,  and  an  Appendix  on  the  Roman  Calendar.    By  W.  Ramsay,  M.A.
 Edited  by  G.  G.  Ramsay,  M.A.     Third  Edition.     Extra  fcap.  8vo.  $s.  6d.
 
-Ovid.  Tristia.  Book  I.  The  Text  revised,  with  an  Intro-
-duction and  Notes.     By  S.  G.  Owen,  B.A.    Extra  fcap.  Svo.  3s.  6d.
+Ovid.  Tristia.  Book  I.  The  Text  revised,  with  an  Introduction and  Notes.     By  S.  G.  Owen,  B.A.    Extra  fcap.  Svo.  3s.  6d.
 
 Plautas.     Captivi.     Edited  by  W.  M.  Lindsay,  M.A.     Extra
 
@@ -23994,8 +22565,7 @@ Sallust.     With  Introduction  and  Notes.     By  W.  W.  Capes,
 
 M.A.     Extra  fcap.  Svo.     4^.  6d.
 
-Tacitus.  The  Annals.  Books  I-IV.  Edited,  with  Introduc-
-tion and  Notes  for  the  use  of  Schools  and  Junior  Students,  by  H.  Furneaux.
+Tacitus.  The  Annals.  Books  I-IV.  Edited,  with  Introduction and  Notes  for  the  use  of  Schools  and  Junior  Students,  by  H.  Furneaux.
 M.A.    Extra  fcap.  Svo.    $s.
 
 Terence.     Andria.     With  Notes  and  Introductions.     By  C.
@@ -24044,8 +22614,6 @@ Philippic  Orations.     With  Notes.     By  J.  R.'  King,  M.A.
 Second  Edition.     1879.     Svo.  \os.  6d.
 
 
-CLARENDON  PRESS,  OXFORD.  23
-
 Cicero.     Select  Letters.     With  English  Introductions,  Notes,
 and  Appendices.     By  Albert  Watson,  M. A.    Third  Edition.    Demy  8vo.  185.
 
@@ -24088,12 +22656,10 @@ Crown  8vo.     Complete,  6s.    Just  Published.
 
 Also  separately,  Part  I.  Introduction,  Text,  etc.,  35.        Part  II.  Notes,  35.  6d.
 
-Tacitus.     The  Annals.     Books  I- VI.     Edited,  with    Intro-
-duction and  Notes,  by  H.  Furneaux,  M.A.    8vo.  iSj-.
+Tacitus.     The  Annals.     Books  I- VI.     Edited,  with    Introduction and  Notes,  by  H.  Furneaux,  M.A.    8vo.  iSj-.
 
 
-Nettleship  (H.,  M.A.).     Lectures  and  Essays  on  Subjects  con-
-nected with  Latin  Scholarship  and  Literature.     Crown  8vo.  7-f.  6d.
+Nettleship  (H.,  M.A.).     Lectures  and  Essays  on  Subjects  connected with  Latin  Scholarship  and  Literature.     Crown  8vo.  7-f.  6d.
 
 The  Roman  Satura :  its  original  form  in  connection  with
 
@@ -24121,9 +22687,6 @@ and  Enlarged.     18S1.     Svo.  \\s.
 Wordsworth  (J.,  M.A.).     Fragments  and  Specimefis  of  Early
 
 Latin.     With  Introductions  and  Notes.    1874.    8vo.  i8j.
-
-
-24  CLARENDON  PRESS,  OXFORD.
 
 
 III.    GREEK.
@@ -24177,8 +22740,7 @@ Fifth   Greek  Reader.      Selections   from    Greek    Epic    and
 Dramatic  Poetry,  with  Introductions  and  Notes.     By  Evelyn  Abbott,  M.A.
 Extra  fcap.  Svo.  4s.  6d.
 
-The  Golden  Treasury  of  Ancient  Greek  Poetry:  being  a  Col-
-lection of  the  finest  passages  in  the  Greek  Classic  Poet?,  with  Introductory
+The  Golden  Treasury  of  Ancient  Greek  Poetry:  being  a  Collection of  the  finest  passages  in  the  Greek  Classic  Poet?,  with  Introductory
 Notices  and  Notes.    By  R.  S.  Wright.  M.A.     Extra  fcap.  8vo.  Sj.  6d.
 
 A  Golden  Treasury  of  Greek  Prose,  being  a  Collection  of  the
@@ -24187,8 +22749,7 @@ finest  passages  in  the  principal  Greek  Prose  Writers,  with  Introductory
 and  Notes.  By  R.  S.  Wright,  M.A.,  and  J.  E.  L.  Shadwell,  M.A.  Extra  fcap.
 Svo.  4s.  6d.
 
-Aeschylus.  Prometheus  Bound  (for  Schools).  With  Introduc-
-tion and  Notes,  by  A.  O.  Prickard,  M.A.  Second  Edition.  Extra  fcap.  Svo.  2s.
+Aeschylus.  Prometheus  Bound  (for  Schools).  With  Introduction and  Notes,  by  A.  O.  Prickard,  M.A.  Second  Edition.  Extra  fcap.  Svo.  2s.
 
 Agamemnon.     With  Introduction  and  Notes,  by  Arthur
 
@@ -24199,8 +22760,6 @@ Choephoroi.     With  Introduction  and  Notes  by  the  same
 
 Editor.     Extra  fcap.  Svo.   3J.
 
-
-CLARENDON  PRESS,  OXFORD.  25
 
 Aristophanes.     In  Single  Plays.     Edited,  with  English  Notes,
 
@@ -24279,10 +22838,7 @@ and  a  Preface  by  the  Rev.  B.  Jowett,  M.A.    Extra  fcap.  Svo.  6s.  fi
 c  3
 
 
-26  CLARENDON  PRESS,  OXFORD.
-
-Sophocles.  For  the  use  of  Schools.  Edited  with  Intro-
-ductions and  English  Notes  By  Lewis  Campbell,  M.A.,  and  Evelyn  Abbott,
+Sophocles.  For  the  use  of  Schools.  Edited  with  Introductions and  English  Notes  By  Lewis  Campbell,  M.A.,  and  Evelyn  Abbott,
 M.A.     New  and  Revised  Edition.     2  Vols.     Extra  fcup.  8vo.     ioj-.  6d.
 
 Sold  separately,  Vol.  I,  Text,  4^.  6d. ;  Vol.  II,  Explanatory  Notes,  6s.
@@ -24345,11 +22901,8 @@ Head  {Barclay  V.).    Historia  Numorum:  A  Manual  of  Greek
 
 Numismatics.     Royal  8vo.  half-bound.     2/.  2s.    Just  Published.
 
-Hicks  (E.  L.,M.A.).    A  Manual  of  Greek  Historical  Inscrip-
-tions.   Demy  Svo.  ioj.  6d.
+Hicks  (E.  L.,M.A.).    A  Manual  of  Greek  Historical  Inscriptions.   Demy  Svo.  ioj.  6d.
 
-
-CLARENDON  PRESS,  OXFORD.  27
 
 Homer.     Odyssey,  Books  I-XII.     Edited  with  English  Notes,
 
@@ -24374,8 +22927,7 @@ Brackets  Etymological  Dictionary  of  the  French  Language,
 with  a  Preface  on  the  Principles  of  French  Etymology.     Translated  into
 English  by  G.  W.  Kitchin,  D.D.    Third  Edition.     Crown  8vo.  p.  6d.
 
-Historical  Grammar  of  the  French  Language.  Trans-
-lated into  English  by  G.  W.  Kitchin,  D.D.  Fourth  Edition.  Extra  fcap.
+Historical  Grammar  of  the  French  Language.  Translated into  English  by  G.  W.  Kitchin,  D.D.  Fourth  Edition.  Extra  fcap.
 Svo.  y.  6d.
 
 Works  by  GEOEGE  SAIBTTSBUEY,  M.A.
@@ -24415,8 +22967,6 @@ Svo.  2S.
 The  above  six  Plays  may  be  had  in  ornamental  case,  and  bound
 in  Imitation  Parchment,  price  12s.  6d.
 
-
-28  CLARENDON  PRESS,  OXFORD.
 
 Sainte-Beuve.    Selections  from  the  Causeries  du  Lundi.   Edited
 
@@ -24482,11 +23032,7 @@ Dante.     Selections  from  the  Inferno.     With  Introduction  and
 
 Notes.     By  H.  B.  Cotterill,  B.A.     Extra  fcap.  Svo.  4^.  6d.
 
-Tasso.     La  Gerusalemme  Libera ta.     Cantos  i,  ii.     With  In-
-troduction and  Notes.    By  the  same  Editor.    Extra  fcap.  8vo.  2s.  6d.
-
-
-CLARENDON  PRESS,  OXFORD.  29
+Tasso.     La  Gerusalemme  Libera ta.     Cantos  i,  ii.     With  Introduction and  Notes.    By  the  same  Editor.    Extra  fcap.  8vo.  2s.  6d.
 
 
 V.    GERMAN.
@@ -24535,8 +23081,7 @@ Goethe's  Fgmont.  With  a  Life  of  Goethe,  &c.    Third  Edition.
 
 Extra  fcap.  Svo.  y.
 
-Lphigcnie  auf  Tauris.     A  Drama.     With  a  Critical  In-
-troduction and  Notes.    Second  Edition.     Extra  fcap.  Svo.  3^.
+Lphigcnie  auf  Tauris.     A  Drama.     With  a  Critical  Introduction and  Notes.    Second  Edition.     Extra  fcap.  Svo.  3^.
 
 Heine's  Prosa,  being  Selections  from  his  Prose  Works.     With
 
@@ -24562,15 +23107,13 @@ Schiller's  HistoriscJic  Skizzen ;  Egmonts  Leben  und  Tod,  and
 
 Belagerung  von  Antzverpen.     With  a  Map.     Extra  fcap.  8vo.  2s.  6d.
 
-WilJielm  Tell.  With  a  Life  of  Schiller ;  an  his-
-torical and  critical  Introduction,  Arguments,  and  a  complete  Commentary,
+WilJielm  Tell.  With  a  Life  of  Schiller ;  an  historical and  critical  Introduction,  Arguments,  and  a  complete  Commentary,
 and  Map.     Sixth  Edition.     Extra  fcap.  8vo.  ^s.  6d.
 
 ■    WilJielm  Tell.    School  Edition.   With  Map.    is.
 
 
-Modern  German  Reader.     A   Graduated   Collection   of  Ex-
-tracts in  Prose  and  Poetry  from  Modern  German  writers  : —
+Modern  German  Reader.     A   Graduated   Collection   of  Extracts in  Prose  and  Poetry  from  Modern  German  writers  : —
 Part  I.     With   English   Notes,   a   Grammatical   Appendix,  and   a   complete
 
 Vocabulary.    Fourth  Edition.   Extra  fcap.  8vo.  2s.6d.
@@ -24609,8 +23152,7 @@ Astronomy.    Third  Edition.     1877.    Demy  Svo.  28s.
 
 Clarke  (Col.  A.  R.,  C.B.,R.E.).    Geodesy.    1880.    Svo.  11s.  6d.
 
-Cremona  (Luigi).     Elements  of  Projective  Geometry.     Trans-
-lated by  C.  Leudesdorf,  M.A.     Svo.     12s.  6d.
+Cremona  (Luigi).     Elements  of  Projective  Geometry.     Translated by  C.  Leudesdorf,  M.A.     Svo.     12s.  6d.
 
 Donkin.     Acoustics.     Second  Edition.     Crown  Svo.     Js.  6d.
 
@@ -24625,8 +23167,6 @@ Books  I-IV.     3s.  6d.  Books  I,  II.     is.  6d.
 
 Book  I.     is.
 
-
-CLARENDON  PRESS,   OXFORD.  31
 
 Galton  {Douglas,  C.B.,  F.R.S.).     The  Construction  of  Healthy
 
@@ -24659,8 +23199,7 @@ An   Elementary    Treatise    on    Electricity .     Edited    by
 
 William  Garnett,  M.A.     Demy  Svo.  7-f.  6d.
 
-Minchin  (G.  M.,  M.A.).  A  Treatise  on  Statics  with  Applica-
-tions to  Physics.  Third  Edition,  Corrected  and  Enlarged.  Vol.  I.  Equili-
+Minchin  (G.  M.,  M.A.).  A  Treatise  on  Statics  with  Applications to  Physics.  Third  Edition,  Corrected  and  Enlarged.  Vol.  I.  Equili-
 brium of  Coplanar  Forces.  Svo.  gs.   Vol.  II.  Statics.  Svo.  i6.r.
 
 Uniplanar  Kinematics  of  Solids  and  Fluids.     Crown
@@ -24698,8 +23237,6 @@ numerous  Woodcuts  and  Diagrams.  Fourth  Edition.  Extra  fcap.  Svo.
 is.  6d.
 
 
-32  CLARENDON  PRESS,  OXFORD.
-
 Vemo7i-Harcourt  (L.  F.,  M. A.).     A   Treatise  on  Rivers  and
 
 Canals,  relating  to  the  Control  and  Improvement  of  Rivers,  and  the  Design,
@@ -24708,8 +23245,7 @@ Plates.)     8vo.  2\s.
 
 Harbours  and  Docks ;  their  Physical  Features,  History,
 
-Construction,  Equipment,  and  Maintenance ;  with  Statistics  as  to  their  Com-
-mercial Development.     2  vols.  8vo.  25J.
+Construction,  Equipment,  and  Maintenance ;  with  Statistics  as  to  their  Commercial Development.     2  vols.  8vo.  25J.
 
 Watson  (H.  W.,  M.A.).     A   Treatise  on  the  Kinetic  Theory
 
@@ -24721,8 +23257,7 @@ I.  A  Treatise  on  the  Application  of  Generalised  Coordinates  to  the  Ki
 
 a  Material  System.     1879.  8vo.  6s.
 
-II.  The  Mathematical  Theory  of  Electricity  and  Magnetism.     Vol.  I.  Electro-
-statics.    Svo.  iaf.  6d.
+II.  The  Mathematical  Theory  of  Electricity  and  Magnetism.     Vol.  I.  Electrostatics.    Svo.  iaf.  6d.
 
 Williamson   {A.    W.,   Phil.   Doc,   F.R.S.).      Chemistry  for
 
@@ -24733,14 +23268,11 @@ VII.  HISTORY.
 
 Bhtntschli  (J.  K.).     The  Theory  of  the    State.      By   J.   K.
 
-Bluntschli,  late  Professor  of  Political  Sciences  in  the  University  of  Heidel-
-berg. Authorised  English  Translation  from  the  Sixth  German  Edition.
+Bluntschli,  late  Professor  of  Political  Sciences  in  the  University  of  Heidelberg. Authorised  English  Translation  from  the  Sixth  German  Edition.
 Demy  8vo.  half  bound,  \2s.  6d.
 
-Finlay  (George,  LL.D.).  A  History  of  Greece  from  its  Con-
-quest by  the  Romans  to  the  present  time,  B.C.  146  to  a.d.  1S64.  Anew
-Edition,  revised  throughout,  and  in  part  re-written,  with  considerable  ad-
-ditions, by  the  Author,  and  edited  by  H.  F.  Tozer,  M.A.  7  vols.  8vo.  3/.  10s.
+Finlay  (George,  LL.D.).  A  History  of  Greece  from  its  Conquest by  the  Romans  to  the  present  time,  B.C.  146  to  a.d.  1S64.  Anew
+Edition,  revised  throughout,  and  in  part  re-written,  with  considerable  additions, by  the  Author,  and  edited  by  H.  F.  Tozer,  M.A.  7  vols.  8vo.  3/.  10s.
 
 Fortescne   (Sir  John,  Kt.).      The    Governance  of  England:
 
@@ -24769,8 +23301,6 @@ Vol.  1.  Down  to  the  Year  1453.
 
 Vol.  2.  From  1453-1624.  Vol.  3.  From  1624-1793.
 
-
-CLARENDON  PRESS,  OXFORD.  33
 
 Payne  {E.  J.,  M.A.).     A    History  of  the    United  States  of
 
@@ -24825,8 +23355,7 @@ Anson  {Sir  William  R.,  Bart.,  D.C.L.).     Principles   of  the
 English  Lazv  of  Contract,  and  of  Agency  in  its  Relation  to  Contract.  Fourth
 Edition.    Demy  Svo.  ioj.  6d.
 
-Lazv  and  Custom  of  the  Constitution.  Part  I.  Parlia-
-ment.    Demy  Svo.  \os.  6d.
+Lazv  and  Custom  of  the  Constitution.  Part  I.  Parliament.    Demy  Svo.  \os.  6d.
 
 Bentham   {Jeremy).      An   Introduction    to   the   Principles   of
 
@@ -24850,8 +23379,7 @@ Holland  (T.  E.,  D.C.L.).     The   Elements   of  Jurisprudence.
 
 Third  Edition.     Demy  Svo.  \os.  6d.
 
-The  European  Concert  in  the  Eastern  Question,  a  Col-
-lection of  Treaties  and  other  Public  Acts.  Edited,  with  Introductions  and
+The  European  Concert  in  the  Eastern  Question,  a  Collection of  Treaties  and  other  Public  Acts.  Edited,  with  Introductions  and
 Notes,  by  Thomas  Erskine  Holland,  D.C.L.     8vo.  12s.  6d.
 
 Imperatoris  lustiniani  Institutionum  Libri  Quatiuor  ;    with
@@ -24880,8 +23408,7 @@ being  a  Commentary  on  the  Title  of  the  Digest  '  Ad  Legem  Aquiliam  '
 With  an  Introduction  to  the  Study  of  the  Corpus  Iuris  Civilis.  By  Erwin
 Grueber,  Dr.  Jur.,  M.A.     Demy  8vo.   \os.  6d.
 
-Markby  (  W.,  D.C.L.).  Elements  of  Law  Considered  with  refer-
-ence to  Principles  of  General  Jurisprudence.  Third  Edition.  Demy  Svo.  \2s.6d.
+Markby  (  W.,  D.C.L.).  Elements  of  Law  Considered  with  reference to  Principles  of  General  Jurisprudence.  Third  Edition.  Demy  Svo.  \2s.6d.
 
 Twiss  (Sir  Travers,  D.C.L.).    The  Law  of  Nations  considered
 
@@ -24913,8 +23440,6 @@ For  the  use  of  Students  in  the  Universities.  By  Alexander  Campbell  Fr
 LL.D.     Second  Edition.     Crown  Svo.  7.?.  6d.
 
 
-CLARENDON  PRESS,  OXFORD.  35
-
 Foivler  ( T.,  D.D.).    The  Elements  of  Deductive  Logic,  designed
 
 mainly  for  the  use  of  Junior  Students  in  the  Universities.     Eighth  Edition,
@@ -24939,8 +23464,7 @@ Danson  (J.  T).     The  Wealth  of  Households.     Crown  8vo.  $s.
 Green  (T.  H.,  M.A.).  Prolegomena  to  Ethics.  Edited  by
 A.  C.  Bradley,  M.A.     Demy  Svo.  \is.  6d.
 
-Hegel.  The  Logic  of  Hegel ;  translated  from  the  Encyclo-
-paedia of  the  Philosophical  Sciences.  With  Prolegomena  by  William
+Hegel.  The  Logic  of  Hegel ;  translated  from  the  Encyclopaedia of  the  Philosophical  Sciences.  With  Prolegomena  by  William
 Wallace,  M.A.     1874.    8vo.  14J.
 
 Lotze's  Logic,  in  Three  Books ;   of  Thought,  of  Investigation,
@@ -24988,8 +23512,6 @@ A    Treatise  on  Musical  Form  and  General  Composition.
 Second  Edition.  4to.  10s.
 
 
-3 6  CLARENDON  PRESS,  OXFORD.
-
 Robinson  [J.  C,  F.S.A.).   A  Critical  Account  of  the  Drawings
 
 by  Michel  Angelo  and  Raffaello  in  the  University  Galleries,  Oxford.     1870.
@@ -25012,23 +23534,19 @@ Upcott  (L.  E.,  M.A.).      An  Introduction  to  Greek  Sculpture.
 
 Crown  Svo.  4s.  6d.
 
-Vaux(W.  S.  W.,  M.A.).      Catalogue  of  the  Castellani  Collec-
-tion of  Antiquities  in  the  University  Galleries,  Oxford.     Crown  Svo.  is.
+Vaux(W.  S.  W.,  M.A.).      Catalogue  of  the  Castellani  Collection of  Antiquities  in  the  University  Galleries,  Oxford.     Crown  Svo.  is.
 
 
-The  Oxford  Bible  for  Teachers,  containing  supplemen-
-tary Helps  to  the  Study  of  the  Bible,  including  Summaries
+The  Oxford  Bible  for  Teachers,  containing  supplementary Helps  to  the  Study  of  the  Bible,  including  Summaries
 of  the  several  Books,  with  copious  Explanatory  Notes  and  Tables
 illustrative  of  Scripture  History  and  the  characteristics  of  Bible
-Lands;  with  a  complete  Index  of  Subjects,  a  Concordance,  a  Diction-
-ary of  Proper  Names,  and  a  series  of  Maps.  Prices  in  various  sizes
+Lands;  with  a  complete  Index  of  Subjects,  a  Concordance,  a  Dictionary of  Proper  Names,  and  a  series  of  Maps.  Prices  in  various  sizes
 and  bindings  from  3-y.  to  2/.  $s.
 
 
 Helps  to  the  Study  of  the  Bible,  taken  from  the
 Oxford  Bible  for  Teachers,  comprising  Summaries  of  the
-several  Books,  with  copious  Explanatory  Notes  and  Tables  illus-
-trative of  Scripture  History  and  the  Characteristics  of  Bible  Lands  ;
+several  Books,  with  copious  Explanatory  Notes  and  Tables  illustrative of  Scripture  History  and  the  Characteristics  of  Bible  Lands  ;
 with  a  complete  Index  of  Subjects,  a  Concordance,  a  Dictionary
 of  Proper  Names,  and  a  series  of  Maps.  Crown  8vo.  cloth,  3.?.  6d. ;
 161110.  cloth,  is.
@@ -25073,7 +23591,6 @@ fi&*Cli&-*ki&$tf&r2 '
 
 mam »;
 
-9
 
 -
 
@@ -25096,8 +23613,6 @@ Si      H
 i
 
 1  1  ■
-
-1
 
 
 ■mm]        Braes

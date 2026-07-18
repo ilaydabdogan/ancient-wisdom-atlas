@@ -126,8 +126,6 @@ IV.
 Report  by  Polo  de  Ondegardo        -  -     151
 
 
-INDEX.
-
 I.— Subjects  -  -  -  -  -  173
 
 II. — Names  of  Places    -  -  -  -  -  177
@@ -145,12 +143,9 @@ INTRODUCTION.
 
 
 Much  as  students  would  now  prize  the  information
-that  was  collected  by  the  Spaniards  who  first  over-
-ran the  New  World,  they  can  only  obtain  a  small
-fraction  of  it.  In  these  days,  when  scientific  me-
-thods are  understood,  and  all  evidence  can  be  sifted
-and  receive  its  relative  weight,  much  of  that  evi-
-dence is  lost.  Of  all  the  narratives  and  reports  fur-
+that  was  collected  by  the  Spaniards  who  first  overran the  New  World,  they  can  only  obtain  a  small
+fraction  of  it.  In  these  days,  when  scientific  methods are  understood,  and  all  evidence  can  be  sifted
+and  receive  its  relative  weight,  much  of  that  evidence is  lost.  Of  all  the  narratives  and  reports  fur-
 nished to  Herrera,  for  his  history  of  the  Indies,  and
 of  which  he  made  such  scanty  and  unintelligent  use,
 very  few  have  been  preserved.  Diligent  search,  for
@@ -158,8 +153,7 @@ which  we  have  to  thank  Don  Pascual  de  Gayangos,
 has  brought  four  such  documents  to  light,  relating
 to  ancient  Peruvian  history,  translations  of  which
 have  been  selected  by  the  Council  of  the  Hakluyt
-Society  to  form  a  volume  of  their  series.  The  ori-
-ginals are  manuscripts  in  the  National  Library  at
+Society  to  form  a  volume  of  their  series.  The  originals are  manuscripts  in  the  National  Library  at
 Madrid,  marked  B  135.
 
 The  first  of  these  manuscripts  is  a  report  on  the
@@ -180,8 +174,7 @@ grand  parents  were  living  at  the  time  of  the  Spanish
 conquest  of  Peru  ;  so  that  the  author  may  have
 written  in  about  1620.
 
-The  third  is  an  account  of  the  religion  and  tradi-
-tions of  the  Indians  of  the  mountainous  province  of
+The  third  is  an  account  of  the  religion  and  traditions of  the  Indians  of  the  mountainous  province  of
 Huarochiri,  on  the  Pacific  slope  of  the  maritime
 Cordillera,  near  Lima,  by  a  resident  priest,  named
 Dr.  Francisco  de  Avila.     It  was  written  in  1608.
@@ -196,13 +189,10 @@ The  first  of  these  documents  is  the  most  important.
 Cristoval  de  Molina  had  peculiar  opportunities  for
 collecting  accurate  information.  He  was  a  master
 of  the  Quichua  language  ;  he  examined  native  chiefs
-and  learned  men  who  could  remember  the  Ynca  em-
-pire in  the  days  of  its  prosperity,  and  he  was  inti-
+and  learned  men  who  could  remember  the  Ynca  empire in  the  days  of  its  prosperity,  and  he  was  inti-
 mately acquainted  with  the  native  character,  from
-his  position  in  the  hospital  at  Cuzco.  In  his  open-
-ing address  to  the  bishop,  he  mentions  a  previous
-account  which  he  had  submitted,  on  the  origin,  his-
-tory, and  government  of  the  Yncas.  Fortunately
+his  position  in  the  hospital  at  Cuzco.  In  his  opening address  to  the  bishop,  he  mentions  a  previous
+account  which  he  had  submitted,  on  the  origin,  history, and  government  of  the  Yncas.  Fortunately
 this  account  has  been  preserved,  by  Miguel  Cavello
 Balboa,1  who  tells  us  that  his  history  is  based  on  the
 
@@ -212,23 +202,19 @@ Ternaux  Compans,  in  the  second  scries  of  his  translations,  in  1840.
 
 INTRODUCTION.  IX
 
-learned  writings  of  Christoval  de  Molina.  The  pre-
-sent manuscript  shows  the  importance  of  Molina  as
-an  authority,  and  a  special  value  is  thus  given  to  Bal-
-boa's work,  which  may  now  be  looked  upon  as  the
+learned  writings  of  Christoval  de  Molina.  The  present manuscript  shows  the  importance  of  Molina  as
+an  authority,  and  a  special  value  is  thus  given  to  Balboa's work,  which  may  now  be  looked  upon  as  the
 most  authentic  version  of  early  Yncarial  traditions
 and  history.
 
-The  report  on  the  fables  and  rites  is  supple-
-mentary to  the  history  used  by  Balboa  ;  but  which
+The  report  on  the  fables  and  rites  is  supplementary to  the  history  used  by  Balboa  ;  but  which
 is  not  now  extant  as  a  separate  work.  It  contains
 a  minute  and  detailed  account  of  the  ceremonies
 performed  in  the  different  months  throughout  the
 Ynca  year,  with  the  prayers  used  by  the  priests  on
 each  occasion  in  Quichua  and  Spanish,  the  sacrifices,
 and  festivities.  There  are  some  very  interesting
-points,  which  must  be  noticed  in  their  order,  in  con-
-nection with  Molina's  account  of  the  Yncas ;  for  they
+points,  which  must  be  noticed  in  their  order,  in  connection with  Molina's  account  of  the  Yncas ;  for  they
 throw  fresh  light  on  several  doubtful  questions.
 
 The  first  of  these  points  is  the  position  held  by
@@ -237,15 +223,13 @@ Yncas.  Our  knowledge  of  this  subject  has  hitherto
 been  derived  from  Garcilasso  de  la  Vega,  who  tells
 us  that,  besides  the  Sun,  the  Yncas  worshipped  the
 true  supreme  God  and  Creator ;  that  they  called  him
-Pachacamac,  a  name  signifying  "  He  who  gives  ani-
-mation to  the  universe,"  or  "  He  who  does  to  the
+Pachacamac,  a  name  signifying  "  He  who  gives  animation to  the  universe,"  or  "  He  who  does  to  the
 universe  what  the  soul  does  to  the  body;"  that  they
 held  Him  in  much  greater  inward  veneration  than
 the  Sun ;  but  that  they  did  not  build  temples  to  him,
 
 Balboa  commenced  his  work  at  Quito  in  1576,  and  completed  it
-in  1586  ;  the  very  period  when  Molina  was  prosecuting  his  re-
-searches at  Cnzco.
+in  1586  ;  the  very  period  when  Molina  was  prosecuting  his  researches at  Cnzco.
 
 
 X  INTRODUCTION.
@@ -260,26 +244,21 @@ whole  of  Peru.4
 
 I  have  discussed  the  questions  relating  to  the
 temple  on  the  sea  coast,  in  my  introduction  to  the
-"  Reports  on  the  Discovery  of  Peru"  (Hakluyt  So-
-ciety, 1872) ;  and  have  shown  that  it  was  not  dedi-
+"  Reports  on  the  Discovery  of  Peru"  (Hakluyt  Society, 1872) ;  and  have  shown  that  it  was  not  dedi-
 cated to  the  Supreme  Being  of  the  Yncas.  Garcilasso
 de  la  Vega  wrote  the  particulars  touching  what  he
 had  heard  in  Peru,  after  a  lapse  of  many  years,  but
-without  conscious  exaggeration.  Indeed  his  state-
-ments, as  a  rule,  are  wonderfully  accurate,  as  I  shall
+without  conscious  exaggeration.  Indeed  his  statements, as  a  rule,  are  wonderfully  accurate,  as  I  shall
 presently  show.  But  the  evidence  of  Molina  is  more
 reliable,  because  he  wrote  on  the  spot,  with  a  full
-knowledge  of  the  language,  and  after  carefully  ex-
-amining the  surviving  priests  and  wise  men  of  the
+knowledge  of  the  language,  and  after  carefully  examining the  surviving  priests  and  wise  men  of  the
 old  Ynca  court.
 
 The  name  Pachacamac  occurs  three  times  in  the
 prayers  given  by  Molina,  as  an  attribute  of  the
-Deity ;  but  the  term  most  constantly  used  was  Pa-
-chayachachic,  "the  teacher  of  the  universe."  Another
+Deity ;  but  the  term  most  constantly  used  was  Pachayachachic,  "the  teacher  of  the  universe."  Another
 name  was  Tecsi-viracocha,  which  Molina  interprets,
-"the  incomprehensible  God."  In  the  prayers,  how-
-ever, the  first  word  is  Aticsi,  probably  from  Atini
+"the  incomprehensible  God."  In  the  prayers,  however, the  first  word  is  Aticsi,  probably  from  Atini
 (I  conquer),  and  the  meaning  would  rather  be  the
 
 2  G.  de  la  Vega,  i,  p.  106.  3  Ibid,,  ii,  p.  38.
@@ -309,10 +288,8 @@ Creator  in  this  temple,  which  received  honours  at  all
 the  periodical  festivals.
 
 The  sun,  moon,  and  thunder,  appear  to  have  been
-deities  next  in  importance  to  Pachayachachic;  sacri-
-fices were  made  to  them  at  all  the  periodical  festivals,
-and  several  of  the  prayers  given  by  Molina  are  ad-
-dressed to  them.  Another  image,  called  Huanacauri,
+deities  next  in  importance  to  Pachayachachic;  sacrifices were  made  to  them  at  all  the  periodical  festivals,
+and  several  of  the  prayers  given  by  Molina  are  addressed to  them.  Another  image,  called  Huanacauri,
 which  is  said  to  have  been  the  most  sacred  of  the
 ancestral  gods  of  the  Yncas,  received  equal  honours.
 In  all  this  we  may  discern  the  popular  religion  of  the
@@ -332,8 +309,7 @@ the  worship  of  ancestors;  the  nature  gods  being
 called  huaca,  and  the  ancestral  deities  pacarina  or
 pacarisca.  The  universal  tradition  pointed  to  a
 place  called  Paccari-tampu,  as  the  cradle  or  point  of
-origin  of  the  Yncas.  It  was,  from  Cuzco,  the  near-
-est point  to  the  sun-rising ;  and  as  the  sun  was
+origin  of  the  Yncas.  It  was,  from  Cuzco,  the  nearest point  to  the  sun-rising ;  and  as  the  sun  was
 chosen  as  the  pacarisca  of  the  Yncas,  the  place  of
 their  origin  was  at  first  assigned  to  Paccari-tampu.
 But  when  their  conquests  were  extended  to  the
@@ -343,10 +319,8 @@ the  inland  sea  became  a  second  traditional  place  of
 royal  origin.
 
 The  language  of  the  Collas,  Pacasas,  and  Lupacas,
-the  people  in  the  basin  of  the  lake  Titicaca  (erro-
-neously called  Aymara),  added  very  few  words  to  the
-rich  idiom  of  the  Yncas  ;  but  a  vast  number  of  Qui-
-chua  words  were  adopted  by  the  Collas.  Two  or
+the  people  in  the  basin  of  the  lake  Titicaca  (erroneously called  Aymara),  added  very  few  words  to  the
+rich  idiom  of  the  Yncas  ;  but  a  vast  number  of  Quichua  words  were  adopted  by  the  Collas.  Two  or
 three  Colla  words,  however,  occur  in  the  manuscripts
 of  Molina  and  Salcamayhua,  which  may  give  rise  to
 speculation.  According  to  Molina,  the  Ynca  name
@@ -373,8 +347,7 @@ Collao,  is  Lupi,  from  the  Quichua  word  Rupay,
 meaning  heat  and  warmth.  The  word  for  the  moon
 in  the  Colla  dialect  (Pacsa)  also  occurs  twice  in  the
 manuscript  of  Molina.  He  speaks  of  JPacsa-mama,3
-in  one  place,  as  the  name  of  the  moon-god,  the  Qui-
-chua word  being  Quilla;  and  he  gives  two  names  for
+in  one  place,  as  the  name  of  the  moon-god,  the  Quichua word  being  Quilla;  and  he  gives  two  names  for
 the  month  of  July.4  One  is  Tarpui-quilla,  composed
 of  two  Qichua  words,  meaning  "the  sowing  month."
 The  other  is  Moron-pasca,  the  last  word  being  the
@@ -382,8 +355,7 @@ Colla  name  for  the  moon.
 
 A  fourth  point  of  interest  is  the  additional  proof
 furnished  in  these  manuscripts  of  the  antiquity  of
-the  Quichua  drama  of  Ollanta.5  Hitherto  no  evi-
-dence has  been  discovered  of  the  word  Ollanta  being
+the  Quichua  drama  of  Ollanta.5  Hitherto  no  evidence has  been  discovered  of  the  word  Ollanta  being
 as  old  as  the  time  of  the  Yncas  ;  and  the  place  now
 called  Ollantay-tampu,  the  traditionary  scene  of  the
 events  recorded  in  the  drama,  is  simply  called  Tampu
@@ -404,16 +376,13 @@ original  Quichua,  by  Clements  li.  Markkam,  C.JJ.    (Triibner,  1871.,)
 XIV  INTRODUCTION.
 
 In  the  introduction  to  my  translation  of  the  Quichua
-drama,8  I  gave  a  derivation  of  the  word  Ollanta,  sug-
-gested by  Senor  Barranca.  A  more  probable  etymo-
+drama,8  I  gave  a  derivation  of  the  word  Ollanta,  suggested by  Senor  Barranca.  A  more  probable  etymo-
 logy has  since  been  given  by  Dr.  Vicente  Lopez.9
 Oil,  he  says,  should  be  Uill  or  Uilla,  a  legend,  from
 Uillani  (I  record)  ;  and  Anta,  the  Andes — Ollanta,
 "a  legend  of  the  Andes."  So  that  before  the  Spanish
-conquest,  as  we  now  learn  from  Molina  and  Salcamay-
-hua,  there  was  a  place  called  Ollanta-tampu — "  the
-site  of  the  legend,  or  drama  of  the  Andes."  Salca-
-mayhua  mentions  plays  as  being  enacted  at  the  fes-
+conquest,  as  we  now  learn  from  Molina  and  Salcamayhua,  there  was  a  place  called  Ollanta-tampu — "  the
+site  of  the  legend,  or  drama  of  the  Andes."  Salcamayhua  mentions  plays  as  being  enacted  at  the  fes-
 tivals of  the  Yncas  ;  one  called  Anay-sauca,  which
 means  literally, "How  pleasant!"  another  Ilayachuco,
 and  others.
@@ -444,8 +413,7 @@ precious  information  from  the  storehouse  of  his  own
 INTRODUCTION.  XV
 
 memory,  and  the  more  his  work  is  sifted  and  examined,
-the  more  clearly  does  it  appear  that  he  was  scru-
-pulously truthful,  and  that,  allowing  for  the  disad-
+the  more  clearly  does  it  appear  that  he  was  scrupulously truthful,  and  that,  allowing  for  the  disad-
 vantages under  which  he  laboured,  his  statements  are
 wonderfully  accurate.  Perhaps  the  excellence  of  the
 Ynca's  memory  is  best  shown  in  his  topographical
@@ -459,8 +427,7 @@ these  places  out  of  its  order,  or  in  the  wrong  position.
 When  Garcilasso's  routes  of  each  conquering  Ynca  are
 placed  on  a  map,  they  furnish  convincing  proofs  of  the
 remarkable  accuracy  of  the  author.  The  narrative  of
-Molina  also  supplies  more  than  one  incidental  corrobo-
-ration of  the  correctness  of  Garcilasso's  statements.
+Molina  also  supplies  more  than  one  incidental  corroboration of  the  correctness  of  Garcilasso's  statements.
 
 The  words  of  the  prayers  actually  offered  up  by  the
 Ynca  Priests  to  their  Deities  are  the  most  valuable
@@ -486,13 +453,11 @@ Quichua  with  general  accuracy.
 The  second  Report,  entitled  "  An  Account  of  the
 Antiquities  of  Peru,"  by  an  Indian  named  Salcamayhua,
 was  written  about  forty  years  after  the  time  of  Molina.
-It  is  curious  and  valuable,  because  it  gives  the  tradi-
-tions of  Ynca  history,  as  they  were  handed  down  by
+It  is  curious  and  valuable,  because  it  gives  the  traditions of  Ynca  history,  as  they  were  handed  down  by
 the  grandchildren  of  those  who  were  living  at  the
 time  of  the  Spanish  conquest,  to  their  grandchildren.
 Salcamayhua  gives  two  prayers  which  are  traditionally
-attributed  to  Manco  Ccapac,  the  first  Ynca,  in  the  ori-
-ginal Quichua,  and  two  or  three  other  Quichua  prayers
+attributed  to  Manco  Ccapac,  the  first  Ynca,  in  the  original Quichua,  and  two  or  three  other  Quichua  prayers
 and  speeches.  His  narrative  of  events,  and  record  of
 customs  and  ceremonies,  are  valuable  so  long  as  they
 are  given  their  due  place.  They  are  entitled  to  a
@@ -501,8 +466,7 @@ tradition,  living  a  generation  or  two  after  the  death
 of  the  last  man  who  had  seen  the  Ynca  empire  in  the
 days  of  its  glory.  Salcamayhua,  as  an  authority,
 ranks  after  Cieza  de  Leon,  Polo  de  Ondegardo,  Molina,
-Balboa,  and  Garcilasso  de  la  Vega ;  but  before  Span-
-ish writers  who  were  ignorant  of  the  native  language,
+Balboa,  and  Garcilasso  de  la  Vega ;  but  before  Spanish writers  who  were  ignorant  of  the  native  language,
 though  they  lived  and  wrote  before  his  time,  such  as
 Zarate,  Fernandez,  and  Acosta.  Montesinos  both
 wrote  after  Salcamayhua,  and  is  totally  unreliable.
@@ -523,10 +487,8 @@ testimony.  It  is  clear  that  Montesinos  was  ignorant
 of  the  Quichua  language,  and  his  work,  in  my  opinion,
 is  quite  inadmissible  as  an  authority.
 
-The  third  document  in  the  present  collection  is  a  nar-
-rative of  the  false  gods  and  other  superstitions  of  the
-Indians  of  the  province  of  Huarochiri,  by  the  Dr.  Fran-
-cisco de  Avila,  Priest  of  the  principal  village  in  the
+The  third  document  in  the  present  collection  is  a  narrative of  the  false  gods  and  other  superstitions  of  the
+Indians  of  the  province  of  Huarochiri,  by  the  Dr.  Francisco de  Avila,  Priest  of  the  principal  village  in  the
 province.  This  is  one  of  the  very  few  fragments  from
 which  we  can  glean  some  slight  knowledge  of  the
 mysterious  civilized  nation  which  occupied  the  coast  of
@@ -538,8 +500,7 @@ Spaniards,  and  used  all  their  influence  and  power  to
 substitute  the  Quichua  language,  and  to  destroy  the
 separate  polity  and  religion  of  the  conquered  race.
 Hence  many  Quichua  words  appear  in  their  traditions,
-as  told  by  Father  Avila,  and  the  student  must  care-
-fully eliminate  them,  before  forming  any  conclusions
+as  told  by  Father  Avila,  and  the  student  must  carefully eliminate  them,  before  forming  any  conclusions
 respecting  the  intellectual  position  of  the  original
 people  of  the  Pacific  coast.  For  instance,  the  god  of
 the  Huarochiri  is  said  to  be  Coniraya  Uiracocha,  the
@@ -573,8 +534,7 @@ the  time  when  the  ancestors  of  the  Huarochiri  people
 inhabited  the  yuncas  of  the  coast.
 
 The  sources  of  information  respecting  the  civilized
-race  of  the  Peruvian  coast  are  very  scanty,  and  con-
-sequently very  precious.  We  have  the  silent
+race  of  the  Peruvian  coast  are  very  scanty,  and  consequently very  precious.  We  have  the  silent
 testimony  of  the  grand  ruins  of  Chimu  near  Truxillo,0
 and  in  other  coast  valleys,  of  the  great  mounds,  and
 of  the  works  of  irrigation.  There  is  a  grammar  and
@@ -623,8 +583,7 @@ now  printed  for  the  first  time.
 su  real  Consejo  de  Indias :  por  el  Padre  Pablo  Joseph  de  Arriaga
 de  la  Compania  de  Jesus  (Lima,  1621.)
 
-2  Translated  into  French  by  M.  Ternaux  Compans,  in  his  Re-
-cueil  de  Documents  et  Memoires  originaux  sur  VHistoire  des  Possessions
+2  Translated  into  French  by  M.  Ternaux  Compans,  in  his  Recueil  de  Documents  et  Memoires  originaux  sur  VHistoire  des  Possessions
 Espagnoles  dans  VAmerique  (Paris,  1840),  p.  85.
 
 
@@ -633,8 +592,7 @@ XX  INTRODUCTION.
 The  last  document  in  this  volume  is  a  Report  by
 Polo  de  Ondegardo,  an  accomplished  lawyer  and
 statesman  who  came  to  Peru  with  the  President
-Gasca.  He  was  Corregidor  of  Charcas,  and  after-
-wards of  Cuzco,  and  studied  the  language  and  laws
+Gasca.  He  was  Corregidor  of  Charcas,  and  afterwards of  Cuzco,  and  studied  the  language  and  laws
 of  the  Yncas  with  minute  care,  in  order  that  he  might
 be  better  able  to  conduct  the  administration  of  the
 provinces  under  his  charge.  The  document  is  in  the
@@ -643,8 +601,7 @@ intended  as  material  for  a  more  finished  report.  He
 describes  the  principle  on  which  the  Ynca  conquests
 were  made,  the  division  and  tenure  of  land,  the  system
 of  tribute,  the  regulations  for  preserving  game  and
-for  forest  conservancy,  and  other  administrative  de-
-tails; and  he  points  out,  here  and  there,  the  way  in
+for  forest  conservancy,  and  other  administrative  details; and  he  points  out,  here  and  there,  the  way  in
 which  the  wise  legislation  of  the  Yncas  ought  to  be
 utilized  and  imitated  by  their  conquerors.
 
@@ -652,8 +609,7 @@ These  four  curious  papers,  which  have  never  been
 printed  in  the  language  in  which  they  were  written,
 are  now  translated  for  the  first  time  ;  and  it  is
 believed  that  they  will  form  an  important  addition  to
-the  sources  of  knowledge  respecting  the  early  civiliz-
-ation of  the  American  races.
+the  sources  of  knowledge  respecting  the  early  civilization of  the  American  races.
 
 
 AN    ACCOUNT
@@ -686,8 +642,7 @@ tribes  and  nations  they  conquered ;  I  also  treated,  in  some
 places,  of  the  ceremonies  and  worship  they  established,
 though  not  very  fully  ;  I  now  propose,  chiefly  by  reason  of
 the  wish  expressed  by  your  reverend  Lordship,  to  take
-similar  pains  to  describe  the  ceremonies,  worship,  and  idola-
-tries of  these  Indians.  For  this  purpose  I  assembled  a
+similar  pains  to  describe  the  ceremonies,  worship,  and  idolatries of  these  Indians.  For  this  purpose  I  assembled  a
 number  of  aged  persons  who  had  seen  and  participated  in
 them  in  the  days  of  Huayna  Ccapac,  of  Huascar  Ynca,  and
 of  Manco  Ynca,  as  well  as  some  leaders  and  priests  of  those
@@ -701,8 +656,7 @@ Cm.  de  la  Vega,  ii,  p.  258.
 1534.  Fray  Vicente  de  Valverde.
 1543.  Fray  Juan  Solano,  to  1550.
 
-1570.  Sebastian  de  Artaun.     Died  at  Lima  1584,  at  a  Pro-
-vincial Council.
+1570.  Sebastian  de  Artaun.     Died  at  Lima  1584,  at  a  Provincial Council.
 1584-93.  Fray  Gregorio  de  Montalvo.
 
 B2
@@ -800,8 +754,7 @@ that  point  the  sun,  moon,  and  stars  were  commanded  to
 ascend  to  heaven,  and  to  fix  themselves  in  their  places,  and
 they  did  so.  At  the  same  instant  Manco  Ccapac  and  his
 bi'others  and  sisters,  by  command  of  the  Creator,  descended
-under  the  earth  and  came  out  again  in  the  cave  of  Paccari-
-tambo,7  though  they  say  that  other  nations  also  came  out
+under  the  earth  and  came  out  again  in  the  cave  of  Paccaritambo,7  though  they  say  that  other  nations  also  came  out
 of  the  same  cave,  at  the  point  where  the  Sun  rose  on  the
 first  day  after  the  Creator  had  divided  the  night  from  the
 day.  Thus  it  was  that  they  were  called  children  of  the  Sun,
@@ -817,8 +770,7 @@ language  of  the  Indians  is  called  Pachayachachi8  and
 Tecsiviracocha,  which  means  the  incomprehensible  God,
 then  went  by  the  road  of  the  mountains,  from  Tiahuanaco,
 visiting  and  beholding  all  the  nations,  and  examining  how
-they  had  begun  to  multiply,  and  how  to  comply  with  his  com-
-mands. He  found  that  some  nations  had  rebelled  and  had
+they  had  begun  to  multiply,  and  how  to  comply  with  his  commands. He  found  that  some  nations  had  rebelled  and  had
 not  obeyed  his  commands ;  so  he  turned  a  large  number  of
 them  into  stones  of  the  shape  of  men  and  women,  with  the
 same  dress  that  they  had  worn.  These  conversions  into
@@ -857,8 +809,7 @@ by  the  way  of  the  mountains  and  forests  through  all  the
 land,  giving  names  to  the  large  and  small  trees,  and  to  the
 flowers  and  fruits  that  they  bear,  and  teaching  the  people
 which  were  good  for  food  or  for  medicine,  and  which  should
-be  avoided.  He  also  gave  names  to  all  the  herbs,  and  ex-
-plained which  had  healing  virtues  and  which  were  poison-
+be  avoided.  He  also  gave  names  to  all  the  herbs,  and  explained which  had  healing  virtues  and  which  were  poison-
 ous. The  other  son,  named  Tocapo  Viracocha,  which
 means  in  their  language  "  the  maker,"  was  ordered  to  go
 by  the  way  of  the  plains,  visiting  the  people,  and  giving
@@ -875,8 +826,6 @@ the  songs  they  were  to  sing ;  those  that  were  to  live  in  the
 9  The  "Tocay"  of  the  tradition  given  by  G.  de  la  Vega,  i,  lib.  i,
 cap.  18.
 
-
-8  AN    ACCOUNT    OF    THE
 
 forest  being  sent  there,  and  each  kind  to  its  respective
 place.  In  like  manner  all  the  different  beasts  were  created,
@@ -971,8 +920,7 @@ never  covered  by  the  flood  ;  and  when  the  waters  subsided,
 the  hill  also  grew  smaller.     Thus,  the  six  children  of  that
 shepherd  returned  to  people  the  province.    These  and  other
 tales  are  told,  which  I  do  not  insert,  to  avoid  prolixity.    The
-chief  cause  of  the  invention  of  these  fables,  was  the  ignor-
-ance of  God,  and  the  abandonment  of  these  people  to  idola-
+chief  cause  of  the  invention  of  these  fables,  was  the  ignorance of  God,  and  the  abandonment  of  these  people  to  idola-
 tries and  vices.     If  they  had  known  the  use  of  writing  they
 would  not  have  been  so  dull  and  blind.     Nevertheless,  they
 had  a  very  cunning  method  of  counting  by  strings  of  wool
@@ -987,8 +935,7 @@ thing  was  not  forgotten.  By  the  quipus,  which  are  like  these
 strings  that  old  women  use  for  praying  in  Spain,  only  with
 ends  hanging  from  them,  they  keep  such  an  account  of  the
 years  and  months,  that  no  error  is  committed  in  the  record.
-The  system  became  more  complete  under  the  Ynca  Yupan-
-qui,  who  first  began  to  conquer  this  land,  for  before  his
+The  system  became  more  complete  under  the  Ynca  Yupanqui,  who  first  began  to  conquer  this  land,  for  before  his
 time  the  Yncas  had  not  advanced  beyond  the   vicinity  of
 Cuzco,  as  appears  from  the  account  now  in  the  hands  of  your
 Reverence.     This  Ynca  appears  to  have  been  the  first  to
@@ -1011,12 +958,10 @@ that  the  Sun  could  be  the  God  who  created  all  things,  for  if
 he  was  he  would  not  permit  a  small  cloud  to  obscure  his
 splendour ;  and  that  if  he  was  creator  of  all  things  he  would
 sometimes  rest,  and  light  up  the  whole  world  from  one
-spot.  Thus,  it  cannot  be  otherwise  but  that  there  is  some-
-one who  directs  him,  and  this  is  the  Pacha- Yachachi  or
+spot.  Thus,  it  cannot  be  otherwise  but  that  there  is  someone who  directs  him,  and  this  is  the  Pacha- Yachachi  or
 creator.  Influenced  by  this  reasoning  and  knowledge,  he
 ordered  the  houses  and  temple  of  Quisuar-cancha3  to  be
-made,  which  are  above  the  houses  of  Diego  Ortiz  de  Guz-
-man,4 coming  towards  the  great  square  of  Cuzco,  where
+made,  which  are  above  the  houses  of  Diego  Ortiz  de  Guzman,4 coming  towards  the  great  square  of  Cuzco,  where
 Hernan  Lopez  de  Segovia  now  lives.  Here  he  raised  a
 statue  of  gold  to  the  creator,  of  the  size  of  a  boy  of  ten
 years  of  age.  It  was  in  the  shape  of  a  man  standing  up,
@@ -1040,8 +985,6 @@ the  plan  of  Cuzco.  There  is  still  an  ancient  wall,  with  serpents  car
 on  it,  at  this  spot.
 
 
-12  AN    ACCOUNT    OF    THE
-
 before  his  time  it  was  very  small  and  poor.     The  cause  of
 this  is  related  in  the  following  fable.
 
@@ -1049,8 +992,7 @@ They  say  that,  before  he  succeeded,  he  went  one  day  to
 visit  his  father  Viracocha  Ynca,  who  was  in  Sacsahuana,
 five  leagues  from  Cuzco.  As  he  came  up  to  a  fountain
 called  Susur-puquio,5  he  saw  a  piece  of  crystal  fall  into  it,
-within  which  he  beheld  the  figure  of  an  Indian  in  the  fol-
-lowing shape.  Out  of  the  back  of  his  head  there  issued
+within  which  he  beheld  the  figure  of  an  Indian  in  the  following shape.  Out  of  the  back  of  his  head  there  issued
 three  very  brilliant  rays  like  those  of  the  Sun.  Serpents
 were  twined  round  his  arms,  and  on  his  head  there  was  a
 llautu6  like  that  of  the  Ynca.  His  ears  were  bored,  and
@@ -1059,8 +1001,7 @@ He  was  also  dressed  like  the  Ynca.  The  head  of  a  lion
 came  out  from  between  his  legs,  and  on  his  shoulders  there
 was  another  lion  whose  legs  appeared  to  join  over  the
 shoulders  of  the  man ;  while  a  sort  of  serpent  also  twined
-over  the  shoulders.  On  seeing  this  figure  the  Ynca  Yupan-
-qui  fled,  but  the  figure  of  the  apparition  called  him  by  his
+over  the  shoulders.  On  seeing  this  figure  the  Ynca  Yupanqui  fled,  but  the  figure  of  the  apparition  called  him  by  his
 name  from  within  the  fountain,  saying  : — "  Come  hither,
 my  son,  and  fear  not,  for  I  am  the  Sun  thy  father.  Thou
 shalt  conquer  many  nations  :  therefore  be  careful  to  pay
@@ -1073,8 +1014,7 @@ nearly  as  possible  resembling  the  figure  he  had  seen  in  the
 crystal.  He  gave  orders  to  the  heads  of  the  provinces  in
 all  the  lands  he  had  conquered,  that  they  should  make  grand
 temples  richly  endowed,  and  he  commanded  all  his  subjects
-to  adore  and  reverence  the  new  Deity,  as  they  had  hereto-
-fore worshipped  the  Creator.  In  the  narrative  of  his  life,
+to  adore  and  reverence  the  new  Deity,  as  they  had  heretofore worshipped  the  Creator.  In  the  narrative  of  his  life,
 which  your  Lordship  has,  it  is  related  that  all  his  conquests
 
 5  Puquio,  a  spring  or  source.
@@ -1086,27 +1026,21 @@ FABLES    AND    RITES    OP    THE    YNCAS.  13
 
 were  made  in  the  name  of  the  Sun  his  Father,  and  of  the
 Creator.  It  was  this  Ynca,  also,  who  commanded  all  the
-nations  he  conquered  to  hold  their  Jmacas  in  great  venera-
-tion, and  to  propitiate  them  by  sacrifices,  saying  that  thus
-they  would  not  be  enraged  at  not  receiving  their  due  quan-
-tity of  reverence  and  worship.  He  also  caused  worship  to
+nations  he  conquered  to  hold  their  Jmacas  in  great  veneration, and  to  propitiate  them  by  sacrifices,  saying  that  thus
+they  would  not  be  enraged  at  not  receiving  their  due  quantity of  reverence  and  worship.  He  also  caused  worship  to
 be  offered  to  the  thunder,  and  he  had  a  statue  of  a  man
 erected  in  gold,  in  a  temple  in  the  city  of  Cuzco.  This
 huaca  also  had  a  temple,  near  that  of  the  Sun,  in  all  the
-provinces,  with  estates,  flocks,  and  servants  for  the  celebra-
-tion of  sacrifices.  But  as  my  intention  is  to  touch  upon
-worship  and  ceremonies,  and  not  to  treat  of  laws  and  cus-
-toms, I  will  pass  on  to  the  other  points  of  my  present  treatise.
+provinces,  with  estates,  flocks,  and  servants  for  the  celebration of  sacrifices.  But  as  my  intention  is  to  touch  upon
+worship  and  ceremonies,  and  not  to  treat  of  laws  and  customs, I  will  pass  on  to  the  other  points  of  my  present  treatise.
 
 They  also  had,  in  some  nations,  many  huacas  and  temples
 where  the  devil  gave  answers ;  and  in  the  city  of  Cuzco
 there  was  the  huaca  of  Huanacauri.7  There  were  many  kinds
-of  wizards  in  the  provinces,  with  names  and  attributes  differ-
-ing one  from  the  other.  The  names  and  offices  were  as
+of  wizards  in  the  provinces,  with  names  and  attributes  differing one  from  the  other.  The  names  and  offices  were  as
 follows  : —
 
-Calparicu,  which  means  those  who  bring  luck  and  suc-
-cess, and  were  expected  to  obtain  the  things  that  were
+Calparicu,  which  means  those  who  bring  luck  and  success, and  were  expected  to  obtain  the  things  that  were
 desired.  With  this  object  they  killed  birds,  lambs,  and
 sheep,  and,  inflating  the  lungs,  through  a  certain  vein,  they
 discerned  certain  signs,  by  which  they  declared  what  was
@@ -1124,8 +1058,6 @@ of  Cuzco,  was  on  the  hill  called  Huanacauri,  and  that  a  temple  was
 built  there.  It  was  looked  upon  as  very  sacred,  and  was  the  spot
 whence  races  were  run.
 
-
-14  AN    ACCOUNT    OF    THE
 
 Others  were  called  Achicoc,  who  were  the  sorcerers  that
 told  fortunes  by  maize  and  the  dung  of  sheep.  They  gave
@@ -1154,8 +1086,7 @@ made  to  blaze  up  by  means  of  the  tubes.  It  was  in  these
 fires  that  the  devils  delivered  their  replies,  and  the  sorcerers
 said  that  it  was  concerning  the  soul  of  such  a  man  or  woman
 that  they  were  making  inquiry,  who  might  be  in  Quito  or
-in  any  other  part  of  the  empire  which  the  Yncas  had  con-
-quered. The  principal  questions  they  asked  were  whether
+in  any  other  part  of  the  empire  which  the  Yncas  had  conquered. The  principal  questions  they  asked  were  whether
 such  an  one  was  against  the  Sun  his  father,  or  whether  such
 others  were  thieves,  murderers,  or  adulterers.  By  means
 of  this  invocation  the  Ynca  knew  all  that  passed  in  his
@@ -1170,8 +1101,7 @@ among  whom  there  were  some  who  conferred  with  the  devil,
 FABLES    AND    RITES    OP   THE    YNCAS.  15
 
 and  received  his  replies,  telling  the  people  what  they  wished
-to  know,  but  they  very  seldom  gave  correct  answers.  Ac-
-cording to  the  accounts  they  give,  all  the  people  of  the  land
+to  know,  but  they  very  seldom  gave  correct  answers.  According to  the  accounts  they  give,  all  the  people  of  the  land
 confessed  to  the  sorcerers  who  had  charge  of  the  huacas  ;
 and  these  confessions  were  made  publicly.  In  order  to  test
 the  truth  of  the  confessions,  the  sorcerers  tried  them  by
@@ -1207,9 +1137,6 @@ form  of  the  worship  and  sacrifices  that  they  established  for
 each  month,  was  as  follows  : —
 
 
-16  AN    ACCOUNT   OF    THE
-
-
 May.
 
 
@@ -1233,8 +1160,7 @@ following  order  : —
 They  went  to  Curicancha8  in  the  morning,  at  noon,  and
 at  night,  bringing  the  sheep  that  were  to  be  sacrificed  on
 that  day,  which  they  carried  round  the  idols  and  huacas
-called  Punchao  Ynca,0  which  means  the  Sun ;  and  Pachaya-
-chachi,1  another  idol  in  the  shape  of  a  man.  The  word
+called  Punchao  Ynca,0  which  means  the  Sun ;  and  Pachayachachi,1  another  idol  in  the  shape  of  a  man.  The  word
 means  a  Creator ;  and  Chuqui  yllayllapa,2  which  was  the
 huaca  of  lightning  and  thunder,  and  thunderbolt.  It  also
 was  in  the  form  of  a  person,  though  the  face  could  not  be
@@ -1259,8 +1185,7 @@ multiply,  and  their  food,  and  let  all  other  things  continue
 to  increase."
 
 These  sayings  were  addressed  to  the  Creator,  and  to  the
-Sun  they  prayed  that  he  might  always  be  young,  and  con-
-tinue to  give  light  and  splendour.  They  did  not  know  the
+Sun  they  prayed  that  he  might  always  be  young,  and  continue to  give  light  and  splendour.  They  did  not  know  the
 Sun  as  their  Creator,  bat  as  created  by  the  Creator.  To
 the  thunder  and  lightning  they  prayed  that  it  might  rain,
 in  order  that  they  might  have  food.  They  also  knew  that
@@ -1293,13 +1218,10 @@ month,  they  went  to  burn  sheep  and  the  other  offerings  at
 the  following  places  :  on  a  hill  called  Succanca,  on  another
 called  Omoto-yanacauri,  on  another  called  Ocapac-uilca,  which
 
-3  Priests.  The  word  does  not  occur  in  Garcilasso  de  la  Vega.  Tat-
-puni  is  the  verb  "to  sow".  4  Baskets.
+3  Priests.  The  word  does  not  occur  in  Garcilasso  de  la  Vega.  Tatpuni  is  the  verb  "to  sow".  4  Baskets.
 
 c
 
-
-18  AN    ACCOUNT    OF    THE
 
 is  three  leagues  from  Huanacauri,  and  on  others  called
 Queros-huanacauri,  Rontoca  which  is  in  the  Quehuares,5
@@ -1316,10 +1238,8 @@ to  Sihuana  in  Cacha,  in  another  hill  called  Caclia-TJiracocha,
 in  another  called  Yacalla-huaca,  and  in  another  called
 Rurama,  on  the  plain  of  Quiquijana.7  The  same  was  done
 in  Mull'tpamjpa,  in  JJrcos,  on  a  hill  called  JJrcos  JJiracoclia,
-on  a  plain  called  Anta-liuaylla,s  on  another  plain  near  Anta-
-huayla,  called  Rati,  on  another  called  Acahuara,  on  a  hill  in
-Quispicancha,  and  on  another  called  Sulcanca.  The  Tar-
-puntaes  went  by  one  road  and  came  back  by  another.  The
+on  a  plain  called  Anta-liuaylla,s  on  another  plain  near  Antahuayla,  called  Rati,  on  another  called  Acahuara,  on  a  hill  in
+Quispicancha,  and  on  another  called  Sulcanca.  The  Tarpuntaes  went  by  one  road  and  came  back  by  another.  The
 Ynca,  with  all  his  lords,  went  to  Mantucalla,  and  there
 remained  to  drink  and  enjoy  himself  in  revelry  and  tacptis.d
 They  called  this  taqui  ITuallina,1  and  it  was  a  dance  with
@@ -1338,8 +1258,7 @@ they  cooked  the  food  were  of  gold.     Thus  they  performed  the
 7  All  these  places  are  in  the  vale  of  Vilca-mayu,  up  which  the  road
 passes  from  Cuzco  to  lake  Titicaca.
 
-8  Not  Andahuaylas,  but  a  village  near  Cuzco,  now  called  Andahuay-
-lillas.  9  Music.
+8  Not  Andahuaylas,  but  a  village  near  Cuzco,  now  called  Andahuaylillas.  9  Music.
 
 1  More  correctly  Iluagllina,  a  song.
 
@@ -1357,8 +1276,7 @@ of  horse  cloths.  They  were  carried  on  litters,  and  this  was
 done  in  memory  of  the  sheep  which,  they  say,  came  forth
 from  the  tambo  with  them.  The  Indians  who  carried  them
 were  principal  lords,  dressed  in  very  rich  clothes,  and  they
-call  the  figures  of  gold  and  silver  sheep  corinapa  collque-
-napa.2  The  Ynca  remained  at  Mantucalla  until  the  end  of
+call  the  figures  of  gold  and  silver  sheep  corinapa  collquenapa.2  The  Ynca  remained  at  Mantucalla  until  the  end  of
 the  month,  and  when  that  time  arrived  he  went  to  the  square
 in  front  of  the  church  of  Cuzco,  called  uacay-pata,  the  path
 by  which  he  came  being  strewn  with  plumes  of  bird's
@@ -1389,8 +1307,6 @@ The  Tarpuntaes,  who  are  a  sort  of  priests,  were  careful
 
 c  2
 
-
-20  AN    ACCOUNT    OF    THE
 
 to  fast  from  the  time  the  maize  was  sown  until  it  was  a
 finger's  length  out  of  the  ground.  Their  wives  and  children
@@ -1423,8 +1339,7 @@ their  language  was  called  quispe,5  was  ended.
 August.
 
 The  month  of  August  was  called  Goya-raymi ;  and  in  it
-they  celebrated  the  Bitua.  In  order  to  perforin  the  cere-
-monies of  this  festival,  they  brought  the  figures  of  their
+they  celebrated  the  Bitua.  In  order  to  perforin  the  ceremonies of  this  festival,  they  brought  the  figures  of  their
 huacas  from  all  parts  of  the  land,  from  Quito  to  Chile,  and
 placed  them  in  the  houses  they  had  in  Cuzco,  for  the  pur-
 
@@ -1440,8 +1355,7 @@ was  generally  much  sickness.  They  besought  the  Creator
 that,  during  the  year,  he  would  be  pleased  to  shield  them
 from  sickness,  as  well  in  Cuzco,  as  throughout  the  territory
 conquered  by  the  Yncas.  On  the  day  of  the  conjunction  of
-the  moon,  at  noon  the  Ynca,  with  all  the  chiefs  of  his  coun-
-cil, and  the  other  principal  lords  who  were  in  Cuzco,  went
+the  moon,  at  noon  the  Ynca,  with  all  the  chiefs  of  his  council, and  the  other  principal  lords  who  were  in  Cuzco,  went
 to  the  Ccuricancha,  which  is  the  house  and  temple  of  the
 Sun,  where  they  agreed  together  on  the  way  in  which  the
 festival  should  be  celebrated  ;  for  in  one  year  they  added,
@@ -1471,8 +1385,6 @@ who  were  armed  as  if  for  war,  went  to  the  square  of  Cuzco,
 0  Thunder.  7  The  Creator.
 
 
-22  AN    ACCOUNT    OF    THE
-
 crying  out :  "  0  sicknesses,  disasters,  misfortunes,  and
 dangers,  go  forth  from  the  land."  In  the  middle  of  the
 square,  where  stood  the  urn  of  gold  which  was  like  a
@@ -1501,8 +1413,7 @@ road  from  Cuzco,  were  of  the  lineage  of  Usca  Mayta  Ayllu,8
 Yapomayu  Ayllu,  Yahuaymin  Ayllu  Sutic,  and  Marasaylla
 Cuynissa  Ayllu.
 
-Those  who  went  out  to  the  west,  which  is  towards  Chin-
-chasuyu, shouting  in  the  same  manner,  were  of  the  lineage
+Those  who  went  out  to  the  west,  which  is  towards  Chinchasuyu, shouting  in  the  same  manner,  were  of  the  lineage
 of  Ccapac  Ayllu,9  and  Hatun  Ayllu,  Vicaquirau1  and  Chamin-
 Cuzco  Ayllu,  and  Yaraycu  Ayllu.  These  went  shouting  as
 far  as  Satpina,  which  will  be  a  little  more  than  a  league
@@ -1516,11 +1427,9 @@ far  as  Satpina,  which  will  be  a  little  more  than  a  league
 
 FABLES    AND    RITES    OP    THE    YNCAS.  23
 
-from  Cuzco.  There  they  passed  the  cries  on  to  the  miti-
-maes of  Jaquijahuana,2  and  these  delivered  them  to  the
+from  Cuzco.  There  they  passed  the  cries  on  to  the  mitimaes of  Jaquijahuana,2  and  these  delivered  them  to  the
 mitimaes  of  Tilca,  which  is  above  Marca-huasi,  about  ten
-leagues  from  Cuzco,  who  carried  them  on  to  the  river  Apu-
-riinac,  where  they  bathed  and  washed  their  clothes  and
+leagues  from  Cuzco,  who  carried  them  on  to  the  river  Apuriinac,  where  they  bathed  and  washed  their  clothes  and
 arms.
 
 Those  who  carried  the  cries  in  the  direction  of  Anti-suyu
@@ -1555,8 +1464,7 @@ people,  great  and  small,  came  to  their  doors,  crying  out,
 3  Ccoya,  the  Princess,  and  Paullu,  a  son  of  the  Ynca  Huayna  Ccapac.
 They  were  the  lords  of  the  Pisac  vassals  when  Molina  was  writing.
 
-4  Panaca  is  a  term  for  lineage. — See  G.  de  la  Vega,  ii,  p.  531.     Per-
-haps from  Pana,  sister  of  a  brother.
+4  Panaca  is  a  term  for  lineage. — See  G.  de  la  Vega,  ii,  p.  531.     Perhaps from  Pana,  sister  of  a  brother.
 
 5  See  the  account  of  the  ceremonies  in  G.  de  la  Veija,  ii.
 
@@ -1589,16 +1497,14 @@ on  this  day  each  person,  how  poor  soever  he  might  be,  was
 to  eat  and  drink,  for  they  said  that  on  this  day  they  should
 enjoy  themselves,  if  they  had  to  pass  all  the  rest  of  the
 year  in  labour  and  sorrow.  On  this  day  no  man  scolded
-his  neighbour,  nor  did  any  word  pass  in  anger,  nor  did  any-
-one claim  what  was  owing  to  him  from  another.  They  said
+his  neighbour,  nor  did  any  word  pass  in  anger,  nor  did  anyone claim  what  was  owing  to  him  from  another.  They  said
 that  there  would  be  trouble  and  strife  throughout  the  year,
 if  any  was  commenced  on  the  day  of  the  festival.
 
 In  the  night,  the  statues  of  the  Sun,  of  the  Creator,  and
 of  the  Thunder,  were  brought  out,  and  the  priests  of  each  of
 these  statues  warmed  it  with  the  before  mentioned  sancu.
-In  the  morning  they  brought  the  best  food  they  could  pre-
-pare to  present  at  the  temples  of  the  Creator,  of  the  Sun,
+In  the  morning  they  brought  the  best  food  they  could  prepare to  present  at  the  temples  of  the  Creator,  of  the  Sun,
 
 
 FABLES   AND    RITES    OP    THE    YNCAS.  25
@@ -1615,8 +1521,7 @@ and  the  food  they  had  been  most  fond  of  when  they  were
 alive  was  placed  before  them,  and  afterwards  the  persons
 who  were  in  charge  of  the  bodies  consumed  the  food.
 
-The  persons  who  had  charge  of  the  huaca  called  Guana-
-caucique,6  which  is  a  great  figure  of  a  man,  washed  it  and
+The  persons  who  had  charge  of  the  huaca  called  Guanacaucique,6  which  is  a  great  figure  of  a  man,  washed  it  and
 warmed  it  with  the  sancu;  and  the  principal  Ynca  lord  and
 his  wife,  after  they  had  finished  their  bath,  put  the  same
 sancu  in  their  house,  and  on  their  hands.  Afterwards,  they
@@ -1640,8 +1545,6 @@ Creator  likewise  brought  forth  his  image,  and  deposited  it
 in  its  place.  So  also  did  the  priests  of  the  Thunder,  called
 6  Huanacauri.  7  Apu-ppunchau.     The  lord  of  day.
 
-
-26  AN   ACCOUNT    OF   THE
 
 Chuqui-ylla,  bring  forth  his  image.  Each  had  its  bench  of
 gold,  and  before  them  were  borne  yauris,  which  were  made
@@ -1697,24 +1600,20 @@ same  order,  placing  the  huacas  on  their  benches  as  before.
 The  Ynca  and  the  people  brought  with  them  a  very  great
 quantity  of  flocks  from  all  the  four  quarters  of  Colla-suyu,
 chinchay-suyu,  Antis-suyu,  and  Cunti-suyu.  The  number  of
-animals  was  so  great,  according  to  those  who  made  this  de-
-claration, that  they  amounted  to  more  than  one  hundred  thou-
+animals  was  so  great,  according  to  those  who  made  this  declaration, that  they  amounted  to  more  than  one  hundred  thou-
 sand, and  it  was  necessary  that  all  should  be  without  spot  or
-blemish,  and  with  fleeces  that  had  never  been  shorn.  Pre-
-sently the  priest  of  the  Sun  selected  four  of  the  most  perfect,
+blemish,  and  with  fleeces  that  had  never  been  shorn.  Presently the  priest  of  the  Sun  selected  four  of  the  most  perfect,
 and  sacrificed  them  in  the  following  order:  one  was  offered  to
 the  Creator,  another  to  the  Thunder,  another  to  the  Sun,  and
 another  to  Huanacauri.  When  this  sacrifice  was  offered  up,
 the  priest  had  the  sancu  on  great  plates  of  gold,  and  he
-sprinkled  it  with  the  blood  of  the  sheep.  The  white  fleece-
-bearing  sheep  were  called  cuyllu;  and  the  plates  containing
+sprinkled  it  with  the  blood  of  the  sheep.  The  white  fleecebearing  sheep  were  called  cuyllu;  and  the  plates  containing
 sanco  were  in  front  of  the  bench  of  the  Sun.  The  high  priest
 then  said  in  aloud  voice  so  that  all  might  hear:  "Take  heed
 how  you  eat  this  sancu  ;  for  he  who  eats  it  in  sin,  and  with
 a  double  will  and  heart,  is  seen  by  our  father,  the  Sun,  who
 will  punish  him  with  grievous  troubles.  But  he  who  with
-a  single  heart  partakes  of  it,  to  him  the  Sun  and  the  Thun-
-der will  show  favour,  and  will  grant  children  and  happy
+a  single  heart  partakes  of  it,  to  him  the  Sun  and  the  Thunder will  show  favour,  and  will  grant  children  and  happy
 years,  and  abundance,  and  all  that  he  requires."  Then  they
 all  rose  up  to  partake,  first  making  a  solemn  vow  before
 eating  the  yahuar-sancu,1  in  which  they  promised  never  to
@@ -1733,8 +1632,7 @@ manner  of  taking  the  oath,  all  the  tribes  rose  up,  and  thus
 all  partook  down  to  the  little  children.  They  all  kept  some
 of  the  yahuar-sancu  for  those  who  were  absent,  and  sent  some
 to  those  who  were  confined  to  their  beds  by  sickness ;  for
-they  believed  it  to  be  very  unlucky  for  any  one  not  to  par-
-take of  the  yahuar-sancu  on  that  day.  They  took  it  with  such
+they  believed  it  to  be  very  unlucky  for  any  one  not  to  partake of  the  yahuar-sancu  on  that  day.  They  took  it  with  such
 care  that  no  particle  was  allowed  to  fall  to  the  ground,  this
 being  looked  upon  as  a  great  sin.  When  they  killed  the
 sacrificial  sheep,  they  took  out  the  lungs  and  inflated  them,
@@ -1775,11 +1673,7 @@ ymaypachacama     haycaypacha-  and  vouchsafest  that  men  shall
 FABLES    AND    RITES    OF    THE    YNCAS.
 
 
-29
-
-
-caraa  canca  chihuay  marcari-
-huay  hatallihuay  caycustayri
+caraa  canca  chihuay  marcarihuay  hatallihuay  caycustayri
 chasquihuay  may  piscapapas
 Uiracochaya.
 
@@ -1798,30 +1692,23 @@ offering,  as  it  shall  please  thee,
 Another  Prayer  for  Fruitful  Flocks.
 
 
-Uiracochan  apacochan  titu-Ui-
-racochan  hualpai  huana-Uiraco-
+Uiracochan  apacochan  titu-Uiracochan  hualpai  huana-Uiraco-
 chan  topapo  acnupo  Uiracochan
-runayachachachuchun  hucerma-
-yachachachun  mirachun  Uacta-
-pachacasilla  quispillacachun  ca-
-mas-cayqui  taquacaycha  yata-
-lliymay  Pachacama  haycay  Pa-
-chacama.
+runayachachachuchun  hucermayachachachun  mirachun  Uacta-
+pachacasilla  quispillacachun  camas-cayqui  taquacaycha  yata-
+lliymay  Pachacama  haycay  Pachacama.
 
 To  the
 
 Coy  [caylla]  Uiracochan  ticci
 Uiracochan  hapacochan  hualpai
-huanaUiracochan  chanca-Uiraco-
-chan  acsa-Uiracochan  atun-Uira-
-cochan  caylla-Uiracochan  tacan-
-cuna  hunichic  llaularuna  y  acha-
+huanaUiracochan  chanca-Uiracochan  acsa-Uiracochan  atun-Uira-
+cochan  caylla-Uiracochan  tacancuna  hunichic  llaularuna  y  acha-
 cuc  ccapac  hahuay  pihucupi
 Puris  papas.
 
 
-0  Creator  !  who  doest  won-
-ders and  marvels.  0  most
+0  Creator  !  who  doest  wonders and  marvels.  0  most
 merciful  and  almighty  Creator  !
 multiply  our  flocks  and  cause
 them  to  bring  forth  young,  let
@@ -1832,8 +1719,7 @@ them  in  thy  hand.
 
 Huacas.
 
-0  Creator,  thou  who  art  co-
-eval with  the  world  !  0  Chanca-
+0  Creator,  thou  who  art  coeval with  the  world  !  0  Chanca-
 Uiracocha  !  0  Atun-Uiracocha  !
 grant  our  prayer,  that  thou
 wilt,  with  the  Creator,  give
@@ -1851,17 +1737,10 @@ Urusayua-Uiracocha  is  in  the  same  place.  Chuqui-chanca-
 Uiracocha  is  in  Huaypau.
 
 
-30
-
-
-AN    ACCOUNT    OF    THE
-
-
 Another
 
 0  Uiracochan  cusiussapochay
-lipo-Uiracochaya  runacay  amay-
-cay  miruna  yana  huaccha  quis-
+lipo-Uiracochaya  runacay  amaycay  miruna  yana  huaccha  quis-
 aruna  yquicauras  cayquichuras
 cayquicasiquis-pilla  camachun
 huarmay  huanchurin  huanchin
@@ -1873,41 +1752,32 @@ mucumuchun.     Upia  muchun.
 
 Another
 
-0  Uiracochay  [atic]a  ticcj-Ui-
-racochaya  hualparillac  camac-
-churac  cay  hurin  pacha  pimicu-
-chun  upiachun  Sispachurascay
+0  Uiracochay  [atic]a  ticcj-Uiracochaya  hualparillac  camac-
+churac  cay  hurin  pacha  pimicuchun  upiachun  Sispachurascay
 quictacamascay  quita  micuynin
 yachachun  papacara  ymaymana
-micuncancachun  nis-cayqui  ta-
-camachic  michachic  mana  mu-
-chuncunpac  mana  muchuspa-
-can  ynincampac  amacacachun-
+micuncancachun  nis-cayqui  tacamachic  michachic  mana  mu-
+chuncunpac  mana  muchuspacan  ynincampac  amacacachun-
 chu  amachupichupichichunchu
 casilla  huacay chain uy.
 
 Prayer  to
 
-Uiracocha  yapunchau  cachun-
-tutacachun  nispac  nicpacarichun
-yllarichun  nispac  nicpunchao-
-churi  yquicta  casillacta  quis-
+Uiracocha  yapunchau  cachuntutacachun  nispac  nicpacarichun
+yllarichun  nispac  nicpunchaochuri  yquicta  casillacta  quis-
 pillacta  purichic  runarnnascay
 quicta  cauchay  uncancampac
 Uiracochaya  casilla  quispilla
-punchau  yncarnnayanani  uhis-
-cay quita  quillari  canchari  ama-
+punchau  yncarnnayanani  uhiscay quita  quillari  canchari  ama-
 huncochispa  amananu  chispa
 cacicta  quispicha  huacus-chaspa.
 
 
 Prayer.
 
-0  most  fortunate  and  propi-
-tious Creator,  have  pity  aud
+0  most  fortunate  and  propitious Creator,  have  pity  aud
 mercy  upon  all  men  whom  thou
-hast  made.  Keep  thy  poor  ser-
-vants in  health.  Make  them
+hast  made.  Keep  thy  poor  servants in  health.  Make  them
 and  their  children  to  walk  in  a
 straight  road,  without  thinking
 any  evil.  Grant  that  they  may
@@ -1921,8 +1791,7 @@ Prayer.
 of  the  earth  !  0  most  merciful !
 Thou  who  givest  life  to  all
 things,  and  hast  made  men  that
-they  may  live,  and  eat,  and  mul-
-tiply. Multiply  also  the  fruits
+they  may  live,  and  eat,  and  multiply. Multiply  also  the  fruits
 of  the  earth,  the  papas  and  other
 food  that  thou  hast  made,  that
 men  may  not  suffer  from  hunger
@@ -1933,8 +1802,7 @@ and  keep  us  in  peace  and  safety.
 the  Sun.
 
 0  Creator  !  Thou  who  gavest
-being  to  the  Sun,  and  after-
-wards said  let  there  be  day  and
+being  to  the  Sun,  and  afterwards said  let  there  be  day  and
 night.  Raise  it  and  cause  it  to
 shine,  and  preserve  that  which
 thou  hast  created,  that  it  may
@@ -1950,37 +1818,26 @@ us  in  health  and  safety.
 FABLES    AND    RITES    OF    THE    YNCAS.
 
 
-31
-
-
 Prayer  for
 
-A  -  Uiracochan  tict^i  -  Uiraco-
-chan  hualpa  y  huana  -  Uiraco-
+A  -  Uiracochan  tict^i  -  Uiracochan  hualpa  y  huana  -  Uiraco-
 chan atun-Uiracochan  Tarapaca-
-Uiracochan  capaccachun  Ynca-
-cachun  nispachucapac  churas-
+Uiracochan  capaccachun  Yncacachun  nispachucapac  churas-
 pac  quicta  Ynca  camascayquita
-casillacta  quispullacta  Huacay-
-chamuy  runan  yananya  cha-
+casillacta  quispullacta  Huacaychamuy  runan  yananya  cha-
 chuchun  accari  punari  usachun
-ymaypacha  cama  ama  allca-
-chispa  churinta  mitanta  quanpas
-huacay  chay  chaycacdlacta  uira-
-cu-chaya.
+ymaypacha  cama  ama  allcachispa  churinta  mitanta  quanpas
+huacay  chay  chaycacdlacta  uiracu-chaya.
 
 Another
 
 Uiracochaya  qualpay  huana-
-Uiracochaya  ninacta  casi  quis-
-pillacta  capac  Ynca-churi  yqui-
-guarmayqui  pacamascayqui  hua-
-cay chamuchun  hatallimuchun
+Uiracochaya  ninacta  casi  quispillacta  capac  Ynca-churi  yqui-
+guarmayqui  pacamascayqui  huacay chamuchun  hatallimuchun
 pachachacara  ruua  llama  micuy
 paycaptin  yacachun  ccapac  Ynca
 camascayquita  Uiracochaya  ayni
-huni  marcari  hatalli  ymaypacha-
-cama.
+huni  marcari  hatalli  ymaypachacama.
 
 
 the  Ynca.
@@ -1993,8 +1850,7 @@ with  his  servants  and  vassals,
 that  he  may  obtain  the  victory
 over  his  enemies  and  always  be
 a  conqueror.  Cut  not  short  his
-days,  nor  the  days  of  his  child-
-ren, and  give  them  peace,  0
+days,  nor  the  days  of  his  children, and  give  them  peace,  0
 Creator !
 
 
@@ -2029,8 +1885,7 @@ ta  marcari  atalli.
 Apunchau  Ynca  Yutiryayay
 Cuzco  tampu  cachun  aticoclla
 saccoccachun  nispa  churac  camac
-muchas-cay  quicusiquispu  ca-
-chun    amatisca     amalla    sasca
+muchas-cay  quicusiquispu  cachun    amatisca     amalla    sasca
 
 
 0  Sun  !  Thou  who  hast  said,
@@ -2042,8 +1897,7 @@ We  beseech  thee  that  thy  child-
 
 •32  AN    ACCOUNT    OP    THE
 
-cachunchu  aticuc  paella  sacapac     ren    the    Yncas    may    be    con-
-camascayqui  churascayqui.  querors    always,    for    this    hast
+cachunchu  aticuc  paella  sacapac     ren    the    Yncas    may    be    concamascayqui  churascayqui.  querors    always,    for    this    hast
 
 thou  created  them.
 
@@ -2051,15 +1905,13 @@ Prayer  for  all  the  Huacas.
 
 0     pachachulla     Uiracocban         0  sacred   Huacas,  ancestors,
 ucuhulla  Uiracochan  huaca-vil-     grandsires,    and    parents !       O
-cacachun    nispacamacatu   napa-     Hatun-apu !     0  Hualpa-huana-
-huay  pihnana  taynaallastu  Uira-     tayua  !     0  xVpu  Allastu  !  bring
+cacachun    nispacamacatu   napa-     Hatun-apu !     0  Hualpa-huanahuay  pihnana  taynaallastu  Uira-     tayua  !     0  xVpu  Allastu  !  bring
 cochaya   hurinpacha   auacpacha     us  near  to  the  Creator,  ns  thy
 cachun  nispa  nicocupa  cbapipuca     sons,  and  our  children,  that  they
 umacta  churachay  nihuay  huni-     may  be  fortunate  and  near  the
 huay  quispicasica  musac  Uiraco-     Creator,  as  thou  art.
 chaya    micuy    niocmin     cacyoc
-curayoc    llamayoc    ymayna  yo-
-chaycaymayoc    amacacharihuay
+curayoc    llamayoc    ymayna  yochaycaymayoc    amacacharihuay
 cuchuy   maymana   aycay   niana
 chiquimanta     catuiman    manta
 nacasca  hustusca  amusca  manta.
@@ -2091,13 +1943,11 @@ respective  countries,  that  they  could  procure.  The  priests,
 who  had  charge  of  the  huacas,  carried  them  on  litters.
 When  they  entered  the  square,  coming  from  the  direction
 of  the  four  Suyus  already  mentioned,  they  made  reverences
-to  the  Creator,  the  Sun,  and  the  Thunder,  and  to  the  Hua-
-nacauri,  a  huaca  of  the  Yncas,  and  then  they  did  the  same
+to  the  Creator,  the  Sun,  and  the  Thunder,  and  to  the  Huanacauri,  a  huaca  of  the  Yncas,  and  then  they  did  the  same
 to  the  Ynca,  who  was  in  the  square  on  that  occasion.
 Having  made  these  obeisances,  they  proceeded  to  the  places
 assigned  to  them,  and,  in  order  to  make  more  room,  the
-families  of  Hanan-Cuzco  and  Hurin-Cuzco  formed  them-
-selves into  one,  and  thus  left  more  space  in  the  square.  As
+families  of  Hanan-Cuzco  and  Hurin-Cuzco  formed  themselves into  one,  and  thus  left  more  space  in  the  square.  As
 soon  as  all  the  people  wei'e  in  their  places,  the  High  Priest
 of  the  Sun  sprinkled  a  large  quantity  of  sancu  with  blood,
 and  the  Caciques  rose  up  in  their  order,  and  repeated  the
@@ -2129,8 +1979,6 @@ afterwards  the  people  ate  the  flesh  of  the  sheep  which  had
 been  sacrificed  to  the  Creator;  the  Sun,  and  the  Thunder.
 
 
-34  AN    ACCOUNT    OF    THE
-
 Each  nation  passed  the  rest  of  the  day  in  performing  the
 taqui  and  in  singing  and  dancing,  according  to  the  custom
 of  their  respective  countries  before  they  were  subdued  by
@@ -2146,8 +1994,7 @@ brought  there  in  that  year.  They  returned  to  their  homes
 with  the  huacas  they  had  brought  for  the  festival  of  the
 previous  year,  and,  as  a  recompense  for  their  trouble  in
 having  come  from  such  great  distances,  their  chiefs  were
-given  gold  and  silver  and  clothes  and  servants,  and  permis-
-sion to  travel  in  litters.  Their  huacas  were  also  granted
+given  gold  and  silver  and  clothes  and  servants,  and  permission to  travel  in  litters.  Their  huacas  were  also  granted
 estates  and  attendants  to  wait  on  them,  and  so  they  returned
 to  their  homes.
 
@@ -2165,8 +2012,7 @@ part  of  the  festival  was  omitted.
 September.
 
 They  call  the  month  of  September  Uma-Tlaymi,  because
-the  Indians  of  Uma,  which  is  two  leagues  from  Cuzco,  cele-
-brated   the    feast    of  Hurachillo.2     Tin's   was  the    occasion
+the  Indians  of  Uma,  which  is  two  leagues  from  Cuzco,  celebrated   the    feast    of  Hurachillo.2     Tin's   was  the    occasion
 2  Iluarachicu.
 
 
@@ -2205,21 +2051,17 @@ from  that  spot.  On  the  next  day  they  returned  in  the
 afternoon,  bringing  with  them  loads  of  straw,  on  which  their
 parents  and  relations  might  sit.  On  this  day  the  youths
 fasted ;  and  the  month  was  passed  in  preparing  many  kinds
-of  chicha  for  the  festival.  At  this  time,  and  indeed  through-
-out the  year,  the  priests  of  the  Creator,  of  the  Sun,  and  of
+of  chicha  for  the  festival.  At  this  time,  and  indeed  throughout the  year,  the  priests  of  the  Creator,  of  the  Sun,  and  of
 Thunder,    and   those    who    had    charge    of    the    huaca   of
 
 d  2
 
 
-36  AN    ACCOUNT    OF    THE
-
 Huanacauri,  made  three  daily  sacrifices;  offei'ing  up  three
 sheep,  one  in  the  morning,  one  at  noon,  and  a  third  at
 night,  with  other  food  that  was  dedicated  to  these  deities.
 The  huacas  were  supposed  to  consume  it  where  they  were ;
-but  they  carried  the  food  to  the  hills  in  the  feast  of  Yntic-
-raymi.  The  persons  also,  who  had  charge  of  the  embalmed
+but  they  carried  the  food  to  the  hills  in  the  feast  of  Ynticraymi.  The  persons  also,  who  had  charge  of  the  embalmed
 bodies,  never  came  forth  to  offer  up  the  food,  and  pour  out
 the  chicha  that  was  dedicated  to  them,  such  as  they  used
 when  they  were  alive.  These  they  consumed,  because  they
@@ -2267,8 +2109,7 @@ plumes  were  called  quito-tica.  Those  who  were  to  be  armed
 as  knights  were  shorn,  and  after  the  shearing  they  were
 clothed  in  the  dress  already  described.  Many  maidens,  who
 were  selected  to  give  their  services  at  this  feast,  then  came  to
-the  square,  dressed  in  a  costume  called  Cuzco  asu  ycochilli-
-qu'dla.  Their  ages  were  from  eleven  to  twelve  or  fourteen
+the  square,  dressed  in  a  costume  called  Cuzco  asu  ycochilliqu'dla.  Their  ages  were  from  eleven  to  twelve  or  fourteen
 years,  and  they  were  of  the  best  families.  They  were  called
 Nusta-calli-sapa?  Their  duty  was  to  carry  small  vases  of
 chicha,  as  we  shall  relate  further  on.  Being  all  clothed  in
@@ -2296,8 +2137,6 @@ hour  of  noon,  when  they  again  made  reverences   to  the
 8  Pacsa  is  the  word  for  the  moon,  in  the  Collao  dialects.  In  the  Ynca
 language  it  is  Quilla.
 
-
-38  AN    ACCOUNT    OF   THE
 
 huacas ;  and  sought  permission  from  the  Ynca  to  make  their
 sacrifices,  which  were  offered  up  in  the  following  way.
@@ -2349,8 +2188,7 @@ chaunted  a  song  called  Huari,  the  aimed  knights  standing
 up  with  the  handfuls  of  straw  in  their  hands,  and  all  the  rest
 of  the  people  being  seated.  As  soon  as  the  taqui  was  ended,
 they  rose  up  and  went  to  Cuzco,  whence  a  shepherd  came,
-who  was  one  of  those  in  charge  of  the  flock  called  Ray  mi-
-napa,  which  was  dedicated  for  this  feast.  They  brought  a
+who  was  one  of  those  in  charge  of  the  flock  called  Ray  minapa,  which  was  dedicated  for  this  feast.  They  brought  a
 sheep  called  nap  a,  which  was  covered  with  a  red  cloth
 having  ear  holes  of  gold.  Those  who  came  with  it,  blew
 upon  sea  shells  bored  through,  called  hayllayquipac.  An
@@ -2383,8 +2221,7 @@ and  it  must  be  known  that  all  the  youths  who  received  arms
 were  obliged  to  be  descendants  and  relations  of  the  Lord
 Yncas  by  direct  line,  for  no  others  were  admitted.  In  the
 same  month  the  Ynca  Governors  of  Provinces  who  had  sons
-of  the  proper  age,  performed  the  ceremonies  in  the  pro-
-vinces, boring  the  ears  of  the  boys,  and  arming  them  as
+of  the  proper  age,  performed  the  ceremonies  in  the  provinces, boring  the  ears  of  the  boys,  and  arming  them  as
 knights.
 
 On  the  14th  day  they  brought  into  the  square  the  huacas
@@ -2426,8 +2263,7 @@ a  league  from  Cuzco.
 Each  of  those  who  had  been  armed  as  knights  brought  a
 tent  in  which  to  sleep,  for  himself  and  his  relations.  There
 went  with  them  all  the  maidens  who  had  received  the
-dresses  which  the  Sun  had  given.  They  were  called  Nusta-
-callisapa.  They  brought  with  them  small  jars  of  chicha,  to
+dresses  which  the  Sun  had  given.  They  were  called  Nustacallisapa.  They  brought  with  them  small  jars  of  chicha,  to
 give  drink  to  the  relations  of  the  knights,  and  to  offer  as
 sacrifice,  as  well  as  to  give  drink  to  the  youths  who  were
 armed  as  knights.  On  this  day  they  brought  with  them
@@ -2442,8 +2278,7 @@ half  a  league  from  the  place  where  they  slept.  Here  they
 had  breakfast,  and  after  their  meal  they  fastened  a  little
 white  wool  to  the  ends  of  their  staves,  and  to  the  handles
 of  the  said  topa-yauri  they  secured  some  ychu.  Then  they
-continued  to  advance  until  they  came  to  a  hill  called  Ana-
-huarqui,  which  is  two  leagues  from  Cuzco,  to  the  huaca  of
+continued  to  advance  until  they  came  to  a  hill  called  Anahuarqui,  which  is  two  leagues  from  Cuzco,  to  the  huaca  of
 the  same  name  on  the  top  of  the  hill,  which  was  the  huaca
 of  the  Indians  of  the  villages  of  Choco  and  Cachona.  The
 reason  why  they  went  to  this  huaca  to  perform  a  sacrifice
@@ -2452,8 +2287,7 @@ was  the  best  runner.  The  tradition  had  been  handed  down,
 from  the  time  of  the  deluge,  that  this  huaca  ran  like  a  lion.
 On  coming  before  the  huaca,  the  youths  offered  a  little  wool
 which  they  held  in  their  hands.  The  priests  of  the  Sun  (not
-the  High  Priest)  and  those  of  the  other  huacas,  called  Tar-
-puntays,  then  sacrificed  five  lambs,  burning  them  in  tho
+the  High  Priest)  and  those  of  the  other  huacas,  called  Tarpuntays,  then  sacrificed  five  lambs,  burning  them  in  tho
 name  of  the  Creator,  the  Sun,  the  Moon,  and  the  Thunder.
 8  llaymi-napa.
 
@@ -2484,14 +2318,12 @@ full  speed  and  with  all  their  force.  Those  who  fell  or  fainted,
 were  assisted  by  the  men  in  the  rear,  but  some  died  of  the
 falls.  Those  who  reached  the  goal  received  drink  from  the
 maidens,  and  they  drank  as  they  ran.  The  object  of  this
-race  was  to  prove  who  was  the  best  of  those  who  had  re-
-ceived knighthood.
+race  was  to  prove  who  was  the  best  of  those  who  had  received knighthood.
 
 On  each  occasion  they  armed  eight  hundred  knights  and
 upwards.  When  they  were  all  assembled  on  the  hill  called
 Haurana,  they  again  performed  the  taqui  called  liuari;  after
-which  they  took  the  huaracas  and  the  yauris,  and  again  be-
-gan to  flog  the  knights  upon  the  arms  and  legs.  By  this
+which  they  took  the  huaracas  and  the  yauris,  and  again  began to  flog  the  knights  upon  the  arms  and  legs.  By  this
 time  it  was  the  hour  of  vespers,  and  they  all  rose  up  in  their
 order,  to  return  to  Cuzco,  bearing  in  front  the  suntur-pancar
 and  the  sheep  called  raymi-napa.     They  marched  to  the
@@ -2512,23 +2344,20 @@ again  performed  the  taqui  called  huari,  and  once  more
 flogged  the  youths.  Afterwards  the  Ynca  and  his  court
 went  to  his  house,  and  the  youths,  with  their  fathers  and
 relations,  went  to  the  hill  called  Raurana.  They  passed
-the  night  at  the  foot  of  the  hill,  in  a  place  called  Huaman-
-cancha}  At  dawn  they  arose  and  ascended  the  hill  Raurana,
+the  night  at  the  foot  of  the  hill,  in  a  place  called  Huamancancha}  At  dawn  they  arose  and  ascended  the  hill  Raurana,
 which  is  half  a  league  from  Cuzco.  The  Lord  Ynca  came
 here  on  this  day,  to  grant  favours  to  those  who  had  been
 armed  as  knights,  giving  them  ear-pieces  of  gold,  red
 mantles,  with  blue  tassels,  and  other  marks  of  distinction.
 The  huaca  of  Raurana  consisted  of  two  falcons  in  stone,
-placed  upon  an  altar  on  the  summit  of  the  hill.  It  was  in-
-stituted by  Pachacutec  Ynca  Yupanqui,  as  the  place  where
+placed  upon  an  altar  on  the  summit  of  the  hill.  It  was  instituted by  Pachacutec  Ynca  Yupanqui,  as  the  place  where
 they  should  receive  the  breeches  which  they  call  huara.
 This  huaca  was  at  first  the  idol  of  the  Indians  of  Maras,
 and  Huascar  Ynca  caused  the  falcons  to  be  brought  here,
 to  beautify  it.  The  sacrifice  that  was  performed  on  this
 occasion  was  to  burn  five  lambs,  and  to  pour  out  chicha,
 beseeching  the  Creator,  the  Sun,  the  Moon,  and  the
-Thunder,  that  the  youths  who  had  been  armed,  might  be-
-come valiant  and  enterprising  warriors,  that  all  they  put
+Thunder,  that  the  youths  who  had  been  armed,  might  become valiant  and  enterprising  warriors,  that  all  they  put
 their  hands  to  might  prosper,  and  that  they  might  never
 suffer  defeat.  The  sacrifice  was  performed  by  the  Priest  of
 the  huaca  Raurana ;  who  also  besought  the  huaca  that  the
@@ -2553,8 +2382,7 @@ them  of  the  prayers  just  offered  up,  urging  them  to  emulate
 the  deeds  of  their  ancestors,  and  to  be  valiant  warriors,
 never  turning  their  backs  on  the  foe.
 
-With  reference  to  the  taqui  so  often  repeated  in  the  cere-
-mony, they  say  that,  in  the  time  of  Manco  Ccapac,  the  first
+With  reference  to  the  taqui  so  often  repeated  in  the  ceremony, they  say  that,  in  the  time  of  Manco  Ccapac,  the  first
 Ynca  from  whom  they  are  all  descended,  when  he  came
 forth  from  the  Cave  of  Tampu,  it  was  given  to  him  by  the
 Creator  with  a  command  that  it  should  be  sung  at  this
@@ -2563,10 +2391,8 @@ festival,  and  at  no  other.
 After  the  taqui,  they  drank  in  their  order,  and  marched
 back  to  Cuzco,  the  sicntur-paucar  being  borne  before  them
 as  a  banner,  and  the  sheep  dressed  as  on  former  occasions.
-Manco  Ccapac  instituted  this  feast,  and  caused  these  cere-
-monies to  be  observed  in  the  case  of  his  son  Sinchi  Rocca,
-as  we  have  related  in  the  history  of  the  Yncas.2  On  reach-
-ing the  square  of  Cuzco,  they  performed  the  mucha  or
+Manco  Ccapac  instituted  this  feast,  and  caused  these  ceremonies to  be  observed  in  the  case  of  his  son  Sinchi  Rocca,
+as  we  have  related  in  the  history  of  the  Yncas.2  On  reaching the  square  of  Cuzco,  they  performed  the  mucha  or
 adoration  before  the  Huacas  which  the  Priests  had  brought
 out,  and  they  also  made  obeisances  to  all  the  embalmed
 bodies  of  the  dead  Lord  and  Ladies  which  had  been  brought
@@ -2587,8 +2413,7 @@ Cuzco  in  their  respective  places.  The  skins  of  lions,  with
 the  heads,  had  been  prepared,  with  gold  ear-pieces  in  the
 ears,  and  golden  teeth  in  place  of  the  real  teeth  which  had
 been  pulled  out.  In  the  paws  were  certain  ajorcas  of  gold,
-called  chipanas.  They  called  these  lions  hillacunya  chuqui-
-cunya.  Those  who  dressed  in  the  skins,  put  on  the  head
+called  chipanas.  They  called  these  lions  hillacunya  chuquicunya.  Those  who  dressed  in  the  skins,  put  on  the  head
 and  neck  of  the  lion  so  as  to  cover  their  own,  and  the  skin
 of  the  body  of  the  lion  hung  from  the  shoulders.  Those
 who  had  to  take  part  in  the  taqui  wore  red  shirts,  with  red
@@ -2609,26 +2434,21 @@ On  the  21st  day  of  this  month  all  the  youths  who  had
 been  armed  as  knights,  went  to  bathe  in  a  fountain  called
 Calli-puquio,  in  a  ravine  about  a  quarter  of  a  league  to  the
 rear  of  the  fortress  of  Cuzco.  They  then  took  off  the  clothes
-in  which  they  had  been  armed  as  knights,  and  dressed  them-
-selves in  others  called  nanaclla,  coloured  black  and  yellow,
+in  which  they  had  been  armed  as  knights,  and  dressed  themselves in  others  called  nanaclla,  coloured  black  and  yellow,
 and  in  the  centre  a  red  cross.  Thence  they  returned  to  the
 square,  where  they  found  all  the  huacas.  They  made  the
-usual  obeisances.  They  were  placed  according  to  the  fami-
-lies to  which  they  belonged ;  and  the  principal  uncle  pre-
+usual  obeisances.  They  were  placed  according  to  the  families to  which  they  belonged ;  and  the  principal  uncle  pre-
 sented each  knight  with  a  shield,  a  sling,  and  a  club  with  a
 metal  knob  at  the  end,  with  which  to  go  to  the  wars.  The
 other  relations  and  chiefs  then  offered  up  cloth,  sheep,  gold,
 silver,  and  other  things,  with  a  prayer  that  the  youths  might
 
 
-46  AN   ACCOUNT  OF    THE
-
 always  be  rich  and  fortunate.  Each  relation  that  offered
 sacrifice,  flogged  a  youth  and  delivered  a  discourse  to  him,
 exhorting  him  to  be  valiant  and  never  to  be  a  traitor  to  the
 Sun  and  the  Ynca,  but  to  be  diligent  in  devotion  to  the
-huacas,  and  to  imitate  the  bravery  and  prowess  of  his  ances-
-tors. When  the  principal  Lord  Ynca  was  armed  as  a  knight,
+huacas,  and  to  imitate  the  bravery  and  prowess  of  his  ancestors. When  the  principal  Lord  Ynca  was  armed  as  a  knight,
 all  the  chiefs  and  great  lords,  who  were  present  from
 all  parts  of  the  land,  made  great  offerings  in  addition  to
 those  usually  supplied.  At  the  end  of  the  sacrifices,  the
@@ -2637,8 +2457,7 @@ quantity  of  fuel  tied  together  in  handfuls,  and  dressed  in  the
 clothes  of  a  man  and  a  woman.  The  faggots,  thus  dressed
 up,  were  offered  to  the  Creator,  the  Sun,  and  the  Ynca,
 and  were  burnt  in  their  clothes,  together  with  a  sheep.
-They  also  burnt  certain  birds  called  pilcopichicP  and  caman-
-tcra-picliio ;  and  this  sacrifice  was  performed  for  the  youths
+They  also  burnt  certain  birds  called  pilcopichicP  and  camantcra-picliio ;  and  this  sacrifice  was  performed  for  the  youths
 who  had  been  armed  as  knights ;  with  a  prayer  that  they
 might  always  be  fortunate  in  war.
 
@@ -2647,15 +2466,13 @@ houses  of  their  relations,  and  their  ears  were  pierced,  which
 was  the  last  ceremony  in  arming  the  knights.  Among
 these  people  they  thought  so  much  of  this  boring  the  ears,
 that,  if  the  orifice  was  broken  through  by  any  accident,
-the  man  to  whom  it  happened  was  looked  upon  as  unfortu-
-nate. They  stuff  pieces  of  cotton  into  the  orifice  of  the  ear,
+the  man  to  whom  it  happened  was  looked  upon  as  unfortunate. They  stuff  pieces  of  cotton  into  the  orifice  of  the  ear,
 and  each  day  they  put  in  more  in  order  to  enlarge  it.  On
 the  same  day  the  priests  of  the  Creator  and  the  Sun,  of
 Thunder  and  the  Moon,  and  the  shepherds  of  the  Ynca
 counted  the  flocks  of  the  huacas  and  of  the  Ynca.  Then
 commenced  the  feasts  that  were  celebrated  for  the  flocks
-of  the  huacas,  that  they  might  multiply ;  for  which  sacri-
-fices were  made  throughout  the  kingdom.  The  shepherds
+of  the  huacas,  that  they  might  multiply ;  for  which  sacrifices were  made  throughout  the  kingdom.  The  shepherds
 whose  flocks  increased  most  raj^idly  were  rewarded,  and
 those  whose  flocks  failed  to  multiply  were  punished.
 3  Pichio  for  piscu,  a  bird.
@@ -2701,8 +2518,6 @@ Yncas,  to  drink  with  them ;  placing  those  who  had  belonged
 4  Toctu  is  honey.
 
 
-48  AN    ACCOUNT    OF    THE
-
 to  the  Hanan  Cuzco  on  the  side  where  that  lineage  was
 stationed,  and  the  same  with  those  of  Hurin  Cuzco.  Then
 they  brought  food  and  drink  to  the  dead  bodies,  as  if  they
@@ -2714,8 +2529,7 @@ men  went  to  rest  with  the  Creator.  When  they  died  they
 declared  this  belief,  and  charged  their  families  and  relations
 to  perform  all  that  they  had  left  them  to  do,  and  that  they
 would  see  them  from  heaven.  They  also  believed  that  there
-was  a  place  of  punishment  for  bad  men,  where  they  were  tor-
-mented by  demons  called  Supay.  They  said  that  those  who
+was  a  place  of  punishment  for  bad  men,  where  they  were  tormented by  demons  called  Supay.  They  said  that  those  who
 went  there,  suffered  much  hunger  and  thirst,  and  that  their
 food  was  charcoal,  snakes,  toads,  and  other  things  of  that
 kind.  Those  who  went  to  heaven,  on  the  other  hand,  eat
@@ -2762,13 +2576,10 @@ account  of  the  Yntic-Raymi,  which  is  the  month  of  May,  I
 described  the  manner  of  their  drinking  to  the  Sun,  and  to
 the  other  huacas,  pouring  the  chicha  down  certain  pipes,  I
 will  not  repeat  the  description  here.  In  all  the  festivals  the
-manner  of  drinking  to  the  huacas  was  the  same.  Half-an-
-hour  before  sunset  they  took  the  huacas  back  to  their
-temples,  and  the  Ynca  returned  to  his  house.  The  perform-
-ing of  this  taquiy  with  the  sacrifices  and  drinking,  lasted  for
+manner  of  drinking  to  the  huacas  was  the  same.  Half-anhour  before  sunset  they  took  the  huacas  back  to  their
+temples,  and  the  Ynca  returned  to  his  house.  The  performing of  this  taquiy  with  the  sacrifices  and  drinking,  lasted  for
 two  days.  On  the  1 8th  of  the  said  month,  they  came  out
-in  the  square,  clothed  in  very  gay  dresses  called  sanca-sonco-
-quila  pionco ;  and  in  small  mantles,  and  with  plumes  called
+in  the  square,  clothed  in  very  gay  dresses  called  sanca-soncoquila  pionco ;  and  in  small  mantles,  and  with  plumes  called
 cupaticas  on  their  heads,  being  the  tails  of  macaws  and
 pilos  called  gualanjiapi,  made  of  feathers.  On  reaching  the
 square  they  made  their  obeisances  to  the  huacas  in  the  usual
@@ -2784,8 +2595,6 @@ year,  in  order  to  throw  them  into  the  river.
 E
 
 
-50  AN    ACCOUNT    OF    THE
-
 On  this  day  they  performed  the  taqui  chapay  quenalo,
 which,  with  all  the  other  ceremonies  that  were  performed  in
 the  course  of  the  year,  was  invented  by  Pachacutec  Ynca
@@ -2795,8 +2604,7 @@ yayascay,  which  are  festivals  invented  by  the  first  Ynca,  as
 will  presently  be  mentioned.
 
 On  the  following  day,  which  was  the  19th  of  the  said
-month,  they  went  to  the  square  of  Cuzco,  called  Huacay-
-pata,  both  the  Ynca  and  all  the  people,  and  they  brought
+month,  they  went  to  the  square  of  Cuzco,  called  Huacaypata,  both  the  Ynca  and  all  the  people,  and  they  brought
 out  the  huacas  and  the  embalmed  bodies  of  the  dead.
 Having  made  the  usual  obeisances,  they  began  to  offer  up
 the  sacrifice  called  mojocati,  in  the  following  order.
@@ -2879,8 +2687,7 @@ to  their  farms.
 
 March.
 
-The  month  of  March  was  called  Paucar-huara.  No  fes-
-tival was  celebrated  of  any  kind  in  this  month.
+The  month  of  March  was  called  Paucar-huara.  No  festival was  celebrated  of  any  kind  in  this  month.
 
 April.
 
@@ -2902,11 +2709,9 @@ singing  a  chaunt  called  yaravi,  and  dressed  in  gay  clothes.
 All  the  rest  of  the  people  of  Cuzco  went  to  bring  in  this
 maize,  except  on  the  first  day,  when  it  was  brought  by
 the  youths  who  had  received  knighthood.  The  priests,
-called  Tar^untays,  offered  up  a  lamb  in  sacrifice,  beseech-
-ing the  Creator  ever  to  grant  them  good  harvests.  This
+called  Tar^untays,  offered  up  a  lamb  in  sacrifice,  beseeching the  Creator  ever  to  grant  them  good  harvests.  This
 lasted  for  four  days,  after  which  they  went  back  to  their
-farms ;  and  so  the  year  ended,  and  the  month  of  May  re-
-turned.
+farms ;  and  so  the  year  ended,  and  the  month  of  May  returned.
 
 
 FABLES    AND    RITES    OF    THE    YNCAS.  53
@@ -2950,8 +2755,6 @@ how  she  should  behave,  and  how  she  should  obey  her  parents.
 They  then  offered  gifts  according  to  their  means,  without
 
 
-54  AN    ACCOUNT    OF    THE
-
 any  idolatrous  practice   whatever;    and    this    custom    was
 ordained  by  Ynca  Yupanqui.
 
@@ -2965,11 +2768,9 @@ father  and  mother-in-law  for  a  space  of  four  or  five  days,  and
 carried  in  fuel  and  straw  for  them.  Thus  the  agreement
 was  made,  and  he  took  the  girl  for  his  wife ;  and  because
 the  Ynca  had  given  her,  it  was  considered  that  she  was
-taken  until  death,  and  she  was  received  on  this  understand-
-ing, and  never  deserted.
+taken  until  death,  and  she  was  received  on  this  understanding, and  never  deserted.
 
-The  Gcapac-cocha  was  instituted  by  Pachacutec  Ynca  Yu-
-panqui, and  was  as  follows.  The  provinces  of  Colla-suyu,
+The  Gcapac-cocha  was  instituted  by  Pachacutec  Ynca  Yupanqui, and  was  as  follows.  The  provinces  of  Colla-suyu,
 Chincha-suyu,  Anti-suyu,  and  Cunti-suyu  brought  to  this
 city,  from  each  lineage  or  tribe,  one  or  two  male  and  female
 children  aged  about  ten  years.  They  also  brought  cloth
@@ -2980,8 +2781,7 @@ Creator,  the  Sun,  the  Thunder,  and  the  Moon,  which  were
 placed  in  the  square,  taking  two  turns.  The  Ynca  then
 called  to  the  Priests  of  the  provinces,  and  commanded  them
 to  divide  the  sacrifices  into  four  parts,  in  token  of  the  four
-provinces,  Colla-suyu,  Chincha-suyu,  Anti-suyu,  and  Cunti-
-suyu,  which  are  the  four  divisions  into  which  the  land  is
+provinces,  Colla-suyu,  Chincha-suyu,  Anti-suyu,  and  Cuntisuyu,  which  are  the  four  divisions  into  which  the  land  is
 divided.  He  told  them,  "  Take,  each  one  of  you,  his  part
 of  these  offerings  and  sacrifices,  and  offer  them  to  your
 principal  huacas."  So  the  children  were  strangled  and
@@ -3000,8 +2800,7 @@ way,  they  were  passed  on  to  the  other  provinces.  The
 Lord  Ynca  offered  these  sacrifices  when  he  began  to  reign,
 that  the  huacas  might  give  him  health,  and  preserve  his
 dominions  in  peace.  No  huaca  or  place  of  worship,  how
-small  soever,  was  left  out  in  the  distribution  of  the  sacri-
-fices, for  the  things  that  were  to  be  sacrificed  at  each  place
+small  soever,  was  left  out  in  the  distribution  of  the  sacrifices, for  the  things  that  were  to  be  sacrificed  at  each  place
 were  all  set  apart.  The  reason  why  all  the  huacas,  whether
 they  were  sacred  trees,  fountains,  or  hills,  or  lakes,  received
 part  of  the  sacrifice,  was  because  it  was  held  to  be  an  evil
@@ -3014,16 +2813,13 @@ provinces,  these  sacrifices  were  offered  up  ;  and  afterwards
 at  all  the  smaller  sacred  places.  At  each  place  was  offered
 up  the  portion  that  was  assigned  for  it  at  Cuzco ;  for  in
 Cuzco  there  was  the  Quipucam-ayu,  or  accountant,  who  took
-an  account  of  each  portion  of  the  sacrifice,  and  of  the  pro-
-vince to  which  each  was  to  be  sent.
+an  account  of  each  portion  of  the  sacrifice,  and  of  the  province to  which  each  was  to  be  sent.
 
-They  began  to  make  the  sacrifices  in  Cuzco,  in  the  follow-
-ing order.  The  first  was  offered  to  the  Creator,  and  was
+They  began  to  make  the  sacrifices  in  Cuzco,  in  the  following order.  The  first  was  offered  to  the  Creator,  and  was
 received  by  the  priest  who  had  charge  of  its  image,  and
 they  prayed  for  long  life  and  health,  and  for  victory  against
 the  enemies  of  the  Yncas,  also  that  while  this  Ynca  was
-Lord  all  the  provinces  might  remain  at  peace,  and  be  pros-
-perous. After  this  prayer  they  strangled  the  children,  first
+Lord  all  the  provinces  might  remain  at  peace,  and  be  prosperous. After  this  prayer  they  strangled  the  children,  first
 giving  them  to  eat  and  drink,  that  they  might  not  enter  the
 presence  of  the  Creator  discontented  and  hungry.  From
 others  they  took  out  the  hearts  while  yet  alive,  and  offered
@@ -3038,8 +2834,7 @@ and  finally  they  interred  the  bodies  with  the  other  sacrifices,
 in  a  place  called  Chuquicancha,  which  is  a  small  hill  above
 San  Sebastian,  about  half  a  league  from  the  town.  Then
 the  Priests  of  the  Sun,  in  the  same  order,  received  what
-was  assigned  to  their  Deity,  and  in  the  same  place  they  per-
-formed the  sacrifice  to  the  Sun,  with  the  following  prayer : —
+was  assigned  to  their  Deity,  and  in  the  same  place  they  performed the  sacrifice  to  the  Sun,  with  the  following  prayer : —
 
 Prayer  for  the  Sun.
 
@@ -3070,14 +2865,12 @@ huacaychaspa.  health  and  peace.
 In  like  manner,  the  priests  of  the  Thunder,  which  was
 called  Chuqui-ylla,  received  the  children  and  other  sacrifices
 which  were  assigned  to  it,  and  buried  them  in  the  same
-place,  called  Cliuqiti-cancha ;  and  the  same  order  was  ob-
-served with  the  sacrifices  to  the  Moon ;  prayers  being
+place,  called  Cliuqiti-cancha ;  and  the  same  order  was  observed with  the  sacrifices  to  the  Moon ;  prayers  being
 offered  up  on  each  occasion  that  the  Ynca  might  always  be
 granted  health  and  prosperity ;  and  that  he  might  always
 be  victorious  over  his  enemies.  Afterwards  the  whole  of
 the  priests  together  offered  to  Heaven  the  sacrifices  that
-were  set  apart  for  that  purpose,  and  also  to  the  earth ;  re-
-peating the  following  prayer  : —
+were  set  apart  for  that  purpose,  and  also  to  the  earth ;  repeating the  following  prayer  : —
 
 Pachacmama  !       cuyrumama  0  mother  earth  !  preserve  the
 
@@ -3094,15 +2887,13 @@ Then  the  priests  who  had  charge  of  the  huaca  Yanacauri
 offered  their  sacrifice.  This  huaca  was  of  Ayar-cachi,5  one
 of  the  four  brothers  who  were  said  to  have  come  out  of  the
 cave  at  Tarnpu ;  but,  as  I  have  treated  of  this  fable  in  the
-beginning  of  the  history  which  your  most  illustrious  Lord-
-ship possesses,  I  will  not  dwell  upon  it  here.  As  this  was
+beginning  of  the  history  which  your  most  illustrious  Lordship possesses,  I  will  not  dwell  upon  it  here.  As  this  was
 the  principal  huaca,  besides  those  already  mentioned,  the
 priest  who  had  charge  of  it,  with  his  comrades,  received  the
 children  and  other  things  that  were  dedicated  to  it,  and
 sacrificed  them  on  the  hill  called  Huanacauri,  which  is  two
 leagues  and  a  half  from  Cuzco,  a  little  more  or  less.  They
-offered  up  a  prayer  at  the  time  of  making  the  sacrifice,  be-
-seeching the  huaca  that  the  Ynca,  its  descendant,  might
+offered  up  a  prayer  at  the  time  of  making  the  sacrifice,  beseeching the  huaca  that  the  Ynca,  its  descendant,  might
 ever  be  youthful  and  victorious,  and  that  ever,  during  the
 life  of  the  reigning  Ynca,  the  country  might  be  at  peace.
 Afterwards  sacrifices  were  performed  at  all  the  fountains,
@@ -3111,8 +2902,7 @@ but  no  child  was  killed  for  these  sacrifices.  These  places
 were  so  numerous  in  Cuzco,  that  it  would  be  tedious  to
 enumerate  them  here,  and  I  will  not  do  so  because  they  are
 given  in  the  account  of  the  huacas  which  I  have  presented
-to  your  most  reverend  Lordship.  As  soon  as  they  had  con-
-cluded the  sacrificial  ceremonies  in  Cuzco,  the  Priests  brought
+to  your  most  reverend  Lordship.  As  soon  as  they  had  concluded the  sacrificial  ceremonies  in  Cuzco,  the  Priests  brought
 out  those  which  had  to  be  sent  to  other  parts,  in  the  way
 that  has  already  been  described.  The  order  of  marching
 with  the  sacrifices  was  that  all  the  people  who  went  with
@@ -3125,8 +2915,6 @@ which  were  commenced  by  an  Indian  who  was  deputed  to
 perform  this  duty.  Having  given  the  word,  all  the  others
 5  See  G.  de  la  Veya,  i,  p.  73.
 
-
-58  AN    ACCOUNT    OF    THE
 
 continued  the  same  cries.  The  cries  were  to  beseech  the
 Creator  that  the  Ynca  might  ever  be  victorious,  and  be
@@ -3152,10 +2940,8 @@ from  Cuzco  that,  although  the  sacrifices  and  the  places  at
 which  they  were  to  be  delivered  were  numerous,  they  never
 made  a  mistake.  For  this  service  the  Ynca  had  Indians  in
 Cuzco,  who  were  natives  of  the  four  Suyus  or  provinces.
-Each  one  had  a  knowledge  of  all  the  huacas,  how  small  so-
-ever they  might  be,  that  were  in  the  province  over  which
-he  was  Quipucamayoc  or  Accountant.  They  were  called  Vil-
-cacamayoc.  Each  Indian  had  charge  of  nearly  five  hundred
+Each  one  had  a  knowledge  of  all  the  huacas,  how  small  soever they  might  be,  that  were  in  the  province  over  which
+he  was  Quipucamayoc  or  Accountant.  They  were  called  Vilcacamayoc.  Each  Indian  had  charge  of  nearly  five  hundred
 leagues  of  country,  and  he  had  an  account  of  the  things  that
 were  to  be  sacrificed  at  every  huaca  within  his  district.
 Those  who  had  to  set  out  from  Cuzco  received  their  destined
@@ -3168,8 +2954,7 @@ sacrifices  were  increased  or  augmented  according  to  the  will
 
 FABLES  AND  RITES  OP  THE  YNCAS.  59
 
-of  the  Ynca,  the  instructions  were  sent  from  Cuzco  as  re-
-garded what  was  to  be  done  at  each  place.
+of  the  Ynca,  the  instructions  were  sent  from  Cuzco  as  regarded what  was  to  be  done  at  each  place.
 
 They  held  this  sacrifice,  called  Ccapacocha  or  Cachaltuaca,
 in  such  veneration  that,  when  those  who  were  making
@@ -3182,8 +2967,7 @@ did  not  come  out  of  their  houses,  but  remained,  with  deep
 humility  and  reverence,  until  the  said  Ccapac-cocha  had  passed
 onwards.
 
-They  also  had  a  custom,  when  they  conquered  and  sub-
-jugated any  nations,  of  selecting  some  of  the  handsomest  of
+They  also  had  a  custom,  when  they  conquered  and  subjugated any  nations,  of  selecting  some  of  the  handsomest  of
 the  conquered  people  and  sending  them  to  Cuzco,  where
 they  were  sacrificed  to  the  Sun  who,  as  they  said,  had  given
 them  the  victory.
@@ -3218,8 +3002,7 @@ returning  to  the  idolatries  which  they  pi-actised  in  the  timo
 of  their  infidelity.  It  was  not  understood  how  this  had  come
 to  pass ;  but  it  was  suspected  that  the  wizards,  whom  the
 Yncas  kept  in  Uiscacabamba,  were  at  the  bottom  of  it.
-For  in  the  year  1560,  and  not  before,  it  was  held  and  be-
-lieved by  the  Indians,  that  an  ointment  from  the  bodies  of
+For  in  the  year  1560,  and  not  before,  it  was  held  and  believed by  the  Indians,  that  an  ointment  from  the  bodies  of
 the  Indians  had  been  sent  for  from  Spain  to  cure  a  disease
 for  which  there  was  no  medicine  there.  Hence  it  was  that
 the  Indians,  at  that  time,  were  very  shy  of  the  Spaniards,
@@ -3239,8 +3022,7 @@ one  of  which  was  united  with  the  huaca  Pachacama,  and
 the  other  with  the  huaca  Titicaca.  The  story  went  on
 that  they  had  formed  in  the  air,  in  order  of  battle  against
 God,  and  that  they  had  conquered  Him.  But  when  the
-Marquis6  entered  this  land,  it  was  held  that  God  had  con-
-quered the  huacas,  as  the  Spaniards  had  overcome  the
+Marquis6  entered  this  land,  it  was  held  that  God  had  conquered the  huacas,  as  the  Spaniards  had  overcome  the
 Indians.  Now,  however,  it  was  believed  that  things  were
 changed,  that  God  and  the  Spaniards  were  conquered,  all
 tbe  Spaniards  killed,  and  their  cities  destroyed,  and  that
@@ -3273,8 +3055,7 @@ pass  a  life  of  prosperity  and  health.  Those  who  would
 return  to  the  love  of  the  huacas  and  live,  were  to  fast  for
 some  days,  not  eating  salt  nor  aji,  nor  coloured  maize,  nor
 any  Spanish  thing,  nor  entering  churches,  nor  obeying  the
-call  of  the  priests,  nor  using  their  christian  names.  Hence-
-forth the  times  of  the  Yncas  would  be  restored,  and  the
+call  of  the  priests,  nor  using  their  christian  names.  Henceforth the  times  of  the  Yncas  would  be  restored,  and  the
 huacas  would  not  enter  into  stones  or  fountains  to  speak,
 but  would  be  incorporated  in  men  whom  they  would  cause
 to  speak  :  therefore  the  people  were  to  have  their  houses
@@ -3289,21 +3070,17 @@ him  to  a  chosen  spot,  and  there  they  made  a  lodging  with
 straw  and  cloaks ;  and  began  to  worship  the  huaca,  offering
 
 
-62  AN    ACCOUNT    OF    THE
-
 sheep,  colla-chicha,  llipta,  wo  Wo, -and  other  things.  Then
 they  made  a  festival  for  two  or  three  days,  dancing  and
 drinking,  and  invoking  the  huaca  that  was  represented  by
 the  possessed  man.  Such  persons,  from  time  to  time,
 preached  to  the  people,  threatening  them,  and  telling  them
-not  to  serve  God,  but  the  huacas ;  and  to  renounce  all  Chris-
-tianity, with  all  christian  names,  and  the  shirts,  hats,  and
+not  to  serve  God,  but  the  huacas ;  and  to  renounce  all  Christianity, with  all  christian  names,  and  the  shirts,  hats,  and
 shoes  of  Christians.  These  possessed  persons  asked  the
 people  if  they  had  any  relics  of  the  burnt  huacas,  and  when
 they  brought  some  piece  of  stone  they  covered  their  heads
 with  a  mantle  before  the  people,  and  poured  chicha,  and
-the  flour  of  white  maize  on  the  fragment.  Then  the  pos-
-sessed shouted  and  invoked  the  huaca ;  and  rose  up  with
+the  flour  of  white  maize  on  the  fragment.  Then  the  possessed shouted  and  invoked  the  huaca ;  and  rose  up  with
 the  fragment  in  his  hands,  thus  addressing  the  people.
 "  You  see  here  your  support.  You  see  here  that  which  can
 give  you  health,  and  children,  and  food.  Put  it  in  its  place,
@@ -3318,23 +3095,20 @@ This  evil  was  so  widely  credited  that  not  only  the  Indians
 on  the  Eepartimientos  but  those  who  lived  in  the  cities,
 among  Spaniards,  believed  and  performed  the  prescribed
 fasts.  At  last  the  said  priest,  Luis  de  Olivera,  began  to
-punish  the  people  of  that  province  and  of  Acari,  and  re-
-ported the  matter  to  the  Royal  Audience  of  Lima  and  to
+punish  the  people  of  that  province  and  of  Acari,  and  reported the  matter  to  the  Royal  Audience  of  Lima  and  to
 the  Lord  Archbishop,  and  the  Bishop  of  Charcas,  and  to
 Friar  Pedro  de  Toro,  the  steward  of  the  Bishop  of  Cuzco.
 At  last  the  apostacy  began  to  wane,  but  altogether  it  lasted
 for  seven  years.
 
-As  they  believed  that  God  and  the  Spaniards  were  con-
-quered, the  Indians  began  to  rise,  as  happened  in  the  year
+As  they  believed  that  God  and  the  Spaniards  were  conquered, the  Indians  began  to  rise,  as  happened  in  the  year
 1565,  when  the  Licentiate   Castro  was  Governor  of  these
 
 
 FABLES  AND  RITES  OF  THE  YNCAS.  63
 
 kingdoms,  who  received  reports  from  the  Corregidors  of
-Cuzco,  Guamanga,  and  Huanuco.  These  cities  were  pre-
-pared for  war  during  some  time.
+Cuzco,  Guamanga,  and  Huanuco.  These  cities  were  prepared for  war  during  some  time.
 
 There  were  several  forms  of  apostacy  in  the  different
 provinces.  Some  danced  and  gave  out  that  they  had  the
@@ -3352,8 +3126,7 @@ opposite.
 By  reason  of  this  devilish  teaching,  there  are  still  some
 Indian  sorcerers  and  witches,  though  their  number  is  small.
 When  any  Indian  is  sick,  these  witches  are  called  in  to  cure
-him,  and  to  say  whether  he  will  live  or  die.  Having  pro-
-nounced upon  the  case,  they  order  the  sick  man  to  take
+him,  and  to  say  whether  he  will  live  or  die.  Having  pronounced upon  the  case,  they  order  the  sick  man  to  take
 white  maize  called  colli  sara,  red  and  yellow  maize  called
 cuma-sara,  yellow  maize  called  'paro-sara,  sea  shells  called
 mullu  mullu,  of  all  the  colours  they  can  collect,  which  they
@@ -3361,8 +3134,7 @@ call  ymaymana  mullu.  When  these  things  are  collected,  the
 wizard  grinds  the  maize  with  the  shell,  and  gives  it  ground
 to  the  sick  man  that,  breathing  on  it,  he  may  offer  it  to  the
 huacas  and  vilcas ;  with  these  words  : — "  O  all  the  huacas
-and  vilcas  of  the  four  provinces  of  the  land,  my  grand-
-fathers and  ancestors,  receive  this  sacrifice,  wheresoever  you
+and  vilcas  of  the  four  provinces  of  the  land,  my  grandfathers and  ancestors,  receive  this  sacrifice,  wheresoever  you
 may  be,  and  give  me  health."  They  also  make  him  breathe
 on  a  little  coca,  and  offer  it  to  the  Sun,  praying  for  health ;
 and  the  same  to  the  Moon  and  Stars.  Then,  with  a  little
@@ -3397,16 +3169,14 @@ would  soon  disappear,  although,  as  I  have  said,  there  are
 now  few  wizards.
 
 In  this  land  there  are  different  nations  and  provinces,  and
-each  one  had  its  own  rites  and  ceremonies,  before  it  was  con-
-quered by  the  Yncas.  The  Yncas  abolished  some  of  the
+each  one  had  its  own  rites  and  ceremonies,  before  it  was  conquered by  the  Yncas.  The  Yncas  abolished  some  of  the
 rites,  and  introduced  others.  Thus  it  is  no  less  desirable  to
 know  the  rites  and  ceremonies  which  existed  in  each  of  the
 provinces,  other  than  those  of  the  Yncas,  of  which  I  have  here
 written.  The  means  will  be  acquired,  by  this  knowledge,  of
 rooting  out  these  idolatries  and  follies ;  and  mean  while,
 with  the  help  of  our  Lord,  the  visit  I  have  made  through  the
-parishes  and  valley  of  this  city  called  Cuzco,  is  now  con-
-cluded.
+parishes  and  valley  of  this  city  called  Cuzco,  is  now  concluded.
 
 (the  manuscript  here  ends  abruptly.)
 
@@ -3428,8 +3198,7 @@ Jesus  Maria.
 
 I,  Don  Juan  de  Santa  Cruz  Pachacuti-yahqui  Salcamayhua,
 a  Christian  by  the  grace  of  God  our  Lord,  am  native  of  the
-towns  of  Santiago1  of  Hanalucayhua  and  Hurinhuayhua-
-canchi  of  Urco-suyu,2  between  Canas  and  Canches  of  Colla-
+towns  of  Santiago1  of  Hanalucayhua  and  Hurinhuayhuacanchi  of  Urco-suyu,2  between  Canas  and  Canches  of  Colla-
 suyu,3  legitimate  son  of  Don  Diego  Felipe  Coudorcanqui
 and  of  Doiia  Maria  Huayrotari,  legitimate  grandson  of  Don
 Baltasar  Cacyaquivi  and  of  Don  Francisco  Yamquihuanacu
@@ -3458,8 +3227,6 @@ on  either  side  of  the  valley.
 p2
 
 
-68  AN    ACCOUNT    OF    THE
-
 general  language  they  are  called  hapinunu5  achacalla.6
 When  the  first  Apostolic  Priests  entered  this  most  noble
 province  of  Ttahuantin-suyu,  inspired  by  the  holy  zeal  of
@@ -3471,10 +3238,8 @@ Devil  and  all  his  followers  and  his  false  promises,  and  all
 his  rites.  Thus  they  became  Christians,  adopted  sons  of
 Jesus  Christ  our  Lord,  and  enemies  of  all  the  ancient
 customs  and  idolatries.  As  such  they  persecuted  the  wizards,
-destroyed  and  pulled  down  all  the  huacas  and  idols,  de-
-nounced idolaters,  and  punished  those  who  were  their  own
-servants  and  vassals  throughout  all  that  province.  There-
-fore our  Lord  God  preserved  these  my  ancestors ;  and  to
+destroyed  and  pulled  down  all  the  huacas  and  idols,  denounced idolaters,  and  punished  those  who  were  their  own
+servants  and  vassals  throughout  all  that  province.  Therefore our  Lord  God  preserved  these  my  ancestors ;  and  to
 their  grandchildren  and  descendants,  male  and  female,  He
 has  given  his  holy  benediction.  Finally  I  am,  through  the
 merCy  of  his  divine  majesty,  and  by  his  divine  grace,  a
@@ -3483,10 +3248,8 @@ All  my  paternal  and  maternal  ancestors  were  baptized  by
 the  mercy  of  God,  and  freed  from  the  servitude  of  the
 infernal  yoke  under  which  they  were  enthralled  in  the
 times  of  idolatry,  with  great  risk  and  peril,  on  whose  souls
-may  our  Lord  have  pity ;  and  pardon  all  the  offences  com-
-mitted in  times  past  by  those  souls  who  were  made  in  His
-image  and  likeness.  I  myself,  as  the  grandchild  and  legiti-
-mate descendant  of  these  ancestors,  have,  ever  since  I  have
+may  our  Lord  have  pity ;  and  pardon  all  the  offences  committed in  times  past  by  those  souls  who  were  made  in  His
+image  and  likeness.  I  myself,  as  the  grandchild  and  legitimate descendant  of  these  ancestors,  have,  ever  since  I  have
 reached  manhood,  continued  firm  and  established  in  the
 mystery  of  our  holy  Catholic  faith,  exhorting  my  family  to
 be  good  Christians,  keeping  the  ten  commandments  of  the
@@ -3501,14 +3264,12 @@ Mother  Church  believes  what  I,  Don  Juan  de  Santa  Cruz,
 ANTIQUITIES    OP    PERU.  69
 
 believe,  and  in  her  I  desire  to  live  and  die  in  the  fear  of
-God  three  and  one,  who  lives  and  reigns  for  ever  with-
-out end,  as  I  declare.  I  believe  in  God  three  and  one,  who
+God  three  and  one,  who  lives  and  reigns  for  ever  without end,  as  I  declare.  I  believe  in  God  three  and  one,  who
 is  the  powerful  God  that  created  heaven  and  earth  and  all
 things  that  are  therein,  the  sun,  the  moon,  the  stars,  the
 day  star,  thunder  and  lightning,  and  all  the  elements.  I
 also  believe  that  he  created  Adam,  the  first  man,  in  his
-image  and  likeness,  progenitor  of  all  mankind,  whose  de-
-scendants we,  the  natives  of  Ttahuantin-suyu,  are,  as  well  as
+image  and  likeness,  progenitor  of  all  mankind,  whose  descendants we,  the  natives  of  Ttahuantin-suyu,  are,  as  well  as
 the  other  nations  throughout  the  whole  world,  as  well
 white  as  black.  I  believe  that,  for  their  sakes,  the  living
 son  of  God,  our  Lord  Jesus  Christ,  by  the  work  of  the
@@ -3528,24 +3289,19 @@ Holy  Spirit  to  his  apostles  and  disciples,  that  they  might
 be  more  powerful  in  the  spiritual  things  of  God.  God  is
 the  true  God  above  all  other  Gods,  the  powerful  God  our
 Creator,  and  he  it  is  who,  by  his  order,  rules  the  heavens
-throughout  all  ages,  as  supreme  Lord  and  Judge  and  merci-
-ful Lord.
+throughout  all  ages,  as  supreme  Lord  and  Judge  and  merciful Lord.
 
 I  affirm  that  I  have  heard,  from  a  child,  the  most  ancient
 traditions  and  histories,  the  fables  and  barbarisms  of  the
-heathen  times,  which  are  as  follows  ;  according  to  the  con-
-stant testimony  of  the  natives  touching  the  events  of  past
+heathen  times,  which  are  as  follows  ;  according  to  the  constant testimony  of  the  natives  touching  the  events  of  past
 times.
 
-
-70  AN    ACCOUNT    OF    THE
 
 They  say  that,  in  the  time  of  Purun' -pacha,  all  the
 nations  of  Ttahuantin-suyu  came  from  beyond  Potosi  in
 four  or  five  armies  arrayed  for  war.  They  settled  in  the
 different  disti'icts  as  they  advanced.  This  period  was  called
-Ccallac-pacha?  or  Tutayac-pacha.9  As  each  company  se-
-lected suitable  places  for  their  homes  and  lands,  they  called
+Ccallac-pacha?  or  Tutayac-pacha.9  As  each  company  selected suitable  places  for  their  homes  and  lands,  they  called
 this  Purunpacharacya'ptin}  This  period  lasted  for  a  vast
 number  of  years.  After  the  country  was  peopled,  there
 was  a  great  want  of  space,  and,  as  the  land  was  insufficient,
@@ -3572,8 +3328,7 @@ kingdoms  of   Ttaliuantin-suyuz  a  bearded  man,  of  middle
 enemy.  Purum  soncco,  hardened  heart.  Purum  allpa,  fallow  land.
 Purum-purum,  uninhabited  wilds.     Purum'pacha,  heathen  times.
 
-6  Ccallani,  to  break  down  a  wall,  to  destroy  by  making  holes.  C'cal-
-larichini,  to  begin.  Ccallariynin-manta,  "  from  the  beginning."
+6  Ccallani,  to  break  down  a  wall,  to  destroy  by  making  holes.  C'callarichini,  to  begin.  Ccallariynin-manta,  "  from  the  beginning."
 "  Ccallac-pacha"  ''beginning  of  time."
 
 9  "  Time  of  night."     Dark  Ages.
@@ -3603,8 +3358,7 @@ was  he  not  the  glorious  apostle  St.  Thomas  ?
 
 They  say  that  this  man  came  to  the  village  of  a  chief
 called  Apo-tampu  (this  Apo-tampu  is  Paccari-tampu6)  very
-tired.  It  was  at  a  time  when  they  were  celebrating  a  mar-
-riage feast.  His  doctrines  were  listened  to  by  the  chief  with
+tired.  It  was  at  a  time  when  they  were  celebrating  a  marriage feast.  His  doctrines  were  listened  to  by  the  chief  with
 friendly  feelings,  but  his  vassals  heard  them  unwillingly.
 From  that  day  the  wanderer  was  a  guest  of  Apo-tampu,  to
 whom  it  is  said  that  he  gave  a  stick  from  his  own  staff,  and
@@ -3620,19 +3374,15 @@ Lord;  and  the  punishments  for  those  who  broke  the  com-
 
 3  A  steward  or  head  servant.     Chamberlain  of  the  Ynca.
 
-4  Huichay  (not  Uicchay)  is  "up."  Huicharini,  "I  ascend."  C<jma-
-yoc,  "  one  who  has  charge  of  anything."
+4  Huichay  (not  Uicchay)  is  "up."  Huicharini,  "I  ascend."  C<jmayoc,  "  one  who  has  charge  of  anything."
 
 5  Cunamni,  "  I  advise  or  preach."
 
 6  The  fabled  cradle  of  the  Ynca  race,  near  Cuzco.
 
 
-72  AN    ACCOUNT    OF    THE
-
 ruandments  were  severe.  This  worthy,  named  Tlionapa,  is  said
-to  have  visited  all  the  provinces  of  the  Colla-suyu,  preach-
-ing to  the  people  without  cessation,  until  one  day  he  entered
+to  have  visited  all  the  provinces  of  the  Colla-suyu,  preaching to  the  people  without  cessation,  until  one  day  he  entered
 the  town  of  Yamqaesupa.  There  he  was  treated  with  great
 insolence  and  contempt,  and  driven  away.  They  say  that  he
 often  slept  in  the  fields,  without  other  covering  than  the
@@ -3643,10 +3393,8 @@ lake,  and  nearly  all  the  Indians  of  that  time  knew  that  it
 was  once  a  village,  and  was  then  a  lake.  They  say  that,  on
 a  very  high  hill  called  Gacha-pucara,8  there  was  an  idol  in
 the  form  of  a  woman,9  and  that  Tonapa  was  inspired  with
-a  great  hatred  against  it,  and  afterwards  burnt  it,  and  de-
-stroyed it  with  the  hill  on  which  it  stood.  They  say  that  to
-this  day  there  are  signs  of  that  awful  miracle,  the  most  fear-
-ful that  was  ever  heard  of  in  the  world.
+a  great  hatred  against  it,  and  afterwards  burnt  it,  and  destroyed it  with  the  hill  on  which  it  stood.  They  say  that  to
+this  day  there  are  signs  of  that  awful  miracle,  the  most  fearful that  was  ever  heard  of  in  the  world.
 
 On  another  occasion  they  say  that  he  began  to  preach
 with  loving  words,  in  a  town  where  they  were  holding  a
@@ -3712,13 +3460,10 @@ by  those  most  ancient  Yncas.
 2  See  Mossi,  p.  207.  3  See  ante,  Molina,  p.  6.
 
 
-74  AN    ACCOUNT    OF    THE
-
 They  say  that  the  staff  which  Tonapa  delivered  into  the
 hands  of  Apu-tampu  was  turned  into  fine  gold  on  the  birth
 of  his  son  named  Manco  Ccapac  Ynca,  who  had  seven
-brothers  and  sisters.  Their  names  were  Ayar-cachi,  Ayar-
-uchu,  Aya-raeca,  etc.  The  said  Apu  Manco  Ccapac,  after
+brothers  and  sisters.  Their  names  were  Ayar-cachi,  Ayaruchu,  Aya-raeca,  etc.  The  said  Apu  Manco  Ccapac,  after
 the  death  of  his  father  and  mother,  named  Apu  Tampu
 Pacha  and  Mama  Aclii,  being  now  an  orphan,  but  grown  to
 man's  estate,  assembled  his  people  to  see  what  power  he
@@ -3761,8 +3506,7 @@ remained  away,  and  both  were  kept  at  the  huaca  of  Sanuc.
 Seeing  that  both  one  and  the  other  did  not  return,  Manco
 Ccapac  went  himself  in  great  wrath,  and  found  them  both
 nearly  dead.  He  asked  them  why  they  stayed  away  so  long,
-and  they  answered  by  complaining  of  a  stone  which  was  be-
-tween the  two.  Then  Apu  Manco  Ccapac  struck  the  stone  or
+and  they  answered  by  complaining  of  a  stone  which  was  between the  two.  Then  Apu  Manco  Ccapac  struck  the  stone  or
 huaca  with  much  fury,  giving  it  blows  with  his  tupac-yauri
 on  the  head.  Then  words  came  from  the  midst  of  the  stone,
 as  if  it  was  alive,  saying,  that  if  he  had  not  got  that  staff,  it
@@ -3775,14 +3519,11 @@ one  person  fastened  on  the  top  of  another.  When  Manco
 Ccapac  saw  his  brother  and  sister  in  such  fearful  danger,  he
 shed  tears  of  natural  grief  and  sorrow,  and  he  went  thence
 to  the  place  where  he  had  first  seen  the  rainbow,  the  names
-of  which  are  cuclii,  and  turumanya  and  yayacarui.  He  be-
-moaned the  loss  of  his  brother  and  sister,  and  exclaimed
-that  he  was  the  most  unfortunate  of  orphans.  But  the  rain-
-bow strengthened  him,  and  removed  all  his  sorrows  and
+of  which  are  cuclii,  and  turumanya  and  yayacarui.  He  bemoaned the  loss  of  his  brother  and  sister,  and  exclaimed
+that  he  was  the  most  unfortunate  of  orphans.  But  the  rainbow strengthened  him,  and  removed  all  his  sorrows  and
 afflictions.6  "  Huaynacaptiy  "  or  "  Huaynaeaptiyllapun
 cliica  chiqui  unachayamoran  Huanacauri."  From  that  time
-the  place  was  called  Huaynacaptiy.  Thence  he  went  to  Collca-
-pampa7  with  the  tupac-yauri  in  his  hand,  and  with  a  sister
+the  place  was  called  Huaynacaptiy.  Thence  he  went  to  Collcapampa7  with  the  tupac-yauri  in  his  hand,  and  with  a  sister
 named  Ypa  mama  huaco,  and  with  another  sister  and  a
 brother.    They  arrived  at  Collcapampa,  where  they  were  for
 
@@ -3792,27 +3533,20 @@ huaynacanim,  and  the  Indians  began  to  treat  it  with  idolatrous
 worship.  T  Or  Collcampata,  above  Cuzco.
 
 
-76  AN    ACCOUNT    OF    THE
-
 some  days.  Thence  they  went  to  lluamantiana,8  where
-they  remained  some  time,  and  thence  they  marched  to  Gori-
-cancha,9  where  they  found  a  place  suitable  for  a  settlement.
+they  remained  some  time,  and  thence  they  marched  to  Goricancha,9  where  they  found  a  place  suitable  for  a  settlement.
 There  was  good  water  from  ITurinchacan  and  Ilananchacan
 (whence  the  names  of  Hurin-Cuzco  and  Hanan-Cuzco),
 which  are  two  springs.  A  rock  was  called  by  the  natives
-(who  are  the  Allcayriesas,  the  Oullinchinas,  and  the  Gayau-
-cachis)  by  the  name  of  Guzco-cara-urumi,  whence  the  place
+(who  are  the  Allcayriesas,  the  Oullinchinas,  and  the  Gayaucachis)  by  the  name  of  Guzco-cara-urumi,  whence  the  place
 came  to  be  called  Cuzco-pampa  and  Cuzco-llacta  ;  and  the
 Yncas  were  afterwards  called  Cuzco-Ccapac  and  Cuzco-
 Ynca.  This  Ynca  Apu  Manco  Ccapac  married  one  of  his
-own  sisters  named  Mama  Ocllo,  and  this  marriage  was  cele-
-brated that  they  might  have  no  equal,  and  that  they  might
+own  sisters  named  Mama  Ocllo,  and  this  marriage  was  celebrated that  they  might  have  no  equal,  and  that  they  might
 not  lose  the  caste.  Then  they  began  to  enact  good  laws  for
 the  government  of  their  people,  conquering  many  provinces
-and  nations  of  those  that  were  disobedient.  The  Ttahuantin-
-suijus1  came  with  a  good  grace  and  with  rich  presents.  The
-tidings  of  a  new  Ynca  had  spread  widely.  Some  were  joy-
-ful, others  were  afflicted  ;  when  they  heard  that  the  Ynca
+and  nations  of  those  that  were  disobedient.  The  Ttahuantinsuijus1  came  with  a  good  grace  and  with  rich  presents.  The
+tidings  of  a  new  Ynca  had  spread  widely.  Some  were  joyful, others  were  afflicted  ;  when  they  heard  that  the  Ynca
 was  the  most  powerful  chief,  the  most  valiant,  and  the  most
 fortunate  in  arms,  that  his  captains  and  men  of  valour  were
 better  armed  than  other  men  ;  and  that  all  his  affairs  were
@@ -3848,26 +3582,19 @@ heaven  and  earth;  and
 ANTIQUITIES    OF    PERU.
 
 
-77
-
-
 with  all  his  idols.    He  also  conquered  Tocay  Ccapac,  a  great
 idolater.
 
 Afterwards  he  ordered  works  to  be  executed  at  the  place
-of  his  birth  ;  consisting  of  a  masonry  wall  with  three  win-
-dows, which  were  emblems  of  the  house  of  his  fathers
-whence  he  descended.  The  first  window  was  called  Tampu-
-toco,4'  the  second  Maras5-toco,  and  the  third  SuticG-toco  :  re-
-ferring to  his  uncles  and  paternal  and  maternal  grand-
-parents.
+of  his  birth  ;  consisting  of  a  masonry  wall  with  three  windows, which  were  emblems  of  the  house  of  his  fathers
+whence  he  descended.  The  first  window  was  called  Tamputoco,4'  the  second  Maras5-toco,  and  the  third  SuticG-toco  :  re-
+ferring to  his  uncles  and  paternal  and  maternal  grandparents.
 
 
 These  two  trees  typified  his  father  and  mother  Apu-tampu
 and  Apachamama-acld,  and  he  ordered  that  they  should  be
 adorned  with  roots  of  gold  and  silver,  and  with  golden  fruit.
-Hence  they  were  called  Ocurichachac  collquechacliac  tampu-
-yracan,  which  means  that  the  two  trees  typified  the  parents,
+Hence  they  were  called  Ocurichachac  collquechacliac  tampuyracan,  which  means  that  the  two  trees  typified  the  parents,
 and  that  the  Yncas  proceeded  from  them,  like  fruit  from
 the  trees,  and  that  the  two  trees  were  as  the  roots  and  stems
 of  the  Yncas.  All  these  things  were  executed  to  record
@@ -3890,17 +3617,13 @@ came,  and,  as  the  Indians  generally  were  very  dull  and  stupid,
 5  Maras,  "mill-stone."
 
 
-78  AN    ACCOUNT    OF    THE
-
 some  chose,  for  their  ptacarisca7  or  pacarimusca,  a  lake,  others
 a  spring,  others  a  rock,  others  the  hills  or  ravines;  but  every
 lineage  selected  some  object  for  its  pacarisca.  The  devils,
-or  hapi-iiunus,  deceived  those  stupid  people  with  little  diffi-
-culty, entering  into  the  false  pacariscas,  and  thence  uttering
+or  hapi-iiunus,  deceived  those  stupid  people  with  little  difficulty, entering  into  the  false  pacariscas,  and  thence  uttering
 deceitful  promises.  Every  day  these  pacariscas  continued
 to  increase,  the  origin  or  pacarinitn  being  the  Pacari-tampu-
-All  the  provinces  and  tribes  said  Pacariscanchic  huccsiscan-
-chic  umachun  chicpa-pacariscan.
+All  the  provinces  and  tribes  said  Pacariscanchic  huccsiscanchic  umachun  chicpa-pacariscan.
 
 The  leading  cause  of  the  invention  of  the  pacarinim,  was,
 that  the  Ynca  Manco  Ccapac  was  often  at  a  loss  to  know  to
@@ -3912,13 +3635,11 @@ might  also  be  disobedient.
 
 His  legitimate  son  was  SinchiEuca  Ynca,  and  he  inherited
 all  the  dominions  of  his  father.  The  other  younger  sons,
-whether  legitimate  or  illegitimate,  were  called  Chima-
-panaca-ayllu.
+whether  legitimate  or  illegitimate,  were  called  Chimapanaca-ayllu.
 
 Sinchi  Ruca  Ynca  began  to  rule  over  all  the  territory  of
 his  father,  and  was  a  great  patron  of  agriculture,  of  weaving
-cloth,  and  of  mining.  He  was  not  much  addicted  to  war-
-like affairs,  for,  being  a  very  proud  man,  and  of  haughty
+cloth,  and  of  mining.  He  was  not  much  addicted  to  warlike affairs,  for,  being  a  very  proud  man,  and  of  haughty
 disposition,  he  seldom  went  abroad.  All  the  provinces  from
 Chacamarca  aud  Angaraes  sent  him  presents.  When  he
 desired  to  make  conquests  he  sent  his  captains  and  their
@@ -3929,32 +3650,26 @@ told  him  that  the  heaps  must  be  called  apachitas.  A  rite
 was  established,  which  was  that  every  passer  by  should  bring
 a  great  stone ;  and  the   wizard  also  told  the  officer  of  the
 
-7  Paccari,  "  morning,  dawn."  Paccarisca,  "  birth,  origin."  Pacca-
-rimuni,  "  1  arn  born."     Paccarimusca,  "being  born."
+7  Paccari,  "  morning,  dawn."  Paccarisca,  "  birth,  origin."  Paccarimuni,  "  1  arn  born."     Paccarimusca,  "being  born."
 
 
 ANTIQUITIES    OF    PERU.  79
 
 Ynca  that  all  the  soldiers  must  throw  their  coca  pallets  on
-the  heap  as  they  passed,  saying  : — Saycoyniycayjntac  qui-
-pasiyon  coyniypashinatac.  From  that  time  they  began  to
+the  heap  as  they  passed,  saying  : — Saycoyniycayjntac  quipasiyon  coyniypashinatac.  From  that  time  they  began  to
 bring  stones  and  to  throw  coca,  because  the  wizard  had  so
 ordered  it.8
 
 They  say  that  when  the  Ynca  Manco  Ccapac  was  very
-old,  he  went  down  on  his  knees,  and  prayed  for  the  pros-
-perity of  his  son  in  these  words  : —
+old,  he  went  down  on  his  knees,  and  prayed  for  the  prosperity of  his  son  in  these  words  : —
 
 A  Uiracochantic  gicapac  caycaricachun  cay  raimicachun  neca  apa
 hinamtima  chiccha  camac  may  pin  canqui  manachurycayquiman
-hanamptichun  hurimpichun  quinraynimpickun  capac  usnoyqui  hay-
-nillalay,  hanan  cochaman  tarayac  hurincocha,  tiyancay,  camacpa-
-cha  runarallpac,  apoyunay,  quicuna  camman  all'canancyran  riaiy-
-tam  munayqui  ricaptiy  yachaptiy  unanchaptiy  hamuttaptiy  ricunan-
+hanamptichun  hurimpichun  quinraynimpickun  capac  usnoyqui  haynillalay,  hanan  cochaman  tarayac  hurincocha,  tiyancay,  camacpa-
+cha  runarallpac,  apoyunay,  quicuna  camman  all'canancyran  riaiytam  munayqui  ricaptiy  yachaptiy  unanchaptiy  hamuttaptiy  ricunan-
 quim  yackaranquira,  yntic  quillaca  punchaoca,  tutaca,  pocoyca,
 chiraoca,  manamyancacho,  camachiscan  pterin  unanchascaman  ticjms
-camanmi  chayan,  maycanmi,  ttopayaricta  apachinarcanqui  hay-
-nillaray  uyarillaray  manaracpas,  saycaptiy  ranuptiy.
+camanmi  chayan,  maycanmi,  ttopayaricta  apachinarcanqui  haynillaray  uyarillaray  manaracpas,  saycaptiy  ranuptiy.
 
 After  this  he  always  remembered  Tonapa,  saying  :  —
 
@@ -3978,8 +3693,6 @@ no  answer  was  ever  given  in  Coricancha.
 8  The  practice  is  continued  to  this  day.
 
 
-80  AN    ACCOUNT    OF    THE
-
 Afterwards,  in  the  visit  of  Itarijpanaca  to  the  people,  he
 admitted  a  great  number  of  youths  aged  from  seventeen  to
 eighteen,  among  the  number  of  men  and  soldiers,  giving
@@ -3990,8 +3703,7 @@ ostrich  (surlj,  a  vicuna,  an  anatuya  (fox),  a  serpent,  a  toad.
 It  was  announced  that  these  birds  and  animals  had  been
 placed  there  that  these  boys  and  youths  might  run  to  them
 and  show  the  qualities  of  their  swiftness  or  sluggishness.
-The  swift  received  as  rewards  the  liuarachicuy  and  ccaman-
-tiras  (ccamantira  are  the  small  bright  feathers  that  birds
+The  swift  received  as  rewards  the  liuarachicuy  and  ccamantiras  (ccamantira  are  the  small  bright  feathers  that  birds
 have  under  the  beak),  and  the  sluggish  were  given  black
 breeches.  After  the  breeches  and  other  clothes  had  been
 distributed,  the  youths  were  made  to  sit  down  with  the  men,
@@ -4006,8 +3718,7 @@ comb  and  plait  their  hair.  This  is  called  quicuchicuy  (when
 they  plait  the  hair  to  come  forth  from  among  young  girls) .
 Then  he  ordered  them  to  be  shod  with  llanquisi,  which  are
 a  kind  of  shoes.  All  this  was  done  in  order  that  henceforth
-they  might  be  known  as  women  or  tasqui  Jiuarmi.  After-
-wards all  the  young  men  of  thirty  years  were  ordered  to
+they  might  be  known  as  women  or  tasqui  Jiuarmi.  Afterwards all  the  young  men  of  thirty  years  were  ordered  to
 take  wives,  arms  being  given  to  the  men,  cooking  and
 spinning  gear  to  the  women.  This  was  called  Jiuarmi
 hapiypacha  carichasquiy  pacha.  Then  certain  men  of  holy
@@ -4031,11 +3742,9 @@ to  his  son  Sinchi  Rocca  Ynca,  who  was  a  very  proud  man.
 In  his  time  it  fell  out  that  there  were  youths  and  maidens
 who  loved  each  other  excessively,  and,  in  answer  to  questions
 put  to  them  by  the  Ynca,  they  publicly  confessed  that  they
-conld  not  live  apart.  It  was  found  that  these  lovers  had  cer-
-tain small  stones,  perfectly  round,  and  they  said  that  these
+conld  not  live  apart.  It  was  found  that  these  lovers  had  certain small  stones,  perfectly  round,  and  they  said  that  these
 stones  were  called  soncoapa  chinacoc  huacca  chinacoc.  They
-say  that  a  poor  boy  in  rags,  a  shepherd  (llama-micliec) ,  en-
-tered the  house  of  the  Ynca  Sinchi  Rocca,  and  that  a  virgin
+say  that  a  poor  boy  in  rags,  a  shepherd  (llama-micliec) ,  entered the  house  of  the  Ynca  Sinchi  Rocca,  and  that  a  virgin
 who  was  very  dear  to  the  Ynca  went  away  with  that  boy.  A
 search  was  made  until  they  were  found,  and  orders  were
 given  that  they  should  be  tortured.  The  girl  confessed  that
@@ -4061,8 +3770,6 @@ sensuality,  and  he  ordered  search  to  be  made  for  chutarpu
 G
 
 
-82  AN    ACCOUNT    OF    THE
-
 and  huanarpUj*  to  make  fornication  a  custom,  and  thus
 there  were  so  many  huacanquis  that  the  Indians  gave  them
 as  presents.
@@ -4081,11 +3788,9 @@ in  his  dominions  should  flatten  the  heads  of  their  children,
 so  that  they  might  be  long  and  sloping  from  the  front;  and
 this  was  done  to  make  them  obedient.  He  also  commanded
 houses  to  be  made  for  the  virgins,  and  these  houses  were
-divided  into  four  classes  : — yurac-aclla,  liuayrii-aclla,  'pacn-
-aclla,  and  yana-aclla.4"  The  first  for  the  Creator,  called
+divided  into  four  classes  : — yurac-aclla,  liuayrii-aclla,  'pacnaclla,  and  yana-aclla.4"  The  first  for  the  Creator,  called
 Uiracocha-pacha-yachachi ;  the  huayru-aclla  for  the  virgins
-of  the  Ynca,  the  jpacu-aclla  for  the  women  of  the  Apu-cura-
-cas,5  and  the  yana-aclla  for  the  common  people.  Many
+of  the  Ynca,  the  jpacu-aclla  for  the  women  of  the  Apu-curacas,5  and  the  yana-aclla  for  the  common  people.  Many
 youths  Avere  also  reared  who  were  not  to  know  women,  who
 afterwards  became  soldiers.
 
@@ -4122,8 +3827,7 @@ a  great  festival ;  but  he  caused  trouble  to  the  worshippers
 of  these  huacas  by  setting  them  on  fire.  They  say  that
 many  escaped  in  the  form  of  fire  and  wind,  and  as  birds.
 There  were  Aysso-uilca,  Chinchay-cocha,  and  the  huaca  of  the
-Uafiaris,  and  Uilcanota,  Putina,  Goropuna,  Antapuca,  Cho-
-quiracra,  and  ChuquipilluJ
+Uafiaris,  and  Uilcanota,  Putina,  Goropuna,  Antapuca,  Choquiracra,  and  ChuquipilluJ
 
 They  say  that  this  Ynca  was  a  great  enemy  of  the  idols,
 and  as  such  he  ordered  his  people  to  pay  no  honours  to  the
@@ -4139,8 +3843,7 @@ evil  livers,  thieves,  murderers,  drunkards.  He  commanded
 that  there  should  be  no  unjust  wars,  and  that  all  men  should
 be  employed  in  tilling  the  ground  and  building.  He  caused
 landmarks  to  be  set  up  in  every  village,  and  those  who
-moved  them  were  punished.  In  his  reign  there  was  uni-
-versal peace.
+moved  them  were  punished.  In  his  reign  there  was  universal peace.
 
 tac  Ccapac,  "  O  Lord,  where  art  Thou?"  and  he  repeated  this  thought
 by  reason  of  his  longing  to  know  his  Creator.
@@ -4154,8 +3857,6 @@ by  reason  of  his  longing  to  know  his  Creator.
 G  2
 
 
-84  AN    ACCOUNT    OF    THE
-
 •  They  say  that,  in  appearance,  this  Ynca  was  more  noble
 than  the  others.  He  caused  the  plate  to  be  renewed,  which
 his  great-grandfather  had  put  up,  fixing  it  afresh  in  the
@@ -4168,8 +3869,7 @@ feast  of  Ccapac  Raymi.  But  he  only  held  this  feast  in  honour
 of  the  Lord  and  Creator,  despising  all  the  created  things,
 even  the  highest,  such  as  men,  and  the  sun  and  moon.
 Here  I  will  show  how  they  were  depicted  until  the  arrival  of
-the  holy  gospel,  except  that  then  the  plate  was  missing,  be-
-cause Huascar  Ynca  had  removed  it,  and  had  substituted
+the  holy  gospel,  except  that  then  the  plate  was  missing,  because Huascar  Ynca  had  removed  it,  and  had  substituted
 another  round  plate,  like  the  sun  with  rays.  Nevertheless,
 some  say  that  they  were  placed  on  each  side  of  the  plate  of
 Mayta  Ccapac.
@@ -4184,8 +3884,7 @@ Sun.
 
 
 Plate  of  fine  gold  ;  image  of  the  Creator  anil  of  the
-true  Sun  of  the  sun,  called  Uii acocha-pachaya-
-chachic.
+true  Sun  of  the  sun,  called  Uii acocha-pachayachachic.
 
 
 They  say  that  a  Spaniard  gambled  for  this  plate  of  gold
@@ -4228,8 +3927,7 @@ a  whole  month.  The  Ynca  said  many  times,  in  the  evenings
 after  the  days  of  festivity,  that  the  feast  will  soon  be  over,
 and  then  comes  death,  as  the  night  follows  the  day,  and  as
 sleep  is  the  image  of  death.  The  festival,  he  would  say,  is
-the  type  of  the  true  festival,  and  fortunate  are  those  reason-
-ing creatures  who  shall  attain  to  the  true  feast  of  eternity,
+the  type  of  the  true  festival,  and  fortunate  are  those  reasoning creatures  who  shall  attain  to  the  true  feast  of  eternity,
 and  know  the  name  of  the  Creator  ;  for  men  do  not  die  like
 beasts.  In  consequence  of  these  reflections  he  kept  a  fast
 in  Toco-cachif  with  great  mourning,  only  eating  one  row  of
@@ -4263,8 +3961,6 @@ when  he  was  a  child,  his  father  said,  "  Ccapacta  tacmi  yupanqui" ',
 for  Uuahuanina.  6  Guinea  pigs.
 
 
-86  AN    ACCOUNT    OF    THE
-
 Andes  called  Capacuyo.  When  the  young  Ynca  entered
 among  these  idolaters,  he  asked  why  they  closed  the  doors
 and  windows  so  as  to  leave  them  in  the  dark,  and  they  all
@@ -4290,12 +3986,10 @@ Mayta  Ccapac  Ynca  has  told  me."  The  figure  of  this  devil
 was  ugly,  with  a  foul  smell,  and  coarse  matted  hair.  It  fled
 out  of  the  house,  raising  shouts  like  thunder;  and  they  say
 that  from  that  time  all  the  huacas  feared  the  Yncas ;  and
-the  Yncas  also  used  the  yacarcay,  in  the  name  of  the  Crea-
-tor, as  follows  : —
+the  Yncas  also  used  the  yacarcay,  in  the  name  of  the  Creator, as  follows  : —
 
 Hurinapachap  hicrinpachap,  cochamantarayoepa  camaquimpa
-tocuya  pacopa  sinchihauiyocpa  manchaysimiyocpa  caycasicachun  cay-
-huarmicachun  nispacamacpa  sutinrammica  machiyqui  pincanqui  may-
+tocuya  pacopa  sinchihauiyocpa  manchaysimiyocpa  caycasicachun  cayhuarmicachun  nispacamacpa  sutinrammica  machiyqui  pincanqui  may-
 canmicanqui  y  mactamninqui  rimayni.
 
 With  these  words  the  Yncas  made  all  the  huacas  tremble;
@@ -4306,8 +4000,7 @@ would  they  have  believed  in  God  !    They  say  that  this  Ynca
 
 ANTIQUITIES    OP    PERU.  87
 
-Ccapac  Yupanqui  had  a  son,  by  his  wife  Mama  Corillpay-
-cahua,  named  Ynca  Ruca,  at  whose  birth  there  was  much
+Ccapac  Yupanqui  had  a  son,  by  his  wife  Mama  Corillpaycahua,  named  Ynca  Ruca,  at  whose  birth  there  was  much
 festivity.  But  the  Ynca  did  not  entirely  separate  himself
 from  idolaters,  as  he  allowed  the  huacas  of  each  village  to
 be  worshipped.  It  is  said  that  the  Ynca  sent  men  to  search
@@ -4330,14 +4023,12 @@ name  was  Tonapa  Vihinquira.  They  said  that  he  had
 banished  all  the  idols  and  hapi-nunu  demons  to  the  snowy
 mountains.  All  the  Curacas  and  chroniclers  also  said  that
 this  Tonapa  had  banished  all  the  huacas  and  idols  to  the
-mountains  of  Asancata,  Quiyancatay,  Sallcatay,  and  Api-
-tosiray.  When  all  the  Curacas  of  the  provinces  of  Ttahuantin-
+mountains  of  Asancata,  Quiyancatay,  Sallcatay,  and  Apitosiray.  When  all  the  Curacas  of  the  provinces  of  Ttahuantin-
 suyu  were  assembled  in  the  Huacay-pata,  each  in  his  place,
 those  of  the  Huancas  said  that  this  Tonapa  Varivillca  had
 also  been  in  their  land,  and  that  he  had  made  a  house  to
 live  in,  and  had  banished  all  the  huacas  and  hapi-nunus  in
-the  province  of  Hatun  Sausa  Huanca  to  the  snowy  moun-
-tains in  Pariacaca  and  Vallollo.  Before  their  banishment
+the  province  of  Hatun  Sausa  Huanca  to  the  snowy  mountains in  Pariacaca  and  Vallollo.  Before  their  banishment
 these  idols  had  done  much  harm  to  the  people,  menacing
 the  Curacas   to  make  them  offer  human  sacrifices.      The
 
@@ -4389,20 +4080,16 @@ They  say  that  the  eldest  son  of  this  Ynca  Ruca  was  named
 
 ANTIQUITIES    OF    PERU.  89
 
-Yahuar-huaccac1  Ynca  Yupanqui.  His  mother  was  Mamicay-
-chimpu ;  and  at  his  birth  there  was  a  grand  feast.  The
+Yahuar-huaccac1  Ynca  Yupanqui.  His  mother  was  Mamicaychimpu ;  and  at  his  birth  there  was  a  grand  feast.  The
 square  and  all  the  streets  were  filled  with  arches  of  feathers,
 and  the  house  of  Curicancha  was  entirely  covered  with  rich
 plumes,  both  within  and  without.  They  played  on  eight
-drums,  and  sang  the  ayma,  torca,  cayo,  and  huallma  cha-
-mayuricssa,  and  haylli,  and  cachra,  giving  thanks  to  the
+drums,  and  sang  the  ayma,  torca,  cayo,  and  huallma  chamayuricssa,  and  haylli,  and  cachra,  giving  thanks  to  the
 Creator,  and  saying  . —
 
-Hananhamuyrac  chiccka  harinchiccha  apu  hinantima  lluttactic-
-cicapac  runahuallpac  llaychunca  muchay  cuscayqui  allcaaaTdy  huan
+Hananhamuyrac  chiccka  harinchiccha  apu  hinantima  lluttacticcicapac  runahuallpac  llaychunca  muchay  cuscayqui  allcaaaTdy  huan
 chipiadspa  Kidlpaycuscayqui  riacllahuay  mayucuna  pachactmaripis
-cucunari  callap>allatichinay  hanantarac  cahariusinay  llapan  concay-
-qui  raurac  manayllay  quihuanpas  ynya  y  cuspalla  rochocallasun
+cucunari  callap>allatichinay  hanantarac  cahariusinay  llapan  concayqui  raurac  manayllay  quihuanpas  ynya  y  cuspalla  rochocallasun
 cusicullastm  ancha  hinalla  taclica  nispaiiicusun.
 
 While  they  were  all  singing  in  the  Huacay-pata,  they  say
@@ -4413,10 +4100,8 @@ one  who  could  interpret  the  meaning  of  this  incident.  In
 those  days  the  hualla-huisas,  cunti-huisas,  cana-huisas  were
 great  sorcerers ;  and  there  assembled  such  a  vast  number
 of  canchus,  carcast,  amus,  uscatus,  huisas,  that  there  was  not
-room  for  them  all  in  Cuzco.  The  Ynca  did  not  like  to  con-
-fide his  secrets  to  so  many,  lest  the  people  should  lose  their
-veneration  for  him,  so  he  reprehended  them  publicly,  say-
-ing that  there  were  many  wise  men  but  little  wisdom,  and
+room  for  them  all  in  Cuzco.  The  Ynca  did  not  like  to  confide his  secrets  to  so  many,  lest  the  people  should  lose  their
+veneration  for  him,  so  he  reprehended  them  publicly,  saying that  there  were  many  wise  men  but  little  wisdom,  and
 he  dismissed  them  ;  but  these  enchanters,  necromancers,
 wizards,  and  witches  returned  with  more  liberty  than  they
 had  had  before,  and  their  idolatrous  practices  increased.
@@ -4428,8 +4113,6 @@ he  was  obliged  to  draw  tribute  from  the  provinces,  for  the
 expenses  of  his  house.  At  last  the  people  rose  in  rebellion,
 1  See  (J.  de  la  Vega,  i,  pp.  .'327,  317  ;  ii,  <i2.
 
-
-90  AN    ACCOUNT    OF    THE
 
 and,  seeing  this,  the  Ynca  dissimulated,  so  that  the  people
 became  quiet  and  brought  him  all  kinds  of  presents.  They
@@ -4444,8 +4127,7 @@ soldiers.
 
 This  Ynca's  eldest  son  was  named  Uira-ccocha  Ynca
 Yupanqui,  whose  mother  was  Mama  Chuqui  -  checya,  a
-native  of  Ayamarca,  and  great-great-grand-daughter  of  To-
-cay  Ccapac.  In  the  festival  of  his  birth  they  represented
+native  of  Ayamarca,  and  great-great-grand-daughter  of  Tocay  Ccapac.  In  the  festival  of  his  birth  they  represented
 plays  called  anay  saoca,  hayachuco,  llama-llama  hanamsi.
 The  Ynca  marched  round  Cuzco  with  his  army,  without
 making  war  upon  any  enemy.  On  his  death  he  left  the
@@ -4459,12 +4141,10 @@ servants,  and  with  his  idol  or  huaca  richly  adorned  ;  and  he
 often  disputed  with  the  Ynca,  saying  : —
 
 Cam  Cuzco-Ccapac  mica  Colla-Ccapac  hupyasumicusu  rimasu
-amapirima  nuca  collque  tit/a  cam  chuqui  tiya.  Cam  Uiracochanpa-
-chayachi  muclui.     Nuca  Ynti-mvcha.2
+amapirima  nuca  collque  tit/a  cam  chuqui  tiya.  Cam  Uiracochanpachayachi  muclui.     Nuca  Ynti-mvcha.2
 
 At  last  the  Ynca,  being  affable  and  friendly,  assented ;
-for  he  is  said  to  have  been  too  gentle.  His  chief  employ-
-ment was  the  building  of  houses,  and  of  the  fortress  on  the
+for  he  is  said  to  have  been  too  gentle.  His  chief  employment was  the  building  of  houses,  and  of  the  fortress  on  the
 Sacsahuaman,  and  to  cultivate  and  plant  quiscuar  and  molli
 trees  ;  but  he  neglected  all  warlike  pursuits.     He  had  a  na-
 
@@ -4475,8 +4155,7 @@ Pachayachachi.     I  worship  the  Sun.
 
 ANTIQUITIES    OP    PERU.  01
 
-tural  son  named  Ynca  Urcu,  to  whom  he  renounced  the  king-
-dom during  his  life  time.  This  Ynca  Urcu  undertook  the  con-
+tural  son  named  Ynca  Urcu,  to  whom  he  renounced  the  kingdom during  his  life  time.  This  Ynca  Urcu  undertook  the  con-
 quest of  Colla-suyu  with  a  great  army.  Before  setting  out
 he  sent  a  haughty  demand  for  tribute,  but  all  the  tribes,
 which  had  not  acknowledged  him  as  their  lord,  refused
@@ -4499,10 +4178,8 @@ he  arrived  at  Callachaca,  as  he  travelled  along  the  road
 alone,  he  saw  a  very  fair  and  beautiful  youth  on  the  top  of  a
 rock,  who  said  :  "  0  son,  I  promise,  in  the  name  of  the
 Creator,  on  whom  you  have  called  in  your  troubles,  that  he
-has  heard  you,  and  will  give  you  the  victory  over  your  ene-
-mies. Fight  then  without  fear."  He  then  disappeared,
-and  the  prince  felt  at  once  emboldened  and  capable  of  com-
-mand. On  reaching  his  palace,  he  cried  out,  saying  : —
+has  heard  you,  and  will  give  you  the  victory  over  your  enemies. Fight  then  without  fear."  He  then  disappeared,
+and  the  prince  felt  at  once  emboldened  and  capable  of  command. On  reaching  his  palace,  he  cried  out,  saying  : —
 "Cuzco  Ccapac  pac  churacllay  yana pahuay  may  pimcanqui."
 Then  he  entered  the  house  of  arms,  and  took  out  all  the
 offensive  and  defensive  weapons.  At  that  juncture  twenty
@@ -4560,32 +4237,24 @@ out  the  trunk  of  a  tree,  and  buried  the  body  in  the  tree,
 and  the  fruit  of  that  tree  yields  a  medicine  called  villca,
 which  is  good  for  all  heated  and  feverish  humours.6
 
-The  Tnca  Yupanqui  followed  the  enemy  as  far  as  Anda-
-huayllas  ;  and,  on  his  return  to  Cuzco,  he  undertook  the
+The  Tnca  Yupanqui  followed  the  enemy  as  far  as  Andahuayllas  ;  and,  on  his  return  to  Cuzco,  he  undertook  the
 conquest  of  Colla-suyu  ;  and  other  provinces  submitted
-peaceably.  Among  them  was  that  of  the  famous  chief  Yam-
-qui-Pachacuti,  whom  the  prince  thanked  for  the  death  of
+peaceably.  Among  them  was  that  of  the  famous  chief  Yamqui-Pachacuti,  whom  the  prince  thanked  for  the  death  of
 Ynca  Urcu,  his  brother.  And  the  prince  took  his  name  and
-added  it  to  his  own,  which  became  Pachacuti  Ynca  Yupan-
-qui. He  conquered  all  the  land  of  the  Colla-suyu,  and  invaded
-the  provinces  of  the  Chayas  and  Caravayas,  where  he  de-
-stroyed a  famous  idol.  He  subdued  the  Chayas  and  Olla-
+added  it  to  his  own,  which  became  Pachacuti  Ynca  Yupanqui. He  conquered  all  the  land  of  the  Colla-suyu,  and  invaded
+the  provinces  of  the  Chayas  and  Caravayas,  where  he  destroyed a  famous  idol.  He  subdued  the  Chayas  and  Olla-
 cheas,  and,  leaving  a  garrison  in  Ayapata,7  he  returned  to
 Cuzco.  He  next  marched  to  the  country  of  the  Chancas
 with  fifty  thousand  men ;  and  at  Vilcas-huaman  he  found
 seven  huacas  in  the  form  of  very  great  Curacas,  black,  and
-very  ugly.  They  were  called  Ayssa-vilca,  Pariacaca,  Chin-
-chacocha,  Huallallu  Ohuquiracra ;  and  two  others  of  the
+very  ugly.  They  were  called  Ayssa-vilca,  Pariacaca,  Chinchacocha,  Huallallu  Ohuquiracra ;  and  two  others  of  the
 Canaris.  The  prince  took  them  and  sent  them  to  Cuzco,  to
 work  at  the  Sacsahuaman  fortress,  and  also  afterwards  to
 labour  at  the  look-out  towers  on  the  sea-shore,  at  Chincha
-and  Pachacamac.  Then  Pachacuti  Ynca  Yupanqui  con-
-quered the  pi'ovinces  of  the  Angaraes,  Chilqui-urpus,  Ru-
+and  Pachacamac.  Then  Pachacuti  Ynca  Yupanqui  conquered the  pi'ovinces  of  the  Angaraes,  Chilqui-urpus,  Ru-
 canas,  and  Soras.  He  received  news  that  the  Huancas  were
-preparing  for  war  at  Taya-cassa ;  so  he  encamped  at  Pau-
-caray  and  Bumi-huasi,  where  he  formed  three  armies,  which
-were  to  invade  the  valley  of  Hatun-Huanca-Sausa  simulta-
-neously.     They  advanced  from  Paucaray,  but  the  enemy
+preparing  for  war  at  Taya-cassa ;  so  he  encamped  at  Paucaray  and  Bumi-huasi,  where  he  formed  three  armies,  which
+were  to  invade  the  valley  of  Hatun-Huanca-Sausa  simultaneously.     They  advanced  from  Paucaray,  but  the  enemy
 
 6  Huillca,  a  tree,  the  fruit  of  which,  like  the  lupin,  is  a  purgative. —
 Mossi,  p.  127.
@@ -4594,18 +4263,13 @@ Mossi,  p.  127.
 Caravaya.
 
 
-94  AN   ACCOUNT    OF    THE
-
 submitted,  and  brought  in  provisions,  and  presents  of
 maidens.  The  Ynca  was  pleased  at  the  peaceful  submission
 of  these  people,  and  he  promised  to  confirm  their  three
-Curacas  in  their  lordships,  conferring  upon  them  the  addi-
-tional title  of  Apu ;  and  he  ordered  one  of  them  to  be  given
-shoes  of  gold.  He  then  entered  the  valley  of  Sausa  in  pur-
-suit of  his  enemy  Anco-allo,  passing  by  Tarma,  Colla-pampa,
+Curacas  in  their  lordships,  conferring  upon  them  the  additional title  of  Apu ;  and  he  ordered  one  of  them  to  be  given
+shoes  of  gold.  He  then  entered  the  valley  of  Sausa  in  pursuit of  his  enemy  Anco-allo,  passing  by  Tarma,  Colla-pampa,
 Huanucu,  and  Huamalies,  and  Cassamarca,  until  he  reached
-a  province  where  the  people  feasted  on  their  dead.  He  con-
-tinued to  advance  until  he  came  to  the  province  of  the
+a  province  where  the  people  feasted  on  their  dead.  He  continued to  advance  until  he  came  to  the  province  of  the
 Canaris,  which  was  full  of  sorcerers  and  huacas.  Thence  he
 marched  to  Huancavillca ;  but  the  Anco-allos  entered  the
 forests,  leaving  their  idol  behind  them.8
@@ -4620,8 +4284,7 @@ Curaca  of  Cassamarca,  named  Plsar-Ccapac,  did  the  same.
 The  Ynca  then  marched  along  the  coast  to  Rimac-yuncas,
 where  he  found  many  small  villages,  each  with  its  huaca.
 Here  he  found  Ghuspi-huaca,  and  Vuma-huaca,  and  a  great
-devil  called  Aissa-villca.  He  then  advanced,  by  Pachaca-
-mac,  to  Chincha,  where  he  found  another  huaca  and  devil.
+devil  called  Aissa-villca.  He  then  advanced,  by  Pachacamac,  to  Chincha,  where  he  found  another  huaca  and  devil.
 Returning  to  Pachacamac,  he  rested  there  for  some  days.
 At  that  time  there  was  hail  and  thunder,  which  terrified  the
 Yuncas.  The  Ynca  did  not  demand  tribute  here,  as  he  had
@@ -4647,27 +4310,22 @@ and  he  rested  there  for  some  days.  Here  the  news  arrived
 of  a  miracle  at  Cuzco.  A  yauirca  or  amaru,  a  ferocious
 creature,  half  a  league  long  and  two  brazas  and  a  half  wide,
 with  ears,  eye-teeth,  and  a  beard,  had  come  forth  from  the
-mountain  of  Pachatusan,  and  entered  the  lake  of  Quichui-
-pay.  Then  two  sacacas  (comets)  of  fire  came  out  of  Ausan-
-cata,  and  went  towards  Arequipa;  and  another  went  to-
-wards some  snowy  mountains  near  Huamanca.  They  were
+mountain  of  Pachatusan,  and  entered  the  lake  of  Quichuipay.  Then  two  sacacas  (comets)  of  fire  came  out  of  Ausan-
+cata,  and  went  towards  Arequipa;  and  another  went  towards some  snowy  mountains  near  Huamanca.  They  were
 described  as  animals  with  wings,  ears,  a  tail,  and  four  legs,
 with  many  spikes  on  their  backs  ;  and  from  a  distance  they
 appeared  to  be  made  of  fire.  So  Pachacuti  Ynca  Yupanqui
-set  out  for  Cuzco,  where  he  found  that  his  father,  Uira-
-ccochaYnca  Yupanqui,  was  now  very  old  and  infirm.
+set  out  for  Cuzco,  where  he  found  that  his  father,  UiraccochaYnca  Yupanqui,  was  now  very  old  and  infirm.
 
 Then  were  celebrated  the  festivals  of  his  return,  and  of
 the  Ccapac  Raymi  of  Pachayachachi,  with  great  rejoicing.
-The  Curacas  and  Mitmays  of  Caravaya  brought  a  chuqui-
-chinchay,  which  is  an  animal  of  many  colours,  said  to  have
+The  Curacas  and  Mitmays  of  Caravaya  brought  a  chuquichinchay,  which  is  an  animal  of  many  colours,  said  to  have
 been  chief  of  the  uturuncus.1  This  Ynca  caused  all  the
 deformed  and  idiotic  persons  to  be  employed  in  making
 clothes.  He  was  very  fortunate  in  arms.  When  his  father
 died,  the  mourning  was  vicuna  wool  of  a  white  colour ;  and
 the  soldiers  were  ordered  to  carry  the  body  of  the  old  man,
-with  his  arms  and  insignia,  through  the  city,  singing  a  war-
-song  and  bearing  their  shields  and  clubs,  their  llaca-chuquis,2
+with  his  arms  and  insignia,  through  the  city,  singing  a  warsong  and  bearing  their  shields  and  clubs,  their  llaca-chuquis,2
 chasca-chuquis,  suruc-chuquis.  The  women  came  forth  in
 another  procession,  with  their  hair  shorn,  and  dressed  in
 black,  and  their  faces  blackened,  flogging  themselves  with
@@ -4678,8 +4336,6 @@ black,  and  their  faces  blackened,  flogging  themselves  with
 
 2  Ltaca,  a  plumed  lance  (3fossi).
 
-
-96  AN    ACCOUNT    OF    THE
 
 quichuas  and  coyas,  secsec,  sihaicas.s  They  say  that  these
 women  mourned  for  a  whole  week,  and  sought  for  the  body
@@ -4696,15 +4352,13 @@ in  which  they  keep  llipta),  who  gave  Pachacuti  Ynca  a  blow
 on  the  head  with  the  intention  of  killing  him.  The  man
 was  tortured,  and  confessed  that  he  was  a  Cavifia  of  the
 Quiquijanas,  and  that  he  had  come  to  kill  the  Ynca  at  the
-request  of  the  Capacuyos.  So  the  Ynca  ordered  the  pro-
-vince of  the  Cavifias  to  be  laid  waste;  but  they  said  that  the
+request  of  the  Capacuyos.  So  the  Ynca  ordered  the  province of  the  Cavifias  to  be  laid  waste;  but  they  said  that  the
 fault  was  not  theirs,  but  the  Capacuyos,  whose  Curaca  was
 Apu  Calama  Yanqui,  and  who  numbered  near  20,000  men,
 besides  women  and  children.  They  were  all  put  to  death.
 They  say  that  they  tried  to  murder  the  Ynca,  by  advice  of
 their  liuaca,  Canacuay.4  Then  the  Yuca's  second  son  was
-born,  named  Tupac  Ynca  Yupanqui ;  and  the  Ynca  under-
-took the  conquest  of  the  Antisuyus  with  100,000  men.  But
+born,  named  Tupac  Ynca  Yupanqui ;  and  the  Ynca  undertook the  conquest  of  the  Antisuyus  with  100,000  men.  But
 the  huaca  of  Canacuay  sent  forth  fire,  and  stopped  the
 passage  with  a  fierce  serpent  which  destroyed  many  people.
 The  Ynca  raised  his  eyes  to  heaven  and  prayed  for  help  with
@@ -4727,14 +4381,12 @@ The  Ynca  returned  to  Cuzco,  and  he  was  very  old.  News
 came  that  a  ship  had  been  seen  on  the  sea;  and  after  another
 year  a  youth  entered  the  city  with  a  great  book  which  he
 gave  to  the  old  Ynca  and  then  disappeared.  The  Ynca
-fasted  for  six  months  in  Tococachi  without  ceasing.  After-
-wards the  Ynca  Pachacuti  resigned  the  kingdom  to  his  son
+fasted  for  six  months  in  Tococachi  without  ceasing.  Afterwards the  Ynca  Pachacuti  resigned  the  kingdom  to  his  son
 Amaru  Tupac  Ynca,  who  would  not  accept  it,  but  devoted
 his  time  to  farming  and  building.  Seeing  this,  Pachacuti
 transferred  the  succession  to  his  second  son,  Tupac  Ynca
 Yupanqui,  whom  all  the  tribes  joyfully  acknowledged.  So
-he  was  crowned,  and  the  sceptre  called  Tupac-yauri  was  de-
-livered to  him.  He  ordered  that  the  soldiers  of  all  the
+he  was  crowned,  and  the  sceptre  called  Tupac-yauri  was  delivered to  him.  He  ordered  that  the  soldiers  of  all  the
 tribes  should  assemble  in  Cuzco,  for  he  had  heard  that  there
 was  a  rebellion  in  Quito.  He  marched  to  conquer  the  rebels
 with  twenty  thousand  men ;  and  another  twelve  thousand
@@ -4745,8 +4397,7 @@ and  divided  the  spoils  among  his  soldiers.  He  distributed
 rich  dresses  of  cumpis  and  puracahuas  of  plumes,  shields,
 pura-puras  of  gold  and  silver ;  and  to  the  officers  shirts  of
 gold  and  silver,  and  diadems  called  huacra-chucu.6  Thus
-he  arrived  at  Quito,  always  gaining  the  victory,  and  after-
-wards he  returned  to  Tumipampa,  after  leaving  mitimaes  in
+he  arrived  at  Quito,  always  gaining  the  victory,  and  afterwards he  returned  to  Tumipampa,  after  leaving  mitimaes  in
 Cayambis  ;  but  he  did  not  punish  the  natives  because  they
 made  very  humble  excuses  and  were  pardoned.
 
@@ -4765,12 +4416,9 @@ large  tribe  near  Cassamarca. — See  G.  de  la  Vega,  ii,  p.  322.
 H
 
 
-98  AN    ACCOUNT    OF    THE
-
 his  farms  at  Calla-chaca  and  Lucrioc-clmllo,  that  the  dews
 always  descended  upon  them  at  night,  and  that  frost  never
-visited  them,  insomuch  that  the  people  would  have  wor-
-shipped him  by  reason  of  the  miracle  ;  but  Amaru  Tupac
+visited  them,  insomuch  that  the  people  would  have  worshipped him  by  reason  of  the  miracle  ;  but  Amaru  Tupac
 would  not  consent  to  this  insult  to  the  Creator.  He  rather
 humbled  himself,  feeding  the  poor  during  the  seven  years
 of  famine.  For  his  disposition  was  to  be  humble  and  meek
@@ -4787,20 +4435,16 @@ always  been  a  great  executor  of  justice  upon  llaycas  and
 itmus,  and  a  destroyer  of  huacas,  but  not  for  this  did  they
 cease  to  increase  in  number.
 
-Eventually  the  Ynca  returned  to  Cuzco,  sending  a  cap-
-tain in  advance,  named  Arequi  Ruca,  with  twelve  thousand
+Eventually  the  Ynca  returned  to  Cuzco,  sending  a  captain in  advance,  named  Arequi  Ruca,  with  twelve  thousand
 men,  by  the  coast  road,  that  he  might  visit  the  provinces
 and  punish  all  rebels.  The  Ynca  went  direct  to  Cuzco,
 taking  with  him  Cayambis,  Canaris,  and  Chachapuyas  as
 labourers.  He  also  took  many  girls  of  the  Quitus,  Quilacus,
 Quillasencas,  Chachapuyas,  Yuncas,  Huayllas,  and  Huancas,
-as  chosen  maidens  for  Tied  Ccapac  Uiracoclian  Pachacya-
-chacJii,  called  Yurac-aclla,  Hiiayra-aclla,  Paco-aclla,  and
-Yana-aclla  ;7  and  much  wealth  of  gold  and  silver  and  pre-
-cious stones,  and  plumes  of  feathers.  He  then  ordered
+as  chosen  maidens  for  Tied  Ccapac  Uiracoclian  PachacyachacJii,  called  Yurac-aclla,  Hiiayra-aclla,  Paco-aclla,  and
+Yana-aclla  ;7  and  much  wealth  of  gold  and  silver  and  precious stones,  and  plumes  of  feathers.  He  then  ordered
 that  all  the  provinces  from  Quitu  to  Cuzco  should  make
-farms  and  collects  or  granaries,  roads  and  bridges  and  tam-
-pits  ;8  that  there  should  be   acllas,0  in   all    the  provinces,
+farms  and  collects  or  granaries,  roads  and  bridges  and  tampits  ;8  that  there  should  be   acllas,0  in   all    the  provinces,
 
 7  See  p.  82.  8  Inns.
 
@@ -4816,8 +4460,7 @@ village  should  supply  food  for  the  poor.
 
 When  the  Ynca  approached  Cuzco,  where  Pachacuti
 Ynca  Yupanqui  had  remained  with  thirty  thousand  men  of
-war,  the  old  man  came  out  to  meet  him  as  far  as  Villca-
-cunca,  with  his  chiefs  or  Apu  Curacas,  in  litters ;  and  the
+war,  the  old  man  came  out  to  meet  him  as  far  as  Villcacunca,  with  his  chiefs  or  Apu  Curacas,  in  litters ;  and  the
 two  armies  made  a  most  brilliant  appearance  with  their
 gold  and  silver  and  rich  plumes.  The  two  forces  imitated
 skirmishes,  and  the  good  old  man,  from  joy  at  seeing  his
@@ -4854,8 +4497,6 @@ grandfather  is  Machu.     He  was  probably  a  Colla  general.
 H  2
 
 
-100  AN    ACCOUNT    OF    THE
-
 equal  tiyanas  made  of  gold,  all  richly  dressed  with  their
 ccccpac-llautus,7  and  the  old  man  held  the  golden  sceptre  of
 twpac  yauri,  while  his  sons  only  had  cham/pitP  of  gold.
@@ -4863,8 +4504,7 @@ twpac  yauri,  while  his  sons  only  had  cham/pitP  of  gold.
 But  the  administration  of  the  empire  was  left  to  Tupac
 Ynca  Yupanqui,  and  his  child  Huayna  Ccapac  remained  in
 the  Ccuri-cancha  without  coming  forth  during  that  year.
-The  festival  of  Ccapac  Raymi  was  kept  with  great  solem-
-nity by  the  three  ministers  of  the  temple  of  Ccuricancha,
+The  festival  of  Ccapac  Raymi  was  kept  with  great  solemnity by  the  three  ministers  of  the  temple  of  Ccuricancha,
 Apu-Rimac,  and  Auqui-Challcu-Yupanqui,  and  Apu-cama ;
 who  called  the  Ynca  their  son,  and  his  house  was  on  the
 site  of  the  present  convent  of  San  Agustin.
@@ -4885,13 +4525,10 @@ wives,  where  they  are  embalmed  and  arranged  in  their
 order,  each  in  its  recess.
 
 On  his  death  the  provinces  of  the  Puquinas  and  Collas
-rebelled,  from  Villcailota  to  Chacamarca,  with  all  the  JJrco-
-suyus  of  Achacache,  Huancane,  Asillu,  and  Asancaru,  and
+rebelled,  from  Villcailota  to  Chacamarca,  with  all  the  JJrcosuyus  of  Achacache,  Huancane,  Asillu,  and  Asancaru,  and
 they  made  their  fortress  in  Llallahua  Pucara  with  two
-hundred  thousand  men  ;  but  as  this  fortress  could  not  con-
-tain them  all,  those  who  had  least  courage  went  into  two
-other  strongholds  in  the  province.  So  Tupac  Ynca  Yupan-
-qui assembled  an  army  to  attack  them  ;  and  the  Hanan-
+hundred  thousand  men  ;  but  as  this  fortress  could  not  contain them  all,  those  who  had  least  courage  went  into  two
+other  strongholds  in  the  province.  So  Tupac  Ynca  Yupanqui assembled  an  army  to  attack  them  ;  and  the  Hanan-
 Quichuas  and  Hurin-Quichuas,  confident  in  their  prowess,
 7  Royal  fringe.  8  Battle-axes.
 
@@ -4916,8 +4553,7 @@ to  the  said  fortress  of  Llallahua-pucara.  This  siege  lasted
 for  three  years.  Then  the  Collas  offered  up  sacrifices  to  the
 sun,  of  children  and  cuis,1  and  from  the  air  there  was  an
 encouraging  answer  to  their  Tayta2  (Tayta  means  a  minister
-of  the  huacas)'.  Then  they  waged  war  upon  the  Ynca  with-
-out any  fear ;  but  it  fell  out  very  differently  from  what  they
+of  the  huacas)'.  Then  they  waged  war  upon  the  Ynca  without any  fear ;  but  it  fell  out  very  differently  from  what  they
 expected,  for  the  Ynca  attacked  these  Collas  with  renewed
 fury,  and  there  was  much  bloodshed.  Next  day  the  Collas,
 to  strike  terror  among  the  troops  of  the  Ynca,  began  to
@@ -4938,8 +4574,6 @@ sent  for  the  hioyachucos,  suyuntus,5  llama-llamas,  and  chunires
 2  Tayta  means  father,  master.  3  Turkey  buzzards.
 
 
-102  AN    ACCOUNT    OF    THE
-
 to  trample  upon  them,  and  eventually  they  were  thrown  into
 the  lake  of  Urcos,  while  the  Collas  were  brought  in  triumph
 to  Cuzco.  In  memory  of  these  cruel  wars  of  the  Collas,  the
@@ -4951,8 +4585,7 @@ The  Ynca  then  assembled  200,000  men  to  undertake  a
 new  conquest  in  the  Andes,  naming  Uturuncu  Achachi  as
 general  of  the  army,  and  Ocapac  Huari,  Poqui-llacta,  and
 others  of  the  Chillquis,  Papris,  and  Canas,  as  officers.  These
-did  good  service  in  the  conquest  of  the  provinces  of  Mana-
-resu  and  Upatari,  as  far  as  the  confines  of  Huancavillca  on
+did  good  service  in  the  conquest  of  the  provinces  of  Manaresu  and  Upatari,  as  far  as  the  confines  of  Huancavillca  on
 one  side,  and  to  Caravaya  on  the  other,  where  they  met  with
 a  province  inhabited  entirely  by  women,  called  Huarmi-auca.4,
 They  then  crossed  a  river  of  great  volume ;  but  at  first,  as
@@ -4966,8 +4599,7 @@ poison,  that  it  would  seem  they  have  a  pact  with  the  devil.
 They  fought  two  desperate  battles,  and  in  the  third  they
 were  defeated  by  the  soldiers  of  the  Ynca,  not  because  they
 were  less  brave,  but  by  superiority  of  arms  and  discipline.
-They  say  that  while  these  new  provinces  were  being  num-
-bered, and  while  arrangements  were  being  made  for  leaving
+They  say  that  while  these  new  provinces  were  being  numbered, and  while  arrangements  were  being  made  for  leaving
 gaiTisons,  news  came  that  Tupac  Ynca  Yupanqui  had
 banished  a  captain  to  a  province  of  the  Chirihuanas.6
 The  captain,  Apu  Quillacta,  proclaimed  this  news  to  his
@@ -4990,8 +4622,7 @@ would  now  be  subject  to  the  crown  of  Spain,  and  their
 inhabitants  would  have  been  Christians;  but  our  Lord
 knows  it,  and  has  reserved  this  good  work  for  another  time.
 
-In  those  days  the  Ynca  sent  Cacir  Ccapac  as  visitor-
-general  to  the  land,  giving  his  commission  in  lines  on  a
+In  those  days  the  Ynca  sent  Cacir  Ccapac  as  visitorgeneral  to  the  land,  giving  his  commission  in  lines  on  a
 painted  stick ;  and  before  his  departure  Colla-chahuay,
 the  Curaca  of  Tarma,  in  Chinchaysuyu,  was  sent  to  travel
 through  the  country,  and  eat  and  drink  with  all  the  Curacas,
@@ -5003,8 +4634,7 @@ officers  when  Apu-Quillacta  and  his  twelve  thousand  men
 of  Colla-suyu  returned,  and  complained  of  the  ill-treatment
 of  the  exiles.  The  Ynca  excused  himself,  saying  that  he
 knew  nothing  of  it.  Then  news  came  that  the  Chillis  were
-assembling  warriors  to  attack  the  Ynca,  and  he  sent  a  cap-
-tain against  them  with  twenty  thousand  men,  and  twenty
+assembling  warriors  to  attack  the  Ynca,  and  he  sent  a  captain against  them  with  twenty  thousand  men,  and  twenty
 thousand  of  the  Huarmi-aucas.  The  two  commanders
 marched  as  far  as  the  Coquimpus,  Chillis,  and  Tucumans,
 who  were  easily  subdued,  and  a  great  quantity  of  very  fine
@@ -5022,13 +4652,10 @@ in  the  day.
 T  Bowls.
 
 
-104  AN   ACCOUNT   OF    THE
-
 At  this  time  there  came  from  the  Andes  of  Upatari  three
 huudred  Antis  laden  with  gold  in  dust  and  tubes,  and  at  the
 moment  of  their  arrival  it  began  to  freeze,  and  all  the  crops
-were  frozen  to  the  roots.  So,  by  advice  of  the  old  council-
-lors, the  Yncar  ordered  the  three  hundred  men  to  carry
+were  frozen  to  the  roots.  So,  by  advice  of  the  old  councillors, the  Yncar  ordered  the  three  hundred  men  to  carry
 their  loads  of  gold  to  Pachatusun,  a  very  high  hill,  and  there
 to  have  them  buried.  So  the  unfortunates  were  killed  and
 buried  as  a  welcome.
@@ -5055,11 +4682,9 @@ they  say  that  the  governor  assigned  estates  for  these  false
 gods,  and  that  some  evil  disposed  Curacas  executed  his
 orders  with  alacrity.
 
-This  Hualpaya  was  now  ready  to  rebel  without  the  know-
-ledge of  the  provinces ;  and  one  night  a  bastard  uncle  of
+This  Hualpaya  was  now  ready  to  rebel  without  the  knowledge of  the  provinces ;  and  one  night  a  bastard  uncle  of
 Huayna  Ccapac  was  lying  half  awake  and  half  asleep,  very
-early  in  the  morning,  when  he  saw  troops  headed  by  Hual-
-paya surrounding  the  city,  and  pointing  their  arrows  at  the
+early  in  the  morning,  when  he  saw  troops  headed  by  Hualpaya surrounding  the  city,  and  pointing  their  arrows  at  the
 •  Servants.  9  Officers  in  command  of  a  hundred  men.
 
 
@@ -5103,15 +4728,11 @@ Yupanqui,  followed  by  all  the  Apu  Curacas  of  Colla-suyu
 and  councillors;    while  Mama  Cusirimay  came  out  of  the
 
 
-106  AN   ACCOUNT    OF    THE
-
 palace  of  Tupac  Ynca  Yupanqui,  attended  upon  by  the
 Apu  Ouracas  of  Chinchay-suyu,  Cunti-suyu,  and  Anti-suyu,
 with  all  their  Auqui-cuna1  according  to  their  rank.  They
-were  in  litters,  and  Huayna  Ccapac  did  not  hold  the  tupac-
-yauri,  but  only  the  champi.  Many  attendants  of  less  note
-surrounded  him,  all  dressed  in  shining  charus2  and  mother-
-of-pearl,  and  well  armed  with  their  purupuras*  and  cliipanas4,
+were  in  litters,  and  Huayna  Ccapac  did  not  hold  the  tupacyauri,  but  only  the  champi.  Many  attendants  of  less  note
+surrounded  him,  all  dressed  in  shining  charus2  and  motherof-pearl,  and  well  armed  with  their  purupuras*  and  cliipanas4,
 of  silver.  They  say  that  fifty  thousand  men  guarded  the
 city  and  the  fortress  of  Sacsahuaman,  and  that  the  festival
 was  a  wonderful  sight.
@@ -5126,8 +4747,7 @@ him  to  the  platform  whence  he  performed  these  ceremonies,
 where  he  said  a  prayer  in  a  loud  voice,  which  concluded
 the  proceedings  of  that  day,  and  they  were  considered  to  be
 married.  Afterwards  they  delivered  to  him  the  tupac-yauri6
-and  the  suntur-paucar,1  after  three  days,  and  the  ccapac-
-llautu8  and  the  unincha9  in  the  same  place  where  they  were
+and  the  suntur-paucar,1  after  three  days,  and  the  ccapacllautu8  and  the  unincha9  in  the  same  place  where  they  were
 married,  and  in  continuation  of  the  same  ceremony.  They
 also  delivered  to  him  the  ccapac-unancha}  or  royal  standard
 to  be  carried  before  him,  and  the  huaman-champi*  of  two
@@ -5152,15 +4772,12 @@ false.     Puru-ccayan,  mourning.  4  A  bracelet.  5  See  p.  11.
 
 ANTIQUITIES    OP    PERU.  107
 
-cancha,  and  to  do  no  evil  to  the  kingdom  of  Ttahuantin-
-suyu,  keeping  the  laws  of  former  Yncas,  and  favouring  all
+cancha,  and  to  do  no  evil  to  the  kingdom  of  Ttahuantinsuyu,  keeping  the  laws  of  former  Yncas,  and  favouring  all
 loyal  servants.  Then  the  Apii  Challca  Yv/panqui  said  a
 prayer  to  the  Creator,  beseeching  him  to  guard  and  protect
 the  Ynca  with  his  powerful  hand,  and  to  defend  him  from
-his  enemies.  Those  present  then  shouted  out  their  acclama-
-tions. Then  they  all  praised  the  Creator  called  Pachaya-
-chachi  Uiracochan.  Then  the  Ynca  went  to  the  Huacay-
-pata,  where  was  his  ccapac-usna,5  as  in  Villcas,  and  there
+his  enemies.  Those  present  then  shouted  out  their  acclamations. Then  they  all  praised  the  Creator  called  Pachaya-
+chachi  Uiracochan.  Then  the  Ynca  went  to  the  Huacaypata,  where  was  his  ccapac-usna,5  as  in  Villcas,  and  there
 each  chief  and  captain,  in  his  order,  promised  obedience  to
 the  new  sovereign.
 
@@ -5171,15 +4788,13 @@ son  named  Ynti  Tupac  Cusi  Hualpa,  whose  mother  was
 Rahua  Ocllo  ;  and  he  was  also  the  father,  by  a  princess
 named  Tocto  Ocllo  Cuca,  of  another  son  named  Tupac
 Atahualpa.  Then  the  Ynca  had  a  son  by  his  wife  named
-Ninancuyochi,  whose  mother,  the  Ccoya,  died  soon  after-
-wards. Then  Huayna  Ccapac  Ynca  wished  to  marry  his
+Ninancuyochi,  whose  mother,  the  Ccoya,  died  soon  afterwards. Then  Huayna  Ccapac  Ynca  wished  to  marry  his
 second  sister,  named  Mama  Cuca,  who  refused  her  consent,
 and  he  then  ill-treated  her  and  began  to  use  force,  but  her
 prayers  and  menaces  made  him  desist.  Then  he  went  with
 presents  and  offerings  to  the  body  of  his  father,  praying
 him  to  give  her  for  his  wife,  but  the  dead  body  gave  no
-answer,  while  fearful  signs  appeared  in  the  heavens,  portend-
-ing blood.  This  was  called  Gccdla-sana  ,6  This  made  Huayna
+answer,  while  fearful  signs  appeared  in  the  heavens,  portending blood.  This  was  called  Gccdla-sana  ,6  This  made  Huayna
 Ccapac  give  up  his  intention  in  regard  to  his  sister,  so  ho
 gave  her  to  a  very  old  and  ugly  Curaca  who  was  a  great
 chower  of  coca ;  and  he  did  this,  not  for  her  good,  but  in
@@ -5196,8 +4811,7 @@ or  judgment  seat.
 
 house  of  the  Acllas  as  a  princess,  and  became  abbess,  never
 having  submitted  to  the  old  man.  The  Ynca  Huayna  Ccapac
-was  then  married  a  second  time,  but  not  with  such  cere-
-monies as  on  his  union  with  his  first  wife,  to  Gcoija  Chimjou
+was  then  married  a  second  time,  but  not  with  such  ceremonies as  on  his  union  with  his  first  wife,  to  Gcoija  Chimjou
 Runtucay.
 
 Then  he  set  out  for  the  provinces  of  Colla-suyu,  to  order
@@ -5218,14 +4832,12 @@ where  there  was  another  plate  of  gold.  Here  the  chiefs
 remembered  that  they  had  forgotten  the  statute  of  Huayna
 Ccapac,  and  the  Ynca,  consenting  to  their  wishes,  sent  for
 it.  In  those  days  messengei's  came  from  Rimac,  bringing
-word  that,  within  the  Ccuricancha  of  Pachacamac  (the  Ccuri-
-cancha  was  a  temple,  and  there  were  many  in  different
+word  that,  within  the  Ccuricancha  of  Pachacamac  (the  Ccuricancha  was  a  temple,  and  there  were  many  in  different
 parts,  the  largest  being  in  Cuzco),  the  huaca  had  said  that
 it  desired  to  see  the  Ynca.  So  he  went  to  visit  Pachamac,
 and  the  huaca  spoke  to  him  alone,  saying  that  he  must  take
 riches  to  Chimu,  and  honour  him  more  than  Uiracochan
-Pachayachachi.  The  Ynca  consented,  and  the  wizards  re-
-joiced. The  army  reached  the  town  of  Tumipampa,  where
+Pachayachachi.  The  Ynca  consented,  and  the  wizards  rejoiced. The  army  reached  the  town  of  Tumipampa,  where
 the  Ynca  ordered  water  to  be  brought  from  a  river  by
 boring  through  a  mountain,  and  making  the  channel  enter
 the  city  by  curves  in  this  way.7
@@ -5239,8 +4851,7 @@ ANTIQUITIES    OF    PEKU.  109
 Ccuricancha,  a  wonderful  work.  Then  the  Ynca  departed
 with  his  army,  numbering  a  million  and  a  half  of  men,  and
 came  to  Picchuya  Sicchupuruhuay.  All  the  inhabitants,
-with  the  Cayambis,  Quillisencas,  and  Quillacus,  fled  to  for-
-tresses to  defend  themselves  against  the  Ynca.     The  two
+with  the  Cayambis,  Quillisencas,  and  Quillacus,  fled  to  fortresses to  defend  themselves  against  the  Ynca.     The  two
 
 
 armies  then  began  to  fight,  and  much  blood  was  shed.  The
@@ -5249,8 +4860,7 @@ the  rear,  but  meanwhile  the  Cayambis  did  great  injury  to
 the  royal  camp,  and  discovered  that  the  Colla-suyus  were
 marching  very  leisurely.  So  they  fell  upon  them  furiously,
 and  caused  great  slaughter,  so  that  few  escaped  in  the  fine
-and  powerful  army  of  Colla-suyu.  The  Ynca  felt  this  mis-
-fortune deeply,  for  the  general  of  Colla-suyu  was  one  of  his
+and  powerful  army  of  Colla-suyu.  The  Ynca  felt  this  misfortune deeply,  for  the  general  of  Colla-suyu  was  one  of  his
 wisest  councillors.  But  the  Ynca  was  to  blame  for  having
 confided  in  the  promises  of  the  huaca  at  Pachacamac  and
 other  idols.  His  men  were  now  left  starved  and  in  rags,
@@ -5266,21 +4876,17 @@ fortress  of  the  Cayambis,  while  the  Chinchay-suyus  marched
 by  the  plains.     The  Ynca  himself  advanced  by  the  direct
 
 
-110  AN    ACCOUNT    OF    THE
-
 road.  They  fought  more  furiously  than  ever,  and  the
 Colla-suyus  climbed  to  the  fortresses  of  the  Cayambis  and
 -attacked  them  fiercely,  sparing  neither  age  nor  sex.  The
 Y-nca  also  fought  in  person,  attended  by  the  May  us,
 Sancus,  and  Quillis-cachis.  The  enemies  were  worn  out
 with  fatigue ;  but  next  day  the  battle  was  renewed,  and  the
-Colla-suyus  and  Chinchay-suyus  again  attacked  the  for-
-tresses, which  were  steep  rocks.  The  enemy  began  to  fly
+Colla-suyus  and  Chinchay-suyus  again  attacked  the  fortresses, which  were  steep  rocks.  The  enemy  began  to  fly
 to  another  place,  and  the  Ynca  ordered  his  army  to  rest  for
 that  day.  The  enemy  took  refuge  in  a  stronger  fortress,
 and  reinforcements  joined  the  Ynca's  army  from  Cuzco.
-The  Cayambis  fled  to  the  montanas  of  Otabala,8  and  as-
-sembled on  the  shores  of  a  lake,  where  they  were  sur-
+The  Cayambis  fled  to  the  montanas  of  Otabala,8  and  assembled on  the  shores  of  a  lake,  where  they  were  sur-
 rounded, and  there  was  great  slaughter.  The  warriors
 washed  their  arms  in  the  lake,  and  there  was  a  mass  of
 blood  in  the  centre,  so  the  lake  was  called  Yahiiar-ccocha.0
@@ -5295,8 +4901,7 @@ open  it,  but  he  excused  himself,  saying,  that  the  command
 of  the  Creator  was  that  the  Ynca  alone  should  do  so.  So
 the  Ynca  opened  it,  and  there  came  flying  out  a  quantity  of
 things  like  butterflies  or  bits  of  paper,  which  spread  abroad
-until  they  disappeared.  This  was  the  pestilence  of  Saram-
-pion  (?),  and  in  a  few  days  the  general  Mihcnaca  Mayta  died,
+until  they  disappeared.  This  was  the  pestilence  of  Sarampion  (?),  and  in  a  few  days  the  general  Mihcnaca  Mayta  died,
 with  many  other  captains,  their  faces  being  covered  with
 scabs.  When  the  Ynca  saw  this,  he  ordered  a  house  to  be
 built  of  stone,  in  which  he  hid  himself,  and  there  died.
@@ -5323,20 +4928,17 @@ it.  After  it  was  deposited  with  the  other  bodies  of  the
 Yncas,  there  was  general  mourning  for  his  death.  Then
 Yuti  Tupac  Cusi  Huallpa  Huascar  Ynca  made  his  mother,
 Rava  Ocllo,  marry  the  dead  body,  in  order  that  he  might
-become  legitimate,  and  the  ministers  of  the  temple  per-
-formed the  ceremony  out  of  fear.  Thus  Tupac  Cusi  Huallpa
+become  legitimate,  and  the  ministers  of  the  temple  performed the  ceremony  out  of  fear.  Thus  Tupac  Cusi  Huallpa
 took  the  title  of  legitimate  son  of  Huayna  Ccapac,  and  called
 upon  all  the  chiefs  of  Ttahuantin-sayu  to  swear  obedience  to
 him,  which  was  done.  He  then  prepared  for  his  coronation,
-and  induced  the  great  Curacas  to  ask  the  ministers  of  Ccuri-
-cancha  to  deliver  to  him  the  ccapac  llautu,  suntur-paucar,
+and  induced  the  great  Curacas  to  ask  the  ministers  of  Ccuricancha  to  deliver  to  him  the  ccapac  llautu,  suntur-paucar,
 tupac-yanri,  and  ccapac-uncu.  Great  preparations  were
 made  for  the  coronation,  and  there  was  a  distribution  of
 rich  dresses,  plumes,  and  arms,  which  was  merely  done  to
 gain  over  the  chiefs.  At  the  end  of  a  year  he  received  the
 ccapac-llautu,  with  the  name  of  Yuti  Cusi  Huallpa  Huascar
-Ynca.2  He  married  his  sisters,  named  Chuqui-huy-'pachu-
-quipa,  and  Ccoya  Mama  Chuqui  huypa  chuquvpa.
+Ynca.2  He  married  his  sisters,  named  Chuqui-huy-'pachuquipa,  and  Ccoya  Mama  Chuqui  huypa  chuquvpa.
 
 Afterwards  Tupac,  Cusi  Huallpa  took  1200  Chachapuyas
 and  Cafiaris  for  the  servants  of  the  palace,  and  dismissed
@@ -5352,14 +4954,11 @@ into  this  lake  of  Molina  (Muyna)  when  the  Spaniards  came,  and  not
 into  that  of  Urcos-ccocha.
 
 
-112  AN    ACCOUNT    OF    THE
-
 those  of  his  father.  He  also  began  to  punish  his  father's
 captains  with  death  because  they  had  left  Tupac  Atahuallpa
 and  the  other  captains  in  Quito.  Then  he  marched  into  the
 provinces  of  Colla-suyu,  and  came  to  Titicaca,  where  he
-ordered  a  golden  image  of  the  sun  to  be  set  up.  He  wor-
-shipped it  as  Uiracocha  Ynti,  thus  adding  the  name  of
+ordered  a  golden  image  of  the  sun  to  be  set  up.  He  worshipped it  as  Uiracocha  Ynti,  thus  adding  the  name  of
 Ynti.  On  his  return  to  Cuzco  he  came  to  Pocana-cancha,
 where  he  found  all  the  Apu  Curacas  coming  in  their  litters
 according  to  the  privilege  granted  by  former  Yncas,  and
@@ -5397,8 +4996,7 @@ ANTIQUITIES    OF    PERU.  113
 the  Ynca  sent  against  Atahuallpa  with  1200  men,  and
 orders  to  take  him  and  the  other  captains  prisoners.  This
 captain  rested  at  Tumipampa.  Meanwhile  the  surviving
-messengers  arrived  at  Quito,  and  reported  what  had  hap-
-pened to  Auqui  Tupac  Atahuallpa,  who  received  the  news
+messengers  arrived  at  Quito,  and  reported  what  had  happened to  Auqui  Tupac  Atahuallpa,  who  received  the  news
 in  great  sorrow,  but  in  silence.  Then  he  sent  to  the  captain
 Huaminca-atoc,  asking  him  to  declare  for  what  purpose  he
 had  come  with  an  army;  and  the  captain  replied  that  he
@@ -5409,8 +5007,7 @@ the  title  of  Ynca,  and  began  to  use  a  litter,  and  assembled
 13,000  warriors.  After  a  few  days  the  captain  Atoc  reached
 Mullu  Hampatu,4  near  Quito,  and  Atahuallpa  came  out
 against  him.  There  was  a  battle,  in  which  Atahuallpa  was
-defeated,  and  all  the  Mitimaes5  were  terrified.  But  he  re-
-solved to  attempt  further  resistance.  So  he  appointed
+defeated,  and  all  the  Mitimaes5  were  terrified.  But  he  resolved to  attempt  further  resistance.  So  he  appointed
 Challcuchima  to  be  general,  and  Quis-quis  to  be  master  of
 the  camp,  who  defeated  and  captured  the  captain  Atoc  and
 put  out  his  eyes.  When  Huascar  Ynca  heard  the  news  of
@@ -5431,22 +5028,17 @@ Chachapuya,  in  the  name  of  Huascar  Ynca.  He  fought  the
 *  Sec  Cieza  de  Lton,  p.  153.  5  Colonists.
 
 
-114  AN    ACCOUNT    OF    THE
-
 enemy  between  Chachapuya  and  Caxamarca,  and  was  again
 defeated,  retreating  to  Huanuco.  After  many  challenges,
 the  two  armies  met  once  more  at  Bombon,  each  with
 100,000  men.  After  having  been  arrayed  for  the  encounter,
 the  soldiers  on  both  sides  ate  and  drank.  The  battle  lasted
-for  three  days,  and  on  the  last  day  Quis-quis  and  Challcu-
-chima,  the  captains  of  Atahuallpa,  were  victorious,  20,000
+for  three  days,  and  on  the  last  day  Quis-quis  and  Challcuchima,  the  captains  of  Atahuallpa,  were  victorious,  20,000
 having  fallen.  Huanca  Auqui,  now  almost  despairing,
 retreated  to  Xanxa,  where  he  met  another  fine  army  which
-had  been  sent  from  Cuzco  to  reinforce  him ;  and  the  cap-
-tain who  commanded  angrily  reprehended  Huanca  Auqui.
+had  been  sent  from  Cuzco  to  reinforce  him ;  and  the  captain who  commanded  angrily  reprehended  Huanca  Auqui.
 The  defeated  general  had  drinking  bouts  with  his  uncles  in
-the  valley  of  Xauxa,  and  sent  thence  to  the  huaca  at  Pacha-
-camac  for  help,  and  received  a  hopeful  reply.
+the  valley  of  Xauxa,  and  sent  thence  to  the  huaca  at  Pachacamac  for  help,  and  received  a  hopeful  reply.
 
 So  Huanca  Auqui  ordered  all  the  Huancas,  Yauyus,  and
 Aymaras  to  come  to  the  defence  of  Huascar  Ynca,  and
@@ -5479,11 +5071,9 @@ were  forty  huacas  assembled,  and  the  Ynca  began  to  abuse
 them  with  many  insulting  words,  saying  : —
 
 Llulla  vatica  hauchha  auca  supay,  chiquiy  manta  pallcaymantam
-chirmayTiaymantam  camcam  Cuzco  capacpa  aucan-cunacta  muchar-
-cayque  callpaays  ayran  callpari  cuyhuan  aspacay  niyhuan  runa
+chirmayTiaymantam  camcam  Cuzco  capacpa  aucan-cunacta  mucharcayque  callpaays  ayran  callpari  cuyhuan  aspacay  niyhuan  runa
 arpay  Tiiy  huan  camcam  hillusu  huaccunacatacay  ckapas  camcam
-acoycimacataca  runa  kuallpaqrdypa  hahocka  aucana  catamuscam-
-pas  canquichic,  chicallatac  hinallatac  mitaysanay  villcaycunapas
+acoycimacataca  runa  kuallpaqrdypa  hahocka  aucana  catamuscampas  canquichic,  chicallatac  hinallatac  mitaysanay  villcaycunapas
 camcuna  Kuaca  rimachun  camca  cunactam,  ari  tonapa  tarapaca
 Uiracochan  Pachayachip  yanan  niscaca  chienisus  canqui.
 
@@ -5517,13 +5107,10 @@ Cuzco,   taking  all  the  Apu-Curacas   and   Auquis,  and  the
 i  2
 
 
-116  AN    ACCOUNT    OF    THE
-
 chiefs  called  Mancop-churin-cuzco,  who  are  knights,  and
 the  Ayllun-cuzcos  as  body-guards ;  and  as  a  vanguard  he
 had  the  Quehuars  and  those  of  Colla-suyu,  the  Tambos,
-Mascas,  Chillquis,  Papris,  Quichuas,  Mayus,  Sancus,  Quillis-
-cachis ;  and  as  supports  came  the  Chachapuyas  and  Canaris.
+Mascas,  Chillquis,  Papris,  Quichuas,  Mayus,  Sancus,  Quilliscachis ;  and  as  supports  came  the  Chachapuyas  and  Canaris.
 All  were  in  good  order,  and  so  the  Ynca  Huascar  reached
 TJtcu-pampa  surrounded  by  an  imperial  pomp  and  majesty
 never  before  seen.  Each  tribe,  with  its  general,  was  in
@@ -5533,15 +5120,12 @@ Pollcaro ;  and  thus  the  plains  were  covered  with  the  men
 of  both  armies.
 
 On  that  day  the  two  armies  were  formed  ready  for  battle,
-and  the  Ynca  Huascar  ascended  a  high  hill  near  the  Apuri-
-mac,  and  beheld,  with  feelings  of  pleasure,  the  people  cover-
+and  the  Ynca  Huascar  ascended  a  high  hill  near  the  Apurimac,  and  beheld,  with  feelings  of  pleasure,  the  people  cover-
 ing the  land  like  flour;  and  all  the  hills,  huay ecu s, J  and
 plains  glistening  with  the  gold  and  silver  and  bright-coloured
 plumes  of  the  warriors,  so  that  there  was  no  spot  unoccupied
-for  twelve  leagues  by  six  or  seven.  Each  nation  and  pro-
-vince had  its  war  songs  and  musical  instruments.  On  the
-next  day  Huascar  Ynca  sent  messengers  to  order  each  com-
-pany to  make  the  assault  with  all  possible  fury,  and  the
+for  twelve  leagues  by  six  or  seven.  Each  nation  and  province had  its  war  songs  and  musical  instruments.  On  the
+next  day  Huascar  Ynca  sent  messengers  to  order  each  company to  make  the  assault  with  all  possible  fury,  and  the
 battle  then  began.  They  continued  to  fight  from  dawn
 until  dark,  and  they  say  that  twenty  thousand  men  were
 killed.  Next  day  they  began  again  after  breakfast,  and  a
@@ -5550,8 +5134,7 @@ was  again  renewed,  and  at  the  hour  for  eating  both  armies
 were  nearly  worn  out,  and  they  rested,  and  all  the  plains
 were  covered  with  dead  bodies,  and  well  irrigated  with
 blood.  On  the  fourth  day  they  began  again  with  still  greater
-fury  ;  and  Quisquis  and  Chalcuchima,  the  captains  of  Ata-
-huallpa  Ynca,  retreated  to  three  high  hills  with  only  half  a
+fury  ;  and  Quisquis  and  Chalcuchima,  the  captains  of  Atahuallpa  Ynca,  retreated  to  three  high  hills  with  only  half  a
 million  of  men.  Here  they  entrenched  themselves,  and  at
 dawn  next  day  the  men  of  Colla-suyu  attacked  them  fiercely,
 
@@ -5619,8 +5202,7 @@ pass  judgment  on  his  descent ;  upon  which  Quisquis  struck
 him,  and  gave  him  chillca  leaves  instead  of  coca.  When  he
 was  thus  outraged,  Huascar  raised  his  eyes,  and  cried  out :
 "  O  Lord  and  Creator,  how  is  it  possible  ?  Why  hast  thou
-sent  me  these  burdens  and  troubles."  In  those  days  Quis-
-quis ordered  all  the  children  of  Huascar  Ynca  to  be  slain,
+sent  me  these  burdens  and  troubles."  In  those  days  Quisquis ordered  all  the  children  of  Huascar  Ynca  to  be  slain,
 and  all  his  servants,  up  to  fifteen  hundred  persons,  who
 were  within  the  palace  of  Puca-marca.9
 
@@ -5635,8 +5217,7 @@ chain  of  gold  and  three  thousand  loads  of  gold,  with  as  many
 of  silver,  to  be  concealed  in  Cunti-suyu.  They  also  hid  all
 the  cumpis  and  rich  dresses  of  gold.  One  named  Barco
 and  Candia  arrived  at  Cuzco  without  meeting  Huascar
-Ynca,  and  Challcuchima  was  seized  on  the  way  to  Cax-
-amarca.  Francisco  Pizarro  captured  Atahuallpa  in  the
+Ynca,  and  Challcuchima  was  seized  on  the  way  to  Caxamarca.  Francisco  Pizarro  captured  Atahuallpa  in  the
 9  Sco  (J.  de  la  Veya,  ii,  p.  246.
 
 
@@ -5655,8 +5236,7 @@ to  Atahuallpa  that  they  brought  the  law  of  God.  Hence
 they  called  the  Spaniards  Uiracocha,  and  the  cock  Atahuallpa.
 This  Atahuallpa  sent  messages  to  Antamarca  with  orders
 that  Huascar  should  be  killed  ;  and  after  he  had  sent  them
-he  began  to  pretend  to  be  sad,  trying  to  deceive  the  cap-
-tain, Francisco  Pizarro.  So,  by  orders  of  Atahuallpa,  they
+he  began  to  pretend  to  be  sad,  trying  to  deceive  the  captain, Francisco  Pizarro.  So,  by  orders  of  Atahuallpa,  they
 killed  Huascar  Ynca  in  Antamarca,  with  his  son,  wife,  and
 mother,  with  great  cruelty,  and  the  Marquis  knew  all  this
 through  the  complaints  of  the  Curacas.  Atahuallpa  was
@@ -5664,10 +5244,8 @@ baptized  and  called  Don  Francisco,  and  afterwards  he  was
 put  to  death  as  a  traitor.  Then  the  captain,  Francisco
 Pizarro,  accompanied  by  the  friar  Vicente,  set  out  for
 Cuzco,  taking  with  him  a  bastard  son  of  Huayna  Ccapac  as
-Ynca,  who  died  in  the  valley  of  Xauxa.  The  captain  Fran-
-cisco Pizarro  reached  the  bridge  of  the  Apuriraac  with  sixty
-or  seventy  men,  where  he  was  met  by  Manco  Ynca  Yupan-
-qui,  with  all  the  Curacas,  who  had  come  to  offer  obedience
+Ynca,  who  died  in  the  valley  of  Xauxa.  The  captain  Francisco Pizarro  reached  the  bridge  of  the  Apuriraac  with  sixty
+or  seventy  men,  where  he  was  met  by  Manco  Ynca  Yupanqui,  with  all  the  Curacas,  who  had  come  to  offer  obedience
 and  become  Christians.  On  reaching  Villca-cunca,  these
 Curacas,  out  of  pure  joy  and  satisfaction,  began  to  make
 skirmishes.  At  Sacsahuana,  on  the  following  day,  the
@@ -5688,8 +5266,7 @@ Cuzco  with  great  pomp  and  majesty,  and  the  marquis,  with
 his  grey  hairs  and  long  beard,  represented  the  Emperor
 Charles  V,  while  the  friar  Vicente,  in  his  robes,  personified
 his  holiness  the  Pope.  The  Ynca,  in  his  litter  lined  with
-rich  plumes  of  feathers,  his  sumptuous  clothes,  the  suntur-
-pmiQar  in  his  hand,  and  the  royal  insignia  of  the  ccaj>ac
+rich  plumes  of  feathers,  his  sumptuous  clothes,  the  sunturpmiQar  in  his  hand,  and  the  royal  insignia  of  the  ccaj>ac
 unancha,  was  greeted  with  great  joy  by  the  people.  The
 friar  Vicente  went  straight  to  the  Ccuricancha,  the  house
 erected  by  the  ancient  Yncas  in  honour  of  the  Creator ;  and
@@ -5699,8 +5276,7 @@ enemies  of  the  faith.  There  the  friar  preached  like  another
 Apostle  St.  Thomas,  the  patron  of  these  kingdoms,  without
 ceasing,  filled  with  zeal  for  the  conversion  of  souls,  baptizing
 Curacas ;  and  if  he  had  known  the  language  his  labours  would
-have  borne  still  more  fruit;  but  he  spoke  through  an  in-
-terpreter.    May  God  be  praised  for  ever  and  ever.
+have  borne  still  more  fruit;  but  he  spoke  through  an  interpreter.    May  God  be  praised  for  ever  and  ever.
 
 
 A   NAEEATIVE
@@ -5743,8 +5319,7 @@ In  the  year  1608.
 
 
 Chauca-chiijiila  was  the  name  of  the  Indian  we  found  with  the  new
-shirt;  and  the  cloaks  show  whether  they  are  of  Masnu-yauri  or  Carhua-
-yalli.
+shirt;  and  the  cloaks  show  whether  they  are  of  Masnu-yauri  or  Carhuayalli.
 
 Conopa  is  the  general  name  for  all  the  small  stone  idols  that  we
 found.
@@ -5802,10 +5377,8 @@ Spaniards),  thou  art  Lord  of  all :  thine  are  the  crops,  and  thine
 are  all  the  people."  In  commencing  any  arduous  or  difficult
 undertaking,  they  threw  a  piece  of  coca  (a  well-known  leaf)
 on  the  grouud,  as  an  oblation,  and  said,  "  Tell  me,  0  Lord
-Coniraya  TJiracocha,  how  I  am  to  do  this  V  The  same  cus-
-tom prevailed  among  the  weavers  of  cloths,  when  their
-work  was  toilsome  and  difficult.  This  invocation  and  cus-
-tom of  calling  the  idol  by  the  name  of  TJiracocha  certainly
+Coniraya  TJiracocha,  how  I  am  to  do  this  V  The  same  custom prevailed  among  the  weavers  of  cloths,  when  their
+work  was  toilsome  and  difficult.  This  invocation  and  custom of  calling  the  idol  by  the  name  of  TJiracocha  certainly
 prevailed  long  before  there  were  any  tidings  of  Spaniards
 in  the  country.  It  is  not  certain  whether  Coniraya  or
 Pariacaca  were  first  ;  but  as  it  is  more  probable  that
@@ -5819,8 +5392,7 @@ In  which  the  account  of  Coniraya  is  continued,  and  how  he  became
 enamoured  of  the  goddess  Cavillaca,  and  of  other  things  which  are
 worthy  to  be  known.
 
-They  say  that  in  most  ancient  times  the  Coniraya  TJiraco-
-cha appeared  in  the  form  and  dress  of  a  very  poor  Indian
+They  say  that  in  most  ancient  times  the  Coniraya  TJiracocha appeared  in  the  form  and  dress  of  a  very  poor  Indian
 clothed  in  rags,  insomuch  that  those  who  knew  not  who  he
 was  reviled  him  and  called  him  a  lousy  wretch.  They  say
 that  this  was  the  Creator  of  all  things;  and  that,  by  his
@@ -5893,16 +5465,12 @@ Coniraya  in  his  rags  and  dirt,  and  when  the  child  reached
 him,  it  rejoiced  and  laughed,  and  rested  at  his  feet.
 
 This  conduct  caused  Cavillaca  great  shame  and  annoyance,
-and  she  snatched  up  the  child,  exclaiming  : — "  What  dis-
-grace is  this  that  has  come  upon  me,  that  a  lady  such  as  I
+and  she  snatched  up  the  child,  exclaiming  : — "  What  disgrace is  this  that  has  come  upon  me,  that  a  lady  such  as  I
 am  should  be  made  pregnant  by  a  poor  and  filthy  creature."
-Then  she  turned  her  back  and  fled  away  towards  the  sea-
-shore. But  Coniraya  Uiracocha  desired  the  friendship  and
+Then  she  turned  her  back  and  fled  away  towards  the  seashore. But  Coniraya  Uiracocha  desired  the  friendship  and
 favour  of  the  goddess,  so,  when  he  saw  her  take  her  flight,
-he  put  on  magnificent  golden  robes,  and,  leaving  the  as-
-tonished assembly  of  gods,  he  ran  after  her,  crying  out : —
-"  0  my  lady  Cavillaca,  turn  your  eyes  and  see  how  hand-
-some and  gallant  am  I,"  with  other  loving  and  courteous
+he  put  on  magnificent  golden  robes,  and,  leaving  the  astonished assembly  of  gods,  he  ran  after  her,  crying  out : —
+"  0  my  lady  Cavillaca,  turn  your  eyes  and  see  how  handsome and  gallant  am  I,"  with  other  loving  and  courteous
 words ;  and  they  say  that  his  splendour  illuminated  the
 whole  country.  Yet  the  disdainful  Cavillaca  would  not  turn
 her  head,  but  rather  increased  her  speed,  saying  : — "  I  have
@@ -5910,15 +5478,13 @@ her  head,  but  rather  increased  her  speed,  saying  : — "  I  have
 
 OF    THE    INDIANS    OP    HUAROCHIRI.  127
 
-no  wish  to  see  any  one,  seeing  that  I  have  been  made  preg-
-nant by  a  creature  so  vile  and  filthy. "l  She  disappeared,
+no  wish  to  see  any  one,  seeing  that  I  have  been  made  pregnant by  a  creature  so  vile  and  filthy. "l  She  disappeared,
 and  came  to  the  sea  coast  of  Pachacamac,  where  she  entered
 the  sea  with  her  child,  and  was  turned  into  a  rock.  They  say
 that  the  two  rocks  may  still  be  seen,  which  are  mother  and
 child.  Coniraya  continued  the  pursuit,  crying  out,  and
 saying,  "  Stop  !  stop  !  lady.  Turn  round  and  look  !  where
-are  you,  that  I  cannot  see  you?"  As  he  ran,  he  met  a  con-
-dor, to  whom  he  said  : — "  Brother,  tell  me  whether  you  en-
+are  you,  that  I  cannot  see  you?"  As  he  ran,  he  met  a  condor, to  whom  he  said  : — "  Brother,  tell  me  whether  you  en-
 countered a  woman  with  such  and  such  marks  ?"  The
 condor  answered : — "  I  saw  her  very  near  this  place,  and
 if  you  go  a  little  faster,  you  will  certainly  overtake  her."
@@ -5936,11 +5502,9 @@ who  kills  you  shall  himself  be  killed."
 Coniraya  then  continued  his  journey,  and  met  a  small  fox
 of  the  kind  that  emits  a  strong  odour,  and  asked  him  the
 same  question  touching  Cavillaca.  The  fox  answered  that
-it  was  in  vain  for  him  to  run  fast,  to  seek,  or  to  follow,  be-
-cause the  goddess  was  now  far  off,  and  he  could  not  over-
+it  was  in  vain  for  him  to  run  fast,  to  seek,  or  to  follow,  because the  goddess  was  now  far  off,  and  he  could  not  over-
 take her.  Then  Coniraya  cursed  the  fox,  saying  : — "  As  a
-punishment  for  the  bad  news  you  have  given  me,  I  com-
-mand that  you  shall  never  go  abroad  but  at  night,  that  a
+punishment  for  the  bad  news  you  have  given  me,  I  command that  you  shall  never  go  abroad  but  at  night,  that  a
 bad  smell  shall  always  come  from  you,  and  that  men  shall
 persecute  and  hate  you."
 
@@ -5952,8 +5516,7 @@ The  god  went  on  and  met  a  lion  which,  in  reply  to  his
 
 128  ERRORS,    FALSE    GODS,    ETC.,
 
-question,  told  him  that  he  was  very  near  the  goddess  Cavil-
-laca,  and  that  if  he  made  a  little  more  haste  he  would  over-
+question,  told  him  that  he  was  very  near  the  goddess  Cavillaca,  and  that  if  he  made  a  little  more  haste  he  would  over-
 take her.  This  good  news  pleased  the  sage,  and  he  blessed
 the  lion,  saying  : — "  You  shall  be  respected  and  feared  by
 all,  and  I  assign  to  you  the  office  of  punisher  and  executioner
@@ -5974,8 +5537,7 @@ back."
 After  having  given  the  lion  this  blessing,  he  continued
 his  journey  and  met  a  fox,  which  said  that  his  running  was
 useless,  for  that  the  lady  was  far  off,  and  it  was  impossible
-to  overtake  her.  In  payment  for  such  news,  the  wise  Coni-
-raya  pronounced  the  following  curse  : — "  I  command  that
+to  overtake  her.  In  payment  for  such  news,  the  wise  Coniraya  pronounced  the  following  curse  : — "  I  command  that
 you  shall  be  hunted  from  afar,  and  then  when  the  people
 see  you,  even  at  a  great  distance,  they  shall  come  out  and
 hunt  you ;  and  when  you  die  you  shall  be  of  no  account,
@@ -6012,11 +5574,9 @@ him.
 
 When  he  reached  the  sea-shore  he  found  that  Cavillaca
 and  her  child  were  turned  into  stone;  and  as  he  walked  along
-the  beach  he  met  two  beautiful  young  daughters  of  Pacha-
-camac,  who  guarded  a  great  serpent,  because  their  mother
+the  beach  he  met  two  beautiful  young  daughters  of  Pachacamac,  who  guarded  a  great  serpent,  because  their  mother
 was  absent,  visiting  the  recently  arrived  Cavillaca  in  the
-sea.  The  name  of  this  wife  of  Pachacamac  was  TJrxayhua-
-chac.4.  When  Coniraya  found  these  girls  alone  without  their
+sea.  The  name  of  this  wife  of  Pachacamac  was  TJrxayhuachac.4.  When  Coniraya  found  these  girls  alone  without  their
 mother,  he  did  not  care  for  the  serpent,  which  he  could  keep
 quiet  by  his  wisdom ;  so  he  had  intercourse  with  the  elder
 sister,  and  desired  to  do  the  same  with  the  younger,  but
@@ -6040,8 +5600,7 @@ K
 
 the  girls  returned  they  told  her  what  had  happened,  and
 she  pursued  Coniraya  in  a  great  fury,  calling  out,  until  at
-last  he  determined  to  stop  and  wait  for  her.  Then  she  ad-
-dressed Eim  with  loving  and  tender  words,  saying, — "Coni-
+last  he  determined  to  stop  and  wait  for  her.  Then  she  addressed Eim  with  loving  and  tender  words,  saying, — "Coni-
 raya, do  you  wish  that  I  should  comb  your  head  and  pick
 out  the  lice  V  So  he  consented,  and  reclined  his  head  on
 her  lap  ;  but  while  she  was  pretending  to  do  this,  she  was
@@ -6054,15 +5613,13 @@ villages  and  to  single  men  or  women.  The  end  of  this
 haaca  will  be  related  presently.
 
 The  above  traditions  are  so  rooted  in  the  hearts  of  the
-people  of  this  province  at  the  present  time  that  they  pre-
-serve them  most  inviolably ;  and  thus  they  hold  the  condors
+people  of  this  province  at  the  present  time  that  they  preserve them  most  inviolably ;  and  thus  they  hold  the  condors
 to  be  sacred,  and  never  kill  one,  believing  that  he  who  kills
 one  will  die  himself.  I  know  that  there  was  a  condor  in
 the  ravine  of  San  Damian,  near  the  bridge,  which  was
 unable  to  fly  from  extreme  old  age ;  but  there  was  not  an
 Indian  who  would  touch  it,  and  it  lived  there  for  thirteen
-or  fourteen  years.  When  I  had  killed  some  of  these  con-
-dors, the  people  asked  me  how  it  was  that  I  dared  to  do  so,
+or  fourteen  years.  When  I  had  killed  some  of  these  condors, the  people  asked  me  how  it  was  that  I  dared  to  do  so,
 but  I  did  not  understand  why  they  should  ask  the  question
 until  I  had  heard  this  fable.  They  also  have  a  great  horror
 of  the  small  fox ;  and  they  do  to  the  lion  all  that  was
@@ -6099,8 +5656,7 @@ plead  ignorance,  nor  can  they  complain  that  they  have  not
 been  taught.  It  is  true  that  in  some  parishes  the  priests
 have^been  negligent  in  teaching,  but  in  others  it  is  not  so;
 and  we  have  seen  that  the  people  are  as  much  and  more
-attached  to  their  errors  in  those  parishes  where  the  preach-
-ing has  been  attended  to,  as  in  those  where  it  has  been
+attached  to  their  errors  in  those  parishes  where  the  preaching has  been  attended  to,  as  in  those  where  it  has  been
 neglected.
 
 
@@ -6125,8 +5681,7 @@ k  2
 
 132  ERRORS,    FALSE    GODS,    ETC.,
 
-may  have  been  the  eclipse  which  occurred  when  our  Re-
-deemer died  ;  but  I  cannot  clearly  make  this  out,  for  when
+may  have  been  the  eclipse  which  occurred  when  our  Redeemer died  ;  but  I  cannot  clearly  make  this  out,  for  when
 it  was  day  in  that  hemisphere  it  was  night  here,  so  that
 here  the  eclipse  would  have  taken  place  at  night.  The  rest
 of  the  story  consists  of  lies,  for,  as  these  people  had  no
@@ -6169,23 +5724,19 @@ San  Geronimo  de  Surco,  taking  with  him  food  for  five  days,
 and  that  he  might  thus  be  saved.  The  man  did  as  he
 was  told,  carrying  his  load  on  his  back  and  leading  the
 llama,  and  he  arrived  on  the  summit  of  the  mountain,  where
-he  found  many  different  kinds  of  birds  and  animals  assem-
-bled. Just  as  he  and  his  llama  reached  the  top  the  sea
+he  found  many  different  kinds  of  birds  and  animals  assembled. Just  as  he  and  his  llama  reached  the  top  the  sea
 began  to  rise,  and  the  water  filled  the  valleys  and  covered  the
 tops  of  the  hills,  except  that  of  Villca-coto  ;  but  the  animals
 were  crowded  together,  for  the  water  rose  so  high  that
 some  of  them  could  hardly  find  foothold.  Among  these  was
 a  fox,  whose  tail  was  washed  by  the  waves,  which  they  say
 is  the  reason  that  the  tips  of  foxes'  tails  are  black.  At  the
-end  of  five  days  the  waters  began  to  abate,  and  the  sea  re-
-turned to  its  former  bounds ;  but  the  whole  earth  was  with-
+end  of  five  days  the  waters  began  to  abate,  and  the  sea  returned to  its  former  bounds ;  but  the  whole  earth  was  with-
 out inhabitants  except  that  solitary  man,  from  whom,  they
-say,  descend  all  the  people  who  now  exist.  This  is  a  nota-
-ble absurdity,  for  they  do  not  say  that  any  woman  was
+say,  descend  all  the  people  who  now  exist.  This  is  a  notable absurdity,  for  they  do  not  say  that  any  woman  was
 saved ;  and  they  make  out  that  the  man  had  intercourse
 with  some  devil ;  and,  as  the  commentator  of  the  books  of
-the  city  of  God  (Lib.  xv.  cap.  23)  says,  they  glory  and  re-
-joice, like  some  others  of  those  times,  at  being  the  sons  of
+the  city  of  God  (Lib.  xv.  cap.  23)  says,  they  glory  and  rejoice, like  some  others  of  those  times,  at  being  the  sons  of
 a  demon.  The  Egyptians  denied  that  a  man  could  have
 connection  with  a  demon,  though  they  affirmed  that  it  was
 possible  with  a  female  demon  ;  but  the  Greeks  related  stories
@@ -6213,8 +5764,7 @@ to  the  sea,  from  Pasto  to  Chile,  a  distance  of  more  than  twelve
 hundred  leagues.  If  this  small  portion  was  ever  yunca,
 the  whole  of  the  rest  of  that  region  which  slopes  towards
 the  sea  must  also  have  been  yunca,  which  the  people  deny ;
-therefore  this  district  cannot  have  been  so.  For  there  can-
-not have  been  a  change  of  climate  affecting  this  small  dis-
+therefore  this  district  cannot  have  been  so.  For  there  cannot have  been  a  change  of  climate  affecting  this  small  dis-
 trict without  breaking  the  chain  of  mountains,  and  then
 continuing  it  again,  which  is  absurd.  How,  too,  could  they
 know  this  if,  as  they  say,  it  was  before  the  deluge,  when
@@ -6237,8 +5787,7 @@ farms  and  cultivation  ?  I  reply  that,  God  permitting,  the
 Devil  could  easily  make  those  terraces  to  deceive  those  who,
 leaving  the  natural  light  of  God,  served  him.
 
-7  The  origin  of  the  tradition  is  clear  enough.  The  people  of  Iluaro-
-chiri  originally  came  from  the  coast,  and  hence  they  said  that  the  land
+7  The  origin  of  the  tradition  is  clear  enough.  The  people  of  Iluarochiri  originally  came  from  the  coast,  and  hence  they  said  that  the  land
 of  their  ancestors  was  hot.
 
 
@@ -6257,8 +5806,7 @@ that  in  the  time  after  the  deluge,  in  every  district,  the
 Indians  chose  the  richest  and  most  valiant  man  among  them
 for  their  leader,  and  this  period  they  call  Purunpacha,8
 which  means  the  time  when  there  was  no  king.  They  say
-that  in  those  days  there  appeared  five  large  eggs  on  a  moun-
-tain between  Huarochiri  and  Chorrillo,  towards  the  south,
+that  in  those  days  there  appeared  five  large  eggs  on  a  mountain between  Huarochiri  and  Chorrillo,  towards  the  south,
 (and  this  is  the  origin  of  Pariacaca)  called  Condorcoto.  At
 that  time  there  lived  a  poor  and  ill-clad  Indian  named
 Huathiacuri,  who,  they  say,  was  a  son  of  Pariacaca,  and
@@ -6291,8 +5839,7 @@ that  a  man  who  was  so  wise  and  rich,  and  was  a  God  and
 Creator,  should  be  so  ill  and  be  unable  to  cure  himself.  So
 they  began  to  murmur  against  him.  During  all  this  time
 the  pretended  God  did  not  fail  to  seek  for  remedies,  trying
-various  cures,  procuring  extraordinary  medicines,  and  send-
-ing for  all  who  had  any  knowledge  of  the  healing  art.  But
+various  cures,  procuring  extraordinary  medicines,  and  sending for  all  who  had  any  knowledge  of  the  healing  art.  But
 all  was  of  no  avail,  and  there  was  no  man  who  understood
 either  the  disease  or  the  cure.  At  this  time  they  say  that
 Huathiacuri  journeyed  towards  the  sea,  and  "slept  on  that
@@ -6306,8 +5853,7 @@ was  very  sick,  and  was  taking  extraordinary  pains  to  get
 cured,  and  to  assemble  learned  men  who  could  tell  him  the
 cause  of  his  illness,  and  that  no  one  understood  it.  But,"
 added  the  fox,  "  the  real  cause  is  that,  when  his  wife  was
-toasting  a  little  maize,  one  grain  fell  on  her  skirt,  as  hap-
-pens every  day.  She  gave  it  to  a  man  who  ate  it,  and
+toasting  a  little  maize,  one  grain  fell  on  her  skirt,  as  happens every  day.  She  gave  it  to  a  man  who  ate  it,  and
 afterwards  she  committed  adultery  with  him.  This  is  the
 reason  that  the  rich  man  is  sick,  and  a  serpent  is  now
 hovering  over  his  beautiful  house  to  eat  it,  while  a  toad
@@ -6331,8 +5877,7 @@ sick  God)  if  any  one  was  ill.  She  said,  "  Yes,  my  father  is
 sick."  He  replied  :  "  If  you  will  consent  to  show  me  favour
 and  to  love  me,  I  will  cure  your  father."  The  name  of  this
 girl  is  not  known,  although  some  say  that  she  is  the  same
-who  was  called  Chaupinaca.  But  she  did  not  wish  to  con-
-sent, so  she  went  to  her  father  and  told  him  that  a  dirty
+who  was  called  Chaupinaca.  But  she  did  not  wish  to  consent, so  she  went  to  her  father  and  told  him  that  a  dirty
 ragged  man  said  he  could  cure  him.  Then  all  the  wise  men
 who  were  assembled  laughed  heartily,  saying  that  none  of
 them  could  effect  a  cure,  and  how  much  less  could  this  poor
@@ -6396,10 +5941,8 @@ think  this.  So  one  day  he  said  to  Huathiacuri,  "Brother,  I
 am  concerned  that  you,  as  my  brother-in-law,  should  be
 ragged  and  poor,  when  I  am  so  rich  and  powerful  and  so
 honoured  by  the  people.  Let  us  choose  something  at  which
-we  may  compete,  that  one  may  overcome  the  other."  Hua-
-thicuii  accepted  the  challenge.  Then  he  took  the  road  to
-Condorcoto,  and  went  to  the  place  where  his  father  Parra-
-caca  was  in  one  of  the  eggs,  and  told  him  what  had  taken
+we  may  compete,  that  one  may  overcome  the  other."  Huathicuii  accepted  the  challenge.  Then  he  took  the  road  to
+Condorcoto,  and  went  to  the  place  where  his  father  Parracaca  was  in  one  of  the  eggs,  and  told  him  what  had  taken
 place.     Pariacaca  said  that  it  was  well  to  accept  any  chal-
 
 
@@ -6412,8 +5955,7 @@ village.
 One  day  his  brother-in-law  said — ' '  Now  let  us  see  which
 can  vanquish  the  other  in  drinking  and  dancing  on  such  a
 day."  So  Huathiacuri  accepted  the  challenge,  and  posted  off
-to  his  father  Pariacaca,  who  told  him  to  go  to  a  neighbour-
-ing mountain,  where  he  would  turn  into  a  dead  huanacu.
+to  his  father  Pariacaca,  who  told  him  to  go  to  a  neighbouring mountain,  where  he  would  turn  into  a  dead  huanacu.
 Next  morning  a  fox  with  its  vixen  would  come  to  the  place,
 bringing  a  jar  of  chicha  on  her  back,  while  the  fox  would
 have  a  flute  of  many  pipes  called  astara.  These  would  have
@@ -6437,8 +5979,7 @@ beaten  by  more  than  two  hundred  women.  While  this  was
 going  on  Huathiacuri  entered  with  his  wife,  dancing  with  her,
 and  she  charging  his  cup  and  playing  on  a  drum.  At  the  first
 sound  of  her  drum  the  whole  earth  began  to  shake,  as  if  it
-was  keeping  time  to  the  music,  so  that  they  had  the  ad-
-vantage of  the  rich  man,  for  not  only  the  people  but  the
+was  keeping  time  to  the  music,  so  that  they  had  the  advantage of  the  rich  man,  for  not  only  the  people  but  the
 earth  itself  danced.  Presently  they  went  to  the  place  where
 they  kept  the  drinking  bouts,  and  the  brother-in-law  and  all
 his  friends  came  to  beat  Huathiacuri  in  drinking,  thinking
@@ -6448,8 +5989,7 @@ his  friends  came  to  beat  Huathiacuri  in  drinking,  thinking
 
 that  it  was  impossible  for  him  to  drink  alone  as  much  as  the
 rich  man  and  all  his  friends.  But  they  were  deceived,  for
-he  drank  all  they  gave  him  without  showing  a  sign  of  hav-
-ing had  enough.  Then  he  rose  and  began  to  drink  to  those
+he  drank  all  they  gave  him  without  showing  a  sign  of  having had  enough.  Then  he  rose  and  began  to  drink  to  those
 who  were  seated,  his  wife  filling  the  cups  with  chicha  from
 the  fox's  jug.  They  laughed,  because  they  thought  that
 before  he  had  given  cups  to  two  of  them  the  jug  would  be
@@ -6460,24 +6000,20 @@ he  came  out  as  a  conqueror.
 When  the  brother-in-law  saw  how  badly  he  came  out  of
 this  encounter  he  determined  to  try  another,  which  was  that
 each  should  come  dressed  in  festive  attire,  with  splendid
-plumes  of  various  colours.  Huathiacuri  accepted  this  chal-
-lenge also,  and  went  for  help  to  his  father  Pariacaca,  who
+plumes  of  various  colours.  Huathiacuri  accepted  this  challenge also,  and  went  for  help  to  his  father  Pariacaca,  who
 dressed  him  in  a  shirt  of  snow,  and  so  he  vanquished  his
 brother-in-law  once  more.
 
-Then  the  brother-in-law  challenged  him  once  more,  say-
-ing that  people  should  now  see  who  could  enter  the  public
+Then  the  brother-in-law  challenged  him  once  more,  saying that  people  should  now  see  who  could  enter  the  public
 square,  with  the  best  lion-skin  on  his  shoulders,  for  dancing.
 Huathiacuri  went  again  to  his  father  Pariacaca,  who  sent
-him  to  a  fountain,  where  he  said  he  would  find  a  red  lion-
-skin  with  which  to  meet  the  challenge  ;  and  when  he  en-
+him  to  a  fountain,  where  he  said  he  would  find  a  red  lionskin  with  which  to  meet  the  challenge  ;  and  when  he  en-
 tered the  square,  men  saw  that  there  was  a  rainbow  round
 the  lion's  head  ;  so  Huathiacuri  again  obtained  a  victory.
 
 Still  the  conquered  brother-in-law  was  determined  to
 have  a  final  trial.  This  was  a  challenge  for  each  to  build  a
-house  in  the  shortest  time  and  in  the  best  manner.  Hua-
-thiacuri accepted  it ;  and  the  rich  man  at  once  began  to
+house  in  the  shortest  time  and  in  the  best  manner.  Huathiacuri accepted  it ;  and  the  rich  man  at  once  began  to
 collect  his  numerous  vassals,  and  in  one  day  he  had  nearly
 finished  the  walls,  while  Huathiacuri,  with  only  his  wife  to
 help  him,  had  scarcely  begun  the  foundations.  During  the
@@ -6501,8 +6037,7 @@ off  their  loads,  and  all  the  straw  was  lost.
 At  the  end  of  this  competition  Huathiacuri,  by  advice  of
 his  father  Pariacaca,  determined  to  put  an  end  to  the
 affair ;  so  he  said  to  the  rich  man,  "  Brother,  now  you  have
-seen  that  I  have  agreed  to  everything  that  you  have  pro-
-posed. It  is  reasonable,  therefore,  that  you  should  now  do
+seen  that  I  have  agreed  to  everything  that  you  have  proposed. It  is  reasonable,  therefore,  that  you  should  now  do
 the  same;  and  I  propose  that  we  should  both  see  who
 dances  best,  in  a  blue  shirt  with  a  white  cotton  haara  round,
 the  loins.  The  rich  man  accepted  the  challenge,  and,  as
@@ -6542,12 +6077,10 @@ the  rich  Indian,  whom  we  have  mentioned  in  this  chapter
 as  having  pretended  to  be  God,  perished,  because  Pariacaca
 and  the  others  raised  a  great  storm  and  a  flood  which  carried
 him  and  his  house  and  wife  and  family  away  into  the  sea.
-The  site  of  this  man's  house  is  between  two  very  lofty  moun-
-tains, the  one  called  Vicocha,  near  the  parish  of  Chorrillo,
+The  site  of  this  man's  house  is  between  two  very  lofty  mountains, the  one  called  Vicocha,  near  the  parish  of  Chorrillo,
 and  the  other  Llantapa,  in  the  parish  of  San  Damian,  and
 between  them  flows  the  river  of  Pachacamac.  There  was  a
-sort  of  bridge,  consisting  of  a  great  tree  called  pullao,  form-
-ing a  most  beautiful  arch  from  one  hill  to  the  other,  where
+sort  of  bridge,  consisting  of  a  great  tree  called  pullao,  forming a  most  beautiful  arch  from  one  hill  to  the  other,  where
 a  great  variety  of  parrots  and  other  birds  passed  to  and  fro.
 All  this  was  swept  away  by  the  flood.
 
@@ -6558,8 +6091,7 @@ Having  come  forth  from  the  five  eggs  with  his  four
 brothers,  and  having  caused  the  above  tempest,  Pariacaca
 aspired  to  perform  great  and  mighty  deeds  throughout  the
 world,  though  the  region  he  traversed  did  not  exceed  twenty
-leagues  in  circuit.  Especially  he  conceived  the  idea  of  en-
-countering the  valiant  Caruyuchu  Huayallo,  to  whom  they
+leagues  in  circuit.  Especially  he  conceived  the  idea  of  encountering the  valiant  Caruyuchu  Huayallo,  to  whom  they
 sacrificed  children,  as  we  have  related  in  the  first  chapter.
 So  Pariacaca  went  in  search  of  Caruyuchu,  of  whose  end
 and  defeat  I  shall  speak  presently  ;  but  first  I  must  relate
@@ -6568,16 +6100,14 @@ what  happened  to  Pariacaca  on  the  road.
 
 OF   THE    INDIANS    OP    HUAROCHIRI.  143
 
-On  his  way  from  Condorcoto  to  the  residence  of  Caruyu-
-chu,  he  came  to  the  place  where  now  stands  the  village  of
+On  his  way  from  Condorcoto  to  the  residence  of  Caruyuchu,  he  came  to  the  place  where  now  stands  the  village  of
 Santa  Maria  de  Jesus  de  Huarochiri,  at  the  bottom  of  the
 ravine  in  which  the  river  flows,  and  by  which  one  goes  to
 the  parish  of  Quinti.1  Here  there  was  a  village  called
 Huagaihusa,  where  they  were  celebrating  a  great  festival.
 It  is  to  be  noted  that  all  this  country  was  then  yunca,  with
 a  hot  climate,  according  to  the  false  opinion  of  the  Indians.
-Pariacaca  entered  the  place,  where  all  the  people  were  drink-
-ing, in  the  dress  of  a  poor  man,  and  he  sat  down  with  the
+Pariacaca  entered  the  place,  where  all  the  people  were  drinking, in  the  dress  of  a  poor  man,  and  he  sat  down  with  the
 others,  but  at  the  end  of  all,  as  is  the  custom  with  those
 who  are  not  invited.  But  no  man  drank  to  him  nor  gave
 him  to  drink  during  the  whole  day.  Seeing  this,  a  girl  was
@@ -6601,8 +6131,7 @@ on  the  fifth  day  she  took  good  care  to  go  far  away  from  the
 village  with  her  children,  brothers,  and  relations ;  leaving
 the  rest  of  the  inhabitants  off  their  guard,  and  still  engaged
 in  drinking  and  feasting.  But  the  enraged  Pariacaca  had
-ascended  a  high  mountain  called  Matro-coto,  which  over-
-hangs the  village  of  Huarochiri,  and  below  which  there  is
+ascended  a  high  mountain  called  Matro-coto,  which  overhangs the  village  of  Huarochiri,  and  below  which  there  is
 6  San  Lorenzo  de  Quinti.
 
 
@@ -6615,8 +6144,7 @@ white  stones,  which  carried  the  village  away  into  the  sea,  so
 that  no  man  escaped.  This  flood  is  still  a  tradition  among
 the  people  of  Huarochiri,  and  some  high  banks  were  left,
 which  may  be  seen  before  arriving  at  the  village.  Having
-completed  this  work,  Pariacaca,  without  speaking  to  any-
-one in  the  other  villages,  or  communicating  with  them,
+completed  this  work,  Pariacaca,  without  speaking  to  anyone in  the  other  villages,  or  communicating  with  them,
 crossed  over  to  the  other  side  of  the  river,  where  he  did
 what  I  shall  describe  in  the  following  chapter.
 
@@ -6677,10 +6205,8 @@ afterwards  she  would  let  him  do  what  he  liked.
 He  then  examined  the  country,  to  see  whence  he  could
 draw  the  water  ;  and  he  observed  that  above  the  site  of  the
 present  village  of  San  Lorenzo  (in  which  that  Ayllu  Copara
-now  resides)  a  very  small  rill  came  from  the  ravine  of  Goca-
-clialla,  the  waters  of  which  did  not  flow  beyond  a  dam  which
-had  been  thrown  across  it.  By  opening  this  dam  and  lead-
-ing the  water  onwards,  it  appeared  to  Pariacaca  that  it
+now  resides)  a  very  small  rill  came  from  the  ravine  of  Gocaclialla,  the  waters  of  which  did  not  flow  beyond  a  dam  which
+had  been  thrown  across  it.  By  opening  this  dam  and  leading the  water  onwards,  it  appeared  to  Pariacaca  that  it
 would  reach  the  farms  of  the  Ayllu  Copara,  where  were  the
 fields  of  his  lady-love.  So  he  ordered  all  the  birds  in  those
 hills  and  trees  to  assemble,  together  with  all  the  snakes,
@@ -6694,13 +6220,11 @@ L
 obstruction.  This  they  did ;  and  he  then  caused  them  to
 widen  the  channel  and  to  make  new  channels  until  the  water
 reached  the  farms.  There  was  a  discussion  as  to  who  should
-make  the  line  for  the  channel,  and  there  were  many  pre-
-tenders to  this  duty,  who  wished  to  show  their  skill  as  well
+make  the  line  for  the  channel,  and  there  were  many  pretenders to  this  duty,  who  wished  to  show  their  skill  as  well
 as  to  gain  the  favour  of  their  employer.  But  the  fox
 managed,  by  his  cunning,  to  get  the  post  of  engineer ;  and
 he  carried  the  line  of  the  canal  to  the  spot  just  above  the
-present  site  of  the  church  of  San  Lorenzo.  Then  a  par-
-tridge came  flying  and  making  a  noise  like  Pich-pich,  and
+present  site  of  the  church  of  San  Lorenzo.  Then  a  partridge came  flying  and  making  a  noise  like  Pich-pich,  and
 the  unconscious  fox  let  the  water  flow  off  down  the  hill.
 So  the  other  labourers  were  enraged,  and  ordered  the  snake
 to  take  the  fox's  place,  and  to  proceed  with  what  he  had
@@ -6723,8 +6247,7 @@ anywhere  alone,  but  always  desired  to  accompany  him ;  and
 he  took  her  to  the  head-works  of  the  irrigating  channel,
 which  he  had  constructed  for  her  love.  There  she  felt  a
 strong  wish  to  remain,  and  he  again  consented,  so  she  was
-converted  into  a  stone,  while  Pariacaca  went  up  the  moun-
-tains. Thus  Choque  Suso  was  turned  into  a  stone  at  the
+converted  into  a  stone,  while  Pariacaca  went  up  the  mountains. Thus  Choque  Suso  was  turned  into  a  stone  at  the
 head  of  the  channel,  which  is  called  Cocochalla.
 3   Yana,  black.     Caca,  a  rock.
 
@@ -6806,8 +6329,7 @@ to    dominate  and    conquer   in   the    districts    round  Cuzco,
 
 152  REPORT  BY  POLO  DE  ONBEGARDO.
 
-and,  as  would  appear  from  their  records,  they  were  some-
-times defeated.  For,  although  Andahuaylas,  in  the  province
+and,  as  would  appear  from  their  records,  they  were  sometimes defeated.  For,  although  Andahuaylas,  in  the  province
 of  the  Chancas,  is  only  thirty  leagues  from  Cuzco,  they  did
 not  bring  it  under  their  sway  until  the  time  of  Pachacutec
 Yupanqui  Ynca,  who  defeated  those  Chancas.  The  history
@@ -6818,8 +6340,7 @@ On  the  other  side  of  Cuzco  is  the  road  of  Colla-suyu ;  and
 they  also  retain  a  recollection  of  the  time  when  the  Canas
 and  Canches,  whose  country  is  even  nearer,  were  paid  to
 go  with  the  Yncas  to  the  wars,  and  not  as  vassals  following
-their  lords ;  and  this  was  in  the  same  battle  in  which  Pa-
-chacutec Ynca  fought  against  Usco-vilca/  Lord  of  the  Chan-
+their  lords ;  and  this  was  in  the  same  battle  in  which  Pachacutec Ynca  fought  against  Usco-vilca/  Lord  of  the  Chan-
 cas. They  also  recollect  the  time  when  they  extended  their
 dominion  along  this  road  to  the  lake  of  Yillca-nota,  the
 point  where  the  Collao  begins.  Two  powerful  rivers  flow
@@ -6828,11 +6349,9 @@ to  the  south.  The  lake  was  worshipped  by  the  natives,  and
 looked  upon  as  a  noted  huaca.  A  long  interval  of  time
 elapsed  before  the  Yncas  advanced  beyond  this  point.  It
 was  the  successor  of  that  lord  who  conquered  the  Chancas
-who  began  to  advance  beyond  this  point,  and  those  pro-
-vinces had  no  peace  until  the  time  of  Tupac  Ynca,  father  of
+who  began  to  advance  beyond  this  point,  and  those  provinces had  no  peace  until  the  time  of  Tupac  Ynca,  father  of
 Huayna  Ccapac.  We  found  these  wars  recorded  in  the
-registers  of  the  Yncas,  but  each  province  also  had  its  regis-
-ters of  wars,  so  that,  if  it  were  necessary,  we  might  very
+registers  of  the  Yncas,  but  each  province  also  had  its  registers of  wars,  so  that,  if  it  were  necessary,  we  might  very
 easily  fix  the  time  when  each  province  was  subjugated  by
 the  Yncas.
 
@@ -6859,10 +6378,8 @@ from  a  war  during  a  year.
 
 No  province  ever  attempted  to  disturb  them  in  their  own
 land,  only  seeking  to  be  left  in  quiet  possession  of  their
-territories,  and  this  seems  to  me  to  have  been  a  great  ad-
-vantage to  the  Yncas.  There  is  no  memory  of  such  an
-attempt  in  their  registers ;  but,  after  the  districts  were  re-
-duced to  obedience,  the  great  natural  strength  of  this  region
+territories,  and  this  seems  to  me  to  have  been  a  great  advantage to  the  Yncas.  There  is  no  memory  of  such  an
+attempt  in  their  registers ;  but,  after  the  districts  were  reduced to  obedience,  the  great  natural  strength  of  this  region
 conduced  to  its  security.  The  four  roads  which  diverge
 from  Cuzco  are  all  crossed  by  rivers  that  cannot  be  forded
 at  any  time  in  the  year,  while  the  land  is  very  rugged  and
@@ -6891,8 +6408,7 @@ from  Cuzco,  where  a  window  was  carved  in  masonry  in  most
 
 ancient  times ;  that  these  persons  multiplied  and  spread
 over  the  world.  Hence  every  province  had  a  like  place  of
-worship  where  people  came  forth  after  the  universal  destruc-
-tion j  and  these  places  were  pointed  out  by  their  old  men  and
+worship  where  people  came  forth  after  the  universal  destruction j  and  these  places  were  pointed  out  by  their  old  men  and
 wizards,  who  taught  them  why  and  how  the  Yncas  venerated
 the  cave  of  Paccari-tampu.  Thus  in  every  province  these
 places  of  worship  are  to  be  found,  each  one  with  a  different
@@ -6907,8 +6423,7 @@ army  out  of  the  fugitives,  and  out  of  the  garrison  of  Cuzco,
 and  out  of  the  men  of  Canes  and  Canches,  and  turned  back
 to  attack  the  Chancas.  Before  he  set  out  his  mother  had  a
 dream  that  the  reason  of  the  victory  of  the  Chancas  was
-that  more  veneration  was  shown  for  the  Sun  than  Pachay-
-achachic,  who  was  the  universal  Creator.  Henceforward  a
+that  more  veneration  was  shown  for  the  Sun  than  Pachayachachic,  who  was  the  universal  Creator.  Henceforward  a
 promise  was  made  that  more  sacrifices  and  prayers  should
 be  offered  to  that  statue.  Then  the  son  was  promised  a
 victory  over  the  Chancas,  and  that  men  should  be  sent  from
@@ -6937,8 +6452,7 @@ the  natives,  who  had  previously  been  widely  scattered,  to  live
 in  communities,  with  an  officer  over  every  ten,  another
 over  every  hundred,  another  over  every  thousand,  another
 over  every  ten  thousand,  and  an  Ynca  governor  over
-all,  who  reported  upon  the  administration  every  year,  re-
-cording the  births  and  the  deaths  that  had  occurred  among
+all,  who  reported  upon  the  administration  every  year,  recording the  births  and  the  deaths  that  had  occurred  among
 men  and  flocks,  the  yield  of  the  crops,  and  all  other  details,
 with  great  minuteness.  They  left  Cuzco  every  year,  and
 returned  in  February  to  make  their  report,  before  the  festival
@@ -6950,14 +6464,12 @@ be,  entered  Cuzco  with  a  burden  on  his  back.  This  was  a
 ceremony  that  was  never  dispensed  with,  and  it  gave  great
 authority  to  the  Yncas.
 
-The  fourth  thing  is  that  in  every  place  where  a  settle-
-ment or  village  community  was  formed,  the  land  was  divided
+The  fourth  thing  is  that  in  every  place  where  a  settlement or  village  community  was  formed,  the  land  was  divided
 in  the  following  manner  :  one  portion  was  set  apart  for  the
 support  of  religion,  being  divided  between  the  Sun  and  the
 Pachayachachic,  and  the  thunder,  which  they  called  Chuquilla,
 and  the  Pacha-mama  and  their  ministers,  and  other  huacas
-and  places  of  worship,  both  general  and  such  as  were  pecu-
-liar to  each  village.  It  would  take  long  to  enumerate  them,
+and  places  of  worship,  both  general  and  such  as  were  peculiar to  each  village.  It  would  take  long  to  enumerate  them,
 for  they  were  so  numerous  that,  if  they  had  had  nothing  else
 to  do,  the  sacrifices  alone  would  have  given  them  occupation.
 For  each  town  was  divided  in  the  same  way  as  Cuzco,  and
@@ -6971,38 +6483,30 @@ to  offer  up.    Although  in  no  part  wore  there  so  many  objects
 
 156  EEPORT  BY  POLO  DE  ONDEGARDO.
 
-of  worship  as  in  Cuzco,  yet  the  order  and  manner  of  wor-
-shipping was  the  same.
+of  worship  as  in  Cuzco,  yet  the  order  and  manner  of  worshipping was  the  same.
 
-A  knowledge  of  the  huacas  and  places  of  worship  is  very-
-important  for  the  work  of  conversion.  I  have  a  knowledge
+A  knowledge  of  the  huacas  and  places  of  worship  is  veryimportant  for  the  work  of  conversion.  I  have  a  knowledge
 of  them  in  more  than  a  hundred  villages  ;  and  when  the
 Lord  Bishop  of  Charcas  doubted  whether  the  custom  was
-so  universal,  at  a  time  when  we  were  in  a  joint  com-
-mission by  order  of  his  Majesty,  I  showed  him  the  truth  of
+so  universal,  at  a  time  when  we  were  in  a  joint  commission by  order  of  his  Majesty,  I  showed  him  the  truth  of
 it  in  Cuzco.  And  although  the  discovery  of  these  things
 has  taken  time,  yet  it  has  been  necessary  as  regards  the
 question  of  tribute  and  contributions.  For  a  very  large
 portion  of  the  harvests  was  set  apart  for  this  service,  and
-stored  in  places  prepared  for  the  purpose.  Part  was  ex-
-pended on  the  sacrifices  of  the  villages,  and  a  larger  share
+stored  in  places  prepared  for  the  purpose.  Part  was  expended on  the  sacrifices  of  the  villages,  and  a  larger  share
 was  taken  to  Cuzco  from  all  parts.  The  portions  thus  set
-apart  were  from  a  third  to  a  fourth,  varying  in  different  dis-
-tricts. In  many  villages  all  belonged  to  the  Sun,  such  as
-in  Arapa  and  others.  In  these  the  greater  part  was  de-
-voted to  sacrifices,  in  others  (belonging  to  the  Ynca)  not
+apart  were  from  a  third  to  a  fourth,  varying  in  different  districts. In  many  villages  all  belonged  to  the  Sun,  such  as
+in  Arapa  and  others.  In  these  the  greater  part  was  devoted to  sacrifices,  in  others  (belonging  to  the  Ynca)  not
 so  much.
 
 Another  share  of  the  produce  was  reserved  for  the  Ynca.
-This  was  stored  in  the  granaries  or  sent  to  Cuzco,  accord-
-ing to  the  necessities  of  the  Government.  For  it  was  not
+This  was  stored  in  the  granaries  or  sent  to  Cuzco,  according to  the  necessities  of  the  Government.  For  it  was  not
 always  disposed  of  in  the  same  way.  The  Ynca  supplied
 with  food  all  his  garrisons,  his  servants,  his  relations,  and
 the  chiefs  who  attended  upon  him,  out  of  this  share  of  the
 tribute,  which  was  brought  to  Cuzco  from  all  parts  of  the
 country.  In  time  of  war  the  provisions  from  some  parts
-were  sent  to  others,  in  addition  to  the  ordinary  consump-
-tion, and  there  was  such  order  in  these  arrangements  that
+were  sent  to  others,  in  addition  to  the  ordinary  consumption, and  there  was  such  order  in  these  arrangements  that
 no  mistake  ever  occurred.  Sometimes  the  stores  were  sent
 from  the  magazines  in  the  mountains  to  the  coast,  at  others
 from  the  coast  to  the  interior,  according  to  the  exigencies
@@ -7016,8 +6520,7 @@ in  the  magazines,  and  occasionally  there  was  an  accumulation
 sufficient  for  ten  years.
 
 There  can  be  no  doubt  that  this  share  of  the  Ynca  was
-well  managed.  I  visited  many  of  the  store-houses  in  differ-
-ent parts,  and  they  were,  without  comparison,  larger  and
+well  managed.  I  visited  many  of  the  store-houses  in  different parts,  and  they  were,  without  comparison,  larger  and
 better  than  those  set  apart  for  the  service  of  religion.
 
 The  lands  set  apart  for  the  tribute  of  the  Ynca  and  of
@@ -7056,8 +6559,7 @@ intention  to  grant  them,  nor  is  it  just  as  regards  the  estate
 of  the  Ynca.  Such  tribute  or  tax  was  levied  by  the  Ynca
 as  King  and  Lord,  and  not  as  a  private  person.  Hence
 arose  a  notable  mistake.  It  was  declared  that  all  the  farms
-of  coca  belonged  to  the  Ynca,  which  was  true,  and  there-
-fore they  appertain  to  his  Majesty.  He  could  grant  them
+of  coca  belonged  to  the  Ynca,  which  was  true,  and  therefore they  appertain  to  his  Majesty.  He  could  grant  them
 in  encomienda,  and  resume  them  at  the  end  of  the  term,  if
 he  so  pleased,  as  is  the  case  with  the  alcabalas  of  Valladolid.
 The  Fiscal  exerted  himself  to  prove  that  the  farms  belonged
@@ -7075,16 +6577,13 @@ The  Ynca  did  the  same  with  all  the  males  in  the  flocks,
 which  were  appropriated  for  the  service  of  himself  and  of
 religion,  being  left,  however,  in  the  same  district  where  they
 were  bred,  and  merely  counted.  No  female  was  included  in
-the  tribute.  The  pastures  and  hunting-grounds  were  demar-
-cated, that  the  flocks  might  not  be  passed  from  one  province
+the  tribute.  The  pastures  and  hunting-grounds  were  demarcated, that  the  flocks  might  not  be  passed  from  one  province
 to  another ;  but  that  each  might  have  its  assigned  limits.
 This  rule  has  also  given  rise  to  pretensions  on  the  part  of
 some,  to  the  flocks,  on  the  ground  that  they  belonged  to
 the  Sun  or  the  Ynca ;  and,  before  order  was  established,  a
-great  quantity  was  seized  on  this  pretext.  It  is  very  cer-
-tain that  if  his  Majesty  took  the  tribute  of  the  flocks,  he
-would  not  wish  that  it  should  be  given  out  of  what  the  In-
-dians held  as  their  own,  and  enjoyed  as  such  ;  but  only  from
+great  quantity  was  seized  on  this  pretext.  It  is  very  certain that  if  his  Majesty  took  the  tribute  of  the  flocks,  he
+would  not  wish  that  it  should  be  given  out  of  what  the  Indians held  as  their  own,  and  enjoyed  as  such  ;  but  only  from
 that  which  belonged  to  him,  from  having  been  given  by
 them  to  the  Ynca  and  to  religion.
 
@@ -7104,8 +6603,7 @@ for  a  portion,  though  a  small  one,  was  left  to  the  district,
 and  another  to  the  chief,  who  afterwards  granted  some  to
 his  servants.  Those  belonging  to  religion  and  to  the  Ynca
 were  called  Ccapac-llama,  and  the  others  Huachay -llama  ;
-which  means  rich  and  poor  beasts.  A  division  was  pro-
-hibited, and  to  this  day  they  are  all  enjoyed  in  common.
+which  means  rich  and  poor  beasts.  A  division  was  prohibited, and  to  this  day  they  are  all  enjoyed  in  common.
 
 In  the  matter  of  the  flocks  they  made  many  rules,  some  of
 which  were  so  conducive  to  their  preservation  that  it  would  be
@@ -7122,8 +6620,7 @@ without  harvests,  and  there  is  no  other  kind  of  produce.
 But,  by  reason  of  the  flocks,  they  are  richer  and  can  dress
 better  than  those  who  live  in  fertile  districts.  They  are
 very  healthy,  and  their  villages  are  more  populous  than
-those  in  the  warm  lands,  and  the  latter  are  even  more  fre-
-quently without  their  own  products,  than  those  who  possess
+those  in  the  warm  lands,  and  the  latter  are  even  more  frequently without  their  own  products,  than  those  who  possess
 flocks.  For  the  flocks  are  sent  down  with  wool,  and  return
 laden  with  maize,  aji,  and  pulses.  This  is  the  reason  that,
 in  the  rules,  a  hundred  Indians  of  the  barren  land,  though
@@ -7162,8 +6659,7 @@ distributed  the  cloth  to  each  man  according  to  the  quantity
 required  for  clothing  his  family,  no  account  was  taken  of
 what  such  a  person  might  have  of  his  own,  because  he  was
 supposed  to  enjoy  this  without  prejudice  to  his  enjoying  his
-share  with  the  rest,  even  if  a  family  possessed  a  large  quan-
-tity. It  is  important  to  decide  how  this  tribute  may  now
+share  with  the  rest,  even  if  a  family  possessed  a  large  quantity. It  is  important  to  decide  how  this  tribute  may  now
 be  taken,  with  due  regard  to  justice,  from  the  estates  of
 religion,  of  the  Ynca,  and  of  the  community.  For  in  the
 event  of  there  being  sufficient  for  the  payment  of  this  class
@@ -7177,8 +6673,7 @@ s  See  O.  de  la  Vega,  ii,  p.  378.
 EEPORT  BY  POLO  DE  ONDEGARDO.  161
 
 now  made  up.  For  if  one  Indian  only  has  a  single  head  of
-flock  it  will  be  taken  for  the  tribute,  while  if  another  pos-
-sesses a  hundred  head  no  more  than  one  will  be  taken.
+flock  it  will  be  taken  for  the  tribute,  while  if  another  possesses a  hundred  head  no  more  than  one  will  be  taken.
 This  consideration  gave  rise  to  their  own  custom  that  no
 man  should  pay  tribute  from  his  own  personal  property,  but
 only  from  the  work  of  his  hands,  all  working  as  a  community.
@@ -7199,10 +6694,8 @@ raise  it.  Consequently  when,  by  reason  of  the  flocks,  the
 tribute  is  to  be  paid  in  sheep,  it  is  necessary  to  ascertain  to
 whom  the  sheep  belong,  and  to  assess  the  mitimaes  and  the
 natives  separately.  Thus  the  difficulty  will  be  overcome,
-and  the  injustice  will  be  avoided.  The  community  is  com-
-posed of  rich  and  poor,  and  the  tribute  of  sheep  should
-be  distributed  among  those  who  breed  them,  without  in-
-cluding any  poor  man  who  happens  to  have  acquired  a  single
+and  the  injustice  will  be  avoided.  The  community  is  composed of  rich  and  poor,  and  the  tribute  of  sheep  should
+be  distributed  among  those  who  breed  them,  without  including any  poor  man  who  happens  to  have  acquired  a  single
 sheep.  For  this  immunity  should  be  granted,  and  the  matter
 is  of  sufficient  importance  to  justify  this  digression.
 
@@ -7245,15 +6738,13 @@ three,  so  that  the  Indians  have  to  pay  all  they  possess.
 Thus  the  men  and  their  families  suffer  throughout  the  year
 by  reason  of  the  tribute.
 
-On  the  death  of  an  owner  of  land,  the  heirs  and  descen-
-dants possessed  it  in  common,  without  the  power  of  dividing
+On  the  death  of  an  owner  of  land,  the  heirs  and  descendants possessed  it  in  common,  without  the  power  of  dividing
 it;  but  the  person  who  represented  the  Ayllu  had  the
 charge,  and  all  the  rest  enjoyed  the  fruits  in  common,  which
 were  divided  among  them  in  the  following  manner :  If  a  son
 of  the  first  possessor  had  six  sons,  and  another  son  had  two,
 each  one  had  equal  shares,  and  there  were  as  many  shares
-as  persons.  At  the  time  of  sowing  they  all  had  to  be  pre-
-sent to  divide  the  crop  ;  and  at  the  harvest  if  any  one,  even
+as  persons.  At  the  time  of  sowing  they  all  had  to  be  present to  divide  the  crop  ;  and  at  the  harvest  if  any  one,  even
 though  a  descendant,  had  not  been  at  the  sowing,  he  could
 neither  take  his  share  nor  give  it  to  another.  Yet  even  if
 he  was  absent  ten   years,  he  did  not  lose  his  right,  if  ho
@@ -7270,12 +6761,10 @@ in  this  manner.
 This  custom  of  each  descendant  having  a  right  to  a  share,
 should  be  known  when  any  business  connected  with  the
 levying  of  taxes  is  to  be  arranged.  Thus  the  lands  belonged
-to  the  whole  village,  and  he  who  did  not  work  at  the  sow-
-ing had  no  share  in  the  harvest.
+to  the  whole  village,  and  he  who  did  not  work  at  the  sowing had  no  share  in  the  harvest.
 
 The  reason  may  now  be  understood  why,  in  so  many
-lawsuits  that  are  submitted  to  the  Corregidores  and  Audi-
-encias,  scarcely  any  are  between  an  Indian  and  another  of
+lawsuits  that  are  submitted  to  the  Corregidores  and  Audiencias,  scarcely  any  are  between  an  Indian  and  another  of
 the  same  village,  but  between  one  village  and  another.
 
 After  the  Spaniards  came,  the  Indians  continued  for  a
@@ -7291,14 +6780,12 @@ the  road.  When  they  understood  that  these  reserved  lands
 might  be  sown  for  their  own  profit,  the  people  of  different
 villages  began  to  sow  them,  and  hence  arose  many  lawsuits.
 
-When  people  went  to  work  on  land  out  of  their  own  dis-
-trict, it  was  also  for  the  Ynca  and  religion,  and  the  land  set
+When  people  went  to  work  on  land  out  of  their  own  district, it  was  also  for  the  Ynca  and  religion,  and  the  land  set
 apart  for  this  was  called  suyus.  But  there  were  also  some
 Indians  left  to  irrigate  and  guard  these  suyus,  who,  though
 in  a  land  beyond  their  own  district,  were  always  subject  to
 their  chiefs,  and  not  to  the  chiefs  in  the  land  where  they
-resided.  These  are  a  different  class  of  men  from  the  initi-
-maes,  who  were  removed  from  the  jurisdiction  of  the  chiefs
+resided.  These  are  a  different  class  of  men  from  the  initimaes,  who  were  removed  from  the  jurisdiction  of  the  chiefs
 under  whom  they  were  born.
 
 
@@ -7307,8 +6794,7 @@ under  whom  they  were  born.
 It  should  bo  understood  how  those  lands  which  were
 tilled  belonged  to  the  sowers.  In  the  Collao,  where  no
 maize  can  be  raised,  the  people  had  lands  on  the  coast,
-and  sent  men  down  to  till  them,  near  Arequipa  for  in-
-stance. In  the  time  of  the  Marquis  of  Cariete,  who  was
+and  sent  men  down  to  till  them,  near  Arequipa  for  instance. In  the  time  of  the  Marquis  of  Cariete,  who  was
 Viceroy  of  these  kingdoms,7  owing  to  information  which  I
 supplied,  these  suyus  were  returned  as  belonging  to  the
 province  of  Chucuito,  but  all  the  others  surfer  by  reason  of
@@ -7318,18 +6804,15 @@ The  order  which,  up  to  this  time,  has  been  adopted  for
 the  conversion  of  the  Indians,  is  for  the  priests  to  visit  each
 village,  with  a  book  showing  who  are  baptized,  who  are
 married,  who  have  more  than  one  wife.  Thus  the  shepherd
-knows  his  sheep  and  is  known  by  them.  The  ancient  cus-
-tom by  which  no  man  moved  from  his  district,  was  a  marvel-
+knows  his  sheep  and  is  known  by  them.  The  ancient  custom by  which  no  man  moved  from  his  district,  was  a  marvel-
 lous aid.
 
-The  rules  of  New  Spain,  where  the  country  is  very  popu-
-lous, are  not  applicable  to  this  land.  This  was  well  under-
+The  rules  of  New  Spain,  where  the  country  is  very  populous, are  not  applicable  to  this  land.  This  was  well  under-
 stood by  that  prudent  and  illustrious  worthy  Don  Antonio
 de  Mendoza,8  whose  memory  will  long  be  cherished,  and
 whose  loss  will  be  felt  more  every  day  by  his  Majesty  and  by
 the  people  of  the  Indies.  At  the  end  of  a  year,  during  which
-he  had  studied  the  affairs  of  this  land,  though  he  was  suffer-
-ing from  illness,  he  said  that  before  issuing  any  orders  it
+he  had  studied  the  affairs  of  this  land,  though  he  was  suffering from  illness,  he  said  that  before  issuing  any  orders  it
 was  necessary  to  do  three  things — first,  to  see  the  country ;
 second,  to  know  the  capacity  of  the  Indians ;  and  third,  to
 understand  their  customs,  rules,  manner  of  living,  and  ancient
@@ -7350,8 +6833,7 @@ EEPOKT  BY  POLO  DE  ONDEGARDO.  165
 
 the  tribute  of  the  Ynca  and  of  religion  had  been  paid,  leave
 was  given  to  supply  the  requirements  of  the  people.  Yet
-the  game  multiplied  by  reason  of  the  regulations  for  its  con-
-servation, far  more  rapidly  than  it  was  taken,  as  is  shown
+the  game  multiplied  by  reason  of  the  regulations  for  its  conservation, far  more  rapidly  than  it  was  taken,  as  is  shown
 by  the  registers  they  kept,  although  the  quantity  required
 for  the  service  of  the  Ynca  and  of  religion  was  enormous.
 A  regular  account  was  kept  of  all  the  hunts,  a  thing  which
@@ -7396,8 +6878,7 @@ the  city  of  Cuzco.  They  were  strictly  watched  until  they
 reached  the  age  of  thirteen  or  fourteen  years  and  upwards,
 so  that  they  might  be  virgins  when  they  should  arrive  at
 Cuzco,  where  they  assembled  in  great  numbers  from  all
-the  provinces  in  the  middle  of  March.  The  order  of  dis-
-tribution was  as  follows  : — ■
+the  provinces  in  the  middle  of  March.  The  order  of  distribution was  as  follows  : — ■
 
 Women  were  taken  for  the  service  of  the  Sun,  and  placed
 in  the  temples,  where  they  were  kept  as  virgins.  In  the
@@ -7416,8 +6897,7 @@ woman  as  his  legitimate  wife  or  mamanchu,  he  could  not
 take  another  except  through  the  favour  of  the  Ynca,  which
 was  shown  for  various  reasons,  either  to  one  who  had
 special  skill  in  any  art,  or  to  one  who  had  shown  valour  in
-war,  or  had  pleased  the  Ynca  in  any  other  way.  The  num-
-ber of  women  who  were  set  apart  for  these  uses  was  very
+war,  or  had  pleased  the  Ynca  in  any  other  way.  The  number of  women  who  were  set  apart  for  these  uses  was  very
 great,  and  they  were  selected  without  any  regard  to  whom
 they  belonged,  but  merely  because  they  were  so  chosen  by
 the  Apa-panaca,  and  the  parents  could  not  excuse  or  redeem
@@ -7439,8 +6919,7 @@ quantities  of  this  cloth  were  distributed  by  the  Ynca  among
 the  soldiers,  and  were  given  to  his  relations  and  attendants.
 The  rest  was  deposited  in  the  store-houses,  and  was  found
 there  in  enormous  quantities  when  the  Spaniards  arrived  in
-these  kingdoms.  This  cloth  was  of  many  textures,  accord-
-ing to  the  uses  to  be  made  of  it.  Large  quantities  were
+these  kingdoms.  This  cloth  was  of  many  textures,  according to  the  uses  to  be  made  of  it.  Large  quantities  were
 made  of  the  very  rich  cumjpi,  woven  with  two  fronts.  A
 more  common  kind  was  made  for  the  sacrifices,  for  in  all
 the  festivals  much  cloth  was  offered  up.  For  these  supplies
@@ -7458,14 +6937,12 @@ universal  Creator,  the  Sun,  the  thunder  called  Chuquilla,
 the  Pachamama,  and  an  infinite  number  of  other  objects  of
 worship,  all  had  their  flocks  set  apart,  and  the  wool  from
 them  was  distributed  in  the  city  of  Cuzco  for  the  sacrifices,
-and  to  clothe  the  people  who  served  the  liuacas.  A  quan-
-tity of  cloth  was  also  used  for  the  service  of  the  houses
+and  to  clothe  the  people  who  served  the  liuacas.  A  quantity of  cloth  was  also  used  for  the  service  of  the  houses
 where  the  embalmed  bodies  of  the  Lords  Yncas  were  kept.
 Here  also  were  taken  all  kinds  of  food,  such  as  maize,  chunu,
 aji,  and  every  other  kind  of  provision  that  was  raised  in  the
 farms.  All  these  things  were  arranged  with  such  order,
-that  it  is  difficult  to  understand  how  the  accounts  and  re-
-gisters can  have  been  so  well  kept.
+that  it  is  difficult  to  understand  how  the  accounts  and  registers can  have  been  so  well  kept.
 
 
 1G8  REPORT  BY  POLO  DE  ONDEGAEDO.
@@ -7475,8 +6952,7 @@ provinces  was  also  required  in  the  city  of  Cuzco,  for  the
 Ynca  and  his  court.  Every  province  that  was  conquei-ed
 had  to  send  its  principal  idol  to  the  city  of  Cuzco,  and  the
 same  province  continued  to  provide  for  its  service  and
-sacrifices  in  the  same  order  as  when  it  was  in  the  pro-
-vince.
+sacrifices  in  the  same  order  as  when  it  was  in  the  province.
 
 Another  very  heavy  burden  consisted  in  the  supply  of
 men  for  war,  as  there  were  frequent  rebellions  in  various
@@ -7484,8 +6960,7 @@ parts  of  the  empire,  and  it  was  necessary  to  guard  all  the
 frontiers,  especially  along  the  river  of  Maule  in  Chile,  and
 on  the  Bracamoras  in  the  province  of  Quito,  and  towards
 that  of  Marcas,  and  in  the  province  of  the  Chirihuanas,
-bordering  on  Charcas,  and  towards  the  forests  of  the  Chun-
-chus  and  Mosus.  On  all  these  frontiers  we  still  meet  with
+bordering  on  Charcas,  and  towards  the  forests  of  the  Chunchus  and  Mosus.  On  all  these  frontiers  we  still  meet  with
 jpucaras  or  fortresses  where  the  garrisons  were  assembled,
 with  roads  leading  to  them.  Mitimaes  also  were  sent,  from
 different  provinces,  to  live  on  these  frontiers.
@@ -7495,15 +6970,13 @@ from  other  classes  of  tribute.  There  is  an  example  of  this
 in  the  province  of  Lucanas,  where  the  people  were  trained
 to  carry  the  litter  of  the  Ynca,  and  had  the  art  of  going  with
 a  very  even  and  equal  pace.  In  Chump ivilcas  the  people
-excelled  in  dancing,  and  many  were  exempted  on  that  ac-
-count. In  the  province  of  Chilcas  there  is  a  red  wood  of
+excelled  in  dancing,  and  many  were  exempted  on  that  account. In  the  province  of  Chilcas  there  is  a  red  wood  of
 excellent  quality  for  carving,  and  the  Chilcas  brought  it
 thence  to  Cuzco,  a  distance  of  two  hundred  leagues,  in  very
 great  quantities,  with  many  representations  carved  and
 painted  on  it.  The  wood  was  burnt  for  sacrifices  in  fires
 kindled  in  the  great  square,  in  presence  of  the  Ynca  and  of
-the  embalmed  bodies  of  the  dead  lords.  Thus  the  best  pro-
-duct of  each  province  was  brought  to  Cuzco.
+the  embalmed  bodies  of  the  dead  lords.  Thus  the  best  product of  each  province  was  brought  to  Cuzco.
 
 In  the  arrangement  of  tribute,  men  were  also  set  apart
 for  the  construction  of  public  works,  such  as  bridges  and
@@ -7524,12 +6997,10 @@ Ynca  from  Cuzco  to  any  other  point,  and  to  bring  back
 those  of  the  governors,  so  that  all  the  trausactions  and
 events  of  the  empire  were  known.  When  the  Ynca  wished
 to  send  anything  to  a  governor,  he  said  it  to  the  first
-chasqui,  who  ran  at  full  speed  for  a  league  and  a  half  with-
-out stopping,  and  passed  the  message  to  the  next  as  soon
+chasqui,  who  ran  at  full  speed  for  a  league  and  a  half  without stopping,  and  passed  the  message  to  the  next  as  soon
 as  he  was  within  hearing,  so  that  when  he  reached  the  post
 the  other  man  had  already  started.  They  say  that  from
-Cuzco  to  Quito,  a  distance  of  five  hundred  leagues,  a  mes-
-sage was  sent  and  another  returned  in  twenty  days.  I  can
+Cuzco  to  Quito,  a  distance  of  five  hundred  leagues,  a  message was  sent  and  another  returned  in  twenty  days.  I  can
 believe  this,  for  in  our  wars  we  have  sometimes  used  these
 chasquis,  and  as  it  was  an  ancient  custom,  they  readily  made
 the  arrangement.  In  this  way  letters  have  been  brought  from
@@ -7537,10 +7008,8 @@ Cuzco  to  Lima  in  three  days,  a  distance  of  a  hundred  and
 thirty  leagues,  over  a  very  bad  road.  The  Yncas  also  used
 these  chasquis  to  bring  up  fresh  fish  from  the  sea ;  and  they
 were  brought  up,  in  two  days,  a  distance  of  a  hundred  leagues.
-They  have  records  in  their  quipus  of  the  fish  having  some-
-times been  brought  from  Tumbez,  a  distance  of  more  than
-three  hundred  leagues.  The  food  of  the  chasquis  was  pro-
-vided from  the  store-houses  of  the  Ynca ;  for  those  who
+They  have  records  in  their  quipus  of  the  fish  having  sometimes been  brought  from  Tumbez,  a  distance  of  more  than
+three  hundred  leagues.  The  food  of  the  chasquis  was  provided from  the  store-houses  of  the  Ynca ;  for  those  who
 worked  for  the  Ynca's  service,  or  for  religion,  never  ate  at
 their  own  expense.
 
@@ -7571,8 +7040,7 @@ this  labour  was  added  the  conveyance  of  stones  from  great
 distances  by  force  of  men's  arms.  Any  one  who  has  seen
 their  edifices,  will  not  doubt  their  statements  that  thirty
 thousand  men  were  employed.  For  not  only  are  these
-works  above  the  ground,  such  as  those  in  the  city  and  for-
-tress, but  there  is  also  much  well-cut  masonry  underground,
+works  above  the  ground,  such  as  those  in  the  city  and  fortress, but  there  is  also  much  well-cut  masonry  underground,
 as  well  hewn  as  any  that  can  be  found  in  Spain.  As  they
 had  nothing  but  stone  tools,  it  seems  to  me  that  a  hundred
 Indians  could  not  work  and  shape  a  single  stone  in  a  month,
@@ -7585,8 +7053,7 @@ city  commences,  to  Angostura,  there  is  a  distance  of  three
 leagues,  a  little  more  or  less;  and  within  this  space  all  kinds
 of  stone  for  building  are  to  be  found,  black  and  white,  hard
 and  soft ;  and  all  the  stones  of  the  neighbouring  hills  aro
-excellent  for  lime  and  plaster.  I  have  examined  the  quar-
-ries, and  have  seen  their  ingenious  contrivances,  in  company
+excellent  for  lime  and  plaster.  I  have  examined  the  quarries, and  have  seen  their  ingenious  contrivances,  in  company
 
 
 EEPOET  BY  POLO  DE  ONDEGARDO.  171
@@ -7600,8 +7067,7 @@ leagues  of  the  spot,  will  understand  the  advantage  enjoyed
 by  Cuzco.
 
 This  service  was  exacted  throughout  the  kingdom  ;  it
-being  arranged  in  Cuzco  in  each  year,  as  regards  the  num-
-ber of  men  to  be  employed  and  the  work  to  be  done.
+being  arranged  in  Cuzco  in  each  year,  as  regards  the  number of  men  to  be  employed  and  the  work  to  be  done.
 
 
 Note. — This  report  is  incomplete  at  the  end,  and  the  copy  at  Madrid
@@ -7616,9 +7082,6 @@ THE    END.
 
 
 N   2
-
-
-INDEX.
 
 
 I.— SUBJECTS.
@@ -7655,15 +7118,12 @@ Comets,  95
 
 Confession.     Custom  of,  15
 
-Conquests.  Of  first  Ynca,  76  ;  of  Pachacutec,  93-96  ;  pro-
-gress of  by  the  Yncas,  152  (see  War)
+Conquests.  Of  first  Ynca,  76  ;  of  Pachacutec,  93-96  ;  progress of  by  the  Yncas,  152  (see  War)
 
 Coronation.     Ceremony,  105
 
 Costumes  (see  Dresses)
 
-
-1  74  INDEX.
 
 Creation.     Tradition  of,  4,  5,  6,  7
 
@@ -7723,8 +7183,6 @@ Heads.     Practice  of  compressing,  78,  82
 Human  sacrifices,  54,  79,  85,  100
 Hunting.     Rules  as  to,  164
 
-
-INDEX.  175
 
 Insignia  (see  Royal)
 Irrigation,  19
@@ -7820,8 +7278,7 @@ Superstitions  respecting  Spaniards,  60  (see  Devils,  Traditions)
 
 Tenure  (see  Land)
 
-Traditions  of  earliest  age,  70;  of  Tonapa,  71,  87;  of  Huana-
-cauri, 75  ;  in  Huarochiri,  123  ;  of  Coniraya  and  Cavil-
+Traditions  of  earliest  age,  70;  of  Tonapa,  71,  87;  of  Huanacauri, 75  ;  in  Huarochiri,  123  ;  of  Coniraya  and  Cavil-
 laca,  124;  of  Huathiacuri,  135;  of  Pariacaca,  144  (see
 Creation,  Deluge,  Origin)
 
@@ -7833,13 +7290,10 @@ ravished  by  order  of  Huascar  Ynca,  112;  rules  as  to,
 165  ;  sacrifice  of,  166
 
 War.  Of  the  Chancas,  91,  154;  with  the  Collas,  101;  with
-Quito,  108  ;  of  Huascar  and  Atahualpa,  113  (see  Con-
-quests)
+Quito,  108  ;  of  Huascar  and  Atahualpa,  113  (see  Conquests)
 
 Weaving,  78  (see  Cloth)
 
-
-INDEX.  177
 
 Wives,  54,  80,  1 Q6  (see  Marriage)
 
@@ -7892,8 +7346,6 @@ Anco-yacu  river,  114
 Anta.     Near  Cuzco,  9,  59,  120
 Ardamarca.     Huascar  Ynca  slain  at,  119
 
-
-178  INDEX.
 
 ■fAnti-suyu  province,  22,  27,  54,  96
 
@@ -7950,8 +7402,6 @@ Chillqui  (Ghollqui).     A  district  south  of  Cuzco  ;  now  called
 Paruro  {Alcedo,  i,  p.  413),  96
 
 
-INDEX.  179
-
 Chillqui-urpu,  93
 
 fChimu,  94,  108.     See  G.  de  la  Vega,  ii,  pp.  195,  424
@@ -7998,16 +7448,13 @@ fColla-suyu.     South  division  of  the  empire  of  the  Yncas,
 ■\\Gdlas.     A  tribe  in  the  northern  part  of  the  basin  of  lake
 
 Titicaca,  96,  100,  109
-■\\Gollao.     A  general  name  for  the  region  round  lake  Titi-
-caca, 164
+■\\Gollao.     A  general  name  for  the  region  round  lake  Titicaca, 164
 •fCollahua,  or  Caylloma.    A  lofty  region  between  Cuzco  and
 
 Arequipa  (Alccdo,  i,  p.  492),  159
 Collo-chahuay ,  103
 Colla-pampa,  94
 
-
-180  INDEX.
 
 Collca-pampa,  74,  75
 
@@ -8064,8 +7511,6 @@ Huancarama.   Between  the  Apurimac  and  Andahuaylas,  115
 ■flluancane.     On  the  north  side  of  lake  Titicaca,  100
 
 
-INDEX.  181
-
 ■\Huancavillca.     The  modern  Huancavelica,  94,  102
 •\%Huanucu  province,  94,  114
 Huaray -pacha,  22
@@ -8081,7 +7526,6 @@ Huayparya.     South  of  Cuzco,  22
 Sueur n,  87
 
 •\Hunn  Cuzco,  or  Lower  Cuzco,  22,  33,  43,  44,  47,  48,  76,
-151
 
 "fJaquijahuana  (see  Sacsahuana),  23.  See  G.  de  la  Vega,  i,
 p.  80;  ii,  p.  53.  Also  Gieza  de  Leon,  pp.  9,  32,  150,
@@ -8110,8 +7554,7 @@ Mantucalla.     Ynca  remained  at,  during  sacrifices,  18
 
 Maras.     A  village  north  of  Cuzco,  43
 
-fMarca-huasi.  About  ten  leagues  from  Cuzco,  in  the  pro-
-vince of  Abancay  (Alcedo,  ii,  p.  457),  23
+fMarca-huasi.  About  ten  leagues  from  Cuzco,  in  the  province of  Abancay  (Alcedo,  ii,  p.  457),  23
 
 •\Mascas.  Vanguard  in  Ynca's  army,  116.  See  G.  de  la
 Vega,  i,  p.  80
@@ -8122,8 +7565,6 @@ Matra-coto.     Mountain  in  Huarochiri,  143
 
 Mauli,  river,  168
 
-
-182  INDEX.
 
 Mulli-pumpa.     In  Urcos,  18
 ^Mulla-hanvpatu.     In  the  kingdom  of  Quito,  113
@@ -8146,7 +7587,6 @@ fPapris,  96,  102,  116.     See  G.  de  la  Vega,  i,  p.  80
 fParinacochas,  59,  96.     See  G.  de  la  Vega,  i,  p.  231
 f^Pastus,  99,  110.     See  G.  de  la  Vega,  i,  p.  40  ;  ii,  p.  241,
 
-350
 Pati.     A  plain  near  Andahuaylillas,  18
 Paucaray,  93
 
@@ -8160,7 +7600,6 @@ near  Cuzco,  4
 ■fPotosi.     In  Upper  Peru,  161
 "\Puca-marca,  at  Cuzco,  21,  118.     See  G.  de  la  Vega,  ii,  p.
 
-246
 ftPucara.     In  the  Collao,  6,  7,  100,  101
 Puipu-huana.     A  mountain  peak  in  Huarochiri,  144
 Puma-cancha,  18,  95,  108
@@ -8172,15 +7611,12 @@ Puna-marca,  92
 Puauina.     Near  Moquegua,  100  (Alcedo,  iv,  p.  236)
 
 
-INDEX.  183
-
 Puquinque,  47
 
 Pntina.    In  the  province  of  Azangaro,  near  lake  Titicaca,  83
 
 fQuehuar.  Vanguard  in  the  Ynca's  army,  116.  See  G.  de
-la  Vega,  \,  p.  80.  Quehiie  became  a  village  near  Che-
-cacupe,  in  the  vale  of  Vilcamayu  {Albedo,  iv,  p.  284)
+la  Vega,  \,  p.  80.  Quehiie  became  a  village  near  Checacupe,  in  the  vale  of  Vilcamayu  {Albedo,  iv,  p.  284)
 
 Quepay-pampa,  118
 
@@ -8203,8 +7639,7 @@ Quillis-cachis.     Aborigines  of  Cuzco,  110,  116
 
 Quilluas,  159
 
-■^Quiquisana.  A  village  in  Quispicanchi,  in  the  vale  of  Vil-
-camayu, south  of  Cuzco  {Alcedo,  iv,  p.  293),  18,  22,  96
+■^Quiquisana.  A  village  in  Quispicanchi,  in  the  vale  of  Vilcamayu, south  of  Cuzco  {Alcedo,  iv,  p.  293),  18,  22,  96
 
 Quinti.     In  Huarochiri,  143
 
@@ -8238,8 +7673,6 @@ Sacalpina.     A  league  from  Cuzco,  54
 
 fSacsahuaman.     Fortress  at  Cuzco,  88,  90,  93,  90,  103,  106
 
-
-184  INDEX.
 
 •flSacsahuana,  12,  119
 
@@ -8295,8 +7728,6 @@ Tilca,  23
 
 Tiquina.     South  part  of  lake  Titicaca,  73
 
-
-INDEX.  185
 
 fTlticaca,  5,  60,  112
 
@@ -8359,9 +7790,6 @@ iYuncaypampa,  91
 ■fYucay,  151
 
 
-186  INDEX.
-
-
 III.— QUICHUA  WORDS.
 
 Some  are  corrupt,  and  cannot  be  made  out,  owing  to  errors  in
@@ -8391,12 +7819,10 @@ fAclla.  Chosen  women  (see  Yurac,  Huayra,  Pacu,  Yana)
 Vega,  i,  p.  292
 
 Acnv/pu,  29,  33.  Acnapuy  (Von  Tschudi,  p.  9),  or  Aenopuy
-(Mossi,  p.  5),  richly  dressed.  Acnani,  to  prepare  cere-
-monies.    Acnapuy,  pretty,  handsome  (Markham,  p.  67)
+(Mossi,  p.  5),  richly  dressed.  Acnani,  to  prepare  ceremonies.    Acnapuy,  pretty,  handsome  (Markham,  p.  67)
 
 Acoy-cunacataca.  Accoy,  innumerable  (Markham,  p.  65),
-Ouna,  the  plural  particle.  Taca,  a  particle  of  affirma-
-tion (Hohjuin,  p.  265)
+Ouna,  the  plural  particle.  Taca,  a  particle  of  affirmation (Hohjuin,  p.  265)
 
 Acsa.  The  only  word  resembling  this  is  Acsu,  the  skirt  or
 petticoat,  29
@@ -8409,8 +7835,7 @@ Alan-Situa-saqui.  A  song  at  the  Situa  festival.  Alan
 should  probably  be  Alau,  an  interjection,  26
 
 Allastu.  Allani  is  the  verb  "  I  dig".  Possibly  stu  should
-be  stin,  when  the  word  would  mean  '  the  time  for  dig-
-ging/ or  it  might  be  huaca,  a  proper  name,  32
+be  stin,  when  the  word  would  mean  '  the  time  for  digging/ or  it  might  be  huaca,  a  proper  name,  32
 
 Allcachispa.     Allcachini,  to  interpret,  31
 
@@ -8419,12 +7844,9 @@ Allcaiianiy.    From  Allcani,  to  leave  anything  undone,  79,  89
 nancyran
 
 
-INDEX.  187
-
 Alquenti  (see  Ccenti)
 
-Allpamantaca .  Mortal  (Allpamantueac),  or  that  which  be-
-comes earth  (Allpayac),  79
+Allpamantaca .  Mortal  (Allpamantueac),  or  that  which  becomes earth  (Allpayac),  79
 
 Allparnumachun.     For  Allpamanac,  mortal,  79
 
@@ -8433,11 +7855,9 @@ Ama.     Not,  31,  56
 Amacacachuncliu,  30
 
 Amacacharihuay .  Amacha  or  Amacacha,  a  defender.  Ri,
-a  particle,  denoting  a  beginning,  as  Amachani,  '  I  de-
-fend', Amacharini,  "  I  prepare  to  defend",  32
+a  particle,  denoting  a  beginning,  as  Amachani,  '  I  defend', Amacharini,  "  I  prepare  to  defend",  32
 
-Amachu-pAchu-pichu-chuncIiu.  Chu  is  an  interrogative  ad-
-verb.    Pi,  the  preposition  "  in".     Pichu,  30
+Amachu-pAchu-pichu-chuncIiu.  Chu  is  an  interrogative  adverb.    Pi,  the  preposition  "  in".     Pichu,  30
 
 AmamanacMspa,  56
 
@@ -8489,8 +7909,6 @@ Vega,  ii,  p.  356
 o2
 
 
-188  INDEX.
-
 Apacochan.     (Corrupt)
 
 Apoyunay.      Apuyupa,  "  one  in  high  authority '',  79
@@ -8504,9 +7922,7 @@ Quilla,  moon  idol,  102,  103
 
 Panaca,  governor  of  the  convents  of  women,  165
 
-Armicachun.  Probably  Armachachun.  Arma,  bath.  Cha-
-chun,  third  person  singular  imperative  of  Cani,  "I  am",
-33
+Armicachun.  Probably  Armachachun.  Arma,  bath.  Chachun,  third  person  singular  imperative  of  Cani,  "I  am",
 
 Arpay.     Blood  sacrifice,  79,  85,  115
 
@@ -8549,15 +7965,11 @@ Ayrihuay.     April,  33,  52
 
 Ayuscay-rutu-chica-quica-chica.  Ceremonies.  Garcillasso
 says  that  Ayusca  is  a  baby  that  pines  (i,  iv,  2).  Ayuni
-now,  but  not  in  ancient  times,  means  to  commit  adul-
-tery. Rutu,  to  shear,  and  Quicu,  to  comb.  Chica,  as,
-as  well  as,  so.  The  Ayuscay  was  when  a  woman  con-
-ceived ;  Rutu,  when  a  child  was  named  and  shorn  at
+now,  but  not  in  ancient  times,  means  to  commit  adultery. Rutu,  to  shear,  and  Quicu,  to  comb.  Chica,  as,
+as  well  as,  so.  The  Ayuscay  was  when  a  woman  conceived ;  Rutu,  when  a  child  was  named  and  shorn  at
 the  age  of  one ;  Quicu,  when  a  girl  reached  the  age  of
 puberty,  53
 
-
-INDEX.  189
 
 Cachra.     A  song,  but  the  word  is  corrupt,  89
 
@@ -8568,8 +7980,7 @@ Cani,  I  am,  31,  56
 
 according  to  G.  de  la  Vega,  ii,  p.  229
 Gagicta.     Accusative  form  of  the  above,  30,  56
-Cac-yoc.     An  old  form  of  ca,  "  but" ;  yoc,  a  particle  of  pos-
-session, 32
+Cac-yoc.     An  old  form  of  ca,  "  but" ;  yoc,  a  particle  of  possession, 32
 Cahuariusinay.      The  word  Cahuari   is    to  look  up ;    and
 
 Cahuarina  a  look-out  place,  89
@@ -8611,14 +8022,11 @@ Camascayqui.     Imperative  future  second  person,   29,   31,
 32,  33
 
 
-190  INDEX.
-
 Camasca.     A  wizard,  14
 
 Camay -quilla.     December,  47
 
-Camchomcanquiman.  Probably  for  Cachcanquiman.  Pre-
-terite of  the  optative  second  person  singular  of  the
+Camchomcanquiman.  Probably  for  Cachcanquiman.  Preterite of  the  optative  second  person  singular  of  the
 verb  Cani,  I  am.     "  0  that  you  were".     79
 
 Camtaca,  81
@@ -8669,8 +8077,7 @@ Carhua-yalli.     A  term  unexplained  by  Dr.  Avila,  122
 
 Cari  (Ccari).     A  man,  28,  86
 
-Cari-cachun.  Ccari,  a  man.  Cachun,  imperative  third  per-
-son of  Cani,  "  I  am"  ^
+Cari-cachun.  Ccari,  a  man.  Cachun,  imperative  third  person of  Cani,  "  I  am"  ^
 
 Cari-cachuyu.     Probably  for  Cari-cachun,  33
 
@@ -8678,8 +8085,6 @@ Cari-llacta.     Ccari  and  llacta,  a  village,  56
 
 Casilla.     Casi,  vain.     Casilla,  in  vain,  28,  30,  56
 
-
-INDEX.  191
 
 Casillacta,  30,  31,  56
 
@@ -8738,8 +8143,6 @@ Titicaca;  Chama,  joy;  Qxiispisutu,  crystal  drops;  Umu,
 
 water.   "The  royal  joy  bringing  crystal  water  drops",  87
 
-
-192  INDEX.
 
 Ccapac  achun.     An  exclamation,  31
 
@@ -8813,8 +8216,6 @@ lance  whence  a  fringe  was  suspended,  95
 119,  120,  121
 
 
-INDEX.  193
-
 Chasquihuoy,  29
 
 Chapa.     Sentry,  watch,  115
@@ -8838,8 +8239,7 @@ Chihuay.     A  bird,  29
 •fChilca.  A  shrub  (Baccharis  scandens),  118.  G.  de  la  Vega,
 i,  p.  187
 
-•fChipana.  A  woman's  breast;  a  lens  of  metal  for  con-
-centrating the  sun's  rays;  a  bracelet  worn  by  the  High
+•fChipana.  A  woman's  breast;  a  lens  of  metal  for  concentrating the  sun's  rays;  a  bracelet  worn  by  the  High
 Priest,  45,  106.     G.  de  la  Vega,  ii,  pp.  30,  163
 
 Chipicnispa.     Chipicnini,  I  wink,  89
@@ -8850,8 +8250,7 @@ Chiqui-manta.     Manta,  from  32
 
 Chiquiy.     My  misfortune,  115
 
-Chiraoca.  Clear,  genial  season;  Ca,  an  old  form  of  geni-
-tive, 79
+Chiraoca.  Clear,  genial  season;  Ca,  an  old  form  of  genitive, 79
 
 Chirmaynaymantan.  Chirma,  harmful,  115.  G.  de  la  Vega,
 ii,  p.  326.     To  be  unquiet  or  to  do  harm
@@ -8882,15 +8281,12 @@ Chuqui-yllayllapa.     Thunder  and  lightning
 Chuqui.     Gold,  in  the  Colla  dialect,  90
 
 
-194  INDEX.
-
 fChurac.     Participle  of  Churani,  to  put,  31,  33.     G.  de  la
 
 Vega  i,  p.  198
 Churachay .     Ghay,  that,  33
 
-Churacllay.     Llay,  a  particle,  denoting  pleasure  or  endear-
-ment, 91
+Churacllay.     Llay,  a  particle,  denoting  pleasure  or  endearment, 91
 Churaspac.     Preposition,  for,  31
 
 Churasquayqui.     Yqui,  second  possessive  pronoun,  28,  32
@@ -8936,8 +8332,6 @@ fCoya.     Queen  (see  Mama),  23,  96.      G.  de  la  Vega,  i,  pp.
 Raymi.     August,  20
 
 
-INDEX.  195
-
 Coy  a  facssa.  {Corrupt.)   A  woman  dedicated  to  the  sun,  25
 
 Coyniy-pashinatapac  (Corrupt.)    Coniy,  warmth,  79
@@ -8962,8 +8356,7 @@ Cunti-huisa,  Sorcerer,  89
 
 fCuraca.     A  lord,  87,  99
 
-Curayoc.  Ccoray,  the  act  of  hoeing.  Yoc,  particle  of  pos-
-session
+Curayoc.  Ccoray,  the  act  of  hoeing.  Yoc,  particle  of  possession
 
 fCuri.     Gold,  1 9,  47,  78,  89,  90
 
@@ -8987,8 +8380,7 @@ Cusi-simirac.     A  happy  smile  ;  good  news,  81
 
 Cusi-llacta.     A  happy  village,  31
 
-Cusinchicpi.  Giving  rewards ;  Pi,  from ;  Cusinchini,  I  con-
-sole, 80
+Cusinchicpi.  Giving  rewards ;  Pi,  from ;  Cusinchini,  I  console, 80
 
 Cusi-ussa-pochoy.     A  good  ripening,  30
 
@@ -9007,16 +8399,13 @@ Cuyru-mama.     "  White  mother",  applied  to  the  earth,  56
 Gualanpapi  (see  Hualanpapi)
 
 
-196  INDEX.
-
 Hahocha.     Perhaps  Hahua  (outside) ;  Hiccha  (sin),  a  slight
 
 offence,  115
 "fHahuay.     Grandchild.     Hence  Hahuanina,  a  lineage,  29.
 
 G.  de  la  Vega,  ii,  pp.  531,  533
-Hampi-camayoc.     A  doctor,  one  who  has  charge  of  medi-
-cines or  poisons,  99
+Hampi-camayoc.     A  doctor,  one  who  has  charge  of  medicines or  poisons,  99
 Hamuttapty .     Subjunctive  of  Hamutani,  I  understand,  79
 fHanan-Cuzco.     Upper  Cuzco,  26,  33,  43,  44,  47,  48,  76,
 
@@ -9064,8 +8453,6 @@ fHuaca.     Sacred,  a  sacred  thing,  5,  27,  29,  32,  34,  55,  58,
 76,  83,  93
 Camay oc.     Priest  in  charge  of  a  huaca,  43,  58
 
-
-INDEX.  197
 
 Huaca  mucha.     Worship  of  a  huaca,  83,  86
 Huacanqui.     A  love  philtre,  81,  88
@@ -9126,8 +8513,6 @@ Huarachicu.     Ceremony  of  breeching,  34,  80
 
 Iluarayaru,  43
 
-
-198  INDEX.
 
 Huari  (see  Taqui).     A  song,  39,  44
 
@@ -9196,8 +8581,6 @@ Hustusca.    For  Iluatusca,  to  prophesy;  or  else  from  Hnstuni,
 I  stamp,  32
 
 
-INDEX.  199
-
 Huya-chucu.     Chiicu,  a  head-dress,  101
 Huyarihuay.     Perhaps  Ayrihuay,  April,  28
 
@@ -9265,8 +8648,6 @@ Llusque.     Month  of  May,  1 7
 Llutacticci-capac.     A  name  for  the  god,  89
 
 
-200  INDEX.
-
 Machiyqui.    Thigh.    Yqui,  second  possessive  pronoun,  86
 
 Mactamniqui.     A  boy  (Macta),  86
@@ -9296,7 +8677,6 @@ Marca-llihuay ,  33
 Marop.     A  pestle,  131
 Masnu-yauri.      A  term  unexplained  by  Avila  (see  Yauri),
 
-122
 Massuma.     A  festival  in  Huarochiri,  122
 ■fMay.     Who,  where,  29,  33,  91.     G.  de  la  Vega,  i,  p.  198
 May-pin.     Where  is  it  ?  33,  79
@@ -9313,8 +8693,6 @@ Micuy.     To  eat,  31,  32
 Micuynin.     To  eat,  33
 Micuncancachun.     To  eat  much,  30
 
-
-INDEX.  201
 
 3Iirachun.     Mirani,  I  multiply,  increase,  29
 
@@ -9334,8 +8712,7 @@ Moro-urco.  A  house  near  the  temple  of  the  Sun,  where  a
 great  cable  was  kept ;  Muru,  a  coloured  spot ;  Urco,  a
 hill,  48
 
-Moronpassa  tarpiiyquilla.  July  ;  Tarpuy-quilla,  "the  sow-
-ing month,"  ]  9
+Moronpassa  tarpiiyquilla.  July  ;  Tarpuy-quilla,  "the  sowing month,"  ]  9
 
 Moya.     Forests,  165
 
@@ -9389,12 +8766,9 @@ Nipacaclmn,  71
 p
 
 
-202  INDEX.
-
 Nis,  28
 
-Nis-caca.  Nisca,  a  particle,  denoting  one  who  has  the  re-
-putation for  any  quality,  115.     Holguin,  p.  257
+Nis-caca.  Nisca,  a  particle,  denoting  one  who  has  the  reputation for  any  quality,  115.     Holguin,  p.  257
 
 Niseayqui,  30
 
@@ -9457,8 +8831,6 @@ Pachacunaripis,  89
 Paella.     Bald,  barren,  bleak,  empty,  32
 Pacnipaccarichun,  56
 
-
-INDEX.  203
 
 fPaco  (see  Llama)
 
@@ -9537,8 +8909,6 @@ Piscapapas.     Pisca,  a  large  partridge,  29
 p2
 
 
-204  INDEX.
-
 Plcaspapas,  33
 
 Pitispa.     P'dini,  to  break,  30
@@ -9599,8 +8969,6 @@ Quarpas,  31
 Queru.     A  cup,  103
 Quespilla.     Crystal,  28
 
-
-INDEX.  205
 
 Quicta,  30
 
@@ -9664,8 +9032,6 @@ Raimicachun.     Be  at  the  Raymi,  79
 ■\Raymi  Ccapac.     The  great  festival,  35,  36,  47,  83,  84,  85,
 95,  100,  108,  166
 
-
-206  INDEX.
 
 Ray  mi  Napa,  39,  41,  42
 
@@ -9734,8 +9100,6 @@ Saycaptiy.     To  stand.     Subjunctive,  79
 t  Saycoynicaypitac.     To  tire.     Subjunctive,  79
 
 
-INDEX.  207
-
 Secsec.     Thorn  bush,  96.     Mossi,  No.  278
 
 Sihuicas.     Sihui,  a  thorn,  96.     Mossi,  No.  235
@@ -9800,8 +9164,6 @@ Uucu,  59
 
 Torca,  89
 
-
-208  INDEX.
 
 Tarayac,  79
 
@@ -9870,8 +9232,6 @@ Uma-chucu.     Head  dress,  106
 
 JJmacliun,  78
 
-
-INDEX.  209
 
 Umacia.     Head  (accusative),  32
 
@@ -9947,8 +9307,6 @@ Vilcay-cunapac,  115
 Viiiaypas.     Increase,  81
 
 
-210  INDEX.
-
 Y.     Possessive  particle,  3rd  person,  29
 
 Yacachun.     Follow,  3t
@@ -10005,8 +9363,6 @@ Ynca-uillu.     Female  figure,  19
 ocllo.     Woman  of  the  blood  royal,  25
 
 
-INDEX.  211
-
 Ynca-runa-yanami.     Royal  servant,  30
 
 churl.     Son  of  the  Ynca,  31
@@ -10062,8 +9418,6 @@ the  Huarochiris,  123,  1 12
 Cavillaca.     A  goddess  of  the  Huarochiris,  125,  127
 Chellcascayu.     A  Huarochiri  idol,  122
 
-
-212  INDEX.
 
 Chinchay-eocha.     A  huaca  from,  83,  93
 
@@ -10127,8 +9481,6 @@ Pariacaca.     A  god  of  the   Huarochiris,   87,   93,  128,  138,
 Passa-mama.     An  idol  of  the  moon,  37
 
 
-INDEX.  213
-
 Punchau.  The  idol  of  the  sun,  16,  30,  56.  See  G.  de  la
 Vega,  i,  p.  182
 
@@ -10144,9 +9496,7 @@ fTecsi,  or  Tied  Gcapac  (see  Caprichay,  Uiracocha),  6,  81,
 
 Tocapo  Uiracocha,  6,  28,  33
 
-Tonapa  (see  Tarapaca).  A  legendary  prophet  or  demi-
-god, apparently  in  the  Collao,  71,  72,  74,  79,  87,  88,
-115
+Tonapa  (see  Tarapaca).  A  legendary  prophet  or  demigod, apparently  in  the  Collao,  71,  72,  74,  79,  87,  88,
 
 Uncuraya.     A  jar  with  the  figure  of  a  devil  so-called,  among
 
@@ -10154,7 +9504,6 @@ the  Huarochiris,  122
 Uiracocha  (see  Viracocha).     See  G.  de  la  Vega,  ii,  p.  66
 Urpi-huachac.   Wife  of  Pachacamac  ;  a  legend  in  Huarochiri,
 
-129
 
 ■fViracocha  (see  Tecsi,  Tocapo,  Pachayachachic)
 ■ Tecsi,  6,  28,  29,  30,  33
@@ -10187,8 +9536,6 @@ Yanacauri  (see  Huanacauri)
 Ymaymana  (Uirococha) ,  6,  30,  32
 fYnti.     Sun  God  of  the  Collas,  112
 
-
-214  INDEX.
 
 V.— NAMES   OF   INDIAN  MEN,  WOMEN,   AYLLUS
 OR   LINEAGES,   AND   TRIBES.
@@ -10314,8 +9661,6 @@ de  la  Vega,  ii,  p.  239
 ■\\ChalleucMma.     A  general  of  Atahuallpa,  111,  115,  118
 
 
-216  INDEX.
-
 Chamin  Cuzco  Ayllu.     A  lineage  which  carried  the  cries  down
 
 the  Chincha-suyu  l-oad,  22
@@ -10344,7 +9689,6 @@ p.  80
 flChumjnvillcas,  96,  168.     See  G.  de  la  Vega,  i,  p.  229
 Chuqui-huy-pachuquipa.     Sister  and  wife  of  Ynca  Huascar,
 
-111
 fColla-Ccapac.     Chief  of  the  Collas,  90,  91
 Condorcanqui,  Don  Felipe  de,  67
 Copara  Ayllu.     A  lineage  in  Huarochiri,  144
@@ -10374,10 +9718,7 @@ Huayrotari,  Maria  de,  67
 Huasco  Tornay  Bimac.     Chief  of  the  Chancas,  92
 
 
-INDEX.  217
-
-•\%IIuayna  Ccapac,  1 ;  born,  98,99;  accession,  104 ;  coro-
-nation, 106;  wars,  108,  110;  death,  110
+•\%IIuayna  Ccapac,  1 ;  born,  98,99;  accession,  104 ;  coronation, 106;  wars,  108,  110;  death,  110
 
 fLloque  Yupanqui  Ynca,  82
 
@@ -10430,7 +9771,6 @@ Mayhua,  Juan  Apu  Ynca,  67
 fMayus.     Tribe  near  Cuzco.     Ynca's  body-guard,  110,  116
 
 Mihicnaca  Mayta.  General  in  army  of  Huayna  Ccapac,  108,
-110
 
 Ninancuyoclii.     A  son  of  Huayna  Ccapac,  107
 
@@ -10441,8 +9781,6 @@ Pachacutec,  93,  94,  95,  99
 
 Q
 
-
-218  INDEX.
 
 fPinao  Ccapac,  Tocay  Ccapac.    Conquered  by  Manco  Ccapac,
 
@@ -10499,8 +9837,6 @@ Vilcaquiri.     A  brave  Ynca  captain,  92
 ■fViracoclia  Ynca  (see  TJiraccocha) ,  12,  90,  92,  95
 
 
-INDEX.  219
-
 fYahvar-huaccac  Ynca,  89
 
 Yahuaymin  Ayllu  Sutic,  22
@@ -10552,8 +9888,6 @@ Ondegardo,  Polo  de.  Report  by,  149.  Cicza  de  Leon,  p.
 
 Pizarro,  Francisco  de,  118
 
-
-220  INDEX.
 
 Segovia,  Hernan  Lopez  de,  11
 

@@ -48,9 +48,6 @@ discover the world's books while helping authors and publishers reach new audien
 at |http: //books .google .com/I
 
 
-1
-
-
 ■ ■ .:
 
 
@@ -64,13 +61,7 @@ CHARLES MINOT
 CLASS OF i8j8
 
 
-1
-
-
 i
-
-
-3
 
 
 ^■^^^k
@@ -164,19 +155,12 @@ CHAPTER I.
 
 
 PAO£
-1
 
 
 CHAPTER n.
 
 
-CHIEF GODS
-
-
 • •
-
-
-34
 
 
 CHAPTER m.
@@ -185,16 +169,10 @@ CHAPTER m.
 MINOR GODS
 
 
-70
-
-
 CHAPTER IV.
 
 
 REMARKS ON THE FOREGOING
-
-
-85
 
 
 CHAPTER V.
@@ -204,9 +182,6 @@ PRIE8TS AND WORSHIP
 
 
 • • • • •
-
-
-93
 
 
 vi CONTENTS.
@@ -265,14 +240,9 @@ I'KOVERBS 218
 
 CHAPTER XIV.
 
-FOLK-LORE TALES 243
-
 
 CHAPTER XV.
 coxcLUsioxs . . ' 275
-
-
-APPENDIX .... 305
 
 
 THE YOKUBA-SPEAKINO PEOPLES
@@ -304,8 +274,7 @@ Lagos and the adjacent littoral.
 The territory now inhabited by the Yoruba tribes
 is bounded on the west by Dahomi, on the south-west
 by Porto Novo and Appa, on the south by the sea, on
-the east by Benin, and on the north by the Moham-
-medan tribes from the interior, who have within
+the east by Benin, and on the north by the Mohammedan tribes from the interior, who have within
 recent times conquered and annexed the Yoruba
 province of Ilorin, and whose territory may now be
 said to extend southward to about 8° 30' N. latitude.
@@ -313,11 +282,9 @@ said to extend southward to about 8° 30' N. latitude.
 
 2 THE YORUBA^SPEAKINO PEOPLES.
 
-The aggressions of these Mohaininedan tribes com-
-menced very early in the present century, and it was
+The aggressions of these Mohaininedan tribes commenced very early in the present century, and it was
 no doubt this pressure from the north that caused the
-Yorubas to move to the south and colonise the sea-
-board.
+Yorubas to move to the south and colonise the seaboard.
 
 Yoruba country at present comprises the following
 states, or political units : — <c ,
@@ -346,8 +313,7 @@ boundary of Jebu, and, roughly speaking, the territory
 of the Jebus may be said to extend inland to a distance
 of some fifty miles from the lagoon.
 
-(5) Ekiti Tribes. These tribes, which form a con-
-federation, lie to the north-east of Jebu Ode.
+(5) Ekiti Tribes. These tribes, which form a confederation, lie to the north-east of Jebu Ode.
 
 (6) Ibadan. It lies north of Jebu Ode.
 
@@ -366,8 +332,7 @@ the south-east of Yoruba proper.
 (9) Ife, capital of the same name, lies south-west
 of Ijesa.
 
-(10) Ondo. This kingdom, capital Ondo, is situ-
-ated south-east of Ife.
+(10) Ondo. This kingdom, capital Ondo, is situated south-east of Ife.
 
 In addition there are several small states, or rather
 independent townships, consisting of a town and a
@@ -376,8 +341,7 @@ Okeodan, Ado, Awori, and Igbessa, all of which lie
 south of Bgba. Their inhabitants are Egbados, or
 Southern Egbas {Egha-odo^ Egbas of the coast).
 
-The inhabitants of all these states speak one lan-
-guage, the Yoruba. They are called Nagos by the
+The inhabitants of all these states speak one language, the Yoruba. They are called Nagos by the
 French, and by the English are named after their
 political divisions, as Egbas, Ibadans, Jebus, &c.
 
@@ -399,10 +363,7 @@ Slave Coast ; and, generally speaking, the country is
 B 2
 
 
-4 THE YORUBA-SPEAKING PEOPLES.
-
-open, flat, and devoid of stones. Jebu is an excep-
-tion, being thickly forested ; but it appears that less
+open, flat, and devoid of stones. Jebu is an exception, being thickly forested ; but it appears that less
 territory has been won from the sea south of Jebu,
 and east of Lagos generally, than in the districts to
 the west, between Lagos and Dahomi. To the east
@@ -418,8 +379,7 @@ lagoon to the Okpara, that stones are found in the
 soil ; and about twenty miles to the west of this there
 appears to have been at one time a great bay, the
 northern limit of which was the Ko, or Great Marsh,
-of Dahomi, thirty-five miles from the present coast-
-line. The dotted line in the accompanying map shows
+of Dahomi, thirty-five miles from the present coastline. The dotted line in the accompanying map shows
 the probable position of the ancient coast-line between
 the Volta River and lickki.
 
@@ -440,9 +400,6 @@ In some parts, as at Sakiti, north of Ajarra, and at
 J
 
 
-1
-
-
 y
 
 
@@ -458,11 +415,6 @@ M
 \%
 
 
-1
-
-
-6 THE YORUBA-SPEAKING PEOPLES.
-
 Abeokuta, isolated masses of granite afford evidence
 of great denudation. In fact the whole western coast
 of Africa, between the Isles de Los, seventy miles north
@@ -472,13 +424,10 @@ The table- topped Kofiu Mountain, which rises sheer
 from the plain north of the Melikuri River to a height
 of 2,000 feet, is the sole remnant of a vast cap of
 sandstone that doubtless at one time covered the
-whole of that part of the country ; and the Krobo Moun-
-tain, an isolated and precipitous mass, 800 feet high,
-situated in the Krobo plain on the Grold Coast, to-
-gether with the table-topped mountains with vertical
+whole of that part of the country ; and the Krobo Mountain, an isolated and precipitous mass, 800 feet high,
+situated in the Krobo plain on the Grold Coast, together with the table-topped mountains with vertical
 cliffs in the Ataklu district, to the north of the Quittah
-(Keta) lagoon, will probably, when geologically exa-
-mined, prove to be other vestiges of the same sand-
+(Keta) lagoon, will probably, when geologically examined, prove to be other vestiges of the same sand-
 stone formation.
 
 Of the early history of the Yoruba-speaking peoples
@@ -510,8 +459,7 @@ peace was once more made. In 1738 another Yoruba
 army invaded Dahomi, defeated the king, and captured
 and burnt Agbomi, Kana, and Zassa ; * and from that
 time forward the Yorubas annually raided into Dahomi,
-ravaging the country, and retiring again at the com-
-mencement of the rains. This state of affairs was
+ravaging the country, and retiring again at the commencement of the rains. This state of affairs was
 brought to an end by a treaty of peace made in 1747,
 by which the King of Dahomi undertook to pay a
 heavy annual tribute to the King of Yoruba. After
@@ -528,8 +476,7 @@ king, they sent a deputation to him with a present of
 parrot's eggs, and a message that they considered
 he must be fatigued with the cares of government,
 and that it was time for him to rest and take a little
-sleep. Upon receiving this message, the king forth-
-with retired to his apartments, as if to sleep, and
+sleep. Upon receiving this message, the king forthwith retired to his apartments, as if to sleep, and
 then gave directions to his women to strangle him,
 
 • "Ewe-speaking Peoples," p. 294.
@@ -543,8 +490,7 @@ name of their capital, Oyo.
 which they accordingly did.* In 1774, the then king
 declined to take the hint, and returned the parrot's
 eggs. The chiefs tried to support the custom by
-force, and Ochemi, the prime minister headed a rebel-
-lion, which was, however, crushed, and Ochemi, and.
+force, and Ochemi, the prime minister headed a rebellion, which was, however, crushed, and Ochemi, and.
 all his numerous family were put to death.
 
 The reason of our having such meagre information
@@ -584,10 +530,8 @@ never been numerous in the few districts of West
 Africa in which it is possible for them to live. The
 report as to the number of cavalry reached the traders
 through the coast tribe, who owned no horses, and
-who were no doubt greatly impressed by the spec-
-tacle of a few score of mounted men. According to
-tradition, the following was the method of determin-
-ing the number of men required for a military expedi-
+who were no doubt greatly impressed by the spectacle of a few score of mounted men. According to
+tradition, the following was the method of determining the number of men required for a military expedi-
 tion. An ox-hide was pegged down in front of the
 general's tent, and the horsemen made to ride over it
 in succession between two spears. When, by this
@@ -619,8 +563,7 @@ Gbo I Ajagbo | — | gbo | oba gbo \ — | ki em hi osi \ gbo.
 
 10 THE TORUBA^SPEAKING PEOPLES.
 
-In the days of Ajagbo the kingdom of Yoruba con-
-sisted of the four following states.
+In the days of Ajagbo the kingdom of Yoruba consisted of the four following states.
 
 (1) Yoruba proper, whose capital, Old Oyo, or
 Katunga, was situated some ninety miles to the north
@@ -652,8 +595,7 @@ have enjoyed a long and peaceful reign, so that the
 reign of his brother and successor, Arogangan, can
 scarcely have commenced before 1800. It was during
 the reign of Arogangan that the Yoruba kingdom
-commenced to break up. The Fulas, it seems, over-
-ran the territory of the Hausas, and the latter, driven
+commenced to break up. The Fulas, it seems, overran the territory of the Hausas, and the latter, driven
 southward, sought refuge in the northern provinces of
 Yoruba. Arogangan had appointed his nephew,
 Afunja, governor of Ilorin, the north-eastern pro-
@@ -682,8 +624,7 @@ Alajin.
 
 Adebo only reigned about four months, and died
 suddenly, from which it was supposed that he was
-poisoned. He was succeeded by Maku, who en-
-deavoured to make head against the Mohammedan
+poisoned. He was succeeded by Maku, who endeavoured to make head against the Mohammedan
 tribes who were now pressing in from the north, but
 he was defeated in a great battle, and committed
 suicide, after a reign of about only three months. An
@@ -705,26 +646,21 @@ while Amodo was engaged with the invading tribes
 from the north, he again made war upon Yoruba. He
 captured and destroyed a number of towns, and was
 apparently about to carry all before him, when, for
-some reason that has never transpired, he was con-
-veyed back to the town of llorin by those very Hausa
-mercenaries through whose aid he had hoped to be-
-come Alajin, and publicly burned alive. The Moham-
+some reason that has never transpired, he was conveyed back to the town of llorin by those very Hausa
+mercenaries through whose aid he had hoped to become Alajin, and publicly burned alive. The Moham-
 medan party had for some years been dominant in
 llorin, and now, declaring that it would no longer
 recognise a pagan king, it elected a Mohammedan to
 the supreme power, and severed the connection with
 Yoruba.
 
-llorin now took the lead in the Mohammedan in-
-vasion of Yoruba, and the Yorubas seem to have been
+llorin now took the lead in the Mohammedan invasion of Yoruba, and the Yorubas seem to have been
 invariably worsted. In 1830, when it was visited by
 Lander, Old Oyo was still the capital of Yoruba, but
 between 1833 and 1835 it was captured and destroyed
-by the Mohammedans, and the Yorubas, flying south-
-wards, founded their present capital Oyo, about
+by the Mohammedans, and the Yorubas, flying southwards, founded their present capital Oyo, about
 ninety miles south of the old one. The Egbas, taking
-advantage of the overthrow of Yoruba, declared them-
-selves independent, but the Yorubas, as soon as they
+advantage of the overthrow of Yoruba, declared themselves independent, but the Yorubas, as soon as they
 were settled in their new territory, attacked them
 with vigour, and drove them out of all their northern
 towns. A desultory war then lingered till about 1838,
@@ -738,8 +674,7 @@ INTRODUCTORY. 18
 quarters, or townships, which were named after an
 equal number of towns that had been destroyed in the
 war, and one of them, Ake, still preserves the name
-of the old Egba capital. Although these events oc-
-curred so recently, they have already become clothed
+of the old Egba capital. Although these events occurred so recently, they have already become clothed
 with myth ; and Lishabe, the chief who led them to
 Abeokuta, is believed by the Bgbas to have been a
 giant and a demi-god.
@@ -787,8 +722,7 @@ hands.
 Shortly after 1840 the Ekiti tribes, as they were
 afterwards termed, that is, the inhabitants of the
 various towns lying between Ibadan and Ijesa, and
-the adjoining territory to the south, formed a con-
-federation, which was soon joined by Ife and Ijesa,
+the adjoining territory to the south, formed a confederation, which was soon joined by Ife and Ijesa,
 the ruler of the latter state being elected head of the
 confederation. The Mohammedans of Ilorin were
 the first to take alarm at this coalition, and attacked
@@ -819,23 +753,19 @@ the men who were of no local importance, and the
 INTRODUCTORY. 15
 
 women who were no longer attractive, were, in
-accordance with the usual practice, sold to the slave-
-traders. Lagos was the most convenient port, and
+accordance with the usual practice, sold to the slavetraders. Lagos was the most convenient port, and
 they were therefore marched down there in gangs to
 await shipment. This traffic in slaves, which brought
 Lagos into some notoriety, commenced about the
 year 1815, and soon attained very large dimensions.
 
 In 1836 a struggle for the succession broke out in
-Lagos, and resulted in Kosoko, the legitimate pre-
-tender, being expelled the kingdom by his rival
-Oluwole, who secured the throne for himself. Olu-
-wole died in 1841, and was succeeded by Akitoye,
+Lagos, and resulted in Kosoko, the legitimate pretender, being expelled the kingdom by his rival
+Oluwole, who secured the throne for himself. Oluwole died in 1841, and was succeeded by Akitoye,
 who was foolish enough to invite Kosoko, who was
 still alive and in banishment, to come and live in
 Lagos. Kosoko readily accepted the invitation, soon
-began conspiring, and before long found himself suf-
-ficiently well supported to rebel. In the struggle
+began conspiring, and before long found himself sufficiently well supported to rebel. In the struggle
 which ensued the town of Lagos was burned, and
 Akitoye driven into banishment. He found a refuge
 at Badagry, and, in order to induce the English to
@@ -846,8 +776,7 @@ he despatched a force to Badagry to attack Akitoye,
 which burned the town, killed an English trader
 named Gee, and destroyed a great deal of property
 belonging to British subjects. The senior naval
-officer upon the station thereupon determined to sup-
-port Akitoye against Kosoko, and H.M. sloops
+officer upon the station thereupon determined to support Akitoye against Kosoko, and H.M. sloops
 Philomel^ Harlequin^ Niger^ and Watennfch, with the
 gun vessels Bloodhound and Volcano^ assembled off the
 Lagos bar in November, 1851, and on the 26th all
@@ -876,8 +805,7 @@ losing two officers killed and several men wounded,
 they were compelled to retreat to the boats.
 
 This failure led to a more determined attack in
-December, on the 26th of which month a consider-
-able force, under the command of Commodore H.
+December, on the 26th of which month a considerable force, under the command of Commodore H.
 W. Bruce, entered the lagoon in boats. The natives
 offered a stubborn resistance, and had in position
 several guns, which were exceedingly well served.
@@ -894,8 +822,7 @@ INTRODUCTORY, 17
 
 other vessels and boats had in the meantime kept
 lip a vigorous bombardment, which was maintained
-all that day, and continued next morning from day-
-break until about 11 a.m., when a magazine on shore
+all that day, and continued next morning from daybreak until about 11 a.m., when a magazine on shore
 blew up and set fire to the town. The flames,
 fanned by the sea-breeze, spread with remarkable
 rapidity, and the heat was so intense that the fire
@@ -912,14 +839,12 @@ many of them very severely.
 
 Akitoye was now reinstated, and on January 1st,
 1852, signed a treaty, undertaking to suppress the
-export slave trade, and to expel all Europeans en-
-gaged in the traffic. About September of the same
+export slave trade, and to expel all Europeans engaged in the traffic. About September of the same
 year some Portuguese slave traders, who had been
 expelled under this treaty, returned to Lagos, and,
 with the assistance of some of the chiefs, secretly
 renewed the traffic. Akitoye, being informed of what
-was going on, strove to stop it, whereupon the Portu-
-guese incited the chiefs to rebel, and in August, 1853,
+was going on, strove to stop it, whereupon the Portuguese incited the chiefs to rebel, and in August, 1853,
 Kosoko returned from Ep^ where he had taken
 refuge, to head the movement. The British naval
 authorities again interfered in favour of Akitoye; a
@@ -969,8 +894,7 @@ Africa. This interest dated from about 1838, when
 INTRODrCTOUY. 19
 
 a number of Egba slaves, who had been liberated
-at Sierra Leone from captured slave vessels, re-
-turned to Abeokuta and asked that missionaries
+at Sierra Leone from captured slave vessels, returned to Abeokuta and asked that missionaries
 might be sent to them. A Protestant mission was
 established there in 1848, and when an attack on
 the town was threatened by Gezo, King of Dahomi,
@@ -978,23 +902,19 @@ in 1850, Mr. Beecroft, the British Consul for the
 Bights, and Commander Forbes, R.N., were sent to
 Agbomi to endeavour to persuade the king to abandon
 his design. The mission completely failed, and Gezo
-attacked Abeokuta on March 3rd, 1851, but was re-
-pulsed with some loss.* The British occupation of
+attacked Abeokuta on March 3rd, 1851, but was repulsed with some loss.* The British occupation of
 Lagos in 1861 put an end to the friendly feelings of
 the Egbas, who resented the protection granted by
-the colonial authorities to fugitive slaves from Abeo-
-kuta, and objected to the stoppage of the export slave
+the colonial authorities to fugitive slaves from Abeokuta, and objected to the stoppage of the export slave
 trade, in which they had been largely engaged. They
-seem also to have had some suspicion that their inde-
-pendence was threatened, for when in May, 1861, it
+seem also to have had some suspicion that their independence was threatened, for when in May, 1861, it
 was proposed to send some trained gunners of the
 2nd West India Regiment to Abeokuta to instruct
 the people in the use of some gims that had been
 presented by the British Government, and to lend aid
 during another attack that was now threatened by
 Dahomi, the Egbas made excuse after excuse, and
-finally declined to receive them. In 1862 they fur-
-ther displayed their ill-will by molesting and plunder-
+finally declined to receive them. In 1862 they further displayed their ill-will by molesting and plunder-
 ing several native traders from Lagos, and, as they
 refused reparation, the Governor of Lagos, in 1863,
 blockaded all the roads leading to Abeokuta.
@@ -1006,21 +926,16 @@ In 1863, Kosoko, chief of Palma and Lekki, desired
 c2
 
 
-20 THE YORUBA'SPEAKING PEOPLES.
-
-to return to Lagos, and, in order to obtain per-
-mission, ceded Palma and Lekki to the British.
+to return to Lagos, and, in order to obtain permission, ceded Palma and Lekki to the British.
 The JPossu, or chief of Epi, raised objections to
-this cession. He had, it appeared, certain terri-
-torial rights over these places, and their cession,
+this cession. He had, it appeared, certain territorial rights over these places, and their cession,
 moreover, shut him off from the sea. As he refused
 to cede his rights, an expedition, consisting of three
 officers and 124 men of the 2nd and 3rd West India
 Regiments, proceeded in H.M.S. Investigator to Epi,
 where the troops and a rocket party of one officer
 and fourteen seamen landed. The natives offered a
-strenuous resistance, and the expeditionary force suf-
-fered a loss of three men killed and three officers
+strenuous resistance, and the expeditionary force suffered a loss of three men killed and three officers
 and twenty-eight men wounded, but the town was
 destroyed. After this the chief renounced all further
 claim to territory south of the lagoon. In July,
@@ -1028,8 +943,7 @@ claim to territory south of the lagoon. In July,
 territory to the British.
 
 The war between the Egbas and Ibadans caused
-by the affair of Ijaye had been carried on in a desul-
-tory manner since 1862; but in 1864, after the repulse
+by the affair of Ijaye had been carried on in a desultory manner since 1862; but in 1864, after the repulse
 of the Dahomis from before Abeokuta on March 15th,*
 the Jebus, who had hitherto adopted the policy of
 excluding all strangers from their territory, and had
@@ -1058,15 +972,13 @@ by the Ikoradus for aid, warned the Egbas to desist,
 and ordered them to return to their own country.
 The Egbas sent insulting messages in reply, and a
 force of some 280 men, consisting of the 5th West
-India Regiment and the Lagos Police, was accord-
-ingly sent against them, which stormed the camps
+India Regiment and the Lagos Police, was accordingly sent against them, which stormed the camps
 and routed the Egbas with heavy loss, on March 29th,
 1865. This affair of course only served to widen the
 breach between the British and the Egbas, the latter,
 besides, conceived that the Colonial Government
 encouraged the annual raids of Dahomi upon Egba
-territory ; and, in 1867, they expelled all the mission-
-aries from Abeokuta, and cut off all relations with
+territory ; and, in 1867, they expelled all the missionaries from Abeokuta, and cut off all relations with
 the British.
 
 It seems that a letter, purporting to be signed by a
@@ -1081,16 +993,13 @@ It was only with great difficulty that the chiefs and
 elders succeeded in saving the lives of the accused,
 
 
-22 THE YORUBA-SPEAKING PEOPLES.
-
 wlio wore immediately expelled from the town, and
 their houses and churches destroyed. In 1880, the
 French Roman Catholic missionaries obtained leave to
 establish a mission in Abeokuta, which thenceforward
 fell more under the influence of the French.
 
-The interior continued to be disturbed by inter-
-tribal wars until about 1870, when affairs calmed
+The interior continued to be disturbed by intertribal wars until about 1870, when affairs calmed
 down, but in 1877 the Egbas plundered some Ibadan
 traders, and the Ibadans sent an army to avenge the
 outrage. Upon this the Jebus renewed their former
@@ -1100,8 +1009,7 @@ since 1858, seized the opportunity for rebellion, a step
 which was soon followed by a declaration of war
 against Ibadan by Ilorin. The Mohammedans of
 Ilorin rapidly invaded the country and laid siege to
-Ofa, a town situated some twenty miles to the north-
-east of the city of Ibadan, and the Ibadans were
+Ofa, a town situated some twenty miles to the northeast of the city of Ibadan, and the Ibadans were
 obliged to withdraw their army of invasion from Egba
 in order to defend their own territory, which was now
 threatened from three sides. The Egbas, however,
@@ -1122,8 +1030,7 @@ sides of a small stream, to the south-west of Ijesa, and
 IXTRODUCTORY. 23
 
 the war continued for some years without any great
-advantage being gained by either side. The Moda-
-kekes were staunch allies of the Ibadans, but the
+advantage being gained by either side. The Modakekes were staunch allies of the Ibadans, but the
 sympathies of the Ifes were rather with the Ijesa and
 the Ekiti tribes, with whom they had been in alliance
 during the war which terminated in 1858. Their
@@ -1156,8 +1063,6 @@ Ibadan.
 The war, which was really only a succession of
 
 
-24 THE YORUBA-SPEAKING PEOPLES.
-
 skirmishes at long intervals, dragged on till 1884,
 when the Grovernor of Lagos was asked to mediate
 and secure a peace. In 1886 this request was renewed
@@ -1167,8 +1072,7 @@ representatives from the different tribes assembled at
 Lagos, and on June 4th an agreement was signed, of
 which the following were the chief points :
 
-(1) Ibadan, Ijesa, and the Bkiti tribes to respec-
-tively retain their independence.
+(1) Ibadan, Ijesa, and the Bkiti tribes to respectively retain their independence.
 
 (2) The four Ekiti towns of Otan, Tresi, Ada, and
 Igbajo to be ceded to Ibadan, on the understanding
@@ -1202,8 +1106,7 @@ INTRODUCTORY. '^^5
 an Ibadan contingent, were at Modakeke watching
 the Ifes, who, with the Jebu force under the Seriki,
 were encamped about two miles to the south. In
-accordance with the terms of the agreement. Com-
-missioners were sent to the interior by the Govern-
+accordance with the terms of the agreement. Commissioners were sent to the interior by the Govern-
 ment of Lagos to take steps to break up the camps.
 These proved to be towns rather than camps, since
 they consisted of the ordinary mud-walled houses of
@@ -1225,22 +1128,17 @@ remained on the soil of Ife, the Ifes would revenge
 themselves upon them for the destruction of the holy
 city, and that if tliey moved to Ibadan territory the
 Ibadan s would enslave them ; and after some further
-delay, the Commissioners, finding there was no pro-
-spect of the Modakekes keeping their promise, returned
+delay, the Commissioners, finding there was no prospect of the Modakekes keeping their promise, returned
 to Lagos. The Ilorins had not been parties to the
 agreement of June 4th, but the Commissioners
 endeavoured to arrange a peace between them and
 the Ibadans, and induce them to abandon their
 
 
-26 THE YORUBA-SPEAKING PEOPLES.
-
 camps at Ofa and Ikirun; this, however, did not
-succeed, and the war between these two tribes con-
-tinued.
+succeed, and the war between these two tribes continued.
 
-In the meantime, while the interior had been dis-
-turbed by these protracted native wars, the colony of
+In the meantime, while the interior had been disturbed by these protracted native wars, the colony of
 Lagos had received further extensions, Ketonu, a
 district on the eastern shores of Lake Denham Waters,
 having at the request of the natives, who feared
@@ -1253,13 +1151,11 @@ government of the Gold Coast.
 
 In 1888, in consequence of the reported intrigues
 of the French in Abeokuta, who were said to have
-offered to tolerate slavery, and to pay an annual sub-
-sidy, if the Egbas would place themselves under French
+offered to tolerate slavery, and to pay an annual subsidy, if the Egbas would place themselves under French
 protection, efforts were made to have the limits of
 British and French territory and spheres of influence
 defined, with the result that articles of arrangement
-for the delimitation of the English and French posses-
-sions on the West Coast of Africa were signed at
+for the delimitation of the English and French possessions on the West Coast of Africa were signed at
 Paris, on August 10th, 1889. The fourth article
 defined the territories and spheres of influence on
 the Slave Coast, the line of demarcation being the
@@ -1291,34 +1187,27 @@ within the British sphere of influence there was no
 improvement in the relations between the Egbas and
 the Lagos government. In January, 1891, a great
 political meeting was held at Abeokuta, at which the
-old charge that the government connived at or encou-
-raged the annual inroads of Dahomi was revived, and
-some European missionaries were expelled. A Com-
-missioner from the government was sent to Abeokuta
+old charge that the government connived at or encouraged the annual inroads of Dahomi was revived, and
+some European missionaries were expelled. A Commissioner from the government was sent to Abeokuta
 in August, but achieved no results, and in January,
 1892, the Egbas declared all their trade routes, both
 to the coast and to the interior, closed, and ceased all
 commercial relations with the colony. A further
-attempt on the part of the government to open nego-
-tiations was made in the following month, but com-
+attempt on the part of the government to open negotiations was made in the following month, but com-
 pletely failed, and at a meeting of Egba chiefs, held
 on the 13th of April, the proposal to reopen the trade
 routes to Lagos was unanimously negatived.
 
 While affairs had been in this unsatisfactory state
-in the western portion of the sphere of British influ-
-ence, a dispute with the Jebus had sprung up in the
+in the western portion of the sphere of British influence, a dispute with the Jebus had sprung up in the
 
-
-28 THE YORUBA'SPEAKING PEOPLES.
 
 east. The Ejinrin market, situated about ten miles
 east of Epi, was closed by the Awujale of Jebu Ode
 on account of some disagreement with the people of
 Lagos ; and though, in October, 1890, in consequence
 of representations made by the government of Lagos,
-it was formally opened by the Governor and represen-
-tatives sent by the Awujale, the Jebus made this con-
+it was formally opened by the Governor and representatives sent by the Awujale, the Jebus made this con-
 cession unwillingly, and had no intention whatever of
 departing from their policy of excluding foreigners
 from the interior of their country. Consequently,
@@ -1334,8 +1223,7 @@ of the British Government, fearing, no doubt, that
 to accept them would entail some concession on his
 part.
 
-Upon this affair being referred to the Home Govern-
-ment, the Governor was instructed to demand an
+Upon this affair being referred to the Home Government, the Governor was instructed to demand an
 apology from the Jebus for the so-called insult offered
 to the Acting Governor, and to insist upon a free right
 of way through Jebu country. The Awujale was to
@@ -1351,8 +1239,7 @@ INTRODUCTOnY. 29
 
 In January, 1892, the representatives arrived, and
 on the 21st made a formal apology, and signed an
-agreement to maintain a free and unrestricted right-
-of-way for persons and goods through Jebu territory;
+agreement to maintain a free and unrestricted rightof-way for persons and goods through Jebu territory;
 the Grovernment of the Colony undertaking to pay
 the Jebus an annual sum of £500 in compensation
 for the duties they had been accustomed to levy on
@@ -1380,18 +1267,14 @@ landed at Itoike, but was not allowed to proceed
 any further, the Awujale sending to say that he did
 not wish " to palaver " with the Lagos Government.
 
-The Home Government now authorised the em-
-ployment of force. Special-service officers were sent
+The Home Government now authorised the employment of force. Special-service officers were sent
 out from England, two officers and 155 men of the
 
-
-80 THE YORUBA'SPEAKING PEOPLES.
 
 Gold Coast Constabulary were ordered from Accra,
 and three oflficers and ninety-nine men of the 1st
 Battalion West India Regiment were despatched from
-Sierra Leone. These, with 165 of the Lagos Con-
-stabulary, and an Ibadan Contingent of 100 men,
+Sierra Leone. These, with 165 of the Lagos Constabulary, and an Ibadan Contingent of 100 men,
 making a total combatant force of about 500, left
 Lagos, under the command of Colonel F. C. Scott,
 C.B., on the 12th of May, and disembarked at Epi
@@ -1416,8 +1299,7 @@ hour they could not be induced to enter the stream ;
 and it was not until the West Indians, who had been
 held in reserve, were ordered up to lead the way
 across the Oshun, that the enemy's position was
-carried. Between the river and the village of Mag-
-bon, which the victors entered shortly after 10 a.m.,
+carried. Between the river and the village of Magbon, which the victors entered shortly after 10 a.m.,
 was found the camp which the Jebus had occupied
 the previous night, It was estimated to have accom-
 
@@ -1426,8 +1308,7 @@ INTRODUCTORY. 31
 
 modated from 5,000 to 6,000 persons, and as about
 half the occupants of a native camp are women and
-non-combatants, the passage of the river was pro-
-bably disputed by about 3,000 men. The Jebu losses
+non-combatants, the passage of the river was probably disputed by about 3,000 men. The Jebu losses
 were supposed to be severe, but the British force lost
 only three killed and twenty-four wounded, exclusive
 of carriers.
@@ -1435,8 +1316,7 @@ of carriers.
 On the 20th of May the advance was resumed soon
 after daybreak, and, being met by a flag of truce, the
 force occupied the town of Jebu Ode the same day
-without resistance. It was about four miles in cir-
-cumference, defended by a mud wall, and contained
+without resistance. It was about four miles in circumference, defended by a mud wall, and contained
 in time of peace about 15,000 inhabitants, all of
 whom, with the exception of the Awujale and his
 immediate following, had now fled. On the 25th,
@@ -1455,15 +1335,13 @@ but those through Egba country still remained closed,
 and for some time it was thought that a military
 expedition against Abeokuta would be necessary.
 The ease with which the Jebus, who were considered
-a very powerful tribe, had been punished, had, how-
-ever, made a profound impression upon the native
+a very powerful tribe, had been punished, had, however, made a profound impression upon the native
 mind, and many British subjects of Egba descent at
 
 
 32 THE YOnUBA'SPEAKING PEOPLES.
 
-Lagos, fearing that, if the chiefs of Abeokuta main-
-tained their unfriendly attitude, the independence of
+Lagos, fearing that, if the chiefs of Abeokuta maintained their unfriendly attitude, the independence of
 Egba would be lost, strongly impressed upon their
 compatriots the necessity of coming to terms. In
 consequence, the Egbas declared their willingness to
@@ -1478,23 +1356,19 @@ trade route without the consent of the Governor.
 They also promised to abolish human sacrifice, and
 not to cede any portion of Egba territory to a foreign
 power without the consent of the British. On the
-other hand, Great Britain guaranteed that the inde-
-pendence of Egba should be fully recognised, and no
+other hand, Great Britain guaranteed that the independence of Egba should be fully recognised, and no
 annexation of any portion of it be made without the
 consent of the Egba authorities.
 
 There is a considerable difference between the
 Yoruba-speaking Peoples and the Ewe-speaking
 Peoples. We still find the characteristics which were
-dominant among the latter, namely, indolence, impro-
-vidence, and duplicity, but they are no longer so
+dominant among the latter, namely, indolence, improvidence, and duplicity, but they are no longer so
 pronounced, probably, almost certainly, because life
 and property are more secure. The Yoruba has more
 independence of character than the Tshis, Gas, or
-Ewes, and servility is rare. He even has the senti-
-ments of nationality and patriotism, and though these
-are regarded with disfavour by the Colonial Govern-
-ment, they are none the less tokens of superiority.
+Ewes, and servility is rare. He even has the sentiments of nationality and patriotism, and though these
+are regarded with disfavour by the Colonial Government, they are none the less tokens of superiority.
 
 
 INTRODUCTORY. 83
@@ -1507,8 +1381,7 @@ There being but little forest, except in the eastern
 districts, communication is easy, and the territory
 is moreover opened up by several rivers. Instead,
 then, of being dispersed in a number of inconsiderable
-hamlets, which are mere specks in a vast and impene-
-trable forest, the Yorubas have been able to live in
+hamlets, which are mere specks in a vast and impenetrable forest, the Yorubas have been able to live in
 towns, each of which is within easy communication
 of others. No doubt their superior social instincts
 first caused them to congregate in towns, and now
@@ -1519,8 +1392,7 @@ vain among the Ewe tribes. Without saying that
 the Yorubas are more intelligent, we can safely say
 that their intellect is more cultivated ; the asperities
 of savage life are softened, the sharper angles are
-worn down by frequent intercourse with their fellow-
-men, and at the present day they are certainly the
+worn down by frequent intercourse with their fellowmen, and at the present day they are certainly the
 leading people in West Africa.
 
 
@@ -1530,8 +1402,7 @@ CHAPTER II.
 Chief Gods.
 
 
-The tendency which we noted in the case of the Ewe-
-speaking peoples to replace gods which were purely
+The tendency which we noted in the case of the Ewespeaking peoples to replace gods which were purely
 local, and only worshipped by those dwelling in the
 vicinity, by tribal gods, and by gods worshipped by an
 entire people, has in the case of the Yoruba tribes
@@ -1554,8 +1425,6 @@ vested in some other god, who is believed to be more
 powerful, because he is worshipped over a larger
 area and has a more numerous following. Gods,
 
-
-CHIEF GODS. 35
 
 however, which are purely tutelar have not been so
 much affected, and tutelary dieties of towns and of
@@ -1580,12 +1449,10 @@ and thus to make it mean " One who sees the cult."
 (1) Olorun.
 
 Olorun is the sky-god of the Yorubas, that is, he is
-the deified firmament, or personal sky, just as Nyan-
-kupon is to the Tshis, Nyonmo to the Gas, and Mawu
+the deified firmament, or personal sky, just as Nyankupon is to the Tshis, Nyonmo to the Gas, and Mawu
 to the Ewes. As was mentioned in the last volume,
 the general bias of the negro mind has been in favour
-of selecting the firmament for the chief Nature-
-god, instead of the Sun, Moon, or Earth ; and in this
+of selecting the firmament for the chief Naturegod, instead of the Sun, Moon, or Earth ; and in this
 respect the natives resemble the Aryan Hindus,
 Greeks, and Romans, with whom Dyaus pitar, Zeus,
 and Jupiter equally represented the firmament.*
@@ -1623,8 +1490,7 @@ Olorun has no priests, symbols, images, or temples,
 
 Yorubas, the words Mawu and Olorun to express the two former.
 The Tshi peoples say Nyankvpon bom (Nyankupon knocks) ; " It is
-thundering " ; Nyankvpon aba (Nyankupon has come), ** It is rain-
-ing " ; and the GS peoples, Nyonmo knocks (thunders), Nyonmo
+thundering " ; Nyankvpon aba (Nyankupon has come), ** It is raining " ; and the GS peoples, Nyonmo knocks (thunders), Nyonmo
 pours, Nyonmo drizzles, &c., while in just the same way the Ancient
 Greeks ascribed these phenomena to Zeus, who snowed, rained, bailed,
 gathered clouds, and thundered. Nyankupon has for epithets the
@@ -1637,11 +1503,8 @@ dua, wood, and porij flat surface).
 and u. See Chapter on Language, Verbs (6).
 
 
-CHIEF GODS. 37
-
 and though, in times of calamity or affliction, when
-the other gods have turned a deaf ear to his supplica-
-tions, a native will, perhaps, as a last resource, invoke
+the other gods have turned a deaf ear to his supplications, a native will, perhaps, as a last resource, invoke
 Olorun, such occasions are rare, and as a general
 rule the god is not worshipped or appealed to. The
 name Olorun, however, occurs in one or two set
@@ -1677,8 +1540,6 @@ the solid firmament and crush the world.
 
 (5) Oloduinaye or Olodumare. The derivation of
 
-
-88 THE YORUBA'SPEAKING PEOPLES.
 
 this epithet is obscure, but it probably means
 " Replenislier of brooks " {OlodOy possessing brooks).
@@ -1734,11 +1595,9 @@ is always represented as wearing a white cloth.
 Obatala, say the priests, was made by Olorun, who
 then handed over to him the management of the
 firmament and the world, and himself retired to rest.
-Obatala is thus also a sky-god, but is a more anthro-
-pomorphic conception than Olorun, and performs
+Obatala is thus also a sky-god, but is a more anthropomorphic conception than Olorun, and performs
 functions which are not in the least connected with
-the firmament. According to a myth, which is, how-
-ever, contradicted by another, Obatala made the first
+the firmament. According to a myth, which is, however, contradicted by another, Obatala made the first
 man and woman out of clay, on which account he has
 the title of Alamorerey " Owner of the best clay; " and
 because he kneaded the clay himself he is called
@@ -1756,8 +1615,6 @@ are regarded as his handiwork, done either to punish
 
 \
 
-
-40 THE YORUBA-SPEAKING PEOPLES.
 
 some neglect towards him on the part of the parents,
 or to remind his worshippers of his power.
@@ -1790,12 +1647,9 @@ he deputes the duty, strikes the accused, so as to
 make the cylinder fall in the required direction ; but
 sceptics and native Christians say that a child is
 concealed in the cylinder and overbalances it in front
-or behind, according to instructions given before-
-hand by the priests. They add that when a child
+or behind, according to instructions given beforehand by the priests. They add that when a child
 has served for a year or two and grown too big for
 
-
-CHIEF GODS. 41
 
 the cylinder he is put to death, in order that the
 secret maj bo preserved; and is succeeded by another,
@@ -1814,12 +1668,10 @@ always represented as a woman sitting down, and
 nursing a child.
 
 Odudua is the wife of Obatala, but she was coeval
-with Olorun, and not made by him, as was her hus-
-band. Other natives, however, say that she came
+with Olorun, and not made by him, as was her husband. Other natives, however, say that she came
 from Ife, the holy city, in common with most of the
 other gods, as described in a myth which we shall
-come to shortly. Odudua represents the earth, mar-
-ried to the anthropomorphic sky-god. Obatala and
+come to shortly. Odudua represents the earth, married to the anthropomorphic sky-god. Obatala and
 Odudua, or Heaven and Earth, resemble, say the
 priests, two large cut-calabashes, which, when once
 shut, can never be opened. This is symbolised in
@@ -1846,8 +1698,7 @@ being with one arm and leg, and a tail terminating in
 a sphere, symbolises this. This notion, however, is
 not one commonly held, Obutala and Odudua being
 generally, and almost universally, regarded as two
-distinct persons. The phallus and yoni in juxta-
-position are often seen carved on the doors of the
+distinct persons. The phallus and yoni in juxtaposition are often seen carved on the doors of the
 temples both of Obatala and Odudua ; but this does
 not seem to have any reference to androgyny, since
 they are also found similarly depicted in other places
@@ -1879,9 +1730,6 @@ is in Ado, the principal town of the state of the same
 name, situated about fifteen miles to the north of
 
 
-CHIEF GODS. 4
-
-
 Q
 
 
@@ -1889,8 +1737,7 @@ Badagry. The word Ado means a lewd person of
 either sex, and its selection for the name of this town
 is a<;counted for by the following legend. Odudua
 was once walking alone in the forest Avhen she met a
-hunter, who was so handsome that the ardent tempera-
-ment of the goddess at once took fire. The advances
+hunter, who was so handsome that the ardent temperament of the goddess at once took fire. The advances
 which she made to him were favourably received, and
 they forthwith mutually gratified their passion on the
 spot. After this, the goddess became still morj
@@ -1904,8 +1751,7 @@ promised to protect him and all others who
 might come and dwell in the favoured spot where she
 had passed so many pleasant hours. In consequence
 many people came and settled there, and a town
-gradually grew up, which was named Ado, to com-
-memorate the circumstances of its origin. A temple
+gradually grew up, which was named Ado, to commemorate the circumstances of its origin. A temple
 was built for the protecting goddess; and there, on
 her feast days, sacrifices of cattle and sheep are made,
 and women abandon themselves indiscriminately to
@@ -1914,8 +1760,7 @@ the male worshippers in her honour.
 (4) Aganju and Temaja.
 
 Before her amour with the hunter, Odudua bore to
-her husband, Obatala, a boy and a girl, named respect-
-ively Aganju and Yemaja. The name Aganju means
+her husband, Obatala, a boy and a girl, named respectively Aganju and Yemaja. The name Aganju means
 uninhabited tract of country, wilderness, plain, or
 
 
@@ -1940,8 +1785,7 @@ named Orungan. This name is compounded of orurij
 sky, and gan^ from ga^ to be high; and appears to
 mean " In the height of the sky." It seems to answer
 to the lihehheme^ or " Free-air Region " of the Ewe
-peoples ; and, like it, to mean the apparent space be-
-tween the sky and the earth. The offspring of Land
+peoples ; and, like it, to mean the apparent space between the sky and the earth. The offspring of Land
 and Water would thus be what we call Air.
 
 Orungan fell in love with his mother, and as she
@@ -1953,11 +1797,8 @@ lamenting; and was pursued by Orungan, who strove
 to console her by saying that no one should know of
 what had occurred, and declared thalfaJi e co uld not
 live without her. He held out to hei^BP'alluring
-prospect of living with two husbands, one acknow-
-ledged; and the other in secret ; but she rejected all
+prospect of living with two husbands, one acknowledged; and the other in secret ; but she rejected all
 
-
-CHIEF GODS. 45
 
 his proposals with loathing, and continued to run
 away. Orungan, however, rapidly gained upon her,
@@ -1970,8 +1811,7 @@ breasts joined and formed a lagoon, and from her
 gaping body came the following: — (1) Dada (god of
 vegetables), (2) Shango (god of lightning), (3) Ogun
 (god of iron and war), (4) Olokun (god of the sea),
-(5) Olosa (goddess of the lagoon), (6) Oya (god-
-dess of the river Niger), (7) Oshun (goddess of the
+(5) Olosa (goddess of the lagoon), (6) Oya (goddess of the river Niger), (7) Oshun (goddess of the
 river Oshun), (8) Oba (goddess of the river Oba),
 (9) Orisha Oko (god of agriculture), (10) Oshosi
 (god of hunters), (11) Oke (god of mountains), (12)
@@ -1995,12 +1835,9 @@ of Obatala and Odudua ; but there are other gods, who
 Ojp, Oshun, Oba, Ogun, Dada, and the remainder as above.
 
 
-46 THE YORUBA'SPEAKING PEOPLES.
-
 do not belong to this family group, and whose genesis
 is not accounted for in any way. Two, at least, of
-the principal gods are in this category, and we there-
-fore leave for the moment the minor deities who
+the principal gods are in this category, and we therefore leave for the moment the minor deities who
 sprung from Yemaja, and proceed with the chief gods,
 irrespective of their origin.
 
@@ -2022,24 +1859,19 @@ his thunderbolts.
 To wield the thunderbolt is certainlv one of the
 proper functions of the sky-god, and the process by
 which he becomes deprived of it is not by any means
-clear. It does not appear to be the result of advanc-
-ing culture, for the Zeus of the Greeks and the Jupit-er
+clear. It does not appear to be the result of advancing culture, for the Zeus of the Greeks and the Jupit-er
 of the Romans, who had respectively the epithets
-Kerauneios and Tonans^ retained it ; as do the Nyan-
-kupon of the Tshis and the Nyonmo of the Gas;
+Kerauneios and Tonans^ retained it ; as do the Nyankupon of the Tshis and the Nyonmo of the Gas;
 while, like the Ewes and Yorubas, the Aryan Hindus
 
 • For the same notion among the Tshis and Gas, see Note at
 p. 36.
 
 
-CHIEF GODS. 47
-
 made another god, namely, Indra, offspring of Dyaus,
 wield the lightning.
 
-The notion we found amongst the Ewes that a bird-
-like creature was the animating entity of the thunder-
+The notion we found amongst the Ewes that a birdlike creature was the animating entity of the thunder-
 storm has no parallel here, and Shango is purely
 anthropomorphic. He dwells in the clouds in an
 immense brazen palace, where he maintains a large
@@ -2051,8 +1883,7 @@ chains of iron, which are forged for him by his
 brother Ogun, god of the river Ogun, of iron and of
 war ; but this, it should be observed, is seemingly a
 modem notion, and the red-hot chains furnished by
-Ogun have a suspicious resemblance to the thunder-
-bolts of Jupiter, forged by Vulcan. The Yoruba
+Ogun have a suspicious resemblance to the thunderbolts of Jupiter, forged by Vulcan. The Yoruba
 word for lightning is inana-mana {ma-ina^ a making
 of fire), and has no connection either with iron {irin)
 or a chain {eioon) ; while the name Jakuta shows that
@@ -2123,8 +1954,6 @@ X
 \
 
 
-CHIEF GODS, 49
-
 man standing, and is surrounded by images, smaller
 in size, of his three wives ; who are also represented as
 standing up, with the palms of their hands joined
@@ -2133,8 +1962,7 @@ fowls are the offerings ordinarily made to Shango,
 and, on important occasions, human beings. His
 colours are red and white. He is consulted with
 sixteen cowries, which are thrown on the ground,
-those which lie with the back uppermost being favour-
-able, and those with the back downward the reverse.
+those which lie with the back uppermost being favourable, and those with the back downward the reverse.
 He usually goes armed with a club called oshe^ made
 of the wood of the ayan tree, which is so hard that a
 proverb says, " The ayan tree resists the axe." In
@@ -2148,11 +1976,9 @@ Receiver." As amongst the Ewe tribes, a house
 struck by lightning is at once invaded and plundered
 by the disciples of the god, and a fine imposed on the
 occupants, who, it is held, must have offended him.
-Persons who are killed by lightning may not, pro-
-perly speaking, be buried ; but if the relations of the
+Persons who are killed by lightning may not, properly speaking, be buried ; but if the relations of the
 deceased offer a sufficient payment, the priests usually
-allow the corpse to be redeemed and buried. Indi-
-viduals rendered insensible by lightning are at once
+allow the corpse to be redeemed and buried. Individuals rendered insensible by lightning are at once
 despatched by the priests, the accident being regarded
 as proof positive that Shango requires them. A
 common idea is that Shango is subject to frequent
@@ -2204,10 +2030,7 @@ After waiting a long time, the slave, as his master did
 not appear, went in search of him, and before long
 
 
-CHIEF GODS. 51
-
-found his corpse hanging by the neck from an ayan-
-tree. Eventually the slave succeeded in extricating
+found his corpse hanging by the neck from an ayantree. Eventually the slave succeeded in extricating
 himself from the forest, and finding himself in a part
 of the country he knew, made his way towards Oyo,
 where he told the news.
@@ -2224,8 +2047,7 @@ They stooped over the pit and listened, and could
 hear Shango talking down in the earth. They at
 once erected a small temple over the pit, and leaving
 some priests there to propitiate the new god, and
-establish a worship, returned to Oyo, where they pro-
-claimed : " Shango is not dead. He has become an
+establish a worship, returned to Oyo, where they proclaimed : " Shango is not dead. He has become an
 orisha. He has descended into the earth, and lives
 among the dead people, with whom we have heard him
 conversing." Some of the townspeople, however,
@@ -2242,8 +2064,6 @@ priests and elders ran about among the burning
 
 £ 2
 
-
-52 THE YORUBA'SPEAKING PEOPLES.
 
 houses, shouting, '* Shango did not hang himself.
 Shango has become an orisha. See what these bad
@@ -2268,8 +2088,7 @@ with established custom, and committed suicide when
 he received the parrots' eggs they sent him. The fact
 of the ayan being sacred to the god Shango, no doubt
 caused that tree to be selected for the legendary suicide
-of the king Shango ; and the iron chain which pro-
-truded from the hole in the ground was probably
+of the king Shango ; and the iron chain which protruded from the hole in the ground was probably
 suggested by the notion of red-hot chains of lightning.
 As we have said, this myth is rapidly becoming blended
 with the older ones, and, in consequence of these events
@@ -2282,14 +2101,11 @@ and Oba, but reigning as an earthly king at Oyo. The
 story relates that one day Shango obtained from his
 
 
-CHIEF GODS. 53
-
 father Obatala a powerful charm, which, when eaten,
 would enable him to vanquish all who opposed him.
 Shango ate most of the medicament, and then ga^e
 the rest to Oya to keep for him ; but she, as soon as
-his back was turned, ate the rest herself. Next morn-
-ing the chiefs and elders assembled at the palace as
+his back was turned, ate the rest herself. Next morning the chiefs and elders assembled at the palace as
 usual, to judge the affairs of the people, and each
 spoke in his turn ; but when it came to Shango's turn
 to speak, flames burst forth from his mouth, and all
@@ -2305,8 +2121,7 @@ they had gone down, but the end of the chain was left
 protruding from the ground.
 
 This myth well exemplifies the confusion that has
-now been created in men's minds between the thunder-
-god proper and the demi-god, the result being a kind
+now been created in men's minds between the thundergod proper and the demi-god, the result being a kind
 of compound Shango, possessing attributes of each.
 The Shango of this story resembles in his marital
 relations the thunder-god, but the descent into the
@@ -2316,8 +2131,7 @@ deified king, and is probably only another version of
 the same event. It is probable that contact with
 Mohammedans has had something to do with the
 invention of this myth. The genii, as we read of
-them in the "Arabian Nights," are frequently de-
-scribed as breathing forth flames to destroy their
+them in the "Arabian Nights," are frequently described as breathing forth flames to destroy their
 
 
 54 ' THE TORUBA-SPEAKING PEOPLES.
@@ -2327,8 +2141,7 @@ when stamped upon, is a mode o£ exit often found in
 the same collection. These ideas do not appear to
 be ones at all likely to have arisen spontaneously in
 the negro mind, and we find nothing of the sort in the
-groups cognate to the Yoruba. Moreover, a thunder-
-god must, from the very nature of his being, live
+groups cognate to the Yoruba. Moreover, a thundergod must, from the very nature of his being, live
 above the earth amongst the clouds ; and to make him
 descend into the bowels of the earth, is to place
 him in a situation where he could not exercise the
@@ -2337,8 +2150,7 @@ to the following myth.
 
 Since his descent into the earth with his three
 wives at Oyo, Shango has often come back to the
-world. One day, when down in the earth, he quar-
-relled with Oya, who had stolen some of his ** medi-
+world. One day, when down in the earth, he quarrelled with Oya, who had stolen some of his ** medi-
 cines ; " and she, terrified at his violence, ran away,
 and took refuge with her brother the Sea-God
 (Olokun). As soon as Shango discovered where she
@@ -2358,8 +2170,6 @@ When Shango reached Olokun's palace and saw his
 wife Oya there, he made a great noise and commotion.
 
 
-CHIEF GODS. 55
-
 He rushed towards her to seize her, but Olokun held
 him ; and while the two were struggling together Oya
 escaped, and ran to hide with her sister Olosa (the
@@ -2367,8 +2177,7 @@ Lagoon). When Olokun saw that Oya had gone he
 released Shango, who, now more furious than ever,
 ran after his wife cursing and threatening her. In
 his rage he tore up the trees by their roots, as he
-ran along, tossing them here and there. Oya, look-
-ing out from her sister's house, saw him coming along
+ran along, tossing them here and there. Oya, looking out from her sister's house, saw him coming along
 the banks of the lagoon, and, knowing that Olosa
 could not protect her, ran out again, and fled along
 the shores towards the place where the Sun goes
@@ -2426,13 +2235,10 @@ him before marriage, it being considered a disgrace
 not to bear children. To the native mind there is no
 conflict of function between Ifa and Obatala, for the
 former causes the woman to become pregnant, while
-the latter forms the child in the womb, which is sup-
-posed to be a different thing altogether.
+the latter forms the child in the womb, which is supposed to be a different thing altogether.
 
 • Near Porto Novo.
 
-
-CHIEF GODS. 57
 
 Ifa first appeared on tlie earth at If e, but lie did not
 come from the body of Yemaja, and his parentage and
@@ -2458,8 +2264,7 @@ occasions a human victim is immolated.
 
 A priest of Ifa is termed a hahalatvo {haha-ni-awo) y
 " Father who has the secret," and the profession is
-very lucrative, as the natives never undertake any-
-thing of importance without consulting the god, and
+very lucrative, as the natives never undertake anything of importance without consulting the god, and
 always act in accordance with the answer returned.
 Hence a proverb says, "The priest who is more
 shrewd than another adopts the worship of Ifa." As
@@ -2469,8 +2274,6 @@ wisdom, and the benefactor of mankind. He also
 instructs man how to secure the goodwill of the other
 gods, and conveys to him their wishes. His priests
 
-
-58 THE YORUBA'SPEAKING PEOPLES.
 
 pluck all the hair from their bodies and shave their
 heads, and always appear attired in white cloths.
@@ -2492,11 +2295,9 @@ consulted the crafty Elegba, who was also in want,
 as to what they could do to improve their condition.
 Elegba replied that if he could only obtain
 the sixteen palm-nuts from the two palms
-A that Orungan,t the chief man, had in his planta-
-tion, he would show Ifa how to forecast the
+A that Orungan,t the chief man, had in his plantation, he would show Ifa how to forecast the
 future; and that he could then use his knowledge
-in the service of mankind, and so receive an abund-
-ance of offerings. He stipulated that in return for
+in the service of mankind, and so receive an abundance of offerings. He stipulated that in return for
 instructing Ifa in the art of divination, he should
 always be allowed the first choice of all offerings
 made. Ifa agreed to the bargain, and going to
@@ -2507,8 +2308,6 @@ complains that the sea captain Mncsitheus had only sacrificed one
 cock to entertain sixteen gods.
 ^ \ The son and ravish er of Yemaja is also so named.
 
-
-CHIEF GODS. 59
 
 to him what he proposed to do with them. Orimgan,
 very eager to know what the future had in store for
@@ -2546,18 +2345,14 @@ in Moslem schools in lieu of slates, about two feet
 long and eight or nine inches broad, on which are
 
 
-60 THE YORUBA'SPEAKING PEOPLES,
-
 marked sixteen figures. These figures are called
 *• mothers." The sixteen palm-nuts are held loosely
-in the right hand, and thrown through the half-
-closed fingers into the left hand. If one nut remain
+in the right hand, and thrown through the halfclosed fingers into the left hand. If one nut remain
 in the right hand, two marks are made, thus | |;
 and if two remain, one mark, j.* In this way are
 formed the sixteen "mothers," one of which is
 declared by the babalawo to represent the inquirer;
-and from the order in which the others are pro-
-duced he deduces certain results. The interpretation
+and from the order in which the others are produced he deduces certain results. The interpretation
 appears to be in accordance with established rule,
 but what that rule is is only known to the initiated.
 The following are the " mothers " :
@@ -2591,8 +2386,6 @@ II II I I
 succession in two cohirans of four each.
 
 
-CHIEF GODS. 01
-
 (7) Ahila Meji. (12) Ture Meji.
 
 I I
@@ -2609,14 +2402,11 @@ I I
 (13) Leti Meji.
 
 
-1
-1
 1 1 1
 
 
 1 1
 
-1
 
 1 1
 
@@ -2633,7 +2423,6 @@ I I
 
 I i 1
 
-1
 
 II II
 1 1
@@ -2649,14 +2438,10 @@ II II
 
 1 1
 
-1
 
 1 1 1
 
 
-1
-
-1
 1 1
 
 
@@ -2666,17 +2451,12 @@ II II
 (16) FuMeji.
 
 
-1
-
 1 1
 
 1 1
-
-1
 
 
 \ 1 1
-1
 II II
 1 1
 
@@ -2698,15 +2478,13 @@ cross-bow). (7) The striped pair {abila^ striped).
 pair {sha, to point). (10) The pair ending downward
 (Ktty to end, da, to upset on the ground). (11) ? The
 top-heavy pair {Buva^ to make an effort to recover
-from a stumble ; O'piny end, point). (12) The tattoo-
-mark pair (ture^ name of certain tattoo-marks).
+from a stumble ; O'piny end, point). (12) The tattoomark pair (ture^ name of certain tattoo-marks).
 (13) The edge pair {leti, on the edge of). (14) The
 folded-up pair (iTa, to fold or coil). (15) The opened
 pair (sAi, to open). (16) The alternate pair (/o, to
 pass over, pass by, jump over, skip).
 
-From these sixteen " mothers " a great many com-
-binations can be made by taking a column from two
+From these sixteen " mothers " a great many combinations can be made by taking a column from two
 different " mothers," and figures thus formed are
 called " children." Thus (13) and (2) and (11) and
 (10) make respectively —
@@ -2718,8 +2496,6 @@ I I I
 As the figures are read from right to left, the
 system is probably derived from the Mohammedans.
 
-
-CHIEF GODS. 63
 
 James Hamilton, indeed, describes* a very similar
 mode of divination which he saw in the oasis of
@@ -2738,14 +2514,12 @@ figures, which are placed side by side in a square ;
 these are then read vertically and perpendicularly
 («ic), and also from corner to corner, thus giving in
 all ten figures. As each may contain four odd or four
-even numbers, they are capable of sixteen permuta-
-tions, each of which has a separate signification, and
+even numbers, they are capable of sixteen permutations, each of which has a separate signification, and
 a proper house, or part of the square in which it
 should appear."
 
 The initiation fee paid to a priest for teaching the
-art of divination is, it is said, very heavy, and more-
-over does not cover the whole of the expense; for
+art of divination is, it is said, very heavy, and moreover does not cover the whole of the expense; for
 the Oracle is, like Oracles generally, ambiguous and
 obscure, and the neophyte finds that he constantly
 has to refer to the priests for explanations of its
@@ -2756,21 +2530,17 @@ the priest usually informs him that he must hence-
 • ** Wanderings in North Africa," pp. 264-G5.
 
 
-64 THE YORUBA-SPEAKING PEOPLES.
-
 forward abstain from some particular article of food,
 which varies with the individual.
 
 Ifa figures in connection with a legendary deluge,
 the story of which, now adapted to the Toruba
-theology, was probably derived from the Moham-
-medans. Some time after settling at Ado, Ifa be-
+theology, was probably derived from the Mohammedans. Some time after settling at Ado, Ifa be-
 came tired of living in the world, and accordingly
 went to dwell in the firmament, with Obatala.
 After his departure, mankind, deprived of his
 assistance, was unable to properly interpret the
-desires of the gods, most of whom became in con-
-sequence annoyed. Olokun was the most angry,
+desires of the gods, most of whom became in consequence annoyed. Olokun was the most angry,
 and in a fit of rage he destroyed nearly all the
 inhabitants of the world in a great flood, only a
 few being saved by Obatala, who drew them up into
@@ -2793,8 +2563,6 @@ Eshu appears to be from shuy to emit, throw out,
 evacuate. The propensity to make mischief, which
 
 
-CHIEF GODS. 65
-
 we noted as a minor characteristic of the Ewe
 Elegba, is much more prominent in the Yoruba god,
 who thus more nearly approaches a personification
@@ -2802,8 +2570,7 @@ of eyil. He is supposed always to carry a short
 knobbed club, which, originally intended to be a rude
 representation of the phallus^ has, partly through want
 of skill on the part of the modellers of the images, and
-partly through the growing belief in Elegba's malevo-
-lence, come to be regarded as a weapon of offence,*
+partly through the growing belief in Elegba's malevolence, come to be regarded as a weapon of offence,*
 Because he bears this club he has the title of
 Agongo ogo. Ogo is the name of the knobbed club,
 and is most probably a euphemism for the ^phallus ;
@@ -2817,10 +2584,8 @@ naked, seated with his hands on his knees, and with
 an immensely disproportionate phallns, is found in
 front of almost every house, protected by a small
 hut roofed with palm-leaves. It is with reference
-to this that the proverb says : " As Eshw has a mali-
-cious disposition, his house is made for him in the
-street '* (instead of indoors). The rude wooden repre-
-sentation of the phollus is planted in the earth by the
+to this that the proverb says : " As Eshw has a malicious disposition, his house is made for him in the
+street '* (instead of indoors). The rude wooden representation of the phollus is planted in the earth by the
 side of the hut, and is seen in almost every public
 place ; while at certain festivals it is paraded in great
 pomp, and pointed towards the young girls, who dance
@@ -2837,14 +2602,12 @@ phallas and a cudgel. See Catullus, xx., " The Garden God."
 Ifa, receives a share of every sacrifice offered to the
 other gods. His own proper sacrifices are, as among
 the Ewe tribes, cocks, dogs and he-goats, chosen on
-account of their amorous propensities; but on very-
-important occasions a human victim is offered. In
+account of their amorous propensities; but on veryimportant occasions a human victim is offered. In
 such a case, after the head has been struck off, the
 corpse is disembowelled, and the entrails placed in front
 of the image in a large calabash or wooden dish ; after
 which the body is suspended from a tree, or, if no tree
-be at hand, from a scaffolding of poles. Turkey-
-buzzards are sacred to Elegba and are considered his
+be at hand, from a scaffolding of poles. Turkeybuzzards are sacred to Elegba and are considered his
 messengers, no doubt because they devour the entrails
 and bodies of the sacrifices.
 
@@ -2870,17 +2633,13 @@ which the god inspires, to ensure the well-being of the
 remainder. To circumcise is daho (da-oJco) da, to be
 
 
-CHIEF GODS, 07
-
-acceptable as a sacrifice, and oZo, the foreskin. Cir-
-cumcision is ikeyiJca, or i/ioZa, the former of which
+acceptable as a sacrifice, and oZo, the foreskin. Circumcision is ikeyiJca, or i/ioZa, the former of which
 means *' the circular cutting '* (I'Zre, the act of cutting,
 and ujelca^ a circuit), and the latter, " the cutting that
 saves '* {ike, the act of cutting, and o/a, that which
 saves). Except among the Mohammedans there is no
 special time for performing the rite of circumcision,
-it being fixed for each individual by Ifa, after consul-
-tation, but usually it is done early in life. No woman
+it being fixed for each individual by Ifa, after consultation, but usually it is done early in life. No woman
 would have connection with an uncircumcised man.
 A similar operation is performed on girls, who are
 excised, by women operators, shortly before puberty,
@@ -2918,8 +2677,7 @@ proverb says, " An old dog must be sacrificed to
 Ogim," meaning that Ogun claims the best; and a
 dog's head, emblematic of this sacrifice, is always to
 be seen fastened up in some conspicuous part of the
-workshops of blacksmiths. On very important occa-
-sions, however, a human victim is offered, and, as in
+workshops of blacksmiths. On very important occasions, however, a human victim is offered, and, as in
 the case of a sacrifice to Elegba, the entrails are
 exposed before the image and the body suspended
 from a tree. The victim is slain by having his head
@@ -2928,20 +2686,17 @@ is made to gush. The reason of this is that the blood
 is believed to contain the vital principle, and therefore
 to be an offering particularly acceptable to the gods.
 
-This belief appears to be common to most bar-
-barous peoples ; the Israelites held it,* and blood
+This belief appears to be common to most barbarous peoples ; the Israelites held it,* and blood
 was considered to be so peculiarly the portion of
 their national god, that the blood of all animals slain,
 whether for sacrifice or food, had to be presented as
 an offering, no one being allowed to eat it under
 pain of death. t
 
-When war has been decided upon, a slave is pur-
-chased at the expense of the town, or tribe, and
+When war has been decided upon, a slave is purchased at the expense of the town, or tribe, and
 offered as a sacrifice to Ogun, to ensure success. The
 day before that on which he is to be immolated, the
-victim is led with great ceremony through the prin-
-cipal thoroughfares, and paraded in the market,
+victim is led with great ceremony through the principal thoroughfares, and paraded in the market,
 where he is allowed to say or do anything he pleases
 (short of escaping his impending fate), may gratify his
 
@@ -2949,8 +2704,6 @@ where he is allowed to say or do anything he pleases
 
 t Leviticus xvii. 3, 4 ; iii. 16, 17; vii. 23-27.
 
-
-CHIEF GODS, 69
 
 desire with any woman who takes his fancy, and give
 his tongue every licence. The reason of his being
@@ -2963,12 +2716,10 @@ effective, it is necessary that the war leaders should
 take the field before the body begins to become
 offensive. The Ibadans, who appear to be rather
 averse to human sacrifice, always used to perform
-this duty by deputy, paying the priests of Ife to sacri-
-fice for them a slave in that town. When the war
+this duty by deputy, paying the priests of Ife to sacrifice for them a slave in that town. When the war
 of 1877 began they omitted to do this, thinking that
 the affair would not be serious ; and, attributing their
-subsequent want of success to the omission, they after-
-wards sacrificed a slave to Ogun in their camp at
+subsequent want of success to the omission, they afterwards sacrificed a slave to Ogun in their camp at
 Kiji in 1885, they having been prevented from doing
 it earlier by their leader, a Mohammedan, who died
 in that year.
@@ -2997,8 +2748,7 @@ those who came from the body of Yemaja.
 As man worships that from which he has most to
 fear, or from which he hopes to receive the greatest
 benefits, the inland tribes pay little or no attention
-to Olokun, who is, however, the chief god of fisher-
-men and of all others whose avocations take them
+to Olokun, who is, however, the chief god of fishermen and of all others whose avocations take them
 upon the sea. When Olokun is angry he causes the
 sea to be rough and stirs up a raging surf upon the
 shore; and it is he who drowns men, upsets boats or
@@ -3020,8 +2770,7 @@ MINOR GODS. 71
 many days at a time, a human victim is offered to
 appease him. It is said that such sacrifices have
 been made in recent times, even at Lagos, by the
-people of the Isaleko quarter, who are chiefly wor-
-shippers of Olokun. The sacrifice was of course
+people of the Isaleko quarter, who are chiefly worshippers of Olokun. The sacrifice was of course
 secret, and according to native report the canoemen
 used to watch by night till they caught some solitary
 wayfarer, whom they gagged and conveyed across
@@ -3035,8 +2784,7 @@ land ; and had drowned large numbers when Obatala
 interfered to save the remainder, and forced Olokun
 back to his palace, where he bound him with seven
 iron chains till he promised to abandon his design.
-This, perhaps, has reference to some former en-
-croachment of the sea upon the low-lying sandy
+This, perhaps, has reference to some former encroachment of the sea upon the low-lying sandy
 shores, which are even now liable to be submerged/
 at spring-tides.* /
 
@@ -3054,10 +2802,7 @@ fish on the bar would run a great risk of being
 nnder I fa.
 
 
-72 THE YORUBA-SPEAKING PEOPLES.
-
-thrown overboard by the other canoemen. Olokun-
-su is an example of a local sea-goddess, originally,
+thrown overboard by the other canoemen. Olokunsu is an example of a local sea-goddess, originally,
 as on the Gold Coast at the present day, considered
 quite independent, being attached to the general god
 of the sea, and accounted for as belonging to him.
@@ -3095,8 +2840,7 @@ many of them become sufficiently tame to come for
 
 MINOR GODS. 78
 
-the offering as soon as they see or hear the wor-
-shippers gathering on the bank.
+the offering as soon as they see or hear the worshippers gathering on the bank.
 
 (3) Shankpanna,
 
@@ -3104,8 +2848,7 @@ Shankpanna, or Shakpana, who also came from the
 body of Yemaja, is the Small-pox god. The name
 appears to be derived from shan, to daub, smear, or
 plaster, which probably has reference to the pustules
-with which a small-pox patient is covered, and ak-
-pania,* a man-killer, homicide. He is accompanied
+with which a small-pox patient is covered, and akpania,* a man-killer, homicide. He is accompanied
 by an assistant named Buku,t who kills those attacked
 by small-pox by wringing their necks.
 
@@ -3113,16 +2856,13 @@ Shan-kpanna is old and lame, and is depicted as
 limping along with the aid of a stick. According to
 a myth ho has a withered leg. One day, when the
 gods were all assembled at the palace of Obatala, and
-were dancing and making merry, Shankpanna endea-
-voured to join in the dance, but, owing to his defor-
+were dancing and making merry, Shankpanna endeavoured to join in the dance, but, owing to his defor-
 mity, stumbled and fell. All the gods and goddesses
 thereupon burst out laughing, and Shankpanna, in
 revenge, strove to infect them with small-pox, but
 Obatala came to the rescue, and, seizing his spear,
-drove Shankpanna away. From that day Shank-
-panna was forbidden to associate with the other gods,
-and he became an outcast who has since lived in deso-
-late and uninhabited tracts of country.
+drove Shankpanna away. From that day Shankpanna was forbidden to associate with the other gods,
+and he became an outcast who has since lived in desolate and uninhabited tracts of country.
 
 Temples dedicated to Shankpanna are always built
 in the bush, at some little distance from a town or
@@ -3174,8 +2914,7 @@ sufferer comes to the rescue and wakes him, upon
 MINOR GODS. 75
 
 which Shigidi leaps off, falls upon the earthen floor,
-and disappears, for he only has power over man dur-
-ing sleep. This superstition still lingers among the
+and disappears, for he only has power over man during sleep. This superstition still lingers among the
 negroes of the Bahamas of Yoruba descent, who talk
 of being "hagged," and believe that nightmare is
 caused by a demon that crouches upon the breast of
@@ -3215,8 +2954,7 @@ or who trespass there with bad intentions.
 
 Olarosa (? Alarense, helper) is the tutelary deity of
 Houses. He is represented as armed with a stick or
-sword, and his image is found in almost every house-
-hold guarding the entrance. His office is to drive
+sword, and his image is found in almost every household guarding the entrance. His office is to drive
 away sorcerers and evil spirits, and to keep Elegba
 from entering the house.
 
@@ -3225,8 +2963,7 @@ from entering the house.
 Dada, more properly Eda, or Ida, is the god of
 New-born Babes and Vegetables. The name appears
 to mean natural production, anything produced or
-brought forth by natural process. Dada is repre-
-sented by a calabash ornamented with cowries, on
+brought forth by natural process. Dada is represented by a calabash ornamented with cowries, on
 which is placed a ball of indigo. He is one of those
 who came from the body of Yemaja.
 
@@ -3271,8 +3008,7 @@ emblem is a large cowry. One proverb says, " Aje
 Shaluga often passes by the first caravan as it comes
 to the market, and loads the last with benefits ; " and
 another, " He who while walking finds a cowry is
-favoured by Aje Shaluga." The large cowry, emble-
-matic of Aje Shaluga, has no value as a medium of
+favoured by Aje Shaluga." The large cowry, emblematic of Aje Shaluga, has no value as a medium of
 exchange, the small white cowries being alone used
 for that purpose. He is the patron of dyes and of
 colours generally. He came from the body of
@@ -3286,12 +3022,9 @@ from the body of Yemaja. As the natives chiefly
 depend upon the fruits of the earth for their food,
 
 
-78 THE YORUBA-SPEAKING PEOPLES.
-
 Orisha Oko is much honoured. There is scarcely a
 town or village that has not a temple dedicated to
-him, and he has a large number of priests and priest-
-esses in his service.
+him, and he has a large number of priests and priestesses in his service.
 
 Although his first care is to promote the fertility
 of the earth, he is also the god of natural fertility
@@ -3302,12 +3035,9 @@ was, apparently, primarily a garden-god, who fostered
 and protected crops. (Catullus, xix. xx.; TibuUus, i. i.)
 
 An emblem of Orisha Oko is an iron rod, and honey
-bees are his messengers. It is probably with refer-
-ence to his phallic attributes that he has the title of
-Eni'duru — " the erect personage." One of his func-
-tions is to cure malarial fevers, to which those who
-disturb the soil in the process of cultivation are par-
-ticularly liable.
+bees are his messengers. It is probably with reference to his phallic attributes that he has the title of
+Eni'duru — " the erect personage." One of his functions is to cure malarial fevers, to which those who
+disturb the soil in the process of cultivation are particularly liable.
 
 There is an annual festival to Orisha Oko, held
 when the yam crop is ripe, and all then partake of
@@ -3316,8 +3046,7 @@ the priestesses give themselves indiscriminately to all
 the male worshippers of the god, and, theoretically,
 every man has a right to sexual intercourse with
 every woman he may meet abroad. Social prejudices
-have, however, restricted the application of this pri-
-vilege, and it is now only slave-girls, or women of the
+have, however, restricted the application of this privilege, and it is now only slave-girls, or women of the
 lowest order, who are really at the disposal of the
 public, and then only if they are consenting parties.
 At this festival all kinds of vegetable productions are
@@ -3339,8 +3068,7 @@ of a bird perched upon an iron bar.
 Aroni is the Forest-god, and, like the last, has a
 knowledge of medicine, though the cure of disease is
 not his special function. The name means "One
-having a withered limb,** and Aroni is always repre-
-sented as of human shape but with only one leg, the
+having a withered limb,** and Aroni is always represented as of human shape but with only one leg, the
 head of a dog, and a dog's tail.
 
 Aroni seizes and devours those who meet him in.
@@ -3351,20 +3079,16 @@ of the forest, and keeps him there 'for two or three
 months, during which time he teaches him the secrets
 of the plants and their medicinal properties. When
 the pupil has no more to learn Aroni dismisses him,
-giving him a hair from his tail to prove to the incre-
-dulous that he has really been initiated.
+giving him a hair from his tail to prove to the incredulous that he has really been initiated.
 
 An eddy of wind, rushing through the forest and
-swirling up the dead leaves, is considered a mani-
-festation of Aroni.
+swirling up the dead leaves, is considered a manifestation of Aroni.
 
 (14) Aja.
 
 Aja, whose name appears to mean a wild vine, is a
 deity somewhat similar to Aroni. Like Aroni, she
 
-
-80 THE YORUBA-SPEAKING PEOPLES.
 
 carries off persons who meet her into the depths of
 the forest, and teaches them the medicinal properties
@@ -3410,8 +3134,7 @@ which all twins, and the parents of twins, from a long
 distance round make pilgrimages.
 
 It is said to be usual in Ondo to destroy one of
-twins. This is contrary to the practice of the Yoru-
-bas, and, if true, the custom has probably been bor-
+twins. This is contrary to the practice of the Yorubas, and, if true, the custom has probably been bor-
 rowed from the Benin tribes to the east.
 
 (17) OSHUMARE.
@@ -3421,8 +3144,7 @@ the Underneath, who comes up at times above the
 edge of the earth to drink water from the sky. The
 name is compounded of shu^ to gather in dark clouds,
 to become gloomy, and the word marej or maye^ which
-occurs in one of the epithets of Olorun, and the mean-
-ing of which is uncertain. This god is also common
+occurs in one of the epithets of Olorun, and the meaning of which is uncertain. This god is also common
 to the Ewe-tribes, under the name of Anyiewo, and
 has been described in " The Ewe-Speaking People of
 the Slave Coast of West Africa." A variety of the
@@ -3445,8 +3167,6 @@ away his anger. The falling of boulders or detached
 G
 
 
-82 THE YORUBA-SPEAKING PEOPLES.
-
 pieces of rock is always considered the handiwork of
 Oke and a sign that something is required. The
 emblem of Oke is a stone or fragment of rock. He
@@ -3462,8 +3182,7 @@ till the danger is past.
 
 Oshosi, who is also one of those who came from
 Yemaja, is the patron of Hunters. He resides in the
-forest, and drives the game into the snares and pit-
-falls of his faithful followers, whom he also protects
+forest, and drives the game into the snares and pitfalls of his faithful followers, whom he also protects
 from beasts of prey. He is represented as a man
 armed with a bow, or frequently by a bow alone.
 Offerings are made to him of the fruits of the chase,
@@ -3495,14 +3214,12 @@ kill them. Some of them sought refuge with Olosa,
 some with Olokun, and the remainder with their
 grandmother, Yemaja, who turned them into fish.
 Thus all the sons were driven out of the sky, but the
-daughters remained with their mother and still accom-
-pany her by night. This myth is virtually the same
+daughters remained with their mother and still accompany her by night. This myth is virtually the same
 as that current among the eastern Ewe-tribes, who
 have almost certainly learnt it from their Yoruba
 neighbours.
 
-To see the new moon is lucky, and, just as in Eng-
-land, people wish when they first see it. As amongst
+To see the new moon is lucky, and, just as in England, people wish when they first see it. As amongst
 the Ewe-tribes, an eclipse of the Moon is supposed to
 indicate that the Sun is beating her, and steps are
 taken to drive him away, similar to those described in
@@ -3516,23 +3233,19 @@ Ofe, which seems to mean a pale blue colour. When
 an evening star she is called Irawo-ale, Star of the
 Evening. Sirius is called Irawo-oko, Canoe Star,
 because it is believed to be a guide to canoemen. A
-proverbial saying likens the stars to chickens fol-
-lowing a hen, the Moon ; and the Milky Way is called
+proverbial saying likens the stars to chickens following a hen, the Moon ; and the Milky Way is called
 " the group of chickens."
 
 
 g2
 
 
-84 THE YORUBA-SPEAKING PEOPLES,
-
 (23) Olori-merin.
 
 Olori-merin, possessor of four heads, is anotlier god
 wliose worship is nearly, if not quite, obsolete. He
 was the tutelary deity of towns, and was represented
-hy a hillock, or, if no hillock existed within the pre-
-cincts of the town, by an artificial mound.
+hy a hillock, or, if no hillock existed within the precincts of the town, by an artificial mound.
 
 Sacrifice was made to Olori-merin every three
 months, or four times a year, and always consisted of
@@ -3565,27 +3278,21 @@ described in the last two chapters we probably see
 the result of the indwelling-spirit theory having been
 lost sight of. As long as a god was accepted to be
 the animating principle or spiritual entity of some
-natural object or feature, his origin required no ex-
-planation, for his existence was bound up with the
+natural object or feature, his origin required no explanation, for his existence was bound up with the
 feature or object, and, if the question was thought of
 at all, he must have been, in the native mind, coeval
 with the origin of the world. When, however, as has
 been the case with most of the deities worshipped by
 the Yoruba tribes as a whole, the gods ceased to be
 identified with local objects or natural phenomena,
-some other explanation of their origin became neces-
-sary ; for man, however low he may be in the scale of
+some other explanation of their origin became necessary ; for man, however low he may be in the scale of
 civilisation, is always desirous of knowing the reasons
-for everything, and the West African negro in par-
-ticular is of a very inquisitive turn of mind. Then,
+for everything, and the West African negro in particular is of a very inquisitive turn of mind. Then,
 in order to satisfy the natural desire to know who the
 gods were and whence they came, the myths we have
-already recounted grew up, and the numerous discre-
-pancies in them appear to show that the process was
+already recounted grew up, and the numerous discrepancies in them appear to show that the process was
 comparatively recent. It looks as if the stories had
 
-
-86 THE YORUBA'SPEAKING PEOPLES.
 
 not yet had sufficient time to become generally known
 in a commonly accepted version.
@@ -3594,17 +3301,14 @@ The deities Obatala and Odudua represent, say
 the priests, Heaven and Earth. Olorun is the real
 Heaven-god, or Sky-god, answering to the Ewe
 Mawu, but he is now almost pushed out of sight, and
-Obatala, a more active agent, acts for him. The dif-
-ference between Olorun and Obatala appears to be
+Obatala, a more active agent, acts for him. The difference between Olorun and Obatala appears to be
 that the former is the personal divine firmament, and
-the latter an anthropomorphic sky-god, a later con-
-ception ; and we perhaps here see a repetition of the
+the latter an anthropomorphic sky-god, a later conception ; and we perhaps here see a repetition of the
 process by which in the ^religion of ancient Greece
 Kronos supplanted Uranus. Obatala, or Heaven,
 marries Odudua, or Earth,* and has two children,
 named Aganju and Yemaja, who, according to the
-priests, represent Land and Water. These two inter-
-marry and have a son, Orungan, " Air," the region
+priests, represent Land and Water. These two intermarry and have a son, Orungan, " Air," the region
 between the solid firmament and the earth. Orungan
 ravishes his mother Yemaja, who, while endeavouring
 to escape from further outrage, falls and bursts open,
@@ -3612,10 +3316,8 @@ whereupon a number of gods emerge from her gaping
 body.
 
 The gods whose origin is thus accounted for as the
-offspring of Yemaja, are of various types. The Sea-
-god (Olokun), the Thimder-god (Shango), the Sun,
-the Moon, the Lagoon (Olosa), thu three river-god-
-desses Oya, Oshun, and Oba, the god of Mountains
+offspring of Yemaja, are of various types. The Seagod (Olokun), the Thimder-god (Shango), the Sun,
+the Moon, the Lagoon (Olosa), thu three river-goddesses Oya, Oshun, and Oba, the god of Mountains
 (Oke), and Ogun, god of iron and war and of the River
 Ogun, are all the product of Nature-worship, but are
 not of one type, for the Sun and Moon belong to the
@@ -3629,10 +3331,8 @@ REMARKS OX THE FOREGOING. tft
 old order of things, to the same religious system as
 Olorun, and are personally divine, while the others
 belong to the new order, and are anthropomorphic.
-Shankpanna, god of small-pox, is personified pesti-
-lence, and belongs to another type; while Dada,
-Oshosi, Aje Shaluga, and Orisha Oko, as the respec-
-tive patrons of vegetable productions, hunters, wealth,
+Shankpanna, god of small-pox, is personified pestilence, and belongs to another type; while Dada,
+Oshosi, Aje Shaluga, and Orisha Oko, as the respective patrons of vegetable productions, hunters, wealth,
 and agriculture, may be regarded as the tutelary
 deities of industries, and as belonging to a third class
 of religious conceptions. The myth thus assigns a
@@ -3648,8 +3348,7 @@ their origin. These gods are the God of Divination
 the Harmattan Wind (Oye), the Rainbow (Oshumare),
 the tutelary deity of households (Olarosa), the god of
 Medicine (Osanhin), and Shigidi. These also are of
-various types. The Harmattan Wind and the Bain-
-bow are Nature-gods of the old order, and Aroni, god
+various types. The Harmattan Wind and the Bainbow are Nature-gods of the old order, and Aroni, god
 of forests, of the new. Olarosa and Osanhin are
 tutelary deities, and Shigidi is personified nightmare.
 Ifa was probably originally the Grod of fecundation,
@@ -3667,8 +3366,7 @@ The incompleteness of the scheme seems, as has been
 said, to show that the myth of Yemaja is comparatively
 recent, and this is supported by the fact that the
 myth itself is not universally accepted in its entirety.
-Shango, for example, is said by some to be of inde-
-pendent origin, like Ifa ; and Odudua, the mother of
+Shango, for example, is said by some to be of independent origin, like Ifa ; and Odudua, the mother of
 Yemaja, according to the myth, is by others included
 in the number of those who sprang from Yemaja's
 body. No general consensus of opinion has yet been
@@ -3683,8 +3381,7 @@ origin of man. According to some, Obatala made the
 first man and woman out of clay or mud, whence he
 has obtained his titles of Alamorere and Orisha
 Kpokpo ; while, according to others, the first pair
-came, with the gods, from the body of Yemaja. Al-
-though the first story somewhat resembles the account
+came, with the gods, from the body of Yemaja. Although the first story somewhat resembles the account
 of the origin of man given in the Book of Genesis,
 there is no reason for supposing it to be borrowed.
 When uncivilised man, after speculating about the
@@ -3705,8 +3402,7 @@ less labour than to carve one out of a block of wood,
 whence it is that most of the images of the gods are
 made of clay. Clay figures being primordial, and
 images being ordinarily made of clay even when the
-arts have somewhat advanced, this would be the sub-
-stance which the myth-makers would introduce into
+arts have somewhat advanced, this would be the substance which the myth-makers would introduce into
 their myths describing the origin of the first pair, a
 connection of ideas between clay and the human form
 already existing.*
@@ -3727,20 +3423,16 @@ the first man and woman were of their race.
 Another tradition, though it makes Ife the place
 of origin of the Yoruba tribes, represents it as being
 colonised by persons migrating from the interior.
-This tradition is perhaps a dim recollection of a his-
-torical fact, historical, that is, in so far that the
+This tradition is perhaps a dim recollection of a historical fact, historical, that is, in so far that the
 Yoruba tribes probably did in the remote past come
 
 * According to one Greek myth, Pandora, the first woman, was
-made by Hephaestus out of curth, and, according to anotlier, Pro-
-metheus made man out of earth and water. See also Lucian,
+made by Hephaestus out of curth, and, according to anotlier, Prometheus made man out of earth and water. See also Lucian,
 " Dialogues of the Gods," i.
 
 
 i
 
-
-9:) THE YORUBA'SPEAKING PEOPLES.
 
 down from the interior, and occupy the territory in
 which they were found at the commencement of the
@@ -3758,8 +3450,7 @@ Long ago a certain person living in the far interior
 sent fifteen people from his country to go to the
 south, and with them came, of his own free will, one
 named Okambi,* who afterwards became the first
-King of Yoruba. When they were leaving, the per-
-son who sent them gave Okambi a slave, a trumpeter
+King of Yoruba. When they were leaving, the person who sent them gave Okambi a slave, a trumpeter
 named Okinkin,t a fowl, and something tied up in a
 piece of black cloth. They journeyed for some time,
 and when they opened the gate of the south and
@@ -3768,10 +3459,8 @@ but water spread out before them. At first they
 thought of returning, but fearing the anger of the
 person who had sent them, they entered the water ;
 and, finding it quite shallow, waded on through it.
-This they did for some time until Okinkin the trum-
-peter sounded his trumpet, in accordance with the
-instructions the person had given, and thereby re-
-minded Okambi of the something tied up in black
+This they did for some time until Okinkin the trumpeter sounded his trumpet, in accordance with the
+instructions the person had given, and thereby reminded Okambi of the something tied up in black
 cloth, which was to be opened when the trumpet
 
 • This name means " an only child." Okan, one, and hi^ to bear,
@@ -3800,8 +3489,7 @@ mound and scratched the earth here and there, and
 wherever the earth fell it dried up the water. When
 there was a good space covered with earth, Okambi
 came down from the tree, bringing with him his
-trumpeter Okinkin and his slave Tetu. % The other per-
-sons wished to come down also, but Okambi would not
+trumpeter Okinkin and his slave Tetu. % The other persons wished to come down also, but Okambi would not
 
 • This number often recurs in Yoruba myths. There weresixteen
 palm-nnts on the two palms in the garden of Orungan, the chief man,
@@ -3831,16 +3519,14 @@ rule Ife during their absence.
 This tradition is vague and meagre of detail, the
 only points brought out being that a certain number
 of persons migrated southward from the interior, and
-found a region covered with water. This latter de-
-tail, however, strongly supports the theory that a real
+found a region covered with water. This latter detail, however, strongly supports the theory that a real
 migration took place; for the large stretches of shallow
 water of the lagoon system, which during the rainy
 season are enormously extended by the inundation of
 the low-lying portions of the surrounding coimtry,
 could scarcely have failed to excite the wonder of a
 people accustomed to the plateaus and mountain
-ranges of the interior, and to leave a lasting impres-
-sion upon their memories.
+ranges of the interior, and to leave a lasting impression upon their memories.
 
 • Adimu, a tight grasp, hold-fast.
 
@@ -3858,14 +3544,12 @@ PRIESTS AND WORSHIP.
 
 
 The Yoruba priesthood is divided into recognised
-orders, but before describing them it will be neces-
-sary to give some account of a secret society which is
+orders, but before describing them it will be necessary to give some account of a secret society which is
 inseparably connected with the priesthood, and which,
 except in Jebu, where it is called Oshogbo, is known
 as the Ogboni Society.
 
-The Ogboni Society really holds the reins of govern-
-ment, and kings themselves are obliged to submit to
+The Ogboni Society really holds the reins of government, and kings themselves are obliged to submit to
 its decrees. The members are popularly believed to
 possess a secret from which they derive their power,
 but their only secret appears to be that of a powerful
@@ -3875,8 +3559,7 @@ carry out, and if necessary enforce, the decrees of the
 body. Each town and village has its Ogboni " lodge,"
 and the members recognise each other by conventional
 signs and passwords. At their meetings, which are
-held with a great affectation of mystery, they delibe-
-rate upon all matters which interest the tribe or com-
+held with a great affectation of mystery, they deliberate upon all matters which interest the tribe or com-
 munity. The decisions of the Ogboni are final, and
 nothing of importance can be done without their
 consent When the missionaries wished to establish
@@ -3893,13 +3576,11 @@ executioners.
 
 Of course, since the organisation is secret, little can
 really be known about it. Death is said to be the
-penalty for betraying the secrets of the order. Ac-
-cording to native report, a member who has been
+penalty for betraying the secrets of the order. According to native report, a member who has been
 convicted of such an offence is placed in a narrow cell,
 with his legs protruding through two holes in the
 wall into an adjoining cell, where they are fastened to
-two stakes driven into the earthen floor. The execu-
-tioner sits in this adjoining cell, and the offender is
+two stakes driven into the earthen floor. The executioner sits in this adjoining cell, and the offender is
 tortured to death by having the flesh scraped from his
 legs with sharp-edged shells. Whether this is true
 or not it is impossible to say.
@@ -3909,8 +3590,7 @@ for its chief object the preservation of established
 religious customs, while according to others it is
 principally occupied with the civil power. It really
 appears to concern itself with every matter of public
-interest, and seems to resemble in all important par-
-ticulars a very similar society, called Porro, which is
+interest, and seems to resemble in all important particulars a very similar society, called Porro, which is
 found among the Timnis of Sierra Leone. What is
 quite certain is that the protecting deity of the
 Ogboni is the goddess Odudua, who is generally
@@ -3929,15 +3609,13 @@ functions are later usurpations. If this were so, it
 would to some extent be connected with phallic
 worship, and phallic emblems are very commonly
 seen carved on the doors of Ogboni lodges. The
-name Ogboni is probably derived from Ogba, " Com-
-panion."
+name Ogboni is probably derived from Ogba, " Companion."
 
 The Alafin of Yoruba is the chief of all the Ogboni,
 and he thus is able to exert influence beyond the
 limits of his own kingdom. In most states the chief
 of the Ogboni is the head of the priesthood, and is
-styled Eheji Orisha, " Next to the Gods." He con-
-vokes councils of priests on extraordinary occasions,
+styled Eheji Orisha, " Next to the Gods." He convokes councils of priests on extraordinary occasions,
 and decides disputed points. In Jebu every man of
 rank is an Oshogbo, but in Ibadan, as has been said,
 the Ogboni seem chiefly to exercise the functions of
@@ -3961,8 +3639,6 @@ medicine ; (3) priests of Obatala and Odudua. White
 • " Savage Africa," p. 216.
 
 
-96 THE YORUBA-SPEAKING PEOPLES,
-
 is the distinguishing colour of this order, and all
 priests belonging to it invariably wear white cloths.
 The Babalawo wear armlets made of palm-fibre, and
@@ -3985,8 +3661,7 @@ brass armlets and anklets.
 The third order consists of (1) priests of Orisha
 Oko, god of Agriculture, and (2) priests of demi-gods,
 or deified men, such as Huisi, who defended Oya
-against Shango. Priests of this order are dis-
-tinguished by a small white mark painted on the
+against Shango. Priests of this order are distinguished by a small white mark painted on the
 forehead.
 
 The reason of the Babalawo taking the highest
@@ -4021,8 +3696,7 @@ a particular individual; another, called gogOy is a
 drawing of lots. A certain number of grass stalks,
 one of which is bent, are held in the hand or wrapped
 in a piece of cloth, so that the ends only show; and
-each person in turn draws one, the bent stalk in-
-dicating the one who is in fault. The person of
+each person in turn draws one, the bent stalk indicating the one who is in fault. The person of
 a priest is sacred, and violence offered to one is
 severely punished.
 
@@ -4069,8 +3743,7 @@ sanctity of the locality. Sometimes there is a grove
 only, without any temple, but more frequently the
 grove or avenue adjoins a shrine. These groves are
 regarded with superstitious reverence, and have
-proper names; a grove sacred to If a and his com-
-panion Odu is, for instance, called an Igbodu. Near
+proper names; a grove sacred to If a and his companion Odu is, for instance, called an Igbodu. Near
 the western entrance of the town of Ode Ondo is a
 celebrated grove or sacred avenue, to one side of
 which, in the adjoining bush, the sacrifice of human
@@ -4089,24 +3762,20 @@ to be found in the central square of the town, or near
 the principal gate, and those of the tutelary deities
 of families or households near the house-door or in
 the yard. In shape and construction they resemble
-the temples of the chief gods, but those of the pro-
-tecting deities of households are mere miniatures, and
+the temples of the chief gods, but those of the protecting deities of households are mere miniatures, and
 are sometimes only small sheds, open at the ends and
 sides. Besides these structures, which are seen in
 every street, one often finds larger huts, circular in
-shape, thatched with grass, and large enough to con-
-tain a seated man. These, which might be mistaken
+shape, thatched with grass, and large enough to contain a seated man. These, which might be mistaken
 for temples but for the fact that they contain no
-images, are built for the accommodation of pious per-
-sons who wish to meditate and pray. A temple is
+images, are built for the accommodation of pious persons who wish to meditate and pray. A temple is
 called lie Orisha^ " House of the Orisha."
 
 The Yoruba gods are almost invariably represented
 by images in human form, which appear grotesque,
 but are not meant to be so, the grotesqueness being
 merely the result of want of skill. These images are
-regarded as emblems of absent gods. They them-
-selves are not worshipped, and there is no idolatry in
+regarded as emblems of absent gods. They themselves are not worshipped, and there is no idolatry in
 the proper sense of the word, though no doubt there
 is a tendency to confuse the symbol with the god.
 Likewise, through a confusion of objective and
@@ -4126,8 +3795,7 @@ regarded as offerings peculiarly proper to the gods,
 are smeared upon the posts, door-sills, and threshold.*
 In important temples, and also in the houses of kings
 and chiefs of high rank, a tall drum, called a gbeduy is
-kept. It is usually covered with carvings represent-
-ing animals and birds, and the phallus. This drum
+kept. It is usually covered with carvings representing animals and birds, and the phallus. This drum
 is only beaten at religious f^tes and public ceremonies,
 and a portion of the blood of the victims immolated is
 always sprinkled upon the symbolic carvings, upon
@@ -4136,8 +3804,7 @@ sacrificed chickens are also smeared. In this case the
 offering is to the protecting spirit of the drum, which
 is that of a slave who has been sacrificed on it. This
 plan of supplying an artificial guardian-spirit for
-objects, other than natural objects, which are con-
-sidered of importance, is a development of ghost-
+objects, other than natural objects, which are considered of importance, is a development of ghost-
 worship, and on the Grold Coast such guardians are
 provided for the " stools " of kings and chiefs, as well
 as for temple and state drums.
@@ -4165,8 +3832,7 @@ PRIESTS AND WORSHIP, 101
 value, such as a few cowries, or a little maize-flour,
 palm-oil, or palm-wine.
 
-As has already been mentioned, each god has cer-
-tain animals which it is proper to sacrifice to him ;
+As has already been mentioned, each god has certain animals which it is proper to sacrifice to him ;
 to use the phraseology of the Old Testament, every
 god has his "clean" and his " uncleaa " animals.
 Some sacrifices are " unclean " to all the gods, as the
@@ -4176,8 +3842,7 @@ offal and carrion, and are, in fact, scavengers, we can
 see a reason for considering them unclean ; but why
 the grey parrot should also be so considered is not
 evident. The natives endeavour to account for the
-" imcleanliness " of these birds by two popular say-
-ings, which nm as follows : —
+" imcleanliness " of these birds by two popular sayings, which nm as follows : —
 
 "The turkey-buzzard was required to offer sacrifice,
 but he refused to do so ; the vulture was required to
@@ -4206,14 +3871,12 @@ On important occasions the priest designates to the
 suppliants the sacrifice which he thinks necessary
 to induce the god to lend a favourable ear. They
 prostrate themselves before the shrine with cries of
-" Toto^ totO'huny* an exclamation which denotes humi-
-liation and submission, while the priest, in a long
+" Toto^ totO'huny* an exclamation which denotes humiliation and submission, while the priest, in a long
 harangue, presents their petition, or case, to the god.
 He usually begins his address by flattering the god,
 dwelling upon his fame and power, and showing how
 his humble servitors are entirely dependent upon his
-good- will. Then he calls attention to the self-abase-
-ment of the god's faithful followers " So-and-so," to
+good- will. Then he calls attention to the self-abasement of the god's faithful followers " So-and-so," to
 the value of the victim which they have brought him,
 and begs him to be propitious and listen to their
 humble prayer. He then sacrifices the victim, sprinkles
@@ -4222,11 +3885,9 @@ on the ground,* and places the head and entrails in a
 shallow earthen vessel in front of the temple.
 /K Sacrifices are thus offered in the presence of the
 god, that is, before his image, which he is supposed
-to animate for the time being, but there is one ex-
-ception to this general rule. This is, on occasions
+to animate for the time being, but there is one exception to this general rule. This is, on occasions
 when sacrifice is made at cross-roads, or at a point
-where several roads meet, in order to avert an im-
-pending calamity. In this case the sacrifice is pro-
+where several roads meet, in order to avert an impending calamity. In this case the sacrifice is pro-
 bably made to the legion of spirits, mostly evil, who
 are supposed to haunt the forests and uninhabited
 tracts of country ; and the general belief is that the
@@ -4247,10 +3908,8 @@ the god answers in a bird-like, twittering voice, first
 heard whispering at a little distance and then coming
 nearer. When this occurs, the worshippers lie prone
 with their faces to the ground, awe-stricken, while
-the priest carries on a conversation with the spirit-
-voice, and subsequently interprets it to the auditors.
-This conception that a spirit- voice should be a twitter-
-ing, chirping, or whistling sound is very wide-spread ;
+the priest carries on a conversation with the spiritvoice, and subsequently interprets it to the auditors.
+This conception that a spirit- voice should be a twittering, chirping, or whistling sound is very wide-spread ;
 as Dr. Tylor has shown, it used to exist among the
 Greeks and Romans, and it may at the present day
 be found among the Indian tribes of North America,
@@ -4266,8 +3925,7 @@ Since the god is personal to the individual, and has no
 other purpose than to protect him, the image is only
 of use as a vehicle of communication between them so
 long as the man lives. After his death the god no
-longer enters or animates the image, which in conse-
-quence loses its sacred character, and becomes an
+longer enters or animates the image, which in consequence loses its sacred character, and becomes an
 ordinary object of no value. Thus, whenever a man
 dies, his tutelary god, if he had one, is thrown away
 
@@ -4314,8 +3972,7 @@ his wives poisoned themselves in order to accompany
 him to the Land of the Dead. In Ondo about twenty
 persons were sacrificed when a king died, and there
 was an established procedure, one victim having to be
-immolated when the corpse was washed, four at dif-
-ferent entrances to the palace, and a sixth in the
+immolated when the corpse was washed, four at different entrances to the palace, and a sixth in the
 market-place. On the day of the burial from eight to
 ten victims, with a cat, were either killed and interred
 
@@ -4325,13 +3982,11 @@ PRIESTS AND WORSHIP, 105
 with the corpse or buried alive, and during the three
 months which are required to elapse before a new
 king can be installed there were occasional sacrifices.
-In 1882 the king of Ondo entered into an engage-
-ment with the government of Lagos to put an end to
+In 1882 the king of Ondo entered into an engagement with the government of Lagos to put an end to
 human sacrifices, but he does not appear to have kept
 it. At the present day, amongst all the tribes, when
 a king or chief dies it is usual for two of his wives to
-commit suicide, and should no volunteers be forth-
-coming, two are selected and put to death. Horses
+commit suicide, and should no volunteers be forthcoming, two are selected and put to death. Horses
 are often killed and buried with their owners.
 
 There was until very recently, and perhaps still is,
@@ -4341,8 +3996,7 @@ the real nature of the ceremony. The victim was
 enclosed in a long basket, as in Dahomi, from whence
 perhaps the custom was adopted, thrown down from
 a height, and despatched by a mob armed with clubs.
-It was a national offering, but when times were pros-
-perous the victim was often spared and dedicated to a
+It was a national offering, but when times were prosperous the victim was often spared and dedicated to a
 god, whose temple-slave he then became. There used
 also to be an annual sacrifice of one human victim at
 Ikoradu, and a similar offering every sixth year to the
@@ -4354,8 +4008,7 @@ If a, Elegba, Ogun, Olokim, and Olosa ; but they are
 nearly always made at night, and the people are
 required to remain in their houses. There is none of
 the publicity and display which we found in Ashanti
-and Dahomi, and so the people escape the brutal-
-ising effect which the frequent spectacle of scenes of
+and Dahomi, and so the people escape the brutalising effect which the frequent spectacle of scenes of
 
 
 106 THE YORUBA-SPEAKINQ PEOPLES.
@@ -4363,8 +4016,7 @@ ising effect which the frequent spectacle of scenes of
 bloodshed must produce. Even the priests, always
 the last to be influenced by a change of public
 opinion, seem to regard human sacrifice as something
-to be deplored, but occasionally necessary. The vic-
-tim is slaughtered almost in secret, and the sound of
+to be deplored, but occasionally necessary. The victim is slaughtered almost in secret, and the sound of
 the temple-drums and the mournful chants of the
 assistants alone inform the people of what is taking
 place. The natives avoid any direct reference to the
@@ -4383,16 +4035,13 @@ The Commissioners who were sent to the interior
 in 1886 to break up the camps of the belligerent
 tribes, succeeded in inducing the rulers of Ijesa
 and Ekiti to sign an enactment abolishing human
-sacrifices, both to the gods and at the funeral obse-
-quies of men of rank. They endeavoured to obtain
+sacrifices, both to the gods and at the funeral obsequies of men of rank. They endeavoured to obtain
 a similar undertaking from the Ifes, but here they
 met with some diflBculty, If e being the home of human
 sacrifice, and though the chief men promised to put
-an end to the practice, only four of the eighteen per-
-sons who composed the Ife Council signed the agree-
+an end to the practice, only four of the eighteen persons who composed the Ife Council signed the agree-
 ment. The Oni of Ife said that sacrifice was made at
-Ife for the whole human race, the white man not ex-
-cepted ; and that if the sacrifice made on his behalf
+Ife for the whole human race, the white man not excepted ; and that if the sacrifice made on his behalf
 were to be discontinued, his superior knowledge, and
 the arts derived therefrom, would depart from him.
 
@@ -4412,16 +4061,14 @@ face, with a long pointed nose and thin lips, but
 sometimes the head of an animal.
 
 Egungun appears in the streets by day or night
-indiflFerently, leaping, dancing, or walking gro-
-tesquely, and uttering loud cries. He is supposed
+indiflFerently, leaping, dancing, or walking grotesquely, and uttering loud cries. He is supposed
 to have returned from the land of the dead in
 order to ascertain what is going on in the land of
 the living, and his function is to carry away those
 persons who are troublesome to their neighbours.
 He may thus be considered a kind of supernatural ?
 inquisitor who appears from time to time to inquire
-into the general domestic conduct of people, par-
-ticularly of women, and to punish misdeeds.
+into the general domestic conduct of people, particularly of women, and to punish misdeeds.
 Although it is very well known that Egungun is
 only a disguised man, yet it is popularly believed
 that to touch him, even by accident, causes death.
@@ -4453,8 +4100,7 @@ lamentations are made for those who have died
 within the last few years. It is a kind of All-Souls
 festival, and resembles the Affirah-bi festival of the
 Tshi tribes, described in the first volume of this
-series.* Moreover, Egungun also appears in con-
-nection with funeral ceremonies. A few days after
+series.* Moreover, Egungun also appears in connection with funeral ceremonies. A few days after
 the funeral an Egungun, accompanied by masked and
 disguised men, parades the streets of the town at
 night, and, as in the Roman conclamatio, calls upon
@@ -4476,8 +4122,7 @@ In return for the good news the family set food,
 rum, and palm-wine in a room of the house, and
 inviting the Egungun to partake of it, themselves
 retire, for to see Egungun eating is death. When
-Egungun and his followers have consumed every-
-thing loud groans are heard to issue from the room,
+Egungun and his followers have consumed everything loud groans are heard to issue from the room,
 and, this being a sign that he is about to depart, the
 family re-enter and entrust him with messages for
 the deceased.
@@ -4487,8 +4132,7 @@ Leone, at the beginning of the present century, from
 slave-ships that had been captured by British cruisers,
 were Yorubas, and their Christian descendants have
 preserved the practice of Egungun, who may often
-be seen performing his antics in the streets of Free-
-town. There, however, his disguise is less elaborate
+be seen performing his antics in the streets of Freetown. There, however, his disguise is less elaborate
 than in Yoruba country, and he appears in a long
 robe of cotton-print, with a piece of cloth, having
 apertures for the eyes, covering the face and head.
@@ -4507,8 +4151,7 @@ The word Oro means fierceness, tempest, or pro-
 vocation, and Oro himself appears to be personified
 executive power.
 
-Oro is supposed to haunt the forest in the neigh-
-bourhood of towns, and he makes his approach known
+Oro is supposed to haunt the forest in the neighbourhood of towns, and he makes his approach known
 by a strange, whirring, roaring noise. As soon as
 this is heard, all women must shut themselves up in
 their houses, and refrain from looking out on pain of
@@ -4520,21 +4163,18 @@ in fact, the instrument known to English boys as the
 " bull-roarer," and which Mr. Andrew Lang has
 shown to have been used in the mysteries of Ancient
 Greece, Australia, New Mexico, New Zealand, and
-South Africa.* No women may see the " bull-
-roarer " and live, and all women are obliged, under
+South Africa.* No women may see the " bullroarer " and live, and all women are obliged, under
 pain of death, to say that they believe Oro to be a
 powerful Orishay and to act up to that belief.
 
 In Yoruba country Oro is manipulated by the
 Ogboni Society. Criminals condemned to death are
-sometimes given to Oro, in which case they are ordi-
-narily never seen again, but their clothes are shown
+sometimes given to Oro, in which case they are ordinarily never seen again, but their clothes are shown
 entangled in the branches of a lofty tree, where Oro
 is said to have left them when flying through the
 air. In such a case Oro is said to have devoured the
 bodies. Sometimes, however, the headless corpse of
-the criminal is discovered in the forest on the out-
-skirts of the town, but nobody is allowed to bury it.
+the criminal is discovered in the forest on the outskirts of the town, but nobody is allowed to bury it.
 Unlike Egungun, Oro only appears on his feast-days,
 or, to use the native expression, when a town has an
 
@@ -4563,8 +4203,7 @@ ascend it.
 
 Just as Egungun is now used for social purposes,
 and to preserve order in private life, so is Oro used
-for political purposes, to preserve order in the com-
-munity at large; yet, from the analogy of other
+for political purposes, to preserve order in the community at large; yet, from the analogy of other
 peoples, and from the fact that it is death for a woman
 to see the instrument which produces the voice of
 Oro, there can be no doubt that originally Oro was
@@ -4578,8 +4217,6 @@ Abiku.
 Abiku, ably " that which possesses" ; ihi, " death";
 hence, " predestined to death " is a word used to
 
-
-112 THE YORUBA.SPEAKING PEOPLES.
 
 mean the spirits of children who die before reaching
 puberty, and also a class of evil spirits who cause
@@ -4605,15 +4242,13 @@ obtain.
 When an Abiku has entered a child he takes for his
 own use, and for the use of his companions, the
 greater part of the food that the child eats, who in
-consequence begins to pine away and become ema-
-ciated. If an Abiku who had entered a child were
+consequence begins to pine away and become emaciated. If an Abiku who had entered a child were
 not bound to supply the wants of other Abikus who
 had not succeeded in obtaining human tenements, no
 great harm would ensue, since the sustenance taken
 could be made suflBcient both for the child and his
 tenant. It is the incessant demands that are made
-by the hungry Abikus outside, and which the in-
-dwelling Abiku has to satisfy, that destroy the child,
+by the hungry Abikus outside, and which the indwelling Abiku has to satisfy, that destroy the child,
 for the whole of his food is insufficient for their require-
 
 
@@ -4624,8 +4259,7 @@ believed that the outside Abikus are hurting him in
 order to make the indwelling Abiku give them more
 to eat ; for everything done to the child is felt by his
 Abiku. The indwelling Abiku is thus, to a great
-extent, identified with the child himself, and it is pos-
-sible that the whole superstition may be a corruption
+extent, identified with the child himself, and it is possible that the whole superstition may be a corruption
 of the Gold Coast belief in the sisa.*
 
 A mother who sees her child gradually wasting
@@ -4668,8 +4302,7 @@ belief that the Abiku is suffering equally.
 Should the child die it is, if buried at all, buried
 without any funeral ceremony, beyond the precincts
 of the town or village, in the bush; most other
-interments being made in the floors of the dwelling-
-houses. Often the corpse is simply thrown into the
+interments being made in the floors of the dwellinghouses. Often the corpse is simply thrown into the
 bush, to punish the Abiku, say the natives. Sometimes a
 mother, to deter the Abiku which has destroyed her
 child from entering the body of any other infant she
@@ -4714,8 +4347,7 @@ is inhabited by an evil spirit, and is commonly seen
 encircled with palm-leaves, and with an earthen pot
 at its foot to receive the offerings of woodcutters.
 It is believed to emit a phosphorescent light by night.
-The wood of this tree is in some demand for the con-
-struction of drums, which are hollow wooden cylinders
+The wood of this tree is in some demand for the construction of drums, which are hollow wooden cylinders
 covered with hide at one end ; but before it can be cut
 down the spirit must be propitiated by an offering,
 usually consisting of a fowl and some palm-oil. The
@@ -4736,8 +4368,6 @@ covers his head with etu " (a magic powder).
 
 I2
 
-
-116 THE YORUBA-SPEAKING PEOPLES.
 
 These customs may be compared with those of the
 modem Greeks of Siphinos, one of the Cyclades.
@@ -4768,8 +4398,7 @@ they think, attribute these evils to the gods, imless
 they occur in some way special to a god; as, for
 instance, when a man is struck by lightning, in which
 case the event would be attributed to Shango — or
-contracts small-pox, when the disease would be attri-
-buted to Shanpanna ; for they are very careful to
+contracts small-pox, when the disease would be attributed to Shanpanna ; for they are very careful to
 keep on good terms with the gods, by scrupulously
 
 • "The Cyclades," p. 27. t " ^^ Re Rnstica," 139.
@@ -4778,21 +4407,18 @@ keep on good terms with the gods, by scrupulously
 EOUNGUN, ORO, AND ABIKU. 117
 
 observing their religious duties. They consequently
-attribute sickness and death, other than death result-
-ing from injury or violence, to persons who have for
+attribute sickness and death, other than death resulting from injury or violence, to persons who have for
 bad purposes enlisted the services of evil spirits, that
 is to say, to wizards and witches. Witches are more
 common than wizards, and here, as elsewhere in the
 world, it is the oldest and most hideous of their sex
 who are accused of the crime.
 
-Properly speaking, a person charged with witch-
-craft should be subjected to trial by ordeal, and then,
+Properly speaking, a person charged with witchcraft should be subjected to trial by ordeal, and then,
 if found guilty, immediately executed ; but the excited
 populace, filled with superstitious terror, frequently
 acts without waiting for proof, and puts the accused
-to death without trial. Curiously enough, the phe-
-nomenon that so frequently occurred in England, when
+to death without trial. Curiously enough, the phenomenon that so frequently occurred in England, when
 a belief in witchcraft was an article of faith, appears
 here also ; and old women, accused of being witches,
 very often acknowledge that they are, and charge
@@ -4848,8 +4474,7 @@ Another word sometimes used to express amulet is
 ogun^ which, however, more properly means medicinal
 preparation, poison, or magical drug. ^-
 
-The following are some examples of current super-
-stitions.
+The following are some examples of current superstitions.
 
 
 EGUNGUN, ORO, AND ABIKlf. Ill)
@@ -4885,8 +4510,7 @@ to the hooded crow, porcupine, tortoise, and wild cat
 (ogboya) as have the Ewe tribes.*
 
 By country-custom no Yoruba may milk a cow, and
-in consequence cows are always tended by foreign-
-born slaves, usually Fulani.
+in consequence cows are always tended by foreignborn slaves, usually Fulani.
 
 We find a curious example of the manner in which
 objective and subjective connection are confused in
@@ -4901,14 +4525,11 @@ as a charm by warriors, and is believed to ensure suc-
 E^e-Speaking Peoples," pp. 95, 97, and 98.
 
 
-120 THE YORUBA-SPEAKING PEOPLES.
-
 cess, because it is supposed that the sword-fish {ohira)
 cuts in two all its foes in the sea.
 
 The Yorubas have a superstition which has close
-points of resemblance to the " changeling " super-
-stition of Northern Europe. It is referred to in
+points of resemblance to the " changeling " superstition of Northern Europe. It is referred to in
 many folk-lore tales, and the following is an example.
 
 " There lived at Otta" (a village on the River Ilo,
@@ -4922,8 +4543,7 @@ herself. After this it always happened that when
 she returned from the market she found that all the
 food she had left in the house had disappeared. This
 seemed to her very strange, and she at first suspected
-her neighbours, but she always found the door-
-fastening untouched, and was unable to fathom the
+her neighbours, but she always found the doorfastening untouched, and was unable to fathom the
 mystery.
 
 " One day a neighbour came to her and said, * I am
@@ -4974,15 +4594,12 @@ fastened the door as usual.
 hiding-place, saw the baby stand up, and begin to
 grow till he became a big boy. Then he went to the
 calabashes where the food was kept, and was beginning
-to eat it, when the father came out from his hiding-
-place.
+to eat it, when the father came out from his hidingplace.
 
 " Immediately the child saw his father he became
 a little baby again, and lay on the floor crying. He
 was possessed by a spirit. His mother came back.
 
-
-122 THE YORUBA-SPEAKING PEOPLES.
 
 and they beat him to drive the spirit out, so that the
 spirit fled."
@@ -5011,8 +4628,7 @@ believed to be able, by means of certain howls and
 cries, to compel people to go out to them in the dark
 forest to be devoured. A similar belief is found in
 Abyssinia. t The weird "laugh" of the hyena, and
-its nocturnal habits, no doubt account for this super-
-stition, just as similar causes have led to the owl being
+its nocturnal habits, no doubt account for this superstition, just as similar causes have led to the owl being
 universally regarded as a bird of ill omen.
 
 A belief in metamorphosis is universal, and is not
@@ -5034,8 +4650,7 @@ Tortoise Stories in the chapter on Folklore.
 
 The lyewa lagoon is also said to have been a woman.
 The story runs that a poor woman, named lyewa, had
-two children, whom she had a hard struggle to sup-
-port ; but she used every day to go with them into
+two children, whom she had a hard struggle to support ; but she used every day to go with them into
 the forest to gather firewood, which she carried to the
 town and sold for food. One day, when following
 her customary avocation, she and the children, finding
@@ -5047,19 +4662,14 @@ out and tormented with thirst, they lay down to rest
 under a large tree. This rested their limbs, but
 their thirst increased, and the two children filled
 the forest with their lamentations, crying to their
-mother for water. The poor woman, half dis-
-tracted, sprang to her feet, and again searched in
-every direction for the path and for water, but fruit-
-lessly, and when at last she returned to her children
-she found them almost at the last gasp. Then, pros-
-trating herself upon the earth, she called upon the
+mother for water. The poor woman, half distracted, sprang to her feet, and again searched in
+every direction for the path and for water, but fruitlessly, and when at last she returned to her children
+she found them almost at the last gasp. Then, prostrating herself upon the earth, she called upon the
 gods to come to her assistance and save her children.
 The gods listened to her prayer, and lyewa was at
 once changed into a lagoon, at which the children
 drank and so recovered; while next day they were
 
-
-124 THE YORUBA-SPEAKING PEOPLES.
 
 found by neighbours who had C5ome in search of them,
 and taken back to the town. When the children
@@ -5079,8 +4689,7 @@ him at birth and quits him at death, and is entirely
 distinct from the soul, which, at the death of the
 body, proceeds to the Land of the Dead, and there
 continues the life formerly led by the man in the
-world. In the second volume, we found that the Ewe-
-speaking peoples have a similar belief, the indwelling
+world. In the second volume, we found that the Ewespeaking peoples have a similar belief, the indwelling
 spirit being by them termed a luwo. The Ga-speaking
 tribes, situated geographically between the Tshi and
 Ewe tribes, have modified this belief, and they assign
@@ -5089,10 +4698,8 @@ one male and one female, the former being of a bad
 and the latter of a good disposition. Each Tela, like
 the kra and the luwo, is a guardian-spirit, but — and this
 is a new departure — they give good or bad advice, and
-prompt good or bad actions, according to their re-
-spective dispositions. The Yorubas also have modified
-what appears to be the original theory of one in-
-dwelling and guardian-spirit, and they hold that each
+prompt good or bad actions, according to their respective dispositions. The Yorubas also have modified
+what appears to be the original theory of one indwelling and guardian-spirit, and they hold that each
 man has three spiritual inmates, the first of whom,
 
 
@@ -5101,8 +4708,7 @@ man has three spiritual inmates, the first of whom,
 Olorij dwells in the head, the second, Ipin ijeun^ in the
 stomach, and the third, Ipori^ in the great toe.
 
-Olori (Oni-oriy owner, or lord, of the head) some-
-times called Ori (head, faculty, talent), seems to be
+Olori (Oni-oriy owner, or lord, of the head) sometimes called Ori (head, faculty, talent), seems to be
 the spirit which answers to the Jcra or luwo. He is
 the protector, guardian, and guide. Offerings are
 made to him, chiefly fowls, as with the Jcra and luwOy
@@ -5161,8 +4767,7 @@ oji, which has the meanings of ghost, shade, or
 shadow. After the death of the body, the ghost-man
 goes to IpO'OhCj " the Land of the Dead " {fyoy
 place; ohuy dead), which is beneath the earth, and
-where each man does that which he has been accus-
-tomed to do, and holds the same social position as he
+where each man does that which he has been accustomed to do, and holds the same social position as he
 did in the world. To enable the ghost to reach this
 land it is essential that he should have the prescribed
 funeral rites performed over him. Should they be
@@ -5182,8 +4787,7 @@ at the moment that breath leaves the body, but as
 an earnest of their intention to perform them, and to
 prevent the evil spirits from seizing the ghost, the
 relations at once offer a sacrifice to propitiate them ;
-and when the corpse is buried, a fowl, called Adire-
-iranna,* " the fowl that buys the road," that is, " that
+and when the corpse is buried, a fowl, called Adireiranna,* " the fowl that buys the road," that is, " that
 opens a right of way," is sacrificed.
 
 • A comparison of' the beliefs held by uncivilised
@@ -5225,8 +4829,7 @@ populated, and at the same time every new-born
 child, or almost eveiy one, to be a re-born ghost.
 As was mentioned in the volume on the Ewe-speaking
 peoples,* this belief in metempsychosis is probably
-a result of a confusion between the rloli, or disem-
-bodied luwo (in Tshi, the sisa), and the soul or ghost-
+a result of a confusion between the rloli, or disembodied luwo (in Tshi, the sisa), and the soul or ghost-
 man, and we may here endeavour to sketch in the
 origin and probable development of these various
 beliefs.
@@ -5240,8 +4843,7 @@ dreams that he is going through various adventures,
 but, as the evidence of his companions shows him
 that he has not really left their company, he comes
 to the conclusion that he has a second individuality,
-something that is himself and yet is detachable, some-
-thing that can go out of him, and does so go out when
+something that is himself and yet is detachable, something that can go out of him, and does so go out when
 he is asleep. Among the lower races all over the
 world, dreams are believed to be the adventures of
 
@@ -5249,8 +4851,6 @@ world, dreams are believed to be the adventures of
 
 K
 
-
-130 THE YORUBA.SPEAKING PEOPLES,
 
 the spiritual man while detached .from the bodily
 man during sleep. Then, as he dreams of men
@@ -5274,17 +4874,12 @@ It is possible that this conception of two different
 entities was brought about, partly at least, by the
 desire to explain the reproduction by heredity of
 physical characteristics. Children generally resemble
-their parents, and frequently reproduce their manner-
-isms most remarkably. As soon as the savage begins
-to speculate at all, he begins to think of this phe-
-nomenon, which cannot fail to arrest his attention.
-He can, and no doubt often does, come to the con-
-clusion that the dead are reborn again in their
-descendants ; he invents the doctrine of metem-
-psychosis ; but in some cases, and the negro tribes
+their parents, and frequently reproduce their mannerisms most remarkably. As soon as the savage begins
+to speculate at all, he begins to think of this phenomenon, which cannot fail to arrest his attention.
+He can, and no doubt often does, come to the conclusion that the dead are reborn again in their
+descendants ; he invents the doctrine of metempsychosis ; but in some cases, and the negro tribes
 of the Gold and Slave Coasts seem to be examples,
-he appears to feel that this explanation is unsatis-
-factory. And for this reason. He still dreams of
+he appears to feel that this explanation is unsatisfactory. And for this reason. He still dreams of
 
 
 THE IND WELLING SPIRITS AND SO ULS OF MEN. 1 8 1
@@ -5327,10 +4922,7 @@ furnishes nothing.
 k2
 
 
-132 THE YORUBA-SPEAKING PEOPLES.
-
-Romans resembled the hra in that it was a guardian-
-spirit which entered man at birth, but, unlike the
+Romans resembled the hra in that it was a guardianspirit which entered man at birth, but, unlike the
 Tcray it perished at his death. It was certainly quite
 separate and distinct from the soul, or ghost-man,
 which went to Hades. We say advisedly that the
@@ -5345,8 +4937,7 @@ influence of dualism, just as the GSL-tribes have done,
 divided the genius into two — one of a good disposition
 and one of a bad.
 
-Similar conceptions of two entities, the Ara, or life-
-phantom, and the soul, or death-phantom, among the
+Similar conceptions of two entities, the Ara, or lifephantom, and the soul, or death-phantom, among the
 Navajo and Algonquin Indians of North America, the
 Karens of Burma, and the Fijians, were mentioned in
 the last volume,t but whether these people believe
@@ -5376,15 +4967,13 @@ whose body it has tenanted.
 The Yorubas, it seems probable, have arrived at
 the doctrine of metempsychosis after having passed
 through a phase of belief similar to that now held by
-the Tshi and Ewe tribes. The belief in one in-
-dwelling spirit has been changed into a belief in three
+the Tshi and Ewe tribes. The belief in one indwelling spirit has been changed into a belief in three
 indwelling spirits, and this multiplication has caused
 confusion. * These indwelling spirits do not, at the
 death of the body, enter a new-born human child in
 the same family, so that the phenomena of heredity
 cannot be explained as being due to their agency ;
-and the Yorubas have reverted to the theory of me-
-tempsychosis to account for them. The belief in the
+and the Yorubas have reverted to the theory of metempsychosis to account for them. The belief in the
 spirits called ahihu is very probably a corruption of
 the former Icra belief, for if a ska^ or disembodied
 hra^ enters a human body it causes sickness and death,
@@ -5405,21 +4994,16 @@ but if, as we hold, the Yoruba tribes passed through a
 phase of belief similar to that held by the Tshi tribes
 
 
-184 THE YORUBA-SPEAKING PEOPLES.
-
 at the present day, they at one time believed that
 trees, shrubs, &c., and, in fact, all things not made
 by human hands, were animated by kras, which may
-account for the extension of the doctrine of metem-
-psychosis to objects so unlike man.
+account for the extension of the doctrine of metempsychosis to objects so unlike man.
 
-The animal in which human souls are most com-
-monly re-bom is the hyena, whose half -human laugh
+The animal in which human souls are most commonly re-bom is the hyena, whose half -human laugh
 may perhaps account for the belief. Human souls
 are also reborn in different kinds of monkeys, but
 chiefly in the solitary yellow monkey, called oloyo;
-and in these cases the human appearance and charac-
-teristics of monkeys no doubt furnishes the key to the
+and in these cases the human appearance and characteristics of monkeys no doubt furnishes the key to the
 belief.
 
 As has been said, the re-birth of a human soul in a
@@ -5560,15 +5144,13 @@ wishes offered for his safe journey, such as " May you
 arrive in peace," " May you not stray from the right
 path," &c.
 
-It would certainly appear as if the dead were cog-
-nizant of and able to influence the affairs of the living,
+It would certainly appear as if the dead were cognizant of and able to influence the affairs of the living,
 for it is usual for offerings and prayers to be made to
 them from time to time ; and sometimes the skull of
 the deceased is exhumed and placed in a small temple,
 where offerings are made to it. Before taking the
 field for war, too, offerings are made at the graves of
-warriors of renown, and their assistance in the com-
-ing campaign is supplicated. Yet a proverb says,
+warriors of renown, and their assistance in the coming campaign is supplicated. Yet a proverb says,
 " As grass cannot grow in the sky, so the dead cannot
 look out of the grave into the street," from which it
 might be inferred that the dead are not cognizant of
@@ -5578,8 +5160,6 @@ them through the medium of sacrifice, and several
 folk-lore tales point to this conclusion as well. The
 following is an example :
 
-
-138 THE YORUBA-SPEAKING PEOPLES.
 
 A woman, an inhabitant of an inland town, who
 
@@ -5627,8 +5207,7 @@ from the gods. He went to the head priest of the
 babalawos at the town of Ife, unfolded his tale, and
 begged for aid. The priest consulted the god Ifa,
 and Ifa replied that in order to know what his mother
-had done with the necklace, the boy must go to Dead-
-land and ask her. The child said he was ready to
+had done with the necklace, the boy must go to Deadland and ask her. The child said he was ready to
 go, but how was he to get there ? Then the oracle
 instructed him as follows : —
 
@@ -5660,8 +5239,6 @@ and arrived safely in Deadland, where he saw his
 mother seated near a spring, around which many
 other dead people were walking slowly or sitting
 
-
-140 THE YORUBA-SPEAKING PEOPLES,
 
 down. He approached his mother and called to her,
 whereupon she rose and came to him, saying, "What
@@ -5710,15 +5287,13 @@ the dead. When the members of a family wish to
 know how a departed relative is faring below, they
 apply to a priest, who takes a young child, bathes his
 face in water of purification, which, it may be
-remarked, is prepared with edible snails and shea-
-butter, offers a sacrifice in a new earthen vessel, digs
+remarked, is prepared with edible snails and sheabutter, offers a sacrifice in a new earthen vessel, digs
 a hole in the earth in a sacred grove in the middle
 of the night, and bids the child look into it. Through
 the magical properties of the lustral water, the child,
 on looking down into the hole, is able to see into
 Deadland, and so can tell the priest all that is going
-on there. When the priest has obtained the in-
-formation he requires, he again bathes the child's
+on there. When the priest has obtained the information he requires, he again bathes the child's
 eyes with the water of purification, which causes him
 instantly to lose all recollection of what he has seen
 and heard. The priest thus remains the sole
@@ -5735,8 +5310,7 @@ MEASUREMENTS OF TIME.
 The Yorubas reckon time by moons and weeks. A
 moon, or month, is the period of time between one
 new moon and the next, and, as is the case with all
-peoples who count by lunar months, the day com-
-mences at sunset, that is at the hour at which a new
+peoples who count by lunar months, the day commences at sunset, that is at the hour at which a new
 moon would ordinarily be first perceived.
 
 The custom of measuring time by lunar months
@@ -5772,8 +5346,7 @@ hours later, and so on.
 
 The Ga-tribes have an exactly similar mode of
 measuring time, but their names for the days of the
-week are not the same as those used by the Tshi-
-tribes. They are —
+week are not the same as those used by the Tshitribes. They are —
 
 1st. bsu. 5th. So'ha.
 
@@ -5797,17 +5370,13 @@ perhaps borrowed the five-day week from them.
 
 The Tshi and Gra-tribes thus add a few hours to
 each seven-day week in order to make four of these
-periods coincident with a lunar month, and the Yoruba-
-tribes deduct about twelve hours from the last five-
+periods coincident with a lunar month, and the Yorubatribes deduct about twelve hours from the last five-
 
 ♦ "Tshi-speaking Peoples of the Gold Coast'" pp. 215, 216.
 
 
-144 THE YORUBA'SPEAKING PEOPLES.
-
 day week in order to make six of these periods agree
-with a lunar month. The reason is obvious. Twenty-
-nine and a-half will not divide, and the nearest
+with a lunar month. The reason is obvious. Twentynine and a-half will not divide, and the nearest
 numbers that will are twenty-eight and thirty. The
 Tshi and Gra-tribes have adopted the former as the
 integer to be divided, and consequently have had to
@@ -5885,8 +5454,6 @@ disallow), and because each holy day recurs weekly,
 • Raffles' « History of Java," vol. i. p. 475*
 
 
-146 THE YORUBA-SPEAKING PEOPLES.
-
 Ose has come also to mean the week of five days, or
 the period intervening between two holy days.
 
@@ -5898,12 +5465,10 @@ day of the first week of the lunar month is reckoned
 from the appearance of the new moon, and was, we
 think, a moon-festival, or holy day sacred to the
 moon. This holy day, before the invention of weeks,
-recurred monthly, but after the lunar month was sub-
-divided, it recurred weekly, and was held on the first
+recurred monthly, but after the lunar month was subdivided, it recurred weekly, and was held on the first
 day of the week. The Mendis of the hinterland' of
 Sierra Leone, who reckon time by lunar months, but
-have not divided the month into weeks, hold a new-
-moon festival, and abstain from all work on the day of
+have not divided the month into weeks, hold a newmoon festival, and abstain from all work on the day of
 the new moon, alleging that if they infringed this
 rule corn and rice would grow red, the new moon
 being a "day of blood." From this we may perhaps
@@ -5942,8 +5507,7 @@ gods moon-worship appears to have died out, though
 all these peoples salute the new moon respectfully
 when it is first seen, and a Tshi epithet of the moon
 is hohsum, " Sacred," or ** Grod." When, however,
-moon-worship flourished, the moon would undoubt-
-edly have been a general god, worshipped by the com-
+moon-worship flourished, the moon would undoubtedly have been a general god, worshipped by the com-
 munity as a whole; and hence the day dedicated to the
 moon is a general day of rest, and not, like the other
 days of the week, a day of rest for certain persons
@@ -5955,8 +5519,7 @@ It seems probable that the Jewish Sabbath was also
 connected primarily with moon-worship, and at first
 was a monthly festival like that of the Mendis and
 Bechuanas, but became a weekly festival after the
-Jews adopted the seven-day week from the Baby-
-lonians. In the historical books of the Old Testa-
+Jews adopted the seven-day week from the Babylonians. In the historical books of the Old Testa-
 ment, viz., Joshua, Judges, the books of Samuel, and
 
 l2
@@ -5991,8 +5554,7 @@ name alco-qjo is first day.
 
 That, on a day dedicated to a god, no manner of
 work should be done by the followers of that god,
-seems to be a custom of universal application. Ab-
-stention from work was doubtless considered a mode
+seems to be a custom of universal application. Abstention from work was doubtless considered a mode
 
 • Joshua vi. 13 — 16. f I. Kings viii. 65.
 
@@ -6023,8 +5585,7 @@ is, in fact, killed by the other worshippers of the god
 from motives of self-protection. On the Gold Coast
 any fisherman who dared to put to sea on Bna-da, the
 fisherman's Sabbath, would inevitably, in the old days,
-have been put to death. Persons who were not fish-
-ermen, and who consequently were not followers of
+have been put to death. Persons who were not fishermen, and who consequently were not followers of
 the gods of the sea, might do as they pleased ; for in
 that spirit of toleration which always accompanies
 polytheism, they were held to be only accountable to
@@ -6032,8 +5593,7 @@ their own gods.
 
 Among the Yoruba tribes markets are held weekly,
 that is, every fifth day. The day of the market varies
-in different townships, but it is never held on the aJco-
-ojo. From this custom of holding markets every fifth
+in different townships, but it is never held on the aJcoojo. From this custom of holding markets every fifth
 day has arisen another mode of computing time,
 namely, by periods of seventeen days, called eta-du
 ogun (three less than twenty). This is the outcome of
@@ -6063,11 +5623,9 @@ RiHsit of the next series. These clubs or societies are
 vUvUuui of the day and night into hours is not known,
 ^^U tho day is divided into the following periods, viz.,
 kiihi'kutiiy mvXj morning; owuro^ morning, forenoon ;
-7t^i^/a'^t ov osaii gangan {gangan^ upright, perpendi-
-shaU^*K noun; //i-s/i'e itpa/e (shadow-lengthening), after-
+7t^i^/a'^t ov osaii gangan {gangan^ upright, perpendishaU^*K noun; //i-s/i'e itpa/e (shadow-lengthening), after-
 k*vs^*v ; uud ashaley or ashetvale^ evening, twilight. The
-ui^vjhl in divided into periods of cock-crowing, as ahiko-
-v>.N-ifi/*^ [\\\i> cock opening the way), first cock-crow-
+ui^vjhl in divided into periods of cock-crowing, as ahikov>.N-ifi/*^ [\\\i> cock opening the way), first cock-crow-
 »>»^ ; Ui^*-/^ or ada-jiwa^ time of second cock-crowing ;
 .M»d K'Kt\\ or ofe, the time of cock-crowing just before
 
@@ -6079,8 +5637,7 @@ K\i(xii nioauH ** year," and, like the word ose,
 MEASUREMENTS OF TIME. 151
 
 two such festivals. The year is divided into seasons —
-Ewo-eruTij dry season ; Eivo-oye, season of the Har-
-mattan wind ; and Ewo-qjo, rainy season. The last is
+Ewo-eruTij dry season ; Eivo-oye, season of the Harmattan wind ; and Ewo-qjo, rainy season. The last is
 again divided into ako-ro^ first rains, and aro-hiroj last
 rains, or little rainy season.
 
@@ -6112,8 +5669,7 @@ Seven days aft^r birth, if the child be a girl, nine
 days, if it be a boy, the babalawo comes again and
 offers a sacrifice of a cock and a hen to Ifa and
 the Olori, or indwelling spirit of the child's head;
-after which, in order to prevent Elegba from inter-
-fering with the mother and child, the entrails of the
+after which, in order to prevent Elegba from interfering with the mother and child, the entrails of the
 
 
 CEREMONIES AT BIRTH, MARRIAGE, AND DEA TH. 153
@@ -6156,8 +5712,7 @@ babalawo, a day is appointed for the wedding.
 154 THE YORUBA^SPEAKING PEOPLES.
 
 The marriage-feast is held at the house of the
-parents of the bridegroom, and the bride is con-
-ducted there by a procession of women, who sing
+parents of the bridegroom, and the bride is conducted there by a procession of women, who sing
 an epithalamium. The bride is put to bed by a
 female of the bridegroom's family, who remains
 concealed in the apartment till the bridegroom has
@@ -6166,8 +5721,7 @@ of virginity," and, coming out of the room, displays
 them to the assembled company. She then carries
 them to the house of the parents of the bride, who
 never attend a daughter's wedding-feast, and next
-morning they are hung on the fence for the edifica-
-tion of the public. In this abstention of the bride's
+morning they are hung on the fence for the edification of the public. In this abstention of the bride's
 parents from the feasting and merrymaking, we
 perhaps find 'a lingering survival from marriage by
 capture. The producer of the " tokens " is selected
@@ -6176,14 +5730,12 @@ there is no deception, because the husband's family
 has no interest in falsifying the facts, while the
 wife's family has ; but virginity in a bride is only
 of paramount importance when the girl has been
-betrothed in childhood. The marriage-feast is con-
-tinued on the next day.
+betrothed in childhood. The marriage-feast is continued on the next day.
 
 It is not uncommon for newly-married couples
 to visit some celebrated shrine and offer sacrifice
 together, a practice which, together with the fixing
-of the wedding-day by a babalawOy shows an in-
-creasing disposition on the part of the priests to
+of the wedding-day by a babalawOy shows an increasing disposition on the part of the priests to
 control or interfere with matters which are purely
 social and quite beyond the domain of religion.
 
@@ -6206,14 +5758,12 @@ cries, lamentations, and frenzied gestures, and the
 eldest son of the deceased, or the brother, if there be
 no son, at once sends for a babalawo, to ascertain if
 the deceased died from natural causes, or through the
-machinations of witches. The babalawo^ after sacri-
-ficing a fowl, inquires at the oracle of Ifa, by means
+machinations of witches. The babalawo^ after sacrificing a fowl, inquires at the oracle of Ifa, by means
 of the board and sixteen palm-nuts ; and if it aflBrms
 that the death was caused by witchcraft, further
 inquiry is made to know if any other member of the
 family is threatened with a like fate, and also if the
-soul of the deceased is in danger of further molesta-
-tion from the evil spirits who have been influenced
+soul of the deceased is in danger of further molestation from the evil spirits who have been influenced
 by the malpractices of the sorcerers. Should the
 oracle declare that the soul of the deceased is in
 danger, a sheep or goat is sacrificed, and the carcass,
@@ -6221,18 +5771,14 @@ sprinkled with palm-oil, is carried outside the town,
 and deposited at a spot where two or more paths
 meet, which has the effect of causing the evil spirits
 to disperse in as many directions as there are paths.
-The bahalawo then prepares the usual water of puri-
-fication with shea-butter and edible snails, and dip-
+The bahalawo then prepares the usual water of purification with shea-butter and edible snails, and dip-
 ping into the vessel a palm-branch, sacred to Ifa,
 sprinkles the corpse, the room, and the spectators
 with the fluid. At the same time he invokes the soul
 
 
-156 THE YORUBA'SPEAKING PEOPLES.
-
 of the deceased to leave the house as soon as the
-funeral rites have been performed, and proceed peace-
-fully to its destination, wishing it a safe journey. He
+funeral rites have been performed, and proceed peacefully to its destination, wishing it a safe journey. He
 says, " May the road be open to you. May nothing
 evil meet you on the way. May you find the road
 good when you go in peace."
@@ -6250,8 +5796,7 @@ the corpse is wrapped up in many native cloths, and
 placed on a mat at the door of the room.
 
 In the meantime a death-feast has been prepared,
-and now commences, while outside the house a con-
-tinual beating of drums is kept up, together with
+and now commences, while outside the house a continual beating of drums is kept up, together with
 frequent discharges of musketry, fired in honour of
 the deceased. The feast, at which intoxicants are
 used lavishly, soon becomes a veritable orgie, in which,
@@ -6259,8 +5804,7 @@ however, the chief mourners, that is, the widows and
 daughters of the deceased, take no part ; for as soon
 as they have performed the last ofiBces for the dead,
 and have placed the corpse at the door, they are shut
-up in an adjacent apartment, where they are com-
-pelled by custom to remain during the three days
+up in an adjacent apartment, where they are compelled by custom to remain during the three days
 that a corpse invariably lies in state. While thus
 immured they are forbidden to wash, and usage
 requires them to refuse all food, at least for the first
@@ -6276,8 +5820,7 @@ women of the household, who, while the men are
 feasting, utter loud lamentations in the room in which
 they are confined ; and, in consequence of this, the
 epithet isohun^ " a mourner," is often applied to a
-female child ; a male, on the other hand, being some-
-times called iwaUj " a digger," i.e., of a grave. A
+female child ; a male, on the other hand, being sometimes called iwaUj " a digger," i.e., of a grave. A
 father might thus say that he had begotten two
 mourners and a digger, meaning two daughters and a
 son. Female friends usually come to join in the
@@ -6286,8 +5829,7 @@ referred to in the proverb " A mourner mourns and
 goes on her way (without afterthought), but one who
 ponders over sad memories mourns without ceasing."
 There are also professional mourners, chosen for their
-poetical tUm of expression, whose services are en-
-gaged in well-to-do households, and who often con-
+poetical tUm of expression, whose services are engaged in well-to-do households, and who often con-
 trive to work up the real mourners to a condition of
 frenzied grief. A professional mourner sings in a sad
 tone, which rises and falls in a modulated wail ; " He
@@ -6315,8 +5857,7 @@ not there. Night falls, but he comes not. Ah me !
 I am alone.
 
 " Alas ! I am alone. Alone in the day — alone in
-the darkness of ihe night. Alas ! my father (or hus-
-band) is dead. Who will take care of me ? "
+the darkness of ihe night. Alas ! my father (or husband) is dead. Who will take care of me ? "
 
 On the afternoon of the third day of the wake the
 body is placed on some boards, or on a door taken off
@@ -6324,16 +5865,14 @@ its hinges, covered with a rich native cloth, and
 borne at a trot through the streets by the men. Male
 friends and relations accompany the bier, singing the
 praises of the deceased, and throwing handfuls of
-cowries among the spectators. This procession re-
-turns to the house towards evening, and the corpse is
+cowries among the spectators. This procession returns to the house towards evening, and the corpse is
 then interred in a grave that has been dug in the
 earthen floor, and which is so contrived that the head
 of the deceased may project beyond the line of the
 outer wall of the house. Most of the cloths in which
 the corpse is wrapped are taken off, and the body,
 covered with grass mats so that no earth may soil it,
-is carefully lowered into the grave. A coffin is some-
-times used, but not often. Food, rum, and cowries
+is carefully lowered into the grave. A coffin is sometimes used, but not often. Food, rum, and cowries
 are placed in the grave, the body is sprinkled with
 the blood of a he-goat, sacrificed to propitiate Elegba,
 a few more cowries are thrown in, and then the grave
@@ -6349,10 +5888,8 @@ CEREMONIES A T BIRTH, MARRIA GE, AND DEA Til. 1 59
 
 and sometimes, when many articles of value have been
 entombed, the surface is moistened with water to
-make the earth settle down, and slaves and depen-
-dents are made to sleep on it night after night, for
-the double purpose of protecting it and of obliter-
-ating all trace of its exact position. After the inter-
+make the earth settle down, and slaves and dependents are made to sleep on it night after night, for
+the double purpose of protecting it and of obliterating all trace of its exact position. After the inter-
 ment, the feast, which had been suspended since the
 afternoon, recommences ; and drinking and shouting,
 amid the firing of muskets, the jangle of native
@@ -6374,8 +5911,7 @@ on which he slept, the plate or vessel from which he
 ate, his calabashes, and other things of small value,
 are carried out into the bush and burned.
 
-Up to this point the soul of the deceased is sup-
-posed to have been lingering near his old home, and
+Up to this point the soul of the deceased is supposed to have been lingering near his old home, and
 this destruction of his property is intended to signify
 to the soul that he must now depart, since there is no
 longer anything belonging to him. In former times
@@ -6392,8 +5928,7 @@ have been usual in days bygone to burn it. The
 deceased is called three times by name, and adjured
 to depart, and no longer haunt the dwellings of the
 living. After this invitation to be gone, the fowl,
-called adire-irannay* is sacrificed, which, besides se-
-curing a right-of-way for the soul, is supposed also
+called adire-irannay* is sacrificed, which, besides securing a right-of-way for the soul, is supposed also
 to guide it. The feathers of the fowl are scattered
 around the house, and the bird itself carried out to a
 bush-road, where it is cooked and eaten. The road
@@ -6405,8 +5940,7 @@ into the bush, in order to place it in a proper position
 for commencing its office of guide to the soul.
 
 The relations may not wash themselves or comb
-their hair during the funeral ceremonies, in conse-
-quence of which the rites themselves are sometimes
+their hair during the funeral ceremonies, in consequence of which the rites themselves are sometimes
 styled Ofoy "Unwashed." On the last day they shave
 their heads, and then pay visits of thanks to those
 who assisted at the funeral. The time of mourning
@@ -6428,11 +5962,9 @@ may not wash her cloths during that time.
 
 It is considered the greatest disgrace to a family
 not to be able to hold the proper ceremonies at the
-death of one of their number, a notion which is com-
-prehensible when we remember how much the welfare
+death of one of their number, a notion which is comprehensible when we remember how much the welfare
 of the soul of the deceased is supposed to depend
-upon their performance. Hence families not un-
-frequently reduce themselves almost to beggary in
+upon their performance. Hence families not unfrequently reduce themselves almost to beggary in
 order to carry them out, or pawn or sell their children
 to raise the money necessary. Sometimes, too, they
 conceal the death and hide the body until they have
@@ -6442,8 +5974,7 @@ The body is treated with resinous herbs so that it
 becomes desiccated, and, while it remains in the house,
 the soul is believed to abide in its old home, where
 food and drink are provided for it, till such time as
-the proper ceremonies can be held, and it be legiti-
-mately ushered on its new career.
+the proper ceremonies can be held, and it be legitimately ushered on its new career.
 
 A common imprecation is Ohi igbe, " Bush
 death," meaning "May you die in the bush, alone
@@ -6513,10 +6044,8 @@ him, over which the usual rites may be held. Hair
 or nailparings are most sought for this purpose,
 but, if these cannot be obtained, a portion of the
 clothing worn by the deceased suffices. Such remains
-are called eta, a word which seems to mean some-
-thing brought from one place to another. Through
-a confusion between objective and subjective con-
-nection, these relics, which bring the deceased to
+are called eta, a word which seems to mean something brought from one place to another. Through
+a confusion between objective and subjective connection, these relics, which bring the deceased to
 mind, are suppposed to bring the soul to the place
 where the funeral ceremonies are held.
 
@@ -6557,8 +6086,7 @@ to succeed to the office is selected by the council.
 The monarchy is thus elective, though only men
 of a certain blood-descent are qualified for election.
 The council of elders, besides electing a king,
-controls his actions, and, should he show any dis-
-position to make himself independent of it, invites
+controls his actions, and, should he show any disposition to make himself independent of it, invites
 him to "go to sleep," by sending him a present of
 parrots' eggs. The king is never allowed to see
 foreigners without some members of the council
@@ -6631,8 +6159,7 @@ town-quarter, who is responsible for peace and order
 within that area. If it be an ordinary " palaver,"
 this functionary settles it, but if it be serious he must
 refer it to the Bale of the town. Unless the affair
-concerns another district also, or is of national im-
-portance, it need go no further, for in his own
+concerns another district also, or is of national importance, it need go no further, for in his own
 domain the town-Bale is almost independent. Persons
 subject to a Bale address him as Baha^ '' Father," or
 ** Master," and he in turn calls them '* my children."
@@ -6687,8 +6214,6 @@ This custom was set at defiance by Adelu, who was
 the Areino when his father died in 1860, and it was
 
 
-168 THE YORUBA-SPEAKING PEOPLES.
-
 in consequence of this that the people of Ijaye
 rebelled. The custom has not since been observed.
 The tail of a white-bellied rat, called Afe-imojo (Rat
@@ -6736,8 +6261,7 @@ According to court etiquette, no word having more
 than one distinct meaning — and such words are very
 numerous in the Yoruba language — may be used when
 addressing the Alafiuj if one of its meanings, no matter
-how inapplicable to the subject in hand, be unbecom-
-ing. At audiences the speaker addresses a eunuch,
+how inapplicable to the subject in hand, be unbecoming. At audiences the speaker addresses a eunuch,
 who repeats the words to the chief female Ilari, and
 she conveys what is said to the Alafin. No native
 may appear before the Alufin in any costume other
@@ -6771,8 +6295,7 @@ council, called the right-hand and the left-hand Bale,
 are the Balers chief advisers.
 
 Jebu. The Council of the Aivujale is called the
-eketa-odi (? third rampart), and his confidential ad-
-viser the AgunH (" One who brings to light "). The
+eketa-odi (? third rampart), and his confidential adviser the AgunH (" One who brings to light "). The
 Atvujale is surrounded by a great deal of mystery.
 Until recently his face might not be seen, even by his
 own subjects, and if circumstances obliged him to
@@ -6863,8 +6386,7 @@ and cross-bows (alcutanpo) ; and besides the arrows
 carried by each man in a quiver, there was a reserve
 of these missiles contained in a large receptacle called
 an ada-gun-ile-apOy and which was placed on the
-ground to supply the archers during a battle. Bow-
-men used an iron guard for the fingers, styled ifarun
+ground to supply the archers during a battle. Bowmen used an iron guard for the fingers, styled ifarun
 (Ja-oTun : ** pull bow "), and a leather guard (ijasan)
 was worn on the left arm to protect it from the
 bowstring. Poisoned arrows seem to have been
@@ -6877,8 +6399,7 @@ by pounding up the large red ants.
 
 Before the introduction of firearms an army was
 ordinarily divided into cavalry (elesin)^ archers {olofa,
-or tafatafa)j and foot-soldiers (elese). Notwith-
-standing the enormous numbers of cavalry mentioned
+or tafatafa)j and foot-soldiers (elese). Notwithstanding the enormous numbers of cavalry mentioned
 
 
 SYSTEM OF GOVERNMENT. 173
@@ -6890,8 +6411,7 @@ men of rank. The bulk of the army was composed
 of foot-soldiers, who carried spears, swords, or axes,
 and shields. Another infantry weapon was called
 gamu-gamuy and was something like an old-fashioned
-halberd. Shirts of mail and breast-plates were some-
-times seen, and appear to have been obtained from
+halberd. Shirts of mail and breast-plates were sometimes seen, and appear to have been obtained from
 the natives of the Western Soudan. Each contingent
 fought under its own Kalcanfo (captain), and the
 Balogun was the Are-kahanfoy or generalissimo. Under
@@ -6902,18 +6422,13 @@ In battle the main bodies oppose each other at a
 distance of half-a-mile or a mile, and are covered by
 detachments from the various contingents. These
 detachments skirmish, keeping at the extreme range
-of their muskets, and hold their ground without ad-
-vancing, till their ammunition is exhausted, when
-they retire for more. The skirmishers are never re-
-inforced from the main body, and ordinarily the day
-passes without any decisive result. Sometimes, how-
-ever, when the skirmishers of one army retire to
-replenish their ammunition, the opposing army ad-
-vances, in which case the other endeavours to draw
+of their muskets, and hold their ground without advancing, till their ammunition is exhausted, when
+they retire for more. The skirmishers are never reinforced from the main body, and ordinarily the day
+passes without any decisive result. Sometimes, however, when the skirmishers of one army retire to
+replenish their ammunition, the opposing army advances, in which case the other endeavours to draw
 it into an ambuscade, which manoeuvre, if successful,
 is supposed to be decisive. There is no general plan
-of action ; each contingent acts more or less indepen-
-dently, and the nominal commander of the army rarely
+of action ; each contingent acts more or less independently, and the nominal commander of the army rarely
 knows bow many men he has under his command.
 
 
@@ -6927,10 +6442,8 @@ LAWS AND CUSTOMS.
 
 We find a great change from the customs of the
 other tribal groups of this family of nations, in the
-Yoruba manner of tracing descent and blood-rela-
-tionship; descent and consanguinity being no longer
-reckoned exclusively in the female line, with succes-
-sion to chiefdom, oflSce, and property from brother to
+Yoruba manner of tracing descent and blood-relationship; descent and consanguinity being no longer
+reckoned exclusively in the female line, with succession to chiefdom, oflSce, and property from brother to
 brother, and then to sister's son ; but in the male line,
 as far as succession to dignities is concerned, and on
 both sides of the house for blood-descent. The
@@ -6941,8 +6454,7 @@ found existing among the Tshi and Ewe tribes, where
 a family consists solely of persons who are connected
 by uterine ties, and in which, as two persons of the
 same blood may not marry, the father is never related
-by blood to his children, and is not considered as be-
-longing to the family. In the Tshi and Ewe tribes
+by blood to his children, and is not considered as belonging to the family. In the Tshi and Ewe tribes
 the clan-name is the test of blood-relationship, and as
 property follows the laws of blood-descent, it ensues
 that property never goes out of the clan ; for, with
@@ -6951,8 +6463,7 @@ that property never goes out of the clan ; for, with
 LAWS AND CUSTOMS. 175
 
 descent in the female line, a family is only a small
-circle of persons, all of whom bear the same clan-
-name, within the larger circle of the clan itself.
+circle of persons, all of whom bear the same clanname, within the larger circle of the clan itself.
 
 Among the Yoruba tribes the blood-tie between
 father and child has been recognised, and the result
@@ -6977,15 +6488,11 @@ altogether unworkable, because, as the number of
 clans is limited and cannot be added to, if the clan
 name still remained the test of blood-relationship and
 a bar to marriage, the result in a few generations
-would be that no marriages would be possible. Con-
-sequently the clan-name ceases to be the test of con-
+would be that no marriages would be possible. Consequently the clan-name ceases to be the test of con-
 sanguinity, kinship is traced in some other way, and
 the clan-system disappears; or, as appears to have
-been occasionally the case, descent is boldly trans-
-ferred into the male line, and marriage in the father's
+been occasionally the case, descent is boldly transferred into the male line, and marriage in the father's
 
-
-176 THE YORUBA'SPEAKING PEOPLES.
 
 clan is prohibited, that of the mother being ignored.
 The Yorubas have adopted what appears to have been
@@ -6997,21 +6504,17 @@ known circle of consanguinity is forbidden.
 When we consider the extraordinary vitality the
 system of descents through mothers possesses, so long
 as it is undisturbed by foreign influence, it seems
-probable that the acknowledgment of a father's blood-
-relationship to his children was brought about by the
-intercourse of the northern Yorubas with the Moham-
-medan tribes of the interior. That the Yorubas
+probable that the acknowledgment of a father's bloodrelationship to his children was brought about by the
+intercourse of the northern Yorubas with the Mohammedan tribes of the interior. That the Yorubas
 formerly had the system of female descents is shown
 by an ancient proverb, which says, *' The esuo (gazelle),
-claiming relationship with the eJculu (a large ante-
-lope), says his mother was the daughter of an ekuhi.**
+claiming relationship with the eJculu (a large antelope), says his mother was the daughter of an ekuhi.**
 If the male system of descents had been in vogue
 when this proverb was invented, the esuo would have
 been made to say that his father was the son of an
 ehclu. Moreover, in spite of the legal succession from
 father to sons, children by different mothers, but the
-same father, are by many natives still scarcely con-
-sidered true blood-relations.
+same father, are by many natives still scarcely considered true blood-relations.
 
 It is no doubt in consequence of the change from
 kinship in the female line to kinship on both sides of
@@ -7019,8 +6522,7 @@ the house that the family has become, to a certain
 extent, disintegrated. On the Gold Coast, where the
 uterine family is the only one known, the family is
 collectively responsible for the crimes or injuries to
-person or property committed by any of its mem-
-bers, and each member is liable for a proportion of
+person or property committed by any of its members, and each member is liable for a proportion of
 
 
 LAWS AND CUSTOMS. 177
@@ -7055,21 +6557,18 @@ between them. The daughters have no inheritance
 in their father's house, but they divide between them
 the property of their mother, for here, as with the
 Tshi, Ga, and Ewe tribes, the property of a wife is
-always separate and distinct from that of her hus-
-band. If a man have no sons his property falls to
+always separate and distinct from that of her husband. If a man have no sons his property falls to
 his br6thers, or, if he have no brothers, to his sisters.
 From these laws of inheritance there is no departure,
 and a man cannot disinherit a legal heir. A man can,
 within certain limits, give away property during his
 lifetime, provided it is purely personal, and not family
-property ; but he cannot make a will, or any arrange-
-ment for its disposal after his death. Succession to
+property ; but he cannot make a will, or any arrangement for its disposal after his death. Succession to
 property entails the obligation of defraying the debts
 of the deceased.
 
 The terms used to express relationship are very
-indefinite, and can be, and are, used not only to rela-
-tions, but even to strangers, as terms of address.
+indefinite, and can be, and are, used not only to relations, but even to strangers, as terms of address.
 
 N
 
@@ -7099,10 +6598,8 @@ olconri or obiri to be placed after it when exactitude is
 necessary, is used to relations of the generation next
 below the speaker, that is to say, to sons, daughters,
 nephews, nieces, and children of cousins. It is also
-used as a term of address to domestic slaves. G-rand-
-f ather, baba-la {baba-nlaj great-father) is used to grand-
-fathers and great-uncles, and iya-la {iy^-nla, great-
-mother) to mothers and great-aunts. Grandchild is
+used as a term of address to domestic slaves. G-randf ather, baba-la {baba-nlaj great-father) is used to grand-
+fathers and great-uncles, and iya-la {iy^-nla, greatmother) to mothers and great-aunts. Grandchild is
 omo-omo (child-child), or omo-loju (front-child).-
 
 The foregoing are the terms commonly used. Of
@@ -7137,8 +6634,7 @@ This system is what the late Mr. Morgan termed
 
 the classificatory system of relationships, and, on the
 assumption that the terms used were from their very
-inception devised to express actual degrees of blood-
-relationship, he endeavoured to show that the human
+inception devised to express actual degrees of bloodrelationship, he endeavoured to show that the human
 family had passed through regular stages of peculiar
 types of marriage.* But it appears certain that
 these terms were originally terms of address to persons
@@ -7148,8 +6644,7 @@ the group or community, and had nothing whatever
 to do with consanguinity. As the Yorubas trace
 descent on both sides of the house, they might,
 assuming that the terms did imply blood-relationship,
-very properly use the term for a male of the genera-
-tion next above the speaker, either to the father's
+very properly use the term for a male of the generation next above the speaker, either to the father's
 
 • " The Systems of Consanguinity and Affinity of the Human
 Family" (Washington, U.S. of America, 1871).
@@ -7190,8 +6685,7 @@ stress of these new circumstances that the terms
 formerly applied to whole grades are narrowed in
 their application to the household circle, and new
 descriptive terms, such as uncle, nephew, and cousin,
-are invented to define the remoter degrees of con-
-sanguinity. In this connection we may note that
+are invented to define the remoter degrees of consanguinity. In this connection we may note that
 
 
 LAWS AND CUSTOMS. • 181
@@ -7208,8 +6702,7 @@ to express " father " and '* mother " have no reference
 to fatherhood or motherhood. Baba now means lord,
 master, great personage, or father. It appears to
 be derived from a root having the meanings of
-violence, strength, and power, and so, in the classifi-
-catory system, might well be applied to the grade of
+violence, strength, and power, and so, in the classificatory system, might well be applied to the grade of
 men who would be the hunters and warriors of the
 community. Oia, king, lord, or master, is from
 the same root. In Ewe we found that the word fofo
@@ -7228,8 +6721,7 @@ and to those who were not, since it is the business
 of the young women to prepare the food. Similarly
 we found in Ewe that da, or dada^ mother, was
 derived from day to cook. Ara appears to mean
-"one of the same kind," hence "companion, co-
-habitant," &c. OmOy child, is literally " suckling,"
+"one of the same kind," hence "companion, cohabitant," &c. OmOy child, is literally " suckling,"
 
 
 182 THE YOBUBA'SPEAKING PEOPLES,
@@ -7274,15 +6766,13 @@ preservation of order among the women. She is
 LAWS AND CUSTOMS. 183
 
 styled lyale {lya ile)^ "Mistress of the house."
-The junior wives are called lyawo {lya oivo)^ " Trade-
-wives," or " Wives of commerce/' probably because
+The junior wives are called lyawo {lya oivo)^ " Tradewives," or " Wives of commerce/' probably because
 they sell in the markets.
 
 Girls of the better classes are almost always
 betrothed when mere chjldren, frequently when
 infants, the husband in' futuro being sometimes a
-grown man and sometimes a boy. Betrothal con-
-fers upon the male all the rights of marriage
+grown man and sometimes a boy. Betrothal confers upon the male all the rights of marriage
 except consummation, which takes place shortly
 after the girl arrives at puberty. Since the early
 age of betrothal makes ante-betrothal unchastity a
@@ -7311,8 +6801,7 @@ Africa virginity in a bride is not valued per «e, but
 
 184 THE YOBUBA'SPEAKINO PEOPLES,
 
-because it is a proof that the betrothed has not in-
-fringed the exclusive marital privileges of the husband
+because it is a proof that the betrothed has not infringed the exclusive marital privileges of the husband
 in futuro ; and non- virginity in a bride is only a
 valid ground for repudiation when the girl has been
 betrothed af a tender age, for unbetrothed girls can
@@ -7323,12 +6812,10 @@ for until she is married or betrothed she is perfectly
 free, and mistress of her own actions.
 
 Girls of the lower classes, who are seldom betrothed,
-can lead any life they choose without incurring re-
-proach, and without affecting their future prospects
+can lead any life they choose without incurring reproach, and without affecting their future prospects
 of marriage ; but girls of the upper classes, who are
 almost always betrothed, must be chaste. If, then,
-the great majority of girls were betrothed in child-
-hood, it may readily be conceived that a notion might
+the great majority of girls were betrothed in childhood, it may readily be conceived that a notion might
 be formed that a bride ought to be a virgin, and be
 made of general application quite independent of
 betrothals. At present, the feeling of annoyance,
@@ -7355,13 +6842,11 @@ betrothed in childhood were allowed, on growing up, "
 to bestow their favours on whom they pleased.* In
 Fiji and Samoa it appears that only the daughters of
 chiefs were expected to be virgins when married, and
-it was only the daughters of chiefs who were be-
-trothed early in life.f The Mosquito Indians betroth
+it was only the daughters of chiefs who were betrothed early in life.f The Mosquito Indians betroth
 children, and if, when the marriage takes place, the
 girl is not a virgin, the match is broken off. Similar
 evidence is forthcoming in regard to the Bagas, Fulas,
-Timnis, and Fans, in Africa, the Kirghese and Ouz-
-beks, in Asia, and many others.
+Timnis, and Fans, in Africa, the Kirghese and Ouzbeks, in Asia, and many others.
 
 Parents cannot force a daughter to marry a suitor
 who is distasteful to her, but they can prevent a girl
@@ -7390,23 +6875,19 @@ t Wilkes, *' U.S. Exploring Expedition," pp. 92 and 210.
 
 order of age married the iyale^ or head wife, and so
 in succession from brother to brother. There was no
-obligation to marry the subordinate wives of a de-
-ceased elder brother, and they usually devolved upon
+obligation to marry the subordinate wives of a deceased elder brother, and they usually devolved upon
 the legal heirs. If the deceased were childless, the
 son first born of the new union of the younger brother
 with the widow was named after the deceased, and
 was considered to fill the place of the son ; he did
-not, however, as among the Jews, succeed to the pro-
-perty to the exclusion of the Levir — his inheritance
+not, however, as among the Jews, succeed to the property to the exclusion of the Levir — his inheritance
 jay solely in the house of his actual father. At the
 present time a widow-iyale is not obliged to jnarry
 her deceased husband's brother, but she does not, on
-the other hand, become the wife of one of the hus-
-band's sons, as do the subordinate wives. She usually
+the other hand, become the wife of one of the husband's sons, as do the subordinate wives. She usually
 goes to live with the relatives of her late husband ;
 and, should she contract a second marriage with some
-man other than her brother-in-law, the second hus-
-band has to repay to the relatives of the first the
+man other than her brother-in-law, the second husband has to repay to the relatives of the first the
 amount that the latter paid for his wife.
 
 Adultery can only be committed with a married
@@ -7430,13 +6911,10 @@ may have borne him ; but if a child be too young to
 leave the mother, it does not come to the father till
 ten or twelve years of age. We see here a great
 change from the customs of the Tshi tribes, among
-whom, under every circumstance of divorce or sepa-
-ration, the mother retains her children, though she
-is liable to her husband for a certain sum to compen-
-sate him for what he has paid for their maintenance.
+whom, under every circumstance of divorce or separation, the mother retains her children, though she
+is liable to her husband for a certain sum to compensate him for what he has paid for their maintenance.
 There, children belonged exclusively to the mother,
-but here they belong to the father, and the innova-
-tion is undoubtedly due to the alteration in the
+but here they belong to the father, and the innovation is undoubtedly due to the alteration in the
 system of descents.
 
 When a husband systematically neglects his wife
@@ -7465,15 +6943,12 @@ be just those most likely to retain the privilege longest.
 188 THE YOBUBA-SPEAKlNa PEOPLES.
 
 Marriage is forbidden in the same blood ; and, as
-descent is traced on both sides of the house, it is con-
-sequently forbidden both in the father's and mother's
+descent is traced on both sides of the house, it is consequently forbidden both in the father's and mother's
 families, as far as relationship can be traced. This,
-however, is not far, as there is no longer the clan-
-name, which, as long as descent was traced on only-
+however, is not far, as there is no longer the clanname, which, as long as descent was traced on only-
 one side of the house, remained the test of kinship to
 perpetuity, and a people who do not write have no
-means of recording genealogies. As a rule relation-
-ship does not seem to be traced further than second-
+means of recording genealogies. As a rule relationship does not seem to be traced further than second-
 cousins, and the prohibitive degrees of marriage are
 for a man, mother, aunt, sister, daughter, niece,
 cousin, and second-cousin. In consequence of descent
@@ -7508,8 +6983,7 @@ cultivation, and is allowed to be overgrown with bush
 or forest, it reverts to the community.
 
 On the Gold Coast private property in land is not
-recognised, and the sale or purchase of land is un-
-known, except when Europeans or Anglicised natives
+recognised, and the sale or purchase of land is unknown, except when Europeans or Anglicised natives
 desire to acquire landed property, in which case
 the consent of the community as a whole to the
 transaction has to be obtained. Among the Yoruba
@@ -7522,8 +6996,7 @@ chieftainship ; but the land sold or given away must
 be unoccupied waste-land, the usufruct of which has
 not been yielded to any member of the community.
 
-When, under this custom, land is given, the owner-
-ship is not complete, for though the individual or
+When, under this custom, land is given, the ownership is not complete, for though the individual or
 family which receives it can retain it and use it for
 ever, it cannot be disposed of to any third party.
 Land acquired by purchase becomes the absolute
@@ -7531,8 +7004,7 @@ property of the purchaser. The purchase of land
 does not, however, carry with it the ownership of
 anything on the land, such as trees, crops, or houses,
 which still remain the property of the vendor, unless
-sold separately. Houses can only be sold by per-
-mission of the king or chief, and, as they are family
+sold separately. Houses can only be sold by permission of the king or chief, and, as they are family
 property, the consent of the whole family has to be
 obtained to the transaction.
 
@@ -7542,8 +7014,7 @@ obtained to the transaction.
 (4) Laws op Debt.
 
 A man can be imprisoned for debt, and in every
-town of importance there is a debtor's prison (lie-
-emuy house of seizure), in which the Bale confines
+town of importance there is a debtor's prison (lieemuy house of seizure), in which the Bale confines
 a debtor till the debt is discharged. There is also a
 custom similar to our putting a man in possession,
 a bailiff's ofl&cer, called ogo^ being placed in the
@@ -7576,8 +7047,7 @@ the guilt of an accused, he has to prove his innocence by
 
 LAWS AND CUSTOMS, 191
 
-or, in other words, human means having failed, the bur-
-den of a decision is thrown upon the gods. The draught,
+or, in other words, human means having failed, the burden of a decision is thrown upon the gods. The draught,
 which is nearly always a decoction of odum-bark, is
 prepared by a priest, who thus has it in his power to
 make it harmless or effective. It is a powerful poison,
@@ -7593,15 +7063,12 @@ guiltless who ordinarily perish.
 As a rule, murder, arson, and treason are punished
 with death. A first offence of theft is punished by
 flogging and a fine, a second by mutilation, and a
-third by death. When, however, cattle or sheep-
-stealing, becomes prevalent, a detected thief is put to
+third by death. When, however, cattle or sheepstealing, becomes prevalent, a detected thief is put to
 death, as a warning to others. In such a case, the
 criminal, instead of being executed by the Ogboni in
-secret, is decapitated on Ogun's stool, by the sword-
-bearers of the chiefs, in some public place. Criminals
+secret, is decapitated on Ogun's stool, by the swordbearers of the chiefs, in some public place. Criminals
 who cannot pay their fines are flogged with the
-kpcLshaUy a formidable whip made of hippopotamus-
-hide, which draws blood at each stroke.
+kpcLshaUy a formidable whip made of hippopotamushide, which draws blood at each stroke.
 
 The relatives of a person who has been executed
 for crime are not entitled to bury him without paying
@@ -7632,8 +7099,7 @@ by adding a liquid n.
 
 Van, to gape, yawn ; from ya, to open, part.
 
-(3) Verbs of Class III. are formed by using to-
-gether two verbs of Class I., which are, however,
+(3) Verbs of Class III. are formed by using together two verbs of Class I., which are, however,
 separated by the objective noun. They are what we
 styled, in Ewe, " Separable Compound Verbs.'*
 Examples : —
@@ -7722,8 +7188,7 @@ in its simple form.
 abbreviated to o.
 
 (3) Perfect, Pluperfect, and Second Future; by
-placing ti before the verb. Ti is probably a contrac-
-tion of tan^ to be at an end, be done.
+placing ti before the verb. Ti is probably a contraction of tan^ to be at an end, be done.
 
 Present Indefinite, or Past Indefinite.
 
@@ -7804,13 +7269,8 @@ In the second person the verb ^e is not used, as : —
 
 Ki iwofe^ Love thou. Ki enyinfe, Love ye.
 
-This is suflBciently comprehensible when we con-
-sider the meaning of jeki. Je, conveying the meaning
+This is suflBciently comprehensible when we consider the meaning of jeki. Je, conveying the meaning
 
-2
-
-
-196 THE YORUBA-SPEAKING PEOPLES.
 
 of permission, is not here required, and H, conveying
 the sense of fulfilling, remains. In the same way the
@@ -7919,8 +7379,7 @@ Ai is compounded of a, not, and the substantive
 formative prefix i, signifying a state of being.
 
 The negative particle of a verb of possession is lai,
-which is simply ai, with the verb m, to be, euphoni-
-cally changed to Z, placed before it. Example : —
+which is simply ai, with the verb m, to be, euphonically changed to Z, placed before it. Example : —
 
 Lowo (ni'OWo)f to be rich, have wealth.
 
@@ -7938,8 +7397,7 @@ The indefinite article is expressed by oJcan (one)
 being placed after the noun. It is almost invariably
 abbreviated to lean.
 
-The definite article is expressed by the demonstra-
-tive pronoun na (that), which is placed after the
+The definite article is expressed by the demonstrative pronoun na (that), which is placed after the
 noun. Thus : —
 
 Okonri kan, a man ; literally, ** one man."
@@ -7984,10 +7442,8 @@ Wo, or 0, Thee. Nyin, You.
 A, e, i, 0, or u. Him, her, it. Won, Them.
 
 As will be seen, they are, with the exception of the
-third person singular, the nominative personal pro-
-nouns with the initial vowel omitted. The particular
-form to be used to express him, her, or it, is deter-
-mined by the vowel-sound of the verb, a being used
+third person singular, the nominative personal pronouns with the initial vowel omitted. The particular
+form to be used to express him, her, or it, is determined by the vowel-sound of the verb, a being used
 with a verb in which the sound of a occurs, and
 so on. Thus: —
 
@@ -7995,9 +7451,6 @@ a would be used with the yerb ha, or with kan.
 
 
 e
-
-
-99
 
 
 >>
@@ -8014,16 +7467,11 @@ ge.
 t
 
 
-99
-
-
 >9
 
 
 «, or with rin.
 
-
-200 THE YORUBA-SPEAKING PEOPLES.
 
 The personal pronouns are made reflexive by
 adding ti-kara {1% of, or belonging to; ara, body,
@@ -8072,9 +7520,6 @@ Nihin-yi, here, in this place {niha, locality, place ; eyi, this).
 LANGUAGE.
 
 
-201
-
-
 Nihe-na^ there, in that place (ni^e, in or at a plac3 ; m<, that).
 Baiy thus, in this manner (is perhaps a contraction of ha-eyi, to meet
 this).
@@ -8093,8 +7538,7 @@ Nouns.
 Nouns are formed in the following ways : —
 
 (1) From the verb, with the prefix i. This prefix
-seems to convey the notion of things regarded collec-
-tively, or in the abstract.
+seems to convey the notion of things regarded collectively, or in the abstract.
 
 
 //"e, love, willingness,
@@ -8138,8 +7582,6 @@ to carry with it a suggestion of passiveness, or of
 individuality of things rather than of beings, but
 noims expressing personality are nevertheless some-
 
-
-202 THE YORUBA-SPEAKING PEOPLES.
 
 times formed with this prefix. A is occasionally
 changed to e.
@@ -8203,8 +7645,7 @@ Ati-lo^ departure, „ ati, and lo, to go.
 
 LANGUAGE. 203
 
-common to the other cognate languages, and is pro-
-bably primitive.
+common to the other cognate languages, and is probably primitive.
 
 (a) Eegular reduplication : —
 
@@ -8259,8 +7700,6 @@ OlowOi rich man, „ lowo (ni-owo), to have riches.
 We may here show the successive changes by which
 
 
-204 THE YORUBA'SPEAKING PEOPLES.
-
 the noun of possession is formed from the primitive
 monosyllabic verb : —
 
@@ -8297,8 +7736,7 @@ in the abstract. Thus : —
 AifCt unwillingness. Ailo, inutility.
 
 From the foregoing it will be seen that all nouns
-begin with a vowel, except those formed by re-
-duplication from a verb. A few nouns may be found
+begin with a vowel, except those formed by reduplication from a verb. A few nouns may be found
 which appear to be exceptions to this rule, but on
 investigation they are found to be either : —
 
@@ -8307,8 +7745,7 @@ east, a Hausa word, or
 
 (b) Nouns whose vowel-prefix has been dropped.
 
-Of the latter, we find feq/i, a grave ; balogun^ war-
-chief ; baluwe^ bath-room ; bode, custom-house ; and,
+Of the latter, we find feq/i, a grave ; balogun^ warchief ; baluwe^ bath-room ; bode, custom-house ; and,
 as we as often hear iboji as boji^ and ibalogun as balo^
 
 
@@ -8334,8 +7771,7 @@ Igbana, used to express "then,** is really igba (time) and na
 Okpo lokpo, used as an adverb, " plentifully,*' is a reduplication of
 the noun okpo, plenty, and means literally " plenty-plenty."
 
-Nouns are not declined. The noun in the nomina-
-tive, or subjective, case is placed before the verb, and,
+Nouns are not declined. The noun in the nominative, or subjective, case is placed before the verb, and,
 in the objective, after it. The genitive is either
 expressed, as in Ewe, by position, as tie okonri, house
 (of the) man, or by means of ti, belonging to, as
@@ -8357,8 +7793,6 @@ OmO'konrif son. Omo-biriy daughter.
 
 In the case of all other living creatures, humau
 
-
-206 THE YORUBA'SPEAKING PEOPLES.
 
 infants included, it is indicated by the words ako {a
 male) and aho (a female), as : —
@@ -8385,8 +7819,7 @@ Ft, to be tough. Te, to be flat.
 These adjectival verbs admit of comparison, and
 are the only words qualifying nouns that can be
 compared. The comparative is formed by adding the
-verb ju (to surpass, be more than) ; and the super-
-lative by adding the verb lo (to leave, depart), to the
+verb ju (to surpass, be more than) ; and the superlative by adding the verb lo (to leave, depart), to the
 comparative. The comparative is thus expressed by
 a compound verb of Class III., and the superlative
 by one of Class V. Example : —
@@ -8467,9 +7900,6 @@ Awhile, for a time, by osa, time, interval of time.
 Before (sooner), „ sin, to lead the way.
 
 
-208
-
-
 THE YOBRUA-^SFEAKIiVG PEOPLES,
 
 
@@ -8527,8 +7957,7 @@ Proudly „ „ „ nirera (ni~irera), to have pride.
 
 There are, however, a number of words which
 appear to be true adverbs, but may only be adjectives
-used adverbially, since they are all formed by redupli-
-cation from verbs. Examples :—
+used adverbially, since they are all formed by reduplication from verbs. Examples :—
 
 
 Yara^yara, quickly,
@@ -8609,8 +8038,6 @@ perhaps from ko, to meet, and ro, to give way.
 
 P
 
-
-210 THE YORUBA'SPEAKING PEOPLES.
 
 11. Kpere-hpere^ very, can only be used with du^ to be black. It is
 probably from kpe, to endure, last, and re, to dye.
@@ -8778,8 +8205,6 @@ Fifteen, Edogun {arun-di-ogun, five less than twenty).
 p 2
 
 
-212 THE YORUBA'SPEAKING PEOPLES.
-
 Sixteen, Erin-di-logun (four less than twenty).
 
 Seventeen, Eta-di-logun (three less than twenty).
@@ -8798,8 +8223,7 @@ ogun, twenty, before the imits. Thus : —
 
 Forty, Oji {pgun-eji^ twenties-two).
 
-Sixty, Ogota (ogun-etay twenties-three). It is commonly abbre-
-viated to Ota.
+Sixty, Ogota (ogun-etay twenties-three). It is commonly abbreviated to Ota.
 
 Eighty, Ogortn (ogun-erin, twenties-four). Abbreviated to Ortn,
 
@@ -8865,8 +8289,7 @@ reckon by two hundreds. When the number is odd
 they say " So many two hundreds, less one hundred,"
 and to facilitate this process they have a word ede,
 which means " minus one hundred," or " minus one
-thousand," according to whether it is used in connec-
-tion with hundreds or thousands. Two hundred is
+thousand," according to whether it is used in connection with hundreds or thousands. Two hundred is
 ten score, and computation by two-hundreds is as
 natural to people who reckon by scores as that by
 hundreds, t.6., ten tens, is to people who reckon by
@@ -8913,8 +8336,7 @@ exhibits rather stronger traces of the primitive practice
 of counting by fives, tens, and twenties — that is, by one
 hand, two hands, and hands and feet — than do the
 other systems. Olcan^ one, means ** something alone,**
-and no doubt refers to the thumb.* Eji^ two, is pro-
-bably from jii to pick, and means " the picker," that
+and no doubt refers to the thumb.* Eji^ two, is probably from jii to pick, and means " the picker," that
 is, the index-finger. This verb appears again in e/e,
 seven, which would be counted on the index-finger of
 the other hand. Eta^ three, is from the verb to, to
@@ -8932,12 +8354,10 @@ It means " the ending," and five brings to an end the
 counting of the fingers of one hand. Efa^ six, which
 would be counted on the thumb of the other hand,
 seems to mean " that which leads or attracts,'' and to be
-from /a, to lead, attract, draw ; and ewa^ ten, is pro-
-bably from the verb wa^ to come together, and refers
+from /a, to lead, attract, draw ; and ewa^ ten, is probably from the verb wa^ to come together, and refers
 to the closing of the two hands when the counting is
 finished. The derivation of e/o, eight, and eran^ nine,
-is not clear. Then eleven, twelve, thirteen, and four-
-teen are respectively ten-one, ten-two, ten-three, and
+is not clear. Then eleven, twelve, thirteen, and fourteen are respectively ten-one, ten-two, ten-three, and
 ten-four ; but fifteen, which completes the counting on
 one hand, is five less than twenty. The computation
 is then carried to the other hand, and we get four less
@@ -8968,10 +8388,7 @@ so on.
 The niuneral adverbs of time are formed by prefixing
 
 
-216 THE YORUBA'SPEAKING PEOPLES.
-
-aray usually contracted to e, before the cardinal num-
-bers, as used in answer to a question. Thus : —
+aray usually contracted to e, before the cardinal numbers, as used in answer to a question. Thus : —
 
 Once, ekan (ara-kan).
 Twice, emeji {ara-meji).
@@ -8981,8 +8398,7 @@ Four times, emerin (jxra-mertn),
 Ara is a noun which has the primary meaning of
 custom, fashion, but also means a repetition.
 
-The numeral adverbs of order are formed by pre-
-fixing the verb lelce, to be prominent, or uppermost,
+The numeral adverbs of order are formed by prefixing the verb lelce, to be prominent, or uppermost,
 abbreviated to leW before the cardinal numbers.
 Thus :—
 
@@ -8994,8 +8410,7 @@ From the preceding it will have been seen that, as
 in Tshi, Ga, and Ewe, all the words in the language
 are derived from the simple monosyllabic verbs. The
 list of Yoruba simple monosyllabic verbs will be found
-in the Appendix, where the four languages are com-
-pared.
+in the Appendix, where the four languages are compared.
 
 There is the usual want of definiteness in expressing
 colours. Fufu means white, or any light colour;
@@ -9037,8 +8452,7 @@ CHAPTER XIII.
 PEO VERBS.
 
 
-The Yorubas have an extraordinary number of pro-
-verbial sayings, and regard a knowledge of them as a
+The Yorubas have an extraordinary number of proverbial sayings, and regard a knowledge of them as a
 proof of great wisdom, whence the saying, "A counsellor
 who understands proverbs soon sets matters right."
 They are in constant use, and another saying runs,
@@ -9046,8 +8460,7 @@ They are in constant use, and another saying runs,
 conversation droops a proverb revives it. Proverbs
 and conversation follow each other." Several of the
 proverbs given in the volume on the Ewe-speaking
-peoples are known to and used by the Yoruba-speak-
-ing peoples ; but they have hundreds of others which
+peoples are known to and used by the Yoruba-speaking peoples ; but they have hundreds of others which
 appear to be peculiar to themselves, and from these
 the following are taken as examples : —
 
@@ -9124,8 +8537,6 @@ the master of the outer.
 24. He who forgives ends the quarrel.
 
 
-220 THE YORUBA-SPEAKING PEOPLES.
-
 26. A sharp word is as tough as a bow-string. A
 sharp word cannot be cured, but a wound may.
 
@@ -9136,8 +8547,7 @@ sharp word cannot be cured, but a wound may.
 28. The afomo (a parasitical plant) has no roots;
 it claims relationship with every tree.
 
-29. A man with a cough can never conceal him-
-self.
+29. A man with a cough can never conceal himself.
 
 30. Full-belly child says to hungry-beUy child,
 " Keep good heart."
@@ -9156,8 +8566,7 @@ good end.
 
 36. He who marries a beauty marries trouble.
 
-36. A man of the town knows nothing about farm-
-ing, or the seasons for planting, yet the yam he buys
+36. A man of the town knows nothing about farming, or the seasons for planting, yet the yam he buys
 must always be large.
 
 37. A witch kills but never inherits.
@@ -9192,8 +8601,7 @@ the rich, for if a man be wise, why is he poor ?
 47. The appearance of the wise differs from that of
 the fool.
 
-48. The labourer is always in the sun, the planta-
-tion-owner always in the shade.
+48. The labourer is always in the sun, the plantation-owner always in the shade.
 
 (Answers to " One sows, another reaps.")
 
@@ -9229,8 +8637,6 @@ town.
 
 (Answers to " Evil communication corrupts good manners.")
 
-
-222 THE YORUBA'SPEAKING PEOPLES.
 
 58. Tale-bearing is the elder brother, vexation the
 younger.
@@ -9331,8 +8737,6 @@ to him who has a knife.
 goes with him.
 
 
-224 THE YORUBA'SPEAKING PEOPLES.
-
 87. Frogs' spawn does not attract the attention of
 the robber.
 
@@ -9407,15 +8811,13 @@ him.
 every man who may own a palace.
 
 104. Everyone in the assembly has a name, but
-when you are summoned " in the name of the assem-
-bly" (instead of in the name of some individual in
+when you are summoned " in the name of the assembly" (instead of in the name of some individual in
 it) evil awaits you.
 
 105. A near neighbour need not say good-bye till
 to-morrow.
 
-106. A thing thrown forward will surely be over-
-taken, and a thing put in the ground will be there to
+106. A thing thrown forward will surely be overtaken, and a thing put in the ground will be there to
 be dug up ; but if nothing has been thrown forward,
 what shall be overtaken ? and if nothing has been
 buried, what shall be dug up ?
@@ -9428,8 +8830,6 @@ to it.
 108. Gold should be sold to him who knows its
 value.
 
-
-226 THE YORUBA-SPEAKING PEOPLES.
 
 109. Time is longer than a rope.
 
@@ -9523,14 +8923,11 @@ sky.
 129. The bill-hook cuts the bush, but receives- no
 profit from the bush. It clears the road, but
 receives no profit from the road. The bill-hook is
-badly bent, the bill-hook is badly bent. The bill-
-hook is bent ; it pays five cowries to bind its neck
+badly bent, the bill-hook is badly bent. The billhook is bent ; it pays five cowries to bind its neck
 (handle) with a ring. When the bill-hook reaches
 
 Q 2
 
-
-228 THE YORUBA-SPEAKING PEOPLES.
 
 its owner's farm with the ring on its neck, it is
 girded tightly for new works.
@@ -9655,8 +9052,7 @@ the awo ache.
 means that people do not like to hear their relations badly spoken
 of.)
 
-150. He runs away from the sword and hides him-
-self in the scabbard.
+150. He runs away from the sword and hides himself in the scabbard.
 
 ( This answers to our " Out of the frjing-pan into the fire," as the
 
@@ -9672,8 +9068,7 @@ into it.
 rashness.)
 
 153. After the agbeji has saved men from starving,
-it is thought only fit to be cut into a common cala-
-bash.
+it is thought only fit to be cut into a common calabash.
 
 (The agbeji is a kind of calabash -gourd, which ripens early in the
 season, when vegetables are scarce. When over-ripe it is bitter to
@@ -9746,8 +9141,7 @@ going/* gives the stranger no encouragement to
 plant the ahusa (a plant which bears fruit very
 rapidly).
 
-168. What good have the gods done to the hunch-
-ba<5k that he should name his child Orishagbemi (the
+168. What good have the gods done to the hunchba<5k that he should name his child Orishagbemi (the
 gods have blessed me) ?
 
 (This means, why should one return thanks when unkindness only has
@@ -9757,8 +9151,7 @@ been experienced ?)
 169. He who does not understand the cry of the
 palm-bird (ego) complains of the noise it makes.
 
-(Means that people are prone to contemn what they do not under-
-stand.)
+(Means that people are prone to contemn what they do not understand.)
 
 170. A large cock, crowing in the middle of the
 night, settles the dispute (as to what the time is).
@@ -9826,8 +9219,6 @@ hand gets possession of the sticks.
 will send no one to you.
 
 
-284 THE YORUBA-SPEAKING PEOPLES.
-
 185. There is no tallness among pigeons ; they are
 all dwarfs.
 
@@ -9888,8 +9279,7 @@ has no flesh to protect it.
 
 200. Working in competition quickens the hands.
 
-JOl. The coloured calico deceives the country-
-cloth, but it is not really what the country-cloth takes
+JOl. The coloured calico deceives the countrycloth, but it is not really what the country-cloth takes
 it to be, for the thread is fine.
 
 (Country-cloth, that is, native-made cotton-cloth, is only dyed to
@@ -9937,11 +9327,9 @@ the shirt from slipping off.
 
 210. As one is walking, so is he met.
 
-211. The monkey is sure to tear the cloth of any-
-one who resembles himself.
+211. The monkey is sure to tear the cloth of anyone who resembles himself.
 
-212. An accident is not like a result that is fore-
-seen.
+212. An accident is not like a result that is foreseen.
 
 213. One lock does not know the wards of another.
 
@@ -10031,8 +9419,6 @@ long upon the shore.
 236. The butterfly that brushes against thorns will
 tear its wings.
 
-
-238 THE YORUBA-SPEAKING PEOPLES.
 
 237. If an orisha would kill a man for cooking an
 unpalatable soup, what would become of those who
@@ -10137,8 +9523,6 @@ And a slave, made king, would spare nobody.
 And when the master dies the house is desolate.
 
 
-240 THE YORUBA'SPEAKING PEOPLES.
-
 10. The absence of powder converts a gun into a
 
 stick,
@@ -10180,8 +9564,7 @@ Abebi means a fan, an advocate, or an intercessor,
 and the above is
 
 An intercessor (with the gods) wards off death.
-An advocate (with the judge) wards off punish-
-ment.
+An advocate (with the judge) wards off punishment.
 A fan wards off the heat when it is hot.
 
 • See Proverb 218.
@@ -10209,16 +9592,14 @@ Ojo pa bata, bata-bata-bata^ li ori apata; li ode
 ajulabatay bata ni igiy bata li awo.
 
 "The rain on the bata (shoes), goes patter, patter,
-patter, as on the apata (rock) ; in the street of ajula-
-batay the bata (drum) is wood, the bata (shoes) are of
+patter, as on the apata (rock) ; in the street of ajulabatay the bata (drum) is wood, the bata (shoes) are of
 hide."
 
 (5) Igba dodo li agbado, igba ni ? " What supports
 the people if it is not maize ? " Here the play is on
 igba dodo and agbado.
 
-It is a favourite game to repeat as fast as pos-
-sible sentences difficult to pronounce, like the fol-
+It is a favourite game to repeat as fast as possible sentences difficult to pronounce, like the fol-
 lowing : —
 
 lyan mu ire yo ; iyan ro ire ru. " When there is
@@ -10230,8 +9611,6 @@ Kandkana ba kanakana ja^ kanakana da kanakana.
 " The crow met the crow and fought, the crow beat
 the crow."
 
-
-242 THE YORUBA'SPEAKING PEOPLES.
 
 The two following are examples of a play of a
 different sort :—
@@ -10280,9 +9659,6 @@ at the landing-place).
 CHAPTER XIV.
 
 
-FOLK-LORE TALES.
-
-
 The Yoruba folk-lore tales are very numerous. The
 word now commonly used to mean one of these
 popular fables is alo, which more properly means a
@@ -10301,16 +9677,13 @@ audience around him, he cries out, " My alo is about
 so-and-so," mentioning the name of the hero or
 heroine of the tale ; or " My alo is about a man (or
 woman) who did so-and-so," and, after this preface,
-proceeds with the recital. The professional story-
-teller must not bo confounded with the arokin^ or
+proceeds with the recital. The professional storyteller must not bo confounded with the arokin^ or
 narrator of the national traditions, several of whom
 are attached to each king or paramoimt chief, and
 who may be regarded as the depositaries of the
 
 u2
 
-
-244 THE YORUBA-SPEAKING PEOPLES.
 
 ancient chronicles. The chief of the arokin is a
 councillor, bearing the title of Ologbo "one who
@@ -10354,8 +9727,6 @@ with their heads.
 
 • Iwin, goblin, spirit, ghost.
 
-
-FOLK-LORE TALES. 215
 
 Then they went on again a long way, and they came
 to a river of filth. And the goblin sang : —
@@ -10445,14 +9816,11 @@ girl broke the last adoy and at once the house was
 filled to overflowing with co\vries, which poured out
 of the doors and windows.
 
-The mother of the little girl took twenty country-
-cloths, twenty strings of valuable beads, twenty sheep
+The mother of the little girl took twenty countrycloths, twenty strings of valuable beads, twenty sheep
 
 • The ado is a very small calabash, commonly used for keeping
 me<lioinnl powders in.
 
-
-folk-lore tales. 247
 
 and goats, and twenty fowls, and went to make a
 present to the head wife.*
@@ -10499,8 +9867,6 @@ when he is nurturing rancour against the donor, and to refuse a gift
 is regarded as a sign of enmity.
 
 
-248 THE YORUBA-SPEAKING PEOPLES.
-
 And the little girl sang : —
 
 " I will not turn back."
@@ -10538,15 +9904,12 @@ nothing and she left them alone. She found others
 which cried, " Pick me, pick me, pick me," and she
 picked three of them.
 
-Then the goblin said to her, " When you are half-
-way home break one ado ; when you are at the door
+Then the goblin said to her, " When you are halfway home break one ado ; when you are at the door
 break another; and break the third when you are
 inside the house."
 
 Half-way home the little giri broke one ado, and
 
-
-FOLK-LORE TALES. 249
 
 behold, numbers of lions, and leopards, and hyenas,
 and snakes, appeared. They ran after her, and
@@ -10592,8 +9955,6 @@ f Aranran, a bird of prey ; probably from ra, to hoYer.
 '.^'^
 
 
-250 THE YORUBA-SPEAKING PEOPLES.
-
 She looked everywhere, but still could not find it,
 and she ran to-and-fro, crying bitterly.
 
@@ -10618,8 +9979,7 @@ Give me back my child, oh, igbo.
 Here is a rope of tie-tie, igbo ;
 Quickly let my child down, igbo."
 
-Then the aranran took all kinds of valuable pro-
-perty, and threw them down to her. And the mother
+Then the aranran took all kinds of valuable property, and threw them down to her. And the mother
 looked hero and looked there as the things fell, but
 her child was still not there, so she sang again, the
 same song, a third time.
@@ -10637,8 +9997,6 @@ the rhythm.
 parasitical vines which are used as substitutes for cord. They are
 sometimes called " bush-rope."
 
-
-FOLK-LORE TALES. 251
 
 and put him on her hack. She picked up also all
 the things that the aranran had thrown down to her.
@@ -10674,8 +10032,7 @@ The iyale ran to the bag, picked it up, and untied
 it. She found it full of filth, and she threw it away.
 Then she sang again, as before.
 
-This time the aranran made water in a large cala-
-bash, and let it fall, so that it broke upon the woman's
+This time the aranran made water in a large calabash, and let it fall, so that it broke upon the woman's
 head. And the iyale sang a third time : —
 
 ** Aranran, eiye, t'gbo, t'gbo,
@@ -10728,8 +10085,6 @@ My alo is of the ajao.*
 ♦ AjaOf a kind of flying-fox, or large bat.
 
 
-FOLK-LORE TALES. 258
-
 The ajao lay in liis house very sick, and there was
 no one to tend him. The ajao died.
 
@@ -10764,16 +10119,13 @@ IV.
 My alo is something about a certain king.
 
 One day the king called all the birds to come and
-clear a piece of ground. But he forgot to call Mni-
-kini.f
+clear a piece of ground. But he forgot to call Mnikini.f
 
 ♦ See Proverb 179.
 
 t A small black and vrhite bird, sometimes called the doctor-bird.
 It is named from its cry, which resembles the words hni-kim.
 
-
-254 THE YORUBA-SPEAKING PEOPLES.
 
 All the birds came. They set to work, and they
 cleared a large piece of ground.
@@ -10815,14 +10167,11 @@ spaces as a shade- tree.
 
 t Batay dunduUf and gangan, arc the names of different kinds of
 drums. The bata is a tall drum, the dundun is hung with little bells,
-and the gangan is properly a war-drum. These names are onomato-
-poeic. Each drum has its own measure and rhythm, and people say
+and the gangan is properly a war-drum. These names are onomatopoeic. Each drum has its own measure and rhythm, and people say
 '* to dance the hatay to dance the dundun^ or to dance the gangan^^
 just as we say, *^ to dance a waltz, tc^ dance a polka, or to dance a
 quadrille.**
 
-
-FOLK-LORE TALES. 255
 
 The birds went to work and cleared it again, and at
 mid-day went away. The kini-kini came back and
@@ -10844,8 +10193,7 @@ person who had played this trick. The king said,
 *' Very well."
 
 Then all the birds went back to the piece of ground;
-they put a great quantity of birdlime on the odan-
-tree ; then they went home.
+they put a great quantity of birdlime on the odantree ; then they went home.
 
 Next morning they came and cleared the groimd
 again, and at mid-day went and hid in the bush
@@ -10912,8 +10260,6 @@ with it, and that the bird had flown away. The king
 took the little boy and beat him. He beat him — he beat
 
 
-FOLK-LORE TALES. 257
-
 him, and, in his anger, he cut off one of his ears,
 " Go quick," he said. " Go quick, and find the bird."
 He pushed him out of the house.
@@ -10978,8 +10324,7 @@ and, like the minor gods, is represented as speaking
 through the nose.
 
 The names Tortoise and Spider are in these stories
-used as the proper names of anthropomorphic per-
-sonages, and among the Tshi tribes the latter is called
+used as the proper names of anthropomorphic personages, and among the Tshi tribes the latter is called
 Ajya Anansiy " Father Spider," or " Father Anansi."
 Thus, the Yoruba proverbial saying, j^'i Awon ho hmi
 ni li owOy used to convey the meaning that a matter
@@ -10991,11 +10336,8 @@ be one of great importance, should not be translated
 "is not a handful." An epithet of the tortoise is
 ajapUy "bald-headed elf," or "hairless elf " (a/a, elf;
 pa, to be bald or bare). The flickering appearance
-seen near the ground on sultry days is called " tortoise-
-fire," and is believed to be caused by a subterranean
+seen near the ground on sultry days is called " tortoisefire," and is believed to be caused by a subterranean
 
-
-FOLK-LORE TALES. 269
 
 fire made by the tortoise to destroy the roots of trees.
 The tortoise appears in several proverbial sayings,
@@ -11025,12 +10367,9 @@ attributes would be ascribed ; and, in the case of the
 spider, the ingenuity and patience displayed by it in
 the construction of its web would be attributed to the
 anthropomorphic spider of the stories. There is at
-the present time no spider-clan among the totem-
-clans of the Gold Coast, and, as the communities
+the present time no spider-clan among the totemclans of the Gold Coast, and, as the communities
 of the Gold Coast are heterogeneous, we cannot
 suppose that an entire clan has become extinct, unless
-
-82
 
 
 260 THE YORUBA'SFEAKING PEOPLES.
@@ -11038,8 +10377,7 @@ suppose that an entire clan has become extinct, unless
 the extinction took place in the remote past when
 communities were homogeneous ; in which case
 there seems no sufl&cient reason for the memory of
-the totem-ancestor being preserved, after the dis-
-appearance of all those who were supposed to be
+the totem-ancestor being preserved, after the disappearance of all those who were supposed to be
 descended from him.
 
 Tortoise Stories. v'
@@ -11065,20 +10403,16 @@ torrents. It fell so heavily that Sigo was washed by
 the water into a deep gully. He tried to get out, but
 could not, and remained there weeping and lamenting.
 
-The rain ceased, and Tortoise, always on the look-
-out for opportunities, came to the gully.
+The rain ceased, and Tortoise, always on the lookout for opportunities, came to the gully.
 
 Sigo saw him, and stretched his neck up to the
-blink of the gully. "Hi! Tortoise! Oh! bald-
-headed elf ! Hi ! " he cried.
+blink of the gully. "Hi! Tortoise! Oh! baldheaded elf ! Hi ! " he cried.
 
 Tortoise came and leant over the edge of the gully
 to see who was calling him. " What are you doing
 there ? " he said. " The flood of the rain washed me
 in here," said Sigo.
 
-
-FOLK-LORE TALES. 261
 
 " What will you give me if I pull you out ? "
 asked Tortoise. " I will be your slave," replied
@@ -11122,8 +10456,6 @@ Ah ! let me be rescued.
 • There is perhaps some pun in this. Olu means a clapper, or
 anything to strike with, and Uu means a drum.
 
-
-262 THE YORUBA-SPEAKING PEOPLES.
 
 Listen to what I say. He went to the elephant's haunt ;
 
@@ -11173,8 +10505,6 @@ Ah ! let me be rescued.
 
 ♦ Oka, ^
 
-
-FOLK-LORE TALES. 268
 
 Listen to what I say. He went to the buffalo's lair;
 
@@ -11282,12 +10612,9 @@ Tortoise, the mischievous, led the young girl back to
 • Kayin (Jca-iyin), to celebrate, or sing the praises of.
 
 
-FOLK-LORE TALES. 265
-
 the town. He was singing his song, and she was
 answering with her song. In this manner they
-arrived before the king, who cried out with astonish-
-ment, " My daughter, who has never been heard to
+arrived before the king, who cried out with astonishment, " My daughter, who has never been heard to
 speak, speaks to-day ! "
 
 The king divided his palace in half, and gave one
@@ -11330,8 +10657,6 @@ allow me to get on your back."
 
 \
 
-
-266 THE YORUBA-SPEAKING PEOPLES.
 
 "All right," said the elephant. He knelt down,
 and Tortoise climbed up on his back. Then they
@@ -11389,8 +10714,7 @@ When the elephant found that he could not catch
 the bald-headed elf, he ran away at full speed back
 to the forest.
 
-When he reached there he said to the other ele-
-phants, " Do you know what that broken-back * has
+When he reached there he said to the other elephants, " Do you know what that broken-back * has
 done to me ? " And he told them the story.
 
 The other elephants said, " You were a fool to carry
@@ -11420,8 +10744,6 @@ she consented to go with him. She took him to the
 • An epithet of the tortoise. It probably refers to the notehed
 appearance of the back.
 
-
-268 THE YORUBA'SPEAKING PEOPLES.
 
 house and showed him to her mothers.* Her mothers
 said, " Very well, go with him."
@@ -11467,8 +10789,6 @@ is very dry, and a proverbial saying, said of a tedious visiUir, runs,
 " He chokes me like ekuru.**
 
 
-FOLK-LORE TALES. 269
-
 stuff them into Tortoise's horn/' "Very good," said
 Adun.
 
@@ -11511,8 +10831,6 @@ Then he cried out "Buje, the slender, has killed
 me. I was cutting the bush, I was clearing the path
 
 
-270 THE YORUBA-SPEAKING PEOPLES.
-
 for her. She called to me to kill the snake, and I
 came quickly. Buje, the slender, Buje, the slender, I
 have killed the snake, but I have wounded myself in
@@ -11554,9 +10872,6 @@ Araericans, which makes Buje be ravished by a deformed man, instead
 of by the Tortoise. It is to be found, I believe, in ** Central Africa,"
 
 
-FOLK-LORE TALES. 271
-
-
 VI.
 
 My alo is about Tortoise.
@@ -11584,8 +10899,7 @@ Every day the lizard did this.
 
 a work I have not seen, but \?bicb was written by Mr. Bowen, an
 American Missionary, and pubiisbed at Cbarleston, United States of
-America, in 1857. All natives are agreed that this version is incor-
-rect, and that Tortoise was the ravisber, and the only probable
+America, in 1857. All natives are agreed that this version is incorrect, and that Tortoise was the ravisber, and the only probable
 explanation of the mistake seems to be that Mr. Bowen learnt the
 story from a native who spoke French, and either confused la tortue
 with le tortu, or concluded that the narrator meant the latter when be
@@ -11600,15 +10914,12 @@ to the air, and is used by the natives to stain the skin in imitation
 of tattooing. It leaves marks like lamp-black.
 
 
-272 THE YORUBA-SPEAKING PEOPLES,
-
 One day Tortoise, the bald-headed elf, met the
 lizard on the road carrying yams. He said to him,
 " Where did you get your food from, comrade ? "
 
 The lizard said, "If I were to tell you that, and take
-you to the place, I should be killed." The bald-
-headed elf answered, " No, I will not say a word to
+you to the place, I should be killed." The baldheaded elf answered, " No, I will not say a word to
 anyone. Please take me." And the lizard said,
 "Very well, then; come and call me to-morrow
 morning at cock-crow, and we will go together."
@@ -11642,8 +10953,6 @@ legs.
 the crow of a cock. It is from kekcy which, like cur onomatopoeic
 word ** cackle," means the cry of the hen.
 
-
-FOLK-LORE TALES. 273
 
 The lizard had already gone home. He lighted a
 fire. Then he lay on his back, with his feet in the air,
@@ -11718,15 +11027,13 @@ modifications of religious conceptions. Three groups
 of tribes have now been considered, the Tshi, the
 Ewe, and the Yoruba, who represent three stages of
 progress, the Tshi being in the lowest stage and the
-Yoruba in the highest. As these tribal groups un-
-doubtedly had a common origin, it is reasonable to
+Yoruba in the highest. As these tribal groups undoubtedly had a common origin, it is reasonable to
 suppose that the Yoruba tribes were once in the social
 and mental condition in which the Tshi tribes are
 now, and that, in fact, in these groups we find the
 same race in different states of culture. Assuming
 then, as we legitimately may, that the religious beliefs
-of the Ewes are modifications of earlier belief re-
-sembling those now held by the Tshis, and that those
+of the Ewes are modifications of earlier belief resembling those now held by the Tshis, and that those
 of the Yorubas are similarly modifications of beliefs
 like those now held by the Ewes, we here have an
 opportunity of observing how the evolution of religion
@@ -11790,8 +11097,7 @@ to them, or rather to their animating principles, than
 those which have proved to be innocuous. Every
 man worships that from which he has most to fear or
 most to expect, and it is commonly something with
-which he is daily brought into contact. Thus, fisher-
-men pay most attention to the indwelling spirits of
+which he is daily brought into contact. Thus, fishermen pay most attention to the indwelling spirits of
 the sea and of the shoals and reefs on which their
 canoes might be wrecked; while the agriculturist
 worships the spirit of the stream that flows near his
@@ -11825,8 +11131,7 @@ or stream would not be lost sight of ; but it would
 serve no useful purpose to keep an image there, since
 the god himself is present, and the only object in
 making one is to bring the god to some place nearer
-at hand, which will be more convenient for the wor-
-shippers, and at the same time bring the protecting
+at hand, which will be more convenient for the worshippers, and at the same time bring the protecting
 power more directly into contact with them. To
 effect this removal of a god it is a sine qua non that
 the simulacrum must be made from material obtained
@@ -11853,20 +11158,17 @@ CONCLUSIONS. 279
 spirit of a natural object, being completely lost sight
 of. Let us imagine, for example, that the inhabitants
 of a village who have been in the habit of worshipping
-the indwelling spirit of a precipitous cliff in the neigh-
-bourhood, come to the conclusion that it would be
+the indwelling spirit of a precipitous cliff in the neighbourhood, come to the conclusion that it would be
 more convenient, and at the same time place them
 more effectually under the protection of the spirit, if
 they were to bring him into the village. They
 accordingly make a figure of clay taken from the cliff,
 and set it up in the village in a miniature hut erected
 for its protection. This hut then becomes the sacred
-place, and the sacrifices and sacred dances are per-
-formed before it, instead of, as heretofore, at the cliff.
+place, and the sacrifices and sacred dances are performed before it, instead of, as heretofore, at the cliff.
 The god, however, is not supposed to have absolutely
 abandoned the cliff, and persons whose avocations
-took them to it would still think it necessary to pro-
-pitiate him with small offerings of food. Practically
+took them to it would still think it necessary to propitiate him with small offerings of food. Practically
 he is believed to be in the cliff and yet also in the
 image in the village, for although a man, if asked to
 explain the seeming impossibility of one and the same
@@ -11879,8 +11181,7 @@ wants of his followers, yet, as a matter of fact, they
 never seem to think about the matter at all, and it is
 taken for granted by the villagers that the god is in
 their midst. Generations are bom and die, and are
-succeeded by others, all of which have been accus-
-tomed to perform religious ceremonies before the
+succeeded by others, all of which have been accustomed to perform religious ceremonies before the
 miniature hut, and the inevitable result is that, sooner
 
 
@@ -11889,11 +11190,9 @@ miniature hut, and the inevitable result is that, sooner
 or later, the connection of tlie god with the clifF, of
 which he was the animating principle, is completely
 lost sight of, and he is regarded as the tutelary deity
-of the village, pure and simple. In this way un-
-doubtedly originated many of the tutelary deities of
+of the village, pure and simple. In this way undoubtedly originated many of the tutelary deities of
 towns and villages on the Gold Coast, for the process
-can be seen going on at the present day. By carry-
-ing it a little further, tribal or national gods might be
+can be seen going on at the present day. By carrying it a little further, tribal or national gods might be
 similarly produced, but, with two or three exceptions,
 the Tshi tribes have not progressed so far as that, and
 most of the gods worshipped by complete tribes are
@@ -11951,8 +11250,7 @@ sacrifices at the place of sepulture has been continued,
 simply through habit, long after the fact that a man
 was buried there has been forgotten. In such a
 case, the guardian-ghost being lost sight of, the god
-is simply a tutelary god, whose origin is either unex-
-plained, or which the priests explain in any way that
+is simply a tutelary god, whose origin is either unexplained, or which the priests explain in any way that
 may suit them best. We thus have two explanations
 of the origin of tutelary deities. They are either
 nature-gods who have been severed from their proper
@@ -11967,15 +11265,11 @@ tutelar.
 Nature-gods themselves are no doubt in several
 cases blended with ghost-gods. The reverence paid
 to certain rivers, rocks, cliffs, &c., must have often
-dated from some fatal accident that occurred in con-
-nection with them. It was this which first attracted
-attention, and primitive man would not be likely to dis-
-criminate between the ghost of the victim, which would
+dated from some fatal accident that occurred in connection with them. It was this which first attracted
+attention, and primitive man would not be likely to discriminate between the ghost of the victim, which would
 haunt the spot where the latter lost his life, and the
-indwelling spirit of the natural feature. Neverthe-
-less, that the nature-gods are, as a whole, the product
-of manes-worship, is, we think, a theory not war-
-ranted by the evidence, though apparently supported
+indwelling spirit of the natural feature. Nevertheless, that the nature-gods are, as a whole, the product
+of manes-worship, is, we think, a theory not warranted by the evidence, though apparently supported
 by the high authority of Mr. Herbert Spencer. It
 often occurs that a family settles near to some river,
 lake, or hill, and forthwith commences a cult of the
@@ -11992,15 +11286,13 @@ buried in the sky, sun, moon, rainbow, or wind ; and
 if these could be conceived to be animated without
 the intervention of the souls of the dead, why could
 not terrestrial objects also? Manes-worship is the result
-of the belief that man has an indwelling spirit which sur-
-vives after the death of the body, and nature-worship
+of the belief that man has an indwelling spirit which survives after the death of the body, and nature-worship
 
 
 CONCLUSIONS. 283
 
 is the result of the belief that all nature is animated.
-Which was first in order it would be difficult to deter-
-mine with absolute certainty, but, from the analogy of
+Which was first in order it would be difficult to determine with absolute certainty, but, from the analogy of
 the lower animals, it seems probable that the second
 was. Animals regard objects which move as alive,
 without having come to the conclusion that they
@@ -12029,14 +11321,12 @@ family stool, the emblem of office, or upon the great
 drum of the tribe, releasing the ghost from the body
 in order to enable it to become the guardian-spirit of
 the stool or drum. This is a luxury that can only be
-afforded by men of rank, or to ensure the safe-
-keeping of national trophies or emblems, and hence
+afforded by men of rank, or to ensure the safekeeping of national trophies or emblems, and hence
 
 
 284 TEE YOnunA-SPEAKING PEOPLES.
 
-it is only the royal stools of kings and chiefs, or para-
-phernalia belonging to the tribe as a whole, that are,
+it is only the royal stools of kings and chiefs, or paraphernalia belonging to the tribe as a whole, that are,
 as a rule, thus protected. The victim is decapitated
 upon the object so that the blood gushes over it, and
 on the Gold Coast many tribal stools and drums are
@@ -12047,8 +11337,7 @@ a human sacriiSce is offered to a god, the victim is
 similarly slain upon the sacred stool or chair, it seems
 probable that the ghost is in this case also believed to
 become a guardian-spirit. No doubt the belief that
-all objects not made by human hands possessed in-
-dwelling, or guardian-spirits, suggested the idea of
+all objects not made by human hands possessed indwelling, or guardian-spirits, suggested the idea of
 supplying artificial guardian-spirits to objects which
 did not come under this category. The practice is
 very widespread, and the custom of immolating
@@ -12062,8 +11351,7 @@ provide a guardian-spirit.
 
 With some two or three exceptions, all the gods
 worshipped by the Tshi tribes are purely local and
-have a limited area of worship. If they are nature-
-gods they are bound up with the natural objects they
+have a limited area of worship. If they are naturegods they are bound up with the natural objects they
 animate, if they are ghost-gods they are localised by
 the place of sepulture, and if they are tutelary deities,
 whose origin has been forgotten, their position is
@@ -12073,8 +11361,7 @@ necessarily fixed by that of the town, village, or family
 CONCLUSIONS. 285
 
 they protect. In any case tliey are worshipped only
-by those who live in the neighbourhood. The excep-
-tions are the sky-god, the earthquake-god, and the
+by those who live in the neighbourhood. The exceptions are the sky-god, the earthquake-god, and the
 goddess of the silk-cotton trees. The vault of the
 heaven overhangs every town and hamlet, so that
 Nyankupon,* the god of the sky, which is believed to
@@ -12082,18 +11369,15 @@ be solid, and the roof of the world, is universally
 known. Similarly, earthquakes are felt over the
 whole country, so that Sasabonsum, the earth-god,
 who is held to produce these phenomena, is also
-widely known. Silk-cotton trees are found every-
-where, so that Srahmantin, the goddess of these
+widely known. Silk-cotton trees are found everywhere, so that Srahmantin, the goddess of these
 trees, is feared and worshipped everywhere. With
 these three exceptions there are no general gods, that
 is, no gods known to the Tshi tribes as a whole;
-and two of them, it may be observed, in accord-
-ance with the principle that every man worships
+and two of them, it may be observed, in accordance with the principle that every man worships
 that which is most likely to affect his lot, and which
 is ordinarily near at hand, though known to all, are
 not paid much regard to, except when they force
-themselves upon the attention. Nyankupon is gene-
-rally considered too distant to have much weight in
+themselves upon the attention. Nyankupon is generally considered too distant to have much weight in
 the affairs of mankind, or to take much interest
 therein, but when he thunders and lightens — for to
 thunder, lighten, and pour out rain are his functions —
@@ -12112,8 +11396,7 @@ or shortly " the outspread vault."
 
 by flattery and praise. Sasabonsum likewise is not
 paid much attention to, except when an earthquake
-happens, and then everybody hastens to offer sacri-
-fices. As silk-cotton trees are everywhere close at
+happens, and then everybody hastens to offer sacrifices. As silk-cotton trees are everywhere close at
 hand, and a great many persons are crushed to death
 by them — for they seem particularly liable to the
 ravages of white ants, and are then blown down by a
@@ -12139,8 +11422,7 @@ built, is of immense size, and black ; and Abroh-ku,
 the surf -god of the landing-place, is of the colour of
 wood-ashes, and small and round, like a breaking wave.
 
-Among the Ewe tribes we find the same funda-
-mental belief that all nature is animate, and the local
+Among the Ewe tribes we find the same fundamental belief that all nature is animate, and the local
 nature-gods are, as among the Tshi tribes, the
 indwelling spirits of natural objects and features; but
 simulacra are much more common on the Slave Coast
@@ -12154,19 +11436,16 @@ ghost-gods and their human origin, has been more
 frequently weakened and lost sight of. Hence we
 find a large increase in the number of tribal and
 general gods, many of which have now no connection
-with any natural object or with manes-worship. Con-
-currently with the increase in the number of tribal
+with any natural object or with manes-worship. Concurrently with the increase in the number of tribal
 and general gods runs the relegation of the purely
-local gods to an inferior position. A god who is wor-
-shipped over a large area is naturally believed to be
+local gods to an inferior position. A god who is worshipped over a large area is naturally believed to be
 more powerful than one whose area of worship is
 circumscribed, and the tribal and general gods, having
 each their special functions and attributes, monopolise
 between them nearly all the phenomena and qualities
 which excite fear and respect in man. The local gods
 are thus pushed back from the prominent position
-they held among the Tshi tribes, with whom to pro-
-pitiate the local god was considered all important,
+they held among the Tshi tribes, with whom to propitiate the local god was considered all important,
 and though they are worshipped by small communities
 and solitary families, the inhabitants of towns do not
 pay much attention to them. Almost every person is
@@ -12185,14 +11464,11 @@ the names of Huntin and Loko. The Ewes have no
 
 288 THE YOHUBA-Sr BAKING PEOPLES.
 
-earthquake-god, probably because the shocks of earth-
-quake are rarely felt on the Slave Coast, two only
+earthquake-god, probably because the shocks of earthquake are rarely felt on the Slave Coast, two only
 being known to have occurred since 1778, whereas
 slight shocks are experienced on the Gold Coast every
-two or three years. Mawu, like Nyankupon, is con-
-sidered too distant to interfere in human affairs, and
-as he no longer thunders and lightens, which pheno-
-mena are attributed to a new conception, Khebioso, a
+two or three years. Mawu, like Nyankupon, is considered too distant to interfere in human affairs, and
+as he no longer thunders and lightens, which phenomena are attributed to a new conception, Khebioso, a
 bird-like god, who appears to be the personified
 thunder-cloud, he does nothing but control the
 rain, and his importance has been thereby lessened.
@@ -12207,8 +11483,7 @@ Gold Coast, and there it is the local gods who inflict
 pestilence on their worshippers as a punishment for
 neglect; while love, or desire, is usually stimulated
 by the ghost-gods, who, as the forefathers of the
-living, are believed to take an interest in the propa-
-gation of their descendants, though occasionally the
+living, are believed to take an interest in the propagation of their descendants, though occasionally the
 exciting of this passion may be found to be one out
 of the many attributes of a nature-god.
 
@@ -12225,8 +11500,7 @@ CONCLUSIONS. 289
 tribes. There are, in consequence, few local gods
 proper, but many tutelary deities of tribes, towns,
 villages, and families, and there is a very large increase
-in the number of general deities. Olorun, the sky-
-god, answers to the Ewe Mawu and the Tshi Nyan-
+in the number of general deities. Olorun, the skygod, answers to the Ewe Mawu and the Tshi Nyan-
 kupon, but he is rapidly being displaced by Obatala,
 a more anthropomorphic conception, and who very
 probably was a ghost-god whose origin has been lost
@@ -12235,13 +11509,11 @@ under the name of Shango, and that of small-pox
 under the name of Shan-kpanna. Legba has become
 a combination of desire and evil, and Odudua, a
 goddess, said by the priests to be the earth, presides
-over the passion of love. Orisha Oko, who repre-
-sents natural fertility, Aje Shaluga, god of wealth,
+over the passion of love. Orisha Oko, who represents natural fertility, Aje Shaluga, god of wealth,
 Shigidi, personified nightmare, and Dada, patron of
 vegetables, are new conceptions. A native of the
 Gold Coast who found his yam-crop thrive would
-attribute it to the fostering care of the local nature-
-god, and if he acquired wealth it would probably be
+attribute it to the fostering care of the local naturegod, and if he acquired wealth it would probably be
 considered duo to the efforts of his tutelary deity, but
 here gods appear to have been made out of abstractions.
 The evolution of types has been carried further
@@ -12258,13 +11530,11 @@ Oba, are nature-gods, which, from being strictly
 
 290 THE YOBUB A- SPEAKING PEOPLES.
 
-local, have now become general. Ifa, god of divina-
-tion, who is the benefactor of man and the unveiler of
+local, have now become general. Ifa, god of divination, who is the benefactor of man and the unveiler of
 the future, was probably originally a ghost-god, as no
 doubt was Osanhin, god of medicine. Ogun, god of
 iron, and hence of war, may be a personification of
-iron, but it is just as probable that he was the tradi-
-tional discoverer of the use of iron, and hence a ghost-
+iron, but it is just as probable that he was the traditional discoverer of the use of iron, and hence a ghost-
 god, who has now been raised to the first rank. In
 the general tendency to regard Legba as the evil
 principle, we perhaps see a first step towards dualism,
@@ -12317,8 +11587,7 @@ by the Jebus, being fairly open, large towns numerous,
 and circulation constant. Here the local god has
 almost disappeared, and the great majority of the
 gods are known to, and worshipped by, the whole of
-the tribes. The origin and inception of the nature-
-gods, as the indwelling spirits of natural objects or
+the tribes. The origin and inception of the naturegods, as the indwelling spirits of natural objects or
 phenomena, being generally lost sight of, some
 explanation of their existence becomes necessary,
 and, in consequence, we find a variety of myths
@@ -12338,8 +11607,7 @@ u 2
 
 among the Tshis and Ewes, or rather relegated to an
 inferior position, in consequence of the greater power
-and sway of the gods generally worshipped. When-
-ever, however, the human origin of the ghost-god
+and sway of the gods generally worshipped. Whenever, however, the human origin of the ghost-god
 has been lost sight of, he seems to have conformed
 to the general rule ; that is, where the circumstances
 have been unfavourable, he has, like the minor local
@@ -12347,8 +11615,7 @@ nature-gods, disappeared, or been absorbed in the
 personality of another god, and where they have been
 favourable, he has acquired increased renown and
 area of worship, and become a national or general god.
-That with the nationalisation of gods the priest-
-hood should also become organised and developed is
+That with the nationalisation of gods the priesthood should also become organised and developed is
 a natural result. Both on the Gold and Slave Coasts,
 and, indeed, everywhere else, the priesthood is a
 guild, or fraternity, the members of which require a
@@ -12388,8 +11655,7 @@ between the priests of the principal gods, and each
 gij^d their own privileges very jealously.
 
 Religion, at the stage of growth in which we find
-it^mong these three groups of tribes, has no connec-
-tion with morals, or the relations of men to one
+it^mong these three groups of tribes, has no connection with morals, or the relations of men to one
 another. It consists solely of ceremonial worship, and
 the gods are only offended when some rite or ceremony
 has been neglected or omitted!^If the omission be
@@ -12403,8 +11669,7 @@ his neighbour and robbed the widow and orphans,
 that would be a matter that would not concern
 the gods in the least, and, provided he paid the
 usual homage expected by gods from their followers,
-he would be as secure of their favour and pro-
-tection as if he were perfectly innocent of all
+he would be as secure of their favour and protection as if he were perfectly innocent of all
 
 
 294 THE YOnUBA'SPEAKINO PEOPLES.
@@ -12455,8 +11720,7 @@ he must not insult any. In fact, at this stage, man
 tolerates any form of religion that tolerates others ;
 and as he thinks it perfectly natural that different
 people should worship different gods, he does not
-attempt to force his own personal opinions upon any-
-one, or to establish conformity of ideas.
+attempt to force his own personal opinions upon anyone, or to establish conformity of ideas.
 
 The striking resemblance which the Yoruba religious
 system bears to that of the ancient Greeks can
@@ -12465,13 +11729,11 @@ proper, now being gradually displaced by the more
 anthropomorphic Obatala, resembles Uranus, who was
 displaced by Kronos. In Greek mythology Kronos
 married his sister Rhea, the earth, and the Yoruba
-myth makes Obatala marry Odudua, who also repre-
-sents the earth, though the qualities of Aphrodite
+myth makes Obatala marry Odudua, who also represents the earth, though the qualities of Aphrodite
 appear to predominate. Olokun answers to Poseidon,
 Ogun, worker in iron, to Hephoestus, Orisha Oko to
 Priapus, Osanhin to -^sklepius, Orun, the sun, to
-Helios, and Oshu, the moon, to Selene. Zeus' mes-
-senger, Hermes, the lightning, wai^ the protector of
+Helios, and Oshu, the moon, to Selene. Zeus' messenger, Hermes, the lightning, wai^ the protector of
 plunderers, and Shango is the god of lightning and
 plunder. Ifa, as the god of prophecy, and the being
 who wards off evil and affords help, resembles Apollo,
@@ -12486,16 +11748,14 @@ Air (Orungan) marrioH Water (Veninja).
 296 THE YOBUBA'SPEAKING PEOPLES.
 
 The spirits of the trees answer to the Hama-dryads,
-and we have river-gods and sea-spirits. Metamor-
-phosis to a brook, spring, or lagoon is common, and
+and we have river-gods and sea-spirits. Metamorphosis to a brook, spring, or lagoon is common, and
 we have one example of a girl being transformed, like
 Daphne, into a shrub. The gods, when consulted,
 gave oracular responses that differ in no essential
 particular from the answers given by the Oracle of
 Delphi. The Yorubas, like the Greeks, offer human
 sacrifices in time of national need. Dancing was,
-with the Greeks, intimately connected with wor-
-ship, as Lucian says : * " You cannot find a
+with the Greeks, intimately connected with worship, as Lucian says : * " You cannot find a
 single ancient mystery in which there is not
 dancing;" and on the Gold and Slave Coasts
 every god of note has his own dance, which
@@ -12506,15 +11766,13 @@ but, when we look into it closely, it is found to be
 similar to that of the Yorubas, and was no doubt
 produced when the Greeks were in a like intellectual
 condition. It is a pantheon which seems peculiar to
-a certain stage of culture, and is composed of nature-
-gods and ghost-gods. The Khonds of India have
+a certain stage of culture, and is composed of naturegods and ghost-gods. The Khonds of India have
 almost exactly the same objects of worship as the
 Yorubas, their gods being the sun-god, moon-god,
 earth-god, god of iron and arms, small-pox-god, god
 of hills, god of streams, forest-god, god of limits,
 god of fountains, god of rain, god of hunting, god
-of births, village-god, and tank-god. t Similar resem-
-blances are forthcoming from almost every part of
+of births, village-god, and tank-god. t Similar resemblances are forthcoming from almost every part of
 
 • On " Dancing," c. 15.
 
@@ -12532,17 +11790,14 @@ the same wants and necessities.
 From a comparison of the systems of consanguinity
 of these lingual groups we are able to trace the order
 of evolution of the family, and the results go to show
-that Dr. Starcke's* theories of the priority of a sys-
-tem of kinship through fathers are incorrect, and
-that Mr. McLennan was right in his general conclu-
-sions that descent through mothers was first in
+that Dr. Starcke's* theories of the priority of a system of kinship through fathers are incorrect, and
+that Mr. McLennan was right in his general conclusions that descent through mothers was first in
 order.
 
 Among the Tshi tribes of the Gold Coast descent
 is solely and exclusively in the female line. A family
 is a number of persons connected by uterine ties,
-all of whom bear the same clan-name. The clan-
-name is the test of kinship, and a family is a small
+all of whom bear the same clan-name. The clanname is the test of kinship, and a family is a small
 circle of persons whose exact degrees of consanguinitj*^
 to each other are known, within the wider circle of
 more distant relations, that is, the clan at large.
@@ -12571,8 +11826,7 @@ rather than in individuals, and succession to property
 remains in the female line, in the samelprder as
 among the Tshi tribes.
 
-Among the western Ewe tribes the law of blood-
-descent, and of succession to office or property, is the
+Among the western Ewe tribes the law of blooddescent, and of succession to office or property, is the
 same as with the Ga tribes ; but among the eastern
 Ewe tribes, in Dahomi, blood-descent is on both sides
 of the house, and succession in the male line. This
@@ -12594,8 +11848,7 @@ are his sons, among whom the property is equally
 divided. If a man have no sons, his brothers inherit.
 The old ideas concerning blood-descent still, however,
 exercise some influence, and children by the same
-father, but different mothers, are not generally con-
-sjdered proper blood-relations. Thus, going from
+father, but different mothers, are not generally consjdered proper blood-relations. Thus, going from
 the Tshi tribes to the Yoruba, from the least cultured
 
 
@@ -12625,8 +11878,7 @@ system of blood-descent through mothers. Either no
 notion of blood-descent at all had been formed, or, if
 formed, the group-tie, the tie of association and
 comradeship, was considered of more moment than
-the blood-tie. The sole remaining trace of this con-
-dition to be found among the three lingual groups
+the blood-tie. The sole remaining trace of this condition to be found among the three lingual groups
 under consideration lies in the right which a creditor,
 whose debtor belongs to another community, has to
 seize the property of a third party, belonging to the
@@ -12662,14 +11914,12 @@ Where the contending parties cannot come to
 mutual agreement as to the reparation, the injured
 party brings the case before the state, that is, the
 chief, who, until thus called upon to arbitrate, has
-no power to act. There is no fixed scale of punish-
-ments or awards ; the injured family assesses its
+no power to act. There is no fixed scale of punishments or awards ; the injured family assesses its
 damages, and, if the injuring family does not accept
 the terms or effect a compromise, the dispute is
 referred to the chief for settlement. Murder is not
 necessarily punished with death, for the family of
-the deceased may, if they think fit, accept a money-
-componsation in lieu for the loss of the services of the
+the deceased may, if they think fit, accept a moneycomponsation in lieu for the loss of the services of the
 deceased. If the family be poor, and that of the
 murderer rich, they usually deem it better to exact
 payment than to enjoy the luxury of revenge, which
@@ -12697,8 +11947,7 @@ done is always deliberated upon from the point of
 view of loss to the family. If a man be deliberately
 murdered, or killed by accident, there is equally a
 loss of an individual to the family, and they can in
-either case take a life in exchange, or accept com-
-pensation. We saw the reflex of this condition in
+either case take a life in exchange, or accept compensation. We saw the reflex of this condition in
 their religious views, the gods being likewise believed
 not to take motive into consideration.
 
@@ -12706,13 +11955,10 @@ Among the Yorubas, in consequence of the change
 in the system of blood-descents, the family has lost
 cohesion. It is no longer the powerful organisation it
 was when it rested upon the basis of the clan ; for,
-instead of being a large group of kindred, it has be-
-come a congeries of households, each with two lines
+instead of being a large group of kindred, it has become a congeries of households, each with two lines
 of descent, and as the family has weakened, the state
 has gradually usurped its privileges. The state here
 
-
-302 THE YORUBA'SPEAKING PEOPLES,
 
 takes cognisance of serious crimes, and only minor
 injuries to the person or property are left to the
@@ -12726,22 +11972,18 @@ flogging or fine, a seconC3BHr mutilation, and a third by
 death. The family, bemg no longer collectively
 responsible for the act^onS^ of its several members, is
 not allowed to deal withme guilty member as it thinks
-fit. The state metes out justice ; every man is respon-
-sible for his own conduct, and punishment falls upon
+fit. The state metes out justice ; every man is responsible for his own conduct, and punishment falls upon
 the guilty individual instead of upon the group of
 kindred.
 
-We are also able to trace to some extent the evolu-
-tion of ideas concerning property. In those groups of
+We are also able to trace to some extent the evolution of ideas concerning property. In those groups of
 tribes which trace descent through mothers only,
-property is vested in families rather than in indi-
-viduals. There is, of course, individual property, but
+property is vested in families rather than in individuals. There is, of course, individual property, but
 it usually is limited to minor articles, such as utensils,
 weapons, &c. Houses, the family gold ornaments,
 insignia, stools, and properties that have been handed
 down from bygone generations, are vested in the head
-of the family, and cannot be alienated without the con-
-sent of the family as a whole. At the demise of the
+of the family, and cannot be alienated without the consent of the family as a whole. At the demise of the
 head of the family the next of kin who succeeds has
 the usufruct of the family property in his turn, and is
 responsible for its safe custody. Among the Yorubas,
@@ -12756,8 +11998,7 @@ are the sons, or, in default of sons, brothers. As here,
 equally with the tribes who trace descent solely in the
 female line, the order of succession is unalterable ;
 property in all cases remains in the family, the only
-difference being that among the Yorubas it is dis-
-tributed with each succeeding generation, instead of
+difference being that among the Yorubas it is distributed with each succeeding generation, instead of
 being kept together ; but the tendency of the Yoruba
 custom undoubtedly is to destroy the notion that
 property belongs to the group of kindred, and to make
@@ -12765,12 +12006,10 @@ it individual.
 
 In the case of all the tribes land is held in common,
 and there is no individual property in land, though
-the notion that land can be the property of the indi-
-vidual, instead of the community, has, as has been said,
+the notion that land can be the property of the individual, instead of the community, has, as has been said,
 begun to appear among the Yorubas. Probably, in
 early times, moveable as well as immoveable property
-was once common. It still is, to a large extent, com-
-mon to the family, and, at an earlier stage, when the
+was once common. It still is, to a large extent, common to the family, and, at an earlier stage, when the
 group was homogeneous, it was no doubt common to
 the group or community ; for the custom which allows
 a creditor to seize the property of a third party
@@ -12786,23 +12025,14 @@ clan. Then, when the clan became divided into
 uterine families, property became common to the
 
 
-304 THE YORUBA'SPEAKING PEOPLES.
-
 uterine family, as it still is on the Gold Coast ; and,
 when the uterine families came to an end, owing to
 the recognition of the blood-tie between father and
 child, property became vested in households, as it is
 with the Yorubas. In other words, as the units of
-which society was originally composed became sub-
-divided into smaller and smaller groups, so did
+which society was originally composed became subdivided into smaller and smaller groups, so did
 property become vested in a gradually decreasing
 number of persons, until it finally became individual.
-
-
-APPENDIX.
-
-
-805
 
 
 ■>
@@ -12863,9 +12093,6 @@ speak.
 •>H
 
 
-55
-
-
 •
 
 
@@ -12898,9 +12125,6 @@ C^ '•l*^
 •
 
 
-100
-
-
 i
 
 
@@ -12919,9 +12143,6 @@ i
 0^
 
 
-5
-
-
 ft^ e>5 E^
 
 
@@ -12932,8 +12153,6 @@ PQ
 
 CES
 
-
-2
 
 es
 
@@ -12962,14 +12181,11 @@ C3
 C
 
 
-00
-
 C
 
 
 fiequently only
-by a combina-
-the consonants
+by a combinathe consonants
 
 
 s ^
@@ -12978,8 +12194,6 @@ s ^
 hesc primitiye
 erbs, which we
 
-
-5
 
 C8
 C
@@ -13027,14 +12241,7 @@ p
 2 ^*^
 
 
-00
-
-
 cq
-
-
-1
-1
 
 
 •
@@ -13112,9 +12319,6 @@ H
 Ji!
 
 
-11
-
-
 Pi
 
 
@@ -13154,9 +12358,6 @@ i^'
 - if
 
 
-11
-
-
 1 -2
 
 
@@ -13189,9 +12390,6 @@ lii
 
 
 it
-
-
-11
 
 
 .
@@ -13262,17 +12460,11 @@ III
 h
 
 
-1
-
-
 ^
 g
 
 
 ■i
-1
-
-1
 
 
 M^ -2
@@ -13299,9 +12491,6 @@ l^
 l^-i ?i
 
 
-1
-
-
 l-l
 
 
@@ -13320,12 +12509,6 @@ W
 >■ -a
 
 
-1
-
-
-1
-
-
 ■a"
 
 
@@ -13339,12 +12522,6 @@ W
 
 
 * 1
-
-
-APPENDIX,
-
-
-307
 
 
 fe ^ fi
@@ -13467,13 +12644,7 @@ s.^ §
 to p 'o
 
 
-9
-
-
 »4
-
-
-2
 
 
 -2
@@ -13484,9 +12655,6 @@ s
 
 
 .5^ p
-
-
-1
 
 
 o
@@ -13501,13 +12669,7 @@ fc4
 Si
 
 
-1
-
-
 -i
-
-
-2
 
 
 p
@@ -13520,7 +12682,6 @@ o
 
 
 P
-08
 
 
 •*>
@@ -13606,21 +12767,13 @@ o
 p
 
 
-808
-
-
 THE YOBUBA'SPEAKING PEOPLES,
 
 
 a .«
 
 
-03
-
-
 ^ s
-
-CO ^
 
 
 'o a .
@@ -13646,8 +12799,6 @@ CO ^
 
 •
 
-1
-
 
 ^ a i^
 
@@ -13658,8 +12809,6 @@ S 3 2
 
 -^^-^ 08
 
-
-00
 
 a
 
@@ -13680,13 +12829,10 @@ Su 08 g"
 3 -2 - .S
 
 
-09
-
 e8
 
 •s
 
-00
 
 S3
 
@@ -13730,7 +12876,6 @@ g a s^ «
 -^ © fi CO
 
 -tS 08 P
-03
 
 g ^ o »-
 
@@ -13739,16 +12884,7 @@ a
 o
 
 
-00
-
 o
-
-
-00
-
-03
-
-5
 
 
 CO
@@ -13773,12 +12909,6 @@ M bo
 
 
 € a
-
-
-00
-
-
-3
 
 
 « 5
@@ -13931,7 +13061,6 @@ i r
 a s'E
 
 ® a
-5
 
 P © «
 § ^ 00
@@ -13945,12 +13074,8 @@ P © «
 ^ o eS
 
 
-03
-
 E
 
-
-00
 
 bo ••
 
@@ -13963,12 +13088,6 @@ w ©
 
 
 08 flS
-
-
-APPENDIX.
-
-
-309
 
 
 ►
@@ -13996,16 +13115,10 @@ o
 9*.
 
 
-1
-
-
 ■*»
 
 
 S (^
-
-
-1
 
 
 eS
@@ -14014,13 +13127,7 @@ eS
 "1
 
 
-5
-
-
 -§ s
-
-
-1
 
 
 ^
@@ -14035,9 +13142,6 @@ eS
 
 
 s
-
-
-8
 
 
 s
@@ -14099,8 +13203,6 @@ hH
 
 a
 
-4
-
 
 Mi Ko,
 
@@ -14143,9 +13245,6 @@ H
 m o
 
 
-5
-
-
 I
 
 
@@ -14185,9 +13284,6 @@ o
 *^ o •••
 
 
-09
-
-
 o
 
 W .-H -i
@@ -14198,9 +13294,6 @@ C8 0) K
 
 
 •^■5 S
-
-
-810
 
 
 THE Y0EUBA-8PEAKING PEOPLES,
@@ -14295,7 +13388,6 @@ a> o
 
 OQ
 
-08
 
 •e
 
@@ -14355,9 +13447,6 @@ P c: 00
 >^ S a
 
 
-APPENDIX, 811
-
-
 - lil:^^ « I "^ 5 I
 
 c!»i r^ s ,-« ^ rp«' •— %r
@@ -14375,13 +13464,8 @@ o ^ ® o
 €3
 
 
-3
-
-
 o
 
-
-9
 
 s
 
@@ -14412,12 +13496,6 @@ ti)
 c
 
 
-1
-
-
-9
-
-
 o
 
 
@@ -14437,8 +13515,6 @@ g
 
 g
 
-
-1
 
 1^
 
@@ -14464,11 +13540,6 @@ i 4
 QO
 
 
-1
-
-
-60
-
 P
 
 QQ
@@ -14483,10 +13554,7 @@ g
 E
 
 
-1
-
 GO
-9
 
 a
 
@@ -14494,15 +13562,10 @@ a
 3 Id
 
 
-1
-
-
 •k
 
 o
 
-
-9
 
 S
 
@@ -14517,13 +13580,7 @@ g
 ^ o
 
 
-1
-
-
 o
-
-
-1
 
 
 o
@@ -14549,9 +13606,6 @@ U)
 — rtSoP? S car?- ocT^e'^^B^
 
 2toS2^g-o wS to^ ^ SS'rt-£^®p§
-
-
-812
 
 
 THE TOBUBA^SPEAKINa PEOPLES.
@@ -14589,8 +13643,6 @@ a
 ^ 8 -^ "^ ^ § « '^^ ^
 
 
-00
-
 H
 
 
@@ -14600,7 +13652,6 @@ o
 €3
 
 C
-08
 
 'El
 
@@ -14619,8 +13670,6 @@ X
 o
 
 H
-
-04
 
 
 ^ ©
@@ -14671,11 +13720,7 @@ o ©
 ©
 
 
-60
 • »-•
-
-
-13
 
 
 •
@@ -14683,9 +13728,6 @@ o ©
 •e
 
 ©
-
-
-5
 
 
 §
@@ -14697,18 +13739,12 @@ o ©
 ©
 
 
-15
-
-
 ©
 
 a
 
 
 ©
-
-
-5
 
 
 cr>
@@ -14744,7 +13780,6 @@ eS
 ©
 
 
-00
 ©
 
 
@@ -14789,7 +13824,6 @@ eS
 
 
 *^ 08
-00
 
 
 C3 ja
@@ -14805,12 +13839,6 @@ s © ®
 t ^
 
 « 8
-
-
-APPENDIX.
-
-
-818
 
 
 o ao so
@@ -14830,7 +13858,6 @@ o rA
 
 
 C9 C
-08
 
 s g
 
@@ -14847,7 +13874,6 @@ p a,
 
 o
 
-03
 
 u
 
@@ -14907,9 +13933,6 @@ P ^ I
 S J S>3|
 
 
-09
-
-
 H P
 
 eo © _
@@ -14944,8 +13967,6 @@ I
 
 P
 
-8
-
 
 •^ C W P
 
@@ -14957,9 +13978,6 @@ e
 S
 
 •e
-
-
-08
 
 
 08 ^
@@ -15044,9 +14062,6 @@ P
 p
 
 
-1
-
-
 4^
 
 
@@ -15066,9 +14081,6 @@ o
 
 
 o
-
-
-6
 
 
 ©
@@ -15180,9 +14192,6 @@ o
 p
 
 
-60
-
-
 ©
 
 
@@ -15218,7 +14227,6 @@ if
 
 oo ^^
 
-08
 
 O
 © P
@@ -15228,12 +14236,6 @@ O
 a*:
 
 (8 ©
-
-
-311
-
-
-THE YORUBA'SPEAKING PEOPLES.
 
 
 g^
@@ -15246,9 +14248,6 @@ S ®
 
 
 s.
-
-
-85
 
 
 z
@@ -15355,18 +14354,12 @@ already eaten
 
 •
 
-108
-
 
 ■s
 
 
 •0
 
-
-5
-
-08
 
 e
 a
@@ -15377,16 +14370,12 @@ s
 S
 
 
-08
-
-
 ^^
 
 
 ( eka, I have
 spoken
-to get, re-
-btain)
+to get, rebtain)
 
 
 S
@@ -15414,11 +14403,6 @@ d
 
 .2
 
-
-08
-
-
-5
 
 c
 
@@ -15524,7 +14508,6 @@ o
 
 
 0)
-00
 
 s
 
@@ -15630,12 +14613,6 @@ d
 8 »
 
 
-APPENDIX,
-
-
-815
-
-
 * 2 C C3
 o w
 
@@ -15657,9 +14634,6 @@ c .22 H
 * m ®
 
 » .s
-
-
-00
 
 
 s -^
@@ -15715,8 +14689,6 @@ o _§
 n3
 
 a
-
-08
 
 
 o • o
@@ -15778,9 +14750,6 @@ s,
 
 
 O
-
-
-1
 
 
 ©
@@ -15905,7 +14874,6 @@ Me ^
 
 
 O
-00
 
 
 •S g
@@ -15924,20 +14892,14 @@ S g
 c8 .52
 
 
-00
 H
 
 
 I.
 
 
-816
-
-
 THE YORUBA'SPEAKma PEOPLES.
 
-
-08
 
 E
 
@@ -15983,11 +14945,6 @@ C3
 
 
 I
-
-4
-
-
-08
 
 
 ^ 1^
@@ -16038,8 +14995,6 @@ O 2
 o
 
 
-00
-
 O
 
 
@@ -16064,10 +15019,6 @@ o
 22 ©
 
 
-9
-
-
-3
 S
 
 
@@ -16092,8 +15043,6 @@ s ^
 
 V o
 
-
-08
 
 P4
 
@@ -16123,12 +15072,6 @@ o
 
 cc
 Pui
-
-
-APPENDIX. 817
-
-
-08
 
 
 .^
@@ -16206,12 +15149,6 @@ ST. J2 !:©^??®>''2jo2*^h
 o
 
 
-318
-
-
-THE YORUBA'SPEAKING PEOPLES.
-
-
 i
 
 
@@ -16229,7 +15166,6 @@ CO
 
 •T3
 
-08
 
 o
 
@@ -16254,9 +15190,6 @@ V
 •2
 
 ce
-
-
-9
 
 
 2 -*<
@@ -16414,12 +15347,6 @@ S ^ 8
 08 c^
 
 
-APPENDIX.
-
-
-219
-
-
 B
 
 o
@@ -16573,7 +15500,6 @@ I'
 s
 
 a
-2
 
 
 s a^ « a
@@ -16634,7 +15560,6 @@ c .2 o
 
 OS
 
-00
 
 OS
 
@@ -16684,12 +15609,6 @@ d .»
 ^ eS
 
 
-820
-
-
-THE YORUBA'SPEAKING PEOPLES,
-
-
 CO
 
 
@@ -16710,9 +15629,6 @@ o g
 ■g « ^
 
 B ** i
-
-
-08
 
 
 •e
@@ -16788,7 +15704,6 @@ O
 
 CO
 
-CO .^
 
 2 «*
 
@@ -16852,8 +15767,6 @@ CO
 .2
 
 
-103
-
 o
 
 
@@ -16880,8 +15793,6 @@ B
 o
 
 
-CO .4^
-
 '— ' — ' CO "p^
 
 *« '©^ S CO ^'
@@ -16898,8 +15809,6 @@ CO
 
 CO
 
-00
-
 
 2 i
 
@@ -16907,8 +15816,6 @@ CO
 
 ^ ► ©
 
-
-00
 
 * 2
 
@@ -17028,9 +15935,6 @@ s
 ArPENDTX,
 
 
-821
-
-
 >
 
 
@@ -17067,8 +15971,6 @@ o
 
 cs
 
-
-5
 
 •>
 
@@ -17142,9 +16044,6 @@ OQ
 O "3 £ "a
 
 
-00
-
-
 0) a>
 
 .IS M
@@ -17154,8 +16053,6 @@ O "3 £ "a
 
 
 n3
-
-08
 
 
 fe ^ -2
@@ -17200,9 +16097,6 @@ S«l55 j««.2
 § ^ -O' -C OS CO
 
 
-60
-
-
 .s
 
 
@@ -17223,9 +16117,6 @@ V- fi *^ -P
 a* o a © ti r-/*
 
 £ > <£ j3 c: M^
-
-
-322
 
 
 THE YOnUBA-SPEAKING PEOPLES.
@@ -17257,14 +16148,6 @@ z
 
 
 o
-
-
-2
-
-
-00
-
-00
 
 
 S S C! «
@@ -17306,8 +16189,6 @@ o s g a fe «
 J: o f^ 5 o c:
 
 
-00
-
 0>
 
 
@@ -17317,12 +16198,7 @@ ft '"^
 15 o ^ ---s o
 
 
-03
-
-
 S
-
-08
 
 
 g 60
@@ -17342,16 +16218,8 @@ OS
 u
 
 
-06
-
-
-09
-
-
 O
 
-
-60
 
 .s
 
@@ -17458,7 +16326,6 @@ O
 »o
 
 CO
-00
 
 c«
 
@@ -17478,7 +16345,6 @@ _2 c
 '■5 2
 
 cs »^
-08
 
 60 fl
 
@@ -17510,12 +16376,6 @@ CO
 S 2
 
 
-APPENDIX.
-
-
-823
-
-
 .£3 .2
 
 
@@ -17535,12 +16395,6 @@ o -»- "is
 
 
 § -
-
-
-1
-
-
-3
 
 
 r3
@@ -17572,20 +16426,11 @@ P
 a
 
 
-40
-00
-
-
-1
-
-
 OS
 
 
 "^ ^ iJ*
 
-
-00
 
 >*•
 
@@ -17626,16 +16471,10 @@ fl
 ?
 
 
-00
-
-
 ^ S ^2
 
 
 s
-
-
-1
 
 
 a S i
@@ -17668,13 +16507,8 @@ III
 
 o
 
-5
-
 
 I
-
-
-1
 
 
 e
@@ -17755,9 +16589,7 @@ s5 i
 
 
 O
-9
 
-08
 ou
 
 
@@ -17765,12 +16597,6 @@ ou
 
 
 y2
-
-
-824
-
-
-THE YORUBA'SPEAKING PEOPLES.
 
 
 I
@@ -17801,8 +16627,6 @@ C .2 52 •* -a
 
 ^ ^ ® •" S^ « 5
 
-
-2
 
 •p4
 
@@ -17851,8 +16675,6 @@ s
 f» c9
 
 
-5
-
 a
 
 
@@ -17879,7 +16701,6 @@ c
 
 » s
 
-08
 
 is
 
@@ -17909,7 +16730,6 @@ o « "^ -
 c
 ^
 
-3
 o
 
 
@@ -17962,8 +16782,6 @@ o
 
 a
 
-8
-
 
 e8
 c« to
@@ -17978,8 +16796,6 @@ P
 
 s
 s
-
-08
 
 
 s
@@ -18036,7 +16852,6 @@ CO Q?
 bo d
 bo ^
 
-CO ^
 
 a ^
 P ^
@@ -18047,8 +16862,6 @@ o n3
 
 ^ S
 
-
-03
 
 P
 
@@ -18135,14 +16948,7 @@ Mi< w v*irf ■*«
 5>-P i
 
 
-00
 OD
-
-
-APPENDIX.
-
-
-325
 
 
 S3 1^
@@ -18151,7 +16957,6 @@ S3 1^
 oo«*5 CO CO 6o^*5L*2 Q>
 
 
-00
 0?
 
 
@@ -18175,9 +16980,6 @@ o
 
 
 o
-
-
-08
 
 
 CO
@@ -18258,8 +17060,6 @@ Q C
 
 
 ©
-
-CO ^
 
 
 CO
@@ -18384,13 +17184,7 @@ t.^ €> _r
 S K 3 g
 
 
-00
-
-
 ©
-
-
-00
 
 
 e "3 «
@@ -18425,9 +17219,6 @@ s
 
 
 •e 5p g
-
-
-8
 
 
 O ,£3 08 .S .;.
@@ -18498,20 +17289,15 @@ d <4-4 <*a
 
 • — r* cfi »T5
 
-CO -^
-
 
 d
 
-00
 
 ©
 
 
 S 00
 
-
-00
 
 ©
 
@@ -18546,7 +17332,6 @@ e5 fl §0
 d c es
 
 
-00
 CO
 
 c8
@@ -18661,14 +17446,6 @@ d d
 •S 00
 
 
-326
-
-
-THE YORUBA SPEAKING PEOPLES.
-
-
-2
-
 o
 
 >1
@@ -18677,7 +17454,6 @@ o
 p
 
 
-00
 QB ^ ® >>
 
 g -§ si
@@ -18728,8 +17504,6 @@ o 9 ®
 Ah i
 
 
-00
-
 ©
 ©
 
@@ -18740,8 +17514,6 @@ GO
 m
 
 CO
-
-08
 
 
 s
@@ -18764,7 +17536,6 @@ s
 
 o
 
-00
 
 ©
 
@@ -18773,7 +17544,6 @@ o
 
 fl C cc 'S?
 
-3
 S o
 
 
@@ -18803,7 +17573,6 @@ to ©
 
 o ^
 
-03
 
 a
 
@@ -18866,11 +17635,8 @@ O P
 P P
 
 
-00
-
 •is
 
-08
 
 a
 
@@ -18879,9 +17645,6 @@ a
 s
 
 P
-
-
-APPENDIX.
 
 
 y ?= S i«-3 "^ g a ^ 5 s" t -1.3 «,■;;= 1 -o -I -
@@ -18898,9 +17661,6 @@ SI .a * " ■¥ 5 § w -- '« S ^* ^ 's "S i!
 
 
 Al'PENDLW
-
-
-329
 
 
 OD
@@ -18921,9 +17681,6 @@ a
 eo
 
 fl
-
-
-00
 
 
 O
@@ -18955,8 +17712,6 @@ o
 ► 'So S H
 
 
-00
-
 O
 
 
@@ -18964,7 +17719,6 @@ OQ
 
 i
 
-00
 
 . g
 
@@ -19001,8 +17755,7 @@ If .c^
 (a) Ko,bad. This
 is really the verb
 vo, to be afraid,
-used as an ad-
-jective)
+used as an adjective)
 
 
 (b) Obolo^ bare,
@@ -19016,8 +17769,6 @@ meaning '< a
 S 'g g *-
 
 
-1
-
 ©
 
 
@@ -19028,13 +17779,11 @@ to be great)
 
 
 (b) In QS the noun
-mli, inside, inte-
-rior, contracted
+mli, inside, interior, contracted
 to n, is placed
 
 
-Gwmgwan, with-
-ered (from gwan,
+Gwmgwan, withered (from gwan,
 to wither)
 
 
@@ -19060,7 +17809,6 @@ s
 ►
 
 
-08
 ©
 
 s
@@ -19078,9 +17826,6 @@ OS
 
 
 ^ tu
-
-
-06
 
 
 &•§
@@ -19114,9 +17859,6 @@ I
 ©
 
 
-00
-
-
 a
 
 es
@@ -19124,7 +17866,6 @@ es
 
 oo
 
-6
 P
 O
 
@@ -19132,11 +17873,6 @@ SZ5
 
 
 THE YORUBA-SPSAKINO PEOPLES.
-
-
-3
-
-1
 
 
 it!
@@ -19147,33 +17883,25 @@ it!
 ^rli
 
 
-1
-
-
 ■S S 5
 
 
-The adjective al-
-ways follows the
+The adjective always follows the
 word it qualifiee,
 nnd is joined to it,
 so that the noun
 and adjective form
 a compound word,
 to which tUo plural
-termination is suf-
-fixed. Thus :
+termination is suffixed. Thus :
 
 
 after nouns to
-make them ex-
-press n quality.
+make them express n quality.
 Thus Jifo. wick-
 
 
 i
-
-1
 
 
 J
@@ -19181,15 +17909,7 @@ J
 -S
 
 
-1
-
-1
-1
-
-
 s
-
-1
 
 
 j
@@ -19197,7 +17917,6 @@ j
 I
 
 
-1
 f
 
 i
@@ -19205,26 +17924,18 @@ i
 
 i
 
-1
 
-
-The adjective al-
-ways follows the
+The adjective always follows the
 word it qualifies.
 
 Adjectives take
-the Tocent-plural-
-form I, except di-
+the Tocent-pluralform I, except di-
 minutives, which
 take the diminutive
 plural bii
 
 
-4
-
-
-The adjective al-
-ways follows the
+The adjective always follows the
 word it qualifies.
 
 Adjectives take no
@@ -19236,12 +17947,6 @@ h
 ii
 
 <
-
-
-1
-
-
-APPENDIX. 331
 
 
 ►SIS ||'««a?"-§--«l^<§<§'3>
@@ -19312,15 +18017,12 @@ H
 
 GO
 
-08
 
 a
 
 OS
 
 c
-
-08
 
 
 X
@@ -19330,9 +18032,6 @@ H
 
 l-e ^. o o <s fi I
 |llJ5o^<§
-
-
-1
 
 
 •a ^ •'^ A oS C3 ^
@@ -19509,9 +18208,6 @@ QO P ^
 to
 
 
-1
-
-
 •
 
 
@@ -19530,12 +18226,8 @@ is
 
 
 •-
-00
 
 c
-
-
-5
 
 
 a
@@ -19546,17 +18238,12 @@ o
 
 o
 
-00
-
 
 -§
 
 
 P
 O
-
-
-3
 
 
 ■M
@@ -19594,12 +18281,8 @@ X>
 P
 
 
-00
-
 O
 
-
-00
 
 •e
 
@@ -19609,8 +18292,6 @@ rP
 
 c
 
-
-00
 
 O
 
@@ -19637,18 +18318,10 @@ p
 eS
 
 
-5
-
 c
 
 
 cs w P ■«» .«i» Si
-
-
-APPENDIX.
-
-
-838
 
 
 * o
@@ -19677,11 +18350,7 @@ f>- ft©
 a
 
 
-00
-
 s
-
-8
 
 
 O
@@ -19716,9 +18385,6 @@ f<l
 
 
 ^ i< ^
-
-
-00
 
 
 a g &
@@ -19763,7 +18429,6 @@ I I
 ^^
 
 
-08
 ^ -P ®
 
 
@@ -19785,13 +18450,9 @@ CO ^ CB
 ^ p p p
 
 
-00
-
-
 a
 
 
-9
 O
 
 
@@ -19824,13 +18485,7 @@ a IE
 H a d^^ So "is o
 
 
-384
-
-
 THE Y0BUBA-8PEAKINQ PEOPLES,
-
-
-1
 
 
 eS o
@@ -19871,7 +18526,6 @@ OS
 
 o
 
-1
 
 a
 
@@ -19890,16 +18544,10 @@ rtj 'J '^
 «, «> »
 
 
-1
-
-
 •
 
 
 -.6 "
-
-
-1
 
 
 •
@@ -19922,9 +18570,6 @@ p
 ■J
 
 
-00
-
-
 ©
 
 a
@@ -19935,9 +18580,6 @@ P
 S
 
 a
-
-
-108
 
 
 /-^ 6 ca
@@ -19961,13 +18603,7 @@ o
 i^ 8 ^
 
 
-8
-
-
 ©
-
-
-08
 
 
 U
@@ -19979,17 +18615,10 @@ v*^ O
 «s
 
 
-5
-
-
 Vw/
 
 
 ©
-
-
-9
-08
 
 
 e
@@ -20021,9 +18650,6 @@ O
 ©
 
 
-5
-
-
 •
 
 
@@ -20035,10 +18661,6 @@ o
 
 O
 
-1
-
-
-08
 
 P
 
@@ -20062,13 +18684,7 @@ eS
 «£: JD
 
 
-1
-
-
 i||i
-
-
-2
 
 
 e3
@@ -20101,8 +18717,6 @@ s^
 n3
 
 
-00
-
 -a
 
 
@@ -20122,18 +18736,11 @@ oe
 
 a?
 
-1
-
 
 OQ
 
 -s
 s,
-
-
-1
-
-1
 
 
 • •
@@ -20160,7 +18767,6 @@ o
 CO
 
 
-00
 l-H
 
 
@@ -20169,8 +18775,6 @@ l-H
 
 
 o
-
-5
 
 
 §
@@ -20194,19 +18798,11 @@ e8
 
 a
 
-8
-
 
 il
 
 
 CO
-
-
-APPENDIX,
-
-
-885
 
 
 s §•".
@@ -20247,11 +18843,6 @@ o
 
 
 8S
-
-
-09
-
-08
 
 
 eS
@@ -20336,9 +18927,6 @@ s
 a s
 
 
-1
-
-
 ^ n ^
 
 ^ ^ ,5 '^
@@ -20351,9 +18939,6 @@ J? 23 <^ ^ fi
 
 
 ^ •
-
-
-00
 
 
 !^
@@ -20372,9 +18957,6 @@ CO
 
 
 a
-
-
-08
 
 
 o o
@@ -20397,8 +18979,6 @@ i»
 
 I
 
-00
-
 
 5^
 
@@ -20406,11 +18986,6 @@ s'ajr^
 
 * o to
 S .2
-
-
-00
-
-3
 
 
 o
@@ -20426,28 +19001,16 @@ o
 o
 
 
-00
-
-
 O
 
 
-00
-
-
 S O
-
-
-60
 
 
 o
 
 
 -s
-
-
-00
 
 
 ,A J '
@@ -20475,9 +19038,6 @@ P ^
 ^ 00
 
 
-9
-
-
 8 ^"^ if '^ t- ^
 
 
@@ -20491,20 +19051,12 @@ P ^
 a
 
 
-00
-
-
 en
 
 4>
 
 
-60
-
-
 a*
-
-08
 
 
 P
@@ -20528,8 +19080,6 @@ s
 II
 
 
-00
-
 ■e
 
 
@@ -20550,8 +19100,6 @@ a JS
 
 H 00
 
-
-00
 
 c
 
@@ -20582,11 +19130,6 @@ T 2
 
 83ri
 
-
-THE YORUBA'SPEAKING PEOPLES.
-
-
-08
 
 e
 
@@ -20620,8 +19163,6 @@ bq I O I te; I ^ a
 T3 .q 2
 
 
-108
-
 o
 
 
@@ -20645,8 +19186,6 @@ M
 
 pi)
 
-
-60
 
 P
 
@@ -20730,8 +19269,6 @@ P
 O
 
 
-00
-
 ©
 
 © s
@@ -20745,8 +19282,6 @@ i ^
 *©
 
 ee
-
-5
 
 
 © ©
@@ -20769,9 +19304,6 @@ CO
 
 ©
 
-
-00
-00
 
 ©
 
@@ -20799,7 +19331,6 @@ is P •^
 S fi 2 'o S ®
 
 
-1
 ©
 
 
@@ -20833,8 +19364,6 @@ P
 OD
 
 
-00
-
 ©
 
 
@@ -20845,18 +19374,12 @@ P
 •
 
 
-08
-
-
 ^
 
 tT
 
 
 o
-
-
-08
 
 
 prone
@@ -20871,22 +19394,12 @@ o
 
 a
 
-00
-
 
 s
 
 
-3
-
-
-08
-
-
 ©
 
-
-13
 
 ©
 
@@ -20922,9 +19435,6 @@ p
 
 ^
 ^
-
-
-08
 
 
 ©
@@ -20999,12 +19509,6 @@ pp
 ^
 
 
-APPENDIX.
-
-
-337
-
-
 -**
 
 
@@ -21017,13 +19521,7 @@ a
 Q)
 
 
-3
-
-
 P4
-
-
-00
 
 
 M
@@ -21039,9 +19537,6 @@ V
 
 
 s
-
-
-51
 
 
 . •»
@@ -21076,11 +19571,7 @@ S ^ 2 O <y
 p
 
 
-00
-
 •e
-
-06
 
 
 o
@@ -21107,8 +19598,7 @@ Z>e»»i, boy : devila,
 the boy
 
 A>, one, is used to
-express the inde-
-finite aiticle
+express the indefinite aiticle
 
 
 Ga^ to repeat, is
@@ -21166,8 +19656,6 @@ r a> ► -5 g 5
 
 s
 
-1
-
 
 0^
 
@@ -21177,8 +19665,6 @@ o *-• o ^
 
 »
 
-
-00
 
 H
 
@@ -21208,9 +19694,6 @@ adjectiv
 these, u
 
 
-338
-
-
 THE YOBUBA-SPEAKING PEOPLES,
 
 
@@ -21234,9 +19717,6 @@ used to express
 Bi (to ask) is
 used to express
 " if, whether."
-
-
-6
 
 
 Tso (to come
@@ -21274,19 +19754,15 @@ H
 Mu (interior) is
 used to express
 " in," and Ji (to
-come from) to ex-
-press " from "
+come from) to express " from "
 
 
 iV^5o (a taking hold
-of) is used to ex-
-press " also "
+of) is used to express " also "
 
 
 Explanatory Remarks.
 
-
-1
 
 TO
 
@@ -21315,21 +19791,12 @@ or pronouns, or compounds
 of these. As
 
 
-APPENDIX.
-
-
-339
-
-
 o ss . -•
 
 •5 ^ ::l 5 :r:
 
 
 e
-
-
-2
 
 
 I
@@ -21371,9 +19838,6 @@ O
 
 
 o
-
-
-9
 
 
 Ok w £2 <D Q> r^ ®
@@ -21478,9 +19942,6 @@ c» QQ W ^ H W H
 to P4
 
 
-3
-
-
 2 5
 
 PQ ^
@@ -21519,9 +19980,6 @@ OQ
 Cl -d
 
 
-4
-
-
 -s
 
 
@@ -21540,9 +19998,6 @@ V
 d
 
 i
-
-
-08
 
 
 " w ^
@@ -21581,16 +20036,10 @@ fi-a g
 5£
 
 
-340
-
-
 THE YORUBA'SPEAKma PEOPLES.
 
 
 S
-
-
-9
 
 
 G
@@ -21653,8 +20102,6 @@ oo
 
 e
 
-08
-
 
 GO
 CO
@@ -21706,9 +20153,6 @@ i
 60 g
 
 
-3
-
-
 Si
 
 
@@ -21732,11 +20176,6 @@ d
 
 
 ^ «
-
-
-00
-
-08
 
 
 Q>
@@ -21765,14 +20204,11 @@ o o
 
 H
 
-00
 
 >•
 
 
 5 I
-
-00
 
 
 i-?
@@ -21792,12 +20228,6 @@ o
 9J
 
 G
-
-
-APPENDIX.
-
-
-841
 
 
 %
@@ -21822,10 +20252,6 @@ o »
 I 2
 
 
-3
-
-
-9
 o
 
 
@@ -21924,19 +20350,15 @@ P -S O OD
 tn
 
 P
-9
 
 
 O
 
-08
 
 •3
-9
 
 CO
 
-9
 O
 
 
@@ -21967,8 +20389,7 @@ joined to the lower
 
 Ala/a -dfta gbU
 bla'i.e vo ato, one
-hundred and forty-
-five
+hundred and fortyfive
 
 
 s
@@ -21982,8 +20403,7 @@ as
 Nyortmai-edfe ie
 emm, forty-five
 
-(Literally " tens-
-four and five ")
+(Literally " tensfour and five ")
 
 
 H
@@ -21992,22 +20412,16 @@ H
 Adu-anan-anum,
 forty-five
 
-(Literally "tens-
-four-five ")
+(Literally "tensfour-five ")
 
 
-1
-
-
-All other numerals are ex-
-pressed by a combination of
+All other numerals are expressed by a combination of
 the higher with the lower.
 
 
 Note. The chief differences
 between TBhi,Gn, and E*e are
-that the Tshi language re-
-quires fhe unita to take the
+that the Tshi language requires fhe unita to take the
 plural form, while Ga does
 not. In EiVe no numerals
 take a plural, the plural
@@ -22018,9 +20432,6 @@ numbers Tshi has no con-
 
 
 AFFENDIX.
-
-
-343
 
 
 o ::
@@ -22153,7 +20564,6 @@ O
 CS
 
 
-08
 &4
 
 
@@ -22172,9 +20582,6 @@ e
 U
 
 
-1
-
-
 s
 
 
@@ -22187,8 +20594,6 @@ O
 
 H
 >;
-
-5
 
 
 -11
@@ -22266,9 +20671,6 @@ kl
 ©
 
 
-00
-
-
 to
 
 
@@ -22303,9 +20705,6 @@ H
 
 
 G
-
-
-844
 
 
 THE YOBUBA-SPEAKING'PEOPLES,
@@ -22396,9 +20795,6 @@ s
 C3
 
 
-00
-
-
 •k
 
 »
@@ -22449,12 +20845,7 @@ ee
 -^
 
 
-5
-
-
 o
-
-2
 
 
 *~^ CS »^
@@ -22533,12 +20924,6 @@ o ©
 (A
 
 
-60
-
-
-00
-
-
 mm
 
 o
@@ -22596,15 +20981,10 @@ o
 >>
 
 
-13
-
 • MM
 
 
 a
-
-
-00
 
 
 s
@@ -22684,8 +21064,6 @@ a
 C5
 
 
-00
-
 be fl
 l« o
 
@@ -22710,12 +21088,6 @@ a
 
 
 X o
-
-
-APPENDIX,
-
-
-345
 
 
 c 2
@@ -22752,14 +21124,9 @@ OS 2 "S
 08 '^
 
 
-08
-
-
 ^ 0)
 
 P >
-
-08
 
 
 P O
@@ -22831,8 +21198,6 @@ OS
 P
 OS
 
-08
-
 
 cS
 
@@ -22840,17 +21205,12 @@ cS
 0)
 
 
-09
-
 bo
 
-08
-9
 
 bo
 
 p
-08
 
 
 bo
@@ -22859,18 +21219,14 @@ P
 
 • art
 
-08
-
 
 S
 
 u
 
-00
 
 p
 
-08
 P
 O
 
@@ -22900,9 +21256,6 @@ a g!
 5 •?
 
 
-9
-
-
 ^^
 
 
@@ -22914,8 +21267,6 @@ g
 
 ^
 
-
-00
 
 <5
 
@@ -22932,16 +21283,10 @@ T3
 0)
 
 
-00
-
-
 Of)
 
 
 0)
-
-
-9
 
 
 l^
@@ -22954,9 +21299,6 @@ l^
 
 
 «A
-
-
-00
 
 
 s
@@ -22975,9 +21317,6 @@ OS
 
 
 S3
-
-
-00
 
 
 gi
@@ -23022,9 +21361,6 @@ o
 ^m
 
 
-08
-
-
 C8
 
 
@@ -23042,9 +21378,6 @@ bo
 OB
 
 
-00
-
-
 o
 
 
@@ -23059,26 +21392,17 @@ o
 
 o
 
-00
 
 p
 
-9
 O
 
 P
 
 «*»
 
-00
 
 O
-
-
-00
-
-
-346
 
 
 THE YOHUBA-SPEAKIKG PEOPLES.
@@ -23108,24 +21432,13 @@ O
 i
 
 
-2
-
 n3
-
-
-03
-
-
-3
 
 
 o
 
 
 •
-
-
-7
 
 
 •2
@@ -23230,8 +21543,6 @@ OO
 
 •
 
-3
-
 
 o
 
@@ -23258,11 +21569,6 @@ p4
 p
 p
 
-2
-
-
-5
-
 
 S
 
@@ -23276,30 +21582,15 @@ S
 2 2
 
 
-3
-
-
-2
-
-
 o
 
 
-5
-
-
 o
-
-
-2
 
 
 (a
 
 o
-
-
-2
 
 
 OO
@@ -23373,13 +21664,6 @@ fs:;
 c
 o
 
-2
-
-
-08
-
-
-1
 
 4)
 
@@ -23407,7 +21691,6 @@ fco
 
 c
 
-00
 C4
 
 
@@ -23430,15 +21713,8 @@ o
 
 to
 
-2
-
 
 p
-
-
-03
-
-5
 
 
 c
@@ -23452,8 +21728,6 @@ OQ
 
 o
 o
-
-5
 
 
 ©
@@ -23483,8 +21757,6 @@ o
 ©-^
 ©
 
-2
-
 
 o
 n3
@@ -23513,8 +21785,6 @@ M
 
 
 •»
-
-3
 
 
 o'
@@ -23553,11 +21823,8 @@ Q
 C)
 
 
-1
 ©
 
-
-1
 
 g
 
@@ -23588,9 +21855,6 @@ o
 n3
 
 
-3
-
-
 o
 
 p
@@ -23599,7 +21863,6 @@ o
 
 a
 
-2
 to
 
 
@@ -23626,13 +21889,7 @@ p
 Ut
 
 
-108
-
-
 Xi
-
-
-1
 
 
 o
@@ -23710,9 +21967,6 @@ eS
 a
 
 
-60
-
-
 o
 ©
 
@@ -23742,16 +21996,10 @@ oo
 ^^
 
 
-8
-
-
 ^
 
 
 ©
-
-
-03
 
 
 *«
@@ -23785,9 +22033,6 @@ o
 s
 
 
-5
-
-
 CO
 
 
@@ -23814,9 +22059,6 @@ o
 
 
 o
-
-
-1
 
 
 o
@@ -23977,8 +22219,6 @@ C3
 ©
 
 
-2
-
 O
 
 
@@ -24030,9 +22270,6 @@ o
 
 
 i
-
-
-2
 
 
 «S.
@@ -24212,8 +22449,6 @@ O
 
 •
 
-1
-
 
 •
 
@@ -24246,8 +22481,6 @@ cS
 g
 
 
-1
-
 0)
 
 
@@ -24257,25 +22490,13 @@ e
 •
 
 
-1
-
 'oo
-
-
-3
-
-
-08
 
 
 •
 
 
-08
-
 In
-
-5
 
 
 •
@@ -24295,8 +22516,6 @@ Pi
 
 
 Pi
-
-08
 
 
 O
@@ -24335,9 +22554,6 @@ CO
 5 g
 
 
-2
-
-
 O
 
 
@@ -24355,16 +22571,10 @@ P<
 i
 
 
-3
-
-
 3 .ti
 
 
 a
-
-
-3
 
 
 »>
@@ -24439,8 +22649,6 @@ o
 
 a
 
-1
-
 
 «
 
@@ -24449,8 +22657,6 @@ s
 
 JO
 
-
-1
 
 'Pi
 
@@ -24473,14 +22679,12 @@ O IC Q
 
 
 s
-5
 
 
 O
 
 s
 
-8
 2 S
 
 
@@ -24491,24 +22695,17 @@ OS
 
 OQ
 
-5
-
 
 es
-
-5
 
 
 •-2
 
-5
-
 
 o
 
 o
 
-08
 
 a
 
@@ -24519,29 +22716,19 @@ cr
 •k
 
 
-1
-
 •*»
 £.'
 
 Pi
-
-5
 
 
 -d
 
 
 O
-60
-
-5
 
 
-1
 en
-
-5
 
 
 *«
@@ -24610,9 +22797,6 @@ Q
 
 
 d
-
-
-3
 
 
 g
@@ -24719,23 +22903,14 @@ O
 
 a
 
-3
 
 OB
-
-5
 
 
 c
 
 
 &
-60
-
-
-8
-
-2
 
 
 o
@@ -24746,8 +22921,6 @@ s
 
 
 o
-
-5
 
 
 g
@@ -24781,8 +22954,6 @@ a
 
 o
 
-3
-
 
 S '3
 
@@ -24799,11 +22970,6 @@ GO
 
 Pi
 
-00
-
-
-2
-
 
 o
 o
@@ -24814,9 +22980,6 @@ o
 
 
 .p
-
-
-5
 
 
 4>
@@ -24830,8 +22993,6 @@ Pi
 
 .p
 ■8
-
-2
 
 
 •c
@@ -24895,9 +23056,6 @@ k
 •>
 
 
-1
-
-
 •»
 
 
@@ -24940,9 +23098,6 @@ P0
 CO
 
 ft
-2
-
-3
 
 
 o
@@ -24957,13 +23112,11 @@ TS
 es
 
 u
-08
 
 cs
 o
 
 
-08
 es
 
 s
@@ -24988,12 +23141,8 @@ o
 
 es
 
-1
-
 
 i
-
-2
 
 
 a
@@ -25001,23 +23150,13 @@ a
 o
 
 
-08
-
-1
-
 o a
 
 
 E
 
-1
 
 oo
-
-5
-
-
-2
 
 
 O
@@ -25033,13 +23172,6 @@ o
 8>
 
 
-2
-3
-
-
-1
-
-
 Pi
 OO
 
@@ -25052,8 +23184,6 @@ o
 
 ^
 ^
-
-5
 
 
 1-
@@ -25122,9 +23252,6 @@ fe!
 c4
 
 
-00
-
-
 •
 
 
@@ -25140,8 +23267,6 @@ CO
 
 
 •
-
-00
 
 
 •
@@ -25163,9 +23288,6 @@ CI
 
 
 CO
-
-
-348
 
 
 THE YORUJLi'SPEAh'INa PEOPLES.
@@ -25193,9 +23315,6 @@ o
 
 
 &4
-
-
-68
 
 
 'oo
@@ -25228,15 +23347,10 @@ CO
 0)
 
 
-00
-
 es
 
 
 s
-
-
-4
 
 
 •
@@ -25253,8 +23367,6 @@ es
 4)
 
 ►
-
-68
 
 
 "Si
@@ -25273,8 +23385,6 @@ Z3
 
 oo
 
-2
-
 
 IF
 
@@ -25285,12 +23395,6 @@ IF
 •
 
 
-5
-
-
-1
-
-
 >» 5
 
 
@@ -25298,14 +23402,10 @@ IF
 
 ^
 
-2
-
 
 to
 
 a
-
-00
 
 
 O
@@ -25317,7 +23417,6 @@ P
 
 Pu
 
-6
 
 p
 
@@ -25328,34 +23427,13 @@ es
 C
 
 
-2
-
-
-5
-
-
-5
-
-
-5
-
-
 s
 
 
 ^5
 
 
-5
-
-
 o
-
-
-3
-
-
-5
 
 
 s
@@ -25387,12 +23465,6 @@ t?
 ^
 
 
-5
-
-
-5
-
-
 .1^
 
 
@@ -25411,8 +23483,6 @@ i
 cS
 
 
-93
-
 E
 
 O
@@ -25427,8 +23497,6 @@ O
 IS
 
 a
-
-00
 
 
 OS
@@ -25456,10 +23524,6 @@ X
 
 0)
 
-
-04
-
-00
 
 'd
 
@@ -25499,15 +23563,6 @@ s
 s
 
 
-1
-
-
-5
-
-
-5
-
-
 S
 
 
@@ -25516,13 +23571,7 @@ o
 4-*
 
 
-5
-
-
 2|
-
-
-1
 
 
 o
@@ -25536,10 +23585,6 @@ o
 ^
 
 O
-
-
-1
-1
 
 
 =»
@@ -25581,17 +23626,12 @@ c^
 C
 
 
-09
-
 c
 
 
 •>
 
 ^
-
-
-00
 
 
 c
@@ -25646,10 +23686,7 @@ stink, bury
 to grow luxnri
 
 
-08
-
 Cm
-00
 
 
 'flS
@@ -25676,8 +23713,6 @@ p
 
 OQ
 
-5
-
 
 o
 
@@ -25703,8 +23738,6 @@ O o
 OS -M
 
 
-00
-
 © 2
 
 1^
@@ -25716,9 +23749,6 @@ OS -M
 12 ^
 
 00 o
-
-
-4
 
 
 •s
@@ -25745,7 +23775,6 @@ o
 
 
 o
-2
 
 
 If
@@ -25759,8 +23788,6 @@ O
 
 to
 
-5
-
 
 P
 
@@ -25769,31 +23796,20 @@ a
 
 
 p
-2
 
 
 CO
 
-
-5
 
 ^
 
 
 •
 
-1
-
 
 oo
 
 S
-
-
-5
-
-
-8
 
 
 <1>
@@ -25811,8 +23827,6 @@ P
 o
 
 c3
-
-5
 
 
 eS
@@ -25835,32 +23849,21 @@ o
 
 o
 
-5
-
 
 •4.S
-
-5
 
 
 'c3
 
 t
 
-5
-
 
 •4>»
 
-00
 0)
 
 
-5
-
 •k
-
-5
 
 
 p
@@ -25901,9 +23904,6 @@ s
 
 
 " >
-
-
-33
 
 
 ^
@@ -25984,9 +23984,6 @@ C^l
 2M
 
 
-00
-
-
 «
 
 
@@ -25997,12 +23994,6 @@ CO
 
 
 CO
-
-
-APPENDIX.
-
-
-849
 
 
 O 00 . t
@@ -26044,7 +24035,6 @@ O
 
 cn
 
-08
 
 0)
 CO
@@ -26059,13 +24049,10 @@ In
 
 c
 
-2
 
 es
 
 C
-
-9
 
 
 O
@@ -26085,8 +24072,6 @@ a.
 
 
 g
-
-00
 
 
 i
@@ -26110,8 +24095,6 @@ es
 . o
 
 ^ O m
-
-2 CO -^
 
 
 bo
@@ -26140,12 +24123,8 @@ s
 "S
 
 
-00
-
 ••T
 
-
-50
 
 GO
 
@@ -26177,8 +24156,6 @@ ao
 S
 
 • mm
-
-5
 
 
 •a
@@ -26242,15 +24219,12 @@ S
 
 'd
 
-08
 OS
 
 cu
 
 OD
 
-
-3
 
 0)
 
@@ -26262,7 +24236,6 @@ r3
 §
 
 s
-8
 
 5 -s a ^
 
@@ -26274,13 +24247,8 @@ ao CO oC bo 00
 
 O
 
-5
-
 
 V
-
-
-8
 
 
 2 -2
@@ -26323,14 +24291,6 @@ wSl OB O
 kT k^ iT!
 
 
-00
-
-3
-
-
-5
-
-
 o
 
 ►
@@ -26360,13 +24320,7 @@ I 5 s?
 CO o5
 
 
-3
-
-
 .O
-
-
-00
 
 
 ^ a I
@@ -26397,14 +24351,8 @@ V o
 •^^ C '" ®
 
 
-00
-
-
 XOiO^C^lOO^OV
 CQOO'^'^'^'^'^'^'^
-
-
-350
 
 
 THE YOnUBA-STEAKING PEOPLES.
@@ -26414,9 +24362,6 @@ THE YOnUBA-STEAKING PEOPLES.
 
 
 •
-
-
-08
 
 
 E
@@ -26443,9 +24388,6 @@ ee
 -♦a
 
 
-5
-
-
 •
 
 CO
@@ -26455,14 +24397,10 @@ GO
 
 P
 
-2
 
 OS
 
-08
 
-
-5
 .S
 
 o
@@ -26473,8 +24411,6 @@ p
 
 o
 p
-
-00
 
 
 p
@@ -26506,7 +24442,6 @@ S
 
 C3
 
-2
 
 p
 
@@ -26517,37 +24452,23 @@ Yon
 
 
 to
-5
 
-
-1
 
 o
 
 s
 
 
-3
-
-
-3
-
 Li
 
 
 •
-
-08
-
-3
 
 
 o
 
 •4->
 OO
-
-5
 
 
 to be deep
@@ -26563,12 +24484,9 @@ t
 
 1— •
 
-3
-
 
 p
 
-08
 
 s
 
@@ -26580,12 +24498,9 @@ a
 >*•
 
 
-2
 S
 
 Of
-
-5
 
 
 .p
@@ -26598,16 +24513,9 @@ Of
 
 •
 
-1
-
-3
-
 
 p
 p
-
-8
-3
 
 
 ^
@@ -26637,9 +24545,6 @@ p
 •k
 
 
-5
-
-
 'd
 
 
@@ -26650,15 +24555,12 @@ p
 
 
 a
-2
 
 
 c
 
 ^
 
-
-2
 
 -a
 
@@ -26673,10 +24575,6 @@ CO
 
 oo
 
-2
-
-
-2
 
 p
 
@@ -26730,8 +24628,6 @@ o
 
 OS
 
-5
-
 
 a
 
@@ -26740,10 +24636,7 @@ OS
 
 CO
 
-5
 
-
-1
 s
 
 
@@ -26753,7 +24646,6 @@ Pi
 .s
 
 
-09
 Pi
 «
 eo
@@ -26763,15 +24655,11 @@ eo
 
 OCT
 
-08
 
 P4
 
 
 ^
-1
-
-5
 
 
 5)
@@ -26784,27 +24672,16 @@ O
 <4->
 
 
-3
-3
-
-
 p
-5
 
 
 i
-
-5
 
 
 P
 
 ,p
 
-3
-
-
-08
 
 O
 
@@ -26892,16 +24769,8 @@ P
 e8
 
 
-08
-
-
-1
 P
 
-00
-
-
-00
 
 .k
 
@@ -26952,11 +24821,6 @@ c
 
 o
 
-5
-
-
-5
-
 
 o
 
@@ -26970,7 +24834,6 @@ eo
 C
 
 GO
-5
 
 
 •4J
@@ -26982,14 +24845,8 @@ Pi
 o
 
 
-08
-
 c
 
-5
-
-
-00
 
 O
 -♦a
@@ -26997,21 +24854,16 @@ O
 
 o
 
-5
-
 
 •s
 
 S
-2
 
 
 o
 
 S3
 
-68
-00
 
 O
 
@@ -27020,24 +24872,12 @@ O
 
 OS
 
-2
-5
-
 
 to
 
 P
 
 %
-
-00
-
-5
-
-
-1
-
-00
 
 
 , to press, 8que<
@@ -27100,12 +24940,8 @@ P
 
 o
 
-08
-
 
 Pi
-
-2
 
 
 P
@@ -27113,15 +24949,9 @@ P
 t)0
 
 
-3
-
-
 P
 
 o
-
-
-2
 
 
 CO
@@ -27137,8 +24967,6 @@ p
 o
 
 
-5
-
 CO
 
 O
@@ -27149,11 +24977,7 @@ OS
 c
 
 
-08
 4)
-
-
-3
 
 
 •^ -d
@@ -27172,8 +24996,6 @@ G
 o
 
 
-00
-
 p
 
 P4
@@ -27189,8 +25011,6 @@ p.
 
 •»
 
-
-1
 
 *5
 
@@ -27214,8 +25034,6 @@ H
 
 'd
 
-5
-
 
 0)
 
@@ -27224,7 +25042,6 @@ O
 
 
 4)
-00
 
 
 4>
@@ -27237,7 +25054,6 @@ P
 -4^
 *wm
 
-00
 
 o
 
@@ -27245,8 +25061,6 @@ o
 
 
 CO
-
-5
 
 
 ■g
@@ -27257,18 +25071,11 @@ CO
 O
 
 
-5
-
-3
-
-
 Pi
 
 
 P
 .P
-
-5
 
 
 •s a
@@ -27376,9 +25183,6 @@ fx
 ^
 
 
-00
-
-
 •
 
 
@@ -27394,8 +25198,6 @@ o
 
 
 •
-
-00
 
 
 •
@@ -27413,8 +25215,6 @@ CO
 
 
 •
-
-00
 
 
 -«f
@@ -27448,12 +25248,6 @@ o
 
 
 »o
-
-
-APPENDIX.
-
-
-351
 
 
 -♦a
@@ -27495,9 +25289,6 @@ o
 
 
 9*
-
-
-03
 
 
 o
@@ -27550,16 +25341,7 @@ Ih
 bo
 
 
-1
-
-
-5
-
-
 c
-
-
-5
 
 
 .22
@@ -27579,8 +25361,6 @@ I
 o
 
 
-00
-
 to
 
 c
@@ -27591,8 +25371,6 @@ c
 
 CS
 
-
-9
 
 bo
 
@@ -27658,13 +25436,7 @@ bo
 'a.
 
 
-5
-
-
 a
-
-
-2
 
 
 t^
@@ -27674,10 +25446,6 @@ t^
 
 
 a*
-
-08
-
-CO ^ 5
 
 
 4)
@@ -27701,9 +25469,6 @@ o
 *£3
 
 
-08
-
-
 CO
 
 5 h.S
@@ -27721,9 +25486,6 @@ CS
 
 
 0)
-
-
-08
 
 
 Ql*
@@ -27767,11 +25529,6 @@ o
 
 bo
 
-06
-
-
-5
-
 
 ^
 
@@ -27779,7 +25536,6 @@ bo
 ^
 
 
-08
 oo
 
 •5:
@@ -27791,8 +25547,6 @@ oo
 o
 
 
-2
-
 -5
 
 
@@ -27802,17 +25556,10 @@ CO
 g
 
 
-2
-
-
 CS
 
 
 e8
-
-2
-
-4
 
 
 c
@@ -27827,9 +25574,6 @@ c
 es
 
 
-08
-
-
 c
 o
 
@@ -27839,14 +25583,7 @@ o
 o
 
 
-2
-
-
-03
-
-
 a*
-00
 
 
 £ CO o;
@@ -27854,7 +25591,6 @@ a*
 
 2u
 
-93
 
 ^ "I "
 82 fe 2 .S
@@ -27876,7 +25612,6 @@ II
 
 CO «
 
-21
 
 1^
 
@@ -27915,15 +25650,11 @@ S
 ^
 
 
-08
-
-
 -2
 
 
 1^
 
-08
 4>
 
 
@@ -27944,9 +25675,6 @@ s •« a
 •*S2io|
 
 
-55
-
-
 2 «
 
 
@@ -27961,11 +25689,7 @@ O
 bo
 
 
-9
-
-
 C
-08
 
 
 ^ i -
@@ -27975,7 +25699,6 @@ bo
 
 a
 
-CO "*^
 ^ P
 
 
@@ -27992,18 +25715,14 @@ o
 4^
 
 ►
-08
 
 
 O
 
 
-08
-
 M
 
 C
-3
 
 
 ^
@@ -28040,8 +25759,6 @@ bo
 ^ s ® S
 
 
-08
-
 B
 
 
@@ -28057,20 +25774,12 @@ ft^
 CO CO
 
 
-00
-
-
-10
-
-
 CO
 CO
 
 
 CO
 
-
-00
 
 CO
 
@@ -28080,9 +25789,6 @@ CO
 
 o
 I'-
-
-
-352
 
 
 THE YonrnA-sPEAfiixa peoples.
@@ -28106,9 +25812,6 @@ o
 5 g s
 
 
-9
-
-
 £
 
 
@@ -28116,12 +25819,9 @@ o
 
 
 es
-9
 
 
 •
-
-8
 
 
 flS
@@ -28142,13 +25842,7 @@ M
 o
 
 
-9
-
-
 . •»
-
-
-2
 
 
 -^3
@@ -28192,13 +25886,7 @@ e5 '^
 I -2
 
 
-5
-
-
 i
-
-
-5
 
 
 «b
@@ -28235,8 +25923,6 @@ tt
 
 s
 
-08
-
 
 O
 
@@ -28248,8 +25934,6 @@ O
 
 <3
 
-
-00
 
 o
 c
@@ -28266,8 +25950,6 @@ OS
 
 c
 
-
-9
 
 US
 
@@ -28309,9 +25991,6 @@ oo
 
 !|
 
-
-5
-2
 
 0)
 PL.
@@ -28400,8 +26079,6 @@ T ^ *C *(
 ^' ^ ^ ^
 
 
-2
-
 a
 S
 
@@ -28426,7 +26103,6 @@ bo
 
 
 'd
-5
 
 
 ^
@@ -28530,19 +26206,7 @@ CO
 CO
 
 
-00
-
-
 cc
-
-
-00
-
-
-APPENDIX.
-
-
-353
 
 
 es
@@ -28553,9 +26217,6 @@ es
 O
 
 (3
-
-
-08
 
 
 2 « Ou
@@ -28583,9 +26244,6 @@ TS •" .*»
 ►-5
 
 
-9
-
-
 B
 
 '3)
@@ -28595,10 +26253,6 @@ c
 • art
 
 a
-
-5
-
-4
 
 
 to
@@ -28634,9 +26288,6 @@ I
 o
 
 
-08
-
-
 ^ M
 
 
@@ -28653,12 +26304,7 @@ CO cxi
 S .22
 
 
-9
-
 • art
-
-
-5
 
 
 CO
@@ -28666,8 +26312,6 @@ CO
 (3
 
 is
-
-9
 
 
 ^
@@ -28680,8 +26324,6 @@ c
 1^
 
 
-9
-
 CO
 
 
@@ -28690,7 +26332,6 @@ S 2 S
 
 i
 
-9
 OC
 
 
@@ -28716,11 +26357,8 @@ o
 
 a
 
-9
 
 CO
-
-9
 
 
 S, s
@@ -28728,10 +26366,8 @@ S, s
 
 CO
 
-08
 M
 
-9
 
 <s
 
@@ -28768,7 +26404,6 @@ PL.
 CO
 
 
-9
 O
 
 a
@@ -28793,18 +26428,12 @@ a
 O
 
 
-08
-
-
 i
 
 
 o
 S
 t
-
-08
-08
 
 
 9 <^
@@ -28828,15 +26457,6 @@ o
 
 es
 
-
-9
-
-
-9
-
-9
-
-9
 
 PL.
 
@@ -28904,7 +26524,6 @@ I
 
 c
 
-9
 
 Pu
 
@@ -28915,15 +26534,12 @@ a
 
 0)
 
-00
 
 •c
 
 
 CS
 
-
-00
 
 en
 
@@ -28933,16 +26549,9 @@ en
 *i o ••
 
 
-9
-
 o
 
 a
-
-
-00
-
-9
 
 
 O
@@ -28956,19 +26565,14 @@ qj C
 CO
 
 ee
-9
 
 a
 
 
 o
 
-9
-9
-
 
 1^
-9
 
 
 0^ C .P
@@ -29015,8 +26619,6 @@ C8
 
 CO
 
-9
-
 
 OS
 
@@ -29048,25 +26650,9 @@ p
 C4
 
 
-00
-
-
-00
-
-
-00
-
-
 CO
 
 CO
-
-
-00
-
-
-00
-00
 
 
 2a
@@ -29074,22 +26660,12 @@ CO
 
 O
 
-00
-
 
 O -4
 
 
-00
-
-
-854
-
-
 THE YOBUBA'SPEAKINO PEOPLES.
 
-
-08
 
 a
 
@@ -29122,7 +26698,6 @@ O fl a,
 
 CO
 
-3
 
 PL.
 
@@ -29139,7 +26714,6 @@ P 'So
 S 2
 
 
-00
 4>
 
 
@@ -29154,8 +26728,6 @@ c:
 o
 o
 
-6
-
 
 • GO qS ^
 
@@ -29163,9 +26735,6 @@ o $0 2? -*- c
 
 
 g
-
-
-60
 
 
 ft5
@@ -29235,17 +26804,14 @@ es
 
 •4.4
 
-08
 0) jQ
 
 
-08
 4>
 
 
 Or
 
-08
 
 a
 
@@ -29295,8 +26861,6 @@ o
 CO
 
 
-2
-
 Pu
 a;
 
@@ -29344,14 +26908,9 @@ o
 »4
 
 
-08
-
 -2
 
 CO
-
-
-3
 
 
 ^
@@ -29369,9 +26928,6 @@ fi
 4>
 
 
-21
-
-
 ^
 
 
@@ -29379,9 +26935,6 @@ fi
 
 
 «>
-
-
-9
 
 
 ^
@@ -29401,9 +26954,6 @@ CO
 •«
 
 
-9
-
-
 •*»
 
 
@@ -29420,9 +26970,6 @@ a
 
 
 CO
-
-
-5
 
 
 1^
@@ -29464,14 +27011,11 @@ Cb
 £
 
 CO
-08
 
 u
 
 
 o
-
-10
 
 
 5=5
@@ -29498,9 +27042,6 @@ p- pfi
 CO O
 
 O ^
-
-
-00
 
 
 o
@@ -29545,7 +27086,6 @@ to rain, be soft or tender.
 
 1 r
 
-8
 
 2 111
 
@@ -29567,9 +27107,6 @@ s" 4
 i i
 
 
-1
-
-
 J
 
 
@@ -29577,9 +27114,6 @@ J
 
 
 M|
-
-
-1
 
 
 i i
@@ -29628,9 +27162,6 @@ la kt i<
 >; >;
 
 
-856
-
-
 THE YORUBA'SFEAKINQ PEOPLES.
 
 
@@ -29642,8 +27173,6 @@ o
 
 I
 
-
-9
 
 o
 
@@ -29682,7 +27211,6 @@ c?
 
 a
 
-8
 ^1 S5
 
 
@@ -29695,15 +27223,11 @@ C
 ^
 
 
-CO ^
-
-
 o
 
 
 4>
 
-08
 
 a
 
@@ -29738,9 +27262,6 @@ s
 o
 
 
-8
-
-
 a
 
 
@@ -29773,10 +27294,6 @@ s
 _«
 
 
-9
-
-
-9
 CO
 
 O
@@ -29798,7 +27315,6 @@ CO
 
 M
 
-9
 
 Im
 
@@ -29830,18 +27346,12 @@ I
 
 CO
 
-9
-00
-
-00
 
 O
 
 
 .§
 
-
-9
 
 a
 
@@ -29856,20 +27366,12 @@ V
 a
 
 
-9
-9
-
-
-9
-
 U
 
 s
 
 
 o
-
-9
 
 
 o
@@ -29905,16 +27407,8 @@ o
 ,14 •♦^ ,:5
 
 
-00
-00
-
 o
 
-
-9
-
-
-9
 
 a
 
@@ -29927,9 +27421,6 @@ o
 
 
 bo
-
-
-00
 
 
 ^
@@ -29961,18 +27452,9 @@ o
 water,
 
 
-2
-
 OQ
 
-9
 •73
-
-
-2
-
-
-08
 
 
 ^
@@ -29987,23 +27469,11 @@ CS
 ^ o
 
 
-00
-
-
 -N CO
 
 
 CO
 <>4
-
-
-00
-
-
-APPENDIX.
-
-
-357
 
 
 IS
@@ -30012,14 +27482,10 @@ IS
 o
 
 
-00
-
-
 ^
 
 
 o
-3
 
 
 o
@@ -30125,8 +27591,6 @@ e5
 
 &4
 
-00
-
 
 S3
 
@@ -30145,12 +27609,7 @@ s ^
 J4
 
 
-8
-
-
 Si
-
-3
 
 
 a
@@ -30161,8 +27620,6 @@ S
 
 I
 
-
-8
 
 ►
 c
@@ -30211,9 +27668,6 @@ be
 fc-
 
 
-00
-
-
 M
 
 
@@ -30224,12 +27678,6 @@ g
 
 
 a.
-
-
-00
-
-
-5
 
 
 s
@@ -30248,7 +27696,6 @@ O
 S 3
 * 2
 
-111
 
 ?§ I
 
@@ -30260,14 +27707,8 @@ S t--^
 
 a
 
-14
-
 
 .2
-
-
-08
-5
 
 
 u
@@ -30275,11 +27716,6 @@ o
 
 
 C8
-
-00
-
-
-00
 
 
 5 6 5
@@ -30315,25 +27751,17 @@ CO
 00 CO
 
 
-00
-
-
-CO "^
 00 00
 
 
 to
 
-00
-
 
 CO
 
 
 CO
 
-
-00
 
 CO
 
@@ -30344,20 +27772,12 @@ CO
 
 
 o
-
-
-858
-
-
-THE YORUBA-SPEAKING PEOPLES.
 
 
 e
 
 o
 
-
-9
 
 S
 
@@ -30417,9 +27837,6 @@ a-s g
 g s
 
 
-06
-
-
 a
 &
 
@@ -30437,9 +27854,6 @@ e
 o
 
 
-00
-
-
 O
 
 
@@ -30447,8 +27861,6 @@ O
 ^ a
 
 *© «
-
-33
 
 
 »4
@@ -30460,7 +27872,6 @@ g ^
 ©55
 
 
-9
 N
 
 O
@@ -30531,7 +27942,6 @@ r 13
 
 
 ©
-00
 
 •2
 
@@ -30592,20 +28002,15 @@ k k
 1^ !|*
 
 
-8
-
 M
 
 OD
 
 
-3
-
 ©
 
 
 to
-3
 
 
 'S "^ '^
@@ -30636,17 +28041,12 @@ O
 
 a
 
-8
-
-
-08
 
 -5 '5 ♦*
 
 
 ©
 
-1
 
 o ©
 
@@ -30663,30 +28063,15 @@ P ©
 13 8
 
 
-00
-
-
-00
-
-00
-
-
 ©
-
-08
 
 
 ©
 
 a
 
-08
-
 
 ©
-
-
-08
 
 
 ©
@@ -30732,8 +28117,6 @@ c4
 
 
 •
-
-00
 
 
 •
@@ -30810,9 +28193,6 @@ S ^ 9 o ^
 lO kOiO lO lO O O coco CU CO CO o
 
 
-860
-
-
 THE YORUBA'SPEAKINQ PEOPLES.
 
 
@@ -30872,8 +28252,6 @@ Cb Cb
 o
 
 
-00
-
 §5
 
 
@@ -30925,12 +28303,8 @@ S3
 Cb Cb
 
 
-2
-
 C5
 
-
-2
 
 V
 
@@ -30952,7 +28326,6 @@ a
 
 s
 
-3
 
 SI
 
@@ -30970,9 +28343,6 @@ o —
 
 
 ^N
-
-
-00
 
 
 CO <o CO
@@ -30996,9 +28366,6 @@ t^
 M'FENhlX,
 
 
-861
-
-
 a
 
 o
@@ -31019,8 +28386,6 @@ bo
 o
 
 is
-
-00
 
 
 ^* a
@@ -31053,8 +28418,6 @@ ST
 
 
 u
-
-9
 
 
 •S -« .2
@@ -31137,12 +28500,6 @@ CI
 o
 
 
-CO -^
-
-
-860
-
-
 THE YORUBA-SPKAKINQ PEOPLES.
 
 
@@ -31179,8 +28536,6 @@ bo
 t5
 
 
-CO ^
-
 (3 «
 eS ►»
 
@@ -31194,8 +28549,6 @@ eS ►»
 ^•^ o
 -2 o^
 
-
-00
 
 IS.
 
@@ -31217,7 +28570,6 @@ Ob
 
 S3
 
-08
 
 Cb
 
@@ -31293,9 +28645,6 @@ o —
 'N
 
 
-00
-
-
 CO <o CO
 
 
@@ -31313,8 +28662,6 @@ t^
 
 00 a
 
-
-APPENDIX. 361
 
 SL^ Sa,><a.rt^«$5o s2^^ ^©-S .SPSS
 
@@ -31342,12 +28689,6 @@ x> 00 X X
 X X
 
 
-362
-
-
-THE YORUBA-SPEAKING PEOPLES.
-
-
 o
 
 CO
@@ -31360,11 +28701,9 @@ o
 
 a
 
-9
 
 >
 
-9
 
 a
 
@@ -31374,8 +28713,6 @@ c
 oo
 
 u
-
-9
 
 
 o
@@ -31404,7 +28741,6 @@ CO
 O
 
 
-00
 CO
 
 
@@ -31430,8 +28766,6 @@ o
 H
 O
 
-
-00
 
 a
 
@@ -31521,7 +28855,6 @@ O
 
 2 -^
 
-00
 
 a> en
 
@@ -31547,9 +28880,6 @@ S^ 2 _
 « 2 8 -2
 
 
-9
-
-
 5 =^
 
 o o
@@ -31569,18 +28899,12 @@ l| g i ^
 
 a
 
-9
-
 
 B
-
-9
 
 
 £3
 
-
-9
 
 B
 
@@ -31604,7 +28928,6 @@ Q CO
 
 a •*"
 
-CO ^
 
 '« a /^
 
@@ -31639,9 +28962,6 @@ o
 r •* 0«
 
 
-00
-
-
 TS
 
 
@@ -31664,9 +28984,6 @@ P
 
 
 >^
-
-
-9
 
 
 ^
@@ -31708,16 +29025,11 @@ a
 
 
 c8 cs
-9
 
 p
 p
 ^ p
 
-9
-
-
-08
 
 CB * O
 
@@ -31741,9 +29053,6 @@ I f= 2 'P
 '. P ^ cB
 
 
-00
-
-
 O p
 
 
@@ -31756,13 +29065,9 @@ a 8
 
 •c
 
-03
-9
 
 a,
 a.
-
-06
 
 
 9 4s
@@ -31772,12 +29077,6 @@ a.
 • S P
 
 <*^ 00
-
-
-APPENDIX.
-
-
-363
 
 
 *
@@ -31800,9 +29099,6 @@ o g-g ►
 00 F O
 
 
-08
-
-
 o
 
 
@@ -31819,8 +29115,6 @@ O pd "♦*
 
 C o
 
-
-1
 
 g
 
@@ -31841,18 +29135,10 @@ d
 O
 
 
-08
-
 pd
 
 
-1
-
-
 IB
-
-
-60
 
 
 u
@@ -31861,13 +29147,7 @@ u
 -S
 
 
-08
-
-
 C8
-
-
-9
 
 
 •
@@ -31885,8 +29165,6 @@ J3
 
 M
 
-5
-
 
 o
 
@@ -31894,13 +29172,7 @@ o
 ^
 
 
-5
-
-
 es
-
-
-3
 
 
 C3
@@ -31909,15 +29181,9 @@ C3
 * /-s
 
 
-3
-
-
 '•m
 
 ^
-
-
-00
 
 
 J
@@ -31931,13 +29197,7 @@ J
 CS
 
 
-08
-
-
 o.
-
-
-00
 
 
 •*»
@@ -31956,9 +29216,6 @@ blow.
 
 
 'bo
-
-
-1
 
 
 give, len
@@ -31991,17 +29248,10 @@ M
 M
 
 
-1
-
-
 1 2?
 
 
 S
-
-
-1
-1
 
 
 c;
@@ -32022,12 +29272,6 @@ V
 1:
 
 to
-
-
-3
-
-
-1
 
 
 S C
@@ -32082,9 +29326,6 @@ J ^ S! S .9
 ^
 
 
-362
-
-
 THE YORUBA-SPEAKINO PEOPLES.
 
 
@@ -32099,15 +29340,11 @@ O
 bo
 
 
-08
 oo
 
 
 .2
-03
 
-
-00
 
 o
 
@@ -32119,7 +29356,6 @@ c «
 •> • o
 •C o
 
-08
 
 -^ o
 
@@ -32225,9 +29461,6 @@ o
 o
 
 
-03
-
-
 OQ p^
 CO
 
@@ -32272,13 +29505,8 @@ G
 
 a
 
-00
-
 
 o p
-
-
-00
 
 
 P o
@@ -32317,8 +29545,6 @@ r * C«
 CO
 
 o a
-
-CO "^
 
 
 08 08
@@ -32373,12 +29599,6 @@ to • - <^
 03 -*iA 00
 
 
-APPENDIX.
-
-
-363
-
-
 g
 
 e.
@@ -32400,9 +29620,6 @@ Eb
 tt ^ O
 
 
-08
-
-
 &
 
 
@@ -32419,9 +29636,6 @@ J * » «
 •- li P h5> '^ i!3*
 
 s o
-
-
-1
 
 
 •k
@@ -32448,9 +29662,6 @@ g
 Xi
 
 
-1
-
-
 o
 
 
@@ -32459,9 +29670,6 @@ J3
 
 
 *5
-
-
-15
 
 
 to
@@ -32492,16 +29700,10 @@ S
 xi
 
 
-5
-
-
 o
 
 
 «%
-
-
-5
 
 
 OS
@@ -32511,9 +29713,6 @@ s
 
 
 ^ /"^
-
-
-3
 
 
 •1
@@ -32526,18 +29725,9 @@ c2.
 
 ©
 
-00
-
-2
-
-
-1
-
 
 ?
 
-
-41
 
 'w^ ©
 
@@ -32549,9 +29739,6 @@ C8
 
 
 o.
-
-
-00
 
 
 •«J
@@ -32594,10 +29781,6 @@ u
 s
 
 
-1
-1
-
-
 1 •-
 
 i 2?
@@ -32621,12 +29804,6 @@ V
 
 
 i:
-
-
-1
-
-
-1
 
 
 1 ^ :£"
@@ -32699,12 +29876,6 @@ y't &•§ -g ft£ © 9
 :§
 
 
-304
-
-
-THE YORUBA'SPEAKING PEOPLES.
-
-
 OQ
 
 •c
@@ -32725,9 +29896,6 @@ o >» a: . o
 o
 
 
-12
-
-
 CO
 o
 
@@ -32743,10 +29911,7 @@ o
 
 s
 
-03
 
-
-12
 o
 
 a
@@ -32783,15 +29948,9 @@ o
 s
 
 
-9
-
-
 o o
 
 II
-
-
-3
 
 
 I
@@ -32813,12 +29972,8 @@ V
 
 i
 
-08
-
 
 Ol
-
-5
 
 
 2 ^
@@ -32831,7 +29986,6 @@ OS .. .^ ..>* '^
 
 o
 
-09
 V
 
 
@@ -32866,23 +30020,16 @@ o
 
 rid
 
-08
-
 
 n3
 S
 
 s
 
-08
-
 
 I
 
 OS
-
-
-03
 
 
 ;i3 08 C
@@ -32896,7 +30043,6 @@ e 08
 
 -^ So
 
-08
 O
 
 
@@ -32909,9 +30055,6 @@ O
 •^ ^* ■* c
 
 
-03
-
-
 X
 
 o
@@ -32920,18 +30063,14 @@ cc
 
 CO
 
-03
 
 B
 
 b
 
-03
 
 a
 
-
-08
 
 S <=
 
@@ -32981,9 +30120,6 @@ V
 M
 
 
-08
-
-
 U)
 
 
@@ -33009,9 +30145,6 @@ fl
 
 
 h
-
-
-03
 
 
 to
@@ -33092,7 +30225,6 @@ poo
 
 
 p
-00
 
 ©
 
@@ -33115,8 +30247,6 @@ be *
 
 p ®
 
-
-103
 
 O
 
@@ -33157,7 +30287,6 @@ k p
 
 <J> P
 
-8
 
 u ©
 
@@ -33186,12 +30315,6 @@ bo »-
 I!
 
 O ©
-
-
-APPENDIX.
-
-
-365
 
 
 ^ a >a _ d «8
@@ -33235,9 +30358,6 @@ cc
 O O «S
 
 
-1
-
-
 ^
 
 
@@ -33270,26 +30390,13 @@ S Q^
 o ^ ^
 
 
-60
-
 s
-
-
-8
 
 
 O O
 
 
-9
-
-
-60
-
-08
-
 a
-08
 
 
 I
@@ -33302,7 +30409,6 @@ s
 
 =1
 
-08
 
 8» .
 
@@ -33392,7 +30498,6 @@ o
 
 4)
 GO
-00
 
 Prf 00
 
@@ -33434,9 +30539,6 @@ o
 OQ to
 
 ^ S
-
-
-366
 
 
 THE YOIWBA^SPEAKING PEOPLES.
@@ -33486,7 +30588,6 @@ s
 
 eS
 
-1
 
 O
 
@@ -33498,8 +30599,6 @@ i^
 
 .2 «
 
-07
-
 
 IS 00
 
@@ -33509,12 +30608,6 @@ P » '
 s
 
 J8
-
-
-08
-
-
-1
 
 
 5J
@@ -33590,9 +30683,6 @@ t4-l
 »
 
 
-5
-
-
 .0
 
 
@@ -33646,8 +30736,6 @@ Q4
 H
 
 
-13
-
 O u
 eS
 
@@ -33692,8 +30780,6 @@ p © 08
 i
 
 
-08
-
 s
 
 
@@ -33707,8 +30793,6 @@ CQ to
 
 g
 
-
-08
 
 o
 
@@ -33761,8 +30845,6 @@ S £
 2 -^
 
 
-1
-
 e
 
 •k
@@ -33773,15 +30855,11 @@ s
 S
 
 
-4
-
 IB
 to
 
 
 QQ
-
-13
 
 
 2 § i
@@ -33828,14 +30906,7 @@ O "TS
 .5 o
 
 
-APPENDIX
-
-
-367
-
-
 a
-8
 
 
 8 S
@@ -33957,16 +31028,8 @@ Si c
 to c
 
 
-00
-
-
 c8
 
-
-9
-
-
-9
 
 s
 
@@ -33994,8 +31057,6 @@ o
 S
 
 *»
-
-1
 
 
 ^
@@ -34048,13 +31109,7 @@ CD
 .•»
 
 
-00
-
-
 bo
-
-
-06
 
 
 a
@@ -34075,13 +31130,7 @@ o
 s
 
 
-00
-
-
 •S
-
-
-366
 
 
 THE YOIWBA'SPEAKING PEOPLES.
@@ -34097,11 +31146,6 @@ eagre,
 tupid,
 
 
-1
-
-
-3
-
 s
 
 
@@ -34110,7 +31154,6 @@ f
 
 •
 
-1
 
 O
 
@@ -34125,9 +31168,6 @@ fa -*5 *z:
 
 
 s .
-
-
-5
 
 
 a
@@ -34196,9 +31236,6 @@ V
 »
 
 
-5
-
-
 •«
 
 ^
@@ -34213,12 +31250,7 @@ V
 OB ^^ ^^
 
 
-9
-
 B
-
-
-103
 
 
 o
@@ -34275,8 +31307,6 @@ a
 
 c
 
-5
-
 
 'S o
 
@@ -34288,14 +31318,6 @@ c
 
 -4^ o O X
 
-
-1
-
-
-1
-
-
-08
 
 Otl
 
@@ -34347,7 +31369,6 @@ a
 
 o
 
-9
 
 ■♦J
 
@@ -34361,7 +31382,6 @@ O
 •
 
 TS
-9
 
 
 •*-• c8 "rt ^ bo
@@ -34372,11 +31392,7 @@ S |e e '43 « bo
 •k
 
 
-08
-
 a
-
-03
 
 
 P4
@@ -34392,9 +31408,6 @@ o
 
 'o
 o
-
-
-08
 
 
 bo
@@ -34424,20 +31437,11 @@ CO
 
 a
 
-8
-
 
 •
 
-9
 
 'Si
-
-
-APPENDIX
-
-
-867
 
 
 5 I
@@ -34455,8 +31459,6 @@ bo
 
 s ^
 
-
-8
 
 0)
 
@@ -34476,12 +31478,6 @@ i
 ^ to
 
 8II5I
-
-
-CO ^
-
-
-00
 
 
 €8
@@ -34546,15 +31542,6 @@ u
 ■I
 
 
-5
-
-
-8
-
-
-00
-
-
 a
 
 
@@ -34566,23 +31553,11 @@ TS
 S
 
 
-00
-
-06
-
 s
-
-
-00
 
 
 U
 
-
-8
-
-
-60
 
 s =
 
@@ -34614,16 +31589,10 @@ ta
 >^2^K,
 
 
-8
-
-
 <§
 
 
 ^
-
-
-00
 
 
 bo
@@ -34632,17 +31601,7 @@ bo
 *5
 
 
-00
-
-
 €8
-
-
-9
-
-
-9
-13
 
 
 u
@@ -34680,18 +31639,10 @@ M4C CUqccq CO CS.4^
 3G8
 
 
-THE YORUBA-SPEAKING PEOPLES.
-
-
 e
 
 o
 
-
-6
-
-
-108
 
 c
 
@@ -34712,9 +31663,6 @@ X
 5 §
 
 
-3
-
-
 M
 
 d
@@ -34722,7 +31670,6 @@ d
 e8
 
 
-2
 3» ^ ''^
 
 fc ^ "S
@@ -34736,7 +31683,6 @@ _ 53 >■ ^ .-.
 ei Q
 
 
-9
 -<5
 
 
@@ -34755,18 +31701,10 @@ If «
 0)
 
 
-00
-
-3
-
-
 o
 
 
 g
-
-
-00
 
 
 a
@@ -34788,12 +31726,6 @@ p 3 5
 Hd •. »
 
 
-00
-
-
-08
-
-
 ^ ^
 
 
@@ -34808,8 +31740,6 @@ CO
 
 1^
 
-
-00
 
 S 3 «| 2
 
@@ -34827,8 +31757,6 @@ to V ^ o
 
 
 C
-
-00
 
 
 S3
@@ -34895,8 +31823,6 @@ a> o c
 wo O 3 g
 
 
-9
-
 2i
 
 
@@ -34911,12 +31837,7 @@ eo
 ^
 
 
-00
-
-
 V s I a -^
-
-08
 
 
 o
@@ -34975,9 +31896,6 @@ K
 o
 
 
-9
-
-
 o
 
 
@@ -34996,15 +31914,10 @@ o
 a
 
 
-00
-
-
 eS «^
 
 
 en
-
-00
 
 
 '2 •-
@@ -35036,12 +31949,6 @@ C O c
 08 ^ o
 
 a 5 -^
-
-
-APPENDIX.
-
-
-869
 
 
 a c
@@ -35081,12 +31988,10 @@ o
 bo
 
 
-Wu, to strew-
-upon, sow
+Wu, to strewupon, sow
 
 Wuj to become
-more than, to sur-
-pass, excel
+more than, to surpass, excel
 
 
 pa
@@ -35116,8 +32021,7 @@ strengthen
 Ha, to trouble,
 vex, plague
 
-{Hia, to be in dis-
-tress or want, to
+{Hia, to be in distress or want, to
 distress, trouble)
 
 (-EAtt,fear, fright)
@@ -35137,8 +32041,6 @@ bo "
 
 O T3
 
-8
-
 
 oo
 
@@ -35147,8 +32049,6 @@ fl
 O
 
 a
-
-8
 
 
 V &0
@@ -35181,9 +32081,6 @@ A O C3
 I> «* ®
 
 ^ 4? §
-
-
-9
 
 
 O eS 2
@@ -35230,13 +32127,8 @@ o
 2b
 
 
-370
-
-
 THE YORUBA'S PEA KING PEOPLES.
 
-
-08
 
 S
 
@@ -35272,9 +32164,6 @@ s
 o
 
 
-1
-
-
 T3
 
 
@@ -35301,8 +32190,6 @@ R ^ <^ ^
 
 t
 
-
-3
 
 2 2
 
@@ -35374,15 +32261,7 @@ m
 Sm
 
 
-08
-
-00
-
-
 C8
-
-
-1
 
 
 5« 5 -a ;i3 X ^
@@ -35390,11 +32269,6 @@ C8
 
 ^ .S ^ g C tS ^ .5
 
-
-08
-
-
-1
 
 GO
 
@@ -35414,12 +32288,6 @@ p^
 o
 
 
-9
-
-
-04
-
-
 •
 
 
@@ -35436,9 +32304,6 @@ o
 
 
 n3 ^
-
-
-2
 
 
 H
@@ -35471,13 +32336,10 @@ CO
 I
 
 a
-8
 
 o
 
 CO
-
-08
 
 
 -2
@@ -35486,12 +32348,6 @@ CD
 
 
 >
-
-
-APPENDIX.
-
-
-871
 
 
 on
@@ -35503,9 +32359,6 @@ I
 a
 
 oo
-
-
-3
 
 
 m
@@ -35529,8 +32382,6 @@ CO o
 
 0^
 
-
-9
 
 CO
 
@@ -35582,8 +32433,6 @@ o
 .2
 
 
-9
-
 O 04
 
 
@@ -35614,8 +32463,6 @@ Oi
 CO
 
 
-9
-
 s
 
 A4 -'-N
@@ -35632,7 +32479,6 @@ d
 
 
 pd
-00
 
 
 9 **
@@ -35645,10 +32491,6 @@ Sri:?; S.5» -"
 
 
 0)
-
-9
-
-00
 
 
 CO
@@ -35680,9 +32522,6 @@ CO
 9 o
 
 
-9
-
-
 o eS 9
 
 2 ^ -e o.
@@ -35697,23 +32536,15 @@ o eS 9
 
 I
 
-9
-
 
 O
 
 
 a,
 
-9
-
 
 S 9 --" ®
 
-
-00
-
-00
 
 u
 
@@ -35723,10 +32554,7 @@ P4
 o
 
 
-9
 pd
-
-00
 
 
 *- 9
@@ -35737,7 +32565,6 @@ Q « 9
 -a 3
 
 
-9
 c8
 
 
@@ -35753,7 +32580,6 @@ pd
 
 
 S
-5
 
 
 iS - ^ ^- ^ ^
@@ -35764,7 +32590,6 @@ O ©
 •rs
 
 9 >S
-9
 
 o c
 a O
@@ -35819,8 +32644,6 @@ _r? •'^ _s
 
 c3
 
-00
-08
 
 o
 C
@@ -35848,7 +32671,6 @@ O 00
 00 o
 
 © 08
-00
 
 
 T3
@@ -35868,7 +32690,6 @@ O
 
 I
 
-9
 
 a
 
@@ -35896,13 +32717,8 @@ O 00
 9 ^
 9 to
 
-9
-
 
 2b2
-
-
-372
 
 
 THE YORUBA-SPEAKTNG PEOPLES.
@@ -35917,20 +32733,11 @@ o
 o
 
 
-03
-
-
 O
-
-53
-
-
-8
 
 
 oo
 eS
-9
 
 a- a
 
@@ -35963,8 +32770,6 @@ Q)
 o
 
 
-9
-
 M
 
 €8
@@ -35978,12 +32783,9 @@ o
 
 c
 
-08
-
 
 £
 
-08
 oo
 
 
@@ -35996,26 +32798,15 @@ oo
 5 S
 
 
-1
 H
 
 
-1
-
-00
-08
-
-
-9
 O
 
 
 '5
 5f
 
-
-9
-00
 
 'a
 
@@ -36025,13 +32816,8 @@ bo
 
 P4
 
-8
-
 
 s
-
-
-1
 
 
 ^
@@ -36046,9 +32832,6 @@ s
 (13
 
 
-1
-
-
 o
 
 GC
@@ -36056,21 +32839,10 @@ GC
 
 I
 
-9
-
 
 ^ S cj g §)
 
 <5 a ^ '^
-
-
-1
-
-
-1
-
-
-1
 
 
 ^
@@ -36083,9 +32855,6 @@ o
 
 
 CO
-
-
-9
 
 
 d
@@ -36104,7 +32873,6 @@ sa
 
 
 o
-3
 
 
 c8
@@ -36112,11 +32880,6 @@ c8
 CLi
 
 a
-
-8
-
-
-1
 
 
 CO
@@ -36146,13 +32909,7 @@ s
 2.2
 
 
-5
-
-
 (X
-
-
-5
 
 
 s
@@ -36178,8 +32935,6 @@ o
 
 o
 
-00
-
 
 CO
 
@@ -36188,7 +32943,6 @@ CO
 
 
 P
-00
 
 
 ^
@@ -36197,9 +32951,6 @@ P
 
 
 d
-
-9
-9
 
 
 •
@@ -36211,7 +32962,6 @@ S
 
 o
 
-9
 
 CO
 
@@ -36246,18 +32996,12 @@ CO
 
 
 CO
-9
 CO
-00
 
 P4
 
 X
 
-
-00
-00
-9
 
 Ui
 
@@ -36266,16 +33010,11 @@ O
 o
 
 
-1
-
-
 o
 
 bo
 
 d
-
-08
 
 
 f&
@@ -36290,17 +33029,12 @@ f&
 •
 
 
-00
-
-
 d
 .2
 
 d
 o
 
-9
-00
 CO
 V
 
@@ -36332,18 +33066,13 @@ o
 o
 
 
-9
-
 ■S
 
-
-9
 
 pd
 -*^
 
 CO
-9
 
 i
 
@@ -36358,7 +33087,6 @@ T3
 
 d
 
-8
 
 d
 
@@ -36394,7 +33122,6 @@ o
 d
 o
 
-9
 >^
 
 
@@ -36405,7 +33132,6 @@ QO
 
 <
 
-9
 >-•
 
 
@@ -36417,17 +33143,10 @@ a
 
 o
 
-00
 CO
 
 
 •
-
-
-1
-
-
-9
 
 
 a
@@ -36451,42 +33170,24 @@ O
 s
 
 
-APPENDIX.
-
-
-373
-
-
 u
 a>
 
 Cm
 
 
-2
-
-08
-
 Q oo o S
 
 I a ^ I
 
 
-8
-
-
 a
-
-08
 
 
 !^ C8
 
 
 .2
-
-
-2
 
 
 » §
@@ -36506,8 +33207,6 @@ t^ S 2
 B
 
 CD
-
-3
 
 
 ^ ° « «
@@ -36558,7 +33257,6 @@ I
 »^ '5)*
 
 
-03
 Q g
 
 
@@ -36566,9 +33264,6 @@ Q g
 
 
 o
-
-
-00
 
 
 s
@@ -36584,8 +33279,6 @@ s
 
 08 ^
 
-
-08
 
 s
 
@@ -36641,23 +33334,12 @@ THE YORVBA-SPEAKING PEOPLES.
 
 
 i
-1
-
-
-1
 
 
 !
 
 
-5
-
-
-1
-
-
 ill I'Si
-1111
 
 
 s
@@ -36674,12 +33356,6 @@ m
 
 
 ^
-
-
-3
-
-
-1
 
 
 ^ ft. ^ £
@@ -36715,9 +33391,6 @@ oT oT i i
 ^- ¥ G
 
 
-3
-
-
 \ 1 ^- :■
 
 
@@ -36731,9 +33404,6 @@ i'-
 
 
 J3 c. - M
-
-
-3
 
 
 ■! |1 1^
@@ -36751,19 +33421,7 @@ H
 o f
 
 
-1
-
-
-1
-
-
-1
-
 -5
-
-
-1
-1
 
 
 "2
@@ -36782,22 +33440,10 @@ g -, . -S fc- - ,- "
 i
 
 
-1
-
-
 ■s
 
 
 :l
-
-
-1
-
-
-1
-
-
-1
 
 
 "S
@@ -36822,9 +33468,6 @@ f»
 •►
 
 
-APPENDIX. 375
-
-
 s^^^gca^^ bug
 
 
@@ -36846,8 +33489,6 @@ I^ £ 'c b:: ^ .^ -^ «3 '^^ -^ ^r. p^ 5 K? fl -=; 5 »^ ^ ^ -s: :^ .?: ..^ p.
 ^ J fe" w O w
 
 
-00
-
 s
 
 o
@@ -36868,8 +33509,6 @@ a
 
 S -p •«
 
-60
-
 
 .^ ^ '^ flS _cj _c- « rrz ,Prt 'C
 
@@ -36877,18 +33516,9 @@ S -p •«
 i be t£ Sg-g S a ^ a -3
 
 
-876
-
-
-THE YORUBA-SPEAKING PEOPLES.
-
-
 e
 
 o
-
-
-8
 
 
 0) .
@@ -36913,7 +33543,6 @@ r
 ^ P "Si
 
 
-5
 OO v'' O
 
 
@@ -36924,8 +33553,6 @@ V
 
 a a
 
-
-108
 
 o
 
@@ -37018,8 +33645,6 @@ P.
 Cm O
 
 
-08
-
 o
 
 
@@ -37050,8 +33675,6 @@ C8 ^ ■•*
 CO
 
 C
-
-00
 
 
 GO ^ 0^
@@ -37127,8 +33750,6 @@ OQ
 
 o
 
-00
-
 
 »-»
 
@@ -37166,9 +33787,6 @@ p
 Q
 
 
-5
-
-
 T^
 
 
@@ -37187,13 +33805,7 @@ fl
 O)
 
 
-00
-
-
 "H
-
-
-08
 
 
 a
@@ -37242,9 +33854,6 @@ s
 bo
 
 
-08
-
-
 s
 
 
@@ -37255,9 +33864,6 @@ s
 
 
 bo
-
-
-00
 
 
 a
@@ -37279,9 +33885,6 @@ a
 
 
 .o
-
-
-9
 
 
 •.
@@ -37324,9 +33927,6 @@ s
 bo
 
 
-00
-
-
 a
 
 
@@ -37337,12 +33937,6 @@ pi4
 
 
 •*-»
-
-
-APPENDIX,
-
-
-377
 
 
 3 -
@@ -37366,12 +33960,6 @@ oo
 a ^
 
 
-15
-
-
-00
-
-
 1"
 
 bo &4
@@ -37385,8 +33973,6 @@ o
 
 o
 
-00
-00
 
 o
 o
@@ -37402,7 +33988,6 @@ u
 o
 
 OQ
-00
 
 2 ^
 
@@ -37432,15 +34017,10 @@ I
 d
 
 
-2
-
 d
 
 
 on
-
-
-2
 
 
 =3
@@ -37459,9 +34039,6 @@ c
 
 
 d s s «^
-
-
-03
 
 
 «*2 i
@@ -37528,8 +34105,6 @@ o
 pd
 
 
-1
-
 d
 
 
@@ -37554,9 +34129,6 @@ a
 ^
 
 
-8
-
-
 CO
 
 
@@ -37566,9 +34138,6 @@ CO
 d
 
 
-3
-
-
 ^
 
 
@@ -37576,12 +34145,6 @@ d
 
 
 ■•^
-
-
-08
-
-
-00
 
 
 ^
@@ -37598,17 +34161,11 @@ p
 €8
 
 
-00
-
-
 u
 ^
 
 
 i
-
-
-2
 
 
 d
@@ -37680,9 +34237,6 @@ a>
 
 
 ►>
-
-
-08
 
 
 rd
@@ -37757,7 +34311,6 @@ p— ^O 00 o 0>
 2 1 c g I
 
 
-2
 o -e a s -** S
 
 r^ Urn* O^ O •!-« Q>
@@ -37783,13 +34336,8 @@ a d ;§
 ^ s
 
 
-378
-
-
 TEE YOJIUBA'SPEAKING PEOPLES,
 
-
-03
 
 S
 
@@ -37809,8 +34357,6 @@ CO
 
 85^
 
-
-9
 
 to
 
@@ -37864,8 +34410,6 @@ OQ
 s -
 2 E
 
-08
-
 
 >> «
 
@@ -37882,8 +34426,6 @@ IS oT
 ^ o
 
 oc o
-
-03
 
 
 » bo
@@ -37978,7 +34520,6 @@ r; 00 .4^
 
 -. O
 &0
-60
 
 CO o
 
@@ -37999,9 +34540,6 @@ IS
 V4
 
 o
-
-
-03
 
 
 e8
@@ -38074,7 +34612,6 @@ S o
 
 
 tn
-00
 
 CO
 
@@ -38110,16 +34647,10 @@ u
 CO
 
 
-60
-
-
 ^3
-00
 
 
 •4J
-
-60
 
 
 c8
@@ -38137,12 +34668,7 @@ s
 }08
 
 
-08
-
 B
-
-
-00
 
 
 •*3
@@ -38166,15 +34692,6 @@ S
 ■s
 
 
-03
-
-
-APPENDIX,
-
-
-379
-
-
 73 ^
 
 
@@ -38182,17 +34699,13 @@ APPENDIX,
 •E o
 
 
-53
 O
 
 
-8
 q3
 
 
 I
-
-93
 
 
 es
@@ -38224,8 +34737,6 @@ M
 o o
 
 
-73
-
 c
 
 
@@ -38239,8 +34750,6 @@ g>
 
 
 F>M .«d OO
-
-08
 
 
 3 -2
@@ -38274,9 +34783,6 @@ s
 
 
 o
-
-
-5
 
 
 k
@@ -38320,9 +34826,6 @@ CO S «»<t *-J?*S
 -g
 
 
-60
-
-
 g s
 
 
@@ -38331,9 +34834,6 @@ I i
 ^ § g
 
 ill
-
-
-08
 
 
 Q 08
@@ -38392,9 +34892,6 @@ loO o
 s
 
 
-00
-
-
 © OO
 
 a ®
@@ -38415,14 +34912,10 @@ H o
 ^-^ © 8 ©
 
 
-08
-
-
 bo
 
 'So
 
-08
 
 o
 
@@ -38437,9 +34930,6 @@ to
 
 
 c8
-
-
-380
 
 
 THE YOBUBA'SPEAKINO PEOPLES.
@@ -38464,9 +34954,6 @@ CQ ^ O Ph
 © .o c
 
 
-08
-
-
 S s
 
 
@@ -38488,12 +34975,9 @@ s
 
 ©
 
-00
-
 
 ©
 
-03
 
 ©
 
@@ -38504,8 +34988,6 @@ a
 
 
 ©
-
-00
 
 
 53 O
@@ -38538,9 +35020,6 @@ o *•
 
 
 ©
-
-
-2
 
 
 a
@@ -38809,14 +35288,10 @@ a
 ■♦3
 
 
-3
 'a
 
 
 qa
-
-
-1
 
 
 bo
@@ -38877,9 +35352,6 @@ bo
 p
 
 
-92
-
-
 • Pi^
 
 
@@ -38919,20 +35391,12 @@ p
 c
 
 
-08
-
-
 5"
 
 
 .P
 ©
 
-
-08
-
-
-APPENDIX. 881
 
 sat t: . 2 S
 
@@ -38977,13 +35441,8 @@ C^ g 5 _-
 o
 
 
-382
-
-
 THE YORUBA-SPEAKINQ PEOPLES.
 
-
-08
 
 o
 
@@ -39019,10 +35478,6 @@ a>
 
 o
 
-00
-
-
-9
 
 o
 
@@ -39033,12 +35488,6 @@ o
 >>
 
 
-08
-
-
-8
-
-
 Z
 
 
@@ -39046,12 +35495,6 @@ Z
 
 
 OQ
-
-
-5
-
-
-4
 
 
 p
@@ -39160,7 +35603,6 @@ la
 
 -a
 
-08
 
 a
 
@@ -39229,9 +35671,6 @@ bo V
 CO 00
 
 
-03
-
-
 0)
 
 
@@ -39249,8 +35688,6 @@ o
 
 O
 
-8
-
 
 « 8
 
@@ -39266,22 +35703,13 @@ J
 3 13
 
 
-8
-
 o ^
 o
 
-00
 
 u c8
 
 P4 ^5
-
-
-APPENDIX.
-
-
-883
 
 
 ^
@@ -39322,16 +35750,12 @@ to be
 
 CO
 
-5
-
 
 ^
-5
 
 
 -a
 
-08
 
 d
 1^
@@ -39358,19 +35782,12 @@ Ko, to be bright,
 light, or shining
 
 
-5
-
-
-1
-
 CO
 
 •g
 
 
 d
-
-1
 
 
 (Zip, the clenched
@@ -39392,8 +35809,6 @@ Kwe, to stand high
 
 »•
 
-3
-
 
 ^
 
@@ -39405,9 +35820,6 @@ Kwe, to stand high
 
 
 •* d U)
-
-
-04
 
 
 J
@@ -39422,12 +35834,7 @@ d
 
 t
 
-03
 
-5
-
-
-08
 J
 
 
@@ -39443,9 +35850,6 @@ rd
 a
 
 
-1
-
-
 c
 
 .d
@@ -39453,8 +35857,6 @@ c
 
 d
 M
-
-1
 
 
 Att/M, a circle)
@@ -39490,8 +35892,7 @@ v-^ v^ ^
 •^
 
 
-ng; kru-
-md)
+ng; krumd)
 
 f the fist)
 to bend,
@@ -39608,12 +36009,6 @@ d
 .2 ^ 8 -s 8 a
 
 
-384
-
-
-THE YORUBA'SPEAKING PEOPLES.
-
-
 eS
 
 e
@@ -39626,9 +36021,6 @@ o
 5 3 8
 
 ^1^
-
-
-9
 
 
 -S -2 ^'
@@ -39679,8 +36071,6 @@ c
 5-
 
 
-9
-
 ►
 
 
@@ -39691,9 +36081,6 @@ P4 eh
 
 
 08 4A
-
-
-08
 
 
 -♦3
@@ -39747,9 +36134,6 @@ CO
 v-*^
 
 
-1
-
-
 0. oT
 
 
@@ -39767,14 +36151,10 @@ u
 0)
 
 
-00
-
 e3
 
 
 p
-
-8
 
 
 P
@@ -39788,13 +36168,6 @@ bo
 'to
 
 H
-
-
-2
-2
-
-
-9
 
 
 -2
@@ -39820,11 +36193,7 @@ p
 en
 
 
-00
-
 a
-
-3
 
 
 OQ
@@ -39848,8 +36217,6 @@ CQ V_^
 .2 <i -g
 
 
-08
-
 CM
 
 
@@ -39867,9 +36234,6 @@ P
 
 
 -1
-
-
-08
 
 
 'TS
@@ -39917,9 +36281,6 @@ P4
 '^
 
 
-08
-
-
 - 2
 
 
@@ -39927,9 +36288,6 @@ a
 
 
 4^ t^
-
-
-1
 
 
 as
@@ -39956,12 +36314,6 @@ H g
 
 
 P4^
-
-
-APPENDIX.
-
-
-385
 
 
 C/ c^ E-
@@ -39998,7 +36350,6 @@ ff o
 
 o o
 
-CO ^
 
 ■•s -a
 
@@ -40012,15 +36363,12 @@ CO ^
 ^
 
 
-1
-
 c3
 
 
 p ^
 
 
-1
 C
 
 o
@@ -40071,8 +36419,6 @@ take away, ace
 p
 
 
-1
-
 o
 
 
@@ -40116,10 +36462,6 @@ a
 
 s
 
-5
-
-
-08
 
 g
 
@@ -40128,8 +36470,6 @@ CO
 c3
 
 CM
-
-5
 
 
 >
@@ -40141,14 +36481,10 @@ u
 s
 
 
-1
-
-
 9^
 
 c
 
-3
 <->
 
 >*•
@@ -40157,15 +36493,7 @@ c
 O
 
 
-5
-
-
 0)
-
-
-1
-
-3
 
 
 »4
@@ -40206,9 +36534,6 @@ S3
 
 c
 Oi
-
-
-4
 
 
 0/
@@ -40253,12 +36578,6 @@ OB
 i" i
 
 
-2
-
-
-08
-
-
 •«
 ^
 
@@ -40282,9 +36601,6 @@ T3
 M
 
 
-08
-
-
 e3
 
 
@@ -40292,8 +36608,6 @@ e3
 
 -T to
 
-
-63
 
 O
 
@@ -40392,9 +36706,6 @@ eS
 ^^ d- es
 
 
-00
-
-
 ^ 5 '
 
 
@@ -40435,9 +36746,6 @@ CS
 2c
 
 
-886
-
-
 TUB YORUBA-SPEAKING PEOPLES,
 
 
@@ -40459,9 +36767,6 @@ O P
 a
 
 OQ
-
-
-2
 
 
 c^
@@ -40488,9 +36793,6 @@ O)
 
 
 CO i!;
-
-
-09
 
 
 n8
@@ -40522,8 +36824,6 @@ OQ 00
 03 OS
 
 J I
-
-08
 
 
 fc- X CO 00 O i-v
@@ -40588,8 +36888,6 @@ V.)
 P
 P
 
-8
-
 
 p
 
@@ -40598,7 +36896,6 @@ a
 
 -2
 
-8
 
 ©
 
@@ -40628,9 +36925,6 @@ rP
 
 
 o
-
-
-2
 
 
 _ r^
@@ -40665,7 +36959,6 @@ t
 
 ©
 
-08
 pP
 
 
@@ -40676,9 +36969,6 @@ a
 
 
 i
-
-
-03
 
 
 Kb
@@ -40703,14 +36993,11 @@ OQ
 
 ^
 
-2
-
 
 ©
 ©
 
 
-1
 •*»
 
 p
@@ -40720,7 +37007,6 @@ p
 o
 o
 
-00
 
 • mm
 
@@ -40739,8 +37025,6 @@ H
 •
 
 
-08
-
 a
 
 
@@ -40758,17 +37042,12 @@ C
 bp p
 
 
-00
 CO
-
-3
 
 
 CO
 
 ©
-
-1
 
 
 ©
@@ -40823,8 +37102,6 @@ O'
 
 P
 
-08
-
 
 ■♦J
 
@@ -40835,8 +37112,6 @@ CS
 
 p
 
-05
-
 
 »^ ©
 
@@ -40846,8 +37121,6 @@ p
 p
 
 
-00
-
 J
 
 "5
@@ -40855,11 +37128,8 @@ J
 
 o
 
-00
 
 ©
-
-3
 
 
 P
@@ -40972,12 +37242,6 @@ p ©
 5 8
 
 
-APPENDIX,
-
-
-887
-
-
 1 i" -2 S -^
 
 
@@ -41017,8 +37281,6 @@ CO p^ <;m 00 o
 s
 
 
-1
-
 d
 
 
@@ -41026,9 +37288,6 @@ fl
 
 
 •*^
-
-
-00
 
 
 ■p.
@@ -41059,9 +37318,6 @@ o
 Im
 
 
-5
-
-
 a>
 
 
@@ -41085,8 +37341,6 @@ p4
 
 o
 
-5
-
 
 o
 
@@ -41098,8 +37352,6 @@ CO
 
 < «
 
-
-00
 
 ST 'r!
 
@@ -41171,9 +37423,6 @@ p
 ^3
 
 
-00
-
-
 ^£3
 
 
@@ -41183,9 +37432,6 @@ U>
 5P is
 
 ^ •» o
-
-
-00
 
 
 O
@@ -41216,17 +37462,12 @@ p
 5 2 .r t^
 
 
-3
 o
 
 r£3
-00
 
 
 s-s:^
-
-
-00
 
 
 es
@@ -41270,9 +37511,6 @@ P-» ^- 1^ o ^
 J3 P4 o .s ^
 
 
-2
-
-
 e:
 
 
@@ -41299,9 +37537,6 @@ h»
 M
 
 
-00
-
-
 P^ Xi
 
 
@@ -41317,16 +37552,10 @@ a
 s
 
 
-00
-
-
 TS
 
 
 p
-
-
-9
 
 
 M
@@ -41404,22 +37633,12 @@ es
 a
 
 
-00
-
-
-8
-
-
-5
-
-
 s S
 
 
 m
 
 
-08
 cS ^
 
 
@@ -41577,12 +37796,6 @@ s s a
 p '^ s
 
 
-388
-
-
-THE YORUBA-SPEAKING PEOPLES,
-
-
 p
 
 
@@ -41619,11 +37832,6 @@ p2
 
 -♦J
 
-00
-
-
-1
-
 
 •
 
@@ -41655,11 +37863,6 @@ u
 S
 
 
-04
-
-9
-
-
 CO
 
 to
@@ -41667,8 +37870,6 @@ to
 
 P
 
-
-2
 
 0)
 
@@ -41686,9 +37887,6 @@ CO
 
 
 s
-
-
-5
 
 
 •
@@ -41737,9 +37935,6 @@ p
 fc?
 
 
-2
-
-
 ^
 
 
@@ -41773,17 +37968,11 @@ U*
 ^ «
 
 
-00
-
-
 P
 
 
 1-
 s §
-
-
-1
 
 
 P
@@ -41803,9 +37992,6 @@ J3
 
 
 ^
-
-
-1
 
 
 •» •*
@@ -41838,8 +38024,6 @@ CO
 
 p
 
-2
-
 
 ru cS
 
@@ -41857,9 +38041,6 @@ t: ^
 cS •»
 
 ^ s
-
-
-00
 
 
 Xi
@@ -41972,8 +38153,6 @@ CO
 P
 
 
-5
-
 8 ^
 
 
@@ -42039,17 +38218,12 @@ CO
 P ^
 
 
-1
-
 P
 
 
 fcJD
 
 P
-
-
-2
 
 
 -4^
@@ -42102,9 +38276,6 @@ p
 0^
 
 (-1
-
-
-11
 
 
 C5 -
@@ -42187,8 +38358,6 @@ P
 'a
 
 
-3
-
 CO
 
 
@@ -42226,7 +38395,6 @@ CS
 
 p
 
-00
 
 p
 
@@ -42314,12 +38482,6 @@ ILc
 P
 
 
-APPENDIX,
-
-
-389
-
-
 S g S 5 3
 
 g S g 2 J
@@ -42335,8 +38497,6 @@ o
 
 - I
 
-08
-
 
 a
 
@@ -42346,9 +38506,6 @@ a
 fl o ^ o
 
 i . " 5 ■•5
-
-
-9
 
 
 ft3 s ^
@@ -42427,8 +38584,6 @@ a 2 to *- ^ fc
 
 o
 
-8
-
 
 o
 M
@@ -42462,8 +38617,6 @@ I
 
 o
 
-00
-
 
 d
 o
@@ -42495,7 +38648,6 @@ ago
 
 O
 
-08
 O
 
 
@@ -42562,9 +38714,6 @@ oq
 o
 
 
-00
-
-
 »- -• -^ .»^ -'
 
 
@@ -42615,9 +38764,6 @@ y t-
 
 ::>•«« i; o ^
 = c o «d ^ ^
-
-
-390
 
 
 THE YORUBA-SPEAKING TEOPLES.
@@ -42735,9 +38881,6 @@ el
 fc
 
 
-5
-
-
 »«
 
 
@@ -42751,9 +38894,6 @@ b
 
 
 pq
-
-
-00
 
 
 /I
@@ -42869,9 +39009,6 @@ o
 •4^
 
 
-2
-
-
 CO
 
 y.
@@ -42956,13 +39093,9 @@ o
 •C .2
 
 
-08
-
 © CO
 
 2 ^
-
-00
 
 
 QQ
@@ -42972,11 +39105,6 @@ S rz
 
 
 S R.
-
-
-00
-
-8
 
 
 g ^
@@ -43031,12 +39159,6 @@ o ©
 
 
 •r3 '^ «5 ^9
-
-
-APPENDIX.
-
-
-391
 
 
 a
@@ -43217,8 +39339,6 @@ o
 .5
 
 
-2
-
 c
 
 
@@ -43272,9 +39392,6 @@ ST
 pca
 
 
-9
-
-
 9i
 
 
@@ -43285,9 +39402,6 @@ pca
 
 
 GO
-
-
-25
 
 
 even, alike or
@@ -43350,12 +39464,6 @@ tt.Si |£ -"3 I
 c -S < ^ a, t«
 
 
-392
-
-
-THE YORUBA-SPEAKING PEOPLES.
-
-
 •
 
 S
@@ -43391,9 +39499,6 @@ pieces, be scarce.
 •
 
 
-1
-
-
 Da, to lie down,
 lie, lay, place, put,
 be situated, weigh
@@ -43407,10 +39512,6 @@ Di, to bury
 
 
 »e3
-
-
-1
-1
 
 
 Da, to stand on
@@ -43460,9 +39561,6 @@ xO
 bo
 
 • P4
-
-
-1
 
 
 _r *-
@@ -43615,9 +39713,6 @@ ting
 whenc
 
 
-APPENDIX, 398
-
-
 CO s a ^ -
 
 o - "^
@@ -43660,9 +39755,6 @@ C .*=. ?J3 "c rt to .S .S
 
 
 ^ to S .?^ ^ w O = t£
-
-
-894
 
 
 THE TORUBA'SPEAKINO PEOPLES,
@@ -43718,7 +39810,6 @@ o cs g
 ©
 
 
-00
 ©
 
 ©
@@ -43896,8 +39987,6 @@ S c3
 bo cs
 
 
-APPENDIX. 895
-
 ^ .■§ fc" ^ -^ * -I
 
 
@@ -44001,9 +40090,6 @@ S-i
 o
 
 
-9
-
-
 P
 
 
@@ -44027,9 +40113,6 @@ pca
 
 
 ^
-
-
-1
 
 
 ©
@@ -44109,9 +40192,6 @@ o
 ^
 
 
-396
-
-
 THE YORUBA^SPEAKINQ PEOPLES,
 
 
@@ -44132,7 +40212,6 @@ g, kick, shoot
 
 a
 
-3
 
 QQ
 
@@ -44148,7 +40227,6 @@ J
 
 i
 
-00
 
 u
 
@@ -44158,8 +40236,6 @@ u
 P
 
 to
-
-00
 
 
 PS
@@ -44172,8 +40248,6 @@ p
 to
 
 p
-
-5
 
 
 •
@@ -44229,9 +40303,6 @@ CO
 "5.
 
 
-00
-
-
 ou
 
 
@@ -44247,7 +40318,6 @@ P4
 o
 
 
-53
 O
 
 *^
@@ -44256,18 +40326,13 @@ O
 P4
 
 
-8
-
 o
 
 a o
 
 
-00
-
 S3
 
-00
 
 E
 
@@ -44282,8 +40347,6 @@ E
 
 s
 
-
-CO '*^
 
 S ^
 
@@ -44305,9 +40368,6 @@ r4
 
 
 Q) ••
-
-
-1
 
 
 v%
@@ -44332,11 +40392,6 @@ s
 
 
 •T3
-09
-
-00
-
-1
 
 
 3 CO
@@ -44402,15 +40457,7 @@ P
 0)
 
 
-00
-
-
 -+3
-
-00
-
-
-00
 
 
 ■+3
@@ -44447,9 +40494,6 @@ o
 o
 
 
-00
-
-
 T3
 
 c
@@ -44469,15 +40513,10 @@ a
 a
 
 
-5
-
-
 p
 
 
 '•♦3
-
-00
 
 
 c
@@ -44494,13 +40533,8 @@ CO
 
 ^
 
-5
-
 
 H
-
-
-5
 
 
 fl ^-
@@ -44512,9 +40546,6 @@ to
 o..a
 
 •4^
-
-
-3
 
 
 -t-^
@@ -44561,9 +40592,6 @@ to
 
 
 tc^
-
-
-2
 
 
 p, ^
@@ -44658,9 +40686,6 @@ to
 s
 
 
-00
-
-
 o
 
 
@@ -44731,12 +40756,6 @@ C8
 ^ 00
 
 
-APPENDIX.
-
-
-897
-
-
 ^ to
 
 
@@ -44778,8 +40797,6 @@ jT fl C 52
 
 o
 
-3
-
 
 o ^ •
 
@@ -44818,9 +40835,6 @@ p
 o
 
 
-9
-
-
 o -^ ,£
 
 ^ SJ 'p ^ -§ § p
@@ -44831,8 +40845,6 @@ C « «r
 
 - .- a
 
-
-2
 
 p
 
@@ -44890,10 +40902,6 @@ p
 ^
 
 
-1
-
-
-1
 P
 
 
@@ -44919,9 +40927,6 @@ Xi
 
 
 to
-
-
-5
 
 
 s
@@ -45126,12 +41131,6 @@ I
 I
 
 
-398
-
-
-THE YORUBA-SPEAKING PEOPLES.
-
-
 C2
 
 
@@ -45256,8 +41255,7 @@ TSHI.
 Boot V. (c), and is a variation of sho^ to watch, observe, guard
 (Yoruba).
 
-2. Tyu, to rub, brush, cleanse, wipe. This most likely is a varia-
-tion of TsUj and belongs to Root V. (e) or (g). In the Fanti dialect
+2. Tyu, to rub, brush, cleanse, wipe. This most likely is a variation of TsUj and belongs to Root V. (e) or (g). In the Fanti dialect
 of Tshi it is pronounced Tchu.
 
 GA.
@@ -45300,8 +41298,6 @@ originally Bra, Bre, Bro, or Pru, Pre, Pro, and belong to Root V'll.
 
 t'
 
-
-400 THE YORUBA'SPEAKING PEOPLES.
 
 (e) and (f). Ri, to drown, sink, immerse, has perhaps been changed
 from Mi; Ro, to sound, excite, stimulate, from Bo, and Ru, to
@@ -45364,8 +41360,6 @@ is that the action or condition is regarded from a different point of
 view. Thus we get the verb /w, to smell (Ga), from the point of
 
 
-APPENDIX, 401
-
 view of a smell emitted (Root I.),* and huam^ to smell (Tshi), and
 Ince^ to smell (Ewe), from the point of view of a smell perceived
 (Root II,). 3/"m, to breathe (Ga), is breathing regarded as an
@@ -45384,15 +41378,13 @@ singly and one after the other (Root VI). Be, to tell, narrate
 juxta position (Root VII.). 7i(i, to beg, beseech (Ga), and be, to
 beg, beseech (Yoruba) may likewise be considered as speech regarded
 as the medium of conversation between two persons, though these
-verbs appear more properly to have reference to the bending or pro-
-strating of body which is always practised by supplicants. Bo, to
+verbs appear more properly to have reference to the bending or prostrating of body which is always practised by supplicants. Bo, to
 say, speak, tell (Ewe), is speech regarded us connected with the
 depths of the mouth or throat (Root VIII.). Sf, to say, and shu, to
 speak (Tshi) ; se, to deny, and so, to talk, tell (Yoruba) ; is speech
 regarded as a succession of changes of sounds or words (Root V.).
 
-(2) Notions which are closely allied and which we might reason-
-ably expect to find expressed by the same root in any one language
+(2) Notions which are closely allied and which we might reasonably expect to find expressed by the same root in any one language
 are often expresse<l by different roots. Thus ** fire,'* and " to flame,"
 are notions closely allied, yet in Yoruba " fire ** is ina, which is either
 from na, to spread, extend, or from wa, to waste (Root IV.) ; and
@@ -45415,8 +41407,7 @@ TlH'llt.
 402 THE YORUBA-SPEAKINLr PEOPLES,
 
 appear to be diametrically opposed. Thus the Ga verb nme (Root
-IIL), can be used to mean "to open," or " to shut." The explana-
-tion is tliat the verb really expresses an action afifecting the interior
+IIL), can be used to mean "to open," or " to shut." The explanation is tliat the verb really expresses an action afifecting the interior
 or inside of something, and opening exposes the inside while shutting
 hides it from view. The remainder of the spoken sentence explains
 to the hearer the sense in which it is need, or, failing that? the exact

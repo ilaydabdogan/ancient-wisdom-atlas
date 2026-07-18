@@ -45,7 +45,6 @@ a^
 
 
 No.  4.
-THE    VOYAGE    OF    BRAN
 
 
 fe
@@ -113,8 +112,6 @@ The    Happy    Otherworld
 London :
 
 Published  by  David  Nutt  in  the  Strand
-
-1895
 
 
 Edinburgh  :  T.  and  A.  Constable,  Printers  to  Her  Majesty
@@ -184,16 +181,6 @@ Index  of  Places  and  Tribes,
 
 
 PAGE
-84
-
-85
-
-86
-86
-87
-91
-97
-98
 
 
 The  Happy  Otherworld  in  the  Mythico-romantic
@@ -206,8 +193,7 @@ NuTT.     Section  I.— Chapters  i.-xii.,     .        .        .        .    
 
 INTRODUCTION
 
-The  old-Irish  tale  which  is  here  edited  and  fully  trans-
-lated ^  for  the  first  time,  has  come  down  to  us  in  seven
+The  old-Irish  tale  which  is  here  edited  and  fully  translated ^  for  the  first  time,  has  come  down  to  us  in  seven
 Mss.  of  different  age  and  varying  value.  It  is  unfortunate
 that  the  oldest  copy  (U),  that  contained  on  p.  121a  of  the
 Leabhar  na  hUidhre,  a  ms.  written  about  iioo  a.d.,  is  a
@@ -239,10 +225,8 @@ viii  THE   VOYAGE   OF   BRAN
 Armagh  from  1049  to  1064.  See  Rev.  Celt.  xi.  p.  437.
 The  copy  was  made  by  a  careful  and  accurate  scribe  of  the
 fifteenth  or  possibly  the  fourteenth  century.  The  spelling
-is  but  slightly  modernised,  the  old-Irish  forms  are  well  pre-
-served, and  on  the  whole  it  must  be  said  that,  of  all  mss.,  R
-suppHes  us  with  the  best  text.  Still,  it  is  by  no  means  per-
-fect, and  is  not  seldom  corrected  by  mss.  of  far  inferior
+is  but  slightly  modernised,  the  old-Irish  forms  are  well  preserved, and  on  the  whole  it  must  be  said  that,  of  all  mss.,  R
+suppHes  us  with  the  best  text.  Still,  it  is  by  no  means  perfect, and  is  not  seldom  corrected  by  mss.  of  far  inferior
 value.  Thus,  in  §  4  it  has  the  faulty  cethror  for  cetheoir ;
 in  §  25  di^  for  the  dissyllabic  diid  ;  in  §  61,  the  senseless
 namna  instead  of  nammd.  The  scribe  has  also  carelessly
@@ -252,8 +236,7 @@ The  MS.  which  comes  next  in  importance  I  designate  B.
 It  is  contained  on  pp.  57-61  of  the  vellum  quarto  classed
 Betham  145,  belonging  to  the  Royal  Irish  Academy.  I
 am  indebted  to  Mr.  P.  M.  MacSweeney  for  a  most  accurate
-transcript  of  this  MS.  When  I  had  an  opportunity  of  com-
-paring his  copy  with  the  original,  I  found  hardly  any  dis-
+transcript  of  this  MS.  When  I  had  an  opportunity  of  comparing his  copy  with  the  original,  I  found  hardly  any  dis-
 crepancies between  the  two.  B  was  written  in  the  fifteenth
 century,  I  think,  by  a  scribe  named  Tornae,  who,  though
 he  tells  us  in  a  marginal  note^  that  he  had  not  for  a  long
@@ -275,8 +258,7 @@ Harleian  5280,  fo.  43a — 443.  For  a  description  of  this
 important  ms.,  which  was  written  in  the  sixteenth  century,
 see  Hibernica  Minora  (Anecdota  Oxoniensia,  Medieeval  and
 Modern  series — Part  viii.),  pp.  v  and  vi.  In  this  copy  the
-spelling  and  forms  are  considerably,  but  by  no  means  con-
-sistently, modernised.  In  a  few  cases  H  has  preserved  the
+spelling  and  forms  are  considerably,  but  by  no  means  consistently, modernised.  In  a  few  cases  H  has  preserved  the
 original  reading  as  against  the  corruptions  of  all  or  most  of
 the  other  mss.  Thus  it  has  cetheoir  (4),  muir  glan  (35),
 moitgretha  (8),  etc.
@@ -327,8 +309,7 @@ The  six  mss.  here  enumerated,  though  frequently  varying
 in  details,  offer  on  the  whole  an  identical  text,  and  have
 clearly  sprung  from  one  and  the  same  source.  For  even
 the  vagaries  of  L  turn  out  on  closer  inspection  to  be  mere
-variants  of  the  same  original  text.  Under  these  circum-
-stances it  was  a  comparatively  easy  task  to  reconstruct  a
+variants  of  the  same  original  text.  Under  these  circumstances it  was  a  comparatively  easy  task  to  reconstruct  a
 critical  text.  In  nearly  every  case  the  original  reading  was
 preserved  by  one  ms.  or  another.  Thus  almost  every  form  in
 my  edition  is  supported  by  MS.  authority.  In  the  very  few
@@ -345,13 +326,11 @@ corrupt.  See  e.g.  my  remarks  on  dorearuasat,  48  ;  aill  erfind,
 22;  each  dgi,  21;  sdibsi  ceni,  45.  In  other  cases  it  is
 doubtful  whether  I  have  preferred  the  right  reading.  Thus,
 in  §  10,  I  may  have  been  too  rash  in  adopting  the  reading
-of  L,  cen  indgds  instead  oifri  indgds  of  the  rest.  Consider-
-ing the  tendency  of  L  to  alter  a  less  common  expression
+of  L,  cen  indgds  instead  oifri  indgds  of  the  rest.  Considering the  tendency  of  L  to  alter  a  less  common  expression
 into  a  familiar  one,  as  well  as  the  consensus  of  all  the  other
 MSS.,  I  would  now  retain  fri  and  translate  it  by  'with.'
 For  this  use  of  the  preposition,  cf.  fri  imfochid,  p.  85,  3.
-Again,  I  cannot  claim  that  the  text,  as  it  now  stands,  repre-
-sents the  actual  language  of  any  particular  period,  contain-
+Again,  I  cannot  claim  that  the  text,  as  it  now  stands,  represents the  actual  language  of  any  particular  period,  contain-
 ing as  it  does  middle-Irish  forms  by  the  side  of  old-Irish
 ones.  Such  a  mixture  of  linguistic  forms  is,  however,  not
 of  my  own  making,  but  is  an  inherent  peculiarity  of  most
@@ -367,8 +346,7 @@ Irish  language  besides  the  excellent  history  of  the
 Deponent  lately  published  by  Professor  Strachan,  it  would
 probably  be  possible  to  determine  with  accuracy  the  time
 in  which  a  particular  text  was  composed.  At  present  we
-must  be  content  with  much  less  certain  and  definite  state-
-ments, often  leaving  a  margin  of  a  century  on  either  side.
+must  be  content  with  much  less  certain  and  definite  statements, often  leaving  a  margin  of  a  century  on  either  side.
 
 
 xii  THE  VOYAGE   OF   BRAN
@@ -390,8 +368,7 @@ anything  of  a  doubtful  or  unexplained  nature.
 First,  as  to  sounds  and  their  representation,  the  following
 archaic  forms  and  spellings  are  noticeable  : —
 
-Final  e,  early  broadened  to  ce,  ae,  later  a  :  sube,  8 ;  com-
-amre,  lo;  inoramre,   29;   labre,   29;  b/Sdne  (later  b/iadna),
+Final  e,  early  broadened  to  ce,  ae,  later  a  :  sube,  8 ;  comamre,  lo;  inoramre,   29;   labre,   29;  b/Sdne  (later  b/iadna),
 
 55>  58.
 
@@ -444,8 +421,7 @@ throughout.
 Present  indicative,  sg.  i  :  atchiu,  35 — sg.  2  :  immerdi,  37  ;
 forsn-aicci,  38  ;  ttad  aicci,  39  ;  nofethi,  49 — sg.  3  :  mescid,  16  ;
 canid,  18;  graibntd,  23;  forsnig,  6,  12  ;  dosnig,  12,  22;
-comerig,  17  ;  tormaig,  18  ;  foafeid,  22  ;  ifmnareid,  ^  ;  fris-
-bein,  16  ;  frisseill,  59  ;  forosna,  16  ;  consna,  5  ;  ivinmsthner-
+comerig,  17  ;  tormaig,  18  ;  foafeid,  22  ;  ifmnareid,  ^  ;  frisbein,  16  ;  frisseill,  59  ;  forosna,  16  ;  consna,  5  ;  ivinmsthner-
 chel,  19;  taitni  {deY>.),  6;  f ibri  (dep.),  35  ;  donaidbri^  17 —
 pi.  3  :  lingit,  38  ;  bniindit,  36 ;  taircet  (dep.),  14,  40  ;  ni
 frescef,  18,   23  ;  immaiaitfiet,  4  ;   taitnet  (dep.),  40  ;  taitnet
@@ -453,8 +429,7 @@ frescef,  18,   23  ;  immaiaitfiet,  4  ;   taitnet  (dep.),  40  ;  taitnet
 
 xiv  THE  VOYAGE   OF   BRAN
 
-(independent !),  8,  36  ;   congairet,  7  ;  forclechtat,  5  ;  foslon-
-gat,  4  ;  frisferat,  21 ;  forsngatret,  7.
+(independent !),  8,  36  ;   congairet,  7  ;  forclechtat,  5  ;  foslongat,  4  ;  frisferat,  21 ;  forsngatret,  7.
 
 Present  subjunctive,  sg.  3  :  trbithad,  30 ;  imraad,  60 ;
 etsed,  29.
@@ -483,8 +458,7 @@ The  following  passive  forms  occur  :  pres.  ind.  pi.,  ogtar,
 57  ;  gerthair,  51  ;  pret.  sg.,  a:^^/,  29  ;  atfess,  29  ;  s-fut.  sg.,
 festar,  26.
 
-As  to  old  syntactic  usage,  notice  the  adjective  and  sub-
-stantive attributes  placed  before  the  noun,  4,  13,  19,  29,  43.
+As  to  old  syntactic  usage,  notice  the  adjective  and  substantive attributes  placed  before  the  noun,  4,  13,  19,  29,  43.
 
 Lastly,  I  would  draw  attention  to  the  use  of  the  following
 words  as  dissyllabic,  though  as  most  of  them  continue  to  be
@@ -544,8 +518,7 @@ celebrais,  66  ;  sloindsi,  62.  We  find  dobert  2,  instead  of
 old-Ir.  dorat,  and  dobreth  62,  instead  of  doratad.  The  late
 cachain  occurs  three  times  (2,  32,  65),  for  old-Ir.  cechuin.
 
-Such  Middle-Irish  forms,  which  all  mss.  without  excep-
-tion contain,  show  that  the  original  from  which  our  mss.
+Such  Middle-Irish  forms,  which  all  mss.  without  exception contain,  show  that  the  original  from  which  our  mss.
 are  in  the  first  instance  derived,  cannot  have  been  written
 much  earlier  than  the  tenth  century.  Bearing  this  in  mind,
 together  with  the  occurrence  of  the  seventh  century  old-Irish
@@ -581,8 +554,7 @@ borrowed  at  the  period  of  the  first  contact  of  the  Irish  with
 Roman  civilisation,  before  the  introduction  of  Christianity ;
 a  later  one  of  words  that  came  into  Irish  with  Christianity.
 To  the  first  group  belong  aball,  '  abella '  ?  3  ;  arggat,
-'argentum,'  23,  14,  22  ;  drauc,  'draco,'  53;  dracon,  'dracon-
-tium,'  12,  58;//;?,  'vinum,'  13,  i^;fi?ie,  'ab  eo  quod  est
+'argentum,'  23,  14,  22  ;  drauc,  'draco,'  53;  dracon,  'dracontium,'  12,  58;//;?,  'vinum,'  13,  i^;fi?ie,  'ab  eo  quod  est
 vinea,'  Corm.,  43  ;  port,  'portus,'  62.
 
 Of  words  of  the  second  group  we  find  :  cor,  '  chorus,'  18  ;
@@ -631,8 +603,7 @@ back,  'twas  still  behind  him  the  music  was.  At  last  he  fell
 asleep  at  the  music,  such  was  its  sweetness.  When  he
 awoke  from  his  sleep,  he  saw  close  by  him  a  branch  ^  of
 
-^  Imram,  lit.  'rowing  about,' denotes  a  voyage  voluntarily  under-
-taken, as  distinguished  from  longes,  'a  voyage  of  exile.'
+^  Imram,  lit.  'rowing  about,' denotes  a  voyage  voluntarily  undertaken, as  distinguished  from  longes,  'a  voyage  of  exile.'
 
 -  Echtre,  f.  (a  derivative  of  echtar  =1.7^1.  extra),  lit.  'outing,'
 specially  denotes  expeditions  and  sojourns  in  Fairy-land,  as  in  Echtra
@@ -675,14 +646,11 @@ nipa  H.  i"  hassa  E  hcussui  H.  ^^  blatha  R  blatho  B  bkMac  HE.
 incroiph  B.
 
 
-4  THE    VOYAGE    OF   BRAN
-
 silver  with  white  blossoms,  nor  was  it  easy  to  distinguish  its
 bloom  from  that  branch.  Then  Bran  took  the  branch  in
 his  hand  to  his  royal  house.  When  the  hosts  were  in  the
 royal  house,  they  saw  a  woman  in  strange  raiment  on  the
-floor  of  the  house.  'Twas  then  she  sang  the  fifty  i  quat-
-rains to  Bran,  while  the  host  heard  her,  and  all  beheld
+floor  of  the  house.  'Twas  then  she  sang  the  fifty  i  quatrains to  Bran,  while  the  host  heard  her,  and  all  beheld
 the  woman.
 And  she  said  :
 
@@ -767,8 +735,6 @@ ccthur  6'  cethar  L  cctli.  ^\  ^o  u;  j7_  21  suili  A'  suloi  H.  22  f^
 clechtot  Zr.  23  ^^„s„ai  //.  24  j/,.  i  mag  A'/>'^^-  maug  A^.  '^  thes  ^
 des  Z.     2«  finnairgiV  j5//^.
 
-
-6  THE   VOYAGE   OF   BRAN
 
 6.  '  Feet  of  white  bronze  under  it
 
@@ -868,8 +834,6 @@ moit«r  gretho  B  msethgnatha  Z.  ^^  mag  BE.  "  thcas  E  des  L.
 cloois // clois />'.  '^  g'aXur  EH.  '^  sic  L  ixx  cet.  -^  sic  RL  hm\\gz.s  ES
 higgass //hingas  iff.     -'  is  clir  airgnc  nemnoe  Z.     ^  comlabrai //.
 
-
-8  THE   VOYAGE    OF    BRAN
 
 11.  'A  beauty  of  a  wondrous  land,
 
@@ -1060,8 +1024,6 @@ dofcd  ^  dofed  Z.  ^  bancorcn  Z  banchuirc  IIL  bancuircn  B.  ^  cusin
 EHBL.
 
 
-12  THE    VOYAGE    OF    BRAN
-
 21.  '  There  will  come  happiness  with  health
 To  the  land  against  which  laughter  peals,
 Into  Imchiuin  at  every  season
@@ -1166,8 +1128,6 @@ brccht  S  brict  /Z  ''•'  oas  RL.  "^  nis  frescad  Z  frescat  R  frescai
 ""  sic  RE.  28  coibeis  Y.unn  BS.  ">  tri  B.  ^  dib  Z'Z  diou  H.
 "  assed  fail  inga^/z  innsi  dibh  B  ased  fil  gach  indsi  dib  S,
 
-
-14  THE   VOYAGE    OF   BRAN
 
 26.  '  A  great  birth  ^  will  come  after  ages,
 That  will  not  be  in  a  lofty  place,^
@@ -1328,8 +1288,7 @@ ocus  comaisib.  O  rob6i  da^^  la  ocus  di  aidchi  forsin^^
 muir,  conacci  a  dochum  in  fer  isin  charput  ^^  iarsin  ^^  muir.
 Canaid^'"'  in  fer  hi'sin^''  dano^^  trichait  rand  n-aile  dou,^^
 ocus  sloindsi  -^  dou  -^  ocus  asbert  --  ba  he  Manannan  -'^  mac
-Lir,  ocus  asbert  b6i  aire  tuidecht  -^  i  n-Erinn  far  n-aim-
-seraib  cianaib,  ocus  nogigned  mac  uad^-^  .i.  Mongan-"  mac
+Lir,  ocus  asbert  b6i  aire  tuidecht  -^  i  n-Erinn  far  n-aimseraib  cianaib,  ocus  nogigned  mac  uad^-^  .i.  Mongan-"  mac
 Fiachnai,2'  ised  foridmbiad.  Cachain  ^s  farom  in  trichait  -^
 rand  sa  dou : — ^'^
 
@@ -1453,8 +1412,6 @@ fO«^(«lal||.olc  an  lilir  //.  -^  cairdi  A'  cuicordu  //.  ""^  cin  A'.
 31  imarbath  IIEL.
 
 
-20  THE   VOYAGE    OF   BRAN
-
 39.  '  Though  (but)  one  chariot-rider  is  seen
 In  Mag  MelP  of  many  flowers,
 There  are  many  steeds  on  its  surface,^
@@ -1550,8 +1507,6 @@ R   feda  7)^^Z   fcuda  H.     '^   ronsna  77     ^o  cliaurchan    R.     »'
 J/B.    »' noi  A' naoi  Z' naeo  ZTna:  Z' noa;  Z.    ^fl  blad  A?  foblal  7Z    ^  sic
 H  torad  c^/.    ^  formbid  RBE.    '^  erchra  ifi?  airchre  Z.    ^"  ffz-sabfil  i9.
 
-
-22  THE    VOYAGE   OF   BRAN
 
 44.  '  We  are  from  the  beginning  of  creation
 
@@ -1657,8 +1612,6 @@ dorearossat  ^ZTdorea  rosat  S  dorear6sadd  E  dord  rosat  Z.  ^  fogluaisfe
 ^£.     3*  bidia  E  bidea  5.     ^'^  biduine  ES.
 
 
-24  THE    VOYAGE    OF    BRAN
-
 49.  '  This  shape,  he  on  whom  thou  lookest,
 
 Will  come  to  thy  parts  ;  ^
@@ -1712,8 +1665,7 @@ the  daughtci  of  Demman  Dublacha's  son.
 ^  This  is  a  guess  at  the  meaning  of  moithfe.  I  take  it  to  stand  for
 vi6ithfe,  from  moithaim,  mod.  maothaim,  'I  soften.'
 
-s  i  froiss  may  mean  '  in  a  shower '  ;  but  fross  is  also  used  meta-
-phorically in  the  sense  of  '  attack,  onset.'     Cf.
+s  i  froiss  may  mean  '  in  a  shower '  ;  but  fross  is  also  used  metaphorically in  the  sense  of  '  attack,  onset.'     Cf.
 
 
 IMRAM    BRAIN  25
@@ -1765,8 +1717,6 @@ maithfed  Z.     2"  sognas  Zi^ZZ'.     ^i  treilil  B  trctild  //irctil  S  d
 "  bieid  /jf/ZS-  bied  £•.     '^  fetul  5.     2«  ceca  II.     '■"  sic  RB  draic  HES
 draig  Z.     '^  foiss  R.
 
-
-26  THE    VOYAGE    OF    BRAN
 
 54.  '  He  will  be  a  stag  with  horns  of  silver
 In  the  land  where  chariots  are  driven,
@@ -1860,8 +1810,6 @@ nimraithne  SE.  ^  Moininnan  B  Manannan  ES  Monannan  IJL.
 ""  athair  RB.     »  fithidir  HE.
 
 
-28  THE    VOYAGE    OF    BRAN
-
 58.  '  He  will  be — his  time  will  be  short — ^
 
 Fifty  years  in  this  world  :
@@ -1935,8 +1883,7 @@ ni  chi'an  co  ti'r  inna  m-ban,
 Emne  co  n-ildath  ^^  fele
 
 ricfe  re  fuiniud'-*^  grene.'  ^^
-61.  Luidi-2  Bran  liad^^  larum  CO  n-acci^*  in  n-insi.  Im-
-meraad-'^  immecuairt,-*'  ocus  slog  mar  2''  oc  ginig-^  ocus
+61.  Luidi-2  Bran  liad^^  larum  CO  n-acci^*  in  n-insi.  Immeraad-'^  immecuairt,-*'  ocus  slog  mar  2''  oc  ginig-^  ocus
 gairechtaig.^^  Docciti's  uili  Bran  ocus  a  muintir,  ocus  ni
 anti's^*^  fria  n-accaldaim.  Adaigtis  treftecha  gaire  impu.
 F6idis  Bran  fer  dia  muintir  isin  n-insi.  Reris  ^^  lia  celiu  ^^
@@ -1962,8 +1909,6 @@ HE.  ^-  lea  ciielca  RB.  *•'  atdagat  A' A'  adagliat  A  adagalt  .S'atag
 H  adacht  Z.  •'^  v/V  R  gigni  A'iY  gignid  >V  gine  E.  '^  foo  RBH.
 *  amol  /Z     ^  ndoini  A'  ndoinc  E,
 
-
-30  THE    VOYAGE    OF    BRAN
 
 about  the  island.  Whenever  his  man  came  past  Bran,  his
 comrades  would  address  him.  But  he  would  not  converse
@@ -2011,8 +1956,7 @@ especially  desired,  a  common  incident  in  Irish  story-telling.
 I  MR  AM    BRAIN  31
 
 olchene.  Immeraad  ^  in  n-inis  immeciiairt.  Intan  dotheged
-a  fer  muintire  sech  Bran,  adglaitis-  a  choceli.  Nisnaic-
-cilled  san  ^  immorru,  acht  dusneced  ^  namma  ^  ocus
+a  fer  muintire  sech  Bran,  adglaitis-  a  choceli.  Nisnaiccilled  san  ^  immorru,  acht  dusneced  ^  namma  ^  ocus
 adaiged  ginig*^  fduJ  Is  ed^  ainni  inna  hinse  so  Inis
 Subai.^     Funacabsat  and  larum.
 
@@ -2047,8 +1991,6 @@ lanonino  //.  ^  nircrcracli  .S".  •'"'  blcdhin  Z  bl.  R  blia.  f/bliad.
 dobit  II  lug/;  (?)  U.  ^'•'  ilchcta  blcdhiic  .V  bliadna  RBUIJE.
 *'  each  U.
 
-
-32  THE    VOYAGE    OF    BRAN
 
 63.  Home-sickness  seized  one  of  them,  even  Nechtan
 the  son  of  Collbran.^  His  kindred  kept  praying  Bran  that
@@ -2093,10 +2035,8 @@ West  Kerry  place  is  meant.
 
 IMRAM    BRAIN  33
 
-63.  Gabais  eulchaire^  fer^  n-diib^  .i.  Nechtan  mac  Coil-
-brain.*  Aitched  ^  a  chenel  fri  Bran  aratiasad "  leis  dochom
-n-;^renn.  Asbert  in  ben  robad  aithrech  ind  faboll.^  Dolo-
-tar^  cammoe,  ocus  asbert  in  ben  arnatuinsed^  nech  di'ib^*^  a^^
+63.  Gabais  eulchaire^  fer^  n-diib^  .i.  Nechtan  mac  Coilbrain.*  Aitched  ^  a  chenel  fri  Bran  aratiasad "  leis  dochom
+n-;^renn.  Asbert  in  ben  robad  aithrech  ind  faboll.^  Dolotar^  cammoe,  ocus  asbert  in  ben  arnatuinsed^  nech  di'ib^*^  a^^
 tir  ocus  arataidlitis  leiP^'  in  fer  fodnacaibset^^  i  n-Inis  Subai^*
 tar  essi  ^^  a  cheli.
 
@@ -2118,8 +2058,7 @@ Coldbrain  B  Al(a)bruind  Z.  ^  atchid  U.  «  tia  U  tisa  E  i\?,cd  S.
 7  infaboll  C//aball  B  faball  RSEL  fabuld  H.  »  dalotar  U.  "  tuidced
 H  tuinsi  E  tuised  S.  i"  dib  MSS.  "  i  HE.  ^^  gm.  H.  "  fonacobsat
 Z  furfacaibset  RBSEH,  ^^  namell  U  no  na  mcll  add.  RBI!  inis
-nainc  Z.  ■"  eis  .S".  ^®  r(7;matornachtatar  R  t-^wtornachtatar  C/conat-
-trochtador  S  conatornacadur  B  ftJwtotorrachtatar  H.  ^'  Briuin  S.
+nainc  Z.  ■"  eis  .S".  ^®  r(7;matornachtatar  R  t-^wtornachtatar  C/conattrochtador  S  conatornacadur  B  ftJwtotorrachtatar  H.  ^'  Briuin  S.
 ^  iarmofuchtatar  U  iarmofoachtatar  //  som  add.  RBH.  •"  cidh  E.
 «>  sic  R  dolluid  U  doluid  S.  -i  in  RUBS  HE  iarsin  Z.  "  asber
 RBE  ispir  H.  ^  Bran  UL.  "^  orsc  U  om.  R.  "^  beram  U.
@@ -2202,8 +2141,7 @@ ib.,  isin.     Most  of  the  MSS.  leave  out  this  Old  Irish  form,
 ib.,  cachain.     None  of  the  MSS.  have  preserved  the  Old  Irish  form
 cechuin.
 
-3.  This  quatrain  is  composed  in  the  metre  called  rannaigecht  cethar-
-chubaid  recomarcack  (Thurneysen,  Mittelir,  Verslehren,  p.  143).
+3.  This  quatrain  is  composed  in  the  metre  called  rannaigecht  cetharchubaid  recomarcack  (Thurneysen,  Mittelir,  Verslehren,  p.  143).
 There  is  internal  assonance  in  Emain :  samail,  fora  :  glano.
 
 ib.,  abaill.  It  is  possible  that  abaild  is  the  older  form  ;  at  least  this
@@ -2219,8 +2157,6 @@ as  if  it  were  the  nom.  plur.  oiglan,  '  pure.'
 
 4.  This  and  all  the  following  quatrains  are  composed  in  various
 kinds  of  debide.     There  are  two  examples  of  debide  garit  in  34,  35  ;
-
-36
 
 
 NOTES  37
@@ -2271,8 +2207,6 @@ tri  bile  do  chorcorglain,
 dia  n-gair  in  inlaith  biian  bldith
 don  macraid assin  rigrdith.'
 
-
-38  THE    VOYAGE   OF    BRAN
 
 8.  datho.  Here,  and  in  13,  ^5  alone  preserves  this  old  form  of  the
 gen.  sg.  of  the  u-stem  dath.
@@ -2346,8 +2280,7 @@ more  melodious  than  the  stone  of  Loch  Ldig.'
 19.  besti.  This  form  occurs  twice  in  the  Wiirzburg  glosses,  6  b,  23  :
 bisu  dagdziine,  '  who  may  be  a  good  man,'  ib.  24  :  bcsu  maith.  It
 should  be  compared  with  ccsii,  '  although  it  be,'  and  seems  to  be  made
-up  of  the  3rd  pars.  sing,  injunctive  of  dlu,  with  an  unexplained  pro-
-nominal sufiix  -st(.
+up  of  the  3rd  pars.  sing,  injunctive  of  dlu,  with  an  unexplained  pronominal sufiix  -st(.
 
 20.  esnach,  if  I  read  rightly,  may  be  cognate  with  esnad,  '  music,
 song,'  which  is  sometimes  used  of  the  notes  or  cries  of  animals,  as,
@@ -2383,8 +2316,6 @@ ni  lenand  do  sithlongaib.'
 
 ib.,  nogigned  mac  tiad.     Sec  Compert  Mongdin,  printed  infra,  p.  42.
 
-
-40  THE    VOYAGE    OF   BRAN
 
 35.  cennderga.  L  reads  cen  terca,  a  good  example  of  the  wilful
 alterations  of  this  version.
@@ -2489,9 +2420,6 @@ excess.  Perhaps  dorat,  '  who  gave,'  is  a  better  reading  than  dobir,  
 gives.'
 
 
-APPENDIX
-
-
 Compert  Mongain.^
 
 B6i  Fiachnje  Lurga  athair  Mong^in,  bo  hoenri  in  choicid.^
@@ -2523,26 +2451,18 @@ UHh  Weth  E.  ^^  dolluid  H  luid  h.  i*^  araile  fear  h.  ^^  inadaun
 arumnai  h.  ^^  fria  HhE.  ^^  hiresa  H  airm  hiressa  aspect  frie  N.
 20  bein  N.  "^  diwgna  E.  -  bad  N  bud  h.  "^  sa  H  som  NE.
 ^  fria  HEh.  ^^  diwgna  E.  -•'  matcetha  E.  ^'^  buddecmaing  N
-budecmai;?g  Hh  budecmaic  E.  ^^  sic  U  cobair  cet.  '^'^  do  HE.  ^"^  co-
-mar/^/a  E  caumar/ii"  h.  ^^  som  E  sa  UH.  ^^  dogne  E  done  h  dogen
+budecmai;?g  Hh  budecmaic  E.  ^^  sic  U  cobair  cet.  '^'^  do  HE.  ^"^  comar/^/a  E  caumar/ii"  h.  ^^  som  E  sa  UH.  ^^  dogne  E  done  h  dogen
 H  dagni  UN.     '^^  da.no  h.
 
 
-42
-
-
-APPENDIX  43
-
-i  n-guais  mdir.^  Tucad  fer  uathmar  ar  a  chend^  nad  forsa-
-batar,3  ocus  atbela  leis.  Di'a  n-dernam*  mM  tu''  caratrad,
+i  n-guais  mdir.^  Tucad  fer  uathmar  ar  a  chend^  nad  forsabatar,3  ocus  atbela  leis.  Di'a  n-dernam*  mM  tu''  caratrad,
 berae  mac  n-de."^  Bid  amre  in  mac  sin/  bid  Mongan^  dano.*^
 Rega-sa  ^'^  dun  chath  firfidir  ^^  imbarach  ^^  im  theirt,  ara
 n-iccub-sa,  ocus  fes-sa  ^^  in  milid  ^*  ar  belaib  fer  n-Alban.  Ocus  5
 atber^^  frit'  cheli-siu  ar  n-imthechta/'' ocus  as  tussu  romfoidi^^
 dia  chobair.'
 
-Dognith^^  samlaid.^''  Intan  reras^"  in  oath  diarailiu,  co  n-
-accatar  ni  int  sluaig,  in  fer  sainigthe  ar  beolo  catho-^  Aeddin
+Dognith^^  samlaid.^''  Intan  reras^"  in  oath  diarailiu,  co  naccatar  ni  int  sluaig,  in  fer  sainigthe  ar  beolo  catho-^  Aeddin
 ocus  Fiachnai.  DoUuid  dochum  Fiachnai  intsainredach,  ocus  lo
 asbert  friss  accaldaim  --  a  mnd  al-la  riam,  ocus  donindgell  dia
 chobair  isind  liair  sin.  Luid  larom  resin  cath  dochum  alaili,
@@ -2553,8 +2473,7 @@ Ocus  dointoi-"  Fi'achna  dia  chrich,  ocus  bci  torrach  in  ben  15
 ocus  bert  mac  .i.  Mong^n  mac  Fiachnai.  Ocus  atlugestar^''  a
 cele-^  a  n-dogeni  friss,  ocus  adddmir  si  a  imthechta  uli.  Conid
 mac  do  Mananndn-'^  mac  Lir  inti  Mongdn,  cesu  Mongdn  mac
-Fiachnai  dogarar^^  de.  Ar^^  fordcaib-*^  rand  lia  mathair  al-
-lude uadi  matin,  a  n-asbert :  ^^  20
+Fiachnai  dogarar^^  de.  Ar^^  fordcaib-*^  rand  lia  mathair  allude uadi  matin,  a  n-asbert :  ^^  20
 '  Tfag  duni'  daim,
 
 dosfil^  in  matin  m-binglain  :35
@@ -2578,12 +2497,6 @@ facaib  h.  ^■'  anwjmp^rt  E.  *'  sic  h  dufail  U.  •"•  sic  NhE  ban
 dutatarlaid  //  dotairle  E  dodJuthairUd  N  dorutarlit  h.
 
 
-5
-
-
-44  THE    VOYAGE    OF    BRAN
-
-
 The  Conception  of  Mongan.
 
 Fiachna  Lurga,  the  father  of  Mongiln,  was  sole  king  of  the
@@ -2596,8 +2509,7 @@ Then  Fiachna  went  across.     He  left  his  queen  at  home.
 
 While  the  hosts  were  fighting  in  Scotland,  a  noble-looking
 
-lo  man  went  to  his  wife  in  his  stronghold  in  Rathmore  of  Moy-
-linny.  At  the  time  he  went  there  were  not  many  in  the  strong-
+lo  man  went  to  his  wife  in  his  stronghold  in  Rathmore  of  Moylinny.  At  the  time  he  went  there  were  not  many  in  the  strong-
 hold. He  asked  the  woman  to  arrange  a  place  of  meeting.
 The  woman  said  there  were  not  in  the  world  possessions  or
 treasures,  for  which  she  would  do  anything  to  disgrace  her  hus-
@@ -2630,8 +2542,6 @@ pronoun.
 ^  fes,  1st  sg.  of  the  s-fut.  oi  Jlchim,  Lat.  vinco.  Cf  fessaiter  .i.
 fichfitn,  LL.  188  b,  6.
 
-
-APPENDIX  45
 
 eyes  of  the  men  of  Scotland.    And  I  shall  tell  thy  husband  our
 adventures,  and  that  it  is  thou  that  hast  sent  me  to  his  help.'
@@ -2680,8 +2590,6 @@ col.  912  ;  £=Egcrlon  88,  fo.  15  b,  I.— No  heading  in  E.
 — sccl  om.  BH.     4  ri  dou  (!)  .£  ri  du  ( !)  B.
 
 
-46  THE    VOYAGE    OF    BRAN
-
 ForgoU  fili  a  dochum.  B6i  leis  for  cui^  ilar  Idnomnae  n-do,^
 Infeded  infill  seel  cacha aidche  do  Mong^n.  Basi^achomsose*
 a  m-both  samlaid  6  samuin  co  beltaine.  Sedit  ocus  bi'ad  h6
@@ -2690,8 +2598,7 @@ Mongdn.
 5  Imchomarchuir  Mongdn  a  filid  laa  n-and  ^  cia  haided  Fothaid
 Airgdig.  Asbert  ForgoU  goite  i  n-Dubthair  Lagen.  Asbert
 Mongan  ba  go.  Asbert  in  fili  nodndirfed  *' dia  d.ithgiud/ ocus
-no-serfad  a  athair  ocus  a  mathair  ocus  a  senathair,  ocus  do-
-chechnad  for  a  n-usciu  conndgebtha  fasc  ina  n*-inberaib.     Do-
+no-serfad  a  athair  ocus  a  mathair  ocus  a  senathair,  ocus  dochechnad  for  a  n-usciu  conndgebtha  fasc  ina  n*-inberaib.     Do-
 
 lo  chechnad  for  a  fedaib  conndtibertais  torad,  for  a  maige  comtis
 ambriti  chaidchi^  cacha  clainde.  Dofarcaid  ^^  Mongdn  a  reir
@@ -2716,16 +2623,13 @@ ndd  ^^  accai  ^^  a  cobair.^^    Asbert  Mongdn  '  nadbad  ^*  bronach,
 aithgeud  H  aithcheo  E.  ^  ina  UEB  iwn  H.  ^  sic  U  om.  cet.
 10  sic  BH  dofarraid  U  difarcaip  E.  "  ndo  BH.  ^^  of^^  bH.
 ^^  .  iii.  a  ( =  teora)  H.  ^^^  om.  H  coWcccd  tri  secht  cumala  E.  ^^  torcidh
-B  torcaid  Htairgid  E.  ^^  asennad  6''asendath  B  aseannad  H.  ^'^  asen-
-nad U  aseiidad  B  aseannad  ^asenna  E.  ^^  sic  UH {orsluiced B  iorsloice
+B  torcaid  Htairgid  E.  ^^  asennad  6''asendath  B  aseannad  H.  ^'^  asennad U  aseiidad  B  aseannad  ^asenna  E.  ^^  sic  UH {orsluiced B  iorsloice
 E.  -"^  addomir  B.  ^^  enech  U.  -^  imwbiressan  B  immaresin  E
 iwme  ressan  U  ime  resan  H.  -  gata  B  gadai  E.  "*  di  UH.  ^■i  fria
 UH.  2^  arnab  H  arnaba  B.  -"^  abean  B.  '^''  om.  B.  -^  nadwaim  H
 nadmuimb  B.  -^  ina  BH.  '^^  sic  E  anidnacul  UBH.  ^^  nach  B  na
 E.     ^'-  naccai  B  aicci  H  tan?V  E.     ^^  cobraid  B.     "^  nibo  B  nab  H.
 
-
-APPENDIX  47
 
 a  ben.      Asje^  fer  dothset  indossa  diar  cobair,^  adhaim^  a
 chossa  hi  Labrinni.'*
@@ -2741,10 +2645,8 @@ Femun  Muman,"  hi  n-Echuir,^^  hi  m-Berbi,-*  hi  Rurthig,  hi  m-
 Boind,  hi  Nith,  hi  Tuartheisc,-°  hi  Sndm  Aignech,  hi  Nid,2G  hi  lo
 Rig,  hi  n-Olarbi  ar  belaib  Rdtha  Mori.'
 
-Intan  dunndnic  adaig,  boi  Mongdn  inna  chetud  inna  rig-
-thig,2^  ocus  a  ben  for  a  deserud,-^  ossf^'*  bronach.  In  fiH
-GO  a  fuacru^**  for  a  n-ghnne^^  ocus  a  nadmand,  Trdth  m-
-bdtar  and,  adfogarar^'  fer  dun^^  raith  andess.  A  brat  hi  for-  15
+Intan  dunndnic  adaig,  boi  Mongdn  inna  chetud  inna  rigthig,2^  ocus  a  ben  for  a  deserud,-^  ossf^'*  bronach.  In  fiH
+GO  a  fuacru^**  for  a  n-ghnne^^  ocus  a  nadmand,  Trdth  mbdtar  and,  adfogarar^'  fer  dun^^  raith  andess.  A  brat  hi  for-  15
 cepuP^  immi,  ocus  dicheltir^''  inna  Liim  ndd  bii  erbecc.'-"
 DoHng^''  frissa^^  crand  sin^^  tama  teora  rdtha  co  m-boi'**'  for
 lit  liss,  di  sudiu  co  m-bdi  for  Idr  ind  rigthige,*i  di  sudiu  co
@@ -2769,20 +2671,16 @@ U.  '•^  rigthaig  UB.  ^'*  dcscrud  U  dciseruth  B  desrig  H.  -^  osi  UH
 "8  dudanic  d/donainaic  B  dundanic  //.     ''^  tathar  BH.     ■*"  sudivi  U.
 
 
-48  THE    VOYAGE   OF   BRAN
-
 bairt^  som  is  i  n-Dubthor  -  Lagen.  Asrubart-sa  ba^  go.
 Asbert  int  oclach  hi  go  dond*filid.  'Bid  aithlig.'^ol  Forgoll,
 'cille"  dano''  dum  ^ithgeod.'^  '  Ni  baa  son,'  ol  int  oclach.
 '  Proimfithir.  Bdmar-ni  lat-su,  la  Find,'  ol  int  oclach.  '  Adautt !'  ^
 5  ol  Mongdn,  'ni  maith  sin.'  '  Bdmar-ni  la  Find  tra,'  ol  se.
-'  Dulodmar  i"  di  ^^  Albje.  Immarnacmar  ^^  fri  Fothud  ^^  n-Airg-
-thech  hi  sund  accut  for  Ollorbi.^*  Fichimmir  ^^  scandal  i"  n-and.
+'  Dulodmar  i"  di  ^^  Albje.  Immarnacmar  ^^  fri  Fothud  ^^  n-Airgthech  hi  sund  accut  for  Ollorbi.^*  Fichimmir  ^^  scandal  i"  n-and.
 Fochart-so  erchor  fair  co  sech  ^'^  trit,  colluid  ^^  hi  talmain  friss
 anall  ocus  confacaib  ^^  a  iarnd  ^o  hi  ^^  talam.  I  ssed  a  n-dfcheltir  ^^
 lo  so  roboi  isin  gai  sin.  Fugebthar  in  moelchloch  dia  rolaus-sa^^  a-*
-roud  sin,^^  ocus  fogebthar  a  n-airiarnn  isin  talmain,-"  ocus  fogeb-
-thar  ulad^''  Fothaid  Airgthig  friss  anair  biuc.^s  Atd  comrar^^
+roud  sin,^^  ocus  fogebthar  a  n-airiarnn  isin  talmain,-"  ocus  fogebthar  ulad^''  Fothaid  Airgthig  friss  anair  biuc.^s  Atd  comrar^^
 chloche  imbi  and  hi  talmain.^*^  Ataat  a  di  foiP^  argit  ocus  a  di
 bunne  doat  ^^  ocus  a  muintorc  ^^  argit  for  a  chomrair.  Ocus  atd
 15  coirthe  oc  a  ulaid.^*  Ocus  atd  ogom  ^  isin  chind  fil  hi  talmain  ^^
@@ -2826,8 +2724,6 @@ aa'^.  ^  ba  he  do«o  inti  yiongan  .i.  Find  va.ac  Cnmaill  acht  na  leg
 
 fomdi  [j?V]  ^.
 
-
-APPENDIX  49
 
 A  Story  from  which  it  is  inferred  that  Mongan  was
 
@@ -2876,8 +2772,7 @@ D
 so  THE    VOYAGE    OF    BRAN
 
 woman  was  sorrowful.  The  tear  was  not  taken  from  her
-cheek.  Mongdn  told  her  not  to  be  sorrowful,  help  would  cer-
-tainly come  to  them.
+cheek.  Mongdn  told  her  not  to  be  sorrowful,  help  would  certainly come  to  them.
 
 So  it  came  to  the  third  day.     The  poet  began  to  enfoi'ce  his
 
@@ -2922,8 +2817,6 @@ English  name.
 ^  A  plain  in  the  present  barony  of  Iffa  and  Offa  East,  south  of
 Slievcnaman,  co.  Tipperary.
 
-
-APPENDIX  51
 
 Munster,in  the  Echuir,iin  the  Barrow, in  the  Lififey,-in  the  Boyne,
 in  the  Dee,^  in  the  Tuarthesc,*  in  Carhngford  Lough,  in  the  Nid,*
@@ -2970,8 +2863,6 @@ the  Greek  river-name  Ncda.
 *■  I  cannot  translatethis  passage.
 
 
-52  THE    VOYAGE    OF    BRAN
-
 through  him  and  went  into  the  earth  beyond  him  and  left  its
 iron  head  in  the  earth.  This  here  is  the  shaft  that  was  in  that
 spear.  The  bare  stone  from  which  I  made  that  cast  will  be
@@ -3016,8 +2907,6 @@ U  airchis  B  aircheisi  h  arcesi  H.  ^"  iarmu  Maggan  //.  ^^  fulu  h.
 ^^  adbur  Bh.     ^^  doa  B  ndu  h.     ^"^  iiuba  B  ambad  h.
 
 
-APPENDIX  53
-
 ocus  im-badi  maith  a  thairus,^  conidtindgelP  intamus*  d6,
 'Airg  didiu,'^  ol  Mongdn,  'conn's  Sith  Lethet  Oidni,  co  tucce
 liic  fil  dom-sa  and  ocus  dober^e''  pun  findairgit  duit  fadein,  hi
@@ -3057,8 +2946,6 @@ h.  30  sic  II n  dun  i/don  h.  3«  dobreth  h,  '^  nd6  //.  ^  sic  B  pi
 cet.  3"  asuidiu  adil.  h.  •*»  lethit  ////.  •"'  sic  BHIi  dob«-  U.  *•  sic
 B  in  pun  cet.     ••*  assudiu  BH.
 
-
-54  THE    VOYAGE    OF    BRAN
 
 Dolluid^  afrithisi^  dochum  Mongdin.^  Dobreth*  do  Mongdn
 a  liic^  ocus  a  or.  Berid-som"  a  airget,  Bitar'^  he®  sin  a
@@ -3106,8 +2993,6 @@ certain  metres  were  taught,  which  were  called  dniimmne  siiithe,
 ''  lit,  whether  his  journey  would  be  truthful  and  good.
 
 
-APPENDIX  55
-
 thou  reach  the  fairy  knoll  of  Lethet  Oidni,^  and  bring  a  precious
 stone  which  I  have  there,  and  for  thyself  take  a  pound  of
 white  silver,  in  which  are  twelve  ounces.  Thou  shalt  have
@@ -3126,8 +3011,7 @@ Granerit,  where  he  had  the  same  welcome.     He  went  to  the
 fairy  knoll  of  Lethet  Oidni,  where  again  he  found  another  couple.  1 5
 They  gave  great  welcome  to  a  man  of  Mongan's.    He  was  most
 hospitably  entertained,  as  on  the  other  nights.     There  was  a
-marvellous  chamber''  at  the  side  of  the  couple's  house.     Mon-
-gdn  had  told  him  that  he  should  ask  for  its  key.     He  did  so.^
+marvellous  chamber''  at  the  side  of  the  couple's  house.     Mongdn  had  told  him  that  he  should  ask  for  its  key.     He  did  so.^
 The  key  was  brought  to  him.     He  opens  it.     He  had  been  told  20
 not  to  take  anything  out  of  the  house  except  what  he  had  been
 sent  for.     He  does  so.     The  key  he  gave  back  to  the  couple  ;
@@ -3138,8 +3022,7 @@ sent  for.     He  does  so.     The  key  he  gave  back  to  the  couple  ;
 
 ^  Hi.  these  are  thy  journeys,  the  stages  of  thy  journey.
 
-*  'The  name  of  a  hill  situated  in  the  plain  of  Magh-Leamhna,  other-
-wise called  Clossach,  in  Tyrone,' O'Don.  F.M.,  A.D.  in,  note.  Cf.
+*  'The  name  of  a  hill  situated  in  the  plain  of  Magh-Leamhna,  otherwise called  Clossach,  in  Tyrone,' O'Don.  F.M.,  A.D.  in,  note.  Cf.
 Cnocc  Bane  la  Airgiallu,  LL.  24  a,  8.
 
 ^  Not  identified,  so  far  as  I  know  ;  but  see  Trip.  Life,  p.  311.
@@ -3155,8 +3038,6 @@ detached  house  of  one  chamber ;  here  it  is  a  treasure-house.
 •*  Lit.  it  was  done  so.
 
 
-56  THE    VOYAGE    OF    BRAN
-
 his  stone,  however,  and  his  pound  of  silver  he  took  with  him.
 Thereupon  he  went  to  the  stream  of  Lethet  Oidni,  out  of  which
 he  took  his  pound  of  gold.  He  went  back  to  Mong^n,  to  whom
@@ -3168,8 +3049,7 @@ IV
 
 Tucait  Baile  Mongain  ^  inso.^
 
-Eissistir^  ben  Mongdin*  i.  Findtigernd  do  Mong^n  ara  n-
-indissed  di  diuiti^  a  imthechta.  Gaid  side  di  mithisse  secht
+Eissistir^  ben  Mongdin*  i.  Findtigernd  do  Mong^n  ara  nindissed  di  diuiti^  a  imthechta.  Gaid  side  di  mithisse  secht
 m-bliadan.     Dognith.     Tanic  de  int  dge  hisin."     Biiddlmar''
 
 10  la  firu  Herend  i  n-Usniuch  Midi^  bliadain  eca  Ciar^in '^  maic
@@ -3184,8 +3064,7 @@ less  m-bilech  m-broinech  sainemail.  Tiagait  do,  conlotar
 isin  less.  Tiagait  isin  n-airecol  n-amrae^*  and.  Tonnach^^
 credumi  forsin  ^'^  taig.     Gren.-in  ^~  hoimind  for  a  senestrechaib.-^
 
-20  Marfessiur  deligthe  and.  Targud  amra  isin  taig  di  ^^  cholc-
-thechaib  ^^  ocus  brothrachaib  ocus  di  setaib  ingantaib.  Secht
+20  Marfessiur  deligthe  and.  Targud  amra  isin  taig  di  ^^  cholcthechaib  ^^  ocus  brothrachaib  ocus  di  setaib  ingantaib.  Secht
 taulchubi  de  fin  and.      Fertha  f^elte  fri  Mongdn^^  isin  taig.
 
 MSS  :  17.  — LU.  p.  134  b,  H—H.  2.  16,  col.  914,  Z?  =  Betham  145,  p.  67.
@@ -3194,21 +3073,16 @@ MSS  :  17.  — LU.  p.  134  b,  H—H.  2.  16,  col.  914,  Z?  =  Betham  1
 ^  diuit  t^diuidi^.  "  aigi  sin //"  aighe  hisein  i?.  ''  mor  Zf.  ^  Usnech
 Mide  B.  ^  Ciaran  U  oais  add.  HB.  ^»  do  ^^.  "  sic  B  batar  UH.
 12  in  sluaig  ZT.  ^^  Uisnech //j5.  "  «V  j5  tusfiiabart  f/ dosfuabairt  Z^.
-1^  casair  B.  ^®  si  HB.  ^"^  primglaise  B.  ^^  forfacaib  HB.  ^^  aen-
-froiss  B.  20  Eiriu  B.  21  sic  B  leth  UH.  22  hsenchaid  Cartide  B.
+1^  casair  B.  ^®  si  HB.  ^"^  primglaise  B.  ^^  forfacaib  HB.  ^^  aenfroiss  B.  20  Eiriu  B.  21  sic  B  leth  UH.  22  hsenchaid  Cartide  B.
 23  cowdfacatar  B.  -^  nambrai  nant  B.  -^  tondach  B  sonach  H.  ^s  isin
 B.  -''  grean  /^grean  B.  "^  senestrecha  t^senistrechnib  B.  ^9  do?^
 30  coilcthib  H.     ^^  Moggan  B.
 
 
-APPENDIX  57
-
-
 Anais  and.  Gabais^  mesce.  Is  and  didiu  cachain  Mongan^
 andsin  ^  in  m-Baili  don  mnai,  fobith  donningell  infessed  ni  di
 dia  imthechtaib.  Indar  leo  ni  bo  erchian  bdtar  *  isin  taig.^  Ni
-bo  aidbliu^  leo^  bith  oenadaig.^  Batir '^  and  immorro  blia-
-dain  Idin.  A  n-difochtrassatar^"  co  n-accatar^^  ba  hi  Raith  5
+bo  aidbliu^  leo^  bith  oenadaig.^  Batir '^  and  immorro  bliadain  Idin.  A  n-difochtrassatar^"  co  n-accatar^^  ba  hi  Raith  5
 Mor  Maige  Line  irrabatar.
 
 1  gapaidh  B.  ^  Mogga«  B.  ^  oni  B.  ^  batir  B.  =  and  H.
@@ -3232,8 +3106,7 @@ for  ever.  Mongan  with  seven  men  arose  and  went  from  the
 cairn  aside,  and  his  queen  and  his  shanachie  Cairthide,  son
 of  Marcdn.     Then  they  saw  something,  a  prominent  stronghold
 
-^  lit.  The  occasion  of  Mongan's  '  Frenzy '  this  here.  Baile  Mon-
-gdin  or  Mongan's  '  Frenzy  '  or  '  Vision  '  was  the  tille  of  a  tale  which  is
+^  lit.  The  occasion  of  Mongan's  '  Frenzy '  this  here.  Baile  Mongdin  or  Mongan's  '  Frenzy  '  or  '  Vision  '  was  the  tille  of  a  tale  which  is
 now  lost  ;  though  one  MS.  {H)  gives  this  title  to  the  present  tale.  As  to
 other  tales  called  Baile,  see  O'Curry,  MS.  Materials,  p.  3S5.
 
@@ -3247,8 +3120,6 @@ Bre6tigernd '  I<'lame-Lady.'
 
 A.D.  539  ( I''. M)-
 
-
-58  THE   VOYAGE    OF   BRAN
 
 with  a  frontage  of  ancient  trees.  They  go  to  it.  They  went
 into  the  enclosure.  They  go  into  a  marvellous  house  there.
@@ -3295,8 +3166,6 @@ bhoin  7  do  frith  enbd  Chaillighi  Duibhe  7    do  tairgeadh  bo
 1  f/ioirfea:^h.  ^  si  regh.  ^  cinegh.
 
 
-APPENDIX  59
-
 di  .i.  bd  gacha  coisi  7  nir'ghabh  an  chailleach  cor  aile  ach[t]
 coraigheacht  Fhiachna.  Ocus  is  1  sin  uair  7  aimsir  tancadur
 teachta  ar  cend  Fiachna  Find  mheic  Bseddin  7  tdinic  leisna
@@ -3312,8 +3181,7 @@ agum,  ar  an  chailleach.     Righ  Lochlann  ...  do  choraigeachta-
 
 sa  7  feall  arna  ceithribh  buaibh  do  gellad  damh-sa  (tar)  eis  mo
 bo.'  '  Dober-sa  ceithre  bd,  (p.  131'')  arason  duit,  a  chailleach,'
-ar  Fiachna.  Ocus  adubert  an  chailleach  na  gebhadh.  '  Dober-
-sa  fiche  ^  bo  arason,'  ar  Fiachna.  '  Ni  gebh,'  ar  an  chailleach.  15
+ar  Fiachna.  Ocus  adubert  an  chailleach  na  gebhadh.  '  Dobersa  fiche  ^  bo  arason,'  ar  Fiachna.  '  Ni  gebh,'  ar  an  chailleach.  15
 '  Dobcr-sa  ceithre /ic/nV  bo,'  ar  Fiachna,  '  fichi  '^  bo  arson  gacha
 bo  dar  .  .  .  ar  righ  Lochlann.  '  Is  briathar  dhamh-sa,'  ar  an
 chailleach,  '  (dia)  tuctha  a  fuil  do  bhuaibh  a  coig/^T  Uladh  .  .  .
@@ -3329,8 +3197,7 @@ doleigid  .  .  .  cdirigh   neimhe  a  phuball  righ  Lochlann  chuca
 
 7  do  thuit  fo  .  .  .  na  tri  chet  Idech  an  Id  sin  leisna  cdiribh  7  do
 thuit  tri  chet  Idech  an  dara  Id  7  tri  chet  Idech  an  tres  Id.  Fa
-doiligh  le  Fiachna  sin  7  adubert  :  '  As  triiagh  an  turus  tanca-
-mair-ne  do  marbad  ar  muindtire  dona  cdiribh.  Uair  dam(ad)  30
+doiligh  le  Fiachna  sin  7  adubert  :  '  As  triiagh  an  turus  tancamair-ne  do  marbad  ar  muindtire  dona  cdiribh.  Uair  dam(ad)  30
 a  cath  n6  a  comlann  do  thuitfidis  le  sl6g  Lochlann,  ni  budh
 aithmhela    linn     a    tuitim,    uair    do     digheoldais     fein    lad.
 
@@ -3346,8 +3213,7 @@ isin  comrac  risna  cairibh.'  '  Na  habair  sin,  a  righ,  ol  siat,  liair
 ni  cViOaidh  frit  dul  do  comrac  riu.'  '  Is  briathar  dam-sa,  ar
 Fiachna,  na  tuitfe  d'feraibh  Erenn  leo  nf  as  mo,  co  n-dechar-sa
 5  fein  'sa  comhrac  risna  cdiribh  7  mas  ann  do  cinded  damh-sa
-bas  d'  faghbhail,  do  gebh,  liair  ni  fetar  dul  seoch  an  cindeamh-
-ain,  7  munab  ann,  tuitfid  na  cdirig  learn.'
+bas  d'  faghbhail,  do  gebh,  liair  ni  fetar  dul  seoch  an  cindeamhain,  7  munab  ann,  tuitfid  na  cdirig  learn.'
 
 4.  Mar    do    bhadar    isin    imagallaim    sin,    do    chonncadar
 senoglach   mor  mileta  da  n-innsaighe.     Brat   uaine  aendatha
@@ -3418,8 +3284,7 @@ mairsin.  25
 
 7.  A  thaiglaithe  (?)  n-a;n  dia  roibhe  Mongdn  (p.  133a)  ...  a
 bhanchele  7  iat  ag  imeirt  fi[dh]chille,  co  facadar  cleirchin  ciar
-cirdubh  isin  ur(s)  aind  7  is  ed  adubert  :  '  Nf  thocht  budh  cubh-
-aidh'  (l)e  righ  Uladh  an  tocht  so  fil  fort,  a  Mongdin,  gan  dul
+cirdubh  isin  ur(s)  aind  7  is  ed  adubert  :  '  Nf  thocht  budh  cubhaidh'  (l)e  righ  Uladh  an  tocht  so  fil  fort,  a  Mongdin,  gan  dul
 do  dighailt  t'athar  ar  Fiachna  Dubh  mac  Demdin,  ach[t]  cidh  30
 olc  le  Duibh-Lacha  a  rddha  frit,  uair  atd  se  a  n-uatha^f  sliiaigh
 
@@ -3430,11 +3295,8 @@ Mong;in,  '  7  rachmait  leal.'     Ocus  dogni'ther  anihlaidh,  liair  ro
 ^  hinmhaigii.     -  baibdcgli.     -  biyli.     ^  cul)li;iigli.     ''  duiiatjli.
 
 
-62  THE   VOYAGE    OF   BRAN
-
 marbadh  Fiachna  Dubh  leo.  Ro  gabh  Mongan  rfghi  n-Uladh
-7  is  e  deirchin  do  bi  a[g]  denum  an  braith  .i.  Manannan  mor-
-chumachtach.
+7  is  e  deirchin  do  bi  a[g]  denum  an  braith  .i.  Manannan  morchumachtach.
 
 8.  Ocus  do  timsaighedh  maithi  Uladh  co  Mongdn  7  adubert^
 5    riu  :  '  Dob  ail  lem  dul  ^  d'iarraidh  ^  faigh[dh]e  ar  chuigeadh-
@@ -3445,8 +3307,7 @@ tclinic  roimhe  ar  coigidhaibh  Eirenn,  co  rainig  a  Laighnibh
 7  is  d  fa  righ  Laighen  an  tan  sin.i.  Brandubh  mac  Echach*
 
 10  7  ro  fer  firchain  failti  re  righ  Uladh  7  do  feisidar  an  adhaigh
-sin  isin  mbaile  7  mur  (do)  eirigh  arnamhairech  Mongdn  ad-
-choHnairc  na  (c)jBca[i]t  bo  find  oderg  7  laegh^  finn  fri  cois  gach
+sin  isin  mbaile  7  mur  (do)  eirigh  arnamhairech  Mongdn  adchoHnairc  na  (c)jBca[i]t  bo  find  oderg  7  laegh^  finn  fri  cois  gach
 (b)6  dibh  7  mar  as  taisce  adchonnairc,  grddhaighei-  fat  7  tuc
 righ  Laighen  aithne  fair  7  asbert  fris  :  '  Do  gradhaigh^j-  na  bc^i,
 
@@ -3478,8 +3339,6 @@ Duibhe-Lacha  thanac'
 ^  a.dnheri.     ^  dtil.     ^  iarraigh.      ■*  'Eih.ac/i.      °  lcv;dh.      •'  cubhaigh.
 '  iaraigh.      **  iaraigh.      ^  mhoigh.
 
-
-APPENDIX  63
 
 chiialus-sa  neach  romam  do  thabairt  a  mhna  amach.'  '  Cin  co
 cualais,'  ar  Dubh-Lacha,  'tabhair,  oir  is  buaine  bladh  'nd,
@@ -3523,19 +3382,15 @@ aderaid  sium   mo  beith  7   cos  ^  a  n-Eirind   damh   7  cos'-*  a
 ■^  drais'hibh.     "  cus.     ''  cos.
 
 
-64  THE    VOYAGE   OF    BRAN
-
 n-Albain  7  adera  san  cin  rabar-sa  mair  sin,  ni  bu  egail  lais
 fein  mhe.'
 
 13.  Ocus  do  ghkiaisidar  rompa  amlaidh  sin  (p.  134b)  7  is  1
 sin  uair  7  aimsir  ro  comorad  asn(ach)  Mhuige  Life  a  Laignib  7
 
-5  rancadar  co  Mach(aire)  Chille  Camain  a  Laighnibh  7  atchonn-
-cadar  nad  .  .  .  agha  sh'iag-h  7  sochraide  7  righ  Laighen  secha
+5  rancadar  co  Mach(aire)  Chille  Camain  a  Laighnibh  7  atchonncadar  nad  .  .  .  agha  sh'iag-h  7  sochraide  7  righ  Laighen  secha
 isin  asnach  7  do  aithnigheadar  e,  '  Triiagh  sin,  a  Mhic  an
-Daimh,  ol  Mongan,  '  as  olc  an  turus  tdngamar.'  Ocus  adconn-
-cadar  an  na^mhcleirech  seocha  .i.  Tibraide  sagart  Cille  Camdin
+Daimh,  ol  Mongan,  '  as  olc  an  turus  tdngamar.'  Ocus  adconncadar  an  na^mhcleirech  seocha  .i.  Tibraide  sagart  Cille  Camdin
 
 10  7  a  chethair  soisgela  ana  laim  fein  7  sceota  na  naidhbheagh
 ar  muin  cleirigh  re  chois  7  iat  a[g]  denamh  a  trd.th  7  ro  gab
@@ -3553,8 +3408,7 @@ Tibraide  sin  7  ro  gabh  ag  a  choisregadh.      '  Is  ann  so  rugad
 20  mh'athair-si  7  mo  senathair  7  ni  faca  riamh  abhann  ann  7  6
 tharla  an  abhann  ann,  as  greama  mur  tharrla  in  droichid  tairsi.
 Do  innsaighidar  an  droichid  7  mar  rd^ngadar  co  medon  an
-droichit,  tuitis  an  droichit  fuit[h]ib  7  gabhazj  Mongdn  an  soi-
-scela  a  laim  Tibraide  7  leigis  liadha  le  sruth  fad  7  fiarfaighz'j-  do
+droichit,  tuitis  an  droichit  fuit[h]ib  7  gabhazj  Mongdn  an  soiscela  a  laim  Tibraide  7  leigis  liadha  le  sruth  fad  7  fiarfaighz'j-  do
 
 25  Mhac  an  Daimh  an  m-baidhfedh  -  iat.  '  Baidhter  ^  on,'  ar  Mac
 an  Daimh.  'Ni  dingnum  itir,'  ol  Mongd,n,  'ocus  leicfemaid
@@ -3564,14 +3418,11 @@ dunadh.'
 15.  Delbha/j  Mongdn  e  fein  a  richt  (p.   135a)  Tibraide  7
 30  cuiris  Mac  an  Daimh  a  richt  an  cleirigh  7  coroin  mhor  ana
 
-chinn  7  sceota  nanaidhbeadh  ar  a  muin  7  tegaid  rompo  a  n-
-agaid  righ  Laighen  7  {evazs  failti  re  Tibraide  7  tic  poc  do  7  '  is
+chinn  7  sceota  nanaidhbeadh  ar  a  muin  7  tegaid  rompo  a  nagaid  righ  Laighen  7  {evazs  failti  re  Tibraide  7  tic  poc  do  7  '  is
 fada  6  nach  faca  tu,  a  Tibraide,'  ar  an  righ,  '  ocus  dena  soiscel
 
 ^  dhiaigh.       -  baighfedh.       ^  balght^r.
 
-
-APPENDIX  65
 
 diiind  7  innsaigh  romhaind  coruig  an  dunadh.  Ocus  eirgidh
 Ceibhin  Cochlach  gilla  mo  charbaid-si  let  7  atd  an  righan  ben
@@ -3587,8 +3438,7 @@ an    Daimh  :    '  Fagaidh  uili  an  tech,  co  n-dema  an  righan  a  10
 faisidin.'     Ocus  an  ben  breathiT:  no  dhalta  do  fobradh  tre  dh^-
 nacht  anadh^   ann.      Do  ladhadh*   Mac  an  Daimh  a  Mmha
 tairsi  7  docuiredh  amach  hi  7  aderedh  nach  biadh  ^  a  farradh
-na  righna  ach[t]  an  bean  tdinic  le  fein.     Ocus  dunat's  an  gria-
-n^  ana  n-diaidh  °  7  cu'm's  an  comhl,^  gloinidhe''  ris  7  osgla[i]s  15
+na  righna  ach[t]  an  bean  tdinic  le  fein.     Ocus  dunat's  an  grian^  ana  n-diaidh  °  7  cu'm's  an  comhl,^  gloinidhe''  ris  7  osgla[i]s  15
 a  fuindeog  glaine  (p.  135b)  7  tochhaz's  a  ben  fein  isin  leabaidh  *
 leis.     Ni  tusca  nd  rue   Mongan  Duibh-Lacha  leis   7  suidh/j
 Mongdn  ar  a  gualaind  7  toirbir/j-  teora  poc  di  7  beris  lais  annsa
@@ -3599,23 +3449,18 @@ do  leigistar  Mongdn  luathandl  drdidheachta  fuithi,  co  narbo
 Idir  di  ni  dha  facaigh  si  roimhe.     'Triiagh  sin,'  ar  an  chailleach
 'ni  ben  neam  dim,  a  naemcleirigh,  oir  is  ecoir  an  smiiaineadh^^
 dorind/i/.$-  7  gabh  aithrighe  uaim,  oir  taidhbhsi  breige  tadhbas  25
-damh  7  rogrddh  mo  dhalta  agum.'      '  Druit  chugam,  a  chail-
-leac/i,''  ar  Mongdn,  'ocus  dena   t'fuisidin  damh.'      Eirgis   an
+damh  7  rogrddh  mo  dhalta  agum.'      '  Druit  chugam,  a  chailleac/i,''  ar  Mongdn,  'ocus  dena   t'fuisidin  damh.'      Eirgis   an
 chailleach  7  delba/j  MongAn  bir  chuaille  isin  cathair  7  tuitis  an
-chailleach  uman  cuaille  co  fuair  bus.     '  Bennacht  fort,  a  Mhon-
-gdin,'  ar  an  righan,  'as  maith  tarda  diiind  an  chaWleac/i  do  30
+chailleach  uman  cuaille  co  fuair  bus.     '  Bennacht  fort,  a  Mhongdin,'  ar  an  righan,  'as  maith  tarda  diiind  an  chaWleac/i  do  30
 marbudh,  oir  do  inneosad  beith  mur  do  bh.-lmair.'
 
-17.  (p.  136a)  Ocus  do  chualadar  iar  sin  an  dorus  ag  a  bhiia-
-ladh  7  is  e  ro  bi  ann  Tibraide  7  tri  nonbhair  mara;n  ris.     *Ni
+17.  (p.  136a)  Ocus  do  chualadar  iar  sin  an  dorus  ag  a  bhiialadh  7  is  e  ro  bi  ann  Tibraide  7  tri  nonbhair  mara;n  ris.     *Ni
 
 '  aduljradair.     -  dunaigh.    '  anagh.     ^  iadhagh.     •'"'  bi.igh.     "  diaigh.
 '  gloinighe.     ''  Icabaigh.     '•'  Icabaigh.     ^'^  uigli.     "  simiaineagh.
 
 E
 
-
-66  THE    VOYAGE    OF    BRAN
 
 facamair  riamh '  ar  na  doirrseoraiclhe/  '  bliadhain  budli  lia
 Tibraide  'nan  bliadhain  so.  Tibraide  astigh  agaibh  7  Tibraide
@@ -3632,8 +3477,7 @@ rabhadar.     '  Mongdn,'  ar  si'at,  '  ar  toidhecht  a  richt  Tibraide
 tarthaigh  Tibraide  tempall  Cille  Camain  7  ni  deachaid  duine
 don  nonbhar  aile  gan  gortugud.
 
-18.  Ocus  tdinic  righ  Laighen  dia  thigh  7  do  im[th]igh  Mon-
-g^in  (p.  136b)  iar  sin  7  do  fiarfaig  righ  Laighen  :  '  Cait  a  fuil
+18.  Ocus  tdinic  righ  Laighen  dia  thigh  7  do  im[th]igh  Mong^in  (p.  136b)  iar  sin  7  do  fiarfaig  righ  Laighen  :  '  Cait  a  fuil
 
 15  Tibraide?'  ar  se.  'Ni  he  Tibraide  do  bi  ann,'  ar  an  inghean,
 'ach[t]  Mong^n,  oir  do  chloisfea-sa  e.'  'An  robhai-si  ag  Mongdn,
@@ -3664,8 +3508,6 @@ Ocus  dochuaidh^  mac  an  Doimh  do  gresadh  Mongdin.
 
 ^  sinsiubhail.  "^  ticfagh.  ''  dochuaigh.
 
-
-APPENDIX  67
 
 m-Bregh  7  do  suidh  ^  ar  gualaind  na  hingine  7  tucadh  fi[dh]chill
 ordhaidhe^  cuca  7  do  bhdtar  ag  a  himirt  7  do  k'ig  Dubh-
@@ -3709,8 +3551,6 @@ madra  mor  ar  nasc  aice  7  6  ag  lighe  cloch  an   mhuilind  7
 '^  iarfas.     "  biaigli.     "  {o\ghcac^L     '"  ainighlic«j,     "  impc.     '^  flegh.
 
 
-68  THE    VOYAGE    OF    BRAN
-
 chjnncadar  gerr^n  banmaircech  7  sensrathar^  fair  neoch  do
 bi  a[g]  tarrang  arbha  7  mhine  6  muilenn.
 
@@ -3744,8 +3584,7 @@ each  futha  7  tancatar  fon  samhail  sin  'cum  an  diinaid.^''
 25  Laighen  curbhe  Aedh  Alaind  mac  righ  Con[n]acht  7  a  ghilla  7
 
 a  ben  .i.  Ibheall  Gruadhsolus  ingin  ri[gh]  Muman  ar  ec[h]t«r
-7  ar  innarba  a  Con[n]achtaibh  ar  comairce  righ  Laighen  tanga-
-tar  7  nirbh  ail  leis  teacht  %Viagh  nd  sochraide  budh  mho.  Ocus
+7  ar  innarba  a  Con[n]achtaibh  ar  comairce  righ  Laighen  tangatar  7  nirbh  ail  leis  teacht  %Viagh  nd  sochraide  budh  mho.  Ocus
 dorinde  an  doirseoir^*  an  uirgill  7  tainic  an  ri  ana  n-aighzrt%  7
 30  ro  fer  fdilti  friu  7  do  gairm  ri  Laighen  mac  ri[gh]  Con[n]acht
 ar  a  ghi- alaind.     '  Ni  he  sin  as  bes  againd,'  ar  mac  ri[gh]  Con-
@@ -3756,8 +3595,6 @@ ar  a  ghi- alaind.     '  Ni  he  sin  as  bes  againd,'  ar  mac  ri[gh]  Con-
 11  doillfegh.     '-  di'mia.     ^^  be//i«d.     ^'*  condilbr<;caibh.     ^^  16dhm«^.
 ^^  diinaisj.         "  doirrseoiri        ^^  doirrseoir.
 
-
-APPENDIX  69
 
 [n]acht,  'acht  suidhe^  ar  slis  righ  don  dara  duine  is  ferr  sa
 bruidin  7  as  misi  at'  egTnais-[s]i  an  dara  duine  as  ferr  astigh
@@ -3780,11 +3617,9 @@ ar  Mongdn,  'mar  Ucfas  cugad,  abair-si  co  tiubhartha  fein
 aithne  ar  sedaibh  7  ar  mhainibh  ante  do  beradh  grddh  duit  7
 far  an  corn  ^  dohez'r  se  cugad  *  air.'
 
-26.  Ocus  tdinic  oclach  righ  Laighen  d[a]  agallaim  7  adu-
-bert :  '  Ac  so  corn  "  liasal  tucadh  cugad.'  '  Dobermais  aithne  20
+26.  Ocus  tdinic  oclach  righ  Laighen  d[a]  agallaim  7  adubert :  '  Ac  so  corn  "  liasal  tucadh  cugad.'  '  Dobermais  aithne  20
 ar  sctaibh  7  ar  mhdinibh  ante  doberadh  grddh  duind.'  Ocus
-adbert  ri  Laighen  risin  n-gilla  :  '  Tabair  mo  chorn "  di.'  Ad-
-bert  teaghlach  righ  Laighen  :  '  Nd  ta.hm'r  do  seoid  do  mndi
+adbert  ri  Laighen  risin  n-gilla  :  '  Tabair  mo  chorn "  di.'  Adbert  teaghlach  righ  Laighen  :  '  Nd  ta.hm'r  do  seoid  do  mndi
 maic  righ  Connacht.'  '  Dober,'  bhar  righ  Laighen, '  oir  ticfaidh ''
 an  ben  7  mo  seoit  chugam.'  Ocus  tarthaidh'*  Mac  an  Daim  25
 an  corn''  (p.  138b)  liaithi  7  gacha  fuair  do  setaibh  co  matain.
@@ -3803,8 +3638,6 @@ n-aire  ? '    'A  fuil  sibh  astigh  ort-sa,'  bhur  iat-sian.    'Is  aithnid
 '  chorn«.         '  ticfaigh.        ^  tarthaigh.        "  corn«.         ^^  aithnigh.
 
 
-70  THE    VOYAGE    OF    BRAN
-
 ddib-si  an  ben  so  ar  mo  ghiialainn-si  .i.  Dubh-Lacha  Ldimghel
 ingin  Fiachra  Duibh  meic  Demdin.  Rugus  ar  chairdis  gan
 era  liadha  hi  7  damadh  dil  ^  let-sa,  do  dhenaind  imlaid  riut.'
@@ -3818,8 +3651,7 @@ ddnmais  an  imlaidid,  muna  tucaind-si  na  poca  so.'     Ocus  do
 10  ghabhadar  ago  co  rabhadar  mesca  medharchain.
 
 28.  Ocus  do  eirigh  Mac  in  Daimh  7  adubert:  'As  mor  a
-ndire  gan  enduine  do  beradh  deoch  a  Idimh  meic  righ  Con-
-nacht.'  Ocus  mar  nar'  fregair  duine  e,  do  gabh  an  dd  each
+ndire  gan  enduine  do  beradh  deoch  a  Idimh  meic  righ  Connacht.'  Ocus  mar  nar'  fregair  duine  e,  do  gabh  an  dd  each
 as  ferr  do  bi  'sa  diinadh  7  do  chur  Mongdn  luas  gdithi  isna
 
 1 5  hecha  7  do  chur  Mongdn  Duibh-Lacha  ar  a  culaibh  7  do  chur
@@ -3849,10 +3681,7 @@ which  Eolgarg  Mor,  son  of  Magar,  was  at  that  time  king.
 There  he  found  great  respect  and  love  and  honour.     And  he
 
 
-APPENDIX  71
-
-was  not  long  there,  when  a  disease  seized  the  king  of  Loch-
-lann,  who  asked  of  his  leeches  and  physicians  what  would
+was  not  long  there,  when  a  disease  seized  the  king  of  Lochlann,  who  asked  of  his  leeches  and  physicians  what  would
 help  him.     And  they  told  him  there  was  in  the  world  nothing
 that   would   help   him,    save   a   red-eared   shining-white   cow,
 which  was  to  be  boiled  for  him.     And  the  people  of  Loch-  5
@@ -3878,8 +3707,7 @@ his  behalf,  O  hag,'  said  Fiachna.     But  the  hag  said  she  would
 not  take  them.     '  I  will  give  twenty  kine  on  his  behalf,'  said
 Fiachna.     '  I  shall  not  take  them,'  said  the  hag.     '  I  will  give  25
 four  times  twenty  kine,'  said  Fiachna,  '  twenty  kine  for  each
-cow.'      '  By  my  word,'  said  the  hag,  'if  all  the  kine  of  the  pro-
-vince of  Ulster  were  given  to  me,  I  should  not  take  them,  until
+cow.'      '  By  my  word,'  said  the  hag,  'if  all  the  kine  of  the  province of  Ulster  were  given  to  me,  I  should  not  take  them,  until
 thou  come  thyself  to  make  war  upon  the  king  of  Lochlann.
 As  I  have  come  to  thee  from  the  east,  so  do  thou  come  on  30
 a  journey  with  me.'
@@ -3890,8 +3718,6 @@ the  men  of  Lochlann.     And  they  were  three  days  a-gathering
 unto  the  battle.     And  combat  was  made  by  the  king  of  Loch-  35
 lann  on  the  men  of  Ireland.     And  three  hundred  warriors  fell
 
-
-72  THE    VOYAGE    OF    BRAN
 
 by  Fiachna  in  the  fight.  And  venomous  sheep  were  let  out  of
 the  king  of  Lochlann's  tent  against  them,  and  on  that  day
@@ -3914,8 +3740,7 @@ by  them,  till  I  myself  go  to  fight  against  the  sheep  ;  and  if  I
 impossible  to  avoid  fate ;  and  if  not,  the  sheep  will  fall  by
 me.'
 
-4.  As  they  were  thus  conversing,  they  saw  a  single  tall  war-
-like man  coming  towards  them.     He  wore  a  green  cloak  of  one
+4.  As  they  were  thus  conversing,  they  saw  a  single  tall  warlike man  coming  towards  them.     He  wore  a  green  cloak  of  one
 
 20  colour,  and  a  brooch  of  white  silver  in  the  cloak  over  his  breast,
 and  a  satin  shirt  next  his  white  skin.  A  circlet  of  gold  around
@@ -3939,8 +3764,6 @@ son  of  Fiachna  the  Fair.     And  I  shall  go  there  in  thy  shape,  so
 of  Ler,  and  thou  shalt  seize  the  kingship  of  Lochlann  and  of
 
 
-APPENDIX  73
-
 the  Saxons  and  Britons.'  Then  the  warrior  took  a  venomous
 hound  1  out  of  his  cloak,  and  a  chain  upon  it,  and  said  :  'By
 my  word,  not  a  single  sheep  shall  carry  its  head  from  her  to  the
@@ -3960,8 +3783,7 @@ bore  a  son.  Now  Fiachna  the  Fair  had  an  attendant,  whose  15
 name  was  An  Damh,  and  in  that  (same)  night  his  wife  brought
 forth  a  son,  and  they  were  christened  together,  and  the  son  of
 Fiachna  was  named  Mongan,  and  the  son  of  the  attendant  was
-named  Mac  an  Daimh.  And  there  was  another  warrior  reign-
-ing together  with  Fiachna  the  Fair,  to  wit  Fiachna  the  Black,  20
+named  Mac  an  Daimh.  And  there  was  another  warrior  reigning together  with  Fiachna  the  Fair,  to  wit  Fiachna  the  Black,  20
 son  of  Deman,-  who  lay  heavily  on  his  ^  rule.  And  to  him  in
 the  same  night  a  daughter  was  born,  to  whom  the  name  Dubh-
 Lacha  (Black  Duck)  White-hand  was  given,  and  Mongan  and
@@ -3983,8 +3805,6 @@ to   his   stronghold,   and   burnt   and   destroyed   it,   and    killed
 597  and  622.
 ^  i.e.  Fiachna  Finn's.
 
-
-74  THE    VOYAGE    OF    BRAN
 
 Fiachna  himself,  and  seized  the  kingship  of  Ulster  by  force.*
 And  all  the  men  of  Ulster  desired  Mongan  to  be  brought  to
@@ -4013,8 +3833,7 @@ for  Fiachna  the  Black  was  killed  by  them.*     Mongan  seized
 treason  was  Manannan  the  great  and  mighty.
 
 8.  And  the  nobles  of  Ulster  were  gathered  to  Mongan,  and
-he  said  to  them  :  '  I  desire  to  go  to  seek  boons  ^  from  the  pro-
-vincial kings  of  Ireland,  that  I  may  get  gold  and  silver  and
+he  said  to  them  :  '  I  desire  to  go  to  seek  boons  ^  from  the  provincial kings  of  Ireland,  that  I  may  get  gold  and  silver  and
 
 25  wealth  to  give  away.'  'That  is  a  good  plan,'  said  they.  And
 he  went  forth  into  the  provinces  of  Ireland,  until  he  came  to
@@ -4034,8 +3853,6 @@ of  Ard  Corainn.
 
 ^  faighdhc,  O.  Ix.foigde  ex  *fo-guide.
 
-
-APPENDIX  75
 
 mac  Echach.  And  he  gave  a  hearty  welcome  to  the  king  of
 Ulster,  and  they  slept  that  night  in  the  place,  and  when
@@ -4077,8 +3894,6 @@ sake,  except  I  had  already  given  love  to  thee  ?   And  by  my  word  !
 I  shall  not  go  with  thee  until  thou  grant  me  the  sentence  of  my  35
 own  lips.'     'What  is  the  sentence?'  said  the  king  of  Leinster.
 
-
-76  THE    VOYAGE    OF    BRAN
 
 '  Thy  word  to  fulfil  it ! '  saith  she.  The  king  of  Leinster  gave
 his  word,  with  the  exception  of  his  being  left  .  .  .^  '  Then,
@@ -4126,8 +3941,6 @@ I  may  go  with  thee  on  thy  back  ;  for  the  king  of  Leinster  will
 ^  gualaigh,  perhaps  from  giiala,  a  shoulder-basket  ?
 
 
-APPENDIX  77
-
 ask  of  his  wizards  news  of  me,  and  they  will  say  that  I  am
 with  one  foot  in  Ireland,  and  with  the  other  in  Scotland,  and
 he  will  say  that  as  long  as  I  am  like  that  he  need  not  fear  me.'
@@ -4171,8 +3984,6 @@ gave  Mac  an   Daimh  the  shape   of  the  cleric,  with  a  large
 ^  I  cannot  translate  sceola  na  n-aidhbhea^h  or  aidhbhcoiih.
 ."^  i.e.  Tibraide  and  his  attendant.
 
-
-78  THE    VOYAGE    OF    BRAN
 
 tonsure  on  his  head,  and  the  ...  on  his  back.  And  they
 go  onward  before  the  king  of  Leinster,  who  welcomed  Tibraide
@@ -4218,8 +4029,6 @@ hag  arose,  and  Mongan  shaped  a  sharp  spike  in  the  chair,
 35  and  the  hag  fell  upon  the  spike,  and  found  death.  'A  blessing
 on  thee,  O  Mongan,'  said  the  queen,  '  it  is  a  good  thing  for  us
 
-
-APPENDIX  79
 
 to  have  killed  the  woman,  for  she  would  have  told  what  we
 have  done.'
@@ -4330,8 +4139,7 @@ shape  shall  we  go  ?'     And  as  they  were  there,  they  see  the  hag
 of  the  mill,  to  wit,  Cuimne.     And  she  was  a  hag  as  tall  as  a  lo
 weaver's  beam,-  and  a  large  chain-dog  with  her  licking  the
 mill-stones,  with  a  twisted  rope  around  his  neck,  and  Brothar
-was  his  name.     And  they  saw  a  hack  mare  with  an  old  pack-
-saddle  upon  her,  carrying  corn  and  flour  from  the  mill.
+was  his  name.     And  they  saw  a  hack  mare  with  an  old  packsaddle  upon  her,  carrying  corn  and  flour  from  the  mill.
 
 23.  And  when  Mongan  saw  them,  he  said  to  Mac  an  Daimh  :  15
 'I  have  the  shape  in  which  we  will  go,'  said  he,  'and  if  I  am
@@ -4346,8 +4154,7 @@ he  laughed  and  said  to  her  :  '  If  thou  wouldst  take  my  advice,
 I  would  put  thee  into  the  shape  of  a  young  girl,  and  thou
 shouldst  be  as  a  wife  with  me  or  with  the  King  of  Leinster.'    '  I  25
 will  do  that  certainly,'  said  Cuimne.     And  with  the  magic  wand
-he  gave  a  stroke  to  the  dog,  which  became  a  sleek  white  lap-
-dog,  the   fairest  that  was  in   the  world,  with  a  silver  chain
+he  gave  a  stroke  to  the  dog,  which  became  a  sleek  white  lapdog,  the   fairest  that  was  in   the  world,  with  a  silver  chain
 around  its  neck  and  a  little  bell  of  gold  on  it,  so  that  it^  would
 have  fitted  into  the  palm  of  a  man.     And  he  gave  a  stroke  to  30
 the  hag,  who  became  a  young  girl,  the  fairest  of  form  and  make
@@ -4361,8 +4168,6 @@ ofthe  daughters  oftheworld,to  wit,  Ibhell  of  the  Shining  Cheeks,
 
 F
 
-
-82  THE   VOYAGE    OF    BRAN
 
 daughter  of  the  king  of  Munster.  And  he  himself  assumed  the
 shape  of  Aedh,  son  of  the  king  of  Connaught,  and  Mac  an
@@ -4382,8 +4187,7 @@ king  of  Leinster,  and  he  did  not  wish  to  come  with  a  greater
 host  or  multitude.     And  the  door-keeper  made  the  announce-
 
 15  ment,  and  the  king  came  to  meet  them,  and  welcomed  them.
-And  the  king  of  Leinster  called  the  son  of  the  king  of  Con-
-naught to  his  shoulder.  '  That  is  not  the  custom  with  us,'  said
+And  the  king  of  Leinster  called  the  son  of  the  king  of  Connaught to  his  shoulder.  '  That  is  not  the  custom  with  us,'  said
 the  son  of  the  king  of  Connaught,  '  but  that  he  should  sit  by  the
 side  of  the  king  who  is  the  second  best  man  in  the  palace,  and
 
@@ -4409,13 +4213,10 @@ thou  wouldst  not  be  with  a  worse  man  than  myself  or  the  king
 ^  Instead  of  blicht  I  read  bricht.
 
 
-APPENDIX  83
-
 of  Leinster.'  '  I  have  no  choice^  of  bridegroom,  whichever  of  you
 will  be  husband  to  me.'  '  If  that  be  so,'  said  Mongan,  '  when  he
 comes  to  thee,  say  that  by  his  gifts  and  precious  things  thou
-wilt  know  him  who  loves  thee,  and  ask  him  for  the  drinking-
-horn  which  he  brings  thee.'  5
+wilt  know  him  who  loves  thee,  and  ask  him  for  the  drinkinghorn  which  he  brings  thee.'  5
 
 26.  And  the  king  of  Leinster's  attendant  came  to  converse
 with  her,  and  said  :  '  Here  is  a  noble  horn  brought  to  thee.'
@@ -4498,8 +4299,6 @@ FM.  ^  dogena  T  dogenait  Chr  dogensat  FM.  ^  amnus  T  namnus
 Chr  FM.    "  muirfidh  7'mairbfid  Chr  mairfit  FM.
 
 
-APPENDIX  85
-
 Land  Chliiana  Airthir  indfu,
 amra  in  cethrar  forsrfadad :
 Cormac  Cdem  fri  imfochid,i
@@ -4545,12 +4344,9 @@ From  Tonn  Clidna  of  even  length  25
 The  ...  is  winding
 To  the  beautiful  strand  of  Eothaile.'
 
-Quoted  as  an  example  of  the  metre  called  Casbairdne  seise-
-dach  (scdradhach).  Tonn  Clidna  (Toun  Cleena)  is  a  loud  surge
+Quoted  as  an  example  of  the  metre  called  Casbairdne  seisedach  (scdradhach).  Tonn  Clidna  (Toun  Cleena)  is  a  loud  surge
 in  the  bay  of  Glandore,  co.  Cork.      See  its  dinnshenchas,  Rev.  30
 
-
-86  THE  VOYAGE   OF   BRAN
 
 Celt.  XV.  p.  437.     Tracht  Eothaili  (Trawohelly)  is  on  the  coast
 of  Sligo.
@@ -4612,8 +4408,6 @@ translate  as  I  have  done,  and  refer  the  a  '  his '  to  Mongiin.
 by-name  Ldimhghel,  p.  61,  10  above.
 
 
-APPENDIX  87
-
 X
 
 From  Ms.  Laud  615,  p.  21.
@@ -4667,8 +4461,6 @@ Under  Colum  Cille's  cowl."
 *  On  Lough  Foyle.
 
 
-88  THE   VOYAGE   OF  BRAN
-
 From  Ms.  Laud  615,  p.  18.
 Mongan  cecinit  do  Colum  Cille.
 
@@ -4710,9 +4502,6 @@ gu  Carraig  Eolairg  gan  mebail,
 cu  bord  Locha  Febail  fein.
 
 
-1
-
-
 This  na  is  superfluous  ;  it  spoils  the  metre.
 
 
@@ -4725,8 +4514,6 @@ folt  cass,  suil  glas  chaindelta.'
 
 ^  Read  reil.
 
-
-APPENDIX  89
 
 Loch  Febail  fial  nocho  mlbladh
 ag  dilad  aidhed'^  o  N6i\\.
@@ -4788,8 +4575,6 @@ in  Fclire  Oengusso,  p.  ci,  and  in  Goidclica,  p.  163.  Instead  of  cJic
 Hchet  die  read  c6ic  dt  dc'ac.  Diac  having  become  a  monosyllabic,  cit
 was  changed  'rnXofichet  to  make  up  the  seven  syllables.
 
-
-90  THE    VOYAGE    OF    BRAN
 
 As  the  Sou  of  God  directed  me  prosperously,
 From  my  own  land  I  have  come  yesterday
@@ -4907,12 +4692,6 @@ bAth  world,     gen.   bdtha  6.     maithi
 uli   du  dib  bdthaib  (rhymes  with
 
 
-92
-
-
-THE   VOYAGE   OF   BRAN
-
-
 rdthaib),  Book  of  Fenagh,  p.  i6o,
 
 26.     Cf.  Bezzenb.  Beitr.  xix.  52.
@@ -4945,8 +4724,7 @@ br6u  29.
 brot-chii  a  snappish,  bititig  hound.
 60,  25.  cu  issidhe  tugadh  tar
 muir  .i.  brodchu  garbh  gruamdha
-tugadh  a  hEspain  7  ara  macgnimh-
-arthaibh  do  mharbh  Ciiculainn  f,
+tugadh  a  hEspain  7  ara  macgnimharthaibh  do  mharbh  Ciiculainn  f,
 H.  3.  18,  p.  593,  col.  2.  Cf.  W.
 brathgi,  Corn.  braihkygX.  molossns.
 
@@ -4971,12 +4749,10 @@ cdine  f.  beauty.  11.  14.  33.
 cairnech     m.     priest.    65,    6.       For
 
 
-of  an    equal   age,    co-
-dat.    pi.   comdisib  32.
+of  an    equal   age,    codat.    pi.   comdisib  32.
 
 
-coirnech  ionsuredl    Or  is  it  Cair-
-nech Cor/iishtnanl
+coirnech  ionsuredl    Or  is  it  Cairnech Cor/iishtnanl
 
 cammag  however.  63.  cammai  LU.
 23b,  6.     camai  Wb.  3d,  8.
@@ -5038,22 +4814,17 @@ daim.  43,  21.     See  note  on  p.  45.
 GLOSSARY
 
 
-93
-
-
 deligthe  distinguished,  conspicuo7is.
 42,  8.  56,  20.     Salt.  41 12.
 
 d^nta  cultivated  (of  land).  9.
 
 denus  f.  lit.  the  space  of  day  ;  a  short
-■while.  Salt.  Index.  denus  m-
-beicc,  Wb.  24d,  26.  denass  taid-
+■while.  Salt.  Index.  denus  mbeicc,  Wb.  24d,  26.  denass  taid-
 slantai,  Tochm.  Em.  142  (Rev.
 Celt.  XI.,  p.  452).     gen.  densa  50.
 
-deserad  the  right  hand.  dat.  de-
-serud  47,  13.
+deserad  the  right  hand.  dat.  deserud  47,  13.
 
 diallait  saddle.  68,  21.
 
@@ -5069,20 +4840,17 @@ Stokes,  Lives,  4543.  Diiiidi  ingen
 Sldncridi,  Rawl.  B.  512,  fo.  112b,  2.
 
 Ao-f^mmx  {\)  I  throw,  dochuirethar
-62.  (2)  /  throw  myself,  I  leap,  do-
-churethar  65.  See  Strachan,  De-
+62.  (2)  /  throw  myself,  I  leap,  dochurethar  65.  See  Strachan,  De-
 ponent, p.  8,  n.  2 ;  p.  48,  n.  1  ;  p.
 96.
 
-do-fedaim  /  bring,  dofed  3.  Cf.  im-
-fedaim  circumfero.  Wind.
+do-fedaim  /  bring,  dofed  3.  Cf.  imfedaim  circumfero.  Wind.
 
 do-feith  -will  come.  16.  17.  20.  21.
 See  note  on  p.  38.
 
 do-fil  (with  ace.)  comes,  approaches.
-dosfil,  with  proleptic  infixed  pro-
-noun referring  to  subject ;  43,  21.
+dosfil,  with  proleptic  infixed  pronoun referring  to  subject ;  43,  21.
 84.  22.
 
 do-snigim  /  shower,  drop,  dosnig
@@ -5100,8 +4868,7 @@ trythyll.
 
 dubhartus  a  saying.     61,  33.
 
-duis  f.  treasure,  nom.  pi.  diissi  pre-
-cious things.  13.  diisi  ili  drda  airg-
+duis  f.  treasure,  nom.  pi.  diissi  precious things.  13.  diisi  ili  drda  airg-
 dide,  LL.  346b.  a  n-6rduse,  LL.
 54a.  di  6rduisib,  Tochm.  Em.  14
 (Rev.  Celt.  xi.  p.  442).  co  n-diiisib
@@ -5146,19 +4913,12 @@ cossna  trfch6iced  aili,  LU.  55a,  4.
 (5-tol  unwill.  dat.  (ituil  27.  dtoil,
 Goid.  p.  182.
 
-(5ul-chaire  f.  love  of  home,  homesick-
-ness. 63.     See  note  on  p.  41.
+(5ul-chaire  f.  love  of  home,  homesickness. 63.     See  note  on  p.  41.
 
 
 fdboll  a  going,  journey ;  time,  63.
 fabhall  .i.  feacht  n6  siubhal,  O'Cl.
 roldsat  uili  i  n-ocnfabhull  a  slega
-
-
-94
-
-
-THE   VOYAGE   OF   BRAN
 
 
 fair,  Cath  Catharda.  i  n-oenfecht  7
@@ -5287,16 +5047,12 @@ Cone.  10.
 GLOSSARY
 
 
-95
-
-
 indrad  ridge.  ace.  pi.  indrada  42.
 See  Wind.  s.v.  indra[d].
 
 in-dron  infirm.  23.
 
-ind-ross  a  large  forest,  gen.  (loca-
-tive ?)  indroiss  53.
+ind-ross  a  large  forest,  gen.  (locative ?)  indroiss  53.
 
 in-fiadaim  /  relate,  inf^ded  46,  2.
 infessed  57,  2.
@@ -5308,8 +5064,7 @@ in-siubail  able  to  go.  66,  26.
 intamus?  53,  1.
 
 ires  meeting.  gen.  iressa  42,  10.
-dobai  hires  (.  i.  comdal)  leis  do  Gal-
-laib,  Tochm.  Em.  luid  dochum  a
+dobai  hires  (.  i.  comdal)  leis  do  Gallaib,  Tochm.  Em.  luid  dochum  a
 irisi  do  Gallaib,  ib.  i  nherus  inalta,
 LL.  58a,  33.  i  n-airis  dala,  LU.
 75a,  15.  i  n-airius  ddla,  LU.  124b,
@@ -5358,8 +5113,7 @@ nfth  so,  LU.  74a,  37.
 6igidecht  hospitality.  53,  15.
 
 6in-grinde  13.  See  note  on  p.  8,  and
-cf.  Windisch  s.v.  grinne  (i).  cet-
-grinnce  gl.  nectar,  KZ.  33,  p.  70.
+cf.  Windisch  s.v.  grinne  (i).  cetgrinnce  gl.  nectar,  KZ.  33,  p.  70.
 rocaithfed  sum  c6tghrinne  a  fergi,
 '  he  would  expend  the  first  paroxysm
 of  his  rage,'  Battle  of  Magh  Rath,
@@ -5398,14 +5152,7 @@ ior  mndi  cain  ccn  mcirg  cen  mairg.'
 H.  3.  18,  p.  468.
 
 taeb-trom  big-bellied.  61,  3.
-taircim  I  cofne.     taircet  14.     Cf.  tair-
-gcdh  .1.     teacht  a  coming  onward,
-
-
-96
-
-
-THE   VOYAGE   OF   BRAN
+taircim  I  cofne.     taircet  14.     Cf.  tairgcdh  .1.     teacht  a  coming  onward,
 
 
 p.  OC.     taircitis,  Rev.  Celt.  xvi.
@@ -5437,9 +5184,6 @@ trisse  a  space  of  three  days.  46,  15.
 -tuinsed?  63.
 
 
-7
-
-
 ualann  15.     See  note  on  p.  38.
 uirgill  speech,  utterance.  68,  29.     Silva
 
@@ -5459,8 +5203,7 @@ P^/
 INDEX    OF    PERSONS
 
 
-Aed  Alaind,  son  of  the  King  of  Con-
-naught,  68,  19.  25.
+Aed  Alaind,  son  of  the  King  of  Connaught,  68,  19.  25.
 
 Aeddn  mac  Gabrain,  King  of  •  the
 Scotch  Dalriada ;  42,  3.  4.  6.
@@ -5549,12 +5292,6 @@ Fothad  Airgdcch ;  45,  29.  46,  5.  47,
 22.  48,  6.  12=  Eochaid  Airgthech,
 
 48,  16.
-
-
-98
-
-
-THE   VOYAGE   OF   BRAN
 
 
 Ibhell  Griiadsolus,   daughter  of   the
@@ -5843,8 +5580,7 @@ appropriateness  in  this  dedication.  Both  were  impassioned
 lovers  of  Gaelic  lore  and  letters ;  both  again  were  priests
 of  the  Christian  Church,  one  an  Anglican,  one  a  Roman.
 It  is  fitting  that  this  essay  to  trace  the  origin  and  record
-the  growth  of  conceptions,  partly  pagan,  partly  Chris-
-tian, the  preservation  of  which  is  so  largely  due  to  the
+the  growth  of  conceptions,  partly  pagan,  partly  Christian, the  preservation  of  which  is  so  largely  due  to  the
 tolerance  of  Irish  Christianity  and  to  the  love  of  its  ministers
 for  the  legendary  past  of  their  race,  should  be  hallowed  by
 the  names  of  men,  worthy  followers  of  the  cleric  scholars.
@@ -5944,8 +5680,7 @@ Scope  and  purport  of  the  investigation — Introductory  sketch  of  Irish
 history  as  presented  in  the  hteratui'e— Pre-Milesian,  Milesian  and
 Heroic  periods — Post-Heroic  pre-Christian  period— Introduction
 of  Christianity — Sixth  and  seventh  century  hterature — Viking
-period — Renaissance  of  Irish  hterature — MS.  tradition  and  hn-
-guistic  evidence  of  date — Christian  element  in  the  Heroic  sagas
+period — Renaissance  of  Irish  hterature — MS.  tradition  and  hnguistic  evidence  of  date — Christian  element  in  the  Heroic  sagas
 — Influence  of  the  Viking  period  upon  Irish  story-telling — Irish
 mythological  cycle — Critical  principles  to  be  followed,         .        .  115
 
@@ -5962,8 +5697,6 @@ Mongan   episode — Testimonia   to   Mongan — Discussion   of  the
 historical  evidence — Evidence  drawn  from  Latin  loan  words  in  the
 Irish  text — Summing  up  of  the  Happy  Otherworld  conception  as
 found  in  Bran's  Voyage,       ........  133
-
-110
 
 
 CONTENTS  III
@@ -5988,8 +5721,7 @@ CHAPTER   IV
 EARLY   ROMANTIC   USE   OF   THE   CONCEPTION   OF   THE
 HAPPY   OTHERWORLD
 
-The  imraina  or  Oversea  Voyage  literature — The  Navigatio  S.  Bren-
-dan!— The  Voyage  of  Maelduin — Professor  Zimmer's  views  con-
+The  imraina  or  Oversea  Voyage  literature — The  Navigatio  S.  Brendan!— The  Voyage  of  Maelduin — Professor  Zimmer's  views  con-
 cerning the  development  of  this  literature — The  points  of  contact
 between  Maelduin  and  Bran  :  {a)  the  wonderland  of  the  amorous
 queen  ;  {b')  the  island  of  imitation— Summary  of  these  episodes  in
@@ -6006,8 +5738,7 @@ AS   THE   god's    land
 The  wonderland  of  the  hollow  hill — The  home  of  the  Tuatha  de
 Danann — The  Tochmarc  Etaine,  or  Wooing  of  Etain,  summary
 of  story — The  relation  of  the  Hollow  Hill  to  the  Oversea  Elysium
-— Exposition  and  criticism  of  Professor  Zimmer's  views — Lae-
-gaire  mac  Crimthainn's  Visit  to  Faery,  summary  of  story,
+— Exposition  and  criticism  of  Professor  Zimmer's  views — Laegaire  mac  Crimthainn's  Visit  to  Faery,  summary  of  story,
 discussion  of  date,  modification  of  older  conceptions,  possible
 influence  of  Scandinavian  Walhalla 174
 
@@ -6042,8 +5773,7 @@ The  Echtra  Nerai  (Nera's  Expedition  into  the  Otherworld) — The
 Tain  b6  Regamna  (the  Raid  of  Regamna's  Kine) — Angus  of  the
 Brugh  and  the  Conquest  of  the  Sid.  The  dinnshcnchas  of
 Mag  m-Breg — The  dinnshcnchas  of  Sinann — The  dinnshcnchas
-of  Boann — The  dinnshcnchas  of  Loch  Carman— The  di?in-
-shcnchas  of  Sliab  Fuait — The  dinfishenchas  of  Findloch  Cera,      .  209
+of  Boann — The  dinnshcnchas  of  Loch  Carman— The  di?inshcnchas  of  Sliab  Fuait — The  dinfishenchas  of  Findloch  Cera,      .  209
 
 
 CHAPTER  VIII
@@ -6093,8 +5823,7 @@ Homer — Rohdc's  view  of  the  Homeric  Hades  and  of  the  development
 of  the  Elysium  conception  in  Greece  ;  ol>jections  thereto — Hesiod
 — Early  mythical  allusions — Pindar — The  Periclcan  age — Varying
 accounts  of  Elysium  as  outerworld  and  underworld — Romantic
-and  didactic  use  of  the  conceptions,  Hyperboreans,  later  localisa-
-tion of  the  marvel  land  in  India — Lucian — Greek  the  main  source
+and  didactic  use  of  the  conceptions,  Hyperboreans,  later  localisation of  the  marvel  land  in  India — Lucian — Greek  the  main  source
 of  Christian  eschatological  descriptions — Parallel  between  Greek
 and  Irish  Elysium  romance  -  Roman  development  of  (ircek
 l)clief— Serlorius    and    St.     Brandan — Horace— Clauili.in—'iiie
@@ -6154,8 +5883,7 @@ literature — MS.  tradition  and  linguistic  evidence  of  date— Christian
 element  in  the  Heroic  sagas — Influence  of  the  Viking  period  upon  Irish
 story-telling — Irish  mythological  cycle — Critical  principles  to  be  followed.
 
-I  PURPOSE  in  the  following  pages  to  discuss  the  origin,  de-
-velopment, and  nature  of  the  old  Irish  story  printed  and
+I  PURPOSE  in  the  following  pages  to  discuss  the  origin,  development, and  nature  of  the  old  Irish  story  printed  and
 translated  into  English  for  the  first  time  in  this  volume.  I
 think  it  advisable  to  preface  my  examination  of  the  story  by
 some  general  considerations  upon  early  Irish  literature.
@@ -6170,15 +5898,12 @@ also  the  result  of  historical  conditions  and  influences  to
 which  the  Irish  race  was  subject,  down  to  the  eleventh
 century  at  the  latest.     They  form  part  of  an  extensive  litera-
 
-115
-
 
 ii6  PRE-MILESIAN   PERIOD
 
 ture,  preserved  to  later  ages  under  conditions  which  yield
 useful  clews  to  its  origin,  nature,  and  mode  of  development.
-It  will  be  desirable,  at  the  outset,  to  briefly  indicate  the  his-
-torical background  to  this  literature,  as  well  as  the  critical
+It  will  be  desirable,  at  the  outset,  to  briefly  indicate  the  historical background  to  this  literature,  as  well  as  the  critical
 problems  involved  in  the  consideration  of  its  extant  forms.
 The  traditional  annals  of  the  Irish  race,  the  main  outlines  of
 which  were  fixed  by  the  eleventh  century  at  the  very  latest,
@@ -6192,8 +5917,7 @@ of  immigrations  or  invasions,  resulting  in  wars  between  the
 various  invading  races,  and  in  the  final  dominance  of  the  sons
 of  Mil  over  Ireland.  The  version  of  this  series  of  events
 which  has  come  down  to  us  is  certainly  as  old  as  the  early
-eleventh  century ;  its  main  outlines  are  presupposed  or  de-
-finitely indicated  in  poems  of  the  tenth  century,  and  a  large
+eleventh  century ;  its  main  outlines  are  presupposed  or  definitely indicated  in  poems  of  the  tenth  century,  and  a  large
 portion  was  known  to  the  South  Welsh  chronicler,  Nennius,
 writing  at  the  close  of  the  eighth  century.^     In  this,  the  oldest
 
@@ -6205,8 +5929,7 @@ of  the  High  Kings  of  Ireland,  and  neglecting  the  provincial  Kings.  It
 thus  happens  that  some  of  the  oldest  and  most  extensive  cycles  of  heroic
 saga  which  have  left  their  impress  most  deeply  on  Irish  literature  are
 almost  unrepresented  by  the  Four  Masters,  because  they  centre  around
-provincial  kings.  In  this  respect  Keating's  History  of  Ireland,  a  com-
-pilation of  the  same  period,  is  of  far  more  value.  Keating  loved  romance
+provincial  kings.  In  this  respect  Keating's  History  of  Ireland,  a  compilation of  the  same  period,  is  of  far  more  value.  Keating  loved  romance
 and  a  stirring  tale.
 
 "  Cf.  Zimmer,  Nennius  vindicatus,  Berlin,  1893,  PP-  216  c/  scq.  Or  in
@@ -6223,8 +5946,7 @@ they  have,  nevertheless,  been  modified  and  added  to  as  a  result
 of  that  contact.  As  a  whole,  these  traditions  wear  a  marked
 mythical  aspect ;  it  was  dimly  perceived  in  the  tenth  and
 eleventh  centuries,  and  has  been  contended  with  increasing
-definiteness  from  that  time  to  the  present  day,  that  they  con-
-tain the  pre-Christian  mythology  of  the  Irish,  cast  in  a  pseudo-
+definiteness  from  that  time  to  the  present  day,  that  they  contain the  pre-Christian  mythology  of  the  Irish,  cast  in  a  pseudo-
 historic  mould,  and  adapted  to  the  exigencies  of  Biblical  and
 classic  chronology.  The  most  authoritative  exposition  of  this
 contention  is  that  of  M.  d'iVrbois  de  Jubainville  in  his  Cycle
@@ -6262,8 +5984,7 @@ Bruidne  da  Derga,'  the  destruction  of  Da  Derga's  fort,  in
 which  his  death  at  the  hands  of  oversea  pirates  is  described.-
 But  the  story-telling  connected  with  this  period  is  chiefly
 concerned  with  Conchobor  Mac  Nessa,  king  of  Ulster,  and
-his  champions,  pre-eminent  among  whom  is  Cuchulinn,/<?r-
-tissinms  heros  Scotorum^  as  Tigernach  styles  him,  the  greatest
+his  champions,  pre-eminent  among  whom  is  Cuchulinn,/<?rtissinms  heros  Scotorum^  as  Tigernach  styles  him,  the  greatest
 heroic  figure  Gaelic  imagination  has  produced,  and  one  not
 unworthy  to  be  placed  by  the  side  of  Rustum  and  Perseus,  of
 Sigfried  and  Dietrich.  His  exploits  and  those  of  his  peers
@@ -6296,14 +6017,11 @@ Ireland  :  Heroic  Period.
 
 POST-HEROIC   PRE-CHRISTIAN   PERIOD  119
 
-the  earliest,  assuming  the  correctness  of  the  annalistic  chrono-
-logy, who  still  live  in  popular  tradition;  about  Cuchulinn
+the  earliest,  assuming  the  correctness  of  the  annalistic  chronology, who  still  live  in  popular  tradition;  about  Cuchulinn
 himself,  about  Conall  Cernach,  and  about  the  sons  of  Usnech,
 stories  are  told  to  this  day  by  the  Gaelic  peasants  of  Ireland
-and  Scotland.^  From  this  date  onward,  however,  the  pre-
-servation, not  only  of  small  episodes,  but  of  well-defined
-cycles,  by  the  folk-memory,  is  of  frequent  occurrence.  An-
-other point  should  be  noted.  In  the  Connaire  Mor,  in
+and  Scotland.^  From  this  date  onward,  however,  the  preservation, not  only  of  small  episodes,  but  of  well-defined
+cycles,  by  the  folk-memory,  is  of  frequent  occurrence.  Another point  should  be  noted.  In  the  Connaire  Mor,  in
 the  Ultonian,  and  in  several  later  cycles,  personages  of  the
 mythological  cycle  to  whom  the  annals  have  assigned  a
 definite  date  and  a  quasi-historical  aspect,  appear  as  frankly
@@ -6314,19 +6032,16 @@ Post-Heroic  Pre-Christian  Period.
 In  the  first  century  a.d,,  Tuathal  Techtmar,  high  king  of
 Ireland,  is  the  hero  and  starting-point  of  the  considerable
 body  of  historic  romance  connected  with  the  imposition  of
-the  Boroma  tribute  upon  Leinster,  the  struggles  of  that  pro-
-vince to  be  rid  of  it,  and  its  final  abrogation  in  the  reign  of
+the  Boroma  tribute  upon  Leinster,  the  struggles  of  that  province to  be  rid  of  it,  and  its  final  abrogation  in  the  reign  of
 Finachta  at  the  end  of  the  seventh  century.-  In  the  second
-century,  Conn,  the  Hundred-fighter,  is  the  centre  of  an  ex-
-tensive cycle,  dealing  mainly  with  his  wars  against  Mog
+century,  Conn,  the  Hundred-fighter,  is  the  centre  of  an  extensive cycle,  dealing  mainly  with  his  wars  against  Mog
 Nuadat  of  Munster,  and  the  consequent  partition  of  Ireland
 
 1  A  contemporary  oral  version  of  the  Tain  bo  Citailgne,  as  current  in
 Inverness-shire,  Celtic  Magazine,  xiii.  ;  Conall  Cernach's  Vengeance
 upon  Cuchulinn's  Slayers  forms  the  subject  of  numerous  ballads,  cf.  Leab
 na  Feinne,  15;  an  admirable  oral  version  of  the  Fate  of  the  Sons  of
-Usnech  was  printed  by  Mr.  A.  Carmichael,  from  recitation  in  the  High-
-lands, in  the  Celtic  Magazine,  xiii.,  whence  it  has  been  reprinted  with  slight
+Usnech  was  printed  by  Mr.  A.  Carmichael,  from  recitation  in  the  Highlands, in  the  Celtic  Magazine,  xiii.,  whence  it  has  been  reprinted  with  slight
 changes  in  Mr.  Jacobs'  Celtic  Fairy  Tales.
 
 2  The  Boroma  has  been  edited  and  translated  twice,  (i)  by  Mr.  Whitley
@@ -6398,8 +6113,7 @@ Christianity  by  the  Irish  dates  from  his  lifetime,  and  although
 Paganism  lingered  on  for  many  years  after  his  death,  especially
 in  the  West,  and  probably  supplied  the  motive  power  of
 events  and  movements,  the  bare  mention  of  which  is  all  we
-find  in  the  annals,  the  vital  energies  of  the  race  are  hence-
-forth turned  into  a  new  channel  and  hasten  to  take  possession
+find  in  the  annals,  the  vital  energies  of  the  race  are  henceforth turned  into  a  new  channel  and  hasten  to  take  possession
 of  the  culture  which  the  alien  religion  brought  with  it.  In
 the  next  three  centuries  (6th,  7th,  and  8th)  the  main  interest
 of  Irish  history  lies  in  the  efforts  of  the  Irish  race  to  organise
@@ -6435,8 +6149,7 @@ Gad.,  407-428.
 ■*  The  very  remarkable  story  concerning  the  birth  of  Aed  Slane  has
 been  edited  and  translated  into  German  by  Professor  Windisch,  Berichte
 d.  phil.  hist.  Classe  d.  Kg.  Sachs.  Ges.  d.  Wissenschaft,  1884 ;  edited
-with  English  version  in  Silva  Gad.,  88.  I  have  summarised  and  com-
-mented upon  the  story,  Folk-Lore,  iii.  44.
+with  English  version  in  Silva  Gad.,  88.  I  have  summarised  and  commented upon  the  story,  Folk-Lore,  iii.  44.
 
 s  Supra,  pp.  52-86.  :
 
@@ -6499,8 +6212,7 @@ Lismore,  a  fifteenth  century  MS.,  whence  it  has  been  edited  and  trans
 Ossianic  Society,  v.  Mons.  d'Arbois  de  Jubainville  was  the  first  to  point
 out  the  foregoing  facts,  cf.  R.  C.  viii.  533.  Professor  Zimmer  has  also
 discussed  them  with  his  usual  searching  thoroughness,  LU.  426-440,
-cf.  Waifs  and  Strays,  ii.  466.  It  may  be  worth  noting  that  the  Christian-
-ised version  betrays  the  same  confusion  respecting  the  date  of  Guaire  as
+cf.  Waifs  and  Strays,  ii.  466.  It  may  be  worth  noting  that  the  Christianised version  betrays  the  same  confusion  respecting  the  date  of  Guaire  as
 the  fragmentary  annals  translated,  Silva  Gadelica,  424  et  seq.
 
 
@@ -6551,8 +6263,7 @@ which  Irish  letters  and  scholarship  revive,  the  traditions  of  the
 race  are  collected  and  systematised,  and  Irish  literature  as  we
 now  possess  it  takes  shape.  Prominent  among  the  promoters
 of  this  revival  are  Eochaid  hua  Flanin  (  +  984),  Cinaeth  hua
-Artacain  (  +  975),  Cuan  hua  Lochain  (  +  1024),  Flann  Manis-
-trech  (+1056),  Gilla  Caemain  (+1072),  and  Tigernach
+Artacain  (  +  975),  Cuan  hua  Lochain  (  +  1024),  Flann  Manistrech  (+1056),  Gilla  Caemain  (+1072),  and  Tigernach
 (4-10S8).
 
 MS.  Tradition  of  Irish  Literature.
@@ -6584,8 +6295,7 @@ their  transcripliun  in  the  mss.  wc  possess.     In  the  first  place,
 
 126  MS.   TRADITION
 
-they  are  frequently  glossed,  as  is  the  case  with  '  Bran's  Voy-
-age,' showing  that  the  eleventh-century  scribe  felt  the  need  of
+they  are  frequently  glossed,  as  is  the  case  with  '  Bran's  Voyage,' showing  that  the  eleventh-century  scribe  felt  the  need  of
 explaining  his  text,  which  could  not  happen  if  he  were  its
 author ;  in  the  second  place,  the  language  presents  frequent
 traces  of  having  once  been  written  in  Old-Irish  and  not  in
@@ -6606,8 +6316,7 @@ enough  to  decide  with  any  degree  of  precision.
 
 Nor  does  the  fact  that  one  eleventh-century  text  betrays  its
 original  Old-Irish  form,whilst  another  one  does  not,  necessarily
-imply  that  the  latter  is  the  younger.  The  criticism  of  lan-
-guage must  be  supplemented  by  that  of  subject-matter  before
+imply  that  the  latter  is  the  younger.  The  criticism  of  language must  be  supplemented  by  that  of  subject-matter  before
 any  such  conclusion  can  be  reached.  With  the  exception  of
 Mons.  d'Arbois  de  Jubainville,  Professor  Zimmer  is  the  only
 scholar  who  has  applied  the  methods  of  the  higher  criticism
@@ -6626,13 +6335,11 @@ MS.,  '  The  Book  of  the  Dun  Cow,'  written  towards  the  end  of
 the  eleventh  century,  he  argues  strongly  for  their  having  been
 copied  from  a  compilation  made  by  Flann  Manistrech,  the
 most  learned  Irishman  of  the  early  eleventh  century.  He
-further  argues  that  in  making  this  compilation  Flann  had  be-
-fore him  different  versions,  often  inconsistent  with  each  other,
+further  argues  that  in  making  this  compilation  Flann  had  before him  different  versions,  often  inconsistent  with  each  other,
 which  he  welded  together  and  harmonised,  moreover,  that
 some  of  the  originals  which  he  thus  used,  are  represented  by
 texts  found  in  far  younger  mss.  His  conclusions  have  been
-challenged  in  detail,^  but  may,  as  a  whole,  be  regarded  as  as-
-sured. Their  bearing  upon  the  point  I  have  raised  is  obvious.
+challenged  in  detail,^  but  may,  as  a  whole,  be  regarded  as  assured. Their  bearing  upon  the  point  I  have  raised  is  obvious.
 The  eleventh  and  twelfth  century  mss.  may  contain  anything
 from  a  transcript  of  the  pre-Viking  text,  made  as  faithfully  as
 the  habits  of  the  time  allowed  (that  is,  with  preservation  of  a
@@ -6641,8 +6348,7 @@ to  demonstrate  its  Old-Irish  nature);  to  a  complete  re-telling
 of  the  story,  not  only  in  the  language,  but  also  in  the  style  of
 and  with  the  wider  knowledge  and  altered  literary  conventions
 of  the  later  period.  All  stages  between  these  extremes  may
-be  represented,  yet  the  essentials  of  the  story  may  conceiv-
-ably be  preserved  with  equal  fidelity  in  each  stage,  and  our
+be  represented,  yet  the  essentials  of  the  story  may  conceivably be  preserved  with  equal  fidelity  in  each  stage,  and  our
 judgment  as  to  the  age  and  nature  of  each  story  be  based,  in
 reality,  upon  accidental  and  secondary  considerations.
 
@@ -6664,8 +6370,7 @@ ashes  of  Irish  paganism  ;  certain,  too,  that  their  chieftains
 setthng  down  in  Ireland,  becoming  half  Irish,  assimilating
 the  mythic  and  heroic  traditions  of  the  Irish,  would  form
 natural  patrons  for  such  of  the  bards  or  shanachies  as  still
-preserved  the  saga  store  of  their  race  in  its  purest  form.  Con-
-versely, it  is  at  least  possible  that  these  bards  and  shanachies
+preserved  the  saga  store  of  their  race  in  its  purest  form.  Conversely, it  is  at  least  possible  that  these  bards  and  shanachies
 would  learn  something  of  the  songs  and  sagas  the  invaders
 had  brought  over  sea,  and  that  in  this  way  a  new  non-Christian
 influence  might  come  to  be  exerted  upon  Irish  tradition.
@@ -6676,12 +6381,10 @@ which  the  Irish  hero-tales  have  been  modified  by  Teutonic
 sagas. ^  I  do  not  think  he  has  succeeded  in  any  of  these  cases,
 and  in  this  opinion  I  do  not  stand  alone.^  But  he  has  placed
 the  possibility  of  such  influence  beyond  doubt,  and  it  is  one
-which  must  be  kept  steadily  in  mind  during  the  present  investi-
-gation. For  we  shall  be  largely  concerned  with  personages  of
+which  must  be  kept  steadily  in  mind  during  the  present  investigation. For  we  shall  be  largely  concerned  with  personages  of
 the  so-called  mythological  cycle,  the  race  which,  according  to
 the  annals,  preceded  the  son  of  Mil  in  Ireland.  Now,  it  is
-precisely  in  texts  of  this  cycle  that  some  of  the  most  remark-
-able parallels  with  Scandinavian  mythic  literature  are  found. ^
+precisely  in  texts  of  this  cycle  that  some  of  the  most  remarkable parallels  with  Scandinavian  mythic  literature  are  found. ^
 Again,  we  know  of  these  personages  not  only  from  Irish  saga,
 
 '  Chiefly  in  his  article  entitled,  Keltische  Beitrlige,  I.  Germanen,  etc.,
@@ -6702,16 +6405,14 @@ SCANDINAVIAN   INFLUENCE         129
 but  from  a  remarkable  group  of  Welsh  tales,  the  Mabinogion
 properly  so  called,  i.e.  the  tales  of  Pwyll,  Branwen,  Manawyddan,
 and  INIath.^  The  affinity  of  these  to  Irish  myth  is  patent,  and
-has  been  explained  in  different  ways, — by  prehistoric  com-
-munity of  mythic  conception  between  the  two  branches  of  the
+has  been  explained  in  different  ways, — by  prehistoric  community of  mythic  conception  between  the  two  branches  of  the
 Celtic-speaking  peoples,-  or  (recently  by  Professor  Rhys),^  by
 survival  of  a  Goidelic  population  in  Wales.  But  it  is  at  least
 I)ossible,  that  it  is  only  due  to  literary  influence  exercised
 during  the  ninth  to  the  eleventh  century  by  Ireland  upon
 ^Vales.  It  is,  then,  significant  to  note  that  the  closest  parallel
 yet  found  between  Celtic  and  Teutonic  heroic  saga  is  furnished,
-as  I  pointed  out  fourteen  years  ago,  by  the  Mabinogi  of  Bran-
-wen,  daughter  of  Llyr.^  Here,  again,  I  trust  the  discussion
+as  I  pointed  out  fourteen  years  ago,  by  the  Mabinogi  of  Branwen,  daughter  of  Llyr.^  Here,  again,  I  trust  the  discussion
 which  follows  may  be  of  some  aid  in  solving  an  obscure  and
 fascinating  problem.
 
@@ -6751,8 +6452,7 @@ the  compiler  or  scribe  of  the  eleventh  and  twelfth  centuries'
 revival  is  as  much  at  a  loss  to  rightly  understand  the  older  texts
 that  lay  before  him  as  we  can  be.     The  very  clumsiness  of  his
 attempts  at  emendation,  the  glaring  nature  of  the  blunders
-he  was  at  times  guilty  of,  are  valuable  because  undesigned  wit-
-nesses to  the  archaic  nature  of  the  material  he  has  preserved.
+he  was  at  times  guilty  of,  are  valuable  because  undesigned  witnesses to  the  archaic  nature  of  the  material  he  has  preserved.
 But  the  influence  of  a  vigorous  oral  tradition  must  not  be  lost
 sight  of  in  many  cases.    The  earliest  Irish  epic  catalogue,  which
 is  certainly  as  old  as  the  early  tenth,  and  may  be  as  old  as  the
@@ -6785,8 +6485,7 @@ DIFFICULTY   OF   DATING   IRISH    ROMANCE      131
 the  modifications  it  has  undergone,  and  what  the  cause  of
 these  modifications.  The  annahstic  framework  cannot  be
 taken  as  an  unerring  guide.  To  cite  one  instance.  Stories  are
-told  of  kings  assigned  by  the  annals  to  periods  long  ante-
-dating the  era  of  Conchobor  and  Cuchulinn,  which  are
+told  of  kings  assigned  by  the  annals  to  periods  long  antedating the  era  of  Conchobor  and  Cuchulinn,  which  are
 manifestly  far  more  modern  in  tone  and  style  than  the  chief
 tales  of  the  Ultonian  cycle.  Indeed  the  past  history  of  the
 land  would  seem  at  one  time,  and  by  one  school  of  writers,  to
@@ -6825,8 +6524,7 @@ validity  of  which  is  nullified  by  any  other  section  of  that
 literature,  however  much  it  may  seem  to  be  supported  by  this
 particular  section.  I  would  only  premise  that  I  am  concerned,
 in  the  first  place,  with  the  original  written  form  of  certain
-tales,  and  it  is  only  after  endeavouring  to  place  this  as  accu-
-rately as  possible  that  I  further  discuss  the  oral  traditions
+tales,  and  it  is  only  after  endeavouring  to  place  this  as  accurately as  possible  that  I  further  discuss  the  oral  traditions
 underlying  that  written  form.  Statements  as  to  age  or  origin
 must  be  taken  as  applying  to  this  latter  and  not  to  the
 former.
@@ -6840,11 +6538,9 @@ VOYAGE
 
 The  Voyage  of  Bran,  constituent  elements  and  leading  conceptions — The
 Happy  Othcrworld — The  Doctrine  of  Rebirth — Aims  and  method  of  the
-investigation — Linguistic  evidence  as  to  the  age  of  Bran's  Voyage — His-
-torical evidence  on  the  same  point — The  Mongan  episode,  testivionia  to
+investigation — Linguistic  evidence  as  to  the  age  of  Bran's  Voyage — Historical evidence  on  the  same  point — The  Mongan  episode,  testivionia  to
 Mongan — Discussion  of  the  historical  evidence — Evidence  drawn  from
-Latin  loan  words  in  the  Irish  text — Summing  up  of  the  Happy  Other-
-world  conception  as  found  in  Bran's  Voyage.
+Latin  loan  words  in  the  Irish  text — Summing  up  of  the  Happy  Otherworld  conception  as  found  in  Bran's  Voyage.
 
 I  NO\v  pass  to  the  consideration  of  the  old  Irish  story,
 and  I  propose  to  state,  at  the  outset,  the  problems  involved,
@@ -6863,10 +6559,6 @@ confronted  by  conceptions  and  descriptions  which  at  once
 produce  the  impression  of  belonging  to  different  periods  and
 to  different  stages  of  culture.     A  Christian  clement  is  patent,
 
-133
-
-
-134  THE   VOYAGE   OF   BRAN
 
 so  that  our  story  must  have  assumed  its  final  shape  since  the
 introduction  of  Christianity  into  Ireland.  The  main  episode
@@ -6892,8 +6584,7 @@ poetic  imaginings,  found  firstly  in  Grteco-Roman  literature,
 secondly  in  that  of  other  Aryan  races.  A  similar  course  will
 be  pursued  as  regards  the  doctrine  of  reincarnation.  After
 which  the  question  must  be  faced,  how  far  the  non-Christian
-residue  in  Irish  belief  is  due  to  a  share  in  a  common  in-
-heritance of  Aryan  mythic  beliefs,  how  far  to  contact  with
+residue  in  Irish  belief  is  due  to  a  share  in  a  common  inheritance of  Aryan  mythic  beliefs,  how  far  to  contact  with
 the  Grseco-Roman  world  in  (for  the  Gaels)  prehistoric  times,
 how  far  to  later  influences  of  Graeco-Roman  culture,  consequent
 upon  the  introduction  of  Christianity.  So  far  the  investigation
@@ -6908,14 +6599,12 @@ As  each  of  the  two  themes  will  be  examined  independently,
 without  reference  to  the  results  arrived  at  in  the  other  case,
 it  is  hoped  that  there  may  emerge  at  least  a  plausible  working
 hypothesis,  by  the  aid  of  which  better  equipped  scholars  will
-be  able  to  fully  account  for  much  the  present  writer  is  com-
-pelled to  leave  obscure  and  doubtful.
+be  able  to  fully  account  for  much  the  present  writer  is  compelled to  leave  obscure  and  doubtful.
 
 Linguistic  Evidence  of  Date.
 Examining  our  tale  as  a  linguist,  Professor  Kuno  Meyer
 has  placed  it  among  the  oldest  remains  of  Irish  story-telling.
-He  regards  the  language  to  be  recovered  from  the  eleventh-
-centurv  transcript  of  the  verse,  as  coeval  with  the  earliest
+He  regards  the  language  to  be  recovered  from  the  eleventhcenturv  transcript  of  the  verse,  as  coeval  with  the  earliest
 recorded  glosses,  in  other  words,  to  belong,  possibly,  to  the
 eighth  or  even  to  the  seventh  century ;  the  prose  is  younger
 in  appearance,  and  may  possibly  have  suffered  from  change.
@@ -6932,8 +6621,7 @@ to  the  historical  allusions  contained  in  our  text.
 Historical  Evidence  of  Date.
 A  priori,  a  pre-eleventh-century  text  of  such  a  character  as
 ours  is  likely  to  be  older  than  the  year  850.  The  incursions  of
-the  Northmen,  which  began  in  the  last  years  of  the  eighth  cen-
-tury, and  were  at  their  height  throughout  the  greater  part  of  the
+the  Northmen,  which  began  in  the  last  years  of  the  eighth  century, and  were  at  their  height  throughout  the  greater  part  of  the
 ninth  century,  were  certainly  not  favourable  to  Irish  letters.
 It  is  possible,  nay  probable,  that  the  secular  literature  of  the
 
@@ -6942,8 +6630,7 @@ It  is  possible,  nay  probable,  that  the  secular  literature  of  the
 
 bards,  where,  if  anywhere,  we  should  expect  to  find  traces  of
 pre-Christian  beliefs  and  imaginings,  did  not  suffer  so  much
-as  the  Christian  classic  culture,  which  had  flourished  so  mar-
-vellously throughout  the  sixth,  seventh,  and  eighth  centuries.
+as  the  Christian  classic  culture,  which  had  flourished  so  marvellously throughout  the  sixth,  seventh,  and  eighth  centuries.
 But  considering  the  close  relations  that  obtained  in  the
 eleventh  and  following  centuries,  between  the  clergy  and  the
 class  of  professional  men  of  study  and  letters,  it  is  difficult  to
@@ -6959,8 +6646,7 @@ tales  of  Conchobor  or  Cuchulinn,  even  if  it  had  occurred  to  him
 to  translate  them  out  of  the  familiar  native  tongue  into  the
 language  sacred  to  religion  and  philosophy?  We  are  not
 reduced,  however,  to  conjectures  of  this  nature.  Bran's
-Voyage  contains  historical  allusions  of,  apparently,  a  very  pre-
-cise nature.  Quatrains  49  and  following  contain  a  prophecy
+Voyage  contains  historical  allusions  of,  apparently,  a  very  precise nature.  Quatrains  49  and  following  contain  a  prophecy
 by  Manannan ;  he  will  go  to  Line-mag  and  he  will  beget  on
 Caintigern,  wife  of  Fiachna,  a  son,  Mongan,  possessor  of  magic
 skill  and  attributes,  who  shall  live  fifty  years  and  shall  be  slain
@@ -6968,8 +6654,7 @@ by  a  dragon  stone  in  the  fight  at  Senlabor.
 
 The  Mongan  Story.
 
-The  allusions  in  the  poem  are  made  plain  by  the  tale  en-
-titled the  Conception  of  Mongan,  printed  infra^  pp.  58  ^/  seq.,
+The  allusions  in  the  poem  are  made  plain  by  the  tale  entitled the  Conception  of  Mongan,  printed  infra^  pp.  58  ^/  seq.,
 and  the  glossator  of  our  poem  evidently  interpreted  them  in
 the  same  way.  Moreover,  certain  data  of  the  poem,  such  as
 the  magic  shape-shifting  attributes  of  Manannan's  son,  under-
@@ -6984,12 +6669,10 @@ existence  and  renown  there  is  no  reason  to  doubt.  But  a
 preliminary  objection  must  be  faced,  bearing  in  mind  that  we
 are  at  present  seeking  for  evidence  concerning  the  date  of
 composition  of  Bran's  Voyage.  Is  the  Mongan  episode  an
-organic  portion  of  the  Bran  story  at  all  ?  May  it  not  repre-
-sent a  later  interpolation,  and  is  it  not  unfair  to  draw  con-
+organic  portion  of  the  Bran  story  at  all  ?  May  it  not  represent a  later  interpolation,  and  is  it  not  unfair  to  draw  con-
 clusions from  it  respecting  what  may  really  be  far  older?  As
 will  be  made  apparent  later,  I  think  it  extremely  likely  that
-Bran's  visit  to  the  Otherworld  was  once  told  as  an  independ-
-ent tale,  and  that  the  Mongan  episode  is  rather  clumsily  foisted
+Bran's  visit  to  the  Otherworld  was  once  told  as  an  independent tale,  and  that  the  Mongan  episode  is  rather  clumsily  foisted
 in.  But  it  seems  certain  that  the  author  of  this  contamination
 was  likewise  the  author  of  the  Bran  story,  as  it  has  come
 down  to  us ;  in  other  words,  that  we  are  entitled  to  use  the
@@ -6998,8 +6681,7 @@ possess  if.  I  italicise  the  last  four  words  purposely.  The
 oldest  written  form  of  a  story  may  be  the  starting  point  of  a
 new  literary  organism  ;  it  may  equally  be  the  last  link  of  a
 long  chain,  all  the  predecessors  of  which  have  perished.  In
-either  case  it  must  be  taken  as  the  starting  point  of  investiga-
-tion, but  the  second  possibility  must  always  be  kept  in
+either  case  it  must  be  taken  as  the  starting  point  of  investigation, but  the  second  possibility  must  always  be  kept  in
 mind.
 
 The  notices  concerning  the  historical  Mongan  are  as
@@ -7067,8 +6749,7 @@ Baetan.  For  albeit  certain  dealers  in  antiquarian  fable  do
 propound  him  to  have  been  son  of  Manannan  and  wont  to
 enter  at  his  pleasure  into  divers  shapes.  Yet  this  we  may  not
 credit,  rather  choosing  to  take  Mongan  for  one  that  was  but
-a  man  of  surpassing  knowledge,  and  gifted  with  an  intelli-
-gence clear,  and  subtle,  and  keen.'
+a  man  of  surpassing  knowledge,  and  gifted  with  an  intelligence clear,  and  subtle,  and  keen.'
 
 The  above  evidence,  and  the  tales  themselves,  as  found
 in  the  eleventh  century  ms.,  the  Book  of  the  Dun  Cow,
@@ -7116,8 +6797,7 @@ unduly  straining  isolated  portions,  I  think  it  must  be  held
 to  fix  a  terminus  a  quo,  as  we  have  already  fixed  a  ferminus
 ad  quern,  for  our  story.  It  is  immaterial  whether  the
 historical  Mongan  had  a  mythical  namesake  from  whom
-these  stories  were  transferred  to  him,  or  whether  other  cir-
-cumstances determined  the  crystallisation  round  his  person
+these  stories  were  transferred  to  him,  or  whether  other  circumstances determined  the  crystallisation  round  his  person
 of  tales  which  in  themselves  must  be  far  older.  In  either
 case  the  process  must  have  required  a  couple  of  generations,
 
@@ -7145,8 +6825,7 @@ number  between  10  and  150  years.
 
 Evidence  of  the  Loan  Words.
 
-Linguistic  and  historical  evidence  are  thus  in  general  agree-
-ment ;  our  tale  may  belong  to  the  seventh,  or  more  likely  to
+Linguistic  and  historical  evidence  are  thus  in  general  agreement ;  our  tale  may  belong  to  the  seventh,  or  more  likely  to
 the  eighth  century.     Considerations,  hitherto  left  unnoticed,
 support  this  view.     Professor  Meyer  has  instanced  {supra,  p.
 xvi)  the  loan  words  from  the  Latin  which  the  story  contains.
@@ -7167,33 +6846,24 @@ Christianity  in  Ireland,  in  which  case  the  alien  culture  would
 probably  have  influenced  it  but  little,  or  to  so  far  postdate  it
 as  to  allow  the  disappearance  of  an  anti-Pagan  censorious
 feeling  on  the  part  of  the  clergy  who  had  absorbed  so  many
-of  the  pre-Christian  literary  elements  of  Irish  society.     How-
-ever rapid  the  progress  of  Christianity  in  Ireland  may  have
-been,  however  lukewarm,  comparatively  speaking,  the  resist-
-ance of  the  pre-Christian  beliefs,  still  some  resistance,  some
+of  the  pre-Christian  literary  elements  of  Irish  society.     However rapid  the  progress  of  Christianity  in  Ireland  may  have
+been,  however  lukewarm,  comparatively  speaking,  the  resistance of  the  pre-Christian  beliefs,  still  some  resistance,  some
 
-
-142  THE   VOYAGE   OF   BRAN
 
 conflict  there  must  have  been,  and  there  are  not  wanting
-signs  that  both  were  prolonged  well  on  into  the  seventh  cen-
-tury. Christianity  must  have  been  securely  organised  by  the
+signs  that  both  were  prolonged  well  on  into  the  seventh  century. Christianity  must  have  been  securely  organised  by  the
 time  the  author  of  Bran's  Voyage  wrote  ;  he  could  retell  his
 Pagan  tale,  lard  it  with  Christian  allusions,  embellish  it  with
 loans  from  Latin  Christian  culture,  without  any  sense  of
 incongruity,  and  this  could  hardly  be  done,  I  take  it,  before
-the  eighth  century,  to  the  middle  of  which  we  may,  provision-
-ally, assign  his  work.
+the  eighth  century,  to  the  middle  of  which  we  may,  provisionally, assign  his  work.
 
-If  the  story  of  Bran  had  come  down  to  us  as  the  sole  repre-
-sentative of  the  conceptions  embodied  in  it,  some  certainty
+If  the  story  of  Bran  had  come  down  to  us  as  the  sole  representative of  the  conceptions  embodied  in  it,  some  certainty
 respecting  their  origin  and  development  might  yet,  though
 with  difficulty,  be  attained.  Luckily,  however,  it  is  but  one
 example  of  a  class  of  romantic  narrative  reaching  back  to
-the  dawn  of  Irish  literature,  and  preserving  its  popu-
-larity and  plastic  vitality  until  the  last  century ;  moreover,
-both  of  its  leading  conceptions — that  of  the  Happy  Other-
-world  and  that  of  Rebirth — may  be  paralleled  from  tales  of
+the  dawn  of  Irish  literature,  and  preserving  its  popularity and  plastic  vitality  until  the  last  century ;  moreover,
+both  of  its  leading  conceptions — that  of  the  Happy  Otherworld  and  that  of  Rebirth — may  be  paralleled  from  tales  of
 equal  or  even  greater  antiquity.  The  study  of  this  literature,
 of  these  parallels,  cannot  fail  to  throw  light  upon  the  origin  and
 nature  of  our  story.
@@ -7243,8 +6913,7 @@ comparison  with  Bran  and  Connla.
 The  Adventures  of  Connla.
 
 The  closest  of  all  parallels  to  Bran's  Voyage  is  the  Echtra
-Condla,  the  adventures  of  Connla,  son  of  Cond  the  Hundred-
-fighter,  who  was  high  king  of  Ireland,  according  to  the  tenth
+Condla,  the  adventures  of  Connla,  son  of  Cond  the  Hundredfighter,  who  was  high  king  of  Ireland,  according  to  the  tenth
 and  eleventh  century  annals,  from  a.d.  122  to  157.  This  is
 also  found  in  the  Book  of  the  Dun  Cow,  and,  as  Professor
 Zimmer  has  pointed  out  (p.  262),  there,  and  in  the  other  mss.
@@ -7314,8 +6983,7 @@ sailed  the  sea  away  from  them,  and  from  that  day  to  this  have
 not  been  seen,  and  it  is  unknown  whither  they  went.
 
 In  one  important  respect  Connla  differs  from  Bran.  He  is
-son  of  Conn,  a  famous  figure  in  Gaelic  legendary  history,  him-
-self the  hero  of  a  visit  to  the  Otherworld  {infra,  p.  187),  and
+son  of  Conn,  a  famous  figure  in  Gaelic  legendary  history,  himself the  hero  of  a  visit  to  the  Otherworld  {infra,  p.  187),  and
 the  centre  of  a  great  cycle  of  stories  which  tell  of  his  combats
 with  the  Munster  king,  Mog  Nuadat ;  his  brother  Art  is  a
 prominent  figure  in  the  yet  more  famous  cycle  of  which  the
@@ -7382,12 +7050,10 @@ to   the  great  antiquity   of    which    it    thus    yields    precious
 witness.
 
 The  Echtra  Condla  shares  with  the  Imrain  Brain  two
-marked  characteristics  of  a  general  nature.  Both  are  de-
-cidedly incoherent.  In  Bran  the  Mongan  episodes  and  the
+marked  characteristics  of  a  general  nature.  Both  are  decidedly incoherent.  In  Bran  the  Mongan  episodes  and  the
 mention  of  the  Isle  of  Joy  are  introduced  in  the  same  casual
 off-hand  way  as  the  fairy  damsel's  currach  in  Connia,  although
-in  the  latter  case  the  inconsistency  is  more  glaring  than  any-
-thing in  the  other  story.  Again,  the  Christian  element  produces
+in  the  latter  case  the  inconsistency  is  more  glaring  than  anything in  the  other  story.  Again,  the  Christian  element  produces
 in  both  cases  the  same  impression  of  being  thrust  into  the
 story  without  rhyme  or  reason.  True,  in  Connia  there  is
 some  point  in  the  reference  to  Christ's  coming,  and  we  may
@@ -7396,8 +7062,7 @@ the  Druid  system  (which  by  no  means  died  out  with  the
 triumph  of  Christianity)  or  has  been  interpolated  by  one.
 These  similarities  of  artistic  handling  are  sufficient  to  allow
 the  surmise  that  possibly  both  tales  may  be  due  to  the  same
-writer.  It  is  noteworthy  also  that  they  in  a  measure  supple-
-ment each  other ;  the  love  motive  emphasised  in  the  one  is
+writer.  It  is  noteworthy  also  that  they  in  a  measure  supplement each  other ;  the  love  motive  emphasised  in  the  one  is
 implied  in  the  other,  as  the  ultimate  term  of  Bran's  voyage  is
 the  Isle  of  Fair  Women,  the  queen  of  which  is  possibly  the
 summoning  damsel.  Certain  differences  between  two  stories
@@ -7407,8 +7072,7 @@ disappearance,  has  naturally  nothing  to  say  about  his  access
 to  the  mysterious  land,  about  its  ruler,  or  the  penalty
 attaching  to  departure  from  it.  But  there  can  be  little  doubt
 that  substantially  his  presentment  of  these  points  would  have
-been  the  same  as  in  Bran's  Voyage.  The  most  marked  differ-
-ence between  the  two  stories,  the  fact,  namel)^  that  the  fairy
+been  the  same  as  in  Bran's  Voyage.  The  most  marked  difference between  the  two  stories,  the  fact,  namel)^  that  the  fairy
 messenger  is  visible  to  the  comrades  of  Bran  whilst  invisible  to
 those  of  Connia,  is  more  apparent  than  real.    The  attribute  of
 
@@ -7485,8 +7149,7 @@ If  thou  alightest  from  the  steed
 Thou  wilt  be  an  old  man,  withered  and  blind.
 
 Here  then  the  prohibition  is  for  the  hero  to  alight  from  his
-horse,  and  this  touch  reveals  a  whole  history  of  social  de-
-velopment. When  the  stories  of  Bran  and  Connla  were
+horse,  and  this  touch  reveals  a  whole  history  of  social  development. When  the  stories  of  Bran  and  Connla  were
 wrought,  the  Irish  used  horses  as  beasts  of  draught  only —
 the  heroes  fought  from  the  war-chariot  or  on  foot.      The
 
@@ -7501,12 +7164,10 @@ his  return  from  the  Land  of  Promise  without  touching  the
 death-giving  earth.  But  in  course  of  time,  probably  during  the
 Viking  invasions,  the  Irish  became  riders,  and  horseman  and
 hero  were  almost  synonymous  (although  it  should  be  noted
-that  in  the  Fenian  tales  as  much  stress  is  laid  upon  the  swift-
-ness of  foot  of  Caoilte  or  Oisin  as  in  the  Homeric  poems
+that  in  the  Fenian  tales  as  much  stress  is  laid  upon  the  swiftness of  foot  of  Caoilte  or  Oisin  as  in  the  Homeric  poems
 upon  that  of  Achilles).  Hence  the  added  refinement  of
 descent  from  the  horse.  It  is  indeed  surprising  that  the  idea
-of  actual  contact  between  earth  and  the  body  of  the  home-
-faring  mortal  being  necessary  for  time  to  accomplish  its  work
+of  actual  contact  between  earth  and  the  body  of  the  homefaring  mortal  being  necessary  for  time  to  accomplish  its  work
 should  have  persisted  as  it  did.
 
 It  is  unnecessary  to  dwell  upon  other  proofs  of  lateness  of
@@ -7514,8 +7175,7 @@ this  poem  ;  the  really  remarkable  thing  being  that  although
 undoubtedly  a  composition  of  the  last  two  hundred  years,  it
 should  in  scenery,  accessories,  spirit,  and  colouring  resemble  so
 strongly  stories  a  thousand  years  older.  And  when  I  call  it  a
-composition  of  the  last  two  hundred  years,  I  wish  to  be  under-
-stood as  referring  solely  to  the  literary  form  in  which  it  is
+composition  of  the  last  two  hundred  years,  I  wish  to  be  understood as  referring  solely  to  the  literary  form  in  which  it  is
 cast.  I  see  no  reason  for  doubting  that  the  visit  of  Oisin
 to  the  Land  of  Youth,  and  his  return  to  earth,  were  early
 component  parts  of  the  Fenian  cycle.  In  one  of  the  chief
@@ -7540,8 +7200,7 @@ brings  the  hero  in  contact  with  St.  Patrick,  and  which  must  be
 at  least  as  old  as  the  fourteenth  century,  as  it  is  found,  in  an
 obviously  worn-down  condition,  in  the  Book  of  the  Dean  of
 Lismore,  a  Scotch  Gaelic  ms.  of  the  late  fifteenth  century.-  It
-may  be  urged  that  Michael  Comyn,  to  account  for  the  super-
-natural prolonging  of  the  hero's  life,  transformed  an  older
+may  be  urged  that  Michael  Comyn,  to  account  for  the  supernatural prolonging  of  the  hero's  life,  transformed  an  older
 tradition  of  his  disappearance  into  a  fairy  mound  into  a  visit
 to  the  Happy  Otherworld.  But  I  think  this  unlikely,  and  I
 hold  that  Comyn's  poem  embodies,  in  the  main,  an  old  and
@@ -7552,8 +7211,7 @@ of  the  Otherworld  conception  in  Gaelic  popular  literature.
 
 Cuchulinn's  Sick  Bed,
 
-The  three  stories  that  have  just  been  discussed,  all  exem-
-plify one  main  idea  of  the  Otherworld  conception — the
+The  three  stories  that  have  just  been  discussed,  all  exemplify one  main  idea  of  the  Otherworld  conception — the
 impossibility  for  the  mortal,  who  has  penetrated  thither,  to
 return  to  earth.  We  must  now  examine  a  number  of  stories,
 from  which  this  idea  is  absent,  and  it  will  be  necessary  to
@@ -7600,8 +7258,7 @@ nearly  dead.  He  lay  till  the  end  of  a  year,  without  speaking
 to  any  one.  There  came  then  a  stranger  and  sang  verses
 promising  healing  and  strength  to  the  hero,  if  he  would  accept
 the  invitation  of  the  daughters  of  Aed  Abrat,  to  one  of  whom,
-Fann,  '  it  would  give  heartfelt  joy  to  be  espoused  to  Cuchu-
-linn.' He  then  departed,  '  and  they  knew  not  whence  he
+Fann,  '  it  would  give  heartfelt  joy  to  be  espoused  to  Cuchulinn.' He  then  departed,  '  and  they  knew  not  whence  he
 came  nor  whither  he  went.'  Cuchulinn  went  to  the  place
 where  the  adventure  had  befallen  him,  and  saw   again  the
 
@@ -7612,8 +7269,7 @@ Epopee  Ccltique,  170-216.
 154  CUCHULINN'S   SICK   BED
 
 woman  in  a  green  cloak.  From  her  he  learnt  that  Fann,
-abandoned  by  her  husband,  Manannan  Mac  Lir,  had  con-
-ceived affection  for  him.  Her  own  name  is  Liban,  and  her
+abandoned  by  her  husband,  Manannan  Mac  Lir,  had  conceived affection  for  him.  Her  own  name  is  Liban,  and  her
 husband,  Labraid  of  the  Quick  Hand  on  the  Sword,  bids  her
 tell  him  that  if  he  will  come  and  fight  against  Labraid's
 enemies,  he  shall  get  Fann  to  wife.  Their  country  is  the
@@ -7831,8 +7487,7 @@ further  agree  in  connecting  Manannan  with  this  land,  and  in
 such  minor  points  as  insistence  upon  the  trees  in  which  are
 found  the  sweet  singing  birds.  The  differences  seem  far  greater.
 Laeg  and  Cuchulinn  penetrate  to  the  Otherworld  and  return
-thence  scathless  ;  the  idea  of  deathlessness  is  not  even  men-
-tioned, let  alone  insisted  upon  in  connection  with  the  land  of
+thence  scathless  ;  the  idea  of  deathlessness  is  not  even  mentioned, let  alone  insisted  upon  in  connection  with  the  land  of
 the  magic  dames ;  on  the  contrary,  Cuchulinn  slays  many  of
 Labraid's  enemies  who  must  be  assumed  to  be  of  the  same
 race  as  the  king  himself,  and  so  far  from  the  absence  of  strife
@@ -7841,16 +7496,14 @@ prowess  is  extolled  in  the  most  sanguinary  terms.  Taking
 the  last  of  these  points  first,  I  think  we  cannot  fail  to  see  the
 trace  of  an  entirely  different  conception  of  the  Otherworld  from
 that  of  IJran,  a  conception  which  may  be  equally  old  on  Irish
-ground,  but  may  also  be  due  to  the  influence  of  the  Scandi-
-navian Valhalla  as  elaborated  in  the  later  stages  of  the
+ground,  but  may  also  be  due  to  the  influence  of  the  Scandinavian Valhalla  as  elaborated  in  the  later  stages  of  the
 Viking  religion  ;  I  shall  presently  cite  a  still  more  remarkable
 illustration  of  this,  the  warlike  as  opposed  to  the  peaceful
 ideal  of  Otherworld  happiness.  The  absence  of  reference  to
 the  deathlessness  of  Fann  and  her  kin,  may,  assuming  the
 writer  thought  of  them  as  immortal,  be  set  down  to  the  fact
 that  it  was  taken  for  granted,  and  that  in  a  story  the  object
-of  which  is  not,  as  in  Bran,  t(;  extol  the  delights  of  the  Other-
-world,  there  was  no  need  to  say  anything  on  the  subject.  In
+of  which  is  not,  as  in  Bran,  t(;  extol  the  delights  of  the  Otherworld,  there  was  no  need  to  say  anything  on  the  subject.  In
 the  same  way  Cuchulinn's  immunity  from  death  or  old
 age  on  his  return  to  earth  may  be  claimed  as  due  to  his  half-
 
@@ -7876,13 +7529,11 @@ form  that  has  suffered  foreign  influence.  Before  deciding
 which  of  these  two  explanations  is  the  correct  one,  other  tales
 must  be  examined.
 
-In  any  case,  however,  it  should  be  noted  that  some  differ-
-ence there  was  bound  to  be  between  Cuchulinn's  Sick  Bed
+In  any  case,  however,  it  should  be  noted  that  some  difference there  was  bound  to  be  between  Cuchulinn's  Sick  Bed
 and  Bran  in  the  treatment  of  such  a  theme  as  the  visit  to  the
 Otherworld.  The  main  outlines  of  the  Cuchulinn  saga  were
 probably  fixed  before  the  episode  was  worked  into  it ;  the
-fate  of  the  hero  could  not  be  essentially  modified ;  if  any-
-thing had  to  go  to  the  wall  it  would  be  the  logical  consistency
+fate  of  the  hero  could  not  be  essentially  modified ;  if  anything had  to  go  to  the  wall  it  would  be  the  logical  consistency
 of  the  episodic  theme.  We  are  met,  I  think,  with  similar
 artistic  necessities  and  similar  modifications  of  the  original
 conception  in  the  group  of  tales  known  technically  as  Imrama
@@ -7911,8 +7562,7 @@ material — Featiu-es  common  to  all  the  stories  hitherto  considered.
 Of  all  classes  of  ancient  Irish  mythic  fiction  this  is  the
 most  famous  and  the  one  which  has  most  directly  affected
 the  remainder  of  West  European  literature.  For  the  Voyage
-of  Saint  Brandan,  which  touched  so  profoundly  the  imagina-
-tion of  mediaeval  man,  which  was  translated  into  every
+of  Saint  Brandan,  which  touched  so  profoundly  the  imagination of  mediaeval  man,  which  was  translated  into  every
 European  tongue,  which  drove  forth  adventurers  into  the
 Western  Sea,  and  was  one  of  the  contributory  causes  of  the
 discovery  of  the  New  World, — the  Voyage  of  Saint  Brandan
@@ -7953,8 +7603,7 @@ was  the  model  upon  which  and  the  quarry  out  of  which  the
 later  imrajna,  and  notably  Saint  Brandan's  Voyage,  were  built.
 It  had,  however,  been  preceded  by  the  Voyage  of  the  Sons
 of  O'Corra,  the  original  version  of  which,  now  lost,  has  been
-replaced  by  a  thirteenth-century  rifacimento,  save  the  open-
-ing portion,  which  he  thus  looks  upon  as  being  the  oldest
+replaced  by  a  thirteenth-century  rifacimento,  save  the  opening portion,  which  he  thus  looks  upon  as  being  the  oldest
 
 ^  Professor  Zimmer's  article  is  the  one  referred  to  in  the  preface,  supra,
 p.  lo6 ;  Mr.  Whitley  Stokes  has  edited  and  translated  the  Voyage  of
@@ -7977,8 +7626,7 @@ component  elements  of  the  imrama  literature  was  precisely
 descriptions  of  the  Happy  Otherworld,  as  we  find  them  in
 Bran  and  Connla.  This  conclusion  must  be  tested  with  all
 possible  rigour ;  if  incorrect,  it  matters  little,  so  far  as  the  date
-of  Bran  is  concerned,  whether  Professor  Zimmer  has  under-
-or  over-rated  the  age  of  Maelduin.  Accepting,  as  I  do  fully,
+of  Bran  is  concerned,  whether  Professor  Zimmer  has  underor  over-rated  the  age  of  Maelduin.  Accepting,  as  I  do  fully,
 his  contention  that  Maelduin  presents  the  earliest  form  of  the
 episodes  common  to  all  these  stories,  it  is  to  this  tale  that  I
 shall  restrict  my  comparison  with  Bran.i
@@ -7993,8 +7641,7 @@ less.  But  at  the  last  moment  his  three  foster-brothers,  who
 have  not  been  included  among  the  seventeen,  clamour  to
 accompany  him,  and,  when  refused,  cast  themselves  into  the
 sea  and  swim  after  the  vessel.  Maelduin  has  pity  upon  them
-and  takes  them  in,  but  this  disregard  of  the  wizard's  injunc-
-tion brings  its  punishment,  and  it  is  only  after  long  wander-
+and  takes  them  in,  but  this  disregard  of  the  wizard's  injunction brings  its  punishment,  and  it  is  only  after  long  wander-
 ings, the  visit  of  some  thirty  unknown  islands,  and  the  death
 or  abandonment  of  the  three  foster-brothers,  that  Maelduin  is
 able  to  fulfil  his  quest  and  return  to  Ireland.
@@ -8018,8 +7665,7 @@ Both  episodes  must  be  fully  discussed.
 
 The  Island  of  the  Amorous  Queen.
 
-The  twenty-seventh  island  at  which  Maelduin  and  his  com-
-panions touch  is  large,  and  on  it  a  great  tableland,  heather-
+The  twenty-seventh  island  at  which  Maelduin  and  his  companions touch  is  large,  and  on  it  a  great  tableland,  heather-
 less,  grassy,  and  smooth.  And  near  the  sea  a  fortress,  large,
 high,  and  strong,  and  a  great  house  therein,  adorned,  and  with
 good  couches.  Seventeen  grown-up  girls  are  there  preparing
@@ -8052,12 +7698,10 @@ and  flings  a  clew  which  Maelduin  catches,  and  it  cleaves  to
 his  hand ;  by  this  means  she  draws  them  back  to  land.  Thrice
 this  happens,  and  the  men  accuse  Maelduin  of  catching  the
 clew  purposely ;  he  tells  off  another  man  to  mind  the  clew,
-whose  hand,  when  touched  by  it,  is  cut  off  by  one  of  the  sea-
-farers, and  thus  they  escape.
+whose  hand,  when  touched  by  it,  is  cut  off  by  one  of  the  seafarers, and  thus  they  escape.
 
 An  obvious  variant  of  the  visit  to  the  wonderland  of  fair
-damsels  is  to  be  found  in  the  sixteenth  and  seventeenth  adven-
-tures. The  first  describes  a  lofty  island,  wherein  are  four  fences,
+damsels  is  to  be  found  in  the  sixteenth  and  seventeenth  adventures. The  first  describes  a  lofty  island,  wherein  are  four  fences,
 of  gold,  silver,  brass,  and  crystal,  and  in  the  four  divisions,
 kings,  queens,  warriors,  and  maidens.  A  maiden  comes  to  meet
 them,  and  brings  them  on  land  and  gives  them  food,  and
@@ -8082,8 +7726,7 @@ greets  each  man  by  his  name  :  '  it  is  long  since  your  coming
 i66  THE   AMOROUS    QUEEN
 
 here  hath  been  known  and  understood.'  She  takes  them  into
-the  house,  she  gives  them  food,  every  savour  that  each  de-
-sired he  would  find  therein.  His  men  then  urge  Maelduin  to
+the  house,  she  gives  them  food,  every  savour  that  each  desired he  would  find  therein.  His  men  then  urge  Maelduin  to
 offer  himself  to  her,  and  propose  to  her  that  she  should  show
 affection  to  him  and  sleep  with  him.  But,  saying  that  she
 knows  not  and  has  never  known  what  sin  was,  she  leaves
@@ -8092,16 +7735,12 @@ awake  they  are  in  their  boat  on  a  crag,  and  they  see  not  the
 island,  nor  the  fortress,  nor  the  lady,  nor  the  place  wherein
 they  had  been.
 
-The  frame  of  Maelduin's  Voyage  is  so  elastic  that  the  in-
-clusion in  one  narrative  of  variant  forms  of  the  same  episode
-need  not  surprise  us.  That  successive  story-tellers,  or  tran-
-scribers, should  adopt  this  device  to  increase  the  extent,  and,  in
-the  opinion  of  former  days,  the  value  of  their  wares,  is  con-
-sonant with  all  we  know  of  pre-mediaeval  and  mediaeval
+The  frame  of  Maelduin's  Voyage  is  so  elastic  that  the  inclusion in  one  narrative  of  variant  forms  of  the  same  episode
+need  not  surprise  us.  That  successive  story-tellers,  or  transcribers, should  adopt  this  device  to  increase  the  extent,  and,  in
+the  opinion  of  former  days,  the  value  of  their  wares,  is  consonant with  all  we  know  of  pre-mediaeval  and  mediaeval
 literature.  We  are  justified  in  making  use  of  the  three  versions
 to  recover  the  idea  of  the  damsel-land,  as  it  existed  in  the
-minds  of  the  original  author  of  Maelduin,  and  of  the  con-
-tinuators,  to  whom  is  probably  due  much  of  the  work  as  it
+minds  of  the  original  author  of  Maelduin,  and  of  the  continuators,  to  whom  is  probably  due  much  of  the  work  as  it
 now  exists.^  It  is  substantially  the  same  as  in  Bran's  Voyage,
 The  mortal  visitor  is  welcomed  to  the  same  perpetual  round  of
 simple  sensuous  delights  ;  he  shall  not  age,  he  shall  not  decay,
@@ -8135,8 +7774,7 @@ fact  that  this  conception  survives  in  the  living  folk-tale,^
 the  native  elements  and  development  of  which  are  so
 largely  non-Christian,  raises  a  strong  presumption  that  we
 have  here  a  genuine  variant,  and  not  merely  a  Christian
-modification,  of  the  mortals'  visit  to  the  lady  of  the  Other-
-world.
+modification,  of  the  mortals'  visit  to  the  lady  of  the  Otherworld.
 
 Comparing,  then,  the  adventures  of  Maelduin  and  Bran  in
 the  Land  of  Women,  we  must  not  be  influenced  by  the  fact
@@ -8161,8 +7799,7 @@ i68  THE    AMOROUS    QUEEN
 
 other  must  have  been  present.     And  it  will  hardly  be  denied
 that  a  trace  of  the  supernatural  lapse  of  time  exists  (though
-expressed  in  such  a  way  as  to  deliberately  invert  the  concep-
-tion) in  the  words :   '  it  seemed  to  them  those  three  months
+expressed  in  such  a  way  as  to  deliberately  invert  the  conception) in  the  words :   '  it  seemed  to  them  those  three  months
 were  three  years. '^     Nor,  again,  reasoning  on  the  hypothesis
 (by  no  means  to  be  set  aside  as  unworthy  all  discussion)
 that  Bran's  Voyage  is  a  simple   literary  development   from
@@ -8175,8 +7812,7 @@ Voyage?      This  argument,  it  may  be  said,  cuts  both  ways.
 Meanwhile,  it   is  sufficient    to  note  that  in  so  far    as  this
 incident  is  concerned,  the  episode  in  Maelduin  appears  to  be
 further  removed  from  the  original  form  than  that  found  in
-Bran.     This  impression  is  strengthened  by  other  considera-
-tions.    The  incident  of  the  magic  clew  must  appeal  to  every
+Bran.     This  impression  is  strengthened  by  other  considerations.    The  incident  of  the  magic  clew  must  appeal  to  every
 reader  as  simpler  and  more  straightforward  in  Bran.      It  is
 natural  that  the  welcoming  queen  should  throw  out  a  line  to
 the  hesitating  visitors  ;  natural  that  they,  whose  object  it  is  to
@@ -8196,16 +7832,14 @@ the  original  conception.
 
 THE    AMOROUS    QUEEN  169
 
-of  Manannan,  figured  as   the   rider  of   the    glistening  sea-
-horses.^
+of  Manannan,  figured  as   the   rider  of   the    glistening  seahorses.^
 
 These  various  considerations  justify,  I  think,  the  conclusion
 that  the  presentment  of  the  Land  of  Women,  in  Maelduin,  is
 later  in  date,  and  less  close  to  the  original  form,  than  in  Bran.
 Before  passing  from  this  episode,  it  may  be  well  to  note  that
 part  of  the  gear  of  the  Happy  Otherworld  is  found  elsewhere
-in  Maelduin's  Voyage  ;  thus,  on  the  seventh  island,  the  sea-
-farers find  three  magic  apples — '  for  forty  nights  each  of  the
+in  Maelduin's  Voyage  ;  thus,  on  the  seventh  island,  the  seafarers find  three  magic  apples — '  for  forty  nights  each  of  the
 three  apples  sufficed  them;'  again,  on  the  tenth  island,
 they  meet  with  the  same  apples,  and  '  alike  did  they  forbid
 hunger  and  thirst  from  them.'  The  thirty-first  adventure  gives
@@ -8216,8 +7850,7 @@ was  wont  ever  to  turn  around  and  about  it.  Now,  in  the
 side  of  that  rampart  was  an  open  door,  and  as  it  came  opposite
 them  in  its  turning  course,  they  beheld  through  it  the  island,
 and  all  therein,  and  its  indwellers,  even  human  beings,
-beautiful,  numerous,  wearing  richly-dight  garments,  and  feast-
-ing with  golden  vessels  in  their  hands.  The  wanderers  heard
+beautiful,  numerous,  wearing  richly-dight  garments,  and  feasting with  golden  vessels  in  their  hands.  The  wanderers  heard
 their  ale  music,  and  for  long  did  they  gaze  upon  the  marvel,
 delightful  as  it  seemed  to  them.'  Here  will  be  noted  the
 description  of  the  fortunate  beings  as  '  human  ' ;  a  sign,  I  take
@@ -8259,8 +7892,7 @@ fiery  arrow,  burns  him  so  that  he  becomes  ashes,  and  goes
 back  to  its  pillar.
 
 The  fifteenth  island  they  come  to  is  large  and  full  of  human
-beings,  black  in  body  and  raiment,  and  resting  not  from  wail-
-ing. An  unlucky  lot  falls  upon  one  of  Maelduin's  two  foster-
+beings,  black  in  body  and  raiment,  and  resting  not  from  wailing. An  unlucky  lot  falls  upon  one  of  Maelduin's  two  foster-
 brothers  to  land  on  the  island.  He  at  once  becomes  a
 comrade  of  theirs,  weeping  along  with  them.  Two  of  the
 wanderers  start  to  bring  him  off,  but  they  also  fall  under  the
@@ -8281,16 +7913,13 @@ cast  and  fall  on  the  third  of  Maelduin's  foster-brothers.  When
 he  touches  land  he  begins  to  play  and  laugh  continually.
 After  waiting  a  long  time  for  him  they  leave  him.
 
-Evidently  these  three  adventures  stand  in  organic  connec-
-tion with  the  wizard's  injunction.  Whatever  else  may  be
+Evidently  these  three  adventures  stand  in  organic  connection with  the  wizard's  injunction.  Whatever  else  may  be
 interpolation,  these  stood  in  the  original  draft  of  the  story.
-Equally  evident  is  the  fact  that  paragraph  61  of  Bran's  Voy-
-age stands  in  no  connection  with  the  remainder  of  the  tale,
+Equally  evident  is  the  fact  that  paragraph  61  of  Bran's  Voyage stands  in  no  connection  with  the  remainder  of  the  tale,
 and  is  in  fact  a  pure  excrescence.  Yet,  can  we  look  upon  it
 as  an  interpolation  from  Maelduin  or  some  other  now  lost
 imram  ?  There  are  not  wanting  signs  that  here,  as  in  other
-parts  of  Maelduin,  the  story  has  suffered  change.  It  is  note-
-worthy that  in  the  first  and  last  cases,  it  is  each  time  stated
+parts  of  Maelduin,  the  story  has  suffered  change.  It  is  noteworthy that  in  the  first  and  last  cases,  it  is  each  time  stated
 to  be  Maelduin's  third  foster-brother  who  is  the  victim.  This
 may  be  inadvertence  on  the  part  of  the  narrator,  or  a  mere
 scribal  error,  but  it  may  also  bear  witness  to  a  time  when  only
@@ -8302,8 +7931,7 @@ descriptions  of  the  Othcrworld,  both  in  Celtic  and  non-Celtic
 mythic  romance,  which  present  analogies  to  this  solitary
 palace  full  of  riches,  guarded  only  by  a  mysterious  animal,
 and  to  insist  upon  what  may  be  called  the  theft-taboo  as  an
-essential  element  of  visits  to  the  Otherworld.  It  may  there-
-fore be  surmised  that  the  author  of  Maelduin,  desirous  for  some
+essential  element  of  visits  to  the  Otherworld.  It  may  therefore be  surmised  that  the  author  of  Maelduin,  desirous  for  some
 reason  of  triplicating  the  original  incident  of  the  comrade  left
 behind  in  the  Olherworld,  in  punishment  of  some   offence
 
@@ -8341,8 +7969,7 @@ Maelduin,    it    must    have    counted  ages  of  acceptance   and
 ^  It  might  be  contended  that  the  two  islands  of  wailing  and  of  joy  are
 loans  from  Christian  legend,  the  one  standing  for  heaven  the  other  for
 hell,  and  thr  i.  they  have  been  romanticised  by  the  story-teller  to  whom  we
-owe  our  present  text  of  Maelduin.  Cf.  too  infra,  chap,  xii.,  for  a  com-
-parison of  certain  features  in  this  portion  of  Maelduin  with  the  Scandi-
+owe  our  present  text  of  Maelduin.  Cf.  too  infra,  chap,  xii.,  for  a  comparison of  certain  features  in  this  portion  of  Maelduin  with  the  Scandi-
 navian story  of  Thorkill's  journey  to  the  Otherworld.
 
 
@@ -8412,8 +8039,6 @@ Dana,  who  held  the  sovereignty  of  Ireland  prior  to  the  arrival
 of  the  sons  of  Mil,  by  whom  they  were  dispossessed  of
 earthly  s^vay,     Manannan  and  Fann  and  Lug,  the  father  of
 
-174
-
 
 THE    WOOING    OF    ETAIN  175
 
@@ -8425,8 +8050,7 @@ the  folk  of  the  mound.
 These  beings  are  connected  with  the  oversea  Elysium.  In
 the  description  of  their  land,  which  though  in  Ireland  is  not
 of  mortal  Ireland,  there  is  much  that  recalls  the  Land  of
-Women  or  Boadach's  realm.  Yet  marked  as  are  the  re-
-semblances, the  differences  are  equally  marked.  Before  dis-
+Women  or  Boadach's  realm.  Yet  marked  as  are  the  resemblances, the  differences  are  equally  marked.  Before  dis-
 cussing the  relations  between  these  two  presentments  of  the
 Otherworld  it  may  be  well  to  cite  a  text  which  is  of  equal
 antiquity  with  those  we  have  already  discussed  and  in  which
@@ -8438,8 +8062,7 @@ The  Wooing  of  Etain.
 The  Tochmarc  Efaine,  or  Wooing  of  Etain,  is  one  of  the
 stories  preserved  by  the  Book  of  the  Dun  Cow,  and  which,  if
 Professor  Zimmer  be  right,  represents,  in  the  shape  under
-which  it  has  come  down  to  us,  a  fusion  of  older  and  dis-
-cordant versions  made  in  the  early  eleventh  century.  Linguis-
+which  it  has  come  down  to  us,  a  fusion  of  older  and  discordant versions  made  in  the  early  eleventh  century.  Linguis-
 tically it  has  the  same  marks  of  antiquity  as  the  stories  of
 Bran  and  Connla,  in  other  words,  it  may  go  back  to  the  eighth
 or  possibly  the  seventh  century.     The  tale  runs  thus  :  ^—
@@ -8461,8 +8084,7 @@ revised  by  Professor  Meyer.
 is  still  unwilling  to  leave  Eochaid,  and  to  decide  her  he  sings
 the  following  song  : —
 
-'Woman  of  the  white  skin,  wilt  thou  come  with  me  to  the  wonder-
-land where  reigns  sweet-blended  song ;  there  primrose
+'Woman  of  the  white  skin,  wilt  thou  come  with  me  to  the  wonderland where  reigns  sweet-blended  song ;  there  primrose
 blossoms  on  the  hair  ;  snowfair  the  bodies  from  top  to  toe.
 
 There,  neither  turmoil  nor  silence ;  white  the  teeth  there,  black
@@ -8489,12 +8111,10 @@ shall  be  given  thee  by  me,  O  white-skinned  woman.'
 
 Not  only  will  it  be  noticed  is  the  presentment  of  this
 Elysium  substantially  the  same  as  in  the  stories  of  Bran  and
-Connla,  not  only  is  there  the  same  insistence  upon  a  never-end-
-ing round  of  simple,  vivid,  sensuous  delights,  but  the  Christian
+Connla,  not  only  is  there  the  same  insistence  upon  a  never-ending round  of  simple,  vivid,  sensuous  delights,  but  the  Christian
 element  is  introduced  in  the  same  casual  way,  forming  an
 excrescence  upon  rather  than  an  integral  portion  of  the  text.
-Here  we  have  obviously  the  same  ideal  of  the  Happy  Other-
-world  as  in  Bran  and  Connla,  affected  too  in  its  ultimate
+Here  we  have  obviously  the  same  ideal  of  the  Happy  Otherworld  as  in  Bran  and  Connla,  affected  too  in  its  ultimate
 presentment  by  the  same  historic  factors. ^  For  the  purposes
 of  this  investigation  we  must  determine  if  possible  the  relation
 
@@ -8516,8 +8136,7 @@ was  once  as  fully  organised  as  that  of  the  Germanic  races,  it
 comprised  beneficent  and  malevolent  beings,  gifted  with  the
 attributes  and  characteristics  which  distinguish  the  immortal,
 whether  god  or  demon,  from  the  mortal.  Christianity  came
-and  made  a  relatively  rapid  conquest  of  Ireland ;  the  male-
-volent beings  of  the  older  mythology  sunk  to  giants  and
+and  made  a  relatively  rapid  conquest  of  Ireland ;  the  malevolent beings  of  the  older  mythology  sunk  to  giants  and
 monsters,  the  beneficent  ones  became  dei  terreni,  as  the  Book
 of  Armagh  phrases  it,  local,  on  the  whole  friendly  powers,
 having  their  dwellings  in  the  mounds  and  hillocks ;  the  life
@@ -8534,8 +8153,7 @@ grant  the  confusion  existing  in  our  present  texts — thus  the
 maiden  who  summons  Connla  and  carries  him  off  oversea,
 speaks  of  her  kindred  as  aes  side ;  thus  Fann  and  Liban  are
 addressed  in  Cuchulinn's  Sick  Bed  as  'women  of  the  hill,'
-and  they  too  dwell  across  the  water.  I  grant  the  incon-
-sistency involved,  for  whilst  in  the  descriptions  of  the  oversea
+and  they  too  dwell  across  the  water.  I  grant  the  inconsistency involved,  for  whilst  in  the  descriptions  of  the  oversea
 Elysium  the  absence  of  strife  and  contention,  of  death  and
 
 '  Pp.  274  ei  seq.
@@ -8549,12 +8167,10 @@ share  the  passions  of  mortal  men ;  they  have  their  wars  and
 contentions,  death  is  possible  amongst  them.  But  I  do  not
 think  it  necessary  to  argue  that  the  one  conception  must
 have  preceded  the  other,  and  that  there  was  any  conscious
-transference  of  attributes  from  the  one  to  the  other.  Assum-
-ing for  the  moment  that  we  have  before  us  varying  visions  of
+transference  of  attributes  from  the  one  to  the  other.  Assuming for  the  moment  that  we  have  before  us  varying  visions  of
 a  god's  land,  is  it  not  evident  that  there  must  be  an  inevitable
 sameness  about  them,  that  no  matter  how  definitely  they  may
-be  localised  their  staple  must  consist  of  vague  and  con-
-ventional descriptive  commonplaces  ?  Assuming  again  that
+be  localised  their  staple  must  consist  of  vague  and  conventional descriptive  commonplaces  ?  Assuming  again  that
 divine  personages  are  the  subjects  of  these  descriptions,  need
 it  surprise  us  to  find  different  dwelling-places  assigned  to
 them  ?  Finally,  if  the  sanctity  of  the  fairy  mound  be  a  product
@@ -8584,8 +8200,7 @@ ZIMMER'S    THEORY    DISCUSSED     179
 It  is  conceivable  that  the  Irish  had  progressed  beyond
 either  stage,  had  reached  the  cult  of  departmental  gods
 of  nature,  to  use  Mr.  Lang's  happy  phrase;  possible  also
-that  the  older  elements,  temporarily  relegated  to  the  back-
-ground during  the  sway  of  the  organised  nature-mythology,
+that  the  older  elements,  temporarily  relegated  to  the  background during  the  sway  of  the  organised  nature-mythology,
 reasserted  themselves  in  the  popular  minds  once  this  latter
 had  yielded  before  the  advent  of  Christianity.  In  this  sense
 Professor  Zimmer's  account  of  the  development  that  took
@@ -8631,8 +8246,7 @@ Mag  Mell,  of  which  a  text  is  also  found  in  the  Book  of
 Leinster,  but  without  this  heading.  The  tale  tells  how  as  the
 men  of  Connaught  were  assembled  near  Lough  Naneane  (the
 lake  of  birds)  under  their  king  Crimthann  Cass,  they  behold
-a  man  coming  towards  them  through  the  mist,  wearing  a  five-
-fold crimson  mantle,  in  his  hand  two  five-barbed  darts,  a  gold-
+a  man  coming  towards  them  through  the  mist,  wearing  a  fivefold crimson  mantle,  in  his  hand  two  five-barbed  darts,  a  gold-
 rimmed  shield  slung  on  him,  at  his  belt  a  gold-hilted  sword,
 golden-yellow  hair  streaming  behind  him.  He  declares  his
 name  and  errand  in  answer  to  the  greeting  of  Laegaire,  the
@@ -8702,8 +8316,7 @@ Laegaire  calls  upon  the  defenders  of  the  fort  to  surrender  her,
 
 i82       LAEGAIRE    MAC    CRIMTHAINN
 
-'  your  king  is  fallen,  your  chiefs  are  slain,'  says  he,  and  he  pro-
-mises them  life  in  exchange  for  the  queen.  So  it  was  done,
+'  your  king  is  fallen,  your  chiefs  are  slain,'  says  he,  and  he  promises them  life  in  exchange  for  the  queen.  So  it  was  done,
 and  as  she  came  out  she  pronounced  that  which  is  known  as
 the  Lament  of  the  daughter  of  Eochaid  the  Dumb  :
 
@@ -8767,8 +8380,7 @@ So  he  turns  from  them,  and  enters  again  into  the  sid,  where
 with  Fiachna  he  exercises  joint  kingly  rule,  nor  is  he  as  yet
 come  out  of  it.
 
-The  language  of  this  tale  is  comparatively  modern,  accord-
-ing to  Professor  Meyer ;  the  poems  as  we  have  them  may,
+The  language  of  this  tale  is  comparatively  modern,  according to  Professor  Meyer ;  the  poems  as  we  have  them  may,
 he  thinks,  be  compositions  of  the  tenth  century.  I  need
 not  repeat  my  contention  that  a  text  may  be  found  in  a
 twelfth  century  MS.  wholly  written  in  Middle  Irish,  and  yet
@@ -8840,8 +8452,7 @@ OF   THE   HAPPY   OTHERWORLD
 Didactic  use  of  the  Otherworld  conception — Baile  an  Scail  (The  Champion's
 Ecstasy),  summary  and  discussion  of  story — Cormac  mac  Art  in  Faery,
 summary  and  discussion  of  story— The  Happy  Otherworld  in  the  Ossianic
-cycle— The  Tomi  Clidna  episode  of  the  Agallamh  na  Senorach,  com-
-parison with  the  dinfishenchas  of  Tonn  Clidna  and  Tiiag  Inbir—Th&
+cycle— The  Tomi  Clidna  episode  of  the  Agallamh  na  Senorach,  comparison with  the  dinfishenchas  of  Tonn  Clidna  and  Tiiag  Inbir—Th&
 Behind  episode  in  the  Agallamh  na  Senorach — The  attribute  of  gigantic
 stature  in  the  Ossianic  cycle— The  Adventures  of  Teigue,  son  of  Cian,
 summary  and  discussion  of  story— The  Vision  of  MacConglinne.
@@ -8861,8 +8472,6 @@ most  remarkable  of  these  is  the  tract  known  as  Baile  an  Scail
 Irish  MS.  Although  the  MS.  tradition  is  a  late  one,  the  tract
 itself  was  known  to  Flann  Manistrech,  who  died  in  1056,  and
 who  used  it  for  historical  purposes.     It  professes  to  be  a
-
-186
 
 
 THE    CHAMPION'S    ECSTASY  187
@@ -8926,8 +8535,7 @@ eight  feet  between  its  arch  and  the  ground.
 The  remainder  of  the  tract  is  concerned  with  the  prophecy
 delivered  by  Lug  to  Conn.
 
-O'Curry  unfortunately  made  use  of  a  fragmentary  ver-
-sion. A  far  more  complete  one  is  found  in  an  earlier
+O'Curry  unfortunately  made  use  of  a  fragmentary  version. A  far  more  complete  one  is  found  in  an  earlier
 Oxford  MS.,  Rawl.  B.  512,  of  the  late  fourteenth  or  early
 fifteenth  century,  but  the  two  versions  agree  fairly  well  in
 the  part  common  to  both.  The  Oxford  version  purports  to
@@ -8948,8 +8556,7 @@ informs  me  that  the  description  of  Lug's  palace  contains  many
 old  verbal  forms,  and  that  in  his  opinion  the  language  of  the
 tract  may  well  be  as  early  as  the  latter  part  of  the  tenth  century.
 It  is  quoted  by  Flann  Manistrech,  who  died  in  the  middle  of
-the  eleventh  century,  and  the  last  king  mentioned  in  the  pro-
-phecy is  Flann  Cinneh,  son  of  Maelsechlainn,  the  opponent  of
+the  eleventh  century,  and  the  last  king  mentioned  in  the  prophecy is  Flann  Cinneh,  son  of  Maelsechlainn,  the  opponent  of
 Cormac  (to  whom  the  compilation  of  Cormac's  glossary  and
 other  learned  works  is  ascribed),  who  died  in  914  a.d.  As
 the  prophecy  describes  him  as  '  last  prince  of  Ireland '  it  must
@@ -9005,8 +8612,7 @@ branch,  and  they  fell  into  pleasant  slumber.  After  a  month
 the  stranger  returned  and  took  away  Cairbre,  Cormac's  son.
 Again  the  king  stilled  the  grief  of  all  by  shaking  the  silver
 branch.  A  third  time  the  stranger  came,  and  he  claimed
-Eithne  Taebfata,  Cormac's  wife.  Full  of  grief,  the  king  pur-
-sued, and  his  men  with  him.  But  a  thick  mist  overfell  them,
+Eithne  Taebfata,  Cormac's  wife.  Full  of  grief,  the  king  pursued, and  his  men  with  him.  But  a  thick  mist  overfell  them,
 and,  when  it  cleared,  Cormac  found  himself  alone  on  a  great
 plain.  After  seeing  many  marvels,  the  king  came  to  a  stately
 palace,  and  entering,  found  a  couple,  husband  and  wife ;
@@ -9030,8 +8636,7 @@ told  of  his  corn,  which  sowed  and  cut  and  garnered  itself,
 and,  eat  of  it  as  one  might,  it  was  never  less  nor  more.  A  true
 tale,  for  the  second  quarter  was  done.  It  was  now  the  wife's
 turn,  and  she  told  of  her  seven  cows  and  seven  sheep ;  the
-milk  of  the  cows  and  the  wool  of  the  sheep  sufficed  the  in-
-habitants of  the  Land  of  Promise  for  food  and  clothing.  A
+milk  of  the  cows  and  the  wool  of  the  sheep  sufficed  the  inhabitants of  the  Land  of  Promise  for  food  and  clothing.  A
 true  tale,  for  the  third  quarter  was  done.  All  turned  to
 Cormac,  and  he  told  how  children  and  wife  had  been  carried
 off  and  how  he  had  followed  them.  The  pig  was  now  cooked,
@@ -9073,8 +8678,7 @@ breathed  into  the  old  conceptions,  a  spirit  of  didactic  allegory,
 stamping  the  whole,  as  does  also  a  faint  flavour  of  mediaeval
 courtoisie,  as  a  product  of  the  later  middle  ages.  This  very  fact
 gives  additional  value  to  the  archaic  simplicity  with  which  the
-charms  and  delights  of  Manannan's  realm  are  set  forth.  Re-
-fine and  embellish  as  the  twelfth  or  thirteenth-century  story-
+charms  and  delights  of  Manannan's  realm  are  set  forth.  Refine and  embellish  as  the  twelfth  or  thirteenth-century  story-
 teller may,  the  primitive  nature  of  his  material  is  apparent.
 The  milk-pail  that  empties  not,  the  swine  slain  one  day  alive
 the  next,  the  self-garnering  wheat,  the  inexhaustible  fleece,
@@ -9098,8 +8702,7 @@ Otherworld  which  are  found  imbedded  in  the  Ossianic  cycle.
 Without  in  any  way  prejudging  the  question  of  the  origin  of
 the  legends  which  have  centred  round  Finn  mac  Cumail  and
 his  warrior  band,  it  may  be  confidently  affirmed  that  the  bulk
-of  the  tales  in  which  his  fortunes  are  recounted  are  consider-
-ably younger  than  those  which  tell  of  the  Ultonian  knights,  or
+of  the  tales  in  which  his  fortunes  are  recounted  are  considerably younger  than  those  which  tell  of  the  Ultonian  knights,  or
 than  the  majority  of  the  historic  romances  connected  with
 personages  of  the  first  six  centuries  of  our  era.  And  by
 younger,  I  do  not  mean  younger  in  respect  of  language  only,
@@ -9117,8 +8720,7 @@ official  recognition,  so  to  say,  after  the  rise  of  the  Brian
 dynasty  in  the  early  eleventh  century.^  Certain  it  is  that
 a  considerable  portion  of  the  Ossianic  cycle  must  have
 assumed,  substantially,  the  shape  under  which  it  has
-come  down  to  us  in  the  twelfth,  thirteenth,  and  four-
-teenth centuries.  To  avoid  misconception  I  again  repeat
+come  down  to  us  in  the  twelfth,  thirteenth,  and  fourteenth centuries.  To  avoid  misconception  I  again  repeat
 that  only  the  form  in  which  the  matter  is  presented,  not  the
 matter  itself,  is  here  spoken  of.  The  latter  is  often  essentially
 the  same  as  portions  of  earlier  cycles,  a  fact  which  some
@@ -9135,8 +8737,7 @@ N
 and  characterisation.  This  I  am  chary  of  admitting  save  in
 a  very  Hmited  measure.  The  stories  in  question  are  found  in
 the  Agallamh  na  Sejiorach,  or  Colloquy  of  the  Ancients,  one
-of  the  most  extensive  prose  texts  of  the  Ossianic  cycle,  pre-
-served in  several  mss.  of  the  early  fifteenth  century,  and  a
+of  the  most  extensive  prose  texts  of  the  Ossianic  cycle,  preserved in  several  mss.  of  the  early  fifteenth  century,  and  a
 product,  in  all  probability,  of  the  thirteenth  or  fourteenth
 century.^  In  tone  and  spirit  it  may  be  described  as  an
 attempt  to  conciliate  traditions,  ahen,  if  not  hostile,  to
@@ -9155,13 +8756,11 @@ thousand  legions  of  demons  that  had  been  floating  over  them
 departed  forthwith  into  hills  and  clefts  and  the  other  regions
 of  the  country.  The  saint  shows  himself  full  of  a  charmingly
 sympathetic  curiosity  respecting  the  past  history  of  the  land,
-and  finds  in  the  aged  hero  an  inexhaustible  mine  of  informa-
-tion. Together  they  tread  the  length  and  breadth  of  Ireland ;
+and  finds  in  the  aged  hero  an  inexhaustible  mine  of  information. Together  they  tread  the  length  and  breadth  of  Ireland ;
 every  mound  and  fort,  every  hill  and  fountain,  suggests  a
 question  to  Patrick,  an  answering  story  to  Caoilte.  The
 latter,  being  asked  why  a  certain  wave  is  called  Tonn  Clidna,
-relates  as  follows :  Among  Finn's  favourite  squires  was  Ciab-
-han,  son  of  Eochaid  Red-weapon  of  Ulidia.  Now  the  Fianna
+relates  as  follows :  Among  Finn's  favourite  squires  was  Ciabhan,  son  of  Eochaid  Red-weapon  of  Ulidia.  Now  the  Fianna
 generally  had  no  liking  for  him,  as  every  woman,  mated  or
 1  I  use  Mr.  Standish  Hayes  O'Grady's  version  in  Silva  Gadelica.
 
@@ -9250,8 +8849,7 @@ With  these  few  indications  of  the  nature  of  the  text  to
 guide  the  reader,  I  lay  before  him  the  dinnshenchas  of  Tonn
 
 ^  Mr.  Whitley  Stokes  has  edited  and  translated  the  fragment  of  this
-work  contained  in  the  Oxford  ms.,  Rawl.  B.  500  (Folk  Lore,  iii. ),  re-
-printed (D.  Nutt)  under  the  title  Bodley  Dinnschenchas ;  in  Folk-
+work  contained  in  the  Oxford  ms.,  Rawl.  B.  500  (Folk  Lore,  iii. ),  reprinted (D.  Nutt)  under  the  title  Bodley  Dinnschenchas ;  in  Folk-
 Lore,  iv.,  he  has  edited  the  fragment  found  in  Kilbride  xvi.  (reprinted
 under  the  title  Edinburgh  Dinnshenchas,  D.  Nutt) ;  finally  in  the  Revue
 Celtique,  vols.  xv.  and  xvi.,  he  has  edited  and  translated  the  text  found  in
@@ -9289,10 +8887,8 @@ was  familiar  with  the  Agalhwih  as  we  have  it.  Before
 commenting  upon  this  story  it  may  be  well  to  cite  another
 dinnshenchas  which  alludes  to  Clidna's  wave,  that  of  Tuati
 Inbir,  the  more  so  as  the  tradition  it  preserves  is  of  the  same
-nature,  and  as  it  likewise  is  concerned  with  the  Happy  Other-
-world  and  the  inmates  thereof.  The  substance  of  this
-dinnshenchas  is  found  in  the  Book  of  Leinster  in  a  com-
-paratively speaking  lengthy  poem,  attributed  to  a  bard  of  the
+nature,  and  as  it  likewise  is  concerned  with  the  Happy  Otherworld  and  the  inmates  thereof.  The  substance  of  this
+dinnshenchas  is  found  in  the  Book  of  Leinster  in  a  comparatively speaking  lengthy  poem,  attributed  to  a  bard  of  the
 name  of  Maile  ;  later  mss.  give  it  briefly  in  prose  as  follows  :  ^
 
 '  Bodley  Dinn.  No.  10.  R.  C.  xv.  2  Qjej  gjiva  Gad.,  528.
@@ -9355,8 +8951,7 @@ any  attempt  at  reconstituting  the  original  form  of  the  tale.
 
 Several  points  are  noteworthy  in  the  Dinnshenchas  stories ;
 the  Happy  Otherworld  is  designated  as  in  Bran  and  Connla,
-the  Pleasant  Plain,  the  Land  of  Promise,  the  Land  of  Ever-
-living  Women.  Immortality  seems  implicitly  denied  to  its
+the  Pleasant  Plain,  the  Land  of  Promise,  the  Land  of  Everliving  Women.  Immortality  seems  implicitly  denied  to  its
 inhabitants  by  Clidna's  death,  but  it  is  perhaps  overstraining
 the  evidence  to  assert  this,  as  it  may  possibly  be  due,  as  I
 have  hinted,  to  a  special  exercise  of  power  on  the  part  of  the
@@ -9398,8 +8993,7 @@ spear-cast  of  Caoilte's.  The  last  the  Fenian  heroes  beheld
 of  him,  he  entered  a  great  galley  with  two  rowers,  that  bore
 down  out  of  the  west,  and  went  off  no  man  knew  whither.
 
-In  this  tale  we  see,  if  I  am  not  mistaken,  the  older  con-
-ception undergoing  change  at  the  story-teller's  caprice;  the
+In  this  tale  we  see,  if  I  am  not  mistaken,  the  older  conception undergoing  change  at  the  story-teller's  caprice;  the
 archaic  machinery  is  retained  as  part  of  a  conventional  stock
 of  situations,  but  its  genuine  significance  is  obscured.  A
 curious  feature  is  the  giant  stature  attributed  to  the  dwellers  in
@@ -9445,8 +9039,7 @@ so  many  hundred  years,  was  created  anew  in  the  heart  and
 mind  of  the  unknown  poet  to  whom  we  owe  the  Adventures
 of  Tadg  (Teigue),  the  son  of  Cian.  The  fascinating  beauty  of
 the  story,  the  many  points  of  interest  it  presents  to  the  student
-of  Irish  romance,  entitle  it  to  lengthened  and  careful  ex-
-amination. The  tale,  edited  and  translated  by  Mr.  Standish
+of  Irish  romance,  entitle  it  to  lengthened  and  careful  examination. The  tale,  edited  and  translated  by  Mr.  Standish
 Hayes  O'Grady  in  Silva  Gadelica,  from  the  fifteenth  century
 
 1  Cf.  Waifs  and  Strays,  vol.  iv.,  The  Fians,  and  Mr.  Jacobs'  More
@@ -9480,8 +9073,7 @@ all  over  the  feeders.  For  six  weeks  they  pull  away,  the  captive
 guide  loses  his  bearings,  and  they  are  all  adrift.  At  length
 they  descry  land  with  a  good  coast  of  a  pleasing  aspect.
 Closing  in,  they  find  a  fine  green-bosomed  estuary  with  spring
-well-like  sandy  bottom,  delicate  woods  with  empurpled  tree-
-tops  fringing  delightful  streams.  And  when  they  land  they
+well-like  sandy  bottom,  delicate  woods  with  empurpled  treetops  fringing  delightful  streams.  And  when  they  land  they
 forget  cold,  and  foul  weather  and  tempest,  nor  do  they  crave
 for  food  or  drink,  the  perfume  of  the  fragrant  crimson
 branches  being  by  way  of  meat  and  all-satisfying  aliment
@@ -9515,8 +9107,7 @@ is  in  it  containing  an  island  surrounded  with  a  palisade  of
 gold,  its  name  being  itii's  Fatmos,  in  which  are  all  saints  and
 righteous  that  have  served  God.  In  the  dtm  with  the  golden
 rampart  dwell  kings  and  rulers  and  noblemen  of  ordained
-rank,  both  Firbolgs  and  Tuatha  De  Danann.  Teigue  com-
-mends her  knowledge  and  right  instruction.  'Truly,'  she
+rank,  both  Firbolgs  and  Tuatha  De  Danann.  Teigue  commends her  knowledge  and  right  instruction.  'Truly,'  she
 says,  '  I  am  well  versed  in  the  worUl's  history,  for  this  is
 precisely  the  earth's  fourth  paradise,  the  others  being  ifiis  Daleb
 in  the  world's  southern,  and  inis  Escandra  in  its  boreal  part,
@@ -9550,8 +9141,7 @@ Conn  of  the  Hundred  Battles.'  'Art  thou,  then,  Connla?'
 was  that  hither  brought  me.'  'I  have  bestowed  upon  him
 true  affection's  love,'  explains  the  maiden,  'and  therefore
 wrought  to  have  him  come  to  me  in  this  land,  where  our
-delight,  both  of  us,  is  to  continue  in  looking  at  and  in  per-
-petual contemplation  of  one  another,  above  and  beyond  which
+delight,  both  of  us,  is  to  continue  in  looking  at  and  in  perpetual contemplation  of  one  another,  above  and  beyond  which
 we  pass  not  to  commit  impurity  or  fleshly  sin  whatever.'
 '  Truly,'  comments  Teigue,  '  a  beautiful  and  at  the  same  time
 a  comical  thing.'  The  fort  stands  ready  for  behoof  of  the
@@ -9583,8 +9173,7 @@ melancholy  nor  sorrow.  Soon  they  mark  a  whole  array  of
 feminine  beauty,  and  among  them  a  lovely  damsel  of  refined
 form,  the  noblest  and  most  divine-inspiring  of  the  whole
 world's  women.  She  greets  Teigue,  and  in  answer  to  his
-request  to  learn  her  name,  '  I  am,'  says  she,  '  Cleena  Fair-
-head  of  the  Tuatha  Dq  Danann,  sweetheart  of  Ciaban  of  the
+request  to  learn  her  name,  '  I  am,'  says  she,  '  Cleena  Fairhead  of  the  Tuatha  Dq  Danann,  sweetheart  of  Ciaban  of  the
 curling  locks.'  She  too  lives  wholly  upon  the  fruit  of  the
 apple-tree.  As  they  were  talking  there  entered  through  the
 window  tlirec  birds :  a  blue  one  with  crimson  head ;  a  crimson
@@ -9592,10 +9181,8 @@ with  head  of  green,  a  green  one  having  on  his  head  a  colour
 of  gold.  They  perch  on  the  apple-tree  and  warble  melody
 sweet  and  harmonised,  such  that  the  sick  would  sleep  to  it.
 These  birds  shall  go  with  the  wanderers  and  make  symphony
-and  minstrelsy  for  them,  so  that  neither  by  sea  nor  land  sad-
-ness nor  grief  shall  afflict  them.  Cleena  also  gives  them  a
-fair  cup  of  emerald  hue,  if  water  be  poured  into  it  incon-
-tinently it  is  wine.  Other  gifts  and  counsels  she  imparts,
+and  minstrelsy  for  them,  so  that  neither  by  sea  nor  land  sadness nor  grief  shall  afflict  them.  Cleena  also  gives  them  a
+fair  cup  of  emerald  hue,  if  water  be  poured  into  it  incontinently it  is  wine.  Other  gifts  and  counsels  she  imparts,
 and  leading  them  to  their  boat  bids  tlicm  farewell,  asking
 
 
@@ -9687,8 +9274,7 @@ poem.  There  exist  a  number  of  prose  tales  belonging  to  the  Fenian  or
 Ossianic  cycle,  which  wear  the  appearance  of  being  free  variations  upon
 older  themes,  made  by  men  who,  although  in  touch  with  popular  tradition,
 were  not  bound  by  it.  The  discrimination  of  older  and  younger  elements
-in  these  stories,  dating  in  their  present  form  from,  the  sixteenth,  seven-
-teenth, and  eighteenth  centuries,  is  a  task  hardly  essayed  as  yet.  I  have
+in  these  stories,  dating  in  their  present  form  from,  the  sixteenth,  seventeenth, and  eighteenth  centuries,  is  a  task  hardly  essayed  as  yet.  I  have
 thought  it  best  at  this  stage  to  leave  this  literature  out  of  account,  just  as
 I  have  made  no  use  of  living  folk-tradition.
 
@@ -9700,8 +9286,7 @@ HAPPY  OTHERWORLD  CONCEPTION
 
 The  Echtra  Nerai  (Nera's  Expedition  into  the  Otherworld) — The  Tain  b6
 Regamna  (the  Raid  of  Regamna's  Kine) — Angus  of  the  Brugh  and  the
-conquest  of  the  Sid — The  dinnshetichas  of  Mag  m-Breg — The  dinti-
-shenchas  of  Sinann — The  dinnshenchas  of  Boann — The  dinnshcnchas  of
+conquest  of  the  Sid — The  dinnshetichas  of  Mag  m-Breg — The  dintishenchas  of  Sinann — The  dinnshenchas  of  Boann — The  dinnshcnchas  of
 Loch  Garman — The  dinnshenchas  of  Sliab  Fuait — The  dinnshenchas  of
 Findloch  Cera.
 
@@ -9729,8 +9314,7 @@ reaches  the  gallows  and  essays  to  put  a  withe  roiuid  the  foot
 2IO  NERA'S    ADVENTURES
 
 of  one  of  the  captives  and  thrice  he  fails,  whereupon  the
-hanged  man  girds  at  him  and  tells  he  must  do  the  work  pro-
-perly even  if  he  keep  at  it  till  the  morrow.  The  task  being
+hanged  man  girds  at  him  and  tells  he  must  do  the  work  properly even  if  he  keep  at  it  till  the  morrow.  The  task  being
 accomplished,  the  hanged  man  declares  his  thirst,  and  Nera,
 offering  him  a  drink,  starts  off,  carrying  him  on  his  shoulders.^
 They  come  after  a  while  into  the  sidoi  Cruachan,  and  Nera  stays
@@ -9762,8 +9346,7 @@ task  for  his  neglect  by — the  corpse  itself.  The  grim  and  grotesque
 humour  of  the  situation  is  essentially  Irish,  and,  as  we  see  by  Nera's
 Adventures,  goes  back  to  a  tale  as  old  in  its  present  shape  as  the  tenth
 century  at  the  latest,  and  doubtless  in  its  substance  centuries  older.
-There  could  hardly  be  a  finer  instance  of  the  toughness  of  popular  tra-
-dition on  Gaelic  soil.
+There  could  hardly  be  a  finer  instance  of  the  toughness  of  popular  tradition on  Gaelic  soil.
 
 
 ANGUS    OF    THE    BRUGH.  211
@@ -9821,8 +9404,7 @@ B.C.,  and  states  that  Crimthann  made  it  the  burying-place  for
 himself  and  his  descendants  because  he  had  married  a  wife  of
 the  race  of  the  Tuatha  De.  Thus  in  the  ninth  and  tenth
 centuries  there  was  a  tradition  concerning  the  spot  which  may
-be  described  as  the  historical  one,  though  it  was  largely  inter-
-mingled with  mythical  elements.  Contemporaneously,  an
+be  described  as  the  historical  one,  though  it  was  largely  intermingled with  mythical  elements.  Contemporaneously,  an
 account  continued  to  be  transcribed  which  is  entirely  mythical
 and  which  is  most  fully  represented  by  one  of  the  remsccla  of
 the  Tilin  bo  Cuailgne  entitled  '  The  Conquest  of  the  Sid,'  ^  a
@@ -9845,8 +9427,7 @@ full  of  excellent  beer ;  moreover  in  that  abode  no  one  ever  died.
 
 MYTHS    IN    THE    DINNSHENCHAS      213
 
-This  account  it  will  be  noticed  agrees  with  that  of  the  over-
-sea Elysium  in  singling  out  deathlessness  as  the  main  attribute
+This  account  it  will  be  noticed  agrees  with  that  of  the  oversea Elysium  in  singling  out  deathlessness  as  the  main  attribute
 of  the  Otherworld.  It  may  be  compared  with  stories  of  the
 Nera  type  in  the  prominence  given  to  the  fact  that  the  sid
 dwellers  are  owners  of  (marvellous)  domestic  animals,  a  trait
@@ -9869,8 +9450,7 @@ that  land.
 A  point  is  noteworthy  in  this  story.  The  land  of  Falga  is
 a  synonym  of  the  Land  of  Promise.  Now  Falga  seems  to
 have  been  an  old  name  of  the  Isle  of  Man  (MS.  Mat.  588.
-n.  172)  which  is  also  traditionally  placed  under  the  head-
-ship of  Manannan,  lord  of  the  Happy  Otherworld  in  other
+n.  172)  which  is  also  traditionally  placed  under  the  headship of  Manannan,  lord  of  the  Happy  Otherworld  in  other
 stories.  It  is  possible  that  these  names  date  back  to  a  period
 when  the  Goidels  inhabited  Britain  and  when  Man  was
 par  excellence  the  Western  Isle,  the  home  of  the  lord  of  the
@@ -9925,8 +9505,7 @@ THE   WELL   OF    FAERY  215
 
 time  Boand  went  through  pride  to  test  the  well's  power,  and
 declared  it  had  no  secret  force  which  could  shatter  her  form,
-and  thrice  she  walked  withershins  round  the  well.  Where-
-upon three  waves  from  the  well  break  over  her  and  deprive
+and  thrice  she  walked  withershins  round  the  well.  Whereupon three  waves  from  the  well  break  over  her  and  deprive
 her  of  a  thigh,  and  one  of  her  hands.  Then  she,  fleeing
 her  shame,  turns  seaward,  with  the  water  behind  her  as  far
 as  Boyne  mouth.  Now  she  was  the  mother  of  Oengus  son  of
@@ -9965,8 +9544,7 @@ the  world.
 2i6  CATHAIR    MOR'S    VISION
 
 an  example  is  furnished  by  the  dimishenchas  of  Loch  Garman  :  ^
-'Cathair  Mor  had  a  vision  in  which  he  saw  a  hundreded  hospital-
-ler's daughter,  with  a  beautiful  form,  and  every  colour  in  her
+'Cathair  Mor  had  a  vision  in  which  he  saw  a  hundreded  hospitaller's daughter,  with  a  beautiful  form,  and  every  colour  in  her
 raiment,  and  she  was  pregnant.  Eight  hundred  years  she  was
 thus  until  she  brought  forth  a  manchild,  and  on  the  day  he
 was  born  he  was  stronger  than  his  mother.  They  begin  to
@@ -9990,8 +9568,7 @@ Many  hosts  there,  every  one  a-drinking  from  the  river  and  the
 lake.  This  is  the  great  hill  above  their  heads,  thy  power  over
 all.  This  is  the  tree  with  the  colour  of  gold  and  with  its  fruits,
 thou  over  Ireland  in  its  sovranty.  This  is  the  music  that  was
-on  the  tops  of  the  trees,  thy  eloquence  in  guarding  and  correct-
-ing the  judgments  of  the  Gaels.  This  is  the  wind  that  would
+on  the  tops  of  the  trees,  thy  eloquence  in  guarding  and  correcting the  judgments  of  the  Gaels.  This  is  the  wind  that  would
 tumble  the  fruit,  thy  liberality  in  dispensing  jewels  and
 treasures.     And  now  thou  hast  partaken  of  the  rede  of  this
 
@@ -10014,8 +9591,7 @@ We  saw  {supra,  page  191)  the  name  'isle  of  truth'  given  to
 the  oversea  Elysium.  Some  such  designation  would  seem
 to  have  originated  the  following  story :  '  When  Fuat,  son  of
 Bile,  son  of  Brig,  son  of  Breogann,  was  coming  to  Ireland  he
-visited  an  island  on  the  sea,  namely  Inis  Magdenaj  or  Moag-
-deda,  that  is  Mbr-bc-diada,  "Great-young-divine."  Whoever
+visited  an  island  on  the  sea,  namely  Inis  Magdenaj  or  Moagdeda,  that  is  Mbr-bc-diada,  "Great-young-divine."  Whoever
 set  his  sole  upon  it  would  tell  no  lie  so  long  as  he  was  therein.
 So  Fuat  brought  out  of  it  a  sod  whereon  he  sat  while  judging
 and  while  deciding  questions.  Now  when  he  would  utter
@@ -10023,8 +9599,7 @@ falsehood  its  under  part  would  turn  upwards,  and  its  grass  down
 to  the  gravel.  But  when  he  told  truth  its  grass  would  turn
 upwards.  And  that  sod  is  still  on  the  mountain,  and  'tis  on  it
 lay  the  single  grain  which  fell  from  Patrick's  gelding.  So
-thenceforward,  because  of  preserving  the  truth  it  is  the  adora-
-tion of  elders.'
+thenceforward,  because  of  preserving  the  truth  it  is  the  adoration of  elders.'
 
 This  truth-revealing  sod  recalls  the  goblet  of  truth  met
 with  in  the  story  of  Cormac's  Adventures  at  the  Court  of
@@ -10096,8 +9671,7 @@ attempting  some  classification,  and  endeavouring  to  frame
 some  scheme  of  historical  development  which  may  enable  us
 better  to  understand  them,  we  must  glance  at  texts  professedly
 Christian  in  origin  and  character.  The  Irish  vision  of  the
-Christian  heaven  cannot  but  throw  light  upon  the  Irish  pre-
-sentment of  the  Happy  Othem^orld.  My  first  quotation  will
+Christian  heaven  cannot  but  throw  light  upon  the  Irish  presentment of  the  Happy  Othem^orld.  My  first  quotation  will
 be  from  the  so-called  Fis  Adamnain,  a  vision  of  Heaven  and
 Hell  ascribed  to  the  celebrated  abbot  of  lona  who  died
 in  703.^  The  ascription  is  certainly  erroneous;  historical
@@ -10110,8 +9684,6 @@ is  assigned,  on  linguistic  grounds,  by  the  editor.      But,  as  I
 the  fifty  copies  that  were  printed  of  the  precious  tract,  I  possess  perhaps
 the  most  precious,  a  gift  from  the  editor  to  his  painter-poet  friend,  Dante
 Gabriel  Rossetti.
-
-219
 
 
 220  ADAMNAN'S   VISION
@@ -10133,8 +9705,7 @@ Saints  of  the  North  of  the  World,  and  of  the  South  of  it,  in
 their  two  vast  assemblies  South  and  North.  Every  one  then,
 who  is  in  the  Land  of  the  Saints,  is  nigh  unto  the  hearing  of
 the  melodies  and  to  the  contemplation  of  the  Vessel  wherein
-are  nine  grades  of  Heaven  according  to  their  steps  and  accord-
-ing to  their  order.
+are  nine  grades  of  Heaven  according  to  their  steps  and  according to  their  order.
 
 '  As  to  the  Saints,  again,  at  one  time  they  sing  marvellous
 music,  praising  God.  At  another  time  they  are  silent  at  the
@@ -10146,8 +9717,7 @@ which  is  in  the  Land.
 '  A  wonderful  Prince  there  is  too,  South-East  of  them,  face
 to  face  with  them,  and  a  glassen  veil  between  them  (and  him),
 and  a  golden  portico  to  the  South  of  him.  Through  this  they
-perceive  the  form  and  separation  of  Heaven's  family.  How-
-beit,  there  is  neither  veil  nor  darkness  between  Heaven's
+perceive  the  form  and  separation  of  Heaven's  family.  Howbeit,  there  is  neither  veil  nor  darkness  between  Heaven's
 family  and  the  Saints,  but  they  are  in  clearness  and  in  the
 Saint's  presence  on  the  side  overagainst  them  continually.
 
@@ -10174,18 +9744,15 @@ family  around  the  Throne  of  the  Lord  himself.  Thus,  then,  is
 that  throne,  as  a  canopied  chair  with  four  columns  of  precious
 stone  beneath  it.  Yea  though  there  should  not  be  rapture  to
 any  one  save  the  harmonious  singing  together  of  these  four
-columns,  enough  to  him  there  were  of  glory  and  of  delight-
-fulness.  Three  noble  Birds  in  the  chair  before  the  King,  and
+columns,  enough  to  him  there  were  of  glory  and  of  delightfulness.  Three  noble  Birds  in  the  chair  before  the  King,  and
 their  mind  on  their  Creator  for  ever  :  that  is  their  office.  They
-likewise  celebrate  the  eight  hours  of  prayer,  praising  and  mag-
-nifying the  Lord,  with  chanting  of  Archangels  coming  thereon.'
+likewise  celebrate  the  eight  hours  of  prayer,  praising  and  magnifying the  Lord,  with  chanting  of  Archangels  coming  thereon.'
 
 *  The  City,  then,  wherein  is  that  throne,  thus  it  is,  and  seven
 glassen  walls  with  divers  colours  around  it.
 
 '  Loftier  is  each  wall  than  the  other.  The  platform  and
-lowest  base  of  the  City  is  of  white  glass  with  the  sun's  counten-
-ance upon  it,  made  changeful  with  blue  and  purple  and  green
+lowest  base  of  the  City  is  of  white  glass  with  the  sun's  countenance upon  it,  made  changeful  with  blue  and  purple  and  green
 and  every  hue  besides.
 
 '  A  family  beautiful,  very  meek,  very  gentle,  again  without
@@ -10210,8 +9777,7 @@ with  beautiful  ranks  of  precious  stone  and  with  changefulness
 of  divers  gems,  and  with  stalls  and  crowns  of  carbuncle  on  the
 rails  of  that  chancel.  Three  precious  stones,  then,  with  a
 melodious  voice  and  with  the  sweetness  of  music  between
-every  two  chief  assemblies,  and  their  upper  halves  as  flam-
-beaux aflame.  Seven  thousand  angels  in  the  forms  of  chief
+every  two  chief  assemblies,  and  their  upper  halves  as  flambeaux aflame.  Seven  thousand  angels  in  the  forms  of  chief
 lights  irradiating  and  undarkening  the  City  round  about.
 Seven  thousand  others  in  its  very  midst  flaming  for  ever  round
 the  royal  City.  The  men  of  the  world  in  one  place,  though
@@ -10221,8 +9787,7 @@ those  lights  would  suffice  them  with  food.
 '  Thus,  then,  is  that  City,  to  wit :  a  Kingdom  without  pride,
 without  haughtiness,  without  falsehood,  without  blasphemy,
 without  fraud,  without  pretence,  without  reddening,  without
-blushing,  without  disgrace,  without  deceit,  without  envy,  with-
-out pride,  without  disease,  without  sickness,  without  poverty,
+blushing,  without  disgrace,  without  deceit,  without  envy,  without pride,  without  disease,  without  sickness,  without  poverty,
 without  nakedness,  without  destruction,  without  extinction,
 without  hail,  without  snow,  without  wind,  without  wet,  without
 noise,  without  thunder,  without  darkness,  without  coldness, —
@@ -10234,14 +9799,12 @@ of  every  goodness.'
 ADAMNAN'S    VISION  223
 
 A  certain  community  of  style  and  literary  method  between
-the  writer  of  these  passages  and  the  previously  cited  de-
-scriptions of  the  Happy  Otherworld  cannot,  I  think,  fail  to
+the  writer  of  these  passages  and  the  previously  cited  descriptions of  the  Happy  Otherworld  cannot,  I  think,  fail  to
 strike  the  reader.  There  is  the  same  fondness  for  detail,  the
 same  richness  of  colour,  the  same  achievement  of  effect  by
 accumulation  rather  than  by  selection  of  images.  In  addition
 to  this  there  are  many  actual  parallels  between  the  Christian
-and  what  may,  provisionally,  be  called  the  non-Christian  de-
-scriptions of  Elysium.  Its  difference  from  this  world  is  in-.
+and  what  may,  provisionally,  be  called  the  non-Christian  descriptions of  Elysium.  Its  difference  from  this  world  is  in-.
 dicated  in  both  cases  by  the  absence  of  earthly  imperfections,
 partly  physical,  partly  spiritual ;  here  the  resemblance  is  very
 close.  In  the  enumeration  of  the  positive,  as  distinguished
@@ -10258,8 +9821,7 @@ the  island  dwellers  {supra^  p.  169).
 The  Tidings  of  Doomsday.
 
 A  text  of  the  same  date  as  Adamnan's  vision,  likewise  edited
-and  translated  l:)y  Mr.  Whitley  Stokes,  is  the  Tidings  of  Dooms-
-day.^ But  it  differs  in  many  important  respects  from  Adamnan's
+and  translated  l:)y  Mr.  Whitley  Stokes,  is  the  Tidings  of  Doomsday.^ But  it  differs  in  many  important  respects  from  Adamnan's
 vision.  It  is  far  more  of  a  paraphrase  of  Scriptural  and  patristic
 writings,  more  insistent  upon  the  horrors  of  hell,  less  inspired
 in  its  vision  of  the  Beatific  City.  For  this  very  reason  certain
@@ -10278,14 +9840,12 @@ non  valde,  the  good  who  are  not  greatly  good,  who  after
 judgment  go  into  reward ;  the  botii  valde  who  at  once  pass
 into  heaven  and  all  golden  rewards.  These  are  :  '  the  saints
 and  the  righteous,  who  have  fulfilled  the  commands  of  the
-Lord  and  his  teaching  .  .  .  the  folk  of  gentleness  and  tender-
-ness, of  charity  and  of  mercy,  and  of  every  fair  deed  besides,
+Lord  and  his  teaching  .  .  .  the  folk  of  gentleness  and  tenderness, of  charity  and  of  mercy,  and  of  every  fair  deed  besides,
 the  folk  of  virginity  and  penitence,  and  widows  faithful  for
 God's  sake.  ...  A  place  wherein  is  the  Light  that  excels  every
 light.  .  .  .  Life  eternal  without  death ;  clamour  of  joy  without
 sorrow ;  health  without  sickness ;  youth  without  old  age ;
-peace  without  quarrel ;  rest  without  adversity ;  freedom  with-
-out labour,  without  need  of  food,  raiment  or  sleep ;  holiness
+peace  without  quarrel ;  rest  without  adversity ;  freedom  without labour,  without  need  of  food,  raiment  or  sleep ;  holiness
 without  age,  without  decay ;  radiant  unity  of  angels ;  delights
 of  paradise ;  feasting  without  interruption  among  nine  ranks
 of  angels  and  of  holy  folks  of  heaven  and  holy  assemblies  of
@@ -10331,8 +9891,7 @@ Book  of  the  Dun  Cow  which  thus  describes  Elijah  in  Paradise  :
 '  Elijah  under  the  tree  of  life  in  Paradise,  and  a  gospel  in  his
 hand  to  preach  to  the  souls  there.  Then  come  the  birds
 that  they  may  be  eating  the  tree's  berries  ;  great  berries,  sooth
-are  those,  sweeter  are  they  than  every  honey,  and  more  in-
-toxicating than  every  wine.'  Now  this  text  was  known  to  the
+are  those,  sweeter  are  they  than  every  honey,  and  more  intoxicating than  every  wine.'  Now  this  text  was  known  to  the
 writer  of  the  Voyage  of  Snegdus  and  Mac  Riagla  (as  we  have
 already  seen,  one  of  the  latest  imrama,  and  a  work  of  the
 middle  or  late  ninth  century)^  who  brings  his  travellers  to  the
@@ -10360,8 +9919,7 @@ King,  for  there  were  a  hundred  doors  in  that  house,  and  an
 altar  at  every  door,  and  a  priest  at  every  altar  offering  Christ's
 body.'
 
-The  import  of  this  instance,  if  correctly  interpreted,  is  far-
-reaching.  If  the  ninth  century  author  of  the  Inrani  Snegdus
+The  import  of  this  instance,  if  correctly  interpreted,  is  farreaching.  If  the  ninth  century  author  of  the  Inrani  Snegdus
 had  before  him  two  partly  parallel  accounts  of  a  paradisiacal
 land,  which  he  carefully  distinguished,  whilst,  at  the  same
 time  he  gave  Christian  form  to  what  originally  was  non-
@@ -10392,8 +9950,7 @@ TIR    TAIRNGIRI  227
 
 Canaan,  flowing  with  milk  and  honey,  and  the  heavenly
 kingdom.  Thus  the  glossator  of  the  Latin  Irish  commentary
-on  the  Epistles  of  St.  Paul,  preserved  in  the  library  of  Wurz-
-burg  University,  who  wrote  in  the  eighth  and  possibly  even  in
+on  the  Epistles  of  St.  Paul,  preserved  in  the  library  of  Wurzburg  University,  who  wrote  in  the  eighth  and  possibly  even  in
 the  seventh  century,  notes  on  Hebrews  vi.  15,  'And  so,  after
 he  (Abraham)  had  patiently  endured,  he  obtained  this  promise '
 (or,  to  quote  the  Vulgate,  '  adeptus  est  repromissionem ')  as
@@ -10455,16 +10012,13 @@ IRISH    LEGEND
 
 The  two  types,  their  relation — The  imrama  literature  in  relation  to  Christian
 literature—  Modifications  due  to  the  Renaissance  period — Post- Renaissance
-development — Didactic  and  free  romantic  tendency — Conclusion :  inade-
-quacy of  the  hypothesis  of  sole  Christian  origin  for  stories  of  the  Bran  type.
+development — Didactic  and  free  romantic  tendency — Conclusion :  inadequacy of  the  hypothesis  of  sole  Christian  origin  for  stories  of  the  Bran  type.
 
 A  SUFFICIENTLY  large  number  of  examples  of  the  Elysium
 conception  have  now  been  considered,  the  facts  concerning  it
 have  been  instanced  with  sufficient  fulness  to  enable  us  to
-sketch,  if  only  roughly,  its  development  in  Irish  mythico-
-romantic  literature.  Starting  with  texts  that  approve  them-
-selves on  linguistic  and  historical  grounds  to  belong  substan-
-tially to  the  eighth  century  at  the  latest,  we  can  distinguish
+sketch,  if  only  roughly,  its  development  in  Irish  mythicoromantic  literature.  Starting  with  texts  that  approve  them-
+selves on  linguistic  and  historical  grounds  to  belong  substantially to  the  eighth  century  at  the  latest,  we  can  distinguish
 two  main  types  of  the  conception,  the  Oversea,  and  the  Hollow
 Hill  type.  In  the  former  the  magic  land  lies  across  the
 western  main,  it  is  marked  by  every  form  of  natural  beauty,  it
@@ -10474,11 +10028,8 @@ a  portion  of  the  land  is  dwelt  in  by  women  alone  ;  all  earthly  ill
 both  physical  and  moral,  are  absent ;  in  especial,  age  brings
 neither  decay,  nor  death,  nor  diminution  of  the  joy  of  life  ;  love
 brings  neither  strife,  nor  satiety,  nor  remorse.  Tiie  lord  of
-the  land  is  Manannan  (Bran)  or  Boadag  (Connla) ;  its  in-
-habitants may  and  do  summon  mortals  thither,  alluring  them
+the  land  is  Manannan  (Bran)  or  Boadag  (Connla) ;  its  inhabitants may  and  do  summon  mortals  thither,  alluring  them
 by  the  magic  music  of  the  fairy  branches  of  its  trees,  or  by
-
-229
 
 
 230      TWO    TYPES    OF    OTHERWORLD
@@ -10488,8 +10039,7 @@ passes  there  with  supernatural  rapidity  (Bran),  the  mortal  who
 has  once  penetrated  there  may  not  return  unscathed  to  earth
 (Bran ;  the  last  trait  is  probably  impUed  in  Connla).
 
-In  the  Hollow  Hill  type  (the  Wooing  of  Etain),  the  wonder-
-land is  not  figured  as  lying  across  the  sea,  but  rather,  though
+In  the  Hollow  Hill  type  (the  Wooing  of  Etain),  the  wonderland is  not  figured  as  lying  across  the  sea,  but  rather,  though
 this  is  implied  in  the  general  account  of  the  beings  who
 inhabit  it  and  is  not  definitely  stated  in  the  description  of  the
 country  itself,  within  the  sid  or  fairy  hills.  No  special
@@ -10515,8 +10065,7 @@ developed  between  the  middle  of  the  seventh  and  the  end  of
 the  ninth  century.  In  the  oldest  extant  imratn,  that  of
 Maelduin,  which  may  date  back  to  the  early  eighth  century,
 a  connected  account  of  the  Happy  Otherworld  is  presupposed
-by  the  way  in  which  fragments  of  the  conception  figure  dis-
-connectedly in  it.  The  imrama  derive  from  the  Oversea  type,
+by  the  way  in  which  fragments  of  the  conception  figure  disconnectedly in  it.  The  imrama  derive  from  the  Oversea  type,
 and  carry  on  the  Christianising  process  begun  in  Bran  and
 
 
@@ -10525,8 +10074,7 @@ DEVELOPMENT    OF    TYPES  231
 Connla;  the  latest  of  the  old  imrama,  that  of  Snegdus  and
 MacRiagla,  is  entirely  Christian  in  spirit ;  belonging,  as  this
 does,  to  the  late  ninth  century  at  the  latest,  it  enables  us  to
-estimate  the  time  necessary  for  the  completion  of  this  trans-
-forming process.  By  divorcing  the  incidents  of  the  Oversea
+estimate  the  time  necessary  for  the  completion  of  this  transforming process.  By  divorcing  the  incidents  of  the  Oversea
 type  of  the  Happy  Otherworld  from  their  original  surroundings,
 the  iinrama  altered  their  nature  and  shunted  them  off  the
 main  line  of  Irish  romance,  but  thereby  won  for  them  entrance,
@@ -10535,8 +10083,7 @@ Brendani,  a  permanent  place  in  Christian  legend.
 
 Purely  Christian  texts  of  the  same  period  (seventh  to
 ninth  centuries)  picture  the  Christian  heaven  in  a  style  and  in
-terms  that  strikingly  recall  those  applied  to  the  magic  wonder-
-land ;  the  same  texts  have  one  marked  peculiarity  in  their
+terms  that  strikingly  recall  those  applied  to  the  magic  wonderland ;  the  same  texts  have  one  marked  peculiarity  in  their
 eschatology  (the  fourfold  division  of  the  human  race  after
 death),  which  may  possibly  be  due  to  the  influence  of  a  pre-
 Christian  Elysium,
@@ -10570,8 +10117,7 @@ nature  of  the  dames  of  Faery ;  and  moreover  there  is  a  definite
 connection  of  the  magic  land  with  water.  In  the  story  of
 Loegaire,  son  of  Crimthann,  which  probably  assumed  its  final
 shape  considerably  later  than  did  Cuchulinn's  Sick  Bed,  the
-warlike  note  in  the  presentment  of  the  Otherworld  is  in-
-tensified, but  so  is  also  the  connection  with  water,  an  under-
+warlike  note  in  the  presentment  of  the  Otherworld  is  intensified, but  so  is  also  the  connection  with  water,  an  under-
 instead  of  across-  wave  locale  appearing  for  the  first  time,
 whilst  the  supernatural  lapse  of  time  and  the  impossibility  of
 scathless  return  to  earth  are  both  prominent,  the  latter
@@ -10650,8 +10196,7 @@ vein.  These  characteristics  will,  I  think,  have  been  noticed
 by  the  readers  of  Cormac's  Adventures  in  the  Land  of
 Promise,  of  the  Agallamh  na  Senorach,  of  Teigue,  son  of  Cian.
 It  is  remarkable  on  the  whole  what  little  change  there  is  in
-the  presentment  of  the  Happy  Otherworld.  Cormac's  Ad-
-ventures, for  instance,  in  spite  of  its  moralising,  allegorical
+the  presentment  of  the  Happy  Otherworld.  Cormac's  Adventures, for  instance,  in  spite  of  its  moralising,  allegorical
 tendency,  retains  the  essentials  of  the  older  tale,  whilst  the
 leading  incidents  and  main  outline  of  the  Bran-Connla  story
 are  to  be  found  wellnigh  unaltered  in  the  eighteenth  century
@@ -10677,8 +10222,7 @@ CHRISTIAN    AND    PAGAN    FORMS      235
 
 both,  that  is  to  say,  take  up  an  older  literary  convention  and
 readapt  it  for  their  purpose.      In  both,  too,  the  disposition  is
-manifest  to  reconcile  with  the  orthodox  Christian  ideal  some-
-thing which  was  felt  to  be  remote  from,  if  not  opposed  to
+manifest  to  reconcile  with  the  orthodox  Christian  ideal  something which  was  felt  to  be  remote  from,  if  not  opposed  to
 Christianity  in  its  essence.     This  Christianising  process  is  far
 more  subtle  and  insinuating  than  that  we  have  noted  in  the
 pre-twelfth  century  literature,  but  in  the  one  case,  as  in  the
@@ -10692,8 +10236,7 @@ hero  race,  is  a  dutiful  follower  of  Patrick,  has  passed  away
 from  the  popular  consciousness,  whilst  this  still  retains  the  vivid
 outline   of  the   defiant   pagan,   Oisin,    reviling  the  Christian
 saint,  and  lamenting  the  pride  and  glory  of  his  youth.     In
-vain  did  some  ninth  or  tenth  century  poet  picture  the  bird-
-flock  of  the  Land  of  Promise  churning  the  waters  milk-white
+vain  did  some  ninth  or  tenth  century  poet  picture  the  birdflock  of  the  Land  of  Promise  churning  the  waters  milk-white
 in  their  passionate  appeal  to  the  national  saint ;  the  people  of
 Ireland  are  mindful  to  this  very  day  of  songs  and  warblings
 older  than  the  cleric's  bell,  and  wholly  unaffected  by  its  tones.
@@ -10712,19 +10255,15 @@ than  is   patent  in   the  texts  themselves  is  by  no  means  set
 
 236  AVALON
 
-aside.  Nor  has  the  question  of  possible  classic  (as  dis-
-tinguished from  Christian)  influence  been  elucidated  or  even
+aside.  Nor  has  the  question  of  possible  classic  (as  distinguished from  Christian)  influence  been  elucidated  or  even
 raised.  We  must  still  note  that  the  very  oldest  Irish  legends,
-however  non-Christian  in  essence,  do  contain  Christian  ele-
-ments, and  that  early  Irish  descriptions  of  Christian  and  pre-
+however  non-Christian  in  essence,  do  contain  Christian  elements, and  that  early  Irish  descriptions  of  Christian  and  pre-
 Christian  paradises  are  often  strikingly  alike.  Further  light
-must  be  sought  for  in  Christian  literature  of  the  period  pre-
-ceding the  evangelisation  of  Ireland  in  so  far  as  it  sets  forth
+must  be  sought  for  in  Christian  literature  of  the  period  preceding the  evangelisation  of  Ireland  in  so  far  as  it  sets  forth
 visions  of  heavenly  bliss.
 
 I  may  naturally  be  expected  before  quitting  the  Celtic  side
-of  the  question  to  say  a  word  respecting  Tennyson's  well-
-known  description  of  Avalon.
+of  the  question  to  say  a  word  respecting  Tennyson's  wellknown  description  of  Avalon.
 
 The   earliest   analogue   in  the  Arthurian    romance   is   the
 description  in  Chretien's  Erec  (the  poem  corresponding  to  the
@@ -10777,8 +10316,7 @@ Lffititia; ;  nihil  hie  proprium,  eommunia  quccque.'
 
 (San  Marte's  Gottfried  voii  Momiiouth,  435.)
 
-which  read  in  part  as  if  taken  from  a  description  of  Man-
-annan's  land.  Note,  too,  that  this  land  is  inhabited  by  a
+which  read  in  part  as  if  taken  from  a  description  of  Manannan's  land.  Note,  too,  that  this  land  is  inhabited  by  a
 '  regia  virgo '  who  can  heal  Arthur  of  his  wounds,  and  compare
 Liban's  promise  to  Cuchulinn  to  cure  him  of  his  hurt  if  he
 will  come  and  live  with  Fann.
@@ -10824,8 +10362,6 @@ eagles  assist  it  again  to  thoroughly  cleanse  itself,  and  on  the
 third  day  it  flies  away,  and  swifter  and  stronger  was  its
 flight  than  heretofore,  so  that  it  was  evident  to  all  beholders
 that  this  was  its  renewal  from  old  age  into  youth,  according
-
-238
 
 
 PHCENIX  239
@@ -11015,9 +10551,6 @@ PHCENIX
 Deucalioneas  exuperavit  aquas.
 
 
-243
-
-
 15  Non  hue  exangues  morbi,  non  segra  senectus,
 
 Nee  mors  crudelis,  nee  metus  asper  adit  ;
@@ -11059,8 +10592,7 @@ allegorised  in  a  Christian  sense.     The  Latin  is  ascribed  to
 Lactantius,   an  ascription  as  old  as  Gregory  of  Tours,  who
 alludes  to  it  in  a  work  written  before  582   a.d.  ;  the  sixth
 century  Isidore  also  knew  it,  and  looks  upon  verses  25-28  as
-descriptive  of  Paradise.     Modern  authority  favours  the  tradi-
-tional  authorship,^   and   Ebert   detects   a   Christian   ring   in
+descriptive  of  Paradise.     Modern  authority  favours  the  traditional  authorship,^   and   Ebert   detects   a   Christian   ring   in
 certain  passages.     Be  this  as  it  may,  the  tone  of  the  Latin  is
 manifestly  less  Christian  than  that  of  the  Anglo-Saxon,  whilst,
 in  the  former,  machinery  and   accessories  are  Pagan  in   the
@@ -11087,8 +10619,7 @@ Plitt.
 
 THE    PHCENIX    LEGEND  245
 
-surmise  is  to  beget  doubt  in  it ;  but  we  must  carry  "the  investi-
-gation deeper  into  the  past  before  we  can  put  it  on  one
+surmise  is  to  beget  doubt  in  it ;  but  we  must  carry  "the  investigation deeper  into  the  past  before  we  can  put  it  on  one
 side.
 
 In  the  meantime  let  us  note  that  the  Phoenix  legend  is  of
@@ -11119,8 +10650,7 @@ must  be  assigned,  was  evangelised  from  Ireland,  and  the  closest  relati
 subsisted  for  many  years  between  the  two  lands;  Irish  saints,  such  as
 Fursa,  the  hero  of  the  oldest  Irish  vision  of  heaven  and  hell,  travelled  and
 were  held  in  high  honour  in  Britain  ;  Nortliumbrian  kings,  such  as  the
-seventh  century  Aldfrcd,  passed  years  of  exile  in  Ireland  and  became  pro-
-ficient in  Irish  letters.  There  was  opportunity  and  to  spare  for  Christian
+seventh  century  Aldfrcd,  passed  years  of  exile  in  Ireland  and  became  proficient in  Irish  letters.  There  was  opportunity  and  to  spare  for  Christian
 Ireland,  at  that  period  the  chief  centre  of  intellectual  life  in  Western
 Europe,  to  have  influenced  the  rising  Christian  literature  of  eighth  century
 Northundjria.
@@ -11252,8 +10782,7 @@ u:escribed  '  as  a  great  space  like  a  garden,  having  rose  trees
 CHRISTIAN    APOCALYPTIC  249
 
 and  flowers  of  all  sorts.  The  height  of  the  trees'  was  after
-the  manner  of  a  cypress,  and  the  leaves  of  them  sang  with-
-out ceasing,'  the  air  of  the  land  has  an  unspeakable  sweet
+the  manner  of  a  cypress,  and  the  leaves  of  them  sang  without ceasing,'  the  air  of  the  land  has  an  unspeakable  sweet
 odour  which  nourishes  and  satisfies  the  inmates.^
 
 So  too,  in  the  fourth  century  Visio  Pauli :  '  And  there  were
@@ -11370,8 +10899,7 @@ whose  lines,  quoted  below,  testify  to  a  common  source  for  the
 episode  as  presented  by  him,  and  as  found  in  the  yEthiopic.
 It  should  be  noted  however  that  one  of  the  touches  which
 recurs  most  constantly  in  Elysium  descriptions  is  absent  from
-his  version  ;  he  has  nothing  to  say  of  the  equable  and  temper-
-ate sunniness  of  the  clime.^
+his  version  ;  he  has  nothing  to  say  of  the  equable  and  temperate sunniness  of  the  clime.^
 
 Christian  and  Irish  Texts  compared.
 
@@ -11418,8 +10946,7 @@ CHRISTIAN    AND    IRISH    TEXTS     253
 which  we  recognise  elements  familiar  to  us  from  the  Voyage  of
 Bran  and  allied  Irish  romances.
 
-There  is  an  apparent  widening  and  humanising  of  these  con-
-ceptions in  the  Christian  texts  that  have  been  cited.  The
+There  is  an  apparent  widening  and  humanising  of  these  conceptions in  the  Christian  texts  that  have  been  cited.  The
 earliest  are  purely  eschatological,  and  in  more  or  less  accord
 with  orthodox  dogma  ;  in  one  of  the  latest,  the  Phoenix,  the
 Christian  element  is  minimised,  or  rather  has  the  appearance
@@ -11446,15 +10973,13 @@ Phoinix.
 
 If  the  Christian  examples  I  have  cited  were  our  earliest
 obtainable  starting-point,  it  would  be  necessary  to  test  this
-hypothesis,  and  the  first  step  would  be  to  tabulate  the  differ-
-ences between  the  Irish  and  the  Christian  accounts,  instead  of
+hypothesis,  and  the  first  step  would  be  to  tabulate  the  differences between  the  Irish  and  the  Christian  accounts,  instead  of
 confining  ourselves  as  in  the  foregoing  pages  to  accentuating  the
 
 
 254  JEWISH    APOCALYPTIC
 
-points  of  contact.  But  the  Christian  conception  of  an  Other-
-world,  as  depicted  in  the  Hterature  of  the  first  four  centuries,
+points  of  contact.  But  the  Christian  conception  of  an  Otherworld,  as  depicted  in  the  Hterature  of  the  first  four  centuries,
 is  simply  the  last  link  of  a  long  chain  the  earlier  links  of
 which  are  accessible  to  us.  The  consideration  of  Otherworld
 conceptions  in  literature  chronologically  older  than  Christianity
@@ -11466,8 +10991,7 @@ in  which  this  belief  is  embodied  is  represented  to  a  slight
 extent  in  the  canonical  collection  by  the  Book  of  Daniel,
 but  far  more  fully  in  a  number  of  Apocryphal  writings,  dating
 between  150  B.C.  and  the  time  of  Christ,  of  which  the
-Book  of  Enoch  may  be  taken  as  a  representative.^  The  con-
-nection between  this  literature  and  the  Christian  Apocalypses
+Book  of  Enoch  may  be  taken  as  a  representative.^  The  connection between  this  literature  and  the  Christian  Apocalypses
 is  manifest,  and  the  description  in  Enoch  of  Heaven,  or  rather
 of  the  Messianic  kingdom  to  be  estabUshed  by  the  Son  of
 Man  after  the  final  judgment,  offers  some  interesting  points  of
@@ -11482,8 +11006,7 @@ But  the  chief  note  is  ethical,  the  reaffirmation  and  elaboration
 of  the  prophetic  vision  of  the  triumph  of  righteousness,  albeit
 material  traits  are  by  no  means  lacking  ;  after  the  establishment
 of  the  Messianic  kingdom  'the  plant  of  righteousness  and
-uprightness  will  appear,  labour  will  prove  a  blessing  :  righteous-
-ness and  uprightness  will  be  established  in  joy  for  ever.  And
+uprightness  will  appear,  labour  will  prove  a  blessing  :  righteousness and  uprightness  will  be  established  in  joy  for  ever.  And
 then  will  all  the  righteous  escape  and  will  live  till  they  beget  a
 ^  I  quote  from  Mr.  Charles's  edition,  London  1895.
 
@@ -11546,15 +11069,13 @@ which  it  is  based.  For  a  full  presentment  of  the  theory  the
 reader  is  referred  to  Dietrich's  Nekyia.  The  original  Greek,
 possibly  pan-Aryan,  Hell  would  seem  to  have  been  a  place  of
 filth  and  gloom.  It  becomes  really  prominent  in  Greek
-literature  from  the  fifth  or  sixth  centuries  B.C.  onwards,  a  pro-
-minence due  to  the  marked  extension  of  Orphic-Pythagorean
+literature  from  the  fifth  or  sixth  centuries  B.C.  onwards,  a  prominence due  to  the  marked  extension  of  Orphic-Pythagorean
 doctrines  at  the  period.  The  salient  element  of  these  doctrines
 is  an  eschatological  one ;  they  strenuously  insist  upon  the
 terrors  of  the  Otherworld,  enhancing  thereby  the  force  of  their
 claims  to  provide,  through  the  medium  of  the  mysteries,  a  mode
 of  escape,  both  from  the  tortures  of  the  penal  Hell,  and  the
-burdensome  '  circle  of  life,'  or  cycle  of  re-birth.  Hell  is  con-
-ceived of  as  purificatory,   fire  as  lustral,  the   punishment  is
+burdensome  '  circle  of  life,'  or  cycle  of  re-birth.  Hell  is  conceived of  as  purificatory,   fire  as  lustral,  the   punishment  is
 
 Asiatic  Society,  July  1893)  ^^"^  claimed  a  Jewish  origin  for  the  Apocalypse
 of  Peter  on  the  strength  of  Jewish  visions  known  to  us  in  texts  many
@@ -11577,8 +11098,7 @@ that  in  which  it  is  the  unrivalled  agent  for  inflicting  pain.
 
 The  evolution  thus  briefly  sketched  can  be  traced  with
 almost  absolute  certitude  owing  to  the  richness  of  the  material
-and  the  elaborate  complexity  of  the  Greek  system  of  Other-
-world  punishment  in  its  later  stages.  In  the  nature  of  things
+and  the  elaborate  complexity  of  the  Greek  system  of  Otherworld  punishment  in  its  later  stages.  In  the  nature  of  things
 the  same  certainty  cannot  be  expected  in  the  case  of  Heaven
 delineations,  which  arc  everywhere  both  scantier  and  simpler.
 But  the  a  priori  likelihood  that  Christian  eschatology  derives
@@ -11592,15 +11112,13 @@ may  be  considered.  Comparison  between  Irish  and  Christian
 beliefs  is,  it  may  be  urged,  fruitful  from  the  known  historic
 influence  of  the  Christian  faith  upon  Ireland.  But  are  not
 Greek  and  Irish  mythic  literatures  too  remote  to  allow  of
-profitable  comparison  ?  Hardly ;  the  hypothesis  of  pre-
-historic community  of  mythic  beliefs  is  by  no  means  to  be
+profitable  comparison  ?  Hardly ;  the  hypothesis  of  prehistoric community  of  mythic  beliefs  is  by  no  means  to  be
 rejected  a  priori^  whilst  if  it  prove  untenable,  there  still  remain
 the  possibilities  of  historic  contact  of  the  Hellenic  world  upon
 Celtdom  during  the  four  centuries  preceding  Christianity,  or  of
 the  influence  of  classic  culture  upon  Ireland  consequent  upon
 the  introduction  of  Christianity.  This  premised,  I  will  proceed
-to  cite  from  Greek  literature  examples  of  the  Otherworld,  con-
-ceived of  as  an  abode  of  bliss  and  freedom  from  earthly  ills.
+to  cite  from  Greek  literature  examples  of  the  Otherworld,  conceived of  as  an  abode  of  bliss  and  freedom  from  earthly  ills.
 
 R
 
@@ -11637,14 +11155,11 @@ foreknowledge  of  the  fate  of  his  compeers,  and  of  his  own.
 Proteus  prophesies  to  him  :  '  But  thou,  Menelaus,  son  of
 Zeus,  art  not  ordained  to  die  and  meet  thy  fate  in  Argos,  the
 
-258
-
 
 HOMERIC    ACCOUNT  259
 
 pasture  land  of  horses,  but  the  deathless  gods  will  convey
-thee  to  the  Elysian  plain  and  the  world's  end,  where  is  Rha-
-damanthus  of  the  Fair  Hair,  where  life  is  easiest  for  men.  No
+thee  to  the  Elysian  plain  and  the  world's  end,  where  is  Rhadamanthus  of  the  Fair  Hair,  where  life  is  easiest  for  men.  No
 snow  is  there,  nor  yet  great  storm,  nor  any  rain ;  but  alway
 ocean  sendeth  forth  the  breeze  of  the  shrill  West  to  blow  cool
 upon  men  :  yea,  for  thou  hast  Helen  to  wife,  and  thereby
@@ -11670,8 +11185,7 @@ well-nigh  lost  its  mythic  atmosphere.  So,  too,  in  the  fifth
 book,  with  Calypso's  isle ;  full  of  delight  and  beauty  though  it
 be,  yet  these  lack  the  mythic  touch  and  tone,  found  only  in
 the  goddess's  words  when  Hermes  bids  her,  from  Zeus,  to  part
-with  her  mortal  lover :  '  Hard  are  ye  gods  and  jealous  ex-
-ceeding who  ever  grudge  goddesses  openly  to  mate  with  men,
+with  her  mortal  lover :  '  Hard  are  ye  gods  and  jealous  exceeding who  ever  grudge  goddesses  openly  to  mate  with  men,
 if  any  make  a  mortal  her  dear  bedfellow.  Even  so  when
 '  Odyssey,  Butcher  and  Lang,  66.  -  Odyssey,  253.
 
@@ -11702,10 +11216,8 @@ may  penetrate  in  the  ordinary  course  of  nature;  of  lands
 dwelt  in  by  amorous  goddesses  who  attract  and  retain
 favoured  mortals.  It  also  knows  of  a  region  set  apart  for  the
 immortal  ones,  even  as  the  sid  are  set  apart  for  the  Tuatha
-De  Danann ;  in  Greek,  as  in  Irish  belief,  this  region  is  defi-
-nately  associated  with  mountains.  The  Greeks  localised
-their  seat  of  the  gods  on  Olympus,  and  Homer  uses  in  por-
-traying it  the  colours  with  which  he  had  pictured  the  realm
+De  Danann ;  in  Greek,  as  in  Irish  belief,  this  region  is  definately  associated  with  mountains.  The  Greeks  localised
+their  seat  of  the  gods  on  Olympus,  and  Homer  uses  in  portraying it  the  colours  with  which  he  had  pictured  the  realm
 ruled  over  by  Rhadamanthus :  '  it  standeth  fast  for  ever.
 Not  by  winds  is  it  shaken,  nor  ever  wet  with  rain,  nor  doth
 the  snow  come  nigh  thereto,  but  most  clear  air  is  spread  about
@@ -11745,8 +11257,7 @@ earth  yields  honey-sweet  fruits.'
 One  poem,  the  Odyssey,  thus  supplies  parallels  to  all  the
 salient  traits  of  the  Irish  conception  of  the  Happy  Otherw^orld,
 whilst  in  works  of  almost  equal  age  we  find  the  first  traces  of
-a  '  heaven,'  a  happy  land  that  is  reserved  for  mortals  of  ex-
-ceptional deserts,  after  death  has  removed  them  from   this
+a  '  heaven,'  a  happy  land  that  is  reserved  for  mortals  of  exceptional deserts,  after  death  has  removed  them  from   this
 
 ^  Rohde,  78,  et  seq.
 
@@ -11762,8 +11273,7 @@ date  of  the  passages  in  the  Odyssey,  and  their  relation  both  to
 the  statements  of  post-Homeric  writers,  and  to  the  beliefs
 concerning  life  after  death  set  forth  in  the  oldest  monument
 of  Greek  imagination,  the  Iliad.  The  lateness  of  the  Odyssey,
-as  compared  with  the  Iliad,  and  the  fact  that  it  has  been  in-
-terpolated down  to  the  period  of  the  post-Homeric  epics,  are
+as  compared  with  the  Iliad,  and  the  fact  that  it  has  been  interpolated down  to  the  period  of  the  post-Homeric  epics,  are
 taken  as  established.
 
 Rohde's  View  of  Epic  Belief.
@@ -11782,8 +11292,7 @@ persists  after  death ;  that  something  is  no  more  life,  though  it
 is  called  Psyche ;  rather  it  is  the  very  opposite  of  life,  it  is  the
 shadowy  double  of  a  man  deprived  of  all  the  characteristics
 of  life.  This  something,  as  soon  as  the  body  is  burnt,  goes
-away  to  a  place,  apart,  remote,  from  which  there  is  no  possi-
-bility of  return.  Further,  this  something,  once  gone  to  Hades,
+away  to  a  place,  apart,  remote,  from  which  there  is  no  possibility of  return.  Further,  this  something,  once  gone  to  Hades,
 has  no  power  for  good  or  evil  on  the  living.  In  a  word,  the
 Homeric  world  is  haunted  by  no  ghosts  .  .  .  hence  after  the
 funeral  there  is  no  cultus  of  the  dead,  no  offerings  at  the
@@ -11811,16 +11320,14 @@ heroes.  The  golden  race  after  death  are  happy  daimons,
 guardians  of  men ;  the  remotest  tradition  then  known  to
 Hesiod  shows  a  belief  in  ihe  activity  and  local'^  presence  of  the
 souls  after  death.  The  men  of  the  silver  race,  disobedient  to
-Zeus,  buried  in  the  earth,  but  still  were  powerful  and  wor-
-shipped after  death.  The  iron  race  went  down  to  Hades
+Zeus,  buried  in  the  earth,  but  still  were  powerful  and  worshipped after  death.  The  iron  race  went  down  to  Hades
 nameless.  The  fourth  race,  the  heroes  of  Thebes  and  Troy,
 interrupt  the  downward  sequence — a  part  of  them  "death
 covered,"  and  they  reappeared  no  more ;  a  few,  the  exception
 always,  Zeus  kept  alive,  they  never  suffered  death,  but  they
 were  translated  to  remote  regions,  islands  of  the  blessed.
 This  is  perfectly  consistent  with  Homeric  faith — if  you  die,
-you  end ;  if  you  are  favoured  by  the  gods,  you  are  trans-
-lated.'
+you  end ;  if  you  are  favoured  by  the  gods,  you  are  translated.'
 
 Believing  strongly  as  he  docs  in  this  fundamental  distinction
 between   the    Homeric   Otherworld — land  of  shades,  bereft
@@ -11841,8 +11348,7 @@ the  after-life  vision  vouchsafed  for  instance  to  Ulysses  in  his
 descent  into  Hades.  Humanity  was  not  to  be  cheated  of  its
 hopes;  the  poetic  imagination  of  the  race,  working  freely,
 created  and  embellished  in  the  Elysian  fields  a  last  refuge  for
-the  yearnings  of  the  human  heart.  The  ideal  of  a  land,  pre-
-eminent in  all  the  heart  can  desire,  access  to  which  is  not  won
+the  yearnings  of  the  human  heart.  The  ideal  of  a  land,  preeminent in  all  the  heart  can  desire,  access  to  which  is  not  won
 through  death  {that  could  only  lead  to  the  '  darkness  and
 shadow,'  'desolate  of  joy,'  'where  dwell  the  senseless  dead,
 phantoms  of  men  outworn  '^  but  by  the  favour  of  the  gods,
@@ -11858,8 +11364,7 @@ Sarpedon  alive  and  send  him  living  to  the  land  of  wide  Lykia
 by  transferring  mortals  to  a  land  akin  to  their  own  divine
 dwelling,  by  making  them  free  of  the  divine  food  from  which
 they  derive  their  immortal  vigour,  should  be  able  to  confer
-upon  them  the  most  cherished  of  the  divine  attributes,  death-
-lessness.  But  this  step  had  not  been  taken  when  the  Iliad
+upon  them  the  most  cherished  of  the  divine  attributes,  deathlessness.  But  this  step  had  not  been  taken  when  the  Iliad
 finally  assumed  the  form  under  which  it  has  come  down  to
 us,  nor  when  the  poet  of  the  Eleventh  Book  of  the  Odyssey
 1  Odyssey,  xi.  -  Cf.  Rohde's  examples,  65.
@@ -11887,13 +11392,11 @@ nor  was  it  started  by  worship  paid  to  departed  mortals  for
 purposes  of  veneration  or  conciliation.  In  a  word,  the  belief
 is  not  religious.  It  may  possibly  have  grown  up  spontaneously
 in  the  post-epic  development  of  Greek  literature,  as  it  may
-also  be  due  to  introduction  into  Greece  of  parallel  Baby-
-lonian myths.
+also  be  due  to  introduction  into  Greece  of  parallel  Babylonian myths.
 
 Rohde's  Views  Discussed.
 
-So  for  the  German  scholar.  His  account  of  the  develop-
-ment of  Greek  after-life  belief  brings  into  sharp  prominence
+So  for  the  German  scholar.  His  account  of  the  development of  Greek  after-life  belief  brings  into  sharp  prominence
 two  phenomena — the  apparent  inconsistency  of  the  Homeric
 Hades  with  the  well-developed  funereal  cults  which  lasted  in
 full  vigour  for  many  hundred  years  after  Homer's  time,  and
@@ -11950,16 +11453,14 @@ And  if  the  story-teller  has  pictured  the  fate  of  the  Irish,  as
 the  poet  of  the  Iliad  has  pictured  that  of  the  Greek,  hero,
 unrelieved  by  any  vision  of  after  bliss,  so  too  the  Irish
 '  translated  ones '  have  this  marked  characteristic  in  common
-with  Menelaus  and  his  compeers.  Their  translation  is  con-
-nected with  no  worship  paid  to  them,  nor  is  any  influence
+with  Menelaus  and  his  compeers.  Their  translation  is  connected with  no  worship  paid  to  them,  nor  is  any  influence
 upon  mortal  affairs  ascribed  to  them.
 
 The  parallel  between  Greek  and  Irish  heroic  legend  is,  in
 this  particular,  extraordinarily  close,  so  close  that  explanation
 in  the  one  case  must  be  in  some  degree  applicable  to  the
 other  before  we  can  admit  its  validity.  Yet  it  will  hardly  be
-contended  that  the  development  postulated  by  Rohde  ob-
-tained in  Ireland  as  well  as  in  Greece,  that  the  Irish  shanachie
+contended  that  the  development  postulated  by  Rohde  obtained in  Ireland  as  well  as  in  Greece,  that  the  Irish  shanachie
 imagined  his  land  of  women  as  a  protest  against  the  fate
 assigned  to  Cuchulinn  and  his  peers  in  the  heroic  epics.  At
 the  utmost,  might  it  be  urged,  that  even  as  the  introduction  of
@@ -11990,8 +11491,7 @@ By  the  time  the  legends  of  the  Scandinavian  heroic  sagas
 had  been  fashioned  into  the  form  under  which  they  have
 come  down  to  us,  Scandinavian  mythic  belief  had  been
 systematised,  and  its  eschatology  in  especial  had  been
-elaborated  with  dogmatic  precision.  Whether  this  develop-
-ment was  conditioned,  as  is  now  generally  held,  by  contact
+elaborated  with  dogmatic  precision.  Whether  this  development was  conditioned,  as  is  now  generally  held,  by  contact
 and  in  competition  with  Christianity,  need  not  here  be
 discussed.  Certain  it  is  that  the  men  who  sang  of  Sigurd
 and  Helge  believed  in  Walhalla,  a  place  of  reward  and
@@ -11999,8 +11499,7 @@ delight  for  the  brave  warrior.  Yet  the  poet  of  the  Helge  lay,
 many  details  of  which  presuppose  the  Walhalla  creed  in  its
 most  advanced  form,  is  compelled,  at  the  risk  of  glaring
 inconsistency,  to  disregard  it  in  order  to  obtain  that  supreme
-effect  of  tragic  pathos  which  sets  his  work  among  the  master-
-pieces of  human  utterance.  The  dead  hero,  roused  by  the
+effect  of  tragic  pathos  which  sets  his  work  among  the  masterpieces of  human  utterance.  The  dead  hero,  roused  by  the
 cruel  tears  of  Sigrun,  comes  to  her,  not  from  the  hall  of
 Woden  where  he  sits  feasting  with  his  peers,  but  from  the
 barrow,  the  house  of  the  ghosts,  where  he  lies  drenched  with
@@ -12031,22 +11530,19 @@ treatment  of  these  and  like  ideas  is  determined  as  much  by
 artistic  convention  as  by  racial  or  individual  belief  The  facts
 upon  which  Rohde  bases  his  hypothesis  of  a  profound  change
 in  Greek  faith  concerning  the  future  state  at  the  time  the  Iliad
-was  composed,  and  of  a  later  change  in  this  faith,  due  origin-
-ally to  Oriental  influence,  do  not,  to  my  mind,  justify  such  far-
+was  composed,  and  of  a  later  change  in  this  faith,  due  originally to  Oriental  influence,  do  not,  to  my  mind,  justify  such  far-
 reaching  conclusions.  Greek  belief,  at  the  time  of  and  long
 anterior  to  the  Iliad,  in  a  western  island  Elysium  is  not,  I
 would  urge,  negatived  by  the  undoubted  fact  that  the
 Odyssey  is  on  the  whole  the  later  of  the  two  epics.  Nor  is  it
 necessary  to  resort  to  Oriental  influence  to  account  for  the
-vision  of  the  Elysian  fields.  The  probability  of  such  in-
-fluence must  be  judged  by  other  considerations.
+vision  of  the  Elysian  fields.  The  probability  of  such  influence must  be  judged  by  other  considerations.
 
 Hesiodic  Accounts.
 
 I  am  strengthened  in  this  conviction  that  the  Elysium  ideal
 among  the  Greeks  is  not  necessarily,  as  compared  with  the
-Homeric  presentment  of  Hades,  late  and  of  foreign  importa-
-tion by  the  fact  that  its  main  elements  are  found  in  Hesiod  in
+Homeric  presentment  of  Hades,  late  and  of  foreign  importation by  the  fact  that  its  main  elements  are  found  in  Hesiod  in
 a  different  setting.  Not  only  does  he  mention  the  Hesperides
 who  beyond  Ocean's  stream  guard  the  golden  apples  and  the
 gold  fruit-yielding  trees  (Theogony,  v.  215  ei  sa/.),  a  story  to
@@ -12062,8 +11558,7 @@ delivered  from  every  ill ;  rich  were  their  plains  in  flocks,  be-
 
 loved  were  they  of  the  blessed  gods,  and  when  they  died  it  was
 as  if  they  sank  to  sleep '  (Works  and  Days,  verses  i  lo,  e^  seg.).
-Now  after  death  these  happy  beings  become  Sat/^ioves-,  minis-
-ters of  Zeus'  will,  guardians  of  mortals,  warders  off  of  evil,
+Now  after  death  these  happy  beings  become  Sat/^ioves-,  ministers of  Zeus'  will,  guardians  of  mortals,  warders  off  of  evil,
 protectors  of  righteousness,  dispensators  of  divine  punishment.
 Rohde  has  himself  connected  the  Hesiodic  account  with  the
 earlier  forms  of  ancestor  worship,  and  has  insisted  that  it  is,
@@ -12081,13 +11576,11 @@ does  to  this  secondary  stage,  testifies  beyond  all  doubt  to  the
 pre-Homeric  existence  of  the  earlier  stage.  ^
 
 Whether  or  no  the  vision  of  Elysium  be  as  old  as  any  other
-portion  of  pre-Hesiodic  Greek  literature,  must  be  left  uncer-
-tain for  the  present.  As  far  as  post-Hesiodic  literature  is
+portion  of  pre-Hesiodic  Greek  literature,  must  be  left  uncertain for  the  present.  As  far  as  post-Hesiodic  literature  is
 concerned,  we  can  trace  with  accuracy  the  development  of
 the  conception,  and  can  account  satisfactorily  for  its  various
 manifestations.  We  meet  with  a  number  of  expressions,
-images,  episodic  allusions,  scattered  throughout  Greek  litera-
-ture, applicable  only  by  reference  to  the  Happy  Otherworld ;
+images,  episodic  allusions,  scattered  throughout  Greek  literature, applicable  only  by  reference  to  the  Happy  Otherworld ;
 we  also  find  the  elements  of  the  vision  used  by  poets  and
 
 ^  Rohde  admits  (99^)  that  the  golden  age  legend  may  be  older  than
@@ -12098,8 +11591,7 @@ This  strikes  one  as  a  very  forced  hypothesis.
 
 EARLY    MYTHICAL    ACCOUNTS      271
 
-thinkers  in  the  elaboration  of  an  ethical  scheme  of  the  Here-
-after, to  which  they  furnish  the  constituents  of  a  heaven,  as
+thinkers  in  the  elaboration  of  an  ethical  scheme  of  the  Hereafter, to  which  they  furnish  the  constituents  of  a  heaven,  as
 counterpart  to  the  hell,  which,  under  the  influence  of  the
 Orphic-Pythagorean  doctrines,  was  being  evolved  during  the
 same  period.  Again,  these  same  elements  figure  as  materials
@@ -12138,8 +11630,7 @@ the  undying  food  of  this  blessed  life.'
 
 In  these  echoes  of  antique  legend,  younger  as  they  are  in
 the  date  of  their  composition  or  transcription  than  the  late
-epic  presentment  of  the  heroes'  resting  place,  we  are  trans-
-ported into  an  older  and  purely  mythic  world,  even  as  the  Irish
+epic  presentment  of  the  heroes'  resting  place,  we  are  transported into  an  older  and  purely  mythic  world,  even  as  the  Irish
 Diiinshcnchas  legends,  younger  though  .they  be  than  the  stories
 of  Bran  or  Connla,  yet  have  their  roots  in  an  older  and  purer
 stage  of  mythic  fancy.  In  neither  case  does  the  earlier  recorded
@@ -12197,8 +11688,7 @@ reference  too  to  the  Pythagorean  doctrine  of  Metempsychosis,
 we  detect  the  originating  cause  of  this  transformation  of  older
 mythic  material.  Another  description  of  the  blest  shows  how
 Pindar,  animated  as  he  is  by  the  new  faith,  which,  in  his  day,
-was  stirring  the  Grecian  world,  yet  retains  a  distinctly  materi-
-alistic vision  of  the  Otherworld :  'for  them  shines  the  might
+was  stirring  the  Grecian  world,  yet  retains  a  distinctly  materialistic vision  of  the  Otherworld :  'for  them  shines  the  might
 of  the  sun  below,  when  here  it  is  night ;  meadows  of  roses
 red  skirt  their  city  shaded  with  incense  trees  and  orchards
 laden  with  golden  fruit.     And  some  delight  them  in  wrestling,
@@ -12225,8 +11715,7 @@ too  as  Pindar,  responsive  to  the  sentiment  of  his  day,  presents
 us,  imperfect  though  it  be,  with  a  vision  of  heaven,  the
 material  equipment  of  which  he  derives  from  older  mythology,
 even  so  from  the  same  source  he  draws  the  picture  of  an
-Utopia.  In  the  tenth  Pythian,  he  speaks  of  the  Hyper-
-boreans in  language  untouched  by  ethical  speculation :  '  There,
+Utopia.  In  the  tenth  Pythian,  he  speaks  of  the  Hyperboreans in  language  untouched  by  ethical  speculation :  '  There,
 braiding  their  locks  with  gilded  bay  leaves,  they  feast  right
 cheerily.  And  neither  disease  nor  deadly  eld  have  aught  to
 do  with  that  sacred  race,  but  without  evils  or  contests  they
@@ -12267,8 +11756,7 @@ this  region  and  celebrate  the  holy  mysteries.'  This  vision,
 although  younger  than  Plato,  is  vouched  for  in  Periclean
 times  by  the  Platonic  references  which  presuppose  a  similar
 ideal,  betray  how  much  of  its  archaic  nature  still  clung  to  it,
-and  reveal  the  main  factor  in  its  development.  Thus  the  half-
-contemptuous  allusion  in  the  Republic  to  the  Orphic  doctrine
+and  reveal  the  main  factor  in  its  development.  Thus  the  halfcontemptuous  allusion  in  the  Republic  to  the  Orphic  doctrine
 of  the  future  life  :  '  still  grander  are  the  gifts  of  heaven  which
 MusKus  and  his  son  offer  the  just;  they  take  them  down
 into  the  world  below,  where  they  have  the  saints  feasting  on
@@ -12282,8 +11770,7 @@ that  he  who  passed  unsanctilied  and  uninitiated  into  the
 world  below,  will  live  in  a  slough,  but  that  he  who  arrives
 there  after  initiation  and  purification,  will  dwell  with  the
 gods.'  The  final  episode  of  the  Republic,  the  vision  of  Er,
-the  son  of  Arminius,  is  a  vision  of  Heaven  and  Hell  con-
-ceived of  as  two  districts  of  an  underworld.
+the  son  of  Arminius,  is  a  vision  of  Heaven  and  Hell  conceived of  as  two  districts  of  an  underworld.
 ^  Jowett's  Republic,  p.  414.
 
 
@@ -12298,8 +11785,7 @@ purified  through  initiation.
 
 Underworld  Elysiums.
 
-One  point  in  these  later  Greek  presentments  of  the  Other-
-world  demands  special  notice — the  underworld  locale.  We
+One  point  in  these  later  Greek  presentments  of  the  Otherworld  demands  special  notice — the  underworld  locale.  We
 cannot  fail  to  recall  how  in  Ireland  the  blissful  land  lies  not
 only  across  the  western  main,  but  within  the  hollow  hill  or
 beneath  the  waters  of  the  lake.  And  just  as  Professor
@@ -12315,8 +11801,7 @@ district  of  Hades  conceived  of,  not  merely  as  the  resting-place
 of  men  after  death,  but  as  the  place  where  they  are  rewarded
 or  punished  for  their  deeds  in  this  life.  I  have  already,  in
 so  far  as  the  Irish  evidence  is  concerned,  expressed  my
-dissent,  not  so  much  from  the  conclusions  reached  by  Pro-
-fessor Zimmer  as  from  his  mode  of  stating  those  conclusions,
+dissent,  not  so  much  from  the  conclusions  reached  by  Professor Zimmer  as  from  his  mode  of  stating  those  conclusions,
 and  I  would  urge  that  current  explanations  of  the  Greek
 evidence  err  equally  in  representing,  as  a  forced  and  artificial,
 that  which  is  in  truth  a  natural  and  inevitable,  development.
@@ -12335,12 +11820,9 @@ belief  in  a  life  after  death  for  all  men  acquired  body  and
 precision,  it  was  bound  to  be  conditioned  by  the  fact  that  the
 dead  man  was  put  into  the  earth.  There  was,  I  believe,  no
 conscious  transference  from  the  island  to  the  Hades  Elysium.
-More  definite  belief  in  the  latter  brought  about  greater  de-
-finiteness  in  assigning  a  locality  to  it.  Indeed,  it  may  be
-doubted  if,  among  the  Greeks,  the  Happy  Otherworld  under-
-ground be  not  really  as  old  as  the  oversea  ideal.  Rohde  has
-collected  (104  ct  seq.)  instances  of  what  he  calls  'Bergen-
-triickung,'  in  which  the  favoured  mortal,  instead  of  being
+More  definite  belief  in  the  latter  brought  about  greater  definiteness  in  assigning  a  locality  to  it.  Indeed,  it  may  be
+doubted  if,  among  the  Greeks,  the  Happy  Otherworld  underground be  not  really  as  old  as  the  oversea  ideal.  Rohde  has
+collected  (104  ct  seq.)  instances  of  what  he  calls  'Bergentriickung,'  in  which  the  favoured  mortal,  instead  of  being
 transported  to  the  island  Elysium,  is  carried  underground.
 Thus  in  the  ninth  Nemean,  Pindar  tells  how  *  for  Amphiarus
 Zeus  clave  with  his  almighty  thunderbolt  the  deep  bosom  of
@@ -12368,8 +11850,7 @@ organised  mythology?  I  would,  however,  only  urge  that  in
 Greece,  as  in  Ireland,  the  under-  is  as  old  as  the  outer-  world
 conception  of  a  land  dwelt  in  by  wise,  powerful,  and  immortal
 beings.  And,  if  this  is  so,  the  greater  richness  of  Irish
-mythic  legend  in  accounts  of  the  underworld  is  surely  signi-
-ficant. For  it  is  evident  that  we  cannot  in  comparing  the  two
+mythic  legend  in  accounts  of  the  underworld  is  surely  significant. For  it  is  evident  that  we  cannot  in  comparing  the  two
 bodies  of  mythic  belief  take  any  note  of  the  late  and  highly
 organised  stage  of  Greek  mythology  which  represents  Pluto  as
 lord  of  the  underground  Elysium^  it  is  true,  but  chiefly  of  the
@@ -12378,8 +11859,7 @@ underground  Tartarus.
 Romantic  Development.
 
 It  has  already  been  indicated  that  later  Greek  literature
-utilised  the  machinery  of  the  Isle  of  the  Blessed  in  the  cele-
-bration of  an  Utopia  as  well  as  of  a  heaven.  An  example  has
+utilised  the  machinery  of  the  Isle  of  the  Blessed  in  the  celebration of  an  Utopia  as  well  as  of  a  heaven.  An  example  has
 been  cited  from  Pindar,  and  the  practice  is  one  familiar  to  the
 poet  of  the  Odyssey,  although  the  term  '  land  of  Cockayne '
 rather  than  '  Utopia '  be  the  one  applicable  to  his  description
@@ -12388,11 +11868,9 @@ of  the  Hyperboreans  that  furnished  the  substance  of  later
 accounts.  They  live  in  a  remote  fairy  land,  '  neither  by  ships
 nor  by  a  journey  on  foot  shall  you  find  out  the  mysterious
 road  to  the  Hyperboreans,'  says  Pindar  in  the  tenth  Pythian,
-It  is,  perhaps,  significant  that  the  poet  makes  Perseus  pene-
-trate thither  even  as  the  older  legend  sent  him  to  the  garden
+It  is,  perhaps,  significant  that  the  poet  makes  Perseus  penetrate thither  even  as  the  older  legend  sent  him  to  the  garden
 of  the  Hesperides,  Perseus,  who,  in  the  circumstances  of  his
-birth,  his  upbringing,  his  combat  with  the  monster,  and  de-
-liverance of  Andromeda  presents  so  many  remarkable  analogies
+birth,  his  upbringing,  his  combat  with  the  monster,  and  deliverance of  Andromeda  presents  so  many  remarkable  analogies
 to  CuchuKnn,  who  also  penetrated  to  the  realm  of  Irish  sid
 dwellers.     I  do  not  propose  to  notice  these  stories  in  detail.
 
@@ -12407,16 +11885,14 @@ sun-god) ;  their  gift  of  song  is  especially  insisted  upon  ('  the  '
 Muse  is  ever  present  to  crown  their  joys,  and  everywhere  j
 maiden  dances  with  the  loud  tones  of  lutes  and  the  clear
 ringing  sounds  of  pipes  move  to  and  fro  in  the  city,'  says
-Pindar):  the  later  the  account  the  more  didactic  its  char-
-acter, the  more  apparent  the  intention  to  use  these  far  off
+Pindar):  the  later  the  account  the  more  didactic  its  character, the  more  apparent  the  intention  to  use  these  far  off
 folk  as  a  foil  and  an  example  to  men  of  the  day ;  after  the
 conquests  of  Alexander  had  thrown  open  the  east  to  Grecian
 observation  and  Grecian  fancy,  had  brought  the  Greek  in
 contact  with  the  Indian  mind,  the  existence  of  certain  Indian
 phenomena,  such  as  the  Buddhist  and  analogous  communities,
 the  possible  knowledge  of  parallel  Indian  legends  {cf.  infra,  ch.
-xii.),  led  to  the  localisation  in  India  of  the  region  of  the  blame-
-less and  careless  beings  whom  previous  Greek  fantasy  had
+xii.),  led  to  the  localisation  in  India  of  the  region  of  the  blameless and  careless  beings  whom  previous  Greek  fantasy  had
 placed  rather  in  the  West  or  North.  The  Alexander  legend
 stereotyped  this  form  of  the  conception,  and  gave  it  wide
 currency  among  the  peoples  of  the  East  as  well  as  of  the  West.
@@ -12425,8 +11901,7 @@ Lucian's  True  Story.
 
 My  last  quotation  is  from  a  work  which  presupposes  and
 sums  up  the  literary  development  I  have  briefly  sketched  in
-the  foregoing  pages — a  work  in  which  the  Homeric  hero-
-world  jostles  the  Utopia  of  Hccatxus  of  Abdera,  in  which
+the  foregoing  pages — a  work  in  which  the  Homeric  heroworld  jostles  the  Utopia  of  Hccatxus  of  Abdera,  in  which
 equal  ridicule  is  poured  upon  the  Orphic  visions  of  the  future
 life  and  the  extravagances  of  the  Alexander  romances,  viz. :
 the  True  History  of  Lucian.  The  hero  of  the  fantastic  journey
@@ -12441,16 +11916,13 @@ hyacinth,  the  hly,  the  violet,  the  myrtle,  the  laurel,  and  the
 vine.     Refreshed  with  these  delightful  odours  ...  we  came
 close   up  to  the   island;   here  we   beheld   several  safe  and
 spacious  harbours,  with  clear  transparent  rivers  rolling  placidly
-into  the  sea;  meadows,  woods,  and  birds  of  all  kinds  chant-
-ing melodiously  on  the  shore ;  and,  on  the  trees  the  soft  and
+into  the  sea;  meadows,  woods,  and  birds  of  all  kinds  chanting melodiously  on  the  shore ;  and,  on  the  trees  the  soft  and
 sweet  air   fanning  the  branches  on  every  side,  which  sent
 forth  a  soft,  harmonious  sound  like  the  playing  of  a  flute.'
 The  sea-farers  land.     '  As  we  were  walking  through  a  meadow
-full  of  flowers,  we  met  the  guardians  of  the  isle,  who,  imme-
-diately chaining  us  with  manacles  of  roses,  for  these  are  their
+full  of  flowers,  we  met  the  guardians  of  the  isle,  who,  immediately chaining  us  with  manacles  of  roses,  for  these  are  their
 only  fetters,  conducted  us  to  their  king'   (Rhadamanthus).
-They  are  allowed  to  remain,  to  range  over  the  city,  and  to  par-
-take of  the  feast  of  the  blessed.    '  The  whole  city  was  of  gold,
+They  are  allowed  to  remain,  to  range  over  the  city,  and  to  partake of  the  feast  of  the  blessed.    '  The  whole  city  was  of  gold,
 and  the  walls  of  emerald;  the  seven  gates  were  all  made  out
 of  one  trunk  of  the  cinnamon-tree ;  the  pavement,  within  the
 walls,  of  ivory ;  the  temples  of  the  gods  were  of  beryl,  and
@@ -12474,8 +11946,7 @@ LUCIAN  281
 
 affording  an  agreeable  shade  to  the  guests,  who  repose  on
 couches  of  flowers ;  the  winds  attend  upon  and  bring  them
-everything  necessary,  except  wine,  which  is  otherwise  pro-
-vided. .  .  .'  What  most  contributes  to  their  happiness  is,
+everything  necessary,  except  wine,  which  is  otherwise  provided. .  .  .'  What  most  contributes  to  their  happiness  is,
 that  near  the  symposium  are  two  fountains,  the  one  of  milk,
 the  other  of  pleasure;  from  the  first  they  drink  at  the
 beginning  of  the  feast;  there  is  nothing  afterwards  but  joy
@@ -12488,8 +11959,7 @@ silent.
 
 I  have  quoted  sufficiently,  I  trust,  to  substantiate  the  claim
 that  Greek  literature  is  the  main  source  of  the  otherworld
-descriptions  found  in  late  Jewish  and  in  Christian  apoca-
-lyptic writings ;  and  that  the  classes  of  composition  in  which
+descriptions  found  in  late  Jewish  and  in  Christian  apocalyptic writings ;  and  that  the  classes  of  composition  in  which
 among  the  Greeks  these  descriptions  are  found  were  the
 models  for  similiar  compositions  among  those  populations
 of  the  Eastern  Mediterranean,  to  whom  we  owe  Judaism  and
@@ -12500,10 +11970,8 @@ and  religious  philosophy  upon  eastern  thought  and  fancy.
 The  ultimate  origin  of  the  Greek  beliefs  and  imaginings  is  a
 point  I  do  not  propose  to  deal  with  at  present.  It  must
 necessarily  be  considered  in  connection  with  the  second
-portion  of  this  investigation,  the  doctrine  of  re-birth  as  ex-
-emplified in  Celtic  myth  and  romance.  For  the  present  I
-am  content  to  show  that  in  its  presentment  of  the  Other-
-world,  Greek  Christian  is  dependent  upon  Greek  Pagan
+portion  of  this  investigation,  the  doctrine  of  re-birth  as  exemplified in  Celtic  myth  and  romance.  For  the  present  I
+am  content  to  show  that  in  its  presentment  of  the  Otherworld,  Greek  Christian  is  dependent  upon  Greek  Pagan
 literature.
 
 
@@ -12513,11 +11981,9 @@ Parallel  of  Greek  and  Irish  Mythic  Romance.
 
 Before  leaving  Greece  I  must  restate  fully  and  emphatically
 what  I  have  several  times  hinted  at — the  parallelism  between
-Greek  and  Irish  legend  in  the  development  of  this  concep-
-tion. In  the  garden  of  the  singing  daughters  of  the  night,
+Greek  and  Irish  legend  in  the  development  of  this  conception. In  the  garden  of  the  singing  daughters  of  the  night,
 in  Calypso's  isle,  in  Rhadamanthus'  realm,  access  to  which
-is  opened  by  Helen  to  Menelaus,  we  have  the  land  of  amor-
-ous goddesses  met  with  in  Bran  and  Connla ;  the  account  of
+is  opened  by  Helen  to  Menelaus,  we  have  the  land  of  amorous goddesses  met  with  in  Bran  and  Connla ;  the  account  of
 Olympus,  or  the  sun-god's  western  halls,  may  be  likened  to
 that  of  Mider's  sid,  of  the  Brtigh  in  which  Angus  takes  his
 delight.  At  an  early  stage  these  imaginings  yielded  the
@@ -12532,8 +11998,7 @@ by  Hesiod,  or  supplies  the  machinery  for  a  vision  of  the
 future,  as  in  the  Champion's  Ecstasy,  is  worked  up  by  the
 Greek  in  his  picture  of  the  Hyperborean  Utopia,  or  by  the
 Irishman  in  his  allegorising  portrayal  of  Cormac's  adventures
-at  Manannan's  court.  Lastly,  in  both  cases  we  find  a  syn-
-thesis of  this  vast  and  lengthened  growth  of  mythic  romance
+at  Manannan's  court.  Lastly,  in  both  cases  we  find  a  synthesis of  this  vast  and  lengthened  growth  of  mythic  romance
 presented  in  a  vein  of  half-humorous  antiquarianism.  The
 last  term  of  the  parallel  is  especially  remarkable.  It  is  safe
 to  say  that  the  author  of  Teigue,  son  of  Cian,  knew  nothing
@@ -12588,8 +12053,7 @@ of  the   Elysium   conception   among  the   ancients   to   which
 284  SERTORIUS
 
 fifteen  hundred  years  later  a  singularly  close  parallel  is
-afforded  in  the  later  stages  of  the  analogous  Irish  concep-
-tion. Belief  in  the  isles  which  the  blessed  Brendan  had
+afforded  in  the  later  stages  of  the  analogous  Irish  conception. Belief  in  the  isles  which  the  blessed  Brendan  had
 reached  sent  many  a  bold  mariner  to  try  his  fortunes  on  the
 western  main,  and  may  indeed  be  regarded  as  among  the
 contributory  causes,  by  no  means  the  least  important,  of  the
@@ -12685,14 +12149,12 @@ And  flowers  o'er  safiron  reins  and  horses  placed.'
 
 Virgil,  however,  is  the  most  authoritative  exponent  of  the
 belief  of  cultured  Rome  concerning  the  Otherworld,  and
-Virgil,  as  recent  investigation  has  conclusively  shown,  is  pene-
-trated by  the  spirit  of  Orphic-Pythagorean  literature,  and  in
+Virgil,  as  recent  investigation  has  conclusively  shown,  is  penetrated by  the  spirit  of  Orphic-Pythagorean  literature,  and  in
 yEneas'  descent  into  Hades  does  but  reproduce,  with  the
 added  might  of  his  genius,  an  Orphic  Kaxa/Jacrts  €ts  "AiSov.
 And  not  only  does  the  great  Roman  poet  present  the  noblest
 form  of  pagan  theological  speculation  in  this  domain,  he  has
-likewise  shown  himself  responsive  to  the  Utopian,  humani-
-tarian element  in  the  Orphic  doctrine,  to  that  element  which,
+likewise  shown  himself  responsive  to  the  Utopian,  humanitarian element  in  the  Orphic  doctrine,  to  that  element  which,
 mingling  with  and  fertilised  by  the  moral  ardour  of  the  Hebrew
 prophets,  had  such  a  formative  influence  upon  the  Messianic
 belief  as  systematised  in  Palestine  and  Alexandria  during  the
@@ -12700,8 +12162,7 @@ two  centuries  preceding  the  birth  of  Christ.  In  the  fourth
 Eclogue  he  sings,  the  '  infant  boy  under  whom  the  golden  age
 shall  arise  over  all  the  world,'  with  truly  Messianic  fervour.
 '  Wickedness  shall  vanish,  earth  shall  be  released  from  dread.
-To  this  wondrous  boy  earth  shall  pour  forth  everywhere,  with-
-out culture,  flower  and  fruit ;  the  goats  of  their  own  will  shall
+To  this  wondrous  boy  earth  shall  pour  forth  everywhere,  without culture,  flower  and  fruit ;  the  goats  of  their  own  will  shall
 bring  home  their  milk-laden  udders,  nor  shall  the  flocks  fear
 great  lions  any  more  ;  the  serpent  shall  be  slain,  and  the
 venom-plant  perish.  The  fields  shall  yellow  with  ears  of  grain,
@@ -12712,8 +12173,7 @@ The  soil  shall  not  suifer  from  the  harrow,  nor  the  vine  from
 
 VIRGIL  287
 
-the  pruning-hook.'  It  is  unnecessary  to  cite  further  so  well-
-known  a  passage,  but  we  may  note  the  poet's  boast  that  if  he
+the  pruning-hook.'  It  is  unnecessary  to  cite  further  so  wellknown  a  passage,  but  we  may  note  the  poet's  boast  that  if  he
 sing  the  deeds  of  this  wondrous  child,  neither  Thracian
 Orpheus,  nor  Linus,  shall  surpass  him  in  song,  indicative  as  it
 is  of  the  sources  whence  he  drew  his  vision  of  the  returning
@@ -12733,8 +12193,7 @@ laurel.'  Who  are  these  blessed  ones  ?  '  Those  who  received
 wounds  in  defence  of  their  fatherland ;  priests  of  pure  and
 holy  life;  those  blessed  bards  who  sang  verses  worthy  of  Apollo's
 ear ;  those  who  refined  the  life  of  man  by  wise  invention,  those
-who  made  their  memory  sweet  and  loved  by  deeds  of  kind-
-ness and  of  mercy.'  The  beatific  vision  is  closed  by  a  philo-
+who  made  their  memory  sweet  and  loved  by  deeds  of  kindness and  of  mercy.'  The  beatific  vision  is  closed  by  a  philo-
 sophy of  the  universe,  ^neas  sees  the  troop  of  disembodied
 spirits  prepared,  after  a  draught  of  Lethe,  to  return  to  earth.
 He  wonders  at  this  mad  desire  for  life,  and  Anchises  instructs
@@ -12752,17 +12211,13 @@ This  sketch  of  the  development  of  the  Elysium  conception
 
 in  classic  pagan  antiquity,  concise  though  it  be,  is  yet  sufficient,
 I  think,  to  demonstrate  that  the  elements  of  this  conception,
-common  to  Irish  non-Christian  and  to  classic  Christian  litera-
-ture, are  not  necessarily  derived  by  the  former  from  the  latter.
+common  to  Irish  non-Christian  and  to  classic  Christian  literature, are  not  necessarily  derived  by  the  former  from  the  latter.
 These  elements  re-appear  in  pre-Christian  classic  writings,  and
 approve  themselves  part  of  the  oldest  stock  of  Greek  mythic
-legend.  What  is  the  bearing  of  these  facts  upon  our  investi-
-gation? Let  us  recollect  that  Ireland,  unlike  Gaul  or  Ger-
-many or  Britain,  lies  outside  Roman  influence  until  the  third-
-fourth  centuries,  and  that  when  this  influence  does  manifest
+legend.  What  is  the  bearing  of  these  facts  upon  our  investigation? Let  us  recollect  that  Ireland,  unlike  Gaul  or  Ger-
+many or  Britain,  lies  outside  Roman  influence  until  the  thirdfourth  centuries,  and  that  when  this  influence  does  manifest
 itself  it  is  predominantly  Christian.  Let  us  assume  for  one
-moment  that  the  Irish  of  the  fourth  and  fifth  and  sixth  cen-
-turies had  no  tales  and  traditions  of  the  past,  no  vision  of  a
+moment  that  the  Irish  of  the  fourth  and  fifth  and  sixth  centuries had  no  tales  and  traditions  of  the  past,  no  vision  of  a
 western  marvel  land,  no  imaginings  of  a  god's  dweUing-place.
 What  could  they  have  learned  from  their  Christian  instruction?
 Such  a  vision  of  heaven,  undoubtedly,  as  we  find  ascribed  to
@@ -12787,17 +12242,13 @@ organised,    ethically,    socially    and    philosophically,    cannot
 
 HELLENIC    AND    IRISH    MYTH       289
 
-originate  that  which  is  archaic  in  tone  of  manners,  and  de-
-ficient in  any  religious  or  philosophic  intent.  Let  me  again
-assume  a  mythological  tabula  rasa  in  third-sixth  century  Ire-
-land. In  what  shape  would  Hellenic  myth  come  to  the  Irish  ?
+originate  that  which  is  archaic  in  tone  of  manners,  and  deficient in  any  religious  or  philosophic  intent.  Let  me  again
+assume  a  mythological  tabula  rasa  in  third-sixth  century  Ireland. In  what  shape  would  Hellenic  myth  come  to  the  Irish  ?
 In  the  shape  it  came  to  the  Jews  and  Romans  of  the  second
 century  B.C.,  or  rather  in  the  shape  it  assumed  after  contact
 with  Judaea  and  Rome.  And  as  regards  the  conception  of
-the  Otherworld,  this,  as  we  have  seen,  permeated  by  philo-
-sophic and  ethical  ideals,  had  become  in  its  way  as  definitely
-'  religious '  as  the  Christian  belief.  If  any  one  writer  of  anti-
-quity could  have  suggested  to  the  Irish  their  vision  of  Elysium,
+the  Otherworld,  this,  as  we  have  seen,  permeated  by  philosophic and  ethical  ideals,  had  become  in  its  way  as  definitely
+'  religious '  as  the  Christian  belief.  If  any  one  writer  of  antiquity could  have  suggested  to  the  Irish  their  vision  of  Elysium,
 it  would  be  Virgil,  Virgil  the  most  widely  read,  the  most  deeply
 revered  of  all  pagan  poets.  Will  it  be  maintained  for  one
 moment,  and  by  the  most  arrant  paradox-monger,  that  the
@@ -12815,11 +12266,9 @@ Greek  legend  amply  bears  out  a  conclusion  derived  from  a
 general  survey  of  the  latter.  If  we  style  these  earlier  stages
 Homeric,  we  find  that  Ireland  and  Homeric  Greece  agree  in
 the  following  particulars  :  overlapping  in  the  accounts  of  the
-island  Elysium,  and  of  the  mountain  home  of  the  gods  ;  reser-
-vation of  Elysium  to  a  {q.v^  favoured  mortals,  relationship  to  or
+island  Elysium,  and  of  the  mountain  home  of  the  gods  ;  reservation of  Elysium  to  a  {q.v^  favoured  mortals,  relationship  to  or
 caprice  of  a  divinity  being  the  cause  of  the  privilege;  special
-association  of  the  island  Elysium  with  amorous  goddesses  ;  in-
-sistence upon  the  fact  that  the  favoured  mortal  does  not  die^
+association  of  the  island  Elysium  with  amorous  goddesses  ;  insistence upon  the  fact  that  the  favoured  mortal  does  not  die^
 
 T
 
@@ -12839,19 +12288,16 @@ Universe.
 
 It  is  true  that  the  older  conception  persisted  throughout  the
 entire  range  of  classic  literature,  true  also  that,  as  regards
-many  details  of  the  material  equipment  of  the  Happy  Other-
-world,  there  is  little  difference  between  Homeric  and  post-
+many  details  of  the  material  equipment  of  the  Happy  Otherworld,  there  is  little  difference  between  Homeric  and  post-
 Homeric  Elysium.  Texts  which  are  marked  by  the  loftiest
 ethical  fervour,  yet  retain  a  singularly  material  view  of  the  joys
 reserved  for  the  blessed.  But  after  making  full  allowance  for
 these  considerations,  it  still  strikes  one  as  extremely  unlikely,
-to  put  it  at  the  lowest,  that  the  Irish  literature  of  the  Other-
-world  should  have  its  source  in  the  analogous  Greek  literature
+to  put  it  at  the  lowest,  that  the  Irish  literature  of  the  Otherworld  should  have  its  source  in  the  analogous  Greek  literature
 as  it  developed  from  the  fourth  century  B.C.  onwards,  especially
 in  the  modified  forms  it  assumed  after  the  contact  of  the
 Hellenic  mind  with  East  and  West  in  the  third-first  centuries
-B.C.,  and  the  consequent  creation  of  a  common  philosophico-
-religious  syncretism,  differing  profoundly  from  the  older
+B.C.,  and  the  consequent  creation  of  a  common  philosophicoreligious  syncretism,  differing  profoundly  from  the  older
 nature-mythology.
 
 One  special  characteristic  of  the  Irish  Otherworld  may  be
@@ -12870,16 +12316,14 @@ stage  of  national  development  the  stress  laid  upon  this  feature
 puzzled  and  shocked.  The  author  of  Teigue,  son  of  Cian,  is
 at  pains  to  put  a  Platonic  gloss  upon  Connla's  passion.
 Probably  the  first  and  most  distinctive  mark  of  Heaven  that
-would  occur  to  a  modern,  is  that  there  shall  be  neither  marry-
-ing nor  giving  in  marriage  there.  But  it  would  be  a  mistake
+would  occur  to  a  modern,  is  that  there  shall  be  neither  marrying nor  giving  in  marriage  there.  But  it  would  be  a  mistake
 to  regard  this  feeling  as  wholly  due  to  Christianity.  Alien  to
 Judaism  (families  of  1000  are  among  the  supreme  privileges
 reserved  for  the  blessed  in  the  Book  of  Enoch),  the  absence
 from  Heaven  of  all  that  concerns  the  physical  manifestation
 of  love  is,  like  so  much  else  in  Christianity,  of  Greek  origin.
 The  passage  already  quoted  from  Virgil  [si/pra,  p.  286),  that
-priests  of  chaste  life  go  to  Elysium,  may  perhaps  be  re-
-garded as  inconclusive,  ritual  celibacy  being  as  much  a  feature
+priests  of  chaste  life  go  to  Elysium,  may  perhaps  be  regarded as  inconclusive,  ritual  celibacy  being  as  much  a  feature
 of  certain  antique  cults  as  of  certain  varieties  of  Christianity.
 But  Plautus,  imitating  the  fourth-century  Philemon,  has  the
 following  passage  {Trin.  549  ei  seq.)  :
@@ -12907,8 +12351,7 @@ persist  and  be  intensified  in  Elysium.
 Finally,  what  may  be  called  the  formal  mythological  element
 of  the  Irish  account  of  the  Otherworld,  testifies  to  its  kinship
 with  Homeric,  to  its  ignorance  of  post-Homeric  belief.  In  the
-latter  there  is  an  elaborate  underworld  hierarchy,  only  wait-
-ing the  triumph  of  Christianity  to  reappear  in  the  devil
+latter  there  is  an  elaborate  underworld  hierarchy,  only  waiting the  triumph  of  Christianity  to  reappear  in  the  devil
 hierarchy  of  Satan  and  his  subordinates.  There  is  no  trace  of
 such  a  conception  in  the  Irish  accounts.  Save  in  an  episode
 of  Maelduin's  Voyage,  there  is  not  even  a  distant  allusion  to
@@ -12920,10 +12363,8 @@ early  Greece  both  associate  their  western  wonderland  with  a
 chariot-driving  and  steed-possessing  god.  True,  this  is  the
 sun-god  among  the  Greeks,  whereas  Manannan  is  generally
 held,  and  was  certainly  held  at  a  comparatively  early  date  in
-Ireland  itself,  to  be  a  god  of  the  sea.  It  is,  however,  note-
-worthy that  in  one  story  {Baile  an  Scail),  part  of  which  has  a
-very  archaic  aspect,  Lug,  the  Irish  sun-god,  is  lord  of  the  Other-
-world  ;  noteworthy,  that  in  numerous  texts,  some,  it  is  true,  of
+Ireland  itself,  to  be  a  god  of  the  sea.  It  is,  however,  noteworthy that  in  one  story  {Baile  an  Scail),  part  of  which  has  a
+very  archaic  aspect,  Lug,  the  Irish  sun-god,  is  lord  of  the  Otherworld  ;  noteworthy,  that  in  numerous  texts,  some,  it  is  true,  of
 later  date,  as  far  as  their  present  form  is  concerned,  Lug  is
 described  as  Lord  of  the  Fairy  Cavalcade  of  the  Land  of
 Promise,  and  that  throughout  Irish  romance  relating  to  the
@@ -12947,8 +12388,7 @@ ancient  Irish  as  a  sea-god,  and  if  he  was  from  the  outset  lord
 of  the  island  Elysium,  it  would  simply  show  that  historical
 circumstances,  the  nature  of  which  escapes  us,  effected
 amongst  the  Irish  a  change  in  the  myth.  For  it  cannot,  I
-think,  be  doubted  that  the  sun-god  and  the  myth  of  the  sun-
-god  are  the  true  source  of  all  the  fancied  marvels  of  a  happy
+think,  be  doubted  that  the  sun-god  and  the  myth  of  the  sungod  are  the  true  source  of  all  the  fancied  marvels  of  a  happy
 land,  out  of  which  he  rises  in  the  morning,  and  to  which  he
 returns  at  nightfall.  Be  this  as  it  may,  in  his  attributes  and
 characteristics  Manannan  is  far  more  closely  akin  to  the
@@ -12958,16 +12398,13 @@ the  Hellenic  deity  whom  a  late  and  highly  organised  mythology
 represented  as  ruling  over  the  entire  Hades,  Tartarus  as  well
 as  Elysium.
 
-Witliout,  I  trust,  in  any  way  straining  the  evidence  or  over-
-looking points  that  might  lead  to  a  different  result,  a  fairly
+Witliout,  I  trust,  in  any  way  straining  the  evidence  or  overlooking points  that  might  lead  to  a  different  result,  a  fairly
 strong  case  has  been  made  out  for  the  following  conclusions.
-Christian  influence  upon  the  Irish  account  of  the  Happy  Other-
-world  is  slight  and  unessential ;  features  common  to  the  Irish
+Christian  influence  upon  the  Irish  account  of  the  Happy  Otherworld  is  slight  and  unessential ;  features  common  to  the  Irish
 and  Christian  account  are  explicable  by  the  fact  that  both
 stand  in  a  certain  relationship  to  pre-Christian  Greek  belief;
 the  Christian  account  is  the  natural  development  of  the  later
-and  more  highly  organised  stage  of  that  belief  after  its  modi-
-fication by  contact  with  the  East,  in  this  case  the  relationship
+and  more  highly  organised  stage  of  that  belief  after  its  modification by  contact  with  the  East,  in  this  case  the  relationship
 being  one  of  derivation  ;  the  Irish  account  is  akin  to  the  earlier,
 more  purely  mythic  stages  of  Greek  belief  before  the  rise  of
 particular  ethical  and  philosophical  doctrines.
@@ -13016,8 +12453,7 @@ Otherworld  conception  in  the  literature  of  the  Aryan  race ;  problems
 raised  thereby  ;  necessity  of  studying  the  reincarnation  conception  before
 concluding.
 
-Scandinavian  eschatology  is  known  to  us  from  texts  pre-
-served in  isiss.  of  the  thirteenth  century;  some  of  these  in
+Scandinavian  eschatology  is  known  to  us  from  texts  preserved in  isiss.  of  the  thirteenth  century;  some  of  these  in
 their  present  form  (I  allude  notably  to  the  expository  treatises
 known  as  Gylfi's  Beguiling  and  Bragi's  Tales  in  the  so-called
 prose  Edda)  may  possibly  be  little  older  than  their  date  of
@@ -13029,8 +12465,6 @@ admission  to  which  is  a  privilege  granted  by  the  deity  who
 figures  as  head  of  the  Scandinavian  pantheon,  of  a  hell  to
 which  offenders  are  doomed  by  the  gods,  of  a  final  conflict
 between  the  powers  of  good  and  ill  succeeded  by  a  new  and
-
-296
 
 
 296  NORSE    ESCHATOLOGY
@@ -13057,8 +12491,7 @@ the   stress   of  contact,   and   in    competition  with  the  highly
 organised  creeds  (Pagan  and  Christian)  of  classic  antiquity,  the
 Northern  Germans  developed  and  systematised  their  own  faiths.
 In  so  far  as  the  eschatology  is  concerned  the  parallels  are
-rather  with  Pagan  classic  than  with  Christian  classic  concep-
-tions.    The  Eddaic  hell  corresponds  far  more  closely  to  the
+rather  with  Pagan  classic  than  with  Christian  classic  conceptions.    The  Eddaic  hell  corresponds  far  more  closely  to  the
 earlier  form  of  the  Greek  Tartftrus,  recoverable  from  literature
 of  the  fifth  to  second  centuries  B.C.,  than  to  the  later  forms  it
 assumed  after  contact  with  Judaism  and  modification  through
@@ -13174,8 +12607,7 @@ contact  with  their  hosts,  likewise  to  keep  their  hands  off  the
 servants  and  the  cups  of  the  people.  Gudmund  had  twelve
 sons  and  as  many  daughters,  and  w^hen  he  saw  that  his  guests
 would  not  partake  of  his  food  he  sought  to  sap  their  chastity
-by  offering  them  his  daughters  and  the  women  of  his  house-
-hold.   All  the  travellers  save  four  resisted,  and  these  paid  with
+by  offering  them  his  daughters  and  the  women  of  his  household.   All  the  travellers  save  four  resisted,  and  these  paid  with
 
 '  Saxo,  344-352,  and  Introduction,  Ixix-lxxii.     Rydberg,  212-214.
 
@@ -13193,8 +12625,7 @@ Thorkill,  refused  to  accept  his  host's  invitation  to  enter  it.
 
 The  travellers  then  crossed  the  river,  which  led  to  Geirrod's
 land,  and  entered  a  gloomy  cavern  of  horrors,  in  which  they
-found  Geirrod  and  his  daughter  suffering  from  the  punish-
-ment inflicted  upon  them  by  Thor.^  In  the  cavern  were  also
+found  Geirrod  and  his  daughter  suffering  from  the  punishment inflicted  upon  them  by  Thor.^  In  the  cavern  were  also
 seven  butts  hooped  round  with  belts  of  gold,  the  tusk  of  a
 strange  beast  tipped  at  both  ends  with  gold,  a  vast  stag  horn
 decked  with  flashing  gems,  and  a  very  heavy  bracelet.
@@ -13235,8 +12666,7 @@ country  again.
 
 The  Hadding  Story.^
 Once  as  Hadding  sat  at  supper,  a  woman  bearing  hemlocks
-was  seen  to  raise  her  head  beside  the  brazier,  and,  stretch-
-ing out  the  lap  of  her  robe,  seemed  to  ask,  '  in  what  part  of
+was  seen  to  raise  her  head  beside  the  brazier,  and,  stretching out  the  lap  of  her  robe,  seemed  to  ask,  '  in  what  part  of
 the  world  such  fresh  herbs  are  grown  in  winter?  '  The  king
 desired  to  know,  and,  wrapping  him  in  her  mantle,  she  drew
 him  with  her  underground.  '  First  they  pierced  through  a
@@ -13376,8 +12806,7 @@ ODAINSAKR  305
 
 contamination  of  varying  forms  of  the  same  incident.  Thus
 whilst  nothing  forbids  the  hypothesis  of  influence  exercised
-during  the  late  ninth  or  tenth  century  upon  the  Irish  Other-
-world  voyage  narratives  by  corresponding  Scandinavian  stories,
+during  the  late  ninth  or  tenth  century  upon  the  Irish  Otherworld  voyage  narratives  by  corresponding  Scandinavian  stories,
 there  is  no  definite  argument  to  be  urged  in  its  favour,  beyond
 this  fact  that  the  incidents  of  the  theft  of  Otherworld  treasures
 followed  by  the  punishment  of  the  thief,  and  the  abandonment
@@ -13434,12 +12863,10 @@ come  from  ?  The  survival  of  part  of  the  kin  of  the  gods  is
 expressly  provided  for.  How  about  man  ?  The  existing  race
 is  ex  hypothesi  corrupt  and  unfit  to  inhabit  the  new  universe.
 Provision  is  therefore  made  for  the  seclusion  of  a  human  pair,
-Lif  and  Leifthraser,  before  the  human  race  has  suffered  cor-
-ruption, in  a  land  into  which  death  cannot  enter,  a  land  free
+Lif  and  Leifthraser,  before  the  human  race  has  suffered  corruption, in  a  land  into  which  death  cannot  enter,  a  land  free
 from  all  ills,  from  which,  after  the  final  catastrophe  which  is  to
 overwhelm  both  Asgard  and  Midgard,  i.e.  the  existing  polities
-both  of  gods  and  men,  they  are  to  issue  and  repeople  the  Uni-
-verse. This  land  is  Odainsakr,  the  acre  of  the  not  dead,  Jord:
+both  of  gods  and  men,  they  are  to  issue  and  repeople  the  Universe. This  land  is  Odainsakr,  the  acre  of  the  not  dead,  Jord:
 lifanda  mamia,  the  earth  of  living  men.  It  is  guarded  by  the
 seven  sons  of  Mimer,  the  giant  smiths  who  fashioned  the
 primeval  weapons  and  ornaments  ;  these,  sunk  in  a  deep  sleep,
@@ -13472,8 +12899,7 @@ strangely  enigmatic  aspect.
 Rydberg's  reconstruction  of  this,  as  he  deems  it  one  of  the
 essential  elements  of  the  mythology,  derives  its  chief  support
 from  comparison  with  an  Iranian  myth  found  in  the  Avesta.
-Before  passing  on  to  the  consideration  of  this  and  other  ex-
-pressions of  the  Happy  Otherworld  conception  in  Iranian
+Before  passing  on  to  the  consideration  of  this  and  other  expressions of  the  Happy  Otherworld  conception  in  Iranian
 mythic  literature,  it  may  be  well  to  briefly  note  the  resemblances
 and  differences  between  the  Irish  and  Scandinavian  accounts
 of  the  wonderland  apart  from  any  hypothetical  mythological
@@ -13481,8 +12907,7 @@ significance  attached  to  the  latter.  It  is  less  essentially  in
 Scandinavia  than  in  Ireland,  the  Land  of  Heart's  Desire ;  even
 in  the  story  of  Eric  the  traveller  it  is  disparaged  by  comparison
 with  the  Christian  paradise,  whilst  in  the  other  stories  its
-proximity  to  the  Northern  Tartarus  and  the  uncanny  semi-
-demoniac  nature  of  its  inmates,  are  far  more  prominent  features
+proximity  to  the  Northern  Tartarus  and  the  uncanny  semidemoniac  nature  of  its  inmates,  are  far  more  prominent  features
 than  are  the  joys  and  delights  of  their  realm.     Again,  whilst  in
 
 
@@ -13490,8 +12915,7 @@ than  are  the  joys  and  delights  of  their  realm.     Again,  whilst  in
 
 many  Irish  stories  the  Otherworld  is  differentiated  from  this
 by  the  fact  that  the  wanderer  who  returns  thence  at  once  falls
-subject  to  mortality  and  decay,  in  Scandinavia  death  and  dis-
-ease are  his  portion  who  partakes  of  the  food  or  accepts  the
+subject  to  mortality  and  decay,  in  Scandinavia  death  and  disease are  his  portion  who  partakes  of  the  food  or  accepts  the
 love  offered  by  its  denizens.  In  this  respect  the  Irish
 account  differs  not  only  from  the  Scandinavian  and  later
 Greek,  but  also  with  current  folk-belief  both  of  the  backward
@@ -13557,8 +12981,7 @@ fargad  of  the  Vendidad  tells  how  Ahura  Mazda  confided
 humanity  to  the  care  of  Yima.^    '  Multiply  my  creatures,  cause
 
 1  All  quotations  from  the  Avesta  are  from  Le  Zend-Avesta,  traduction
-nouvelle  avec  commcntaire  historique  et  philologique,  par  James  Dar-
-mestetcr.     3  vols.     Paris,  1892-93.
+nouvelle  avec  commcntaire  historique  et  philologique,  par  James  Darmestetcr.     3  vols.     Paris,  1892-93.
 
 -  Avesta,  ii.  16  et  seq.     Cf.  Rydberg,  sect.  54.
 
@@ -13590,8 +13013,7 @@ on  mortals.'  Yima  did  as  he  was  bid,  and  in  that  enclosure
 the  one  thing  lacking  was  the  sight  of  stars  and  moon  and  sun,
 and  a  year  passed  as  a  day.^     Every  40  years  there  was  born
 
-^  This  is  the  only  instance  to  my  knowledge  in  which  a  rational  inter-
-pretation is  suggested  of  that  supernatural  lapse  of  time  wh'ch  is  so  marked
+^  This  is  the  only  instance  to  my  knowledge  in  which  a  rational  interpretation is  suggested  of  that  supernatural  lapse  of  time  wh'ch  is  so  marked
 a  characteristic  of  the  Otherworld.  The  progress  of  time  is  indicated  by
 the  course  of  the  sun.  But  if  the  sun  is  only  seen  once  a  year  then  a  year
 is  a  day.  If  we  were  to  adopt  the  opinion  of  certain  scholars  that  the
@@ -13634,8 +13056,7 @@ forty  years  there  is  born  a  child  to  a  man  and  woman  .  .  .2
 1  Rydberg,  258.     Avesta,  ii.  584.
 
 -  This  Malthusian  trait  is  remarkable,  because  many  Avestic  texts  attach
-the  utmost  importance  to  numerous  offspring.  Cf.  Fargad  4  of  the  Ven-
-didad  with  its  strong  anti-ascetic  bias  (Avesta,  ii.  61).  There  would
+the  utmost  importance  to  numerous  offspring.  Cf.  Fargad  4  of  the  Vendidad  with  its  strong  anti-ascetic  bias  (Avesta,  ii.  61).  There  would
 seem  to  be  here  traces  of  an  alien  ascetic  principle,  either  Buddhist  or
 Christian,  which  has  likewise  affected  the  story  of  Yima's  enclosure.
 Kohut  in  the  article  cited,  infra  315,  surmises  Jewish  influence.  The  40
@@ -13661,8 +13082,7 @@ another  mediaeval  {i.e.  eighth  or  ninth  century  text)  the
 Btmdahesh,  '  there  shall  come  a  terrible  rain  during  three  years,
 with  cold  winters  and  hot  summers,  causing  snow  and  hail  to
 fall  without  ceasing;  men,  no  longer  having  the  resource  of
-fire,  shall  all  perish.  Then  the  human  race  shall  be  re-
-constituted in  Yima's  enclosure,  and  for  that  reason  Avas  it
+fire,  shall  all  perish.  Then  the  human  race  shall  be  reconstituted in  Yima's  enclosure,  and  for  that  reason  Avas  it
 made  in  a  secret  place.'  ^
 
 This  cosmological  Elysium  is  clearly  distinguished  in  the
@@ -13700,12 +13120,9 @@ date,  in  the  first  and  second  centuries  of  our  era.  It  is  the
 product  of  a  revival  of  the  old  national  religion  after  a  period
 of  eclipse,  consequent  upon  the  conquest  of  Alexander,  the
 subsequent  rule  of  Greek  princes,  and  the  domination  of  Greek
-ideas.  The  late  date  assigned  to  the  compilation  and  canoni-
-fication  of  the  Avestic  text,  justifies  a  priori  hypotheses  of
-possible  foreign  influence  both  Greek  and  Jewish.  M,  Darm-
-esteter boldly  translates,  first,  possibility  into  probability,  and
-then,  probability  into  certainty.  For  him  the  elaborate  cosmo-
-logy of  the  Avesta  is  largely  a  reflex  of  Neo-Platonic  speculation,
+ideas.  The  late  date  assigned  to  the  compilation  and  canonification  of  the  Avestic  text,  justifies  a  priori  hypotheses  of
+possible  foreign  influence  both  Greek  and  Jewish.  M,  Darmesteter boldly  translates,  first,  possibility  into  probability,  and
+then,  probability  into  certainty.  For  him  the  elaborate  cosmology of  the  Avesta  is  largely  a  reflex  of  Neo-Platonic  speculation,
 the  economy  of  the  Avesta  is  modelled  upon  that  of  the
 Hebrew  Sacred  Books,  Iranian  mythico-religious  history  has
 been  influenced  by  that  of  the  Jews.  Thus  the  myth  of
@@ -13727,12 +13144,10 @@ researches,  to  which  he  only  alludes  briefly  in  an  appendix.     It  is
 314        DARMESTETER    ON    AVESTA
 
 parallelism  between  the  Iranian  and  Jewish  stories  of  how
-humanity  was  almost  entirely  destroyed  and  afterwards  recon-
-stituted, is  not  only  to  my  mind  very  slight,  but  the  Iranian
+humanity  was  almost  entirely  destroyed  and  afterwards  reconstituted, is  not  only  to  my  mind  very  slight,  but  the  Iranian
 narrative  seems  to  me  to  belong  to  an  earUer,  less  advanced
 
-ing  to  note  how  the  same  facts  lend  themselves  to  very  different  con-
-clusions. M.  Robioii,  like  M.  Darmesteter,  maintains  the  complexity  and
+ing  to  note  how  the  same  facts  lend  themselves  to  very  different  conclusions. M.  Robioii,  like  M.  Darmesteter,  maintains  the  complexity  and
 inconsistency  of  the  existing  Avesta,  but  explains  it  as  the  result  of  the
 gradual  transformation  of  an  originally  pure  monotheistic  creed  into  a
 nominal  dualism  and  practical  polytheism,  whilst  M.  Darmesteter
@@ -13749,8 +13164,7 @@ question — does  the  date  of  record  necessarily  give  a  clew  to  the  d
 of  origin  ?
 
 In  addition  to  the  reason  given  in  the  text  for  dissenting  from  M.
-Darmesteter's  theory  of  the  late  composition  of  the  Avestic  texts  (as  dis-
-tinguished from  their  collection  and  canonification)  I  would  point  out  that
+Darmesteter's  theory  of  the  late  composition  of  the  Avestic  texts  (as  distinguished from  their  collection  and  canonification)  I  would  point  out  that
 it  is  admitted  by  all  scholars,  M.  Darmesteter  as  well  as  others,  that  the
 Gathas  or  hymns  preserved  in  the  Yasna,  or  Liturgy,  are  the  earliest
 portion  of  the  Avesta.  They  are  written  in  a  language  which,  on  M.
@@ -13790,8 +13204,7 @@ Is  it  then  at  all  likely  that  these  would  have  been  written  in  what
 practically  a  dead  language?  I  do  not  feel  competent  to  express  a
 decided  opinion  on  such  a  subject.
 
-1  The  dependence  of  the  Avestic  myth  upon  Genesis  has  been  elabor-
-ately worked  out  by  the  late  Rev.  Dr.  A.  Kohut  in  his  article  entitled  :
+1  The  dependence  of  the  Avestic  myth  upon  Genesis  has  been  elaborately worked  out  by  the  late  Rev.  Dr.  A.  Kohut  in  his  article  entitled  :
 'The  Zendavesta  and  the  first  eleven  chapters  of  Genesis'  (Jewish
 Quarterly  Review,  April,  1890).  I  have  read  this  carefully,  but  remain
 unconvinced.  Kohut  brings  into  strong  prominence  the  features  common
@@ -13815,16 +13228,13 @@ in  the  last  degree.
 
 3i6  VEDIC    MYTH
 
-Consideration  of  what  Sanskrit  mythic  Hterature  says  concern-
-ing our  theme  may  supply  some  more  definite  conclusion
+Consideration  of  what  Sanskrit  mythic  Hterature  says  concerning our  theme  may  supply  some  more  definite  conclusion
 respecting  the  date  of  the  Avestic  myths.  But,  first  a  word  as
 to  the  hypothetical  parallelism  of  Iranian  and  Scandinavian
-mythology.  Assuming  for  a  moment  the  correctness  of  Ryd-
-berg's  reconstruction  of  the  Scandinavian  myth  of  Odainsakr,
+mythology.  Assuming  for  a  moment  the  correctness  of  Rydberg's  reconstruction  of  the  Scandinavian  myth  of  Odainsakr,
 there  is  nothing,  historically  and  geographically,  that  need
 surprise  in  a  closer  kinship  of  Teutonic  and  Iranian,  than  of
-Teutonic  and  Hellenic  myth,  provided  we  assume  a  compara-
-tively recent  date  for  the  Aryan  conquest  of  Iran,  and  a  con-
+Teutonic  and  Hellenic  myth,  provided  we  assume  a  comparatively recent  date  for  the  Aryan  conquest  of  Iran,  and  a  con-
 siderable eastward  and  south-eastward  extension  of  the  Teutons
 from  their  Baltic  home.
 
@@ -13865,12 +13275,10 @@ movements  which  facilitated  or  competed  with  the  work  of
 Buddha.  Brahmanism,  again,  is  held  to  be  but  the  last  term  of
 a  lengthy  religious  evolution,  the  stages  of  which  can  be  traced
 from  the  oldest  portions  of  the  Rig  Veda,  through  the  younger
-hymns  of  the  same  collections,  through  the  liturgical  petrifac-
-tion of  the  Vedic  creed  in  the  Yajur  Vedas,  through  the
+hymns  of  the  same  collections,  through  the  liturgical  petrifaction of  the  Vedic  creed  in  the  Yajur  Vedas,  through  the
 formal  systematisation  of  the  doctrines  in  the  Brahmanas,  and
 the  elaboration  of  the  metaphysical  elements  in  the  Upanishads.
-Scholars  differ  as  to  the  lapse  of  time  required  for  this  evolu-
-tion. L.  V.  Schroder  postulates  a  thousand  years  back  from
+Scholars  differ  as  to  the  lapse  of  time  required  for  this  evolution. L.  V.  Schroder  postulates  a  thousand  years  back  from
 the  sixth  century  B.C.,  and  thus  reaches  a  date  oi  circa  1500
 B.C.  for  the  older  portions  of  the  Rig  Veda.  Whitney  would
 allow  a  further  400  to  500  years ;  the  latest  investigator,
@@ -13882,8 +13290,7 @@ period.^
 The  validity  of  this  kind  of  reasoning  may  be  admitted  in
 so  far  as  Vedic  literature  en  bloc  is  concerned,  but  it  would  be
 unsafe  to  rely  upon  it  when  we  essay  to  critically  discriminate
-the  various  strata  of  that  literature.  Material  external  evid-
-ence is  altogether  lacking.  By  this  I  mean  that  we  possess  no
+the  various  strata  of  that  literature.  Material  external  evidence is  altogether  lacking.  By  this  I  mean  that  we  possess  no
 MS.  which  approaches  even  within  2000  years  the  date  at  which
 the  Rig  Veda  hymns  were  collected  in  their  present  form.
 '  II.  Oldenberg,  Die  Religion  dcs  Veda,  Berlin,  1S94.
@@ -13901,15 +13308,13 @@ it  is,  of  Vedic  Hterature  continues  to  be  committed  to  memory
 with  a  minute  accuracy  that  Avould  be  incredible  were  it  not
 abundantly  attested.  Was  it  so  in  the  past,  and  were  the
 Brahmins  as  insistent  then  as  now  upon  retaining  every  jot
-and  tittle  of  the  sacred  text  ?  Possibly  it  was  so,  but  we  can-
-not be  sure.  Let  me  put  a  parallel  case.  Suppose  the  oldest
+and  tittle  of  the  sacred  text  ?  Possibly  it  was  so,  but  we  cannot be  sure.  Let  me  put  a  parallel  case.  Suppose  the  oldest
 Mss.  of  the  Christian  Scriptures  dated  from  the  last  century,
 that  we  had  no  means  of  deciding  whether  the  text  contained
 in  those  mss.  had  been  preserved  orally  or  was  based,  in  some
 unknown  way,  upon  earlier  mss.  ;  suppose  moreover,  that,  not
 the  Scriptures  alone,  but  the  entire  mass  of  Christian  literature
-since  Christ  was  in  the  same  case,  that  every  precise  chrono-
-logical indication  we  now  possess  concerning  the  authors  of
+since  Christ  was  in  the  same  case,  that  every  precise  chronological indication  we  now  possess  concerning  the  authors  of
 this  literature  was  lacking,  that  we  had  no  annalistic  schemes,
 no  general  or  local  chronicles  to  assist  us,  that  we  had  e.g.  to
 decide  the  date  of  the  Latin  writings  of,  say  Augustine,
@@ -13928,10 +13333,8 @@ can  only  guess  at  the  lapse  of  time  required  for  changes  in  the
 
 VEDIC    LITERATURE  319
 
-language,  for  modifications  of  doctrine,  for  the  budding,  blos-
-soming and  decay  of  new  religious  and  philosophical  move-
-ments. We  know  nothing  concerning  the  possible  contempor-
-aneous existence,  in  different  parts  of  prehistoric  India,  of
+language,  for  modifications  of  doctrine,  for  the  budding,  blossoming and  decay  of  new  religious  and  philosophical  move-
+ments. We  know  nothing  concerning  the  possible  contemporaneous existence,  in  different  parts  of  prehistoric  India,  of
 different  stages  of  the  national  idiom,  of  different  schools  of
 religious  and  philosophic  thought.  We  must  be  content  with
 plausible  hypotheses,  and,  for  the  present  at  least,  to  forego
@@ -13943,15 +13346,13 @@ I  purpose  citing  from  Vedic  literature,  as  preserved,  passages
 relating  to  the  Happy  Othenvorld.  I  may  say  at  once  that  in
 the  preceding  passage  I  by  no  means  intend  to  cast  any  doubt
 upon  the  authenticity  of  that  literature  as  a  whole.  But  it  is
-precisely  texts  containing  conceptions  of  this  character — con-
-ceptions, that  is,  simple  it  may  be  and  rude  in  their  origin,
+precisely  texts  containing  conceptions  of  this  character — conceptions, that  is,  simple  it  may  be  and  rude  in  their  origin,
 but  forming  at  a  later  date  integral  elements  of  a  highly
 developed  theological  system — that  are  most  susceptible  of
 modification,  whether  it  take  the  form  of  suppression  or
 addition.
 
-To  cite  an  instance  :  modern  criticism  is  unanimous  in  re-
-cognising that  the  account  of  Ulysses'  descent  into  Hades  is  a
+To  cite  an  instance  :  modern  criticism  is  unanimous  in  recognising that  the  account  of  Ulysses'  descent  into  Hades  is  a
 composite  document  exhibiting  traces  of  markedly  distinct
 stages  in  the  evolution  of  the  doctrines  concerning  life  after
 death.  But  if  this  doctrine  had  not  continued  to  occupy  and
@@ -13974,8 +13375,7 @@ With  this  caveat  I  proceed  to  lay  before  the  reader  passages
 chiefly  taken  from  Oldenberg's  admirable  account  of  Vedic
 religion.
 
-In  the  ninth  book  of  the  Rig  Veda,  the  sacrificer  thus  in-
-vokes the  divine  plant  Soma :
+In  the  ninth  book  of  the  Rig  Veda,  the  sacrificer  thus  invokes the  divine  plant  Soma :
 
 'Where  is  uncreated  light,  therein  are  placed  world  and  sun,
 thither  bear  me  Soma,  where  is  the  never-ending  world  of
@@ -13984,8 +13384,7 @@ deathlessness.
 Where  Vivasant's  son  {i.e.  Yama)  is  king,  in  the  firm  vault  of
 Heaven,  where  running  waters  are,  there  let  me  be  undying.
 
-Where  one  moves  at  will,  in  the  threefold  firmament,  in  the  three-
-fold heaven  of  heavens,  where  the  worlds  of  light  are,  there
+Where  one  moves  at  will,  in  the  threefold  firmament,  in  the  threefold heaven  of  heavens,  where  the  worlds  of  light  are,  there
 let  me  be  never  dying.
 
 Where  desire  and  fulfilment  (are  one)  in  the  red  spaces  of  heaven,
@@ -13998,8 +13397,7 @@ This  remarkable  hymn,  found  in  a  collection  ascribed  by
 scholars  to  various  dates  between  the  years  2000  and  1000  B.C.,
 pictures  it  will  be  seen  a  '  heaven,'  an  abode  of  bliss  where
 man  enjoys  immortal  life  by  favour  of  divine  being,  as  a  reward
-for  certain  conduct,  in  this  case  due  performance  of  the  sacri-
-fice. The  lord  of  this  heaven  is  Yama,  whom  a  passage  in  the
+for  certain  conduct,  in  this  case  due  performance  of  the  sacrifice. The  lord  of  this  heaven  is  Yama,  whom  a  passage  in  the
 tenth  book  of  the  Rig  Veda  describes  as  '  carousing  with  the
 gods  beneath  the  shade  of  a  leafy  tree,'  a  description  which  seems
 to  bring  one  into  a  simpler,  more  archaic  cycle  of  conceptions
@@ -14016,8 +13414,7 @@ are  there,  with  shores  of  honey,  filled  with  brandy  instead  of
 water,  full  of  milk,  of  water,  of  sour  milk;  such,  all  the  streams
 that  flow,  honey  sweet,  welling  up  in  the  heavenly  land.  Lotus
 groves  shall  surround  thee  on  every  side.'  Here  we  are  again
-confronted  with  the  familiar  equipment  of  a  primitive  agricul-
-tural elysium.
+confronted  with  the  familiar  equipment  of  a  primitive  agricultural elysium.
 
 The  immortality  claimed  by  the  soma  devotee  as  his  reward
 does  not  exhaust  the  privileges  of  those  who  reach  Yama's
@@ -14057,8 +13454,7 @@ who  roam  about  like  brotherless  girls,  who  follow  evil  courses
 like  women  who  deceive  their  husbands,  who  are  bad,
 false,  untruthful,  they  have  brought  into  being  those  deep
 dwelling-places' ;  and,  finally,  '  that  the  heaven  ideal  of  the  Rig
-Veda  hardly  rises  above  the  level  of  a  land  of  Cockayne  trans-
-ported into  the  realms  of  light,  a  land  flowing  with  inex-
+Veda  hardly  rises  above  the  level  of  a  land  of  Cockayne  transported into  the  realms  of  light,  a  land  flowing  with  inex-
 haustible streams  of  milk  and  honey,  and  provided  with
 equally  inexhaustible  harem  delights.'
 
@@ -14068,8 +13464,7 @@ sober  scholar  like  Oldenberg,  may  yield  to  others,  as  they  do
 to  me,  the  impression  of  long  and  complex  evolution  within  the
 limits  of  Vedic  literature.  The  idea  of  'heaven,'  as  we  have
 seen  amongst  Greeks  and  Scandinavians,  is  gradually  evolved
-from  that  of  the  older  Elysium,  the  elements  of  which  it  assimi-
-lates and  transforms.  In  the  Avestic  creed  such  an  Elysium
+from  that  of  the  older  Elysium,  the  elements  of  which  it  assimilates and  transforms.  In  the  Avestic  creed  such  an  Elysium
 appears  in  a  twofold  aspect,  each  time  connected  with  Yima,
 and  each  time  definitely  disassociated  from  the  Avestic
 heaven.  That  the  Vedic  Yama  is  the  counterpart  of  the
@@ -14079,8 +13474,7 @@ is  no  divine  land  of  rewards  and  punishments,  or  heaven,  the
 former,  even  in  the  oldest  portions  of  the  Rig  Veda,  figures  as
 the  divine  lord  of  the  land  to  which  men  go  after  death.
 True,  there  are  not  wanting  traces  of  an  earlier  stage  of  his
-personality,  one  in  which  he  was  the  first  patriarch,  the  pro-
-genitor of  mankind,  and,  as  the  first  to  suffer  death,  the
+personality,  one  in  which  he  was  the  first  patriarch,  the  progenitor of  mankind,  and,  as  the  first  to  suffer  death,  the
 natural  ruler  in  the  kingdom  of  death.  But  taking  the  earliest
 stratum  of  Vedic  literature  as  a  whole,  Yama  may  be  said  to
 fill  in  it  the  place  of  an  Indian  Pluto.     With  advancing  years.
@@ -14091,11 +13485,9 @@ INDRA'S    REALM  323
 and  as  the  conception  of  a  future  life  became  more  precise,
 the  law  whose  operation  we  have  already  observed  in
 Greece  may  also  be  noted  in  India ;  the  penal  side  of  future
-life  it  is  which  assumes  prominence — the  lord  of  the  Other-
-world  becomes  essentially  a  ruler  of  hell.  Not  that  Yama
+life  it  is  which  assumes  prominence — the  lord  of  the  Otherworld  becomes  essentially  a  ruler  of  hell.  Not  that  Yama
 ever  entirely  loses  his  connection  with  Elysium,  but  during
-what  has  been  termed  the  Mediaeval  period  of  Indian  civilisa-
-tion, roughly  speaking  from  the  sixth  and  fifth  centuries  B.C.
+what  has  been  termed  the  Mediaeval  period  of  Indian  civilisation, roughly  speaking  from  the  sixth  and  fifth  centuries  B.C.
 onwards,  it  is  the  Tartarean  phase  of  Yama's  character  which
 is  most  prominent.  The  ultimate  outcome  of  this  evolution
 is  a  series  of  hell  visions,  which  for  puerile  beastliness  of
@@ -14127,16 +13519,14 @@ West,  Bombay,  1892.  Cf,  also  West's  translation  of  the  Bahman  Yasht
 
 324  INDRA'S    REALM
 
-This  palace,  Swarga,  which  on  one  side  recalls  the  Scandi-
-navian Walhalla,  is  on  another  the  model  of  the  Mohammedan
+This  palace,  Swarga,  which  on  one  side  recalls  the  Scandinavian Walhalla,  is  on  another  the  model  of  the  Mohammedan
 heaven.  The  '  never-ending  joys  '  are  essentially  joys  of  the
 senses.  Swarga  is  glorious  with  precious  stones,  surrounded
 by  the  fairest  gardens  ;  King  Indra  sits  on  his  throne  whilst
 the  Gandharvas  and  Apsaras  sing  and  dance  before  him.  The
 Apsaras,  '  Indra's  girls,'  fairest,  most  desirable  and  most
 ardent  of  women,  av/ait  the  fallen  warrior,  thousands  are  ready
-for  him,  says  Indra,  and  cry  out  to  him,  '  Be  thou  my  hus-
-band.' This  warlike  conception  of  merit  is  probably  the
+for  him,  says  Indra,  and  cry  out  to  him,  '  Be  thou  my  husband.' This  warlike  conception  of  merit  is  probably  the
 earliest,  but  the  texts  which  tell  of  Indra's  heaven  date  from
 a  time  when  not  only  the  Brahminical  system  had  been  fully
 elaborated,  but  when  it  had  also  been  affected  by  the  ascetic
@@ -14152,10 +13542,8 @@ them  alarm — a  striking  example  of  the  inconsistency  of  the
 whole  conception,  and  a  proof  of  the  diverse  elements  that
 enter  into  it.^
 
-It  would  seem  that  the  Indians,  like  the  Greeks,  not  con-
-tent with  working  up  the  Elysium  ideal  into  a  paradisaical
-golden  age  (Yama's  realm  in  its  hypothetical  original  significa-
-tion corresponding  to  the  Hesiodic  golden  age  and  to  the
+It  would  seem  that  the  Indians,  like  the  Greeks,  not  content with  working  up  the  Elysium  ideal  into  a  paradisaical
+golden  age  (Yama's  realm  in  its  hypothetical  original  signification corresponding  to  the  Hesiodic  golden  age  and  to  the
 Avestic  Eran  Vej  in  which  Yima  ruled  over  the  first  men),
 and  into  a  heaven  (Yama's  realm  in  its  later  signification  and
 
@@ -14170,14 +13558,11 @@ Greek  Hades),  also  used  it  in  picturing  an  Utopia.  The  land
 of  Uttara  Kuru  lay  beyond  the  Himalayas,  'that  land  is
 neither  too  cold  nor  too  warm,  free  it  is  from  sickness,  care
 and  sorrow  are  unknown  there ;  the  earth  is  not  dusty  and
-yields  a  sweet  smell;  the  streams  flow  in  a  golden  bed  roll-
-ing down  pearls  and  jewels  instead  of  pebbles.'  ^  The  con-
+yields  a  sweet  smell;  the  streams  flow  in  a  golden  bed  rolling down  pearls  and  jewels  instead  of  pebbles.'  ^  The  con-
 quests of  Alexander  brought  these  legends  to  the  knowledge
-of  the  Greeks.  Amometos  wrote  a  novel  about  the  Atta-
-coren,  and  they  were  naturally  and  inevitably  identified  with
+of  the  Greeks.  Amometos  wrote  a  novel  about  the  Attacoren,  and  they  were  naturally  and  inevitably  identified  with
 the  Hyperboreans,  who  had  been  so  long  the  subject  of
-similar  tales  among  the  Greeks.^  The  Indian  story  may  pro-
-fitably be  compared  with  the  Avestic  one  of  Yima's  first
+similar  tales  among  the  Greeks.^  The  Indian  story  may  profitably be  compared  with  the  Avestic  one  of  Yima's  first
 realm — both  lands  lie  to  the  north  beyond  the  mountains,
 and  both  have  in  all  probability  the  same  historic  element
 in  their  composition,  representing  as  they  do  memories  of  a
@@ -14210,10 +13595,8 @@ dawn  of  their  history.
 
 We  must  now  gather  up  the  various  dropped  threads  of
 our  investigation  and  see  if  they  can  be  worked  into  an
-orderly  pattern,  retracing  the  growth  of  the  Elysium  concep-
-tion among  the  Indo-Germanic  races.  It  will  be  convenient
-to  arrange  the  indications  yielded  us  by  literature  chrono-
-logically, remembering,  however,  that  the  chronology  is  a
+orderly  pattern,  retracing  the  growth  of  the  Elysium  conception among  the  Indo-Germanic  races.  It  will  be  convenient
+to  arrange  the  indications  yielded  us  by  literature  chronologically, remembering,  however,  that  the  chronology  is  a
 tentative  one  as  far  as  the  older  dates  are  concerned,  and  that
 as  regards  the  races  which  come  later  within  the  purview  of
 antique  civilisation  (such  as  the  Germans,  and  especially  the
@@ -14222,8 +13605,7 @@ indeed  supplies  no  valid  argument  in  favour  of  such  a
 contention.
 
 1 500-1000  B.C.      India.      Vedic   presentment   of  Yama's
-realm — golden  age  form  of  the  Elysium  ideal  develop-
-ing into  the  heaven  form.
+realm — golden  age  form  of  the  Elysium  ideal  developing into  the  heaven  form.
 1000-800  B.C.      Greece.      Homeric   presentment   of  the
 gods'  land   and  of  realms  to  which  mortals  may  be
 transported  by  special  favour  of  the  gods.
@@ -14263,11 +13645,9 @@ upon  Jewish  eschatology.  Contact  of  Greece  and
 Persia,  of  Greece  and  India.  Formation  of  a  rich
 eschatological  Greek-Jewish  literature  in  which  all
 previous  elements  mingle  and  develop.  Marked
-prominence  of  communistic  element.  Further  elabora-
-tion of  hell.
+prominence  of  communistic  element.  Further  elaboration of  hell.
 
-1-500  A.D.  Hellenistic  Christian  Period.  Transfor-
-mation of  Greek-Jewish  into  Christian  eschatological
+1-500  A.D.  Hellenistic  Christian  Period.  Transformation of  Greek-Jewish  into  Christian  eschatological
 literature.  Romantic  Jewish  and  Christian  use  of  the
 Elysium  ideal.   Transformation  and  degradation  of  hell.
 
@@ -14288,8 +13668,7 @@ No  trace  of  heaven  or  hell.
 
 700-800  A.D.     England.     Anglo-Saxon  version  of  Phcenix.
 
-800-1100  A.D.  Ireland.  Romantic  and  didactic  develop-
-ment of  Irish  Elysium.  Christian  transformation  of
+800-1100  A.D.  Ireland.  Romantic  and  didactic  development of  Irish  Elysium.  Christian  transformation  of
 same  (in  Navigatio  S.  Brendani).
 
 800-1200  A.D.  Scandinavia.  Scandinavian  eschatological
@@ -14305,10 +13684,8 @@ ideal.
 versions  of  voyage  to  Elysium.
 
 In  considering  the  foregoing  chronological  summary,  the
-disturbing  influence  exercised  by  Christianity  upon  the  de-
-velopment of  Northern  and  Western  Europe  must  be  borne
-in  mind.  A  very  marked  feature  in  the  history  of  the  future-
-world  conception  among  Greeks,  Indians,  and  Persians,  is
+disturbing  influence  exercised  by  Christianity  upon  the  development of  Northern  and  Western  Europe  must  be  borne
+in  mind.  A  very  marked  feature  in  the  history  of  the  futureworld  conception  among  Greeks,  Indians,  and  Persians,  is
 the  way  in  which  the  idea  of  hell,  absent  from  the  oldest
 stratum  of  texts,  gradually  assumes  such  prominence  that  at
 last  it  completely  overshadows  the  idea  of  heaven.  In
@@ -14368,8 +13745,7 @@ Otherworld  conception,  that  in  which  it  is  solely  the  gods'
 land,  is  altogether  unconnected  with  speculation  concerning
 the  fate  of  man  after  he  has  quitted  this  life  ?  That  is  the
 chief  problem  raised  by  the  Irish  texts,  and  upon  its  correct
-solution  depends  in  a  very  large  measure  the  correct  apprecia-
-tion of  the  evolution  of  religion  among  the  Ayran  races.
+solution  depends  in  a  very  large  measure  the  correct  appreciation of  the  evolution  of  religion  among  the  Ayran  races.
 
 Reverting  once  more  to  the  chronological  summary,  we
 note  that  the  rise  of  Buddhism  supplies  the  one  fixed  point
@@ -14394,8 +13770,7 @@ has  been  severally  ascribed  to  India,  to  Babylonia,  and  to
 Egypt.  The  eschatology  of  the  two  latter  countries,  which
 hitherto  I  have  refrained  from  glancing  at,  will  require  the
 most  careful  study,  in  which  some  interesting  examples  of  the
-Elysium  conception  must  be  included.  Only  after  this  ex-
-tended survey,  which  must  bear  at  once  upon  philosophic
+Elysium  conception  must  be  included.  Only  after  this  extended survey,  which  must  bear  at  once  upon  philosophic
 doctrine  and  burial  custom,  shall  we  be  in  a  position  to  form  a
 
 
@@ -14409,8 +13784,7 @@ guise.  In  this  task  the  evidence  both  of  archaeology  and  of
 living  folk-lore,  which  I  have  excluded  from  this  first  section
 of  my  study  devoted  solely  to  the  manifestation  of  certain
 beliefs  and  fancies  in  literature,  will  have  to  be  carefully
-weighed.  I  have  some  hopes  of  bringing  this  task  to  a  con-
-clusion within  another  year.  But  if  the  scanty  leisure  upon
+weighed.  I  have  some  hopes  of  bringing  this  task  to  a  conclusion within  another  year.  But  if  the  scanty  leisure  upon
 which  I  count  is  denied  me,  I  trust  I  have  indicated  the
 main  outlines  of  the  investigation  with  sufficient  clearness  to
 allow  of  its  being  pursued  by  some  other  student.

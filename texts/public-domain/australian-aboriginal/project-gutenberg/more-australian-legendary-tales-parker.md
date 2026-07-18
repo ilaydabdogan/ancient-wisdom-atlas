@@ -1,3 +1,240 @@
+---
+id: australian.more_australian_legendary_tales.parker_archive
+title: More Australian Legendary Tales
+alternate_titles:
+- More Australian Legendary Tales
+text_status: complete
+tradition: australian_aboriginal
+culture: yuwaalaraay_euahlayi_oral_traditions_settler_collection
+region: australia_new_south_wales
+source_language: Yuwaalaraay (Euahlayi) oral tradition mediated through English
+text_language: English
+date_range: living Dreaming oral tradition; recorded 1890s, published 1898
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.cu31924029909086
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1898 David Nutt edition
+    (Cornell University scan)
+  translator: K. Langloh Parker
+  editor: K. Langloh Parker
+  publication_year: 1898
+  publisher: Internet Archive
+  source_url: https://archive.org/details/cu31924029909086
+  access_date: '2026-07-17'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1898, US public domain. Same colonial recording context as Parker's
+    1896 volume - settler-recorded Yuwaalaraay Dreaming narratives from a living restricted-knowledge
+    tradition; handle with provenance framing. OCR text includes library front matter
+    to strip.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- australian_aboriginal
+- dreamtime
+- dreaming
+- yuwaalaraay
+- animal_origin_tales
+- star_lore
+motifs:
+- cosmic_origin
+- animal_helper
+- trickster_boundary
+- shapeshifter
+- seasonal_cycle
+figures:
+- Byamee
+- Wurrunnah
+- Meamei_the_Pleiades
+---
+
+# More Australian Legendary Tales
+
+R€/lUSTR/lLI/iN
+
+
+K-WNGLOH-PflRKeR
+
+
+u«tt!»,J!Ulmimfmam>i!ftm:v'smmiJmM'JiS!a!imB, '  v  ^jw  'mmjjjdwbimiwj
+
+
+mull  mmxmxii^  f  ihatg
+
+BOUGHT  WITH  THE  INCOME
+FROM  THE
+
+SAGE  ENDOWMENT  FUND
+
+THE  GIFT  OF
+
+
+Mitntu  W.  Sage
+
+
+189X
+
+
+A'Jay*
+
+
+'rm,
+
+
+GR365  .P2T2d"ter'"'  """"
+
+"°  miiiMiiiili'?,.,,',M,tlJ!?7  'ales   collect
+
+
+3   1924  029  ■909 ''''086
+
+
+All  books  are  subject  to  recall  after  two  weeks.
+Olin/Kroch  Library
+
+DATE  DUE
+
+ucr
+
+mi.
+
+j^Hwy
+
+GAYLORD
+
+PRINTED  IN  U.S.A.
+
+q  ao   ^i-Jj
+
+
+Date
+
+Due
+
+<,
+
+.
+
+Q
+
+
+^Mfj
+
+
+MORE   AUSTRALIAN
+LEGENDARY    TALES
+
+
+3>h5
+
+hi
+
+
+By  the  same  Author  and  Publisher
+
+Australian   Legendary  Tales
+
+3S.  6d.
+
+SOME  PRESS  NOTICES
+Saturday  Review. — "  Mrs.  Parker  has  added  to
+the  gaiety  of  nations  by  this  collection  of  Antipo-
+dean legends."
+
+Antiquary.  — "  Extremely  interesting  and
+curious."
+
+Church  Re-view. — "To  the  ethnologist  and  folk-
+lorist  this  book  is  of  great  value,  but  its  main  use
+will  probably  be  to  provide  new  and  original  fairy
+tales  for  the  juveniles."
+
+Sydney  Morning  Herald. — "Mrs.  Parker  has
+striven,  and  not  unsuccessfxiUy,  to  do  for  Australian
+folk-lore  what  Longfellow  did  in  '  Hiawatha  '  for
+the  North  American  tribes. "
+
+
+MORE    AUSTRALIAN
+
+Legendary  Tales
+
+
+COLLECTED  FROM  VARIOUS  TRIBES  Br
+
+Mrs.    K.     LANGLOH    PARKER
+
+AUTHOR    OF
+AUSTRALIAN    LEGENDARY    TALES
+
+
+WITH  INTRODUCTION  Br
+
+ANDREW   LANG,  M.A.
+
+
+IVITH  ILLUSTRATION'S  BV  A  NATIVE  ARTIST
+
+
+LONDON
+
+DAVID    NUTT,   270-271,   STRAND
+
+MELBOURNE
+
+MELVILLE,    MULLEN   &   SLADE
+
+1898
+
+
+"  And  he  told  me  in  a  vision  of  the  night :
+There  are  nine  and  sixty  -ways  of  constructing  tribal  lays.
+And  every  one  of  them  is  right !'"
+
+
+ALL  RIGHTS   RESERVED
+
+
+DEDICATED
+TO
+
+THE  EUAHLAYI-SPEAKING  PEOPLE
+
+IN   GRATEFUL  RECOGNITION   OF  THEIR
+
+EVER-WILLING  ASSISTANCE   IN
+
+MY  FOLK-LORE  QUEST
+
+
+Cornell  University
+Library
+
+
+The  original  of  this  book  is  in
+the  Cornell  University  Library.
+
+There  are  no  known  copyright  restrictions  in
+the  United  States  on  the  use  of  the  text.
+
+
+http://www.archive.org/details/cu31924029909086
 
 
 Contents
@@ -64,6 +301,13 @@ THE  LEGEND  OF  NAR-OONG-OWIE,  THE  SACRED  ISLAND
 GLOSSARY  .  ■ •    .
 
 
+76
+
+79
+84
+90
+93
+99
 loi
 
 
@@ -111,7 +355,8 @@ Paroo,  Warrego,  Narran,  Culgoa  and  Castlereagh  rivers ;
 the  Braidwood,  Yass,  Narrabri,  and  other  districts  of  New
 South  Wales  ;  to  the  Balonne,  Maranoa,  Condamine,  Barcoo,
 Mulligan  rivers,  and  the  Gulf  country  in  Queensland.  But
-I  have  confined  myself  as  far  as  possible  to  the  Noongahburrah  names,  thinking  it  would  create  confusion  if  I  used
+I  have  confined  myself  as  far  as  possible  to  the  Noongah-
+burrah  names,  thinking  it  would  create  confusion  if  I  used
 those  of  each  dialect — several  different  names,  for  example,
 for  one  bird  or  beast.  To  such  as  were  told  in  song  I
 have  tried  to  retain  something  of  the  rhythmical  rendering.
@@ -138,7 +383,8 @@ Preface
 XI
 
 
-lore  were  revealed  to  me  of  which,  but  for  this  daily  intercourse, I  should  probably  never  have  heard.  For  instance,
+lore  were  revealed  to  me  of  which,  but  for  this  daily  inter-
+course, I  should  probably  never  have  heard.  For  instance,
 a  young  Bootha  brought  in  the  lamp  one  evening ;  seeing
 some  big  grey  moths  fluttering  round  it  she  said :  "  No
 good,  Comebeegeeboon  darngliealdah,  no  tomahawks  here  ;
@@ -168,7 +414,8 @@ the  Blacks,  I  hear  many  httle  scraps.  Quite  lately,  while
 going  along  the  edge  of  one  of  the  plains  we  put  up  some
 spur-winged  plover,  who  went  off  harshly  screeching.  I
 asked  why  the  bird  had  that  strange  spur.  Because,
-they  said,  a  long  time  ago,  a  black  fellow  called  Bahldurrahdurrah,  as  the  plovers  are  now,  had  been  noted  for
+they  said,  a  long  time  ago,  a  black  fellow  called  Bahl-
+durrahdurrah,  as  the  plovers  are  now,  had  been  noted  for
 
 
 xii  Preface
@@ -196,13 +443,15 @@ they  say.
 When  they  see  a  tree  that  usually  grows  on  the  plains
 on  the  ridges,  or  vice  versa,  they  sa}' :  "  There  are  two
 who  have  married  wrongly ;  that  Coolabah  must  have  run
-away  from  her  tribe  with  a  Bibbil.  And  now  the  wirreenuns,  or  wizards,  have  turned  them  into  trees."
+away  from  her  tribe  with  a  Bibbil.  And  now  the  wirree-
+nuns,  or  wizards,  have  turned  them  into  trees."
 
 I  often  come  in  contact  with  instances  of  their  deeply
 ingrained  superstitions.  One  morning  a  very  fine  healthy
 specimen  of  a  young  native  woman  was  scrubbing  the
 verandahs.  As  I  passed  her,  she  said,  "  I  might  die  soon,
-Innerah."  (They  call  me  Innerah  in  the  sense  of  bosswoman.)  On  inquiry  I  found  some  young  man  whom  she
+Innerah."  (They  call  me  Innerah  in  the  sense  of  boss-
+woman.)  On  inquiry  I  found  some  young  man  whom  she
 had  declined  to  marry  had  stolen  a  lock  of  her  hair,  and
 was  now  making  his  way  with   it  to  the  wirreenuns  of  the
 
@@ -363,18 +612,23 @@ Mrs.  Langloh  Parker  has  requested  me  to  write  a  little
 tales.  "  Good  wine,"  like  these  stories,  "  needs  no  bushy"
 and  Mrs.  Parker's  intimate  knowledge  of  the  bush  and  its
 wild  native  lords  cannot  be  improved  by  any  merely
-literary  information.  Yet  one  would  not  willingly  disoblige a  lady  to  whom  children  owe  so  much  for  her
+literary  information.  Yet  one  would  not  willingly  dis-
+oblige a  lady  to  whom  children  owe  so  much  for  her
 legends,  and  who  has  so  remarkably  vindicated  the
-thoroughly '  human  and  amiable  character  of  an  unfortunate people.
+thoroughly '  human  and  amiable  character  of  an  unfortu-
+nate people.
 
 These  dark  backward  friends  of  hers,  "  the  blacks,"  are,
 we  find,  "  very  much  like  you  and  me,"  as  Mr.  Kipling  says,
-or  rather  they  are  our  superiors  in  poetical  fancy.  Without our  savage  ancestors  we  should  certainly  have  had  no
+or  rather  they  are  our  superiors  in  poetical  fancy.  With-
+out our  savage  ancestors  we  should  certainly  have  had  no
 poetry.  Conceive  the  human  race  born  into  the  world  in
-its  present  advanced  condition,  weighing,  analysing,  examining everything,  except  a  few  phenomena  which  happen
+its  present  advanced  condition,  weighing,  analysing,  ex-
+amining everything,  except  a  few  phenomena  which  happen
 not  to  chime  in  with  the  general  ideas  of  science.  Such  a
 race  would  have  been  destitute  of  poetry  and  flattened  by
-common  sense.  The  world  would  never  have  been  "dispeopled of  its  dreams,"  because  there  would  have  been  no
+common  sense.  The  world  would  never  have  been  "dis-
+peopled of  its  dreams,"  because  there  would  have  been  no
 
 
 n^
@@ -384,7 +638,8 @@ xviii  Introduction
 
 dreamers.  Barbarians  did  the  dreaming  for  the  world,
 poetry  arose  in  their  fancies,  and  poetry,  in  spite  of
-facts  and  science,  resolutely  refuses  to  "  follow  darkness like  a  dream."  Mrs.  Parker's  collection  demonstrates
+facts  and  science,  resolutely  refuses  to  "  follow  dark-
+ness like  a  dream."  Mrs.  Parker's  collection  demonstrates
 that,  among  the  world's  dreamers,  the  Australians,  just
 escaping  from  the  Palaeolithic  age,  were  among  the  most
 distinguished.
@@ -397,7 +652,8 @@ works  her  marvels  in  open  day.  We  have  had  no  account
 of  an  Australian,  though  we  have  several  accounts  of  Maori,
 Guiana  and  Red  Indian  seances.  One  hopes  that  Mrs.
 Parker  will  fill  up  the  lacuna  with  a  detailed  report  of  her
-own  observations,  to  which  she  briefly  refers.  Anthropology has  no  reason  for  neglecting  these  affairs  any  more
+own  observations,  to  which  she  briefly  refers.  Anthro-
+pology has  no  reason  for  neglecting  these  affairs  any  more
 than  the  countless  other  things  in  which  savage  practice
 tallies  with  the  mysticisms  of  civilisation.
 
@@ -416,7 +672,8 @@ Introduction  xix
 
 These  are  interesting  traits  for  the  student  of  animism,
 as  when  Piggiebillah  sleeps  on  his  face  that  his  doowee,
-or  dream  spirit,  may  not  -leave  him  as  he  slumbers.  Wurrunnah  is  eager  to  know  "where  Byamee  (Baiame)  is,"
+or  dream  spirit,  may  not  -leave  him  as  he  slumbers.  Wur-
+runnah  is  eager  to  know  "where  Byamee  (Baiame)  is,"
 the  Good  Being  who  made  and  instructed  mankind  ;  who  has
 withdrawn  to  heaven  which  is  His  home,  leaving  laws  not  to
 be  broken.  We  see  the  black  seeking  after  God,  if  perhaps
@@ -529,7 +786,8 @@ and  humorous,  telling  stories  for  pleasure  about  Byamee  or
 Durumulun,  whom  he  now  envisages,  not  as  Father  and
 Judge,  but  very  much  as  a  black  fellow  like  himself.
 Grant  such  a  black  fellow  unlimited  power,  and  he  will
-frolic  as  in  the  Australian  and  other  mythologies.  Consider him  as  the  maker  and  lawgiver,  the  all-seeing  witness
+frolic  as  in  the  Australian  and  other  mythologies.  Con-
+sider him  as  the  maker  and  lawgiver,  the  all-seeing  witness
 and  rewarder  of  conduct,  and  Byamee  or  Durumulun  is  no
 longer  the  wanton,  gigantic  wirreenun;  rather  is  he  God.  I
 am  unable  to  see  any  inconsistency  between  my  notion  of  a
@@ -589,6 +847,8 @@ The    crow    was   determined  to   pay  out   the   crane    for
 having  given  him  white  eyes  and  a  black  skin.
 
 
+2  More  Australian  Tales
+
 So  he  watched  his  chance,  and  one  day  when  he  saw
 the  crane  fast  asleep,  he  crept  quietly  up  to  him  holding  a
 fish-bone.  This  he  stuck  right  across  the  root  of  the
@@ -635,6 +895,8 @@ goombeelgah,  or  canoe,  then  shall  we  be  safe  from  pursuit,
 for  he  will  put  us  over  the  river.     And  we  can  travel  on
 
 
+4  More  Australian  Tales
+
 and  on  even  to  the  country  of  the  short-armed  people  if  so
 we  choose."
 
@@ -661,7 +923,8 @@ none  in  their  haste.
 "  Why  did  you  not  bring  some  ?  "  said  Weedah.
 
 "We  thought  you  had  plenty,  or  would  travel  as  the
-creeks  run,  or  at  least  know  of  a  goolahgool,  or  waterholding  tree."
+creeks  run,  or  at  least  know  of  a  goolahgool,  or  water-
+holding  tree."
 
 "  We  shall  soon  reach  water.  Look  even  now  ahead,
 there  is  water."
@@ -686,7 +949,8 @@ to  another  plain.
 "  There  it  is  !     I  told  you  so  !     There  is  the  water."
 And  looking  ahead  they  again  saw  a  sheet  of  water.
 Again  their  hopes  were  raised,  and  though  the  sun  beat
-fiercely   on  them   they   marched,   only   to   be   again    disappointed.
+fiercely   on  them   they   marched,   only   to   be   again    disap-
+pointed.
 
 "Let  us  go  back,"  they  said.  "This  is  the  country  of
 evil  spirits.  We  see  water,  and  when  we  come  where  we
@@ -717,6 +981,8 @@ up  the  roots  from  some  water-trees  and  drain  the  water
 from  these  for  them.
 
 
+6  More  Australian  Tales
+
 "Yonder  I  see  a  coolabah  ;  from  its  roots  I  can  drain
 enough  to  quench  your  thirst.  Or  here  beside  us  is  a
 bingahwingul;  full  of  water  are  its  roots.  Let  me  go;  I
@@ -746,7 +1012,8 @@ beating  their  knees,  sang  :
 Eehu,  Eehu,  Doongairah."
 
 Over  and  over  again  they  sang  these  words  as  they  had
-heard  their  Bargie,  or  grandmother,  do.  Then  for  themselves they  added  :
+heard  their  Bargie,  or  grandmother,  do.  Then  for  them-
+selves they  added  :
 
 "  Eehu  oonah  wambaneah  Dooloomai
 Bullul  goonung  inderh  gingnee
@@ -776,7 +1043,8 @@ its  coming.  It  stopped  right  over  the  plain  in  front  of  the
 Bullai  BuUai.  One  more  peal  of  thunder,  which  opened
 the  cloud,  then  splashing  down  came  the  first  big  drops  of
 rain.  Slowly  and  few  they  came  until  just  at  the  last,
-when  a  quick,  heavy  shower  fell,  emptying  the  thundercloud, and  filling  the  gilguy  holes  on  the  plain.
+when  a  quick,  heavy  shower  fell,  emptying  the  thunder-
+cloud, and  filling  the  gilguy  holes  on  the  plain.
 
 The  cool  splashing  of  the  rain  on  their  hot,  tired  limbs
 gave  new  life  to  the  Bullai  Bullai  and  Weedah.  They  all
@@ -798,6 +1066,8 @@ The  next  morning  on  they  went  again.  That  day  they
 again  saw  across  the  plains  the  same  strange  semblance
 of  water  which  had   lured  them  on  before.     They  knew
 
+
+8  More  Australian  Tales
 
 not  what   it  could   be,  only   they  knew   that  it   was   not
 water.
@@ -861,7 +1131,8 @@ in  and  out  of  them  as  if  he  were  playing  a  game,  not
 thinking  of  them  at  all.  Strange  nyunnoos  they  were  too
 having  both  ends  open.
 
-Seeing  where  they  were  looking,  Beereeun  said  :  "  Weedah is  womba,  deaf.  I  stole  his  doowee  while  he  slept  and
+Seeing  where  they  were  looking,  Beereeun  said  :  "  Wee-
+dah is  womba,  deaf.  I  stole  his  doowee  while  he  slept  and
 put  in  its  place  a  mad  spirit.  He  knows  naught  of  you
 now.  He  cares  naught  for  you.  It  is  so  with  those  who
 look  too  long  at  the  Eer-dheer,  or  mirage.  He  will  trouble
@@ -872,7 +1143,8 @@ Weedah,  so  strangely  he  went  on,  unceasingly  running  in
 at  one  end  of  the  grass  nyunnoos,  through  it  and  out  of  the
 other.
 
-"  He  is  womba,"  they  said,  but  yet  they  could  not  understand it.  They  looked  towards  him  and  called  to  him,  though
+"  He  is  womba,"  they  said,  but  yet  they  could  not  under-
+stand it.  They  looked  towards  him  and  called  to  him,  though
 he  heeded  them  not.
 
 "  I  will  send  him  far  from  you,"  said  Beereeun  getting
@@ -966,6 +1238,8 @@ before  it,  until  he  could  touch  the  lowest  from  the  earth.
 This  he  clutched  hold  of,  and  climbed  up,  up,  up,  until   he
 
 
+12  More  Australian  Tales
+
 reached  the  sky.  Then  he  started  in  pursuit  of  the  Bullai
 Bullai,  and  he  is  still  pursuing  them.
 
@@ -1029,6 +1303,8 @@ away  to  another  country.  Let  me  see  where  to  walk.  My
 feet  are  very  sore.      If  you  could  hunt  the  dark  away,  then
 
 
+14  More  Australian  Tales
+
 you  would  be  a  great  wirreenun.  Oh  my  poor  sore  feet !"
 So  crying  she  rubbed  them  against  each  other,  which  only
 made  the  bindeahs  stick  further  in,  raising  rough  lumps  on
@@ -1089,6 +1365,8 @@ the  hollow  log,  driving  the  fish  ahead  of  him.  Directly
 he  was  under  the  opening  Durroon  would  drive  his
 spear  swiftly  into   him,   killing   him   on    the    spot.      Then
 
+
+1 6  More  Australian  Tales
 
 Durroon   would    drag   his   victim   out,    and,  dismembering
 him,  cook  him.
@@ -1195,7 +1473,8 @@ warmth.
 Twice  a  year  the  winds  all  met,  holding  great  corroborees
 and  wild  revellings.  Dourandowran  came  with  his  scorching
 breath  from  Gurburreh,  the  north,  to  meet  his  loved
-Gunyahmoo,  the  south-east  wind  which  came  from  Bullimedeehmundi,  to  fan  him  with  her  softer,  cooler  breezes
+Gunyahmoo,  the  south-east  wind  which  came  from  Bullime-
+deehmundi,  to  fan  him  with  her  softer,  cooler  breezes
 until  his  heat  lessened,  and  he  scorched  those  in  his  path
 no  longer.  Then  from  Nurroobooan,  the  south,  blew
 Nooroonooroobin  to  meet  Mundehwuddah,  the  north-west
@@ -1243,6 +1522,8 @@ better  mullayerh."
 
 Mayrah  the  wind  went  off,  and  when  evening  was  at
 
+
+20  More  Australian  Tales
 
 hand  he  was  not  yet  back.  Suddenly  Bilber  heard  a
 roaring  in  the  distance  such  as  he  had  never  heard  before.
@@ -1306,12 +1587,16 @@ The    fame    of   her    dancing  spread   abroad,    and  proud
 indeed  was  the  tribe  to  whom  she  belonged,  hence  their
 
 
-anxiety  for  her  safety,  and  their  dread  that  the  Wurrawilberoo  would  catch  her.
+2  2  More  Australian  Tales
+
+anxiety  for  her  safety,  and  their  dread  that  the  Wurra-
+wilberoo  would  catch  her.
 
 The  Wurrawilberoo  were  two  cannibals  who  lived  in  the
 scrub  alone.
 
-But  in  spite  of  all  warnings  Bralgah  Numbardee  continued to  hunt  as  usual  with  only  her  daughter  for  com-
+But  in  spite  of  all  warnings  Bralgah  Numbardee  con-
+tinued to  hunt  as  usual  with  only  her  daughter  for  com-
 panion.
 
 One  day  they  went  out  to  camp  for  two  or  three  days.
@@ -1331,7 +1616,8 @@ she  threw  the  knife  away.
 As  soon  as  they  reached  the  camp  the  Wurrawilberoo
 asked  her  for  it.  They  wanted  to  cut  up  Bralgah  Numbardee
 before  cooking  her.  Bralgah  said  she  put  the  muggil  down
-where  they  had  rested,  some  way  back,  and  had  forgotten it.
+where  they  had  rested,  some  way  back,  and  had  for-
+gotten it.
 
 They  said :  "  We  will  go  back  and  get  it.  You  stay
 here."
@@ -1368,13 +1654,15 @@ after  them  in  quick  pursuit,  but  they  failed  to  overtake
 them  ;  and,  fearing  to  follow  them  too  far  lest  a  trap  lay
 ready  for  them,  they  returned  to  the  camp.  But  so  wroth
 were  they  at  the  attempt  to  capture  their  prized  Bralgah
-that  a  council  was  held,  and  the  destruction  of  the  Wurrawilberoo determined  upon.  Two  of  the  cleverest  wirreenuns
+that  a  council  was  held,  and  the  destruction  of  the  Wurra-
+wilberoo determined  upon.  Two  of  the  cleverest  wirreenuns
 said  they  would  send  their  Mullee  MuUees  in  whirlwinds
 after  the  enemy  to  catch  them.
 
 This  they  did.  Whirling  along  went  the  boolees  with
 the  Mullee  Mullees  in  them.  Quickly  they  went  along  the
-track  of  the  Wurrawilberoo,  whom  they  soon  headed,  turning them  back  towards  the  camp  whence  they  had  fled.
+track  of  the  Wurrawilberoo,  whom  they  soon  headed,  turn-
+ing them  back  towards  the  camp  whence  they  had  fled.
 
 "  We  will  go,"  said  one  of  the  Wurrawilberoo  to  the
 other,  "  back  to  the  camp,  ahead  of  these  whirlwinds.  We
@@ -1383,13 +1671,16 @@ direction.  The  whirlwinds  will  miss  us  in  the  camp  and
 seize   others.     We  will   not  be   baulked.     Young  Bralgah
 
 
+24  More  Australian  Tales
+
 shall  be  ours  to  dance  before  us,  and  her  mother  shall
 make  our  supper  to-night."
 
 On,  on  they  fled  before  the  whirlwinds,  which  gained
 both  size  and  pace  as  they  followed  them.
 
-The  Daens  were  so  astonished  at  seeing  the  Wurrawilberoo  returning  straight  towards  them,  the  whirlwinds  after
+The  Daens  were  so  astonished  at  seeing  the  Wurrawil-
+beroo  returning  straight  towards  them,  the  whirlwinds  after
 them,  that  they  never  thought  of  arming  themselves.  Into
 the  midst  of  them  rushed  the  Wurrawilberoo.  One  seized
 Bralgah  the  mother,  the  other  young  Bralgah,  and  before
@@ -1438,7 +1729,8 @@ and  dragged  them  from  the  roots  before  the  men  could
 leave  go.  Up,  up  the  whirlwinds  carried  the  trees,  the
 men  still  clinging  to  them,  until  they  reached  the  sky ;
 there  they  planted  them  not  far  from  the  Milky  Way.
-And  there  they  are  still,  two  dark  spots,  called  Wurrawilberoo, for  the  two  cannibals  have  lived  in  them  ever
+And  there  they  are  still,  two  dark  spots,  called  Wurra-
+wilberoo, for  the  two  cannibals  have  lived  in  them  ever
 since,  being  dreaded  by  all  who  have  to  pass  along  the
 Warrambool,  or  Milky  Way.  Where  are  camped  many  old
 Daens,  cooking  the  grubs  they  have  gathered  for  food,
@@ -1459,6 +1751,8 @@ across  it.  They  went  to  the  place  whence  the  trees  had
 been  wrenched.  They  scanned  the  ground  for  tracks,  but
 saw  none  of  Bralgah  going  away.     Only  those  of  the  big
 
+
+26  More    Australian  Tales
 
 crane-like  bird  now  on  the  plain.  Wurrawilberoo  must
 have  seized  her  again  and  taken  her  after  all,  they  said.
@@ -1524,12 +1818,14 @@ sky,  there  to  live  for  ever  with  her  daughter  Bralgah,  both
 known  to  us  as  the  Clouds  of  Magellan,  to  the  Daens  as
 the  Bralgah.
 
-There  Bralgah  Numbardee  learned  that  the  Wurrawilberoo  by  his  incantation  had  changed  her  daughter  into  the
+There  Bralgah  Numbardee  learned  that  the  Wurrawil-
+beroo  by  his  incantation  had  changed  her  daughter  into  the
 dancing  bird,  which  shape  she  had  to  keep  as  long  as  she
 lived  on  earth.
 
 Afterwards,  if  ever  the  Daens  saw  a  boolee  speeding
-along  near  their  camp  the  women  would  cry,  "  Wurrawilberoo,"  clutch  their  children  and  bury  their  heads  in  their
+along  near  their  camp  the  women  would  cry,  "  Wurrawil-
+beroo,"  clutch  their  children  and  bury  their  heads  in  their
 rugs ;  the  men  would  seize  their  weapons  and  hurl  them  at
 the  ever-feared  and  hated  capturers  of  Bralgah.
 
@@ -1548,7 +1844,8 @@ rage,  rushed  to  the  nest  of  Dinewan,  seized  from  it  one  of
 the  huge  eggs  in  it,  which  she  threw  with  all  her  force  up
 to  the  sky.  There  it  broke  on  a  heap  of  firewood,  which
 burst  into  a  flame  as  the  yellow  yolk  spilt  all  over  it,  which
-flame  lit  up  the  world  below,  to  the  astonishment  of  everything on  it.  They  had  only  been  used  to  the  semi-darkness,
+flame  lit  up  the  world  below,  to  the  astonishment  of  every-
+thing on  it.  They  had  only  been  used  to  the  semi-darkness,
 and  were  dazzled  by  such  brightness.
 
 A  good  spirit  who  lived  in  the  sky  saw  how  bright  and
@@ -1569,7 +1866,8 @@ of  the  sun  and  waken  the  sleepers.  But  they  could  not
 decide  upon  to  whom  should  be  given  this  office  for  a  long
 time.
 
-At  last  one  evening  they  heard  the  laughter  of  Gougourgahgah,  the  laughing  jackass,  ringing  through  the  air.
+At  last  one  evening  they  heard  the  laughter  of  Gougour-
+gahgah,  the  laughing  jackass,  ringing  through  the  air.
 "  That  is  the  noise  we  want,"  they  said.  Then  they  told
 Gougourgahgah  that  as  the  morning  star  faded  and  the  day
 dawned  he  was  every  morning  to  laugh  his  loudest,  that
@@ -1581,7 +1879,8 @@ again.
 But  Gougourgahgah  saved  the  light  for  the  world,  and
 agreed  to  laugh  his  loudest  at  every  dawn  of  day,  which  he
 has  done  ever  since,  making  the  air  ring  with  his  loud
-cackling  "  gou-gour-gah-gah,  gou-gour-gah-gah,  gou-gourgah-gah."
+cackling  "  gou-gour-gah-gah,  gou-gour-gah-gah,  gou-gour-
+gah-gah."
 
 When  the  spirits  first  light  the  fire  it  does  not  throw
 out  much  heat.  But  in  the  middle  of  the  day  when  the
@@ -1596,6 +1895,8 @@ Gougourgahgah,  lest  he  should  hear  them  and  cease  his
 morning  cry.  If  children  do  laugh  as  he  does,  an  extra
 tooth  grows  above  their   eye-tooth,   so  that  they  carry  a
 
+
+30  More  Australian  Tales
 
 mark  of  their  mockery  in  punishment  for  it,  for  well  do  the
 good  spirits  know  that  if  ever  a  time  comes  wherein  the
@@ -1631,6 +1932,8 @@ they  saw  the  camp  fires;  then  they  sent  their  messengers
 to  the  tribe,  whose  elders  received   them   and   listened  to
 
 
+32  More  Australian  Tales
+
 their  request  that  Wimbakobolo  and  Purleemil  should  be
 given  up.
 
@@ -1653,7 +1956,8 @@ has  been  mine  ever.  Can  a  maid  at  the  bidding  of  the
 greybeards  turn  Her  heart  to  a  wife-slayer,  leaving  the  one
 she  loves,  turning  from  one  who  is  young,  strong,  and
 straight,  to  a  bowed  cripple  ?  Remember  my  father  before
-you  despise  the  help  of  his  son  before  you,  and  his  grandsons to  come.  We  shall  never  go  back  to  the  tribe  of
+you  despise  the  help  of  his  son  before  you,  and  his  grand-
+sons to  come.  We  shall  never  go  back  to  the  tribe  of
 Tirlta,  rather  will  I  spear  Purleemil,  my  heart's  beloved,  as
 she  stands  before  you,  and  mingle  my  blood  with  hers."
 
@@ -1667,6 +1971,9 @@ Wimbakobolo,  men  like  mountains  as  their  name  tells."
 
 
 Sturt's  Desert  Pea
+
+
+33
 
 
 Then  an  elder  turned  to  the  messengers  saying :  "  Let
@@ -1691,11 +1998,14 @@ After  a  while  when  the  cold  winds  began  to  blow  round
 c
 
 
+34  More  Australian  Tales
+
 the  Boulka,  the  tribe  moved  their  camp  to  where,  on  the  far
 side  were  more  trees  for  shelter  and  firewood,  for  the
 winter  was  at  hand.
 
-Before  the  winter  had  gone  a  son  was  born  to  Wimbakobolo  and  Purleemil,  and  seeing  what  a  big  baby  he  was,
+Before  the  winter  had  gone  a  son  was  born  to  Wimba-
+kobolo  and  Purleemil,  and  seeing  what  a  big  baby  he  was,
 the  tribe  laughingly  called  him  "The  Little  Chief,"  and
 brought  him  offerings  of  toy  boomerangs,  throwing  sticks
 and  such  things  until  the  eyes  of  his  mother  shone  with
@@ -1714,7 +2024,8 @@ proud  a  look  on  his  face  as  he  glanced,  from  his  carving
 of  weapons  with  an  opossum's  tooth,  from  time  to  time  at
 his  wife  and  child,  that  all  would  smile  to  see  his  happy
 pride,  and  their  hearts  were  glad  that  the  elders  had  not
-given  up  Purleemil  to  be  the  bride  of  Tirlta,  the  wifeslayer.
+given  up  Purleemil  to  be  the  bride  of  Tirlta,  the  wife-
+slayer.
 
 The  winter  passed  away,  and  with  the  coming  of  the
 summer  all  made  ready  to  return  to  their  hunting  ground
@@ -1745,7 +2056,8 @@ should  live  for  ever  on  the  plains,  then  why  should  you  fear
 for  him,  my  loved  one  ?  "
 
 "I  cannot  tell.  Truly  the  spirits  said  so,  and  yet  they  say
-now,  as  their  voices  come  to  me  on  every  breeze,  that  misfortune is  at  hand."
+now,  as  their  voices  come  to  me  on  every  breeze,  that  mis-
+fortune is  at  hand."
 
 "But  not  for  the  Little  Chief,  Purleemil.  For  the
 tribe,  maybe,  who  sheltered  us,  then  how  could  we  leave
@@ -1767,6 +2079,8 @@ by  treachery  all  who  had  baulked  him  of  his  prey  Purleemil,
 she  should  be  slain  with  the  rest,  men,  women  and  children,
 all  were  to  be  sacrificed  to  his  hate.      He  had  laid  his  plans
 
+
+36  More  Australian  Tales
 
 well,  waiting  until  all  fear  of  vengeance  was  over  and  all
 vigilance  relaxed.
@@ -1846,6 +2160,8 @@ set  foot  on  the  spot  made  sacred  for  ever  by  the  blood  that
 you  spilt,   the  blood    of  the  Little  Chief,  his  mother  and
 
 
+38  More  Australian  Tales
+
 father,  which  flowed  in  one  stream  and  blossomed  as  you
 see  it  now,  for  no  man  can  kill  blood,  for  more  than  the  life
 of  the  flesh  is  in  blood.  Their  blood  shall  live  for  ever,
@@ -1896,6 +2212,8 @@ Raising  their  spears,  with  one  accord  they  threw  them
 at  him,  until  his  back  was  one  mass  of  them  sticking  up  all
 over  it.     Then  the  Daens  rushed  in,  and  broke  his  arms
 
+
+40  More  Australian  Tales
 
 and  legs,  with  their  boondees  and  woggarahs,  crippling  him
 indeed.  As  he  made  neither  sound  nor  movement,  they
@@ -1956,6 +2274,8 @@ me."
 even  if  they  do  come,  let  them.  I  am  ready."  And  again
 he  showed  his  spear.
 
+
+42  More  Australian  Tales
 
 The  duck  stayed.  She  was  frightened  to  go  while  the
 rat  watched  her.  She  pretended  that  she  liked  her  new
@@ -2035,6 +2355,8 @@ They  do  not  belong  to  our  tribe.  Take  them  away.  They
 have  no  right  here."
 
 
+44  More  Australian  Tales
+
 And  such  a  row  they  made  that  the  poor  little  mother
 duck  went  off  with  her  two  little  despised  children,  of
 whom  she  had  been  so  proud,  despite  their  peculiarities.
@@ -2043,7 +2365,8 @@ creek,  Biggoon  might  catch  her  again,  and  make  her
 live  in  the  burrow,  or  kill  her  children  because  they  had
 webbed  feet,  a  duck's  bill,  and  had  been  hatched  out  of  eggs.
 He  would  say  they  did  not  belong  to  his  tribe.  No  one
-would  own  them.  There  would  never  be  any  one  but  herself to  care  for  them  ;  the  sooner  she  took  them  right  away
+would  own  them.  There  would  never  be  any  one  but  her-
+self to  care  for  them  ;  the  sooner  she  took  them  right  away
 the  better.
 
 So  thinking,  away  up  stream  she  went  until  she  reached
@@ -2093,10 +2416,13 @@ Not  knowing  that  he  had  thrown  a  Mungghee  mother
 into  the  creek,  Wahn  determined  to  pursue  Mungghee  wurray-
 
 
+46  More  Australian  Tales
+
 wurraymul  and  get  more,  or  find  out  whence  she  had
 brought  the  one  he  had  thought  so  good,  that  he  might  get
 some.  Away  he  flew  in  the  direction  she  had  gone.  He
-overtook  her  some  miles  up  the  creek  beside  a  big  waterhole.  Before  she  saw  him  coming  he  had  swooped  down
+overtook  her  some  miles  up  the  creek  beside  a  big  water-
+hole.  Before  she  saw  him  coming  he  had  swooped  down
 upon  her,  crying,  "  Give  me  some  more  of  that  fish  in  two
 shells  you  brought."
 
@@ -2170,13 +2496,16 @@ joined-together  shells  ;  and  so  have  all  mussels  been  ever
 since.      For  though  from  time  to  time,  on  the  rare  visits  of
 
 
+48  More  Australian  Tales
+
 the    sea-gulls    to    the   Back   Creeks,  fresh    Mungghee  are
 brought,  yet  these  too  soon  do  as  the  others.
 
 The  Daens  cook  mussels  in  the  hot  ashes  of  their  fires,
 and  eat  them  with  relish,  saying,  "  If  it  had  not  been  for
 Wahn  we  should  not  have  had  this  good  food,  for  he  it  was
-who  caused  it  to  be  given  to  us  by  Mungghee  wurraywurraymul,  the  mussel-bringer."
+who  caused  it  to  be  given  to  us  by  Mungghee  wurray-
+wurraymul,  the  mussel-bringer."
 
 
 Wurrunnah's  Trip  to  the   Sea
@@ -2207,6 +2536,8 @@ where  Byamee  was.      For  answer  the  Earmoonan  made  the
 *  See  "Australian  Legendary  Tales,"  p.  41,  "  Meamei  the  Seven  Sisters."
 t  Ibid.,  p.  104,  "  The  Borah  of  Byamee."
 
+
+50  More  Australian  Tales
 
 spluttering,  whizzing  noise  witii  his  lips  Wurrunnah  had
 already  heard.
@@ -2290,11 +2621,14 @@ rushing  in  again  higher  next  time,  he  said:  "There  must
 be  Wundah — devils — in  it,  and  they  are  trying  to  get  me.
 
 
+52  More  Australian  Tales
+
 I  will  go  up  that  high  mountain  ;  there  shall  I  see  better."
 But  in  vain  he  climbed  the  mountain  ;  he  saw  only  the
 strange  water,  as  far  as  he  could  see,  water,  only  water.
 
-Down  the  mountain  he  went  again,  back  to  the  waterholes,  where  were  hanging  the  opossum  skins  to  dry.
+Down  the  mountain  he  went  again,  back  to  the  water-
+holes,  where  were  hanging  the  opossum  skins  to  dry.
 These  he  quickly  made  into  water-bags.  He  waited  until
 he  saw  the  strange  water  still  as  when  he  first  saw  it,  then
 he  went  to  it  and  filled  the  bags  with  it.  He  then  picked
@@ -2303,7 +2637,8 @@ straight  back  to  his  tribe  and  tell  them  what  he  had  seen,
 taking  with  him  the  bags  of  water  that  they  might  taste  it
 and  know  his  story  was  true.
 
-On  his  return  journey  he  met  a  very  old  Daen.  Wurrunnah  thought  he  might  know  something  of  this  strange
+On  his  return  journey  he  met  a  very  old  Daen.  Wur-
+runnah  thought  he  might  know  something  of  this  strange
 water,  and  its  booming  voices.  The  old  wirreenun  listened
 to  all  Wurrunnah  told  him.  He  tasted  the  water,  spat  it
 out  again,  sat  silent  for  some  time,  then  he  said  :  "  Surely
@@ -2365,6 +2700,8 @@ From  generation  to  generation  was  told  the  story  of
 Wurrunnah's  journey  and  the  strange  water  he  had  seen,
 
 
+54-  More  Australian  Tales
+
 and  at   the   big   corroborees  were  seen  the  shells  he  had
 
 brought.
@@ -2416,7 +2753,8 @@ When  the  children  saw  him  thus  helping  himself,  they
 called  out :   "  Don't  touch  our  mother's  things  !  "
 
 He  did  not  heed  them,  but  took  what  he  wanted.  The
-children  used  to  try  and  get  what  he  took  back.  But  whenthey  came  near  to  him  he  shot  up  suddenly  taller  and  taller,
+children  used  to  try  and  get  what  he  took  back.  But  when-
+they  came  near  to  him  he  shot  up  suddenly  taller  and  taller,
 far  out  of  their  reach.  Having  thus  startled  them  into
 leaving  him  alone,  he  would  escape  to  his  own  camp,  the
 whereabouts  of  which  no  one  knew.  At  last  the  parents
@@ -2428,6 +2766,8 @@ eat  all  our  food."
 comes  while  you  are  away.  He  comes  along  that  track  in
 the  scrub."
 
+
+56  More  Australian  Tales
 
 The  parents  said  :  "  To-morrow  we  will  wait  for  him,
 and  see  if  you  are  telhng  the  truth,  for  it  would  be  a  strange
@@ -2460,7 +2800,8 @@ our  enemy,  stealing  our  food.  No  need  to  bury  him.  We
 will  only  cover  him  with  bark  and  change  our  camp."
 
 This  they  did,  and  long  afterwards  they  saw  creep  from
-under  the  bark  a  little  lizard.  And  they  called  it  Walloobahl, because  they  said  it  must  be  the  spirit  of  the  boy  they
+under  the  bark  a  little  lizard.  And  they  called  it  Walloo-
+bahl, because  they  said  it  must  be  the  spirit  of  the  boy  they
 had  killed.  And  ever  since  then  the  little  bark  hzard  has
 been  called  Walloobahl.
 
@@ -2495,7 +2836,10 @@ tell  you.      Get  the  sticks."
 Frightened  to  ask  more  the  children  went  to  break  the'
 
 
-sticks  which  Goolayyahlee  said  must  be  of  Eurah,  a  drooping shrub  growing  on  the  banks  of  the  creeks,  or  near
+58  More  Australian  Tales
+
+sticks  which  Goolayyahlee  said  must  be  of  Eurah,  a  droop-
+ing shrub  growing  on  the  banks  of  the  creeks,  or  near
 swamp  oak-scrub.  This  shrub  bore  masses  of  large  cream
 bell-shaped  flowers,  spotted  with  brown,  beautiful  to  look
 at,  but  sickening  to  smell :  where  no  dheal  grew  this  shrub
@@ -2542,7 +2886,8 @@ father,  who  gave  another  convulsive  movement  and  then,  to
 their  amazement,  out  through  his  mouth  he  brought  forth
 the  fishing  net.
 
-So  that  was  where  he  kept  it,  inside  himself.  The  children watched  him  drawing  it  out,  until  it  all  lay  in  a  heap
+So  that  was  where  he  kept  it,  inside  himself.  The  chil-
+dren watched  him  drawing  it  out,  until  it  all  lay  in  a  heap
 in  front  of  him,  then  down  he  sat  beside  it,  apparently  none
 the  worse,  to  await  their  return.
 
@@ -2550,8 +2895,10 @@ The  children  who  had  been  hiding  ran  to  meet  the  others,
 whom  they  told  what  they  had  seen.  They  were  so  excited
 at  their  discovery  that  they  talked  much  about  it,  and  soon
 the  secret  hiding-place  of  the  net  was  a  secret  no  longer,
-but  as  yet  no  one  knew  how  it  was  made.  At  last  Goolayyahlee  grew  tired  of  having  to  produce  his  net  so  often,  for
-the  fame  of  this  new  method  of  fishing  had  spread  throughout the  country ;  even  strange  tribes  came  to  see  the
+but  as  yet  no  one  knew  how  it  was  made.  At  last  Goolay-
+yahlee  grew  tired  of  having  to  produce  his  net  so  often,  for
+the  fame  of  this  new  method  of  fishing  had  spread  through-
+out the  country ;  even  strange  tribes  came  to  see  the
 wonderful  net.  He  told  the  people  to  do  as  he  had  done,
 and  make  nets  for  themselves.  Then  he  told  them  how  to
 do  it.  They  were  to  strip  off  mooroomin,  or  Noongah  bark,
@@ -2609,15 +2956,19 @@ feared  the  race  would  soon  be  exterminated  if  something
 were  not  done  to  stop  it.
 
 
+62  More  Australian  Tales
+
 "And,"  said  Bohrah  the  kangaroo,  "though  some  of  us
-are  as  big  and  bigger,  as  strong  and  stronger  than  Mungoongarlee,  if  we  went  to  fight  him  he  would  kill  us  with
+are  as  big  and  bigger,  as  strong  and  stronger  than  Mun-
+goongarlee,  if  we  went  to  fight  him  he  would  kill  us  with
 the  poison  he  carries  in  a  hidden  bag,  and  we  too  should
 die,  even  as  our  relations  the  Daens  do.  Most  of  us  have
 relations  amongst  the  Daens,  and  we  do  not  wish  to  see
 them  all  killed,  yet  we  know  not  how  to  stop  the  slaughter."
 
 "  I,  too,  have  relations  amongst  them,  the  hippi  and
-comeboo.  My  relations  must  be  saved,"  said  Ouyouboolooey.
+comeboo.  My  relations  must  be  saved,"  said  Ouyouboo-
+looey.
 
 "  But  how  ?  "  said  the  others.  "  We  are  nearly  all  their
 relations."
@@ -2629,7 +2980,8 @@ Moodai  the  opossum.
 they  are  our  relations  the  Murrees  and  Gubbees,  or  the
 others,  he  slays  all  alike."
 
-"  I  tell  you  that  I  shall  save  the  Daens  from  Mungoongarlee," said  Ouyouboolooey.
+"  I  tell  you  that  I  shall  save  the  Daens  from  Mungoon-
+garlee," said  Ouyouboolooey.
 
 "  But  how  ?  "  said  the  others  in  chorus.
 
@@ -2652,7 +3004,8 @@ So  saying,  away  glided  Ouyouboolooey  through  the  trees
 Mungoongarlee  the  Iguana        63
 
 surrounding  the  water-hole  where  the  tribes  had  met.
-When  he  was  gone,  the  others  talked  of  him  and  his  boasting for  awhile,  then  they  all  dispersed,  having  agreed  to
+When  he  was  gone,  the  others  talked  of  him  and  his  boast-
+ing for  awhile,  then  they  all  dispersed,  having  agreed  to
 meet  again  at  the  same  place,  when  Yhi  the  sun  was  sinking
 to  rest  the  next  evening.
 
@@ -2664,11 +3017,13 @@ quicker  to  move,  and  above  all  the  hidden  bag  of  poison
 was  his.  The  only  advantage  that  Ouyouboolooey  thought
 he  had  was  that  Mungoongarlee  had  been  invincible  so
 long  that  he  might  have  grown  careless  and  unsuspicious.
-Ouyouboolooey  decided  he  would  wait  until  Mungoongarlee was  gorged  with  his  favourite  food.  He  would  then
+Ouyouboolooey  decided  he  would  wait  until  Mungoon-
+garlee was  gorged  with  his  favourite  food.  He  would  then
 follow  him  until  he  saw  him  go  to  sleep  after  his  feast.  That
 would  be  the  next  day.
 
-Having  thus  decided,  Ouyouboolooey  went  near  Mungoongarlee's  camp,  and  lay  down  to  sleep  there.  The
+Having  thus  decided,  Ouyouboolooey  went  near  Mun-
+goongarlee's  camp,  and  lay  down  to  sleep  there.  The
 next  morning  he  watched  Mungoongarlee  sally  out.  He
 followed  him  at  a  distance,  saw  him  surprise  three  Daens
 one  after  the  other,  and  kill  them  all,  then  sit  down  and
@@ -2684,6 +3039,8 @@ He  was  just  going  to  raise  his  boondee  to  crack  the
 skull  of  Mungoongarlee,  when  he  thought,  "  But  first  I
 might  as  well  find  out  where  he  keeps  and   how  he  uses
 
+
+64  More  Australian  Tales
 
 the  poison.      If  I  had  it  I  could  soon  make  myself  feared
 of  all  the  tribes  as  he  is."
@@ -2764,7 +3121,8 @@ turned  away.
 "  Not  so  ;  not  so  !  "  cried  Mungoongarlee.  "  Here,
 take  it."
 
-Assuming  as  indifferent  an  air  as  he  could,  Ouyouboolooey took  the  bag,  and  went  back  with  it  to  his  old
+Assuming  as  indifferent  an  air  as  he  could,  Ouyou-
+boolooey took  the  bag,  and  went  back  with  it  to  his  old
 place  on  the  edge  of  the  camp.
 
 "  Now  quickly  tell  me  the  plot,"  said  Mungoongarlee.
@@ -2774,6 +3132,8 @@ bag  into  his  own  mouth.     Then  going  on  :   "  It  was  this.
 
 E
 
+
+66  More  Australian  Tales
 
 One  of  the  tribes  was  to  get  this  bag  from  you,  and  so
 take  away  your  power  to  harm  the  Daens  in  the  future.  I
@@ -2813,14 +3173,16 @@ Ever  since  then  the  snakes  have  been  poisonous,  and
 not  the  iguanas,  and  there  has  been  a  feud  between  the
 snakes  and  the  iguanas,  who  never  meet  without  fighting.
 But  though  the  snakes  have  the  poison  bag,  they  are
-powerless  to  injure  the  iguanas  with  it.  For  Mungoongarlee was  a  great  wirreenun,  and  he  knew  of  a  plant  which  if
+powerless  to  injure  the  iguanas  with  it.  For  Mungoongar-
+lee was  a  great  wirreenun,  and  he  knew  of  a  plant  which  if
 eaten  after  snakebite  made  the  poison   powerless  "to  kill  or
 
 
 Mungoongarlee   the  Iguana        67
 
 injure.  Directly  an  iguana  is  bitten  by  a  snake  he  rushes
-to  this  plant,  and  eating  it,  is  saved  from  any  evil  consequences of  the  bite.  This  antidote  has  ever  since  been
+to  this  plant,  and  eating  it,  is  saved  from  any  evil  con-
+sequences of  the  bite.  This  antidote  has  ever  since  been
 the  secret  of  the  iguana  tribe,  left  in  their  possession  by
 the  Mungoongarlee  who  lost  his  poison  bag  by  the  cunning
 of  Ouyouboolooey  the  black  snake.
@@ -2856,7 +3218,8 @@ Straight  went  Wayambeh   to   the  creek  where  her  tribe
 
 Wayambeh  the  Turtle  69
 
-lived.  Into  the  water  she  went  after  them.  Gougourgahgah  followed  her  to  the  edge.  Then  he  turned  back  and
+lived.  Into  the  water  she  went  after  them.  Gougourgah-
+gah  followed  her  to  the  edge.  Then  he  turned  back  and
 sent  his  servant  Wonga  the  pigeon,  and  Dumerh  the  wife
 of  Wonga,  after  Wayambeh.
 
@@ -2865,7 +3228,8 @@ Wonga  sent  Dumerh  on  to  tell  Wayambeh  to  come  back.
 But  Wayambeh  said  :  "  No,  I  will  not  go  back.  Let
 him  come  himself  if  he  wants  me."
 
-Wonga  and  Dumerh  went  back  and  told  this  to  Gougourgahgah,  who  went  as  his  wife  had  asked  for  him.
+Wonga  and  Dumerh  went  back  and  told  this  to  Gou-
+gourgahgah,  who  went  as  his  wife  had  asked  for  him.
 But  on  the  bank  of  the  creek  he  saw  the  mother  of
 Wayambeh,  so  he  turned  back,  for  the  law  of  the  tribes
 did  not  let  him  speak  to  his  mother-in-law.  He  sent
@@ -2892,6 +3256,8 @@ swiftly,  thud  to  the  earth,  his  back  broken.  Down  after
 him  flew  Gougourgahgah.  There  in  his  camp  he  saw  his
 enemy  lying  dead.
 
+
+70  More  Australian  Tales
 
 "  Twice  have  you  tried  to  injure  me,  and  twice  have  you
 failed,"  he  said ;  "  once  when  you  wanted  to  marry
@@ -2970,6 +3336,8 @@ the  mother  Woggoon  every  second  day  laid  an  egg  until  in
 the  mound  were  fifteen,  all  apart  from  each  other,  with  the
 
 
+72  More  Australian  Tales
+
 thin  end  downwards.  Over  these  they  put  some  more
 decayed  leaves  and  rubbish,  and  outside  all  a  heaped-up
 covering  of  more  leaves  and  twigs.  When  all  this  was
@@ -2991,7 +3359,8 @@ seen,  quite  independent  and  strong,  with  feet  and  wings
 more  advanced  than  any  seen  on  their  chicks  before.
 
 Proud  of  the  success  of  her  plan,  and  anxious  to  spread
-the  good  news,  the  mother  Woggoon  ran  away  from  herfamily  to  tell  all  her  tribe  about  them.
+the  good  news,  the  mother  Woggoon  ran  away  from  her-
+family  to  tell  all  her  tribe  about  them.
 
 The  next  season  the  other  Woggoons  added  to  the  size  of
 the  mound,  and  many  of  the  mothers  laid  their  eggs  in  one
@@ -3026,6 +3395,8 @@ but  listened  not  to  the  wooing.
 *  Sei  "  Australian  Legendary  Tales:  "  Meamei,  the  Seven  Sisters.
 
 
+74  More  Australian  Tales
+
 But  one  day  old  Wurrunnah  stole  two  of  the  girls,
 capturing  them  by  stratagem.  He  tried  to  warm  the  icicles
 off  them,  but  only  succeeded  in  putting  out  his  fire.
@@ -3056,7 +3427,8 @@ the  Meamei  will  shine  ever  as  an  example  to  all  women  on
 earth.
 
 At  one  time  of  the  year,  in  remembrance  that  they  once
-lived  on  earth,  the  Meamei  break  off"  some  ice  from  themselves and  throw  it  down.  When,  on  waking  in  the
+lived  on  earth,  the  Meamei  break  off"  some  ice  from  them-
+selves and  throw  it  down.  When,  on  waking  in  the
 morning,  the  Daens  see  ice  everywhere  they  say  :  "  The
 Meamei  have  not  forgotten  us.  They  have  thrown  some
 of  their  ice  down.      We  will  show  we  remember  them^too."
@@ -3099,7 +3471,8 @@ BuTHA  the  lissome  and  soft-eyed  was  promised  to  Murree,
 the  swift-in-pursuit-of-game,  and  the  time  was  at  hand  when
 he  could  claim  her,  for  he  was  now  coming  back  from  a
 Boorah.  Back  from  the  tests  of  courage,  back  as  a  brave
-of  his  tribe,  back  with  a  right  to  marry.  Back  to  disappointment ;  back  to  despair.  For  first  to  meet  him  was
+of  his  tribe,  back  with  a  right  to  marry.  Back  to  dis-
+appointment ;  back  to  despair.  For  first  to  meet  him  was
 Gubbee,  the  father  of  Butha.  First  to  tell  him  the  news  of
 Butha,  his  promised  one.  Told  how  she  had  been  hunting
 for  honey.  How  she  had  come  to  the  nest  of  a  Bubburr,
@@ -3160,6 +3533,8 @@ platforms  on  the  boughs  of  some  trees  which  he  showed
 them.  They  went  on  to  these  platforms,  and  the  noise
 they  made  was  great ;  hearing  which  out  came  the  snakes.
 
+
+7  8  More  Australian  Tales
 
 the  mammoth  Bubburrs.  Murree  and  the  Daens  had  been
 careful  that  no  shadow  of  theirs  should  fall  on  the  ground.
@@ -3315,6 +3690,8 @@ and  eat  them.      Only  you  can  save  them.     Change  them
 F
 
 
+82  More  Australian  Tales
+
 again,  I  pray  you,  so  that  none  can  eat  them.  Never  again
 shall  they  scoff  at  a  dinewan.  Never  again  will  I  scorn
 you  ;  I  will  come  to  your  dardurr  for  ever."
@@ -3365,7 +3742,8 @@ no  one  will  ever  eat  them,  for  they  are  turned  into  stone."
 And  so  it  was.  Some  were  of  plain  grey  stone,  and
 some  with  a  stripe  of  green  on  them,  just  as  the  frogs  had
 been  marked.  Her  daughters  would  be  stone  frogs  for
-ever,  as  were  the  frogs  that  Birrahgnooloo  and  Cunnumbeillee  had  dug,  and  left  for  cooking  before  they  took  that
+ever,  as  were  the  frogs  that  Birrahgnooloo  and  Cunnum-
+beillee  had  dug,  and  left  for  cooking  before  they  took  that
 fatal  plunge  into  the  Spring  Cowrigul,  whence  the  Kurreahs
 took  them  down  the  Narrin,  and  whither  Byamee  followed
 them  after  changing  the  food  they  had  gathered  into  stones
@@ -3445,6 +3823,8 @@ ladder  of  stone  they  determined  to  climb.
 Gn  they  went,  and  when  the  first  day's  climb  was  ended
 
 
+86  More  Australian  Tales
+
 the  top  of  the  mountain  still  seemed  high  above  them,  and
 even  so  at  the  end  of  the  second  and  third  day,  for  the
 route  was  circuitous  and  long ;  but  on  the  fourth  day  they
@@ -3517,6 +3897,8 @@ the  fadeless  flowers  which  are  the  sign  of  it,  to, your
 people."
 >    The  voice  ceased,  then  the  wirreenuns  went  back  to  their
 
+
+88  More  Australian  Tales
 
 tribes  ;  back  with  the  blossoms  from  Bulh'mah.  Down  the
 stone  ladder,  which  had  been  cut  by  the  spirits  for  the
@@ -3635,6 +4017,8 @@ Even  to  this  day,  as  a  flood  is  coming,  are  their  voices
 heard,  and  hearing  them   the   Daens   say  :   "  The  Bungun
 
 
+92  More  Australian  Tales
+
 Bungun,  or  flood-frogs,  are  crying  out.  Flood  water  must
 be  coming."  Then,  "  The  Bungun  Bungun  are  crying  out.
 Flood  water  is  here."
@@ -3670,6 +4054,8 @@ evening  they  lifted  up  the  coffin  and  carried  it  to  the  grave
 they  had  dug.  The  mourners  were  all  painted,  and  had
 leaves  and  feathers  in  their  hair,  dheal  tree  twigs  round
 
+
+94  More  Australian  Tales
 
 their  wrists,  knees,  ankles  and  waists,  also  through  the
 holes  in  the  cartilage  of  the  noses.  They  carried  bunches
@@ -3762,6 +4148,8 @@ walk,  were  allowed  to  go  to  the  funeral.
 After  the  women  left,  all  the  men  stood  round  the  grave.
 
 
+96  More  Australian  Tales
+
 the  oldest  wirreenun  at  the  head,  which  faced  the  east.
 The  men  bowed  their  heads  as  if  at  a  first  Boorah,  the
 wirreenun  lifted  his,  and,  looking  towards  where  Bullimah
@@ -3786,7 +4174,8 @@ clan  done  it ;  if  the  track  of  an  emu,  then  was  a  dinewan
 guilty.
 
 The  widow  of  Eerin  had  put  mud  over  herself,  daubing
-her  head  and  face  with  white.  She  slept  beside  a  smouldering smoke  all  night.
+her  head  and  face  with  white.  She  slept  beside  a  smoulder-
+ing smoke  all  night.
 
 Three  days  afterwards  the  Daens  made  a  fire  by  the
 river.  They  chased  the  widow  and  her  sisters  down  to  it.
@@ -3839,10 +4228,13 @@ kill  one  of  the  tribe  quickly,  and  you  can  join  me  in  my
 feast  of  his  flesh."
 
 
+98  More  Australian  Tales
+
 The  bird  promised  silence,  and  the  wundah  went  again;
 into  the  camp.  But  just  as  he  was  going  to  raise  his
 boondee  to  deal  a  fatal  blow,  "Mil!  Mil!  Mil!"  was  cried
-in  the  sleeper's  ear.  The  owl  had  followed  the  wundahinto  the  camp.
+in  the  sleeper's  ear.  The  owl  had  followed  the  wundah-
+into  the  camp.
 
 "  Why  did  you  do  that  ?  "  the  wundah  angrily  asked.
 
@@ -3979,7 +4371,8 @@ Bungun  Bunguu,  frog.
 
 Bunna,  cannibal,
 
-Byamee,  big  man  {Creator,  Culture hero).
+Byamee,  big  man  {Creator,  Cul-
+ture hero).
 
 
 Comebee,  bag.
@@ -4033,7 +4426,8 @@ Dourandouran,  north  wind.
 
 DuUoorah,  small  grey  birds.
 
-Dullaymullaylunnah,   fend,   vendetta.
+Dullaymullaylunnah,   fend,   ven-
+detta.
 
 Dumerh,  brown  pigeon.
 
@@ -4083,7 +4477,8 @@ Goolmai,  death  dirge.
 
 Goombeelgah,  bark  canoe.
 
-Goomblegubbon,  turkey  or  bustard of  the  plains.
+Goomblegubbon,  turkey  or  bus-
+tard of  the  plains.
 
 GoonaguUah,  the  sky.
 
@@ -4094,7 +4489,8 @@ Gooweera,  small  stick  or  bone,
 possessing  magical  death-dealing
 power.
 
-Gougourgahgah,  laughing  jackass.
+Gougourgahgah,  laughing  jack-
+ass.
 
 Gubbah,  good.
 
@@ -4113,6 +4509,9 @@ ossar
 
 
 y
+
+
+103
 
 
 Gummarl,  plau  where  some  one
@@ -4160,7 +4559,8 @@ Mulloka,  water-spirit.
 Mundehwaddah,  north-west  wind.
 
 
-Munggheewurraywurraymul,  seagull.
+Munggheewurraywurraymul,  sea-
+gull.
 
 Mungoonyarlee,  iguana  {largest
 kind  of)
@@ -4216,13 +4616,15 @@ BRITISH    EMPIRE.
 Collected  and  Edited  by  JOSEPH  JACOBS.
 Illustrated  by  J.  D.  BATTEN.
 
-MR.  JACOBS'  FAIRY  TALES,  which  have  been  appearing since  1890,  have  won  immediate  and  widespread
+MR.  JACOBS'  FAIRY  TALES,  which  have  been  appear-
+ing since  1890,  have  won  immediate  and  widespread
 acceptance.  The  choice  of  matter,  the  simplicity  and
 suitable  character  of  the  language  of  the  text,  the  beauty,  humour,
 and  charm  of  Mr.  Batten's  Illustrations,  and  the  large  and
 legible  type^  have  commended  the  series  alike  to  children  and  to
 lovers  of  art;  whilst  the  prefaces  and  elaborate  notes,  parallels,
-and  references  added  by  the  Editor,  have  made  them  indispensable to  the  increasingly  large  portion  of  the  public  interested  in
+and  references  added  by  the  Editor,  have  made  them  indispens-
+able to  the  increasingly  large  portion  of  the  public  interested  in
 the  history  ^nd  archaeology  of  popular  fiction.
 
 "Fairy  Tales  of  the  British  Empire"  are  to  be  had  in  two
@@ -4244,17 +4646,20 @@ English  Fairy  Tales.  Complete  Edition,  xvi.,  255  pages,  9
 full-page  Plates,  and  numerous  Illustrations  in  the  text.
 Designed  Cloth  Cover,  Uncut  or  Gilt  Edges.     6s.
 
-The  same.  Children's  Edition,  viii.,  227  pages,  7  fullpage  Plates,  and  numerous  Illustrations  in  text.  Cloth,  Cut.
+The  same.  Children's  Edition,  viii.,  227  pages,  7  full-
+page  Plates,  and  numerous  Illustrations  in  text.  Cloth,  Cut.
 3s.  6d.
 
 More  English  Fairy  Tales.  Complete  Edition,  xvi.,  243
 pages,  8  full-page  Plates,  and  numerous  Illustrations  in  text.
 Designed  Cloth  Cover,  "Uncut  or  Gilt  Edges.     6s.
 
-The  same.  Children's  Edition,  viii.,  214  pages,  7  fullpage  Plates,  and  numerous  Illustrations  in  text.  Cloth,  Cut.
+The  same.  Children's  Edition,  viii.,  214  pages,  7  full-
+page  Plates,  and  numerous  Illustrations  in  text.  Cloth,  Cut.
 3s.  6d.
 
-Celtic  Fairy  Tales.  Complete  Edition,  xvi.,  274  pages,  8  fullpage  Plates,  numerous  Illustrations  in  text.  Designed  Cloth
+Celtic  Fairy  Tales.  Complete  Edition,  xvi.,  274  pages,  8  full-
+page  Plates,  numerous  Illustrations  in  text.  Designed  Cloth
 Cover,  Uncut  or  Gilt  Edges.     6s.
 
 The  same.  Children's  Edition,  viii.,  236  pages,  7  full-page
@@ -4264,18 +4669,23 @@ More  Celtic  Fairy  Tales.  Complete  Edition,  xvi.,  234  pages,
 8  full-page  Plates,  numerous  Illustrations  in  text.  Designed
 Cloth  Cover,  Uncut  or  Gilt  Edges.     6s.
 
-The  same.  Children's  Edition,  viii.,  217  pages,  7  fullpage  Plates,  and  numerous  Illustrations  in  text.  Cloth,  Cut.
+The  same.  Children's  Edition,  viii.,  217  pages,  7  full-
+page  Plates,  and  numerous  Illustrations  in  text.  Cloth,  Cut.
 3s.  6d.
 
-Indian  Fairy  Tales.  Complete  Edition,  xvi.,  255  pages,  9  fullpage  Plates,  and  numerous  Illustrations  in  text.  Designed
+Indian  Fairy  Tales.  Complete  Edition,  xvi.,  255  pages,  9  full-
+page  Plates,  and  numerous  Illustrations  in  text.  Designed
 Cloth  Cover,  Uncut  or  Gilt  Edges.     6s,
 
 No  Children's  Edition  of  the  "Indian  Fairy  Tales"
 will  be  issued  for  the  present.
 
+3
+
 
 Specimen"  of  Mr.  Batten's  full-page  Illustrations  to
 of  the  British  Empire."
+4
 
 
 Fairy  Tales
@@ -4302,7 +4712,8 @@ children,"  Miss  Thackeray. — "  This  delightful  book. "  Review  of  Revie
 
 Celtic  Fairy  Tales.
 
-Scotsman. — "  One  of  the  best  books  of  stories  ever  put  together."  Freeman's Journal. — "An  admirable  selection."  Ariel. — "Delightful  stories,
+Scotsman. — "  One  of  the  best  books  of  stories  ever  put  together."  Free-
+man's Journal. — "An  admirable  selection."  Ariel. — "Delightful  stories,
 exquisite  illustrations  by  John  D.  Batten,  and  learned  notes."  Daily
 Telegraph. — "  A  stock  of  delightful  little  narratives."  Daily  Chronicle. — "  A
 charming  volume  skilfully  illustrated."  Pall  Mall  Budget.— "  P>.  perfectly
@@ -4313,7 +4724,8 @@ Land's  End  to  John  o'  Groat's."
 
 More  English  Fairy  Tales.
 
-Athenaum. — "  Will  become  more  popular  with  children  than  its  predecessor." Notes  and  Queries. — "Delightful  and  in  every  respect  worthy  of
+Athenaum. — "  Will  become  more  popular  with  children  than  its  prede-
+cessor." Notes  and  Queries. — "Delightful  and  in  every  respect  worthy  of
 its  predecessor."  Glasgow  Herald. — "  A  more  delightful  collection  of  fairy
 tales  could  hardly  be  wished  for."  Glasgow  Evening  News. — "The  new
 volume  of  '  English  Fairy  Tales '  is  worthy  of  the  one  that  went  before,
@@ -4323,7 +4735,8 @@ More  Celtic  Fairy  Tales.
 
 Daily  Chronicle. — "A  bright  exemplar  of  almost  all  a  fairy-tale  book
 should  be."  Saturday  Review.—"  Delightful  for  reading,  and  profitable  for
-comparison."  Irish  Daily  Independent.—"  Full  of  bold  and  beautiful  illustrations." North  British  Daily  Mail.— "The  stories  are  admirable,  and
+comparison."  Irish  Daily  Independent.—"  Full  of  bold  and  beautiful  illus-
+trations." North  British  Daily  Mail.— "The  stories  are  admirable,  and
 nothing  could  be  better  in  their  way  than  thedesigns."  News  of  the  World.
 — "  Mr.  Batten  has  a  real  genius  for  depicting  fairy  folk."
 
@@ -4335,6 +4748,8 @@ with  a  charming  freshness  of  fancy. "  Gloucester  Journal.—"  A  book  w
 is  something  more  than  a  valuable  addition  to  folk-lore ;  a  book  for  the
 student  as  well  as  for  the  child."— Sco^swian.—"  Likely  to  prove  a  perfect
 success."    Literary  World.—"  Admirably  grouped,  and  very  enjoyable."
+
+5
 
 
 Specimen  Illustration  from  the  "First  Book  of  Krab."
@@ -4401,7 +4816,8 @@ Kapellmeister  Krab,  by  Archie  Macgregor.     Royal  8vo,
 Is.
 
 "  The  reviewer's  duty  in  this  case  is  confined  to  considering  the  music  of
-Dr.  Bridge :  the  pleasant  task  of  praising  Judge  Parry's  verses  is  superfluous. .  .  .  The  learned  Dr.  Bridge,  of  Westminster,  who  also  wields  the
+Dr.  Bridge :  the  pleasant  task  of  praising  Judge  Parry's  verses  is  super-
+fluous. .  .  .  The  learned  Dr.  Bridge,  of  Westminster,  who  also  wields  the
 thunders  of  the  Albert  Hall,  the  greatest  living  authority  on  Purcell,  and
 hard  to  beat  at  counterpoint,  is  also  known  as  the  most  genial  of  musical
 humorists.  It  was,  therefore,  a  happy  idea  which  inspired  the  witty
@@ -4450,7 +4866,8 @@ Children  of  All  Ages.  132  pages,  with  many  Full-page  Plates
 and  Illustrations  in  the  Text.  Bound  in  specially  desigiied
 Cloth  Cover.    3s.  6d.
 
-"  His  Honour  .  .  .  has  known  how  to  make  even  the  domestic  blackbeetle  interesting.  His  verses  flow  easily  and  ring  pleasantly,  and  the
+"  His  Honour  .  .  .  has  known  how  to  make  even  the  domestic  black-
+beetle  interesting.  His  verses  flow  easily  and  ring  pleasantly,  and  the
 illustrations  by  Archie  Macgregor  are  decidedly  good,  and  some  of  them
 strikingly  so." — Athenceum.
 
@@ -4466,7 +4883,8 @@ Star.
 
 "  In  '  The  First  Book  of  Krab'  Judge  Parry  seems  to  have  eclipsed  all
 his  former  efforts,  and  has  produced  a  book  which  will  at  once  establish
-itself  as  a  favourite  with  children.  .  .  .  The  stories  are  extravagantly  nonsensical, but  original  in  conception  and  charmingly  told."
+itself  as  a  favourite  with  children.  .  .  .  The  stories  are  extravagantly  non-
+sensical, but  original  in  conception  and  charmingly  told."
 
 Liverpool  Daily  Post.
 
@@ -4522,4 +4940,175 @@ Nortly  an^tbU)cSoufl)
 
 Written,  bit  Charles  Squire
 lUuS*^^  b  n  A  q  M  a«j  rggor
+
+
+LONDON
+
+David  NoTT  2/0  Strand.
+
+1898
+
+
+NURSERY  SONGS  AND  RHYMES  OF  ENGLAND.
+
+Pictured  in  Black  and  White  by  Winifred  Smith.  Small
+4to.  Printed  on  hand-made  paper.  In  specially  designed
+Cloth  Cover,  3s.  6d.
+
+
+Some  ipress  motices  of  "IRurserB  Songe  an£)  IRbBines."
+
+Literary  World. — "Delightfully  illustrated."
+
+Athenisum. — "  Very  cleverly  drawn  and  humorous  designs."
+
+Manchester  Guardian. — "  All  the  designs  are  very  apt  and  suited  to  the
+comprehension  of  a  child."
+
+Scotsman. — "  The  designs  are  full  of  grace  and  fun,  and  give  the  book  an
+artistic  value  not  common  in  nursery  literature."
+
+Globe. — "  The  drawings  are  distinctly  amusing  and  sure  to  delight
+children."
+
+Star. — "  Really  a  beautiful  book.  .  .  .  Winifred  Smith  has  revelled  into
+old  rhymes,  and  young  and  old  alike  will  in  their  turn  revel  in  the  results
+of  her  artistic  revelry."
+
+Pall  Mall  Gazette. — "  No  book  of  nursery  rhymes  has  charmed  us  so
+much."
+
+Magazine  of  Art. — "  Quite  a  good  book  of  its  kind."
+
+Woman. — "Miss  Smith's  drawings  are^now  celebrated  and  are  indeed
+very  beautiful,  decorative,  and  full  of  naive  humour."
+
+14
+
+
+WORKS  BT  MRS.  ERNEST  RADFORD.
+SONGS   FOR   SOMEBODY.     Verses  by  Dollie
+
+Radford.  Pictures  by  Gertrude  Bradley.  Square
+crown  8vo.  Six  Plates  printed  in  colour  by  Edmund
+Evans,  and  36  Designs  in  monochrome.  Coloured  Cover
+by  Louis  Davis.     3s.  6d.
+
+GOOD    NIGHT.    Verses  by  Dollie  Radford.
+
+Designs  by  Louis  Davis.     Forty  pages  entirely  designed  by
+the  artist  and  pulled  on  the  finest  and  the  thickest  cartridge
+paper.     Boards  and  canvas  back  with  label,  2s.  6d.
+Some  ipress  IFlotlces.
+
+Daily  Chronicle. — "  As  far  as  we  know  no  one  else  sings  quite  like  Mrs.
+Radford ;  hers  is  a  bird's  note — thin,  high,  with  a  sweet  thrill  in  it,  and  the
+thrill  is  a  home  thrill,  a  nest  thrill."
+
+Commonwealth. — "  We  have  read  with  pure  enjoyment  Mrs.  Radford's
+slight  but  charming  cycle  of  rhymes."
+
+Star, — "A  tender  spirit  of  motherhood  inspires  Mrs.  Radford's  simple
+little  songs."
+
+Review  of  Reviews. — "Very  charming  poems  for  children  not  unworthy
+even  to  be  mentioned  in  the  same  breath  with  Stevenson's  '  Child's  Garden
+of  Verses. '  "
+
+Aihenaum. — "  'Good  Night'  is  one  of  the  daintiest  little  books  we  have
+seen  for  years.  The  verses  are  graceful  and  pretty,  and  the  illustrations
+excellent.     It  will  please  both  young  and  old."
+
+Literary  World. — "  Charming  little  songs  of  childhood. "
+
+New  Age. — "Mrs.  Radford  is  closely  in  touch  with  a  child's  mind,  and
+her  ideal  child  is  a  nice,  soft,  loving  little  creature  whom  we  all  want  to
+caress  in  our  arms."
+
+Artist. — "  Since  Blake  died  never  has  a  book  been  produced  which  can
+so  truly  be  described  as  a  labour  of  love  to  the  artist  as  '  Good  Night.'  "
+
+
+MEDI/EVAL  legends.     Being  a  Gift-Book  to
+
+the   Children  of  England,  of  Five   Old-World  Tales   from
+
+France  and  Germany.     Demy  8vo.     Designed  Cloth  Cover,
+
+3s.  6d.
+
+Contents. — The  Mysterious  History  of  Melusina— The  Story  of
+
+.^sop— The   Rhyme    of  the   Seven   Swabians— The   Sweet  and
+
+Touching  Tale  of  Fleur  and  Blanchefleur— The  Wanderings  of
+
+Duke  Ernest.
+
+Some  press  iftotices.
+
+Saturday  Review. — "  A  capital  selection  of  famous  legends."
+Times. — "  There  can  be  no  question  as  to  the  value  of  this  gift."
+Morning  Post. — "  Full  of  romantic  incident,  of  perilous  adventure  by  land
+
+and  sea."  -    .    ui
+
+GMay^'aM.— "This  delightful  volume.  .  .  .  In  all  respects  admirable.
+World. — "  An  elegant  and  tasteful  volume."
+
+15
+
+
+THE  HAPPY  PRINCE,  and  other  Tales.  By  Oscar
+
+Wilde.  ii6  pages,  small  4to.  Beautifully  printed  in  old-
+faced  type,  on  cream-laid -paper,  with  wide  margins.  Bound
+in  Japanese  Vellum  Cover,  printed  in  red  and  black.  With
+three  full-page  Plates  by  Walter  Crane,  and  eleven
+Vignettes  by  Jacomb  Hood.     Second  Edition.     3s.  6d.
+
+Some  press  Bottces.
+
+Christian  Leader. — "Beautiful  exceedingly;  charmingly  devised — exqui-
+sitely told."
+
+Universal  Review. — "  Heartily  recommended."
+
+Athenceum. — "  Mr.  Wilde  possesses  the  gift  of  writing  fairy  tales  in  a  rare
+degree."
+
+Dublin  Evening  Mail. — "A  beautiful  book  in  every  sense.''
+
+Glasgow  Herald. — "  It  is  difficult  to  speak  too  highly  of  these  tales."
+
+
+FAIRY  TALES  FROM  THE  FAR  NORTH.      By
+
+p.  C.  AsBjoRNSEN.  Translated  by  H.  L.  Br^kstad.  With
+94  Illustrations  by  E.  Werenskiold,  T.  Kittelsen,  and  H.
+SiNDiNG.  Small  4to  ("  Wonder  Voyages  "  size),  beautifully
+printed  at  the  Ballantyne  Press  on  specially  manufactured
+paper.     Cloth,  designed  Cover.     6s.
+
+*^L*  The  raciest  and  quaintest  oj  stories,  the  most  spirited
+and  humorous  of  illustrations.
+
+THE  GIANT  CRAB,  and  other  Tales  from  Old  India.
+
+Retold  by  W.  H.  D.  Rouse.  Profusely  Illustrated  by  Wl
+Robinson.  Square  crown  8vo,  beautifully  printed  at  the
+Ballantyne  Press  on  special  paper.  Designed  Cloth  Cover.
+3s.  6d.
+
+***  Adaptation  for  English  children  of  Tales  from  the  Oldest
+Story  Book  in  the  world,  the  Jatakas,  or  Birth-stories  of
+Buddha.
+
+i6
+
+
+1. 1
+
+
+mi
 

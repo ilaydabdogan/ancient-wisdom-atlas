@@ -26,11 +26,6 @@ in  2007  with  funding  from
 Microsoft  Corporation
 
 
-http://www.archive.org/details/cuneiformparalleOOrogeuoft
-
-
-CUNEIFORM  PARALLELS
-
 TO    THE
 
 OLD  TESTAMENT
@@ -63,8 +58,6 @@ iVf\\v
 NEW   YORK:   EATON   &  MAINS
 
 CINCINNATI:  JENNINGS  &  GRAHAM
-
-1912
 
 
 Copyright.  1912,  by
@@ -597,10 +590,8 @@ Paris.
 Assyriologie,  Zeitschrift  fiir,  und  verwandte  Gebiete,  herausgegeben
 
 von  Carl  Bezold.     Strassburg.
-Auchincloss,  W.  S.,  Chronology  of  the  Holy  Bible,  with  an  intro-
-duction by  A.  H.  Sayce.     New  York.     1911.
-Beecher,  Willis  J.,  The  Dated  Events  of  the  Old  Testament.     Phil-
-adelphia.    1908.
+Auchincloss,  W.  S.,  Chronology  of  the  Holy  Bible,  with  an  introduction by  A.  H.  Sayce.     New  York.     1911.
+Beecher,  Willis  J.,  The  Dated  Events  of  the  Old  Testament.     Philadelphia.    1908.
 Berliner  Akademie  der  Wissenschaften,  Berichte.     Berlin.
 Bezold,  Carl,  Catalogue  of  the  Cuneiform  Tablets  in  the  Kouyunjik
 Collection    of  the    British    Museum,    Vols.    I-V.      London.
@@ -631,22 +622,19 @@ Cook ,  S .  A . ,  The  Laws  of  Moses  and  the  Code  of  Hammurabi.     Lon
 
 xii        LIST  OF  BOOKS  QUOTED  OR  MENTIONED
 
-Craig,  James  A.,  Assyrian  and  Babylonian  Religious  Texts.     Leip-
-zig.    Vol.  I,  1895;  Vol.  II,  1897.
+Craig,  James  A.,  Assyrian  and  Babylonian  Religious  Texts.     Leipzig.    Vol.  I,  1895;  Vol.  II,  1897.
 Cuneiform  Texts  from  Babylonian  Tablets,  etc.,  in  the  British
 Museum.     Parts  I  to  XXX  have  appeared.     London.    1896-1912.
 Davies,  W.  W.,  The  Codes  of  Hammurabi  and  Moses.     Cincinnati.
 
 1905.
-Delitzsch,  Friedrich,  Das  Babylonische  Weltschopfungsepos  (Abhand-
-lungen  der    Sachsischen   Gesellschaft   der    wissenschaften,
+Delitzsch,  Friedrich,  Das  Babylonische  Weltschopfungsepos  (Abhandlungen  der    Sachsischen   Gesellschaft   der    wissenschaften,
 Bd.  XVII).     Leipzig.     1896.
 Assyrisches  Worterbuch  zur  gesamten  bisher  verdffentlichten
 Keilschriftlitteratur.     Lieferung  1-3.     Leipzig.     1887-1890.
 Assyrisches  Hand  worterbuch.     Leipzig.     1S96.
 Assyrische  Lesestiicke.     4te  Auflage.     Leipzig.     1900.
-Das  Babylonische  Weltschopfungsepos  (Abhandlungen  der  philo-
-logisch-historischen  Classe  der  KOnigl.     Siichischen  Gesellschaft
+Das  Babylonische  Weltschopfungsepos  (Abhandlungen  der  philologisch-historischen  Classe  der  KOnigl.     Siichischen  Gesellschaft
 der  wissenschaften  Band  XVII,  No.  2).     Leipzig.     1896.
 Babel  und  Bibel,  Ein  Vortrag.     Leipzig.     1902.
 Dhorme,  Paul,  Choix  de  Textes  Religieux  Assyro-Babyloniens.    Paris.
@@ -662,8 +650,7 @@ New  York.     1902.
 Gray,  G.  Buchanan,  A  Critical  and  Exegetical  Commentary  on  the
 Book   of  Isaiah,   Vol.    I    (International   Critical   Commentary).
 Edinburgh.     1912.
-Gressmann,  Hugo;  Ungnad,  Arthur;  Ranke,  Hermann;  Altorienta-
-lische  Texte  und  Bilder  zum  Allen  Testamente.     Tubingen.     1909.
+Gressmann,  Hugo;  Ungnad,  Arthur;  Ranke,  Hermann;  Altorientalische  Texte  und  Bilder  zum  Allen  Testamente.     Tubingen.     1909.
 Grimme,  H.,  Das  Gesetz  Chammurabis  und  Moses.     IMS.
 Gunkel,    Heinrich,  Schopfung  und   Chaos   in    Urzeit  und  Endzeit.
 
@@ -673,8 +660,7 @@ Harper,  Robert  F.,  The  Code  of  Hammurabi.     Chicago.     1904.
 Haupt,  Paul,  Das  Babylonische  Nimrod-Epos.     Leipzig.     1884,  1891.
 
 Purim  (Beitrage  zur  Assyriologie  Bd.  VI).
-Hilprecht,  Hermann  V.,  Expedition  of  the  University  of  Pennsyl-
-vania. Old  Babylonian  Inscriptions,   Vol.   I.      Philadelphia.
+Hilprecht,  Hermann  V.,  Expedition  of  the  University  of  Pennsylvania. Old  Babylonian  Inscriptions,   Vol.   I.      Philadelphia.
 1983.
 The  Earliest  Version  of  the  Babylonian  Deluge  Story  and  the
 Temple  Library  of  Nippur  (The  Babylonian  Expedition  of  the
@@ -692,8 +678,7 @@ Hrozny,   H.,   Keilschrifttexte  aus   Ta'anek  (in  Sellin,   Ernst,  Tell
 
 Ta'anek).     Wien.     1904.
 Hussey,  Mary  I.,  Some  Sumerian-Babylonian  Hymns  of  the  Berlin
-Collection   (American   Journal   of  Semitic   Languages  and   Lit-
-erature, Vol.  XXIII,  2).     Chicago.     1907.
+Collection   (American   Journal   of  Semitic   Languages  and   Literature, Vol.  XXIII,  2).     Chicago.     1907.
 Jastrow,  Jr.,  Morris,  The  Religion  of  Babylonia  and  Assyria.     Boston.
 1898.
 Die  Religion  Babyloniens  und  Assyriens.     Giessen.     1904-1912.
@@ -702,8 +687,7 @@ Assyria.     New  York.     1911.
 Jensen.  Peter,  Das  Gilgamesh-Epos  in  der  WeUliteratur.    Strassburg.
 
 1906.
-Jeremias,  Alfred,  Izdubar-Nimrod,  eine  altbabylonische  Beschworungs-
-legende.     Strassburg.     1891.
+Jeremias,  Alfred,  Izdubar-Nimrod,  eine  altbabylonische  Beschworungslegende.     Strassburg.     1891.
 Holle  und  Parodies  bei  der  Babylonier  (Der  Alte  Orient  I,  3).
 Leipzig.     1900.
 
@@ -744,22 +728,18 @@ xiv      LIST  OF  BOOKS  QUOTED  OR  MENTIONED
 
 Langdon,  Stephen,  Sumerian  and  Babylonian  Psalms.     Paris.
 
-Neubabylonische    Konigsinschriften    (Vorderasiatische    Biblio-
-thek).     Leipzig.     1912.
+Neubabylonische    Konigsinschriften    (Vorderasiatische    Bibliothek).     Leipzig.     1912.
 
 Building  Inscriptions  of  the  Neo-Baby Ionian  Empire.     Paris.
 1905.
 
-Layard,  A.  H.,  Inscriptions  in  the  Cuneiform  Character  from  Assyr-
-ian Monuments.     London.     1851.
+Layard,  A.  H.,  Inscriptions  in  the  Cuneiform  Character  from  Assyrian Monuments.     London.     1851.
 
-Lehmann,  C.    F.,  Zwei   Hauptprobleme  der    altorientalischen  Chro-
-nologic und  ihre  Losung.     Leipzig.     1898.
+Lehmann,  C.    F.,  Zwei   Hauptprobleme  der    altorientalischen  Chronologic und  ihre  Losung.     Leipzig.     1898.
 
 Lehmann-Haupt,  C.  F.,  Die  Historische  Semiramis  und  ihre  Zeit.
 Tubingen.     1910.
-Israel,  seine  Entwichelung  in  Rahmen  der  Weltgeschichte.     Tu-
-bingen.    1911.
+Israel,  seine  Entwichelung  in  Rahmen  der  Weltgeschichte.     Tubingen.    1911.
 
 Loisy,  A.,  Les  Mythes  Babyloniens  et  les  Premiers  Chapitres  de  la
 Genese.    Paris.     1901.
@@ -777,8 +757,7 @@ Maspero,  G.,  The  Passing  of  the  Empires.     New  York.     1900.
 Meissner,  Bruno,  and  Rost,  Paul,  Die  Baninschriften  Sanheribs.
 Leipzig.     1893.
 
-Messerschmidt,  Leopold,  Keilschrifttexte  aus  Assur,  historischen  In-
-kalts.     Heft  1.     Leipzig.     1911.
+Messerschmidt,  Leopold,  Keilschrifttexte  aus  Assur,  historischen  Inkalts.     Heft  1.     Leipzig.     1911.
 
 Meyer,    Eduard,    Geschichte  des    Altertums,  2te  Auflage.     Band  I,
 1  and  2.     Stuttgart.     1907,  1909.
@@ -814,8 +793,7 @@ New  York.     1901.
 
 LIST  OF  BOOKS  QUOTED  OR  MENTIONED       xv
 
-Peiser,  Felix,  Studien  zur   orientalischen  Altertumskunde  (Mitthei-
-lungen  der  Vorderasiatischen  Gesellschaft  No.  6).     Leipzig.    1898.
+Peiser,  Felix,  Studien  zur   orientalischen  Altertumskunde  (Mittheilungen  der  Vorderasiatischen  Gesellschaft  No.  6).     Leipzig.    1898.
 Perry,  E.  G.,  Hymnen  und  Gebete  an  Sin.     Leipzig.     1907.
 Pognon,  H.,  Les  inscriptions  babyhniennes  du  Wadi  Brissa.     Paris.
 
@@ -831,8 +809,7 @@ Riggenbach,  C.  J.,  und  Orelli,  Conrad  von,  Des  Flavius  Josephus
 Schrift  gegen  Apion.     Basel.     1877.
 Rogers,  Robert  W.,  History  of  Babylonia  and  Assyria.     Two  Vols.
 New  York.     1900.
-The  Religion  of  Babylonia  and  Assyria,  especially  in  its  Rela-
-tions to  Israel.     New  York.     1908.
+The  Religion  of  Babylonia  and  Assyria,  especially  in  its  Relations to  Israel.     New  York.     1908.
 Roscher,    Lexicon    der    Griechischen    und    Romischen    Mythologie.
 
 Strassburg.
@@ -889,8 +866,7 @@ Weissbach,  F.  H.,  Babylonische  Miszellen.     Leipzig.     1903.
 Die  Inschriften  Nebukadnezars  II,  im   Wadi  Brissa  und  am
 Nahr  el-Kelb.     Leipzig.     1906.
 
-Die  Keilinschriften  der  Achdmeniden  (Vorderasiatische  Biblio-
-thek).     Leipzig.     1911.
+Die  Keilinschriften  der  Achdmeniden  (Vorderasiatische  Bibliothek).     Leipzig.     1911.
 Whiston,    W.,   Josephus,   translation   revised   by   A.    R.   Shilleto.
 
 London.     1889,  1890.
@@ -901,8 +877,7 @@ Altorientalische  Forschungen.     Leipzig.     1894n\
 Die  Gesetze  Hammurabis  (Der  alte  Orient.      Band  IV) .    Leipzig.
 1906.
 
-Die  Gesetze  Hammurabis  in  Umschrift  und  Uebersetzung.     Leip-
-zig.    1904.
+Die  Gesetze  Hammurabis  in  Umschrift  und  Uebersetzung.     Leipzig.    1904.
 
 Vorderasiatische  Geschichte.     Leipzig.     1905.
 Keilinschnflliches    Textbuch    zum    Allen    Testament.     Leipzig.
@@ -933,18 +908,14 @@ XI//I
 PREFACE
 
 
-Early  in  the  history  of  Assyriology  Professor  Eber-
-hard  Schrader,  of  Berlin,  published  his  Keilinschriften
+Early  in  the  history  of  Assyriology  Professor  Eberhard  Schrader,  of  Berlin,  published  his  Keilinschriften
 und  das  Alte  Testament  (Giessen,  1872),  which  appeared
-in  a  second  edition  rewritten  and  doubled  in  size  (Gies-
-sen, 1883),  and  was  then  translated  into  English  by  the
+in  a  second  edition  rewritten  and  doubled  in  size  (Giessen, 1883),  and  was  then  translated  into  English  by  the
 Rev.  Owen  C.  Whitehouse  (London,  1885).  In  this
 great  book  the  Assyrian  and  Babylonian  inscription
-material  illustrative  of  the  Old  Testament  was  col-
-lected under  the  biblical  passages  in  transliteration  and
+material  illustrative  of  the  Old  Testament  was  collected under  the  biblical  passages  in  transliteration  and
 translation.  In  German  or  in  English  dress  this  book
-went  everywhere,  every  student  of  Hebrew  or  of  Assy-
-rian consulted  it,  every  Old  Testament  commentator
+went  everywhere,  every  student  of  Hebrew  or  of  Assyrian consulted  it,  every  Old  Testament  commentator
 quoted  from  it  or  made  reference  to  it;  its  influence
 was  incalculable.  The  rapid  progress  of  exploration,
 decipherment,  and  explanation  soon  left  it  antiquated,
@@ -956,13 +927,10 @@ crowded  with  matter  of  high  importance,  suggestive,
 brilliant,  instructive,  the  original  texts,  as  Schrader
 had  given  them,  were  omitted  and  their  place  supplied
 by  elaborate  discussion  of  all  the  questions  involved.
-The  loss  of  the  inscription  material  was  partially  sup-
-plied by  the  exceedingly  useful  Keilinschriftliches  Text-
-buck  zum  Alten  Testament  by  Professor  Winckler  (Leip-
-zig, first  edition,  1892;  second,  1903:  third,  1909),  which
+The  loss  of  the  inscription  material  was  partially  supplied by  the  exceedingly  useful  Keilinschriftliches  Text-
+buck  zum  Alten  Testament  by  Professor  Winckler  (Leipzig, first  edition,  1892;  second,  1903:  third,  1909),  which
 gave  in  transliteration  and  translation  the  important
-historical  and  mythological  texts  necessary  to  the  un-
-ling  of  the  Old  Testament.
+historical  and  mythological  texts  necessary  to  the  unling  of  the  Old  Testament.
 
 \\  ii
 
@@ -972,8 +940,7 @@ xviii  PREFACE
 Shortly  after  the  publication  of  the  third  edition  of
 Schrader's  book  I  began  the  collection  and  translation
 of  inscriptions  with  the  purpose  of  supplying  to  English
-readers  a  complete  Corpus  of  all  the  Assyrian,  Baby-
-lonian, and  Persian  inscriptions  which  are  parallel  to
+readers  a  complete  Corpus  of  all  the  Assyrian,  Babylonian, and  Persian  inscriptions  which  are  parallel  to
 or  illustrative  of  the  Old  Testament.  I  had  then  no
 idea  that  it  would  grow  to  so  great  a  size,  or  that  its
 preparation  would  occupy  so  long  a  series  of  years,  or
@@ -983,8 +950,7 @@ task  which  has  taxed  my  energies  during  many  an
 hour  between  lectures,  and  absorbed  nearly  all  my
 summer  holidays  since  it  began.  It  has,  indeed,  cost
 so  much  that  my  early  hopes  and  enthusiasm  for  it
-have  slipped  away,  and,  like  Johnson  with  his  Dic-
-tionary, "I  therefore  dismiss  it  with  frigid  tranquillity,
+have  slipped  away,  and,  like  Johnson  with  his  Dictionary, "I  therefore  dismiss  it  with  frigid  tranquillity,
 having  little  to  fear  or  hope  from  censure  or  from
 praise."
 
@@ -997,11 +963,9 @@ its  specialists.  For  the  thoroughness  and  skill  with
 which  this  fundamental  task  has  been  done  I  can  only
 claim  to  have  spent  many  years  upon  the  historical
 and  chronological  texts  as  a  specialty,  and  to  have
-worked  diligently  and  independently  and  sought  care-
-fully to  know  all  that  my  colleagues  have  produced  on
+worked  diligently  and  independently  and  sought  carefully to  know  all  that  my  colleagues  have  produced  on
 the  other  fields.  I  hope  that  the  translations  represent
-fairly  well  the  present  state  of  the  science  of  Assyriol-
-ogy,  and  I  have  confidence  that  experts  will  find  not  a
+fairly  well  the  present  state  of  the  science  of  Assyriology,  and  I  have  confidence  that  experts  will  find  not  a
 few  cases  in  which  progress  has  been  made  beyond
 previous   editions   of   others.     The   transcriptions   are
 
@@ -1013,8 +977,7 @@ without  immediate  recourse  to  the  widely  scattered
 original  texts.  They  will  be  useful,  not  only  to  those
 who  have  actually  studied  Assyrian,  but  almost  equally
 to  those  who  know  Hebrew  or  other  Semitic  languages.
-There  are,  I  fear,  some  uneven  places  in  the  translitera-
-tion, ever  a  pitfall  in  all  languages,  but  they  will
+There  are,  I  fear,  some  uneven  places  in  the  transliteration, ever  a  pitfall  in  all  languages,  but  they  will
 probably  serve  sufficiently  their  practical  purpose.  The
 introductions,  especially  those  which  deal  with  the
 historical  sections,  are  intended  to  enable  the  ordinary
@@ -1027,12 +990,10 @@ The  purpose  of  the  book  was,  however,  very  different.
 My  idea  was  to  supply  the  materials  and  let  the  student
 exercise  his  own  judgment  upon  them.  It  would  be  a
 most  useful  reformation  in  much  of  our  academic,  and
-even  of  our  graduate  teaching,  if  our  pupils  were  com-
-pelled to  do  a  little  more  for  themselves.  Here,  assem-
+even  of  our  graduate  teaching,  if  our  pupils  were  compelled to  do  a  little  more  for  themselves.  Here,  assem-
 bled in  one  book,  are  the  texts,  here  the  absolutely
 necessary  fundamental  materials  for  the  understanding
-of  their  bearing,  and  here  also  references  to  the  publi-
-cations of  the  original  cuneiform  texts,  and  to  the  most
+of  their  bearing,  and  here  also  references  to  the  publications of  the  original  cuneiform  texts,  and  to  the  most
 important  discussions  already  held  concerning  them.  I
 venture  to  hope  that  professors,  teachers,  and  preachers
 who  wish  to  lecture  upon  the  manifold  relations  be-
@@ -1073,10 +1034,8 @@ in  translations  and  in  transcriptions.  I  may  surely
 anticipate  the  discovery  by  others  of  many  mistakes  of
 my  own.  But,  as  Johnson  said  (it  is  surely  time  to
 quote  him  again),  "I  soon  found  that  it  is  too  late  to
-look  for  instruments,  when  the  work  calls  for  execu-
-tion, and  that  whatever  abilities  I  had  brought  to  my
-task,  with  those  I  must  finally  perform  it.  To  de-
-liberate whenever  I  doubted,  to  inquire  whenever  I
+look  for  instruments,  when  the  work  calls  for  execution, and  that  whatever  abilities  I  had  brought  to  my
+task,  with  those  I  must  finally  perform  it.  To  deliberate whenever  I  doubted,  to  inquire  whenever  I
 was  ignorant,  would  have  protracted  the  undertaking
 without  end,  and,  perhaps,  without  much  improvement;
 for  I  did  not  find  by  my  first  experiments  that  what  I
@@ -1092,8 +1051,7 @@ PREFACE
 xxi
 
 
-that  thus  to  pursue  perfection  was,  like  the  first  inhabi-
-tants of  Arcadia,  to  chase  the  sun,  which,  when  they
+that  thus  to  pursue  perfection  was,  like  the  first  inhabitants of  Arcadia,  to  chase  the  sun,  which,  when  they
 had  reached  the  hill  where  he  seemed  to  rest,  was  still
 beheld  at  the  same  distance  from  them.,,
 
@@ -1102,8 +1060,7 @@ been  published  in  this  field  before  me  are  acknowledged
 with  almost  meticulous  scrupulousness  on  every  page.
 I  have  been  so  fearful  of  robbing  somebody's  treasure
 that  I  have  printed  references  of  acknowledgment  in
-many  cases  where  I  had  already  reached  the  same  con-
-clusion long  before.  If  I  have  overlooked  anyone  in
+many  cases  where  I  had  already  reached  the  same  conclusion long  before.  If  I  have  overlooked  anyone  in
 this  distribution  of  footnote  compliments,  here's  an
 apology  to  him,  and  a  letter  will  follow  as  soon  as  my
 attention  is  drawn  to  the  matter.
@@ -1111,16 +1068,14 @@ attention  is  drawn  to  the  matter.
 The  book  was  practically  completed  long  ago,  and  its
 publication  delayed  by  the  absurd  demands  made  upon
 American  scholars  by  the  machinery  amid  which  many
-of  them  are  compelled  to  sacrifice  their  larger  useful-
-ness. The  delay  has,  however,  permitted  me  to  com-
+of  them  are  compelled  to  sacrifice  their  larger  usefulness. The  delay  has,  however,  permitted  me  to  com-
 pare my  translations  with  the  admirable  work  of
 Professor  Arthur  Ungnad  in  Gressmann's  Altorientalische
 Texte  und  Bilder,  to  my  profit  in  many  cases  and  to  my
 comfort  in  all.  I  am  under  special  obligations  also
 to  Professor  Ungnad's  treatment  of  the  Hammurapi
 code  in  his  joint  work  with  Professor  Kohler.  I  doubt
-whether  this  work  of  his  has  yet  found  adequate  ap-
-preciation at  the  hands  of  other  scholars.  I  have
+whether  this  work  of  his  has  yet  found  adequate  appreciation at  the  hands  of  other  scholars.  I  have
 adopted  so  many  suggestions  from  him  that  it  seemed
 impossible  to  acknowledge  every  one  of  them  in  foot
 not*
@@ -1149,7 +1104,6 @@ MYTHOLOGICAL  TEXTS
 
 I.  THE  CREATION
 
-1.  THE  STORY  OF  CREATION1
 When  above  the  heaven  was  not  named,
 And  beneath  the  earth  bore  no  name,
 And  the  primeval  Apsu,  who  begat  them
@@ -1199,10 +1153,6 @@ ilx-ha-nu-u-nia  ilani  ki-rifb]  [3a-ma-mi2]
 
 *  King's  restoration,  ngnad,  but  with  n  qui
 
-3
-
-
-[  CUNEIFORM  PARALLELS
 
 Anshar  and  Kishar  were  created,  and  over  them  .  .  .
 
@@ -1284,8 +1234,6 @@ al-kam-ma  si-ri-iS  Ti-amat  i-ni-[il-li-ik]
 Some  copies  read  num.
 
 
-THE  STORY  OF  CREATION  5
-
 They  went  and  before  Tiamat  they  lay  down,
 
 They  consulted  on  a  plan  concerning  the  gods,  their
@@ -1349,8 +1297,6 @@ I  from  the  '  71
 
 71.
 
-
-6  CUNEIFORM  PARALLELS
 
 Apsu  hearkened  to  him  and  his  face  brightened
 The  evil  designs  which  he  had  conceived  against  the
@@ -1423,7 +1369,6 @@ na]m
 ]  (ilu)  A-num
 
 
-THE  STORY  OF  CREATION  7
 an  avenger.
 
 he  shall  confound  Tiamat
@@ -1490,21 +1435,12 @@ M
 95  ;
 
 
-100
-
-
-106
-
-
 .1  £i-mil-l:i-su-nu  tir-ri-f.     .     .]
 .]  :i-n:i  z:i-ki-ku  §U-uk-{.      .      .]
 i -t mil  i-ln  c*l-[lii]
 
 
 s
-
-
-CUNEIFORM  PARALLELS
 
 
 .     .     .    thou  shalt  give;  let  us  make  [war]!"
@@ -1546,15 +1482,6 @@ Lakhamu,
 [And  hurricanes],  and  furious  dogs,  anil  scorpion  men
 
 
-110
-
-
-115
-
-
-120
-
-
 .     .     .]  lu-ta-ad-di-nu  i  ni-pu-u3  [.
 ilani  ki-rib  [.     .     .]
 an  ilani  ba-ni-[.     .     •]
@@ -1573,8 +1500,6 @@ zu]-mur-§u-nu  li§-tab-bJ-dam-ma  la  i-ni-'-u  [i-rat-su-un]
 u§-ziz]  ba-a§-mu  sir-ru§  u  (ilu)  [La-lja-mu]
 upall]e  ur-be  akrab-am[elu]
 
-
-THE  STORY  OF  CREATION  9
 
 And  mighty  [tempests],  and  fish  men  and  [rams];
 They  bore  pitiless  weapons,  without  fear  of  the  fight.
@@ -1627,15 +1552,12 @@ li-kut  il.'mi  girn-r.i-at-su-nu  ka-tiis-[su  us-mal-li]
 
 135  h]  inr  hft  tflmn  h.i-'-i-ri  c-dn-u  at-ta
 
-li-ir-tab-bn   u   zik-ru-ka   <-Ii   kali-fsu-nu     .     .     .     (ilu)   A-nun-
-na-ki]
+li-ir-tab-bn   u   zik-ru-ka   <-Ii   kali-fsu-nu     .     .     .     (ilu)   A-nunna-ki]
 lin-su-nia  dup.^imati  i-ra-[tn-usl  n-sat-mi-ijj
 ka-ta  kibit-ka  la  in-nin-n:i-a  l[i-kun  si-it  pi-i-ka]
 
 .-na  (ilnj  I  uS-ku-ii  li-k'u-n  [(ilu)  A-nu-ti]
 
-
-10  CUNEIFORM  PARALLELS
 
 140  He    decreed    destiny    among    the    gods    his    sons,
 (saying:)
@@ -1649,8 +1571,7 @@ THE    SECOND    TABLET
 Tiamat  made  strong  her  handiwork,
 Evil  she  devised  among  the  gods  her  children.
 [To  avenge]  Apsu,  Tiamat  planned  evil
-As  she  had  collected  her  [army,  against]  Ea  she  mar-
-shalled them.
+As  she  had  collected  her  [army,  against]  Ea  she  marshalled them.
 5  Ea  [listened]  to  this  word  and
 
 He  was  [sadly]  afflicted  and  sat  in  sorrow.
@@ -1691,13 +1612,8 @@ is]-5u-ru-§im-ma  ilani  gi-mi-ir-§u-un
 andi]  5a  at-tu-nu  tab-na-a  i-da-a-§a  al-ka
 
 
-10
-
-
 1  Variants  Bid-gi  and  Gis-bar.
 
-
-THE  STORY  OF  CREATION  11
 
 15  They    have    banded    together,    they    advance    at
 
@@ -1763,8 +1679,6 @@ gab-da  te-ri-tu-Sa  la  nia-har-ra  §i-na-ma
 a|>  |>u-na-rna  is-tcn  cs-rit  ki-ma  §u-a-ti  u5-tab-Si
 
 
-12  CUNEIFORM  PARALLELS
-
 Among  the  gods  who  were  her  first  born,  who  formed
 
 her  troop
@@ -1828,8 +1742,6 @@ rip-§u  pi-ku-nu]  (ilu)  Gibil  li-ni-ib-ba
 1  E-nu-uk-ki   for  Anunnaki.      Bezold,   Proceedings  of  the  Society   of
 Biblical  Archaeology,  xi,  March,  1889.
 
-
-THE  STORY  OF  CREATION  13
 
 The  strong  in  combat  shall  increase  his  strength*
 When   Anshar  heard   that   Tiamat   was   mightily  in
@@ -1905,8 +1817,6 @@ a-ma-t]u-ni  ll  mi)  iilli  mil  Si-i  lip-pa-a$-ba
 >rna  zik-ri  al>i
 
 
-14  CUNEIFORM  PARALLELS
-
 80  And  turned  his  path  to  her,  toward  her  he  made  his
 way,
 Anu  drew  nigh,  he  looked  into  the  opened  jaws  of
@@ -1971,8 +1881,6 @@ klit-ru-bi-iS  ti-bi-e-ma
 
 J  e-ma-ru-uk-ka  ni-i-b,u
 
-
-THE  STORY  OF  CREATION  15
 
 And  the  lord  rejoiced  at  his  father's  word,
 And  he  drew  nigh  and  stood  before  Anshar
@@ -2046,11 +1954,6 @@ ur-ha-ku]  ur-ni-l)i-i§  5u-tar-di-ma
 ib-<l]u-m[a  b]e-lum  a-na  a-mat  a-bi-Su
 
 
-125
-
-
-16  CUNEIFORM  PARALLELS
-
 His  heart  exulted  and  he  spoke  to  his  father:
 "O  lord  of  the  gods,  Destiny  of  the  great  gods,
 If  I,  your  avenger,
@@ -2119,8 +2022,6 @@ a§-na-an  li-k]  u-[l]u  lip-ti-ku  ku-ru-na
 [a-Uk  (ilu)  Ga-ga  kud-me-§u-nu  i-ziz-ma
 
 
-THE  STORY  OF  CREATION  17
-
 All  that  I  say  to  thee,  repeat  thou  to  them,  saying,
 Anshar,  your  son,  hath  sent  me,
 The  command  of  his  heart,  he  hath  made  me  to  know
@@ -2178,8 +2079,6 @@ nm  Iron  in  lis  um-t .ts-[silj
 
 a-mir-.s'.i-iri  sar-ba-l»a  li.s-jjar-[ini-inij
 
-
-18  CUNEIFORM  PARALLELS
 
 30  Their  bodies  rear  up  and  none  can  withstand  their
 
@@ -2242,11 +2141,8 @@ ad-d]i  ta-a-ka  ina  pubur  ilani  [u-§ar-bi-ka]
 ma]-li-ku-ut  ilani  gi-mir-[§u-nu  ka-tuk-ka  u§-mal-li]
 45    lu-u]  §ur-ba-ta-ma  ba-'-i-ri  e-du-[u  at-ta]
 
-i-ir-tab-bu-u  zik-ru-ka  eli  kalisu-n[u     .      .      .      (ilu)   A-nun-
-na-ki
+i-ir-tab-bu-u  zik-ru-ka  eli  kalisu-n[u     .      .      .      (ilu)   A-nunna-ki
 
-
-THE  STORY  OF  CREATION  19
 
 She  gave  him  the  tablets  of  destiny,  on  his  breast
 
@@ -2314,8 +2210,6 @@ la  ut-tak-kar  mim-mu-u  a-ban-nu-u  a-na-ku
 ai  i-tur  ai  in-nin-na-a  se-kar  Sap-ti-ia
 
 
-20  CUNEIFORM  PARALLELS
-
 65  Hasten  therefore,  and  fix  quickly  your  destiny
 That  he  may  go  and  attack  your  strong  enemy !"
 Gaga  went,  he  made  his  way  and
@@ -2380,8 +2274,6 @@ Um-mu-Hu-bur  pa-ti-kat  ka-la-ma
 u§-rad-di  kakke  la  mab-ri  it-ta-lad  sirmabe
 
 
-THE  STORY  OF  CREATION  21
-
 Sharp  of  tooth,  merciless  in  carnage,
 With  poison  instead  of  blood,  she  filled  their  bodies.
 So  Terrible  dragons  she  clothed  with  terror,
@@ -2439,8 +2331,6 @@ a-li-ku-ut  malj-ri  pa-:m  urn-nia-ui  mu-ir-ru-ut  pu^ri
 is  kakkr  ti-is-bu-tu  tr-bu-u  a-na-an-tu
 Su-ud  tani-ha-ri  ra-ab  sik-ka-tu-ti
 
-
-22  CUNEIFORM  PARALLELS
 
 100  She  entrusted  to  him,  in  costly  raiment  she  made
 
@@ -2507,8 +2397,6 @@ ma-^a-riS  Ti-amat  li[b-ba-§u  a-ra  ub-la]
 
 sum-ma-ma  a-na-ku  [mu-tir  gi-mil-li-ku-un]
 
-
-THE  STORY  OF  CREATION  23
 
 Do  enchain  Tiamat  and  give  you  life
 
@@ -2586,8 +2474,6 @@ aS-na-an  i-ku-Iu  ip-ti-ku  Jku-ru-na]
 fii-ik-ru  ina  Sa-te-e  ba-l)a-su  zu-um-[ri]
 
 
-24  CUNEIFORM  PARALLELS
-
 They  shouted  aloud,  their  heart  was  exalted,
 Then  for  Marduk,  their  avenger,  did  they  decree
 destiny.
@@ -2619,8 +2505,7 @@ thy  command,
 Maintenance   is    the   desire  of  the    shrines    of   the
 gods,
 
-In   their  sanctuary   shall    thy   sanctuary   be  estab-
-lished.
+In   their  sanctuary   shall    thy   sanctuary   be  established.
 
 O  Marduk,  thou  art  our  avenger.
 
@@ -2647,8 +2532,6 @@ a-§ar  sa-gi-§u-nu  lu-u  ku-un  a^-ru-uk-ka
 (ilu)  Marduk  at-ta-ma  mu-tir-ru  gi-mil-li-ni
 ni-id-din-ka  §ar-ru-tum  ki§-§at  kal  gim-ri-e-ti
 
-
-THE  STORY  OF  CREATION  25
 
 15  Thou  shalt  take  thy  seat  in  the  assembly,  thy  word
 
@@ -2714,8 +2597,6 @@ ib-<lv)-u  ik-ru-bu  (ilu)  Marduk-ma  Sar-ru
 
 u-'.  i  fjfUj  li;t|ta  (isu)  kussii  u  pala(a)
 
-
-16  CUNEIFORM  PARALLELS
 
 30  They  gave  him  an  invincible  weapon,  which  destroys
 
@@ -2783,8 +2664,6 @@ sar  arba'i  §ar  sibi  Sara  esa  sara  la  §anan
 
 u-se-sa-am-ma  sara  sa  il>nu-u  si-bit-ti-§u-un
 
-
-THE  STORY  OF  CREATION  27
 
 To  disturb  the  inner  parts  of  Tiamat,  they  followed
 after  him.
@@ -2860,11 +2739,8 @@ ilani  abe-§u  i-tul-hi-5u  ilAni  i-tul-lu-5u
 5a  (ilu)  Kin-Kvi  lja-'-ri-§a  i-§e-'-a  rae-ki-Su
 
 
-28  CUNEIFORM  PARALLELS
-
 As  he  gazed,  he  was  troubled  in  his  motions,
-His  resolution  was  destroyed,  his  action  was  dis-
-ordered,
+His  resolution  was  destroyed,  his  action  was  disordered,
 And  the  gods,  his  helpers,  who  marched  by  his  side,
 70  Beheld     their     leader's     .     .     .     their    vision    was
 troubled.
@@ -2917,8 +2793,6 @@ abe-§u-nu  i-da-[.     •     •]
 lim-n]i-e-ti  te-§e-'-e-ma
 iljani  abe  (e)-a  li-mut-ta-ki  tuk-tin-ni
 
-
-THE  STORY  OF  CREATION  29
 
 85  When  thou  hast  prepared  thy  army,  hast  girded  on
 
@@ -2987,8 +2861,6 @@ lk  tnul-niul-la  ilj-tr-pi  ka-ra^-sa
 kir-bi-sa  u-bat-ti-ka  u-sal-lit   lib-ba
 
 
-30  CUNEIFORM  PARALLELS
-
 He  made  her  powerless,  he  destroyed  her  life;
 
 He  cast  down  her  body  and  stood  upon  it.
@@ -3055,10 +2927,7 @@ u  (ilu)  Kin-gu  §a  ir-tab-bu-u  ina  [e-li]-§u-un
 120  ik-mi-§u-ma  it-ti  (ilu)  Dug-ga(-)e  §u-a  [.     .     .]  im-ni-5u
 
 
-THE  STORY  OF  CREATION  31
-
-He  took  from  him  the  tablets  of  Destiny,  which  be-
-longed not  to  him,
+He  took  from  him  the  tablets  of  Destiny,  which  belonged not  to  him,
 He  sealed  them  with  a  seal  and  laid  them  in  his  own
 
 breast.
@@ -3121,8 +2990,6 @@ sir  ku-j)u  ti-za-a-zn  i-l»arma-a  nik-la-a-ti
 
 ib-pi-6i-ma  ki-ma  nu-nu  mas-di-c  a-na  §ina-6u
 
-
-32  CUNEIFORM  PARALLELS
 
 One  half  of  her  he  established  as  a  covering  for  heaven.
 He  fixed  a  bolt,  he  stationed  a  watchman,
@@ -3187,8 +3054,6 @@ XII  arhe  kakkabani  III  ta-a-an  lis-zi-iz
 u-§ar-§id  man-za-az  (iiu)  Ni-bi-ri  ana  ud-du-u  rik-si-Su-un
 
 
-THE  STORY  OF  CREATION  33
-
 That  none  might  err  or  go  astray
 
 He  set  the  station  of  Bel  and  Ea  by  his  side.
@@ -3199,8 +3064,7 @@ right.
 
 In  the  midst  thereof  he  fixed  the  zenith;
 
-The  Moon-god  he  caused  to  shine  forth,  to  him  con-
-fided the  night.
+The  Moon-god  he  caused  to  shine  forth,  to  him  confided the  night.
 
 He  appointed  him,  a  being  of  the  night,  to  determine
 the  days;
@@ -3212,8 +3076,7 @@ on  the  land
 
 Thou  shalt  show  the  horns,  to  determine  six  days,
 
-And    on    the    seventh    day   let    the    tiara    disap-
-pear.
+And    on    the    seventh    day   let    the    tiara    disappear.
 
 On  the  fourteenth  day  thou  shalt  stand  opposite  the
 half     .     .     .
@@ -3247,8 +3110,6 @@ e-nju-ma  (ill,  na  i-fid  sanu'-io)  f.     .     .]-ka
 [ma]
 
 
-34  CUNEIFORM  PARALLELS
-
 And  on  the    .     .     .     day  thou  shalt  stand  opposite,
 and  the  Sun-god  shall
 
@@ -3266,7 +3127,6 @@ British  Museum  K.  3449a,  which  are  supposed  to
 form  part  of  the  fifth  tablet.  The  numeration
 here  followed  is  King's,  though  it  is  necessarily
 uncertain.]
-66
 
 From     .     .     .
 
@@ -3285,8 +3145,7 @@ made,
 
 They  beheld  the  bow,  that  it  was  skilfully  made.
 
-[ina  umi     .     .     .]  kan  lu  su-tam-fcu-rat   (ilu)   &ama§  lu  §a-
-na-[.     .     .]
+[ina  umi     .     .     .]  kan  lu  su-tam-fcu-rat   (ilu)   &ama§  lu  §ana-[.     .     .]
 
 [ ]-§i-um  ba-'-i  u-ru-ujj-§a
 
@@ -3320,8 +3179,6 @@ im-Jjur-ma  [.     .     .]
 i-mu-ru-ma  (isu)  ka§ta  ki-i  nu-uk-ku-lat  [ip-§it-sa]
 
 
-THE  STORY  OF  CREATION  35
-
 The  work  which  he  had  done  they  praised.
 Then  Anu  arose  in  the  assembly  of  the  gods     .     .     .
 He  kissed  the  bow,  saying,  It  is     .     .     .
@@ -3338,7 +3195,6 @@ After  the  destiny  of     .     .     .
 
 in  heaven     .     .     .
 
-87
 
 [The  following  words,  which  conclude  the  Fifth
 Tablet,  are  taken  from  the  reverse  of  K.  11641,
@@ -3369,10 +3225,6 @@ U-kin-ma  pi-is-gal-la-sa  [.     .     .]
 ul-tu  &i-ma-a-ti  sa  [.     .     .]
 
 
-85
-87
-
-
 irl-d]i-ma  isu  kussa  [.     .     .]
 
 .     .     .     .     .]  ina  8am6  [e     .     .     .]
@@ -3395,8 +3247,6 @@ irl-d]i-ma  isu  kussa  [.     .     .]
 illani  i-k:ih-hu  [-u]
 .]  sam<*(V)  [.     .     .]
 
-
-36  CUNEIFORM  PARALLELS
 
 135 your  son     .     .     .
 
@@ -3461,8 +3311,6 @@ lu-u  en-du  dul-lu  ilani-ma  su-nu  lu-u  pa-pa-Qju     .     .
 lu-sa-an-ni-ma  al-ka-ka-ti  ilani  lu-nak-ki-fir     .     .     .]
 10  i§-te-ni§  lu  kub-bu-tu-ma  a-na  lim-na  lu-u  [.     .     .]
 
-
-THE  STORY  OF  CREATION  37
 
 And  Ea  answered  him  and  spoke  the  word:
 
@@ -3529,8 +3377,6 @@ i-mri  ina  puljri-su-nu  i-nam-lm-[.     .     •]
 [.     .     .]-h\i  na-gab-su-nu  u-zak-k[a-ru-S'i     .     .     .]
 
 
-38  CUNEIFORM  PARALLELS
-
 THE    SEVENTH    TABLET
 
 O    Asari,    Bestower    of    fruitfulness,    Founder    of
@@ -3596,8 +3442,6 @@ ma-am-man  ina  ilani  §u-a-Iu  la  um-[mas-§a-lu]
 sa  u-kin-nu  an  ilani  same  (e)  el-lu-ti
 
 
-THE  STORY  OF  CREATION  39
-
 Their  way  he  appointed,  their  path  he  ordained.
 Never  shall  his     .     .     .     deeds  be  forgotten  among
 
@@ -3658,8 +3502,6 @@ li-ku-na-nui  ni  im-ma-5a-a  a-ma-tu-Su
 ina  pi-i  sal-mat  kakka^hi  §a  il>-iKi-a  ka-ta-a-Su
 
 
-40  CUNEIFORM  PARALLELS
-
 Tutu  as  Mu-azag,  fifthly,  his  pure  Incantation  may
 
 their  mouth  pronounce,
@@ -3681,8 +3523,7 @@ Who  put  their  plans  to  confusion,     .     .     .
 let  them     .     .     .
 
 [The  following  lines  were  taken  by  King  from  the
-British  Museum  fragment  K.  12830.     They  be-
-long to  this  tablet,  but  it  is  quite   uncertain
+British  Museum  fragment  K.  12830.     They  belong to  this  tablet,  but  it  is  quite   uncertain
 where  they  should  be  inserted:]
 1  He  named  the  four  quarters  of  the  earth,  mankind  hi
 created.
@@ -3719,12 +3560,9 @@ mu-[sap]-pi-ib  [kilp-di-§u-nu  [.     .     .]
 [e-li  sa]-a-§u  te-[e-mu     .     .     .']
 
 
-THE  STORY  OF  CREATION  41
-
 [The  following  lines  are  taken  by  King  from
 K.  13761:]
 
-10
 
 The  mighty  one     .     .     .
 
@@ -3792,8 +3630,6 @@ J-bar  l:i  has-su  (ilu)  Ungal-dul-azag«^a
 
 J  su-ka-a  e-mu-1
 
-
-42  CUNEIFORM  PARALLELS
 
 their    ...    in  the  midst  of  Tiamat
 
@@ -3864,8 +3700,6 @@ ma-a  §a  abe^-§u  u-sar-ri-Jju  zik-ru-u-§u
 ri-kis  par-si-ia  ka-li-§u-nu  li-bil-ma
 
 
-THE  STORY  OF  CREATION  43
-
 The  whole  of  my  commands  shall  he  pronounce!"
 
 By  the  name  of  Fifty  did  the  great  gods
@@ -3887,8 +3721,7 @@ Let  man  rejoice  in  Marduk,  the  lord  of  the  gods,
 130  That  he  may  make  his  land  fertile,  and  that  he  may
 have  prosperity.
 
-His  word  is  established,  his  command  is  unchange-
-able,
+His  word  is  established,  his  command  is  unchangeable,
 
 The  word  of  his  mouth,  no  god  hath  annulled.
 
@@ -3938,8 +3771,6 @@ f 1  tur  [.     .     .]-kan  a-na  to-[.     •     •]
 
 [ ]-at  (ilu)  Marduk  lu-u  ilani  [.     .     .]
 
-
-44  CUNEIFORM  PARALLELS
 
 140  May  they     .     .     .     his  name     .     .     .
 they  took  and     .     .     .
@@ -4017,8 +3848,7 @@ sacrifices  in  the  hand.
 
 1  A  form  of  Ea.  Ea  is  here  creator  of  men,  who  are  formed  out  of
 clay.  In  the  same  way  Aruru  made  Engidu  in  the  Gilgamesh  epic
-(col.  ii,  line  34),  see  p.  82.  These  form  interesting  parallels  to  the  ac-
-count in  J,  Gen.  2.  7.
+(col.  ii,  line  34),  see  p.  82.  These  form  interesting  parallels  to  the  account in  J,  Gen.  2.  7.
 
 2  The  names  of  these  gods  are  written  in  Sumerian,  which  are  here
 literally  translated.
@@ -4053,8 +3883,6 @@ ib-ni  (ilu)  As-na-an  (ilu)  La-bar   (ilu)   Siri  (ilu)  nin-gis-zi-da
 35  ib-ni  (ilu)  r-Mr-T\-.\- w     .     .     .     (ilu)  u-mu-ta-a-an     .     .     .
 mu-kil  nin-<la-[l)i-e?]
 
-
-46  CUNEIFORM  PARALLELS
 
 He  created  Azag-suga,  the  high  priest  of  the  great
 gods,  to  complete  the  commands  and  ordinances,
@@ -4178,16 +4006,13 @@ pp.  83ff.;  Winckler,  KrUinschriftlichrs  Textbuch  mem  AUen
 der,l,  pp.  27,  28.
 
 
-48  CUNEIFORM  PARALLELS
-
 The  holy  house,  the  house  of  the  gods,  in  the  holy
 
 place  had  not  j'et  been  made ;
 No  reed  had  sprung  up,  no  tree  had  been  created.
 No  brick  had  been  laid,  no  mould  had  been  fashioned,
 No  house  had  been  made,  no  city  had  been  built;
-5  No  city  had  been  made,  no  creature  had  been  estab-
-lished.
+5  No  city  had  been  made,  no  creature  had  been  established.
 Nippur  had  not  been  made,  E-kur  had  not  been
 
 built;
@@ -4250,8 +4075,7 @@ alu  el-lum  §u-bat  tu-ub  lib-bi-§u-nu  si-ri§  im-bu-u
 BILINGUAL  OF  CREATION  49
 
 Marduk  laid  a  reed-work1  upon  the  face  of  the  waters,
-He  formed  dust  and  poured  it  out  upon  the  reed-
-work.
+He  formed  dust  and  poured  it  out  upon  the  reedwork.
 To  cause  the  gods  to  dwell  in  a  habitation  of  their
 
 heart's  desire,
@@ -4314,8 +4138,6 @@ lum  (ilu)  Marduk  ina  pi-at  tam-tim  tam-la-a  u-mal-li
 [.     .     .]  a-pa  na-ma-la  is-ku-un
 
 
-50  CUNEIFORM  PARALLELS
-
 he  caused  to  exist.
 
 Reeds  he  created,  trees  he  created;
@@ -4331,12 +4153,6 @@ Nippur  he  made,  E-kur  he  built;
 [The  remainder  of  the  obverse  and  the  beginning  of
 the  reverse  of  the  tablet  are  wanting.  The  latter
 part  of  the  reverse  contains  an  incantation.]
-
-
-35
-
-
-40
 
 
 .     .     .     .]  u§-tab-ii
@@ -4422,9 +4238,6 @@ ultu  [.     .     .1  a-na  §ik-na-at  na-pik-ti  [.     .     .]
 .     .     pu-u]b-ri  nam-ma§-ti  gi-mir  nab-ni-ti  [.
 
 
-10
-
-
 .]  6a  i-na  pu-ujj-ri  kim-ti-ia  §[e-
 Ni
 
@@ -4442,8 +4255,6 @@ un7]
 
 5  Bo  Jmmmx
 
-
-52  CUNEIFORM  PARALLELS
 
 7.  AN  INCANTATION  AGAINST  TOOTHACHE1
 This  text  is  here  given,  though  it  belongs  properly
@@ -4556,18 +4367,14 @@ i-na  eli  si-in-ni-su  tasakkan(an)
 
 8.  THE  ASSYRIAN  COSMOLOGY
 
-The  cosmology  of  the  Assyrians  is  rooted  in  the  cos-
-mology of  the  Babylonians,  and  developed  quite  nat-
+The  cosmology  of  the  Assyrians  is  rooted  in  the  cosmology of  the  Babylonians,  and  developed  quite  nat-
 after  the  separation  of  the  two  peoples  began.
-nyria  the  chief  ggg]  <,f  Babylon,  Marduk,  is  dis-
-d  and   the    national    god,  Aj§Jnjr,  takes  his  place
+nyria  the  chief  ggg]  <,f  Babylon,  Marduk,  is  disd  and   the    national    god,  Aj§Jnjr,  takes  his  place
 Marduk    had   in   earlier  times   displaced   Kllil
 in  Babylonia.    The  oldest  form  of  the  name  of  Aflhur
 was  Ashir,   but    when   speculation   and  comparison  of
 the    older    literature    began    hfl    was    identified    with
 
-
-54  CUNEIFORM  PARALLELS
 
 Anshar  (Creation,  i,  line  12;  see  p.  4).  Unhappily,  no
 complete  Assyrian  cosmological  text  has  come  down  to
@@ -4719,8 +4526,6 @@ e-nu-ma  a-na     .      .      .
 ul-tu  u-me  at-ta     .     .     .
 
 
-56  CUNEIFORM  PARALLELS
-
 Everything  which  thou  hast  said     .     .     .
 
 Anshar  opened  his  mouth  and  spake,  to  the  gods  .  .  .
@@ -4752,8 +4557,7 @@ the  city  of  Asshur,  the  name  of  which
 thou  hast  pronounced     .     .     .
 .     .     .     I  know  for  eternity     .     .     .
 
-40  .     .     .     Whatever  our  work  which  we  have  fash-
-ioned    .     .     .
+40  .     .     .     Whatever  our  work  which  we  have  fashioned    .     .     .
 The  place     .     .     .
 
 mim-mu-u  at-ta  ta-kab-bu     .     .     .
@@ -4828,8 +4632,7 @@ The  length  of  his  days,  the  goodness  of  his  heart,
 
 the  stability  of  his  years  of  reign     .     .     .
 
-1  A  >mall  fragment,  in  British  Museum  5413A,  dedicated  by  Sennach-
-erib to  Ashur,  and  quite  instructive  as  showing  the  creative  position
+1  A  >mall  fragment,  in  British  Museum  5413A,  dedicated  by  Sennacherib to  Ashur,  and  quite  instructive  as  showing  the  creative  position
 claimed  for  Ashur  in  the  eighth  century.  The  text  is  published  by
 (T.iip,  Assyrian  and  Babylonian  Religious  Texts,  i,  83.  Translated  by
 Martin,  Tixtes  Religieux  Assyriens  et  Babyloniens,  i,  p.  312;  Jastrow,
@@ -4855,14 +4658,11 @@ Sar  (mat)  ASSur  (ki)  e-piS  sa-lam  (ilu)  ASsur  ilani  rabflti  a
 arak  ume-Su  tu-ub  lib-bi-fiu  kun  pale-[Su]     .     .     .
 
 
-58  CUNEIFORM  PARALLELS
-
 3.  An  Assyrian  Building  Inscription  with
 cosmological  material
 
 A  building  inscription1  of  Sennacherib  (705-681  B.  C.)
-contains  some  cosmological  references  which  supply  use-
-ful hints  concerning  the  development  of  the  faith  of
+contains  some  cosmological  references  which  supply  useful hints  concerning  the  development  of  the  faith  of
 Ashur.  The  text  describes  a  bronze  door  erected  by
 the  king  in  the  New  Year's  festival  house  at  Ashur  (Kal-
 'at  Shergat),  which  has  recently  been  discovered  and
@@ -4875,16 +4675,14 @@ Ashur,  when  he  went  to  battle  into  the  sea,s  (7)  as  he
 bore  the  bow,  while  he  drove  upon  the  chariot  and  let
 loose  the  storm  flood  (8)  and  a  representation  of  Amurru,
 who  drove  with  him  as  charioteer,  according  to  the
-command  of  Shamash  and  Adad  (9)  given  me  in  harus-
-pication4  (him)  I  graved  upon  that  door.  The  gods
+command  of  Shamash  and  Adad  (9)  given  me  in  haruspication4  (him)  I  graved  upon  that  door.  The  gods
 who  go.  before  him  (10)  and  go  behind  him,  who  drive
 in  chariots  and  go  afoot,  [also]  as  they  before  Ashur
 (11)  are  ordered  in  line  of  battle  and  behind  Ashur  are
 
 
 1  The  text  is  published  by  Meissner  and  Rost,  Die  Bauinschriften
-Sanheribs  (1893),  Plate  16,  and  translated  pp.  98ff.,  and  again  by  Zim-
-mern,  Zum  babylonischen  Neujahrsfest  (Berichte  der  koniglich  Sachsis-
+Sanheribs  (1893),  Plate  16,  and  translated  pp.  98ff.,  and  again  by  Zimmern,  Zum  babylonischen  Neujahrsfest  (Berichte  der  koniglich  Sachsis-
 chen  Gesellschaft  der  Wissenschaften,  1906),  Band  58,  pp.  126ff.,  and
 by  Ungnad  in  Gressmann,  i,  p.  29f.
 
@@ -4911,8 +4709,7 @@ ASSYRIAN  COSMOLOGY  59
 ordered  in  line  of  battle;  Tiamat,1  the  beings  within
 her,  among  which  came  Ashur,  the  king  of  the  gods
 (12)  to  battle,  I  graved  according  to  the  command  of
-Shamash  and  Adad,  upon  that  door.  (13)  The  remain-
-ing gods,  who  go  afoot,  according  to  the  command  of
+Shamash  and  Adad,  upon  that  door.  (13)  The  remaining gods,  who  go  afoot,  according  to  the  command  of
 Shamash  and  Adad  (14)  before  Ashur  binds  Tiamat;
 the  beasts  which  Tiamat1  bears,  (15)  to  death  given  over,
 therefore  run  hither  and  thither  afoot  (16)  (with)  their
@@ -4948,10 +4745,8 @@ sar  ilani  (12)  a-na  lib-bi-su  sal-ti  il-la-ku  a-na  e[li  p]i-i  sa  (ilu
 Samas  u  (ilu)  Adad  si-ir  abulli  sa-a-su  e-sir  (13)  si-it-ti  ilani  §a  ina
 sepa-su-nu  il-la-ku  ina  eli  pi-i  sa  (ilu)  Samas  u  (ilu)  Adad  (14)  a-di
 la-a  (ilu)  Assur  Ti-amat  i-kam-mu-u  u-ma-ma-a-nu  Sa  Ti-amat
-i-na-as-Sa-a  (15)  [ana  mu]-tu  i-nam-di-nu  ki-i  an-ni-i  ina  Sepa-Su-
-nu  i-du-ul-lu  (16)  [ina  ri]-it-te-su-nu  la  .  .  .  [ana  el[i]  pi-i  sa
-(ilu)  Samas  u  (ilu)  Adad  [sa  si-ir]  (Reverse)  (1)  [a-bul]-li  su-a-ti  as-
-tu-ru  [e-sir]  .  .  .  kaspi  burasi  siparri  se-er-tu  (2)  ul-ziz  u-nu-
+i-na-as-Sa-a  (15)  [ana  mu]-tu  i-nam-di-nu  ki-i  an-ni-i  ina  Sepa-Sunu  i-du-ul-lu  (16)  [ina  ri]-it-te-su-nu  la  .  .  .  [ana  el[i]  pi-i  sa
+(ilu)  Samas  u  (ilu)  Adad  [sa  si-ir]  (Reverse)  (1)  [a-bul]-li  su-a-ti  astu-ru  [e-sir]  .  .  .  kaspi  burasi  siparri  se-er-tu  (2)  ul-ziz  u-nu-
 tu  lain  hurasi  siparri  .  .  .  '  (10)  sa-lam  (ilu)  Assur  §a  a-na
 Ti-amat  sal-ti  illa-ku  salam  (ilu)  Sin-ah,e-erba  §ar  (mat)  Assur
 (11)  (ilu)  §ar-ur  (ilu)  (ilu)  Sar-gaz  Gaga  (ilu)  Nusku  (ilu)  Sulmanu
@@ -4960,10 +4755,7 @@ tti  an-nu-ti  ilani  6a  ina  mafcar  (ilu)  Assur  il-la-ku  (ilu)  Nin-lil
 (ilu)  §e-ru-'u-a  (ilu)  Sin  (ilu)   Nin-gal  (ilu)  Samas  (ilu)  Ai  (ilu)
 
 
-60  CUNEIFORM  PARALLELS
-
-(14)  Anu,  Antum,  Adad,  Shala,  Ea,  Damkina,  (15)  Belit-
-ilani,  Ninib;  these  are  the  gods,  who  go  behind  Ashur.
+(14)  Anu,  Antum,  Adad,  Shala,  Ea,  Damkina,  (15)  Belitilani,  Ninib;  these  are  the  gods,  who  go  behind  Ashur.
 [The  following  words  are  on  the  left  margin]
 
 (1)  The  victorious  Prince,  seated  upon  Ashur's  chariot.
@@ -5032,8 +4824,7 @@ the  dragon  three  hundred  or  three  hundred  and  fifty
 miles  long,  and  the  height  which  it  reared  the  head  out
 of  the  water  six  or  seven  miles.  (So  King.)  The  blood
 of  the  dragon  flowed  for  three  years  when  slain  (line  8,
-reverse),  which  seems  quite  consistent  with  this  esti-
-mate of  its  size.
+reverse),  which  seems  quite  consistent  with  this  estimate of  its  size.
 
 1The  ideogram  is  kas-ptt,  which  is  to  be  read  biru  as  Landsberger
 has  just  shown.     See  Zeitschrift  fur  Assyriologie,  xxv,  385,  3S6.
@@ -5055,8 +4846,7 @@ Chaos,  pp.   HTit'.;  Jensen,  Krilinsrhriftlichc  BMiothek,  vi,  1,  pp.  44f
 
 rderasiatischen  Gescllschaft,  1903,  p.  265;
 Das  Alte  Testament  iin  I.lrhtc  <hs  alien  Orients,  2te  Auf.,  pp.
-138,   139;  Weber,  LUeratur  der  Babjdonier  und  Assyrer,  pp.  63ff.     Com-
-pare also  DKM  QQffometh-Epo*  in  der  Weltlitcratur,   pp.   56ff.;
+138,   139;  Weber,  LUeratur  der  Babjdonier  und  Assyrer,  pp.  63ff.     Compare also  DKM  QQffometh-Epo*  in  der  Weltlitcratur,   pp.   56ff.;
 Gressmann,  AUorientaliscfn   Text*  und  Bilder,  i,  pp.  81
 
 m-hu  alani  nise  d[a     .     .     .]
@@ -5066,8 +4856,6 @@ ik-kil-li-si-n:i  ul  [._     .      .]
 I  rim-m.'i-ti-Ai-n.i  ul  i--:il>-[.      .      .]
 ■i-utu-m:i  siru  [.      .      .!
 
-
-62  CUNEIFORM  PARALLELS
 
 The  sea  had  [borne(?)     .     .     .]
 
@@ -5172,11 +4960,9 @@ They  lift  up  the  head  to  evil,  every  day  to  evil
 
 1  This  legend  forms  the  sixteenth  tablet  of  the  Evil-Demon  series.
 It  is  published  IV  R.,  2d  edition,  p.  5,  and  Cuneiform  Texts,  xvi,  pp.  19ff.
-i  ninslated  by  R.  C.  Thompson,  The  Devils  and  Evil  Spirits  of  Baby-
-lonia, i,  pp.  88ff.  See  further,  Winckler,  Altorientalische  Forschungen,
+i  ninslated  by  R.  C.  Thompson,  The  Devils  and  Evil  Spirits  of  Babylonia, i,  pp.  88ff.  See  further,  Winckler,  Altorientalische  Forschungen,
 iii,  pp.  58ff.;  Jastrow,  Die  Religion  Babyloniens  und  Assyriens,  i,  pp.  361ff. ;
-.hrcmias,  Das  Alte  Testament  im  Licht<  det  Alien  Orient*,  p.  Lu2f.,  Eng-
-lish Translation,  p.  Ill;  Ungnad  in  Gressmann,  Altorientalische  Texte
+.hrcmias,  Das  Alte  Testament  im  Licht<  det  Alien  Orient*,  p.  Lu2f.,  English Translation,  p.  Ill;  Ungnad  in  Gressmann,  Altorientalische  Texte
 und  Bilder,  i,  pp.  32ff.
 
 urn**  mut-lak-pu-tuin  ilfmi  lim-nu-tum  Su-nu1
@@ -5189,8 +4975,6 @@ mu-kil  k:ikk:id  li!r)u1lim(tim)  §a  umi(mi)-§am-ma  ana  limutti
 f>f  tli'   ptm       The  Bumerian  taxi  0&  the  original  is  not  here  given,  and
 itic  i-  oonaequently  numbered  oonventioaally.
 
-
-64  CUNEIFORM  PARALLELS
 
 5  Destruction  to  work.
 
@@ -5252,8 +5036,7 @@ a-§am-§u-tum  sa  ina  same(e)  iz-zi-iS  is-sa-nun-du  su-nu
 ir-pi-tum  sa-pi-tum  §a  ina  same(e)   "da-um-ma-ta   i-sak-ka-nu
 
 su-nu
-zi-ik  §a-a-ri  te-bu-tum  sa  ina  ume(me)  nam-ri  e-tu-ta  i-sak-ka-
-nu  §u-nu
+zi-ik  §a-a-ri  te-bu-tum  sa  ina  ume(me)  nam-ri  e-tu-ta  i-sak-kanu  §u-nu
 it-ti  im-bul-li  sa-a-ri  lim-ni  i-§ur-ru  §u-nu
 
 
@@ -5299,8 +5082,7 @@ cloudy  weather.
 ina  i-mit-ti  (ilu)  Adadi  il-la-[ku  §u-nu]
 ina  i-sid  same(e)  ki-ma  bir-ki  it-ta-fnalwi-ku  §u-nu]
 ni-ir-tu  ana  na-;i-ri  ina  mah-ri  il-la-ku  [su  mi]
-ina  Same(e)  rap-su-ti  §u-bat  (ilu)  A-nim  §ar-ri  lim-ni§  iz-zaz-
-zu-ma  ma-hj-ra  ul  i-su-u
+ina  Same(e)  rap-su-ti  §u-bat  (ilu)  A-nim  §ar-ri  lim-ni§  iz-zazzu-ma  ma-hj-ra  ul  i-su-u
 25  i-nu-§u  (ilu)  Ellil  te-e-ma  su-a-tum  i£-me-ma  a-ma-ta  ana  lib-bi-
 §u  i§-du-ud
 it-ti  (ilu)  E-a  mas-si-e  §i-ri  sa  ilani  im-ta-lik-ma
@@ -5309,15 +5091,12 @@ it-ti  (ilu)  E-a  mas-si-e  §i-ri  sa  ilani  im-ta-lik-ma
 §u-ri  uk-tin-nu
 it-ti  (ilu)  A-nim  be-lu-ut  ki§-sat  same(c)  i-zu-us-su-nu-ti
 >olal-ti-su-nu  ilani  marani-§u
-l-Sa  u  ur-ra  u-zu-uz-zu  la  na  par  Ira  Su-nu-ti   u-ma-'-ir-5u-
-nti-ti
+l-Sa  u  ur-ra  u-zu-uz-zu  la  na  par  Ira  Su-nu-ti   u-ma-'-ir-5unti-ti
 i-nu-sn    si-bit-ti-Su-nu    ih'mi    lirn-mi-ti     ina    su-puk    same(e)
 
 .r-ru
 ina  ma-bar  (ilu)  Nannari(ri)  (ilu)  Sin  iz-zi-iS  il-ta-nam-mv-u
 
-
-66  CUNEIFORM  PARALLELS
 
 The    mighty    Shamash,    Adad    the    warrior    they
 brought  on  their  side,
@@ -5325,16 +5104,14 @@ brought  on  their  side,
 Ishtar,  with  Anu  the  king  moved  into  a  shining
 dwelling,  exercising  dominion  over  the  heavens,
 
-[Here  follow  some  broken  lines,  which  yield  no  con-
-tinuous sense]
+[Here  follow  some  broken  lines,  which  yield  no  continuous sense]
 
 Day  and  night  he  was  dark  [i.  e.,  Sin]  in  the  dwelling
 of  his  dominion  he  sat  not  down,
 
 The  evil  gods,  the  messengers  of  Anu,  the  king,  are  they,
 
-Raising  their  evil  heads,  in  the  night  shaking  them-
-selves, are  they,
+Raising  their  evil  heads,  in  the  night  shaking  themselves, are  they,
 45  Evil  searching  out,  are  they,
 
 From  the  heaven,  like  a  wind,  over  the  land  rush  they.
@@ -5359,8 +5136,7 @@ To  the  prince,  the  exalted  Massu,  the  lord  Nudimmud.
 1  A  god  of  fire  and  light.
 
 id-la  (ilu)  Sama§  (ilu)  Adad  kar-du  ana  i-di-Su-nu  u-tir-ru
-(ilu)  Is-tar  it-ti  (ilu)  A-nim  sar-ri  sub-tu  ellitim(tim)  ir-me-
-ma  ana  §arru-ut  §am£(e)  i-kap-pu-ud
+(ilu)  Is-tar  it-ti  (ilu)  A-nim  sar-ri  sub-tu  ellitim(tim)  ir-mema  ana  §arru-ut  §am£(e)  i-kap-pu-ud
 
 [Here  follow  badly  broken  lines]
 
@@ -5393,8 +5169,7 @@ He  bit  his  lip  and  filled  his  mouth  with  wailing,
 Ea  called  his  son  Marduk,  and  gave  him  the  message:
 
 "Go,  my  son  Marduk,
-60  Son  of  a  prince,  the  gleaming  Sin  has  been  sadly-
-darkened  in  heaven,
+60  Son  of  a  prince,  the  gleaming  Sin  has  been  sadlydarkened  in  heaven,
 
 His  darkening  is  seen  in  the  heavens,
 
@@ -5459,18 +5234,14 @@ ii.  pp  \ .  Kimdt  7<>n.  <>p.  ri't.;  Zfanmern,  to Qunkal's achdpfimg
 und  ChaoB,  pp.  420ff.;  No.  4  by  Btrooi
 
 
-68  CUNEIFORM  PARALLELS
-
 king,  Ashurbanipal  (668-626  B.  C.)  in  Nineveh,  while
 the  fourth  was  discovered  among  the  archives  of  the
 Egyptian  heretic  king  Amenophis  IV  (1377-1361  B.  C),
 in  Tell-el-Amarna,  Egypt.  The  latter  had  the  divisions
-of  words  marked  by  small  dots  in  red  ink,  and  was  there-
-fore used  as  a  means  of  teaching  the  Babylonian  lan-
+of  words  marked  by  small  dots  in  red  ink,  and  was  therefore used  as  a  means  of  teaching  the  Babylonian  lan-
 guage in  Egypt.
 
-The  contents  of  the  four  tablets  may  be  here  sum-
-marized as  a  clue  to  their  contents,  which  in  the  trans-
+The  contents  of  the  four  tablets  may  be  here  summarized as  a  clue  to  their  contents,  which  in  the  trans-
 lation alone  might  not  always  be  clear  upon  the  first
 examination.
 
@@ -5495,8 +5266,7 @@ or  partake  of  the  drink  which  would  be  set  before  him,
 as  Ea  feared  that  food  and  drink  of  death  would  be
 offered  him.  The  counsel  was  ill  advised,  for  it  was,
 rather,  the  food  of  life  and  the  water  of  life  that  were
-set  before  him,  and  overcaution  deprived  him  of  im-
-mortal life,  and  he  had  to  return  to  earth.       V
+set  before  him,  and  overcaution  deprived  him  of  immortal life,  and  he  had  to  return  to  earth.       V
 
 No.  3  is  a  duplicate  of  lines  12  to  21  of  No.  2.
 
@@ -5513,8 +5283,7 @@ for  still  more  striking  comparisons.  It  may  here  be
 pointed  out  simply  that  the  "food  of  life''  belongs  to
 the  same  category  as  the  "tree  of  life"  in  Genesis.
 Adam  lost  immortality  because  he  desired  to  become
-like  God;  Adapa,  on  the  other  hand,  was  already  en-
-dowed with  knowledge  and  wisdom,  and  failed  of  im-
+like  God;  Adapa,  on  the  other  hand,  was  already  endowed with  knowledge  and  wisdom,  and  failed  of  im-
 mortality, not  because  he  was  disobedient,  like  Adam,
 but  through  his  literal  obedience  to  Ea,  his  creator.
 That  the  Paradise  narrative  (Gen.  2,  3)  may  have  been
@@ -5553,8 +5322,6 @@ u-nir-su-ma  iii:i  sa-n.i-a-ti  ^i-na-a-ti  ab-kal-lum  mar  (alu)
 ab-kal-lurn  ki-Mt-sti  ma-am-man  ul  'i-s:mi-sak
 
 
-70  CUNEIFORM  PARALLELS
-
 The  prudent,  the  most  wise  among  the  Anunnaki
 
 was  he,
@@ -5572,8 +5339,7 @@ Then  Adapa  of  Eridu
 
 While  Ea,  [.     .     .]  in  the  chamber,  upon  the  bed,
 Daily  the  closing  of  Eridu  he  attended  to.
-Upon  the  pure  dam,  the  new   moon  dam,  he  em-
-barked upon  the  ship,
+Upon  the  pure  dam,  the  new   moon  dam,  he  embarked upon  the  ship,
 20  The  wind  blew  and  his  ship  departed,
 With  the  oar,  he  steered  his  ship
 Upon  the  broad  sea  [.     .     .]
@@ -5623,9 +5389,6 @@ a-na  bi-i-t[u  be-li-i]a  u-§a-am-si-i-[lu    .     .     .]
 THE  MYTH  OF  ADAPA
 
 
-71
-
-
 "O  South  wind,  on  the  way  I  shall  to  thee  [.     .     .]
 
 everything  that,
@@ -5639,9 +5402,6 @@ for  seven  days?
 10  His  messenger  Ilabrat  answered  him:  "My  lord,
 Adapa,  the  son  of  Ea,  the  wing  of  the  South  wind
 Has  broken.
-
-
-10
 
 
 §u-u-tu  [i-na  J)ar-]ra-ni  u&-t}i-e-ki  ma-la  i-[.     .     .1
@@ -5706,8 +5466,7 @@ m[a]
 
 TABLET  NO.  3
 
-[(ilu)  Anu  anni-j  ti  ina  Se-
-mi-§u
+[(ilu)  Anu  anni-j  ti  ina  Semi-§u
 2  [ina  ug]-gat  lib-bi-Su
 
 
@@ -5717,12 +5476,6 @@ mi-§u
 
 
 5[.
-
-
-72
-
-
-CUNEIFORM  PARALLELS
 
 
 tablet  no.  2  (continued)
@@ -5803,8 +5556,7 @@ i-§a-ak-ka-an-§u
 
 17  [um-ma     (m)A-da-pa     a-na
 
-pa-ni  (ilu)  A-ni  §a]r-ri  at-
-ta  ta-la-ak
+pa-ni  (ilu)  A-ni  §a]r-ri  atta  ta-la-ak
 
 
 TABLET  NO.  3
@@ -5840,9 +5592,6 @@ bi-[is-su]
 THE  MYTH  OF  ADAPA
 
 
-73
-
-
 tablet  no.  2  (continued)
 
 
@@ -5858,8 +5607,7 @@ of  Anu,
 
 20  At   the   door  of  Anu,
 
-Tammuz  and  Gish-
-zida
+Tammuz  and  Gishzida
 
 21  are  standing,
 
@@ -5896,8 +5644,7 @@ are  standing.
 NO.  2
 
 
-1  Adapa  is  to  wear  mourning  at  heaven's  portal,  as  though  for  Tam-
-muz and  Gishzida,  and  thereby  excite  their  interest  and  sympathy,  and
+1  Adapa  is  to  wear  mourning  at  heaven's  portal,  as  though  for  Tammuz and  Gishzida,  and  thereby  excite  their  interest  and  sympathy,  and
 t  he  ruse  proves  successful.
 
 
@@ -5925,8 +5672,7 @@ TABLET  NO.  3
 mat-i  sa-bat
 
 17  [ana  same-e  ina  e-li-ka  ana
-ba-a[b]  (ilu)  A-ni  ina  te-
-hj-ka
+ba-a[b]  (ilu)  A-ni  ina  tehj-ka
 
 18  [(ilu)  Dumu-zi  u  (ilu)  Gi§-
 
@@ -5941,8 +5687,6 @@ ka-ar-ra  la  ftb  ift  ta  i-na  m:i-a-ti-ni  i-lu  si-na  ha-al-[k]u-ma
 a-na-ku  :i-k:i-n:i  ip-s<--c-ku  nia-an-nu  i-lu  se-na  sa  i-n.t  tii.i-.-i-t i
 il-kn  (ilu)  Dumu-zi  n  (ilu)  G  I  -mi  a-|ja-mi-is  ip-pa-
 
-
-74  CUNEIFORM  PARALLELS
 
 Be  astonished.     Good  words
 
@@ -6061,8 +5805,6 @@ ka-ap-ra  iS-ku-un-§u  §u-u-[m]a  i-to-nu-us-su
 60  ni-nu  rui-na-a  ni-ip-pu-us-su  a-ka-al  ba-la-ti
 
 
-76  CUNEIFORM  PARALLELS
-
 Bring  him,  that  we  may  eat."     Food  of  life
 They  brought  him,  but  he  ate  not.     Water  of  life
 They  brought  him,  but  he  drank  not.     Garments
@@ -6107,8 +5849,7 @@ EARLY  KINGS1
 
 l.  PRIMITIVE  REVELATION
 
-In  Babylon  there  wafl  a  great  number  of  men,  of  dif-
-ferent races,  who  had  settled  Chaldea.  They  lived  in
+In  Babylon  there  wafl  a  great  number  of  men,  of  different races,  who  had  settled  Chaldea.  They  lived  in
 an  uncivilized  manner,  like  b  \vn.  50,  12).
 
 
@@ -6122,15 +5863,13 @@ Alexander  PolyhistOT  Mini  Apollodorus.  The  pas<;i^e  liere  auoted,
 which  rests  partly  upon  Georghlfl  BynoeUus,  is  published  in  Eusebii
 Chronicorum  Liber  Prior,  edit! it  Alfred  rlin.  1^<.~><.  coL  14f.
 
-'Ev  fie  nj  BaftvAuvi  7ro?.v  tt?.^i?oc  av&pijTruv  ytviaftat  a?.?.o£&r(bv  naroiKi-
-cdiTuv  rt/v  Xahdatav  l^fjv  6i  avroix  ard/crwf,  uairep  to.  dripia  (Syn.  50,  12).
+'Ev  fie  nj  BaftvAuvi  7ro?.v  tt?.^i?oc  av&pijTruv  ytviaftat  a?.?.o£&r(bv  naroiKicdiTuv  rt/v  Xahdatav  l^fjv  6i  avroix  ard/crwf,  uairep  to.  dripia  (Syn.  50,  12).
 
 
 PRIMITIVE  REVELATION  77
 
 In  the  first  year1  there  appeared  from  the  Red  Sea,
-at  the  place  where  it  borders  upon  Babylonia,  an  in-
-telligent2 being,  by  name  Pannes,  as  also  Apollodorus
+at  the  place  where  it  borders  upon  Babylonia,  an  intelligent2 being,  by  name  Pannes,  as  also  Apollodorus
 has  narrated,  having,  as  to  the  whole,  the  body  of  a
 fish,  but  underneath  the  head  there  had  grown  another3
 head  (underneath  the  head  of  the  fish)  and  feet  likewise
@@ -6139,8 +5878,7 @@ human  voice,  and  a  picture  of  him  is  even  yet  preserved.
 
 This  being,  they  say,  spent  the  day  with  men,  taking
 no  nourishment,  and  gave  men  knowledge  of  letters  and
-numbers  and  many  arts,  and  taught  them  the  set-
-tlement of  cities,  the  founding  of  temples,  and  introduc-
+numbers  and  many  arts,  and  taught  them  the  settlement of  cities,  the  founding  of  temples,  and  introduc-
 tion of  laws  and  the  survey  of  land,  and  he  explained
 seeds  and  the  harvesting  of  crops,  and  all  things  together
 which  relate  to  the  civilized  life  he  taught  men.  From
@@ -6190,11 +5928,8 @@ r&at'  i'iviu
 vorepov  6}  Qavr/vai  Nfl  a  b/aota  tovt^  irepi  uv  kv  rrj  tuv  (iacriAeuv
 
 
-78  CUNEIFORM  PARALLELS
-
 Berossus)  gives  information  in  the  book  of  the  Kings.
-But  Oannes  wrote  concerning  the  creation  and  concern-
-ing citizenship,  and  gave  the  treatise  to  men  (Syn.
+But  Oannes  wrote  concerning  the  creation  and  concerning citizenship,  and  gave  the  treatise  to  men  (Syn.
 51,  16).
 
 avaypatyy  <pr/ci  6rfkLauv'  rbv  6h  'Qdwr/v  irepL  ycvcdf  nal  noTuTtiaQ  ypdrj/ai
@@ -6206,8 +5941,7 @@ king  was  Alorus,  from  Babylon,  a  Chaldean;  he  ruled
 ten  sars2  (Syncellus  71,  3).  When,  he  says,  Alorus  was
 dead  his  son  Alaparus8  reigned  three  sars,  and  after
 Alaparus  Almelon,4  a  Chaldean  from  the  state  Pautibiblon
-reigned  thirteen  sars.  After  Almelon  Ammenon5  a  Chal-
-dean from  Parmibiblon6  reigned  twelve  sars.  In  those  days
+reigned  thirteen  sars.  After  Almelon  Ammenon5  a  Chaldean from  Parmibiblon6  reigned  twelve  sars.  In  those  days
 there  appeared  a  certain  being  from  the  Red  Sea,  whom
 they  call  Idotion,7  whose  form  was  that  of  a  man  and  of  a
 fish.  And  after  him  Amegalarus  of  the  city  of  Pautibiblon
@@ -6238,8 +5972,7 @@ Tavra  pev  6  Pqpuoobs  iCTopqde,  Tzpurov  yeviodat  (Saoilka  'ATuupov  ek
 Ba(Jv?i<Jvo<;  XaXdaiov  fiaoifevcai  6e  odpovc;  deica  .  .  .  (Syn.  71,  3).
 
 Quum,  inquit,  obiisset  Alorus,  regnavit  filius  ejus  Alaparus
-saros  iii.  et  post  Alaparum  Almelon  eXChaldaeis  e  civitate  Pauti-
-biblon regnavit  saros  xiii.  Post  Almelonem  autem  Ammenonem  ex
+saros  iii.  et  post  Alaparum  Almelon  eXChaldaeis  e  civitate  Pautibiblon regnavit  saros  xiii.  Post  Almelonem  autem  Ammenonem  ex
 Chaldaeis  e  Parmibiblon  (ait)  regnasse  saros  xii.  In  ejus  diebus
 apparuisse  bestiam  quandam  e  man  rubro,  quam  Idotion  vocant,
 cujus  forma  erat  hominis  et  piscis.  Atque  posteum  Amegalarum  ex
@@ -6251,14 +5984,12 @@ saros  x.
 THE  EARLY  KINGS  79
 
 Under  him  again  from  the  Red  Sea  came  forth  four
-Sirens,1  who,  in  like  manner,  appeared  having  the  ap-
-pearance of  man  and  of  fish.  And  thereafter  Edoranchus2
+Sirens,1  who,  in  like  manner,  appeared  having  the  appearance of  man  and  of  fish.  And  thereafter  Edoranchus2
 of  the  state  of  Pautibiblon  held  rule  eighteen  sars.  Under
 him  again  from  the  Red  Sea  there  appeared  a  certain
 other  being,  like  fish  and  man,  whose  name  was  Odakon.
 All  these  he  (i.  e.,  Berossus)  says  were  both  collectively
-and  singly  sent  forth  by  Oannes.  Thereupon  Amenph-
-sinus,3  a  Chaldean  of  Lanchara,  held  rule,  and  he  reigned
+and  singly  sent  forth  by  Oannes.  Thereupon  Amenphsinus,3  a  Chaldean  of  Lanchara,  held  rule,  and  he  reigned
 ten  sars.  Then  Otiartes,4  a  Chaldean  of  Lanchara,  held
 rule;  and  he  also  reigned  eight  sars.  When  Otiartes  was
 dead,  his  son  Xisuthros5  reigned  eighteen  sars.  Under
@@ -6270,8 +6001,7 @@ ten  kings  and  one  hundred  and  twenty  sars.
 
 2  Gr.  Evetiupaxog.  This  is  the  Babylonian  Enmeduranki,  who  was
 the  founder  of  the  sorcerer's  art,  which  he  received  directly  from
-Shamash  and  Adad,  as  appears  in  the  following  fragmentary  text  pub-
-lished by  Zimmern  (Britrivjr  tur  Kenntris  der  babl.  Religion,  pp.  116ff.):
+Shamash  and  Adad,  as  appears  in  the  following  fragmentary  text  published by  Zimmern  (Britrivjr  tur  Kenntris  der  babl.  Religion,  pp.  116ff.):
 "Into  the  hand  of  Enni"duranki,  king  of  Sippar,  darling  of  Anu,  Bel
 and  Ea,  gave  Shamash  in  Ebarra,  Shamash  and  Adad  together,  Shamash
 and  Adad,  Shamash  and  Adad  upon  the  golden  throne;  to  look  upon
@@ -6283,14 +6013,12 @@ Heaven  and  Earth,  the  cedar  staff  beloved  of  the  great  gods."
 3  This  must  be  the  Babylonian  Ainel-Sin,  "man  of  Sin,"  a  sage  of  Ur,
 
 name  is  connected  with  nisirtu  secrets  in  a  still  unpublished  text
-in  the  British  Museum.     K.  8060.  compare  Bezold's  Catalogue  and  Zim-
-in  Kciiinschriften  und  das  Alt(   T< stument,  3rd  edition,  p.  537.
+in  the  British  Museum.     K.  8060.  compare  Bezold's  Catalogue  and  Zimin  Kciiinschriften  und  das  Alt(   T< stument,  3rd  edition,  p.  537.
 
 4  Otiartes  should  be  corrected  into  Opartes,  Babylonian  Ubara-
 Tutu.
 
-•The  Babylonian  form   is  Atra-khasis,   "the  very  wise,"  which  be-
-by  transposition  Khasis-Atra,  from  which  is  derived  the  Greek
+•The  Babylonian  form   is  Atra-khasis,   "the  very  wise,"  which  beby  transposition  Khasis-Atra,  from  which  is  derived  the  Greek
 Xisuthros.
 
 
@@ -6319,21 +6047,16 @@ v«ro  defuncto.  filiuin  ejus  Xisuthrum  regnasse  saros  xviii;
 rege8  x.  sari  cxx.
 
 
-80  CUNEIFORM  PARALLELS
-
 V.  THE  GILGAMESH  EPIC  AND  THE
 STORY  OF  THE  DELUGE1
 
-The  Gilgamesh  Epic  is  the  most  beautiful,  most  im-
-pressive, and  most  extensive  poem  which  has  been
-preserved  to  us  of  the  literature  of  the  ancient  Baby-
-lonians. Its  importance  for  the  study  of  the  whole  life
+The  Gilgamesh  Epic  is  the  most  beautiful,  most  impressive, and  most  extensive  poem  which  has  been
+preserved  to  us  of  the  literature  of  the  ancient  Babylonians. Its  importance  for  the  study  of  the  whole  life
 of  this  ancient  people  cannot  well  be  exaggerated.
 Though  heroic  both  in  form  and  content,  it  is  crowded
 with  mythological  material  of  the  greatest  interest,
 and  though  critically  studied  for  years,  it  seems  likely
-to  offer  a  mine  of  research  for  another  century.  To  stu-
-dents of  the  Old  Testament  it  is  of  peculiar  interest
+to  offer  a  mine  of  research  for  another  century.  To  students of  the  Old  Testament  it  is  of  peculiar  interest
 because  it  contains  as  an  episode  the  Babylonian  legend
 of  the  Flood,  which  lies  at  the  basis  of  the  Old  T
 ment  stories  of  the  Deluge.
@@ -6341,8 +6064,7 @@ ment  stories  of  the  Deluge.
 The  epic  consisted  originally  of  twelve  large  tablets,
 every  one  of  which  had  three  columns  of  writing  on
 both  obverse  and  reverse.  Many  of  these  have  come  to
-us  in  sadly  broken  condition,  and  of  some  only  frag-
-ments remain.  The  text,  as  we  have  it,  belonged  to  the
+us  in  sadly  broken  condition,  and  of  some  only  fragments remain.  The  text,  as  we  have  it,  belonged  to  the
 great  library  of  Ashurbanipal  (668-626  B.  C.)   and  is
 
 1  The  original  text  is  published  in  a  monumental  work  by  Paul  Haupt ,
@@ -6358,8 +6080,7 @@ Deluge  atone  see  further,  Haupt  in  Schrader's  Krilinscliriftcn  und  das
 Alt'-  Testament,  2te  Auf.,  pp.  Soff.j  Zimmern  in  Gunkel,  Schopfung  und
 Chaos;  Winckler,  Kcilinschriftlicfu ■.>■  Textbueh  turn  Altei
 3te  Auf.,  pp.  80ff.;  Ropers.  Religion  of  Babylonia  and  Assyria,  pp.  L99ff.;
-King,  First  Steps  in  Assyrian,  pp.  161ff.;  Ungnad  in  Qresmann,  Alt-
-oriental ischr  Texte  und  Bildrr,  pp.  4()rT.  For  further  discussions  and
+King,  First  Steps  in  Assyrian,  pp.  161ff.;  Ungnad  in  Qresmann,  Altoriental ischr  Texte  und  Bildrr,  pp.  4()rT.  For  further  discussions  and
 elucidations  of  the  Epic  in  whole  or  part  see  Zimmern  in  Keffinschriften
 und  das  Alte  Testament,  3te  Auf.,  pp.  560ff.:  Weber,  Litrratvr  d< ■•-
 lonicr  und  Aeeyrer,  pp.  Tiff.;  Jastrow,  Die  Religion  Babylonians  und
@@ -6367,8 +6088,7 @@ lonicr  und  Aeeyrer,  pp.  Tiff.;  Jastrow,  Die  Religion  Babylonians  und
 
 a  marvelous  collection  of  learned  material  of  the  highest   value,  but  to
 1   with   caution.      With   it   may  be  compared  the   valuable   Dae
-Gilgameeeh-'Epos,  neu  iibersetzt    von   Arthur  Ungnad  und   gemeinver-
-standlich  erkliirt  von  Hugo  Gressmann  (1911).
+Gilgameeeh-'Epos,  neu  iibersetzt    von   Arthur  Ungnad  und   gemeinverstandlich  erkliirt  von  Hugo  Gressmann  (1911).
 
 
 THE  GILGAMESH  EPIC  81
@@ -6384,8 +6104,7 @@ first  Babylonian  dynasty  (circa  2000  B.  C).
 The  poem  contains  the  stories  of  the  great  deeds  and
 wonderful  adventures  of  Gilgamesh,1  the  ruler  of  Uruk,2
 an  historical3  personage  originally,  to  whose  illustrious
-name  these  clouds  of  myth  and  legend  have  been  at-
-tached. The  episode  of  the  Deluge  is  here  given  in  full,
+name  these  clouds  of  myth  and  legend  have  been  attached. The  episode  of  the  Deluge  is  here  given  in  full,
 but  in  order  that  its  relationship  to  the  whole  epic  may
 be  understood  a  synopsis  of  the  epic,  with  illustrative
 extracts,  is  given  first.
@@ -6398,8 +6117,7 @@ the  far  western  sea.  The  opening  lines  are  badly
 broken,  but  may  partly  be  made  out  as  follows :
 
 Who  saw  everything  (?),  [.     .     .]  of  the  land,
-Who  [.     .     .]  learned  to  know,  understood  (?)  every-
-thing,
+Who  [.     .     .]  learned  to  know,  understood  (?)  everything,
 [.     .     .  all  together     .     .     .]
 The  mysteries  of  wisdom,  everything  [.     .     .]
 
@@ -6424,12 +6142,9 @@ built  by  him.
 
 *  Tin-  translation  owsi  most  to  Jensen,  whose  remarkable  first  edit  ion
 
-ftliche  Bibliothek  i:ii<l  tin-  foundations  for  future  work-
-er-. Here  sad  t  here  :t  word  or  suggest  ion  has  been  caught  from  Ungnad,
+ftliche  Bibliothek  i:ii<l  tin-  foundations  for  future  worker-. Here  sad  t  here  :t  word  or  suggest  ion  has  been  caught  from  Ungnad,
 Dhorme,  and  otfa
 
-
-82  CUNEIFORM  PARALLELS
 
 5  The  mysterious  he  saw,  the  concealed  [he  looked
 upon],
@@ -6450,8 +6165,7 @@ The  tablet  then  goes  on  to  narrate  how  he  drove  the
 people  of  Uruk  to  such  heavy  labors  upon  the  city  walls
 that  they  at  length  appealed  to  the  gods  for  deliverance
 from  their  bondage.  The  gods  hearken  to  their  plaint
-and  beseech  the  goddess  Arum,  who  had  created  Gil-
-gamesh,  to  create  a  rival  for  him  that  he  might  draw
+and  beseech  the  goddess  Arum,  who  had  created  Gilgamesh,  to  create  a  rival  for  him  that  he  might  draw
 the  attention  of  the  tyrant  to  other  things.
 
 Golumn  II:
@@ -6480,8 +6194,7 @@ charms  enchained  Engidu  and  induced  him  to  follow
 THE  GILGAMESH  EPIC  83
 
 her  to  Uruk.  There  he  met  Gilgamesh,  who  had  been
-forewarned  in  two  dreams,  and  the  first  tablet  con-
-cludes with  the  beginning  of  friendship  between  them.
+forewarned  in  two  dreams,  and  the  first  tablet  concludes with  the  beginning  of  friendship  between  them.
 
 SECOND   TABLET
 
@@ -6489,8 +6202,7 @@ The  beginning  of  the  second  tablet  is  so  badly  broken
 that  fifty  lines  are  wanting.  From  the  fragments  that
 remain  we  learn  that  Engidu,  enticed  by  the  lure  of  the
 wilderness,  had  left  Gilgamesh  and  returned  to  his
-friendly  beasts,  among  whom  he  lamented  the  entice-
-ments of  the  harlot  which  had  taken  him  away  to  the
+friendly  beasts,  among  whom  he  lamented  the  enticements of  the  harlot  which  had  taken  him  away  to  the
 city.  But  the  sun  god  Shamash  cried  to  him  out  of
 heaven  that  she  had  rather  brought  him  only  to  good,
 to  divine  food  and  royal  drink  and  festival  garb.  Moved
@@ -6519,16 +6231,13 @@ Covered  are  they,  like  birds,  with  feathers,
 dwell."
 
 
-84  CUNEIFORM  PARALLELS
-
 What  the  meaning  of  the  dream  may  be  is  unknown  to
 us;  perhaps  it  is  ominous  of  Engidu 's  death.  At  the
 end  of  the  tablet  we  find  the  two  friends  planning  a
 great  journey  against  Khumbaba,  the  Elamite  warder
 of  the  cedar  mountain  of  Irnini,  that  is,  Ishtar.  The
 thought  would  seem  to  be  that  Gilgamesh  goes  out  to
-rescue  from  this  forest  the  statue  of  the  goddess.  Per-
-haps this  portion  of  the  epic  rests  upon  the  historical
+rescue  from  this  forest  the  statue  of  the  goddess.  Perhaps this  portion  of  the  epic  rests  upon  the  historical
 event  of  the  carrying  away  into  Elam  of  a  goddess
 image  by  Kuturnankhundi,  which  Ashurbanipal  says
 occurred  sixteen  hundred  and  thirty-five  years  before
@@ -6553,10 +6262,8 @@ FOURTH   TABLET
 
 The  fragmentary  character  of  this  tablet  makes  it
 very  difficult  to  recover  a  connected  narrative.  So  far
-as  we  can  see  at  the  beginning  the  friends  are  in  a  dis-
-pute, Engidu  striving  to  induce  Gilgamesh  to  abandon
-the  foolhardy  expedition.  But  they  set  out,  neverthe-
-less, and  approach  the  cedar  mountain  where  the  god
+as  we  can  see  at  the  beginning  the  friends  are  in  a  dispute, Engidu  striving  to  induce  Gilgamesh  to  abandon
+the  foolhardy  expedition.  But  they  set  out,  nevertheless, and  approach  the  cedar  mountain  where  the  god
 Ellil  has  set  the  fearsome  Khumbaba  as  a  warder.
 
 
@@ -6588,20 +6295,17 @@ The  high  door,  where  Khumbaba  enters.
 They  view  the  cedar  mountain,  home  of  the  gods,
 sanctuary  of  Irnini.
 
-There  follows  some  account  of  Khumbaba's  prepara-
-tions for  the  fray,  and  then  two  dreams  of  Engidu,  the
+There  follows  some  account  of  Khumbaba's  preparations for  the  fray,  and  then  two  dreams  of  Engidu,  the
 purport  of  which  was  to  encourage  Gilgamesh  to  expect
 success.  The  account  of  the  contest  is  lost,  but  the
-issue  was  a  great  victory  for  the  two  friends,  who  re-
-turn joyously  to  Uruk,  probably  bringing  with  them
+issue  was  a  great  victory  for  the  two  friends,  who  return joyously  to  Uruk,  probably  bringing  with  them
 the  long  lost  statue  of  the  goddess  Irnini.
 
 SIXTH   TABLET
 
 Gilgamesh  washes  his  weapons,  adorns  himself  in  fine
 raiment,  and  sets  a  tiara  upon  his  head.    At  the  sight  of
-him,  thus  glorious,   Ishtar  burns  with  love    and    ad-
-os the  hero:
+him,  thus  glorious,   Ishtar  burns  with  love    and    ados the  hero:
 Column  I:
 
 Come,  Gilgamesh,  be  (my)  lover,
@@ -6610,8 +6314,6 @@ Be  thou  my  husband,  I  thy  wife,
 10  I  will  harness  for  thee  a  chariot  of  lapislazuli  and
 gold;
 
-
-86  CUNEIFORM  PARALLELS
 
 Its  wheels  of  gold;  its  horns  of  diamond  (?)
 Daily  shalt  thou  span  great  horses  to  it.
@@ -6638,8 +6340,7 @@ most  unfortunate,  and  others  still  whom  she  had
 spurned  when  her  love  had  cooled.
 
 Ishtar  is  filled  with  rage  at  his  refusal  and  mounts  up
-to  heaven  to  her  father,  Anu,  to  seek  from  him  ven-
-geance for  the  insult.  At  her  request  the  god  creates  a
+to  heaven  to  her  father,  Anu,  to  seek  from  him  vengeance for  the  insult.  At  her  request  the  god  creates  a
 bull  and  sends  him  down  to  Uruk  to  destroy  Gilgamesh.
 The  bull  slays  many  until  at  last  Engidu,  with  the  help
 of  Gilgamesh,  destroys  him,  and  casts  upward  to  Ishtar
@@ -6678,16 +6379,14 @@ be  left  in  uncertainty.
 EIGHTH    TABLET
 
 Engidu  dies,  though  whether  his  death  was  due  to
-disease  or  to  the  smiting  of  the  curses  of  Ishtar  is  un-
-known. At  first  Gilgamesh  thinks  his  friend  is  merely
+disease  or  to  the  smiting  of  the  curses  of  Ishtar  is  unknown. At  first  Gilgamesh  thinks  his  friend  is  merely
 asleep:
 
 Column  II:
 
 "Engidu,  my  young  friend,  thou  tiger  of  the  desert,
 
-After  everything  possible  we  [.     .     .]  and  the  moun-
-tain have  climbed,
+After  everything  possible  we  [.     .     .]  and  the  mountain have  climbed,
 
 Have  taken  and  slain  Heaven's  bull,
 
@@ -6710,8 +6409,6 @@ He  turned  away  [.     .     .]
 Then  he  flies  away  into  the  wilderness,  crazed  with
 grief.
 
-
-88  CUNEIFORM  PARALLELS
 
 NINTH   TABLET
 
@@ -6744,8 +6441,7 @@ If  I  see  lions  and  fear
 
 He  sets  out  upon  the  journey  and  arrives  at  Mount
 Mashu  (perhaps  the  Lebanon  region),  which  he  finds
-guarded  by  terrible  scorpion  men,  whose  mien  is  hor-
-rible and  deadly.  For  some  reason  they  receive  him
+guarded  by  terrible  scorpion  men,  whose  mien  is  horrible and  deadly.  For  some  reason  they  receive  him
 kindly,  though  cautioning  him  of  the  dangers  of  his
 road.  For  twelve  double  hours  he  wanders  in  darkness
 and  then  sees  the  light  of  the  sun  once  more.  There,
@@ -6788,8 +6484,7 @@ which  under  other  circumstances  had  cost  a  month  and
 a  half  of  journeying.  This  journey  must  have  been  the
 length  of  the  Mediterranean,  and  the  waters  of  death
 which  then  lie  before  them  are  doubtless  the  wild
-Atlantic  itself.  Then  the  journey  becomes  more  dan-
-gerous, but  at  last  they  approach  the  coast  where  Ut-
+Atlantic  itself.  Then  the  journey  becomes  more  dangerous, but  at  last  they  approach  the  coast  where  Ut-
 napishtim  stands  wondering  to  see  a  passenger  brought
 to  his  realm.  When  greetings  are  over,  Gilgamesh  asks
 him  how  he  had  attained  endless  life,  and  in  reply
@@ -6798,15 +6493,12 @@ of  the  great  hero  who  had  survived  its  terrors.
 
 ELEVENTH  TABLET
 
-Gilgamesh  said  to  him,  to  Ut-napishtim,  the  far-
-away:
+Gilgamesh  said  to  him,  to  Ut-napishtim,  the  faraway:
 "I  consider  thee,  O  Ut-napishtim,
 
 (ilu)  (JilgameS  a-na  §a-Su-ma  izaka-ra  a-na  Ut-napi3-tim  ru-u-ki
 a-na-at-ta-la-kum-ma  Ut-napis-tim
 
-
-90  CUNEIFORM  PARALLELS
 
 Thy  appearance  is  not  changed,  thou  art  like  me,
 Thou  art  not  different,  even  as  I  am,  thou  art.
@@ -6932,8 +6624,6 @@ u  mi]  Itl-pu-uJ  alu  um-ma-nu  u  si-bu-tum
 .     .]-<li-nia  i a-a-Si  (ilu)  En-lil  i-zi-ir-an-ni-ma
 
 
-92  CUNEIFORM  PARALLELS
-
 No  longer  may  I  dwell  in  your  city,  nor  remain  on
 
 Ellil's  earth,
@@ -6958,8 +6648,7 @@ On  the  fifth  day  I  set  up  its  form.
 
 Column  II:
 
-In  its  [plan]  120  cubits  high  on  each  of  its  side-
-walls.
+In  its  [plan]  120  cubits  high  on  each  of  its  sidewalls.
 
 By  120  cubits  it  corresponded  on  each  edge  of  the
 roof.
@@ -6968,8 +6657,7 @@ I  laid  down  its  hull,  I  enclosed  it.
 
 I  built  it  in  six  stories.
 
-ul  u§-sab  ina  a  [li-ku]-nu-ma  [ina]  kak-kar  (ilu)  En-lil  ul  a-sak-
-kan  pani-ia-a-ma
+ul  u§-sab  ina  a  [li-ku]-nu-ma  [ina]  kak-kar  (ilu)  En-lil  ul  a-sakkan  pani-ia-a-ma
 
 ur-]raa-ma  ana  apsi  it-ti  [(ilu)  E-a  be-]li-ia  aS-ba-ku
 
@@ -7005,8 +6693,7 @@ THE  BABYLONIAN  FLOOD  STORY  93
 5  I  divided  it  outside  (?)  in  seven  parts.
 Its  interior  I  divided  into  nine  parts.
 Water-plugs  I  fastened  within  it.
-I  prepared  a  rudder,  and  laid  down  what  was  neces-
-sary.
+I  prepared  a  rudder,  and  laid  down  what  was  necessary.
 NyThree  sars  of  bitumen  I  poured  over  the  outside  (?)
 9a  Three  sars  of  bitumen  I  poured  over  the  inside,
 10  Three  sars  of  oil  the  stevedores  brought  up.
@@ -7066,16 +6753,13 @@ J.     .     .     (flu)  Samas  fra]-bi-e  elippu  gam-rat
 [.     .     .     .     .]-li-ku  8i-ni-pat-sn
 
 
-94  CUNEIFORM  PARALLELS
-
 With  all  that  I  had,  I  filled  it  (the  ship).
 With  all  that  I  had  of  silver,  I  filled  it.
 With  all  that  I  had  of  gold  I  filled  it.
 25  With  all  that  I  had  of  living  things  I  filled  it.
 
 I  brought  up  into  the  ship  my  family  and  household.
-The  cattle  of  the  field,  the  beasts  of  the  field,  crafts-
-men all  of  them  I  brought  in.
+The  cattle  of  the  field,  the  beasts  of  the  field,  craftsmen all  of  them  I  brought  in.
 A  fixed  time  had  Shamash  appointed  (saying) ,
 "When  the  sender  of  rain  sends  a  heavy  rain  in  the
 evening,
@@ -7199,12 +6883,9 @@ ii  i|>-tal-Jju  a-bu-l)a-aii)-ma
 kima  kalbi  kun-nu-nu  ina  ka-ma-a-ti  ral>BU
 
 
-96  CUNEIFORM  PARALLELS
-
 Ishtar  cried  like  a  woman  in  travail,
 
-Loudly  cried  the  queen  of  the  gods  with  her  beauti-
-ful voice,
+Loudly  cried  the  queen  of  the  gods  with  her  beautiful voice,
 
 "The  former  time  is  turned  into  clay,
 10  Since  I  commanded  evil,  in  the  assembly  of  the  gods.
@@ -7225,8 +6906,7 @@ Covered  were  their  lips  [.     .     .]
 
 Six  days  and  [six]  nights
 
-Blew  the  wind,  the  deluge  and  the  tempest  over-
-whelmed the  land.
+Blew  the  wind,  the  deluge  and  the  tempest  overwhelmed the  land.
 20  When  the  seventh  day  drew  nigh,  the  tempest  spent
 itself  in  the  battle,
 
@@ -7339,8 +7019,6 @@ i  ul  i-p.i-  lj-ra
 
 W  Id  fi  mi  a-ri-!>:i  u-iuas-sir
 
-
-98  CUNEIFORM  PARALLELS
 
 40  The  raven  flew  away,  she  saw  the  abatement  of  the
 waters,
@@ -7466,8 +7144,6 @@ ru-um-me  a-a  ib-ba-ti-ik  fiu-du-ud'  a-a  ir  [.     .     J
 i  Compare  BA  V    16,  624,  [Langdon].
 
 
-100  CUNEIFORM  PARALLELS
-
 20  Instead  of  thy  sending  a  deluge?
 
 Had  a  lion  come  and  mankind  lessened!
@@ -7556,8 +7232,7 @@ nights"
 
 The  idea  is  that  if  he  can  master  sleep,  twin  brother  of
 death,  he  might  thus  learn  to  master  death  itself.  But
-the  test  is  too  severe  and  the  hero  falls  asleep.  Ut-
-napishtim  mocks  his  weakness,  but  his  wife,  moved
+the  test  is  too  severe  and  the  hero  falls  asleep.  Utnapishtim  mocks  his  weakness,  but  his  wife,  moved
 with  pity  for  the  helpless  wanderer,  desires  her  husband
 to  make  some  provision  for  getting  him  back  again.
 Her  husband,  moved  by  her  appeal,  calls  to  Gilgamesh
@@ -7590,8 +7265,6 @@ lu-U  I  lim  inn  rw-u-ki  ina  pi-i  D
 3.")   il-ku-in-ni-rna  ina  ru-u-ki  ina  pi-i  narati  us-tc-Si-lm-in-ni.
 
 
-102  CUNEIFORM  PARALLELS
-
 I  will  carry  it  to  walled  Uruk,  there  will  I  make  to
 
 eat  of  it  [.     .     .]
@@ -7620,8 +7293,7 @@ dead,  there  to  learn  what  the  dead  might  have  to  say
 concerning  this  life  and  its  problems.
 
 He  fails  to  meet  the  conditions  laid  upon  him,  and
-cannot  find  his  way  to  the  abode  of  the  dead.  He  there-
-fore determines  to  bring  the  spirit  of  Engidu  to  earth
+cannot  find  his  way  to  the  abode  of  the  dead.  He  therefore determines  to  bring  the  spirit  of  Engidu  to  earth
 again,  if  the  gods  will  permit.  His  appeals  to  Ellil  to
 accomplish  this  object  are  in  vain,  and  so  also  does  Sin
 refuse,  but  Ea,  on  the  other  hand,  commands  Nergal  to
@@ -7640,8 +7312,7 @@ ANOTHER  FLOOD  STORY  103
 Then  began  a  dialogue  between  the  reunited  friends;
 but,  alas!  Engidu  cannot  lift  the  curtain  of  the  great
 mysteries.  The  only  comfort  he  can  bring  is  that,
-though  men  must  die,  in  the  next  world  they  find  them-
-selves among  the  friends  they  had  on  earth.  The
+though  men  must  die,  in  the  next  world  they  find  themselves among  the  friends  they  had  on  earth.  The
 search  for  eternal  life  has  ended  in  failure,  yet  there  is  a
 comfort  and  solace  in  the  thought  of  the  associations  in
 the  life  after  death.
@@ -7653,8 +7324,7 @@ The  story  of  the  Deluge  preserved  in  the  eleventh
 tablet  of  the  Gilgamesh  Epic  was  not  the  only  form  in
 which  the  Babylonian  legends  were  preserved.  It  was
 not  canonized,  and  men  might  write  other  forms,  or
-alter  the  others,  as  did  the  Hebrews  with  their  narra-
-tives, until  canonization  had  crystallized  them.  This
+alter  the  others,  as  did  the  Hebrews  with  their  narratives, until  canonization  had  crystallized  them.  This
 recension  belonged  also  to  Ashurbanipal's  library.  It
 elaborates  somewhat  the  conversation  between  Ea  and
 Ut-napishtim  which  appears  in  the  Nimrod  Epic  xi,
@@ -7665,11 +7335,9 @@ Ut-napishtim  which  appears  in  the  Nimrod  Epic  xi,
 p.  101;  Paul  Haupt,  Das  babylonische  Nimrodepos,  p.  131;  IV  R.,  2d
 edition,  Additions  and  Corrections,  p.  9.  Translated  by  Paul  Haupt
 in  Schrader,  Keilinschriften  und  das  Alte  Testament,  2te  Auf.,  p.  61;
-.  KeUinschriftliche  Bibliothek,  vi,  1,  pp.  254ff.;  Winckler,  Keilin-
-schriftliches  Tvxtbuch  zum  Alien  Testament,  3te  Auf.,  p.  88;  Dhorme,
+.  KeUinschriftliche  Bibliothek,  vi,  1,  pp.  254ff.;  Winckler,  Keilinschriftliches  Tvxtbuch  zum  Alien  Testament,  3te  Auf.,  p.  88;  Dhorme,
 Ch&ix  de  Textes  religieux  Assyro-Babyloniens,  pp.  126,  127;  Jeremias,
-Das  Alte  Testament  xm  Lichte  des  Alten  Orients,  2te  Auf.,  p.  126f.;  Un-
-gnad,  in  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  p.  57.
+Das  Alte  Testament  xm  Lichte  des  Alten  Orients,  2te  Auf.,  p.  126f.;  Ungnad,  in  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  p.  57.
 
 [•    •    •       ]
 
@@ -7684,8 +7352,6 @@ ki-rna  kip-p:i-ti  s:i[m.'-  Q  irsitij
 lu-da-an  e-li§  u  sa[p~liS]
 e-pi-hi     .     .     .]
 
-
-104  CUNEIFORM  PARALLELS
 
 5  [Behold]  the  time  I  will  announce  to  thee.
 
@@ -7730,9 +7396,6 @@ ma-ti-ma-a  elippu  ul  e-pu-uS  [.     .     .]
 ina  kak]-ka-ri  e-sir  u-[sur-tu]
 
 
-15
-
-
 u-sur-]tu  lu-mur-ma  elippu  [lupu§]
 .]  ina  kak-ka-ri  e-sir  [.  .  .]
 .]  sa  tak-ba-a  [.     .     .]
@@ -7750,8 +7413,7 @@ colophon  it  was  written  on  the  twenty-eighth  day  of
 
 i  The  text  was  first  published  by  Scheil,  Recueil  de  Travaux,  xx,  pp.
 55ff.  See  also  Jensen,  Keilinschriftliche  Bibh'othek,  vi,  1,  p.  288;  P.
-Dhorme,  Choix  de  Textes  Religieux  Assyro-Babyloniens,  pp.  120ff.;  Un-
-gnad  in  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  pp.  57,  58.
+Dhorme,  Choix  de  Textes  Religieux  Assyro-Babyloniens,  pp.  120ff.;  Ungnad  in  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  pp.  57,  58.
 
 
 ANCIENT  DELUGE  FRAGMENT  105
@@ -7764,9 +7426,6 @@ Column  I:
 
 .     .]  did  not  go  [.     .     .]
 [In]  the  land  I  will  send  lightning,  the  people  [.    .    .]
-
-
-10
 
 
 .     it  rained,
@@ -7825,8 +7484,6 @@ ji-bi-iS     .     .     .]  nam  ni-il-li-ka
 [.     .     .]  eklu  i§-pi-ki-§u
 
 
-106  CUNEIFORM  PARALLELS
-
 Column  II:
 
 That  he  may  slay!    That  he  may  destroy,
@@ -7856,8 +7513,7 @@ I  alone  bear1  [my  people     .     .     .]
 His  work  is  [.     .     .]
 
 
-1  Compare  the  Gilgamesh  Epic,  tablet  xi,  123.     The  speaker  is  prob-
-ably Ishtar,  as  in  that  passage.
+1  Compare  the  Gilgamesh  Epic,  tablet  xi,  123.     The  speaker  is  probably Ishtar,  as  in  that  passage.
 
 Column  II:
 
@@ -7951,20 +7607,16 @@ ka  (nAru)  ud-kil>-nun  ki-ra-ta
 1  for  in-ga-mar  read  probably  in-lil  (so  Dhorme)
 
 
-108  CUNEIFORM  PARALLELS
-
 4.  ANOTHER  ANCIENT  BABYLONIAN  DELUGE
 FRAGMENT  «
 
 This  small  fragment  of  unbaked  clay  was  discovered
-at  Nippur  by  the  expedition  of  the  University  of  Penn-
-sylvania. The  obverse  has  been  broken  off,  and  the
+at  Nippur  by  the  expedition  of  the  University  of  Pennsylvania. The  obverse  has  been  broken  off,  and  the
 reverse  remains  in  a  very  fragmentary  condition.
 Hilprecht,  who  discovered  and  published  the  tablet,
 computes  that  it  "was  written  some  time  between  2137
 and  2005  B.  C,  or,  in  round  figures,  about  2100  B.  C.
-This  is  the  very  latest  date  to  which  this  fragment  pos-
-sibly can  be  assigned,  both  according  to  its  place  of
+This  is  the  very  latest  date  to  which  this  fragment  possibly can  be  assigned,  both  according  to  its  place  of
 discovery  and  the  pakeographical  evidence  presented
 by  the  tablet  itself."  There  is  some  dispute  as  to  the
 extent  or  accuracy  of  the  records  concerning  the  place
@@ -8045,7 +7697,6 @@ h,u-ru-su
 
 
 tim
-10
 
 
 ,]  -ri  (?)  zu-lu-la  dan-na  zu-ul-lil
@@ -8082,16 +7733,13 @@ m   utyav  Karanlvaubv
 ytvladai'  avayeypatdai  61  rbv  \6yov  ovtlh;,     'I  .>  k<itii  rbv
 
 
-110  CUNEIFORM  PARALLELS
-
 peared  to  him  in  a  dream,  and  said  that  on  the  fifteenth
 of  Dasios  mankind  would  be  destroyed  by  a  cataclysm.
 He  had  commanded  him  to  dig  and  to  place  at  Sippar
 a  written  account  of  the  beginning,  middle,  and  end  of
 all  things,1  and  then  to  build  a  boat  and  enter  it  with
 relatives  and  remaining  friends.  He  should  also  put
-provisions  in  it  and  animals,  both  winged  and  four-
-footed,  and,  when  all  was  prepared,  set  sail.  If  anyone
+provisions  in  it  and  animals,  both  winged  and  fourfooted,  and,  when  all  was  prepared,  set  sail.  If  anyone
 should  ask  whither  he  was  sailing,  he  should  answer,
 "To  the  gods,  to  sue  that  things  may  be  well  with  men."
 Xisuthros  obeyed  and  built  a  boat  of  five2  stadia  long
@@ -8102,15 +7750,13 @@ friends  (Syn.  53,  19).
 When  the  cataclysm  came  and  immediately  ceased
 Xisuthros  let  fly  certain  of  the  birds.  These,  however,
 having  found  neither  food  nor  a  place  to  rest,  came
-again  into  the  ship.  Again  after  certain  days  Xisu-
-thros let  the  birds  go.    But  these  again  returned  having
+again  into  the  ship.  Again  after  certain  days  Xisuthros let  the  birds  go.    But  these  again  returned  having
 
 
 1  This  item  is  wanting  in  the  cuneiform  account  which  has  come  down
 to  us.
 
-2  So  the  MSS.  The  Armenian  version  reads  "fifteen"  and  v.  Gut-
-schmid  corrects  to  this  and  Schoene  follows.
+2  So  the  MSS.  The  Armenian  version  reads  "fifteen"  and  v.  Gutschmid  corrects  to  this  and  Schoene  follows.
 
 vnvov  kmoT&vra  <pdvat  prjvbc  Aaioiov  irkpitTy  /cat  deK&ry  tovc  av&p6irov£  virb
 KaraKXvafiov  Auufttiapfoeodai.  Ke/^evaai  ovv  did  ypappdrw  tt&vtuv  apxaq  /cat
@@ -8119,8 +7765,7 @@ pevov  <TAcd0oc  epfifjvai  perd  tcjv  cvyyevuv  /cat  avayaaiuv  QiXuv'  iv&ko
 5p6aara  /cat  Tretyzara,  kfifiakeiv  6e  /cat  £<ja  irrr/vd  /cat  TtTpdnoda,  /cat  irdvra
 evTpeiriodpevov  nfelv.  'EpuTupevov  tie  irov  irXei-  fdvat,  Trpof  tov£  deovs,
 ev£6fievov  l  evgduevov  avdpaTois  dyada  ytvka-dai.  Tbv  rf*  ov  irapaKoiaavra
-vavrrrryt/oao&ai2  OKd<j>oc,  to  pev  ptjkcx;  oraiiuv  6ina  irtvre*  to  6e  irXdroc  era-
-diuv  dvo'  Tads  cwTax^evra  irdvra  oinrdlodai,  /cat  yvvaiica  /cat  r£/cva,  /cat
+vavrrrryt/oao&ai2  OKd<j>oc,  to  pev  ptjkcx;  oraiiuv  6ina  irtvre*  to  6e  irXdroc  eradiuv  dvo'  Tads  cwTax^evra  irdvra  oinrdlodai,  /cat  yvvaiica  /cat  r£/cva,  /cat
 Toi>c  avayicaiovc  c&tAov?  kpfiifldoai  (Syn.  53,  19).
 
 Tevopkvov  6e  tov  na.TaKkvop.ov,  aal  ivdiuq  7J}!-avTos  tuv  bpvicjv  Ttva  tov
@@ -8139,17 +7784,14 @@ their  feet  soiled  with  clay.  When  he  let  them  go  a  third
 time  they  did  not  return  again  to  the  ship.  Xisuthros
 knew  from  this  that  the  land  had  appeared  again,  and
 when  he  had  removed  a  part  of  the  side  of  the  ship  he
-saw  that  the  ship  had  grounded  upon  a  certain  moun-
-tain. Thereupon  he  left  the  ship  with  wife  and  daughter
+saw  that  the  ship  had  grounded  upon  a  certain  mountain. Thereupon  he  left  the  ship  with  wife  and  daughter
 and  the  pilot,  and  when  he  had  bowed  to  earth  he
 erected  an  altar.  Having  offered  sacrifice  upon  this,  he
 vanished  with  those  who  had  come  out  of  the  ship  with
 him.  Those  who  had  remained  on  the  ship,  when
 Xisuthros  and  his  companions  did  not  return,  also
-landed,  and  sought  him,  calling  him  by  name.  Xisu-
-thros himself  did  not  appear  to  them,  but  a  voice  came
-from  heaven,  calling  to  them,  that  they  ought  to  rev-
-erence the  gods,  for  that  he,  because  of  his  fear  of  the
+landed,  and  sought  him,  calling  him  by  name.  Xisuthros himself  did  not  appear  to  them,  but  a  voice  came
+from  heaven,  calling  to  them,  that  they  ought  to  reverence the  gods,  for  that  he,  because  of  his  fear  of  the
 I  gods,  had  gone  to  dwell  with  them.  But  the  same  honor
 must  be  given  his  wife  and  daughter  and  the  pilot.
 He  bade  them  also  to  return  to  Babylon,  and  that  they
@@ -8189,8 +7831,6 @@ Sovvairoic  avdpunoir  Km  '  Aptteviac  f<xru'(Syn.  64,  17).
 ~ac  ravra  tivoai  n  riif  fooif,  ml  KtXft  nopevdi,
 
 
-112  CUNEIFORM  PARALLELS
-
 and  went  on  foot1  to  Babylon.  Of  the  ship,  which  had
 there  rested,  there  still  remains  a  portion  in  mountains
 of  the  Gordysoans  in  Armenia,  and  men  scrape  off
@@ -8203,23 +7843,20 @@ Babylonia  (Syn.  55,  16-56,  3).
 
 TiafivXava.  Toy  6e  irAoiov  tovtov  KaraitXidevTos  ev  tij  'Apfievia  en  fikpoq  rt
 avTov  kv  roif  Kopdvaiuv  bpeai  tt}$  'Apfieviaf  diapkveiv^  nai  rtvaq  a-rb  tov
-irhitov  KOfii&iv  airot-vovrac  d(T0aArov,  xpdcrdat  6e  avrrj  irpbq  tov$  diroTpontaa-
-fwbq.  EAtfovraf  ovv  t&vtovs  elf  Bafivl.&va  rd  Tt  in  ILtairdpuv  ypafifiara
+irhitov  KOfii&iv  airot-vovrac  d(T0aArov,  xpdcrdat  6e  avrrj  irpbq  tov$  diroTpontaafwbq.  EAtfovraf  ovv  t&vtovs  elf  Bafivl.&va  rd  Tt  in  ILtairdpuv  ypafifiara
 avopvt-ac  /cat  irdfciq  iroXXag  /cr/'Covraf  icai  lepa  avitipvoafievovs  nd/uv  tmKTiaai
 ttJv  BaPvXtiva  (Syn.  55,  16-56,  3).
 
 6.  DESTRUCTION  BY  FIRE
 The  opposite  idea  to  the  destruction  by  a  great  flood
 is  the  destruction  of  the  world  by  fire.  No  mention  of
-such  an  idea  has  yet  been  found  in  any  original  Baby-
-lonian or  Assyrian  text,  but  there  is  evidence  that  such
+such  an  idea  has  yet  been  found  in  any  original  Babylonian or  Assyrian  text,  but  there  is  evidence  that  such
 a  doctrine  did  prevail  among  the  Babylonians.  Seneca
 quotes  Berosus  as  having  made  an  allusion  to  this,  and
 the  passage  is  so  important  that  it  is  here  reproduced.
 There  seems  good  reason  also  for  supposing  that  this
 Babylonian  idea  may  have  passed  over  to  the  Hebrews.
-The  matter  is  not  quite  certain,  but  the  following  pas-
-sages, cited  by  Zimmern,  may  be  echoes  of  this  Baby-
+The  matter  is  not  quite  certain,  but  the  following  passages, cited  by  Zimmern,  may  be  echoes  of  this  Baby-
 lonian idea:  Mic.  1.  4;  Nah.  1.  5;  Psa.  97.  5;  104.  32;
 2  Pet.  3.  7,  10.
 
@@ -8228,8 +7865,7 @@ happen  through  the  course  of  the  stars,  and  affirms  it  to
 
 1  The  passage  occurs  in  Seneca,  Nat.  Qu.,  iii,  29.  It  is  quoted  in  Carl
 Miiller,  Fragmenta  Historicorum  Gracorum,  ii,  p.  510  (Paris,  1848).
-Compare  Zimmern  in  Schroder's  KeUinschriften  und  das  Alte  Testa-
-ment, 3te  Auf.,  p.  560  n.  2.;  Jeremias,  Das  Alte  Testament  im  Lichte  des
+Compare  Zimmern  in  Schroder's  KeUinschriften  und  das  Alte  Testament, 3te  Auf.,  p.  560  n.  2.;  Jeremias,  Das  Alte  Testament  im  Lichte  des
 Alten  Orients,  p.  63f.,  English  translation,  p.  70f.
 
 2  The  expression  is  of  doubtful  meaning.
@@ -8267,8 +7903,7 @@ momenta  sunt.
 VI.  EA  AND  ATRAKHASIS1
 
 From  Ashurbanipal's  library  have  come  down  to  us
-four  badly  broken  columns  of  a  text  originally  contain-
-ing six  columns.  Its  fragmentary  condition  makes  it
+four  badly  broken  columns  of  a  text  originally  containing six  columns.  Its  fragmentary  condition  makes  it
 difficult  to  be  perfectly  certain  about  its  bearing
 upon  the  Atrakhasis  myth  of  the  Deluge.  It  may
 be  tentatively  suggested,  as  Zimmern  has  done,  that
@@ -8292,8 +7927,6 @@ Biff.     Comp
 
 in  der  WdtliUnitvr,  ;
 
-
-114  CUNEIFORM  PARALLELS
 
 this  terrible  suffering  Atrakhasis  sought  the  aid  of  Ea.
 The  text  is,  unhappily,  broken  at  this  point,  but  we  next
@@ -8411,8 +8044,6 @@ i-ni-'  irtu  Sa]  (i!u)  Nisaba  [musAti  ip-su-u  ugArf]
 m  ul  u-«a]-a  8u-[u  ul  i-im-ru]
 
 
-116  CUNEIFORM  PARALLELS
-
 35  Calamity  was  placed  upon  men,
 
 The  womb  was  closed,  no  child  came  forth
@@ -8424,13 +8055,11 @@ The  womb  was  closed,  no  child  came  forth
 When  the  third  year  came,
 40  The  people  revolted  against  their  [.     .     .]
 
-[When  the  fourth  year  came],  their  cities  were  re-
-duced to  straits.
+[When  the  fourth  year  came],  their  cities  were  reduced to  straits.
 
 [Their  broad     ...]...     became  narrow?
 
-[The     people     wandered]     in     the     street      [down-
-cast]
+[The     people     wandered]     in     the     street      [downcast]
 
 [When  the  fifth  year  came],  the  daughter  looked  for
 the  entering  of  the  mother.
@@ -8512,9 +8141,6 @@ Illness,  headache,  chill,  calamity!"
 Then  [.     .     .]  and  chill  began.
 
 
-55
-
-
 ana  lx'-li-Su  (ilu)  E]a  uzni-§u  pi-ta-at
 i-ta-m]u  it-ti  ili-£u
 
@@ -8552,11 +8178,6 @@ mur-H]ti  ti-'u  su-ni-bn-u  a-sa-ku
 ttfDfemaf.
 
 
-10
-
-
-118  CUNEIFORM  PARALLELS
-
 [Quickly?]  did  the  pestilence  make  an  end  to  their
 clamor.
 15  Like  a  tempest  rose  against  them,
@@ -8577,8 +8198,7 @@ Atrakhasis  opened  his  mouth,
 "O  lord,  [Ea]  men  are  in  trouble,
 
 Thy  anger  consumes  the  land.
-25  Oh  my  lord,  men  lament  [.     .    .]    thy    .    .    .    con-
-sumes the  land,
+25  Oh  my  lord,  men  lament  [.     .    .]    thy    .    .    .    consumes the  land,
 
 [The  anger?]  of  the  gods  consumes  the  land.
 
@@ -8586,25 +8206,12 @@ sumes the  land,
 
 Let  the  illness,  headache,  chills,  calamity  [cease?]. "
 
-[Ea  opened  his  mouth  and]  spake,  he  said  to  Atrak-
-hasis,
+[Ea  opened  his  mouth  and]  spake,  he  said  to  Atrakhasis,
 30  [.     .     .]  confusion  has  ceased  in  the  land.
 
 [ pray  to  your  goddess
 
 [Several  lines  badly  broken]
-
-
-15
-
-
-20
-
-
-25
-
-
-30
 
 
 vsur]-ri§  (ri-is)  i-si  ri-£im-si-na  nam-tar
@@ -8676,9 +8283,6 @@ latter  being  supplied  from  the  great  fountains  beneath  the  earth.  The
 same  idea  is  in  the  Genesis  Flood  story  (see  Gen.  7.  11).
 
 
-37
-
-
 (ilu)  En-lil]  il-ta-kan  pu-h,ur-§u:  izakkara  a-na  ilani  mare-su
 
 
@@ -8702,8 +8306,6 @@ frji-bal-kat  ki-ri-im-sa:  sam-mu  ia  u-sa-a  §u-u  ia  i-im-ru
 i  hi]  lu  ku-sur-ina  ia  u-se-sir  sir-ra
 ip-{p:ir-]sn  a-na  ni-se  e-ti-ta
 
-
-120  CUNEIFORM  PARALLELS
 
 In  their  belly  vegetables  were  wanting.
 Above  Adad  diminished  his  rain
@@ -8807,8 +8409,7 @@ returns,
 I  The  original  text  is  in  IV  R.,  2d  edition,  31,  and  in  Cuneiform  Texts,
 xv,  pi.  45-ls.  It  is  translated  by  Jeremias,  in  Roscher,  Lexicon  der
 (irirrliisrhtn  und  Rdmischen  Mythologie,  iii,  1,  col.  258ff.;  also  bv  the
-Mine,  HUlv  und  Parodies,  in  Der  Alte  Orient,  i,  3te  Auf.;  Jensen,  Keilin-
-schrifdiche  Bibliothek,  vi,  1,  pp.  80ff.;  Dhorme,  Choix  de  Textes  Religieux
+Mine,  HUlv  und  Parodies,  in  Der  Alte  Orient,  i,  3te  Auf.;  Jensen,  Keilinschrifdiche  Bibliothek,  vi,  1,  pp.  80ff.;  Dhorme,  Choix  de  Textes  Religieux
 Assyro-Babyloniens,  pp.  326rf.;  Ungnad  in  <  Jrrssinann.  Alt<>ri<  ntaliscln
 Texte  und  Bilder,  i,  pp.  65ff.  Compare  also  Zinunrrn  in  Sohrmder'l
 Keilinschriften  und  das  AW  '.  pp.  561ff.;  O.  Weber,  Lit<rntur
@@ -8826,8 +8427,6 @@ a-na  I -it  lu)  Ir-fkal-la]
 
 5  a-i  -n-bi-Su  la  a-eu-[u]
 
-
-122  CUNEIFORM  PARALLELS
 
 To  the  road  whose  path  turns  not  back.
 To  the  house  where  he  who  enters  is  deprived  of  light,
@@ -8859,8 +8458,7 @@ The  porter  opened  his  mouth  and  spake
 
 1  There  has  been  much  discussion  of  the  meaning  of  this  line,  though
 it  would  appear  hardly  justified.  The  .-Wyrian  means,  literally,  "I
-shall  bring  up  the  dead,  eating,  living."  Maspero  and  Dhorme  trans-
-late, "I  shall  bring  up  the  dead  that  they  may  eat  the  living,"  and
+shall  bring  up  the  dead,  eating,  living."  Maspero  and  Dhorme  translate, "I  shall  bring  up  the  dead  that  they  may  eat  the  living,"  and
 Ungnad  agrees  that  this  is  "possible."  I  feel  doubtful  about  it,  but
 perhaps  the  idea  was  that  they  would  be  like  vampires.
 
@@ -8964,8 +8562,6 @@ a-na  (amrln)  siljri  la-ki-c  lu-uh-ki  sa  ina  la  ume^u  TA.R  [.   .  .]
 a-lik  u$-Si  ba-ab-k[a]
 
 
-124  CUNEIFORM  PARALLELS
-
 Do  unto  her  according  to  the  ancient  custom."
 The  watchman  went  and  opened  for  her  his  gate:
 40  "Enter,  my  lady,  Cutha  greets  thee.
@@ -9064,8 +8660,7 @@ from  my  body?"1
 "Enter,  my  lady,  so  are  the  orders  of  the  sovereign
 
 of  the  land."
-When  Ishtar  had   descended  to  the  land   of    No-
-return,
+When  Ishtar  had   descended  to  the  land   of    Noreturn,
 
 
 » Ishtar  is  now  nude;  only  thus  may  one  enter  the  abode  of  the  dead.
@@ -9087,10 +8682,7 @@ ir-bi  b.-.-1-ti  sa  (ilu)  B«'-lit  irsi-tim  ki-a-ain  parsr-sa
 i5-tu  ul-la-nu-um-ma  (ilu)  15-tar  a-na  ireiti  la  tari  u-ri-du
 
 
-126  CUNEIFORM  PARALLELS
-
-Ereshkigal  saw  her  and  in  her  presence  was  irri-
-tated.
+Ereshkigal  saw  her  and  in  her  presence  was  irritated.
 65  Ishtar  took  no  heed,  she  went  toward  her.
 
 Ereshkigal  opened  her  mouth  and  spoke,
@@ -9195,8 +8787,7 @@ He  created  Asushunamir,3  a  player  (?)4
 
 land  of  No-return,
 
-1  Papsukkal  is  in  mourning  for  Ishtar;  what  other  function  he  per-
-formed in  this  poem  is  not  clear.
+1  Papsukkal  is  in  mourning  for  Ishtar;  what  other  function  he  performed in  this  poem  is  not  clear.
 
 a  Shamash  is  the  brother  of  Ishtar,  and  therefore  mourns  her.  Sin  is
 the  father  of  both,  and,  as  apparently  he  fails  of  suggestion  in  the
@@ -9229,8 +8820,6 @@ I  id-lu  i-na  kum-rni-su
 ib-ni-ma  Asu-Su-na-mir  (aiu.'lu)  ;is-sin-nu
 al-ka  A«u-^0-na-mir  i-na  bab  ireiti  la  tari  Su-kun  pa-ni-ka
 
-
-128  CUNEIFORM  PARALLELS
 
 The  seven  doors  of  the  land  of  No-return  shall  be
 
@@ -9351,16 +8940,13 @@ a-lik  (ilu)  Nam-tar  ma-h,a-as  ekalli  k6ni
 (abnu)  askuppati  u-za-'-i-na  la  (abnu)  v  v-meS
 (ilu)  A-nun-na-ki  U  ieaaa  ina  kus-i  Kur'i^i  u-§e-§ib
 (ilu)   Ei-tar  nir  balati  is-luh-si-ma  il-ka-a§-§i
-i5t-en  babu  u-§e-fli-Si-ma  ut-te-ir-§i  su-bat  §u-pil-ti  §a  zu-um-
-ri-5a
+i5t-en  babu  u-§e-fli-Si-ma  ut-te-ir-§i  su-bat  §u-pil-ti  §a  zu-umri-5a
 
 40  Sana-a  babu  u-Se-^i-5i-ma  ut-te-ir-§i  §e-mir  k/itA-Sa  u  §epa-5a
 sal-sa  babu  u-Se-si-8i-ma  ut-t<>-ir-si  Kb-bq  (ibnu)  aladi  §a  kable-5a
 rebu-u  babu  u-Se-si-si-ma  ut-te-ir-§i  ffll  m  natfl  la  it
 han-§u  babu  u-ie-fi-Si-ma  ut-tc-ir-si  (abnu)  crimmati  Sa  ki5adi-5a
 
-
-130  CUNEIFORM  PARALLELS
 
 From  the  sixth  door  he  brought  her  out,  and  gave
 
@@ -9382,8 +8968,7 @@ With  precious  stones  her  bosom  is  filled
 Belili  heard  the  wailing  of  her  brother,  Belili  smote
 
 the  treasure  which  [.     .     .]
-The   precious   stones    she   arranged    [in]   her  sanc-
-tuary.
+The   precious   stones    she   arranged    [in]   her  sanctuary.
 55  "My  only  brother  disgrace  me  not,
 
 In  the  days  of  Tammuz  play  for  me  on  the  flute  of
@@ -9489,14 +9074,10 @@ i-la-am-ma  N[am-t;t]-ru  a-n:i  -:i-m<--r  si-i-ru-u-ti
 ma-ar  si  [i-ip-ri-ira  a-ba-ti]-Su-nu  ra-a-a-bi-i-ti
 
 
-132  CUNEIFORM  PARALLELS
-
 [A  number  of  lines  here  are  illegible,  and  some  are
 missing  altogether.  It  is,  however,  easy  to  divine  from
-what  follows  that  they  contained  substantially  the  fol-
-lowing. When  Namtar  entered  the  hall  of  the  great
-gods  and  all  arose  to  receive  him  with  honor,  Nergal  re-
-mained seated.  Namtar  reported  the  discourtesy  to
+what  follows  that  they  contained  substantially  the  following. When  Namtar  entered  the  hall  of  the  great
+gods  and  all  arose  to  receive  him  with  honor,  Nergal  remained seated.  Namtar  reported  the  discourtesy  to
 Ereshkigal,  who  interpreted  it  as  a  slight  to  her,  and
 sends  him  back  to  the  gods  with  a  threat  of  vengeance,
 — she  will  kill  the  offender.]
@@ -9524,8 +9105,7 @@ Where  is  the  god,  who  did  not  arise  More  me?"
 
 Behold,  Namtar  goes  away,  [he  gave  his  message].
 
-[A  number  of  lines  illegible,  except  as  to  a  few  dis-
-connected words.]
+[A  number  of  lines  illegible,  except  as  to  a  few  disconnected words.]
 
 [.     .     .]  to  Ereshkig&L    He  weeps  [.     .     .]
 
@@ -9569,8 +9149,7 @@ door
 Of  Erishkigal,  he  called,  "Porter     .     .     .     thy  door
 [.     .     .     unlock]  I  would  enter  before  thy  lady
 Erishkigal.    I  am  sent.    The  porter  went  away.
-55  He  said  to  Namtaru,  "A  god  is  standing  at  the  en-
-trance of  the  door,
+55  He  said  to  Namtaru,  "A  god  is  standing  at  the  entrance of  the  door,
 Come,  look  at  him,  whether  he  may  enter."    Namtar
 went  out.
 
@@ -9595,8 +9174,7 @@ it-ti-ka  a-na  a-la-ki  (ilu)  [.     .     .     ba  (ilu)  Mu-ta-ab-ri-ga]
 it-ti-ka  f.  b]a-a-bu
 
 E-ri-is-ki-jral  i-s[a-si  a-tu  a  [.     .     .]  a  ba-ab-ka
-ub-bi   ru-uin-rni-ina  a-na-ku  lu-ru-u-ub  a-na  ma-b[ar  bi]-e-el-
-ti-ka
+ub-bi   ru-uin-rni-ina  a-na-ku  lu-ru-u-ub  a-na  ma-b[ar  bi]-e-elti-ka
 -is-ki-^;il  a-na-ku  sa-ap-ra-ku  il-li-ik-ma  a-tu-ii
 
 5.")  ik-fa-bi  ;i-n;i  \am-t :i-ri  i-lu  i§-tc-rn  i-n.i  |)i-i  ba-a-l)i  iz-za-zfa]
@@ -9616,8 +9194,6 @@ CO  Su-ri-ba  [s]u  L     .      .     il]-la-ka  Iu-ri-<lu-u[k-s\i|
 .]  ir-ba  fcn-e-U
 bi-tu  a-lja-ti-ka-nia  mu-[.     .     .]-ur  si-i-it-ta-ka
 
-
-134  CUNEIFORM  PARALLELS
 
 Nergal  answered:  "May  thy  heart  rejoice  in  me."1
 
@@ -9728,8 +9304,7 @@ Old   linhi/lnnian   KtnOB,   ii,   pp.  s"iT.      It  has  been  often  transl
 
 ■  rge  Smith,   Transactions  of  the  Society  of  Biblical  Archcrologi/,  i,
 
-fttbbmri    lectures,  p.    26f.  n.  1;  Winekler,  K  rilinschrift-
-i.    pari    i.   p.   l(K)f.;   Ungnad   in  ( Iressmann.  . Utorienta-
+fttbbmri    lectures,  p.    26f.  n.  1;  Winekler,  K  rilinschrifti.    pari    i.   p.   l(K)f.;   Ungnad   in  ( Iressmann.  . Utorienta-
 
 ma  Biider,  i,  p.  7'.).    Oompare  abo  Beaold,  Catalogue,  p.  529,
 ■ad  W.  b<  r.  />iV  Litrratur  der  Babylonier  und  Assyrier,  p.  206.
@@ -9738,8 +9313,6 @@ ma  Biider,  i,  p.  7'.).    Oompare  abo  Beaold,  Catalogue,  p.  529,
 um-rni  e-ni-turn  a-bi  ul  i-<li
 afc  abi-ia  i-ra-ni  §a-da-a
 
-
-136  CUNEIFORM  PARALLELS
 
 My  city  is  Azupiranu,1  which  lies  on  the  bank  of  the
 
@@ -9782,8 +9355,7 @@ id-dan-ni  a-na  [najri  sa  la  e-li-e-a
 iS-§a-an-ni  nam  a-na  eli  (m)Ak-ki  (amelu)  nak-me  u-bil-an-ni
 (m)Ak-ki  (amelu)  nak-m6  i-na  hi-ib   [,     .     .]  li  [.     .     .]   lu-u
 u-§e-la-an-ni
-10  (m)Ak-ki  (amelu)   nak-me  a-na    ma-ru-ti-§u    [.     .     .]    u-rab-
-ban-ni
+10  (m)Ak-ki  (amelu)   nak-me  a-na    ma-ru-ti-§u    [.     .     .]    u-rabban-ni
 (m)Ak-ki  (amelu)  nak-me  a-na    (amelu)     .     .     .     ti-§u    lu-u
 
 [is]-kun-[an-n?"]
@@ -9844,9 +9416,6 @@ Dilmun  (ki)     .     .     .]
 HYMNS  AND  PRAYERS
 
 
-139
-
-
 /M
 
 
@@ -9857,8 +9426,7 @@ Babylonia  and  Assyria  than  the  hymns  and  prayers.
 They  have,  indeed,  sometimes  been  valued  too  highly,
 chiefly  because  they  have  so  frequently  been  appraised
 solely  by  means  of  extracts,  sometimes  indeed  by  very
-short  passages,  and  even  when  judged  by  longer  ex-
-cerpts, these  have  been  so  chosen  as  to  leave  out  essen-
+short  passages,  and  even  when  judged  by  longer  excerpts, these  have  been  so  chosen  as  to  leave  out  essen-
 tial contexts.  The  passages  here  given  are  complete,
 even  the  incantation  rituals  being  carefully  set  down
 with  the  lyrical  or  supplicative  contents.  The  parallels
@@ -9901,8 +9469,6 @@ be-lum  e-tel-h  ilAni  5a  ina  5am.'  e)  U  irsit  im(tim)  c-dii-Si-Su  si-i
 1  11
 
 
-142  CUNEIFORM  PARALLELS
-
 Father  Nannar,  Lord,  Anshar,  chief  of  the  gods,
 Father    Nannar,    Lord,    great    Anu,    chief    of    the
 
@@ -9940,11 +9506,9 @@ a-a   (dimmer)    Uru    (ki)    umun   An-Sdr  nir-ydl   dim-me-ir-e-ne
 a-bu  (ilu)  Na-an-nar  be-lum  An-§ar  e-tel-li  ilani
 a-a  (dimmer)  Uru  (hi)  umun  An  gal-e  nir-gdl  dim-me-ir-e-ne
 a-bu  (ilu)  Na-an-nar  be-lum  (ilu)  A-num  rabu(u)  e-tel-li  ilani
-a-a  (dimmer)  Uru  (ki)  unum  (dimmer)  En-zu-na  nir-gdl  dim-
-me-ir-e-ne
+a-a  (dimmer)  Uru  (ki)  unum  (dimmer)  En-zu-na  nir-gdl  dimme-ir-e-ne
 a-bu  (ilu)  Na-an-nar  be-lum  (ilu)  Sin  e-tel-li  ilani
-a-a  (dimmer)   Uru  (hi)  umun  Uru  (unu)  (ki)-ma  nir-gdl  dim-
-me-ir-e-ne
+a-a  (dimmer)   Uru  (hi)  umun  Uru  (unu)  (ki)-ma  nir-gdl  dimme-ir-e-ne
 5  a-bu  (ilu)  Na-an-nar  be-el  "tf-ri  e-tel-li  ilani
 
 a-a  (dimmer)  Uru  (ki)  umun  e-gis'-Sir-gal  nir-gdl  dim-me-ir-e-ne
@@ -9973,8 +9537,7 @@ uk-ni-i  zak-nu  ku-uz-bu  u  la-la-a  ma-lu-u
 
 HYMN  TO  SIN  143
 
-Fruit  which  hath  created  itself,  of  lofty  form  beau-
-tiful to  look  upon,  in  whose  being  one  cannot
+Fruit  which  hath  created  itself,  of  lofty  form  beautiful to  look  upon,  in  whose  being  one  cannot
 sufficiently  sate  himself;
 
 Mother  womb,  begetter  of  all  things,  who  hast  taken
@@ -9985,8 +9548,7 @@ his  care  the  life  of  the  whole  world.
 
 O  Lord,  thy  divinity  is  full  of  awe,  like  the  far-off
 heaven  and  the  broad  ocean.
-15  O  creator  of  the  land,  founder  of  sanctuaries,  pro-
-claimer  of  their  names.
+15  O  creator  of  the  land,  founder  of  sanctuaries,  proclaimer  of  their  names.
 
 O  Father,  begetter  of  gods  and  men,  who  dost  build
 dwellings  and  establish  offerings,
@@ -10041,8 +9603,6 @@ un-i>a((l)-da-e~ne
 a-fa-ri-«lu  ir:i-:is-ru  h  1iI>-1>:i-sm  ru-ii-ku  ilu  inan-inrui  I:i  ut-tu-u
 
 
-144  CUNEIFORM  PARALLELS
-
 0  hastening  steed,  sturdy  one,  whose  knees  do  not
 grow  weary,  who  dost  open  the  road  for  the  gods,
 thy  brothers,
@@ -10059,8 +9619,7 @@ and  earth,  whose  command  is  not  set  aside.
 Who  holdest  fire  and  water,  and  leadest  all  souls.
 What  god  reaches  thy  fullness?
 
-Who   is   exalted   in   heaven?    Thou   alone   art   ex-
-alted.
+Who   is   exalted   in   heaven?    Thou   alone   art   exalted.
 25  Who  is  exalted  on  earth?    Thou  alone  art  exalted.
 
 Thy  word  is  proclaimed  in  heaven,  and  the  Igigi
@@ -10128,8 +9687,7 @@ living  creatures.
 Thy  word  causes  truth  and  righteousness  to  arise,
 
 that  men  may  speak  the  truth.
-Thy  word  is  like  the  distant  heaven,  and  the  con-
-cealed earth,  which  no  man  can  see.
+Thy  word  is  like  the  distant  heaven,  and  the  concealed earth,  which  no  man  can  see.
 Thy  word,  who  can  know  it,  who  can  compare  with
 
 it?
@@ -10184,16 +9742,13 @@ umun-e  an-na  na-dm-umun-e  ki-a  na-am-nir-ra  dim-me-ir  8e$-
 ilfmi  at-lji-ka  ina-jji-ri  ul  tl-i-si
 
 
-146  CUNEIFORM  PARALLELS
-
 35  King  of  kings,  exalted,  whose  decrees  none  rival,  no
 god  is  like  unto  thy  divinity.
 
 Where  thine  eye  does  glance  faithfully  there  cometh
 harmony  (?)
 
-Where  thou  dost  grasp  the  hand,  there  cometh  sal-
-vation (?)
+Where  thou  dost  grasp  the  hand,  there  cometh  salvation (?)
 
 Gleaming  Lord,  who  dost  guide  and  lead  truth  and
 righteousness  in  heaven  and  upon  earth  (?)
@@ -10202,8 +9757,7 @@ Look  upon  thy  temple,  look  upon  thy  city,
 40  Look  upon  Ur,  look  upon  Egisshirgal,
 
 May  thy  dear  wife  [Ningal  (?)]  the  gracious  [mother],
-may  she  say  to  thee:  "O  Lord  be  ap-
-peased."
+may  she  say  to  thee:  "O  Lord  be  appeased."
 
 The  hero  Shamash,  [thy  son]  may  he  say  to  thee:
 "(O  Lord  be  appeased)."
@@ -10321,18 +9875,14 @@ ikur,  and  the  god  corresponds  to  Rani-
 [u-mu-un)  (dingir  <  [ikur  gud-mag  sig-6-a  mu-zu  dingir  [zag-§u]
 
 
-148  CUNEIFORM  PARALLELS
-
-"Ramman,  child  of  heaven,  mighty  bull   and   glo-
-rious," is  thy  name,  exalted  god  ;
+"Ramman,  child  of  heaven,  mighty  bull   and   glorious," is  thy  name,  exalted  god  ;
 
 "Lord  of  Karkar,1  mighty  bull  and  glorious"  is  thy
 name,  exalted  god;
 5  "Ramman,  lord  of  plenty,  mighty  bull  and  glorious"
 is  thy  name,  exalted  god;
 
-"Companion  of  the  lord   Ea,  mighty  bull  and  glo-
-rious" is  thy  name,  exalted  god;2
+"Companion  of  the  lord   Ea,  mighty  bull  and  glorious" is  thy  name,  exalted  god;2
 
 "Father  Ramman,  lord  that  rideth  the  storm"  is
 thy  name,  exalted  god;
@@ -10394,10 +9944,8 @@ the  storm?
 Ramman   directeth   the   storm,   sendeth   forth   the
 
 storm.
-The  storm  like  the  seven  demons  (?)  flieth;  he  send-
-eth forth  the  storm.
-Spirit,  may  thy  sonorous  voice  give  forth  its  utter-
-ance, he  sendeth  forth  the  storm.
+The  storm  like  the  seven  demons  (?)  flieth;  he  sendeth forth  the  storm.
+Spirit,  may  thy  sonorous  voice  give  forth  its  utterance, he  sendeth  forth  the  storm.
 20  The  lightning,  thy  messenger,  goeth  before  (thee) ,  he
 
 sendeth  forth  the  storm.
@@ -10450,8 +9998,6 @@ a-a  (diriL'ir)   Iskur  «'-ta  «"-;i-ni  ltd  ka  —  i'iui  na-nam
 e-ta  uru-ta  [e-Ja-ni  ug'-btn-da  mnitm
 
 
-150  CUNEIFORM  PARALLELS
-
 30  Out  of  the  city  took  his  way,  the  spirit  of  thunderous
 voice.
 
@@ -10484,8 +10030,7 @@ rejoice  in  thee.
 1  This  text  exists  both  in  an  Assyrian  copy  belonging  to  Ashurbani-
 
 Eal's  library,  and  also  in  a  Surnerian  and  Babylonian  original  discovered
-y  the  Deutsche  Orient-Gesellschaft  in  Babvlon.  The  former  is  pub-
-lished IV  R.,  18,  No.  2,  the  latter  bv  F.  H.  Weissbach,  Babylonxsche
+y  the  Deutsche  Orient-Gesellschaft  in  Babvlon.  The  former  is  published IV  R.,  18,  No.  2,  the  latter  bv  F.  H.  Weissbach,  Babylonxsche
 Miszellen  (1903),  Plate  13f.,  who  also  translates  it  pp.  36ff.  It  is  also
 translated  by  Rogers,  The  Religion  of  Babylonia  and  Assyria,  pp.  178,
 179,  where  there  is  also  some  discussion  of  its  characteristics.  It  is
@@ -10554,8 +10099,7 @@ thee,  "Peace  at  last."
 
 
 1  The  word  "Rest"  here  and  elsewhere  in  the  hymn  is  an  abbreviation
-of  the  old  formula  of  the  incantation  texts,  "May  thy  heart  be  ap-
-peased." The  hymn  was  to  be  sung  antiphonally,  the  priest  repeating
+of  the  old  formula  of  the  incantation  texts,  "May  thy  heart  be  appeased." The  hymn  was  to  be  sung  antiphonally,  the  priest  repeating
 the  first  half  of  the  line  and  the  people  responding  with  the  refrain.
 Compare  the  Hallel  Psalms  of  the  Hebrews,  Psalms  113-118.
 
@@ -10586,8 +10130,6 @@ i«l-lurn  (ilu)  SamaS  da-ar-ru  maru  (ilu)  Nin-gal
 [ilu]  I)am-ki-ria  be-lit  ap-si-i
 20  [(ilui  Sar-pa-ni-tu]rn  kal-l v
 
-
-152  CUNEIFORM  PARALLELS
 
 The  true  messenger,  Nabu,  cry  to  thee,  "Peace  at
 
@@ -10656,8 +10198,7 @@ peace."
 35  Look  graciously  upon  Babylon  and  E-sagila.     Let
 them  cry  to  thee,  "O  lord,  peace."
 
-The  bolt  of  Babylon,  the  lock  of  E-sagila,  the  de-
-fense of  E-zida
+The  bolt  of  Babylon,  the  lock  of  E-sagila,  the  defense of  E-zida
 
 Bring  back  to  their  places.    The  gods  of  heaven  and
 earth,  let  them  cry  to  thee,  "O  lord,  peace."1
@@ -10676,8 +10217,7 @@ lik-bu-ka
 
 4.  A  "PRAYER  OF  THE  RAISING  OF  THE  HAND"
 TO  ISHTAR "
-Incantation.     I  pray  unto  thee,  sovereign  of  sov-
-ereigns, goddess  of  goddesses,
+Incantation.     I  pray  unto  thee,  sovereign  of  sovereigns, goddess  of  goddesses,
 Ishtar,  queen  of  all  men,  directress  of  mankind.
 O  Irnini,2  O  exalted  one,  mistress  of  the  Igigi,
 Thou    art   mighty,   thou   art   queen,    thy   name   is
@@ -10693,8 +10233,7 @@ pp.  19ff.;  Dhorme,  Choix  de  Textes  Religieux  Assyro-Babyloniens,  pp.
 Ungnad  in  Gre«smann,  AUorientalische  Texte  und  Buder,  I,  pp<  oftf.
 
 * Ishtar  is  lure  Identified  with  Irnini,  and  below  with  Uushea.  This
-process  of  identififletioo  «:is  widely  extended.  Elsewhere  she  is  iden-
-tified  with  Nana,  Bettt,  etc.
+process  of  identififletioo  «:is  widely  extended.  Elsewhere  she  is  identified  with  Nana,  Bettt,  etc.
 
 
 Siptu  u-sal-li-ki  he-lit  be-li-e-ti  i-l:it  i-la-a-ti
@@ -10707,8 +10246,6 @@ ka-rit-ti
 
 \
 
-
-154  CUNEIFORM  PARALLELS
 
 Bearing  arms,  establishing  combat,
 
@@ -10817,8 +10354,7 @@ ilani  i-ru-bu  i-nar-ru-tu  (ilu)  A-nun-na-ki
 Sumu-ki  ra-as-bu  iS-tara-ma-ra  te-ni-§e-e-ti
 at-ti-ma  ra-ba-a-ti  u  si-ra-a-ti
 
-nap-bar  sal-mat  kak-ka-di  nam-ma§-§u-u  te-ni-§e-e-ti  i-dal-la-
-lu  kurcli-ki
+nap-bar  sal-mat  kak-ka-di  nam-ma§-§u-u  te-ni-§e-e-ti  i-dal-lalu  kurcli-ki
 25  di-in  ba-lju-la-a-ti  ina  kit-ti  u  mi-sa-ri  ta-din-ni  at-ti
 t:i[)-p.il-l.i-<i  IjaMu  u  §ak-Su  tuS-te-e§-§e-ri  ud-da-kam
 a-Qu-lap-ki  be-lit  §am£(e)  u  irsitim(tim)  ri-e-a-at  ni§6  a-pa-a-ti
@@ -10829,11 +10365,8 @@ a-5u-lap-ki  (ilu)  Ix'lii  ul  a-ni-^a  srpa-ki  la-si-ma  bir-ka-a-ki
 Su-{)U-u-tum  la-ab-bat  (ilu)   I tritri  mu-kan-ui-sat   ilaui  sab-su-ti
 l-li-su-nu  ma-al-ku  sa-bi-ta-at  sir-rit  Sarrani
 i-uiii-rnc  sa  ka-li-si-ua  anlali
-na-an-se-a-at   na-an-di-a-at   ka-rit-ti   (ilu)    IStar   ra-bu-u   lf:ur-
-di-ki
+na-an-se-a-at   na-an-di-a-at   ka-rit-ti   (ilu)    IStar   ra-bu-u   lf:urdi-ki
 
-
-156  CUNEIFORM  PARALLELS
 
 35  Brilliant  torch  of  heaven  and  of  earth,  light  of  all
 v  dwellings,
@@ -10844,16 +10377,14 @@ Flame  that  roarest  against  the  foe,  and  cuttest  off
 the  mighty,
 O  furious  Ishtar,  who  assemblest  troops,
 
-0  goddess  of  men,  goddess  of  women,  whose  de-
-cision none  may  apprehend.
+0  goddess  of  men,  goddess  of  women,  whose  decision none  may  apprehend.
 
 40  Where  thou   dost   regard   the   dead   live,  the   sick
 arise.
 The  unjust  become  just  beholding  thy  face,
 
 1  invoke,  sorrowful,  sighing,  suffering  thy  servant.
-Look  upon  me,  O  my  lady,  and  accept  my  supplica-
-tion,
+Look  upon  me,  O  my  lady,  and  accept  my  supplication,
 
 Pity  me  in  truth,  and  hearken  unto  my  prayer
 45  Speak    deliverance    unto    me,    let    thy    heart    be
@@ -10958,8 +10489,6 @@ a-8al>-bu-'  ki-ma  a-fci-i  §a  up-pa-ku  iim  lim-na
 niiiK    of    lli.-    lin.-    is    ixtr.MK-lv    doubtful.      The   translation
 above  given  is  due  to  suggestions  of  Langdon.
 
-
-158  CUNEIFORM  PARALLELS
 
 My  heart  hath  taken  wing,  it  hath  flown  away  like
 
@@ -11088,8 +10617,6 @@ ma-ii  (ilu)  W-lti-ia  zi-na-ti-ma  su)j-hu-ru  pa-nu-ki
 metd  i  [i-immicii].
 
 
-160  CUNEIFORM  PARALLELS
-
 95  Incline  thy  neck,  now  turned  away,  let  a  word  of
 
 grace  be  before  thy  face,
@@ -11209,15 +10736,12 @@ preeei vatiop  upon  a  separate  tablet    (British   Museum  S.  954,
 
 fiublished  by  Petit  each,  Assyrische  Les<  i  edition,  pp.  134-136).
 
-t  has  been  translated  by  Hussey,  Sumerian- Babylonian  lh/mns,  Amer-
-ican Journal  of  Semitic  Languages,  xxiii,  pp.  169rT.,  and  by  Langdon,
+t  has  been  translated  by  Hussey,  Sumerian- Babylonian  lh/mns,  American Journal  of  Semitic  Languages,  xxiii,  pp.  169rT.,  and  by  Langdon,
 Sumerian  and  Babylftnian  Psalms,  pp.  192n.;  Dhorme,  Choxz  de  Tcxtes
 Heligieuz  Atsyro-Babyloniens,  pp.  366ff.
 
 nu-ur  Sam6(e)  Sa  ki-ma  i-sa-tim  i-na  ma-a-tim  nap-bat  at-ti-ma
 
-
-162  CUNEIFORM  PARALLELS
 
 0  goddess,  when  thou  dost  rise  above  the  earth,
 Even  as  the  earth  thou  art  made  to  journey  forth,
@@ -11331,8 +10855,7 @@ t;t-na-<l:t-tu-u-a
 rat  §ame(e)  e-lifi  u  §ap-lis  lik-ka-l>a-a  ta-na-da-tu-u-a
 sa-di(i)  3-te-nfif  a-sap-pan  ta-na-da-tu-u-a
 
-6a  Sa-di(i)  du-ur-su-nu  ra-bu-u  aua-ku  §i-gar-Su-nu  rabu-u  ana-
-ku  ta-na-da-tu-u-a
+6a  Sa-di(i)  du-ur-su-nu  ra-bu-u  aua-ku  §i-gar-Su-nu  rabu-u  anaku  ta-na-da-tu-u-a
 5  lit»-bu-ki  li-nu-ulj  ka-bat-ta-ki  lin-sab
 
 U-luin  (ilu)  A-nuin  rabuiu)  lib-ba-ki  li-ni-ijj
@@ -11340,8 +10863,6 @@ U-luin  (ilu)  A-nuin  rabuiu)  lib-ba-ki  li-ni-ijj
 lum  fca-au(u)  rabu(u)  (ilu)  Kllil  ka-l>at-ta-ki  li-pa-aS-Si-tfj
 (ilu)  IS-ta-ri-tuni  b<-lit-sau. <■<«•)  lib-ba-ki  li-nu-uh,
 
-
-164  CUNEIFORM  PARALLELS
 
 0  lady,  queen  of  heaven,  let  thy  soul  be  calmed.1
 10  O  lady,  queen  of  E-anna,  let  thy  heart  be  appeased.
@@ -11387,16 +10908,13 @@ er-Sem-ma  (dingir)  innina-ge
 CALLED  BABYLONIAN  JOB,  SECOND  TABLET
 OF  THE  WISDOM  OF  TABI-UTUL-ELLIL l
 
-I  attained  unto  (long)       I   moved   beyond   the  ap-
-life,  pointed  time,
+I  attained  unto  (long)       I   moved   beyond   the  aplife,  pointed  time,
 
 1  Published  IV  R.,  2d  edition,  60.  The  text  was  already  the  subject
-of  comment  in  Assyrian  times,  and  explanations  in  Assyrian  are  pub-
-lished in  V  R.,  47.  It  lias  been  repeatedly  translated  in  whole  or  part;
+of  comment  in  Assyrian  times,  and  explanations  in  Assyrian  are  published in  V  R.,  47.  It  lias  been  repeatedly  translated  in  whole  or  part;
 see  especially  Zimmern,  in  Schroder's  Die  Kcilinschriften  und  das  Alte
 Testament,  3te  Auf.,  p.  385,  and  also  in  Babylonische  Hymnen  und
-(Der  Alte  Orient,  vii,  3),  pp.  28ff.;  Jastrow,  Die  Religion  Baby-
-limi,  ns  und  Assyriens,  ii,  pp.  125ft.;  Dhorme,  Choix  de  Textes  Religieux
+(Der  Alte  Orient,  vii,  3),  pp.  28ff.;  Jastrow,  Die  Religion  Babylimi,  ns  und  Assyriens,  ii,  pp.  125ft.;  Dhorme,  Choix  de  Textes  Religieux
 Assyro-Babyloniens,  pp.  372ff.;  Ungnad  in  Gressmann,  Altorientalisclf
 Trxtc  und  Bilder,  i,  pp.  92,  93.  A  resumg  by  Jastrow,  in  ZA,  xx,  pp.
 191ff.  A  portion  of  the  third  tablet  has  been  published  recently  bv
@@ -11410,12 +10928,8 @@ ak§ud-ma  a-na  ba-lat  a-dan-na  i-te-ik
 WISDOM  LITERATURE
 
 
-165
-
-
 Wherever  I  turn,
-Oppression  is  in-
-creased,
+Oppression  is  increased,
 I  have  cried  unto  my
 god,
 5  I  invoked  my  goddess,
@@ -11423,11 +10937,9 @@ god,
 The     Enchanter     did
 not  fix
 
-The  seer,  at  the  liba-
-tion,
+The  seer,  at  the  libation,
 
-I  turned  to  the  necro-
-mancer,
+I  turned  to  the  necromancer,
 
 The  magician  by  his
 sorceries
@@ -11459,8 +10971,7 @@ face.
 but  she  lifted  not  up  her
 head.
 
-through  his  oracle  the  fu-
-ture.
+through  his  oracle  the  future.
 
 did  not  establish  my  right.
 
@@ -11503,12 +11014,6 @@ I  pi-i-su  ip>-par-ku-u  Hi-up-pw  tas-li-ti
 il>-tj-lu  u-nm  ili  i-inaWu  eWe-5i
 
 
-166
-
-
-CUNEIFORM  PARALLELS
-
-
 Who  has  lain  down  on
 
 his  side
@@ -11531,8 +11036,7 @@ But    I    myself    took
 
 thought  only
 Prayer  was  my  rule,
-25  The  day  of  god's  hon-
-oring
+25  The  day  of  god's  honoring
 The  day  of  following
 
 after  the  goddess
@@ -11545,9 +11049,6 @@ To  honor  the  name  of
 
 of  the  goddess
 The  respect  of  the  king
-
-
-30
 
 
 and     has      despised    their
@@ -11565,8 +11066,7 @@ who  was  to  be  honored  (?)
 the  mighty  name  of  his
 god — I  was  like  him.
 
-for  prayers  and  supplica-
-tion.
+for  prayers  and  supplication.
 
 sacrifice  my  order,
 
@@ -11607,14 +11107,10 @@ ta-na-da-a-ti  sarri  e-lls  u-mas-sil
 WISDOM  LITERATURE
 
 
-167
-
-
 In  reverence  of  the
 palace
 
-For  I  knew  that  be-
-fore the  god
+For  I  knew  that  before the  god
 
 That    which    seemeth
 good  to  itself,
@@ -11633,8 +11129,7 @@ men  understand
 
 He  who  lives  in  the
 evening
-40  Quickly  is  he  in  trou-
-ble,
+40  Quickly  is  he  in  trouble,
 
 In  a  moment
 
@@ -11662,11 +11157,9 @@ the  way  of  the  gods !
 is  in  the  morning  dead,
 suddenly  is  he  smitten;
 
-he  is  singing  and  play-
-ing,
+he  is  singing  and  playing,
 
-he  is  howling  like  a  com-
-plainer.
+he  is  howling  like  a  complainer.
 
 so  are  their  thoughts
 changed,
@@ -11694,12 +11187,6 @@ ini-rnu-s.i-riia  im-nia-a  s:i-l.in:
 •i  i-na  ili-sun
 
 
-168
-
-
-CUNEIFORM  PARALLELS
-
-
 If    it    go    well    with      they  speak  of  climbing  up
 
 them,  to  heaven;
@@ -11724,8 +11211,7 @@ beaten  me,
 With   a   staff   he  has
 pierced  me,
 
-All  day  long  doth  fol-
-low
+All  day  long  doth  follow
 
 In  the  middle  of  the
 night  he  lets  me  not
@@ -11799,11 +11285,9 @@ The  goddess  did  not  she  came  not  to  my  side.
 
 pity  me,
 
-The    tomb     hath  they     seized     my    habita-
-opened,  tion  (?)
+The    tomb     hath  they     seized     my    habitaopened,  tion  (?)
 
-20  Before  I  was  dead,  the    death    wail    was    fin-
-ished.
+20  Before  I  was  dead,  the    death    wail    was    finished.
 
 My  whole  land  cried  "How  is  he  destroyed !"
 
@@ -11849,8 +11333,6 @@ i  sa  /tji-mir  kim-ti-ia
 25  Sa  ki  ilu-ut-.su-un  i-r!m
 
 
-170  CUNEIFORM  PARALLELS
-
 7.  AN  INCANTATION  WITH  ETHICAL  CONTENTS1
 [Incantation.    I  invoke  you],  ye  great  gods,
 .     .     .     God  and  goddess,  lords  of  atonement,
@@ -11869,7 +11351,6 @@ Has  he pointed  with  the  finger?
 
 whispering,
 
-10
 
 Has  he  despised  his  god,  has  he  despised  his  goddess?
 
@@ -11884,8 +11365,7 @@ Kenntnis8  der  Babylonischen  Religion  (1901),  and  also  translated,  pp.
 Iff.,  and  by  Ungnad  in  Gressmann,  Altorientalische  Texte  und  Bilder,
 i,  pp.  96ff.,  and  portions  of  it,  with  comment,  by  Rogers,  Religion  of
 Babylonia  and  Assyria,  pp.  l">7tT.  This  incantation  forms  the  second  of
-the  nine  tablets  composing  the  Shurpu  (i.  e.,  Burning)  series.  These  incan-
-tations are  intended  to  remove  bans  and  curses  of  all  kinds,  through
+the  nine  tablets  composing  the  Shurpu  (i.  e.,  Burning)  series.  These  incantations are  intended  to  remove  bans  and  curses  of  all  kinds,  through
 ritual  ceremonies,  in  which  various  obieets  an-  burned.  The  interest  of
 this  particular  tablet  is  found  especially  in  the  very  high  ethical  ideas
 mingled  promiscuously  with  primitive  views  of  demoniacal  forces.  The
@@ -11948,20 +11428,16 @@ Has  he  set  a  brother  at  variance  with  a  brother?
 
 Has  he  set  a  friend  at  variance  with  a  friend?
 
-Has  he  set  a  companion  at  variance  with  a  com-
-panion?
+Has  he  set  a  companion  at  variance  with  a  companion?
 
 Has  he  not  set  free  a  prisoner,  or  loosed  a  captive?
 30  Has  he  not  let  a  prisoner  see  the  light?
 
-Has  he  said  of  a  prisoner,  "Seize  him/'  or  of  a  bond-
-man, "Bind  him"?
+Has  he  said  of  a  prisoner,  "Seize  him/'  or  of  a  bondman, "Bind  him"?
 
 Is  it  perchance  a  sin  against  a  god,  or  a  transgression
 against  a  goddess?
 
-
-15
 
 .     .  -4)1
 
@@ -11975,7 +11451,6 @@ e-nis-tum  da-a-su
 
 na-ni  ali-sa  li-sah-hi-ru
 
-20
 
 ijbi
 
@@ -12035,8 +11510,6 @@ a-na  sa-:il>-ti  ma  :i-na  k:i--i-i  ku-us-si-Su-ma  ik-bu-u
 ul  i-<li  scr-ti  ill       ul  i-<li       cu-uit  (ilu)  1
 
 
-172  CUNEIFORM  PARALLELS
-
 Has  he  vexed  a  god,  despised  a  goddess?
 
 Against  a  god  are  his  sins,  against  a  goddess  his
@@ -12053,18 +11526,15 @@ great?
 For  No,  said  Yes?
 
 For  Yes,  said  No?
-40  Has  he  spoken  an  unsuitable  word,  has  he  a  re-
-bellious   .     .     .     ?
+40  Has  he  spoken  an  unsuitable  word,  has  he  a  rebellious   .     .     .     ?
 
 Has  he  spoken  coarsely?
 
 Has  he  used  false  weights,     .     .     .     ?
 
-Has  he  accepted  counterfeit  money,  has  he  not  ac-
-cepted good  money?
+Has  he  accepted  counterfeit  money,  has  he  not  accepted good  money?
 
-Has  he  driven  out  a  righteous  son,  has  he  an  un-
-righteous son  set  up?
+Has  he  driven  out  a  righteous  son,  has  he  an  unrighteous son  set  up?
 45  Has  he  set  up  a  wrong  landmark,  has  he  not  set  up  a
 right  landmark?
 
@@ -12228,8 +11698,6 @@ kis-pi  u  ru-bi-o  k:it->n  u-bi-lu
 70  ina  ikkibi  inar-^i  Sa  i-ku-lu
 
 
-174  CUNEIFORM  PARALLELS
-
 On  account  of  the  many  sins,  which  he  has  sinned,
 On  account  of  the  company,  which  he  has  broken  up,
 On   account   of   the   united   band,   which   he   tore
@@ -12309,8 +11777,7 @@ was  banned.
 sister  he  was  banned.1
 
 
-1  So  through  many  lines  the  exorciser  tries  to  discover  by  what  witch-
-craft the  sufferer  has  been  afflicted,  and  then  finally  the  tablet  ends
+1  So  through  many  lines  the  exorciser  tries  to  discover  by  what  witchcraft the  sufferer  has  been  afflicted,  and  then  finally  the  tablet  ends
 with  exorcisms  intended  to  bring  the  ban  to  an  end.
 
 an  dunan  abi  u  um-mi  it-ta-mi
@@ -12330,8 +11797,7 @@ Give  food  to  eat,  give  wine  to  drink,
 10  Seek  the  truth,  provide  for  and     .     .     .
 With  him,  who  thus  acts  his  god  is  pleased,
 
-1  A  didactic  poem,  of  which  we  possess  several  fragments.  The  prin-
-cipal fragment  [K.  3364]  was  first  studied  by  George  Smith,  who  sup-
+1  A  didactic  poem,  of  which  we  possess  several  fragments.  The  principal fragment  [K.  3364]  was  first  studied  by  George  Smith,  who  sup-
 posed it  to  be  part  of  the  Epic  of  Creation,  forming  an  address  of  "tne
 d'  itv  to  the  newly  created  man  on  his  duties  to  his  god"  (Chaldean
 Genesis,  p.  80),  but  this  has  been  disproved  bv  King,  who  published
@@ -12344,8 +11810,7 @@ Tablets  of  Creation,  ii,  Plates  Ixiv-lxvi.  Compare  also  vol.  i,  pp.  2
 An  important  duplicate  [K.  7897]  was  published  by  Macmillan,  Beitrage
 zur  Assyriologie,  v,  pp.  622-3,  and  the  available" texts  combined  and
 tnUMlated,  pp.  557-62.  Zimmern  published  a  fragment  [K.  8231]  in  the
-Z<  iLirfirift  fiir  Assyriologie,  v,  pp.  622-3,  vol.  xxiii,  p.  368f.,  which  com-
-pletes the  Macmillan  fragment    materially.       Bee  also  Delitzsch,  Welt-
+Z<  iLirfirift  fiir  Assyriologie,  v,  pp.  622-3,  vol.  xxiii,  p.  368f.,  which  completes the  Macmillan  fragment    materially.       Bee  also  Delitzsch,  Welt-
 
 ngaepos,  and  Ungnad  in  Gressmann  s  Texte  und  Bilder,  i,  pp.  98-9.
 
@@ -12361,8 +11826,6 @@ su-kil  a-kalu  si-ki  ku-ru-un  (?)-nu
 ris  kit-tu  e-pi-ir  u  f.      .      .
 a-na  an-nim-m:i  i!u-su  Jja-di-§u
 
-
-176  CUNEIFORM  PARALLELS
 
 He  is  pleasing  to  Shamash,  he  will  requite  him  with
 good.
@@ -12389,8 +11852,7 @@ In  thine  adversity  will  not  lift  thee  up.
 In  thy  conflicts  she  will  ridicule  thee.
 25  Fear  of  god  and  humility  are  not  with  her.
 
-If    she   come   to   (thy)    house   remove    her    there-
-from,
+If    she   come   to   (thy)    house   remove    her    therefrom,
 Upon    the    track    of    a  foe   let    her   attention    be
 turned.
 
@@ -12490,8 +11952,6 @@ Cl  a-na  at-ri-iin-ma  it-ti  ili  tus-tc-sir-[ka?|'
 1 8o  Maemillan,  but  unoertalo      K  not  have  ka.
 
 
-178  CUNEIFORM  PARALLELS
-
 In  thy  wisdom  read  from  the  tablet.
 20  The  fear  (of  god)  begetteth  favor,
 
@@ -12509,8 +11969,7 @@ thou  speak]
 
 If  thou  hast  promised  aught,  give  [it  to  him]
 
-If  thou  hast  encouraged  (him),  [leave  him  not  after-
-wards at  loss]
+If  thou  hast  encouraged  (him),  [leave  him  not  afterwards at  loss]
 
 [The  lines  following  are  too  badly   broken  to  be
 intelligible.]
@@ -12617,8 +12076,6 @@ dingir  Lomgl  ummiu  sa-[| »::r  ]
 li-l>i-ir  umun  sub-{b^]
 
 
-180  CUNEIFORM  PARALLELS
-
 Alas,         god  of  wailing  and  shining  eyes.
 Alas,         my  heavenly  wailer  (?)
 20  Alas,         Dagalushumgalanna
@@ -12641,8 +12098,7 @@ With  sighing  for  Damu,  the  lord,
 34,  35  Has  the  hero  gone  unto  the  far  away  land  which
 is  not  revealed.
 
-How   long   shall   the  springing   of   verdure   be   re-
-strained?
+How   long   shall   the  springing   of   verdure   be   restrained?
 
 
 1  Gloss,  "The  sun  multiplies  the  dead  upon  the  earth."
@@ -12755,12 +12211,6 @@ ral>-bu-tu-Su  ina  e-bu-ri  §al-lu-ma  Hal-lum
 .     .     .     .su-nu     .     .     .?
 
 
-182
-
-
-CUNEIFORM  PARALLELS
-
-
 Reverse  of  Berlin  Tablet  (VA  Th.  402) :
 
 2 water  he  drank  not    .     .     .
@@ -12796,16 +12246,7 @@ sittest  thou?
 5  .
 
 
-7
-8
-
 g
-
-10
-
-11
-
-12
 
 
 13  .
@@ -12851,8 +12292,7 @@ ki  ki-ma  labiri-§u  §a-tir-ni:i  l»ari
 [The  lord  of  destiny  (?)  abides  no  more],  the  lord  of
 destiny  (?)  abides  no  more.2
 
-1  The  text  in  the  Sumerian  language  is  published  by  King  in  Cunei-
-form Texts  from  Babylonian  Tablets  in  the  British  Museum,  xv,  No.  is.
+1  The  text  in  the  Sumerian  language  is  published  by  King  in  Cuneiform Texts  from  Babylonian  Tablets  in  the  British  Museum,  xv,  No.  is.
 It  was  first  translated  by  Zimmern  (Sumerisch-babylonische  Tamuzlieder,
 Berichte  der  Koniglich  Sachsischen  Gesellschaft  der  Wissenschaften.
 Band  59,  1907,  pp.  226ff.).  It  has  been  again  edited  and  translated  by
@@ -12860,8 +12300,7 @@ Langdon,  Sumerian  and  Babylonian  Psalms,  pp.  317-321,  and  by  Ungnad
 in  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  pp.  95,  96,  and  again
 by  J.  D.  Prince,  Journal  of  the  American  Oriental  Society,  xxx,  pp.  95ff.
 
-2  The  hymn  is  spoken  by  the  goddess  Ishtar  as  a  lament  for  ner  con-
-sort. The  expression  "abides  no  more"  means  "abides  no  more  on
+2  The  hymn  is  spoken  by  the  goddess  Ishtar  as  a  lament  for  ner  consort. The  expression  "abides  no  more"  means  "abides  no  more  on
 earth."  The  hymn  is  quite  curious  because  of  its  refrains,  "abides  no
 more,"  etc.    Compare  Psalm  136.
 
@@ -12909,8 +12348,7 @@ of  the  Land  abides  no  more.
 When  he  slumbers,  the  sheep  and  lambs  slumber
 also.
 
-When  he  slumbers,  the  she-goats  and  the  kids  slum-
-ber also.
+When  he  slumbers,  the  she-goats  and  the  kids  slumber also.
 
 
 i  A  city  in  southern  Babylonia  and  a  seat  of  metal  workers.  See
@@ -12951,12 +12389,6 @@ Se{§  dag]al  mu-ten-na  nu-un-til
 bf-e  a-<lfm  Dtd-de  60  udu-sil-bi  u-bi  a-<lfm  m>-dur
 
 bf-e  a-dfm  nad-de-en  viz  mas-bi  u-bi  :i-<li'm  lu^li'ir
-
-
-184
-
-
-CUNEIFORM  PARALLELS
 
 
 As  for  me  to  the  abode  of  the  abyss
@@ -13019,9 +12451,6 @@ Ishtar,  so  Zimmcrn.
 a  Supply,  "Food  I  eat  not,"  "water  I  drink  not."
 
 
-25
-
-
 me-e  du-tul
 du  elim-ma
 20  [kalag]  mu-lu-mu  me-a
@@ -13073,12 +12502,6 @@ u-mu-un-da
 
 
 A  PRAYER  FOR  A  DREAM
-
-
-185
-
-
-10
 
 
 My  good  husbandmen,1
@@ -13177,8 +12600,6 @@ Suttu  a-na-ta-lu  lu-u  <l:wnk:it  (at)
 Suttu  a-na-ja-lu  lu-u  kin:it  (at)
 
 
-186  CUNEIFORM  PARALLELS
-
 5  Turn  the  dream  I  behold  unto  favor.
 
 May  the  god    .     .     .    the  goddess  of  dreams  stand
@@ -13214,9 +12635,6 @@ lud-lul  nir-bi-ka  lut-ta-'-id  ilu-ut-ka
 LITURGICAL  AND  DOCTRINAL  TEXTS
 
 
-187
-
-
 1.  THE  SUPPOSED  BABYLONIAN  SABBATH «
 
 (1)  An  evil  day.  (2)  The  shepherd  of  great  peoples
@@ -13236,8 +12654,7 @@ Marduk  and  Ishtar,  he  shall  offer  a  sacrifice.  (11)  The
 lifting  up  of  his  hands3  will  then  be  pleasing  to  god.
 
 i  The  text  is  published  IV  R.,  32f.  This  section  applies  to  the  7,  14,
-19,  21,  and  28  days.  It  has  been  repeatedly  translated.  See,  for  ex-
-ample, Zimmern,  Die  Keilinschriften  und  das  Alte  Testament,  3rd  edition,
+19,  21,  and  28  days.  It  has  been  repeatedly  translated.  See,  for  example, Zimmern,  Die  Keilinschriften  und  das  Alte  Testament,  3rd  edition,
 p.  593;  Dhorme,  Choix  de  Textes  Rdigieux  Assyro-Babyloniens,  pp.  380,
 381;  Ungnad  in  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  pp.  99,
 100.  The  text  is  that  for  the  seventh  day,  with  variants  for  the  other
@@ -13250,8 +12667,7 @@ alaUM  mfiUMi     baked  in  an  oven."
 
 (1)  umu  limnu  (2)  re'u  nise  ra-ba-a-ti  (3)  §iru  sa  ina  pi-en-ti
 ba-aS-lu  sa  tum-ri  ul  akal  (4)  subat  pag-ri-§u  ul  unakk-ar  ub^bu-ti
-ul  iUabbaS  (5)  ni-ku-u  ul  inak-ki  sarru  narkabta  ul  irakab  (6)  sal-
-tiS  ul  i-tam2-me  a-sar  pu-uz-ri  (amelu)  baru  amata  ul  isakkan
+ul  iUabbaS  (5)  ni-ku-u  ul  inak-ki  sarru  narkabta  ul  irakab  (6)  saltiS  ul  i-tam2-me  a-sar  pu-uz-ri  (amelu)  baru  amata  ul  isakkan
 (7)  asu  ana  marsi  kat-su  ul  ub-bal  (8)  ana  epeS  arrati  la  natu
 (9)  ina  musi3  (10)  &arra  nindabu-su  ina  pan  (ilu)  Marduk  u  ilu
 u  kan  ni-ki-e  inak-ki  (11)  nis  kati-§u  itti  ili  ma-gir.5
@@ -13271,8 +12687,6 @@ Tn  early  times  the  Dumber  of  gods  in  the  pantheon
 ised  rapidly,  so  th:ti  before  the  period  of  Sam-
 
 
-190  CUNEIFORM  PARALLELS
-
 murapi  (about  2000  B.  C.)  more  than  sixty  gods  find
 mention.1  Many  of  these  deities  are  the  importations
 of  other  peoples  who  came  into  Babylonia  and  founded
@@ -13281,8 +12695,7 @@ back  to  the  remotest  period  of  Sumerian  life.  Many
 are  mere  duplications.  Every  city  would  have  a  moon
 god  and  a  sun  god,  and  the  names  given  to  them  would
 often  vary  in  different  places.  For  a  long  time  these
-divine  names  increased  rather  than  diminished  in  num-
-ber, even  though  from  time  to  time  one  god  was  ab-
+divine  names  increased  rather  than  diminished  in  number, even  though  from  time  to  time  one  god  was  ab-
 sorbed by  another  when  one  city  conquered  another.
 There  was  also  a  marked  tendency  to  increase  the
 divine  names  by  adding  various  attendants  to  the  god,
@@ -13294,13 +12707,10 @@ will  my  lord  eat?"  and  Mina-ishti-bSli,  "(god)  What
 will  my  lord  drink?"2  By  such  accretions  as  these  the
 number  of  the  gods  increased  enormously,  and  the
 priests  were  forced  to  make  lists  of  them  in  order  to  be
-sure  of  their  rightful  place  and  due  honor.  In  the  mak-
-ing of  these  lists  a  sort  of  classification  was  adopted,  by
-which  the  names  of  minor  deities,  who  are  mere  reflec-
-tions of  a  great  god,  are  identified  as  expressing  certain
+sure  of  their  rightful  place  and  due  honor.  In  the  making of  these  lists  a  sort  of  classification  was  adopted,  by
+which  the  names  of  minor  deities,  who  are  mere  reflections of  a  great  god,  are  identified  as  expressing  certain
 aspects  of  his  nature.  An  interesting  specimen  of  this
-sort  of  classification  is  given  below  in  the  list  of  identi-
-fications of  the  god  Bad  (see  A).  It  is  to  be  specially
+sort  of  classification  is  given  below  in  the  list  of  identifications of  the  god  Bad  (see  A).  It  is  to  be  specially
 noted  that  all  these  are  minor  deities  except  the  great
 Ellil,  of  whom  Bad  was  a  mere  reflection.    Such  iden-
 
@@ -13309,8 +12719,7 @@ Ellil,  of  whom  Bad  was  a  mere  reflection.    Such  iden-
 ?p.  51,   52.    Compare   Rogers,  Religion  of  Babylonia  and  Assyria,  pp.
 8,  79.
 
-»  These  names  occur  on  K.  4332,  which  is  published  by  King,  Cunei-
-form Texts,  xxiv,  Plates  12-17.  Compare  also  on  these  divine  names,
+»  These  names  occur  on  K.  4332,  which  is  published  by  King,  Cuneiform Texts,  xxiv,  Plates  12-17.  Compare  also  on  these  divine  names,
 xb.,  p.  5.
 
 
@@ -13319,16 +12728,14 @@ THE  PANTHEON  191
 tifications  of  goddesses  are  less  frequent,  except  in  the
 case  of  Ishtar,  of  which  an  interesting  specimen  is
 reproduced  below  (see  B).  These  identifications,  while
-interesting  as  showing  a  tendency  to  diminish  the  over-
-powering number  of  the  gods,  are  relatively  unimportant
+interesting  as  showing  a  tendency  to  diminish  the  overpowering number  of  the  gods,  are  relatively  unimportant
 because  the  identifications  are  all  made  with  minor
 deities.  There  is,  however,  one  late  Babylonian  tablet
 in  which  the  greatest  of  the  gods  are  identified  with
 Marduk  (see  C).  This  tablet  has  been  the  subject  of  a
 great  controversy,1  in  which  it  has  been  freely  argued
 that  it  is  monotheism,  or  an  approach  to  monotheism,
-or  latent  monotheism.  It  seems  an  unnecessary  con-
-fusion in  critical  terminology  to  use  the  word  "mono-
+or  latent  monotheism.  It  seems  an  unnecessary  confusion in  critical  terminology  to  use  the  word  "mono-
 theism" at  all  in  connection  with  the  passage.  It  is
 quite  plainly  nothing  but  pantheism,  and  not  even
 henotheism.  We  may  quite  properly  speculate  upon
@@ -13337,8 +12744,7 @@ among  the  later  Babylonian  philosophizing  priests,  but
 there  is  no  evidence  for  even  this  in  the  present  passage.
 
 
-1  The  tablet  was  first  published  by  Pinches,  Journal  of  the  Transac-
-tions of  the  Victoria  Institute,  1896,  p.  8,  who  argued  that  it  was  "at
+1  The  tablet  was  first  published  by  Pinches,  Journal  of  the  Transactions of  the  Victoria  Institute,  1896,  p.  8,  who  argued  that  it  was  "at
 least  an  approach  to  monotheism"  (ib.,  p.  11).  It  was  then  taken  up  by
 Delitzsch  (Babel  u.  Bibel,  p.  49),  who  supported  him.  This  led  to  the
 famous  Babel-Bibel  controversy,  the  chief  papers  in  which  are  the
@@ -13352,8 +12758,7 @@ Karl  Budde,  Das  Alte  Testament  und  die  Ausgrabungen.    Giessen,  1903.
 Karl  Budde,  Was  soil  die  Gemeinde  aus  dem  Streit  urn.  Babel  und.  Bibel
 lernen.     Leipzig,  1903.
 
-Fritz  Hommel,  Die  altorientalischen  Denkmaler  und  das  Alte  Testa-
-ment.    Berlin,  1902.
+Fritz  Hommel,  Die  altorientalischen  Denkmaler  und  das  Alte  Testament.    Berlin,  1902.
 
 Alfred  Jeremias,  Im  Kampfe  um  Babel  und  Bibel,  3te  Auf.  Leipzig,
 1903.
@@ -13362,23 +12767,18 @@ Samuel  Oettli,  Der  Kampf  um  Bibel  uvtl  Huh,  I.
 
 nrieh  Ziminern,  Keilinschriften  und  Hif»l.     Berlin,  1903.
 
-On  this  particular  tablet  compare  also  Zimmern  in  Sehradrr,  Kcilin-
-nchriften  und  das  Alte  Testament,  'Me  Auf.,  p.  f>(><>,  who  funis  in  it  "iin<n
+On  this  particular  tablet  compare  also  Zimmern  in  Sehradrr,  Kcilinnchriften  und  das  Alte  Testament,  'Me  Auf.,  p.  f>(><>,  who  funis  in  it  "iin<n
 an  initnot heist  ische  odt-r  wenigstens  henotneistische  Anschauung  strei-
 Grundton,"  but  continue!  thai  "von  efoem  Durehbrueh  zu
-wirkliehf  in  Itonotheismus  in  Berefohe  der  babyionJsohen  Wetteaechau-
-ehl  eJgentUch  <li»-  Redeseui  kann."  But  Jeremlae  (77m  <>l<l'I'is-
+wirkliehf  in  Itonotheismus  in  Berefohe  der  babyionJsohen  Wetteaechauehl  eJgentUch  <li»-  Redeseui  kann."  But  Jeremlae  (77m  <>l<l'I'is-
 tament  in  the  Light  of  the  Ancient  East,  p.  86)  finds  a  "Intent  monotheism"
 in  it  and  other  passages.  King  al
 speaks  of  it  as  "a  still  further  st(j>  in  rb  advance  toward  monot !
 
 
-192  CUNEIFORM  PARALLELS
-
 The  priests  remained  polytheists  to  the  end,  as  the  vast
 masses  of  religious  literature  plainly  shows.  None  the  less
-are  these  speculations  interesting  and  important  as  show-
-ing efforts  after  a  simplification  of  the  cumbrous  Pantheon.
+are  these  speculations  interesting  and  important  as  showing efforts  after  a  simplification  of  the  cumbrous  Pantheon.
 
 A.  Identification  of  Minor  Gods  l
 Ellil  is  Bad  (as  god)  of  the  land.
@@ -13498,10 +12898,8 @@ Tishpak         is  Marduk  (as  god)  of  troops  (or  armies,
 hosts)
 
 
-1  The  text  was  first  published,  transliterated,  translated,  and  dis-
-cussed by  Pinches,  Jmirrud  of  the  Victoria  Institute,  1896,  pp.  8fT.  It
-is  newly  published,  with  t  nmslit  erat  ion  and  translation  by  King,  Cunei-
-form Texts,  xxiv,  Plate  50  and  p.  9.
+1  The  text  was  first  published,  transliterated,  translated,  and  discussed by  Pinches,  Jmirrud  of  the  Victoria  Institute,  1896,  pp.  8fT.  It
+is  newly  published,  with  t  nmslit  erat  ion  and  translation  by  King,  Cuneiform Texts,  xxiv,  Plate  50  and  p.  9.
 
 (ilu)  Tu  (?)  (ilu)  Marduk  sa  e-rinsu
 
@@ -13526,12 +12924,6 @@ uk-tu
 (ilu)  Adad  (ilu)  Marduk  sa  zu-un-nu
 
 (ilu  (ilu)  Marduk  sa  um-ina-nu
-
-
-194
-
-
-CUNEIFORM  PARALLELS
 
 
 Gal  (?)  is  Marduk  (as  god)  of    .     .     .
@@ -13585,8 +12977,7 @@ edition.
 
 8  NisAnu  means  "beginning."  The  Babylonian  New  Year  began  with
 the  time  of  the  vernal  equinox;  the  Jewish  year,  on  the  other  hand,
-began  about  the  time  of  the  autumnal  equinox,  but  during  the  Baby-
-lonian captivity  the  Jews  adopted  the  Babylonian  calendar  and  con-
+began  about  the  time  of  the  autumnal  equinox,  but  during  the  Babylonian captivity  the  Jews  adopted  the  Babylonian  calendar  and  con-
 tinued its  use  until  the  first  century  B.  C,  when  the  old  Jewish  year
 was  readopted  and  is  still  maintained.
 
@@ -13598,10 +12989,8 @@ was  readopted  and  is  still  maintained.
 therefore,  to  an  old  calendar  in  which  the  year  began  with  the  autumnal
 equinox.
 
-•  Arakhshamnu  means  "eighth  month";  Heb.,  Marchesvan,  for  Merach-
-shAven,  a  change  due  to  transposition  of  vowels.  See  Zeitschri/t  fiir
-Assyrvologie,  ii,  p.  266.  On  the  names  see  further  Haupt,  Purim,  Bei-
-trAge  zur  Assyriologie,  vi,  32.
+•  Arakhshamnu  means  "eighth  month";  Heb.,  Marchesvan,  for  MerachshAven,  a  change  due  to  transposition  of  vowels.  See  Zeitschri/t  fiir
+Assyrvologie,  ii,  p.  266.  On  the  names  see  further  Haupt,  Purim,  BeitrAge  zur  Assyriologie,  vi,  32.
 
 (arfcu)  nisanu  sa  (ilu)  A-num  u  (ilu)  En-lil
 
@@ -13658,8 +13047,7 @@ man.3
 
 
 1  A  fragment  in  Sumerian  and  Assyrian  published  IV  R.f  26,  No.  6,
-and  again  in  the  2d  edition,  26,  No.  6,  with  some  duplicates  in  the  Addi-
-tions and  Corrections,  p.  5.  A  more  complete  edition  in  Cuneiform
+and  again  in  the  2d  edition,  26,  No.  6,  with  some  duplicates  in  the  Additions and  Corrections,  p.  5.  A  more  complete  edition  in  Cuneiform
 Texts,  xvii,  p.  37.  Translated  by  Zimmern  in  Schrader,  KeUinschriften
 und  das  Alte  Testament,  3te  Auf.,  p.  597,  and  by  Ungnad  in  Gressmann,
 Altoricntalische  Texte  und  Bilder,  i,  p.  101.
@@ -13698,13 +13086,6 @@ hich  are  mentioned  in  a  ritual  text  in  Cuneiform  Texts,  iv,  p.  4.
 ia
 
 
-11
-16
-16
-
-17
-
-
 .      .      .      .    ba-an-si^
 
 .      .      .      .    it-ta-<lin
@@ -13716,22 +13097,17 @@ ia
 .]  li-i{>-pa-si-ir
 
 
-19(3  CUNEIFORM  PARALLELS
-
 Bl
 
 A  somewhat  similar  set  of  ideas  appears  in  the  treaty
 made  between  Mati-el,  of  Arpad,  and  Ashur-nirari,  king
-of  Assyria  (754-745  B.  C).  The  following  are  the  sig-
-nificant lines.  After  the  treaty  had  been  arranged  a
+of  Assyria  (754-745  B.  C).  The  following  are  the  significant lines.  After  the  treaty  had  been  arranged  a
 ram  is  sacrificed,  which  represents  Mati-el,  the  different
-parts  of  its  body  standing  severally  for  the  correspond-
-ing parts  of  his.
+parts  of  its  body  standing  severally  for  the  corresponding parts  of  his.
 
 
 1  Text  not  published,  transliteration  and  translation  by  Peiser,
-Studien  zur  orientalischen  Altertumskunde,  MittheUungen  der  Vorderasio-
-tischen  Gessellschaft,  1898,  No.  6,  pp.  228ff.  Compare  Zimmern  in
+Studien  zur  orientalischen  Altertumskunde,  MittheUungen  der  Vorderasiotischen  Gessellschaft,  1898,  No.  6,  pp.  228ff.  Compare  Zimmern  in
 Schrader,  Keilinschriften  und  das  Alte  Testament,  3te  Auf.,  p.  597.
 
 This  head  is  not  the  head  of  the  ram     .     .     .
@@ -13827,9 +13203,6 @@ M
 CHRONOLOGICAL  MATERIALS
 
 
-199
-
-
 l>(
 
 
@@ -13895,8 +13268,6 @@ son.
 ukin,  his  son?
 
 
-22
-
 26  Nazi-maruttash.
 17  Kadashman-tur  gu.
 +2  Kadashman-Buriash.
@@ -13943,8 +13314,6 @@ Xahu-shum-
 8  Vkin-zer.    Dynasty  of  Shi-i.
 
 
-22
-
 1    year    6    mo.
 
 
@@ -13954,8 +13323,7 @@ Manluk-.-hum
 13  Marduk-zer     .     .     .
 9  Nabu-shum-libur  (?).
 
-132;   2  mo.  (?.)  11  Kings.  Dy-
-nasty Pashe.
+132;   2  mo.  (?.)  11  Kings.  Dynasty Pashe.
 
 •   pubHihed  by  rtnotm.  Proce§dlng$  <>/  thr  8od&ty  of  BSbHeal
 
@@ -13967,20 +13335,11 @@ wmckler,  Untenuchwtgen  tut  orientals  \ichte,  p.  l  i<>f  :  Knudt-
 
 Gfchichte  des  Altertums,  2t  i  pp,  .i.S.'ilT.
 
-201
-
-
-202
-
-
-CUNEIFORM  PARALLELS
-
 
 2  Pulu.
 
 5  Ululai.    Dynasty  Ti-nu.
-12  Marduk  -  aplu  -  iddin.      Dy-
-nasty Sea-lands.
+12  Marduk  -  aplu  -  iddin.      Dynasty Sea-lands.
 
 5  Sharru-ukin.
 
@@ -14031,8 +13390,6 @@ Dyn.  of  bit-Bazi.
 
 ilu(?)
 
-
-16
 
 8  months  12  days     .     .     .
 [About  14  lines  broken  off.]
@@ -14132,8 +13489,7 @@ Their  booty  he  brought  over  at  his  word.
 He  settled   the    sons  of   his   palace  for   five   biru
 
 around,
-And   over  the   hosts   of   the  world  he  reigned  su-
-preme.
+And   over  the   hosts   of   the  world  he  reigned  supreme.
 Against  Kacalla  he  marched,  and  turned   Kacalla
 
 into  mounds  and  ruins;
@@ -14149,8 +13505,7 @@ Chronicles  Concerning  Early  Babylonian  Kings,  ii,  pp.  3-24.
 
 2  The  Sargon  Omen  tablet  reads  here  "sea  of  the  west,"  which  is
 probably  wrong.  The  sea  of  the  east,  which  is  the  Persian  Gulf,  seems
-much  more  probable  than  the  sea  of  the  west,  which  is  the  Mediter-
-ranean.   See  further  King,  op.  cit.,  i,  p.  37f.
+much  more  probable  than  the  sea  of  the  west,  which  is  the  Mediterranean.   See  further  King,  op.  cit.,  i,  p.  37f.
 
 §arru-ukin  sar  A-ga-de  (ki)  ina  pali  (ilu)  Is-tar  i-lam-ma
 Sa-ni-na  u  ma-bi-ri  ul  i-8i  §a-lum-mat-su  eli  matati  (pi)
@@ -14168,8 +13523,6 @@ kar-me  u-tir
 
 ar-ka-ni§  ina  fii-bu-ti-§u* matati  ka-li-§i-na  ib-ba-al-ki-ta-§i-ma
 
-
-204  CUNEIFORM  PARALLELS
 
 And  they  besieged  him  in  Agade;  and  Sargon  went
 
@@ -14231,14 +13584,12 @@ ik-ki-ru-§u-ma  la  sa-la-la  i-mi-id-[sw]
 
 Reverse:
 
-(m)Na-ra-am-(ilu)   Sin    mar  (m)§arru-ukin    a-na  (alu)    A-pi-
-rak  [(ki)  il-lik-ma]
+(m)Na-ra-am-(ilu)   Sin    mar  (m)§arru-ukin    a-na  (alu)    A-pirak  [(ki)  il-lik-ma]
 
 
 THE  SARGON  CHRONICLE  205
 
-And     he     built     trenches,    and     his     hand    sub-
-dued
+And     he     built     trenches,    and     his     hand    subdued
 Rish-Adad,   king  of  Apirak,   and   the   governor  of
 
 Apirak.
@@ -14303,8 +13654,6 @@ a-na  sarru-u-ti  it  tai  Iran
 Ilu-su  [m]-ma  Sar  (matu)  Assur  a-na  tar-si  (m)Su-a-bu.
 
 
-206  CUNEIFORM  PARALLELS
-
 Continuation  of  the  Chronicle  Concerning  Early
 Babylonian  Rulers
 Ura-imitti,  the  king,  set  Bel-ibni,  the  gardener,
@@ -14329,8 +13678,7 @@ And  marched  against  Rim-Sin,  king  of  Ur.
 10  The  cities  of  Ur  and  of  Larsa  his  hand  conquered
 And  he  took  their  possessions  unto  Babylon.
 .     .     .     .     he  overthrew     ...     he  carried  away.
-Samsu-il]una,   king  of  Babylon,   the  son  of   Ham-
-murapi, the  king
+Samsu-il]una,   king  of  Babylon,   the  son  of   Hammurapi, the  king
 
 and
 
@@ -14381,7 +13729,6 @@ he  marched  and  besieged    .     .     .
 
 his  peoples    .     .    .
 
-20
 
 Reverse  :
 
@@ -14442,8 +13789,6 @@ li-ku-maj
 arki-Su(m)  U-lam-Bur-afi  ab  Ka&-til-ia-a§  (matu)  KaS-Su-u
 
 
-208  CUNEIFORM  PARALLELS
-
 Set  his  troops  in  motion,  and  conquered  the  Country
 
 of   the   Sea,    and   exercised    dominion   over   the
@@ -14477,15 +13822,13 @@ Khamranu.  (5)  The  gods  of  the  city  of  Shapazza
 he  carried  away.
 
 (6)  During  the  reign  of  Nabonassar  Borsippa  separated
-itself  (7)  from  Babylon.  The  battle  of  Nabonas-
-sar (8)  against  Borsippa  is  not  recorded.2
+itself  (7)  from  Babylon.  The  battle  of  Nabonassar (8)  against  Borsippa  is  not  recorded.2
 
 »  Pinches,  Proceedings  of  the  Society  of  Biblical  Archceology,  vi,  pp.
 193ff.;  Winckler,  Zeitschrift  fur  Assyriologie,  ii,  pp.  148ff.;  Pinches,
 Journal  of  the  Royal  Asiatic  Society,  xix,  pp.  655ff.;  Abel-Wincklcr,
 Keilschrifttexte,  pp.  47,  48;  Delitzsch,  Assyrische  Lesestucke,  4te  Auf.,
-pp.  137-142;  Winckler,  KeUinschriftliches  Textbuch  zum  Alten  Testa-
-ment, 3te  Auf.,  pp.  58 ff.
+pp.  137-142;  Winckler,  KeUinschriftliches  Textbuch  zum  Alten  Testament, 3te  Auf.,  pp.  58 ff.
 
 2 This  means  that  the  scribe  who  copied  this  tablet  did  not  find  this
 event  recorded  in  the  exemplar  which  was  before  him.  One  of  the
@@ -14495,8 +13838,7 @@ Column  I:
 
 (1)  [sattu  III  (ilu)  Nabu-nasir]  §ar  Babilu  (2)  Tukulti-apal-eSarra
 ina  (matu)  Assur  ina  kussi  ittasab  (3)  §attu  §a§u  ana  matu
-Akkadi  (ki)  ur-dam-ma  (4)  (alu)  Rab-bi-ku  u  (alu)  JJa-am-
-ra-nu  ifc-ta-bat  (5)  u  ii&ni  §a  (alu)  §a-pa-az-za  i-ta-bak  (6)  a-na
+Akkadi  (ki)  ur-dam-ma  (4)  (alu)  Rab-bi-ku  u  (alu)  JJa-amra-nu  ifc-ta-bat  (5)  u  ii&ni  §a  (alu)  §a-pa-az-za  i-ta-bak  (6)  a-na
 tar-si  (ilu)  Nabu-n^sir  Bar-sip  (ki)  (7)  itti  Babili  it-te-[kir]
 eal-tum  §a  (ilu)  Nabu-nasir  (8)  a-na  libbi  Bar-sip  (ki)  i-pu-su
 
@@ -14527,8 +13869,7 @@ Amukani    waste    and    took    Ukinzer    prisoner.
 
 (23)  Tiglathpileser  took  his  seat  on  the  throne
 in  Babylon.  (24)  In  the  second  year,  in  the
-month  of  Tebet,  Tiglathpileser  died.  (25)  Tig-
-lathpileser reigned  .  .  .  years  in  Akkad  and
+month  of  Tebet,  Tiglathpileser  died.  (25)  Tiglathpileser reigned  .  .  .  years  in  Akkad  and
 in  (26)  Assyria;  two  years  he  reigned  in  Akkad.
 (27)  On  the  twenty-fifth  day  of  Tebet  Shalma-
 
@@ -14536,8 +13877,7 @@ in  (26)  Assyria;  two  years  he  reigned  in  Akkad.
 ul  sa-tir  (9)  sattu  V  (ilu)  Nabu-nasir  Um-ma-ni-ga-as
 (10)  ina  (matu)  Elamti  ina  kussi  ittasa-ab  (11)  sattu  XIV
 (ilu)  Nabu-nasir  maris-ma  ina  ekalli-su  simati  (12)  XIV
-sanati  (ilu)  Nabu-nasir  sarru-ut  Babili  epu-us  (13)  (m)  Na-
-di-nu  maru-su  ina  Babili  ina  kussi  ittasa-ab  (14)  Sattu  II
+sanati  (ilu)  Nabu-nasir  sarru-ut  Babili  epu-us  (13)  (m)  Nadi-nu  maru-su  ina  Babili  ina  kussi  ittasa-ab  (14)  Sattu  II
 Na-di-nu  ina  si-hi  dik  (15)  II  sanati  Na-din  sarru-ut  Babili
 epu-us  (16)  (m)  Sumu-ukinypih,atu  lx'1  si-hi  ina  kussi  ittasa-ab
 
@@ -14564,8 +13904,6 @@ Oftti  in.i  libbi  ina  (jn.'itu)  Akk:i<li  (ki)  rpu-ui  (27)  (arfau)
 u    fimu    XXV    Sul-man-a-5a-rid    ina    (matu)    Assur
 
 
-210  CUNEIFORM  PARALLELS
-
 neser  (28)  took  his  seat  on  the  throne  in  Assyria,
 and  the  city  of  Shabarain  was  destroyed.
 
@@ -14576,8 +13914,7 @@ Tebet,  Sargon  took  his  seat  on  the  throne  in
 Assyria.  (32)  In  Nisan  Merodach-baladan  took
 his  seat  on  the  throne  in  Babylon.
 
-(33)  In  the  second  year  of  Merodach-baladan,  Ummani-
-gash,  King  of  Babylon,  fought  a  battle  with
+(33)  In  the  second  year  of  Merodach-baladan,  Ummanigash,  King  of  Babylon,  fought  a  battle  with
 Sargon,  King  of  Assyria,  (34)  in  the  district  of
 Durilu.  (35)  He  accomplished  the  defeat  of
 Assyria  and  slew  many.  (36)  Merodachbaladan,
@@ -14585,28 +13922,23 @@ who  had  come  to  the  help  of  the  (37)  King  of
 Elam,  did  not  come  in  time  for  the  battle,  but
 marched  after  him  (?)
 
-(38)  In  the  fifth  year  of  Merodach-baladan,  Ummani-
-gash,  King  of  Elam,  died.  (39)  Ummanigash
-reigned  .  .  .  years  in  Elam.  (40)  Ishtar-
-kundu,  son  of  his  sister,  took  his  seat  on  the
+(38)  In  the  fifth  year  of  Merodach-baladan,  Ummanigash,  King  of  Elam,  died.  (39)  Ummanigash
+reigned  .  .  .  years  in  Elam.  (40)  Ishtarkundu,  son  of  his  sister,  took  his  seat  on  the
 throne  in  Elam.  (41)  From  the  beginning  of
 the  reign  of  Merodach-baladan  to  the  tenth  year
-(42)  [Sargon]  was  at  enmity  with  Merodach-
-baladan.
+(42)  [Sargon]  was  at  enmity  with  Merodachbaladan.
 
 (28)  (ki)  ina  kussi  ittasa-ab  (alu)  &a-ba  (ma?)-ra-'-in  ijj-te-pi
 
 (29)  sattu  V  §ul-man-a-sa-rid    ina    (ar^u)    Tebetu    §imati
 
 (30)  V  sanati  §ul-man-a-§a-rid  sarru-ut  (matu)  Akkadi  (ki)  u
-(matu)  ASSur  epu-u§  (31)  (arfcu)  Tebetu  umu  XII  (kan)  §arru-
-ukin  ina  (matu)  A§sur  ina  kussi  ittasa-ab  (32)  ina  Nisanu  (m,
+(matu)  ASSur  epu-u§  (31)  (arfcu)  Tebetu  umu  XII  (kan)  §arruukin  ina  (matu)  A§sur  ina  kussi  ittasa-ab  (32)  ina  Nisanu  (m,
 ilu)  Marduk-apal-iddin  ina  Babili  ina  kussi  ittasa-ab  (33)  Sattu
 II  (ilu)  Marduk-apal-iddin  Um-ma-ni-ga-a§  sar  Elamti  (34)
 ina  pifcat  Dur-ilu  (ki)  sal-tum  ana  libbi  Sarru-ukin  sar  (matu)
 ASSur  epus-ma  (35)  nabalkatu  (matu)  A§§ur  itta£ka-an
-abikta-§u-nu  ma-'-di§  itta§ka-an  (36)  (m,  ilu)  Marduk-apal-
-iddin  u  um-ma-ni-§u  sa  a-na  ri-su-tum  (37)  §ar  Elamti
+abikta-§u-nu  ma-'-di§  itta§ka-an  (36)  (m,  ilu)  Marduk-apaliddin  u  um-ma-ni-§u  sa  a-na  ri-su-tum  (37)  §ar  Elamti
 illi-ku  sal-tum  ul  ik-su-ud  ana  arki-§u  urakki-sa  (?)  (38)
 Sattu  V  (ilu)  Marduk-apal-iddin  Um-ma-ni-ga-a§  §ar  Elamti
 Simati  (39)  .  .  .  sanati  Um-ma-m-ga-a§  sami-ut  Elamti
@@ -14624,8 +13956,7 @@ Column  II:
 (1)  In  the  twelfth  year  of  Merodach-baladan  Sargon
 marched  against  Akkad,  (2)  and  gave  battle  to
 Merodach-baladan.  (3)  Merodach-baladan  fled  to
-Elam,  at  the  head  of  his  nobles!  (4)  Merodach-
-baladan  reigned  twelve  years  in  Babylon.
+Elam,  at  the  head  of  his  nobles!  (4)  Merodachbaladan  reigned  twelve  years  in  Babylon.
 (5)  Sargon  took  his  seat  on  the  throne  in  Babylon.
 
 (6)  In  the  thirteenth  year  Sargon  took  the  hand  of  Bel
@@ -14651,16 +13982,13 @@ following  are  badly  broken.]
 .    .    .    (20)  he    .    .    .    Merodach-baladan    .    .    .
 
 it-ti  (ilu)  Marduk-[apal-iddi-na]m  na-kir  (43)  [Sattu  X  (kan)
-(ilu)  Marduk-apal]-iddin  Bit-Da-ku-r]i  (44)  [ifc-te-pi  5u"bu-
-ut]-su  ifc-[ta]-bat.
+(ilu)  Marduk-apal]-iddin  Bit-Da-ku-r]i  (44)  [ifc-te-pi  5u"buut]-su  ifc-[ta]-bat.
 
 Column  II:
 (1)  Sattu   XII    (ilu)    Marduk-apal-iddin   §arru-ukin   ana    (matu)
-Akkadi  (ki)  ur-dara-ma   (2)  sal-tum  ana  lib  (ilu)  Marduk-
-apal-iddin  epu-us-ma   (3)  (ilu)   Marduk-apal-iddin  ina  pan
+Akkadi  (ki)  ur-dara-ma   (2)  sal-tum  ana  lib  (ilu)  Mardukapal-iddin  epu-us-ma   (3)  (ilu)   Marduk-apal-iddin  ina  pan
 (amelu)  rabuti-£u  ana  (matu)  Elamti  ib-lik  (4)  XII  Sanati
-(ilu)    Marduk-apal-iddin   Sarru-ut   Babili   epu-uS    (5)  Sarru-
-ukin  ina  Babili  ina  kussi  ittaSa-ab  (6)  Sattu  AlII  Sarru-ukin
+(ilu)    Marduk-apal-iddin   Sarru-ut   Babili   epu-uS    (5)  Sarruukin  ina  Babili  ina  kussi  ittaSa-ab  (6)  Sattu  AlII  Sarru-ukin
 fcat  (ilu)  Bel  is-sa(-bat]  Dur-ia-a-ki-nu  ik-ta-[Sad]  (7)  Sattu
 XTV  Sarru  ina  [m.-lti]  (8)  sattu  XV  M«|)  TaSritu  umu  XXII
 ih'ini  Sa  mat  tam-tim  ina  a§ri-§u-nu  ituru  mut&nl  ina
@@ -14669,8 +13997,6 @@ itu)  ASSur  Sak-[nu]
 [Lines  10-18  wanting.]
 (19)  (amelu)  Babilai  ul  [sapib]  mi-is-ri  [.     .     .]  (20)  ir-tib-ma  (ilu)
 
-
-212  CUNEIFORM  PARALLELS
 
 (21)  his  land  was  plundered.  .  .  .  After  he
 had  fortified  (22)  Larak  and  Sharraba  .  .  .
@@ -14683,21 +14009,16 @@ the  cities  of  (25)  Khirimma  and  Khararatu.
 against  Akkad  (27)  and  plundered  Akkad.
 (28)  Bel-ibni  and  his  nobles  were  taken  away  to
 Assyria.  (29)  Bel-ibni  reigned  three  years  in
-Babylon.  (30)  Sennacherib  set  Asshur-nadin-
-shum,  his  son,  (31)  on  the  throne  in  Babylon.
+Babylon.  (30)  Sennacherib  set  Asshur-nadinshum,  his  son,  (31)  on  the  throne  in  Babylon.
 
-(32)  In  the  first  year  of  Asshur-nadin-shum  Ishtar-
-khundu,  King  of  Elam,  was  seized  by  his  brother
-(33)  Khallushu  and  cast  into  prison.  (34)  Ishtar-
-khundu  reigned  eighteen  years  in  Elam.
+(32)  In  the  first  year  of  Asshur-nadin-shum  Ishtarkhundu,  King  of  Elam,  was  seized  by  his  brother
+(33)  Khallushu  and  cast  into  prison.  (34)  Ishtarkhundu  reigned  eighteen  years  in  Elam.
 (35)  Khallushu,  his  brother,  took  his  seat  on  the
 throne  in  Elam.
 
-(36)  In  the  sixth  year  of  Asshur-nadin-shum,  Sen-
-nacherib marched  down  (37)  against  Elam,  de-
+(36)  In  the  sixth  year  of  Asshur-nadin-shum,  Sennacherib marched  down  (37)  against  Elam,  de-
 stroyed the  cities  of  Nagitu,  Khilmu,  (38)  Pillatu,
-Khupapanu  (39)  and  plundered  them.  After-
-ward Khullushu,  King  of  Elam,  marched
+Khupapanu  (39)  and  plundered  them.  Afterward Khullushu,  King  of  Elam,  marched
 (40)  against  Akkad,  and  at  the  end  of  Teshrit
 
 Marduk-apal-iddin  u[.  .  .]  (21)  fcu-buy-ut  mati-su  i|j-ta-bat
@@ -14708,8 +14029,7 @@ ul-te-sib  (24)  sattu  I  (kan)  (ilu)  Bel-ib-ni  (ilu)  Sin-afce-erba
 III  (kan)  (m,  ilu)  Bel-ib-ni  (ilu)  Sin-afce-erba  ana  (matu)
 Akkadi  (ki)  (27)  ur-dam-ma  fcu-bu-ut  (matu)  Akkadi  (ki)
 i&-ta-bat  (28)  (m,  ilu)  Bel-ib-ni  u  (amelu)  ra-buti-§u  ana
-(matu)  Assur  ul-te-ik-lu  (29)  III  sanati  (ilu)  Bel-ib-ni  sarru-
-ut  Babili  epu-us  (30)  (ilu)  Sin-afce-erba  (ilu)  Asur-nadin-
+(matu)  Assur  ul-te-ik-lu  (29)  III  sanati  (ilu)  Bel-ib-ni  sarruut  Babili  epu-us  (30)  (ilu)  Sin-afce-erba  (ilu)  Asur-nadin-
 sumu  mari-su  (31)  ina  Babili  ina  kussi  ul-te-sib  (32)  sattu  I
 (kan)  (ilu)  Asur-nadin-sumu  Is-tar-fcu-un-du  sar  Elamti  (33)
 
@@ -14731,8 +14051,7 @@ VIII  sanati  IS-tar-Jju-un-du  sarru-ut  (matu)  Elamti  epu-u§
 BABYLONIAN  CHRONICLE  2X3
 
 entered  Sippar  and  (41)  put  the  inhabitants  to
-death.  Shamash  did  not  leave  E-barra.  (42)  As-
-shur-nadin-shum  was  taken  prisoner  and  led
+death.  Shamash  did  not  leave  E-barra.  (42)  Asshur-nadin-shum  was  taken  prisoner  and  led
 away  into  Elam.  Asshur-nadin-shum  (43)  reigned
 six  years  in  Babylon.  (44)  The  King  of  Elam  set
 Nergal-ushezib  (45)  on  the  throne  in  Babylon,
@@ -14744,22 +14063,19 @@ day  of  Tammuz,  (47)  Nergal-ushezib  took  Nippur.
 Assyrians  entered  Uruk.
 
 Column  III:
-(1)  The  gods  of  Uruk  and  its  inhabitants  were  plun-
-dered. (2)  Nergal-ushezib  united  with  the  Elam-
+(1)  The  gods  of  Uruk  and  its  inhabitants  were  plundered. (2)  Nergal-ushezib  united  with  the  Elam-
 ites,  (3)  and  its  inhabitants  were  taken  away  (?)
 On  the  seventh  day  of  Teshrit  (4)  he  fought
 against  the  Assyrians  in  the  district  of  Nippur,
 was  taken  prisoner  in  battle  and  carried  away  to
 (5)  Assyria.  Nergal-ushezib  (6)  reigned  one  year
-and  six  months  in  Babylon.  On  the  twenty-
-sixth  day  of  Teshrit  the  people  rebelled  against
+and  six  months  in  Babylon.  On  the  twentysixth  day  of  Teshrit  the  people  rebelled  against
 (7)  Khallushu,  King  of  Elam,  (8)  imprisoned  him
 and  killed  him.     Khallushu  reigned  six  years  in
 
 ana  Sippara  erub  (41)  ni§6  idiik  (ilu)  &ama§  i§tu  E-bar-ra
 ul  asi  (42)  (m,  ilu)  Asur-nadin-sumu  sabit-ma  ana  (matu)
-Elamti  a-bi-ik  (43)  VI  sanati  (ilu)  Asur-nadin-sumu  sarru-
-ut  Babili  epu-us  (44)  £ar  Elamti  (ilu)  Nergal-u-se-zib  ina
+Elamti  a-bi-ik  (43)  VI  sanati  (ilu)  Asur-nadin-sumu  sarruut  Babili  epu-us  (44)  £ar  Elamti  (ilu)  Nergal-u-se-zib  ina
 Babili  (45)  ina  kussi  ul-te-sib  [nabalkatu]  (matu)  Assur
 ittaska-an  (46)  sattu  I  (kan)  (m,  ilu)  Nergal-u-se-zib  (arab)
 Duzu  umu  XVI  (kan)  (47)  (m,  ilu)  Nergal-u-Se-zib  Nippuru
@@ -14768,8 +14084,7 @@ sab  (matu)  Assur  ana  Uruk  erubu
 
 Column  III:
 
-(1)  ilani  sa  su-pur  Uruk  u  nise-8u  ifc-tab-tu  (2)  (ilu)   Nergal-u-
-se-zib  arki  (amolu)  Elamu  illik-ma  ilani  §u-pur  Uruk  (3)  u
+(1)  ilani  sa  su-pur  Uruk  u  nise-8u  ifc-tab-tu  (2)  (ilu)   Nergal-use-zib  arki  (amolu)  Elamu  illik-ma  ilani  §u-pur  Uruk  (3)  u
 h]  i-tc-ik-inu  (rirajj)  TaSritu  umu  VII  (kan)  ina  pi-Jjat
 Nippuri  (4)  sal-turn  ana  libbi  sab  (mAtu)  ASSur  opu-u§-ma
 sa-bit-ma  (5)  ana  (matu)  ASSur  a-bi-ik  sattu
@@ -14780,8 +14095,6 @@ I.  VI  arjji   (ilu)   Nergal-u-se-zib  (6)  sarru-ut  Babili  epU-uJ
 niS^-su  is-bu-Su-mu  Wibu  ina  pa-ni-Su  (8)  ip-bu-u  iduku-
 6u   VI    Sanati    ^Jal-lu-su    Sarru-ut    (matu)    Elamti    epu-ui
 
-
-214  CUNEIFORM  PARALLELS
 
 Elam.     (9)  Kudur  took  his  seat  on  the  throne  in
 Elam.      Afterward    Sennacherib    marched    down
@@ -14807,8 +14120,7 @@ fifteenth  day  of  Nisan,  (20)  Menanu,  King  of
 Elam,  suffered  with  a  stroke  (?),  (21)  his  mouth
 was  closed  and  he  could  not  speak.  (22)  On  the
 first  day  of  Kishlev  the  city  (i.  e.,  Babylon)  was
-captured.  Mushezib-Marduk  (23)  was  taken  pris-
-oner and  carried  away  to  Assyria.  Mushezib-
+captured.  Mushezib-Marduk  (23)  was  taken  prisoner and  carried  away  to  Assyria.  Mushezib-
 Marduk  reigned  (24)  four  years  in  Babylon.
 (25)  On  the  seventh  day  of  Adar,  Menanu,  King
 of  Elam,  died.    Menanu  (26)  reigned  four  years  in
@@ -14824,13 +14136,11 @@ Elamti  ina  si-Jji  sa-bit-ma  dik  X  ar^e  (15)  Kudur  §arru-ut
 kussi  ittasa-ab  sattu  ul  idl  Me-na-nu  sab  (matu)  Elamti
 (matu)  Akkadi  (ki)  (17)  id-ki-e-ma  ina  (alu)  §a-lu-li-e
 sal-turn  ana  lib  (matu)  Assur  (18)  epu-us-ma  nabalka-tum
-(matu)  ASsur  ittaska-an  (19)  sattu  IV  Mu-se-zib-(ilu)Mar-
-duk  (arafc)  Nisanu  umu  XV  (kan)  (20)  Me-na-nu  sar  (matu)
+(matu)  ASsur  ittaska-an  (19)  sattu  IV  Mu-se-zib-(ilu)Marduk  (arafc)  Nisanu  umu  XV  (kan)  (20)  Me-na-nu  sar  (matu)
 Elamti  mi-§it-tum  i-mi-§i(d)-su-ma  (21)  pu-§u  sa-bit-ma
 at-ma-a  la  li-'  (22)  ina  (arah)  Kisilimu  umu  I  (kan)  alu
 sa-bit.  Mu-se-zib-(ilu)Marduk  (23)  sa-bit-ma  ana  (matu)
-Assur-a-bi-ik  (24)  IV  sanati  Mu-se-zib-(ilu)Marduk  §arru-
-ut  Babili  epu-u§  (25)  ina  (arab)  Adam  umu  VII  (kan)
+Assur-a-bi-ik  (24)  IV  sanati  Mu-se-zib-(ilu)Marduk  §arruut  Babili  epu-u§  (25)  ina  (arab)  Adam  umu  VII  (kan)
 Me-na-nu  sar  (matu)  Elamti  Simati  (26)  IV  sanati  Me-na-nu
 
 
@@ -14852,8 +14162,7 @@ second  took  his  seat  on  the  throne  in  Elam.
 King  of  Assyria,  was  killed  (35)  by  his  son  in  a
 revolt.  Sennacherib  (36)  reigned  twenty-three
 years  in  Assyria.  From  the  twentieth  day  of
-Tebet  until  (37)  the  second  day  of  Adar  the  re-
-volt continued  in  Assyria.  (38)  On  the  eighteenth
+Tebet  until  (37)  the  second  day  of  Adar  the  revolt continued  in  Assyria.  (38)  On  the  eighteenth
 day  of  Adar  Esarhaddon,  his  son,  took  his  seat  on
 the  throne  in  Assyria.
 
@@ -14868,23 +14177,19 @@ Sarru-ut  (matu)  Elamti  epu-u§  (27)  Hum-ma-bal-da-§u  ina
 sarra  ina  Babili  [.  .  .]  (arab)  Duzu  umu  III  (kan)
 (29)  ilani  §u-pur  Uruk  iStu  Eridu  ana  Uruk  eribu  (30)  ina
 (arab)  TaSritu  umu  XXIII  (kan)  Qum-ma-bal-da-§u  Sar
-Elamti  ina  iSati  (31)  ma-bi-is-ma  ina  mikit  i[§ati]  imu-
-ut  VIII  Sanati  Hum-ma-bal-da-Su  (32)  Sarru-ut  (matu)
+Elamti  ina  iSati  (31)  ma-bi-is-ma  ina  mikit  i[§ati]  imuut  VIII  Sanati  Hum-ma-bal-da-Su  (32)  Sarru-ut  (matu)
 Elamti  epu-uS  (33)  Hum-ma-bal-da-Su  ganu(u)  ina  (matu)
 Elamti  ina  kussi  ittaSa-ab  (34)  (arab)  Tebitu  umu  XX
 (kan)  (ilu)  Sin-abe-erba  Sar  (matu)  ASSur  (35)  maru-Su  ina
 si-bi  idtik-[5u  XXIII]  Sanati  (ilu)  Sin-ab6-erba  (36)  Sarru-
 (ut)  (matu)  ASSur  epu-u§  umu  XX  (kan)  §a  (arab)  Tebitu
 a-di  (37)  umu  II  (kan)  §a  (arab)  Adar  si-bi  ina  (matu)*A§6ur
-sa-dir  (38)  (arab)  Adar  u[mu]  XVIII  (kan)  (ilu)  ASsur-ab-
-iddi-na  mdru-Su  ina  (mAtu)  A§§ur  ina  kusst  ittaSa-ab  (39)
+sa-dir  (38)  (arab)  Adar  u[mu]  XVIII  (kan)  (ilu)  ASsur-abiddi-na  mdru-Su  ina  (mAtu)  A§§ur  ina  kusst  ittaSa-ab  (39)
 Sattu  I  (kan)  (ilu)  Asur-ah-i<l<lin:iim)  Zcru-kiuis-liSir  §a  mat
 tam-tirn  (40)  ki-i  is-k:i-:i  ina  cli  Iru  it-t:i-<li  :ilu  u[.  .  .]
 (41)  ina  pan  (amclu)  rahuti  sa  (matu)  Attur  ij)lik-ma  ana
 (matu)  Llamti  i-[.     .     .]  |  U)  ina  (matu)  Elamti  Sar  (matu)
 
-
-216  CUNEIFORM  PARALLELS
 
 killed  him  with  a  weapon.  (43)  In  an  unknown
 month  in  Nippur  the  guenna  .  .  .
@@ -14902,8 +14207,7 @@ Column  IV:
 (2)  were  brought  to  Assyria  and  killed  in  Assyria.
 
 (3)  In  the  third  (?  fourth)  year  Sidon  was  captured
-and  its  booty  carried  away  ...  (4)  the  major-
-domo  made  an  assembly  (?  census)  in  Akkad.
+and  its  booty  carried  away  ...  (4)  the  majordomo  made  an  assembly  (?  census)  in  Akkad.
 
 (5)  In  the  fifth  year,  on  the  second  day  of  Teshrit  the
 Assyrian  army  made  an  expedition  (6)  against
@@ -14919,8 +14223,7 @@ and  made  a  massacre.     Shamash  did  not  leave
 Elamti  is-bat-su-ma  ina  kakki  [iduk]  (43)  arafc  ul  idi  ina
 Nippuri  (amelu)  gu[-en-na  .  .  .]  (44)  ina  (aratj)  Ululu
 (ilu)  Ka-di  u  ilani  [§u-pur]  Dur-ilu  (45)  ana  Dur-ilu
-[illiku  .  .  .  u  ilani  su-pur  Dur-Sarru-ukin]  (46)  ana  Dur-
-sarru-ukin  illiku  [.  .  .]  (47)  (arafc)  Adar  ri-§i  sa  [.  .  .]
+[illiku  .  .  .  u  ilani  su-pur  Dur-Sarru-ukin]  (46)  ana  Dursarru-ukin  illiku  [.  .  .]  (47)  (arafc)  Adar  ri-§i  sa  [.  .  .]
 (48)  Sattu  II  (kan)  (amelu)  rab-blti  [.  .  .]
 [Broken,  two  lines  missing.]
 
@@ -14957,8 +14260,7 @@ gods  of  Agade  came  (18)  from  Elam  and  on  the
 tenth  day  of  Adar  entered  Agade.
 
 (19)  In  the  eighth  year  of  Esarhaddon  on  the  .  .  .
-day  of  Tebet  the  (20)  land  of  Shupri  was  con-
-quered and  its  booty  carried  away.  (21)  In  the
+day  of  Tebet  the  (20)  land  of  Shupri  was  conquered and  its  booty  carried  away.  (21)  In  the
 month  of  Kislev  its  booty  reached  Uruk.  (22)  On
 the  fifth  day  of  Adar  the  king's  wife  died.
 
@@ -14973,15 +14275,13 @@ ul-tu  (10)  E-bar-ra  ul  asi  [sab]  (matu)  Assur  ana  (matu)
 Mi-sir  [illiku  (?)]  (11)  JJum-ma-bal-da-su  §ar  (matu)  Elamti
 ul  maris  ina  ekalli-8u  imut  (12)  V  sanati  ^um-ma-bal-da-su
 sarru-ut  (matu)  Elamti  epu-us  (13)  Ur-ta-gu  afci-su  ina
-(matu)  Elamti  ina  kussi  ittasa-ab  (14)  arab  ul  idi  (m)Sum-
-iddin  (amelu)  gu-en-na  (15)  u  Kudur  mar  (m)Da-ku-ri  ana
+(matu)  Elamti  ina  kussi  ittasa-ab  (14)  arab  ul  idi  (m)Sumiddin  (amelu)  gu-en-na  (15)  u  Kudur  mar  (m)Da-ku-ri  ana
 Assur  ab-ku  (16)  sattu  VII  (arab)  Adar  umu  V  (kan)  sab
 /  (matu)  ASsur  ina  (matu)  Mi-sir  illiku  (?)   (17)  ina  (arab)
 
 Adar  IStar  A-ga-de  (ki)  u  ilani  8a  A-ga-de  (ki)  (18)  ultu
 (matu)  Elamti  illiku-nim-ma  ina  (arab)  Adar  umu  X  (kan)
-ana  Agade  (ki)  erubu  (19)  sattu  VIII  (kan)  (ilu)  ASur-ab-
-iddin  (arab)  Tebit  umu  fci-bi  (20)  (matu)  §up-ri-sa-ai  sa-hit
+ana  Agade  (ki)  erubu  (19)  sattu  VIII  (kan)  (ilu)  ASur-abiddin  (arab)  Tebit  umu  fci-bi  (20)  (matu)  §up-ri-sa-ai  sa-hit
 sal-lat-su  sal-lat  (21)  ina  (ara[i)  Kisilimu  sal-lat-su  ana  Uruk
 i-tir-bi  (22)  (arab)  Adar  umu  V  (kan)  asSat  sarri  mita-at.
 
@@ -14993,8 +14293,6 @@ i.inu   XVIII    (kan)   (25)  III-su  di-ik-tum  ina  (matu)  Mi-sir
 6)  umu  XXII  (kan)  lf»-im-bi  alu  Sarru-ti-su  sa-bit
 (27)  Sarri-su    ul-tc-zih    D  li-su    ina    kata    sa-ab-tu
 
-
-218  CUNEIFORM  PARALLELS
 
 his  sons  and  his  brother  were  taken  prisoners.
 (28)  Its  booty  was  carried  away,  the  inhabitants
@@ -15008,17 +14306,13 @@ weapons.
 (30)  In  the  twelfth  year  the  King  of  Assyria  marched
 
 against  Egypt  and  (31)  fell  ill  on  the  way  and
-died  on  the  tenth  day  of  Marcheshwan.  (32)  Esar-
-haddon  reigned  twelve  years  in  Assyria.
-(33)  Shamash-shum-ukin  in  Babylon  and  Ashur-
-banapal  in  Assyria,  his  two  sons,  took  their  seats
+died  on  the  tenth  day  of  Marcheshwan.  (32)  Esarhaddon  reigned  twelve  years  in  Assyria.
+(33)  Shamash-shum-ukin  in  Babylon  and  Ashurbanapal  in  Assyria,  his  two  sons,  took  their  seats
 on  the  throne.
 
-(34)  In  the  year  of  the  beginning  of  the  reign  of  Shamash-
-shum-ukin,  in  the  month  of  Iyyar  (35)  Bel  and
+(34)  In  the  year  of  the  beginning  of  the  reign  of  Shamashshum-ukin,  in  the  month  of  Iyyar  (35)  Bel  and
 the  gods  of  Akkad  departed  (36)  from  Asshur
-and  on  the  twelfth  day  of  Iyyar  entered  Baby-
-lon. (37)  In  the  same  year  the  King  of  Kirbitu
+and  on  the  twelfth  day  of  Iyyar  entered  Babylon. (37)  In  the  same  year  the  King  of  Kirbitu
 was  captured.  (38)  On  the  twentieth  day  of
 Tebet  Bel-etir  was  captured  [in]  Babylon  and
 killed.
@@ -15038,8 +14332,7 @@ Sanati  (ilu)  ASur-a^-iddin  §arru-ut  (matu)  ASSur  epu-i^
 (33)  Sama§-§um-ukin  ina  Babili  (m,  ilu)  ASur-bani-apal  ina
 (matu)  ASSur  II  mari-§u  ina  kusst  ittaSbu  (34)  Sattu  ris
 (m,  ilu)  Sama§-§um-ukin  ina  (arajj)  Airu  (35)  (ilu)  Bel  u
-Uani  §a  (matu)  Akkadt  (ki)  ul-tu  (alu)  ASSur  (36)  u-su-
-nim-ma  ina  arajj  Airu  umu  XII  ana  Babili  erubu-ni  (37)
+Uani  §a  (matu)  Akkadt  (ki)  ul-tu  (alu)  ASSur  (36)  u-sunim-ma  ina  arajj  Airu  umu  XII  ana  Babili  erubu-ni  (37)
 Sattu  §ati  (alu)  Kir-bi-tum  §arri-§u  ka-§id  (38)  (arajj)  Tebit
 umu  XX  (kan)  (m,  ilu)  Bel-ete-ir  [.  .  .]  Babili  sa-bit-ma  dik.
 (39)  par-su  res-tu-u  ki-ma  labiri-§u  ba-ru  u  up-pu-u§  (40)
@@ -15112,8 +14405,6 @@ inon    in    general    oompare    Schrader,    tCeilinachriften    und
 
 Geschichtsforachung,  pp.  299-356.
 
-
-220  CUNEIFORM  PARALLELS
 
 872  Ashur-li?
 
@@ -15245,8 +14536,6 @@ Ilu-ittia.
 803  Asshur-kalab-nishe.
 802  Ninib-malik.
 
-
-222  CUNEIFORM  PARALLELS
 
 801  Shepa-shar.
 
@@ -15382,8 +14671,6 @@ ASSYRIAN  EPONYM  LIST  223
 734  Bel-dan.
 
 
-224  CUNEIFORM  PARALLELS
-
 733  Asshur-daninanni.
 732  Nabu-bel-usur.
 731  Nergal-uballit.
@@ -15481,8 +14768,6 @@ T>71  Tebit-ai.
 669  Shamash-kashid-abi.
 
 
-226  CUNEIFORM  PARALLELS
-
 665  Mar-larmi  (or  Mar-larim) .
 667  Gabbaru.
 
@@ -15506,8 +14791,7 @@ against     .     .     .
 858  In  the  eponym  year  of  Shulman-asharidu,  King  of
 Assyria     .     .     .
 
-857  In  the  eponym  year  of  Asshur-bel-ukin,  the  com-
-mander-in-chief    .     .     .
+857  In  the  eponym  year  of  Asshur-bel-ukin,  the  commander-in-chief    .     .     .
 
 856  In  the  eponym  year  of  Asshur-bana-usur,  the  chief
 bi-lub     .     .     .
@@ -15515,28 +14799,18 @@ bi-lub     .     .     .
 855  In  the  eponym  year  of  Asshur-ina-ekalli-lilbur,  the
 major-domo     .     .     .
 
-854  In  the  eponym  year  of  Dain-Asshur,  the  commander-
-in-chief     .     .     .
+854  In  the  eponym  year  of  Dain-Asshur,  the  commanderin-chief     .     .     .
 
 
 1  The  chief  edition  is  in  II  R.,  52,  but  the  obverse  and  reverse  have
 there  exehiuiged  places.  It  is  republished,  with  corrections,  in  Delitzsch,
-Assyrische  Lesestucke,  2te  Auf.  See  further  Schrader,  Cuneiform  In-
-scriptions and  the  Old  Testament,  ii,  pp.  188-197  (German  edition,
+Assyrische  Lesestucke,  2te  Auf.  See  further  Schrader,  Cuneiform  Inscriptions and  the  Old  Testament,  ii,  pp.  188-197  (German  edition,
 pp.  480ff.)j  Schrader,  Keilinschriftliche  Bibliothek,  i,  pp.  208ff.j
 W  inckler,  Keiiinschri/tliches  Textbuch  zum  Alien  Testament,  3te  Auf.,
 pp.  73ff.
 
 860  .     .     .  |  sa  §ul-ma-nu-aSaridu  |  mar  A§ur-nasi-ir-aplu  |  ina  kussi
 ittaSab  (?)
-
-
-859
-858
-857
-856
-855
-854
 
 
 ina  li-me]  |  §arm-kalab-nisr  | .     .     .  |  a[na     .     .     .]
@@ -15586,8 +14860,7 @@ land  of  Tabali.
 land  of  Melidi  (Melitene).
 836 of    the    city    of    Ninua    (Nineveh).
 
-Against   the   land   of     Namri    (Na-
-mar).
+Against   the   land   of     Namri    (Namar).
 
 853  [ina  li-me   §ama§-abu-u-a  |  (amelu)  saknu  (alu)  Na-sib-na  |  .  .  .
 
@@ -15615,16 +14888,10 @@ bi
 1 1 :  i  - 1 '  i
 
 
-887
-884
-
-
 .     .     .  [  sa  (nif.tu)  S.,]-l.it  j  a-na  (mfttu)  Ta-h.i-li
 .     .     .  I  sa  (matu)  Kir-)ru-ri    a-na  un.'itu)  M<--li-<li
 Sa  (alu)Ni-]nu-a  |  a-n:i  (in.'iiu)  Narn-ri
 
-
-228  CUNEIFORM  PARALLELS
 
 835 the  man  Itu  (?).    Against  the  land  of
 
@@ -15688,12 +14955,7 @@ si-bu
 
 
 ....  -bi
-831
 s:;i)
-829
-828
-827
-826
 
 
 825 I  si-bu
@@ -15784,10 +15046,6 @@ B06
 
 MM
 
-808
-
-
-230  CUNEIFORM  PARALLELS
 
 802  Ninib-malik  of  the  city  of  Akhi   (nam)    Zukhina.
 Against  the  city  of  Khubushkia.
@@ -15941,8 +15199,6 @@ us-ki-a
 the  year.     See  p.  222.
 
 
-232  CUNEIFORM  PARALLELS
-
 778  Bel-lishir.   the  major-domo.     Against    the  land   of
 
 Urartu.
@@ -16001,8 +15257,7 @@ Nam-ri
 769  Bel-malik  §a  (alu)  Arba-Jja  |  a-na  (matu)  I-tu-'-a
 768  Apli-ia  §a  (alu)  Ma-za-mu-a  |  i-na  mati
 
-767  Kur-di-Asur    §a    (alu)    A-bi-(naru)6u-bi-na  |  a-na  (matu)  Ga-
-na-na-(a)-ti
+767  Kur-di-Asur    §a    (alu)    A-bi-(naru)6u-bi-na  |  a-na  (matu)  Gana-na-(a)-ti
 
 
 EPONYM  LIST  WITH  NOTES  233
@@ -16081,8 +15336,6 @@ idu-u-a  s.-i  falu)  Par-nun-na  '  ina  mati
 »  Var.  (alu).
 
 
-234  CUNEIFORM  PARALLELS
-
 754  Ninib-shezibani  of  the  city  of  Rimusi.  Against  the
 land  (var.  city)  of  Arpadda.  Return  from  the
 city  of  Asshur.
@@ -16106,8 +15359,7 @@ country.
 
 the  city  of  Kalkhi  (Kalah).
 
-745  Nabu-bel-ucur  of  the  city  of  Arbakha.  On  the  thir-
-teenth day  of  the  month  of  Iyyar  Tukulti-apal-
+745  Nabu-bel-ucur  of  the  city  of  Arbakha.  On  the  thirteenth day  of  the  month  of  Iyyar  Tukulti-apal-
 esharra  (Tiglathpileser)  took  his  seat  on  the
 throne.  In  the  month  of  Tishrit  he  marched  to
 the  territory  between  the  rivers.
@@ -16124,14 +15376,7 @@ Aiur-nirari  §ar  (matu)]  ASSur  |  ina  mati
 §am-§i-ilu  (amelu)  Tur-]ta-nu  |  ina  mati
 
 
-753
-752
-
 751  [Marduk-§al-lim-a(n)-ni  amelu  nagir]  ekalli  |  ina  mati
-
-750
-
-749
 
 
 Bel-dan  rab-Bi]-LUB  |  ina  mati
@@ -16151,8 +15396,7 @@ a-na  bi-rit  nari  it-ta-lak
 
 EPONYM  LIST  WITH  NOTES  235
 
-743  Tukidti-apal-esharra    (Tiglathpileser)    King    of    As-
-syria.   In  the  city  of  Arpadda.    A  massacre  took
+743  Tukidti-apal-esharra    (Tiglathpileser)    King    of    Assyria.   In  the  city  of  Arpadda.    A  massacre  took
 
 place  in  the  land  of  Urartu  (Armenia) .
 742  Nabu-daninani,  the  commander-in-chief.    Against  the
@@ -16192,8 +15436,7 @@ the  land  of  Damascus.
 743  [Tukulti-apal-e§arra  §]ar  (matu)  A§§ur  |  ina  (alu)  Ar-pad-da  |
 di-ik-tu  §a  (matu)  Ur-ar-ti  |  dikat
 
-742  [Nabu-da(n)-in-a(n)-ni]  (amrlu)  Tur-ta-nu  |  a-na  (alu)  Ar-
-pad-da
+742  [Nabu-da(n)-in-a(n)-ni]  (amrlu)  Tur-ta-nu  |  a-na  (alu)  Arpad-da
 
 741  [Bt'l-barran-Bf'l-usur]    (amelu)    n&gir   ekalli  |  a-na    (alu)    ditto
 
@@ -16208,11 +15451,8 @@ sab-ta-at
 
 \iur-sal-liiii-an-ni]  sa  (ruatu)  Arl»a-)ia     a-ua  (matu)  Ur-ar-d'
 lairD-an]  sa  (alu)  Kal-ija  I  a-ua  (ruatu)  Pi-li-
-7-'W   [Asur-<la(u)-iu-a(u)-ui]   sa   (alu)    Ma-za-iuu-a  |  a-ua   (mdtu)   Di-
-maS-ka
+7-'W   [Asur-<la(u)-iu-a(u)-ui]   sa   (alu)    Ma-za-iuu-a  |  a-ua   (mdtu)   DimaS-ka
 
-
-236  CUNEIFORM  PARALLELS
 
 732  Nabu-bel-ugur  of  the  city  of  Sime.    Against  the  land
 of  Damascus.
@@ -16233,8 +15473,7 @@ the  hands  of  Bel.    The  city     .     .     .
 
 727  Bel-kharran-bel-ucur  of  the  city  of  Guzanu.    Against
 
-the    city    of     .     .     .     Shulmanu-asharidu    (Shal-
-maneser)  took  his  seat  on  the  throne.
+the    city    of     .     .     .     Shulmanu-asharidu    (Shalmaneser)  took  his  seat  on  the  throne.
 
 726  Marduk-bel-ucur  of  the  city  of  Amedi.    In  the  country.
 725  Makhdie  of  the  city  of  Ninua  (Nineveh).     Against
@@ -16260,13 +15499,7 @@ Sa-pi-ia
 [Sul-ma-nu-]a§aridu  |  ina  kus[si  it-tu-§ib]
 
 
-726
-
-
 Marduk-bel-usur  §a  (alu)  A-me-]di  |  i-[na  mati]
-
-
-724
 
 
 725  [Mab-di-e  §a  (alu)]  Ni-nu-a  |  a-na
@@ -16279,7 +15512,6 @@ A§ur-tjal-[.     .     .]  §a  (alu)  Kak-zi  |  a-na
 
 
 3.  THE  EPONYM  CHRONICLE  FOR  720-705  B.
-720
 
 c.
 
@@ -16291,11 +15523,9 @@ entered.
 
 .     .     .     .     against  the  land  of  Tabal.
 
-720
 
 ru
 
-719
 
 e]-ta-rab
 
@@ -16340,8 +15570,7 @@ from  the  city  of   Dur-Yakin  brought
 out.
 
 706  (?).     .     .     .     the  city  of  Dur-Yakin  destroyed    .    .    .
-.     .     .     the  gods  of  Dur-Yakin  entered  their  tem-
-ples.
+.     .     .     the  gods  of  Dur-Yakin  entered  their  temples.
 
 705  (?).     .     .     .     in  the  land  of  Karalla.
 
@@ -16382,16 +15611,13 @@ a-n.i  l»itati-su-im  c-t.ir-bu
 mab-ra
 
 
-238  CUNEIFORM  PARALLELS
-
 4.  FRAGMENT  OF  A  SIMILAR  LIST
 708  Eponym  year  of  Shamash-upakhkhir     .     .     .
 .     .     .     the  nobles.    Aga  nst  Kummukh.
 
 707  Eponym  year  of  Sha-Asshur-dubbu,  governor  of  the
 
-city  of  Tushkhan.  The  King  returned  from  Baby-
-lon. The  palaces  and  ...  On  the  twenty-
+city  of  Tushkhan.  The  King  returned  from  Babylon. The  palaces  and  ...  On  the  twenty-
 second  day  of  the  month  of  Teshrit  the  gods  of
 Dur-Sharru-ukin  entered  into  their  temple.
 
@@ -16447,9 +15673,6 @@ rabu  ina  eli     .     .     .
 PTOLEMAIC  CANON
 
 
-239
-
-
 THE  BABYLONIAN  CANON  OF  RULES  IN
 CLAUDIUS  PTOLEMiEUS1
 
@@ -16464,164 +15687,103 @@ Babylonian  Forms  of  Names
 Years
 B.  C.
 
-14
 
 Na/fovaovrdpot;
 
 Nabu-nasir
 
-747
-
-2
 
 Na(5/ou
 
 (Nabu)-nadin-(zir)
 
-733
-
-5
 
 Xiv&poc  teat  H6pov
 
 Ukinzir.  Pulu
 
-731
-
-5
 
 'ITiovTiaiov
 
 Ululai
 
-726
-
-12
 
 MapdoKEfiirddov
 
 Marduk-apal-iddin
 
-721
-
-5
 
 'Apueavov
 
 Shamikin
 
-709
-
-2
 
 aPaoitebrov  np&rov
 
-704
-
-3
 
 Bel-ibni
 
-702
-
-6
 
 '  Anapavadiov
 
 Ashur-nadin-shum
 
-699
-
-1
 
 "PrryefflTuov
 
 Nergal-ushezib
 Mushezib-Marduk
 
-693
-
-4
 
 Meo7}Oifiop6&Kov
 
-692
-
-8
 
 'ApaotXeirov  ievripov
 
-688
-
-13
 
 '  Aoapidivov
 
 Ashur-akh-iddin
 
-680
-
-20
 
 "Laoodovxivov
 
 Shamash-shum-ukin
 
-667
-
-22
 
 Kivi?Lava66vov
 
 Kandalanu
 
-647
-
-21
 
 TSafioTroTxLoaapov
 
 Nabu-apal-usur
 
-625
-
-43
 
 Na/3o/coAao*<rdpou
 
 Nabu-kudurri-usur
 
-604
-
-2
 
 'iTJuoapov-ddftov
 
 Amel-Marduk
 
-561
-
-4
 
 'S?jpiKaao?xiaadpov
 
 Nergal-shar-usur
 
-559
-
-17
 
 NaBovadiov
 
 Nabu-na'id
 
-555
 
-A  table  of  chronology  covering  the  reigns  of  the  Baby-
-lonian, Assyrian,  and  Persian  kings  of  the  period  com-
+A  table  of  chronology  covering  the  reigns  of  the  Babylonian, Assyrian,  and  Persian  kings  of  the  period  com-
 prised in  this  work  is  placed  at  the  end  of  the  book,  as
-a  convenient  summary  of  the  present  state  of  knowl-
-edge on  the  subject.  Students  should  make  attempts
+a  convenient  summary  of  the  present  state  of  knowledge on  the  subject.  Students  should  make  attempts
 at  the  construction  of  chronological  systems  from  the
 data  given  in  these  chronological  materials,  without
 consulting  the  tables  printed  at  the  end  of  the  book,
@@ -16634,14 +15796,11 @@ here  cited.
 t  his  list  see  primarily  Table  Chronologique  dea  Regnes  .  .  .  dea  C.
 PtoUmie,  etc.,  par  M.  l'AbbS  Halma,  Ouvres  de  Ptolemfe,  torn.  Hi,  Paris,
 1819,  p.  3,  ana  compare  Georgius  Svncellus,  ed.  Dindorf,  Bonn,  1829,
-vol  i.  pp.  390fT.,  and  Keil.  Bibl.,  ii,  pp.  290,  201  ;  W  inckler,  Keilinschri/t-
-liches  Textbuch  turn  Alien  Testament,  3te  Auf.,  p.  70.
+vol  i.  pp.  390fT.,  and  Keil.  Bibl.,  ii,  pp.  290,  201  ;  W  inckler,  Keilinschri/tliches  Textbuch  turn  Alien  Testament,  3te  Auf.,  p.  70.
 
 
 4  h
 
-
-240  CUNEIFORM  PARALLELS
 
 LITERATURE
 
@@ -16659,11 +15818,9 @@ C.  F.  Lehmann-Haupt,  Zwei  Hauptprobleme  der
 altorientalischen  Chronologie.     Leipzig.     1898.
 
 L.  W.  King,  Chronicles  Concerning  Early  Babylonian
-Kings.  Two  Volumes.  London.  1907.  [Very  im-
-portant.]
+Kings.  Two  Volumes.  London.  1907.  [Very  important.]
 
-W.  J.  Beecher,  The  Dated  Events  of  the  Old  Testa-
-ment.    Philadelphia.     1908.
+W.  J.  Beecher,  The  Dated  Events  of  the  Old  Testament.    Philadelphia.     1908.
 
 W.  S.  Auchincloss,  Chronology  of  the  Holy  Bible,  with
 an  Introduction  by  A.  H.  Sayce.     New  York.     1911.
@@ -16676,8 +15833,7 @@ Karl  Marti,  Article,  Chronology  A,  Old  Testament,
 Encyclopaedia  Biblica,  Vol.  I,  col.  773f.
 
 R.  Kittel  and  Robert  W.  Rogers,  Article,  Time,
-Biblical  Reckoning  of,  The  New  Schaff-Herzog  Re-
-ligious Encyclopaedia,  Vol.  XI,  p.  442f.
+Biblical  Reckoning  of,  The  New  Schaff-Herzog  Religious Encyclopaedia,  Vol.  XI,  p.  442f.
 
 Morris  Jastrow,  Jr.,  Aspects  of  Religious  Belief  and
 Practice  in  Babylonia  and  Assyria.  New  York.  1911.
@@ -16690,9 +15846,6 @@ Practice  in  Babylonia  and  Assyria.  New  York.  1911.
 HISTORICAL  TEXTS
 
 
-241
-
-
 I.  HAMMURAPI
 
 The  city  of  Babylon  was  one  of  the  early  cities  of
@@ -16700,8 +15853,7 @@ Babylonia,  and  the  allusions  to  it  in  the  days  of  Sargon  I
 seem  to  imply  that  it  achieved  a  position  of  influence
 even  in  the  earliest  period.  It  was,  however,  displaced
 by  its  rivals,  and  for  many  centuries  we  either  hear
-nothing  of  it  at  all,  or  discern  it  as  the  center  of  a  dis-
-trict in  a  kingdom  ruled  from  another  city.  For  cen-
+nothing  of  it  at  all,  or  discern  it  as  the  center  of  a  district in  a  kingdom  ruled  from  another  city.  For  cen-
 turies Ur  was  the  chief  city  in  Babylonia,  to  be  followed
 in  its  turn  by  Isin  and  then  by  Larsa.  Babylon  had
 produced  no  man  able  to  conquer  these  kingdoms  and
@@ -16715,10 +15867,8 @@ From  that  time  the  influence  of  the  city  extends  almost
 without  a  break  to  the  period  of  the  Seleucides.  No
 capital  in  the  world  has  ever  been  the  center  of  so  much
 power,  wealth,  and  culture  for  a  period  so  vast.  It  was
-Hammurapi  who  made  Babylon  so  great,  and  Ham-
-murapi  must  ever  be  counted  among  the  greatest  kings
-who  have  ever  ruled  among  men,  whether  he  be  con-
-sidered as  a  conqueror  in  battle,  as  a  statesman  welding
+Hammurapi  who  made  Babylon  so  great,  and  Hammurapi  must  ever  be  counted  among  the  greatest  kings
+who  have  ever  ruled  among  men,  whether  he  be  considered as  a  conqueror  in  battle,  as  a  statesman  welding
 diverse  city  kingdoms  into  one,  as  a  builder  of  great
 public  works,  or  as  a  ruler  codifying  custom  into  law
 and  enforcing  public  justice  over  all  his  domain.
@@ -16729,18 +15879,13 @@ King  Lists  give  some  names  of  rulers,  of  whom  in  some
 cases  we  know  nothing,  and  are  able,  perhaps  justly,  to
 
 
-244  CUNEIFORM  PARALLELS
-
 infer  that  there  was  very  little  to  know.  The  first  name
 in  the  dynasty  is  Sumu-abu,  of  whom  we  know  nothing.
 The  next  is  Sumu-la-ilu,  who  is  not  called  the  son  of  the
-predecessor,  and  from  whom  also  no  historical  inscrip-
-tions have  come  down  to  us.  He  was  succeeded  by
+predecessor,  and  from  whom  also  no  historical  inscriptions have  come  down  to  us.  He  was  succeeded  by
 Zabu,  his  son,  who  erected  a  temple  in  Sippar.  It  is
-curious  to  observe  that  in  the  various  business  docu-
-ments which  have  come  down  to  us  from  this  period,
-none  of  these  rulers  is  called  king.  Apil-Sin,  who  fol-
-lows, is  also  without  this  title,  and  Sin-muballit  is  only
+curious  to  observe  that  in  the  various  business  documents which  have  come  down  to  us  from  this  period,
+none  of  these  rulers  is  called  king.  Apil-Sin,  who  follows, is  also  without  this  title,  and  Sin-muballit  is  only
 so  called  in  a  passing  allusion  in  one  tablet.  It  seems  a
 fair  inference,  from  all  the  facts  that  are  accessible  to  us,
 that  these  rulers  were  not  kings  at  all,  but  princes  in
@@ -16782,33 +15927,27 @@ the  fragmentary  remains  which  have  come  down  to  us.
 
 In  the  very  earliest  times  Elam  was  independent  of
 Babylonia,  but  was  successively  overrun  and  plundered
-by  Babylonian  kings.  In  different  years  we  find  Uru-
-mush,  Sargon  I,  and  his  son  Naram-Sin  and  Gudea  all
+by  Babylonian  kings.  In  different  years  we  find  Urumush,  Sargon  I,  and  his  son  Naram-Sin  and  Gudea  all
 as  plunderers  of  Elam.  Dungi  married  one  of  his
 daughters  to  a  Patesi  of  Anshan,  a  district  of  Elam.  At
 this  time  it  seems  clear  that  the  rulers  of  Elam  were
 named  Patesi,  and  acknowledged  the  kings  of  southern
-Babylonia  as  their  suzerains;  they  wrote  their  inscrip-
-tions in  Babylonian  and  seemf  to  have  adopted  the
+Babylonia  as  their  suzerains;  they  wrote  their  inscriptions in  Babylonian  and  seemf  to  have  adopted  the
 civilization  of  the  great  valley.  About  2280  an  Elamite
 ruler,  Kutur-nakunte,  made  a  raid  into  Babylonia  and
 carried  away  the  goddess  Nana  out  of  Uruk.  After  this
 event  we  lose  the  thread  of  the  history  and  find  the
-Elamites  about  2000  B.  C.  in  actual  possession  of  Baby-
-lonian cities.  At  this  time  the  ruler  of  Elam  is  Simti-
+Elamites  about  2000  B.  C.  in  actual  possession  of  Babylonian cities.  At  this  time  the  ruler  of  Elam  is  Simti-
 silhak,  who  is  the  suzerain  over  Kudur-Mabuk,  who
 bears  the  title  of  adda  of  Amurru,  claiming  thereby  the
 rule  over  the  west  as  far  as  the  Mediterranean,  and  also
 adda  of  Emutbal,  a  province  of  western  Elam.  A  son
-of  Kudur-Mabuk,  called  Arad-Sin  in  the  Semitic  inscrip-
-tions, but  whose  name  in  Sumerian  may  be  read  Eri-
+of  Kudur-Mabuk,  called  Arad-Sin  in  the  Semitic  inscriptions, but  whose  name  in  Sumerian  may  be  read  Eri-
 Aku,  had  established  himself  as  king  of  Larsa,  and  in
 hlfl  inscriptions  claims  authority  over  Ur,  Eridu,  Nippur,
 Shirpurla,  and  Uruk.  He  is  the  king  who  is  referred  to
 in  Gen.  14  as  king  of  Ellasar,  associated  with  Chedor-
 
-
-246  CUNEIFORM  PARALLELS
 
 laomer.  The  name  "Chedorlaomer"  corresponds  to  the
 name  "Kudur-lagamaru,"  and  the  situation  presupposed
@@ -16818,14 +15957,11 @@ text,  was  now  the  overlord  of  all  Babylonia,  and  that
 Amraphel,  in  whom  we  must  see  Hammurapi,  and  Eri-
 Aku,  and  Tidal,  king  of  the  Goyyim,  who  is  probably
 intended  for  Tudhkhula,  king  of  Gutium,  were  his
-tributaries  or  allies.  To  this  situation  no  contempo-
-raneous documentary  proof  has  yet  been  produced,  but
+tributaries  or  allies.  To  this  situation  no  contemporaneous documentary  proof  has  yet  been  produced,  but
 it  conflicts  with  no  known  facts,  and  suits  the  general
-situation.  To  say  more  than  this  would  be  unscien-
-tific and  probably  also  unwise.
+situation.  To  say  more  than  this  would  be  unscientific and  probably  also  unwise.
 
-Whatever  the  relations  of  the  various  rulers  in  Baby-
-lonia may  have  been  to  each  other  and  to  Elam,  the
+Whatever  the  relations  of  the  various  rulers  in  Babylonia may  have  been  to  each  other  and  to  Elam,  the
 issue  of  the  struggle  for  supremacy  is  clear.  Under
 Hammurapi  the  Babylonians  threw  off  the  Elamite
 yoke  and  drove  those  who  had  so  long  held  it  in  the
@@ -16839,8 +15975,7 @@ its  reduction  beneath  Hammurapi's  sway.  Northern
 Babylonia  was  also  reduced,  and  the  city  of  Babylon,
 which  had  long  filled  a  position  subordinate  to  others,
 now  began  the  career  which  fills  all  ancient  history  and
-literature  with  its  glory.  It  was  now  to  begin  the  his-
-tory which  should  make  it  later  known  as  the  "mother
+literature  with  its  glory.  It  was  now  to  begin  the  history which  should  make  it  later  known  as  the  "mother
 of  the  Chaldeans"  (Jer.  50.  12),  the  "Chaldaicarun
 gentium  caput"  (Pliny,  Hist.  Nat.,  6,  30),  and  the
 "beauty  of  the  Chaldees'  pride"  (Isa.  13.  19).
@@ -16851,8 +15986,7 @@ began  a  series  of  public  works  of  the  highest  importance.
 
 HAMMURAPI  247
 
-He  made  great  canals,  which  supplied  southern  Baby-
-lonia with  abundant  water  for  agriculture;  he  united
+He  made  great  canals,  which  supplied  southern  Babylonia with  abundant  water  for  agriculture;  he  united
 Sippar  with  the  Euphrates  by  a  canal  which  brought
 the  river-borne  commerce  to  its  doors;  he  organized  the
 system  of  canal  conservancy  so  that  the  waterways
@@ -16860,21 +15994,17 @@ were  not  choked  with  the  rank  growth  of  a  semi-tropical
 climate;  he  erected  in  Babylon  a  great  granary  for  the
 storing  of  wheat  against  times  of  famine — a  work  of
 mercy  as  well  as  of  necessity;  he  rebuilt  the  walls  of
-defense  about  Sippar,  making  them  like  a  great  moun-
-tain; he  prepared  for  himself  a  royal  residence  near
+defense  about  Sippar,  making  them  like  a  great  mountain; he  prepared  for  himself  a  royal  residence  near
 Baghdad,  and  restored  and  enlarged  the  temples  of
 Esagila  in  Babylon  and  of  Ezida  in  Borsippa.  But
 above  all  these  material  works  is  he  to  be  remembered
 as  the  king  who  gathered  the  scattered  laws  of  his
 people,  enlarged  their  scope,  and  uttered  the  great  code
-of  laws  with  which  his  name  is  now  certain  to  be  con-
-nected while  time  lasts.  Great  as  a  lawgiver,  he  was
+of  laws  with  which  his  name  is  now  certain  to  be  connected while  time  lasts.  Great  as  a  lawgiver,  he  was
 equally  great  as  an  administrator,  for  his  numerous
-letters  and  dispatches  show  how  carefully  he  estab-
-lished justice  and  maintained  the  right  in  even  the
+letters  and  dispatches  show  how  carefully  he  established justice  and  maintained  the  right  in  even  the
 smallest  affairs  of  everyday  life.  The  ancient  Orient
-knows  no  king  of  his  commanding  stature  and  im-
-portance; he  is  without  a  rival  when  all  the  sides  of  his
+knows  no  king  of  his  commanding  stature  and  importance; he  is  without  a  rival  when  all  the  sides  of  his
 abounding  activity  are  compared  with  the  achievements
 of  any  other  monarch.
 
@@ -16891,61 +16021,47 @@ Priee,  L\trrary  H>  mams  of  Rim  Sim,  p.  T>;  F.  Thureau  Dangin,  Die  <
 
 schen  una  Akkadischi  n  Konigsinschrxften,  p.  211,  No.  6.
 
-1
 (1)  dingir  Nannar  (2)  lugal-a-ni-ir  (8)  Ku-<Iu-ur-rna-l>u-uk  (4)  adda
 
-
-248  CUNEIFORM  PARALLELS
 
 ernor  of  Martu,  (5)  son  of  Simtishilkhak,  when  the  god
 Nannar  heard  his  prayer,  built  the  temple  E-nun-makh,
 to  the  god  (10)  Nannar,  for  his  life  and  the  life  of  Arad-Sin
 (Eri-Aku),  his  son,  the  king  of  Larsa.
 
-21
 
 Arad-Sin  (Eri-Aku),  the  valiant  hero,  the  faithful
 shepherd,  a  bestowal  of  the  god  Ellil,  the  preserver  of  Ur,
 king  of  Larsa,  king  of  Shumer  and  Akkad,  the  son  of
-Kudur-Mabuk,  governor  of  Emutbal  am  I.  Ur,  its  en-
-largement I  took  in  hand,  its  accomplishment  I  com-
+Kudur-Mabuk,  governor  of  Emutbal  am  I.  Ur,  its  enlargement I  took  in  hand,  its  accomplishment  I  com-
 manded, and  the  ruins  rebuilt,  to  the  god  Nannar,  my
 lord,  I  dedicated.  A  great  wall  like  a  mountain  restored,
 for  his  adoration  magnificent  I  built.  His  city  may  he
 occupy  it.  Its  wall  Nannar-giri-ma-da-gi-en-gi-en  was  its
 name.
 
-32
 
 (1)  Unto  Sin-idinnam  (2)  say: —
 (3)  Thus   saith   Hammurapi.     (4)  Behold   I   am   now
 
 1  Published  I  R  5,  No.  XVI;  translated  by  George  Smith,  Transaction*
-of  the  Society  of  Biblical  Archaeology,  i,  pp.  43,  286;  Winckler,  KeUin-
-schriftliche  Bibliothek,  iii,  1,  p.  94;  Price,  Literary  Remains  of  Rim
-Sin,  p.  8;  F.  Thureau  Dangin,  Die  Sumenschen  und  Akkadischen  Ho-
-rn gsinschrif  ten,  p.  213,  b.
+of  the  Society  of  Biblical  Archaeology,  i,  pp.  43,  286;  Winckler,  KeUinschriftliche  Bibliothek,  iii,  1,  p.  94;  Price,  Literary  Remains  of  Rim
+Sin,  p.  8;  F.  Thureau  Dangin,  Die  Sumenschen  und  Akkadischen  Horn gsinschrif  ten,  p.  213,  b.
 
 2  Published  and  translated  by  King,  The  Letters  and  Inscriptions  of
 Hammurabi  (1898,  1900),  i,  Plate  80,  No.  46,  vol.  iii,  p.  82.
 
 kur-mar-tu  (5)  dumu  Si-im-ti-si-il-h,a-ak  (6)  ud  dingir  Nannar
-(7)  a-ra-zu-ni  (8)  mu-si-gin-na-a  (9)  6-nun-makh  (10)  dingir  Nannar-
-kam  (11)  nam-ti-la-ni-§ii  (12)  u  nam-ti  (13)  Eri-dingir  Aku  dumu-ni
+(7)  a-ra-zu-ni  (8)  mu-si-gin-na-a  (9)  6-nun-makh  (10)  dingir  Nannarkam  (11)  nam-ti-la-ni-§ii  (12)  u  nam-ti  (13)  Eri-dingir  Aku  dumu-ni
 (14)  lugal  arar  (ki)-ma-su  (15)  mu-na-ni-in-du
 
-2
 
-(1)  Eri  dingir  Aku  (2)  nitafc-kal-ga  (3)  sib-nig-gi  (4)  dingir  En-
-lil-li  gar-ra  (5)  u-a  uri-(-ki)-ma  (6)  lugal  arar-(-ki)-ma  (7)  lugal
-ki-en-gi  (ki)  ki-uri-ge  (8)  tumu  Ku-du-ur-ma-bu-uk  (9)  adda  E-mu-
-ut-ba-la  me-en  (10)  uri-(-ki)  dagal-e-de  (11)  mu-mab  tug-tug-de
-[Column  II]  (1)  BUR-na-bi  (2)  u  gul  im-ma-an-ga-ga  (3)  dingir  Nan-
-nar lugal-mu  (4)  mu-§i-in-8e  (5)  bid-gal  bar-sag-il-la-dim  §u-nu-tu(r)-
+(1)  Eri  dingir  Aku  (2)  nitafc-kal-ga  (3)  sib-nig-gi  (4)  dingir  Enlil-li  gar-ra  (5)  u-a  uri-(-ki)-ma  (6)  lugal  arar-(-ki)-ma  (7)  lugal
+ki-en-gi  (ki)  ki-uri-ge  (8)  tumu  Ku-du-ur-ma-bu-uk  (9)  adda  E-muut-ba-la  me-en  (10)  uri-(-ki)  dagal-e-de  (11)  mu-mab  tug-tug-de
+[Column  II]  (1)  BUR-na-bi  (2)  u  gul  im-ma-an-ga-ga  (3)  dingir  Nannar lugal-mu  (4)  mu-§i-in-8e  (5)  bid-gal  bar-sag-il-la-dim  §u-nu-tu(r)-
 tu(r)  (6)  ne-bi-§u  e-a  (7)  mu-na-du  (8)  uru-ni  |je-im-™J-uRUDU
 (9)  bad-da  (10)  dingir  Nannar  eubu§  ma-da  gf-en-gf-en  (11)  mu-bi-im
 
-3
 
 (1)  a-na  (ilu)  Sin-i-din-nam  (2)  ki-bi-ma  (3)  um-ma  ^a-a™*111"-
 
@@ -16959,7 +16075,6 @@ serve  (7)  with  the  workmen  of  the  city  of  Larsa,  (8)  and
 one  hundred  and  eighty  of  them  (9)  with  the  workmen
 of  the  town  of  Rakhabu.    .    .    .    (11)  let  them  go.
 
-41
 
 (I)  Unto  Sin-idinnam  say: —
 
@@ -16971,7 +16086,6 @@ on  the  twenty-fifth  day  of  the  month  Tishri,  .  .  .
 (10-12)  let  it  arrive  in  Babylon  on  the  twenty -fifth  day
 of  the  second  Elul.
 
-52
 
 (1)  Hammurapi,  (2)  the  powerful  king,  (3)  the  king  of
 Babylon,  (4,  5)  the  king  of  the  four*  quarters  of  the
@@ -16994,9 +16108,7 @@ ra-pi-ma    (4)  a-nu-um-ma    VI    §u-§i    zabiluti    (5)  at-tar-da-ak-ku
 
 (II)  [.     .     .]-bu-tu  li-il-li-ku  (?)
 
-4
-(1)  [a-na  (ilu)  Sin-i-din-nam]  (2)  ki-bi-ma  (3)  [um-m]a  5a-am-
-mu-ra-pi-ma  (4)  [8]a-at-tum  ki  ri-ga-am  i-8u  (5)  wa-ar-bu-um  §a
+(1)  [a-na  (ilu)  Sin-i-din-nam]  (2)  ki-bi-ma  (3)  [um-m]a  5a-ammu-ra-pi-ma  (4)  [8]a-at-tum  ki  ri-ga-am  i-8u  (5)  wa-ar-bu-um  §a
 i-ir-ru-ba-am  (6)  (arfcu)  Ululu-II  kan-m[a  l]i-i§-§a-te-ir  (7)  u  a-§ar
 igist  i-na  (arfcu)  [TiSrttu]  umu  XXV  kan  (8)  a-na  Babili  [(ki)]
 (9)  za-na-ku  ik-f.  .  .1-u  (10)  i-na  (arh,u)  Ululu-II  kan-ma  umu
@@ -17009,8 +16121,6 @@ i-tim  (f))  ar-ba-im  (6)  ba-ni  ma-tim  (7)  Sarni  §a  ip-Sa-tu-Su
 (8)  a-na  Si-ir   (ilu)   §ama§   (9)  U   (ilu)   Marduk  ta-ba  (10)  a-na-ku
 
 
-250  CUNEIFORM  PARALLELS
-
 (11)  The  summit  of  the  wall  (12)  of  Sippar  (13)  I
 have  raised  with  earth  (14,  15,  16)  like  unto  a  great
 mountain.  (17,  18)  I  have  compassed  it  about  with  a
@@ -17021,15 +16131,13 @@ up  a  wall  of  safety  for  it.
 (2)  Hammurapi  (3)  the  founder  of  the  land,  (4)  the
 king  whose  deeds  are  well  pleasing  (5)  unto  the  heart
 of  Shamash  (6)  and  Marduk  (7)  am  I.  (8)  I  have  caused
-Sippar  (9)  and  Babylon  (10,  11,  12)  to  dwell  contin-
-uously   in    a    peaceful    habitation.       (13)  Hammurapi,
+Sippar  (9)  and  Babylon  (10,  11,  12)  to  dwell  continuously   in    a    peaceful    habitation.       (13)  Hammurapi,
 
 (14)  the  darling  of  Shamash,  (15)  the  beloved  of  Marduk,
 (16)  am  I.  (17)  That  which  from  days  (18)  of  old
 (19,  20)  no  king  had  built  for  the  king  of  the  city,  (21)  for
 Shamash  my  lord  (22,  23)  I  have  accomplished  in  might.
 
-61
 
 (1)  Hammurapi,  (2)  the  powerful  king,  (3)  the  king
 of  Babylon,  (4)  the  king  who  has  brought  into  subjection
@@ -17045,8 +16153,7 @@ Hammurabi,  ii,  Plate  185,  No.  95;  iii,  pp.  188ff.
 (11)  duru  (12)  §a  Sippar  (ki)   (13)  ina  e-pi-ri  (14)  ki-ma  sa-tu-im
 
 (15)  ra-bi-im  (16)  ri-Si-§u  (17)  lu-u-ul-li  (18)  ap-pa-ra-am  (19)  lu-u§-
-ta-a§-h,i-ir-§u  (20)  (nam)  ud-kib-nun  (21)  a-na  Sippar  (ki)  (22)  lu-
-ujj-ri-am-ma  (23)  kar  §u-ul-mi-im.  [Column  II]  (1)  lu-u-um-mi-su
+ta-a§-h,i-ir-§u  (20)  (nam)  ud-kib-nun  (21)  a-na  Sippar  (ki)  (22)  luujj-ri-am-ma  (23)  kar  §u-ul-mi-im.  [Column  II]  (1)  lu-u-um-mi-su
 (2)  Qa-am-mu-ra-pi  (3)  ba-ni  ma-tira  (4)  Sarru  §a  ip-§a-tu-§u
 (5)  a-na  Si-ir  (ilu)  SamaS  (6)  u  (ilu)  Marduk  ta-ba  (7)  a-na-ku
 (8)  Sippar  (ki)  (9)  u  Babilu  (ki)  (10)  §u-ba-at  ne-ib-tim  (11)  a-na
@@ -17055,7 +16162,6 @@ da-ra-a-tim  (12)  lu-u-§e-§i-ib  (13)  ^a-am-mu-ra-pi  (14)  mi-gi-ir
 u-um  (18)  si-a-tim  (19)  §arru  in  §arri  ali  (20)  la  ib-ni-u  (21)  a-na
 (ilu)  Sama§  be-li-ia  (22)  ra-bi-L§  (23)  lu  e-pu-u§-su-um.
 
-6
 (1)  9a-am-mu-ra-pi  (2)  Sarru  da-num  (3)  §ar  Babili  (ki)  (4)  Sarru
 mu-u§-te-e§-mi  (5)  ki-ib-ra-tim  ar-ba-im  (6)  ka-§i-id  ir-ni-ti  (7)  (ilu)
 Marduk  (8)  r£'-u  mu-ti-ib  (9)  li-ib-bi-§u  a-na-ku  (10)  ni-nu  Anu  u
@@ -17064,8 +16170,7 @@ Marduk  (8)  r£'-u  mu-ti-ib  (9)  li-ib-bi-§u  a-na-ku  (10)  ni-nu  Anu  u
 HAMMURAPI  251
 
 mer  and  (12)  Akkad  (13)  to  rule  and  entrusted  (14)  their
-sceptre  (15)  to  my  hands,  (16)  I  dug  out  (17)  the  Ham-
-murapi  canal,  (18)  named  Nukhush-nishe  which  (19)  brings
+sceptre  (15)  to  my  hands,  (16)  I  dug  out  (17)  the  Hammurapi  canal,  (18)  named  Nukhush-nishe  which  (19)  brings
 abundance  of  water  (20)  unto  the  land  of  Shumer  (21)  and
 Akkad.  (22)  Both  the  (23)  banks  thereof  (24)  I  changed
 to  fields  for  cultivation,  and  I  garnered  (25,  26)  piles  of
@@ -17082,38 +16187,28 @@ to  dwell  (40)  in  a  peaceful  habitation.
 king,  (44)  the  beloved  of  the  great  gods,  (45,  46)  through
 the  great  power  (47)  which  Marduk  had  bestowed  upon
 me,  (48)  built  a  lofty  fortress,  (49)  with  much  earth
-(50)  whose  top,  (51,  52,  53,  54)  at  the  head  of  the  Ham-
-murapi canal  named  Nukhush-nishe,  reaches  heaven  like
+(50)  whose  top,  (51,  52,  53,  54)  at  the  head  of  the  Hammurapi canal  named  Nukhush-nishe,  reaches  heaven  like
 a  mountain.  (55)  This  fortress  I  named  (56,  57,  58)  Dur-
 Sin-muballit-abim-walidia,  and  so  did  I  cause  (59)  the
 name  of  Sin-muballit,  (60)  the  father  who  begat  me,
 (61,  62)  to  dwell  in  the  four  quarters  of  the  world.
 
-(ilu)  Bel  (11)  mat  §u-me-er-im  (12)  u  Ak-ka-di-im  (13)  a-na  be-Ii-
-im  id-di-nu-nim  (14)  si-ir-ra-zi-na  (15)  a-na  ga-ti-i-ia  (16)  u-ma-al-
+(ilu)  Bel  (11)  mat  §u-me-er-im  (12)  u  Ak-ka-di-im  (13)  a-na  be-Iiim  id-di-nu-nim  (14)  si-ir-ra-zi-na  (15)  a-na  ga-ti-i-ia  (16)  u-ma-al-
 lu-u  (17)  nar  IJa-am-mu-ra-pi  (18)  Nu-bu-u§-ni-§i  (19)  ba-bi-la-at
 me-e  begalli  (20)  a-na  mat  §u-me-er-im  (21)  u  Ak-ka-di-im  (22)  lu
 ab-ri  (23)  ki-5a-di-5a  ki-la-li-en  (24)  a-na  me-ri-§im  lu-u-te-ir
 (25)  ka-ri-e  a5-na-an  (26)  lu  a5-tap-pa-ak  (27)  me-e  da-ru-tim
 (28)  a-na  mat  §u-me-er-im  (29)  u  Ak-ka-di-im  (30)  lu  a5-ku-un
-(31)  mat  §u-me-er-im  (32)  u  Ak-ka-di-im  (33)  ni-5i-§u-nu  sa-ap-ba-
-tim  (34)  lu-u-pa-ab-bi-ir  (35)  mi-ri-tu  u  ma-aS-ki-tu  (36)  lu  a§-ku-
-un-5i-na-5i-im  (37)  in  nu-ujj-Sim  u  begalli  (38)  lu  e-ri-5i-na-ti  (39)  Su-
-ba-at  ne-ib-tim  (40)  lu-u-5e-5i-ib-5i-na-ti
+(31)  mat  §u-me-er-im  (32)  u  Ak-ka-di-im  (33)  ni-5i-§u-nu  sa-ap-batim  (34)  lu-u-pa-ab-bi-ir  (35)  mi-ri-tu  u  ma-aS-ki-tu  (36)  lu  a§-ku-
+un-5i-na-5i-im  (37)  in  nu-ujj-Sim  u  begalli  (38)  lu  e-ri-5i-na-ti  (39)  Suba-at  ne-ib-tim  (40)  lu-u-5e-5i-ib-5i-na-ti
 
-(41)  i-nu-mi-5u  (42)  rja-am-mu-ra-pi  (43)  Sarru  da-num  (44)  mi-
-k'ir  Dim  rabuti  a-na-ku  (45)  in  e-mu-ki-in  (46)  ga-aS-ra-tim  (47)  5a
+(41)  i-nu-mi-5u  (42)  rja-am-mu-ra-pi  (43)  Sarru  da-num  (44)  mik'ir  Dim  rabuti  a-na-ku  (45)  in  e-mu-ki-in  (46)  ga-aS-ra-tim  (47)  5a
 Marduk  id-di-nam  (48)  dura  in'  ra  nm  |  l'.n  in  r-hi-ri  ra-bu-tim
-(50)  5a  r[i]-5a-5u-nu  (51)  ki-ma  sa-tu-irn  c-li-a  (52)  in  re5  nar  JJa-
-am-mu-ra-pi  (53)  Nu-bu-u5-ni-si  (54)  lu  r-pu-u5  (55)  dura  5u-a-ti
+(50)  5a  r[i]-5a-5u-nu  (51)  ki-ma  sa-tu-irn  c-li-a  (52)  in  re5  nar  JJaam-mu-ra-pi  (53)  Nu-bu-u5-ni-si  (54)  lu  r-pu-u5  (55)  dura  5u-a-ti
 (56)  DOr-(ilu)  Sin-mu-bal-li-it  (ki)  (57)  a-bi-im  wa-li-di-ia  (58)  a-na
-5u-mi-im  lu  ab-bi  (50)  zi-kir  (ilu)  Sin-mu-ba-li-it  (60)  a-bi-im  wa-
-li-di-ia  (61)  in-ki-ib-ra-tim  (62)  lu-u-5[e]-5[ib]
+5u-mi-im  lu  ab-bi  (50)  zi-kir  (ilu)  Sin-mu-ba-li-it  (60)  a-bi-im  wali-di-ia  (61)  in-ki-ib-ra-tim  (62)  lu-u-5[e]-5[ib]
 
 
-252  CUNEIFORM  PARALLELS
-
-71
 (1)  Unto  Sin-idinnam  say: —
 
 (2)  Thus  saith  (3)  Hammurapi.  (4,  5,  6)  Thou  shalt
@@ -17127,7 +16222,6 @@ canal.
 1  Published  and  translated  by  King,  The  Letters  and  Inscriptions  of
 Hammurabi,  ii,  Plate  137,  No.  71;  iii,  p.  14.
 
-7
 
 (1)  a-na  (ilu)  Sin-i-din-nam  (2)  ki-bi-ma  (3)  Qa-am-mu-ra-pi-ma
 (4)  amele  8a  i-na  a-ah,  (palgu)  Da-ma-nu-um  (5)  ekle  sa-ab-tu
@@ -17146,8 +16240,7 @@ of  Tell-el-Amarna,  on  the  eastern  bank  of  the  Nile,
 about  one  hundred  and  sixty  miles  south  of  Cairo,  was
 searching  for  antiquities  among  the  sand  and  rubbish
 of  a  great  Tell  some  distance  back  from  the  river.  She
-did  not  know  that  beneath  this  sand  lay  all  that  re-
-mained of  the  temple  and  palace  of  the  great  heretic
+did  not  know  that  beneath  this  sand  lay  all  that  remained of  the  temple  and  palace  of  the  great  heretic
 king  of  Egypt,  Amenophis  IV,  or,  as  he  called  himself,
 Ikh-en-Aton.1  Her  object  was  only  to  find  stone  or
 brick  for  repairs  to  her  squalid  house,  or  anteeka,  which
@@ -17168,13 +16261,11 @@ these  she  extracted  more  than  three  hundred  inscribed
 clay  tablets  and  fragments  of  tablets,  some  of  them
 only  2 J  inches  by  1-f-j-  inches,  while  others  are  8  J  inches
 by  4$  inches  and  even  larger.  Fearing  that  they  would
-be  confiscated  by  the  Egyptian  government,  she  con-
-cealed them,  with  the  aid  of  some  relatives,  and  then
+be  confiscated  by  the  Egyptian  government,  she  concealed them,  with  the  aid  of  some  relatives,  and  then
 proceeded  with  surreptitious  negotiations  for  their  sale.
 They  sent  some  to  Dr.  Jules  Oppert,  in  Paris,  doubtless
 hoping  that  he  might  induce  their  purchase  by  the
-Louvre.  By  some  strange  excess  of  caution  he  pro-
-nounced them  forgeries;  while  M.  Grebaut,  then  head
+Louvre.  By  some  strange  excess  of  caution  he  pronounced them  forgeries;  while  M.  Grebaut,  then  head
 of  the  Department  of  Antiquities,  paid  no  attention  to
 some  which  were  drawn  to  his  attention.  Discouraged
 by  all  efforts  to  effect  an  advantageous  sale,  and  fearing
@@ -17197,16 +16288,12 @@ where  they  are  now  safely  deposited.  Eighty-two  were
 bought  for  the   trustees  of  the  British  Museum  by  Dr.
 
 
-254  CUNEIFORM  PARALLELS
-
 E.  A.  Wallis  Budge;  sixty  came  into  the  possession  of
 the  Cairo  Museum,  while  still  others  fell  into  private
-collections  like  the  Murch  and  Rostowicz.  These  price-
-less texts  are  therefore  widely  scattered,  when  there  can
+collections  like  the  Murch  and  Rostowicz.  These  priceless texts  are  therefore  widely  scattered,  when  there  can
 be  no  doubt  that  their  proper  study  would  be  much
 better  prosecuted  if  they  were  all  in  one  place,  as  they
-would  be  if  they  had  been  discovered  by  scientific  in-
-vestigators. Furthermore,  many,  perhaps  a  large  num-
+would  be  if  they  had  been  discovered  by  scientific  investigators. Furthermore,  many,  perhaps  a  large  num-
 ber, have  been  destroyed  by  careless  and  ignorant
 handling.  We  must  always  expect  just  such  an  issue
 so  long  as  the  natives  of  Egypt,  Babylonia,  Syria,  and
@@ -17225,8 +16312,7 @@ in  Syria  or  Palestine,  Philistia,  or  Phoenicia  to  these
 same  Egyptian  kings,  whom  they  acknowledged  as
 lawful  rulers  or  suzerains  over  their  territories.  The
 importance  of  these  documents  was  recognized  at  once,
-and  the  minute  study  to  which  they  have  since  been  sub-
-jected has  only  confirmed  the  first  estimate  of  their  value.
+and  the  minute  study  to  which  they  have  since  been  subjected has  only  confirmed  the  first  estimate  of  their  value.
 
 Before  we  can  set  them  in  their  proper  relations  to
 biblical  literature  it  will  be  necessary  to  take  a  wider
@@ -17234,8 +16320,7 @@ view  of  their  historical  origin.
 
 II.  Egypt  at  the  Tell-el-Amarna  Period
 
-The  two  kings  of  Egypt,  Amenophis  III  and  Ameno-
-phis IV,  who  received  or  dispatched  the  Tell-el-Amarna
+The  two  kings  of  Egypt,  Amenophis  III  and  Amenophis IV,  who  received  or  dispatched  the  Tell-el-Amarna
 
 
 TELL-EL-AMARNA  255
@@ -17258,15 +16343,12 @@ working  in  the  Nile  valley  at  the  crafts  to  which  they
 were  accustomed  at  home,  and  as  they  worked  they
 taught  the  Egyptians.  But  a  stream  of  influence  such
 as  this  could  not  be  confined  within  a  narrow  channel,
-and  soon  all  Egypt  was  overflowed  with  Semitic  in-
-fluences born,  not  merely  in  Syria,  but  even  in  Baby-
+and  soon  all  Egypt  was  overflowed  with  Semitic  influences born,  not  merely  in  Syria,  but  even  in  Baby-
 lonia, far  distant  though  it  was.  The  Syrian  craftsmen
 worked  so  well  in  Egypt  that  their  wares  changed  even
 the  taste  of  the  Egyptians,  while  the  language  was
-Semitized,  and  the  method  of  writing  gradually  de-
-veloped into  a  smooth-flowing  and  graceful  style.
-Under  the  great  influx  of  foreign  blood  even  the  fea-
-tures of  the  conquering  race  were  changed  into  a  less
+Semitized,  and  the  method  of  writing  gradually  developed into  a  smooth-flowing  and  graceful  style.
+Under  the  great  influx  of  foreign  blood  even  the  features of  the  conquering  race  were  changed  into  a  less
 bold  and  more  delicate  form.  Egypt  had  never  known
 such  changes  since  the  beginning  of  the  monarchy.
 Thotmes  III  had  indeed  extended  his  conquests  in
@@ -17279,13 +16361,9 @@ reign  of  Amenophis  II  (1449-1423),  which  im-
 itely  followed,  continued  the  policy  which  made
 
 
-256  CUNEIFORM  PARALLELS
-
 the  Semitic  influence  more  powerful  in  the  country.
-He  made  early  in  his  reign  a  raid  into  Syria,  to  estab-
-lish his  authority,  and  then  enjoyed  twenty  years  of
-peace,  in  which  the  commerce  with  his  Syrian  domin-
-ions had  free  course.  His  successor,  Thotmes  IV
+He  made  early  in  his  reign  a  raid  into  Syria,  to  establish his  authority,  and  then  enjoyed  twenty  years  of
+peace,  in  which  the  commerce  with  his  Syrian  dominions had  free  course.  His  successor,  Thotmes  IV
 (1423-1414),  had  but  a  brief  reign,  which  appears  to
 have  been  spent  chiefly  in  maintaining  the  control  in
 Syria  and  in  Nubia  which  had  been  won  by  his
@@ -17296,8 +16374,7 @@ his  father  immediately,  though  he  was  probably  still  a
 youth.  In  his  fifth  year  he  made  an  expedition  to
 Ethiopia,  and  during  the  remainder  of  his  life  pursued
 only  the  paths  of  international  peace.  During  all  these
-years  the  Semitic  influence  in  Egypt  continued,  seek-
-ing and  finding  ever  new  channels.  We  learn  about
+years  the  Semitic  influence  in  Egypt  continued,  seeking and  finding  ever  new  channels.  We  learn  about
 the  tenth  year  of  his  reign  that  he  has  already  married
 Tiy,  an  untitled  Egyptian,  and  a  woman  of  force  and
 character,  and  in  this  year  he  is  married  to  Gilukhepa,
@@ -17307,8 +16384,7 @@ The  Tell-el-Amarna  record  cases  have  preserved  for  us
 letters  from  Babylonia  written  by  Kadashman-Kharbe,
 from  Tushratta,  king  of  Mitanni  to  Amenophis  III,
 who  is  always  addressed  by  his  praenomen  Nimmuria
-(Egyptian  Neb-maat-Ra),  and  these  deal  almost  en-
-tirely with  royal  marriages  or  furnish  other  evidences  of
+(Egyptian  Neb-maat-Ra),  and  these  deal  almost  entirely with  royal  marriages  or  furnish  other  evidences  of
 constant  intercourse  between  the  two  kingdoms.  The
 real  queen  of  Egypt  was  Tiy,  who  is  always  associated
 with  the  king  in  his  acts  of  dominion,  but  his  other
@@ -17323,8 +16399,7 @@ TELL-EL-AMARNA  257
 The  reign  of  Amenophis  III  is  distinguished  by  the
 most  extensive  and  beautiful  works  of  building,  and
 every  relic  of  the  period  which  has  come  down  to  us
-bears  witness  to  the  prosperity  which  the  entire  king-
-dom enjoyed  during  this  brilliant  and  peaceful  period.
+bears  witness  to  the  prosperity  which  the  entire  kingdom enjoyed  during  this  brilliant  and  peaceful  period.
 During  his  later  years  he  was  negotiating  a  marriage
 for  his  son,  born  of  Queen  Tiy,  who  was  to  succeed  him
 under  the  style  of  Amenophis  IV,  with  the  prsenomen
@@ -17341,14 +16416,12 @@ influence.  The  king  changed  his  faith  and  became  a
 worshiper  of  the  Solar  Disk,  forsaking  the  great  god
 Amen,  to  whom  his  fathers  had  long  paid  homage.  The
 paramount  influences  in  producing  the  change  were
-probably  his  mother,  Tiy,  his  wife,  and  the  philosophiz-
-ing priests,  of  whom  the  favorite  was  Eye.  The  new
+probably  his  mother,  Tiy,  his  wife,  and  the  philosophizing priests,  of  whom  the  favorite  was  Eye.  The  new
 faith  expressed  itself  in  hymns1  of  great  beauty,  in  which
 the  life-giving  power  of  the  sun's  rays  is  celebrated,
 and  the  king  put  forth  tremendous  efforts  to  establish
 the  faith  among  his  people.  A  new  city,  bearing  the
-king's  name,  was  erected,  and  thither  the  court  trans-
-ferred its  residence  from  Thebes.
+king's  name,  was  erected,  and  thither  the  court  transferred its  residence  from  Thebes.
 
 In  the  new  city  the  king  reigned  surrounded  by  his
 
@@ -17363,10 +16436,7 @@ mora,  who  represented  Egypt  in  Syria.     It  was
 »See  translations  in  Breasted,  HUtory  of  Egypt,  pp.  37 Iff.
 
 
-258  CUNEIFORM  PARALLELS
-
-the  record  chamber  of  Amenophis  IV  that  was  dis-
-covered at  Tell-el-Amarna,  and  to  it  we  owe  the  knowl-
+the  record  chamber  of  Amenophis  IV  that  was  discovered at  Tell-el-Amarna,  and  to  it  we  owe  the  knowl-
 edge of  the  intercourse  between  Egypt  and  the
 north.
 
@@ -17387,17 +16457,14 @@ Period    .
 The  conquest  of  Syria  and  Palestine,  which  began
 under  Thotmes  III,  made  necessary  the  devising  of  a
 plan  for  the  governing  of  these  valuable  provinces.
-The  plan  which  was  ultimately  adopted  may  be  prop-
-erly regarded  as  having  grown  directly  out  of  the  con-
+The  plan  which  was  ultimately  adopted  may  be  properly regarded  as  having  grown  directly  out  of  the  con-
 quest itself.  Some  of  the  cities  had  resisted  Egypt  to
 the  bitter  end,  and  had  to  be  completely  destroyed  and
 then  rebuilt;  such  were  Dunip  (Heliopolis-Baalbek)  and
 Qatna  (in  the  Antilebanon  region),  which  received  a
-complete  Egyptian  organization,  including  the  Egyp-
-tian religion.  Other  cities  which  had  not  been  thus
+complete  Egyptian  organization,  including  the  Egyptian religion.  Other  cities  which  had  not  been  thus
 remade  received  princes,  who  were  probably  usually
-chosen  by  the  Pharaoh  from  men  previously  prom-
-inent in  the  city  or  tribe  because  of  rank  or  in-
+chosen  by  the  Pharaoh  from  men  previously  prominent in  the  city  or  tribe  because  of  rank  or  in-
 fluence. Such  a  man  was  Abdikheba,  of  Jerusalem,
 who  boasts  that  he  had  not  inherited  his  position  of
 governor,  but  had  been  appointed  by  the  great  king.
@@ -17421,10 +16488,8 @@ comprised  nearly  the  whole  of  Syria,  Phoenicia,  and
 Palestine.  The  remaining  portion,  comprising  the  great
 Lebanon  region,  is  called  Amurru.  Four  fifths  of  the
 Tell-el-Amarna  documents  deal  with  these  two  lands  of
-Canaan  and  Amurru,  and  present  a  most  striking  pic-
-ture of  their  political  situation,  more  especially  during
-the  reign  of  Amenophis  IV.  During  the  long  and  peace-
-ful reign  of  Amenophis  III  Egyptian  power  had  not
+Canaan  and  Amurru,  and  present  a  most  striking  picture of  their  political  situation,  more  especially  during
+the  reign  of  Amenophis  IV.  During  the  long  and  peaceful reign  of  Amenophis  III  Egyptian  power  had  not
 been  felt  on  the  borders  of  the  king's  Asiatic  dominions,
 and  without  the  menace  of  his  troops  the  borders  were
 not  likely  to  be  safe  from  invasion.  The  Tell-el-Amarna
@@ -17442,13 +16507,10 @@ they  had  been  pressing  southward  from  Kappadokia
 Syria.     They  were  later  to  engage  the  Egyptian
 
 
-260  CUNEIFORM  PARALLELS
-
 army  of  Rameses  II  at  Kadesh  on  the  Orontes,  and  win
 the  recognized  right  to  possess  the  land  all  the  way
 south  to  Hermon.  The  powerful  kingdom  then  founded
-endured  in  some  of  its  remnants  till  the  fall  of  Carche-
-mish  under  Sargon  II  in  717  B.  C.  The  name  of  "Hit-
+endured  in  some  of  its  remnants  till  the  fall  of  Carchemish  under  Sargon  II  in  717  B.  C.  The  name  of  "Hit-
 tites"  is  used  in  the  Old  Testament  in  a  very  wide  sense,
 applying  not  only  to  the  branches  of  the  stem  which
 inhabited  the  Lebanon  at  the  time  of  Israel's  entrance
@@ -17466,8 +16528,7 @@ word  itself  is  identical  with  the  word  "Hebrew,"  and  a
 great  controversy  at  once  arose  as  to  whether  or  not
 the  Khabiri  were  the  invading  Hebrews  under  Joshua.
 The  chronological  difficulty  did  not  prevent  many  from
-adopting  this  view.1  But  in  reality  it  makes  it  quite  im-
-possible. There  is  no  way  in  which  the  notices  of  the
+adopting  this  view.1  But  in  reality  it  makes  it  quite  impossible. There  is  no  way  in  which  the  notices  of  the
 Khabiri  can  possibly  be  reconciled  with  the  campaigns
 either  of  the  book  of  Joshua  or  of  the  first  chapter  of
 Judges.  A  study  of  all  the  allusions  to  the  Khabiri  in
@@ -17488,8 +16549,7 @@ TELL-EL-AMARNA
 to  bear  the  name  "Hebrew"  exclusively  for  us,  but
 there  is  no  positive  proof  of  this.1
 
-Apart  from  the  direct  historical  information  of  politi-
-cal affairs  supplied  by  these  letters,  they  are  of  the
+Apart  from  the  direct  historical  information  of  political affairs  supplied  by  these  letters,  they  are  of  the
 highest  value  as  revealing  the. wide  extent  of  Babylonian
 influence  in  western  Asia.  All  these  documents  are
 written  in  Babylonian  in  every  one  of  these  Phoenician
@@ -17538,20 +16598,16 @@ Genesis,  p.  218,  and  especially  Dri  us  (1911),  p.  xxxiii,  may  be
 1903,  vi
 
 
-262  CUNEIFORM  PARALLELS
-
 1.  LETTER  OF  BURRABURIASH  TO
 AMENOPHIS  IV  l
 (1)  To  Napkhu'ruria,  (2)  king  of  Egypt,  my  brother,
 [speaks]  (3)  thus  Burraburiash,  king  of  Karaduniash,
 (4)  thy  brother.  With  me  is  it  well.  (5)  With  thee,  with
-thy  land,  thy  house,  thy  wives,  thy  children,  (6)  thy  no-
-bles, thy  horses,  thy  chariots,  (7)  may  it  be  exceeding  well.
+thy  land,  thy  house,  thy  wives,  thy  children,  (6)  thy  nobles, thy  horses,  thy  chariots,  (7)  may  it  be  exceeding  well.
 (8)  I  and  my  brother  have  spoken  (9)  friendly  with  one
 another,  (10)  and  have  said  this:  (11)  "As  our  fathers
 were,  (12)  so  also  will  we  be  good  friends."  (13)  But  now
-my  merchants,  (14)  who  came  up  with  Akhutabu,  (15)  re-
-mained behind  in  Canaan  for  business  reasons.  (16)  After
+my  merchants,  (14)  who  came  up  with  Akhutabu,  (15)  remained behind  in  Canaan  for  business  reasons.  (16)  After
 Akhutabu  had  gone  on  to  my  brother  [i.  e.  to  Amenophis] ;
 (17)  in  the  city  of  Khinnatuni  of  Canaan,  (18)  Shumadda,
 son  of  Balumme'  (19)  [and]  Shutatua,  son  of  Sharatum,  of
@@ -17569,18 +16625,15 @@ No.  8.  Translated  by  Knudtzon,  Die  El-Amama  Tafeln,  pp.  85ff.,  and
 by  Ungnad[in  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  pp.  129ff.
 
 
-(1)  a-na  Na-ap-khu-'-ru-ri-ia  (2)  5ar  (matu)  Mi-is-ri-i  ah>ia  ki-
-bf-ma  (3)  um-ma  Bur-ra-bu-ri-ia-a§  Sar  (matu)  Ka-ra-du-ni-ia-as
+(1)  a-na  Na-ap-khu-'-ru-ri-ia  (2)  5ar  (matu)  Mi-is-ri-i  ah>ia  kibf-ma  (3)  um-ma  Bur-ra-bu-ri-ia-a§  Sar  (matu)  Ka-ra-du-ni-ia-as
 (4)  abu-ka-ma  a-na  ia-a-§i  §u-ul-mu  (5)  a-na  ka-§a  mati-ka  biti-ka
 a§§ati-ka  mar6-k[a]  (6)  (amelu)  rabuti-ka  sis£-ka  (isu)  narkabati-ka
 (7)  da-an-ni-i§  lu  §u-ul-mu  (8)  a-na-ku  u  ahj-ia  it-ti  a-ba-mi-is
 (9)  ta-bu-ta  ni-id-da-bu-ub  (10)  u  an-ni-ta  ni-ik-ta-bi  (11)  um-ma-a
 ki-i  ab-bu-ni  it-ti  a-b,a-mi-i§  (12)  ni-i-nu  lu  ta-ba-nu  (13)  i-na-an-na
-damgaru-u-a  (14)  §a  it-ti  A-h,u-ta-a-bu  te-bu-u  (15)  i-na  (matu)  Ki-
-na-a|j-bi  a-na  §i-ma-a-ti  it-ta-ak-lu-u  (16)  ul-tu  A^u-ta-a-bu  a-na
+damgaru-u-a  (14)  §a  it-ti  A-h,u-ta-a-bu  te-bu-u  (15)  i-na  (matu)  Kina-a|j-bi  a-na  §i-ma-a-ti  it-ta-ak-lu-u  (16)  ul-tu  A^u-ta-a-bu  a-na
 mu-ub-bi  abi-ia  i-ti-ku  (17)  i-na  (alu  ki)  9i-in-na-tu-ni  §a  (matu)
-Ki-ni-ab-bi  (18)  (m)  §u-um-ad-da  mar  (m)Ba-lum-me-e  (19)  (m)  Su-
-ta-at-na  mar  (m)Sa-ra-a-tum  §a  (alu)  Ak-ka  (20)  ameluti-§u-nu  ki
+Ki-ni-ab-bi  (18)  (m)  §u-um-ad-da  mar  (m)Ba-lum-me-e  (19)  (m)  Suta-at-na  mar  (m)Sa-ra-a-tum  §a  (alu)  Ak-ka  (20)  ameluti-§u-nu  ki
 i§-pu-ru  (amelu)  damgar^-ia  (21)  id-du-ku  u  kaspa-Su-nu  it-tab-lu
 (22)  (m)  Ajs-zu  a-na  pa-[ni-k]a  ki-i  (23)  al-ta-ap-ra-ak-ku  §i-ta-(al-
 §u-ma]  (24)  li-ik-ba-ak-[ku]  (25)  (mdtu)  Ki-na-ab-bi  mat-ka  u
@@ -17595,8 +16648,7 @@ killed  my  servants,  and  avenge  their  blood.  (30)  If  thou
 dost  not  slay  these  men,  (31)  they,  on  another  occasion,
 will  kill  my  caravans,  (32)  or  thy  messengers  and  then
 (33)  messengers  will  cease  to  pass  between  us.  (34)  And
-if  they  deny,  [be  it  known  to  thee]  (35,  36)  that  Shu-
-madda  cut  the  feet  off  one  of  my  people,  (37)  and  kept
+if  they  deny,  [be  it  known  to  thee]  (35,  36)  that  Shumadda  cut  the  feet  off  one  of  my  people,  (37)  and  kept
 him  prisoner,  and  (38,  39)  that  Shutatua  of  Acco  set
 another  on  his  head  (40)  and  he  stands  before  his  face
 [as  a  servant].1  (41)  Cause  these  men  to  be  brought
@@ -17612,16 +16664,13 @@ my  messenger.     (47)  Let  him  come  quickly.
 
 (30)  u  §um-ma  ameluti  an-nu-ti  ill  ta-ad-du-uk  (31)  i-tu-ur-ru-ma
 lu-u  girra  at-tu-u-a  (32)  u  lu  amelutu  mar§  si-ip-ri-ka  i-du-ku-ii-ma
-(33)  i-na  bi-ri-ni  mar  §i-ip-ri  ip-pa-ar-ra-as  (34)  u  §um-ma  i-na-ak-
-ki-ru-ka  (35)(m)amela  at-tu-u-a  (m)§u-um-ad-da(36)  §SpS-§u  ki-i
-u-na-ak-ki-su  (37)  i-tu-§u  ik-ta-la-Su  (38)  u  amela  §a-na-a(m)  Su-ta-
-at-na  Ak-ka-a-a-u  (39)  i-na  ri-Si  ki-i  ul-zi-zu-§u  (40)  a-na  pa-ni-Su
+(33)  i-na  bi-ri-ni  mar  §i-ip-ri  ip-pa-ar-ra-as  (34)  u  §um-ma  i-na-akki-ru-ka  (35)(m)amela  at-tu-u-a  (m)§u-um-ad-da(36)  §SpS-§u  ki-i
+u-na-ak-ki-su  (37)  i-tu-§u  ik-ta-la-Su  (38)  u  amela  §a-na-a(m)  Su-taat-na  Ak-ka-a-a-u  (39)  i-na  ri-Si  ki-i  ul-zi-zu-§u  (40)  a-na  pa-ni-Su
 iz-za-az  am&luti  §a-8u-nu  (41)  li-il-ku-ni-ik-ku-um-ma  a-mu-ur-ma
 (42)  u  ia-tu  §a-al-ma  lu  ti-i-di  (43)  a-na  su-ul-ma-ni  I  mana  abnu
 ukna  uS-te-bi-la-ak-ku  (44)  mar  si-ip-ri-ia  fca-mu-ut-ta  [ku-u§-5id-§u]
 
-(45)  [sa-alj-ma  sa  afci-ia  lu  i-d[i-ma]  (46)  mar  §i-ip-ri-ia  la  ta-ka-
-al[-la-§u]  (47)  ba-mu-ut-ta  li-it-ta-a[l-la-ak]
+(45)  [sa-alj-ma  sa  afci-ia  lu  i-d[i-ma]  (46)  mar  §i-ip-ri-ia  la  ta-kaal[-la-§u]  (47)  ba-mu-ut-ta  li-it-ta-a[l-la-ak]
 
 2.  LETTER  OF  TUSHRATTA  TO  AMENOPHIS  III !
 (1)  To  Nimmuria,  king  of  Egypt,  (2)  my  brother,  my
@@ -17632,8 +16681,7 @@ it   be   well    (7)  with    thy   house,    with   Tatukhepa,    my
 
 l  Published  by  Bezold  and  Budge,  The  TeU-el-Amarna  Tablets  in  the
 British  Museum  (1892),  No.  10.  Transliterated  and  translated  by
-Knudtzon,  Die  El-Amarna  Ta/cln,  No.  23,  and  by  Ungnad  in  Gress-
-mann,  Altorientalische  Textr  imd  BSUtr,  i,  pp.  130, 181.
+Knudtzon,  Die  El-Amarna  Ta/cln,  No.  23,  and  by  Ungnad  in  Gressmann,  Altorientalische  Textr  imd  BSUtr,  i,  pp.  130, 181.
 
 (l).i-nafm)   Ni-im-mu-ri-i:i  ft.ir  (mat)  Mi-is-ri-i  (2)  a|ji-ia  ba~ta-
 
@@ -17644,12 +16692,9 @@ Tu-uS-rat-ta  mx  Mi-i-t.i-.in-ni  (6)  i5a  i-ra-'a-a-mu-ka  e-mu-
 (6)  a-na  ia  Si  lot-ma  :i-na  ka-a-Su  lu-u  §ul-mu  (7)  a-na  btti-
 
 
-264  CUNEIFORM  PARALLELS
-
 daughter,  (8)  with  thy  wife,  whom  thou  lovest,  may
 it  be  well.  (9)  With  thy  wives,  thy  children,  thy
-nobles,  (10)  thy  chariots,  thy  horses,  (11)  thy  sol-
-diers, thy  land  and  (12)  with  everything,  that  is
+nobles,  (10)  thy  chariots,  thy  horses,  (11)  thy  soldiers, thy  land  and  (12)  with  everything,  that  is
 thine,  may  it  be  well  in  highest,  highest,  highest
 measure.
 
@@ -17682,8 +16727,7 @@ ta-ra-'a-a-mu  lu-u  §ul-mu  (9)  a-na  a£§ati-ka  a-na  mare-ka  a-na
 dan-ne§  dan-ne§  dan-ne§  lu-ti  §ul-mu  (13)  um-ma  IStar  §a  (alu)
 Ni-in-na-a  belit  matati  (14)  gab-bi-i-§i-na-ma  a-na  (mat)  Mi-is-ri-i
 (15)  i-na  mati  §a  a-ra-'a-a-mu  lu-ul-lik-ku-me  (16)  lu-uz-za-h,e-ir-me
-a-nu-um-ma  i-na-an-na  (17)  ul-te-e-bel-ma  it-tal-ka  (18)  a-nu-um-
-ma  i-na  tir-si  a-bi-ia-ma  (19)  .  .  .  bel-tum  i-na  mati  §a-a-Si  it-
+a-nu-um-ma  i-na-an-na  (17)  ul-te-e-bel-ma  it-tal-ka  (18)  a-nu-umma  i-na  tir-si  a-bi-ia-ma  (19)  .  .  .  bel-tum  i-na  mati  §a-a-Si  it-
 tal-ka  (20)  u  ki-i-me-e  i-na  pa-na-a-nu-um-{m]a  (21)  it-ta-§ab-ma
 uk-te-ib-bi-du-§[i]  (22)  [u]  i-na-an-na  ab,i-ia  a-na  x-§u  (23)  eli  sa
 pa-na-a-ti  li-gi-ib-bi-i&-si  (24)  afci-ia  li-gi-ib-bi-iz-zu  i-na  fca-di-e
@@ -17725,8 +16769,7 @@ Ungnad  in  Gressmann,  AUorientalische  Texte  und  Btider,  i,  p.  131.
 half-way  between  Tripolis  and  Beirut.
 
 »  Written  here,  as  often  ideographically,  sa-gaz.  There  can  be  no
-doubt  of  the  correctness  of  the  identification;  see  Winckler,  MittheUun-
-gen  der  Deutschen  Orient-Geseilschaft.  Heft  35  (1907),  p.  25  Anm.;  and
+doubt  of  the  correctness  of  the  identification;  see  Winckler,  MittheUungen  der  Deutschen  Orient-Geseilschaft.  Heft  35  (1907),  p.  25  Anm.;  and
 compare  note  by  Otto  Weber,  in  Knudtzon,  Die  El-Amarna  Tafeln,
 pp.  1146-1148.
 
@@ -17744,13 +16787,10 @@ am-kut  (9)  lu-u  i-di  sarin  beli-ia  (10)  i-nu-ma  sal-ma-at  (alu)  Gub-la
 sa-gaz  (14)  [mub]hj-ia  ft  la-a  a-kul-me  (15)  Sarru  beli-ia  is-tu
 (U\)  [al]u  Su-mu-ur-(ki)  (17)  [l]a-a  en-ni-pu-u§  ga[b-b]u  (IS)  a-na
 sAb^  sa-gaz  (19)  i-na  (amehO  rains  Sarri (ri)  (20)  sa  i-Su-ii  i-na  (alu)
-PU-nWMir  (21)  ba-al-ta-at  (alu)  Gub-la  (22)  a-nu-um-ma  (m)Pa-h,a-
-amf-n]a-ta  (23)  (ami'lu)  ral.is  sarri  sa  i[-u]a  (24)  (alu)  §u-mu-ur(ki)
+PU-nWMir  (21)  ba-al-ta-at  (alu)  Gub-la  (22)  a-nu-um-ma  (m)Pa-h,aamf-n]a-ta  (23)  (ami'lu)  ral.is  sarri  sa  i[-u]a  (24)  (alu)  §u-mu-ur(ki)
 i-fd]i-me  (25)  f)u-us-k;*im  \  ma-na-as  (28)  n  mubbi  (alu)  Gub-la
 (27)  iS-tu  (matu)  Ia-ri-im-mu-ta  (2S)  nu-l)al-li-it  (29)  dannat  danniS
 
-
-266  CUNEIFORM  PARALLELS
 
 the  enmity  (30)  against  us.  May  the  king  not  (31)  hold
 back  from  (32)  his  cities.
@@ -17790,25 +16830,21 @@ lands."     Let  it  not   so  (19)  be   said  in  (coming)  days:
 
 
 *  Published  by  Bezold  and  Budge,  The  T ell-el- Amarna  Tablets  in  the
-British  Museum  (1892),  No.  14;  translated  bv  Winckler,  Keilinschrift-
-liche  BiUiothek,  v,  No.  61;  by  Knudtzon,  Die  El- Amarna  Ta/eln,  No.  83;
+British  Museum  (1892),  No.  14;  translated  bv  Winckler,  Keilinschriftliche  BiUiothek,  v,  No.  61;  by  Knudtzon,  Die  El- Amarna  Ta/eln,  No.  83;
 and  by  Ungnad  in  Gressmann,  Altorientalische  Texte  und  Bilder,  pp.  131,
 132.
 
-1  These  are  the  representatives  of  the  Egyptian  king,  who  held  over-
-sight over  the  governors  of  provinces  and  districts.
+1  These  are  the  representatives  of  the  Egyptian  king,  who  held  oversight over  the  governors  of  provinces  and  districts.
 
 (1)  [R]i-ib-[Addi  ik]-bi  a[-na]  (2)  [bSli-SJu  Sar  matati  Sarri  rabi
 (3)  [(iltu)  b]61it  §a  (alu)  Gub-la  ti-di-en  (4)  d[unn]a  a-na  §arri(ri)
-beli-ia  (5)  a-na  sepG  beli-ia  (ilu)  §am§i-ia  (6)  vn-§u  vii-ta-an  am-
-ku-ut  (7)  a-na  mi-ni  la-a  tu-te-ru[-n]a  (8)  a-wa-tu  a-na  ia-a-§i  &
+beli-ia  (5)  a-na  sepG  beli-ia  (ilu)  §am§i-ia  (6)  vn-§u  vii-ta-an  amku-ut  (7)  a-na  mi-ni  la-a  tu-te-ru[-n]a  (8)  a-wa-tu  a-na  ia-a-§i  &
 (9)  i-di  ip-§a  §a  i-pu-[§u]  (10)  ameli-ia  ut-ta-§i-ir  a-na  ma-[ha]r
 (11)  beli-ia  u  la-ku  n  si§u-£u  (12)  u  amSlu  §a-nu  la-ki  am61u-§u
 (13)  [u]  tuppi(bi)  Sarri  la-a  na-di-en  (14)  [i]-na  ka-at  ameli-ia
 §i-m[i  i]a-§i  (15)  a-n[a]  mi  ka-la-ta  u  t[u-u]l-[k]u  (16)  mat[u]-ka
 ti-ul  ju-uk-ba  i-na  (17)  umd  (amelutu)  rabisi  la-ku  (am^lutu;
-rabisi  la-ku  (amelutu)  qaz  (18)  ka-li  matati  u-iil  ka-a-ma  (19)  ju-
-uk-bu  i-na  um^  (20)  u  la-a  ti-li-u  la-ka-§i  (21)  §a-ni-tu
+rabisi  la-ku  (amelutu)  qaz  (18)  ka-li  matati  u-iil  ka-a-ma  (19)  juuk-bu  i-na  um^  (20)  u  la-a  ti-li-u  la-ka-§i  (21)  §a-ni-tu
 afi-ta-par    a-na    amdluti     ma-ea-ar-ti    (22)    u     a-na    sise    u    la-a
 
 
@@ -17845,25 +16881,19 @@ previous  letter,  line  27.
 *  Name  of  a  city,  location  unknown.
 
 
-(23)  tu-da-nu-na  §u-te-ra  a-wa-tu  (24)  a-na  ia-si  u  i-pu-5a  a-na-
-ku  (25)  ki-ta  it-ti  (m)Abdi-a-Si-ir-ta  (26)  ki-ma  (m)Ia-pa-addi  u(m)
-Zi-im-ri-[d]a  (27)  u  bal-ta-ti  Sa-ni-tu  §um-ma  (28)  ap-pu-na-ma  a-nu-
-ma  pa-at-ra  (29)  (alu)  §[u]-mu-ra  u  (alu)  Bit-ar-[h]a  (30)  [tu]-din-ni
+(23)  tu-da-nu-na  §u-te-ra  a-wa-tu  (24)  a-na  ia-si  u  i-pu-5a  a-naku  (25)  ki-ta  it-ti  (m)Abdi-a-Si-ir-ta  (26)  ki-ma  (m)Ia-pa-addi  u(m)
+Zi-im-ri-[d]a  (27)  u  bal-ta-ti  Sa-ni-tu  §um-ma  (28)  ap-pu-na-ma  a-numa  pa-at-ra  (29)  (alu)  §[u]-mu-ra  u  (alu)  Bit-ar-[h]a  (30)  [tu]-din-ni
 i-na  ka-at  (31)  (m)Ia-an-ba-mi  u  ia-ti-na  (32)  se-im  (zun)  a-na
 a-ka-li  ia-si  (33)  a-na-sa-ra  al  Sarri  a-na  Sa-a-5u  (34)  u  ia-ak-bi  Sarru  u
 ju-wa-Si-ra  (35)  amdli-ia  amrlutu-su  ti-sa-su-na  mubbi-ia  (36)  ur-ra
 mu-Sa  at-ta-mi  na-ad-{n]a-ta  (37)  mara-nu  a-na  Sarri  u  u§-§i-ra-su
-Su-tu  (38)  II  am61  (alu)  I-nam-ta  al-la-mi  i-na  (39)  bit  (m)Ia-an-
-b[a]-mi  sa-ni-tu  ki-ba-mi  (40)  a-na  (m)Ia-5a-mi  al-lu-mi  (m) Rib-
+Su-tu  (38)  II  am61  (alu)  I-nam-ta  al-la-mi  i-na  (39)  bit  (m)Ia-anb[a]-mi  sa-ni-tu  ki-ba-mi  (40)  a-na  (m)Ia-5a-mi  al-lu-mi  (m) Rib-
 Addi  (41)  i-na  ka-ti-ka  u  rai-im-mu  (42)  sa  ni-ip-su  a-na  sa-su
 mubb»-k[a]  u-ul  ji-ma-ku-ta  sabe  ka-ra-[S]i  (44)  mubbi-ia  u  as-pu-ru
 a-na  Sa-fiu  (45)  Sum-ma  ki-a-ma  la-a  ti-ik-b[i]  (46)  u  i-ti-zi-ib  al[:i]  il
 (47)  pa-at-ra-ti  Sa-ni-tu  Sum-ma  la-a  (48)  tu-te-ru-na  a-wa-tu  a-na
-ia-Si  u  i-ti-zi-ib  ala  u  (50)  pa-at-ra-ti  ka-du  amMuti  (51)  5a  i-ra-
-a-mu-ni  u  (52)  li-ma-ad  al-h-mi  (.53)  (aineltu)  Um-ma-ab-nu  u(m)
+ia-Si  u  i-ti-zi-ib  ala  u  (50)  pa-at-ra-ti  ka-du  amMuti  (51)  5a  i-raa-mu-ni  u  (52)  li-ma-ad  al-h-mi  (.53)  (aineltu)  Um-ma-ab-nu  u(m)
 
-
-268  CUNEIFORM  PARALLELS
 
 makhnu,  and  Ishkuru  (54)  her  husband,  the  servant1  of
 Ba'alat  (55)  of  Byblus  (55,  56)  shall  pray  for  thee2  for
@@ -17902,10 +16932,8 @@ lord.     (22,  23)  Because  I  say:— "The  territory  of  the  king
 Amarna  Tafeln,  Leipzig,  1907,  No.  286,  and  by  Ungnad  in  Gressmann,
 Altorierdalische  Texte  und  Bilder  rum  Alien  Testament,  pp.  132,  133.
 
-(1)  [a]-na  (m)Sarri  beli-ia  ki-bi-ma  (2)  um-ma  (m)  Abdi-be-ba  ardu-
-ka-ma  (3)  a-na  II  Sepe  beli-ia  Sarri  (ri)  (4)  Vll-ta-a-an  u  VH-ta-a-an
-am-kut-mi  (5)  ma-an-na  ip-Sa-ti  a-na  Sarri  beli-ia  (6)  i-ka-lu  ka-ar-
-ei-ia  \  u-Sa-a-ru  (7)  i-na  pa-ni  Sarri  beli(ri)  (m)Abdi-be-ba  (8)  pa-
+(1)  [a]-na  (m)Sarri  beli-ia  ki-bi-ma  (2)  um-ma  (m)  Abdi-be-ba  arduka-ma  (3)  a-na  II  Sepe  beli-ia  Sarri  (ri)  (4)  Vll-ta-a-an  u  VH-ta-a-an
+am-kut-mi  (5)  ma-an-na  ip-Sa-ti  a-na  Sarri  beli-ia  (6)  i-ka-lu  ka-arei-ia  \  u-Sa-a-ru  (7)  i-na  pa-ni  Sarri  beli(ri)  (m)Abdi-be-ba  (8)  pa-
 ta-ar-mi  a-na  Sarri  (ri)  b£h-8u  (9)  a-mur  a-na-ku  la-a  (amelu)  a-bi-ia
 (10)  u  la-a  (ameltu)  u-mi-ia  X  §a-ak-na-ni  (11)  i-na  as-ri  an-ni-e
 (12)  zu-ru-ujj  Sarri  (ri)  dan-nu  (13)  u-Se-ri-ba-an-ni  a-na  bit
@@ -17913,8 +16941,7 @@ ta-ar-mi  a-na  Sarri  (ri)  b£h-8u  (9)  a-mur  a-na-ku  la-a  (amelu)  a-bi-i
 Sarri  beli(ri)  (16)  a-di  Sarru  beli-ia  ibalut  (17)  a-ka-bi  a-na  (amelu)
 rabis  Sarri  bel[i-ia]  (18)  am-mi-nim-mi  ta-ra-ia-m[u]  (19)  (amelu)
 9a-bi-ri  u  (amelutu)  ba-zi[-a-nu-ti]  (20)  ta-za-ia-ru  u  ki-na-an-na
-(21)  u-Sa-wa-ru  i-na  pa-ni  Sarri  beli-ia  (22)  e-nu-ma  it-ka-bi  bal-ka-
-at-mi    (23)  matat    Sarri    beli-ia   ki-na-an-na    (24)  u-Sa-wa-ru    a-na
+(21)  u-Sa-wa-ru  i-na  pa-ni  Sarri  beli-ia  (22)  e-nu-ma  it-ka-bi  bal-kaat-mi    (23)  matat    Sarri    beli-ia   ki-na-an-na    (24)  u-Sa-wa-ru    a-na
 
 
 LETTERS  OF  ABDI-KHIBA  269
@@ -17950,8 +16977,7 @@ longer  any  territory.     (56)  The  Khabiri  have  devastated
 Sarri  beli-ia  (25)  u  li-te-mi  (m)Sarru  beli-ia  (26)  e-nu-ma  Sa-ka-an
 Sarru  beli-ia  (27)  [amjeluta  ma-sar-ta  la-ki-mi  (28)  [gab]  b[a]-S[a]
 (m)E-en-ba-mu  (29)  .  .  .  eS  '(30)  .  .  .  (31)  (matu)M[i-]is-ri
-k[i]  (32)  .  .  .  S[ar]ri[n]  beli(ri)  (33)  [ia-a-n]u-mi  ameluta  ma-sar-
-t[a]  (34)  [u  l]i-[i]s-ki-en  Sarru  a-na  mati-Su  (35)  [li-i]s-k[m]  S[ar]"  ru
+k[i]  (32)  .  .  .  S[ar]ri[n]  beli(ri)  (33)  [ia-a-n]u-mi  ameluta  ma-sart[a]  (34)  [u  l]i-[i]s-ki-en  Sarru  a-na  mati-Su  (35)  [li-i]s-k[m]  S[ar]"  ru
 a-na  mati-Su  pa-ta-ra-at  (36)  [matajt  Sarri  beli  gab-Sa  (m)Ili-mil-ku
 (37)  i-bal-li-ik  gab-bi  mat  Sarri (ri)  (38)  u  li-is-kfn  sarru  belu  a-na
 mati-Su  (39)  a-na-ku  a-ka-bi  e-ru-ub-mi  (40)  it-ti  Sarri  (ri)  beli-ia  u
@@ -17974,8 +17000,6 @@ lu-si-rni    (arn.'lutu)    sabu   pi-da-ti    (55)  Sarri    beli-ia
 
 ia-a-nu-mi  matati  a-na  Sarri  (.">»;)  (runrlOtu)  ^a-bi-ru  (ja-bat  gab-bi
 
-
-270  CUNEIFORM  PARALLELS
 
 all  the  king's  territory.  (57)  If  there  be  troops  (5S)  in  this
 year,  the  lands  will  remain  (59)  the  king's,  my  lord's,  but
@@ -18001,15 +17025,13 @@ At  the  feet  of  my  lord,  seven  and  seven  times  have  I  fallen
 (5)  has  sent    ...    (6)  [Behold]  the  deed,  which    .     .
 has  done    ...    (7)   what  shall   I    .    .    .    (8)    .    .
 news     .     .     .     (9, 10  broken  off)  (11)  brought  to  the  city
-Kelti.     Let  the  king  know  (12)  that  all  lands  have  de-
-clared enmity  against  me;    (13)  let  the  king  therefore
+Kelti.     Let  the  king  know  (12)  that  all  lands  have  declared enmity  against  me;    (13)  let  the  king  therefore
 care  for  his  land.
 
 (14)  Behold  the  territory  of  Gazri,  that  of  Ashkelon,
 (15)  and  the  city  of  La[chish]  have  given  them  (16)  food,
 oil  and  all  necessaries.  (17)  Let  the  king  therefore  look
-after  the  troops,  and  (18)  send  troops  against  the  peo-
-ple,  (19)  who  have  sinned  against  the  king,  my  lord.
+after  the  troops,  and  (18)  send  troops  against  the  people,  (19)  who  have  sinned  against  the  king,  my  lord.
 
 1  Published  by  Abel  and  Winckler,  Der  Thontafelfund  von  El-Amarna,
 No.  103.  Translated  by  Winckler,  Keilinschriftliche  Bibliothek,  v,  No.
@@ -18017,8 +17039,7 @@ No.  103.  Translated  by  Winckler,  Keilinschriftliche  Bibliothek,  v,  No.
 not  included  in  Ungnad-Gressmann,  AUoricntalische  Texte  und  Bilder.
 
 (1)  [a-na  sarri]  (ri)  beli-ia  [ki-bi-ma]  (2)  [um-ma  (m)Ab]di-he-ba
-ardu-k[a-ma  a-na]  (3)  [§e.pe]  beli-ia  VII-t[a-an  u  Vll-ta-a-an  am-kut-
-mi]  (4)  [as-mi  g]ab  a-wa-tu  [sa  sarra(ru)  beli-ia]  (5)  [u-§e-]ru-bu-ni
+ardu-k[a-ma  a-na]  (3)  [§e.pe]  beli-ia  VII-t[a-an  u  Vll-ta-a-an  am-kutmi]  (4)  [as-mi  g]ab  a-wa-tu  [sa  sarra(ru)  beli-ia]  (5)  [u-§e-]ru-bu-ni
 a-na  [.  .  .  ]  (6)  [a-mur]  ip-sa  \  sa  e[-pu-§u  .  .  .]  (7)  eru  Kak
 ti-tag-ga  \  .  .  .  (8)  a-wa[-tu  ...  (9  and  10)  .  .  .  (11)
 a-na[a]l[u  Ki-el-ti]  ki  u-se-ru-bu  li-te  [sarrji(ri)  (12)  gab-bi  matati
@@ -18043,16 +17064,14 @@ no  (24)  lands  and  no  princes  to  the  king,  my  lord.
 father  nor  my  mother  (27)  gave  it  to  me;  the  strong  arm
 of  the  king  (28)  gave  it  to  me.  (29)  Behold  this  deed  is
 the  deed  of  Milki-il  (30)  and  that  of  Lapaja's  sons,
-(31)  who  are  delivering  the  land  to  the  Khabiri.  (32)  Be-
-hold, O  king,  my  lord,  I  am  innocent  (33,  34)  as  concerns
+(31)  who  are  delivering  the  land  to  the  Khabiri.  (32)  Behold, O  king,  my  lord,  I  am  innocent  (33,  34)  as  concerns
 the  Kashi.  Let  the  king  ask  the  officers,  if  they  have
 done  violence,  (35)  and  laden  themselves  with  great
 guilt.  (36)  They  have  taken  their  implements,  and
 .  .  .  (37)  .  .  .  (38)  .  .  .  sent  to  the  land  .  .  .
 (39)  .  .  .  march  up  (?)  to  .  .  .  (40)  .  .  .  servant,
 let  the  king  take  heed,  (41)  to  them,  that  they  support
-(42)  the  lands  with  their  hand.  (43)  Let  the  king  de-
-mand for  them  much  food,  and  much  oil  and  many
+(42)  the  lands  with  their  hand.  (43)  Let  the  king  demand for  them  much  food,  and  much  oil  and  many
 garments.  (45)  Until  Pauru,  the  king's  officer,  goes  up
 (46,  47)  to  Jerusalem.  Adaja  is  in  revolt  (withdrawn),
 together  with  the  garrison,  the  officer  (48)  ...  of  the
@@ -18072,13 +17091,10 @@ sarri(ri)  (amelutu)  ba-bi-ri  (32)  a-mur  §arru  belli-ia  sa-du-uk  a-na
 ia-a-si  (33)  as-§um  ameluti  ka-§i-wi  li-i§-al-mi  (34)  Sarri(ri)  (ameiu)
 rabisiiti  e-nu-ma  dannu  bltu  danniS  (35)  u  u-ba-ab-u  ar-na  kab-ta
 raba'  (36)  [la]-ka-bu  u-nu-tu-§u-nu  u  bat-l[u-u]  (37)  [e]-til  u-ri-e  \
-pa-ag-pi-m[i]  (38)  u  l[u-u-ma-§e-ru  i-na  (matu)  .  .  .  (39) — ti-ta-
-lu  it-tji  .  .  .  ]  (40) — arduti  li-is-kfn-m[i  sarri(ri)]  (41)  a-na  §a-§u-
-'a-za-ka  .  .  .  (42)  matati  i-na  ka-ti-su-n[u-u]  (43)  li-i§-al-
-ri(ri)  a-na  Sa-§u-n[u]  (44)  ma-ad  akalg  ma-ad  samnd  ma-ad
+pa-ag-pi-m[i]  (38)  u  l[u-u-ma-§e-ru  i-na  (matu)  .  .  .  (39) — ti-talu  it-tji  .  .  .  ]  (40) — arduti  li-is-kfn-m[i  sarri(ri)]  (41)  a-na  §a-§u-
+'a-za-ka  .  .  .  (42)  matati  i-na  ka-ti-su-n[u-u]  (43)  li-i§-alri(ri)  a-na  Sa-§u-n[u]  (44)  ma-ad  akalg  ma-ad  samnd  ma-ad
 lubSatfi]  (45)  a-di  e-til-li  (m)Pa-xi-ru  (amelu)  rabis  Sarri(ri)  (46)  a-na
-mat  (alu)  U-ru-sa-lim(ki)  pa-ta-ar  (47)  (m)  Ad-da-ia  a-di  ameluti  ma-
-f-nr-ti  aim  lu  u-e-e  (48)  [Sa  i]-din  fiarri(ri)  li-te-mi  sarri(ri)  (49)  fik-]bi
+mat  (alu)  U-ru-sa-lim(ki)  pa-ta-ar  (47)  (m)  Ad-da-ia  a-di  ameluti  maf-nr-ti  aim  lu  u-e-e  (48)  [Sa  i]-din  fiarri(ri)  li-te-mi  sarri(ri)  (49)  fik-]bi
 a-na  ia-a-si  (m)A-da-ia  (50)  [a-mu]r  pa-at-ra-an-ni  la  ti-zi-ib-fli
 
 
@@ -18087,8 +17103,6 @@ a-na  ia-a-si  (m)A-da-ia  (50)  [a-mu]r  pa-at-ra-an-ni  la  ti-zi-ib-fli
 
 \
 
-
-272  CUNEIFORM  PARALLELS
 
 (51)  Send  me  a  garrison  during  this  year,  (52)  send  the
 officer  of  the  king,  .  .  .  (53)  ...  I  sent  to  the  king,
@@ -18117,27 +17131,23 @@ people  of  Kash  (75,  76)  in  my  house.     Let  the  king  ask
 times    .    .    .    (78)  the  king,  my  lord,  to  me.
 
 (51)  [§atta]  an-ni-ta  mu-§e-ra-an-ni  amela  ma-sar-ta  (52)  u
-([amelu])  rabisa  §arri(ri)  mu-§e-ra  \  an-ni-ka-nu  (53)  [-Z]un  mu-
-se-ir-ti  a-na  §arri(ri)  be[li-ia]  (54)  [(ame]lQtu)  a-si-ru  V  li-im    .     .    .
+([amelu])  rabisa  §arri(ri)  mu-§e-ra  \  an-ni-ka-nu  (53)  [-Z]un  muse-ir-ti  a-na  §arri(ri)  be[li-ia]  (54)  [(ame]lQtu)  a-si-ru  V  li-im    .     .    .
 
 (55)  [III  me]  [.    .    .]  VIII  (amelQtu)   u-bi-li  mi  barmnat  garr[i(ri)]
 
-(56)  ia-ki[-b]u  i-n[a]  u[g]a-ri  \  §a-te-e  [a-na]  (57)  alu  Ia-lu-na(ki)  li-te-
-mi  §arri(n)  b£li-ia  (58)  la-a  a-la-ab-e  \  mu-£e-ra  barrani  (59)  a_na
+(56)  ia-ki[-b]u  i-n[a]  u[g]a-ri  \  §a-te-e  [a-na]  (57)  alu  Ia-lu-na(ki)  li-temi  §arri(n)  b£li-ia  (58)  la-a  a-la-ab-e  \  mu-£e-ra  barrani  (59)  a_na
 sarri(ri)  beli-ia  a§-§um  la-ma-te-ka  (60)  a-raur  Sarri(ri)  §a-ka-an
 §um-§u  (61)  i-na  (mat)  tT-ru-sa-lim(ki)  a-na  da-ri-i§  (62)  u  la-a
 i-li-ib-e  e-za-bi-§a  (63)  miitat  (alu)  U-ru-sa-lim(ki)
 
-(64)  a-na  tup-5ar  Sarri(ri)  beli-ia  (65)  ki-bi-ma  um-ma(m)  Abdi-
-lje-ba  ardu-ka-ma  (66)  a-na  2  Sdpe  am-kut-mi  ardu-ka  a-nu-ki
+(64)  a-na  tup-5ar  Sarri(ri)  beli-ia  (65)  ki-bi-ma  um-ma(m)  Abdilje-ba  ardu-ka-ma  (66)  a-na  2  Sdpe  am-kut-mi  ardu-ka  a-nu-ki
 (67)  §e-ri-ib  a-wa-tu  me§  ba-na-ta  (68)  a-na  §arri(ri)  beli-ia
 (69)  (am^lu)  u-e-eb  §[a]rri(ri)  a-nu-ki  (70)  ma-at-ti  a-na  ka-wa
 
 (71)  u-ti-ip-pa-§a  ip-§a  la-am-na  (72)  a-na  mub-bHbO  am6lQt
 (matu)  Ka-si  (73)  [u]-ba-na  la-a  Gaz  \  t«-[k]a-t[i]  (74)  i-na  kat
 ameluti  (m4tu)  Ka-§i[-wi]  (75)  [i-n]a  libbi(bi)  blti-ia  \  li[-i§-al]
-(76) — §arru(ru)  a-na  §a-§[u-nu]  (77)  [7-ta-a-an  u  7-ta-a-an  [sa-du-
-uk]  (78)  [§arri(r]i)  beli-ia  a-na  ia[-ei]
+(76) — §arru(ru)  a-na  §a-§[u-nu]  (77)  [7-ta-a-an  u  7-ta-a-an  [sa-duuk]  (78)  [§arri(r]i)  beli-ia  a-na  ia[-ei]
 
 Cl
 
@@ -18173,8 +17183,7 @@ my  lord.  (23)  Let  the  king  care  for  his  land.  (24,  25)  The
 whole  land  of  the  king,  which  has  begun  enmity  with  me,
 will  be  lost.
 
-(26)  Behold,  the  territory  of  Sheri  as  far  as  Ginti-
-kirmil,  (27)  it  is  well  (?)  with  all  the  princes,2  (28)  but  hos-
+(26)  Behold,  the  territory  of  Sheri  as  far  as  Gintikirmil,  (27)  it  is  well  (?)  with  all  the  princes,2  (28)  but  hos-
 tility prevails  against  me.       (29)  If  one  could  see.3  (30,
 
 1  Uea,  an  Egyptian  w
@@ -18185,19 +17194,16 @@ Lander  all<>n  Regenten).
 »  The  meenfng  of  2\)  la  very  doubtful.    Knudtzon  translates  Ich  habe
 zu  einer  Zeit  einen     .     .     .     hcrbeigeschafft.
 
-ma  (m)Abdi-bi-ba  ardu-ka-ma  (3)  a-na  II  Scpe  §arri  beli-ia  VH-ta-a-
-an  (4)  i-an  am-kut-mi  (5)  a-mur  sarri(ri)  beli-ia  §a-ka-an
+ma  (m)Abdi-bi-ba  ardu-ka-ma  (3)  a-na  II  Scpe  §arri  beli-ia  VH-ta-aan  (4)  i-an  am-kut-mi  (5)  a-mur  sarri(ri)  beli-ia  §a-ka-an
 
 (6)  §um-§u  a-na  mu-si  (ilu)  &am§i(si)  (7)  u  ir-bi  (ilu)  £am§i(§i)  &&-
 an-pa  (8)  sa  ijj-nu-pu  a-na  mu-fci-ia  (9)  a-mur  a-na-ku  la-a
-(amelu)  Ha-zi-a-nu  (10)  (amelu)  u-e-u  a-na  sarri(ri)  beli-ia  (11)  a-
-mur  a-na-ku  (amelu)  ru-Jji  sarri(ri)  (12)  u  u-bi-il  bilat  §arri(ri)  a-na-
+(amelu)  Ha-zi-a-nu  (10)  (amelu)  u-e-u  a-na  sarri(ri)  beli-ia  (11)  amur  a-na-ku  (amelu)  ru-Jji  sarri(ri)  (12)  u  u-bi-il  bilat  §arri(ri)  a-na-
 ku  (13)  ia-a-nu-mi  (amelu)  abu  a-ni  ia-a-nu-mi  (14)  ([am]^ltu)
 um-mi-ia  zu-m-ub  §arri(ri)   dannu   (15)  [s]a-ak-n[a-an-ni]   i-na  btt
 
 t[b]i  [a-ni]  (16)].     .     .     (17)  [k]a-§a-ad  a-na  mu-bi-ia  [k]a-a
-.     .     .     ilM  n:i-ad-na-ti  X  (•m61u)  arduti  fa-na  k]a[-ti  (l'.»)  (mj  Su-
-ra bis  sarri(ri)  ka-s[a-ad]  (20)  :i-n:t  mu-ni-ia XXj  (anieltu
+.     .     .     ilM  n:i-ad-na-ti  X  (•m61u)  arduti  fa-na  k]a[-ti  (l'.»)  (mj  Sura bis  sarri(ri)  ka-s[a-ad]  (20)  :i-n:t  mu-ni-ia XXj  (anieltu
 
 
 \.\  (amelfnii)  i  ad-na-li"  (22)  fa-]na  ka-ti
@@ -18209,8 +17215,6 @@ Se-e-rifki)  a-di  (alu)  Cfn-ti-ki-ir-mi-il  (27)  Sal-
 :ni-ti    u    nu-kur-tu    a-na
 -ri  (30)  u  la-a  a-niar  2  (!)  ina  Sam
 
-
-274  CUNEIFORM  PARALLELS
 
 31)  But  I  do  not  see  the  eyes  of  the  king,  my  lord,
 because  hostility  (32)  is  established  against  me.  (33)
@@ -18249,8 +17253,7 @@ a  That  is,  northern  Mesopotamia.
 Ungnad  translates  [warum  (?)]  erkundigt  sich  der  Konig  nicht
 [ihretwegen]?
 
-(31)  beli-ia  ki-i  nu-kur-tii  (32)  a-na  muhjh/i(hi)-ia  Sa-ak-na-ti  (33)  e-
-nu-ma  (isu)elippa  i-na  libbi(bi)  taint i  (34)  kat  zu-ru-uh,  §arri
+(31)  beli-ia  ki-i  nu-kur-tii  (32)  a-na  muhjh/i(hi)-ia  Sa-ak-na-ti  (33)  enu-ma  (isu)elippa  i-na  libbi(bi)  taint i  (34)  kat  zu-ru-uh,  §arri
 dannatu  (35)  ti-li-ik-ki  (m&tu)  Na-ah,-ri-ma(ki)  (36)  u  (matu)
 Ka-pa(l)-si(ki)  u  i-na-an-na  (37)  alani  Sarri(ri)  (38)  ti-li-ki-u
 (amclutu)  #a-bi-ru  (39)  ia-a-nu-mi  I  en  (amelu)  [h]a-zi-a-nu
@@ -18274,15 +17277,13 @@ LETTERS  OF  ABDI-KHIBA  275
 officer  to  take  me  (60)  to  thee1  with  my  brothers,  and  we
 will  die  (61)  with  the  king,  my  lord,  (62)  To  the  scribe
 of  the  king,  my  lord.  (63)  [thus]  Abdi-khiba  [thy]  servant.
-At  your  feet  (64)  I  fall.  Bring  these  words  (65)  clearly  be-
-fore the  king,  my  lord:  (66)  I  am  thy  servant  [and]  thy  son.
+At  your  feet  (64)  I  fall.  Bring  these  words  (65)  clearly  before the  king,  my  lord:  (66)  I  am  thy  servant  [and]  thy  son.
 
 1  The  text  reads  me,  but  it  should  surely  be  corrected  to  thee.
 
 (59)  §arru(ru)  (amelu)  rabisa  u  li-il-ki-a-ni  (60)  a-na  ia-a-§i  a-di
 afceu  Ba-Bad  (61)  ni-mu-tum  (1)  it-ti  §arru(ru)  beli-nu  (!)  (62)  [a-na
-(a]melu)tup-§ar  sarri(ri)  beli-ia  (!)  (63)  um-ma  (m)Abdi-bi-ba  ardu-
-ma  a-na  II  Sepje]  (64)  [am-k]ut-mi  §e-ri-ib  a-wa-tii  (65)  [.  .  .  b]a-
+(a]melu)tup-§ar  sarri(ri)  beli-ia  (!)  (63)  um-ma  (m)Abdi-bi-ba  arduma  a-na  II  Sepje]  (64)  [am-k]ut-mi  §e-ri-ib  a-wa-tii  (65)  [.  .  .  b]a-
 na-ti  a-na  §arri(r[i])  (66)  [dannii  (amelu)  ardu-[ka  u  amelu]  maru-ka
 a-na-ku
 
@@ -18331,8 +17332,6 @@ e-nu-ma  (17)  (alu)  ^a-za-ti(ki)  a-na  sarri(ri)  sa-ak-na-at  (IS)  a-mur
 G[f]n-i;  raa-ear-tu  i-na  Blt-sa-a-ni  i-ba-a§-§i  (21)  u  lu  ni-
 
 
-276  CUNEIFORM  PARALLELS
-
 after  (22)  Labaja  (23)  and  the  land  of  Shakmi  have  given
 everything  (24)  to  the  Khabiri.  (25)  Milikim  has  written
 to  Tagi  (26)  and  his  sons :  As  two  are  our  .  .  .  (27)  give
@@ -18348,20 +17347,16 @@ he  has  sent  (35)  to  Egypt.  Let  the  king  take  heed
 his  .  .  .  (39)  He  has  departed  from  me  (40)  (and)  is  in
 Khazati.  (41)  Let  the  king  keep  this  before  him,  (42)  and
 let  the  king  send  50  garrison-men  (43)  to  guard  his  land.
-(44)  The  whole  land  of  the  king  is  lost.  (45)  Send  Yi'en-
-khamu,  and  (46)  let  him  take  heed  for  the  king's  country.
+(44)  The  whole  land  of  the  king  is  lost.  (45)  Send  Yi'enkhamu,  and  (46)  let  him  take  heed  for  the  king's  country.
 
 (47)  To  the  scribe  of  the  king,  my  lord,  thus  speaks
 Abdi-khiba,  thy  servant.  Bring  these  words  clearly
 before  the  king.    I  am,  in  highest  degree,  thy  servant.
 
 pu-uS-mi  e-nu-raa  (22)  (m)La-ab-a-ja  (23)  u  (matu)  &a-ak-mi
-l-din-nu  (24)  a-na  (amSlutu)tfa-bi-ri(ki)  (25)  (m)Mil-ki-lim  [§]a-
-par  :i-na  Ta-g[i]  (26)  u  mare  lu-ii  II  mi-la-tu-nu  (27)  id(!)-nu-mi
-gab-bi  e-ri-i§-ti-§u-nu  (28)  a-na  amelut  Ki-il-ti(ki)  (29)  u  lu-u  ni-ip-
-tu-ur  (alu)  tf-ru-sa-lim(ki)  (30)  ameluta  ma-ear-tu  §a  tu-ma-
-§e-ir  (31)  i-na  kat  (m)^a-ia  mar  Mi-ia-ri-e  (32j  [l]a-ki-mi  (m)Ad-
-da-ja  §a-ka-an  (33)  i-na  biti-§u  i-na  (alu)JJa-za-ti(ki)  (34)  [ii  x]i
+l-din-nu  (24)  a-na  (amSlutu)tfa-bi-ri(ki)  (25)  (m)Mil-ki-lim  [§]apar  :i-na  Ta-g[i]  (26)  u  mare  lu-ii  II  mi-la-tu-nu  (27)  id(!)-nu-mi
+gab-bi  e-ri-i§-ti-§u-nu  (28)  a-na  amelut  Ki-il-ti(ki)  (29)  u  lu-u  ni-iptu-ur  (alu)  tf-ru-sa-lim(ki)  (30)  ameluta  ma-ear-tu  §a  tu-ma-
+§e-ir  (31)  i-na  kat  (m)^a-ia  mar  Mi-ia-ri-e  (32j  [l]a-ki-mi  (m)Adda-ja  §a-ka-an  (33)  i-na  biti-§u  i-na  (alu)JJa-za-ti(ki)  (34)  [ii  x]i
 [ajradluti  a-na  (matu)  Mi-is-ri(ki)  (35)  u-ma-§e-[i]r  [lju-u  [!]-te-mi
 §arri(ri)  (36)  ia-a-nu-mi  arnrlutu  ma-sar-tum  sarri(ri)  it-ti-ia
 
@@ -18407,16 +17402,12 @@ deed  (26)  of  Shuardata  and  Milki-il,  (27,  28)  [broken  off]
 ba  ardu-ka-ma  a-nallsepe  (4)  [§arri](ri)  be[l]i-ia  VH-ta-a-an  u  VII-
 ta-a-an  am-kut  (5)  [a-m]ur  i[p-§]a  \  sa  e-pu-su-ni  (6)  (m)Mil-ki-lu  Cl
 (m)§u-ar-da-tum  (7)  a-na  mat  §arri(ri)  beli-ia  (8)  mu-bi-ru  sabe
-(alu)  ga-az-ri(ki)  (9)  sabe  (alu)  Gi-im-ti(ki)  (10)  u  sabe  (alu)  Ki-il-
-ti(ki)  (11)  sa-ab-tum  mat  (alu)  Ru-bu-te(ki)  (12)  pa-ta-ra-at  mat
-Sarri(ri)  (13)  a-na  (amelutu)  $a-bi-ri  (14)  il  i-na-an-na  ap-pu-na-
-ma  (15)  al  mat  U-ru-sa-lim(ki)  §u-mu-sa(!)  (16)  (alu)  Bit-(ilu)
-Nin-ib  (17)  al  sarri(ri)  pa-ta-ra-at  (18)  [a]-§ar  am^lut  (alu)  Ki-il-
-ti(ki)  (19)  li-i§-me  sarri(ri)  a-na(m)  Abdi-fci-ba  ardi-ka  (20)  u  lu-
+(alu)  ga-az-ri(ki)  (9)  sabe  (alu)  Gi-im-ti(ki)  (10)  u  sabe  (alu)  Ki-ilti(ki)  (11)  sa-ab-tum  mat  (alu)  Ru-bu-te(ki)  (12)  pa-ta-ra-at  mat
+Sarri(ri)  (13)  a-na  (amelutu)  $a-bi-ri  (14)  il  i-na-an-na  ap-pu-nama  (15)  al  mat  U-ru-sa-lim(ki)  §u-mu-sa(!)  (16)  (alu)  Bit-(ilu)
+Nin-ib  (17)  al  sarri(ri)  pa-ta-ra-at  (18)  [a]-§ar  am^lut  (alu)  Ki-ilti(ki)  (19)  li-i§-me  sarri(ri)  a-na(m)  Abdi-fci-ba  ardi-ka  (20)  u  lu-
 ma-§ar  sabe  pi-da-ti  (21)  u  lu-ti-ra  mat  §arri(ri)  a-na  sarri(ri)
 (22)  u  §um-ma  ia-a-nu  sab^  pi-da-tum  (23)  pa-ta-ra-at  mat  sarri(ri)
-a-na  amelutu  (24)  \  #a-bi-n  (25)  ip-§u  md[t]i  an-ni-u  (26)  [l\u  [n]a-
-ka  mar  (m)Mil-ki[-li]  (27)  [it  [)u-na[-k]a  ma[r  (m)§u-ar-d]a-[t]i
+a-na  amelutu  (24)  \  #a-bi-n  (25)  ip-§u  md[t]i  an-ni-u  (26)  [l\u  [n]aka  mar  (m)Mil-ki[-li]  (27)  [it  [)u-na[-k]a  ma[r  (m)§u-ar-d]a-[t]i
 .  .  .  (28)  al [u  .  .  .]  (29)  u  li-is-k-i[n]  (30)  sar[r]i(ri)  a-na
 mati[-su]
 
@@ -18437,12 +17428,9 @@ Amar  No.  286.
 .i-:m  aia-kut-mi](5)  a-mur  a-na-ku  la-a  (amclu)  [ba-zi-:i-nu]
 
 
-278  CUNEIFORM  PARALLELS
-
 I  am  not  a  [prince]  (6)  but  an  officer  am  I  to  the  king,
 my  lord.  (7,  8)  Why  has  the  king  .  .  .  not  sent  his
-messenger  ...  (9)  Under  such  circumstances  Een-
-khamu,  (10)  has  sent  (11)  .  .  .  (12)  ...  I  (13)  .  .  .
+messenger  ...  (9)  Under  such  circumstances  Eenkhamu,  (10)  has  sent  (11)  .  .  .  (12)  ...  I  (13)  .  .  .
 let  the  king  hearken  (14)  to  Abdi-khiba,  his  servant.
 (15)  Behold  there  are  no  (16)  troops  .  .  .  (17)  .  .  .
 let  the  king,  my  lord,  send  (IS)  an  officer  to  take  (19)  the
@@ -18456,8 +17444,7 @@ When     .     .     .     (30)  I  die     .     .     .
 (6)  a[rae]lu  \i-i-u  a-na-ku  a-n[a  Sarri(ri)  b&li-ia  (7)  am-mi-nim  mar
 (amolu)  §ipri  k[i-ma  ar-hi-e]i  (8)  la-a  \i-ma-§e-ra  §[a]rr[u(ru)  beli-ia]
 (9)  [&]i-na-a[n-n]a  u-ma-§[e-ra]  (10)  [(m)  E-en-h,a-]mu  e-m[u  .  .  .]
-(11)  [.  .  .  t]i-siu[.  .  .  t]ar-§u  (12)  [.  .  .  a]n-a  a-na-ku  (13)  [li-
-i$-mi\  §arru(ru)  (14)  [a-na(m)  Abd]i-hj-ba  ardi-Su  (15)  [a-nu-mn]
+(11)  [.  .  .  t]i-siu[.  .  .  t]ar-§u  (12)  [.  .  .  a]n-a  a-na-ku  (13)  [lii$-mi\  §arru(ru)  (14)  [a-na(m)  Abd]i-hj-ba  ardi-Su  (15)  [a-nu-mn]
 i]a-a-nu-mi  (16)  [§Ab&]  pi-da-tu  (17)  [lu-ma-§e  r]a  §arru(ru)  brli-ia
 (18)  [(amelu)  rabis]a  u  li-il-ki  (19)  [(amelutu)  h,a-zi]-a-nu-ti  it-ti-§u
 (20)  [.  .  .  m]dt&ti  Sarru(ru)  (21)  .  .  .  ru-ma  (22)  .  .  .  ni  (1
@@ -18470,14 +17457,12 @@ ameluti  .  .  .  (23)  .  .  .  §a  i-ba-Su-u  ...  (24  [u(m)  Ad-da-jja
 This  letter  was  found  in  the  mound  of  Tell-el-ll(  isy
 (ancient  LachLsh)  May  14,  1892,  by  F.  I.  Bliss,  and
 awakened  great  interest  because  it  obviously  belongs  to
-the  same  series  as  the  Tell-el-Amarna  letters  and  pos-
-sesses the  additional  interest  of  having  been  actually
+the  same  series  as  the  Tell-el-Amarna  letters  and  possesses the  additional  interest  of  having  been  actually
 discovered  in  the  soil  of  Palestine.
 
 (1)  [To  the]  great,2   (2)  thus  speaks  Pabi,3  (3)  at  thy
 
-1  Published  by  Hilprecht ,  Expedition  of  the  University  of  Pennsyl-
-vania, vol.  i;  Old  Babylonian  Inscriptions,  part  2,  Plate  64,  No.  147.
+1  Published  by  Hilprecht ,  Expedition  of  the  University  of  Pennsylvania, vol.  i;  Old  Babylonian  Inscriptions,  part  2,  Plate  64,  No.  147.
 Translated  by  Winckler,  Keilinschriftliche  Bibliothek,  v,  No.  219,  and  by
 Ungnad  in  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  pp.  127,
 128,  and  by  Knudtzon,  Die  El-Amama  Ta/eln,  No.  333.  See  also  Sayce,
@@ -18505,8 +17490,7 @@ this  plan  (22)  is  Pabu.  Send  him  (23)  before  me."  Now
 (24)  have  I  sent  (?)  thee  (?)  Rapi-el.  (25)  He  will  bring  to
 the  Great  (man)  (26)  intelligence  concerning  the  matter  (?).
 
-1  Letters  from  a  certain  Shipti-Ba'al  exist  in  the  Tell-el-Amarna  col-
-lection; see  Knudtzon,  Die  El-Amarna  Tafeln,  Nos.  330-332.  There  is
+1  Letters  from  a  certain  Shipti-Ba'al  exist  in  the  Tell-el-Amarna  collection; see  Knudtzon,  Die  El-Amarna  Tafeln,  Nos.  330-332.  There  is
 no  reason  to  doubt  that  this  is  the  same  person.  He  is  there  called
 "Shipti-Ba'al  of  Lakish."
 
@@ -18519,8 +17503,7 @@ tu-na  (!)  (m)  §ipti-ba-lu  (6)  il(m)  Zi-im-ri-da  (7)  pu-uh,  (!)-ri-i§ 
 (alu)  Ia-ra-mi  (11)  [s]a-par-mi  a-na  ia-a-§i  (12)  [i]d-na-ni  (!)-mi  (!)
 
 (13)  [VI]  kastau  III  Gu-Um  (14)  u  III  nam-[s]a-ru-ta  (15)  §um-ma-mi
-a-na-ku  (16)  us-zu-na  muh,h,i  mati  (17)  §a  Sarri  il  a-na  ia-§i  (18)  en-
-ni-ip-sa-ta  (19)  u  a-di-mi  u-ti-ru[-£i]  (20)  8u-ut  mu-ul-ka  (21)  §a
+a-na-ku  (16)  us-zu-na  muh,h,i  mati  (17)  §a  Sarri  il  a-na  ia-§i  (18)  enni-ip-sa-ta  (19)  u  a-di-mi  u-ti-ru[-£i]  (20)  8u-ut  mu-ul-ka  (21)  §a
 fi-Sa  (!)-at  mil  (!)-ka  (ra)Pa-a-bu  d  u§-§i-ir-[s]u  [i-n]a  pa-ni-ia  (1
 .  .  .  ra-bi-ilu  u-wa-§[i]  i[r]  (25)  [(amilu)  ro5]u  iu-bal-5u  (26)  .  .  .
 a-wa-ti  a-ni-ti
@@ -18530,11 +17513,9 @@ A1
 
 (1)  Seal  of  Marduk-riba,  son  of  [.  .  .]  (2)  seal  of
 Abu-riba,  son  of  [.  .  .]  (3)  Total,  two  men,  owners  of
-the  houses,  field  [.  .  .]  (4)  the  house  of  Lu-akhea  to-
-gether with     .     .     .
+the  houses,  field  [.  .  .]  (4)  the  house  of  Lu-akhea  together with     .     .     .
 
-1  The  tablet  was  found  at  Gezer,  but  the  name  does  not  appear  any-
-where upon  it.  It  is  published,  with  transcription  and  translation,  by
+1  The  tablet  was  found  at  Gezer,  but  the  name  does  not  appear  anywhere upon  it.  It  is  published,  with  transcription  and  translation,  by
 PlMlltl,  Palestine  Exploration  Fund,  Quarterly  Statement,  1904,  pp.  229ff.
 See  also  notes  by  Sayce,  »6.,  p.  236,  and  Johns,  ib.,  p.  237.  Translated
 also  by  Ungnad  in  Gressmann,  AUorientalische  Texte  und  Bilder,  i,
@@ -18545,8 +17526,6 @@ fl]  Kunuk  (m)Marduk-rtba  apal  [.    .    .]  (2)  kunuk  (m)Abu-rlba
 .    .]  m  Rararu  Sina  amfilute  M16  bttfi  6kli  [.    .    .]  (4)  bit
 (m)Lu-ab^  a-di  gi[.    •    •]
 
-
-280  CUNEIFORM  PARALLELS
 
 [Here  follow  the  seals  of  the  persons  named.]
 (5)  The    persons    Turi-ilaa,    his    two    wives,    his    son
@@ -18615,14 +17594,11 @@ i-lak-ki  si-bit  be-e[n-n]u  (4)  a-na  i§ten  meat  u-me  sa-ar-tu  a-na  kal
 LETTERS  FROM  TA'ANEK  2S1
 
 all  time  shall  be  guaranteed1  (5)  Month  Sivan,  day  17th,
-Eponym  year  after  that  of  (6)  Ashur-dur-usur,2  gov-
-ernor of  Barkhalzi.3
+Eponym  year  after  that  of  (6)  Ashur-dur-usur,2  governor of  Barkhalzi.3
 
-(7)  Before  Zaggi;  before  Tebetaa;  (8)  before  Bel-aplu-
-iddin;  before  Marduk-nasir  [.  .  .]  (9)  before  Khuruasi,
+(7)  Before  Zaggi;  before  Tebetaa;  (8)  before  Bel-apluiddin;  before  Marduk-nasir  [.  .  .]  (9)  before  Khuruasi,
 mayor  [.  .  .]  (10)  before  Burrapi',  agent  (11)  before
-Zer-ukin,  son  of  Tebetaa;  (12)  before  Addu-tadin;  be-
-fore Si'-[.  .  .]  (13)  before  Mannu-ki-Arba-'ilu;  before
+Zer-ukin,  son  of  Tebetaa;  (12)  before  Addu-tadin;  before Si'-[.  .  .]  (13)  before  Mannu-ki-Arba-'ilu;  before
 [     .     .]  (14)  before  Zerutu.
 
 
@@ -18636,11 +17612,9 @@ Palestine  Exploration  Fund,  Quarterly  Statement,  1905,  p.  210.
 
 *  Or  Mashkhalzi.
 
-u-me  (5)  arah,  Simani  umu  XVII,  lim-mu  §a  arki  (6)  (m)  Asur-dur-
-usur  (amelu)  bel  pifcati  (alu)  Bar-h,al-zi  (7)  pan(m)  Zag-gi-i  pan(m)
+u-me  (5)  arah,  Simani  umu  XVII,  lim-mu  §a  arki  (6)  (m)  Asur-durusur  (amelu)  bel  pifcati  (alu)  Bar-h,al-zi  (7)  pan(m)  Zag-gi-i  pan(m)
 Tebet-a-[a]  (8)  pan  Bel-aplu-iddin  pan  (m)Marduk-nasir  [.  .  .]
-(9)  pan(m)  Qur-u-a-si  (am£lu)  fca-za-nu  [#  t  ]  qq)  pan  (m)Bur-
-ra-pi-'i  (amelu)  dam-kar  (?)  [.  .  .]  (11)  pan  (m)Zer-ukin  mar(m)
+(9)  pan(m)  Qur-u-a-si  (am£lu)  fca-za-nu  [#  t  ]  qq)  pan  (m)Burra-pi-'i  (amelu)  dam-kar  (?)  [.  .  .]  (11)  pan  (m)Zer-ukin  mar(m)
 Tebet-[a-a]  (12)  pan(m)  Addu-ta-din  pan  (m)Si-'-[.  .  .]  (13)  pan
 Man-nu-ki-Arba-ilu  pan(m)  [.    .    .]  (14)  pan  (m)ZSr-u-tu
 
@@ -18679,14 +17653,10 @@ lu-hnn-ka  Su-lum
 .'it-ta  ta-as-pu-rum
 
 
-282  CUNEIFORM  PARALLELS
-
 with  reference  to  the  money  [.  .  .]  (9,  10)  and  behold  I
-will  give  (11)  "50  gold  pieces,  that  it  be  not  done.1  (12)  Fur-
-ther: (13)  Why  hast  thou  again  (?)  sent  (14)  thy  greeting
+will  give  (11)  "50  gold  pieces,  that  it  be  not  done.1  (12)  Further: (13)  Why  hast  thou  again  (?)  sent  (14)  thy  greeting
 hither.  (15)  Everything  (16)  thou  hast  heard,  (17,
-18)  have  I  [also]  learned  from  there  by  Belram.2  (19)  Fur-
-ther: (20)  If  the  finger  (=omen)  of  Ashirat  point,
+18)  have  I  [also]  learned  from  there  by  Belram.2  (19)  Further: (20)  If  the  finger  (=omen)  of  Ashirat  point,
 (21)  then  let  one  mark  (22)  and  follow!  (23)  And  the
 sign  (24)  and  the  event  recount  to  me.  (25)  Further:
 (26)  With  reference  to  thy  daughter,  we  know  her,
@@ -18854,27 +17824,20 @@ mai-Tu
 III.  ASHURNAZIRPAL  (885-860  B.  C.)
 
 The  great  advance  of  Assyria  in  the  twelfth  century
-B.  C.  under  Tiglathpileser  I  carried  its  power  far  be-
-yond the  point  which  had  been  attained  under  Shal-
+B.  C.  under  Tiglathpileser  I  carried  its  power  far  beyond the  point  which  had  been  attained  under  Shal-
 maneser  I  (about  1300  B.  C),  when  the  Assyrians  first
 
 
-284  CUNEIFORM  PARALLELS
-
-began  to  play  a  leading  role  in  western  Asia.  Tiglath-
-pileser  dared  even  to  push  his  campaigns  all  the  way  to
+began  to  play  a  leading  role  in  western  Asia.  Tiglathpileser  dared  even  to  push  his  campaigns  all  the  way  to
 the  Phoenician  coast,  where  he  held  court  in  Arvad,
 received  presents  even  from  Egypt,  and  sailed  out  upon
 the  great  sea.  The  threat  which  this  campaign  made
-against  the  west  sufficed  to  disturb  all  the  arrange-
-ment which  had  been  made  between  the  Hittites  and
+against  the  west  sufficed  to  disturb  all  the  arrangement which  had  been  made  between  the  Hittites  and
 the  Egyptians  during  the  reign  of  Rameses  II,  by  which
 the  former  had  secured  an  undisputed  suzerainty  and
 a  free  hand  over  the  whole  of  northern  Syria.  The
-Hittite  power  had  been  waning,  as  had  also  the  Egyp-
-tian, and  there  seemed  to  be  every  likelihood  for  the
-transfer  of  the  hegemony  from  these  two  to  the  As-
-syrians. But  the  death  of  the  great  king  put  an  end  to
+Hittite  power  had  been  waning,  as  had  also  the  Egyptian, and  there  seemed  to  be  every  likelihood  for  the
+transfer  of  the  hegemony  from  these  two  to  the  Assyrians. But  the  death  of  the  great  king  put  an  end  to
 his  conquests,  and  his  successors  for  centuries  were
 unable  to  emulate  his  achievements.
 
@@ -18883,14 +17846,12 @@ followed  the  reign  of  Tiglathpileser  I  great  changes  in
 western  Asia  took  place  because  of  the  absence  of  the
 Assyrian  peril.  The  kingdom  of  Saul  and  David  in
 Israel  was  founded  and  made  considerable  progress  in
-internal  development  and  in  the  achievement  of  ex-
-ternal safety.  In  Damascus  the  original  Amorite  stock
+internal  development  and  in  the  achievement  of  external safety.  In  Damascus  the  original  Amorite  stock
 gradually  gave  place  to  a  predominant  Aramaic  wave  of
 migration,  and  about  950  B.  C.  Rezon  became  the
 founder  of  a  new  dynasty,1  which  came  into  conflict
 with  Israel  and  seriously  disputed  its  material  advance.
-During  this  same  period  of  Assyrian  decline  Israel  en-
-tered into  important  relations  with  Tyre,  and  the  whole
+During  this  same  period  of  Assyrian  decline  Israel  entered into  important  relations  with  Tyre,  and  the  whole
 face  of  the  west  was  changed.
 
 The  revival  of  Assyrian  power  began  in  885  B.  C,
@@ -18904,17 +17865,14 @@ ASHURNAZIRPAL  285
 
 inscriptions  which  have  come  down  from  his  reign
 preserve  abundant  historical  material  to  display  the
-course  and  conduct  of  his  campaigns  and  the  develop-
-ment of  his  policy.  His  standard  inscription  upon  a
+course  and  conduct  of  his  campaigns  and  the  development of  his  policy.  His  standard  inscription  upon  a
 monolith  of  alabaster  contains,  in  three  hundred  and
 eighty-nine  lines,  an  account,  almost  epic  in  grandeur,
 of  his  campaigns  of  blood  and  fire  by  which  Assyrian
 power  was  carried  to  new  heights.
 
-His  first  campaigns  were  directed  against  the  Meso-
-potamian  communities  along  the  Chabor  and  the  eastern
-bank  of  the  Euphrates.  Thereafter  he  made  a  vic-
-torious invasion  of  the  territories  of  Nairi,  about  the
+His  first  campaigns  were  directed  against  the  Mesopotamian  communities  along  the  Chabor  and  the  eastern
+bank  of  the  Euphrates.  Thereafter  he  made  a  victorious invasion  of  the  territories  of  Nairi,  about  the
 head  waters  of  the  Tigris  and  the  Euphrates,  by  the
 latter  of  which  in  a  grotto  he  left  an  inscription,  as
 Tiglathpileser  had  done  before  him.  During  the  next
@@ -18928,27 +17886,21 @@ had  little  opposition  until  he  met  the  forces  of  the
 powerful  little  kingdom  of  Patin  on  the  Orontes,  whose
 capital  city  was  Kunulua,  under  King  Lubarna.  From
 him  he  received  a  heavy  tribute,  and  then  crossed  the
-Orontes  and  proceeded  toward  the  west  and  then  south-
-ward along  the  Lebanon  into  Phoenicia.  On  this  suc-
+Orontes  and  proceeded  toward  the  west  and  then  southward along  the  Lebanon  into  Phoenicia.  On  this  suc-
 1  march  he  received  tribute  from  Arvad,  Byblos,
 Sidon.  Tyrv.  and  ascending  the  Amanus  (Anti-Lebanon),
 he  cut  cedar  beams  for  use  in  his  building  operations  at
 We  do  not  know  how  far  south  along  the  coast
 wmpaign  extended,  nor  do  we  know  at  what  point
-la,  mentioned  at  the  conclusion  of  the  text  fol-
-lowing, was  set  up.     It  is  not  probable  that  he  went
+la,  mentioned  at  the  conclusion  of  the  text  following, was  set  up.     It  is  not  probable  that  he  went
 
-
-286  CUNEIFORM  PARALLELS
 
 further  down  the  coast  than  the  mouth  of  the  Nahr-el-
-Kelb  (the  Dog  River),  which  discharges  into  the  Mediter-
-ranean at  Beirut.  There  the  ancient  road  over  the
+Kelb  (the  Dog  River),  which  discharges  into  the  Mediterranean at  Beirut.  There  the  ancient  road  over  the
 Lebanon  would  invite  him  inland,  and  the  tribute  which
 he  received  from  Tyre  and  Sidon  may  have  been  sent
 to  him,  as,  indeed,  these  two  cities  frequently,  if  not
-usually,  did  send  tribute  to  other  conquerors  at  a  dis-
-tance, to  prevent  their  near  approach.  The  stela  re-
+usually,  did  send  tribute  to  other  conquerors  at  a  distance, to  prevent  their  near  approach.  The  stela  re-
 ferred to  above  may  have  been  set  up  on  the  banks  of
 the  Dog  River,  where  there  are  no  less  than  five  such
 records  by  Assyrian  kings.
@@ -18961,8 +17913,7 @@ attack  which  was  to  come  in  the  next  reign.
 
 After  this  important  campaign  there  remains  very
 little  of  achievement  in  his  reign,  which  closes  after
-brief  campaigns  in  northern  Mesopotamia.  At  the  be-
-ginning of  his  reign  Nineveh  was  his  capital  city,  but  after
+brief  campaigns  in  northern  Mesopotamia.  At  the  beginning of  his  reign  Nineveh  was  his  capital  city,  but  after
 the  sixth  year  his  expeditions  begin  at  Calah,  which  had
 been  made  the  capital  by  Shalmaneser  I,  and  which  was
 now  rebuilt  and  restored  by  Ashurnazirpal.  There
@@ -18971,8 +17922,7 @@ most  of  his  important  inscriptions  have  been  found.
 THE  ANNALS  OF  ASHURNAZIRPAL1
 Column  III:
 
-(78)  .  .  .  From  Kunulua,  the  royal  city  of  Lu-
-barna  (79)  of  the  land  of  Patini  I  departed.     The  river
+(78)  .  .  .  From  Kunulua,  the  royal  city  of  Lubarna  (79)  of  the  land  of  Patini  I  departed.     The  river
 
 1  The  passage  is  taken  from  the  Annals  of  Ashurnazirpal,  col.  iii,
 lines  78-89.  The  text  is  published  I  R.,  17-26,  and  translated  and
@@ -18991,8 +17941,7 @@ ASHURNAZIRPAL  287
 Orontes  I  crossed,  and  by  the  river  Orontes  I  encamped.
 From  the  river  Orontes  I  departed  and  between  (80)  the
 mountains  of  Jaraki  and  Jaturi  I  marched.  The  land  of
-.  .  .  ku  I  traversed  and  encamped  by  the  river  San-
-gura.     From  the  river  Sangura  I  departed  and  between
+.  .  .  ku  I  traversed  and  encamped  by  the  river  Sangura.     From  the  river  Sangura  I  departed  and  between
 
 (81)  the  mountains  of  Saratini  and  Duppani  I  marched,
 and  upon  .  .  .  ba  I  encamped.  Into  Aribua,  the
@@ -19001,8 +17950,7 @@ royal  city  of  Lubarna  of  the  land  of  Patini,  I  entered.
 (82)  The  city  I  took  for  my  own  possession,  and  the
 grain  and  straw  from  the  land  of  Lukhuti  I  gathered  and
 heaped  up  therein.  I  made  a  feast  in  his  palace,  and
-men  from  Assyria  (83)  I  settled  therein.  While  I  re-
-mained in  the  city  of  Aribua,  I  captured  the  cities  of
+men  from  Assyria  (83)  I  settled  therein.  While  I  remained in  the  city  of  Aribua,  I  captured  the  cities  of
 the  land  of  Lukhuti,  and  slew  many  of  their  inhabitants.
 I  laid  them  waste,  and  destroyed  them  and  burned  them
 with  fire.  (84)  I  took  men  alive  and  impaled  them  on
@@ -19020,8 +17968,7 @@ Makhallat    and    Maisa,    and    Kaisa,    and    Amurru    and
 eli  (naru)A-ra-an-te  asakan(an)  mid-dak  i§tu  eli  (naru)  A-ra-an-te
 at-tu-muS  ina  bi-rit  (80)  (§adu)  Ia-ra-ki  (Sadu)  Ia-'-tu-ri  a-sa-bat
 (matu)  [.  .  .]-ku  a-ta-bal-kat  ina  eli  (nam)  Sa-an-gu-ra  asakan(an)
-iiStu  eli  (naru)  Sa-{an]-gu-ra  at-tu-mu§  ina  bi-rit  (81)  (Sadu)  Sa-ra-
-ti-ni  (Sadu)  Dup-pa-a-ni  a-ea-bat  ina  eli  [.  .  .]-ba  asakan(an)  a-na
+iiStu  eli  (naru)  Sa-{an]-gu-ra  at-tu-mu§  ina  bi-rit  (81)  (Sadu)  Sa-rati-ni  (Sadu)  Dup-pa-a-ni  a-ea-bat  ina  eli  [.  .  .]-ba  asakan(an)  a-na
 (alu)  A-ri-bu-a  al  dan-nu-ti-Su  Sa  (m)Lu-bar-na  (matu)  Pa-ti-na-ai
 etarba(ba)  (82)  ala  a-na  ra-me-ni-ia  as-bat  Se-am  u  tibnu  Sa  (matu)
 Lu-bu-ti  e-ei-di  ina  libbi  atbuk(uk)  ta-Si-il-tu  ina  ekalli-Su
@@ -19029,15 +17976,11 @@ aSkun(un)  niS£(e)  (matu)  AS-Su-ra-ai  (83)  ina  lib-bi  u-Se-8ib  ki-i
 ina  (alu)  A-ri-bu-a  us-ba-ku-ni  alani(ni)  Sa  (matu)  Lu-fcu-ti
 aktaSad(ad)  dlkta-Su-nu  ma'atta-Su-nu  a-duk  ab-bul  ak-kur  ina
 iSAti  (84)  aS-ru-up  sab£  baltuti  ina  kati  u-sab-bi-ta  ina  (isu)  zi-ki-bi
-ina  pu-ut  alani-§u-nu  u-za-kip  ina  u-me-Su-ma  fii-di  (Sadu)  Lab-na-
-na  hi  aa-bat  a-na  tam-di  (85)  r:il »it <*(t «-)  fia  (matu)  A-mur-ri  lu-u
+ina  pu-ut  alani-§u-nu  u-za-kip  ina  u-me-Su-ma  fii-di  (Sadu)  Lab-nana  hi  aa-bat  a-na  tam-di  (85)  r:il »it <*(t «-)  fia  (matu)  A-mur-ri  lu-u
 e-li  ma  tamdi  rablte(te)  kakkr-a  lu-u-lil  (inimcru)  nikr  a-na  ilani(ni)
 lu  aa-bat  ma-da-tu  Sa  Sarrani(ni)  Sa  6i-di  tamdi  (86)  Sa  fmituj
-Sur-ra-ai  (matu)  Si-du-na-ai  (matu)  (Ju-bal-ai  (matu)  Ma-bal-la-
-ta-ai  (matu)  Ma-i-ea-ai  (matu)  Ka-i-§a-ai  (matu)  A-mur-ra-ai  (alu)
+Sur-ra-ai  (matu)  Si-du-na-ai  (matu)  (Ju-bal-ai  (matu)  Ma-bal-lata-ai  (matu)  Ma-i-ea-ai  (matu)  Ka-i-§a-ai  (matu)  A-mur-ra-ai  (alu)
 
-
-288  CUNEIFORM  PARALLELS
 
 Arvad,  (87)  which  lies  in  the  midst  of  the  sea;  silver  and
 gold  and  lead,  and  bronze,  and  vessels  of  bronze,  and
@@ -19067,15 +18010,13 @@ IV.  SHALMANESER  III  (859-825  B.  C.)
 Shalmaneser  III  succeeded  his  father,  Ashurnazirpal
 II,  without  question,  and  carried  his  father's  policies
 far  beyond  the  dreams  of  their  originator.  In  him  we
-meet  the  first  Assyrian  conqueror  who  made  the  con-
-quest, and  not  merely  the  plundering,  of  the  western
+meet  the  first  Assyrian  conqueror  who  made  the  conquest, and  not  merely  the  plundering,  of  the  western
 states  his  policy.
 
 The  approach  to  the  west  was  mediated  by  an  attack
 upon  the  Aramaean  settlements  in  the  Euphrates  valley,
 whose  spirit  had  already  been  broken  by  the  severe
-campaigning  of  his  father.  In  859,  858,  and  857  Shal-
-maneser invaded  this  territory,  of  which  the  state  of
+campaigning  of  his  father.  In  859,  858,  and  857  Shalmaneser invaded  this  territory,  of  which  the  state  of
 Bit-Adini1  appears  to  have  been  most  powerful.  It
 was  ravaged  with  displays  of  savagery  after  the  fashion
 of  Ashurnazirpal.    Pyramids  of  heads  were  piled  up  by
@@ -19106,15 +18047,12 @@ used  by  the  Assyrians  to  destroy  the  confederation  for
 defense  against  Shalmaneser.
 
 The  first  campaign  (854)  was  doubtless  carefully
-planned,  but  none  the  less  was  it  a  surprise  to  the  As-
-syrian monarch.  His  march  from  Nineveh  across  the
+planned,  but  none  the  less  was  it  a  surprise  to  the  Assyrian monarch.  His  march  from  Nineveh  across  the
 great  valley  to  Pethor  was  a  continuous  triumph,  and
-at  Aleppo  he  was  met  with  a  surrender  of  the  city  with-
-out striking  a  blow.  The  first  opposition  was  met
+at  Aleppo  he  was  met  with  a  surrender  of  the  city  without striking  a  blow.  The  first  opposition  was  met
 within  the  little  kingdom  of  Hamath,  where  three
 cities  were  taken  and  left  in  ruins.  Shalmaneser  then
-advanced  to  Qarqar,1  where  he  was  met  by  a  most  de-
-termined body  of  raw  levies,  composed  for  the  most
+advanced  to  Qarqar,1  where  he  was  met  by  a  most  determined body  of  raw  levies,  composed  for  the  most
 part  of  contributions  from  Hamath,  Damascus,  and
 DsraeL  To  these  were  added  details  from  Cilicia  and
 Gappadocia,  from  Phoenicia  and  from  Arabia  and
@@ -19128,22 +18066,17 @@ The  Pasting  of  the  Empires,  p.  70,   note   4.     So   also   Winckler,  
 »  Col.  11,  97,  98.
 
 
-290  CUNEIFORM  PARALLELS
-
 lost  14,000,  while  the  Obelisk1  Inscription  makes  the
 lass  20,500,  and  a  third2  account  places  it  at  25,000,
 and  a  fourth 3  increases  it  to  29,000.  But  there  is  no
-word  of  plunder,  of  tribute,  or  of  the  extension  of  As-
-syrian domination,  and  there  can  therefore  be  no  doubt
+word  of  plunder,  of  tribute,  or  of  the  extension  of  Assyrian domination,  and  there  can  therefore  be  no  doubt
 that  the  confederates,  who  fought  for  their  homes,  had
 defeated  the  Assyrian  veterans.
 
-Difficulties  elsewhere,  notably  in  Babylonia,  pre-
-vented a  renewal  of  the  attack  until  849,  when  again
+Difficulties  elsewhere,  notably  in  Babylonia,  prevented a  renewal  of  the  attack  until  849,  when  again
 Damascus  and  Hamath,  with  their  allies,  defeated  the
 Assyrians.  In  846  Shalmaneser,  feeling  the  seriousness
-of  the  situation,  and  being  still  determined  to  over-
-whelm the  allies  with  the  mere  weight  of  numbers,  and
+of  the  situation,  and  being  still  determined  to  overwhelm the  allies  with  the  mere  weight  of  numbers,  and
 with  an  army  which  he  claims  numbered  120,000  men,
 met  the  same  allies.  His  boast  of  victory  is  the  same  as
 before,  but  it  is  none  the  less  clear  that  he  was  again
@@ -19151,11 +18084,9 @@ defeated.  The  next  attempt  was  made  in  842  under
 circumstances  much  more  favorable  for  the  invaders.
 Bir-idri,  who  had  been  the  real  leader  of  the  allies,
 was  probably  now  dead,  and  Ahab  and  Joram,  his
-successor,  who  had  contributed  their  share  to  the  de-
-fense, were  no  more.  Jehu,  a  coward  by  nature,  was
+successor,  who  had  contributed  their  share  to  the  defense, were  no  more.  Jehu,  a  coward  by  nature,  was
 iiing  of  Samaria,  while  the  weak  but  cruel  Hazael
-reigned  in  Damascus.  The  other  states  were  too  dis-
-cordant in  themselves  and  too  fearful  of  the  ascendancy
+reigned  in  Damascus.  The  other  states  were  too  discordant in  themselves  and  too  fearful  of  the  ascendancy
 of  Damascus  to  join  in  any  further  united  action.  Tyre
 and  Sidon  sent  Shalmaneser  gifts,  that  their  commerce
 might  not  be  impeded  by  war,  while  Jehu  by  his  gifts
@@ -19173,18 +18104,15 @@ men  too  ignoble  or  too  foolish  to  protect  themselves.
 
 SHALMANESER  III  291
 
-He  fortified  himself  in  Saniru  (Hermon),  but  was  de-
-feated with  heavy  loss  and  compelled  to  retire  upon
+He  fortified  himself  in  Saniru  (Hermon),  but  was  defeated with  heavy  loss  and  compelled  to  retire  upon
 Damascus  and  there  stand  a  siege.  Damascus  was,
 however,  not  taken,  and  Shalmaneser  had  to  content
 himself  with  cutting  down  the  trees  about  the  city,
 and  with  a  raid  into  the  Hauran.  In  839  he  made  his
 sixth  attack  upon  the  west,  but  is  able  only  to  report
 that  he  took  four  of  Hazael's  cities.  No  such  series  of
-rebuffs  had  ever  been  received  by  an  Assyrian  mon-
-arch. In  all  these  campaigns  there  was  no  conquest  of
-the  much-coveted  west,  there  was  no  extension  of  As-
-syrian government,  there  was  no  glory  for  the  Assyrian
+rebuffs  had  ever  been  received  by  an  Assyrian  monarch. In  all  these  campaigns  there  was  no  conquest  of
+the  much-coveted  west,  there  was  no  extension  of  Assyrian government,  there  was  no  glory  for  the  Assyrian
 arms.  Yet  he  had  prepared  the  way,  and  the  west,
 though  unconquered,  had  suffered  severe  losses  in  its
 brave  defense.  Another  Assyrian  invader  would  find
@@ -19202,15 +18130,12 @@ of  new  vigor,  and  was  developing  in  many  ways.  It
 had  adopted  the  Assyrian  script,  and  was  disputing
 Assyrian  progress  in  no  uncertain  manner.  In  857
 Shalmaneser  attacked  this  new  kingdom  again,  and
-plunged  through  it  from  west  to  east.  Similar  expedi-
-took  place  in  850  and  833.  Another  expedition
+plunged  through  it  from  west  to  east.  Similar  expeditook  place  in  850  and  833.  Another  expedition
 under  the  leadership  of  a  Turtan,  in  829,  is,  indeed,
 followed  by  great  boasts  of  victory,  for  which  there
 seem  to  be  few  ^<»(»<l  reasons,  for  the  kingdom  of  Khaldia
 continued  t<>  jin»{i< ar  nnd  increase.
 
-
-292  CUNEIFORM  PARALLELS
 
 An  even  more  evident  failure  to  achieve  lasting
 results  is  found  in  the  territory  east  and  southeast  of
@@ -19218,14 +18143,12 @@ Assyria,  the  land  of  Namri,  which  was  invaded  in  859,
 844,  and  836,  but  these  expeditions  secured  nothing  but
 plunder.
 
-The  greatest  achievement  of  the  whole  reign  of  Shal-
-maneser  was  in  the  south.  The  king  of  Babylonia,
+The  greatest  achievement  of  the  whole  reign  of  Shalmaneser  was  in  the  south.  The  king  of  Babylonia,
 Marduk-nadin-shum,  threatened  by  a  rebellion  in  the
 southern  part  of  his  dominions,  applied  to  Shalmaneser
 for  aid.  The  opportunity  was  eagerly  embraced,  and
 Shalmaneser  overran  the  Chaldean  communities,  crushed
-the  rebellion,  and  reestablished  the  rule  of  Marduk-
-nadin-shum,  who  reigned  thenceforth  under  the  pro-
+the  rebellion,  and  reestablished  the  rule  of  Marduknadin-shum,  who  reigned  thenceforth  under  the  pro-
 tectorate of  Assyria  (852-851  B.  C).
 
 In  829  a  rebellion  broke  out  in  Assyria,  and  during  its
@@ -19236,8 +18159,7 @@ campaigns  intended  to  solidify  the  shattered  empire.
 
 In  812  Adad-nirari  IV,  grandson  of  Shalmaneser  III,
 ascended  the  throne,  and  during  his  reign  of  nearly
-thirty  years  (812-783),  crowded  with  campaigns,  ac-
-complished much  for  the  restoration  of  Assyrian  pres-
+thirty  years  (812-783),  crowded  with  campaigns,  accomplished much  for  the  restoration  of  Assyrian  pres-
 tige. We  are,  unhappily,  but  poorly  supplied  with
 inscriptions  of  his  reign,  and  are  not  able  to  trace  his
 movements  in  detail,  though,  fortunately,  the  Assyrian
@@ -19264,8 +18186,7 @@ Khaldia  continued  to  hold  sway  in  territory  from  which
 the  invasion  of  northern  Syria  was  so  easy  and  so
 tempting.  The  removal  of  this  great  menace  to  his
 western  and  northwestern  borders  was  not  accomplished
-by  him.  He  was  much  more  successful  in  eight  cam-
-paigns against  the  Medes,  and  in  Babylonia  he  com-
+by  him.  He  was  much  more  successful  in  eight  campaigns against  the  Medes,  and  in  Babylonia  he  com-
 pletely restored  Assyrian  supremacy  and  made  a  great
 stride  forward  in  the  amalgamation  of  Assyrians  and
 Babylonians.  His  reign  must  be  considered  one  of  the
@@ -19278,8 +18199,7 @@ against   the    cities   which   are   in   the   territory   of   the
 
 (55)  river  Balikh.    They  had  killed  Giammu  their  prince.
 
-(56)  I  entered  Til-mar (?)-akhi.  (57)  I  crossed  the  Eu-
-phrates at  high  water,  [and]  (58)  received  the  tribute  of
+(56)  I  entered  Til-mar (?)-akhi.  (57)  I  crossed  the  Euphrates at  high  water,  [and]  (58)  received  the  tribute  of
 all  the  kings  of  the  Hittite  country.  (59)  At  that  time
 Bir-idri,  (60)  king  of  Damascus,  Irkhulina  the  Hamathite,
 
@@ -19293,8 +18213,7 @@ A    H    B  rdu  "f  tfir  PatL  V.  pp.  29-42.     The  text  was  republishe
 bv  Abel  and  Winckier,  KeiUekryUexte  :mn   Oebraueh  bei  VcrUtunoen
 
 (Berlin,  1890),  pp.  7ff.,  and  translated  by  Winckier,  Krilinschriftlich,
-Bibliothek,  i,  pp.  129ff.  Compare  also  Ungnad  in  Gressmann,  Altori-
-entalische  TexU  und  Bihhr,  i,  p.  110.
+Bibliothek,  i,  pp.  129ff.  Compare  also  Ungnad  in  Gressmann,  Altorientalische  TexU  und  Bihhr,  i,  p.  110.
 
 (54)  inaVI  palo-iaa-na  ala-ni  sa  si-di  (nam)  Ba-li-hj  (">.->)  ak-tf-rib
 
@@ -19306,22 +18225,17 @@ ru)  Purattu  ina  mi-li-sa  fr-oir(68)  ma-oa-tu  ia  sarra-ni  Sa
 (60)  fiar  (matu)  Dimasku  (m)Ir-bw-li-na  (matu)  A-mat-a-a  a-di
 
 
-294  CUNEIFORM  PARALLELS
-
 together  with  the  kings  (61)  of  the  Hittite  country
 trusted  in  one  another,  and  (62)  marched  to  make  war
 and  battle  (63)  upon  me.  By  command  of  Ashur,  the
-great  lord,  my  lord  (64)  I  fought  with  them  and  de-
-feated them.  I  took  from  them  (65)  their  chariots,
+great  lord,  my  lord  (64)  I  fought  with  them  and  defeated them.  I  took  from  them  (65)  their  chariots,
 their  horses,  their  equipments,  and  (66)  destroyed,
 with  arms,  twenty  thousand  five  hundred  of  their  troops.
 
-ni  (61)  §a  (matu)  JJat-ti  u  a-Jjat  tam-ti  a-na  idi  a-ba-mis  (62)  it-tak-
-lu-ma  a-na  e-pi§  kabli  u  tab,azi  (63)  a-na  irti-ia  it-bu-ni  ina  ki-bit
+ni  (61)  §a  (matu)  JJat-ti  u  a-Jjat  tam-ti  a-na  idi  a-ba-mis  (62)  it-taklu-ma  a-na  e-pi§  kabli  u  tab,azi  (63)  a-na  irti-ia  it-bu-ni  ina  ki-bit
 Asur  belli  ralm  brli-ia  (64)  it-ti-§u-nu  am-dab-h,i-i*  abikta-§u-nu
 aS-kun  (65)  nar-kabati-su-nu  bit-h,al-la-§u-nu  u-nu-tii  tahazi-su-nu
-e-kim-§u-nu  (66)  XX.M.V.C  (sabu)  ti-du-ki-su-nu  ina  kakke  u-§am-
-kit
+e-kim-§u-nu  (66)  XX.M.V.C  (sabu)  ti-du-ki-su-nu  ina  kakke  u-§amkit
 
 The  Monolith  Inscription  l
 Column  II:
@@ -19339,8 +18253,7 @@ his  treasures;  his  goods  and  possessions  I  plundered
 [and]  carried  away  to  my  city  of  Asshur.     From  Kitlala
 
 
-1  Tin-  monolith  containing  this  Inscription  was  erected  in  the  neigh-
-borhood  of  Diarbekr,  on  the  upper  Tigris,  and    is    now  in  the   British
+1  Tin-  monolith  containing  this  Inscription  was  erected  in  the  neighborhood  of  Diarbekr,  on  the  upper  Tigris,  and    is    now  in  the   British
 Museum.     It   is  published  III  ft.,  7f.  (1866).     Compare  also  Jar
 Craig,  Hebraica,  in  (1SS7),  p.  201.     It   hss  been  frequently  tran
 for  example,  by  A.  H.  Sayce.  Seeorda  of  the  Past,  iii,  p.  81  ;  I  .  E.  I
@@ -19352,8 +18265,7 @@ translated  by  Wineklcr,  KeUinachrif&iche*  7'ixtbuch  zum  Alton
 
 (78)  ina  lime  Daian-ASur  arab  Airu  umu  XIV  (kam)  ifitu  Xinua
 at-tu-mus  (nam)  Diglat  i-te-bir  a-na  alani(ni)  (79)  §a  Gi-am-mu
-(nam)  Balilji  ak-ti-rib  pul-J}a-at  brlu-ti-ia  na-mur-rat  kakki-ia  iz-
-zu-ti  ip-la-Jju-ma  i-na  kakki  ra-ma-ni-su-nu  (m) Gi-am-mu  bcli-su-nu
+(nam)  Balilji  ak-ti-rib  pul-J}a-at  brlu-ti-ia  na-mur-rat  kakki-ia  izzu-ti  ip-la-Jju-ma  i-na  kakki  ra-ma-ni-su-nu  (m) Gi-am-mu  bcli-su-nu
 
 (80)  i-du-ku  a-na  (alu)  Kit-la-la  u  (alu)  Til-sa-mar-a-^i  lu  eru-ub
 ilani-ia  ana  ekallati-su  lu-u-§e-ri-ib  ta-si-il-tu  ina  ekallati-§u  lu  as-kun
@@ -19373,10 +18285,8 @@ Gabar,  (84)  of  Kalparuda,  the  Patinsean,  of  Kalparuda,
 the  Gurgumaean,  silver,  gold,  lead,  copper,  [and]  copper
 vessels,  (85)  I  received  in  Asshur-utir-asbat, — on  the
 far  side  of  the  Euphrates, — on  the  river  Sagur;  this  city
-the  Hittites  (86)  call  Pitru.  I  departed  from  the  Eu-
-phrates, [and]  approached  Khalman  (i.  e.,  Aleppo).
-They  feared  my  battle,  [and]  embraced  my  feet.  I  re-
-ceived (S7)  gold  and  silver  as  their  tribute.  I  offered
+the  Hittites  (86)  call  Pitru.  I  departed  from  the  Euphrates, [and]  approached  Khalman  (i.  e.,  Aleppo).
+They  feared  my  battle,  [and]  embraced  my  feet.  I  received (S7)  gold  and  silver  as  their  tribute.  I  offered
 sacrifices  to  the  god  Adad  of  Khalman.
 
 I  departed  from  Khalman  and  approached  two  cities
@@ -19384,8 +18294,7 @@ of  (88)  Irkhulini,  the  Hamathite.  Adennu,  Parga,  [and]
 Argand,  his  royal  city,  I  captured.  I  brought  out  his
 booty  possessions  and  (89)  goods  of  his  palaces,  and  set
 fire  to  his  palaces.  I  departed  from  Argana;  I  approached
-Qarqar;  (90)  Qarqar  his  royal  city,  I  plundered,  de-
-stroyed [and]  burned  with  fire.  Twelve  hundred  chariots,
+Qarqar;  (90)  Qarqar  his  royal  city,  I  plundered,  destroyed [and]  burned  with  fire.  Twelve  hundred  chariots,
 twelve    hundred   horsemen,    twenty   thousand    men    of
 
 
@@ -19428,8 +18337,6 @@ iSatiad-di  iftttl  (alu)  Ar-tra-na-a  at-tu-musa-na  (alu)  Kar-ka-ra  ak-ti-
 upI.M.II.C  narkal.ati  I.M.I  I.( !  bit-hal-lu  XXM  fat*  §a  (m)Bir-id-ri
 
 
-296  CUNEIFORM  PARALLELS
-
 Bir-idri1  (91)  of  Damascus;  seven  hundred  chariots,  seven
 hundred  horsemen,  ten  thousand  men  of  Irkhuleni  the
 Hamathite;  two  thousand  chariots,  ten  thousand  men  of
@@ -19451,10 +18358,8 @@ Fourteen  thousand  of  their  troops  (98)  I  cast  down  with
 arms,  like  Adad  I  rained  a  deluge  upon  them,  I  heaped
 
 >  The  Assyrian  form  of  the  name  is  expressed  by  (ilu)  iM-id-ri  and  the
-reading  of  the  ideogram  im  has  caused  much  dispute.  Schrader,  Zim-
-mern,  and  Ungnad  nave  read  it  Adad-idri  or  Hadad-idri,  but  Delitzsch
-and  WineUer,  Bir-idri.  Zimnwrn  has  now  changed  his  mind  (Benha-
-dad,  Hilprecht  Anniversary  Volume,  Leipzig,  1909,  pp.  299-303),  and
+reading  of  the  ideogram  im  has  caused  much  dispute.  Schrader,  Zimmern,  and  Ungnad  nave  read  it  Adad-idri  or  Hadad-idri,  but  Delitzsch
+and  WineUer,  Bir-idri.  Zimnwrn  has  now  changed  his  mind  (Benhadad,  Hilprecht  Anniversary  Volume,  Leipzig,  1909,  pp.  299-303),  and
 Langdon  has  supported  him  (Langdon,  Pir-idri  [Ben-Hadad]  King  of
 Syria,  Expository  Times,  November,  1911,  pp.  68,  69).  The  name  seems
 originally  to  have  been  Bir-hadar;  compare  LXX,  vloc  'Adep.  He  i<  the
@@ -19473,8 +18378,7 @@ sa  (matu)  U-sa-na-ta-a-a  XXX  narkabate  X  (?)  M  sabe  (94)  Sa
 (m)A-du-nu-ba-'-li  (matu)  §i-a-na-a-a  IM  (imeru)  gam-ma-lu  Sa
 (m)Gin-in-di-bu-'  (matu)  Ar-ba-a-a  .  .  .  M  sab£  (95)  Sa  (m)Ba-'-Sa
 mar  (m)Ru-bu-bi  (matu)  A-ma-na-a-a  XII  Sarra-ni  an-nu-ti  a-na
-niraru-ti-Su  il-ka-a  a[-na  e-peS]  (96)  kabli  u  tafcazi  ana  mabri-ia  it-
-bu-ni  ina  idat  strdte  §a  ASur  belu  ittadin  ina  kakke  dannute  Sa
+niraru-ti-Su  il-ka-a  a[-na  e-peS]  (96)  kabli  u  tafcazi  ana  mabri-ia  itbu-ni  ina  idat  strdte  §a  ASur  belu  ittadin  ina  kakke  dannute  Sa
 Nergal  a-lik  pani-ia  (97)  iS-ru-ka  it-ti-Su-nu  am-dab-bi-i?  istu  (alu)
 K.ar-ka-ra  a-di  (alu)  Gil-za-u  abikta-su-nu  lu  as-kun  XIVM  saW
 (98)  ti-du-ki-Su-nu  ina  kakke  u-Sam-kit  kima  (ilu)  Adad  eli-Su-nu  ri-
@@ -19491,10 +18395,8 @@ Orontes,  as  with  a  dam  (?).  In  that  battle  I  took  from
 them  their  chariots,  horsemen,  (102)  horses,  their  teams.
 
 hj-il-ta  u-Sa  az-nin  u-ma-si§al  (?)[ma(?)-te-su-nu  (99)  pa-an  na-me-e
-u-sam-li  rapsate  ummanate-Su-nu  ina  kakke  u-Sar-di  dame-Su-nu  Jjar-
-pa-lu  Sa  nagu  (100)  i-me-is-sir  a-na  Sum-kut  nap§at£-Su  nab-ra-ru-u
-rap-su  a-na  kub-bu-ri-§u-nu  ijj-li-ik  ina  niSe-Su-nu  (101)  (naru)  A-ra-
-an-tu  kima  ti-tur-ri  ak-Sir  ina  ki-rib  tam-h,a-ri  Su-a-ti  narkabate-
+u-sam-li  rapsate  ummanate-Su-nu  ina  kakke  u-Sar-di  dame-Su-nu  Jjarpa-lu  Sa  nagu  (100)  i-me-is-sir  a-na  Sum-kut  nap§at£-Su  nab-ra-ru-u
+rap-su  a-na  kub-bu-ri-§u-nu  ijj-li-ik  ina  niSe-Su-nu  (101)  (naru)  A-raan-tu  kima  ti-tur-ri  ak-Sir  ina  ki-rib  tam-h,a-ri  Su-a-ti  narkabate-
 Su-nu  bit-h,al-la-Su-nu(102)sise-Su-nu  sinda-at  ni-ri-Su-nu  e-kim-Su-nu
 
 The  Bull  Inscription  '
@@ -19512,35 +18414,26 @@ I  approached  Qarqar.  Bir-idri  of  Damascus  and
 Irkhuleni  of  Hamath,  (72)  together  with  twelve  kings  of
 
 1  Inscribed  upon  two  large  bulls  from  Nimroud,  published  by  A.  II.
-I.:i\:ird,  Inscriptions  in  the  Cuneiform  Character  from  Assyrian  Monu-
-ments (London,  1851),  pp.  14-16,  46,  47;  republished  in  transcription
+I.:i\:ird,  Inscriptions  in  the  Cuneiform  Character  from  Assyrian  Monuments (London,  1851),  pp.  14-16,  46,  47;  republished  in  transcription
 ■Hid  translation  by  l)elit/.sch,  Bcitrage  zur  Assyriologie,  vi,  pp.  144tT.
 The  portions  here  quoted  are  translated  also  by  Ungnad  in  Gressmann,
 Altorirntalixchc  Trxtc  und  Bildcr,  i,  p.  110.
 
-(67)  ina  VI  pal6-ia  iStu  (alu)  Ni-nu-a  at-tu-muS  a-na  (68)  (nam)  Ba-
-li-L'i  ak-tf-[rib  matu  (?)  iStu]  pan  kakke-ia  dan-nu-te  ip-lah,-ma
+(67)  ina  VI  pal6-ia  iStu  (alu)  Ni-nu-a  at-tu-muS  a-na  (68)  (nam)  Bali-L'i  ak-tf-[rib  matu  (?)  iStu]  pan  kakke-ia  dan-nu-te  ip-lah,-ma
 ara-mu  [bol  ali-Su-nu  iduk  (?)  a-na]  alu  Til-mar-a-hj  eru-ub
-(69)  ala  a-na  ramani  [iM]-ia  as-bat  iStu  Si-di  (naru)  Ba-li-hj  at-tu-
-muS  (naru)  Pfurat  ina  mi-li-Sa  <-l>ir  ma-da-tu]  Sa  Sarra-ni  (70)  sa
-(matu)  JJat-ti  am-four  iStu  (matu)  ^at-ti  at-tu-muS  a-na  (alu)  $al-
-man  ak-tf-rib  (immi'Tii)  [nike  ana  pan  Adad?]  Sa  (alu)  $al-inan
-£pu-uS  (71)  ifitu  (alu)  Qal-inan  at-tu-muS  a-na  (alu)  Kar-ka-ra  ak-
-tf-rib  (m)Bir-id-ri  Sa  (matu)  Imm-su  (m)Ir-h,u-lo-ni  fmatu)
+(69)  ala  a-na  ramani  [iM]-ia  as-bat  iStu  Si-di  (naru)  Ba-li-hj  at-tumuS  (naru)  Pfurat  ina  mi-li-Sa  <-l>ir  ma-da-tu]  Sa  Sarra-ni  (70)  sa
+(matu)  JJat-ti  am-four  iStu  (matu)  ^at-ti  at-tu-muS  a-na  (alu)  $alman  ak-tf-rib  (immi'Tii)  [nike  ana  pan  Adad?]  Sa  (alu)  $al-inan
+£pu-uS  (71)  ifitu  (alu)  Qal-inan  at-tu-muS  a-na  (alu)  Kar-ka-ra  aktf-rib  (m)Bir-id-ri  Sa  (matu)  Imm-su  (m)Ir-h,u-lo-ni  fmatu)
 A-ma-ta-a-a  (72)  a-di  XII  Sarra-ni  Sa  Si-di  tam-di  a-na  id6  a-ba-mifi
 
 
-298  CUNEIFORM  PARALLELS
-
 the  sea-coast  trusted  to  their  arms,  and  marched  to
 make  war  and  battle  against  me.  (73)  I  fought  with
-them.  Twenty-five  thousand  of  their  warriors  I  de-
-stroyed with  arms.  Their  chariots,  their  saddle-horses,
+them.  Twenty-five  thousand  of  their  warriors  I  destroyed with  arms.  Their  chariots,  their  saddle-horses,
 (74)  their  equipments  I  took  from  them.  They  fled  to
 save  their  lives.    I  took  ship  and  went  out  upon  the  sea.
 
-it-tak-lu-ma  a-na  e-pe§  kabli  u  tajjazi  a-na  irti-ia  it-bu-ni  (73)  it-
-ti-su-nu  am-dah,-&i-is  XXMVM  sab6  ti-du-ki-§u-nu  ina  kakk6  u-sam-
+it-tak-lu-ma  a-na  e-pe§  kabli  u  tajjazi  a-na  irti-ia  it-bu-ni  (73)  itti-su-nu  am-dah,-&i-is  XXMVM  sab6  ti-du-ki-§u-nu  ina  kakk6  u-sam-
 kit  narkabate-Su-nu  bit-&al-la-§u-nu  (74)  u-nu-ut  tah,azi-§u-nu
 e-kim-su-nu  a-na  §u-zu-ub  napsate-su-nu  e-li-u  ina  elippS  ar-kab
 a-di  kabal  tam-di  a-lik
@@ -19553,10 +18446,8 @@ the  rival  of  the  princes  (4)  of  the  world,  great  kings,
 Assyria,  (6)  son  of  Tukulti-Ninib,  king  of  the  world,
 king  of  Assyria,  conqueror  of  (7)  Enzi,2  Gilzan,  (and)
 Khubushkia.  (8)  Urartu,  I  smote  (?)  their  defeat  (9)  I
-accomplished.  Like  fire  (10)  I  came  upon  them.  Ak-
-huni  (11)  of  the  people  of  Adini,3  together  with  his  gods
-(12)  the  soldiers  of  his  land,  and  the  goods  of  his  house-
-hold I  seized  (13)  for  the  people  of  my  land.     At  that
+accomplished.  Like  fire  (10)  I  came  upon  them.  Akhuni  (11)  of  the  people  of  Adini,3  together  with  his  gods
+(12)  the  soldiers  of  his  land,  and  the  goods  of  his  household I  seized  (13)  for  the  people  of  my  land.     At  that
 
 1  From  a  large  statue  of  the  king,  found  at  Asshur  (see  Andrae,  in
 MitUilungen  der  Deutschen  Orient  Gesellschaft,  No.  21,  pp.  20,  39-42).
@@ -19600,11 +18491,9 @@ SHALMAXESER  III  299
 
 time  (14)  Bir-idri  of  the  land  of  Damascus,  (15)  together
 with  the  twelve  princes,  his  helpers,  (16)  their  defeat  I
-accomplished.  Twenty-nine  thousand  (17)  strong  war-
-riors (IS)  I  prostrated  like  a  simoon  (?)  (19)  The  rest  of
+accomplished.  Twenty-nine  thousand  (17)  strong  warriors (IS)  I  prostrated  like  a  simoon  (?)  (19)  The  rest  of
 his  soldiers,  into  the  (20)  river  Orontes  (21)  I  cast.
-(22)  To  (23)  save  (24)  their  lives  they  went  up.  (25)  Bir-
-idri  forsook  his  land.1  (26)  Hazael,  the  son  of  a  nobody,
+(22)  To  (23)  save  (24)  their  lives  they  went  up.  (25)  Biridri  forsook  his  land.1  (26)  Hazael,  the  son  of  a  nobody,
 (27)  seized  the  throne.  His  numerous  soldiers  (28)  he
 summoned;  to  make  (29)  battle  and  war  against  me  he
 went  forth.  (30)  With  him  I  fought,  his  defeat  (31)  I
@@ -19661,8 +18550,6 @@ bllottMoo  im  p.  293.
 (85)  ina  X   pal. -ia  VIII  Sanltu   (nam)  Purattu  e-l>ir  ala-ni  5a
 
 
-300  CUNEIFORM  PARALLELS
-
 cities  of  Sangara  of  Carchemish.  (86)  I  marched  to  the
 cities  of  Arame,  and  captured  Arne,  his  royal  city,  with
 one  hundred  of  its  villages.
@@ -19672,14 +18559,12 @@ for  the  ninth  time,  the  Euphrates  and  captured  cities
 without  number.  I  went  up  to  the  cities  of  the  Hittite
 country,  and  (88)  of  Hamath,  and  captured  eighty -nine
 cities.  Bir-idri  of  Damascus  and  twelve  kings  of  the
-Hittite  territory  trusted  (89)  to  their  arms.  I  accom-
-plished their  defeat.
+Hittite  territory  trusted  (89)  to  their  arms.  I  accomplished their  defeat.
 
 (m)Sa-an-ga-ra  Gar-ga-mi§-a-a  ak-§u-ud  (86)  a-na  ala-ni  §a  (n>
 me  ak-tf-nb  (alu)  Ar-ni-e  alu  §arru-ti-§u  adi  IC  ala-ni-§u  ak§u-ud
 (87)  ina  XI  pale-ia  IX  Sanitu  (nam)  Purattu  e-bir  ala-ni  a-na  la
-ma-ni  ak§u-ud  a-na  ala-ni  §a  (matu)  bat-ti  (88)  §a  (matu)  A-mat-
-a-a  at-[ta]-rad  LXXXIX  ala-ni  aksu-ud(m)  Bir-id-ri  (matu)
+ma-ni  ak§u-ud  a-na  ala-ni  §a  (matu)  bat-ti  (88)  §a  (matu)  A-mata-a  at-[ta]-rad  LXXXIX  ala-ni  aksu-ud(m)  Bir-id-ri  (matu)
 imeriSu  X  1 1  s;irra-ni  §a  (matu)  Hat-ti  (89)  a-na  id!  a-ba-mi£  iz-zi-zu
 abikta-§u-nu  a§-kun
 
@@ -19711,11 +18596,9 @@ war   and   battle.      (89)  I   fought   with   them    (and)    ac-
 
 1  For  references  to  text  and  translations  see  p.  297.
 
-(84)  ina  X  palc-ia  (85)  VIII  Sanitu  Purat  e-bir  ala-ni  §a  (m)Sa-an-
-gar  (alu)Gar-ga-miS-a-a  ab-bul  a-kur  ina  i§ati  a5ru-up  i§tu  ala-ni
+(84)  ina  X  palc-ia  (85)  VIII  Sanitu  Purat  e-bir  ala-ni  §a  (m)Sa-angar  (alu)Gar-ga-miS-a-a  ab-bul  a-kur  ina  i§ati  a5ru-up  i§tu  ala-ni
 (86)  §a  (alu)  Gar-ga-mi§-a-a  at-tu-mus  a-na  ala-ni  §a  (m)A-ra-me
-ak-tf-rib  (alu)  Ar-ni-e  alu  §arru-ti-§u  aksu-ud  a-di  IC  ala-ni  §a  li-
-me-tu-§u  (87)  ab-bul  a-kur  ina  isati  a§ru-up  dikta-§u-nu  a-duk
+ak-tf-rib  (alu)  Ar-ni-e  alu  §arru-ti-§u  aksu-ud  a-di  IC  ala-ni  §a  lime-tu-§u  (87)  ab-bul  a-kur  ina  isati  a§ru-up  dikta-§u-nu  a-duk
 6al-la-su-nu  a§-lu-la  ina  u-me-su-ma  (m) Bir-id-ri  §a  (matu)
 Imeri-§u  (m)Ir-^u-le-ni  (88)  (matu)  A-ma-ta-a-a  a-di  XII  §arra-ni
 §a  §i-di  tam-di  a-na  id(p\)  a-ba-mi§  it-tak-lu-ma  a-na  e-pes  kabli
@@ -19728,8 +18611,7 @@ complished  their  defeat.  Their  chariots,  horsemen,  [and]
 war  equipments  I  took  from  them;  they  fled  to  save
 their  lives.1
 
-(90)  In  the  eleventh  of  my  years  of  reign  I  de-
-parted from  Nineveh  and  crossed  for  the  ninth  time
+(90)  In  the  eleventh  of  my  years  of  reign  I  departed from  Nineveh  and  crossed  for  the  ninth  time
 the  Euphrates  at  high  water.  I  captured  ninety-seven
 cities  of  Sangar;  (91)  I  captured,  destroyed,  wasted,  and
 burned  with  fire  one  hundred  cities  of  Aj-ame.  I  reached
@@ -19768,16 +18650,12 @@ JJa-ma-ni  as-bat  (§adu)  Ia-ra-ku  a(t)-ta-bal-kat  a-na  ala-ni
 Sa  (matu)  A-ma-ta-a-a  at-tar-da  (02)  (alu)  A§-ta-mar-ku  a-di
 XCIX  ala-ni  ak§u-ud  dikta-§u-nu  a-duk  §al-la-su-nu  a§-lu-la  ina
 u-me-§u-ma  (m)Hir-id-ri  sa  (matu)  imeri-§u  (m)Ir-Jju-li-ni  (matu)
-A-raa-ta-a-a  (93)  a-di  XII  §arra-ni  §a  §i-di  tam-di  a-na  irf(pl)  a-ba-
-niis  it-tak-lu-ma  a-na  e-pe§  kabli  u  lahazi  ina  irti-ia  it-bu-ni  it-ti-
-§u-nu  am-<lab-bi-si  abikta-su-nu  (04)  al-kun  XM  sab^  ti-du-ki-§u-
-nu  ina  kakke  u-§am-kit  narkabati-su-nu  bit-jjal-la-su-nu  u-nu-ut
+A-raa-ta-a-a  (93)  a-di  XII  §arra-ni  §a  §i-di  tam-di  a-na  irf(pl)  a-baniis  it-tak-lu-ma  a-na  e-pe§  kabli  u  lahazi  ina  irti-ia  it-bu-ni  it-ti-
+§u-nu  am-<lab-bi-si  abikta-su-nu  (04)  al-kun  XM  sab^  ti-du-ki-§unu  ina  kakke  u-§am-kit  narkabati-su-nu  bit-jjal-la-su-nu  u-nu-ut
 t.i-}j:i-zi-su-nu  e-kini-su-rm  ina  ta-i:i-ur-ti-ia  (alu)  Ap-pa-ra-zu
 iu  dan-nu-ti-§u  §a  (m)A-ra-me  ak5u-ud  ina  u-me-§u-ma
 tu    §a    (m)Kal-pa-ru-un-di    (matu)    Pa-ti-na-a-a    kaspu(pl)
 
-
-302  CUNEIFORM  PARALLELS
 
 horses,  cattle,  sheep,  (96)  stuffs,  and  cloths.1    I  went  up
 to  the  Amanus;  I  cut  beams  of  cedar  wood.
@@ -19802,8 +18680,7 @@ The  Bull  Inscription  *
 
 broad  land  without  number.  (100)  With  one  hundred
 and  twenty  thousand  troops  I  crossed  the  Euphrates  at
-high  water.  At  that  time  Bir-idri  of  Damascus,  Ir-
-khuleni  of  Hamath,  (101)  with  twelve  kings  of  the  sea-
+high  water.  At  that  time  Bir-idri  of  Damascus,  Irkhuleni  of  Hamath,  (101)  with  twelve  kings  of  the  sea-
 coast,  above  and  below,8  called  out  their  troops  without
 number,  and  marched  against  me.  I  fought  with  them
 and  (102)  accomplished  their  defeat;  I  destroyed  their
@@ -19822,12 +18699,10 @@ irti-ia  it-bu-ni  [it-ti-su-nu]  (92)  am-dah,-h>is  abikta-su-nu  as-kun
 Bull:
 
 ina  XIV  pale-ia  ma-a-tu  rapas-tu  a-na  la  ma-ni  ad-ki  it-ti  (100)
-I.C.M,XX.M  ummanate-ia  (nam)  Purat  ina  mi-li-sa  e-bir  ina  u-me-
-su-ma  (m)Bir-id-ri  sa  (matu)  DimaSku  (m)Ir-bu-le-ni  (matu)  A-ma-
+I.C.M,XX.M  ummanate-ia  (nam)  Purat  ina  mi-li-sa  e-bir  ina  u-mesu-ma  (m)Bir-id-ri  sa  (matu)  DimaSku  (m)Ir-bu-le-ni  (matu)  A-ma-
 ta-a-a  a-di  (101)  XII  sarra-ni  sa  §i-di  tam-di  eliti  u  saliti  ummanate-
 §u-nu  ma'adati  a-na  la  ma-ni  id-ku-ni  a-na  irti-ia  it-bu-ni  it-ti-su-nu
-am-dab-h>?i  (102)  abikta-su-nu  as-kun  narkabati-su-nu  bit-fcal-la-
-su-nu  a-si-i'  u-nu-ut  tajjazi-su-nu  e-kim-§u-nu  a-na  §u-zu-ub  nap§ate-
+am-dab-h>?i  (102)  abikta-su-nu  as-kun  narkabati-su-nu  bit-fcal-lasu-nu  a-si-i'  u-nu-ut  tajjazi-su-nu  e-kim-§u-nu  a-na  §u-zu-ub  nap§ate-
 su-nu  e-li  u
 
 
@@ -19889,15 +18764,11 @@ kun      it-ii-§u     am-dali-bi-is     (9)   al.ikta-sn     as-knn      X\'IM
 Su-zu-ub  (14  li  arki-su  ar-tcnli  (1.3)  ina  (alu)  Di-ma5-ki
 
 
-304  CUNEIFORM  PARALLELS
-
 (16)  I  cut  down  his  parks  and  marched  to  the  mountains
-of  (17)  the  Hauran.  Cities  (18)  without  number  I  de-
-stroyed, wasted,  [and]  (19)  burned  with  fire,  and  carried
+of  (17)  the  Hauran.  Cities  (18)  without  number  I  destroyed, wasted,  [and]  (19)  burned  with  fire,  and  carried
 away  booty  (20)  without  number.  (21)  I  marched  to
 the  mountains  of  Ba'li-ra'si,1  (22)  a  mountain  which  is
-at  the  head  of  the  sea,  (23)  and  set  up  there  my  royal  por-
-trait. At  that  time  I  received  (24)  the  tribute  of  the  Ty-
+at  the  head  of  the  sea,  (23)  and  set  up  there  my  royal  portrait. At  that  time  I  received  (24)  the  tribute  of  the  Ty-
 rians,  (25)  Sidonians,  and  of  Jehu,  (26)  of  the  land  of  Omri.3
 
 Obelisk  Legend  Beneath  the  Reliefs
@@ -19909,8 +18780,7 @@ the  king,  and  balsam  woods  I  received  from  him.
 1  At  tin-  front  of  the  Nahr-el-Kelb,  the  Dog  River,  a  short  distance
 above  Beirut.
 
-2  Jehu  of  Israel.  The  Assyrian  expression  mar  (fumri,  formerly  trans-
-lated "son  of  Omri,"  mfm  rather  "the  people  of  the  lend  <>f  Omri,"
+2  Jehu  of  Israel.  The  Assyrian  expression  mar  (fumri,  formerly  translated "son  of  Omri,"  mfm  rather  "the  people  of  the  lend  <>f  Omri,"
 as  Bezold  was  the  first  to  discover  (Catalogue  of  the  Cuneiform  Tablets
 .  .  .  of  the  British  Museum,  v,  p.  1994).  See  further  Bezold,  Ninive
 und  Babylon,  3te  Auf.  (Leipzig,  1909),  p.  51.
@@ -19918,8 +18788,7 @@ und  Babylon,  3te  Auf.  (Leipzig,  1909),  p.  51.
 :ru-ti-su  e-sir-su  (16)  kire-su  ak-kis  a-di  sade(e)  (17)  (matu)
 IJ.i-u-r.t-ni  a-lik  alani(ni)  (18)  a-na  la  ma-ni  a-bul  a-kur  (19)  ina
 isati  asrup(up)  sal-la-su-nu  (20)  a-na  la  ma-ni  as-lu-la  (21)  a-di
-Sade(e)  flnati)  Ba-'-li-ra-'-si  (22)  Sa  r6§  tam-di  a-lik  sa-lam  sarru-
-sia  lib-bi  as  (!)-kup  ina  u-me-su-ma  (24)  ma-da-tu  sa
+Sade(e)  flnati)  Ba-'-li-ra-'-si  (22)  Sa  r6§  tam-di  a-lik  sa-lam  sarrusia  lib-bi  as  (!)-kup  ina  u-me-su-ma  (24)  ma-da-tu  sa
 Sur-ra-a-a  (25)  (matu)  §i-du-na-a-a  Sa  (m)Ia-u-a  (26)  mar
 Hu-um-ri-i  am-h,ur
 Obelisk  Legend:
@@ -19952,15 +18821,13 @@ V.  ADAD-NIRARI  IV  (812-783  B.  C.)
 (1)  The  palace  of  Adad-nirari,  the  great  king,  the
 powerful  king,  king  of  the  world,  king  of  Assyria,  the
 king  over  whom  from  his  childhood  Ashur,  king  of  the
-Igigi2  had  watched,  and  had  presented  him  with  a  king-
-dom (2)  beyond  compare,  whose  lordship,  like  .  .  .
+Igigi2  had  watched,  and  had  presented  him  with  a  kingdom (2)  beyond  compare,  whose  lordship,  like  .  .  .
 had  proclaimed  over  the  people  of  Assyria,  and  (3)  had
 established  his  throne;  the  lofty  priest,  who  adorns
 E-sharra,3  the  unwearied  .  .  .  ,  who  holds  in  his  hand
 the  command  of  E-kur;  (4)  who  goes  about  in  the  service
 of  Ashur  his  lord,  and  the  kings  of  the  four  quarters  of
-the  earth  (5)  has  he  cast  down  at  his  feet;  who  has  con-
-quered from  Siluna,  (6)  which  lies  in  the  east,  the  lands
+the  earth  (5)  has  he  cast  down  at  his  feet;  who  has  conquered from  Siluna,  (6)  which  lies  in  the  east,  the  lands
 of  Saban,  Ellipi,  Kharkhar,  Araziash,  (7)  Mesu,  Madai,
 Gizilbunda,  in  its  entire  extent,  (8)  Munna,  Parsua,
 Allabria,  Abdadana,  (9)  Nairi,  in  its  entire  extent,  Andiu,
@@ -19979,12 +18846,10 @@ Texte  und  Bilder,  I,  pp.  112,  113.
 1  The  temple  of  Ashur,  called  also  Ekur.
 
 (1)  e-kal  (m)  Adad-nirari  sarru  rabil  sarru  dan-nu  8ar  kiSsati  sar
-Assur  sarru  sa  ina  mari-su  Asur  sar  (ilu)  Igigi  ut-tu-su-ma  mal-
-kut  (2)  la  sa-na-an  u-mal-lu-u  ka-tus-su  ri-'-u-su  kima  ri-ti  eli  aide
+Assur  sarru  sa  ina  mari-su  Asur  sar  (ilu)  Igigi  ut-tu-su-ma  malkut  (2)  la  sa-na-an  u-mal-lu-u  ka-tus-su  ri-'-u-su  kima  ri-ti  eli  aide
 (matu)  Assur  u-te-bu-ma  (3)  u-sar-si-du  kussa-su  sangu  ellu  za-nin
 E-sar-ra  la  mu-par-ku-u  mu-rim  pa-an  E-kur  (4)  sa  ina  tukul-ti
-(ilu)  Asur  beli-su  illi-ku-ma  mal-ki  sa  kib-rat  irbit-ti  (5)  u-sik-
-ni-su  a-na  sepa-su  ka-sid  istu  (sadu)  Si-lu-na  (6)  sa  na-pah,  (ilu)
+(ilu)  Asur  beli-su  illi-ku-ma  mal-ki  sa  kib-rat  irbit-ti  (5)  u-sikni-su  a-na  sepa-su  ka-sid  istu  (sadu)  Si-lu-na  (6)  sa  na-pah,  (ilu)
 sam-§i  (matu)  sab  el-li-pi  (matu)  ^ar-|}ar  (matu)  A-ra-zi-a§
 (7)  (matu)  Me-su  (matu)  Ma-da-a-a  (matu)  Gi-zil-bu-un-da  ana
 si-hjr-ti-su  (8)  (matu)  Mu-un-im  (main)  1'ur-su-a  (matu)  Al-lab-ri-ia
@@ -19995,11 +18860,8 @@ Purattu  (matu)  JJatti  (matu)  A-mur-ri  ana  si-hir-ti-isa  (12)  (matu)
 Sur-ru   (matu)  §i-du-nu  mat  ^u-um-ri-i  (matu)  U-du-mu  (matu)
 
 
-306  CUNEIFORM  PARALLELS
-
 Sidon,  the  land  of  Omri,1  Edom,  Palastu,2  (13)  to
-the  coast  of  the  great  sea  of  the  west  had  cast  them-
-selves at  my  feet,  (14)  I  laid  tribute  and  taxes  upon
+the  coast  of  the  great  sea  of  the  west  had  cast  themselves at  my  feet,  (14)  I  laid  tribute  and  taxes  upon
 them.
 
 - '  (15)  I  marched  against  Damascus,  I  shut  up  Mari',
@@ -20057,22 +18919,19 @@ NEBO  STATUE  307
 
 (1)  To  Nebo,  the  powerful,  the  exalted,  the  child  of
 Esagil,  the  majestic  leader,  (2)  the  strong  prince,  the  son
-of  Xudimmut,2  whose  command  is  exalted,  the  (3)  mes-
-senger of  cunning  things,  who  rules  over  all  heaven  and
+of  Xudimmut,2  whose  command  is  exalted,  the  (3)  messenger of  cunning  things,  who  rules  over  all  heaven  and
 earth,  who  knows  all  things,  (4)  whose  ear  is  wide  open,
 who  holds  the  tablet  stylus,  who  takes  the  prisoner's
 hand,  the  merciful,  the  sorcerer,  who  (5)  is  able  to  cleanse
 or  bewitch  the  beloved  of  Bel,  the  lord  of  lords,  (6)  whose
-power  is  beyond  dispute,  without  whom  naught  is  de-
-termined in  heaven,  (7)  the  compassionate,  the  forgiving,
+power  is  beyond  dispute,  without  whom  naught  is  determined in  heaven,  (7)  the  compassionate,  the  forgiving,
 whose  condescension  is  good,  who  dwells  in  Ezida,  which
 is  in  Calah,  (8)  the  great  lord,  his  lord  has  this  been
 made  and  presented,  for  the  life  of  Adad-nirari,  the  king
 oPAshur,  his  lord,  and  for  the  life  (9)  of  Sammuramat,3
 mistress  of  the  palace,  his  mistress,  by  Bel-tarsi-ilu-ma,
 (10)  governor  of  Calah,  Khamadi,  Sirgana,  Temeni,
-Ialuna,  (11)  for  his  life,  for  the  length  of  his  days,  in-
-crease of  his  years,  the  wellbeing  of  his  house,  and  his
+Ialuna,  (11)  for  his  life,  for  the  length  of  his  days,  increase of  his  years,  the  wellbeing  of  his  house,  and  his
 
 
 J  Published  I  R.,  35,  No.  2;  Abel  and  Winckler,  Keilschrifttexte  zum
@@ -20116,8 +18975,6 @@ matu)  Te-mi-ni  (matu)  Ia-lu-na  (11)  a-na  bal/it  napsati-
 iu  arak  umi-Su  §um-ud  §anati-§u  Sul-mu  biti-§u  u  niSi-§u  la  ba5u
 
 
-308  CUNEIFORM  PARALLELS
-
 people,  that  illness  may  not  befall  his  posterity.  (12)  Let
 every  later  prince  trust  in  Nebo,  trust  not  in  any  other
 god.1
@@ -20153,8 +19010,7 @@ line,  but  a  usurper  raised  to  the  throne  by  his  own
 ability.2
 
 1  The  name  in  Assyrian  is  Tukulti-abal-esarra,  which  signifies,  "My
-help  is  in  the  son  of  Esharra."  The  name  in  the  Old  Testament  is  writ-
-ten regularly  Tiglathpileser,  but  appears  erroneously  written  Tilgath-
+help  is  in  the  son  of  Esharra."  The  name  in  the  Old  Testament  is  written regularly  Tiglathpileser,  but  appears  erroneously  written  Tilgath-
 pihiest-r  in  1  Chron.  5.  6,  26,  and  2  Chron.  28.  20.  The  name  is  written
 exactly  the  same  as  in  the  former  Hebrew  writing  in  the  inscription  of
 Panammu  found  at  Sinjirli  (Ausgrabungen  in  Senrischirli,  veroffentlicht
@@ -20176,13 +19032,11 @@ hold  in  check  the  Aramaeans,  who  were  invading  the
 land  from  the  south,  threatening  to  engulf  Babylonian
 civilization  and  supplant  it  with  their  own.  They  were
 in  possession  of  Sippar  and  Dur-Kurigalzu,  from  which
-every  semblance  of  Nabonassar's  dominion  had  dis-
-appeared. It  is  probable  that  he  had  asked  for  the
+every  semblance  of  Nabonassar's  dominion  had  disappeared. It  is  probable  that  he  had  asked  for  the
 intervention  of  his  powerful  neighbor,  for  Tiglathpileser
 was  hailed  as  a  deliverer  as  he  marched  southward.  He
 drove  the  Aramaeans  before  him,  and  reorganized  the
-administrative  system  of  the  country.  Nabonassar  re-
-tained, indeed,  the  royal  title,  but  the  real  king  was
+administrative  system  of  the  country.  Nabonassar  retained, indeed,  the  royal  title,  but  the  real  king  was
 Tiglathpileser.
 
 Two  expeditions  east  of  the  Tigris  speedily  brought
@@ -20190,8 +19044,7 @@ those  great  provinces  of  which  Namri  was  the  chief
 into  subjection,  but  Media  still  remained  practically
 independent.
 
-During  the  period  of  Assyrian  decline,  before  Tiglath-
-pileser came  to  power,  the  kingdom  of  Khaldia  (Urartu)
+During  the  period  of  Assyrian  decline,  before  Tiglathpileser came  to  power,  the  kingdom  of  Khaldia  (Urartu)
 had  enjoyed  a  succession  of  kings  whose  prowess  had
 gradually  won  all  that  had  been  lost  to  Assyria  under
 the  vigorous  blows  of  Shalmaneser  III.  Sarduris  II,
@@ -20209,12 +19062,9 @@ claim  good.    Tijrhitlipileser  accepted  the  challenge,  and
 irst  blow  by  laying  siege  to  Arpad.    Sarduris
 
 
-310  CUNEIFORM  PARALLELS
-
 responded,  not  by  attempting  to  assist  the  endangered
 city,  but  by  striking  directly  at  Assyria.  Tiglathpileser
-turned  upon  him,  and  the  two  armies  met  in  the  south-
-eastern part  of  Kummukh,1  where  the  Assyrians  gained
+turned  upon  him,  and  the  two  armies  met  in  the  southeastern part  of  Kummukh,1  where  the  Assyrians  gained
 a  victory  and  pursued  the  fleeing  Sarduris  as  far  as  the
 Euphrates  north  of  Amid.  Arpad  held  out  for  three
 years  (742-740),  and  when  finally  reduced  it  was  made
@@ -20241,8 +19091,7 @@ to  pay  tribute  when  an  Assyrian  army  was  standing
 near  by  threatening  reprisals;  it  was  quite  a  different
 matter  to  send  treasure  away  to  Assyria  when  there
 was  none  to  enforce  its  collection.  Nineteen  states
-united  to  resist  the  payment,  emboldened  by  the  ab-
-sence of  Tiglathpileser,  among  them  Hamath,  Damascus,
+united  to  resist  the  payment,  emboldened  by  the  absence of  Tiglathpileser,  among  them  Hamath,  Damascus,
 Kummukh,  Tyre,  Gebal,  Que,  Melid,  Carchemish,  and
 
 
@@ -20258,8 +19107,7 @@ leader  among  them.  Tiglathpileser  came  west  at  once
 and  captured  "the  city  of  Kullani,"2  as  the  eponym
 canon  informs  us,  but  with  the  order  of  the  campaign
 we  are,  unhappily,  not  fully  acquainted  because  of  the
-fragmentary  character  of  the  king's  annals.  The  re-
-maining states,  except  Yaudi,  paid  the  tribute,  and  so
+fragmentary  character  of  the  king's  annals.  The  remaining states,  except  Yaudi,  paid  the  tribute,  and  so
 for  a  time  at  least  assured  their  security.  The  territory
 of  the  rebels,  in  its  northern  portion,  received  30,000
 colonists  from  Ulluba  and  Kilkhi,  and  thousands  were
@@ -20270,8 +19118,7 @@ north,  and  over  it  was  seated  as  governor  the  son  of
 Tiglathpileser,  who  afterward  succeeded  to  the  throne
 under  the  name  of  Shalmaneser.
 
-The  difficulties  in  the  west  were  by  no  means  con-
-cluded; they  were,  indeed,  scarcely  more  than  well
+The  difficulties  in  the  west  were  by  no  means  concluded; they  were,  indeed,  scarcely  more  than  well
 begun.  Damascus  had  sent  tribute,  but  it  had  not
 surrendered,  and  no  Assyrian  king  had  set  foot  within
 its  walls.  Rezon  was  now  king  and  was  determined  to
@@ -20283,15 +19130,12 @@ Azariah  of  Judah  (2  Kings  15.  1,  2),  called  also  Uzziah  (2  Chron.  2
 and  the  name  "Ja'udi,"  "Yaudi,**  corresponds  perfectly  with  "Judah."
 It  was  natural,  therefore,  that,  as  they  were  contemporaneous,  the
 King  Azariah  of  these  inscriptions  should  be  accepted  as  the  Azariah
-(Uzziah)  of  Judah;  so  Schroder  argued  (Keilinschriften  und  Geschicht-
-forschung,  pp.  395-421),  and  so  scholars  generally  agreed,  as  I  also  did
+(Uzziah)  of  Judah;  so  Schroder  argued  (Keilinschriften  und  Geschichtforschung,  pp.  395-421),  and  so  scholars  generally  agreed,  as  I  also  did
 myself  (History  of  Babylonia  and  Assyria,  ii,  pp.  119ff.).  It  is  now  clear
 that  this  is  incorrect.  The  land  here  referred  to  is  a  district  of  Sam'al
 (Zenjirli),  of  which  Panammu  was  king,  whose  inscription,  found  at
-Zenjirli,  repeatedly  invokes  the  gods  of  Ja'udi  (Ausgrabungen  in  Send-
-schirli  I,  Siitthrilunqm  aus  den  Orientalischen  Sammlungen,  Konigl.
-Museen  zu  Berlin,  Heft  xi,  Berlin,  1893,  pp.  64,  79).  The  credit  of  j>.  r-
-c* -iying  these  facts  belongs  in  the  first  instance  to  Winckler  (Altorien-
+Zenjirli,  repeatedly  invokes  the  gods  of  Ja'udi  (Ausgrabungen  in  Sendschirli  I,  Siitthrilunqm  aus  den  Orientalischen  Sammlungen,  Konigl.
+Museen  zu  Berlin,  Heft  xi,  Berlin,  1893,  pp.  64,  79).  The  credit  of  j>.  rc* -iying  these  facts  belongs  in  the  first  instance  to  Winckler  (Altorien-
 talische  Forschungen,  i,  p.  1,  Das  Syrische  Land  J  audi  und  der  angebliche
 Az/irja  von  Juda).
 
@@ -20301,8 +19145,6 @@ Amos  6.  2  is  called  Calneh.     See  Gray  and  Driver  on  the  passages.
 
 •  2  Kings  15.  19.
 
-
-312  CUNEIFORM  PARALLELS
 
 strategy  of  Tiglathpileser  was  of  the  highest  order,  and
 his  plans  for  strangling  Damascus  proceeded  steadily
@@ -20320,25 +19162,19 @@ presence  of  the  Assyrian  menace  these  western  states
 were  ever  engaged  in  a  game  of  small  and  selfish  politics.
 Rezon  of  Damascus  and  Pekah  now  united  to  wreak
 vengeance  upon  Ahaz  and  enrich  their  own  kingdoms.
-Helpless  before  such  a  threat,  Ahaz  appealed  to  Tiglath-
-pileser for  assistance,  an  appeal  certain  of  a  speedy  hear-
+Helpless  before  such  a  threat,  Ahaz  appealed  to  Tiglathpileser for  assistance,  an  appeal  certain  of  a  speedy  hear-
 ing. Tiglathpileser  determined  to  strike  Samaria  first,  and
 immediately  upon  his  reappearance  in  the  west  the  Syro-
-Phcenician  allies  withdrew  from  southern  Judah.  Tig-
-lathpileser apparently  entered  Samaria  from  the  plain  of
-Ksdraelon,  and  took  Ijon,  Abel-Beth-Ma'aka,  Janoah,  Qa-
-desh,  and  Hazor,  and  overran  the  whole  of  Gilead,Galilee,
-and  Naphtali,  carrying  away  large  numbers  into  captiv-
-ity.1 Pekah  was  slain  by  a  party  of  assassins,  and  Hosea
+Phcenician  allies  withdrew  from  southern  Judah.  Tiglathpileser apparently  entered  Samaria  from  the  plain  of
+Ksdraelon,  and  took  Ijon,  Abel-Beth-Ma'aka,  Janoah,  Qadesh,  and  Hazor,  and  overran  the  whole  of  Gilead,Galilee,
+and  Naphtali,  carrying  away  large  numbers  into  captivity.1 Pekah  was  slain  by  a  party  of  assassins,  and  Hosea
 appointed  king  in  his  stead  by  the  Assyrian  monarch.
 
 Tiglathpileser  was  now  free  to  turn  to  the  far  greater
 task  of  overcoming  Damascus.  Rezon  met  him  and
 was  defeated,  making  a  very  narrow  personal  escape.
-The  whole  country  was  desolated,  Tiglathpileser  boast-
-ing that  he  had  destroyed  at  this  time  five  hundred  and
-ninety-one  cities,  whose  inhabitants,  numbering  thou-
-sands, were  carried  away,  with  all  their  possessions,  to
+The  whole  country  was  desolated,  Tiglathpileser  boasting that  he  had  destroyed  at  this  time  five  hundred  and
+ninety-one  cities,  whose  inhabitants,  numbering  thousands, were  carried  away,  with  all  their  possessions,  to
 
 i  2  Kings  15.  29.
 
@@ -20348,37 +19184,31 @@ TIGLATHPILESER  IV  ANNALS  313
 Assyria.     At  last,  about  the  end  of  732,  Damascus  fell
 into  his  hands.
 
-The  success  of  Tiglathpileser  IV  in  the  west  had  ex-
-ceeded the  dreams  of  Shalmaneser  III,  who  first  began
+The  success  of  Tiglathpileser  IV  in  the  west  had  exceeded the  dreams  of  Shalmaneser  III,  who  first  began
 these  invasions.  By  his  colonizing  methods  he  had
 begun  the  assimilation  of  these  diverse  populations
 into  one  common  whole.  He  had  extended  Assyrian
 commerce  across  the  Euphrates  valley  and  over  all
 Syria  to  the  Phoenician  and  Philistine  cities.  Had
 his  people  been  native  to  the  sea-coast,  he  might
-have  undertaken  to  snatch  the  commerce  of  the  Medi-
-terranean. The  concluding  years  of  Tiglathpileser's
+have  undertaken  to  snatch  the  commerce  of  the  Mediterranean. The  concluding  years  of  Tiglathpileser's
 reign  were  occupied  in  righting  troublous  situations  in
 Babylonia.  In  733  Nabonassar  died  and  was  succeeded
 by  his  son,  Nabunadinzer,  who  died  in  the  second  year
-of  his  reign  by  the  hands  of  an  assassin,  Nabu-shum-
-ukin,  who  reigned  only  one  month,  to  be  deposed  by
+of  his  reign  by  the  hands  of  an  assassin,  Nabu-shumukin,  who  reigned  only  one  month,  to  be  deposed  by
 Ukinzer,  a  Chaldean  prince  of  Bit-Amukkani.  This  was
 in  732,  and  Tiglathpileser  was  in  camp  before  Damascus.
 In  731  he  appeared  determined  to  establish  a  new  order.
-Ukinzer  fled  from  Babylon  on  his  approach,  but  pre-
-pared for  a  siege  in  his  old  capital  of  Sapia.  Tiglath-
+Ukinzer  fled  from  Babylon  on  his  approach,  but  prepared for  a  siege  in  his  old  capital  of  Sapia.  Tiglath-
 pileser was  unable  to  take  it,  perhaps  on  account  of  the
 lateness  of  the  season.  It  was  taken  in  730,  and  on  New
-Year's  Day,  728,  Tiglathpileser  was  crowned  king  of  Baby-
-lon.   In  the  month  of  Tibet,  727,  the  great  king  died.
+Year's  Day,  728,  Tiglathpileser  was  crowned  king  of  Babylon.   In  the  month  of  Tibet,  727,  the  great  king  died.
 
 1.  ANNALS1  (738)
 103  .     .     .     [In]  the  course  of  my  campaign  [I  received]
 the  tribute  of  the  kings  of  [.     .     .]
 
-dished,  transliterated,  and  translated  by  Rost,  Die  Keilschri/t-
-texte  Tiglat-Pileaer*,  iii  (1808).     Bee  i.  pp.  ISff.,  Plates  xx,  xxi,  xv,  xvi.
+dished,  transliterated,  and  translated  by  Rost,  Die  Keilschri/ttexte  Tiglat-Pileaer*,  iii  (1808).     Bee  i.  pp.  ISff.,  Plates  xx,  xxi,  xv,  xvi.
 <>  Winckler,   KeUinschriftliches  Textbuch  rum   Altot
 if.,  pp.  28ff.;   Ungnad  in  Gressniann,  Altorientalische   Texte
 und  Bilder,  i.  pp.  ll.'^fT.
@@ -20386,14 +19216,11 @@ und  Bilder,  i.  pp.  ll.'^fT.
 (103)  .     .     .     [ina]  me-ti-ik    girri-ia    man-da-at-tu  6a   Sarfrani]
 
 
-314  CUNEIFORM  PARALLELS
-
 104  ..     .     Az]ariah  of  Ja'udi  (Yaudi)  like    .     .     .
 
 105  .     .     .     Azariah  of  Ja'udi  in
 
 106  .     .     .     without  number  exalted  to  heaven
-107
 
 .     .     .     with  eyes  as  from  heaven
 
@@ -20441,11 +19268,9 @@ k>-i  §a  ul-tu  sami-e  .  .  .  (108)  .  .  .  [i]-na  mit-bu-us  zu-ki  sep
 ip-lab  •  •  •  (HO)  .  .  .  ab-bul  ak-kur  ina  [iSati  a§-ru-up]
 .  .  .  (Ill)  .    .    .   [a-na]  [Az-ri-i]a-a-u  e-ki-mu  u-dan-ni-6u-ma    .    .    .
 
-(112)  .  .  .  kima  (isu)  gup-ni  .  .  .  (113)  .  .  .  §um-ru-
-sa-at  .  .  .  (114).  .".  id-lit-ma  sa-ka-at  .  .  .  (115).  .  .
+(112)  .  .  .  kima  (isu)  gup-ni  .  .  .  (113)  .  .  .  §um-rusa-at  .  .  .  (114).  .".  id-lit-ma  sa-ka-at  .  .  .  (115).  .  .
 Sit^ku-nu-ma  mu-sa-su  .  .  .  (116)  .  .  .  [u]-sa-pil-ma  .  .  .
-(117)  .  .  .  tuklati-su  u-ra-kis  a-na  .  .  .  (118)  .  .  .  u-Sa-
-az-bil-§u  nu-ti-ma  .  .  .  (119).  .  .  su  rabuti  kima  kar  .  .  .
+(117)  .  .  .  tuklati-su  u-ra-kis  a-na  .  .  .  (118)  .  .  .  u-Saaz-bil-§u  nu-ti-ma  .  .  .  (119).  .  .  su  rabuti  kima  kar  .  .  .
 [Lines  120-122  are  totally  destroyed .1    (123)  .    .    .    (m)Az-ri-a-[u]
 
 .  .  ekal  sarru  (?)-ti-ia  .  .  .  (124)  .  .  .  ma-da-at-tu  ki-i
@@ -20529,8 +19354,6 @@ a-alj  tani-tim  sa  sul-mu  (ilu)  §am-§i  Sa  ina  b>-i!-t>  u  kul-lul-ti  
 i)  su-ud-sak-ia  (ain.'ln)  Ml  piljati  i-li'-sii-nu  as-kun  XXXMIIIC
 
 
-316  CUNEIFORM  PARALLELS
-
 133  .  .  .  from]  their  cities,  and  in  the  district  of
 Ku  .  .  .  settled  them.  .  .  .  1,223  people
 I  settled  in  the  district  of  Ulluba.1
@@ -20574,13 +19397,11 @@ nise  [as-su-h,a-am-ma]  (133)  [ultu  ki-rib]  alani-su-nu-ma  pifcat  (alu)
 ku  .  .  .  u-sa-as-bit  MIICXXIII  nise  ina  pihat  (matu)  Ul-lu-ba
 u-se-sib
 
-(150)  [.  .  .]  ma-da-at-tu  §a(m)Ku-us-ta-as-pi  (alu)  Ku-um-mu-
-fca-a-a  (m)Ra-eun-nu  (matu)  Dimaski  (m)Me-in-hj-im-me  (alu)  Sa-
+(150)  [.  .  .]  ma-da-at-tu  §a(m)Ku-us-ta-as-pi  (alu)  Ku-um-mufca-a-a  (m)Ra-eun-nu  (matu)  Dimaski  (m)Me-in-hj-im-me  (alu)  Sa-
 me-ri-na-a-a  (151)  Qi-ru-um-mu  (alu)  Sur-ra-a-a  (m)Si-bi-it-ti-bi-'-
 li  (alu)  Gu-ub-la-a-a  (m)U-ri-ik-ki  (matu)  Ku-u-a-a  (m)Pi-si-ri-is
 (alu)  Gar-ga-mis-a-a  (m)E-ni-ilu  (152)  (alu)  JJa-am-ma-ta-a-a
-(m)Pa-na-am-mu-u  (alu)  Sa-am-'-la-a-a  (m)Tar-bu-la-ra  (matu)  Gur-
-gu-ma-a-a  (m)Su-lu-ma-al  (matu)  Me-lid-da-a-a  (m)Da-di-i-lu
+(m)Pa-na-am-mu-u  (alu)  Sa-am-'-la-a-a  (m)Tar-bu-la-ra  (matu)  Gurgu-ma-a-a  (m)Su-lu-ma-al  (matu)  Me-lid-da-a-a  (m)Da-di-i-lu
 (153)  (alu)  Kas-ka-a-a  (m)U-as-sur-me  (matu)  Ta-bal-a-a
 (m)Us-bi-it-ti  (matu)  Tu-na-a-a  (m)Ur-bal-la-a  (matu)  Tu-Jja-na-a-a
 (m)Tu-ba-am-me  (alu)  IS-tu-un-da-a-a  (154)  (m)U-ri-im-me  (alu)
@@ -20602,7 +19423,6 @@ WESTERN  CAMPAIGN  317
 
 cast  down  with  my  arms
 
-196
 
 before  him
 
@@ -20677,8 +19497,6 @@ n)    ul   e-zib    (205)  .         .     [(alu)]    Ha-a-<l:i-ra   bit    abi-
 (ra)Ra-sun-ni  (matu)  DimaSki  (206)  [a-5ar]   i-'-al-du  al-me  ak-5ud
 
 
-318  CUNEIFORM  PARALLELS
-
 207  .     .     .     their  cattle,  [and]  sheep  I  took  away.    750
 
 prisoners  of  Kurussa
@@ -20729,8 +19547,7 @@ camels,
 
 1  Arabian  tribe,  as  are  also  the  following.
 
-VIIIC  nis6  a-di  mar-si-ti-su-nu  (207)  .  .  .  alpe-su-nu  si-e-ni-
-su-nu  as-lu-la  DCCL  sal-la-at  (alu)  Ku-ru-us-sa-a  (208)  .  .  .
+VIIIC  nis6  a-di  mar-si-ti-su-nu  (207)  .  .  .  alpe-su-nu  si-e-nisu-nu  as-lu-la  DCCL  sal-la-at  (alu)  Ku-ru-us-sa-a  (208)  .  .  .
 [sal-la-at]  (alu)  Ir-ma-a-a  DL  sal-la-at  (alu)  Me-tu-na  as-lu-la
 DXCI  alani  (209)  .  .  .  §a  XVI  nagi-e  sa  (matu)  DimaSki  ki-ma
 til  a-bu-bi  u-ab-bit  (210)  .  .  .  (m)Sa-am-si  sar-rat  (matu)  A-ri-bi
@@ -20819,8 +19636,6 @@ A-ru-ma    (alu)     Ma-ru-um     .     .     .     (235)  .     .     .     [(r
 :u)  As-ka-lu-na-a-a  ina  a-di-[ia  ib-te-ma  it-ti-ia]  (236)  itta-bal-
 
 
-320  CUNEIFORM  PARALLELS
-
 237  Rukibtu,  the  son  of  Mitinti  seated  himself  on  his
 
 throne.     In  order
@@ -20829,8 +19644,7 @@ throne.     In  order
 
 .     .     .     500     .     .     .
 
-239 and,  into  his  city  I  en-
-tered, 15  cities  [of  its  environs,
+239 and,  into  his  city  I  entered, 15  cities  [of  its  environs,
 
 240  I  took  from  his  land  and]  gave  them  to  Idi-bi'il  of
 Arubu.
@@ -20882,8 +19696,7 @@ i.  e.,  "lower."
 *  Israel.
 
 (1)  .  .  .  ki  §a  .  .  .  (alu)  $a-ta-rik-ka  a-di  (sadu)  Sa-u-a
-(2)  .  .  .  (alu)  Gu-ub-la  (alu)  Si-mir-ra  (alu)  Ar-ka-a  (alu)  Zi-
-mar-ra  (3)  .  .  .  [(alu)]  Us-nu-u(alu)  Si-an-nu  (alu)  Ri-'-ra-ba-a
+(2)  .  .  .  (alu)  Gu-ub-la  (alu)  Si-mir-ra  (alu)  Ar-ka-a  (alu)  Zimar-ra  (3)  .  .  .  [(alu)]  Us-nu-u(alu)  Si-an-nu  (alu)  Ri-'-ra-ba-a
 (alu)  Ri-'-si-su-u  (4)  .  .  .  alani (ni)  §a  tam-tim  e-li-te  a-bil  VI
 (amelu)  §u-ucl-§ak-[ia]  (5)  (amelu)  brl  pihati  ili]-§u-nu  as-kun  (alu)
 Ra-a§-pu-(u)na  §a  a-a^j  tam-tam  e-li-ti  ...  (6)  ni-te  (alu)
@@ -20923,8 +19736,7 @@ stuffs
 
 15 I  received    .    .    .    Bit  Khumria
 
-16 the     entirety     of     its     peo-
-ple
+16 the     entirety     of     its     people
 
 17  their  goods  to  Assyria  I  carried  away.     As  Pekah,
 their  king,  they  had  deposed,  Hosea
@@ -20968,9 +19780,6 @@ sarn'j-ti]-ina  rli-su-nu   as-knn    X  gun  Jju[raai]     .     .     .     gu
 .    ti-su-nu  ara-h,ur-8u-ma
 
 
-322  CUNEIFORM  PARALLELS
-
-
 4.  NIMROUD  TABLET
 
 
@@ -20987,8 +19796,7 @@ Kaska],
 
 Tukhan,    Tukhamme    of    Ishtunda,    Urimme    of
 Khushimna,
-GO  Matan-bi'l  of  Arvad,  Sanipu  of  Bit-Amman,2  Sala-
-manu  of  Moab,
+GO  Matan-bi'l  of  Arvad,  Sanipu  of  Bit-Amman,2  Salamanu  of  Moab,
 
 61  Metinti  of  Ashkelon,  Jehoahaz   of  Judah,3   Kaush-
 
@@ -21005,8 +19813,7 @@ teams     ...     [I  received]
 
 
 1  Published  in  II  R.,  67.  Republished  and  translated  by  Rost,  Die
-KeilschriftUxtf  TigkUh-PQeMTt,  lii,  i,  pp.  54ff.,  and  ii,  p.  24.  The  pas-
-sage here  quoted  is  on  the  R<-v<t«\  and  begins,  according  to  Rost's
+KeilschriftUxtf  TigkUh-PQeMTt,  lii,  i,  pp.  54ff.,  and  ii,  p.  24.  The  passage here  quoted  is  on  the  R<-v<t«\  and  begins,  according  to  Rost's
 numeration,  with  line  7.  Compare  also  Winckler,  KcUinschriftlichts
 Ttxtlmch  zurn  Altai  Te&tamt  nt,  p.  34,  and  Ungnad  in  Gressmann,
 Alturirnttilische  Texte  und  Bilder,  i,  p.  116.
@@ -21016,19 +19823,15 @@ Alturirnttilische  Texte  und  Bilder,  i,  p.  116.
 1  This  is  the  first  appearance  of  Judah  in  the  Assyrian  inscriptions.
 
 (57)  [ma-da-at-tu]  §a(m)  Ku-u§-ta-as-pi  (matu)  Ku-muh,-a-a
-(m)  U-ri-ik-ki  (matu)  Ku-u-a-a  (m)Si-bi-it-ti-bi-'-ilu  (alu)  [Gu-ub-la-
-a-a  (m)Pi-si-ri-is  (matu)  Gar-ga-mi§-a-a]  .  .  .  (58)  [(m)E-ni-ilu
+(m)  U-ri-ik-ki  (matu)  Ku-u-a-a  (m)Si-bi-it-ti-bi-'-ilu  (alu)  [Gu-ub-laa-a  (m)Pi-si-ri-is  (matu)  Gar-ga-mi§-a-a]  .  .  .  (58)  [(m)E-ni-ilu
 (matu)  IJa-am-ma-ta-a-a  (m)Pa-na-am-mu-u  (alu)  Sa-am-'-la-a-a
-(m)Tar-bu-la-ra  (matu)  Gur-gu-ma-a-a  (m)Su-l(u-ma-al  (matu)  Me-
-lid-. la-a-a  (m)Da-di-ilu  (matu)  Kas-ka-ai  (5(J)  (m)U]-as-sur-me
+(m)Tar-bu-la-ra  (matu)  Gur-gu-ma-a-a  (m)Su-l(u-ma-al  (matu)  Melid-. la-a-a  (m)Da-di-ilu  (matu)  Kas-ka-ai  (5(J)  (m)U]-as-sur-me
 iinatu)  Ta-bal-a-a  (m)Us-h,i-it-ti  (alu)  Tu-na-a-a  (m)Ur-bal-la-a-a
 (alu)  Tu-fca-na-a-a  (m)Tu-h,a-am-[me  (alu)  (m)I§-tu-un-da-a-a
 (m)U-ri-im-me  (alu)  JJu-Sim-na-ai  (60)  [  (m)M]a-ta-an-bi-'-ilu  (alu)
 Ar-ma-da-a-a  (m)Sa-ni-pu  (alu)  Bit-am-ma-na-a-a  (m)Sa-la-ma-nu
-(matu)  Ma-'-ba-a-a  [.  .  .]  (61)  (m)M]e-ti-in-ti  (matu)  As-ka-
-lu-na-a-a  (m)Ia-u-ba-zi  (matu)  Ia-u-da-a-a  (m)Ka-uS-ma-la-ka
-(matu)  U-du-mu-a-a  (m)Mu-us-[ri]  .  .  .  (62)  [(m)Ha]-a-nu-
-u-nu  (alu)  5a]-za-at-a-a  buras'u  kaspu  anaku  parzillu  abaru  lu-
+(matu)  Ma-'-ba-a-a  [.  .  .]  (61)  (m)M]e-ti-in-ti  (matu)  As-kalu-na-a-a  (m)Ia-u-ba-zi  (matu)  Ia-u-da-a-a  (m)Ka-uS-ma-la-ka
+(matu)  U-du-mu-a-a  (m)Mu-us-[ri]  .  .  .  (62)  [(m)Ha]-a-nuu-nu  (alu)  5a]-za-at-a-a  buras'u  kaspu  anaku  parzillu  abaru  lu-
 bul-ti  bir-me  kitu  lu-bul-ti  ma-ti-§u-nu  argamanu  (63)  [mimma
 §um-§u]  ak-ru  bi-nu-ut  tam-tim  na-ba-li  si-bu-ta-at  mati-§u-nu
 ni-eir-ti  §arru-ti  sisi  pare  sinda-at  (isu)  ni-[i-ri]     .     .     .     [am-h,ur]
@@ -21039,32 +19842,26 @@ SARGON  II  323
 VII.    SARGON  II  (722-705  B.  C.)1
 
 Immediately  on  the  death  of  Shalmaneser  V,  in  the
-year  722,  Sargon,  who  was  not  of  the  royal  line,  suc-
-ceeded to  the  throne.  In  his  brief  but  distinguished
+year  722,  Sargon,  who  was  not  of  the  royal  line,  succeeded to  the  throne.  In  his  brief  but  distinguished
 reign  the  kingdom  of  Assyria  reached  the  very  zenith
 of  its  power  in  western  Asia.  His  contact  with  the
 west  country,  however,  was  somewhat  less  important
 for  the  biblical  peoples  than  that  of  Sennacherib,  his
-son  and  successor,  or  of  Tiglathpileser  IV,  who  pre-
-ceded him  by  one  reign.
+son  and  successor,  or  of  Tiglathpileser  IV,  who  preceded him  by  one  reign.
 
 The  campaigns  of  Sargon,  like  those  of  Tiglathpileser,
 dealt  chiefly  with  the  north,  that  is,  with  Urartu  or
 Chaldia,  with  the  south,  or  Babylonia,  and  with  the
-west,  Syria  and  Palestine;  and  in  their  relative  im-
-portance for  Assyria  they  stood  in  the  order  named.
+west,  Syria  and  Palestine;  and  in  their  relative  importance for  Assyria  they  stood  in  the  order  named.
 
 Immediately  on  the  death  of  Shalmaneser  V,  in  the
 year  722,  the  city  of  Samaria  fell  after  a  siege  of  three
 years.2  Sargon  claims  the  victory  for  himself,  though
 he  could  not  have  been  present  at  all,  and,  indeed,  it  is
-just  possible  that  the  city  may  have  fallen  while  Shal-
-maneser still  lived,  and  the  news  only  reached  Assyria
-after  his  decease.3  He  deported  27,290  of  the  inhabi-
-tants and  "placed  them  in  Halah,  and  on  the  Habor,
+just  possible  that  the  city  may  have  fallen  while  Shalmaneser still  lived,  and  the  news  only  reached  Assyria
+after  his  decease.3  He  deported  27,290  of  the  inhabitants and  "placed  them  in  Halah,  and  on  the  Habor,
 the  river  of  Gozan,  and  in  the  cities  [lxx,  mountains]  of
-the  Medcs,"4  whose  places  were  later  supplied  by  peo-
-ples brought  from  various  lands  conquered  by  the
+the  Medcs,"4  whose  places  were  later  supplied  by  peoples brought  from  various  lands  conquered  by  the
 Assyrians.
 
 In  Babylonia5  there  were  problems  of  greater  moment
@@ -21084,28 +19881,21 @@ Hist.,  i  164;  Winckler,  World  111,    pp,  26;  KAT»,  pp.
 68,  <;>
 
 
-324  CUNEIFORM  PARALLELS
-
-for  Sargon  than  these  affairs  in  the  west.  In  729  Mero-
-dach-baladan  had  paid  homage  to  Tiglathpileser  IV,
-and  during  the  short  reign  of  Shalmaneser  V  he  re-
-mained quiet,  though  doubtless  plotting  rebellion  at
+for  Sargon  than  these  affairs  in  the  west.  In  729  Merodach-baladan  had  paid  homage  to  Tiglathpileser  IV,
+and  during  the  short  reign  of  Shalmaneser  V  he  remained quiet,  though  doubtless  plotting  rebellion  at
 the  first  opportunity.  Immediately  on  the  change  of
 dynasty,  at  the  death  of  Shalmaneser,  he  seized  southern
 Babylonia  and  then  the  city  of  Babylon,  where  he  was
 proclaimed  king  on  New  Year's  Day,  721.  Sargon
-marched  at  once  into  the  country  and  attacked  Mero-
-dach-baladan  and  his  ally,  Khumbanigash  of  Elam  at
-Dur-ilu,  in  northern  Babylonia.  Sargon  claims  a  vic-
-tory, though  the  sequel  clearly  proves  that  the  result
+marched  at  once  into  the  country  and  attacked  Merodach-baladan  and  his  ally,  Khumbanigash  of  Elam  at
+Dur-ilu,  in  northern  Babylonia.  Sargon  claims  a  victory, though  the  sequel  clearly  proves  that  the  result
 at  least  indecisive.  He  did  not  take  Babylonia
 from  Merodach-baladan.  The  loss  of  prestige  in  his
 failure  was  a  fruitful  cause  of  rebellions  elsewhere.
 
 The  severe  punishment  of  Samaria  did  not  prevent
 another  rebellion  in  the  west,  for  in  720  Ilu-bi'di  (or
-Yau-bi'di),  a  king  of  Hainatli,  formed  part  of  a  coali-
-tion composed  of  Hanno,  king  of  Gaza,  Sib'e  of  Egypt,
+Yau-bi'di),  a  king  of  Hainatli,  formed  part  of  a  coalition composed  of  Hanno,  king  of  Gaza,  Sib'e  of  Egypt,
 an<l  the  lately  formed  Assyrian  provinces  of  Arpad,
 Simirra,  Damascus,  and  Samaria.1  Sargon  attacked
 them  in  detail,  first  defeating  Ilu-bi'di  at  Qarqar  and
@@ -21155,8 +19945,7 @@ The  year  717  witnessed  the  fall  of  Carchemish,  the
 last  of  the  small  states  into  which  the  once  powerful
 Hittite  empire  had  broken  up.
 
-In  the  years  716-712  Sargon  directed  a  series  of  de-
-structive attacks  upon  Rusas,  king  of  Chaldia,  which
+In  the  years  716-712  Sargon  directed  a  series  of  destructive attacks  upon  Rusas,  king  of  Chaldia,  which
 resulted  in  his  death,  and  the  addition  of  his  desolated
 territories  to  Assyria  as  a  province.  In  the  same  years
 Mita  of  Mushke,  who  had  ventured  to  invade  Que
@@ -21169,15 +19958,12 @@ in  other  directions,  entered  vigorously  upon  an  invasion
 of  Babylonia.    The  conditions  were  exceedingly  favor-
 
 
-326  CUNEIFORM  PARALLELS
-
 able  for  the  Assyrians.  Khumbanigash  of  Elam,  who
 had  given  such  signal  aid  to  Merodach-baladan  in  721,
 had  died  in  717,  and  his  successor,  Shutur-nakhundi  (in
 Elamitic,  Shutruk-nakhunte),  gave  none.  Furthermore,
 the  administration  of  Merodach-baladan  had  alienated
-many  of  his  subjects,  and  had  offended  the  powerful  priest-
-hood. Without  external  aid,  and  with  only  a  divided
+many  of  his  subjects,  and  had  offended  the  powerful  priesthood. Without  external  aid,  and  with  only  a  divided
 support  from  his  own  people,  he  was  compelled  to  flee.
 Sargon  was  received  as  a  deliverer,  and  caused  himself
 to  be  proclaimed  as  Shakkanak  (governor)  of  Babylon.
@@ -21197,24 +19983,19 @@ In  the  beginning  of  my  reign  (722)  and  in  the  first
 year  of  my  reign  (721)  .  .  .  Samaria  I  besieged  and
 took  [three  lines  lost]  (15)  27,290  inhabitants  I  carried
 away,  50  chariots  I  collected  there  as  a  royal  force  .  .  .
-(16)  I  set  up  again  and  made  more  populous  than  be-
-fore. People  from  lands  which  I  had  taken  I  settled
+(16)  I  set  up  again  and  made  more  populous  than  before. People  from  lands  which  I  had  taken  I  settled
 there.  (17)  My  men  I  set  over  them  as  governors.
 Tribute  and  taxes  like  the  Assyrian  I  set  over  them.
 
 1  Published  and  translated  by  Winckler,  Die  Keilschrifttexte  Sargons,
 2  vols.  (Leipzig,  1889).  The  passage  translated  above  is  found  in  i,  p.  4,
 and  ii,  p.  1.  Compare  also  Winckler,  Keilittschriftliches  Textbuch  zum
-Altm  Testament,  3te  Auf.,  pp.  38,  39,  and  Ungnad  in  Gressmann,  Al-
-toricntalische  Texte  und  Bildcr,  i,  p.  11G.
+Altm  Testament,  3te  Auf.,  pp.  38,  39,  and  Ungnad  in  Gressmann,  Altoricntalische  Texte  und  Bildcr,  i,  p.  11G.
 
-ina  [res  sarrati-ia  ina  mahiv  pali-ia  (11)  .  .  .  (alu)  Sa-me-r[i-
-na-a-a  alme  aksud  .  .  .  (15)  XXVII.M,II.C,LXXXX  nise  asib
-libbi-su  as-lu-la  L  narkabtu  ki-sir  sarni-ti-ia  ina  [libbi-su-nu  ak-sur-
-ma  .  .  .  (16)  .  .  •  u]tir-ma  eli  sa  pa-na  u-se-me  nise  matate
+ina  [res  sarrati-ia  ina  mahiv  pali-ia  (11)  .  .  .  (alu)  Sa-me-r[ina-a-a  alme  aksud  .  .  .  (15)  XXVII.M,II.C,LXXXX  nise  asib
+libbi-su  as-lu-la  L  narkabtu  ki-sir  sarni-ti-ia  ina  [libbi-su-nu  ak-surma  .  .  .  (16)  .  .  •  u]tir-ma  eli  sa  pa-na  u-se-me  nise  matate
 ki-sit-ti  kata-ia  ina  lib-bi  (17)  u-se-sib  (amelu)  §u-ud-§ak-ia  (amelu)
-saknu  eli-su-nu  as-kun-ma  bil-tu  ma-da-at-tu  ki-i  sa  as-su-ri  e-mid-
-su-nu-ti
+saknu  eli-su-nu  as-kun-ma  bil-tu  ma-da-at-tu  ki-i  sa  as-su-ri  e-midsu-nu-ti
 
 
 HAMATH,  GAZA,  AND  ELAM  327
@@ -21229,8 +20010,7 @@ me.  ...  [2  lines  wanting]  .  .  .  (27)  he  made.
 Sib'u,  his  Tartan,  he  called  to  his  side.  He  marched
 against  me  to  deliver  battle  and  (28)  slaughter.  In  the
 name  of  Ashur,  my  lord,  I  defeated  him.  (29)  Sib'u  fled
-alone  like  a  shepherd  whose  sheep  are  stolen,  and  disap-
-peared. (30)  Hanno  I  took  prisoner,  and  carried  in  chains
+alone  like  a  shepherd  whose  sheep  are  stolen,  and  disappeared. (30)  Hanno  I  took  prisoner,  and  carried  in  chains
 to  my  city  of  Asshur.  (31)  I  destroyed,  wasted,  and  burned
 Rapihu,  [and]  carried  away  9,033  men  with  their  goods.
 
@@ -21238,19 +20018,15 @@ Rapihu,  [and]  carried  away  9,033  men  with  their  goods.
 
 i-na  §ani-e  pale-ia  (m)I-lu-bi[-'-di  (matu)  Amatai
 (24)  .  .  .  ummanate-§u  rapsa-tim  i-na  (alu)  Kar-ka-ri  u-pa&-
-&i-ir-ma  ma-mit  .  .  .  (25)  .  .  .  (alu)  Ar-pad-da  (alu)  Si-
-mir-ra  (alu)  Di-ma§-ki  (alu)  Sa-me-ri-na  [itti-ia  u§balkit-ma  .  .  .
-[Two  lines  wanting]  (27)  .  .  .  kun-ma  (m)Sib'u  (amelu)  tur-
-ta-nu-su  a-na  ki-it-ri-§u  it-mu-u-ma  a-na  epi§  kab-li  (28)  u  ta-Jja-zi
+&i-ir-ma  ma-mit  .  .  .  (25)  .  .  .  (alu)  Ar-pad-da  (alu)  Simir-ra  (alu)  Di-ma§-ki  (alu)  Sa-me-ri-na  [itti-ia  u§balkit-ma  .  .  .
+[Two  lines  wanting]  (27)  .  .  .  kun-ma  (m)Sib'u  (amelu)  turta-nu-su  a-na  ki-it-ri-§u  it-mu-u-ma  a-na  epi§  kab-li  (28)  u  ta-Jja-zi
 a-na  irti-ia  it-ba-a  i-na  zi-kir  A§ur  beli-ia  abikta-su-nu  am-Jjas-ma
-(29)  (m)Sib'u  ki-i  re'u  sa  si-na-su  bab-ta  e-da-nu-us-su  ip-par-sid-
-ma  eli  (30)  (m)9a-nu-nu  i-na  ka-ti  as-bat-ma  ka-mu-us-su  a-na
+(29)  (m)Sib'u  ki-i  re'u  sa  si-na-su  bab-ta  e-da-nu-us-su  ip-par-sidma  eli  (30)  (m)9a-nu-nu  i-na  ka-ti  as-bat-ma  ka-mu-us-su  a-na
 ali-ia  Assur  u-ra-as-sum-ma  (31)  (alu)  Ra-pi-bu  ab-bul  ak-kur  i-na
 i§-ati  a§-ru-up  IX.M,XXXIII  nise  a-di  makkuri-su-nu  as-lu-la
 
 3.  Stone  Inscription  from  Kalah  1  (717  B.  C.)
-(7)  [Sargon],  the  exalted  prince,  who  fought  in  the  en-
-virons of  Dur-ilu  with  Khumbanigas,  the  king  of  Elam,  and
+(7)  [Sargon],  the  exalted  prince,  who  fought  in  the  environs of  Dur-ilu  with  Khumbanigas,  the  king  of  Elam,  and
 accomplished  his  defeat,  (8)  Who  conquered  the  land  of
 Judah,2  whose  location  is  distant;  who  destroyed  Hamath;
 whose  hands  have  taken  its  prince  Yaubi'-di  prisoner.
@@ -21261,25 +20037,20 @@ ossible  to  dctf-nninr   \v!n-tlnT   ,Jud:ih   is  here   meant,  or  the
 
 lan<i  of  VaodJ  In  the  Docthweeteen  part  ofQjrie
 
-(7)  POM  DA-'-da  sa  ina  ri-bit  (alu)  dur-ilu  it-ti  (m)9um-l>a-ni-^a-
-a§  :  'n-ti  in-n:un-r»j-ina  is-k»i-nu  abikta-su  (8)  mu-Sik-
+(7)  POM  DA-'-da  sa  ina  ri-bit  (alu)  dur-ilu  it-ti  (m)9um-l>a-ni-^aa§  :  'n-ti  in-n:un-r»j-ina  is-k»i-nu  abikta-su  (8)  mu-Sik-
 
 u  ru-u-ku  na-si-ijj  (matu)  Ha-.un-i
 6a  (m)Ia-U-bi-'-di  ma-lik-^u-nu  ik-§u-du  kata-fiu
 
 
-328  CUNEIFORM  PARALLELS
-
 4.  Cylinder  Inscription  *  (713)
 (19)   [Sargon]  who  conquered  the  broad  Bit-Khumria,
-who  accomplished  the  defeat  of  Egypt  at  Rapibi,  [and]  car-
-ried Hanno,  king  of  Gaza,  prisoner  to  the  city  of  Asshur.
+who  accomplished  the  defeat  of  Egypt  at  Rapibi,  [and]  carried Hanno,  king  of  Gaza,  prisoner  to  the  city  of  Asshur.
 
 
 1  Winckler,  op.  cit.,  ii,  p.  43;  Peiser,  op.  cit.,  ii,  p.  38f.
 
-(19)  mu-ri-ib  (matu)  Bit-(m)$u-um-ri-a  rap-si  sa  ina  (alu)  Ra-pi-
-bi  abiktu-u  (mat)  Mu-us-ri  is-ku-nu-ma  (m)$a-a-nu-nu  sar  (alu)  JJa-
+(19)  mu-ri-ib  (matu)  Bit-(m)$u-um-ri-a  rap-si  sa  ina  (alu)  Ra-pibi  abiktu-u  (mat)  Mu-us-ri  is-ku-nu-ma  (m)$a-a-nu-nu  sar  (alu)  JJa-
 zi-ti  ka-mu-us-su  u-se-ri-ba  (alu)  Assur
 
 5.  The  Campaign  Against  Ashdod  (711)  ■
@@ -21287,13 +20058,11 @@ zi-ti  ka-mu-us-su  u-se-ri-ba  (alu)  Assur
 (90)  Azuri,  king  of  Ashdod,  planned  in  his  heart  to
 bring  no  more  tribute,  (91)  and  sent  to  the  kings  of  his
 neighborhood  to  stir  up  (92)  enmity  against  Assyria.
-Because  of  the  evil  he  had  done  I  removed  (93)  his  lord-
-ship over  the  people  of  his  land,  and  (94)  appointed  his
+Because  of  the  evil  he  had  done  I  removed  (93)  his  lordship over  the  people  of  his  land,  and  (94)  appointed  his
 twin  (?)  brother  Akhimiti  to  the  kingship  over  them.
 (95)  But  the  Hittites,  planning  evil,  hated  his  rule,
 raised  to  the  throne  Yamani  (var.  Yatna),  who  had  no
-claim  upon  it,  [and]  who,  (96)  like  them,  knew  no  rever-
-ence for  authority.  (97)  In  the  anger  of  my  heart  I  did
+claim  upon  it,  [and]  who,  (96)  like  them,  knew  no  reverence for  authority.  (97)  In  the  anger  of  my  heart  I  did
 not  collect  the  mass  of  my  troops,  (98)  I  did  not  rally
 my  forces.  (99)  With  my  soldiers,  who  do  not  depart
 from  my  side,2  in  the  place  where  I  am  staying,  (100)  I
@@ -21312,21 +20081,17 @@ Ungnad  in  Gressmann,  Alturicntalischc  Texte  und  Bilder,  i,  pp.  117,  11
 (90)  (m)  A-zu-ri  sar  (alu)  As-du-di  a-na  la  ma-se-e  bil-ti
 (91)  libbu-su  ik-pu-ud-ma  a-na  Sarra-ni  li-me-ti-su  (92)  zi-ra-a-ti
 (matu)  As^ur  is-pur  as-su  limut-tum  e-pu-su  (93)  eli  nise  mati-su
-be-lu(t)-su  u-nak-kir  (94)  (m)A-bi-mi-ti  a-h,u  ta-lim-§u  a-na  §arru-
-ti  eli-§u-nu  a5-kun-ma  (95)  (ameJu)  JJa-at-te  da-bi-ib  sa-lip-ti  be-
+be-lu(t)-su  u-nak-kir  (94)  (m)A-bi-mi-ti  a-h,u  ta-lim-§u  a-na  §arruti  eli-§u-nu  a5-kun-ma  (95)  (ameJu)  JJa-at-te  da-bi-ib  sa-lip-ti  be-
 lu(t)-su  i-zi-ru-ma  (m)Ia-ma-ni  la  b£l  (isu)  kussu  (96)  §a  ki-ma
 Sa-a-§u-nu-ma  pa-lab  b£-lu-ti  la  i-du-u  u-rab-bu-u  eli-§u-un  (97)  i-na
-Su-fcu-ut  Hb-bi-ia  gi-bi§  ummanate-ia  (98)  ul  u-pa&-l)ir-ma  ul  ak-eu-
-ra  ka-ra-§i  (99)  it-ti  (amelu)  ku-ra-di-ia  §a  a-6ar  sa-al-me  (100)  ida-
-a-a  la  ip-par-ku-u  a-na  (alu)  As-du-di  (101)  al-lik-ma  u  §u-u  (m)Ia-
-ma-ni  a-lak  gir-ri-ia  (102)  ni-kis  is-me-ma  a-na  i-te-e  (matu)  Mu-
+Su-fcu-ut  Hb-bi-ia  gi-bi§  ummanate-ia  (98)  ul  u-pa&-l)ir-ma  ul  ak-eura  ka-ra-§i  (99)  it-ti  (amelu)  ku-ra-di-ia  §a  a-6ar  sa-al-me  (100)  ida-
+a-a  la  ip-par-ku-u  a-na  (alu)  As-du-di  (101)  al-lik-ma  u  §u-u  (m)Iama-ni  a-lak  gir-ri-ia  (102)  ni-kis  is-me-ma  a-na  i-te-e  (matu)  Mu-
 
 
 CAMPAIGN  AGAINST  ASHDOD  329
 
 borders  of  Egypt,  (103)  which  lies  before  Melucha,  and
-was  seen  no  more.  (104)  Ashdod,  Gimtu  [Gath],  Ash-
-dudimmu  (105)  I  besieged  [and]  conquered;  I  seized  as
+was  seen  no  more.  (104)  Ashdod,  Gimtu  [Gath],  Ashdudimmu  (105)  I  besieged  [and]  conquered;  I  seized  as
 booty  his  gods,  his  wife,  his  sons  and  daughters,  (106,
 107)  possessions  and  goods,  the  treasures  of  his  palaces,
 together  with  the  people  of  his  land.  (107)  Those  cities
@@ -21336,10 +20101,8 @@ the  lands  of  the  East.  I  set  my  officers  over  them,  I
 added  them  to  the  people  of  Assyria,  they  gave  obedience.
 The  king  of  Melucha,  who  among  ...  an  inaccessible
 place,  a  road  .  .  .  whose  fathers  (110)  for  a  long
-time,  since  the  epoch  of  the  Moon  god,  had  sent  no  am-
-bassadors to  the  kings,  my  fathers,  (111)  to  pay  respects,
-he  heard  afar  off  of  the  power  of  Ashur,  Nabu,  and  Mar-
-duk;  the  fear  of  my  royal  majesty  covered  him,  and
+time,  since  the  epoch  of  the  Moon  god,  had  sent  no  ambassadors to  the  kings,  my  fathers,  (111)  to  pay  respects,
+he  heard  afar  off  of  the  power  of  Ashur,  Nabu,  and  Marduk;  the  fear  of  my  royal  majesty  covered  him,  and
 terror  was  poured  out  over.  him.  (112)  He  cast  him  into
 bonds  and  fetters  of  iron,  and  they  brought  him  before
 me  in  Assyria, — a  long  journey.
@@ -21379,8 +20142,6 @@ Auf\,  pp.  41,  42.     Ootnpare  UngjaMd  in  Qremuuan,  <>}>.  eil.,  i.  p. 
 (l)i-na  IX   j:tle-i.i  a-DJ  .     rabl-ti-a
 
 
-330  CUNEIFORM  PARALLELS
-
 .  .  .  (2)  [.  .  .  coast]  of  the  great  sea  .  .  .  Azuri
 (3)  king  of  Ashdod  ...  (6)  Akhimeti  ...  (7)  his
 twin  (?)  brother  (8)  I  raised  to  rule  over  them     .     .     .
@@ -21412,8 +20173,7 @@ the  Tigris  and  Euphrates  (39)  at  flood  tide.  (40,  41,
 (5)  i§-tu  ...  (6)  (m)A-bi-me-ti  ...  (7)  a-bu  ta-lim-§u
 £li-[§u-nu]  (8)  u-rab-bu-u     ...     (9)  bil-tu  ma-da-at-tu     .     .     .
 
-(10)  ki-ma  §a  Sarra-ni  [mabruti]  (ll)  6li-§u  a§-kun  .  .  .  (12)  lim-
-nu-ti  i-na  .  .  .  (13)  a-na  la  na-§£-e  bil-ti  (14)  [im-]ta-li[ku?]-ma
+(10)  ki-ma  §a  Sarra-ni  [mabruti]  (ll)  6li-§u  a§-kun  .  .  .  (12)  limnu-ti  i-na  .  .  .  (13)  a-na  la  na-§£-e  bil-ti  (14)  [im-]ta-li[ku?]-ma
 .  .  .  (15)  ma-li-ki-§u-nu  si-Jju  ■  .  .  (16)  .  .  .  (17)  u-§e-su-
 §u  .  .  .  (18)  (m)Ia-ma-ni  amel  sabe  .  .  .  a-na  §arru-ti
 eli-§u-nu  [ina  (isu)  kussu?]  (20)  be-ili-§u  u-Se-§i-[bu-§u-ma]  .  .  .
@@ -21425,11 +20185,9 @@ a-bi  a-§i-bu-ut  tam-tim  na-a§  bil-[ti  u]  (31)  ta-mar-ti  §a  (ilu)  A�
 be-ili-ia  (32)  da-bib  sa-ar-ra-a-ti  la  mi-i-nu  bul-la-a-te  (33)  8a  it-ti-ia
 ana  §un-ku-ri  eli  (m)Pi-ir-'-u  (34)  §ar  (matu)  Mu-us-ri  mal-ku  la
 mu-§e-zi-bi-su-nu  (35)  §ul-man-na-§u-nu  i§-§u-u-ma  e-tir-ri-§u-u§
-(36)  ki-id-ra  a-na-ku  (m)§arru-ukin  rubu  ki-e-nu  (37)  pa-li-ib  ma-
-mit  (ilu)  Nabu  (ilu)  Marduk  na-si-ru  (38)  zik-ri  (ilu)  A§ur  (naru)
+(36)  ki-id-ra  a-na-ku  (m)§arru-ukin  rubu  ki-e-nu  (37)  pa-li-ib  mamit  (ilu)  Nabu  (ilu)  Marduk  na-si-ru  (38)  zik-ri  (ilu)  A§ur  (naru)
 Diglat  (naru)  Purattu  (39)  i-na  meli  ki§-§a-ti  e-du-u  tak-lat-ti  (?)
-ummanate  (40)  na-pa-li§  u-§e-tik  u  §u-u  (m)Ia-ma-ni  (41)  §arru-§u-
-nu  §a  i-na  e-[mu-uk  ra-man-]i-§u  (42)  it-tak-lu-ma  ul  i[k-nu-§u]  a-na
+ummanate  (40)  na-pa-li§  u-§e-tik  u  §u-u  (m)Ia-ma-ni  (41)  §arru-§unu  §a  i-na  e-[mu-uk  ra-man-]i-§u  (42)  it-tak-lu-ma  ul  i[k-nu-§u]  a-na
 
 
 CAMPAIGN  AGAINST  SAMARIA  331
@@ -21440,8 +20198,7 @@ Ashur,  my  lord,  cast  him  down,  to  .  .  .  which  is  on
 the  bank  of  the  river  ...  his  land  .  .  .  far  away
 .    .    .    (49)  he  fled    .    .    .    Ashdod  (?)      ...
 
-be-lu-ti  (43)  [a-]lik  gir-ri-ia  a-na  [ru-ki-]e-ti  is-me-ma  (44)  [na-]mur-
-rat  (ilu)  Asur  bel-ili-ia  is-h,up-§u-ma     .     .     .
+be-lu-ti  (43)  [a-]lik  gir-ri-ia  a-na  [ru-ki-]e-ti  is-me-ma  (44)  [na-]murrat  (ilu)  Asur  bel-ili-ia  is-h,up-§u-ma     .     .     .
 
 (49)  .     .     .     in-na-bit     .     .     .
 
@@ -21493,8 +20250,6 @@ ma  la  in-na-rnir  a-Sar-§u  (ni)Ha-nu-nu  sar  (alu)   Ha-zi-ti  in
 as-bat  (27)  ma-da-at-tu  §a  (m)Pi-ir-'-u  sir  (matu)    Mu-su-r
 
 
-332  CUNEIFORM  PARALLELS
-
 of  Arabia,  It'amara  the  Sabaean,  gold,  the  products  (?)
 of  the  mountains,  horses,  camels  I  received.
 
@@ -21507,19 +20262,16 @@ Ashur  I  collected,  [and]  besieged  him  with  his  soldiers
 in  his  darling  city  of  Karkar.  (35)  I  captured  [and]
 burned  Karkar.  Him  I  flayed,  [and]  killed  the  rebels  in
 those  cities,  and  established  peace.  Two  hundred  chariots
-and  six  hundred  horsemen  (36)  I  collected  among  the  in-
-habitants of  Hamath  and  added  to  my  royal  forces.
+and  six  hundred  horsemen  (36)  I  collected  among  the  inhabitants of  Hamath  and  added  to  my  royal  forces.
 
 
 Sa-am-si-e  §ar-rat  (matu)  A-ri-bi  (m)It-'-am-a-ra  (matu)  Sa-ba-'-a-a
 fcurasu  i§-bi  §ade  sisi  (imeru)  gammale  am-bur
 
 (33)  (m)(ilu)Ia-u-bi-'-di  (matu)  A-ma-ta-a-a  sa-ab  ...  la
-bel  (isu)  kussu  (amcMu)  bat-tu-u  lim-nu  a-na  sarni-ut  (matu)  A-ma-
-at-ti  libbu-§u  ik-pu-ud-ma  (alu)  Ar-pad-da  (alu)  Si-mir-ra  (alu)
+bel  (isu)  kussu  (amcMu)  bat-tu-u  lim-nu  a-na  sarni-ut  (matu)  A-maat-ti  libbu-§u  ik-pu-ud-ma  (alu)  Ar-pad-da  (alu)  Si-mir-ra  (alu)
 Di-ma§-ka  (alu)  Sa-me-ri-na  (34)  it-ti-ia  us-hal-kit-ma  pa-a  e-da
-u-8a-a§-kin-ma  ik-eu-ra  tafcazu  um-ma-na-at  (ilu)  ASur  gab-
-ad-ki-ma  ina  (alu)  Kar-ka-ri  (alu)  na-ram-i-§u  §a-a-§u  a-di
+u-8a-a§-kin-ma  ik-eu-ra  tafcazu  um-ma-na-at  (ilu)  ASur  gabad-ki-ma  ina  (alu)  Kar-ka-ri  (alu)  na-ram-i-§u  §a-a-§u  a-di
 (am«*'lu)  mun-tab-si-su  (35J  al-me  ak-§ud  (alu)  Kar-ka-ru  ina
 kibCiti  ak-mu  §a-a-§u  ma-§ak-§u  a-ku-us  ina  ki-rib  ali-§u-nu-ti  lx'1
 {ji-it-ti  a-duk  su-lum-mu-u  u-§a-aS-kim  IIC  (isu)  narkabate  VIC
@@ -21531,14 +20283,12 @@ VIII.  SENNACHERIB  (704-682)
 In  the  same  month  that  Sargon  died  his  own  son
 ascended  the  throne  and  began  the  direction  of  the
 empire  now  become  so  great.  Sennacherib  had  need  to
-be  greater  than  his  father,  as  the  burden  of  administra-
-tion is  heavier  than  the  load  of  conquest;  but,  in  spite
+be  greater  than  his  father,  as  the  burden  of  administration is  heavier  than  the  load  of  conquest;  but,  in  spite
 of  the  boasting  of  his  high-sounding  inscriptions,  he
 must  be  judged  to  be  far  inferior  to  Sargon  in  ability.
 
 Sennacherib  was  received  at  once  in  Assyria  as  the
-legitimate  king,  but  the  Babylonians  were  not  so  com-
-pliant, but  set  up  as  their  king  a  certain  Marduk-zakir-
+legitimate  king,  but  the  Babylonians  were  not  so  compliant, but  set  up  as  their  king  a  certain  Marduk-zakir-
 shumu,  whom  the  Assyrian  inscriptions  derisively  call
 
 
@@ -21546,42 +20296,33 @@ SENNACHERIB  333
 
 the  son  of  a  slave.  Whatever  his  origin  may  have  been,
 he  was  clearly  not  the  man  of  the  hour,  for  he  reigned
-only  one  poor  month,  when  the  forceful  Merodach-
-baladan  drove  him  from  his  seat  and  assumed  the
+only  one  poor  month,  when  the  forceful  Merodachbaladan  drove  him  from  his  seat  and  assumed  the
 kingdom  (702).  He  knew  well  that  he  would  not  be
 allowed  to  remain  in  possession  of  the  ancient  mother
-kingdom  without  a  struggle,  and  he  began  his  prepara-
-tions for  the  inevitable  assault  of  the  Assyrian  king.
+kingdom  without  a  struggle,  and  he  began  his  preparations for  the  inevitable  assault  of  the  Assyrian  king.
 His  first  move  was  to  send  an  embassy  to  Hezekiah,
 king  of  Judah,  to  congratulate  him  on  his  recovery  from
 a  severe  illness.  Plainly  enough,  the  real  motive  was  to
-stir  up  disaffection  against  Assyria  and  lay  the  founda-
-tions for  a  rebellion  in  the  west.  The  sequel  would
+stir  up  disaffection  against  Assyria  and  lay  the  foundations for  a  rebellion  in  the  west.  The  sequel  would
 seem  to  show  that  other  countries  were  visited  at  the
 same  time,  and  that  even  Egypt  was  approached.  This
-embassy  was  probably  an  important  factor  in  the  re-
-bellion of  which  both  Assyrians  and  Hebrews  have  so
+embassy  was  probably  an  important  factor  in  the  rebellion of  which  both  Assyrians  and  Hebrews  have  so
 much  to  tell.
 
 Sennacherib  paid  no  attention  to  the  west,  but,  with
-the  wisest  possible  tactics,  marched  at  once  into  Baby-
-lonia. He  met  with  no  resistance  on  the  long  march
+the  wisest  possible  tactics,  marched  at  once  into  Babylonia. He  met  with  no  resistance  on  the  long  march
 until  Kish,  nine  miles  east  of  Babylon,  was  reached.
 Here  Merodach-baladan  had  dared  to  draw  up  his
 forces  and  offer  battle.  He  was  completely  routed  and
-fled  the  country.  Sennacherib  treated  the  native  Baby-
-lonians with  much  consideration,  but  savagely  ravaged
+fled  the  country.  Sennacherib  treated  the  native  Babylonians with  much  consideration,  but  savagely  ravaged
 the  Chaldean  territory,  from  which  the  tormentor,
-Merodach-baladan,  had  come.  The  country  was  re-
-organize! I,  and  a  Babylonian  named  Bel-ibni,  who  had
+Merodach-baladan,  had  come.  The  country  was  reorganize! I,  and  a  Babylonian  named  Bel-ibni,  who  had
 bred  at  the    Assyrian    court,  was    set    up    as
 
 At  the  close  of  this  campaign  Sennacherib  had  to
 secure  his  borders  by  a  raid  among  the  Kassit<\s  and
 into  Ellipi.    He  had  now  pacific* I,  in  the  true  Assyrian
 
-
-334  CUNEIFORM  PARALLELS
 
 manner,  the  entire  eastern  section  of  his  empire,  and
 was  prepared  to  meet  the  situation  in  the  west.
@@ -21597,22 +20338,18 @@ make  an  alliance  with  Egypt,  while  the  small  Phoenician
 and  Philistine  states  had  suffered  such  sore  oppression
 at  the  hand  of  Assyrian  governors  that  they  too  were
 ready  for  any  desperate  chance.  It  is  difficult  now  to
-estimate  truly  the  relative  importance  of  all  the  inci-
-dents which  led  to  the  great  breach,  and  it  is  easier  to
+estimate  truly  the  relative  importance  of  all  the  incidents which  led  to  the  great  breach,  and  it  is  easier  to
 enumerate  the  different  movements  than  to  make  sure
 of  their  relative  order.
 
 From  Judah  an  embassy  went  to  Egypt,  and  the
 Egyptians  promised  assistance.3  This  was  in  itself  a
 rebellion  against  Assyria,  but  the  first  outward  stroke
-seems  to  have  occurred  in  Ekron,  where  the  inhabi-
-tants cast  into  chains  their  governor,  Padi,  and  de-
-livered him  up  to  Hezekiah,  who  is  thereby  acknowl-
-edged as  the  leader  of  the  uprising.  Padi  had  been
+seems  to  have  occurred  in  Ekron,  where  the  inhabitants cast  into  chains  their  governor,  Padi,  and  de-
+livered him  up  to  Hezekiah,  who  is  thereby  acknowledged as  the  leader  of  the  uprising.  Padi  had  been
 appointed  governor  by  the  Assyrians,  and  Sennacherib
 dare  not  permit  him  to  be  thus  treated  or  the  whole
-fabric  of  government  by  appointed  deputy  would  col-
-lapse. In  701  he  marched  westward,  and  reached  the
+fabric  of  government  by  appointed  deputy  would  collapse. In  701  he  marched  westward,  and  reached  the
 Mediterranean  coast  in  the  neighborhood  of  Tyre.  He
 did  not,  however,  attack  the  city,  whose  reduction,
 without  the  possession  of  a  naval  force,  would  have
@@ -21637,10 +20374,8 @@ and  pledges  of  fealty  from  a  large  number  of  small
 states  which  had  joined  in  the  rebellion.  From  Arvad
 and  Gebal,  from  Ashdod  and  distant  Moab,  from
 Ammon  and  Edom  came  these  whose  hearts  were  faint.
-But  though  honeycombed  with  defections,  the  little  con-
-federation held  out,  and  prepared  for  defense.  Ashkelon
-was  next  reached  and  speedily  taken,  the  former  Assy-
-rian king,  Sharru-ludari,  was  restored  to  power,  and
+But  though  honeycombed  with  defections,  the  little  confederation held  out,  and  prepared  for  defense.  Ashkelon
+was  next  reached  and  speedily  taken,  the  former  Assyrian king,  Sharru-ludari,  was  restored  to  power,  and
 Zidqa,  who  had  supplanted  him,  was  carried  off  to
 Assyria  a  prisoner.  A  similar  fate  befell  Beth-Dagon,
 Bene-barqa,  and  Azuru.
@@ -21650,13 +20385,11 @@ Ekron,  unless  there  was  some  demonstration  from
 without.  This  was,  however,  afforded  from  an  army
 from  Egypt  and  Ethiopia,1  perhaps  under  the  leadership
 of  Shabaka,2  which  advanced  northward,  intending  to
-form  a  connection  with  the  forces  of  Hezekiah.  Sen-
-nacherib met  and  defeated  this  body  at  Eltekeh,  and
+form  a  connection  with  the  forces  of  Hezekiah.  Sennacherib met  and  defeated  this  body  at  Eltekeh,  and
 
 
 1  The  words  here  translated  "Egvpt"  and  "Ethiopia"  are  Musri  and
-Melukhkha  (see  the  text  below,  p.  342).  The  attempt  of  Winckler  (Altor-
-ientalische  Forschungen,  i,  pp.  24ff.,  195,  337,  and  Musri,  Melubba,
+Melukhkha  (see  the  text  below,  p.  342).  The  attempt  of  Winckler  (Altorientalische  Forschungen,  i,  pp.  24ff.,  195,  337,  and  Musri,  Melubba,
 Ma'in,  Mittheilunfren  der  YorderasiatisehenGesellschaft,  1898,  pp.  Iff.),
 to  identify  these  with  portions  of  Arabia  seems  to  me  to  have  felled.
 Bee  for  MB  elaborate  discussion  of  the  matter,  Olmstead,  Western  Atifk
@@ -21665,8 +20398,7 @@ Daw  of  8argon,  pp.  .">7IT..  and  compare  Budge,  History  of  Egypt,
 \  i,  pp.  xvfT  atmtorv  of  Egypt  (New  York,  1905)  ;Eduard  Ifi  jrer,
 
 en  und  thn    NacnoartUimnn    (  L906).  pp.  455-471 ;  Lehmann-
-Israel,  seine  Entwickdinx;  im  Ramm  n  <i<t  Weltgcschichte  (Tubin-
-gen, i«ni).  p.  io3.
+Israel,  seine  Entwickdinx;  im  Ramm  n  <i<t  Weltgcschichte  (Tubingen, i«ni).  p.  io3.
 
 2  Shabaka  was  the  founder  of  the  twenty-fifth,  or  Ethiopian  dynasty,
 
@@ -21674,8 +20406,6 @@ known  to  have  been  iipon  the  throne  at  this  time  -■  e,  e.  g.,
 Breasted,  Ancient  Records  of  Egypt,  iv,  p.  151,  and  i6.,  History  of  Egypt,
 p.  550.
 
-
-336  CUNEIFORM  PARALLELS
 
 then,  turning  back,  destroyed  Ekron  before  moving  on
 Judah.  The  Shephelah  suffered  severely,  for  he  claims
@@ -21686,8 +20416,7 @@ was  probably  recalled  from  the  siege  of  Jerusalem
 by  the  troubles  in  Babylonia,  which  form  the  most
 characteristic  mark  of  his  reign.
 
-Thus  far  we  have  depended  entirely  upon  the  As-
-syrian sources.  We  must  now  pay  heed  to  the  biblical,
+Thus  far  we  have  depended  entirely  upon  the  Assyrian sources.  We  must  now  pay  heed  to  the  biblical,
 and  with  them  begin  the  complications.  The  chief
 passage  is  found  in  2  Kings  18.  13  to  19.  37.  It  appears
 again,  however,  in  Isa.  36-39,  with  these  two  chief
@@ -21718,11 +20447,9 @@ took  them"),  is  quite  clearly  the  work  of  a  redactor,
 SENNACHERIB  337
 
 and  rests,  not  upon  documentary  evidence  or  tradition,
-but  upon  chronological  calculation.  It  is  quite  irrecon-
-cilable with  2  Kings  18.  9  ("And  it  came  to  pass  in  the
+but  upon  chronological  calculation.  It  is  quite  irreconcilable with  2  Kings  18.  9  ("And  it  came  to  pass  in  the
 fourth  year  of  king  Hezekiah,  which  was  the  seventh
-year  of  Hoshea  son  of  Elah  king  of  Israel,  that  Shalma-
-neser  king  of  Assyria  came  up  against  Samaria,  and
+year  of  Hoshea  son  of  Elah  king  of  Israel,  that  Shalmaneser  king  of  Assyria  came  up  against  Samaria,  and
 besieged  it"),  and  may  safely  be  disregarded.  The
 date  of  Sennacherib's  Judsean  campaign  is  certainly  701,
 whatever  the  redactor  of  Kings  may  have  calculated.
@@ -21731,8 +20458,7 @@ And  now  we  come  to  the  real  crux  of  the  situation.
 The  redactor  who  put  together  the  pieces  which  now
 make  a  continuous  narrative  evidently  thought  that
 everything  in  it  applied  to  one  campaign  of  Sennacherib
-— the  campaign  of  701 — and  so  the  passage  is  still  in-
-terpreted by  the  majority  of  modern  scholars.  There
+— the  campaign  of  701 — and  so  the  passage  is  still  interpreted by  the  majority  of  modern  scholars.  There
 are,  however,  great  difficulties  in  this  interpretation,
 and  these  have  increased  rather  than  diminished  in
 recent  years.  Some  of  these  are,  indeed,  not  new,  but
@@ -21743,8 +20469,7 @@ campaigns  of  Sennacherib,  for  he  wrote:  "Such  is  the
 account  which  Sennacherib  gives  of  an  expedition
 briefly  touched  on  in  a  few  verses  (2  Kings  18.  13-16),
 an  expedition  which  is  not  to  be  confounded  with  that
-second  invasion  of  these  countries  by  the  same  mon-
-arch, which  terminated  in  the  destruction  of  his  host,
+second  invasion  of  these  countries  by  the  same  monarch, which  terminated  in  the  destruction  of  his  host,
 and  his  ignominious  flight  to  his  capital.  This  latter
 expedition  is  not  described  in  his  annals,  as  it  may
 perhaps  belong  to  a  period  beyond  the  time  to  which
@@ -21757,18 +20482,14 @@ This  view  of  Rawlinson  found  no  acceptance  when
 1875).
 
 
-338  CUNEIFORM  PARALLELS
-
 it  was  first  propounded,  but  there  are  now  additional
 reasons  for  taking  it  up  again.  Those  which  appear  to
 be  the  most  important  are  the  following:  1.  Tirhaka
 cannot  have  been  the  leader  of  an  army  of  Egypt  and
 Ethiopia  in  the  year  701,  for  he  certainly  did  not  come
-to  the  throne  until  some  years  later.  And  the  represen-
-tation of  Tirhaka's  advance,  in  19.  7,  9,  as  a  rumor
+to  the  throne  until  some  years  later.  And  the  representation of  Tirhaka's  advance,  in  19.  7,  9,  as  a  rumor
 which  led  Sennacherib  to  leave  Palestine  seems  most
-improbable.  2.  The  passage  19.  35-37  dates  the  assas-
-sination of  Sennacherib  as  following  closely  on  his
+improbable.  2.  The  passage  19.  35-37  dates  the  assassination of  Sennacherib  as  following  closely  on  his
 return  from  Palestine,  though  his  death  did  not  occur
 until  681,  twenty  years  later  than  the  campaign  of  701.
 If  we  assume  two  campaigns  of  Sennacherib  in  the  west,
@@ -21777,8 +20498,7 @@ sources  may  be  analyzed  as  follows:  The  account  of  the
 first  campaign  ends  with  2  Kings  19.  8  ("So  Rabshakeh
 returned,  and  found  the  king  of  Assyria  warring  against
 Libnah;  for  he  had  heard  that  he  was  departed  from
-Lachish").  We  are  not  told  what  answer  he  had  re-
-ceived from  King  Hezekiah,  for  the  writer  was  not
+Lachish").  We  are  not  told  what  answer  he  had  received from  King  Hezekiah,  for  the  writer  was  not
 really  interested  in  political  affairs,  but,  rather,  in  the
 prophet  Isaiah,  whose  life  he  was  probably  writing.
 With  2  Kings  19.  9  begins  the  account  of  the  second
@@ -21806,15 +20526,11 @@ p.  346)  of  the  destruction  made  by  mice,  the  symbol  of
 pestilence,  fits  well  with  the  description  of  the  plague
 in  2  Kings  19.  35.
 
-During  the  campaign  of  701  in  the  west  a  new  rebel-
-lion began  in  Babylonia,  in  which  Bel-ibni,  the  notorious
-Merodach-baladan,  and  a  Chaldean  prince,  Marduk-
-ushezib,  joined.  When  Sennacherib  invaded  the  land
-in  700  the  compact  fell  in  pieces.  Bel-ibni  was  cap-
-tured and  sent  to  Assyria,  and  Merodach-baladan  died
+During  the  campaign  of  701  in  the  west  a  new  rebellion began  in  Babylonia,  in  which  Bel-ibni,  the  notorious
+Merodach-baladan,  and  a  Chaldean  prince,  Mardukushezib,  joined.  When  Sennacherib  invaded  the  land
+in  700  the  compact  fell  in  pieces.  Bel-ibni  was  captured and  sent  to  Assyria,  and  Merodach-baladan  died
 soon  after  his  precipitate  flight  into  the  Elamitic  coasts
-of  the  Persian  Gulf.  Sennacherib  made  his  son,  Asshur-
-nadin-shum,  king  of  Babylon,  and  went  away  to  carry
+of  the  Persian  Gulf.  Sennacherib  made  his  son,  Asshurnadin-shum,  king  of  Babylon,  and  went  away  to  carry
 war  into  Cilicia  and  Kappadocia.
 
 The  order  which  had  been  established  in  Babylonia
@@ -21823,8 +20539,7 @@ Elam  with  Merodach-baladan  had  made  so  much
 trouble  in  Babylonia  that  Sennacherib,  in  694,  made
 a  raid  upon  them  in  a  campaign  fraught  with  great
 difficulties.  To  revenge  this  the  Elamites  invaded
-Babylonia,  plundered  Sippar,  and  carried  off  Asshur-
-nadin-shum  into  a  captivity  from  which  he  never
+Babylonia,  plundered  Sippar,  and  carried  off  Asshurnadin-shum  into  a  captivity  from  which  he  never
 returned.  The  Elamites  then  made  Nergal-ushezib  king
 of  Babylonia.  He  was,  however,  able  to  hold  only
 northern  Babylonia,  while  the  south  was  retained  by
@@ -21835,10 +20550,7 @@ king  in  692.  He  won  the  support  of  the  entire  land,
 and  to  his  aid  came  also  the  Elamites,  and  the  Chaldeans
 
 
-340  CUNEIFORM  PARALLELS
-
-who  had  so  long  followed  the  fortunes  of  Merodach-
-baladan,  and  were  now  led  by  his  son  Samunu.  In  691
+who  had  so  long  followed  the  fortunes  of  Merodachbaladan,  and  were  now  led  by  his  son  Samunu.  In  691
 Sennacherib  met  their  combined  armies  at  KhalulS,
 where  he  claimed  a  great  victory.
 
@@ -21861,8 +20573,7 @@ dominion  overwhelmed  Luli  (Elulaeus),  king  of  Sidon,
 (38)  Sidon  the  great,  Sidon  the  less,  (39)  Bit-zitte,
 Sariptu  (Zarephath),  Makhalliba,  (40)  Ushu,  Akzib,  and
 Akku  (Acco),  (41)  his  strong  cities,  defended  by  walls,
-(42)  provisioned  and  provided  with  water,  his  garri-
-son (?)  cities,  the  might  of  the  arms  of  (43)  Ashur,  my
+(42)  provisioned  and  provided  with  water,  his  garrison (?)  cities,  the  might  of  the  arms  of  (43)  Ashur,  my
 lord,  overwhelmed  them,  and  they  bowed  (44)  at  my
 feet.     I  placed  Tuba'lu  (Ethobal)  upon  the  royal  throne
 
@@ -21872,8 +20583,7 @@ iciallv  I  \{.,  37—42;  Delitzsrii,  Assyrxsche  Lesc.stucke,  4te  Auf.,
 pp.  54-68;  Abel  and  Winckler,  KrUschrifttexte,  pp.  17-21.  For  translations
 compare  Bezold,  Keilinschriftlichr  Bi'hliothek,  ii,  pp.  80ff.,  and  Rogers,
 Records  of  the  Past,  now  scries,  vi,  pp.  80ff.  On  the  portion  here  given  see
-also  King,  First  Steps  in  Assyrian,  pp.  52ff.;  Winckler,  Krilinschrift-
-liches  Textbuch  mm  Alien  Testament,  pp.  43ff.;  Ungnad  in  Gressmann,
+also  King,  First  Steps  in  Assyrian,  pp.  52ff.;  Winckler,  Krilinschriftliches  Textbuch  mm  Alien  Testament,  pp.  43ff.;  Ungnad  in  Gressmann,
 Altorimtalische  Trxte  und  Bilder,  i,  pp.  119,  120.
 
 (34)  i-na  §al-si  gir-ri-ia  a-na  (matu)  9a-at-ti  lu  al-lik  (35)
@@ -21889,8 +20599,7 @@ kakke  (43)  (ilu)  Aiur  beli-ia  is-bu-pu-su-nu-ti-ma  ik-nu-su  (44)  §e-
 
 SENNACHERIB  AGAINST  JERUSALEM  341
 
-(45)  over  them  and  fixed  upon  him  (46)  yearly  and  un-
-changing taxes  and  tribute  for  my  dominion.  (47)  Min-
+(45)  over  them  and  fixed  upon  him  (46)  yearly  and  unchanging taxes  and  tribute  for  my  dominion.  (47)  Min-
 khimmu  (Menahem)  of  Shamsimuruna,  (48)  Tuba'lu
 (Ethobal)  of  Sidon,  (49)  Abdili'ti  of  Arvad  (Arados),
 (50)  Urumilki  of  Gebal  (Byblos),  (51)  Mitinti  of  Ashdod,
@@ -21898,8 +20607,7 @@ khimmu  (Menahem)  of  Shamsimuruna,  (48)  Tuba'lu
 (52)  Budu-ilu     of     Bit     Ammanaa     (Beth     Ammon),
 
 (53)  Kammusunadbi  of  Moab,  (54)  Malik-rammu  of
-Edom,  (55)  all  kings  of  the  Amurru-Country,  (56)  dis-
-tricts of  great  extent,  brought  rich  presents  (57)  before
+Edom,  (55)  all  kings  of  the  Amurru-Country,  (56)  districts of  great  extent,  brought  rich  presents  (57)  before
 me,  for  the  fourth  time  (?)  and  kissed  my  feet.
 
 (58)  But  Sidqa,  the  king  of  Ashkelon,  (59)  who  had
@@ -21921,33 +20629,27 @@ Eu-u-a  (m)Tu-ba-'-lu  i-na  kussi  Sarrii-ti  (45)  eli-§u-un  u-§e-§ib-ma
 ilat  man-da-at-tu  be-lu-ti-ia  (46)  §at-ti-§am  la  ba-at-lu  u-kin
 ei-ru-u§-§u  (47)  §a  (m)Mi-in-bi-im-mu  (alu)  Sam-si-mu-ru-na-a-a
 (48)  (m)Tu-ba-'-lu  (alu)  Si-du-un-na-a-a  (49)  (m)Ab-di-li-'-ti  (alu)
-A-ru-da-a-a  (50)  (m)U-ru-mil-ki  (alu)  Gu-ub-la-a-a  (51)  (m)Mi-ti-
-in-ti  (alu)  As-du-da-a-a  (52)  (m)Pu-du-ilu  (alu)  Bit-am-ma-na-a-a
+A-ru-da-a-a  (50)  (m)U-ru-mil-ki  (alu)  Gu-ub-la-a-a  (51)  (m)Mi-tiin-ti  (alu)  As-du-da-a-a  (52)  (m)Pu-du-ilu  (alu)  Bit-am-ma-na-a-a
 (53)  (m)Kam-mu-su-na-ad-bi  (matu)  Ma-'-ba-a-a  (54)  (m)(ilu)
 Malik-ram-mu  (matu)  U-du-um-ma-a-a  (55)  §arra-ni  (matu)
 Amurru  ka-li-§u-un  si-di-e  (56)  sad-lu-ti  ta-mar-ta-§u-nu  ka-bit-tu
 a-di   bti  -na   mah-ri-ia  i§-§u-nim-ma  is-§i-ku  §cp6-ia  (58)  u
 
-.<l-k:t-a  Sarru  (alu)  Is-ka-al-lu-na  (60)  sa  la  ik-nu-Sua-nani-ri-
-ia  ilani  bit  abi-Mi  sa-a-su  (60)  a§§at-su  marr-su  marali-.su  abe-§u  ztr
+.<l-k:t-a  Sarru  (alu)  Is-ka-al-lu-na  (60)  sa  la  ik-nu-Sua-nani-riia  ilani  bit  abi-Mi  sa-a-su  (60)  a§§at-su  marr-su  marali-.su  abe-§u  ztr
 bit  abi-§u  (61)  as-su-ba-am-ma  a-na  (matu)  ASSur(ki)  U-ra-a§-§u
 i)SaiTu-lu-da-ri  mar  (m)Hu-kib-ti  §arm-§u-nu  mab-ru-u
-(63)eti  nis.'-  (alu)  I--ka-.il-lu-na  as-kun-ma  na-dan  bilti  (64)  kat-
-ri-e  be-lu-ti-ia  e-mid-SU-ina  i-Sa-at  ap-§a-a-ni  (65)  i-na  me-ti-ik
+(63)eti  nis.'-  (alu)  I--ka-.il-lu-na  as-kun-ma  na-dan  bilti  (64)  katri-e  be-lu-ti-ia  e-mid-SU-ina  i-Sa-at  ap-§a-a-ni  (65)  i-na  me-ti-ik
 pir-ri-ia  (alu)   Bit-da-^an-na  (66)  (alu)   la-an-pu-u  (alu)  Ba-na-a-a-
 
 na    s.''i»«'-ia
 (68)  ar-5i§-la  ik-nu-5u  al-me  ak-Su-ud  aS-lu-la  .sal-la-sun  (69)  (anu'lu)
 
 
-342  CUNEIFORM  PARALLELS
-
 (69)  The    governors,    princes,   and    people    of    Ekron,
 
 (70)  who   had   cast   into   iron   fetters   Padi,   their   king,
 
-(71)  (who  had  been  faithful  to  the  commands  and  com-
-pact of  Assyria),  and  had  given  him  over  to  Hezekiah
+(71)  (who  had  been  faithful  to  the  commands  and  compact of  Assyria),  and  had  given  him  over  to  Hezekiah
 
 (72)  of  Judah,  in  a  hostile  manner, — (73)  their  hearts
 feared.  They  summoned  the  kings  of  Egypt,  (74)  the
@@ -21973,19 +20675,16 @@ Column  III:
 and  (2)  princes,  who  had  committed  sin  I  slew,  and  hung
 their  bodies  (3)  on  poles  around  the  city.    (4)  The  towns-
 
-Sakkanake  (amelu)  rube  u  ni§e  (alu)  Am-kar-ru-na  (70)  §a  (m)Pa-
-di-i  sarri-§u-nu  bel  a-di-e  u  ma-mit  (71)  sa  (matu)  A5§ur  bi-ri-tu
+Sakkanake  (amelu)  rube  u  ni§e  (alu)  Am-kar-ru-na  (70)  §a  (m)Padi-i  sarri-§u-nu  bel  a-di-e  u  ma-mit  (71)  sa  (matu)  A5§ur  bi-ri-tu
 parzilli  id-du-ma  a-na  (m)JJa-za-ki-ia-u  (72)  (matu)  Ia-u-da-a-a
 uUli-nu-su  nak-ris  a-na  an-sil-li  e-sir-su  (73)  ip-lab  lib-ba-su-un
-sarra-ni  (matu)  Mu-su-ri  (74)  (amelu)  sabe  (isu)  kasti  (isu)  nar-
-kabate  (imeru)  E  r  (matu)  Me-lub-bi  (75)  e-mu-ki  la  ni-bi
+sarra-ni  (matu)  Mu-su-ri  (74)  (amelu)  sabe  (isu)  kasti  (isu)  narkabate  (imeru)  E  r  (matu)  Me-lub-bi  (75)  e-mu-ki  la  ni-bi
 
 ik-te-ru-nim-ma  il-li-ku  (76)  ri-su-us-su-un  i-na  ta-mir-ti  (alu)
 Al-ta-ku-u  (77)  el-la-mu-u-a  si-id-ru  §it-ku-nu  u-sa-'-lu  (78)  (isu)
 kakke-su-un  i-na  tukul-ti  (ilu)  Asur  b»Mi-ia  it-ti-§u-un  (79)  am-<la-
 Jji-is-ma  a5-ta-kan  abikta-Su-un  (80)  (amelu)  bel  (isu)  narkabate
-u  mare  sarri  (matu)  Mu-su-ra-a-a  (81)  a-di  (am^lu)  bel  (isu)  nar-
-kabate §a  §arri  (matu)  Me-lub-bi  bal-tu-su-un  (82)  i-na  kabal  tam-
+u  mare  sarri  (matu)  Mu-su-ra-a-a  (81)  a-di  (am^lu)  bel  (isu)  narkabate §a  §arri  (matu)  Me-lub-bi  bal-tu-su-un  (82)  i-na  kabal  tam-
 ba-ri  ik-§u-da  kata-a-a  (alu)  Al-ta-ku-u  (83)  (alu)  Ta-am-na-a  alme
 aksu-ud  as-lu-la  §al-la-sun
 
@@ -22013,8 +20712,7 @@ dominion    (11)  I    laid    upon    him.      And    of    Hezekiah,
 (14)  which  were  around  them,  without  number,  (15)  by
 the  battering  of  rams  and  the  assault  of  engines,  (16)  the
 attack  of  foot-soldiers,  mines,  breaches,  and  axes.
-(17)  I  besieged  and  captured  them.  Two  hundred  thou-
-sand one  hundred  and  fifty  men,  young,  old,  male  and
+(17)  I  besieged  and  captured  them.  Two  hundred  thousand one  hundred  and  fifty  men,  young,  old,  male  and
 female,    (18)  horses,    mules,    asses,    camels,    oxen     and
 
 (19)  sheep  without  number  I  brought  out  from  them  and
@@ -22027,8 +20725,7 @@ came  forth  from  the  gate  of  his  city  I  punished1  (?)  him.
 from  his  land,  and  gave  them  to  Mitinti,  king  of  Ashdod,
 (25)  Padi,  king  of  Amqaruna  and  Sillibel   (26)  king  of
 
-1  The  translation  punished  is  Ungnad's.     I  set  it  down  very  doubt-
-fully.    Perhaps  it  would  be  better  to  translate  "I  turned  back."
+1  The  translation  punished  is  Ungnad's.     I  set  it  down  very  doubtfully.    Perhaps  it  would  be  better  to  translate  "I  turned  back."
 
 (5)  a-na  §al-la-ti  am-nu  si-it-tu-te-§u-nu  (6)  la  ba-bil  J^i-t i— ti  u  kul-
 
@@ -22065,8 +20762,6 @@ fia  afi-lu-la  ul-tu  Id-rib  m.'iti-su   (24)  ab-tuk-ma  a-na  (tn)Mi-ti-in-t
 !6)  sar  (alu)    !Ja-zi-ti  ad-din-ma  u-sa-alj-liir  inal-su   (27)    e-li
 
 
-344  CUNEIFORM  PARALLELS
-
 Gaza,  and  diminished  his  land.  (27)  Beside  the  former
 taxes,  paid  yearly,  I  added  (28)  the  tribute  and  presents
 of  my  dominion,  and  (29)  laid  these  upon  them.  As  for
@@ -22083,13 +20778,10 @@ musicians,  (39)  female  musicians  he  despatched  (40)  after
 me  to  Nineveh,  my  capital  city.  He  sent  his  ambassador
 to  give  tribute  (41)  and  make  submission.
 
-bilti  mab-ri-ti  na-dan  sat-ti-su-un  (28)  man-da-at-tu  kat-ri-e  br-lu-
-ti-ia  u-rad-di-ma  (29)  u-kin  si-ru-us-Su-un  su-u  (m)Qa-za-ki-a-u
+bilti  mab-ri-ti  na-dan  sat-ti-su-un  (28)  man-da-at-tu  kat-ri-e  br-luti-ia  u-rad-di-ma  (29)  u-kin  si-ru-us-Su-un  su-u  (m)Qa-za-ki-a-u
 (30)  pul-&i  m6-lam-me  bd-lu-ti-ia  is-h,u-pu-§u-ma  (31)  (amtlu)  ur-bi
-u  (amelu)  sab£-su  damkuti  (32)  sa  a-na  dun-nu-un  (alu)  Ur-sa-li-
-im-mu  (alu)  sarru-ti-§u  (33)  u-Sr-ri-bu-ma  ir-§u-u  bat-la-a-ti  (34)  it
-ti  XXX  bilat  burasi  Vlil.C  l>ilat  kaspi  ni-sik-ti  (35)  gu-uh,-li  «lak-
-kas-si  (abnu)  ukni  (?)  rabuti  (36)  (isu)  irsr  sinni  (isu)  kussr  ni-rnc-di
+u  (amelu)  sab£-su  damkuti  (32)  sa  a-na  dun-nu-un  (alu)  Ur-sa-liim-mu  (alu)  sarru-ti-§u  (33)  u-Sr-ri-bu-ma  ir-§u-u  bat-la-a-ti  (34)  it
+ti  XXX  bilat  burasi  Vlil.C  l>ilat  kaspi  ni-sik-ti  (35)  gu-uh,-li  «lakkas-si  (abnu)  ukni  (?)  rabuti  (36)  (isu)  irsr  sinni  (isu)  kussr  ni-rnc-di
 §inni  ma§ak  piri  (37)  §inni  piri  (isu)  u§u  (isu)  ukarinnu  minima
 Sum-su  ni-sir-tu  ka-bit-tu  (38)  u  m&rati-su  (sal)  zikivti  ckalli-§u
 (ainrlu)  zammon-  (39)  (sal)  zammereti  a-na  ki-rib  Ninua(ki)  alu
@@ -22104,8 +20796,7 @@ upon]  him  the  tribute  of  my  dominion;  (15)  I  destroyed
 the  broad  district  of  Judah;  I  laid  my  yoke  upon  Heze-
 
 
-»  Published  I  R.,  43.  Translated  by  Bezold,  Keilinschriftliche  Biblio-
-thek,  ii,  pp.  118ff.;  Winckler,  Keilinschriftliches  Textbuch  zum  Alten
+»  Published  I  R.,  43.  Translated  by  Bezold,  Keilinschriftliche  Bibliothek,  ii,  pp.  118ff.;  Winckler,  Keilinschriftliches  Textbuch  zum  Alten
 Testament,  p.  47;  Ungnad  in  Gressmann,  op.  cit.,  p.  121,  footnote  3.
 
 (13)  §a  (m)Lu-li-i  sar  (alu)  Si-du-un-ni  e-kim  sarru-su  (14)
@@ -22130,8 +20821,7 @@ I  Perhaps  Togarmah,  Gen.  10.  3;  1  Chron.  1.  6;  Ezek.  27.  14;  38.  1
 ki-a-u  sarrfi-su  e-mid  ap-sa-a-ni  (16)  ameluti  (alu)  Tu-mur-ra-a-a
 a-si-bu-ut  sadi-i  mar-si  i-na  (isu)  kakke  u-sam-kit  (alu)  Uk-ku
 (17)  a-di  nap-h,ar  da-ad-me-su  ki-ma  til  a-bu-bi  u-ab-bit  nise  (matu)
-gi-lak-ki  a-si-bu-ut  (IS)  Jjur-sa-a-ni  a-lul  i-na  (isu)  kakke  alani-su-
-nu  ab-bul  ak-kur  i-na  isati  ak-mu  (19)  (alu)  Til-ga-rim-mu  sa  pa-ad
+gi-lak-ki  a-si-bu-ut  (IS)  Jjur-sa-a-ni  a-lul  i-na  (isu)  kakke  alani-sunu  ab-bul  ak-kur  i-na  isati  ak-mu  (19)  (alu)  Til-ga-rim-mu  sa  pa-ad
 (matu)  Ta-ba-li  aksu-ud-ma  u-tir  a-na  karme
 
 3.  Sennacherib  at  Lachish,  701
@@ -22141,8 +20831,7 @@ nu  ab-bul  ak-kur  i-na  isati  ak-mu  (19)  (alu)  Til-ga-rim-mu  sa  pa-ad
 Lakish  marched  before  him.
 
 
-1  Published  by  Layard,  Monuments  of  Nineveh,  ii,  Plate  23.  Trans-
-lated by  Bezold,  Kei'linschr ij (lichen  Bibliothek,  ii,  p.  114;  Rogers,  Records
+1  Published  by  Layard,  Monuments  of  Nineveh,  ii,  Plate  23.  Translated by  Bezold,  Kei'linschr ij (lichen  Bibliothek,  ii,  p.  114;  Rogers,  Records
 of  the  Past,  new  series,  vi,  p.  83;  Winckler,  Keihnschriftliches  Textbuch,
 p.  47.
 
@@ -22155,8 +20844,7 @@ ni-mi-di  u-sib-ma  (3)  sal-la-at  (alu)  La-ki-su  (4)  ma-h,a-ar-su-e-ti-ik
 (22)  .     .     .     Telkhjunu,  the  queen  of  Arabia,  in  the
 midst  of  the  desert,  (23)  from  her  I  took  away  a  thousand
 
-1  Th<-  diaoowy  of  thi<  fragment  was  first  announced  by  Scheil  (Ori-
-entalist i.<c/<<     Literatur-Zeitung,    1904,   Feb.,    cols.   69,   70),   who  cave  a
+1  Th<-  diaoowy  of  thi<  fragment  was  first  announced  by  Scheil  (Orientalist i.<c/<<     Literatur-Zeitung,    1904,   Feb.,    cols.   69,   70),   who  cave  a
 hasty  transcription   of  it.   and   said  that    it    camr  from  Mosul.      It   has
 (1  to  the  possession  of  the  Berlin  Museum,  and  is  published  by
 Ungnad,     V orderasvalische    Schriftdeji/.m,,/,  r    <!,  r    KGnigl.     Muaeen    zu
@@ -22171,8 +20859,6 @@ I  liilder,  i,  p.  121.    The  campaign  i    mentioned  by  Esarhaddon
 mad-ba-ri    (23)    (im^ru)    gammale:     e-kim      ka-tus-sa     §i-i     it-ti
 
 
-346  CUNEIFORM  PARALLELS
-
 camels.  (24)  The  fear  of  my  dominion  cast  her  down,
 and  Khazail  also.  They  left  their  tents  (25)  and  fled  to
 Adunimatu,  (26)  whose  location  is  in  the  desert,  (27)  a
@@ -22183,14 +20869,12 @@ to  drink.
 §e-ru-u  (25)  lu   (alu)  A-du-um-ma-te   a-na  nap-§a-a-ti  in-
 
 nab-tu  (26)  .  .  .  A-du-um-ma-tu  §a  ki-rib  mad-ba-ri  §it-ku-na-at
-Su-bat-sun  (27)  .  .  au-um-me  §a  ri-i-tu  ma§-ki-tu  la  ba-§u-u  ki-
-rib-§u
+Su-bat-sun  (27)  .  .  au-um-me  §a  ri-i-tu  ma§-ki-tu  la  ba-§u-u  kirib-§u
 
 5.  Herodotus  on  the  Campaign  of  Sennacherib  '
 
 The  next  king  was  a  priest  of  Hephaistos,  called
-Sethos.  This  monarch  despised  and  neglected  the  war-
-rior class  of  the  Egyptians,  as  though  he  did  not  need
+Sethos.  This  monarch  despised  and  neglected  the  warrior class  of  the  Egyptians,  as  though  he  did  not  need
 their  services.  Among  other  indignities  he  went  so  far
 as  to  take  from  them  the  lands  which  they  had  possessed
 under  all  the  previous  kings,  consisting  of  twelve  acres
@@ -22210,8 +20894,7 @@ Rudolph  Dietsch,  editio  alter  curavit  H.  Kallenberg  (Leipzig,  Teubner,
 1894),  pp.  204,  205.
 
 Mr  to.  At  tovtov  (3aoiXevoai  tov  iepea  tov  'H^a/orw,  r<jj  ovvofia  elvai  Zeduv.
-tov  ev  h7joyi-qoi  lxuv  Kapaxpyoafievov  T^v  f^X^uv  AlyvnTtuv  ug  ovdev  deqao-
-fievov  ai)Tuvt  aXXa  re  6rj  arifui  irociovra  eg  avrovg,  mi  a<j>eag  aire'kkoSai  Tag
+tov  ev  h7joyi-qoi  lxuv  Kapaxpyoafievov  T^v  f^X^uv  AlyvnTtuv  ug  ovdev  deqaofievov  ai)Tuvt  aXXa  re  6rj  arifui  irociovra  eg  avrovg,  mi  a<j>eag  aire'kkoSai  Tag
 apoipag  rdiai  eirt  tuv  irporipuv  fiaoikew  dedbadat  kS-atpfrovg  i/cdorcj  dvoriena
 apovpag.  fitra  6e  err'  Aiyvjrrov  eXavveiv  arparbv  piyav  Zavaxaptflov  /3a<rt?ia
 A.pa(3iuv  re  nat  Aaavpiwv.  ovk  l>v  dy  edkleiv  Tovg  fiax'ipovg  tov  Aiyvrriuv
@@ -22245,8 +20928,7 @@ the  Troad.  Compare  Strabo,  xiii,  605,  and  see  for  coins  with  such  a
 representation,  Corpus  Ins.  Graecarum,  ii,  3577,  3582;  iv,  7029;  Rev.
 Arch.,  xi,  448;  Overbeck  K.-M.  Apollon.  Munztafel,  v,  25-28,  30-33.
 
-roiat  6i]  fitv  iriowov  rolai  kvvTrvioioi,  irapahaftovra  AlyvKTiuv  rove  (3ovAofii-
-vovc  ol  lireoBai,  arparmredevaaffdac  iv  II^Aov<t/^>  (ravrrj  yap  itm  at  ioJoAai)'
+roiat  6i]  fitv  iriowov  rolai  kvvTrvioioi,  irapahaftovra  AlyvKTiuv  rove  (3ovAofiivovc  ol  lireoBai,  arparmredevaaffdac  iv  II^Aov<t/^>  (ravrrj  yap  itm  at  ioJoAai)'
 lireoOai  Si  ol  t&v  ftaxttluv  H**  ovSiva  avSpiov,  Ka^rfkovq  Si  Kal  ^e^wva/crac
 Kol  ayopaiovg  avOpcjirow;.  ivdavra  aiuKOfiivov,  roiai  ivavrioiai  \avroloi\  irrt-
 Xvdkvrag  vwcroc  fivg  apovpaiovg  Kara  uev  <payelv  rovg  (jxzperpeuvac  avruv  Kara
@@ -22275,8 +20957,6 @@ Eusel)i  Chromcorum,  [iber  I.,  edSchoene  (Berlin.  1875),  I.  27,
 Abydeni  de  Senecherimo.    Hoc  tempore  vicesimua  quintua  utique
 
 
-348  CUNEIFORM  PARALLELS
-
 time  we  find  Sennacherib,  who  was  the  twenty-fifth  at
 least  in  the  succession  of  kings.  He  reduced  Babylon
 beneath  his  sway.  .  .  .  [The  following  words  properly
@@ -22287,8 +20967,7 @@ who  was  his  brother  on  the  father's,  though  not  on  the
 mother's  side.  He  pursued  the  army  to  Byzantium  and
 there  shut  it  up.
 
-After  the  reign  of  Sennacherib's  brother,  Akises  be-
-came king  over  the  Babylonians.  He  reigned  less  than
+After  the  reign  of  Sennacherib's  brother,  Akises  became king  over  the  Babylonians.  He  reigned  less  than
 thirty  days,  being  murdered  by  Merodach-baladan,  who
 then  forcibly  held  the  kingdom  for  six  months.  Baldanus
 [i.  e.,  Merodach-baladan]  was  killed  by  a  certain  Elibus,
@@ -22296,20 +20975,17 @@ who  then  became  king.  In  the  third  year  of  the  reign  of
 Elibus,  Sennacherib,  king  of  the  Assyrians,  gathered  an
 army  against  the  Babylonians,  defeated  them  in  battle
 and  ordered  the  captive  king  and  his  friends  to  be  led
-into  the  land  of  Assyria.  Having  subdued  the  Baby-
-lonians, he  set  up  his  son  Asordanius  as  king,  withdrawing
+into  the  land  of  Assyria.  Having  subdued  the  Babylonians, he  set  up  his  son  Asordanius  as  king,  withdrawing
 himself  and  proceeding  to  Assyria.
 
-Sinecherib  tandem  ex  regibus  (regnant  ibus)  inventus  est  (invenieba-
-tur)  qui  Babelonem  sub  dititionem  (manum  suam  redigens  subedit.
+Sinecherib  tandem  ex  regibus  (regnant  ibus)  inventus  est  (inveniebatur)  qui  Babelonem  sub  dititionem  (manum  suam  redigens  subedit.
 .  .  .  Deinceps1  autem  post  eum  Nergilus  regnavit.  <mi  a  filio
 Adramelo  est  interemptus  (interimebatur) :  at  hunc  ejusdem  fmter
 Axerdis  ex  eodem  (uno)  patre,  non  autem  ex  eadem  matre,  occidit
 (occidebat);  et  exercitum  persecutus  in  Byzantinorum  urbem
 injecit  (injiciebat).    lb.,  35.  4-7,  17-22.
 
-Postquam  regnasset  f rater  Senecheribi  et  postquam  Akises  Baby-
-loniis  dominatus  esset,  et  necdum  triginta  quidem  diebus  regnum
+Postquam  regnasset  f rater  Senecheribi  et  postquam  Akises  Babyloniis  dominatus  esset,  et  necdum  triginta  quidem  diebus  regnum
 tenuisset,  a  Marodach  Baldano  occisus  est;  et  Marodach  Baldanus
 per  vim  (regnum)  tenebat  sex  mensibus:  eum  vero  interficiens
 quidam  cui  nomen  erat  Elibus  regnabat.  Verum  tertio  regni  ejus
@@ -22335,8 +21011,7 @@ Sennacherib  had  provided  for  the  succession  to  the
 throne,  while  he  still  lived,  by  choosing  Esarhaddon  as
 the  crown  prince.  The  king's  death  may  have  been  due
 to  jealousy  engendered  by  that  choice,  for  such  would
-be  a  natural  Oriental  sequence  of  the  decree  which  ele-
-vated a  younger  son  to  the  highest  honors.  Esarhaddon
+be  a  natural  Oriental  sequence  of  the  decree  which  elevated a  younger  son  to  the  highest  honors.  Esarhaddon
 had  been  living  in  Babylon,  and  immediately  on  his
 father's  assassination  was  there  proclaimed  king,  but
 had  to  hasten  to  Nineveh  to  quell  a  rebellious  effort  to
@@ -22374,13 +21049,9 @@ During  the  long  reign  of  Manasseh  there  was,
 :-.  19.  37.  ■  Babylonian  Chronicle,  iii.  36-38.
 
 
-350  CUNEIFORM  PARALLELS
-
 indeed,  no  opportunity  for  rebellion.  The  land  was  held
-in  subjection  by  the  fear  inspired  by  Esarhaddon's  cam-
-paigns against  Sidon  and  against  Egypt.  The  first  works
-of  war  to  which  Esarhaddon  gave  his  hand  were  in  pun-
-ishment of  the  Chaldeans,  who  had  conquered  in  Baby-
+in  subjection  by  the  fear  inspired  by  Esarhaddon's  campaigns against  Sidon  and  against  Egypt.  The  first  works
+of  war  to  which  Esarhaddon  gave  his  hand  were  in  punishment of  the  Chaldeans,  who  had  conquered  in  Baby-
 lonia as  far  north  as  Ur.  These  were  speedily  driven  out
 and  a  new  administration  of  affairs  provided  among  them.
 
@@ -22390,19 +21061,15 @@ which  followed  speedily  upon  them.  Sennacherib  had
 set  up  a  new  province  in  Sidon,  and  so  long  as  Ethobal
 lived,  whom  he  had  made  king,  the  subservience  to
 Assyria  continued.  His  son  Abd-milkot  formed  an
-alliance  with  two  city  kings  inhabiting  the  Cilician  high-
-lands and  suspended  the  payment  of  tribute.  Esar-
-haddon set  out  for  the  west,  and  on  his  approach  Abd-
-milkot  fled  to  sea  and  left  his  city  to  its  fate.  The  siege
+alliance  with  two  city  kings  inhabiting  the  Cilician  highlands and  suspended  the  payment  of  tribute.  Esar-
+haddon set  out  for  the  west,  and  on  his  approach  Abdmilkot  fled  to  sea  and  left  his  city  to  its  fate.  The  siege
 and  the  campaign  against  the  allies  of  Abd-milkot
 lasted  three  years,  and  when  the  city  fell  it  was  savagely
 dismantled,  its  stones  tumbled  into  the  sea,  and  upon
 its  site  a  new  Assyrian  city  bearing  Esarhaddon's  name
-was  erected  and  peopled  by  captives  drawn  from  dis-
-tant conquered  lands.  It  was  a  piece  of  folly  that  could
+was  erected  and  peopled  by  captives  drawn  from  distant conquered  lands.  It  was  a  piece  of  folly  that  could
 produce  no  enduring  results;  the  ancient  name  of  Sidon
-persisted  in  spite  of  Esarhaddon,  and  but  for  his  boast-
-ful words  the  world  had  never  known  that  Esarhad-
+persisted  in  spite  of  Esarhaddon,  and  but  for  his  boastful words  the  world  had  never  known  that  Esarhad-
 don's-burg  had  ever  occupied  the  site.  But  we  must
 not  fail  to  observe  that  such  a  castigation  as  Sidon  had
 received  would  not  be  without  influence  in  Judah.  We
@@ -22418,12 +21085,10 @@ ESARHADDON  351
 
 quer,  though  his  attack  must  have  seriously  injured  the
 city's  commerce.  Tyre  was  never  a  menace  to  Assyria's
-growth  in  commercial  or  in  political  power,  and  Esar-
-haddon's  only  loss  through  the  failure  to  reduce  it  was
+growth  in  commercial  or  in  political  power,  and  Esarhaddon's  only  loss  through  the  failure  to  reduce  it  was
 in  the  plunder  which  might  have  been  secured.
 
-Esarhaddon  had  now  attacked  two  important  Phoeni-
-cian cities,  but  the  real  enemy  of  Assyrian  progress  in
+Esarhaddon  had  now  attacked  two  important  Phoenician cities,  but  the  real  enemy  of  Assyrian  progress  in
 the  west  remained  untouched.  So  long  as  Egypt  was
 permitted  to  stir  up  at  will  the  smaller  western  states  to
 rebellion,  just  so  long  would  Assyrian  domination  be  in
@@ -22442,13 +21107,11 @@ Egypt  by  attacking  and  defeating  its  possible  allies  in
 Arabia  and  in  the  great  deserts.  In  671  Esarhaddon
 was  ready  to  push  boldly  into  Egypt,  and  in  three
 successive  battles  Tirhaqa  was  defeated  and  the  land
-as  far  south  as  Thebes  was  conquered.  The  whole  cam-
-paign was  a  driving  of  Ethiopians  out  of  Egypt  and  the
+as  far  south  as  Thebes  was  conquered.  The  whole  campaign was  a  driving  of  Ethiopians  out  of  Egypt  and  the
 changing  of  the  overlordship  of  the  ancient  land  from
 their  hands  to  those  of  the  Assyrians.
 
-Immediately  on  the  conclusion  of  the  successful  cam-
-paign in  Egypt  Esarhaddon  had  to  quell  a  rebellion  in
+Immediately  on  the  conclusion  of  the  successful  campaign in  Egypt  Esarhaddon  had  to  quell  a  rebellion  in
 Assyria,  the  cause  of  which  is  unknown.
 
 Hardly  had  Esarhaddon  left  Egypt  when  Tirhaqa
@@ -22457,8 +21120,6 @@ again  entered  it  from  the  south  and  began  a  reconquest,
 1  Babylonian  Chronicle,  iv,  10.   |  _'17).
 
 
-352  CUNEIFORM  PARALLELS
-
 and  Esarhaddon,  in  668,  set  out  against  him.  From
 this  expedition  he  never  returned,  but  died  on  the  long
 and  toilsome  march.
@@ -22466,13 +21127,10 @@ and  toilsome  march.
 Before  setting  out  for  Egypt  on  the  last  campaign
 Esarhaddon  had  made  a  proclamation  on  the  Feast  of
 Gula  (April,  668  B.  C.)  of  his  son,  Ashurbanapal,  as
-the  next  king  of  Assyria,  and  his  younger  son,  Shamash-
-shum-ukin,  as  king  of  Babylon.  This  disposition  of  the
+the  next  king  of  Assyria,  and  his  younger  son,  Shamashshum-ukin,  as  king  of  Babylon.  This  disposition  of  the
 kingdom  was  to  be  the  beginning  of  the  end  of  Assyrian
-power,  though  in  the  beginning  it  seemed  on  the  sur-
-face to  augur  so  well  for  peace.  Ashurbanapal,1  the
-Sardanapalus  of  the  Greeks  and  Latins,  and  the  Asnap-
-per  of  the  Old  Testament,  became  king  without  a  word
+power,  though  in  the  beginning  it  seemed  on  the  surface to  augur  so  well  for  peace.  Ashurbanapal,1  the
+Sardanapalus  of  the  Greeks  and  Latins,  and  the  Asnapper  of  the  Old  Testament,  became  king  without  a  word
 of  protest,  as  did  also  his  brother  in  Babylon.
 
 The  first  deed  in  Ashurbanapal's  reign  was  to  carry
@@ -22490,8 +21148,7 @@ surrendered  to  him,  and  Ushu  and  Acco  were  punished.
 
 During  fifteen  years  the  dual  government  went  on
 peacefully,  but  in  652  Shamash-shum-ukin  rebelled
-against  his  brother  and  a  civil  war  of  terrible  vindic-
-tiveness  began  between  Babylonia  and  Assyria.  Asshur-
+against  his  brother  and  a  civil  war  of  terrible  vindictiveness  began  between  Babylonia  and  Assyria.  Asshur-
 banapal  triumphed,  and  in  648  his  brother  died  by  his
 own  hand.  Ashurbanapal  became  king  of  Babylon
 under  the  name  and  style  of  Kandalanu  in  647.    The
@@ -22505,25 +21162,20 @@ ESARHADDON,  PRISM  A  353
 campaigns  between  647  and  640  were  chiefly  directed
 against  kings  and  peoples  of  small  moment,  and  no
 effort  was  made  to  extend  the  borders  of  the  empire.
-From  640  until  the  end  of  his  reign,  in  626,  Ashur-
-banapal  was  devoted  to  works  of  peace  upon  a  scale
-unapproached  by  any  previous  Assyrian  monarch.  Tem-
-ples, both  in  Assyria  and  in  Babylonia,  were  rebuilt,
+From  640  until  the  end  of  his  reign,  in  626,  Ashurbanapal  was  devoted  to  works  of  peace  upon  a  scale
+unapproached  by  any  previous  Assyrian  monarch.  Temples, both  in  Assyria  and  in  Babylonia,  were  rebuilt,
 renewed,  or  richly  adorned  by  him.  In  these  years
 Assyrian  art  touched  a  point  attained  by  no  other
 ancient  Oriental  people,  while  a  great  wave  of  ease,
 culture,  and  luxury  swept  over  the  kingdom.  Greatest
 of  all  the  works  of  Ashurbanapal  was  the  library.
 The  ancient  archives  of  the  two  kingdoms  were  searched
-for  books,  and  when  interesting  or  important  docu-
-ments were  discovered  they  were  taken  to  Nineveh,
+for  books,  and  when  interesting  or  important  documents were  discovered  they  were  taken  to  Nineveh,
 there  to  be  copied  and  annotated  by  the  scholars  of
 the  court.  The  copies  were  preserved  in  the  palace,
 while  the  originals  went  back  to  the  place  whence  they
-had  been  borrowed.  The  library  thus  formed  num-
-bered not  less  than  ten  thousand  tablets,  and  from  its
-discovery  comes  a  large  part  of  our  knowledge  of  As-
-syrian history,  literature,  and  science.  In  the  year  626
+had  been  borrowed.  The  library  thus  formed  numbered not  less  than  ten  thousand  tablets,  and  from  its
+discovery  comes  a  large  part  of  our  knowledge  of  Assyrian history,  literature,  and  science.  In  the  year  626
 Ashurbanapal  died,  leaving  behind  him  an  empire
 stately  and  magnificent,  but  much  diminished.
 
@@ -22546,10 +21198,7 @@ Column  I:
 (10)  ka-Sid  (alu)  Si-du-un-ni  §a  ina  kabal  tam-tim  (11)  sa-pi-nu
 
 
-354  CUNEIFORM  PARALLELS
-
-which  lies  in  the  midst  of  the  sea;  (11)  he  who  over-
-whelmed all  its  houses;  (12)  its  walls,  its  dwellings  I  tore
+which  lies  in  the  midst  of  the  sea;  (11)  he  who  overwhelmed all  its  houses;  (12)  its  walls,  its  dwellings  I  tore
 down,  (13)  cast  them  into  the  sea,  (14)  and  made  the
 place  where  they  stood  a  ruin.  (15)  Abdmilkot  its  king,
 (16,  17)  who  had  fled  into  the  sea  before  my  arms,
@@ -22562,29 +21211,24 @@ in  a  mass;  (25)  its  people  without  number,  (26)  cattle
 and  sheep,  asses  (27)  I  carried  away  to  Assyria.  (28)  I
 collected  the  kings  of  the  Hittite  country,  (29)  and  of
 the  sea-coast  all  of  them.  (30)  I  erected  in  another
-place  a  city  and  (31)  called  its  name  Esarhaddon-
-burg.  (32)  The  people,  the  spoil  of  my  bow,  from
+place  a  city  and  (31)  called  its  name  Esarhaddonburg.  (32)  The  people,  the  spoil  of  my  bow,  from
 the  hill  country  (33)  and  from  the  eastern  Sea,  (34)
 I  settled  there,  (35)  my  officials  as  governors  I  set  over
 them.
 
 Column  II:
 
-(55)  Adumu,  a  fortress  of  Aribi,  (56)  which  Sennach-
-erib king  of  Assyria,  (57)  my  father,  my  begetter,  had
+(55)  Adumu,  a  fortress  of  Aribi,  (56)  which  Sennacherib king  of  Assyria,  (57)  my  father,  my  begetter,  had
 captured;
 
 gi-mir  da-ad-me-§u  (12)  duru-§u  u  §u-bat-su  as-sub-ma  (13)  ki-rib
-tam-tim  ad-di-i-ma  (14)  a-§ar  ma§-kan-i-§u  u-bal-lik  (15)  (m)Ab-
-di-mil-ku-ut-ti  §arru-§u  (16)  Sa  la-pa-an  kakko-ia  (17)  ina  kabal
-tam-tim  in-nab-tu  (18)  ki-ma  nu-u-ni  ul-tu  ki-rib  tam-tim  (19)  a-
-bar-§u-ma  ak-ki-sa  kak-ka-su  (20)  nak-mu  busu-§u  fciirasi  kaspi
+tam-tim  ad-di-i-ma  (14)  a-§ar  ma§-kan-i-§u  u-bal-lik  (15)  (m)Abdi-mil-ku-ut-ti  §arru-§u  (16)  Sa  la-pa-an  kakko-ia  (17)  ina  kabal
+tam-tim  in-nab-tu  (18)  ki-ma  nu-u-ni  ul-tu  ki-rib  tam-tim  (19)  abar-§u-ma  ak-ki-sa  kak-ka-su  (20)  nak-mu  busu-§u  fciirasi  kaspi
 abni  a-kar-tu  (21)  malak  piri  Sin  piri  (isu)  u§u  (isu)  urkarinu
 (22)  (subatu)  lu-bul-ti  birme  u  kit!  mimma  §um-§u  (23)  ni-sir-ti
 ekalli-su  (24)  a-na  mu-'-di-e  as-lu-la  (25)  nise-su  rapSati  sa  ni-ba
 la  i-sa-a  (26)  alpe  u  si-e-ni  imere  (27)  a-bu-ka  a-na  ki-rib  (matu)
-A§ur(ki)  (28)  u-pa-tir-ma  §arrdni  (matu)  Qat-ti  (29)  u  a-Jji  tam-
-tim  ka-li-§u-nu  (30)  ina  a§-ri  §a-nim-ma  alu  u-§e-pi§-ma  (31)  (alu)
+A§ur(ki)  (28)  u-pa-tir-ma  §arrdni  (matu)  Qat-ti  (29)  u  a-Jji  tamtim  ka-li-§u-nu  (30)  ina  a§-ri  §a-nim-ma  alu  u-§e-pi§-ma  (31)  (alu)
 Kar-ASur-afci-iddin-na  at-tab-bi  ni-bit-su  (32)  ni§e  bu-bu-ut  kasti-ia
 §a  §adi-i  (33)  u  tam-tim  si-it  §am-§i  (34)  ina  lib-bi  u-se-§i-ib
 (35)  (amelu)  §u-ud-§ak-ia  amel  pi^jati  eli-§u-nu  a§-kun
@@ -22603,8 +21247,7 @@ Column  III:
 (1,2)  and  brought  its  gods  to  Assyria;  (3)  Hazael,  king
 of  Aribi  came  (4)  with  a  heavy  tribute  (5)  to  Nineveh,
 my  residence  (6)  and  kissed  my  feet;  (7)  he  pleaded  for
-the  gift  of  his  gods.  (8)  I  showed  him  favor,  (9)  and  re-
-paired the  broken  portions  of  those  gods;  (10)  the  power
+the  gift  of  his  gods.  (8)  I  showed  him  favor,  (9)  and  repaired the  broken  portions  of  those  gods;  (10)  the  power
 of  Ashur,  my  lord,  (11)  as  well  as  my  name  I  inscribed
 upon  them  and  (12)  gave  them  back  to  him.  (13)  Tabua,
 born  in  my  palace,  (14)  I  set  over  them  in  dominion,
@@ -22613,8 +21256,7 @@ born  in  my  palace,  (14)  I  set  over  them  in  dominion,
 
 (16)  I  added  sixty-five  camels  to  the  (17)  tax  of  my
 father,  and  (18)  put  them  upon  him.  (19)  After  that  fate
-carried  away  Hazael,  and  (20)  I  put  Ya'lu  his  son  (21)  up-
-on his  throne,  and  added  to  his  father's  taxes  (22)  ten
+carried  away  Hazael,  and  (20)  I  put  Ya'lu  his  son  (21)  upon his  throne,  and  added  to  his  father's  taxes  (22)  ten
 minas  of  gold,  one  thousand  costly  (?)  stones,  (23)  fifty
 camels,  one  thousand  measures  (?)  of  spices,  (24)  and  put
 them  upon  him.
@@ -22626,8 +21268,7 @@ Column  V:
 had    built,    (2)  to    house    equipments,    and    shelter   the
 
 1  First  published  III  R.,  15,  16,  corrections  by  R.  F.  Harper,  in
-Hebraica,  iii,  pp.  177-1S5,  who  also  gave  a  transliteration  and  transla-
-tion, ib.,  iv,  pp.  146-157.  See  also  Winckler  in  Schrader,  Keilinschrift-
+Hebraica,  iii,  pp.  177-1S5,  who  also  gave  a  transliteration  and  translation, ib.,  iv,  pp.  146-157.  See  also  Winckler  in  Schrader,  Keilinschrift-
 liche  Bibliothetc,  ii,  p.  140f.,  and  Keilinschriftliches  Textbuch  turn  Alien
 Testament,  3te  Ant.,  pp.  51,   52,   and   partly  also  by  Ungnad  in  Grese-
 
@@ -22671,8 +21312,6 @@ Column  V:
 (1)  Sa  [Sarrani  a-lik  mah,-ri  abe-ia  u-8e-pi-Su]  (2)  a-na  su[-te-8ur
 
 
-356  CUNEIFORM  PARALLELS
-
 horses,  (3)  mules,  chariots,  weapons,  arms  of  battle,
 (4)  the  spoil  of  enemies,  everything  (5)  which  Ashur,
 the  king  of  the  gods,  bestowed  upon  me  as  my  royal
@@ -22681,8 +21320,7 @@ chariots  (7)  .  .  .  I  made  the  inhabitants  of  the  lands,
 the  booty  of  my  bow,  (8)  carry  the  bag  and  basket,  and
 make  bricks.  (9)  That  small  building  I  tore  down  in  its
 entirety.  (10)  A  large  piece  of  land  I  took  from  the
-field  as  a  building  place  (11)  and  added  it.  With  pili-
-stones,  a  stone  of  the  mountains  .  .  .  (12)  I  built  a
+field  as  a  building  place  (11)  and  added  it.  With  pilistones,  a  stone  of  the  mountains  .  .  .  (12)  I  built  a
 terrace.  I  demanded  of  the  kings  of  the  Hittite  country,
 and  of  those  beyond  the  sea,  (13)  of  Ba'al,  king  of  Tyre,
 Manasseh,  king  of  Judah,  (14)  Kau§-gabri,  king  of  Edom,
@@ -22714,12 +21352,10 @@ Ia-u-di  (14)  (m)Ka-u§-gab-ri  §ar  (alu)  U-du-me  (15)  (m)xMu-sur-i
 §ar  (alu)  Ma-'-ba  (16)  (m)  Sil-bel  Sar  (alu)  ^a-zi-ti  (m)Me-ti-'in-ti
 Sar  (alu)  Is-ka-lu-na  (17)  (m)I-ka-u-su  Sar  (alu)  Am-kar-ru-na
 (m)Mil-ki-a-sa-pa  Sar  Gu-ub-li  (18)  (m)Ma-ta-an-ba-'-al  Sar  (alu)
-A-ru-a-di  (m)A-bi-ba-al  Sar  (alu)  Sam-si-mu-ru-na  (19)  (m)Pu-du-
-ilu  Sar  (alu)  Bit-am-ma-na  (m)A^i-mil-ku  Sar  (alu)  AS-du-di  (20)
+A-ru-a-di  (m)A-bi-ba-al  Sar  (alu)  Sam-si-mu-ru-na  (19)  (m)Pu-duilu  Sar  (alu)  Bit-am-ma-na  (m)A^i-mil-ku  Sar  (alu)  AS-du-di  (20)
 XII  Sarrani  Sa  kiSad  tam-tim  (m)E-ki-iS-tu-ra  Sar  (alu)  E-di-'-
 al  (21)  (m)Pi-la-a-gu-ra  Sar  (alu)  Ki-it-ru-si  (m)Ki-i-su  Sar  (alu)
-Si-il-lu-u-a  (22)  (m)I-tu-u-an-da-[ar]  Sar  (alu)  Pa-ap-pa  (m)E-ri-
-e-su  Sar  (alu)  Si-il-lu    (23)  (m)Da-ma-su  Sar  (alu)  Ku-ri-i  (m)At-
+Si-il-lu-u-a  (22)  (m)I-tu-u-an-da-[ar]  Sar  (alu)  Pa-ap-pa  (m)E-rie-su  Sar  (alu)  Si-il-lu    (23)  (m)Da-ma-su  Sar  (alu)  Ku-ri-i  (m)At-
 
 
 ESARHADDON  AGAINST  EGYPT  357
@@ -22742,10 +21378,8 @@ difficulty  and  labor  (26)  to  Nineveh,  for  my  palace.]
 1  These  different  varieties  of  stone  are  unknown  to  us,  and  cannot  be
 translated.
 
-me-zu  §ar  (alu)  Ta-me-su  (24)  (m)Da-mu-u-si  sar  (alu)  Kar-ti-h,a-
-da-as-ti  (25)  (m)U-na-sa-gu-su  §ar  (alu)  Li-di-ir  (m)Bu-su-su  lar
-(alu)  Nu-ri-e-nu  (26)  X  sarrani  §a  (matu)  Ia-at-na-na  kabal  tam-
-tim  (27)  napfcar  XXII  sarrani  (matu)  JJat-ti  a-fci  tam-tim  kabal
+me-zu  §ar  (alu)  Ta-me-su  (24)  (m)Da-mu-u-si  sar  (alu)  Kar-ti-h,ada-as-ti  (25)  (m)U-na-sa-gu-su  §ar  (alu)  Li-di-ir  (m)Bu-su-su  lar
+(alu)  Nu-ri-e-nu  (26)  X  sarrani  §a  (matu)  Ia-at-na-na  kabal  tamtim  (27)  napfcar  XXII  sarrani  (matu)  JJat-ti  a-fci  tam-tim  kabal
 tam-tim  kali-su-nu  (28)  u-ma-'-ir-su-nu-ti-ma  guSurl  rabuti
 
 (From  Prisms  A  and  C  comes  the  continuation,  which  is  here
@@ -22757,10 +21391,8 @@ the  lines  follows  that  text.)
 (16)  ul-tu  ki-rib  (sadu)  si-ra-ra  (Sadu)  lal>na-na  (17)  lamassi  lid
 za-za-a-te  (18)  (abnu)  askuppl  a-gur-ri  (19)  sa  (abnu)  parutu
 (abnu)  an.bu.tir  (20)  (abnu)  tuS-mi-na  (abnu)  tu§-mi-na  turdu
-(21)  (abnu)  en.gi.6ah  (abnu)  a-lal-du  (22)  (abnu)  gi-na-Sar-gub-
-ba  ul-tu  ki-rib  h,ur^Ia-ni  (23)  a-Sar  nab-ni-ti-§u-nu  (24)  a-na  hj-
-6ib-ti  ekalli-ia  (25)  mar-si-i§  pa-as-ki-i§  (26)  a-na  (alu)  Ninua  u-sal-
-di-du-u-ni]
+(21)  (abnu)  en.gi.6ah  (abnu)  a-lal-du  (22)  (abnu)  gi-na-Sar-gubba  ul-tu  ki-rib  h,ur^Ia-ni  (23)  a-Sar  nab-ni-ti-§u-nu  (24)  a-na  hj-
+6ib-ti  ekalli-ia  (25)  mar-si-i§  pa-as-ki-i§  (26)  a-na  (alu)  Ninua  u-saldi-du-u-ni]
 
 3.  The  Campaign  Against  Arabia  and  Egypt  (670  B.  C.)1
 
@@ -22785,8 +21417,6 @@ No.  2);  portions  also  in  III   EL  35,  No.  4.     Translated
 (6)  ina  eSri-e  girri-ia  (ilu)  [Asur  utakkil-anni-ma    ...    (7)  u-Sa-
 
 
-358  CUNEIFORM  PARALLELS
-
 (8)  which  in  the  tongue  of  the  people  of  Kush  and  Egypt
 is  called  .  .  .  (9)  I  called  out  the  numerous  troops
 of  Ashur,  which  are  in  the  .  .  .  (10)  In  the  month  of
@@ -22799,12 +21429,10 @@ and  (13)  had  shaken  off  the  yoke  of  Ashur,  my  lord,  and
 had  expressed  defiance  of  me,  (14)  I  cut  off  from  him
 food  and  drink,  the  means  of  life.
 
-(15)  From  Egypt  I  broke  camp  and  marched  to  Me-
-lukhkha.  (16)  Thirty  biru  of  land  from  the  city  of
+(15)  From  Egypt  I  broke  camp  and  marched  to  Melukhkha.  (16)  Thirty  biru  of  land  from  the  city  of
 Apku,  which  lies  in  the  territory  of  the  land  of  Samen[a],
 to  the  city  of  Raphia,  (17)  by  the  side  of  the  brook  of
-Egypt,  a  place  where  there  is  no  river,  in  .  .  .  neces-
-sity and  want  (18)  I  made  my  troops  drink  well  water
+Egypt,  a  place  where  there  is  no  river,  in  .  .  .  necessity and  want  (18)  I  made  my  troops  drink  well  water
 from  jugs.
 
 (19)  When  the  command  of  Ashur,  my  lord,  came
@@ -22815,13 +21443,11 @@ biru  of  land,  a  journey  of  fifteen  days  ...  I  marched.
 marched.     (23)  Four    biru    of    land,  a  journey  of  two
 
 a3-bi-ta  pa-nu-u-a  a-na  .  .  .  (8)  5a  ina  pi-i  ni§e  (matu)  Ku-u-si  u
-matu  Mu-sur  ...  (9)  ad-ki-e-ma  ummanate  (ilu)  ASur  gab-Sa-
-a-ti  §a  ki  [rib  .  .  .]  (10)  ina  arab  Nisanu  ar^i  ri&-tu-u  ul-tu  ali-ia
+matu  Mu-sur  ...  (9)  ad-ki-e-ma  ummanate  (ilu)  ASur  gab-Saa-ti  §a  ki  [rib  .  .  .]  (10)  ina  arab  Nisanu  ar^i  ri&-tu-u  ul-tu  ali-ia
 ASSur  at-tu-muS  (naru)  Diglat  (naru)  Purattu  ina  mi-li  .  .  .
 (11)  Sade  mar-su-ti  ri-ma-niS  aS-tam-di-i^  (12)  ina  me-ti-ik  girri-ia
 eli  (m)Ba-'-lu  sar  (matu)  Sur-ri  sa  a-na  (m)Tar-ku-u  sar  0
-Ku-u-si  ib-ri-§u  it-tak-lu-ma  (13)  nir  (ilu)  Aiur  beli-ia  is-lu-u  i-tap-
-pa-lu  me-ri-ifc-tu  (14)  (alu)  halsani  eli-§u  u-rak-kis-ma  a-ka-lu  u
+Ku-u-si  ib-ri-§u  it-tak-lu-ma  (13)  nir  (ilu)  Aiur  beli-ia  is-lu-u  i-tappa-lu  me-ri-ifc-tu  (14)  (alu)  halsani  eli-§u  u-rak-kis-ma  a-ka-lu  u
 mu-u  ba-lat  napi§-tim-§u-nu  ak-ia  (15)  ul-tu  (matu)  Mu-sur  karaSu
 ad-ki-e-ma  a-na  (matu)  Me-lub-jja  us-te-§e-ra  har-ra-nu  (16)  XXX
 kas-pu  kak-kar  ul-tu  (alu)  Ap-ku  sa  pa-di  (matu)  Sa-me-n[a]  a-di
@@ -22886,8 +21512,6 @@ i  ina  ta-a-a-ar-ti-ia  (alu)  U-Su-u  (116)  5a  ina  a-fri  tam-tim
 nanda-ta  su-ba(t)-su  ak-8u-ud  (117)  ni§(*'  (alu)  U-Su-u  §a  a-na  pihati-
 
 
-360  CUNEIFORM  PARALLELS
-
 were  not  obedient  to  their  governor,  (118)  had  not  paid
 tribute,  (119)  I  smote  them  as  the  tribute  of  their  land.
 
@@ -22899,19 +21523,16 @@ I  reduced,  (123)  their  bodies  I  hung  on  poles  (124)  around
 the    city;    (125)  the    remainder    I    brought    to    Assyria.
 
 (126)  I  chose  them  for  my  army,  and  (127)  added  them
-to  the  numerous  troops,  (128)  which  Ashur  had  pre-
-sented to  me.
+to  the  numerous  troops,  (128)  which  Ashur  had  presented to  me.
 
 §u-nu  la  sa-an-ku  (118)  la  i-nam-di-nu  man-da-at-tu  (119)na-dan
 mati-su-un  a-duk  (120)  ina  libbi(bi)  ni§d  la  kan-§u  u-ti  8ip-tu  aS-
 kun    (121)  ilani-§u-nu    ni§fVSu-nu  a§-lu-Ia  a-na  (matu)  ASsur    (ki)
 
-(122)  ni§6  (alu)  Ak-ku-u  la  kan-§u-ti  a-nir  (123)  (aradlu)  pagri-§u-
-nu  ina  (isu)  ga-§i-§i  a-lul  (124)  si-bir-ti  ali  u-§al-mi  (125)  si-it-tu-ti-
+(122)  ni§6  (alu)  Ak-ku-u  la  kan-§u-ti  a-nir  (123)  (aradlu)  pagri-§unu  ina  (isu)  ga-§i-§i  a-lul  (124)  si-bir-ti  ali  u-§al-mi  (125)  si-it-tu-ti-
 Su-nu  al-ka-a  a-na   (matu)  ASSur  (ki)  (126)  a-na  ki-sir  ak-sur-ma
 
-(127)  eli  ummanate-ia  ma-'-da-a-ti  (128)  §a  (ilu)  ASiir  i-ki-§a  u-
-rad-di
+(127)  eli  ummanate-ia  ma-'-da-a-ti  (128)  §a  (ilu)  ASiir  i-ki-§a  urad-di
 
 X.  NEBUCHADREZZAR  (604-562  B.  C.)
 
@@ -22920,14 +21541,12 @@ death,  the  news  of  which  reached  him  while  he  was  at
 the  head  of  a  victorious  army  on  the  borders  of  Egypt.
 Returning  posthaste  to  Babylon,  he  was  received  as
 king  without  a  sign  of  trouble,  and  began  a  reign  as
-brilliant  as  it  was  long,  and  as  powerful  as  it  was  bril-
-liant. Unhappily,  very  few  inscriptions  have  been
+brilliant  as  it  was  long,  and  as  powerful  as  it  was  brilliant. Unhappily,  very  few  inscriptions  have  been
 preserved  in  which  there  are  any  accounts  of  his  great
 military  campaigns,  the  major  part  of  them  all  being
 devoted  to  elaborate  accounts  of  the  building  and
 restoration  of  temples,  palaces,  streets,  and  canals  all
-over  the  country.  The  meagerness  of  native  inscrip-
-tion material  forces  us  to  depend  chiefly  upon  the
+over  the  country.  The  meagerness  of  native  inscription material  forces  us  to  depend  chiefly  upon  the
 narratives  of  the  Hebrews  for  an  account  of  the  chief
 events  of  his  reign.
 
@@ -22942,24 +21561,19 @@ the  crown.  He  was  then  driven  by  a  popular  party,
 against  the  urgent  advice  of  Jeremiah,  to  rebel  and
 refuse  longer  to  be  considered  a  vassal  king  of  the
 Babylonians.  Nebuchadrezzar  first  let  loose  upon  his
-land  marauding  bands  of  Syrians,  Moabites,  and  Am-
-monites, and  then,  in  597,  began  a  siege  of  Jerusalem.
-During  its  continuance  Jehoiakim  died,  and  his  suc-
-cessor, Jehoiachin,  was  compelled  to  surrender  the
-city,  and,  with  eight  thousand  of  his  subjects,  was  car-
-ried into  captivity.  These  men  were  settled,  together
+land  marauding  bands  of  Syrians,  Moabites,  and  Ammonites, and  then,  in  597,  began  a  siege  of  Jerusalem.
+During  its  continuance  Jehoiakim  died,  and  his  successor, Jehoiachin,  was  compelled  to  surrender  the
+city,  and,  with  eight  thousand  of  his  subjects,  was  carried into  captivity.  These  men  were  settled,  together
 with  their  families,  in  one  great  block  by  the  river
 Chebar,  a  canal  near  Nippur.  This  deportation,  though
 doubtless  copied  after  the  Assyrian  usage,  was  not
 properly  carried  out.  The  Assyrians  scattered  their
 captives,  so  that  they  were  rapidly  assimilated  by  their
-neighbors  and  were  deprived  of  all  possibility  of  main-
-taining their  old  national  life.  These  Jewish  captives
+neighbors  and  were  deprived  of  all  possibility  of  maintaining their  old  national  life.  These  Jewish  captives
 of  Nebuchadrezzar  were,  on  the  other  hand,  enabled
 by  their  concentration  to  continue  the  offices  of  their
 religion,  and  by  that  means  maintain  their  national
-exclusiveness.  They  soon  became  a  thorn  in  Nebu-
-chadrezzar's side,  and  so  continued  for  a  long
+exclusiveness.  They  soon  became  a  thorn  in  Nebuchadrezzar's side,  and  so  continued  for  a  long
 period.
 
 Meantime  the  government  of  Judah  was  placed  in  the
@@ -22967,14 +21581,11 @@ hands  of  Mattaniah,  son  of  Josiah,  who  was  styled
 Zedekiah,  and  was  sworn  to  obey  Nebuchadrezzar.
 It  is  possible  that  he  might  have  kept  his  oath
 but  for  the  seductions  of  Hophra,  king  of  Egypt,
-who  had  succeeded  Necho  II  about  589,  and  was  anx-
-ious to  win  back  Syria  for  himself.  Hophra  roused  to
+who  had  succeeded  Necho  II  about  589,  and  was  anxious to  win  back  Syria  for  himself.  Hophra  roused  to
 retx-llion  the  states  of  Edom,  Moab,  Ammon,  Tyre,
 and  Sidon.  These"  sent  an  embassy  to  Zedekiah  asking
 his  assistance,  and  soon  Judah  had  cast  its  lot  into  the
 
-
-362  CUNEIFORM  PARALLELS
 
 mad  effort,  despite  the  utmost  efforts1  of  Jeremiah.  In
 587  the  army  of  Nebuchadrezzar  appeared,  and  the
@@ -22987,16 +21598,14 @@ against  this  view  in  words  of  solemn  weight:  "Thus
 saith  the  Lord:  Deceive  not  yourselves,  saying,  The
 Chaldeans  shall  surely  depart  from  us:  for  they  shall
 not  depart.  For  though  ye  had  smitten  the  whole  army
-of  the  Chaldeans  that  fight  against  you,  and  there  re-
-mained but  wounded  men  among  them,  yet  would
+of  the  Chaldeans  that  fight  against  you,  and  there  remained but  wounded  men  among  them,  yet  would
 they  rise  up  every  man  in  his  tent,  and  burn  this  city
 with  fire."2  To  those  who  trusted  in  Hophra  his  word
 was  no  less  definite:  "Behold,  Pharaoh's  army,  which
 is  come  forth  to  help  you,  shall  return  to  Egypt  into
 their  own  land.  And  the  Chaldeans  shall  come  again,
 and  fight  against  this  city;  and  they  shall  take  it,  and
-burn  it  with  fire."8  Men  could  not  believe  such  a  mes-
-sage as  that  in  an  hour  of  apparent  hope,  and  the
+burn  it  with  fire."8  Men  could  not  believe  such  a  message as  that  in  an  hour  of  apparent  hope,  and  the
 prophet  was  apprehended  and  cast  into  prison.4
 
 The  Babylonian  army  met  the  Egyptians  somewhere
@@ -23044,8 +21653,7 @@ tribute.  It  was  impossible  that  Nebuchadrezzar  should
 really  conquer  Tyre  without  a  navy  to  blockade  its  port.
 
 In  567  Nebuchadrezzar  invaded  Egypt,  probably
-with  the  determination  to  punish  its  king  for  his  inter-
-ference in  the  affairs  of  Palestine  and  to  prevent  its
+with  the  determination  to  punish  its  king  for  his  interference in  the  affairs  of  Palestine  and  to  prevent  its
 recurrence  in  the  future.  But  how  complete  was  his
 success  in  Egypt  we  do  not  know.
 
@@ -23059,14 +21667,11 @@ and  the  outer  wall  Nimitti  Bel,  and  constructed  great
 
 l  2  Kings  25.  4,  5.
 
-1  Tin-  mmibtff  <  iirricd  to  Babylonia  is  quite  unknown.  Quthe  (Qes-
-dea  Volke*  Israel,  pp  7)  estimates  the  total  number  at
+1  Tin-  mmibtff  <  iirricd  to  Babylonia  is  quite  unknown.  Quthe  (Qesdea  Volke*  Israel,  pp  7)  estimates  the  total  number  at
 
 36,000  to  48,000,  which  he  counts  as  a  quarter  or  eighth  of  the  whole
 population
 
-
-364  CUNEIFORM  PARALLELS
 
 city  gates  of  cedar  wood  covered  with  bronze.  Upon
 the  east  side  of  the  city,  at  a  distance  of  four  thousand
@@ -23081,11 +21686,9 @@ made  a  watch  tower,  commanding  the  level  country  for
 several  miles  around,  at  the  same  time  that  it  served
 to  strengthen  the  walls.
 
-Within  the  city  was  beautified;  the  street  of  Ai-ibur-
-shabu  increased  in  height,  leveled  and  repaved;  the
+Within  the  city  was  beautified;  the  street  of  Ai-iburshabu  increased  in  height,  leveled  and  repaved;  the
 palace  rebuilt  upon  a  scale  of  magnificence  unheard  of
-before.  He  may  well  have  felt  and  spoken  as  the  He-
-brew book  records:  "Is  not  this  great  Babylon,  that  I
+before.  He  may  well  have  felt  and  spoken  as  the  Hebrew book  records:  "Is  not  this  great  Babylon,  that  I
 have  built  for  the  house  of  the  kingdom  by  the  might
 of  my  power,  and  for  the  honor  of  my  majesty?"1
 
@@ -23102,8 +21705,7 @@ there    was   no  place  for  the  foot,    (21)  difficult   roads,
 
 1  The  text  is  published  I  R.,  53-58,  and  with  a  transcription  into
 Neo-Baby Ionian,  59-64.  See  further  C.  J.  Ball,  in  the  Proceedings  of
-the  Society  of  Biblical  Archaeology,  x,  pp.  87-129*  Winckler,  Keilin-
-schriftliche  BiUiothek,  iii,  2,  pp.  10-28;  David  W.  McGee,  Beitr&ge  zur
+the  Society  of  Biblical  Archaeology,  x,  pp.  87-129*  Winckler,  Keilinschriftliche  BiUiothek,  iii,  2,  pp.  10-28;  David  W.  McGee,  Beitr&ge  zur
 Assyriologie,  iii,  pp.  528-534;
 Konigsinschriften,  No.  15,  p.  120f.
 
@@ -23120,8 +21722,7 @@ Su-up-ru-su  (20)  §e-e-pi  la  i-ba-a§-§u-u  (21)  h,a-ra-nam  na-am-ra-§a
 
 IN  THE  LEBANON  365
 
-(22)  thirsty  roads  (23)  have  I  passed  through,  (24)  de-
-stroyed the  rebellious,  (25)  captured  enemies,  (26)  ruled
+(22)  thirsty  roads  (23)  have  I  passed  through,  (24)  destroyed the  rebellious,  (25)  captured  enemies,  (26)  ruled
 the  lands,  (27)  permitted  the  people  to  flourish,  (28)  [but]
 the  bad  and  evil  (29)  have  I  put  away  among  the  people.
 
@@ -23138,8 +21739,7 @@ ta-am-mi-ih,  (28)  ra-ag-ga  u  si-e-nim  (29)  i-na  ni-si  u-se-is-si
 
 (8)  I  exalted  Babylon  to  the  first  place.  (9)  Among
 the  cities  .  .  .  (10)  [I  caused]  her  name  to
-be  praised.  (11)  The  sanctuaries  of  Nabu  and  Mar-
-duk,    my    lords,    (12)    .      .      .      continually
+be  praised.  (11)  The  sanctuaries  of  Nabu  and  Marduk,    my    lords,    (12)    .      .      .      continually
 
 (13)  at  that  time  .  .  .  the  Lebanon,  the  cedar
 mountains,  (14)  the  proud  forest  (?)  of  Marduk,
@@ -23151,22 +21751,18 @@ other  king    .     .     .     (19)      .     .     .     (20)  My  god  Mard
 Brisa.  It  was  first  published  by  Pognon,  Les  inscriptions  babyloniennes
 du  Wadi  Brissa  (Paris,  1887),  and  much  corrected  and  improved  by
 Stephen  Langdon,  Les  inscriptions  du  Wadi  Brissd  et  du  Nahr  el-Kelb
-(tiraga  a  part  du  Recueil  de  Travaux  relatifs  a  la  Philologie  et  a  l'Arch-
-eologie  egyptiennes  et  assyriennes,  vol.  xxviii.  Paris,  1905),  and  re-
-published after  a  study  of  the  original  by  F.  H.  Weissbach,  Die  In-
-achriften  N ebukadnezars,  ii,  im  Wadi  Brisa  und  am  Nahr  el-Kelb  (Leip-
+(tiraga  a  part  du  Recueil  de  Travaux  relatifs  a  la  Philologie  et  a  l'Archeologie  egyptiennes  et  assyriennes,  vol.  xxviii.  Paris,  1905),  and  re-
+published after  a  study  of  the  original  by  F.  H.  Weissbach,  Die  Inachriften  N ebukadnezars,  ii,  im  Wadi  Brisa  und  am  Nahr  el-Kelb  (Leip-
 zig, 1906).  The  passage  here  given  from  col.  ix  appears  in  Weissbach's
 edition  on  Plate  38f.,  and  the  translation  on  p.  31.  Compare  also  for
-the  translation  Winckler,  Keilinschriftliches  Textbuch  zum  Alten  Testa-
-ment,  pp.  56ff.;  Stephen  Langdon,  N  eubabylonische  Konigsinschriften,
+the  translation  Winckler,  Keilinschriftliches  Textbuch  zum  Alten  Testament,  pp.  56ff.;  Stephen  Langdon,  N  eubabylonische  Konigsinschriften,
 No.  19,  p.  ir>()f.
 
 *  The  upper  sea  is  the  Mediterranean,  the  lower  is  the  Persian  Gulf.
 
 (3)  [is-tu]  ti-a-am-tim  e-li-ti  (4)  [a-di]  ti-a-am-tim  sa-ap-li-ti
 (5)  [.  .  .]e  da  is-mu  [.  .  .]  (6)  [sa  (ilu)  Mar]duk  beli  ia-a-ti  i-ki-pa-
-[an-ni]  (7)  i-na  [kul-lat]  [m]a-ti-ta-an  gi-mi-ir  d[a-ad-mi]  (8)  (alu)  Bab-
-lli  a-na  ri-Se-e-ti  u-[  .  .  .  ]  (?)  (9)  i-na  ma-5a-zi  ra-'-  .  .  .  (10)  §u-
+[an-ni]  (7)  i-na  [kul-lat]  [m]a-ti-ta-an  gi-mi-ir  d[a-ad-mi]  (8)  (alu)  Bablli  a-na  ri-Se-e-ti  u-[  .  .  .  ]  (?)  (9)  i-na  ma-5a-zi  ra-'-  .  .  .  (10)  §u-
 um-Su  a-na  ta-na-da-a-ti  .  .  .  (11)  a[§-r]a-a-ti  (ilu)  Nabu  u  (ilu)
 Marduk  bele-e-a  (12)  mu-[da]-a-am  ka-a-a-na  .  .  .  (13)  i-nau-mi-Su
 (aadu)  La-ab-na-nu  Sa-ad  (isu)  [erini]  (14)  ki-sa-tim  (ilu)  Marduk
@@ -23175,18 +21771,14 @@ $u-iim-rnu-uh,-t[i]m  (15)  sa  i-ri-is-su  ta-a-bu  (16)  Sa  (isu)  erine
 Sarm  §a-nim-{m]a  la  lp    .    .    .    (19).    .    .    ba-ti  (?)  uk  (?)    .    .    .   Su
 
 
-366  CUNEIFORM  PARALLELS
-
 the  king  (21)  for  the  palace  of  princes  ...  of  heaven
 and  earth  (22)  was  suited  for  adornment.  (23)  As  an
-enemy,  a  stranger,  had  taken  possession  (of  the  moun-
-tain), (24)  and  had  removed  its  products,  (25)  its  in-
+enemy,  a  stranger,  had  taken  possession  (of  the  mountain), (24)  and  had  removed  its  products,  (25)  its  in-
 habitants had  fled  and  gone  far  away.  (26)  With  the
 power  of  Nabu  and  Marduk,  my  lords,  (27,  28)  I  ordered
 my  troops  to  march  to  the  Lebanon.  (29)  The  enemy,
 above  and  below,  (30)  I  drove  out,  and  made  the  heart
-of  the  land  to  rejoice,  (31)  its  scattered  people  I  gath-
-ered, (32)  and  brought  them  back  to  their  place.
+of  the  land  to  rejoice,  (31)  its  scattered  people  I  gathered, (32)  and  brought  them  back  to  their  place.
 (33)  That  which  no  former  king  had  accomplished  (I
 did) ;  (34)  I  cleaved  high  mountains,  (35)  lime-stone  I
 broke  off  (and)  (36)  opened  trails.  (37)  I  cut  a  road  for
@@ -23199,20 +21791,17 @@ canal    .    .    .     (45)  Into  Babylon  (46)  beams    .    .    .
 
 (47)  The  people  in  the  Lebanon  (48)  I  made  to  dwell
 in  peace  and  safety  (49)  I  permitted  no  disturber  to
-possess  [the  land].  (50)  That  none  might  produce  con-
-fusion (51)  I  have  set  up  my  royal  image  for  ever.
+possess  [the  land].  (50)  That  none  might  produce  confusion (51)  I  have  set  up  my  royal  image  for  ever.
 
 (20)  na-a-bu-u-a  (ilu)  Marduk  sar-ri  (21)  a-na  ekal  ma-al-ki  (?)
 .     .  Same  irsiti  (22)  su-lu-lu  si-ma-at     .     .     .     (23)  sa  amelu
 
 nakru  ahu-u  i-bi-lu  .  .  .  (24)  i-ki-mu  Jji-si-ib-[Su]  (25)  ni-sa-a-su
 ip-pa-ar-sa-a-ma  i-bu-za  ni-s[i-i]§  (26)  i-na  e-mu-ku  (ilu)  Nabu  u
-(ilu)  Marduk  bele-e-a  (27)  a-na  Sad  La-ab-na-nu  a-na  .  .  .  (28)  u-
-sa-ad-di-ru  [sabe-iaj  (29)  na-ka-ar-§u  e-li-is  u  sa-ap-li-is  (30)  as-
+(ilu)  Marduk  bele-e-a  (27)  a-na  Sad  La-ab-na-nu  a-na  .  .  .  (28)  usa-ad-di-ru  [sabe-iaj  (29)  na-ka-ar-§u  e-li-is  u  sa-ap-li-is  (30)  as-
 eu-ub-ma  li-ib-ba  ma-a-ti  u-te-ib  (31)  ni-sa-a-su  sa-ap-ba-a-ti
 u-pa-ab-tu-ra-am-ma  (32)  u-te-ir  as-ru-us-si-in  (33)  sa  ma-na-ma
-sarru  ma-ab-ri  la  i-pu-su  (34)  sa-di-im  za-a[k]-ru-u-tim  e-ip-
-tu-uk-ma  (35)  abne  §a-di-[i]m  u-la-at-ti-ma  (36)  u-pa-at-ta-a  ni-ir-
+sarru  ma-ab-ri  la  i-pu-su  (34)  sa-di-im  za-a[k]-ru-u-tim  e-iptu-uk-ma  (35)  abne  §a-di-[i]m  u-la-at-ti-ma  (36)  u-pa-at-ta-a  ni-ir-
 bi-e-ti  (37)  ma-la-ak  (isu)  erine  us-te-te-si-ir  (38)  a-na  ma-Jja-ar
 (ilu)  Marduk  sar-ri  (39)  (isu)  erine  dan-nu-ti  si-bu-u-ti  pa-ag-lu-tim
 (40)  sa  du-mu-uk-su-nu  su-ku-ru  (41)  su-tu-ru  bu-na-a-su-nu  sal-mu
@@ -23243,30 +21832,25 @@ thirty-seventh  year  of  Nebuchadrezzar,  king  of  Babylon,
 (14)  [the  kings  of]  Egypt  came  up  to  do  battle  (15)  and
 Amasis,  king  of  Egypt  called  out  his  troops,  (16)  and  .  .  .
 cu  of  the  city  of  Budu-Yaman  .  .  .  (17)  [and  others
-from  (?)]  far-away  regions  in  the  sea  (18)  .  .  .  nu-
-merous troops  (?)  which  were  in  Egypt  (19)  .  .  .  arms
+from  (?)]  far-away  regions  in  the  sea  (18)  .  .  .  numerous troops  (?)  which  were  in  Egypt  (19)  .  .  .  arms
 and  horses  .  .  .  (20)  ...  to  his  aid  he  called
 (21)  .  .  .  and  before  him  (22)  to  make  [war  (?)]  he
 trusted.  (23)  .  .  .  their  design  (24)  he  accomplished
 their  defeat  (?)  and  (25)  .    .    .    (26)  the  destruction   .    .    .
 
-1  Two  small  fragmentary  tablets  in  the  British  Museum,  first  pub-
-lished by  Pinches,  Transactions  of  the  Society  of  Biblical  Archceology,
-vii,  pp.  210-225.  Published  also,  with  additions  by  Strassmaier,  Baby-
-lonische  Texte,  vi,  No.  329.  Translated  by  Schroder,  Keilinschriftliche
+1  Two  small  fragmentary  tablets  in  the  British  Museum,  first  published by  Pinches,  Transactions  of  the  Society  of  Biblical  Archceology,
+vii,  pp.  210-225.  Published  also,  with  additions  by  Strassmaier,  Babylonische  Texte,  vi,  No.  329.  Translated  by  Schroder,  Keilinschriftliche
 Bibliothek,  iii,  2,  pp.  140,  141,  and  by  Langdon,  Building  Inscriptions
 of  the  Neo- Babylonian  Empire,  part  i,  pp.  180-183.  For  the  historical
 content  see  Winckler,  Alte  Orient,  7th  year,  2,  pp.  30,  31,  and  compare
-Langdon,  Die  Neubabylonischen  Kdnigsinschriften,  pp.  206,  20/7,  com-
-pare also  page;44.
+Langdon,  Die  Neubabylonischen  Kdnigsinschriften,  pp.  206,  20/7,  compare also  page;44.
 
 (5)  .  .     (ilu)  Gula  sa  tu-(?)-sam-kit  a-a-bi-ia  (6)  .     .     .     ki
 
 be-la-tu  Sa  li-tu  lib-bi   (7)  [u  &muk]   kata  tu-§ak-§id-ma  tu-ni-h,i
 
 (8)  .  .  .  gir  sarru-u-ti-ia  tu-§ar-ba  (9)  .  .  rka]-li-§u-nu  sarrani
-.  .  .  i-id  (?)  kar-du-ti-su  (10)  .  .  .  pi  abkalli-su  u  ardani-§u  ki-
-ma  .  .  .  tu  (11)  .  .  .  pu-u§  i-ta-a-am  a-na  sab£-5u  u  .  .  .
+.  .  .  i-id  (?)  kar-du-ti-su  (10)  .  .  .  pi  abkalli-su  u  ardani-§u  kima  .  .  .  tu  (11)  .  .  .  pu-u§  i-ta-a-am  a-na  sab£-5u  u  .  .  .
 ma  (12)  .  .  .  sa  mah,-ri  (?)  ki-ir-ba  h,ar-an  .  \  ,  (13)  .  t  ,
 Satti  XXXVII  kam  (mi,  ilu)  Nabu-kudur-usur  §ar  Babfili  kij  .  .  .
 (14)  .  .  .  mi-sir  a-na  e-pes  tahazi  il-[lik-ma]  (15)  .  .  .  A-ma(?)-eu
@@ -23285,35 +21869,28 @@ it  it-ta-kil-ma  (23)  a-ru  .  .  .  Sak-(?)  te-e-mu  (24)  ka-bi-is-[ta-Su(?
 su-nu  (27)  ni-'-u-tum     .     .     .    »m
 
 
-368  CUNEIFORM  PARALLELS
-
 4.  Building  Inscription  of  Nebuchadrezzar  l
 Column  I:
 
 (1)  Nebuchadrezzar,  (2)  king  of  Babylon,  (3)  preserver
 of  Esagila  and  Ezida,  (4)  son  of  Nabopolassar,  (5)  king
-of  Babylon,  am  I.  (6)  In  order  to  strengthen  the  de-
-fences of  Esagila,  (7)  that  the  powerful  (8)  evil  and
+of  Babylon,  am  I.  (6)  In  order  to  strengthen  the  defences of  Esagila,  (7)  that  the  powerful  (8)  evil  and
 destroyer  (9)  might  not  approach  Babylon,  (10)  that  the
 front  of  the  battle  line  might  not  draw  near  to  Imgur-
 Bel,  (11)  the  wall  of  Babylon;  (12)  that  which  no  king
-before  me  (13)  had  done,  I  did,  in  that  (14)  on  the  out-
-side of  Babylon,  (15)  a  great  wall  to  the  eastward  (16)  of
+before  me  (13)  had  done,  I  did,  in  that  (14)  on  the  outside of  Babylon,  (15)  a  great  wall  to  the  eastward  (16)  of
 Babylon  I  placed  about  the  city.  (17)  Its  moat  I  dug
 (18)  and  reached  water-level,  (19)  then  I  saw  (20)  that  the
 moat  which  my  father  had  fixed  (21)  was  too  small  in
-its  construction.  (22)  A  great  wall,  which  like  a  moun-
-tain (23)  cannot  be  moved,  (24)  of  mortar  and  brick
+its  construction.  (22)  A  great  wall,  which  like  a  mountain (23)  cannot  be  moved,  (24)  of  mortar  and  brick
 (25)  I  built,  (26)  with  the  moat  which  my  father
 (27)  placed  (28)  I  joined  it.  (29)  Its  foundation  upon
 the  bosom  of  the  abyss  (30)  I  placed.
 
 
->  Published  by  Winckler,  Zeitschri/t  fur  Assyriologie,  I,  p.  337f.;  tran-
-scribed also  by  McGee,  Beitage  zur  Assyriolotrie,  Hi,  p.  550.  The  original
+>  Published  by  Winckler,  Zeitschri/t  fur  Assyriologie,  I,  p.  337f.;  transcribed also  by  McGee,  Beitage  zur  Assyriolotrie,  Hi,  p.  550.  The  original
 is  in  the  British  Museum,  but  casts  of  a  duplicate,  with  some  variations,
-are  in  the  Berlin  Museum,  and  are  now  published  by  Ungnad,  Vor-
-derasiatische  Schriftdenkmaler,  Heft  i,  No.  40.  For  translation  see
+are  in  the  Berlin  Museum,  and  are  now  published  by  Ungnad,  Vorderasiatische  Schriftdenkmaler,  Heft  i,  No.  40.  For  translation  see
 Langdon,  Building  Inscriptions  of  the  Neo- Babylonian  Empire,  i,  pp.
 72-75.  Compare  also  Langdom,  Die  Neubabylonische  Kdnigsinschriften,
 No.  4,  pp.  80ff.
@@ -23323,17 +21900,13 @@ Column  I:
 
 (1)  (flu)  Na-bi-um-ku-dur-ri-u-su-ur  (2)  5ar  (alu)  Ba-bi-il(ki)
 (3)  za-ni-in  E-sag-ila  u  E-zi-da  (4)  apal  (ilu)  Na-bi-um-aplu-u-su-ur
-(5)  sar  (alu)  Ba-bi-lam(ki)  a-na-ku  (6)  as-sum  ma-as-sa-ar-ti  E-sag-
-ila  (7)  du-un-nu-num  (8)  li-im-num  u  Sa-ag-gi-sum  (9)  a-na  (alu)
+(5)  sar  (alu)  Ba-bi-lam(ki)  a-na-ku  (6)  as-sum  ma-as-sa-ar-ti  E-sagila  (7)  du-un-nu-num  (8)  li-im-num  u  Sa-ag-gi-sum  (9)  a-na  (alu)
 Ba-bi-lam(ki)  la  sa-na-ga  (10)  ga-an  ta-fca-zi  a-na  im-gur  BS1
-(11)  dur  (alu)  Ba-bi-lam(ki)  la  ta-hj-e  (12)  sa  ma-na-a-ma  Sar  ma-
-ab,-ri  (13)  la  i-pu-su  (14)  in  ka-ma-at  (alu)  Ba-bi-lam(ki)  (15)  dura
+(11)  dur  (alu)  Ba-bi-lam(ki)  la  ta-hj-e  (12)  sa  ma-na-a-ma  Sar  maab,-ri  (13)  la  i-pu-su  (14)  in  ka-ma-at  (alu)  Ba-bi-lam(ki)  (15)  dura
 dannu  ba-al-ri  sit  (ilu)  samsi  (16)  (alu)  Ba-bi-lam(ki)  u-sa-as-hj-ra
-(17)  hj-ri-su  ah,-n-e-ma  (18)  Su-pu-ul  mi-e  ak-su-ud  (19)  ap-pa-li-is-
-ma  (20)  ka-a-ri  a-bi-im  ik-zu-ur-ru  (21)  ga-ad-nu  si-ki-in-su
+(17)  hj-ri-su  ah,-n-e-ma  (18)  Su-pu-ul  mi-e  ak-su-ud  (19)  ap-pa-li-isma  (20)  ka-a-ri  a-bi-im  ik-zu-ur-ru  (21)  ga-ad-nu  si-ki-in-su
 (22)  dura  danna  Sa  ki-ma  sa-tu-um  (23)  la  ut-ta-as-su  (24)  ina
-kupri  u  agurri  (25)  ab-ni-ma  (26)  it-ti  ka-a-ri  a-bi-im  (27)  ik-zu-
-ur-ru  (28)  e-se-ni-ik-ma  (29)  i-Si-su  in  i-ra-at  ki-gal-lim  ,  (30)  u-Sa-
+kupri  u  agurri  (25)  ab-ni-ma  (26)  it-ti  ka-a-ri  a-bi-im  (27)  ik-zuur-ru  (28)  e-se-ni-ik-ma  (29)  i-Si-su  in  i-ra-at  ki-gal-lim  ,  (30)  u-Sa-
 ar-si-id-ma
 
 
@@ -23362,11 +21935,9 @@ and   (30)  crush  the  (31)  arms  (32)  of  the  foe.
 
 Column  II:
 
-(1)  ri-§i-§u  §a-da-ni-i§  (2)  u-za-ak-ki-ir  (3)  i-ta-at  duri  a-na  du-
-un-nu-nim  (4)  u-§a-al-li-i§-ma  (5)  in-du  a-sur-ra-a  ra-bi-a-am  (6)  iS-
+(1)  ri-§i-§u  §a-da-ni-i§  (2)  u-za-ak-ki-ir  (3)  i-ta-at  duri  a-na  duun-nu-nim  (4)  u-§a-al-li-i§-ma  (5)  in-du  a-sur-ra-a  ra-bi-a-am  (6)  iS-
 di  dur  a-gur-ri  e-mi-id-ma  (7)  in  i-ra-at  [ki-gal-lim]  ab-ni-ma  (8)  u-
-§a-ar-§i-id  te-me-en-§u  (9)  ma-as-sa-ar-ti  E-sag-ila  (10)  u  (alu)  Ba-
-bi-lam(ki)  u-da-an-ni-in-ma  (11)  §u-ma-am  dara-a-am  (12)  §a  §ar-
+§a-ar-§i-id  te-me-en-§u  (9)  ma-as-sa-ar-ti  E-sag-ila  (10)  u  (alu)  Babi-lam(ki)  u-da-an-ni-in-ma  (11)  §u-ma-am  dara-a-am  (12)  §a  §ar-
 ru-ti-ia  a§-ta-ak-ka-an
 
 (13)  (ilu)  Marduk  bel  ilani  (14)  ilu  ba-nu-u-a  (15)  in  ma-a&-ri-ka
@@ -23374,11 +21945,9 @@ ru-ti-ia  a§-ta-ak-ka-an
 (19)  ba-la-tam  da-ir-a  (20)  §e-bi-e  li-it-tu-ti  (21)  ku-un-nu  ku-su-u
 (22)  u  la-ba-ri  pa-li-e  (23)  a-na  §i-ri-ik-tim  Su-ur-kam  (24)  lu  re-si
 tu-kul-ti-ia  (25)  (ilu)  Marduk  at-ta-a-ma  (26)  in  ki-bi-ti-ka  ki-it-ti
-(27)  sa  la  na-ka-ri-im  (28)  lu  te-bu-u  (29)  lu  za-ak-tu  (30)  ka-ak-
-ku-u-a  (31)  ka-ak  na-ki-ri-im  (32)  li-mi-e-zu
+(27)  sa  la  na-ka-ri-im  (28)  lu  te-bu-u  (29)  lu  za-ak-tu  (30)  ka-akku-u-a  (31)  ka-ak  na-ki-ri-im  (32)  li-mi-e-zu
 
 5.  Western  Campaign  l
-1
 
 2  .     .     .     paths  of  the  mountain
 
@@ -23392,8 +21961,6 @@ turn  Alien  Testament,  3te  Auf.,  pp.  56,  57.
 (1)[.    .    .    ku  (?)]-nu  lib-bfi    .    .    .]  (2)  [.    .    .    ni-e-ti  ur-hj  Sadu
 D  ■     •]  (3)  [.     .     .     u]-ru-ub  mu-u-tum  kakku  in-na-d[i     .     .     .
 
-
-370  CUNEIFORM  PARALLELS
 
 4  .     .     .     inhabitants  of  the  Hittite  country,  in  the
 
@@ -23419,8 +21986,7 @@ inhabiting  Ammanu  (Anti-Lebanon)
 
 (4)  .  .  .  nise  (mAt)  Qat-tum  ina  arhj  aim  Sattu  Ill-kan  (5)  .  .  .
 tin-tir(ki)  pa-ni  sabe-§u  is-ba-tu  (6)  [.  .  .  id-ki-e-ma  ina  XIII (ta)
-u-mu  a-na  (7)  [.  .  .  kij-i  ik-§u-da  §a  ni§6  a-§i-bi  (alu)  Am-ma-na-
-nu  (8)  [.  .  .]  §u-nu  kakkadt-§u-nu  u-be-ni-ma  (9)  [.  .  .  ]-di  i-lu-
+u-mu  a-na  (7)  [.  .  .  kij-i  ik-§u-da  §a  ni§6  a-§i-bi  (alu)  Am-ma-nanu  (8)  [.  .  .]  §u-nu  kakkadt-§u-nu  u-be-ni-ma  (9)  [.  .  .  ]-di  i-lu-
 ul-ma  (10)  [.    .    .  ]  u-§a-a§-bit
 
 6.  Berossos  on  the  Neo-Babylonian  Period  ■
@@ -23438,14 +22004,11 @@ still  a  young  man,  and  sent  him  against  the  rebel.
 edited  by  B.  Niese  (Berlin,  1889),  Vol.  v,  pp.  24-26.  Compare  Des
 Flavius  Josephus  Schrift  gegen  Apion,  Text  und  Erklarung  aus  dem
 Nachlass  von  J.  G.  Miiller,  nerausgegeben  durch  C.  J.  Riggenbach  u.
-C.  von  Orelli  (Basel,  1877).  Compare  translation  in  Josephus,  Whis-
-ton's  translation,  edited  by  A.  R.  Shilleto.  London,  1890.  Vol.  v,
+C.  von  Orelli  (Basel,  1877).  Compare  translation  in  Josephus,  Whiston's  translation,  edited  by  A.  R.  Shilleto.  London,  1890.  Vol.  v,
 pp.  192,  193.
 
-[Elff  etjqg  virondTaQag  bTuyovo  Brjpuxjog  -koXiv  irapaTi&erai  tv  ri)  rfjg  apxai-
-dTTjrog  ioTopioypa<f>ip~\.  avra  6e  Trapadr/oo/xat  tcl  tov  Bqpooov  tovtov  ixovra
-tov  rpdirov  „6,K0voag  6'  6  narrjp  avrov  Na/3o7roXdtxapof,  bri  6  rerayfikvog  aa-
-rpanrjg  iv  re  AiyvnTy  koI  rolg  -rrepi  rryv  Xvpiav  rrjv  Koihjv  nal  ttjv  $oiviktjv
+[Elff  etjqg  virondTaQag  bTuyovo  Brjpuxjog  -koXiv  irapaTi&erai  tv  ri)  rfjg  apxaidTTjrog  ioTopioypa<f>ip~\.  avra  6e  Trapadr/oo/xat  tcl  tov  Bqpooov  tovtov  ixovra
+tov  rpdirov  „6,K0voag  6'  6  narrjp  avrov  Na/3o7roXdtxapof,  bri  6  rerayfikvog  aarpanrjg  iv  re  AiyvnTy  koI  rolg  -rrepi  rryv  Xvpiav  rrjv  Koihjv  nal  ttjv  $oiviktjv
 rdiroig  aizooraTTjg  ytyovev,  ov  dwafuvog  avrog  in  naKOTrcr&eiv  ovorfoag  ry
 vl(J  THafioKodpoadpQ  bvn  in  kv  fpunia  ptprj  nva  trig  dwdjieug  t^tirefiyptv  cV
 avrdv  ovppif-ag  6e  1Xa0ovKodp6oopog  ry  airooraTy  nal  napara^dfuvog  avrov
@@ -23462,10 +22025,8 @@ his  father's  end,  he  set  in  order  the  affairs  of  Egypt
 and  the  rest  of  the  district,  and  committed  the  captives
 which  he  had  taken  from  the  Jews,  Phoenicians,  and
 Syrians,  and  from  the  nations  belonging  to  Egypt,  to
-some  of  his  friends,  that  they  might  conduct  the  heavy-
-armed  troops  and  the  baggage  to  Babylonia,  while  he
-himself  pushed  over  the  desert  with  but  a  few  to  Baby-
-lon. When  he  arrived  there  he  found  that  public  affairs
+some  of  his  friends,  that  they  might  conduct  the  heavyarmed  troops  and  the  baggage  to  Babylonia,  while  he
+himself  pushed  over  the  desert  with  but  a  few  to  Babylon. When  he  arrived  there  he  found  that  public  affairs
 had  been  managed  by  the  Chaldeans  and  the  kingdom
 preserved  by  the  principal  persons  among  them,  so  that
 he  was  now  ruler  of  all  his  father's  dominions,  and
@@ -23481,8 +22042,7 @@ rrjv  AiyxnvTov  npdyfxaTa  ml  rijv  Twnrfjv  x&pav,  kg*  Tovg  alxf^aXurovg  
 rt  nai  Qoivinuv  nal  Zvpuv  /cat  rov  Kara  rijv  AiyvKrov  k&vov  awrdfaf  rial
 ruv  QiXuv  fura  rfo  ^apvrdrrjc  dwdfitvx;  nal  rfj%  Xotnrjc  atyeXeias  avaKOfii^tiv
 cif  rrjv  Baftv?xjviav,  dvrdf  bp^aq  bXtyoorbc  napeykvero  did  rfjs  kpfjfiov  eif
-Ba3vh'jva'  naraXaftov  6k  rd  irpdyjiara  dioinovjieva  virb  XaXdaiuv  nai  diary-
-povurvrjv  Trjv  fiaoilxiav  virb  tov  fieXriarov  avrov,  Kvpceiaag  bXoKlfjpov  rfjq
+Ba3vh'jva'  naraXaftov  6k  rd  irpdyjiara  dioinovjieva  virb  XaXdaiuv  nai  diarypovurvrjv  Trjv  fiaoilxiav  virb  tov  fieXriarov  avrov,  Kvpceiaag  bXoKlfjpov  rfjq
 irarpiKi/c  dpxw  to'1?  f^v  alxfiaXuroi^  trapaytvofikvoiq  awira^ev  [aitroic]  kcltoi-
 *taf  kv  role  kirirT^eiordroi^  rfjq  Bafivhjviag  t6ttoi{  anodei%ai.
 
@@ -23495,16 +22055,11 @@ son,  Amel-Marduk,1  the  Evil-Merodach  of  the  biblical
 (servant)  of  Marduk.
 
 
-372  CUNEIFORM  PARALLELS
-
-writers,1  ascended  the  throne  and  assumed  the  impos-
-sible burden  of  sustaining  the  vast  empire  which  a  great
+writers,1  ascended  the  throne  and  assumed  the  impossible burden  of  sustaining  the  vast  empire  which  a  great
 political  and  military  genius  had  built  up.  The  one
 event  of  his  reign  which  has  survived  in  the  memory  of
-man  is  preserved  by  the  Hebrews  alone.2  He  set  Je-
-hoiachin  free — an  act  which  indicates  a  policy  directly
-opposed  to  that  of  his  father.  With  this  accords  per-
-fectly the  reference  of  Berosos,  who  says  that  he  ruled
+man  is  preserved  by  the  Hebrews  alone.2  He  set  Jehoiachin  free — an  act  which  indicates  a  policy  directly
+opposed  to  that  of  his  father.  With  this  accords  perfectly the  reference  of  Berosos,  who  says  that  he  ruled
 unlawfully  and  tyrannically.3  He  was  assassinated
 and  his  brother-in-law,  Nergal-shar-usur  (i.  e.,  "Nergal
 protect  the  king/'  Gr.,  Neriglissvr),  became  king.  He
@@ -23513,8 +22068,7 @@ of  Nebuchadrezzar,  whose  daughter  was  his  queen,  and
 his  inscriptions  even  imitate  the  phraseology  of  his  great
 exemplar.  He  devoted  himself  largely  to  building  and
 to  restoration.  Of  the  outer  and  larger  politics  of  his
-reign  we  have  only  the  hint  that  the  relations  of  Baby-
-lon to  Media  were  strained,  and  that  the  Medes  pressed
+reign  we  have  only  the  hint  that  the  relations  of  Babylon to  Media  were  strained,  and  that  the  Medes  pressed
 into  the  northern  part  of  the  valley  and  took  Harran.
 In  556  Nergal-shar-usur  died,  and  his  son,  Labashi-
 Marduk,  while  still  a  youth,  came  to  the  throne.  He
@@ -23542,21 +22096,17 @@ NABONIDUS  AND  CYRUS  373
 Nabonidus  (Babylonian,  Nabu-ndidu,  i.  e.,  "Nabu
 is  glorious")  was  the  son  of  Nabu-balatsu-iqbi,  and
 must  have  occupied  a  distinguished  position  in  the
-kingdom  before  he  ascended  the  throne.  Like  Nebu-
-chadrezzar, he  was  a  great  builder,  but  unlike  him  by
+kingdom  before  he  ascended  the  throne.  Like  Nebuchadrezzar, he  was  a  great  builder,  but  unlike  him  by
 far  the  greater  portion  of  his  labors  was  given  to  the
 reerection  of  temples.  Nebuchadrezzar  had  constructed
 palaces,  laid  out  great  streets,  erected  immense  walls  of
 defense.  It  was  the  glory  of  Nabonidus  to  see  that
 gods  dwelt  more  magnificently  than  men,  and  that
-ancient  shrines  fallen  into  ruin  should  arise  in  a  gran-
-deur far  exceeding  the  glory  of  earlier  days.  Other  kings
-had  been  content  when  rebuilding  fallen  walls  of  tem-
-ples to  clear  away  the  rubbish  to  the  ground,  leveling
+ancient  shrines  fallen  into  ruin  should  arise  in  a  grandeur far  exceeding  the  glory  of  earlier  days.  Other  kings
+had  been  content  when  rebuilding  fallen  walls  of  temples to  clear  away  the  rubbish  to  the  ground,  leveling
 off  a  surface  higher  than  it  had  been  and  then  building
 upon  it.  Nabonidus  was  not  content  with  work  of  that
-character.  He  must  dig  down  until  the  earliest  foun-
-dation stones  were  discovered.  If  the  temple  had  been
+character.  He  must  dig  down  until  the  earliest  foundation stones  were  discovered.  If  the  temple  had  been
 several  times  rebuilt  it  interested  him  to  have  the
 records  of  the  several  kings  who  had  worked  upon  it
 recovered.  To  this  religious,  and,  if  one  might  so  say,
@@ -23575,8 +22125,6 @@ To  us  the  archaeological  researches  of  the  king  are
 not  merely  interesting;  they  afford  us  in  some  instances
 our  only  means  of  restoring  kings  of  bygone  days  to
 
-
-374  CUNEIFORM  PARALLELS
 
 their  proper  place  in  history.  But  devotion  to  the  gods
 and  a  passion  for  archaeological  learning  seem  to  have
@@ -23601,15 +22149,13 @@ had  laid  its  early  foundations.
 Nabonidus  lived  in  Tema,  a  place  whose  insignificance
 had  given  it  no  other  mention  in  the  annals  of  his
 country.  There  we  can  imagine  him  absorbed  in  great
-plans  for  temple  building  and  restoration  and  en-
-grossed in  the  work  of  his  historiographers,  who  brought
+plans  for  temple  building  and  restoration  and  engrossed in  the  work  of  his  historiographers,  who  brought
 him  their  calculations  of  the  dates  when  other  kings
 had  lived.
 
 The  affairs  of  state,  the  command  of  the  army,  the
 administration  of  public  affairs  had  all  fallen  into  the
-hands  of  the  king's  son,  Belshazzar  (Babylonian,  Bel-
-shar-usur,  "Bel  protect  the  king"),  who  ruled  in  his
+hands  of  the  king's  son,  Belshazzar  (Babylonian,  Belshar-usur,  "Bel  protect  the  king"),  who  ruled  in  his
 father's  name  and  enjoyed  his  confidence  and  affection.
 
 Nabonidus  seems  to  have  neglected  Babylon  in  very
@@ -23626,33 +22172,28 @@ title  borne  by  former  kings,  "Preserver  of  Esagila  and
 Ezida,"  but  his  concerns  were  evidently  elsewhere.  In
 the  ancient  city  of  Sippar  he  razed  to  the  foundations
 the  remains  of  the  temple  of  the  Sun  (Shamash),  which
-had  been  restored  but  forty-five  years  before  by  Nebu-
-chadrezzar. There  he  found  the  very  lowest  founda-
+had  been  restored  but  forty-five  years  before  by  Nebuchadrezzar. There  he  found  the  very  lowest  founda-
 tion stone,  on  which  his  savants  read  the  name  of
 Naram-Sin,  who  lived,  as  their  records  showed,  thirty-two
 hundred  years  before.1  Upon  that  exact  spot  the  new
-foundations  were  laid  and  above  them  rose  a  new  tem-
-ple far  more  splendid  than  the  former.  For  its  roof  no
+foundations  were  laid  and  above  them  rose  a  new  temple far  more  splendid  than  the  former.  For  its  roof  no
 less  than  five  thousand  cedar  beams  were  brought  from
 the  far-distant  northland,  while  yet  others  were  required
 for  its  massive  doors.
 
 At  about  the  same  time  he  reconstructed  the  temple
 of  E-ulbar,  the  shrine  of  the  goddess  Ishtar-Anunit.
-There  he  did  not  find  the  earliest  foundation,  but  con-
-tented himself  with  one  laid  only  eight  hundred  years
+There  he  did  not  find  the  earliest  foundation,  but  contented himself  with  one  laid  only  eight  hundred  years
 before  his  time.
 
 While  all  these  works  were  in  progress  another  people,
-fresh  and  vigorous,  untainted  by  the  decay  which  civili-
-zation has  often  brought,  were  preparing  to  undo  this
+fresh  and  vigorous,  untainted  by  the  decay  which  civilization has  often  brought,  were  preparing  to  undo  this
 splendor  and  possess  the  wealth  and  power  which
 Nabonidus  had  inherited  or  amassed.
 
 The  beginnings  of  new  powers  in  the  world's  history
 are  usually  obscure,  and  to  this  rule  the  rise  of  the
-great  people  who  were  to  engulf  Babylonia  is  no  excep-
-tion. But  certain  lines  in  the  great  movement  are
+great  people  who  were  to  engulf  Babylonia  is  no  exception. But  certain  lines  in  the  great  movement  are
 sufficiently  clear  to  be  traced  with  some  certainty.
 The  fall  of  Nineveh  was  brought  about  by  the  alliance
 between  the  Medes  and  the  Babylonians,  but  it  was
@@ -23660,8 +22201,6 @@ between  the  Medes  and  the  Babylonians,  but  it  was
 »  V  R.,  62,  b,  57-60.  Compare  KeUinschrifd.  Bibl.,  iii,  2,  p.  105;
 compare  Rogers  History  of  Babylonia  and  Assyria,  i,  p.  318f.
 
-
-376  CUNEIFORM  PARALLELS
 
 the  former  who  struck  the  fatal  blow.  The  leader  of  this
 new  Median  state  was  Cyaxares  (Uvakhshatara),  whose
@@ -23680,15 +22219,12 @@ Lydia,  over  which  Croesus,  of  proverbial  memory,  was
 now  king  (560-546  B.  C).
 
 While  these  conquests  were  proceeding,  and  the  world
-seemed  ready  to  bow  down  at  the  feet  of  the  overpower-
-ing Medes,  there  had  been  bora  in  Anshan,  as  the  son  of-
+seemed  ready  to  bow  down  at  the  feet  of  the  overpowering Medes,  there  had  been  bora  in  Anshan,  as  the  son  of-
 Cambyses,  the  boy  Cyrus,  who  grew  to  manhood  as  king
-of  Anshan,  and  as  a  tributary  prince  beneath  the  au-
-thority of  Astyages,  king  of  the  Medes.  It  was  impos-
+of  Anshan,  and  as  a  tributary  prince  beneath  the  authority of  Astyages,  king  of  the  Medes.  It  was  impos-
 sible that  a  man  such  as  he  should  long  remain  beneath
 the  sway  of  another.  In  553  he  arose  against  Astyages,
-and,  according  to  the  story  which  Nabonidus  has  pre-
-served for  us,  Astyages  was  delivered  bound  into  his
+and,  according  to  the  story  which  Nabonidus  has  preserved for  us,  Astyages  was  delivered  bound  into  his
 hands  by  his  own  treacherous  troops.  In  550  Cyrus
 took  Ecbatana  and  sacked  it,  and  brought  there  to  an
 end  the  Median  power.  The  Persians  under  Cyrus  now
@@ -23713,8 +22249,7 @@ of  Babylonia,  with  its  valuable  possessions  in  Syro-
 Phcenicia  along  the  Mediterranean  coast.  While  these
 far-reaching  conquests  were  awaking  alarm,  even  in
 distant  Greece,  Nabonidus  was  paying  no  heed,  busily
-absorbed  as  ever  in  the  building  and  restoring  and  ex-
-ploring for  ancient  foundation  stones.  The  record  of
+absorbed  as  ever  in  the  building  and  restoring  and  exploring for  ancient  foundation  stones.  The  record  of
 his  fatuous  course  is  written  in  the  sententious  phrases
 of  the  Babylonian  Chronicle,  which  record  his  residence
 in  Tema.  In  549,  when  the  Lydian  king  was  full  of
@@ -23731,28 +22266,21 @@ Belshazzar  was  in  northern  Accad  with  an  army,  and
 on  him  were  such  hopes  of  defense  as  the  country  may
 have  felt.
 
-The  Chronicle  is  now  badly  broken,  as  an  examina-
-tion of  the  copy1  will  show,  and  we  are  not  able  to  fol-
-low the  events  from  year  to  year.  When  next  the  nar-
-rative is  resumed  the  year  539  has  been  reached  and
+The  Chronicle  is  now  badly  broken,  as  an  examination of  the  copy1  will  show,  and  we  are  not  able  to  fol-
+low the  events  from  year  to  year.  When  next  the  narrative is  resumed  the  year  539  has  been  reached  and
 Nabonidus  is  busy  removing  gods  from  their  shrines  to
 Babylon.    In  that  same  year  Cyrus  met  Belshazzar  at
 
 l  See  Schrader,  Kcilinachriftliche  Bibliothek,  iii,  2,  p.  128f.
 
 
-378  CUNEIFORM  PARALLELS
-
 the  canal  of  Salsallat,  near  Opis,  and  defeated  him.  On
-the  fourteenth  day  of  Tammuz,  Sippar  was  taken  with-
-out a  blow,  and  two  days  later  the  van  of  the  army  of
+the  fourteenth  day  of  Tammuz,  Sippar  was  taken  without a  blow,  and  two  days  later  the  van  of  the  army  of
 Cyrus  entered  Babylon  as  the  gates  swung  open  without
 resistance1  to  receive  it.  Cyrus  was  not  in  command,
-but  had  remained  behind,  while  Ugbaru  (Goburyas),  gov-
-ernor of  Gutium,  led  the  advance.  Nabonidus  was
+but  had  remained  behind,  while  Ugbaru  (Goburyas),  governor of  Gutium,  led  the  advance.  Nabonidus  was
 taken  prisoner  in  the  city.  Cambyses,  son  of  Cyrus,
-seems  to  have  been  called  king  at  first,  but  Cyrus  him-
-self was  later  called  king  of  Babylon,  "king  of  lands."
+seems  to  have  been  called  king  at  first,  but  Cyrus  himself was  later  called  king  of  Babylon,  "king  of  lands."
 
 » Cyrus-Cylinder,  line  17  (see  below,  p.  381).
 
@@ -23763,11 +22291,9 @@ Column  I:
 (1)  Nabonidus,  king  of  Babylon,  (2)  supporter  of
 E-sagila  (3),  and  E-zida  (4) ,  who  fears  the  great  gods,  am  I.
 
-(5)  E-Lugal-malga-si-di,  (6)  the  step  tower  of  E-gis-
-shir-gal,  (7)  which  is  in  Ur,  (8)  which  Ur-Engur,  a  king  of
+(5)  E-Lugal-malga-si-di,  (6)  the  step  tower  of  E-gisshir-gal,  (7)  which  is  in  Ur,  (8)  which  Ur-Engur,  a  king  of
 former  time,  (9)  had  built  but  finished  not;  (10)  Dungi,
-his  son,  (11)  did  finish  his  work.  (12)  (From  the  in-
-scriptions of  Ur-engur  (13)  and  Dungi,  his  son,  I  learned
+his  son,  (11)  did  finish  his  work.  (12)  (From  the  inscriptions of  Ur-engur  (13)  and  Dungi,  his  son,  I  learned
 (14,  15)  that  Ur-engur  built  that  step  tower,  (16)  but  had
 not  finished  it;  (17,  18)  Dungi,  his  son,  finished  the
 work.)  (19)  This  step  tower  (20)  had  now  become  old,
@@ -23781,33 +22307,28 @@ K&nigsinschriften,  No.  5,  pp.  250ff.
 Column  I:
 
 (1)  (m,  ilu)  Nabu-na'id  sar  Babili(ki)  (2)  za-ni-in  E-sag-ila  (3)  a
-E-zi-da  (4)  pa-lib  il&ni  rabuti  a-na-ku  (5)  E-lugal-malga-si-di  (6)  zik-
-ku-rat  E-gis-sir-gal  (7)  sa  ki-rib  Ur(ki)  (8)  §a  (m)Ur-(ilu)  engur  sarru
+E-zi-da  (4)  pa-lib  il&ni  rabuti  a-na-ku  (5)  E-lugal-malga-si-di  (6)  zikku-rat  E-gis-sir-gal  (7)  sa  ki-rib  Ur(ki)  (8)  §a  (m)Ur-(ilu)  engur  sarru
 su-ut  mah,-ri  (9)  i-pu-su-ma  la  u-sak-li-lu-us  (10)  (ilu)  Dun-gi  mari-su
 (11)  si-pu-su  u-sak-lil  (12)  i-na  mu-sa-ri-e  sa  Ur-(ilu)  Engur  (13)  u  (ilu)
-Dun-gi  mari-su  a-mur-ma  (14)  sa  zik-ku-rat  Su-a-ti  (15)  Ur-(ilu)  En-
-gur i-pu-su-ma  (16)  la  u-§ak-li-lu-u5  (17)  (™»  ilu)  Dun-gi  mari-su  si-
+Dun-gi  mari-su  a-mur-ma  (14)  sa  zik-ku-rat  Su-a-ti  (15)  Ur-(ilu)  Engur i-pu-su-ma  (16)  la  u-§ak-li-lu-u5  (17)  (™»  ilu)  Dun-gi  mari-su  si-
 pir-Su  (18)  u-§ak-lil  (19)  i-na-an-ni  zik-ku-rat  §u-a-tu  (20)  la-ba-ri-is
 il-lik-ma  (21)  e-li  te-me-en-na  la-bi-ri  (22)  5a  (m)Ur  (ilu)  Engur  u
 
 
 CYLINDERS  OF  NABONIDUS  379
 
-Dungi,  (23)  his  son,  had  built,  I  undertook  the  recon-
-struction (24)  of  this  temple  tower,  (25)  as  of  old,  (26,
+Dungi,  (23)  his  son,  had  built,  I  undertook  the  reconstruction (24)  of  this  temple  tower,  (25)  as  of  old,  (26,
 27)  with  bitumen  and  burned  brick,  (28)  and  for  Sin,  the
 lord  of  the  gods  of  heaven  and  earth,  (29)  the  king  of  the
 gods,  the  gods  of  gods  (30)  that  inhabit  the  great  heavens,
-the  lord  of  E-gish-shir-gal,  which  is  (31)  in  Ur,  my  terri-
-tories, [Column  II]  (1)  I  founded  (2)  and  built  it.
+the  lord  of  E-gish-shir-gal,  which  is  (31)  in  Ur,  my  territories, [Column  II]  (1)  I  founded  (2)  and  built  it.
 
 (3)  O  Sin,  lord  of  the  gods,  (4)  king  of  the  gods  of  heaven
 and  earth,  (5)  the  god  of  »gods,  (6)  that  inhabits  the  great
 heavens,  (7)  when  thou  dost  (8)  joyfully  enter  into  that
 house,  may  the  (9)  good  done  to  Esagila,  (10)  Ezida  and
 E-gisshir-gal  (11)  the  temples  of  thy  great  godhead  (12)  be
-upon  thy  lips,  (13)  and  the  fear  of  thy  (14)  great  god-
-head do  thou  (15)  implant  in  the  heart  of  its  people,  let
+upon  thy  lips,  (13)  and  the  fear  of  thy  (14)  great  godhead do  thou  (15)  implant  in  the  heart  of  its  people,  let
 them  not  sin  (16)  against  thy  great  godhead,  (17)  like
 the  heavens  let  their  foundations  (18)  stand  fast.
 
@@ -23822,28 +22343,23 @@ turn  (30)  unto  sinning.  (31)  Let  him  be  satisfied  with
 fullness  of  life.
 
 (ilu)  Dun-gi  (23)  mari-§u  i-pu-su  (24)  zik-ku-rat  §u-a-ti  (25)  ki-ma
-la-bi-ri-im-ma  (26)  i-na  ku-up-ri  u  a-gur-ri  (27)  ba-ta-ak-§u  as-bat-
-ma  (28)  a-na  (ilu)  Sin  bel  ilani  8a  Sami-e  u  irsi-tim  (29)  Sar  ilani
+la-bi-ri-im-ma  (26)  i-na  ku-up-ri  u  a-gur-ri  (27)  ba-ta-ak-§u  as-batma  (28)  a-na  (ilu)  Sin  bel  ilani  8a  Sami-e  u  irsi-tim  (29)  Sar  ilani
 ilani1  sa  ilani  (30)  a-si-ib  §ame-e  rabuti  bel  £-gi§-Sir-gal  (31)  Saki-rib
 Ur(ki)  beli-ia.    [Column  II]  (1)  uS-Si-iS-ma  (2)  e-pu-uS
 
 (3)  (ilu)  Sin  be-lf  ilani  (4)  Sar  ilani  8a  Same-e  u  irsi-tim  (5)  ilani
 |i  ilani  (6)  a-Si-ib  Samo-e  rabuti  (7)  a-na  biti  5u-a-ti  (8)  ba-di-i§
 i-na  e-ri-bi-ka  (9)  damkati  fi-sag-ila  (10)  E-zi-da  E-giS-Sir-gal
-(11)  bltati  ilu-u-ti-ka  rabi-(ti)  (12)  li§-§a-ki-in  sap-tuk-ka  (13)  u  pu-
-lub-ti  ilu-u-ti-ka  (14)  rabi-ti  lib-bi  ni§e-Su  (15)  £u-u§-kin-ma  la  i-hat-
+(11)  bltati  ilu-u-ti-ka  rabi-(ti)  (12)  li§-§a-ki-in  sap-tuk-ka  (13)  u  pulub-ti  ilu-u-ti-ka  (14)  rabi-ti  lib-bi  ni§e-Su  (15)  £u-u§-kin-ma  la  i-hat-
 tu-ii  (16)  a-na  ilu-u-ti-ka  rabi-ti (ti)  (17)  ki-ma  §amo-e  i§-da-§ii-nu
 (18)  li-ku-nu  (19)  ia(-a-)ti  (ilu)  Nabu-na'id  Sar  Bdbili(ki)  (20)  i-na
 bi-tu  ilu-u-ti-ka  (21)  rabiti(ti)  Su-zil>-an-ni-ma  (22)  ba-la-tu  u-nui
 ru-ku-ti  (23)  a-na  Si-rik-ti  §ur-kam  (24)  u  sa  (m,  ilu)  Bel-§ar-usur
-iaru  reft-tu-u  (26)  si-it  lil>bi-ia  (27)  pu-lufc-ti  ilu-u-ti-ka  rabi-
-ti  (28)  lib-bu-ufi  Su-us-kin-ma  (29)  ai  ir-§a-a  (30)  bi-ti-ti  (31)  la-li-e
+iaru  reft-tu-u  (26)  si-it  lil>bi-ia  (27)  pu-lufc-ti  ilu-u-ti-ka  rabiti  (28)  lib-bu-ufi  Su-us-kin-ma  (29)  ai  ir-§a-a  (30)  bi-ti-ti  (31)  la-li-e
 baUti  lis-bi
 
 1  Word  r«  peated  by  mistake  of  the  scribe
 
-
-380  CUNEIFORM  PARALLELS
 
 2.  THE  CYLINDER  OF  CYRUS "
 
@@ -23858,8 +22374,7 @@ daily  and  in  enmity,  (7)  he  caused  the  daily  offering  to
 cease;  he  appointed  ...  he  established  within  the
 city.  The  worship  of  Marduk,  king  of  the  gods  .  .  .
 (8)  he  showed  hostility  toward  his  city  daily  .  .  .
-his  people  he  brought  all  of  them  to  ruin  through  servi-
-tude without  rest.  (9)  On  account  of  their  complaints
+his  people  he  brought  all  of  them  to  ruin  through  servitude without  rest.  (9)  On  account  of  their  complaints
 the  lord  of  the  gods  became  furiously  angry  and  left
 their  land;  the  gods,  who  dwelt  among  them,  left  their
 homes,  (10)  in  anger  over  his  bringing  into  Babylon.
@@ -23867,8 +22382,7 @@ Marduk  ...  to  all  the  dwelling  places,  which  had
 become  ruins,  (11)  and  the  people  of  Sumer  and  Akkad,
 who  were  like  corpses     ...     he  turned  and  granted
 
-»  Published  V  R.,  Plate  35  (London,  1880),  2d  edition,  1910.  Trans-
-literated and  translated  by  Schrader,  Keilinschriftliche  BiUioihek,  Mi,
+»  Published  V  R.,  Plate  35  (London,  1880),  2d  edition,  1910.  Transliterated and  translated  by  Schrader,  Keilinschriftliche  BiUioihek,  Mi,
 2,  pp.  120ff.  Transcribed  and  translated  after  a  now  collation  of  the
 text  by  O.  E.  Hagen,  Beitrdge  zur  Aasyrioloaie,  ii,  pp.  208ff.  (1891).
 Transliterated  and  translated  anew  by  Weissbach,  Die  Keilinschriften
@@ -23896,10 +22410,8 @@ u-sab-ti-li  u-ad-[di i£]-tak-ka-an  ki-rib  ma-h,a-zi
 
 pa-la-jja  (ilu)  Marduk  §ar  ilani  [sa]-ki-§e  a-su-u§-§u  (8)  li-mu-ut-ti
 ali-su  [i-te]-ni-ip-pu-u§  u-mi-§a-am-ma  na-[.  .  .  .  nise]  i-na  ab-
-§a-a-ni  la  ta-ap-§u-ujj-tim  u-^al-li-ik  kul-lat-si-in  (9)  a-na  ta-zi-im-
-ti-§i-na  (ilu)  Ellil  (lil)  ilani  iz-zi-i§  i-gu-ug-ma  .  .  .  ki-su-ur-
-§ii-un  ilani  a-§i-ib  lib-bi-su-nu  i-zi-bu  ad-ma-an-su-un  (10)  i-na  ug-
-ga-ti  §a  u-§e-ri-bi  a-na  ki-rib  Babili  (ilu)  Marduk  ti-  .  .  .  li-sa-
+§a-a-ni  la  ta-ap-§u-ujj-tim  u-^al-li-ik  kul-lat-si-in  (9)  a-na  ta-zi-imti-§i-na  (ilu)  Ellil  (lil)  ilani  iz-zi-i§  i-gu-ug-ma  .  .  .  ki-su-ur-
+§ii-un  ilani  a-§i-ib  lib-bi-su-nu  i-zi-bu  ad-ma-an-su-un  (10)  i-na  ugga-ti  §a  u-§e-ri-bi  a-na  ki-rib  Babili  (ilu)  Marduk  ti-  .  .  .  li-sa-
 aj}-ra  a-na  nap-Jjar  da-dd-mi  M  in-na-du-u  §u-bat-su-un  (11)  u  ni§e
 mat  Su-me-ri  u  Akkadi(ki)  §a  i-mu-ii  §a-lam-ta-a§  u-sa-a^-hj-ir  ka-
 .    .    .  -§i  ir-ta-§i  ta-a-a-ra  kul-lat  ma-ta-a-ta  ka-li-§i-na  i-Jji-it  ib-ri«<-
@@ -23913,8 +22425,7 @@ after  his  own  heart,  whom  he  took  by  the  hand.  Cyrus,
 king  of  Anshan,  he  called  by  name,  to  lordship  over  the
 whole  world  he  appointed  him.  (13)  The  land  of  Qutu,
 all  the  Umman-manda,  he  cast  down  at  his  feet.  The
-black-headed  people,  whom  he  gave  his  hands  to  con-
-quer, (14)  he  took  them  in  justice  and  righteousness.
+black-headed  people,  whom  he  gave  his  hands  to  conquer, (14)  he  took  them  in  justice  and  righteousness.
 Marduk,  the  great  lord,  looked  joyously  on  the  caring  for
 his  people,  on  his  pious  works  and  his  righteous  heart.
 (15)  To  his  city  Babylon  he  caused  him  to  go,  he  made
@@ -23928,33 +22439,25 @@ fear  him,  he  delivered  into  his  hand.  (18)  All  the  people
 of  Babylon,  of  Sumer  and  Akkad,  princes  and  governors,
 fell  down  before  him  and  kissed  his  feet.  They  rejoiced
 in  his  sovereignty,  their  faces  shone.  (19)  The  lord,  who
-by  his  power  brings  the  dead  to  life,  who  amid  destruc-
-tion and  injury  had  protected  them,  they  blessed  him
+by  his  power  brings  the  dead  to  life,  who  amid  destruction and  injury  had  protected  them,  they  blessed  him
 joyously,  honoring  his  name.
 
 
-Su  (12)  iS-te-'-e-ma  ma-al-ki  i-sa-ru  bi-bil  lib-bi  §a  it-ta-ma-ab  ka-tu-
-us-§u  (m)Ku-ra-as  sar  ali  An-§a-an  it-ta-bi  ni-bi-it-su  a-na  ma-li-
-ku-tim  kul-la-ta  nap-bar  iz-zak-ra  su-[ma-§u]  (13)  mat  Ku-ti-i  gi-
-mir  um-man  Man-da  u-ka-an-ni-Sa  a-na  se-pi-su  nise  sal-mat
-kakkadu(du)  sa  u-sa-ak-si-du  ka-ta-a-su  (14)  i-na  ki-it-tim  u  mi-
-sa-ru  is-te-ni-'e-si-na-a-tim  (ilu)  Marduk  belu  rabu  ta-ru-u  nise-su
+Su  (12)  iS-te-'-e-ma  ma-al-ki  i-sa-ru  bi-bil  lib-bi  §a  it-ta-ma-ab  ka-tuus-§u  (m)Ku-ra-as  sar  ali  An-§a-an  it-ta-bi  ni-bi-it-su  a-na  ma-li-
+ku-tim  kul-la-ta  nap-bar  iz-zak-ra  su-[ma-§u]  (13)  mat  Ku-ti-i  gimir  um-man  Man-da  u-ka-an-ni-Sa  a-na  se-pi-su  nise  sal-mat
+kakkadu(du)  sa  u-sa-ak-si-du  ka-ta-a-su  (14)  i-na  ki-it-tim  u  misa-ru  is-te-ni-'e-si-na-a-tim  (ilu)  Marduk  belu  rabu  ta-ru-u  nise-su
 ip-se-e-ti  Sa  dam-ka-a-ta  u  lib-ba-sii  i-sa-ra  ba-di-is  ip-pa-al-li-is
 (15)  a-na  ali-Sii  Bab-ilani(ki)  a-la-ak-su  ik-bi  li-sa-as-bi-it-su-ma
-jjar-ra-nu  Babili  ki-ma  ib-ri  u  tap-pi-e  it-tal-ia-ka  i-da-a^su  (16)  um-
-ma-ni-su  rap-sa-a-tim  §a  ki-ma  me-e  nari  la  u-ta-ad-du-u  ni-ba-5u-
+jjar-ra-nu  Babili  ki-ma  ib-ri  u  tap-pi-e  it-tal-ia-ka  i-da-a^su  (16)  umma-ni-su  rap-sa-a-tim  §a  ki-ma  me-e  nari  la  u-ta-ad-du-u  ni-ba-5u-
 un  kikke-su-nu  sa-arwlu-ma  i-Sa-ad-di-ba  i-da-a-su  (17)  ba-lu  kab-li
 
 i-zi  u-se-n-ba-as  ki-rib  Bubili  alft-M  H:il>-ihi.ni(ki)  i-ti-ir  i-na
-ftap-sa-ki  (m,  ilu)  Nabu-na'id  Sarru  la  pa-li-}ji-Su  u-ma-al-la-a  ka-tu-
-us-Su  (IS)  ni.*o  Babili  ka-li-Su-nu  nap-bar  mat  &u-me-ri  u  Akkadi(ki)
+ftap-sa-ki  (m,  ilu)  Nabu-na'id  Sarru  la  pa-li-}ji-Su  u-ma-al-la-a  ka-tuus-Su  (IS)  ni.*o  Babili  ka-li-Su-nu  nap-bar  mat  &u-me-ri  u  Akkadi(ki)
 
 u  sak-ka-nak-ka  Sa-pal-si'i  ik-mi-sa  u-na-a5-si-ku  se-pu-us-Su
 Ijj-'l'i-ii  a-na  S^rru-u-ti-Su  im-mi-ru  pn-mi-u^-su-un  (l(.i)  be-lu  §a  i-na
 tu-kul-ti-Sa  u-bal-li-fu  mi-tu-ta-an  i-n:i  bu-t:i-ku  li  pa-ki-e  ig-mi-lu
 
-
-382  CUNEIFORM  PARALLELS
 
 (20)  I  am  Cyrus,  king  of  the  world,  the  great  king,  the
 powerful  king,  king  of  Babylon,  king  of  Sumer  and
@@ -23967,8 +22470,7 @@ rule  Bel  and  Nabu  love,  whose  government  they  rejoice
 in  in  their  heart.  When  I  made  my  triumphal  entrance
 into  Babylon,  (23)  with  joy  and  rejoicing  I  took  up  my
 lordly  residence  in  the  royal  palace,  Marduk,  the  great
-lord,  moved  the  noble  heart  of  the  inhabitants  of  Baby-
-lon to  me,  while  I  gave  daily  care  to  his  worship.  (24)  My
+lord,  moved  the  noble  heart  of  the  inhabitants  of  Babylon to  me,  while  I  gave  daily  care  to  his  worship.  (24)  My
 numerous  troops  marched  peacefully  into  Babylon.  In
 all  Sumer  and  Akkad  I  permitted  no  enemy  to  enter.
 (25)  The  needs  of  Babylon  and  of  all  its  cities  I  gladly
@@ -23980,22 +22482,19 @@ deeds,  and  (27)  graciously  blessed  me,  Cyrus,  the  king
 who  worships  him,  and  Cambyses,  my  own  son,  and  all
 my  troops,  (28)  while  we,  before  him,  joyously  praised
 
-kul-la-ta-an  ta-bi-iS  ik-ta-ar-ra-bu-Su  iS-tam-ma-ru  zi-ki-ir-8ii  (20)  a-
-na-ku  (m)Ku-ra-aS  Sar  kiS-Sat  Sarru  rabu  Sarru  dan-nu  §ar  Babili
+kul-la-ta-an  ta-bi-iS  ik-ta-ar-ra-bu-Su  iS-tam-ma-ru  zi-ki-ir-8ii  (20)  ana-ku  (m)Ku-ra-aS  Sar  kiS-Sat  Sarru  rabu  Sarru  dan-nu  §ar  Babili
 Sar  mat  Su-me-ri  A  Ak-ka-di  Sar  kib-ra-a-ti  ir-bit-tim  (21)  mar
 (m)Ka-am-bu-zi-ia  Sarru  rabu  Sar  alu  An-Sa-an  mar  mari  (m)Ku-ra-aS
 Sarru  rabu  Sar  alu  An-Sa-an  Sa.bal.bal  (m)Si-iS-pi-iS  Sarru  rabu  Sar
 alu  An-Sa-an  (22)  ziru  da-ru-u  Sa  Sarru-u-tu  Sa  (ilu)  Bel  u  (ilu)  Nabu
-ir-a-mu  pa-la-a-Su  a-na  tu-ub  lib-bi-Su-nu  ilj-Si-ba  Sarru-ut-su  e-mi-
-ma  a-na  ki-rib  Babili  e-ru-bu  sa-li-mi-iS  (23)  i-na  ul-si  u  ri-Sa-a-tim
+ir-a-mu  pa-la-a-Su  a-na  tu-ub  lib-bi-Su-nu  ilj-Si-ba  Sarru-ut-su  e-mima  a-na  ki-rib  Babili  e-ru-bu  sa-li-mi-iS  (23)  i-na  ul-si  u  ri-Sa-a-tim
 i-na  ekal  ma-al-ki  ar-ma-a  Su-bat  be-lu-tim  (ilu)  Marduk  belu  rabu
 lib-bi  ri-it-pa-Su  S&  mare  Babili  u  .  .  .  an-ni-ma  u-mi-Sam  a-Se-'-a
 pa-la-afc-Su  (24)  um-ma-ni-ia  rap-5a-tim  i-na  ki-rib  Babili  i-Sa-ad-di-fca
 Su-ul-ma-niS  nap-bar  mat  [Su-me-ri]  u  Akkadi(ki)  mu-gal-fl]i-tim  ul
 u-Sar-Si  (25)  dannat  Babili  u  kul-lat  ma-fca-zi-Su  i-na  Sa-fi-im-tim
 aft-te-'-e  mare  Babi[li  .  .  .]  ki  ma-la  lib-[.  .  .]-ma  ab-Sa-a-ni  la
-si-ma-ti-Su-nu  Su-bat-su-un  (26)  an-|ju-ut-8u-un  u-pa-aS-Si-^a  \i-Sa-
-ap-ti-ir  sa-ar-ba-Su-nu  a-na  ip-Se-e-ti-[ia]  (ilu)  Marduk  belu  rabuii-
+si-ma-ti-Su-nu  Su-bat-su-un  (26)  an-|ju-ut-8u-un  u-pa-aS-Si-^a  \i-Saap-ti-ir  sa-ar-ba-Su-nu  a-na  ip-Se-e-ti-[ia]  (ilu)  Marduk  belu  rabuii-
 i^-di-e-ma  (27)  a-na  ia-a-ti  (m)Ku-ra-aS  Sarru  pa-li-u>Su  u
 (m)Ka-am-bu-zi-ia  mari  si-it  lib-bi-[ia  u  aj-na  nap-^ar  um-ma-ni-ia
 (28)  da-am-ki-iS  ik-ru-ub^ma  i-na  Sa-lim-tim  ma-^ar-Sa  ta-bi-ifi  ni-
@@ -24005,16 +22504,14 @@ CYLINDER  OF  CYRUS  383
 
 his  exalted  godhead.  All  the  kings  dwelling  in  palaces,
 (29)  of  all  the  quarters  of  the  earth,  from  the  Upper  to
-the  Lower  sea  dwelling  .  .  .  all  the  kings  of  the  West-
-land  dwelling  in  tents  (30)  brought  me  their  heavy
+the  Lower  sea  dwelling  .  .  .  all  the  kings  of  the  Westland  dwelling  in  tents  (30)  brought  me  their  heavy
 tribute,  and  in  Babylon  kissed  my  feet.  From  .  .  .
 to  Asshur  and  Susa,  (31)  Agade,  Eshnunak,  Zamban,
 Meturnu,  Deri,  with  the  territory  of  the  land  of  Gutium,
 the  cities  on  the  other  side  of  the  Tigris,  whose  sites  were
 of  ancient  foundation — (32)  the  gods,  who  dwelt  in
 them,  I  brought  them  back  to  their  places,  and  caused
-them  to  dwell  in  a  habitation  for  all  time.  All  their  in-
-habitants I  collected  and  restored  them  to  their  dwelling
+them  to  dwell  in  a  habitation  for  all  time.  All  their  inhabitants I  collected  and  restored  them  to  their  dwelling
 places.  (33)  And  the  gods  of  Shumer  and  Akkad,  whom
 Nabonidus,  to  the  anger  of  the  lord  of  the  gods,  had
 brought  into  Babylon,  by  command  of  Marduk,  the
@@ -24024,31 +22521,24 @@ May  all  the  gods,  whom  I  brought  into  their  cities,
 (35)  pray  daily  before  Bel  and  Nabu  for  long  life  for  me,
 and  may  they  speak  a  gracious  word  for  me  and  say  to
 Marduk,  my  lord,  "May  Cyrus,  the  king  who  worships
-thee,  and  Cambyses,  his  son,  (36)  their  ...  I  per-
-mitted all  to  dwell  in  peace     .     .     .
+thee,  and  Cambyses,  his  son,  (36)  their  ...  I  permitted all  to  dwell  in  peace     .     .     .
 
 
-it-ta-['-id  i-lu-ti-§u]  sir-ti  nap-fcar  Sarri  a-§i-ib  parakke  (29)  §a  ka-
-li-i§  kib-ra-a-ta  i§-tu  tam-tim  e-li-tim  a-di  tam-tim  §ap-li-tim  a-§i-ib
+it-ta-['-id  i-lu-ti-§u]  sir-ti  nap-fcar  Sarri  a-§i-ib  parakke  (29)  §a  kali-i§  kib-ra-a-ta  i§-tu  tam-tim  e-li-tim  a-di  tam-tim  §ap-li-tim  a-§i-ib
 kul-[.  .  .]  Sarrani  mati  A-mur-ri-i  a-§i-ib  ku§-ta-ri  ka-li-§u-un
 (30)  bi-lat-su-nu  ka-bi-it-tim  u-bi-lu-nim-ma  ki-ir-ba  Babili  u-na-a§-
-§i-ku  §e-pu-ii-a  i5-tu  [.  .  .]  a-di  alu  A§§ur(ki)  u  SuSan(ki)  (31)  A-ga-
-de(ki)  matu  ES-nu-nak  (alu)  Za-am-ba-an  (alu)  Me-tur-nu,  Deri(ki)
+§i-ku  §e-pu-ii-a  i5-tu  [.  .  .]  a-di  alu  A§§ur(ki)  u  SuSan(ki)  (31)  A-gade(ki)  matu  ES-nu-nak  (alu)  Za-am-ba-an  (alu)  Me-tur-nu,  Deri(ki)
 a-di  pa-at  mat  Ku-ti-i  ma-jja-za  [M  e-bir]-ti  (nam)  Diklat  §&  i§-tu
 ap-na-ma  na-du-u  Su-bat-su-un  (32)  ilani  a-§i-ib  lib-bi-§u-nu  a-na
 as-ri-Su-nu  u-tir-ma  u-Sar-ma-a  §u-bat  da-er-a-ta  kul-lat  niSe-Su-nu
-u-pa-ajj-lji-ra-am-ma  u-te-ir  da-:id-mi-Su-un  (33)  u  ilani  m&t  Su-
-me-ri  u  Akkadi(ki)  §&  (m,  iln)  Nabu-na'id  a-na  ug-ga-tim  bel  ilani
+u-pa-ajj-lji-ra-am-ma  u-te-ir  da-:id-mi-Su-un  (33)  u  ilani  m&t  Sume-ri  u  Akkadi(ki)  §&  (m,  iln)  Nabu-na'id  a-na  ug-ga-tim  bel  ilani
 u-§e-ri-bi  a-na  ki-rib  Babili  i-na  ki-bi-ti  (ilu)  Marduk  belu  rabu  i-na
 6.4-li-im-tim  (34)  i-na  maS-tH-ki-Su-nu  fl  fe fc  ib  §u-ba-at  tu-ub  lib-bi
 kul-la-ta  il4ni  §a  u-Se-ri-l)i  a-na  ki-ir-l»i  ina-ba-zi-§u-un'  (35)  u-mi-
 6a-am  ma-bar  (ilu)  Bel  u  (ilu)  Nabu  Sa  a-ra-ku  ume-ia  li-ta-mu-u
-lit-taS-ka-ru  a-ma-a-ta  du-vm-ki-ia  ft  a-na  (ilu)  Marduk  beli-ia  li-ik-
-bu-u  6a  (m)Ku-ra-afi  Sarri  pn-li-tji-ka  u  (m)Ka-am-bu-zi-ia  mari-5u
+lit-taS-ka-ru  a-ma-a-ta  du-vm-ki-ia  ft  a-na  (ilu)  Marduk  beli-ia  li-ikbu-u  6a  (m)Ku-ra-afi  Sarri  pn-li-tji-ka  u  (m)Ka-am-bu-zi-ia  mari-5u
 (36)  da     .     .     .    ib-§u-nu  lu-u     .     .     .     ka-li-§i-na  §u-ub-ti  ni-i^-tim
 
-
-384  CUNEIFORM  PARALLELS
 
 birds  and  doves  (?)
 
@@ -24119,8 +22609,7 @@ King  of  the  great  gods,  who  in  heaven  and  earth
 1  Published  in  transliteration  and  translation  by  W.  J.  Hinke,  A  New
 Boundary  Stone  of  Nebuchadrezzar  I  from  Nippur  (1907),  pp.  142ff.
 
-Sum  (abnu)  nart   an-ni-i  (ilu)    nin-ibu  (ilu)  Nusku-mu-kin-ku-
-dur-ri-Sum-su
+Sum  (abnu)  nart   an-ni-i  (ilu)    nin-ibu  (ilu)  Nusku-mu-kin-kudur-ri-Sum-su
 
 XXII  (gur)  170  (ka)  (sheu)  zeru  f$  gan  30  ka  I  ammatu  rabltu
 
@@ -24165,24 +22654,16 @@ Column  I
 rubu  bel  gim-ri
 s&r  Hani  rabOti  sa  ina  samt'(e)  u  irsiti
 
-387
 
-
-388  CUNEIFORM  PARALLELS
-
-(4)  has  not  his  equal  (5)  upon  the  giving  of  whose  com-
-mand the  Igigi  (6)  prostrate  themselves  upon  their  faces,
-do  homage  reverently,  (7)  and  to  his  decision  the  Anun-
-naki  (8)  wait  submissively,  stand  humbly,  (9)  the  lord  of
+(4)  has  not  his  equal  (5)  upon  the  giving  of  whose  command the  Igigi  (6)  prostrate  themselves  upon  their  faces,
+do  homage  reverently,  (7)  and  to  his  decision  the  Anunnaki  (8)  wait  submissively,  stand  humbly,  (9)  the  lord  of
 lords,  the  word  of  whose  mouth  (10)  no  god  can  annul,
-(11)  the  ruler  of  the  Anunnaki,  the  lord  of  the  black-
-headed  people,  (12)  dominator  of  lands,  ruler  of  kingdoms,
+(11)  the  ruler  of  the  Anunnaki,  the  lord  of  the  blackheaded  people,  (12)  dominator  of  lands,  ruler  of  kingdoms,
 (13)  the  god,  whose  splendor  is  overwhelming  (?)  and
 full  of  brilliance,  (14)  with  whose  glory  the  whole  extent
 of  heaven,  (15)  all  habitations,  and  all  dwellings  are
 clothed,  (16)  with  whose  majesty  the  lands  are  covered,
-(17)  whose  rule  is  beyond  compare,  whose  divinity  can-
-not be  equaled,  (18)  whose  decision  is  weighty,  whose
+(17)  whose  rule  is  beyond  compare,  whose  divinity  cannot be  equaled,  (18)  whose  decision  is  weighty,  whose
 command  is  exalted,  (19)  whose  law  is  first,  whose  ways
 are  wonderful,  (20)  who  rules  heaven  and  earth,  who
 sustains  the  lands,  (21)  who  calls  the  faithful  shepherd,
@@ -24190,26 +22671,21 @@ who  appoints  the  governor  of  earth  (22)  forever,  with  the
 light  of  his  gracious  countenance,  with  his  shining  face
 (23)  upon  Nebuchadrezzar  the  prince,  his  favorite,  (24)
 who  is  devoted  to  his  sanctuaries,  he  looked  faithfully,  and
-[Column  II]  (1)  that  he  might  shepherd  Shumer  and  Ak-
-kad,  (2)  that  he  might  restore  the  sanctuaries  of  the  city  of
+[Column  II]  (1)  that  he  might  shepherd  Shumer  and  Akkad,  (2)  that  he  might  restore  the  sanctuaries  of  the  city  of
 dwellings  (3)  and  regulate  the  tithes  of  Ekur  and  Nippur,
 (4)  the  weapon  of  his  enemy  he  broke  and  (5)  the  sceptre  of
 
 
 (4)  la  i-ba-as-§u-ii  ilu  sa-nin-§u  (5)  sa  a-na  na-dan  ur-ti-sii  (ilu)
-I-gf-gf  (6)  ap-pa  i-lab-bi-nu  u-tak-ku-u  pal-fci§  (7)  u  a-na  §i-tul-
-ti-su  (ilu)  A-nun-na-ku  (8)  as-ris'  su-bar-ru-ru  na-zu-uz-zu  §a-ab-
+I-gf-gf  (6)  ap-pa  i-lab-bi-nu  u-tak-ku-u  pal-fci§  (7)  u  a-na  §i-tulti-su  (ilu)  A-nun-na-ku  (8)  as-ris'  su-bar-ru-ru  na-zu-uz-zu  §a-ab-
 tfi  (9)  be-el  Sa  i-pis  pi-su  la  li-sam-sa-ku  (10)  ilu  ai-um-ma  (11)  ra-
 §ub-bi  (ilu)  A-nun-na-ku  be-el  sal-mat  kakkadi  (12)  ka-bit  matati
-mut-tar-ru-u  ba-'-u-la-ti  (13)  ilu  sa  melammi-su  sab  (?)-pu-u  nam-
-ri-ir-ri  sa-'-nu  (14)  sa-ru-ru-su  ka-la  si-fci-ip  sa-ma-me  (15)  nap-bar
+mut-tar-ru-u  ba-'-u-la-ti  (13)  ilu  sa  melammi-su  sab  (?)-pu-u  namri-ir-ri  sa-'-nu  (14)  sa-ru-ru-su  ka-la  si-fci-ip  sa-ma-me  (15)  nap-bar
 ki-ni-e  u  kal  da-ad-me  lit-bu-us-ma  (16)  sa  kum-mat-su  matati
 ka-at-ma  (17)  be-lut-su  la  is-sa-na-nu  la  um-das-§a-lu  ilu-su
-(18)  par  (?)-su-§u  §it-ru-bu  billudu-Su  siru  §ak-ku-su  ris-tu-u  al-ka-
-ka-tu-su  nak-la  (20)  mu-ma-'-ir  §ame(e)  u  ireiti  mu-kil  matati
+(18)  par  (?)-su-§u  §it-ru-bu  billudu-Su  siru  §ak-ku-su  ris-tu-u  al-kaka-tu-su  nak-la  (20)  mu-ma-'-ir  §ame(e)  u  ireiti  mu-kil  matati
 (21)  na-bu-u  re'u  ki-nu  mu-ad-du-u  sa-kan  iraiti  (22)  a-na  §at-ti  ina
-nur  panu-5u  damkuti  ina  bu-ni-su  nam-ru-ti  (23)  (ilu)  Nabu-kudurri-
-iwur  rubu  me-gir-su  (24)  mus-te-'-u  as-ra-ti-Su  ki-nis  ip-pa-is-ma
+nur  panu-5u  damkuti  ina  bu-ni-su  nam-ru-ti  (23)  (ilu)  Nabu-kudurriiwur  rubu  me-gir-su  (24)  mus-te-'-u  as-ra-ti-Su  ki-nis  ip-pa-is-ma
 [Column  II]  (1)  a-na  (m)re-  u-ut  (matu)  Sii-me-ri  u  Akkadi(ki)
 (2)  a-na  ud-du-u§  es-rit  ma-ba-az  da-[a]d-me  (3)  u  sa-dar  satuk  E-kur
 u  Nippur(ki)  (isu)  kakku  na-ki-ri-§u  u-§ib-bir-ma  (5)  sir-rit  (m)nakri-
@@ -24219,8 +22695,7 @@ BOUNDARY  STONE  389
 
 his  enemy  he  placed  in  his  hand,  (6)  a  life  of  eternal  days  he
 granted  him,  and  (7)  above  any  king,  that  went  before
-him,  he  magnified  his  name.  (8)  Because  of  the  regula-
-tion of  the  tithes  of  Ekur,  because  of  the  magnificent
+him,  he  magnified  his  name.  (8)  Because  of  the  regulation of  the  tithes  of  Ekur,  because  of  the  magnificent
 sacrifices,  (9)  because  of  the  rich  gifts  and  the  treasures
 before  Ellil.  (10)  because  of  the  prostrations  before  the
 lord  and  the  son  of  the  lord,  (11)  with  which  to  Ellil  and
@@ -24229,8 +22704,7 @@ utterance  of  supplications,  because  of  the  word  of  the
 king,  the  priest,  (13)  Nusku-ibni,  son  of  Upakhkhir-
 Nusku,  priest  of  Ellil,  (14)  the  ...  of  Nusku,  the
 chief  of  Duranki,  (15)  to  the  king,  the  faithful  shepherd,
-the  prince,  the  favorite  of  Ellil,  (16)  because  of  his  sup-
-plication, he  looked  faithfully,  and  (17)  Bau-shum-
+the  prince,  the  favorite  of  Ellil,  (16)  because  of  his  supplication, he  looked  faithfully,  and  (17)  Bau-shum-
 iddina,  the  son  of  Khunna,  the  friend  of  his  lord,  (18)  who
 stood  before  the  king,  the  servant  whose  word  (19)  was
 always  weighty  and  respected  before  the  (20)  governor
@@ -24280,8 +22754,6 @@ XII   (kur)  170  i)  z.'ni  rk\u  ki-ru-ba-a  (26)  §a  a?na
 kiaad'(naru)  Miklat  ma  pibal   Hit  (m,  ilu)  Sin-se-me  (29)  §a  ultu
 
 
-390  CUNEIFORM  PARALLELS
-
 former  days  no  ditch  had  been  dug,  (30)  no  vegetation
 had  grown  up,  and  which  under  cultivation  (31)  had  not
 been  brought,  but  had  been  exposed  to  the  inroads  of
@@ -24294,17 +22766,12 @@ given  to  the  Lord  of  countries,  (6)  I  ush,  lower  width,
 south,  on  the  bank  of  the  Tigris,  (7)  in  all  XXII  (gur)
 lG8f  (ka)  5  (gin)  of  seedfield,  ^  gan  (reckoned)  at
 30  ka  of  seed,  (equivalent)  to  a  large  cubit,  (8)  a  field  of
-the  town  of  Mar-Akhattua,  in  the  district  of  Bit-Sin-
-sheme,  (9)  Bau-shum-iddina,  the  governor  of  Bit-Sin-
-sheme,  (10)  measured  and  to  Nusku-ibni,  son  of  Upakh-
-khia-Nusku,  (11)  the  priest  of  Ellil,  the  ukh.me.zu.ab  of
-Nusku,  (12)  the  magistrate  of  Nippur,  his  servant,  for-
-ever (13)  granted.  The  surveyors  of  this  field  were
-Nabu-zer-lishir,  (14)  son  of  Itti-Marduk-balatu,  a  de-
-scendant of  Ardi-Ea,  (15)  and  Nabunna,  son  of  Akhi,
+the  town  of  Mar-Akhattua,  in  the  district  of  Bit-Sinsheme,  (9)  Bau-shum-iddina,  the  governor  of  Bit-Sin-
+sheme,  (10)  measured  and  to  Nusku-ibni,  son  of  Upakhkhia-Nusku,  (11)  the  priest  of  Ellil,  the  ukh.me.zu.ab  of
+Nusku,  (12)  the  magistrate  of  Nippur,  his  servant,  forever (13)  granted.  The  surveyors  of  this  field  were
+Nabu-zer-lishir,  (14)  son  of  Itti-Marduk-balatu,  a  descendant of  Ardi-Ea,  (15)  and  Nabunna,  son  of  Akhi,
 the  commander  (16)  of  Bit-Sin-sheme.  (17)  Whenever,  for
-all  days  to  come  (18)  for  the  future  of  human  habita-
-tions, (19)  be  it  shepherd  or  governor,  or  agent  or  regent,
+all  days  to  come  (18)  for  the  future  of  human  habitations, (19)  be  it  shepherd  or  governor,  or  agent  or  regent,
 (20)  levy    master    or    magistrate,    who    overthrows    the
 
 Ami  (mi)  pa-na  i-ku  la  sap-ku  (30)  abSenu  la  su-zu-za-at-ma  a-na
@@ -24314,8 +22781,7 @@ III]  (1)  Bit  (m,  ilu)  Sir-ap-pi-li  u  pifcat  "Bit  (m,  ilu)  Sin-se-me
 Gal-du  (4)  II  us  X  gar  pCitu  elu  iltanu  u§.sa.du  (5)  Bit-(m)U§-
 bu-la  sa  a-na  bel  m:\tati  nadu(nu)  (6)  I  us  putu  saplu  §utu  ki§ad
 (nam)  Idiklat  (7)  napfcar  XXII  (gur)  168|  (ka)  V  (gin)  (sheu)
-zi'ru  X  gan  XXX  ka  I  ammatu  rabitu  (8)  ugar  ah*  §a  Mar-(m)Ab-
-at-tu-u-a  pijjat  Bit-(m,  ilu)Sin-§e-me  (m,  ilu)  Ba-u-§um-iddina(na)
+zi'ru  X  gan  XXX  ka  I  ammatu  rabitu  (8)  ugar  ah*  §a  Mar-(m)Abat-tu-u-a  pijjat  Bit-(m,  ilu)Sin-§e-me  (m,  ilu)  Ba-u-§um-iddina(na)
 ga-kln  Bit-(m)Sin-se-me  (10)  im-§u-ub-ma  (m,  ilu)  Nusku-ib-ni
 mdr  (m)Upabbir-(ilu)Nusku(ll)  (m)nisak  (ilu)  En-lil  uh.me.zu.ab
 (ilu)  Nusku  (12)  Jja-za-an  (alu)  Nippur(ki)  arad-su  ana  ume(me)
@@ -24335,16 +22801,13 @@ some  one  and  (23)  with  evil  purpose  causes  it  to  be  seized,
 levy  seizes  a  canal  digger,  (26)  cuts  down  the  plants  of  an
 official  of  canal  or  land,  (27)  who  makes  a  claim  and  takes
 (28)  that  field,  who  gives  it  away  or  returns  it  to  the
-governor  (29)  and  says  it  is  not  remaining  (30)  or  [Bau-
-shum-iddina,  the  governor  of  Bit-Sin-sheme,]  (31)  has  not
+governor  (29)  and  says  it  is  not  remaining  (30)  or  [Baushum-iddina,  the  governor  of  Bit-Sin-sheme,]  (31)  has  not
 [given  it  to  Nusku-ibni,  son  of  Upakhkhir-Nusku,]
 (32)  magistrate  of  Nippur  .  .  .  (33)  says  that  field  has
-not  been  measured,]  [Column  IV]  (1)  has  not  been  pre-
-sented, not  given,  (2)  has  not  been  received, — (3)  may
+not  been  measured,]  [Column  IV]  (1)  has  not  been  presented, not  given,  (2)  has  not  been  received, — (3)  may
 Anu,  the  king,  the  father  of  the  gods,  angrily  overthrow
 him  (4)  and  destroy  his  fife,  (5)  Ellil,  the  exalted  lord,
-who  decrees  (6)  the  fate  of  the  gods,  an  evil  fate  (7)  de-
-cree for  him  that  calamity,  misfortune,  (8)  and  the  word
+who  decrees  (6)  the  fate  of  the  gods,  an  evil  fate  (7)  decree for  him  that  calamity,  misfortune,  (8)  and  the  word
 of  men  may  oppress  him.  (9)  Ea,  king  of  the  ocean,  lord
 of  wisdom,  (10)  take  away  from  him  gladness  of  heart,
 happiness  of  mind,  (11)  abundance  and  fullness,  that
@@ -24358,27 +22821,21 @@ plans,  and  with  a  judgment  of  justice  (18)  and  upright-
 (23)  ina  lim-ni-ti  u-Sa-fca-zu  (24)  ubani-§ii  a-na  limutti(ti)  i-tar-ra-
 8ii  (25)  ina  il-ki  di-ku-ti  sa-bat  amelu  {ji-ri-e  nara  (26)  ba-ka-an
 sam-mi  kal-li-e  nari  u  ta-ba-li  (27)  u§-a§-§u-u  u[sad-ba-bu  (?)]-ma
-eklu  §u-a-t[u]  (28)  ik-ki-mu  u|-sa-a§-ra-ku  (?)  a-na]  pihati  i-t[u-
-ur-ru]  (29)  ul  ri-fcu  (30)  u  (m,  llu)  Ba-[u-§um-iddina(na)  sa-kln  Bit-
+eklu  §u-a-t[u]  (28)  ik-ki-mu  u|-sa-a§-ra-ku  (?)  a-na]  pihati  i-t[uur-ru]  (29)  ul  ri-fcu  (30)  u  (m,  llu)  Ba-[u-§um-iddina(na)  sa-kln  Bit-
 (m,  ilu)  Sin-se-me  (31)  a-na  (m,  ilu)  [Nusku-ib-ni  mar  (m)Upabbir-
-Nusku  .  .  .]  (32)  Jja-za[-an  alu  Nippur(ki)  ul  i-ri-im-§u  i-kab-
-bu-u  (?)]  (33)  eklu  [§u-a-tu  ul  ma-§i-ij}  (?)]  [Column  IV|  (1)  ul  sa-
+Nusku  .  .  .]  (32)  Jja-za[-an  alu  Nippur(ki)  ul  i-ri-im-§u  i-kabbu-u  (?)]  (33)  eklu  [§u-a-tu  ul  ma-§i-ij}  (?)]  [Column  IV|  (1)  ul  sa-
 ri-ik  ul  na-di-in  (2)  ul  ma-fti-ir-mi  i-kab-bu-u  (3)  (ilu)  A-nu  Sarru
 ahi  ilani  ap-pi§  li-t:il-li'k-su-ina  (1)  naj>-su-tu§  li-bal-li  (5)  (ilu)  En-lil
 b&l  Sa-ku-u  mu-§im  (6)  §i-inat  ilani  §i-mat  ma-ru-u§-ti  (7)  li-§im-
 Su-ma  lu-ul>-i»a  ni-el-me-na  (8)  a-raat  ni§e  li-tri-sa-Su  (9)  (ilu)  E-a  Sar
-apst  bcl  ta-§im-ti  (10)  Qthgtl  ka-bit-ti  nu-mur  libbi  na-Jja-Sa  (11)  \yn-
-ba-sa  li-kim-Su-ma  (12)  ni-ia-sa-tu  li-ilki-§u  (13)  (ilu)  Sin  lx"l  ttgfi
+apst  bcl  ta-§im-ti  (10)  Qthgtl  ka-bit-ti  nu-mur  libbi  na-Jja-Sa  (11)  \ynba-sa  li-kim-Su-ma  (12)  ni-ia-sa-tu  li-ilki-§u  (13)  (ilu)  Sin  lx"l  ttgfi
 -ru-ti  (14)  bu-ni-su  lit-to-Su-ma  lii-li  ai  isi  (15)  (ilu)  &ama5  U
 (ilu)   Ramman  ilani  ira-as-ru-t  u  iti  lu  nm-lam-me-nu
 
 (17)  i-gir-ri-Su  §u-nu-ma  di-in   kit-ti    (IS)u  me-sa-ri  ai   i-di-nu-5u
 
 
-392  CUNEIFORM  PARALLELS
-
-ness  may  they  not  judge  him.  (19)  Ninib,  lord  of  boun-
-daries and  boundary-stones,  tear  out  his  boundary  stone.
+ness  may  they  not  judge  him.  (19)  Ninib,  lord  of  boundaries and  boundary-stones,  tear  out  his  boundary  stone.
 (20)  Gula,  great  lady,  put  lingering  illness  (21)  into  his
 body,  that  dark  and  light  red  blood  he  may  pour  out
 like  water.  (22)  Ishtar,  lady  of  countries,  whose  fury  is
@@ -24394,10 +22851,8 @@ take  it,  (4)  places  it  in  an  invisible  place,  (5)  may  the
 great  gods,  who  upon  this  stone  (6)  are  mentioned  by
 their  names,  curse  him  (7)  with  an  evil  curse,  tear  out  his
 foundation  and  destroy  his  seed.  (8)  At  the  sealing  of
-this  tablet  (9)  Shamash-nasir,  the  shuppar-shafy  of  Sin-
-sheme,  (10)  Kububu,  the  gatekeeper  of  the  palace  of
-Bit-Sin-sheme,  (11)  Shi-tariba,  the  dignitary  of  Bit-Sin-
-sheme,  (12)  Takishu,  son  of  Kin-pi-Shamash,  (13)  ad-
+this  tablet  (9)  Shamash-nasir,  the  shuppar-shafy  of  Sinsheme,  (10)  Kububu,  the  gatekeeper  of  the  palace  of
+Bit-Sin-sheme,  (11)  Shi-tariba,  the  dignitary  of  Bit-Sinsheme,  (12)  Takishu,  son  of  Kin-pi-Shamash,  (13)  ad-
 ministrator of  the  property  of  Bit-Sin-sheme,  (14)  Atu'u,
 son  of  Kidish,  seer  of  Bit-Sin-sheme,  (15)  Rimut-Gula,
 governor  of  Bit-Sin-sheme,  (16)  Nabunna,  son  of  Akhi,
@@ -24409,16 +22864,11 @@ ru-ub-sa  a-bu-bu  (23)  nam-ra-ea  li-kal-lim-su-ma  ai  u-si  (24)  ina
 u-sa-ki  (25)  (ilu)  Nusku  bel  ga-as-rum  a-ri-rum  ka-ru-bu  (26)  [ilu]
 ban-nu-u-a  lu  rabisu  limutti-Su  su-ma  (27)  li-ka-am-me  sur-si-su
 
-(28)  [Sa  (abnu)]  nara  an-na-a  (29)  .  .  .  Sim.meS  ina  e-pi-ri  (30)  i-tam-
-me-ru.  [Column  V]  (1)  ina  ifiati  i-kal-lu-ii  a-na  me  inamdfi(u)
-(2)  ina  (isu)  lipitti  i-pi-Jju-u  sa-ak-la  (3)  sa-ak-la  la  sema  u-sa-
-as-su-ma  (4)  a-sar  la  a-ma-ri  i-Sa-ka-nu  (5)  ilani  rabuti  ma-la
-ina  (abnu)  nari  (6)  an-ni-i  sum-§u-nu  zakru  ar-rat  limutti  (7)  li-
-ru-ru-su  i§id-su  lissuiju(lju)  u  zeri-Su  lijjalliku  (8)  i-na  ka-nak
-li-u  §u-a-tu  (9)  (m,  ilu)  Samas-nasir  (m)sak-§up-par  (m,  ilu)  Sin-Se-
-me (10)  (m)Ku-bu-bu  amel  bab  ekalli  Bit-(m,  ilu)  Sin-§e-me
-(11)  (m)Si-ta-ri-ba  (m)§ak  Blt-(m,  ilu)  Sin-se-me  (12)  (m)Ta-
-ki-su  mar  (m)Ki-in-pi-(ilu)  Samas  (13)  (m)§a-kin  bu-§i  Bit  (m,  ilu)
+(28)  [Sa  (abnu)]  nara  an-na-a  (29)  .  .  .  Sim.meS  ina  e-pi-ri  (30)  i-tamme-ru.  [Column  V]  (1)  ina  ifiati  i-kal-lu-ii  a-na  me  inamdfi(u)
+(2)  ina  (isu)  lipitti  i-pi-Jju-u  sa-ak-la  (3)  sa-ak-la  la  sema  u-saas-su-ma  (4)  a-sar  la  a-ma-ri  i-Sa-ka-nu  (5)  ilani  rabuti  ma-la
+ina  (abnu)  nari  (6)  an-ni-i  sum-§u-nu  zakru  ar-rat  limutti  (7)  liru-ru-su  i§id-su  lissuiju(lju)  u  zeri-Su  lijjalliku  (8)  i-na  ka-nak
+li-u  §u-a-tu  (9)  (m,  ilu)  Samas-nasir  (m)sak-§up-par  (m,  ilu)  Sin-Seme (10)  (m)Ku-bu-bu  amel  bab  ekalli  Bit-(m,  ilu)  Sin-§e-me
+(11)  (m)Si-ta-ri-ba  (m)§ak  Blt-(m,  ilu)  Sin-se-me  (12)  (m)Taki-su  mar  (m)Ki-in-pi-(ilu)  Samas  (13)  (m)§a-kin  bu-§i  Bit  (m,  ilu)
 Sin-se-me  (14)  (m)A-tu-'-u  mar  (m)Ki-dis  (das)  (m)baru  Bit-
 Cm,  ilu)  Sin-§e-me  (15)  (m)Ri-mut-(ilu)  Gu-la  bel  pafeati  Bit-
 Cm,    ilu)   Sin-se-me  (16)    (m,   ilu)     Nabu-un-na    (mar)     (m)A-fci
@@ -24434,16 +22884,14 @@ commander    (17)   of     Dur-Rim-Sin     in     Bit-Sin-sheme,
 Sin-sheme,  Pirsha,  prefect  of  Bit-Sin-sheme,  (21)  Amel-
 Ishin,   son  of   Khunna,    (22)  Kashshu,   son  of  Khunna,
 
-(23)  Gula-zer-ikisha,  son  of  Khunna,  (24)  also  Nabu-zer-
-lishir,  son  of  Ardi-Ea,  (25)  were  present.  (26)  The  six-
+(23)  Gula-zer-ikisha,  son  of  Khunna,  (24)  also  Nabu-zerlishir,  son  of  Ardi-Ea,  (25)  were  present.  (26)  The  six-
 teenth year  of  Nebuchadrezzar.
 
 (m)sa-kin  (17)  te-me  (alu)  Dur-RJm-(ilu)  Sin  Bit-(m,ilu)
 Sin-se-me  (18)  (m)Ka§-su-u  (amelu)  dup-sar  sangu  Bit-(m,ilu)
 Sin-£e-me  (19)   (m.  ilu)  Sin-zer-ib-ni  fca-za-an  (alu)   Dur-Rim-Sin
 
-(20)  Bft-(m,  ilu)  Sin-se-me  (m)Pir-sa  (m)nagir  Bit-(m,  ilu)  Sin-se-
-me (21)  (m)Amel-(alu)  I-§i-in  mar  (m)^u-un-na  (22)  (m)Ka§-su-u
+(20)  Bft-(m,  ilu)  Sin-se-me  (m)Pir-sa  (m)nagir  Bit-(m,  ilu)  Sin-seme (21)  (m)Amel-(alu)  I-§i-in  mar  (m)^u-un-na  (22)  (m)Ka§-su-u
 mar  (m)$u-un-na  (23)  (m,  ilu)  Gu-la-zer-ikisa(sa)  mar  (m)Qu-un-na
 
 (24)  u  (m,  ilu)  Nabu-zer-lfsir  mar  (m)Ardi-(ilu)  E-a  (25)  iz-za-zu
@@ -24466,15 +22914,13 @@ Ina-Uruk-rishat  dies  (14)  Etirtu,  as  her  daughter,
 
 1  Published  by  Clay,  Documents  from  the  Temple  Archives  of  Nippur,
 Dated  in  the  Reigns  of  Cassite  Rulers  (1906),  Series  A,  vol.  xiv,  No.  40,
-Plate  19.  It  is  transliterated  and  translated  by  Ungnad,  in  Orirntal-
-istische  Literaturzeitung  (1906),  col.  533ff.,  and  again  translated  by  the
+Plate  19.  It  is  transliterated  and  translated  by  Ungnad,  in  Orirntalistische  Literaturzeitung  (1906),  col.  533ff.,  and  again  translated  by  the
 same  in  Gressmann,  AUorientalische  Texte  und  BUder,  \,  p.  139.
 
 2  That  is,  a  hierodule,  or  sacred  harlot.
 
 [(1)  (sal)  I-na-Uruk(ki)-r]i-S[at]  marfat(m)  .  .  .  .mu-§]allim  (?)
-(2)  [marjta  (?)  ul  i-su-raa  (3)  [(sal)  E-tJi-ir-tum  marat  (m,  ilu)  nin.ib-
-mu-sal-hm  (4)  [a]-na  ma-ru-ti  ilkisi  (5)  VII  §ikil  fciirasi  id-di-in
+(2)  [marjta  (?)  ul  i-su-raa  (3)  [(sal)  E-tJi-ir-tum  marat  (m,  ilu)  nin.ibmu-sal-hm  (4)  [a]-na  ma-ru-ti  ilkisi  (5)  VII  §ikil  fciirasi  id-di-in
 (6)  Sum-ma  a-na  mu-tim  i-nam-din-§i  (7)  §um-ma  fca-ri-mu-ta  jp_
 pu-us-si   (8)  amat-sa  u-ul  i-§a-ka-an   (9)  amat-sa  i-sa-ak-ka-an-ma
 
@@ -24483,8 +22929,6 @@ I   (12)  (sal)  E-ti-ir-tum  i-pa-al-la-ah-;i   (13)  (sal)  I-na-U-ru-uk-
 
 ri-iat  i-ma-at-ma   (14)  (sal)   E-ti-iM-iim  marat-sa   (15)  me-e  i-na-
 
-
-394  CUNEIFORM  PARALLELS
 
 rishat   should  say,  (17)  "Thou  art   not   my   daughter,"
 
@@ -24500,19 +22944,16 @@ King  Kurigalzu  (24)  they  have  made  oath  together.
 (26)  Before  Raba-sha-Ninib.  (27)  Before  Ellil-ibni,  son  of
 Ellil-ishu.  (28)  Before  Etel-pi-Azagshug  (?) ,  son  of  Amel-
 Marduk;  (29)  before  Rish-Marduk,  son  of  Ba'il-Nusku;
-(30)  before  Arad-Belit,  the  scribe,  son  of  Ninib-mushal-
-lim.  (31)  The  fifth  day  of  Shebat  (?),  the  twenty-first
+(30)  before  Arad-Belit,  the  scribe,  son  of  Ninib-mushallim.  (31)  The  fifth  day  of  Shebat  (?),  the  twenty-first
 year  (32)  of  Kurigalzu,  king  of  the  world.
 
 i  Literally,  "be  free  of."
 
 2  Kurigalzu  II  ruled  about  1350  B.  C.     See  Table  of  Chronology.
 
-ak-ki-si  (16)  (sal)  I-na-Uruk(ki)-ri-sat  (17)  u-ul  mar-ti  i-ga-ab-bi-
-ma  (18)  i-na  burasi-sa  ga-as-sa  il-li  (19)  (sal)  E-ti-ir-[t]um  ul  urn-mi
+ak-ki-si  (16)  (sal)  I-na-Uruk(ki)-ri-sat  (17)  u-ul  mar-ti  i-ga-ab-bima  (18)  i-na  burasi-sa  ga-as-sa  il-li  (19)  (sal)  E-ti-ir-[t]um  ul  urn-mi
 i-i:.i-:il>-bi-ma  (20)  a-mu-ut-sa  is-Sa-ak-ka-an  (21)  ul  lraggumu(u)  ul
-itar(ru)  (22)  ni§  (ilu)  Bel  (ilu)  nin.ib  (23)  (ilu)  Nusku  u  Ku-ri-gal-
-zu  §arri  (24)  i§te-nis  itmu
+itar(ru)  (22)  ni§  (ilu)  Bel  (ilu)  nin.ib  (23)  (ilu)  Nusku  u  Ku-ri-galzu  §arri  (24)  i§te-nis  itmu
 
 (25)  mabar  (ra)Dam-kum  ab  ummisa  (26)  mar  Raba-a-sa-(ilu)
 nin.ib  (27)  mabar  (m,  ilu)  B61-ib-ni  mar  (ilu)  Bel-ni-su  (28)  mabar
@@ -24524,13 +22965,11 @@ umu  V  (kam)  sattu  XXI  (kam)  (32)  [Ku-ri-gal-z]u  (?)  sar  kissati
 
 III.  A  MARRIAGE  CONTRACT  l
 
-(1)  In  the  second  year  of  Nabopolassar,  king  of  Baby-
-lon, (2)  spoke  Nabu-zer-kit-lishir,  son  of  Bel-ikisha,  son
+(1)  In  the  second  year  of  Nabopolassar,  king  of  Babylon, (2)  spoke  Nabu-zer-kit-lishir,  son  of  Bel-ikisha,  son
 of  .  .  .  (3)  to  Bel-ikisha,  son  of  Kudurru,  son  of
 ...    (4)  as  follows:  "I  have  no  child,2  (5)  I  wish  a  child,
 
-1  Published  by  Ungnad,  V orderasiatische  Schriftdenkmdler  der  Kdnig-
-liche  Museem  zu  Berlin,  vi,  No.  3.  Transliterated  and  translated  by
+1  Published  by  Ungnad,  V orderasiatische  Schriftdenkmdler  der  Kdnigliche  Museem  zu  Berlin,  vi,  No.  3.  Transliterated  and  translated  by
 the  same  in  Beihefte  zur  Orientalistische  Liter atur-Zeitung,  ii,  p.  19.
 Compare  also  Gressmann,  Altorientalische  Texte  und  Bilder,  i,  p.  139.
 
@@ -24543,8 +22982,6 @@ ilu)  Nabu-zer-kit-li§ir  abil-§u  sa  (m)Bel-ikisa  sa  abil  [.  .  .]  pi
 [.     .     .]  (4)  ki-a-a  ik-bi  um-ma  maru-u-[a]  (5)  ia-a-nu  maru  li-ba-'i
 
 
-THE  CODE  OF  HAMMURAPI  395
-
 Kulla,  (6)  thy  daughter,  give  me  as  wife."  (7)  Bel-ikisha
 hearkened  to  Nabu-zer-kit-lishir  (8)  and  Kulla,  his
 daughter,  (9)  a  virgin,  he  gave  him  in  marriage.  (10)  In
@@ -24554,14 +22991,12 @@ bear  a  child  (12)  two  thirds  of  the  estate  shall  be  for  her.
 third  of  the  estate  of  Nabu-zer-kit-lishir  (15)  shall  be  for
 her.  In  the  day  that  (16)  Esagila-banata  (17)  childless
 (18)  dies,  while  Kulla  (19)  has  children,  the  entire  estate
-(20)  of  Nabu-zer-kit-lishir,  (21)  in  city  and  country,  what-
-ever there  is,  (22)  shall  be  for  Kulla  and  her  children.
+(20)  of  Nabu-zer-kit-lishir,  (21)  in  city  and  country,  whatever there  is,  (22)  shall  be  for  Kulla  and  her  children.
 
 (23)  Witnesses:  Asharidu,  son  of  Piru,  (24)  son  of
 Shanishishu,  (25)  Marduk-zer-ibni,  son  of  Sukhaa.
 (26)  Document  scribe:  Mushezib-Marduk,  (27)  son  of
-Raba-sa-Addu.  Babylon,  month  of  Iyyar,  (28)  four-
-teenth day,  second  year  of  Nabopolassar,  (29)  king  of
+Raba-sa-Addu.  Babylon,  month  of  Iyyar,  (28)  fourteenth day,  second  year  of  Nabopolassar,  (29)  king  of
 Babylon.
 
 (sal)  Kul-la-a  (6)  marat-ka  bi-nam-ma  lu-u  assatu-a  (7)  si-i  (m,  ilu)
@@ -24573,8 +23008,7 @@ ta-at-tal-da  (12)  II  ta  katati  II  mes  nikasi  pa-ni-su  id-dag-gal
 nikasi  sa  (m,  ilu)  Nabu-zer-[ki]t-lisir  (15)  pa-ni-su  id-dag-gal  ina
 umu(mu)  (16)  (sal)  E-sag-ila-ba-na-ta  (17)  [.  .  .]  (18)  [.  .  .]  sa
 (sal)  Kul-la-a  (19)  [mar6  (mes)  ir-ta-]a§-su-u  nikasu  (20)  [gab-bi-
-5a]  (m,  ilu)  Nabu-zer-kit-lisir  (21)  §a  ah  u  sen  ma-la  ba-su-u  (22)  pa-
-ni  (sal)  Kul-la-a  u  mare-§u  id-dag-gal
+5a]  (m,  ilu)  Nabu-zer-kit-lisir  (21)  §a  ah  u  sen  ma-la  ba-su-u  (22)  pani  (sal)  Kul-la-a  u  mare-§u  id-dag-gal
 
 (23)  (amel)  mu-kin-nu  (m)A-sa-ri-du  abil-su  §a  Pir-'u  (24)  abil
 (m)§a-na-§i-8u  (25)  (m,  ilu)  Marduk-zer-ibni  abil  (m)Su-ba-a-a
@@ -24595,8 +23029,6 @@ black  diorite.     They  fitted  perfectly  together,  and  when
 joined  formed  a  stele  2.25  meten  high  and  tapering
 
 
-396  CUNEIFORM  PARALLELS
-
 from  1 .  90  to  1  65  meters.  At  the  upper  end  of  the  front
 side  was  a  bas-relief  representing  the  seated  sun  god
 Shamash  presenting  the  code  of  laws  to  Hammurapi.
@@ -24605,19 +23037,15 @@ in  width,  and  is  finely  executed  in  the  hard  stone.
 
 The  inscription  begins  immediately  below  the  relief
 and  is  the  longest  cuneiform  Semitic  inscription  which
-has  yet  been  recovered.  The  inscription  is  carried  belt-
-wise  around  the  stele  in  parallel  columns,  and  the
-reader  was  therefore  required  to  turn  his  head  down-
-ward and  sidewise  toward  the  left  in  order  to  read  the
+has  yet  been  recovered.  The  inscription  is  carried  beltwise  around  the  stele  in  parallel  columns,  and  the
+reader  was  therefore  required  to  turn  his  head  downward and  sidewise  toward  the  left  in  order  to  read  the
 inscription.  On  the  front  side  there  are  still  preserved
-sixteen  columns,  the  lower  five  additional  columns  hav-
-ing been  chiseled  off  and  the  stone  repolished,  evidently
+sixteen  columns,  the  lower  five  additional  columns  having been  chiseled  off  and  the  stone  repolished,  evidently
 with  the  purpose  of  cutting  another  inscription  upon  it.
 On  the  reverse  twenty-eight  columns  are  preserved,  with
 some  slight  breaks  due  to  the  chipping  of  the  surface.
 When  complete  the  entire  inscription  is  estimated  by
-Johns  to  have  contained  "forty-nine  columns,  four  thou-
-sand lines,  and  about  eight  thousand  words.' '
+Johns  to  have  contained  "forty-nine  columns,  four  thousand lines,  and  about  eight  thousand  words.' '
 
 The  stele  was  originally  set  up  at  Sippar,  and  was
 carried  thence,  probably  as  a  trophy,  to  Susa,  but  by
@@ -24626,27 +23054,21 @@ also  found  at  Susa  a  large  fragment  of  a  duplicate.
 
 The  Hammurapi  code  exerted  a  great  influence  in  the
 ancient  Orient,  and  the  scribes  of  Ashurbanapal  made
-copies  of  the  laws,  either  from  the  exemplar  now  re-
-covered or  from  some  one  of  its  duplicates,  and  formed
+copies  of  the  laws,  either  from  the  exemplar  now  recovered or  from  some  one  of  its  duplicates,  and  formed
 a  series  which  they  denominated  Dindni  $a  ffammurapi,
 that  is,  the  judgments  of  Hammurapi.  These  copies
 have  unfortunately  not  come  down  to  us  intact,  but
 fragments  of  them  were  discovered  before  the  code  itself
-and  were  not  immediately  recognized.  The  first  frag-
-ments brought  to  light  were  found  in  the  British  Mu-
+and  were  not  immediately  recognized.  The  first  fragments brought  to  light  were  found  in  the  British  Mu-
 
-
-THE  CODE  OF  HAMMURAPI  397
 
 geum  and  published  by  Dr.  Bruno  Meissner.1  When  he
 later  published  some  old  Babylonian  Private  Laws2  he
 recognized  that  the  Assyrian  scribes  had  copied  from
 some  document  or  documents  in  the  old  Babylonian
 period.  Meissner's  texts  were  carefully  reviewed  and
-retranslated  by  Professor  Delitzsch,  who  definitely  ap-
-plied to  them  the  name  Code  of  Hammurapi,  a  deduction
-which  was  splendidly  verified  in  a  few  months  by  Mor-
-gan's discovery.  When  Professor  Scheil  worked  over
+retranslated  by  Professor  Delitzsch,  who  definitely  applied to  them  the  name  Code  of  Hammurapi,  a  deduction
+which  was  splendidly  verified  in  a  few  months  by  Morgan's discovery.  When  Professor  Scheil  worked  over
 the  code  he  recognized  the  sections  of  Meissner's  copies
 as  being  a  part  of  the  original  code,  and  showed  that
 they  give  some  assistance  in  the  restoration  of  the  five
@@ -24665,11 +23087,9 @@ Tome  IV.    Paris.     1902.    Tome  X,  pp.  811T.
 Hugo  Winckler,  Die  Gesetze  Hammurabis  (Der  Alte
 Orient).    Band  IV,  4te  Auflage.    1906.
 
-Hugo  Winckler,  Die  Gesetze  Hammurabis  in  Vm-
-schrift  und  Uebersetzung.    Leipzig.     1904.
+Hugo  Winckler,  Die  Gesetze  Hammurabis  in  Vmschrift  und  Uebersetzung.    Leipzig.     1904.
 
-D.  H.  Miiller,  Die  Gesetze  Hammurabis  und  die  Mo-
-saische  Gesetzgebung.    Vienna.     1903.
+D.  H.  Miiller,  Die  Gesetze  Hammurabis  und  die  Mosaische  Gesetzgebung.    Vienna.     1903.
 
 Robert  F.  Harper,  The  Code  of  Hammurabi.  Chicago.
 1904.
@@ -24687,8 +23107,6 @@ J.  Kohler,  F.  K.  Pefeer  und  A.  Ungnad,  Hammurabis
 Gesetz.    Leipzig.    1904-1909.
 
 
-398  CUNEIFORM  PARALLELS
-
 Johannes  Jeremias,  Moses  und  Hammurabi,  2te
 Auflage.    Leipzig.    1903.
 
@@ -24698,8 +23116,7 @@ Israels.    Leipzig.     1903.
 W.  W.  Davies,  The  Codes  of  Hammurabi  and  Moses.
 Cincinnati.     1905.
 
-S.  A.  Cook,  The  Laws  of  Moses  and  the  Code  of  Ham-
-murabi.   London.     1903.
+S.  A.  Cook,  The  Laws  of  Moses  and  the  Code  of  Hammurabi.   London.     1903.
 
 H.  Grimme,  Das  Gesetz  Chammurabis  und  Moses.    1903.
 
@@ -24708,8 +23125,7 @@ David  G.  Lyon,  The  Structure  of  the  Hammurabi  Code.
 pp.  248ff.     1904.)
 
 Very  important.  The  analysis  of  Professor  Lyon  has
-been  chiefly  followed  in  the  subdivisions  of  the  transla-
-tion as  here  printed.
+been  chiefly  followed  in  the  subdivisions  of  the  translation as  here  printed.
 
 Arthur  Ungnad,  Die  Gesetze  Hammurapis.  Translation
 and  notes  in  Gressmann,  Altorientalische  Texte  und  Bilder,
@@ -24738,12 +23154,9 @@ its  practical  purpose.
 (4)  be-el  sa-me-e  (5)  u  ir-ei-tim  (6)  §a-i-im  (7)  si-ma-at
 matim  (8)  a-na  (ilu)  Marduk  (9)  marim  ri-es-ti-im  (10)  §a  (ilu)
 Enki  (11)  (ilu)  illilu-ut  (12)  kissat  ni-§e  (13)  i-Si-mu-sum  (14)  in
-I-gi-gi  (15)  u-Sar-be-u-su  (16)  Babili(ki)  (17)  §um-§u  si-ra-am  ib-
-bi-u  (18)  in  ki-ib-ra-tim  (19)  li-Sa-te-ru-su  (20)  in-a  li-ib-bi-§n
+I-gi-gi  (15)  u-Sar-be-u-su  (16)  Babili(ki)  (17)  §um-§u  si-ra-am  ibbi-u  (18)  in  ki-ib-ra-tim  (19)  li-Sa-te-ru-su  (20)  in-a  li-ib-bi-§n
 (21)  §ar-ru-tam   da-ri-tam    (22)  sa  ki-ma  Sa-me-e   (23)  u   ir-si-tim
 
-
-THE  CODE  OF  HAMMURAPI  399
 
 foundations  are  (25)  established  like  heaven  and  earth,
 then  did  Anu  and  Bel  call  (me)  Hammurapi  by  name,
@@ -24757,8 +23170,7 @@ I,  who  heaps  up  (55)  plenty  and  abundance,  who  made
 everything  possible  in  completeness  for  Nippur  and
 Durilu,  (60)  the  exalted  supporter  of  Ekur,  the  powerful
 king,  who  restored  Eridu,  (65)  and  set  up  the  [Column  II]
-(1)  worship  of  E-apsu,  who  fought  against  the  four  quar-
-ters of  earth,  (5)  who  made  great  the  name  of  Babylon,
+(1)  worship  of  E-apsu,  who  fought  against  the  four  quarters of  earth,  (5)  who  made  great  the  name  of  Babylon,
 rejoiced  the  heart  of  Marduk,  his  lord,  (10)  who  served
 daily  in  Esagila,  the  royal  seed  whom  Sin  (15)  created,
 who  made  Ur  rich,  the  contrite,  the  obedient,  (20)  who
@@ -24770,8 +23182,7 @@ which  is  like  the  heavenly  dwelling,  the  warrior  who  de-
 
 (24)  i§-da-§a  (25)  §u-ur-§u-da  (26)  ii-ki-in-nu-§um  (27)  i-nu-mi-§ii
 (28)  JJa-am-mu-ra-pi  (29)  ra-ba-am  (30)  na-'i-dam  (31)  pa-li-ifc  eli
-ia-ti  (32)  mi-§a-ra-am  (33)  i-na  ma-tira  (34)  a-na  §u-pe-i-im  (35)  ra-
-ga-am  u  si-nam  (36)  a-na  bu-ul-lu-ki-im  (37)  dan-nu-um  (38)  en-
+ia-ti  (32)  mi-§a-ra-am  (33)  i-na  ma-tira  (34)  a-na  §u-pe-i-im  (35)  raga-am  u  si-nam  (36)  a-na  bu-ul-lu-ki-im  (37)  dan-nu-um  (38)  en-
 £a-am  (39)  a-na  la  ba-ba-li-im  (40)  ki-ma  (ilu)  §ama§  (41)  a-na
 salmat  kakkadim  (42)  wa-si-e-im-ma  (43)  ma-tim  (44)  nu-wu-ri-im
 niirn  "(46)  u  (ilu)  Ellil  (47)  a-na  £i-ir  ni-Si  (48)  tu-ub-bi-im
@@ -24784,8 +23195,7 @@ Nippurim(ki)  rikis  Same  ereetim  (60)  za-ni-nu-um  (61)  na-'-du-um
 (J)   ti-i-ib  (3)   ki-il>-ra-at      (4)    ir-l>i-tim      (5)     mu-§ar-bi     zi-ik-ru
 
 ili(ki)  (7)mu-ti-ib  (8)  H-ib-W  (ilu)  Marduk  (9)  be-li-§u
-(10)  §a  Ami(mi)-§u  (11)  iz-za-zu  (12)  a-na  £-sag-ila  (13)  z^r  §ar-ru-
-tim  (14)  M  hluiSin  (15)  ilMii-u-Su  (16)  mu-n:i-ab-bi-i§  (17)  Al
+(10)  §a  Ami(mi)-§u  (11)  iz-za-zu  (12)  a-na  £-sag-ila  (13)  z^r  §ar-rutim  (14)  M  hluiSin  (15)  ilMii-u-Su  (16)  mu-n:i-ab-bi-i§  (17)  Al
 Urim(ki)      (IS)   wa-iiS-ru-um      (10)   mu-u§-te-mi-kum      (20)   ba-bfl
 
 1    (21)  a-na    I  r    ta-§i-im-tira    (23)  §e-mu
@@ -24795,14 +23205,10 @@ Urim(ki)      (IS)   wa-iiS-ru-um      (10)   mu-u§-te-mi-kum      (20)   ba-bf
 3)  gi-gu-ne-€  (ilu)  A-a  (29)  inu-si-ir  (30)  bit
 
 
-400  CUNEIFORM  PARALLELS
-
 fended  Larsa,  renewed  E-Babbar  (35)  for  Shamash,  his
 helper;  the  lord,  who  gave  life  unto  the  city  of  Uruk,
-who  supplied  water  in  (40)  abundance  unto  its  inhabi-
-tants, who  made  the  turrets  of  E-anna  lofty,  (45)  who
-heaped  up  riches  for  Anu  and  Ishtar;  the  shadow  (pro-
-tection) of  the  land;  (50)  who  brought  together  again
+who  supplied  water  in  (40)  abundance  unto  its  inhabitants, who  made  the  turrets  of  E-anna  lofty,  (45)  who
+heaped  up  riches  for  Anu  and  Ishtar;  the  shadow  (protection) of  the  land;  (50)  who  brought  together  again
 the  scattered  inhabitants  of  Isin,  who  covered  E-gal-ruah
 richly;  (55)  the  majestic  city  king,  the  brother  of  the
 god  Zamama,  who  established  the  settlements  of  Kish;
@@ -24812,13 +23218,11 @@ enclosed  the  great  shrines  of  (65)  Ishtar;  who  cares  for
 the  temple  of  E-khar-sag-kalama;  the  grave  (?)  of  enemies,
 (70)  to  whom  one  successfully  prays  for  help;  [Column
 III]  (1)  who  increased  Cut  ha;  (5)  who  made  everything
-great  for  Mishlam;  the  mighty  bull,  who  gores  his  en-
-emy; (10)  the  beloved  of  Tutu;  who  made  Borsippa  to
+great  for  Mishlam;  the  mighty  bull,  who  gores  his  enemy; (10)  the  beloved  of  Tutu;  who  made  Borsippa  to
 rejoice;  the  exalted;  who  is  untiring  (15)  for  Ezida;  the
 divine  city  king;  the  wise,  the  prudent;  who  increased  the
 agriculture  (lit.,  plantings)  (20)  of  Dilbat;  heaped  up
-grain  for  the  mighty  Urash;  the  lord,  to  whom  (25)  scep-
-ter and  crown  belong,  which  fulfill  the  wish  of  Mama
+grain  for  the  mighty  Urash;  the  lord,  to  whom  (25)  scepter and  crown  belong,  which  fulfill  the  wish  of  Mama
 created,    (30)  who   established   the   temple   confines   of
 
 Ebarrim  (31)  §a  ki  §il-ba-at  Sa-ma-i  (32)  karradum  ga-mi-il
@@ -24826,22 +23230,17 @@ Ebarrim  (31)  §a  ki  §il-ba-at  Sa-ma-i  (32)  karradum  ga-mi-il
 (36)  rw3i-§u  (37)  be-lum  mu-bal-li-it  (38)  Uruk(ki)  (39)  §a-ki-in  me-e
 (40)  nu-iib-§i-im  (41)  a-na  ni-Si-su  (42)  mu-ul-li  (43)  ri-e§  £-an-na
 (44)  mu-kam-me-ir  (45)  bi-i?-bi-im  (46)  a-na  Anim(nim)  (47)  u
-(ilu)  IStar  (48)  sulul  ma-tim*  (49)  mu-pa-ab-bi-"*  (50)  ni-§i  §a-ap-
-ba-tim  (51)  §a  I-si-in(ki)  (52)  mu-ta-ab-bi-id  (53)  nu-ub-§i-im  (54)  bit
+(ilu)  IStar  (48)  sulul  ma-tim*  (49)  mu-pa-ab-bi-"*  (50)  ni-§i  §a-apba-tim  (51)  §a  I-si-in(ki)  (52)  mu-ta-ab-bi-id  (53)  nu-ub-§i-im  (54)  bit
 E-gal-mab  (55)  uSumgal  §arri(ri)  (56)  ta-li-im  (57)  (ilu)  Za-ma-ma
 (58)  mu-§ar-§i-id    (59)    Su-ba-at  al   K!5(ki)    (60)    mu-u§-ta-a§-bi-ir
 
 (61)  me-li-im-mi  (62)  fi-me-te-ur-sag  (63)  mu-u§-te-is-bi  (64)  pa-ar-zi
-ra-bu-u-tim  (65)  §a(ilu)  I§tar(66)  pa-ki-id  bi-tim  (67)  IJar-sag-kalam-
-ma  (68)  (bit)  kisal  na-ki-ri  (69)  §a  tTr-ra  ru-sii  (70)  ii-§a-ak-§i-du
+ra-bu-u-tim  (65)  §a(ilu)  I§tar(66)  pa-ki-id  bi-tim  (67)  IJar-sag-kalamma  (68)  (bit)  kisal  na-ki-ri  (69)  §a  tTr-ra  ru-sii  (70)  ii-§a-ak-§i-du
 [Column  III]  (1)  ni-is-ma-zu  (2)  mu-§a-te-ir  (3)  al  Kutim(ki)
-(4)  mu-ra-ap-pi-i§  (5)  mi-im-ma  §um-§u  (6)  a-na  Mi§-lam  (7)  ri-mu-
-um  (8)  ka-ad-ru-um  (9)  mu-na-ak-ki-ip  za-i-ri  (10)  na-ra-am  Tu-tu
-(11)  mu-ri-i§  (12)  al  Bar-zi-ba(ki)  (13)  na-'i-du-um  (14)  la  mu-up-
-pa-ar-ku-u-um  (15)  a-na  fi-zi-da  (16)  i-lu  §arri(ri)  Q7)mu-di
+(4)  mu-ra-ap-pi-i§  (5)  mi-im-ma  §um-§u  (6)  a-na  Mi§-lam  (7)  ri-muum  (8)  ka-ad-ru-um  (9)  mu-na-ak-ki-ip  za-i-ri  (10)  na-ra-am  Tu-tu
+(11)  mu-ri-i§  (12)  al  Bar-zi-ba(ki)  (13)  na-'i-du-um  (14)  la  mu-uppa-ar-ku-u-um  (15)  a-na  fi-zi-da  (16)  i-lu  §arri(ri)  Q7)mu-di
 basisim(im)  (18)  mu-§a-ad-di-il  (H»  me-ri-e§-tim  (20)  §a  Dil-bat(ki)
-(21)  mu-ga-ar-ri-in  kare  (22)  a-na  (ilu)  Ura§  (23)  ga-a§-ri-im  (24)  be-
-lum  zi-ma-at  (25)  ba-at-ti-im  (26)  u  a-gi-im  (27)  sa  ii-§a-ak-li-lu-§u
+(21)  mu-ga-ar-ri-in  kare  (22)  a-na  (ilu)  Ura§  (23)  ga-a§-ri-im  (24)  belum  zi-ma-at  (25)  ba-at-ti-im  (26)  u  a-gi-im  (27)  sa  ii-§a-ak-li-lu-§u
 (28)  e-ri-is-tim    (29)  (ilu)    Ma-ma    (30)  mu-ki-in    (31)  u-zu-ra-tim
 
 
@@ -24849,23 +23248,19 @@ THE  CODE  OF  HAMMURABI  401
 
 Kish;  who  made  sumptuous  the  sacred  banquets  (35)  for
 Nintu;  the  wise,  the  prudent;  who  gave  pasture  and
-(40)  watering  places  for  Lagash  and  Girsu;  who  pro-
-vided (45)  great  offerings  for  the  temple  of  the  Fifty;  who
-seizes  the  enemy;  the  favorite  of  Telitim1;  (50)  who  exe-
-cuted the  command  (of  the  oracle)  of  Aleppo;  who  rejoices
+(40)  watering  places  for  Lagash  and  Girsu;  who  provided (45)  great  offerings  for  the  temple  of  the  Fifty;  who
+seizes  the  enemy;  the  favorite  of  Telitim1;  (50)  who  executed the  command  (of  the  oracle)  of  Aleppo;  who  rejoices
 the  heart  of  Anunit;  (55)  the  pure  prince;  whose  prayer
 Ramman  recognizes;  who  pacifies  the  heart  of  Ramman,
 (60)  the  warrior  in  Karkar;  who  reestablished  the
 cultus-appointments  in  Eugalgal;  (65)  the  king  who
-gave  life  to  the  city  of  Adab ;  the  benefactor  of  the  tem-
-ple E-makh,  (70)  the  lord  of  kings;  the  resistless  war-
+gave  life  to  the  city  of  Adab ;  the  benefactor  of  the  temple E-makh,  (70)  the  lord  of  kings;  the  resistless  war-
 rior; [Column  IV]  (1)  who  presented  life  to  the  city  of
 Mashkan-Shabri;  who  poured  out  (5)  prosperity  over
 Mishlam;  the  wise,  the  energetic;  who  attained  (10)
 every  plan;  who  covered  the  people  of  Malgi  in
 misfortune;  who  established  (15)  their  dwelling  in  riches;
-who  determined  forever  pure  offerings  for  Ea  and  Dam-
-gal-nunna,  who  had  extended  his  dominion;  the  prince
+who  determined  forever  pure  offerings  for  Ea  and  Damgal-nunna,  who  had  extended  his  dominion;  the  prince
 of  kings;  who  subdued  (25)  the  settlements  on  the
 Euphrates  (?) ;  the  warrior  of  Dagan,  his    creator;  who
 
@@ -24913,13 +23308,10 @@ a-su-ri-id     sani(ri)     (2  \  >  inu-ka-an-ni-is    (25)  «ia-a«l-ini
 ••tim     (?)     (J7)lf-tum     (ilui     1  )a-gan     (28)  ba-ni-sii
 
 
-402  CUNEIFORM  PARALLELS
-
 protected  (30)  the  inhabitants  of  Mera  and  Tutul;  the
 exalted  prince,  (35)  who  makes  the  face  of  Ishtar  to
 shine;  who  established  sacred  banquets  for  Nin-a-zu;
-who  helps  his  people  in  time  of  need;  (40)  who  estab-
-lishes in  security  their  property  in  Babylon;  (45)  the
+who  helps  his  people  in  time  of  need;  (40)  who  establishes in  security  their  property  in  Babylon;  (45)  the
 shepherd  of  his  subjects;  whose  deeds  are  pleasing  to
 Ishtar;  who  installed  Ishtar  (Anunit)  in  E-ul-mash,
 (50)  in  the  suburbs  of  Akkad;  who  caused  justice  to
@@ -24935,25 +23327,19 @@ who  caused  light  to  stream  over  the  land  of  Sumer  and
 Akkad;  (10)  the  king,  who  holds  in  obedience  the  four
 quarters  of  the  world;  the  favorite  of  Ishtar  am  I.
 
-When  (15)  Marduk  sent  me  to  rule  men,  and  to  pro-
-mulgate justice,  (20)  I  put  justice  and  righteousness  into
+When  (15)  Marduk  sent  me  to  rule  men,  and  to  promulgate justice,  (20)  I  put  justice  and  righteousness  into
 the  language  of  the  land,  and  promoted  the  welfare  of
 the  people.     (25)  At  that  time  (I  ordered)
 
-(29)  Su  ig-mi-lu  (30)  ni-£i  Me-ra(ki)  (31)  u  Tu-tu-ul(ki)  (32)  ru-
-bu-um  (33)  na-'i-du-um  (34)  mu-na-wi-ir  (35)  pa-ni  (ilu)  I§tar
+(29)  Su  ig-mi-lu  (30)  ni-£i  Me-ra(ki)  (31)  u  Tu-tu-ul(ki)  (32)  rubu-um  (33)  na-'i-du-um  (34)  mu-na-wi-ir  (35)  pa-ni  (ilu)  I§tar
 (36)  §a-ki-in  ma-ka-li  el-lu-tim  (37)  a-na  (ilu)  Nin-a-zu  (38)  §a-ti-ip
-ni-§i-§u  (39)  in  pu-u§-ki-im  (40)  mu-ki-in-nu  (41)  i§-di-§i-in  (42)  kir-
-bu-um  (43)  Babili(ki)  (44)  Su-ul-ma-ni-iS  (45)  re-u  ni-§i  (46)  §£  ip-
-§e-tu-§u  (47)  e-li  I§tar  ta-ba  (48)  mu-ki-in-m  IStar  (49)  i-na  E-ul-
-ma§  (50)  kir-bu-um  (51)  Akkadim(ki)  (52)  ri-bi-tim  (53)  mu-§e-pf
+ni-§i-§u  (39)  in  pu-u§-ki-im  (40)  mu-ki-in-nu  (41)  i§-di-§i-in  (42)  kirbu-um  (43)  Babili(ki)  (44)  Su-ul-ma-ni-iS  (45)  re-u  ni-§i  (46)  §£  ip-
+§e-tu-§u  (47)  e-li  I§tar  ta-ba  (48)  mu-ki-in-m  IStar  (49)  i-na  E-ulma§  (50)  kir-bu-um  (51)  Akkadim(ki)  (52)  ri-bi-tim  (53)  mu-§e-pf
 ki-na-tim  (54)  mu-§u-§e-ir  am-mi  (55)  mu-te-ir  (56)  (ilu)  lamassi-su
 (57)  da-mi-ik-tim  (58)  a-na  al  A53urim(ki)  (59)  mu-§e-ib-bi  na-pi-bi
 (60)  §arrum  §a  i-na  Ni-nu-a(ki)  (61)  i-na  E-mi§-mi§  (62)  ii-§\i-pf-u
-(63)  rae-e  (ilu)  IStar  (64)  na-'i-du-um  (65)  mu-u§-te-mi-kum  (66)  a-
-na  ill  rabutim  (67)  li-ib-li-ib-bi  (68)  §a  Su-mu-la-ilu '(69)  aplum
-da-num  (70)  §£  (ilu)  Sin-mu-ba-H-it  [Column  Y]  (1)  zerum  da-ri-
-um  (2)  §a  §ar-ru-tim  (3)  Sarrum  da-niim  (4)  (ilu)  Sam§u(§u)
+(63)  rae-e  (ilu)  IStar  (64)  na-'i-du-um  (65)  mu-u§-te-mi-kum  (66)  ana  ill  rabutim  (67)  li-ib-li-ib-bi  (68)  §a  Su-mu-la-ilu '(69)  aplum
+da-num  (70)  §£  (ilu)  Sin-mu-ba-H-it  [Column  Y]  (1)  zerum  da-rium  (2)  §a  §ar-ru-tim  (3)  Sarrum  da-niim  (4)  (ilu)  Sam§u(§u)
 (5)  Babili(ki)  mu-§e-zi  nu-ri-im  (7)  a-na  ma-at  (8)  Su-me-ri-im
 (9)  u  Ak-ka-di-im  (10)  §arrum  mu-u§-te-e§-mi  (11)  ki-ib-ra-at
 (12)  ar-ba-im  (13)  mi-ge-ir  (ilu)  IStar  a-na-ku  (14)  i-nu-ma  (15)  (ilu)
@@ -24962,15 +23348,12 @@ Marduk  (16)  a-na  §ii-te-su-ur  ni-§i  (17)  matimu-si-im  (IS)  §u-bu-zi-i
 ma-tim  (23)  dS-ku-un  (24)  si-ir  ni-§i  u-ti-ib  (25)  i-nu-mi-su
 
 
-THE  CODE  OF  HAMMURAPI  403
-
 THE  CODE
 I.   INTRODUCTION:  EVIDENCE    AND    DECISION
 
 (§§  1-5)
 
-§  1.  (26)  If  a  man  have  accused  a  man  and  laid  a  cap-
-ital charge  upon  him  and  (30)  have  not  justified  it,
+§  1.  (26)  If  a  man  have  accused  a  man  and  laid  a  capital charge  upon  him  and  (30)  have  not  justified  it,
 he  that  accused  him  shall  be  put  to  death.
 
 §  2.  If  a  man  have  laid  (35)  suspicion  of  sorcery  upon
@@ -24978,8 +23361,7 @@ a  man  and  have  not  justified  it,  he  upon  whom  the  charge
 of  sorcery  is  laid  shall  go  to  the  river-god,  (40)  he  shall
 plunge  into  the  river-god,  and  if  the  river-god  overcome
 him,  he  who  accused  him  (45)  shall  take  to  himself  his
-house.  If  the  river-god  have  declared  that  man  to  be  in-
-nocent and  have  saved  him,  (50)  he  who  accused  him  shall
+house.  If  the  river-god  have  declared  that  man  to  be  innocent and  have  saved  him,  (50)  he  who  accused  him  shall
 be  put  to  death.  He  who  plunged  into  the  river-god  shall
 take  to  himself  (55)  the  house  of  him  who  accused  him.1
 
@@ -24995,17 +23377,14 @@ have  lied,  (5)  he  shall  himself  bear  the  sentence  of  that  case.
 spread  in  antiquity.  See,  for  example,  Potter,  Greek  Antiquities,  i,
 p.  352,  and  Brand, "Popular  Antiquities,  ed.  Bonn,  Hi,  351.
 
-§  1.  (26)  §um-ma  a-wi-lum  a-wi-lam  (27)  u-ub-bi-ir-ma  (28)  ne-ir-
-tam  e-li-£u  (29)  id-di-ma  (30)  la  uk-ti-in-su  (31)  mu-ub-bi-ir-§u
+§  1.  (26)  §um-ma  a-wi-lum  a-wi-lam  (27)  u-ub-bi-ir-ma  (28)  ne-irtam  e-li-£u  (29)  id-di-ma  (30)  la  uk-ti-in-su  (31)  mu-ub-bi-ir-§u
 (32)  id-da-ak
 
-§  2.  (33)  §um-ma  a-wi-lum  (34)  ki-is-pf  (35)  e-li  a-wi-lum  id-di-
-ma  (36)  la  uk-ti-in-§u  (37)  sa  e-li-gu  (38)  ki-i§-pu  na-du-ii  (39)  a-na
+§  2.  (33)  §um-ma  a-wi-lum  (34)  ki-is-pf  (35)  e-li  a-wi-lum  id-dima  (36)  la  uk-ti-in-§u  (37)  sa  e-li-gu  (38)  ki-i§-pu  na-du-ii  (39)  a-na
 (ilu)     Narim     (40)  i-il-la-ak     (41)  (ilu)     Naram    i-sa-al-li-a-am-ma
 (42)  £um-ma     (ilu)     Narum     (43)  ik-ta-sa-zu     (44)  mu-ub-bi-ir-su
 (45)  bit-zu1   i-tal>-ba-al     (46)  §um-ma    a-wi-lam    su-a-ti     (47)  (ilu)
-Narum  (48)  u-te-il>-bi-l>a-as-su-ma  (49)  is-ta-al-ma-am  (50)  sa  e-li-
-ki-is-pf  id-du-ii  (52)  id-da-ak  (53)  sa  (ilu)  Naram  (.54)  is-li-
+Narum  (48)  u-te-il>-bi-l>a-as-su-ma  (49)  is-ta-al-ma-am  (50)  sa  e-liki-is-pf  id-du-ii  (52)  id-da-ak  (53)  sa  (ilu)  Naram  (.54)  is-li-
 55)  Mt  mu-ub-bi-ri-sii  (66)  i-tab-ba-al
 §  3.  (57)  §um-ma   a-wi-lum    (58)  i-na   di-nim    (59)  a-na   §i-bu-ut
 -nr-m-tiin  (61)  u-zi-a-am- ■  i-wa-at  ik-bu-u  (63)  la  uk-
@@ -25020,17 +23399,12 @@ I)  a-ra-an  (4)  di-nim  W-a-ti  (5)  it-ta-na-as-§i
 ■
 
 
-404  CUNEIFORM  PARALLELS
-
-§  5.  If  a  judge  have  judged  a  judgment,  decided  a  de-
-cision, (10)  granted  a  sealed  sentence,  and  afterward
+§  5.  If  a  judge  have  judged  a  judgment,  decided  a  decision, (10)  granted  a  sealed  sentence,  and  afterward
 have  altered  his  judgment,  they  shall  call  that  judge  to
 account  for  the  alteration  (15)  of  the  judgment  that  he
 judged,  and  he  (20)  shall  pay  twelvefold  the  penalty
-which  was  in  the  said  judgment.  Further,  in  the  as-
-sembly they  shall  expel  him  from  his  (25)  judgment  seat,
-and  he  shall  not  return,  and  with  the  judges  at  a  judg-
-ment (30)  he  shall  not  take  his  seat.
+which  was  in  the  said  judgment.  Further,  in  the  assembly they  shall  expel  him  from  his  (25)  judgment  seat,
+and  he  shall  not  return,  and  with  the  judges  at  a  judgment (30)  he  shall  not  take  his  seat.
 
 II.  PROPERTY  (§§  6-126)
 
@@ -25084,16 +23458,13 @@ warad  a-wi-lim  (50)  ba-lum  §i-bi  (51)  u  ri-ik-sa-tim  (52)  i§-ta-am
 (56)  §ar-ra-ak  id-da-ak
 
 
-THE  CODE  OF  HAMMURAPI  405
-
 §  8.  If  a  man  have  stolen  ox  or  sheep  or  ass  or  pig  or
 (60)  ship,  whether  it  belonged  to  a  god  or  a  palace  he
 shall  restore  thirty  fold;  (65)  if  it  belonged  to  a  freedman
 he  shall  render  ten  fold.  If  the  thief  have  not  wherewith
 to  pay  he  shall  be  put  to  death.
 
-§  9.  (70)  If  a  man,  [Column  VII]  (1)  who  has  lost  any-
-thing, have  found  that  which  was  lost  in  the  possession
+§  9.  (70)  If  a  man,  [Column  VII]  (1)  who  has  lost  anything, have  found  that  which  was  lost  in  the  possession
 (5)  of  another  man ;  and  the  man  in  whose  hands  the  lost
 property  is  found  say:  "A  seller  sold  it  to  me,  I  bought  it
 in  the  (10)  presence  of  witnesses,"  and  the  owner  of  the
@@ -25107,8 +23478,7 @@ property,  the  judges  shall  consider  their  evidence.
 made  and  the  witnesses  who  know  the  lost  property
 shall  (35)  give  testimony  in  the  presence  of  the  god.
 The  seller  shall  be  put  to  death  as  a  thief;  (40)  the  owner
-of  the  lost  property  shall  receive  his  property;  the  pur-
-chaser shall  take  the  money  (45)  he  paid  from  the  estate
+of  the  lost  property  shall  receive  his  property;  the  purchaser shall  take  the  money  (45)  he  paid  from  the  estate
 of  the  seller.
 
 
@@ -25147,8 +23517,6 @@ M-ul-ki-im  (41)  lju-lu-uk-su  (42 J  Hi  I  iia-iiii-
 um  (44)  i-na  hi-it  (46)  ua-di-na-niiii    (46)  kasap  iS-ku-lu  (47)  i-li-ki
 
 
-406  CUNEIFORM  PARALLELS
-
 §  10.  If  the  purchaser  have  not  brought  the  seller
 (50)  who  sold  it  to  him,  and  the  witnesses  in  whose
 presence  he  purchased  it;  and  if  the  owner  of  the  lost
@@ -25168,41 +23536,32 @@ estate  of  the  seller  as  damages.
 
 §  13.  If  the  witnesses  (15)  be  not  at  hand,  the
 judges  shall  set  him  a  fixed  time,  up  to  six  months,
-and  if  within  six  months  he  do  not  bring  (20)  his  wit-
-nesses that  man  is  a  malefactor,  he  shall  himself  bear
+and  if  within  six  months  he  do  not  bring  (20)  his  witnesses that  man  is  a  malefactor,  he  shall  himself  bear
 the  penalty  of  that  case.
 
 2.  Kidnapping  (§  14)
 
-§  14.  (25)  If  a  man  have  stolen  a  minor  son  of  a  gen-
-tleman he  shall  be  put  to  death.
+§  14.  (25)  If  a  man  have  stolen  a  minor  son  of  a  gentleman he  shall  be  put  to  death.
 
 
 §  10.  (48)  §um-ma  sa-a-a-ma-nu-um  (49)  na-di-in  (50)  id-di-nu-
 Sum  (51)  u  §i-bi  sa  i-na  malj-ri-su-nu  (52)  i-^a-mu  (53)  la  it-ba-lam
-(54)  be-el  bu-ul-ki-im-ma  (55)  §i-bi  mu-di  (56)  {m-ul-ki-su  it-ba-
-hiin  (57)  sa-a-a-ma-nu-um  (5S)  §ar-ra-ak  id-da-ak  (59)  be-el  fcu-ul-
+(54)  be-el  bu-ul-ki-im-ma  (55)  §i-bi  mu-di  (56)  {m-ul-ki-su  it-bahiin  (57)  sa-a-a-ma-nu-um  (5S)  §ar-ra-ak  id-da-ak  (59)  be-el  fcu-ul-
 ki-im  (60)  bu-ul-uk-sii  (61)  i-li-ki
 
-111.  (62)suni-ma  be-el  bu-ul-ki-im  (63)  §i-bi  mu-di  (64)  bu-ul-
-ki-su  (65)  la  it-ba-lam  [Column  VIII]  (1)  sa-ar  (2)  tu-us-sa-am-ma
+111.  (62)suni-ma  be-el  bu-ul-ki-im  (63)  §i-bi  mu-di  (64)  bu-ulki-su  (65)  la  it-ba-lam  [Column  VIII]  (1)  sa-ar  (2)  tu-us-sa-am-ma
 id-ki  (3)  id-da-ak
 
-§  12.  (4)  §um-ma  na-di-na-nu-um  (5)  a-na  §i-im-tim  (6)  it-ta-la-
-ak  (7)  sa-a-a-ma-nu-um  (8)  i-na  bi-it  (9)  na-di-na-nim  (10)  ru-gu-
+§  12.  (4)  §um-ma  na-di-na-nu-um  (5)  a-na  §i-im-tim  (6)  it-ta-laak  (7)  sa-a-a-ma-nu-um  (8)  i-na  bi-it  (9)  na-di-na-nim  (10)  ru-gu-
 um-me-e  (11)  di-nim  su-a-ti  (12)  a-du  V-§u  (13)  i-li-ki
 
-§  13.  (14)  Sum-ma  a-wi-lum  su-ii  (15)  §i-bu-su  la  kir-bu  (16)  da-
-a-a-nu  a-da-nam  (17)  a-na  war^im  VI  kam  (18)  i-sd-ak-ka-nu4um-
+§  13.  (14)  Sum-ma  a-wi-lum  su-ii  (15)  §i-bu-su  la  kir-bu  (16)  daa-a-nu  a-da-nam  (17)  a-na  war^im  VI  kam  (18)  i-sd-ak-ka-nu4um-
 ma  (19)  sum-ma  i-na  war^im  VI  kam  (20)  §i-bi-§u  la  ir-di-a-am
-(21)  a-wi-lum  su-u  (22)  sa-ar  (23)  a-ra-an  di-nim  §u-a-ti  (24)  it-ta-
-na-as-§i
+(21)  a-wi-lum  su-u  (22)  sa-ar  (23)  a-ra-an  di-nim  §u-a-ti  (24)  it-tana-as-§i
 
 §  14.  (25)  sum-ma  a-wi-lum  (26)  mar  a-wi-lim  (27)  si-ijj-ra-am
 (28)  i§-ta-ri-ik  (29)  id-da-ak
 
-
-THE  CODE  OF  HAMMURAPI  407
 
 3.  Fugitive  Slaves  (§§  15-20)
 
@@ -25212,8 +23571,7 @@ palace,  or  a  male  or  female  slave  of  a  freedman,  through
 to  death.
 
 §  16.  If  a  man  receive  into  his  house  a  male  or  female
-slave  who  has  fled  (40)  from  the  palace,  or  from  a  freed-
-man, and  bring  him  not  forth  at  the  demand  (45)  of  the
+slave  who  has  fled  (40)  from  the  palace,  or  from  a  freedman, and  bring  him  not  forth  at  the  demand  (45)  of  the
 commandant,  the  owner  of  that  house  shall  be  put  to
 death.
 
@@ -25239,8 +23597,7 @@ amat  ekallim  (33)  lu  warad  muSkenim  (34)  lu  amat  muSkenim
 (35)  abullam  u§-te-zi  (36)  id-da-ak
 
 §  16.  (37)  §um-ma  a-wi-lum  (38)  lu  wardam  lu  amtam  (39)  \}a\-
-ga-am  (40)  la  ekallim  (41)  u  lu  muSkenim  (42)  i-na  bi-it-§ii  (43)  ir-
-ta-ki-ma  (44)  a-na  Si-ei-it  (45)  na-gi-ri-im  (46)  la  u§-te-zi-a-am
+ga-am  (40)  la  ekallim  (41)  u  lu  muSkenim  (42)  i-na  bi-it-§ii  (43)  irta-ki-ma  (44)  a-na  Si-ei-it  (45)  na-gi-ri-im  (46)  la  u§-te-zi-a-am
 (47)  be-el  bitim  Su-u  (4S)  id-da-ak
 
 §  17.  (49)  §um-ma  a-wi-lum  (50)  lu  wardam  lu  amtam  (51)  bal-ga-
@@ -25257,15 +23614,11 @@ a§-in  .a  be-li-§u  (67)  u-t:i-ar-ru-§u
 
 lum-ma  ward  ;-a-ti  (70)  i-na  bi-tUu  (71)  ik-
 
-,  2)  wa-ar-ka  wanlum  [Column  IX]  (1)  i-na   ga-ti-su  (2)  it-
-ta-a?-ba-at  (3)  a-wi-hno  su-u  id-da-ak
+,  2)  wa-ar-ka  wanlum  [Column  IX]  (1)  i-na   ga-ti-su  (2)  itta-a?-ba-at  (3)  a-wi-hno  su-u  id-da-ak
 
-him-ma  vrardmn  (6)  i-na  sja-at  (7)  sa-bi-ta-ni-su  (S)  ib-
-ta-li-ik  (9) a-wi-lum  W-u  (10)a-oa  be*d  wardim  (ll)ni-i§  i-lim
+him-ma  vrardmn  (6)  i-na  sja-at  (7)  sa-bi-ta-ni-su  (S)  ibta-li-ik  (9) a-wi-lum  W-u  (10)a-oa  be*d  wardim  (ll)ni-i§  i-lim
 (12)  i-za-kar-ma  (13)u-t  a
 
-
-408  CUNEIFORM  PARALLELS
 
 4.  Burglary  and  Robbery  (§§  21-25)
 
@@ -25279,8 +23632,7 @@ him  into  it.
 §  23.  If  the  brigand  be  not  captured,  (30)  the  man  who
 has  been  robbed  shall,  before  (35)  the  god,  recount  what
 he  has  lost,  and  the  city  and  governor  in  whose  land  and
-(40)  district  the  robbery  took  place  (45)  shall  recom-
-pense him  for  whatever  was  lost.
+(40)  district  the  robbery  took  place  (45)  shall  recompense him  for  whatever  was  lost.
 
 §  24.  If  it  was  life,  the  city  and  governor  shall  pay  one
 mina  of  silver  (50)  to  his  people.
@@ -25296,14 +23648,12 @@ B.  Real  Estate  (§§  26-J)
 X]  (1)  ordered  to  go  on  an  errand  <>f  the  kin^r.  do  not  go,
 
 §21.  (14)  §um-ma  a-wi-lum  (15)  bi-tam  (16)  ip-Iu-us  (17)  i-na
-pa-ni  (18)  pf-il-§i-im  (19)  Su-a-ti  (20)  i-du-uk-ku-Su-ma  (21)  i-ba-al-
-la-lu-su
+pa-ni  (18)  pf-il-§i-im  (19)  Su-a-ti  (20)  i-du-uk-ku-Su-ma  (21)  i-ba-alla-lu-su
 
 §  22.  (22)  §um-ma  a-wi-lum  (23)  bu-ub-tam  (24)  ib-bu-ut-ma
 (25)  it-ta-as-ba-at  (26)  a-wi-lum  £u-u  (27)  id-da-ak
 
-§  23.  (28)  §um-ma  ba-ab-ba-tum  (29)  la  iMa-as-ba-at  (30)  a-wi-
-lum  (31)  tja-ab-tum  (32)  mi-im-ma-sii  (33)  bal-ga-am  (34)  ma-ha-ar
+§  23.  (28)  §um-ma  ba-ab-ba-tum  (29)  la  iMa-as-ba-at  (30)  a-wilum  (31)  tja-ab-tum  (32)  mi-im-ma-sii  (33)  bal-ga-am  (34)  ma-ha-ar
 (35)  i-lim  (36)  u-ba-ar-ma  (37)  Alum  (3S)  u  ra-bi-a-nu-um  (39)  s:i  i-na
 ir-si-ti-su-nu  (40)  u  pa-ti-su-nu  (41)  {311-ub-tum  (42)  u>ba-ab-tu
 (43)  mi-im-ma-su  (44)  bal-ga-am  (45)  i-ri-a-ab-bu-§um
@@ -25311,22 +23661,16 @@ ir-si-ti-su-nu  (40)  u  pa-ti-su-nu  (41)  {311-ub-tum  (42)  u>ba-ab-tu
 §  24.  (46)  §um-ma  na-pf-i§-tum  (47)  alum  u  ra-bi-a-nu-um  (48)  I
 man6  kaspim  (49)  a-na  ni-§i-§u  (50)  i-§a-ga-lu
 
-§  25.  (51)  §um-ma  i-na  bit  a-wi-lim  (52)  i-§a-tum  (53)  in-na-pf-
-ib-ma  (54)  a-wi-lum  (55)  §a  a-na  bu-ul-li-im  (56)  il-li-ku  (57)  a-na
-nu-ma-at  (58)  be-el  bitim  (59)  i-in-§u  i§-&i-ma  (60)  nu-ma-at  (61)  be-
-el  bitim  (62)  il-te-kil  (63)  a-wi-lum  §u-u  (64)  a-na  i-§a-tim  su-a-ti
+§  25.  (51)  §um-ma  i-na  bit  a-wi-lim  (52)  i-§a-tum  (53)  in-na-pfib-ma  (54)  a-wi-lum  (55)  §a  a-na  bu-ul-li-im  (56)  il-li-ku  (57)  a-na
+nu-ma-at  (58)  be-el  bitim  (59)  i-in-§u  i§-&i-ma  (60)  nu-ma-at  (61)  beel  bitim  (62)  il-te-kil  (63)  a-wi-lum  §u-u  (64)  a-na  i-§a-tim  su-a-ti
 (65)  in-na-ad-di
 
-§  26.  (66)  §um-ma  lu  redum  (67)  u  lu  ba'irum  (68)  sa  a-na  b.ar-
-ra-an  §ar-ri-im  (69)  a-la-ak-su  [Column  X]    (1)  ga-bu-u  (2)  la  il-li-ik
+§  26.  (66)  §um-ma  lu  redum  (67)  u  lu  ba'irum  (68)  sa  a-na  b.arra-an  §ar-ri-im  (69)  a-la-ak-su  [Column  X]    (1)  ga-bu-u  (2)  la  il-li-ik
 
 1  Original  has  di,  an  error  of  the  scribe.
 
 
-THE  CODE  OF  HAMMURAPI  409
-
-but  hire  a  substitute  and  send  him  (5)  in  place  of  him-
-self, that  soldier  or  constable  shall  be  put  to  death;
+but  hire  a  substitute  and  send  him  (5)  in  place  of  himself, that  soldier  or  constable  shall  be  put  to  death;
 (10)  his  hireling  shall  take  to  himself  his  (the  officer's)
 house.
 
@@ -25351,8 +23695,7 @@ field  and  garden  to  his  mother,  and  his  mother  shall
 §  30.  If  a  soldier  or  a  constable,  from  the  beginning
 of  his  affairs,   (55)  neglect  his  field,  his  garden,  and  his
 
-1  The  Babylonian  word  is  of  very  doubtful  meaning.  Ungnad  trans-
-late*, "Not,  Nicdcrlage."  This  signification  is  derived  wholly  from
+1  The  Babylonian  word  is  of  very  doubtful  meaning.  Ungnad  translate*, "Not,  Nicdcrlage."  This  signification  is  derived  wholly  from
 the  context.  I  prefer  to  hold  to  the  etymological  signification.  The
 root  is  the  same  as  dannum,  strong.
 
@@ -25360,15 +23703,12 @@ root  is  the  same  as  dannum,  strong.
 i  n'dum  (8)  u  lu  ba  I'rum  sii-u  (9)  id-da-ak  (10)  mu-na-ag-gi-ir-
 £u  (11)  bit-zu  (12)  i-tab-ba-al
 
-§  27.  (13)  Bum-ma  lu  n'dum  (14)  u  lu-u  ba'irum  (15)  Sa  i-na  dan-
-na-at  i  hi)  sar-ri-im  (17)  tu-ur-r[u]  (18)  wa-ar-[k]i-su  (19)  ekil-M  u
+§  27.  (13)  Bum-ma  lu  n'dum  (14)  u  lu-u  ba'irum  (15)  Sa  i-na  danna-at  i  hi)  sar-ri-im  (17)  tu-ur-r[u]  (18)  wa-ar-[k]i-su  (19)  ekil-M  u
 kira-su  ( 20)  a-na  sa-ni-im  (21)  id-di-nu-ma  (22)  i-li-ik-sii  (23)  it-tar
-la-ak  (2h  siiiii-rii:i  it-t u-ra-am-ma  (25)  al-su  ik-ta-as-dain  (26)  ekil-
-su  u  kira-su  (27)  u-ta-ar-ru-sum-ma  (28)  su-ma  i-li-ik-sii  (29)  i-il-
+la-ak  (2h  siiiii-rii:i  it-t u-ra-am-ma  (25)  al-su  ik-ta-as-dain  (26)  ekilsu  u  kira-su  (27)  u-ta-ar-ru-sum-ma  (28)  su-ma  i-li-ik-sii  (29)  i-il-
 la-ak
 
-§  28.  (30)  Sum-in  a  lu  r-'duin  (31  I  u  lu-u  l.:Vinnn  (32)  U  i-na  dan-
-ra-at  (33)  Sar-ri-im  (34)tu-uivni  (36)  mar-su  il-kam  (36)  a-la-kam
+§  28.  (30)  Sum-in  a  lu  r-'duin  (31  I  u  lu-u  l.:Vinnn  (32)  U  i-na  danra-at  (33)  Sar-ri-im  (34)tu-uivni  (36)  mar-su  il-kam  (36)  a-la-kam
 i-li-i  (37)  eklum  u  kirum  (38)  in-na-a<l-<li-is-su[inj-ina  (39)  i-li-i[k  a]-
 bi-Su  (40)  i'-il-|la]-ak
 
@@ -25382,11 +23722,8 @@ in-na-ad-di-in  •  !-ra-ah-l>a-su
 Su  u  ni  il-ki-im  (55)  i<l-di-ma  (56)  ud-da-ap-pf-ir
 
 
-410  CUNEIFORM  PARALLELS
-
 house  and  leave  them  lie  waste,  and  another  after  him
-take  his  field,  his  garden,  and  (60)  his  house,  and  con-
-duct his  affairs  for  three  years;  (65)  if  the  former  re-
+take  his  field,  his  garden,  and  (60)  his  house,  and  conduct his  affairs  for  three  years;  (65)  if  the  former  re-
 turn and  desire  his  field,  his  garden,  and  his  house,  they
 shall  not  give  them  to  him  [Column  XI]  (1)  he  who
 has  taken  them  and  carried  on  his  affairs  shall  continue
@@ -25402,33 +23739,26 @@ him  and  cause  him  to  regain  his  city,  (20)  if  there  be
 in  his  own  house  means  for  his  ransom,  he  shall  ransom
 himself;  (25)  if  there  be  not  sufficient  means  for  the
 ransom  in  his  house,  he  shall  be  ransomed  from  the
-temple  of  the  god  of  his  city;  (30)  if  there  be  not  suffi-
-cient ransom  in  the  temple  of  the  god  of  his  city,  the
+temple  of  the  god  of  his  city;  (30)  if  there  be  not  sufficient ransom  in  the  temple  of  the  god  of  his  city,  the
 palace  shall  ransom  him.  In  no  case  shall  (35)  his  field
 or  garden  or  his  house  be  given  for  his  ransom.
 
-§  33.  If  a  governor  or  a  (40)  magistrate  take  posses-
-sion of  the  men  of  a  levy,  or  have  accepted  and  sent  a
+§  33.  If  a  governor  or  a  (40)  magistrate  take  possession of  the  men  of  a  levy,  or  have  accepted  and  sent  a
 
 v (57)  sa-nu-um  (5S)  wa-ar-ki-su  (59)  ekil-sii  kira-sii  (60)  u  bit-zu
 (61)  is-ba-at-ma  (62)  sattam  III  kam  (63)  i-li-ik-sii  (64)  it-ta-la-ak
-(65)  sum-ma  it-tu-ra-am-ma  (66)  ekil-sii  kira-su  u  bit-zu  (67)  i-ir-
-ri-i§  (68)  u-ul  in-na-ad-di-i§-§um  [Column  XI]  (1)  §a  is-sa-ab-tu-ma
+(65)  sum-ma  it-tu-ra-am-ma  (66)  ekil-sii  kira-su  u  bit-zu  (67)  i-irri-i§  (68)  u-ul  in-na-ad-di-i§-§um  [Column  XI]  (1)  §a  is-sa-ab-tu-ma
 (2)  i-li-ik-sii  (3)  it-ta-al-ku  (4)  su-ma  i-il-la-ak
 
 §31.  (5)  sum-ma  sa-at-tam  (6)  is-ti-a-at-ma  (7)  ud-da-ap-pf-ir
-ma  (8)  it-tu-ra-am  (9)  ekil-sii  kinl-sii  u  bit-zu  (10)  in-na-aa-di-is-
-sum-ma  (11)  sii-ma  i-li-ik-sii  (12)  i-il-la-a[k]
+ma  (8)  it-tu-ra-am  (9)  ekil-sii  kinl-sii  u  bit-zu  (10)  in-na-aa-di-issum-ma  (11)  sii-ma  i-li-ik-sii  (12)  i-il-la-a[k]
 
-§  32.  (13)  [sum]-ma  lu  r6dum  (14)  u  lu  ba'irum  (15)  sa  i  na  har-
-ra-an  (16)  sar-ri-im  (17)  tu-iir-ru  (18)  tamkarum  ip-tu-ra-a§-§u-ma
-(19)  al-su  u§-ta-ak-§i-da-a§-§ti  (20)  §um-ma  i-na  bi-ti-§u  (21)  §a  pa-
-ta-ri-im  (22)  i-ba-a§-§i  (23)  §\i-ma  ra-ma-an-§u  (24)  i-pa-at-ta-ar
+§  32.  (13)  [sum]-ma  lu  r6dum  (14)  u  lu  ba'irum  (15)  sa  i  na  harra-an  (16)  sar-ri-im  (17)  tu-iir-ru  (18)  tamkarum  ip-tu-ra-a§-§u-ma
+(19)  al-su  u§-ta-ak-§i-da-a§-§ti  (20)  §um-ma  i-na  bi-ti-§u  (21)  §a  pata-ri-im  (22)  i-ba-a§-§i  (23)  §\i-ma  ra-ma-an-§u  (24)  i-pa-at-ta-ar
 (25)  §um-ma  i-na  bi-ti-su  (26)  sa  pa-ta-ri-su  (27)  la  i-ba-as-si
 (28)  i-na  bit  ili  ali-§u  (29)  ip-pa-at-tar  (30)  §um-ma  i-na  bit  (31)  ili
 ali-su  (32)  sa  pa-ta-ri-§u  (33)  la  i-ba-as-si  (34)  ekallum  i-pa-at-ta-ar-sii
-(35)  ckil-su  kiru-su  (36)  u  bit-zu  (37)  a-na  ip-te-ri-sii  (38)  u-ul  in-na-
-ad-di-in
+(35)  ckil-su  kiru-su  (36)  u  bit-zu  (37)  a-na  ip-te-ri-sii  (38)  u-ul  in-naad-di-in
 
 §  33.  (39)  sum-ma  lu  dekum  (?)1  (40)  u  lu-ii  lubuttum  (41)  sab
 ni-is-ija-tim    (42)  ir-ta-si    (43)  u    lu    a-na    barrdn    (44)  sar-ri-im
@@ -25436,10 +23766,7 @@ ni-is-ija-tim    (42)  ir-ta-si    (43)  u    lu    a-na    barrdn    (44)  sar-
 1  PA-PA.
 
 
-THE  CODE  OF  HAMMURAPI  411
-
-hired  (45)  substitute  on  an  errand  of  the  king,  that  gov-
-ernor or  magistrate  shall  (50)  be  put  to  death.
+hired  (45)  substitute  on  an  errand  of  the  king,  that  governor or  magistrate  shall  (50)  be  put  to  death.
 
 §  34.  If  a  governor  or  a  magistrate  have  taken  the
 property  of  a  soldier,  have  plundered  a  soldier,  (55)  let  a
@@ -25451,8 +23778,7 @@ soldier,  that  governor  or  magistrate  shall  be  put  to  death.
 soldier  the  cattle  or  sheep  which  the  king  has  given  to
 that  soldier,  he  shall  forfeit  his  money.
 
-§  36.  (5)  The  field  or  garden  or  house  of  a  soldier,  con-
-stable, or  tribute  man  (tax  gatherer)  they  shall  not  sell
+§  36.  (5)  The  field  or  garden  or  house  of  a  soldier,  constable, or  tribute  man  (tax  gatherer)  they  shall  not  sell
 for  money.
 
 §  37.  (10)  If  a  man  purchase  the  field  or  garden  or
@@ -25502,8 +23828,6 @@ kirin,  0    bttim(26)M  il-ki-su  (26  27)ilmaii
 i-ul  i-ia-at-ta-ar  (29)  u  a-na  i-il-ti-su  (80)  u-ul  i-na-ad-<li-in
 
 
-412  CUNEIFORM  PARALLELS
-
 §  39.  From  the  field,  garden,  or  house  which  he  has
 purchased  and  acquired  he  may  make  over  to  his  wife,
 or  (35)  his  daughter,  or  he  may  assign  them  for  debt.
@@ -25523,8 +23847,7 @@ made  to  him.
 
 1  Doubtful,  suggested  by  Ungnad.
 
-2  Doubtless  an  employee  of  the  king  or  of  the  palace,  who  made  pur-
-oniBcw  for  royal  use.
+2  Doubtless  an  employee  of  the  king  or  of  the  palace,  who  made  puroniBcw  for  royal  use.
 
 *  That  is,  a  man  who  is  in  any  way  ht  hoMen  to  a  noble,  or  a  man  who
 holds  a  li.  t.
@@ -25554,16 +23877,12 @@ i-§&-am-mu  (48)  i-il-la-ak
 §41.  (49)  §um-ma  a-wi-lum  (50)  eklam  kiram  u  bitam  (51)  §a
 redim  ba'irim  (52)  u  na-§i  bi-il-tim  (53)  u-pf-ib  (54)  u  ni-ip-la-tim
 (55>  id-di-in  (56)  redum  ba'irum  (57)  u  na-si  bi-il-tim  (58)  a-na  ekli-
-§u  kiri-§u  il  biti-su  (59)  i-ta-ar  (60)  u  ni-ip-la-tim  (61)  sa  in-na-ad-
-nu-§um  (62)  i-tal>ba-al
+§u  kiri-§u  il  biti-su  (59)  i-ta-ar  (60)  u  ni-ip-la-tim  (61)  sa  in-na-adnu-§um  (62)  i-tal>ba-al
 
 §  42.  (63)  §um-ma  a-wi-lum  (64)  eklam  a-na  ir-ri-sii-tim  (66)  u-
 §e-si-ma  (66)  i-na  eklim  §e'am  la  us-tai>-si  (67)  i-na  eklim  si-ip-ri-im
-[Column  XIIT]  (1)  la  e-pi-si-im  (2)  u-ka-an-nu-su-ma  (3)  se'am  ki-
-ma  i-te-§ii  (4)  a-na  be-el  eklim  (5)  i-na-ad-di-in
+[Column  XIIT]  (1)  la  e-pi-si-im  (2)  u-ka-an-nu-su-ma  (3)  se'am  kima  i-te-§ii  (4)  a-na  be-el  eklim  (5)  i-na-ad-di-in
 
-
-THE  CODE  OF  HAMMURAPI  413
 
 §  43.  If  he  have  not  cultivated  the  field,  and  have  left  it
 to  itself,  he  shall  (10)  give  to  the  owner  of  the  field  grain  on
@@ -25599,13 +23918,11 @@ id-du-u  (12)  ma-a-a-ri  (13)  i-ma-ab-ba-a?  (14)  i-Sa-ak-ka-ak-ma
 (15)  a-na  be-el  eklim  (16)  u-ta-ar
 
 14.  (17)  §um-ma  a-wi-lum  (18)  ekil  nidutira  (19)  a-na  Sattim
-III    (kam)    (20)  a-na    te-ip-ti-tim    (21)  ii-§e-si-ma    (22)  a-ajj-Sii   id-
-inn    la    ip-te-te    (24)  i-na    ri-bu-tim    (25)  §a-at-tim
+III    (kam)    (20)  a-na    te-ip-ti-tim    (21)  ii-§e-si-ma    (22)  a-ajj-Sii   idinn    la    ip-te-te    (24)  i-na    ri-bu-tim    (25)  §a-at-tim
 •  klam  m;i-a-a-ri  (27)  i-ma-ali-lia-as  (28)  i-mar-ra-ar  (29)  U  i-Sa-
 -rna  (30)  a-na  be-el  eklim    (31)  u-ta-ar  (32)  u  1   GAN.  E
 .  (34)  i-ma-ad-da-ad
-§  45.  (35)  Sum-ma  a-wi-lum  (36)  okil-su  a-na  lultim  (37)  a-na  ir-
-li-in-ma  (39)  ft  bilat  <-kli-su  (10)  im-ta-lja-ar  (41)  wa-
+§  45.  (35)  Sum-ma  a-wi-lum  (36)  okil-su  a-na  lultim  (37)  a-na  irli-in-ma  (39)  ft  bilat  <-kli-su  (10)  im-ta-lja-ar  (41)  wa-
 ar-ka  rklam  (  12)  (ilu)  Karnmanum  ir-ta-lji-is  (43)  ft  111  bi-ib-bu-lum
 hi-ti-ik-twm  (  1»0  sa  ir-ri-si-im-ma
 §46.  (47)  sum-ma  bilat   rkli  im-ta-har  (49)  u  lu  a-na
@@ -25615,22 +23932,17 @@ ii     (51)  ir-rj-sum     (55)  u     be-el    eklim
 
 /.W-U7.-7M
 
-§47.  (58)  Sum-m a  IT-Mum  ffi9)  dS-Sum  i-na  s.i-at-tim  (60)  mab-
-ii  (61)  ma-na-lj  J)  la  il-ku-u   (68)  eklam  e-ri-§d-am  ik-
+§47.  (58)  Sum-m a  IT-Mum  ffi9)  dS-Sum  i-na  s.i-at-tim  (60)  mabii  (61)  ma-na-lj  J)  la  il-ku-u   (68)  eklam  e-ri-§d-am  ik-
 
-
-414  CUNEIFORM  PARALLELS
 
 field  shall  (65)  not  interfere.  Nay,  rather,  his  field  has
 been  cultivated,  and  at  the  time  of  harvest  he  shall
 receive  (70)  grain  according  to  the  contracts.
 
-§  48.  If  a  man  owe  a  debt  [Column  XIV]  (1)  and  Ram-
-man  ravage  his  field  and  (5)  carry  away  the  produce,  or  if
+§  48.  If  a  man  owe  a  debt  [Column  XIV]  (1)  and  Ramman  ravage  his  field  and  (5)  carry  away  the  produce,  or  if
 grain  have  not  grown  through  lack  of  water,  in  that  year
 
-(10)  he  shall  not  make  any  return  of  grain  to  the  cred-
-itor, he  shall  alter  (lit,  wet,  so  as  to  rewrite)  his  tablet.
+(10)  he  shall  not  make  any  return  of  grain  to  the  creditor, he  shall  alter  (lit,  wet,  so  as  to  rewrite)  his  tablet.
 Further,  (15)  he  shall  not  pay  the  interest  for  that  year.
 
 §  49.  If  a  man  have  borrowed  money  of  a  merchant,
@@ -25642,8 +23954,7 @@ cultivator  have  raised  (30)  grain  and  sesame  in  the  field,
 at  the  time  of  reaping  (35)  the  owner  of  the  field  shall
 receive  the  grain  and  sesame  which  is  in  the  field,  and  he
 shall  (40)  give  to  the  merchant  grain  for  the  loan  which
-he  had  received  and  for  the  interest  and  for  the  main-
-tenance of  the  cultivator.
+he  had  received  and  for  the  interest  and  for  the  maintenance of  the  cultivator.
 
 §  50.  (45)  If  he  give  (as  security)  a  field  planted  with
 [grain],    or  a  field  planted  with  sesame,  the  owner  of  the
@@ -25652,8 +23963,7 @@ ta-bi  (64)  be-el  eklim  (65)  u-ul  u-up-pa-as  (66)  ir-ri-su-ma  (67)  ekil
 §ii  i-ir-ri-iS-ma  (68)  i-na  eburim  (69)  ki-ma  ri-ik-sa-ti-Sii  (70)  §e'am
 i-li-ki
 
-§  48.  (71)  §um-ma  a-wi-lum  (72)  bu-bu-ul-lum  (73)  e-li-§u  [Col-
-umn XIV]  (1)  i-ba-a§-§i-ma  (2)  ekil-Sii  (3)  (ilu)  Rammanum  (4)  ir-
+§  48.  (71)  §um-ma  a-wi-lum  (72)  bu-bu-ul-lum  (73)  e-li-§u  [Column XIV]  (1)  i-ba-a§-§i-ma  (2)  ekil-Sii  (3)  (ilu)  Rammanum  (4)  ir-
 ta-bi-is  (5)  u  lu-u  bi-ib-bu-lum  (6)  it-ba-al  (7)  ft  lu-u  i-na  la  me-e
 (8)  §e'um    i-na    eklim    (9)  la    it-tab-£i    (10)  i-na   §a-at-tim    §ii-a-ti
 
@@ -25661,21 +23971,15 @@ ta-bi-is  (5)  u  lu-u  bi-ib-bu-lum  (6)  it-ba-al  (7)  ft  lu-u  i-na  la  me
 Sii  (14)  u-ra-at-ta-ab  (15)  u  si-ib-tam  (16)  §a  §a-at-tim  8u-a-ti
 (17)  u-ul  i-na-ad^di-in
 
-§  49.  (18)  §um-ma  a-wi-lum  (19)  kaspam  it-ti  tamkarim  (20)  il-
-ki-ma  (21)  ekil  ip-§e-tim  (22)  §a  Se'im  u  lu  Sama&Sammim  (23)  a-na
-tamkarim  id<li-in  (24)  eklam  e-ri-i§-ma  (25)  §e'am  u  lu-u  §ama§§am-
-mam  (26)  §a  ib-ba-a§-§u-u  (27)  e-si-ip  ta-ba-al  (28)  ik-bi-§um
-(29)  §um-ma  ir-ri-§um  (30)  i-na  eklim  Se'am  (31)  u  lu  §amma§5am-
-mam  (32)  u5-tab-§i  (33)  i-na  eburim  §e'am  u  §ama§§ammam  (34)  §a
+§  49.  (18)  §um-ma  a-wi-lum  (19)  kaspam  it-ti  tamkarim  (20)  ilki-ma  (21)  ekil  ip-§e-tim  (22)  §a  Se'im  u  lu  Sama&Sammim  (23)  a-na
+tamkarim  id<li-in  (24)  eklam  e-ri-i§-ma  (25)  §e'am  u  lu-u  §ama§§ammam  (26)  §a  ib-ba-a§-§u-u  (27)  e-si-ip  ta-ba-al  (28)  ik-bi-§um
+(29)  §um-ma  ir-ri-§um  (30)  i-na  eklim  Se'am  (31)  u  lu  §amma§5ammam  (32)  u5-tab-§i  (33)  i-na  eburim  §e'am  u  §ama§§ammam  (34)  §a
 i-na  eklim  ib-ba-a§-§u-u  (35)  be-el  eklim-ma  (36)  i-li-ki-ma
-(37)  §e'am  §d  kaspi-§u  (38)  u  si-ba-zu  (39)  Sa  it-ti  tamkarim  (40)  il-
-ku-u  (41)  ;1  ma-na-ba-at  (42)  e-ri-§i-im  (43)  a-na  tamkarim  (44)  i-
+(37)  §e'am  §d  kaspi-§u  (38)  u  si-ba-zu  (39)  Sa  it-ti  tamkarim  (40)  ilku-u  (41)  ;1  ma-na-ba-at  (42)  e-ri-§i-im  (43)  a-na  tamkarim  (44)  i-
 na-ad^di-in
 
 §  50.  (45)  §um-ma  eklam  ir-§£-am  (46)  u  lu-u  (47)  ekil  SamaSSam-
 
-
-THE  CODE  OF  HAMMURAPI  415
 
 field  shall  receive  the  grain  or  the  sesame  (50)  which  is
 in  the  field  and  he  shall  return  the  loan  and  its  interest
@@ -25686,15 +23990,13 @@ the  merchant  grain  or  sesame,  (60)  at  their  market  value
 as  fixed  by  (65)  the  king,  for  the  loan  and  its  interest,
 which  he  has  obtained  from  the  merchant.
 
-§  52.  [Column  XV]  (1)  If  the  cultivator  have  not  se-
-cured a  crop  of  grain  or  sesame  in  his  field,  (5)  his  con-
+§  52.  [Column  XV]  (1)  If  the  cultivator  have  not  secured a  crop  of  grain  or  sesame  in  his  field,  (5)  his  con-
 tract shall  not  be  made  void.
 
 §  53.  If  a  man  have  neglected  (10)  to  strengthen  his  dike,
 and  have  not  strengthened  it,  and  a  break  have  been
 made  in  his  dike,  and  the  water  carry  away  the  meadow,
-the  man  in  whose  dike  the  break  has  been  made  shall  re-
-store the  grain  which  (20)  he  has  caused  to  be  lost.
+the  man  in  whose  dike  the  break  has  been  made  shall  restore the  grain  which  (20)  he  has  caused  to  be  lost.
 
 §  54.  If  he  be  not  able  to  restore  the  grain,  they  shall  sell
 him  and  his  goods  (25)  for  money,  and  the  people  of  the
@@ -25714,15 +24016,13 @@ i-na  eklim  (51)  ib-ba-as-Sii-ii  (52)  be-el  eklim-ma  (53)  i-li-ki-ma
 
 .  (56)  §um-ma    kaspam    (57)  a-na    tu-ur-ri-im    (58)  la    i-Sii
 trnasSammam1    (60)  a-na    ma-fci-ra-ti-su-nu    (61)  §a    kaspi-sii
-(62)  u  si-ib-ti-su  (63)  8a  it-ti  tamkarim  il-ku-u  (64)  a-na  pi  si-im-
-da-at  (65)  sar-ri-im  (66)  a-na  tamkarim  i-na-ad-di-in
+(62)  u  si-ib-ti-su  (63)  8a  it-ti  tamkarim  il-ku-u  (64)  a-na  pi  si-imda-at  (65)  sar-ri-im  (66)  a-na  tamkarim  i-na-ad-di-in
 
 §  52.  [Column  XV]  (1)  sum-ma  ir-ri-sum  (2)  i-na  eklim  se'am  (am)
 (3)  u  lu  Samassammam  (4)  la  us-tab-si  (5)  ri-ik-sa-ti-§u  (6)  u-ul  in-ni
 (7)  sum-ma  a-wi-Ium  is)  a-na  kar  okli  §u  (9)  du-un-nu-nim
 (1())  a-afc-Su  id-di-ma  (ll)kfir-§u  (12)  la  u-dan-ni-in-ma  (13)  i-na
-kari-sii  (14)pf-tum  it-to-ip-te  (15)  U  ngMUm  me-e  us-ta-bfl  (16)  a-
-wi-lum  (17)  fid  i-na  kari-§u  (18)  pf-tum  ip-pf-tu-ii  (19)  se'am  §d
+kari-sii  (14)pf-tum  it-to-ip-te  (15)  U  ngMUm  me-e  us-ta-bfl  (16)  awi-lum  (17)  fid  i-na  kari-§u  (18)  pf-tum  ip-pf-tu-ii  (19)  se'am  §d
 u-bal-li-ku  (20)  i-ri-a-ab
 
 (21)  §um-ma    §e'am    ri-a-ba-aip.     (22)  la    i-li-i    (23)  su-a-ti
@@ -25740,8 +24040,6 @@ se'am  ki-ma  i-te-§u  (38)  i-ma-ad-da-ad
 1  Read  at  tin-  beginning  of  this  Hot  probttl  ly  ii  'am  u  lu.    BoUngnad.
 
 
-416  CUNEIFORM  PARALLELS
-
 §  56.  If  a  man  (40)  have  opened  up  the  waters,  and
 caused  the  water  to  overflow  the  field  of  his  neighbor,
 he  shall  (45)  pay  ten  GUR  of  grain  per  GAN.
@@ -25750,8 +24048,7 @@ he  shall  (45)  pay  ten  GUR  of  grain  per  GAN.
 on  the  grass,  and  have  not  come  to  an  agreement  with
 the  owner  of  the  field,  but  without  the  consent  of  the
 owner  (50)  have  pastured  the  sheep  on  the  grass,  the
-owner  of  the  field  shall  (55)  reap  his  field,  and  the  shep-
-herd who  pastured  the  sheep  on  the  field  without  the
+owner  of  the  field  shall  (55)  reap  his  field,  and  the  shepherd who  pastured  the  sheep  on  the  field  without  the
 owner's  consent  shall  give  (60)  over  and  above  twenty
 GUR  of  corn  per  GAN  to  the  owner  of  the  field.
 
@@ -25777,14 +24074,12 @@ ekil  i-te-su  (42)  me-e  us-ta-bil  (43)  1  GAN.  E  (44)  X  kur  se'im
 (46)  sum-ma  re'um  (47)  a-na  §a-am-mi  (48)  sent  su-ku-lim
 ( 49)  it-ti  be-el  eklim  (60)  la  im-ta-gar-ma  (51)  ba-lum  be-el  eklim
 i52)  eklam  sent  (53)  us-ta-ki-il  (54)  ne-el  eklim  ekil-su  (55)  i-is-si-id
-(66)  reum  m  i-na  ba-lum  (57)  be-el  eklim  (58)  eklam  scni  (59)  u-sa-
-ki-lu  (60)  e-li-nu-um-ma  (61)  1  GAN.  E  (62)  XX  kur  se'im  (63)  a-na
+(66)  reum  m  i-na  ba-lum  (57)  be-el  eklim  (58)  eklam  scni  (59)  u-saki-lu  (60)  e-li-nu-um-ma  (61)  1  GAN.  E  (62)  XX  kur  se'im  (63)  a-na
 be-el  eklim  (64)  i-na-ad-di-in
 
 §  58.  (65)  sum-ma  is-tu  senu  (66)  i-na  ugarim  (67)  i-te-li-a-nim
 (68)  ka-an-nu  ga-ma-ar-tim  (69)  i-na  abuilim  (70)  it-ta-aj)-la-Iu
-(71)  re'um  s£nl  (72)  a-na  eklim  id-di-ma  (73)  eklam  sen!  (74)  us-ta-
-ki-il  (75)  re'um  ekil  il-sa-ki-lu  (76)  i-na-sa-ar-ma  (77)  ina  eburim
+(71)  re'um  s£nl  (72)  a-na  eklim  id-di-ma  (73)  eklam  sen!  (74)  us-taki-il  (75)  re'um  ekil  il-sa-ki-lu  (76)  i-na-sa-ar-ma  (77)  ina  eburim
 (78)  1  GAN.  E  [Column  XVI]  (1)  LX  kur  se'im  (2)  a-na  be-el  eklim
 (3)  i-ma-ad-da-ad
 
@@ -25794,8 +24089,6 @@ a-wi-lim  (7)  i-sa-am  ik-ki-is  (8)  mi§il  mano  kaspim  (9)  i-isa-kal
 §  60.  (10)  §um-ma  a-wi-lum  (11)  eklam  a-na  kirim  [z]a-ga-pf-im
 (12)  [a-n]a    sakinim    id-di-in     (13)  sakinum     (14)  kiram     iz-ku-up
 
-
-THE  CODE  OF  HAMMURAPI  417
 
 years  have  he  cared  for  the  garden,  (15)  in  the  fifth
 year  the  owner  of  the  garden  and  (20)  the  gardener  shall
@@ -25807,29 +24100,24 @@ but  (30)  left  a  waste  place,  they  shall  assign  the  waste
 space  to  his  portion.
 
 §  62.  If  he  have  not  planted  as  a  garden  the  field
-(35)  that  was  given  him,  if  it  was  arable  land,  the  gar-
-dener shall  measure  out  to  the  owner  of  the  field,  for  the
+(35)  that  was  given  him,  if  it  was  arable  land,  the  gardener shall  measure  out  to  the  owner  of  the  field,  for  the
 years  during  (40)  which  it  was  neglected,  on  the  basis  of
 the  adjacent  fields.  Further,  he  shall  perform  (45)  the
 required  work  on  the  field  and  he  shall  restore  it  to  the
 owner  of  the  field.
 
 §  63.  If  the  field  were  unreclaimed  land,  he  shall
-(50)  perform  the  required  work  on  the  field  and  he  shall  re-
-store it  to  the  owner  of  the  field.  Further,  he  shall  measure
+(50)  perform  the  required  work  on  the  field  and  he  shall  restore it  to  the  owner  of  the  field.  Further,  he  shall  measure
 out  ten  GUR  of  grain  per  GAN  (55)  for  each  year.
 
-§  64.  If  a  man  have  given  his  garden  to  (60)  a  gar-
-dener to  manage,  the  gardener  shall  give  to  the  owner
-of  the  garden  two  thirds  (65)  of  the  produce  of  the  gar-
-den as  long  as  he  holds  the  garden;  he  himself  shall
+§  64.  If  a  man  have  given  his  garden  to  (60)  a  gardener to  manage,  the  gardener  shall  give  to  the  owner
+of  the  garden  two  thirds  (65)  of  the  produce  of  the  garden as  long  as  he  holds  the  garden;  he  himself  shall
 (70)  take  one  third.
 
 
 (15)  Sattam  IV  (kam)  (16)  kiram  li-ra-ab-ba  (17)  i-na  ba-mu-u3-tim
 (18)  §£-at-tim  (19)  be-el  kirim  (20)  u  sakinum  (21)  mi-it-ba-ri-is
-(22)  i-zu-zu  (23)  be-el  kirim  (24)  zitta-Sii  (25)  i-na-za-ak-ma  (26)  i-
-li-ki
+(22)  i-zu-zu  (23)  be-el  kirim  (24)  zitta-Sii  (25)  i-na-za-ak-ma  (26)  ili-ki
 
 §61.  (27)  §um-ma  Sakinum  (28)  eklam  i-na  za-ga-pf-im  (29)  la
 ig-mur-ma  (30)  ni-di-tam  i-zi-ib  (31)  ni-di-tam  (32)  a-na  li-ib-bi
@@ -25838,8 +24126,7 @@ zitti-§u  (33)  i-§d-ka-nu-§um
 §  62.  (34)  §um-ma  eklam  (35)  M  in-na-ad-nu-§um  (36)  a-na  kirim
 la  iz-ku-up  (37)  §um-ma  abMnum  (38)  ! »i!:it  eklim  (39)  sa  sa-na-tim
 (40)  $a  in-na-du-u  (41)  Sakinum  (12)  a-na  be-el  eklim  (43)  ki-ma
-i-te-Su  (44)  i-ma-ad-da-ad  (45)  u  eklam  §i-ip-ra-am  (46)  hip-pfafr-
-ma  (47)  a-na  be-el  eklim  u-ta-a-ar
+i-te-Su  (44)  i-ma-ad-da-ad  (45)  u  eklam  §i-ip-ra-am  (46)  hip-pfafrma  (47)  a-na  be-el  eklim  u-ta-a-ar
 
 I     (48)  §um-ma  ekil  nidutim   (49)  eklam  si-ip-r.i-am  (.">())  i-ip-
 
@@ -25856,8 +24143,6 @@ na  ru-ku-bi-im    (62)  id-di-i-  .mum   (64)  a-<li  kiram  sa-ab-tu
 70)  su-u  i-li-ki
 
 
-418  CUNEIFORM  PARALLELS
-
 §  65.  If  the  gardener  have  not  properly  tilled  the
 garden,  and  have  diminished  the  produce,  he  shall
 measure  out  the  (75)  produce  of  the  garden  on  the  basis
@@ -25867,13 +24152,11 @@ At  this  point  five  columns  of  the  text  have  been
 erased  (see  above,  p.  396),  only  the  beginnings  of  column
 XVII  being  now  visible.  Scheil  estimates  the  portion
 lost  at  about  thirty-five  sections,  and  this  is  probably
-approximately  correct.  The  sections  omitted  con-
-tained the  further  enactments  concerning  gardening,
+approximately  correct.  The  sections  omitted  contained the  further  enactments  concerning  gardening,
 concerning  houses  let  to  tenants,  and  concerning  the
 relations  of  merchants  and  tenants,  which  continue  on
 the  obverse  of  the  monument.  The  missing  portions
-may  be  partially  restored  from  some  duplicate  frag-
-ments and  from  the  later  Assyrian  copies.  The  num-
+may  be  partially  restored  from  some  duplicate  fragments and  from  the  later  Assyrian  copies.  The  num-
 bering of  them  is,  however,  extremety  doubtful.  I
 have  marked  them  simply  by  the  letters  of  the  alphabet,
 and  have  begun  again  with  §  100  when  the  original
@@ -25902,11 +24185,8 @@ i-ba-as-si-sum  (8)  kira-su  is-tu  tar-ki-ib-tim  (9)  a-na  tamkarim
 (19)  be-el  kirim-ma  (20)  i-li-ki-ma  (21)  kaspam  u  sibat-zu  (22)  sa
 
 
-THE  CODE  OF  HAMMURAPI  419
-
 the  money,  including  the  interest,  in  accordance  with  his
-account,  (and)  the  remaining  dates,  (25)  which  are  pro-
-duced in  the  garden,  shall  the  possessor  of  the  garden
+account,  (and)  the  remaining  dates,  (25)  which  are  produced in  the  garden,  shall  the  possessor  of  the  garden
 take.
 
 §  B.  If  a  man  purpose  to  build  a  (30)  house,  (and)  his
@@ -25945,12 +24225,10 @@ pi  tup-pi-Su  (23)  tamkaram  i-ip-pa-al-ma  (24)  suluppi  wa-at-ru-tim
 
 urnn  XVIII]     ...[...    i-na]-di-[iS]  Sum
 (1)  sum-ma  se'am  kaspam  u  bi-Sa-am  (2)  a-na  bit  il-ki-im
-(3)  sa  b!t  i-te-Sii  (4)  Sa  i-Sa-am-mu  (5)  i-na-ad-di-in  (6)  i-na  mi-im-
-ma    (7)  Sa   id-di-nu    (8)  i-tc-<-l-li    (9)  bitum    a-na   [be-lf]-su   i-ta-ar
+(3)  sa  b!t  i-te-Sii  (4)  Sa  i-Sa-am-mu  (5)  i-na-ad-di-in  (6)  i-na  mi-imma    (7)  Sa   id-di-nu    (8)  i-tc-<-l-li    (9)  bitum    a-na   [be-lf]-su   i-ta-ar
 im-ma  bttum  su-ii  (ll)il-kam  la  i-Sii  (12)  i-s.-i-am  (13)  a-na
 i  su-a-ti  (14)  Se'am  kaspam  u  bi-Sa-am  i-na-ad-di-[in]
-§E.  (15)  Sum-ma  a-wi-[lum]    (Hi)  ni-[.      .      •]    (17)  ba-lum   i-[te-
-i-fc-[pu-usj  (?)  (IS)  i-na  bit  [ra-nia-ni-Su  (?)]  (19)  i-te-[ip-pu-
+§E.  (15)  Sum-ma  a-wi-[lum]    (Hi)  ni-[.      .      •]    (17)  ba-lum   i-[tei-fc-[pu-usj  (?)  (IS)  i-na  bit  [ra-nia-ni-Su  (?)]  (19)  i-te-[ip-pu-
 ,-.i;i  [bit    i-te-Mi]   (?)   CJl)[u-uI       .       .       .]
 
 §F.  [.     .     .]  (3(»)  be-.-l  [bitim     .     .     .]  (37)  sum-ma  bi-     .     .     .
@@ -25959,11 +24237,8 @@ i -ma
 §H.  (50).      .      .      (51)  na-ba-al-ka-at    (?)-ka    (52)  da    (?)-ni-in
 
 
-420  CUNEIFORM  PARALLELS
-
 (55)  .  .  .  the  owner  of  the  portion  uncultivated:
-"Cultivate  thy  uncultivated  portion;  from  (?)  thy  un-
-cultivated portion,  some  one  may  break  into  my
+"Cultivate  thy  uncultivated  portion;  from  (?)  thy  uncultivated portion,  some  one  may  break  into  my
 [house]  (?)  (60)  .    .    .    with  the  stolen  portion  [.    .    .]
 
 §  J.  [Column  XIX]  [.  .  .]  (25)  If  a  man  who  is  a
@@ -26011,8 +24286,6 @@ a-na  (8)  [.  .  .]-ma  (9)  se'am  [n]  ka=pam  (10)  a-na  [.  .  .]  la  i-s
 
 §  100.  [Column  I,  r.]  (1)  si-ba-a-at  kaspim  (2)  ma-la  il-ku-vi  (3)
 
-
-THE  CODE  OF  HAMMURAPI  421
 
 he  took  he  shall  write  down,  and  he  shall  reckon  on  a
 day  and  (5)  shall  make  returns  to  the  merchant.
@@ -26077,8 +24350,6 @@ saa-na  tamkarim   C»0)  id-di-mi   (51)la   il-t<-ki   (52)  kasap  la
 ka-ni-ki-im  (53)  a-na  ni-ik-ka-az-zi-im  (54)  u-ul  i§-§a-ak-ka-an
 
 
-422  CUNEIFORM  PARALLELS
-
 §  106.  (55)  If  an  agent  have  taken  money  from  a
 merchant,  and  have  a  dispute  with  the  merchant,
 (60)  that  merchant  shall  bring  the  agent  to  account
@@ -26107,13 +24378,10 @@ her  into  the  water.3
 
 1  The  word  for  "wine  merchant"  is  feminine.
 
-2  Ungnad  expresses  doubt  as  to  the  meaning  of  §  108.  The  transla-
-tion here  given  seems  to  me  reasonably  sure.
+2  Ungnad  expresses  doubt  as  to  the  meaning  of  §  108.  The  translation here  given  seems  to  me  reasonably  sure.
 
-§  106.  (55)  sum-ma  samallum  (56)  IcMpam  it-ti  tamkarim  (57)  il-
-ki-ma  (58)  tamkar-su  (59)  it-ta-ki-ir  (GO)  tamkarum  sii-u  (61)  i-na
-ma-bar  i-lim  u  si-bi  (62)  i-na  kaspim  li-ki-im  (63)  samallam  u-ka-an-
-ma  (64)  samallum  kaspam  (65)  ma-la  il-ku-u  (66)  a-du  III-su  a-na
+§  106.  (55)  sum-ma  samallum  (56)  IcMpam  it-ti  tamkarim  (57)  ilki-ma  (58)  tamkar-su  (59)  it-ta-ki-ir  (GO)  tamkarum  sii-u  (61)  i-na
+ma-bar  i-lim  u  si-bi  (62)  i-na  kaspim  li-ki-im  (63)  samallam  u-ka-anma  (64)  samallum  kaspam  (65)  ma-la  il-ku-u  (66)  a-du  III-su  a-na
 tamkarim  (67)  i-na-ad-di-in
 
 §  107.  (68)  sum-ma  tamkarum  (69)  samallam  i-ki-ip-ma
@@ -26125,13 +24393,10 @@ ds-sum  samalla-su  (10)  ik-ki-ru  (11)  mi-im-ma  sa  il-ku-ii  (12)  a-du
 VI-su  (13)  a-na  samallim  (H)  i-na-ad-di-in
 
 §  108.  (15)  sum-ma  sinnisat  kurunnim  (?)  (16)  a-na  sim  sikarim
-(17)  se'am  la  im-ta-bar  (18)  i-na  abnim  ra-bi-tim  (19)  kaspam  im-
-ta-bar  (20)  u  maljir  sikarim  (21)  a-na  mabir  se'im  um-ta-ti
+(17)  se'am  la  im-ta-bar  (18)  i-na  abnim  ra-bi-tim  (19)  kaspam  imta-bar  (20)  u  maljir  sikarim  (21)  a-na  mabir  se'im  um-ta-ti
 (22)  sinnisat  kurunnim  §u-a-ti  (23)  u-ka-an-nu-si-ma  (24)  a-na  me-e
 (25)  i-na-[ad-d]u-ii-si
 
-
-THE  CODE  OF  HAMMURAPI  423
 
 §  109.  If  outlaws  have  gathered  in  the  house  of  a  wine
 merchant,  and  she  do  not  arrest  (30)  these  outlaws  and
@@ -26139,8 +24404,7 @@ bring  them  to  the  palace,  that  wine  seller  shall  be  (35)  put
 to  death.
 
 §  110.  If  a  female  votary,  who  is  not  living  in  a
-convent,  have  opened  a  wine  shop,  or  (40)  have  en-
-tered a  wine  shop  for  drink,  they  shall  burn  that
+convent,  have  opened  a  wine  shop,  or  (40)  have  entered a  wine  shop  for  drink,  they  shall  burn  that
 woman.
 
 §  111.  (45)  If  a  wine  seller  have  given  60  KA  of  drink
@@ -26150,19 +24414,15 @@ grain.
 3.  Transport  of  Goods  (§  112)
 §  112.  (50)  If  a  man  be  away  on  a  journey,  and  he  give
 silver,  gold,  stones,  or  portable  property  (55)  to  a
-man,  and  have  caused  him  to  take  them  for  trans-
-port, and  if  that  man  (60)  do  not  deliver  that  which
-was  to  be  transported  where  it  was  to  be  trans-
-ported, but  take  it  to  himself,  the  owner  of  the  goods
+man,  and  have  caused  him  to  take  them  for  transport, and  if  that  man  (60)  do  not  deliver  that  which
+was  to  be  transported  where  it  was  to  be  transported, but  take  it  to  himself,  the  owner  of  the  goods
 to  be  transported  shall  call  (65)  that  man  to  account
-for  the  goods  to  be  transported  which  he  did  not  de-
-liver, and  (70)  that  man  shall  deliver  to  the  owner  of
+for  the  goods  to  be  transported  which  he  did  not  deliver, and  (70)  that  man  shall  deliver  to  the  owner  of
 the  transported  goods  five  fold  the  amount  which  was
 given  to  him.
 
 §  109.  (26)  §um-[m]a  sinniSat  kurunnim  (27)  sa-ar-ru-tum  (28)
-i-na  biti-sa  (29)  it-tar-ka-su-ma  (30)  sa-ar-ru-tim  sii-nu-ti  (31)  la  is-
-sa-ab-tam-ma  (32)  :i-na  •'•kallim  (33)  la  ir-di-a-am  (34)  sinni§at
+i-na  biti-sa  (29)  it-tar-ka-su-ma  (30)  sa-ar-ru-tim  sii-nu-ti  (31)  la  issa-ab-tam-ma  (32)  :i-na  •'•kallim  (33)  la  ir-di-a-am  (34)  sinni§at
 kurunnim  si-i  (36)  id-da-ak
 
 §  110.  (36)  5um-ma  isippatum  cntum  (37)  M  i-na  gAgtm  (38)  la
@@ -26193,8 +24453,6 @@ sa  in-na-ad-nu-§ura   (73)  a-na  be-i'l   si-hu-ul-tim   (74)  i-na-ad-
 di-in
 
 
-424  CUNEIFORM  PARALLELS
-
 4.  Debt  (§§  113-119)
 
 §  113.  (75)  If  a  man  have  a  [debt]  of  grain  or  money
@@ -26224,8 +24482,7 @@ shall  pay  one  third  of  a  mina  of  silver  and  he  shall  forfeit
 whatever  amount  he  had  lent.
 
 §113.  (75)  Sum-ma  a-wi-lum  (7*'>)  e-li  a-wi-lim  [Column  III,  r.]
-(1)  Se'am  u  kaspam  i-sii-ma  (2)  i-na  ba-lum  be-el  se'im  (3)  i-na  na-
-as-pa-ki-im  (4)  u  lu  i-na  ma-as-ka-nim  (5)  §e'am  il-te-ki  (6)  a-wi-lam
+(1)  Se'am  u  kaspam  i-sii-ma  (2)  i-na  ba-lum  be-el  se'im  (3)  i-na  naas-pa-ki-im  (4)  u  lu  i-na  ma-as-ka-nim  (5)  §e'am  il-te-ki  (6)  a-wi-lam
 su-a-ti  (7)  i-na  ba-lum  be-el  se'im  (8)  i-na  na-as-pa-ki-im  (9)  u  lu
 i-na  ma&kanim  (10)  i-na  Se'im  li-ki-im  (11)  u-ka-an-nu-§u-ma
 (12)  §e'am  ma-la  il-ku-ii  (13)ii-ta-ar  (14)  u  i-na  mi-im-ma  §um-§u
@@ -26247,8 +24504,6 @@ Jja-zi-im  (41)  u  lu  i-na  us-su-si-im  (42)  im-tu-ut  (43)  be-el  ni-pu-ti
 (50)  i-§a-kal  (51)  u  i-na  mi-im-ma  sum-su  (52)  ma-la  id-di-nu
 (53)  i-te-eMi
 
-
-THE  CODE  OF  HAMMURAPI  425
 
 §  117.  If  a  man  be  (55)  in  debt,  and  sell  his  wife,  his  son,
 or  his  daughter  for  the  money,  or  has  handed  them  over
@@ -26288,8 +24543,7 @@ a-na  ki-i§-§a-a-t ira  (60)  it-ta-an-di-in  (61)  Sattam  ...  (kam)  (62)  
 (65)  Sa-at-tim  (66)  an-<lu-ra-ar-su-nu  (67)  i§-Sa-ak-ka-an
 
 §118  (68)  Sum-ma  wardam  il  lu  amtam  (69)  a-na  ki-is-sa-tim
-(70)  it-ta-an-di-in  (71)  tamkarum  u-Se-te-ik  (72)  a-na  kaspim  i-na-
-ad-din  (73)  u-ul  il>-ba-gar
+(70)  it-ta-an-di-in  (71)  tamkarum  u-Se-te-ik  (72)  a-na  kaspim  i-naad-din  (73)  u-ul  il>-ba-gar
 
 I  119.  (74)  Sum-ma    a-wi-lam    (75)  e-'i-il-tum     (70)  is-ba-zu-ma
 :nat-zu  Sa  mari  ul-du-sum  (78)  a-na  kaspim  it-ta-din  [Column
@@ -26297,16 +24551,12 @@ IV,   r.]    (1)  kasap   tamkarum   is-ku-lu    (2)  bo-el   amtim   i-Sa-kal-m
 (3)  amat-zu  i-pu-tar
 
 BO.  (4)  Sum-ma    a-wi-lum     (5)  Se'a-sVi     a-na    na-:i^-pa-ku-tim
-(0)  i-na  bit   a-wi-lim   (7)  iS-pu-uk-ma  (8)  i-na  ga-ri-tirn    (9)  wb-bu-
-u-um    it-tab-Si    (10)  u    In    br-d    bitim    (11)  n:i-:is-pa-karn    ip
-(12)  Seam  il-ki  (13)  il  lu  Se'.un  M  t-oa  b*t»-W  (14)  iS-Sa-ap-ku  (15)  a-
-na  ga-am-ri-im  (Hi)  it-ta-ki-ir  (1,  an  nri-har  i-liin  (lS)Se'a-
+(0)  i-na  bit   a-wi-lim   (7)  iS-pu-uk-ma  (8)  i-na  ga-ri-tirn    (9)  wb-buu-um    it-tab-Si    (10)  u    In    br-d    bitim    (11)  n:i-:is-pa-karn    ip
+(12)  Seam  il-ki  (13)  il  lu  Se'.un  M  t-oa  b*t»-W  (14)  iS-Sa-ap-ku  (15)  ana  ga-am-ri-im  (Hi)  it-ta-ki-ir  (1,  an  nri-har  i-liin  (lS)Se'a-
 
 M  u-ba-ar-ma   (10)  be-d   bitirn    (20)  le'tlD   M   il-ku-u    (21)  us
 na-ma  (22)  a-na  be-el  Se'im  (23)  i-na-ad-<ii-in
 
-
-426  CUNEIFORM  PARALLELS
 
 §  121.  If  a  man  have  heaped  up  grain  (25)  in  the
 house  of  another,  he  shall  give  as  the  price  of  storage
@@ -26317,21 +24567,18 @@ silver,  gold,  or  anything  whatever,  whatever  he  gives  he
 shall  show  to  witnesses  and  fix  (40)  the  contract  and
 (then)  make  the  deposit.
 
-§  123.  If  a  man  have  given  on  deposit  without  wit-
-nesses or  (45)  contract,  and  at  the  place  of  deposit  they
+§  123.  If  a  man  have  given  on  deposit  without  witnesses or  (45)  contract,  and  at  the  place  of  deposit  they
 dispute  with  him,  (50)  no  case  lies.
 
 §  124.  If  a  man  have  given  to  another  on  deposit
 (55)  silver,  gold,  or  anything  whatever  in  the  presence
 of  witnesses,  and  the  latter  (60)  dispute  with  him
 (i.  e.,  deny  it),  they  shall  call  that  man  to  account,  and
-whatever  he  has  disputed  he  shall  make  up  and  (65)  re-
-pay double.
+whatever  he  has  disputed  he  shall  make  up  and  (65)  repay double.
 
 §  125.  If  a  man  have  given  anything  of  his  on  deposit,
 and  at  the  place  of  deposit,  (70)  either  by  burglary  or
-pillage,  something  of  his  has  been  lost  along  with  some-
-thing (75)  of  the  owner  of  the  house,  the  owner  of  the
+pillage,  something  of  his  has  been  lost  along  with  something (75)  of  the  owner  of  the  house,  the  owner  of  the
 house  who  has  been  negligent  and  has  lost  what  was
 given  him  on  deposit  shall  make  good   (the  loss)   and
 
@@ -26340,36 +24587,28 @@ is-pu-uk  (27)  i-na  sa-na-at  (28)  a-na  I  kur  se'im  V  ka  se'im  (29)  i
 na-ds-pa-ki-im  (30)  i-na-ad-di-in
 
 §  122.  (31)  sum-ma  a-wi-lum  (32)  a-na  a-wi-lim  (33)  kaspam
-burasam  (34)  u  mi-im-ma  sum-su  (35)  a-na  ma-sa-ru-tim  (36)  l-na-
-ad-di-in  (37)  mi-im-ma  ma-la  (38)  i-na-ad-di-nu  (39)  si-bi  u-kal-lam
-(40)  ri-ik-sa-tim  (41)  i-sd-ak-ka-an-ma  (42)  a-na  ma-sa-ru-tim  (43)  i-
-na-ad-di-in
+burasam  (34)  u  mi-im-ma  sum-su  (35)  a-na  ma-sa-ru-tim  (36)  l-naad-di-in  (37)  mi-im-ma  ma-la  (38)  i-na-ad-di-nu  (39)  si-bi  u-kal-lam
+(40)  ri-ik-sa-tim  (41)  i-sd-ak-ka-an-ma  (42)  a-na  ma-sa-ru-tim  (43)  ina-ad-di-in
 
 §  123.  (44)  sum-ma  ba-lum  §i-bi  (45)  u  ri-ik-sa-tim  (46)  a-na
 ma-sa-ru-tim  (47)  id-di-in-ma  (48)  a-sar  id-di-nu  (49)  it-ta-ak-ru-su
 (50)  di-nu-um  sii-u  (51)  ru-gu-um-ma-am  (52)  u-ul  i-su
 
 §  124.  (53)  §um-ma  a-wi-lum  (54)  a-na  a-wi-lim  (55)  kaspam
-tjurasam  (56)  u  mi-im-ma  sum-su  (57)  ma-Jjar  si-bi  (58)  a-na  ma-
-sa-ru-tim  (59)  id-di-in-ma  (60)  it-ta-ki-ir-su  (61)  a-wi-lam  su-a-ti
-(62)  u-ka-an-nu-sii-ma  (63)  mi-im-ma  sa  ik-ki-ru  (64)  us-ta-sa-na-
-ma  (65)  i-na-ad-di-in
+tjurasam  (56)  u  mi-im-ma  sum-su  (57)  ma-Jjar  si-bi  (58)  a-na  masa-ru-tim  (59)  id-di-in-ma  (60)  it-ta-ki-ir-su  (61)  a-wi-lam  su-a-ti
+(62)  u-ka-an-nu-sii-ma  (63)  mi-im-ma  sa  ik-ki-ru  (64)  us-ta-sa-nama  (65)  i-na-ad-di-in
 
-§  125.  (66)  sum-ma  a-wi-lum  (67)  mi-im-ma-§u  (68)  a-na  ma-sa-
-ru-tim  id-di-in-ma  (69)  a-sar  id-di-nu  (70)  u  lu  i-na  pl-il-si-im
+§  125.  (66)  sum-ma  a-wi-lum  (67)  mi-im-ma-§u  (68)  a-na  ma-saru-tim  id-di-in-ma  (69)  a-sar  id-di-nu  (70)  u  lu  i-na  pl-il-si-im
 (71)  u  lu  i-na  na-ba-  (72)  al-ka-at-tim  (73)  mi-im-mu-su  (74)  it-ti
 mi-im-me-e  (75)  be-el  bitim  ijj-ta-li-ik  be-el  bitim  §a  i-gu-ma
 (76)  mi-im-ma  sa  a-na  (77)  ma-sa-ru-tim  id-di-nu-sum-ma  (78)  u-
 
 
-THE  CODE  OF  HAMMURAPI  427
-
 restore  it  [Column  V,  r.]  (1)  to  the  owner  of  the  goods.
 The  owner  of  the  house  (5)  shall  seek  out  whatever  has
 been  lost  and  shall  take  it  from  the  thief.
 
-§  126.  If  a  man  have  lost  (10)  nothing  of  his,  but  say-
-that  he  has  lost  something,  (15)  he  shall  declare  his
+§  126.  If  a  man  have  lost  (10)  nothing  of  his,  but  saythat  he  has  lost  something,  (15)  he  shall  declare  his
 (alleged)  loss  before  the  god,  and  (20)  whatever  he  has
 claimed  he  shall  pay  as  a  forfeit  double  his  claim.
 
@@ -26397,19 +24636,16 @@ the  water.  If  the  (50)  husband  of  the  woman  would  save
 his  wife,  so  also  may  the  king  save  his  male  servant.
 
 fcal-li-ku  (79)  u-§a-lam-ma  [Column  V,  r.]  (1)  a-na  be-el  namkurim
-(2)  i-ri-a-ab  (3)  l>e-el  bitim  (4)  mi-im-ma-§u  Jjal-ga-am  (5)  i§-te-ne-
-i-ma  (6)  [it]-ti  §ar-ra-g[a]-ni-§u  (7)  i-li-ki
+(2)  i-ri-a-ab  (3)  l>e-el  bitim  (4)  mi-im-ma-§u  Jjal-ga-am  (5)  i§-te-nei-ma  (6)  [it]-ti  §ar-ra-g[a]-ni-§u  (7)  i-li-ki
 
 §  126.  (8)  §um-ma  [a]-wi-lum  (9)  mi-im-mu-§u  (10)  la  ba~
 li-i[k-m]a  (11)  mi-im-[mu-u-a]  (12)  fta-li-ik  ik-ta-bi  (13)  ba-ab-ta-§u
 (14)  u-te-ib-l>i-ir  (15)  ki-ma  mi-im-mu-§u  (16)  la  fcal-ku  (17)  ba-ab-
 (18)  i-na  ma-bar  i-lim  ( 1 9)  u-ba-ar-§u-ma  (20)  mi-im-ma
-(21)  §a  ir-gu-mu  (22)  u§-ta-§a-na-ma  (23)  a-na  ba-ab-ti-§u  (24)  i-
-na-ad-di-in
+(21)  §a  ir-gu-mu  (22)  u§-ta-§a-na-ma  (23)  a-na  ba-ab-ti-§u  (24)  ina-ad-di-in
 
 §  127.  (25)  Sum-ma  a-wi-lmn  (26)  e-li  entim  (27)  u  a§-§a-at  a-wi-
-5)  u-bft-nam  A-Mrat-ri-if-ma  (29)  la  uk-ti-in  (30)  a-wi-lam  §u-
-a-ti  (31)ma-t}ar  da-a-a-ni  (32)  i-na-ad-du-u-§ii  (33)  u  mu-ut-ta-zu
+5)  u-bft-nam  A-Mrat-ri-if-ma  (29)  la  uk-ti-in  (30)  a-wi-lam  §ua-ti  (31)ma-t}ar  da-a-a-ni  (32)  i-na-ad-du-u-§ii  (33)  u  mu-ut-ta-zu
 (34)  li-gal-la-bu
 
 §  128.  (35)  §um-ma  a-wi-lum  (36)  a§-§a-tam  (37)  i-bu-uz-ma
@@ -26426,8 +24662,6 @@ tim  (51)  a§-s:'t-zu  u-b:i-la-at    (52)  u  §ar-ru-um  (53)  warad-zu  u-ba
 
 l;i-:f
 
-
-428  CUNEIFORM  PARALLELS
 
 §  130.  If  a  man  have  forced  the  (betrothed)  (55)  wife
 of  another  who  has  not  known  a  male  and  is  dwelling  in
@@ -26458,19 +24692,15 @@ water.
 
 §  134.  If  a  man  have  been  taken  prisoner,  and  there
 
-§  130.  (54)  sum-ma  a-wi-lum  (55)  as-Sa-at  a-wi-lim  (56)  sa  zi-ka-
-ra-am  (57)  la  i-du-u-ma  (58)  i-na  btt  a-bi-Sa  (59)  wa-as-ba-at
-(60)  u-kab-bfl-Si-ma  (61)  i-na  su-ni-Sa  (62)  it-ta-ti-il-ma  (63)  is-sa-ab-
-tu-su  (64)  a-wi-lum  §u-u  (65)  id-da-ak  (66)  sinniStum  Si-i  (67)  u-ta-
+§  130.  (54)  sum-ma  a-wi-lum  (55)  as-Sa-at  a-wi-lim  (56)  sa  zi-kara-am  (57)  la  i-du-u-ma  (58)  i-na  btt  a-bi-Sa  (59)  wa-as-ba-at
+(60)  u-kab-bfl-Si-ma  (61)  i-na  su-ni-Sa  (62)  it-ta-ti-il-ma  (63)  is-sa-abtu-su  (64)  a-wi-lum  §u-u  (65)  id-da-ak  (66)  sinniStum  Si-i  (67)  u-ta-
 as-Sar
 
 §  131.  (68)  sum-ma  as-§a-at  (69)  a-wi-lim  (70)  mu-za  u-ub-bi-ir-
-§i-ma  (71)  it-ti  zi-ka-ri-im  sa-ni-im  (72)  i-na  u-tu-lim  (73)  la  is-sa-
-bi-it  (74)  ni-is  i-lim  (75)  i-za-kar-ma  (76)  a-na  biti-sa  i-ta-ar
+§i-ma  (71)  it-ti  zi-ka-ri-im  sa-ni-im  (72)  i-na  u-tu-lim  (73)  la  is-sabi-it  (74)  ni-is  i-lim  (75)  i-za-kar-ma  (76)  a-na  biti-sa  i-ta-ar
 
 §  132.  (77)  Sum-ma  aS-Sa-at  (78)  a-wi-lim  (79)  aS-6um  zi-ka-ri-im
-sa-ni-im  (80)  u-ba-nu-um  (81)  e-li-Sa  (82)  it-ta-ri-is-ma  (83)  it-ti  zi-
-ka-ri-im  [Column  VI,  r.l  (1)  sa-ni-im  (2)  i-na  u-tu-lim  (3)  la  it-ta-
+sa-ni-im  (80)  u-ba-nu-um  (81)  e-li-Sa  (82)  it-ta-ri-is-ma  (83)  it-ti  zika-ri-im  [Column  VI,  r.l  (1)  sa-ni-im  (2)  i-na  u-tu-lim  (3)  la  it-ta-
 as-ba-at  (4)  a-na  mu-ti-sa  (5)  (ilu)  Naram  (6)  i-sa-al-li
 
 '  §  133a.  (7)  Sum-ma  a-wi-lum  (8)  i§-Sa-li-il-ma  (9)  i-na  biti-§u
@@ -26478,14 +24708,11 @@ as-ba-at  (4)  a-na  mu-ti-sa  (5)  (ilu)  Naram  (6)  i-sa-al-li
 at  (14)  [u  namkur  (?)-§]a  (15)  [i-na-ea-a]r  (16)  [a-na  bitim  &i-ni-i]m
 (17)  [u-ul  i-ir-r]u-ub
 
-§  133b.  (18)  §[um-m]a  sinniStum  Si-i  (19)  [nam]kur-§a  (20)  la  is-
-eur-ma  (21)  a-na  bitim  §a-ni-im  (22)  i-te-ru-ub  (23)  sinnistam  §u-
+§  133b.  (18)  §[um-m]a  sinniStum  Si-i  (19)  [nam]kur-§a  (20)  la  iseur-ma  (21)  a-na  bitim  §a-ni-im  (22)  i-te-ru-ub  (23)  sinnistam  §u-
 a-ti  (24)  u-ka-an-nu-§i-ma  (25)  a-na  me-e  (26)  i-na-ad-du-ii-si
 
 §  134.  (27)  Sum-ma  a-wi-lum  (28)  i§-§a-li-il-ma  (29)  i-na  biti-su
 
-
-THE  CODE  OF  HAMMURAPI  429
 
 be  no  (30)  food  in  his  house,  and  his  wife  enter  into
 another  house,  (35)  that  woman  has  no  blame.
@@ -26521,13 +24748,11 @@ i-su
 §  135.  (37)  8um-ma  a-wi-lum  (38)  i§-§a-li-il-ma  (39)  i-na  bJti-§u
 (40)  §a  a-ka-li-im  (41)  la  i-ba-a§-§i  (42)  a-na  pa-ni-§ii  (43)  a§-§a-zu
 (44)  a-na  bitim  §a-ni-im  (45)  i-te-ru-ub-ma  (46)  marl  it-ta-la-ad
-(47)  i-na  wa-ar-ka  (48)  mu-za  it-tu-ra-am-ma  (49)  al-§u  (50)  ik-ta-
-a5-dam  (51)  sinniStum  §i-i  (52)  a-na  ba-wi-ri-§a  (53)  i-ta-ar
+(47)  i-na  wa-ar-ka  (48)  mu-za  it-tu-ra-am-ma  (49)  al-§u  (50)  ik-taa5-dam  (51)  sinniStum  §i-i  (52)  a-na  ba-wi-ri-§a  (53)  i-ta-ar
 (54)  maru  wa-ar-ki  (55)  a-bi-§u-nu  (56)  i-il-la-ku
 
 §  136.  (57)  §um-ma  a-wi-lum  (58)  al-§u  id-di-ma  (59)  it-ta-bi-it
-(60)  wa-ar-ki-su  (61)  aS-§a-zu  (62)  a-na  bitim  §a-ni-im  (63)  i-te-ru-
-ub  (64)  §um-ma  a-wi-lum  su-u  (66)  it-tu-ra-am-ma  (66)  a§-§a-zu
+(60)  wa-ar-ki-su  (61)  aS-§a-zu  (62)  a-na  bitim  §a-ni-im  (63)  i-te-ruub  (64)  §um-ma  a-wi-lum  su-u  (66)  it-tu-ra-am-ma  (66)  a§-§a-zu
 (67)  is-sa-ba-at    (68)  a§-§um    mI-si'i    (('.'.))  i-zi-ru-ma    (70)  in-na-bi-tu
 
 (71)  aWa-at  mu-na-al)-tini  (7'J)  a-na  mu-ti-&a  (73)  u-ul  i-ta-ar
@@ -26546,8 +24771,6 @@ r)-Sa    (3)  u-ra-alvba    (4)  is-t.i    m.rt-Sa    (5)  ur-ta-ab-bu-ti
 
 (0)  i-ua  rni-im-ma  (7)  §d  a-na  marl-5d  (8)  in-na-ad-nu  (9)  ^i-it-tam
 
-
-430  CUNEIFORM  PARALLELS
 
 a  portion  (10)  like  that  of  one  son,  and  the  man  of  her
 choice  may  marry  her.
@@ -26570,42 +24793,34 @@ house  have  set  her  face  to  go  out,  and  has  acted  the  fool,
 has  neglected  her  house,  (40)  has  belittled  her  husband,
 they  shall  call  her  to  account;  if  her  husband  say,  (45)  "I
 have  put  her  away,"  he  shall  put  her  away  and  she  shall
-go  her  way;  he  shall  not  give  her  (50)  anything  for  di-
-vorce. If  her  husband  say,  "I  have  not  put  her  away,"
+go  her  way;  he  shall  not  give  her  (50)  anything  for  divorce. If  her  husband  say,  "I  have  not  put  her  away,"
 her  husband  (55)  may  marry  another  woman.  The  first
 woman  as  a  maidservant  shall  dwell  in  the  house  of  her
 husband.
 
 §  142.  (60)  If  a  woman  hate  her  husband  and  say,  "Thou
 
-(10)  ki-ma  ab-lim  is-te-en  (11)  i-na-ad-di-nu-§i-im-ma  (12)  mu-tu  li-
-ib-bi-§a    (13)  i-ib-ba-az-zi
+(10)  ki-ma  ab-lim  is-te-en  (11)  i-na-ad-di-nu-§i-im-ma  (12)  mu-tu  liib-bi-§a    (13)  i-ib-ba-az-zi
 
-§  138.  (14)  Sum-ma  a-wi-lum  (15)  fci-ir-ta-Sii  (16)  §a  mart  la  ul-
-du-sum  (17)  i-iz-zi-ib  (18)  kaspam  ma-la  (19)  tir-ba-ti-sa  (20)  i-na-
+§  138.  (14)  Sum-ma  a-wi-lum  (15)  fci-ir-ta-Sii  (16)  §a  mart  la  uldu-sum  (17)  i-iz-zi-ib  (18)  kaspam  ma-la  (19)  tir-ba-ti-sa  (20)  i-na-
 ad-di-is-si-im  (21)  ft  §e-ri-ik-tam  (22)  sa  is-tu  bit  a-bi-sa  ub-lam
 (23)  u-sa-lam-si-im-ma  (24)  i-iz-zi-ib-si
 
 §  139.  (25)  §um-ma  tir-ba-tum  (26)  la  i-ba-as-gi  (27)  I  mand
 kaspim  (28)  a-na  u-zu-ub-bi-im  (29)  i-na-ad-di-is-si-im
 
-§  140.  (30)  sum-ma  muskenum  (31)  •$  man6  kaspim  (32)  i-na-
-ad-di-is-§i-im
+§  140.  (30)  sum-ma  muskenum  (31)  •$  man6  kaspim  (32)  i-naad-di-is-§i-im
 
 §141.  (33)  §um-ma  as-sa-at  a-wi-lim  (34)  sa  i-na  bit  a-wi-lim
 (35)  wa-a§-ba-at  (36)  a-na  wa-si-im  (37)  pa-ni-sa  (38)  i§-ta-ka-an-ma
-(39)  zi-ki-il-tam  (40)  i-za-ak-ki-il  (41)  bit-za  u-za-ap-pa-ab  (42)  mu-
-za  li-sa-am-ta  (43)  u-ka-an-nu-§i-ma  (44)  §um-ma  mu-za  (45)  e-si-
+(39)  zi-ki-il-tam  (40)  i-za-ak-ki-il  (41)  bit-za  u-za-ap-pa-ab  (42)  muza  li-sa-am-ta  (43)  u-ka-an-nu-§i-ma  (44)  §um-ma  mu-za  (45)  e-si-
 ib-§a  (46)  ik-ta-bi  (47)  i-iz-zi-ib-§i  (48)  ba-ra-an-sa  (49)  li-zu-ub-bu-sa
 (50)  mi-im-ma  (51)  u-ul  in-na-ad-di-i§-§i-im  (52)  §um-ma  mu-za
-(53)  la  e-si-ib-§&  ik-ta-bi  (54)  mu-za  sinniStam  §a-ni-tam  (55)  i-ib-
-ba-az  (56)  sinnistum  si-i  (57)  ki-ma  amtim  (58)  i-na  bit  mu-ti-la
+(53)  la  e-si-ib-§&  ik-ta-bi  (54)  mu-za  sinniStam  §a-ni-tam  (55)  i-ibba-az  (56)  sinnistum  si-i  (57)  ki-ma  amtim  (58)  i-na  bit  mu-ti-la
 (59)  us-sa-ab
 
 §  142.  (60)  §um-ma  sinniStum  mu-za  i-zi-ir-ma  (61)  u-ul  ta-ab-
 
-
-THE  CODE  OF  HAMMURAPI  431
 
 shalt  not  have  me,"  they  shall  (65)  inquire  into  her  past
 as  to  what  is  her  lack,  and  if  she  have  been  economical
@@ -26636,18 +24851,15 @@ a  (45)  maidservant  to  her  husband,  and  afterwards  that
 
 ba-za-an-ni  (62)  ik-ta-bi  (63)  wa-ar-ka-za  (64)  i-na  ba-ab-ti-§a
 (65)  ip-pa-ar-ra-a§-ma  (66)  £um-ma  na-as-ra-at-ma  (67)  bi-ti-tam
-(68)  la  i-§u  (69)  u  mu-za  (70)  wa-zi-ma  (71)  ma-ga-al  (72)  u-§a-am-
-ta-§i  (73)  sinnistum  §i-i  [Column  VIII,  r.]  (1)  ar-nam  u-ul  i-§u
+(68)  la  i-§u  (69)  u  mu-za  (70)  wa-zi-ma  (71)  ma-ga-al  (72)  u-§a-amta-§i  (73)  sinnistum  §i-i  [Column  VIII,  r.]  (1)  ar-nam  u-ul  i-§u
 (2)  Se-ri-ik-ta-&a  (3)  i-li-ki-ma  (4)  a-na  bit  a-bi-§a  (5)  it-ta-al-la-ak
 
-§  143.  (6)  §um-ma  la  na-as-ra -at-ma  (7)  wa-zi-a-at  (8)  bi-za  u-za-
-ap-pa-ab  (9)  mu-za  ii-§a-am-ta  (10)  sinniStam  §u-a-ti  (11)  a-na  me-e
+§  143.  (6)  §um-ma  la  na-as-ra -at-ma  (7)  wa-zi-a-at  (8)  bi-za  u-zaap-pa-ab  (9)  mu-za  ii-§a-am-ta  (10)  sinniStam  §u-a-ti  (11)  a-na  me-e
 (129  i-na-a<l-«lu-u-si
 
 §  144.  (13)  §um-ma  a-wi-Ium  (14)  aSSatam  i-bu-uz-ma  (15)  a§-
 Satum  Si-i  (16)  amtam  a-na  mu-ti-sa*  (17)  id-di-in-ma  (18)  marl
-uS-tab-§i  (19)  a-wi-lum  8u-u  (20)  a-na  (sinniSat)  §ft.  GE-tim  (21)  a-
-ba-zi-im  (22)  pa-ni-§u  (23)  is-ia-ka-an  (24)  a-wi-lam  §u-a-ti  (25)  u-ul
+uS-tab-§i  (19)  a-wi-lum  8u-u  (20)  a-na  (sinniSat)  §ft.  GE-tim  (21)  aba-zi-im  (22)  pa-ni-§u  (23)  is-ia-ka-an  (24)  a-wi-lam  §u-a-ti  (25)  u-ul
 
 I  §tJ.  GE-tam  (27)  li-ul  i-ib-ba-az
 
@@ -26666,8 +24878,6 @@ ab-l
 §  146.  (43)  §um-ma  a-wi-lum  (44)  aSfiatam  i-bu-uz-ma  (45)  amtam
 
 
-432  CUNEIFORM  PARALLELS
-
 maid  has  made  herself  equal  (50)  with  her  mistress,
 because  she  has  borne  children,  her  mistress  (55)  may  not
 sell  her  for  money,  but  she  may  put  a  mark  upon  her  and
@@ -26676,58 +24886,45 @@ count  her  among  the  maidservants.
 §  147.  (60)  If  she  have  not  borne  children,  her  mistress
 may  sell  her  for  money.
 
-§  148.  (65)  If  a  man  have  married  a  wife  and  lep-
-rosy (?)  have  seized  her,  (70)  and  he  have  set  his  face  to
+§  148.  (65)  If  a  man  have  married  a  wife  and  leprosy (?)  have  seized  her,  (70)  and  he  have  set  his  face  to
 take  another,  he  may,  but  (75)  his  wife  who  is  stricken
 with  leprosy  (?)  he  shall  not  put  away.  In  the  house
 which  he  has  built  she  (80)  shall  remain,  and  he  shall
 maintain  her  as  long  as  she  lives.
 
-§  149.  [Column  IX,  r.]  (1)  If  that  woman  be  not  con-
-tent to  dwell  in  her  husband's  house,  he  shall  pay  her
+§  149.  [Column  IX,  r.]  (1)  If  that  woman  be  not  content to  dwell  in  her  husband's  house,  he  shall  pay  her
 the  (5)  marriage  portion  which  she  brought  from  her
 father's  house  and  she  may  go  away.
 
-§  150.  (10)  If  a  man  have  given  to  his  wife  field,  gar-
-den, house,  or  goods,  and  have  left  (15)  her  a  sealed  deed,
+§  150.  (10)  If  a  man  have  given  to  his  wife  field,  garden, house,  or  goods,  and  have  left  (15)  her  a  sealed  deed,
 after  her  husband's  death  her  children  shall  not  make
 claim  upon  her.  The  mother  shall  give  (20)  her  estate
 to  the  child  whom  she  loves,  but  to  (her)  brothers  she
 (25)  shall  not  give.
 
-a-na  mu-ti-sa  (46)  id-di-in-ma  (47)  mart  it-ta-la-ad  (48)  wa-ar-
-ka-nu-um  (49)  amtum  si-i  (50)  it— ti  be-el-ti-sa  (51)  us-ta-tam-bi-ir
-(52)  d$-sum  mart  ul-du  (53)  be-li-za  (54)  a-na  kaspim  (55)  u-ul  i-na-
-ad-di-i§-si  (56)  ab-bu-ut-tam  (57)  i-sa-ak-ka-an-Si-ma  (58)  it-ti
+a-na  mu-ti-sa  (46)  id-di-in-ma  (47)  mart  it-ta-la-ad  (48)  wa-arka-nu-um  (49)  amtum  si-i  (50)  it— ti  be-el-ti-sa  (51)  us-ta-tam-bi-ir
+(52)  d$-sum  mart  ul-du  (53)  be-li-za  (54)  a-na  kaspim  (55)  u-ul  i-naad-di-i§-si  (56)  ab-bu-ut-tam  (57)  i-sa-ak-ka-an-Si-ma  (58)  it-ti
 amatim  (59)  i-ma-an-nu-si
 
-§  147.  (60)  §um-ma  mart  la  u-li-id  be-li-za  a-na  kaspim  i-na-ad-
-di-is-§i
+§  147.  (60)  §um-ma  mart  la  u-li-id  be-li-za  a-na  kaspim  i-na-addi-is-§i
 
 §  148.  (65)  Sum-ma  a-wi-lum  (66)  &s-s£-tam  (67)  i-bu-uz-ma
-(68)  la-ab-bu-um  (69)  is-sa-ba-az-zi  (70)  a-na  sa-ni-tim  (71)  a-fca-
-zi-im  (72)  pa-ni-su  (73)  is-ta-ka-an  (74)  i-ib-fca-az  (75)  as-sa-zu
+(68)  la-ab-bu-um  (69)  is-sa-ba-az-zi  (70)  a-na  sa-ni-tim  (71)  a-fcazi-im  (72)  pa-ni-su  (73)  is-ta-ka-an  (74)  i-ib-fca-az  (75)  as-sa-zu
 (76)  Sa  la-ab-bu-um  (77)  is-ba-tu  (78)  u-ul  i-iz-zi-ib-si  (79)  i-na  bit
 i-pu-su  (80)  us-sa-am-ma  (81)  a-di  ba-al-ta-at  it-ta-na-£s-si-si
 
-§  149.  [Column  IX,  r.]  (1)  §um-ma  sinniStum  §i-i  (2)  i-na  bit  mu-
-ti-§a  (3)  wa-§a-ba-am  (4)  la  im-ta-gar  (5)  §e-ri-ik-ta-sd  (6)  §4  is-tu
+§  149.  [Column  IX,  r.]  (1)  §um-ma  sinniStum  §i-i  (2)  i-na  bit  muti-§a  (3)  wa-§a-ba-am  (4)  la  im-ta-gar  (5)  §e-ri-ik-ta-sd  (6)  §4  is-tu
 bit  a-bi-sa  (7)  ub-lam  (8)  u-§a-lam-§im-ma  (9)  it-ta-al-la-ak
 
 §  150.  (10)  §um-ma  a-wi-lum  (11)  a-na  a§-§d-ti-su  (12)  eklam
 kiram  bitam  (13)  u  bi-§d-am  (14)  i§-ru-uk-§im  (15)  ku-nu-uk-kam
-(16)  i-zi-ib-si-im  (17)  wa-ar-ki  mu-ti-sa  (18)  maru-§a  u-ul  i-ba-ga-
-ru-si  (19)  um-mu-um  (20)  wa-ar-ka-za  (21)  a-na  mari-§d  (22)  §d
-i-ra-am-mu  (23)  i-na-ad-di-in  (24)  a-na  a-bi-im  (25)  u-ul  i-na-ad-
-di-in
+(16)  i-zi-ib-si-im  (17)  wa-ar-ki  mu-ti-sa  (18)  maru-§a  u-ul  i-ba-garu-si  (19)  um-mu-um  (20)  wa-ar-ka-za  (21)  a-na  mari-§d  (22)  §d
+i-ra-am-mu  (23)  i-na-ad-di-in  (24)  a-na  a-bi-im  (25)  u-ul  i-na-addi-in
 
-
-THE  CODE  OF  HAMMURAPI  433
 
 §  151.  If  a  woman,  who  is  dwelling  in  the  house  of  a
 man,  have  bound  (30)  her  husband  that  a  creditor  of  his
-may  not  hold  her  (for  the  husband's  debts)  and  have  com-
-pelled him  to  deliver  an  agreement,  (35)  if  that  man
+may  not  hold  her  (for  the  husband's  debts)  and  have  compelled him  to  deliver  an  agreement,  (35)  if  that  man
 were  in  debt  (40)  before  he  took  that  woman  his  creditor
 may  not  hold  his  wife,  and  if  that  woman  were  in  debt
 (45)  before  she  entered  the  house  of  the  man  (50)  her
@@ -26745,8 +24942,7 @@ woman.
 expel  (70)  that  man  from  the  city.
 
 §  155.  If  a  man  have  betrothed  a  bride  to  his  son,  and
-(75)  his  son  have  known  her,  and  if  he  (the  father)  after-
-ward lie  in  her  bosom,  and  they  have  caught  him,  they
+(75)  his  son  have  known  her,  and  if  he  (the  father)  afterward lie  in  her  bosom,  and  they  have  caught  him,  they
 shall  bind  (80)  that  man  and  [Column  X,  r.]  (1)  cast  him
 into  the  waters.
 
@@ -26767,8 +24963,7 @@ K-j    (45)  la-ma  a-na  bit  a-\vi-lim   (46)  i-ir-ru-bu   (47)  bu-bu-ul-lum
 
 (49)  i-ba-aS-§i  (50)  be-el  bu-bu-ul-li-§a  (51)  mu-za  u-ul
 
--'jSum-ma  iS-tu  (53)  sinniStum  §i-i  (54)  a-na  bit  a-wi-
-ru-bu     (56)  e-li-Su-nu     (57)  bu-bu-ul-lum     (58)  it-ta!>-si
+-'jSum-ma  iS-tu  (53)  sinniStum  §i-i  (54)  a-na  bit  a-wiru-bu     (56)  e-li-Su-nu     (57)  bu-bu-ul-lum     (58)  it-ta!>-si
 (60)  ki-la-la-§ii-nu  (60)  tamkaram  i-ip-pa-lu
 
 ;.  (61)  Sum-ma  a3-s:i-at  a-wi-lim  (62)  a§-§um  zi-ka-ri-im
@@ -26789,8 +24984,6 @@ a-n:i  mi-e  [Column  X,  r.]  (1)  i-na-ad-du-
 li-si
 
 
-434  CUNEIFORM  PARALLELS
-
 §  156.  If  a  man  have  (5)  betrothed  a  bride  to  his  son,
 and  his  son  have  not  known  her,  but  he  himself  have
 lain  in  her  bosom,  he  shall  (10)  pay  her  half  a  mina  of
@@ -26810,8 +25003,7 @@ from  his  father's  house.
 house  of  his  (prospective)  father-in-law,  and  has  given  a
 bride-price,  look  with  longing  upon  another  woman  and
 say  to  (40)  his  father-in-law,  "I  will  not  marry  thy
-daughter,"  the  father  of  the  daughter  shall  take  to  him-
-self (45)  all  that  he  brought  him.
+daughter,"  the  father  of  the  daughter  shall  take  to  himself (45)  all  that  he  brought  him.
 
 §  160.  If  a  man  have  brought  a  present  to  the  house
 of  his  (50)  father-in-law  and  have  given  a  bride-price,
@@ -26819,23 +25011,18 @@ and  the  father  of  the  daughter  (55)  say,  "I  will  not  give
 thee  my  daughter,"  he  (i.  e.,  the  father-in-law)  shall
 return  double  everything  that  he  brought  him.
 
-§  156.  (2)  §um-ma  a-wi-lum  (3)  a-na  mari-§u  (4)  kallatam  (5)  i-jji-
-ir-ma  (G)  mar-su  la  il-ma-zi-ma  (7)  §u-u  i-na  zu-ni-§a  (8)  it-ta-ti-iJ
+§  156.  (2)  §um-ma  a-wi-lum  (3)  a-na  mari-§u  (4)  kallatam  (5)  i-jjiir-ma  (G)  mar-su  la  il-ma-zi-ma  (7)  §u-u  i-na  zu-ni-§a  (8)  it-ta-ti-iJ
 (9)  miSil  mane  kaspim  (10)  i-§a-kal-§i-im-ma  (11)  u  mi-im-ma
 (12)  §a  i§-tu  (13)  bit  a-bi-§a  (14)'ub-lam  (15)  u-&a-lam-§i-im-ma
 (16)  mu-tu  li-ib-bi-§a  (17)  i-ifc-ba-az-zi
 
-§  157.  (18)  §um-ma  a-wi-lum  (19)  wa-ar-ki  a-bi-§u  (20)  i-na  zu-
-un  um-mi-§u  (21)  it-ta-ti-il  (22)  ki-la-li-su-nu  (23)  i-kal-lu-u-§u-nu-ti
+§  157.  (18)  §um-ma  a-wi-lum  (19)  wa-ar-ki  a-bi-§u  (20)  i-na  zuun  um-mi-§u  (21)  it-ta-ti-il  (22)  ki-la-li-su-nu  (23)  i-kal-lu-u-§u-nu-ti
 
-§  158.  (24)  §um-ma  a-wi-lum  (25)  wa-ar-ki  a-bi-^u  (26)  i-na  zu-
-un  (27)  ra-bi-ti-§u  (28)  §a  mart  wa-al-da-at  (29)  it-ta-as-ba-at
+§  158.  (24)  §um-ma  a-wi-lum  (25)  wa-ar-ki  a-bi-^u  (26)  i-na  zuun  (27)  ra-bi-ti-§u  (28)  §a  mart  wa-al-da-at  (29)  it-ta-as-ba-at
 (30)  a-wi-lum  §u-u  (31)  i-na  bit  abim  (?)  (32)  in-na-az-za-afc
 
-§  159.  (33)  §um-ma  a-wi-lum  (34)  §a  a-na  bit  e-mi-su  ^35)  bi-ib-
-lam  (36)  ii-§a-bi-lu  (37)  tir-Jja-tam  id-di-nu  (38)  a-na  sinni§tim  §a-
-ni-tim  (39)  up-ta-al-li-is-ma  (40)  a-na  e-mi-§u  (41)  marat-ka  (42)  u-
-ul  a-^a-az  ik-ta-bi  (43)  a-bi  martim  (44)  mi-im-ma  (45)  §a  ib-ba-
+§  159.  (33)  §um-ma  a-wi-lum  (34)  §a  a-na  bit  e-mi-su  ^35)  bi-iblam  (36)  ii-§a-bi-lu  (37)  tir-Jja-tam  id-di-nu  (38)  a-na  sinni§tim  §a-
+ni-tim  (39)  up-ta-al-li-is-ma  (40)  a-na  e-mi-§u  (41)  marat-ka  (42)  uul  a-^a-az  ik-ta-bi  (43)  a-bi  martim  (44)  mi-im-ma  (45)  §a  ib-ba-
 ab-lu-§um  (46)  i-tab-ba-al
 
 §  160.  (47)  §um-ma  a-wi-lum  (48)  a-na  bit  e-mi-im  (49)  bi-ib-lam
@@ -26843,8 +25030,6 @@ ab-lu-§um  (46)  i-tab-ba-al
 (54)  martl(i)  u-ul  a-na-ad-di-ik-kum  (55)  ik-ta-bi  (56)  mi-im-ma
 ma-la  (57)  ib-ba-ab-lu-§um  (58)  u§-ta-§a-an-na-ma  (59)  \i-ta-ar
 
-
-THE  CODE  OF  HAMMURAPI  435
 
 §  161.  (60)  If  a  man  have  brought  a  present  to  the
 house  of  his  father-in-law  and  have  given  a  bride-price,
@@ -26873,8 +25058,7 @@ him  the  bride-price,  he  may  deduct  all  the  bride-price
 from  her  marriage  settlement  and  (30)  shall  return  her
 marriage  settlement  to  the  house  of  her  father.
 
-§  161.  (60)  Sum-ma  a-wi-lum  (61)  a-na  bit  e-mi-Su  (62)  bi-ib-
-lam  u-Sa-bfl  (63)  tir-fca-tam  (64)  id-di-in-ma  (65)  i-bi-ir-Sii  (66)  uk-
+§  161.  (60)  Sum-ma  a-wi-lum  (61)  a-na  bit  e-mi-Su  (62)  bi-iblam  u-Sa-bfl  (63)  tir-fca-tam  (64)  id-di-in-ma  (65)  i-bi-ir-Sii  (66)  uk-
 tar-ri-zu  (67)  e-mu-Sii  (68)  a-na  be-el  aS-Sa-tim  (69)  marti(i)  ti-ul
 ta-ab-ba_az  (70)  ik-ta-bi  (71)  mi-im-ma  ma-la  (72)  ib-ba-ab-lu-Sum
 (73)  uS-ta-Sa-an-na-ma  (74)  u-ta-ar  (75)  A  a5-S£-zu  (76)  i-bi-ir-Su
@@ -26902,8 +25086,6 @@ DA    s(-ri-ik-ti-<a     (28)  ma-la     t ir-)ia-t i-Sii    (29)  i-bar-ra-as-m
 (30)  Se-ri-ilj:-ta-*a  (31)  a-na  lit  a-l.i-sa  (32)  u-ta-ar
 
 
-436  CUNEIFORM  PARALLELS
-
 2.  Children  and  Widows  (§§  165-195)
 §  165.  If  a  man  have  apportioned  to  his  son,  (35)  the
 first  in  his  eyes,  field,  garden,  or  house,  and  have  written
@@ -26922,21 +25104,17 @@ wife,  besides  his  share  they  shall  assign  him  money  as  a
 borne  him  children,  and  that  woman  have  (80)  gone  to
 her  fate,  and  after  her  he  have  taken  to  himself  another
 woman,  and  she  have  borne  him  children,  (85)  after  the
-father  has  gone  to  his  fate,  [Column  XII,  r.]  (1)  the  chil-
-dren shall  not  share  according  to  their  mothers.  They
-shall  (5)  take  the  marriage  settlements  of  their  respec-
-tive mothers  and  they  shall  divide  equally  the  goods  of
+father  has  gone  to  his  fate,  [Column  XII,  r.]  (1)  the  children shall  not  share  according  to  their  mothers.  They
+shall  (5)  take  the  marriage  settlements  of  their  respective mothers  and  they  shall  divide  equally  the  goods  of
 the  house  of  their  father.
 
 §  165.  (33)  Sum-ma  a-wi-lum  (34)  a-na  abli-5u  (35)  Sa  i-in-Sii
 mab-ru  (36)  eklam  kiram  u  bltam  (37)  iS-ru-uk  (38)  ku-nu-kam
-iS-fur-sum  (39)  wa-ar-ka  a-bu-um  (40)  a-na  Si-im-tim  (41)  it-ta-al-
-ku  (42)  i-nu-ma  ab-bu  (43)  i-zu-uz-zu  (44)  ki-is-ti  a-bu-um  (45)  id-
+iS-fur-sum  (39)  wa-ar-ka  a-bu-um  (40)  a-na  Si-im-tim  (41)  it-ta-alku  (42)  i-nu-ma  ab-bu  (43)  i-zu-uz-zu  (44)  ki-is-ti  a-bu-um  (45)  id-
 di-nu-Suin  (46)  i-li-ki-ma  (47)  e-li-nu-um-ma  (48)  i-na  namkur  bit
 abim  (?)  (49)  mi-it-ba-ri-iS  (50)  i-zu-uz-zu
 
-§  166.  (51)  sum-ma  a-wi-lum  (52)  a-na  marl  sa  ir-su-u  (53)  a5-5a-
-tim  i-bu-uz  (54)  a-na  mari-su  (55)  si-ib-ri-im  (56)  as-sa-tam  (57)  la
+§  166.  (51)  sum-ma  a-wi-lum  (52)  a-na  marl  sa  ir-su-u  (53)  a5-5atim  i-bu-uz  (54)  a-na  mari-su  (55)  si-ib-ri-im  (56)  as-sa-tam  (57)  la
 i-bu-uz  (58)  wa-ar-ka  a-bu-um  (59)  a-na  Si-im-tim  (60)  it-ta-al-ku
 (61)  i-nu-ma  ab~bu  (62)  i-zu-uz-zu  (63)  i-na  namkur  bit  abim  (?)
 (64)  a-na  a-bi-Sii-nu  (65)  si-ib-ri-im  (66)  Sa  as-sa-tam  (67)  la  ab-zu
@@ -26944,15 +25122,11 @@ i-bu-uz  (58)  wa-ar-ka  a-bu-um  (59)  a-na  Si-im-tim  (60)  it-ta-al-ku
 Sum-ma  (72)  £S-sd-tam  (73)  u-sa-ab-ba-zu-sii
 
 §  167.  (74)  Sum-ma  a-wi-lum  (75)  as-Sa-tam  (76)  i-bu-uz-ma
-(77)  marl  u-li-zum  (78)  sinniStum  Si-i  (79)  a-na  si-im-tim  (80)  it-ta-
-la-ak  (81)  wa-ar-ki-sa  (82)  sinnistam  Sa-ni-tam  (S3)  i-ta-ba-az-ma
-(84)  marl  it-ta-la-ad  (S5)  wa-ar-ka-nu-um  (86)  a-bu-um  a-na  Si-im-
-tim  (87)  it-ta-al-ku  [Column  XII,  r.]  (1)  marl  a-na  um-ma-tim
+(77)  marl  u-li-zum  (78)  sinniStum  Si-i  (79)  a-na  si-im-tim  (80)  it-tala-ak  (81)  wa-ar-ki-sa  (82)  sinnistam  Sa-ni-tam  (S3)  i-ta-ba-az-ma
+(84)  marl  it-ta-la-ad  (S5)  wa-ar-ka-nu-um  (86)  a-bu-um  a-na  Si-imtim  (87)  it-ta-al-ku  [Column  XII,  r.]  (1)  marl  a-na  um-ma-tim
 (2)  u-ul  i-zu-uz-zu  (3)  Se-ri-ik-ti  (4)  um-ma-ti-su-nu  (5)  i-li-ku-ma
 (6)  namkur  bit  abim  (?)  (7)  mi-it-ba-ri-is  (S)  i-zu-uz-zu
 
-
-THE  CODE  OF  HAMMURAPI  437
 
 §  168.  If  a  man  have  set  his  face  to  cut  off  (10)  his  son
 and  say  to  the  judges,  "I  will  cut  off  my  son,"  (15)  the
@@ -26962,8 +25136,7 @@ sonship,  the  father  shall  not  cut  off  his  son  from  sonship.
 
 §  169.  (25)  If  he  have  committed  against  his  father  a
 heavy  crime  which  cuts  off  sonship,  (30)  for  the  first
-offense  the  judges  shall  reconcile  them;  if  he  have  com-
-mitted a  heavy  crime  for  the  second  time  the  father
+offense  the  judges  shall  reconcile  them;  if  he  have  committed a  heavy  crime  for  the  second  time  the  father
 may  (35)  cut  off  his  son  from  sonship.
 
 §  170.  If  a  man's  wife  have  borne  him  children  and
@@ -26981,17 +25154,14 @@ choosing  and  taking.
 have  not  said  to  the  sons  whom   the  maidservant  bore
 
 §168.  (9)  £um-ma  a-wi-lum  (10)  a-na  mari-§u  (11)  na-sa-bi-im
-(12)  pa-nam  i§-ta-ka-an  (13)  a-na  da-a-a-ni  (14)  mart(i)  a-na-
-za-aljik-ta-bi  (15)  da-a-a-nu  (16)  wa-ar-ka-zu  (17)  i-par-ra-su-ma
-(18)  sum-ma  marum  ar-nam  kab-tam  (19)  §a  i-na  ab-lu-tim  (20)  na-
-sa-bi-im  (21)  la  ub-lam  (22)  a-bu-um  mdr-su  (23)  i-na  ab-lu-tim
+(12)  pa-nam  i§-ta-ka-an  (13)  a-na  da-a-a-ni  (14)  mart(i)  a-naza-aljik-ta-bi  (15)  da-a-a-nu  (16)  wa-ar-ka-zu  (17)  i-par-ra-su-ma
+(18)  sum-ma  marum  ar-nam  kab-tam  (19)  §a  i-na  ab-lu-tim  (20)  nasa-bi-im  (21)  la  ub-lam  (22)  a-bu-um  mdr-su  (23)  i-na  ab-lu-tim
 (24)  u-ul  i-na-za-alj
 
 §  169.  (25)  §um-ma  ar-nam  kab-tam  (26)  §&  i-na  ab-lu-tim
 (27)  na-sa-bi;im  (28)  a-na  a-bi-sii  (29)  it-ba-lam  (30)  a-na  i£-ti-i§-
 hu  (31)  pa-ni-su  ul>-l>a-lu  (32)  §um-ma  ar-nam  kab-tam  (33)  a-na
-si-ni-sii  it-ba-lam  (34)  a-bu-um  mar-su  (35)  i-na  ab-lu-tim  (36)  i-na-
-za-ab
+si-ni-sii  it-ba-lam  (34)  a-bu-um  mar-su  (35)  i-na  ab-lu-tim  (36)  i-naza-ab
 
 ».  (37)  Sum-ma  a-wi-lum   (3S)  bi-ir-ta-sii   (39)  mart  u-li-zum
 
@@ -27013,16 +25183,13 @@ hi-ir-tim     (53)  il     mari     ainlim     (54)  mi-it-ba-ri-iS     (55)  i-
 mart  h&  amtum  ul-du-Sum  (63)  maru-»'i-a  la  ik-ta-bi  (64)  wa-ar-ka
 
 
-438  CUNEIFORM  PARALLELS
-
 him,  "My  sons/'  after  the  father  (65)  has  gone  to  his
 fate,  the  sons  of  the  maidservant  (70)  shall  not  share  in
 the  goods  of  the  father's  house  with  the  children  of  the
 wife.  The  maidservant  and  her  sons  shall  receive  their
 freedom,  the  sons  of  the  wife  shall  have  no  claim  on
 (75)  the  children  of  the  maidservant  for  service.  The
-wife  shall  take  her  marriage  portion  and  (80)  the  settle-
-ment which  her  husband  gave  and  (85)  deeded  to  her  on
+wife  shall  take  her  marriage  portion  and  (80)  the  settlement which  her  husband  gave  and  (85)  deeded  to  her  on
 a  tablet,  and  she  may  dwell  in  the  house  of  her  husband,
 [Column  XIII,  r.]  (1)  and  enjoy  it  as  long  as  she  lives.
 She  shall  not  give  it  for  money,  for  after  her  it  (5)  is  her
@@ -27042,11 +25209,9 @@ and  the  husband  of  her  choice  (40)  may  take  her.
 
 
 a-bu-um  (65)  a-na  §i-im-tim  (66)  it-ta-al-ku  (67)  i-na  namkur  bit
-abim  (?)  (68)  mart  amtim  (69)  it-ti  mart  bi-ir-tim  (70)  u-ul  i-zu-
-uz-zu  (71)  an-du-ra-ar  (72)  amtim  u  m&rt-§a  (73)  i§-§a-ak-ka-an
+abim  (?)  (68)  mart  amtim  (69)  it-ti  mart  bi-ir-tim  (70)  u-ul  i-zuuz-zu  (71)  an-du-ra-ar  (72)  amtim  u  m&rt-§a  (73)  i§-§a-ak-ka-an
 (74)  mart  bwr-Um  (75)  a-na  mart  amtim  (76)  a-na  wa-ar-du-tim
-(77)  u-ul  i-ra-ag-gu-mu  (78)  bi-ir-tum  (79)  §e-ri-ik-ta-§a  (80)  u  nu-
-du-na-am  (81)  §&  mu-za  (82)  id-di-nu-£i-im  (83)  i-na  tup-pf-im
+(77)  u-ul  i-ra-ag-gu-mu  (78)  bi-ir-tum  (79)  §e-ri-ik-ta-§a  (80)  u  nudu-na-am  (81)  §&  mu-za  (82)  id-di-nu-£i-im  (83)  i-na  tup-pf-im
 (84)  i§-tu-ru-§i-im  (85)  i-li-ki-ma  (86)  i-na  §u-ba-at  (87)  mu-ti-§a
 u§-§a-ab  [Column  XIII,  r.]  (1)  a-di  ba-al-ta-at  i-ik-ka-al  (2)  a-na
 kaspim  (3)  u-ul  i-na-ad-di-in  (4)  wa-ar-ka-za  (5)  M,  mari-sit-ma
@@ -27054,28 +25219,21 @@ kaspim  (3)  u-ul  i-na-ad-di-in  (4)  wa-ar-ka-za  (5)  M,  mari-sit-ma
 §  172.  (6)  §um-ma  mu-za  (7)  nu-du-un-na-am  (8)  la  id-di-i&-8i-im
 (9)  §e-ri-ik-ta-§a  (10)  u-§a-la-mu-§i-im-ma  (11)  i-na  namkur  (12)  bit
 mu-ti-§d  (13)si-it-tam  (14)ki-maablimi§-te-en(15)i-li-ki  (16)§um-ma
-mart-§a  (17)  a§-§um  i-na  bltim  §u-zi-im  (18)  u-za-ab-ba-mu-§i  (19)  da-
-a-a-nu  (20)  wa-ar-ka-za  (21)i-par-ra-su-ma  (22)  mart  ar-nam  (23)i-im-
-mi-du  (24)  sinniStum  §i-i  (25)  i-na  bit  mu-ti-§a  (26) u-ul  uz-zi  (27)  Sum-
-ma  sinniStum  §i-i  (28)  a-na  wa-si-im  (29)  pa-ni-§a  (30)  i§-ta-ka-an
+mart-§a  (17)  a§-§um  i-na  bltim  §u-zi-im  (18)  u-za-ab-ba-mu-§i  (19)  daa-a-nu  (20)  wa-ar-ka-za  (21)i-par-ra-su-ma  (22)  mart  ar-nam  (23)i-im-
+mi-du  (24)  sinniStum  §i-i  (25)  i-na  bit  mu-ti-§a  (26) u-ul  uz-zi  (27)  Summa  sinniStum  §i-i  (28)  a-na  wa-si-im  (29)  pa-ni-§a  (30)  i§-ta-ka-an
 (31)  nu-du-un-na-am  (32)  sa  mii-za  (33)  ld-di-nu-si-im  (34)  a-na
-mart-§a  (35)  i-iz-zi-ib  (36)  §e-ri-ik-tam  (37)  §a  bit  a-bi-§a  (38)  i-li-
-ki-ma  (39)  mu-ut  li-ib-bi-§d  (40)  i-ib-ba-az-zi
+mart-§a  (35)  i-iz-zi-ib  (36)  §e-ri-ik-tam  (37)  §a  bit  a-bi-§a  (38)  i-liki-ma  (39)  mu-ut  li-ib-bi-§d  (40)  i-ib-ba-az-zi
 
-
-THE  CODE  OF  HAMMURAPI  439
 
 §  173.  If  that  woman  where  she  has  entered  have
 borne  (45)  children  to  her  later  husband,  after  that
 woman  has  died  the  former  and  later  sons  (50)  shall
 divide  her  marriage  portion.
 
-§  174.  If  she  have  not  borne  children  to  her  later  hus-
-band, the  sons  (55)  of  her  first  husband  shall  divide  her
+§  174.  If  she  have  not  borne  children  to  her  later  husband, the  sons  (55)  of  her  first  husband  shall  divide  her
 marriage  portion.
 
-§  175.  If  either  a  slave  of  the  palace  or  a  slave  of  a  f reed-
-man  take  the  (60)  daughter  of  a  gentleman  to  wife,  and  she
+§  175.  If  either  a  slave  of  the  palace  or  a  slave  of  a  f reedman  take  the  (60)  daughter  of  a  gentleman  to  wife,  and  she
 have  borne  sons,  the  owner  of  the  slave  may  not  lay  claim
 (65)  to  the  sons  of  the  daughter  of  a  gentleman  for  service.
 
@@ -27088,35 +25246,25 @@ the  slave  of  the  palace  or  the  slave  of  a  freedman,
 property,  and  if  later  the  slave  of  the  palace  or  (85)  the
 slave  of  a  freedman  have  gone  to  his  fate,  the  daughter
 of  the  gentleman  shall  (90)  take  her  marriage  portion,
-and  they  shall  divide  into  two  parts  whatever  her  hus-
-band and  she  had  acquired  [Column  XIV,  r.]  (1)  from
+and  they  shall  divide  into  two  parts  whatever  her  husband and  she  had  acquired  [Column  XIV,  r.]  (1)  from
 the  time  when  they  had  joined  hands,  and  (5)  the  owner
 
-§  173.  (41)  §um-ma  sinniStum  8i-i  (42)  a-§ar  i-ru-bu  (43)  a-na  mu-
-ti-Sa  (44)  wa-ar-ki-im  (45)  mart  it-ta-la-ad  (46)  wa-ar-ka  sinniStum
-§i-i  ira-tu-ut  (47)  §e-ri-ik-ta-§d  (48)  mart  majj-ru-tum  (49)  u  wa-ar-
-ku-tum  (50)  i-zu-uz-zu
+§  173.  (41)  §um-ma  sinniStum  8i-i  (42)  a-§ar  i-ru-bu  (43)  a-na  muti-Sa  (44)  wa-ar-ki-im  (45)  mart  it-ta-la-ad  (46)  wa-ar-ka  sinniStum
+§i-i  ira-tu-ut  (47)  §e-ri-ik-ta-§d  (48)  mart  majj-ru-tum  (49)  u  wa-arku-tum  (50)  i-zu-uz-zu
 
 §  174.  (51)  §um-ma  a-na  mu-ti-Sa  (52)  wa-ar-ki-im  (53)  mari  la
 it-t;i-la-ad  (54)  £e-ri-ik-ta-§a  (55)  mart a  b&-wi-ri-S£-ma  (56)  i-li-ku-u
 
-5.  (57)  §um-ma  lu  warad  ekallim  (58)  u  lu  warad  (59)  mus-
-k.'nirn  (60)  marat  a-wi-lim  (61)  i-bu-uz-ma  (62)  mart  (63)  it-ta-la-ad
-(64)  l>o-el  wardim  (65)  a-na  mart  (66)  marat  a-wi-lim  (67)  a-na  wa-
-ar-du-tim  (68)  u-ul  i-ra-ag-gu-um
+5.  (57)  §um-ma  lu  warad  ekallim  (58)  u  lu  warad  (59)  musk.'nirn  (60)  marat  a-wi-lim  (61)  i-bu-uz-ma  (62)  mart  (63)  it-ta-la-ad
+(64)  l>o-el  wardim  (65)  a-na  mart  (66)  marat  a-wi-lim  (67)  a-na  waar-du-tim  (68)  u-ul  i-ra-ag-gu-um
 
 §  176.  (69)  u  §um-ma  warad  i-kallim  (70)  u  lu  warad  muskrnim
-(71)  marat  a-wi-lim  (72)  i-bu-uz-ma  (73)  i-nu-ma  i-fcu-zu-Si  (71)  ga-
-du-um  (75)  §e-ri-ik-tim  (76)  Sa  bit  a-bi-§a  (77)  a-na  bit  warad
-<*k:illim  (78)  u  lu  warad  muskrnim  (79)  i-ni-ub-ma  (80)  i§-tu  in-ne-
-im-du  (81)  bitam  i-pu-su  (82)  bi-Sa-am  ir  si'i-u  (83)  wa-ar-ka-nu-um-
+(71)  marat  a-wi-lim  (72)  i-bu-uz-ma  (73)  i-nu-ma  i-fcu-zu-Si  (71)  gadu-um  (75)  §e-ri-ik-tim  (76)  Sa  bit  a-bi-§a  (77)  a-na  bit  warad
+<*k:illim  (78)  u  lu  warad  muskrnim  (79)  i-ni-ub-ma  (80)  i§-tu  in-neim-du  (81)  bitam  i-pu-su  (82)  bi-Sa-am  ir  si'i-u  (83)  wa-ar-ka-nu-um-
 ma  (84)  lu  \v:ir:i<l  rkallim  (85)  u  lu  war.nl  niuskrnim  (86)  a-na  Si-
-)  it-ta-la-ak  (88)  marat  a-wi-lim  (89)  Se-ri-ik-ta-kl  (90)  i-
-li-ki  (91)0  nn'-ini-rn:i  f 92)  M  inu-z.i  u  si-i  [Colunui  \I\'.  r.]  (1)  i§-
+)  it-ta-la-ak  (88)  marat  a-wi-lim  (89)  Se-ri-ik-ta-kl  (90)  ili-ki  (91)0  nn'-ini-rn:i  f 92)  M  inu-z.i  u  si-i  [Colunui  \I\'.  r.]  (1)  i§-
 tu  in-ne-im-du  (2)  ir-§ii-u  (3)  a-na  §i-ni-5u  (4)  i-zu-uz-zu-ma  (5)  mi-
 
-
-440  CUNEIFORM  PARALLELS
 
 of  the  slave  shall  take  one  half  and  the  daughter  of  the
 gentleman  shall  receive  one  half  for  her  children.
@@ -27125,8 +25273,7 @@ gentleman  shall  receive  one  half  for  her  children.
 marriage  portion,  they  shall  divide  (15)  into  two  parts
 whatever  her  husband  and  she  had  acquired  from  the
 time  when  they  joined  hands;  the  owner  of  the  slave
-shall  receive  one  half  and  (20)  the  daughter  of  the  gen-
-tleman shall  receive  one  half  for  her  children.
+shall  receive  one  half  and  (20)  the  daughter  of  the  gentleman shall  receive  one  half  for  her  children.
 
 §  177.  If  a  widow,  whose  children  are  minors,  have
 set  her  face  to  enter  (25)  another  house,  she  shall  not
@@ -27134,8 +25281,7 @@ enter  without  the  (30)  consent  of  the  judges.  When  she
 has  entered  another  house  the  judges  shall  inquire  into
 (35)  the  residue  of  her  former  husband's  estate  and  they
 shall  entrust  the  house  of  her  (40)  former  husband  to  her
-later  husband  and  that  woman  and  cause  them  to  re-
-ceive (45)  a  deed.  They  shall  administer  the  property  and
+later  husband  and  that  woman  and  cause  them  to  receive (45)  a  deed.  They  shall  administer  the  property  and
 rear  the  minor  children.  Not  an  (50)  utensil  shall  they
 sell  for  money.  The  purchaser  that  has  bought  a  utensil
 belonging  to  the  (55)  sons  of  a  widow  shall  lose  his  money,
@@ -27153,34 +25299,26 @@ i§-lam  be-el  wardim  (6)  i-li-ki  (7)  mi-iS-lam  (8)  marat  a-wi-lim
 a-na  £i-ni-§u  (16)  i-zu-uz-zu-ma  (17)  mi-i§-lam  be-el  wardim  (18)
 i-li-ki  (19)  mi-i§-lam  (20)  m&rat  a-wi-lim  (21)  a-na  mari-§a  i-li-ki
 
-§  177.  (22)  §um-ma  almattum  (?)  (23)  §a  maru-Sa  (24)  si-ib-fci-
-ru  (25)  a-na  bitim  §a-ni-im  (26)  e-ri-bi-im  (27)  pa-ni-§&  (28)  i§-ta-
+§  177.  (22)  §um-ma  almattum  (?)  (23)  §a  maru-Sa  (24)  si-ib-fciru  (25)  a-na  bitim  §a-ni-im  (26)  e-ri-bi-im  (27)  pa-ni-§&  (28)  i§-ta-
 ka-an  (29)  ba-lum  da-a-a-ni  (30)  ii-ul  i-ir-ru-ub  (31)  i-nu-ma  (32)  a-na
 bltim  §ii-ni-im  (33)  i-ir-ru-bu  (34)  da-a-a-nu  (35)  wa-ar-ka-at  (36)  bit
-mu-ti-s&  (37)  pa-ni-im  (38)  i-par-ra-su-ma  (39)  bitam  §a  mu-ti-
-pa-ni-im  (41)  a-na  mu-ti-§&  (42)  wa-ar-ki-im  (43)  u  sinniStim  su-a-ti
+mu-ti-s&  (37)  pa-ni-im  (38)  i-par-ra-su-ma  (39)  bitam  §a  mu-tipa-ni-im  (41)  a-na  mu-ti-§&  (42)  wa-ar-ki-im  (43)  u  sinniStim  su-a-ti
 (44)  i-pa-ak-ki-du-ma  (45)  tup-pa-am  (46)  u-§e-iz-zi-bu-§u-nu-ti  (47)
-bitam  i-na-sa-ru  (48)  u  si-ib-bi-ru-tim  (49)  u-ra-ab-bu-u  (50)  \i-ni-
-a-tim  (51)  a-na  kaspim  (52)  u-ul  i-na-ad-di-nu  (53)  §d-a-a-ma-nu-um
+bitam  i-na-sa-ru  (48)  u  si-ib-bi-ru-tim  (49)  u-ra-ab-bu-u  (50)  \i-nia-tim  (51)  a-na  kaspim  (52)  u-ul  i-na-ad-di-nu  (53)  §d-a-a-ma-nu-um
 (54)  §d  li-nu-ut  (55)  mart  almattim  (?)  (56)  i-§a-am-mu  (57)  i-na
 kaspi-§u  (58)  i-te-el-li  (59)  namkurum  a-na  be-H-§u  (60)  i-ta-ar
 
-§  178.  (61)  §um-ma  entum  isippatum  (?)  (62)  u  lu  (sinni§at)  zi-
-ik-ru-um  (63)  §&  a-bu-§d  (64)  §e-ri-ik-tam  (65)  i§-ru-ku-si-im
+§  178.  (61)  §um-ma  entum  isippatum  (?)  (62)  u  lu  (sinni§at)  ziik-ru-um  (63)  §&  a-bu-§d  (64)  §e-ri-ik-tam  (65)  i§-ru-ku-si-im
 (66)  tup-pa-am  (67)  is-tu-ru-§i-im  (68)  i-na  tup-pi-im  (69)  §a  is-tu-
 
 
-THE  CODE  OF  HAMMURAPI  441
-
-for  her  he  has  not,  however,  written  that  she  may  dis-
-pose (70)  of  her  estate  as  she  pleases,  and  has  not  given
+for  her  he  has  not,  however,  written  that  she  may  dispose (70)  of  her  estate  as  she  pleases,  and  has  not  given
 
 (75)  her  full  discretion,  after  the  father  has  gone  to  his
 fate  (80)  her  brothers  shall  take  her  field  and  her  garden
 and  according  to  the  value  of  her  share  they  shall  (85)  give
 her  grain,  oil,  and  wool,  and  shall  content  her  heart.  If
-her  brothers  have  not  given  her  grain,  oil,  and  wool,  ac-
-cording to  the  value  of  (90)  her  share,  and  have  not  con-
+her  brothers  have  not  given  her  grain,  oil,  and  wool,  according to  the  value  of  (90)  her  share,  and  have  not  con-
 tented [Column  XV,  r.]  (1)  her  heart,  she  may  give  field
 or  her  garden  to  any  cultivator  (5)  she  may  please,  and
 her  cultivator  shall  maintain  her.  The  .field,  garden,  or
@@ -27204,18 +25342,15 @@ ru-6i-ini  (70)  wa-ar-ka-za  (71)  e-ma  e-li-§d  (72)  ta-bu  na-da-nam
 (76)  wa-ar-ka  a-bu-um  (77)  a-na  §i-im-tim  (78)  lt-ta-al-ku  (79)  ekil-
 §a  u  kira-§d  (80)  ab-fcu-Sd  (81)  i-li-ku-ma  (82)  ki-ma  e-mu-uk
 (83)  zi-it-ti-§a  (84)  epram  pittatam  u  lubuSam  (85)  i-na-ad-di-nu-
-Sim-ma  (86)  li-ib-ba-§d  (87)  u-ta-ab-bu  (88)  §um-ma  ajj-Jju-Sd  (89)  ki-
-ma  e-mu-uk  (90)  zi-it-ti-sa  (91)  epram  piSSatam  u  lubuSam  (92)  la
-it-ta-ad-nu-§i-im-ma  [Column  XV,  r.]  (1)  li-ib-ba-§a  (2)  la  ut-ti-ib-
-bu  (3)  ekil-§d  u  kira-§a  (4)  a-na  ir-ri-si-im  (5)  §a  e-li-§d  ta-bu  (6)  i-na-
+Sim-ma  (86)  li-ib-ba-§d  (87)  u-ta-ab-bu  (88)  §um-ma  ajj-Jju-Sd  (89)  kima  e-mu-uk  (90)  zi-it-ti-sa  (91)  epram  piSSatam  u  lubuSam  (92)  la
+it-ta-ad-nu-§i-im-ma  [Column  XV,  r.]  (1)  li-ib-ba-§a  (2)  la  ut-ti-ibbu  (3)  ekil-§d  u  kira-§a  (4)  a-na  ir-ri-si-im  (5)  §a  e-li-§d  ta-bu  (6)  i-na-
 ad-di-in-ma  (7)  ir-ri-za  (8)  it-ta-na-dS-§i-£i  (9)  eklam  kiram  (10)
 u    mi-irn-ma    (11)  §a    a-bu-§d    (12)  id-di-nu-§i-im   (13)  a-<li  ba-al-
 
 kal  (14)  a-na  kaspim  (l.r))u-ul  i-ua-:i(l-di-in  (16)  Sd-ni-a-am
 (17)u-ul  a-uj>-pa-al  (IS)  al>-lu-za  (19)  s:l  alj-jji-^d-ma
 
-».  (20)  ftum-nm  cnturti  Btippafom  (?)  (21)  u  lu  (siunisat)  zi-
-ik-ru-um  (22)  Sd  a-bu-&d  (23)  §e-ri-ik  is-m-ku-§i-im  (25)  ku-
+».  (20)  ftum-nm  cnturti  Btippafom  (?)  (21)  u  lu  (siunisat)  ziik-ru-um  (22)  Sd  a-bu-&d  (23)  §e-ri-ik  is-m-ku-§i-im  (25)  ku-
 
 is-tu-ru-si-im   (27)1-11:1  tup-pf-im  (28)  Sd  is-tu-r
 
@@ -27227,18 +25362,14 @@ i-ia  li-ii.-i  kj  (:r>)  w.i- :
 e-li-6d  ta-bu  ( loj  i-na-ad-di-iu  ( 11 )  alj-^u-sd  (42)  u-ul  i-ba-ag-ga-ru-8i
 
 
-442  CUNEIFORM  PARALLELS
-
-§  180.  If  a  father  have  not  granted  a  marriage  settle-
-ment to  his  daughter,  who  is  (45)  a  votary  or  a  vowed
+§  180.  If  a  father  have  not  granted  a  marriage  settlement to  his  daughter,  who  is  (45)  a  votary  or  a  vowed
 female,  after  the  father  has  gone  (50)  to  his  fate  she
 shall  receive  as  her  share  in  the  goods  of  her  father's
 house  (55)  the  portion  of  a  son,  and  she  shall  enjoy  it  as
 long  as  she  lives.    After  her  it  belongs  to  her  brothers.
 
 §  181.  (60)  If  a  father  have  vowed  to  a  god  a  votary  or
-a  hierodule,  and  (65)  have  not  given  her  a  marriage  por-
-tion, after  the  father  has  gone  to  his  fate  she  shall  receive
+a  hierodule,  and  (65)  have  not  given  her  a  marriage  portion, after  the  father  has  gone  to  his  fate  she  shall  receive
 as  her  share  in  the  goods  of  her  father's  house  (70)  one
 third  the  portion  of  a  son,  and  she  shall  enjoy  it  as  long
 as  she  lives.    (75)  After  her  it  belongs  to  her  brothers.
@@ -27259,12 +25390,10 @@ his  daughter  who  is  a  concubine,  and  give  her  to  a  hus-
 gairim  (46)  u  lu  (sinniSat)  zi-ik-ru-um  (47)  Se-ri-ik-tam  (48)  la  i§-(ru)-
 uk -si-im  (49)  wa-ar-ka  a-bu-um  (50)  a-na  £i-im-tini  (51)  it-ta-al-ku
 (52)  i-na  namkur  bit  abim  (?)  (53)  si-it-tam  ki-raa  (54)  ab-lim  i§-
-te-en  (55)  i-za-az-ma  (56)  a-di  ba-al-ta-at  (57)  i-ik-ka-al  (58)  wa-
-ar-ka-za  (59)  §a  ab-{u-i&-ma
+te-en  (55)  i-za-az-ma  (56)  a-di  ba-al-ta-at  (57)  i-ik-ka-al  (58)  waar-ka-za  (59)  §a  ab-{u-i&-ma
 
 §  181.  (60)  §um-ma  a-bu-um  (61)  iSippatam  kadiStam  (62)  u  lu
-z&rma§itam  (63)  a-na  ilim  i§-§i-ma  (64)  Se-ri-ik-tam  (65)  la  i§-ru-
-uk-si-im  (66)  wa-ar-ka  a-bu-um  (67)  a-na  §i-im-tim  (68)  it-ta-al-ku
+z&rma§itam  (63)  a-na  ilim  i§-§i-ma  (64)  Se-ri-ik-tam  (65)  la  i§-ruuk-si-im  (66)  wa-ar-ka  a-bu-um  (67)  a-na  §i-im-tim  (68)  it-ta-al-ku
 (69)  i-na  namkur  bit  abim  (?)  (70)  SaluSta  abluti-£a  (71)  i-za-az-ma
 (72)  a-di  ba-al-ta-at  (73)  i-ik-ka-al  (74)  wa-ar-ka-za  (75)  §a  ab-ba-
 Sa-ma
@@ -27277,18 +25406,14 @@ Si-im  (S2)  ku-nu-kam  (83)  la  i§-tur-Si-im  (84)  wa-ar-ka  a-bu-um
 (92)  u-ul  i-il-la-ak  (93)  iSippat  (?)  (ilu)  Marduk  (94)  wa-ar-ka-za
 (95)  e-ma  e-li-sa  (96)  ta-bu  [Column  XVI,  r.]  (1)  i-na-ad-di-in
 
-5  183.  (2)  §um-ma  a-bu-um  (3)  a-na  marti-§u  §tJ.  GE-tim  (4)  Se-
-ri-ik-tam  (5)  iS-ru-uk-§i-im  (6)  a-na  mu-tim  (7)  id-di-i§-§i  (8)  ku-nu-
+5  183.  (2)  §um-ma  a-bu-um  (3)  a-na  marti-§u  §tJ.  GE-tim  (4)  Seri-ik-tam  (5)  iS-ru-uk-§i-im  (6)  a-na  mu-tim  (7)  id-di-i§-§i  (8)  ku-nu-
 
-
-THE  CODE  OF  HAMMURAPI  443
 
 band  and  write  a  deed,  (10)  after  the  father  has  gone  to
 his  fate  she  shall  not  share  in  the  goods  of  her  father's
 house.
 
-§  1S4.  (15)  If  a  man  have  not  granted  a  marriage  set-
-tlement to  his  daughter  by  a  concubine,  and  have  not
+§  1S4.  (15)  If  a  man  have  not  granted  a  marriage  settlement to  his  daughter  by  a  concubine,  and  have  not
 given  her  (20)  to  a  husband,  after  the  father  has  gone  to
 his  fate  (25)  her  brothers,  according  to  the  fortune  of
 her  father's  house,  shall  grant  her  a  marriage  settlement
@@ -27297,8 +25422,7 @@ and  (30)  give  her  to  a  husband.
 §  185.  If  a  man  have  taken  a  young  child  (35)  to  sonship,
 and  have  reared  him,  no  one  may  bring  claim  for  that  child.
 
-§  186.  If  a  man  have  taken  (40)  a  young  child  to  son-
-ship,  and  when  he  has  taken  him  he  is  rebellious  against
+§  186.  If  a  man  have  taken  (40)  a  young  child  to  sonship,  and  when  he  has  taken  him  he  is  rebellious  against
 his  (adopted)  father  and  (45)  mother,  that  adopted  son
 shall  return  to  the  house  of  his  father.
 
@@ -27306,8 +25430,7 @@ shall  return  to  the  house  of  his  father.
 chamberlain,  who  is  a  palace  warder,  or  for  the  son  of  a
 vowed  woman.
 
-§  188.  If  an  artisan  have  taken  (55)  a  son  for  adop-
-tion, and  have  taught  him  his  handicraft,  no  one  may
+§  188.  If  an  artisan  have  taken  (55)  a  son  for  adoption, and  have  taught  him  his  handicraft,  no  one  may
 bring  claim  for  that  child.
 
 §  189.  (60)  If  he  have  not  taught  him  his  handicraft
@@ -27317,8 +25440,7 @@ uk-kam  (9)  i§-tur-§i-im  (10)  wa-ar-ka  a-bu-um  (11)  a-na  §i-im-tim
 (12)  it-ta-al-ku  (13)  i-na  namkur  bit  abim  (?)  (14)  u-ul  i-za-az
 
 §  184.  (15)  Sum-ma  a-wi-lum  (16)  a-na  marti-§u  (17)  §tJ.GE-tim
-(18)  Se-ri-ik-tam  (19)  la  iS-ru-uk-Sim  (20)  a-na  mu-tim  (21)  la  id-
-di-i§-£i  (22)  wa-ar-ka  a-bu-um  (23)  a-na  §i-im-tiin  (24)  it-ta-al-ku
+(18)  Se-ri-ik-tam  (19)  la  iS-ru-uk-Sim  (20)  a-na  mu-tim  (21)  la  iddi-i§-£i  (22)  wa-ar-ka  a-bu-um  (23)  a-na  §i-im-tiin  (24)  it-ta-al-ku
 (25)  ab-bii-§a  (26)  ki-ma  e-mu-uk  bit  abim  (?)  (27)  Se-ri-ik-tam
 (28)  i-Sar-ra-ku-Si-im-ma  (29)  a-na  mu-tim  (30)  i-na-ad-di-nu-&i
 
@@ -27326,8 +25448,7 @@ di-i§-£i  (22)  wa-ar-ka  a-bu-um  (23)  a-na  §i-im-tiin  (24)  it-ta-al-ku
 (34)  a-na  ma-ru-tim  (35)  il-ki-ma  (36)  iir-ta-ab-bi-Su  (37)  tar-bi-tum
 Si-i  (38)  u-ul  ib-ba-ak-kar
 
-§  186.  (39)  Sum-ma  a-wi-lum  (40)  si-ib-ra-am  (41)  a-na  ma-ru-
-tim  il-ki  (42)  i-nu-ma  (43)  il-ku-u-Su  (44)  a-ba-su  (45)  u  uni-ma-Su
+§  186.  (39)  Sum-ma  a-wi-lum  (40)  si-ib-ra-am  (41)  a-na  ma-rutim  il-ki  (42)  i-nu-ma  (43)  il-ku-u-Su  (44)  a-ba-su  (45)  u  uni-ma-Su
 (46)  i-bi-a-at  (47)  tar-l>i-tum  Si-i  (48)  a-na  bit  a-bi-§u  (49)  i-ta-ar
 
 §  187.  (50)  mar  manzaz  panim  (51)  mu-za-az  £kallim  (52)  u  mar
@@ -27336,11 +25457,8 @@ tim  il-ki  (42)  i-nu-ma  (43)  il-ku-u-Su  (44)  a-ba-su  (45)  u  uni-ma-Su
 3.  (54)  §um-raa  mar  ummanim   (65)  niaram   a-na  tar-bi-tim
 il-ki-ma  (57)  Si-pf-ir  ga-ti-sfi  (68)  uS-ta-fci-zu  (59)  u-ul  ib-ba-kar
 
-J  189.  (60)  Sum-ma  Si-pf-ir  ga-ti-Su  (61)  la  uS-ta-bi-zu  (62)  tar-
-bi-tum  §i-i  (63)  a-na  bit  a-bi-5u  (61)  i-ta-ar
+J  189.  (60)  Sum-ma  Si-pf-ir  ga-ti-Su  (61)  la  uS-ta-bi-zu  (62)  tarbi-tum  §i-i  (63)  a-na  bit  a-bi-5u  (61)  i-ta-ar
 
-
-444  CUNEIFORM  PARALLELS
 
 §  190.  (65)  If  a  man  have  not  numbered  (70)  with  his
 sons  the  young  child  whom  he  has  taken  to  his  sonship
@@ -27370,15 +25488,12 @@ house,  they  shall  pluck  out  his  eye.
 §  194.  If  a  man  (25)  have  given  his  son  to  a  wet-nurse,
 and  that  son  have  died  in  the  hands  of  the  wet-nurse,  and
 
-§  190.  (65)  §um-ma  a-\vi-lura  (66)  si-ib-ra-am  (67)  §£  a-na  ma-
-ru-ti-§u  (6S)  il-ku-§u-ma  (60)  u-ra-ab-bu-§u  (70)  it-ti  mart-§u  (71)  la
+§  190.  (65)  §um-ma  a-\vi-lura  (66)  si-ib-ra-am  (67)  §£  a-na  maru-ti-§u  (6S)  il-ku-§u-ma  (60)  u-ra-ab-bu-§u  (70)  it-ti  mart-§u  (71)  la
 im-ta-nu-§u  (72)  tar-bi-tum  si-i  (7:i)  a-na  bit  a-bi-§u  (74)  i-ta-ar
 
-§  191.  (75)  §um-ma  a-wi-lum  (76)  si-ib-ra-am  (77)  §a  a-na  raa-
-ru-ti-§u  (78)  il-ku-su-ma  (79)  u-ra-ab-bu-u-§u  (80)  l»it-zu  i-pu-us
+§  191.  (75)  §um-ma  a-wi-lum  (76)  si-ib-ra-am  (77)  §a  a-na  raaru-ti-§u  (78)  il-ku-su-ma  (79)  u-ra-ab-bu-u-§u  (80)  l»it-zu  i-pu-us
 (81)  wa-ar-ka  mart  (82)  ir-ta-§i-ma  (83)  a-na  tar-bi-tiin  na-sa-pi-ira
-(84)  pa-nara  i§-ta-ka-an  (85)  marum  §u-u  ri-ku-zu  (86)  u-ul  it-ta-
-al-la-ak  (87)  a-bu-um  mu-ra-bi-Su  (88)  i-na  namkuri-su  (s(i)  Saluilti
+(84)  pa-nara  i§-ta-ka-an  (85)  marum  §u-u  ri-ku-zu  (86)  u-ul  it-taal-la-ak  (87)  a-bu-um  mu-ra-bi-Su  (88)  i-na  namkuri-su  (s(i)  Saluilti
 abluti-§u  (90)  i-na-ad-di-i§-§um-ma  (91)  it-ta-la-ak  (92)  i-na  eklim
 kirim  (93)  it  bitim  (94)  u-ul  i-na-ad-di-  (95)  i§-§um
 
@@ -27388,15 +25503,12 @@ lu  mar  (sinniSat)  zi-ik-ru-um  (2)  a-na  a-bi-im  (3)  mu-ra-bi-§u
 at^ti  ik-ta-bi  (8)  Ii§an-§u  (9)  i-na-ak-ki-su
 
 §  193.  (10)  §um-ma  mar  manzaz  panim  (11)  u  lu  mar  (sinniSat)
-zi-ik-ru-um  (12)  bit  a-bi-§u  (13)  u-we-id-di-ma  (14)  a-ba-am  (15)  mu-
-ra-bi-§u  (16)  u  um-ma-am  (17)  mu-ra-bi-zu  (18)  l-fii-ir-ma  (19)  a-na
+zi-ik-ru-um  (12)  bit  a-bi-§u  (13)  u-we-id-di-ma  (14)  a-ba-am  (15)  mura-bi-§u  (16)  u  um-ma-am  (17)  mu-ra-bi-zu  (18)  l-fii-ir-ma  (19)  a-na
 bit  a-bi-§u  (20)  it-ta-la-ak  (21)  i-in-§u  (22)  i-na-za-bu
 
 §  194.  (23)  §um-ma  a-wi-lum  (24)  mar-§u  a-na  mu-§e-ni-ik-tim
 (25)  id-di-in-ma   (26)  marum   §u-u   (27)  i-na  ga-at  mu-§e-ni-ik-tim
 
-
-THE  CODE  OF  HAMMURAPI  445
 
 the  wet-nurse,  (30)  without  consent  of  the  father  and
 mother,  have  substituted  another  child,  they  shall  call
@@ -27410,8 +25522,7 @@ off  his  hands.
 B.  Injuries  (§§  196-214)
 1.   To  Moles  (§§  196-208)
 
-§  196.  (45)  If  a  man  have  destroyed  the  eye  of  a  gen-
-tleman, they  shall  destroy  his  eye.
+§  196.  (45)  If  a  man  have  destroyed  the  eye  of  a  gentleman, they  shall  destroy  his  eye.
 
 §  197.  (50)  If  he  have  broken  a  gentleman's  bone'
 they  shall  break  his  bone.
@@ -27420,8 +25531,7 @@ they  shall  break  his  bone.
 or  have  broken  the  bone  of  a  freedman,  he  shall  pay  one
 mina  of  silver.
 
-§  199.  (60)  If  he  have  destroyed  the  eye  of  a  gentle-
-man's slave,  or  have  broken  the  bone  of  a  gentleman's
+§  199.  (60)  If  he  have  destroyed  the  eye  of  a  gentleman's slave,  or  have  broken  the  bone  of  a  gentleman's
 slave,  (65)  he  shall  pay  one  half  his  price.
 
 §  200.  If  a  man  have  knocked  out  the  tooth  of  a  man
@@ -27430,16 +25540,13 @@ of  his  own  rank,  (70)  they  shall  knock  out  his  tooth.
 §  201.  If  he  have  knocked  out  the  tooth  of  a  freedman,
 he  shall  pay  one  third  of  a  mina  of  silver.
 
-(28)  im-tu-ut  (29)  mu-se-ni-ik-tum  (30)  ba-lum  a-bi-su  (31)  u  um-
-mi-su  (32)  maram  sa-ni-a-am-ma  (33)  ir-ta-ka-a3  (34)  u-ka-an-nu-§i-
-ma  (35)  a§-sum  ba-lum  a-bi-[§]u  (36)  u  um-mi-§[u]  (37)  maram  §a-
-ni-a-a[m]  (38)  ir-ku-[su]  (39)  tula-sd  (40)  i-na-ak-ki-su
+(28)  im-tu-ut  (29)  mu-se-ni-ik-tum  (30)  ba-lum  a-bi-su  (31)  u  ummi-su  (32)  maram  sa-ni-a-am-ma  (33)  ir-ta-ka-a3  (34)  u-ka-an-nu-§i-
+ma  (35)  a§-sum  ba-lum  a-bi-[§]u  (36)  u  um-mi-§[u]  (37)  maram  §ani-a-a[m]  (38)  ir-ku-[su]  (39)  tula-sd  (40)  i-na-ak-ki-su
 
 "-.  (41)  sum-ma  marum  a-ba-su  (42)  im-ta-fca-as  (43)  ritta-5u
 (44)  i-na-ak-ki-su
 
-f  196.  (45)  §um-ma  a-wi-lum  (46)  i-in  mar  a-wi-lim  (47)  ufc-tap-
-pl-id  (48)  i-in-su  (41  >)  u-}ja-ap-|>a-<lu
+f  196.  (45)  §um-ma  a-wi-lum  (46)  i-in  mar  a-wi-lim  (47)  ufc-tappl-id  (48)  i-in-su  (41  >)  u-}ja-ap-|>a-<lu
 
 0)  §um-ma  esmet  a-wi-lim  (51)  is-te-bi-ir  (52)  esemta-Su
 <>-il)-bi-ru
@@ -27448,8 +25555,7 @@ pl-id  (48)  i-in-su  (41  >)  u-}ja-ap-|>a-<lu
 esmet  muSkenim  (57)  is-t<-l>i-ir  (58)  I  main''  btspim  (69)  i-sa-kal
 
 '.  (60)  §um-ma  i-in  warad  a-wi-Iim  (<H)  ub-tap-pf-id  (62)  u
-lu  esmet  warad  a-wi-lim  (63)  is-te-bi-ir  (64)  mi-si-il  simi-sii  (65)  i-§a-
-kal*
+lu  esmet  warad  a-wi-lim  (63)  is-te-bi-ir  (64)  mi-si-il  simi-sii  (65)  i-§akal*
 
 §  200.  (66)  Sum-ma  a-\vi-lum  (67)  fii-in-ni  a-wi-lim  (68)  me-ib-ri-
 Su  (('»''  i-na-ad-lu-u
@@ -27458,8 +25564,6 @@ Su  (('»''  i-na-ad-lu-u
 
 kaspim  (74)  i-Sd-knl
 
-
-446  CUNEIFORM  PARALLELS
 
 §  202.  (75)  If  a  man  have  struck  the  person  of  a  man,
 who  is  his  superior,  he  shall  receive  sixty  strokes  with
@@ -27499,27 +25603,21 @@ kinaz  alpim  (81)  I  §ii-si  lm-mafc-ba-aa
 §  203.  (82)  sum-ma  mar  a-wi-lim  (83)  li-e-it  mar  a-wi-lim  (84)  sa
 ki-ma  sii-a-ti  (85)  im-ta-ba-as  (86)  I  mane*  kaspim  (87)  i-sa-kal
 
-§  204.  (88)  sum-ma  muske'num  (89)  li-e-it  muSkenim  (90)  im-ta-
-ba-as  (91)  X  sikil  kaspim  i-sa-kal
+§  204.  (88)  sum-ma  muske'num  (89)  li-e-it  muSkenim  (90)  im-taba-as  (91)  X  sikil  kaspim  i-sa-kal
 
 §  205.  (92)  sum-ma  warad  '  a-wi-lim  (93)  li-e-it  mar  a-wi-lim
 [Column  XVIII,  r.]  (1)  im-ta-ba-as  (2)  u-zu-un-§u  (3)  i-na-ak-ki-su
 
-§  206.  (4)  sum-ma  a-wi-lum  a-wi-lam  (5)  i-na  ri-is-ba-tim  (6)  im-
-ta-ba-as-ma  (7)  zi-im-ma-am  (8)  i§-ta-ka-an-su  (9)  a-wi-lum  su-u
-(10)  i-na  i-du-u  (11)  la  am-ba-zu  (12)  i-tam-ma  (13)  u  asam  i-ip-
-pa-al
+§  206.  (4)  sum-ma  a-wi-lum  a-wi-lam  (5)  i-na  ri-is-ba-tim  (6)  imta-ba-as-ma  (7)  zi-im-ma-am  (8)  i§-ta-ka-an-su  (9)  a-wi-lum  su-u
+(10)  i-na  i-du-u  (11)  la  am-ba-zu  (12)  i-tam-ma  (13)  u  asam  i-ippa-al
 
-§  207.  (14)  sum-ma  i-na  ma-ba-zi-su  (15)  im-tu-ut  (16)  i-tam-
-ma-ma  (17)  sum-ma  mar  a-wi-lim  (18)  mi§il  mane  kaspim  (19)  i-sa-
+§  207.  (14)  sum-ma  i-na  ma-ba-zi-su  (15)  im-tu-ut  (16)  i-tamma-ma  (17)  sum-ma  mar  a-wi-lim  (18)  mi§il  mane  kaspim  (19)  i-sa-
 kal
 
 §  208.  (20)  sum-ma  mar  muskenim  (21)  §  mane  kaspim  (22)  i-
 
 §  209.  (23)  sum-ma  a-wi-lum  (24)  marat  a-wi-lim  (25)  im-ba-as-
 
-
-THE  CODE  OF  HAMMURAPI  447
 
 womb,  (30)  he  shall  pay  ten  shekels  of  silver  for  what
 was  in  her  womb.
@@ -27534,8 +25632,7 @@ daughter  of  a  freedman  to  drop  what  was  in  her  womb,
 §  212.  If  that  woman  have  died,  he  shall  pay  one  half
 a  mina  of  silver.
 
-§  213.  (45)  If  he  have  struck  a  gentleman's  maid-
-servant, and  have  caused  her  to  drop  that  which  was  in
+§  213.  (45)  If  he  have  struck  a  gentleman's  maidservant, and  have  caused  her  to  drop  that  which  was  in
 her  womb,  (50)  he  shall  pay  two  shekels  of  silver.
 
 §  214.  If  that  maidservant  have  died,  he  shall  pay
@@ -27548,8 +25645,7 @@ a.  Skilled  Labor  (§§  215-240)
 §  215.   (55)  If  a  doctor  have  operated  with  a  bronze^X
 lancet  on  a   man  for   a  severe  wound,  and   have  cured
 the  man,  or  (60)  have  removed  a  cataract,  with  a  bronze
-lancet,  for  a  gentleman,  and  have  cured  the  eye  of  a  gen-
-tleman, (65)  he  shall  receive  ten  shekels  of  silver.
+lancet,  for  a  gentleman,  and  have  cured  the  eye  of  a  gentleman, (65)  he  shall  receive  ten  shekels  of  silver.
 
 §  216.  If  he  (the  patient)  be  the  son  of  a  freedman,
 he  shall  receive  five  shekels.
@@ -27567,8 +25663,7 @@ M  li-ib-l.i-sa  (88)  us-t.t-;i.l-<li-si  (39)  V  sikil  kaspim  (40)  i-sa-ka
 §  212.  (41)  sum-ma  sinnistura  Si(-i)  (42)  im-tu-ut  (43)  misil  man**
 
 m  (44)  i-sa-kal
-5  213.  (45)  sum-ma  amat  a-wi-lim  (46)  im-fra-as-ma  (47)  sa  li-ib-
-bi-Sa  (48)  uS-ta-ad-di-Si  (40)  II  sikil  kaspim  (60)  i-Sa-kal
+5  213.  (45)  sum-ma  amat  a-wi-lim  (46)  im-fra-as-ma  (47)  sa  li-ibbi-Sa  (48)  uS-ta-ad-di-Si  (40)  II  sikil  kaspim  (60)  i-Sa-kal
 
 §  214.  (51)  Sum-ma  amtum  si-i  (52)  im-tu-ut  (53)  i  man6  kaspim
 (54)  i-Sa-kal
@@ -27586,16 +25681,13 @@ li-it    f60)u  lu  na-kah-ti  a-wi-lim   «il)  i-na  ('.III.    KAK    (I)   s
 §  216.  (67)  Sum-ma  mar  muSk£nim  (68)  V  sikil  kaspim  (69)  i-li-ki
 
 
-448  CUNEIFORM  PARALLELS
-
 §  217.  (70)  If  he  be  a  gentleman's  slave,  the  owner  of
 the  slave  shall  give  the  doctor  two  shekels  of  silver.
 
 §  218.  If  a  doctor  have  operated,  with  a  bronze  lancet,
 on  a  gentleman  (75)  for  a  severe  wound,  and  have  caused
 the  gentleman's  death,  or  have  removed  a  cataract,
-(80)  with  a  bronze  lancet,  and  have  destroyed  the  gen-
-tleman's eye,  they  shall  cut  off  his  hand.
+(80)  with  a  bronze  lancet,  and  have  destroyed  the  gentleman's eye,  they  shall  cut  off  his  hand.
 
 §  219.  If  a  doctor  have  operated,  with  a  bronze
 lancet,  on  (85)  the  slave  of  a  freedman,  for  a  severe
@@ -27607,8 +25699,7 @@ bronze  lancet,  and  have  destroyed  his  eye,  he  shall  pay
 in  silver  one  half  of  his  price.
 
 §  221.  (95)  If  a  doctor  have  set  a  broken  [Column
-XIX,  r.]  (1)  bone  for  a  man,  or  have  (6)  cured  a  pain-
-ful swelling  (?),  the  patient  shall  give  five  shekels  of  silver
+XIX,  r.]  (1)  bone  for  a  man,  or  have  (6)  cured  a  painful swelling  (?),  the  patient  shall  give  five  shekels  of  silver
 to  the  doctor.
 
 §  222.  (10)  If  he  be  the  son  of  a  freedman,  he  shall
@@ -27622,8 +25713,7 @@ doctor.
 (72)  II  §ikil  kaspim  (73)  i-na-ad-di-in
 
 §  218.  (74)  8um-ma  asum  a-wi-lam  (75)  zi-im-ma-am  kab-tam
-(76)  i-na  GIR.  NI  siparrim  (77)  i-pu-us-ma  (78)  a-wi-lam  us-ta-
-mi-it  (79)  u  lu  na-kal>ti  a-wi-lim  (80)  i-na  GIR.  NI  siparrim  (81)  ip-
+(76)  i-na  GIR.  NI  siparrim  (77)  i-pu-us-ma  (78)  a-wi-lam  us-tami-it  (79)  u  lu  na-kal>ti  a-wi-lim  (80)  i-na  GIR.  NI  siparrim  (81)  ip-
 te-ma  i-in  a-wi-lim  (82)  u|j-tap-pf-id  (83)  ritta-su  i-na-ki-su
 
 *  219.  (84)  sum-ma  asum  zi-ma-am  kab-tam  (85)  warad
@@ -27639,14 +25729,11 @@ musk£nim  (86)  i-na  GIR.  NI  siparrim  (87)  i-pu-us-ma  u§-ta-mi-it
 (5)  ub-ta-al-li-it  (6)  be-el  si-im-mi-im  (7)  a-na  asim  (8)  V  Sikil
 kaspim  (9)  i-na-ad-di-in
 
-22.  (10)  sum-ma  mar  mu§kenim  (11)  III  §ikil  kaspim  (12)  i-
-na-ad-di-in
+22.  (10)  sum-ma  mar  mu§kenim  (11)  III  §ikil  kaspim  (12)  ina-ad-di-in
 
 :\.  (13)  §um-ma  warad  a-wi-lim  (14)  be-el  wardim  (15)  a-na
 asim  (16)  II  sikil  kaspim  (17)  i-na-ad-di-in
 
-
-THE  CODE  OF  HAMMURAPI  449
 
 §  224.  If  a  veterinary  doctor  operate  (20)  on  an  ox  or
 an  ass  for  a  severe  wound,  and  save  its  life,  the  owner
@@ -27675,16 +25762,13 @@ have  completed  it,  that  man  shall  give  him,  as  his  fee,
 have  not  made  it  strong,  and  the  house  built  (70)  have
 
 §  224.  (18)  Sum-ma  asu  alpim  (19)  u  lu  imerim  (20)  lu  alpam  u
-lu  imeram  (21)  si-im-ma-am  kab-tam  (22)  i-pu-uS-ma  (23)  ub-ta-al-
-li-it  (24)  be-el  alpim  u  lu  imerim  (25)  SeduSti  (?)  kaspim  (26)  a-na
+lu  imeram  (21)  si-im-ma-am  kab-tam  (22)  i-pu-uS-ma  (23)  ub-ta-alli-it  (24)  be-el  alpim  u  lu  imerim  (25)  SeduSti  (?)  kaspim  (26)  a-na
 astm  (27)  idi-Su  (28)  i-na-ad-di-in
 
-§  225.  (29)  Sum-ma  alpam  u  lu  ineram  (30)  zi-im-ma-am  kab-
-tam  (31)  i-pu-uS-ma  (32)  uS-ta-mi-it  (33)  fcamuSti  Simi-Su  (34)  a-na
+§  225.  (29)  Sum-ma  alpam  u  lu  ineram  (30)  zi-im-ma-am  kabtam  (31)  i-pu-uS-ma  (32)  uS-ta-mi-it  (33)  fcamuSti  Simi-Su  (34)  a-na
 be-el  alpim  il  lu  imerim  (35)  i-na-ad-di-in
 
-§  226.  (36)  Sum-ma  gallabum  (37)  ba-lum  be-el  wardim  (38)  ab-
-bu-ti  (39)  warad  la  Se-e-im  (40)  u-gal-li-ib  (41)  ritti  gallabim  Su-a-ti
+§  226.  (36)  Sum-ma  gallabum  (37)  ba-lum  be-el  wardim  (38)  abbu-ti  (39)  warad  la  Se-e-im  (40)  u-gal-li-ib  (41)  ritti  gallabim  Su-a-ti
 (42)  i-na-ak-ki-zu
 
 §  227.  (43)  Sum-ma  a-wi-lum  (44)  gallabam  i-da-as-ma  (45)  ab-
@@ -27697,12 +25781,10 @@ eallAbum    i-na    i-du-ii    (53)  la    u-gal-li-bu    (54)  i-tam-ma-ma
 
 (55)  u-ta-a&-Sar
 
-§228.  (56)  Sum-ma  itinnu1  (57)  bitam  a-na  a-wi-lim  (58)  i-pu-
-uS-ma  (59)  u-Sa-ak-li-il-Sum  (60)  a-na  I  SAR  bltim  (61)  II  Sikil
+§228.  (56)  Sum-ma  itinnu1  (57)  bitam  a-na  a-wi-lim  (58)  i-puuS-ma  (59)  u-Sa-ak-li-il-Sum  (60)  a-na  I  SAR  bltim  (61)  II  Sikil
 kaspim  (62)  a-na  ki-iS-ti-Su  (63)  I  111  m\  ill  fi  inill
 
-§229.  (64)  Sum-ma  b.'inum  f 65)  a-OB  a-\vi-lim  (66)  bttam  i-pu-
-u5-ma  (67)  Si-pf-ir-Su   (68)   la  u-<i:ui-ni-in-ma  (69)  bit  i-pu-Sii  (70)
+§229.  (64)  Sum-ma  b.'inum  f 65)  a-OB  a-\vi-lim  (66)  bttam  i-puu5-ma  (67)  Si-pf-ir-Su   (68)   la  u-<i:ui-ni-in-ma  (69)  bit  i-pu-Sii  (70)
 
 1  Th  i  is  dim  and  is  usu.illv  rr.id  Wnflm,  so  also  bv  UhuiklI.
 
@@ -27711,8 +25793,6 @@ Hrozny  i.  .  itique,  July,  190S)  tlmt   i*
 read  irinnu  in  th«-  Neo-Babylonian  period.    Bee  further  Bruno  MeJasoer,
 Orientalintische  LitmUur-teitutig,  1012
 
-
-450  CUNEIFORM  PARALLELS
 
 fallen  and  have  caused  the  death  of  the  owner  of  that
 house,  that  builder  shall  be  put  to  death.
@@ -27749,8 +25829,7 @@ im-ku-ut-ma    (71)   be-el    bitim    u§-ta-mi-it    (72)   banum   §ii-ii  
 §  230.  (73)  Sum-ma  mar  be-el  bitim  (74)  uMa-mi-it  (75)  mar
 banim  §u-a-ti  (76)  i-du-uk-ku
 
-§  231.  (77)  §um-ma  warad  be-el  bitim  (78)  u§-ta-mi-it  (79)  war-
-dam  ki-ma  wardim  (80)  a-na  be-el  bitim  (81)  i-na-ad-di-in
+§  231.  (77)  §um-ma  warad  be-el  bitim  (78)  u§-ta-mi-it  (79)  wardam  ki-ma  wardim  (80)  a-na  be-el  bitim  (81)  i-na-ad-di-in
 
 §  232.  (82)  §um-ma  namkuram  (83)  ub-ta-al-li-ik  (84)  mi-im-ma
 (85)  Sa  u-fcal-li-ku  (86)  i-ri-ab  (87)  u  a§-§um  bit*  i-pu-§u  (88)  la
@@ -27765,13 +25844,10 @@ Su-u  [Column  XX,  r.]  (1)  i-na  kasap  ra-ma-ni-§u  (2)  igaram  §u-a-ti
 §  234.  (4)  sum-ma  malajbum  (5)  elip  LX  kurrt  (6)  a-na  a-wi-lim
 ip-fci  (7)  II  Sikil  kaspim  (8)  a-na  ki-i§-ti-§u  (9)  i-na-ad-di-i§-§um
 
-§  235.  (10)  §um-ma  malabum  (11)  elippam  a-na  a-wi-lim  (12)  ip-
-fci-ma  (13)  §i-pf-ir-§ti  (14)  la  u-tak-ki-il-ma  (15)  i-na  §a-at-tim-ma
+§  235.  (10)  §um-ma  malabum  (11)  elippam  a-na  a-wi-lim  (12)  ipfci-ma  (13)  §i-pf-ir-§ti  (14)  la  u-tak-ki-il-ma  (15)  i-na  §a-at-tim-ma
 
 1  mm;  see  note  on  §  228,  line  56.
 
-
-THE  CODE  OF  HAMMURAPI  451
 
 it,  the  boatman  shall  exchange  (20)  it  or  shall  make  it
 strong  at  his  own  expense  and  shall  give  a  strong  ship
@@ -27783,8 +25859,7 @@ grounded  the  ship  or  have  caused  it  to  be  lost,  (35)  the
 boatman  shall  render  ship  for  ship  to  the  owner.
 
 §  237.  If  a  man  have  (40)  hired  a  boatman  and  a  ship,
-and  have  freighted  it  with  grain,  wool,  oil,  dates,  or  any-
-other  kind  of  freight,  and  (45)  that  boatman  have  been
+and  have  freighted  it  with  grain,  wool,  oil,  dates,  or  anyother  kind  of  freight,  and  (45)  that  boatman  have  been
 careless  and  have  grounded  the  ship  or  have  lost  what
 was  in  it,  (50)  the  boatman  shall  render  back  the  ship
 and  whatever  in  it  (55)  he  has  caused  to  be  lost.
@@ -27810,16 +25885,13 @@ be-el  elippim  (26)  i-na-ad-di-in
 ut-tc-bi  (34)  u  lu  ufc-ta-al-li-ik  (35)  malabum  elippam  (36)  a-na  be-el
 elippim  (37)  i-ri-a-ab
 
-§  237.  (38)  Sum-ma  a-wi-lum  (39)  malabam  u  elippam  (40)  i-gur-
-ma  (41)  Se'am  Sipatam  Samnam  suluppl  (42)  u  mi-im-ma  Sum-Su
-(43)  Sasi-nim  (44)  i-si-en-Si  (45)  malaJjumSu-u  (46)  i-gi-ma  (47)  elip-
-pam ut-te-ib-bi  (48) 'u  6a  li-ib-bi-Sa  (49)  ub-ta-al-li-ik  (60)  malabum
+§  237.  (38)  Sum-ma  a-wi-lum  (39)  malabam  u  elippam  (40)  i-gurma  (41)  Se'am  Sipatam  Samnam  suluppl  (42)  u  mi-im-ma  Sum-Su
+(43)  Sasi-nim  (44)  i-si-en-Si  (45)  malaJjumSu-u  (46)  i-gi-ma  (47)  elippam ut-te-ib-bi  (48) 'u  6a  li-ib-bi-Sa  (49)  ub-ta-al-li-ik  (60)  malabum
 (51)  elippam  Sa  u-te-ib-bu-ii  (52)  u  mi-im-ma  (53)  Sa  i-na  li-ib-bi-sa
 (54)  u-bal-li-ku  (55)  i-ri-a-ab
 
 §  238.  (.56)  §um-ma  malabum   (57)  elip  a-wi-lim   (58)  \l-te-ib-bi-
-')  uS-te-li-a-a§-s[i]  (60)  kaspam  mi-si-i[l]  Simi-S[a]  (61)  i-na-ad-
-di-i[n]
+')  uS-te-li-a-a§-s[i]  (60)  kaspam  mi-si-i[l]  Simi-S[a]  (61)  i-na-addi-i[n]
 
 §  239.  (62)  Sum-ma  a-wi-[lum]  (63)  mala^am  [i-gur]  (64)  VI  [kur
 
@@ -27833,8 +25905,6 @@ M  eBppUW  te-bi-a-at  (73)  mi-im-ma  Sa  i-na  elippi-Su  ba'-ku  (74)
 
 i-na  ma-bar  i-lim  (75)  u-ba-ar-ma  (76)  §d  ina-bi-ir-tim  (77)  Sd  elip
 
-
-452  CUNEIFORM  PARALLELS
 
 declaration  before  the  god,  of  whatever  he  has  lost  in  the
 ship,  and  the  owner  of  the  ship  under  way  up  stream
@@ -27871,8 +25941,7 @@ owner.
 §d  mu-uk-kf-el-pf-tim  (78)  li-te-ib-bu-ii  (79)  elippa-§u  u  mi-im-ma-6u
 bal-ga-am  (80)  i-ri-a-ab-§um
 
-§  241.  (81)  Sum-ma  a-wi-lum  (82)  alpam  a-na  ni-pu-tim  (83)  it-
-te-pf  (84)  $  mane"  kaspim  i-§d-kal
+§  241.  (81)  Sum-ma  a-wi-lum  (82)  alpam  a-na  ni-pu-tim  (83)  itte-pf  (84)  $  mane"  kaspim  i-§d-kal
 
 I  242.  (85)  §um-ma  a-wi-lum  (86)  a-na  Sattim  I  i-gur  (87)  icii
 GUD.  DA.  {JR.  RA  (88)  IV  kur  Se'im
@@ -27883,20 +25952,16 @@ be-lf-§u  (91)  i-na-ad-di-in
 §  244.  [Column  XXI,  r.]  (1)  §um-ma  a-wi-lum  (2)  alpam  imeram
 i-gur-ma  (3)  i-na  si-ri-im  (4)  nesum  id-du-uk-§u  (5)  a-na  be-lf-§ii-ma
 
-§  245.  (6)  §um-ma  a-wi-lum  (7)  alpam  i-gur-ma  (8)  i-na  me-gu-
-tim  (9)  u  lu  i-na  ma-ba-zi-im  (10)  u§-ta-mi-it  (11)  alpam  ki-ma
+§  245.  (6)  §um-ma  a-wi-lum  (7)  alpam  i-gur-ma  (8)  i-na  me-gutim  (9)  u  lu  i-na  ma-ba-zi-im  (10)  u§-ta-mi-it  (11)  alpam  ki-ma
 alpim  (12)  a-na  be-el  alpim  (13)  i-ri-a-ab
 
 §  246.  (14)  §um-ma  a-wi-lum  (15)  alpam  i-gur-ma  (16)  §&p-§u  i§-
 te-bi-ir  (17)  d  lu  la-bi-a-an-§u  (18)  it-ta-ki-is  (19)  alpam  ki-ma  alpim
 (20)  a-na  be-el  alpim  (21)  i-ri-a-ab
 
-§  247.  (22)  §um-ma  a-wi-lum  (23)  alpam  i-gur-ma  (24)  'in-5u  ub-
-tap-(pi)-id  (25)  kaspam  mi-§i-il  §imi-5u  (26)  a-na  be-el  alpim
+§  247.  (22)  §um-ma  a-wi-lum  (23)  alpam  i-gur-ma  (24)  'in-5u  ubtap-(pi)-id  (25)  kaspam  mi-§i-il  §imi-5u  (26)  a-na  be-el  alpim
 (27)  i-na-ad-di-in
 
-
-THE  CODE  OF  HAMMURAPI  453
 
 §  248.  If  a  man  have  hired  an  ox,  and  have  broken
 (30)  its  horn,  cut  off  its  tail,  or  have  injured  its  nostril
@@ -27920,41 +25985,32 @@ have  killed  him,  he  shall  (65)  pay  one  half  of  a  mina  of  silver.
 third  of  a  mina  of  silver.
 
 §  253.  If  a  man  have  (70)  hired  a  man  to  oversee  his
-field,  and  have  furnished  him  with  seed-grain,  have  in-
-trusted him  (75)  with  oxen,  and  have  contracted  with
+field,  and  have  furnished  him  with  seed-grain,  have  intrusted him  (75)  with  oxen,  and  have  contracted  with
 him  to  cultivate  that  field,  and  that  man  have  stolen  the
 seed  or  the  provender  and  it  be  found  (80)  in  his  hands,
 they  shall  cut  off  his  hands.
 
 §  248.  (28)  Sum-ma  a-wi-lum  (29)  alpam  i-gur-ma  (30)  karan-Sii
-iS-bi-ir  (31)  zibbat-zu  it-ta-ki-is  (32)  u  lu  Sir  pasumti-Su  (33)  it-ta-
-sa-ag  (34)  kaspam  fcamuSti  (?)  Slmi-Su  (35)  i-na-ad-di-in
+iS-bi-ir  (31)  zibbat-zu  it-ta-ki-is  (32)  u  lu  Sir  pasumti-Su  (33)  it-tasa-ag  (34)  kaspam  fcamuSti  (?)  Slmi-Su  (35)  i-na-ad-di-in
 
-§  249.  (36)  Sum-ma  a-wi-lum  (37)  alpam  i-gur-ma  (38)  i-lum  im-
-tia-zu-ma  (39)  im-tu-ut  (40)  a-wi-lum  Sa  alpam  i-gu-ru  (41)  ni-iS
+§  249.  (36)  Sum-ma  a-wi-lum  (37)  alpam  i-gur-ma  (38)  i-lum  imtia-zu-ma  (39)  im-tu-ut  (40)  a-wi-lum  Sa  alpam  i-gu-ru  (41)  ni-iS
 i-lim  (42)  i-za-kar-ma  (43)  u-ta-aS-Sar
 
 §  250.  (44)  Sum-ma  alpum  su-ga-am  (45)  i-na  a-la-ki-§u  (46)  a-wi-
-(47)  ik-ki-ip-ma  (48)  uS-ta-mi-it  (49)  di-nu-um  §u-u  (50)  ru-gu-um-
-ma-am  (51)  u-ul  i-6ii
+(47)  ik-ki-ip-ma  (48)  uS-ta-mi-it  (49)  di-nu-um  §u-u  (50)  ru-gu-umma-am  (51)  u-ul  i-6ii
 
-§  251.  (52)  Sum-ma  alap  a-wi-lim  (53)  na-ak-ka-p[f]-m[a]  (54)  ki-
-ma  na-ak-k[a]-pu-u  (55)  ba-ab-ta-Su  (56)  u-Se-di-Sum-ma  (57)  kar-
+§  251.  (52)  Sum-ma  alap  a-wi-lim  (53)  na-ak-ka-p[f]-m[a]  (54)  kima  na-ak-k[a]-pu-u  (55)  ba-ab-ta-Su  (56)  u-Se-di-Sum-ma  (57)  kar-
 ni-Su  (58)  la  u-Sar-ri-im  (59)  alap-Su  la  u-sa-an-ni-ik-ma  (60)  alpum
 Su-u  (61)  mar  a-wi-lim  (62)  ik-ki-ip-ma  (63)  u5-[ta]-mi-it  (64)  miSil
 [ma]n£  kaspim  (65)  i-[na]-ad-di-in
 
-§  252.  (66)  [Sum-m]a  warad  a-wi-lim  (67)  §  man6  kaspim  (68)  i-
-na-ad-di-in
+§  252.  (66)  [Sum-m]a  warad  a-wi-lim  (67)  §  man6  kaspim  (68)  ina-ad-di-in
 
 §  253.  (69)  Sum-ma  a-wi-lum  a-wi-lam  (70)  a-na  pa-ni  ekli-
 Su  (71)  u-zu-uz-zi-im  (72)  i-gur-ma  (73)  alda-am  (74)  [i-]ki-if>Su
 (75)  Tallpl  [ilp-ki-zum  (76)  [arna  o]klim  e-ri-si-im  u-ra-ak-ki-zu
-("7)  f.t]um-ma  a-wi-lum  Su-u  (78)  z^ram  u  Iu  ukull.im  (79)  is-ri-ik-
-ma  (80)  i-na  ga-ti-5u  (81)  it-ta-as-ba-at  (82)  ritta-Su  i-na-ak-ki-su
+("7)  f.t]um-ma  a-wi-lum  Su-u  (78)  z^ram  u  Iu  ukull.im  (79)  is-ri-ikma  (80)  i-na  ga-ti-5u  (81)  it-ta-as-ba-at  (82)  ritta-Su  i-na-ak-ki-su
 
-
-454  CUNEIFORM  PARALLELS
 
 §  254.  If  he  have  taken  the  seed-grain,  (85)  starved
 the  oxen,  from  the  seed  which  he  has  hoed  he  shall
@@ -27990,8 +26046,7 @@ GUR  of  grain  per  year.
 §  254.  (83)  Sum-ma  alda-am  (84)  il-ki-ma  alpl  (85)  u-te-en-ni-i3
 (86)  ta-a  (?)-na  se'im  (?)  sa  (?)  im-ri-ru  (87)  i-ri-ab
 
-§  255.  (88)  £um-ma  alpl  (89)  a-wi-lim  a-na  ig-ri-im  (90)  it-ta-di-
-in  (91)  &  lu  zeram  i§-ri-ik-ma  (92)  i-na  eklim  la  us-tab-si  (93)  a-wi-
+§  255.  (88)  £um-ma  alpl  (89)  a-wi-lim  a-na  ig-ri-im  (90)  it-ta-diin  (91)  &  lu  zeram  i§-ri-ik-ma  (92)  i-na  eklim  la  us-tab-si  (93)  a-wi-
 lam  su-a-ti  (94)  u-ka-an-nu-Sii-ma  (95)  i-na  eb(urim  1]  GAN.  E
 (96)  LX  ku[r]  se'im  i-[m]a-ad-da-ad
 
@@ -28011,11 +26066,8 @@ ri-ik  (13)  V  sikil  kaspim  (14)  a-na  be-el  nartabim  (15)  i-na-ad-di-in
 (18)  i§-ta-ri-ik  (19)  III  §ikil  kaspim  (20)  i-na-ad-di-in
 
 §  261.  (21)  §um-ma  a-wi-lum  (22)  nakidam  a-na  alpi  (23)  u  s&ii
-(24)  ri-im  i-gur  (25)  VIII  kur  se'im  (26)' i-na  §attim  I  (kam)  (27)  i-
-na-ad-di-i§-sum
+(24)  ri-im  i-gur  (25)  VIII  kur  se'im  (26)' i-na  §attim  I  (kam)  (27)  ina-ad-di-i§-sum
 
-
-THE  CODE  OF  HAMMURAPI  455
 
 §  262.  If  a  man,  an  ox,  or  a  sheep  (30)  to  [this  section
 is  defaced  and  six  lines  are  wanting].
@@ -28082,8 +26134,6 @@ l>asim  (81)  be-el  tarbasim  i-m:iij-|j:ir-§u
 uS-tab-Si  (84)  nVum  b.i-t i-it  pi E-f  i-tim  (S5)  Sa  i-na  tarbasim  u-^Sa-ab-
 
 
-456  CUNEIFORM  PARALLELS
-
 caused  in  the  fold,  and  shall  pay  cows  or  sheep  and  give
 to  the  owner.
 
@@ -28118,8 +26168,7 @@ end  of  the  year  he  shall  pay  five  SE  *  of  silver  per  day.
 
 »A  Je  was  tIo  of  a  shekel.
 
-Su-u  (86)  alpl  u  senol  (87)  u-Sa-lam-ma  (88)  a-na  be-H-Su-nu  (89)  i-na-
-ad-di-in
+Su-u  (86)  alpl  u  senol  (87)  u-Sa-lam-ma  (88)  a-na  be-H-Su-nu  (89)  i-naad-di-in
 
 §  268.  (90)  §um-ma  a-wi-lum  alpam  (91)  a-na  di-a-Si-im  i-gur
 (92)  20  ku  se'im  idi-su
@@ -28130,8 +26179,7 @@ Se'im  idi-Su
 §  270.  (96)  Sum-ma  Ialam  (97)  a-na  di-a-Si-im  i-gur  (98)  I  ku
 Se'im  idi-Su
 
-§  271.  (99)  Sum-ma  a-wi-lum  (100)  alpl  erikkam  (101)  u  mu-ur-
-te-di-Sa  i-gur  [Column  XXIII,  r.]  (1)  i-na  umim  I  (kam)  180  ka
+§  271.  (99)  Sum-ma  a-wi-lum  (100)  alpl  erikkam  (101)  u  mu-urte-di-Sa  i-gur  [Column  XXIII,  r.]  (1)  i-na  umim  I  (kam)  180  ka
 Se'im  (2)  i-na-ad-di-in
 
 §  272.  (3)  Sum-ma  a-wi-lum  (4)  erikkam-ma  (5)  a-na  ra-ma-ni-Sa
@@ -28139,16 +26187,13 @@ i-gur  (6)  i-na  umim  I  (kam)  40  ka  Se'iin  (7)  i-na-ad-di-in
 
 §  273.  (8)  Sum-ma  a-wi-lum  (9)  (awil)  agram  i-gur  (10)  iS-tu  ri-eS
 Sa-at-tim  (11)  a-di  h,a-am-Si-im  warh4m(im)  (12)  VI  SE  kaspim
-(13)  i-na  umim  I  (kam)  (14)  i-na-ad-di-in  (15)  iS-tu  Si-Si-im  war-
-bim(im)  (16)  a-di  ta-ak-ti-it  Sa-at-tim  (17)  V  SE  kaspim  (18)  i-na
+(13)  i-na  umim  I  (kam)  (14)  i-na-ad-di-in  (15)  iS-tu  Si-Si-im  warbim(im)  (16)  a-di  ta-ak-ti-it  Sa-at-tim  (17)  V  SE  kaspim  (18)  i-na
 umim  I  (kam)  (19)  i-na-ad-di-in
 
 §  274.  (20)  Sum-ma  a-wi-lum y(21)  mar  ummanim  (22)  i-ig-ga-ar
 (23)  idi  (awtl)[.  .  .]  (24)  V  SE  kaspim  (25)  idi  (awll)GAB  A
 (26)  V  [SE  kas]pim  (27)  i[di  (aw]il)KAD  (28)  [.     .     .     §E]  kaspim
 
-
-THE  CODE  OF  HAMMURAPI  457
 
 (d)  the  wage  of  a  stone  cutter  . . .  (30)  SE  of  silver
 
@@ -28170,8 +26215,7 @@ SE  of  silver  per  day.
 
 §  276.  If  he  have  hired  a  ship,  sailing  up  stream,  (50)  he
 shall  give  two  and  a  half  SE  of  silver  per  day  as  its  hire.
-§  277.   If  a  man  have  hired  a  ship  of  sixty  GUR  (ton-
-nage), (55)  he  shall  give  one  sixth  of  a  shekel  per  day
+§  277.   If  a  man  have  hired  a  ship  of  sixty  GUR  (tonnage), (55)  he  shall  give  one  sixth  of  a  shekel  per  day
 
 as  its  hirp
 
@@ -28212,8 +26256,6 @@ ku-lu  (66)  i-li-ki
 (69)  ba-ak-ri  ir-ta-Si  (70)  na-di-na-an-Su  (71)  ba-ak-ri  i-ip-pa-al
 
 
-458  CUNEIFORM  PARALLELS
-
 §  280.  If  a  man  have  purchased  a  male  or  female
 (75)  slave  of  a  man  in  a  foreign  land,  and  if,  when  he
 come  back  to  his  own  land,  (80)  the  owner  of  the  male
@@ -28221,8 +26263,7 @@ or  female  slave  recognize  his  male  or  female  slave,  if  the
 male  or  female  slave  be  natives,  (85)  without  price  he
 shall  grant  them  their  freedom.
 
-§  281.  If  they  be  natives  of  another  land,  the  pur-
-chaser shall  declare  (90)  before  the  god  the  money  which
+§  281.  If  they  be  natives  of  another  land,  the  purchaser shall  declare  (90)  before  the  god  the  money  which
 he  paid  for  them,  and  the  owner  of  the  male  or  female
 slave  shall  (95)  give  to  the  merchant  the  money  that
 he  had  paid  and  he  shall  receive  his  male  or  female
@@ -28236,12 +26277,10 @@ his  slave,  and  his  master  shall  cut  off  his  ear.
 (75)  wardam  amtam  sa  a-wi-lim  (76)  is-ta-am  (77)  i-nu-ma  (78)  i-na
 li-ib-bu  matim  (79)  it-ta-al-kam-ma  (80)  be-el  wardira  u  lu  amtim
 (81)  lu  warad-zu  u  lu  amat-zu  (82)  u-te-id-di  (83)  Sum-ma  wardum
-u  amtum  su-nu  (84)  maru  ma-tim  (85)  ba-lum  kaspim-ma  (86)  an-
-du-ra-ar-su-nu  (87)  is-sa-ak-ka-an
+u  amtum  su-nu  (84)  maru  ma-tim  (85)  ba-lum  kaspim-ma  (86)  andu-ra-ar-su-nu  (87)  is-sa-ak-ka-an
 
 §  2S1.  (88)  §um-ma  maru  ma-tim  Sa-ni-tim  (89)  Sa-a-a-ma-nu-ma
-(90)  i-na  ma-bar  i-lim  (91)  kasap  is-ku-lu  (92)  i-ga-ab-bi-ma  (93)  be-
-el  wardim  u  lu  amtim  (94)  kasap  is-ku-lu  a-na  tamkarim  (95)  i-na-
+(90)  i-na  ma-bar  i-lim  (91)  kasap  is-ku-lu  (92)  i-ga-ab-bi-ma  (93)  beel  wardim  u  lu  amtim  (94)  kasap  is-ku-lu  a-na  tamkarim  (95)  i-na-
 ad-di-in-ma  (96)  lu  warad-zu  lu  amat-zu  i-pa-tar
 
 §  282.  (97)  sum-ma  wardum  a-na  be-H-su  (98)  u-ul  be-lf  at-ta
@@ -28249,8 +26288,7 @@ ad-di-in-ma  (96)  lu  warad-zu  lu  amat-zu  i-pa-tar
 §u  u-zu-un-su  i-na-ak-ki-is
 
 EPILOGUE
-[Column  XXIV,  r.]  (1)  The  righteous  laws,  which  Ham-
-murapi,  the  wise  king,  (5)  established,  and  confirmed  to
+[Column  XXIV,  r.]  (1)  The  righteous  laws,  which  Hammurapi,  the  wise  king,  (5)  established,  and  confirmed  to
 the  land  a  just  law  and  a  gracious  rule.  Hammurapi,
 (10)  the  perfect  king,  am  I.  The  people,1  whom  Ellil
 presented  to  him,  and  whose  rule  Marduk  gave  me,
@@ -28259,13 +26297,10 @@ presented  to  him,  and  whose  rule  Marduk  gave  me,
 1  Literally,  the  black-headed.
 
 [Column  XXIV,  r.]  Di-na-a-at  mi-sa-ri-im  sa  ga-am-mu-ra-pf
-sar-ru-um  li-u-um  (5)  u-ki-in-nu-ma  ma-tam  li-sa-am  ki-nam  u  ri-
-dam  dam-ga-am  u-sa-as-bi-tu  ^Ja-am-mu-ra-pf  (10)  sar-ru-um  gi-it-
+sar-ru-um  li-u-um  (5)  u-ki-in-nu-ma  ma-tam  li-sa-am  ki-nam  u  ridam  dam-ga-am  u-sa-as-bi-tu  ^Ja-am-mu-ra-pf  (10)  sar-ru-um  gi-it-
 ma-lum  a-na-ku  a-na  salmat  kakkadim  sa  (ilu)  Illil  i§-ru-kam
 ri-u-zi-na  (ilu)  Marduk  i^din-nam  (15)  u-ul  e-gu  a-h^i  u-ul  ad-di  as-ri
 
-
-THE  CODE  OF  HAMMURAPI  459
 
 A  dwelling  place  of  peace  I  provided  for  them.  (20)  I
 opened  up  difficult  barriers,  I  made  the  light  to  stream
@@ -28274,8 +26309,7 @@ and  Nana  (25)  entrusted  to  me,  with  the  keenness  of
 vision  which  Ea  assigned  me,  with  the  wisdom  which
 Marduk  gave  me,  (30)  I  drove  out  the  enemies  above
 and  below,  I  made  an  end  of  fighting.  To  the  land  I
-brought  prosperity,  I  made  (35)  the  people  to  dwell  in  se-
-curity, I  suffered  no  disturber  among  them.
+brought  prosperity,  I  made  (35)  the  people  to  dwell  in  security, I  suffered  no  disturber  among  them.
 
 (40)  The  great  gods  have  called  me,  and  I  am  the
 shepherd  that  brings  good,  whose  staff  is  (45)  righteous,
@@ -28285,8 +26319,7 @@ under  my  protection  I  let  their  brethren  (55)  work  in
 peace;  in  my  wisdom  I  hide  them,  that  the  strong  may
 (60)  not  hurt  the  weak,  that  orphans  and  widows  may
 be  protected  in  Babylon,  the  city  of  Anu  and  Bel  may
-lift  up  (65)  the  head;  in  Esagila,  the  temple  whose  foun-
-dations stand  like  heaven  and  earth.  (70)  To  pronounce
+lift  up  (65)  the  head;  in  Esagila,  the  temple  whose  foundations stand  like  heaven  and  earth.  (70)  To  pronounce
 the  justice  of  the  land,  to  decide  questions,  to  right  the
 wrong,  my  precious  words  have  I  written  (75)  upon  my
 monument,  and  established  them  before  my  image  as
@@ -28296,30 +26329,23 @@ The  king,  who  is  (80)  powerful  among  kings,  am  I.
 My  words  are  well  considered,  my  wisdom  has  not  a
 
 §u-ul-mi-im  e§-te-i-§i-na-§im  pu-us-ki  wa-[a§]-tu-tim  (20)  ii-[p]i  ( !)-
-it— ti  n[u-r]a-am  u-§e-zi-§i-na-§i-im  i-na  kakkim  da-an-nim  §a  (flu)  Za-
-ma-ma  u  (ilu)  Innanna  (25)  u-§a-at-li-mu-nim  i-na  {jaslsim  §£  (ilu)
-En-ki  i-§i-ma-am  i-na  li-u-tim  §a  (ilu)  Marduk  id-di-nam  (30)  na-
-ak-ri  e-li-iS  u  §a-ap-li-i8  az-zu-ub  ga-ab-la-tim  ti-bi-el-li  §i-ir  ma-tim
+it— ti  n[u-r]a-am  u-§e-zi-§i-na-§i-im  i-na  kakkim  da-an-nim  §a  (flu)  Zama-ma  u  (ilu)  Innanna  (25)  u-§a-at-li-mu-nim  i-na  {jaslsim  §£  (ilu)
+En-ki  i-§i-ma-am  i-na  li-u-tim  §a  (ilu)  Marduk  id-di-nam  (30)  naak-ri  e-li-iS  u  §a-ap-li-i8  az-zu-ub  ga-ab-la-tim  ti-bi-el-li  §i-ir  ma-tim
 u-ti-ib  (35)  ni-§i  da-ad-mi  a-bu-iir-ri  u-sar-bf-is  mu-gal-li-tara  u-ul
 u-§ar-§i-si-na-ti  (40)  ilu  rabutum  ib-bu-u-nin-ni-ma  a-na-ku-raa
-r.'-'ura  mii-&t-al-li-mu-um  §a  Jjattu-Su  (45)  i-§a-ra-at  si-li  ta-bu-
-ura  a-na  ali-ja  ta-ri-is  i-na  ut-li-ia  (50)  ni-§i  mat  Su-me-rf-im  u
+r.'-'ura  mii-&t-al-li-mu-um  §a  Jjattu-Su  (45)  i-§a-ra-at  si-li  ta-buura  a-na  ali-ja  ta-ri-is  i-na  ut-li-ia  (50)  ni-§i  mat  Su-me-rf-im  u
 Ak-ka-di-im  u-ki-il  i-na  la-ma-zi-ia  ab-b»-Sa  (55)  i-na  §u-ul-mi-im
 at-tab-ba-al-§i-na-ti  i-na  ne-mo-ki-ia  uS-tajv-si-ir-Si-na-ti  dan-nu-um
 en-5a-am  (00)  a-na  la  ha-ba-lim  dotal  almatlim  (1)  §u-te-§i^ri-im
-;i  ki)  alim  Sd  Anum  Cl  Illil  (65)  ri-§i-5u  u-ul-lu-i'i  i-na  E-sag-
-ila  bltim  si  ki-ma  §a-me-c  u  ir-si-tim  isda-§u  ki-na  (70)  di-in  ma-tim
+;i  ki)  alim  Sd  Anum  Cl  Illil  (65)  ri-§i-5u  u-ul-lu-i'i  i-na  E-sagila  bltim  si  ki-ma  §a-me-c  u  ir-si-tim  isda-§u  ki-na  (70)  di-in  ma-tim
 a-na  di-a-nim  pu-ru-zi-e  ma-tim  a-na  pa-ra-si-im  ^imh-Uni  5ii-te-
 Su-r:  ti-ia    su-ku-ra-lim    (75)  i-na    nar^ia   A5-tur-ma   i-na
 
 ma-bar  salmi-ia  5ar  ini-.s:i-ri-im  u-ki-in  sarrum  §d  in  5arri(ri)(80)  Su-
 
 
-460  CUNEIFORM  PARALLELS
-
 rival.  By  the  command  of  Shamash,  (85)  the  great
-judge  of  heaven  and  earth,  righteousness  shall  be  estab-
-lished in  the  land.  By  the  order  of  (90)  Marduk,  my
+judge  of  heaven  and  earth,  righteousness  shall  be  established in  the  land.  By  the  order  of  (90)  Marduk,  my
 lord,  destruction  shall  not  come  upon  my  statue;  in
 Esagila,  which  I  love,  shall  my  name  [Column  XXV,  r.]
 (1)  forever  be  had  in  remembrance.  Let  him  who  is
@@ -28330,14 +26356,12 @@ to  know  his  cause,  he  shall  find  justice,  and  make  his
 heart  merry.  (He  will  say)  (20)  "Hammurapi  is  a  lord,
 who  is  a  father  unto  his  subjects,  who  has  kept  the
 (25)  words  of  Marduk  his  lord,  who  has  obtained  the
-victory  of  Marduk  above  and  (30)  below,  who  has  re-
-joiced the  heart  of  Marduk,  his  lord,  and  brought  peace
+victory  of  Marduk  above  and  (30)  below,  who  has  rejoiced the  heart  of  Marduk,  his  lord,  and  brought  peace
 (35)  unto  the  people  for  all  time,  and  set  the  land  in
 order."  Then  shall  he  (40)  pray  with  a  full  heart  before
 Marduk,  my  lord,  and  Zaipanit,  my  lady,  (45)  and  the
 protecting  deities,  the  gods  of  entrance  (50)  of  Esagila,
-within  Esagila  be  favorable  to  his  wishes  before  (55)  Mar-
-duk, my  lord,  and  Zarpanit,  my  lady.
+within  Esagila  be  favorable  to  his  wishes  before  (55)  Marduk, my  lord,  and  Zarpanit,  my  lady.
 
 In  the  days  that  are  (60)  to  come,  forever  and  ever,
 the  king  who  is  in  the  land  shall  attend  unto  the  words
@@ -28348,30 +26372,24 @@ ki-bf-it  (ilu)  §ama§  (8.5)  da-a-a-nim  ra-bi-im  §a  Same  u  ersetim  mi
 u-zu-ra-tu-u-a  mu-sa-zi-kam  a  ir-Si-a  i-na  £-sag-ila  Sa  a-ra-am-mu
 §u-mi  i-na  da-mi-ik-tim  [Column  XXV,  r.]  a-na  da-ar  li-iz-za-ki-ir
 a-wi-Ium  ba-ab-lum  Sa  a-wa-tam  (5)  i-ra-as-Sii-u  a-na  ma-jja-ar
-Balmi-ia  Sar  mi-Sa-ri-im  li-il-li-ik-ma  nari  (10)  Sa-at-ra-am  li-i£-ta-
-a§-si-ma  a-wa-ti-ia  5u-ku-ra-tim  li-is-me-ma  (15)  nart  a-wa-tam  li-
+Balmi-ia  Sar  mi-Sa-ri-im  li-il-li-ik-ma  nari  (10)  Sa-at-ra-am  li-i£-taa§-si-ma  a-wa-ti-ia  5u-ku-ra-tim  li-is-me-ma  (15)  nart  a-wa-tam  li-
 kal-lim-Su  di-in-Sii  li-mu-iir  li-i[b]-ba-£u  l[i-n]a-ap-pf-iS-ma  (20)  [$a]-
 am-mu-ra-pf-mi  be-lum  Sa  ki-ma  a-bi-im  wa-li-di-im  a-na  ni-li
-i-ba-a§-§u-u  (25)  a-na  a-wa-at  (ilu)  Marduk  be-lf-Sii  uS-ta-ak-ti-it-
-ma  ir-ni-ti  (ilu)  Marduk  e-li-iS  (30)  u  §a-ap-li-i§  ik-§u-ud  li-ib-bi
+i-ba-a§-§u-u  (25)  a-na  a-wa-at  (ilu)  Marduk  be-lf-Sii  uS-ta-ak-ti-itma  ir-ni-ti  (ilu)  Marduk  e-li-iS  (30)  u  §a-ap-li-i§  ik-§u-ud  li-ib-bi
 (ilu)  Marduk  be-H-§u  li-ti-ib  u  §i-ra-am  ta-ba-am  (35)  a-na  ni-§i  a-na
 da-ar  i-§i-im  u  ma-tam  u§-te-§e-ir  da-ni-tam  (40)  li-ik-bi-ma  i-na
 ma-Jjar  (ilu)  Marduk  be-li-ia  (ilu)  Sar-pa-ni-tum  be-el-ti-ia  (45)  i-na
-li-ib-bi-§u  ga-am-ri-im  li-ik-ru-ba-am  se-du-um  la-ma-zum  ilu  e-ri-
-bu-ut  (50)  fi-sag-ila  libitti  E-sag-ila  i-gi-ir-ri-e  umi(mi)-5a-am  i-na
+li-ib-bi-§u  ga-am-ri-im  li-ik-ru-ba-am  se-du-um  la-ma-zum  ilu  e-ribu-ut  (50)  fi-sag-ila  libitti  E-sag-ila  i-gi-ir-ri-e  umi(mi)-5a-am  i-na
 ma-bar  (55)  (ilu)  Marduk  be-lf-ia  (ilu)  Sar-pa-ni-tum  be-el-ti-ia
 li-dam-mi-ku  a-na  wa-ar-ki-  (60)  a-at  umi  a-na  ma-ti-ma  sarrum,  Sa
 
-
-THE  CODE  OF  HAMMURAPI  461
 
 (65)  of  righteousness,  which  I  have  written  upon  my
 monument.  (70)  The  law  of  the  land,  which  I  have
 given,  the  decisions  which  I  have  pronounced,  he  shall
 not  alter,  nor  efface  my  image.  (75)  If  that  man  have
 wisdom,  if  he  wish  to  keep  his  land  in  order,  he  shall  take
-heed  to  the  words  which  I  have  written  upon  my  monu-
-ment. (80)  The  procedure,  the  administration,  and  the
+heed  to  the  words  which  I  have  written  upon  my  monument. (80)  The  procedure,  the  administration,  and  the
 law  of  the  land,  which  I  have  given,  the  decisions  which
 I  have  pronounced,  this  monument  (85)  will  show  unto
 him.  He  shall  so  rule  his  subjects,  pronounce  judgment,
@@ -28380,8 +26398,7 @@ the  land,  and  promote  his  people's  prosperity.
 
 (95)  Hammurapi,  the  king  of  righteousness,  whom
 Shamash  has  endowed  with  justice,  am  I.  My  words
-are  well  considered,  (100)  my  deeds  have  no  rival,  ex-
-alted, noble  (?),  grand  (?).  They  are  for  the  wise,  [Col-
+are  well  considered,  (100)  my  deeds  have  no  rival,  exalted, noble  (?),  grand  (?).  They  are  for  the  wise,  [Col-
 umn XXVI,  r.]  (1)  a  model,  to  attain  unto  glory.
 
 If  that  man  give  (5)  heed  to  my  words,  which  I  have
@@ -28428,8 +26445,6 @@ sa-a  Sum-ma  a-wi-Ium  isu-i'i  a-ni  a-wa-ti-ia  n  i-na  nar^-ia  a§-tu-ru
 Sum-ma    a-wi-lura    Su-u    a-wa-ti-ia    (20)  Sa-i-na    nan-ja    dS-tu-ru
 
 
-462  CUNEIFORM  PARALLELS
-
 I  have  written  upon  my  monument,  if  he  despise  my
 curses,  and  fear  not  (25)  the  curse  of  the  god,  if  he  blot
 out  the  law  which  I  have  given,  (30)  deface  my  words,
@@ -28440,42 +26455,32 @@ king,  or  lord,  or  patesi,  or  commoner,  whatever  name  he
 bear,  may  (45)  the  great  Anu,  the  father  of  the  gods,
 who  has  established  my  reign,  may  he  take  from  him  the
 glory  of  royalty,  break  (50)  his  staff  and  curse  his  fate.
-May  Ellil,  the  lord,  who  fixes  destinies,  (55)  whose  com-
-mand is  not  changed,  who  has  made  my  kingdom  great,  set
+May  Ellil,  the  lord,  who  fixes  destinies,  (55)  whose  command is  not  changed,  who  has  made  my  kingdom  great,  set
 up  a  rebellion,  which  his  hand  cannot  control,  (and)  make
-(60)  the  wind  (?)  of  his  downfall  to  blow  upon  his  dwell-
-ing, may  he  fix  as  his  destiny,  a  reign  of  sighs,  (65)  a
+(60)  the  wind  (?)  of  his  downfall  to  blow  upon  his  dwelling, may  he  fix  as  his  destiny,  a  reign  of  sighs,  (65)  a
 short  life,  years  of  famine,  darkness  without  light,
 (70)  and  sudden  death.  The  destruction  of  his  city,  the
 scattering  of  his  subjects,  (75)  the  wresting  away  of  his
 dominion,  the  blotting  out  of  his  name  and  memory  in
 the  land,  may  Bel  (80)  command  with  his  powerful  order.
-May  Belit,  the  great  mother,  whose  command  is  power-
-ful in  Ekur,  (85)  the  lady  who  has  heard  my  wishes,  in
+May  Belit,  the  great  mother,  whose  command  is  powerful in  Ekur,  (85)  the  lady  who  has  heard  my  wishes,  in
 the  place  of  justice  and  decision,  make  his  (90)  affairs
 evil  before  Ellil;  may  she  put  in  (95)  Ellil's  mouth,  the
 
 la  i-kul-ma  ir-ri-ti-ia  i-me-e§-ma  (25)  ir-ri-it  1-lf  la  i-dur-ma  di-in
-a-di-nu  up-ta-az-zi-is  a-wa-ti-ia  (30)  u§-te-pi(!)-el  u-zu-ra-ti-ja  ut-
-ta-ak-ki-ir  §u-mi  §a-at-ra-am  ip-8i-it-ma  (35)  §um-&u  i§-ta-tar  a§-
+a-di-nu  up-ta-az-zi-is  a-wa-ti-ia  (30)  u§-te-pi(!)-el  u-zu-ra-ti-ja  utta-ak-ki-ir  §u-mi  §a-at-ra-am  ip-8i-it-ma  (35)  §um-&u  i§-ta-tar  a§-
 Sum  ir-ri-tim  §i-na-ti  §a-ni-a-am-ma  nS-ta-^i-iz  a-wi-lum  §u-u
 (40)  lu  Sarrum  lu  b£lum  lu  i&akkum  u  lu  a-wi-lu-tum  §£  §u-ma-am
 na-bi-a-at  (45)  Anum  ra-bu-um  a-bu  1— If  na-bu-u  pale-ia  melim
 §ar-ru-tim  li-te-ir-§u  (50)  fcattu-§u  li-i5-bi-ir  §i-ma-ti-§u  li-ru-ur  (ilu)
 Mil  be-lum  mu-§i-im  §i-ma-tim  (55)  §a  ki-bf-zu  la  ut-ta-ka-ru
 mu-§ar-bu-u  §ar-ru-ti-ia  te-§i  la  §u-ub-bi-im  (60)  ga-ba-ra-a&
-ba-la-ki-§u  i-na  §u-ub-ti-§u  li-§a-ap-pf-ba-a£-§um  pale  ta-ne-
-bi-im  (65)  A-mi  i-zu-tim  §d-na-a-at  bu"^^-ab-bi-ini  ik-li-it  la  na-
-wa-ri-im  (70)  mu-ut  ni-ti-il  i-nim  a-na  §i-im-tim  li-§i-im-§um  Jja-la-
-ak  ali-§u  na-a§-pu-ub  ni-§i-§u  (75)  §ar-ru-zu  §u-pf-lam  §um-su  (i
-zi-kir-§ii  i-na  ma-tira  la  §u-ub-§d-a-am  i-na  pi-§u  Jkab-tim  (80)  li-ik-
-bi  (ilu)  Belit  ummum  ra-bf-tum  §a  ki-bf-za  i-na  Ekurrim  kab-ta-at
-(85)  rubatum  mu-dam-mi-ga-at  i-gi-ir-ri-ia  a-§ar  §i-ip-ti-im  u  pu-
-ru-zi-im  i-na  ma-bar  (ilu)  IHil  (90)  a-wa-zu  U-li-mi-in  §u-ul-pu-ut
+ba-la-ki-§u  i-na  §u-ub-ti-§u  li-§a-ap-pf-ba-a£-§um  pale  ta-nebi-im  (65)  A-mi  i-zu-tim  §d-na-a-at  bu"^^-ab-bi-ini  ik-li-it  la  na-
+wa-ri-im  (70)  mu-ut  ni-ti-il  i-nim  a-na  §i-im-tim  li-§i-im-§um  Jja-laak  ali-§u  na-a§-pu-ub  ni-§i-§u  (75)  §ar-ru-zu  §u-pf-lam  §um-su  (i
+zi-kir-§ii  i-na  ma-tira  la  §u-ub-§d-a-am  i-na  pi-§u  Jkab-tim  (80)  li-ikbi  (ilu)  Belit  ummum  ra-bf-tum  §a  ki-bf-za  i-na  Ekurrim  kab-ta-at
+(85)  rubatum  mu-dam-mi-ga-at  i-gi-ir-ri-ia  a-§ar  §i-ip-ti-im  u  puru-zi-im  i-na  ma-bar  (ilu)  IHil  (90)  a-wa-zu  U-li-mi-in  §u-ul-pu-ut
 ma-ti-§u  Jja-la-ak  ni-§i-§u  ta-ba-ak  na-pi§-ti-§ii  ki-ma  me-e  (95)  i-na
 
-
-THE  CODE  OF  HAMMURAPI  463
 
 run  of  his  land,  the  destruction  of  his  people,  the  pouring
 out  of  his  life  like  water!
@@ -28511,22 +26516,17 @@ pi  (ilu)  Illil  §ar-ri-im  li-§a-a§-ki-in  (ilu)  En-ki  rubum  ra-bi-um  �
 8i-ma-tu-§u  (100)  i-na  mab-ra  i-la-ka  apkal  1— If  mu-di  mi-im-ma
 fium-Su  mu-§a-ri-ku  [Column  XXVII,  r.J  u-um  ba-la-ti-ia  uz-nam
 u  ne-me-ga-am  li-te-ir-§u-ma  (5)  i-na  mi-§i-tim  li-it-ta-ar-ru-§u
-narati-Su  i-na  na-ak-bi-im  li-is-ki-ir  (10)  i-na  ir-si-ti-§u  aSntin  na-
-pf-iiMi  ni-Si  a  u-Sa-al>§i  (ilu)  SamaS  da-a-a-nu-um  ra-bi-um  (15)  £a
+narati-Su  i-na  na-ak-bi-im  li-is-ki-ir  (10)  i-na  ir-si-ti-§u  aSntin  napf-iiMi  ni-Si  a  u-Sa-al>§i  (ilu)  SamaS  da-a-a-nu-um  ra-bi-um  (15)  £a
 sa-me-e  u  ir-ei-tim  mu-u&-te-§e-ir  §a-ak-na-at  na-pf-i§-tim  be-lum
 tu-kul-ti  (20)  Sar-ru-zu  li-is-ki-ip  di-in-§u  a  i-di-in  u-ru-ub-§u  li-§i
 ifidl  um-ma-ni-§u  (25)  li-&-bi-[e]I-zi  i-na  bi-ri-§u  Siram  lim-nam  §a
 na-sa-ab  ifidl  Sar-ru-ti-Su  (30)  u  fca-la-ak  ma-ti-§u  li-i§-ku-un-§um
 a-wa-tum  ma-ru-uS-tum  §a  (ilu)  §ama§  ar-Jji-i§  li-ik-§u-zu
-e-li-ifi  (35)  i-na  ba-al-tu-tim  li-iz-zu-ub-§u  §a-ap-li-i§  i-na  ir-ei-
-tim  eJemmu-Sii  (40)  me-c  li-§a-as-mi  (ilu)  Sin  be-el  §d-me-e  ilum
-ba-ni-i  Sa  §e-ri-zu  i-na  1-1  f  §u-pa-a-at  (45)  agam  kussam  §d  §ar-
-ru-tim  li-te-ir-§u  ar-nam  kab-ta.m  Se-ri-zu  ra-bi-tam  ki  i-na  zu-um-
+e-li-ifi  (35)  i-na  ba-al-tu-tim  li-iz-zu-ub-§u  §a-ap-li-i§  i-na  ir-eitim  eJemmu-Sii  (40)  me-c  li-§a-as-mi  (ilu)  Sin  be-el  §d-me-e  ilum
+ba-ni-i  Sa  §e-ri-zu  i-na  1-1  f  §u-pa-a-at  (45)  agam  kussam  §d  §arru-tim  li-te-ir-§u  ar-nam  kab-ta.m  Se-ri-zu  ra-bi-tam  ki  i-na  zu-um-
 ri-Su  (50)  la  i-^al-li-ku  li-mu-zu-ma  umi(mi)  war^l  Sa-na-a-at  palA-
 6u  i-na  ta-ne-fii-im  (55)  u  di-im-ma-tim  li-§a-ak-ti  kam-ma-al  §ar-
 
-
-464    ,  CUNEIFORM  PARALLELS
 
 the  burdens  of  sovereignty,  a  life  (60)  like  unto  death
 may  he  fix  as  his  destiny.
@@ -28538,8 +26538,7 @@ destroy  his  land  in  hunger  (75)  and  want,  thunder
 furiously  over  his  city  and  make  his  land  (80)  into  heaps.
 
 May  Zammama,  the  great  warrior,  the  first-born  son  of
-Ekur,  (85)  who  goes  at  my  right  hand,  break  his  weap-
-ons on  the  field  of  battle,  turn  his  day  into  night,  make
+Ekur,  (85)  who  goes  at  my  right  hand,  break  his  weapons on  the  field  of  battle,  turn  his  day  into  night,  make
 (90)  his  enemy  to  triumph  over  him.
 
 May  Ishtar,  goddess  of  battle  and  conflict,  who  takes
@@ -28547,8 +26546,7 @@ hold  of  (95)  my  weapons,  my  gracious  protector,  who
 loves  my  reign,  curse  his  dominion  with  great  fury  in  her
 (100)  angry  heart  and  turn  his  grace  (105)  into  evil.
 [Column  XXVIII,  r.]  (1)  May  she  break  his  weapons  on
-the  field  of  battle  and  conflict.  (5)  May  she  create  dis-
-order and  rebellion  for  him;  strike  down  his  warriors  and
+the  field  of  battle  and  conflict.  (5)  May  she  create  disorder and  rebellion  for  him;  strike  down  his  warriors  and
 let  the  earth  drink  up  (10)  their  blood.  May  she  cast
 the  bodies  of  his  troops  in  heaps  (15)  upon  the  field.  As
 for  him,  may  she  not  grant  him  a  life  of  pity,  (but)  give
@@ -28562,22 +26560,16 @@ a-na  §i-im-tim  li-Si-im-Sum  (ilu)  Rammanum  be-el  begallim
 (65)  gugal  §a-me-e  u  ir-si-tim  ri-zu-u-a  zu-ni  i-na  §6-me-e  mi-lam
 (70)  i-na  na-ak-bi-im  li-te^ir-Su  ma-zu  i-na  5u-§a-ab-bwni  u  bu-bu-tim
 (75)  li-bal-li-ik  e-li  ali-§u  iz-zi-i§  li-is-si-ma  ma-zu  a-na  til  a-bu-bi-im
-(80)  li-te*ir  (iiu)  Za-ma-ma  kar-ra-du-um  ra-bi-um  raarum  ri-e§-tu-
-um  §&  Ekurrim  (85)  a-li-ku  im-ni-ia  a-§ar  tam-ba-ri-im  kakka-§u
+(80)  li-te*ir  (iiu)  Za-ma-ma  kar-ra-du-um  ra-bi-um  raarum  ri-e§-tuum  §&  Ekurrim  (85)  a-li-ku  im-ni-ia  a-§ar  tam-ba-ri-im  kakka-§u
 li-i§-bi-ir  u-ma-am  a-na  mu-§i-im  li-te-ir-§um-ma  (90)  na-ki-ir-§u
 e-li-§ii  li-i§-zi-iz  (ilu)  Innanna  be-li-it  tajjazim  u  kablim  pa-ti-a-at
-(95)  kakki-ia  la-ma-zi  da-mi-ik-tum  ra-i-ma-at  pal^-ia  i-na  li-ib-
-bi-^.  (100)  ag-gi-im  i-na  uz-za-ti-Sd  ra-bf-a-tim  §ar-ru-zu  li-ru-ur
+(95)  kakki-ia  la-ma-zi  da-mi-ik-tum  ra-i-ma-at  pal^-ia  i-na  li-ibbi-^.  (100)  ag-gi-im  i-na  uz-za-ti-Sd  ra-bf-a-tim  §ar-ru-zu  li-ru-ur
 dam-ga-ti-§u  (105)  a-na  li-im-ne-tim  li-te-ir  [Column  XXVIII,  r.]
-(li-te-ir)  a-§ar  ta^azim  u  kablim  kakka-§u  li-i§-b[i]-ir  (5)  i-§i-tam  za-
-ah-ma-d§-tam  li-i§-ku-un-§um  kar-ra-di-§u  li-Sa-am-ki-it  (10)  da-mi-
+(li-te-ir)  a-§ar  ta^azim  u  kablim  kakka-§u  li-i§-b[i]-ir  (5)  i-§i-tam  zaah-ma-d§-tam  li-i§-ku-un-§um  kar-ra-di-§u  li-Sa-am-ki-it  (10)  da-mi-
 §u-nu  ir-si-tam  li-i§-ki  gu-ru-un  §a-al-ma-at  um-ma-na-ti-§u  (15)  i-na
 si-ri-im  li-it-ta-ad-di  umman-5u  r[i-m]a-am  a-i  ii-§ar-§i  §u-a-ti
-(20)  a-na  ^a-at  na-ak-ri-§ii  li-ma-al-li-§u-ma  a-na  ma-at  nu-ku-ur-
-ti-§u  ka-mi-iS  li-ru-§u  (ilu)  Nergal  (25)  dan-nu-um  i-na  1-lf  ga-ba-al
+(20)  a-na  ^a-at  na-ak-ri-§ii  li-ma-al-li-§u-ma  a-na  ma-at  nu-ku-urti-§u  ka-mi-iS  li-ru-§u  (ilu)  Nergal  (25)  dan-nu-um  i-na  1-lf  ga-ba-al
 
-
-THE  CODE  OF  HAMMURAPI  .  465
 
 rior  wi^'jut  a  rival,  who  grants  victory  to  me,  may  he
 bind  up  his  subjects  (30)  with  great  power,  as  in  strong
@@ -28592,8 +26584,7 @@ heir  to  be  born.
 (50)  May  Nin-karrasha,  the  daughter  of  Anu,  who
 promises  me  grace,  bring  upon  his  members,  in
 Ekur,  a  (55)  terrible  disease,  an  evil  fever,  sore  wounds,
-which  may  not  be  healed,  whose  character  (60)  is  un-
-known to  the  physician,  which  he  cannot  heal  with
+which  may  not  be  healed,  whose  character  (60)  is  unknown to  the  physician,  which  he  cannot  heal  with
 bandages,  which,  like  the  sting  of  death,  cannot  be  put
 away  (65)  till  his  life  go  away,  and  he  lament  over  life's
 power.
@@ -28612,23 +26603,19 @@ dan-nim  li-§&-ti-§u-ma  bi-ni-a-ti-§u  ki-ma  ea-lam  ti-ti-im  li-ifc-pu-uS
 (40)  (ilu)  Nin-tu  rubatum  si-ir-tum  §a  ma-ta-tim  ummum  ba-ni-ti
 ablam  li-te-ir-§u-ma  (45)  Su-ma-am  a  u-§ar-§i-§u  i-na  kir-bi-it
 ni-£i-§u  z£r  a-wi-lu-tim  a  ib-ni  (50)  (ilu)  Nin-kar-ra-§a  marat
-Anira(nim)  ga-bi-a-at  dum-ki-ia  i-na  Ekurrim  (55)  mur-ea-am  kab-
-tam  asakkam  li-im-nam  zi-im-ma-am  mar-fa-am  §&  la  i-pa-a§-§e-bu
+Anira(nim)  ga-bi-a-at  dum-ki-ia  i-na  Ekurrim  (55)  mur-ea-am  kabtam  asakkam  li-im-nam  zi-im-ma-am  mar-fa-am  §&  la  i-pa-a§-§e-bu
 asum  ki-ri-ib-§u  (60)  la  i-lam-ma-du  i-na  zi-im-di  la  u-na-ab-bu-§u
 ki-ma  ni-si-ik  mu-tim  la  in-na-za-bu  i-na  bi-ni-a-ti-§u  (65)  li-§a-
-«i-a-aS-5um-ma  a-di  na-pf-i5-ta-§u  i-bi-el-lu-u  a-na  id-lu-ti-Su  li-id-
-dara-ma-am  (70)  ilu  rabutum  fid  Sa-me-e  u  iivsi-tim  (ilu)  Anunnaki
+«i-a-aS-5um-ma  a-di  na-pf-i5-ta-§u  i-bi-el-lu-u  a-na  id-lu-ti-Su  li-iddara-ma-am  (70)  ilu  rabutum  fid  Sa-me-e  u  iivsi-tim  (ilu)  Anunnaki
 i-na  napbari-§u-nu  (75)  5e-id  bi-tim  libitti  Ebarrim  §u-a-ti  zdr-§u
 ma-zu  |ib-M  (80)  DHB-M  u  um-ma-an-§u  ir-ri-tam  ma-ru-uS-tam
-li-ru-ru  ir-ri-tim  (85)  da-ni-a-tim  (ilu)  Illil  i-na  pl-6u  6a  la  ut-ta-ak-
-ka-ru  li-ru-ur-§u-ma  (90)  ar-bi-i§  li-ik-Su-da-§u
+li-ru-ru  ir-ri-tim  (85)  da-ni-a-tim  (ilu)  Illil  i-na  pl-6u  6a  la  ut-ta-akka-ru  li-ru-ur-§u-ma  (90)  ar-bi-i§  li-ik-Su-da-§u
 
 
 INDEX
 
 
-Abdi-Khiba  of  Jerusalem,  let-
-ters of,  268-278
+Abdi-Khiba  of  Jerusalem,  letters of,  268-278
 
 Abishi,  207
 
@@ -28637,10 +26624,8 @@ Abydenus  on  Sennacherib,  347
 Aeco,  Ashurbanapal  at,  359
 
 Adad,  identified  with  Ramman,
-147
 
-Adad-nirari  IV,  292;  for  intro-
-duction, see  Shalmaneser  III;
+Adad-nirari  IV,  292;  for  introduction, see  Shalmaneser  III;
 Calah  inscription,  305;  Nebo
 statue,  307
 
@@ -28658,8 +26643,7 @@ Ai-ibur-shabu,  364
 
 Aleppo,  297
 
-Amarna,  the  Tell-el  period,  in-
-troduction, 252;  discovery  of
+Amarna,  the  Tell-el  period,  introduction, 252;  discovery  of
 letters,  252;  Egypt  at  period
 of,  254 ;  Syria  and  Palestine  at
 period  of,  258
@@ -28667,7 +26651,6 @@ period  of,  258
 Amel-Ea.     See  Ur-sharml  >i
 
 Amel-Marduk  (Evil  Merodach),
-371
 
 Amenophis  III,  letter  from
 Tushratta,  263
@@ -28676,10 +26659,8 @@ Amenophis  IV,  letter  from
 Burraburiash,  262
 
 Ammizaduga,  king  of  Babylon,
-105
 
 Amraphel.  See  Hammurapi,
-246
 
 Amurru,  259
 
@@ -28695,8 +26676,7 @@ Apason  (Apsu),  44
 
 Apsu,  10
 
-Arabia,  campaign  of  Sennach-
-erib, 345;  campaign  of  Esar-
+Arabia,  campaign  of  Sennacherib, 345;  campaign  of  Esar-
 haddon,  353-357
 
 Arad-Sin,  text  of,  248
@@ -28711,11 +26691,9 @@ Ashdod,  Sargon  against,  328
 Ashur,  identified  with  Anshar,
 54;  god  as  creator,  57
 
-Ashurbanapal,  147;  introduc-
-tion, 352;  at  Acco,  359
+Ashurbanapal,  147;  introduction, 352;  at  Acco,  359
 
-Ashur-nadin-shum,  king  of  Baby-
-lon, 212
+Ashur-nadin-shum,  king  of  Babylon, 212
 
 Ashurnazirpal,  introduction  to,
 283;  annals  of,  286
@@ -28746,8 +26724,7 @@ Belshazzar,  374,  379
 Berosso8,  on  early  myths,  76;
 on  early  kings,  78;  on  the
 Deluge,  109;  on  destruction
-by  fire,  112;  on  Neo-Baby-
-lonian  period,  370
+by  fire,  112;  on  Neo-Babylonian  period,  370
 
 Bir-idri  of  Damascus,  297
 
@@ -28759,8 +26736,7 @@ Borsippa,  Itil
 
 Boundary  stone  (Kudurru),  387
 
-Building  inscription  with  cos-
-mology, 58
+Building  inscription  with  cosmology, 58
 
 Burraburiash,  letter  of,  262
 
@@ -28769,7 +26745,6 @@ of,  265,  266
 
 Calah,  capital  of  Assyria,  286,
 
-307
 Calno  (Kullani),  311
 Canaan  (Kinakhkhi),  259
 Carchemish,  fall  of,  325
@@ -28783,23 +26758,14 @@ Chronology,   literature  of,   240;
 materials  of,  199
 
 
-466
-
-
 INDEX
 
 
-467
-
-
-Code  of  Hammurapi,  introduc-
-tion,    395;     literature,     397;
+Code  of  Hammurapi,  introduction,    395;     literature,     397;
 translation,  398
 Contract  of  Marriage,  394
-Cosmogony,  Babylonian,  accord-
-ing to  Camascius,  44
-Cosmology  in  a  ritual,  44;  Assy-
-rian, 53
+Cosmogony,  Babylonian,  according to  Camascius,  44
+Cosmology  in  a  ritual,  44;  Assyrian, 53
 Creation,  Assyrian  text  of,  54;
 Babylonian       story     of,     3;
 bilingual  of,  47;  of  cattle  and
@@ -28808,34 +26774,28 @@ and  moon,   46;  of  world  by
 Marduk,  47
 Croesus,  king  of  Lydia,  376
 Cyaxares,  king  of  Medes,  376
-Cyrus,  introduction,  375;  cylin-
-der of,  380;  conquers  Medes,
+Cyrus,  introduction,  375;  cylinder of,  380;  conquers  Medes,
 374;    king    of    Anshan,    376;
-takes    Ecbatana,    376;    con-
-quers   Lydia,    376;    governs
-Asia  Minor,  376;  takes  Baby-
-lon, 377,  378
+takes    Ecbatana,    376;    conquers   Lydia,    376;    governs
+Asia  Minor,  376;  takes  Babylon, 377,  378
 
 Darius,  king  of  Babylon,   219;
 
 chronicle  written  in  his  reign,
 
-219
 Deluge,  according  to  Berossos,
 
 109;  Fragment  (Morgan),  104;
 
 Fragment     (Hilprecht),     108.
 
-See  Flood  Story,  another  re-
-cension, 103
+See  Flood  Story,  another  recension, 103
 Demons  and  Dragon,  60
 Demons,  seven  evil,  63
 Descent  of  Ishtar  to  Hades,  121
 Destruction  by  Fire,  112
 Doctrinal  and  Liturgical  Texts,
 
-188
 Dragon  and  Demons,  60
 Dream,    prayer    for    favorable,
 
@@ -28864,7 +26824,6 @@ Ellil,  identified  with  Bad,  192
 Elulaeus  (Luli),  of  Sidon,  335
 E-makhtila,  temple  in  Borsippa,
 
-150
 Engidu,  friend  of  Gilgamesh,  82
 Enmeduranki,  79
 Epic,  Gilgamesh,  80
@@ -28883,14 +26842,12 @@ Esarhaddon,  introduction,  349;
 Prism  A,  353;  Prism  B,  355;
 campaign  against  Arabia  and
 Egypt,  357 ;  king  of  Babylon,
-215;  invades  Egypt,  217;  cap-
-tures Memphis,  217;  dies  in
+215;  invades  Egypt,  217;  captures Memphis,  217;  dies  in
 Egypt,  218
 Ethical  incantation,  170
 E-ulbar,  temple  of  Ishtar,  375
 Evil-Merodach   (Amel-Marduk),
 
-371
 E-zida,  temple  in  Borsippa,  150
 
 Flood  story,  Babylonian,  90
@@ -28902,7 +26859,6 @@ Gilgamesh  Epic,  80
 Gishdubar.    See  Gilgamesh
 Gods  of  the  months,  194
 Gushea,  identified  with  Ishtar,
-153
 
 Hades,  descent  of  Ishtar  to,  121 ;
 
@@ -28923,9 +26879,6 @@ Historical  texts.  241
 Hophra,  king  of  Egypt,  361,  362
 Boihee,  k'uuz  of  Samaria,  312
 Hymns  and  Prayers,  139
-
-
-468
 
 
 INDEX
@@ -28958,7 +26911,6 @@ Ja'udi,  311
 
 Jehoahaz  (Ahaz),  king  of  Judah,
 
-322
 Jehoiachin,  king  of  Judah,  361
 Jehoiakim,  king  of  Judah,  360
 Jehu,  king  of  Israel,  290
@@ -28976,14 +26928,11 @@ Kamlalanu  (Ashurbanapal),  352
 Karkar.    See  Qarqar
 Kashtiliash,    king    of   Kassites,
 
-207
 Kaushmalaka,    king    of   Edom,
 
-322
 Khabiri,  259,  260
 Khaldia,  kingdom  of,  291,  309,
 
-310
 Khalman  (Aleppo),  295,  297
 Khullushu,  king  of  Elam,  212
 Khumbaba,  warder  of  the  cedar
@@ -28991,7 +26940,6 @@ Khumbaba,  warder  of  the  cedar
 mountain,  84
 Khummakhaldash,  king  of  Elam,
 
-215
 King  List,   the  Babylonian   A,
 
 201 ;  the  Babylonian  B,  202
@@ -29007,15 +26955,12 @@ Kullanhou,  311
 Kullani  (Calno),  311
 Kurigalzu,  king  of  Babylon,  394
 Kuturnankhundi,  king  of  Elam,
-84
 
-Labashi-Marduk,  king  of  Baby-
-lon, 372
+Labashi-Marduk,  king  of  Babylon, 372
 
 Labbu  and  Ellil,  60,  61
 
-Lachish,  letter  from,  278;  Sen-
-nacherib at,  345
+Lachish,  letter  from,  278;  Sennacherib at,  345
 
 Lakhamu,  3,  8,  20
 
@@ -29024,15 +26969,12 @@ Lakhmu,  3,  20
 Larsa  (Ellasar),  245
 
 Lebanon,  Nebuchadrezzar  in,
-365
 
 Legend  of  Sargon,  king  of  Agade,
-135
 
 Literature  of  chronology,  240
 
 Liturgical  and  Doctrinal  Texts,
-188
 
 Lubarna,  king  of  Patin,  285
 
@@ -29070,11 +27012,9 @@ Nabonassar,  king  of  Babylon,
 208,  309,  313
 
 Nabonidus,  introduction,  371;
-inscription  from  clay  cylin-
-ders, 378
+inscription  from  clay  cylinders, 378
 
 Nabopolassar,  king  of  Babylon,
-394
 
 Nabunadinzer,  313
 
@@ -29086,30 +27026,23 @@ Nannar,  identified  with  Sin,  142
 INDEX
 
 
-469
-
-
 Naphtali,  321
 
 Naram-Sin,  king  of  Akkad,  375
 
 Neb-maat-Ra  (Amenophis  III),
-256
 
 Nebuchadrezzar,  introduction,
-360;  East  India  House  in-
-scription, 364;  in  the  Lebanon,
+360;  East  India  House  inscription, 364;  in  the  Lebanon,
 365;  campaign  against  Egypt,
 367;  building  inscription,  368 ;
 western  campaign,  369
 
 Nergal  and  Ereskigal,  131
 
-Nergal-shar-usur,  king  of  Baby-
-lon, 372
+Nergal-shar-usur,  king  of  Babylon, 372
 
 Nergal-ushezib,  king  of  Babylon,
-213
 
 Nimmuria  (Amenophis  III),  256
 
@@ -29142,7 +27075,6 @@ Polyhistor  on  Sennacherib,  347
 Poros  (Pulu),  308
 Prayer  for  a  favorable  dream,
 
-185
 Ptolemy,  canon  of,  239
 Pulu  (Tiglathpileser  IV),  308
 Puzur-Amurri,  sailor,  94
@@ -29183,19 +27115,15 @@ Sanipu  of  Bit-Amman,  322
 
 Sargon  I,  legend  of  king,  135
 
-Sargon  II,  chronicle  concern-
-ing, 203;  campaign  against
+Sargon  II,  chronicle  concerning, 203;  campaign  against
 Merodach-baladan,  210,  211;
-introduction,  323;  takes  Sa-
-maria, 323 ;  attacks  Merodach-
+introduction,  323;  takes  Samaria, 323 ;  attacks  Merodach-
 baladan,  324;  invades  Urartu,
 324 ;  conquest  of  Samaria,  326 ;
 campaign  against  Hamath
-and  Gaza,  327;  stone  inscrip-
-tion from  Calah,  327;  cam-
+and  Gaza,  327;  stone  inscription from  Calah,  327;  cam-
 paign against  Ashdod,  328;
-cylinder  inscription,  328;  cam-
-paigns against  Samaria,  Gaza,
+cylinder  inscription,  328;  campaigns against  Samaria,  Gaza,
 and  Hamath,  331
 
 Sarpanitum,  wife  of  Marduk,  151
@@ -29206,12 +27134,10 @@ Semiramis,  307
 
 Sennacherib,  introduction,  332;
 campaign  against  Jerusalem,
-340;  summary  of  western  cam-
-paign, 344;  at  Lachish,  345;
+340;  summary  of  western  campaign, 344;  at  Lachish,  345;
 last  campaign  against  west,
 345;  Herodotus  on  campaign
-of  Sennacherib,  346;  Polyhis-
-tor and  Abydenus  on  Sen-
+of  Sennacherib,  346;  Polyhistor and  Abydenus  on  Sen-
 nacherib, 347
 
 Seven  evil  demons,  legend  of
@@ -29221,8 +27147,7 @@ Shalmaneser  III,  introduction
 to,  288;  Obelisk  inscription,
 293ff. ;  Monolith  inscription,
 294ft\;  Bull  inscription,  297ff.;
-Berlin  inscription,  298;  An-
-nalistic  fragment,  303
+Berlin  inscription,  298;  Annalistic  fragment,  303
 
 Shamash-ditana,  207
 
@@ -29233,7 +27158,6 @@ Shamshi-Adad  IV,  292
 Sharru  (Marduk),  95
 
 Shurpu,  an  incantation  series,
-170
 
 Sil.V  of  Egypt,  324
 
@@ -29241,15 +27165,11 @@ Biduri-Sabitu,  88
 
 sin.  hymn  to,  141
 
-Sin-idinnam,  letters  from  Ha-
-murapi,  248f.
+Sin-idinnam,  letters  from  Hamurapi,  248f.
 
 Sin-liki-urmini,  poet,  81
 
 Substitution,  doctrine  <>f,  195
-
-
-470
 
 
 INDEX
@@ -29272,24 +27192,19 @@ Tiamat,  3,  4,  5,  7,  10,  13,  14,  20,
 
 Tiglathpileser  IV,  introduction,
 308;  annals,  313;  western
-campaign,  317;  small  inscrip-
-tion, 320;  Nimroud  Tablet,
-322
+campaign,  317;  small  inscription, 320;  Nimroud  Tablet,
 
 Tishpak,  slayer  of  dragon,  62
 
 Toothache,  incantation  against,
-52
 
 Tushratta,  letter  of,  263
 
 Tyre,  siege  by  Nebuchadrezzar,
-363
 
 
 Ummanigash,  king  of  Elam,  209,
 
-210
 Ummu-Khubur,  8,  11.  20
 Uncii,  310
 Upshukkinaku,  19
@@ -29322,11 +27237,6 @@ Zedekiah,  king  of  Judah,  361
 ILLUSTRATIONS
 
 
-471
-
-
-PLATE  NO.  1
-
 Fragment  of  the  First  Tablet  of  Creation.    British  Museum.  K.  5419
 C.     Size  of  the  original,  Z%  by  \%  inches.     It  is  translated  pages 3- 10.
 Photograph  by  W.  A.  Mansell  &  Co.,  London.
@@ -29340,11 +27250,6 @@ EtBVERSE
 PLATE   N'.i.   1
 
 
-173
-
-
-PLATE  NO.  2
-
 The  Second  Tablet  of  Creation.      British  Museum,   Number  40,559.
 It  is  translated  pages  10-16.
 Photograph  by  W.  A.  Mansell  &  Co.,  London.
@@ -29357,8 +27262,6 @@ I.'i  \  i  ttSE
 
 l'i  \  1 1    So.  2
 
-
-PLATE  NO.  3
 
 The  Third  Tablet  of  Creation.     British    Museum,   Number  93,017.
 It  is  translated  pages  16-24.
@@ -29398,8 +27301,6 @@ I'l  \  i  i     V
 ITT
 
 
-PLATE  NO.  4
-
 The  Fourth  Tablet  of  Creation.      British  Museum,  Number  93,016.
 It  is  translated  pages  24-32.
 
@@ -29408,8 +27309,6 @@ Photograph  by  W.  A.  Mansell  &  Co.,  London.
 
 Obverse
 
-
-PLATE  NO.  5
 
 The  Fifth  Tablet  of  Creation.  British  Museum.  Size  of  the  original
 2A  by  !  y2  inches.  K.  3567  joined  to  K.  8588.  It  is  translated  pages
@@ -29423,8 +27322,6 @@ Obverse
 
 l'i  \  1 1    \o.  5
 
-
-PLATE  NO.  6
 
 The  Sixth  Tablet  of  Creation.     British  Museum,  Number  92,629.     It
 is  translated  pages  36.  37.
@@ -29446,8 +27343,6 @@ I'l    \TI       \u.     (i
 is::
 
 
-PLATE  NO.  7
-
 The  Seventh  Tablet  of  Creation.     British  Museum  K.  8522.     Size  of
 the  original.  3's  by  2'4  inches.     It  is  translated  pages  38-44.
 Photograph  by  W.  A.  Mansell  &  Co..  London.
@@ -29455,8 +27350,6 @@ Photograph  by  W.  A.  Mansell  &  Co..  London.
 
 Obverse
 
-
-PLATE  NO.  8
 
 Conflict  between  a  god,  as  the  representative  of  Cosmos,  and  a  horned
 dragon,  as  the  representative  of  Chaos.  In  the  early  mythology  it  was
@@ -29477,19 +27370,12 @@ Triibner  &  Co.,  Ltd.
 1ST
 
 
-PLATE  NO.  9
-
 The  Story  of  the  Deluge.  Assyrian  clay  tablet  in  the  British  Museum,
 K.  2252  4-  K.  2602  +  K.  3321  +  K.  4486  +  Sm.  1881.  Size  of  the
 original,  81,  by  5rs  inches.     Obverse.     It  is  translated  pages  90-101.
 
 Photograph  by  W.  A.  Mansell  &  Co..  London.
 
-
-489
-
-
-PLATE  NO.  10
 
 The  Story  of  the  Deluge.     Reverse.
 Photograph  by  W.  A.  Mansell  &  Co.,  London.
@@ -29498,8 +27384,6 @@ Photograph  by  W.  A.  Mansell  &  Co.,  London.
 I'M
 
 
-PLATE  NO.  11
-
 The  Story  of  the  Deluge.  Assyrian  clay  tablet  in  the  British
 Museum.  Size  of  the  original,  5^4  by  5*+  inches.  Obverse.  This
 tablet  is,  in  part,  a  duplicate  of  that  shown  in  Plate  No.  10.
@@ -29507,25 +27391,9 @@ tablet  is,  in  part,  a  duplicate  of  that  shown  in  Plate  No.  10.
 Photograph  by  W.  A.  Mansell  &  Co..  London.
 
 
-Plate  No.  11
-
-
-418
-
-
-PLATE  NO.  12
-
 The  Story  of  the  Deluge.  *  Reverse.
 Photograph  by  W.  A.  Mansell  &  Co.,  London.
 
-
-Plate  No.  12
-
-
-196
-
-
-PLATE  NO.  13
 
 Assyrian  representation  of  Gilgamesh,  depicted  as  strangling  a  lion
 Found  by  Botta  at  Khorsabad.  See  Botta  et  Flandin.  Monument  de
@@ -29536,10 +27404,7 @@ Illustration  reproduced  from  Ninive  und  Babylon,  von  Carl  Bezold,
 
 
 Platk  N'u.  L3
-497
 
-
-PLATE  NO.  14
 
 Seal  Cylinders.
 
@@ -29552,8 +27417,7 @@ Gilgamesh  is  journeying  by  boat  to  the  underworld,  where  he  meets
 Ut-napishtim.
 
 Figure  3.  Seal  cylinder  depicting  Ut  napishtim  in  his  ship  (the  ark).
-portrayed  as  a  house-like  structure  surrounded  by  wavy  lines  to  repre-
-sent water.
+portrayed  as  a  house-like  structure  surrounded  by  wavy  lines  to  represent water.
 
 Illustrations  from  Cyrus,  von  Ernest  Lindl,  Miinchen,  1903.
 
@@ -29563,22 +27427,12 @@ I'l.MI     No.    1  1
 Figure  L  Figure  v.  ure  3.
 
 
-PLATE  NO.  15
-
 The  Descent  of  Ishtar  to  Hades.  Assyrian  clay  tablet  in  the  British
 Museum.  Size  of  the  original,  97/a  by  3}2  inches.  Obverse.  It  is
 translated  pages  121-131.
 
 Photograph  by  W.  A.  Mansell  &  Co..  London.
 
-
-Plate  No.  15
-
-
-501
-
-
-PLATE  NO.  16
 
 The  Descent  of  Ishtar  to  Hades.     Reverse.
 Photograph  by  W.  A.  Mansell  &  Co..  London.
@@ -29587,13 +27441,7 @@ Photograph  by  W.  A.  Mansell  &  Co..  London.
 Plate  \<>.  n;
 
 
-503
-
-
-PLATE  NO.  17
-
-Seal  Cylinders,  which  were  used  by  the  Babylonians  to  certify  doc-
-uments. The  seal  was  rolled  over  the  ch.y  while  still  soft  and  left  the
+Seal  Cylinders,  which  were  used  by  the  Babylonians  to  certify  documents. The  seal  was  rolled  over  the  ch.y  while  still  soft  and  left  the
 impression  which  is  here  shown.
 
 Figure  1.  Babylonian  cylinder  seal  of  the  reign  of  Ur-Engur,  king
@@ -29603,8 +27451,7 @@ god,  seated,  to  whom  a  worshiper,  probably  Khaskamer,  the  owner  of
 the  seal,   is    being    introduced.      British    Museum,    Number   89,126.
 
 Figure  2.  Persian  cylinder  seal  depicting  Darius,  king  of  Persia
-(521-485  B.C.),  hunting  lions  in  a  palm  plantation.  Above  is  the  em-
-blem of  the  god  Ahuramazda,  and  at  the  end  is  the  king's  name  and
+(521-485  B.C.),  hunting  lions  in  a  palm  plantation.  Above  is  the  emblem of  the  god  Ahuramazda,  and  at  the  end  is  the  king's  name  and
 titles  in  Persian,  Susian,  and  Babylonian.  British  Museum,  Number
 89.132.
 
@@ -29621,10 +27468,6 @@ British  Museum.
 
 Plate  \<>.  \:
 
-505
-
-
-PLATE  NO.  18
 
 Seal  Cylinders.
 
@@ -29650,22 +27493,12 @@ Illustrations  from  Cyrus,  von  Ernest  Lindl.  Munchen,  1903.
 V  *
 
 
-1
-
-
-Plate  No.  18
-
 Figure  1.     Figure  2.     Figure  3.
-507
 
 
-PLATE  NO.  19
-
-Shamash.  the  sun  god,  in  his  shrine.  Stone  tablet  of  Nabu-pal-
-iddin,  king  of  Babylonia  (about  885-854  B.  C. ').  The  god  is  represented
+Shamash.  the  sun  god,  in  his  shrine.  Stone  tablet  of  Nabu-paliddin,  king  of  Babylonia  (about  885-854  B.  C. ').  The  god  is  represented
 as  seated  within  his  shrine,  in  front  of  which  is  his  symbol,  before
-which  are  three  figures,  the  first  a  priest  conducting  the  king,  Nabu-
-pal-iddin,  who  is  second,  and  is  in  turn  followed  by  the  goddess  A,  who
+which  are  three  figures,  the  first  a  priest  conducting  the  king,  Nabupal-iddin,  who  is  second,  and  is  in  turn  followed  by  the  goddess  A,  who
 intercedes  for  the  king.  This  beautiful  slab,  1 1  '<  by  7  inches,  was
 found  in  an  earthenware  casket  at  Sippar  by  Hormuzd  Rassam  and  is
 now  in  the  British  Museum.
@@ -29686,10 +27519,7 @@ a
 Ti  \ir.  NO.  19
 
 
-PLATE  NO.  20
-
-Statue  of  the  god  Nabu.  This  statue  was  one  of  four  made  by  Bel-
-tarsi-iluma,  governor  of  the  city  of  Calah.  and  dedicated  to  the  god
+Statue  of  the  god  Nabu.  This  statue  was  one  of  four  made  by  Beltarsi-iluma,  governor  of  the  city  of  Calah.  and  dedicated  to  the  god
 for  the  purpose  of  securing  a  long  life  to  the  King  Adad-nirari  IV  and
 his  mother  Sammuramat  (Semiramis).  For  the  translation  of  the  text
 which  belts  the  statue  see  page  307.  The  statue  was  discovered  by
@@ -29702,20 +27532,10 @@ from  this  book.
 I»l.\l
 
 
-611
-
-
-PLATE  NO.  21
-
 Babylonian  Demons.     Now  preserved  in  the  British  Museum.
 Illustration  from   The  Devils  and  Evil  Spirits  of  Babylonia,    London.
 1903,  by  kind  permission  of  Luzac  &  Co.
 
-
-513
-
-
-PLATE  NO.  22
 
 Clay  tablet  containing  a  Babylonian  Chronicle,  now  preserved  in
 the  British  Museum  (Number  92.502).      It  is  translated  pages208-219.
@@ -29725,39 +27545,18 @@ Illustration  from  A  Guide  to  the  Babylonian  and  Assyrian  Antiquities.
 British  Museum.
 
 
-Plate  No.  22
-515
-
-
-PLATE  NO.  23
-
-Building  brick  stamped  with  an  inscription  of  Kudur  Mabuk,  trans-
-lated pages  247,  248.  It  is  preserved  in  the  British  Museum,
+Building  brick  stamped  with  an  inscription  of  Kudur  Mabuk,  translated pages  247,  248.  It  is  preserved  in  the  British  Museum,
 Number  900.541.
 
 Photograph  by  W.  A.  Mansell  &  Co..  London.
 
 
-Plate  No.  23
-517
-
-
-PLATE  NO.  24
-
 Bronze  figure,  canephore,  of  Arad-Sin  (Eri-Aku).  king  of  Larsa.
 British  Museum,  Number  91.144.
 
-The  illustration  is  from  A  Guide  to  the  Babylonian  and  Assyrian  Antiq-
-uities. 2d  Edition.  1908.  By  permission  of  the  Trustees  of  the  British
+The  illustration  is  from  A  Guide  to  the  Babylonian  and  Assyrian  Antiquities. 2d  Edition.  1908.  By  permission  of  the  Trustees  of  the  British
 Museum.
 
-
-Plate  No.  24
-
-519
-
-
-PLATE  NO.  25
 
 Relief  from  a  Theban  grave  now  in  Berlin  Museum,  depicting
 Amenophis  IV.     See  page  252f.
@@ -29765,12 +27564,6 @@ Amenophis  IV.     See  page  252f.
 Illustration  from  Alfred  Jeremias.  Das  Alte  Testament  im  Lichte  des
 Alien  Orients,  Leipzig.  1906.  p.  307.
 
-
-Plate  No.  25
-521
-
-
-PLATE  NO.  26
 
 Ikh-en-Aton  (Amenophis  IV),  with  his  wife  Nefertiti  (Tatukhepa)
 and  his  six  daughters,  sacrifices  to  the  Solar  Disk,  whose  rays  stream
@@ -29809,12 +27602,6 @@ N
 k^,  v  v  \n
 
 
-Plate  No.  26
-523
-
-
-PLATE  NO.  27
-
 Relief  from  Tell-el-Amarna  in  Berlin  Museum,  depicting  Amenophis
 IV  and  his  family.
 
@@ -29831,11 +27618,6 @@ T>%
 ^_~
 
 
-526
-
-
-PLATE  NO.  28
-
 Clay  tablet,  measuring  8^  by  4"s  inches,  from  Tell-el-Amarna.
 containing  a  letter  from  Tushratta,  king  of  Mitanni,  to  Amenophis  III,
 king  of  Egypt,  and  preserved  in  the  British  Museum  (BU.  88-10-
@@ -29851,10 +27633,7 @@ British  Museum.
 
 
 1'i.vii    \o.  28
-527
 
-
-PLATE  NO.  29
 
 Figure  1 .  Tablet  from  the  Tell-el-Amarna  collection.  One  of  the
 letters  of  Abdi-Khiba,  of  Jerusalem,  now  preserved  in  the  Royal
@@ -29879,11 +27658,6 @@ March.  1904,  pp.  40,  41.
 .-^v  t&i
 
 
-529
-
-
-PLATE  NO.  30
-
 Colossal  figure  from  the  doorway  of  the  palace  of  Ashurnazirpal,
 king  of  Assyria  (885-860  B.  C).  excavated  at  Calah  in  1847  by  Sir
 Austin  Henry  Layard,  and  now  in  the  British  Museum.  The  figure  is
@@ -29895,15 +27669,10 @@ Photograph  by  W.  A.  Mansell  &  Co.,  London.
 
 Plate  \'<>.  30
 
-531
-
-
-PLATE  NO.  31
 
 Obelisk  of  Shalmaneser  III  (859-825  B.  C.)  found  in  the  central
 building  at  Nimroud  (Calah)  and  now  in  the  British  Museum.  It  is
-beautifully  inscribed  on  all  four  sides  with  an  account  of  the  expedi-
-tions of  the  king  during  thirty-one  years  of  his  reign.  On  the  four
+beautifully  inscribed  on  all  four  sides  with  an  account  of  the  expeditions of  the  king  during  thirty-one  years  of  his  reign.  On  the  four
 sides  there  are  in  all  twenty  small  reliefs  in  five  series,  each  series
 containing  four  portions  of  a  scene  representing  the  payment  of  tribute
 of  a  certain  country.  The  relief  at  the  top  of  each  side  forms  one
@@ -29925,16 +27694,11 @@ Illustration  from  Assyrian   Sculptures.  II,  Kleinmann  &  Co.,  London.
 
 Plate  \'o.  31
 
-633
-
-
-PLATE  NO.  32
 
 Obelisk  of  Shalmaneser  III  (859-825  B.  C),  enlargement  of  the
 upper  four  reliefs  on  one  side.  The  relief  here  shown  as  the  first
 represents  Shalmaneser  receiving  the  submission  of  Jehu,  king  of
-Israel.  The  signs  visible  beneath  this  relief  contain  the  words:  "Trib-
-ute of  Jehu,  of  the  land  of  Omri:  silver."  For  the  translation  of  the
+Israel.  The  signs  visible  beneath  this  relief  contain  the  words:  "Tribute of  Jehu,  of  the  land  of  Omri:  silver."  For  the  translation  of  the
 entire  legend,  which  continues  upon  the  three  remaining  sides  of  the
 Obelisk,  see  page  304.
 
@@ -29942,23 +27706,16 @@ Illustration  from  Assyrian  Sculptures.  II.  Kleinmann  &  Co..  London.
 
 
 I'i  \te  No.  32
-535
 
 
-PLATE  NO.  33
-
-Monolith  of  Shalmaneser  III,  inscribed  with  an  account  of  his  cam-
-paigns, portions  of  which  are  translated  pages  294ff.    British  Museum.
+Monolith  of  Shalmaneser  III,  inscribed  with  an  account  of  his  campaigns, portions  of  which  are  translated  pages  294ff.    British  Museum.
 
 The  illustration  is  from  Carl  Bezold.  Ninive  und  Babylon,  3te  Auflage.
 Leipzig.  1909.
 
 
-1
-
 i
 
-1
 
 *    1
 
@@ -29968,11 +27725,6 @@ k.             i
 
 ■HP
 
-Plate  No.  33
-537
-
-
-PLATE  NO.  34
 
 Stele  of  Shalmaneser  III  carved  out  of  the  native  rock  on  the  bank
 of  Dog  River  (Nahr  el-Kelb,  the  Lykos  of  the  Greeks)  north  of  Beirut.
@@ -29987,10 +27739,7 @@ Leipzig,  1909.
 I'i  \te  No.  34
 
 
-PLATE  NO.  35
-
-Portion  of  a  clay  tablet,  9;s  by  7  inches,  with  an  inscription  of  Tiglath-
-pileser  IV,  king  of  Assyria  (745-727  B.  C).  and  generally  known  as  the
+Portion  of  a  clay  tablet,  9;s  by  7  inches,  with  an  inscription  of  Tiglathpileser  IV,  king  of  Assyria  (745-727  B.  C).  and  generally  known  as  the
 Nimroud  tablet.  A  portion  of  it  is  translated  on  page  322,  containing
 the  mention  of  Ahaz,  king  of  Judah — the  first  mention  of  Judah  in  the
 Assyrian  inscriptions.  The  original  is  preserved  in  the  British  Museum,
@@ -30005,11 +27754,8 @@ Photograph  by  W.  A.  Mansell  &  Co.,  London.
 :,\\
 
 
-PLATE  NO.  36
-
 Six-sided  baked  clay  prism  of  Sennacherib,  king  of  Assyria  (704-
-682  B.  C.)i  preserved  in  the  British  Museum.  Number  91.032,  and  pop-
-ularly known  as  the  Taylor  Cylinder.  The  illustration  shows  the  first
+682  B.  C.)i  preserved  in  the  British  Museum.  Number  91.032,  and  popularly known  as  the  Taylor  Cylinder.  The  illustration  shows  the  first
 three  columns,  and  the  portion  translated  on  page  340f.  begins  in
 column  II,  line  34,  beginning  after  the  line  visible  in  the  illustration
 nearly  half  way  down  the  middle  column.
@@ -30018,10 +27764,7 @@ Photograph  by  W.  A.  Mansell  &  Co..  London.
 
 
 I'i  \ii     \<>.   :;,;
-543
 
-
-PLATE  NO.  37
 
 Limestone  slab  with  relief  depicting  the  siege  of  Lachish  by  the
 troops  of  Sennacherib,  king  of  Assyria  (704-682  B.  C).
@@ -30055,18 +27798,12 @@ si  m
 
 CO
 
-6
 w
 
 H
 
 Pm
 
-
-545
-
-
-PLATE  NO.  38
 
 Sennacherib  at  Lachish  (701  B.  C).  A  relief  representing  the  king
 seated  upon  his  portable  throne,  which  has  been  set  near  some  vines
@@ -30082,7 +27819,6 @@ X
 
 CO
 
-6
 
 i
 
@@ -30090,26 +27826,19 @@ i
 r.17
 
 
-PLATE  NO.  39
-
 Relief  from  the  top  of  a  Kudurru,  or  boundary  stone,  containing  a
 portrait  of  Merodach-baladan,  king  of  Babylon,  who  is  represented  in
 the  act  of  conferring  title  to  landed  property  upon  one  of  his  nobles.
-Above  the  king's  head  is  a  two-line  inscription:  "The  portrait  of  Mer-
-odach-baladan, king  of  Babylon."  At  the  top  is  a  series  of  symbols  of
+Above  the  king's  head  is  a  two-line  inscription:  "The  portrait  of  Merodach-baladan, king  of  Babylon."  At  the  top  is  a  series  of  symbols  of
 gods,  representing  (from  left  to  right)  (1)  Nabu,  (2)  Ninkharsag.  or
-Ninlil,  (3)  Ea,  and  (4)  Marduk.  The  stone  is  now  in  the  Berlin  Mu-
-seum (V.  A.  2663).
+Ninlil,  (3)  Ea,  and  (4)  Marduk.  The  stone  is  now  in  the  Berlin  Museum (V.  A.  2663).
 
 The  illustration  is  from  Carl  Bezold,  Ninive  rid  Babylon,  3te  Auflage,
 Leipzig,  1909.
 
 
 I'ivii    V
-549
 
-
-PLATE  NO.  40
 
 Diorite stele  of  Esarhaddon.  king  of  Assyria  (680-668  B.C.).  found
 at  Sinjirli  and  now  in  the  Berlin  Museum.  It  is  the  largest  Assyrian
@@ -30133,10 +27862,6 @@ Photograph  supplied  by  W.  A.  Mansell  &  Co..  London.
 
 Pi  mi   No.  i«»
 
-551
-
-
-PLATE  NO.  41
 
 Ashurbanipal,  king  of  Assyria  (668-625  B.  C),  represented  mounted
 and  drawing  the  bow.     British  Museum.
@@ -30147,20 +27872,15 @@ Photograph  by  W.  A.  Mansell  &  Co..  London.
 :,.-::
 
 
-PLATE  NO.  42
-
 Baked  clay  ten-sided  prism  of  Ashurbanipal  (668-625  B.  C).  king  of
 Assyria.  A  brief  extract  from  column  IX  is  translated  pages  359,  360.
 British  Museum,  Number  91.026.  The  illustration  is  from  A  Guide  to
-the  Babylonian  and  Assyrian  Antiquities.  2d  Edition,  1908.  By  per-
-mission of  the  Trustees  of  the  British  Museum.
+the  Babylonian  and  Assyrian  Antiquities.  2d  Edition,  1908.  By  permission of  the  Trustees  of  the  British  Museum.
 
 
 :o.  42
 HI
 
-
-PLATE  NO.  43
 
 Assyrian  relief,  soldiers  in  fuh  armor,  a  masterly  work  of  art.  and
 interesting  as  showing  the  type  of  men,  and  of  weapons,  who  conquered
@@ -30170,13 +27890,6 @@ British  Museum.
 The  illustration  is  from  Assyrian  Sculptures,  V,  Kleinmann  &  Co.
 London.
 
-
-Plate  No.  43
-
-557
-
-
-PLATE  NO.  44
 
 Figure  1.  Cylinder  of  Nabonidus  (555-538  B.C.)-  One  of  four
 found  in  the  corners  of  the  temple  of  Sin  (the  moon-god)  at  Mugheir
@@ -30201,8 +27914,6 @@ Co..  London.
 Figure  i.     Figure  8.     Figure  8.
 
 
-PLATE  NO.  45
-
 Broken  cylinder  of  Cyrus,  king  of  Babylonia  (538-529  B.  C).  It  is
 of  baked  clay,  inscribed  in  the  Babylonian  cuneiform  script,  and  is
 preserved  in  the  British  Museum.  Number  90,920.  It  is  translated
@@ -30217,14 +27928,11 @@ rr  *
 Ml
 
 
-PLATE  NO.  46
-
 Figure  1 .  Kudurru.  or  Boundary  Stone,  found  at  Nippur  in  February,
 1896,  and  now  in  the  Museum  of  the  University  of  Pennsylvania.  It  is
 a  conical  block  of  black  limestone,  49  centimeters  (about  19  V  inches)
 in  height  and  73  2  centimeters  (about  28&  inches)  in  circumference
-about  the  center.  It  is  translated  on  pages  387-393,  and  is  fully  de-
-scribed and  elaborately  discussed  in  W.  J.  Hinke.  A  New  Boundary  Stone
+about  the  center.  It  is  translated  on  pages  387-393,  and  is  fully  described and  elaborately  discussed  in  W.  J.  Hinke.  A  New  Boundary  Stone
 of  Nebuchadrezzar  I  from  Nippur,  Philadelphia,  1907,  from  which  this
 illustration  is  taken.
 
@@ -30241,13 +27949,8 @@ Photograph  by  W.  A.  Mansell  &.  Co..  London.
 I'i mi:   \n.    h;
 Figure  1.  Figure  8.
 
-563
 
-
-PLATE  NO.  47
-
-The  Symbols  of  the  Boundary  Stone  of  Nebuchadrezzar  I  from  Nip-
-pur.    See  Plate  38.  Figure  1.
+The  Symbols  of  the  Boundary  Stone  of  Nebuchadrezzar  I  from  Nippur.    See  Plate  38.  Figure  1.
 
 The  symbols  as  enumerated  by  Professor  W.  J.  Hinke  (A  New
 Boundary  Stone  of  Nebuchadrezzar  I  from  Nippur)  are  as  follows:
@@ -30272,19 +27975,13 @@ the  serpent.
 Illustration  from  Hinke,  op.  cit.,  p.  120.
 
 
-Plate  No.  47
-
-
 :,.;:,
 
-
-PLATE  NO.  48
 
 Basalt  stele,  inscribed  with  the  Code  of  Laws  of  Hammurapi,  king  of
 Babylon  (circa  1950  B.  C),  nearly  eight  feet  in  height  and  seven  in
 circumference.  On  the  upper  part  is  a  relief  representing  Shamash.  the
-sun  god.  seated  upon  his  throne  with  his  feet  resting  upon  the  moun-
-tains. Upon  his  head  is  a  horned  head-dress  of  power,  and  in  his
+sun  god.  seated  upon  his  throne  with  his  feet  resting  upon  the  mountains. Upon  his  head  is  a  horned  head-dress  of  power,  and  in  his
 right  hand  the  ring  and  staff  emblematic  of  sovereignty,  while  from  his
 shoulders  rise  flames  of  fire.  Before  him  stands  the  king  receiving
 the  code  of  laws  inscribed  below,  his  right  arm  bared  and  raised,  and
@@ -30362,8 +28059,6 @@ I?*"
 
 Pi  in  No.  48
 
-567
-
 
 ^UL   a  o    WV
 
@@ -30408,9 +28103,6 @@ O
 
 
 to   <D
-
-
-3
 
 
 Uniyersily  of  To?

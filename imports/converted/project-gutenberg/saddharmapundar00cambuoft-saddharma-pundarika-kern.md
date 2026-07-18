@@ -6,9 +6,6 @@ THE
 SACRED  BOOKS  OF  THE  EAST
 
 
-[21]
-
-
 Honfcon
 HENRY     FROWDE
 
@@ -41,8 +38,6 @@ VOL.   XXI
 AT      THE     CLARENDON      PRESS
 
 
-1884
-
 N
 
 [All  rights  reserved'}
@@ -69,7 +64,6 @@ H.     KERN
 
 
 AT    THE     CLARENDON     PRESS
-1884
 
 [All  rights  reserved]
 
@@ -174,10 +168,8 @@ The  Period
 
 INDEX
 
-443
 
-Transliteration  of  Oriental  Alphabets  adopted  for  the  Trans-
-lations of  the  Sacred  Books  of  the  East          .        .         .451
+Transliteration  of  Oriental  Alphabets  adopted  for  the  Translations of  the  Sacred  Books  of  the  East          .        .         .451
 
 
 INTRODUCTION.
@@ -185,10 +177,8 @@ INTRODUCTION.
 
 THE  Saddharma-pu^arika  is  one  of  the  nine  Dharmas
 which  are  known  by  the  titles  of — i.  Ashfesahasrika  Pra-
-^Tzaparamita  ;  2.  Ga^a-vyftha ;  3.  Da.yabhuml$vara  ;  4.  Sa-
-madhi-ra^a  ;  5-  Lankavatara  ;  6.  Saddharma-pu«^arika  ;
-7.  Tathagata-guhyaka ;  8.  Lalita-vistara  ;  9.  Suvar/za-pra-
-bhasa.
+^Tzaparamita  ;  2.  Ga^a-vyftha ;  3.  Da.yabhuml$vara  ;  4.  Samadhi-ra^a  ;  5-  Lankavatara  ;  6.  Saddharma-pu«^arika  ;
+7.  Tathagata-guhyaka ;  8.  Lalita-vistara  ;  9.  Suvar/za-prabhasa.
 
 These  nine  works,  to  which  divine  worship  is  offered,
 embrace  (to  use  the  words  of  the  first  investigator  of
@@ -197,8 +187,7 @@ philosophy  of  Buddhism 2 ;  in  the  seventh,  a  treatise  on
 the  esoteric  doctrines ;  and  in  the  seven  remaining  ones,
 a  full  illustration  of  every  point  of  the  ordinary  doctrine
 and  discipline,  taught  in  the  easy  and  effective  way  of
-example  and  anecdote,  interspersed  with  occasional  in-
-stances of  dogmatic  instruction.  With  the  exception  of
+example  and  anecdote,  interspersed  with  occasional  instances of  dogmatic  instruction.  With  the  exception  of
 the  first,  these  works  are  therefore  of  a  narrative  kind ;  but
 interwoven  with  much  occasional  speculative  matter.'
 
@@ -291,8 +280,7 @@ and  that  the  variations  amount  to  little  more  than  a
 varietas  lectionis.
 
 The  passage  adduced  is  in  prose ;  now  let  us  take  some
-stanzas.  In  Mahavagga  I,  5,  3,  the  Lord  utters  the  follow-
-ing jlokas :
+stanzas.  In  Mahavagga  I,  5,  3,  the  Lord  utters  the  following jlokas :
 
 ki/££^ena  me  adhigataw  halam  dani  pakasitum,
 ragadosaparetehi  nayam  dhammo  susambudho.
@@ -323,13 +311,11 @@ a  An  erroneous  Sanskritisation  of  the  present  tense  dakkhanti.
 SADDHARMA-PU-tfDARiKA.
 
 
-khalv  aya;;/,  Mahabrahman,  maya  dharmo  'bhisam-
-buddha//  jukshmo  nipuna/i.  What  follows,  api  £ame,
+khalv  aya;;/,  Mahabrahman,  maya  dharmo  'bhisambuddha//  jukshmo  nipuna/i.  What  follows,  api  £ame,
 Brahman,  ime  gathe  abhikshwaw  pratibhasata^1,
 is  but  a  slight,  not  very  felicitous  modification  of  what  we
 read  in  the  Mahavagga  I.e.:  api  'ssu  bhagavanta^  ima
-ana££/;ariya  gathayo  padbha^su  pubbe  assuta-
-pubbd.
+ana££/;ariya  gathayo  padbha^su  pubbe  assutapubbd.
 
 Evidently  from  the  same  source  are  the  verses  in  Trish-
 /ubh  uttered  by  the  god  Brahma,  Mahavagga  I,  5,  7,  and
@@ -359,12 +345,10 @@ Brahma  with  the  following  TrishAibh  :
 aparuta  tesam  amatassa  dvar£
 ye  sotavanto,  pamu#£antu  6  saddham.
 
-1  Obviously  an  unhappy  attempt  to  Sanskritise  a  Pali  or  Prakrit  pati-
-bhamsu;  it  ought  to  have  been  pratyabhasish/am.
+1  Obviously  an  unhappy  attempt  to  Sanskritise  a  Pali  or  Prakrit  patibhamsu;  it  ought  to  have  been  pratyabhasish/am.
 
 a  The  text  is  corrupt;  we  have  either  to  read  vimalanubuddhaw,  a
-Tatpurusha  compound  expressing  the  same  as  what  the  text  exhibits,  or  vima-
-lena buddham.
+Tatpurusha  compound  expressing  the  same  as  what  the  text  exhibits,  or  vimalena buddham.
 
 3  Hi  is  meaningless,  and  only  a  clumsy  device  to  satisfy  the  exigency  of
 Sanskrit  phonetical  rules,  which  are  not  applicable  to  Prakrit.
@@ -397,8 +381,7 @@ pravlranti  jraddhi  na  vihe/^asaw^a
 srinvanti  dharma?^  Magadheshu  sattva^:.
 
 Atha  khalu  vSikhi  Mahabrahmd  Tathagatasyadhivasanawz
-viditvcl  tush/a  udagra  attamana  pramudita^  pritisauma-
-nasya^atas  Tathagatasya  padau  .firasabhivanditvsl  tatrai-
+viditvcl  tush/a  udagra  attamana  pramudita^  pritisaumanasya^atas  Tathagatasya  padau  .firasabhivanditvsl  tatrai-
 vantaradhat.
 
 At  the  meeting  of  the  A^-ivaka  monk  Upaka  and  the
@@ -427,8 +410,7 @@ vowel  into  one  syllable  is  as  common  as  one  of  am  is  unheard  of.
 a  These  words  do  not  suit  the  metre,  and  have  undoubtedly  been  transposed
 from  their  original  place,  which  they  have  kept  in  the  Pali  text.
 
-8  Rather  Upaka,  a  common  Prakrit  form  of  the  vocative  case.  See  Sukha-
-vati-vyuha,  p.  xi,  in  Anecdota  Oxoniensia,  Aryan  Series,  vol.  i,  part  ii.
+8  Rather  Upaka,  a  common  Prakrit  form  of  the  vocative  case.  See  Sukhavati-vyuha,  p.  xi,  in  Anecdota  Oxoniensia,  Aryan  Series,  vol.  i,  part  ii.
 
 4  Read  aham  evaraham  (Sanskrit  arhan).
 
@@ -441,8 +423,7 @@ SADDHARMA-PlWDARfKA.
 hi  madm^  ^fifeya  ye  prapta  asravakshayaw,
 me  papaki  dharmas  tenopa(ka)  Gino  [hy]  aham.
 
-The  following  verses,  taken  from  Mahavagga  and  Lalita-
-vistara  1.  c.,  have  likewise  the  same  origin,  notwithstanding
+The  following  verses,  taken  from  Mahavagga  and  Lalitavistara  1.  c.,  have  likewise  the  same  origin,  notwithstanding
 some  variations  :
 
 dhamma£akka;«  pavattetuw  ga^^ami  Kasinawz  puraw,
@@ -493,8 +474,7 @@ INTRODUCTION.  XV
 
 that  the  same  person  cannot  have  uttered  any  speech  or
 stanza  in  two  languages  at  the  same  time,  and,  further,  that
-he  is  not  likely  to  have  spoken  Sanskrit,  when  expressing  him-
-self in  prose,  and  to  have  had  recourse  to  a  mere  dialect,  when
+he  is  not  likely  to  have  spoken  Sanskrit,  when  expressing  himself in  prose,  and  to  have  had  recourse  to  a  mere  dialect,  when
 speaking  in  poetry.  One  need  not  suppose  that  the  common
 and  every-day  language  of  the  god  Brahma  and  the  Buddha
 was  Pali  or  Prakrit,  in  order  to  call  it  an  absurdity  that  those
@@ -505,21 +485,17 @@ not  believe  that  Pali  is  the  original  language  of  scripture,
 to  contend  that  the  Sanskrit  text  of  the  canonical  works  is
 at  any  rate  a  translation  from  some  dialect.  If  the  Sanskrit
 text  of  the  Northern  Sutras,  in  general,  were  the  original  one,
-it  would  be  impossible  to  account  for  occasional  mistrans-
-lations and  for  the  fact  that  the  most  palpable  dialect  forms
+it  would  be  impossible  to  account  for  occasional  mistranslations and  for  the  fact  that  the  most  palpable  dialect  forms
 have  been  left  untouched,  whenever  the  passage  by  being
 Sanskritised  would  have  been  spoilt.  A  striking  instance  is
-afforded  in  Lalita-vistara,  p.  145.  There  we  read  that  the  pro-
-nouncing of  the  letter  //za  of  the  Indian  alphabet  is  to  be
+afforded  in  Lalita-vistara,  p.  145.  There  we  read  that  the  pronouncing of  the  letter  //za  of  the  Indian  alphabet  is  to  be
 brought  in  connection  with  the  word  Mapaniyapra^na,  i.e.
-a  question  that  should  be  avoided,  set  aside,  Pdli  Mapani-
-yapawho.  Here  the  context  absolutely  opposed  itself  to  the
+a  question  that  should  be  avoided,  set  aside,  Pdli  Mapaniyapawho.  Here  the  context  absolutely  opposed  itself  to  the
 Pali  or  Prakrit  Mapaniya  being  rendered  by  the  Sanskrit
 sthapaniya,  because  the  initial  syllable  of  this  form  could
 not  be  made  to  agree  with  the  letter  Ma.  On  the  same
 page  of  the  Lalista-vistara  we  also  meet  with  a  word
-airapatha1,  the  initial  syllable  of  which  must  needs  har-
-monise with  the  diphthong  ai,  so  that  airapatha  did  not
+airapatha1,  the  initial  syllable  of  which  must  needs  harmonise with  the  diphthong  ai,  so  that  airapatha  did  not
 admit  of  being  Sanskritised  into  aryapatha.  From  the
 occurrence  of  this  airapatha  I  infer  that  the  original  text
 was  composed  in  some  kind  of  Prakrit,  and  not  in  regular
@@ -538,15 +514,13 @@ XVi  SADDHARMA-PU^DARfKA.
 (Sansk.  paryupasati),  and  the  like  are  anything  else  but
 instances  of  inaccurate  spelling1.  This  much  is  certain  that
 thaira  occurs  in  the  inscriptions  of  Ajoka,  and  in  these
-the  diphthong  cannot  but  have  the  value  of  a  short  a  fol-
-lowed by  i.
+the  diphthong  cannot  but  have  the  value  of  a  short  a  followed by  i.
 
 If  we  eliminate  the  Sanskrit,  there  remain  two  dialects,
 Pali  and  the  Gathi  idiom.  Which  of  the  two  can  lay  claim
 to  being  the  original  language  of  the  Buddhist  scriptures  or
 is  the  nearest  approach  to  it?  Pali  is  intelligible  in  its
-phonetics,  the  Gathas  are  not.  Under  ordinary  circum-
-stances the  comparatively  greater  regularity  of  Pali  would
+phonetics,  the  Gathas  are  not.  Under  ordinary  circumstances the  comparatively  greater  regularity  of  Pali  would
 tend  to  favour  its  claims ;  the  case  before  us  is,  however,  so
 peculiar  that  it  is  not  safe  to  draw  inferences  from  the  state
 in  which  the  Gathzls  have  come  to  us.  It  seems  to  me  that
@@ -567,8 +541,7 @@ which  they  were  composed  is  older  than  Pali.
 
 Whatever  may  have  been  the  phonetic  aspect  of  the
 oldest  standard  dialect  of  the  Buddhists,  its  vocabulary  is
-unmistakably  closely  related  to  that  of  the  Satapatha-
-brahmawa.  The  coincidences  are  so  striking  that  the
+unmistakably  closely  related  to  that  of  the  Satapathabrahmawa.  The  coincidences  are  so  striking  that  the
 
 
 1  That    is,  kayira  was  probably  pronounced    kaira,  which  cannot  be
@@ -585,29 +558,22 @@ INTRODUCTION.  XV11
 
 
 interval  separating  the  younger  parts  of  the  vSatapatha  and
-the  beginnings  of  Buddhist  literature  can  hardly  be  sup-
-posed to  have  been  very  great.  Among  those  coincidences
-I  cite  sarvavat,  a  word  which  as  yet  has  not  been  dis-
-covered in  the  whole  range  of  Sanskrit  literature  except
+the  beginnings  of  Buddhist  literature  can  hardly  be  supposed to  have  been  very  great.  Among  those  coincidences
+I  cite  sarvavat,  a  word  which  as  yet  has  not  been  discovered in  the  whole  range  of  Sanskrit  literature  except
 5atap.  XIV,  7,  i,  10,  and  in  Northern  Buddhist  writings,  as
 well  as  in  Pali  (sabbavd).  The  cnra£  Xeyopevov  ekoti
 .Satap.  XII,  2,  2,  4  recurs  in  ekoti -bhava,  Lalita-vistara,
-p.  147,  81;  p.  439,  6;  Pali  ekodi-bhava2.  The  expres-
-sion samtrita  in  the  sense  of  'equipped,  furnished  with'
-occurs  in  »Satapatha  thrice  3,  in  Atharva-veda  once,  in  Sad-
-dharma-puw^/arika  several  times,  e.g.  in  pa^/agha/z/fasa-
+p.  147,  81;  p.  439,  6;  Pali  ekodi-bhava2.  The  expression samtrita  in  the  sense  of  'equipped,  furnished  with'
+occurs  in  »Satapatha  thrice  3,  in  Atharva-veda  once,  in  Saddharma-puw^/arika  several  times,  e.g.  in  pa^/agha/z/fasa-
 mirita,  chap.  xxii.  We  may  add  the  Prakritism  ing  in
 samiw^ayati,  Brzhad-ara/zyaka  VI,  4,  23,  the  usual  form
 in  Buddhist  works  in  Sanskrit,  Gathi  dialect,  and  Pali ;
-further  manku,  .Satap.  V,  5,4,  n  ;  ma;/</a  in  the  com-
-pound nauma;z^a,  6atap.  II.  3,  3,  15  ;  cf.  bodhi-maw^a.
+further  manku,  .Satap.  V,  5,4,  n  ;  ma;/</a  in  the  compound nauma;z^a,  6atap.  II.  3,  3,  15  ;  cf.  bodhi-maw^a.
 An  archaic  trait  in  the  stanzas  is  the  expletive  use  of  the
 particle  u,  e.g.  in  teno,  yeno,  tasyo,  adyo,  for  tena,
 yen  a,  tasya,  adya.  Both  in  prose  and  poetry4  we  meet
-with  no,  sometimes  in  the  sense  of  Sansk.  no,  which  etymo-
-logically  of  course  is  identical  with  it,  at  other  times  in  that  of
-Sansk.  na.  An  analogous  case  is  Sansk.  atho,  almost  im-
-perceptibly differing  from  at  ha.  Perhaps  the  most  curious
+with  no,  sometimes  in  the  sense  of  Sansk.  no,  which  etymologically  of  course  is  identical  with  it,  at  other  times  in  that  of
+Sansk.  na.  An  analogous  case  is  Sansk.  atho,  almost  imperceptibly differing  from  at  ha.  Perhaps  the  most  curious
 of  similar  forms  in  the  Gathas  is  £o,  in  meaning  exactly
 coinciding  with  £a ;  this  ko  I  take  to  be  the  older  form  of
 the  Magadhi  ku  in  the  A^oka  edicts.
@@ -639,15 +605,13 @@ of  which  we  wish  to  determine,  has  been  carefully  moulded
 upon  time-honoured  models.  In  such  a  case  new  words
 prove  a  good  deal1,  old  ones  next  to  nothing.  Therefore  it
 would  be  an  abuse  of  the  argument  ex  silentioto  infer
-from  the  total  absence  of  such  new  words  in  our  Sad-
-dharma-puw^arika  that  the  bulk  of  the  Sutra  must  date
+from  the  total  absence  of  such  new  words  in  our  Saddharma-puw^arika  that  the  bulk  of  the  Sutra  must  date
 from  the  earlier  period  of  Buddhism.
 
 I  had  already  occasion  to  notice  that  the  two  versions,
 the  prose  and  the  metrical  one,  in  our  Sutra  show  here
 and  there  material  discrepancies.  The  question  arises
-to  which  of  the  two  we  must  award  the  palm  of  pri-
-ority. Repeatedly,  both  in  prose  and  poetry,  the  Sutra
+to  which  of  the  two  we  must  award  the  palm  of  priority. Repeatedly,  both  in  prose  and  poetry,  the  Sutra
 is  spoken  of  as  consisting  of  stanzas  ;  e.  g.  chap,  vii,  st.  82  ;
 chapters  x  and  xxii  in  the  prose  portion,  several  times.
 As  the  term  of  stanza  (gatha),  for  aught  I  know,  is  never
@@ -669,8 +633,7 @@ xxvi,  show  decided  traces  of  being  later  additions ;  and
 as  to  the  final  chapter,  it  may  be  held  to  be  a  moderate
 amplification  of  a  short  prose  epilogue.
 
-In  contending  that  the  original  text  of  our  Sutra  was  pro-
-bably, in  the  main,  a  work  in  metrical  form,  I  do  not  mean
+In  contending  that  the  original  text  of  our  Sutra  was  probably, in  the  main,  a  work  in  metrical  form,  I  do  not  mean
 to  say  that  the  poetical  version  in  all  the  chapters  must  be
 
 
@@ -683,16 +646,14 @@ the  word  karama  for  kalama,  calamus  to  write  with,  in  Kararca'a-vyfiha
 INTRODUCTION.  XIX
 
 
-considered  to  be  prior  to  the  prose1.  The  Gathas  of  the  Sad-
-dharma-puw^/arika  are  nowhere  very  brilliant,  but  in  some
+considered  to  be  prior  to  the  prose1.  The  Gathas  of  the  Saddharma-puw^/arika  are  nowhere  very  brilliant,  but  in  some
 chapters  they  are  so  excessively  clumsy  and  mechanically  put
 together  that  involuntarily  we  are  led  to  the  assumption  of
 their  having  been  made  by  persons  to  whom  the  old  dialect
 was  no  longer  familiar.  The  stanzas,  e.  g.  in  chapters  xi  and
 xiv,  are  abominable  in  form,  and  unusually  silly ;  those  in
 chap,  xxiv  are  a  pattern  of  mechanical  verse-making,  and
-give  the  impression  as  if  they  were  intended  rather  to  stul-
-tify than  to  edify  the  credulous  reader.  Now  it  is  a  curious
+give  the  impression  as  if  they  were  intended  rather  to  stultify than  to  edify  the  credulous  reader.  Now  it  is  a  curious
 fact  that  in  a  Chinese  preface  to  the  translation  of  our
 Sutra  by  (J^anagupta  and  Dharmagupta,  A.D.  6oi2,  we
 meet  with  the  following  notice :  '  The  omission  of  the
@@ -710,10 +671,8 @@ in  strength.  For,  reasoning  by  analogy,  one  might  say
 that  just  as  some  later  chapters  have  notoriously  been
 enriched  with  a  metrical  version  in  later  times,  so  the
 ancient  parts  also  will  have  gradually  received  their  Gathas.
-Still  the  fact  remains  that  those  chapters  in  which  the  me-
-trical portion  is  wanting  clearly  belong  to  a  later  period,  so
-that  it  is  questionable  whether  their  case  is  entirely  ana-
-logous to  that  of  the  more  ancient  part  of  the  whole  work.
+Still  the  fact  remains  that  those  chapters  in  which  the  metrical portion  is  wanting  clearly  belong  to  a  later  period,  so
+that  it  is  questionable  whether  their  case  is  entirely  analogous to  that  of  the  more  ancient  part  of  the  whole  work.
 
 1  Isolated  stanzas,  as  in  chapters  xxii,  xxv,  and  elsewhere,  are  wholly  left
 out  of  question.
@@ -738,8 +697,7 @@ At  present  we  are  far  from  the  ultimate  end  which  critical
 research  has  to  reach;  we  are  not  able  to  assign  to  each
 part  of  our  Sutra  its  proper  place  in  the  development  of
 Buddhist  literature.  We  may  feel  that  compositions  from
-different  times  have  been  collected  into  a  not  very  har-
-monious whole ;  we  may  even  be  able  to  prove  that  some
+different  times  have  been  collected  into  a  not  very  harmonious whole ;  we  may  even  be  able  to  prove  that  some
 passages  are  as  decidedly  ancient  as  others  are  modern,  but
 any  attempt  to  analyse  the  compound  and  lay  bare  its
 component  parts  would  seem  to  be  premature.  Under
@@ -747,10 +705,8 @@ these  circumstances  the  inquiry  after  the  date  of  the  work
 resolves  itself  into  the  question  at  what  time  the  book
 received  its  present  shape.
 
-There  exist,  as  it  is  well  known,  various  Chinese  trans-
-lations of  the  Saddharma-pu«^arlka,  or  parts  of  it,  the  dates
-of  which  are  well  ascertained.  The  above-mentioned  Cata-
-logue by  Mr.  Bunyiu  Nanjio  affords  some  valuable  informa-
+There  exist,  as  it  is  well  known,  various  Chinese  translations of  the  Saddharma-pu«^arlka,  or  parts  of  it,  the  dates
+of  which  are  well  ascertained.  The  above-mentioned  Catalogue by  Mr.  Bunyiu  Nanjio  affords  some  valuable  informa-
 tion about  the  subject,  from  which  I  borrow  the  following
 particulars1 :
 
@@ -758,19 +714,16 @@ The  oldest  Chinese  translation,  known  by  the  title  of
 -/{Tan-fa-hwa-^in,  is  from  KM  Fa-hu  (Dharmaraksha),  of  the
 Western  Tsin  dynasty,  A.D.  265-316;  in  28  chapters2.
 
-Equally  old  is  an  incomplete  translation  entitled  Sa-th^n-
-fan-tho-li-^in,  of  an  unknown  author.
+Equally  old  is  an  incomplete  translation  entitled  Sa-th^nfan-tho-li-^in,  of  an  unknown  author.
 
-Next  in  time  comes  the  Miao-fa-lien-hwd-^ih,  by  Kuma-
-ra^-iva,  of  the  latter  Tshin  dynasty,  A.D.  384-41 7 3.  It  agrees
+Next  in  time  comes  the  Miao-fa-lien-hwd-^ih,  by  Kumara^-iva,  of  the  latter  Tshin  dynasty,  A.D.  384-41 7 3.  It  agrees
 with  the  Tibetan  version,  and  contains  28  chapters.  Of  one
 chapter  (xxiv  in  the  Nepalese  MSS.  and  the  English
 translation)  Kumara^iva  translated  the  prose  only;  the
 Gathas  were  rendered  by  £wanagupta,  of  the  Northern
 -fiTeu  dynasty,  A.D.  557-589.
 
-The  last  translation  in  order  of  time,  entitled  Thien-phin-
-miao-fa-lien-hwa-^in,  is  from  £>?anagupta  and  Dharma-
+The  last  translation  in  order  of  time,  entitled  Thien-phinmiao-fa-lien-hwa-^in,  is  from  £>?anagupta  and  Dharma-
 gupta,  A.D.  601,  of  the  Sui  dynasty;  in  27  chapters.
 
 We  see  that  the  older  translations — and,  consequently,
@@ -778,8 +731,7 @@ their  originals — counted  one  chapter  more  than  our  MSS.
 
 1  Sutra  Pi/aka,  col.  44  seqq.
 
-*  In  S.  Beal,  The  Buddhist  Tripi/aka,  p.  14,  the  name  of  the  author  KM  Fa-
-hu  (Chu-fa-hu)  is  identified  with  Dharmagupta.
+*  In  S.  Beal,  The  Buddhist  Tripi/aka,  p.  14,  the  name  of  the  author  KM  Fahu  (Chu-fa-hu)  is  identified  with  Dharmagupta.
 f  Cf.  Beal,  Buddhist  Tripiteka,  p.  15.
 
 
@@ -791,14 +743,12 @@ whole,  because  the  matter  divided  over  chapters  1 1  and  1 2
 of  the  older  translations  is  contained  in  chap,  xi  of  our
 texts  and  the  latest  Chinese  version.  The  order  of  the
 chapters  is  the  same  in  all  the  texts,  both  original  and
-translated,  up  to  chap,  xx  (=21  older  division);  the  dis-
-crepancies first  begin  at  chap,  xxi,  on  Dhara«is.  The
+translated,  up  to  chap,  xx  (=21  older  division);  the  discrepancies first  begin  at  chap,  xxi,  on  Dhara«is.  The
 subjoined  comparative  table,  to  begin  with  the  chapter  on
 Dharams,  exhibits  the  order  of  the  last  seven  chapters  in
 the  various  texts.  The  first  column  refers  to  the  Nepalese
 MSS.  and  the  Chinese  translation  by  £wanagupta  and
-Dharmagupta;  the  second  to  the  oldest  Chinese  transla-
-tion ;  the  third  to  that  of  Kumara^iva.
+Dharmagupta;  the  second  to  the  oldest  Chinese  translation ;  the  third  to  that  of  Kumara^iva.
 
 1  ....     4     ....     5
 
@@ -816,8 +766,7 @@ tion ;  the  third  to  that  of  Kumara^iva.
 
 A  glance  at  this  table  will  suffice  to  convince  us  that
 chapters  xxi-xxvi  (1-6)  are  of  later  growth,  if  we  bear
-in  mind  that  the  order  of  the  chapters  down  to  the  Dha-
-rams  is  the  same  in  all  sources.  This  result  is  quite  in
+in  mind  that  the  order  of  the  chapters  down  to  the  Dharams  is  the  same  in  all  sources.  This  result  is  quite  in
 harmony  with  what  we  would  have  guessed  upon  internal
 grounds.  The  last  chapter,  entitled  Dharmaparyaya,  must,
 from  its  very  nature,  have  been  the  close,  the  epilogue  of
@@ -850,19 +799,15 @@ conclude  that  the  more  ancient  text  in  21  chapters,  the
 epilogue  included,  dates  some  centuries  earlier.  Greater
 precision  is  for  the  present  impossible.
 
-We  know  that  a  commentary  on  the  Saddharma-pu«</a-
-rika  was  composed  by  Vasubandhu1.  The  date  of  that
+We  know  that  a  commentary  on  the  Saddharma-pu«</arika  was  composed  by  Vasubandhu1.  The  date  of  that
 work,  not  yet  recovered,  it  seems,  must  fall  between  550
 and  600  A.D.,  or  at  least  not  much  earlier,  for  Vasubandhu's
 pupil  Guwaprabha  became  the  Guru  of  the  famous  6ri-
 Harsha,  alias  5iladitya,  king  of  Kanauj,  the  friend  of
 Hiouen  Thsang2.  The  latter  often  mentions  Vasubandhu
-and  some  of  that  great  doctor's  writings,  as  well  as  Guwa-
-prabha3.  As  both  worthies  at  the  time  of  Hiouen  Thsang's
-visiting  India  had  already  departed  this  life,  and  Vasu-
-bandhu must  have  been  at  least  one  generation  older  than
-Guwaprabha,  we  cannot  be  far  amiss  in  assigning  to  Vasu-
-bandhu's commentary  the  date  above  specified.
+and  some  of  that  great  doctor's  writings,  as  well  as  Guwaprabha3.  As  both  worthies  at  the  time  of  Hiouen  Thsang's
+visiting  India  had  already  departed  this  life,  and  Vasubandhu must  have  been  at  least  one  generation  older  than
+Guwaprabha,  we  cannot  be  far  amiss  in  assigning  to  Vasubandhu's commentary  the  date  above  specified.
 
 It  appears  from  the  above-mentioned  preface  to  the
 Chinese  translation  of  A.D.  60 1,  that  the  text-differences  in
@@ -899,12 +844,9 @@ and  the  other  in  the  letters  of  Kwei-tsz',  or  Khara/£ar,
 Kumara^iva's  maternal  country.  The  former  text  exactly
 agrees  with  No.  138,  and  the  latter  with  No.  134.  No.  138
 omits  only  the  Gathas  of  the  Samantamukha-parivarta,
-chap.  24.  But  No.  134  omits  half  of  the  Oshadhi-
-parivarta,  chap.  5,  the  beginning  of  the  Pa/?£abhikshu.yata-
-vyakaraTza-parivarta,  chap.  8,  and  that  of  the  Saddhar-
-mabha;zaka-parivarta,  chap.  10,  and  the  Gathas  of  the
-Devadatta-parivarta,  chap.  I22,  and  those  of  the  Saman-
-tamukha-parivarta, chap.  25.  Moreover,  No.  134  puts  the
+chap.  24.  But  No.  134  omits  half  of  the  Oshadhiparivarta,  chap.  5,  the  beginning  of  the  Pa/?£abhikshu.yata-
+vyakaraTza-parivarta,  chap.  8,  and  that  of  the  Saddharmabha;zaka-parivarta,  chap.  10,  and  the  Gathas  of  the
+Devadatta-parivarta,  chap.  I22,  and  those  of  the  Samantamukha-parivarta, chap.  25.  Moreover,  No.  134  puts  the
 Dharmaparyaya-parivarta  (the  last  chapter  of  the  Sutra)
 jefore  the  Bhaisha^yara^a-parivarta,  chap.  23.  Nos.  138
 and  134  both  place  the  Dharawi-parivarta  next  to  the
@@ -919,8 +861,7 @@ at  the  request  of  a  Sra.ma.na.,  .Shah-hhin,  and  found  that  the
 beginning  of  two  chapters,  8th  and  loth,  are  also  wanting
 in  the  text  (though  No.  138  contains  them).  Nevertheless
 we  have  increased  a  half  of  the  5th  chapter,  and  put  the
-1 2th  chapter  into  the  nth,  and  restored  the  Dharawi-
-parivarta  and  Dharmaparyaya-parivarta  to  their  proper
+1 2th  chapter  into  the  nth,  and  restored  the  Dharawiparivarta  and  Dharmaparyaya-parivarta  to  their  proper
 order,  as  chaps.  21  and  27.  There  are  also  some  words
 and  passages  which  have  been  altered  (while  the  greater
 
@@ -959,20 +900,17 @@ much  from  ours,  and  it  seems  far  more  probable  that
 he  has  taken  the  liberty,  for  clearness  sake,  to  modify  the
 construction  of  the  verses,  a  literal  rendering  whereof,  it
 must  be  owned,  is  impossible  in  any  language.  It  is  a  pity
-that  Stanislas  Julien  has  chosen  for  his  specimen  a  frag-
-ment exclusively  consisting  of  Gathas.  A  page  in  prose
+that  Stanislas  Julien  has  chosen  for  his  specimen  a  fragment exclusively  consisting  of  Gathas.  A  page  in  prose
 would  have  been  far  more  useful  as  a  test  of  the  accuracy
 of  the  Chinese  version.
 
 Proceeding  to  treat  of  the  contents  of  our  Sutra,  I  begin  by
 quoting  the  passage  where  Burnouf,  in  his  usual  masterly
 way,  describes  the  general  character  of  the  book  and  the
-prominent  features  of  the  central  figure  in  it.  The  illus-
-trious French  scholar  writes1:
+prominent  features  of  the  central  figure  in  it.  The  illustrious French  scholar  writes1:
 
 '  La,  comme  dans  les  Sutras  simples,  c'est  £akya  qui  est
-le  plus  important,  le  premier  des  etres  ;  et  quoique  Pima-
-gination  du  compilateur  Tait  doue*  de  toutes  les  perfections
+le  plus  important,  le  premier  des  etres  ;  et  quoique  Pimagination  du  compilateur  Tait  doue*  de  toutes  les  perfections
 de  science  et  de  vertu  admises  chez  les  Buddhistes  ;  quoique
 £akya  revete  de"ja  un  caractere  mythologique,  quand  il
 
@@ -988,16 +926,13 @@ sa  mort  prochaine,  laquelle  ne  detruit  pas  son  e"ternit6  ;
 quoiqu'enfin  on  le  represente  creant  de  son  corps  des
 Buddhas  qui  sont  comme  les  images  et  les  reproductions
 ideales  de  sa  personne  mortelle,  nulle  part  £akyamuni
-n'est  nomine"  Dieu ;  nulle  part  il  ne  re£oit  le  titre  d' Adi-
-buddha.'
+n'est  nomine"  Dieu ;  nulle  part  il  ne  re£oit  le  titre  d' Adibuddha.'
 
 To  this  I  have  nothing  to  object,  only  something  to  add.
 It  is  perfectly  true  that  6akya  does  not  receive  the  simple
 title  of  Deva ;  why?  Because  that  title  is  far  too  poor  for
-so  exalted  a  personage  who  is  the  Devatideva,  the  para-
-mount god  of  gods.  So  he  is  called  in  the  Lotus,  chap,  vii,
-st.  3 11,  and  innumerable  times  in  the  whole  range  of  Bud-
-dhist literature,  both  in  Pali  and  Sanskrit2.  It  is  further
+so  exalted  a  personage  who  is  the  Devatideva,  the  paramount god  of  gods.  So  he  is  called  in  the  Lotus,  chap,  vii,
+st.  3 11,  and  innumerable  times  in  the  whole  range  of  Buddhist literature,  both  in  Pali  and  Sanskrit2.  It  is  further
 undeniable  that  the  title  of  Adibuddha  does  not  occur  in
 the  Lotus,  but  it  is  intimated  that  6akya  is  identical  with
 Adibuddha  in  the  words :  'From  the  very  beginning  (adita
@@ -1011,8 +946,7 @@ time  ago,  not  as  people  fancy,  first  at  Gaya\  From  the
 whole  manner  in  which  vSakya  speaks  of  his  existence  in
 former  times,  it  is  perfectly  clear  that  the  author  wished  to
 convey  the  meaning  that  the  Lord  had  existed  from
-eternity,  or,  what  comes  to  the  same,  from  the  very  begin-
-ning, from  time  immemorial,  &c.
+eternity,  or,  what  comes  to  the  same,  from  the  very  beginning, from  time  immemorial,  &c.
 
 •Sakya  has  not  only  lived  an  infinite  number  of  ^Eons  in
 the  past,  he  is  to  live  for  ever.  Common  people  fancy  that
@@ -1047,12 +981,10 @@ abhyutthanam  adharmasya  tadatmanaw  srigamy  aham.
 paritrawaya  sadhunaw  vina^aya  £a  dushkn'tam,
 dharmasawsthapana'rtha.ya  sambhavami  yuge-yuge.
 The  Buddha  is  anthropomorphic,  of  course ;  what  god  is
-not?     The  Lotus,  far  from  giving  prominence  to  the  un-
-avoidable human  traits,  endeavours  as  much  as  possible  to
+not?     The  Lotus,  far  from  giving  prominence  to  the  unavoidable human  traits,  endeavours  as  much  as  possible  to
 represent  the  Lord  and  his  audience  as  superhuman  beings.
 In  chap,  xiv  there  is  a  great  pause,  as  in  a  drama,  of  no
-less  than  fifty  intermediate  kalpas,  during  which  .Sakya-
-muni  and  all  his  hearers  keep  silence  5.     A  second  pause
+less  than  fifty  intermediate  kalpas,  during  which  .Sakyamuni  and  all  his  hearers  keep  silence  5.     A  second  pause
 of  1000,  or  according  to  a  various  reading,  100,000  years
 is  held  in  chap.  xx.     Now  it  is  difficult  to  conceive  that
 any  author,  wilfully  and    ostentatiously,  would    mention
@@ -1067,8 +999,7 @@ matS.  dhata  pitamahaA.  Cf.  XI,  43.  The  significant  title  of  Pitamaha  
 to  Buddha  in  an  inscription  found  at  Dooriya  (Bitha) ;  Cunningham,  Archseol.
 Survey,  vol.  iii,  pi.  xviii ;  cf.  p.  48.
 
-a  Like  Naraya«a  in  Bhagavad-gita  XII,  7 :  Tesham  aham  samuddharta-
-mr/tyusamsarasagarat.
+a  Like  Naraya«a  in  Bhagavad-gita  XII,  7 :  Tesham  aham  samuddhartamr/tyusamsarasagarat.
 
 *  Chap,  xv,  st.  21.  *  Chap,  xv,  st.  6,  10.
 
@@ -1098,13 +1029,10 @@ As  soon  as  the  Sun  ceased  to  be  considered  an  animate
 being  or  to  be  represented  as  such,  he  might  continue,  for
 worship's  sake,  honoris  causa,  to  be  called  the  highest
 god;  the  really  remaining  deity  was  Reason,  poetically
-termed  the  inward  light.  This  idea  is  expressed  by  Nila-
-ka#//£a  in  his  commentary  on  Bhagavad-gita.  V,  14,  in  the
-following  terms:  Prabhuj  /Hdatma  surya  ivasmada-
-dinam  prakajaka^,  the  Lord  (is)  the  intelligent  Self  that
+termed  the  inward  light.  This  idea  is  expressed  by  Nilaka#//£a  in  his  commentary  on  Bhagavad-gita.  V,  14,  in  the
+following  terms:  Prabhuj  /Hdatma  surya  ivasmadadinam  prakajaka^,  the  Lord  (is)  the  intelligent  Self  that
 like  a  sun  is  the  illuminator  of  ourselves  and  others 2.  Now
-the  same  author,  in  his  notes  on  Bhagavad-gita  VI,  30,  dis-
-tinctly states  that  our  inward  consciousness,  or  as  he  puts
+the  same  author,  in  his  notes  on  Bhagavad-gita  VI,  30,  distinctly states  that  our  inward  consciousness,  or  as  he  puts
 it,  the  pratyagatman,  the  individual  Self,  otherwise  called
 ^•iva,  is  Naraya^a,  i.e.  the  supreme  being.  At  IX,  28  he
 paraphrases  Narayawa  by  sarvesham  pratyagatman,
@@ -1114,8 +1042,7 @@ Just  as  here  and  there  Naraya«a  is  represented  as  clad  in
 all  the  glory  and  majesty  of  a  sovereign,  as  the  illuminator,
 the  vivifier  of  the  world,  in  one  word  as  the  sun,  so  we  find
 .Sakyamuni  invested  with  all  the  grandeur  and  all  the
-resources  of  a  ruler  of  nature.  Philosophically,  both  Nara-
-ya#a  and  his  counterpart  Sakyamuni  are  purushottama,
+resources  of  a  ruler  of  nature.  Philosophically,  both  Naraya#a  and  his  counterpart  Sakyamuni  are  purushottama,
 paramatman,  the  highest  brahman,  Mind.  Sakyamuni
 
 1  See  e.  g.  .Oandogya-upanishad  III,  18  and  19 ;  cf.  Bhagavad-gltzi  XV,  12.
@@ -1132,11 +1059,9 @@ SADDHARMA-PtLVDARlKA.
 is,  esoterically,  the  very  same  muni,  the  beholder  of  good
 and  evil,  the  pu«yap&pekshitci  muni  that  is  spoken  of
 in  Manu  VIII,  91.  It  is  acknowledged  in  Bhagavad-gita  IX,
-14  seqq.  that  the  supreme  being  may  be  conceived  and  re-
-spected in  different  ways  according  to  the  degree  of  intelli-
+14  seqq.  that  the  supreme  being  may  be  conceived  and  respected in  different  ways  according  to  the  degree  of  intelli-
 gence of  creatures.  Some  pay  their  worship  by  leading  a
-virtuous  life,  others  by  pious  devotion,  others  by  contem-
-plation, others  by  confessing  a  strictly  monistic  philosophy1,
+virtuous  life,  others  by  pious  devotion,  others  by  contemplation, others  by  confessing  a  strictly  monistic  philosophy1,
 others  by  acknowledging  a  personal  god2.  The  Lord  in
 the  Saddharma-pu#</arika  admits  of  being  viewed  in  all
 these  various  aspects.  Whether  the  Buddha-theory,  such
@@ -1144,16 +1069,14 @@ as  we  find  it  developed  in  the  Sutra,  not  in  plain  words,
 indeed,  but  by  circumlocutions  and  ambiguities,  should  be
 called  atheistic  or  not,  is  a  matter  of  comparatively  slight
 importance,  about  which  opinions  may  differ.  This  much,
-however,  may  be  asserted,  that  the  Lotus  and  the  Bhagavad-
-gita  are,  in  this  respect,  exactly  on  a  par.
+however,  may  be  asserted,  that  the  Lotus  and  the  Bhagavadgita  are,  in  this  respect,  exactly  on  a  par.
 
 The  conclusion  arrived  at  is  that  the  Sakyamuni  of  the
 Lotus  is  an  ideal,  a  personification,  and  not  a  person.  Traits
 borrowed,  or  rather  surviving,  from  an  older  cosmological
 mythology,  and  traces  of  ancient  nature-worship  abound
 both  in  the  Lotus  and  the  Bhagavad-gita,  but  in  the
-highest  sense  of  the  word,  paramarthatas,  the  Purushot-
-tama  in  both  is  the  centre  of  mental  life.  It  is  just  possible
+highest  sense  of  the  word,  paramarthatas,  the  Purushottama  in  both  is  the  centre  of  mental  life.  It  is  just  possible
 that  the  ancient  doctors  of  the  Mahayana  have  believed
 that  such  an  ideal  once  walked  in  the  flesh  here  on  earthj
 but  the  impression  left  by  the  spirit  and  the  letter  of  the
@@ -1162,8 +1085,7 @@ times  fervent  adherents  of  the  Mahayana  really  held  that
 belief,  as  we  know  from  the  example  of  the  pious  Hiouen
 Thsang,  who  was  evidently  as  earnest  in  his  belief  that  the
 Lord  once  trod  the  soil  of  India  as  he  was  convinced  of
-Ma%-ujri,  Maitreya,  and  Avalokitejvara  existing  as  ani-
-mated beings.  Whether  the  system  of  the  Lotus  can  be
+Ma%-ujri,  Maitreya,  and  Avalokitejvara  existing  as  animated beings.  Whether  the  system  of  the  Lotus  can  be
 said  to  agree  with  what  is  supposed  to  be  'genuine'  Bud-
 
 1  The  followers  of  the  Upanishads,  Aupanishadas,  who  say,'  Myself  am  God,'
@@ -1177,8 +1099,7 @@ INTRODUCTION.  XXIX
 
 
 dhism,  it  is  not  here  the  place  to  discuss.  So  far  as  the
-Northern  Church  is  concerned,  the  book  must  be  acknow-
-ledged as  the  very  cream  of  orthodoxy ;  it  is  the  last,  the
+Northern  Church  is  concerned,  the  book  must  be  acknowledged as  the  very  cream  of  orthodoxy ;  it  is  the  last,  the
 supreme,  the  most  sublime  of  the  Sutras  exposed  by  the
 Lord;  it  is,  so  to  say,  the  siromani,  the  crown  jewel,  of
 all  Sutras1.
@@ -1189,8 +1110,7 @@ Sutra  is  divided  may  be  described,  summarily,  as  follows :
 1.  Prologue.
 
 2.  Awakening    of  the   Lord   from   his   mystic   trance ;
-display  of  his  transcendent  skilfulness,  proved  by  the  ap-
-parent trinity  of  vehicles,  whereas  in  reality  there  is  but
+display  of  his  transcendent  skilfulness,  proved  by  the  apparent trinity  of  vehicles,  whereas  in  reality  there  is  but
 one  vehicle.
 
 3.  Prophecy  of  the  Lord  regarding  the  future  destiny  of
@@ -1223,8 +1143,7 @@ sons  of  the  said  Tathagata.
 1  Chap,  xiii,  st.  53  seq.
 
 *  Cf.  Bhagavad-gita  IX,  29,  where  Narayawa  declares :  '  I  am  equal  towards
-all  creatures,  none  is  hateful  to  me,  none  beloved;'  samo  'ham  sarvabhftte-
-shu,  na  me  dveshyo  'sti  na  priyaA.
+all  creatures,  none  is  hateful  to  me,  none  beloved;'  samo  'ham  sarvabhftteshu,  na  me  dveshyo  'sti  na  priyaA.
 
 
 xxx  SADDHARMA-PIWDAR!KA.
@@ -1241,16 +1160,13 @@ religion.
 
 1 1.  Display  of  the  miraculous  power  of  Sakyamuni  shown
 in  the  appearance  of  a  Stupa,  which,  being  opened  by  him,
-discloses  to  sight  the  frame  of  the  expired  Tathagata  Pra-
-bhutaratna,  who  is  desirous  of  hearing  the  exposition  of  the
+discloses  to  sight  the  frame  of  the  expired  Tathagata  Prabhutaratna,  who  is  desirous  of  hearing  the  exposition  of  the
 Lotus  of  the  True  Law.    How  Sakyamuni  in  a  former  birth
-strove  to  acquire  the  Lotus.   His  great  obligations  to  Deva-
-datta.    Episode  of  the  wise  daughter  of  the  Ocean  and  her
+strove  to  acquire  the  Lotus.   His  great  obligations  to  Devadatta.    Episode  of  the  wise  daughter  of  the  Ocean  and  her
 change  of  sex.
 
 12.  Prediction  to  Gautami,  Yajodhara,  and  the  nuns  in
-their  train.     Promise  of  the  host  of  disciples  and  Bodhisat-
-tvas  to  take  up  the  difficult  task  of  preaching  the  holy
+their  train.     Promise  of  the  host  of  disciples  and  Bodhisattvas  to  take  up  the  difficult  task  of  preaching  the  holy
 word  in  days  to  come,  after  the  Lord's  Nirvana.
 
 13.  Vocation  of  the  ministers  of  religion,  and  practical
@@ -1260,8 +1176,7 @@ manner  the  Buddha  will  reward  those  who  struggle  for  his
 sake,  by  bestowing  upon  them  all  kinds  of  favours,  at  last
 the  most  valuable  of  his  boons — eternal  rest.
 
-14.  Splendid  phantasmagory  of  innumerable  Bodhisat-
-tvas  evoked  by  the   creative  power  of  the  Lord.     Long
+14.  Splendid  phantasmagory  of  innumerable  Bodhisattvas  evoked  by  the   creative  power  of  the  Lord.     Long
 pause,  during  which  the  Tathagata  and  the  four  classes  of
 hearers  are  silent.     Perplexity  of  Maitreya  on  hearing  that
 the  innumerable  Bodhisattvas  have  all  been  the  pupils  of  the
@@ -1289,8 +1204,7 @@ enjoyed  by  the  ministers  of  religion.
 of  simple-mindedness    and    pure-heartedness    to   worldly
 wisdom  and  scepticism.
 
-20.  Grand  show  exhibited  by  the  two  Tathagatas  Sakya-
-muni    and    Prabhutaratna    conjointly1.     Pause    after    the
+20.  Grand  show  exhibited  by  the  two  Tathagatas  Sakyamuni    and    Prabhutaratna    conjointly1.     Pause    after    the
 performance.    After  the  pause  a  great  stir  amongst  gods,
 celestial  and  infernal  beings,  men,  &c. 2     The  Tathagata
 extols  the  Sutra  of  the  Lotus  in  which  '  all  Buddha-laws
@@ -1305,12 +1219,10 @@ topics,  briefly  indicated :
 
 21.  Efficacy  of  talismanic  spells  (Dhara«is).
 
-22.  Self-sacrifice  of  the  Bodhisattva  Sarvasattvapriyadar-
-jana,  otherwise  called  Bhaisha^yara^a.    Glorification  of  the
+22.  Self-sacrifice  of  the  Bodhisattva  Sarvasattvapriyadarjana,  otherwise  called  Bhaisha^yara^a.    Glorification  of  the
 Lotus  as  the  most  eminent  of  Sutras.
 
-23.  Visit  of  the  Bodhisattva  Gadgadasvara  to  the  Saha-
-world.     Extraordinary  qualities  and  achievements  of  this
+23.  Visit  of  the  Bodhisattva  Gadgadasvara  to  the  Sahaworld.     Extraordinary  qualities  and  achievements  of  this
 worthy,  incidentally  narrated  by  the  Tathagata.     Return
 of  the  Bodhisattva  to  whence  he  came.
 
@@ -1328,8 +1240,7 @@ religion  in  after-times  after  the  Lord's  Nirvawa3.
 1  Both  stretch  their  flaming  tongues  as  far  as  the  Brahma-world.     In  the
 Bhagavad-gita  XI,  30  it  is  said  of  Narayarca,  when  at  the  request  of  Ar^una  he
 shows   himself  in  his  full  grandeur :   lelihyase  grasamanaA  samantal   lokan
-samagran  vadanair  ^valadbhiA,  teg'obhir  Spurya  gagat  samagram  bhasas  tavo-
-graA  prapatanti,  Vish«o  !
+samagran  vadanair  ^valadbhiA,  teg'obhir  Spurya  gagat  samagram  bhasas  tavograA  prapatanti,  Vish«o  !
 
 2  Cf.  Bhagavad-gita  XI,  15.
 
@@ -1340,10 +1251,8 @@ XXXli  SADDHARMA-PlLYZJARfKA.
 
 This  summary,  however  meagre,  will  be  sufficient  to  show
 that  there  is  no  lack  of  variety  in  our  Sutra.  We  may,  indeed,
-be  satisfied  that  the  compilers  of  it  intended  giving  an  ex-
-position of  the  principal  truths  of  their  religion  in  general,
-and  of  the  peculiar  tenets  of  their  own  system1  in  parti-
-cular, the  whole  with  anxious  care  arranged  in  such  a  form
+be  satisfied  that  the  compilers  of  it  intended  giving  an  exposition of  the  principal  truths  of  their  religion  in  general,
+and  of  the  peculiar  tenets  of  their  own  system1  in  particular, the  whole  with  anxious  care  arranged  in  such  a  form
 that  the  Sutra  admitted  of  an  exoterical  and  esoterical
 interpretation.  It  contains  a  revelation  of  the  state  of
 things  in  the  present,  as  well  as  in  the  past  and  the  future,
@@ -1357,8 +1266,7 @@ has  his  constant  abode  on  the  Gn'dhraku/a,  i.e.  he  who  is
 the  terminology  of  other  Indian  creeds  is  called  Kutestha.
 
 As  a  general  rule  it  may  be  said  that  in  such  works  of
-ancient  Indian  literature  as  are  anonymous,  we  must  distin-
-guish between  the  authority  and  the  author.  In  the  Lotus
+ancient  Indian  literature  as  are  anonymous,  we  must  distinguish between  the  authority  and  the  author.  In  the  Lotus
 we  meet  after  the  invocation  in  some  MSS.  the  following
 distich :
 
@@ -1373,8 +1281,7 @@ person  here  speaking  is  not  the  Buddha,  who  is  neither
 the  author  nor  the  writer  of  the  work.  Have  we  then  to
 ascribe  the  distich  to  one  of  the  ancient  copyists?  Burnouf2
 decidedly  thinks  so,  and  his  opinion  is  corroborated  by  the
-fact  that  the  verses  do  not  occur  in  all  MSS.  I  must  con-
-in  the  latter  it  is  the  Lord  himself  who  promises  to  be  in  future  the  protector
+fact  that  the  verses  do  not  occur  in  all  MSS.  I  must  conin  the  latter  it  is  the  Lord  himself  who  promises  to  be  in  future  the  protector
 of  the  preachers.
 
 1  I.e.  of  the  Mahayana,  which  according  to  Taranatha,  Geschichte  des
@@ -1398,13 +1305,11 @@ udirayishyam  and  upavarwayishyami l,  where  they
 can  hardly  be  imputed  to  the  scribe,  it  is  safer  to  leave
 the  question,  whether  the  opening  distich  of  the  Lotus  is
 the  work  of  a  compiler  or  of  a  copyist,  undecided,  the
-more  so  because  the  parallel  phrase  athato — vyakhya-
-syama//,  frequently  found  immediately  after  the  invoca-
+more  so  because  the  parallel  phrase  athato — vyakhyasyama//,  frequently  found  immediately  after  the  invoca-
 tion, in  non-Buddhistic  writings,  must  be  held  to  refer  to
 the  author  or  authors,  compilers.
 
-The  Lotus  being  one  of  the  standard  works  of  the  Maha-
-yana, the  study  of  it  cannot  but  be  useful  for  the  right
+The  Lotus  being  one  of  the  standard  works  of  the  Mahayana, the  study  of  it  cannot  but  be  useful  for  the  right
 appreciation  of  that  remarkable  system.  A  perusal  of  the
 book  will  convince  the  reader  that  a  statement  of  Professor
 Wassiljew's2  can  only  be  accepted  with  some  restrictions,
@@ -1418,8 +1323,7 @@ an  egoist.  In  general  it  may  be  said  that  the  spirit  of  the
 Mahayana  is  more  universal,  its  ideal  less  monastical  than
 the  Hinayana's.  According  to  Professor  Rhys  Davids  we
 must  not  seek  the  superior  vital  power  which  enabled  the
-Great  Vehicle  to  outlive  the  earlier  teaching  in  certain  meta-
-physical subtleties,  but  in  the  idea  of  a  desire  to  save  all
+Great  Vehicle  to  outlive  the  earlier  teaching  in  certain  metaphysical subtleties,  but  in  the  idea  of  a  desire  to  save  all
 living  creatures;  'the  idea,' to  quote  his  own  words3, 'as
 summarised  in  the  theory  of  Bodisatship,  is  the  key-note
 of  the  later  school,  just  as  Arahatship  is  the  key-note  of
@@ -1441,8 +1345,7 @@ Nirva«a  in  this  life1.  But  it  produces  advantage  only  to
 yourselves;  and  according  to  your  own  theory  there  will
 be  a  necessity  for  Buddhas  in  the  future  as  much  as  there
 has  been  for  Buddhas  in  the  past.  Greater,  better,  nobler
-then,  than  the  attainment  of  Arahatship  must  be  the  at-
-tainment of  Bodisatship  from  a  desire  to  save  all  living
+then,  than  the  attainment  of  Arahatship  must  be  the  attainment of  Bodisatship  from  a  desire  to  save  all  living
 creatures  in  the  ages  that  will  come.'  The  teaching  of  the
 Lotus,  however,  is  different,  and  comes  to  this,  that  every
 one  should  try  to  become  a  Buddha.  It  admits  that  from
@@ -1452,8 +1355,7 @@ Nirvana,  although  in  a  higher  sense  there  is  only  one  Vehicle.
 These  means  are,  in  plain  language,  piety,  philosophy  or
 rather  Yogism,  and  striving  for  the  enlightenment  and  weal
 of  our  fellow-creatures ;  these  means  are  designated  by  the
-terms  of  Vehicle  of  (obedient)  hearers  or  disciples,  of  Pratye-
-kabuddhas,  and  of  Bodhisattvas.  Higher  than  piety  is  true
+terms  of  Vehicle  of  (obedient)  hearers  or  disciples,  of  Pratyekabuddhas,  and  of  Bodhisattvas.  Higher  than  piety  is  true
 and  self-acquired  knowledge  of  the  eternal  laws ;  higher
 than  knowledge  is  devoting  oneself  to  the  spiritual  weal  of
 others2.  The  higher  unity  embracing  the  three  separate
@@ -1470,8 +1372,7 @@ and  of  the  Brahmans  or  Dvi^as  in  the  fourth  Asrama.
 
 1  See  chap,  iii,  p.  80.  Something  similar  in  Bhagavad-gita  XII,  1 2  :  sreyo  hi
 giianam  abhyas%  g-wanad  dhyanam  visishyate,  dhyanat  karmaphalatyagas
-tyagat  Mantir  anantaram ;  and  IV,  5  :  labhante  brahmanirvarcam  n'shayaA  kshl-
-nakalmashaA,  Winnadvaidha  yatatmanaA  sarvabhutahite  rataA.  Neither
+tyagat  Mantir  anantaram ;  and  IV,  5  :  labhante  brahmanirvarcam  n'shayaA  kshlnakalmashaA,  Winnadvaidha  yatatmanaA  sarvabhutahite  rataA.  Neither
 in  these  passages  of  the  Bhagavad-gita  nor  in  the  three  Vehicles  is  there
 anything  new;  abhyasa,  study,  denotes  the  period  of  one's  studying  under  a
 master,  the  BrahmaMriship,  which  the  Lotus  calls  the  Vehicle  of  Disciples ;  the
@@ -1497,8 +1398,7 @@ to  those  who  are  willing  to  receive  it.  These  willing  learners
 are  the  "Bodhisattvas,"  so  called  from  their  hearts  being
 inclined  to  the  wisdom  of  Buddhism,  and  "  Sanghas,"  from
 their  companionship  with  one  another,  and  with  their
-Buddha  or  teacher,  in  the  vihdras  or  ccenobitical  esta-
-blishments. The  Bodhisattva  or  Sangha  continues  to  be
+Buddha  or  teacher,  in  the  vihdras  or  ccenobitical  establishments. The  Bodhisattva  or  Sangha  continues  to  be
 such  until  he  has  surmounted  the  very  last  grade  of  that
 vast  and  laborious  ascent  by  which  he  is  instructed  that
 he  can  "scale  the  heavens,"  and  pluck  immortal  wisdom
@@ -1508,8 +1408,7 @@ he  becomes  a  Buddha,  that  is,  an  Omniscient  Being.'
 Here  the  Bodhisattvas  are  plainly  distinguished  from  the
 ccenobitical  monks ;  they  are  so  likewise  in  the  Lotus 3,  in
 which  we  find  them  also  in  the  function  of  learned  or  wise
-men  (Pa#dTitas),  of  preachers  or  ministers  of  religion.  Was-
-siljew  I.e.  remarks  about  the  Bodhisattva — the  terrestrial
+men  (Pa#dTitas),  of  preachers  or  ministers  of  religion.  Wassiljew  I.e.  remarks  about  the  Bodhisattva — the  terrestrial
 one  of  course — that  'from  one  side,  he  seems  to  be  the
 substitute  of  the  ancient  Bhikshu ; '  from  which  we  ought
 not  to  infer  that  the  mendicant  monks,  as  such,  ceased  to
@@ -1517,8 +1416,7 @@ exist,  for  that  is  notoriously  not  the  case,  but  that  the
 Bodhisattvas  were  charged  with  the  office  of  preaching.
 They  are  persons  who  deserve  to  be  honoured  both  by
 mendicant  monks  and  lay  devotees  4,  and  formed,  it  would
-seem,  a  kind  of  learned  clergy,  not  to  be  confounded,  how-
-ever, with  the  modern  Va^ra-A^aryas  or  married  clergy-
+seem,  a  kind  of  learned  clergy,  not  to  be  confounded,  however, with  the  modern  Va^ra-A^aryas  or  married  clergy-
 men in  Nepal.  There  is  reason  to  suppose  that  one  of  the
 
 
@@ -1538,8 +1436,7 @@ law  was  'wise'  or  'learned  man/  Pandita.,  for  the  word  is
 so  often  applied  to  them  that  it  looks  more  like  a  title
 than  a  common  epithet1.  Taranatha  knows  Pandita.  to  be
 a  title2,  and  considers  it  to  be  the  equivalent  of  the  older
-Mahabhadanta ;  he  distinguishes  '  Bodhisattvas'  from  'com-
-mon PawdTitas'  and  'Arhats.'  How  does  this  agree  with
+Mahabhadanta ;  he  distinguishes  '  Bodhisattvas'  from  'common PawdTitas'  and  'Arhats.'  How  does  this  agree  with
 the  data  in  the  Lotus?  As  it  has  been  intimated  in  a
 foregoing  note,  the  three  Vehicles  are  imitations  of  three
 Ajramas  or  stages  in  the  model  life  of  an  Arya,  in  the  first
@@ -1549,10 +1446,8 @@ Mukta,  who  has  wholly  given  up  the  world.  The  second
 stage,  that  of  a  householder,  does  not  exist,  of  course,  for
 those  who  vow  themselves  to  a  monastic  life.  Our  Sutra
 does  not  prescribe  that  the  three  stages  must  be  gone
-through  by  the  same  persons,  no  more  than  the  Bhagavad-
-gita  I.e.  requires  that  one  should  pass  the  stages  of  study,
-knowledge,  and  meditation  before  resolving  upon  com-
-plete renunciation  (tyaga) ;  what  follows  from  the  context
+through  by  the  same  persons,  no  more  than  the  Bhagavadgita  I.e.  requires  that  one  should  pass  the  stages  of  study,
+knowledge,  and  meditation  before  resolving  upon  complete renunciation  (tyaga) ;  what  follows  from  the  context
 is  only  this,  that  the  Vehicle  of  Bodhisattvas,  alias  those
 who  strive  for  the  weal  of  all  creatures,  is  superior  to  the
 two  preceding  Vehicles.  The  Vehicle  of  the  Bodhisattvas
@@ -1563,10 +1458,8 @@ the  first  class  of  the  monastic  order  is  that  of  Arhat3.  The
 question  is,  how  are  we  to  judge  of  the  relation  between
 Arhats  and  Bodhisattvas  in  the  Lotus?  As  far  as  I  am
 able  to  see,  the  compiler 4  of  the  Sutra  describes  facts,  or
-supposed  facts,  which  he  knew  from  oral  or  literary  tradi-
-tion, as  having  occurred  in  the  past,  whereas  the  actual
-state  of  things  in  his  own  time  and  shortly  before  is  repre-
-sented as  that  of  the  future.  His  Arhats  are  sages  of  the
+supposed  facts,  which  he  knew  from  oral  or  literary  tradition, as  having  occurred  in  the  past,  whereas  the  actual
+state  of  things  in  his  own  time  and  shortly  before  is  represented as  that  of  the  future.  His  Arhats  are  sages  of  the
 past,  canonized  saints ;  his  human  Bodhisattvas  are  sages,
 
 1  E.g.  Lotus,  chap,  x,  st.  4,  cf.  6 ;  23,  33 ;  xiii,  13, 16,  24,  26,  30,  32,  39,44.
@@ -1583,8 +1476,7 @@ INTRODUCTION.  XXXV11
 
 wise  men  of  the  present,  most  reverend  worthies  who  should
 live  a  saintly  life  and  generally  do  so,  but  who,  however
-sanctimonious,  are  not  acknowledged  saints.  Of  an  anta-
-gonism between  Arhats  and  Bodhisattvas  there  is  no  trace
+sanctimonious,  are  not  acknowledged  saints.  Of  an  antagonism between  Arhats  and  Bodhisattvas  there  is  no  trace
 in  the  book  ;  the  Arhats  being  dead,  they  cannot  be  active  ;
 the  Bodhisattvas  as  living  persons,  can1.  In  a  certain
 respect,  then,  the  remark  of  Professor  Rhys  Davids  holds
@@ -1592,12 +1484,10 @@ good ;  the  Bodhisattvas  represent  the  ideal  of  spiritual
 activity,  the  Arhats  of  inactivity.  It  must  be  admitted
 that  the  Lotus,  as  a  whole,  breathes  a  less  monastic  and
 ascetic2  spirit ;  it  does  not  go  the  length  to  speak  of  ascetism
-and  mortification  in  such  scornful  terms  as  the  Bhagavad-
-gita3  does,  but  at  the  same  time  it  never  extols  it.  There
+and  mortification  in  such  scornful  terms  as  the  Bhagavadgita3  does,  but  at  the  same  time  it  never  extols  it.  There
 are  in  the  book  many  indications  that  the  art  of  preaching
 was  made  much  of  and  highly  developed,  and  it  may  be
-supposed  that  a  greater  proficiency  in  hermeneutics  com-
-bined with  superior  mental  activity  has  enabled  the  Maha-
+supposed  that  a  greater  proficiency  in  hermeneutics  combined with  superior  mental  activity  has  enabled  the  Maha-
 yana  to  supplant  its  rival,  the  Hinayana,  and  to  extend  its
 spiritual  conquests  once  from  the  snows  of  Siberia  to  the
 luxuriant  islands  of  the  Indian  Archipelago.
@@ -1610,18 +1500,15 @@ declare  that  I  cannot  speak  in  too  warm  terms  of  the
 benefit  I  have  derived  from  the  French  translation  by  the
 illustrious  Burnouf.  I  have  taken  that  work  throughout
 for  my  model,  without  having  been  able  to  reach  its
-excellency.  The  material  discrepancies  between  his  trans-
-lation are  partly  due  to  my  having  followed  other  MSS.,
-partly  to  another  interpretation,  especially  of  frequently  cor-
-rupt and  difficult  Gathas.  If  some  reader  not  acquainted
+excellency.  The  material  discrepancies  between  his  translation are  partly  due  to  my  having  followed  other  MSS.,
+partly  to  another  interpretation,  especially  of  frequently  corrupt and  difficult  Gathas.  If  some  reader  not  acquainted
 
 1  Something  of  contempt  for  the  Arhats  is  shown  in  the  story  communicated
 by  Hiouen  Thsang  in  Voyages  des  Pelerins  bouddhistes,  II,  p.  176,  where  the
 editor  inadvertently  writes  Vasubandhu  instead  of  Vasumitra ;  his  index  affords
 the  means  of  correcting  the  mistake ;  cf.  Wassiljew  in  Taranatha,  p.  298.
 
-*  See  chap,  xiii,  28,  where  the  eighth  commandment  of  the  Dasasila,  for-
-bidding the  use  of  ointment,  is  slighted.
+*  See  chap,  xiii,  28,  where  the  eighth  commandment  of  the  Dasasila,  forbidding the  use  of  ointment,  is  slighted.
 
 a  See  there  xvii,  5  seqq.,  and  cf.  14  seqq.,  where  we  are  taught  what  the  true
 tapas  should  be.
@@ -1638,8 +1525,7 @@ fragment  from  Kumira^iva's  rendering  on  page  xl  with
 the  corresponding  passages  in  the  French  and  English
 translations,  and  he  will  observe  that  the  difference
 between  the  work  of  the  learned  Buddhist  of  the  fourth
-century  and  the  two  European  versions  is  far  more  con-
-siderable than  between  the  latter.
+century  and  the  two  European  versions  is  far  more  considerable than  between  the  latter.
 
 The  base  of  my  translation  has  been  an  old  manuscript
 on  palm  leaves,  belonging  to  Dr.  D.  Wright's  collection,
@@ -1647,11 +1533,9 @@ in  the  University  Library  of  Cambridge.  The  manuscript
 is  dated  Newar,  era  159  (  =  A.  D.  1039),  and  was  written  in
 the  reign  of  the  king  Kamadeva  (?),  in  the  bright  half  of
 the  month  Vabakha,  on  a  Thursday1.  It  is  one  of  the
-most  ancient  Sanskrit  MSS.  existing  in  Europe,  and  there-
-fore I  thought  that  it  was  advisable  to  follow  its  readings
+most  ancient  Sanskrit  MSS.  existing  in  Europe,  and  therefore I  thought  that  it  was  advisable  to  follow  its  readings
 as  much  as  possible,  except  in  such  passages  as  were
-evidently  corrupt.  A  second  MS.,  unfortunately  incom-
-plete, from  the  same  collection,  is  of  unknown  date,  since
+evidently  corrupt.  A  second  MS.,  unfortunately  incomplete, from  the  same  collection,  is  of  unknown  date,  since
 the  latter  part  of  the  codex  is  lost ;  from  the  form  of  the
 characters  it  may  be  inferred  that  it  is  not  much  more
 modern  than  the  other  codex2.  The  difference  between
@@ -1693,8 +1577,7 @@ thanks  to  Professors  William  Wright  and  E.  B.  Cowell,  at
 Cambridge,  for  the  generous  way  in  which  they  have
 enabled  me  to  use  the  MSS.  I  wanted  for  my  translation.
 My  thanks  are  due  also  to  the  Council  of  Cambridge
-University  and  Mr.  H.  Bradshaw,  for  their  readily  com-
-plying with  my  wishes.  To  Professor  Max  Miiller  I  owe  a
+University  and  Mr.  H.  Bradshaw,  for  their  readily  complying with  my  wishes.  To  Professor  Max  Miiller  I  owe  a
 debt  of  gratitude  for  his  kindly  assisting  me  in  my  task
 in  more  than  one  respect,  a  debt  which  I  am  glad  here
 openly  to  acknowledge.
@@ -1779,8 +1662,7 @@ J'examine  murement  une  telle  chose
 
 Exempte  d'imperfections  et  difficile  a  concevoir
 
-Qui  fait  arriver  la  multitude  a  1'estrade  de  1'Intelligence  (B  drilli-
-ng a»</a)
+Qui  fait  arriver  la  multitude  a  1'estrade  de  1'Intelligence  (B  drilling a»</a)
 
 Moi,  dans  1'origine,  j'&ais  attache*  aux  vues  perverses  (a  1'he're'sie)
 
@@ -1915,8 +1797,7 @@ Thus  have  I  heard.  Once  upon  a  time  the  Lord
 was  staying  at  Ra^agrzha,  on  the  Gmlhraku/a1
 mountain,  with  a  numerous  assemblage  of  monks,
 twelve  hundred  monks,  all  of  them  Arhats,  stainless,
-free  from  depravity,  self-controlled2,  thoroughly  eman-
-cipated in  thought  and  knowledge,  of  noble  breed,
+free  from  depravity,  self-controlled2,  thoroughly  emancipated in  thought  and  knowledge,  of  noble  breed,
 (like  unto)  great  elephants,  having  done  their  task,
 done  their  duty,  acquitted  their  charge,  reached  the
 goal ;  in  whom  the  ties  which  bound  them  to  existence
@@ -1941,39 +1822,32 @@ SADDHARMA-PUMDARIKA.  I.
 eminent  disciples,  such  as  the  venerable
 Kauwdfmya,  the  venerable  A-sva^it,  the  venerable
 Vashpa,  the  venerable  Mahanaman,  the  venerable
-Bhadrika  l,  the  venerable  Maha-Kasyapa,  the  venera-
-ble Kijyapa  of  Uruvilva,  the  venerable  KcUyapa  of
-Nadi,  the  venerable  Kasyapa  of  Gaya2,  the  venera-
-ble .Sariputra,  the  venerable  Maha-Maudgalyayana3,
-the  venerable  Maha-Kdtyayana  4,  the  venerable  Ani-
-ruddha  6,  the  venerable  Revata,  the  venerable  Kap-
+Bhadrika  l,  the  venerable  Maha-Kasyapa,  the  venerable Kijyapa  of  Uruvilva,  the  venerable  KcUyapa  of
+Nadi,  the  venerable  Kasyapa  of  Gaya2,  the  venerable .Sariputra,  the  venerable  Maha-Maudgalyayana3,
+the  venerable  Maha-Kdtyayana  4,  the  venerable  Aniruddha  6,  the  venerable  Revata,  the  venerable  Kap-
 phi^a  6,  the  venerable  Gavdmpati,  the  venerable
 Pilindavatsa,  the  venerable  Vakula,  the  venerable
 Bharadva^-a  7,  the  venerable  Mahi-Kaush^ila  8,  the
 venerable  Nanda  (alias  Mahananda),  the  venerable
 
 
-knowledge  of  the  thoughts  of  others,  knowledge  of  former  exist-
-ences, the  divine  eye.  Sometimes  a  sixth  Abhig-wa  is  added,
+knowledge  of  the  thoughts  of  others,  knowledge  of  former  existences, the  divine  eye.  Sometimes  a  sixth  Abhig-wa  is  added,
 viz.  the  knowledge  which  causes  the  destruction  of  human
 passion;  Burnouf,  Lotus,  p.  820  sqq. ;  Spence  Hardy,  Eastern
 Monachism,  p.  284.
 
-1  These  are  known  as  the  Five  Bhadravargiyas,  or,  in  Pali,  Parl^a-
-vaggiyas ;  they  were  the  first  five  disciples.
+1  These  are  known  as  the  Five  Bhadravargiyas,  or,  in  Pali,  Parl^avaggiyas ;  they  were  the  first  five  disciples.
 
 2  The  conversion  of  Ka-yyapa  of  Uruvilva  and  the  two  following
 is  told  in  Buddhist  Birth  Stories  (translated  by  Rhys  Davids),  1, 1 14;
 Mahavagga  (ed.  Oldenberg)  I,  1 5.
 
 8  .Sariputra  and  Maudgalyayana  are  termed  the  foremost  or
-chief  disciples  (agrajravaka)  of  the  Lord.  About  their  con-
-version, see  Birth  Stories,  I,  118  ;  Mahavagga  I,  23.
+chief  disciples  (agrajravaka)  of  the  Lord.  About  their  conversion, see  Birth  Stories,  I,  118  ;  Mahavagga  I,  23.
 
 4  About  him,  see  Mahavagga  V,  1 3.
 
-6  In  Pali,  Anuruddha  ;  the  story  of  his  conversion  is  told  ^"ulla-
-vagga  (ed.  Oldenberg)  I,  8.
+6  In  Pali,  Anuruddha  ;  the  story  of  his  conversion  is  told  ^"ullavagga  (ed.  Oldenberg)  I,  8.
 
 '  The  name  is  variously  spelt  Kapphma,  Kasphiwa,  Kashphiwa,
 Kapphilla,  Kawzphilla.  The  Tibetan  form  Kapina  (in  Lotus,  p.  294)
@@ -1990,10 +1864,8 @@ would  expect  Kao-<£t'w7*.
 I.  INTRODUCTORY.
 
 
-Upananda1,  the  venerable  Sundara-Nanda2,  the  vene-
-rable Purna.  Maitraya/ziputra,  the  venerable  Subhuti,
-the  venerable  Rahula ;  with  them  yet  other  great  dis-
-ciples, as  the  venerable  Ananda,  still  under  training,
+Upananda1,  the  venerable  Sundara-Nanda2,  the  venerable Purna.  Maitraya/ziputra,  the  venerable  Subhuti,
+the  venerable  Rahula ;  with  them  yet  other  great  disciples, as  the  venerable  Ananda,  still  under  training,
 and  two  thousand  other  monks,  some  of  whom  still
 under  training,  the  others  masters ;  with  six  thousand
 nuns  having  at  their  head  Mahapra^apatl3,  and  the
@@ -2002,15 +1874,12 @@ train ;  (further)  with  eighty  thousand  Bodhisattvas,
 all  unable  to  slide  back  4,  endowed  with  the  spells  of
 supreme,  perfect  enlightenment,  firmly  standing  in
 wisdom ;  who  moved  onward  the  never  deviating 5
-wheel  of  the  law ;  who  had  propitiated  many  hun-
-dred thousands  of  Buddhas ;  who  under  many
+wheel  of  the  law ;  who  had  propitiated  many  hundred thousands  of  Buddhas ;  who  under  many
 hundred  thousands  of  Buddhas  had  planted  the  roots
 of  goodness,  had  been  intimate  with  many  hundred
 thousands  of  Buddhas,  were  in  body  and  mind  fully
-penetrated  with  the  feeling  of  charity ;  able  in  com-
-municating the  wisdom  of  the  Tathagatas ;  very
-wise,  having  reached  the  perfection  of  wisdom ;  re-
-nowned in  many  hundred  thousands  of  worlds ;
+penetrated  with  the  feeling  of  charity ;  able  in  communicating the  wisdom  of  the  Tathagatas ;  very
+wise,  having  reached  the  perfection  of  wisdom ;  renowned in  many  hundred  thousands  of  worlds ;
 having  saved  many  hundred  thousand  myriads6  of
 ko/is 7  of  beings ;  such  as  the  Bodhisattva  Maha-
 
@@ -2040,41 +1909,32 @@ B   2
 4  SADDHARMA-PU^VDARIKA.  I.
 
 sattva1  Mangusrt,  as  prince  royal2;  the  Bodhisattvas
-Mahdsattvas  A  valokitesvara,  Mahasthamaprapta,  Sar-
-varthanaman,  Nityodyukta,  Anikshiptadhura,  Ratna-
+Mahdsattvas  A  valokitesvara,  Mahasthamaprapta,  Sarvarthanaman,  Nityodyukta,  Anikshiptadhura,  Ratna-
 pawi,  Bhaisha^yara^a,  Pradana^ura,  Ratna/£andra,
-Ratnaprabha,  Pur#a/£andra,  Mahavikramin,  Trailo-
-kavikramin,  Anantavikramin,  Mahapratibhana,  Sata-
-tasamitdbhiyukta,  Dhara^idhara3,  Akshayamati,  Pad-
-mayrl,  Nakshatrara^a,  the  Bodhisattva  Mahasattva
+Ratnaprabha,  Pur#a/£andra,  Mahavikramin,  Trailokavikramin,  Anantavikramin,  Mahapratibhana,  Sata-
+tasamitdbhiyukta,  Dhara^idhara3,  Akshayamati,  Padmayrl,  Nakshatrara^a,  the  Bodhisattva  Mahasattva
 Maitreya,  the  Bodhisattva  Mahasattva  Siwha.
 
 With  them  were  also  the  sixteen  virtuous  men  to
-begin  with  Bhadrapala,  to  wit,  Bhadrapala,  Ratna-
-kara,  Susarthavaha,  Naradatta4,  Guhagupta,  Varu-
-wadatta,  Indradatta,  Uttaramati,  Vkeshamati,  Vardha-
-manamati,  Amoghadamn,  Susawsthita,  Suvikranta-
-vikramin,  Anupamamati,  Suryagarbha,  and  Dhara-
-wldhara;  besides  eighty  thousand  Bodhisattvas,
+begin  with  Bhadrapala,  to  wit,  Bhadrapala,  Ratnakara,  Susarthavaha,  Naradatta4,  Guhagupta,  Varu-
+wadatta,  Indradatta,  Uttaramati,  Vkeshamati,  Vardhamanamati,  Amoghadamn,  Susawsthita,  Suvikranta-
+vikramin,  Anupamamati,  Suryagarbha,  and  Dharawldhara;  besides  eighty  thousand  Bodhisattvas,
 among  whom  the  fore-mentioned  were  the  chiefs;
 further  6akra,  the  ruler  of  the  celestials,  with  twenty
 thousand  gods,  his  followers,  such  as  the  god
 A"andra  (the  Moon),  the  god  Surya  (the  Sun),
-the  god  Samantagandha  (the  Wind),  the  god  Rat-
-naprabha, the  god  Avabhasaprabha,  and  others;
+the  god  Samantagandha  (the  Wind),  the  god  Ratnaprabha, the  god  Avabhasaprabha,  and  others;
 further,  the  four  great  rulers  of  the  cardinal  points
 with  thirty  thousand  gods  in  their  train,  viz.  the
 great  ruler  Viru<///aka,  the  great  ruler  Virupaksha,
 the  great  ruler  Dlmtarash/ra,  and  the  great  ruler
-Vai^ravawa;  the  god  Lvara  and  the  god  Mahe-
-jvara5,  each  followed  by  thirty  thousand  gods;  further,
+Vai^ravawa;  the  god  Lvara  and  the  god  Mahejvara5,  each  followed  by  thirty  thousand  gods;  further,
 
 1  I.  e.  a  great  being.
 
 2  Or,  'still  a  youth,'  kumarabhuta.
 
-8  In  chap.  XXIV  he  occurs  as  Bodhisattva  Mahasattva  Dhara-
-mndhara.
+8  In  chap.  XXIV  he  occurs  as  Bodhisattva  Mahasattva  Dharamndhara.
 
 4  Burnouf  has  Ratnadatta.
 
@@ -2084,24 +1944,20 @@ mndhara.
 I.  INTRODUCTORY.
 
 
-Brahma  Sahampati l  and  his  twelve  thousand  fol-
-lowers, the  Brahmakayika  gods,  amongst  whom
+Brahma  Sahampati l  and  his  twelve  thousand  followers, the  Brahmakayika  gods,  amongst  whom
 Brahma  .Sikhin2  and  Brahma  6yotishprabha,  with  the
 other  twelve  thousand  Brahmakayika  gods3;  together
-with  the  eight  Naga  kings  and  many  hundred  thou-
-sand myriads  of  kofis  of  Nagas  in  their  train,  viz.
+with  the  eight  Naga  kings  and  many  hundred  thousand myriads  of  kofis  of  Nagas  in  their  train,  viz.
 the  Naga  king  Nanda,  the  Naga  king  Upananda,
 Sagara,  Vasuki,  Takshaka,  Manasvin,  Anavatapta,
 and  Utpalaka ;  further,  the  four  Kinnara  kings  v/ith
-many  hundred  thousand  myriads  of  ko/is  of  fol-
-lowers, viz.  the  Kinnara  king  Druma,  the  Kinnara
+many  hundred  thousand  myriads  of  ko/is  of  followers, viz.  the  Kinnara  king  Druma,  the  Kinnara
 king  Mahadharma,  the  Kinnara  king  Sudharma,  and
 the  Kinnara  king  Dharmadhara ;  besides,  the  four
 divine  beings  (called)  Gandharvakayikas  with  many
 hundred  thousand  Gandharvas  in  their  suite,  viz.  the
 Gandharva  Mano^a,  the  Gandharva  Mano^asvara,
-the  Gandharva  Madhura,  and  the  Gandharva  Ma-
-dhurasvara ;  further,  the  four  chiefs  of  the  demons
+the  Gandharva  Madhura,  and  the  Gandharva  Madhurasvara ;  further,  the  four  chiefs  of  the  demons
 
 
 epithets  of  Siva,  has  its  counterpart  in  the  equally  fanciful  difference
@@ -2109,8 +1965,7 @@ between  Tishya  and  Pushya,  Meru  and  Sumeru,  which  occurs  in
 Buddhist  writings.  In  Mahavastu,  p.  355  (ed.  Senart),  we  even  find
 Maya  distinguished  from  Mahamaya1.
 
-1  On  comparing  Lalita-vistara,  p.  5 1 5,  1.  3,  with  the  parallel  pas-
-sage Mahavagga  I,  5,  4,  it  appears  that  Sahampati  and  6ikhin  are
+1  On  comparing  Lalita-vistara,  p.  5 1 5,  1.  3,  with  the  parallel  passage Mahavagga  I,  5,  4,  it  appears  that  Sahampati  and  6ikhin  are
 synonymous  terms.     As  Sikhin  is  a  common  term  for  Agni  and  as
 to  the  latter  in  Rig-veda  I,  97,  5 ;  127,  10;  III,  14,  2,  is  applied  the
 epithet  of  s  ah  as  vat,  it  may  be  inferred  that  Sahampati  and  the
@@ -2142,10 +1997,8 @@ Now  at  that  time  it  was  that  the  Lord  surrounded,
 attended,  honoured,  revered,  venerated,  worshipped
 by  the  four  classes  of  hearers,  after  expounding  the
 Dharmaparyaya 3  called  'the  Great  Exposition/  a
-text  of  great  development,  serving  to  instruct  Bodhi-
-sattvas  and  proper  to  all  Buddhas,  sat  cross-legged
-on  the  seat  of  the  law  and  entered  upon  the  medita-
-tion termed  'the  station  of  the  exposition  of  Infinity;'
+text  of  great  development,  serving  to  instruct  Bodhisattvas  and  proper  to  all  Buddhas,  sat  cross-legged
+on  the  seat  of  the  law  and  entered  upon  the  meditation termed  'the  station  of  the  exposition  of  Infinity;'
 his  body  was  motionless  and  his  mind  had  reached
 perfect  tranquillity.  And  as  soon  as  the  Lord  had
 entered  upon  his  meditation,  there  fell  a  great  rain  of
@@ -2166,8 +2019,7 @@ used  as  the  title  of  the  closing  chapter  of  the  whole  work.
 
 4  Mand^rava,  or  rather  Mandarava,  derived  from  mandaru=
 mandara,  Erythrina,  is  here  a  heavenly  flower,  or,  as  the  Indians
-say,  'a  cloud-flower,'  meghapushpa,  i.e.  raindrop  and  hail-
-stone. Maw^usha  is  a  name  of  the  Rubia  Manjista ;  the  word  is
+say,  'a  cloud-flower,'  meghapushpa,  i.e.  raindrop  and  hailstone. Maw^usha  is  a  name  of  the  Rubia  Manjista ;  the  word  is
 also  said  to  mean,  'a  stone;'  in  this  case  perhaps  a  hailstone  or
 dewdrop.
 
@@ -2180,19 +2032,16 @@ other,  tossed,  tossed  along.
 
 Then  did  those  who  were  assembled  and  sitting
 together  in  that  congregation,  monks,  nuns,  male  and
-female  lay  devotees,  gods,  Nagas,  goblins,  Gan-
-dharvas,  demons,  Garu</as,  Kinnaras,  great  serpents,
+female  lay  devotees,  gods,  Nagas,  goblins,  Gandharvas,  demons,  Garu</as,  Kinnaras,  great  serpents,
 men,  and  beings  not  human,  as  well  as  governors  of
-a  region,  rulers  of  armies  and  rulers  of  four  con-
-tinents, all  of  them  with  their  followers,  gaze  on  the
+a  region,  rulers  of  armies  and  rulers  of  four  continents, all  of  them  with  their  followers,  gaze  on  the
 Lord  in  astonishment,  in  amazement,  in  ecstasy.
 
 And  at  that  moment  there  issued  a  ray  from
 within  the  circle  of  hair  between  the  eyebrows  of
 the  Lord1.  It  extended  over  eighteen  hundred
 thousand  Buddha-fields  in  the  eastern  quarter,  so
-that  all  those  Buddha-fields  appeared  wholly  illu-
-minated by  its  radiance,  down  to  the  great  hell
+that  all  those  Buddha-fields  appeared  wholly  illuminated by  its  radiance,  down  to  the  great  hell
 Avi/£i  and  up  to  the  limit  of  existence.  And  the
 beings  in  any  of  the  six  states 2  of  existence  became
 visible,  all  without  exception.  Likewise  the  Lords
@@ -2201,8 +2050,7 @@ Buddha-fields  became  all  visible,  and  the  law
 preached  by  them  could  be  entirely  heard  by  all
 beings.  And  the  monks,  nuns,  lay  devotees  male
 and  female,  Yogins  and  students  of  Yoga,  those
-who  had  obtained  the  fruition  (of  the  Paths  of  sanc-
-tification)  and  those  who  had  not,  they,  too,  became
+who  had  obtained  the  fruition  (of  the  Paths  of  sanctification)  and  those  who  had  not,  they,  too,  became
 visible.  And  the  Bodhisattvas  Mahasattvas  in  those
 
 
@@ -2228,12 +2076,10 @@ became  visible,  all  of  them.  And  the  Stupas  made
 of  jewels  and  containing  the  relics  of  the  extinct
 Buddhas  became  all  visible  in  those  Buddha-fields1.
 
-Then  rose  in  the  mind  of  the  Bodhisattva  Maha-
-sattva  Maitreya  this  thought :  O  how  great  a  wonder
+Then  rose  in  the  mind  of  the  Bodhisattva  Mahasattva  Maitreya  this  thought :  O  how  great  a  wonder
 does  the  Tathagata  display!  What  may  be  the
 cause,  what  the  reason  of  the  Lord  producing  so
-great  a  wonder  as  this  ?  And  such  astonishing,  pro-
-digious, inconceivable,  powerful  miracles  now  appear,
+great  a  wonder  as  this  ?  And  such  astonishing,  prodigious, inconceivable,  powerful  miracles  now  appear,
 although  the  Lord  is  absorbed  in  meditation !  Why,
 let  me  inquire  about  this  matter;  who  would  be  able
 here  to  explain  it  to  me  ?  He  then  thought :  Here
@@ -2264,8 +2110,7 @@ I.  INTRODUCTORY.
 goblins,  Gandharvas,  demons,  Garudas,  Kinnaras,
 great  serpents,  men,  and  beings  not  human,  on  seeing
 the  magnificence  of  this  great  miracle  of  the  Lord,
-were  struck  with  astonishment,  amazement  and  curio-
-sity, and  thought :  Let  us  inquire  why  this  magnifi-
+were  struck  with  astonishment,  amazement  and  curiosity, and  thought :  Let  us  inquire  why  this  magnifi-
 cent miracle  has  been  produced  by  the  great  power
 of  the  Lord.
 
@@ -2276,8 +2121,7 @@ of  hearers  and  he  spoke  to  Mangusrl,  the  prince
 royal :  What,  O  Ma#£un*t,  is  the  cause,  what  is  the
 reason  of  this  wonderful,  prodigious,  miraculous
 shine  having  been  produced  by  the  Lord  ?  Look,  how
-these  eighteen  thousand  Buddha-fields  appear  varie-
-gated, extremely  beautiful,  directed  by  Tathagatas
+these  eighteen  thousand  Buddha-fields  appear  variegated, extremely  beautiful,  directed  by  Tathagatas
 and  superintended  by  Tathagatas.
 
 Then  it  was  that  Maitreya,  the  Bodhisattva
@@ -2292,14 +2136,12 @@ why  this  abundant  rain  of  Mandaravas  ?
 2.  The  gods,  overjoyed,  let  drop   Ma^ushakas
 and  sandal  powder,  divine,  fragrant,  and  delicious.
 
-3.  This  earth  is,  on  every  side,  replete  with  splen-
-dour, and  all  the  four  classes  of  the  assembly  are
+3.  This  earth  is,  on  every  side,  replete  with  splendour, and  all  the  four  classes  of  the  assembly  are
 filled  with  delight,  while  the  whole  field  shakes  in
 six  different  ways,  frightfully.
 
 4.  And  that  ray  in  the  eastern  quarter  illuminates
-the  whole  of  eighteen  thousand  Buddha-fields,  simul-
-taneously,   so    that    those    fields    appear   as   gold-
+the  whole  of  eighteen  thousand  Buddha-fields,  simultaneously,   so    that    those    fields    appear   as   gold-
 coloured.
 
 
@@ -2317,8 +2159,7 @@ a   happy,   unhappy,  low,   eminent,  or   intermediate
 position,  all  that  I  see  from  this  place.
 
 7.  I  see  also  the  Buddhas,  those  lions  of  kings,
-revealing  and  showing  the  essence  of  the  law,  com-
-forting2 many  ko/is  of  creatures  and  emitting  sweet-
+revealing  and  showing  the  essence  of  the  law,  comforting2 many  ko/is  of  creatures  and  emitting  sweet-
 sounding  voices.
 
 8.  They  let   go   forth,   each   in  his  own  field,  a
@@ -2326,8 +2167,7 @@ deep,  sublime,  wonderful  voice,  while   proclaiming
 the  Buddha-laws  by  means  of  myriads  of  ko/is  of
 illustrations  and  proofs.
 
-9.  And  to  the  ignorant  creatures  who   are   op-
-pressed with  toils  and  distressed  in  mind  by  birth
+9.  And  to  the  ignorant  creatures  who   are   oppressed with  toils  and  distressed  in  mind  by  birth
 and  old  age,  they  announce  the  bliss  of  Rest,  saying :
 This  is  the  end  of  trouble,  O  monks.
 
@@ -2345,8 +2185,7 @@ The  word  for  state,  gati,  also  means  '  the  position,  place/  e.  g.
 of  a  star.
 
 2  Prajvasamanan,  var.  lect.  prakasamanan;  Burnouf  must
-have  followed  the  latter  reading,  his  translation  having  'instrui-
-sent.'
+have  followed  the  latter  reading,  his  translation  having  'instruisent.'
 
 
 I.  INTRODUCTORY.  1 1
@@ -2361,8 +2200,7 @@ them.
 
 13.  I  see   in  many  fields  Bodhisattvas  by  many
 thousands  of  ko^is,  like  sands  of  the  Ganges,  who
-are  producing  enlightenment  according  to  the  dif-
-ferent degree  of  their  power.
+are  producing  enlightenment  according  to  the  different degree  of  their  power.
 
 14.  There  are  some  who  charitably  bestow  wealth,
 gold,  silver,  gold  money,  pearls,  jewels,  conch  shells,
@@ -2370,20 +2208,17 @@ stones1,  coral,  male  and  female  slaves,  horses,  and
 sheep ;
 
 15.  As  well  as  litters  adorned  with  jewels.     They
-are  spending  gifts  with  glad  hearts,  developing  them-
-selves for  superior  enlightenment,  in  the  hope  of
+are  spending  gifts  with  glad  hearts,  developing  themselves for  superior  enlightenment,  in  the  hope  of
 gaining  the  vehicle.
 
-1 6.  (Thus  they  think) :  'The  best  and  most  ex-
-cellent vehicle  in  the  whole  of  the  threefold  world
+1 6.  (Thus  they  think) :  'The  best  and  most  excellent vehicle  in  the  whole  of  the  threefold  world
 is   the   Buddha-vehicle   magnified   by  the  Sugatas.
 May  I,  forsooth,  soon  gain  it  after  my  spending  such
 gifts/
 
 1 7.  Some  give  carriages  yoked  with  four  horses
 and  furnished  with  benches,  flowers,  banners,  and
-flags;   others  give  objects   made  of  precious  sub-
-stances.
+flags;   others  give  objects   made  of  precious  substances.
 
 1 8.  Some,  again,  give  their  children  and  wives ;
 
@@ -2398,8 +2233,7 @@ Dvandva  or  a  Tatpurusha,  is  intended  to  convey.
 1 2  SADDHARMA-PUJVZ>AR!KA.  I.
 
 others  their  own  flesh;  (or)  offer,  when  bidden,
-their  hands  and  feet,  striving  to  gain  supreme  en-
-lightenment.
+their  hands  and  feet,  striving  to  gain  supreme  enlightenment.
 
 19.  Some   give   their   heads,    others    their   eyes,
 others   their   dear  own  body,  and  after   cheerfully
@@ -2421,12 +2255,10 @@ living  in  the  forest,  and  others  inhabiting  the  empty
 wilderness,  engaged  in  reciting  and  reading.
 
 23.  And  some  Bodhisattvas   I   see,  who,  full  of
-wisdom  (or  constancy),  betake  themselves  to  moun-
-tain caves,  where  by  cultivating  and  meditating  the
+wisdom  (or  constancy),  betake  themselves  to  mountain caves,  where  by  cultivating  and  meditating  the
 Buddha-knowledge  they  arrive  at  its  perception.
 
-24.  Others  who  have  renounced  all  sensual  de-
-sires, by  purifying  their  own  self,  have  cleared  their
+24.  Others  who  have  renounced  all  sensual  desires, by  purifying  their  own  self,  have  cleared  their
 sphere  and  obtained  the  five  transcendent  faculties,
 live  in  the  wilderness,  as  (true)  sons  of  the  Sugata.
 
@@ -2465,23 +2297,19 @@ emitting  radiance  from  their  body,  and  rouse  them
 to  enlightenment.
 
 31.  There  are  some  sons  of  the  G'ma.  who  dwell
-in    the    forest,    abiding    in    vigour,    completely   re-
-nouncing sloth,  and  actively  engaged  in  walking ;  it
+in    the    forest,    abiding    in    vigour,    completely   renouncing sloth,  and  actively  engaged  in  walking ;  it
 is  by  energy  that  they  are   striving   for  supreme
 enlightenment.
 
 32.  Others  complete  their  course  by  keeping  a
-constant  purity  and  an  unbroken  morality  like  pre-
-cious stones  and  jewels  ;  by  morality  do  these  strive
+constant  purity  and  an  unbroken  morality  like  precious stones  and  jewels  ;  by  morality  do  these  strive
 for  supreme  enlightenment.
 
-33.  Some  sons  of  the  (9ma,  whose  strength  con-
-sists in  forbearance,  patiently  endure  abuse,  censure,
+33.  Some  sons  of  the  (9ma,  whose  strength  consists in  forbearance,  patiently  endure  abuse,  censure,
 and  threats  from  proud  monks.     They  try  to  attain
 enlightenment  by  dint  of  forbearance.
 
-34.  Further,  I  see   Bodhisattvas,  who  have  for-
-saken all  wanton  pleasures,  shun  unwise  companions
+34.  Further,  I  see   Bodhisattvas,  who  have  forsaken all  wanton  pleasures,  shun  unwise  companions
 and  delight  in  having  intercourse  with  genteel  men
 (aryas);
 
@@ -2504,8 +2332,7 @@ assemblage  of  disciples  hundreds  of  ko/is  of  clothes,
 worth  thousands  of  ko/is,  and  garments  of  priceless
 value.
 
-38.  They  bestow  in  presence  of  the  Sugatas  hun-
-dreds of  ko/is  of  monasteries  which  they  have  caused
+38.  They  bestow  in  presence  of  the  Sugatas  hundreds of  ko/is  of  monasteries  which  they  have  caused
 to  be  built  of  precious  substances  and  sandal-wood,
 and   which  are   furnished  with  numerous  lodgings
 (or  couches).
@@ -2536,10 +2363,8 @@ I.  INTRODUCTORY.  1 5
 antinomy  (of  things),  unattached  like  birds  in  the
 sky.
 
-43.  Further,  I  see,  O  Ma^iighosha,  many  Bodhi-
-sattvas  who  have  displayed   steadiness   under  the
-rule  of  the  departed   Sugatas,  and   now  are  wor-
-shipping the  relics  of  the  Ginas.
+43.  Further,  I  see,  O  Ma^iighosha,  many  Bodhisattvas  who  have  displayed   steadiness   under  the
+rule  of  the  departed   Sugatas,  and   now  are  worshipping the  relics  of  the  Ginas.
 
 44.  I  see  thousands  of  ko/?is  of  Stupas,  numerous
 as  the  sand  of  the  Ganges,  which  have  been  raised
@@ -2551,8 +2376,7 @@ precious  substances,  with  their  thousands  of  ko/is  of
 umbrellas  and  banners,  measure  in  height  no  less
 than  5000  yo^anas  and  2000  in  circumference1.
 
-46.  They  are  always  decorated  with  flags ;  a  mul-
-titude of  bells  is  constantly  heard  sounding;  men,
+46.  They  are  always  decorated  with  flags ;  a  multitude of  bells  is  constantly  heard  sounding;  men,
 gods,  goblins,  and   Titans  pay  their  worship   with
 flowers,  perfumes,  and  music.
 
@@ -2561,8 +2385,7 @@ to  the  relics  of  the  6inas,  so  that  all  directions  of
 space  are  brightened  as  by  the  celestial  coral  trees
 in  full  blossom.
 
-48.  From  this  spot  I  behold  all  this;  those  nu-
-merous  ko/is   of  creatures ;   both   this   world   and
+48.  From  this  spot  I  behold  all  this;  those  numerous  ko/is   of  creatures ;   both   this   world   and
 heaven  covered  with  flowers,  owing  to  the  single
 ray  shot  forth  by  the  (Sana.
 
@@ -2579,8 +2402,7 @@ hyperbolic  phrases.
 
 1 6  SADDHARMA-PUJVDARiKA.  I.
 
-this  wonder,  so  great,  so  incomprehensible.  Ex-
-plain me  the  matter,  O  Ma^usvara!  the  sons  of
+this  wonder,  so  great,  so  incomprehensible.  Explain me  the  matter,  O  Ma^usvara!  the  sons  of
 Buddha  are  anxious  to  know  it.
 
 51.  The  four  classes  of  the  congregation  in  joyful
@@ -2609,8 +2431,7 @@ variegated,  splendid,  and  shining  with  gems,  while
 Buddhas  of  infinite  sight  are  appearing.
 
 56.  Maitreya  asks  the  son  of  G'ma.;  men,  gods,
-goblins,  and  Titans,  the  four  classes  of  the  congrega-
-tion, are  eagerly  awaiting  what  answer  Ma#£"usvara
+goblins,  and  Titans,  the  four  classes  of  the  congregation, are  eagerly  awaiting  what  answer  Ma#£"usvara
 shall  give  in  explanation.
 
 Whereupon  Ma%uyrt,  the  prince  royal,  addressed
@@ -2636,12 +2457,10 @@ Those  former  Tathagatas,  &c.,  they,  too,  emitted  a
 lustrous  ray,  and  I  am  convinced  that  the  Tathagata
 is  about  to  deliver  a  grand  discourse  for  the  teaching
 of  the  law  and  make  his  grand  speech  on  the  law
-everywhere  heard,  he  having  shown  such  a  fore-
-token. And  because  the  Tathagata,  &c.,  wishes
+everywhere  heard,  he  having  shown  such  a  foretoken. And  because  the  Tathagata,  &c.,  wishes
 that  this  Dharmaparyaya  meeting  opposition  in  all
 the  world2  be  heard  everywhere,  therefore  does  he
-display  so  great  a  miracle  and  this  fore-token  con-
-sisting in  the  lustre  occasioned  by  the  emission  of
+display  so  great  a  miracle  and  this  fore-token  consisting in  the  lustre  occasioned  by  the  emission  of
 a  ray.
 
 
@@ -2671,12 +2490,9 @@ alsoLalita-vistara,p.  513,  this  may  be  a  wrongly  Sanskritised  vippa^-
 
 I  remember,  young  men  of  good  family,  that  in
 the  days  of  yore,  many  immeasurable,  inconceivable,
-immense,  infinite,  countless  ALons,  more  than  count-
-less ^ons  ago,  nay,  long  and  very  long  before,
-there  was  born  a  Tathagata  called  -/Tandrasurya-
-pradlpa1,  an  Arhat,  &c.,  endowed  with  science  and
-conduct2,  a  Sugata,  knower  of  the  world,  an  incom-
-parable tamer  of  men,  a  teacher  (and  ruler)  of  gods
+immense,  infinite,  countless  ALons,  more  than  countless ^ons  ago,  nay,  long  and  very  long  before,
+there  was  born  a  Tathagata  called  -/Tandrasuryapradlpa1,  an  Arhat,  &c.,  endowed  with  science  and
+conduct2,  a  Sugata,  knower  of  the  world,  an  incomparable tamer  of  men,  a  teacher  (and  ruler)  of  gods
 and  men,  a  Buddha  and  Lord.  He  showed  the  law ;
 he  revealed  the  duteous  course  which  is  holy  at  its
 commencement,  holy  in  its  middle,  holy  at  the  end,
@@ -2684,12 +2500,10 @@ good  in  substance  and  form,  complete  and  perfect,
 correct  and  pure.  That  is  to  say,  to  the  disciples
 he  preached  the  law  containing  the  four  Noble
 Truths,  and  starting  from  the  chain  of  causes  and
-effects,  tending  to  overcome  birth,  decrepitude,  sick-
-ness, death,  sorrow,  lamentation,  woe,  grief,  despond-
+effects,  tending  to  overcome  birth,  decrepitude,  sickness, death,  sorrow,  lamentation,  woe,  grief,  despond-
 ency, and  finally  leading  to  Nirvana;  and  to  the
 Bodhisattvas  he  preached  the  law  connected  with
-the  six  Perfections3,  and  terminating  in  the  know-
-ledge of  the  Omniscient,  after  the  attainment  of
+the  six  Perfections3,  and  terminating  in  the  knowledge of  the  Omniscient,  after  the  attainment  of
 supreme,  perfect  enlightenment.
 
 [Now,  young  men  of  good  family,  long  before  the
@@ -2716,8 +2530,7 @@ I.
 INTRODUCTORY.
 
 
-&c.,  all  of  them  bearing  the  name  of  A'andrasurya-
-pradipa,  of  the  same  lineage  and  family  name,  to
+&c.,  all  of  them  bearing  the  name  of  A'andrasuryapradipa,  of  the  same  lineage  and  family  name,  to
 wit,  of  Bharadva^a1.  All  those  twenty  thousand
 Tathagatas,  O  A^ita,  from  the  first  to  the  last,
 showed  the  law,  revealed  the  course  which  is  holy
@@ -2727,8 +2540,7 @@ end,  &c.  &c.2]
 The  aforesaid  Lord  A'andrasuryapradfpa,  the
 Tathigata,  &c.,  when  a  young  prince  and  not  yet
 having  left  home  (to  embrace  the  ascetic  life),  had
-eight  sons,  viz.  the  young  princes  Sumati,  Ananta-
-mati,  Ratnamati,  Viseshamati,  Vimatisamudghdtin,
+eight  sons,  viz.  the  young  princes  Sumati,  Anantamati,  Ratnamati,  Viseshamati,  Vimatisamudghdtin,
 Ghoshamati,  and  Dharmamati.  These  eight  young
 princes,  A^ita,  sons  to  the  Lord  ^Tandrasuryapradipa,
 the  Tathagata,  had  an  immense  fortune3.  Each  of
@@ -2767,11 +2579,9 @@ of  the  law.  While  constantly  leading  a  holy  life,
 those  young  princes  planted  roots  of  goodness  under
 many  thousands  of  Buddhas.
 
-It  was  at  that  time,  A^ita,  that  the  Lord  A^andra-
-suryapradipa,  the  Tath&gata,  &c.,  after  expounding
+It  was  at  that  time,  A^ita,  that  the  Lord  A^andrasuryapradipa,  the  Tath&gata,  &c.,  after  expounding
 the  Dharmaparyaya  called  '  the  Great  Exposition,'
-a  text  of  great  extension,  serving  to  instruct  Bodhi-
-sattvas  and  proper  to  all  Buddhas,  at  the  same
+a  text  of  great  extension,  serving  to  instruct  Bodhisattvas  and  proper  to  all  Buddhas,  at  the  same
 moment  and  instant,  at  the  same  gathering  of  the
 classes  of  hearers,  sat  cross-legged  on  the  same  seat
 of  the  law,  and  entered  upon  the  meditation  termed
@@ -2804,16 +2614,14 @@ the  Lord.  It  extended  over  eighteen  hundred
 I.  INTRODUCTORY.  2 1
 
 thousand  Buddha-fields  in  the  eastern  quarter,  so
-that  all  those  Buddha-fields  appeared  wholly  illu-
-minated by  its  radiance,  just  like  the  Buddha-fields
+that  all  those  Buddha-fields  appeared  wholly  illuminated by  its  radiance,  just  like  the  Buddha-fields
 do  now,  O  A^ita.
 
 [At  that  juncture,  A^ita,  there  were  twenty  ko/is
 of  Bodhisattvas  following  the  Lord.  All  hearers
 of  the  law  in  that  assembly,  on  seeing  how  the
 world  was  illuminated  by  the  lustre  of  that  ray,
-felt  astonishment,  amazement,  ecstasy,  and  curio-
-sity l.]
+felt  astonishment,  amazement,  ecstasy,  and  curiosity l.]
 
 Now  it  happened,  A^ita,  that  under  the  rule  of
 the  aforesaid  Lord  there  was  a  Bodhisattva  called
@@ -2830,8 +2638,7 @@ single  creature  in  that  assembly  who  felt  fatigue
 of  body  or  mind.
 
 As  the  Lord  A'andrasuryapradlpa,  the  Tathagata,
-&c.,  during  sixty  intermediate  kalpas  had  been  ex-
-pounding the  Dharmaparyaya  called  '  the  Lotus  of
+&c.,  during  sixty  intermediate  kalpas  had  been  expounding the  Dharmaparyaya  called  '  the  Lotus  of
 the  True  Law,'  a  text  of  great  development,  serving
 to  instruct  Bodhisattvas  and  proper  to  all  Buddhas,
 he  instantly  announced  his  complete  Nirvana  to  the
@@ -2853,31 +2660,25 @@ the  Tathagata,  &c.,  predestinated  the  Bodhisattva
 called  K$rlgarbha  to  supreme,  perfect  enlightenment,
 and  then  spoke  thus  to  the  whole  assembly :
 O  monks,  this  Bodhisattva  -SVigarbha  here  shall
-immediately  after  me  attain  supreme,  perfect  en-
-lightenment, and  become  Vimalanetra,  the  Tatha-
+immediately  after  me  attain  supreme,  perfect  enlightenment, and  become  Vimalanetra,  the  Tatha-
 gata, &c.
 
 Thereafter,  A^ita,  that  very  night,  at  that  very
 watch,  the  Lord  A^andrasuryapradipa,  the  Tathagata,
-&c.,  became  extinct  by  entering  the  element  of  abso-
-lute Nirvana.  And  the  afore-mentioned  Dharmapar-
+&c.,  became  extinct  by  entering  the  element  of  absolute Nirvana.  And  the  afore-mentioned  Dharmapar-
 yaya,  termed  '  the  Lotus  of  the  True  Law,'  was  kept
-in  memory  by  the  Bodhisattva  Mahasattva  Vara-
-prabha;  during  eighty  intermediate  kalpas  did  the
-Bodhisattva  Varaprabha  keep  and  reveal  the  com-
-mandment of  the  Lord  who  had  entered  Nirvana.
+in  memory  by  the  Bodhisattva  Mahasattva  Varaprabha;  during  eighty  intermediate  kalpas  did  the
+Bodhisattva  Varaprabha  keep  and  reveal  the  commandment of  the  Lord  who  had  entered  Nirvana.
 Now  it  so  happened,  A^ita,  that  the  eight  sons  of
 the  Lord  A'andrasuryapradipa,  Mati  and  the  rest,
 were  pupils  to  that  very  Bodhisattva  Varaprabha.
 They  were  by  him  made  ripe  for  supreme,  perfect
-enlightenment,  and  in  after  times  they  saw  and  wor-
-shipped many  hundred  thousand  myriads  of  ko^is  of
+enlightenment,  and  in  after  times  they  saw  and  worshipped many  hundred  thousand  myriads  of  ko^is  of
 Buddhas,  all  of  whom  had  attained  supreme,  perfect
 enlightenment,  the  last  of  them  being  Dipahkara,
 the  Tathagata,  &c.
 
-Amongst  those  eight  pupils  there  was  one  Bodhi-
-sattva who  attached  an  extreme  value  to  gain,
+Amongst  those  eight  pupils  there  was  one  Bodhisattva who  attached  an  extreme  value  to  gain,
 honour  and  praise,  and  was  fond  of  glory,  but  all
 the  words  and  letters  one  taught  him  faded  (from
 his  memory),  did  not  stick.  So  he  got  the  appella-
@@ -2894,14 +2695,12 @@ perplexity  or  misgiving  that  in  those  days,  at  that
 time,  there  was  another  Bodhisvattva  Mahasattva
 Varaprabha,  preacher  of  the  law.  But  do  not  think
 so.  Why  ?  because  it  is  myself  who  in  those  days,
-at  that  time,  was  the  Bodhisattva  Mahasattva  Vara-
-prabha, preacher  of  the  law ;  and  that  Bodhisattva
+at  that  time,  was  the  Bodhisattva  Mahasattva  Varaprabha, preacher  of  the  law ;  and  that  Bodhisattva
 named  Ya.yaskama,  the  lazy  one,  it  is  thyself,  A^ita,
 who  in  those  days,  at  that  time,  wert  the  Bodhisattva
 named  Ya-saskama,  the  lazy  one.
 
-And  so,  Ajdta,  having  once  seen  a  similar  fore-
-token of  the  Lord,  I  infer  from  a  similar  ray  being
+And  so,  Ajdta,  having  once  seen  a  similar  foretoken of  the  Lord,  I  infer  from  a  similar  ray  being
 emitted  just  now,  that  the  Lord  is  about  to  expound
 the  Dharmaparyaya  called  '  the  Lotus  of  the  True
 Law.'
@@ -2917,8 +2716,7 @@ in  existence.
 
 58.  He  preached  the  true  law,  he,  the  leader  of
 creatures ;  he  educated  an  infinite  number  of  ko/is
-of  beings,  and  roused   inconceivably  many  Bodhi-
-sattvas  to  acquiring  supreme  Buddha-knowledge.
+of  beings,  and  roused   inconceivably  many  Bodhisattvas  to  acquiring  supreme  Buddha-knowledge.
 
 59.  And  the  eight  sons  born  to  him,  the  leader,
 when  he  was  prince  royal,  no  sooner  saw  that  the
@@ -2937,8 +2735,7 @@ the  Sutra,  the  development,  which  by  name  is  called
 '  the  excellent  Exposition  of  Infinity.'
 
 61.  Immediately  after  delivering  his  speech,  the
-leader  crossed  his  legs  and  entered  upon  the  medi-
-tation of  '  the  excellent  Exposition  of  the  Infinite.'
+leader  crossed  his  legs  and  entered  upon  the  meditation of  '  the  excellent  Exposition  of  the  Infinite.'
 There  on  his  seat   of  the   law  the   eminent   seer
 continued  absorbed  in  meditation.
 
@@ -2994,8 +2791,7 @@ alms,    who    have    the    strength    of    patience,    are
 devoted  to  contemplation  and  wise,  become  all  of
 them  visible  by  that  ray.
 
-71.  Immovable,  unshaken,  firm  in  patience,  de-
-voted to  contemplation,  and  absorbed  in  meditation
+71.  Immovable,  unshaken,  firm  in  patience,  devoted to  contemplation,  and  absorbed  in  meditation
 are  seen  the  true  sons  of  the  Sugatas  while  they
 are  striving  for  supreme  enlightenment  by  dint  of
 meditation.
@@ -3012,8 +2808,7 @@ seeing    the    power    of    the    mighty1    A^andrarka-
 I  assume  that  the  form  tapin,  given  in  the  dictionaries  as  an  epithet
 of  Buddha,  is  but  a  misread  tayin,  and  further  that  this  is  radically
 the  same  with  the  Pali  tadi  (tadin).  As  tayana,  Pa/zini  I,  3,  38,  is
-explained  to  have  the  meaning  of  thriving,  prospering,  it  may  be  sup-
-posed that  tayin  on  the  strength  of  its  derivation  denotes  thriving,
+explained  to  have  the  meaning  of  thriving,  prospering,  it  may  be  supposed that  tayin  on  the  strength  of  its  derivation  denotes  thriving,
 prosperous,  mighty,  holy,  as  well  as  making  prosperous,  blessing,
 sanctifying.  Burnouf  derives  it  from  a  supposed  Sanskrit  tray  in,
 and  translates  it  by  'protector.'  It  is,  indeed,  by  no  means  unlikely
@@ -3026,8 +2821,7 @@ How  is  this  ?
 
 74.  And  soon  afterwards,  as  the  Leader  of  the
 world,  worshipped  by  men,  gods,  and  goblins,  rose
-from  his   meditation,  he   addressed   his   son  Vara-
-prabha,  the  wise  Bodhisattva  and  preacher  of  the
+from  his   meditation,  he   addressed   his   son  Varaprabha,  the  wise  Bodhisattva  and  preacher  of  the
 law :
 
 75.  '  Thou  art  wise,  the  eye  and  refuge  of  the
@@ -3036,20 +2830,16 @@ and  canst  bear  witness  as  to  the  treasure  of  laws
 which  I  am  to  lay  bare  to  the  weal  of  living  beings.'
 
 76.  Then,  after  rousing  and  stimulating,  praising
-and  lauding  many  Bodhisattvas,  did  the  (7ina  pro-
-claim the   supreme   laws   during   fully  sixty  inter-
+and  lauding  many  Bodhisattvas,  did  the  (7ina  proclaim the   supreme   laws   during   fully  sixty  inter-
 mediate kalpas.
 
 77.  And   whatever   excellent   supreme   law   was
-proclaimed  by  the  Lord  of  the  world  while  conti-
-nuing sitting  on  the  very  same  seat,  was  kept  in
+proclaimed  by  the  Lord  of  the  world  while  continuing sitting  on  the  very  same  seat,  was  kept  in
 memory  by  Varaprabha,  the  son  of  Gina,  the  preacher
 of  the  law.
 
-78.  And  after  the   G'ma  and  Leader  had  mani-
-fested the  supreme  law  and  stimulated  the  numerous
-crowd,  he  spoke,  that  day,  towards  the  world  includ-
-ing the  gods  (as  follows) :
+78.  And  after  the   G'ma  and  Leader  had  manifested the  supreme  law  and  stimulated  the  numerous
+crowd,  he  spoke,  that  day,  towards  the  world  including the  gods  (as  follows) :
 
 79.  '  I  have  manifested  the  rule  of  the  law ;    I
 have  shown  the  nature  of  the  law ;  now,  O  monks,
@@ -3081,8 +2871,7 @@ living   beings    the   king   of    kings    said :     '  Be    not
 afraid,  O  monks ;   after  my  Nirvana  there  shall  be
 another  Buddha.
 
-83.  '  The  wise  Bodhisattva  .Srigarbha,  after  finish-
-ing his  course  in  faultless  knowledge,  shall  reach
+83.  '  The  wise  Bodhisattva  .Srigarbha,  after  finishing his  course  in  faultless  knowledge,  shall  reach
 highest,  supreme  enlightenment,  and  become  a  Gina
 under  the  name  of  Vimalagranetra.'
 
@@ -3093,8 +2882,7 @@ distributed,  and  of  his  Stupas  there  was  an  infinite
 number  of  myriads  of  ko/is.
 
 85.  The  monks  and  nuns  at  the  time  being,  who
-strove  after  supreme,  highest  enlightenment,  nume-
-rous as  sand  of  the  Ganges,  applied  themselves  to
+strove  after  supreme,  highest  enlightenment,  numerous as  sand  of  the  Ganges,  applied  themselves  to
 the  commandment  of  the  Sugata.
 
 86.  And  the  monk  who  then  was  the  preacher  of
@@ -3114,14 +2902,12 @@ Buddhas  in  several  spheres,  and  as  they  followed
 
 28  SADDHARMA-PIWDARIKA.  I.
 
-one  another  in  immediate  succession  they  suc-
-cessively foretold  each  other's  future  destiny  to
+one  another  in  immediate  succession  they  successively foretold  each  other's  future  destiny  to
 Buddhaship.
 
 89.  The   last   of   these    Buddhas   following    one
 another  was  Dipankara.     He,  the  supreme  god  of
-gods,  honoured  by  crowds  of  sages,  educated  thou-
-sands of  ko/is  of  living  beings.
+gods,  honoured  by  crowds  of  sages,  educated  thousands of  ko/is  of  living  beings.
 
 90.  Among  the  pupils  of  Varaprabha,  the  son  of
 Gina,  at  the  time  of  his  teaching  the  law,  was  one
@@ -3141,20 +2927,17 @@ whom  he  rendered  ample  honour.    He  went  through
 the  regular  course  of  duties  and  saw  the  present
 Buddha  6akyasiwha.
 
-94.  He  shall  be  the  last  to   reach  superior  en-
-lightenment and  become  a  Lord  known  by  the  family
+94.  He  shall  be  the  last  to   reach  superior  enlightenment and  become  a  Lord  known  by  the  family
 name  of  Maitreya,  who  shall  educate  thousands  of
 ko/is  of  creatures.
 
 
-1  The  MSS.  havetenakusalenakarmawa,  tenoku.ralena  kar-
-ma«a.  As  teno  and  tena  in  the  stanzas  are  occasionally  used  instead
+1  The  MSS.  havetenakusalenakarmawa,  tenoku.ralena  karma«a.  As  teno  and  tena  in  the  stanzas  are  occasionally  used  instead
 of  tena,  it  is  uncertain  whether  tenak.  is  to  be  separated  into  tena
 and  aku-rala.  This  much  is  clear,  that  the  author  of  the  foregoing
 prose  text  has  taken  the  words  as  tena  (Vedic  the  same)  or  teno,  and
 ku ^ala.  The  good  in  Yasaskama  was  his  love  of  renown,  of  good
-fame.  Maitreya,  by  his  very  nature,  holds  a  middle  position  be-
-tween black  night  and  bright  daylight;  Mithra  also  is  represented
+fame.  Maitreya,  by  his  very  nature,  holds  a  middle  position  between black  night  and  bright  daylight;  Mithra  also  is  represented
 
 as  a
 
@@ -3165,19 +2948,14 @@ T.
 INTRODUCTORY.
 
 
-29
-
-
 95.  He  who  then,  under  the  rule  of  the  extinct
 Sugata,  was  so  slothful,  was  thyself,  and  it  was  I
 who  then  was  the  preacher  of  the  law.
 
-96.  As  on  seeing  a  foretoken  of  this  kind  I  re-
-cognise a  sign  such  as  I  have  seen  manifested  of
+96.  As  on  seeing  a  foretoken  of  this  kind  I  recognise a  sign  such  as  I  have  seen  manifested  of
 yore,  therefore  and  on  that  account  I  know,
 
-97.  That  decidedly  the  chief  of  ^rinas,  the  su-
-preme  king   of   the   vSakyas,    the   All-seeing,    who
+97.  That  decidedly  the  chief  of  ^rinas,  the  supreme  king   of   the   vSakyas,    the   All-seeing,    who
 knows  the  highest  truth,  is  about  to  pronounce  the
 excellent  Sutra  which  I  have  heard  before.
 
@@ -3205,18 +2983,14 @@ CHAPTER   II.
 
 SKILFULNESS l.
 
-The  Lord  then  rose  with  recollection  and  con-
-sciousness from  his  meditation,  and  forthwith
+The  Lord  then  rose  with  recollection  and  consciousness from  his  meditation,  and  forthwith
 addressed  the  venerable  .Sariputra :  The  Buddha
-knowledge,  Sariputra,  is  profound,  difficult  to  under-
-stand, difficult  to  comprehend.  It  is  difficult  for  all
-disciples  and  Pratyekabuddhas  to  fathom  the  know-
-ledge arrived  at  by  the  Tathagatas,  &c.,  and  that,
+knowledge,  Sariputra,  is  profound,  difficult  to  understand, difficult  to  comprehend.  It  is  difficult  for  all
+disciples  and  Pratyekabuddhas  to  fathom  the  knowledge arrived  at  by  the  Tathagatas,  &c.,  and  that,
 .Sariputra,  because  the  Tathagatas  have  worshipped
 many  hundred  thousand  myriads  of  ko/is  of  Buddhas  ;
 because  they  have  fulfilled  their  course  for  supreme,
-complete  enlightenment,  during  many  hundred  thou-
-sand myriads  of  ko^is  of  ./Eons  ;  because  they  have
+complete  enlightenment,  during  many  hundred  thousand myriads  of  ko^is  of  ./Eons  ;  because  they  have
 wandered  far,  displaying  energy  and  possessed  of
 wonderful  and  marvellous  properties ;  possessed  of
 properties  difficult  to  understand ;  because  they  have
@@ -3231,8 +3005,7 @@ means  an  expedient,  but  with  the  Pra^wikas  it  denotes  the  energy
 of  Pra^wa,  the  latter  being  Nature,  otherwise  called  Maya;  see  B.
 H.  Hodgson,  Essays  on  the  Languages,  Literature,  and  Religion  of
 Nepal  and  Tibet,  p.  104;  cf.  pp.  72,  78,  89.     From  the  atheistic
-point  of  view  the  possessor  of  upayakau-yalya  can  hardly  be  any-
-thing else  but  all-ruling  Time ;  regarded  from  the  theistic  view  he
+point  of  view  the  possessor  of  upayakau-yalya  can  hardly  be  anything else  but  all-ruling  Time ;  regarded  from  the  theistic  view  he
 must  be  the  Almighty  Spirit.
 
 2  Sandha-bhSshya;  on  this  term  more  in  the  sequel.
@@ -3240,32 +3013,26 @@ must  be  the  Almighty  Spirit.
 
 II.  SKILFULNESS.  31
 
-causes  in  themselves  they  do  so  by  means  of  skilful-
-ness,  by  the  display  of  knowledge,  by  arguments,
-reasons,  fundamental  ideas,  interpretations,  and  sug-
-gestions. By  a  variety  of  skilfulness  they  are  able
+causes  in  themselves  they  do  so  by  means  of  skilfulness,  by  the  display  of  knowledge,  by  arguments,
+reasons,  fundamental  ideas,  interpretations,  and  suggestions. By  a  variety  of  skilfulness  they  are  able
 to  release  creatures  that  are  attached  to  one  point
 or  another.  The  Tathagatas,  &c.,  .Sariputra,  have
 acquired  the  highest  perfection  in  skilfulness  and
 the  display  of  knowledge ;  they  are  endowed  with
 wonderful  properties,  such  as  the  display  of  free
-and  unchecked  knowledge;  the  powers1;  the  ab-
-sence of  hesitation  ;  the  independent  conditions 2 ;
+and  unchecked  knowledge;  the  powers1;  the  absence of  hesitation  ;  the  independent  conditions 2 ;
 the  strength  of  the  organs ;  the  constituents  of
-Bodhi3;  the  contemplations ;  emancipations4;  medi-
-tations ;  the  degrees  of  concentration  of  mind.  The
+Bodhi3;  the  contemplations ;  emancipations4;  meditations ;  the  degrees  of  concentration  of  mind.  The
 Tathagatas,  &c.,  6ariputra,  are  able  to  expound
 various  things  and  have  something  wonderful  and
 marvellous.  Enough,  .5ariputra,  let  it  suffice  to  say,
 that  the  Tathagatas,  &c.,  have  something  extreme'ly
 
-1  Here  will  be  meant  the  ten  powers,  whence  the  epithet  of  Da^a-
-bala  applied  to  a  Buddha;    they  are  enumerated  in  S.  Hardy's
+1  Here  will  be  meant  the  ten  powers,  whence  the  epithet  of  Da^abala  applied  to  a  Buddha;    they  are  enumerated  in  S.  Hardy's
 Manual,  p.  379.     Other  enumerations   count  four,  five,  or  seven
 powers.
 
-2  Or  rather,  the  uncommon,  not  vulgar  properties  which  distin-
-guish the  saints  from  the  vulgar;  these  avewikadharmas,  also
+2  Or  rather,  the  uncommon,  not  vulgar  properties  which  distinguish the  saints  from  the  vulgar;  these  avewikadharmas,  also
 called  buddhadharmas,  are   eighteen   in   number;    S.  Hardy's
 Manual,  p.  381.
 
@@ -3276,29 +3043,25 @@ joyfulness,  calm,  contemplation,  and  equanimity.
 the  Lotus,  p.  824  sqq.     According  to  the  view  there  expressed  the
 eight  Vimokshas  are  as  many  states  of  intellect  which  the  thinking
 sage  is  going  through  in  his  effort  to  emancipate  himself  from  the
-versatile  world;  cf.  Lotus,  p.  543.     There  is  also  a  threefold  Vi-
-moksha, mentioned  by  Childers,  Pali  Diet.,  p.  270;  it  may  be  com-
+versatile  world;  cf.  Lotus,  p.  543.     There  is  also  a  threefold  Vimoksha, mentioned  by  Childers,  Pali  Diet.,  p.  270;  it  may  be  com-
 pared with  the  threefold  /fcitta-vimukti  in  the  Yoga  system ;  see
 Comm.  on  Yoga^astra,  2,  27.
 
 
 32  SADDHARMA-PUJVDARiKA.  II.
 
-wonderful,  ^ariputra.  None  but  a  Tathagata,  .Sari-
-putra,  can  impart  to  a  Tathagata  those  laws  which
+wonderful,  ^ariputra.  None  but  a  Tathagata,  .Sariputra,  can  impart  to  a  Tathagata  those  laws  which
 the  Tathagata  knows.  And  all  laws,  6ariputra,  are
 taught  by  the  Tathagata,  and  by  him  alone ;  no  one
 but  he  knows  all  laws,  what  they  are,  how  they  are,
 like  what  they  are,  of  what  characteristics  and  of
 what  nature  they  are.
 
-And  on  that  occasion,  to  set  forth  the  same  sub-
-ject more  copiously,  the  Lord  uttered  the  following
+And  on  that  occasion,  to  set  forth  the  same  subject more  copiously,  the  Lord  uttered  the  following
 stanzas  :
 
 1.  Innumerable  are  the  great  heroes  in  the  world
-that  embraces  gods  and  men ;  the  totality  of  crea-
-tures is  unable  to  completely  know  the  leaders.
+that  embraces  gods  and  men ;  the  totality  of  creatures is  unable  to  completely  know  the  leaders.
 
 2.  None  can  know  their  powers   and   states   of
 emancipation,  their  absence  of  hesitation  and  Buddha
@@ -3308,8 +3071,7 @@ properties,  such  as  they  are.
 Buddhas  the  good  course  which  is  profound,  subtle,
 difficult  to  understand,  and  most  difficult  to  find.
 
-4.  After  pursuing  that  career  during  an  incon-
-ceivable   number   of  kotis    of  yEons,    I    have    on
+4.  After  pursuing  that  career  during  an  inconceivable   number   of  kotis    of  yEons,    I    have    on
 the  terrace  of  enlightenment  discovered   the   fruit
 thereof.
 
@@ -3336,18 +3098,15 @@ have  arrived  at  the  last  stage  of  bodily  existence,
 the  (^ma-knowledge  lies  beyond  their  sphere.
 
 9.  If  this  whole  sphere  were  full  of  beings  like
-6arisuta,  and  if  they  were  to  investigate  with  com-
-bined efforts,  they  would  be  unable  to  comprehend
+6arisuta,  and  if  they  were  to  investigate  with  combined efforts,  they  would  be  unable  to  comprehend
 the  knowledge  of  the  Sugata.
 
 10.  Even  if  the  ten  points  of  space  were  full  of
 sages  like  thee,  ay,  if  they  were  full  of  such  as  the
 rest  of  my  disciples,
 
-11.  And   if  those  beings  combined  were  to  in-
-vestigate the  knowledge  of  the  Sugata,  they  would,
-all  together,  not  be  able  to  comprehend  the  Buddha-
-knowledge  in  its  whole  immensity.
+11.  And   if  those  beings  combined  were  to  investigate the  knowledge  of  the  Sugata,  they  would,
+all  together,  not  be  able  to  comprehend  the  Buddhaknowledge  in  its  whole  immensity.
 
 12.  If  the  ten  points  of  space  were  filled  with
 Pratyekabuddhas,  free  from  faults,  gifted  with  acute
@@ -3360,8 +3119,7 @@ myriads  of  ko/is  of  ./Eons,  they  were  to  investigate
 a  part  only  of  my  superior  laws,  they  would  never
 find  out  its  real  meaning.
 
-14.  If  the  ten  points  of  space  were  full  of  Bodhi-
-sattvas  who,  after  having   done  their   duty   under
+14.  If  the  ten  points  of  space  were  full  of  Bodhisattvas  who,  after  having   done  their   duty   under
 many  ko/is  of  Buddhas,  investigated  all  things  and
 preached    many    sermons,    after    entering    a    new
 vehicle l ;
@@ -3373,9 +3131,6 @@ the  Sugata  has  realised ;
 
 1  Or  rather,  a  new  career.
 [21]  D
-
-
-34
 
 
 SADDHARMA-PlWDARiKA.  II.
@@ -3403,8 +3158,7 @@ the  great  Seer  who  has  so  long  preached  the  highest
 truth.
 
 20.  I  address  all  disciples  here,  those  who  have
-set  out  to  reach    the  enlightenment   of  Pratyeka-
-buddhas,  those  who   are  roused  to  activity  at  my
+set  out  to  reach    the  enlightenment   of  Pratyekabuddhas,  those  who   are  roused  to  activity  at  my
 Nirvana1,  and  those  who  have  been  released  from
 the  series  of  evils.
 
@@ -3414,8 +3168,7 @@ deliver   whosoever   are   attached   to  one   point    or
 another,  and  show  the  three  vehicles2.
 
 The  eminent  disciples  in  the  assembly  headed  by
-A^wata-Kauw^inya,  the  twelve  hundred  Arhats  fault-
-less and  self-controlled,  the  other  monks,  nuns,  male
+A^wata-Kauw^inya,  the  twelve  hundred  Arhats  faultless and  self-controlled,  the  other  monks,  nuns,  male
 and  female  lay  devotees  using  the  vehicle  of  disciples,
 and  those  who  had  entered  the  vehicle  of  Pratyeka-
 
@@ -3429,14 +3182,11 @@ II.  SKILFULNESS.  35
 
 buddhas,  all  of  them  made  this  reflection :  What
 may  be  the  cause,  what  the  reason  of  the  Lord  so
-extremely  extolling  the  skilfulness  of  the  Tathd-
-gatas  ?  of  his  extolling  it  by  saying,  '  Profound  is
+extremely  extolling  the  skilfulness  of  the  Tathdgatas  ?  of  his  extolling  it  by  saying,  '  Profound  is
 the  law  by  me  discovered ; '  of  his  extolling  it  by
-saying,  '  It  is  difficult  for  all  disciples  and  Pratyeka-
-buddhas  to  understand  it/  But  as  yet  the  Lord  has
+saying,  '  It  is  difficult  for  all  disciples  and  Pratyekabuddhas  to  understand  it/  But  as  yet  the  Lord  has
 declared  no  more  than  one  kind  of  emancipation,
-and  therefore  we  also  should  acquire  the  Buddha-
-laws  on  reaching  Nirvana.  We  do  not  catch  the
+and  therefore  we  also  should  acquire  the  Buddhalaws  on  reaching  Nirvana.  We  do  not  catch  the
 meaning  of  this  utterance  of  the  Lord.
 
 And  the  venerable  -Sariputra,  who  apprehended
@@ -3453,8 +3203,7 @@ mystery  of  the  Tathdgatas/  Never  before  have  I
 heard  from  the  Lord  such  a  discourse  on  the  law.
 These  four  classes  of  the  audience,  O  Lord,  are
 overcome  with  doubt  and  perplexity.  Therefore
-may  the  Lord  be  pleased  to  explain  what  the  Tatha-
-gata is  alluding  to,  when  repeatedly  extolling  the
+may  the  Lord  be  pleased  to  explain  what  the  Tathagata is  alluding  to,  when  repeatedly  extolling  the
 profound  law  of  the  Tathdgatas.
 
 On  that  occasion  the  venerable  .Sdriputra  uttered
@@ -3475,8 +3224,7 @@ ment  without  any  one  asking  thee  ;  thou  mentionest
 the  mystery,  although  no  one  asks  thee.
 
 24.  Thou  speakest  unasked  and  laudest  thine  own
-course ;  thou  mentionest  thy  having  obtained  know-
-ledge and  pronouncest  profound  words.
+course ;  thou  mentionest  thy  having  obtained  knowledge and  pronouncest  profound  words.
 
 25.  To-day  a  question  rises  in  my  mind  and  of
 these  self-controlled,  faultless  beings  striving  after
@@ -3487,8 +3235,7 @@ Pratyekabuddhas,  the  nuns  and  monks,  gods,  Nagas,
 goblins,  Gandharvas,  and  great  serpents,  are  talking
 together,  while  looking  up  to  the  highest  of  men,
 
-27.  And  ponder  in  perplexity.     Give  an  elucida-
-tion, great  Sage,  to  all  the  disciples  of  Sugata  here
+27.  And  ponder  in  perplexity.     Give  an  elucidation, great  Sage,  to  all  the  disciples  of  Sugata  here
 assembled.
 
 28.  Myself  have  reached  the  perfection  (of  virtue),
@@ -3504,8 +3251,7 @@ standing  and  gazing  at  the  ^ina,  with  joined  hands  ;
 
 30.  As  well  as  the  gods,  Nagas,  goblins,  Titans,
 numbering   thousands   of  ko/is,  like    sand    of  the
-Ganges ;    and    those    that   aspire   to   superior    en-
-lightenment,  here   standing,  fully  eighty  thousand
+Ganges ;    and    those    that   aspire   to   superior    enlightenment,  here   standing,  fully  eighty  thousand
 in  number ;
 
 31.  Further,  the  kings,  rulers   of  provinces  and
@@ -3538,18 +3284,15 @@ this  stanza :
 32.  Speak  clearly,  O  most  eminent  of  G'mas  I  in
 this  assembly  there  are  thousands  of  living  beings
 trustful,    affectionate,    and   respectful    towards    the
-Sugata ;  they  will  understand  the  law  by  thee  ex-
-pounded.
+Sugata ;  they  will  understand  the  law  by  thee  expounded.
 
 And  the  Lord  said  a  second  time  to  the  venerable
-.Sariputra :  Enough,  .Sariputra ;  it  is  of  no  use  ex-
-plaining this  matter,  for  the  world,  including  the
+.Sariputra :  Enough,  .Sariputra ;  it  is  of  no  use  explaining this  matter,  for  the  world,  including  the
 gods,  would  be  frightened,  .Sariputra,  if  this  matter
 were  expounded,  and  some  monks  might  be  proud
 and  come  to  a  heavy  fall1.
 
-And  on  that  occasion  uttered  the  Lord  the  follow-
-ing stanza :
+And  on  that  occasion  uttered  the  Lord  the  following stanza :
 
 33.  Speak  no  more  of  it  that  I  should  declare  this
 law !    This  knowledge  is  too  subtle,  inscrutable,  and
@@ -3568,8 +3311,7 @@ Lord,  there  are  many  hundreds  of  living  beings  my
 equals,  and  many  hundreds,  many  thousands,  many
 hundred  thousands,  many  hundred  thousand  myriads
 of  ko/is  of  other  living  beings  more,  who  in  former
-births  have  been  brought  by  the  Lord  to  full  ripe-
-ness. They  will  believe,  value,  and  accept  what  the
+births  have  been  brought  by  the  Lord  to  full  ripeness. They  will  believe,  value,  and  accept  what  the
 Lord  declares,  which  shall  tend  to  their  advantage,
 weal,  and  happiness  in  length  of  time.
 
@@ -3577,8 +3319,7 @@ On  that  occasion  the  venerable  .^ariputra  uttered
 the  following  stanzas :
 
 34.  Explain  the  law,  O  thou  most  high  of  men !
-I,  thine  eldest  son,  beseech  thee.     Here  are  thou-
-sands of  ko^is  of  beings  who  are  to  believe  in  the
+I,  thine  eldest  son,  beseech  thee.     Here  are  thousands of  ko^is  of  beings  who  are  to  believe  in  the
 law  by  thee  revealed.
 
 35.  And  those  beings  that  in  former  births  so
@@ -3599,8 +3340,7 @@ then,  Sariputra,  take  well  and  duly  to  heart  what
 I  am  saying ;  I  am  going  to  speak.
 
 Now  it  happened  that  five  thousand  proud  monks,
-nuns,  and  lay  devotees  of  both  sexes  in  the  congre-
-gation rose  from  their  seats  and,  after  saluting  with
+nuns,  and  lay  devotees  of  both  sexes  in  the  congregation rose  from  their  seats  and,  after  saluting  with
 
 
 IT.
@@ -3609,11 +3349,7 @@ IT.
 SKILFULNESS.
 
 
-39
-
-
-their  heads  the  Lord's  feet,  went  to  leave  the  assem-
-bly. Owing  to  the  principle  of  good  which  there  is
+their  heads  the  Lord's  feet,  went  to  leave  the  assembly. Owing  to  the  principle  of  good  which  there  is
 in  pride  they  imagined  having  attained  what  they
 had  not,  and  having  understood  what  they  had  not.
 Therefore,  thinking  themselves  aggrieved,  they  went
@@ -3629,8 +3365,7 @@ Now  I  am  going  to  expound  the  matter,  .Sariputra.
 '  Very  well,  Lord,'  replied  the  venerable  .Sariputra.
 The  Lord  then  began  and  said  :
 
-It  is  but  now  and  then,  .Sariputra,  that  the  Tatha-
-gata  preaches  such  a  discourse  on  the  law  as  this.
+It  is  but  now  and  then,  .Sariputra,  that  the  Tathagata  preaches  such  a  discourse  on  the  law  as  this.
 Just  as  but  now  and  then  is  seen  the  blossom  of  the
 glomerous  fig-tree,  .Sariputra,  so  does  the  Tathagata
 but  now  and  then  preach  such  a  discourse  on  the
@@ -3639,15 +3374,12 @@ I  speak  what  is  truthful,  I  speak  what  is  right.  It  is
 difficult  to  understand  the  exposition  of  the  mystery
 of  the  Tathagata,  .Sariputra ;  for  in  elucidating  the
 law,  .Sariputra,  I  use  hundred  thousands  of  various
-skilful  means,  such  as  different  interpretations,  indi-
-cations, explanations,  illustrations.  It  is  not  by
+skilful  means,  such  as  different  interpretations,  indications, explanations,  illustrations.  It  is  not  by
 reasoning,  .Sariputra,  that  the  law  is  to  be  found :
 it  is  beyond  the  pale  of  reasoning,  and  must  be
 
-1  One  of  the  MSS.  has  nishpralava,  which  ought  to  be  nish-
-palSva;  another  has  nishpudgala'va.  Both  imaginary -words
-are  no  doubt  the  result  of  an  unhappy  attempt  to  Sanskritise  a  Pra-
-krit nippalava  by  scribes  unacquainted  with  the  Sanskrit  palava
+1  One  of  the  MSS.  has  nishpralava,  which  ought  to  be  nishpalSva;  another  has  nishpudgala'va.  Both  imaginary -words
+are  no  doubt  the  result  of  an  unhappy  attempt  to  Sanskritise  a  Prakrit nippalava  by  scribes  unacquainted  with  the  Sanskrit  palava
 (Pali  palapa).  The  right  form  occurs  below,  stanza  40.
 
 
@@ -3659,19 +3391,16 @@ a  lofty  aim  that  the  Buddha,  the  Tathagata,  &c.,
 appears  in  the  world.  And  what  is  that  sole  object,
 that  sole  aim,  that  lofty  object,  that  lofty  aim  of  the
 Buddha,  the  Tathdgata,  &c.,  appearing  in  the  world  ?
-To  show  all  creatures  the  sight  of  Tathdgata-know-
-ledge1  does  the  Buddha,  the  Tathagata,  &c.,  appear
+To  show  all  creatures  the  sight  of  Tathdgata-knowledge1  does  the  Buddha,  the  Tathagata,  &c.,  appear
 in  the  world ;  to  open  the  eyes  of  creatures  for  the
 sight  of  Tathagata-knowledge  does  the  Buddha,  the
-Tathagata,  &c.,  appear  in  the  world.  This,  O  .Sari-
-putra, is  the  sole  object,  the  sole  aim,  the  sole  pur-
+Tathagata,  &c.,  appear  in  the  world.  This,  O  .Sariputra, is  the  sole  object,  the  sole  aim,  the  sole  pur-
 pose of  his  appearance  in  the  world.  Such  then,
 .Sariputra,  is  the  sole  object,  the  sole  aim,  the  lofty
 object,  the  lofty  aim  of  the  Tathagata.  And  it  is
 achieved  by  the  Tathagata.  For,  .Sariputra,  I  do  show
 all  creatures  the  sight  of  Tathagata-knowledge;  I
-do  open  the  eyes  of  creatures  for  the  sight  of  Tatha-
-gata-knowledge, .Sariputra ;  I  do  firmly  establish  the
+do  open  the  eyes  of  creatures  for  the  sight  of  Tathagata-knowledge, .Sariputra ;  I  do  firmly  establish  the
 teaching  of  Tathagata-knowledge,  .Sariputra;  I  do
 lead  the  teaching  of  Tathagata-knowledge  on  the
 right  path,  .Sariputra.  By  means  of  one  sole  vehicle2,
@@ -3693,19 +3422,16 @@ weal,  and  happiness  of  the  great  body  of  creatures,
 II.  SKILFULNESS.  4!
 
 and  who  preached  the  law  to  gods  and  men  with
-able  means,  such  as  several  directions  and  indica-
-tions, various  arguments,  reasons,  illustrations,  fun-
+able  means,  such  as  several  directions  and  indications, various  arguments,  reasons,  illustrations,  fun-
 damental ideas,  interpretations,  paying  regard  to  the
 dispositions  of  creatures  whose  inclinations  and
 temperaments  are  so  manifold,  all  those  Buddhas
 and  Lords,  .Sariputra,  have  preached  the  law  to
-creatures  by  means  of  only  one  vehicle,  the  Buddha-
-vehicle,  which  finally  leads  to  omniscience;  it  is
+creatures  by  means  of  only  one  vehicle,  the  Buddhavehicle,  which  finally  leads  to  omniscience;  it  is
 identical  with  showing  all  creatures  the  sight  of
 Tathagata-knowledge ;  with  opening  the  eyes  of
 creatures  for  the  sight  of  Tathagata-knowledge ;
-with  the  awakening  (or  admonishing)  by  the  dis-
-play (or  sight)  of  Tathagata-knowledge1;  with
+with  the  awakening  (or  admonishing)  by  the  display (or  sight)  of  Tathagata-knowledge1;  with
 leading  the  teaching  of  Tathagata-knowledge  on  the
 right  path.  Such  is  the  law  they  have  preached  to
 creatures.  And  those  creatures,  .5ariputra,  who  have
@@ -3714,8 +3440,7 @@ all  of  them  reached  supreme,  perfect  enlightenment.
 
 And  the  Tathagatas,  &c.,  who  shall  exist  in
 future,  .Sariputra,  in  countless,  innumerable  spheres
-in  all  directions  for  the  weal  of  many,  the  happi-
-ness of  many,  out  of  pity  to  the  world,  for  the
+in  all  directions  for  the  weal  of  many,  the  happiness of  many,  out  of  pity  to  the  world,  for  the
 benefit,  weal,  and  happiness  of  the  great  body  of
 creatures,  and  who  shall  preach  the  law  to  gods  and
 men  (&c.,  as  above  till)  the  right  path.  Such  is  the
@@ -3733,21 +3458,17 @@ other  °darjana°  instead  of  °dejana°.
 
 42  SADDHARMA-PU-tf-DARtKA.  II.
 
-staying,  living,  existing,  .Sariputra,  in  countless,  innu-
-merable spheres  in  all  directions,  &c.,  and  who  are
+staying,  living,  existing,  .Sariputra,  in  countless,  innumerable spheres  in  all  directions,  &c.,  and  who  are
 preaching  the  law  to  gods  and  men  (&c.,  as  above
 till)  the  right  path.  Such  is  the  law  they  are
-preaching  to  creatures.  And  those  creatures,  vSari-
-putra,  who  are  hearing  the  law  from  the  present
+preaching  to  creatures.  And  those  creatures,  vSariputra,  who  are  hearing  the  law  from  the  present
 TathagaTas,  &c.,  shall  all  of  them  reach  supreme,
 perfect  enlightenment.
 
 I  myself  also,  Sariputra,  am  at  the  present  period  a
-Tathagata,  &c.,  for  the  weal  of  many  (&c.,  till)  mani-
-fold ;  I  myself  also,  .Sariputra,  am  preaching  the  law
+Tathagata,  &c.,  for  the  weal  of  many  (&c.,  till)  manifold ;  I  myself  also,  .Sariputra,  am  preaching  the  law
 to  creatures  (&c.,  till)  the  right  path.  Such  is  the  law
-I  preach  to  creatures.  And  those  creatures,  S£ri-
-putra,  who  now  are  hearing  the  law  from  me,  shall
+I  preach  to  creatures.  And  those  creatures,  S£riputra,  who  now  are  hearing  the  law  from  me,  shall
 all  of  them  reach  supreme,  perfect  enlightenment.
 In  this  sense,  vSartputra,  it  must  be  understood  that
 nowhere  in  the  world  a  second  vehicle  is  taught,  far
@@ -3759,11 +3480,9 @@ creatures,  the  decay  of  besetting  sins 2,  the  decay  of
 views,  or  the  decay  of  lifetime ;  when  they  appear
 amid  such  signs  of  decay  at  the  disturbance  of  the
 epoch ;  when  creatures  are  much  tainted,  full  of
-greed  and  poor  in  roots  of  goodness  ;  then,  Sari-
-putra, the  Tathagatas,  &c.,  use,  skilfully,  to  desig-
+greed  and  poor  in  roots  of  goodness  ;  then,  Sariputra, the  Tathagatas,  &c.,  use,  skilfully,  to  desig-
 nate that  one  and  sole  Buddha-vehicle  by  the
-appellation  of  the  threefold  vehicle.  Now,  Sari-
-putra, such  disciples,  Arhats,  or  Pratyekabuddhas
+appellation  of  the  threefold  vehicle.  Now,  Sariputra, such  disciples,  Arhats,  or  Pratyekabuddhas
 
 1  One  MS.  has  "kashayeshu  in  the  plural,  literally  'the  dregs.'
 
@@ -3776,8 +3495,7 @@ show  themselves  at  their  very  worst.
 II.  SKILFULNESS.  43
 
 who  do  not  hear  their  actually  being  called  to  the
-Buddha- vehicle  by  the  Tathagata,  who  do  not  per-
-ceive, nor  heed  it,  those,  .Sariputra,  should  not  be
+Buddha- vehicle  by  the  Tathagata,  who  do  not  perceive, nor  heed  it,  those,  .Sariputra,  should  not  be
 acknowledged  as  disciples  of  the  Tathagata,  nor  as
 Arhats,  nor  as  Pratyekabuddhas.
 
@@ -3790,10 +3508,8 @@ Nirvana,'  then,  .Sariputra,  consider  such  a  one  to  be
 conceited.  For,  .Sariputra,  it  is  unfit,  it  is  improper
 that  a  monk,  a  faultless  Arhat,  should  not  believe  in
 the  law  which  he  hears  from  the  Tathagata  in  his
-presence.  I  leave  out  of  question  when  the  Tatha-
-gata shall  have  reached  complete  Nirvana ;  for  at
-that  period,  that  time,  .Sariputra,  when  the  Tatha-
-gata shall  be  wholly  extinct,  there  shall  be  none
+presence.  I  leave  out  of  question  when  the  Tathagata shall  have  reached  complete  Nirvana ;  for  at
+that  period,  that  time,  .Sariputra,  when  the  Tathagata shall  be  wholly  extinct,  there  shall  be  none
 who  either  knows  by  heart  or  preaches  such  Sutras
 as  this.  It  will  be  under  other  Tathagatas,  &c.,  that
 they  are  to  be  freed  from  doubts.  In  respect  to  these
@@ -3811,8 +3527,7 @@ the  reading  followed  by  Burnouf,  for  he  renders  it  by  'exclu.'  The
 form  uk&Ainna.  could  the  more  easily  creep  in,  because  instead  of
 utsanna  we  often  find  u/££/5anna,  which,  in  fact,  I  believe  to  be
 the  true  form,  for  the  word  may  be  derived  from  jad,  akin  to
-Latin  cedo,  Greek  Kocaoyiat;  the  usual  spelling,  however,  is  ut-
-sanna.
+Latin  cedo,  Greek  Kocaoyiat;  the  usual  spelling,  however,  is  utsanna.
 
 
 44  sADDHARMA-PiwDARKA.  IT.
@@ -3826,8 +3541,7 @@ training  and  foolish  as  they  were,  away  in  order
 to  beware  of  damage.
 
 39.  The  Lord,  who  knew  them  to  be  the  dregs  of
-the  congregation,  exclaimed1:    They  have  no  suffi-
-cient merit  to  hear  this  law.
+the  congregation,  exclaimed1:    They  have  no  sufficient merit  to  hear  this  law.
 
 40.  My  congregation   is   now  pure2,  freed   from
 chaff;    the   trash    is   removed   and   the    pith   only
@@ -3854,8 +3568,7 @@ in  one  way  or  another,  gladdened  all  creatures.
 part  of  the  Lord's  speech.    It  appears  that  the  maker  of  the  prose
 text  has  worked  upon  the  older  text  in  poetry,  and  on  this  occasion
 has  been  at  a  loss  how  to  connect  the  latter  with  the  former.     The
-matter  is  easily  explained  on  the  assumption  that  the  verses  con-
-tained the  ancient  text,  and  therefore  were  treated  with  the  greatest
+matter  is  easily  explained  on  the  assumption  that  the  verses  contained the  ancient  text,  and  therefore  were  treated  with  the  greatest
 scruples.
 
 2  Suddha;  Burnouf  rendering  'ayant  de  la  foi'  has  followed
@@ -3867,29 +3580,22 @@ Vishnu.
 
 II.  SKILFULNESS.  45
 
-£atakas  1t  and  prodigies,  besides  hundreds  of  intro-
-ductions and  curious  parables.
+£atakas  1t  and  prodigies,  besides  hundreds  of  introductions and  curious  parables.
 
 45.  I    show    Nirvana   to   the  ignorant  with   low
 dispositions,  who  have  followed  no  course  of  duty
-under  many  ko/is  of  Buddhas,  are  bound  to  con-
-tinued existence  and  wretched.
+under  many  ko/is  of  Buddhas,  are  bound  to  continued existence  and  wretched.
 
-46.  The  self-born  one  uses  such  means  to  mani-
-fest Buddha-knowledge,  but  he  shall  never  say  to
+46.  The  self-born  one  uses  such  means  to  manifest Buddha-knowledge,  but  he  shall  never  say  to
 them,  Ye  also  are  to  become  Buddhas  2.
 
 47.  Why  should  not  the  mighty3  one,  after  having
-waited  for  the  right  time,  speak,  now  that  he  per-
-ceives the  right  moment  is  come  ?     This  is  the  fit
-opportunity,  met  somehow,  of  commencing  the  ex-
-position of  what  really  is.
+waited  for  the  right  time,  speak,  now  that  he  perceives the  right  moment  is  come  ?     This  is  the  fit
+opportunity,  met  somehow,  of  commencing  the  exposition of  what  really  is.
 
-48.  Now  the  word  of  my  commandment,  as  con-
-tained in  nine  divisions 4,  has  been  published  accord-
+48.  Now  the  word  of  my  commandment,  as  contained in  nine  divisions 4,  has  been  published  accord-
 ing to  the  varying  degree  of  strength  of  creatures.
-Such  is  the  device  I  have  shown  in  order  to  intro-
-duce (creatures)  to  the  knowledge  of  the  giver  of
+Such  is  the  device  I  have  shown  in  order  to  introduce (creatures)  to  the  knowledge  of  the  giver  of
 boons.
 
 49.  And  to  those  in  the  world  who  have  always
@@ -3900,8 +3606,7 @@ been  pure,  wise,  good-minded,  compassionate  sons
 version  of  those  tales  a  part  has  been  edited  by  Professor  Fausboll
 and  translated  by  Dr.  Rhys  Davids.
 
-2  The  reading  is  uncertain;    one  MS.  has  yushme  pi  bud-
-dheka  (!)  bhavishyatheti ;  another  yushmaipi  buddhehi  bha-
+2  The  reading  is  uncertain;    one  MS.  has  yushme  pi  buddheka  (!)  bhavishyatheti ;  another  yushmaipi  buddhehi  bha-
 vishati  (!).
 
 3  Tayin;  here  one  might  translate  the  word  by  'able,  clever.'
@@ -3920,15 +3625,13 @@ of  Buddha  and  done  thei  rduty  under  many  ko/is  of
 Buddhas  will  I  make  known  amplified  Sutras.
 
 50.  For   they  are   endowed   with   such   gifts   of
-mental  disposition  and  such  advantages  of  a  blame-
-less outward  form l  that  I  can  announce  to  them  :  in
+mental  disposition  and  such  advantages  of  a  blameless outward  form l  that  I  can  announce  to  them  :  in
 future   ye   shall   become   Buddhas   benevolent  and
 compassionate.
 
 51.  Hearing  which,  all  of  them  will  be  pervaded
 with  delight  (at  the  thought) :    We   shall   become
-Buddhas  pre-eminent  in  the    world.     And   I,  per-
-ceiving  their  conduct,  will  again   reveal  amplified
+Buddhas  pre-eminent  in  the    world.     And   I,  perceiving  their  conduct,  will  again   reveal  amplified
 Sutras.
 
 52.  And  those  are  the  disciples  of  the  Leader,
@@ -3938,8 +3641,7 @@ doubt  of  it,  to  lead  all  of  them  to  enlightenment.
 
 53.  There  is,  indeed,  but  one  vehicle;  there  is  no
 second,   nor  a  third  anywhere  in  the  world,  apart
-from  the  case  of  the  Purushottamas  using  an  expe-
-dient to  show  that  there  is  a  diversity  of  vehicles.
+from  the  case  of  the  Purushottamas  using  an  expedient to  show  that  there  is  a  diversity  of  vehicles.
 
 54.  The  Chief  of  the  world  appears  in  the  world
 to  reveal  the  Buddha-knowledge.     He  has  but  one
@@ -3947,8 +3649,7 @@ aim,  indeed,  no  second ;  the  Buddhas  do  not  bring
 over  (creatures)  by  an  inferior  vehicle.
 
 55.  There  where  the  self-born  one  has  established
-himself,  and  where  the  object  of  knowledge  is,  of  what-
-ever form  or  kind ;  (where)  the  powers,  the  stages  of
+himself,  and  where  the  object  of  knowledge  is,  of  whatever form  or  kind ;  (where)  the  powers,  the  stages  of
 meditation,  the  emancipations,  the  perfected  faculties
 (are);  there  the  beings  also  shall  be  established.
 
@@ -3970,8 +3671,7 @@ would  not  beseem  me.
 jealousy,  no  desire,  nor  passion.  Therefore  I  am
 the  Buddha,  because  the  world  follows  my  teaching1.
 
-58.  When,  splendidly  marked  with  (the   thirty-
-two)  characteristics,   I  am    illuminating  this  whole
+58.  When,  splendidly  marked  with  (the   thirtytwo)  characteristics,   I  am    illuminating  this  whole
 world,  and,  worshipped  by  many  hundreds  of  beings,
 I  show  the  (unmistakable)  stamp  of  the  nature  of
 the  law ;
@@ -4010,8 +3710,7 @@ is  praised  as  being  an  excellent  duta.
 
 48  SADDHARMA-PlLMDARlKA.  IT.
 
-63.  From  lust  they  run  into  distress  ;  they  are  tor-
-mented in  the  six  states  of  existence  and  people  the
+63.  From  lust  they  run  into  distress  ;  they  are  tormented in  the  six  states  of  existence  and  people  the
 cemetery  *  again  and  again ;  they  are  overwhelmed
 with  misfortune,  as  they  possess  little  virtue.
 
@@ -4061,12 +3760,10 @@ the  Lords  of  the  world  speak  the  truth ;  this  is  the
 only  vehicle,  a  second  there  is  not.
 
 70.  The  former  Tathagatas  also,  living  in  the  past
-for  innumerable  JEons,  the  many  thousands  of  Bud-
-dhas  who  are  gone  to  final  rest,  whose  number  can
+for  innumerable  JEons,  the  many  thousands  of  Buddhas  who  are  gone  to  final  rest,  whose  number  can
 never  be  counted,
 
-7 1 .  Those  highest  of  men x  have  all  of  them  re-
-vealed most  holy  laws   by  means  of  illustrations,
+7 1 .  Those  highest  of  men x  have  all  of  them  revealed most  holy  laws   by  means  of  illustrations,
 reasons,  and  arguments,  with  many  hundred  proofs
 of  skilfulness.
 
@@ -4082,8 +3779,7 @@ consideration  of  the  inclinations  and  dispositions  (of
 the  different  beings).
 
 74.  And   all    in   the  world  who  are  hearing   or
-have  heard  the  law  from  the  mouth  of  the  Tatha-
-gatas, given  alms,  followed  the  moral  precepts,  and
+have  heard  the  law  from  the  mouth  of  the  Tathagatas, given  alms,  followed  the  moral  precepts,  and
 patiently  accomplished  the  whole  of  their  religious
 duties ;
 
@@ -4092,10 +3788,8 @@ zeal  and  meditation,  with  wisdom  reflected  on  those
 laws,    and   performed   several    meritorious   actions,
 have  all  of  them  reached  enlightenment.
 
-76.  And  such  beings  as  were  living  patient,  sub-
-dued, and  disciplined,  under  the  rule  of  the  6inas  of
-those  times,  have  all  of  them   reached  enlighten-
-ment.
+76.  And  such  beings  as  were  living  patient,  subdued, and  disciplined,  under  the  rule  of  the  6inas  of
+those  times,  have  all  of  them   reached  enlightenment.
 
 1  Purushottama>&.
 [21]  E
@@ -4126,15 +3820,13 @@ dedicating  them  as  Stupas  to  the  G'mas,  they  have
 all  of  them  reached  enlightenment.
 
 82.  Likewise  have  all  who  caused  jewel  images
-to  be  made  and  dedicated,  adorned  with  the  thirty-
-two  characteristic  signs,  reached  enlightenment.
+to  be  made  and  dedicated,  adorned  with  the  thirtytwo  characteristic  signs,  reached  enlightenment.
 
 83.  Others  who   had   images   of  Sugatas  made
 of  the    seven    precious    substances,   of  copper   or
 brass,  have  all  of  them  reached  enlightenment.
 
-84.  Those  who  ordered  beautiful  statues  of  Su-
-gatas  to   be   made   of  lead,   iron,  clay,  or  plaster
+84.  Those  who  ordered  beautiful  statues  of  Sugatas  to   be   made   of  lead,   iron,  clay,  or  plaster
 have  &c.
 
 85.  Those  who  made  images  (of  the  Sugatas)  on
@@ -4183,14 +3875,12 @@ sang  a  song  sweet  and  lovely;
 92.  They  have  all  of  them  reached  enlightenment.
 By  paying  various  kinds  of  worship  to  the  relics  of
 the  Sugatas,  by  doing  but  a  little  for  the  relics,  by
-making  resound  were  it  but  a  single  musical  instru-
-ment ;
+making  resound  were  it  but  a  single  musical  instrument ;
 
 93.  Or  by  worshipping  were  it  but  with  a  single
 
 
-1  The  MSS.  have  ekonna«/a,  which  I  do  not  understand ;  Bur-
-nouf,  it  would  seem,  has  read  ekotsava,  for  his  translation  has
+1  The  MSS.  have  ekonna«/a,  which  I  do  not  understand ;  Burnouf,  it  would  seem,  has  read  ekotsava,  for  his  translation  has
 '  ceux  qui  ne  servent  que  pour  une  fele.'
 
 2  Two  words  are  doubtful;  one  MS.  has  ga.la.rn am duk&  v& —
@@ -4205,8 +3895,7 @@ E  2
 
 52  SADDHARMA-PUtfZJARfKA.  II.
 
-flower,  by  drawing  on  a  wall  the  images  of  the  Su-
-gatas,  by  doing  worship  were  it  even  with  distracted
+flower,  by  drawing  on  a  wall  the  images  of  the  Sugatas,  by  doing  worship  were  it  even  with  distracted
 thoughts,  one  shall  in  course  of  time  see  ko/is  of
 Buddhas.
 
@@ -4227,8 +3916,7 @@ superior  enlightenment.
 have  heard  no  more  than  the  name  of  the  law,  have
 all  of  them  reached  enlightenment.
 
-97.  Many  koris  of  future  Buddhas  beyond  imagina-
-tion and  measure  shall  likewise  reveal  this  device  as
+97.  Many  koris  of  future  Buddhas  beyond  imagination and  measure  shall  likewise  reveal  this  device  as
 £inas  and  supreme  Lords.
 
 98.  Endless    shall   be   the   skilfulness   of  these
@@ -4245,8 +3933,7 @@ dying.
 
 *  Vinayati,  to  train,  educate,  also  means  to  carry  away,  remove.
 
-8  I.e.  death.  Such  terms  as  perfect  enlightenment,  Buddha-
-knowledge,  &c.,  when  they  are  veiled  or  euphemistic  expressions
+8  I.e.  death.  Such  terms  as  perfect  enlightenment,  Buddhaknowledge,  &c.,  when  they  are  veiled  or  euphemistic  expressions
 for  death,  may  be  compared  with  the  phrase  'to  see  the  truth,'
 which  in  some  parts  of  Europe  is  quite  common,  especially  among
 
@@ -4255,27 +3942,22 @@ II.  SKILFULNESS.  53
 
 99.  Never  has  there  been  any  being  who,  after
 hearing  the  law  of  those  (leaders),  shall  not  become
-Buddha1;  for  this  is  the  fixed  vow  of  the  Tatha-
-gatas :  Let  me,  by  accomplishing  my  course  of  duty,
+Buddha1;  for  this  is  the  fixed  vow  of  the  Tathagatas :  Let  me,  by  accomplishing  my  course  of  duty,
 lead  others  to  enlightenment.
 
 TOO.  They  are  to  expound  in  future  days  many
-thousand  kotis  of  heads  of  the  law ;  in  their  Tatha-
-gataship  they  shall  teach  the  law  by  showing  the
+thousand  kotis  of  heads  of  the  law ;  in  their  Tathagataship  they  shall  teach  the  law  by  showing  the
 sole  vehicle  before-mentioned.
 
-101.  The  line  of  the  law  forms  an  unbroken  con-
-tinuity and  the  nature  of  its  properties  is  always
+101.  The  line  of  the  law  forms  an  unbroken  continuity and  the  nature  of  its  properties  is  always
 manifest.     Knowing  this,  the  Buddhas,  the  highest
 of  men,  shall  reveal  this  single  vehicle 2.
 
 102.  They  shall  reveal  the  stability  of  the  law,  its
-being  subjected  to  fixed  rules,  its  unshakeable  per-
-petuity in  the  world,  the  awaking  of  the  Buddhas  on
+being  subjected  to  fixed  rules,  its  unshakeable  perpetuity in  the  world,  the  awaking  of  the  Buddhas  on
 the  elevated  terrace  of  the  earth,  their  skilfulness.
 
-103.  In  all  directions  of  space  are  standing  Bud-
-dhas, like  sand  of  the  Ganges,  honoured  by  gods
+103.  In  all  directions  of  space  are  standing  Buddhas, like  sand  of  the  Ganges,  honoured  by  gods
 and  men ;  these  also  do,  for  the  weal  of  all  beings  in
 the  world,  expound  superior  enlightenment.
 
@@ -4287,8 +3969,7 @@ of  blessed  rest.
 country  people,  as  synonymous  with  dying.     No  less  common  is
 the  expression  nirvawam  pa-ryati,  to  see  Nirv&wa.
 
-1  The  text  has  eko  'pi  satvo  na  kada&  tesha^z,  .Srutvana  dhar-
-mam  na  bhaveta  buddha/L     -Srutvana  answers,  of  course,  to  a
+1  The  text  has  eko  'pi  satvo  na  kada&  tesha^z,  .Srutvana  dharmam  na  bhaveta  buddha/L     -Srutvana  answers,  of  course,  to  a
 Prakrit  sutvana;  cf.  Vedic  pttvanam,  Pa/zini  VII,  i,  48.
 
 2  Viditva  Buddha  dvipadanam  uttama,  praklrayishyanti  'mam
@@ -4299,21 +3980,16 @@ Sandhi,  frequent  in  the  stanzas.
 going  to.
 
 
-54
-
-
 SADDHARMA-PUA^ARlKA.  IT.
 
 
 105.  Acquainted  as  they  are  with  the  conduct  of
-all  mortals,  with  their  peculiar  dispositions  and  pre-
-vious actions;  with  due  regard  to  their  strenuous-
+all  mortals,  with  their  peculiar  dispositions  and  previous actions;  with  due  regard  to  their  strenuous-
 ness   and  vigour,  as  well   as  their   inclination,  the
 Buddhas  impart  their  lights  to  them.
 
 1 06.  By  dint  of  knowledge  the  leaders  produce
-many  illustrations,  arguments,  and  reasons;  and  con-
-sidering how  the  creatures  have  various  inclinations
+many  illustrations,  arguments,  and  reasons;  and  considering how  the  creatures  have  various  inclinations
 they  impart  various  directions.
 
 107.  And  myself  also,  the  leader   of  the   chief
@@ -4328,8 +4004,7 @@ own  character.    Such  is  the  might  of  my  knowledge.
 
 109.  I  likewise  see  the  poor  wretches,  deficient  in
 wisdom  and  conduct,  lapsed  into  the  mundane  whirl,
-retained  in  dismal  places,  plunged  in  affliction  inces-
-santly renewed.
+retained  in  dismal  places,  plunged  in  affliction  incessantly renewed.
 
 no.  Fettered  as  they  are  by  desire  like  the  yak
 by  its  tail,  continually  blinded  by  sensual  pleasure,
@@ -4342,8 +4017,7 @@ the  low  views,  and  suffer  pain  on  pain.  For  those  I
 feel  a  great  compassion.
 
 112.  On   the   terrace   of  enlightenment   I    have
-remained  three  weeks  in  full,  searching  and  pon-
-dering on  such  a  matter,  steadily  looking  up  to  the
+remained  three  weeks  in  full,  searching  and  pondering on  such  a  matter,  steadily  looking  up  to  the
 tree  there  (standing).
 
 113.  Keeping  in  view  that  king  of  trees  with  an
@@ -4357,8 +4031,7 @@ creatures  are  blind  with  dulness  and  ignorance.
 
 114.  Then  it  was  that  Brahma  entreated  me,  and
 so  did  Indra,  the  four  rulers  of  the  cardinal  points,
-Mahe^vara,  l-svara,  and  the  hosts  of  Maruts  by  thou-
-sands of  ko/is2.
+Mahe^vara,  l-svara,  and  the  hosts  of  Maruts  by  thousands of  ko/is2.
 
 115.  All  stood  with  joined  hands  and  respectful,
 while  myself  was  revolving  the  matter  in  my  mind
@@ -4389,8 +4062,7 @@ now  that  thou  hast  come  to  unsurpassed  knowledge,
 
 2  The  story  slightly  differs  from  what  is  found  in  the  Mahavagga,
 Lalita-vistara,  and  other  works,  in  so  far  as  the  number  of  weeks
-is  generally  reckoned  as  seven.     There  are,  however,  other  discre-
-pancies between  the  relations  in  the  various  sources,  for  which
+is  generally  reckoned  as  seven.     There  are,  however,  other  discrepancies between  the  relations  in  the  various  sources,  for  which
 I  must  refer  to  Mahavagga  I,  5 ;  Lalita-vistara,  p.  5 1 1 ;  cf.  Bigandet,
 Legend,  p.  112.
 
@@ -4404,8 +4076,7 @@ of  the  world,  thou  repeatest  their  teaching.
 
 1 20.  'We  also,  being  Buddhas,  will  make  clear  the
 highest  word1,  divided  into  three  parts ;    for  men
-(occasionally)  have  low  inclinations,  and  might  per-
-chance from  ignorance  not  believe  (us,  when  we  say),
+(occasionally)  have  low  inclinations,  and  might  perchance from  ignorance  not  believe  (us,  when  we  say),
 Ye  shall  become  Buddhas.
 
 121.  'Hence  we  will  rouse  many  Bodhisattvas  by
@@ -4438,12 +4109,10 @@ Arhat,  of  Dharma,  and  Sangha.
 1  Properly,  the  most  lofty  place;  the  word  pada  in  the  text
 means  place,  spot,  word,  subject,  &c.
 
-2  A£-?1ata-Kau«<fmya  and  the  four  others  mentioned  in  the  open-
-ing chapter.
+2  A£-?1ata-Kau«<fmya  and  the  four  others  mentioned  in  the  opening chapter.
 
 3  In  chap.  VII  we  shall  see  that  the  wheel  was  put  in  motion  at
-an  inconceivably  long  period  before,  by  the  Tathagata  Maha-
-bhi^a^nanabhibhu.
+an  inconceivably  long  period  before,  by  the  Tathagata  Mahabhi^a^nanabhibhu.
 
 
 II.  SKILFULNESS.  5  7
@@ -4458,8 +4127,7 @@ numberless,  striving  after  the  supreme,  the  highest
 enlightenment ;
 
 128.  And  when  such  as  had  heard  the  law  of  the
-^inas,  owing  to  the  many-sidedness  of  (their)  skilful-
-ness,  had  approached  me  and  stood  before  my  face,
+^inas,  owing  to  the  many-sidedness  of  (their)  skilfulness,  had  approached  me  and  stood  before  my  face,
 all  of  them  with  joined  hands,  and  respectful  ;
 
 129.  Then  I  conceived  the  idea  that  the  time  had
@@ -4467,10 +4135,8 @@ come  for  me  to  announce  the  excellent  law  and  to
 reveal  supreme  enlightenment,  for  which  task  I  had
 been  born  in  the  world.
 
-1 30.  This  (event)  to-day  will  be  hard  to  be  under-
-stood by  the  ignorant  who  imagine  they  see1  here
-a  sign,  as  they  are  proud  and  dull.     But  the  Bodhi-
-sattvas,  they  will  listen  to  me.
+1 30.  This  (event)  to-day  will  be  hard  to  be  understood by  the  ignorant  who  imagine  they  see1  here
+a  sign,  as  they  are  proud  and  dull.     But  the  Bodhisattvas,  they  will  listen  to  me.
 
 131.  And  I  felt  free  from  hesitation  and  highly
 cheered  ;  putting  aside  all  timidity,  I  began  speaking
@@ -4479,8 +4145,7 @@ them  to  enlightenment.
 
 132.  On  beholding  such  worthy  sons  of  Buddha
 (I  said):  Thy  doubts  also  will  be  removed,  and  these
-twelve  hundred  (disciples)  of  mine,  free  from  imper-
-fections, will  all  of  them  become  Buddhas.
+twelve  hundred  (disciples)  of  mine,  free  from  imperfections, will  all  of  them  become  Buddhas.
 
 133.  Even  as  the  nature  of  the  law  of  the  former2
 mighty  saints  and  the  future  Gmas  is,  so  is  my  law
@@ -4508,8 +4173,7 @@ law,  even  in  myriads  of  ko/is  of  ^Eons ;  very  rare
 are  the  beings  who  will  adhere  to  the  superior  law
 which  they  have  heard  from  me.
 
-136.  Just  as  the  blossom  of  the  glomerous   fig-
-tree  is  rare,  albeit  sometimes,  at  some  places,  and
+136.  Just  as  the  blossom  of  the  glomerous   figtree  is  rare,  albeit  sometimes,  at  some  places,  and
 somehow  it  is  met  with,  as  something  pleasant  to  see
 for  everybody,  as  a  wonder  to  the  world  including
 the  gods ;
@@ -4521,8 +4185,7 @@ one  word  of  it,  will  have  done  honour  to  all  Buddhas.
 
 138.  Give  up  all  doubt  and  uncertainty  in  this
 respect ;   I  declare  that  I  am  the  king  of  the  law
-(Dharmara^a) ;    I   am  urging  others   to   enlighten-
-ment, but  I  am  here  without  disciples.
+(Dharmara^a) ;    I   am  urging  others   to   enlightenment, but  I  am  here  without  disciples.
 
 139.  Let  this  mystery  be  for  thee,  ,5ariputra,  for  all
 disciples  of  mine,  and  for  the  eminent  Bodhisattvas,
@@ -4562,14 +4225,12 @@ mysteries2;    hence    it    is    difficult    to    understand
 (them).
 
 144.  Therefore  try  to  understand  the  mystery3  of
-the  Buddhas,  the  holy  masters  of  the  world;    for-
-sake all  doubt  and  uncertainty :  you  shall  become
+the  Buddhas,  the  holy  masters  of  the  world;    forsake all  doubt  and  uncertainty :  you  shall  become
 Buddhas ;  rejoice !
 
 1  Or,  rather,  learnt  this  way.
 
-2  The  word  in  the  text  is  sandhava/fcanai^,  evidently  synony-
-mous with  sandhabhashya.
+2  The  word  in  the  text  is  sandhava/fcanai^,  evidently  synonymous with  sandhabhashya.
 
 3  Sandha,  by  Burnouf  rendered  'langage  e'nigmatique.'     On
 comparing  the  different  meanings  of  sandha  and  sandhaya,  both
@@ -4578,12 +4239,10 @@ sandhaya-)  bhashita  (bhashya)  was  a  term  used  in  the  sense
 of '  speaking  (speech)  in  council,  a  counsel,'  scarcely  differing  from
 mantra.    In  both  words  secrecy  is  implied,  though  not  expressed.
 If  we  take  the  term  as  synonymous  with  mantra,  the  connection
-between   upayakaujalya,  diplomacy,  skilfulness,  and  sandha-
-bhashita  is  clear.     Cf.  the  Gothic  word  run  a,  both  /SouXij  and
+between   upayakaujalya,  diplomacy,  skilfulness,  and  sandhabhashita  is  clear.     Cf.  the  Gothic  word  run  a,  both  /SouXij  and
 nvorrfjpiov ;   garuni,   <rvnfiov\iov.     The   theistical   sect   have   taken
 it  in  the  sense  of  '  God's  counsel,'  but  I  cannot  produce  a  warrant
-for  this  guess.     By  Hiouen  Thsang,  the  term  sandhaya  is  trans-
-lated by  'in  a  hidden  sense/  as  we   know  from  Professor  Max
+for  this  guess.     By  Hiouen  Thsang,  the  term  sandhaya  is  translated by  'in  a  hidden  sense/  as  we   know  from  Professor  Max
 Muller's  note,  in  his  edition  of  the  Va^ra^Wedika,  p.  23.
 
 
@@ -4597,15 +4256,13 @@ A   PARABLE.
 Then  the  venerable  .Sariputra,  pleased,  glad,
 charmed,  cheerful,  thrilling  with  delight  and  joy,
 stretched  his  joined  hands  towards  the  Lord,  and,
-looking  up  to  the  Lord  with  a  steady  gaze,  ad-
-dressed him  in  this  strain  :  I  am  astonished,  amazed,
+looking  up  to  the  Lord  with  a  steady  gaze,  addressed him  in  this  strain  :  I  am  astonished,  amazed,
 O  Lord !  I  am  in  ecstasy  to  hear  such  a  call  from  the
 Lord.  For  when,  before  I  had  heard  of  this  law
 from  the  Lord,  I  saw  other  Bodhisattvas,  and  heard
 that  the  Bodhisattvas  would  in  future  get  the  name
 of  Buddhas,  I  felt  extremely  sorry,  extremely  vexed
-to  be  deprived  from  so  grand  a  sight  as  the  Tatha-
-gata-knowledge.  And  whenever,  O  Lord,  for  my
+to  be  deprived  from  so  grand  a  sight  as  the  Tathagata-knowledge.  And  whenever,  O  Lord,  for  my
 daily  recreation  I  was  visiting  the  caves  of  rocks  or
 mountains,  wood  thickets,  lovely  gardens,  rivers,  and
 roots  of  trees,  I  always  was  occupied  with  the  same
@@ -4618,18 +4275,14 @@ vehicle/  Instantly,  however,  O  Lord,  I  felt  that  it
 
 2  Tulye  nama  dharmadhatuprave-re  vayaw — niryatita^.
 The  terms  are  ambiguous,  and  open  to  various  interpretations.
-The  Tibetan  version  has,  according  to  Burnouf, '  in  an  equal  intro-
-duction to  the  domain  of  the  law,'  from  which  at  least  thus  much
+The  Tibetan  version  has,  according  to  Burnouf, '  in  an  equal  introduction to  the  domain  of  the  law,'  from  which  at  least  thus  much
 results,  that  the  text   had  tulye,  not  tulya,  as  Burnouf  reads.
 Tulye  praveje  I  take  to  be  a  so-called  absolute  locative  case.
 As  to  the  plural  '  we,'  it  refers  to  Sariputra.
 
 
-III.  A   PARABLE.  6 1
-
 was  our  own  fault,  not  the  Lord's.  For  had  we
-regarded  the  Lord  at  the  time  of  his  giving  the  all-
-surpassing  demonstration  of  the  law,  that  is,  the
+regarded  the  Lord  at  the  time  of  his  giving  the  allsurpassing  demonstration  of  the  law,  that  is,  the
 exposition  of  supreme,  perfect  enlightenment,  then,
 O  Lord,  we  should  have  become  adepts  in  those
 laws.  But  because,  without  understanding  the
@@ -4637,8 +4290,7 @@ mystery  of  the  Lord,  we,  at  the  moment  of  the
 Bodhisattvas  not  being  assembled,  heard  only  in  a
 hurry,  caught,  meditated,  minded,  took  to  heart
 the  first  lessons  pronounced  on  the  law,  therefore,
-O  Lord,  I  used  to  pass  day  and  night  in  self-
-reproach.  (But)  to-day,  O  Lord,  I  have  reached
+O  Lord,  I  used  to  pass  day  and  night  in  selfreproach.  (But)  to-day,  O  Lord,  I  have  reached
 complete  extinction ;  to-day,  O  Lord,  I  have  become
 calm ;  to-day,  O  Lord,  I  am  wholly  come  to  rest ;
 to-day,  O  Lord,  I  have  reached  Arhatship ;  to-day,
@@ -4659,8 +4311,7 @@ am  I  fully  ripe  for  the  superior  vehicle.
 
 2.  Wonderful    is   the  voice1  of  the  Sugatas ;    it
 dispels  the  doubt  and  pain   of  living  beings ;   my
-pain  also  is  all  gone  now  that  I,  freed  from  imper-
-fections, have  heard  that  voice  (or,  call).
+pain  also  is  all  gone  now  that  I,  freed  from  imperfections, have  heard  that  voice  (or,  call).
 
 3.  When  I  was  taking  my  daily  recreation  or  was
 
@@ -4698,19 +4349,16 @@ that  inconceivable,  unbounded  knowledge ! '
 thinking  of  the  same  subject ;  I  would  ask  the  Lord
 whether  I  had  lost  my  rank  or  not.
 
-9.  In  such  reflections,  O  Chief  of  £inas,  I  con-
-stantly passed  my  days  and  nights ;  and  on  seeing
+9.  In  such  reflections,  O  Chief  of  £inas,  I  constantly passed  my  days  and  nights ;  and  on  seeing
 many  other  Bodhisattvas  praised  by  the  Leader  of
 the  world,
 
 10.  And  on  hearing  this  Buddha-law,  I  thought:
 'To  be  sure,  this  is  expounded  mysteriously1;  it  is
 an  inscrutable,  subtle,  and  faultless  science,   which
-is  announced  by  the   <7inas  on  the  terrace  of  en-
-lightenment.'
+is  announced  by  the   <7inas  on  the  terrace  of  enlightenment.'
 
-1  Sandhaya;  the  Chinese  translation  by  Kumara-§iva,  accord-
-ing to  Stan.  Julien's  version,  has  '  suivant  la  convenance.'
+1  Sandhaya;  the  Chinese  translation  by  Kumara-§iva,  according to  Stan.  Julien's  version,  has  '  suivant  la  convenance.'
 
 
 III.
@@ -4735,10 +4383,8 @@ being,  honoured  by  men,  gods,  goblins,  Titans,  and
 adorned  with  the  thirty-two  characteristic  signs,  then
 one  will  be  completely  extinct.
 
-14.  All  those  (former)  cares2  have  now  been  dis-
-pelled, since  I  have  heard  the  voice.     Now  am  I
-extinct,  as  thou  announcest  my  destination  (to  Nir-
-va/za)  before  the  world  including  the  gods.
+14.  All  those  (former)  cares2  have  now  been  dispelled, since  I  have  heard  the  voice.     Now  am  I
+extinct,  as  thou  announcest  my  destination  (to  Nirva/za)  before  the  world  including  the  gods.
 
 15.  When  I  first  heard  the  voice  of  the  Lord,  I
 had  a  great  terror  lest  it  might  be  Mara,  the  evil
@@ -4749,8 +4395,7 @@ of  Buddha.
 had  been  displayed  in  and  established  with  argu-
 
 
-1  Parivra^-akas  Tirthikasammataj  £a.     The  term  pari-
-vra^-aka  or  parivra^  is  occasionally  applied  to  Buddhist  monks,
+1  Parivra^-akas  Tirthikasammataj  £a.     The  term  parivra^-aka  or  parivra^  is  occasionally  applied  to  Buddhist  monks,
 but  here  it  would  seem  that  the  Brahmanistic  monks  are  meant,
 the  brahmasa/rasthas  of  .Sankara  in  his  commentary  on  Brahma-
 Sutra  III,  4,  20.    They  are  to  be  distinguished  from  the  Tirthika's.
@@ -4758,8 +4403,7 @@ Sutra  III,  4,  20.    They  are  to  be  distinguished  from  the  Tirthika's.
 2  Or,  thoughts;   one  MS.  has  vyapanlta   sarvani  'mi  (read
 °n\  'mi)  manyitani ;  another  reads,  vy.  sarvam  'mi  ma/££itani.
 Manyita  is  a  participle  derived  from  the  present  tense  of  manyate,
-to  mean,  to  mind,  in  the  manner  of^ahita  from^-ahati.    Ma££i-
-tani  is  hardly  correct ;  it  is,  however,  just  possible  that  it  is  intended
+to  mean,  to  mind,  in  the  manner  of^ahita  from^-ahati.    Ma££itani  is  hardly  correct ;  it  is,  however,  just  possible  that  it  is  intended
 to  stand  for  ma£-£ittani.
 
 
@@ -4810,19 +4454,15 @@ satvaya,  which  is  nothing  but  a  misread  sandhaya.    Cf.  stanza
 37,  below.
 
 
-III.  A    PARABLE.  65
-
 people,  including  ascetics  and  Brahmans,  that  thou,
 •Sariputra,  hast  been  by  me  made  ripe  for  supreme,
 perfect  enlightenment,  in  presence  of  twenty  hundred
 thousand  myriads  of  ko/is  of  Buddhas,  and  that  thou,
-•Sariputra,  hast  for  a  long  time  followed  my  com-
-mandments. Thou,  ,5ariputra,  art,  by  the  counsel  of
+•Sariputra,  hast  for  a  long  time  followed  my  commandments. Thou,  ,5ariputra,  art,  by  the  counsel  of
 the  Bodhisattva,  by  the  decree  of  the  Bodhisattva,
 reborn  here  under  my  rule.  Owing  to  the  mighty
 will  of  the  Bodhisattva  thou,  .Sariputra,  hast  no
-recollection  of  thy  former  vow  to  observe  the  (reli-
-gious) course ;  of  the  counsel  of  the  Bodhisattva,  the
+recollection  of  thy  former  vow  to  observe  the  (religious) course ;  of  the  counsel  of  the  Bodhisattva,  the
 decree  of  the  Bodhisattva.  Thou  thinkest  that  thou
 hast  reached  final  rest.  I,  wishing  to  revive  and
 renew  in  thee  the  knowledge  of  thy  former  vow  to
@@ -4830,8 +4470,7 @@ observe  the  (religious)  course,  will  reveal  to  the
 disciples  the  Dharmaparyaya  called  '  the  Lotus  of
 the  True  Law,'  this  Sutranta,  &c.
 
-Again,  .Sariputra,  at  a  future  period,  after  innu-
-merable, inconceivable,  immeasurable  yEons,  when
+Again,  .Sariputra,  at  a  future  period,  after  innumerable, inconceivable,  immeasurable  yEons,  when
 thou  shalt  have  learnt  the  true  law  of  hundred
 thousand  myriads  of  ko/is  of  Tathagatas,  showed
 devotion  in  various  ways,  and  achieved  the  present
@@ -4859,8 +4498,7 @@ e.  g.  morning  and  evening,  the  Ajvins,  Castor  and  Pollux,  it  is  ofte
 At  that  time  then,  .Sariputra,  the  Buddha-field  of
 that  Lord,  the  Tathagata  Padmaprabha,  to  be  called
 Virata,  will  be  level,  pleasant,  delightful,  extremely
-beautiful  to  see,  pure,  prosperous,  rich,  quiet,  abound-
-ing with  food,  replete  with  many  races  of  men1;  it
+beautiful  to  see,  pure,  prosperous,  rich,  quiet,  abounding with  food,  replete  with  many  races  of  men1;  it
 will  consist  of  lapis  lazuli,  and  contain  a  checker-board
 of  eight  compartments  distinguished  by  gold  threads,
 each  compartment  having  its  jewel  tree  always  and
@@ -4873,13 +4511,10 @@ vehicles2.  Further,  Sariputra,  that  Tathagata  will
 not  appear  at  the  decay  of  the  ./Eon,  but  preach  the
 law  by  virtue  of  a  vow.
 
-That  ./Eon,  .Sariputra,  will  be  named  Maharatna-
-pratima^ita  (i.  e.  ornamented  with  magnificent
+That  ./Eon,  .Sariputra,  will  be  named  Maharatnapratima^ita  (i.  e.  ornamented  with  magnificent
 jewels).  Knowest  thou,  .Sariputra,  why  that  ./Eon
-is  named  Maharatnapratima^ita  ?  The  Bodhisat-
-tvas  of  a  Buddha-field,  .Sariputra,  are  called  ratnas
-(jewels),  and  at  that  time  there  will  be  many  Bodhi-
-sattvas  in  that  sphere  (called)  Virata  ;  innumerable,
+is  named  Maharatnapratima^ita  ?  The  Bodhisattvas  of  a  Buddha-field,  .Sariputra,  are  called  ratnas
+(jewels),  and  at  that  time  there  will  be  many  Bodhisattvas  in  that  sphere  (called)  Virata  ;  innumerable,
 incalculable,  beyond  computation,  abstraction  made
 from  their  being  computed  by  the  Tathagatas.  On
 that  account  is  that  JEon  called  Maharatnaprati-
@@ -4895,11 +4530,8 @@ it  is  he  who  makes  twilight.
 1  One  MS.  reads  bahu^anamanushy^klr«a,  the  other  bahu-
 ^anamaruprakirwa.
 
-2  Cf.  the  threefold  vehicle,  trivrzt  ratha,  of  the  Ajvins,  Rig-
-veda  I,  34,  9.  12,  47,  2.
+2  Cf.  the  threefold  vehicle,  trivrzt  ratha,  of  the  Ajvins,  Rigveda  I,  34,  9.  12,  47,  2.
 
-
-III.  A    PARABLE.  67
 
 Bodhisattvas  of  that  field  will  in  walking  step  on
 jewel  lotuses1.  And  these  Bodhisattvas  will  not  be
@@ -4919,12 +4551,10 @@ if  we  leave  out  of  account  the  time  of  his  being  a
 young  prince.  And  the  lifetime  of  the  creatures
 then  living  will  measure  eight  intermediate  kalpas.
 At  the  expiration  of  twelve  intermediate  kalpas,
-.Sariputra,  the  Tathagata  Padmaprabha,  after  an-
-nouncing the  future  destiny  of  the  Bodhisattva  called
+.Sariputra,  the  Tathagata  Padmaprabha,  after  announcing the  future  destiny  of  the  Bodhisattva  called
 DhrztiparipurTza2  to  superior  perfect  enlightenment,
 is  to  enter  complete  Nirvana.  '  This  Bodhisattva
-Mahasattva  Dh^'tiparipur^a,  O  monks,  shall  imme-
-diately after  me  come  to  supreme,  perfect  enlighten-
+Mahasattva  Dh^'tiparipur^a,  O  monks,  shall  immediately after  me  come  to  supreme,  perfect  enlighten-
 ment. He  shall  become  in  the  world  a  Tathagata
 named  PadmavT'z'shabhavikramin,  an  Arhat,  &c.,
 endowed  with  science  and  conduct,  &c.  &c.'
@@ -4949,8 +4579,7 @@ extinction,  last  thirty-two  intermediate  kalpas,  and
 the  counterfeit  of  his  true  law  will  last  as  many
 intermediate  kalpas1.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas  :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas  :
 
 23.  Thou  also,  son  of  .Sari,  shalt  in  future  be  a
 Gins.,  a  Tathagata  named  Padmaprabha,  of  illimited
@@ -4984,15 +4613,11 @@ pratirupaka  and  the  Iranian  paitiyaro  can  hardly  be  doubted.
 2  A  striking  example  of  how  the  original  Prakrit  of  the  verse  has
 been  adulterated  in  order  to  give  it  a  more  Sanskrit  colouring  is
 afforded  by  this  stanza.     One  MS.  has  bhavishyasi  Sarisuta
-tuhawzpi ;  another  bhavishyase  SarisutSnukampi,  with  mar-
-ginal correction  tvayampi.
+tuhawzpi ;  another  bhavishyase  SarisutSnukampi,  with  marginal correction  tvayampi.
 
-3  UpadayitvS,  i.e.  Pali  upadiyitva,  synonymous  with  dra-
-bhya(viryam) ;  the  var.  lect.  uparg-ayitvS,  having  acquired,  is  an
+3  UpadayitvS,  i.e.  Pali  upadiyitva,  synonymous  with  drabhya(viryam) ;  the  var.  lect.  uparg-ayitvS,  having  acquired,  is  an
 innovation,  at  first  sight  specious  enough.
 
-
-III.  A    PARABLE.  69
 
 the  course  of  duty  which  they  have  been  taught
 under  hundreds  of  Buddhas,  will  come  to  be  born
@@ -5023,23 +4648,19 @@ excellent  of  men,  so  unsurpassed.
 
 The  four  classes  of  the  audience,  monks,  nuns,
 lay  devotees  male  and  female,  gods,  Nagas,  goblins,
-Gandharvas,  demons,  Garu^as,  Kinnaras,  great  ser-
-pents, men  and  beings  not  human,  on  hearing  the
+Gandharvas,  demons,  Garu^as,  Kinnaras,  great  serpents, men  and  beings  not  human,  on  hearing  the
 announcement  of  the  venerable  .Sariputra's  destiny
 to  supreme,  perfect  enlightenment,  were  so  pleased,
 glad,  charmed,  thrilling  with  delight  and  joy,  that
 they  covered  the  Lord  severally  with  their  own
-robes,  while  Indra  the  chief  of  gods,  Brahma  Saham-
-pati,  besides  hundred  thousands  of  ko/is  of  other
+robes,  while  Indra  the  chief  of  gods,  Brahma  Sahampati,  besides  hundred  thousands  of  ko/is  of  other
 divine  beings,  covered  him  with  heavenly  garments
-and  bestrewed  him  with  flowers  of  heaven,  Manda-
-ravas  and  great  Mandaravas.  High  aloft  they
+and  bestrewed  him  with  flowers  of  heaven,  Mandaravas  and  great  Mandaravas.  High  aloft  they
 
 
 7Q  SADDHARMA-PUJVflARIKA.  III.
 
-whirled  celestial  clothes  and  struck  hundred  thou-
-sands of  celestial  musical  instruments  and  cymbals,
+whirled  celestial  clothes  and  struck  hundred  thousands of  celestial  musical  instruments  and  cymbals,
 high  in  the  sky;  and  after  pouring  a  great  rain  of
 flowers  they  uttered  these  words  :  The  wheel  of  the
 law  has  been  put  in  motion  by  the  Lord,  the  first
@@ -5056,8 +4677,7 @@ Benares,   O  great  hero !   (that  wheel  which  is  the
 rotation  of)  the  rise  and  decay  of  all  aggregates.
 
 34.  There  it  was  put  in  motion  for  the  first  time  ;
-now,  a  second  time,  is  it  turned  here,  O  Lord.     To-
-day, O  Master,  thou  hast  preached  this  law,  which  is
+now,  a  second  time,  is  it  turned  here,  O  Lord.     Today, O  Master,  thou  hast  preached  this  law,  which  is
 hard  to  be  received  with  faith1.
 
 35.  Many  laws  have  we  heard  near  the  Lord  of
@@ -5066,8 +4686,7 @@ this.
 
 36.  We  receive  with  gratitude,  O  great  hero,  the
 mysterious  speech  of  the  great  Sages,  such  as  this
-prediction  regarding  the  self-possessed  Arya  .Sari-
-putra.
+prediction  regarding  the  self-possessed  Arya  .Sariputra.
 
 37.  May   we    also    become    such    incomparable
 Buddhas  in  the  world,  who  by  mysterious  speech
@@ -5082,21 +4701,16 @@ belief,  but  also  liking,  approval.  Cf.  the  passage  in  Mahavagga  I,
 5,  2  sq.;  the  verses  in  Lalita-vistara,  p.  515.
 
 
-III.  A    PARABLE.  71
-
 propitiated  the  Buddha,  be  allowed  to  make  a  vow
 for  Buddhaship.
 
 Thereupon  the  venerable  .Sariputra  thus  spoke
-to  the  Lord :  My  doubt  is  gone,  O  Lord,  my  un-
-certainty is  at  an  end  on  hearing  from  the  mouth
+to  the  Lord :  My  doubt  is  gone,  O  Lord,  my  uncertainty is  at  an  end  on  hearing  from  the  mouth
 of  the  Lord  my  destiny  to  supreme  enlightenment.
 But  these  twelve  hundred  self-controlled  (disciples),
 O  Lord,  who  have  been  placed  by  thee  on  the  stage
-of  .Saikshas1,  have  been  thus  admonished  and  in-
-structed :  '  My  preaching  of  the  law,  O  monks,  comes
-to  this,  that  deliverance  from  birth,  decrepitude,  dis-
-ease, and  death  is  inseparably  connected  with  Nir-
+of  .Saikshas1,  have  been  thus  admonished  and  instructed :  '  My  preaching  of  the  law,  O  monks,  comes
+to  this,  that  deliverance  from  birth,  decrepitude,  disease, and  death  is  inseparably  connected  with  Nir-
 vana;' and  these  two  thousand  monks,  O  Lord,  thy
 disciples,  both  those  who  are  still  under  training  and
 adepts,  who  all  of  them  are  free  from  false  views
@@ -5105,26 +4719,19 @@ about  cessation  of  existence,  free,  in  short,  from  all
 false  views,  who  are  fancying  themselves  to  have
 reached  the  stage  of  Nirvana,  these  have  fallen  into
 uncertainty  by  hearing  from  the  mouth  of  the  Lord
-this  law  which  they  had  not  heard  before.  There-
-fore, O  Lord,  please  speak  to  these  monks,  to  dispel
-their  uneasiness,  so  that  the  four  classes  of  the  audi-
-ence, O  Lord,  may  be  relieved  from  their  doubt  and
+this  law  which  they  had  not  heard  before.  Therefore, O  Lord,  please  speak  to  these  monks,  to  dispel
+their  uneasiness,  so  that  the  four  classes  of  the  audience, O  Lord,  may  be  relieved  from  their  doubt  and
 perplexity.
 
 On  this  speech  of  the  venerable  .Sariputra  the  Lord
 
 
 1  I.e.  of  those  who  are  under  training,  Pali  sekho.  The  term
-is  applied  to  the  first  seven  degrees  of  persons  striving  for  sancti-
-fication,  the  eighth,  or  Arhat,  being  Araiksha  (Asekha).  It  implies
+is  applied  to  the  first  seven  degrees  of  persons  striving  for  sanctification,  the  eighth,  or  Arhat,  being  Araiksha  (Asekha).  It  implies
 that  they  still  have  a  remainder  of  human  passion  to  eradicate,
 still  duties  to  perform,  still  a  probation  to  be  passed  through ;  see
 Childers,  Pali  Diet.  p.  472.  The  seven  degrees  of  Saiksha  answer  to
-the  sevenfold  preparatory  wisdom  in  the  Yoga  system ;  see  Yoga-
-j&stra  2,  27.
-
-
-72
+the  sevenfold  preparatory  wisdom  in  the  Yoga  system ;  see  Yogaj&stra  2,  27.
 
 
 SADDHARMA-PtWDARIKA.  ni.
@@ -5132,16 +4739,14 @@ SADDHARMA-PtWDARIKA.  ni.
 
 said  to  him  the  following :  Have  I  not  told  thee
 before,  .Sariputra,  that  the  Tathagata,  &c.,  preaches
-the  law  by  able  devices,  varying  directions  and  indi-
-cations, fundamental  ideas,  interpretations,  with  due
+the  law  by  able  devices,  varying  directions  and  indications, fundamental  ideas,  interpretations,  with  due
 regard  to  the  different  dispositions  and  inclinations
 of  creatures  whose  temperaments1  are  so  various  ?
 All  his  preachings  of  the  law  have  no  other  end
 but  supreme  and  perfect  enlightenment,  for  which  he
 is  rousing  beings  to  the  Bodhisattva -course.  But,
 .Sariputra,  to  elucidate  this  matter  more  at  large,
-I  will  tell  thee  a  parable,  for  men  of  good  under-
-standing will  generally  readily  enough  catch  the
+I  will  tell  thee  a  parable,  for  men  of  good  understanding will  generally  readily  enough  catch  the
 meaning  of  what  is  taught  under  the  shape  of  a
 parable.
 
@@ -5152,8 +4757,7 @@ aged,  decrepit,  very  advanced  in  years,  rich,  wealthy,
 opulent ;  he  had  a  great  house,  high,  spacious,  built  a
 long  time  ago  and  old,  inhabited  by  some  two,  three,
 four,  or  five  hundred  living  beings.  The  house  had
-but  one  door,  and  a  thatch ;  its  terraces  were  totter-
-ing, the  bases  of  its  pillars  rotten,  the  coverings2  and
+but  one  door,  and  a  thatch ;  its  terraces  were  tottering, the  bases  of  its  pillars  rotten,  the  coverings2  and
 plaster  of  the  walls  loose.  On  a  sudden  the  whole
 house  was  from  every  side  put  in  conflagration  by  a
 mass  of  fire.  Let  us  suppose  that  the  man  had
@@ -5163,13 +4767,10 @@ and  that  he  himself  had  come  out  of  the  house.
 Now,  6ariputra,  that  man,  on  seeing  the  house
 from  every  side  wrapt  in  a  blaze  by  a  great  mass  of
 
-1  Dhatv^jaya,  properly  the  disposition  of  the  constitutive  ele-
-ments of  the  body.
+1  Dhatv^jaya,  properly  the  disposition  of  the  constitutive  elements of  the  body.
 
 2  Or,  boards.
 
-
-III.  A   PARABLE.  73
 
 fire,  got  afraid,  frightened,  anxious  in  his  mind,  and
 made  the  following  reflection :  I  myself  am  able  to
@@ -5222,8 +4823,7 @@ play  with,  pretty,  nice,  pleasant,  dear,  amusing,  and
 precious.  The  man,  knowing  the  disposition  of  the
 boys,  says  to  them :  My  children,  your  toys,  which
 are  so  pretty,  precious,  and  admirable,  which  you
-are  so  loth  to  miss,  which  are  so  various  and  multi-
-farious, (such  as)  bullock-carts,  goat-carts,  deer-carts,
+are  so  loth  to  miss,  which  are  so  various  and  multifarious, (such  as)  bullock-carts,  goat-carts,  deer-carts,
 which  are  so  pretty,  nice,  dear,  and  precious  to  you,
 have  all  been  put  by  me  outside  the  house-door  for
 you  to  play  with.  Come,  run  out,  leave  the  house ;
@@ -5247,8 +4847,6 @@ father  is  sitting,  and  say :  '  Father,  give  us  those
 toys  to  play  with,  those  bullock-carts,  goat-carts,  and
 
 
-III.  A    PARABLE.  75
-
 deer-carts.'  Then,  .Sariputra,  the  man  gives  to  his
 sons,  who  run  swift  as  the  wind,  bullock-carts  only,
 made  of  seven  precious  substances,  provided  with
@@ -5259,11 +4857,9 @@ flowers,  carpeted  with  cotton  mattresses  and  woollen
 coverlets,  covered  with  white  cloth  and  silk,  having
 on  both  sides  rosy  cushions,  yoked  with  white,  very
 fair  and  fleet  bullocks,  led  by  a  multitude  of  men.
-To  each  of  his  children  he  gives  several  bullock-
-carts  of  one  appearance  and  one  kind,  provided  with
+To  each  of  his  children  he  gives  several  bullockcarts  of  one  appearance  and  one  kind,  provided  with
 flags,  and  swift  as  the  wind.  That  man  does  so,
-.Sariputra,  because  being  rich,  wealthy,  and  in  posses-
-sion of  many  treasures  and  granaries,  he  rightly
+.Sariputra,  because  being  rich,  wealthy,  and  in  possession of  many  treasures  and  granaries,  he  rightly
 thinks  :  Why  should  I  give  these  boys  inferior  carts,
 all  these  boys  being  my  own  children,  dear  and
 precious  ?  I  have  got  such  great  vehicles,  and
@@ -5275,8 +4871,7 @@ the  boys  are  mounting  the  vehicles  with  feelings  of
 astonishment  and  wonder.  Now,  .Sariputra,  what
 is  thy  opinion  ?  Has  that  man  made  himself
 guilty  of  a  falsehood  by  first  holding  out  to  his
-children  the  prospect  of  three  vehicles  and  after-
-wards giving  to  each  of  them  the  greatest  vehicles
+children  the  prospect  of  three  vehicles  and  afterwards giving  to  each  of  them  the  greatest  vehicles
 only,  the  most  magnificent  vehicles  ?
 
 .Sariputra  answered :  By  no  means,  Lord ;  by  no
@@ -5300,13 +4895,11 @@ and  far  less  now  that  he,  considering  his  having
 plenty  of  treasures  and  prompted  by  no  other  motive
 but  the  love  of  his  children,  gives  to  all,  to  coax1
 them,  vehicles  of  one  kind,  and  those  the  greatest
-vehicles.  That  man,  Lord,  is  not  guilty  of  false-
-hood.
+vehicles.  That  man,  Lord,  is  not  guilty  of  falsehood.
 
 The  venerable  .Sariputra  having  thus  spoken,  the
 Lord  said  to  him  :  Very  well,  very  well,  6a.riputra,
-quite  so ;  it  is  even  as  thou  sayest.  So,  too,  S£ri-
-putra,  the  Tathagata,  &c.,  is  free  from  all  dangers,
+quite  so ;  it  is  even  as  thou  sayest.  So,  too,  S£riputra,  the  Tathagata,  &c.,  is  free  from  all  dangers,
 wholly  exempt  from  all  misfortune,  despondency,
 calamity,  pain,  grief,  the  thick  enveloping  dark  mists
 of  ignorance.  He,  the  Tathagata,  endowed  with
@@ -5314,30 +4907,23 @@ Buddha-knowledge,  forces,  absence  of  hesitation,
 uncommon  properties,  and  mighty  by  magical
 power,  is  the  father  of  the  world 2,  who  has  reached
 the  highest  perfection  in  the  knowledge  of  skilful
-means,  who  is  most  merciful,  long-suffering,  bene-
-volent, compassionate.  He  appears  in  this  triple
+means,  who  is  most  merciful,  long-suffering,  benevolent, compassionate.  He  appears  in  this  triple
 
 1  Slaghamana.
 
 2  Here  the  Buddha  is  represented  as  a  wise  and  benevolent
-father ;  he  is  the  heavenly  father,  Brahma.    As  such  he  was  repre-
-sented as  sitting  on  a  '  lotus  seat.'     How  common  this  representa-
+father ;  he  is  the  heavenly  father,  Brahma.    As  such  he  was  represented as  sitting  on  a  '  lotus  seat.'     How  common  this  representa-
 tion was  in  India,  at  least  in  the  sixth  century  of  our  era,  appears
-from  Varaha-Mihira's  Br/hat-Sawzhita,  chap.  58,  44,  where  the  fol-
-lowing rule  is  laid  down  for  the  Buddha  idols :  '  Buddha  shall  be
+from  Varaha-Mihira's  Br/hat-Sawzhita,  chap.  58,  44,  where  the  following rule  is  laid  down  for  the  Buddha  idols :  '  Buddha  shall  be
 (represented)  sitting  on  a  lotus  seat,  like  the  father  of  the  world.'
 
-
-III.  A   PARABLE.  77
 
 world,  which  is  like  a  house  the  roof1  and  shelter
 whereof  are  decayed,  (a  house)  burning  by  a  mass
 of  misery,  in  order  to  deliver  from  affection,  hatred,
 and  delusion  the  beings  subject  to  birth,  old  age,
-disease,  death,  grief,  wailing,  pain,  melancholy,  de-
-spondency, the  dark  enveloping  mists  of  ignorance,  in
-order  to  rouse  them  to  supreme  and  perfect  enlighten-
-ment. Once  born,  he  sees  how  the  creatures  are
+disease,  death,  grief,  wailing,  pain,  melancholy,  despondency, the  dark  enveloping  mists  of  ignorance,  in
+order  to  rouse  them  to  supreme  and  perfect  enlightenment. Once  born,  he  sees  how  the  creatures  are
 burnt,  tormented,  vexed,  distressed  by  birth,  old
 age,  disease,  death,  grief,  wailing,  pain,  melancholy,
 despondency ;  how  for  the  sake  of  enjoyments,  and
@@ -5348,8 +4934,7 @@ they  will  in  a  future  state  suffer  various  pains,  in
 hell,  in  the  brute  creation,  in  the  realm  of  Yama ;
 suffer  such  pains  as  poverty  in  the  world  of  gods  or
 men,  union  with  hateful  persons  or  things,  and
-separation  from  the  beloved  ones.  And  whilst  in-
-cessantly whirling  in  that  mass  of  evils  they  are
+separation  from  the  beloved  ones.  And  whilst  incessantly whirling  in  that  mass  of  evils  they  are
 sporting,  playing,  diverting  themselves ;  they  do  not
 fear,  nor  dread,  nor  are  they  seized  with  terror;  they
 do  not  know,  nor  mind ;  they  are  not  startled,  do
@@ -5359,8 +4944,7 @@ and  run  hither  and  thither.  Though  overwhelmed
 by  that  mass  of  evil,  they  do  not  conceive  the  idea
 that  they  must  beware  of  it.
 
-Under  such  circumstances,  .Sariputra,  the  Tatha-
-gata  reflects  thus :  Verily,  I  am  the  father  of  these
+Under  such  circumstances,  .Sariputra,  the  Tathagata  reflects  thus :  Verily,  I  am  the  father  of  these
 beings;  I  must  save  them  from  this  mass  of  evil,  and
 bestow  on  them  the  immense,  inconceivable  bliss  of
 
@@ -5376,13 +4960,11 @@ rest.
 Then,  .Sariputra,  the  Tathagata  reflects  thus :  If,
 in  the  conviction  of  my  possessing  the  power  of
 knowledge  and  magical  faculties,  I  manifest  to  these
-beings  the  knowledge,  forces,  and  absence  of  hesita-
-tion of  the  Tathagata,  without  availing  myself  of
+beings  the  knowledge,  forces,  and  absence  of  hesitation of  the  Tathagata,  without  availing  myself  of
 some  device,  these  beings  will  not  escape.  For  they
 are  attached  to  the  pleasures  of  the  five  senses,  to
 worldly  pleasures ;  they  will  not  be  freed  from  birth,
-old  age,  disease,  death,  grief,  wailing,  pain,  melan-
-choly, despondency,  by  which  they  are  burnt,  tor-
+old  age,  disease,  death,  grief,  wailing,  pain,  melancholy, despondency,  by  which  they  are  burnt,  tor-
 mented, vexed,  distressed.  Unless  they  are  forced
 to  leave  the  triple  world  which  is  like  a  house  the
 shelter  and  roof  whereof  is  in  a  blaze,  how  are  they
@@ -5393,25 +4975,20 @@ arms,  without  using  the  strength  of  his  arms,  attracts
 his  children  out  of  the  burning  house  by  an  able
 device,  and  afterwards  gives  them  magnificent,  great
 carts,  so,  .Sariputra,  the  Tathagata,  the  Arhat,  &c.,
-possessed  of  knowledge  and  freedom  from  all  hesita-
-tion, without  using  them,  in  order  to  attract  the
+possessed  of  knowledge  and  freedom  from  all  hesitation, without  using  them,  in  order  to  attract  the
 creatures  out  of  the  triple  world  which  is  like  a
 burning  house  with  decayed  roof  and  shelter,  shows,
 by  his  knowledge  of  able  devices,  three  vehicles,
 viz.  the  vehicle  of  the  disciples,  the  vehicle  of  the
-Pratyekabuddhas,  and  the  vehicle  of  the  Bodhisat-
-tvas.  By  means  of  these  three  vehicles  he  attracts
+Pratyekabuddhas,  and  the  vehicle  of  the  Bodhisattvas.  By  means  of  these  three  vehicles  he  attracts
 the  creatures  and  speaks  to  them  thus :  Do  not
 
 1  Paribhotsyante;  BurnouPs  rendering, '  pourront  jouir,' points
 to  a  reading  paribhokshyante.
 
 
-III.  A    PARABLE.  79
-
 delight  in  this  triple  world,  which  is  like  a  burning
-house,  in  these  miserable  forms,  sounds,  odours,  fla-
-vours, and  contacts l.  For  in  delighting  in  this  triple
+house,  in  these  miserable  forms,  sounds,  odours,  flavours, and  contacts l.  For  in  delighting  in  this  triple
 world  ye  are  burnt,  heated,  inflamed  with  the  thirst
 inseparable  from  the  pleasures  of  the  five  senses.
 Fly  from  this  triple  world ;  betake  yourselves  to
@@ -5422,18 +4999,15 @@ shall  give  you  these  three  vehicles ;  make  an  effort
 to  run  out  of  this  triple  world.  And  to  attract
 them  I  say :  These  vehicles  are  grand,  praised  by
 the  Aryas,  and  provided  with  most  pleasant  things ;
-with  such  you  are  to  sport,  play,  and  divert  your-
-selves in  a  noble 2  manner.  Ye  will  feel  the  great
+with  such  you  are  to  sport,  play,  and  divert  yourselves in  a  noble 2  manner.  Ye  will  feel  the  great
 delight  of  the  faculties 3,  powers 4,  constituents  of
-Bodhi,  meditations,  the  (eight)  degrees  of  emancipa-
-tion, self-concentration,  and  the  results  of  self-con-
+Bodhi,  meditations,  the  (eight)  degrees  of  emancipation, self-concentration,  and  the  results  of  self-con-
 centration, and  ye  will  become  greatly  happy  and
 cheerful.
 
 
 1  The  same  idea  and  the  same  moral  form  the  warp  and  woof
-of  the  sermon  on  the  hill  of  Gayarfrsha,  the  Aditta-pariyaya,  Maha-
-vagga  I,  21.     This  sermon  was  the  second  in  course  of  time,  if
+of  the  sermon  on  the  hill  of  Gayarfrsha,  the  Aditta-pariyaya,  Mahavagga  I,  21.     This  sermon  was  the  second  in  course  of  time,  if
 we  leave  out  of  account  the  repetitions  of  the  first,  preached  near
 Benares.     The  parable  also  is  propounded  at  the  time  when  the
 Master  moves  the  wheel  of  the  law  for  the  second  time ;  see  above,
@@ -5456,8 +5030,7 @@ go  SADDHARMA-PIWJDARIKA.  III.
 
 Now,  -Sariputra,  the  beings  who  have  become  wise
 have  faith  in  the  Tathagata,  the  father  of  the  world,
-and  consequently  apply  themselves  to  his  command-
-ments. Amongst  them  there  are  some  who,  wishing
+and  consequently  apply  themselves  to  his  commandments. Amongst  them  there  are  some  who,  wishing
 to  follow  the  dictate  of  an  authoritative  voice,  apply
 themselves  to  the  commandment  of  the  Tathigata
 to  acquire  the  knowledge  of  the  four  great  truths,
@@ -5478,8 +5051,7 @@ prompted  by  the  desire  of  getting  a  cart  yoked  with
 goats.  Others  again  desirous  of  the  knowledge  of  the
 all-knowing,  the  knowledge  of  Buddha,  the  knowledge
 of  the  self-born  one,  the  science  without  a  master,
-apply  themselves  to  the  commandment  of  the  Tatha-
-gata to  learn  to  understand  the  knowledge,  powers,
+apply  themselves  to  the  commandment  of  the  Tathagata to  learn  to  understand  the  knowledge,  powers,
 and  freedom  from  hesitation  of  the  Tathagata,  for
 the  sake  of  the  common  weal  and  happiness,  out  of
 compassion  to  the  world,  for  the  benefit,  weal,  and
@@ -5489,8 +5061,6 @@ These  one  may  say  to  be  those  who,  coveting  the
 great  vehicle,  fly  from  the  triple  world.  Therefore
 they  are  called  Bodhisattvas  Mahasattvas.  They
 
-
-III.  A    PARABLE.  8 1
 
 may  be  likened  to  those  among  the  boys  who  have
 fled  from  the  burning  house  prompted  by  the  desire
@@ -5511,12 +5081,10 @@ so,  too,  .Sariputra,  the  Tathagata,  the  Arhat,  &c.,
 considering  that  he  possesses  great  wealth  of
 knowledge,  power,  and  absence  of  hesitation,  and
 that  all  beings  are  his  children,  leads  them  by  no
-other  vehicle  but  the  Buddha- vehicle  to  full  de-
-velopment2. But  he  does  not  teach  a  particular
+other  vehicle  but  the  Buddha- vehicle  to  full  development2. But  he  does  not  teach  a  particular
 Nirvana  for  each  being;  he  causes  all  beings  to
 reach  complete  Nirvana  by  means  of  the  complete
-Nirvana  of  the  Tathagata.  And  those  beings,  Sari-
-putra, who  are  delivered  from  the  triple  world,  to
+Nirvana  of  the  Tathagata.  And  those  beings,  Sariputra, who  are  delivered  from  the  triple  world,  to
 them  the  Tathdgata  gives  as  toys  to  amuse  themselves
 with  the  lofty  pleasures  of  the  Aryas,  the  pleasures
 
@@ -5544,11 +5112,9 @@ falsehood  for  having  held  out  to  those  boys  the
 prospect  of  three  vehicles  and  given  to  all  of  them
 but  one  great  vehicle,  a  magnificent  vehicle  made  of
 seven  precious  substances,  decorated  with  all  sorts
-of  ornaments,  a  vehicle  of  one  kind,  the  most  egre-
-gious of  all,  so,  too,  .Sariputra,  the  Tathagata,  the
+of  ornaments,  a  vehicle  of  one  kind,  the  most  egregious of  all,  so,  too,  .Sariputra,  the  Tathagata,  the
 Arhat,  &c.,  tells  no  falsehood  when  by  an  able
-device  he  first  holds  forth  three  vehicles  and  after-
-wards leads  all  to  complete  Nirvana  by  the  one
+device  he  first  holds  forth  three  vehicles  and  afterwards leads  all  to  complete  Nirvana  by  the  one
 great  vehicle.  For  the  Tathagata,  Sariputra,  who
 is  rich  in  treasures  and  storehouses  of  abundant
 knowledge,  "powers,  and  absence  of  hesitation,  is
@@ -5558,8 +5124,7 @@ way,  .Sclriputra,  one  has  to  understand  how  the
 Tathagata  by  an  able  device  and  direction  shows
 but  one  vehicle,  the  great  vehicle.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 39.  A  man  has1  an  old  house,  large,  but  very
 infirm ;  its  terraces  are  decaying  and  the  columns
@@ -5567,8 +5132,7 @@ rotten  at  their  bases.
 
 40.  The  windows  and  balconies  are  partly  ruined,
 the  wall  as  well  as  its  coverings  and  plaster  decaying;
-the  coping  shows  rents  from  age ;  the  thatch  is  every-
-where pierced  with  holes.
+the  coping  shows  rents  from  age ;  the  thatch  is  everywhere pierced  with  holes.
 
 41.  It  is  inhabited  by  no  less  than  five  hundred
 beings  ;  containing  many  cells  and  closets  filled  with
@@ -5577,8 +5141,6 @@ excrements  and  disgusting.
 1  The  original  has  '  as  if  a  man  had,'  &c.     I  have  changed  the
 construction  to  render  it  less  wearisome.
 
-
-III.  A    PARABLE.  83
 
 42.  Its  roof-rafters  are  wholly  ruined;   the  walls
 and  partitions  crumbling   away;    kofis   of  vultures
@@ -5613,14 +5175,12 @@ they  make  nests  to  deposit  their  brood,  which  is
 often  devoured  by  the  goblins.
 
 49.  And  when   those   cruel-minded  goblins   are
-satiated  with  feeding  upon  the  flesh  of  other  crea-
-tures, so  that  their  bodies  are  big,  then  they  com-
+satiated  with  feeding  upon  the  flesh  of  other  creatures, so  that  their  bodies  are  big,  then  they  com-
 mence sharply  fighting  on  the  spot.
 
 50.  In  the  wasted   retreats  are  dreadful,  malign
 urchins,  some  of  them  measuring  one  span,  others
-one  cubit  or  two  cubits,  all  nimble  in  their  move-
-ments.
+one  cubit  or  two  cubits,  all  nimble  in  their  movements.
 
 51.  They  are  in  the  habit  of  seizing  dogs  by  the
 
@@ -5642,8 +5202,7 @@ or  dogs,  go  with  entangled  hair,  and  utter  plaintive
 cries  from  want  of  food.
 
 54.  Those  goblins,  ghosts,  imps,  like  vultures,  are
-always  looking  out  through  the  windows  and  loop-
-holes, in  all  directions  in  search  of  food.
+always  looking  out  through  the  windows  and  loopholes, in  all  directions  in  search  of  food.
 
 55.  Such    is   that   dreadful   house,  spacious  and
 high,  but  very  infirm,  full  of  holes,  frail  and  dreary.
@@ -5659,8 +5218,7 @@ the  columns  and  partitions  in  flame  are  crackling  most
 dreadfully,  whilst  goblins  and  ghosts  are  yelling.
 
 58.  Vultures  are  driven  out  by  hundreds;  urchins
-withdraw   with   parched   faces  ;    hundreds   of  mis-
-chievous  beasts   of  prey1   run,   scorched,  on  every
+withdraw   with   parched   faces  ;    hundreds   of  mischievous  beasts   of  prey1   run,   scorched,  on  every
 side,  crying  and  shouting 2.
 
 59.  Many  poor  devils  move  about,  burnt  by  the
@@ -5670,16 +5228,12 @@ teeth,  and  bespatter  each  other  with  their  blood.
 1  Vyarfa.
 
 2  Krosanti,  var.  lect.  kroshanti.     Burnoufs  version,  'sont  en
-fureur,'  points  to  a  reading  roshanti,  which,  however,  is  not  appro-
-priate, for  the  would-be  conflagration  is  a  description  of  the  time
+fureur,'  points  to  a  reading  roshanti,  which,  however,  is  not  appropriate, for  the  would-be  conflagration  is  a  description  of  the  time
 of  twilight.
 
 
-III.  A    PARABLE.  85
-
 60.  Hyenas  also  perish  there,  in  the  act  of  eating
-one  another.     The  excrements  burn,  and  a  loath-
-some stench  spreads  in  all  directions.
+one  another.     The  excrements  burn,  and  a  loathsome stench  spreads  in  all  directions.
 
 61.  The  centipedes,  trying  to  fly,  are  devoured  by
 the  urchins.     The  ghosts,  with  burning  hair,  hover
@@ -5691,8 +5245,7 @@ But  the  man  who  is  the  master  of  the  house  looks
 on  from  without.
 
 63.  And  he  hears  his  own  children,  whose  minds
-are  engaged  in  playing  with  their  toys,  in  their  fond-
-ness of  which  they  amuse  themselves,  as  fools  do  in
+are  engaged  in  playing  with  their  toys,  in  their  fondness of  which  they  amuse  themselves,  as  fools  do  in
 their  ignorance.
 
 64.  And  as  he  hears  them  he  quickly  steps  in1  to
@@ -5700,8 +5253,7 @@ save  his  children,  lest  his  ignorant  children  might
 perish  in  the  flames.
 
 65.  He  tells  them  the  defect  of  the  house,  and
-says :  This,  young  man2  of  good  family,  is  a  miser-
-able house,  a  dreadful  one ;  the  various  creatures  in
+says :  This,  young  man2  of  good  family,  is  a  miserable house,  a  dreadful  one ;  the  various  creatures  in
 it,  and  this  fire  to  boot,  form  a  series  of  evils.
 
 66.  In  it  are  snakes,  mischievous  goblins,  urchins,
@@ -5710,8 +5262,7 @@ and  jackals,  as  well  as  vultures,  seeking  their  prey.
 
 67.  Such  beings  live  in  this  house,  which,  apart
 
-1  This  trait  is  wanting  in  the  prose  relation.     The   explana-
-tion, I  fancy,  is  this  :    If  the  description  of  the  glowing  house
+1  This  trait  is  wanting  in  the  prose  relation.     The   explanation, I  fancy,  is  this  :    If  the  description  of  the  glowing  house
 refers   to   morning  twilight,  the   father   (Pitamaha,  or  Day-god)
 will  needs  step  in  afterwards ;  if,  on  the  other  hand,  the  evening
 twilight  is  meant,  he  will  already  have  left  the  house.     In  the
@@ -5729,10 +5280,8 @@ from  the  fire,  is  extremely  dreadful,  and  miserable
 enough ;  and  now  comes  to  it  this  fire  blazing  on
 all  sides.
 
-68.  The   foolish   boys,   however,    though   admo-
-nished, do  not  mind  their  father's  words,  deluded  as
-they  are  by  their  toys ;  they  do  not  even  under-
-stand him.
+68.  The   foolish   boys,   however,    though   admonished, do  not  mind  their  father's  words,  deluded  as
+they  are  by  their  toys ;  they  do  not  even  understand him.
 
 69.  Then  the  man  thinks :  I  am  now  in  anxiety
 on  account  of  my  children.    What  is  the  use  of  my
@@ -5771,18 +5320,15 @@ prose  version  has  effaced  a  necessary  trait  of  the  story.  Therefore
 
 ITI.  A   PARABLE.  87
 
-75.  These  poor  sons  of  mine,  whom  I  have  re-
-covered with  difficulty,  my  own  dear  twenty  young
+75.  These  poor  sons  of  mine,  whom  I  have  recovered with  difficulty,  my  own  dear  twenty  young
 children,  were  in  a  dreadful,  wretched,  horrible  house,
 full  of  many  animals.
 
 76.  As  it  was  burning  and  wrapt  in  thousands  of
 flames,  they  were   amusing   themselves  in  it  with
-playing,  but  now  I  have  rescued  them  all.    There-
-fore I  now  feel  most  happy.
+playing,  but  now  I  have  rescued  them  all.    Therefore I  now  feel  most  happy.
 
-77.  The  children,  seeing  their  father  happy,  ap-
-proached him,  and  said :  Dear  father,  give  us,  as  you
+77.  The  children,  seeing  their  father  happy,  approached him,  and  said :  Dear  father,  give  us,  as  you
 have  promised1,  those  nice  vehicles  of  three  kinds ;
 
 78.  And   make   true   all   that  you   promised   us
@@ -5801,8 +5347,7 @@ a  row  of  tinkling  bells,   decorated  with   umbrellas
 and  flags,  and  adorned  with  a  network  of  gems  and
 pearls.
 
-8 1.  They  are   embellished  with   gold,   and   arti-
-ficial wreaths  hanging  down  here  and  there ;  covered
+8 1.  They  are   embellished  with   gold,   and   artificial wreaths  hanging  down  here  and  there ;  covered
 all   around   with    excellent    cloth    and    fine   white
 muslin.
 
@@ -5836,8 +5381,7 @@ all  creatures  who,  childlike,  are  captivated  by  the
 pleasures  of  the  triple  world,  are  my  sons.
 
 86.  This  triple  world  is  as  dreadful  as  that  house,
-overwhelmed  with  a  number  of  evils,  entirely  in-
-flamed on  every  side  by  a  hundred  different  sorts  of
+overwhelmed  with  a  number  of  evils,  entirely  inflamed on  every  side  by  a  hundred  different  sorts  of
 birth,  old  age,  and  disease.
 
 87.  But  I,  who  am  detached  from  the  triple  world
@@ -5866,31 +5410,24 @@ which  are  known  to  me.
 i.  e.  to  allay.
 
 
-III.  A    PARABLE.  89
-
 who  are  mighty  in  the  six  transcendent  faculties
-(Abhi^was)  and  the  triple  science,  the  Pratyeka-
-buddhas,  as  well  as  the  Bodhisattvas  unable  to
+(Abhi^was)  and  the  triple  science,  the  Pratyekabuddhas,  as  well  as  the  Bodhisattvas  unable  to
 slide  back ;
 
 91.  And  those  (others)  who  equally  are  my  sons,
 to  them  I  just  now  am  showing,  by  means  of  this
-excellent  allegory,  the  single  Buddha-vehicle.     Re-
-ceive it ;  ye  shall  all  become  Ginas.
+excellent  allegory,  the  single  Buddha-vehicle.     Receive it ;  ye  shall  all  become  Ginas.
 
-92.  It  is  most  excellent  and  sweet,  the  most  ex-
-alted in  the  world,  that  knowledge  of  the  Buddhas,
+92.  It  is  most  excellent  and  sweet,  the  most  exalted in  the  world,  that  knowledge  of  the  Buddhas,
 the  most  high  among  men;  it  is  something  sublime
 and  adorable.
 
-93.  The  powers,  meditations,  degrees  of  emanci-
-pation and  self-concentration  by  many  hundreds  of
+93.  The  powers,  meditations,  degrees  of  emancipation and  self-concentration  by  many  hundreds  of
 kotis,  that  is  the  exalted  vehicle  in  which  the  sons
 of  Buddha  take  a  never-ending  delight.
 
 94.  In  playing  with  it  they  pass  days  and  nights,
-fortnights,  months,  seasons,  years,  intermediate  kal-
-pas,  nay,  thousands  of  ko/is  of  kalpas1.
+fortnights,  months,  seasons,  years,  intermediate  kalpas,  nay,  thousands  of  ko/is  of  kalpas1.
 
 95.  This    is   the   lofty   vehicle   of  jewels   which
 sundry  Bodhisattvas  and  the  disciples  listening  to
@@ -5915,8 +5452,7 @@ Lebensbeschreibung,  p.  255.
 
 9O  SADDHARMA-PUJVDARiKA.  ITT.
 
-vehicle  in  this  world  anywhere  to  be  found,  in  what-
-ever direction  thou  shalt  search,  apart  from  the
+vehicle  in  this  world  anywhere  to  be  found,  in  whatever direction  thou  shalt  search,  apart  from  the
 device  (shown)  by  the  most  high  among  men.
 
 97.  Ye  are  my  children,  I  am  your  father,  who  has
@@ -5960,8 +5496,6 @@ what  the  dictionaries  give.
 bhotu).  The  words  na  ko  spoil  metre  and  sense,  and  must  be
 expunged.
 
-
-III.  A   PARABLE.  91
 
 putra  ?  They  are  emancipated  from  chimeras1.  Yet
 they  are  not  wholly  freed ;  the  Chief  declares  that
@@ -6052,8 +5586,7 @@ and  become  a  sport  to  others.
 1 1 6.  Under  such  circumstances  they  shall  grow
 blackish  of  colour,  spotted,  covered  with  sores,  itchy;
 moreover,  they  shall   be  hairless  and  feeble,   (all)
-those  who  have   an  aversion  to   my  supreme  en-
-lightenment.
+those  who  have   an  aversion  to   my  supreme  enlightenment.
 
 
 TTT.
@@ -6062,19 +5595,14 @@ TTT.
 A    PARABLE.
 
 
-93
-
-
 117.  They  are  ever  despised  amongst  animals ;  hit
 by  clods  or  weapons  they  yell ;  everywhere  they  are
-threatened  with  sticks,  and  their  bodies  are  emaci-
-ated from  hunger  and  thirst.
+threatened  with  sticks,  and  their  bodies  are  emaciated from  hunger  and  thirst.
 
 1 1 8.  Sometimes   they  become   camels   or  asses,
 carrying    loads,    and    are   beaten  with  whips1  and
 sticks ;  they  are  constantly  occupied  with  thoughts
-of  eating,  the  fools  who  have  scorned  the  Buddha-
-rule.
+of  eating,  the  fools  who  have  scorned  the  Buddharule.
 
 119.  At  other  times   they  become  ugly  jackals,
 half  blind  and  crippled2;  the  helpless  creatures  are
@@ -6100,8 +5628,7 @@ Sutra.
 sada).     Burnoufs   'cent   batons'  is  evidently  based   upon   the
 reading  sata.
 
-2  Ka«akaku»</aka s £a,  var.  lect.  vftlaka0, with  marginal  correc-
-tion kanaka0.     The  translation  is  doubtful;    cf.  St.  116  below.
+2  Ka«akaku»</aka s £a,  var.  lect.  vftlaka0, with  marginal  correction kanaka0.     The  translation  is  doubtful;    cf.  St.  116  below.
 Kuflfifeka  I  connect  with  ku#/=vikalikara«e  and  the  Greek
 KuAAdr.
 
@@ -6110,9 +5637,6 @@ the  reading  I  have  followed,  taking  sawkkin  to  be  identical  with
 sakkin,  a  Prakrit  form  of  Sanskrit  sarpin.
 
 4  Kufl</akalahgaka,  for  which  I  read  °kalahgaka.
-
-
-94
 
 
 SADDHARMA-PUJVDARiKA.  III.
@@ -6131,8 +5655,7 @@ diseases  they  go  about  in  the  world,  unprotected.
 unwilling  to  give  them  much,  and  what  he  gives  is
 soon  lost.     Such  is  the  fruit  of  sinfulness.
 
-126.  Even  the  best-prepared  medicaments,  admi-
-nistered to  them   by   able    men,    do,  under   those
+126.  Even  the  best-prepared  medicaments,  administered to  them   by   able    men,    do,  under   those
 circumstances,  but   increase   their   illness,  and   the
 disease  has  no  end.
 
@@ -6142,8 +5665,7 @@ goods ;  (all  this)  befalls  the  sinner.
 
 128.  Never  does  he  behold  the  Lord  of  the  world,
 the  King  of  kings  ruling  the  earth 2,  for  he  is  doomed
-to  live  at  a  wrong  time3,  he  who  scorns  my  Buddha-
-rule.
+to  live  at  a  wrong  time3,  he  who  scorns  my  Buddharule.
 
 129.  Nor  does  that  foolish  person  listen  to  the
 law ;  he  is  deaf  and  senseless ;  he  never  finds  rest,
@@ -6160,11 +5682,8 @@ p.  17.
 
 2  Mahi,  i.e.  Sansk.  mahim.
 
-3  In  the  darkness  of  hell,  i.  e.  in  common  parlance,  at  night-
-time, when  nobody  can  behold  the  sun.
+3  In  the  darkness  of  hell,  i.  e.  in  common  parlance,  at  nighttime, when  nobody  can  behold  the  sun.
 
-
-III.  A    PARABLE.  95
 
 131.  Hell  is  his  garden  (or  monastery),  a  place
 of  misfortune1  his  abode;  he  is  continually  living
@@ -6187,22 +5706,18 @@ wombs.
 ALon,  enumerating  the  evils  of  him  who  shall  scorn
 my  Sutra,  I  should  not  come  to  an  end.
 
-136.  And  since  I  am  fully  aware  of  it,  I  com-
-mand thee,  .Sariputra,  that  thou  shalt  not  expound  a
+136.  And  since  I  am  fully  aware  of  it,  I  command thee,  .Sariputra,  that  thou  shalt  not  expound  a
 Sutra  like  this  before  foolish  people.
 
 137.  But    those    who    are    sensible,    instructed,
 thoughtful,    clever,  and  learned,   who   strive   after
-the   highest   supreme  enlightenment,  to   them   ex-
-pound its  real  meaning.
+the   highest   supreme  enlightenment,  to   them   expound its  real  meaning.
 
-138.  Those  who  have  seen  many  ko/is  of  Bud-
-dhas,  planted  immeasurably  many  roots  of  good-
+138.  Those  who  have  seen  many  ko/is  of  Buddhas,  planted  immeasurably  many  roots  of  good-
 ness, and  undertaken  a  strong  vow,  to  them  expound
 its  real  meaning.
 
-139.  Those  who,  full  of  energy  and  ever  kind-
-hearted,    have   a   long   time   been   developing   the
+139.  Those  who,  full  of  energy  and  ever  kindhearted,    have   a   long   time   been   developing   the
 feeling  of  kindness,  have  given  up  body  and  life,
 in  their  presence  thou  mayst  preach  this  Sutra.
 
@@ -6217,8 +5732,7 @@ keep  no  intercourse  with  ignorant  people,  and  are
 content  to  live  in  mountain  caverns,  to  them  expound
 this  hallowed  Sutra.
 
-141.  If  thou  see  sons  of  Buddha  who  attach  them-
-selves to  virtuous  friends   and  avoid  bad  friends,
+141.  If  thou  see  sons  of  Buddha  who  attach  themselves to  virtuous  friends   and  avoid  bad  friends,
 then  reveal  to  them  this  Sutra.
 
 142.  Those  sons  of  Buddha  who  have  not  broken
@@ -6227,8 +5741,7 @@ devoted  to  the  study  of  the  great  Sutras,  before
 those  thou  mayst  propound  this  Sutra.
 
 143.  Those  who  are  not  irascible,  ever  sincere,
-full  of  compassion  for  all  living  beings,  and  respect-
-ful towards   the  Sugata,  before  those  thou  mayst
+full  of  compassion  for  all  living  beings,  and  respectful towards   the  Sugata,  before  those  thou  mayst
 propound  this  Sutra.
 
 144.  To  one  who  in  the  congregation,  without
@@ -6236,8 +5749,7 @@ any  hesitation  and  distraction  of  mind,  speaks  to
 expound  the  law,  with  many  myriads  of  ko/is  of
 illustrations,  thou  mayst  manifest  this  Sutra.
 
-145.  And  he  who,  desirous  of  acquiring  all-know-
-ingness,   respectfully  lifts  his  joined  hands  to  his
+145.  And  he  who,  desirous  of  acquiring  all-knowingness,   respectfully  lifts  his  joined  hands  to  his
 head,  or  who  seeks  in  all  directions  to  find  some
 monk  of  sacred  eloquence ;
 
@@ -6256,16 +5768,13 @@ has  eagerly  sought  for.
 in  which  a  profane  philosophy  is  taught ;  such  books
 
 
-III.  A   PARABLE.  97
-
 are  fit  for  the  foolish ;  avoid  them  and  preach  this
 Sutra.
 
 149.  During  a  full  ALon,  .Sariputra,  I  could  speak
 of  thousands  of  ko/is  of  (connected)  points,  (but
 this  suffices) ;  thou  mayst  reveal  this  Sutra  to  all
-who  are  striving  after  the  highest  supreme  en-
-lightenment.
+who  are  striving  after  the  highest  supreme  enlightenment.
 
 
 [21]  H
@@ -6310,16 +5819,13 @@ we  are  unable,  in  spite  of  the  Lord's  preaching,  to
 
 rv.  DISPOSITION.  99
 
-realise  the  fact  that  all  is  vanity  (or  void),  purpose-
-less (or  causeless,  or  unconditioned),  and  unfixed l ;  we
+realise  the  fact  that  all  is  vanity  (or  void),  purposeless (or  causeless,  or  unconditioned),  and  unfixed l ;  we
 have  conceived  no  longing  after  the  Buddha-laws,  the
-divisions  of  the  Buddha-fields,  the  sports2  of  the  Bodhi-
-sattvas  or  Tathagatas.  For  by  having  fled  out  of  the
+divisions  of  the  Buddha-fields,  the  sports2  of  the  Bodhisattvas  or  Tathagatas.  For  by  having  fled  out  of  the
 triple  world,  O  Lord,  we  imagined  having  attained
 Nirvana,  and  we  are  decrepit  from  old  age.  Hence,
 D  Lord,  though  we  have  exhorted  other  Bodhisattvas
-and  instructed  them  in  supreme  perfect  enlighten-
-ment, we  have  in  doing  so  never  conceived  a  single
+and  instructed  them  in  supreme  perfect  enlightenment, we  have  in  doing  so  never  conceived  a  single
 thought  of  longing.  And  just  now,  O  Lord,  we  are
 hearing  from  the  Lord  that  disciples  also  may  be
 predestined  to  supreme  perfect  enlightenment.  We
@@ -6328,8 +5834,7 @@ gain,  O  Lord,  that  to-day,  on  a  sudden,  we  have
 heard  from  the  Lord  a  voice  such  as  we  never  heard
 before.  We  have  acquired  a  magnificent  jewel,  O
 Lord,  an  incomparable  jewel.  We  had  not  sought,
-nor  searched,  nor  expected,  nor  required  so  mag-
-nificent a  jewel.  It  has  become  clear  to  us3,  O
+nor  searched,  nor  expected,  nor  required  so  magnificent a  jewel.  It  has  become  clear  to  us3,  O
 Lord ;  it  has  become  clear  to  us,  O  Sugata.
 
 It  is  a  case,  O  Lord,  as   if  a  certain  man  went
@@ -6360,8 +5865,7 @@ away  from  his  father  and  betook  himself  to  some
 other  place.  He  lives  there  in  foreign  parts  for
 many  years,  twenty  or  thirty  or  forty  or  fifty.  In
 course  of  time  the  one  (the  father)  becomes  a  great
-man ;  the  other  (the  son)  is  poor ;  in  seeking  a  live-
-lihood for  the  sake  of  food  and  clothing  he  roams  in
+man ;  the  other  (the  son)  is  poor ;  in  seeking  a  livelihood for  the  sake  of  food  and  clothing  he  roams  in
 all  directions  and  goes  to  some  place,  whereas  his
 father  removes  to  another  country.  The  latter  has
 much  wealth,  gold,  corn 1,  treasures,  and  granaries ;
@@ -6410,8 +5914,7 @@ money  and  corn,  treasures  and  granaries.  And  the
 father  of  the  poor  man  happened  to  sit  at  the  door
 of  his  house,  surrounded  and  waited  upon  by  a  great
 crowd  of  Brahmans,  Kshatriyas,  VaLsyas,  and  ^udras;
-he  was  sitting  on  a  magnificent  throne  with  a  foot-
-stool decorated  with  gold  and  silver,  while  dealing
+he  was  sitting  on  a  magnificent  throne  with  a  footstool decorated  with  gold  and  silver,  while  dealing
 with  hundred  thousands  of  ko/is  of  gold-pieces,  and
 fanned  with  a  chowrie,  on  a  spot  under  an  extended
 awning  inlaid  with  pearls  and  flowers  and  adorned
@@ -6437,11 +5940,9 @@ runs  off,  does  not  tarry  from  fear  of  a  series  of
 JO2  SADDHARMA-PLWDARfKA.  IV.
 
 supposed  dangers.  But  the  rich  man,  sitting  on
-the  throne  at  the  door  of  his  mansion,  has  recog-
-nised his  son  at  first  sight,  in  consequence  whereof
+the  throne  at  the  door  of  his  mansion,  has  recognised his  son  at  first  sight,  in  consequence  whereof
 he  is  content,  in  high  spirits,  charmed,  delighted,
-filled  with  joy  and  cheerfulness.  He  thinks  :  Won-
-derful! he  who  is  to  enjoy  this  plenty  of  bullion,
+filled  with  joy  and  cheerfulness.  He  thinks  :  Wonderful! he  who  is  to  enjoy  this  plenty  of  bullion,
 gold,  money  and  corn,  treasures  and  granaries,  has
 been  found!  He  of  whom  I  have  been  thinking
 again  and  again,  is  here  now  that  I  am  old,  aged,
@@ -6461,8 +5962,7 @@ alarmed,  seized  with  a  feeling  of  horripilation  all
 over  his  body,  and  agitated  in  mind,  thinks  by
 himself :  I  fear  lest  I  shall  be  punished  with  capital
 punishment1;  I  am  lost.  He  faints  away,  and  falls
-on  the  earth.  His  father  dismayed  and  near  de-
-spondency2 says  to  those  fellows:  Do  not  carry3  the
+on  the  earth.  His  father  dismayed  and  near  despondency2 says  to  those  fellows:  Do  not  carry3  the
 
 1  According   to   the  reading   vadhyadaw^/ya^.     If  we   read
 vadhyo  dandyaA,  the  rendering  would  be,  executed  or  punished
@@ -6494,8 +5994,7 @@ and  tells  him  :  Go,  sirrah,  whither  thou  likest ;  thou
 art  free.  The  poor  man  is  astonished  and  amazed
 at  hearing  these  words;  he  leaves  that  spot  and
 wanders  to  the  street  of  the  poor  in  search  of  food
-and  clothing.  In  order  to  attract  him  the  house-
-holder practises  an  able  device.  He  employs  for  it
+and  clothing.  In  order  to  attract  him  the  householder practises  an  able  device.  He  employs  for  it
 two  men  ill-favoured  and  of  little  splendour 2.  Go,
 says  he,  go  to  the  man  you  saw  in  this  place ;  hire
 him  in  your  own  name  for  a  double  daily  fee,  and
@@ -6506,16 +6005,13 @@ Help  us  in  clearing  the  heap  of  dirt.  The  two
 (var.  lect.  anayeyur)  iti.  A  would-be  correction  has  anayata,
 at  any  rate  a  blunder,  because  anayantu  would  be  required.  The
 original  reading  may  have  been  anayishur,  in  common  Sanskrit
-Snaishur.  Quite  different  is  the  reading,  atha  khalu  sa  daridra-
-purusham  anayantv  iti  tarn  enazw  jitalena,  &c., '  thereupon
+Snaishur.  Quite  different  is  the  reading,  atha  khalu  sa  daridrapurusham  anayantv  iti  tarn  enazw  jitalena,  &c., '  thereupon
 he  (the  rich  man)  ordered  the  poor  man  to  be  brought  before  him
 and,'  &c.
 
-1  Here  and  repeatedly  in  the  sequel  the  term  hinadhimuk-
-tatS  would  much  better  be  rendered  by  '  humble  or  low  position.'
+1  Here  and  repeatedly  in  the  sequel  the  term  hinadhimuktatS  would  much  better  be  rendered  by  '  humble  or  low  position.'
 
-2  Durvarwav  alpau^askau.     The  idiomatic  meaning  of  dur-
-varwa  a.  is  'having  a  bad  complexion  or  colour  (e.g.  from  ill
+2  Durvarwav  alpau^askau.     The  idiomatic  meaning  of  durvarwa  a.  is  'having  a  bad  complexion  or  colour  (e.g.  from  ill
 health)  and  little  vitality  or  vigour.'     The  artificial  or  so-called
 etymological  meaning  may  be, '  of  bad  caste  and  of  little  splendour
 or  majesty;'  see,  however,  below  at  stanza  21.
@@ -6536,8 +6032,7 @@ and  astonishment.
 
 Then  the  householder  descends  from  his  mansion,
 lays  off  his  wreath  and  ornaments,  parts  with  his
-soft,  clean,  and  gorgeous  attire,  puts  on  dirty  rai-
-ment, takes  a  basket  in  his  right  hand,  smears  his
+soft,  clean,  and  gorgeous  attire,  puts  on  dirty  raiment, takes  a  basket  in  his  right  hand,  smears  his
 body  with  dust,  and  goes  to  his  son,  whom  he
 greets  from  afar,  and  thus  addresses :  Please,  take
 the  baskets  and  without  delay  remove  the  dust.  By
@@ -6549,11 +6044,9 @@ thou  mayst  confidently  ask  me,  be  it  the  price  of  a
 pot,  a  smaller  pot,  a  boiler  or  wood2,  or  be  it  the
 
 1  The  MSS.  vary  considerably,  and  are  moreover  inconsistent
-in  their  readings  of  this  word.     One  has  grz'haparisare  ka/a-
-pallikvm^ikaya;  another,  g.  kapa/aliku/ikayaw  (r.  ka/apali°
+in  their  readings  of  this  word.     One  has  grz'haparisare  ka/apallikvm^ikaya;  another,  g.  kapa/aliku/ikayaw  (r.  ka/apali°
 or  ka/opali°);  a  third,  grz'hapatisakare   (mere  nonsense  for
-grz'haparisare)    ka/apalikufUikayaw.      Paliku/ikd    is   evi-
-dently a  variation  of  upariku/1,  pali  being  a  Mdgadhi  form  for
+grz'haparisare)    ka/apalikufUikayaw.      Paliku/ikd    is   evidently a  variation  of  upariku/1,  pali  being  a  Mdgadhi  form  for
 pari,  or  the  Prakrit  of  prati  or  pari.     The  11  is  clearly  wrong.
 Ka/a  may  mean  mat,  straw,  and  boards.
 
@@ -6571,14 +6064,11 @@ cloak,  man ;  if  thou  shouldst  want  it,  ask  me  for  it,
 I  will  give  it.  Any  utensil  of  such  sort1,  when  thou
 wantest  to  have  it,  I  will  give  thee.  Be  at  ease,
 fellow ;  look  upon  me  as  if  I  were  thy  father,  for  I
-am  older  and  thou  art  younger,  and  thou  hast  ren-
-dered me  much  service  by  clearing  this  heap  of  dirt,
+am  older  and  thou  art  younger,  and  thou  hast  rendered me  much  service  by  clearing  this  heap  of  dirt,
 and  as  long  as  thou  hast  been  in  my  service  thou
 hast  never  shown  nor  art  showing  wickedness,
-crookedness,  arrogance,  or  hypocrisy;  I  have  dis-
-covered in  thee  no  vice  at  all  of  such  as  are  com-
-monly seen  in  other  man-servants.  From  hence-
-forward thou  art  to  me  like  my  own  son.
+crookedness,  arrogance,  or  hypocrisy;  I  have  discovered in  thee  no  vice  at  all  of  such  as  are  com-
+monly seen  in  other  man-servants.  From  henceforward thou  art  to  me  like  my  own  son.
 
 From  that  time,  Lord,  the  householder,  addresses
 the  poor  man  by  the  name  of  son,  and  the  latter
@@ -6592,8 +6082,7 @@ taking  his  abode  in  the  hovel  of  straw 2.
 
 After  a  while,  Lord,  the  householder  falls  sick,
 and  feels  that  the  time  of  his  death  is  near  at  hand.
-He  says  to  the  poor  man :  Come  hither,  man,  I  pos-
-sess abundant  bullion,  gold,  money  and  corn,  treasures
+He  says  to  the  poor  man :  Come  hither,  man,  I  possess abundant  bullion,  gold,  money  and  corn,  treasures
 and  granaries.  I  am  very  sick,  and  wish  to  have  one
 upon  whom  to  bestow  (my  wealth) ;  by  whom  it  is  to
 be  received,  and  with  whom  it  is  to  be  deposited 3.
@@ -6601,8 +6090,7 @@ Accept  it.  For  in  the  same  manner  as  I  am  the
 
 1  It  seems  to  me  that  this  refers  to  kunda.,  &c.
 
-2  Here  ka/apalikim£e,  van  lect.  ka/akapalliku?l£e  andka/a-
-pa/ikim/fcikayam.
+2  Here  ka/apalikim£e,  van  lect.  ka/akapalliku?l£e  andka/apa/ikim/fcikayam.
 
 8  MSS.  ya/fc£a  nidhatavyam;  we  have  to  read  yatra  n°.
 
@@ -6613,8 +6101,7 @@ owner  of  it,  so  art  thou,  but  thou  shalt  not  suffer
 anything  of  it  to  be  wasted.
 
 And  so,  Lord,  the  poor  man  accepts  the  abundant
-bullion,  gold,  money  and  corn,  treasures  and  grana-
-ries of  the  rich  man,  but  for  himself  he  is  quite
+bullion,  gold,  money  and  corn,  treasures  and  granaries of  the  rich  man,  but  for  himself  he  is  quite
 indifferent  to  it,  and  requires  nothing  from  it,  not
 even  so  much  as  the  price  of  a  prastha  of  flour  ;  he
 continues  living  in  the  same  hovel  of  straw  and
@@ -6629,8 +6116,7 @@ approaching,  he  sends  for  the  poor  man,  presents
 htm  to  a  gathering  of  his  relations,  and  before  the
 king  or  king's  peer  and  in  the  presence  of  citizens
 and  country-people  makes  the  following  speech  :
-Hear,  gentlemen  !  this  is  my  own  son,  by  me  begot-
-ten. It  is  now  fifty  years  that  he  disappeared  from
+Hear,  gentlemen  !  this  is  my  own  son,  by  me  begotten. It  is  now  fifty  years  that  he  disappeared  from
 such  and  such  a  town.  He  is  called  so  and  so,  and
 myself  am  called  so  and  so.  In  searching  after  him
 I  have  from  that  town  come  hither.  He  is  my  son,
@@ -6647,8 +6133,7 @@ Even  so,  O  Lord,  do  we  represent  the  sons  of  the
 
 
 1  The  terms  used  in   the  text  are,  remarkably  enough,
-ka-y^in  mamopabhogo'sti,  which  seems  to  differ  from  the  fol-
-lowing ya££a  me  kiw^id  asti  pratyatmakaw  dhanazw.
+ka-y^in  mamopabhogo'sti,  which  seems  to  differ  from  the  following ya££a  me  kiw^id  asti  pratyatmakaw  dhanazw.
 
 
 IV.  DISPOSITION.  IO7
@@ -6666,22 +6151,18 @@ them  we  have  been  practising,  making  efforts,  and
 seeking  for  nothing  but  Nirvana  as  our  fee 3.  We
 were  content,  O  Lord,  with  the  Nirvana  obtained,
 and  thought  to  have  gained  much  at  the  hands  of
-the  Tathagata  because  of  our  having  applied  our-
-selves to  these  laws,  practised,  and  made  efforts.
+the  Tathagata  because  of  our  having  applied  ourselves to  these  laws,  practised,  and  made  efforts.
 But  the  Lord  takes  no  notice  of  us,  does  not  mix
-with  us,  nor  tell  us  that  this  treasure  of  the  Tatha-
-gata's  knowledge  shall  belong  to  us,  though  the
+with  us,  nor  tell  us  that  this  treasure  of  the  Tathagata's  knowledge  shall  belong  to  us,  though  the
 Lord  skilfully  appoints  us  as  heirs  to  this  treasure
 of  the  knowledge  of  the  Tathagata.  And  we,  O  Lord,
 are  not  (impatiently)  longing  to  enjoy  it,  because  we
 deem  it  a  great  gain  already  to  receive  from  the
-Lord  Nirvana  as  our  fee.  We  preach  to  the  Bodhi-
-sattvas  Mahasattvas  a  sublime  sermon  about  the
+Lord  Nirvana  as  our  fee.  We  preach  to  the  Bodhisattvas  Mahasattvas  a  sublime  sermon  about  the
 knowledge  of  the  Tathagata ;  we  explain,  show,
 demonstrate  the  knowledge  of  the  Tathagata,  O
 Lord,  without  longing.  For  the  Tathagata  by  his
-skilfulness  knows  our  disposition,  whereas  we  our-
-selves do  not  know,  nor  apprehend.  It  is  for  this  very
+skilfulness  knows  our  disposition,  whereas  we  ourselves do  not  know,  nor  apprehend.  It  is  for  this  very
 
 1  Sa/rcskara,  which  also  means ' (transitory) impressions  (mental
 and  moral).'
@@ -6703,8 +6184,7 @@ our  disposition  and  applies  to  us  the  denomination
 of  Bodhisattvas ;  we  are,  however,  charged  with  a
 double  office  in  so  far  as  in  presence  of  Bodhisattvas
 we  are  called  persons  of  low  disposition  and  at  the
-same  time  have  to  rouse  them  to  Buddha-enlighten-
-ment. Knowing  the  strength  of  our  disposition  the
+same  time  have  to  rouse  them  to  Buddha-enlightenment. Knowing  the  strength  of  our  disposition  the
 Lord  has  thus  spoken,  and  in  this  way,  O  Lord,  do
 we  say  that  we  have  obtained  unexpectedly  and
 without  longing  the  jewel  of  omniscience,  which  we
@@ -6720,8 +6200,7 @@ rapture  at  hearing  a  voice 4 ;  it  is  the  lovely  voice,  the
 leader's  voice,  that  so  unexpectedly  we  hear  to-day.
 
 2.  In  a  short  moment  we  have  acquired  a  great
-heap  of  precious  jewels  such  as  we  were  not  think-
-ing of,  nor  requiring.     All  of  us  are  astonished  to
+heap  of  precious  jewels  such  as  we  were  not  thinking of,  nor  requiring.     All  of  us  are  astonished  to
 hear  it.
 
 3.  It  is  like  (the  history  of)  a  young5  person  who,
@@ -6820,8 +6299,7 @@ thinks) :  These  are  certainly  executioners  who  have
 approached  me ;  what  do  I  want  clothing  or  food  ?
 
 20.  On  seeing  it,  the  rich,  sagacious  man  (thinks):
-This  ignorant  and  stupid  person  is  of  low  disposi-
-tion and  will  have  no  faith  in  my  magnificence 1,  nor
+This  ignorant  and  stupid  person  is  of  low  disposition and  will  have  no  faith  in  my  magnificence 1,  nor
 believe  that  I  am  his  father.
 
 21.  Under  those  circumstances  he  orders  persons
@@ -6867,8 +6345,7 @@ there  is  no  doubt  of  it.
 
 28.  Little  by  little  he  makes  the  man  enter  the
 house,  and  employs   him   in   his   service  for   fully
-twenty  years,  in  the  course  of  which  time  he  suc-
-ceeds in  inspiring  him  with  confidence.
+twenty  years,  in  the  course  of  which  time  he  succeeds in  inspiring  him  with  confidence.
 
 29.  At  the  same  time  he  lays  up  in  the  house
 
@@ -6905,8 +6382,7 @@ present,  he    speaks   thus  :    This  is  my  son  whom
 I  lost  a  long  time  ago.
 
 33.  It  is  now  fully  fifty  years — and  twenty  years
-more  during  which  I  have  seen  him — that  he  dis-
-appeared from  such  and  such  a  place  and  that  in  his
+more  during  which  I  have  seen  him — that  he  disappeared from  such  and  such  a  place  and  that  in  his
 search  I  came  to  this  place.
 
 34.  He  is  owner  of  all  my  property;  to  him  I
@@ -6914,8 +6390,7 @@ leave  it  all  and  entirely ;  let  him  do  with  it  what  he
 wants ;  I  give  him  my  whole  family  property.
 
 35.  And  the  (poor)  man  is  struck  with  surprise ;
-remembering  his  former  poverty,  his   low  disposi-
-tion 1,  and  as  he  receives  those  good  things  of  his
+remembering  his  former  poverty,  his   low  disposition 1,  and  as  he  receives  those  good  things  of  his
 father's  and  the  family  property,  he  thinks :  Now
 am  I  a  happy  man.
 
@@ -6992,8 +6467,7 @@ of  the  triple  world  we  were  suffering  from,  and  have
 accomplished  the  command  of  the  £ina.
 
 46.  To  whom(soever)  among  the  sons  of  £ina  who
-in  this  world  are  on  the  road  to  superior  enlighten-
-ment we  revealed  (the  law),  and  whatever   law  we
+in  this  world  are  on  the  road  to  superior  enlightenment we  revealed  (the  law),  and  whatever   law  we
 taught,  we  never  had  any  predilection1  for  it.
 
 47.  And  the  Master  of  the  world,  the  Self-born
@@ -7002,13 +6476,11 @@ not  explain  the  real  connection  of  the  things 2,  as  he
 is  testing  our  disposition.
 
 48.  Able  in  applying  devices  at  the  right  time,
-like  that  rich  man  (he  says) :  '  Be  constant  in  sub-
-duing your  low  disposition,'  and   to  those  who  are
+like  that  rich  man  (he  says) :  '  Be  constant  in  subduing your  low  disposition,'  and   to  those  who  are
 subdued  he  gives  his  wealth.
 
 49.  It  is  a  very  difficult  task  which  the  Lord  of
-the  world  is  performing,  (a  task)  in  which  he  dis-
-plays  his  skilfulness,  when   he  tames  his   sons  of
+the  world  is  performing,  (a  task)  in  which  he  displays  his  skilfulness,  when   he  tames  his   sons  of
 low  disposition  and  thereupon  imparts  to  them  his
 knowledge.
 
@@ -7035,15 +6507,13 @@ cepts  under  the  rule  of  the  Knower  of  the  world,  we
 now  receive  the  fruit  of  that  morality  which  we  have
 formerly  practised.
 
-52.  Now  have  we  obtained  the  egregious,  hal-
-lowed1,   exalted,    and   perfect   fruit   of  our   having
+52.  Now  have  we  obtained  the  egregious,  hallowed1,   exalted,    and   perfect   fruit   of  our   having
 observed  an  excellent  and  pure  spiritual  life  under
 the  rule  of  the  Leader.
 
 53.  Now,  O  Lord,  are  we  disciples,  and  we  shall
 proclaim  supreme  enlightenment  everywhere,  reveal
-the  word  of  enlightenment,  by  which  we  are  formid-
-able disciples2.
+the  word  of  enlightenment,  by  which  we  are  formidable disciples2.
 
 54.  Now  have  we  become  Arhats 3,  O  Lord ;  and
 deserving  of  the  worship  of  the  world,  including  the
@@ -7069,10 +6539,8 @@ worthy,  a  master,  an  honoured  personage,  in  short,  Guru.     On
 comparing  the  Greek  apxew,  apx^o-Qai,  we  may  infer  that  one  of  the
 oldest  meanings  of  the  word  was  -  a~  foregoer,'  and  in  a  restricted
 sense,  a  forefather,  a  departed  one,  an  ancestor,  so  that  the  becoming
-an  Arhat,  an  ancestor,  and  dying  comes  to  be  the  same.   The  promi-
-nent part  played  by  the  Arhats  is,  in  my  opinion,  a  remnant  of
-primeval  Pitrz- worship,  the  chiefest  of  the  ancestors  being  Dhar-
-maraga,  Yama.
+an  Arhat,  an  ancestor,  and  dying  comes  to  be  the  same.   The  prominent part  played  by  the  Arhats  is,  in  my  opinion,  a  remnant  of
+primeval  Pitrz- worship,  the  chiefest  of  the  ancestors  being  Dharmaraga,  Yama.
 
 4  It  is  difficult  not  to  perceive  the  true  meaning  of  such  passages.
 
@@ -7100,10 +6568,8 @@ one  may  spend  alms  during  as  many  /Eons  as  there
 are  grains  of  sand  in  the  Ganges — even  then  one  will
 not  be  able  to  offer  resistance 2.
 
-59.  Of  sublime  nature,  unequalled  power,  miracu-
-lous might,  firm  in  the  strength  of  patience  is  the
-Buddha  ;  a  great  ruler  is  the  G"ina,  free  from  imper-
-fections.    The  ignorant  cannot  bear  (or  understand)
+59.  Of  sublime  nature,  unequalled  power,  miraculous might,  firm  in  the  strength  of  patience  is  the
+Buddha  ;  a  great  ruler  is  the  G"ina,  free  from  imperfections.    The  ignorant  cannot  bear  (or  understand)
 such  things  as  these 3.
 
 60.  Always   returning,   he    preaches    the   law   to
@@ -7127,8 +6593,7 @@ Burnouf  has  '  ceux  qui  portent  des  signes  favorables/  which  points
 to  a  reading  nimittadhariwa.
 
 5  Ijvaru  sarvaloke,  Mahe-rvaro;  he,  the  Dharmara^a,  Yama,
-&c.,  is  also  the  same  with  lyvara  and  Mahe.svara,  well-known  epi-
-thets of  Siva,  the  destroyer,  time,  death.
+&c.,  is  also  the  same  with  lyvara  and  Mahe.svara,  well-known  epithets of  Siva,  the  destroyer,  time,  death.
 
 
 IV.
@@ -7137,12 +6602,8 @@ IV.
 DISPOSITION.
 
 
-117
-
-
 6 1.  Fully  aware  of  the  circumstances  (or  places)
-of  (all)  beings  he  indicates  their  duties,  so  multi-
-farious, and  considering  the  variety  of  their  dispo-
+of  (all)  beings  he  indicates  their  duties,  so  multifarious, and  considering  the  variety  of  their  dispo-
 sitions  he   inculcates    the   law   with    thousands   of
 arguments.
 
@@ -7164,24 +6625,18 @@ Maha-Kasyapa  and  the  other  senior  great  disciples,
 and  said  :  Very  well,  very  well,  Kasyapa ;  you  have
 done  very  well  to  proclaim  the  real  qualities  of  the
 Tathagata.  They  are  the  real  qualities  of  the
-Tathagata,  Ka^yapa,  but  he  has  many  more,  innu-
-merable, incalculable,  the  end  of  which  it  would  be
-difficult  to  reach,  even  were  one  to  continue  enume-
-rating them  for  immeasurable  .^Eons.  The  Tatha-
+Tathagata,  Ka^yapa,  but  he  has  many  more,  innumerable, incalculable,  the  end  of  which  it  would  be
+difficult  to  reach,  even  were  one  to  continue  enumerating them  for  immeasurable  .^Eons.  The  Tatha-
 gata, Kasyapa,  is  the  master  of  the  law,  the  king,
 lord,  and  master  of  all  laws.  And  whatever  law  for
 any  case  has  been  instituted  by  the  Tathagata,
 remains  unchanged.  All  laws,  Ka\syapa,  have  been
-aptly  instituted  by  the  Tathagata.  In  his  Tatha-
-gata-wisdom  he  has  instituted  them  in  such  a
+aptly  instituted  by  the  Tathagata.  In  his  Tathagata-wisdom  he  has  instituted  them  in  such  a
 manner  that  all  those  laws  finally  lead  to  the  stage
-of  those  who  know  all1.  The  Tathagata  also  dis-
-tinctly knows  the  meaning  of  all  laws.  The  Tatha-
+of  those  who  know  all1.  The  Tathagata  also  distinctly knows  the  meaning  of  all  laws.  The  Tatha-
 gata, the  Arhat,  &c.  is  possessed  of  the  faculty  of
-penetrating  all  laws,  possessed  of  the  highest  per-
-fection of  knowledge,  so  that  he  is  able  to  decide
-all  laws,  able  to  display  the  knowledge  of  the  all-
-knowing,  impart  the  knowledge  of  the  all-knowing,
+penetrating  all  laws,  possessed  of  the  highest  perfection of  knowledge,  so  that  he  is  able  to  decide
+all  laws,  able  to  display  the  knowledge  of  the  allknowing,  impart  the  knowledge  of  the  all-knowing,
 
 1  '  All-knowing '  is  one  of  the  most  frequent  euphemistic  phrases
 to  denote  the  state  of  the  dead.  Hence  all-knowing  (sarva^la)
@@ -7220,10 +6675,8 @@ their  names.  Rooted  in  one  and  the  same  soil,  all
 those  families  of  plants  and  germs  are  drenched  and
 vivified  by  water  of  one  essence  throughout.
 
-In  the  same  manner,  Ka^yapa,  does  the  Tatha-
-gata,  the  Arhat,  &c.  appear  in  the  world.  Like
-unto  a  great  cloud  coming  up,  the  Tathdgata  ap-
-pears and  sends  forth  his  call  to  the  whole  world,
+In  the  same  manner,  Ka^yapa,  does  the  Tathagata,  the  Arhat,  &c.  appear  in  the  world.  Like
+unto  a  great  cloud  coming  up,  the  Tathdgata  appears and  sends  forth  his  call  to  the  whole  world,
 including  gods,  men,  and  demons  l.  And  even  as  a
 
 1  Par^anya  or  Indra,  Jupiter  pluvius,  is  at  the  same  time  the
@@ -7232,8 +6685,7 @@ thunderer,  Jupiter  tonans.
 
 1 2O  SADDHARMA-PUATDARIKA.  V.
 
-great  cloud,  Ka^yapa,  extending  over  the  whole  uni-
-verse, in  like  manner,  Ka^yapa,  the  Tathagata,  the
+great  cloud,  Ka^yapa,  extending  over  the  whole  universe, in  like  manner,  Ka^yapa,  the  Tathagata,  the
 Arhat,  &c.,  before  the  face  of  the  world,  including
 gods,  men,  and  demons,  lifts  his  voice  and  utters  these
 words  :  I  am  the  Tathagata,  O  ye  gods  and  men!  the
@@ -7247,8 +6699,7 @@ Come  to  me,  ye  gods  and  men !  hear  the  law.     I  am
 he  who  indicates  the  path ;  who  shows  the  path,  as
 knowing  the  path,  being  acquainted  with  the  path.
 Then,  Kasyapa,  many  hundred  thousand  myriads  of
-ko/is  of  beings  come  to  hear  the  law  of  the  Tatha-
-gata ;  and  the  Tathagata,  who  knows  the  difference
+ko/is  of  beings  come  to  hear  the  law  of  the  Tathagata ;  and  the  Tathagata,  who  knows  the  difference
 as  to  the  faculties  and  the  energy  of  those  beings,
 produces  various  Dharmaparyayas,  tells  many  tales,
 amusing,  agreeable,  both  instructive  and   pleasant,
@@ -7256,8 +6707,7 @@ tales  by  means  of  which  all  beings  not  only  become
 pleased  with  the  law  in  this  present  life,  but  also
 after  death  will  reach  happy  states,  where  they  are
 to   enjoy  many  pleasures   and   hear  the   law.     By
-listening  to  the  law  they  will   be  freed  from  hin-
-drances and  in  due  course  apply  themselves  to  the
+listening  to  the  law  they  will   be  freed  from  hindrances and  in  due  course  apply  themselves  to  the
 law  of  the  all-knowing,  according  to  their  faculty,
 power,  and  strength.
 
@@ -7275,9 +6725,6 @@ V.
 ON    PLANTS.
 
 
-121
-
-
 assigned  to  their  kind;  in  like  manner,  Ka^yapa,  is
 the  law  preached  by  the  Tathagata,  the  Arhat,  &c.,  of
 one  and  the  same  essence,  that  is  to  say,  the  essence
@@ -7292,8 +6739,7 @@ Kasyapa,  the  Tathagata  only  really  knows  who,
 how,  and  of  what  kind  those  beings  are  ;  what2,  how,
 and  whereby  they  are  meditating;  what,  how,  and
 whereby  they  are  contemplating ;  what,  why,  and
-whereby  they  are  attaining.  No  one  but  the  Tatha-
-gata, Kajyapa,  is  there  present,  seeing  all  intuitively,
+whereby  they  are  attaining.  No  one  but  the  Tathagata, Kajyapa,  is  there  present,  seeing  all  intuitively,
 and  seeing  the  state  of  those  beings  in  different
 stages,  as  of  the  lowest,  highest,  and  mean  grasses,
 shrubs,  herbs,  and  trees.  I  am  he,  Kasyapa,  who,
@@ -7302,8 +6748,7 @@ the  essence  of  deliverance,  (the  law)  ever  peaceful,
 ending  in  Nirvana,  (the  law)  of  eternal  rest,  having
 but  one  stage  and  placed  in  voidness,  (who  knowing
 this)  do  not  on  a  sudden  reveal  to  all  the  knowledge
-of  the  all-knowing,  since  I  pay  regard  to  the  disposi-
-tions of  all  beings.
+of  the  all-knowing,  since  I  pay  regard  to  the  dispositions of  all  beings.
 
 You  are  astonished,  KcLsyapa,  that  you  cannot
 fathom  the  mystery3  expounded  by  the  Tathagata.
@@ -7336,8 +6781,7 @@ the  word,  guard  the  mystery,  and  do  not  reveal  it  to
 living  beings.
 
 '  3.  That  science  is  difficult  to  be  understood ;  the
-simple,  if  hearing  it  on  a  sudden,  would  be  per-
-plexed ;  they  would  in  their  ignorance  fall  out  of
+simple,  if  hearing  it  on  a  sudden,  would  be  perplexed ;  they  would  in  their  ignorance  fall  out  of
 the  way  and  go  astray.
 
 4.  I  speak  according  to  their  reach  and  faculty;
@@ -7375,9 +6819,6 @@ V.
 ON   PLANTS.
 
 
-123
-
-
 horizon  shrouds  all  space  (in  darkness)  and  covers
 the  earth.
 
@@ -7401,8 +6842,7 @@ other  trees  small  and  great ;
 10.  The   various   field    fruits    and   whatever   is
 green ;  all  plants  on  hills,  in  caves  and  thickets  ;
 
-11.  All  those  grasses,  shrubs,  and  trees  are  vivi-
-fied by  the  cloud  that  both  refreshes  the  thirsty
+11.  All  those  grasses,  shrubs,  and  trees  are  vivified by  the  cloud  that  both  refreshes  the  thirsty
 earth  and  waters  the  herbs.
 
 12.  Grasses  and  shrubs  absorb  the  water  of  one
@@ -7432,8 +6872,7 @@ born,  he,  the  world's  Lord,  speaks  and  shows  the
 real  course  of  life.
 
 1 7.  And  the  great  Seer,  honoured  in  the  world,
-including  the  gods,  speaks  thus :  I  am  the  Tatha-
-gata,  the  highest  of  men,  the  G'ma;  I  have  appeared
+including  the  gods,  speaks  thus :  I  am  the  Tathagata,  the  highest  of  men,  the  G'ma;  I  have  appeared
 in  this  world  like  a  cloud.
 
 yS  1 8.  I  shall  refresh  all  beings  whose  bodies  are
@@ -7456,8 +6895,7 @@ for   all;    no  partiality  is  in  it,  neither  hatred   nor
 affection.
 
 22.  I  am  inexorable3,  bear  no  love  nor  hatred
-towards  any  one,  and  proclaim  the  law  to  all  crea-
-tures without  distinction,  to  the  one  as  well  as  the
+towards  any  one,  and  proclaim  the  law  to  all  creatures without  distinction,  to  the  one  as  well  as  the
 other.
 
 
@@ -7480,8 +6918,7 @@ exclusively  occupied  with  this  task  of  proclaiming
 the  law.     I  never  get  tired  of  sitting  on  the  chair
 I  have  ascended.
 
-24.  I  recreate  the  whole  world  like  a  cloud  shed-
-ding its  water  without  distinction  ;  I  have  the  same
+24.  I  recreate  the  whole  world  like  a  cloud  shedding its  water  without  distinction  ;  I  have  the  same
 feelings  for  respectable  people  as  for  the  low ;  for
 moral  persons  as  for  the  immoral ;
 
@@ -7491,8 +6928,7 @@ sectarian  views  and  unsound   tenets   as   for   those
 whose  views  are  sound  and  correct.
 
 26.  I   preach  the  law  to  the  inferior  (in  mental
-culture)   as  well   as  to  persons  of  superior  under-
-standing and  extraordinary  faculties ;  inaccessible  to
+culture)   as  well   as  to  persons  of  superior  understanding and  extraordinary  faculties ;  inaccessible  to
 weariness,  I  spread  in  season  the  rain  of  the  law.
 
 27.  After    hearing   me,   each    according    to    his
@@ -7514,15 +6950,13 @@ transcendent  faculties  and  the  triple  science.
 1  Manorameshu,  perhaps  women  are  meant.  A  var.  lect.  has
 manoratheshu,  i.e.  amongst  fancies,  fanciful  beings,  chimeras.
 This  reading  would  rather  lead  us  to  see  in  those  beautiful  or
-charming  beings  some  kind  of  geniuses,  cherubim,  alias  Vidya-
-dharas.
+charming  beings  some  kind  of  geniuses,  cherubim,  alias  Vidyadharas.
 
 
 126  SADDHARMA-PUJV-DARiKA.  V.
 
 30.  Mean  plants  are  called  the  men  who,  dwelling
-in   mountain   caverns,  covet    the    state    of  a   Pra-
-tyekabuddha,  and  whose  intelligence  is  moderately
+in   mountain   caverns,  covet    the    state    of  a   Pratyekabuddha,  and  whose  intelligence  is  moderately
 purified.
 
 31.  Those  who  aspire  to   become   leading   men
@@ -7530,8 +6964,7 @@ purified.
 and  men,  and  who  practise  exertion  and  meditation,
 are  called  the  highest  plants.
 
-32.  But  the  sons  of  Sugata,  who  sedulously  prac-
-tise benevolence  and  a  peaceful  conduct,  who  have
+32.  But  the  sons  of  Sugata,  who  sedulously  practise benevolence  and  a  peaceful  conduct,  who  have
 arrived  at  certainty  about  their  being  leading  men,
 these  are  called  trees.
 
@@ -7555,8 +6988,7 @@ likened  to  drops  of  rain.
 
 1  It  is  not  easy  to  make  out  what  kind  of  terrestrial  beings  are
 severally  alluded  to  in  stanzas  29-33.  I  first  thought  that  the  small
-plants  were  simply  the  Brahma^arins,  the  mean  ones  theVana-
-prasthas  or  hermits,  and  the  highest  plants  the  Yatis ;  but  it  seems
+plants  were  simply  the  Brahma^arins,  the  mean  ones  theVanaprasthas  or  hermits,  and  the  highest  plants  the  Yatis ;  but  it  seems
 more  reasonable  to  suppose  that  real  sons  of  Buddha  are  meant ;
 cf.  the  stanzas  39-41.  The  Buddhists  alluded  to  in  stanza  32  are
 simple  monks,  whereas  those  of  the  following  stanza  are  preachers,
@@ -7567,8 +6999,7 @@ religion.
 V.  ON    PLANTS.  127
 
 by  which  this  whole  world  is  refreshed ;  and  each
-according  to  his  faculty  takes  to  heart  this  well-
-spoken  law1  that  is  one  in  its  essence.
+according  to  his  faculty  takes  to  heart  this  wellspoken  law1  that  is  one  in  its  essence.
 
 37.  Even  as  all  grasses  and  shrubs,  as  well  as
 plants  of  middle  size,  trees  and  great  trees  at  the
@@ -7582,8 +7013,7 @@ the  same  when  refreshed.
 
 39.  The    plants    that    in    their   growth    remain
 middle-sized,    are   Arhats   (saints)    stopping    when
-they  have  overcome  frailties,   (and)  the   Pratyeka-
-buddhas  who,  living  in  woody  thickets2,  accomplish
+they  have  overcome  frailties,   (and)  the   Pratyekabuddhas  who,  living  in  woody  thickets2,  accomplish
 this  well-spoken  law.
 
 40.  (But)  the  many  Bodhisattvas  who,  thoughtful
@@ -7592,8 +7022,7 @@ striving  after  supreme  enlightenment,  they  continue
 increasing  in  growth  like  trees.
 
 41.  Those   who,  endowed  with    magical    powers
-and  being   adepts    in  the  four   degrees  of  medita-
-tion, feel  delight  at  hearing  of  complete  voidness3
+and  being   adepts    in  the  four   degrees  of  meditation, feel  delight  at  hearing  of  complete  voidness3
 and   emit   thousands   of   rays,  they  are  called   the
 great  trees  on  earth.
 
@@ -7624,22 +7053,19 @@ of  the  word ;    all  my  disciples  attain  Nirvawa ;  by
 following  the  sublime  path  of  enlightenment  all  my
 disciples  shall  become  Buddhas.
 
-And  further,  Kasyapa,  the  Tathagata,  in  his  edu-
-cating1 creatures,  is  equal  (i.e.  impartial)  and  not
+And  further,  Kasyapa,  the  Tathagata,  in  his  educating1 creatures,  is  equal  (i.e.  impartial)  and  not
 unequal  (i.  e.  partial).  As  the  light  of  the  sun  and
 moon,  Ka^yapa,  shines  upon  all  the  world,  upon  the
 virtuous  and  the  wicked,  upon  high  and  low,  upon
 the  fragrant  and  the  ill-smelling ;  as  their  beams
 are  sent  down  upon  everything  equally,  without
-inequality  (partiality) ;  so,  too,  Kasyapa,  the  intel-
-lectual light  of  the  knowledge  of  the  omniscient,  the
+inequality  (partiality) ;  so,  too,  Kasyapa,  the  intellectual light  of  the  knowledge  of  the  omniscient,  the
 Tathagatas,  the  Arhats,  &c.,  the  preaching  of  the
 true  law  proceeds  equally  in  respect  to  all  beings
 in  the  five  states  of  existence,  to  all  who  according  to
 their  particular  disposition  are  devoted  to  the  great
 vehicle,  or  to  the  vehicle  of  the  Pratyekabuddhas,  or
-to  the  vehicle  of  the  disciples.  Nor  is  there  any  defi-
-ciency or  excess  in  the  brightness  of  the  Tathagata-
+to  the  vehicle  of  the  disciples.  Nor  is  there  any  deficiency or  excess  in  the  brightness  of  the  Tathagata-
 knowledge  2  up  to  one's  becoming  fully  acquainted
 with  the  law.  There  are  not  three  vehicles,  Kasyapa;
 there  are  but  beings  who  act  differently;  therefore
@@ -7658,16 +7084,14 @@ pushpa«i  anantakani.
 V.  ON   PLANTS.  129
 
 Maha-Ka-yyapa  said  to  him :  Lord,  if  there  are  not
-three  vehicles,  for  what  reason  then  is  the  designa-
-tion of  disciples  (.Sravakas),  Buddhas,  and  Bodhisat-
+three  vehicles,  for  what  reason  then  is  the  designation of  disciples  (.Sravakas),  Buddhas,  and  Bodhisat-
 tvas  kept  up  in  the  present  times  ?
 
 On  this  speech  the  Lord  answered  the  venerable
 Maha-Kajyapa  as  follows :  It  is,  Kcbyapa,  as  if
 a  potter  made  different  vessels  out  of  the  same
 clay.  Some  of  those  pots  are  to  contain  sugar,
-others  ghee,  others  curds  and  milk;  others,  of  in-
-ferior quality,  are  vessels  of  impurity.  There  is  no
+others  ghee,  others  curds  and  milk;  others,  of  inferior quality,  are  vessels  of  impurity.  There  is  no
 diversity  in  the  clay  used ;  no,  the  diversity  of  the
 pots  is  only  due  to  the  substances  which  are  put
 into  each  of  them.  In  like  manner,  Ka>ryapa,  is  there
@@ -7688,8 +7112,7 @@ under  the  shape  of  a  parable.
 
 It  is  a  case,  Ka^yapa,  similar  to  that  of  a  certain
 blind-born  man,  who  says :  There  are  no  handsome
-or  ugly  shapes ;  there  are  no  men  able  to  see  hand-
-some or  ugly  shapes ;  there  exists  no  sun  nor  moon  ;
+or  ugly  shapes ;  there  are  no  men  able  to  see  handsome or  ugly  shapes ;  there  exists  no  sun  nor  moon  ;
 there  are  no  asterisms  nor  planets ;  there  are  no
 
 • l  Cf.  Ecclesiastes  ix.  2  :  '  All  things  come  alike  to  all :  there
@@ -7712,18 +7135,14 @@ physician  who  knows  all  diseases.  He  sees  that
 blind-born  man  and  makes  to  himself  this  reflection :
 The  disease  of  this  man  originates  in  his  sinful
 actions  in  former  times.  All  diseases  possible  to
-arise  are  fourfold  :  rheumatical,  cholerical,  phlegma-
-tical,  and  caused  by  a  complication  of  the  (corrupted)
+arise  are  fourfold  :  rheumatical,  cholerical,  phlegmatical,  and  caused  by  a  complication  of  the  (corrupted)
 humours.  The  physician,  after  thinking  again  and
-again  on  a  means  to  cure  the  disease,  makes  to  him-
-self this  reflection:  Surely,  with  the  drugs  in  common
+again  on  a  means  to  cure  the  disease,  makes  to  himself this  reflection:  Surely,  with  the  drugs  in  common
 use  it  is  impossible  to  cure  this  disease,  but  there
 are  in  the  Himalaya,  the  king  of  mountains,  four
-herbs,  to  wit :  first,  one  called  Possessed-of-all-sorts-
-of-colours-and-flavours ;  second,  Delivering-from-all-
+herbs,  to  wit :  first,  one  called  Possessed-of-all-sortsof-colours-and-flavours ;  second,  Delivering-from-all-
 diseases ;  third,  Delivering-from-all-poisons ;  fourth,
-Procuring-happiness-to-those-standing-in-the- right-
-place.  As  the  physician  feels  compassion  for  the
+Procuring-happiness-to-those-standing-in-the- rightplace.  As  the  physician  feels  compassion  for  the
 blind-born  man  he  contrives  some  device  to  get  to
 the  Himalaya,  the  king  of  mountains.  There  he
 goes  up  and  down  and  across  to  search.  In  doing
@@ -7731,8 +7150,7 @@ so  he  finds  the  four  herbs.  One  he  gives  after
 chewing  it  with  the  teeth  ;  another  after  pounding ;
 another  after  having  it  mixed  with  another  drug  and
 boiled ;  another  after  having  it  mixed  with  a  raw
-drug ;  another  after  piercing  with  a  lancet  some-
-where a  vein1 ;  another  after  singeing  it  in  fire ;
+drug ;  another  after  piercing  with  a  lancet  somewhere a  vein1 ;  another  after  singeing  it  in  fire ;
 
 1  Sarirasthanaw  viddhva",  van  lect.  sarasthanaw  v.,  with  a
 marginal  correction  sarirasthanaw  v.  I  consider  the  original
@@ -7742,10 +7160,8 @@ reading  to  have  been  sirasthanaw.
 V.  ON    PLANTS.
 
 
-another  after  combining  it  with  various  other  sub-
-stances so  as  to  enter  in  a  compound  potion,  food,
-&c.  Owing  to  these  means  being  applied  the  blind-
-born  recovers  his  eyesight,  and  in  consequence  of
+another  after  combining  it  with  various  other  substances so  as  to  enter  in  a  compound  potion,  food,
+&c.  Owing  to  these  means  being  applied  the  blindborn  recovers  his  eyesight,  and  in  consequence  of
 that  recovery  he  sees  outwardly  and  inwardly  l,  far
 and  near,  the  shine  of  sun  and  moon,  the  asterisms,
 planets,  and  all  phenomena.  Then  he  says  :  O  how
@@ -7776,8 +7192,7 @@ perception,  acknowledgment,  recognition.     Yet  it  cannot  be  denied
 that  those  who  used  it  intended  by  it  to  convey  the  meaning  of
 something  grand  and  imposing,  especially  the  senses  of  a  spiritual
 man,  as  distinguished  from  the  profanum  vulgus.     As  to  the
-Seers,  7?zshis,  here  mentioned,  I  think  that  they  are  the  senses  per-
-sonified, otherwise  called  devas,  gods.    Deva,  to  denote  an  organ
+Seers,  7?zshis,  here  mentioned,  I  think  that  they  are  the  senses  personified, otherwise  called  devas,  gods.    Deva,  to  denote  an  organ
 of  sense,  occurs  frequently,  e.g.  Mu«</aka  Upanishad  III,  i,  8.
 
 K  2
@@ -7809,8 +7224,7 @@ ascetic2  and  acquire  the  transcendent  faculties.  The
 man  catches  their  meaning  and  becomes  an  ascetic.
 Living  in  the  wilderness,  the  mind  intent  upon  one
 sole  object,  he  shakes  off  worldly  desires,  and  acquires
-the  five  transcendent  faculties.  After  that  acqui-
-sition he  reflects  thus  :  Formerly  I  did  not  do  the
+the  five  transcendent  faculties.  After  that  acquisition he  reflects  thus  :  Formerly  I  did  not  do  the
 right  thing;  hence  no  good  accrued  to  me3.  Now,
 
 
@@ -7820,8 +7234,7 @@ i,  var.  lect.  sazrc^anishe.
 the  dhutahgas  or  dhu°  denote  thirteen  ascetic  practices;  see
 Childers,  Pali  Diet.  s.  v.     The  Dhutaguwas  are,  according  to  the
 same  author's  statement,  other  names  for  the  Dhutahgas,  but  I
-venture  to  think  that  they  are  the  twenty-eight  virtues  of  a  Dhu-
-tahga,  as  enumerated  in  Milinda  Pafiho  (ed.  Trenckner),  p.  351.
+venture  to  think  that  they  are  the  twenty-eight  virtues  of  a  Dhutahga,  as  enumerated  in  Milinda  Pafiho  (ed.  Trenckner),  p.  351.
 
 3  Purvam   anyat   karma    krz'tavan,   tena   me   na  ka.r/£id   gu«o
 'dhiq;ata/;.
@@ -7835,8 +7248,7 @@ fact,  a  blind  man.
 
 Such,  Ka^yapa,  is  the  parable  I  have  invented  to
 make  thee  understand  my  meaning.  The  moral  to
-be  drawn  from  it  is  as  follows.  The  word  '  blind-
-born,'  Ka-syapa,  is  a  designation  for  the  creatures
+be  drawn  from  it  is  as  follows.  The  word  '  blindborn,'  Ka-syapa,  is  a  designation  for  the  creatures
 staying  in  the  whirl  of  the  world  with  its  six  states  ;
 the  creatures  who  do  not  know  the  true  law  and
 are  heaping  up  the  thick  darkness  of  evil  passions.
@@ -7872,9 +7284,6 @@ avidya  is  just  as  liable  to  diseases  and  death  as  the  most  ignorant
 creature.
 
 
-134
-
-
 SADDHARMA-PUA^DARIKA.  V.
 
 
@@ -7888,18 +7297,15 @@ have  unsound  views.  To  all  of  them  the  Tathagata
 skilfully  shows  three  vehicles l.
 
 The  Seers  in  the  parable,  those  possessing  the  five
-transcendent  faculties  and  clear-sight,  are  the  Bodhi-
-sattvas2  who  produce  enlightened  thought,  and  by
+transcendent  faculties  and  clear-sight,  are  the  Bodhisattvas2  who  produce  enlightened  thought,  and  by
 the  acquirement  of  acquiescence  in  the  eternal  law 3
 awake  us  to  supreme,  perfect  enlightenment.
 
-The  great  physician  in  the  parable  is  the  Tatha-
-gata. To  the  blind-born  may  be  likened  the  creatures
+The  great  physician  in  the  parable  is  the  Tathagata. To  the  blind-born  may  be  likened  the  creatures
 
 
 1  With  this  we  may  compare  the  term  trivartman  (of  three
-paths),  applied  to  the  individual  or  living  being,  •S'veta.rvatara  Upa-
-nishad  V,  7.     .Sahkara  explains  it  by  devayanadi;  in  the  more
+paths),  applied  to  the  individual  or  living  being,  •S'veta.rvatara  Upanishad  V,  7.     .Sahkara  explains  it  by  devayanadi;  in  the  more
 ancient  and  natural  meaning,  the  word  may  have  been  applied  to
 the  three  divisions  of  time.     Cf.  the  same  Upanishad  I,  4,  where
 the   brahma^akra,  the   brahma-wheel,   is   said   to   be   trivrzt,
@@ -7907,12 +7313,10 @@ threefold.
 
 2  In   the  Yoga  called  buddhisattva,   the   reasoning  faculty.
 The  Bodhisattvas  are  the  five  Dhyani-Bodhisattvas  Samantabhadra,
-&c.,  who  do  no  more  differ  from  the  five  Dhyani-Buddhas  Vai-
-rokana,  &c.,  than  the  b  a  las  do  from  the  indriyas.     Cf.  Burnouf,
+&c.,  who  do  no  more  differ  from  the  five  Dhyani-Buddhas  Vairokana,  &c.,  than  the  b  a  las  do  from  the  indriyas.     Cf.  Burnouf,
 Introd.  p.  1 1 8.
 
-3  Anutpattikadharmakshdntim  pratilabhya,var.lect.anut-
-pattiki/w  kshantim  p.     Anutpattika,  being  a  Bahuvrihi,  neces-
+3  Anutpattikadharmakshdntim  pratilabhya,var.lect.anutpattiki/w  kshantim  p.     Anutpattika,  being  a  Bahuvrihi,  neces-
 sarily means  'having  no  origin,  no  beginning,'  alias  anadi.     The
 eternal  law  is  that  of  rise  and  decay,  and  in  so  far  the  purport  of
 the  phrase  seems  not  materially  to  differ  from  the  translation  in
@@ -7928,14 +7332,12 @@ V.  ON   PLANTS.  135
 blind  with  infatuation.  Attachment,  aversion,  and
 infatuation  are  likened  to  rheum,  bile,  and  phlegm.
 The  sixty-two  false  theories  also  must  be  looked
-upon  as  such  (i.e.  as  doshas,  'humours  and  cor-
-rupted humours  of  the  body,'  'faults  and  corrup-
+upon  as  such  (i.e.  as  doshas,  'humours  and  corrupted humours  of  the  body,'  'faults  and  corrup-
 tions'). The  four  herbs  are  like  vanity  (or  voidness),
 causelessness  (or  purposelessness),  unfixedness,  and
 reaching  Nirvana.  Just  as  by  using  different  drugs
 different  diseases  are  healed,  so  by  developing  the
-idea  of  vanity  (or  voidness),  purposelessness,  unfixed-
-ness, (which  are)  the  principles  of  emancipation,  is
+idea  of  vanity  (or  voidness),  purposelessness,  unfixedness, (which  are)  the  principles  of  emancipation,  is
 ignorance  suppressed ;  the  suppression  of  ignorance
 is  succeeded  by  the  suppression  of  conceptions  (or
 fancies) ;  and  so  forth,  up  to  the  suppression  of  the
@@ -7943,18 +7345,15 @@ whole  huge  mass  of  evils.  And  thus  one's  mind  will
 dwell  no  more  on  good  nor  on  evil.
 
 To  the  man  who  recovers  his  eyesight  is  likened
-the  votary  of  the  vehicle  of  the  disciples  and  of  Pra-
-tyekabuddhas.  He  rends  the  ties  of  evil  passion  in
+the  votary  of  the  vehicle  of  the  disciples  and  of  Pratyekabuddhas.  He  rends  the  ties  of  evil  passion  in
 the  whirl  of  the  world ;  freed  from  those  ties  he  is
 released  from  the  triple  world  with  its  six  states  of
 existence.  Therefore  the  votary  of  the  vehicle  of  the
 disciples  may  think  and  speak  thus :  There  are  no
-more  laws  to  be  penetrated ;  I  have  reached  Nir-
-vana. Then  the  Tathagata  preaches  to  him  :  How
+more  laws  to  be  penetrated ;  I  have  reached  Nirvana. Then  the  Tathagata  preaches  to  him  :  How
 can  he  who  has  not  penetrated  all  laws  have  reached
 Nirvana  ?  The  Lord  rouses  him  to  enlightenment,
-and  the  disciple,  when  the  consciousness  of  en-
-lightenment has  been  awakened  in  him,  no  longer
+and  the  disciple,  when  the  consciousness  of  enlightenment has  been  awakened  in  him,  no  longer
 stays  in  the  mundane  whirl,  but  at  the  same  time
 has  not  yet  reached  Nirvana1.  As  he  has  arrived  at
 
@@ -7968,16 +7367,14 @@ a  (rivan-mukta.
 true  insight,  he  looks  upon  this  triple  world  in  every
 direction  as  void,  resembling  the  produce  of  magic,
 similar  to  a  dream,  a  mirage,  an  echo.  He  sees  that
-all  laws  (and  phenomena)  are  unborn  and  unde-
-stroyed,  not  bound  and  not  loose,  not  dark  and  not
+all  laws  (and  phenomena)  are  unborn  and  undestroyed,  not  bound  and  not  loose,  not  dark  and  not
 bright.  He  who  views  the  profound  laws  in  such  a
 light,  sees,  as  if  he  were  not  seeing,  the  whole  triple
 world  full  of  beings  of  contrary  and  omnifarious
 fancies  and  dispositions.
 
 And  on  that  occasion,  in  order  to  more  amply
-explain  the  same  subject,  the  Lord  uttered  the  fol-
-lowing stanzas :
+explain  the  same  subject,  the  Lord  uttered  the  following stanzas :
 
 45.  As  the  rays  of  the  sun  and  moon  descend
 alike  on  all  men,  good  and  bad,  without  deficiency
@@ -7995,8 +7392,7 @@ water ;
 the  clay  used  by  the  artificer 2  for  the  vessels  being
 of  but  one  sort ;
 
-49.  As  a  vessel   is  made  to  receive  all  its  dis-
-tinguishing qualities  according  to  the  quality  of  the
+49.  As  a  vessel   is  made  to  receive  all  its  distinguishing qualities  according  to  the  quality  of  the
 substance  laid  into  it3,  so  the  Tathagatas,  on  account
 of  the  diversity  of  taste,
 
@@ -8020,8 +7416,7 @@ no  perception  of  blessed  rest ;
 
 5 1 .  But  he  who  understands  that  all  laws  are  void
 and  without  reality  (and  without  individual  character)
-penetrates  the  enlightenment  of  the  perfectly  en-
-lightened Lords  in  its  very  essence.
+penetrates  the  enlightenment  of  the  perfectly  enlightened Lords  in  its  very  essence.
 
 52.  One  who  occupies  a  middle  position  of  wisdom1
 is  called  a  Pratyeka^ina  (i.e.  Pratyekabuddha) ;  one
@@ -8050,8 +7445,7 @@ instead  of  la(m)bhyate;  what  is  intended  is  rakshate,  it  keeps.
 
 1  Pra^namadhyavyavasthanat  Pratyeka^ina  u/£yate.
 
-2  I  am  at  a  loss  to  explain  how  this  statement  is  to  be  recon-
-ciled with  the  bearings  of  the  passage  in  prose  before,  unless  we
+2  I  am  at  a  loss  to  explain  how  this  statement  is  to  be  reconciled with  the  bearings  of  the  passage  in  prose  before,  unless  we
 assume  that  the  philosophers  here  alluded  to  are  followers  of  other
 creeds,  who  believe  in  the  existence  of  a  soul.    Their  views  are  in
 opposition  to  those  of  the  Buddha ;  yet  they  are  to  be  spoken  of  with
@@ -8105,8 +7499,7 @@ This  may  mean,  fit  for  all  colours,  flavours,  and  cases.
 
 2  Prati(t)yotpada/£akrasya — duAkhavartmdna^.
 
-3  In  other  words,  he  has  indeed  attained  a  qualified  (sopadhi-
-jesha,  Pali  upidisesa  or  sa-upadisesha)  Nirvana,  or  as  non-
+3  In  other  words,  he  has  indeed  attained  a  qualified  (sopadhijesha,  Pali  upidisesa  or  sa-upadisesha)  Nirvana,  or  as  non-
 Buddhists  say,  ^-ivanmukti.
 
 
@@ -8128,8 +7521,7 @@ perceive  even  now  what  people  outside  are   doing
 or  not  doing,  how  wouldst  thou  be  wise,  fool  as
 thou  art?
 
-67.  Thou  art  not  able  to  hear  a  sound  at  a  dis-
-tance  of  but   five   yq^cinas,  far   less  at  a    greater
+67.  Thou  art  not  able  to  hear  a  sound  at  a  distance  of  but   five   yq^cinas,  far   less  at  a    greater
 distance.
 
 68.  Thou  canst  not  discern  who  are  malevolent  or
@@ -8137,21 +7529,18 @@ benevolent  towards  thee.     Whence  then  comes  that
 pride  to  thee  ?
 
 69.  If  thou  hast  to  walk  so  far  as  a  kos,  thou
-canst  not  go  without  a  beaten  track2;  and  what  hap-
-pened  to  thee  when   in  thy  mother's  womb  thou
+canst  not  go  without  a  beaten  track2;  and  what  happened  to  thee  when   in  thy  mother's  womb  thou
 hast  immediately  forgotten.
 
 70.  In  this  world  he  is  called  all-knowing  who
 possesses  the  five  transcendent  faculties,  but  when
-thou  who   knowest   nothing   pretendest  to   be  all-
-knowing,  it  is  an  effect  of  infatuation.
+thou  who   knowest   nothing   pretendest  to   be  allknowing,  it  is  an  effect  of  infatuation.
 
 71.  If  thou  art  desirous  of  omniscience,  direct  thy
 attention  to  transcendent  wisdom ;  then  betake  thy-
 
 1  I.  e.  eternal,  because  in  this  system  the  dead  is  dead  for  ever.
-This  immortal,  everlasting  Nirvana  is,  of  course,  the  anupadhi-
-jesha,  Pali  anupadisesa  N.
+This  immortal,  everlasting  Nirvana  is,  of  course,  the  anupadhijesha,  Pali  anupadisesa  N.
 
 2  Or,  perhaps,  without  a  guide,  padavin  tu  vina  'gati^.     This
 does  not  agree  with  the  prose  version,  but  it  is  not  rare  to  meet
@@ -8186,8 +7575,7 @@ leading  to   Nirvana,  both  such  as  are  mixed  with
 imperfection  and  such  as  are  exempt  from  it,  such
 as  are  tranquil  and  comparable  to  ethereal  space ;
 
-77.  The  four  Brahmaviharas 3  and  the  four  Saii-
-grahas 4,  as  well  as  the  laws  sanctioned  by  eminent
+77.  The  four  Brahmaviharas 3  and  the  four  Saiigrahas 4,  as  well  as  the  laws  sanctioned  by  eminent
 sages  for  the  education  of  creatures ;
 
 78.  (He  who  knows  these  things)  and   that  all
@@ -8199,8 +7587,7 @@ phenomena  have  the  nature  of  illusion  and  dreams,
 2  Or,  absence  of  fixed  purpose,  pramdhanavivar^-itam.
 
 3  Otherwise  termed  Appamamla  in  Pali ;  they  are  identical  with
-the  four  bhavanas,  or  exercises  to  develop  benevolence,  com-
-passion, cheerful  sympathy,  and  equanimity,  well  known  from  the
+the  four  bhavanas,  or  exercises  to  develop  benevolence,  compassion, cheerful  sympathy,  and  equanimity,  well  known  from  the
 Yoga ;  see  Yogajastra  I,  33.
 
 4  Commonly  called  sahgrahavastuni,  Pali  sahgahavatthuni,
@@ -8214,8 +7601,7 @@ V.  ON    PLANTS.  141
 that  they  are  pithless  as  the  stem  of  the  plantain1,
 and  similar  to  an  echo ;
 
-79.  And  who  knows  that  the  triple  world  through-
-out is  of  that  nature,  not  fast  and  not  loose,  he
+79.  And  who  knows  that  the  triple  world  throughout is  of  that  nature,  not  fast  and  not  loose,  he
 knows  rest.
 
 80.  He  who  considers  all  laws2  to  be  alike,  void,
@@ -8229,8 +7615,7 @@ vehicles  by  any  means ;  there  is  but  one  vehicle  in
 this  world.
 
 82.  All  laws  (or  the  laws  of  all)  are  alike,  equal,
-for  all,  and  ever  alike.     Knowing  this,  one  under-
-stands immortal,  blest  Nirvana.
+for  all,  and  ever  alike.     Knowing  this,  one  understands immortal,  blest  Nirvana.
 
 1  Cf.  the  words  of  the  funeral  song  in  Yag-wavalkya  III,  8 :
 'Foolish  is  he  who  would  seek  pithfulness  in  humanity,  which  is
@@ -8244,8 +7629,7 @@ pithless  as  the  plantain's  stem  and  resembling  a  water  bubble.'
 sama(n)  junyan  nirnanakarawatmikan,  na  yfceta/rc  prekshate  napi
 kimkid  dharmawz  vina^yati.  The  great  difficulty  lies  in  the  second
 half  verse,  which  is  evidently  corrupt  and  wrongly  Sanskritised,  so
-that  the  correctness  of  the  translation  in  this  respect  is  pro-
-blematical.
+that  the  correctness  of  the  translation  in  this  respect  is  problematical.
 
 
 142  SADDHARMA-PLWDARIKA.  VI.
@@ -8268,14 +7652,11 @@ he  shall  be  a  Tathagata,  an  Arhat,  &c.  &c.,  by  the
 name  of  Ra^miprabhasa  (i.e.  beaming  with  rays).
 His  lifetime  shall  last  twelve  intermediate  kalpas,
 and  his  true  law  twenty  intermediate  kalpas ;  the
-counterfeit  of  his  true  law  shall  last  as  many  inter-
-mediate kalpas.  His  Buddha-field  will  be  pure,
+counterfeit  of  his  true  law  shall  last  as  many  intermediate kalpas.  His  Buddha-field  will  be  pure,
 clean,  devoid  of  stones,  grit,  gravel;  of  pits  and
 precipices ;  devoid  of  gutters  and  dirty  pools 2 ;
-even,  pretty,  beautiful,  and  pleasant  to  see ;  consist-
-ing of  lapis  lazuli,  adorned  with  jewel- trees,  and
-looking  like  a  checker-board  with  eight  compart-
-ments set  off  with  gold  threads.  It  will  be  strewed
+even,  pretty,  beautiful,  and  pleasant  to  see ;  consisting of  lapis  lazuli,  adorned  with  jewel- trees,  and
+looking  like  a  checker-board  with  eight  compartments set  off  with  gold  threads.  It  will  be  strewed
 
 
 samu££^raya,  which  also  means  western  rise,
@@ -8287,18 +7668,15 @@ rendering  of  the  last  part  of  the  compound  is  conjectural.
 
 VI.  ANNOUNCEMENT   OF   FUTURE    DESTINY.  143
 
-with  flowers,  and  many  hundred  thousand  Bodhi-
-sattvas  are  to  appear  in  it.  As  to  disciples,  there
+with  flowers,  and  many  hundred  thousand  Bodhisattvas  are  to  appear  in  it.  As  to  disciples,  there
 will  be  innumerable  hundred  thousands  of  myriads
 of  ko/is  of  them.  Neither  Mara  the  evil  one,  nor
 his  host  will  be  discoverable  in  it,  though  Mara
 and  his  followers  shall  afterwards  be  there;  for
 they  will  apply  themselves  to  receive  the  true
-law  under  the  command  of  that  very  Lord  Ra^mi-
-prabhasa.
+law  under  the  command  of  that  very  Lord  Ra^miprabhasa.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 1.  With  my  Buddha-eye,  monks,  I  see  that  the
 senior  Ka^yapa  here  shall  become  a  Buddha  at  a
@@ -8327,14 +7705,12 @@ issues  a  delicious  odour.
 embellished  with  variegated  blossoms ;  in  it  are  no
 pits  nor  precipices ;  it  is  even,  goodly,  beautiful.
 
-7.  There  will  be  found  hundreds  of  ko/is  of  Bo-
-dhisattvas,  subdued  of  mind  and  of  great  magical
+7.  There  will  be  found  hundreds  of  ko/is  of  Bodhisattvas,  subdued  of  mind  and  of  great  magical
 
 
 144  SADDHARMA-PUJVDARiKA.  VI.
 
-power,  mighty  keepers l  of  Sutrantas  of  great  ex-
-tension.
+power,  mighty  keepers l  of  Sutrantas  of  great  extension.
 
 8.  As  to  disciples,  faultless,  princes  of  the  law,
 standing  in  their  last  period  of  life,  their  number
@@ -8347,15 +7723,13 @@ kalpas,  and  his  true  law  twenty  complete  ./Eons ;
 the  counterfeit  is  to  continue  as  many  ALons,  in  the
 domain  of  Rasmiprabhasa.
 
-Thereupon  the  venerable  senior  Maha-Maudga-
-lyayana,  the  venerable  Subhuti,  and  the  venerable
+Thereupon  the  venerable  senior  Maha-Maudgalyayana,  the  venerable  Subhuti,  and  the  venerable
 Maha-Katyayana,  their  bodies  trembling,  gazed  up
 to  the  Lord  with  unblenching  eyes,  and  at  the  same
 moment  severally  uttered,  in  mental  concert,  the
 following  stanzas :
 
-10.  O  hallowed  one  (Arhat),  great  hero,  .Sakya-
-lion,  most  high  of  men !    out  of  compassion  to  us
+10.  O  hallowed  one  (Arhat),  great  hero,  .Sakyalion,  most  high  of  men !    out  of  compassion  to  us
 speak  the  Buddha-word.
 
 11.  The  highest  of  men,  the  £rina,  he  who  knows
@@ -8385,8 +7759,7 @@ the  lower  vehicle,  at  the  calamitous  conjuncture  of  a
 bad  time  l,  were  longing  for  Buddha-knowledge.
 
 14.  But  the  perfectly-enlightened  great  Seer  has
-not  yet  favoured  us  with  a  prediction  (of  our  des-
-tiny), as  if  he  would  say:    Do  not  eat  the   food
+not  yet  favoured  us  with  a  prediction  (of  our  destiny), as  if  he  would  say:    Do  not  eat  the   food
 that  has  been  put  into  your  hand.
 
 15.  Quite  so,  O  hero,  we  were  longing   as  we
@@ -8394,8 +7767,7 @@ heard  the  exalted  voice  (and  thought):  Then  shall
 we  be   at   rest 2,  when   we   shall   have  received  a
 prediction.
 
-1 6.  Utter  a  prediction,  O  great  hero,  so  benevo-
-lent and  merciful !  let  there  be  an  end  of  our  feeling
+1 6.  Utter  a  prediction,  O  great  hero,  so  benevolent and  merciful !  let  there  be  an  end  of  our  feeling
 of  poverty !
 
 And  the  Lord,  who  in  his  mind  apprehended  the
@@ -8404,16 +7776,14 @@ disciples,  again  addressed  the  complete  assembly  of
 monks :  This  great  disciple  of  mine,  monks,  the
 senior  Subhuti,  shall  likewise  pay  homage  to  thirty
 hundred  thousand  myriads  of  ko^is  of  Buddhas ;
-shall  show  them  respect,  honour,  reverence,  venera-
-tion, and  worship.  Under  them  shall  he  lead  a
+shall  show  them  respect,  honour,  reverence,  veneration, and  worship.  Under  them  shall  he  lead  a
 spiritual  life  and  achieve  enlightenment.  After  the
 performance  of  such  duties  shall  he,  in  his  last
 bodily  existence,  become  a  Tathagata  in  the  world,
 an  Arhat,  &c.  &c.,  by  the  name  of  -Sksiketu  3.
 
 His  Buddha-field  will  be  called  Ratnasambhava
-and  his  epoch  Ratnaprabhasa  4.  And  that  Buddha-
-field  will  be  even,  beautiful,  crystalline,  variegated
+and  his  epoch  Ratnaprabhasa  4.  And  that  Buddhafield  will  be  even,  beautiful,  crystalline,  variegated
 with  jewel-trees,  devoid  of  pits  and  precipices,  devoid
 
 
@@ -8432,22 +7802,17 @@ with  jewel-trees,  devoid  of  pits  and  precipices,  devoid
 
 of  sewers1,  nice,  covered  with  flowers.  And  there
 will  men  have  their  abode  in  palaces  (or  towers)
-given  them  for  their  use.  In  it  will  be  many  disci-
-ples, innumerable,  so  that  it  would  be  impossible  to
+given  them  for  their  use.  In  it  will  be  many  disciples, innumerable,  so  that  it  would  be  impossible  to
 terminate  the  calculation.  Many  hundred  thousand
 myriads  of  ko/is  of  Bodhisattvas  also  will  be  there.
-The  lifetime  of  that  Lord  is  to  last  twelve  inter-
-mediate kalpas ;  his  true  law  is  to  continue  twenty
+The  lifetime  of  that  Lord  is  to  last  twelve  intermediate kalpas ;  his  true  law  is  to  continue  twenty
 intermediate  kalpas,  and  its  counterfeit  as  many.
-That  Lord  will,  while  standing  poised  in  the  firma-
-ment2, preach  the  law  to  the  monks,  and  educate
+That  Lord  will,  while  standing  poised  in  the  firmament2, preach  the  law  to  the  monks,  and  educate
 many  thousands  of  Bodhisattvas  and  disciples.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
-17.  I  have  something  to  announce,  monks,  some-
-thing  to    make   known ;    listen   then   to  me :    The
+17.  I  have  something  to  announce,  monks,  something  to    make   known ;    listen   then   to  me :    The
 senior  Subhuti,  my  disciple,  shall  in  days  to  come
 be  a  Buddha.
 
@@ -8478,12 +7843,10 @@ retrograde  motion  of  planets,  &c.
 VI.  ANNOUNCEMENT   OF   FUTURE   DESTINY.  147
 
 21.  In  it  will  be  many  Bodhisattvas  to  turn  the
-wheel  that  never  rolls  back  (or  never  deviates) ;  en-
-dowed with  keen  faculties  they  will,  under  that  <9ina,
+wheel  that  never  rolls  back  (or  never  deviates) ;  endowed with  keen  faculties  they  will,  under  that  <9ina,
 be  the  ornaments  of  the  Buddha-field.
 
-22.  His  disciples  are  so  numerous  as  to  pass  cal-
-culation and  measure ;    gifted  with   the  six   trans-
+22.  His  disciples  are  so  numerous  as  to  pass  calculation and  measure ;    gifted  with   the  six   trans-
 cendent   faculties,   the    triple    science    and    magic
 power ;  firm  in  the  eight  emancipations.
 
@@ -8501,10 +7864,8 @@ Again  the  Lord  addressed  the  complete  assembly
 of  monks :  I  announce  to  you,  monks,  I  make  known
 that  the  senior  Maha-Katyayana  here  present,  my
 disciple,  shall  pay  homage  to  eight  thousand  ko/is
-of  Buddhas ;  shall  show  them  respect,  honour,  re-
-verence, veneration,  and  worship ;  at  the  expiration
-of  those  Tathagatas  he  shall  build  Stftpas,  a  thou-
-sand yo^anas  in  height,  fifty  yo^ranas  in  circumference,
+of  Buddhas ;  shall  show  them  respect,  honour,  reverence, veneration,  and  worship ;  at  the  expiration
+of  those  Tathagatas  he  shall  build  Stftpas,  a  thousand yo^anas  in  height,  fifty  yo^ranas  in  circumference,
 and  consisting  of  seven  precious  substances,  to  wit,
 gold,  silver,  lapis  lazuli,  crystal,  red  pearl1,  emerald,
 and,  seventhly,  coral 2.  Those  Stupas  he  shall  worship
@@ -8516,8 +7877,7 @@ muktayas.     If  the  word  ever  had  any  existence  out  of  Buddhist
 writings,  mukti  must  have  been  a  variation  of  mukta.
 
 2  Musaragalva;  whether  this  precious  stone  really  be  coral,
-as  Buddhist  dictionaries  assert,  is  rather  doubtful.     As  the  enu-
-merated substances  represent  the   seven  colours — originally  the
+as  Buddhist  dictionaries  assert,  is  rather  doubtful.     As  the  enumerated substances  represent  the   seven  colours — originally  the
 
 L   2
 
@@ -8531,22 +7891,18 @@ homage  to  twenty  ko/is  of  Buddhas ;  show  them
 respect,  honour,  reverence,  veneration,  and  worship.
 Then  in  his  last  bodily  existence  l,  his  last  corporeal
 appearance,  he  shall  be  a  Tathagata  in  the  world,  an
-Arhat,  &c.  &c.,  named  6"ambunada-prabhasa  (i.e.  gold-
-shine),  endowed  with  science  and  conduct,  &c.  His
+Arhat,  &c.  &c.,  named  6"ambunada-prabhasa  (i.e.  goldshine),  endowed  with  science  and  conduct,  &c.  His
 Buddha-field  will  be  thoroughly  pure,  even,  nice,
-pretty,  beautiful,  crystalline,  variegated  with  jewel-
-trees,  interlaced  with  gold  threads,  strewed  with
+pretty,  beautiful,  crystalline,  variegated  with  jeweltrees,  interlaced  with  gold  threads,  strewed  with
 flowers,  free  from  beings  of  the  brute  creation,  hell,
 and  the  host  of  demons,  replete  with  numerous
-men  and  gods,  adorned  with  many  hundred  thou-
-sand disciples  and  many  hundred  thousand  Bodhi-
+men  and  gods,  adorned  with  many  hundred  thousand disciples  and  many  hundred  thousand  Bodhi-
 sattvas.  The  measure  of  his  lifetime  shall  be  twelve
 intermediate  kalpas ;  his  true  law  shall  continue
 twenty  intermediate  kalpas  and  its  counterfeit  as
 many.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas  :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas  :
 
 25.  Listen  all  to  me,  ye  monks,  since  I  am  going
 to  utter  an  infallible  word2.     Katyayana  here,  the
@@ -8582,8 +7938,7 @@ highly  honoured  in  this  world,  including  the  gods,
 under  the  name  of  {^ambunada-prabhasa l,  and  save
 ko/is  of  gods  and  men.
 
-29.  Many  Bodhisattvas  as  well  as  disciples,  be-
-yond measure  and  calculation,  will  in  that  field  adorn
+29.  Many  Bodhisattvas  as  well  as  disciples,  beyond measure  and  calculation,  will  in  that  field  adorn
 the  reign  of  that  Buddha,  all  of  them  freed  from
 existence  and  exempt  from  existence 2.
 
@@ -8599,8 +7954,7 @@ crystal,  red  pearl,  emerald,  and,  seventhly,  coral  ;
 (Stupas)  a  thousand  yq^anas  in  height  and  five
 hundred  yo^anas  in  circumference,  which  Stupas  he
 shall  worship  in  different  ways,  with  flowers,  incense,
-perfumed  wreaths,  ointments,  powder,  robes,  um-
-brellas, banners,  flags,  and  triumphal  streamers.
+perfumed  wreaths,  ointments,  powder,  robes,  umbrellas, banners,  flags,  and  triumphal  streamers.
 
 1  One  MS.  has  a  second-hand  reading,  °ddbhasa.
 
@@ -8616,8 +7970,7 @@ which  the  planet  is  standing  in  some  stage  of  its  course.
 
 Afterwards  he  shall  again  pay  a  similar  worship  to
 twenty1  hundred  thousand  ko/is  of  Buddhas ;  he
-shall  show  respect,  &c.,  and  in  his  last  bodily  exist-
-ence become  in  the  world  a  Tathagata,  &c.,  named
+shall  show  respect,  &c.,  and  in  his  last  bodily  existence become  in  the  world  a  Tathagata,  &c.,  named
 Tamilapatra^andanagandha 2,  endowed  with  science
 and  conduct,  &c.  The  field  of  that  Buddha  will  be
 called  Manobhirama ;  his  period  Ratipratipunza.
@@ -8630,8 +7983,7 @@ of  his  lifetime  shall  be  twenty-four  intermediate
 kalpas ;  his  true  law  is  to  last  forty  intermediate
 kalpas  and  its  counterfeit  as  many.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 30.  The  scion  of  the  Mudgala-race,  my  disciple
 here,  after  leaving3  human  existence  shall  see  twenty
@@ -8686,8 +8038,7 @@ power,  under  the  command  of  that  Sugata.
 
 37.  Under  the  reign  of  that  Sugata  there  shall
 also  appear  numerous  Bodhisattvas,  many  thousands
-of  them,  unable  to  slide  back  (or  to  deviate),  de-
-veloping zeal,  of  extensive  knowledge  and  studious
+of  them,  unable  to  slide  back  (or  to  deviate),  developing zeal,  of  extensive  knowledge  and  studious
 habits.
 
 38.  After   that    Nina's   expiration   his   true   law
@@ -8723,13 +8074,11 @@ CHAPTER  VII.
 ANCIENT     DEVOTION1.
 
 Of  yore,  monks,  in  the  past,  incalculable,  more
-than  incalculable,  inconceivable,  immense,  measure-
-less ^Eons  since,  nay,  at  a  period,  an  epoch  far
+than  incalculable,  inconceivable,  immense,  measureless ^Eons  since,  nay,  at  a  period,  an  epoch  far
 beyond,  there  appeared  in  the  world  a  Tathagata,
 &c.,  named  Mahdbhi^a^anabhibhu,  endowed  with
 science  and  conduct2,  a  Sugata,  &c.  &c.,  in  the  sphere
-Sambhava  (i.  e.  origin,  genesis),  in  the  period  Maha-
-rupa.  (You  ask),  monks,  how  long  ago  is  it  that
+Sambhava  (i.  e.  origin,  genesis),  in  the  period  Maharupa.  (You  ask),  monks,  how  long  ago  is  it  that
 the  Tathagata  was  born  ?  Well,  suppose  some  man
 was  to  reduce  to  powder  the  whole  mass  of  the
 earth  element  as  much  as  is  to  be  found  in  this
@@ -8744,11 +8093,9 @@ the  whole  of  the  earth  element  deposited  in  eastern
 1  Purvayoga,  which  recurs  as  the  heading  of  chaps.  XXII  and
 XXV,  would  at  first  sight  seem  to  mean  '  former  conjunction,'  but
 that  does  not  answer  any  more  than  '  ancient  devotion.'    I  think
-that  yoga  here  is  an  alteration  of  yuga,  age,  period,  or  a  Pra-
-kritism  for  yauga,  i.e.  referring  to  an  age.     A  Sanskrit  purva-
+that  yoga  here  is  an  alteration  of  yuga,  age,  period,  or  a  Prakritism  for  yauga,  i.e.  referring  to  an  age.     A  Sanskrit  purva-
 yauga   would  be  formed   like   purva-yayata,   &c.;    cf.  Pamni
-VI,  2,  103.     The   original   meaning  of  purva-yoga  is,  I  sup-
-pose, pre-history.    Cf.  pubbayogo  ti  pubbakammaw,  Milinda
+VI,  2,  103.     The   original   meaning  of  purva-yoga  is,  I  suppose, pre-history.    Cf.  pubbayogo  ti  pubbakammaw,  Milinda
 Pawho,  p.  2.
 
 2  I.  e.  with  light  and  motion.
@@ -8764,8 +8111,7 @@ the  contrary,  monks,  some  arithmetician  or  master
 of  arithmetic  might,  indeed,  be  able  by  calculation  to
 find  the  end  or  limit  of  the  worlds,  both  those  where
 the  atoms  have  been  deposited  and  where  they  have
-not,  but  it  is  impossible  by  applying  the  rules  of  arith-
-metic to  find  the  limit  of  those  hundred  thousands
+not,  but  it  is  impossible  by  applying  the  rules  of  arithmetic to  find  the  limit  of  those  hundred  thousands
 of  myriads  of  JEons ;  so  long,  so  inconceivable,  so
 immense  is  the  number  of  ALons  which  have  elapsed
 since  the  expiration  of  that  Lord,  the  Tathagata
@@ -8778,15 +8124,13 @@ mighty  knowledge  and  sight  of  the  Tathagata.
 And  on  that  occasion  the  Lord  pronounced  the
 following  stanzas :
 
-1.  I   remember3  the   great  Seer  Abhif/za^ana-
-bhibhu,  the  most  high  of  men,  who  existed  many
+1.  I   remember3  the   great  Seer  Abhif/za^anabhibhu,  the  most  high  of  men,  who  existed  many
 ko/is   of  ^Eons   ago  as   the   superior   £ina  of  the
 period.
 
 2.  If,  for  example,  some  men  after  reducing  this
 
-1  Hence  follows  that  the  Buddha  has  existed  since  time  imme-
-morial ;  in  other  words,  that  he  is  Adibuddha.
+1  Hence  follows  that  the  Buddha  has  existed  since  time  immemorial ;  in  other  words,  that  he  is  Adibuddha.
 
 2  I  have  taken  the  liberty  to  render  svas  by  'yesterday,'  though
 I  have  no  other  warrant  for  the  word  ever  being  taken  in  this
@@ -8810,12 +8154,10 @@ dust,  so  that  this  world  were  empty  and  the  mass
 of  dust  exhausted ;
 
 4.  To  that  immense  mass  of  the  dust  of  these
-worlds,  entirely  reduced  to  atoms,  I  liken  the  num-
-ber of  ^ons  past.
+worlds,  entirely  reduced  to  atoms,  I  liken  the  number of  ^ons  past.
 
 5.  So  immense  is  the  number  of  ko/is  of  ^Eons
-past  since  that  extinct  Sugata ;    the  whole  of  (ex-
-isting) atoms  is  no  (adequate)  expression  of  it ;  so
+past  since  that  extinct  Sugata ;    the  whole  of  (existing) atoms  is  no  (adequate)  expression  of  it ;  so
 many  are  the  ^Eons  which  have  expired  since.
 
 6.  That  Leader  who  has  expired  so  long  ago,  those
@@ -8835,8 +8177,7 @@ ko/is  of  ^Eons.
 
 In  the  beginning  when  the  Lord  had  not  yet
 reached  supreme,  perfect  enlightenment  and  had  just
-occupied  the  summit  of  the  terrace  of  enlighten-
-ment 1,  he  discomfited  and  defeated  the  whole  host
+occupied  the  summit  of  the  terrace  of  enlightenment 1,  he  discomfited  and  defeated  the  whole  host
 of  Mara,  after  which  he  thought :  I  am  to  reach
 
 1  Bodhima«</avaragragata  eva;  var.  lect.  bodhima/zdavaragata  eva,
@@ -8851,11 +8192,9 @@ perfect  enlightenment  *.  But  those  laws  (of  perfect
 enlightenment)  had  not  yet  dawned  upon  him.  He
 stayed  on  the  terrace  of  enlightenment  at  the  foot  of
 the  tree  of  enlightenment  during  one  intermediate
-kalpa.  He  stayed  there  a  second,  a  third  inter-
-mediate kalpa,  but  did  not  yet  attain  supreme,  per-
+kalpa.  He  stayed  there  a  second,  a  third  intermediate kalpa,  but  did  not  yet  attain  supreme,  per-
 fect enlightenment.  He  remained  a  fourth,  a  fifth,  a
-sixth,  a  seventh,  an  eighth,  a  ninth,  a  tenth  inter-
-mediate kalpa  on  the  terrace  of  enlightenment  at
+sixth,  a  seventh,  an  eighth,  a  ninth,  a  tenth  intermediate kalpa  on  the  terrace  of  enlightenment  at
 the  foot  of  the  tree  of  enlightenment2,  continuing
 sitting  cross-legged  without  in  the  meanwhile  rising.
 He  stayed,  the  mind  motionless,  the  body  unstirring
@@ -8866,10 +8205,8 @@ Now,  monks,  while  the  Lord  was  just  on  the
 summit  of  the  terrace  of  enlightenment,  the  gods  of
 Paradise  (Trayastriw.yas)  prepared  him  a  magnificent
 royal  throne,  a  hundred  yq^anas  high,  on  occupying
-which  the  Lord  attained  supreme,  perfect  enlighten-
-ment ;  and  no  sooner  had  the  Lord  occupied  the  seat
-of  enlightenment  than  the  Brahmakayika  gods  scat-
-tered a  rain  of  flowers  all  around  the  seat  of  en-
+which  the  Lord  attained  supreme,  perfect  enlightenment ;  and  no  sooner  had  the  Lord  occupied  the  seat
+of  enlightenment  than  the  Brahmakayika  gods  scattered a  rain  of  flowers  all  around  the  seat  of  en-
 lightenment over  a  distance  of  a  hundred  yq^anas ;
 in  the  sky  they  let  loose  storms  by  which  the  flowers,
 withered,  were  swept  away.  From  the  beginning
@@ -8902,26 +8239,22 @@ ten  intermediate  kalpas,  they  made  uninterruptedly
 resound  those  celestial  musical  instruments  up  to  the
 moment  of  the  complete  extinction  of  the  Lord.
 
-Again,  monks,  after  the  lapse  of  ten  interme-
-diate kalpas  the  Lord  Mahabhi^a^anabhibhu,  the
-Tathagata,  &c.,  reached  supreme,  perfect  enlighten-
-ment2. Immediately  on  knowing  his  having  become
+Again,  monks,  after  the  lapse  of  ten  intermediate kalpas  the  Lord  Mahabhi^a^anabhibhu,  the
+Tathagata,  &c.,  reached  supreme,  perfect  enlightenment2. Immediately  on  knowing  his  having  become
 enlightened  the  sixteen3  sons  born  to  that  Lord
 when  a  prince  royal,  the  eldest  of  whom  was  named
 6V7anakara — which  sixteen  young  princes,  monks,
 had  severally  toys  to  play  with,  variegated  and
 pretty — those  sixteen  princes,  I  repeat,  monks,  left
 their  toys,  their  amusements,  and  since  they  knew
-that  the  Lord  Mahabhi^a^anabhibhu,  the  Tatha-
-gata, &c.,  had  attained  supreme,  perfect  knowledge,
+that  the  Lord  Mahabhi^a^anabhibhu,  the  Tathagata, &c.,  had  attained  supreme,  perfect  knowledge,
 went,  surrounded  and  attended  by  their  weeping
 mothers  and  nurses,  along  with  the  noble,  rich
 king  Alakravartin,  many  ministers,  and  hundred
 thousands  of  myriads  of  ko/is  of  living  beings,  to  the
 place  where  the  Lord  Mahabhi^a^anabhibhu,  the
 
-consequently  ten  intermediate  kalpas  are  equal  to  one  day  (half  day-
-night)  of  twelve  hours,  from  sunrise  until  sunset  at  the  equinox.
+consequently  ten  intermediate  kalpas  are  equal  to  one  day  (half  daynight)  of  twelve  hours,  from  sunrise  until  sunset  at  the  equinox.
 
 1  It  must  have  been  a  stormy  day,  far  from  rare  about  the  time
 of  the  equinoxes.
@@ -8951,8 +8284,7 @@ the  ten  intermediate  kalpas  now  past;    thou    hast
 been  sitting  all  that  time  without  once  moving  thy
 body,  hand,  foot,  or  any  other  part 5.
 
-10.  Thy  mind  also  was  tranquil  and  steady,  mo-
-tionless,   never   to    be    shaken;    thou   knewest   no
+10.  Thy  mind  also  was  tranquil  and  steady,  motionless,   never   to    be    shaken;    thou   knewest   no
 distraction6;  thou  art  completely  quiet  and  faultless.
 
 u.  Joy  with  thee7!  that  thou  so  happily  and  safely,
@@ -8969,8 +8301,7 @@ remove  that  cause,  and  the  remedy.
 3  And,  of  infinite  body;  and,  whose  pharmacology  is  boundless;
 anantakalpa  is  the  term  used.
 
-4  Out  of  a  figure  similar  and  akin  to  Hercules,  the  active  Nara-
-yawa  has  become  a  sage  tranquil,  peaceful,  and  refraining  from
+4  Out  of  a  figure  similar  and  akin  to  Hercules,  the  active  Narayawa  has  become  a  sage  tranquil,  peaceful,  and  refraining  from
 action.
 
 6  De^a.  This  immovability  must  be  taken  cum  grano  salis,
@@ -8985,8 +8316,7 @@ J  Dish/yasi.
 
 VII.  ANCIENT   DEVOTION.  159
 
-without  any  hurt,  hast  reached  supreme  enlighten-
-ment. How  great  a  fortune  is  ours !  we  congratu-
+without  any  hurt,  hast  reached  supreme  enlightenment. How  great  a  fortune  is  ours !  we  congratu-
 late ourselves,  O  Lion  amongst  kings  !
 
 12.  These  unhappy1  creatures,  vexed  in  all  ways,
@@ -9010,19 +8340,16 @@ Protector !
 
 When,  O  monks,  those  sixteen  princes  in  the
 condition  of  boys,  childlike  and  young,  had  with
-such  stanzas  celebrated  the  Lord  Mahabhi^a^wana-
-bhibhu,  the  Tathagata,  &c.,  they  urged  the  Lord  to
+such  stanzas  celebrated  the  Lord  Mahabhi^a^wanabhibhu,  the  Tathagata,  &c.,  they  urged  the  Lord  to
 move  on  the  wheel  of  the  law 2 :  Preach  the  law,  O
 Lord ;  preach  the  law,  O  Sugata,  for  the  weal  of  the
-public,  the  happiness  of  the  public,  out  of  compas-
-sion for  the  world ;  for  the  benefit,  weal,  and  happi-
+public,  the  happiness  of  the  public,  out  of  compassion for  the  world ;  for  the  benefit,  weal,  and  happi-
 ness of  the  people  generally,  both  of  gods  and  men.
 And  on  that  occasion  they  uttered  the  following
 stanzas :
 
 15.  Preach  the  law,  O  thou  who  art  marked  with
-a  hundred  auspicious   signs,  O    Leader,  O   incom-
-parable   great    Seer!    thou   hast   attained   exalted,
+a  hundred  auspicious   signs,  O    Leader,  O   incomparable   great    Seer!    thou   hast   attained   exalted,
 
 
 1  Anayika,  derived  from  an  and  a*ya.
@@ -9032,8 +8359,7 @@ parable   great    Seer!    thou   hast   attained   exalted,
 
 1 60  SADDHARMA-PUtfDARlKA.  VII.
 
-sublime  knowledge ;  let  it  shine  in  the  world,  includ-
-ing the  gods.
+sublime  knowledge ;  let  it  shine  in  the  world,  including the  gods.
 
 1 6.  Release  us  as  well  as  these  creatures  ;  display
 the  knowledge  of  the  Tathagatas,  that  we  also  and,
@@ -9046,16 +8372,13 @@ disposition  and  the   good  works  done  in  a  former
 state ;  the  (natural)  bent  of  all  living  beings.     Move
 on  the  most  exalted,  sublime  wheel !
 
-Then,  monks,  as  the  Lord  Mahabhi^a^ana-
-bhibhu,  the  Tathagata,  &c.,  reached  supreme,  per-
+Then,  monks,  as  the  Lord  Mahabhi^a^anabhibhu,  the  Tathagata,  &c.,  reached  supreme,  per-
 fect enlightenment,  fifty  hundred  thousand  myriads
 of  ko/is  of  spheres  in  each  of  the  ten  directions
-of  space  were  shaken  in  six  different  ways  and  be-
-came illumined  with  a  great  lustre.  And  in  the
+of  space  were  shaken  in  six  different  ways  and  became illumined  with  a  great  lustre.  And  in  the
 intervals  between  all  those  spheres,  in  the  dreary
 places  of  dark  gloom,  where  even  the  sun  and  moon,
-so  powerful,  mighty,  and  splendid,  have  no  advan-
-tage of  the  shining  power  they  are  endowed  with,
+so  powerful,  mighty,  and  splendid,  have  no  advantage of  the  shining  power  they  are  endowed  with,
 have  no  advantage  of  the  colour  and  brightness  they
 possess,  even  in  those  places  a  great  lustre  arose
 instantly.  And  the  beings  who  appeared 2  in  those
@@ -9079,9 +8402,6 @@ VII.
 ANCIENT    DEVOTION.
 
 
-161
-
-
 great  lustre,  surpassing  the  divine  majesty  of  the
 gods.  So  then,  monks,  a  great  earthquake  and  a
 great,  sublime  lustre  arose  simultaneously.  And  the
@@ -9092,16 +8412,14 @@ splendour  and  glory.  And  those  Brahma-angels
 made  this  reflection  :  What  may  be  foreboded  by
 these  aerial  cars  so  excessively  glittering,  glowing,
 and  sparkling  in  splendour  and  glory  ?  Thereupon,
-monks,  the  Brahma-angels  in  the  fifty  hundred  thou-
-sand myriads  of  ko/is  of  spheres  went  all  to  each
+monks,  the  Brahma-angels  in  the  fifty  hundred  thousand myriads  of  ko/is  of  spheres  went  all  to  each
 other's  abodes  and  communicated  the  matter  to  one
 another.  After  that,  monks,  the  great  Brahma-angel,
 named  Sarvasattvatratrz  (i.e.  Saviour  of  all  beings)1,
 addressed  the  numerous  host  of  Brahma-angels  in
 the  following  stanzas  :
 
-1 8.  Our  aerial  cars  to-day  (or  now)  are  all  brist-
-ling2  with  rays   in   an   extraordinary   degree,    and
+1 8.  Our  aerial  cars  to-day  (or  now)  are  all  bristling2  with  rays   in   an   extraordinary   degree,    and
 blazing  in  beautiful  splendour  and  brilliancy.     What
 may  be  the  cause  of  it  ?
 
@@ -9135,8 +8453,7 @@ four  quarters  successively  until  they  arrived  at  the
 western  quarter,  where  those  great  Brahma-angels,
 O  monks,  stationed  in  the  western  quarter,  saw  the
 Lord  Mahabhi^a^&nabhibhu,  the  Tathagata,  &c.,
-on  the  summit  of  the  exalted  terrace  of  enlighten-
-ment, seated  on  the  royal  throne  at  the  foot  of  the
+on  the  summit  of  the  exalted  terrace  of  enlightenment, seated  on  the  royal  throne  at  the  foot  of  the
 tree  of  enlightenment1,  surrounded  and  attended
 by  gods,  Nagas,  goblins,  Gandharvas,  demons,
 Garu^as,  Kinnaras,  great  serpents,  men,  and  beings
@@ -9184,8 +8501,7 @@ owing  to  previous  works ;  accept  them  to  oblige  us,
 and  make  use  of  them  to  thine  heart's  content,  O
 Knower  of  the  world !
 
-After  the  great  Brahma-angels,  monks,  had  cele-
-brated the  Lord  Mahabhi^/Ia^anabhibhu,the  Tatha-
+After  the  great  Brahma-angels,  monks,  had  celebrated the  Lord  Mahabhi^/Ia^anabhibhu,the  Tatha-
 gata,  &c.,  face  to  face,  with  these  seasonable  stanzas,
 they  besought  him,  saying :  May  the  Lord  move
 forward  the  wheel  of  the  law !  May  the  Lord  preach
@@ -9195,8 +8511,7 @@ O  Lord,  to  this  world,  including  gods,  Maras,  and
 Brahma-angels  ;  to  all  people,  including  ascetics  and
 Brahmans,  gods l,  men,  and  demons !  It  will  tend  to
 the  weal  of  the  public,  to  the  happiness  of  the  public  ;
-out  of  mercy  to  the  world,  for  the  benefit  and  hap-
-piness of  the  people  at  large,  both  gods  and  men.
+out  of  mercy  to  the  world,  for  the  benefit  and  happiness of  the  people  at  large,  both  gods  and  men.
 
 Thereupon,  monks,  those  fifty  hundred  thousand
 myriads  of  ko/is  of  Brahma-angels  addressed  the
@@ -9247,8 +8562,7 @@ addressed  the  numerous  host  of  Brahma-angels  with
 the  following  stanzas :
 
 26.  What  foretoken  is  it  we  see  to-day  (or  now),
-friends  ?     Who  or  what  is  foreboded  by  the  celes-
-tial cars  shining  with  such  uncommon  glory  ?
+friends  ?     Who  or  what  is  foreboded  by  the  celestial cars  shining  with  such  uncommon  glory  ?
 
 27.  May,    perhaps,    some    blessed    divine    being
 have  come  hither,  by  whose  power  all  these  aerial
@@ -9282,8 +8596,7 @@ mounted  all  together  their  own  divine  aerial  cars,
 took  with  them  divine  bags,  as  large  as  Mount
 Sumeru,  with  celestial  flowers,  and  went  through  the
 four  quarters  successively  until  they  arrived  at  the
-north-western  quarter,  where  those  great  Brahma-
-angels,  stationed  in  the  north-western  quarter,  saw
+north-western  quarter,  where  those  great  Brahmaangels,  stationed  in  the  north-western  quarter,  saw
 the  Lord  Mahabhi^a^anabhibhu  [&c.,  as  above
 till  compassion  to  us].
 
@@ -9324,12 +8637,10 @@ went  on  waning  during  eighty  hundred  complete
 
 
 34.  But  now  he  has  appeared,  owing  to  our  good
-works,  who  is  (our)  eye,  refuge,  resting-place1,  pro-
-tection, father,  and  kinsman  2  ;    he,  the  benign  and
+works,  who  is  (our)  eye,  refuge,  resting-place1,  protection, father,  and  kinsman  2  ;    he,  the  benign  and
 bounteous  one,  the  King  of  the  law.
 
-After  the  great  Brahma-angels,  monks,  had  cele-
-brated the  Lord  Mahabhi^a^inabhibhu,the  Tatha-
+After  the  great  Brahma-angels,  monks,  had  celebrated the  Lord  Mahabhi^a^inabhibhu,the  Tatha-
 gata,  &c.,  face  to  face,  with  these  seasonable  stanzas,
 they  besought  him  :  May  the  Lord  move  forward  the
 wheel  of  the  law!  [as  above  till  both  gods  and
@@ -9345,14 +8656,12 @@ ascetic  !  reveal  the  law  in  all  directions  ;  deliver  all
 beings  oppressed  with  suffering3;  produce  amongst
 mortals  gladness  and  joy  !
 
-36.  Let  them  by  hearing  the  law  partake  of  en-
-lightenment and  reach  divine  places.     Let  all  shake
+36.  Let  them  by  hearing  the  law  partake  of  enlightenment and  reach  divine  places.     Let  all  shake
 off  their  demon  body  and  be  peaceful,  meek,  and  at
 ease  *.
 
 the  Buddha  has  been  absent  for  a  kalpa,  such  a  kalpa=mahakalpa
-contains  4  asahkhyeya-kalpas  ;  each  asahkhyeya-kalpa  has  20  in-
-termediate kalpas  ;  hence  a  mahakalpa=8o  intermediate  kalpas.
+contains  4  asahkhyeya-kalpas  ;  each  asahkhyeya-kalpa  has  20  intermediate kalpas  ;  hence  a  mahakalpa=8o  intermediate  kalpas.
 
 1  Lena,  Sansk.  lay  ana.     In  Burnouf's  translation  we  find  this
 word  rendered  by  appui.
@@ -9424,8 +8733,7 @@ uncommonly  illumined  now,  O  Leader.     To  show  us
 thy  favour  accept  them,  O  thou  whose  look  pierces
 everywhere !
 
-After  the  great  Brahma-angels,  monks,  had  cele-
-brated the  Lord  Mahabhi^a^anabhibhu,  the  Tatha-
+After  the  great  Brahma-angels,  monks,  had  celebrated the  Lord  Mahabhi^a^anabhibhu,  the  Tatha-
 gata,  &c.,  face  to  face,  with  these  seasonable  stanzas,
 they  besought  him  :  May  the  Lord  move  forward  the
 wheel  of  the  law !  [as  above  till  gods  and  men.]
@@ -9435,13 +8743,11 @@ myriads  of  ko/is  of  Brahma-angels  addressed  the
 Lord,  with  one  voice,  in  common  chorus,  with  the
 following  stanzas  :
 
-42.  Preach  the  law,O  Lord  and  Leader !  move  for-
-ward the  wheel  of  the  law,  make  the  drum  of  the  law
+42.  Preach  the  law,O  Lord  and  Leader !  move  forward the  wheel  of  the  law,  make  the  drum  of  the  law
 resound,  and  blow  the  conch-trumpet  of  the  law.
 
 43.  Shed  the  rain  of  the  true  law  over  this  world
-and  proclaim  the  sweet-sounding  good  word ;  mani-
-fest  the   law   required,   save   myriads   of  ko/is    of
+and  proclaim  the  sweet-sounding  good  word ;  manifest  the   law   required,   save   myriads   of  ko/is    of
 beings.
 
 And  the  Lord,  monks,  silently  intimated  his  assent
@@ -9451,8 +8757,7 @@ Repetition ;  the  same  occurred  in  the  south-west,
 in  the  west,  in  the  north-west,  in  the  north,  in  the
 north-east,  in  the  nadir.
 
-Then,  monks,  the  aerial  cars  of  the  Brahma-
-angels  in  the  nadir 2,  in  those  fifty  hundred  thousand
+Then,  monks,  the  aerial  cars  of  the  Brahmaangels  in  the  nadir 2,  in  those  fifty  hundred  thousand
 myriads  of  ko/is  of  spheres  [&c.,  as  above  till
 
 1  We  must  in  thought  add,  in  full  glory,  because  we  are  at
@@ -9467,26 +8772,20 @@ VII.
 ANCIENT   DEVOTION.
 
 
-169
-
-
 to  one  another].  After  that,  monks,  the  great
-Brahma-angel,  named  .Sikhin,  addressed  the  nu-
-merous host  of  Brahma-angels  with  the  following
+Brahma-angel,  named  .Sikhin,  addressed  the  numerous host  of  Brahma-angels  with  the  following
 stanzas :
 
 44.  What  may  be  the  cause,  O  friends,  that  our
 cars  are  so  bright  with  splendour,  colour,  and  light  ?
-What  may  be  the  reason  of  their  being  so  exceed-
-ingly glorious  ?
+What  may  be  the  reason  of  their  being  so  exceedingly glorious  ?
 
 45.  We  have  seen  nothing  like  this  before  nor
 heard   of  it   from   others.     These    (cars)   are   now
 bright   with    splendour  and   exceedingly   glorious ;
 what  may  be  the  cause  of  it  ?
 
-46.  Should   it   be   some  god  who  has  been  be-
-stowed  upon1   the   world   in   recompense  of  good
+46.  Should   it   be   some  god  who  has  been  bestowed  upon1   the   world   in   recompense  of  good
 works,  and  whose  grandeur  thus  comes  to  light  ?
 Or  is  perhaps  a  Buddha  born  in  the  world  ?
 
@@ -9575,9 +8874,6 @@ VII.
 ANCIENT    DEVOTION.
 
 
-171
-
-
 55.  Hail !    thou  hast  safely  arrived  at   supreme
 Buddha-knowledge;   we  feel  thankful  before  thee,
 and  so  does  the  world,  including  the  gods.
@@ -9614,8 +8910,7 @@ thousands  of  ko/is  of  ^Eons.
 
 Now,  monks,  the  Lord  Mahabhi^wa^anabhibhu,
 the  Tathagata,  &c.,  being  acquainted  with  the  prayer
-of  the  hundred  thousand  myriads  of  ko/is  of  Brahma-
-angels  and  of  the  sixteen  princes,  his  sons,  com-
+of  the  hundred  thousand  myriads  of  ko/is  of  Brahmaangels  and  of  the  sixteen  princes,  his  sons,  com-
 menced at  that  juncture  to  turn  the  wheel  that  has
 three  turns  and  twelve  parts,  the  wheel  never
 moved  by  any  ascetic,  Brahman,  god,  demon,  nor
@@ -9630,8 +8925,7 @@ to  suppression  of  pain.  He  moreover  extensively
 set  forth  how  the  series  of  causes  and  effects  is
 evolved, (and  said) :  It  is  thus, monks.  From  ignorance
 proceed  conceptions  (or  fancies) ;  from  conceptions
-(or  fancies)  proceeds  understanding 1 ;  from  under-
-standing name  and  form ;  from  name  and  form  the  six
+(or  fancies)  proceeds  understanding 1 ;  from  understanding name  and  form ;  from  name  and  form  the  six
 senses2;  from  the  six  senses  proceeds  contact;  from
 contact  sensation  ;  from  sensation  proceeds  longing ;
 from  longing  proceeds  striving3;  from  striving  as
@@ -9639,8 +8933,7 @@ cause  issues  existence ;  from  existence  birth ;  from
 birth  old  age,  death,  mourning,  lamentation,  sorrow,
 dismay,  and  despondency.  So  originates  this  whole
 mass  of  misery.  From  the  suppression  of  ignorance
-results  the  suppression  of  conceptions ;  from  the  sup-
-pression of  conceptions  results  that  of  understand-
+results  the  suppression  of  conceptions ;  from  the  suppression of  conceptions  results  that  of  understand-
 ing ;  from  the  suppression  of  understanding  results
 that  of  name  and  form ;  from  the  suppression  of
 name  and  form  results  that  of  the  six  senses ;  from
@@ -9648,8 +8941,7 @@ the  suppression  of  the  six  senses  results  that  of
 contact ;  from  the  suppression  of  contact  results
 that  of  sensation  ;  from  the  suppression  of  sensation
 results  that  of  longing;  from  the  suppression  of
-longing  results  that  of  striving;  from  the  sup-
-pression of  striving  results  that  of  existence ;  from
+longing  results  that  of  striving;  from  the  suppression of  striving  results  that  of  existence ;  from
 the  suppression  of  existence  results  that  of  birth ;
 from  the  suppression  of  birth  results  that  of  old  age,
 death,  mourning,  lamentation,  sorrow,  dismay,  and
@@ -9668,8 +8960,7 @@ despondency.     In  this  manner  the  whole  mass  of
 misery  is  suppressed.
 
 And  while  this  wheel  of  the  law,  monks,  was
-being  moved  onward l  by  the  Lord  Mahabhi^a^a-
-nabhibhu,  the  Tathagata,  &c.,  in  presence  of  the
+being  moved  onward l  by  the  Lord  Mahabhi^a^anabhibhu,  the  Tathagata,  &c.,  in  presence  of  the
 world,  including  the  gods,  demons,  and  Brahma-angels ;
 of  the  assemblage,  including  ascetics  and  Brahmans;
 then,  at  that  time,  on  that  occasion,  the  minds  of
@@ -9680,13 +8971,10 @@ sixfold  transcendent  wisdom,  of  the  emancipations
 and  meditations.  In  due  course,  monks,  the  Lord
 Mahabhi^a^anabhibhu,  the  Tathagata,  &c.,  again
 gave  a  second  exposition  of  the  law ;  likewise  a
-third  and  a  fourth  exposition3.  And  at  each  exposi-
-tion, monks,  the  minds  of  hundred  thousands  of
+third  and  a  fourth  exposition3.  And  at  each  exposition, monks,  the  minds  of  hundred  thousands  of
 myriads  of  ko/is  of  beings,  like  the  sands  of  the
-river  Ganges,  were  without  effort  freed  from  imper-
-fections. Afterwards,  monks,  the  congregation  of
-disciples  of  that  Lord  was  so  numerous  as  to  sur-
-pass all  calculation.
+river  Ganges,  were  without  effort  freed  from  imperfections. Afterwards,  monks,  the  congregation  of
+disciples  of  that  Lord  was  so  numerous  as  to  surpass all  calculation.
 
 Meanwhile,  monks,  the  sixteen  princes,  the  youths,
 had,  full  of  faith,  left  home  to  lead  the  vagrant  life  of
@@ -9709,14 +8997,12 @@ one  day.
 1 74  SADDHARMA-PLWDARfKA.  VII.
 
 lightenment.  These  sixteen  novices,  monks,  said
-to  the  Lord  Mahabhi^a^anabhibhu,  the  Tatha-
-gata,  &c.,  the  following :  O  Lord,  these  many  hun-
+to  the  Lord  Mahabhi^a^anabhibhu,  the  Tathagata,  &c.,  the  following :  O  Lord,  these  many  hun-
 dred thousand  myriads  of  ko/is  of  disciples  of  the
 Tathagata  have  become  very  mighty,  very  powerful,
 very  potent,  owing  to  the  Lord's  teaching  of  the
 law.  Deign,  O  Lord,  to  teach  us  also,  for  mercy's
-sake,  the  law  with  a  view  to  supreme,  perfect  en-
-lightenment, so  that  we  also  may  follow  the  teaching
+sake,  the  law  with  a  view  to  supreme,  perfect  enlightenment, so  that  we  also  may  follow  the  teaching
 of  the  Tathagata  \  We  want,  O  Lord,  to  see  the
 knowledge  of  the  Tathagata ;  the  Lord  can  himself
 testify  to  this,  for  thou,  O  Lord,  who  knowest  the
@@ -9729,11 +9015,9 @@ of  the  king  Aakravartin,  to  the  number  of  eighty
 hundred  thousand  myriads  of  ko/is  of  living  beings 2,
 chose  the  vagrant  life  of  mendicants.
 
-Subsequently,  monks,  the  Lord  Mahabhi^a^wa-
-nabhibhu,  the  Tathagata,  &c.,  viewing  the  prayer
+Subsequently,  monks,  the  Lord  Mahabhi^a^wanabhibhu,  the  Tathagata,  &c.,  viewing  the  prayer
 of  those  novices  at  the  lapse 3  of  twenty  thousand
-./Eons,  amply  and  completely  revealed  the  Dharma-
-paryaya  called  '  the  Lotus  of  the  True  Law,'  a  text  *
+./Eons,  amply  and  completely  revealed  the  Dharmaparyaya  called  '  the  Lotus  of  the  True  Law,'  a  text  *
 of  great  extent,  serving  to  instruct  Bodhisattvas  and
 proper  for  all  Buddhas,  in  presence  of  all  the  four
 classes  of  auditors.
@@ -9757,37 +9041,29 @@ vn.
 ANCIENT    DEVOTION.
 
 
-175
-
-
 In  course  of  time,  monks,  those  sixteen  novices
 grasped,  kept,  and  fully  penetrated  the  Lord's
 teaching.
 
-Subsequently,  monks,  the  Lord  Mahabhi^a^wani-
-bhibhu,  the  Tathagata,  &c.,  foretold  those  sixteen
-novices  their  future  destiny  to  supreme,  perfect  en-
-lightenment. And  while  the  Lord  Mahabhi^a^i-
+Subsequently,  monks,  the  Lord  Mahabhi^a^wanibhibhu,  the  Tathagata,  &c.,  foretold  those  sixteen
+novices  their  future  destiny  to  supreme,  perfect  enlightenment. And  while  the  Lord  Mahabhi^a^i-
 nabhibhu,  the  Tathagata,  &c.,  was  propounding  the
 Dharmaparyaya  of  the  Lotus  of  the  True  Law,  the
 disciples  as  well  as  the  sixteen  novices  were  full  of
 faith,  and  many  hundred  thousand  myriads  of  ko^is
 of  beings  acquired  perfect  certainty1.
 
-Thereupon,  monks,  after  propounding  the  Dhar-
-maparyaya of  the  Lotus  of  the  True  Law  during
+Thereupon,  monks,  after  propounding  the  Dharmaparyaya of  the  Lotus  of  the  True  Law  during
 eight  thousand  ^ons  without  interruption,  the
 Lord  Mahabhi^af/zanabhibhu,  the  Tathagata,  &c.,
 entered  the  monastery  to  retire  for  the  purpose  of
 meditation 2,  and  in  that  retirement,  monks,  the
-Tathagata  continued  in  the  monastery  during  eighty-
-four  thousand  ko/'is  of  ^ons.
+Tathagata  continued  in  the  monastery  during  eightyfour  thousand  ko/'is  of  ^ons.
 
 Now,  monks,  when  the  sixteen  novices  perceived
 that  the  Lord  was  absorbed,  they  sat  down  on  the
 seats,  the  royal  thrones  which  had  been  prepared  for
-each  of  them,  and 3  amply  expounded,  during  eighty-
-four  hundred  thousand  myriads  of  ko/is4,  the  Dhar-
+each  of  them,  and 3  amply  expounded,  during  eightyfour  hundred  thousand  myriads  of  ko/is4,  the  Dhar-
 
 1  Nirvi^ikitsdprapta;  a  var. lect.  has  vi^ikitsapr&pta,  which
 means  exactly  the  reverse,  at  least  if  we  take  vi^ikitsa  in  its  usual
@@ -9815,8 +9091,7 @@ thousand  myriads  of  ko/is  of  living  beings,  equal  to
 the  sands  of  the  river  Ganges.
 
 Now,  monks,  at  the  lapse  of  eighty-four  thousand
-^Eons  the  Lord  Mahabhi^a^anabhibhu,  the  Tatha-
-gata,  &c.,  rose  from  his  meditation,  in  possession  of
+^Eons  the  Lord  Mahabhi^a^anabhibhu,  the  Tathagata,  &c.,  rose  from  his  meditation,  in  possession  of
 memory  and  consciousness,  whereafter  he  went  up
 to  the  seat  of  the  law,  designed  for  him,  in  order  to
 occupy  it.
@@ -9828,23 +9103,19 @@ monks :  They  are  wonderfully  gifted,  monks,  they
 are  prodigiously  gifted,  these  sixteen  novices,
 wise,  servitors  to  many  hundred  thousand  myriads
 of  ko/is  of  Buddhas,  observers  of  the  course  (of
-duty),  who  have  received  Buddha-knowledge,  trans-
-mitted Buddha- knowledge,  expounded  Buddha-
+duty),  who  have  received  Buddha-knowledge,  transmitted Buddha- knowledge,  expounded  Buddha-
 knowledge.  Honour  these  sixteen  novices,  monks,
 again  and  again ;  and .  all,  be  they  devoted  to  the
-vehicle  of  the  disciples,  the  vehicle  of  the  Pra-
-tyekabuddhas,  or  the  vehicle  of  the  Bodhisattvas,
+vehicle  of  the  disciples,  the  vehicle  of  the  Pratyekabuddhas,  or  the  vehicle  of  the  Bodhisattvas,
 
 
 1  Avadharitavan;  var.  lect.  avataritavan,  'brought  (them)  to,
 initiated  (them)  in.'
 
-2  Shash/iffz  shash/i  (var.  lect.  shash/ishash/i)  Gahganadivalikasa-
-mani  pra«iko/inayutajatasahasram  ;  the  second  reading  admits  of
+2  Shash/iffz  shash/i  (var.  lect.  shash/ishash/i)  Gahganadivalikasamani  pra«iko/inayutajatasahasram  ;  the  second  reading  admits  of
 being  rendered,  hundred  thousands  of  myriads  of  ko/is  of  living
 beings,  equal  to  the  sands  of  60  x  60  rivers  (like  the)  Ganges.
-The  number  360  is  that  of  the  days  in  a  year,  the  five  super-
-numerary days  (avama)  not  being  taken  into  account.
+The  number  360  is  that  of  the  days  in  a  year,  the  five  supernumerary days  (avama)  not  being  taken  into  account.
 
 
 VII.  ANCIENT    DEVOTION.  177
@@ -9855,17 +9126,14 @@ quickly  gain  supreme,  perfect  enlightenment,  and
 obtain  Tathagata-knowledge.
 
 In  the  sequel  also,  monks,  have  these  young  men
-of  good  family  repeatedly  revealed  this  Dharma-
-paryaya  of  the  Lotus  of  the  True  Law  under  the
+of  good  family  repeatedly  revealed  this  Dharmaparyaya  of  the  Lotus  of  the  True  Law  under  the
 mastership  of  that  Lord.  And  the  60  x  60  hundred
 thousand  myriads  of  ko/is  of  living  beings,  equal  to
 the  sands  of  the  river  Ganges l,  who  by  each  of  the
 sixteen  novices,  the  Bodhisattvas  Mahasattvas,  in
-the  quality  of  Bodhisattva,  had  been  roused  to  en-
-lightenment, all  those  beings  followed  the  example
+the  quality  of  Bodhisattva,  had  been  roused  to  enlightenment, all  those  beings  followed  the  example
 of  the  sixteen  novices  in  choosing  along  with  them
-the  vagrant  life  of  mendicants,  in  their  several  exist-
-ences; they  enjoyed  their  sight  and  heard  the
+the  vagrant  life  of  mendicants,  in  their  several  existences; they  enjoyed  their  sight  and  heard  the
 law  from  their  mouth.  They  propitiated  forty
 ko/is 2  of  Buddhas,  and  some  are  doing  so  up  to
 this  day.
@@ -9873,8 +9141,7 @@ this  day.
 I  announce  to  you,  monks,  I  declare  to  you  :  Those
 sixteen  princes,  the  youths,  who  as  novices  under
 the  mastership  of  the  Lord  were  interpreters  of  the
-law,  have  all  reached  supreme,  perfect  enlighten-
-ment, and  all  of  them  are  staying,  existing,  living
+law,  have  all  reached  supreme,  perfect  enlightenment, and  all  of  them  are  staying,  existing,  living
 even  now,  in  the  several  directions  of  space,  in
 different  Buddha-fields,  preaching  the  law  to  many
 hundred  thousand  myriads  of  kotis  of  disciples  and
@@ -9895,18 +9162,13 @@ needless  to  remark  that  the  points  of  the  compass  are  meant.
 1 78  SADDHARMA-PUJVDARiKA.  VII.
 
 the  Arhat,  &c.,  and  the  Tathagata  Meruku/a,  the
-Arhat,  &C.1  In  the  south-east,  monks,  is  the  Tatha-
-gata Siwhaghosha,  &c.,  and  the  Tathagata  Sim-
-hadhva^a,  &c.2  In  the  south,  monks,  is  the  Tatha-
-gata named  Aka-sapratish^ita,  &c.,  and  the  Tatha-
-gata named  Nityaparinirvrzta3,  &c.  In  the  south-
-west, monks,  is  the  Tathagata  named  Indradhva^a,
+Arhat,  &C.1  In  the  south-east,  monks,  is  the  Tathagata Siwhaghosha,  &c.,  and  the  Tathagata  Sim-
+hadhva^a,  &c.2  In  the  south,  monks,  is  the  Tathagata named  Aka-sapratish^ita,  &c.,  and  the  Tatha-
+gata named  Nityaparinirvrzta3,  &c.  In  the  southwest, monks,  is  the  Tathagata  named  Indradhva^a,
 &c.,  and  the  Tathagata  named  Brahmadhva^ia,  &c.
-In  the  west,  monks,  is  the  Tathagata  named  Ami-
-tayus  4,  &c.,  and  the  Tathagata  named  Sarvalokadha-
+In  the  west,  monks,  is  the  Tathagata  named  Amitayus  4,  &c.,  and  the  Tathagata  named  Sarvalokadha-
 tupadravodvegapratyuttir^a,  &c.  In  the  north-west,
-monks,  is  the  Tathagata  named  Tamalapatra/£anda-
-nagandhabhi^a 5,  &c.,  and  the  Tathagata  Meru-
+monks,  is  the  Tathagata  named  Tamalapatra/£andanagandhabhi^a 5,  &c.,  and  the  Tathagata  Meru-
 kalpa,  &c.  In  the  north,  monks,  is  the  Tathagata
 named  Meghasvarapradipa6,  &c.,  and  the  Tathagata
 
@@ -9928,8 +9190,7 @@ is  Yama,  Death.
 in  the  city  of  Bliss  (Sukhavati),  and  therefore  a  variety  of  Yama.
 His  being  placed  in  the  west  is  explainable,  because  Yama  and
 Varuwa  in  a  certain  function  coincide,  and  the  latter  otherwise
-appears  as  the  ruler  of  the  west.     The  following  worthy  with  end-
-less name,  '  Having  past  all  worldly  calamities  and  emotions/  is
+appears  as  the  ruler  of  the  west.     The  following  worthy  with  endless name,  '  Having  past  all  worldly  calamities  and  emotions/  is
 another  designation  of  Am  it  ay  us,  i.  e.  he  whose  life  is  of  unlimited
 duration.
 
@@ -9943,37 +9204,29 @@ of  the  north-west.
 VII.  ANCIENT   DEVOTION.  179
 
 named  Meghasvarara^a,  &c.  In  the  north-east,
-monks,  is  the  Tathagata  named  Sarvalokabhaya^"i-
-tay£/£/£ambhitatvavidhva^sanakara l,  the  Arhat,  &c.,
-and,  the  sixteenth,  myself,  .Sakyamuni,  the  Tatha-
-gata, the  Arhat,  &c.,  who  have  attained  supreme,
+monks,  is  the  Tathagata  named  Sarvalokabhaya^"itay£/£/£ambhitatvavidhva^sanakara l,  the  Arhat,  &c.,
+and,  the  sixteenth,  myself,  .Sakyamuni,  the  Tathagata, the  Arhat,  &c.,  who  have  attained  supreme,
 perfect  enlightenment  in  the  centre  of  this  Saha-
 \vorld 2.
 
 Further,  monks,  those  beings  who  have  heard  the
 law  from  us  when  we  were  novices,  those  many
-hundred  thousand  myriads  of  ko/is  of  beings,  nume-
-rous as  the  sands  of  the  river  Ganges,  whom  we
-have  severally  initiated  in  supreme,  perfect  enlighten-
-ment, they  are  up  to  this  day  standing  on  the  stage
-of  disciples  and  matured  for  supreme,  perfect  en-
-lightenment. In  regular  turn  they  are  to  attain
+hundred  thousand  myriads  of  ko/is  of  beings,  numerous as  the  sands  of  the  river  Ganges,  whom  we
+have  severally  initiated  in  supreme,  perfect  enlightenment, they  are  up  to  this  day  standing  on  the  stage
+of  disciples  and  matured  for  supreme,  perfect  enlightenment. In  regular  turn  they  are  to  attain
 supreme,  perfect  enlightenment,  for  it  is  difficult,
-monks,  to  penetrate  the  knowledge  of  the  Tatha-
-gatas.  And  which  are  those  beings,  monks,  who,
+monks,  to  penetrate  the  knowledge  of  the  Tathagatas.  And  which  are  those  beings,  monks,  who,
 
 svara.  Dipaorpradipa,  torch,  candle,  light,  is  necessary,  because
 the  ruler  of  the  north  is  the  moon;  meghasvara,  sound  of  the
 clouds,  must  somehow  denote  the  sky.  Ra^an,  king,  is  king
 Soma  (identified  with  the  moon).
 
-1  Var.  lect.  °bhayadevaga/^a°,  and,  according  to  Burnouf,  °bhaya-
-stambhitatva0.     The  compound  contains  four  epithets  of  .Siva,  the
+1  Var.  lect.  °bhayadevaga/^a°,  and,  according  to  Burnouf,  °bhayastambhitatva0.     The  compound  contains  four  epithets  of  .Siva,  the
 ruler  of  the  north-east;  sarvalokabhaya,  the  terror  of  all  the
 world;  a^ita,  unconquerable  (the  var.  lect.  devaga  is  probably
 devagra,  the  chief  or  supreme  of  gods);  ^ambhitatvakara,  he
-who  causes  stiffness;  vidhva/wsanakara,  the  destroyer.    A'am-
-bhita  is  the  regular  Prakrit  form  for  stambhita,  and  here,  without
+who  causes  stiffness;  vidhva/wsanakara,  the  destroyer.    A'ambhita  is  the  regular  Prakrit  form  for  stambhita,  and  here,  without
 doubt,  the  original  reading.
 
 2  Which  seems  to  imply  that  .Sakyamuni  is  both  the  ruler  of
@@ -9990,8 +9243,7 @@ N  2
 
 innumerable,  incalculable  like  the  sands  of  the
 Ganges,  those  hundred  thousands  of  myriads  of
-ko^is  of  living  beings,  whom  I,  when  I  was  a  Bodhi-
-sattva  under  the  mastership  of  that  Lord,  have
+ko^is  of  living  beings,  whom  I,  when  I  was  a  Bodhisattva  under  the  mastership  of  that  Lord,  have
 taught  the  law  of  omniscience  ?  Yourselves,  monks,
 were  at  that  time  those  beings.
 
@@ -10014,8 +9266,7 @@ complete  extinction  has  arrived,  and  sees  that  the
 assemblage  is  pure,  strong  in  faith,  penetrated  with
 the  law  of  voidness,  devoted  to  meditation,  devoted
 to  great  meditation,  then,  monks,  the  Tathagata,
-because  the  time  has  arrived,  calls  together  all  Bodhi-
-sattvas and  all  disciples  to  teach  them  thus :  There
+because  the  time  has  arrived,  calls  together  all  Bodhisattvas and  all  disciples  to  teach  them  thus :  There
 
 
 1  Or,  perhaps,  when ;  api  tu  khalu  punar,  bhikshavo,  yad  aham
@@ -10032,9 +9283,6 @@ VII.
 
 
 ANCIENT    DEVOTION.
-
-
-181
 
 
 is,  O  monks,  in  this  world  no  second  vehicle  at  all,
@@ -10087,8 +9335,7 @@ struck  with  astonishment,  and  think:  We  are  out  of
 the  forest ;  we  have  reached  the  place  of  happy  rest ;
 let  us  stay  here.  They  enter  that  magic  city,  in  the
 meaning  that  they  have  arrived  at  the  place  of  their
-destination,  that  they  are  saved  and  in  the  enjoy-
-ment of  rest.  They  think :  We  are  at  rest,  we  are
+destination,  that  they  are  saved  and  in  the  enjoyment of  rest.  They  think :  We  are  at  rest,  we  are
 refreshed1.  After  a  while,  when  the  guide  perceives
 that  their  fatigue  is  gone,  he  causes  the  magic
 city  to  disappear,  and  says  to  them :  '  Come,  sirs,
@@ -10109,8 +9356,7 @@ Under  those  circumstances  the  Tathagata,  knowing
 the  creatures  to  be  feeble  of  character,  (does)  as  the
 guide  (who)  produces  the  magic  city  in  order  that
 those  people  may  have  repose,  and  after  their  having
-taken  repose,  he  tells  them  that  the  city  is  one  pro-
-duced by  magic.  In  the  same  manner,  monks,  the
+taken  repose,  he  tells  them  that  the  city  is  one  produced by  magic.  In  the  same  manner,  monks,  the
 Tathagata,  &c.,  to  give  a  repose  to  the  creatures,
 very  skilfully  teaches  and  proclaims  two  stages  of
 
@@ -10121,8 +9367,7 @@ VII.  ANCIENT   DEVOTION.
 
 
 Nirvana,  viz.  the  stage  of  the  disciples  and  that  of
-the  Pratyekabuddhas.  And,  monks,  when  the  crea-
-tures are  there  halting,  then  the  Tath&gata,  &c.,
+the  Pratyekabuddhas.  And,  monks,  when  the  creatures are  there  halting,  then  the  Tath&gata,  &c.,
 himself,  pronounces  these  words :  '  You  have  not
 accomplished  your  task,  monks ;  you  have  not
 finished  what  you  had  to  do.  But  behold,  monks !
@@ -10133,11 +9378,9 @@ of  the  Tathagatas,  &c.,  that  they  expound  three
 vehicles.'
 
 And  in  order  to  explain  this  same  subject  more
-in  detail,  the  Lord  on  that  occasion  uttered  the  fol-
-lowing stanzas :
+in  detail,  the  Lord  on  that  occasion  uttered  the  following stanzas :
 
-60.  The    Leader   of   the   world,   Abhi^a^Mna-
-bhibhu,  having  occupied  the  terrace  of  enlighten-
+60.  The    Leader   of   the   world,   Abhi^a^Mnabhibhu,  having  occupied  the  terrace  of  enlighten-
 ment, continued  ten  complete  intermediate  kalpas
 without  gaining  enlightenment,  though  he  saw  the
 things  in  their  very  essence.
@@ -10187,10 +9430,8 @@ are  stirring  to  reveal  a  token  to  living  beings.
 fields  have  been  shaken,  and  the  lofty  angelic  cars1
 in  them  have  become  excessively  brilliant.
 
-68.  The  Brahma-angels  on  perceiving  this  fore-
-token went  and  approached  the  Chief  of  the  Leaders
-of  the  world,  and,  covering  him  with  flowers,  pre-
-sented all  of  them  their  cars  to  him.
+68.  The  Brahma-angels  on  perceiving  this  foretoken went  and  approached  the  Chief  of  the  Leaders
+of  the  world,  and,  covering  him  with  flowers,  presented all  of  them  their  cars  to  him.
 
 69.  They  prayed  him  to  move  forward  the  wheel
 of  the  law,  and  celebrated  him  with   stanzas   and
@@ -10274,8 +9515,7 @@ superior  enlightenment  by  means  of  many  myriads
 of  ko/is  of  illustrations.
 
 8 1.  Demonstrating  with  thousands  of  arguments
-and  elucidating  the  knowledge  of  transcendent  wis-
-dom, the  Lord  of  the  world  indicated  the  veritable
+and  elucidating  the  knowledge  of  transcendent  wisdom, the  Lord  of  the  world  indicated  the  veritable
 course  (of  duty)  such  as  was  followed  by  the  wise
 Bodhisattvas.
 
@@ -10290,8 +9530,7 @@ in  meditation ;    during  eighty-four  complete  y£ons
 the  Lord  of  the  world  continued  meditating,  sitting
 on  the  same  seat.
 
-84.  Those  novices,  perceiving  that  the  Chief  re-
-mained in  the  monastery  without  coming  out  of  it,
+84.  Those  novices,  perceiving  that  the  Chief  remained in  the  monastery  without  coming  out  of  it,
 imparted  to  many  ko/is  of  creatures  that  Buddha-
 
 
@@ -10300,8 +9539,7 @@ A'ailaka  '  is  he  who  contents  himself  with  such  a  portion  of  clothes
 as  barely  suffices  to  cover  his  nakedness,  rejecting  everything  more
 as  superfluous.'     Hodgson  Essays,  p.  52,  cf.  pp.  30  and  64.
 
-2  Or,  according  to   the  reading  followed  by  Burnouf,  'clear-
-sighted as  thyself,  O  hero.'
+2  Or,  according  to   the  reading  followed  by  Burnouf,  'clearsighted as  thyself,  O  hero.'
 
 3  Vilakshayiti.
 
@@ -10311,8 +9549,7 @@ VII.  ANCIENT    DEVOTION.  l8/
 knowledge,  which    is    free   from  imperfections  and
 blissful.
 
-85.  On  the  seats  which  they  had  made  to  be  pre-
-pared, one  for  each,  they  expounded  this  very  Sutra
+85.  On  the  seats  which  they  had  made  to  be  prepared, one  for  each,  they  expounded  this  very  Sutra
 under  the  mastership  of  the  Sugata  of  that  period.
 A  service  of  the  same  kind  they  render  to  me1.
 
@@ -10321,8 +9558,7 @@ A  service  of  the  same  kind  they  render  to  me1.
 each  of  the  sons  of  the  Sugata  converted  (or  trained)
 endless  beings.
 
-87.  After  the  Nina's  complete  Nirvana  they  com-
-menced a  wandering  life  and  saw  ko/is  of  Buddhas  ;
+87.  After  the  Nina's  complete  Nirvana  they  commenced a  wandering  life  and  saw  ko/is  of  Buddhas  ;
 along  with  those  pupils  they  rendered  homage  to
 the  most  exalted  amongst  men.
 
@@ -10332,14 +9568,12 @@ ten  points  of  space,  those  sixteen  sons  of  the  G'ma.
 became  themselves  (^inas,  two  by  two,  in  each  point
 of  the  horizon.
 
-89.  And  all  those  who  had  been  their  pupils  be-
-came disciples  of  those  G'mas,  and  gradually  obtained
+89.  And  all  those  who  had  been  their  pupils  became disciples  of  those  G'mas,  and  gradually  obtained
 possession  of  enlightenment  by  various  means.
 
 90.  I  myself  was  one  of  their  number,  and  you
 have  all  been  taught  by  me.    Therefore  you  are  my
-disciples  now  also,  and  I  lead  you  all  to  enlighten-
-ment by  (my)  devices.
+disciples  now  also,  and  I  lead  you  all  to  enlightenment by  (my)  devices.
 
 91.  This  is  the  cause  dating  from  old,  this  is  the
 motive  of  my  expounding  the  law,  that  I  lead  you  to
@@ -10358,13 +9592,11 @@ with  wild   beasts,  deprived   of  water,  frightful  for
 persons  of  no  experience.
 
 93.  (Suppose  further  that)  many  thousand  men
-have  come  to  the  forest,  that  waste  track  of  wilder-
-ness which  is  fully  five  hundred  yo^anas  in  extent.
+have  come  to  the  forest,  that  waste  track  of  wilderness which  is  fully  five  hundred  yo^anas  in  extent.
 
 94.  And  he  who  is  to  act  as  their  guide  through
 that    rough    and    horrible    forest    is   a   rich    man,
-thoughtful,  intelligent,  wise,  well  instructed,  and  un-
-daunted.
+thoughtful,  intelligent,  wise,  well  instructed,  and  undaunted.
 
 95.  And  those  beings,  numbering  many  ko/is,  feel
 tired,  and  say  to  the  guide :  '  We  are  tired,  Master ;
@@ -10411,8 +9643,7 @@ your  energy  to  reach  the  Isle.'
 
 103.  In  the  same  manner,  monks,  I  am  the  guide,
 the  conductor  of  thousands  of  ko/is  of  living  beings  ;
-in  the  same  manner  I  see  creatures  toiling  and  un-
-able to  break  the  shell  of  the  egg  of  evils l.
+in  the  same  manner  I  see  creatures  toiling  and  unable to  break  the  shell  of  the  egg  of  evils l.
 
 104.  Then  I  reflect  on  this  matter:  These  beings
 have  enjoyed  repose,  have  been  tranquillised ;  now
@@ -10427,16 +9658,14 @@ to  you  how  the  law  really  is.
 
 1 06.  It  is  an  artifice  of  the  Leaders,  when  they,
 the  great  Seers,  show  three  vehicles,  for  there   is
-but  one  vehicle,  no  second ;  it  is  only  to  help  (crea-
-tures) that  two  vehicles  are  spoken  of.
+but  one  vehicle,  no  second ;  it  is  only  to  help  (creatures) that  two  vehicles  are  spoken  of.
 
 107.  Therefore  I  now  tell  you,  monks :  Rouse  to
 the  utmost  your  lofty  energy  for  the  sake  of  the
 knowledge  of  the  all-knowing ;  as  yet,  you  have  not
 come  so  far  as  to  possess  complete  Nirvana.
 
-1 08.  But  when  you  shall  have  attained  the  know-
-ledge of  the  all-knowing  and  the  ten  powers  proper
+1 08.  But  when  you  shall  have  attained  the  knowledge of  the  all-knowing  and  the  ten  powers  proper
 to   £inas,  you   shall  become   Buddhas  marked  by
 
 
@@ -10464,21 +9693,17 @@ CHAPTER  VIII.
 ANNOUNCEMENT    OF    THE   FUTURE    DESTINY   OF    THE
 FIVE    HUNDRED    MONKS.
 
-On  hearing  from  the  Lord  that  display  of  skilful-
-ness  and  the  instruction  by  means  of  mysterious
+On  hearing  from  the  Lord  that  display  of  skilfulness  and  the  instruction  by  means  of  mysterious
 speech ;  on  hearing  the  announcement  of  the  future
-destiny  of  the  great  Disciples,  as  well  as  the  fore-
-going tale  concerning  ancient  devotion  and  the
+destiny  of  the  great  Disciples,  as  well  as  the  foregoing tale  concerning  ancient  devotion  and  the
 leadership1  of  the  Lord,  the  venerable  Puma,  son  of
 Maitrayawi,  was  filled  with  wonder  and  amazement,
 thrilled2  with  pure-heartedness3,  a  feeling  of  delight
 and  joy.  He  rose  from  his  seat,  full  of  delight  and
-joy,  full  of  great  respect  for  the  law,  and  while  pros-
-trating himself  before  the  Lord's  feet,  made  within
+joy,  full  of  great  respect  for  the  law,  and  while  prostrating himself  before  the  Lord's  feet,  made  within
 himself  the  following  reflection :  Wonderful,  O  Lord  ;
 wonderful,  O  Sugata ;  it  is  an  extremely  difficult
-thing  that  the  Tathagatas,  &c.,  perform,  the  con-
-forming to  this  world,  composed  of  so  many  elements,
+thing  that  the  Tathagatas,  &c.,  perform,  the  conforming to  this  world,  composed  of  so  many  elements,
 and  preaching  the  law  to  all  creatures  with  many
 proofs  of  their  skilfulness,  and  skilfully  releasing
 them  when  attached  to  this  or  that.  What  could  we
@@ -10490,16 +9715,14 @@ vrz'shabhatva.
 
 3  Niramisha^ittena.    NiraTnisha  is  both  'free  from  worldly
 taint,  sensual  desire/  and  'without  having  a  lure,  not  eager  for
-reward,'  i.e.  disinterested.     Both  meanings  are  so  intimately  con-
-nected that  it  is  not  always  easy  to  decide  which  we  should  prefer,
+reward,'  i.e.  disinterested.     Both  meanings  are  so  intimately  connected that  it  is  not  always  easy  to  decide  which  we  should  prefer,
 e.g.  Lalita-vistara,  p.  215,  and  Manu  VI,  49.
 
 
 SADDHARMA-PUMDARiKA.  VIII.
 
 
-do,  O  Lord,  in  such  a  case  ?  None  but  the  Tatha-
-gata  knows  our  inclination  and  our  ancient  course.
+do,  O  Lord,  in  such  a  case  ?  None  but  the  Tathagata  knows  our  inclination  and  our  ancient  course.
 Then,  after  saluting  with  his  head  the  Lord's  feet,
 Purwa  went  and  stood  apart,  gazing  up  to  the
 Lord  with  unmoved  eyes  and  so  showing  his
@@ -10508,16 +9731,14 @@ veneration.
 And  the  Lord,  regarding  the  mental  disposition  of
 the  venerable  Purwa,  son  of  Maitraya/zl,  addressed
 the  entire  assembly  of  monks  in  this  strain  :  Ye
-monks,  see1  this  disciple,  Pur/za,  son  of  Maitra-
-yani,  whom  I  have  designated  as  the  foremost  of
+monks,  see1  this  disciple,  Pur/za,  son  of  Maitrayani,  whom  I  have  designated  as  the  foremost  of
 preachers  in  this  assembly,  praised  for  his  many
 virtues,  and  who  has  applied  himself  in  various
 ways  to  comprehend  the  true  law.  He  is  the  man
 to  excite,  arouse,  and  stimulate  the  four  classes  of
 the  audience  ;  unwearied  in  the  preaching  of  the
 law  ;  as  capable,  to  preach  the  law  as  to  oblige  his
-fellow-followers  of  the  course  of  duty.  The  Tatha-
-gata  excepted,  monks,  there  is  none  able  to  equal
+fellow-followers  of  the  course  of  duty.  The  Tathagata  excepted,  monks,  there  is  none  able  to  equal
 Puraa,  son  of  Maitrayam,  either  essentially  or  in
 accessories.  Now,  monks,  do  you  suppose  that  he
 keeps  my  true  law  only  ?  No,  monks,  you  must  not
@@ -10541,17 +9762,14 @@ VIII.       DESTINY    OF    THE   FIVE    HUNDRED    MONKS.        1 93
 wisdom  of  the  Bodhisattvas.  He  has  been  a
 strongly  convinced1  preacher  of  the  law,  exempt
 from  doubt,  and  quite  pure.  Under  the  mastership
-of  those  Buddhas  he  has  during  his  whole  exist-
-ence observed  a  spiritual  life,  and  everywhere  they
+of  those  Buddhas  he  has  during  his  whole  existence observed  a  spiritual  life,  and  everywhere  they
 termed  him  '  the  Disciple.'  By  this  means  he  has
 promoted  the  interest  of  innumerable,  incalculable
 hundred  thousands  of  myriads  of  ko/is  of  beings,
 and  brought  innumerable  and  incalculable  beings  to
 full  ripeness  for  supreme  and  perfect  enlightenment.
-In  all  periods  he  has  assisted  the  creatures  in  the  func-
-tion of  a  Buddha,  and  in  all  periods  he  has  purified
-his  own  Buddha-field,  always  striving  to  bring  crea-
-tures to  ripeness.  He  was  also,  monks,  the  fore-
+In  all  periods  he  has  assisted  the  creatures  in  the  function of  a  Buddha,  and  in  all  periods  he  has  purified
+his  own  Buddha-field,  always  striving  to  bring  creatures to  ripeness.  He  was  also,  monks,  the  fore-
 most among  the  preachers  of  the  law  under  the
 seven  Tathagatas,  the  first  of  whom  is  Vipa,syin  and
 the  seventh  myself2.
@@ -10563,8 +9781,7 @@ them  also  shall  this  same  Puma,  son  of  Maitraya^i,
 be  the  foremost  among  the  preachers  of  the  law
 and  the  keeper  of  the  true  law.  Thus  he  shall  keep
 the  true  law  of  innumerable  and  incalculable  Lords
-and  Buddhas  in  future,  promote  the  interest  of  innu-
-merable and  incalculable  beings,  and  bring  innumer-
+and  Buddhas  in  future,  promote  the  interest  of  innumerable and  incalculable  beings,  and  bring  innumer-
 able and  incalculable  beings  to  full  ripeness  for
 supreme  and  perfect  enlightenment.  Constantly
 and  assiduously  he  shall  be  instant  in  purifying  his
@@ -10579,9 +9796,6 @@ Manus,  rulers  of  certain  periods.
 C«3  °
 
 
-194
-
-
 SADDHARMA-PUJVDARIKA.  VIII.
 
 
@@ -10590,8 +9804,7 @@ end  of  innumerable,  incalculable  JEons,  he  shall
 reach  supreme  and  perfect  enlightenment;  he  shall  in
 the  world  be  the  Tathagata  called  Dharmaprabhasa,
 an  Arhat,  &c.,  endowed  with  science  and  conduct,
-a  Sugata,  &c.  He  shall  appear  in  this  very  Buddha-
-field.
+a  Sugata,  &c.  He  shall  appear  in  this  very  Buddhafield.
 
 Further,  monks,  at  that  time  the  Buddha-field
 spoken  of  will  look  as  if  formed  by  thousands  of
@@ -10603,8 +9816,7 @@ will  be  cars  of  the  gods  stationed  in  the  sky ;  the
 gods  will  behold  men,  and  men  will  behold  the  gods.
 Moreover,  monks,  at  that  time  that  Buddha-field
 shall  be  exempt  from  places  of  punishment  and  from
-womankind,  as  all  beings  shall  be  born  by  appari-
-tional  birth.  They  shall  lead  a  spiritual  life,  have
+womankind,  as  all  beings  shall  be  born  by  apparitional  birth.  They  shall  lead  a  spiritual  life,  have
 ideal2  bodies,  be  self-lighting,  magical,  moving  in
 the  firmament,  strenuous,  of  good  memory,  wise,
 possessed  of  gold-coloured  bodies,  and  adorned  with
@@ -10629,8 +9841,7 @@ VIII.       DESTINY   OF   THE   FIVE    HUNDRED    MONKS.        1 95
 
 be  an  immense,  incalculable  number  of  hundred
 thousands  of  myriads  of  ko/is  of  Bodhisattvas ;  all
-endowed  with  great  transcendent  wisdom,  accom-
-plished in  the  (four)  distinctive  qualifications  of  an
+endowed  with  great  transcendent  wisdom,  accomplished in  the  (four)  distinctive  qualifications  of  an
 Arhat,  able  in  instructing  creatures.  He  (that
 Buddha)  will  have  a  number  of  disciples,  beyond
 all  calculation,  mighty  in  magic,  powerful,  masters  in
@@ -10640,8 +9851,7 @@ will  be  possessed  of.  And  that  ./Eon  shall  be  called
 Ratnavabhasa  (i.  e.  radiant  with  gems),  and  that
 world  SuvLmddha  (i.  e.  very  pure).  His  lifetime
 shall  last  immense,  incalculable  JEons;  and  after
-the  complete  extinction  of  that  Lord  Dharmapra-
-bhisa,  the  Tathagata,  &c.,  his  true  law  shall  last
+the  complete  extinction  of  that  Lord  Dharmaprabhisa,  the  Tathagata,  &c.,  his  true  law  shall  last
 long,  and  his  world  shall  be  full  of  Stupas  made
 of  precious  substances.  Such  inconceivable  good
 qualities,  monks,  shall  the  Buddha-field  of  that  Lord
@@ -10651,8 +9861,7 @@ So  spoke  the  Lord,  and  thereafter  he,  the  Sugata,
 the  Master,  added  the  following  stanzas :
 
 1.  Listen  to  me,  monks,  and  hear  how  my  son
-has  achieved  his  course  of  duty,  and  how  he,  well-
-trained    and   skilful,   has   observed   the   course   of
+has  achieved  his  course  of  duty,  and  how  he,  welltrained    and   skilful,   has   observed   the   course   of
 enlightenment.
 
 2.  Viewing  these  beings  to  be  lowly-disposed  and
@@ -10676,8 +9885,7 @@ who  (at  first),  lowly-disposed  and  somewhat  lazy,  in
 course  of  time  all  become  Buddhas.
 
 5.  They  follow  a  course  in  ignorance  (thinking) :
-We,    disciples,    are   of    little   use,   indeed!     In  de-
-spondency they  descend  into  all  places  of  existence
+We,    disciples,    are   of    little   use,   indeed!     In  despondency they  descend  into  all  places  of  existence
 (successively),  and  (so)  clear  their  own  field.
 
 6.  They  show  in  their  own  persons  that  they  are
@@ -10686,8 +9894,7 @@ on  perceiving  (other)  beings  clinging  to  (heretical)
 views1,  they  go  so  far  as  to  accommodate  themselves
 to  those  views.
 
-7.  By  following  such  a  course  my  numerous  dis-
-ciples skilfully  save  creatures ;  simple  people  would
+7.  By  following  such  a  course  my  numerous  disciples skilfully  save  creatures ;  simple  people  would
 go  mad,  if  they  were  taught  the  whole  course  of  life
 (or  story).
 
@@ -10702,8 +9909,7 @@ hesitation ;    he   has,   indeed,    always   been   able   to
 excite  to  gladness  and  at  all  times  ready  to  perform
 the  Buddha-task.
 
-10.  He  has  always  been  accomplished  in  the  sub-
-lime transcendent  faculties  and  endowed  with  the
+10.  He  has  always  been  accomplished  in  the  sublime transcendent  faculties  and  endowed  with  the
 distinctive  qualifications  of  an  Arhat ;  he  knew  the
 faculties  and  range  of  (other)  beings,  and  has  always
 preached  the  perfectly  pure  law.
@@ -10718,8 +9924,7 @@ purifying  his  own  excellent  field.
 
 VIII.       DESTINY    OF    THE   FIVE    HUNDRED    MONKS.       1 97
 
-12.  In  future  also  he  shall  likewise  honour  thou-
-sands of  ko/is  of  Buddhas,  acquire  knowledge  of  the
+12.  In  future  also  he  shall  likewise  honour  thousands of  ko/is  of  Buddhas,  acquire  knowledge  of  the
 most  eminent  of  good  laws,  and  clean  his  own  field.
 
 13.  Always  free  from  timidity  he  shall  preach  the
@@ -10730,8 +9935,7 @@ of  the  all-knowing  that  is  free  from  imperfections.
 14.  After  having  paid  homage   to  the  Chiefs  of
 men  and  always  kept  the  most  eminent  of  laws,  he
 shall  in  the  world  be  a   Buddha  self-born,  widely
-renowned   everywhere    by   the   name   of   Dharma-
-prabhisa.
+renowned   everywhere    by   the   name   of   Dharmaprabhisa.
 
 15.  And  his  field  shall  always  be  very  pure  and
 always  set  off  with  seven  precious  substances ;  his
@@ -10739,25 +9943,21 @@ always  set  off  with  seven  precious  substances ;  his
 SuvLmddha.
 
 1 6.  That   world   shall   be   pervaded  with   many
-thousand  ko/is  of  Bodhisattvas,  accomplished  mas-
-ters in  the  great  transcendent  sciences,  pure  in  every
+thousand  ko/is  of  Bodhisattvas,  accomplished  masters in  the  great  transcendent  sciences,  pure  in  every
 respect,  and  endowed  with  magical  power.
 
 17.  At  that  period  the  Chief  shall  also  have  an
-assemblage  of  thousands  of  ko^is  of  disciples,  en-
-dowed with  magical  power,  adepts  at  the  meditation
+assemblage  of  thousands  of  ko^is  of  disciples,  endowed with  magical  power,  adepts  at  the  meditation
 of  the  (eight)  emancipations,  and  accomplished  in
 the  (four)  distinctive  qualifications  of  an  Arhat.
 
 1 8.  And  all  beings  in  that  Buddha-field  shall  be
-pure  and  lead  a  spiritual  life.     Springing  into  exist-
-ence by  apparitional  birth,  they  shall  all  be  gold-
+pure  and  lead  a  spiritual  life.     Springing  into  existence by  apparitional  birth,  they  shall  all  be  gold-
 coloured   and   display  the  thirty-two    characteristic
 signs.
 
 19.  They  shall  know  no  other  food  but  pleasure
-in  the  law  and  delight  in  knowledge.     No  woman-
-kind shall  be  there,  nor  fear  of  the  places  of  punish-
+in  the  law  and  delight  in  knowledge.     No  womankind shall  be  there,  nor  fear  of  the  places  of  punish-
 ments or  of  dismal  states.
 
 
@@ -10790,11 +9990,9 @@ become  Tathagatas  of  the  same  name.     Thereafter
 shall  all  those  five  hundred  great   disciples  reach
 supreme  and  perfect  enlightenment,  all  bearing  the
 name  of  Samantaprabhasa;  viz.  Gaya-Kasyapa,  Nadi-
-Ka-syapa,  Uruvilva-Kasyapa,  Kala,  Kalodayin,  Ani-
-ruddha,    Kapphma,    Vakkula  2,  TTunda 3,  Svagata 4,
+Ka-syapa,  Uruvilva-Kasyapa,  Kala,  Kalodayin,  Aniruddha,    Kapphma,    Vakkula  2,  TTunda 3,  Svagata 4,
 
-1  Akinwa  sarvehi  subhadrakehi ;   Burnouf  takes  it  as  a  mascu-
-line, rendering  it  by  '  creatures  fortune'es.'
+1  Akinwa  sarvehi  subhadrakehi ;   Burnouf  takes  it  as  a  masculine, rendering  it  by  '  creatures  fortune'es.'
 
 2  Also  spelt  Vakula;  see  p.  2.
 
@@ -10809,8 +10007,7 @@ VIII.       DESTINY    OF    THE   FIVE    HUNDRED    MONKS.        1 99
 and   the    rest   of  the   five   hundred   self-controlled
 (Arhats).
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 21.  The  scion  of  the  Ku^ina  family,  my  disciple
 here,  shall  in  future  be  a  Tathigata,  a  Lord  of  the
@@ -10818,8 +10015,7 @@ world,  after  the  lapse  of  an  endless  period ;  he  shall
 educate  hundreds  of  ko/is  of  living  beings.
 
 22.  After  seeing  many  endless  Buddhas,  he  shall
-in  future,  after  the  lapse  of  an  endless  period,  be-
-come the  £ina  Samantaprabhasa,  whose  field  shall
+in  future,  after  the  lapse  of  an  endless  period,  become the  £ina  Samantaprabhasa,  whose  field  shall
 be  thoroughly  pure.
 
 23.  Brilliant,  gifted  with  the  powers  of  a  Buddha,
@@ -10828,8 +10024,7 @@ upon    by   thousands   of  ko/is   of  beings,    he    shall
 preach  supreme  and  eminent  enlightenment.
 
 24.  There   shall  be   most   zealous  Bodhisattvas,
-mounted   on   lofty  aereal  cars,  and  moving,  medi-
-tative, pure  in  morals,  and  assiduous  in  doing  good.
+mounted   on   lofty  aereal  cars,  and  moving,  meditative, pure  in  morals,  and  assiduous  in  doing  good.
 
 25.  After  hearing  the  law  from  the  highest  of
 men,    they  shall   invariably  go  to    other   fields,  to
@@ -10841,8 +10036,7 @@ the  Leader  called  Prabhasa,  the  Tathagata l.     So
 great  shall  be  the  power  of  their  course  (of  duty).
 
 2  7.  The  measure  of  the  lifetime  of  that  Sugata
-shall  be  sixty  thousand  JEons,  and,  after  the  com-
-plete extinction  of  that  mighty  one 2,  his  true  law
+shall  be  sixty  thousand  JEons,  and,  after  the  complete extinction  of  that  mighty  one 2,  his  true  law
 shall  remain  twice  as  long  in  the  world.
 
 28.  And  the  counterfeit  of  it  shall  continue  three
@@ -10877,16 +10071,14 @@ the  words :  This  is  to  be  my  immediate  successor,
 and  he  is  to  command  the  world  as  I  do  at  present.
 
 33.  Thus,    Ka^yapa,   keep   now   in   view1    here
-these  self-controlled  (Arhats),  no  less  than  five  hun-
-dred (in  number),  as  well  as  my  other  disciples,  and
+these  self-controlled  (Arhats),  no  less  than  five  hundred (in  number),  as  well  as  my  other  disciples,  and
 speak  of  this  matter  to  the  other  disciples.
 
 On  hearing  from  the  Lord  the  announcement  of
 their  own  future  destiny,  the  five  hundred  Arhats,
 contented,  satisfied,  in  high  spirits  and  ecstasy,  filled
 with  cheerfulness,  joy,  and  delight,  went  up  to  the
-place  where  the  Lord  was  sitting,  reverentially  sa-
-luted with  their  heads  his  feet,  and  spoke  thus  :  We
+place  where  the  Lord  was  sitting,  reverentially  saluted with  their  heads  his  feet,  and  spoke  thus  :  We
 confess  our  fault,  O  Lord,  in  having  continually  and
 constantly  persuaded  ourselves  that  we  had  arrived
 
@@ -10915,10 +10107,8 @@ travels  further;  he  goes  to  some  other  country,
 where  he  is  befallen  by  incessant  difficulties,  and  has
 great  trouble  to  find  food  and  clothing.  By  dint  of
 great  exertion  he  is  hardly  able  to  obtain  a  bit  of
-food,  with  which  (however)  he  is  contented  and  satis-
-fied. The  old  friend  of  that  man,  O  Lord,  who  bound
-within  the  man's  garment  that  priceless  gem,  hap-
-pens to  see  him  again  and  says  :  How  is  it,  good
+food,  with  which  (however)  he  is  contented  and  satisfied. The  old  friend  of  that  man,  O  Lord,  who  bound
+within  the  man's  garment  that  priceless  gem,  happens to  see  him  again  and  says  :  How  is  it,  good
 friend,  that  thou  hast  such  difficulty  in  seeking  food
 and  clothing,  while  I,  in  order  that  thou  shouldst
 live  in  ease,  good  friend,  have  bound  within  thy
@@ -10926,15 +10116,13 @@ garment  a  priceless  gem,  quite  sufficient  to  fulfil  all
 thy  wishes?  I  have  given  thee  that  gern,  my  good
 friend,  the  very  gem  I  have  bound  within  thy
 garment.  Still  thou  art  deliberating :  What  has
-been  bound  ?  by  whom  ?  for  what  reason  and  pur-
-pose ?  It  is  something  foolish  2,  my  good  friend,  to
+been  bound  ?  by  whom  ?  for  what  reason  and  purpose ?  It  is  something  foolish  2,  my  good  friend,  to
 be  contented,  when  thou  hast  with  (so  much)  difficulty
 to  procure  food  and  clothing.  Go,  my  good  friend,
 betake  thyself,  with  this  gem,  to  some  great  city,
 
 
-1  Vastrante,  vasanante;   below  in  stanza  40  we  find  vasa-
-nantarasmi.
+1  Vastrante,  vasanante;   below  in  stanza  40  we  find  vasanantarasmi.
 
 2  Etad  bala^atiyam.
 
@@ -10946,8 +10134,7 @@ do  all  that  can  be  done  with  money.
 
 In  the  same  manner,  O  Lord,  has  the  Tathagata
 formerly,  when  he  still  followed  the  course  of  duty
-of  a  Bodhisattva,  raised  in  us  also  ideas  of  omni-
-science, but  we,  O  Lord,  did  not  perceive,  nor  know  it.
+of  a  Bodhisattva,  raised  in  us  also  ideas  of  omniscience, but  we,  O  Lord,  did  not  perceive,  nor  know  it.
 We  fancied,  O  Lord,  that  on  the  stage  of  Arhat  we
 had  reached  Nirvana.  We  live  in  difficulty,  O  Lord,
 because  we  content  ourselves  with  such  a  trifling
@@ -10964,8 +10151,7 @@ taught  us  the  right  in  such  a  way,  the  Lord  now
 predicts  our  future  destiny  to  supreme  and  perfect
 knowledge.
 
-And  on  that  occasion  the  five  hundred  self-con-
-trolled (Arhats),  A^ata-Kau^afinya  and  the  rest,
+And  on  that  occasion  the  five  hundred  self-controlled (Arhats),  A^ata-Kau^afinya  and  the  rest,
 uttered  the  following  stanzas  :
 
 34.  We  are  rejoicing  and  delighted  to  hear  this
@@ -10995,8 +10181,7 @@ having  given  that  jewel.
 
 38.  The  other  man,  unaware  of  it,  goes  forth  and
 from  that  place  travels  to  another  town.     There  he
-is  befallen  with  misfortune  and,  as  a  miserable  beg-
-gar, seeks  his  food  in  affliction.
+is  befallen  with  misfortune  and,  as  a  miserable  beggar, seeks  his  food  in  affliction.
 
 39.  He  is  contented  with  the  pittance  he  gets  by
 begging  without  caring  for  dainty  food ;  as  to  that
@@ -11014,8 +10199,7 @@ The  value  of  the  jewel  is  such  that  he  becomes  a
 very  rich  man,  of  great  power,  and  in  possession  of
 all  that  the  five  senses  can  enjoy.
 
-42.  In  the  same  manner,  O  Lord,  we  were  un-
-aware of  our  former  aspiration l,  (the  aspiration)  laid
+42.  In  the  same  manner,  O  Lord,  we  were  unaware of  our  former  aspiration l,  (the  aspiration)  laid
 in  us  by  the  Tathagata  himself  in  previous  existences
 from  time  immemorial.
 
@@ -11064,13 +10248,11 @@ venerable  Rahula  also,  in  whom  rose  the  same
 thought  and  the  same  wish  as  in  Ananda,  prostrated
 himself  at  the  Lord's  feet,  and  uttered  these  words  :
 1  Let  it  be  our  turn  also,  O  Lord  ;  let  it  be  our  turn
-also,  O  Sugata.  The  Lord  is  our  father  and  pro-
-creator,  our  refuge  and  protection.  For  in  this
+also,  O  Sugata.  The  Lord  is  our  father  and  procreator,  our  refuge  and  protection.  For  in  this
 world,  including  men,  gods,  and  demons,  O  Lord,  we
 are  particularly  distinguished  1,  as  people  say  :  These
 are  the  Lord's  sons,  the  Lord's  attendants  ;  these  are
-the  keepers  of  the  law-treasure  of  the  Lord.  There-
-fore, Lord,  it  would  seem  meet2,  were  the  Lord  ere
+the  keepers  of  the  law-treasure  of  the  Lord.  Therefore, Lord,  it  would  seem  meet2,  were  the  Lord  ere
 long  to  predict  our  destiny  to  supreme  and  perfect
 enlightenment.'
 
@@ -11096,20 +10278,17 @@ enlightenment.
 
 Then  the  Lord  addressed  the  venerable  Ananda
 in  these  words :  Thou,  Ananda,  shalt  in  future
-become  a  Tathagata  by  the  name  of  Sagaravaradha-
-rabuddhivikri^tabhi^a  \  an  Arhat,  &c.,  endowed
+become  a  Tathagata  by  the  name  of  Sagaravaradharabuddhivikri^tabhi^a  \  an  Arhat,  &c.,  endowed
 with  science  and  conduct,  &c.  After  having  honoured,
 respected,  venerated,  and  worshipped  sixty-two  ko/is
 of  Buddhas,  kept  in  memory  the  true  law  of  those
 Buddhas  and  received  this  command,  thou  shalt
 arrive  at  supreme  and  perfect  enlightenment,  and
-bring  to  full  ripeness  for  supreme,  perfect  enlighten-
-ment twenty  hundred  thousand  myriads  of  ko/is  of
+bring  to  full  ripeness  for  supreme,  perfect  enlightenment twenty  hundred  thousand  myriads  of  ko/is  of
 Bodhisattvas  similar  to  the  sands  of  twenty  Ganges 2.
 And  thy  Buddha-field  shall  consist  of  lapis  lazuli
 and  be  superabundant.  The  sphere  shall  be  named
-Anavanamita-vai^ayanta  and  the  ^on  Mano^a-
-sabdabhigarfita.  The  lifetime  of  that  Lord  Sagara-
+Anavanamita-vai^ayanta  and  the  ^on  Mano^asabdabhigarfita.  The  lifetime  of  that  Lord  Sagara-
 varadharabuddhivikri^itabhi^vEa,  the  Tathdgata,  &c.,
 shall  measure  an  immense  number  of  ./Eons,  /Eons
 
@@ -11137,12 +10316,10 @@ So  many  hundred  thousand  myriads  of  ko/is  of
 incalculable  JEons  shall  last  the  lifetime  of  that
 Lord.  Twice  as  long,  Ananda,  after  the  complete
 extinction  of  that  Lord,  shall  his  true  law  stand,
-and  twice  as  long  again  shall  continue  its  counter-
-feit. And  further,  Ananda,  many  hundred  thousand
+and  twice  as  long  again  shall  continue  its  counterfeit. And  further,  Ananda,  many  hundred  thousand
 myriads  of  ko/is  of  Buddhas,  similar  to  the  sands  of
 the  river  Ganges,  shall  in  all  directions  of  space  speak
-the  praise  of  that  Tathagata  Sagaravaradharabud-
-dhivikridfitabhi^a,  the  Arhat,  &c.
+the  praise  of  that  Tathagata  Sagaravaradharabuddhivikridfitabhi^a,  the  Arhat,  &c.
 
 1.  I  announce  to  you,  congregated   monks,  that
 Ananda-Bhadra,   the   keeper   of  my   law,   shall   in
@@ -11179,11 +10356,9 @@ wisdom.'
 
 under  the  rule1  of  that  (Sana.  Then  also  shall
 beings  like  grains  of  sand  of  the  Ganges  produce  in
-this  world  what  is  the  cause  of  Buddha-enlighten-
-ment.
+this  world  what  is  the  cause  of  Buddha-enlightenment.
 
-In  that  assembly  were  eight  thousand  Bodhisat-
-tvas  who  had  newly  entered  the  vehicle.  To  them
+In  that  assembly  were  eight  thousand  Bodhisattvas  who  had  newly  entered  the  vehicle.  To  them
 this  thought  presented  itself:  Never  before  did  we
 have  such  a  sublime  prediction  to  Bodhisattvas,  far
 less  to  disciples.  What  may  be  the  cause  of  it  ?
@@ -11195,8 +10370,7 @@ moment,  the  same  instant  conceived  the  idea  of
 supreme  and  perfect  enlightenment  in  the  presence
 of  the  Tathagata  Dharmagahanabhyudgatara^a2,  the
 Arhat,  &c.  At  that  period,  young  men  of  good  family,
-he  (Ananda)  constantly  and  assiduously  applied  him-
-self to  great  learning,  whereas  I  was  applying  my-
+he  (Ananda)  constantly  and  assiduously  applied  himself to  great  learning,  whereas  I  was  applying  my-
 self to  strenuous  labour.  Hence  I  sooner  arrived  at
 supreme  and  perfect  enlightenment,  whilst  Ananda-
 Bhadra  was  the  keeper  of  the  law-treasure  of  the
@@ -11207,8 +10381,7 @@ development.
 When  the  venerable  Ananda  heard  from  the
 Lord  the  announcement  of  his  own  destiny  to
 supreme  and  perfect  enlightenment,  when  he  learned
-the  good  qualities  of  his  Buddha-field  and  its  divi-
-sions, when  he  heard  of  the  vow  he  had  made  in  the
+the  good  qualities  of  his  Buddha-field  and  its  divisions, when  he  heard  of  the  vow  he  had  made  in  the
 
 
 1  I.e.  reign,  epoch  inaugurated  by  him.
@@ -11222,15 +10395,13 @@ IX.  DESTINY   OF    ANANDA,    RAHULA,    ETC.  2OQ
 
 past,  he  felt  pleased,  exultant,  ravished,  joyous,  filled
 with  cheerfulness  and  delight.  And  at  that  juncture
-he  remembered  the  true  law  of  many  hundred  thou-
-sand myriads  of  ko/is  of  Buddhas  and  his  own  vow
+he  remembered  the  true  law  of  many  hundred  thousand myriads  of  ko/is  of  Buddhas  and  his  own  vow
 of  yore.
 
 And    on    that    occasion   the  venerable   Ananda
 uttered  the  following  stanzas :
 
-6.  Wonderful,  boundless  are  the  <7inas l  who  re-
-mind us  of  the  law  preached  by  the  extinct  6inas
+6.  Wonderful,  boundless  are  the  <7inas l  who  remind us  of  the  law  preached  by  the  extinct  6inas
 and  mighty  saints2.     Now  I  remember  it  as  if  it
 had  happened  to-day  or  yesterday 3.
 
@@ -11241,11 +10412,9 @@ of  enlightenment.
 
 Thereupon  the  Lord  addressed  the  venerable
 Rahula-Bhadra  in  these  words  :  Thou,  Rahula,  shalt
-be  in  future  a  Tathagata  of  the  name  of  Saptaratna-
-padmavikrantagdmin 6,  an  Arhat,  &c.,  endowed  with
+be  in  future  a  Tathagata  of  the  name  of  Saptaratnapadmavikrantagdmin 6,  an  Arhat,  &c.,  endowed  with
 science  and  conduct,  &c.  After  having  honoured,
-respected,  venerated,  worshipped  a  number  of  Tatha-
-gatas,  &c.,  equal  to  the  atoms  of  ten  worlds,  thou
+respected,  venerated,  worshipped  a  number  of  Tathagatas,  &c.,  equal  to  the  atoms  of  ten  worlds,  thou
 shalt  always  be  the  eldest  son  of  those  Lords
 Buddhas,  just  as  thou  art  mine  at  present.  And,
 Rahula,  the  measure  of  the  lifetime  of  that  Lord
@@ -11273,8 +10442,7 @@ the  Lord  Sagaravaradharabuddhivikri^Titabhi^a,  the
 Tathagata,  &c. ;  likewise  shall  the  divisions  of  the
 Buddha-field  and  its  qualities  be  the  same  as  those
 possessed  by  that  Lord.  And,  Rahula,  thou  shalt
-be  the  eldest  son  of  that  Tathagata  Sagaravara-
-dharabuddhivikrlaTitabhi^a,  the  Arhat,  &c.  After-
+be  the  eldest  son  of  that  Tathagata  SagaravaradharabuddhivikrlaTitabhi^a,  the  Arhat,  &c.  After-
 wards thou  shalt  arrive  at  supreme  and  perfect
 enlightenment.
 
@@ -11292,8 +10460,7 @@ but    I    know  his  (former)  vow.     He   glorifies   the
 Friend  of  the  world 3  (by  saying) :  I  am,  forsooth,  the
 Tathagata's  son.
 
-11.  Innumerable  myriads  of  ko^is  of  good  quali-
-ties, the  measure  of  which   is   never  to  be  found,
+11.  Innumerable  myriads  of  ko^is  of  good  qualities, the  measure  of  which   is   never  to  be  found,
 appertain  to  this  Rahula,  my  son ;  for  it  has  been
 said  :  He  exists  by  reason  of  enlightenment.
 
@@ -11317,8 +10484,7 @@ IX.  DESTINY   OF   ANANDA,    RAHULA,    ETC.  211
 
 do,  Lord ;  I  do,  Sugata.'  The  Lord  proceeded :
 All  these  two  thousand  monks,  Ananda,  shall
-simultaneously  accomplish  the  course  of  Bodhi-
-sattvas,  and  after  honouring,  respecting,  venerating,
+simultaneously  accomplish  the  course  of  Bodhisattvas,  and  after  honouring,  respecting,  venerating,
 worshipping  Buddhas  as  numerous  as  the  atoms
 of  fifty  worlds,  and  after  acquiring  the  true  law,
 they  shall,  in  their  last  bodily  existence,  attain
@@ -11326,16 +10492,12 @@ supreme  and  perfect  enlightenment  at  the  same
 time,  the  same  moment,  the  same  instant,  the  same
 juncture  in  all  directions  of  space,  in  different  worlds,
 each  in  his  own  Buddha-field.  They  shall  become
-Tathagatas,  Arhats,  &c.,  by  the  name  of  Ratnake-
-tura^as 1.  Their  lifetime  shall  last  a  complete  JEon.
-The  division  and  good  qualities  of  their  Buddha-
-fields  shall  be  equal ;  equal  also  shall  be  the  number
-of  the  congregation  of  their  disciples  and  Bodhi-
-sattvas ;  equal  also  shall  be  their  complete  extinction,
+Tathagatas,  Arhats,  &c.,  by  the  name  of  Ratnaketura^as 1.  Their  lifetime  shall  last  a  complete  JEon.
+The  division  and  good  qualities  of  their  Buddhafields  shall  be  equal ;  equal  also  shall  be  the  number
+of  the  congregation  of  their  disciples  and  Bodhisattvas ;  equal  also  shall  be  their  complete  extinction,
 and  their  true  law  shall  continue  an  equal  time.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 12.  These  two  thousand  disciples,  Ananda,  who
 here  are  standing  before  me,  to  them,  the  sages,
@@ -11361,17 +10523,14 @@ P  2
 2 1 2  SADDHARMA-PUtfDARIKA.  IX.
 
 sitting  at  the  foot  of  the  most  exalted  tree,  become
-Buddhas,  after  they  shall  have  reached  the  know-
-ledge.
+Buddhas,  after  they  shall  have  reached  the  knowledge.
 
 15.  All  shall  bear  the  same  name  of  Ketus1of
 the  Ratna,  by  which  they  shall  be  widely  famed  in
 this  world.     Their  excellent  fields  shall  be  equal,
-and  equal  the  congregation  of  disciples  and  Bodhi-
-sattvas.
+and  equal  the  congregation  of  disciples  and  Bodhisattvas.
 
-1 6.  Strong  in  magic  power,  they  shall  all  simul-
-taneously, in  every  direction  of  space,  reveal  the  law
+1 6.  Strong  in  magic  power,  they  shall  all  simultaneously, in  every  direction  of  space,  reveal  the  law
 in  this  world  and  all  at  once 2  become  extinct ;  their
 true  law  shall  last  equally  long.
 
@@ -11411,13 +10570,11 @@ THE   PREACHER.
 
 The  Lord  then  addressed  the  eighty  thousand
 Bodhisattvas  Mahasattvas  by  turning  to  Bhaisha-
-^yara^-a  as  their  representative.  Seest  thou,  Bhai-
-sha^yara^a,  in  this  assembly  the  many  gods,  Nagas,
+^yara^-a  as  their  representative.  Seest  thou,  Bhaisha^yara^a,  in  this  assembly  the  many  gods,  Nagas,
 goblins,  Gandharvas,  demons,  Garu^as,  Kinnaras,
 great  serpents,  men,  and  beings  not  human,  monks,
 nuns,  male  and  female  lay  devotees,  votaries  of  the
-vehicle  of  disciples,  votaries  of  the  vehicle  of  Pratye-
-kabuddhas,  and  those  of  the  vehicle  of  Bodhi-
+vehicle  of  disciples,  votaries  of  the  vehicle  of  Pratyekabuddhas,  and  those  of  the  vehicle  of  Bodhi-
 sattvas, who  have  heard  this  Dharmaparyaya  from
 the  mouth  of  the  Tathagata  ?  '  I  do,  Lord ;  I  do,
 Sugata.'  The  Lord  proceeded :  Well,  Bhaisha-
@@ -11427,8 +10584,7 @@ a  single  verse  (or  word),  or  who  even  by  a  single
 rising  thought  have  joyfully  accepted  this  Sutra,  to
 all  of  them,  Bhaisha^yara^a,  among  the  four  classes
 of  my  audience  I  predict  their  destiny  to  supreme  and
-perfect  enlightenment.  And  all  whosoever,  Bhai-
-sha/yarafa,  who,  after  the  complete  extinction  of  the
+perfect  enlightenment.  And  all  whosoever,  Bhaisha/yarafa,  who,  after  the  complete  extinction  of  the
 Tathagata,  shall  hear  this  Dharmaparyaya  and  after
 hearing,  were  it  but  a  single  stanza,  joyfully  accept
 it,  even  with  a  single  rising  thought,  to  those  also,
@@ -11439,8 +10595,7 @@ perfect  enlightenment.  Those  young  men  or  ladies
 
 214  SADDHARMA-PUtfDARfKA.  X.
 
-of  good  family,  Bhaisha^yara^a,  shall  be  worship-
-pers of  many  hundred  thousand  myriads  of  ko/is
+of  good  family,  Bhaisha^yara^a,  shall  be  worshippers of  many  hundred  thousand  myriads  of  ko/is
 of  Buddhas.  Those  young  men  or  ladies  of  good
 family,  Bhaisha^yara^a,  shall  have  made  a  vow
 under  hundred  thousands  of  myriads  of  ko/is  of
@@ -11449,15 +10604,12 @@ reborn  amongst  the  people  of  Cambudvlpa1,  out  of
 compassion  to  all  creatures.  Those  who  shall  take,
 read,  make  known,  recite,  copy,  and  after  copying
 always  keep  in  memory  and  from  time  to  time
-regard  were  it  but  a  single  stanza  of  this  Dharma-
-paryaya;  who  by  that  book2  shall  feel  veneration
+regard  were  it  but  a  single  stanza  of  this  Dharmaparyaya;  who  by  that  book2  shall  feel  veneration
 for  the  Tathagatas,  treat  them  with  the  respect  due
 to  Masters 3,  honour,  revere,  worship  them ;  who
-shall  worship  that  book  with  flowers,  incense,  per-
-fumed garlands,  ointment,  powder,  clothes,  umbrellas,
+shall  worship  that  book  with  flowers,  incense,  perfumed garlands,  ointment,  powder,  clothes,  umbrellas,
 flags,  banners,  music,  &c.,  and  with  acts  of  reverence
-such  as  bowing  and  joining  hands ;  in  short,  Bhai-
-sha^yara^a,  any  young  men  or  young  ladies  of
+such  as  bowing  and  joining  hands ;  in  short,  Bhaisha^yara^a,  any  young  men  or  young  ladies  of
 good  family  who  shall  keep  or  joyfully  accept  were
 it  but  a  single  stanza  of  this  Dharmaparyiya,  to
 all  of  them,  Bhaisha^yara^a,  I  predict  their  being
@@ -11481,15 +10633,13 @@ case  here  to  be  the  instrumental  of  manner.
 
 X.  THE    PREACHER.  215
 
-were  it  but  a  single  stanza  of  four  lines,  and  who-
-ever shows  respect  for  this  Dharmaparyaya,  that
+were  it  but  a  single  stanza  of  four  lines,  and  whoever shows  respect  for  this  Dharmaparyaya,  that
 young  man  or  young  lady  of  good  family  shall  in
 future  become  a  Tathagata,  &c. ;  be  persuaded  of
 it.'  For,  Bhaisha^yara^a,  such  a  young  man  or
 young  lady  of  good  family  must  be  considered  to
 be  a  Tathagata,  and  by  the  whole  world,  including
-the  gods,  honour  should  be  done  to  such  a  Tatha-
-gata who  keeps  were  it  but  a  single  stanza  of
+the  gods,  honour  should  be  done  to  such  a  Tathagata who  keeps  were  it  but  a  single  stanza  of
 this  Dharmaparyaya,  and  far  more,  of  course,  to
 one  who  grasps,  keeps,  comprehends,  makes  known,
 copies,  and  after  copying  always  retains  in  his  memory
@@ -11503,8 +10653,7 @@ accomplished  in  supreme  and  perfect  enlightenment ;
 must  be  held  to  be  the  like  of  a  Tathagata,  who  out
 of  compassion  and  for  the  benefit  of  the  world,  by
 virtue  of  a  former  vow,  makes  his  appearance  here
-in  6ambudvipa,  in  order  to  make  this  Dharmapar-
-yaya generally  known.  Whosoever,  after  leaving1
+in  6ambudvipa,  in  order  to  make  this  Dharmaparyaya generally  known.  Whosoever,  after  leaving1
 his  own  lofty  conception  of  the  law 2  and  the  lofty
 Buddha-field  occupied  by  him,  in  order  to  make
 generally  known  this  Dharmaparyaya,  after  my
@@ -11521,15 +10670,13 @@ in  life '  or  '  religion.'     Cf.  stanza  4  below.
 
 2l6  SADDHARMA-PUA^ARIKA.  X.
 
-complete  Nirva/za,  may  be  deemed  to  have  ap-
-peared1 in  the  predicament  of  a  Tathagata2,  such
+complete  Nirva/za,  may  be  deemed  to  have  appeared1 in  the  predicament  of  a  Tathagata2,  such
 a  one,  Bhaisha^yara^a,  be  it  a  young  man  or  a
 young  lady  of  good  family,  must  be  held  to  perform
 the  function  of  the  Tathagata,  to  be  a  deputy  of  the
 Tathagata.  As  such,  Bhaisha^yara^a,  should  be
 acknowledged  the  young  man  or  the  young  lady  of
-good  family,  who  communicates  this  Dharma-
-paryaya,  after  the  complete  Nirvana  of  the  Tatha-
+good  family,  who  communicates  this  Dharmaparyaya,  after  the  complete  Nirvana  of  the  Tatha-
 gata, were  it  but  in  secret  or  by  stealth  or  to  one
 single  creature  that  he  communicated  or  told  it.
 
@@ -11556,8 +10703,7 @@ umbrellas,  flags,  banners,  musical  instruments,  with
 
 1  Upapanna,  an  ambiguous  term  ;  it  may  also  mean  'fit.'
 
-2  Tathagata-bhuta;  a  var.  lect.  has  Tathagata-duta,  a  mes-
-senger, a  deputy  of  the  Tathagata.
+2  Tathagata-bhuta;  a  var.  lect.  has  Tathagata-duta,  a  messenger, a  deputy  of  the  Tathagata.
 
 
 X.  THE   PREACHER.  217
@@ -11572,11 +10718,9 @@ innumerable,  incalculable  beings  who  hear  it  shall
 soon  become  accomplished  in  supreme  and  perfect
 enlightenment.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
-1.  He  who  wishes  to  be  established  in  Buddha-
-hood  and  aspires  to  the  knowledge  of  the  Self-born J,
+1.  He  who  wishes  to  be  established  in  Buddhahood  and  aspires  to  the  knowledge  of  the  Self-born J,
 must  honour  those  who  keep  this  doctrine.
 
 2.  And  he  who  is  desirous  of  omniscience  and
@@ -11585,8 +10729,7 @@ know  this  Sutra  by  heart,  or  at  least  honour  one
 who  knows  it.
 
 3.  He  has  been  sent  by  the  Lord  of  the  world  to
-convert  (or  catechise)  men,  he  who  out  of  compas-
-sion for  mankind  recites  this  Sutra 2.
+convert  (or  catechise)  men,  he  who  out  of  compassion for  mankind  recites  this  Sutra 2.
 
 4.  After  giving  up  a   good  position,  that  great
 man 3  has  come  hither,  he  who  out  of  compassion
@@ -11598,12 +10741,10 @@ times  he  is  seen  preaching  this  unsurpassed  Sutra.
 6.  That  preacher  of  the  law  must  be  honoured
 
 
-1  Svayambhu^Mana,  which,  to  my  apprehension,  is  an  altera-
-tion of  brahmavidya".
+1  Svayambhu^Mana,  which,  to  my  apprehension,  is  an  alteration of  brahmavidya".
 
 2  From  such  a  passage  as  this  one  might  be  tempted  to  believe
-that  it  had  been  the  intention  of  the  author  of  this  verse  to  repre-
-sent Buddha  as  eternal ;  cf.  Burnouf  s  remarks  in  his  Introduction,
+that  it  had  been  the  intention  of  the  author  of  this  verse  to  represent Buddha  as  eternal ;  cf.  Burnouf  s  remarks  in  his  Introduction,
 p.  119.
 
 8  I.  e.  the  preacher  or  catechiser.
@@ -11611,8 +10752,7 @@ p.  119.
 
 2 1 8  SADDHARMA-PUA^ARIKA.  X.
 
-with  divine  and  human  flowers  and  all  sorts  of  per-
-fumes ;  be  decked  with  divine  cloth  and  strewed
+with  divine  and  human  flowers  and  all  sorts  of  perfumes ;  be  decked  with  divine  cloth  and  strewed
 with  jewels.
 
 7.  One  should  always  reverentially   salute    him
@@ -11620,8 +10760,7 @@ with  joined  hands,  as  if  he  were  the  Chief  of  G'mas
 or  the  Self-born,  he  who  in  these  most  dreadful,  last
 days  keeps  this  Sutra  of  the  Extinct  (Buddha).
 
-8.  One  should  give  food,  hard  and  soft,  nourish-
-ment and  drink,  lodging  in  a  convent,  ko/is  of  robes
+8.  One  should  give  food,  hard  and  soft,  nourishment and  drink,  lodging  in  a  convent,  ko/is  of  robes
 to  honour  the  son  of  £ina,  when  he  has  propounded,
 be  it  but  once,  this  Sutra.
 
@@ -11634,12 +10773,10 @@ frowning  brow  should  at  any  time  of  a  whole  /Eon
 utter  something  injurious  in  my  presence,  commits  a
 great  sin.
 
-1 1 .  But  one  who  reviles  and  abuses  those  guar-
-dians of  this  Sutrdnta,  when  they  are  expounding
+1 1 .  But  one  who  reviles  and  abuses  those  guardians of  this  Sutrdnta,  when  they  are  expounding
 this  Sutra,  I  say  that  he  commits  a  still  greater  sin.
 
-12.  The  man  who,  striving  for  superior  enlighten-
-ment, shall   in  a  complete  /Eon   praise  me  in  my
+12.  The  man  who,  striving  for  superior  enlightenment, shall   in  a  complete  /Eon   praise  me  in  my
 face  with  joined  hands,  with  many  myriads  of  ko/is
 of  stanzas,
 
@@ -11667,15 +10804,13 @@ advantage.
 I  announce  to  thee,  Bhaisha^yara^a,  I  declare  to
 thee,  that  many  are  the  Dharmaparyayas  which  I  have
 propounded,  am  propounding,  and  shall  propound.
-And  among  all  those  Dharmaparyayas,  Bhaisha^ya-
-ra^a,  it  is  this  which  is  apt  to  meet  with  no  acceptance
+And  among  all  those  Dharmaparyayas,  Bhaisha^yara^a,  it  is  this  which  is  apt  to  meet  with  no  acceptance
 with  everybody,  to  find  no  belief  with  everybody.
 This,  indeed,  Bhaisha^yara^a,  is  the  transcendent
 spiritual  esoteric  lore  of  the  law,  preserved  by  the
 power  of  the  Tathagatas,  but  never  divulged ;  it  is
 an  article  (of  creed)1  not  yet  made  known.  By  the
-majority  of  people,  Bhaisha^yara^a,  this  Dharmapar-
-yaya  is  rejected  during  the  lifetime  of  the  Tathagata  ;
+majority  of  people,  Bhaisha^yara^a,  this  Dharmaparyaya  is  rejected  during  the  lifetime  of  the  Tathagata  ;
 in  far  higher  degree  such  will  be  the  case  after  his
 complete  extinction.
 
@@ -11683,8 +10818,7 @@ Nevertheless,  Bhaisha^yara^a,  one  has  to  consider
 those  young  men  or  young  ladies  of  good  family  to
 be  invested  with  the  robes  of  the  Tathagata  ;  to  be
 regarded  and  blessed  by  the  Tathagatas  living  in
-other  worlds,  that  they  shall  have  the  force  of  indi-
-vidual persuasion,  the  force  that  is  rooted  in  virtue,
+other  worlds,  that  they  shall  have  the  force  of  individual persuasion,  the  force  that  is  rooted  in  virtue,
 
 the  exemplary  preachers  who  are  likened  to  the  Tathagata,  and
 sent  by  him(Tathagata-bhuta  andTathagata-duta),  spoken  of
@@ -11704,20 +10838,16 @@ and  the  force  of  a  pious  vow.  They  shall  dwell
 apart  in  the  convents  of  the  Tathagata,  Bhaisha-
 ^yara^a,  and  shall  have  their  heads  stroked  by  the
 hand  of  the  Tathagata,  those  young  men  and  young
-ladies  of  good  family,  who  after  the  complete  extinc-
-tion of  the  Tathagata  shall  believe,  read,  write,  honour
+ladies  of  good  family,  who  after  the  complete  extinction of  the  Tathagata  shall  believe,  read,  write,  honour
 this  Dharmaparyaya  and  recite  it  to  others.
 
 Again,  Bhaisha^yara^a,  on  any  spot  of  the  earth
 where  this  Dharmaparyaya  is  expounded,  preached,
 written,  studied,  or  recited  in  chorus,  on  that  spot,
-Bhaisha^yara^a,  one  should  build  a  Tathagata-
-shrine,  magnificent,  consisting  of  precious  substances,
+Bhaisha^yara^a,  one  should  build  a  Tathagatashrine,  magnificent,  consisting  of  precious  substances,
 high,  and  spacious  ;  but  it  is  not  necessary  to  depose  in
-it  relics  of  the  Tathagata.  For  the  body  of  the  Tatha-
-gata is,  so  to  say,  collectively  deposited  there.  Any
-spot  of  the  earth  where  this  Dharmaparyaya  is  ex-
-pounded or  taught  or  recited  or  rehearsed  in  chorus
+it  relics  of  the  Tathagata.  For  the  body  of  the  Tathagata is,  so  to  say,  collectively  deposited  there.  Any
+spot  of  the  earth  where  this  Dharmaparyaya  is  expounded or  taught  or  recited  or  rehearsed  in  chorus
 or  written  or  kept  in  a  volume,  must  be  honoured,
 respected,  revered,  worshipped  as  if  it  were  a  Stupa,
 with  all  sorts  of  flowers,  incense,  perfumes,  garlands,
@@ -11761,11 +10891,9 @@ be  far  away  from  supreme  and  perfect  enlightenment
 so  long  as  they  do  not  hear,  nor  catch,  nor  penetrate,
 nor  fathom,  nor  mind  this  Dharmaparyaya.  But
 when  the  Bodhisattvas  Mahasattvas  shall  hear,
-catch,  penetrate,  study,  and  mind  this  Dharmapar-
-yaya, then,  Bhaisha^yara^a,  they  will  be,  so  to  say,
+catch,  penetrate,  study,  and  mind  this  Dharmaparyaya, then,  Bhaisha^yara^a,  they  will  be,  so  to  say,
 immediately  near  supreme,  perfect  enlightenment.
-From  this  Dharmaparyaya,  Bhaisha^yara^a,  will  ac-
-crue to  creatures  supreme  and  perfect  enlightenment.
+From  this  Dharmaparyaya,  Bhaisha^yara^a,  will  accrue to  creatures  supreme  and  perfect  enlightenment.
 For  this  Dharmaparyaya  contains  an  explanation  of
 the  highest  mystery,  the  secret  article1  of  the  law
 which  the  Tathdgatas,  &c.,  have  revealed  for  the
@@ -11781,8 +10909,7 @@ anxiety,  gets  frightened  at  this  Dharmaparyaya,
 may  be  held,  Bhaisha/yara/a,  to  have  (but)  newly
 entered  the  vehicle l.  If,  however,  a  votary  of  the
 vehicle  of  the  disciples  is  startled,  feels  anxiety,  gets
-frightened  at  this  Dharmaparyaya,  such  a  person,  de-
-voted to  the  vehicle  of  the  disciples,  Bhaisha^yara^a,
+frightened  at  this  Dharmaparyaya,  such  a  person,  devoted to  the  vehicle  of  the  disciples,  Bhaisha^yara^a,
 may  be  deemed  a  conceited  man.
 
 Any  Bodhisattva  Mahasattva,  Bhaisha^yara^a,
@@ -11798,8 +10925,7 @@ kindness)  to  all  beings;  that  is  the  abode  of  the
 Tathagata,  Bhaisha^yara^a,  which  the  young  man  of
 good  family  has  to  enter.  And  what  is  the  robe  of
 the  Tathagata,  Bhaisha^yara^a  ?  It  is  the  apparel  of
-sublime  forbearance  ;  that  is  the  robe  of  the  Tatha-
-gata, Bhaisha^yara^a,  which  the  young  man  of  good
+sublime  forbearance  ;  that  is  the  robe  of  the  Tathagata, Bhaisha^yara^a,  which  the  young  man  of  good
 family  has  to  put  on.  What  is  the  pulpit  of  the
 Tathagata,  Bhaisha^yara/a  ?  It  is  the  entering  into
 the  voidness  (or  complete  abstraction)  of  all  laws  (or
@@ -11820,15 +10946,13 @@ abode.
 
 X.  THE   PREACHER.  223
 
-of  hearers,  who  are  striving  for  the  vehicle  of  Bodhi-
-sattvas,  and  I,  staying  in  another  world,  Bhaisha^ya-
+of  hearers,  who  are  striving  for  the  vehicle  of  Bodhisattvas,  and  I,  staying  in  another  world,  Bhaisha^ya-
 ra^a,  will  by  means  of  fictious  creatures1  make  the
 minds  of  the  whole  congregation  favourably  disposed
 to  that  young  man  of  good  family,  and  I  will  send
 fictious  monks,  nuns,  male  and  female  lay  devotees
 in  order  to  hear  the  sermon  of  the  preacher,  who
-are  unable  to  gainsay  or  contradict  him2.  If  after-
-wards he  shall  have  retired  to  the  forest,  I  will  send
+are  unable  to  gainsay  or  contradict  him2.  If  afterwards he  shall  have  retired  to  the  forest,  I  will  send
 thither  many  gods,  Nagas,  goblins,  Gandharvas,
 demons,  Garudas,  Kinnaras,  and  great  serpents  to
 hear  him  preach,  while  I,  staying  in  another  world,
@@ -11838,8 +10962,7 @@ of  this  Dharmaparyaya  which  he  happens  to  have
 forgotten  will  I  again  suggest  to  him3  when  he
 repeats  his  lesson.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 1 6.  Let  one  listen  to  this  exalted  Sutra,  avoiding
 all  distractedness  ;  for  rare  is  the  occasion  (given)  for
@@ -11849,8 +10972,7 @@ hearing  it,  and  rare  also  the  belief  in  it.
 1  Nirmitai^;    the  word    is   masculine,  as  appears   from   the
 sequel.
 
-2  I  cannot  tell  what  real  phenomena  are  underlying  these  crea-
-tions of  the  Buddha  after  his  Nirva«a ;  but  this  much  seems  clear,
+2  I  cannot  tell  what  real  phenomena  are  underlying  these  creations of  the  Buddha  after  his  Nirva«a ;  but  this  much  seems  clear,
 that  we  have  in  this  piece  a  description  of  the  practical  course
 a  young  preacher  has  to  go  through  in  order  to  become  fit  for
 his  task.
@@ -11878,13 +11000,11 @@ sand  which  appears  in  digging.
 the  sand  moist  and  smooth,  he  gets  the  conviction
 that  water  cannot  be  very  far  off.
 
-20.  So,   too,    are   those   men   far  from   Buddha-
-knowledge  who  have  not  heard  this  Sutra  and  have
+20.  So,   too,    are   those   men   far  from   Buddhaknowledge  who  have  not  heard  this  Sutra  and  have
 failed  to  repeatedly  meditate  on  it.
 
 21.  But  those  who  have  heard  and  oft  meditated
-on  this  profound  king  amongst  Sutras,  this  authorita-
-tive book J  for  disciples,
+on  this  profound  king  amongst  Sutras,  this  authoritative book J  for  disciples,
 
 22.  Are  wise  and  near  Buddha-knowledge,  even
 as  from  the  moisture  of  sand  may  be  inferred  that
@@ -11943,8 +11063,7 @@ whether  he  is  preaching  to  the  four  classes,  or  living,
 a  solitary,   in   mountain    caverns  and   studying  his
 lesson,  he  will  see  me.
 
-34.  His   readiness  of  speech  knows  no    impedi-
-ment;   he  understands    the    manifold    requisites    of
+34.  His   readiness  of  speech  knows  no    impediment;   he  understands    the    manifold    requisites    of
 exegesis ;  he  satisfies  thousands  of  ko/is  of  beings
 because  he  is,  so  to  say,  inspired  (or  blessed)  by  the
 Buddha  3.
@@ -11966,8 +11085,7 @@ plural.
 
 35.  And  the  creatures  who  are  entrusted  to  his
 care  shall  very  soon  all  become  Bodhisattvas,  and
-by  cultivating  his  intimacy  they  shall  behold  Bud-
-dhas  as  numerous  as  the  sands  of  the  Ganges.
+by  cultivating  his  intimacy  they  shall  behold  Buddhas  as  numerous  as  the  sands  of  the  Ganges.
 
 
 XL  APPARITION    OF   A    ST<JPA.  227
@@ -11978,17 +11096,13 @@ CHAPTER   XI.
 APPARITION    OF   A   ST^PA.
 
 Then  there  arose  a  Stupa,  consisting  of  seven
-precious  substances,  from  the  place  of  the  earth  op-
-posite the  Lord,  the  assembly  being  in  the  middle 1,
-a  Stupa  five  hundred  yo^anas  in  height  and  pro-
-portionate in  circumference.  After  its  rising,  the
+precious  substances,  from  the  place  of  the  earth  opposite the  Lord,  the  assembly  being  in  the  middle 1,
+a  Stupa  five  hundred  yo^anas  in  height  and  proportionate in  circumference.  After  its  rising,  the
 Stupa,  a  meteoric  phenomenon2,  stood  in  the  sky
-sparkling,  beautiful,  nicely  decorated  with  five  thou-
-sand 3  successive  terraces  of  flowers 4,  adorned
+sparkling,  beautiful,  nicely  decorated  with  five  thousand 3  successive  terraces  of  flowers 4,  adorned
 with  many  thousands  of  arches,  embellished  by
 thousands  of  banners  and  triumphal  streamers,  hung
-with  thousands  of  jewel-garlands  and  with  hour-
-plates  and  bells,  and  emitting  the  scent  of  Xan-
+with  thousands  of  jewel-garlands  and  with  hourplates  and  bells,  and  emitting  the  scent  of  Xan-
 thochymus  and  sandal,  which  scent  filled  this  whole
 world.  Its  row  of  umbrellas  rose  so  far  on  high  as
 to  touch  the  abodes  of  the  four  guardians  of  the
@@ -12005,8 +11119,7 @@ masculine.
 8  The  number  of  colours  is  now  five,  then  seven.  Moreover
 there  ought  to  be  a  parallelism  between  the  five  colours  and  the
 five  planets,  and,  on  the  other  hand,  between  the  seven  ratnas*
-or  colours,  and  the  grahas,  including  sun  and  moon.  In  Rig-
-veda  we  find  saptarajmi  and  paw^ara^mi.
+or  colours,  and  the  grahas,  including  sun  and  moon.  In  Rigveda  we  find  saptarajmi  and  paw^ara^mi.
 
 *  Pushpagrahawivedika.
 
@@ -12021,26 +11134,22 @@ emerald,  red  coral,  and  Karketana-stone  *.  This
 Stupa  of  precious  substances  once  formed,  the  gods
 of  paradise  strewed  and  covered  it  with  Mandarava
 and  great  Mandara  flowers  2.  And  from  that  Stupa
-of  precious  substances  there  issued  this  voice :  Ex-
-cellent, excellent,  Lord  vSakyamuni !  thou  hast  well
+of  precious  substances  there  issued  this  voice :  Excellent, excellent,  Lord  vSakyamuni !  thou  hast  well
 expounded  this  Dharmaparyaya  of  the  Lotus  of  the
 True  Law.  So  it  is,  Lord ;  so  it  is,  Sugata.
 
-At  the  sight  of  that  great  Stupa  of  precious  sub-
-stances, that  meteoric  phenomenon  in  the  sky,  the
+At  the  sight  of  that  great  Stupa  of  precious  substances, that  meteoric  phenomenon  in  the  sky,  the
 four  classes  of  hearers  were  filled  with  gladness,
 delight,  satisfaction  and  joy.  Instantly  they  rose
 from  their  seats,  stretched  out  their  joined  hands,  and
-remained  standing  in  that  position.  Then  the  Bodhi-
-sattva  Mahasattva  Mahapratibhana,  perceiving  the
+remained  standing  in  that  position.  Then  the  Bodhisattva  Mahasattva  Mahapratibhana,  perceiving  the
 world,  including  gods,  men,  and  demons,  filled  with
 curiosity,  said  to  the  Lord :  O  Lord,  what  is  the
 cause,  what  is  the  reason  of  so  magnificent  a  Stupa
 of  precious  substances  appearing  in  the  world  ?  Who
 is  it,  O  Lord,  who  causes  that  sound  to  go  out  from
 the  magnificent  Stupa  of  precious  substances  ?  Thus
-asked,  the  Lord  spake  to  Mahapratibhana,  the  Bodhi-
-sattva  Mahasattva,  as  follows :  In  this  great  Stupa
+asked,  the  Lord  spake  to  Mahapratibhana,  the  Bodhisattva  Mahasattva,  as  follows :  In  this  great  Stupa
 of  precious  substances,  Mahapratibhana,  the  proper
 body 3  of  the  Tathagata  is  contained  condensed  ;  his
 is  the  Stupa ;  it  is  he  who  causes  this  sound  to  go  out.
@@ -12066,8 +11175,7 @@ This  Lord  of  yore  made  this  vow  :  Formerly,  when
 following  the  course  of  a  Bodhisattva,  I  have  not
 arrived  at  supreme,  perfect  enlightenment  before  I
 had  heard  this  Dharmaparyaya  of  the  Lotus  of  the
-True  Law,  serving  for  the  instruction  of  Bodhi-
-sattvas.  But  from  the  moment  that  I  had  heard
+True  Law,  serving  for  the  instruction  of  Bodhisattvas.  But  from  the  moment  that  I  had  heard
 this  Dharmaparyaya  of  the  Lotus  of  the  True  Law,
 I  have  become  fully  ripe  for  supreme,  perfect
 enlightenment.  Now,  Mahapratibhana,  that  Lord
@@ -12076,14 +11184,11 @@ time  when  his  complete  extinction  was  to  take  place,
 announced  in  presence  of  the  world,  including  the
 gods  :  After  my  complete  extinction,  monks,  one
 Stupa  must  be  made  of  precious  substances  of  this
-frame  (or  form)  of  the  proper  body  of  the  Tatha-
-gata3; the  other  Stupas,  again,  should  be  made
+frame  (or  form)  of  the  proper  body  of  the  Tathagata3; the  other  Stupas,  again,  should  be  made
 in  dedication  (or  in  reference)  to  me.  Thereupon,
-Mahapratibhana,  the  Lord  Prabhutaratna,  the  Tatha-
-gata, &c.,  pronounced  this  blessing :  Let  my  Stupa
+Mahapratibhana,  the  Lord  Prabhutaratna,  the  Tathagata, &c.,  pronounced  this  blessing :  Let  my  Stupa
 here,  this  Stupa  of  my  proper  bodily  frame  (or  form),
-arise  wherever  in  any  Buddha-field  in  the  ten  direc-
-tions of  space,  in  all  worlds,  the  Dharmaparyaya  of
+arise  wherever  in  any  Buddha-field  in  the  ten  directions of  space,  in  all  worlds,  the  Dharmaparyaya  of
 the  Lotus 'of  the  True  Law  is  propounded,  and  let
 
 
@@ -12100,25 +11205,21 @@ the  atmosphere  where  the  rainbow  is  glittering.
 
 230  SADDHARMA-PUJVDARlKA.  XT.
 
-it  stand  in  the  sky  above  the  assembled  congrega-
-tion when  this  Dharmaparyaya  of  the  Lotus  of  the
+it  stand  in  the  sky  above  the  assembled  congregation when  this  Dharmaparyaya  of  the  Lotus  of  the
 True  Law  is  being  preached  by  some  Lord  Buddha
 or  another,  and  let  this  Stupa  of  the  frame  (or  form)
 of  my  proper  body  give  a  shout  of  applause  to  those
 Buddhas  while  preaching  this  Dharmaparyaya  of
 the  Lotus  of  the  True  Law1.  It  is  that  Stupa,
-Mahapratibhana,  of  the  relics  of  the  Lord  Prabhu-
-taratna,  the  Tathagata,  &c.,  which,  while  I  was
+Mahapratibhana,  of  the  relics  of  the  Lord  Prabhutaratna,  the  Tathagata,  &c.,  which,  while  I  was
 preaching  this  Dharmaparyaya  of  the  Lotus  of  the
 True  Law  in  this  Saha-world,  arose  above  this
 assembled  congregation  and,  standing  as  a  meteor
 in  the  sky,  gave  its  applause.
 
-Then  said  Mahapratibhana,  the  Bodhisattva  Maha-
-sattva,  to  the  Lord:  Show  us,  O  Lord,  through  thy
+Then  said  Mahapratibhana,  the  Bodhisattva  Mahasattva,  to  the  Lord:  Show  us,  O  Lord,  through  thy
 power  the  frame  of  the  afore-mentioned  Tathagata.
-Whereon  the  Lord  spake  to  the  Bodhisattva  Maha-
-sattva  Mahapratibhana  as  follows :  This  Lord  Pra-
+Whereon  the  Lord  spake  to  the  Bodhisattva  Mahasattva  Mahapratibhana  as  follows :  This  Lord  Pra-
 bhutaratna,  Mahapratibhana,  has  made  a  grave  and
 pious  vow.  That  vow  consisted  in  this :  When  the
 Lords,  the  Buddhas,  being  in  other  Buddha-fields,
@@ -12132,8 +11233,7 @@ Arhat,  &c.,  is  the  moon  at  the  time  of  amavasya,  conjunction.
 The  Stupa,  in  the  centre  of  which  sun  and  moon  are  sitting
 together  at  that  period,  cannot  be  the  rainbow,  so  that  we  have
 in  the  sequel  again  to  take  Stupa  in  the  sense  of  dhishwya,
-asterism ;  see  note  i,  p.  227.  The  crescent  surmounting  the  Stupa-
-symbols  on  coins  (see  Senart,  1.  c.)  is  not  exactly  the  representa-
+asterism ;  see  note  i,  p.  227.  The  crescent  surmounting  the  Stupasymbols  on  coins  (see  Senart,  1.  c.)  is  not  exactly  the  representa-
 tion of  the  '  extinct  Lord ' — who  is  difficult  to  be  represented — but
 of  the  same  nature.  The  appearance  of  this  symbol  on  those
 coins  is  by  itself  sufficient  to  show  the  high  antiquity  of  a  refined
@@ -12147,8 +11247,7 @@ proper  body  be  near  the  Tathagata1  to  hear  from
 him  this  Dharmaparyaya  of  the  Lotus  of  the  True
 Law.  And  when  those  Lords,  those  Buddhas  wish  to
 uncover  the  frame  of  my  proper  body  and  show  it
-to  the  four  classes  of  hearers,  let  then  the  Tatha-
-gata-frames,  made  by  the  Tathagatas  in  all  quarters,
+to  the  four  classes  of  hearers,  let  then  the  Tathagata-frames,  made  by  the  Tathagatas  in  all  quarters,
 in  different  Buddha-fields,  from  their  own  proper
 body,  and  preaching  the  law  to  creatures,  under
 different  names  in  several  Buddha-fields,  let  all  those
@@ -12161,8 +11260,7 @@ in  several  Buddha-fields  in  thousands  of  worlds,
 preach  the  law  to  creatures.  All  those  ought  to  be
 brought  hither.
 
-Thereupon  the  Bodhisattva  Mahasattva  Maha-
-pratibhana said  to  the  Lord :  Then,  O  Lord,  shall
+Thereupon  the  Bodhisattva  Mahasattva  Mahapratibhana said  to  the  Lord :  Then,  O  Lord,  shall
 we  reverentially  salute  all  those  bodily  emanations
 of  the  Tathagata  and  created  by  the  Tathagata.
 
@@ -12170,8 +11268,7 @@ And  instantly  the  Lord  darted  from  the  circle  of
 hair  on  his  brow  a  ray,  which  was  no  sooner  darted
 than  the  Lords,  the  Buddhas  stationed  in  the  east  in
 fifty  hundred  thousand  myriads  of  ko^is  of  worlds,
-equal  to  the  sands  of  the  river  Ganges,  became  all  visi-
-ble, and  the  Buddha-fields  there,  consisting  of  crystal,
+equal  to  the  sands  of  the  river  Ganges,  became  all  visible, and  the  Buddha-fields  there,  consisting  of  crystal,
 became  visible,  variegated  with  jewel  trees,  decorated
 
 
@@ -12203,8 +11300,7 @@ river  Ganges,  Lords  Buddhas  in  many  hundred
 thousand  myriads  of  ko/is  of  Buddha-fields.
 
 Those  Tathagatas,  &c.,  in  the  ten  directions  of
-space  then  addressed  each  his  own  troop  of  Bodhi-
-sattvas :  We  shall  have  to  go,  young  men  of  good
+space  then  addressed  each  his  own  troop  of  Bodhisattvas :  We  shall  have  to  go,  young  men  of  good
 family,  to  the  Saha-world  near  the  Lord  6akyamuni,
 the  Tathagata,  &c.,  to  humbly  salute  the  Stupa
 of  the  relics  of  Prabhutaratna,  the  Tathagata,  &c.
@@ -12230,12 +11326,10 @@ compartments,  devoid  of  villages,  towns,  boroughs,
 provinces,  kingdoms,  and  royal  capitals,  without
 Kala-mountain,  without  the  mountains  Mu&linda
 and  great  Mu^ilinda,  without  a  mount  Sumeru,
-without  a  A'akravala  (i.  e.  horizon)  and  great  A'akra-
-vala  (i.  e.  extended  horizon),  without  other  principal
+without  a  A'akravala  (i.  e.  horizon)  and  great  A'akravala  (i.  e.  extended  horizon),  without  other  principal
 mountains,  without  great  oceans,  without  rivers
 and  great  rivers,  without  bodies  of  gods,  men,  and
-demons,  without  hells,  without  brute  creation,  with-
-out a  kingdom  of  Yama.  For  it  must  be  understood
+demons,  without  hells,  without  brute  creation,  without a  kingdom  of  Yama.  For  it  must  be  understood
 that  at  that  period  all  beings  in  any  of  the  six  states
 of  existence  in  this  world  had  been  removed  to
 other  worlds,  with  the  exception  of  those  who  were
@@ -12258,12 +11352,8 @@ sphere  sat  cross-legged  at  the  foot  of  the  jewel  trees.
 2  The  hells  at  least,  which  are  places  of  darkness,  could  not  be
 present  when  the  stars  are  shining  brightly.
 
-3  My  MSS.  read  pa^ayo^anajatany  uMaistvenabhut,  anupurva-
-jakhapatrapalajapariwaha^.     In  the  sequel  we  meet  with  another
+3  My  MSS.  read  pa^ayo^anajatany  uMaistvenabhut,  anupurvajakhapatrapalajapariwaha^.     In  the  sequel  we  meet  with  another
 reading  agreeing  with  Burnoufs.
-
-
-234
 
 
 SADDHARMA-PlLYDARfKA.  XL
@@ -12273,25 +11363,21 @@ At  that  moment  the  whole  sphere  was  replete
 with  Tathagatas,  but  the  beings  produced  from  the
 proper  body  of  the  Lord  .Sakyamuni  had  not  yet
 arrived,  not  even  from  a  single  point  of  the  horizon.
-Then  the  Lord  -Sakyamuni,  the  Tathagata,  &c.,  pro-
-ceeded to  make  room  for  those  Tathagata-frames
+Then  the  Lord  -Sakyamuni,  the  Tathagata,  &c.,  proceeded to  make  room  for  those  Tathagata-frames
 that  were  arriving  one  after  the  other.  On  every
 side  in  the  eight  directions  of  space  (appeared)
-twenty  hundred  thousand  myriads  of  ko/is  of  Bud-
-dha-fields of  lapis  lazuli,  decked  with  a  network  of
+twenty  hundred  thousand  myriads  of  ko/is  of  Buddha-fields of  lapis  lazuli,  decked  with  a  network  of
 seven  precious  substances  and  gold,  decorated  with
 a  fringe  of  little  bells,  strewn  with  Manddrava  and
 great  Mandarava  flowers,  covered  with  heavenly
 awnings,  hung  with  wreaths  of  heavenly  flowers,
 smoking  with  heavenly  odorous  incense.  All  those
-twenty  hundred  thousand  myriads  of  ko/is  of  Bud-
-dha-fields were  without  villages,  towns,  boroughs,
+twenty  hundred  thousand  myriads  of  ko/is  of  Buddha-fields were  without  villages,  towns,  boroughs,
 &c. ;  without  Kala-mountain,  &c.;  without  great
 oceans,  &c. ;  without  bodies  of  gods,  &c.  All  those
 Buddha-fields  were  so  arranged  by  him  as  to  form
 one  Buddha-field,  one  soil,  even,  lovely,  set  off  with
-trees  of  seven  precious  substances,  trees  five  hun-
-dred yo^anas  in  height  and  circumference,  provided
+trees  of  seven  precious  substances,  trees  five  hundred yo^anas  in  height  and  circumference,  provided
 with  boughs,  flowers,  and  fruits  in  proportion  \  At
 the  foot  of  each  tree  stood  prepared  a  throne,  five
 yo^anas  in  height  and  width,  consisting  of  celestial
@@ -12331,11 +11417,9 @@ sat  down  in  the  eight  quarters.  Thereupon  thirty
 ko^is  of  worlds  in  each  direction  were  occupied1  by
 those  Tathagatas  from  all  the  eight  quarters.  Then,
 seated  on  their  thrones,  those  Tathagatas  deputed
-their  satellites  into  the  presence  of  the  Lord  .Sakya-
-muni,  and  after  giving  them  bags  with  jewel  flowers
+their  satellites  into  the  presence  of  the  Lord  .Sakyamuni,  and  after  giving  them  bags  with  jewel  flowers
 enjoined  them  thus :  Go,  young  men  of  good  family,
-to  the  Grzdhraku/a  mountain,  where  the  Lord  6a-
-kyamuni,  the  Tathagata,  &c.,  is ;  salute  him  reveren-
+to  the  Grzdhraku/a  mountain,  where  the  Lord  6akyamuni,  the  Tathagata,  &c.,  is ;  salute  him  reveren-
 tially and  ask,  in  our  name,  after  the  state  of  health,
 well-being,  lustiness,  and  comfort  both  of  himself
 and  the  crowd  of  Bodhisattvas  and  disciples.  Strew
@@ -12356,8 +11440,7 @@ And  when  the  Lord  6akyamuni,  the  Tathagata,
 perceived  that  his  creations,  none  wanting,  had
 arrived ;  perceived  that  they  were  severally  seated
 on  their  thrones,  and  perceived  that  the  satellites  of
-those  Tathagatas,  &c.,  were  present,  he,  in  considera-
-tion of  the  wish  expressed  by  those  Tathigatas,  &c.,
+those  Tathagatas,  &c.,  were  present,  he,  in  consideration of  the  wish  expressed  by  those  Tathigatas,  &c.,
 rose  from  his  seat  and  stood  in  the  sky,  as  a
 meteor.  And  all  the  four  classes  of  the  assembly
 rose  from  their  seats,  stretched  out  their  joined  hands,
@@ -12367,8 +11450,7 @@ middle  of  the  great  Stupa  of  jewels,  which  showed
 like  a  meteor,  and  so  severed  the  two  parts.  Even
 as  the  double  doors  of  a  great  city  gate  separate
 when  the  bolt  is  removed,  so  the  Lord  opened  the
-great  Stupa,  which  showed  like  a  meteor,  by  un-
-locking it  in  the  middle  with  the  right  fore-finger.
+great  Stupa,  which  showed  like  a  meteor,  by  unlocking it  in  the  middle  with  the  right  fore-finger.
 The  great  Stupa  of  jewels  had  no  sooner  been  opened
 than  the  Lord  Prabhutaratna,  the  Tathagata,  &c.,
 was  seen  sitting  cross-legged  on  his  throne,  with
@@ -12393,13 +11475,11 @@ assembly.  I  myself,  Lord,  have  come  hither  to
 hear  the  Dharmaparyaya  of  the  Lotus  of  the  True
 Law.
 
-Now  the  four  classes  of  the  assembly,  on  per-
-ceiving the  Lord  Prabhutaratna,  the  Tathagata,  &c.,
+Now  the  four  classes  of  the  assembly,  on  perceiving the  Lord  Prabhutaratna,  the  Tathagata,  &c.,
 who  had  been  extinct  for  many  hundred  thousand
 myriads  of  ko/is  of  ^ons,  speaking  in  this  way,
 were  filled  with  wonder  and  amazement.  Instantly
-they  covered  the  Lord  Prabhutaratna,  the  Tatha-
-gata, &c.,  and  the  Lord  .Sakyamuni,  the  Tathagata,
+they  covered  the  Lord  Prabhutaratna,  the  Tathagata, &c.,  and  the  Lord  .Sakyamuni,  the  Tathagata,
 &c.,  with  heaps  of  divine  and  human  flowers.  And
 then  the  Lord  Prabhutaratna,  the  Tathagata,  &c.,
 ceded  to  the  Lord  .Sakyamuni,  the  Tathagata,  &c.,
@@ -12417,12 +11497,10 @@ assembly  rose  this  thought :  We  are  far  off  from
 the  two  Tathagatas  ;  therefore  let  us  also,  through
 the  power  of  the  Tathagata,  rise  up  to  the  sky.  As
 the  Lord  apprehended  in  his  mind  what  was  going
-on  in  the  minds  of  those  four  classes  of  the  as-
-sembly, he  instantly,  by  magic  power,  established
+on  in  the  minds  of  those  four  classes  of  the  assembly, he  instantly,  by  magic  power,  established
 the  four  classes  as  meteors  in  the  sky.  Thereupon
 the  Lord  .Sakyamuni,  the  Tathagata,  addressed  the
-four  classes  :  Who  amongst  you,  monks,  will  en-
-deavour to  expound  this  Dharmaparyaya  of  the
+four  classes  :  Who  amongst  you,  monks,  will  endeavour to  expound  this  Dharmaparyaya  of  the
 Lotus  of  the  True  Law  in  this  Saha-world  ?  The
 
 
@@ -12433,11 +11511,9 @@ Tathagata  longs  for  complete  extinction,  monks,
 after  entrusting  to  you  this  Dharmaparyaya  of  the
 Lotus  of  the  True  Law.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
-1.  Here  you  see,  monks,  the  great  Seer,  the  ex-
-tinct Chief,  within  the  Stupa  of  jewels,  who  now  has
+1.  Here  you  see,  monks,  the  great  Seer,  the  extinct Chief,  within  the  Stupa  of  jewels,  who  now  has
 come  to  hear  the  law.     Who  would  not  call  up  his
 energy  for  the  law's  sake  ?
 
@@ -12447,8 +11523,7 @@ law's  sake  he  moves  hither  and  thither ;  very  rare
 (and  very  precious)  is  a  law  like  this.
 
 3.  This   Leader  practised1  a  vow  when  he  was
-in  a  former  existence ;  even  after  his  complete  ex-
-tinction he  wanders  through  this  whole  world  in  all
+in  a  former  existence ;  even  after  his  complete  extinction he  wanders  through  this  whole  world  in  all
 ten  points  of  space.
 
 4.  And  all  these  (you  here  see)  are   my  proper
@@ -12485,8 +11560,7 @@ Buddhas  here  in  immense  number   staying  at  the
 foot  of  trees  like  a  great  multitude  of  lotuses.
 
 8.  Many  ko/is  of  bases  of  trees  are  brightened  by
-the  Leaders  sitting  on  the  thrones  which  are  per-
-petually occupied  by  them  and  brightened  as  dark-
+the  Leaders  sitting  on  the  thrones  which  are  perpetually occupied  by  them  and  brightened  as  dark-
 ness is  by  fire.
 
 9.  A  delicious  fragrance  spreads  from  the  Leaders
@@ -12495,11 +11569,9 @@ when  the  wind  is  blowing,  all  these  creatures  are
 intoxicated.
 
 10.  Let  him  who  after  my  extinction  shall  keep
-this  Dharmaparyaya  quickly  pronounce  his  declara-
-tion in  the  presence  of  the  Lords  of  the  world.
+this  Dharmaparyaya  quickly  pronounce  his  declaration in  the  presence  of  the  Lords  of  the  world.
 
-11.  The  Seer   Prabhutaratna  who,  though  com-
-pletely extinct,  is  awake,  will  hear  the  lion's  roar  of
+11.  The  Seer   Prabhutaratna  who,  though  completely extinct,  is  awake,  will  hear  the  lion's  roar  of
 him  who  shall  take  this  resolution  \
 
 12.  Myself,  in  the  second  place,  as  well  as  the
@@ -12508,14 +11580,12 @@ hear  that  resolution  from  the  son  of  Gana,  who  is  to
 exert  himself  to  expound  this  law.
 
 13.  And  thereby  shall  I  always  be  honoured  as
-well  as  Prabhutaratna,  the  self-born  Gma,  who  perpe-
-tually wanders  through  the  quarters  and  intermediate
+well  as  Prabhutaratna,  the  self-born  Gma,  who  perpetually wanders  through  the  quarters  and  intermediate
 quarters  in  order  to  hear  such  a  law  as  this.
 
 14.  And  these  (other)  Lords  of  the  world  here
 present,  by  whom   this  soil   is   so  variegated   and
-splendid,  to  them  also  will  accrue  ample  and  mani-
-fold honour  from  this  Sutra  being  preached.
+splendid,  to  them  also  will  accrue  ample  and  manifold honour  from  this  Sutra  being  preached.
 
 1  Vyavasaya.
 
@@ -12571,16 +11641,14 @@ other  artificial  light.
 
 XI,  APPARITION    OF    A    Sift  PA.  24!
 
-end,  cast  it  away,  and  then  walk  off  to  the  Brahma-
-world1,
+end,  cast  it  away,  and  then  walk  off  to  the  Brahmaworld1,
 
 25.  Is  not  difficult,  nor  would  it  require  a  strength
 surpassing  everybody's  strength  to  do  this  work  of
 difficulty.
 
 26.  Something  more  difficult  than  that  will  he  do
-who  in  the  last  days  after  my  extinction  shall  pro-
-nounce this  Sutra,  were  it  but  a  single  moment.
+who  in  the  last  days  after  my  extinction  shall  pronounce this  Sutra,  were  it  but  a  single  moment.
 
 27.  It  will  not  be  difficult  for  him  to  walk  in  the
 midst  of  the  conflagration  at  the  (time  of  the)  end
@@ -12590,24 +11658,20 @@ of  hay.
 28.  More  difficult  it  will  be  to  keep  this  Sutra
 after  my  extinction  and  teach  it  to  a  single  creature.
 
-29.  One  may  keep  the  eighty-four  thousand  divi-
-sions  of  the   law 2  and   expound   them,   with    the
+29.  One  may  keep  the  eighty-four  thousand  divisions  of  the   law 2  and   expound   them,   with    the
 
 
 1  Brahmaloka  may  mean  either  one  of  the  twenty  Brahma
-heavens,  or  all  of  them  collectively.     There  are  four  arupabrah-
-malokas,  and  sixteen  rupabrahmalokas.
+heavens,  or  all  of  them  collectively.     There  are  four  arupabrahmalokas,  and  sixteen  rupabrahmalokas.
 
 2  Dharmaskandha,  Pali  Dhammakkhandha;  see  Burnouf,
 Introd.  p.  34  seq. ;  B.  H.  Hodgson,  Essays,  p.  14 ;    Childers,  Pali
 Diet.  p.  1 1 7,  where  the  following  definition  is  given :  '  The  Tipi/aka
 is  divided  into  eighty-four  thousand  dhammakkhandhas,  "  articles  "
-or  "  sections  of  the  Law."     They  are  divisions  according  to  sub-
-ject.  Buddhaghosa,  as  an  illustration  of  the  meaning  of  this  term,
+or  "  sections  of  the  Law."     They  are  divisions  according  to  subject.  Buddhaghosa,  as  an  illustration  of  the  meaning  of  this  term,
 says  that  a  Sutta,  or  discourse,  dealing  with  one  subject  forms  one
 dh.,  while  a  Sutta  embracing  several  subjects  forms  several.'     It  is
-worth  while  to  compare  this  number  of  divisions  with  the  eighty-
-four  thousand  monasteries  erected  by  king  A^oka  in  the  eighty-four
+worth  while  to  compare  this  number  of  divisions  with  the  eightyfour  thousand  monasteries  erected  by  king  A^oka  in  the  eighty-four
 (thousand)  towns  of  India,  as  we  know  from  the  historical  work
 Dipavawsa  VI,  95  seq.,  where  we  read  (according  to  Dr.  Oldenberg's
 transl.) :  '  Full  and  complete  eighty-four  thousand  most  precious
@@ -12687,8 +11751,7 @@ Thereupon  the  Lord  addressed  the  whole  company
 of  Bodhisattvas  and  the  world,  including  gods  and
 demons,  and  said :  Of  yore,  monks,  in  times  past
 I  have,  unwearied  and  without  repose,  sought  after
-the  Sutra  of  the  Lotus  of  the  True  Law,  during  im-
-mense, immeasurable  JEons ;  many  JEons  before
+the  Sutra  of  the  Lotus  of  the  True  Law,  during  immense, immeasurable  JEons ;  many  JEons  before
 I  have  been  a  king,  during  many  thousands  of
 ./Eons.  Having  once  taken  the  strong  resolution
 to  arrive  at  supreme,  perfect  enlightenment,  my
@@ -12717,13 +11780,10 @@ R  2
 244  SADDHARMA-PUJVDARIKA.  XL
 
 those  days  the  life  of  men  lasted  long,  so  that  for  a
-time  of  many  hundred  thousand  years  I  was  exer-
-cising the  rule  of  a  King  of  the  Law  for  the  sake  of
-duty,  not  for  the  sake  of  enjoyment1.  After  install-
-ing in  government  the  eldest  prince  royal,  I  went  in
+time  of  many  hundred  thousand  years  I  was  exercising the  rule  of  a  King  of  the  Law  for  the  sake  of
+duty,  not  for  the  sake  of  enjoyment1.  After  installing in  government  the  eldest  prince  royal,  I  went  in
 quest  of  the  best  law  in  the  four  quarters,  and  had
-promulgated  with  sound  of  bell  the  following  pro-
-clamation :  He  who  procures  for  me  the  best  law2  or
+promulgated  with  sound  of  bell  the  following  proclamation :  He  who  procures  for  me  the  best  law2  or
 points  out  what  is  useful,  to  him  will  I  become  a
 servant.  At  that  time  there  lived  a  Seer ;  he  told
 me :  Noble  king,  there  is  a  Sutra,  called  the  Lotus
@@ -12777,16 +11837,14 @@ a  revealer  of  the  Sutra  called  the  True  Law6.
 
 44.  He  said  to  me :  If  thou  wish  to  know  Dharma,
 become  my  servant6 ;  then  I  will  explain  it  to  thee.
-As  I  heard  these  words  I  rejoiced  and  carefully  per-
-formed such  work  as  a  servant  ought  to  do.
+As  I  heard  these  words  I  rejoiced  and  carefully  performed such  work  as  a  servant  ought  to  do.
 
 45.  I  never  felt  any  bodily  nor  mental  weariness
 since  I  had  become  a  servant  for  the  sake  of  the
 true  law.     I  did  my  best7  for  real  truth's  sake8,  not
 with  a  view  to  win  honour  or  enjoy  pleasure.
 
-1  -Sayanasya  manfafa  padan  dharayamasa,  which  is  sheer  non-
-sense; we  have  to  read  jaysinasya.     The  plural  padan  shows
+1  -Sayanasya  manfafa  padan  dharayamasa,  which  is  sheer  nonsense; we  have  to  read  jaysinasya.     The  plural  padan  shows
 that  not  the  feet  are  meant — for  that  is  pzidau  in  the  dual — but
 the  lower  end  of  the  couch ;  the  plural,  if  applied  to  one  person,
 is  always  metaphorical.
@@ -12820,21 +11878,18 @@ another  who  at  that  time,  at  that  juncture  was  the
 king  ?  No,  you  must  certainly  not  hold  that  view.
 For  it  was  myself,  who  at  that  time,  at  that  juncture
 was  the  king.  What  then,  monks,  is  your  opinion  ?
-that  it  was  another  who  at  that  time,  at  that  junc-
-ture was  the  Seer  ?  No,  you  must  certainly  not
+that  it  was  another  who  at  that  time,  at  that  juncture was  the  Seer  ?  No,  you  must  certainly  not
 hold  that  view.  For  it  was  this  Devadatta  himself,
 the  monk2,  who  at  that  time,  at  that  juncture  was
 the  Seer.  Indeed,  monks,  Devadatta  was  my  good
-friend.  By  the  aid  of  Devadatta3  have  I  accom-
-plished the  six  perfect  virtues  (Paramitds).  Noble
+friend.  By  the  aid  of  Devadatta3  have  I  accomplished the  six  perfect  virtues  (Paramitds).  Noble
 kindness,  noble  compassion,  noble  sympathy,  noble
 indifference,  the  thirty-two  signs  of  a  great  man,  the
 eighty  lesser  marks4,  the  gold-coloured  tinge,  the
 ten  powers,  the  fourfold  absence  of  hesitation5,  the
 four  articles  of  sociability,  the  eighteen  uncommon
 
-tutatvaheto^.     A  later  hand  has  added  a  marginal  reading  sar-
-vasatva,  obviously  intended  to  give  a  Buddhistic  tinge  to  the  tale.
+tutatvaheto^.     A  later  hand  has  added  a  marginal  reading  sarvasatva,  obviously  intended  to  give  a  Buddhistic  tinge  to  the  tale.
 
 1  The  traces  of  alteration  are  so  clearly  visible  that  it  is  not
 necessary  to  point  them  out.
@@ -12864,12 +11919,10 @@ declare  to  you :  This  Devadatta,  the  monk,  shall  in
 an  age  to  come,  after  immense,  innumerable  ALons,
 become  a  Tathagata  named  Devara^a  (i.  e.  King  of
 the  gods),  an  Arhat,  &c.,  in  the  world  Devasopana
-(i.  e.  Stairs  of  the  gods).  The  lifetime  of  that  Tatha-
-gata Devara^a,  monks,  shall  measure  twenty  inter-
+(i.  e.  Stairs  of  the  gods).  The  lifetime  of  that  Tathagata Devara^a,  monks,  shall  measure  twenty  inter-
 mediate kalpas.  He  shall  preach  the  law  in  extension,
 and  beings  equal  to  the  sands  of  the  river  Ganges
-shall  through  him  forsake  all  evils  and  realise  Arhat-
-ship.  Several  beings  shall  also  elevate  their  minds
+shall  through  him  forsake  all  evils  and  realise  Arhatship.  Several  beings  shall  also  elevate  their  minds
 to  Pratyekabuddhaship,  whereas  beings  equal  to  the
 sands  of  the  river  Ganges  shall  elevate  their  minds  to
 supreme,  perfect  enlightenment,  and  become  endowed
@@ -12881,12 +11934,10 @@ body  shall  not  be  seen  divided  into  different  parts
 of  seven  precious  substances,  which  Stupa  is  to  be
 sixty  hundred  yo^anas  in  height  and  forty  yq^anas
 in  extension1.  All,  gods  and  men,  shall  do  worship
-to  it  with  flowers,  incense,  perfumed  garlands,  un-
-guents, powder,  clothes,  umbrellas,  banners,  flags,
+to  it  with  flowers,  incense,  perfumed  garlands,  unguents, powder,  clothes,  umbrellas,  banners,  flags,
 and  celebrate  it  with  stanzas  and  songs.  Those  who
 shall  turn  round  that  Stupa  from  left  to  right  or
-humbly  salute  it,  shall  some  of  them  realise  Arhat-
-ship,  others  attain  Pratyekabuddhaship ;  others,  gods
+humbly  salute  it,  shall  some  of  them  realise  Arhatship,  others  attain  Pratyekabuddhaship ;  others,  gods
 and  men,  in  immense  number,  shall  raise  their  minds
 to  supreme,  perfect  enlightenment,  never  to  return.
 
@@ -12913,8 +11964,7 @@ on  a  lotus  of  seven  precious  substances,  face  to  face
 with  the  Tathagata.
 
 At  that  moment  a  Bodhisattva  of  the  name  of
-Pra^aku/a,  having  come  from  beneath  the  Buddha-
-field  of  the  Tathagata  Prabhutaratna,  said  to  the
+Pra^aku/a,  having  come  from  beneath  the  Buddhafield  of  the  Tathagata  Prabhutaratna,  said  to  the
 Tathagata  Prabhutaratna :  Lord,  let  us  resort  to
 our  own  Buddha-field.  But  the  Lord  6akyamuni,
 the  Tathagata,  said  to  the  Bodhisattva  Pra^aku/a :
@@ -12935,20 +11985,16 @@ royal,  alighted  from  his  lotus,  reverentially  saluted
 XI.  APPARITION    OF    A    ST^JPA.  249
 
 the  feet  of  the  Lord  -Sakyamuni  and  Prabhutaratna,
-the  Tathagata,  went  up  to  the  Bodhisattva  Pragna-
-ku/a  and,  after  making  the  usual  complimentary
-questions  as  to  his  health  and  welfare,  seated  him-
-self at  some  distance.  The  Bodhisattva  Pra^aku/a
+the  Tathagata,  went  up  to  the  Bodhisattva  Pragnaku/a  and,  after  making  the  usual  complimentary
+questions  as  to  his  health  and  welfare,  seated  himself at  some  distance.  The  Bodhisattva  Pra^aku/a
 then  addressed  to  MaagUfrl,  the  prince  royal,  the
 following  question :  Mangusri,  how  many  beings
 hast  thou  educated1  during  thy  stay  in  the  sea  ?
-Ma^uyrl  answered :  Many,  innumerable,  incalcu-
-lable beings  have  I  educated,  so  innumerable  that
+Ma^uyrl  answered :  Many,  innumerable,  incalculable beings  have  I  educated,  so  innumerable  that
 words  cannot  express  it,  nor  thought  conceive  it.
 Wait  a  while,  young  man  of  good  family,  thou  shalt
 presently  see  a  token.  No  sooner  had  Manjrusrl,
-the  prince  royal,  spoken  these  words  than  instan-
-taneously many  thousands  of  lotuses  rose  from  the
+the  prince  royal,  spoken  these  words  than  instantaneously many  thousands  of  lotuses  rose  from  the
 bosom  of  the  sea  up  to  the  sky,  and  on  those
 lotuses  were  seated  many  thousands  of  Bodhisattvas,
 who  flocked  through  the  air  to  the  Grzdhraku/a
@@ -12986,14 +12032,12 @@ amongst  men2.
 
 48.  What  law  hast  thou  preached,  or  what  Sutra,  in
 showing  the  path  of  enlightenment,  so  that  those  who
-are  there  with  you  have  conceived  the  idea  of  enlight-
-enment ?  that,  once  having  gained  a  safe  ford3,  they
+are  there  with  you  have  conceived  the  idea  of  enlightenment ?  that,  once  having  gained  a  safe  ford3,  they
 have  been  decisively  established  in  omniscience  ?
 
 Mangusri  answered :  In  the  bosom  of  the  sea
 I  have  expounded  the  Lotus  of  the  True  Law  and  no
-other  Sutra.  Pra^aku/a  said  :  That  Sutra  is  pro-
-found, subtle,  difficult  to  seize  ;  no  other  Sutra  equals
+other  Sutra.  Pra^aku/a  said  :  That  Sutra  is  profound, subtle,  difficult  to  seize  ;  no  other  Sutra  equals
 it.  Is  there  any  creature  able  to  understand  this
 jewel  of  a  Sutra  or  to  arrive  at  supreme,  perfect
 enlightenment  ?  Ma^usri  replied  :  There  is,  young
@@ -13002,8 +12046,7 @@ Naga-king,  eight  years  old,  very  intelligent,  of  keen
 faculties,  endowed  with  prudence  in  acts  of  body,
 speech,  and  mind,  who  has  caught  and  kept  all  the
 teachings,  in  substance  and  form,  of  the  Tathagatas,
-who  has  acquired  in  one  moment  a  thousand  medi-
-tations and  proofs  of  the  essence  of  all  laws4.  She
+who  has  acquired  in  one  moment  a  thousand  meditations and  proofs  of  the  essence  of  all  laws4.  She
 
 1  Mahabhadra  pra-gmya  suranaman.    I  take  sura  in  the  sense  of
 suri,  though  it  is  also  possible  that  sura  stands  for  jura,  a  hero.
@@ -13020,21 +12063,17 @@ XI.  APPARITION    OF    A   ST^JPA.  251
 
 does  not  swerve  from  the  idea  of  enlightenment,  has
 great  aspirations,  applies  to  other  beings  the  same
-measure  as  to  herself ;  she  is  apt  to  display  all  vir-
-tues and  is  never  deficient  in  them.  With  a  bland
+measure  as  to  herself ;  she  is  apt  to  display  all  virtues and  is  never  deficient  in  them.  With  a  bland
 smile  on  the  face  and  in  the  bloom  of  an  extremely
 handsome  appearance  she  speaks  words  of  kindliness
 and  compassion1.  She  is  fit  to  arrive  at  supreme,
-perfect  enlightenment.  The  Bodhisattva  Pra^a-
-ku^a  said :  I  have  seen  how  the  Lord  ^akyamuni,
-the  Tathagata,  when  he  was  striving  after  enlighten-
-ment, in  the  state  of  a  Bodhisattva,  performed  innu-
+perfect  enlightenment.  The  Bodhisattva  Pra^aku^a  said :  I  have  seen  how  the  Lord  ^akyamuni,
+the  Tathagata,  when  he  was  striving  after  enlightenment, in  the  state  of  a  Bodhisattva,  performed  innu-
 merable good  works2,  and  during  many  JEons  never
 slackened  in  his  arduous  task.  In  the  whole  universe
 there  is  not  a  single  spot  so  small  as  a  mustard-seed
 where  he  has  not  surrendered  his  body  for  the  sake
-of  creatures3.  Afterwards  he  arrived  at  enlighten-
-ment. Who  then  would  believe  that  she  should  have
+of  creatures3.  Afterwards  he  arrived  at  enlightenment. Who  then  would  believe  that  she  should  have
 been  able  to  arrive  at  supreme,  perfect  knowledge
 in  one  moment  ?
 
@@ -13049,8 +12088,7 @@ hand  adds  sarva  between  dharma  and  satva.
 
 1  The  daughter  of  Sagara,  the  Ocean,  is  Lakshmt,  the  smiling
 goddess  of  Beauty  and  Fortune,  but  from  some  traits  in  the  sequel
-it  would  seem  that  she  is  identified  with  Tara",  the  wife  of  Brzha-
-spati  and  the  Moon.
+it  would  seem  that  she  is  identified  with  Tara",  the  wife  of  Brzhaspati  and  the  Moon.
 
 2  As  Hercules  performed  his  &0\a.
 
@@ -13064,8 +12102,7 @@ in  Ceylon,  &c.
 252  SADDHARMA-PtWDARtKA.  XL
 
 49.  Spotless,  bright,  and  of  unfathomable  light  is
-that  ethereal  body,  adorned  with  the  thirty -two  cha-
-racteristic signs,  pervading  space  in  all  directions.
+that  ethereal  body,  adorned  with  the  thirty -two  characteristic signs,  pervading  space  in  all  directions.
 
 50.  He  is  possessed  of  the  secondary  marks  and
 praised  by  every  being,  and  accessible  to  all,  like
@@ -13112,35 +12149,30 @@ ku/a  and  the  senior  priest  ^ariputra :  Has  the
 Lord  readily  accepted1  the  gem  I  presented  him  or
 has  he  not  ?  The  senior  priest  answered  :  As  soon
 as  it  was  presented  by  thee,  so  soon  it  was  accepted
-by  the  Lord.  The  daughter  of  Sagara,  the  Naga-
-king,  replied  :  If  I  were  endowed  with  magic  power,
+by  the  Lord.  The  daughter  of  Sagara,  the  Nagaking,  replied  :  If  I  were  endowed  with  magic  power,
 brother  .Sariputra,  I  should  sooner  have  arrived  at
 supreme,  perfect  enlightenment,  and  there  would
 have  been  none  to  receive  this  gem.
 
 At  the  same  instant,  before  the  sight  of  the  whole
 world  and  of  the  senior  priest  .Sariputra,  the  female
-sex  of  the  daughter  of  Sagara,  the  Naga-king,  dis-
-appeared ;  the  male  sex  appeared 2  and  she  mani-
+sex  of  the  daughter  of  Sagara,  the  Naga-king,  disappeared ;  the  male  sex  appeared 2  and  she  mani-
 fested herself  as  a  Bodhisattva,  who  immediately
 went  to  the  South  to  sit  down  at  the  foot  of  a  tree
 made  of  seven  precious  substances,  in  the  world
 Vimala  (i.  e.  spotless),  where  he  showed  himself
 enlightened  and  preaching  the  law,  while  filling  all
-directions  of  space  with  the  radiance  of  the  thirty-
-two  characteristic  signs  and  all  secondary  marks.
+directions  of  space  with  the  radiance  of  the  thirtytwo  characteristic  signs  and  all  secondary  marks.
 All  beings  in  the  Saha-world  beheld  that  Lord  while
 he  received  the  homage  of  all,  gods,  Nagas,  goblins,
-Gandharvas,  demons,  GaiWas,  Kinnaras,  great  ser-
-pents, men,  and  beings  not  human,  and  was  engaged
+Gandharvas,  demons,  GaiWas,  Kinnaras,  great  serpents, men,  and  beings  not  human,  and  was  engaged
 
 1  A  marginal  reading  from  a  later  hand  adds:    anukampam
 u  pad  ay  a,  by  grace,  by  mercy,  graciously.
 
 2  In  ancient  times  such  a  change  of  sex  is  nothing  strange.
 Sundry   words  for   'star,'  e.g.  tar  a,   tSraka,  Latin  Stella,  are
-feminine,  whereas  the  names  of  some  particular  stars  are  mascu-
-line; so  Tar  a,  the  daughter  of  the  Sea,  Stella  Marina,  may  have
+feminine,  whereas  the  names  of  some  particular  stars  are  masculine; so  Tar  a,  the  daughter  of  the  Sea,  Stella  Marina,  may  have
 been  identified  with  Tishya,  or  the  Iranian  Tishtrya,  who  equally
 rises  from  the  sea;    cf.  Tishter  Yasht  (ed.  Westergaard,  p.  177).
 The  daughter  of  the  ocean  seems  to  be  identical  with  Ardvi  Sura,
@@ -13154,8 +12186,7 @@ the  preaching  of  that  Tathdgata  became  incapable
 of  sliding  back  in  supreme,  perfect  enlightenment.
 And  that  world  Vimala  and  this  Saha-world  shook
 in  six  different  ways.  Three  thousand  living  beings
-from  the  congregational  circle  of  the  Lord  .Sakya-
-muni  gained  the  acquiescence  in  the  eternal  law1,
+from  the  congregational  circle  of  the  Lord  .Sakyamuni  gained  the  acquiescence  in  the  eternal  law1,
 whereas  three  hundred  thousand  beings  obtained  the
 prediction  of  their  future  destiny  to  supreme,  perfect
 enlightenment.
@@ -13177,16 +12208,14 @@ Thereafter  the  Bodhisattva  Bhaisha^yara^u  and
 the  Bodhisattva  Mahapratibhana,  with  a  retinue  of
 twenty  hundred  thousand  Bodhisattvas,  spoke  before
 the  face  of  the  Lord  the  following  words :  Let  the
-Lord  be  at  ease  in  this  respect ;  we  will  after  the  ex-
-tinction of  the  Tathagata  expound  this  Paryaya  to
+Lord  be  at  ease  in  this  respect ;  we  will  after  the  extinction of  the  Tathagata  expound  this  Paryaya  to
 (all)  creatures1,  though  we  are  aware,  O  Lord,  that
 at  that  period  there  shall  be  malign  beings,  having
 few  roots  of  goodness,  conceited,  fond  of  gain  and
 honour,  rooted  in  unholiness,  difficult  to  tame,
 deprived  of  good  will,  and  full  of  unwillingness.
 Nevertheless,  O  Lord,  we  will  at  that  period  read,
-keep,  preach,  write,  honour,  respect,  venerate,  wor-
-ship this  Sutra ;  with  sacrifice  of  body  and  life,  O
+keep,  preach,  write,  honour,  respect,  venerate,  worship this  Sutra ;  with  sacrifice  of  body  and  life,  O
 Lord,  we  will  divulge  this  Sutra.  Let  the  Lord  be
 at  ease.
 
@@ -13213,8 +12242,7 @@ after  the  complete  extinction  of  the  Lord,  in  the
 last  days,  the  last  period,  though  in  other  worlds.
 For  in  this  Saha-world,  O  Lord,  the  creatures  are
 conceited,  possessed  of  few  roots  of  goodness,
-always  vicious  in  their  thoughts,  wicked,  and  natu-
-rally perverse.
+always  vicious  in  their  thoughts,  wicked,  and  naturally perverse.
 
 Then  the  noble  matron  Gautami,  the  sister  of
 the  Lord's  mother,  along  with  six  hundred1  nuns,
@@ -13223,8 +12251,7 @@ rose  from  her  seat,  raised  the  joined  hands  towards
 the  Lord  and  remained  gazing  up  to  him.  Then  the
 Lord  addressed  the  noble  matron  Gautamt :  Why
 dost  thou  stand  so  dejected,  gazing  up  to  the
-Tathagata  ?  (She  replied)  :  I  have  not  been  men-
-tioned by  the  Tathagata,  nor  have  I  received  from
+Tathagata  ?  (She  replied)  :  I  have  not  been  mentioned by  the  Tathagata,  nor  have  I  received  from
 him  a  prediction  of  my  destiny  to  supreme,  perfect
 enlightenment.  (He  said):  But,  Gautami,  thou  hast
 received  a  prediction  with  the  prediction  regarding
@@ -13248,16 +12275,14 @@ XII.  EXERTION.  257
 hundred  thousand  myriads  of  ko/is  of  Buddhas l,  be
 a  Bodhisattva  and  preacher  of  the  law.  These  six
 thousand2  nuns  also,  partly  perfected  in  discipline,
-partly  not,  shall  along  with  others  become  Bodhi-
-sattvas3  and  preachers  of  the  law  before  the  face  of
+partly  not,  shall  along  with  others  become  Bodhisattvas3  and  preachers  of  the  law  before  the  face  of
 the  Tathagatas.  Afterwards,  when  thou  shalt  have
 completed  the  course  of  a  Bodhisattva,  thou  shalt
 become,  under  the  name  of  Sarvasattvapriyadarcana
 (i.  e.  lovely  to  see  for  all  beings),  a  Tathagata,  an
 Arhat,  &c.,  endowed  with  science  and  conduct,  &c.
 &c.  And  that  Tathagata  Sarvasattvapriyadarsana,
-O  Gautamt,  shall  give  a  prediction  by  regular  succes-
-sion to  those  six  thousand  Bodhisattvas  concerning
+O  Gautamt,  shall  give  a  prediction  by  regular  succession to  those  six  thousand  Bodhisattvas  concerning
 their  destiny  to  supreme,  perfect  enlightenment.
 
 Then  the  nun  Ya^odhara,  the  mother  of  Rahula,
@@ -13300,8 +12325,7 @@ When  the  noble  matron  Gautami,  the  nun,  with
 her  suite  of  six  thousand  nuns,  and  Ya^odhara,  the
 nun,  with  her  suite  of  four  thousand  nuns,  heard  from
 the  Lord  their  future  destiny  to  supreme,  perfect
-enlightenment,  they  uttered,  in  wonder  and  amaze-
-ment, this  stanza  :
+enlightenment,  they  uttered,  in  wonder  and  amazement, this  stanza  :
 
 i.  O  Lord,  thou  art  the  trainer,  thou  art  the
 leader ;  thou  art  the  master  of  the  world,  including
@@ -13345,8 +12369,7 @@ shall  protect,  defend,  and  guard  us.
 Then  the  Bodhisattvas  unanimously  in  a  chorus
 addressed  the  Lord  with  the  following  stanzas  :
 
-2.  Be  at  ease,  O  Lord.     After  thy  complete  ex-
-tinction, in  the  horrible  last  period  of  the  world,  we
+2.  Be  at  ease,  O  Lord.     After  thy  complete  extinction, in  the  horrible  last  period  of  the  world,  we
 will  proclaim  this  sublime  Sutra.
 
 3.  We  will  suffer,  patiently  endure,  O  Lord,  the
@@ -13404,8 +12427,7 @@ reverence  for  the  great  Seers.
 shall   (sooner   or   later)   become   enlightened3,  and
 therefore  will  we  forbear  to  the  last.
 
-13.  In  that  dreadful,  most  terrible  period  of  fright-
-ful general  revolution  will  many  fiendish  monks  stand
+13.  In  that  dreadful,  most  terrible  period  of  frightful general  revolution  will  many  fiendish  monks  stand
 up  as  our  revilers.
 
 1 4.  Out  of  respect  for  the  Chief  of  the  world  we
@@ -13415,8 +12437,7 @@ girdle  of  forbearance  will  1 4  proclaim  this  Sutra.
 15.  I5  do  not  care  for  my  body  or  life,  O  Lord,
 
 we  have  the  interjection  vat  a  (bat  a)  in  the  sense  of  a  ninda,
-reproach,  contempt.  The  Buddhists  are  fond  of  denouncing  schis-
-matics or  heretics  as  impostors,  and  their  works  as  forgeries;
+reproach,  contempt.  The  Buddhists  are  fond  of  denouncing  schismatics or  heretics  as  impostors,  and  their  works  as  forgeries;
 a  model  of  such  an  accusation  brought  forward  by  the  orthodox
 against  the  '  wicked '  monks,  the  Va^iputtakas,  is  to  be  found  in
 Dipavawzsa  V,  30  seqq.
@@ -13445,17 +12466,14 @@ but  as  keepers  of  thine  entrusted  deposit  we  care  for
 enlightenment.
 
 1 6.  The  Lord  himself  knows  that  in  the  last  period
-there  are  (to  be)  wicked  monks  who  do  not  under-
-stand mysterious  speech1.
+there  are  (to  be)  wicked  monks  who  do  not  understand mysterious  speech1.
 
-17.  One  will  have    to  bear  frowning    looks,  re-
-peated disavowal  (or  concealment),   expulsion  from
+17.  One  will  have    to  bear  frowning    looks,  repeated disavowal  (or  concealment),   expulsion  from
 the  monasteries,  many  and  manifold  abuses2.
 
 1 8.  Yet  mindful  of  the  command  of  the  Lord  of
 the  world  we  will  in  the  last  period   undauntedly
-proclaim    this    Sutra   in   the   midst   of  the  congre-
-gation.
+proclaim    this    Sutra   in   the   midst   of  the  congregation.
 
 19.  We  will  visit  towns  and  villages  everywhere,
 and  transmit  to  those  who  care  for  it  thine  entrusted
@@ -13465,8 +12483,7 @@ deposit,  O  Lord.
 message ;   be  at  ease  then,  tranquil  and  quiet,  great
 Seer.
 
-21.  Light   of  the  world,   thou   knowest  the  dis-
-position of  all  who  have  flocked  hither  from  every
+21.  Light   of  the  world,   thou   knowest  the  disposition of  all  who  have  flocked  hither  from  every
 direction,  (and  thou  knowest  that)  we  speak  a  word
 of  truth.
 
@@ -13492,16 +12509,13 @@ Mahasattvas  will  attempt  out  of  reverence  for  the
 Lord.  How  are  these  Bodhisattvas  Mahisattvas  to
 promulgate  this  Dharmaparyaya  at  the  end  of  time,
 at  the  last  period  ?  Whereupon  the  Lord  answered
-Maagwri,  the  prince  royal :  A  Bodhisattva  Maha-
-sattva,  Ma#£usrl,  he  who  is  to  promulgate  this  Dhar-
+Maagwri,  the  prince  royal :  A  Bodhisattva  Mahasattva,  Ma#£usrl,  he  who  is  to  promulgate  this  Dhar-
 maparyaya at  the  end  of  time,  at  the  last  period,
 must  be  firm  in  four  things.  In  which  things  ?  The
 Bodhisattva  Mahasattva,  Ma.ng\\sri,  must  be  firm  in
 his  conduct  and  proper  sphere  if  he  wishes  to  teach
-this  Dharmaparyaya.  And  how,  Mawfuyrt,  is  a  Bodhi-
-sattva Mahasattva  firm  in  his  conduct  and  proper
-sphere  ?  When  the  Bodhisattva  Mahasattva,  Ma/z-
-gusri,  is  patient,  meek,  has  reached  the  stage  of
+this  Dharmaparyaya.  And  how,  Mawfuyrt,  is  a  Bodhisattva Mahasattva  firm  in  his  conduct  and  proper
+sphere  ?  When  the  Bodhisattva  Mahasattva,  Ma/zgusri,  is  patient,  meek,  has  reached  the  stage  of
 meekness ;  when  he  is  not  rash,  nor  envious ;  when,
 moreover,  Ma«gusri,  he  clings  to  no  law  whatever  and
 sees  the  real  character  of  the  laws  (or  things) ;  when
@@ -13517,8 +12531,7 @@ he  does  not  approach  them ;  when  he  does  not
 
 XIII.  PEACEFUL   LIFE.  263
 
-serve,  not  court,  not  wait  upon  persons  of  an-
-other sect,  A'arakas,  Parivra^akas,  Aglvakas1,  Nir-
+serve,  not  court,  not  wait  upon  persons  of  another sect,  A'arakas,  Parivra^akas,  Aglvakas1,  Nir-
 granthas2,  nor  persons  passionately  fond  of  fine
 literature ;  when  he  does  not  serve,  not  court,  not
 wait  upon  adepts  at  worldly  spells3,  and  votaries  of
@@ -13565,16 +12578,14 @@ intercourse  with  such  a  person,  nor  greets  too  friendly
 in  return.  He  does  not  enter  a  house  alone  in  order
 to  receive  alms,  unless  having  the  Tathagata  in  his
 thoughts.  And  when  he  happens  to  preach  the  law
-to  females,  he  does  not  do  so  by  passionate  attach-
-ment to  the  law,  far  less  by  passionate  attachment
+to  females,  he  does  not  do  so  by  passionate  attachment to  the  law,  far  less  by  passionate  attachment
 to  a  woman.  When  he  is  preaching,  he  does  not
 display  his  row  of  teeth,  let  alone  a  quick  emotion
 on  his  physiognomy.  He  addresses  no  novice,  male
 or  female,  no  nun,  no  monk,  no  young  boy,  no  young
 girl,  nor  enters  upon  a  conversation  with  them ;  he
 shows  no  great  readiness  in  answering  their  address 1,
-nor  cares  to  give  too  frequent  answers.  This,  Ma.n-
-gusri,  is  called  the  first  proper  sphere  of  a  Bodhisattva
+nor  cares  to  give  too  frequent  answers.  This,  Ma.ngusri,  is  called  the  first  proper  sphere  of  a  Bodhisattva
 Mahasattva.
 
 Further,  Mangusri,  a  Bodhisattva  Mahasattva  looks
@@ -13588,15 +12599,12 @@ by  means  of  common  speech,  not  born,  composed  and
 simple,  aggregated  and  isolated3,  not  expressible  in
 words,  independently  established,  manifesting  them-
 
-1  Pratisa#zlapanaguruka,  literally  'making  much  of  return-
-ing (one's)  addressing.'
+1  Pratisa#zlapanaguruka,  literally  'making  much  of  returning (one's)  addressing.'
 
-2  YathavatpratishMitan,  aviparitasthayino  yathabhMn,  &c.   Bur-
-nouf  adds,  'prive'es  de  toute  essence,'  i.e.  niratmakan.
+2  YathavatpratishMitan,  aviparitasthayino  yathabhMn,  &c.   Burnouf  adds,  'prive'es  de  toute  essence,'  i.e.  niratmakan.
 
 3  In  the  rendering  of  the  last  four  terms  I  have  followed  Burnouf,
-as   the  reading  in  the  Camb.  MS.  is  evidently  corrupt :    asaw-
-skr/tanasa/wtanasawma'nasanna'bh.ila'pena    pravyahrz'tan.
+as   the  reading  in  the  Camb.  MS.  is  evidently  corrupt :    asawskr/tanasa/wtanasawma'nasanna'bh.ila'pena    pravyahrz'tan.
 The  original  reading  may  have  been  asazraskrz'tan  nasawskr/-
 tan,  not  composed,  not  simple;  nasaman  na  saman,  not  unlike
 
@@ -13613,8 +12621,7 @@ Mahasattva.
 And  in  order  to  expound  this  matter  in  greater
 detail,  the  Lord  uttered  the  following  stanzas  :
 
-1.  The    Bodhisattva   who,    undaunted    and    un-
-abashed,   wishes   to    set    forth    this    Stitra   in   the
+1.  The    Bodhisattva   who,    undaunted    and    unabashed,   wishes   to    set    forth    this    Stitra   in   the
 dreadful  period  hereafter,
 
 2.  Must  keep  to  his  course  (of  duty)  and  proper
@@ -13644,8 +12651,7 @@ nasato)  na  sawtan,  not  non-existent,  not  existent.
 which  is  wanting  in  my  MS.  :  £a«</alair  mush^kai^api  tirthikai^-
 
 
-2  According  to  the  reading,  vin  ay  ed  agamasthita(n).    A  mar-
-ginal reading  has  vinayena0,  a  reading  followed  by  Burnouf.
+2  According  to  the  reading,  vin  ay  ed  agamasthita(n).    A  marginal reading  has  vinayena0,  a  reading  followed  by  Burnouf.
 
 3  Or,  Arhats  :  ArhantasaTwmata(n)  bhikhshun.   The  (-rainas
 are  meant.
@@ -13657,8 +12663,7 @@ in  this  transient  world.     This  is  called  the  proper
 conduct  of  a  Bodhisattva.
 
 7.  But  when  one  comes  to  him  to  question  him
-about  the  law  for  the  sake  of  superior  enlighten-
-ment, he  should,  at  any  time,  speak  freely,  always
+about  the  law  for  the  sake  of  superior  enlightenment, he  should,  at  any  time,  speak  freely,  always
 firm  and  undaunted.
 
 8.  He  should  have  no  intercourse  with  women
@@ -13710,13 +12715,11 @@ is  a  woman,'  nor  marks, '  This  is  a  man  ; '  when  in
 searching  he  finds  no  laws  (or  things),  because  they
 have  never  existed ;
 
-1 8.  This  is  called  the  observance1  of  the  Bodhi-
-sattvas  in  general.     Now  listen  to  me  when  I  set
+1 8.  This  is  called  the  observance1  of  the  Bodhisattvas  in  general.     Now  listen  to  me  when  I  set
 forth  what  should  be  their  proper  sphere.
 
 19.  All  laws  (i.e.  the  laws,  the  things)  have  been
-declared  to  be  non-existing,  not  appearing,  not  pro-
-duced, void,  immovable,  everlasting ;   this  is  called
+declared  to  be  non-existing,  not  appearing,  not  produced, void,  immovable,  everlasting ;   this  is  called
 the  proper  sphere  of  the  wise.
 
 20.  They  have   been   divided   into  existing  and
@@ -13752,8 +12755,7 @@ Sutra  in  the  world,  and  shall  feel  no  depression.
 
 268  SADDHARMA-PlLtfflARlKA.  XIII.
 
-thoughts,  exercise  meditation  with  complete  absorp-
-tion, and  correctly  perform  all  that  is  required  for
+thoughts,  exercise  meditation  with  complete  absorption, and  correctly  perform  all  that  is  required  for
 attaining  spiritual  insight1,  and  then,  after  rising  (from
 his  pious  meditation),  preach  with  unquailing  mind.
 
@@ -13791,8 +12793,7 @@ declaration  of  the  Buddha  in  ^ullavagga  X,  i,  6,  the  true  law
 time,  owing  to  the  institution  of  female  monks,  the  number  of
 1000  years  should  be  reduced  to  half.
 
-3  Anuparigrahikaya,  ananyusManaya  dharmaw  de^ayati  ;  °su£a-
-naya  is  certainly  wrong;  cf.  stanza  30  below.
+3  Anuparigrahikaya,  ananyusManaya  dharmaw  de^ayati  ;  °su£anaya  is  certainly  wrong;  cf.  stanza  30  below.
 
 
 XIII.  PEACEFUL   LIFE.  269
@@ -13802,8 +12803,7 @@ answer  in  the  way  of  (those  who  follow)  the  vehicle
 of  disciples1 ;  on  the  contrary,  he  answers  as  if  he
 had  attained  Buddha-knowledge.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 26.  The  wise  man2  is  always  at  ease3,  and  in  that
 state  he  preaches  the   law,  seated  on  an  elevated
@@ -13835,8 +12835,7 @@ sense  of  a  minister  of  religion.
 by  'being  in  a  peaceful  state/  because  there  the  mental  state  is
 more  prominent.
 
-*  -A"aukshaffz  ka,  so  £ivara  pravaritva  suraktaranga/rc  supraras-
-tararigai^.
+*  -A"aukshaffz  ka,  so  £ivara  pravaritva  suraktaranga/rc  suprarastararigai^.
 
 6  According  to  the  ten  commandments  (Dasarfla)  the  use  of
 ointments  is  forbidden  to  the  monks,  but  the  preacher  need  not  be
@@ -13920,8 +12919,7 @@ proof  of  not  having  arrived  at  it ;  you  are  too  fickle
 in  your  doings  and  not  capable  of  acquiring  true
 knowledge.  He  does  not  in  this  way  bring  forward
 the  shortcomings  of  any  adherent  of  the  vehicle  of  the
-Bodhisattvas.  Nor  does  he  show  any  delight  in  dis-
-putes about  the  law,  or  engage  in  disputes  about  the
+Bodhisattvas.  Nor  does  he  show  any  delight  in  disputes about  the  law,  or  engage  in  disputes  about  the
 law,  and  he  never  abandons  the  strength  of  charity
 towards  all  beings.  In  respect  to  all  Tathagatas  he
 feels  as  if  they  were  his  fathers,  and  in  respect  to  all
@@ -13929,8 +12927,7 @@ Bodhisattvas  as  if  they  were  his  masters.  And  as
 to  the  Bodhisattvas  Mahasattvas  in  all  directions  of
 space,  he  is  assiduous  in  paying  homage  to  them  by
 good  will  and  respect.  When  he  preaches  the  law,
-he  preaches  no  less  and  no  more  than  the  law,  with-
-out partial  predilection  for  (any  part  of)  the  law,  and
+he  preaches  no  less  and  no  more  than  the  law,  without partial  predilection  for  (any  part  of)  the  law,  and
 
 
 272  SADDHARMA-PUJVZ»ARiKA.  XIII.
@@ -13946,8 +12943,7 @@ law  is  in  decay ;  who  will  live  at  ease1  and  not  be
 annoyed  in  the  exposition  of  this  Dharmaparyaya.
 And  in  the  synod2  he  will  have  allies,  and  he  will
 find  auditors  at  his  sermons  who  will  listen  to  this
-Dharmaparyaya,  believe,  accept,  keep,  read,  pene-
-trate, write  it  and  cause  it  to  be  written,  and  who,
+Dharmaparyaya,  believe,  accept,  keep,  read,  penetrate, write  it  and  cause  it  to  be  written,  and  who,
 after  it  has  been  written  and  a  volume  made  of  it,
 will  honour,  respect,  esteem,  and  worship  it.
 
@@ -13955,13 +12951,11 @@ This  said  the  Lord,  and  thereafter  he,  the  Sugata,
 the  Master,  added  the  following :
 
 39.  The  wise  man,  the  preacher,  who  wishes  to
-expound  this  Sutra  must  absolutely  renounce  false-
-hood, pride,  calumny,  and  envy.
+expound  this  Sutra  must  absolutely  renounce  falsehood, pride,  calumny,  and  envy.
 
 40.  He  should  never  speak  a  disparaging  word  of
 anybody;   never  engage   in  a  dispute  on  religious
-belief;  never   say  to   such  as  are  guilty  of  short-
-comings, You  will  not  obtain  superior  knowledge.
+belief;  never   say  to   such  as  are  guilty  of  shortcomings, You  will  not  obtain  superior  knowledge.
 
 41.  He  is  always  sincere,  mild,  forbearing;  (as)  a
 (true)  son  of  Sugata  he  will  repeatedly  preach  the
@@ -13988,8 +12982,7 @@ idea  of  pride  he  will  escape  hindrance.
 
 44.  The  wise  man  who  has  heard  this  law,  should
 be  constant  in  observing  it.     If  he  earnestly  strives
-after  a  peaceful  life,  ko/is  of  beings  will  surely  pro-
-tect him.
+after  a  peaceful  life,  ko/is  of  beings  will  surely  protect him.
 
 Further,  Maflguni,  the  Bodhisattva  Mahasattva,
 living  at  the  time  of  destruction  of  the  true  law  after
@@ -14003,12 +12996,10 @@ mind,  those  beings  who  do  not  hear,  nor  perceive,  nor
 understand  the  skilfulness  and  the  mystery1  of  the
 Tathagata,  who  do  not  inquire  for  it,  nor  believe  in  it,
 nor  even  are  willing  to  believe  in  it.  Of  course,  these
-beings  do  not  penetrate,  nor  understand  this  Dharma-
-paryaya. Nevertheless  will  I,  who  have  attained2
+beings  do  not  penetrate,  nor  understand  this  Dharmaparyaya. Nevertheless  will  I,  who  have  attained2
 this  supreme,  perfect  knowledge,  powerfully3  bend  to
 it  the  mind  of  every  one,  whatever  may  be  the  position
-he  occupies,  and  bring  about  that  he  accepts,  under-
-stands, and  arrives  at  full  ripeness.
+he  occupies,  and  bring  about  that  he  accepts,  understands, and  arrives  at  full  ripeness.
 
 By  possessing  also  this  fourth  quality,  Mang-usrt,
 a  Bodhisattva  Mahasattva,  who  is  to  expound  the
@@ -14025,8 +13016,7 @@ surnaturelles.'
 
 2  74  SADDHARMA-PU2VZ>ARiKA.  XIII.
 
-unmolested,  honoured,  respected,  esteemed,  vene-
-rated by  monks,  nuns,  and  lay  devotees,  male  and
+unmolested,  honoured,  respected,  esteemed,  venerated by  monks,  nuns,  and  lay  devotees,  male  and
 female,  by  kings,  princes,  ministers,  king's  officers,
 by  citizens  and  country  people,  by  Brahmans  and
 laymen  ;  the  gods  of  the  sky  will,  full  of  faith,  follow
@@ -14039,8 +13029,7 @@ this  Dharmaparyaya,  Ma%U$ri,  has  been  blessed  by
 all  Buddhas.  With  the  past,  future,  and  present
 Tathagata,  Mangusrl,  this  Dharmaparyaya  is  for
 ever  blessed.  Precious1  in  all  worlds,  Ma#£Ufd,  is
-the  sound,  rumour,  or  mentioning  of  this  Dharma-
-paryaya.
+the  sound,  rumour,  or  mentioning  of  this  Dharmaparyaya.
 
 It  is  a  case,  Mangusrl,  similar  to  that  of  a  king,
 a  ruler  of  armies,  who  by  force  has  conquered
@@ -14048,8 +13037,7 @@ his  own  kingdom,  whereupon  other  kings,  his
 adversaries,  wage  war  against  him.  That  ruler
 of  armies  has  soldiers  of  various  description  to
 fight  with  various  enemies.  As  the  king  sees  those
-soldiers  fighting,  he  is  delighted  with  their  gal-
-lantry, enraptured,  and  in  his  delight  and  rapture
+soldiers  fighting,  he  is  delighted  with  their  gallantry, enraptured,  and  in  his  delight  and  rapture
 he  makes  to  his  soldiers  several  donations,  such  as
 villages  and  village  grounds,  towns  and  grounds  of
 a  town ;  garments  and  head-gear ;  hand-ornaments,
@@ -14066,18 +13054,15 @@ XIII.  PEACEFUL    LIFE.  275
 
 of  his  crown  jewel,  because  that  jewel  only  fits  on
 the  head  of  a  king.  Were  the  king  to  give  away
-that  crown  jewel,  then  that  whole  royal  army,  con-
-sisting of  four  divisions,  would  be  astonished  and
-amazed.  In  the  same  manner,  Ma^usri,  the  Tatha-
-gata,  the  Arhat,  &c.,  exercises  the  reign  of  righteous-
+that  crown  jewel,  then  that  whole  royal  army,  consisting of  four  divisions,  would  be  astonished  and
+amazed.  In  the  same  manner,  Ma^usri,  the  Tathagata,  the  Arhat,  &c.,  exercises  the  reign  of  righteous-
 ness (and  of  the  law)  in  the  triple  world  which  he  has
 conquered  by  the  power  of  his  arm  and  the  power  of
 his  virtue.  His  triple  world  is  assailed  by  Mara,
 the  Evil  One.  Then  the  Aryas,  the  soldiers  of  the
 Tathagata,  fight  with  Mara.  Then,  Ma»^iurl,  the
 king  of  the  law,  the  lord  of  the  law,  expounds  to
-the  Aryas,  his  soldiers,  whom  he  sees  fighting,  hun-
-dred thousands  of  Sutras  in  order  to  encourage  the
+the  Aryas,  his  soldiers,  whom  he  sees  fighting,  hundred thousands  of  Sutras  in  order  to  encourage  the
 four  classes.  He  gives  them  the  city  of  Nirvana,
 the  great  city  of  the  law ;  he  allures  them  with  that
 city  of  Nirvana,  but  he  does  not  preach  to  them  such
@@ -14086,10 +13071,8 @@ Mangusri,  that  king,  ruler  of  armies,  astonished  at
 the  great  valour  of  his  soldiers  in  battle  gives  them
 all  his  property,  at  last  even  his  crown  jewel,  and
 just  as  that  crown  jewel  has  been  kept  by  the  king
-on  his  head  to  the  last,  so,  Mawfujrl,  the  Tatha-
-gata, the  Arhat,  &c.,  who  as  the  great  king  of  the
-law  in  the  triple  world  exercises  his  sway  with  jus-
-tice, when  he  sees  disciples  and  Bodhisattvas  fighting
+on  his  head  to  the  last,  so,  Mawfujrl,  the  Tathagata, the  Arhat,  &c.,  who  as  the  great  king  of  the
+law  in  the  triple  world  exercises  his  sway  with  justice, when  he  sees  disciples  and  Bodhisattvas  fighting
 against  the  Mara  of  fancies  or  the  Mara  of  sinful
 inclinations,  and  when  he  sees  that  by  fighting  they
 have  destroyed  affection,  hatred,  and  infatuation,
@@ -14120,12 +13103,10 @@ the  law  exceeding  all  others,  (the  mystery)  which
 must  be  known  by  the  Tathagatas.
 
 And  in  order  to  elucidate  this  matter  more  in
-detail,  the  Lord  on  that  occasion  uttered  the  follow-
-ing stanzas :
+detail,  the  Lord  on  that  occasion  uttered  the  following stanzas :
 
 45.  Always   displaying  the   strength    of  charity,
-always  filled  with  compassion  for  all  creatures,  ex-
-pounding this  law,  the  Sugatas  have  approved  this
+always  filled  with  compassion  for  all  creatures,  expounding this  law,  the  Sugatas  have  approved  this
 exalted  Sutra.
 
 46.  The  laymen,  as  well  as  the  mendicant  friars,
@@ -14133,8 +13114,7 @@ and  the  Bodhisattvas  who  shall  live  at  the  end  of
 time,  must  all  show  the  strength  of  charity,  lest  those
 who  hear  the  law  reject  it.
 
-47.  But  I,  when  I  shall  have  reached  enlighten-
-ment  and    be    established   in    Tathagataship,   will
+47.  But  I,  when  I  shall  have  reached  enlightenment  and    be    established   in    Tathagataship,   will
 initiate  (others),  and  after  having  initiated  disciples l
 preach  everywhere  this  superior  enlightenment.
 
@@ -14147,11 +13127,9 @@ gold,  elephants,  horses,  cars,  foot  soldiers ;  he  also
 
 XIII.  PEACEFUL   LIFE.  277
 
-gives  towns  and  villages,  in  token  of  his  content-
-ment.
+gives  towns  and  villages,  in  token  of  his  contentment.
 
-49.  In  his  satisfaction  he  gives  to  some  hand-
-ornaments,  silver   and  gold   thread;    pearls,  gems,
+49.  In  his  satisfaction  he  gives  to  some  handornaments,  silver   and  gold   thread;    pearls,  gems,
 conch-shells,  stones (?),  coral ;  he  also  gives  slaves  of
 various  description.
 
@@ -14197,8 +13175,7 @@ sickness  ;  the  colour  of  his  skin  is  not  blackish  ;  nor
 does  he  dwell  in  a  miserable  town.
 
 57.  The  great  Sage  has  always  a  pleasant  look,
-deserves  to  be  honoured,  as  if  he  were  the  Tatha-
-gata  himself,  and  little  angels  shall  constantly  be  his
+deserves  to  be  honoured,  as  if  he  were  the  Tathagata  himself,  and  little  angels  shall  constantly  be  his
 attendants.
 
 58.  His   body  can    never   be    hurt  by  weapons,
@@ -14215,18 +13192,15 @@ Sutra  after  my  extinction.
 Buddha ;    he  sees  monks  and   nuns   appearing  on
 thrones  and  proclaiming  the  many-sided  law.
 
-61.  He  sees  in  his  dream  gods  and  goblins,  (nu-
-merous) as   the   sands   of  the   Ganges,  as  well  as
+61.  He  sees  in  his  dream  gods  and  goblins,  (numerous) as   the   sands   of  the   Ganges,  as  well  as
 demons  and"  Nagas  of  many  kinds,  who  lift  their
-joined  hands  and  to  whom  he  expounds  the  emi-
-nent law.
+joined  hands  and  to  whom  he  expounds  the  eminent law.
 
 62.  He  sees  in  his  dream  the  Tathagata  preaching
 the  law  to  many  ko/is  of  beings  with  lovely  voice,
 the  Lord  with  golden  colour.
 
-63.  And  he  stands  there  with  joined  hands  glori-
-fying the  Seer,  the  highest  of  men,  whilst  the  6ina,
+63.  And  he  stands  there  with  joined  hands  glorifying the  Seer,  the  highest  of  men,  whilst  the  6ina,
 the  great  physician,  is  expounding  the  law  to  the
 four  classes.
 
@@ -14256,8 +13230,7 @@ by  meditating   he   attains  the  very  nature  of  the
 law   and,   on   obtaining   complete   absorption,   sees
 the  Gina.
 
-68.  And   after    seeing   in   his   dream   the   gold-
-coloured  one,  him  who  displays  a  hundred  hallowed
+68.  And   after    seeing   in   his   dream   the   goldcoloured  one,  him  who  displays  a  hundred  hallowed
 signs,  he  hears  the  law,  whereafter  he  preaches  it  in
 the  assembly.     Such  is  his  dream.
 
@@ -14321,8 +13294,7 @@ of  one  Bodhisattva ;  and  of  such  Bodhisattvas  there
 is  a  number  equal  to  the  sands  of  sixty  Ganges  rivers,
 each  of  these  Bodhisattvas  having  an  equal  number
 
-1  The    text    has    ash/au    Ganga'nadivalikasama    Bodhi-
-satvas.     Burnouf  renders  the  passage  by  'en  nombre  e*gal  a  celui
+1  The    text    has    ash/au    Ganga'nadivalikasama    Bodhisatvas.     Burnouf  renders  the  passage  by  'en  nombre  e*gal  a  celui
 des  sables  de  huit  Ganges/     Perhaps  we  must  understand  eight  to
 mean  eight  thousand,  just  as  e.  g.  Dipavawsa  VI,  98  the  word
 eighty-four  denotes  eighty-four  thousand.
@@ -14342,10 +13314,8 @@ within  the  clefts  arose  many  hundred  thousand
 myriads  of  ko/is  of  Bodhisattvas  with  gold-coloured
 bodies  and  the  thirty-two  characteristic  signs  of  a
 great  man,  who  had  been  staying  in  the  element  of
-ether  underneath  this  great  earth,  close  to  this  Saha-
-world.  These  then  on  hearing  the  word  of  the  Lord
-came  up  from  below  the  earth.  Each  of  these  Bodhi-
-sattvas had  a  train  of  thousands  of  Bodhisattvas
+ether  underneath  this  great  earth,  close  to  this  Sahaworld.  These  then  on  hearing  the  word  of  the  Lord
+came  up  from  below  the  earth.  Each  of  these  Bodhisattvas had  a  train  of  thousands  of  Bodhisattvas
 similar  to  the  sands  of  sixty  Ganges1  rivers;  (each  had)
 a  troop,  a  great  troop,  as  teacher  of  a  troop.  Of  such
 Bodhisattvas  Mahasattvas  having  a  troop,  a  great
@@ -14382,14 +13352,11 @@ XIV.  ISSUING    OF    BODHISATTVAS.  283
 Ganges.  Much  more  there  were  to  be  found  of
 Bodhisattvas  Mahasattvas  having  a  train  of  many
 hundred  thousand  myriads  of  ko/is  of  Bodhisattvas  ;
-of  one  ko^i ;  of  one  hundred  thousand ;  of  one  thou-
-sand; of  500;  of  400;  of  300;  of  200;  of  100;  of
+of  one  ko^i ;  of  one  hundred  thousand ;  of  one  thousand; of  500;  of  400;  of  300;  of  200;  of  100;  of
 50 ;  of  40 ;  of  30  ;  of  20  ;  of  10  ;  of  5,  4,  3,  2.  Much
-more  there  were  to  be  found  of  Bodhisattvas  Maha-
-sattvas having  one  follower.  Much  more  there  were
+more  there  were  to  be  found  of  Bodhisattvas  Mahasattvas having  one  follower.  Much  more  there  were
 to  be  found  of  Bodhisattvas  Mahasattvas  standing
-isolated.  They  cannot  be  numbered,  counted,  calcu-
-lated, compared,  known  by  occult  science,  the  Bodhi-
+isolated.  They  cannot  be  numbered,  counted,  calculated, compared,  known  by  occult  science,  the  Bodhi-
 sattvas Mahasattvas  who  emerged  from  the  gaps  of
 the  earth  to  appear  in  this  Saha-world.  And  after
 they  had  successively  emerged  they  went  up  to  the
@@ -14400,12 +13367,10 @@ throne.  Whereafter  they  saluted  the  feet  of  both
 Tathagatas,  &c.,  as  well  as  the  images  of  Tathagatas
 produced  by  the  Lord  .Sakyamuni  from  his  own
 body,  who  all  together  were  seated  on  thrones  at  the
-foot  of  various  jewel  trees  on  every  side  in  all  direc-
-tions, in  different  worlds.  After  these  Bodhisattvas
+foot  of  various  jewel  trees  on  every  side  in  all  directions, in  different  worlds.  After  these  Bodhisattvas
 had  many  hundred  thousand  times  saluted,  and
 thereon  circumambulated  the  Tathagatas,  &c.,  from
-left  to  right,  and  celebrated  them  with  various  Bodhi-
-sattva  hymns,  they  went  and  kept  themselves  at  a
+left  to  right,  and  celebrated  them  with  various  Bodhisattva  hymns,  they  went  and  kept  themselves  at  a
 little  distance,  the  joined  hands  stretched  out  to
 honour  the  Lord  .Sakyamuni,  the  Tathagata,  &c.,
 and  the  Lord  Prabhutaratna,  the  Tathagata,  &c.
@@ -14420,15 +13385,13 @@ and  celebrating  the  Tathagatas  by  various  Bodhi-
 sattva  hymns,  fifty  intermediate  kalpas  in  full  rolled
 away,  during  which  fifty  intermediate  kalpas  the
 Lord  •S'akyamuni  remained  silent,  and  likewise  the
-four  classes  of  the  audience.  Then  the  Lord  pro-
-duced such  an  effect  of  magical  power  that  the  four
+four  classes  of  the  audience.  Then  the  Lord  produced such  an  effect  of  magical  power  that  the  four
 classes  fancied  that  it  had  been  no  more  than  one
 afternoon1,  and  they  saw  this  Saha-world  assume
 the  appearance  of  hundred  thousands  of  worlds2
 replete  with  Bodhisattvas 3.  The  four  Bodhisattvas
 Maholsattvas  who  were  the  chiefest  of  that  great
-host  of  Bodhisattvas,  viz.  the  Bodhisattva  Maha-
-sattva  called  Vmsh/a^aritra  (i.  e.  of  eminent  con-
+host  of  Bodhisattvas,  viz.  the  Bodhisattva  Mahasattva  called  Vmsh/a^aritra  (i.  e.  of  eminent  con-
 duct), the  Bodhisattva  Mahasattva  called  Ananta-
 ^aritra  (i.  e.  of  endless  conduct),  the  Bodhisattva
 Mahasattva  called  Vi.mddha/£aritra  (i.  e.  of  correct
@@ -14445,15 +13408,12 @@ is,  in  reality,  equal  to  six  hours,  so  that  five  intermediate  kalpas
 will  embrace  a  time  of  i%  hour.  If  we  might  take  an  Asarikhyeya
 to  be  the  equivalent  of  a  day  of  twenty-four  hours,  the  reckoning
 would  be  correct,  for  then  five  intermediate  kalpas  would  be  equal
-to  six  hours;  we  can,  however,  produce  no  authority  for  Asan-
-khyeya kalpa  ever  being  used  in  the  (esoteric)  sense  of  a  day  and
+to  six  hours;  we  can,  however,  produce  no  authority  for  Asankhyeya kalpa  ever  being  used  in  the  (esoteric)  sense  of  a  day  and
 night.
 
 8  Lokadhatu-yatasahasrakaraparigrzhitam,  which  ought
-to  be  Qkarap°,  or  °kara»z  p°.  Instances  of  the  peculiar  construc-
-tion of  parigr/hita  after  the  analogy  of  prapta  are  found,
-Lalita-vistara,  pp.  109, 112, 181,  368.  A  marginal  would-be  cor-
-rection has  °kasaw  p°.
+to  be  Qkarap°,  or  °kara»z  p°.  Instances  of  the  peculiar  construction of  parigr/hita  after  the  analogy  of  prapta  are  found,
+Lalita-vistara,  pp.  109, 112, 181,  368.  A  marginal  would-be  correction has  °kasaw  p°.
 
 3  The  afternoon  being  at  an  end,  the  innumerable  spheres  of
 the  stars  become  visible.
@@ -14469,12 +13429,10 @@ ease  ?  Are  the  creatures  decorous,  docile,  obedient,
 correctly  performing  their  task *,  so  that  they  give  no
 trouble  to  the  Lord  ?
 
-And  those  four  Bodhisattvas  Mahasattvas  ad-
-dressed the  Lord  with  the  two  following  stanzas  :
+And  those  four  Bodhisattvas  Mahasattvas  addressed the  Lord  with  the  two  following  stanzas  :
 
 1.  Does  the  Lord  of  the  world,  the  illuminator,
-feel  at  ease  ?    Dost  thou  feel  free  from  bodily  dis-
-ease, O  Perfect  One  ?
+feel  at  ease  ?    Dost  thou  feel  free  from  bodily  disease, O  Perfect  One  ?
 
 2.  The  creatures,  we  hope,  will  be  decorous,  docile,
 performing  the  orders2  of  the  Lord  of  the  world,  so  as
@@ -14486,8 +13444,7 @@ host,  that  great  multitude  of  Bodhisattvas  :  So  it  is,
 young  men  of  good  family,  I  am  in  good  health,
 well-being,  and  at  ease.  And  these  creatures  of
 mine  are  decorous,  docile,  obedient,  well  performing
-what  is  ordered ;  they  give  no  trouble  when  I  cor-
-rect them3;  and  that,  young  men  of  good  family,
+what  is  ordered ;  they  give  no  trouble  when  I  correct them3;  and  that,  young  men  of  good  family,
 because  these  creatures,  owing  to  their  being  already
 prepared  under  the  ancient,  perfectly  enlightened
 Buddhas,  have  but  to  see  and  hear  me  to  put  trust
@@ -14507,8 +13464,7 @@ the  word  meaning  '  easy  to  be  understood.'
 
 286  SADDHARMA-PUtfZJARIKA.  XIV.
 
-in  me,  to  understand  and  fathom  the  Buddha-know-
-ledge. And  those  who  fulfilled  their  duties  in  the
+in  me,  to  understand  and  fathom  the  Buddha-knowledge. And  those  who  fulfilled  their  duties  in  the
 stage  of  disciples  have  now  been  introduced  by  me
 into  Buddha-knowledge  and  well  instructed  in  the
 highest  truth.
@@ -14520,14 +13476,12 @@ uttered  the  following  stanzas:
 happy  to  hear  that  those  creatures  are  decorous,
 docile,  well  performing  their  duty1 ;
 
-4.  And  that  they  listen  to  thy  profound  know-
-ledge, O  Leader,  and  that  after  listening  to  it  they
+4.  And  that  they  listen  to  thy  profound  knowledge, O  Leader,  and  that  after  listening  to  it  they
 have  put  trust  in  it  and  understand  it.
 
 This  said,  the  Lord  declared  his  approval  to  the
 four  Bodhisattvas  Mahasattvas  who  were  at  the  head
-of  that  great  host,  that  great  multitude  of  Bodhi-
-sattvas Mahasattvas,  saying :  Well  done,  young  men
+of  that  great  host,  that  great  multitude  of  Bodhisattvas Mahasattvas,  saying :  Well  done,  young  men
 of  good  family,  well  done,  that  you  so  congratulate
 the  Tathagata.
 
@@ -14535,26 +13489,22 @@ And  at  that  moment  the  following  thought  arose
 in  the  mind  of  the  Bodhisattva  Mahasattva  Maitreya
 and  the  eight  hundred  thousand  myriads  of  ko/is  of
 Bodhisattvas  similar  to  the  sands  of  the  river  Ganges2 :
-We  never  yet  saw  so  great  a  host,  so  great  a  multi-
-tude of  Bodhisattvas ;  we  never  yet  heard  of  such
+We  never  yet  saw  so  great  a  host,  so  great  a  multitude of  Bodhisattvas ;  we  never  yet  heard  of  such
 a  multitude,  that  after  issuing  from  the  gaps  of  the
 earth  has  stood  in  the  presence  of  the  Lord  to
 honour,  respect,  venerate,  worship  him  and  greet
-him  with  joyful  shouts3.  Whence  have  these  Bodhi-
-sattvas Mahasattvas  flocked  hither  ?
+him  with  joyful  shouts3.  Whence  have  these  Bodhisattvas Mahasattvas  flocked  hither  ?
 
 1  Sujodhaka;  cf.  above.
 
-2  Ash/anawz  Gahganadivalikopamanatfz  Bodhisatvako/inayutasa-
-tasahasra«S»z.   Burnouf  renders, '  a  celui  des  sables  de  huit  Ganges.'
+2  Ash/anawz  Gahganadivalikopamanatfz  Bodhisatvako/inayutasatasahasra«S»z.   Burnouf  renders, '  a  celui  des  sables  de  huit  Ganges.'
 
 3  Pratisammodante.
 
 
 XIV.  ISSUING   OF    BODHISATTVAS.  287
 
-Then  the  Bodhisattva  Mahasattva  Maitreya,  feel-
-ing within  himself  doubt  and  perplexity,  and  inferring
+Then  the  Bodhisattva  Mahasattva  Maitreya,  feeling within  himself  doubt  and  perplexity,  and  inferring
 from  his  own  thoughts  those  of  the  eight  hundred
 thousand  myriads  of  ko/is  of  Bodhisattvas  similar  to
 the  sands  of  the  river  Ganges,  stretched  out  his
@@ -14586,11 +13536,9 @@ troop  the  followers  are  equal  to  the  sands  of  sixty
 Ganges3.
 
 
-1  The  rendering  is  doubtful;  the  text  has   mahatmabhava-
-rupe«a,
+1  The  rendering  is  doubtful;  the  text  has   mahatmabhavarupe«a,
 
-2  Garigava'likasama  shash/i  paripur««a  yasasvina^,  parivaro  Bo-
-dhisatvasya.     It  is  in  the  teeth  of  grammar  to  render  the  passage
+2  Garigava'likasama  shash/i  paripur««a  yasasvina^,  parivaro  Bodhisatvasya.     It  is  in  the  teeth  of  grammar  to  render  the  passage
 in  this  way,  but  from  the  following  we  must  infer  that  no  other
 translation  will  suit  the  case.
 
@@ -14624,15 +13572,13 @@ tenth,  one  twentieth,   is  the  train  of  those  heroes,
 those  mighty  Bodhisattvas.
 
 1 7.  There  are  yet  others  who   are  incalculable ;
-it  would  be  impossible  to  count  them  even  in  hun-
-dreds of  ko/is  of  ^Eons.
+it  would  be  impossible  to  count  them  even  in  hundreds of  ko/is  of  ^Eons.
 
 1 8.  Many  more  yet  there  are,  with  endless  trains ;
 they  have  in  their  attendance  ko/is,  and  ko/is  and
 again  kotis,  and  also  half  ko/is.
 
-19.  Other  great   Seers  again,  beyond   computa-
-tion, very  wise  Bodhisattvas  are  seen  in  a  respectful
+19.  Other  great   Seers  again,  beyond   computation, very  wise  Bodhisattvas  are  seen  in  a  respectful
 posture.
 
 20.  They  have   a  thousand,  a  hundred,  or  fifty
@@ -14684,8 +13630,7 @@ of  space,  but  never  saw  these  Bodhisattvas.
 now,  on  a  sudden,  these  appear  to  us.     Tell  us  their
 history,  O  Seer.
 
-31.  Hundreds,  thousands,  ten  thousands  of  Bodhi-
-sattvas, all  equally  filled  with  curiosity,  look  up  to
+31.  Hundreds,  thousands,  ten  thousands  of  Bodhisattvas, all  equally  filled  with  curiosity,  look  up  to
 the  highest  of  men.
 
 32.  Explain  to  us,  O  incomparable,  great  hero,  who
@@ -14708,16 +13653,13 @@ preaching  the  law  to  the  beings  in  other  worlds ;  who
 all  around1  the  Lord  6akyamuni,  the  Tathagata,  &c.,
 were  seated  with  crossed  legs  on  magnificent  jewel
 thrones2  at  the  foot  of  jewel  trees  in  every  direction
-of  space ;  as  well  as  the  satellites  of  those  Tatha-
-gatas were  struck  with  wonder  and  amazement  at
+of  space ;  as  well  as  the  satellites  of  those  Tathagatas were  struck  with  wonder  and  amazement  at
 the  sight  of  that  great  host,  that  great  multitude  of
 Bodhisattvas  emerging  from  the  gaps  of  the  earth
 and  established  in  the  element  of  ether,  and  they
 (the  satellites)  asked  each  their  own  Tathagata :
-Where,  O  Lord,  do  so  many  Bodhisattvas  Maha-
-sattvas,  so  innumerable,  so  countless,  come  from  ?
-Whereupon  those  Tathagatas,  &c.,  answered  sever-
-ally to  their  satellites :  Wait  awhile,  young  men  of
+Where,  O  Lord,  do  so  many  Bodhisattvas  Mahasattvas,  so  innumerable,  so  countless,  come  from  ?
+Whereupon  those  Tathagatas,  &c.,  answered  severally to  their  satellites :  Wait  awhile,  young  men  of
 good  family;  this  Bodhisattva  Mahasattva  here,
 called  Maitreya,  has  just  received  from  the  Lord
 •Sakyamuni  a  revelation  about  his  destiny  to  supreme,
@@ -14733,8 +13675,7 @@ me.  Then  the  Lord  addressed  the  entire  host  of
 Bodhisattvas :  Be  attentive  all,  young  men  of  good
 
 
-case  of  niravadhi.     Burnouf  has,  'toi  qui  es  affranchi  de  Paccu-
-mulation  [des  elements  constitutifs  de  1'existence].'
+case  of  niravadhi.     Burnouf  has,  'toi  qui  es  affranchi  de  Paccumulation  [des  elements  constitutifs  de  1'existence].'
 
 1  Samantad ;  Burnoui's  'en  presence'  is  wanting  in  my  MS.
 
@@ -14744,8 +13685,7 @@ mulation  [des  elements  constitutifs  de  1'existence].'
 XIV.  ISSUING    OF   BODHISATTVAS.  29 1
 
 family ;  be  well  prepared  and  steady  on  your  post,
-you  and  the  entire  host  of  Bodhisattvas ;  the  Tatha-
-gata,  the  Arhat,  &c.,  is  now  going  to  exhibit  the
+you  and  the  entire  host  of  Bodhisattvas ;  the  Tathagata,  the  Arhat,  &c.,  is  now  going  to  exhibit  the
 sight  of  the  knowledge  of  the  Tathagata,  young  men
 of  good  family,  the  leadership  of  the  Tathagata,  the
 work  of  the  Tathagata,  the  sport1  of  the  Tathagata,
@@ -14756,17 +13696,14 @@ And  on  that  occasion  the  Lord  pronounced  the
 following  stanzas :
 
 33.  Be  attentive  all,  young  men  of  good  family;
-I  am  to  utter  an  infallible  word ;  refrain  from  dis-
-puting 2  about  it,  O  sages  :  the  science  of  the  Tatha-
+I  am  to  utter  an  infallible  word ;  refrain  from  disputing 2  about  it,  O  sages  :  the  science  of  the  Tatha-
 gata is  beyond  reasoning.
 
-34.  Be  all  steady  and  thoughtful ;  continue  atten-
-tive all.    To-day  you  will  hear  a  law  as  yet  unknown,
+34.  Be  all  steady  and  thoughtful ;  continue  attentive all.    To-day  you  will  hear  a  law  as  yet  unknown,
 the  wonder  of  the  Tathagatas.
 
 35.  Never  have  any  doubt,  ye  sages,  for  I  shall
-strengthen  you,  I  am  the  Leader  who  speaketh  in-
-fallible truth,  and  my  knowledge  is  unlimited.
+strengthen  you,  I  am  the  Leader  who  speaketh  infallible truth,  and  my  knowledge  is  unlimited.
 
 36.  Profound  are  the  laws  known  to  the  Sugata,
 above  reasoning  and  beyond  argumentation.    These
@@ -14791,15 +13728,11 @@ U    2
 
 292  SADDHARMA-PUA'DARiKA.  XIV.
 
-the  gaps  of  the  earth,  these  Bodhisattvas  Maha-
-sattvas,  A^ita,  have  I  roused,  excited,  animated,
+the  gaps  of  the  earth,  these  Bodhisattvas  Mahasattvas,  A^ita,  have  I  roused,  excited,  animated,
 fully  developed  to  supreme,  perfect  enlightenment
-after  my  having  arrived  at  supreme,  perfect  en-
-lightenment in  this  world.  I  have,  moreover,  fully
-matured,  established,  confirmed,  instructed,  per-
-fected these  young  men  of  good  family  in  their
-Bodhisattvaship.  And  these  Bodhisattvas  Maha-
-sattvas,  A^ita,  occupy  in  this  Saha-world  the  domain
+after  my  having  arrived  at  supreme,  perfect  enlightenment in  this  world.  I  have,  moreover,  fully
+matured,  established,  confirmed,  instructed,  perfected these  young  men  of  good  family  in  their
+Bodhisattvaship.  And  these  Bodhisattvas  Mahasattvas,  A^ita,  occupy  in  this  Saha-world  the  domain
 of  the  ether-element  below.  Only  thinking  of  the
 lesson  they  have  to  study,  and  devoted  to  thoroughly
 comprehend  it,  these  young  men  of  good  family
@@ -14811,11 +13744,9 @@ These  young  men  of  good  family  do  not  dwell  in
 the  immediate  vicinity  of  gods  and  men,  they  not
 being  fond  of  bustling  crowds.  These  young  men
 of  good  family  find  their  luxury  in  the  pleasure
-of  the  law,  and  apply  themselves  to  Buddha-
-knowledge.
+of  the  law,  and  apply  themselves  to  Buddhaknowledge.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 37.  These  Bodhisattvas,  immense,  inconceivable
 and  beyond  measure,  endowed  with  magic  power,
@@ -14828,8 +13759,7 @@ for  enlightenment,  and  it  is  in  my  field  that  they
 1  It  will  be  remarked  that  these  Bodhisattvas  are  represented  as
 pupils  or  young  monks  under  training,  .Sramaweras.
 
-2  Vivekarama/5;   viveka  at  the   same  time  means  'discri-
-mination.'
+2  Vivekarama/5;   viveka  at  the   same  time  means  'discrimination.'
 
 
 XIV.  ISSUING    OF    BODHISATTVAS.  293
@@ -14843,8 +13773,7 @@ they  walk  detached,  these  sons  of  mine,  following
 my  precepts  in  their  lofty  course.
 
 40.  They  dwell  in  the   domain  of  ether,   in  the
-lower  portion  of  the  field,   those  heroes  who,  un-
-wearied, are  striving  day  and  night  to  attain  superior
+lower  portion  of  the  field,   those  heroes  who,  unwearied, are  striving  day  and  night  to  attain  superior
 knowledge.
 
 41.  All  strenuous,  of  good  memory,  unshaken  in
@@ -14854,8 +13783,7 @@ my  sons.
 
 42.  Since  the  time  when  I  reached  this  superior
 (or  foremost)  enlightenment,  at  the  town  of  Gaya,
-at  the  foot  of  the  tree,  and  put  in  motion  the  all-
-surpassing  wheel   of  the  law,   I    have    brought  to
+at  the  foot  of  the  tree,  and  put  in  motion  the  allsurpassing  wheel   of  the  law,   I    have    brought  to
 maturity  all  of  them  for  superior  enlightenment.
 
 43.  These  words  I  here  speak  are  faultless,  really
@@ -14877,9 +13805,6 @@ supreme,  perfect  enlightenment  ?  Then  the  Bodhi-
 as  Pali  Srawwakahga,  is  one  of  the  thirteen  Dhutahgas.
 
 
-294
-
-
 SADDHARMA-PlWDARfKA.  XIV.
 
 
@@ -14889,14 +13814,11 @@ a  prince  royal,  Kapilavastu,  the  town  of  the  .Sakyas,
 arrived  at  supreme,  perfect  enlightenment  on  the
 summit  of  the  terrace  of  enlightenment,  not  far  from
 the  town  of  Gaya,  somewhat  more  than  forty  years
-since,  O  Lord  ?  How  then  has  the  Lord,  the  Tatha-
-gata, within  so  short  a  lapse  of  time,  been  able  to
-perform  the  endless  task  of  a  Tathagata,  to  exer-
-cise the  leadership  of  a  Tathagata,  the  energy  of  a
+since,  O  Lord  ?  How  then  has  the  Lord,  the  Tathagata, within  so  short  a  lapse  of  time,  been  able  to
+perform  the  endless  task  of  a  Tathagata,  to  exercise the  leadership  of  a  Tathagata,  the  energy  of  a
 Tathigata  ?  How  has  the  Tathagata,  within  so  short
 a  time,  been  able  to  rouse  and  bring  to  maturity  for
-supreme,  perfect  enlightenment  this  host  of  Bodhi-
-sattvas, this  multitude  of  Bodhisattvas,  a  multitude
+supreme,  perfect  enlightenment  this  host  of  Bodhisattvas, this  multitude  of  Bodhisattvas,  a  multitude
 so  great  that  it  would  be  impossible  to  count  the
 whole  of  it,  even  if  one  were  to  continue  counting
 for  hundred  thousands  of  myriads  of  ko/is  of  ^Eons?
@@ -14909,10 +13831,8 @@ ripe.
 
 It  is  just  as  if  some  man,  young  and  youthful,  a
 young  man  with  black  hair  and  in  the  prime  of  youth,
-twenty-five  years  of  age,  would  represent  cente-
-narians as  his  sons,  and  say:  '  Here,  young  men  of
-good  family,  you  see  my  sons;'  and  if  those  cen-
-tenarians would  declare :  '  This  is  the  father  who
+twenty-five  years  of  age,  would  represent  centenarians as  his  sons,  and  say:  '  Here,  young  men  of
+good  family,  you  see  my  sons;'  and  if  those  centenarians would  declare :  '  This  is  the  father  who
 begot  us.'  Now,  Lord,  the  speech  of  that  man
 would  be  incredible,  hard  to  be  believed  by  the
 public.  It  is  the  same  case  with  the  Tathagata,
@@ -14922,8 +13842,7 @@ enlightenment,  and  with  these  Bodhisattvas  Maha-
 
 XIV.  ISSUING    OF    BODHISATTVAS.  295
 
-sattvas,  so  immense  in  number,  who  for  many  hun-
-dred thousand  myriads  of  ko/is  of  yEons,  having
+sattvas,  so  immense  in  number,  who  for  many  hundred thousand  myriads  of  ko/is  of  yEons,  having
 observed  a  spiritual  course  of  life,  have  long  since
 come  to  certainty  in  regard  to  Tathagata-knowledge  ;
 who  are  able  to  plunge  in  and  again  rise  from  the
@@ -14947,13 +13866,10 @@ entered  the  vehicle  are  apt  to  fall  into  doubt  on
 this  head ;  after  the  extinction  of  the  Tathagata
 those  who  hear  this  Dharmaparyaya  will  not  accept,
 not  believe,  not  trust  it.  Hence,  O  Lord,  they  will
-design  acts  tending  to  the  ruin  of  the  law.  There-
-fore, O  Lord,  deign  to  explain  us  this  matter,  that
-we  may  be  free  from  perplexity,  and  that  the  Bodhi-
-sattvas who  in  future  shall  hear  it,  be  they  young
+design  acts  tending  to  the  ruin  of  the  law.  Therefore, O  Lord,  deign  to  explain  us  this  matter,  that
+we  may  be  free  from  perplexity,  and  that  the  Bodhisattvas who  in  future  shall  hear  it,  be  they  young
 
-1  Samadhirnukha.ratasahasrasamapadyanavyutthanaku-
-jalah.    I  suppose  that  for  mukha,  point,  principal  point,  side,  face,
+1  Samadhirnukha.ratasahasrasamapadyanavyutthanakujalah.    I  suppose  that  for  mukha,  point,  principal  point,  side,  face,
 we  have  to  read  sukha,  ecstasy.
 
 2  Mahabhi^waparikarmaniryata  mahabhi^fiakrz'taparil-armawaA
@@ -15027,11 +13943,9 @@ memory  and  excelling  in  wisdom,  who  have  been
 well  instructed  during  thousands  of  ko/is  of  ^Eons  ;
 
 51.  Who  are  firm,  of  keen  intelligence,  lovely  and
-agreeable  to  sight,  free  from  hesitation  in  the  deci-
-sions on  law,  praised  by  the  Leaders  of  the  world ;
+agreeable  to  sight,  free  from  hesitation  in  the  decisions on  law,  praised  by  the  Leaders  of  the  world ;
 
-52.  Who  in  freedom  live  in  the  wood1;  who  un-
-attached in  the  element  of  ether  constantly  display
+52.  Who  in  freedom  live  in  the  wood1;  who  unattached in  the  element  of  ether  constantly  display
 their  energy,  who  are  the  sons  of  Sugata  striving
 after  this  Buddha-ground ;
 
@@ -15062,8 +13976,7 @@ believe  in  the  Tathagata  speaking  a  veracious  word.
 A  second  time  the  Lord  addressed  the  Bodhisattvas :
 Trust  me,  young  gentlemen  of  good  family,  believe
 in  the  Tathagata  speaking  a  veracious  word.  A
-third  and  last  time  the  Lord  addressed  the  Bodhi-
-sattvas :  Trust  me,  young  men  of  good  family,  be-
+third  and  last  time  the  Lord  addressed  the  Bodhisattvas :  Trust  me,  young  men  of  good  family,  be-
 lieve in  the  Tathagata  speaking  a  veracious  word.
 Then  the  entire  host  of  Bodhisattvas  with  Maitreya,
 the  Bodhisattva  Mahasattva  at  their  head,  stretched
@@ -15073,27 +13986,22 @@ believe  in  the  word  of  the  Tathagata.  A  second
 time  the  entire  host,  &c.  &c.  A  third  time  the
 entire  host,  &c.  &c.
 
-The  Lord,  considering  that  the  Bodhisattvas  re-
-peated their  prayer  up  to  three  times,  addressed
+The  Lord,  considering  that  the  Bodhisattvas  repeated their  prayer  up  to  three  times,  addressed
 them  thus  :  Listen  then,  young  men  of  good  family.
 The  force  of  a  strong  resolve  which  I  assumed1  is
 such,  young  men  of  good  family,  that  this  world,
 including  gods,  men,  and  demons,  acknowledges :
 Now  has  the  Lord  .Sakyamuni,  after  going  out  from
-the  home  of  the  6akyas,  arrived  at  supreme,  per-
-fect enlightenment,  on  the  summit  of  the  terrace  of
+the  home  of  the  6akyas,  arrived  at  supreme,  perfect enlightenment,  on  the  summit  of  the  terrace  of
 
-1  Or,  the  power  of  supremacy  which  forms  my  attribute,  mama-
-dhishManabaladhanam.
+1  Or,  the  power  of  supremacy  which  forms  my  attribute,  mamadhishManabaladhanam.
 
 
 XV.         DURATION    OF    LIFE    OF    THE    TATHAGATA.         299
 
 enlightenment  at  the  town  of  Gaya.  But,  young  men
-of  good  family,  the  truth  is  that  many  hundred  thou-
-sand myriads  of  ko/is  of  ^Eons  ago  I  have  arrived
-at  supreme,  perfect  enlightenment.  By  way  of  ex-
-ample, young  men  of  good  family,  let  there  be  the
+of  good  family,  the  truth  is  that  many  hundred  thousand myriads  of  ko/is  of  ^Eons  ago  I  have  arrived
+at  supreme,  perfect  enlightenment.  By  way  of  example, young  men  of  good  family,  let  there  be  the
 atoms  of  earth  of  fifty  hundred  thousand  myriads  of
 ko^is  of  worlds ;  let  there  exist  some  man  who  takes
 one  of  those  atoms  of  dust  and  then  goes  in  an
@@ -15101,22 +14009,19 @@ eastern  direction  fifty  hundred  thousand  myriads  of
 ko/is  of  worlds  further  on,  there  to  deposit  that  atom
 of  dust ;  let  in  this  manner  the  man  carry  away  from
 all  those  worlds  the  whole  mass  of  earth,  and  in  the
-same  manner,  and  by  the  same  act  as  supposed,  de-
-posit all  those  atoms  in  an  eastern  direction1.  Now,
+same  manner,  and  by  the  same  act  as  supposed,  deposit all  those  atoms  in  an  eastern  direction1.  Now,
 would  you  think,  young  men  of  good  family,  that
 any  one  should  be  able  to  imagine,  weigh,  count,  or
 determine  (the  number  of)  those  worlds  ?  The  Lord
 having  thus  spoken,  the  Bodhisattva  Mahasattva
-Maitreya  and  the  entire  host  of  Bodhisattvas  re-
-plied :  They  are  incalculable,  O  Lord,  those  worlds,
+Maitreya  and  the  entire  host  of  Bodhisattvas  replied :  They  are  incalculable,  O  Lord,  those  worlds,
 countless,  beyond  the  range  of  thought.  Not  even
 all  the  disciples  and  Pratyekabuddhas,  O  Lord,  with
 their  Arya-knowledge,  will  be  able  to  imagine,  weigh,
 count,  or  determine  them.  For  us  also,  O  Lord,
 who  are  Bodhisattvas  standing  on  the  place  from
 whence  there  is  no  turning  back,  this  point  lies
-beyond  the  sphere  of  our  comprehension ;  so  innu-
-merablej  O  Lord,  are  those  worlds.
+beyond  the  sphere  of  our  comprehension ;  so  innumerablej  O  Lord,  are  those  worlds.
 
 This  said,  the  Lord  spoke  to  those  Bodhisattvas
 Mahasattvas  as  follows :  I  announce  to  you,  young  men
@@ -15133,16 +14038,12 @@ of  dust  and  where  he  does  not,  there  are  not,  young
 men  of  good  family,  in  all  those  hundred  thousands
 of  myriads  of  ko/is  of  worlds  so  many  dust  atoms  as
 there  are  hundred  thousands  of  myriads  of  ko/is  of
-ALons  since  I  have  arrived  at  supreme,  perfect  en-
-lightenment1. From  the  moment,  young  men  of  good
-family,  when  I  began  preaching  the  law  to  crea-
-tures in  this  Saha-world  and  in  hundred  thousands
+ALons  since  I  have  arrived  at  supreme,  perfect  enlightenment1. From  the  moment,  young  men  of  good
+family,  when  I  began  preaching  the  law  to  creatures in  this  Saha-world  and  in  hundred  thousands
 of  myriads  of  ko/is  of  other  worlds,  and  (when)  the
-other  Tathagatas,  Arhats,  &c.,  such  as  the  Tatha-
-gata  Dipankara  and  the  rest  whom  I  have  mentioned
+other  Tathagatas,  Arhats,  &c.,  such  as  the  Tathagata  Dipankara  and  the  rest  whom  I  have  mentioned
 in  the  lapse  of  time  (preached),  (from  that  moment)
-have  I,  young  men  of  good  family,  for  the  com-
-plete Nirvana  of  those  Tathagatas,  &c.,  created  all
+have  I,  young  men  of  good  family,  for  the  complete Nirvana  of  those  Tathagatas,  &c.,  created  all
 that  with  the  express  view  to  skilfully  preach
 the  law2.  Again,  young  men  of  good  family,  the
 Tathagata,  considering  the  different  degrees  of
@@ -15157,15 +14058,12 @@ been  the  All-wise  from  eternity.     In  other  words,  the  meaning  of
 his  being  a  common  man  who  had  reached  enlightenment  under
 the  Bodhi-tree  near  Gaya,  is  declared  by  himself  to  be  a  delusion.
 Further,  it  will  be  remarked  that  Sakyamuni  and  the  Tathagata
-Mahabhi^rca^wanabhibhu  in  chapter  VII  are  identical,  though  appa-
-rently diversified.
+Mahabhi^rca^wanabhibhu  in  chapter  VII  are  identical,  though  apparently diversified.
 
 2  Teshawz   £a   Tathagatanam    Arhata^z   samyaksambuddhanaw
-parinirva«aya   mayaiva   tani,    kulaputra,   upayakauralyadharmade-
-janaya  (abhi)  nirharanirmitani.     Burnouf  translates  as  if  he  read
+parinirva«aya   mayaiva   tani,    kulaputra,   upayakauralyadharmadejanaya  (abhi)  nirharanirmitani.     Burnouf  translates  as  if  he  read
 te — °nirmita^,  so  that 'those  Tathagatas — have  been  created.'
-Both  readings  come  essentially  to  the  same ;  in  either  case  .Sakya-
-muni is  the  creator,  the  really  existing  being ;  the  other  Tathagatas
+Both  readings  come  essentially  to  the  same ;  in  either  case  .Sakyamuni is  the  creator,  the  really  existing  being ;  the  other  Tathagatas
 are  emanations  from  him  or  apparent  beings.
 
 
@@ -15174,25 +14072,21 @@ XV.         DURATION    OF    LIFE    OF    THE    TATHAGATA.        3OI
 reveals  at  each  (generation)  his  own  name,  reveals
 a  state  in  which  Nirvana  has  not  yet  been  reached1,
 and  in  different  ways  he  satisfies  the  wants  of
-(different)  creatures  through  various  Dharmapar-
-yayas2.  This  being  the  case,  young  men  of  good
+(different)  creatures  through  various  Dharmaparyayas2.  This  being  the  case,  young  men  of  good
 family,  the  Tathagata  declares  to  the  creatures,
 whose  dispositions  are  so  various  and  who  possess
 so  few  roots  of  goodness,  so  many  evil  propensities  :
 I  am  young  of  age,  monks ;  having  left  my  father's
-home,  monks,  I  have  lately  arrived  at  supreme,  per-
-fect enlightenment3.  When,  however,  the  Tathclgata,
+home,  monks,  I  have  lately  arrived  at  supreme,  perfect enlightenment3.  When,  however,  the  Tathclgata,
 who  so  long  ago  arrived  at  perfect  enlightenment,
 declares  himself  to  have  but  lately  arrived  at  perfect
 enlightenment,  he  does  so  in  order  to  lead  creatures
 to  full  ripeness  and  make  them  go  in.  Therefore
 have  these  Dharmaparyayas  been  revealed ;  and  it
 is  for  the  education  of  creatures,  young  men  of  good
-family,  that  the  Tathagata  has  revealed  all  Dhar-
-maparyayas. And,  young  men  of  good  family,  the
+family,  that  the  Tathagata  has  revealed  all  Dharmaparyayas. And,  young  men  of  good  family,  the
 word  that  the  Tathagata  delivers  on  behalf  of  the
-education  of  creatures,  either  under  his  own  appear-
-ance or  under  another's,  either  on  his  own  authority4
+education  of  creatures,  either  under  his  own  appearance or  under  another's,  either  on  his  own  authority4
 or  under  the  mask5  of  another,  all  that  the  Tatha-
 
 1  Instead  of  the  last  clause  we  find  in  the  margin, '  reveals  (or
@@ -15231,17 +14125,14 @@ are  concealed.  In  that  respect  any  word  that  the
 Tathagata  speaks  is  true,  not  false.  But  in  order
 to  produce  the  roots  of  goodness  in  the  creatures,
 who  follow  different  pursuits  and  behave  according
-to  different  notions,  he  reveals  various  Dharma-
-parydyas  with  various  fundamental  principles.  The
+to  different  notions,  he  reveals  various  Dharmaparydyas  with  various  fundamental  principles.  The
 Tathagata  then,  young  men  of  good  family,  does
 what  he  has  to  do.  The  Tathagata  who  so  long
 ago  was  perfectly  enlightened  is  unlimited  in  the
 duration  of  his  life,  he  is  everlasting.  Without
-being  extinct,  the  Tathagata  makes  a  show  of  ex-
-tinction, on  behalf  of  those  who  have  to  be  educated.
+being  extinct,  the  Tathagata  makes  a  show  of  extinction, on  behalf  of  those  who  have  to  be  educated.
 And  even  now,  young  gentlemen  of  good  family,
-I  have  not  accomplished  my  ancient  Bodhisattva-
-course,  and  the  measure  of  my  lifetime  is  not  full.
+I  have  not  accomplished  my  ancient  Bodhisattvacourse,  and  the  measure  of  my  lifetime  is  not  full.
 Nay,  young  men  of  good  family,  I  shall  yet  have
 twice  as  many  hundred  thousand  myriads  of  kofis
 of  ^Eons  before  the  measure  of  my  lifetime  be  full2.
@@ -15249,15 +14140,13 @@ of  ^Eons  before  the  measure  of  my  lifetime  be  full2.
 
 1  Or,  it  is  not  as  it  ought  to  be,  nor  wrong.
 
-2  Virtually  he  has  existed  from  the  very  beginning,  from  an  infi-
-nite period ;  infinity  multiplied  by  two  remains  infinity.
+2  Virtually  he  has  existed  from  the  very  beginning,  from  an  infinite period ;  infinity  multiplied  by  two  remains  infinity.
 
 
 XV.         DURATION    OF   LIFE   OF    THE    TATHAGATA.        303
 
 I  announce  final  extinction,  young  men  of  good
-family,  though  myself  I  do  not  become  finally  ex-
-tinct1. For  in  this  way,  young  men  of  good  family,
+family,  though  myself  I  do  not  become  finally  extinct1. For  in  this  way,  young  men  of  good  family,
 I  bring  (all)  creatures  to  maturity,  lest  creatures
 in  whom  goodness  is  not  firmly  rooted,  who  are
 unholy,  miserable,  eager  of  sensual  pleasures,  blind
@@ -15306,13 +14195,11 @@ will  feel  surprised  and  sorry,  and  whilst  not  seeing
 the  Tathagata  they  will  get  a  longing  to  see  him.
 The  good  roots  developing  from  their  earnest
 thought  relating  to  the  Tathagata1  will  lastingly
-tend  to  their  weal,  benefit,  and  happiness;  in  con-
-sideration of  which  the  Tathagata  announces  final
+tend  to  their  weal,  benefit,  and  happiness;  in  consideration of  which  the  Tathagata  announces  final
 extinction,  though  he  himself  does  not  become  finally
 extinct,  on  behalf  of  the  creatures  who  have  to  be
 educated.  Such,  young  men  of  good  family,  is  the
-Tathagata's  manner  of  teaching2;  when  the  Tatha-
-gata speaks  in  this  way,  there  is  from  his  part  no
+Tathagata's  manner  of  teaching2;  when  the  Tathagata speaks  in  this  way,  there  is  from  his  part  no
 falsehood.
 
 I/  Let  us  suppose  an  analogous  case,  young  men  of
@@ -15355,8 +14242,7 @@ Take  this  great  remedy,  my  sons,  which  has  the
 required  colour,  smell,  and  taste.  For  by  taking
 this  great  remedy,  my  sons,  you  shall  soon  be  rid
 of  this  poison  or  venom ;  you  shall  recover  and  be
-healthy.  Those  amongst  the  children  of  the  physi-
-cian that  have  right  notions,  after  seeing  the  colour
+healthy.  Those  amongst  the  children  of  the  physician that  have  right  notions,  after  seeing  the  colour
 of  the  remedy,  after  smelling  the  smell  and  tasting
 the  flavour,  quickly  take  it,  and  in  consequence  of  it
 are  soon  totally  delivered  from  their  disease.  But  the
@@ -15406,15 +14292,13 @@ on  account  of  his  using  that  device  ?  No,  certainly
 not,  Lord ;  certainly  not,  Sugata.  He  proceeded  :
 In  the  same  manner,  young  men  of  good  family,  I
 have  arrived  at  supreme,  perfect  enlightenment  since
-an  immense,  incalculable  number  of  hundred  thou-
-sands of  myriads  of  ko^is  of  JEons,  but  from  time  to
+an  immense,  incalculable  number  of  hundred  thousands of  myriads  of  ko^is  of  JEons,  but  from  time  to
 time  I  display  such  able  devices  to  the  creatures,
 with  the  view  of  educating  them,  without  there
 
 being  in  that  respect  any  falsehood  on  my  part. __
 
-In  order  to  set  forth  this  subject  more  exten-
-sively the  Lord  on  that  occasion  uttered  the  fol-
+In  order  to  set  forth  this  subject  more  extensively the  Lord  on  that  occasion  uttered  the  fol-
 lowing stanzas :
 
 ^odayet;  a  would-be  correction  by  a  later  hand  has  sawvadet.
@@ -15448,8 +14332,7 @@ a  certain  aspiration  by  which  their  mind  becomes
 right4.
 
 6.  When    such    upright    (or    pious),    mild,    and
-gentle  creatures  leave  off  their  bodies,  then   I   as-
-semble   the   crowd   of  disciples   and   show   myself
+gentle  creatures  leave  off  their  bodies,  then   I   assemble   the   crowd   of  disciples   and   show   myself
 here5  on  the  Grzdhraku/a.
 
 7.  And  then  I  speak  thus  to  them,  in  this  very
@@ -15493,16 +14376,13 @@ an  inconceivable  number  of  thousands  of  ko/is  of
 other  abodes1.
 
 11.  And  when  creatures  behold  this  world  and
-imagine  that  it  is  burning,  even  then  my  Buddha-
-field  is  teeming  with  gods  and  men.
+imagine  that  it  is  burning,  even  then  my  Buddhafield  is  teeming  with  gods  and  men.
 
 1 2.  They  dispose  of  manifold  amusements,  ko/is  of
 pleasure  gardens,  palaces,  and  aerial  cars  ;  (this  field)
-is  embellished  by  hills  of  gems  and  by  trees  abound-
-ing with  blossoms  and  fruits.
+is  embellished  by  hills  of  gems  and  by  trees  abounding with  blossoms  and  fruits.
 
-13.  And  aloft  gods  are  striking  musical  instru-
-ments and  pouring  a  rain  of  Mandaras2  by  which
+13.  And  aloft  gods  are  striking  musical  instruments and  pouring  a  rain  of  Mandaras2  by  which
 they  are  covering  me,  the  disciples  and  other  sages
 who  are  striving  after  enlightenment.
 
@@ -15528,8 +14408,7 @@ or  my  congregation1.      That  is  the  fry  it  of  sinful
 deeds.
 
 1 6.  But  when  mild  and  gentle  beings  are  born  in
-this  world  of  men,  they  immediately  see  me  reveal-
-ing the  law,  owing  to  their  good  works.
+this  world  of  men,  they  immediately  see  me  revealing the  law,  owing  to  their  good  works.
 
 1 7.  I  never  speak  to  them  of  the  infinitude  of  my
 action.     Therefore,   I   am,  properly,   existing   since
@@ -15546,8 +14425,7 @@ leave  off  all  uncertainty :  the  word  I  here  pronounce
 is  really  true  ;  my  word  is  never  false.
 
 20.  For  even  as  that  physician  skilled  in  devices,
-for  the  sake  of  his  sons  whose  notions  were  per-
-verted, said  that  he  had  died  although  he  was  still
+for  the  sake  of  his  sons  whose  notions  were  perverted, said  that  he  had  died  although  he  was  still
 alive,  and  even  as  no  sensible  man  would  charge
 that  physician  with  falsehood ;
 
@@ -15572,8 +14450,7 @@ time.'
 3IO  SADDHARMA-PUtfDARfKA.  XV.
 
 born1,  the  Healer2,  the  Protector  of  all  creatures.
-Knowing  them  to  be  perverted,  infatuated,  and  igno-
-rant I  teach  final  rest,  myself  not  being  at  rest.
+Knowing  them  to  be  perverted,  infatuated,  and  ignorant I  teach  final  rest,  myself  not  being  at  rest.
 
 22.  What   reason  should   I   have  to   continually
 manifest  myself?   When  men  become  unbelieving,
@@ -15612,8 +14489,7 @@ While  this  exposition  of  the  duration  of  the
 Tathagata's  lifetime  was  being  given,  innumerable,
 countless  creatures  profited  by  it.  Then  the  Lord
 addressed  the  Bodhisattva  Mahasattva  Maitreya :
-While  this  exposition  of  the  duration  of  the  Tatha-
-gata's lifetime  was  being  given,  A^ita,  sixty-eight
+While  this  exposition  of  the  duration  of  the  Tathagata's lifetime  was  being  given,  A^ita,  sixty-eight
 hundred  thousand  myriads  of  ko/is  of  Bodhisattvas,
 comparable  to  the  sands  of  the  Ganges1,  have  acquired
 the  faculty  to  acquiesce  in  the  law  that  has  no  origin.
@@ -15634,8 +14510,7 @@ other  passages.
 
 2  Dharani  usually  denotes  a  magic  spell,  a  talisman.     Here
 and  there  it  interchanges  with  dha"ra«a,  support,  the  bearing  in
-mind,  attention.     The  synonymous  raksha"  embraces  the  mean-
-ings of  talisman  and  protection,  support.     It  is  not  easy  to  decide
+mind,  attention.     The  synonymous  raksha"  embraces  the  meanings of  talisman  and  protection,  support.     It  is  not  easy  to  decide
 what  is  intended  in  the  text.
 
 
@@ -15645,28 +14520,22 @@ Again,  other  Bodhisattvas  Mahisattvas,  equal  to
 the  dust  atoms  of  a  whole  macrocosm,  have  by
 hearing  this  Dharmaparyaya  moved  forward  the
 wheel  that  never  rolls  back.  Some  Bodhisattvas
-Mahasattvas,  equal  to  the  dust  atoms  of  a  mean  uni-
-verse, have  by  hearing  this  Dharmaparyaya  moved
-forward  the  wheel  of  spotless  radiance.  Other  Bo-
-dhisattvas Mahclsattvas,  equal  to  the  dust  atoms  of  a
-small  universe,  have  by  hearing  this  Dharmapar-
-yaya come  so  far  that  they  will  reach  supreme,
+Mahasattvas,  equal  to  the  dust  atoms  of  a  mean  universe, have  by  hearing  this  Dharmaparyaya  moved
+forward  the  wheel  of  spotless  radiance.  Other  Bodhisattvas Mahclsattvas,  equal  to  the  dust  atoms  of  a
+small  universe,  have  by  hearing  this  Dharmaparyaya come  so  far  that  they  will  reach  supreme,
 perfect  enlightenment  after  eight  births.  Other
 Bodhisattvas  Mahasattvas,  equal  to  the  dust  atoms
 of  four  worlds  of  four  continents1,  have  by  hearing
 this  Dharmaparyaya  become  such  as  to  require  four
-births  (more)  before  reaching  supreme,  perfect  enlight-
-enment. Other  Bodhisattvas  Mahasattvas,  equal  to
+births  (more)  before  reaching  supreme,  perfect  enlightenment. Other  Bodhisattvas  Mahasattvas,  equal  to
 the  dust  atoms  of  three  four-continental  worlds,  have
 by  hearing  this  Dharmaparyaya  become  such  as  to
 require  three  births  (more)  before  reaching  supreme,
-perfect  enlightenment.  Other  Bodhisattvas  Mahasat-
-tvas, equal  to  the  dust  atoms  of  two  four-continental
+perfect  enlightenment.  Other  Bodhisattvas  Mahasattvas, equal  to  the  dust  atoms  of  two  four-continental
 worlds,  have  by  hearing  this  Dharmaparyaya  become
 such  as  to  require  two  births  (more)  before  reaching
 supreme,  perfect  enlightenment.  Other  Bodhisattvas
-Mahasattvas,  equal  to  the  dust  atoms  of  one  four-
-continental  world,  have  by  hearing  this  Dharma-
+Mahasattvas,  equal  to  the  dust  atoms  of  one  fourcontinental  world,  have  by  hearing  this  Dharma-
 paryaya become  such  as  to  require  but  one  birth
 before  reaching  supreme,  perfect  enlightenment.
 Other  Bodhisattvas  Mahasattvas,  equal  to  -the  dust
@@ -15687,20 +14556,17 @@ than  there  fell  from  the  upper  sky  a  great  rain
 of  Mandarava  and  great  Mandarava  flowers  that
 covered  and  overwhelmed  all  the  hundred  thousand
 myriads  of  ko/is  of  Buddhas  who  were  seated  on
-their  thrones  at  the  foot  of  the  jewel  trees  in  hun-
-dred thousands  of  myriads  of  ko/is  of  worlds.  It
+their  thrones  at  the  foot  of  the  jewel  trees  in  hundred thousands  of  myriads  of  ko/is  of  worlds.  It
 also  covered  and  overwhelmed  the  Lord  ,5akyamuni,
 the  Tathagata,  &c.,  and  the  Lord  Prabhutaratna,
 the  Tathagata,  &c.,  the  latter  sitting  fully  extinct
-on  his  throne,  as  well  as  that  entire  host  of  Bodhi-
-sattvas  and  the  four  classes  of  the  audience.  A
+on  his  throne,  as  well  as  that  entire  host  of  Bodhisattvas  and  the  four  classes  of  the  audience.  A
 rain  of  celestial  powder  of  sandal  and  agallochum
 trickled  down  from  the  sky,  whilst  higher  up  in  the
 firmament  the  great  drums  resounded,  without  being
 struck,  with  a  pleasant,  sweet,  and  deep  sound.  Double
 pieces  of  fine  heavenly  cloth  fell  down  by  hundreds
-and  thousands  from  the  upper  sky ;  necklaces,  half-
-necklaces,  pearl  necklaces,  gems,  jewels,  noble  gems,
+and  thousands  from  the  upper  sky ;  necklaces,  halfnecklaces,  pearl  necklaces,  gems,  jewels,  noble  gems,
 and  noble  jewels  were  seen  high  in  the  firmament,
 hanging  down  from  every  side  in  all  directions  of
 space,  while  all  around  thousands  of  jewel  censers,
@@ -15708,8 +14574,7 @@ containing  priceless,  exquisite  incense,  were  moving
 of  their  own  accord.  Bodhisattvas  Mahasattvas
 were  seen  holding  above  each  Tathagata,  high  aloft,
 a  row  of  jewel  umbrellas  stretching  as  high  as  the
-Brahma-world.  So  acted  the  Bodhisattvas  Maha-
-sattvas in  respect  to  all  the  innumerable  hundred
+Brahma-world.  So  acted  the  Bodhisattvas  Mahasattvas in  respect  to  all  the  innumerable  hundred
 
 
 whole  circle,  it  may  be  inferred  that  the  description  in  the  text
@@ -15720,8 +14585,7 @@ not  the  immortal  one.
 
 314  SADDHARMA-PUArDARiKA.  XVI.
 
-thousands  of  myriads  of  ko/is  of  Buddhas1.  Seve-
-rally they  celebrated  these  Buddhas  in  appropriate
+thousands  of  myriads  of  ko/is  of  Buddhas1.  Severally they  celebrated  these  Buddhas  in  appropriate
 stanzas,  sacred  hymns  in  praise  of  the  Buddhas.
 
 And  on  that  occasion  the  Bodhisattva  Mahasattva
@@ -15737,8 +14601,7 @@ Sugata   from  face   to   face,   thousands   of  ko/is   of
 creatures,  the  genuine  sons  of  the  Leader  of  the
 world,  have  been  pervaded  with  gladness.
 
-3.  Some  have  reached  the  point  of  supreme  en-
-lightenment from  whence  there  is  no  return,  others
+3.  Some  have  reached  the  point  of  supreme  enlightenment from  whence  there  is  no  return,  others
 are  standing  on  the  lower  stage 2 ;  some  have  reached
 the  standpoint  of  having  an  unhampered  view,  and
 others  have  obtained  thousands  of  ko/is  of  Dhara^ls3.
@@ -15777,8 +14640,7 @@ Such   will   be   the   perfect   result    of  learning   the
 duration  of  life  of  the  Chief.
 
 7.  Innumerable,  countless   as  the  atoms   of  the
-eight  fields,  are  the  ko/is  of  beings  who  by  hear-
-ing  this  law  have  conceived  the   idea  of  superior
+eight  fields,  are  the  ko/is  of  beings  who  by  hearing  this  law  have  conceived  the   idea  of  superior
 enlightenment.
 
 8.  Such  is  the  effect  produced  by  the  great  Seer,
@@ -15826,8 +14688,7 @@ they  celebrate  in  thousands  of  stanzas.
 
 15.  Such  a  marvellous,  extraordinary,  prodigious,
 splendid2  phenomenon,  O  Leader,  is  being  displayed
-by  all  those  beings  who  are  gladdened  by  the  expo-
-sition of  the  duration  of  life  (of  the  Tathagata).
+by  all  those  beings  who  are  gladdened  by  the  exposition of  the  duration  of  life  (of  the  Tathagata).
 
 1 6.  Grand  is  the  matter  now  (occurring)  in  the
 ten  points  of  space,  and  (great)  the  sound  raised  by
@@ -15842,8 +14703,7 @@ have  entertained,  were  it  but  a  single  thought  of  trust,
 or  have  put  belief  in  it,  how  great  a  merit  are  they
 to  produce,  be  they  young  men  and  young  ladies  of
 good  family  ?  Listen  then,  and  mind  it  well,  how
-great  the  merit  is  they  shall  produce.  Let  us  sup-
-pose the  case,  A^ita,  that  some  young  man  or  young
+great  the  merit  is  they  shall  produce.  Let  us  suppose the  case,  A^ita,  that  some  young  man  or  young
 lady  of  good  family,  desirous  of  supreme,  perfect
 enlightenment,  for  eight  hundred  thousand  myriads
 of  ko/is  of  ./Eons  practises  the  five  perfections  of
@@ -15854,8 +14714,7 @@ perfect  meditation — perfect  wisdom  being  excepted3;
 
 1  Dhva^-agre;  a  marginal  reading  has  dhva^a/w  /£a  (sic).
 
-2  Etadmajforya  vi-rish/am  adbhuta^  (r.  adbhutazw),  vi&tra  dar-
-stnt'  ima(m)  adya  Nayaka.
+2  Etadmajforya  vi-rish/am  adbhuta^  (r.  adbhutazw),  vi&tra  darstnt'  ima(m)  adya  Nayaka.
 
 3  Virahita^  pra^waparamitaya(A).     The  five  specified  virtues  are
 identical  with  those  enumerated  in  Lalita-vistara,  p.  38,  and  slightly
@@ -15867,18 +14726,14 @@ XVI.  OF    PIETY.  317
 
 let  us,  on  the  other  hand,  suppose  the  case,  A^ita,
 that  a  young  man  or  young  lady  of  good  family,  on
-hearing  this  Dharmaparyaya  containing  the  exposi-
-tion of  the  duration  of  the  Tathagata's  life,  conceives
+hearing  this  Dharmaparyaya  containing  the  exposition of  the  duration  of  the  Tathagata's  life,  conceives
 were  it  but  a  single  thought  of  trust  or  puts  belief
 in  it ;  then  that  former  accumulation  of  merit1,  that
-accumulation  of  good  connected  with  the  five  perfec-
-tions of  virtue,  (that  accumulation)  which  has  come
+accumulation  of  good  connected  with  the  five  perfections of  virtue,  (that  accumulation)  which  has  come
 to  full  accomplishment  in  eight  hundred  thousand
-myriads  of  ko/is  of  ^Eons,  does  not  equal  one  hun-
-dredth part  of  the  accumulation  of  merit  in  the  second
+myriads  of  ko/is  of  ^Eons,  does  not  equal  one  hundredth part  of  the  accumulation  of  merit  in  the  second
 case ;  it  does  not  equal  one  thousandth  part ;  it  admits
-of  no  calculation,  no  counting,  no  reckoning,  no  com-
-parison, no  approximation,  no  secret  teaching2.  One
+of  no  calculation,  no  counting,  no  reckoning,  no  comparison, no  approximation,  no  secret  teaching2.  One
 who  is  possessed  of  such  an  accumulation  of  merit,
 A^ita,  be  he  a  young  man  or  a  young  lady  of  good
 family,  will  not  miss  supreme,  perfect  enlightenment ;
@@ -15889,8 +14744,7 @@ dama,  kshamS,  dhrz'ti,  dhi  in  Manu  VI,  92,  where  vidya  is  the
 equivalent  to  the  Paramita  of  pra^-wa.
 
 1  PurcySbhisaflzskara,  which  maybe  said  to  be  the  common
-Buddhistic  equivalent  of  karma^aya,  explained  by  Hindu  scho-
-lastics to  be  the  accumulation  of  moral  merit  and  demerit.     The
+Buddhistic  equivalent  of  karma^aya,  explained  by  Hindu  scholastics to  be  the  accumulation  of  moral  merit  and  demerit.     The
 term  properly  means '  one's  moral  disposition  (at  a  given  time  as  a
 necessary  result  of  one's  previous  acts).'     In  a  certain  sense  it  may
 be  contended  that  the  sum  of  one's  previous  actions  determines
@@ -15909,8 +14763,7 @@ note  on  Sukhavati-vyuha,  p.  31.
 
 3  1 8  SADDHARMA-PLWDARJKA.  XVI.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 1 7.  Let  a  man  who  is  seeking  after  this  knowledge,
 superior  Buddha-knowledge,  undertake  to  practise  in
@@ -15920,25 +14773,20 @@ this  world  the  five  perfect  virtues ;
 complete  JEons,  continue  giving  repeated  alms  to
 Buddhas  and  disciples ;
 
-1 9.  Regaling  Pratyekabuddhas  and  ko/is  of  Bodhi-
-sattvas  by  giving  meat,  food  and  drink,  clothing  and
+1 9.  Regaling  Pratyekabuddhas  and  ko/is  of  Bodhisattvas  by  giving  meat,  food  and  drink,  clothing  and
 lodging1 ;
 
 20.  Let  him  build  on  earth  refuges  and  monasteries
-of  sandal-wood,  and  pleasant  convent  gardens  pro-
-vided with  walks ;
+of  sandal-wood,  and  pleasant  convent  gardens  provided with  walks ;
 
 2 1 .  Let  him  after  so  bestowing  gifts,  various  and
 diversified,  during  thousands  of  ko/is  of  JEons,  direct
 his  mind  to  enlightenment2;
 
-22.  Let    him    then,   for    the    sake    of    Buddha-
-knowledge,  keep  unbroken  the  pure  moral  precepts
-which  have  been  recommended  by  the  perfect  Bud-
-dhas and  acknowledged  by  the  wise ;
+22.  Let    him    then,   for    the    sake    of    Buddhaknowledge,  keep  unbroken  the  pure  moral  precepts
+which  have  been  recommended  by  the  perfect  Buddhas and  acknowledged  by  the  wise ;
 
-23.  Let  him  further  develop  the  virtue  of  for-
-bearance, be  steady  in  the  stage  of  meekness3,  be
+23.  Let  him  further  develop  the  virtue  of  forbearance, be  steady  in  the  stage  of  meekness3,  be
 constant,  of  good    memory,   and   patiently  endure
 many  censures ;
 
@@ -15958,15 +14806,13 @@ world,  retire  from  a  busy  life  to  take  orders.
 
 XVI.  OF   PIETY.  319
 
-knowledge,  bear   the   contemptuous   words   of  un-
-believers who  are  rooted  in  pride ;
+knowledge,  bear   the   contemptuous   words   of  unbelievers who  are  rooted  in  pride ;
 
 25.  Let  him,  always  zealous,  strenuous,  studious,
 of  good  memory,  without  any  other  pre-occupation  in
 his  mind,  practise  meditation,  during  ko/is  of  -/Eons ;
 
-26.  Let  him,  whether  living  in  the  forest  or  enter-
-ing upon  a  vagrant  life1,  go  about,  avoiding  sloth
+26.  Let  him,  whether  living  in  the  forest  or  entering upon  a  vagrant  life1,  go  about,  avoiding  sloth
 and  torpor2,  for  ko/is  of  ./Eons  ;
 
 27.  Let  him  as  a  philosopher,  a  great  philosopher3
@@ -15982,8 +14828,7 @@ the  virtues  oft  described,  during  thousands  of  ko/is
 of  ./Eons,
 
 30.  (Is  less  than  that  of)  a  man  or  a  woman  who,
-on  hearing  the  duration  of  my  life,  for  a  single  mo-
-ment believes  in  it ;  this  merit  is  endless.
+on  hearing  the  duration  of  my  life,  for  a  single  moment believes  in  it ;  this  merit  is  endless.
 
 31.  He  who   renouncing  doubt,  vacillation,  and
 misgiving  shall  believe  even  for  a  short  moment,
@@ -16016,23 +14861,19 @@ enlightenment,  raised  his  lion's  roar ;
 of  enlightenment,  honoured  by  all  mortals,  to  teach
 so  long  a  life1!'
 
-36.  Those  who  are  possessed  of  firmness  of  inten-
-tion2 and  have  learnt  the  principles,  will  understand
+36.  Those  who  are  possessed  of  firmness  of  intention2 and  have  learnt  the  principles,  will  understand
 the  mystery3  and  feel  no  uncertainty4.
 
-Again,  A^ita,  he  who  after  hearing  this  Dharma-
-paryaya,  which  contains  an  exposition  of  the  duration
+Again,  A^ita,  he  who  after  hearing  this  Dharmaparyaya,  which  contains  an  exposition  of  the  duration
 of  the  Tathagata's  life,  apprehends  it,  penetrates  and
-understands  it,  will  produce  a  yet  more  immeasur-
-able accumulation  of  merit  conducive  to  Buddha-
+understands  it,  will  produce  a  yet  more  immeasurable accumulation  of  merit  conducive  to  Buddha-
 knowledge  ;  unnecessary  to  add  that  he  who  hears
 such  a  Dharmaparyaya  as  this  or  makes  others  hear
 it ;  who  keeps  it  in  memory,  reads,  comprehends  or
 makes  others  comprehend  it ;  who  writes  or  has  it
 written,  collects  or  has  it  collected  into  a  volume,
 honours,  respects,  worships  it  with  flowers,  incense,
-perfumed  garlands,  ointments,  powder,  cloth,  um-
-brellas, flags,  streamers,  (lighted)  oil  lamps,  ghee
+perfumed  garlands,  ointments,  powder,  cloth,  umbrellas, flags,  streamers,  (lighted)  oil  lamps,  ghee
 lamps  or  lamps  filled  with  scented  oil,  will  produce
 a  far  greater  accumulation  of  merit  conducive  to
 Buddha-knowledge.
@@ -16043,8 +14884,7 @@ young  lady  of  good  family  who  hears  this  exposition
 1  It  is  difficult  to  say  what  difference  there  is  between  becoming
 Buddha  or  becoming  Brahma,  except  in  sound.
 
-2  Or  strong  application,  the  word  used  in  the  text  being  adhyo-
-s£ya  (Sansk.  adhyavasaya).
+2  Or  strong  application,  the  word  used  in  the  text  being  adhyos£ya  (Sansk.  adhyavasaya).
 
 8  Sandhabhashya.
 
@@ -16068,13 +14908,11 @@ the  towers  that  the  Bodhisattvas  use  as  their  abodes3.
 By  this  test,  A^ita,  one  may  know  if  a  young  man
 or  young  lady  of  good  family  has  a  most  decided
 belief.  Moreover,  A^ita,  I  declare  that  a  young
-man  of  good  family  who,  after  the  complete  extinc-
-tion of  the  Tathagata,  shall  not  reject,  but  joyfully
+man  of  good  family  who,  after  the  complete  extinction of  the  Tathagata,  shall  not  reject,  but  joyfully
 accept  this  Dharmaparyaya  when  hearing  it,  that
 such  a  young  man  of  good  family  also  is  earnest  in
 his  belief;  far  more  one  who  keeps  it  in  memory
-or  reads  it.  He  who  after  collecting  this  Dharma-
-paryaya into  a  volume  carries  it  on  his  shoulder4
+or  reads  it.  He  who  after  collecting  this  Dharmaparyaya into  a  volume  carries  it  on  his  shoulder4
 carries  the  Tathagata  on  his  shoulder.  Such  a  young
 man  or  young  lady  of  good  family,  A^ita,  need  make
 no  Stupas  for  me,  nor  monasteries ;  need  not  give
@@ -16085,8 +14923,7 @@ to  the  congregation  of  monks  medicaments  for  the
 2  We  have  seen   above  that  this  is  the  true  abode  of  the
 Dharmara^a.
 
-3  Ku/agaraparibhogeshu  Bodhtsatvava'saw  va  drakshyanti,  pro-
-perly, they  will  behold  the  dwelling   of  the  Bodhisattvas  in  the
+3  Ku/agaraparibhogeshu  Bodhtsatvava'saw  va  drakshyanti,  properly, they  will  behold  the  dwelling   of  the  Bodhisattvas  in  the
 towers   which   those   Bodhisattvas    have   received   for  their   use.
 About   the   technical   meaning   of  ku/agara  in   Nepal,   see   B.
 H.  Hodgson,  Essays,  p.  49.
@@ -16110,11 +14947,9 @@ of  relics  with  diverse  celestial  and  earthly  flowers,
 incense,  perfumed  garlands,  ointments,  powder,  cloth,
 umbrellas,  banners,  flags,  triumphal  streamers,  by
 various  sweet,  pleasant,  clear-sounding  tymbals  and
-drums,  by  the  tune,  noise,  sounds  of  musical  instru-
-ments and  castanets,  by  songs,  nautch  and  dancing
+drums,  by  the  tune,  noise,  sounds  of  musical  instruments and  castanets,  by  songs,  nautch  and  dancing
 of  different  kinds,  of  many,  innumerable  kinds ;  has
-done  those  acts  of  worship  during  many,  innumer-
-able thousands  of  ko/is  of  ./Eons.  One  who  keeps
+done  those  acts  of  worship  during  many,  innumerable thousands  of  ko/is  of  ./Eons.  One  who  keeps
 in  memory  this  Dharmaparyaya  after  my  complete
 extinction,  who  reads,  writes,  promulgates  it,  A^ita,
 shall  also  have  built  monasteries,  large,  spacious,
@@ -16130,8 +14965,7 @@ ko/is  or  thousand  ko/is  or  hundred  thousand  kofis
 or  ten  thousand  times  hundred  thousand  ko/is,  they
 
 
-1  This  agrees  with  the  teaching  of  the  Vedanta  that  Brahma-
-knowledge  is  independent  of  good  works ;  see  e.  g.  Brahma-sutra
+1  This  agrees  with  the  teaching  of  the  Vedanta  that  Brahmaknowledge  is  independent  of  good  works ;  see  e.  g.  Brahma-sutra
 
 in,  4, 25.
 
@@ -16149,16 +14983,14 @@ A^ita,  that  the  young  man  or  young  lady  of  good
 family  who,  keeping  this  Dharmaparyaya,  shall  crown
 it  by  charity  in  alms,  morality,  forbearance,  energy,
 meditation,  or  wisdom,  will  produce  a  much  greater
-accumulation  of  merit ;  it  is,  in  fact,  immense,  incal-
-culable, infinite2.  Just  as  the  element  of  ether,
+accumulation  of  merit ;  it  is,  in  fact,  immense,  incalculable, infinite2.  Just  as  the  element  of  ether,
 A^ita,  is  boundless,  to  the  east,  south,  west,  north,
 beneath,  above,  and  in  the  intermediate  quarters,  so
 immense  and  incalculable  an  accumulation  of  merit,
 conducive  to  Buddha-knowledge,  will  be  produced
 by  a  young  man  or  young  lady  of  good  family  who
 shall  keep,  read,  write,  or  cause  to  be  written,  this
-Dharmaparyaya.  He  will  be  zealous  in  worship-
-ping the  Tathagata  shrines;  he  will  laud  the  disciples
+Dharmaparyaya.  He  will  be  zealous  in  worshipping the  Tathagata  shrines;  he  will  laud  the  disciples
 of  the  Tathagata,  praise  the  hundred  thousands  of
 myriads  of  ko/is  of  virtues  of  the  Bodhisattvas
 Mahasattvas,  and  expound  them  to  others ;  he  will
@@ -16182,8 +15014,7 @@ Y    2
 324  SADDHARMA-PUATARIKA.  XVI.
 
 abstract  meditation,  frequently  engaging  in  abstract
-meditation,  able  in  solving  questions  and  in  avoid-
-ing hundred  thousands  of  myriads  of  ko/is  of  ques-
+meditation,  able  in  solving  questions  and  in  avoiding hundred  thousands  of  myriads  of  ko/is  of  ques-
 tions. Any  Bodhisattva  Mahasattva,  A^ita,  who,
 after  the  Tathagata's  complete  extinction,  shall  keep
 this  Dharmaparyaya,  will  have  the  good  qualities  I
@@ -16191,24 +15022,20 @@ have  described.  Such  a  young  man  or  young  lady
 of  good  family,  A^ita,  must  be  considered  to  make
 for  the  terrace  of  enlightenment ;  that  young  man  or
 young  lady  of  good  family  steps  towards  the  foot  of
-the  tree  of  enlightenment  in  order  to  reach  enlighten-
-ment. And  where  that  young  man  or  young  lady  of
+the  tree  of  enlightenment  in  order  to  reach  enlightenment. And  where  that  young  man  or  young  lady  of
 good  family,  A^ita,  stands,  sits,  or  walks,  there  one
 should  make  a  shrine *,  dedicated  to  the  Tathagata,
 and  the  world,  including  the  gods,  should  say :  This
 is  a  Stupa  of  relics  of  the  Tathagata.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
-37.  An   immense  mass  of  merit,   as  I  have  re-
-peatedly mentioned,  shall  be  his  who,  after  the  com-
+37.  An   immense  mass  of  merit,   as  I  have  repeatedly mentioned,  shall  be  his  who,  after  the  com-
 plete extinction  of  the  Leader  of  men,  shall  keep  this
 Sutra.
 
 38.  He  will  have  paid  worship  to  me,  and  built
-Stupas  of  relics,  made  of  precious  substances,  varie-
-gated, beautiful,  and  splendid ;
+Stupas  of  relics,  made  of  precious  substances,  variegated, beautiful,  and  splendid ;
 
 39.  In  height  coming  up  to  the  Brahma-world,
 with   rows   of  umbrellas,   great  in   circumference2,
@@ -16220,8 +15047,7 @@ decorated  with  silk  bands,  while  jingles  moved  by
 1  One  would  rather  expect,  that  place  one  should  consider  to  be
 a  shrine.
 
-2  Pariwahavanta^.     There  is   no  word  for  Burnoufs  'pro-
-portionne''  (anupurva)  in  the  text.
+2  Pariwahavanta^.     There  is   no  word  for  Burnoufs  'proportionne''  (anupurva)  in  the  text.
 
 
 XVI.  OF   PIETY.  325
@@ -16234,28 +15060,24 @@ by   flowers,    perfumes,    and   ointments ;    by    music,
 clothes,  and  the  repeated  (sound  of)  tymbals.
 
 42.  He  will  have  sweet  musical  instruments  struck
-at  those  relics,  and  lamps  with  scented  oil  kept  burn-
-ing all  around.
+at  those  relics,  and  lamps  with  scented  oil  kept  burning all  around.
 
 43.  He  who   at   the  period  of  depravation  shall
 keep  and  teach  this   Sutra,  he  will  have  paid  me
 such  an  infinitely  varied  worship.
 
-44.  He  has  built  many  ko/is  of  excellent  monas-
-teries of  sandal-wood,  with  thirty-two  pinnacles,  and
+44.  He  has  built  many  ko/is  of  excellent  monasteries of  sandal-wood,  with  thirty-two  pinnacles,  and
 eight  terraces  high ;
 
 45.  Provided  with  couches,  with  food  hard   and
 soft;  furnished  with  excellent  curtains,  and  having
 cells  by  thousands.
 
-46.  He   has   given   hermitages   and   walks    em-
-bellished by  flower-gardens  ;  many  elegant  objects2
+46.  He   has   given   hermitages   and   walks    embellished by  flower-gardens  ;  many  elegant  objects2
 of  various  forms  and  variegated.
 
 47.  He  has  shown  manifold  worship  to  the  host
-of  disciples  in  my  presence,  he  who,  after  my  extinc-
-tion, shall  keep  this  Sutra.
+of  disciples  in  my  presence,  he  who,  after  my  extinction, shall  keep  this  Sutra.
 
 48.  Let  one  be  ever  so  good  in  disposition,  much
 greater  merit  will  he  obtain  who  shall  keep  or  write
@@ -16263,8 +15085,7 @@ this  Sutra.
 
 49.  Let   a   man   cause    this   to    be   written    and
 
-1  Sobhante  Ginadhatushu.     Burnouf  gives  a  different  trans-
-lation of  this  passage :  '  ces  Stupas,  enfin,  regoivent  leur  e"clat  des
+1  Sobhante  Ginadhatushu.     Burnouf  gives  a  different  translation of  this  passage :  '  ces  Stupas,  enfin,  regoivent  leur  e"clat  des
 reliques  du  Djina.'
 
 2  I  am  quite  uncertain  about  the  word  in  the  text,  u££^adaka.
@@ -16295,8 +15116,7 @@ measure  of  this  mass  of  merit.
 one  who  is  patient,  meek,  devoted,  moral,  studious,
 and  addicted  to  meditation  ;
 
-54.  Who  is  not  irascible,   not  treacherous,  reve-
-rential towards  the  sanctuary,  always  humble  towards
+54.  Who  is  not  irascible,   not  treacherous,  reverential towards  the  sanctuary,  always  humble  towards
 monks,  not  conceited,  nor  neglectful ;
 
 55.  Sensible  and  wise,  not  angry  when  he  is  asked
@@ -16317,8 +15137,7 @@ Tathagata.
 
 59.  And  at  the  sight  of  such   a  man  one  may
 
-1  Yuktai/*.     Burnouf  must  have  read  muktai^,  for  his  trans-
-lation has  '  pearls.'
+1  Yuktai/*.     Burnouf  must  have  read  muktai^,  for  his  translation has  '  pearls.'
 
 
 XVI.  OF   PIETY.  327
@@ -16328,8 +15147,7 @@ the  foot  of  the  tree  to  arrive  at  superior,  blessed
 enlightenment  for  the  weal  of  all  the  world,  including
 the  gods.
 
-60.  And  wherever  such  a  sage  is  walking,  stand-
-ing, sitting,  or  lying  down ;  wherever  the  hero  pro-
+60.  And  wherever  such  a  sage  is  walking,  standing, sitting,  or  lying  down ;  wherever  the  hero  pro-
 nounces were  it  but  a  single  stanza  from  this  Sutra ;
 
 6 1.  There  one  should  build  a  Stupa  for  the  most
@@ -16355,8 +15173,7 @@ Thereupon  the  Bodhisattva  Mahasattva  Maitreya
 said  to  the  Lord  :  O  Lord,  one  who,  after  hearing  this
 Dharmaparyaya  being  preached,  joyfully1  accepts  it,
 be  that  person  a  young  man  of  good  family  or  a
-young  lady,  how  much  merit,  O  Lord,  will  be  pro-
-duced by  such  a  young  man  or  young  lady  of  good
+young  lady,  how  much  merit,  O  Lord,  will  be  produced by  such  a  young  man  or  young  lady  of  good
 family  ?
 
 And  on  that  occasion  the  Bodhisattva  Mahasattva
@@ -16374,8 +15191,7 @@ this  Dharmaparyaya,  let  it  be  a  monk  or  nun,  a  male
 or  female  lay  devotee,  a  man  of  ripe  understanding
 .or  a  boy  or  girl ;  if  the  hearer  joyfully  accepts  it,  and
 then  after  the  sermon  rises  up  to  go  elsewhere,  to  a
-monastery,  house,  forest,  street,  village,  town,  or  pro-
-vince, with  the  motive  and  express  aim  to  expound
+monastery,  house,  forest,  street,  village,  town,  or  province, with  the  motive  and  express  aim  to  expound
 the  law  such  as  he  has  understood,  such  as  he  has
 heard  it,  and  according  to  the  measure  of  his  power,
 
@@ -16386,8 +15202,7 @@ XVII.      MERITORIOUSNESS  OF  JOYFUL  ACCEPTANCE.      329
 
 to  another  person,  his  mother,  father,  kinsman,  friend,
 acquaintance,  or  any  other  person  ;  if  the  latter,  after
-hearing,  joyfully  accepts,  and,  in  consequence,  com-
-municates it  to  another ;  if  the  latter,  after  hearing,
+hearing,  joyfully  accepts,  and,  in  consequence,  communicates it  to  another ;  if  the  latter,  after  hearing,
 joyfully  accepts,  and  communicates  it  to  another ;  if
 this  other,  again,  after  hearing,  joyfully  accepts  it,
 and  so  on  in  succession  until  a  number  of  fifty  is
@@ -16402,16 +15217,13 @@ I  will  tell  thee.
 It  is,  A^ita,  as  if  the  creatures  existing  in  the
 four  hundred  thousand  Asankhyeyas1  of  worlds,  in
 any  of  the  six  states  of  existence,  born  from  an  egg,
-from  a  womb,  from  warm  humidity,  or  from  meta-
-morphosis, whether  they  have  a  shape  or  have  not,
+from  a  womb,  from  warm  humidity,  or  from  metamorphosis, whether  they  have  a  shape  or  have  not,
 be  they  conscious  or  unconscious,  neither  conscious
 nor  unconscious,  footless,  two-footed,  four-footed,  or
 many-footed,  as  many  beings  as  are  contained  in  the
-world  of  creatures, — (as  if)  all  those  had  flocked  to-
-gether to  one  place.  Further,  suppose  some  man
+world  of  creatures, — (as  if)  all  those  had  flocked  together to  one  place.  Further,  suppose  some  man
 appears,  a  lover  of  virtue,  a  lover  of  good,  who  gives
-to  that  whole  body  the  pleasures,  sports,  amuse-
-ments, and  enjoyments  they  desire,  like,  and  relish.
+to  that  whole  body  the  pleasures,  sports,  amusements, and  enjoyments  they  desire,  like,  and  relish.
 He  gives  to  each  of  them  all  Gambudvlpa  for  his
 pleasures,  sports,  amusements,  and  enjoyments ;
 gives  bullion,  gold,  silver,  gems,  pearls,  lapis  lazuli,
@@ -16423,8 +15235,7 @@ with  bullocks,  with  elephants ;  gives  palaces  and
 
 3"O  SADDHARMA-PUJVDARIKA.  XVII.
 
-towers.  In  this  way,  A^ita,  that  master  of  munifi-
-cence, that  great  master  of  munificence  continues
+towers.  In  this  way,  A^ita,  that  master  of  munificence, that  great  master  of  munificence  continues
 spending  his  gifts  for  fully  eighty  years.  Then,  A^ita,
 that  master  of  munificence,  that  great  master  of
 munificence  reflects  thus :  All  these  beings  have  I
@@ -16447,8 +15258,7 @@ what  is  thine  opinion,  A^ita,  will  that  master  of
 munificence,  that  great  master  of  munificence,  on
 account  of  his  doings,  produce  great  merit,  immense,
 incalculable  merit  ?  Whereupon  the  Bodhisattva
-Mahasattva  Maitreya  said  in  reply  to  the  Lord  :  Cer-
-tainly, Lord ;  certainly,  Sugata  ;  that  person,  Lord,
+Mahasattva  Maitreya  said  in  reply  to  the  Lord  :  Certainly, Lord ;  certainly,  Sugata  ;  that  person,  Lord,
 will  already  produce  much  merit  on  that  account,
 because  he  gives  to  the  beings  all  that  is  necessary
 for  happiness  ;  how  much  more  then  if  he  establishes
@@ -16456,8 +15266,7 @@ them  in  Arhatship !
 
 This  said,  the  Lord  spoke  to  the  Bodhisattva
 Mahasattva  Maitreya  as  follows  :  I  announce  to  thee,
-A^ita,  I  declare  to  thee  ;  (take)  on  one  side  the  mas-
-ter of  munificence,  the  great  master  of  munificence,
+A^ita,  I  declare  to  thee  ;  (take)  on  one  side  the  master of  munificence,  the  great  master  of  munificence,
 
 
 XVII.      MERITORIOUSNESS  OF  JOYFUL  ACCEPTANCE.      331
@@ -16478,8 +15287,7 @@ fiftieth  in  the  series  of  the  oral  tradition  of  the
 law,  after  hearing  were  it  but  a  single  stanza,  a
 single  word,  from  this  Dharmaparyaya,  joyfully
 accepts  it.  Against  this  accumulation  of  merit,
-A^ita,  this  accumulation  of  roots  of  goodness  con-
-nected with  that  joyful  acceptance,  the  former  accu-
+A^ita,  this  accumulation  of  roots  of  goodness  connected with  that  joyful  acceptance,  the  former  accu-
 mulation of  merit  connected  with  the  charity  of
 that  master  of  munificence,  that  great  master  of
 munificence,  and  connected  with  the  confirmation
@@ -16508,16 +15316,14 @@ accumulation  of  merit  shall  be  even  more  immense,
 more  incalculable.
 
 And  further,  A^ita,  if  a  young  man  of  good  family
-or  a  young  lady,  with  the  design  to  hear  this  dis-
-course on  the  law,  goes  from  home  to  a  monastery,
+or  a  young  lady,  with  the  design  to  hear  this  discourse on  the  law,  goes  from  home  to  a  monastery,
 and  there  hears  this  Dharmaparyaya  for  a  single
 moment,  either  standing  or  sitting,  then  that  person,
 merely  by  the  mass  of  merit  resulting  from  that
 action,  will  after  the  termination  of  his  (present)
 life,  and  at  the  time  of  his  second  existence  when
 he  receives  (another)  body,  become  a  possessor
-of  carriages  yoked  with  bullocks,  horses,  or  ele-
-phants, of  litters,  vehicles  yoked  with  bulls l,  and  of
+of  carriages  yoked  with  bullocks,  horses,  or  elephants, of  litters,  vehicles  yoked  with  bulls l,  and  of
 celestial  aerial  cars.  If  further  that  same  person
 at  that  preaching  sits  down,  were  it  but  a  single
 moment,  to  hear  this  Dharmaparyaya,  or  persuades
@@ -16531,8 +15337,7 @@ of  the  Lotus  of  the  True  Law,  and  if  that  other
 person  owing  to  that  exhortation  is  persuaded  to
 listen,  were  it  but  a  single  moment,  then  the  former
 will  by  virtue  of  that  root  of  goodness,  consisting  in
-that  exhortation,  obtain  the  advantage  of  a  con-
-nection with  Bodhisattvas  who  have  acquired  Dha-
+that  exhortation,  obtain  the  advantage  of  a  connection with  Bodhisattvas  who  have  acquired  Dha-
 ra»I.  He  will  become  the  reverse  of  dull,  will  get
 keen  faculties,  and  have  wisdom ;  in  the  course  of
 a  hundred  thousand  existences  he  will  never  have  a
@@ -16542,26 +15347,22 @@ fetid  mouth,  nor  an  offensive  one ;  he  will  have  no
 XVII.      MERITORIOUSNESS  OF  JOYFUL  ACCEPTANCE.       333
 
 diseases  of  the  tongue,  nor  of  the  mouth ;  he  will
-have  no  black  teeth,  no  unequal,  no  yellow,  no  ill-
-ranged,  no  broken  teeth,  no  teeth  fallen  out;  his
+have  no  black  teeth,  no  unequal,  no  yellow,  no  illranged,  no  broken  teeth,  no  teeth  fallen  out;  his
 lips  will  not  be  pendulous,  not  turned  inward,  not
 gaping,  not  mutilated,  not  loathsome  1 ;  his  nose  will
 not  be  flat,  nor  wry ;  his  face  will  not  be  long,  nor
 wry,  nor  unpleasant.  On  the  contrary,  A^ita,  his
-tongue,  teeth,  and  lips  will  be  delicate  and  well-
-shaped;  his  nose  long;  his  face  perfectly  round2;  the
+tongue,  teeth,  and  lips  will  be  delicate  and  wellshaped;  his  nose  long;  his  face  perfectly  round2;  the
 eyebrows  well-shaped ;  the  forehead  well-formed.  He
 will  receive  a  very  complete  organ  of  manhood.  He
 will  have  the  advantage  that  the  Tath^gata  renders
-sermons  intelligible 3  to  him  and  soon  come  in  con-
-nection with  Lords,  Buddhas.  Mark,  A^ita,  how
+sermons  intelligible 3  to  him  and  soon  come  in  connection with  Lords,  Buddhas.  Mark,  A^ita,  how
 much  good  is  produced  by  one's  inciting  were  it  but
 a  single  creature ;  how  much  more  then  by  him  who
 reverentially  hears,  reverentially  reads,  reverentially
 preaches,  reverentially  promulgates  the  law !
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 2.  Listen   how  great   the  merit   is    of  one  who,
 the  fiftieth  in  the  series  (of  tradition),  hears  a  single
@@ -16575,12 +15376,10 @@ adopts  it.
 added   by  a  later  hand   in   the  margin,  but  the  characters  are
 indistinct.
 
-2  Pra»itamukhama«</ala;   a  marginal  reading   has   priwa-
-mukha0.
+2  Pra»itamukhama«</ala;   a  marginal  reading   has   priwamukha0.
 
 8  Tathagatari  Mvavadanubhasakaw  pratilabhate.  I  am  not  sure
-of  the  real  meaning  of  anubhasaka;  it  may  as  well  be  '  suggest-
-ing.' Burnouf  has, '  c'est  de  la  bouche  du  Tathagata  qu'il  recevra
+of  the  real  meaning  of  anubhasaka;  it  may  as  well  be  '  suggesting.' Burnouf  has, '  c'est  de  la  bouche  du  Tathagata  qu'il  recevra
 les  avis  et  I'enseignement.'
 
 
@@ -16592,8 +15391,7 @@ them  he  satisfies  during  eighty  years.
 
 4.  Then  seeing  that  old  age  has  approached  for
 them,  that  their  brow  is  wrinkled  and  their  head
-grey  (he  thinks) :  Alas,  how  all  beings  come  to  de-
-cay !    Let  me  therefore  admonish  them  by  (speaking
+grey  (he  thinks) :  Alas,  how  all  beings  come  to  decay !    Let  me  therefore  admonish  them  by  (speaking
 of)  the  law.
 
 5.  He  teaches  them  the  law  here  on  earth  and
@@ -16611,8 +15409,7 @@ shall  hear  were  it  but  a  single  stanza  and  joyfully
 receive  it.     The  mass  of  merit  of  the  former  is  not
 even  so  much  as  a  small  particle  of  the  latter's.
 
-8.  So  great  will  be  one's  merit,  endless,  immea-
-surable,  owing   to   one's   hearing   merely   a   single
+8.  So  great  will  be  one's  merit,  endless,  immeasurable,  owing   to   one's   hearing   merely   a   single
 stanza,  in  regular  tradition ;  how  much  more  then  if
 one  hears  from  face  to  face !
 
@@ -16636,8 +15433,7 @@ never  fall  out,  never  be  black,  yellow,  unequal ;  his
 lips  never  become  loathsome ;
 
 12.  His  face  is  not  wry,  nor  lean,  nor  long;    his
-nose  not  flat ;  it  is  well-shaped,  as  well  as  his  fore-
-head, teeth,  lips,  and  round  face.
+nose  not  flat ;  it  is  well-shaped,  as  well  as  his  forehead, teeth,  lips,  and  round  face.
 
 13.  His   aspect    is    ever   pleasant   to    men;     his
 mouth   is   never  fetid,  it  constantly  emits  a  smell
@@ -16648,8 +15444,7 @@ from  his  home  to  a  monastery  and  there  listen,  were
 it  but  for  a  single  moment,  with  a  placid  mind,  hear
 what  results  from  it.
 
-15.  His  body  is  very  fair;  he  drives  with  horse-
-carriages,  that  wise  man,  and  is  mounted  on  elevated
+15.  His  body  is  very  fair;  he  drives  with  horsecarriages,  that  wise  man,  and  is  mounted  on  elevated
 carriages  drawn  by  elephants  and  variegated  with
 gems.
 
@@ -16664,8 +15459,7 @@ seats  of  Indra,  seats  of  Brahma,  seats  of  kings1.
 
 1  The  purport  of  this  passage  seems  to  be  that  lay  devotees  who
 are  regular  in  attending  the  sermon,  besides  receiving  terrestrial
-blessings,  will  rank  high  as  churchwardens  and  be  entitled  to  con-
-spicuous places  apart  in  the  chapel.  The  gist  of  the  whole  chapter,
+blessings,  will  rank  high  as  churchwardens  and  be  entitled  to  conspicuous places  apart  in  the  chapel.  The  gist  of  the  whole  chapter,
 at  any  rate,  is  that  it  is  highly  meritorious  to  come  to  church.
 
 
@@ -16676,11 +15470,9 @@ CHAPTER  XVIII.
 
 THE   ADVANTAGES    OF    A   RELIGIOUS    PREACHER1.
 
-The  Lord  then  addressed  the  Bodhisattva  Maha-
-sattva  Satatasamitabhiyukta  (i.e.  ever  and  constantly
+The  Lord  then  addressed  the  Bodhisattva  Mahasattva  Satatasamitabhiyukta  (i.e.  ever  and  constantly
 strenuous).  Any  one,  young  man  of  good  family,
-who  shall  keep,  read,  teach,  write  this  Dharmapar-
-yaya  or  have  it  written,  let  that  person  be  a  young
+who  shall  keep,  read,  teach,  write  this  Dharmaparyaya  or  have  it  written,  let  that  person  be  a  young
 man  of  good  family  or  a  young  lady 2,  shall  obtain
 eight  hundred  good  qualities  of  the  eye,  twelve
 hundred  of  the  ear,  eight  hundred  of  the  nose,
@@ -16717,8 +15509,7 @@ extremity  of  existence.  All  that  he  shall  see  with
 his  natural  eye,  as  well  as  the  creatures  to  be  found
 in  it,  and  he  shall  know  the  fruit  of  their  works.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 1.  Hear  from  me  what  good  qualities  shall  belong
 to  him  who    unhesitatingly  and  undismayed    shall
@@ -16740,13 +15531,11 @@ and  upward  to  the  extremity  of  existence.     Such  is
 his  carnal  eye.
 
 6.  But  he  has  not  yet  got  the  divine  eye,  it  having
-not  yet  been  produced1  in  him ;    such  as  here  de-
-scribed is  the  range  of  his  carnal  eye.
+not  yet  been  produced1  in  him ;    such  as  here  described is  the  range  of  his  carnal  eye.
 
 Further,  Satatasamitabhiyukta,  the  young  man  of
 good  family  or  the  young  lady 2  who  proclaims  this
-Dharmaparyaya  and  preaches  it  to  others,  is  pos-
-sessed of  the  twelve  hundred  good  qualities  of  the
+Dharmaparyaya  and  preaches  it  to  others,  is  possessed of  the  twelve  hundred  good  qualities  of  the
 ear.  The  various  sounds  that  are  uttered  in  the
 triple  universe,  downward  to  the  great  hell  Avi/£i
 
@@ -16764,15 +15553,13 @@ z  This  time  the  word  is  also  found  in  my  MS.
 and  upward  to  the  extremity  of  existence,  within  and
 without,  such  as  the  sounds  of  horses1,  elephants,
 cows,  peasants 2,  goats,  cars ;  the  sounds  of  weeping
-and  wailing ;  of  horror,  of  conch-trumpets,  bells,  tym-
-bals  ;  of  playing  and  singing ;  of  camels,  of  tigers 3;  of
+and  wailing ;  of  horror,  of  conch-trumpets,  bells,  tymbals  ;  of  playing  and  singing ;  of  camels,  of  tigers 3;  of
 women,  men,  boys,  girls  ;  of  righteousness  (piety)  and
 unrighteousness  (impiety)  ;  of  pleasure  and  pain  ;  of
 ignorant  men  and  aryas;  pleasant  and  unpleasant
 sounds  ;  sounds  of  gods,  Nagas,  goblins,  Gandharvas,
 demons,  Garu^as,  Kinnaras,  great  serpents,  men,  and
-beings  not  human  ;  of  monks,  disciples,  Pratyekabud-
-dhas,  Bodhisattvas,  and  Tathagatas  ;  as  many  sounds
+beings  not  human  ;  of  monks,  disciples,  Pratyekabuddhas,  Bodhisattvas,  and  Tathagatas  ;  as  many  sounds
 as  are  uttered  in  the  triple  world,  within  and  without,
 all  those  he  hears  with  his  natural  organ  of  hearing
 when  perfect.  Still  he  does  not  enjoy  the  divine
@@ -16787,8 +15574,7 @@ acquires  ;  yet  he  does  not  possess  the  divine  ear.
 
 1  Burnouf  s  version  shows  a  few  unimportant  various  readings.
 
-2  Ganapadajabda^,  rather  strange  between  the  others.  I  sup-
-pose that  ^anapada  is  corrupted  from  some  word  meaning  a
+2  Ganapadajabda^,  rather  strange  between  the  others.  I  suppose that  ^anapada  is  corrupted  from  some  word  meaning  a
 sheep,  but  I  find  no  nearer  approach  to  it  than  ^alakini,  a  ewe;
 cf.  st.  8  below.
 
@@ -16796,8 +15582,7 @@ cf.  st.  8  below.
 vadya.
 
 '  This  term,  as  it  is  here  used,  refers,  so  far  as  I  can  see,  to
-the  ministers  of  religion,  the  preachers.  It  is,  however,  just  pos-
-sible that  we  have  to  take  it  in  the  more  general  and  original
+the  ministers  of  religion,  the  preachers.  It  is,  however,  just  possible that  we  have  to  take  it  in  the  more  general  and  original
 sense  of  any  '  rational  being,'  for  all  the  advantages  enumerated
 belong  to  everybody  who  is  not  blind,  not  deaf,  &c.
 
@@ -16809,16 +15594,14 @@ the  Master,  added :
 
 7.  The  organ  of  hearing  of  such  a  person  becomes
 (or,  is)   cleared  and   perfect,  though    as   yet  it  be
-natural ;  by  it  he  perceives  the  various  sounds,  with-
-out any  exception,  in  this  world.
+natural ;  by  it  he  perceives  the  various  sounds,  without any  exception,  in  this  world.
 
 8.  He  perceives  the  sounds  of  elephants,  horses,
 cars,  cows,  goats,  and  sheep ;  of  noisy  kettle-drums,
 tabours,  lutes,  flutes,  Vallakl-lutes.
 
 9.  He  can  hear  singing,  lovely  and  sweet,  and,  at
-the  same  time,  is  constant  enough  not  to  allow  him-
-self to  be  beguiled  by  it ;   he  perceives  the  sounds
+the  same  time,  is  constant  enough  not  to  allow  himself to  be  beguiled  by  it ;   he  perceives  the  sounds
 of  ko/is  of  men,  whatever  and  wherever  they  are
 speaking.
 
@@ -16827,8 +15610,7 @@ and  Nagas ;  he  hears  the  tunes,  sweet  and  affecting,
 of  song,  as  well  as  the  voices  of  men  and  women,
 boys  and  girls.
 
-11.  He  hears  the  cries  of  the  denizens  of  moun-
-tains and  glens ;  the  tender  notes l  of  Kalavirikas,
+11.  He  hears  the  cries  of  the  denizens  of  mountains and  glens ;  the  tender  notes l  of  Kalavirikas,
 cuckoos  2,  peafowls  3,  pheasants,  and  other  birds.
 
 12.  He   also    (hears)  the   heart-rending   cries   of
@@ -16865,13 +15647,11 @@ are  conversing  with  each  other.
 
 15.  He  apprehends  all  the  sounds,  without  any
 exception,  whereby  the  numerous  angels  living  in
-the    Brahma-world,    the    AkanishMas    and    Abha-
-svaras 1,  call  one  another.
+the    Brahma-world,    the    AkanishMas    and    Abhasvaras 1,  call  one  another.
 
 1 6.  He  likewise  always  hears  the  sound  which
 the  monks  on  earth  are  raising  when  engaged  in
-reading,  and  when  preaching  the  law  to  congrega-
-tions, after  having  taken  orders  under  the  command
+reading,  and  when  preaching  the  law  to  congregations, after  having  taken  orders  under  the  command
 of  the  Sugatas.
 
 17.  And  when  the   Bodhisattvas  here   on   earth
@@ -16913,17 +15693,14 @@ Mahasattva  who  keeps,  proclaims,  studies,  writes
 this  Dharmaparyaya  becomes  possessed  of  a  perfect
 organ  of  smell  with  eight  hundred  good  qualities.
 By  means  of  that  organ  he  smells  the  different  smells
-that  are  found  in  the  triple  world,  within  and  with-
-out, such  as  fetid  smells,  pleasant  and  unpleasant
-smells,  the  fragrance  of  diverse  flowers,  as  the  great-
-flowered  jasmine,  Arabian  jasmine,  Michelia  Cham-
+that  are  found  in  the  triple  world,  within  and  without, such  as  fetid  smells,  pleasant  and  unpleasant
+smells,  the  fragrance  of  diverse  flowers,  as  the  greatflowered  jasmine,  Arabian  jasmine,  Michelia  Cham-
 paka,  trumpet-flower ;  likewise  the  different  scents  of
 aquatic  flowers,  as  the  blue  lotus,  red  lotus,  white
 esculent  water-lily  and  white  lotus.  He  smells  the
 odour  of  fruits  and  blossoms  of  various  trees  bearing
 fruits  and  blossoms,  such  as  sandal,  Xanthochymus,
-Tabernsemontana,  agallochum l.  The  manifold  hun-
-dred-thousand mixtures  of  perfumes  he  smells  and  dis-
+Tabernsemontana,  agallochum l.  The  manifold  hundred-thousand mixtures  of  perfumes  he  smells  and  dis-
 cerns, without  moving  from  his  standing-place.  He
 smells  the  diverse  smells  of  creatures,  as  elephants,
 horses,  cows,  goats,  beasts,  as  well  as  the  smell
@@ -16944,8 +15721,7 @@ speaking  of  fruits.
 SADDHARMA-PU^Z)ARIKA.  XVIII.
 
 fragrance  of  celestial  flowers,  such  as  Erythrina,
-Bauhinia,  Mandarava  and  great  Mandarava,  Ma%"u-
-sha  and  great  Ma^usha.  He  smells  the  perfume
+Bauhinia,  Mandarava  and  great  Mandarava,  Ma%"usha  and  great  Ma^usha.  He  smells  the  perfume
 of  the  divine  powders  of  sandal  and  agallochum,  as
 well  as  that  of  the  hundred-thousands  of  mixtures
 of  different  divine  flowers.  He  smells  the  odour
@@ -16956,8 +15732,7 @@ his  palace  Vayfayanta  or  is  speaking  the  law  to  the
 gods  of  paradise  in  the  assembly-hall  of  the  gods,
 Sudharma,  or  is  resorting  to  the  pleasure-park  for
 sport1.  He  smells  the  odour  proceeding  from  the
-body  of  the  sundry  other  gods,  as  well  as  that  pro-
-ceeding from  the  girls  and  wives  of  the  gods,  from
+body  of  the  sundry  other  gods,  as  well  as  that  proceeding from  the  girls  and  wives  of  the  gods,  from
 the  youths  and  maidens  amongst  the  gods,  without
 being  surprised  or  stunned  by  those  smells.  He
 likewise  smells  the  odour  exhaled  by  the  bodies  of
@@ -16967,13 +15742,11 @@ from  disciples,  Pratyekabuddhas,  Bodhisattvas,  and
 Tathagatas.  He  smells  the  odour  arising  from  the
 seats  of  the  Tathagatas  and  so  discovers  where  those
 Tathagatas,  Arhats,  &c.  abide.  And  by  none  of
-all  those  different  smells  is  his  organ  of  smell  hin-
-dered, impaired,  or  vexed ;  and,  if  required,  he  may
+all  those  different  smells  is  his  organ  of  smell  hindered, impaired,  or  vexed ;  and,  if  required,  he  may
 give  an  account  of  those  smells  to  others  without
 his  memory  being  impaired  by  it.
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas  :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas  :
 
 22.  His  organ  of  smell   is  quite  correct,  and  he
 
@@ -16992,16 +15765,14 @@ Arabian  jasmine,  Xanthochymus,  sandal,  agallochum,
 of  several  blossoms  and  fruits.
 
 24.  He  likewise  perceives  the  smells  exhaled  by
-men,  women,  boys,  and  girls,  at  a  considerable  dis-
-tance, and  by  the  smell  he  knows  where  they  are.
+men,  women,  boys,  and  girls,  at  a  considerable  distance, and  by  the  smell  he  knows  where  they  are.
 
 25.  He   recognises    emperors,    rulers   of  armies,
 governors   of  provinces,  as    well    as   royal    princes
 and  ministers,  and  all  the  ladies  of  the  harem  by
 their  (peculiar)  scent.
 
-26.  It  is  by  the  odour  that  the  Bodhisattva  dis-
-covers sundry  jewels  of  things,  such  as  are  found  on
+26.  It  is  by  the  odour  that  the  Bodhisattva  discovers sundry  jewels  of  things,  such  as  are  found  on
 the  earth  and  such  as  serve  as  jewels  for  women.
 
 27.  That  Bodhisattva  likewise  knows  by  the  odour
@@ -17060,8 +15831,7 @@ smells  (so  to  say)  an  air  of  design3;  he  finds  out  the
 odour  of  passionate,  wicked,  hypocritical,  or  quiet
 persons.
 
-37.  That  Bodhisattva  by  the  scent  smells  trea-
-sures hidden  in  the  ground,  money,  gold,  bullion,
+37.  That  Bodhisattva  by  the  scent  smells  treasures hidden  in  the  ground,  money,  gold,  bullion,
 silver,  chests,  and  metal  pots  4.
 
 38.  Necklaces   of  two    sorts,   gems,   pearls,   nice
@@ -17078,8 +15848,7 @@ things  priceless  and  brilliant  in  general.
 4  It  need  hardly  be  remarked  that  'to  smell' is  here  used  in  the
 same  sense  as  in  the  English  saying  '  to  smell  a  rat.'
 
-*  The  word  gandha  also  means  '  some  resemblance,  faint  like-
-ness, an  air.'
+*  The  word  gandha  also  means  '  some  resemblance,  faint  likeness, an  air.'
 
 
 XVIII.      ADVANTAGES  OF  A  RELIGIOUS  PREACHER.        345
@@ -17088,8 +15857,7 @@ smells  the  flowers  here  above  (in  the  sky)  with  the
 gods,  such  as  Mandaravas,  Ma^ushakas,  and  those
 growing  on  the  coral  tree.
 
-40.  By  the  power  of  his  organ  of  smell  he,  with-
-out leaving  his  stand  on  earth,  perceives  how  and
+40.  By  the  power  of  his  organ  of  smell  he,  without leaving  his  stand  on  earth,  perceives  how  and
 whose  are  the  aerial  cars,  of  lofty,  low,  and  middling
 size,  and  other  brilliant  forms   shooting 1  (through
 the  firmament).
@@ -17110,8 +15878,7 @@ knows  wherever  they  are  dallying  or  staying  at  the
 time.
 
 44.  By  smell  he  apprehends  the  gods,  Brahmas,
-and  Brahmakayas  moving  on  aerial  cars  aloft,  up-
-wards  to    the   extremity   of  existence ;    he   knows
+and  Brahmakayas  moving  on  aerial  cars  aloft,  upwards  to    the   extremity   of  existence ;    he   knows
 whether  they  are  absorbed  in  meditation 3  or  have
 risen  from  it.
 
@@ -17150,8 +15917,7 @@ a  place.
 
 48.  The  Bodhisattva  knows  by  the  odour  whether
 other  Bodhisattvas  are  of  good  memory,  meditative,
-delighting  in  their  lessons  and  reading,  and  assi-
-duous in  preaching  to  congregations  l.
+delighting  in  their  lessons  and  reading,  and  assiduous in  preaching  to  congregations  l.
 
 49.  In  whatever  point  of  space  the   Sugata,  the
 great  Seer,  so  benign  and  bounteous,  reveals  the
@@ -17159,8 +15925,7 @@ law  in  the  midst  of  the  crowd  of  attending  disciples,
 the   Bodhisattva  by  the   odour  recognises   him  as
 the  Lord  of  the  universe.
 
-50.  Staying  on  earth,  the  Bodhisattva  also  per-
-ceives those  beings  who  hear  the  law  and  rejoice  at
+50.  Staying  on  earth,  the  Bodhisattva  also  perceives those  beings  who  hear  the  law  and  rejoice  at
 it,  and  the  whole  assembly  of  the  <7ina.
 
 5  1  .  Such  is  the  power  of  his  organ  of  smell.  Yet
@@ -17182,8 +15947,7 @@ an  organ  of  taste  possessed  of  twelve  hundred
 good  faculties  of  the  tongue.  All  flavours  he
 takes  on  his  tongue  will  yield  a  divine,  exquisite
 relish.  And  he  tastes  in  such  a  way  that  he  is  not
-to  relish  anything  unpleasant ;  and  even  the  un-
-pleasant flavours  that  are  taken  on  his  tongue  will
+to  relish  anything  unpleasant ;  and  even  the  unpleasant flavours  that  are  taken  on  his  tongue  will
 yield1  a  divine  relish.  And  whatever  he  shall  preach
 in  the  assembly,  the  creatures  will  be  satisfied  by  it ;
 they  will  be  content,  thoroughly  content,  filled  with
@@ -17191,8 +15955,7 @@ delight.  A  sweet,  tender,  agreeable,  deep  voice  goes
 out  from  him,  an  amiable  voice  which  goes  to  the
 heart,  at  which  those  creatures  will  be  ravished  and
 charmed ;  and  those  to  whom  he  preaches,  after
-having  heard  his  sweet  voice,  so  tender  and  melo-
-dious, will,  even  (if  they  are)  gods,  be  of  opinion  that
+having  heard  his  sweet  voice,  so  tender  and  melodious, will,  even  (if  they  are)  gods,  be  of  opinion  that
 they  ought  to  go  and  see,  venerate,  and  serve  him2.
 And  the  angels  and  houris  will  be  of  opinion,  &c.
 The  Indras,  Brahmas,  and  Brahmakayikas  will  be
@@ -17227,16 +15990,14 @@ words.  Others  also,  Brahmans  and  laymen,  citizens
 and  peasants,  will  always  and  ever  follow  that
 preacher  till  the  end  of  life.  Even  the  disciples
 of  the  Tathagata  will  be  desirous  of  seeing  him ;
-likewise  the  Pratyekabuddhas  and  the  Lords  Bud-
-dhas.  And  wherever  that  young  man  of  good  family
+likewise  the  Pratyekabuddhas  and  the  Lords  Buddhas.  And  wherever  that  young  man  of  good  family
 or  young  lady  shall  stay,  there  he  (or  she)  will  preach,
 the  face  turned  to  the  Tathagata,  and  he  (or  she)
 will  be  a  worthy  vessel  of  the  Buddha -qualities.
 Such,  so  pleasant,  so  deep  will  be  the  voice  of  the
 law  going  out  from  him.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 52.  His  organ  of  taste  is  most  excellent,  and  he
 will  never  relish  anything  of  inferior  flavour ;  the
@@ -17254,8 +16015,7 @@ or  marshal.     See  Spence  Hardy,  Manual  of  Buddhism,  p.  127;
 Burnouf,  Lotus,  p.  580;  Senart,  Le"gende  du- Buddha,  pp.  22-60;
 Lalita-vistara,  pp.  15-19.
 
-2  Nikshiptamatra*  £a  bhavanti   divya  rasena  divyena    samar-
-pitaj  fa.
+2  Nikshiptamatra*  £a  bhavanti   divya  rasena  divyena    samarpitaj  fa.
 
 
 XVIII.       ADVANTAGES  OF  A  RELIGIOUS  PREACHER.       349
@@ -17263,8 +16023,7 @@ XVIII.       ADVANTAGES  OF  A  RELIGIOUS  PREACHER.       349
 midst  of  the  assembly  he  is  used  to  speak  with  a
 melodious  and  deep  voice.
 
-54.  And  whosoever  hears  him  when  he  is  deliver-
-ing a  sermon  with  myriads  of  ko/is  of  examples,  feels
+54.  And  whosoever  hears  him  when  he  is  delivering a  sermon  with  myriads  of  ko/is  of  examples,  feels
 a  great  joy  and  shows  him  an  immense  veneration.
 
 55.  The  gods,  Nagas,  demons,  and  goblins  always
@@ -17290,8 +16049,7 @@ the  numerous  heavenly  nymphs,  approach  him.
 
 60.  And  the  Buddhas,  benign  and  merciful  for  the
 world,  along  with  their  disciples,  hearing  his  voice,
-protect  him  by  showing  their  face,  and  feel  satis-
-faction in  hearing  him  preaching.
+protect  him  by  showing  their  face,  and  feel  satisfaction in  hearing  him  preaching.
 
 Further,  Satatasamitabhiyukta,  the  Bodhisattva
 Mahasattva  who  keeps,  reads,  promulgates,  teaches,
@@ -17308,8 +16066,7 @@ who  are  low  or  lofty,  of  good  or  of  bad  colour,  in
 
 fortunate  or  in  unfortunate  condition,  as  well  as  the
 beings  dwelling  within  the  circular  plane  of  the
-horizon  and  of  the  great  horizon,  on  the  chief  moun-
-tains Mem  and  Sumeru,  and  the  beings  dwelling
+horizon  and  of  the  great  horizon,  on  the  chief  mountains Mem  and  Sumeru,  and  the  beings  dwelling
 below  in  the  Avl^i  and  upwards  to  the  extremity
 of  existence ;  all  of  them  he  will  see  on  his  own
 body.  The  disciples,  Pratyekabuddhas,  Bodhisattvas,
@@ -17320,8 +16077,7 @@ his  own  body,  because  he  receives  the  proper  body
 of  all  those  beings,  and  that  on  account  of  the
 perfectness  of  his  body.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 6 1.  His   body   becomes    thoroughly   pure,    clear
 as  if  consisting  of  lapis  lazuli ;  he  who  keeps  this
@@ -17338,8 +16094,7 @@ gods,  demons,  goblins,  the  inhabitants  of  hell,  the
 spirits,  and  the  brute  creation  are  seen  reflected  on
 that  body.
 
-64.  The  aerial  cars  of  the  gods  up  to  the  ex-
-tremity of  existence,    the   rocks,   the    ridge  of  the
+64.  The  aerial  cars  of  the  gods  up  to  the  extremity of  existence,    the   rocks,   the    ridge  of  the
 
 
 1  This  seems  to  mean  that  the  thinking  subject  or  thinking
@@ -17354,8 +16109,7 @@ horizon,  the  Himalaya,  Sumeru,  and  great  Meru,  all
 are  seen  on  that  body.
 
 65.  He  also  sees  the  Buddhas  on  his  body,  along
-with  the  disciples  and  other  sons  of  Buddha ;  like-
-wise the  Bodhisattvas  who  lead  a  solitary  life,  and
+with  the  disciples  and  other  sons  of  Buddha ;  likewise the  Bodhisattvas  who  lead  a  solitary  life,  and
 those  who  preach  the  law  to  congregations.
 
 66.  Such  is  the  perfectness  of  his  body,  though  he
@@ -17365,18 +16119,15 @@ property  of  his  body  is  such.
 Further,  Satatasamitabhiyukta,  the  Bodhisattva
 Mahasattva  who  after  the  complete  extinction  of
 the  Tathagata  keeps,  teaches,  writes,  reads  this
-Dharmaparyaya  shall  have  a  mental  organ  pos-
-sessed of  twelve  hundred  good  qualities  of  intel-
+Dharmaparyaya  shall  have  a  mental  organ  possessed of  twelve  hundred  good  qualities  of  intel-
 lect. By  this  perfect  mental  organ  he  will,  even  if
-he  hears  a  single  stanza,  recognise  its  various  mean-
-ings. By  fully  comprehending  the  stanza  he  will
+he  hears  a  single  stanza,  recognise  its  various  meanings. By  fully  comprehending  the  stanza  he  will
 find  in  it  the  text  to  preach  upon  for  a  month,  for
 four  months,  nay,  for  a  whole  year.  And  the  sermon
 he  preaches  will  not  fade  from  his  memory.  The
 popular  maxims  of  common  life,  whether  sayings  or
 counsels,  he  will  know  how  to  reconcile  with  the  rules
-of  the  law.  Whatever  creatures  of  this  triple  uni-
-verse are  subject  to  the  mundane  whirl,  in  any  of
+of  the  law.  Whatever  creatures  of  this  triple  universe are  subject  to  the  mundane  whirl,  in  any  of
 the  six  conditions  of  existence,  he  will  know  their
 thoughts,  doings,  and  movements.  He  will  know
 and  discern  their  motions,  purposes,  and  aims.
@@ -17389,14 +16140,10 @@ spoken,  all  that  has  been  declared  in  the  Sutras  of
 former  Ginas.
 
 
-352
-
-
 xvm.
 
 
-And  on  that  occasion  the  Lord  uttered  the  fol-
-lowing stanzas  :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas  :
 
 67.  His  mental  organ  is  perfect,  lucid,  right,  and
 untroubled.     By  it  he  finds  out  the  various  laws,
@@ -17405,16 +16152,13 @@ low,  high,  and  mean.
 68.  On  hearing  the  contents  of  a  single  stanza,
 the   wise   man   catches   the    manifold  significations
 (hidden)  in  it,  and  he  is  able  for  a  month,  four  months,
-or  even  a  year  to  go  on  expounding  both  its  conven-
-tional and  its  true  sense.
+or  even  a  year  to  go  on  expounding  both  its  conventional and  its  true  sense.
 
 69.  And  the  beings  living  in  this  world,  within  or
 without,  gods,  men,  demons,  goblins,  Nagas,  brutes,
 
-70.  The  beings  stationed  in  any  of  the  six  condi-
-tions of  existence,  all  their  thoughts  the  sage  knows
-instantaneously.    These  are  the  advantages  of  keep-
-ing this  Sutra.
+70.  The  beings  stationed  in  any  of  the  six  conditions of  existence,  all  their  thoughts  the  sage  knows
+instantaneously.    These  are  the  advantages  of  keeping this  Sutra.
 
 71.  He  also  hears  the  holy  sound  of  the  law  which
 the  Buddha,  marked  with  a  hundred  blessed  signs,
@@ -17452,14 +16196,10 @@ reads  this  Sutra ;  he  has  not  yet  the  knowledge  of
 emancipation,  but  one  that  precedes  it.
 
 76.  He  who  keeps  this  Sutra  of  the  Sugata  stands
-on  the  stage  of  a  master;  he  may  preach  to  all  crea-
-tures and  is  skilful  in  ko/is  of  interpretations.
+on  the  stage  of  a  master;  he  may  preach  to  all  creatures and  is  skilful  in  ko/is  of  interpretations.
 
 
 [21]  A  a
-
-
-354
 
 
 SADDHARMA-PlWDARlKA.  XIX.
@@ -17469,8 +16209,7 @@ CHAPTER   XIX.
 
 SADAPARIBH(JTA.
 
-The  Lord  then  addressed  the  Bodhisattva  Maha-
-sattva  Mahasthamaprapta.  In  a  similar  way,  Maha-
+The  Lord  then  addressed  the  Bodhisattva  Mahasattva  Mahasthamaprapta.  In  a  similar  way,  Maha-
 sthamaprapta, one  may  infer  from  what  has  been  said
 that  he  who  rejects  such  a  Dharmaparyaya  as  this,
 who  abuses  monks,  nuns,  lay  devotees  male  or  female,
@@ -17490,10 +16229,8 @@ before,  there  appeared  in  the  world  a  Tathagata,
 &c.,  named  Bhlshmagar^itasvarara^a,  endowed  with
 science  and  conduct,  a  Sugata,  &c.  &c.,  in  the  ^Eon
 Vinirbhoga,  in  the  world  Mahasambhava.  Now,
-Mahasthamaprapta,  that  Lord  Bhishmagar^itasvara-
-ra^a,  the  Tathagata,  &c.,  in  that  world  Vinirbhoga,
-showed  the  law  in  the  presence  of  the  world,  in-
-cluding gods,  men,  and  demons ;  the  law  containing
+Mahasthamaprapta,  that  Lord  Bhishmagar^itasvarara^a,  the  Tathagata,  &c.,  in  that  world  Vinirbhoga,
+showed  the  law  in  the  presence  of  the  world,  including gods,  men,  and  demons ;  the  law  containing
 the  four  noble  truths  and  starting  from  the  chain
 of  causes  and  effects,  tending  to  overcome  birth,
 decrepitude,  sickness,  death,  sorrow,  lamentation,
@@ -17501,40 +16238,28 @@ decrepitude,  sickness,  death,  sorrow,  lamentation,
 
 xix.  SADAPARIBH{JTA.  355
 
-woe,  grief,  despondency,  and  finally  leading  to  Nir-
-vana, he  showed  to  the  disciples ;  the  law  con-
+woe,  grief,  despondency,  and  finally  leading  to  Nirvana, he  showed  to  the  disciples ;  the  law  con-
 nected with  the  six  Perfections  of  virtue  and
 terminating  in  the  knowledge  of  the  Omniscient,
-after  the  attainment  of  supreme,  perfect  enlighten-
-ment, he  showed  to  the  Bodhisattvas.  The  lifetime
-of  that  Lord  Bhishmagar^itasvarara^a,  the  Tatha-
-gata,  &c.,  lasted  forty  hundred  thousand  myriads  of
+after  the  attainment  of  supreme,  perfect  enlightenment, he  showed  to  the  Bodhisattvas.  The  lifetime
+of  that  Lord  Bhishmagar^itasvarara^a,  the  Tathagata,  &c.,  lasted  forty  hundred  thousand  myriads  of
 ko/is  of  y£ons  equal  to  the  sands  of  the  river
 Ganges l.  After  his  complete  extinction  his  true
 law  remained  hundred  thousands  of  myriads  of  ko/is
-of  fiLons  equal  to  the  atoms  (contained)  in  G"ambu-
-dvipa,  and  the  counterfeit  of  the  true  law  continued
+of  fiLons  equal  to  the  atoms  (contained)  in  G"ambudvipa,  and  the  counterfeit  of  the  true  law  continued
 hundred  thousands  of  myriads  of  ko^is  of  ^Eons
 equal  to  the  dust-atoms  in  the  four  continents.  When
-the  counterfeit  of  the  true  law  of  the  Lord  Bhishma-
-gar^itasvarara^a,  the  Tathagata,  &c.,  after  his  com-
-plete extinction,  had  disappeared  in  the  world  Maha-
-sambhava,  Mahasthamaprapta,  another  Tathagata
-Bhishmagar^itasvarara^a,  Arhat,  &c,,  appeared,  en-
-dowed with  science  and  conduct.  So  in  succession,
-Mahasthamaprapta,  there  arose  in  that  world  Maha-
-sambhava  twenty  hundred  thousand  myriads  of '
-ko/is  of  Tathigatas,  &c.,  called  Bhishmagar^ita-
-svarara^a.  At  the  time,  Mahasthamaprapta,  after
+the  counterfeit  of  the  true  law  of  the  Lord  Bhishmagar^itasvarara^a,  the  Tathagata,  &c.,  after  his  com-
+plete extinction,  had  disappeared  in  the  world  Mahasambhava,  Mahasthamaprapta,  another  Tathagata
+Bhishmagar^itasvarara^a,  Arhat,  &c,,  appeared,  endowed with  science  and  conduct.  So  in  succession,
+Mahasthamaprapta,  there  arose  in  that  world  Mahasambhava  twenty  hundred  thousand  myriads  of '
+ko/is  of  Tathigatas,  &c.,  called  Bhishmagar^itasvarara^a.  At  the  time,  Mahasthamaprapta,  after
 the  complete  extinction  of  the  first  Tathagata
-amongst  all  those  of  the  name  of  Bhlshmagar^ita-
-svarara^a,  Tathagata,  &c.,  endowed  with  science
-and  conduct,  &c.  &c.,  when  his  true  law  had  dis-
-appeared and  the  counterfeit  of  the  true  law  was
+amongst  all  those  of  the  name  of  Bhlshmagar^itasvarara^a,  Tathagata,  &c.,  endowed  with  science
+and  conduct,  &c.  &c.,  when  his  true  law  had  disappeared and  the  counterfeit  of  the  true  law  was
 
 
-1  According  to  Burnouf :  '  autant  de  centaines  de  mille  de  myri-
-ades  de  ko/is  de  Kalpas  qu'il  y  a  de  grains  de  sable  dans  quarante
+1  According  to  Burnouf :  '  autant  de  centaines  de  mille  de  myriades  de  ko/is  de  Kalpas  qu'il  y  a  de  grains  de  sable  dans  quarante
 Ganges.'
 
 A  a  2
@@ -17545,18 +16270,13 @@ A  a  2
 fading ;  when  the  reign  (of  the  law)  was  being
 oppressed  by  proud  monks,  there  was  a  monk,  a
 Bodhisattva  Mahasattva,  called  Sadaparibhuta.  For
-what  reason,  Mahasthamaprapta,  was  that  Bodhi-
-sattva Mahasattva  called  Sadaparibhuta ?  It  was,
-Mahasthamaprapta,  because  that  Bodhisattva  Maha-
-sattva was  in  the  habit  of  exclaiming  to  every  monk
-or  nun,  male  or  female  lay  devotee,  while  approach-
-ing them :  I  do  not  contemn  you,  worthies.  You
+what  reason,  Mahasthamaprapta,  was  that  Bodhisattva Mahasattva  called  Sadaparibhuta ?  It  was,
+Mahasthamaprapta,  because  that  Bodhisattva  Mahasattva was  in  the  habit  of  exclaiming  to  every  monk
+or  nun,  male  or  female  lay  devotee,  while  approaching them :  I  do  not  contemn  you,  worthies.  You
 deserve  no  contempt,  for  you  all  observe  the  course
-of  duty  of  Bodhisattvas  and  are  to  become  Tatha-
-gatas,  &c.  In  this  way,  Mahasthamaprapta,  that
+of  duty  of  Bodhisattvas  and  are  to  become  Tathagatas,  &c.  In  this  way,  Mahasthamaprapta,  that
 Bodhisattva  Mahasattva,  when  a  monk,  did  not
-teach  nor  study ;  the  only  thing  he  did  was,  when-
-ever he  descried  from  afar  a  monk  or  nun,  a  male  or
+teach  nor  study ;  the  only  thing  he  did  was,  whenever he  descried  from  afar  a  monk  or  nun,  a  male  or
 female  lay  devotee,  to  approach  them  and  exclaim  :
 I  do  not  contemn  you,  sisters J.  You  deserve  no
 contempt,  for  you  all  observe  the  course  of  duty  of
@@ -17564,8 +16284,7 @@ Bodhisattvas  and  are  to  become  Tathagatas,  &c.
 So,  Mahasthamaprapta,  the  Bodhisattva  Mahasattva
 at  that  time  used  to  address  every  monk  or  nun,
 male  or  female  devotee.  But  all  were  extremely
-irritated  and  angry  at  it,  showed  him  their  displea-
-sure, abused  and  insulted  him :  Why  does  he,
+irritated  and  angry  at  it,  showed  him  their  displeasure, abused  and  insulted  him :  Why  does  he,
 unasked,  declare  that  he  feels  no  contempt  for  us  ?
 Just  by  so  doing  he  shows  a  contempt  for  us.  He
 renders  himself  contemptible 2  by  predicting  our
@@ -17585,8 +16304,7 @@ XIX.  SADAPARIBHtjTA.  357
 Bodhisattva  Mahclsattva  was  being  abused,  but  he
 was  not  angry  at  anybody,  nor  felt  malignity,  and  to
 those  who,  when  he  addressed  them  in  the  said
-manner,  cast  a  clod  or  stick  at  him,  he  loudly  ex-
-claimed from  afar :  I  do  not  contemn  you.  Those
+manner,  cast  a  clod  or  stick  at  him,  he  loudly  exclaimed from  afar :  I  do  not  contemn  you.  Those
 monks  and  nuns,  male  and  female  lay  devotees,
 being  always  and  ever  addressed  by  him  in  that
 phrase  gave  him  the  (nick)name  of  Sadaparibhuta l.
@@ -17598,8 +16316,7 @@ Law  when  the  end  of  his  life  was  impending,  and  the
 moment  of  dying  drawing  near.  It  was  the  Lord
 Bhishmagar^itasvararaga,  the  Tathagata,  &c.,  who
 expounded  this  Dharmaparyaya  in  twenty  times
-twenty  hundred  thousand  myriads  of  ko/is  of  stan-
-zas, which  the  Bodhisattva  Mahasattva  Sadapari-
+twenty  hundred  thousand  myriads  of  ko/is  of  stanzas, which  the  Bodhisattva  Mahasattva  Sadapari-
 bhuta heard  from  a  voice  in  the  sky,  when  the  time
 of  his  death  was  near  at  hand.  On  hearing  that
 voice  from  the  sky,  without  there  appearing  a  person
@@ -17616,8 +16333,7 @@ said :  I  do  not  contemn  you,  and  who  had  given
 him  the  name  of  Sadaparibhuta,  became  all  his  fol-
 
 1  I.e.  both  'always  contemned'  (sad a"  and  paribhftta)  and
-'always  not-contemned,  never  contemned'  (sada  and  apari-
-bhuta).
+'always  not-contemned,  never  contemned'  (sada  and  aparibhuta).
 
 
 358  SADDHARMA-PUA^DARIKA.  XIX.
@@ -17630,19 +16346,16 @@ of  other  beings  were  by  him  roused  to  supreme,
 perfect  enlightenment.
 
 Afterwards,  Mahasthamaprapta,  that  Bodhisattva
-Mahasattva  disappeared  from  that  place  and  propi-
-tiated twenty  hundred  ko/is l  of  Tathagatas,  &c.,  all
+Mahasattva  disappeared  from  that  place  and  propitiated twenty  hundred  ko/is l  of  Tathagatas,  &c.,  all
 bearing  the  same  name  of  A^andraprabhasvararafa,
-under  all  of  whom  he  promulgated  this  Dharmapar-
-yaya.  By  virtue  of  his  previous  root  of  goodness
+under  all  of  whom  he  promulgated  this  Dharmaparyaya.  By  virtue  of  his  previous  root  of  goodness
 he,  in  course  of  time,  propitiated  twenty  hundred
 thousand  myriads  of  ko/is  of  Tathagatas,  &c.,  all
 bearing  the  name  of  Dundubhisvarara^a,  and  under
 all  he  obtained  this  very  Dharmaparydya  of  the
 Lotus  of  the  True  Law  and  promulgated  it  to  the  four
 classes.  By  virtue  of  his  previous  root  of  goodness
-he  again,  in  course  of  time,  propitiated  twenty  hun-
-dred thousand  myriads  of  ko/is  of  Tathagatas,  &c.,
+he  again,  in  course  of  time,  propitiated  twenty  hundred thousand  myriads  of  ko/is  of  Tathagatas,  &c.,
 all  bearing  the  name  of  Meghasvarara^a,  and  under
 all  he  obtained  this  very  Dharmaparyaya  of  the
 Lotus  of  the  True  Law  and  promulgated  it  to  the  four
@@ -17650,11 +16363,9 @@ classes.  And  under  all  of  them  he  was  possessed  of
 the  afore-mentioned  perfectness  of  sight,  hearing,
 smell,  taste,  body,  and  mind.
 
-Now,  Mahasthamaprapta,  that  Bodhisattva  Maha-
-sattva Sadaparibhuta,  after  having  honoured,  re-
+Now,  Mahasthamaprapta,  that  Bodhisattva  Mahasattva Sadaparibhuta,  after  having  honoured,  re-
 spected, esteemed,  worshipped,  venerated,  revered  so
-many  hundred  thousand  myriads  of  ko/is  of  Tatha-
-gatas, and  after  having  acted  in  the  same  way  towards
+many  hundred  thousand  myriads  of  ko/is  of  Tathagatas, and  after  having  acted  in  the  same  way  towards
 
 1  From  the  sequel  it  appears  that  the  text  ought  to  have '  twenty
 hundred  thousand  myriads  of  ko/is.'
@@ -17663,30 +16374,24 @@ hundred  thousand  myriads  of  ko/is.'
 XIX.  SADAPARIBH^TA.  359
 
 many  hundred  thousand  myriads  of  ko/is  of  other
-Buddhas,  obtained  under  all  of  them  this  very  Dhar-
-maparyaya of  the  Lotus  of  the  True  Law,  and  owing
+Buddhas,  obtained  under  all  of  them  this  very  Dharmaparyaya of  the  Lotus  of  the  True  Law,  and  owing
 to  his  former  root  of  goodness  having  come  to  full
 development,  gained  supreme,  perfect  enlightenment.
 Perhaps,  Mahasthamaprapta,  thou  wilt  have  some
 doubt,  uncertainty,  or  misgiving,  and  think  that  he
-who  at  that  time,  at  that  juncture  was  the  Bodhisat-
-tva  Mahasattva  called  Sadaparibhuta  was  one,  and
-he  who  under  the  rule  of  that  Lord  Bhishmagar^i-
-tasvarara^a,  the  Tathagata,  &c.,  was  generally  called
+who  at  that  time,  at  that  juncture  was  the  Bodhisattva  Mahasattva  called  Sadaparibhuta  was  one,  and
+he  who  under  the  rule  of  that  Lord  Bhishmagar^itasvarara^a,  the  Tathagata,  &c.,  was  generally  called
 Sadaparibhuta  by  the  four  classes,  by  whom  so  many
 Tathagatas  were  propitiated,  was  another.  But  thou
 shouldst  not  think  so.  For  it  is  myself  who  at  that
-time,  at  that  juncture  was  the  Bodhisattva  Mahasat-
-tva Sadaparibhuta.  Had  I  not  formerly  grasped
+time,  at  that  juncture  was  the  Bodhisattva  Mahasattva Sadaparibhuta.  Had  I  not  formerly  grasped
 and  kept  this  Dharmaparyaya,  Mahasthamaprapta,  I
 should  not  so  soon  have  arrived  at  supreme,  perfect
 enlightenment.  It  is  because  I  have  kept,  read,
 preached  this  Dharmaparyaya  (derived)  from  the
-teaching  of  the  ancient  Tathagatas,  &c.,  Mahistha-
-maprapta,  that  I  have  so  soon  arrived  at  supreme,
+teaching  of  the  ancient  Tathagatas,  &c.,  Mahisthamaprapta,  that  I  have  so  soon  arrived  at  supreme,
 perfect  enlightenment.  As  to  the  hundreds  of
-monks,  nuns,  male  and  female  lay  devotees,  Maha-
-sthamaprapta, to  whom  under  that  Lord  the  Bodhi-
+monks,  nuns,  male  and  female  lay  devotees,  Mahasthamaprapta, to  whom  under  that  Lord  the  Bodhi-
 sattva Mahasattva  Sadaparibhuta  promulgated  this
 Dharmaparyaya  by  saying:  I  do  not  contemn  you ;  you
 all  observe  the  course  of  duty  of  Bodhisattvas  ;  you
@@ -17703,8 +16408,7 @@ thousand  ^Eons  they  suffered  terrible  pain  in  the
 great  hell  Avi/£i.  Thereafter  released  from  the
 ban,  they  by  the  instrumentality  of  that  Bodhisattva
 Mahasattva  were  all  brought  to  full  ripeness  for
-supreme,  perfect  enlightenment.  Perhaps,  Maha-
-sthamaprapta,  thou  wilt  have  some  doubt,  uncer-
+supreme,  perfect  enlightenment.  Perhaps,  Mahasthamaprapta,  thou  wilt  have  some  doubt,  uncer-
 tainty, or  misgiving  as  to  who  at  that  time,  at  that
 juncture  were  the  persons  hooting  and  laughing  at
 the  Bodhisattva  Mahasattva.  They  are,  in  this  very
@@ -17713,24 +16417,19 @@ Bhadrapala,  the  five  hundred  nuns  following  Simha.-
 £andra,  the  five  hundred  lay  devotees l  following
 Sugata/£etana,  who  all  of  them  have  been  rendered
 inflexible  in  supreme,  perfect  enlightenment.  So
-greatly  useful  it  is  to  keep  and  preach  this  Dharma-
-paryaya,  as  it  tends  to  result  for  Bodhisattvas  Maha-
+greatly  useful  it  is  to  keep  and  preach  this  Dharmaparyaya,  as  it  tends  to  result  for  Bodhisattvas  Maha-
 sattvas  in  supreme,  perfect  enlightenment.  Hence,
 Mahasthamaprapta,  the  Bodhisattvas  Mahasattvas
-should,  after  the  complete  extinction  of  the  Tatha-
-gata,  constantly  keep,  read,  and  promulgate  this
+should,  after  the  complete  extinction  of  the  Tathagata,  constantly  keep,  read,  and  promulgate  this
 Dharmaparyaya.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas  :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas  :
 
-1.  I  remember  a  past  period,  when  king  Bhlsh-
-masvara2,  the  (^ina,  lived,  very  mighty,  and  revered
+1.  I  remember  a  past  period,  when  king  Bhlshmasvara2,  the  (^ina,  lived,  very  mighty,  and  revered
 by  gods  and  men,  the  leader  of  men,  gods,  goblins,
 and  giants.
 
-2.  At  the  time   succeeding  the  complete  extinc-
-tion of  that  6"ina,  when  the  decay  of  the  true  law
+2.  At  the  time   succeeding  the  complete  extinction of  that  6"ina,  when  the  decay  of  the  true  law
 
 1  Upasaka,  the  masculine ;  this  does  not  suit,  but  on  the  other
 hand  it  must  be  admitted  that  the  omission  of  male  devotees  is  not
@@ -17760,8 +16459,7 @@ heard  this  Sutra.
 upon2  a  very  long  life,  and  promulgated  this  Sutra
 under  the  rule  of  that  leader.
 
-6.  And  those  many  (persons)  who  only  acknow-
-ledged  the   evidence   of  sensual   perception3   were
+6.  And  those  many  (persons)  who  only  acknowledged  the   evidence   of  sensual   perception3   were
 by  him  brought  to  full  ripeness  for  enlightenment.
 Then,  disappearing  from  that  place,  he  propitiated
 thousands  of  ko/is  of  Buddhas.
@@ -17771,8 +16469,7 @@ by   him,    and  to   his   constantly  promulgating   this
 Sutra,    that   son   of  G'ma,    reached    enlightenment.
 That  Bodhisattva  then  is  myself,  .Sakyamuni.
 
-8.  And  those  persons  who  only  believed  in  per-
-ception by  the    senses4,   those    monks,  nuns,   male
+8.  And  those  persons  who  only  believed  in  perception by  the    senses4,   those    monks,  nuns,   male
 and   female   lay  devotees   who   by  the   sage   were
 admonished  of  enlightenment,
 
@@ -17805,8 +16502,7 @@ are,  indeed,  hundreds  of  ko/is  of  Buddhas,  but  they
 do  not  elucidate  this  Sutra.
 
 12.  Therefore  let   one  who   has  heard  this  law
-exposed  by  the  Self-born  himself,  and  who  has  re-
-peatedly propitiated  him,  promulgate  this  Sutra  after
+exposed  by  the  Self-born  himself,  and  who  has  repeatedly propitiated  him,  promulgate  this  Sutra  after
 my  extinction  in  this  world.
 
 1  The  text  has
@@ -17825,12 +16521,10 @@ of  ko/is  of  Bodhisattvas  equal  to  the  dust-atoms  of
 a  macrocosm,  who  had  issued  from  the  gaps  of  the
 earth,  all  stretched  their  joined  hands  towards  the
 Lord,  and  said  unto  him :  We,  O  Lord,  will,  after
-the  complete  extinction  of  the  Tathagata,  promul-
-gate this  Dharmaparyaya  everywhere  (or  on  every
+the  complete  extinction  of  the  Tathagata,  promulgate this  Dharmaparyaya  everywhere  (or  on  every
 occasion)  in  all  Buddha-fields  of  the  Lord,  wherever
 (or  whenever)  the  Lord  shall  be  completely  extinct1.
-We  are  anxious  to  obtain  this  sublime  Dharma-
-paryaya, O  Lord,  in  order  to  keep,  read,  publish,
+We  are  anxious  to  obtain  this  sublime  Dharmaparyaya, O  Lord,  in  order  to  keep,  read,  publish,
 and  write  it.
 
 Thereupon  the  hundred  thousands  of  myriads  of
@@ -17840,8 +16534,7 @@ this  world ;  the  gods,  Nagas,  goblins,  Gandharvas,
 demons,  Garu^/as,  Kinnaras,  great  serpents,  men,
 and  beings  not  human,  and  the  many  Bodhisattvas
 Mahasattvas  equal  to  the  sands  of  the  river  Ganges,
-said  unto  the  Lord :  We  also,  O  Lord,  will  promul-
-gate this  Dharmaparyaya  after  the  complete  extinc-
+said  unto  the  Lord :  We  also,  O  Lord,  will  promulgate this  Dharmaparyaya  after  the  complete  extinc-
 tion of  the  Tathagata.  While  standing  with  an
 invisible  body  in  the  sky,  O  Lord,  we  will  send
 
@@ -17855,8 +16548,7 @@ forth  a  voice1,  and  plant  the  roots  of  goodness  of
 such  creatures  as  have  not  (yet)  planted  roots  of
 goodness.
 
-Then  the  Lord  addressed  the  Bodhisattva  Maha-
-sattva  Vi.rish/a/£aritra,  followed  by  a  troop,  a  great
+Then  the  Lord  addressed  the  Bodhisattva  Mahasattva  Vi.rish/a/£aritra,  followed  by  a  troop,  a  great
 troop,  the  master  of  a  troop,  who  was  the  very  first
 of  those  afore-mentioned  Bodhisattvas  Mahasattvas
 followed  by  a  troop,  a  great  troop,  masters  of  a
@@ -17872,23 +16564,20 @@ another,  and  from  their  opened  mouths  stretched  out
 their  tongues,  so  that  with  their  tongues  they  reached
 the  Brahma-world,  and  from  those  two  tongues  issued
 many  hundred  thousand  myriads  of  ko/is  of  rays3.
-From  each  of  those  rays  issued  many  hundred  thou-
-sand myriads  of  ko^is  of  Bodhisattvas,  with  gold-
+From  each  of  those  rays  issued  many  hundred  thousand myriads  of  ko^is  of  Bodhisattvas,  with  gold-
 coloured  bodies  and  possessed  of  the  thirty-two
 characteristic  signs  of  a  great  man,  and  seated  on
 thrones  consisting  of  the  interior  of  lotuses.  Those
 
 1  From  this   it  appears  that  the  abode  of  the  monks  &c.  in
-the  assembly  of  the  Lord  £akyamuni  is  in  the  sky,  at  least  occa-
-sionally.    Their  attribute  of  'an  invisible  body'  shows  them  to
+the  assembly  of  the  Lord  £akyamuni  is  in  the  sky,  at  least  occasionally.    Their  attribute  of  'an  invisible  body'  shows  them  to
 be  identical  with  the  videhas,  the  incorporeal  ones,  i.  e.  the  spirits
 of  the    blessed   departed,  Arhats,  Muktas,  Pitaras.     The  Pitaras
 form  the  assembly  of  Dharmara^a.
 
 2  Cf.  Chapter  XL
 
-3  It  is  quite  true  that  the  moon  as  well  as  the  sun  is  sahasra-
-ra-rmi,  possessed  of  thousand  rays,  but  it  is  difficult  to  under-
+3  It  is  quite  true  that  the  moon  as  well  as  the  sun  is  sahasrara-rmi,  possessed  of  thousand  rays,  but  it  is  difficult  to  under-
 stand how  the  Bhagavat  Prabhutaratna  can  show  his  magic  power
 in  his  state  of  extinction.
 
@@ -17896,11 +16585,9 @@ in  his  state  of  extinction.
 XX.     TRANSCENDENT  POWER  OF  THE  TATHAGATAS.      365
 
 Bodhisattvas  spread  in  all  directions  in  hundred
-thousands  of  worlds,  and  while  on  every  side  sta-
-tioned in  the  sky  preached  the  law.  Just  as  the
+thousands  of  worlds,  and  while  on  every  side  stationed in  the  sky  preached  the  law.  Just  as  the
 Lord  KSakyamuni,  the  Tathagata,  &c.,  produced  a
-miracle  of  magic  by  his  tongue,  so,  too,  Prabhuta-
-ratna,  the  Tathagata,  &c.,  and  the  other  Tathagatas,
+miracle  of  magic  by  his  tongue,  so,  too,  Prabhutaratna,  the  Tathagata,  &c.,  and  the  other  Tathagatas,
 &c.,  who,  having  flocked  from  hundred  thousands  of
 myriads  of  ko/is  of  other  worlds,  were  seated  on
 thrones  at  the  foot  of  jewel  trees,  by  their  tongues
@@ -17911,14 +16598,12 @@ those  Tathagatas,  &c.,  produced  that  magical  effect
 during  fully  a  thousand1  years.  After  the  lapse  of  that
 millennium  those  Tathagatas,  &c.,  pulled  back  their
 tongue,  and  all  simultaneously,  at  the  same  moment,
-the  same  instant,  made  a  great  noise  as  of  expector-
-ation2 and  of  snapping  the  fingers,  by  which  sounds
+the  same  instant,  made  a  great  noise  as  of  expectoration2 and  of  snapping  the  fingers,  by  which  sounds
 all  the  hundred  thousands  of  myriads  of  ko/'is  of
 Buddha-fields  in  every  direction  of  space  were
 moved,  removed,  stirred,  wholly  stirred,  tossed,
 tossed  forward,  tossed  along,  and  all  beings  in  all
-those  Buddha- fields,  gods,  Nagas,  goblins,  Gan-
-dharvas,  demons,  Garudas,  Kinnaras,  great  ser-
+those  Buddha- fields,  gods,  Nagas,  goblins,  Gandharvas,  demons,  Garudas,  Kinnaras,  great  ser-
 pents, men,  and  beings  not  human  beheld,  by  the
 power  of  the  Buddha,  from  the  place  where  they
 stood,  this  Saha-world.  They  beheld  the  hundred
@@ -17936,16 +16621,14 @@ extinct,  sitting  on  the  throne  in  the  centre  of  the
 366  SADDHARMA-PUtfDARlKA.  XX.
 
 Stupa  of  magnificent  precious  substances,  along  with
-the  Lord  -Sakyamuni,  the  Tathagata,  &c. ;  they  be-
-held, finally,  those  four  classes  of  the  audience.  At
+the  Lord  -Sakyamuni,  the  Tathagata,  &c. ;  they  beheld, finally,  those  four  classes  of  the  audience.  At
 this  sight  they  felt  struck  with  wonder,  amazement,
 and  rapture.  And  they  heard  a  voice  from  the  sky
 calling :  Worthies,  beyond  a  distance  of  an  immense,
 incalculable  number  of  hundred  thousands  of  myriads
 of  ko/is  of  worlds  there  is  the  world  named  Saha ;
 there  the  Tathagata  called  .Sakyamuni,  the  Arhat,
-&c.,  is  just  now  revealing  to  the  Bodhisattvas  Maha-
-sattvas  the  Dharmaparyaya  of  the  Lotus  of  the  True
+&c.,  is  just  now  revealing  to  the  Bodhisattvas  Mahasattvas  the  Dharmaparyaya  of  the  Lotus  of  the  True
 Law,  a  Sutranta  of  great  extent,  serving  to  instruct
 Bodhisattvas,  and  belonging  in  proper  to  all  Buddhas.
 Ye  accept  it  joyfully  with  all  your  heart,  and  do
@@ -17954,14 +16637,11 @@ and  the  Lord  Prabhutaratna,  the  Tathagata,  &c.
 
 On  hearing  such  a  voice  from  the  sky  all  those
 beings  exclaimed  from  the  place  where  they  stood,
-with  joined  hands :  Homage  to  the  Lord  Sakya-
-muni, the  Tathagata.  Then  they  threw  towards
+with  joined  hands :  Homage  to  the  Lord  Sakyamuni, the  Tathagata.  Then  they  threw  towards
 the  Saha-world  various  flowers,  incense,  fragrant
-wreaths,  ointment,  gold,  cloth,  umbrellas,  flags,  ban-
-ners, and  triumphal  streamers,  as  well  as  ornaments,
+wreaths,  ointment,  gold,  cloth,  umbrellas,  flags,  banners, and  triumphal  streamers,  as  well  as  ornaments,
 parures,  necklaces,  gems  and  jewels  of  all  sorts,  in
-order  to  worship  the  Lord  .Sakyamuni,  the  Tatha-
-gata 1,  and  this  Dharmaparyaya  of  the  Lotus  of  the
+order  to  worship  the  Lord  .Sakyamuni,  the  Tathagata 1,  and  this  Dharmaparyaya  of  the  Lotus  of  the
 True  Law.  Those  flowers,  incense,  &c.,  and  those
 necklaces,  &c.,  came  down  upon  this  Saha-world,
 where  they  formed  a  great  canopy  of  flowers  hanging
@@ -17977,15 +16657,13 @@ XX.     TRANSCENDENT  POWER  OF  THE  TATHAGATAS.      367
 
 Thereupon  the  Lord  addressed  the  Bodhisattvas
 Mahasattvas  headed  by  Vmsh^aMritra :  Inconceivable,
-young  men  of  good  family,  is  the  power  of  the  Tatha-
-gatas,  &c.  In  order  to  transmit  this  Dharmaparyaya,
+young  men  of  good  family,  is  the  power  of  the  Tathagatas,  &c.  In  order  to  transmit  this  Dharmaparyaya,
 young  men  of  good  family,  I  might  go  on  for  hundred
 thousands  of  myriads  of  ko/is  of  ^Eons  explaining
 the  manifold  virtues  of  this  Dharmaparyaya  through
 the  different  principles  of  the  law,  without  reaching
 the  end  of  those  virtues.  In  this  Dharmaparyaya
-I  have  succinctly  taught  all  Buddha-laws  (or  Buddha-
-qualities),  all  the  superiority,  all  the  mystery,  all  the
+I  have  succinctly  taught  all  Buddha-laws  (or  Buddhaqualities),  all  the  superiority,  all  the  mystery,  all  the
 profound  conditions  of  the  Buddhas.  Therefore,
 young  men  of  good  family,  you  should,  after  the
 complete  extinction  of  the  Tathagata,  with  reverence
@@ -17996,8 +16674,7 @@ meditated,  expounded,  studied  or  collected  into  a
 volume,  be  it  in  a  monastery  or  at  home,  in  the
 wilderness  or  in  a  town,  at  the  foot  of  a  tree  or  in
 a  palace,  in  a  building  or  in  a  cavern,  on  that  spot
-one  should  erect  a  shrine  in  dedication  to  the  Tatha-
-gata. For  such  a  spot  must  be  regarded  as  a  terrace
+one  should  erect  a  shrine  in  dedication  to  the  Tathagata. For  such  a  spot  must  be  regarded  as  a  terrace
 of  enlightenment ;  such  a  spot  must  be  regarded
 as  one  where  all  Tathagatas  &c.  have  arrived  at
 supreme,  perfect  enlightenment ;  on  that  spot  have
@@ -18005,8 +16682,7 @@ all  Tathagatas  moved  forward  the  wheel  of  the  law  ;
 on  that  spot  one  may  hold  that  all  Tathagatas  have
 reached  complete  extinction.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 
 1  Or  develop;  or  meditate,  bhavayitavya.     Burnouf  seems  to
@@ -18022,10 +16698,8 @@ their  unlimited  sight  display  their  magic  faculty  in
 order  to  gladden  all  living  beings  on  earth.
 
 2.  They   extend    their   tongue    over   the   whole
-world 2,  darting  thousands  of  beams  to  the  astonish-
-ment of  those  to  whom  this  effect  of  magic  is  dis-
-played and  who  are  making  for  supreme  enlighten-
-ment.
+world 2,  darting  thousands  of  beams  to  the  astonishment of  those  to  whom  this  effect  of  magic  is  dis-
+played and  who  are  making  for  supreme  enlightenment.
 
 3.  The  Buddhas  made  a  noise  of  expectoration
 and  of  snapping  the  fingers,  (and  by  it)  called  the
@@ -18040,8 +16714,7 @@ extinction  of  the  Sugata.
 
 5.  Even  if  I  continued  for  thousands  of  ko/is  of
 /Eons  speaking  the  praise  of  those  sons  of  Sugata
-who  shall  keep  this  eminent  Sutra  after  the  extinc-
-tion of  the  Leader  of  the  world,
+who  shall  keep  this  eminent  Sutra  after  the  extinction of  the  Leader  of  the  world,
 
 6.  I  should  not  have  terminated  the  enumeration
 of  their  qualities;  inconceivable  as  the  qualities  of
@@ -18075,8 +16748,7 @@ soon  comprehend  what  truth  it  was  that  was  arrived
 at  on  the  terrace  of  enlightenment.
 
 11.  The  quickness  of  his   apprehension  will  be
-unlimited ;  like  the  wind  he  will  nowhere  meet  im-
-pediments ;  he  knows  the  purport  and  interpretation
+unlimited ;  like  the  wind  he  will  nowhere  meet  impediments ;  he  knows  the  purport  and  interpretation
 of  the  law,  he  who  keeps  this  exalted  Sutra.
 
 12.  He  will,  after  some  reflection,  always  find  out
@@ -18084,8 +16756,7 @@ the  connection  of  the  Sutras  spoken  by  the  leaders  ;
 even  after  the  complete  extinction  of  the  leader  he
 will  grasp  the  real  meaning  of  the  Sutras.
 
-13.  He  resembles  the  moon  and  the  sun;  he  illu-
-minates all  around  him,  and  while  roaming  the  earth
+13.  He  resembles  the  moon  and  the  sun;  he  illuminates all  around  him,  and  while  roaming  the  earth
 in  different  directions  he  rouses  many  Bodhisattvas.
 
 14.  The  wise  Bodhisattvas  who,  after  hearing  the
@@ -18110,8 +16781,7 @@ robe  upon  one  shoulder  and  fixed  the  right  knee
 upon  the  ground  lifted  his  joined  hands  up  to  the
 Lord  and  said :  How  great,  O  Lord,  is  the  pious
 merit  which  will  be  produced  by  a  young  man  of
-good  family  or  a  young  lady  who  keeps  this  Dhar-
-maparyaya  of  the  Lotus  of  the  True  Law,  either
+good  family  or  a  young  lady  who  keeps  this  Dharmaparyaya  of  the  Lotus  of  the  True  Law,  either
 in  memory  or  in  a  book  ?  Whereupon  the  Lord
 said  to  the  Bodhisattva  Mahasattva  Bhaisha^yaraf a :
 Suppose,  Bhaisha^yara^a,  that  some  man  of  good
@@ -18120,8 +16790,7 @@ worships  hundred  thousands  of  myriads  of  ko/is  of
 Tathagatas  equal  to  the  sands  of  eighty  Ganges
 rivers ;  dost  thou  think,  Bhaisha^yara^a,  that  such  a
 young  man  or  young  lady  of  good  family  will  on
-that  account  produce  much  pious  merit  ?  The  Bo-
-dhisattva Bhaisha^yara^a  replied :  Yes,  Lord ;  yes,
+that  account  produce  much  pious  merit  ?  The  Bodhisattva Bhaisha^yara^a  replied :  Yes,  Lord ;  yes,
 Sugata.  The  Lord  said :  I  announce  to  thee,  Bhaisha-
 ^yara^-a,  I  declare  to  thee  :  any  young  man  or  young
 lady  of  good  family,  Bhaisha^yara^a,  who  shall  keep,
@@ -18134,8 +16803,7 @@ account  produce  far  more  pious  merit.
 
 XXI.  SPELLS.  371
 
-Then  the  Bodhisattva  Mahasattva  Bhaishafya-
-ra^a  immediately  said  to  the  Lord :  To  those  young
+Then  the  Bodhisattva  Mahasattva  Bhaishafyara^a  immediately  said  to  the  Lord :  To  those  young
 men  or  young  ladies  of  good  family,  O  Lord,  who
 keep  this  Dharmaparyaya  of  the  Lotus  of  the  True
 Law  in  their  memory  or  in  a  book,  we  will  give
@@ -18145,8 +16813,7 @@ same,  samitavi,  sante,  mukte,  muktatame,  same
 avishame,  samasame,  ^aye,  kshaye,  akshl^e,  sante
 sanl,  dharam  alokabhashe,  pratyaveksha^i,  nidhini,
 abhyantaravisish/e,  utkule  mutkule,  asa#fe,  parade,
-sukanksht,  asamasame,  buddhavilokite,  dharmapa-
-rikshite,  sanghanirghosha^i,  nirghosha^t  bhayabha-
+sukanksht,  asamasame,  buddhavilokite,  dharmaparikshite,  sanghanirghosha^i,  nirghosha^t  bhayabha-
 yasodhanl,  mantre  mantrakshayate,  rutakau^alye,
 akshaye,  akshavanataya,  vakule  valo^/a,  amanyataya 3.
 These  words  of  charms  and  spells,  O  Lord,  have
@@ -18159,20 +16826,16 @@ been  pronounced  by  reverend  Buddhas  (in  number)
 where  the  readings  would  seem  to  be  incorrect.
 
 3  The  list  in  BurnouPs  translation  seems  in  many  respects  more
-correct ;    it  is  as  follows :    anye  manye,  arau  parau  amane  ma-
-mane  &tte  £arite ;   same  -yamita  vijante,  mukte  muktatame  same
+correct ;    it  is  as  follows :    anye  manye,  arau  parau  amane  mamane  &tte  £arite ;   same  -yamita  vijante,  mukte  muktatame  same
 avisamasame,  ^aye  kshaye  akshaye  akshme  .rante  ramite  dharam
-Slokabhase  pratyavekshawi  dhiru  viviru  abhyantaranivish/e  abhyan-
-tarapari-ruddhi,    utkule   mukule    araafe    parade    sukahkshi    asama-
-same   buddhivilokite  dharmaparikshite  pratyavekshawi  sahghanir-
-ghoshawi     nirghosha«i    bhayavuodhani     mantre     mantrakshayate
+Slokabhase  pratyavekshawi  dhiru  viviru  abhyantaranivish/e  abhyantarapari-ruddhi,    utkule   mukule    araafe    parade    sukahkshi    asama-
+same   buddhivilokite  dharmaparikshite  pratyavekshawi  sahghanirghoshawi     nirghosha«i    bhayavuodhani     mantre     mantrakshayate
 rutakau^alya  akshayavanata  vakkulavaloka  amanyataye.    All  these
 words  are,  or  ought  to  be,  feminine  words  in  the  vocative.    I  take
 them    to    be   epithets    of  the    Great    Mother,  Nature   or  Earth,
 differently  called  Aditi,  Pragma,  Maya,  Bhavani,  Durga.     Any  a
 may    be    identified    with    the   Vedic    any  a,    inexhaustible,  and
-synonymous  with  aditi.     Most  of  the  other  terms  may  be  ex-
-plained as  synonymous  with  pra^wa  (e.g.  pratyavekshawi),
+synonymous  with  aditi.     Most  of  the  other  terms  may  be  explained as  synonymous  with  pra^wa  (e.g.  pratyavekshawi),
 with  nature  (kshaye  akshaye),  with  the  earth  (dharawi).
 
 B  b  2
@@ -18185,15 +16848,13 @@ these  Buddhas  would  be  offended  by  any  one  who
 would  attack  such  preachers,  such  keepers  of  the
 Sutranta.
 
-The  Lord  expressed  his  approval  to  the  Bodhi-
-sattva  Mahasattva  Bhaisha^yara^a  by  saying :  Very
+The  Lord  expressed  his  approval  to  the  Bodhisattva  Mahasattva  Bhaisha^yara^a  by  saying :  Very
 well,  Bhaisha^yara^a,  by  those  talismanic  words
 being  pronounced  out  of  compassion  for  creatures,
 the  common  weal  of  creatures  is  promoted ;  their
 guard,  defence,  and  protection  is  secured.
 
-Thereupon  the  Bodhisattva  Mahasattva  Pradana-
-sura  said  unto  the  Lord  :  I  also,  O  Lord,  will,  for  the
+Thereupon  the  Bodhisattva  Mahasattva  Pradanasura  said  unto  the  Lord  :  I  also,  O  Lord,  will,  for  the
 benefit  of  such  preachers,  give  them  talismanic  words,
 that  no  one  seeking  for  an  occasion  to  surprise  such
 preachers  may  find  the  occasion,  be  it  a  demon,  giant,
@@ -18234,8 +16895,7 @@ those  young  men  or  young  ladies  of  good  family,
 who  keep  this  Sutranta,  be  guarded,  be  safe.
 
 At  that  meeting  was  present  Virfo/^aka,  another
-of  the  four  rulers  of  the  cardinal  points,  sitting  sur-
-rounded and  attended  by  hundred  thousands  of
+of  the  four  rulers  of  the  cardinal  points,  sitting  surrounded and  attended  by  hundred  thousands  of
 myriads  of  ko/is  of  Kumbha^as.  He  rose  from
 his  seat,  put  his  upper  robe  upon  one  shoulder,  lifted
 his  joined  hands  up  to  the  Lord,  and  spoke  to  him
@@ -18245,8 +16905,7 @@ defend,  protect  such  preachers  as  are  qualified,  who
 keep  the  Sutranta  as  mentioned ;  viz.  aga^e  gane
 gauri  gandhari  &anda.\i  matangi  pukka-si  saiikule
 vrusali  svaha2.  These  talismanic  words,  O  Lord,
-have  been  pronounced  by  forty-two  hundred  thou-
-sand myriads  of  ko/is  of  Buddhas.  All  those
+have  been  pronounced  by  forty-two  hundred  thousand myriads  of  ko/is  of  Buddhas.  All  those
 Buddhas  would  be  offended  by  any  one  who  would
 attack  such  preachers  as  are  qualified.
 
@@ -18279,11 +16938,9 @@ the  following  words  of  spells :  iti  me,  iti  me,  iti  me,
 iti  me,  iti  me ;  nime  nime  nime  nime  nime ;  ruhe
 ruhe  ruhe  ruhe  ruhe ;  stuhe  stuhe  stuhe  stuhe  stuhe,
 svahcl.  No  one  shall  overpower  and  hurt  such
-preachers;  no  goblin,  giant,  ghost,  devil,  imp,  sor-
-cerer, spectre,  gnome ;  no  spirit  causing  epilepsy,  no
+preachers;  no  goblin,  giant,  ghost,  devil,  imp,  sorcerer, spectre,  gnome ;  no  spirit  causing  epilepsy,  no
 sorcerer  of  goblin  race,  no  sorcerer  of  not-human
-race,  no  sorcerer  of  human  race ;  no  sorcerer  pro-
-ducing tertian  ague,  quartian  ague,  quotidian  ague.
+race,  no  sorcerer  of  human  race ;  no  sorcerer  producing tertian  ague,  quartian  ague,  quotidian  ague.
 Even  if  in  his  dreams  he  has  visions  of  women,  men,
 boys  or  girls,  it  shall  be  impossible  that  they  hurt
 him.
@@ -18295,11 +16952,9 @@ addressed  the  Lord  with  the  following  stanzas :
 a  sprout  of  Symplocos  Racemosa,  who  after  hearing
 this  spell  would  attack  a  preacher.
 
-2.  He  shall  go  the  way  of  parricides  and  matri-
-cides, who  would  attack  a  preacher.
+2.  He  shall  go  the  way  of  parricides  and  matricides, who  would  attack  a  preacher.
 
-3.  He  shall  go  the  way  of  oil-millers  and  sesamum-
-pounders,  who  would  attack  a  preacher.
+3.  He  shall  go  the  way  of  oil-millers  and  sesamumpounders,  who  would  attack  a  preacher.
 
 1  Burnouf  has  Ma/uta/fendf.
 
@@ -18312,8 +16967,7 @@ xxi.  SPELLS.  375
 weights  and  measures,  who  would  attack  a  preacher.
 
 Thereafter  the  giantesses  headed  by  Kuntl  said
-unto  the  Lord :  We  also,  O  Lord,  will  afford  protec-
-tion to  such  preachers ;  we  will  procure  them  safety ;
+unto  the  Lord :  We  also,  O  Lord,  will  afford  protection to  such  preachers ;  we  will  procure  them  safety ;
 we  will  protect  them  against  assault  and  poison.
 Whereupon  the  Lord  said  to  those  giantesses  :  Very
 well,  sisters,  very  well ;  you  do  well  in  affording
@@ -18325,21 +16979,17 @@ and  entirely,  or  who,  possessing  the  text  of  it  in  a
 volume,  honour  it  with  flowers,  incense,  fragrant
 garlands,  ointment,  powder,  cloth,  flags,  banners,
 lamps  with  sesamum  oil,  lamps  with  scented  oil,
-lamps  with  ^Tampaka-scented  oil,  with  Varshika-
-scented  oil,  with  lotus-scented  oil,  with  jasmine-
+lamps  with  ^Tampaka-scented  oil,  with  Varshikascented  oil,  with  lotus-scented  oil,  with  jasmine-
 scented  oil ;  who  by  such-like  manifold  hundred
-thousand  manners  of  worshipping  shall  honour,  re-
-spect, revere,  venerate  (this  Sutra),  deserve  to  be
+thousand  manners  of  worshipping  shall  honour,  respect, revere,  venerate  (this  Sutra),  deserve  to  be
 guarded  by  thee  and  thy  suite,  Kuntl !
 
 And  while  this  chapter  on  spells  was  being
-expounded1,  sixty-eight  thousand  living  beings  re-
-ceived the  faculty  of  acquiescence  in  the  law  that
+expounded1,  sixty-eight  thousand  living  beings  received the  faculty  of  acquiescence  in  the  law  that
 has  no  origin.
 
 1  The  chapter  was,  properly  speaking,  not  expounded  at  all ;
-it  simply  contains  a  narrative  with  the  speeches  of  different  inter-
-locutors. It  may  be  observed  that  a  poetical  version  is  wanting.
+it  simply  contains  a  narrative  with  the  speeches  of  different  interlocutors. It  may  be  observed  that  a  poetical  version  is  wanting.
 
 
 176  SADDHARMA-PUJTDARiKA.  XXII.
@@ -18349,28 +16999,22 @@ CHAPTER  XXII.
 
 ANCIENT    DEVOTION1    OF    BHAISHAGYARAGA.
 
-Thereupon  the  Bodhisattva  Mahasattva  Naksha-
-trara^asankusumitabhi^a  spoke  to  the  Lord  as  fol-
+Thereupon  the  Bodhisattva  Mahasattva  Nakshatrara^asankusumitabhi^a  spoke  to  the  Lord  as  fol-
 lows :  Wherefore,  O  Lord,  does  the  Bodhisattva
-Bhaisha^yara^a  pursue  his  course2  in  this  Saha-
-world,  while  he  is  fully  aware  of  the  many  hundred
+Bhaisha^yara^a  pursue  his  course2  in  this  Sahaworld,  while  he  is  fully  aware  of  the  many  hundred
 thousands  of  myriads  of  ko^is  of  difficulties  he  has
 to  meet  ?  Let  the  Lord,  the  Tathagata,  &c.,  deign  to
-tell  us  any  part  of  the  course  of  duty  of  the  Bodhi-
-sattva Mahasattva  Bhaisha^yara^a,  that  by  hearing
+tell  us  any  part  of  the  course  of  duty  of  the  Bodhisattva Mahasattva  Bhaisha^yara^a,  that  by  hearing
 it  the  gods,  Nagas,  goblins,  Gandharvas,  demons,
 GaiWas,  Kinnaras,  great  serpents,  men,  and  beings
 not  human,  as  well  as  the  Bodhisattvas  Mahasattvas
-from  other  worlds  here  present,  and  these  great  dis-
-ciples here  may  be  content,  delighted,  overjoyed.
+from  other  worlds  here  present,  and  these  great  disciples here  may  be  content,  delighted,  overjoyed.
 
 And  the  Lord,  out  of  regard  to  that  request  of
-the  Bodhisattva  Mahasattva  Nakshatrara/asanku-
-sumitabhif  #a,  told  him  the  following :  Of  yore,  young
+the  Bodhisattva  Mahasattva  Nakshatrara/asankusumitabhif  #a,  told  him  the  following :  Of  yore,  young
 man  of  good  family,  at  a  past  epoch,  at  a  time  (as
 many)  JEons  ago  as  there  are  grains  of  sand  in  the
-river  Ganges,  there  appeared  in  the  world  a  Tatha-
-gata, &c.,  by  the  name  of  A'andravimalasurya-
+river  Ganges,  there  appeared  in  the  world  a  Tathagata, &c.,  by  the  name  of  A'andravimalasurya-
 prabhasa^rl 3,  endowed  with  science  and  conduct,  a
 
 1  Purvayoga;  cf.  foot-note,  p.  153.
@@ -18383,11 +17027,9 @@ the  sun.
 
 XXII.       ANCIENT  DEVOTION  OF  BHAISHAGYARAGA.       377
 
-Sugata,  &c.  &c.  Now  that  Tathagata,  &c.,  ATandra-
-vimalastaryaprabhasa^ri  had  a  great  assembly  of
+Sugata,  &c.  &c.  Now  that  Tathagata,  &c.,  ATandravimalastaryaprabhasa^ri  had  a  great  assembly  of
 eighty  ko/is1  of  Bodhisattvas  Mahasattvas  and  an
-assembly  of  disciples  equal  to  the  sands  of  seventy-
-two  Ganges  rivers.  His  spiritual  rule  was  exempt
+assembly  of  disciples  equal  to  the  sands  of  seventytwo  Ganges  rivers.  His  spiritual  rule  was  exempt
 from  the  female  sex,  and  his  Buddha-field  had  no
 hell,  no  brute  creation,  no  ghosts,  no  demons ;  it  was
 level,  neat,  smooth  as  the  palm  of  the  hand.  Its
@@ -18395,14 +17037,11 @@ floor  consisted  of  heavenly  lapis  lazuli,  and  it  was
 adorned  with  trees  of  jewel  and  sandal-wood  ;  inlaid
 with  a  multitude  of  jewels,  and  hung  with  long  bands
 of  silk,  and  scented  by  censors  made  of  jewels.  Under
-each  jewel  tree,  at  a  distance  not  farther  than  a  bow-
-shot, was  made  a  small  jewel-house2,  and  on  the  top
+each  jewel  tree,  at  a  distance  not  farther  than  a  bowshot, was  made  a  small  jewel-house2,  and  on  the  top
 of  those  small  jewel-houses  stood  a  hundred  ko/is  of
 angels  performing  a  concert  of  musical  instruments
-and  castanets,  in  order  to  honour  the  Lord  A'andra-
-vimalasuryaprabhasa-srl,  the  Tathagata,  &c.,  while
-that  Lord  was  extensively  expounding  this  Dharma-
-paryaya  of  the  Lotus  of  the  True  Law  to  the  great
+and  castanets,  in  order  to  honour  the  Lord  A'andravimalasuryaprabhasa-srl,  the  Tathagata,  &c.,  while
+that  Lord  was  extensively  expounding  this  Dharmaparyaya  of  the  Lotus  of  the  True  Law  to  the  great
 disciples  and  Bodhisattvas,  directing  himself3  to  the
 Bodhisattva  Mahasattva  Sarvasattvapriyadansana.
 Now,  Nakshatrara^asankusumitabhi^a,  the  lifetime
@@ -18426,8 +17065,7 @@ translation ;  Burnouf  renders  it  by  '  char  fait  de  pierreries.'
 378  SADDHARMA-PUJVDARIKA.  XXII.
 
 sattvapriyadanana  applied  himself  to  his  difficult
-course.  He  wandered  twelve  thousand  years  strenu-
-ously engaged  in  contemplation.  After  the  expira-
+course.  He  wandered  twelve  thousand  years  strenuously engaged  in  contemplation.  After  the  expira-
 tion of  those  twelve  thousand  years  he  acquired  the
 Samadhi  termed  Sarvarupasandarcana  (i.  e.  the  sight
 or  display  of  all  forms).  No  sooner  had  he  acquired
@@ -18435,12 +17073,10 @@ that  Samddhi  than  satisfied,  glad,  joyful,  rejoicing,
 and  delighted  he  made  the  following  reflection :  It  is
 owing  to  this  Dharmaparyaya  of  the  Lotus  of  the
 True  Law  that  I  have  acquired  the  Samadhi  of
-Sarvarupasandar-sana.  Then  he  made  another  reflec-
-tion :  Let  me  do  homage  to  the  Lord  Aandravimala-
+Sarvarupasandar-sana.  Then  he  made  another  reflection :  Let  me  do  homage  to  the  Lord  Aandravimala-
 suryaprabhasasrl  and  this  Dharmaparydya  of  the
 Lotus  of  the  True  Law.  No  sooner  had  he  entered
-upon  such  a  meditation  than  a  great  rain  of  Man-
-darava  and  great  Mandarava  flowers  fell  from  the
+upon  such  a  meditation  than  a  great  rain  of  Mandarava  and  great  Mandarava  flowers  fell  from  the
 upper  sky.  A  cloud  of  Kalanusarin  sandal  was
 formed,  and  a  rain  of  Uragasira  sandal  poured
 down.  And  the  nature  of  those  essences  was  so
@@ -18449,12 +17085,10 @@ Saha-world.
 
 After  a  while,  Nakshatrara^asankusumitabhi^a,
 the  Bodhisattva  Mahasattva  Sarvasattvapriyadanana
-rose  from  that  meditation  with  memory  and  full  con-
-sciousness, and  reflected  thus  :  This  display  of  magic
+rose  from  that  meditation  with  memory  and  full  consciousness, and  reflected  thus  :  This  display  of  magic
 power  is  not  likely  to  honour  the  Lord  and  Tathagata
 so  much  as  the  sacrifice  of  my  own  body  will  do1.
-Then  the  Bodhisattva  Mahdsattva  Sarvasattvapriya-
-darcana  instantly  began  to  eat  Agallochum,  Olibanum,
+Then  the  Bodhisattva  Mahdsattva  Sarvasattvapriyadarcana  instantly  began  to  eat  Agallochum,  Olibanum,
 and  the  resin  of  Boswellia  Thurifera,  and  to  drink  oil
 of  A'ampaka2.  So,  Nakshatrara/asahkusumitdbhi^a,
 
@@ -18468,18 +17102,15 @@ XXII.      ANCIENT  DEVOTION  OF  BHAISHAGYARAGA.        379
 
 the  Bodhisattva  Mahdsattva  Sarvasattvapriyadarsana
 passed  twelve  years  in  always  and  constantly  eating
-those  fragrant  substances  and  drinking  oil  of  Aam-
-paka.  After  the  expiration  of  those  twelve  years
+those  fragrant  substances  and  drinking  oil  of  Aampaka.  After  the  expiration  of  those  twelve  years
 the  Bodhisattva  Mahasattva  Sarvasattvapriyadarcana
 wrapped  his  body  in  divine  garments,  bathed l  it  in
 oil,  made  his  (last)  vow,  and  thereafter  burnt  his
 own  body  with  the  object  to  pay  worship  to  the
 Tathagata  and  this  Dharmaparyaya  of  the  Lotus  of
-the  True  Law.  Then,  Nakshatrara^asarikusumita-
-bhi^/Za,  eighty  worlds 2  equal  to  the  sands  of  the  river
+the  True  Law.  Then,  Nakshatrara^asarikusumitabhi^/Za,  eighty  worlds 2  equal  to  the  sands  of  the  river
 Ganges  were  brightened  by  the  glare  of  the  flames
-from  the  blazing  body  of  the  Bodhisattva  Mahasat-
-tva Sarvasattvapriyadanana,  and  the  eighty3  Lords
+from  the  blazing  body  of  the  Bodhisattva  Mahasattva Sarvasattvapriyadanana,  and  the  eighty3  Lords
 Buddhas4  equal  to  the  sands  of  the  Ganges  in  those
 worlds  all  shouted  their  applause,  (and  exclaimed) :
 Well  done,  well  done,  young  man  of  good  family,
@@ -18515,8 +17146,7 @@ royalty,  the  abandoning  of  beloved  children  and
 wife.  Sacrificing  one's  own  body,  young  man  of
 good  family,  is  the  most  distinguished,  the  chiefest,
 the  best,  the  very  best,  the  most  sublime  worship
-of  the  law.  After  pronouncing  this  speech,  Naksha-
-trara^asankusumitabhi^a,  those  Lords  Buddhas
+of  the  law.  After  pronouncing  this  speech,  Nakshatrara^asankusumitabhi^a,  those  Lords  Buddhas
 were  silent.
 
 The  body  of  Sarvasattvapriyadarsana  continued
@@ -18527,10 +17157,8 @@ Nakshatrara^asankusumitabhi^a,  the  Bodhisattva
 Mahasattva  Sarvasattvapriyadansana,  having  paid
 such  worship  to  the  Tathagata,  disappeared  from
 that  place,  and  (re)appeared  under  the  (spiritual)
-reign  of  that  very  Lord  A"andravimalasuryapra-
-bhasa-srl,  the  Tathagata,  &c.,  in  the  house  of  king
-Vimaladatta,  by  apparitional  birth,  and  sitting  cross-
-legged.  Immediately  after  his  appearance  the
+reign  of  that  very  Lord  A"andravimalasuryaprabhasa-srl,  the  Tathagata,  &c.,  in  the  house  of  king
+Vimaladatta,  by  apparitional  birth,  and  sitting  crosslegged.  Immediately  after  his  appearance  the
 Bodhisattva  Mahasattva  Sarvasattvapriyadarsana
 addressed  his  father  and  mother  in  the  following
 stanza :
@@ -18540,11 +17168,9 @@ I  have  acquired  meditation ;  I  have  achieved  a
 heroical  feat,  fulfilled  a  great  vote  by  sacrificing
 my  own  dear  body.
 
-After  uttering  this  stanza,  Nakshatrara^asanku-
-sumitabhi^a,  the  Bodhisattva  Mahasattva  Sarva-
+After  uttering  this  stanza,  Nakshatrara^asankusumitabhi^a,  the  Bodhisattva  Mahasattva  Sarva-
 sattvapriyadaryana  said  to  his  father  and  mother :
-Even  now,  father  and  mother,  the  Lord  Aandra-
-vimalasuryaprabhasa^ri,  the  Tathagata,  &c.,  is  still
+Even  now,  father  and  mother,  the  Lord  Aandravimalasuryaprabhasa^ri,  the  Tathagata,  &c.,  is  still
 living,  existing,  staying  in  the  world,  the  Lord  by
 worshipping  whom  I  have  obtained  the  spell  of
 
@@ -18552,13 +17178,11 @@ worshipping  whom  I  have  obtained  the  spell  of
 XXII.       ANCIENT  DEVOTION  OF  BHAISHAGYARAGA.       381
 
 knowing  all  sounds1  and  this  Dharmaparyaya  of  the
-Lotus  of  the  True  Law,  consisting  of  eighty  hun-
-dred thousand  myriads  of  ^otis  of  stanzas,  of  a
+Lotus  of  the  True  Law,  consisting  of  eighty  hundred thousand  myriads  of  ^otis  of  stanzas,  of  a
 hundred  Niyutas2,  of  Vivaras3,  of  a  hundred  Vivaras,
 which  I  have  heard  from  that  Lord.  Therefore,
 father  and  mother,  I  should  like  to  go  to  that  Lord
-and  worship  him  again.  Instantaneously,  Naksha-
-trara^asankusumitabhi^a,  the  Bodhisattva  Maha-
+and  worship  him  again.  Instantaneously,  Nakshatrara^asankusumitabhi^a,  the  Bodhisattva  Maha-
 sattva  Sarvasattvapriyadaryana  rose  seven  talas4
 high  into  the  sky  and  sat  cross-legged  on  the  top  of
 a  tower  of  seven  precious  substances.  So  he  went  up
@@ -18602,11 +17226,9 @@ Lord  A'andravimalasuryaprabhasa.yr!,  the  Tathagata,
 &c.,  replied  :  The  time  of  my  final  extinction,  young
 man  of  good  family,  has  arrived ;  the  time  of  my
 death  has  arrived.  Therefore,  young  man  of  good
-family,  prepare  my  couch ;  I  am  going  to  enter  com-
-plete extinction.  Then,  Nakshatrara^asankusumi-
+family,  prepare  my  couch ;  I  am  going  to  enter  complete extinction.  Then,  Nakshatrara^asankusumi-
 tabhi^a,  the  Lord  A'andravimalasuryaprabhasa^rl
-said  to  the  Bodhisattva  Mahasattva  Sarvasattva-
-priyadaryana :  I  entrust  to  thee,  young  man  of  good
+said  to  the  Bodhisattva  Mahasattva  Sarvasattvapriyadaryana :  I  entrust  to  thee,  young  man  of  good
 family,  my  commandment  (or  mastership,  rule) ;  I
 entrust  to  thee  these  Bodhisattvas  Mahasattvas,
 these  great  disciples,  this  Buddha-enlightenment,  this
@@ -18614,8 +17236,7 @@ world,  these  jewel  cars,  these  jewel  trees,  and  these
 angels,  my  servitors.  I  entrust  to  thee  also,  young
 man  of  good  family,  my  relics  after  my  complete
 extinction.  Thou  shouldst  pay  a  great  worship  to
-my  relics,  young  man  of  good  family,  and  also  dis-
-tribute them  and  build  many  thousands  of  Stupas.
+my  relics,  young  man  of  good  family,  and  also  distribute them  and  build  many  thousands  of  Stupas.
 And,  Nakshatrara^asankusumitabhi^a,  after  the
 Lord  .Arandravimalasuryaprabhasa.$Ti,  the  Tathagata,
 &c.,  had  given  these  instructions  to  the  Bodhisattva
@@ -18624,13 +17245,11 @@ watch  of  the  night  entered  absolute  final  extinction l.
 
 Thereupon,  Nakshatrara^asahkusumitabhi^a,  the
 Bodhisattva  Mahasattva  Sarvasattvapriyadarcana,
-perceiving  that  the  Lord  A'andravimalasuryapra-
-bhasa^rl,  the  Tathagata,  &c.,  had  expired,  made
+perceiving  that  the  Lord  A'andravimalasuryaprabhasa^rl,  the  Tathagata,  &c.,  had  expired,  made
 a  pyre  of  Uragasara  sandal-wood  and  burnt  the
 
 1  It  is  sufficiently  clear  that  the  Nirvana  of  this  Tathagata  is
-the  end  of  a  day  of  twenty-four  hours,  and  that  Sarvasattvapriya-
-darjana  is  the  new  day.
+the  end  of  a  day  of  twenty-four  hours,  and  that  Sarvasattvapriyadarjana  is  the  new  day.
 
 
 XXTT.        ANCIENT  DEVOTION  OF  BHAISHAGYARAGA.       383
@@ -18638,21 +17257,16 @@ XXTT.        ANCIENT  DEVOTION  OF  BHAISHAGYARAGA.       383
 body  of  the  Tathagata.  When  he  saw  that  the
 body  was  burnt  to  ashes  and  the  fire  extinct,  he
 took  the  bones1  and  wept,  cried  and  lamented.
-After  having  wept,  cried  and  lamented,  Nakshatra-
-ra^asankusumitabhi^a,  the  Bodhisattva  Mahasattva
-Sarvasattvapriyadaryana  caused  to  be  made  eighty-
-four  thousand  urns  of  seven  precious  substances,
+After  having  wept,  cried  and  lamented,  Nakshatrara^asankusumitabhi^a,  the  Bodhisattva  Mahasattva
+Sarvasattvapriyadaryana  caused  to  be  made  eightyfour  thousand  urns  of  seven  precious  substances,
 deposed  in  them  the  bones  of  the  Tathagata,  founded
 eighty-four  thousand  Stupas 2,  reaching  in  height  to
 the  Brahma-world,  adorned  with  a  row  of  umbrellas,
 and  equipped  with  silk  bands  and  bells.  After
-founding  those  Stupas  he  made  the  following  re-
-flection :  I  have  paid  honour  to  the  Tathagata-relics
+founding  those  Stupas  he  made  the  following  reflection :  I  have  paid  honour  to  the  Tathagata-relics
 of  the  Lord  A'andravimalasuryaprabhasa.yrl,  but  I
-will  pay  to  those  relics  a  yet  loftier  and  most  dis-
-tinguished honour.  Then,  Nakshatrara^asankusu-
-mitabhi^a,  the  Bodhisattva  Mahasattva  Sarva-
-sattvapriyadarsana  addressed  that  entire  assembly
+will  pay  to  those  relics  a  yet  loftier  and  most  distinguished honour.  Then,  Nakshatrara^asankusu-
+mitabhi^a,  the  Bodhisattva  Mahasattva  Sarvasattvapriyadarsana  addressed  that  entire  assembly
 of  Bodhisattvas,  those  great  disciples,  those  gods,
 Nagas,  goblins,  Gandharvas,  demons,  Garudas,
 Kinnaras,  great  serpents,  men,  and  beings  not
@@ -18678,8 +17292,7 @@ Priyadarrana.
 384  SADDHARMA-PUJVDARfKA.  XXII.
 
 mously  vow  to  pay  worship  to  the  relics  of  the
-Lord.  Immediately  after,  Nakshatrara^iasarikusu-
-mitabhi^a,  the  Bodhisattva  Mahasattva  Sarva-
+Lord.  Immediately  after,  Nakshatrara^iasarikusumitabhi^a,  the  Bodhisattva  Mahasattva  Sarva-
 sattvapriyadan?ana,  in  presence  of  those  eighty-four
 thousand  Stupas,  burnt  his  own  arm  which  was
 marked  by  the  one  hundred  auspicious  signs,  and
@@ -18693,15 +17306,11 @@ Sarvarupasandarcana.
 
 Then,  Nakshatrara^asankusumitabhi^a,  the  entire
 assembly  of  Bodhisattvas  and  all  great  disciples,
-seeing  the  Bodhisattva  Mahasattva  Sarvasattvapri-
-yadaryana  deprived  of  a  limb,  said,  with  tears  in
-their  eyes,  weeping,  crying,  lamenting :  The  Bodhi-
-sattva Mahasattva  Sarvasattvapriyadar^ana,  our
+seeing  the  Bodhisattva  Mahasattva  Sarvasattvapriyadaryana  deprived  of  a  limb,  said,  with  tears  in
+their  eyes,  weeping,  crying,  lamenting :  The  Bodhisattva Mahasattva  Sarvasattvapriyadar^ana,  our
 master  and  instructor,  is  now  deprived  of  a  limb,
-deprived  of  one  arm.  But  the  Bodhisattva  Maha-
-sattva Sarvasattvapriyadaryana  addressed  those
-Bodhisattvas,  great  disciples,  and  angels  in  the  fol-
-lowing terms :  Do  not,  young  men  of  good  family,
+deprived  of  one  arm.  But  the  Bodhisattva  Mahasattva Sarvasattvapriyadaryana  addressed  those
+Bodhisattvas,  great  disciples,  and  angels  in  the  following terms :  Do  not,  young  men  of  good  family,
 weep,  cry,  lament  at  the  sight  of  my  being  deprived
 of  one  arm.  All  the  Lords  Buddhas  who  be,  exist,
 live  in  the  endless,  limitless  worlds  in  every  direction
@@ -18717,8 +17326,7 @@ it  was  before,  and  let  the  great  earth  shake  in  six
 XXII.      ANCIENT   DEVOTION    OF    BHAISHAGYARAGA.      385
 
 different  ways,  and  let  the  angels  in  the  sky  pour
-down  a  rain  of  flowers.  No  sooner,  Nakshatrara^a-
-sankusumitabhi^a,  had  the  Bodhisattva  Mahasattva
+down  a  rain  of  flowers.  No  sooner,  Nakshatrara^asankusumitabhi^a,  had  the  Bodhisattva  Mahasattva
 Sarvasattvapriyadarcana  made  that  vow  of  truth,
 than  the  whole  triple  macrocosm  was  shaken  in
 six  different  ways,  and  from  the  sky  aloft  fell  a
@@ -18726,18 +17334,14 @@ great  rain  of  flowers.  The  arm  of  the  Bodhisattva
 Mahasattva  Sarvasattvapriyadaryana  became  again
 as  it  was  before,  and  that  by  the  power  of  knowledge
 and  by  the  power  of  pious  merit  belonging  to  that
-Bodhisattva  Mahasattva.  Perhaps,  Nakshatrara^a-
-sankusumitabhi^a,  thou  wilt  have  some  doubt,
-uncertainty  or  misgiving,  (and  think)  that  the  Bodhi-
-sattva Mahasattva  Sarvasattvapriyadanrana  at  that
+Bodhisattva  Mahasattva.  Perhaps,  Nakshatrara^asankusumitabhi^a,  thou  wilt  have  some  doubt,
+uncertainty  or  misgiving,  (and  think)  that  the  Bodhisattva Mahasattva  Sarvasattvapriyadanrana  at  that
 time,  and  that  epoch,  was  another.  But  do  not  think
 so ;  for  the  Bodhisattva  Mahasattva  Bhaisha^yara^a
-here  was  at  that  time,  and  that  epoch,  the  Bodhisat-
-tva Mahasattva  Sarvasattvapriyadaryana.  So  many
+here  was  at  that  time,  and  that  epoch,  the  Bodhisattva Mahasattva  Sarvasattvapriyadaryana.  So  many
 hundred  thousand  myriads  of  kotis  of  difficult  things,
 Nakshatrara^asahkusumitabhi^a,  and  sacrifices1  of
-his  body  does  this  Bodhisattva  Mahasattva  Sarva-
-sattvapriyadansana  accomplish.  Now,  Nakshatra-
+his  body  does  this  Bodhisattva  Mahasattva  Sarvasattvapriyadansana  accomplish.  Now,  Nakshatra-
 ra^asahkusumitabhi^a,  the  young  man  or  young
 lady  of  good  family  striving  in  the  Bodhisattva
 vehicle  towards  the  goal  and  longing  for  supreme,
@@ -18760,15 +17364,11 @@ to  arise  anew  from  his  ashes,  and  to  be  reborn.
 
 dom,  sons,  daughters,  and  wives,  the  whole  triple
 world  with  its  woods,  oceans,  mountains,  springs,
-streams,  tanks,  wells,  and  gardens.  And,  Naksha-
-trara^asahkusumitabhi^a,  the  young  man  or  young
-lady  of  good  family,  striving  in  the  Bodhisattva-
-vehicle  for  the  goal,  who  after  filling  with  the  seven
+streams,  tanks,  wells,  and  gardens.  And,  Nakshatrara^asahkusumitabhi^a,  the  young  man  or  young
+lady  of  good  family,  striving  in  the  Bodhisattvavehicle  for  the  goal,  who  after  filling  with  the  seven
 precious  substances  this  whole  triple  world  should
-give  it  in  alms  to  all  Buddhas,  Bodhisattvas,  dis-
-ciples, Pratyekabuddhas,  that  young  man  or  young
-lady  of  good  family,  Nakshatrara^asahkusumita-
-bhi^Tza,  does  not  produce  so  much  pious  merit  as
+give  it  in  alms  to  all  Buddhas,  Bodhisattvas,  disciples, Pratyekabuddhas,  that  young  man  or  young
+lady  of  good  family,  Nakshatrara^asahkusumitabhi^Tza,  does  not  produce  so  much  pious  merit  as
 a  young  man  or  young  lady  of  good  family  who
 shall  keep,  were  it  but  a  single  verse  from  this
 Dharmaparyaya  of  the  Lotus  of  the  True  Law.  I
@@ -18778,13 +17378,10 @@ the  whole  triple  world  with  the  seven  precious
 substances,  bestows  it  in  alms  on  all  Buddhas,
 Bodhisattvas,  disciples,  or  Pratyekabuddhas.
 
-Just  as  the  great  ocean,  Nakshatrara^asankusu-
-mitabhi^a,  surpasses  all  springs,  streams,  and  tanks,
-so,  Nakshatrara^asahkusumitabhi^a,  this  Dharma-
-paryaya of  the  Lotus  of  the  True  Law  surpasses  all
+Just  as  the  great  ocean,  Nakshatrara^asankusumitabhi^a,  surpasses  all  springs,  streams,  and  tanks,
+so,  Nakshatrara^asahkusumitabhi^a,  this  Dharmaparyaya of  the  Lotus  of  the  True  Law  surpasses  all
 Sutras  spoken  by  the  Tathagata1.  Just  as  the
-Sumeru,  the  king  of  mountains,  Nakshatrara^a-
-sankusumitabhi^a,  all  elevations  at  the  cardinal
+Sumeru,  the  king  of  mountains,  Nakshatrara^asankusumitabhi^a,  all  elevations  at  the  cardinal
 points 2,  horizon  circles  and  great  horizons 3,  so,
 
 1  Or,  the  Tathagatas.    The  same  alternative  in  the  sequel.    All
@@ -18795,35 +17392,28 @@ the  sentient  principle,  the  atman;  Satapatha-Brahma»aXIV,5,  4,10.
 2  Kalaparvata,  literally,  'time  mountain,'  because  the  points  of
 rising  and  setting  are  called  parvata,  giri,  &c.,  mountain  in  Sanskrit.
 
-1  The  whole  horizon  is  also  an  apparent  elevation  and  there-
-fore likewise  called  parvata,  &c.
+1  The  whole  horizon  is  also  an  apparent  elevation  and  therefore likewise  called  parvata,  &c.
 
 
 XXII.      ANCIENT   DEVOTION   OF    BHAISHAGYARAGA.      387
 
-Nakshatrari^asankusumitabhi^a,  this  Dharmapar-
-yaya of  the  Lotus  of  the  True  Law  surpasses  as  a
+Nakshatrari^asankusumitabhi^a,  this  Dharmaparyaya of  the  Lotus  of  the  True  Law  surpasses  as  a
 king  all  the  Sutrantas  spoken  by  the  Tathagata.
 As  the  moon,  Nakshatrara^asankusumitabhi^a,  as
 a  luminary,  takes  the  first  rank  amongst  the  whole
-of  the  asterisms,  so,  Nakshatrara^asahkusumita-
-bhigna.,  this  Dharmaparyaya  of  the  Lotus  of  the
+of  the  asterisms,  so,  Nakshatrara^asahkusumitabhigna.,  this  Dharmaparyaya  of  the  Lotus  of  the
 True  Law  ranks  first  amongst  all  Sutrantas  spoken
 by  the  Tathagata,  though  it  surpasses  hundred
 thousands  of  myriads  of  ko/is  of  moons.  As  the
 orb  of  the  sun,  Nakshatrara^asaiikusumitabhi^a,
-dispels  gloomy  darkness,  so,  Nakshatrara^asarikusu-
-mitabhi^a,  this  Dharmapayaya  of  the  Lotus  of  the
+dispels  gloomy  darkness,  so,  Nakshatrara^asarikusumitabhi^a,  this  Dharmapayaya  of  the  Lotus  of  the
 True  Law  dispels  all  the  gloomy  darkness  of  unholy
 works.  As  Indra,  Nakshatrara^asankusumitabhi^a,
-is  the  chief  of  the  gods  of  paradise,  so,  Nakshatra-
-ra^-asahkusumitabhi^a,  this  Dharmaparyaya  of  the
+is  the  chief  of  the  gods  of  paradise,  so,  Nakshatrara^-asahkusumitabhi^a,  this  Dharmaparyaya  of  the
 Lotus  of  the  True  Law  is  the  chief  of  Sutrantas  spoken
-by  the  Tathagata.  As  Brahma  Sahampati,  Naksha-
-trara^asankusumitabhi^a,  is  the  king  of  all  Brahma-
+by  the  Tathagata.  As  Brahma  Sahampati,  Nakshatrara^asankusumitabhi^a,  is  the  king  of  all  Brahma-
 kayika  gods  and  exercises  the  function  of  a  father
-in  the  Brahma  world,  so,  Nakshatrara^asankusu-
-mitabhi^a,  this  Dharmaparyaya  of  the  Lotus  of
+in  the  Brahma  world,  so,  Nakshatrara^asankusumitabhi^a,  this  Dharmaparyaya  of  the  Lotus  of
 the  True  Law  exercises  the  function  of  a  father  to
 all  beings,  whether  under  training  or  past  it,  to  all
 disciples,  Pratyekabuddhas,  and  those  who  in  the
@@ -18834,8 +17424,7 @@ Pratyekabuddha,  excels  the  ignorant  people  and  the
 profanum  vulgus,  so,  Nakshatrara^asankusumita-
 
 1  Terms  denoting  the  four  degrees  of  sanctification,  answering  to
-the  Prathamakalpika,  Madhubhfimika,  Prag^agyotis,  and  Atikranta-
-bhavaniya  in  the  Yoga  system  ;  Yogajdstra  III,  50,  commentary.
+the  Prathamakalpika,  Madhubhfimika,  Prag^agyotis,  and  Atikrantabhavaniya  in  the  Yoga  system  ;  Yogajdstra  III,  50,  commentary.
 
 C  C  2
 
@@ -18846,17 +17435,14 @@ C  C  2
 i^-wa,  the  Dharmaparyaya  of  the  Lotus  of  the  True
 Law  must  be  held  to  excel  and  surpass  all  Sutrantas
 spoken  by  the  Tathagata  ;  and  such  as  shall  keep
-this  king  of  Sutras,  Nakshatrarafasankusumitabhi-
-gnz,  must  be  held  to  surpass  others  (who  do  not).
+this  king  of  Sutras,  Nakshatrarafasankusumitabhignz,  must  be  held  to  surpass  others  (who  do  not).
 As  a  Bodhisattva  is  accounted  superior  to  all
-disciples  and  Pratyekabuddhas,  so,  Nakshatrara^a-
-sankusumitabhi^a,  this  Dharmaparyaya  of  the
+disciples  and  Pratyekabuddhas,  so,  Nakshatrara^asankusumitabhi^a,  this  Dharmaparyaya  of  the
 Lotus  of  the  True  Law  is  accounted  superior  to  all
 Sutrantas  spoken  by  the  Tathagata.  Even  as  the
 Tathagata  is  the  crowned  king  of  the  law  l  of  all
 disciples,  Pratyekabuddhas,  and  Bodhisattvas,  so,
-Nakshatrara^asankusumitabhi^a,  this  Dharmapar-
-yaya is  a  Tathagata  in  respect  to  those  who  in  the
+Nakshatrara^asankusumitabhi^a,  this  Dharmaparyaya is  a  Tathagata  in  respect  to  those  who  in  the
 vehicle  of  Bodhisattvas  are  striving  to  reach
 the  goal.  This  Dharmaparyaya  of  the  Lotus  of  the
 True  Law,  Nakshatrara^asankusumitabhi^a,  saves
@@ -18869,8 +17455,7 @@ who  ferry  over,  like  a  leech  for  the  sick,  like  a  lamp
 for  those  who  are  wrapt  in  darkness,  like  a  jewel  for
 those  who  want  wealth,  like  the  ocean  for  the  rivers,
 like  a  torch  for  the  dispelling  of  darkness.  So,
-Nakshatrara^asankusumitabhi^a,  this  Dharmapar-
-yaya of  the  Lotus  of  the  True  Law  delivers  from  all
+Nakshatrara^asankusumitabhi^a,  this  Dharmaparyaya of  the  Lotus  of  the  True  Law  delivers  from  all
 evils,  extirpates  all  diseases,  releases  from  the  narrow
 bonds  of  the  mundane  whirl  2.  And  he  who  shall
 hear  this  Dharmaparyaya  of  the  Lotus  of  the  True
@@ -18895,16 +17480,14 @@ powder,  umbrellas, flags,  banners,  triumphal  streamers,
 with  music,  with  joining  of  hands,  with  lamps  burning
 with  ghee,  scented  oil,  A^ampaka  oil,  jasmine  oil,
 trumpet-flower  oil,  Varshika  oil  or  double  jasmine  oil.
-Great  will  be  the  pious  merit,  Nakshatrara^a-
-saiikusumitabhi^a,  to  be  produced  by  a  young  man
+Great  will  be  the  pious  merit,  Nakshatrara^asaiikusumitabhi^a,  to  be  produced  by  a  young  man
 of  good  family  or  a  young  lady  striving  to  reach  the
 goal  in  the  Bodhisattva- vehicle,  who  shall  keep  this
 chapter  of  the  Ancient  Devotion  of  Bhaisha^yara^ a,
 who  shall  read  and  learn  it.  And,  Nakshatrara^a,
 should  a  female,  after  hearing  this  Dharmaparyaya,
 grasp  and  keep  it,  then  this  existence  will  be  her
-last  existence  as  a  woman.  Any  female,  Nakshatra-
-ra^asarikusumitabhi^a,  who  in  the  last  five  hundred
+last  existence  as  a  woman.  Any  female,  Nakshatrara^asarikusumitabhi^a,  who  in  the  last  five  hundred
 years  of  the  millennium  shall  hear  and  penetrate
 this  chapter  of  the  Ancient  Devotion  of  Bhaisha-
 ^yara^a,  will  after  disappearing  from  earth  be
@@ -18923,30 +17506,24 @@ no  affection,  no  hatred,  no  infatuation,  no  pride,  no
 envy,  no  wrath,  no  malignity  will  vex  him.  With
 his  birth  he  will  also  receive  the  five  transcendent
 faculties,  as  well  as  the  acquiescence  in  the  eternal
-law,  and,  once  in  possession  thereof,  Nakshatrara^a-
-sahkusumitabhi^a,  he  as  a  Bodhisattva  Mahasattva
-will  see  Tathagatas  equal  to  the  sands  of  seventy-
-two  rivers  Ganges 1.  So  perfect  will  be  his  organ
+law,  and,  once  in  possession  thereof,  Nakshatrara^asahkusumitabhi^a,  he  as  a  Bodhisattva  Mahasattva
+will  see  Tathagatas  equal  to  the  sands  of  seventytwo  rivers  Ganges 1.  So  perfect  will  be  his  organ
 of  sight  that  by  means  thereof  he  shall  see  those
 Lords  Buddhas,  which  Lords  Buddhas  will  applaud
 him  (and  say) :  Well  done,  well  done,  young  man
-of  good  family,  that  after  hearing  this  Dharma-
-paryaya  of  the  Lotus  of  the  True  Law  which  has
+of  good  family,  that  after  hearing  this  Dharmaparyaya  of  the  Lotus  of  the  True  Law  which  has
 been  promulgated  by  the  spiritual  proclamation  of
 the  Lord  .Sakyamuni,  the  Tathagata,  &c.,  thou  hast
-studied,  meditated,  examined,  minded  it,  and  ex-
-pounded it  to  other  beings,  other  persons.  This
+studied,  meditated,  examined,  minded  it,  and  expounded it  to  other  beings,  other  persons.  This
 accumulation  of  thy  pious  merit,  young  man  of  good
 family,  cannot  be  burnt  by  fire,  nor  swept  away  by
 water.  Even  a  thousand  Buddhas  would  not  be
 able  to  determine  this  accumulation  of  thy  pious
-merit,  young  man  of  good  family.  Thou  hast  sub-
-dued the  opposition  of  the  Evil  One,  young  man  of
+merit,  young  man  of  good  family.  Thou  hast  subdued the  opposition  of  the  Evil  One,  young  man  of
 good  family.  Thou,  young  man  of  good  family,  hast
 victoriously  emerged2  from  the  battle  of  mundane
 existence,  hast  crushed  the  enemies  annoying  thee3.
-Thou,  young  man  of  good  family,  hast  been  superin-
-tended by  thousands  of  Buddhas  ;  thine  equal,  young
+Thou,  young  man  of  good  family,  hast  been  superintended by  thousands  of  Buddhas  ;  thine  equal,  young
 man  of  good  family,  is  not  to  be  found  in  the  world,
 including  the  gods 4,  with  the  only  exception  of  the
 
@@ -18962,8 +17539,7 @@ XXIT.       ANCIENT    DEVOTION    OF    BHAISHAGYARAGA.      39!
 
 Tathagata ;  there  is  no  other,  be  he  disciple,
 Pratyekabuddha,  or  Bodhisattva,  able  to  surpass
-thee  in  pious  merit,  knowledge,  wisdom  or  medita-
-tion. Such  a  power  of  knowledge,  Nakshatrara-
+thee  in  pious  merit,  knowledge,  wisdom  or  meditation. Such  a  power  of  knowledge,  Nakshatrara-
 ^asahkusumitabhi^a,  will  be  acquired  by  that
 Bodhisattva.
 
@@ -18976,22 +17552,16 @@ advantages  as  I  have  just  now  indicated  will  belong
 to  him  who  approves  this  Dharmaparyaya.  On  that
 account  then,  Nakshatrara^asahkusumitabhi^a,  I
 transmit  to  thee  this  chapter  of  the  Ancient  Devotion
-of  the  Bodhisattva  Mahasattva  Sarvasattvapriya-
-darrana,  that  at  the  end  of  time,  the  last  period,  in
+of  the  Bodhisattva  Mahasattva  Sarvasattvapriyadarrana,  that  at  the  end  of  time,  the  last  period,  in
 the  latter  half  of  the  millennium  it  may  have  course
 here  in  Gambudvipa  and  not  be  lost ;  that  neither
-Mara  the  Fiend,  nor  the  celestial  beings  called  Mara-
-kayikas,  Nagas,  goblins,  imps  may  find  the  oppor-
-tunity of  hurting  it.  Therefore,  Nakshatrara^asah-
-kusumitabhi^a,  I  bequeath  this  Dharmaparyaya ;
+Mara  the  Fiend,  nor  the  celestial  beings  called  Marakayikas,  Nagas,  goblins,  imps  may  find  the  oppor-
+tunity of  hurting  it.  Therefore,  Nakshatrara^asahkusumitabhi^a,  I  bequeath  this  Dharmaparyaya ;
 it  is  to  be  like  a  medicament  for  sick  and  suffering
-creatures  in  Gambudvipa.  No  sickness  shall  over-
-power him  who  has  heard  this  Dharmaparyaya,  no
+creatures  in  Gambudvipa.  No  sickness  shall  overpower him  who  has  heard  this  Dharmaparyaya,  no
 decrepitude,  no  untimely  death.  Whenever  a  person
-striving  to  reach  the  goal  in  the  vehicle  of  Bodhi-
-sattvas  happens  to  see  such  a  monk  as  keeps  this
-Sutranta,  then  he  should  strew  him  with  sandal-
-powder  and  blue  lotuses,  and  reflect  thus :  This
+striving  to  reach  the  goal  in  the  vehicle  of  Bodhisattvas  happens  to  see  such  a  monk  as  keeps  this
+Sutranta,  then  he  should  strew  him  with  sandalpowder  and  blue  lotuses,  and  reflect  thus :  This
 young  man  of  good  family  is  going  to  reach  the
 terrace  of  enlightenment ;  he  will  spread  the  bundle
 
@@ -19001,20 +17571,16 @@ terrace  of  enlightenment ;  he  will  spread  the  bundle
 of  grass  *  on  the  terrace  of  enlightenment ;  he  will
 put  to  flight  the  party  of  Mara,  blow  the  conch
 trumpet  of  the  law,  beat  the  drum  of  the  law,  cross
-the  ocean  of  existence.  Thus,  Nakshatrara^asan-
-kusumitabhi^a,  should  a  young  man  of  good  family,
-striving  to  reach  the  goal  in  the  vehicle  of  Bodhi-
-sattva,  reflect  when  seeing  a  monk  who  keeps  this
+the  ocean  of  existence.  Thus,  Nakshatrara^asankusumitabhi^a,  should  a  young  man  of  good  family,
+striving  to  reach  the  goal  in  the  vehicle  of  Bodhisattva,  reflect  when  seeing  a  monk  who  keeps  this
 Sutra,  and  he  will  acquire  such  advantages  as  have
 been  indicated  by  the  Tathagata.
 
 While  this  chapter  of  the  Ancient  Devotion  of
 Bhaisha^yara^a  was  being  expounded,  eighty-four
 thousand  Bodhisattvas  attained  the  spell  connected
-with  skill  in  all  sounds.  And  the  Lord  Prabhuta-
-ratna,  the  Tathagata,  &c.,  intimated  his  approval
-(by  saying) :  Well  done,  well  done,  Nakshatrara^a-
-sankusumitabhi^a ;  thou  hast  done  well  in  thus
+with  skill  in  all  sounds.  And  the  Lord  Prabhutaratna,  the  Tathagata,  &c.,  intimated  his  approval
+(by  saying) :  Well  done,  well  done,  Nakshatrara^asankusumitabhi^a ;  thou  hast  done  well  in  thus
 questioning  the  Tathagata,  who  is  endowed  with
 such  inconceivable  qualities  and  properties.
 
@@ -19033,8 +17599,7 @@ CHAPTER  XXIII.
 
 GADGADASVARA.
 
-At  that  moment  the  Lord  .Sakyamuni,  the  Tatha-
-gata,  &c.,  darted  a  flash  of  light  from  the  circle  of
+At  that  moment  the  Lord  .Sakyamuni,  the  Tathagata,  &c.,  darted  a  flash  of  light  from  the  circle  of
 hair  between  his  eyebrows,  one  of  the  characteristic
 signs  of  a  great  man,  by  which  flash  of  light  hundred
 thousands  of  myriads  of  ko^is  of  Buddha-fields,
@@ -19042,42 +17607,31 @@ equal  to  the  sands  of  eighteen  rivers  Ganges,  became
 illuminated.  Beyond  those  Buddha-fields,  equal,  &c.,
 is  the  world  called  Vairo/^anara^mipratima^^ita  (i.e.
 embellished  by  the  rays  of  the  sun).  There  dwells,
-lives,  exists  the  Tathagata  named  Kamaladala-
-vimalanakshatrara^asankusumitabhi^a,  who,  sur-
+lives,  exists  the  Tathagata  named  Kamaladalavimalanakshatrara^asankusumitabhi^a,  who,  sur-
 rounded and  attended  by  a  large  and  immense
-assembly  of  Bodhisattvas,  preached  the  law.  Imme-
-diately the  ray  of  light  flashing  from  the  circle  of
+assembly  of  Bodhisattvas,  preached  the  law.  Immediately the  ray  of  light  flashing  from  the  circle  of
 hair  between  the  eyebrows  of  the  Lord  .Sakyamuni,
 the  Tathagata,  &c.,  filled  the  world  Vairo^anara-
 ^mipratima^^ta  with  a  great  lustre.  In  that  world
 Vairo/£anara.ymipratima;zdfita  there  was  a  Bodhisattva
 Mahasattva  called  Gadgadasvara,  who  had  planted
-roots  of  goodness,  who  had  before  seen  similar  lumi-
-nous flashes  emitted  by  many  Tathagatas,  &c.,  and
-who  had  acquired  many  Samadhis,  such  as  the  Sa-
-madhi  Dhva^agrakeyura  (i.  e.  bracelet  at  the  upper
+roots  of  goodness,  who  had  before  seen  similar  luminous flashes  emitted  by  many  Tathagatas,  &c.,  and
+who  had  acquired  many  Samadhis,  such  as  the  Samadhi  Dhva^agrakeyura  (i.  e.  bracelet  at  the  upper
 end  of  the  banner  staff),  Saddharma-pu^arika  (i.e.
 the  Lotus  of  the  True  Law),  Vimaladatta  (i.e.  given
 by  Vimala),  Nakshatrara^avikri^ita  (i.e.  sport  of  the
-
-
-394
 
 
 SADDHARMA-PUATJDARIKA.  XXIII.
 
 
 king  of  asterisms,  the  moon  god),  Anilambha1,
-£«anamudra  (i.e.  the  seal  of  science),  A'andrapra-
-dlpa  (i.  e.  moon-light  2),  -Sarvarutakau^alya  (i.  e.  skill
-in  all  sounds),  Sarvapimyasamu^aya  (i.e.  compen-
-dium or  collection  of  all  piety),  Prasadavati  (i.e.  the
+£«anamudra  (i.e.  the  seal  of  science),  A'andrapradlpa  (i.  e.  moon-light  2),  -Sarvarutakau^alya  (i.  e.  skill
+in  all  sounds),  Sarvapimyasamu^aya  (i.e.  compendium or  collection  of  all  piety),  Prasadavati  (i.e.  the
 favourably-disposed  lady),  /?/ddhivikrt^ita  (i.e.  sport
-of  magic),  6V2anolka  (i.e.  torch  of  knowledge),  Vyu-
-hara^a  (i.e.  king  of  expansions  or  speculations),
+of  magic),  6V2anolka  (i.e.  torch  of  knowledge),  Vyuhara^a  (i.e.  king  of  expansions  or  speculations),
 Vimalaprabha  (i.e.  spotless  lustre),  Vimalagarbha
-(i.e.  of  spotless  interior  part),  Apk^'tsna3,  Surya-
-varta  (i.  e.  sun-turn)  ;  in  short,  he  had  acquired  many
+(i.e.  of  spotless  interior  part),  Apk^'tsna3,  Suryavarta  (i.  e.  sun-turn)  ;  in  short,  he  had  acquired  many
 hundred  thousand  myriads  of  ko/is  of  Samadhis  equal
 to  the  sands  of  the  river  Ganges.  Now,  the  flash  of
 light  came  down  upon  that  Bodhisattva  Mahasattva
@@ -19085,8 +17639,7 @@ Gadgadasvara.  Then  the  Bodhisattva  Mahasattva
 Gadgadasvara  rose  from  his  seat,  put  his  upper  robe
 upon  one  shoulder,  fixed  his  right  knee  on  the
 ground,  stretched  his  joined  hands  towards  the  Lord
-Buddha,  and  said  to  the  Tathagata  Kamaladalavi-
-malanakshatrara^asankusumitabhi^a  :  O  Lord,  I
+Buddha,  and  said  to  the  Tathagata  Kamaladalavimalanakshatrara^asankusumitabhi^a  :  O  Lord,  I
 would  resort  to  the  Saha-world  to  see,  salute,  wait
 upon  the  Lord  -Sakyamuni,  the  Tathagata,  &c.  ;  to
 see  and  salute  MangMsrt,  the  prince  royal  ;  to  see  the
@@ -19095,8 +17648,7 @@ Bodhisattvas  Bhaisha^yara^a,  Pradanasura,  Naksha-
 
 Bhaisha^yara^asamudgata.
 
-Then  the  Lord  Kamaladalavimalanakshatrara/a-
-sankusumitabhifwa,  the  Tathagata,  &c.,  said  to  the
+Then  the  Lord  Kamaladalavimalanakshatrara/asankusumitabhifwa,  the  Tathagata,  &c.,  said  to  the
 Bodhisattva  Mahasattva  Gadgadasvara  :  On  coming
 to  the  Saha-world,  young  man  of  good  family,  thou
 
@@ -19111,8 +17663,7 @@ to  the  Saha-world,  young  man  of  good  family,  thou
 XXIII.  GADGADASVARA.  395
 
 must  not  conceive  a  low  opinion  of  it.  That  world,
-young  man  of  good  family,  has  ups  and  downs,  con-
-sists of  earth,  is  replete  with  mountains  of  Kala,
+young  man  of  good  family,  has  ups  and  downs,  consists of  earth,  is  replete  with  mountains  of  Kala,
 filled  with  gutters1.  The  Lord  .Sakyamuni,  the
 Tathagata,  &c.,  is  short  of  stature2,  and  so  are  the
 Bodhisattvas  Mahasattvas,  whereas  thou,  young  man
@@ -19122,14 +17673,12 @@ body  sixty-eight  hundred  thousand  yo^anas  high.
 And,  young  man  of  good  family,  thou  art  lovely,
 handsome,  of  pleasant  appearance,  endowed  with  a
 full  bloom  of  extremely  fine  colour,  and  abundantly
-blest  with  hundred  thousands  of  holy  signs.  There-
-fore then,  young  man  of  good  family,  when  you  have
+blest  with  hundred  thousands  of  holy  signs.  Therefore then,  young  man  of  good  family,  when  you  have
 come  to  the  Saha-world,  do  not  conceive  a  low
 opinion  of  the  Tathagata,  nor  of  the  Bodhisattvas,
 nor  of  that  Buddha-field.
 
-Thus  addressed,  the  Bodhisattva  Mahdsattva  Gad-
-gadasvara  said  to  the  Lord  Kamaladalavimalana-
+Thus  addressed,  the  Bodhisattva  Mahdsattva  Gadgadasvara  said  to  the  Lord  Kamaladalavimalana-
 kshatrara^asankusumitabhi^a,  the  Tathagata,  &c. :
 I  shall  do,  Lord,  as  the  Lord  commands  ;  I  shall  go  to
 that  Saha-world  by  virtue  of  the  Lord's  resolution,
@@ -19142,19 +17691,16 @@ leaving  that  Buddha-field  and  without  leaving  his
 or  gutho</igalla;  according  to  Burnouf  the  word
 means  'ordures;'  cf.  above,  p.  142,  and  Pali  oligalla.
 
-2  Spence  Hardy,  Manual  of  Buddhism,  p.  364 :  '  Buddha  is  some-
-times said  to  be  twelve  cubits  in  height,  and  sometimes  eighteen
+2  Spence  Hardy,  Manual  of  Buddhism,  p.  364 :  '  Buddha  is  sometimes said  to  be  twelve  cubits  in  height,  and  sometimes  eighteen
 cubits.'
 
-3  That  is  considerably  more  than  Rahu,  the  eclipse,  was  pos-
-sessed  of,  his    body   being   no   more   than    forty-eight  hundred
+3  That  is  considerably  more  than  Rahu,  the  eclipse,  was  possessed  of,  his    body   being   no   more   than    forty-eight  hundred
 yo^anas  high ;  Spence  Hardy,  I.e.
 
 
 396  SADDHARMA-PUA^DARIKA.  XXIII.
 
-seat,  plunged  into  so  deep  a  meditation  that  imme-
-diately after,  on  a  sudden,  there  appeared  before  the
+seat,  plunged  into  so  deep  a  meditation  that  immediately after,  on  a  sudden,  there  appeared  before  the
 Tathagata  on  the  Gmihraku/a-mountains  in  the
 Saha-world  eighty-four  hundred  thousand  myriads
 of  ko/is  of  lotuses  on  gold  stalks  with  silver  leaves
@@ -19173,8 +17719,7 @@ the  prince  royal :  It  is,  Ma^iurl,  the  Bodhisattva
 Mahasattva  Gadgadasvara,  who  accompanied  and
 attended  by  eighty-four  hundred  thousand  myriads
 of  ko/is  of  Bodhisattvas  arrives  from  the  east,  from
-the  world  Vairo^anarasmipratima/zdfita,  the  Buddha-
-field  of  the  Lord  Kamaladalavimalanakshatrara-
+the  world  Vairo^anarasmipratima/zdfita,  the  Buddhafield  of  the  Lord  Kamaladalavimalanakshatrara-
 ^•asahkusumitabhi^a,  the  Tathagata,  &c.,  at  this
 Saha-world  to  see,  salute,  wait  upon  me,  and  to  hear
 this  Dharmaparyaya  of  the  Lotus  of  the  True  Law.
@@ -19186,43 +17731,33 @@ meditation  is  it,  O  Lord,  that  the  Bodhisattva
 practises?  Let  us  also  learn  that  meditation,  O
 Lord,  and  practise  that  meditation.  And  let  us  see
 that  Bodhisattva,  Lord;  see  how  the  colour,  outward
-shape,  character,  figure,  and  behaviour  of  that  Bodhi-
-sattva is.  May  the  Lord  deign  to  produce  such  a
+shape,  character,  figure,  and  behaviour  of  that  Bodhisattva is.  May  the  Lord  deign  to  produce  such  a
 
 
 XXIII.  GADGADASVARA.  397
 
-token  that  the  Bodhisattva  Mahasattva  be    admo-
-nished by  it  to  come  to  this  Saha-world.
+token  that  the  Bodhisattva  Mahasattva  be    admonished by  it  to  come  to  this  Saha-world.
 
 Then  the  Lord  .Sakyamuni,  the  Tathagata,  &c.,
 said  to  the  Lord  Prabhutaratna,  the  Tathagata,  &c.,
 who  was  completely  extinct :  Produce  such  a  token,
-Lord,  that  the  Bodhisattva  Mahasattva  Gadgada-
-svara  be  admonished  by  it  to  come  to  this  Saha-
-world.  And  the  Lord  Prabhutaratna,  the  Tatha-
-gata, &c.,  who  was  completely  extinct,  instantly
-produced  a  token  in  order  to  admonish  the  Bodhi-
-sattva Mahasattva  Gadgadasvara  (and  said) :  Come,
+Lord,  that  the  Bodhisattva  Mahasattva  Gadgadasvara  be  admonished  by  it  to  come  to  this  Saha-
+world.  And  the  Lord  Prabhutaratna,  the  Tathagata, &c.,  who  was  completely  extinct,  instantly
+produced  a  token  in  order  to  admonish  the  Bodhisattva Mahasattva  Gadgadasvara  (and  said) :  Come,
 young  man  of  good  family,  to  this  Saha-world;
 Mad^Utti,  the  prince  royal,  will  hail  thy  coming.
 And  the  Bodhisattva  Mahasattva  Gadgadasvara,
-after  humbly  saluting  the  feet  of  the  Lord  Ka-
-maladalavimalanakshatrara^asankusumitabhi^a,  the
-Tathagata,  &c.,  and  after  three  times  circumambu-
-lating him  from  left  to  right,  vanished  from  the
-world  Vairo/^anarasmipratima^ta,  along  with  eighty-
-four  hundred  thousand  myriads  of  ko^is  of  Bodhi-
+after  humbly  saluting  the  feet  of  the  Lord  Kamaladalavimalanakshatrara^asankusumitabhi^a,  the
+Tathagata,  &c.,  and  after  three  times  circumambulating him  from  left  to  right,  vanished  from  the
+world  Vairo/^anarasmipratima^ta,  along  with  eightyfour  hundred  thousand  myriads  of  ko^is  of  Bodhi-
 sattvas  who  surrounded  and  followed  him,  and
-arrived  at  this  Saha-world,  among  a  stir  of  Buddha-
-fields,  a  rain  of  lotuses,  a  noise  of  hundred  thousands
+arrived  at  this  Saha-world,  among  a  stir  of  Buddhafields,  a  rain  of  lotuses,  a  noise  of  hundred  thousands
 of  myriads  of  ko^is  of  musical  instruments.  His  face
 showed  eyes  resembling  blue  lotuses,  his  body  was
 gold-coloured,  his  person  marked  by  a  hundred
 thousand  of  holy  signs ;  he  sparkled  with  lustre,
 glowed  with  radiance,  had  limbs  marked  by  the
-characteristic  signs,  and  a  body  compact  as  Nara-
-ya;za's.  Mounted  on  a  tower  made  of  seven  precious
+characteristic  signs,  and  a  body  compact  as  Naraya;za's.  Mounted  on  a  tower  made  of  seven  precious
 substances,  he  moved  through  the  sky  to  a  height
 of  seven  Talas1,  surrounded  by  a  host  of  Bodhi-
 
@@ -19232,17 +17767,14 @@ of  wind  or  air,  is  nearly  akin  to  Indra  and  Vishmi.
 
 398  SADDHARMA-PILM3ARIKA.  XXIIT.
 
-sattvas,  in  the  direction  of  this  Saha-world,  and  ap-
-proached the  Gmlhraku/a,  the  king  of  mountains.
+sattvas,  in  the  direction  of  this  Saha-world,  and  approached the  Gmlhraku/a,  the  king  of  mountains.
 At  his  arrival,  he  alighted  from  the  tower,  and  went,
 with  a  necklace  of  pearls  worth  a  hundred  thousands,
 to  the  place  where  the  Lord  was  sitting.  After
-humbly  saluting  the  feet  of  the  Lord,  and  circum-
-ambulating him  seven  times  from  left  to  right,  he
+humbly  saluting  the  feet  of  the  Lord,  and  circumambulating him  seven  times  from  left  to  right,  he
 offered  him  the  necklace  of  pearls  in  token  of
 homage,  whereafter  he  said  to  the  Lord :  The
-Lord  Kamaladalavimalanakshatrara^asankusumita-
-bhij^a,  the  Tathagata,  &c.,  inquires  after  the  Lord's
+Lord  Kamaladalavimalanakshatrara^asankusumitabhij^a,  the  Tathagata,  &c.,  inquires  after  the  Lord's
 health,  welfare,  and  sprightliness ;  whether  he  feels
 free  from  affliction  and  at  ease.  That  Lord  has  also
 charged  me  to  ask  :  Is  there  something  thou  hast  to
@@ -19251,17 +17783,14 @@ in  an  unfavourable  state  ?  thy  creatures  are  decent
 in  manners,  tractable,  and  easy  to  be  healed  ?  their
 bodies  are  clean  ?  They  are  not  too  passionate,  I
 hope,  not  too  irascible,  not  too  unwise  in  their  doings  ?
-They  are  not  jealous,  Lord,  not  envious,  not  un-
-grateful to  their  father  and  mother,  not  impious,  not
+They  are  not  jealous,  Lord,  not  envious,  not  ungrateful to  their  father  and  mother,  not  impious,  not
 heterodox,  not  unsubdued  in  mind,  not  unrestrained
 in  sexual  desires  ?  Are  the  creatures  able  to  resist
 the  Evil  One  ?  Has  the  Lord  Prabhutaratna,  the
 Tathagata,  &c.,  who  is  completely  extinct,  come  to
 the  Saha-world  in  order  to  hear  the  law,  sitting  in
-the  centre  of  a  Stupa  made  of  seven  precious  sub-
-stances ?  And  as  to  that,  Lord  Prabhutaratna,  the
-Tathagata,  &c.,  the  Lord  Kamaladalavimalanaksha-
-trara^asahkusumitabhi^^a,  inquires  :  Is  there  some-
+the  centre  of  a  Stupa  made  of  seven  precious  substances ?  And  as  to  that,  Lord  Prabhutaratna,  the
+Tathagata,  &c.,  the  Lord  Kamaladalavimalanakshatrara^asahkusumitabhi^^a,  inquires  :  Is  there  some-
 
 1  Yapaniya;  it  is  a  usual  medical  term  applied  to  diseases
 which  can  be  alleviated  to  a  certain  extent  by  means  of  palliatives,
@@ -19274,8 +17803,7 @@ XXIII.  GADGADASVARA.  399
 thing  that  the  Lord  Prabhutaratna,  &c.,  has  to
 suffer  or  allow  ?  Is  the  Lord  Prabhutaratna,  &c.,
 to  stay  long  ?  We  also,  O  Lord,  are  desirous  of
-seeing  the  rudimentary  frame l  of  that  Lord  Pra-
-bhutaratna, the  Tathagata,  &c.  May  the  Lord  there-
+seeing  the  rudimentary  frame l  of  that  Lord  Prabhutaratna, the  Tathagata,  &c.  May  the  Lord  there-
 fore please  to  show  us  the  rudimentary  frame  of  the
 Lord  Prabhutaratna,  the  Tathagata,  &c.
 
@@ -19283,24 +17811,20 @@ Then  the  Lord  .Sakyamuni,  the  Tathagata,  &c.,
 said  to  the  Lord  Prabhutaratna,  the  Tathagata,  &c.,
 who  was  completely  extinct :  Lord,  the  Bodhisattva
 Mahasattva  Gadgadasvara  here  wishes  to  see  the
-Lord  Prabhutaratna,  the  Tathagata,  &c.,  who  is  com-
-pletely extinct.  Whereon  the  Lord  Prabhutaratna,
-the  Tathagata,  &c.,  spoke  to  the  Bodhisattva  Maha-
-sattva Gadgadasvara  in  this  strain :  Well  done,  well
+Lord  Prabhutaratna,  the  Tathagata,  &c.,  who  is  completely extinct.  Whereon  the  Lord  Prabhutaratna,
+the  Tathagata,  &c.,  spoke  to  the  Bodhisattva  Mahasattva Gadgadasvara  in  this  strain :  Well  done,  well
 done,  young  gentleman,  that  thou  hast  come  hither  in
 the  desire  to  see  the  Lord  .Sakyamuni,  the  Tathagata,
 &c. ;  to  hear  this  Dharmaparyaya  of  the  Lotus  of  the
 True  Law,  and  see  Ma.ng'usri,  the  prince  royal.
 
-Subsequently  the  Bodhisattva  Mahasattva  Pad-
-ma-srl  said  to  the  Lord :  What  root  of  goodness  has
+Subsequently  the  Bodhisattva  Mahasattva  Padma-srl  said  to  the  Lord :  What  root  of  goodness  has
 the  Bodhisattva  Mahasattva  Gadgadasvara  formerly
 planted  ?  And  in  presence  of  which  Tathagata  ?
 And  the  Lord  .Sakyamuni,  the  Tathagata,  &c.,
 said  to  the  Bodhisattva  Mahasattva  Padma^ri :  In
 the  days  of  yore,  young  man  of  good  family,  at  a
-past  period2  there  appeared  in  the  world  a  Tatha-
-gata called  Meghadundubhisvarara^a  (i.  e.  the  king  of
+past  period2  there  appeared  in  the  world  a  Tathagata called  Meghadundubhisvarara^a  (i.  e.  the  king  of
 the  drum-sound  of  the  clouds),  perfectly  enlightened,
 endowed  with  science  and  conduct,  a  Sugata,  &c.,  in
 
@@ -19313,8 +17837,7 @@ incalculable  than  incalculable
 
 4OO  SADDHARMA-PUtfDARfKA.  XXIII.
 
-the  world  Sarvabuddhasandarcana  (i.  e.  sight  or  dis-
-play of  all  Buddhas),  in  the  ^Eon  Priyadarsana.  To
+the  world  Sarvabuddhasandarcana  (i.  e.  sight  or  display of  all  Buddhas),  in  the  ^Eon  Priyadarsana.  To
 that  Lord  Meghadundubhisvarara^a  the  Bodhisattva
 Mahasattva  Gadgadasvara  paid  homage  by  making
 resound  hundred  thousands  of  musical  instruments
@@ -19322,25 +17845,21 @@ during  twelve  thousand  years.  He  presented  to  him
 also  eighty-four  thousand  vessels  of  seven  precious
 substances.  Under  the  preaching1  of  the  Tathagata
 Meghadundubhisvarara^a,  young  man  of  good  family,
-has  the  Bodhisattva  Mahasattva  Gadgadasvara  ob-
-tained such  a  beauty  as  he  now  displays.  Perhaps,
+has  the  Bodhisattva  Mahasattva  Gadgadasvara  obtained such  a  beauty  as  he  now  displays.  Perhaps,
 young  man  of  good  family,  thou  hast  some  doubt,
 uncertainty  or  misgiving,  (and  thinkest)  that  at  that
-time,  that  epoch,  there  was  another  Bodhisattva  Maha-
-sattva called  Gadgadasvara,  who  paid  that  homage
+time,  that  epoch,  there  was  another  Bodhisattva  Mahasattva called  Gadgadasvara,  who  paid  that  homage
 to  the  Lord  Meghadundubhisvarara£ia,the  Tathagata,
 and  presented  him  the  eighty-four  thousand  vessels.
 But,  young  man  of  good  family,  do  not  think  so.  For
-it  was  the  very  same  Bodhisattva  Mahasattva  Gad-
-gadasvara, young  man  of  good  family,  who  paid  that
+it  was  the  very  same  Bodhisattva  Mahasattva  Gadgadasvara, young  man  of  good  family,  who  paid  that
 homage  to  the  Lord  Meghadundubhisvarara^a,  the
 Tathagata,  and  presented  to  him  the  eighty-four
 thousand  vessels.  So,  young  man  of  good  family,  the
 Bodhisattva  Mahasattva  Gadgadasvara  has  waited
 upon  many  Buddhas,  has  planted  good  roots  under
 many  Buddhas,  and  prepared  the  soil  under  each  of
-them.  And  this  Bodhisattva  Mahasattva  Gadgada-
-svara had  previously  seen  Lords  Buddhas  similar  to  the
+them.  And  this  Bodhisattva  Mahasattva  Gadgadasvara had  previously  seen  Lords  Buddhas  similar  to  the
 sands  of  the  river  Ganges.  Dost  thou  see,  Padma-sri,
 how  the  Bodhisattva  Mahasattva  Gadgadasvara  now
 looks  ?  Padma^rl  replied  :  I  do,  Lord ;  I  do,  Sugata.
@@ -19351,8 +17870,7 @@ The  Lord  said:  Now,  Padmasrt,  this  Bodhisattva
 
 XXIII.  GADGADASVARA.  40 1
 
-Mahasattva  Gadgadasvara  preaches  this  Dharma-
-paryaya of  the  Lotus  of  the  True  Law  under  many
+Mahasattva  Gadgadasvara  preaches  this  Dharmaparyaya of  the  Lotus  of  the  True  Law  under  many
 shapes  he  assumes ;  sometimes l  under  the  shape  of
 Brahma,  sometimes  under  that  of  Indra,  sometimes
 under  that  of  Siva.,  sometimes  under  that  of  Kubera,
@@ -19360,8 +17878,7 @@ sometimes  under  that  of  a  sovereign,  sometimes
 under  that  of  a  duke,  sometimes  under  that  of  a
 chief  merchant,  sometimes  under  that  of  a  citizen,
 sometimes  under  that  of  a  villager,  sometimes  under
-that  of  a  Brahman2.  Sometimes  again  the  Bodhi-
-sattva  Mahasattva  Gadgadasvara  preaches  this
+that  of  a  Brahman2.  Sometimes  again  the  Bodhisattva  Mahasattva  Gadgadasvara  preaches  this
 Dharmaparyaya  of  the  Lotus  of  the  True  Law
 under  a  monk's  shape,  sometimes  under  a  nun's,
 sometimes  under  a  male  lay  devotee's,  sometimes
@@ -19369,13 +17886,11 @@ under  a  female  lay  devotee's,  sometimes  under  that
 of  a  chief  merchant's  wife,  sometimes  under  that  of
 a  citizen's  wife,  sometimes  under  a  boy's,  sometimes
 under  a  girl's  shape.  With  so  many  variations  in
-the  manner  to  show  himself3,  the  Bodhisattva  Maha-
-sattva Gadgadasvara  preaches  this  Dharmaparyaya
+the  manner  to  show  himself3,  the  Bodhisattva  Mahasattva Gadgadasvara  preaches  this  Dharmaparyaya
 of  the  Lotus  of  the  True  Law  to  creatures.  He  has
 even  assumed  the  shape  of  a  goblin  to  preach  this
 Dharmaparyaya  to  such  as  were  to  be  converted  by
-a  goblin.  To  some  he  has  preached  this  Dharma-
-paryaya of  the  Lotus  of  the  True  Law  under  the
+a  goblin.  To  some  he  has  preached  this  Dharmaparyaya of  the  Lotus  of  the  True  Law  under  the
 shape  of  a  demon,  to  some  under  a  Garu^a's,  to  some
 under  a  Kinnara's,  to  some  under  a  great  serpent's
 shape.  Even  to  the  beings  in  any  of  the  wretched
@@ -19383,8 +17898,7 @@ shape.  Even  to  the  beings  in  any  of  the  wretched
 1  Or  somewhere.
 
 2  From  this  one  may  infer  that  Gadgadasvara,  i.e.  he  who  has
-an  interrupted  sound,  is  Va"yu,  irvtvpa,  inspiration  personified.    Ma-
-terially, though  not  mythologically,  Wind  is  identical  with  Rudra,
+an  interrupted  sound,  is  Va"yu,  irvtvpa,  inspiration  personified.    Materially, though  not  mythologically,  Wind  is  identical  with  Rudra,
 Storm.
 
 3  lyadbhi  rupasandawaneryapathaiA.
@@ -19395,8 +17909,7 @@ Storm.
 4O2  SADDHARMA-PUJVDARIKA.  XXIII.
 
 states,  in  the  hells,  the  brute  creation,  Yama's  realm,
-the  Bodhisattva  Mahasattva  Gadgadasvara  is  a  sup-
-porter. Even  to  the  creatures  in  the  gynaeceums
+the  Bodhisattva  Mahasattva  Gadgadasvara  is  a  supporter. Even  to  the  creatures  in  the  gynaeceums
 of  this  Saha-world  has  the  Bodhisattva  Mahasattva
 Gadgadasvara,  after  metamorphosing  himself  into
 a  woman,  preached  this  Dharmaparyaya  of  the  Lotus
@@ -19404,14 +17917,11 @@ of  the  True  Law.  Verily,  Padmajri,  the  Bodhisattva
 Mahasattva  Gadgadasvara  is  the  supporter  of  the
 creatures  living  in  this  Saha-world l.  Under  so
 many  shapes,  assumed  at  will,  has  the  Bodhisattva
-Mahasattva  Gadgadasvara  preached  this  Dharma-
-paryaya of  the  Lotus  of  the  True  Law  to  creatures.
-Yet,  there  is  no  diminution  of  wisdom,  nor  dimi-
-nution of  magic  power  in  that  good  man2.  So  many,
+Mahasattva  Gadgadasvara  preached  this  Dharmaparyaya of  the  Lotus  of  the  True  Law  to  creatures.
+Yet,  there  is  no  diminution  of  wisdom,  nor  diminution of  magic  power  in  that  good  man2.  So  many,
 young  man  of  good  family,  are  the  manifestations  of
 knowledge  by  which  this  Bodhisattva  Mahasattva
-Gadgadasvara  has  made  himself  known  in  this  Saha-
-world.  In  other  worlds  also,  similar  to  the  sands
+Gadgadasvara  has  made  himself  known  in  this  Sahaworld.  In  other  worlds  also,  similar  to  the  sands
 of  the  river  Ganges,  he  preaches  the  law,  under  the
 shape  of  a  Bodhisattva  to  such  as  must  be  converted
 by  a  Bodhisattva ;  under  the  shape  of  a  disciple  to
@@ -19427,8 +17937,7 @@ admonisher  of  the  transitoriness  of  life,  who  addresses  his  call  to
 young  and  old,  sages  and  fools,  &c.     The  important  mystic  rite  of
 inspiration  and  expiration  is  described  by  Spence  Hardy,  Eastern
 Monachism,  p.  267 ;  no  less  value  is  attached  to  prawayama  in  the
-Yoga  system  and  in  Indian  mysticism  in  general;  see  e.g.  Yoga-
-jistrall,  49-51 ;  Sarvadanrana-Sahgraha,  p.  175;  the  term  pra»a-
+Yoga  system  and  in  Indian  mysticism  in  general;  see  e.g.  Yogajistrall,  49-51 ;  Sarvadanrana-Sahgraha,  p.  175;  the  term  pra»a-
 y  a  ma  not  only  denotes  stopping  of  the  breath,  as  the  Dictionaries
 explain  it,  but  also  the  regulation  and  measuring  of  the  breath.
 
@@ -19436,11 +17945,9 @@ explain  it,  but  also  the  regulation  and  measuring  of  the  breath.
 XXIII.  GADGADASVARA.  403
 
 verted  by  a  Pratyekabuddha ;  under  the  shape  of  a
-Tathagata  to  such  as  must  be  converted  by  a  Tatha-
-gata.  Nay,  he  will  show  to  those  who  must  be  con-
+Tathagata  to  such  as  must  be  converted  by  a  Tathagata.  Nay,  he  will  show  to  those  who  must  be  con-
 verted by  a  relic  of  the  Tathagata  himself  such  a
-relic,  and  to  those  who  must  be  converted  by  com-
-plete extinction  he  will  show  himself  completely
+relic,  and  to  those  who  must  be  converted  by  complete extinction  he  will  show  himself  completely
 extinct1.  Such  is  the  powerful  knowledge,  Padma^rl,
 the  Bodhisattva  Mahasattva  is  possessed  of.
 
@@ -19460,52 +17967,45 @@ promoted  the  weal  of  creatures.
 While  this  chapter  of  Gadgadasvara  was  being
 expounded2,  all  the  eighty-four  hundred  thousand
 myriads  of  ko/is  of  Bodhisattvas  Mahasattvas  who,
-along  with  the  Bodhisattva  Mahasattva  Gadgada-
-svara, had  come  to  the  Saha-world,  obtained  the
+along  with  the  Bodhisattva  Mahasattva  Gadgadasvara, had  come  to  the  Saha-world,  obtained  the
 
 1  Gadgadasvara,  being  both  inspiration  and  expiration,  appears
 under  the  form  of  a  dead  corpse,  and  thereby  converts  fickle  and
 thoughtless  men.
 
 2  It  need  not  be  observed  that  the  chapter  was  not  expounded,
-the  Buddha  being  one  of  the  dramatis  personae,  one  of  the  in-
-terlocutors, but  not  the  narrator.     This  confusion  between  epical
+the  Buddha  being  one  of  the  dramatis  personae,  one  of  the  interlocutors, but  not  the  narrator.     This  confusion  between  epical
 and  dramatical  exposition  is  one  of  the  most  striking  features  of
 the  Lotus.     The  Saddharma,  the  law  of  nature,  may  be  said  to
-have  been  expounded  by  the  Tathagata,  not,  however,  the  com-
-position which  bears  that  title.
+have  been  expounded  by  the  Tathagata,  not,  however,  the  composition which  bears  that  title.
 
 D  d  2
 
 
 404  SADDHARMA-PUtf-DARfKA.  XXIII.
 
-meditation  Sarvarupasandarcana,  and  as  to  the  num-
-ber of  Bodhisattvas  Mahisattvas  of  this  Saha-world
+meditation  Sarvarupasandarcana,  and  as  to  the  number of  Bodhisattvas  Mahisattvas  of  this  Saha-world
 obtaining  the  meditation  Sarvarupasandarcana,  it
 was  beyond  calculation.
 
 Then  the  Bodhisattva  Mahdsattva  Gadgadasvara,
 after  having  paid  great  and  ample  worship  to  the
 Lord  6akyamuni,  the  Tath^gata,  &c.,  and  at  the
-Stupa  of  relics  of  the  Lord  Prabhutaratna,  the  Tathi-
-gata,  &c.,  again  mounted  the  tower  made  of  seven
+Stupa  of  relics  of  the  Lord  Prabhutaratna,  the  Tathigata,  &c.,  again  mounted  the  tower  made  of  seven
 precious  substances,  among  the  stir  of  the  fields,  the
 rain  of  lotuses,  the  noise  of  hundred  thousands  of
 myriads  of  ko/is  of  musical  instruments l,  and  with
 the  eighty-four  hundred  thousand  myriads  of  ko/is  of
 Bodhisattvas  surrounding  and  following  him,  returned
 to  his  own  Buddha-field.  At  his  arrival  there  he  said
-to  the  Lord  Kamaladalavimalanakshatrara^asariku-
-sumitabhi^a,  the  Tathdgata,  &c. :  O  Lord,  I  have
+to  the  Lord  Kamaladalavimalanakshatrara^asarikusumitabhi^a,  the  Tathdgata,  &c. :  O  Lord,  I  have
 in  the  Saha-world  promoted  the  weal  of  creatures ;  I
 have  seen  and  saluted  the  Stupa  of  relics  of  the  Lord
 Prabhutaratna,  the  Tathagata,  &c. ;  I  have  seen  and
 saluted  the  Lord  .Sakyamuni,  the  Tath&gata,  &c. ;  I
 have  seen  Ma«£usri,  the  prince  royal,  as  well  as  the
 Bodhisattva  Bhaisha^yara^a,  who  is  possessed  of
-mighty  knowledge  and  impetuosity2,  and  the  Bodhi-
-sattva Mahasattva  Pradana^ura;  and  these  eighty-
+mighty  knowledge  and  impetuosity2,  and  the  Bodhisattva Mahasattva  Pradana^ura;  and  these  eighty-
 four  hundred  thousand  myriads  of  ko/is  of  Bodhi-
 
 
@@ -19541,13 +18041,11 @@ CHAPTER   CALLED    THAT    OF    THE   ALL-SIDED    ONE,    CON-
 TAINING A  DESCRIPTION  OF  THE  TRANSFORMATIONS
 OF  AVALOKITE-SVARA1.
 
-Thereafter  the  Bodhisattva  Mahasattva  Aksha-
-yamati  rose  from  his  seat,  put  his  upper  robe  upon
+Thereafter  the  Bodhisattva  Mahasattva  Akshayamati  rose  from  his  seat,  put  his  upper  robe  upon
 one  shoulder,  stretched  his  joined  hands  towards
 the  Lord,  and  said :  For  what  reason,  O  Lord,  is
 the  Bodhisattva  Mahasattva  Avalokite^vara  called
-Avalokitervara  ?  So  he  asked,  and  the  Lord  an-
-swered to  the  Bodhisattva  Mahasattva  Akshayamati :
+Avalokitervara  ?  So  he  asked,  and  the  Lord  answered to  the  Bodhisattva  Mahasattva  Akshayamati :
 All  the  hundred  thousands  of  myriads  of  kotis  of
 creatures,  young  man  of  good  family,  who  in  this
 world  are  suffering  troubles  will,  if  they  hear  the
@@ -19571,28 +18069,23 @@ published  by  Rev.  S.  Beal  in  his  Catena,  pp.  389-396.
 XXIV.  THE   ALL-SIDED   ONE.  407
 
 should  see  their  bullion,  gold,  gems,  pearls,  lapis  lazuli,
-conch  shells,  stones  (?),  corals,  emeralds,  Musaragal-
-vas,  read  pearls  (?),  and  other  goods  lost,  and  the
+conch  shells,  stones  (?),  corals,  emeralds,  Musaragalvas,  read  pearls  (?),  and  other  goods  lost,  and  the
 ship  by  a  vehement,  untimely  gale  cast  on  the  island
 of  Giantesses1,  and  if  in  that  ship  a  single  being
 implores  Avalokite-svara,  all  will  be  saved  from  that
 island  of  Giantesses.  For  that  reason,  young  man
-of  good  family,  the  Bodhisattva  Mahasattva  Avalo-
-kitervara  is  named  Avalokitesvara2.
+of  good  family,  the  Bodhisattva  Mahasattva  Avalokitervara  is  named  Avalokitesvara2.
 
-If  a  man  given  up  to  capital  punishment3  im-
-plores Avalokite-rvara,  young  man  of  good  family,
+If  a  man  given  up  to  capital  punishment3  implores Avalokite-rvara,  young  man  of  good  family,
 the  swords  of  the  executioners  shall  snap  asunder 4.
 Further,  young  man  of  good  family,  if  the  whole
 triple  chiliocosm  were  teeming  with  goblins  and
 giants,  they  would  by  virtue  of  the  name  of  the
-Bodhisattva  Mahisattva  Avalokite^vara  being  pro-
-nounced lose  the  faculty  of  sight  in  their  wicked
+Bodhisattva  Mahisattva  Avalokite^vara  being  pronounced lose  the  faculty  of  sight  in  their  wicked
 designs5.  If  some  creature,  young  man  of  good
 
 
-1  In  the  Kara«</a-vyuha,  a  work  entirely  devoted  to  the  glorifi-
-cation of  Avalokitesvara  and  his  sublime  achievements,  the   isle
+1  In  the  Kara«</a-vyuha,  a  work  entirely  devoted  to  the  glorification of  Avalokitesvara  and  his  sublime  achievements,  the   isle
 of  the  Giantesses  is  identified  with  Ceylon ;  see  pp.  45  and  53  of
 that  work  (Calcutta  edition),  and  the  extract  given  by  Burnouf,
 Introduction,  pp.  221-227.
@@ -19606,8 +18099,7 @@ regard,'  with  which  one  may  compare  .Siva's  epithet  Drz'sh/iguru,
 the  Master  of  view.
 
 8  Vadhyotsish/a;  I  do  not  feel  certain  of  the  rendering  of
-u££^ish/a;  perhaps  we  should  translate  it  by  '  a  reprobate  con-
-demned to  capital  punishment.'
+u££^ish/a;  perhaps  we  should  translate  it  by  '  a  reprobate  condemned to  capital  punishment.'
 
 *  Vadhyaghatakanaw  tdni  sastrani  (sic)  vi^tryeyuA.
 
@@ -19622,19 +18114,16 @@ chains  or  fetters,  be  he  guilty  or  innocent,  then
 those  manacles,  chains  or  fetters  shall  give  way  as
 soon  as  the  name  of  the  Bodhisattva  Mahasattva
 Avalokite^vara  is  pronounced.  Such,  young  man  of
-good  family,  is  the  power  of  the  Bodhisattva  Maha-
-sattva Avalokite^vara.  If  this  whole  triple  chilio-
+good  family,  is  the  power  of  the  Bodhisattva  Mahasattva Avalokite^vara.  If  this  whole  triple  chilio-
 cosm,  young  man  of  good  family,  were  teeming  with
 knaves,  enemies,  and  robbers  armed  with  swords,
 and  if  a  merchant  leader  of  a  caravan  marched  with
 a  caravan  rich  in  jewels ;  if  then  they  perceived
 those  robbers,  knaves,  and  enemies  armed  with
 swords,  and  in  their  anxiety  and  fright  thought
-themselves  helpless ;  if,  further,  that  leading  mer-
-chant spoke  to  the  caravan  in  this  strain :  Be  not
+themselves  helpless ;  if,  further,  that  leading  merchant spoke  to  the  caravan  in  this  strain :  Be  not
 afraid,  young  gentlemen,  be  not  frightened ;  invoke,
-all  of  you,  with  one  voice  the  Bodhisattva  Maha-
-sattva Avalokite.?vara,  the  giver  of  safety;  then  you
+all  of  you,  with  one  voice  the  Bodhisattva  Mahasattva Avalokite.?vara,  the  giver  of  safety;  then  you
 shall  be  delivered  from  this  danger  by  which  you
 are  threatened  at  the  hands  of  robbers  and  enemies ;
 if  then  the  whole  caravan  with  one  voice  invoked
@@ -19643,11 +18132,9 @@ be  to  the  giver  of  safety,  to  A  valokitesvara  Bodhisattva
 Mahasattva !  then,  by  the  mere  act  of  pronouncing
 that  name,  the  caravan  would  be  released  from  all
 danger.  Such,  young  man  of  good  family,  is  the
-power  of  the  Bodhisattva  Mahasattva  Avalokite-
-svara.  In  case  creatures  act  under  the  impulse
+power  of  the  Bodhisattva  Mahasattva  Avalokitesvara.  In  case  creatures  act  under  the  impulse
 of  impure  passion,  young  man  of  good  family,  they
-will,  after  adoring  the  Bodhisattva  Mahasattva  Ava-
-lokite^vara,  be  freed  from  passion.  Those  who  act
+will,  after  adoring  the  Bodhisattva  Mahasattva  Avalokite^vara,  be  freed  from  passion.  Those  who  act
 under  the  impulse  of  hatred  will,  after  adoring  the
 Bodhisattva  Mahasattva  Avalokitesvara,  be  freed
 from  hatred.  Those  who  act  under  the  impulse  of
@@ -19655,8 +18142,7 @@ from  hatred.  Those  who  act  under  the  impulse  of
 
 XXIV.  THE    ALL-SIDED   ONE.  409
 
-infatuation  will,  after  adoring  the  Bodhisattva  Maha-
-sattva  Avalokitesvara,  be  freed  from  infatuation.  So
+infatuation  will,  after  adoring  the  Bodhisattva  Mahasattva  Avalokitesvara,  be  freed  from  infatuation.  So
 mighty,  young  man  of  good  family,  is  the  Bodhisattva
 Mahasattva  Avalokite^vara.  If  a  woman,  desirous
 of  male  offspring,  young  man  of  good  family,  adores
@@ -19668,20 +18154,17 @@ is  desirous  of  getting  a  daughter,  a  nice,  handsome,
 beautiful  girl  shall  be  born  to  her ;  one  possessed  of
 the  (good)  characteristics  of  a  girl 2,  generally  beloved
 and  winning,  who  has  planted  good  roots.  Such,
-young  man  of  good  family,  is  the  power  of  the  Bodhi-
-sattva Mahasattva  Avalokite^vara.
+young  man  of  good  family,  is  the  power  of  the  Bodhisattva Mahasattva  Avalokite^vara.
 
 Those  who  adore  the  Bodhisattva  Mahasattva
 Avalokite^vara  will  derive  from  it  an  unfailing  profit.
 Suppose,  young  man  of  good  family,  (on  one  hand)
-some  one  adoring  the  Bodhisattva  Mahasattva  Ava-
-lokite^vara  and  cherishing  his  name ;  (on  the  other
+some  one  adoring  the  Bodhisattva  Mahasattva  Avalokite^vara  and  cherishing  his  name ;  (on  the  other
 hand)  another  adoring  a  number  of  Lords  Buddhas
 equal  to  sixty- two  times  the  sands  of  the  river
 Ganges3,  cherishing  their  names  and  worshipping  so
 many  Lords  Buddhas  during  their  stay,  existence,
-and  life,  by  giving  robes,  alms-bowls,  couches,  medi-
-caments for  the  sick;  how  great  is  then  in  thine
+and  life,  by  giving  robes,  alms-bowls,  couches,  medicaments for  the  sick;  how  great  is  then  in  thine
 opinion,  young  man  of  good  family,  the  accumulation
 of  pious  merit  which  that  young  gentleman  or  young
 lady  will  produce  in  consequence  of  it  ?  So  asked,
@@ -19700,33 +18183,25 @@ implanted.
 the  Bodhisattva  Mahasattva  Akshayamati  said  to  the
 Lord :  Great,  O  Lord,  great,  O  Sugata,  is  the  pious
 merit  which  that  young  gentleman  or  young  lady
-will  produce  in  consequence  of  it.  The  Lord  pro-
-ceeded :  Now,  young  man  of  good  family,  the  accu-
+will  produce  in  consequence  of  it.  The  Lord  proceeded :  Now,  young  man  of  good  family,  the  accu-
 mulation of  pious  merit  produced  by  that  young
-gentleman  paying  homage  to  so  many  Lords  Bud-
-dhas,  and  the  accumulation  of  pious  merit  produced
+gentleman  paying  homage  to  so  many  Lords  Buddhas,  and  the  accumulation  of  pious  merit  produced
 by  him  who  performs  were  it  but  a  single  act  of
-adoration  to  the  Bodhisattva  Mahasattva  Avaloki-
-tesvara  and  cherishes  his  name,  are  equal.  He
+adoration  to  the  Bodhisattva  Mahasattva  Avalokitesvara  and  cherishes  his  name,  are  equal.  He
 who  adores  a  number  of  Lords  Buddhas  equal  to
 sixty-two  times  the  sands  of  the  river  Ganges  and
-cherishes  their  names,  and  he  who  adores  the  Bodhi-
-sattva Mahasattva  Avalokitervara  and  cherishes  his
+cherishes  their  names,  and  he  who  adores  the  Bodhisattva Mahasattva  Avalokitervara  and  cherishes  his
 name,  have  an  equal  accumulation  of  pious  merit1 ;
-both  masses  of  pious  merit  are  not  easy  to  be  de-
-stroyed even  in  hundred  thousands  of  myriads  of
+both  masses  of  pious  merit  are  not  easy  to  be  destroyed even  in  hundred  thousands  of  myriads  of
 ko/is  of  JEons.  So  immense,  young  man  of  good
 family,  is  the  pious  merit  resulting  from  cherishing
-the  name  of  the  Bodhisattva  Mahasattva  Avalo-
-kitervara.
+the  name  of  the  Bodhisattva  Mahasattva  Avalokitervara.
 
 Again  the  Bodhisattva  Mahasattva  Akshayamati
-said  to  the  Lord  :  How,  O  Lord,  is  it  that  the  Bodhi-
-sattva Mahasattva  A  valokitesvara  frequents  this  Saha-
+said  to  the  Lord  :  How,  O  Lord,  is  it  that  the  Bodhisattva Mahasattva  A  valokitesvara  frequents  this  Saha-
 world  ?  And  how  does  he  preach  the  law  ?  And  which
 is  the  range  of  the  skilfulness  of  the  Bodhisattva
-Mahasattva  Avalokitesvara  ?  So  asked,  the  Lord  re-
-plied to  the  Bodhisattva  Mahasattva  Akshayamati :
+Mahasattva  Avalokitesvara  ?  So  asked,  the  Lord  replied to  the  Bodhisattva  Mahasattva  Akshayamati :
 In  some  worlds,  young  man  of  good  family,  the
 Bodhisattva  Mahasattva  Avalokite^vara  preaches
 the  law  to  creatures  in  the  shape  of  a  Buddha;
@@ -19736,8 +18211,7 @@ the  law  to  creatures  in  the  shape  of  a  Buddha;
 
 XXIV.  THE   ALL-SIDED   ONE.  411
 
-in  others  he  does  so  in  the  shape  of  a  Bodhi-
-sattva.  To  some  beings  he  shows  the  law  in  the
+in  others  he  does  so  in  the  shape  of  a  Bodhisattva.  To  some  beings  he  shows  the  law  in  the
 shape  of  a  Pratyekabuddha ;  to  others  he  does
 so  in  the  shape  of  a  disciple ;  to  others  again
 under  that  of  Brahma,  Indra,  or  a  Gandharva.  To
@@ -19754,8 +18228,7 @@ the  law  under  the  shape  of  an  imp ;  to  those  who
 are  to  be  converted  by  Kubera,  he  shows  the  law  by
 appearing  in  the  shape  of  Kubera ;  to  those  who  are
 to  be  converted  by  Senapati2,  he  preaches  in  the
-shape  of  Senapati ;  to  those  who  are  to  be  con-
-verted by  assuming  a  Brahman3,  he  preaches  in
+shape  of  Senapati ;  to  those  who  are  to  be  converted by  assuming  a  Brahman3,  he  preaches  in
 the  shape  of  a  Brahman ;  to  those  who  are
 to  be  converted  by  Va^rapawi4,  he  preaches  in
 the  shape  of  Va^rapd^i5.  With  such  inconceivable
@@ -19773,42 +18246,34 @@ general.'
 4  Va^rapam  is  the  name  of  one  of  the  Dhyanibuddhas,  and  of
 certain  geniuses,  and  an  epithet  of  Indra.
 
-6  The  functions  of  Avalokite^vara,  as  it  appears  from  these  pas-
-sages, agree  with  those  of  Gadgadasvara  mentioned  in  the  fore-
+6  The  functions  of  Avalokite^vara,  as  it  appears  from  these  passages, agree  with  those  of  Gadgadasvara  mentioned  in  the  fore-
 going chapter.  Both  beings  have  many  qualities  in  common,  just
 as  Siva,  and  Vishwu  have.
 
 
 412  SADDHARMA-PUtfDARiKA.  XXIV.
 
-sattva  Mahasattva  Avalokitervara  endowed1.  There-
-fore then,  young  man  of  good  family,  honour  the
-Bodhisattva  Mahasattva  Avalokite^vara.  The  Bodhi-
-sattva  Mahasattva  Avalokiteyvara,  young  man  of
+sattva  Mahasattva  Avalokitervara  endowed1.  Therefore then,  young  man  of  good  family,  honour  the
+Bodhisattva  Mahasattva  Avalokite^vara.  The  Bodhisattva  Mahasattva  Avalokiteyvara,  young  man  of
 good  family,  affords  safety  to  those  who  are  in
 anxiety.  On  that  account  one  calls  him  in  this
 Saha-world  Abhayandada  (i.  e.  Giver  of  Safety).
 
-Further,  the  Bodhisattva  Mahasattva  Akshaya-
-mati  said  to  the  Lord  :  Shall  we  give  a  gift  of  piety,
+Further,  the  Bodhisattva  Mahasattva  Akshayamati  said  to  the  Lord  :  Shall  we  give  a  gift  of  piety,
 a  decoration  of  piety,  O  Lord,  to  the  Bodhisattva
 Mahasattva  Avalokitesvara  ?  The  Lord  replied  :  Do
-so,  if  thou  thinkest  it  opportune.  Then  the  Bodhi-
-sattva Mahasattva  Akshayamati  took  from  his  neck
+so,  if  thou  thinkest  it  opportune.  Then  the  Bodhisattva Mahasattva  Akshayamati  took  from  his  neck
 a  pearl  necklace,  worth  a  hundred  thousand  (gold
-pieces),  and  presented  it  to  the  Bodhisattva  Maha-
-sattva Avalokite-svara  as  a  decoration  of  piety,  with
+pieces),  and  presented  it  to  the  Bodhisattva  Mahasattva Avalokite-svara  as  a  decoration  of  piety,  with
 the  words :  Receive  from  me  this  decoration  of  piety,
 good  man.  But  he  would  not  accept  it.  Then  the
 Bodhisattva  Mahasattva  Akshayamati  said  to  the
 Bodhisattva  Mahasattva  Avalokite^vara :  Out  of
 compassion  to  us,  young  man  of  good  family,  accept
-this  pearl  necklace.  Then  the  Bodhisattva  Maha-
-sattva Avalokitesvara  accepted  the  pearl  necklace
+this  pearl  necklace.  Then  the  Bodhisattva  Mahasattva Avalokitesvara  accepted  the  pearl  necklace
 from  the  Bodhisattva  Mahasattva  Akshayamati,
 out  of  compassion  to  the  Bodhisattva  Mahasattva
-Akshayamati  and  the  four  classes,  and  out  of  com-
-passion to  the  gods,  Nagas,  goblins,  Gandharvas,
+Akshayamati  and  the  four  classes,  and  out  of  compassion to  the  gods,  Nagas,  goblins,  Gandharvas,
 demons,  Garudas,  Kinnaras,  great  serpents,  men,
 and  beings  not  human.  Thereafter  he  divided  (the
 necklace)  into  two  parts,  and  offered  one  part  to
@@ -19822,28 +18287,22 @@ who  had  become  completely  extinct.
 XXIV.  THE   ALL-SIDED   ONE.  413
 
 With  such  a  faculty  of  transformation,  young  man
-of  good  family,  the  Bodhisattva  Mahasattva  Avalo-
-kite-svara  is  moving  in  this  Saha-world.
+of  good  family,  the  Bodhisattva  Mahasattva  Avalokite-svara  is  moving  in  this  Saha-world.
 
-And  on  that  occasion  the  Lord  uttered  the  follow-
-ing stanzas :
+And  on  that  occasion  the  Lord  uttered  the  following stanzas :
 
 1.  Altradhva^a  asked  Akshayamati  the  following
-question  :  For  what  reason,  son  of  G'ma.,  is  Avaloki-
-te^vara  (so)  called x  ?
+question  :  For  what  reason,  son  of  G'ma.,  is  Avalokite^vara  (so)  called x  ?
 
-2.  And  Akshayamati,  that  ocean  of  profound  in-
-sight, after  considering  how  the  matter  stood2,  spoke
-to  Tifitradhva^a :  Listen  to  the  conduct  of  Avaloki-
-te^vara.
+2.  And  Akshayamati,  that  ocean  of  profound  insight, after  considering  how  the  matter  stood2,  spoke
+to  Tifitradhva^a :  Listen  to  the  conduct  of  Avalokite^vara.
 
 3.  Hear  from  my  indication  how  for  numerous,
 inconceivable  ^Eons  he  has  accomplished  his  vote
 under  many  thousand  ko/is  of  Buddhas.
 
 4.  Hearing,    seeing,    regularly    and    constantly
-thinking3  will  infallibly  destroy  all  suffering,  (mun-
-dane) existence,  and  grief  of  living  beings  here  on
+thinking3  will  infallibly  destroy  all  suffering,  (mundane) existence,  and  grief  of  living  beings  here  on
 earth.
 
 5.  If  one  be  thrown  into  a  pit  of  fire,  by  a  wicked
@@ -19873,8 +18332,7 @@ his  power,  is  the  object  of  hearing,  &c.
 
 7.  If  a  man  happens  to  be  hurled  down  from  the
 brink  of  the  Meru,  by  some  wicked  person  with  the
-object  of  killing  him,  he  has  but  to  think  of  Ava-
-lokitesvara,  and   he   shall,    sunlike,  stand   firm    in
+object  of  killing  him,  he  has  but  to  think  of  Avalokitesvara,  and   he   shall,    sunlike,  stand   firm    in
 the  sky1.
 
 8.  If  rocks  of  thunderstone  and  thunderbolts  are
@@ -19887,8 +18345,7 @@ armed  with  swords,  who  have  the  intention  of  killing
 him,  he  has  but  to  think  of  Avalokite^vara,  and  they
 shall  instantaneously  become  kind-hearted.
 
-10.  If  a  man,  delivered  to  the  power  of  the  execu-
-tioners, is  already  standing  at  the  place  of  execution,
+10.  If  a  man,  delivered  to  the  power  of  the  executioners, is  already  standing  at  the  place  of  execution,
 he  has  but  to  think  of  Avalokitesvara,  and  their
 swords  shall  go  to  pieces.
 
@@ -19919,8 +18376,7 @@ but  one  stanza,  the  translation  of  which  runs  thus :  '  If,  &c.,  sur-
 XXIV.  THE   ALL-SIDED   ONE.  415
 
 14.  If  a  man  is  surrounded  by  fearful  beasts  with
-sharp  teeth  and  claws,  he  has  but  to  think  of  Avalo-
-kitesvara,  and  they  shall  quickly  fly  in  all  directions.
+sharp  teeth  and  claws,  he  has  but  to  think  of  Avalokitesvara,  and  they  shall  quickly  fly  in  all  directions.
 
 15.  If  a  man  is  surrounded  by  snakes  malicious
 and  frightful  on  account  of  the  flames  and  fires  (they
@@ -19932,15 +18388,12 @@ pregnant  with  lightning  and  thunder,  one  has  but
 to  think  of  Avalokitesvara,  and  the  fire  of  heaven
 shall  quickly,  instantaneously  be  quenched.
 
-17.  He  (Avalokitesvara)  with  his  powerful  know-
-ledge  beholds   all    creatures   who    are   beset   with
+17.  He  (Avalokitesvara)  with  his  powerful  knowledge  beholds   all    creatures   who    are   beset   with
 many  hundreds  of  troubles  and  afflicted  by  many
-sorrows,  and  thereby  is  a  saviour  in  the  world,  in-
-cluding the  gods.
+sorrows,  and  thereby  is  a  saviour  in  the  world,  including the  gods.
 
 1 8.  As  he  is  thoroughly  practised  in  the  power
-of  magic,  and  possessed  of  vast  knowledge  and  skil-
-fulness,  he  shows  himself1  in  all  directions  and  in
+of  magic,  and  possessed  of  vast  knowledge  and  skilfulness,  he  shows  himself1  in  all  directions  and  in
 all  regions  of  the  world.
 
 19.  Birth,  decrepitude,  and  disease  will  come  to
@@ -19993,13 +18446,11 @@ sound  is  as  the  cloud's  and  the  drum's,  who  thunders
 like  a  rain-cloud,  possesses  a  good  voice  like  Brahma,
 (a  voice)  going  through  the  whole  gamut  of  tones.
 
-25.  Think,  O  think  with  tranquil  mood  of  Avalo-
-kite^vara,  that  pure  being ;  he  is  a  protector,  a  refuge,
+25.  Think,  O  think  with  tranquil  mood  of  Avalokite^vara,  that  pure  being ;  he  is  a  protector,  a  refuge,
 a  recourse  in  death,  disaster,  and  calamity.
 
 26.  He  who  possesses  the  perfection  of  all  virtues,
-and  beholds  all  beings  with  compassion  and  bene-
-volence, he,  an  ocean  of  virtues,  Virtue  itself,  he,
+and  beholds  all  beings  with  compassion  and  benevolence, he,  an  ocean  of  virtues,  Virtue  itself,  he,
 Avalokite^vara,  is  worthy  of  adoration.
 
 1  Aparahata  anila^alaprabha  (voc.  case)  prapatento  ^agati  viro-
@@ -20016,18 +18467,14 @@ mahaghana  (voc.)
 XXIV.  THE   ALL-SIDED    ONE.  417
 
 27.  He,  so  compassionate  for  the  world,  shall  once
-become  a  Buddha,  destroying  all  dangers  and  sor-
-rows1 ;  I  humbly  bow  to  Avalokite^vara.
+become  a  Buddha,  destroying  all  dangers  and  sorrows1 ;  I  humbly  bow  to  Avalokite^vara.
 
 28.  This  universal  Lord,  chief  of  kings,  who  is  a
-(rich)  mine  of  monastic  virtues,  he,  universally  wor-
-shipped, has  reached  pure,  supreme  enlightenment,
-after  plying  his  course  (of  duty)  during  many  hun-
-dreds of  ./Eons.
+(rich)  mine  of  monastic  virtues,  he,  universally  worshipped, has  reached  pure,  supreme  enlightenment,
+after  plying  his  course  (of  duty)  during  many  hundreds of  ./Eons.
 
 29.  At  one  time  standing  to  the  right,  at  another
-to  the  left  of  the  Chief  Amitabha,  whom  he  is  fan-
-ning, he,  by  dint  of  meditation,  like  a  phantom,  in  all
+to  the  left  of  the  Chief  Amitabha,  whom  he  is  fanning, he,  by  dint  of  meditation,  like  a  phantom,  in  all
 regions  honours  the  Gina.
 
 30.  In  the  west,  where  the  pure  world  Sukhakara2
@@ -20036,8 +18483,7 @@ men 3,  has  his  fixed  abode.
 
 31.  There    no  women   are   to   be   found;    there
 sexual  intercourse  is  absolutely  unknown  ;  there  the
-sons  of  Gins.,  on  springing  into  existence  by  appari-
-tional  birth,    are  sitting  in  the    undefiled   cups   of
+sons  of  Gins.,  on  springing  into  existence  by  apparitional  birth,    are  sitting  in  the    undefiled   cups   of
 lotuses.
 
 32.  And  the  Chief  Amitabha  himself  is  seated  on
@@ -20073,16 +18519,13 @@ XXIV.
 has  been  praised,  has  no  equal  in  the  triple  world.
 O  supreme  of  men,  let  us  soon  become  like  thee !
 
-Thereupon  the  Bodhisattva  Mahasattva  Dhara-
-windhara  rose  from  his  seat,  put  his  upper  robe  upon
+Thereupon  the  Bodhisattva  Mahasattva  Dharawindhara  rose  from  his  seat,  put  his  upper  robe  upon
 one  shoulder,  fixed  his  right  knee  against  the  earth,
 stretched  his  joined  hands  towards  the  Lord  and
 said  :  They  must  be  possessed  of  not  a  few  good
 roots,  O  Lord,  who  are  to  hear  this  chapter  from
-the  Dharmaparyaya  about  the  Bodhisattva  Maha-
-sattva Avalokitesvara  and  this  miraculous  power  of
-transformation  of  the  Bodhisattva  Mahasattva  Ava-
-lokitesvara.
+the  Dharmaparyaya  about  the  Bodhisattva  Mahasattva Avalokitesvara  and  this  miraculous  power  of
+transformation  of  the  Bodhisattva  Mahasattva  Avalokitesvara.
 
 And  while  this  chapter  of  the  All-sided  One  was
 being  expounded  by  the  Lord,  eighty-four  thousand
@@ -20105,25 +18548,19 @@ CHAPTER   XXV.
 
 ANCIENT    DEVOTION1.
 
-Thereupon  the  Lord  addressed  the  entire  assem-
-blage of  Bodhisattvas :  Of  yore,  young  men  of  good
-family,  at  a  past  epoch,  incalculable,  more  than  in-
-calculable yEons  ago,  at  that  time  there  appeared
-in  the  world  a  Tathagata  named  ^aladharagar^ita-
-ghoshasusvaranakshatrara^asahkusumitabhi^a,  an
+Thereupon  the  Lord  addressed  the  entire  assemblage of  Bodhisattvas :  Of  yore,  young  men  of  good
+family,  at  a  past  epoch,  incalculable,  more  than  incalculable yEons  ago,  at  that  time  there  appeared
+in  the  world  a  Tathagata  named  ^aladharagar^itaghoshasusvaranakshatrara^asahkusumitabhi^a,  an
 Arhat,  &c.,  endowed  with  science  and  conduct,  &c.
-&c.,  in  the  .^Eon  Priyadarsana,  in  the  world  Vairo/£a-
-nara^mipratima^^ita.  Now,  there  was,  young  men  of
-good  family,  under  the  spiritual  rule  of  the  Tatha-
-gata ^aladharagar^itaghoshasusvaranakshatrara^a-
+&c.,  in  the  .^Eon  Priyadarsana,  in  the  world  Vairo/£anara^mipratima^^ita.  Now,  there  was,  young  men  of
+good  family,  under  the  spiritual  rule  of  the  Tathagata ^aladharagar^itaghoshasusvaranakshatrara^a-
 sankusumitabhi^a  a  king  called  .5iibhavyuha.  That
 king  ,5iibhavyuha,  young  men  of  good  family,  had
 a  wife  called  Vimaladatta,  and  two  sons,  one  called
 Vimalagarbha,  the  other  Vimalanetra.  These  two
 boys,  who  possessed  magical  power  and  wisdom2,
 applied  themselves  to  the  course  of  duty  of
-Bodhisattvas,  viz.  to  the  perfect  virtues  (Parami-
-tas)  of  almsgiving,  morality,  forbearance,  energy,
+Bodhisattvas,  viz.  to  the  perfect  virtues  (Paramitas)  of  almsgiving,  morality,  forbearance,  energy,
 meditation,  wisdom,  and  skilfulness ;  they  were
 accomplished  in  benevolence,  compassion,  joyful
 sympathy  and  indifference,  and  in  all  the  thirty-
@@ -20138,24 +18575,18 @@ E  e  2
 42O  SADDHARMA-PUJVDARfKA.  XXV.
 
 seven  constituents  of  true  knowledge 1.  They  had
-perfectly  mastered  the  meditation  Vimala  (i.e.  spot-
-less), the  meditation  Nakshatrara^aditya2,the  medita-
+perfectly  mastered  the  meditation  Vimala  (i.e.  spotless), the  meditation  Nakshatrara^aditya2,the  medita-
 tion Vimalanirbhasa,  the  meditation  Vimalabhasa,  the
-meditation  Alahkarasura3,  the  meditation  Mahate^o-
-garbha4.  Now  at  that  time,  that  period  the  said
+meditation  Alahkarasura3,  the  meditation  Mahate^ogarbha4.  Now  at  that  time,  that  period  the  said
 Lord  preached  the  Dharmaparyaya  of  the  Lotus  of
 the  True  Law  out  of  compassion  for  the  beings  then
 living  and  for  the  king  .Subhavyuha.  Then,  young
-men  of  good  family,  the  two  young  princes  Vimala-
-garbha  and  Vimalanetra  went  to  their  mother,  to
+men  of  good  family,  the  two  young  princes  Vimalagarbha  and  Vimalanetra  went  to  their  mother,  to
 whom  they  said,  after  stretching  their  joined  hands  :
-We  should  like  to  go,  mother,  to  the  Lord  £aladha-
-ragar^itaghoshasusvaranakshatrara^asankusumita-
+We  should  like  to  go,  mother,  to  the  Lord  £aladharagar^itaghoshasusvaranakshatrara^asankusumita-
 bhl^na.,  the  Tathagata,  &c.,  and  that,  mother,  because
-the  Lord  G'aladharagar^itaghoshasusvaranakshatra-
-ra^asahkusumitabhi^//a,  the  Tathagata,  &c.,  ex-
-pounds, in  great  extension,  before  the  world,  in-
-cluding the  gods,  the  Dharmaparyaya  of  the  Lotus  of
+the  Lord  G'aladharagar^itaghoshasusvaranakshatrara^asahkusumitabhi^//a,  the  Tathagata,  &c.,  ex-
+pounds, in  great  extension,  before  the  world,  including the  gods,  the  Dharmaparyaya  of  the  Lotus  of
 the  True  Law.  We  should  like  to  hear  it.  Whereupon
 the  queen  Vimaladatta  said  to  the  two  young  princes
 Vimalagarbha  and  Vimalanetra :  Your  father,  young
@@ -20191,8 +18622,7 @@ the  young  princes  :  Well,  young  gentlemen,  out  of
 compassion  for  your  father,  the  king  .Subhavyuha,
 display  some  miracle,  that  he  may  become  favourably
 inclined  to  you,  and  on  that  account  grant  you  the
-permission  of  going  to  the  Lord  6aladharagar£ita-
-ghoshasusvaranakshatrara^asankusumitabhi^a,  the
+permission  of  going  to  the  Lord  6aladharagar£itaghoshasusvaranakshatrara^asankusumitabhi^a,  the
 Tathagata,  &c.
 
 Immediately  the  young  princes  Vimalagarbha  and
@@ -20224,8 +18654,7 @@ Gaudama,  vol.  i,  p.  218.
 magical  power  of  the  two  young  princes,  whereby
 their  father,  the  king  .Subhavyuha,  was  converted.
 At  the  sight  of  the  miracle  produced  by  the  magical
-power  of  the  two  young  princes,  the  king  .5ubha-
-vyuha  was  content,  in  high  spirits,  ravished,  rejoiced,
+power  of  the  two  young  princes,  the  king  .5ubhavyuha  was  content,  in  high  spirits,  ravished,  rejoiced,
 joyful,  and  happy,  and,  the  joined  hands  raised,
 he  said  to  the  boys  :  Who  is  your  master,  young
 gentlemen  ?  whose  pupils  are  you  ?  And  the  two
@@ -20233,12 +18662,10 @@ young  princes  answered  the  king  .Subhavyuha :
 There  is,  noble  king,  there  exists  and  lives
 a  Lord  Caladharagar^itaghoshasusvaranakshatrara-
 ^asankusumitabhi^a,  a  Tathagata,  &c.;  seated  on
-the  stool  of  law  at  the  foot  of  the  tree  of  enlighten-
-ment ;  he  extensively  reveals  the  Dharmaparyiya
+the  stool  of  law  at  the  foot  of  the  tree  of  enlightenment ;  he  extensively  reveals  the  Dharmaparyiya
 of  the  Lotus  of  the  True  Law  to  the  world,
 including  the  gods.  That  Lord  is  our  Master,  O
-noble  king  ;  we  are  his  pupils.  Then,  young  gentle-
-men of  good  family,  the  king  6ubhavyuha  said  to
+noble  king  ;  we  are  his  pupils.  Then,  young  gentlemen of  good  family,  the  king  6ubhavyuha  said  to
 the  young  princes :  I  will  see  your  Master,  young
 gentlemen;  I  am  to  go  myself  to  the  presence  of
 that  Lord.
@@ -20279,21 +18706,18 @@ a  Tathagata.
 Having  uttered  these  stanzas,  young  men  of  good
 family,  the  two  young  princes  said  to  their  parents  :
 Pray,  father  and  mother,  you  also  go  together  with
-us  to  the  Lord  (Saladharagar^itaghoshasusvarana-
-kshatrara^asarikusumitabhi£7za,the  Tathagata,  &c.,  in
+us  to  the  Lord  (Saladharagar^itaghoshasusvaranakshatrara^asarikusumitabhi£7za,the  Tathagata,  &c.,  in
 order  to  see,  humbly  salute  and  wait  upon  him,  and  to
 hear  the  law.  For,  father  and  mother,  the  appearance
 of  a  Buddha  is  rare  to  be  met  with  as  the  blossom
-of  the  glomerated  fig-tree,  as  the  entering  of  the  tor-
-toise's neck  into  the  hole  of  the  yoke  formed  by  the
+of  the  glomerated  fig-tree,  as  the  entering  of  the  tortoise's neck  into  the  hole  of  the  yoke  formed  by  the
 great  ocean  l.  The  appearance  of  Lords  Buddhas,
 father  and  mother,  is  rare.  Hence,  father  and
 mother,  it  is  a  happy  lot  we  have  been  blessed  with,
 to  have  been  born  at  the  time  of  such  a  prophet.
 Therefore,  father  and  mother,  give  us  leave ;  we
 would  go  and  become  ascetics  in  presence2  of  the
-Lord  (^aladharagar^itaghoshasusvaranakshatrara^a-
-sankusumitabhi^a,  the  Tathagata,  &c.,  for  the
+Lord  (^aladharagar^itaghoshasusvaranakshatrara^asankusumitabhi^a,  the  Tathagata,  &c.,  for  the
 
 1  I  am  as  unable  to  elucidate  this  comparison  as  Burnouf  was.
 Not  unlikely  the  mythological  tortoise  in  its  quality  of  supporter  of
@@ -20314,10 +18738,8 @@ the  eighty-four  thousand  women  of  the  harem  of  the
 king,5ubhavyuha  became  worthy  of  being  receptacles
 of  this  Dharmaparyayaofthe  Lotus  of  the  True  Law.
 The  young  prince  Vimalanetra  exercised  himself  in
-this  Dharmaparyaya,  whereas  the  young  prince  Vi-
-malagarbha  for  many  hundred  thousand  myriads  of
-ko/is  of  -^Eons  practised  the  meditation  Sarvasattva-
-papa^ahana 2,  with  the  object  that  all  beings  should
+this  Dharmaparyaya,  whereas  the  young  prince  Vimalagarbha  for  many  hundred  thousand  myriads  of
+ko/is  of  -^Eons  practised  the  meditation  Sarvasattvapapa^ahana 2,  with  the  object  that  all  beings  should
 abandon  all  evils.  And  the  mother  of  the  two
 young  princes,  the  queen  Vimaladatta,  acknowledged
 the  harmony  between  all  Buddhas  and  all  topics
@@ -20328,11 +18750,9 @@ two  young  princes,  having  been  initiated  and  brought
 to  full  maturity  in  it,  along  with  all  his  relations  and
 retinue;  the  queen  Vimaladatta  with  the  whole
 crowd  of  women  in  her  suite,  and  the  two  young
-princes,  the  sons  of  the  king  6ubhavyuha,  accom-
-panied by  forty-two  thousand  living  beings,  along
+princes,  the  sons  of  the  king  6ubhavyuha,  accompanied by  forty-two  thousand  living  beings,  along
 with  the  women  of  the  harem  and  the  ministers,
-went  all  together  and  unanimously  to  the  Lord  Gala-
-dharagar^itaghoshasusvaranakshatrara^asahkusumi-
+went  all  together  and  unanimously  to  the  Lord  Galadharagar^itaghoshasusvaranakshatrara^asahkusumi-
 tabhi^wa,  the  Tathagatha,  &c.  On  arriving  at  the
 place  where  the  Lord  was,  they  humbly  saluted  his
 
@@ -20350,32 +18770,26 @@ XXV.  ANCIENT   DEVOTION.  425
 feet,  circumambulated  him  three  times  from  left  to
 right  and  took  their  stand  at  some  distance.
 
-Then,  young  men  of  good  family,  the  Lord  6*ala-
-dharagar^itaghoshasusvaranakshatrara^asankusumi-
+Then,  young  men  of  good  family,  the  Lord  6*aladharagar^itaghoshasusvaranakshatrara^asankusumi-
 tabhi^a,  the  Tathagata,  &c.,  perceiving  the  king
-6ubhavyuha,  who  had  arrived  with  his  retinue,  in-
-structed, roused,  excited,  and  comforted  him  with  a
+6ubhavyuha,  who  had  arrived  with  his  retinue,  instructed, roused,  excited,  and  comforted  him  with  a
 sermon.  And  the  king  .Subhavyuha,  young  men  of
-good  family,  after  he  had  been  well  and  duly  in-
-structed, roused,  excited,  and  comforted  by  the  sermon
+good  family,  after  he  had  been  well  and  duly  instructed, roused,  excited,  and  comforted  by  the  sermon
 of  the  Lord,  was  so  content,  glad,  ravished,  joyful,
 rejoiced,  and  delighted,  that  he  put  his  diadem  on
 the  head  of  his  younger  brother  and  established  him
 in  the  government,  whereafter  he  himself  with  his
-sons,  kinsmen,  and  retinue,  as  well  as  the  queen  Vima-
-ladatta  and  her  numerous  train  of  women,  the  two
+sons,  kinsmen,  and  retinue,  as  well  as  the  queen  Vimaladatta  and  her  numerous  train  of  women,  the  two
 young  princes  accompanied  by  forty-two l  thousand
 living  beings  went  all  together  and  unanimously
 forth  from  home  to  embrace  the  houseless  life,
-prompted  as  they  were  by  their  faith  in  the  preach-
-ing of  the  Lord  6aladharagar£itaghoshasusvarana-
+prompted  as  they  were  by  their  faith  in  the  preaching of  the  Lord  6aladharagar£itaghoshasusvarana-
 kshatrara^asahkusumitabhi^a,  the  Tathagata,  &c.
 Having  become  an  ascetic,  the  king  Subhavyuha,
 with  his  retinue,  remained  for  eighty-four  thousand
 years  applying  himself  to  studying,  meditating,  and
 thoroughly  penetrating  this  Dharmaparyaya  of  the
-Lotus  of  the  True  Law.  At  the  end  of  those  eighty-
-four  thousand  years,  young  men  of  good  family,  the
+Lotus  of  the  True  Law.  At  the  end  of  those  eightyfour  thousand  years,  young  men  of  good  family,  the
 king  .Subhavyuha  acquired  the  meditation  termed
 Sarvaguwalankaravyuha 2.  No  sooner  had  he  ac-
 
@@ -20391,20 +18805,17 @@ good  qualities.
 quired  that  meditation,  than  he  rose  seven  Tals  up
 to  the  sky,  and  while  staying  in  the  air,  young  men
 of  good  family,  the  king  .Subhavyuha  said  to  the
-Lord  6"aladharagar^itaghoshasusvaranakshatrara^a-
-sankusumitabhi^Tza,  the  Tathagata,  &c. :  My  two
+Lord  6"aladharagar^itaghoshasusvaranakshatrara^asankusumitabhi^Tza,  the  Tathagata,  &c. :  My  two
 sons,  O  Lord,  are  my  masters,  since  it  is  owing  to  the
 miracle  produced  by  their  magical  power  that  I  have
-been  diverted  from  that  great  heap  of  false  doc-
-trines, been  established  in  the  command  of  the  Lord,
+been  diverted  from  that  great  heap  of  false  doctrines, been  established  in  the  command  of  the  Lord,
 brought  to  full  ripeness  in  it,  introduced  to  it,  and
 exhorted  to  see  the  Lord.  They  have  acted  as
 true  friends  to  me,  O  Lord,  those  two  young  princes
 who  as  sons  were  born  in  my  house,  certainly  to
 remind  me  of  my  former  roots  of  goodness.
 
-At  these  words  the  Lord  ^aladharagar^itagho-
-shasusvaranakshatrara^asarikusumitabhi^a,  the  Ta-
+At  these  words  the  Lord  ^aladharagar^itaghoshasusvaranakshatrara^asarikusumitabhi^a,  the  Ta-
 thagata, &c.,  spoke  to  the  king  Subhavyuha  :  It  is
 as  thou  sayest,  noble  king.  Indeed,  noble  king,  such
 young  men  or  young  ladies  of  good  family  as  possess
@@ -20440,8 +18851,7 @@ right  doctrine.
 
 Thereupon,  young  men  of  good  family,  the  king
 .Subhavyuha  came  down  from  the  sky,  and,  having
-raised  his  joined  hands,  said  to  the  Lord  6ala-
-dharagar^itaghoshasusvaranakshatrara^asahkusumi-
+raised  his  joined  hands,  said  to  the  Lord  6aladharagar^itaghoshasusvaranakshatrara^asahkusumi-
 tabhy^a,  the  Tathagata,  &c. :  Please,  Lord,  deign  to
 tell  me,  what  knowledge  the  Tathagata  is  possessed
 of,  so  that  the  protuberance  on  his  head  is  shining ;
@@ -20449,21 +18859,17 @@ that  the  Lord's  eyes  are  so  clear ;  that  between  his
 brows  the  Ur^a  (circle  of  hair)  is  shining,  resembling
 in  whiteness  the  moon  ;  that  in  his  mouth  a  row
 of  equal  and  close-standing  teeth  is  glittering ;  that
-the  Lord  has  lips  red  as  the  Bimba  and  such  beau-
-tiful eyes.
+the  Lord  has  lips  red  as  the  Bimba  and  such  beautiful eyes.
 
 As  the  king  Subhavyuha,  young  men  of  good
-family,  had  celebrated  the  Lord  Galadharagar^ita-
-ghoshasusvaranakshatrara^asankusumitabhi^a,  the
+family,  had  celebrated  the  Lord  Galadharagar^itaghoshasusvaranakshatrara^asankusumitabhi^a,  the
 Tathagata,  &c.,  by  enumerating  so  many  good  qualities
 and  hundred  thousands  of  myriads  of  ko/is  of  other
-good  qualities  besides,  he  said  to  the  Lord  Galadhara-
-gar^itaghoshasusvaranakshatrara^asahkusumitabhi-
+good  qualities  besides,  he  said  to  the  Lord  Galadharagar^itaghoshasusvaranakshatrara^asahkusumitabhi-
 gna.,  the  Tathagata,  &c. :  It  is  wonderful,  O  Lord,  how
 valuable  the  Tathagata's  teaching  is,  and  with  how
 many  inconceivable  virtues  the  religious  discipline
-proclaimed  by  the  Tathagata  is  attended  ;  how  bene-
-ficial the  moral  precepts  proclaimed  by  the  Tatha-
+proclaimed  by  the  Tathagata  is  attended  ;  how  beneficial the  moral  precepts  proclaimed  by  the  Tatha-
 gata are.  From  henceforward,  O  Lord,  we  will  no
 
 
@@ -20476,50 +18882,41 @@ Being  possessed  of  so  many  good  qualities,  O  Lord,
 I  do  not  wish  to  go  away  from  the  presence  of  the
 Lord !.
 
-After  humbly  saluting  the  feet  of  the  Lord  6ala-
-dharagar/itaghoshasusvaranakshatrara^asankusumi-
+After  humbly  saluting  the  feet  of  the  Lord  6aladharagar/itaghoshasusvaranakshatrara^asankusumi-
 tabhi^a,  the  Tathagata,  &c.,  the  king  rose  up  to  the
-sky  and  there  stood.  Thereupon  the  king  ,5'ubha-
-vyuha  and  the  queen  Vimaladatta  from  the  sky,  threw
+sky  and  there  stood.  Thereupon  the  king  ,5'ubhavyuha  and  the  queen  Vimaladatta  from  the  sky,  threw
 a  pearl  necklace  worth  a  hundred  thousand  (gold
 pieces)  upon  the  Lord ;  and  that  pearl  necklace  no
 sooner  came  down  upon  the  head  of  the  Lord  than  it
 assumed  the  shape  of  a  tower  with  four  columns,
-regular,  well-constructed,  and  beautiful.  On  the  sum-
-mit of  the  tower  appeared  a  couch  covered  with  many
+regular,  well-constructed,  and  beautiful.  On  the  summit of  the  tower  appeared  a  couch  covered  with  many
 hundred  thousand  pieces  of  fine  cloth,  and  on  the
 couch  was  seen  the  image  of  a  Tathagata  sitting
 cross-legged.  Then  the  following  thought  presented
 itself  to  the  king.5ubhavyuha :  The  Buddha-knowledge
 must  be  very  powerful,  and  the  Tathagata  endowed
-with  inconceivable  good  qualities  that  this  Tathagata-
-image  shows  itself  on  the  summit  of  the  tower,  (an
+with  inconceivable  good  qualities  that  this  Tathagataimage  shows  itself  on  the  summit  of  the  tower,  (an
 image)  so  nice,  beautiful,  possessed  of  an  extreme
-abundance  of  good  colours.  Then  the  Lord  ^aladhara-
-gar^itaghoshasusvaranakshatrara^asankusumitabhi-
+abundance  of  good  colours.  Then  the  Lord  ^aladharagar^itaghoshasusvaranakshatrara^asankusumitabhi-
 the  Tathagata,  &c.,  addressed  the  four  classes
 
 
 1  Here  I  have  followed  Burnouf  's  reading ;  the  Cambridge  MS.
-has :  ebhir  ahaw  Bhagavann  iyadbhir  akusalair  dharmai-^  samanva-
-gato  ne^^ami  Bhagavato  'ntika/w  (sic)  upasa/wkramituw,  i.e.  being
+has :  ebhir  ahaw  Bhagavann  iyadbhir  akusalair  dharmai-^  samanvagato  ne^^ami  Bhagavato  'ntika/w  (sic)  upasa/wkramituw,  i.e.  being
 possessed  of  so  many  unholy  qualities,  O  Lord,  I  do  (or  did)  not
 wish  to  approach  the  Lord.
 
 
 XXV.  ANCIENT   DEVOTION.  429
 
-(and  asked) :  Do  you  see,  monks,  the  king  .Subha-
-vyuha who,  standing  in  the  sky,  is  emitting  a  lion's
+(and  asked) :  Do  you  see,  monks,  the  king  .Subhavyuha who,  standing  in  the  sky,  is  emitting  a  lion's
 roar  ?  They  answered  :  We  do,  Lord.  The  Lord
 proceeded :  This  king  .Subhavyuha,  monks,  after
 having  become  a  monk  under  my  rule  shall  become
-a  Tathagata  in  the  world,  by  the  name  of  .Salendra-
-ra^a1,  endowed  with  science  and  conduct,  &c.  &c.,
+a  Tathagata  in  the  world,  by  the  name  of  .Salendrara^a1,  endowed  with  science  and  conduct,  &c.  &c.,
 in  the  world  Vistir^avatl;  his  epoch  shall  be  called
 Abhyudgatara^a.  That  Tathagata  .Salendrarafa,
-monks,  the  Arhat,  &c.,  shall  have  an  immense  congre-
-gation of  Bodhisattvas,  an  immense  congregation  of
+monks,  the  Arhat,  &c.,  shall  have  an  immense  congregation of  Bodhisattvas,  an  immense  congregation  of
 disciples.  The  said  world  Vistir^avatl  shall  be  level
 as  the  palm  of  the  hand,  and  consist  of  lapis  lazuli.
 So  he  shall  be  an  inconceivably  great  Tathagata,  &c.
@@ -20533,8 +18930,7 @@ king  Subhavyuha.  Perhaps,  young  men  of  good
 family,  you  will  have  some  doubt,  uncertainty  or
 misgiving  (and  think)  that  the  queen  Vimaladattd
 at  that  time,  that  juncture  was  another.  But  you
-must  not  think  so ;  for  it  is  the  very  same  Bodhi-
-sattva Mahasattva  called  Vairo^anara^mipratimaw^i-
+must  not  think  so ;  for  it  is  the  very  same  Bodhisattva Mahasattva  called  Vairo^anara^mipratimaw^i-
 tara£"a 2,  who  at  that  time,  that  juncture  was  the
 queen  Vimaladatta,  and  who  out  of  compassion  for
 the  king  Subhavyuha  and  the  creatures  had  assumed
@@ -20558,17 +18954,14 @@ and  Bhaisha^yara^asamudgata,  who  at  that  time,
 that  juncture  were  sons  to  the  king  .Subhavyuha.
 With  such  inconceivable  qualities,  young  men  of
 good  family,  were  the  Bodhisattvas  Mahasattvas
-Bhaisha^yara^a  and  Bhaisha^yara^asamudgata  en-
-dowed, they,  the  two  good  men,  having  planted
+Bhaisha^yara^a  and  Bhaisha^yara^asamudgata  endowed, they,  the  two  good  men,  having  planted
 good  roots  under  many  hundred  thousand  myriads
 of  ko/is  of  Buddhas.  Those  that  shall  cherish  the
 name  of  these  two  good  men  shall  all  become
-worthy  of  receiving  homage  from  the  world,  includ-
-ing the  gods.
+worthy  of  receiving  homage  from  the  world,  including the  gods.
 
 While  this  chapter  on  Ancient  Devotion  was  being
-expounded,  the  spiritual  insight  of  eighty-four  thou-
-sand living  beings  in  respect  to  the  law  was  purified
+expounded,  the  spiritual  insight  of  eighty-four  thousand living  beings  in  respect  to  the  law  was  purified
 so  as  to  become  unclouded  and  spotless.
 
 
@@ -20579,11 +18972,9 @@ CHAPTER  XXVI.
 
 ENCOURAGEMENT1  OF  SAMANTABHADRA.
 
-Thereupon  the  Bodhisattva  Mahasattva  Saman-
-tabhadra,  in  the  east,  surrounded  and  followed  by
+Thereupon  the  Bodhisattva  Mahasattva  Samantabhadra,  in  the  east,  surrounded  and  followed  by
 Bodhisattvas  Mahasattvas  surpassing  all  calculation,
-amid  the  stirring  of  fields,  a  rain  of  lotuses,  the  play-
-ing of  hundred  thousands  of  myriads  of  ko^is  of
+amid  the  stirring  of  fields,  a  rain  of  lotuses,  the  playing of  hundred  thousands  of  myriads  of  ko^is  of
 musical  instruments,  proceeded  with  the  great  pomp
 of  a  Bodhisattva,  the  great  display  of  transformations
 proper  to  a  Bodhisattva,  the  great  magnificence  of  a
@@ -20594,8 +18985,7 @@ display  of  a  Bodhisattva,  a  great  phantasmagorical
 sight  of  gods,  Nagas,  goblins,  Gandharvas,  demons,
 Garu^as,  Kinnaras,  great  serpents,  men,  and  beings
 not  human,  who,  produced  by  his  magic,  surrounded
-and  followed  him  ;  Samantabhadra,  then,  the  Bodhi-
-sattva, amid  such  inconceivable  miracles  worked  by
+and  followed  him  ;  Samantabhadra,  then,  the  Bodhisattva, amid  such  inconceivable  miracles  worked  by
 magic,  arrived  at  this  Saha- world.  He  went  up  to
 the  place  of  the  Lord  on  the  Grz'dhraku^a,  the  king
 of  mountains,  and  on  approaching  he  humbly  saluted
@@ -20612,22 +19002,19 @@ tefobhyudgata,  the  Tathagata,  &c.,  as  I  am  aware,
 Lord,  that  here  in  the  Saha-world  is  taught  the
 Dharmaparyaya  of  the  Lotus  of  the  True  Law,  to
 hear  which  from  the  mouth  of  the  Lord  6akyamuni
-I  have  come  accompanied  by  these  hundred  thou-
-sands of  Bodhisattvas  Mahasattvas.  May  the  Lord
+I  have  come  accompanied  by  these  hundred  thousands of  Bodhisattvas  Mahasattvas.  May  the  Lord
 deign  to  expound,  in  extension,  this  Dharmaparyaya
 of  the  Lotus  of  the  True  Law  to  these  Bodhisattvas
 Mahasattvas.  So  addressed,  the  Lord  said  to  the
 Bodhisattva  Mahasattva  Samantabhadra :  These
 Bodhisattvas,  young  man  of  good  family,  are,  indeed,
 quick  of  understanding,  but  this  is  the  Dharmaparyaya
-of  the  Lotus  of  the  True  Law,  that  is  to  say,  an  un-
-mixed truth 1.  The  Bodhisattvas  exclaimed  :  Indeed
+of  the  Lotus  of  the  True  Law,  that  is  to  say,  an  unmixed truth 1.  The  Bodhisattvas  exclaimed  :  Indeed
 Lord ;  indeed,  Sugata.  Then  in  order  to  confirm,
 in  the  Dharmaparyaya  of  the  Lotus  of  the  True
 Law,  the  females2  among  the  monks,  nuns,  and  lay
 devotees  assembled  at  the  gathering,  the  Lord  again
-spoke  to  the  Bodhisattva  Mahasattva  Samantabha-
-dra :  This  Dharmaparyaya  of  the  Lotus  of  the  True
+spoke  to  the  Bodhisattva  Mahasattva  Samantabhadra :  This  Dharmaparyaya  of  the  Lotus  of  the  True
 Law,  young  man  of  good  family,  shall  be  entrusted
 to  a  female  if  she  be  possessed  of  four  requisites,
 to  wit :  she  shall  stand  under  the  superintendence  of
@@ -20640,8 +19027,7 @@ roots 3 ;  she  shall  keep  steadily  to  the  mass  of  disci-
 2  Tdsam.     I  am  not  able  to  discover  the  connection  between
 this  confirming  of  the  females  in  the  gathering,  and  the  foregoing
 remark  on  the  character  of  the  Saddharma.     The  explanation  is
-probably  to  be  sought  in  the  term  asambhinna,  unallayed,  un-
-mixed.    The  meaning  of  the  passage  may  be  that  the  Saddharma-
+probably  to  be  sought  in  the  term  asambhinna,  unallayed,  unmixed.    The  meaning  of  the  passage  may  be  that  the  Saddharma-
 pu»<?arika,  as  a  general  rule,  is  fit  for  males  only,  but  under  certain
 conditions  may  be  entrusted  to  females  also.
 
@@ -20650,8 +19036,7 @@ conditions  may  be  entrusted  to  females  also.
 
 XXVI.   ENCOURAGEMENT  OF  SAMANTABHADRA.     433
 
-plinary  regulations ;  she  shall,  in  order  to  save  crea-
-tures, have  the  thoughts  fixed  on  supreme  and  perfect
+plinary  regulations ;  she  shall,  in  order  to  save  creatures, have  the  thoughts  fixed  on  supreme  and  perfect
 enlightenment.  These  are  the  four  requisites,  young
 man  of  good  family,  a  female  must  be  possessed  of,
 to  whom  this  Dharmaparyaya  of  the  Lotus  of  the
@@ -20668,16 +19053,12 @@ Evil  One,  nor  the  sons  of  Mara,  the  angels  called
 Marakayikas,  the  daughters  of  Mara,  the  followers
 of  Mara,  and  all  other  servitors  to  Mara ;  that  no
 gods,  goblins,  ghosts,  imps,  wizards,  spectres  laying
-snares  for  those  preachers  may  surprise  them.  In-
-cessantly and  constantly,  O  Lord,  will  I  protect  such
-a  preacher.  And  when  a  preacher  who  applies  him-
-self to  this  Dharmaparyaya  shall  take  a  walk,  then,
+snares  for  those  preachers  may  surprise  them.  Incessantly and  constantly,  O  Lord,  will  I  protect  such
+a  preacher.  And  when  a  preacher  who  applies  himself to  this  Dharmaparyaya  shall  take  a  walk,  then,
 O  Lord,  will  I  mount  a  white  elephant  with  six
-tusks,  and  with  a  train  of  Bodhisattvas  betake  my-
-self to  the  place  where  that  preacher  is  walking,  in
+tusks,  and  with  a  train  of  Bodhisattvas  betake  myself to  the  place  where  that  preacher  is  walking,  in
 order  to  protect  this  Dharmaparyaya.  And  when
-that  preacher,  applying  himself  to  this  Dharmapar-
-yaya, forgets,  be  it  but  a  single  word  or  syllable,  then
+that  preacher,  applying  himself  to  this  Dharmaparyaya, forgets,  be  it  but  a  single  word  or  syllable,  then
 will  I  mount  the  white  elephant  with  six  tusks,  show
 my  face  to  that  preacher,  and  repeat  this  entire
 Dharmaparyaya 2.  And  when  the  preacher  has
@@ -20692,8 +19073,7 @@ preachers  as  the  Buddha  himself;  see  chapter  X,  especially  stanzas
 
 434  SADDHARMA-PUJV£ARlKA.  XXVI.
 
-seen  my  proper  body  and  heard  from  me  this  en-
-tire Dharmaparyaya,  he,  content,  in  high  spirits,
+seen  my  proper  body  and  heard  from  me  this  entire Dharmaparyaya,  he,  content,  in  high  spirits,
 ravished,  rejoiced,  joyful,  and  delighted,  will  the
 more  do  his  utmost  to  study  this  Dharmaparyaya,
 and  immediately  after  beholding  me  he  will  acquire
@@ -20719,8 +19099,7 @@ them.  I  will  protect  them,  take  care  of  their  safety,
 avert  blows2,  and  destroy  poison.  I  will,  besides,
 O  Lord,  give  those  preachers  words  of  talismanic
 spells,  such  as,  Adande  da;^apati,  da^avartani
-daTzdaku.rale  da^</asudhari  dhari  sudharapati,  bud-
-dhapasyani  dhara/zi,  avartani  sa^vartani  sangha-
+daTzdaku.rale  da^</asudhari  dhari  sudharapati,  buddhapasyani  dhara/zi,  avartani  sa^vartani  sangha-
 parlkshite  sahghanirghatani  dharmaparikshite  sarva-
 
 that  the  Bodhisattva  entered  the  womb  of  his  mother  Maya  Devt
@@ -20733,11 +19112,9 @@ a  name  of  lightning.
 
 XXVI.       ENCOURAGEMENT    OF    SAMANTABHADRA.          435
 
-sattvarutakaiwalyanugate  siwhavikrtofae1.  The  Bo-
-dhisattva  Mahasattva,  whose  organ  of  hearing  is
+sattvarutakaiwalyanugate  siwhavikrtofae1.  The  Bodhisattva  Mahasattva,  whose  organ  of  hearing  is
 struck  by  these  talismanic  words,  Lord,  shall  be
-aware  that  the  Bodhisattva  Mahasattva  Samanta-
-bhadra  is  their  ruling  power2.
+aware  that  the  Bodhisattva  Mahasattva  Samantabhadra  is  their  ruling  power2.
 
 Further,  Lord,  the  Bodhisattvas  Mahasattvas  to
 whom  this  Dharmaparyaya  of  the  Lotus  of  the  True
@@ -20763,10 +19140,8 @@ svaha.  All  terms  are,  or  ought  to  be,  vocatives  of  feminine  words  in
 singular.   Pati,  as  in  Pali  p  a^a  pa  ti,  Buddhistic  Sansk.  pra^apati,
 interchanges  with  the  ending  vati;  not  only  in  pra^avati  (e.g.  in
 Lalita-vistara),  but  in  some  of  the  words  occurring  in  the  spell ;  so
-for  da#^apati  the  Tibetan  text  has  da.nda.va.ti.    As  .Siva  in  Mahd-
-bharata  XII,  10361  is  represented  as  the  personified  Dawda,  we
-may  hold  that  all  the  names  above  belong  to  .Siva's  female  counter-
-part, Durga.     The  epithet  of  Si7whavikri<fita  is  but  a  variation  of
+for  da#^apati  the  Tibetan  text  has  da.nda.va.ti.    As  .Siva  in  Mahdbharata  XII,  10361  is  represented  as  the  personified  Dawda,  we
+may  hold  that  all  the  names  above  belong  to  .Siva's  female  counterpart, Durga.     The  epithet  of  Si7whavikri<fita  is  but  a  variation  of
 Siff/hika,  one  of  the  names  of  Dakshayam  or  Durga  in  her  quality
 of  mother  to  Rahu.    Cf.  the  remarks  on  the  spells  in  chap.  XXI.
 
@@ -20794,8 +19169,7 @@ and  at  the  moment  of  his  death  he  shall  see  another
 thousand  of  Buddhas  from  face  to  face.  He  shall
 not  sink  down  into  a  state  of  wretchedness,  and
 after  disappearing  from  this  world  he  shall  enter
-the  company  of  the  Tushita-gods,  where  the  Bodhi-
-sattva  Mahasattva  Maitreya  is  residing,  and  where,
+the  company  of  the  Tushita-gods,  where  the  Bodhisattva  Mahasattva  Maitreya  is  residing,  and  where,
 marked  by  the  thirty-two  sublime  characteristics,
 surrounded  by  a  host  of  Bodhisattvas,  and  waited
 upon  by  hundred  thousands  of  myriads  of  ko/is  of
@@ -20803,10 +19177,8 @@ heavenly  nymphs  he  is  preaching  the  law.  Therefore,
 then,  young  men  of  good  family,  a  wise  young  man  or
 young  lady  of  good  family  should  respectfully  write
 this  Dharmaparyaya  of  the  Lotus  of  the  True  Law,
-respectfully  recite  it,  respectfully  study  it,  respect-
-fully treasure  it  up  in  his  (or  her)  mind.  By  writing,
-reciting,  studying  this  Dharmaparyaya,  and  by  trea-
-suring it  up  in  one's  mind,  young  men  of  good
+respectfully  recite  it,  respectfully  study  it,  respectfully treasure  it  up  in  his  (or  her)  mind.  By  writing,
+reciting,  studying  this  Dharmaparyaya,  and  by  treasuring it  up  in  one's  mind,  young  men  of  good
 family,  one  is  to  acquire  innumerable  good  qualities.
 Hence  a  wise  young  man  or  young  lady  of  good
 
@@ -20817,13 +19189,11 @@ MS.  is  no  mere  mistake,  for  we  find  it  repeated  in  the  sequel.
 XXVI.      ENCOURAGEMENT    OF    SAMANTABHADRA.  437
 
 family  ought  to  keep  this  Dharmaparyaya  of  the
-Lotus  of  the  True  Law.  I  myself,  O  Lord,  will  super-
-intend this  Dharmaparyaya,  that  through  my  super-
+Lotus  of  the  True  Law.  I  myself,  O  Lord,  will  superintend this  Dharmaparyaya,  that  through  my  super-
 intendence it  may  here  spread  in  (^ambudvfpa.
 
 Then  the  Lord  ,5akyamuni,  the  Tathagata,  &c.,
-expressed  his  approval  to  the  Bodhisattva  Maha-
-sattva  Samantabhadra  :  Very  well,  very  well,  Saman-
+expressed  his  approval  to  the  Bodhisattva  Mahasattva  Samantabhadra  :  Very  well,  very  well,  Saman-
 tabhadra.  It  is  happy  that  thou  art  so  well  disposed
 to  promote  the  weal  and  happiness  of  the  people
 at  large,  out  of  compassion  for  the  people,  for  the
@@ -20840,8 +19210,7 @@ that  they  have  heard  this  Dharmaparyaya  of  the
 Lotus  of  the  True  Law  from  the  Lord  .Sakyamuni ;
 that  they  have  paid  homage  to  the  Tathagata  S£-
 kyamuni ;  that  they  have  applauded  the  preaching
-of  the  Tathagata  -Sakyamuni.  They  will  have  joy-
-fully accepted  this  Dharmaparyaya;  the  Tathagata
+of  the  Tathagata  -Sakyamuni.  They  will  have  joyfully accepted  this  Dharmaparyaya;  the  Tathagata
 6akyamuni  will  have  laid  his  hand  upon  their  head,
 and  they  will  have  decked  the  Lord  .Sakyamuni  with
 their  robes.  Those  young  men  or  young  ladies  of
@@ -20856,8 +19225,7 @@ unlikely,  .Saiva  monks  or  devotees,  who,  if  leading  a  pious  life,  hav
 
 438  SADDHARMA-PUtfDARfKA.  XXVI.
 
-will  have  no  pleasure  in  worldly  philosophy1;  no  per-
-sons fondly  addicted  to  poetry  will  please  them  ;  no
+will  have  no  pleasure  in  worldly  philosophy1;  no  persons fondly  addicted  to  poetry  will  please  them  ;  no
 dancers,  athletes,  vendors  of  meat,  mutton  butchers,
 poulterers,  pork  butchers,  or  profligates  will  please
 them.  After  having  heard,  written,  kept,  or  read  such
@@ -20866,18 +19234,14 @@ persons.  They  must  be  held  to  be  possessed  of
 natural  righteousness2;  they  will  be  right-minded
 from  themselves,  possess  a  power  to  do  good  of  their
 own  accord,  and  make  an  agreeable  impression  on
-others.  Such  will  be  the  monks  who  keep  this  Su-
-tranta.  No  passionate  attachment  will  hinder  them,
+others.  Such  will  be  the  monks  who  keep  this  Sutranta.  No  passionate  attachment  will  hinder  them,
 no  hatred,  no  infatuation,  no  jealousy,  no  envy,  no
-hypocrisy,  no  pride,  no  conceitedness,  no  menda-
-ciousness.  Those  preachers,  Samantabhadra,  will  be
-content  with  what  they  receive.  He,  Samanta-
-bhadra, who  at  the  end  of  time,  at  the  end  of  the
+hypocrisy,  no  pride,  no  conceitedness,  no  mendaciousness.  Those  preachers,  Samantabhadra,  will  be
+content  with  what  they  receive.  He,  Samantabhadra, who  at  the  end  of  time,  at  the  end  of  the
 period,  in  the  second  half  of  the  millennium,  sees  a
 monk  keeping  this  Dharmaparyaya  of  the  Lotus  of
 the  True  Law,  must  think  thus :  This  young  man
-of  good  family  will  reach  the  terrace  of  enlighten-
-ment ;  this  young  man  will  conquer  the  troop  of  the
+of  good  family  will  reach  the  terrace  of  enlightenment ;  this  young  man  will  conquer  the  troop  of  the
 
 for  protector  or  patron  Samantabhadra,  who,  as  we  have  seen  above,
 is  the  lord  of  Svaha  or  Dakshayawi,  consequently  -Siva-Kala.
@@ -20885,16 +19249,14 @@ is  the  lord  of  Svaha  or  Dakshayawi,  consequently  -Siva-Kala.
 1  Na  Lokayate  ru&r   bhavishyati.     The  Lokayatikas   are   the
 Indian  Epicureans.
 
-2  Svabhavadharmasamanvagata^,  which  may  also  be  ren-
-dered by,  possessed  of  the  religion  of  Svabhava  (Nature).     This
+2  Svabhavadharmasamanvagata^,  which  may  also  be  rendered by,  possessed  of  the  religion  of  Svabhava  (Nature).     This
 I  think  to  be  the  recondite  and  real  meaning  of  the  term,  whether
 it  alludes  to  the  Svabhavika  sect  of  Buddhism  or  to  materialistic
 schools  among  the  -Saivas.     Though  the  philosophical  tenets  of  all
 Svabhavikas  are   identical  with   those  of  the  Lokayatikas,   their
 opinions  on  morals  are  exactly  the  reverse.     Hence  it  may  have
 been  deemed  necessary  to  inculcate  on  devotees  of  more  or  less
-strong  ascetic  habits  the  precept  that  they  should  have  no  inter-
-course with  the  immoral  vulgar  materialists.
+strong  ascetic  habits  the  precept  that  they  should  have  no  intercourse with  the  immoral  vulgar  materialists.
 
 
 XXVI.       ENCOURAGEMENT   OF    SAMANTABHADRA.  4,39
@@ -20906,8 +19268,7 @@ royal  throne  of  the  law.  The  monks  who  at  the  end
 of  time,  at  the  end  of  the  period,  in  the  second  half
 of  the  millennium,  keep  this  Dharmaparyaya,  will  not
 be  covetous,  nor  greedy  of  robes  or  vehicles2.  Those
-preachers  will  be  honest,  and  possessed  of  three  eman-
-cipations ;  they  will  refrain  from  worldly  business.
+preachers  will  be  honest,  and  possessed  of  three  emancipations ;  they  will  refrain  from  worldly  business.
 Such  persons  as  lead  into  error  monks  who  know
 this  Sutranta,  shall  be  born  blind  ;  and  such  as  openly
 defame  them,  shall  have  a  spotted  body  in  this  very
@@ -20949,8 +19310,7 @@ took  their  right  hands  with  his  own  right  hand,
 which  had  become  strong  by  the  exercise  of  magic,
 and  spoke  on  that  occasion  as  follows :  Into  your
 hands,  young  men  of  good  family,  I  transfer  and
-transmit,  entrust  and  deposit  this  supreme  and  per-
-fect enlightenment  arrived  at  by  me  after  hundred
+transmit,  entrust  and  deposit  this  supreme  and  perfect enlightenment  arrived  at  by  me  after  hundred
 thousands  of  myriads  of  ko/is  of  incalculable  ^Eons.
 Ye,  young  men  of  good  family,  do  your  best  that  it
 may  grow  and  spread.
@@ -20960,8 +19320,7 @@ host  of  Bodhisattvas  after  taking  them  by  the  right
 hands  :  Into  your  hands,  young  men  of  good  family,
 I  transfer  and  transmit,  entrust  and  deposit  this
 supreme  and  perfect  enlightenment  arrived  at  by  me
-after  hundred  thousands  of  myriads  of  ko^is  of  in-
-calculable ^ons.  Receive  it,  young  men  of  good
+after  hundred  thousands  of  myriads  of  ko^is  of  incalculable ^ons.  Receive  it,  young  men  of  good
 family,  keep,  read,  fathom,  teach,  promulgate,  and
 preach  it  to  all  beings.  I  am  not  avaricious,  young  men
 of  good  family,  nor  narrow-minded ;  I  am  confident
@@ -20984,8 +19343,7 @@ unbelieving  persons,  rouse  them  to  accept  this  law.
 By  so  doing,  young  men  of  good  family,  you  will
 acquit  your  debt  to  the  Tathagatas.
 
-So  addressed  by  the  Lord  ,5akyamuni,  the  Tatha-
-gata, &c.,  the  Bodhisattvas  filled  with  delight  and
+So  addressed  by  the  Lord  ,5akyamuni,  the  Tathagata, &c.,  the  Bodhisattvas  filled  with  delight  and
 joy,  and  with  a  feeling  of  great  respect  they  lowered,
 bent,  and  bowed  their  body  towards  the  Lord,  and,
 the  head  inclined  and  the  joined  hands  stretched  out,
@@ -20994,8 +19352,7 @@ the  Tathagata,  &c.,  the  following  words :  We  shall
 do,  O  Lord,  what  the  Tathagata  commands ;  we
 shall  fulfil  the  command  of  all  Tathagatas.  Let  the
 Lord  be  at  ease  as  to  this,  and  perfectly  quiet.  A
-second  time,  a  third  time  the  entire  host  of  Bodhi-
-sattvas spoke  in  one  voice  the  same  words  :  Let  the
+second  time,  a  third  time  the  entire  host  of  Bodhisattvas spoke  in  one  voice  the  same  words  :  Let  the
 Lord  be  at  ease  as  to  this,  and  perfectly  quiet.  We
 shall  do,  O  Lord,  what  the  Tathagata  commands  us  ;
 we  shall  fulfil  the  command  of  all  Tathagatas.
@@ -21003,17 +19360,12 @@ we  shall  fulfil  the  command  of  all  Tathagatas.
 Thereupon  the  Lord  Sakyamuni,  the  Tathagata,
 &c.,  dismissed  all  those  Tathagatas,  &c.,  who  had  come
 to  the  gathering  from  other  worlds,  and  wished  them
-a  happy  existence,  with  the  words  :  May  the  Tatha-
-gatas, &c.,  live  happy.  Then  he  restored  the  Stupa
+a  happy  existence,  with  the  words  :  May  the  Tathagatas, &c.,  live  happy.  Then  he  restored  the  Stupa
 of  precious  substances  of  the  Lord  Prabhutaratna,
 the  Tathagata,  &c.,  to  its  place,  and  wished  him  also
 a  happy  existence.
 
-Thus  spoke  the  Lord.  The  incalculable,  innume-
-rable Tathagatas,  &c.,  who  had  come  from  other
-
-
-442
+Thus  spoke  the  Lord.  The  incalculable,  innumerable Tathagatas,  &c.,  who  had  come  from  other
 
 
 SADDHARMA-PU-tfDARIKA.
@@ -21023,8 +19375,7 @@ XXVII.
 
 
 worlds  and  were  sitting  on  their  thrones  at  the  foot
-of  jewel  trees,  as  well  as  Prabhutaratna,  the  Tatha-
-gata,  &c.,  and  the  whole  host  of  Bodhisattvas  headed
+of  jewel  trees,  as  well  as  Prabhutaratna,  the  Tathagata,  &c.,  and  the  whole  host  of  Bodhisattvas  headed
 by  Vmsh/a^aritra,  the  innumerable,  incalculable
 Bodhisattvas  Mahasattvas  who  had  issued  from
 the  gaps  of  the  earth,  the  great  disciples,  the  four
@@ -21161,9 +19512,6 @@ Bhadrika,  2.
 Bhagavata-Pura«a,  118.
 
 
-444
-
-
 SADDHARMA-PUJVDARiKA.
 
 
@@ -21193,8 +19541,7 @@ Birth  Stories,  2.     See  Gataka.
 
 Bodhapakshika.   SeeBodhipakshika.
 
-Bodhi  (constituents  of).  See  Bodh-
-yanga.
+Bodhi  (constituents  of).  See  Bodhyanga.
 
 Bodhima«</a,  155.
 
@@ -21247,8 +19594,7 @@ Buddha-vehicle,  n,  42  seq.,  89,  129,
 
 Biihler  (G.),  48.
 
-Burnouf  (Eug.),  2,  and  further  pas-
-sim.
+Burnouf  (Eug.),  2,  and  further  passim.
 
 Childers  (R.  C),  31,  71,  133,  24I,
 
@@ -21336,9 +19682,6 @@ Gautami,  3,  256  seqq.
 INDEX.
 
 
-445
-
-
 Gavampati,  2.
 Gaya,  294,  296,  299.
 Gayajlrsha,  79.
@@ -21351,8 +19694,7 @@ Gr/dhrakufa,  i,  235,  248  seq.,  307
 seq.,  321,  396,  398,431.
 Guhagupta,  4.
 
-Galadharagarg-itaghoshasusvaranak-
-shatraragasankusumitabhi^wa,
+Galadharagarg-itaghoshasusvaranakshatraragasankusumitabhi^wa,
 419  seqq.
 
 Gambudvipa,  214  seq.,  329,  391,  435,
@@ -21403,11 +19745,9 @@ Kala-mountam,  233  seq.,  386.
 
 Kalodayin,  198.
 
-Kalpa  (al.  JEon),  89,  284  ;  interme-
-diate kalpa,  27,67  seq.,  148,  &c.
+Kalpa  (al.  JEon),  89,  284  ;  intermediate kalpa,  27,67  seq.,  148,  &c.
 
-Kamaladalavimalanakshatrara^-asan-
-kusumitabhi^-«a,  393  seq.
+Kamaladalavimalanakshatrara^-asankusumitabhi^-«a,  393  seq.
 
 Kawphilla.     See  Kapphina.
 
@@ -21465,8 +19805,7 @@ iTakravartin,  157,  174,  252,  332,411.
 /Tandra,  4.
 ^Tandraprabha,  394.
 ATandraprabhasvarara^a,  358.
-^Tandrapradipa  ( =  £andrasuryapra-
-dipa),  26  ;  name  of  a  Samadhi,
+^Tandrapradipa  ( =  £andrasuryapradipa),  26  ;  name  of  a  Samadhi,
 
 394-
 
@@ -21475,9 +19814,6 @@ dipa),  26  ;  name  of  a  Samadhi,
 ATandravimalasuryaprabhasajri,    376
 
 seqq.
-
-
-446
 
 
 Aaraka,  263.
@@ -21619,8 +19955,7 @@ Mati,  22.
 Matres  (the  seven),  256.
 Ma/uta^andi,  374.
 
-Maudgalyayana.     See  Maha-Maud-
-galyayana.
+Maudgalyayana.     See  Maha-Maudgalyayana.
 
 Maya  (Devi),  5,  371,  434.
 Meghadundubhisvararjig-a,  399  seq.
@@ -21635,9 +19970,6 @@ Mithra,  17  seq.,  28.
 
 
 INDEX.
-
-
-447
 
 
 Mu^ilinda,  233.
@@ -21715,8 +20047,7 @@ Pa/isallana,  175.
 
 Pa/isambhida,  192.
 
-Perfections  (the  six).  See  Para-
-mita.
+Perfections  (the  six).  See  Paramita.
 
 Phoenix,  378  seqq.
 
@@ -21804,9 +20135,6 @@ Rhys  Davids  (T.W.),  2,  45,  392.
 Rig-veda,  66,  81,  309,  404.
 Rudra,  401,  404.
 RQpabrahmaloka,  241.
-
-
-448
 
 
 SADDHARMA-PUtfDARfKA.
@@ -21956,8 +20284,7 @@ Susawsthita,  4.
 
 Susarthavaha,  4.
 
-Sutra,  24,  29,  46,  and  further  pas-
-sim.
+Sutra,  24,  29,  46,  and  further  passim.
 
 Sfltranta,  65, 144, 176,  218,  &c.
 
@@ -21982,8 +20309,7 @@ Svayambhu^-wana,  217.
 Sakra,  4.
 
 •Sakyamuni,  179,  228,  232,  234  seqq.,
-283  seq.,  298,  and  further  pas-
-sim.
+283  seq.,  298,  and  further  passim.
 
 •Sakyaputra,  3.
 
@@ -22142,9 +20468,6 @@ Vipajyin,  193.
 Vipra&tti,  6.
 
 
-450
-
-
 SADDHARMA-PUJVDARIKA.
 
 
@@ -22197,18 +20520,13 @@ Yogin,  7,92,  319.
 TRANSLITERATION    OF    ORIENTAL   ALPHABETS.
 
 
-451
-
-
 ..
 
-1
 
 ^      -C                                                  -=
 
 ^
 
-2
 
 -*      ^
 
@@ -22223,13 +20541,11 @@ f-\    n   TS   *^   r>                r-    <x    »—   »•-»   t~
 '
 
 .H
-1
 
 D                •  '0              -    -    U«J'^   •
 
 •        •       ^-t>^     .
 
-2
 
 D      .*S)    •  '0       "      »    -    UoJ-U   •*
 
@@ -22265,7 +20581,6 @@ Iff    tS    K    tf             K>       to
 
 ty    tej    tr    Uf  tr
 
-3
 
 •"    **
 
@@ -22348,9 +20663,6 @@ CO     ^^     W5     ^O     ^*
 G  g    2
 
 
-452
-
-
 TRANSLITERATION    OF    ORIENTAL   ALPHABETS
 
 
@@ -22392,11 +20704,8 @@ uid).
 
 .2;
 
-91
 
 CQ
-
-00
 
 
 cn
@@ -22413,16 +20722,11 @@ i
 EH
 
 
-02
-
 I-H  (M  CO  Tj«  U5  CO
 CO  CO  CO  CO  CO  CO
 
 
 FOR    THE   SACRED    BOOKS   OF    THE    EAST.
-
-
-453
 
 
 ci
@@ -22449,7 +20753,6 @@ S    •*
 
 4  o
 
-1
 
 So
 
@@ -22458,17 +20761,14 @@ So
 
 S-c
 
-03
 
 CS
 
 •3
 
-83
 
 03        *
 
-1
 
 •1
 
@@ -22522,18 +20822,13 @@ g)
 
 I
 
-1
 
-4
-
-03
 d
 
 CO
 
 ••a
 
-02
 
 cS
 
@@ -22543,18 +20838,14 @@ Semivoc
 
 M
 
-00
 
 •     D
 
 'S,
-02
 
-8
 
 a
 
-1
 
 rt
 
@@ -22562,7 +20853,6 @@ S   ^
 
 j
 
-2
 
 M
 
@@ -22580,7 +20870,6 @@ S    9          <S
 'a,  c
 02  <1
 
-1
 
 .2
 
@@ -22610,9 +20899,6 @@ IP   |f?     .  iv  ^
 
 
 ^s
-
-
-9
 
 
 \".\
@@ -22669,8 +20955,7 @@ A  Record  of  Buddhistic  Kingdoms,  by  the  Chinese  Monk
 FA-HIEN.  Translated  and  annotated  by  James  Legge,  M.A.,  LL.D.  Crown
 4to.  cloth  back,  IOT.  6d.
 
-ENGLISH. — A  New  English  Dictionary,  on  Historical  Prin-
-ciples: founded  mainly  on  the  materials  collected  by  the  Philological  Society.
+ENGLISH. — A  New  English  Dictionary,  on  Historical  Principles: founded  mainly  on  the  materials  collected  by  the  Philological  Society.
 Edited  by  James  A.  H.  Murray,  LL.D.,  with  the  assistance  of  many  Scholars
 and  men  of  Science.  Part  I.  A— ANT.  Part  II.  ANT— BATTEN.
 Part  III.  BATTER— BOZ.  Imperial  410.  I2J.  6</.  each.
@@ -22678,21 +20963,15 @@ Part  III.  BATTER— BOZ.  Imperial  410.  I2J.  6</.  each.
 B
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
-ENGLISH. — An  Etymological  Dictionary  of  the  English  Lan-
-guage.   By  W.  W.  Skeat,  Litt-D.     Second  Edition.     1884.  4to.  2/.  4*.
+ENGLISH. — An  Etymological  Dictionary  of  the  English  Language.   By  W.  W.  Skeat,  Litt-D.     Second  Edition.     1884.  4to.  2/.  4*.
 
 Supplement  to  the  First  Edition  of  the  above.  4to.  2s.  6d.
 
-A  Concise  Etymological  Dictionary  of  the  English  Lan-
-guage.  By  W.  W.  Skeat,  Litt.D.  Second  Edition.  1885.  Crown  8vo.  5*.  (>d.
+A  Concise  Etymological  Dictionary  of  the  English  Language.  By  W.  W.  Skeat,  Litt.D.  Second  Edition.  1885.  Crown  8vo.  5*.  (>d.
 
 GREEK. — A     Greek-English    Lexicon,    by    Henry     George
 
-Liddell,  D.D.,  and  Robert  Scott,  D.D.    Seventh  Edition,  Revised  and  Aug-
-mented throughout.     1883.    4to.  I/.  i6j.
+Liddell,  D.D.,  and  Robert  Scott,  D.D.    Seventh  Edition,  Revised  and  Augmented throughout.     1883.    4to.  I/.  i6j.
 
 -  A   Greek-English  Lexicon,  abridged  from  Liddell  and
 
@@ -22752,9 +21031,6 @@ of  Freund's  Latin  Dictionary,  revised,  enlarged,  and  in  great  part  rew
 by  Charlton  T.  Lewis,  Ph.D.,  and  Charles  Short,  LL.D.  1879.  4to.  i/.  5*.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 MELANESIAN.  —  The   Melanesia**    Langiiages.      By    R.    H.
 
 Codrington,  D.D.,  of  the  Melanesian  Mission.     8vo.  i8j.
@@ -22781,8 +21057,7 @@ M.A.  Second  Edition,  Revised  and  Improved.  1879.  8vo.  15.?.
 
 by  Sir  M.  Monier-  Williams,  M.A.     Second  Edition,  1876.   Svo.  2is.
 
-SYRIAC.  —  Thesaurus  Syriacus  :  collegerunt  Quatremere,  Bern-
-stein, Lorsbach,  Arnoldi,  Agrell,  Field,  Roediger:   edidit  R.  Payne  Smith,
+SYRIAC.  —  Thesaurus  Syriacus  :  collegerunt  Quatremere,  Bernstein, Lorsbach,  Arnoldi,  Agrell,  Field,  Roediger:   edidit  R.  Payne  Smith,
 S.T.P.   Fasc.  I-VI.   1868-83.  sm.  fol.  each,  il.  is.   Fasc.  VII.   i/.  us.  6d.
 Vol.  I,  containing  Fasc.  I-V,  sm.  fol.  5/.  5^.
 
@@ -22801,8 +21076,7 @@ Aristotle:  The  Politics,  with  Introductions,  Notes,  etc.,  by
 W.  L.  Newman,  M.A.,  Fellow  of  Balliol  College,  Oxford.  Vols.  I.  and  II.
 Medium  Svo.  28^.  Just  Published.
 
-Aristotle :  The  Politics,  translated  into  English,  with  Intro-
-duction, Marginal  Analysis,  Notes,  and  Indices,  by  B.  Jowett,  M.A.  Medium
+Aristotle :  The  Politics,  translated  into  English,  with  Introduction, Marginal  Analysis,  Notes,  and  Indices,  by  B.  Jowett,  M.A.  Medium
 Svo.  2  vols.  2is.
 
 Catalogus    Codicum    Graecorum    Sinaiticorum.      Scripsit   V.
@@ -22811,15 +21085,11 @@ Gardthausen  Lipsiensis.     With  six  pages  of  Facsimiles.     Svo.  linen, 
 
 Heracliti  Ephesii  Reliqtiiae.     Recensuit    I.    Bywater,   M.A.
 
-Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita  Heracliti,  Particulae  Hip-
-pocratei  De  Diaeta  Libri  Primi,  Epistolae  Heracliteae.  1877.  Svo.  6j.
+Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita  Heracliti,  Particulae  Hippocratei  De  Diaeta  Libri  Primi,  Epistolae  Heracliteae.  1877.  Svo.  6j.
 
 Herculanensium  Vohiminum  Partes  II.  1824.  Svo.  loj.     ,
 
 B  2
-
-
-CLARENDON  PRESS,  OXFORD.
 
 
 Fragmenta  Herculanensia.    A  Descriptive  Catalogue  of  the
@@ -22874,17 +21144,13 @@ Medium  8vo.  i/.  i2s.
 
 THE   HOLY  SCRIPTUKES,  &c.
 
-STUDIA  BIBLICA.— Essays  in  Biblical  Archaeology  and  Criti-
-cism, and  kindred  subjects.  By  Members  of  the  University  of  Oxford.  8vo.
+STUDIA  BIBLICA.— Essays  in  Biblical  Archaeology  and  Criticism, and  kindred  subjects.  By  Members  of  the  University  of  Oxford.  8vo.
 los.  6d.
 
 ENGLISH. —  The  Holy  Bible  in  the  earliest  English  Versions,
 
 made  from  the  Latin  Vulgate  by  John  Wycliffe  and  his  followers  :  edited  by
 the  Rev.  J.  Forshall  and  Sir  F.  Madden.  4  vols.  1850.  Royal  4to.  $l.y.
-
-
-CLARENDON  PRESS,  OXFORD.
 
 
 [Also  reprinted  from  the  above,  with  Introduction  and  Glossary
@@ -22914,8 +21180,7 @@ With  an  Introduction  and  Glossary.  Demy  8vo.  \l.  is.
 
 Lectures  on  the  Book  of  Job.     Delivered  in  Westminster
 
-Abbey  by  the  Very  Rev.  George  Granville  Bradley,  D.D.,  Dean  of  West-
-minster. Crown  8vo.  Js.  6d.
+Abbey  by  the  Very  Rev.  George  Granville  Bradley,  D.D.,  Dean  of  Westminster. Crown  8vo.  Js.  6d.
 
 Lecttires  on  Ecclesiastes.     By  the  same  Author.     Crown
 
@@ -22954,9 +21219,6 @@ Scripturae  loca,  etc.     Edidit  Carolus  Lloyd,  S.T.P.R.    i8mo.
 On  writing  paper,  with  wide  margin,  ioj.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 GREEK. — Novum  Testamentum  Graecejuxta.  Exemplar Millia-
 
 num.     i8mo.   is.6d.     On  writing  paper,  with  wide  margin,  9.1.
@@ -22986,8 +21248,7 @@ Books  of  the  New  Testament.     Edited  with  Notes  and  a  Facsimile  of  
 MS.  in  the  Ambrosian  Library  at  Milan,  by  S.  P.  Tregelles,  LL.D.    1867.
 4to.  ioj.  6d.
 
--  Outlines  of  Textual  Criticism  applied  to  the  New  Testa-
-ment.   By  C.  E.  Hammond,  M.A.  Fourth  Edition.    Extra  fcap.  8vo.  3J.  6d.
+-  Outlines  of  Textual  Criticism  applied  to  the  New  Testament.   By  C.  E.  Hammond,  M.A.  Fourth  Edition.    Extra  fcap.  8vo.  3J.  6d.
 
 HEBREW,  etc. — Notes  on   the  Hebrew  Text  of  the  Book  of
 Genesis.    With  Two  Appendices.      By  G.  J.  Spurrell,  M.A.      Crown  8vo.
@@ -23004,8 +21265,7 @@ S.  R.  Driver,  M.A.  Crown  8vo.  paper  covers,  3-r.  6d.
 
 The  Book  of  Tobit.    A  Chaldee  Text,  from  a  unique
 
-MS.  in  the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Transla-
-tions, and  the  Itala.  Edited  by  Ad.  Neubauer,  M.A.  1878.  Crown  8vo.  6s.
+MS.  in  the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Translations, and  the  Itala.  Edited  by  Ad.  Neubauer,  M.A.  1878.  Crown  8vo.  6s.
 
 -  Horae  Hebraicae  et  Talmudicae,  a  J.  Lightfoot.    A  new
 
@@ -23027,9 +21287,6 @@ Edited  by  John  Wordsworth,  D.D.,  W.  Sanday,  M.A.,  D.D.,  and  H.  J.  Wh
 M.A.  Small  410.,  stiff  covers,  2u.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 LATIN — Old-Latin    Biblical    Texts:    No.  III.      The    Four
 
 Gospels  from  the  Munich  MS.  (q)  of  the  Sixth  Century.  Edited  by  H.  J.
@@ -23044,8 +21301,7 @@ Phil.  Doc.  1860.  8vo.  IOJ.  6d.
 
 FATHERS  OF  THE  CHURCH,  &c.
 
-St.  Athanasius :  Historical  Writings,  according  to  the  Bene-
-dictine Text.  With  an  Introduction  by  William  Bright,  D.D.  1881.  Crown
+St.  Athanasius :  Historical  Writings,  according  to  the  Benedictine Text.  With  an  Introduction  by  William  Bright,  D.D.  1881.  Crown
 8vo.  ioj.  6d.
 
 Orations  against  the  Arians,    With  an  Account  of  his
@@ -23057,8 +21313,7 @@ S t.  Augustine :  Select  Anti-Pelagian  Treatises ,  and  the  Acts
 of  the  Second  Council  of  Orange.    With  an  Introduction  by  William  Bright,
 D.D.    Crown  8vo.  gs.
 
-Canons  of  the  First  Four  General  Councils  of  Nicaea,  Con-
-stantinople, Ephesus,  and  Chalcedon.  1877.  Crown  8vo.  2s.  6d.
+Canons  of  the  First  Four  General  Councils  of  Nicaea,  Constantinople, Ephesus,  and  Chalcedon.  1877.  Crown  8vo.  2s.  6d.
 
 Notes  on  the  Canons  of  the  First  Four  General  Councils.
 
@@ -23091,8 +21346,6 @@ Eusebius*   Ecclesiastical  History^  according  to    the  text   of
 
 Burton,  with  an  Introduction  by  William  Bright,  D.D.     1881.    Crown  8vo.
 
-
-8  CLARENDON  PRESS,  OXFORD.
 
 Irenaeus:  The  Third  Book  of  St.Irenaeus,  Bishop  of  Lyons,
 
@@ -23150,23 +21403,18 @@ Hammond  (C.  E.).    Littirgies,  Eastern  and  Western.    Edited,
 with  Introduction,  Notes,  and  Liturgical  Glossary.  1878.  Crown  8vo.  ioj.  6d.
 An  Appendix  to  the  above.    1879.  Crown  8vo.  paper  covers,  is.  6d.
 
-John,  Bishop  of  Ephesus.     The   Third  Part  of  his  Eccle-
-siastical History.    [In  Syriac.]    Now  first  edited  by  William  Cureton,  M.A.
+John,  Bishop  of  Ephesus.     The   Third  Part  of  his  Ecclesiastical History.    [In  Syriac.]    Now  first  edited  by  William  Cureton,  M.A.
 
 1853.    4tO.    I/.  I2J.
 
 Translated  by  R.  Payne  Smith,  M.A.     1860.  8vo.  los.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Leofric  Missal,  The,  as  used   in   the   Cathedral  of  Exeter
 
 during  the  Episcopate  of  its  first  Bishop,  A.D.  1050-1072 ;  together  with  some
 Account  of  the  Red  Book  of  Derby,  the  Missal  of  Robert  of  Jumieges,  and  a
-few  other  early  MS.  Service  Books  of  the  English  Church.  Edited,  with  In-
-troduction and  Notes,  by  F.  E.  Warren,  B.D.  4to.  half  morocco,  35*.
+few  other  early  MS.  Service  Books  of  the  English  Church.  Edited,  with  Introduction and  Notes,  by  F.  E.  Warren,  B.D.  4to.  half  morocco,  35*.
 
 Monumenta  Ritualia  Ecclesiae  Anglicanae.    The  occasional
 
@@ -23196,8 +21444,7 @@ Warren  (F.  E.}.    Liturgy  and  Ritual  of  the  Celtic  Church.
 
 ENGLISH    THEOLOGY.
 
-Bampton  Lectures,  }8S6.     The  Christian  Platonists  of  Alex-
-andria.   By  Charles  Bigg,  D.D.    8vo.  los.  6d.
+Bampton  Lectures,  }8S6.     The  Christian  Platonists  of  Alexandria.   By  Charles  Bigg,  D.D.    8vo.  los.  6d.
 
 Butler's  Works,  with  an  Index  to  the  Analogy.    2  vols.  1874.
 
@@ -23272,8 +21519,7 @@ HISTORICAL   AND   DOCUMENTARY   WORKS.
 British  Barrows,  a  Record  of  the  Examination  of  Sepulchral
 
 Mounds  in  various  parts  of  England.  By  William  Greenwell,  M.A.,  F.S.A.
-Together  with  Description  of  Figures  of  Skulls,  General  Remarks  on  Pre-
-historic Crania,  and  an  Appendix  by  George  Rolleston,  M.D.,  F.R.S.  1877.
+Together  with  Description  of  Figures  of  Skulls,  General  Remarks  on  Prehistoric Crania,  and  an  Appendix  by  George  Rolleston,  M.D.,  F.R.S.  1877.
 Medium  8vo.  2$s.
 
 Clarendon's  History  of    the   Rebellion    and   Civil  Wars    in
@@ -23282,24 +21528,19 @@ England.    7  vols.    1839.  i8mo.  I/,  is.
 
 Clarendon's  History   of   the  Rebellion    and    Civil   Wars    in
 
-England.  Also  his  Life,  written  by  himself,  in  which  is  included  a  Con-
-tinuation of  his  History  of  the  Grand  Rebellion.  With  copious  Indexes.
+England.  Also  his  Life,  written  by  himself,  in  which  is  included  a  Continuation of  his  History  of  the  Grand  Rebellion.  With  copious  Indexes.
 In  one  volume,  royal  8vo.  1842.  il.is.
 
 Clintons  Epitome  of  the  Fasti  Hellenici.     1 85 1 .     8vo.    6s.  6d.
 -  Epitome  of  the  Fasti  Romani.     1854.     8vo.   "]s.
 
 
-CLARENDON  PRESS,  OXFORD.  1 1
-
 Corpvs  Poeticvm  Boreale.    The  Poetry  of  the  Old  Northern
 
-Tongue,  from  the  Earliest  Times  to  the  Thirteenth  Century.  Edited,  clas-
-sified, and  translated,  with  Introduction,  Excursus,  and  Notes,  by  Gudbrand
+Tongue,  from  the  Earliest  Times  to  the  Thirteenth  Century.  Edited,  classified, and  translated,  with  Introduction,  Excursus,  and  Notes,  by  Gudbrand
 Vigfusson,  M.A.,  and  F.  York  Powell,  M.A.  2  vols.  1883.  8vo.  42J.
 
-Freeman  (E.  A.\  History  of  the  Norman  Conquest  of  Eng-
-land; its  Causes  and  Results.  In  Six  Volumes.  8vo.  5/.  9*.  6d.
+Freeman  (E.  A.\  History  of  the  Norman  Conquest  of  England; its  Causes  and  Results.  In  Six  Volumes.  8vo.  5/.  9*.  6d.
 
 The  Reign  of  William  Rufus  and  the  Accession  of
 
@@ -23326,8 +21567,7 @@ Century  MS.  in  the  Library  of  Corpus  Christi  College,  Oxford,  with  an
 Introduction  and  Notes,  by  Frederick  Metcalfe,  M.A.  Small  4to.  stiff
 covers,  6s.
 
-Protests  of  the  Lords,  including  those  which  have  been  ex-
-punged, from  1624  to  1874;  with  Historical  Introductions.  Edited  by  James
+Protests  of  the  Lords,  including  those  which  have  been  expunged, from  1624  to  1874;  with  Historical  Introductions.  Edited  by  James
 E.  Thorold  Rogers,  M.A.  1875.  3  vols.  8vo.  2/.  2s.
 
 Rogers  (J.  E.  T.}.     History  of  Agriculture  and  Prices  in
@@ -23344,8 +21584,7 @@ The  First  Nine  Years  of  the  Bank  of  England.  8vo.  8s.  6d.
 
 Saxon  Chronicles  (Two  of  the}  parallel,  with  Supplementary
 
-Extracts  from  the  Others.  Edited,  with  Introduction,  Notes,  and  a  Glos-
-sarial  Index,  by  J.Earle,  M.A.  1865.  8vo.  i6s.
+Extracts  from  the  Others.  Edited,  with  Introduction,  Notes,  and  a  Glossarial  Index,  by  J.Earle,  M.A.  1865.  8vo.  i6s.
 
 Stubbs  ( W.,  D.D.}.      Seventeen  Lectures   on   the  Study  of
 
@@ -23405,8 +21644,7 @@ Acland(H.  W.,  M.D.,  F.R.S.}.     Synopsis  of  the  Pathological
 
 Series  in  the  Oxford  Museum.     1867.    8vo.  zs.fid.
 
-Burdon-Sanderson  (J.,  M.D.,  F.R.SS.  L.  and  £.).  Transla-
-tions of  Foreign  Biological  Memoirs.  I.  Memoirs  on  the  Physiology  of  Nerve,
+Burdon-Sanderson  (J.,  M.D.,  F.R.SS.  L.  and  £.).  Translations of  Foreign  Biological  Memoirs.  I.  Memoirs  on  the  Physiology  of  Nerve,
 of  Muscle,  and  of  the  Electrical  Organ.  Medium  8vo.  2 1 s.
 
 De  Bary  (Dr.  A.}.     Comparative  Anatomy  of  the   Vegetative
@@ -23415,13 +21653,10 @@ Organs  of  the  Phanerogams  and  Ferns.  Translated  and  Annotated  by  F.  O
 Bower,  M.A.,  F.L.S.,  and  D.  H.  Scott,  M.A.,  Ph.D.,  F.L.S.  With  241
 woodcuts  and  an  Index.  Royal  8vo.,  half  morocco,  il.2s.6d.
 
-Goebel  (Dr.  K.}.  Outlines  of  Classification  and  Special  Mor-
-phology of  Plants.  A  New  Edition  of  Sachs'  Text-Book  of  Botany,  Book  II.
+Goebel  (Dr.  K.}.  Outlines  of  Classification  and  Special  Morphology of  Plants.  A  New  Edition  of  Sachs'  Text-Book  of  Botany,  Book  II.
 English  Translation  by  H.  E.  F.  Garnsey,  M.A.  Revised  by  I.  Bayley  Balfour,
 M.A.,  M.D.,  F.R.S.  With  407  Woodcuts.  Royal  8vo.  half  morocco,  2U.
 
-
-CLARENDON  PRESS,  OXFORD.  13
 
 Sachs  (Julius  von}.     Lectures  on  the  Physiology  of  Plants.
 
@@ -23434,8 +21669,7 @@ the  Fungi,  Mycetozoa  and  Bacteria.  Authorised  English  Translation  by
 Henry  E.  F.  Garnsey,  M.A.  Revised  by  Isaac  Bayley  Balfour,  M.A.,  M.D.,
 F.R.S.  With  198  Woodcuts.  Royal  8vo.,  half  morocco,  \l.  2s.  6d.
 
-Lectures  on  Bacteria.  Second  improved  edition.  Au-
-thorised translation  by  H.  E.  F.  Garnsey,  M.A.  Revised  by  Isaac  Bayley
+Lectures  on  Bacteria.  Second  improved  edition.  Authorised translation  by  H.  E.  F.  Garnsey,  M.A.  Revised  by  Isaac  Bayley
 Balfour,  M.A.,  M.D.,  F.R.S.  With  20  Woodcuts.  Crown  8vo.  6s.
 
 
@@ -23466,8 +21700,7 @@ Second  Edition,  1865.     8vo.  i8j.
 Vol.  III.  Statics,  including  Attractions ;  Dynamics  of  a  Material  Particle.
 Second  Edition,  1868.    8vo.  i6j.
 
-Vol.  IV.  Dynamics  of  Material  Systems;  together  with  a  chapter  on  Theo-
-retical Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S.     1862.    8vo.  i6s.
+Vol.  IV.  Dynamics  of  Material  Systems;  together  with  a  chapter  on  Theoretical Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S.     1862.    8vo.  i6s.
 
 Pritchard  (C-,  D.D.,  F.R.S.).     Uranometria  Nova  Oxoniensis.
 
@@ -23485,8 +21718,7 @@ RigaucTs  Correspondence  of  Scientific  Men  of  the  i^th  Century,
 with  Table  of  Contents  by  A.  de  Morgan,  and  Index  by  the  Rev.  J.  Rigaud,
 M.A.  2vols.  1841-1862.  8vo.  i8j.  6d.
 
-Rolleston  (George,  M.D.,  F.R.S.).  Scientific  Papers  and  Ad-
-dresses. Arranged  and  Edited  by  William  Turner,  M.B.,  F.R.S.  With  a
+Rolleston  (George,  M.D.,  F.R.S.).  Scientific  Papers  and  Addresses. Arranged  and  Edited  by  William  Turner,  M.B.,  F.R.S.  With  a
 Biographical  Sketch  by  Edward  Tylor,  F.R.S.  With  Portrait,  Plates,  and
 Woodcuts.  2  vols.  8vo.  i/.  4?.
 
@@ -23509,16 +21741,14 @@ F.  MAX  MULLER.
 Vol.   I.    The   Upanishads.     Translated  by  F.  Max    Miiller.
 
 Part  I.  The  A"Mndogya-upanishad,  The  Talavakara-upanishad,  The  Aitareya-
-Srawyaka,  The  Kaushitaki-brahmawa-upanishad,  and  The  Va^nsaneyi-sawhita-
-upanishad.  icj.  6d.
+Srawyaka,  The  Kaushitaki-brahmawa-upanishad,  and  The  Va^nsaneyi-sawhitaupanishad.  icj.  6d.
 
 Vol.  II.  The  Sacred  Laws  of  the  Aryas,  as  taught  in   the
 
 Schools  of  Apastamba,  Gautama,  Vasish^a,  and  Baudhtlyana.  Translated  by
 Prof.  Georg  Biihler.  Part  I.  Apastamba  and  Gautama.  loj.  6d.
 
-Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Con-
-fucianism. Translated  by  James  Legge.  Part  I.  The  Shfi  King,  The  Reli-
+Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Confucianism. Translated  by  James  Legge.  Part  I.  The  Shfi  King,  The  Reli-
 gious portions  of  the  Shih  King,  and  The  Hsiao  King.  1 2s.
 
 Vol.  IV.  The  Zend-Avesta.     Translated  by  James  Darme-
@@ -23547,12 +21777,9 @@ Miiller;  and  The  Sutta-Nipata,  translated  from  Pali  by  V.  Fausboll;  be
 Canonical  Books  of  the  Buddhists.  los.  fid.
 
 
-CLARENDON  PRESS,  OXFORD.  15
-
 Vol.  XI.  Buddhist  Suttas.     Translated  from  Pali  by  T.  W.
 
-Rhys  Davids,  i.  The  Mahaparinibbana  Suttanta  ;  2.  The  Dhamma-£akka-
-ppavattana  Sutta  ;  3.  The  Tevi^a  Suttanta ;  4.  The  Akankheyya  Sutta ;
+Rhys  Davids,  i.  The  Mahaparinibbana  Suttanta  ;  2.  The  Dhamma-£akkappavattana  Sutta  ;  3.  The  Tevi^a  Suttanta ;  4.  The  Akankheyya  Sutta ;
 5.  TheAetokhila  Sutta;  6.  The Maha-sudassana  Suttanta ;  7.  TheSabbasava
 Sutta.  i  os.  6d.
 
@@ -23573,8 +21800,7 @@ by  Georg  Biihler.  Part  II.  Vasish/^a  and  Baudhayana.  IQS.  6d.
 
 Vol.  XV.     The  Upanishads.     Translated  by  F.  Max  Miiller.
 
-Part  II.  The  KaMa-upanishad,  The  Muwakka-upanishad,  The  Taittiriyaka-
-upanishad,  The  Brzhadarawyaka-upanishad,  The  iSvetajvatara-upanishad,  The
+Part  II.  The  KaMa-upanishad,  The  Muwakka-upanishad,  The  Taittiriyakaupanishad,  The  Brzhadarawyaka-upanishad,  The  iSvetajvatara-upanishad,  The
 Praj^a-upanishad,  and  The  Maitrayawa-Brahmawa-upanishad.  IGJ.  6d.
 
 Vol.  XVI.    The   Sacred   Books   of  China.     The   Texts   of
@@ -23605,11 +21831,8 @@ loj.  6d.
 Vol.  XXI.     The  Saddharma-puw<farika ;   or,  the  Lotus  of  the
 True  Law.    Translated  by  H.  Kern.     I2j.  6d.
 
-Vol.  XXII.    £aina-Sutras.    Translated  from  Prakrit  by  Her-
-mann Jacobi.     Part  I.     The  AHranga-Sutra.    The  Kalpa-Sutra.    IQJ.  6d.
+Vol.  XXII.    £aina-Sutras.    Translated  from  Prakrit  by  Hermann Jacobi.     Part  I.     The  AHranga-Sutra.    The  Kalpa-Sutra.    IQJ.  6d.
 
-
-1 6  CLARENDON  PRESS,  OXFORD.
 
 Vol.  XXIII.    The  Zend-Avesta.    Translated  by  James  Dar-
 
@@ -23655,13 +21878,9 @@ Vol.    XXXIII.       Narada,    and    some    Minor    Law-books.
 
 Translated  by  Julius  Jolly.     [Preparing.'}
 
-Vol.  XXXIV.     The  Vedanta-Sutras,  with   .Sankara's  Com-
-mentary.   Translated  by  G.  Thibaut.    [Preparing.]
+Vol.  XXXIV.     The  Vedanta-Sutras,  with   .Sankara's  Commentary.   Translated  by  G.  Thibaut.    [Preparing.]
 
 ***  The  Second  Series  will  consist  of  Twenty-Four  Volumes.
-
-
-CLARENDON  PRESS,  OXFORD.  17
 
 
 I.    ENGLISH,  &c.
@@ -23687,8 +21906,7 @@ An  English  Grammar  and  Reading  Book,  for  Lower  Forms
 in  Classical  Schools.    By  O.  W.  Tancock,  M.A.    Fourth  Edition.     Extra
 fcap.  Svo.   %s.  6d.
 
-Typical  Selections  from  the  best  English  Writers,  with  Intro-
-ductory Notices.  Second  Edition.    In  2  vols.    Extra  fcap.  Svo.  3J.  (id.  each.
+Typical  Selections  from  the  best  English  Writers,  with  Introductory Notices.  Second  Edition.    In  2  vols.    Extra  fcap.  Svo.  3J.  (id.  each.
 Vol.  I.  Latimer  to  Berkeley.  Vol.  II.  Pope  to  Macaulay.
 
 Shairp  (J.  C.,  LL.D.}.    Aspects  of  Poetry ;    being  Lectures
@@ -23700,8 +21918,7 @@ A  Book  for  the  Beginner  in  Anglo-Saxon.     By  John  Earle,
 
 M.A.    Third  Edition.     Extra  fcap.  Svo.  2s.  ftd.
 
-An  Anglo-Saxon  Reader.  In  Prose  and  Verse.  With  Gram-
-matical Introduction,  Notes,  and  Glossary.  By  Henry  Sweet,  M.A.  Fourth
+An  Anglo-Saxon  Reader.  In  Prose  and  Verse.  With  Grammatical Introduction,  Notes,  and  Glossary.  By  Henry  Sweet,  M.A.  Fourth
 Edition,  Revised  and  Enlarged.  Extra  fcap.  Svo.  8s.  6d.
 
 A  Second  Anglo-Saxon  Reader.    By  the  same  Author.  Extra
@@ -23773,8 +21990,7 @@ Second  Edition.    Extra  fcap.  8vo.  Js.  6d.
 
 Specimens  of  English   Literature,  from    the    'Ploughmans
 
-Crede'  to  the  '  Shepheardes  Calender'  (A.D.  1394  to  A.D.  1579).  With  Intro-
-duction, Notes,  and  Glossarial  Index.  By  W.  W.  Skeat,  Litt.D.  Extra  fcap.
+Crede'  to  the  '  Shepheardes  Calender'  (A.D.  1394  to  A.D.  1579).  With  Introduction, Notes,  and  Glossarial  Index.  By  W.  W.  Skeat,  Litt.D.  Extra  fcap.
 8vo.  1$.  6d.
 
 
@@ -23789,8 +22005,6 @@ The  Vision  of  William  concerning  Piers  the  Plowman,  by
 William  Langland.  Edited,  with  Notes,  by  W.  W.  Skeat,  Litt.D.  Fourth
 Edition.  Extra  fcap.  8vo.  4 s.  6d.
 
-
-CLARENDON  PRESS,  OXFORD,  19
 
 Chaucer.     I.  The  Prologue    to    the   Canterbury   Tales;    the
 
@@ -23857,9 +22071,6 @@ C  2
 2O
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Shakespeare.   Select  Plays.  Edited  by  W.  Aldis  Wright,  M.A.
 
 The  Tempest,    is.  6d.  Midsummer  Night's  Dream,   is.  6d.
@@ -23906,8 +22117,7 @@ Extra  fcap.  8vo.  stiff  cover,  i s.  £d. ;  in  white  Parchment,  $s.  6d.
 
 Notes  by  John  Churton  Collins.     Extra  fcap.  8vo.  stiff  covers,  is.
 
-B uny an.  I.  The  Pilgrim's  Progress,  Grace  Abounding,  Rela-
-tion of  the  Imprisonment  of  Mr.  John  Banyan.  Edited,  with  Biographical
+B uny an.  I.  The  Pilgrim's  Progress,  Grace  Abounding,  Relation of  the  Imprisonment  of  Mr.  John  Banyan.  Edited,  with  Biographical
 Introduction  and  Notes,  by  E.  Venables,  M.A.  1879.  Extra  fcap.  8vo.  5*.
 In  ornamental  Parchment,  6s.
 
@@ -23929,11 +22139,8 @@ Cromwell;  Astrcea  Redux;  Annus  Mirabilis ;  Absalom  and  Achitophel ;
 -ehgio  Laici ;  The  Hind  and  the  Panther.  Edited  by  W.  D.  Christie,  M.A.
 econd  Edition.  Extra  fcap.  8vo.  3.?.  6d.
 
-Locke's  Conduct  of  the  Understanding.     Edited,  with  Intro-
-duction, Notes,  &c.,  by  T.  Fowler,  D.D.    Second  Edition.  Extra  fcap.  8vo.  »s.
+Locke's  Conduct  of  the  Understanding.     Edited,  with  Introduction, Notes,  &c.,  by  T.  Fowler,  D.D.    Second  Edition.  Extra  fcap.  8vo.  »s.
 
-
-CLARENDON  PRESS,  OXFORD.  21
 
 Addison.   Selections  from  Papers  in  the  Spectator.  With  Notes.
 
@@ -24008,8 +22215,6 @@ I.   Thoughts  on  the  Present  Discontents  ;  the  two  Speeches
 on  America     Second  Edition.     Extra  fcap.  8vo.  4-r.  6d.
 
 
-22  CLARENDON  PRESS,  OXFORD.
-
 Burke.   II.  Reflections  onthe  French  Revolution.  Second  Edition.
 
 Extra  fcap.  8vo.  5-r.
@@ -24082,8 +22287,6 @@ Hints  and  Helps  for  Latin  Elegiacs.    By  H.  Lee- Warner,  M.A.
 
 Extra  fcap.  8vo.  3-r.  6d.
 
-
-CLARENDON  PRESS,  OXFORD.  23
 
 First  Latin  Reader.     By  T.  J.  Nunns,  M.A.    Third  Edition.
 
@@ -24159,8 +22362,6 @@ A.  R.  Cluer,  B.A.      Second  Edition.      Revised  by  P.  E.  Matheson,  
 (In  one  or  two  vols.)     Extra  fcap.  8vo.     f,s.
 
 
-84  CLARENDON  PRESS,  OXFORD,
-
 Livy.     Books  XXI,  XXII,  and  XXIII.     With  Introduction
 
 and  Notes.    By  M.  T.  Tatham,  M.  A.    Extra  fcap.  8vo.  4*.  6d.
@@ -24170,8 +22371,7 @@ Ovid.    Selections  for  the  use  of  Schools.    With  Introductions
 and  Notes,  and  an  Appendix  on  the  Roman  Calendar.    By  W.  Ramsay,  M.A.
 Edited  by  G.  G.  Ramsay,  M.A.     Third  Edition.    Extra  fcap.  8vo.  $s.  6d.
 
-Ovid.  Tristia.  Book  I.  The  Text  revised,  with  an  Intro-
-duction and  Notes.  By  S.  G.  Owen,  B.A.  Extra  fcap.  8vo.  3-r.  6d.
+Ovid.  Tristia.  Book  I.  The  Text  revised,  with  an  Introduction and  Notes.  By  S.  G.  Owen,  B.A.  Extra  fcap.  8vo.  3-r.  6d.
 
 Plantus.     Captivi.     Edited  by  W.  M.  Lindsay,  M.A.     Extra
 
@@ -24189,8 +22389,7 @@ Sallust.    With  Introduction  and  Notes.     By  W.  W.  Capes,
 
 M.A.    Extra  fcap.  8vo.    4J.  6d.
 
-Tacitus.  The  Annals.  Books  I-IV.  Edited,  with  Introduc-
-tion and  Notes  (for  the  use  of  Schools  and  Junior  Students),  by  H.  P'urneaux,
+Tacitus.  The  Annals.  Books  I-IV.  Edited,  with  Introduction and  Notes  (for  the  use  of  Schools  and  Junior  Students),  by  H.  P'urneaux,
 M.A.  Extra  fcap.  8vo.  $s.
 
 Tacitus.     The  Annals.   Book  I.    With  Introduction  and  Notes,
@@ -24230,8 +22429,6 @@ Virgil.  Aeneid  IX.  Edited,  with  Introduction  and  Notes,
 by  A.  E.  Haigh,  M.A.,  late  Fellow  of  Hertford  College,  Oxford.  Extra
 fcap.  8vo.  limp,  is.  6d.  In  two  Parts,  2s.
 
-
-CLARENDON  PRESS,  OXFORD.  25
 
 Avianus,  The  Fables  of.     Edited,  with  Prolegomena,  Critical
 
@@ -24300,14 +22497,10 @@ of  Latin  in  Liverpool  University  College,  Victoria  University.     In  tw
 Crown  8vo.     Complete,  6s.
 Also  separately,  Part  I.  Introduction,  Text,  etc.,  3.?.        Part  II.  Notes,  3,?.  6d.
 
-Tacitus.     The  Annals.     Books  I- VI.     Edited,  with    Intro-
-duction and  Notes,  by  H.  Furneaux,  M.A.    8vo.  iSs.
+Tacitus.     The  Annals.     Books  I- VI.     Edited,  with    Introduction and  Notes,  by  H.  Furneaux,  M.A.    8vo.  iSs.
 
 
-26  CLARENDON  PRESS,  OXFORD.
-
-Nettles/tip  (//.,  M.A.}.  Lectures  arid  Essays  on  Subjects  con-
-nected with  Latin  Scholarship  and  Literature.  Crown  8vo.  7-r.  6d.
+Nettles/tip  (//.,  M.A.}.  Lectures  arid  Essays  on  Subjects  connected with  Latin  Scholarship  and  Literature.  Crown  8vo.  7-r.  6d.
 
 -  The  Roman  Satura.     8vo.  sewed,  is.
 —  Ancient  Lives  of  Vergil.    8vo.  sewed,  2s.
@@ -24337,8 +22530,7 @@ A  Greek  Primer ;  for  the  use  of  beginners  in  that  Language.
 
 By  Charles  Wordsworth,  D.C.L.  Seventh  Edition.  Extra  fcap.  8vo.  is.  6d.
 
-A  Greek  Testament  Primer.  An  Easy  Grammar  and  Read-
-ing Book  for  the  use  of  S  udents  beginning  Greek.  By  the  Rev.  E.  Miller,
+A  Greek  Testament  Primer.  An  Easy  Grammar  and  Reading Book  for  the  use  of  S  udents  beginning  Greek.  By  the  Rev.  E.  Miller,
 M.A.  Extra  fcap.  8vo.  3.?.  6d.
 
 Easy  Greek  Reader.     By  Evelyn  Abbott,  M.A.     In  one  or
@@ -24372,8 +22564,6 @@ Second  Greek  Reader.    By  A.  M.  Bell,  M.A.    Extra  fcap.
 
 8vo.  3-r.  6d.
 
-
-CLARENDON  PRESS,  OXFORD.  27
 
 Fourth  Greek  Reader  ;  being  Specimens  of  Greek  Dialects.
 
@@ -24451,8 +22641,6 @@ Medea.     By  C.  B.  Heberden,  M.A.     In  one  or  two  Parts.
 Extra  fcap.  8vo.  2s.
 
 
-28  CLARENDON  PRESS,  OXFORD.
-
 Herodotiis,  Book  IX.     Edited,  with  Notes,  by  Evelyn  Abbott,
 
 M.A.     In  one  or  two  Parts.     Extra  fcap.  8vo.  y.
@@ -24501,8 +22689,7 @@ Plato.     The  Apology.     With    Introduction    and    Notes.     By
 
 St.  George  Stock,  M.A.     (In  one  or  two  Parts.)     Extra  fcap.  8vo.  2s.  6d.
 
-Sophocles.      For   the   use   of  Schools. '     Edited   with   Intro-
-ductions and  English  Notes     By  Lewis  Campbell,  M.A.,  and  Evelyn  Abbott,
+Sophocles.      For   the   use   of  Schools. '     Edited   with   Introductions and  English  Notes     By  Lewis  Campbell,  M.A.,  and  Evelyn  Abbott,
 M.A.    New  and  Revised  Edition.     2  Vols.     Extra  fcap.  8vo.     IQJ.  (>d.
 Sold  separately,  Vol.  I,  Text,  4?.  6d. ;  Vol.  II,  Explanatory  Notes,  6s.
 
@@ -24521,8 +22708,6 @@ Theocritus  (for  Schools).     With   Notes.     By  H.  Kynaston,
 
 D.D.  (late  Snow).    Third  Edition.    Extra  fcap.  8vo.  4*.  6d.
 
-
-CLARENDON  PRESS,  OXFORD.  29
 
 Xenophon.     Easy  Selections  (for  Junior   Classes).     With  a
 
@@ -24568,8 +22753,7 @@ Head  (Barclay  V.).    Historia  Numorum :  A  Manual  of  Greek
 
 Numismatics.     Royal  8vo.  half-bound.     2/.  2s.
 
-Hicks  (E.  L.,M.A.}.    A  Manual  of  Greek  Historical  Inscrip-
-tions.   Demy  8vo.  lor.  6d.
+Hicks  (E.  L.,M.A.}.    A  Manual  of  Greek  Historical  Inscriptions.   Demy  8vo.  lor.  6d.
 
 Homer.     Odyssey,  Books  I-XII.    Edited  with  English  Notes,
 
@@ -24596,8 +22780,7 @@ Brackets  Etymological  Dictionary  of  the  French  Language.
 
 Translated  by  G.  W.  Kitchin,  D.D.    Third  Edition.    Crown  8vo.  7.?.  6d.
 
-Historical  Grammar  of  the  French  Language.    Trans-
-lated by  G.  W.  Kitchin,  D.D.    Fourth  Edition.    Extra  fcap.  8vo.  3*.  (>d.
+Historical  Grammar  of  the  French  Language.    Translated by  G.  W.  Kitchin,  D.D.    Fourth  Edition.    Extra  fcap.  8vo.  3*.  (>d.
 
 Works  by  GEOBGE  SAINTSBTTRY,  M.A.
 
@@ -24659,8 +22842,6 @@ V Eloquence  de  la  Chaire  et  de  la  Tribune  Frangaises.     Edited
 by  Paul  Blouet,  B.A.     Vol.  I.   Sacred  Oratory.    Extra  fcap.  8vo.  2s.  6d.
 
 
-'CLARENDON  PRESS,   OXFORD.  31
-
 Edited  by  GUSTAVB  MASSON,  B.A.
 
 CorneilUs  Cinna.    With  Notes,  Glossary,  etc.   Extra  fcap.  8vo.
@@ -24711,8 +22892,7 @@ Dante.    Selections  from  the  Inferno.     With  Introduction  and
 
 Notes.    By  H.  B.  Cotterill,  B.A.    Extra  fcap.  8vo.  4^.  6d.
 
-Tasso.    La  Gemsalemme  Liberata.     Cantos  i,  ii.    With  In-
-troduction and  Notes.    By  the  same  Editor.    Extra  fcap.  8vo.  is.  6V/.
+Tasso.    La  Gemsalemme  Liberata.     Cantos  i,  ii.    With  Introduction and  Notes.    By  the  same  Editor.    Extra  fcap.  8vo.  is.  6V/.
 
 V.   GERMAN.
 
@@ -24771,8 +22951,7 @@ Goethe's  Egmont.  With  a  Life  of  Goethe,  &c.    Third  Edition.
 
 Extra  fcap.  8vo.  y,
 
-Iphigenie  auf  Tauris.    A  Drama.    With  a  Critical  In-
-troduction and  Notes.    Second  Edition.    Extra  fcap.  8vo.  $s.
+Iphigenie  auf  Tauris.    A  Drama.    With  a  Critical  Introduction and  Notes.    Second  Edition.    Extra  fcap.  8vo.  $s.
 
 Heine's  Prosa,  being  Selections  from  his  Prose  Works.     With
 
@@ -24794,17 +22973,13 @@ Schiller 's  Historische  Skizzen  ;  Egmonfs  Leben  und  Tod,  and
 
 Belagerung  von  Antwerpen.     With  a  Map.     Extra  fcap.  8vo.  2s.  6d.
 
-•Wilhelm  Tell.  With  a  Life  of  Schiller;  an  his-
-torical and  critical  Introduction,  Arguments,  and  a  complete  Commentary
+•Wilhelm  Tell.  With  a  Life  of  Schiller;  an  historical and  critical  Introduction,  Arguments,  and  a  complete  Commentary
 and  Map.  Sixth  Edition.  Extra  fcap.  8vo.  $s.  6d.
 
 Wilhelm  Tell.   School  Edition.   With  Map.    is.
 
 
-CLARENDON  PRESS,  OXFORD.  33
-
-Modern  German  Reader.     A  Graduated   Collection  of  Ex-
-tracts in  Prose  and  Poetry  from  Modern  German  writers  : —
+Modern  German  Reader.     A  Graduated   Collection  of  Extracts in  Prose  and  Poetry  from  Modern  German  writers  : —
 
 Part  I.     With   English  Notes,  a   Grammatical  Appendix,  -and  a   complete
 Vocabulary.  Fourth  Edition.  Extra  fcap.  8vo.  2s.  6d.
@@ -24850,8 +23025,7 @@ Astronomy.    Third  Edition.     1877.    Demy  Svo.  28*.
 
 Clarke  (Col.  A.  R.,C.B.,R.E.}.    Geodesy.    1880.   Svo.  izs.  6d.
 
-Cremona  (Luigi).     Elements  of  Protective  Geometry.    Trans-
-lated by  C.  Leudesdorf,  M.A.     Svo.     I2S.  6d.
+Cremona  (Luigi).     Elements  of  Protective  Geometry.    Translated by  C.  Leudesdorf,  M.A.     Svo.     I2S.  6d.
 
 Donkin.    Acoustics.     Second  Edition.     Crown  Svo.     Js.  6d.
 Euclid  Revised.      Containing  the  Essentials  of  the  Elements
@@ -24867,8 +23041,6 @@ Books  I-IV.    is.  6t/.  Books  V,  VI.  3-r.
 
 D
 
-
-34  CLARENDON  PRESS,  OXFORD.
 
 Gallon  (Douglas,  C.B.,  F.R.S.}.     The  Construction  of  Healthy
 
@@ -24901,8 +23073,7 @@ An  Elementary   Treatise    on   Electricity.    Edited    by
 
 William  Gamelt,  M.A.    Demy  8vo.  7-f.  6d.
 
-Mine/tin  (G.  M.,  M.A.}.  A  Treatise  on  Statics  with  Applica-
-tions to  Physics.  Third  Edition,  Corrected  and  Enlarged.  Vol.  I.  Equili-
+Mine/tin  (G.  M.,  M.A.}.  A  Treatise  on  Statics  with  Applications to  Physics.  Third  Edition,  Corrected  and  Enlarged.  Vol.  I.  Equili-
 brium of  Coplanar  Forces.  8vo.  9-r.  Vol.  II.  Statics.  Svo.  i6s.
 
 Uniplanar  Kinematics  of  Solids  and  Fluids.     Crown
@@ -24936,8 +23107,6 @@ numerous  Woodcuts  and   Diagrams.     Fourth  Edition.     Extra  fcap.  Svo.
 is.  fid.
 
 
-CLARENDON  PRESS,  OXFORD.  35
-
 Vernon-Harcourt  (L.  F.,  M.A.}.     A   Treatise  on  Rivers  and
 
 Canals,  relating  to  the  Control  and  Improvement  of  Rivers,  and  the  Design,
@@ -24946,8 +23115,7 @@ Plates.)  8vo.  2U.
 
 Harbours  and  Docks ;  their  Physical  Features,  History,
 
-Construction,  Equipment,  and  Maintenance ;  with  Statistics  as  to  their  Com-
-mercial Development.  2  vols.  8vo.  25^.
+Construction,  Equipment,  and  Maintenance ;  with  Statistics  as  to  their  Commercial Development.  2  vols.  8vo.  25^.
 
 Walker  (James,  M.A.)     The  Theory  of  a  Physical  Balance.
 
@@ -24962,8 +23130,7 @@ I.  A  Treatise  on  the  Application  of  Generalised  Coordinates  to  the  Ki
 
 a  Material  System.     1879.  Svo.  6s.
 
-II.  The  Mathematical  Theory  of  Electricity  and  Magnetism.     Vol.  I.  Electro-
-statics.    Svo.   los.  Cid,
+II.  The  Mathematical  Theory  of  Electricity  and  Magnetism.     Vol.  I.  Electrostatics.    Svo.   los.  Cid,
 
 Williamson   (A.    W.,  Phil.   Doc.,   F.R.S.}.      Chemistry  for
 
@@ -24974,19 +23141,15 @@ VII.  HISTORY.
 
 Bhmtschli  (J.  K.}.     The  Theory  of  the   State.      By  J.   K.
 
-Bluntschli,  late  Professor  of  Political  Sciences  in  the  University  of  Heidel-
-berg. Authorised  English  Translation  from  the  Sixth  German  Edition.
+Bluntschli,  late  Professor  of  Political  Sciences  in  the  University  of  Heidelberg. Authorised  English  Translation  from  the  Sixth  German  Edition.
 Demy  Svo.  half  bound,  I2S.  6d.
 
-Finlay  (George,  LL.D.).  A  History  of  Greece  from  its  Con-
-quest by  the  Romans  to  the  present  time,  B.C.  146  to  A. p.  1864.  A  new
-Edition,  revised  throughout,  and  in  part  re-written,  with  considerable  ad-
-ditions, by  the  Author,  and  edited  by  H.  F.  Tozer,  M.A.  7  vols.  Svo.  3/.  icw.
+Finlay  (George,  LL.D.).  A  History  of  Greece  from  its  Conquest by  the  Romans  to  the  present  time,  B.C.  146  to  A. p.  1864.  A  new
+Edition,  revised  throughout,  and  in  part  re-written,  with  considerable  additions, by  the  Author,  and  edited  by  H.  F.  Tozer,  M.A.  7  vols.  Svo.  3/.  icw.
 
 Fortescue   (Sir  John,  Kt.}.      The   Governance  of  England:
 
-otherwise  called  The  Difference  between  an  Absolute  and  a  Limited  Mon-
-archy. A  Revised  Text.  Edited,  with  Introduction,  Notes,  and  Appendices,
+otherwise  called  The  Difference  between  an  Absolute  and  a  Limited  Monarchy. A  Revised  Text.  Edited,  with  Introduction,  Notes,  and  Appendices,
 by  Charles  Plummer,  M.A.  Svo.  half  bound,  I2J.  6</.
 
 Freeman  (E.A.,  D.C.L.}.    A  Short  History  of  the  Norman
@@ -25001,8 +23164,6 @@ Hodgkin  (T.}.     Italy  and  her   Invaders,     Illustrated    with
 
 Plates  and  Maps.     Vols.  I — IV.,  A.D.  376-553.  Svo.  3/.  8j.
 
-
-36  CLARENDON  PRESS,  OXFORD.
 
 Hughes  (Alfred],     Geography  for  Schools.     With   Diagrams.
 
@@ -25071,9 +23232,6 @@ A  History  of  British  India.     By  S.  J.  Owen,  M.A.,  Reader
 in  Indian  History  in  the  University  of  Oxford.     In  preparation.
 
 
-CLARENDON  PRESS,  OXFORD.  37
-
-
 VIII.  LAW.
 
 Alberici  Gentilis,   I.C.D.,   I.C.,   De    lure   Belli   Libri   Tres.
@@ -25085,8 +23243,7 @@ Anson  (Sir  William  R.,  Bart.,  D.C.L.}.     Principles  of  the
 English  Law  of  Contract,  and  of  Agency  in  its  Relation  to  Contract.     Fourth
 Edition.    Demy  Svo.  los.  6d.
 
-Law  and  Custom  of  the  Constitution.     Part  I.     Parlia-
-ment.   Demy  Svo.  IQJ.  6d.
+Law  and  Custom  of  the  Constitution.     Part  I.     Parliament.   Demy  Svo.  IQJ.  6d.
 
 Bent  ham   (Jeremy).      An  Introduction   to   the  Principles  of
 
@@ -25140,10 +23297,7 @@ With  an  Introduction  to  the  Study  of  the  Corpus  luris  Civilis.  By  Er
 Grueber,  Dr.  Jur.,  M.A.  Demy  Svo.  IQJ.  6</.
 
 
-38  CLARENDON  PRESS,  OXFORD.
-
-Markby(  W.,D.C.L.}.    Elements  of  Law  Considered  with  refer-
-ence to  Principles  of  General  Jurisprudence.  Third  Edition.  DemySvo.  I2s.6d.
+Markby(  W.,D.C.L.}.    Elements  of  Law  Considered  with  reference to  Principles  of  General  Jurisprudence.  Third  Edition.  DemySvo.  I2s.6d.
 
 Stokes  (  Whitley,  D.C.L.}.     The  Anglo-Indian  Codes.
 
@@ -25208,15 +23362,12 @@ Locke's    Conduct   of   the    Understanding.     Second    Edition.
 Extra  fcap.  Svo.  2s.
 
 
-CLARENDON  PRESS,  OXFORD.  39
-
 Damon  (J.  T.}.     The  Wealth  of  HouseJiolds.     Crown  8vo.  5-f.
 Green  (T.  H.,  M.A.}.    Prolegomena  to  Ethics.     Edited   by
 
 A.  C.  Bradley,  M.A.     Demy  8vo.  1 2s.  f>d.
 
-Hegel.  The  Logic  of  Hegel ;  translated  from  the  Encyclo-
-paedia of  the  Philosophical  Sciences.  With  Prolegomena  by  William
+Hegel.  The  Logic  of  Hegel ;  translated  from  the  Encyclopaedia of  the  Philosophical  Sciences.  With  Prolegomena  by  William
 Wallace,  M.A.  1874.  8vo.  I4S-
 
 Lotze's  Logic,  in  Three  Books ;  of  Thought,  of  Investigation,
@@ -25268,8 +23419,6 @@ M.A.,  Author  of  '  Modern  Gothic  Architecture.'  In  3  vols.  Svo.  With  
 Plates  and  Illustrations.  Half 'bottnd,  42^.
 
 
-40  CLARENDON  PRESS,  OXFORD.
-
 Onseley  (Sir  F.  A.  Gore,  Bart.}.     A    Treatise  on  Harmony.
 
 Third  Edition.    410.  ioj.
@@ -25299,8 +23448,7 @@ Upcott  (L.  E.,  M.A.].     An  Introduction  to  Greek  Sculpture.
 
 Crowu  8vo.  \s.  6d.
 
-Vaux  ( W.  S.  W.,  M.A.}.  Catalogue  of  the  Castellani  Collec-
-tion of  Antiquities  in  the  University  Galleries,  Oxford.  Crown  8vo.  u.
+Vaux  ( W.  S.  W.,  M.A.}.  Catalogue  of  the  Castellani  Collection of  Antiquities  in  the  University  Galleries,  Oxford.  Crown  8vo.  u.
 
 
 The  Oxford  Bible  for  Teachers,  containing  Supplementary
@@ -25314,8 +23462,7 @@ Helps  to  the  Study  of  the  Bible,  taken  from  the   OXFORD
 
 BIBLE  FUR  TEACHERS,  comprising  Summaries  of  the  several  Books,  with
 copious  Explanatory  Notes  and  Tables  illustrative  of  Scripture  History  and
-the  Characteristics  of  Bible  Lands ;  with  a  complete  Index  of  Subjects,  a  Con-
-cordance, a  Dictionary  of  Proper  Names,  and  a  series  of  Maps.  Crown  8vo.
+the  Characteristics  of  Bible  Lands ;  with  a  complete  Index  of  Subjects,  a  Concordance, a  Dictionary  of  Proper  Names,  and  a  series  of  Maps.  Crown  8vo.
 cloth,  3J.  ftd. ;  i6mo.  cloth,  is.
 
 

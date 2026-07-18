@@ -43,19 +43,7 @@ discover the world's books while helping authors and publishers reach new audien
 at |http : //books . google . com/
 
 
-Hosted by Google
-
-
-Hosted by Google
-
-
 Thrice-Greatest Hermes
-
-
-Hosted by Google
-
-
-Hosted by Google
 
 
 Thrice-Greatest Hermes
@@ -80,14 +68,6 @@ Volume 11. — Sermons
 London and Benares
 
 The Theosophical Publishing Society
-
-1906
-
-
-Hosted by Google
-
-
-Hosted by Google
 
 
 Contents
@@ -142,9 +122,6 @@ The Good Shepherd 52
 V
 
 
-Hosted by Google
-
-
 VI
 
 
@@ -194,13 +171,6 @@ The "Flood" ....
 75-77
 
 
-78
-78
-79
-81
-83
-
-
 CORP. HERM. IV. (V.)
 THE CUP OR MONAD
 
@@ -244,9 +214,6 @@ The Ancient Path ...
 
 
 , 98
-
-
-Hosted by Google
 
 
 CONTENTS Vll
@@ -308,9 +275,6 @@ The Cosmos as " Second God " 127
 The Law of Apokatastasis 128
 
 
-Hosted by Google
-
-
 Vlll
 
 
@@ -348,9 +312,6 @@ Title and Ordering ....
 The True Gnostic ....
 
 
-138
-
-
 The Goal of the Gnosis ....
 
 
@@ -366,9 +327,6 @@ The Possibility of Knowing God .
 CORP. HERM. X. (XL)
 
 
-THE KEY . . . 14]
-
-
 "158
 
 
@@ -376,9 +334,6 @@ Commentary —
 
 
 The Consummation of the " General Sermons " ,
-
-
-168
 
 
 The Will of God .......
@@ -402,67 +357,34 @@ Of Apotheosis ....,,
 The Metamorphoses of the Soul ...
 
 
-163
-
-
 The Ladder of Being .....
-
-
-165
 
 
 Concerning Transmigration .....
 
 
-166
-
-
 Gnosis the Virtue of the Soul
-
-
-167
 
 
 The Vehicles of the Soul .....
 
 
-167
-
-
 The Dual Soul .......
-
-
-169
 
 
 "He who Stands". ......
 
 
-170
-
-
 The Olympian Path ...»
-
-
-171
 
 
 " When Mind becomes a Daimon "'
 
 
-171
-
-
 The " Scourge " of the Christ ....
 
 
-173
-
-
 The Dispensation of the Universe ....
-
-
-173
 
 
 CORP. HERM. XL (XII.)
@@ -481,9 +403,6 @@ The Root of Form
 . 190
 . 191
 . 193
-
-
-Hosted by Google
 
 
 CONTENTS IX
@@ -557,9 +476,6 @@ A Theurgic Praise-giving 253
 " Through the Word " 255
 
 
-Hosted by Google
-
-
 CONTENTS
 
 CORP. HERM. XIV. (XV.)
@@ -624,16 +540,6 @@ The Fellow-Rulers of the Height
 288-298
 
 
-298
-299
-300
-302
-302
-
-
-Hosted by Google
-
-
 CO:NrTENTS
 
 
@@ -663,32 +569,10 @@ The Proscription of the Worship of the Gods
 The Last Hope of the Religion of the Mind .
 
 
-390
-391
-393
-395
-396
-398
-399
-401
-
-
-Hosted by Google
-
-
-Hosted by Google
-
-
 Corpus Hermeticum
 
 
 VOL. II.
-
-
-Hosted by Google
-
-
-Hosted by Google
 
 
 COEPUS HEEMETICUM I.
@@ -722,13 +606,6 @@ He saith : I am Man-Shepherd,^ Mind of all-
 
 ^ TTipl tSov tvroiv. ^ UoifxdudpTis.
 
-3
-
-
-Hosted by Google
-
-
-4 THRICE-GREATEST HERMES
 
 masterhood ^ ; I know what thou desirest and
 I'm with thee everywhere.
@@ -771,9 +648,6 @@ Hipp., Philos,^ V. 19).
 is the Moist Essence."
 
 
-Hosted by Google
-
-
 PCEMANDRES, THE SHEPHERD OF MEN 5
 
 fire, and groaning forth a wailing sound that
@@ -803,8 +677,7 @@ understand this Vision what it means ?
 Nay ; that shall I know, I said.
 
 That Light, He said, am I, thy God, Mind,
-prior to Moist Nature which appeared from Dark-
-ness ; the Light- Word (Logos) [that appeared]
+prior to Moist Nature which appeared from Darkness ; the Light- Word (Logos) [that appeared]
 from Mind is Son of God.
 
 ^ A lacuna of six letters in the text.
@@ -818,10 +691,6 @@ most suitable to the context.
 3 Of. 11.^ vii. 99, as quoted by Apion in the chapter " Concerning
 the Mon " as Comment, on C. ff., xi. (xii.).
 
-Hosted by Google
-
-
-6 THRICE-GREATEST HERMES
 
 What then ? — say I.
 
@@ -866,9 +735,6 @@ or " world " ; and in the original there is frequently a play upon
 the two meanings, as in the case of logos.
 
 
-Hosted by Google
-
-
 POEMANDRES, THE SHEPHERD OF MEN 7
 
 [Nature ^] received the Word (Logos), and gazing
@@ -911,10 +777,6 @@ the type of all universes.
 ^ ofiooixriQs, usually translated " consubstantiar' ; but ovaia is
 " essence " and " being " rather than " substance."
 
-Hosted by Google
-
-
-8 THRICE-GREATEST HERMES
 
 of these [spheres] begins where it doth end, as
 Mind doth will.
@@ -952,8 +814,6 @@ in that he was to have his whole authority,^ he
 and when He had thus nodded assent . . . ." (F. F, F.^ 586).
 * The Eighth Sphere bounding the Seven.
 '* For note on i^ova-la, see R. in loc. and 48, n. 3.
-
-Hosted by Google
 
 
 PCEMANJDRES, THE SHEPHERD OF MEN 9
@@ -1001,10 +861,6 @@ which is." Cf. also Apion in Clement. Hom.y vi. 4, in Comment.
 ^ That is, the harmonious interplay, concord or system of the
 spheres ruled by the Rulers ; in other words, the cosmos of Fate.
 
-Hosted by Google
-
-
-10 THRICE-GREATEST HERMES
 
 He in his turn beholding the form like to
 himself, existing in her, in her Water, loved it
@@ -1044,8 +900,6 @@ hid until this day.
 
 in loc. ; and for that of Keil, see R, 367.
 ^ Sc. as well as Nature.
-
-Hosted by Google
 
 
 PGSMANDRES, THE SHEPHERD OF MEN 11
@@ -1093,11 +947,6 @@ than the vague "sublime" by which it is generally translated.
 too fast ; lit., it means " do not run away."
 
 
-Hosted by Google
-
-
-12 THRICE-GREATEST HERMES
-
 parts ^ until the period of their end and new
 beginnings.
 
@@ -1135,8 +984,6 @@ man.''
 ^ Of. U. H.j xvi. 16. "^ Omitting the tA before oyra.
 
 ^ Trp6poia^ that is Nature as Sophia or Providence or Will.
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 13
@@ -1181,10 +1028,6 @@ If then thou learnest that thou art thyself of
 * There is a word-play between TrKdvrjs and Tr\av(i>fM€vos,
 '^ Sc. Darkness. ^ 8c. The Moist Nature.
 
-Hosted by Google
-
-
-14 THRICE-GREATEST HERMES
 
 Life and Light, and that thou [only] happen st
 to be out of them, thou shalt return again to Life.
@@ -1222,8 +1065,6 @@ depraved, the envious and covetous, and those
 who murder do and love impiety, I am far off,
 
 ^ 6t5(fT€s avTwv T^ ii/ipyfj/xaTa.
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 15
@@ -1268,8 +1109,6 @@ as in the Vision of Er.
 ^ 6 Bvfihs Koi rj iirtOvfxUf — the masculine and feminine as positive
 and negative aspects of the " animal soul."
 
-Hosted by Google
-
 
 16 THRICE-GEEATEST HERMES
 
@@ -1279,8 +1118,7 @@ Device of Evils [now] de-energized ^ ; unto the
 third, the Guile of the Desires de-energized ;
 unto the fourth, his Domineering Arrogance,
 [also] de-energized ; unto the fifth, unholy
-Daring and the Rashness of Audacity, de-
-energized ; unto the sixth, Striving for Wealth
+Daring and the Rashness of Audacity, deenergized ; unto the sixth, Striving for Wealth
 by evil means, deprived of its aggrandisement ;
 and to the seventh zone, Ensnaring Falsehood,
 de-energized.^
@@ -1309,8 +1147,6 @@ Powers they are in God. This the good end for
 
 * TcC^ei, order, group, sc. of the Nine ; — the Father being the
 Ten, or consummation.
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OP MEN 17
@@ -1359,16 +1195,10 @@ Lord from an Early Greek Papyrus, Grenfell & Hunt (London ;
 VOL. II.
 
 
-Hosted by Google
-
-
-18 THRICE-GREATEST HERMES
-
 Ye earth-born folk, why have ye given up
 yourselves to Death, while yet ye have the power
 of sharing Deathlessness ? Repent, ye, who
-walk with Error arm in arm and make of Ignor-
-ance the sharer of your board ; get ye from out
+walk with Error arm in arm and make of Ignorance the sharer of your board ; get ye from out
 the light of Darkness, and take your part in
 Deathlessness, forsake Destruction !
 
@@ -1400,8 +1230,6 @@ in. their hearts, who had repented and were thus logoi.
 
 ^ Gf. Mark iv. 4 : *' He who soweth soweth the Word {Logosy
 ^ Gf. K. K., 1 — the drink given by Isis to Horus.
-
-Hosted by Google
 
 
 P(EM ANDRES, THE SHEPHERD OF MEN 19
@@ -1450,10 +1278,6 @@ in Phot., BibL, p. 337b, 23.
 
 * evXoytav, — a play on K6yos.
 
-Hosted by Google
-
-
-20 THRICE-GREATEST HERMES
 
 Accept my reason's ^ offerings pure, from soul
 and heart for aye stretched up to Thee, Thou
@@ -1485,14 +1309,10 @@ It constitutes, so to speak, the Ground-Gospel of the
 Poemandres Communities, in the form of a revelation
 or apocalypse received by the founder of the tradition,
 
-2 rrjs yvwcrecas rrjs Kar ovaiav rjfi&v^ " our being," that is, presum-
-ably, the " being " of man and God, the ^' being " which man shares
+2 rrjs yvwcrecas rrjs Kar ovaiav rjfi&v^ " our being," that is, presumably, the " being " of man and God, the ^' being " which man shares
 with God.
 
 3 Gf. G, H,y xiii. (xiv.) 20. -* ^ov<riap.
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 21
@@ -1538,11 +1358,6 @@ most grandiose imagination known to him. Thus it is
 that we have so many modes of expression among the
 
 
-Hosted by Google
-
-
-22 THRICE-GREATEST HERMES
-
 mystics of the time, so many varieties of spiritual
 experience — not because the experience itself was
 " other/' the experience was the " same " for all, but the
@@ -1566,23 +1381,17 @@ special writer's monopoly, there was no copyright in
 them, they were all utterances of the same Logos, the
 Great Instructor of humanity.
 
-Thus the literature that was produced was anony-
-mous or pseudepigraphic. There was first of all a
+Thus the literature that was produced was anonymous or pseudepigraphic. There was first of all a
 nucleus of personal vision and direct illumination,
 then a grouping of similar matter from various
 sources into a whole for didactic purposes. Nor was
-there any idea among these mystics and scripture-
-writers that the form once issued should become for
-ever stereotyped as inerrant; there were many re-
-censions and additions and interpolations. It was left
+there any idea among these mystics and scripturewriters that the form once issued should become for
+ever stereotyped as inerrant; there were many recensions and additions and interpolations. It was left
 to those without the sense of illumination to stereotype
 the forms and claim for them the inerrancy of verbal
 dictation by the Deity. Those who wrote the
 apocalypses from personal knowledge of vision could
 not make such claim for their scriptures, for they knew
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OP MEN 23
@@ -1618,8 +1427,7 @@ form has evolved from simpler beginnings.
 
 The Great and Little Man
 
-1. In deep meditation the disciple reaches the con-
-summation of his efforts, and receives initiation from
+1. In deep meditation the disciple reaches the consummation of his efforts, and receives initiation from
 the Master of the masters, who is to confer upon him
 authority {e^ovcrlav — see § 32) to teach, that is, to be
 a master or a Hermes.
@@ -1627,18 +1435,12 @@ a master or a Hermes.
 2. That this Grand Master of the Inner Mysteries
 
 
-Hosted by Google
-
-
-24 THRICE-GREATEST HERMES
-
 was Man and Shepherd of men, the Very Self of men,
 has been amply shown in the Prolegomena, but the
 striking parallelism with the very wording of our text,
 the Great Man, the " Being more than vast,'' who tells
 the little man, that though for the first time he now
-knows his Greater Self, that Self has ever been " every-
-where with thee," is best shown by the beautiful logos
+knows his Greater Self, that Self has ever been " everywhere with thee," is best shown by the beautiful logos
 from the Gospel of Eve (presumably an Egyptian gospel),
 which we have already quoted elsewhere ^ :
 
@@ -1659,8 +1461,7 @@ himself from all lower desires. No longer, like the
 theurgist in the Hermes-invocations of the popular
 cult, does he pray for wealth and fame and cheerful
 countenance, and the rest; his one desire, his only
-will, is now to ''learn the things that are, and com-
-prehend their nature and know God." He craves for
+will, is now to ''learn the things that are, and comprehend their nature and know God." He craves for
 Gnosis, — Gnosis of Cosmos and its mysteries, Gnosis
 
 ^ From Epiphaniiis, Mceres,^ xxvi. 3 ; see note to the first Hermes-
@@ -1672,9 +1473,6 @@ Perfection.
 ^ Cf. the Oxyrhynchus logion 5 : " Jesus saith : Wherever
 there are [two], they are not without God, and wherever there
 is one alone, I sav, I am with him."
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 25
@@ -1719,10 +1517,6 @@ nothing,'' and of which our author says nothing.
 
 1 See note to the fifth Hermes-Prayer (v. 2).
 
-Hosted by Google
-
-
-26 THRICE-GREATEST HERMES
 
 This Darkness comes forth from within outwards to
 the disciple's consciousness, it spreads '* downwards "
@@ -1740,8 +1534,7 @@ have called Ehea, the Primal Mother or Matter of
 the future universe.
 
 It wails and groans — that is, its motion is as yet
-unharmonized. In the terminology of the Sophia-
-my thus, it is the inchoate birth from the Sophia Above,
+unharmonized. In the terminology of the Sophiamy thus, it is the inchoate birth from the Sophia Above,
 in the Fullness, brought forth by herself alone,
 without her syzygy or consort. On account of its
 imperfection she wails and groans to the Father of
@@ -1764,9 +1557,6 @@ symbolized by Darkness, Moist Essence, Fire. These
 1 Gf, F, F. F., 340, 341.
 
 
-Hosted by Google
-
-
 PCEMANDRES, THE SHEPHERD OF MEN 27
 
 were not our differentiated elements, but the Primal
@@ -1780,8 +1570,7 @@ called Ophianae or Ophitse. Now Seth was Typhon or
 Darkness, Dark Light, and this Seth may very well
 have been symbolized as the Great Serpent of Darkness,
 as it is in our text; hence the name "Those of the
-Serpent," perhaps given them by their theological adver-
-saries (orthodox Jews and Christians). In this system
+Serpent," perhaps given them by their theological adversaries (orthodox Jews and Christians). In this system
 the Primal Elements are given as Water, Darkness,
 Abyss, and Chaos. The Light was the Child of the
 supreme Trinity — the First Man, the Second Man, and
@@ -1810,10 +1599,6 @@ Seed of the future Cosmos. This Word is Articulate
 
 3 *'The Mind to Hermes," G, H,, xi. (xii.) 6, 7.
 
-Hosted by Google
-
-
-28 THRICE- GREATEST HERMES
 
 Cosmic Animal Nature is impregnated with the Light
 of the Supernal Eeason, which pervades its whole
@@ -1843,8 +1628,7 @@ This he regards as an interpolation of another form of
 cosmogenesis, into the one which is being described.
 
 It seems to me, however, that the breaking of the
-main narrative may be regarded as a necessary digres-
-sion rather than as an interpolation of foreign material-
+main narrative may be regarded as a necessary digression rather than as an interpolation of foreign material-
 necessary in order to bring on to the scene the hitherto
 invisible Greatnesses, " within '' the Veil of Light, which
 constitute the Economy of the Pleroma. More had to
@@ -1853,9 +1637,6 @@ understand what he had so far seen. He must now
 unite with the Light, his previous seeing being that
 of its reflection, the logos within him. Not that this
 ^ That is, the condition " seeing."
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 29
@@ -1871,13 +1652,11 @@ friends with it.
 
 7. Hitherto the Light had been one for him a sameness
 which his highest vision could not pierce, the Veil of
-Light that shut the Beauties, Perfections and Great-
-nesses of the Intelligible from the eyes of his mind.
+Light that shut the Beauties, Perfections and Greatnesses of the Intelligible from the eyes of his mind.
 To pierce this veil a still more expanded power of
 sight had to be given him by the Master. The little
 word or light-spark within him is intensified by the
-Great Word of the Master, this Word being an Intel-
-ligible Utterance of the Mind, an intensification of
+Great Word of the Master, this Word being an Intelligible Utterance of the Mind, an intensification of
 being.
 
 He now sees and understands the countless Powers
@@ -1901,27 +1680,18 @@ desiring Himself. It is Himself as Mother or Spouse
 1 Not Horus.
 
 
-Hosted by Google
-
-
-30 THRICE-GREATEST HERMES
-
-desiring Himself as Father. In other of the Tris-
-megistic tractates ^ this " Feminine Aspect " of Deity
+desiring Himself as Father. In other of the Trismegistic tractates ^ this " Feminine Aspect " of Deity
 is called Wisdom and Nature and Generation and
 Isis. He is Wisdom as desiring Himself, — that Desire
-being the Primal Cause as Mother of the whole world-
-process, which is consummated by His Fullness uniting
+being the Primal Cause as Mother of the whole worldprocess, which is consummated by His Fullness uniting
 with His Desire or Wisdom, and so perfecting it.
 
-This is the whole burden of the Gnostic Sophia-
-mythus, which I have given very good reasons for
+This is the whole burden of the Gnostic Sophiamythus, which I have given very good reasons for
 believing derived its main element from Egypt.^
 Curiously enough, Eeitzenstein (pp. 39, 40) quotes the
 two chapters (liii. and liv.) from Plutarch on which
 I base my conclusions, but he does not notice that in
-this respect the Christianized Gnosis is distinctly de-
-pendent on Egypt.
+this respect the Christianized Gnosis is distinctly dependent on Egypt.
 
 And so Philo ^ also tells us that the Mother of All
 is Gnosis {iTncrrmr}), the very same name that Plutarch
@@ -1948,9 +1718,6 @@ of a dualistic tendency. It is true, as he himself
 2 Cf. my note on Plut., De Is. et Os., liv. 6, in the Prolegg.
 
 3 Ue Ehriet, § 30.
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 31
@@ -1996,9 +1763,6 @@ the " tongue of flesh " has to use the familiar language
 of form, but every word employed has a new signifieauce ;
 
 
-Hosted by Google
-
-
 32 THRIOE-GREATEST HERMES
 
 for even the "tongue of angels" cannot describe it,
@@ -2040,9 +1804,6 @@ of it.i
 " The Basilidian Gnosis," ^' The Valentinian Movement," '^ Some
 Outlines of ^onology,'' and " The Sophia-Mythus," in F. F. F.,
 pp. 253-357.
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 33
@@ -2089,11 +1850,6 @@ therefore, must be of a psychic nature — that is to say,
 vol. II. 3
 
 
-Hosted by Google
-
-
-34 THRICE- GREATEST HERMES
-
 of a pure or subtle substance ; they are Forms of subtle
 matter endowed with reason. They constitute the
 Cosmic Engine of the fashioning of souls, or psychic
@@ -2129,18 +1885,13 @@ downward elements.
 The Descent of Man
 
 12. When this had been accomplished, there followed
-a Third Outpouring — the descent of Man, the con-
-summation of the whole Enformation of things, a still
-
-
-Hosted by Google
+a Third Outpouring — the descent of Man, the consummation of the whole Enformation of things, a still
 
 
 PCEMANDRES, THE SHEPHEED OF MEN 35
 
 more transcendenb manifestation of Mind, the One
-Form that contains all forms, His Very Image co-
-equal with Himself. He finally comes Himself to
+Form that contains all forms, His Very Image coequal with Himself. He finally comes Himself to
 consummate and save the cosmos in the Form of Man —
 that is, to gather it to Himself and take it back into
 the Pleroma.
@@ -2164,8 +1915,7 @@ he must descend still further into matter. Before he
 can burst through upwards he must break through
 downwards.
 
-14. Accordingly he breaks through the Spheres down-
-wards, seeking his consort Nature below, and shows her
+14. Accordingly he breaks through the Spheres downwards, seeking his consort Nature below, and shows her
 his Divine Form radiant with all the energies bestowed
 on him by all the Powers above.
 
@@ -2180,11 +1930,6 @@ bound willingly in love for her who is himself.
 
 Eeitzenstein (pp. 47-49) is greatly puzzled with all
 
-
-Hosted by Google
-
-
-36 THRICE-GREATEST HERMES
 
 this, and seeks to distinguish several contradictory
 elements, presumably supposing that these elements
@@ -2206,8 +1951,7 @@ When, then, Eeitzenstein (p. 47) says that in § 11, in
 the bringing forth by Nature of irrational lives, there
 is a confusion of contradictory conceptions, he fails to
 see that JSTature is ever the World-Soul, the spouse of
-Mind; though Darkness she is spouse of Light. Un-
-aided she brings forth things irrational, a phase of that
+Mind; though Darkness she is spouse of Light. Unaided she brings forth things irrational, a phase of that
 birth of I^ature by herself that is incomplete.
 
 So also in § 13, Eeitzenstein detects contradictory
@@ -2216,17 +1960,13 @@ ideas. He does not, however, perceive that though in
 one sentence the *' formations " are said to be those of
 the Father, and in the next those of the Brother, this is
 no real confusion, because the Formative Mind is the
-Father, enforming Himself in Himself; this self-
-energizing, when regarded by itself, may be spoken of as
+Father, enforming Himself in Himself; this selfenergizing, when regarded by itself, may be spoken of as
 other than the Father, but is not really so.
 
 ISTor can I see that there is any real contradiction in
 the breaking through of the Spheres as though they
 were the product of an opposing Power to that of the
 Son. The Fate was certainly so regarded by men who
-
-
-Hosted by Google
 
 
 PCEM ANDRES, THE SHEPHERD OF MEN 37
@@ -2260,8 +2000,7 @@ and Life, and taking on bodies of fire and air, was
 changing into mind (Light-fire) and soul (Life-spirit).
 
 This presumably lasted for long periods of time, the
-lower animal forms gradually evolving to greater com-
-plexity as Nature strove to copy the '' Form " of Man,
+lower animal forms gradually evolving to greater complexity as Nature strove to copy the '' Form " of Man,
 and Man devolving gradually until there was a union,
 and the human subtle form could find vehicles among
 the highest animal shapes.
@@ -2272,26 +2011,20 @@ when everything was in a far greater state of flux than
 things are now.
 
 
-Hosted by Google
-
-
 S8 THRICE-GREATEST HERMES
 
 ''Increase and Multiply"
 
-18. This period of pre-sexual or bi-sexual develop-
-ment having come to an end, the separation of the
+18. This period of pre-sexual or bi-sexual development having come to an end, the separation of the
 sexes took place. The commandment is given by
 the Word: "Increase ye in increasing and multiply
 in multitude " (av^dvecrOe ev av^r/aei koI TrXtjdvvecrQe
 €V TrXy'jOeL).
 
-It is true that this is reminiscent of the oft re-
-peated formula in the Greek Targum of Genesis, —
+It is true that this is reminiscent of the oft repeated formula in the Greek Targum of Genesis, —
 avidvecrOe koI irXriQiivecrOe^ — but it is only slightly
 reminiscent, the main injunction being strengthened,
-and the rest of the logos being quite different from any-
-thing found in Genesis. As nothing else in the whole
+and the rest of the logos being quite different from anything found in Genesis. As nothing else in the whole
 treatise can be referred to direct Hebrew influence, we
 must conclude that the formula was, so to speak, in the
 air, and has so crept into our treatise.^
@@ -2322,9 +2055,6 @@ section "The Original MS, of our Corpus" in ch. i. of the
 *' Prolegomena."
 
 
-Hosted by Google
-
-
 PCEM ANDRES, THE SHEPHERD OF MEN 39
 
 19. This increasing and multiplying, the perpetual
@@ -2353,8 +2083,7 @@ composed of the Moist Nature, which in a subsequent
 phase remains as Water-Earth, and in a still subsequent
 phase divides itself into the elements of physical earth,
 water, and air. The dissolution of the combination of
-these elements is effected by Death — that is, Dark-
-ness, the Drainer of the Water, the Typhonean Power.
+these elements is effected by Death — that is, Darkness, the Drainer of the Water, the Typhonean Power.
 Water must thus here symbolize the Osirian Power of
 fructification and holding together. The Moist Nature
 then seems to be diff'erentiated from the Darkness by
@@ -2368,13 +2097,7 @@ The Way of Deathlessness
 The disciple repeats his lesson, and the Master com-
 
 
-Hosted by Google
-
-
-40 THRICE-GREATEST HERMES
-
-mends him ; the Way Up is the Path of Self-
-knowledge.
+mends him ; the Way Up is the Path of Selfknowledge.
 
 Still the disciple cannot believe that this is for him ;
 he cannot understand that Mind is in him, or rather is
@@ -2405,20 +2128,15 @@ we are told that the " way of life " {ro ^Oog) is at
 death surrendered to the Daimon.
 
 If, however, the reader will refer to the section on
-" The Vision of Er " (in the Miscellanea of the " Pro-
-legomena"), which in my original MS. followed as a
+" The Vision of Er " (in the Miscellanea of the " Prolegomena"), which in my original MS. followed as a
 Digression on this passage, he will be put in contact
 with the Platonic view of the Daimon and " way of
 life"; in our treatise, however, the teaching is of a
-more intimate character, and must be taken in con-
-junction with C. R.j X. (xi.) 16 and 21, where we shall
+more intimate character, and must be taken in conjunction with C. R.j X. (xi.) 16 and 21, where we shall
 comment on it at further length.
 
 
 -Xj^t^
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OP MEN 41
@@ -2458,21 +2176,14 @@ spheres or zones; and in these zones he leaves his
 inharmonious propensities, deprived of their energy.
 For the Harmony is only evil apparently ; it is really
 the Engine of Justice and Necessity to readjust the
-foolish choice of the soul — that is, to purify its irra-
-tional desires, or those propensities in it that are not
+foolish choice of the soul — that is, to purify its irrational desires, or those propensities in it that are not
 under the sway of right reason and philosophy. For a
 better understanding of the characteristics ascribed to
 
 
-Hosted by Google
-
-
-42 THRICE-GREATEST HERMES
-
 the ''seven spheres," we must "run off" into another
 Digression, which the reader will find relegated to
-ch- xii. of the '' Prolegomena," under the title " Con-
-cerning the Seven Zones and their Characteristics."
+ch- xii. of the '' Prolegomena," under the title " Concerning the Seven Zones and their Characteristics."
 This, then, having been taken as a direct commentary
 on § 25, we continue with the text of our treatise.
 
@@ -2494,8 +2205,7 @@ the natural state of " those-that-are."
 In another sense it may perhaps mean that the man,
 after passing through the phases of the lower mind,
 now enters within into the region of the pure mind, the
-Higher Ego, and there is at-oned with all the experi-
-ences of his past lives that are worthy of immortality,
+Higher Ego, and there is at-oned with all the experiences of his past lives that are worthy of immortality,
 his virtuous energizings, — the "those-that-are," that
 perhaps constitute the " crown of mighty lives " sung
 of by the Pythian Oracle when celebrating the death
@@ -2511,18 +2221,13 @@ above the Ogdoad — that is to say, in Gnostic terms, the
 also Tlieosoph. Rev. (July 1898), p. 403.
 
 
-Hosted by Google
-
-
 PCEM ANDRES, THE SHEPHERD OP MEN 43
 
 Hymn of the ^ons of the Pler5ma. Such a man
 would have reached the consummation of his earthly
-pilgrimage, and be ready to pass on into the Christ-
-state, or, at any rate, the state of super-man. He would
+pilgrimage, and be ready to pass on into the Christstate, or, at any rate, the state of super-man. He would
 be the Victor who had won the right of investiture
-with the Kobe of Glory, and the dignity of the crown-
-ing with the Kingship of the Heavens. This Final
+with the Kobe of Glory, and the dignity of the crowning with the Kingship of the Heavens. This Final
 Initiation is most beautifully set forth in the opening
 pages of the Pistis Sophia, and especially in the Song
 of the Powers (pp. 17 ff.), beginning with the words:
@@ -2549,15 +2254,9 @@ nay, in final consummation, God Himself.
 the Christ of God, the Son of the Father, who could take
 all forms to carry out the Divine Will. When the
 form, — even though that form might for the disciple
-take on the appearance of the cosmos itself, as he con-
-ceived it, — had served its purpose, the Shepherd once
+take on the appearance of the cosmos itself, as he conceived it, — had served its purpose, the Shepherd once
 more " mingled with the Powers."
 
-
-Hosted by Google
-
-
-44 THRICE-GREATEST HERMES
 
 The Three "Bodies'' of the Buddha
 
@@ -2606,13 +2305,9 @@ the " Great Vehicle" of Buddhism.
 3 The italics are mine throughout.
 
 
-Hosted by Google
-
-
 PCEM ANDRES, THE SHEPHERD OF MEN 45
 
-Body of Transformation is merely the shadow [or rejiec-
-tioTi] of their own evolving consciousness, they imagine it
+Body of Transformation is merely the shadow [or rejiectioTi] of their own evolving consciousness, they imagine it
 comes from some external sources, and so they give it a
 corporeal limitation. But the Body of Transformation
 [or what amounts to the same thing, the Dharmakaya]
@@ -2635,15 +2330,13 @@ This is called the Body of Bliss (Sambhogakaya) " (pp.
 100, 101).
 
 We have used the term "formless state" in the
-penultimate paragraph to signify the states of conscious-
-ness in " worlds " called Arupa ; but these are only
+penultimate paragraph to signify the states of consciousness in " worlds " called Arupa ; but these are only
 " formless '* for consciousness which has not reached the
 Bodhisattva level — presumably the Buddhic plane of
 Neo-theosophical nomenclature.
 
 For *'this Body has infinite forms. The form has
-infinite attributes. The Attribute has infinite excel-
-lencies. And the accompanying reward of Bodhisattvas
+infinite attributes. The Attribute has infinite excellencies. And the accompanying reward of Bodhisattvas
 — that is, the region where they are predestined to be
 born — also has infinite merits and ornamentations.
 Manifesting itself everywhere, the Body of Bliss is
@@ -2653,13 +2346,7 @@ coming forth from the Mind" (p. 101).
 The older Chinese Version says : "It is boundless,
 
 
-Hosted by Google
-
-
-46 THRICE-GREATEST HERMES
-
-cannot be exhausted, is free from the signs of limita-
-tion. Manifesting itself wherever it should manifest
+cannot be exhausted, is free from the signs of limitation. Manifesting itself wherever it should manifest
 itself, it always exists by itself and is never destroyed "
 (p. 101, n. 2).
 
@@ -2685,19 +2372,13 @@ quickens the highest form of consciousness or conception
 of masterhood they have so far attained to — taking the
 form of their greatest love, perhaps, as they have known
 Him in the tiesh, or as He has been told of as existing
-in the flesh, but not His own-form, which would tran-
-scend their consciousness.
+in the flesh, but not His own-form, which would transcend their consciousness.
 
-The next stage is when the disciple learns to tran-
-scend his own "egoity," in the ordinary sense of the
-word ; this does not mean to say that his true in-
-dividuality is destroyed, but instead of being tied down
-to one ego-vehicle, he has gained the power of manifest-
-ing himself wherever and however he will, at any
+The next stage is when the disciple learns to transcend his own "egoity," in the ordinary sense of the
+word ; this does not mean to say that his true individuality is destroyed, but instead of being tied down
+to one ego-vehicle, he has gained the power of manifesting himself wherever and however he will, at any
 moment of time; in brief, the power of self-generation
 on the plane of egoity, in that he has reached a higher
-
-Hosted by Google
 
 
 PCEMANBRESj THE SHEPHERD OF MEN 47
@@ -2709,8 +2390,7 @@ He now begins to realise in the very nature of his
 being that the " Self is in all and all in the Self." Such
 a disciple, or Bodhisattva, is taught by the Master in this
 state of being, and the Kaya which he supplies for the
-energizing of his beloved Father is perfectly unintelli-
-gible to us, and can only be described as an expanded
+energizing of his beloved Father is perfectly unintelligible to us, and can only be described as an expanded
 consciousness of utmost sympathy and compassion, which
 not only strives to blend with the Life of all beings,
 but also with the One Being in the world for him, the
@@ -2743,11 +2423,6 @@ heart the Shepherd's benefaction " (§ 30).
 
 Until the end of S 26 we have moved in the
 
-
-Hosted by Google
-
-
-48 THRICE-GREATEST HERMES
 
 atmosphere of an inner intimate personal instruction,
 set forth in a form evidently intended only for the few ;
@@ -2786,9 +2461,6 @@ vigorous preaching of nascent Christianity which
 wrought this change, we should, I think, be taking
 part for whole, for prior to Christianity there was the
 most energetic propaganda made by the Jews, the
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 49
@@ -2838,11 +2510,6 @@ hymn, in which the further growth and effort of the
 VOL. 11.
 
 
-Hosted by Google
-
-
-50 THRICE-GREATEST HERMES
-
 man m spirit is set forth. Henceforth his effort will
 be to become like unto the Father Himself, to pass
 from Sonship into the Perfection of perfection, Identity
@@ -2860,8 +2527,7 @@ reached the Plain of Truth." ^
 
 The Name " Poimandres ''
 
-Many have already remarked that the name *' Poi-
-mandres " is formed irregularly in Greek, and this has
+Many have already remarked that the name *' Poimandres " is formed irregularly in Greek, and this has
 led to an interesting speculation by Granger, who
 writes :
 
@@ -2878,14 +2544,10 @@ alternative title of the Asclepius, The term Poemandres,
 therefore, on this supposition, contains an allusion to
 
 ^ It is to be noticed that the Hymn is a Song of Holiness.
-*' Holy art thou " is nine times repeated— -most probably in-
-tentionally. This was noticed long ago by Casaubon. See R.
+*' Holy art thou " is nine times repeated— -most probably intentionally. This was noticed long ago by Casaubon. See R.
 58, n. 3.
 
 '^ Palladius, Hist. Laus.. 89.
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 51
@@ -2918,10 +2580,8 @@ We should say that the last guess is most highly
 improbable, and only denotes the indecision of the
 writer. The original "Foemandres'* may very well
 have been composed not in Coptic but in Demotic ; but
-the reasons given by Granger, as based on the pheno-
-mena of the Gnostic Coptic writings, are not to be
-seriously considered. Nevertheless, the name "Poi-
-mandres '' may be a Greek transliteration of an Egyptian
+the reasons given by Granger, as based on the phenomena of the Gnostic Coptic writings, are not to be
+seriously considered. Nevertheless, the name "Poimandres '' may be a Greek transliteration of an Egyptian
 name, though we hardly think that " The Witness *'
 
 1 G. has just referred to the story of Hermes being witness for
@@ -2934,11 +2594,6 @@ related in Phitarcli.
 ^ Ibid.,^, 401.
 
 
-Hosted by Google
-
-
-52 THRICE-GREATEST HERMES
-
 will suit the theme. In any case " Man-Shepherd "
 was certainly the idea conveyed to the I^on- Egyptian
 by the name, however philologically unsound its form
@@ -2949,8 +2604,7 @@ The Goon Shepherd
 It has been no part of our task to attempt to trace
 the Hermes-idea along the line of pure Greek descent,
 for this would have led us too far from our immediate
-subject. There is, however, one element of that tradi-
-tion which is of great interest, and to which we may
+subject. There is, however, one element of that tradition which is of great interest, and to which we may
 draw the attention of the reader in passing. The
 beautiful idea of the Christ as the " Good Shepherd "
 is familiar to every Christian child. Why the Christ
@@ -2979,14 +2633,10 @@ These were, in one human correspondence, the twelve
 Kimst ''™*' Periode des Archaismus."
 
 
-Hosted by Google
-
-
 POEMANDRES, THE SHEPHERD OF MEN 53
 
 septs or classes of priests. Here we see that the Greek
-tradition itself was not pure Aryan even in its so-
-called archaic period. Chaldaea had given of her
+tradition itself was not pure Aryan even in its socalled archaic period. Chaldaea had given of her
 wisdom to post-diluvian Greece, even as she had
 perchance been in relation with Greece before the
 " flood." Here, then, we have another element in the
@@ -3022,11 +2672,6 @@ of religion under the diversity of creeds and return
 to the old doctrine of the mysteries.
 
 
-Hosted by Google
-
-
-54 THRICE-GREATEST HERMES
-
 In connection with the ''Good Shepherd '* glyph,
 it will be useful to quote from Granger's instructive
 exposition on the subject,^ where he writes:
@@ -3059,8 +2704,7 @@ but without any suspicion apparently of its composite character,
 
 ■' See Sittl, Klassische Kunstarchaologie^ 777, 809, 819.
 
-^ G. here again refers apparently to the Naassene Docu-
-ments, which, however, did not depend on the Gospel according
+^ G. here again refers apparently to the Naassene Documents, which, however, did not depend on the Gospel according
 to the Egyptians^ as we have shown ; nor have we any sure
 ground for dating this widespread mystic gospel of Egypt as
 being of the second century rather than of the first. G. (j). 411)
@@ -3070,9 +2714,6 @@ well be the case, and that the title of G. if., xiii. (xiv.),
 "The Secret Sermon on the Mountain," has reference to this
 gospel, which is by no means probable, for our sermon keeps
 entirely within its own tradition in its setting.
-
-
-Hosted by Google
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 55
@@ -3088,8 +2729,7 @@ rising Christian art.
 further the long-standing controversy as to the portraits
 of Jesus. Since the figure of the Good Shepherd is
 borrowed from Greek sculpture, it cannot be used as
-evidence for the earliest conceptions about the appear-
-ance of Jesus. And so the arguments of Farrar and
+evidence for the earliest conceptions about the appearance of Jesus. And so the arguments of Farrar and
 others fall to the ground, in so far as they take the
 presence of this type to show that there was no genuine
 tradition of Christ's appearance.^
@@ -3098,8 +2738,7 @@ tradition of Christ's appearance.^
 light upon the famous inscription of Abercius. The
 inscription speaks of a Shepherd — ' Who f eedeth on the
 plains His flock of sheep, and hath great eyes that gaze
-forth every way. For He did teach me [how to under-
-stand and] scriptures worthy to believe.'^
+forth every way. For He did teach me [how to understand and] scriptures worthy to believe.'^
 
 "The Shepherd, whose great eyes look in every
 direction, is no other than Hermes treated as a
@@ -3122,11 +2761,6 @@ runs : " The disciple of the Pure Shepherd." C/. R. 115.
 
 4 Gf, Glass. Rev., ix. 297.
 
-
-Hosted by Google
-
-
-56 THRICE- GREATEST HERMES
 
 already written in the Prolegomena on " The Popular
 Symbolic Eepresentation of the Shepherd" in the
@@ -3170,9 +2804,6 @@ Catacomhes de Rome^ tab. 1*7, no. 5.
 •^ R. 113. The gem has only six.
 
 
-Hosted by Google
-
-
 PCEMANDRES, THE SHEPHERD OF MEN 57
 
 Islamic times of which the Arabian writers tell us,
@@ -3184,9 +2815,6 @@ theology.
 
 ^ Cf. Chwolsohn (D.), Die Ssabier und der SsahismuSy ii. 628.
 Of, R. 166 ff.
-
-
-Hosted by Google
 
 
 COEPUS HEEMETICUM (II.)
@@ -3305,12 +2933,6 @@ hands of Psellus.)
 -Jti
 
 
-58
-
-
-Hosted by Google
-
-
 CORPUS HERMETICUM II. (III.)
 
 
@@ -3347,13 +2969,6 @@ vast] that than it there exists no body greater ?
 1 From here tiU the end of § 4 is quoted by Stobaeus, Phys.^
 xviii. 2 ; G. pp. 147-149 ; W. 157, 6 fF.
 
-59
-
-
-Hosted by Google
-
-
-60 THRICE-GREATEST HERMES
 
 Asc, Assuredly.
 
@@ -3388,23 +3003,18 @@ contrary to body bodiless ?
 
 Asc. Agreed.
 
-Her. Space, then, is bodiless. But bodi-
-less must either be some godlike thing or God
+Her. Space, then, is bodiless. But bodiless must either be some godlike thing or God
 [Himself]. And by '* some godlike thing " I
-mean no more the generable but the ingener-
-able.^
+mean no more the generable but the ingenerable.^
 
 ^ That is, beyond genesis, the universe of becoming, or the
 fciensible universe.
-
-Hosted by Google
 
 
 TO ASCLEPIUS 61
 
 5. If, then, space be some godlike thing, it is
-substantial ^ ; but if *tis God [Himself], it tran-
-scends substance. But it is to be thought of
+substantial ^ ; but if *tis God [Himself], it transcends substance. But it is to be thought of
 otherwise [than God], and in this way.
 
 God is first "thinkable"^ for us, not for
@@ -3440,10 +3050,6 @@ with, but one against; they are not moved with
 quoted by Stobaeus, Phys., xix. 2 ; G. pp, 154-157 ; W. 163, 14 ff.
 * Sc, in some previous sermon.
 
-Hosted by Google
-
-
-62 THRICE-GREATEST HERMES
 
 one another, but one against the other. It is
 this contrariety which turneth the resistance of
@@ -3476,14 +3082,11 @@ stable by its contrariety.
 8. Of this ril give thee here on earth an
 instance, which the eye can see. Eegard the
 animals down here, — a man, for instance,
-swimming ! The water moves, yet the resist-
-ance of his hands and feet give him stability,
+swimming ! The water moves, yet the resistance of his hands and feet give him stability,
 so that he is not borne along with it, nor sunk
 thereby.
 
 ^ Sc. Ursa Major and Ursa Minor.
-
-Hosted by Google
 
 
 TO ASCLEPIUS 63
@@ -3506,13 +3109,11 @@ thing in it ; nay, not even the whole [body of
 the universe a lesser] body e'en though there
 be no life in it.^
 
-9. Asc, What meanest thou by this, Thrice-
-greatest one ? Is it not bodies, then, that
+9. Asc, What meanest thou by this, Thricegreatest one ? Is it not bodies, then, that
 move the stock and stone and all the other
 things inanimate ?
 
-Her. By no means, Asclepius. The some-
-thing-in-the-body, the that-which-moves the
+Her. By no means, Asclepius. The something-in-the-body, the that-which-moves the
 thing inanimate, this surely's not a body, for
 that it moves the two of them — both body of
 the lifter and the lifted ? So that a thing that*s
@@ -3525,10 +3126,6 @@ Thou seest, then, how heavy laden is the soul,
 ^ That is, living material organism.
 2 That is, in the lesser body.
 
-Hosted by Google
-
-
-64 THRICE-GREATEST HERMES
 
 for it alone doth lift two bodies. That things,
 moreover, moved are moved in something as well
@@ -3578,8 +3175,6 @@ The 4s' could not be *is' were it not full of subsistence
 
 ranslation.
 
-Hosted by Google
-
 
 TO ASCLEPIUS 65
 
@@ -3617,15 +3212,10 @@ preserving those that are, whose rays, to use a
 1 The physical elements — earth, air, water and fire — were
 supposed to be severally combinations of the Primal Elements,
 Earth, Air, Water and Fire, one Element dominating in each.
-Thns our air would consist of a proportion of all four Great Ele-
-ments, but would have Air predominant in it ; and so for the rest.
+Thns our air would consist of a proportion of all four Great Elements, but would have Air predominant in it ; and so for the rest.
 
 VOL. II. 5
 
-Hosted by Google
-
-
-66 THRICE-GREATEST HERMES
 
 likeness, are Good, Truths Light beyond light,
 the Archetype of soul.
@@ -3636,8 +3226,7 @@ Asc. What, then, is God ?
 it is that causeth them to be, both all and each
 and every thing of all that are. Nor hath He
 left a thing beside that is-not ; but they are all
-from things-that-are and not from things-that-
-are-not. For that the things-that-are-not have
+from things-that-are and not from things-thatare-not. For that the things-that-are-not have
 naturally no power of being anything, but rather
 have the nature of the inability-to-be. And,
 conversely, the things-that-are have not the
@@ -3662,8 +3251,6 @@ that can contain ^ the Good.
 
 1 In the original tliere is a word-play — x^P'o-'^^^ (separable) and
 XO}pr}(rai (contain) — which is impossible to reproduce in translation.
-
-Hosted by Google
 
 
 TO ASCLEPIUS 67
@@ -3703,10 +3290,6 @@ and Good is God.
 
 1 Of. G. H., X. (xi.) 3 : 'Tis " He alone who taketh naught."
 
-Hosted by Google
-
-
-68 THRICE- GREATEST HERMES
 
 because He is the that-which-maketh all The
 part of father is to make.
@@ -3742,9 +3325,6 @@ This treatise has no precise title, for, as we have
 already seen in treating of the make-up of the Corpus,
 the traditional title, " Of Hermes to Tat, the General
 Sermon," found in all the MSS., cannot apply to our
-
-
-Hosted by Google
 
 
 TO ASCLEPIUS 69
@@ -3791,9 +3371,6 @@ Stobseus, " Of Hermes the Thrice-greatest, the General
 Sermon to Asclepius," must therefore be definitely
 
 
-Hosted by Google
-
-
 70 THRICE-GK,EATEST HERMES
 
 abandoned, and, in lieu of the lost general title, we
@@ -3803,8 +3380,7 @@ Asclepius."
 Space is a Plenum
 
 The subject is that of the Fullness of Being or the
-Plenum of things. Space is a Plenum,— -the funda-
-mental concept of modern scientijfic speculation.
+Plenum of things. Space is a Plenum,— -the fundamental concept of modern scientijfic speculation.
 
 Asclepius, however, must guard himself against the
 confusion of Space with God ; for God is not Space,
@@ -3826,8 +3402,7 @@ being that of the Separator or Divider ; the two
 together forming the Cross of Manifestation, the
 resolution of the Sphere of Sameness.
 
-The World-Soul is in perpetual motion ; this per-
-petual motion is ordered and reduced to a cosmos and
+The World-Soul is in perpetual motion ; this perpetual motion is ordered and reduced to a cosmos and
 harmony of motion by the introduction into it, by
 means of the Eeason, of the root-forms of motion
 (mentioned in the Timceus and elsewhere) ; — up, down ;
@@ -3836,9 +3411,6 @@ right, left; front, back; in, out; round, — and no-motion.
 All bodies are essentially inert ; it is the soul that
 moves them, either immediately or mediately (§ 9).
 1 R., p. 305, also makes a brief reference to this.
-
-
-Hosted by Google
 
 
 TO ASCLEPIUS 71
@@ -3850,8 +3422,7 @@ however, the doctrine throughout is that of a Plenum
 (as, indeed, it is elsewhere in the Trismegistic writings),
 I can only suppose that the instructor of " Asclepius "
 was endeavouring to clinch his point by arguing that the
-only Void was the " is-not " or non-being ; now as non-
-being cannot possibly ''exist," there can he no such
+only Void was the " is-not " or non-being ; now as nonbeing cannot possibly ''exist," there can he no such
 thing as Void.
 
 The Spouse of Deity
@@ -3886,11 +3457,6 @@ Text of the Gospels," in The Hibhert Journal (Oct. 1902), pp. 98-
 113. J. R. Wilkinson's few remarks (FT. J"., Ap. 1903, pp. 575,
 
 
-Hosted by Google
-
-
-72 THRICE-GREATEST HERMES
-
 brings forward very strong evidence that the original
 reading was: ''Gall thou me not Good; One only is
 Good, God the Father," — a reading known to Marcion,
@@ -3910,8 +3476,7 @@ Johannine "God is Spirit," we might at first sight
 almost persuade ourselves that our treatise had these
 Christian declarations immediately in mind. But the
 general phenomena of similarity of diction and idea of
-the Trismegistic literature with those of the JSTew Testa-
-ment documents is so much more satisfactorily explained
+the Trismegistic literature with those of the JSTew Testament documents is so much more satisfactorily explained
 by the fact that both literatures use mainly the common
 Hellenistic theological phrases of the time, that we need
 not distress ourselves with any suggestions either of
@@ -3931,8 +3496,6 @@ is one [only] Good, God the Father," while in our
 
 576) on Conybeare's criticism of this synoptic passage do not seem
 to me to he of any weight.
-
-Hosted by Google
 
 
 TO ASCLEPIUS 73
@@ -3977,11 +3540,6 @@ can retire to the contemplative life (Vanaprastha
 (xi.) 1.
 
 
-Hosted by Google
-
-
-74 THRICE-GREATEST HERMES
-
 ashrama). In special cases, however, exceptions could
 be made.
 
@@ -3992,9 +3550,6 @@ The scribe of the thirteenth century, Codex B.
 (Parisinus, 1220), has laconically written on the margin
 of this paragraph the single word " nonsense " {<p\vapla) ;
 he was presumably a monk.
-
-
-Hosted by Google
 
 
 COEPUS HEEMETICUM III. (IV.)
@@ -4010,8 +3565,7 @@ Of Hermes
 Godly Nature. Source of the things that are is
 God, who is both Mind and Nature, — yea Matter,
 the Wisdom that reveals all things. Source
-[too] is Godhead, — yea Nature, Energy, Neces-
-sity, and End, and Making-new-again.^
+[too] is Godhead, — yea Nature, Energy, Necessity, and End, and Making-new-again.^
 
 Darkness that knew no bounds was in Abyss,
 and Water [too] and subtle Breath intelligent ;
@@ -4027,13 +3581,6 @@ thus mean " within the area or sphere of Light " — that is to say,
 manifestation. The " Moist Essence " is apparently the Water of
 Chaos, or primal substance.
 
-75
-
-
-Hosted by Google
-
-
-76 THRICE-GREATEST HERMES
 
 Elements ; and all the Gods do separate things
 out from fecund Nature.
@@ -4074,8 +3621,6 @@ of § 3 is given by R. 47, n. 1.
 
 ^ iariTip/jLoXSyovif. " r^s yiyearfis.
 
-Hosted by Google
-
 
 THE SACRED SERMON 77
 
@@ -4106,15 +3651,9 @@ decay, shall of necessity renew itself, both by the
 renovation of the Gods and by the turning-round
 of Nature's rhythmic wheel.
 
-For that whereas the Godhead is Nature's ever-
-making-new-again the cosmic mixture, Nature
+For that whereas the Godhead is Nature's evermaking-new-again the cosmic mixture, Nature
 herself is also co-established in that Godhead.
 
-
-Hosted by Google
-
-
-78 THRICE-GREATEST HERMES
 
 COMMENTAEY
 
@@ -4157,9 +3696,6 @@ procem, the precise meaning of which escapes me
 because of its almost mnemonic nature ; it is, indeed
 
 
-Hosted by Google
-
-
 THE SACRED SERMON 79
 
 quite in sutra style. There appears, however, to be a
@@ -4171,8 +3707,7 @@ Beginning), the End and the Ever-renewing of all things
 are owing to this Triad. All three seem to be almost
 interchangeable terms. The Godhead is the Mind of
 God, Godly Nature is the Wisdom of God. Again, at
-the end of the sermon (§ 4) we are told that the God-
-head (or that which is Divine) is '' Nature's ever-making-
+the end of the sermon (§ 4) we are told that the Godhead (or that which is Divine) is '' Nature's ever-making-
 new-again the cosmic mixture." Godhead in operation is
 Nature, while at the same time Nature is co-established
 in Godhead, and both are one in God, the Source of all.
@@ -4204,20 +3739,13 @@ who for him were the earliest Christian Gnostics, there
 ^ Adv. Hmr.y xxv. 1-5,
 
 
-Hosted by Google
-
-
-80 THRICE-GREATEST HERMES
-
 being very numerous and various sects of them, all
 deriving from a certain Mcolaus, whom Epiphanius
 would have us believe to have been one of the first
 seven deacons of the Church.
 
-If, in reality, however, the Nicola'itans = the Balaam-
-ites of early Talmudic Rabbinism,^ then the original
-Mcolaitans were the earliest Christians, for " Balaam-
-ites" was the Eabbinical by-name of the followers of
+If, in reality, however, the Nicola'itans = the Balaamites of early Talmudic Rabbinism,^ then the original
+Mcolaitans were the earliest Christians, for " Balaamites" was the Eabbinical by-name of the followers of
 Balaam (Bileam) = Jeschu, and Balaam = Nicolaos, in
 Hebrew and Greek respectively.
 
@@ -4238,8 +3766,7 @@ writes (xxv. 6) :
 
 " Others of them, again, plaster together empty names,
 saying: There was Darkness and Abyss (^vdog) and
-Water ; and Spirit in the midst of them made separa-
-tion of them." ^
+Water ; and Spirit in the midst of them made separation of them." ^
 
 Here we have precisely the same elements as in our
 text for the foundation of a cosmogonical representation.
@@ -4251,9 +3778,6 @@ certainty ; but what we can say is that the writer or
 with some probability.
 
 -' Ed. Dindorf (Leipzig, 1859), ii. 35, 36.
-
-
-Hosted by Google
 
 
 THE SACRED SERMON 81
@@ -4302,11 +3826,6 @@ I would therefore conclude that both here, and in
 VOL. II. 6
 
 
-Hosted by Google
-
-
-82 THRICE-GREATEST HERMES
-
 the repetition of the formula, "increase in increasing
 and multiply in multitude" (§ 3), from the 'Toemandres ''
 treatise (| 18), the similarities are not due to direct
@@ -4344,9 +3863,6 @@ glosses creeping into the text later on would, since
 the gloss-makers did not know the original scheme,
 blurr rather than elucidate the mother-text— and hence
 our tears.
-
-
-Hosted by Google
 
 
 THE SACRED SERMON 83
@@ -4389,20 +3905,11 @@ mighty works of this bygone wisdom-loving civilization
 were still to be seen.
 
 
-Hosted by Google
-
-
-84 THRICE-GREATEST HERMES
-
 I am, myself, strongly inclined to believe in this
 tradition ; and I have sometimes speculated as to the
 possibility of there being buried beneath one or more
-of the pyramids the remains of some prehistoric build-
-ings (perhaps also of pyramid-shape) that have survived
+of the pyramids the remains of some prehistoric buildings (perhaps also of pyramid-shape) that have survived
 the " Flood."
-
-
-Hosted by Google
 
 
 CORPUS HEEMETTCUM IV. (V.)
@@ -4425,8 +3932,7 @@ This Body of Him is a thing no man can
 touch, or see, or measure, a Body inextensible,
 like to no other frame. 'Tis neither Fire nor
 Water, Air nor Breath*; yet all of them come
-from it.'^ Now being Good He willed to conse-
-crate this [Body] to Himself alone, and set its
+from it.'^ Now being Good He willed to consecrate this [Body] to Himself alone, and set its
 Earth in order and adorn it.^
 
 ^ 6 Srjfitovpyds. ^ rhy irdpra KOfffxov.
@@ -4438,13 +3944,6 @@ Earth in order and adorn it.^
 ^ KotrfjLTjcraij — the whole is a play on the word Kocfxos {kosmos\
 which means " order," " ornament," and " world." I have tried
 
-85
-
-
-Hosted by Google
-
-
-86 THRICE-GREATEST HERMES
 
 2. So down [to Earth] He sent the Cosmos ^
 of this Frame Divine,^ — man, a life that cannot
@@ -4474,10 +3973,8 @@ sent it down, joining a Herald [to it], to whom
 He gave command to make this proclamation
 to the hearts of men :
 
-to retain it in English by using both meanings. The three pre-
-ceding sentences, from " This Body " onwards, are quoted by
-Stobgeus, Phys., I. ii. 30 ; G. i. 26 ; W. 38, 10 ff., under the head-
-ing " Of Hermes."
+to retain it in English by using both meanings. The three preceding sentences, from " This Body " onwards, are quoted by
+Stobgeus, Phys., I. ii. 30 ; G. i. 26 ; W. 38, 10 ff., under the heading " Of Hermes."
 
 1 That is, " Order."
 
@@ -4489,9 +3986,6 @@ i A critical text of most of these two paragraphs is given, R,
 214, n. 1.
 
 '^ Kparrjpaf lit. a crater or mixing-bowl.
-
-
-Hosted by Google
 
 
 THE CtJP OR MONAD 87
@@ -4532,10 +4026,6 @@ but to "plunge the whole body " into water.
 ^ Kol iv dvfitfi Koi eV op7p t^v Kpatriv ^xopres.
 ^ Lit. " they do not wonder at." * Sc. the Mind.
 
-Hosted by Google
-
-
-88 THRICE-GREATEST HERMES
 
 things on the earth, things in the heaven, and
 things above the heaven,— if there be aught.^
@@ -4572,8 +4062,6 @@ causes the other's growth to show itself.
 
 ^ Cf. C. E. xi. (xii.) 19 : '* And contemplate what is beyond~-if
 there be aiiglxt beyond the Cosmos."
-
-Hosted by Google
 
 
 THE CUP OR MONAD 89
@@ -4615,10 +4103,6 @@ same as the apfioylat Harmony, Concord, System.
 
 2 aBid$aTou, — lit. not to be crossed, not to be forded.
 
-Hosted by Google
-
-
-90 THRICE-GREATEST HERMES
 
 for Itself It is without beginning, too, though
 unto us it seemeth to have one—the Gnosis.
@@ -4660,8 +4144,6 @@ is in all things as Root and Source. Without
 
 - /uoi'tisj—the Monad, that is the Good. -^ Or, Beginning.
 
-Hosted by Google
-
 
 THE CUP OR MONAD 91
 
@@ -4669,15 +4151,13 @@ Source of all the rest. It is Itself Its Source,
 since It may have no other Source.
 
 The Oneness then being Source, containeth
-every number, but is contained by none ; engen-
-dereth every number, but is engendered by no
+every number, but is contained by none ; engendereth every number, but is engendered by no
 other one.
 
 11. Now all that is engendered is imperfect,
 it is divisible, to increase subject and to decrease ;
 but with the Perfect [One] none of these things
-doth hold. Now that which is increasable in-
-creases from the Oneness, but succumbs through
+doth hold. Now that which is increasable increases from the Oneness, but succumbs through
 its own feebleness when it no longer can contain
 the One.
 
@@ -4704,10 +4184,6 @@ Hermes."
 * This simile is also used in the Naassene Document, and in
 Plutarch, On Isis a7id Osiris^ where I have noticed it.
 
-Hosted by Google
-
-
-92 THRICE-GREATEST HERMES
 
 COMMENT AEY
 
@@ -4749,9 +4225,6 @@ Hermes."
 
 2 Which is to be equated, I believe, " meta-physically " with the
 Quintessence or ^ther.
-
-
-Hosted by Google
 
 
 THE CUP OR MONAD 93
@@ -4797,9 +4270,6 @@ nature into the Mind-filled Cup, — the Pleroma of the
 Divine Being whose Body and Mind are one, — for is
 
 
-Hosted by Google
-
-
 94 THRICE-GEEATEST HERMES
 
 not the Cup the Body of God, ** consecrated unto Himself
@@ -4807,10 +4277,8 @@ alone" (§ 1), the Universal Body of all things?
 
 The Holy Grail
 
-It would be fascinating to speculate on what con-
-nection this Cup of Initiation may have had with the
-Mystic Eucharist, and the Original of the later Grail-
-tradition, which a great master of music and song has
+It would be fascinating to speculate on what connection this Cup of Initiation may have had with the
+Mystic Eucharist, and the Original of the later Grailtradition, which a great master of music and song has
 in our days made to live again in undying melody, and
 so restored it to its more universal significance. How
 Wagner sensed the marvel of the wondrous Vision
@@ -4842,9 +4310,6 @@ Wisdom.
 This was the Proclamation or Preaching (K^pvy/uLo),
 
 
-Hosted by Google
-
-
 THE CUP OR MONAD 95
 
 or Good Tidings, of the Herald of God to men, to those
@@ -4868,8 +4333,7 @@ A misunderstanding of this discipline led many of
 the mystics of the time (and, for a matter of that, has
 led most of the mystics of all time) to the false belief
 that the body (or matter generally) was the source of
-evil. Hence we have all the mortifications and chastise-
-ments of the flesh which the monkish spirit introduced
+evil. Hence we have all the mortifications and chastisements of the flesh which the monkish spirit introduced
 into Christendom, and which persist in some quarters
 even to our own day. Against this the Common Sense
 of Christianity as a general religion, basing itself on
@@ -4889,11 +4353,6 @@ towards the bad.
 When, however, his will is halanced between the
 two, when he as easily wills good as evil, then, and
 
-
-Hosted by Google
-
-
-96 THRICE-GREATEST HERMES
 
 not till then, is he prepared to learn the further great
 lesson: that real wisdom consists in balance, in the
@@ -4942,8 +4401,6 @@ of the First Everlasting Mystery."
 '^ See, for instance, Extracts from the " Vdhan " (London, 1904),
 pp. 374-376.
 
-Hosted by Google
-
 
 THE CUP OR MONAD 97
 
@@ -4958,8 +4415,7 @@ evil iB not assigned to the body but to man's own choice.
 And finally, to clinch our contention, we would refer the
 reader to the Sermon to Asclepius, G. H., vi. (vii.) 6 :
 
-" Such are the things that men call good and beauti-
-ful, Asclepius — things which we cannot flee or hate.''
+" Such are the things that men call good and beautiful, Asclepius — things which we cannot flee or hate.''
 
 The Gnosis and its Blessings
 
@@ -4972,8 +4428,7 @@ Beginning of Perfection is Gnosis of Man, but Gnosis
 of God is Perfect Perfection."
 
 The claim for the Gnosis is therefore a modest one.
-The Gnosis is not an end in itself ; it is but the begin-
-ning of the True Knowledge of God. They who receive
+The Gnosis is not an end in itself ; it is but the beginning of the True Knowledge of God. They who receive
 the Baptism of the Mind are made " perfect men," not
 Perfect ; not until they have received this touch of the
 Christ-consciousness have they reached true manhood.
@@ -4990,11 +4445,6 @@ Threshold of the Good, the Plain of Truth— that is to
 
 VOL. 11. 7
 
-
-Hosted by Google
-
-
-98 THRICE-GREATEST HERMES
 
 say, presumably in Buddhist terms, as far as the
 Mrvanic state of consciousness. Not yet, however,
@@ -5021,15 +4471,11 @@ the Path of the Gnosis is a Going-Home, it is a Eeturn
 turn ourselves back unto the Old Old Way " (to, iraXaia
 KOI apxoica).
 
-And for the followers of the Doctrine of Thrice-
-greatest Hermes, this Old Old Path could have meant
+And for the followers of the Doctrine of Thricegreatest Hermes, this Old Old Path could have meant
 nothing but the Archaic Wisdom of Ancient Egypt.
 The Wisdom of Egypt was thus the Gnosis.
 
 1 See F, F. F., p. 261.
-
-
-Hosted by Google
 
 
 COEPUS HEEMETICUM V. (VL)
@@ -5051,8 +4497,7 @@ for thee.
 
 Now were It manifest, It would not be. For
 all that is made manifest is subject to becoming,
-for it hath been made manifest. But the Un-
-manifest for ever is, for It doth not desire to be
+for it hath been made manifest. But the Unmanifest for ever is, for It doth not desire to be
 made manifest. It ever is, and maketh manifest
 all other things.
 
@@ -5060,15 +4505,9 @@ Being Himself unmanifest, as ever being and
 ever making - manifest, Himself is not made
 
 1 Cy. § 8 end, and § 9 beginning.
-99
-
-Hosted by Google
 
 
-100 THRICE-GREATEST HERMES
-
-manifest. God is not made Himself ; by think-
-ing-manifest,^ He thinketh all things manifest.
+manifest. God is not made Himself ; by thinking-manifest,^ He thinketh all things manifest.
 
 Now '' thinking-manifest " deals with things
 made alone, for thinking-manifest is nothing else
@@ -5088,12 +4527,10 @@ from whom the One^ doth come, to show His
 mercy unto thee, in order that thou mayest have
 the power to catch a thought of this so mighty
 God, one single beam of Him to shine into thy
-thinking. For thought alone ''sees" the Un-
-manifest, in that it is itself unmanifest.
+thinking. For thought alone ''sees" the Unmanifest, in that it is itself unmanifest.
 
 If, then, thou hast the power, He will, Tat,
-manifest to thy mind's eyes. The Lord be-
-grudgeth not Himself to anything, but mani-
+manifest to thy mind's eyes. The Lord begrudgeth not Himself to anything, but mani-
 fests Himself through the whole world.
 
 Thou hast the power of taking thought, of
@@ -5104,8 +4541,6 @@ and gazing face to face upon God's Image.^ But
 2 Presumably the Manifested God ; the One-and-Only One
 being the Unmanifested, the God beyond all name.
 ^' The Intelligible Cosmos.
-
-Hosted by Google
 
 
 THOUGH UNMANIFEST GOD IS MOST MANIFEST 101
@@ -5145,10 +4580,6 @@ and the Lord of all these things. It could not
 be that number, place and measure could be
 kept without someone to make them. No order
 
-Hosted by Google
-
-
-102 THRICE-GREATEST HERMES
 
 whatsoever could be made by that which lacketh
 place and lacketh measure ; nay, even this ^ is
@@ -5189,8 +4620,6 @@ is, disorder, chaos.
 image of The Man, the Logos or Image of God, This and the
 following passage is referred to by Lactantins, D. Institt., ii. 10.
 
-Hosted by Google
-
 
 THOUGH UNMANIFEST GOD IS MOST MANIFEST 103
 
@@ -5223,10 +4652,7 @@ who hath made all things by His Will ?
 8. And no one saith a statue or a picture
 comes to be without a sculptor or [without] a
 painter ; doth [then] such workmanship as this
-exist without a Worker ? What depth of blind-
-ness, what deep impiety, what depth of ignorance !
-
-Hosted by Google
+exist without a Worker ? What depth of blindness, what deep impiety, what depth of ignorance !
 
 
 104 THEICE-GREATEST HERMES
@@ -5273,9 +4699,6 @@ Dot only corrupt, but there appears to be a lacuna in it.
 -^ The male and female energies of the Divine Parent.
 
 
-Hosted by Google
-
-
 THOUGH UNMANIFEST GOD IS MOST MANIFEST 105
 
 He and He is all.^ And for this cause hath He
@@ -5320,10 +4743,6 @@ For Thou art all, and there is nothing else
 
 3 Text from here on given in R. 68, n. 4.
 
-Hosted by Google
-
-
-106 THRICE-GREATEST HERMES
 
 which Thou art not. Thou art all that which
 doth exist, and Thou art what doth not exist, —
@@ -5363,24 +4782,19 @@ to preserve it by using the somewhat clumsy term
 " manifest." The word-play in Greek may be seen
 
 
-Hosted by Google
-
-
 THOUGH UNMANIFEST GOD IS MOST MANIFEST 107
 
 from the following list of the original terms taken in
 the order of their occurrence: a(pave<Sy (pavepwrarov,
 €/j,^av€^, (patv6/ji€i/ov, ecfxlvrj, a(pavi9, ^av^vat, (pavepa,
 a(pav}]gy ^avepoop, (pavepovTaiy (pavTaarlaj ^avraarioop,
-(pavTacria, atpaPTaariacTog Kai a^avrjg, ^avracricovj (pat-
-veraij ^avtjuai^ These all occur in § 1 and the first two
+(pavTacria, atpaPTaariacTog Kai a^avrjg, ^avracricovj (patveraij ^avtjuai^ These all occur in § 1 and the first two
 lines of § 2.
 
 I have translated (j>avTacrLa by '* thinking-manifest/'
 seeing that it is the power by which an object is made
 apparent or manifest. The doctrine is the same as that
-of the Vedanta philosophy, the Maya of the Vedanta-
-vadins. Maya is generally translated *' illusion," but
+of the Vedanta philosophy, the Maya of the Vedantavadins. Maya is generally translated *' illusion," but
 this is not a good equivalent, for it comes from the root
 ma, to make or measure. The Logos is called in the
 Vedanta, Mayin (masc), the Maker, Measurer, or
@@ -5396,8 +4810,7 @@ logos of Phdsilampes,^ quoted by the redactor of the
 Untitled Apocalyjpse of the Codex Brucianus, which runs
 as follows :
 
-"Through Him is that-which-really-is and that-
-which-really-is-not, through which the Hidden-which-
+"Through Him is that-which-really-is and thatwhich-really-is-not, through which the Hidden-which-
 really-is and the Manifest-which-really-is-not exists."
 
 Also compare Hippolytus' summary of the " Simonian"
@@ -5409,11 +4822,6 @@ concealed [parts] of the Fire are hidden in the manifest,
 and the manifest produced by the concealed. . . .
 ' Perhaps a by-name of Basilides ; see F. F. F., p, 554.
 
-
-Hosted by Google
-
-
-108 THRICE-GREATEST HERMES
 
 '' And the manifest side of the Fire has all things in
 itself which a man can perceive of things visible, or
@@ -5459,22 +4867,15 @@ p. 13.
 (Leipzig, 1893), i. 98.
 
 
-Hosted by Google
-
-
 THOUGH UNMANIFEST GOD IS MOST MANIFEST 109
 
 With the sentence : *' All are in Thee, all are from
-Thee/' compare the Naassene Hymn (quoted in Hip-
-polytus' Introduction, in " The Myth of Man ") :
+Thee/' compare the Naassene Hymn (quoted in Hippolytus' Introduction, in " The Myth of Man ") :
 
 ^'^From Thee' is Father, and ^Through Thee,'
 Mother, — the two Immortal Names, Parents of ^^ons,
 O Thou who hast the Heaven for Thy City, Man of
 Mighty Names ! "
-
-
-Hosted by Google
 
 
 COEPUS HERMETICUM VI. (VIL)
@@ -5504,12 +4905,6 @@ that desiring it He should be bad ; nor can a
 single thing of things that are be lost to Him,
 on losing which He should be pained ; for pain
 is part of bad.
-
-
-110
-
-
-Hosted by Google
 
 
 IN GOD ALONE IS GOOD 111
@@ -5554,11 +4949,6 @@ Good.
 •^ Or genesis.
 
 
-Hosted by Google
-
-
-112 THRICE GREATEST HERMES
-
 In this way is the Cosmos good ; that, in so
 far as it doth make all things, as far as making
 goes it's Good, but in all other things it is not
@@ -5592,12 +4982,9 @@ And greatest ill of all, Asclepius, is that each
 of these things that have been said above, is
 thought down here to be the greatest good.
 
-And what is still an even greater ill, is belly-
-lust, the error that doth lead the band of all
+And what is still an even greater ill, is bellylust, the error that doth lead the band of all
 
 ^ tic. fclie body.
-
-Hosted by Google
 
 
 IN GOD ALONE IS GOOD 113
@@ -5645,11 +5032,6 @@ God is Himself in love, or they with God.
 70L. II.
 
 
-Hosted by Google
-
-
-114 THRICE-GREATEST HERMES
-
 5. If thou canst God conceive, thou shalt
 conceive the Beautiful and Good, transcending
 Light, made lighter than the Light by God.
@@ -5683,9 +5065,6 @@ we've need of them and cannot live without
 them.
 
 
-Hosted by Google
-
-
 TN GOD ALONE IS GOOD 115
 
 
@@ -5711,8 +5090,7 @@ raise the thought of the pupil away from the " things
 he has grown used to''? For at the end Hermes
 declares :
 
-" Such are the things that men call good and beauti-
-ful, Asclepius — things which we cannot flee or hate ; for
+" Such are the things that men call good and beautiful, Asclepius — things which we cannot flee or hate ; for
 hardest thing of all is that we've need of them and
 cannot live without them."
 
@@ -5733,20 +5111,15 @@ as heads our present treatise — we read :
 evLOL TTori ipovcri ^Xacriprj/uLovvreg*^*
 
 
-Hosted by Google
-
-
 116 THRIOE-GEEATEST HERMES
 
 ''Bad's place is earth, and not the world, as some
 will sometimes say with impious tongue."
 
-Here we have a formal denial in an Asclepius-
-tractate of the formal proposition in our Asclepius-
+Here we have a formal denial in an Asclepiustractate of the formal proposition in our Asclepius-
 sermon.
 
-The cosmos is not evil ; it is the beautiful world-
-order. Evil is a thing connected with the earth ; there
+The cosmos is not evil ; it is the beautiful worldorder. Evil is a thing connected with the earth ; there
 is no such thing as a TrXrjpcoiua of evil ; evil has at best
 only a x'^p'-ov- They who say such things blaspheme.
 
@@ -5763,8 +5136,7 @@ must have known that the Cosmos was regarded as the
 Son of Godjjcar excellence, the fairest and best-beloved
 of all, God's Very Image.
 
-On the other hand, we know that in the Trisme-
-gistic doctrine the "cosmic man" was opposed to the
+On the other hand, we know that in the Trismegistic doctrine the "cosmic man" was opposed to the
 '' essential man," that, in fact, the term " cosmic " was
 used in the nomenclature of the time in a theological as
 well as in a philosophical sense. This was especially
@@ -5780,9 +5152,6 @@ As, moreover, we nowhere else find mention of a
 " pleroma of evil, " we may permissibly conclude that it
 is here not intended to be taken literally, but only as
 a metaphorical expression.
-
-
-Hosted by Google
 
 
 IN GOD ALONE IS GOOD 117
@@ -5806,8 +5175,7 @@ Philo, De Frcem. et Fcen., § xi. (M. ii. 418, p. 920;
 Ki. V. 232):
 
 " And thus the soul, becoming a Pleroma of virtues
-by means of the three best [blessings] — nature, instruc-
-tion (mathesis) and practice (asMsis)^ — leaving no
+by means of the three best [blessings] — nature, instruction (mathesis) and practice (asMsis)^ — leaving no
 vacant spot in her for entrance of aught else, brings
 unto birth a perfect number, — her two hexads of
 sons, a miniature and copy of the circle of the types
@@ -5831,11 +5199,6 @@ Fullness of the Godhead as in a body."
 
 3 Kc. the Zodiac. * Sc. of God.
 
-
-Hosted by Google
-
-
-118 THRICE-GREATEST HERMES
 
 tion duLeTaTTolw^^) ^^ ^^e rest of virtue was sought
 out in manner worthy of so high a work. "
@@ -5885,9 +5248,6 @@ grace on grace."
 of men."
 
 
-Hosted by Google
-
-
 IN GOB ALONE IS GOOD 119
 
 is the Way of Devotion united unto Gnosis — in
@@ -5906,9 +5266,6 @@ Sight of All.
 
 1 Compare G. H"., i. 2*7 : " And I began to preach to men the
 beauty of Devotion and of Gnosis."
-
-
-Hosted by Google
 
 
 COEPUS HEEMETIOUM VII. (VIIL)
@@ -5930,8 +5287,7 @@ yet ye at least who can !
 
 For that the ill of ignorance doth pour o'er all
 the earth and overwhelm the soul that's battened
-down within the body, preventing it from fetch-
-ing port within Salvation's harbours.
+down within the body, preventing it from fetching port within Salvation's harbours.
 
 2. Be then not carried ojEf by the fierce flood,
 but using the shore-current,"^ ye who can, make
@@ -5947,9 +5303,6 @@ you '^ unto Gnosis' gates.
 I'iO
 
 
-Hosted by Google
-
-
 THE GREATEST ILL IS IGNORANCE OF GOD 121
 
 Where shines clear Light, of every darkness
@@ -5963,8 +5316,7 @@ heart.
 
 But first thou must tear off from thee the cloak
 which thou dost wear, — the web of ignorance,
-the ground of bad, corruption's chain, the cara-
-pace of darkness, the living death, sensation's
+the ground of bad, corruption's chain, the carapace of darkness, the living death, sensation's
 corpse, the tomb thou carriest with thee, the
 robber in thy house, who through the things he
 loveth, hateth thee, and through the things he
@@ -5984,9 +5336,6 @@ them up and crammed them full of loathsome
 lust, so that thou may'st not hear about the
 things that thou should'st hear, nor see the
 things that thou should'st see.
-
-
-Hosted by Google
 
 
 122 THRICE-GREATl^ST HERMES
@@ -6033,9 +5382,6 @@ I found all men drunken, and none found I athirst
 among them ; and my soul grieveth over the souls of
 
 
-Hosted by Google
-
-
 THE GREATEST ILL IS IGNORANCE OF GOD 123
 
 men, because they are blind in their heart and see
@@ -6068,9 +5414,6 @@ the many were striving for illumination, some few had
 reached it.
 
 
-Hosted by Google
-
-
 COEPUS HEEMETICUM VIII. (IX.)
 
 THAT NO ONE OF EXISTING
@@ -6084,8 +5427,7 @@ TIONS AND AS DEATHS
 (Text : P. 56-59 ; Pat. 48a, 48b.)
 
 1. ^Hermes.] Concerning 8oul and Body, son,
-we now must speak ; in what way Soul is death-
-less, and whence comes the activity ^ in com-
+we now must speak ; in what way Soul is deathless, and whence comes the activity ^ in com-
 posing and dissolving Body.
 
 For there's no death for aught of things [that
@@ -6097,10 +5439,6 @@ syllable what is called '' death," doth stand for
 '^ The text is obscure, and the translations without exception
 make nonsense of it. Some words seem to be missing.
 
-124
-
-Hosted by Google
-
 
 NO ONE OF EXISTING THINGS DOTH PERISH 125
 
@@ -6111,8 +5449,7 @@ that any part of this immortal life should die.
 All things in Cosmos are parts of Cosmos, and
 most of all is man, the rational animal,
 
-2. For truly first of all, eternal and tran-
-scending birth, is God the universals' Maker.
+2. For truly first of all, eternal and transcending birth, is God the universals' Maker.
 Second is he ''after His image," Cosmos,
 brought into being by Him, sustained and fed by
 Him, made deathless, as by his own Sire, living
@@ -6141,18 +5478,13 @@ and that doth make materiality eternal.
 * The text here seems to me to be very faulty ; for iroi6vf void,
 I read C^*>^t Cvo" In such unintelligible phrases as avr^ rh woidy,
 
-Hosted by Google
-
-
-126 THRICE- GREATEST HERMES
 
 But He, the Father, lull-filled with His ideas,
 did sow the lives ^ into the sphere, and shut them
 in as in a cave, willing to order forth ^ the life
 with every kind of living.
 
-So He with deathlessness enclosed the uni-
-versal body, that matter might not wish to
+So He with deathlessness enclosed the universal body, that matter might not wish to
 separate itself from body^s composition, and so
 dissolve into its own [original] unorder.
 
@@ -6165,8 +5497,7 @@ which men call death.
 4. It is round earthly lives that this unorder
 doth exist. For that the bodies of the heavenly
 ones preserve one order allotted to them from
-the Father as their rule * ; and it is by the restora-
-tion^ of each one [of them] this order is pre-
+the Father as their rule * ; and it is by the restoration^ of each one [of them] this order is pre-
 served indissolute.^
 
 The ''restoration" then of bodies on the earth
@@ -6192,13 +5523,9 @@ original positions.
 ^ If we may be permitted to coin a neologism.
 
 
-Hosted by Google
-
-
 NO ONE OF EXISTING THINGS DOTH PERISH 127
 
-is [thus their] composition, whereas their dissolu-
-tion restores them to those bodies which can
+is [thus their] composition, whereas their dissolution restores them to those bodies which can
 never be dissolved, that is to say, which know
 no death. Privation, thus, of sense is brought
 about, not loss of bodies.
@@ -6230,16 +5557,10 @@ The Cosmos as "Second God"
 
 The superscription enunciates the nature of the
 treatise. It is evidently taken from the Dialogues to
-Tat, and originally formed part of some General Dis-
-sertation or of a collection of Dissertations.
+Tat, and originally formed part of some General Dissertation or of a collection of Dissertations.
 
 It formed part of an instruction in which the Cosmos
 
-
-Hosted by Google
-
-
-128 THRICE-GREATEST HERMES
 
 was treated of as '' Second God/' as we find it also in
 Philo ^ ; but just as Philo guards against any idea of
@@ -6260,8 +5581,7 @@ The Law of Apokatastasis
 
 The eternal order and life of Cosmos is preserved by
 the law of apokatastasis or restoration (§ 4), the law of
-ever-becoming, and cyclic renewal, the making-new-
-again (apavecoa-i?) of C, H,, iii. (iv.) 1.
+ever-becoming, and cyclic renewal, the making-newagain (apavecoa-i?) of C, H,, iii. (iv.) 1.
 
 There is no question of loss of body, — this is an
 illusion ; there is a privation of sense, a going into
@@ -6279,11 +5599,7 @@ and Limit and the Constitution of all things—the
 Cosmos, both Intelligible and Sensible, included.
 
 I Leg. Alley., § 21 ; M. i. 82 ; P. 1103 (Ri. i 113) ; Qumt Sol,
-i. (quoted by Euseb., Prcep. Evang., vii. 13). See in tlie " Prolego-
-mena," " Pliilo Concerning the Logos/'
-
-
-Hosted by Google
+i. (quoted by Euseb., Prcep. Evang., vii. 13). See in tlie " Prolegomena," " Pliilo Concerning the Logos/'
 
 
 COEPUS HEEMETICUM IX. (X.)
@@ -6296,8 +5612,7 @@ ONLY and Elsewhere Nowhere
 
 (Text: P. 60-67; Pat. 14, 15.)
 
-1. I GAVE the Perfect Sermon {Logos) yester-
-day, Asclepius ; to-day I think it right, as sequel
+1. I GAVE the Perfect Sermon {Logos) yesterday, Asclepius ; to-day I think it right, as sequel
 thereunto, to go through point by point the
 Sermon about Sense.
 
@@ -6321,11 +5636,6 @@ sermon or sacred discourse.
 VOL. II. 129 9
 
 
-Hosted by Google
-
-
-130 THRICE-GREATEST HERMES
-
 instruments of one another. For neither doth
 the word (logos) find utterance without thought,
 nor is thought manifested without word.
@@ -6344,13 +5654,11 @@ state.
 
 For man is separated into soul and body, and
 only when the two sides of his sense agree
-together, does utterance of its thought con-
-ceived, by mind take place.
+together, does utterance of its thought conceived, by mind take place.
 
 3. For it is mind that doth conceive all
 thoughts — good thoughts when it receives the
-seeds from God, their contraries when [it re-
-ceiveth them] from one of the daimonials ; no
+seeds from God, their contraries when [it receiveth them] from one of the daimonials ; no
 part of Cosmos being free of daimon, who
 stealthily doth creep into the daimon who's
 illumined by God's Light,^ and sow in him the
@@ -6362,14 +5670,11 @@ And mind conceives the seed thus sown,
 seem to make nonsense of this passage through rejecting the
 original reading.
 
-Hosted by Google
-
 
 ON THOUGHT AND SENSE 131
 
 adultery, murder, parricide, [and] sacrilege,
-impiety, [and] strangling, casting down preci-
-pices, and all such other deeds as are the work
+impiety, [and] strangling, casting down precipices, and all such other deeds as are the work
 of evil daimones.
 
 4. The seeds of God, 'tis true, are few, but
@@ -6406,10 +5711,6 @@ by the many as thouglT*he were beside himself."
 
 ^ Sc. in some other sermon.
 
-Hosted by Google
-
-
-132 THRICE-GREATEST HERMES
 
 (Logos) on Sense. That sense doth share with
 thought in man, doth constitute him man. But
@@ -6417,8 +5718,7 @@ thought in man, doth constitute him man. But
 by thought ; for this man is materia], that other
 one substantial.
 
-For the material man, as I have said, [con-
-sorting] with the bad, doth have his seed of
+For the material man, as I have said, [consorting] with the bad, doth have his seed of
 thought from daimons ; while the substantial
 men [consorting] with the Good, are saved by
 God.
@@ -6434,8 +5734,7 @@ maketh their becomings what they are, befouling
 some of them with bad and others of them
 making clean with good.
 
-For Cosmos, too, Asclepius, possesseth sense-
-and-thought peculiar to itself, not like to that of
+For Cosmos, too, Asclepius, possesseth senseand-thought peculiar to itself, not like to that of
 
 1 Or being made.
 
@@ -6444,13 +5743,10 @@ original in translation. First God's ultimate intention is stated
 to be the making all things like ((ijnoia) Himself ; this is the great
 sameness of union with Him. But meantime while this making,
 creating or becoming, is going on, these imperfections cannot
-produce— that is, become creators in their turn ; they are unpro-
-ductive (^0opa). That which is the instrument of God's making
+produce— that is, become creators in their turn ; they are unproductive (^0opa). That which is the instrument of God's making
 is the cosmic course ((popd). We are finally (§ 7) told that it is
 bodies which are the cause of difference or diversity (eV dia^opa),
 the opposite pole, so to speak, to the likeness {(ifioia) with God,
-
-Hosted by Google
 
 
 ON THOUGHT AND SENSE 133
@@ -6491,10 +5787,6 @@ Pleroma — that of Life.
 [all] in Cosmos. And Cosmos is God's Son ; but
 things in Cosmos are by Cosmos.
 
-Hosted by Google
-
-
-134 THRICE-GREATEST HERMES
 
 And properly hath it been called Cosmos
 [Order] ; for that it orders ^ all with their diversity
@@ -6531,8 +5823,6 @@ He doth not have these things ; but I speak
 forth the truth, He is them all Himself He
 
 ^ Or adorns.
-
-Hosted by Google
 
 
 ON THOUGHT AND SENSE 135
@@ -6577,16 +5867,13 @@ conscious of it in his physical brain.
 
 •^ Sc. the mind.
 
-Hosted by Google
-
 
 136 THRICE-GEEATEST HERMES
 
 us] above, they're credible ; but unto those who
 understand them not, incredible.
 
-Let so much, then, suffice on thought-and-
-sense.
+Let so much, then, suffice on thought-andsense.
 
 
 COMMENTARY
@@ -6598,8 +5885,7 @@ and Sense/' and " That the Beautiful and Good is in
 God only/' The former heading is clearly taken from
 the concluding words: "Let so much then suffice on
 thought-and-sense " ; whereas the introductory sentence
-speaks of the Sermon on Sense only. The latter head-
-ing seems to be a thoughtless repetition of the title
+speaks of the Sermon on Sense only. The latter heading seems to be a thoughtless repetition of the title
 of 0, H., vi. (vii.).
 
 The opening words : " I gave the Perfect Sermon
@@ -6621,9 +5907,6 @@ the last Asclepius Dialogue in our Corpus ; especially when our
 sermon (§ 4) directly combats the teaching of Q. H.^ vi.
 
 3 Div. Institt., ii. 15 (Ed. Fritz.^ i. 106) ; cf. also v. 14.
-
-
-Hosted by Google
 
 
 ON THOUGHT AND SENSE 137
@@ -6671,11 +5954,6 @@ The Seeds of God are Virtue and Self-control and
 Devotion or Piety; and Devotion in its true sense
 
 
-Hosted by Google
-
-
-138 THRICE-GREATEST HERMES
-
 is God-gnosis, or Knowledge of God. The Gnostics,
 then, " they who are in Gnosis "-—a curious expression —
 because of their natural divorcement from the " world "
@@ -6690,8 +5968,7 @@ and the "few"; and compare this with the more
 personal note of the saying underlying the following
 Synoptic accommodations :
 
-" Blessed are ye when men hate you and excommuni-
-cate you, and revile and expel your Name as evil, for
+" Blessed are ye when men hate you and excommunicate you, and revile and expel your Name as evil, for
 the Son of Man's sake " (Luke vi. 22).
 
 " Blessed are ye when men revile you and persecute
@@ -6722,9 +5999,6 @@ in the course of the fourth century ; but I cannot myself see tbe
 sUghtest ground for such an assumption.
 
 
-Hosted by Google
-
-
 ON THOUGHT AND SENSE 139
 
 the Christ, the true " Devotee of God/' " will bear with
@@ -6753,11 +6027,9 @@ The Goal of the Gnosis
 It is difficult to bring out the delicacy of the wording
 of the original in translation. First God's ultimate
 intention is stated to be the making of all things like
-unto (ojULota) Himself ; the world-process is to be ulti-
-mately consummated in the Great Sameness of Union
+unto (ojULota) Himself ; the world-process is to be ultimately consummated in the Great Sameness of Union
 with Him. But meantime while this making, creating
-or becoming, or transformation, is going on, the imper-
-fections cannot produce, that is, become creators in their
+or becoming, or transformation, is going on, the imperfections cannot produce, that is, become creators in their
 turn ; they are unproductive {a(f)opa). That which is
 the instrument or organ of God's making is the Cosmic
 Course {<popd). We are finally (§7) told that the
@@ -6766,14 +6038,8 @@ this Cosmic Course ; therefore the opposite poles, Other
 and Same, are both ultimately referable to Cosmos, the
 Likeness of God.
 
-The end to be achieved is to develop the ** sense-and-
-thought " of the Cosmos, the One Sense, not manifold,
+The end to be achieved is to develop the ** sense-andthought " of the Cosmos, the One Sense, not manifold,
 
-
-Hosted by Google
-
-
-140 THRICE-GREATEST HERMES
 
 but simple. This is the deliberate working with the
 Will of God, the Cosmic Will, the perpetual renewing
@@ -6817,17 +6083,11 @@ as well.
 Perfect and the True are to be grasped by the more holy
 minds. "
 
-1 Reitzenstein (p. 171, 2) compares this doctrine of the insensi-
-bihty and mcognizability of God with the Sabsean Gnosis.
-
-
-Hosted by Google
+1 Reitzenstein (p. 171, 2) compares this doctrine of the insensibihty and mcognizability of God with the Sabsean Gnosis.
 
 
 CORPUS HEEMETICUM X. (XL)
 
-
-THE KEY
 
 Of Thrice-Greatest Hermes
 
@@ -6853,12 +6113,6 @@ in the singular in the Greek. Of. C. H., ii. (iii.) 16 and 17 :
 " Good then is God and God is Good " ; and " The other name of
 God is Father."
 
-141
-
-Hosted by Google
-
-
-142 THRICE-GREATEST HERMES
 
 But energy consists in something else, as we
 have shown in treating of the rest, both things
@@ -6900,11 +6154,6 @@ And such a power can be possessed by no one
 '' Lit. taking.
 
 
-Hosted by Google
-
-
-THE KEY 143
-
 else than Him alone who taheth naught/ but
 wills all things to be ; I will not, Tat, say
 makes.
@@ -6912,8 +6161,7 @@ makes.
 For that the maker is defective for long periods
 (in which he sometimes makes, and sometimes
 doth not make) both in the quality and in the
-quantity [of what he makes] ; in that he some-
-times maketh them so many and such like, and
+quantity [of what he makes] ; in that he sometimes maketh them so many and such like, and
 sometimes the reverse.
 
 But **God and Father and the Good" is
@@ -6944,10 +6192,6 @@ and naught receives."
 
 ^ 4ir\r)pa}(ras, — reminding us of irX'fipwfxa. 4 Lit. light.
 
-Hosted by Google
-
-
-144 THRICE-GREATEST HERMES
 
 to hold the inflow of the radiance that the mind
 alone can see.
@@ -6986,11 +6230,6 @@ And shining then all round his mind, It shines
 ^ See Lact., D. Institt., i. 11 ; P. S. A., xi. 4, xxxvii. 3 ; and
 Ex. i. 4,
 
-
-Hosted by Google
-
-
-THE KEY 145
 
 through his whole soul, and draws it out of
 body, transforming all of him to essence.
@@ -7033,10 +6272,6 @@ Gods ; for of the Gods there are two choirs, the
 
 VOL. II. 10
 
-Hosted by Google
-
-
-146 THRICE-GREATEST HERMES
 
 one Inerrant, and the other Errant. And this
 is the most perfect glory of the soul.
@@ -7068,16 +6303,11 @@ Her, He who doth not say much or lend
 his ear to much. For he who spendeth time
 in arguing and hearing arguments, doth shadow-
 
-2 Gf, a K, xii. (xiii.) 3 : « The great iU of the soul is Godless-
-nes8 " ; also below § 20 : '' What greater chastisement of any
+2 Gf, a K, xii. (xiii.) 3 : « The great iU of the soul is Godlessnes8 " ; also below § 20 : '' What greater chastisement of any
 human soul can there be, son, than lack of piety !■ "
 
 " Lit. already.
 
-Hosted by Google
-
-
-THE KEY 147
 
 fight. For "God, the Father and the Good,"
 is not to be obtained by speech or hearing.
@@ -7120,8 +6350,6 @@ time, but ever is, yet is its being in becoming,
 ^ That is capable of suffering, or impressionable by agencies
 other than itself.
 
-Hosted by Google
-
 
 148 ^rHRIOE-GREATEST HERMES
 
@@ -7132,8 +6360,7 @@ motion's genesis.^
 11, It is intelligible^ rest that moves material
 motion in this way,^ since Cosmos is a sphere—
 that is to say, a head. And naught of head
-above's material, as naught of feet below's in-
-telligible/ but all material.
+above's material, as naught of feet below's intelligible/ but all material.
 
 And head itself moved in a sphere-like way — -
 that is to say, as head should move,^ is mind.
@@ -7168,10 +6395,6 @@ mentioned above.
 ^ §§ 12, 13 are quoted by Stobeeus, Phys., I. xxxix. 9 (G. i. 307 ;
 W. 350, 13 ff.).
 
-Hosted by Google
-
-
-THE KEY 149
 
 things, while man is second after it, though first
 of things subject to death.
@@ -7186,8 +6409,7 @@ that it suffers motion, it is not evil, in that it
 is not subject unto death. But man, in that
 he's subject both to motion and to death, is evil*
 
-13. Now then the principles^ of man are this-
-wise vehicled : mind in the reason (logos), the
+13. Now then the principles^ of man are thiswise vehicled : mind in the reason (logos), the
 reason in the soul, soul in the spirit,^ [^i^d] spirit
 in the body.
 
@@ -7218,27 +6440,19 @@ immediately follows.
 *^ TcviVfxari. ^ Gf. P. S. A., vi. 4.
 
 
-Hosted by Google
-
-
-150 THRICE-GREATEST HERMES
-
-withdraw into the soul, whereon the blood con-
-geals and veins and arteries are emptied, and
+withdraw into the soul, whereon the blood congeals and veins and arteries are emptied, and
 then the living creature is withdrawn ; and this
 is body's death.
 
 14. Now from One Source^ all things depend ;
 while Source [dependeth] from the One and Only
 [One], Source is, moreover, moved to become
-Source again ; whereas the One standeth per-
-petually and is not moved.
+Source again ; whereas the One standeth perpetually and is not moved.
 
 Three then are they : '' God, the Father and
 the Good," Cosmos and man.
 
-God doth contain Cosmos ; Cosmos [con-
-taineth] man. Cosmos is e'er God's Son, man
+God doth contain Cosmos ; Cosmos [containeth] man. Cosmos is e'er God's Son, man
 as it were Cosmos's child.
 
 15. Not that, however, God ignoreth man;
@@ -7263,10 +6477,6 @@ and not as yet come unto its full bulk/
 
 '^ Of. the instructive exposition of Basilides in F. F. F., pp. 274 f.
 
-Hosted by Google
-
-
-THE KEY 151
 
 Tat. How?
 
@@ -7297,20 +6507,14 @@ Tat.'^ What dost thou, father, mean by this ?
 The mind is parted from the soul and soul from
 
 1 This is generally translated *' the spirit is contracted into the
-blood, and the soul into the spirit," but such a translation con-
-tradicts § 13, where we are told that " the spirit withdraws into
+blood, and the soul into the spirit," but such a translation contradicts § 13, where we are told that " the spirit withdraws into
 the soul" at death. It seems to mean that the spirit passes
-tvithin, out of the blood, and the soul is then clothed in a spirit-
-vesture, or borne in a spirit- vehicle.
+tvithin, out of the blood, and the soul is then clothed in a spiritvesture, or borne in a spirit- vehicle.
 
 2 From here to the end of § 18 is quoted by Stobseus, PMjs.,
 xl. 3 (G. i. 312, 313 ; W. 310, 25 fF.) ; only the dialogue is ascribed
 in error to Asclepius and Tat and not to Hermes and Tat.
 
-Hosted by Google
-
-
-152 THRICE-GREATEST HERMES
 
 spirit? Whereas thou said'st the soul was the
 mind's vesture, and the soul's the spirit.
@@ -7349,10 +6553,6 @@ and wall, to keep the blazing of the fire away.
 But mind, the swiftest thing of all divine out-
 1 Gf. P. R A., X. 1.
 
-Hosted by Google
-
-
-THE KEY 153
 
 thinkings, and swifter than all elements, hath
 for its body fire.
@@ -7367,8 +6567,7 @@ make things divine, for it is human in its
 dispensation.^
 
 19. The soul in man, however, — not every
-soul, but one that pious is — is a daimonic some-
-thing and divine.
+soul, but one that pious is — is a daimonic something and divine.
 
 And such a soul when from the body freed, if
 it have fought the fight of piety — the fight of
@@ -7392,10 +6591,6 @@ outrage.^
 3 This paragraph is quoted by Stobaens, Phys., xli. 49 (Gr. i.
 430, 431 ; W. 417, 15 ff.). For the idea, cf. P. S. A., xxxii. 2.
 
-Hosted by Google
-
-
-154 THRICE-GREATEST HERMES
 
 20. Tat, How father, then, is a man's soul
 chastised ?
@@ -7435,10 +6630,6 @@ whereby mankind is wronged.^
 
 1 Cf. P. /S. A.^ XXV. 4 and xxviii. 1.
 
-Hosted by Google
-
-
-THE KEY 155
 
 But on the pious soul the mind doth mount
 and guide it ^ to the Gnosis' Light. And such a
@@ -7479,10 +6670,6 @@ are man's. ^^
 ^ Koipccvla. Of. P. & A.J xxiii. L
 5 Gf. P. S. A., V. 1. « Cf. Ex. viii. 1.
 
-Hosted by Google
-
-
-156 THRICE-GREATEST HERMES
 
 The energies act through the Cosmos, thence
 through the nature-rays of Cosmos upon man ;
@@ -7528,10 +6715,6 @@ Mind and not of the mind in man.
 ^ A quotation from the ancient gnomic poet Theognis (v. 177).
 Theognis lived c. 570-490 B.C.
 
-Hosted by Google
-
-
-THE KEY 157
 
 nor understands, but is just like a thing that
 hath no reason. Such is the power of mind.
@@ -7540,8 +6723,7 @@ Yet doth it not endure a sluggish ^ soul, but
 leaveth such a soul tied to the body and bound
 tight down by it. Such soul, my son, doth not
 have Mind ; and therefore such an one should
-not be called a man} For that man is a thing-
-of-life ^ divine ; man is not measured with the
+not be called a man} For that man is a thingof-life ^ divine ; man is not measured with the
 rest of lives of things upon the earth, but with
 the lives above in heaven, who are called gods.
 
@@ -7572,10 +6754,6 @@ in his usual slipshod fashion of inserting doubles ; Parthey gives
 
 4 iKorrdo-^wsy lit. extension, or consciousness.
 
-Hosted by Google
-
-
-158 THRICE-GREATEST HERMES
 
 For this cause can a man dare say that man
 on earth is god subject to death, while god in
@@ -7617,11 +6795,6 @@ enough in ttvo cases (xxxix. 8 and xl. 3) Stobseus makes
 ■' iW. ' R. 182, 3 ; 190, 2.
 
 
-Hosted by Google
-
-
-THE KEY 159
-
 the persons of the dialogue Asclepius and Tat; this,
 however, must be a mistake, for it contradicts his own
 headings, it contradicts the nature of the sermon, it
@@ -7658,20 +6831,13 @@ and also Ex. i. 16 and Comment.
 
 3 (y. § 7, below ; G. E., xiii. (xiv.) 1 ; and Exs. ix. 1 and xviii. 1.
 The title must be so translated, I think, in spite of the fact that in
-the introductory words of the above treatise the term is imme-
-diately followed by the antithesis "rebirth" (TraXiyyevcaria), as
+the introductory words of the above treatise the term is immediately followed by the antithesis "rebirth" (TraXiyyevcaria), as
 though the Sermons were on birth or genesis (76i/c(ris),— which,
 as we know from the Naassene Document, was the subject of
 the Lesser Mysteries, whereas Rebirth was that of the Greater.
-Everard gives " in the general speeches " ; Parthey, '* in com-
-munibus " ; Menard, " dans les discours generaux " ; Chambers, " in
+Everard gives " in the general speeches " ; Parthey, '* in communibus " ; Menard, " dans les discours generaux " ; Chambers, " in
 the Generalities."
 
-
-Hosted by Google
-
-
-160 THRICE-GREATEST HERMES
 
 being an epitome, is a further teaching that presupposes
 a prior instruction already given in **The General
@@ -7707,17 +6873,11 @@ Doctor, Basilides, who writes :
 
 ''N"aught was, — neither matter, nor substance, nor
 voidness of substance, nor simplicity, nor impossibility
-of composition, nor inconceptibility, nor impercepti-
-bility, neither man, nor angel [Hermetice, daimon], nor
+of composition, nor inconceptibility, nor imperceptibility, neither man, nor angel [Hermetice, daimon], nor
 God ; in fine, neither anything at all for which man has
 ever found a name, nor any operation which falls within
 the range either of his perception or conception.
 
-
-Hosted by Google
-
-
-THE KEY 161
 
 " Such, or rather far more removed from the power
 of man's comprehension, was the state of Non-Being,
@@ -7726,8 +6886,7 @@ feeling, or determining, or choosing, or being compelled,
 or desiring, willed to create universality."
 
 " When I use the term will," writes Basilides, " I do
-so merely to suggest the idea of an operation tran-
-scending all volition, thought, or sensible action." ^
+so merely to suggest the idea of an operation transcending all volition, thought, or sensible action." ^
 
 2. God's Energy, or Self-realization, is, then. His
 Will (deXfjcTL^); His Essence (ova-la) or Substance is
@@ -7743,8 +6902,7 @@ or Demiurge — a distinction that meets us in almost
 every Gnostic system. In our treatise, however, there
 is no setting of the one idea over against the other in
 any sense of antagonism. It is only stated that the
-self-operation of Deity transcends all such limited con-
-ceptions as that of a Maker or Fabricator.
+self-operation of Deity transcends all such limited conceptions as that of a Maker or Fabricator.
 
 Of Gnosis and Ecstasis
 
@@ -7763,13 +6921,7 @@ of under the simile of the shining of a Eay of the Light
 VOL, II. 11
 
 
-Hosted by Google
-
-
-162 THRICE-GREATEST HERMES
-
-and Life of the Spiritual Sun into the mind. This con-
-summation of Ecstasis/ we are told, was a transcending
+and Life of the Spiritual Sun into the mind. This consummation of Ecstasis/ we are told, was a transcending
 of the limitations of body, and was a faculty possessed
 by the forebears (irpoyovoi) of the " race " into which
 Hermes and now Tat are being born ; these ancestors
@@ -7791,8 +6943,7 @@ very few in whom the perfect science has been found,
 he mentioned in their number Uranus, Cronus, and
 Hermes his kinsfolk."-^
 
-Lactantius seems to be somewhat under the fascina-
-tion of the theory of Euhemerus, and has no credence in
+Lactantius seems to be somewhat under the fascination of the theory of Euhemerus, and has no credence in
 the Heaven-born, in spite of the Christ Birth. We,
 however, learn from him that he knew of a statement
 by Hermes in this connection in which, besides Uranus
@@ -7801,8 +6952,7 @@ in our treatise this is not the case, and Tat and not
 Hermes is the speaker ; whereas in P. S. A., xxxvii.,
 where Hermes speaks of his progenitor Hermes, no
 
-1 Of. § 25, where ecstasis is explained as an extension of con-
-sciousness,~a certain " greatness " (fxeyedos),
+1 Of. § 25, where ecstasis is explained as an extension of consciousness,~a certain " greatness " (fxeyedos),
 
 2 See the ^' Chart of Orphic Cosmogony," facing p. 87 of my
 Orpheus (London, 1896), where Uranus and Cronus are referred
@@ -7812,19 +6962,13 @@ Sensible Universe.
 '^ JJiv, InstiU., i 11 (eel. Fritz., i. 29, 30).
 
 
-Hosted by Google
-
-
-THE KEY 163
-
 mention is made of Uranus and Cronus. Therefore
 Laetantius refers to a lost treatise of Hermes.
 
 Of Apotheosis
 
 6. The nature of Ecstasy is then further explained ; it
-is the fruit of meditation or contemplation, the con-
-summation of the Theoretic Life.
+is the fruit of meditation or contemplation, the consummation of the Theoretic Life.
 
 " The Gnosis of the Good is holy silence and a giving
 holiday (KaTapyla) to every sense."
@@ -7863,11 +7007,6 @@ The Metamorphoses of the Soul
 based upon the fact that the soul can be transformed
 
 
-Hosted by Google
-
-
-164 THRICE-GREATEST HERMES
-
 into every likeness. The Great Likeness of God is the
 Cosmic Order, the making oneself into this Likeness is
 the supreme transformation or transfiguration of the
@@ -7878,14 +7017,12 @@ pilgrimage, revolving on the wheel of transformation.
 This doctrine was shared in by many other faiths, and
 it was also Egyptian.
 
-In this connection we may refer instructively to Hippo-
-lytus' quotations from the Naassene Document (§ 3 S.):
+In this connection we may refer instructively to Hippolytus' quotations from the Naassene Document (§ 3 S.):
 
 "And they^ say that the soul is very difficult to
 discover, and hard to understand ; for it never remains
 of the same appearance, or form, or in the same state,
-so that we can describe it by a general type, or com-
-prehend it by an essential quality."
+so that we can describe it by a general type, or comprehend it by an essential quality."
 
 On this Hippolytus comments :
 
@@ -7909,23 +7046,16 @@ who is referring to the Chaldeans.
 Greeks stated tlie Egyptians believed in metempsychosis ; in
 this I believe that Reitzenstein is himself in error. The Egyptians
 at any rate demonstrably believed in soul metamorphosis ; and
-when we find people who lived in Egypt teaching this metamor-
-phosis in connection with metempsychosis, it is but natural to
+when we find people who lived in Egypt teaching this metamorphosis in connection with metempsychosis, it is but natural to
 conclude that the Greeks, who were in. touch with the living
 tradition of Egypt, knew more about the matter than modern
 scepticism.
 
 
-Hosted by Google
-
-
-THE KEY 165
-
 The Ladder of Being
 
 The Hermetic doctrine of the evohition of the soul,
-by means of multitudinous transformations, is character-
-ised by certain main moments, for in the course of it it
+by means of multitudinous transformations, is characterised by certain main moments, for in the course of it it
 passes through definite stages of existence designated as
 animal, human, daimonic, and god-like ; there being,
 further, two grades of being within the choir of gods—
@@ -7969,11 +7099,6 @@ therefrom, "tares" if an imperfect growth results.
 2 Sc, the soul as grain. ^ 1 Cor. xv 35-42.
 
 
-Hosted by Google
-
-
-166 THRICE-GREATEST HERMES
-
 And by "resurrection of the dead," I believe that
 Paul meant what all the instructed of the time meant —
 namely, the *' reaching the first step of deathlessness/' as
@@ -8012,15 +7137,9 @@ the " body of a man " (§ 8) ; they are of two classes.
 The doctrine of § 8 applies to one class, the doctrine
 of § 19 to another.
 
-Metempsychosis, in the sense of continued revolu-
-tion on the wheel of life and death, is only for
+Metempsychosis, in the sense of continued revolution on the wheel of life and death, is only for
 him who "persisteth in his vice" — that is to say, is
 
-
-Hosted by Google
-
-
-THE KEY 167
 
 still ignorant. Gnosis thus means the freedom from
 samsara^ to use a common Rrahmanical and Buddhistic
@@ -8031,8 +7150,7 @@ The ignorant soul does not see the Light, being
 this is the "turmoil" of which Plato speaks in the
 Timceus.
 
-And here I must refer the reader to "Plato Con-
-cerning Metempsychosis," in the "Prolegomena," a
+And here I must refer the reader to "Plato Concerning Metempsychosis," in the "Prolegomena," a
 chapter which I have written mainly in elucidation of
 the problems raised by our treatise.
 
@@ -8044,8 +7162,7 @@ vice or ignorance ; but the virtue of the soul is Gnosis.
 "For he who knows, he good and pious is, and
 still while on the earth, divine.''
 
-This is precisely the same idea as that of the Jivan-
-mukta in Indian theosophy — namely, the man who has
+This is precisely the same idea as that of the Jivanmukta in Indian theosophy — namely, the man who has
 reached Mukti or Liberation while still living in the
 body.
 
@@ -8065,11 +7182,6 @@ The Vehicles of the Soul
 Soul being here used in the sense of the Self, and as
 distinguished from the " soul " in the category. They are
 
-
-Hosted by Google
-
-
-168 THRICE-GREATEST HERMES
 
 as follows, one within the other, in the sense of being
 respectively more intimate to the true nature of man :
@@ -8100,8 +7212,7 @@ These so-called " vehicles," " envelopes," or '' sheaths "
 (koshas)^ are elsewhere given in the Upanishads as :
 anna-may a-kosha — that is, the kosha composed of, or
 resulting from, food (body) ; prdna-maya~k. , of life
-(spirit) ; mano-maya-k., of impulse (soul) ; vijndna-
-maya-k.j of discrimination (reason); dnanda~maya-k,,
+(spirit) ; mano-maya-k., of impulse (soul) ; vijndnamaya-k.j of discrimination (reason); dnanda~maya-k,,
 of bliss (Mind).
 
 " Spirit " is thus seen to correspond to life {prdna) ;
@@ -8115,15 +7226,9 @@ motion, and, as it were, doth bear it " {i.e. support it)
 
 •' P'urusha^ the True Man.
 
-* The manas and huddhi of the Upanishads are not to be con-
-founded with these terms as at present employed in modern
+* The manas and huddhi of the Upanishads are not to be confounded with these terms as at present employed in modern
 Theosophical literature.
 
-
-Hosted by Google
-
-
-THE KEY 169
 
 life, and in the Aupanishad literature is differentiated
 into five modes, which may be almost translated as
@@ -8170,11 +7275,6 @@ the so-called *' vehicles " or " souls," for he writes (§ 17) :
 Light."
 
 
-Hosted by Google
-
-
-170 THRICE-GREATEST HERMES
-
 envelope. And soul itself being, too, a thing divine,^
 doth use the spirit as its envelope, while spirit doth
 pervade the living creature." ^
@@ -8218,11 +7318,6 @@ that they were not at variance with the doctrines and mysteries
 of the Brahmans, Jews, Magi and Egyptians.
 
 
-Hosted by Google
-
-
-THE KEY 171
-
 The Olympian Path
 
 15. In § 15 the Gnosis is again declared to be the
@@ -8233,16 +7328,14 @@ The term Eleusis was also interpreted as Anabasis,
 or the Way Up.^ Compare the Jewish commentator
 in the ]N"aa8sene Document (§ 27) :
 
-"First is the Mystery called 'Eleusis' and 'Anak-
-toreion' — Eleusis because we come from Above, ^
+"First is the Mystery called 'Eleusis' and 'Anaktoreion' — Eleusis because we come from Above, ^
 streaming down from Adamas,^ . . . and Anaktoreion
 from ' Eeturning Above. ' "
 
 *'When Mind becomes a Daimon''
 
 16. The next main doctrine touched on is one of
-immense importance, for it gives us the inner teach-
-ing which illuminates the " dark saying " in the
+immense importance, for it gives us the inner teaching which illuminates the " dark saying " in the
 "Poemandres" (§ 24), when treating of the Way Up
 (avoSog) :
 
@@ -8271,11 +7364,6 @@ of God."
 * Eleusis meaning Coming, Advent.
 ^ The Man or Mind.
 
-
-Hosted by Google
-
-
-172 THRICE-GREATEST HERMES
 
 At death, the mind, of its own nature, perforce
 becomes a " servant of God," a Therapeut ^ ; the man is
@@ -8323,11 +7411,6 @@ amply deserved the gratitude of humanity, and the title
 '^ See my Orpheus, pp. 292 IT.
 
 
-Hosted by Google
-
-
-THE KEY 173
-
 of Thrice-greatest. Yet is "Hermes" no single man,
 but a mind illuminated by the Mind.
 
@@ -8371,18 +7454,11 @@ He only is blessed who is filled with God — that is to
 incarnation, as described in G. H., xii. (xiii.) 4.
 
 
-Hosted by Google
-
-
-174 THRICE-GREATEST HERMES
-
-say, the true Gnostic who has received the consecra-
-tion of the Fullness or Pleroma.^
+say, the true Gnostic who has received the consecration of the Fullness or Pleroma.^
 
 Whereas the soul that is empty of God is deprived
 of that Fullness, cut off from it, and so empty of the
-Mind. This is the state of Emptiness (/ceVco/ia) or In-
-sufficiency {varrepyjjULa).
+Mind. This is the state of Emptiness (/ceVco/ia) or Insufficiency {varrepyjjULa).
 
 24. Such souls, says Hermes, should not be called
 men. For a true man is not only equal to a god, but
@@ -8391,9 +7467,6 @@ Christian nomenclature, call a Christ — one animated
 or illuminated by the Mind or Spirit of God.
 
 1 Gf. John i. 16 : " Of His Fullness have we all received.'^
-
-
-Hosted by Google
 
 
 COEPITS HEEMETICUM XL (XII.)
@@ -8430,15 +7503,8 @@ xxxi.
 
 3 Genesis.
 
-175
 
-Hosted by Google
-
-
-176 THRICE-GREATEST HERMES
-
-The Good, — the Beautiful, Wisdom, Blessed-
-ness,— -is essence, as it were,^ of God ; of Mon,
+The Good, — the Beautiful, Wisdom, Blessedness,— -is essence, as it were,^ of God ; of Mon,
 Sameness ^ ; of Cosmos, Order ; of Time, Change ;
 and of Becoming, Life and Death.
 
@@ -8468,8 +7534,7 @@ Mon round on every side.
 
 Her. But God's Wisdom — what is that ?
 
-Mind. The Good and Beautiful, and Blessed-
-ness, and Virtue's all, and iEon.
+Mind. The Good and Beautiful, and Blessedness, and Virtue's all, and iEon.
 
 1 That is to say, the term " ess-ence " cannot really be applied
 to God, for He is beyond " 6e-ing."
@@ -8477,8 +7542,6 @@ to God, for He is beyond " 6e-ing."
 2 Or identity. ^ Or duration.
 
 ^ ai^raTTOKardffTacns. ^ Or iff accomplished.
-
-Hosted by Google
 
 
 MIND UNTO HEBMES 177
@@ -8492,8 +7555,7 @@ as Mon doth on God.
 Now Genesis^ and Time, in Heaven and on
 the Earth, are of two natures.
 
-In Heaven they are unchangeable and inde-
-structible, but on the Earth they're subject unto
+In Heaven they are unchangeable and indestructible, but on the Earth they're subject unto
 change and to destruction.
 
 Further, the ^on's soul is God ; the Cosmos'
@@ -8512,8 +7574,7 @@ encircles it, making the All to live.
 
 Without, this vast and perfect Life '^ [encircles]
 Cosmos ; within, it fills [it with] all lives ^ ;
-above, in Heaven, continuing in sameness ; be-
-low, on Earth, changing becoming.
+above, in Heaven, continuing in sameness ; below, on Earth, changing becoming.
 
 5. And ^on doth preserve this [Cosmos],
 or by Necessity, or by Foreknowledge, or by
@@ -8576,14 +7637,6 @@ VOL
 . 11.
 
 
-12
-
-
-Hosted by Google
-
-
-178 THRICE-GREATEST HERMES
-
 Nature, or by whatever else a man supposes
 or shall suppose. And all is this, — God
 energizing.
@@ -8609,8 +7662,7 @@ God's not inactive,^ since all things [then]
 would lack activity ; for all are full of God.
 
 But neither in the Cosmos anywhere, nor in
-aught else, is there inaction. For that ''in-
-action" is a name that cannot be applied to
+aught else, is there inaction. For that ''inaction" is a name that cannot be applied to
 either what doth make or what is made.^
 
 6. But all things must be made ; both ever
@@ -8624,8 +7676,6 @@ idle), apyia (inactivity, idleness), which it is impossible to bring
 out fully in English.
 
 •' Or Avhat becomes.
-
-Hosted by Google
 
 
 MIND UNTO HERMES 179
@@ -8674,9 +7724,6 @@ xiii. (xiv.) 11.
 aeonian or everlasting order.
 
 
-Hosted by Google
-
-
 180 THRIOE-GREATEST HERMES
 
 that doth give birth to light down shining by
@@ -8715,8 +7762,6 @@ into one without some one to bring them [all]
 
 1 The text from "Now gaze . . ." to liere is given in R. 36,
 11. 1. ^ Or becoming.
-
-Hosted by Google
 
 
 MIND UNTO HERMES 181
@@ -8759,15 +7804,10 @@ not, are matter by itself.
 
 3 Sc. of matter and life.
 
-Hosted by Google
-
-
-182 THRICE-GREATEST HERMES
 
 And, in like fashion, Soul when in its self is,
 after its own maker, cause of life ; but the cause
-of all life is He who makes the things that can-
-not die.
+of all life is He who makes the things that cannot die.
 
 Her. How, then, is it that, first, lives subject
 unto death are other than the deathless ones ?
@@ -8802,9 +7842,6 @@ For thou dost see, and speak, and hear, and
 ^ Or Divinity.
 
 '^ Or make ; a play on the double meaning of the Gi-eek verb.
-
-
-Hosted by Google
 
 
 MIND UNTO HERMES 183
@@ -8848,13 +7885,7 @@ supplied by apyhv (inactive), and not by the usual conjecture
 * Sc. work, doing, making, or creating.
 
 
-Hosted by Google
-
-
-184 THRICE-GREATEST HERMES
-
-14. And if thou wouldst in practice ^ under-
-stand [this work], behold what taketh place with
+14. And if thou wouldst in practice ^ understand [this work], behold what taketh place with
 thee desiring to beget. Yet this is not like unto
 that, for He doth not enjoy.
 
@@ -8893,19 +7924,14 @@ withdraws to the unmanifest. But in this
 ego and animal poul.
 
 
-Hosted by Google
-
-
 MIND UNTO HERMES 185
 
 sermon (logos), Hermes, my beloved, as thou
 dost hear, I say the Cosmos also suffers change,
 — for that a part of it each day is made to
-be in the unmanifest, — yet it is ne'er dis-
-solved.
+be in the unmanifest, — yet it is ne'er dissolved.
 
-These are the passions of the Cosmos — revolv-
-ings and concealments ; revolving is conversion
+These are the passions of the Cosmos — revolvings and concealments ; revolving is conversion
 and concealment renovation.
 
 16. The Cosmos is all-formed, — not having
@@ -8913,8 +7939,7 @@ forms external to itself, but changing them
 itself within itself. Since, then, Cosmos is made
 to be all-formed, what may its maker be ? For
 that, on the one hand. He should not be void of
-all form ; and, on the other hand, if He's all-
-formed. He wall be like the Cosmos. Whereas,
+all form ; and, on the other hand, if He's allformed. He wall be like the Cosmos. Whereas,
 again, has He a single form, He will thereby be
 less than Cosmos.
 
@@ -8934,10 +7959,6 @@ there's a bodiless idea.
 1 The root of form ; used also loosely in Greek to denote form .
 - Or form?. ^ Or idea of the sermon.
 
-Hosted by Google
-
-
-186 THRICE-GREATEST HERMES
 
 and mountain- tops in pictures.^ For they
 appear to stand out strongly from the rest, but
@@ -8980,15 +8001,12 @@ margins.
 
 •' Or points of the sermon.
 
-Hosted by Google
-
 
 MIND UNTO HERMES 187
 
 thy soul go unto any land ; and there more
 quickly than thy bidding will it be. And bid it
-journey oceanwards ; and there, again, imme-
-diately 'twill be, not as if passing on from place
+journey oceanwards ; and there, again, immediately 'twill be, not as if passing on from place
 to place, but as if being there.
 
 And bid it also mount to heaven ; and it will
@@ -9024,13 +8042,10 @@ stature as the Greatness which transcends all
 ^ Of, G. JET., iv. (v.) 5 : "And things above the heaven— if there
 be aught." 4 Qr think.
 
-Hosted by Google
-
 
 188 THRIOE-GREATEST HERMES
 
-measure ; leap forth from every body ; tran-
-scend all Time ; become Eternity ^ ; and [thus]
+measure ; leap forth from every body ; transcend all Time ; become Eternity ^ ; and [thus]
 shalt thou know God.
 
 Conceiving nothing is impossible unto thyself,
@@ -9056,8 +8071,7 @@ scale the sky ; I know not who I was, who I shall
 be ; — what is there [then] between [thy] God
 and thee ?
 
-For thou canst know naught of things beauti-
-ful and good so long as thou dost love thy body
+For thou canst know naught of things beautiful and good so long as thou dost love thy body
 and art bad.
 
 ^ Lit. -^on, '^ iravrhs ((aov ^dos, — or nature of every animal.
@@ -9067,8 +8081,6 @@ and art bad.
 
 "" A critical text from "Make, tlien, thy self' to here is given
 by R., p. 238.
-
-Hosted by Google
 
 
 iMIND ITNTO HERMES 189
@@ -9114,18 +8126,13 @@ verbal variants by Cyril, Contra Julianum, ii. 52.
 
 ^ Or is seen. ^ Or doing.
 
-Hosted by Google
-
-
-190 THRICE-GREATEST HERMES
 
 COMMENTAEY
 
 Title and Form
 
 The title in the MSS. is simply '' Mind to Hermes."
-When, therefore, Cyril, in quoting the first three para-
-graphs of § 22 of our treatise, says that Hermes wrote
+When, therefore, Cyril, in quoting the first three paragraphs of § 22 of our treatise, says that Hermes wrote
 these words *' to his own mind/' ^ he is evidently
 either a very careless reader,^ or had not seen at first
 hand the treatise from which he quotes.
@@ -9140,8 +8147,7 @@ was evidently chosen because it was desired to impart
 a more intimate instruction than that of the '' General
 Sermons " and the like,— to wit, the inculcation of the
 ^Eon-doctrine, in connection with the marvellous
-doctrine of At-one-ment with all things which con-
-stitutes the Path of the Good. The doctrine is no
+doctrine of At-one-ment with all things which constitutes the Path of the Good. The doctrine is no
 longer ''Become (or make thyself like) Cosmos," but
 '' Become ^on"(§ 20).
 
@@ -9154,14 +8160,10 @@ iv. (v.)-— is the " exoteric " form.
 That the instruction in these Trismegistic schools of
 initiation was divided into grades is manifest on all
 sides ; and, therefore, nothing is more natural than to
-find these two sermons standing in such intimate re-
-lations to one another as to doctrine, the one containing
+find these two sermons standing in such intimate relations to one another as to doctrine, the one containing
 
 ^ 0. Jul., ii. 52 ; ed. Migne, col. 580 B.
 - Gf, R. 128, i. ; 196, 3.
-
-
-Hosted by Google
 
 
 MIND UNTO HERMES 191
@@ -9181,8 +8183,7 @@ disciples of the School, as Zosimus tells us.
 Mystically, then, the main interest of our treatise
 centres in the doctrine of the At-one-ment (as the
 inner consummation of the Baptism in the Cup or
-Monad), to which the -<3Eon-idea is but a formal intro-
-duction ; historically, however, the introduction of the
+Monad), to which the -<3Eon-idea is but a formal introduction ; historically, however, the introduction of the
 iEon-idea presents itself as a critical problem, for the
 term is not found in the " Poemandres," and, therefore,
 presumably was not used in the earliest documents of
@@ -9209,9 +8210,6 @@ practically never found without the iEon-lore.
 The earliest forms of Christian Gnosis referred to
 
 
-Hosted by Google
-
-
 192 THRIOE-GREATEST HERMES
 
 by the later Patristic hseresiologists are bound up with
@@ -9228,12 +8226,10 @@ of it was developed, the question of the date when
 the ^on-doctrine was introduced into it must be
 referred to pre-Christian times.
 
-Andj indeed, the very simple character of the ^Eon-
-lore in our treatise,^ as compared with the mind-
+Andj indeed, the very simple character of the ^Eonlore in our treatise,^ as compared with the mind-
 bewildering complexity and transcendency of first and
 second century Christian Gnosticism, is all in favour
-of an early date for its introduction into " Her-
-meticism," which is only another name for " Gnosticism "
+of an early date for its introduction into " Hermeticism," which is only another name for " Gnosticism "
 of a preponderatingly Hellenic form.
 
 If this line of reasoning holds good, we have in it
@@ -9259,9 +8255,6 @@ Gnostics," in The Nineteenth Gentunj and After (Nov. 1902), pp.
 
 ^ Perhaps the clearest exposition is to be found in P. S. A.j
 XXX. and xxxi.
-
-
-Hosted by Google
 
 
 MIND UNTO HERMES 193
@@ -9295,8 +8288,7 @@ special points, however, may be attempted.
 
 The Egot of Form
 
-Thus in § 16, the sentence: *'The Cosmos is all-
-formed ('7rai/ToVo/o0o9), — not having forms external to
+Thus in § 16, the sentence: *'The Cosmos is allformed ('7rai/ToVo/o0o9), — not having forms external to
 itself, but changing them itself within itself," — reminds
 us of P. S, A., xix. 3: "The 'Thirty-six' who have
 the name of Horoscopes are in the self-same space as
@@ -9308,9 +8300,6 @@ Born Son and Father — is Life ; they are united in ^Eon.
 2 Quod Deus Im,, § 6 ; M. i. 27V ; P. 298 (Ri. ii. 72, 73).
 
 VOL. II. 13
-
-
-Hosted by Google
 
 
 194 THRICE-GREATE8T HERMES
@@ -9347,8 +8336,7 @@ The daring instruction given to Hermes in §§ 19
 and 20 is distinctly a discipline of the Egyptian Wisdom ;
 for though it is here set forth plainly and without
 circumlocution, as a straightforward intimate instruction,
-stripped of all mysterious hints or hesitating subter-
-fuges,^ it is clearly in the same circle of ideas of which
+stripped of all mysterious hints or hesitating subterfuges,^ it is clearly in the same circle of ideas of which
 popular Egyptian theurgy had some inkling. But
 whereas the philosopher-mystic was bidden to do this
 for himself of his own volition and achievement, the
@@ -9356,9 +8344,6 @@ theurgist had to beg some god to do it for him.
 
 1 Or, as the writer of the Pistis Sophia would say, eV TrappTjo-to:,
 ^' face to face without a parable,"
-
-
-Hosted by Google
 
 
 MIND UNTO HERMES 195
@@ -9373,8 +8358,7 @@ or vulture, wall, or water, or what thou will'st, for
 thou art able so to do."
 
 So also in F. S. A., vii., we have the same idea, for
-certainly the phrasing of the sentences suggests some-
-thing beyond the ordinary powers of the mind or
+certainly the phrasing of the sentences suggests something beyond the ordinary powers of the mind or
 imagination.
 
 ''He mingles with the elements by reason of the
@@ -9395,8 +8379,7 @@ is he the same."
 
 It is indeed a marvellous "yoga" system that is
 sketched for us in our treatise. There is no question
-here of abstraction or negation, but a courageous identi-
-fication or At-one-ment of oneself with all that lives and
+here of abstraction or negation, but a courageous identification or At-one-ment of oneself with all that lives and
 breathes. This is the Path of the Gnosis, the Way to
 Know God.
 
@@ -9408,18 +8391,12 @@ bidden to " soar up to the Last Body of them all " (§ 19),
 that Last Body being the One Element of Cosmos itself.
 
 
-Hosted by Google
-
-
-196 THRICE-GREATEST HERMES
-
 ''And shouldst thou will to break through this as
 well, and contemplate what is beyond~if there be
 aught beyond the Cosmos; it is permitted thee/'
 
 That the hard and fast distinctions which modern
-commentators would draw between words, in con-
-sidering these mystical treatises, would have been
+commentators would draw between words, in considering these mystical treatises, would have been
 laughed at by the writers of them, is amply manifested
 when the writer with enthusiastic fervour bursts forth :
 
@@ -9454,8 +8431,6 @@ Knower of God, a Gnostic.
 
 ^ Sc. as Cosmos. - 8c. as Father of this Only Son,
 
-Hosted by Google
-
 
 MIND UNTO HERMES 197
 
@@ -9480,15 +8455,13 @@ sentence :
 " And, thus, think from thyself, and bid thy soul go
 unto India."
 
-If this should be the original reading, it is remark-
-able fchat India should have been selected of all places.
+If this should be the original reading, it is remarkable fchat India should have been selected of all places.
 We know, however, from a study of what is known of
 the life of Apollonius of Tyana, that this "Gnostic"
 philosopher made an enormous propaganda of Indian
 ideas among the philosophic and mystic communities
 and schools of the first century. Apollonius must
-have known something, perhaps a great deal, concern-
-ing the siddhis acquired by yo^o^-practices. At any
+have known something, perhaps a great deal, concerning the siddhis acquired by yo^o^-practices. At any
 rate, we find his biographer Philostratus making him
 write the following letter to his Eastern hosts on his
 return from India :
@@ -9498,9 +8471,6 @@ sea ; nay, rather, by sharing with me your wisdom ye
 have given me power to travel through heaven. These
 things will I bring back to the mind of the Greeks, and
 I will hold converse with you as though ye were
-
-
-Hosted by Google
 
 
 198 THRTCE-GREATEST HERMES
@@ -9538,9 +8508,6 @@ Philosopher Reformer of the First Century A.D, (London, 1901),
 p. 88.
 
 
-Hosted by Google
-
-
 COEPUS HEKMETICUM XII. (XIII.)
 
 
@@ -9563,20 +8530,14 @@ This Mind in men is God, and for this cause
 some of mankind are gods, and their humanity is
 nigh unto divinity.
 
-For the Good Daimon said : '* Gods are im-
-mortal men, and men are mortal gods."
+For the Good Daimon said : '* Gods are immortal men, and men are mortal gods."
 
 2. But in irrational lives Mind is their nature.
 For where is Soul, there too is Mind ; just as
 where Life, there is there also Soul.
 
 * That is, if we can use sucli a term with respect to God.
-199
 
-Hosted by Google
-
-
-200 THRICE-GREATEST HERMES
 
 But in irrational lives their soul is life devoid
 of mind ^ ; for Mind is the in- worker of the souls
@@ -9598,8 +8559,7 @@ entering in, is plunged.^
 3. O'er whatsoever souls the Mind doth, then,
 preside, to these it showeth its own light, by
 acting counter to their prepossessions, just as
-a good physician doth upon the body pre-
-possessed by sickness, pain inflict, burning or
+a good physician doth upon the body prepossessed by sickness, pain inflict, burning or
 lancing it for sake of health.
 
 In just the selfsame way the Mind inflicteth
@@ -9611,14 +8571,10 @@ The great ill of the soul is godlessness^ ; then
 ^ That is, of the mind manifested in man as distinguished from
 the general Mind.
 
-■^ aOedr-ns. Gf. 0. H., X. (xi.) 8, 9 : " And the soul's vice is ignor-
-ance " ; and § 20 : " What greater chastisement of any human soul,
+■^ aOedr-ns. Gf. 0. H., X. (xi.) 8, 9 : " And the soul's vice is ignorance " ; and § 20 : " What greater chastisement of any human soul,
 can there be, son, than lack of piety?" The only way of
 salvation from the bonds of Fate is thus " piety " or ^* godliness.''
 See R, 102, 1, for references.
-
-
-Hosted by Google
 
 
 ABOUT THE COMMON MIND 201
@@ -9642,8 +8598,7 @@ such human souls,] just like irrational animals,
 cease not irrationally to rage and lust, nor ever
 are they satiate of ills.
 
-For passions and irrational desires are ills ex-
-ceeding great; and over these God hath set up the
+For passions and irrational desires are ills exceeding great; and over these God hath set up the
 Mind to play the part of judge and executioner.
 
 5. Tat In that case, father mine, the teaching
@@ -9661,10 +8616,6 @@ or ill — can come to pass.
 
 ^ S6^a, ^ Heimarmeiie.
 
-Hosted by Google
-
-
-202 THRICE-GREATEST HERMES
 
 But it is fated too, that he who doeth ill, shall
 suffer. And for this cause he doth it— that he
@@ -9681,18 +8632,15 @@ irrational lives it is not of a beneficial nature,
 while that in men it quencheth out the wrathful
 and the lustful elements.
 
-Of men, again, we must class some as led by-
-reason, and others as unreasoning.
+Of men, again, we must class some as led byreason, and others as unreasoning.
 
 7. But all men are subject to Fate, and
-genesis and change, for these ^ are the begin-
-ning and the end of Fate.
+genesis and change, for these ^ are the beginning and the end of Fate.
 
 And though all men do suffer fated things,
 those led by reason (those whom we said the
 Mind doth guide) do not endure like suffering
-with the rest ; but, since they Ve freed them-
-selves from viciousness, not being bad, they do
+with the rest ; but, since they Ve freed themselves from viciousness, not being bad, they do
 not suffer bad.
 
 TaL How meanest thou again, my father?
@@ -9702,8 +8650,6 @@ and [so with] all the rest ?
 Her, [I meant not that ;] but that the
 
 1 8c. genesis and change.
-
-Hosted by Google
 
 
 ABOUT THE COMMON MIND 203
@@ -9741,13 +8687,8 @@ word (logos) unto the question thou didst ask
 before, — I mean about Mind^s Fate.
 
 For if thou dost with accuracy, son, eliminate
-[all] captious arguments (logoi), thou wilt dis-
-cover that of very truth the Mind, the Soul
+[all] captious arguments (logoi), thou wilt discover that of very truth the Mind, the Soul
 
-Hosted by Google
-
-
-204 THRICE-GREATEST HERMES
 
 of God, doth rule o'er all— o'er Fate, and Law,
 and all things else ; and nothing is impossible to
@@ -9780,15 +8721,12 @@ answer [nobly].
 subject unto passion, and in the proper sense
 they are [themselves] all passions.
 
-For every thing that moves [another] is in-
-corporal ; while every thing that's moved is
+For every thing that moves [another] is incorporal ; while every thing that's moved is
 body.
 
 J (y. Lact., D. J., ii. 15.
 
 2 The critical text of this paragraph iw given R. 78.
-
-Hosted by Google
 
 
 ABOUT THE COMMON MIND 205
@@ -9813,8 +8751,7 @@ Incorporals ^ moreover act upon themselves, for
 either they are motionless ^ or they are moved ;
 but whichsoever it be, it's passion.
 
-But bodies are invariably acted on, and there-
-fore are they passible.
+But bodies are invariably acted on, and therefore are they passible.
 
 Do not, then, let terms trouble thee ; action
 and passion are both the selfsame thing. To
@@ -9835,10 +8772,6 @@ may be more literally rendered by "energize," "energic" and
 " energy." The " motionless " has " energy " because it is the cause
 of motion to that which it moves.
 
-Hosted by Google
-
-
-206 THRICE-GREATEST HERMES
 
 (logos) equal to immortality. He hath the mind
 for knowing God and uttered speech (logos) for
@@ -9867,8 +8800,7 @@ the same in Egypt, and in Persia, and in Greece.
 
 Thou seemest, son, to be in ignorance of
 Reason's (Logos)^ worth and greatness. For
-that the Blessed God, Good Daimon, hath de-
-clared :
+that the Blessed God, Good Daimon, hath declared :
 
 '' Soul is in Body, Mind in Soul ; but Reason
 (Logos) is in Mind, and Mind in God ; and God
@@ -9880,8 +8812,6 @@ is Father of [all] these."
 
 3 It is impossible to bring out the word-play of the original in
 English ; and so the double meaning is lost.
-
-Hosted by Google
 
 
 ABOUT THE COMMON MIND 207
@@ -9911,8 +8841,7 @@ keep the incorruption of their Sameness.
 
 15. Whereas in all the rest of composed
 bodies, of each there is a certain number ; for
-without number structure cannot be, or com-
-position, or decomposition.
+without number structure cannot be, or composition, or decomposition.
 
 Now it is units that give birth to number and
 increase it, and, being decomposed, are taken
@@ -9926,10 +8855,6 @@ scribe.
 ^ Eeading aydyKri for &vdyKr) ; see § 21 below.
 * Sc. the elements.
 
-Hosted by Google
-
-
-208 THRICE-GREATEST HERMES
 
 Matter is one ; and this whole Cosmos — the
 mighty God and image of the mightier One,
@@ -9971,8 +8896,6 @@ in use for what takes place.
 '^ Reading irarphs for iravrSs. * Pleroma.
 
 ^ A critical text of the last five paragraphs is given R. 25, n. 1.
-
-Hosted by Google
 
 
 ABOUT THE COMMON MIND 209
@@ -10018,10 +8941,6 @@ should be all same.
 ^ Sc. element.
 VOL. II. 14
 
-Hosted by Google
-
-
-210 THRICE-GREATEST HERMES
 
 For being simultaneous, the Cosmos, as a
 whole, is not subject to change, my son, but all
@@ -10033,15 +8952,12 @@ For 'tis not genesis that constituteth life, but 'tis
 sensation ; it is not change that constituteth
 death, but 'tis forgetfulness.
 
-Since, then, these things are so, they are im-
-mortal all,— Matter, [and] Life, [and] Spirit,
+Since, then, these things are so, they are immortal all,— Matter, [and] Life, [and] Spirit,
 Mind [and] Soul, of which whatever liveth, is
 composed.
 
-19. Whatever then doth live, oweth its im-
-mortality unto the Mind, and most of all doth
-man, he who is both recipient of God, and co-
-essential with Him.
+19. Whatever then doth live, oweth its immortality unto the Mind, and most of all doth
+man, he who is both recipient of God, and coessential with Him.
 
 For with this life alone doth God consort ; by
 visions in the night, by tokens in the day, and
@@ -10058,8 +8974,6 @@ Cosmos, — aquatic creatures water, terrene earth,
 and aery creatures air ; while man doth use all
 these, — earth, water, air, [and] fire ; he seeth
 heaven, too, and doth contact it with [his] sense.
-
-Hosted by Google
 
 
 ABOUT THE COMMON MIND 211
@@ -10093,18 +9007,13 @@ Necessity, and Providence, and Nature, Soul,
 and Mind, and the Duration^ of all these that
 is called Good ?
 
-And there is naught of things that have be-
-come, or are becoming, in which God is not.
+And there is naught of things that have become, or are becoming, in which God is not.
 
 22. TaL Is He in Matter, father, then ?
 Her. Matter, my son, is separate from God,
 
 1 (y. § 14 above. ' Sc, Mon,
 
-Hosted by Google
-
-
-212 THRICE-GREATEST HERMES
 
 in order that thou may'st attribute unto it
 the quality of space. But what thing else than
@@ -10140,9 +9049,6 @@ Latin, with the strange remark that Hermes so spake in treating
 Ex. xi.
 
 
-Hosted by Google
-
-
 ABOUT THE COMMON MIND 213
 
 COMMENTAKY
@@ -10163,10 +9069,8 @@ Good Daimon.
 
 Now the first of these quotations (§ 1) — " Gods are
 immortal men, and men are mortal Gods" — is one of
-the most cited Sayings of Heracleitus.^ Hermes, how-
-ever, does not mean to say that Heracleitus was
-Agothodaimon, but that Heracleitus was the mouth-
-piece of the Good Mind when he uttered this *' word "
+the most cited Sayings of Heracleitus.^ Hermes, however, does not mean to say that Heracleitus was
+Agothodaimon, but that Heracleitus was the mouthpiece of the Good Mind when he uttered this *' word "
 {logos),
 
 Nor was this the opinion of Hermes only ; it was
@@ -10192,16 +9096,10 @@ references to ancient authors who quote it.
 3 Philos., ix. 9.
 
 
-Hosted by Google
-
-
-214 THRICE-GREATEST HERMES
-
 Hermes' quotations of a Saying of the Good Daimon
 qualified by the words (§ 8) ; " And had He set it down
 in written words " or " in writing/' when that quotation
-"begins with the words : " All are One " ^ — the root-
-formula of Heracleitus.
+"begins with the words : " All are One " ^ — the rootformula of Heracleitus.
 
 Such Sayings of Heracleitus must have been the
 common property of all the philosophers of the time and
@@ -10223,11 +9121,9 @@ In our treatise, however, the Saying is used in
 authoritative illustration of the meaning of the Eeason
 {Logos), whereas in the " Mind to Hermes," — that is, in
 the Sermon of the Good Daimon Himself to Hermes —
-Eeason is omitted. Mind and Eeason being there tran-
-scended by ^on and Mind.
+Eeason is omitted. Mind and Eeason being there transcended by ^on and Mind.
 
-Moreover, the whole style of what follows this quota-
-tion in our treatise is exactly the same as the style of
+Moreover, the whole style of what follows this quotation in our treatise is exactly the same as the style of
 instruction in C. H., xi. (xii,) — short categorical
 formulae; and, further, the previous quotation (§ 8)
 contains the key-word ^on, which characterizes the
@@ -10238,9 +9134,6 @@ I therefore conclude that our Hermes is using a more
 1 Gf, a. II., X. (xi.) 25, and xvi. ("Definitions of Asclepius'^ 3 ;
 for references to the Magical and Alchemical literature, see R.
 39, 1 ; 106, 5 ; 127, 3.
-
-
-Hosted by Google
 
 
 ABOUT THE COMMON MIND 215
@@ -10276,8 +9169,7 @@ of Basilides, we read :
 
 *' For just as the babe, who, although it hath done no
 wrong previously, or actively committed any sin, yet
-hath the capacity of sin in it, — whenever it is sub-
-jected to suffering, is advantaged and reaps many
+hath the capacity of sin in it, — whenever it is subjected to suffering, is advantaged and reaps many
 benefits, which otherwise are difficult to gain ; in just
 the selfsame way is it, that although a perfect man
 may not have sinned in act, and yet doth suffer pains,
@@ -10288,18 +9180,12 @@ refusing to embrace the opportunity to sin, he doth not
 1 8trom,, IV. xii., § 82 (P. 600 ; S. 217) ; Dindorf., ii. 363.
 
 
-Hosted by Google
-
-
-216 THRICE-GREATEST HERMES
-
 sin. So that even for such a man as this we ought not
 to suppose the incapacity for sin.
 
 " For just as it is the will to commit fornication that
 constitutes the fornicator, even though he does not
-find the opportunity of actually committing fornica-
-tion, and the will to commit murder that constitutes
+find the opportunity of actually committing fornication, and the will to commit murder that constitutes
 the murderer, although he may not be actually able to
 effect his purpose ; so also in the case of the ' sinless '
 man I mean, if I see him suffering, even if he has
@@ -10335,9 +9221,6 @@ is such a soul to see, not yet befouled with body's
 passions, still all but hanging from the Cosmic Soul,"
 
 1 See F. F. F., 274, 275.
-
-
-Hosted by Google
 
 
 ABOUT THE COMMON MIND 217
@@ -10395,11 +9278,6 @@ In this connection it is to be noticed that Lactantius
 p. 304 ; F. F. F., p. 307.
 
 
-Hosted by Google
-
-
-218 THRICE-GREATEST HERMES
-
 treatise, says that he takes them from a Sermon by
 Hermes ^* On Justice."
 
@@ -10428,8 +9306,7 @@ Materiality and Corporality are Energies of God
 
 22. Finally, in § 22 it has to be noticed that with the
 express teaching that Matter and Body are so far from
-being evil that they are Energies of God — His materi-
-ality and corporality — the charge of dualism against
+being evil that they are Energies of God — His materiality and corporality — the charge of dualism against
 our philosophers must for ever be abandoned. Their
 doctrine was that of pan-monism ; and, therefore,
 wherever we find signs of dualism, or even distinct
@@ -10438,9 +9315,6 @@ understand that this was a formal convenience for the
 better insistence upon the need of strenuous exertion
 to solve the mystery of the opposites, rather than an
 essential doctrine of the Gnosis.
-
-
-Hosted by Google
 
 
 COEPUS HEKMETICUM XIII. (XIV.)
@@ -10459,14 +9333,12 @@ HIS Son
 (Text: R. 339-348; P. 114-128; Pat. 15b-17b.)
 
 1. Tat, [Now] in the General Sermons/ father,
-thou didst speak in riddles most unclear, con-
-versing on Divinity ; and when thou saidst no
+thou didst speak in riddles most unclear, conversing on Divinity ; and when thou saidst no
 man could e'er be saved before Rebirth,^ thy
 meaning thou didst hide.
 
 Further, when I became thy Suppliant, in
-Wending up the Mount,^ after thou hadst con-
-versed with me, and when I longed to learn the
+Wending up the Mount,^ after thou hadst conversed with me, and when I longed to learn the
 Sermon {Logos) on Rebirth (for this beyond all
 
 ^ ev Tots y€piKo7s. Gf, G. H., X. (xi.) 1 and 7.
@@ -10475,13 +9347,6 @@ Sermon {Logos) on Rebirth (for this beyond all
 s Reading exl ttjs tov opovs fxcra^da-ews with P., and not Kara-
 ^da-eoos with R. Gf. G. H., X. (xi.) 15 ; Jamb., D. M., viii. 6.
 
-219
-
-
-Hosted by Google
-
-
-220 THRICE-GREATEST HERMES
 
 other things is just the thing I know not), thou
 saidst, that thou wouldst give it me— '^ when
@@ -10525,16 +9390,10 @@ instruction is the technical term for the *' handing on'^ of a
 doctrine or being initiated into it.
 
 •'' B.'s reading would make this refer to Herme.s : " I know not
-from what womb thou com'st to birth," But the whole instruc-
-tion seems to favour the usually accepted reading.
+from what womb thou com'st to birth," But the whole instruction seems to favour the usually accepted reading.
 
 ^ tTo<j>U vo€pd. " Of. G. IL, X. (xi.) 5.
 
-
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 221
 
 me, which doth transcend the senses.^ The one
 that is begot will be another one from God,
@@ -10565,22 +9424,16 @@ mercy,* I have passed through myself into a
 Body that can never die. And now I am not
 what I was before ; but I am born in Mind.
 
-The way to do this is not taught, and it can-
-not be seen by the compounded^ element by
+The way to do this is not taught, and it cannot be seen by the compounded^ element by
 means of which thou seest.
 
 ^ rr\s 6V ifxol oixrias rijs yorjrrjs. ^ Cf, Ex. i. 3,
 
-3 &TrKa(rTov, that is to say, not made up, non-fictitious, not com-
-pounded ; that is, simple — the opposite of compounded.
+3 &TrKa(rTov, that is to say, not made up, non-fictitious, not compounded ; that is, simple — the opposite of compounded.
 
 * Cf. below, § 7 : the man " who hath been taken pity on by
 God " ; and also § 10. ^ iT\a(Tr6v,
 
-Hosted by Google
-
-
-222 THRICE-GREATEST HERMES
 
 Yea, I liave had my former composed form
 dismembered for me. 1 am no longer touched,
@@ -10623,10 +9476,6 @@ an untrue thing.*
 
 '' if/6?;Sj;. ^ COS rpeudos.
 
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 223
 
 Her, That which is never troubled, son,
 which cannot be defined ; that which no colour
@@ -10666,8 +9515,6 @@ Tat I have tormentors then in me, father ?
 ^ Retaining the reading deo/mvov Se rod Bvya/jL^yov.
 * r^v iy de^ yeveffiv — cf. § 10.
 
-Hosted by Google
-
 
 224 THRIOE-GREATEST HERMES
 
@@ -10677,8 +9524,7 @@ and manifold.
 Tat I do not know them, father.
 
 Her, Torment the first is this Not-knowing,^
-son; the second one is Grief; the third, In-
-temperance ; the fourth, Concupiscence ; the
+son; the second one is Grief; the third, Intemperance ; the fourth, Concupiscence ; the
 fifth, Unrighteousness ; the sixth is Avarice ;
 the seventh, Error ^; the eighth is Envy; the
 ninth, Guile ^; the tenth is Anger; eleventh,
@@ -10698,8 +9544,7 @@ silence keep ! Thus shall the mercy that flows
 on us from God not cease.
 
 Henceforth rejoice, son, for by the Powers
-of God thou art being purified for the articula-
-tion of the Reason (Logos),
+of God thou art being purified for the articulation of the Reason (Logos),
 
 ^ &ypoia. '^ airciTTj. '^ BSkos.
 
@@ -10710,10 +9555,6 @@ also § 10.
 
 "* A lacuna in the text.
 
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 225
 
 Gnosis of God jhath come to us, and when
 this comes, my son, Not-knowing is cast out.
@@ -10752,18 +9593,12 @@ contentione^^ ; Menard, "mm combat'^; Chambers, *' without
 contention." I would, therefore, render it : " See how she hath
 chased out Unrighteousness without a home " ; for it seems to
 me that in x^p^^ Krio-ews we have the exact antithesis of 'ddpaa-fxa.
-Righteousness has here her firm seat or abode, and Unrighteous-
-ness is thus naturally without a home.
+Righteousness has here her firm seat or abode, and Unrighteousness is thus naturally without a home.
 
 '' KOLvooviav.
 
 VOL. II. 15
 
-
-Hosted by Google
-
-
-226 THRICE-GREATEST HERMES
 
 son, upon Truth's coming. For Envy hath gone
 from us ; and unto Truth is joined the Good as
@@ -10775,8 +9610,7 @@ have fled with whirring wings.
 
 10. Thou knowest [now], my son, the manner
 of Rebirth. And when the Ten is come, my son,
-that driveth out the Twelve, the Birth in under-
-standing^ is complete, and by this Birth we are
+that driveth out the Twelve, the Birth in understanding^ is complete, and by this Birth we are
 made into Gods.
 
 Who then doth by His mercy gain this Birth
@@ -10804,15 +9638,10 @@ What is the way of it. Thrice-greatest one ?
 
 ■' TTj Bia dipdfxiwp poTjTiKTj iuipy^ia.
 
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 227
 
 12. Her, This dwelling-place'^ through which
 we have just passed, my son, is constituted from
-the circle of the types-of-life, this being com-
-posed of elements, twelve in number, but of one
+the circle of the types-of-life, this being composed of elements, twelve in number, but of one
 nature, an omniform ^ idea. For man's delusion
 there are disunions ^ in them, son, while in their
 action they are one. Not only can we never
@@ -10850,10 +9679,6 @@ Sermon (Logos) on Rebirth, on which I did not
 
 ^ Some words are evidently missing.
 
-Hosted by Google
-
-
-228 THRICE-GREATEST HERMES
 
 comment ^ ; — in order that we may not be
 calumniators ^ of the All unto the multitude, to
@@ -10877,8 +9702,7 @@ be ; the first must die, the last death cannot touch.
 Dost thou not know thou hast been born a
 God, Son of the One, even as I myself?
 
-15. Tat, I would, father, hear the Praise-
-giving with hymn which thou didst say thou
+15. Tat, I would, father, hear the Praisegiving with hymn which thou didst say thou
 heardest then when thou wert at the Eight [the
 Ogdoad] of Powers.
 
@@ -10899,10 +9723,6 @@ reference to keeping silence.
 to free oneself from the trammels of the body. Compare the
 Pythian Oracle concerning Plotinns : "But now since thou hast
 
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 229
 
 The Shepherd, Mind of all masterhood/ hath
 not passed on to me more than hath been writ
@@ -10947,10 +9767,6 @@ Plotini Vita, xxii. ; cf. Ex. vii. 3 ; Ex. iii. 1.
 * Also used of the south-west quarter. The " south wind " is
 thought to have extended from SSE. to W.
 
-Hosted by Google
-
-
-230 thrice -greatest hermes
 
 The Secri:t Hymnody
 
@@ -10991,10 +9807,6 @@ I joy in Joy of Mind.
 
 ^ rh POffrhv 4^ws.
 
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 231
 
 Sing with me praises all ye Powers !
 
@@ -11041,10 +9853,6 @@ heavenly food.
 
 ** irviV(xaT0<p6pe Z'nfuovpy^.
 
-Hosted by Google
-
-
-232 THRICE-GREATEST HERMES
 
 20. [For] Thou art God; Thy Man^ thus
 cries to Thee through Fire, through Air, through
@@ -11075,8 +9883,7 @@ Tat. Ay. What I behold in mind, that do I
 say.
 
 To thee, thou Parent of my Bringing into
-Birth, as unto God I, Tat, send reasonable offer-
-ings.^ God and Father, thou art the Lord,
+Birth, as unto God I, Tat, send reasonable offerings.^ God and Father, thou art the Lord,
 thou art the Mind. Receive from me oblations
 
 1 Gf. G, H., I 32. 2 ^ovA-^. ^ e4\rif^a.
@@ -11086,8 +9893,6 @@ twentieth year of the reign of Hezekiah, Isaiah had seen the
 words of this prophecy." — Charles' Trans. (London, 1900), p. 5.
 
 '' Gf. above, § 18.
-
-Hosted by Google
 
 
 THE SECRET SEEMON ON THE MOUNTAIN 233
@@ -11116,8 +9921,7 @@ And now we both of us have given heed
 sufficiently, both I the speaker and the hearer
 thou.
 
-In Mind ^ hast thou become a Knower of thy-
-self and of our [common] Sire.
+In Mind ^ hast thou become a Knower of thyself and of our [common] Sire.
 
 1 Gf. P. 8. A., xxxii. 4.
 
@@ -11127,11 +9931,6 @@ i. 16.
 "^ vocp&s.
 
 
-Hosted by Google
-
-
-234 THRICE-GREATEST HERMES
-
 COMMENTAKY
 
 Concerning the Title
@@ -11139,8 +9938,7 @@ Concerning the Title
 '' The Secret Sermon on the Mountain " is the main
 title given in all the MSS., with the exception of A ;
 the subsidiary contents-title is evidently derived from
-the same edition to which we owe the other contents-
-titles preserved in our Corpus. Keitzenstein (p. 193),
+the same edition to which we owe the other contentstitles preserved in our Corpus. Keitzenstein (p. 193),
 however, thinks that the main title has arisen by
 mistake. What the mistake is he does not tell us;
 perhaps he means that in our Sermon there is no
@@ -11159,8 +9957,7 @@ The Term Apocryphon
 
 Again, with regard to the title, the term " Secret ''
 (aTTOKpvcpos — apocryphal) is used in its original sense
-of hidden away, meaning esoteric or not put into circu-
-lation, as applied to a logos or sermon, or a collection
+of hidden away, meaning esoteric or not put into circulation, as applied to a logos or sermon, or a collection
 of logoi or sayings.
 
 A logos in this sense had very much the same meaning
@@ -11172,11 +9969,6 @@ asi), etc.
 
 In classical antiquity these logoi or logia were
 
-
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 235
 
 regarded as words of wisdom, and were the most sacred
 legacies of the sages to humanity. These oracular
@@ -11198,8 +9990,7 @@ meaning of " testaments " as containing the expression
 of the Divine will or dispensation. The same term is
 used by Strabo (x. 482) of the Laws of Lycurgus ; it
 was also applied by the Orphics and Pythagoreans to
-such sacred laws ^ ; while Ecclesiastical writers subse-
-quently used it in reference to the Canonical Books. ^
+such sacred laws ^ ; while Ecclesiastical writers subsequently used it in reference to the Canonical Books. ^
 
 The Orphics and Pythagoreans also called these
 collections " sacred utterances " (lepol Xoyoi) ; and even
@@ -11207,11 +9998,9 @@ Clement of Alexandria refers to such a saying of
 Orpheus as *' that truly sacred utterance " (top ovrm
 lepov \6yov).
 
-That such collections were kept secret is not sur-
-prising ; indeed, such must have been the case from
+That such collections were kept secret is not surprising ; indeed, such must have been the case from
 time immemorial. But even on the ground of purely
-Greek and Roman history, we are not without infor-
-mation of collections of oracles carefully guarded as the
+Greek and Roman history, we are not without information of collections of oracles carefully guarded as the
 secret scriptures or bibles of nations.
 
 Cicero^ speaks of such a bible of the Veii. The
@@ -11220,11 +10009,6 @@ Athenians, in the time of the Kings, possessed a similar
 1 Grotius, ap. Jablonski, ii. 397 ; Lobeck, Aglaoph., p. 714.
 ^ Eiiseb., Ghron., 99 a. 3 jpg j)i^^^ i 44.
 
-
-Hosted by Google
-
-
-236 THRICE-GREATEST HERMES
 
 bible of logia'^; and Dinarchus^ tells us that the
 safety of the State depended on this secret scripture
@@ -11255,27 +10039,19 @@ The Three Stages of Probation
 three Stages of Probation, before he is deemed fit to
 hear the Sermon on Kebirth.
 
-(i) First there is the General or Preliminary In-
-struction contained in a collection of discourses called
+(i) First there is the General or Preliminary Instruction contained in a collection of discourses called
 the General Sermons (TeviKol Aoyot).
 
 (ii) Next is the Stage where Tat becomes the
-Suppliant of Hermes, a stage characterized by Con-
-versation or Dialogue (SLaXexOrjvaL) ; that is to say,
+Suppliant of Hermes, a stage characterized by Conversation or Dialogue (SLaXexOrjvaL) ; that is to say,
 Tat was allowed to ask questions. This is further
 
 1 Herod., v. 90.
 
 2 Or, c. Demos., 91, 20.
 
-^ Or., iv. 60 : '* (rr7(pos apxa^as (ro((>ias, ov Koiurjs ovSe iv fteV* kvKlv-
-doviJ.evr]S aXXk (XTraviov koI aTroOerov,
+^ Or., iv. 60 : '* (rr7(pos apxa^as (ro((>ias, ov Koiurjs ovSe iv fteV* kvKlvdoviJ.evr]S aXXk (XTraviov koI aTroOerov,
 
-
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 237
 
 symbolically described by a phrase, cttI rrjg rov opovg
 /xeraiSaVece?, which is difficult to translate, but which
@@ -11287,16 +10063,14 @@ normal intellect could carry him ; the Top of the
 Mountain representing the highest point of unaided
 mental faculty.
 
-This stage was, I believe, represented by the collec-
-tion of Sermons to Tat, or Dialogues with Tat, known
+This stage was, I believe, represented by the collection of Sermons to Tat, or Dialogues with Tat, known
 as the Aie^oSiKol Aoyoi — a term somewhat difficult to
 translate precisely.
 
 The fundamental meaning of Sie^oSog is a "way
 through and out," a "pathway" or "passage," or
 " means of escape." It thus comes to mean the course
-of a narrative, or a detailed narrative, exposition, dis-
-cussion. Hence also a " passage " of Scripture. As set
+of a narrative, or a detailed narrative, exposition, discussion. Hence also a " passage " of Scripture. As set
 over against yeviKog (General), therefore, Sie^oSiKog
 would mean Detailed or Expository; but at the same
 time it would to the Greek ear suggest the meaning
@@ -11312,16 +10086,10 @@ driven out by Truth.
 Stage ii. may have been technically known as that
 of the Suppliant, though, of course, of this we cannot
 be sure. In any case the term must be considered in
-close connection with Philo's treatise On the Contem-
-plative Life, which, as Conybeare tells us, most probably
+close connection with Philo's treatise On the Contemplative Life, which, as Conybeare tells us, most probably
 formed Book IV. of Philo's voluminous work, or rather
 apology, De Legatione, The alternative title of this
 
-
-Hosted by Google
-
-
-238 THRICE-GREATEST HERMES
 
 work was The Suppliants, By '' Suppliant '' Philo tells
 us he means *' one who has fled to God and taken refuge
@@ -11360,14 +10128,8 @@ Stage iii., again, is of interest because of the terms in
 1 Be Sac. Ah. et 0., i. 186, 33.
 ^ See tlie praise-giving of Tat, § 21.
 
-^ "The Mountain of Liglit," the traditional scene of the Trans-
-figuration.
+^ "The Mountain of Liglit," the traditional scene of the Transfiguration.
 
-
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 239
 
 which it is described ; they may be compared with the
 same teaching in the Behnesa logos :
@@ -11388,8 +10150,7 @@ The time has come for Tat to receive, through his
 master, the touch of the true Mind-consciousness, the
 Christ is to be born in his heart, the light of the Pleroma
 is to shine into his inmost being. It is to be a Kew
-Birth, a Eegeneration (ira\iyy€V€cn<s), or Ee-birth {ava-
-yevvw^?)> i^ ^^^ sense of being born from Above {avwOev).
+Birth, a Eegeneration (ira\iyy€V€cn<s), or Ee-birth {avayevvw^?)> i^ ^^^ sense of being born from Above {avwOev).
 
 Compare John iii. 3: "Amen, Amen, I say unto
 thee; Except a man be born from Above, he cannot
@@ -11402,8 +10163,7 @@ Nakdimon, reveals the work of the Haggadist.
 
 So also in 1 Pet. i. 22, 23 : *' Having made your
 souls holy by hearkening to the Truth ^ . . . being
-Ee-born {avayeyevvr^iixevoL) not from the seed of destruc-
-tion, but from the Seed that cannot be destroyed, through
+Ee-born {avayeyevvr^iixevoL) not from the seed of destruction, but from the Seed that cannot be destroyed, through
 the Word ^ {Logos) of God, who lives and endures." ^
 
 1 Precisely as did Tat.
@@ -11413,11 +10173,6 @@ the Word ^ {Logos) of God, who lives and endures." ^
 ^ That is, of God as JEon and God as Life, which is the union
 of God as Mind and Logos.
 
-
-Hosted by Google
-
-
-240 THRICE-GREATEST HERMES
 
 These passages from the New Testament Scriptures
 are not, of course, cited to show any dependence of our
@@ -11458,9 +10213,6 @@ And to this the Christian Commentator adds : —
 mystery may be seen from what Reitzenstein (pp. 227 S.) has to
 say concerning mystic arwova-ia or congress ; of it, as perhaps of
 nothing so mucli in the world, may it be said corruptio optimi pessiona.
-
-
-Hosted by Google
 
 
 THE SECRET vSERMON ON THE MOUNTAIN 241
@@ -11510,9 +10262,6 @@ where the " We " alternates with the " I."
 VOL. 11. 16
 
 
-Hosted by Google
-
-
 242 THRICE -GREATEST HERMEB
 
 True Sun or Logos], nor ever leave this rank which
@@ -11546,8 +10295,7 @@ several treatises, was the way of transmission of the
 Power of the powers, the true Laying-on of Hands.
 
 Hermes describes the change that takes place in
-himself when he passes into the higher spiritual con-
-sciousness. He seems to ''pass through himself — to
+himself when he passes into the higher spiritual consciousness. He seems to ''pass through himself — to
 '' involve " himself, as it is said somewhere in the
 Mahabharata of the Kishis — " into a Body that can
 never die." that is, into a, or rather the, Essential or
@@ -11560,13 +10308,9 @@ I D, V. a, M. 473, 10 ; P. 891.
 ■'' Of. R. 52. But compare especially § 6, and G, if., iv. (v.) 1.
 
 
-Hosted by Google
-
-
 THE SECRET SERMOK ON THE MOUNTAIN 243
 
-way to do this is not taught, for it cannot be under-
-stood from any sensible experience, the outer physical
+way to do this is not taught, for it cannot be understood from any sensible experience, the outer physical
 form of the adept remaining as it was before. It is
 an inner change. The Birth of a Christ is the striking
 of a new keynote ; everything remains apparently as it
@@ -11578,8 +10322,7 @@ can penetrate the Veil of this Mystery.
 " Thou seest me with eyes, my son ; but what I am
 thou dost not understand."
 
-With this compare the marvellous Kitual of Initia-
-tion in The Ads of John :
+With this compare the marvellous Kitual of Initiation in The Ads of John :
 
 " Who I am thou shalt know when I depart.^ What
 I am seen to be, that am I not ; but what I am, thou
@@ -11609,11 +10352,6 @@ man himself. The Author or Genesiurge of Ee-birth, as
 ^ Texts and Studies j V. i. 14.
 
 
-Hosted by Google
-
-
-244 THRICE-GREATEST HERMES
-
 contrasted with the Maker or Demiurge of Birth, is
 the One Man, the Logos, the Energic Eeason and Will
 of God ; the one is the Creator of the Immortal Body,
@@ -11632,8 +10370,7 @@ and here stands for the form by which a man is
 recognised.
 
 6. Hermes then proceeds to describe the nature of
-this Greatness or ^on, or Sameness, manifested in differ-
-ence. It is, alchemically speaking, the One Element,
+this Greatness or ^on, or Sameness, manifested in difference. It is, alchemically speaking, the One Element,
 which can only be comprehended by one Born in God —
 that is, by a God.
 
@@ -11645,8 +10382,7 @@ Sense, the ^onic Consciousness ; or as a purging out of
 ^ The term "Greatness," however, is probably of Egyptian
 derivation. In the Papyrus Lisinger, written somewhere during
 the last half of the first century b,c. and first half of the first
-century A.D., according to Spiegelberg, God^s Wisdom and Provi-
-dence are praised (coll. xxxv,, xxxvi.). The superscription of
+century A.D., according to Spiegelberg, God^s Wisdom and Providence are praised (coll. xxxv,, xxxvi.). The superscription of
 this section runs : " The Four-and-Twentieth Teaching : The
 Instruction : Learn the Greatness of God, that thou mayest let
 it come into thine heart " (xxxv. 17) ; and later on : " He knoweth
@@ -11656,11 +10392,6 @@ it is questioned — its words God knoweth " (xxxvi. 3-5). This is
 further explained by the sentence : " Thoth is heart and tongue
 of the Pious ; lo ! his house is God ! " (xxxv. 19). R. 237,
 
-
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 245
 
 the tendencies of the lower nature, and replacing them
 by the energies of the Divine Powers.
@@ -11705,11 +10436,6 @@ natures, — the so-called zodiac.
 These divisions are not, however, fundamental, they
 are solely for man's delusion or error ; in action they
 
-
-Hosted by Google
-
-
-246 THRICE- GREATEST HERMES
 
 are one — that is, they keep man in Error or Ignorance.
 Thus they can be regarded as one, or two, or three, or
@@ -11835,12 +10561,6 @@ Truth.
 Envy.
 
 
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 247
-
-
 9. Guile.
 
 
@@ -11942,42 +10662,30 @@ nature ; again, not only are they twelve, but manifold
 
 Thus, for instance, Eashness and Wrath or Anger
 are but one, and so of the rest ; the permutations are
-infinite. This may be seen from the septenary classifi-
-cation in '' The Shepherd " treatise, where we have :
+infinite. This may be seen from the septenary classification in '' The Shepherd " treatise, where we have :
 Guile of the Desires (3), a combination of Guile (9)
 and Desire or Concupiscence (4) ; Device of Evils (2), a
 combination of Guile (9) and Malice (12) ; Unholy
-Daring and Rashness (5), a combination of Unrighteous-
-ness (5) and Eashness (11) ; Getting Wealth by evil
+Daring and Rashness (5), a combination of Unrighteousness (5) and Eashness (11) ; Getting Wealth by evil
 means (6), a combination of Guile (9) and Avarice (6).
 So also just as Anger (10) and Eashness (11) are one,
 so are Envy (8) and Avarice (6) but aspects of the same
 
 
-Hosted by Google
-
-
-248 THRICE-GREATEST HERMES
-
-thing ; and so again Intemperance (3) and Concu-
-piscence or J3esire (4), Grief (2) and Ignorance (1), etc.
+thing ; and so again Intemperance (3) and Concupiscence or J3esire (4), Grief (2) and Ignorance (1), etc.
 
 All are summed up in Ignorance, or Error, just as
 the seven virtues are summed up in Gnosis or Truth."*^
-And just as Ignorance is the source of vice, so is Know-
-ledge or Gnosis the beginning of Truth. Gnosis is
+And just as Ignorance is the source of vice, so is Knowledge or Gnosis the beginning of Truth. Gnosis is
 not the end but the beginning of the Path, the end of it
 is God or the Good.
 
-The difference between the " Poemandres '' arrange-
-ment and the categories of our treatise is conditioned
-by the fact that in the former the process of transforma-
-tion in the case of a good man after death is described,
+The difference between the " Poemandres '' arrangement and the categories of our treatise is conditioned
+by the fact that in the former the process of transformation in the case of a good man after death is described,
 whereas in the latter the Way of Rebirth in a living
 man is set forth.
 
-That the Virtues (and Vices, therefore) were cate-
-gorized according to the fundamental numbers of the
+That the Virtues (and Vices, therefore) were categorized according to the fundamental numbers of the
 Gnosis may be seen in most systems of Christian
 Gnostic seonology ; indeed, it was a common plan of
 the general Gnostic theosophy of the time. In our
@@ -12003,13 +10711,7 @@ And not only do we have the Seven, but also the
 ^ The usual way, indeed, in which it is taken.
 
 
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 249
-
-Twelve, twelve Maidens (Sim. xv. 1-3): Faith, Con-
-tinence, Power, Long-suffering, Simplicity, Freedom-
+Twelve, twelve Maidens (Sim. xv. 1-3): Faith, Continence, Power, Long-suffering, Simplicity, Freedom-
 from-malice, Chastity, Joyfulness, Truth, Understanding,
 Concord, Love.
 
@@ -12021,8 +10723,7 @@ Folly, Slander, Hate.
 Zosimus also speaks of the Twelve Fates (Mocpai)
 of Death, and associates them with the Passions.^
 
-But, indeed, the subject is infinite, for it is the con-
-summation of all right endeavour and all true progress
+But, indeed, the subject is infinite, for it is the consummation of all right endeavour and all true progress
 in humanity. We must, then, leave it for the present,
 to avoid running to too great length in these comments.
 Sufficient for the moment to point to the fact that the
@@ -12036,8 +10737,7 @@ The Dawn of Cosmic Consciousness
 
 13. The result of this Potent Invocation of the Powers,
 — that is to say, the realization of the full meaning of
-the sacred rite which consummates itself in the con-
-sciousness of Hermes, and so communicates itself in
+the sacred rite which consummates itself in the consciousness of Hermes, and so communicates itself in
 some measure to Tat,^ — is that Tat begins to " see " ; '' I
 see the All, I see myself in Mind."
 
@@ -12053,30 +10753,22 @@ is himself being taught by Mind :
 1 Berthelot, 244 ; R. 214. 2 Qf^ q ff^^ i 7 . ^i. (ixi.) 6.
 
 
-Hosted by Google
-
-
-250 THRICE-GREATEST HERMES
-
 fire, and water, dry and moist. Think that thou art at
 the same time in every place, in earth, in sea, in sky ;
 not yet begotten, in the womb, young, old and dead,
 in after-death conditions/'
 
 This is, as we have seen, a pure Egyptian formula,
-and connotes the opening of the ''cosmic conscious-
-ness/'
+and connotes the opening of the ''cosmic consciousness/'
 
 This consciousness, whatever else it may be, is a
-transcending of our three-dimensional limitation of con-
-sciousness, — that of the " body's view-point, — a thing
+transcending of our three-dimensional limitation of consciousness, — that of the " body's view-point, — a thing
 three ways in space extended/'
 
 The Vow of Silence
 
 The mystery of this ISTew Birth in consciousness is
-to be kept secret; therefore Hermes has not com-
-mented on it, presumably in the Expository Sermons ;
+to be kept secret; therefore Hermes has not commented on it, presumably in the Expository Sermons ;
 moreover, it must even now be kept secret (§ 22), and
 therefore is the treatise a Secret Sermon. The reason
 for this is given both here and in | 22 : " That we
@@ -12099,11 +10791,6 @@ world.
 14. The IsTew Birth is further characterized as the
 Essential Birth (jj ovcricloSr]g yivecng) ; it was the birth of
 
-
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 251
 
 the Essential Man, the God, Son of the One, to which
 other treatises refer. ^
@@ -12149,9 +10836,6 @@ the last, Jewish synonyms; the term Ogdoad itself
 ^ Sc. the Lower Mother, Nature.
 
 ^ Exx. ex Theodot, § 80 (ed. Dindorf, iii. 463).
-
-
-Hosted by Google
 
 
 252 THRIOE-GREATEST HERME8
@@ -12203,11 +10887,6 @@ on C. H., i. 26.
 •5 D, V. (/., M. ii. 475 ; P. 893.
 
 
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 253
-
 sundown (viii. 13); and with regard to "keeping
 silence on their virtue," we are told of the Later
 Pythagoreans, of whom he was so conspicuous an
@@ -12256,14 +10935,8 @@ we would specially call attention to the words :
 1 See my Apollonius of Tyana, pp. 123 and 120.
 
 
-Hosted by Google
-
-
-254 THRICE-GREATEST HERMES
-
 "Thy Eeason sings through me Thy praises. Take
-back through me the All into Thy Reason— my reason-
-able oblation ^ ! From Thee Thy Will ; to Thee the All ! "
+back through me the All into Thy Reason— my reasonable oblation ^ ! From Thee Thy Will ; to Thee the All ! "
 
 The Outbreathing of the Universe through the
 Reason or Logos ^ is the manifestation or realisation of
@@ -12276,8 +10949,7 @@ through Me the All." This is accomplished in the first
 instance by the sacrifice of the reason, of man's small
 limited reason, to the Great Reason of things.
 
-And yet the All, the Universe itself, is not some-
-thing other than God ; it is all God.
+And yet the All, the Universe itself, is not something other than God ; it is all God.
 
 " From Thee Thy Will " ; Thou art the Source of all.
 " To Thee the All"; Thou art the End of all, the Desirable
@@ -12292,8 +10964,7 @@ who hast the Heaven for thy City, Man of Mighty
 Names ! "
 
 Also notice : " The All that is in us, Life, preserve ;
-Light, illumine it ; God, in-spirit it ! " And com-
-pare it with § 12, where we are told : " While Life and
+Light, illumine it ; God, in-spirit it ! " And compare it with § 12, where we are told : " While Life and
 Light are unified there, where the One hath being from
 the Spirit."
 
@@ -12307,11 +10978,6 @@ service."
 2 Hesychius in his Lexicon defines Logos as the "Cause of
 Activity," or that which underlies action,-—^ rov dpd/xaros V7r6decns.
 
-
-Hosted by Google
-
-
-THE SECRET SERMON ON THE MOUNTAIN 255
 
 The Prayer is for the Baptism of Light — Illumination
 by the Gnosis ^ ; this was the Dowsing in the Mind of
@@ -12357,11 +11023,6 @@ Oxyrliynchus :
 irrKpdlfTKrTai fiov 6 vovs (§ 21).
 
 
-Hosted by Google
-
-
-256 THRICE-GREATEST HERMES
-
 *' (Strive therefore ?) to know yourselves, and ye
 shall know ye are Sons of the (almighty ?) Father ;
 (and ?) ye shall know that ye are in (the City of
@@ -12371,9 +11032,6 @@ God ? 1), and ye are (the City ? 2). "
 
 ^ Cf. 1. Pet. ii. 5 : *' Ye are built up as hving stones, a spiritual
 house for service."
-
-
-Hosted by Google
 
 
 CORPUS HEEMETICUM XIV. (XV.)
@@ -12390,13 +11048,11 @@ Unto Asglepius Good Health of Soul!^
 to learn the nature of the things that are, and
 would not let me hold it over, as [natural to]
 a younger son fresh come to gnosis of the
-[teachings] on each single point, — I was com-
-pelled to tell [him] more, in order that the
+[teachings] on each single point, — I was compelled to tell [him] more, in order that the
 contemplation^ [of them] might be the easier
 for him to follow,
 
-1 ed (ppovfTip. I do not know the exact meaning of this ex-
-pression. Everard translates " to be truly wise " ; Parthey,
+1 ed (ppovfTip. I do not know the exact meaning of this expression. Everard translates " to be truly wise " ; Parthey,
 " rede sapere,^^ following Patrizzi ; Menard, ** sagesse " ; Chambers,
 "to be rightly wise." I would suggest that ed (ppoveTLv was the
 form used among these disciples of the Inner Way for the usual
@@ -12408,11 +11064,6 @@ of soul.
 
 VOL. II, 257 17
 
-
-Hosted by Google
-
-
-258 THRICE-GREATEST HERMES
 
 I would, then, choosing out the chiefest heads
 of what was said, write them in brief to thee,
@@ -12450,8 +11101,6 @@ cannot be seen.
 1 That is to say, more fully and profoundly, as to one more
 advanced in the mystic science.
 
-Hosted by Google
-
 
 LETTER OF HERMES TO ASOLEPIUS 259
 
@@ -12461,8 +11110,7 @@ not be able to be seen.
 He, therefore, ever maketh ^ ; and therefore
 can He ne'er be seen.
 
-To comprehend Him thus is meet ; and com-
-prehending, [it is meet] to marvel ; and mar-
+To comprehend Him thus is meet ; and comprehending, [it is meet] to marvel ; and mar-
 velling, to count oneself as blessed, as having
 learnt to know one's Sire.
 
@@ -12493,10 +11141,6 @@ things below, neither of things divine, nor things
 
 1 Gf. a H., xvi. 18.
 
-Hosted by Google
-
-
-260 THRICE-GREATEST HERMES
 
 that suffer change or things that are in
 obscuration/
@@ -12523,8 +11167,7 @@ or secret " ; Partliey, " quce sunt in abdito " ; Menard, " dans Us
 'profondeurs'*^ ; Ckambers, "those in secrecy." I suggest that the
 technical term /xvx^s, signifying generally a shnt-in or locked-up
 place {conclave, as Damascins translates it), is to be referred,
-along the line of Platonic and Pythagorean tradition, to Phere-
-cydes. Porpliyry (De Antro Nymph., c. 31) tells us that the
+along the line of Platonic and Pythagorean tradition, to Pherecydes. Porpliyry (De Antro Nymph., c. 31) tells us that the
 synonyms "juuxot (chambers 1), recesses (or pits), caverns, doors,
 gates ^^ were used by Pherecydes as symbolical expressions to
 signify " the geneses and apogeneses of souls," whatever these terms
@@ -12539,9 +11182,6 @@ call laya or pralaya. See for the /xvxoi of Pherecydes Sturz's
 Pherecydis FragmeMta, pp. 43 ff. (Leipzig, 1824).
 
 ^ Or genesis.
-
-
-Hosted by Google
 
 
 LETTER OE HERMES TO ASCLEPIUS 261
@@ -12586,11 +11226,6 @@ Julianum, ii. 64 (Migne, col. 598 d).
 2 Of. a H., xvi. 18.
 
 
-Hosted by Google
-
-
-262 THRICE-GREATEST HERMES
-
 make the rust, nor the begetters of the body
 filth, nor God [make] evil.
 
@@ -12628,8 +11263,6 @@ For this is God — the Good, which hath all
 power of making all.
 
 ^ Or genesis.
-
-Hosted by Google
 
 
 LETTER OF HERMES TO ASOLEPIUS 263
@@ -12674,10 +11307,6 @@ by Cyril.
 
 2 Ed. Harles (4th ed.), vol. i. lib. i. cap. vii.
 
-Hosted by Google
-
-
-264 THRICE-GREATEST HERMES
 
 preceding, being that of a letter. It evidently belongs
 to the Asclepius-Tat type of tradition, as in G. H., x.
@@ -12691,8 +11320,7 @@ come to Gnosis of the teaching on each single point."
 Can this mean that he has only just been permitted
 to share in the *' Expository Sermons" or "Detailed
 Discourses " ? It is probable, for C. H., x. (xi.) 1,
-continues : ** And this the more because 'tis the abridg-
-ment (epitome) of the General Sermons which he has
+continues : ** And this the more because 'tis the abridgment (epitome) of the General Sermons which he has
 had addressed to him."
 
 Asclepius is older, and already iinamjiJLwv ri^g (pvareoog
@@ -12719,8 +11347,6 @@ xiii. (xiv.), where Tat has handed on to him the
 already been attempted in the "Prolegomena," chap,
 xvi. : " The Disciples of Thrice-greatest Hermes."
 
-Hosted by Google
-
 
 LETTEE OF HERMES TO ASCLEPIUS 265
 
@@ -12731,8 +11357,7 @@ similarity of its doctrine, however, with that of the
 "Mind unto Hermes" is remarkable. For instance,
 compare the last sentence of § 7 of our treatise with
 C. H,, xi. (xii.) 14 : " For that indeed He hath no other
-one to share in what He works, for working by Him-
-self, He ever is at work, Himself being what He doth."
+one to share in what He works, for working by Himself, He ever is at work, Himself being what He doth."
 
 Compare also the first sentence of § 8 with C. II., xi.
 (xii.) 20 : " Behold what power, what swiftness thou
@@ -12741,8 +11366,7 @@ God not do them ? "
 
 The Good Husbandman
 
-With the Good Husbandman "image" (§ 10) com-
-pare :
+With the Good Husbandman "image" (§ 10) compare :
 
 " Come unto me. Good Husbandman, Good Daimon,
 Harpocrates, Chnouphis . . . who rollest down the
@@ -12772,9 +11396,6 @@ birth to corn." ^
 ^ Berthelot, p. 30. ^ Bertlielot, p. 89.
 
 
-Hosted by Google
-
-
 COEPUS HEEMETICUM (XVI.)
 
 
@@ -12790,8 +11411,7 @@ UNTO the King
 thee, King — the summing up and digest, as
 it were, of all the rest.
 
-For it is not composed to suit the many's pre-
-judice, since it contains much that refuteth them.
+For it is not composed to suit the many's prejudice, since it contains much that refuteth them.
 
 Nay, it will seem to thee as well to contradict
 sometimes my sermons too.
@@ -12804,9 +11424,6 @@ most simple and [most] clear; but, on the
 contrary, as 'tis unclear, and has the [inner]
 
 ^ At the end after P. S. A.^ but the pages are unnumbered.
-266
-
-Hosted by Google
 
 
 DEFINITIONS OF ASCLEPIUS TO KING AMMON 267
@@ -12850,10 +11467,6 @@ demotic — t^ irarp^c^ dia\€KT({> ipurjuevSfi^vos,
 
 ^ That is, " words of power," words that do things.
 
-Hosted by Google
-
-
-268 THRICE-GREATEST HERMES
 
 3. Thus, then, will I begin the sermon by
 invocation unto God, the nniversals' Lord and
@@ -12891,17 +11504,13 @@ in one and the same [space all] the three
 •'' Of. Plato, 8o'ph., 259 D, E.
 
 
-Hosted by Google
-
-
 DEFINITIONS OF ASCLEPIUS TO KING AMMON 269
 
 natures visible — of Fire, and Water, and of
 Earth, depending from one Eoot/
 
 Whence, too, it ^ is believed to be the Treasury ^
-of every matter. It sendeth forth of its * abun-
-dance, and in the place [of what it sendeth forth]
+of every matter. It sendeth forth of its * abundance, and in the place [of what it sendeth forth]
 receiveth the subsistence from ahoyeJ'
 
 For thus the Demiurge^ — I mean the Sun —
@@ -12938,16 +11547,10 @@ used frequently of magic arts.
 ^ jyorjr^ ovala—intelligibiUs essentia.
 
 ^ oyKos = moles, mass, bulk, volume ; in later philosophy it
-means "atom," and may mean so here, of course in the philo-
-sophical and mystic and not in the jDliysical sense.
+means "atom," and may mean so here, of course in the philosophical and mystic and not in the jDliysical sense.
 
 10 vTTodox'fi = receptaculum.
 
-
-Hosted by Google
-
-
-270 THRICE-GREATEST HERMES
 
 But whence this [Substance] doth arise, or
 floweth forth, He, [and He] only, knows.
@@ -12974,8 +11577,7 @@ Deathlessness, and Genesis.
 1 The text is very corrupt. Patrizzi translates : " Vel qida ipso
 loco, et nahira jprope se ipsiim existens, non a nobis conspicitur cogit
 nos per conjecturas intelligere "■ — which certainly does not represent
-the Greek. Menard conjectures brilliantly but in entire emanci-
-pation from the text : " Pour comprendre par induction ce qui se
+the Greek. Menard conjectures brilliantly but in entire emancipation from the text : " Pour comprendre par induction ce qui se
 derobe a notre vue, il faudrait etre pres de lui et analogue a sa
 ncuture." Reitzenstein discovers two lacunas in the text, but does
 not attempt to fill them. As the text stands, then, all attempt at
@@ -12991,9 +11593,6 @@ being regarded as a " head." See " The Perfect Sermon."
 ^ Lit. car or chariot — app.a.
 
 ^ Lit. binds it to himself — apad-fjo-as its eavr6y.
-
-
-Hosted by Google
 
 
 DEFINITIONS OF ASCLEPIUS TO KING AMMON 271
@@ -13025,8 +11624,7 @@ changes into one another being balanced — -just
 as He does when He doth deal with the Great
 Bodies.
 
-For in the case of every body, [its] perma-
-nence [consists in] transformation.
+For in the case of every body, [its] permanence [consists in] transformation.
 
 In case of an immortal one, there is no
 
@@ -13037,10 +11635,6 @@ In case of an immortal one, there is no
 4 That is, those lives subject to death, as opposed to the
 immortals.
 
-Hosted by Google
-
-
-272 THRICE-GREATEST HERMES
 
 dissolution ; but when it is a mortal one, it
 is accompanied with dissolution.^
@@ -13082,8 +11676,6 @@ For as to all the other things men do, through
 
 4 Or, to be pious. Gf. P. S. A., ix. 1.
 
-Hosted by Google
-
 
 DEFINITIONS OF ASCLEPIUS TO KING AMMON 273
 
@@ -13106,8 +11698,7 @@ When they are weary or they fail, He takes
 them in His arms again.
 
 13. And under Him is ranged the choir of
-daimons — or, rather, choirs ; for these are multi-
-tudinous and very varied, ranked underneath the
+daimons — or, rather, choirs ; for these are multitudinous and very varied, ranked underneath the
 groups of Stars,^ in equal number with each one
 of them.
 
@@ -13127,10 +11718,6 @@ Scott).
 
 VOL. 11. 18
 
-Hosted by Google
-
-
-274 THRICE-GREATEST HERMES
 
 some of them are [of] mixed [natures], good and
 bad.
@@ -13171,8 +11758,6 @@ of God.
 4 The two irrational parts, " passion " and " desire " {BvjjLbs and
 
 ^ The soul.
-
-Hosted by Google
 
 
 DEFINITIONS OF ASCLEPIUS TO KING AMMON 275
@@ -13218,10 +11803,6 @@ Perfect Sermon" and who is mentioned C. JT., xviii. 14.
 3 Or, Fate ; cf. 0. iT., i. 9 ; and P. S. A., xix.
 * Or, Intelligible Cosmos.
 
-Hosted by Google
-
-
-276 THRICE-GREATEST HERMES
 
 Non-wandering Ones, the Six [Spheres] of the
 Wanderers, and one Circumterrene.
@@ -13237,8 +11818,7 @@ Sun s [their] Demiurge ; the Cosmos is the
 instrument of demiurgic operation.
 
 Intelligible Essence regulateth Heaven ; and
-Heaven, the Gods ; the daimones, ranked under-
-neath the Gods, regulate men.
+Heaven, the Gods ; the daimones, ranked underneath the Gods, regulate men.
 
 This is the host^ of Gods and daimones.^
 
@@ -13249,8 +11829,7 @@ And all [of them] are parts of God ; and if
 they all [are] parts — then, God is all.
 
 Thus, making all, He makes Himself; nor
-ever can He cease [His making], for He Him-
-self is ceaseless.*
+ever can He cease [His making], for He Himself is ceaseless.*
 
 Just, then, as God doth have no end and no
 beginning, so doth His making have no end
@@ -13267,9 +11846,6 @@ tlie Mitliriaca.
 4 Gf G. H,, xiv. (xv.), 7 and 6.
 
 •'' See Commentary to Frag. iv. (Lact., D, /., ii. 15).
-
-
-Hosted by Google
 
 
 DEFINITIONS OF ASCLEPIUS TO KINO AMMON 277
@@ -13289,14 +11865,12 @@ have evidently nothing to do with such a title.
 In the MSS. a later hand has added to the general
 title a catalogue of contents as follows :
 
-"Of God; Matter; Evil; Fate; the Sun; Intelli-
-gible Essence ; Divine Essence ; Man ; the Economy of
+"Of God; Matter; Evil; Fate; the Sun; Intelligible Essence ; Divine Essence ; Man ; the Economy of
 the Pleroma; the Seven Stars; the Man after the
 Likeness"^ — for which largely irrelevant list Patrizzi
 substitutes the title : " Of the Sun and Daimons. "
 
-Eeitzenstein (p. 192) is of opinion that this contents-
-list, and also the similar headings in (xviii.), are due to
+Eeitzenstein (p. 192) is of opinion that this contentslist, and also the similar headings in (xviii.), are due to
 some Byzantine scribe, who also foolishly interpolated
 (xvii).
 
@@ -13319,14 +11893,10 @@ of Hermes to Asclepius, and as Lactantius may just
 1 R. 348 11.
 
 
-Hosted by Google
-
-
 278 THKICE-GREATEST HERMES
 
 possibly mean " in that initiatory sermon,"- — the term
-'perfedus being used in a general and not in an appel-
-lative sense, — I have kept the traditional title and
+'perfedus being used in a general and not in an appellative sense, — I have kept the traditional title and
 placed that of Lactantius second.
 
 A Tradition Concerning the Trismegistic
@@ -13368,9 +11938,6 @@ the Greek language and "philosophizing," and his
 hold as to the authorship of the introduction. See Comment., § 5.
 
 
-Hosted by Google
-
-
 DEFINITIONS OF ASCLEPIUS TO KING AMMON 279
 
 admiration for Hieroglyphic Egyptian as a "language
@@ -13400,8 +11967,7 @@ changed into Hermes."
 
 Sanchuniathon, he says, "having come across the
 secret writings that had been discovered and brought
-from the shrines of the Temples of Ammon, — com-
-positions which were not known to all, — practised by
+from the shrines of the Temples of Ammon, — compositions which were not known to all, — practised by
 himself the science {rnv juLaOrja-cv) of all things." ^
 
 Philo also professes to quote from one of the earliest
@@ -13416,11 +11982,6 @@ made King of Egypt by Kronos — that is, Ammon. ^
 3 Ibid., I. X. 38, 39.
 
 
-Hosted by Google
-
-
-280 THRICE-GREATEST HERMES
-
 Here we are evidently in contact with certain
 traditions with regard to Thoth-Hermes, his ancestors
 and pupils, and secret writings. Presumably many
@@ -13434,8 +11995,7 @@ when he writes :
 
 " It was Hermes who first taught this Path [sc. the
 Way up to God]. And Bitys,^ the Prophet, translated
-[his teachings concerning it] for King Ammon, dis-
-covering them in the inner temple in an inscription in
+[his teachings concerning it] for King Ammon, discovering them in the inner temple in an inscription in
 the sacred characters at Sais in Egypt." ^
 
 What our author and Jamblichus have in common is
@@ -13455,16 +12015,12 @@ to the model of a certain literature.
 Who this King Ammon was can only be guessed at ;
 but to my mind it is probable that the " translations "
 of Bitys were made in connection with the translation
-activity of Manetho for King Ptolemy, and this trans-
-lation was into Greek. Our author, however, would
+activity of Manetho for King Ptolemy, and this translation was into Greek. Our author, however, would
 refer it to some Egyptain King, and so seek to invoke
 the authority of a high antiquity for the treatise he
 was putting into circulation.
 
 1 Of. Zosimns (§ 8). 2 p^ j^y^^^^ ^m ^
-
-
-Hosted by Google
 
 
 DEFINITIONS OF ASCLEPIUS TO KING AMMON 281
@@ -13474,8 +12030,7 @@ A Speculation as to Date
 5. What seems to differentiate our treatise from the
 rest of the tractates, is the prominence its author gives
 to the doctrine of the Sun as Demiurgic Orderer of all
-things. This so to speak pantheistic form of Sun-
-worship is peculiarly Egyptian.^
+things. This so to speak pantheistic form of Sunworship is peculiarly Egyptian.^
 
 Now if we remember the disdainful way in which
 Greek " philosophizing " is spoken of in the introduction,
@@ -13484,8 +12039,7 @@ there be any essence which the mind alone can grasp "
 (§ 6), as a somewhat patronizing reference to the
 Intelligible World of Greek Philosophy, as also the
 analogy in § 12 ; but when we turn to §§17 and 18
-the exposition fully adopts the doctrine of the Intelli-
-gible and Sensible Worlds. This is so irreconcilable
+the exposition fully adopts the doctrine of the Intelligible and Sensible Worlds. This is so irreconcilable
 a contradiction that one is almost compelled to believe
 that the introduction is by another hand altogether,
 and that our sermon proper begins with § 3.
@@ -13509,11 +12063,6 @@ the symbolism of the Sun as the ray-crowned charioteer
 
 1 Cy. K. 198, 1 ; and also Comment on § 17 below.
 
-
-Hosted by Google
-
-
-282 THRICE-GREATEST HERMES
 
 is fundamental with the cult of Mithras, and is found
 in Greece long before the Aurelian period.
@@ -13559,9 +12108,6 @@ for they are all connected with what is called the Fate-
 1 F. F. F„ 549.
 
 
-Hosted by Google
-
-
 DEFINITIONS OF ASCLEPIUS TO KING AMMON 283
 
 Sphere, the Instrument or the Wheel of Genesis, or
@@ -13587,8 +12133,7 @@ accomplishes its own deeds, outraging it in divers
 fashions with unseemly lusts.
 
 "As far as I can see, the heart seems to receive
-somewhat the same treatment as an inn [or caravan-
-serai], which has holes and gaps made in its walls, and
+somewhat the same treatment as an inn [or caravanserai], which has holes and gaps made in its walls, and
 is frequently filled with dung, men living filthily in it
 and taking no care of the place as being someone else's
 property. Thus is it with the heart so long as it has
@@ -13608,11 +12153,6 @@ P. 489 (ed. Dindorf, ii. 219). See for further critical text,
 Hilgenfeld (A.), Ketzergesch. d. Urchrist, p. 296; F, F. F,, 300,
 301.
 
-
-Hosted by Google
-
-
-284 THRICE-GREATEST HERMES
 
 17. Entirely Egyptian also is the Scheme of
 Dependency given in § 17, as we have already pointed
@@ -13642,9 +12182,6 @@ can say.
 1 Cf. P. S. A., xxix. 5.
 
 
-Hosted by Google
-
-
 COKPUS HERMETICUM (XVII.)
 
 
@@ -13670,12 +12207,6 @@ like a God ^ ! — (the King replied.)
 2 The corrector of B has changed the name Asclepius into
 Tat, as he has everywhere in 0. H., ii. (iii.) ; E. 193, 1.
 
-285
-
-Hosted by Google
-
-
-286 THRICE-GREATEST HERMES
 
 Asc, There are things bodiless as well as
 these ; for instance, forms ^ — do not they seem
@@ -13717,9 +12248,6 @@ to that already remarked in the case of C. H., ii. (iii).
 '^ e€0\oyr]a-o/x€y. * E. 198.
 
 
-Hosted by Google
-
-
 OF ASCLEPIUS TO THE KING 287
 
 And that this is the fact is brought out interestingly
@@ -13753,9 +12281,6 @@ like to the Man after the Likeness became in himself a
 Way Up.
 
 
-Hosted by Google
-
-
 COEPUS HEKMETICUM (XVIII.)
 
 
@@ -13785,12 +12310,6 @@ not only in His making of the harmony of His
 the rhythm of the melody of His own song[s]
 
 
-288
-
-
-Hosted by Google
-
-
 THE ENCOMIUM OF KINGS 289
 
 right down unto the separate instruments,^ is,
@@ -13802,8 +12321,7 @@ weary.
 2. So, then, if ever a musician desires to enter
 into the highest contest of his art he can —
 when now the trumpeters have rendered the
-same phrase of the [composer's] skill, and after-
-wards the flautists played the sweet notes of
+same phrase of the [composer's] skill, and afterwards the flautists played the sweet notes of
 the melody upon their instruments,^ and they
 complete the music of the piece with pipe and
 plectrum — [if any thing goes wrong,] one ^ does
@@ -13834,10 +12352,6 @@ melodie ; Patrizzi gives : melicis organis melodice dulcedinem.
 
 VOL. -11, 19
 
-Hosted by Google
-
-
-290 THRICE-GREATEST HERMES
 
 our audience for the weakness that inheres in
 body, blame impiously our Race/
@@ -13875,13 +12389,10 @@ cLKdfxaTov fxev iam irpev/xa 6 Beos. Compare John iv. 24 ; Ttv^vfjLa
 
 b de6s — God is Sj)irit.
 
-''' The metaphor has become somewhat mixed by the intro-
-duction of Pheidias, who was a " musician ^' in marble and ivory
+''' The metaphor has become somewhat mixed by the introduction of Pheidias, who was a " musician ^' in marble and ivory
 and gold, and not on strings and pipes.
 
 * rrjs KpoiKTicos iroWdKis irphs rhv rduou €fnr€a'ov(r7}9<,
-
-Hosted by Google
 
 
 THE ENCOMIUM OF KINGS 291
@@ -13921,12 +12432,9 @@ through the foreknowledge of the Better One,
 2 Meaning presumably prophets.
 
 3 It is difficult to follow the exact meaning of some of the
-writer's rhetorical sentences, even if our text is sound ; here, how-
-ever, the text, even after passing through Reitzenstein's hands, is
+writer's rhetorical sentences, even if our text is sound ; here, however, the text, even after passing through Reitzenstein's hands, is
 still very halting, and so I venture on this translation with all
 hesitation.
-
-Hosted by Google
 
 
 292 THRICE-GKEATEST HERMES
@@ -13972,8 +12480,6 @@ to Philo given by R. 204, n. 1 .
 
 3 Sc, the singer.
 
-Hosted by Google
-
 
 THE ENCOMIUM OP KINGS 293
 
@@ -14012,10 +12518,6 @@ Kings but also to be best.
 
 1 Gf, K. K., 39 if. 2 But see Plasberg's reading. R. 370.
 
-Hosted by Google
-
-
-294 THRICE-GREATEST HERMES
 
 At whom, before they even stir, the foreign
 land ^ doth quake.
@@ -14052,15 +12554,11 @@ turning it upon the garden of our souls above
 section.
 
 
-Hosted by Google
-
-
 THE ENCOMIUM OF KINGS 295
 
 the heavens/ — we should [direct and] train
 these [streams] of blessing back again unto their
-source, [blessing] whose entire power of ger-
-mination [in us] He hath Himself poured into us.
+source, [blessing] whose entire power of germination [in us] He hath Himself poured into us.
 
 12. 'Tis fit ten thousand tongues and voices
 should be used to send His blessings back again
@@ -14093,10 +12591,6 @@ by our Sire before we [even] ask.
 ^ els ra rjfierepa rwv ^vx^v virepovpdvia (fivrd.
 2 Lit. " in this."
 
-Hosted by Google
-
-
-296 THRICE-GREATEST HERMES
 
 And as it cannot be the Sire will turn from
 Babes new-born because they are so weak, but
@@ -14106,8 +12600,7 @@ rather will rejoice when they begin to recognise
 power of giving blessing back to God, which He
 hath given [us].
 
-14. For God, being Good, and having in Him-
-self eternally the limit of His own eternal fitness,
+14. For God, being Good, and having in Himself eternally the limit of His own eternal fitness,
 and being deathless, and containing in Himself
 that lot of that inheritance that cannot come
 unto an end, and [thus] for ever ever-flowing
@@ -14137,9 +12630,6 @@ the familiar evayyeXiov.
 '^ iKeiare, '^ rh aKKorrp6<ra\\ov.
 
 ^ trpSyvoocTLS.
-
-
-Hosted by Google
 
 
 THE ENCOMIUM OF KINGS 297
@@ -14183,13 +12673,8 @@ And in as much, in sooth, as he hath made
 
 2 6 epws, — the Higher Love. ^ Sc. the King.
 
-* The word-play between /Sacrt^eus and ^daret xda, is unrepro-
-ducible in English.
+* The word-play between /Sacrt^eus and ^daret xda, is unreproducible in English.
 
-Hosted by Google
-
-
-298 THRICE-GREATEST HERMES
 
 himself the natural protector of the kingdom
 which is not his native land,^ his very name [is
@@ -14218,18 +12703,14 @@ order of endeavour.
 
 The style is for the most part so very artificial and
 forced, that we are conscious of labour and effort, and
-sometimes of such obscurity as to make a clear render-
-ing almost impossible. The contents are of the nature
+sometimes of such obscurity as to make a clear rendering almost impossible. The contents are of the nature
 of an elaborate set Eulogy of Kings.
 
 Whether or not this concluding piece ever bore a
-proper title it is impossible to say, for the existing head-
-ings are plainly added by a later redactor,^ — as we
+proper title it is impossible to say, for the existing headings are plainly added by a later redactor,^ — as we
 
 '^ In fact, are due to the first hand in B D M. See R. 355, 1 ;
 358, 12.
-
-Hosted by Google
 
 
 THE ENCOMIOM OF KINGS 299
@@ -14278,10 +12759,6 @@ that the indications in § 16 best suit the reign of
 1 See § 15 — 7) Trphs robs Baffixias ev<firifjLla — and compare note to
 Clem. Alex., iii., in "Fragments from the Fathers."
 
-Hosted by Google
-
-
-300 THRICE-GREATEST HERMES
 
 Diocletian (imp. 285-305 a.d.); but he is aware that,
 as far as these are concerned, an earlier date is not
@@ -14304,8 +12781,7 @@ any precise meaning in translation.
 The Story of the Pythic Grasshopper
 
 6. With § 6, however, our interest is awakened, for
-it reminds us of the famous Introduction to the Pro-
-trepticus, or Exhortation to the Greeks, of Clement of
+it reminds us of the famous Introduction to the Protrepticus, or Exhortation to the Greeks, of Clement of
 Alexandria, when he says :
 
 " I could tell thee also of another — brother to these ^
@@ -14319,14 +12795,10 @@ the beast.
 
 " Whether his song was a hymn or a dirge I cannot
 say; anyhow, there was a contest, and Eunomus had
-to harp it in the heat of the day, when the grass-
-hoppers, warmed by the sun, were singing underneath
+to harp it in the heat of the day, when the grasshoppers, warmed by the sun, were singing underneath
 the leaves along the hills.
 
 1 Amphion, Arioii and Orpheus.
-
-
-Hosted by Google
 
 
 THE ENCOMIUM OF KINGS 301
@@ -14375,11 +12847,6 @@ together.
 2 Of. R. 205, 206.
 
 
-Hosted by Google
-
-
-302 thrice-greatest hermes
-
 The Tkue King
 
 13. The idea that all his subjects are the children of
@@ -14407,12 +12874,10 @@ transparent, and there is nothing dark or resisting, and
 everyone is manifest to everyone internally, and all
 things are made manifest ; for light is manifest to
 light. For everyone has all things in himself, and again
-sees in another all things, so that all things are every-
-where, and all in all, and each in all, and infinite the
+sees in another all things, so that all things are everywhere, and all in all, and each in all, and infinite the
 glory. For each of them is great, since the small also
 is great. And the sun there is all the stars, and, again,
-each and all are the sun. In each, one thing is pre-
-eminent above the rest, but it also shows forth all." ^
+each and all are the sun. In each, one thing is preeminent above the rest, but it also shows forth all." ^
 
 1 This belief, indeed, is the power of the Japanese in our own
 day.
@@ -14421,9 +12886,6 @@ day.
 subject kings and rulers.
 
 '^ En., V. viii. 4.
-
-
-Hosted by Google
 
 
 THE ENCOMIUM OF KINGS 303
@@ -14451,12 +12913,6 @@ Ecstasis ; and Plotinus was by birth an Egyptian.
 1 F. F. F., 557.
 
 
-Hosted by Google
-
-
-Hosted by Google
-
-
 II
 
 The Perfect Sermon
@@ -14464,13 +12920,6 @@ The Perfect Sermon
 
 VOL. II. 20
 
-Hosted by Google
-
-
-Hosted by Google
-
-
-THE PERFECT SERMON
 
 Or the Asclepius
 
@@ -14493,21 +12942,14 @@ of all the previous ones weVe [either] uttered,
 or with which weVe been inspired by the Divine,
 more Godly than the piety of [ordinary] faith.
 
-1 I have added numbers to the paragraphs for greater con-
-venience of reference.
+1 I have added numbers to the paragraphs for greater convenience of reference.
 
 ^ Menard has divided the treatise into fifteen parts, which T
 have thus distinguished ; the numbering of the chapters are those
 usually found.
 
 3 Or, a sermon about the Gods.
-307
 
-
-Hosted by Google
-
-
-308 THRICE-GREATEST HERMES
 
 If thou with eye of intellect^ shalt see this
 Word^ thou shalt in thy whole mind be filled
@@ -14551,10 +12993,6 @@ is ' One.' " Cf. G. H., xvi. 3 ; and also xx. 2 below.
 * This, as we shall see later on, is Tat. See xxxii. below.
 •'"' Lit. to his name.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 309
 
 But call, I prithee, no one else but Ammon,
 lest a most pious sermon on a so great theme be
@@ -14595,10 +13033,6 @@ below ; and Frag, xviii.
 in i., where we find "omma unius esse^^ ("all" is of "one")
 and not "owma imum esse" ("all" is "one").
 
-Hosted by Google
-
-
-310 THRICE-GREATEST HERMES
 
 been in the Creator before they were created.
 Nor is He called unfitly '^AU/' in that His
@@ -14626,8 +13060,7 @@ Restorer of all genera that it receives.
 This Whole,nherefore, as thou rememberest,^
 in that it is of all,^ — in other words, all things,
 embraced by nature under '' Soul " and " World,"
-are in [perpetual] flux, so varied by the multi-
-form equality of all their forms, that countless
+are in [perpetual] flux, so varied by the multiform equality of all their forms, that countless
 kinds of well-distinguished qualities may be
 discerned, yet with this bond of union, that all
 should seem as One, and from '' One" '' AU."^
@@ -14640,13 +13073,6 @@ should seem as One, and from '' One" '' AU."^
 
 '^ The Latin of this paragraph is very obscure.
 
-Hosted by Google
-
-
-3
-
-
-THE PERFECT SERMON 311
 
 III
 
@@ -14684,15 +13110,11 @@ of the Godhead.
 
 ^ ^^Quo efficitur ut intentionem nostram . . . celeri velocitate
 praetereaV^ Compare with this the description of the instruction
-of the Therapeuts in Philo's famous tractate, De Vita Gontem-
-plativa, 901 P., 483 M.— Conybeare's text, p. 117 (Oxford ; 1895) :
+of the Therapeuts in Philo's famous tractate, De Vita Gontemplativa, 901 P., 483 M.— Conybeare's text, p. 117 (Oxford ; 1895) :
 "For when in giving an interpretation, one continues to speak
 rapidly without pausing for breath, the mind of the hearers is
 left behind, unable to keep -ap the pace" — 6 tup aKpoca^epoov vovs
 arvpofxapTiTv d5ui/Twi/ varepi^ei.
-
-
-Hosted by Google
 
 
 312 THRIOE-GREATEST HERMES
@@ -14722,8 +13144,7 @@ pleasure to the eye of God.
 
 IV
 
-1. And all dependent from Above ^ are sub-
-divided into species in the fashion^ which I
+1. And all dependent from Above ^ are subdivided into species in the fashion^ which I
 am to tell.
 
 1 This seems to refer to the Elements.
@@ -14738,11 +13159,6 @@ For revised text see Hilgenfeld's (A.) Ketzergeschichte, p. 304
 Forgotten, p, 307 (London ; 1900). See also end of xix. 4 below,
 and 0. if., xvi. 17. 'J Ge)ierii.
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 313
 
 The genera of all things company with their
 own species ; so that the genus is a class in its
@@ -14782,10 +13198,6 @@ species ^ [also] deathless.
 
 1 That is, the Gods.
 
-Hosted by Google
-
-
-314 THRICE-GREATEST HERMES
 
 As for the genera of other things, — as to their
 genus, they [too] are everlasting ; [for] though
@@ -14796,8 +13208,7 @@ death ; so that man mortal is, mankind immortal.
 
 V
 
-1. And yet the species of all genera are inter-
-blended with all genera ; some ^ which have
+1. And yet the species of all genera are interblended with all genera ; some ^ which have
 previously been made, some which are made
 from these.
 
@@ -14807,8 +13218,7 @@ species all most closely like to their own several
 genera.
 
 For that it is impossible that bodies should be
-formed without the will of God ; or species be con-
-figured without the help of daimons ; or animals
+formed without the will of God ; or species be configured without the help of daimons ; or animals
 be taught and trained without the help of men.^
 
 2. Whoever of the daimons, then, transcending
@@ -14824,11 +13234,6 @@ and for the " intercourse of souls," C. H.^ x. (xi.) 22.
 ^ That is, one of the immortal species, or a God.
 * That is, they become Gods.
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 315
 
 Whereas those species of the daimons which
 continue in the quality of their own class, —
@@ -14865,10 +13270,6 @@ meet for our worship and for our respect.
 1 A suggestion of man's attraction to the various species of the
 animal nature.
 
-Hosted by Google
-
-
-316 THRICE-GREATEST HERMES
 
 For he doth pass into God's Nature/ as though
 himself were God. This genus [also] knows the
@@ -14908,16 +13309,10 @@ C. H., X. (xi.) 1, wliere the term Energy is preferred.
 ^ Sc. the mind's.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 317
-
 measured by the wisdom of his mind as though
 it were quite near.
 
-No darkness of the Air obstructs the penetra-
-tion of his mind. No density of Earth impedes
+No darkness of the Air obstructs the penetration of his mind. No density of Earth impedes
 his work. No depth of Water blunts his sight. |
 
 [Though still] the same [yet] is he all, and
@@ -14955,10 +13350,6 @@ to-morrow, for all things are perpetually changing.
 
 ^ Lit. non-animal. ^ Or Cosmos.
 
-Hosted by Google
-
-
-318 THRICE-GREATEST HERMES
 
 foods [drawn] from the water and the earth of
 the inferior world. ^
@@ -15005,16 +13396,10 @@ a share of that Divine Sense of intelligence which
 ^ Per-fruuntuT. Gf., for the idea, xxii. 1 below.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 319
-
 is the most^ Divine of Senses, found in God and
 in man's reason.
 
-Asc, Are not the senses of all men. Thrice-
-greatest one, the same ?
+Asc, Are not the senses of all men. Thricegreatest one, the same ?
 
 Tris. Nay, [my] Asclepius, all have not won
 true reason ^ ; but wildly rushing in pursuit of
@@ -15049,11 +13434,6 @@ man,^ — in which the godhead of the Mind alone,
 « Cf. G. H"., xvi. 15.
 
 
-Hosted by Google
-
-
-320 THRICE-GREATEST HERMES
-
 together with its kin, that is the Pure Mind's
 senses, findeth home and rest, its self with its
 own self, as though shut in the body's walls.
@@ -15086,10 +13466,6 @@ first, but second to Himself, and that He seemed
 
 * Sc. the Logos as Cosmos. Of. xxxi. 1 below.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 321
 
 to Him [most] fair, as one filled to the full with
 goodness of all things, He fell in love with Him
@@ -15101,8 +13477,7 @@ have the power to contemplate the One He had
 made from Himself. And thereon He made
 man, — the imitator of His Reason and His Love.^
 
-The Will of God is in itself complete accom-
-plishment ; inasmuch as together with His having
+The Will of God is in itself complete accomplishment ; inasmuch as together with His having
 willed, in one and the same time He hath brought
 it to full accomplishment.
 
@@ -15136,9 +13511,6 @@ Latin. Of. 0. if., i. 15 and ix. (x.) 5. * Diligentem,
 VOL. n. 21
 
 
-Hosted by Google
-
-
 322 THRIOE-GREATEST HERMES
 
 3. Therefore hath He made man of soul and
@@ -15154,8 +13526,7 @@ the earth [themselves], for these are two of the
 subject unto men, — but [either] things that are
 by men, or [that are] in or from them ^ ; such
 as the cultivation of the earth itself, pastures,
-[and] buildings, harbours, voyagings, intercom-
-munications, mutual services, which are the
+[and] buildings, harbours, voyagings, intercommunications, mutual services, which are the
 firmest bonds of men between themselves and
 that part of the Cosmos which consists [indeed]
 of water and of earth, [but is] the Cosmos'
@@ -15181,11 +13552,6 @@ seeing all he might wonder at all."
 * The above paragraph seems to have been very imperfectly
 translated into Latin.
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 323
 
 In that necessity doth follow what seems good
 to God ; performance waits upon His wilL
@@ -15224,10 +13590,6 @@ with songs and praise of men accompanied with
 
 2 Gf, G. H,, xvi. 11 : " The duty of mankind is to give worship."
 
-Hosted by Google
-
-
-324 THRICE-GREATEST HERMES
 
 music/ He might be lauded, — -He who alone is
 all, or is the Sire of all ; and so not even on the
@@ -15235,13 +13597,11 @@ earths,'-^ should there have been an absence of the
 sweetness of the harmony of heavenly praise.
 
 3. Some, then, though they be very few,
-endowed with the Pure Mind,^ have been en-
-trusted with the sacred charge of contemplating
+endowed with the Pure Mind,^ have been entrusted with the sacred charge of contemplating
 Heaven.
 
 Whereas those men who, from the two-fold
-blending of their nature, have not as yet with-
-drawn their inner reason from their body's mass,*
+blending of their nature, have not as yet withdrawn their inner reason from their body's mass,*
 these are appointed for the study of the elements,
 and [all] that is below them.
 
@@ -15270,11 +13630,6 @@ an error.
 not removed.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 325
-
 X
 
 1. The Reason of a thesis such as this, [my]
@@ -15298,8 +13653,7 @@ compound thing ^; the whole of which man
 taking on himself, doth make of it the proper
 care of his own love, in order that the two of
 them, himself and Cosmos, may be an ornament
-each unto other ; so that from this divine com-
-post of man, '' World '' seems most fitly called
+each unto other ; so that from this divine compost of man, '' World '' seems most fitly called
 '' Cosmos " ^ in Greek.
 
 3. He knows himself ; he knows the World as
@@ -15318,14 +13672,6 @@ of V. 2.
 means " order, adornment, ornament," as well as " world."
 
 
-Hosted by Google
-
-
-3
-
-
-326 THRICE-GREATEST HERMES
-
 well/ So that he recollects, indeed, what is
 convenient to his own parts. He calls to mind
 what he must use, that they may be of service to
@@ -15343,8 +13689,7 @@ higher elements into the Heaven.
 
 But in his cosmic part, which is composed of
 fire, and water, and of air, he stayeth mortal on
-the Earth, — lest he should leave all things com-
-mitted to his care forsaken and bereft.
+the Earth, — lest he should leave all things committed to his care forsaken and bereft.
 
 Thus human kind is made in one part deathless,
 and in the other part subject to death while in a
@@ -15365,10 +13710,6 @@ the universe, the macrocosm.
 
 ^ Cf. G. iT., X. (xi.) 25, last sentence.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 327
 
 [And] this [capacity] then, and then only,
 seems to be perfected, if it be fortified with
@@ -15411,10 +13752,6 @@ xii. 2 below.
 * Reading inferioris for interioris^ as immediately below in § 3.
 Gf, vi. 3, last sentence.
 
-Hosted by Google
-
-
-328 THRICE-GREATEST HERMES
 
 been composed of elements of either part in sets
 of four; — with hands, and feet, both of them
@@ -15427,8 +13764,7 @@ of sense, and soul, of memory, and foresight, by
 means of which he may become acquainted with
 the rest of things divine, and judge of them.
 
-Hence it is brought about that man in-
-vestigates the difierences and qualities, effects
+Hence it is brought about that man investigates the difierences and qualities, effects
 and quantities of things, with critical research ;
 yet, as he is held back with the too heavy weight
 of body's imperfection, he cannot properly descry
@@ -15451,10 +13787,6 @@ If that, indeed, — since Cosmos is God's work,
 is probably at fault, unless the *' other members" are supposed to
 be grouped in sets of double pairs.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 329
 
 by his love, joins his own work unto God's
 Will ; when he with toil and care doth fashion
@@ -15492,10 +13824,6 @@ type in the Divine Mind.
 ^ Cf. G. iT., X. (xi.) 5 ; Lact., D. L.i.ll; and xxxvii. 3 below.
 Lit. part. * In corporalia . . . migratio.
 
-Hosted by Google
-
-
-330 THRICE-GREATEST HERMES
 
 of ours will show,^ souls in their life on earth
 run risk of losing hope of future immortality.
@@ -15542,11 +13870,6 @@ xiv. 1, and Ex. i. 3.
 8 Gf. G. H,, xvi. 2.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 331
-
 Asc. Why is it, then, the many make
 philosophy so hard to grasp ; or wherefore is
 it they confound this thing with multifarious
@@ -15556,8 +13879,7 @@ XIII
 
 1. Tris. 'Tisinthis way,Asclepius; — by mixing
 it, by means of subtle expositions, with divers
-sciences not easy to be grasped, — such as arith-
-metic, and music, and geometry.
+sciences not easy to be grasped, — such as arithmetic, and music, and geometry.
 
 But Pure Philosophy, which doth depend on
 godly piety alone, should only so far occupy
@@ -15582,10 +13904,6 @@ For that the order of each several thing
 when set together in one [key] for all, by
 means of skilful reason, will make, as 'twere,
 
-Hosted by Google
-
-
-332 THRICE -GREATEST HERMES
 
 the sweetest and the truest harmony with God's
 [own] Song.^
@@ -15628,11 +13946,6 @@ stated that Spirit and Cosmos (or Matter) were as yet one^ or
 Spirit-Matter.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 333
-
 things [as yet] from which the Cosmos [comes
 to birth] in God.
 
@@ -15640,8 +13953,7 @@ They were not ; just for the very reason that
 they were not, but were as yet in that [condition]
 whence they have had their birth. ^
 
-For those things only are not called in-
-generable which have not yet been born, but
+For those things only are not called ingenerable which have not yet been born, but
 [also] those which lack the fertilizing power of
 generating, so that from them naught can be
 born.
@@ -15673,8 +13985,6 @@ things born from any source/ yet in themselves
 ^ Principio, "beginning" ; the same word as that used in the
 Vulgate translation of the Proem of the fourth Gospel.
 
-Hosted by Google
-
 
 334 THRICE-CmEATEST HERMES
 
@@ -15704,8 +14014,7 @@ Since for all things that there have been, must
 be provided Space.
 
 For neither could the qualities nor quantities,
-nor the positions, nor [yet] the operations, be dis-
-tinguished of those things which are no ivhere.
+nor the positions, nor [yet] the operations, be distinguished of those things which are no ivhere.
 
 ^ Initium.
 
@@ -15715,10 +14024,6 @@ regarded under the dual concept of Spirit-Matter.
 ^ Cf. XXX. 1, and xxxiv. 1 below.
 •^ The Latin construction is very faulty.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 335
 
 2. So then the Cosmos, also, though not born,
 still has in it the births ^ of all ; in that, indeed,
@@ -15758,11 +14063,6 @@ science and intelligence.
 ■* Presumably meaning the higher sense.
 
 
-Hosted by Google
-
-
-336 THRICE-GREATEST HERMES
-
 2. For it is by these things alone whereby we
 stand above the rest of animals, that we are able
 to avoid the snares and crimes of ill.
@@ -15780,8 +14080,7 @@ in the Cosmos, and made quick, — Spirit made
 subject to the Will of Highest God, as though
 it were an engine or machine.
 
-So far, then, [only] let Him be by us con-
-ceived, — as Him who is conceivable by mind
+So far, then, [only] let Him be by us conceived, — as Him who is conceivable by mind
 alone, who is called Highest God, the Ruler
 and Director of God Sensible,^ — of Him who
 in Himself includes all Space, all Substance, and
@@ -15799,10 +14098,6 @@ which holds all things, — the field of motion,^ and
 
 1 That is, Cosmos. ^ Again vAv. ^ Agitatio.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 337
 
 the that which crowds together ^ all ; of which
 God is the Ruler, distributing unto all cosmic
@@ -15847,19 +14142,13 @@ sentence entirely, as he so often does when there is difficulty.
 VOL. n. 22
 
 
-Hosted by Google
-
-
-338 THRICE-GREATEST HERMES
-
 Greek means *' seeing/' — which '^ being-seen "
 the sphere's beginning^ lacks.
 
 Hence, too, the species have the name eideai^^
 since they're of form we cannot see.
 
-Therefore, in that they are deprived of '' being-
-seen," in Greek they are called Hades ; in that
+Therefore, in that they are deprived of '' beingseen," in Greek they are called Hades ; in that
 they are at bottom ^ of the sphere, they're called
 in Latin Inferi,
 
@@ -15896,11 +14185,6 @@ highest species, viewed as " ideas."
 ^' The Latin text is hopeless. ^ Of. vii. i.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 339
-
 And [these are] not all men, but [they are]
 few, whose minds are of such quality that they
 can be receptive of so great a blessing.
@@ -15914,8 +14198,7 @@ upon, it is anon, by interjection of the Earth or
 Moon, or by the intervention of the night,
 robbed of its light.
 
-But once the [Higher] Sense hath been com-
-mingled with the soul of man, there is at-one-
+But once the [Higher] Sense hath been commingled with the soul of man, there is at-one-
 ment from the happy union of the blending
 of their natures ; so that minds of this kind
 are never more held fast in errors of the
@@ -15934,8 +14217,6 @@ sources of beginnings?
 
 Tris, Great are the mysteries which I reveal
 to thee, divine the secrets I disclose ; and so I
-
-Hosted by Google
 
 
 340 THRIOE-GREATEST HERMES
@@ -15976,8 +14257,7 @@ intellect (alone).
 ^ Sensibilis (= ot alo-dTjroi) ; lit. that which can be known by
 the senses.
 
-•' That is, the *' Sense " of those who have reached the " Tris-
-megistic " grade, though of course beyond the range of the normal
+•' That is, the *' Sense " of those who have reached the " Trismegistic " grade, though of course beyond the range of the normal
 senses.
 
 ^ The text is faulty.
@@ -15986,10 +14266,6 @@ senses.
 
 ^ Principes.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 341
 
 Next there come those whose essence ^ is their
 principal. These are the Sensible, each similar
@@ -16034,11 +14310,6 @@ ix., where the Decans are explained.
 xi. (xii.) 16, Comment. "^ That is. Fate, itfiap/neyrj.
 
 
-Hosted by Google
-
-
-342 THRICE-GREATEST HERMES
-
 by nature's law ; perpetual stability being varied
 with incessant motion.-^
 
@@ -16081,11 +14352,6 @@ Fragments (10).
 '* Cf. iv. 1 above, and the note.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 343
-
 separate, they're thought to be as many as they
 possibly can be ; but in their union it is one
 [thing], or rather two, from which all things are
@@ -16095,8 +14361,7 @@ Him, by nod of whom they're brought to pass.
 
 XX
 
-1. Asc, Is this again the reason, Thrice-
-greatest one ?
+1. Asc, Is this again the reason, Thricegreatest one ?
 
 Tris. It is, Asclepius. For God's the Father
 or the Lord of all, or whatsoever else may be
@@ -16123,10 +14388,6 @@ on "word" and "reason," but also referring to the mysterious
 
 ^ Ex sensihus = presumably, in ecstasis.
 
-Hosted by Google
-
-
-344 THRICE-GREATEST HERMES
 
 made of a syllable or two, has so been limited
 and pondered, that it might serve in man as
@@ -16155,18 +14416,13 @@ willed to procreate.
 His Will is the All-goodness, which also is the
 Goodness of all things, born from the nature of
 His own Divinity, — in order that all things may
-be, just as they all have been, and that hence-
-forth the nature of being born from their own
+be, just as they all have been, and that henceforth the nature of being born from their own
 selves may be sufficient to all things that will
 be born.
 
 ^ The text of this paragraph is very unsatisfactory,
 ^ Of. i. 1 above.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 345
 
 Let this, then, be the reason given thee,
 Asclepius, wherefore and how all things are made
@@ -16174,8 +14430,7 @@ of either sex.
 
 XXI
 
-1. Asc. Thou speak'st of God, then, Thrice-
-greatest one?
+1. Asc. Thou speak'st of God, then, Thricegreatest one?
 
 Tris. Not only God, Asclepius, but all things
 living and inanimate. For 'tis impossible that
@@ -16204,10 +14459,6 @@ and had bestowed on them, the mystery of
 
 3 Of, 1, 2, above.
 
-Hosted by Google
-
-
-346 THRICE-GREATEST HERMES
 
 bringing forth ; in which there is innate the
 sweetest Charity, [and] Joy, [and] Merriment,
@@ -16244,21 +14495,15 @@ Whence it doth come about, that in the many
 
 1 Quo ex crehro attritu prurimus ut . . . . ^^ Gf. Ex. i. 16.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 347
 
 bad inheres, through defect of the Gnosis and
 Discernment of the things that are.
 
-For that it is from the intelligence of God-
-like Eeason/ by which all things are ordered,
+For that it is from the intelligence of Godlike Eeason/ by which all things are ordered,
 there come to birth contempt and remedy of
 vice throughout the world.
 
-But when unknowingness and ignorance per-
-sist, all vicious things wax strong, and plague
+But when unknowingness and ignorance persist, all vicious things wax strong, and plague
 the soul with wounds incurable ; so that, infected
 with them, and in vitiated, it swells up, as though
 it were with poisons, — except for those who
@@ -16285,10 +14530,6 @@ common with all lives ^ ; by reason of which
 
 3 Sc. imperfections. * Lit. animals.
 
-Hosted by Google
-
-
-348 THRICE-GREATEST HERMES
 
 things it needs must be that the desires, and
 passions, and other vices, of the mind should
@@ -16297,8 +14538,7 @@ occup)^ the souls of human kind.
 3. As for the Gods, in as much as they had
 been made of Nature's fairest^ part, and have
 no need of the supports of reason and of
-discipline,^ — although, indeed, their deathless-
-ness, the very strength of being ever of one
+discipline,^ — although, indeed, their deathlessness, the very strength of being ever of one
 single age, stands in this case for prudence and
 for science, — still, for the sake of reason's unity,
 instead of science and of intellect (so that the
@@ -16328,10 +14568,6 @@ superior both to the Gods, who have been made
 '^ Ordinem — that is, Cosmos. Compare this also with the idea
 of the Gnostic Horos which '* surrounds" the Plerdma.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 349
 
 of an immortal nature only, and also to all mortal
 things.
@@ -16368,8 +14604,6 @@ man's approach," is quoted word for word in Latin by Augustine,
 De Civitate Dei, xxiii. 2 cf. (7. JET., x. (xi.) 22.
 
 3 The Latin translation of this paragraph seems confused.
-
-Hosted by Google
 
 
 350 THRICE-^GREATEST HERMES
@@ -16415,18 +14649,12 @@ means ; but cf. p. 348, n. 1.
 next chapter, down to the words "and constant worship," are
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 351
-
 mindful of the nature and the source of its
 own self.
 
 So that, just as [our] Sire and Lord did make
 the Gods seonian, that they might be like Him ;
-so hath mankind configured its own gods ac-
-cording to the likeness of the look of its own self.^
+so hath mankind configured its own gods according to the likeness of the look of its own self.^
 
 XXIV
 
@@ -16438,8 +14666,7 @@ dost thou not see how much thou even, doubtest ?
 — statues, ensouled with sense, and filled with
 spirit, which work such mighty and such [strange]
 results, — statues which can foresee what is to
-come, and which perchance can prophesy, fore-
-telling things by dreams and many other ways,
+come, and which perchance can prophesy, foretelling things by dreams and many other ways,
 — [statues] that take their strength away from
 men, or cure their sorrow, if they do so deserve.
 
@@ -16455,10 +14682,6 @@ Augustine, De Gimtate Dei, xxiii.
 
 1 Gf. XXX vii. 2 below. 2 qy^ Comment, on K, K., 46-48.
 
-Hosted by Google
-
-
-352 THRICE-GREATEST HERMES
 
 2. Further, in that 'tis fitting that the prudent
 should know all before, it is not right ye should
@@ -16480,8 +14703,7 @@ land ; and there shall be not only the neglect
 of pious cults, but — what is still more painful,
 ■ — as though enacted by the laws, a penalty shall
 be decreed against the practice of [our] pious
-cults and worship of the Gods — [entire] pro-
-scription of them.
+cults and worship of the Gods — [entire] proscription of them.
 
 3. Then shall this holiest land, seat of [our]
 shrines and temples, be choked with tombs
@@ -16498,10 +14720,6 @@ recounting !
 ^ Sepulchrorum erit mortuorumque plenissima. This sentence is
 quoted verbatim by Augustine, De Oivitate De% xxvi.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 353
 
 And Egypt will be made the home of Scyth ^
 or Indian, or some one like to them, — that is
@@ -16537,18 +14755,13 @@ For she, the Holy [Land], and once deservedly
 nor Jew, circumcision nor uncircumcision, Barbariany Scythian^
 bond nor free : but Christ is all, and in all."
 
-2 Vicina harharia ; lit. a neighbouring foreign country. Com-
-pare this with the previous note. It is strange the two, Scyth
+2 Vicina harharia ; lit. a neighbouring foreign country. Compare this with the previous note. It is strange the two, Scyth
 and barbarian, coming twice together.
 
 2 Divinitas.
 
 VOL. II. 23
 
-Hosted by Google
-
-
-354 THRICE-GREATEST HERMES
 
 the most beloved by God, by reason of her pious
 service of the Gods on earth, — she, the sole
@@ -16577,8 +14790,7 @@ reverenced, praised and loved, — by them at
 least who have the eyes to see.
 
 ^ Deductio ; the technical term for leading out a colony from
-the metroiiolis or mother city. Compare Philo, De Vita Con-
-templativa, P. 892, M. 474 (Conybeare, p. 58) : " In Egypt there
+the metroiiolis or mother city. Compare Philo, De Vita Contemplativa, P. 892, M. 474 (Conybeare, p. 58) : " In Egypt there
 are crowds of them [the Therapeiits] in every province, or nome
 as they call it, and especially at Alexandria. For they who are
 in every way the most highly advanced, lead out a colony
@@ -16588,10 +14800,6 @@ Philo's other writings.
 
 ^^ Sc. the Cosmos.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 355
 
 For Darkness will be set before the Light,
 and Death will be thought preferable to Life.
@@ -16630,10 +14838,6 @@ Lactantius (D. J., ii. 15) says that Hermes calls the daimones
 " evil angels " (ayyeXovs 7rovr]pobs\ he most probably took it from
 the Greek^original of our sermon.
 
-Hosted by Google
-
-
-356 THRICE- GREATEST HERMES
 
 and all those things that are opposed to the
 souFs nature.^
@@ -16672,10 +14876,6 @@ by the means of pestilent diseases, spread
 
 3 That is, Cosmos.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 357
 
 throughout all hostile lands, — God will recall
 the Cosmos to its ancient form^; so that the
@@ -16694,8 +14894,7 @@ without an end. For that God's Will hath no
 beginning ; and, in that 'tis the same and as it
 is, it is without an end.
 
-Asc. Because God's Nature's the Determina-
-tion ^ of the Will. Determination is the Highest
+Asc. Because God's Nature's the Determination ^ of the Will. Determination is the Highest
 Good ; is it not so. Thrice-greatest one ?
 
 1 The above passage is cited in the original Greek by Lactantius
@@ -16707,8 +14906,7 @@ it differs from our Latin translation, and runs as follows :
 then will [our] Lord and Sire, the God and Maker of the First
 and the One God, look down on what is done, and making firm
 His Will, that is the Good, against disorder, — recalling error,
-and cleaning out the bad, either by washing it away with water-
-flood, or burning it away with swiftest fire, or forcibly expelling
+and cleaning out the bad, either by washing it away with waterflood, or burning it away with swiftest fire, or forcibly expelling
 it with war and famine, — will bring again His Cosmos to its
 former state, and so achieve its Restoration."
 
@@ -16716,11 +14914,6 @@ former state, and so achieve its Restoration."
 
 3 Consilium — ^ovKi}.
 
-
-Hosted by Google
-
-
-358 THRICE-GREATEST HERMES
 
 3. Tris. Asclepius, Will is Determination's
 child ; nay, willing in itself comes from the Will.
@@ -16744,8 +14937,7 @@ Tris. ['Tis] good,^ as I will teach thee,
 Asclepius.
 
 For just as God is the Apportioner and Steward
-of good things to all the species, or [more cor-
-rectly] genera, which are in Cosmos, — that is to
+of good things to all the species, or [more correctly] genera, which are in Cosmos, — that is to
 say, of Sense,^ and Soul, and Life, — so Cosmos
 is the giver and bestower of all things which
 seem unto [us] mortals good ;— that is to say, the
@@ -16761,10 +14953,6 @@ not really so.
 
 2 Meaning higher sense, presumably ; reading senst(,s for sensibus.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 359
 
 2. Beyond the Heaven starless Space doth
 stretch, stranger to every thing possessed of
@@ -16775,8 +14963,7 @@ and Earth, is Ruler of the Space which we call
 Zeus [Above].
 
 The Earth and Sea is ruled by Zeus Below ^ ;
-he is the Nourisher of mortal lives, and of fruit-
-bearing [trees].
+he is the Nourisher of mortal lives, and of fruitbearing [trees].
 
 It is by reason of the powers of all of these ^
 that fruits, and trees, and earth, grow green.
@@ -16785,11 +14972,9 @@ The powers and energies of [all] the other
 [Gods] will be distributed through all the things
 that are.
 
-3. Yea, they who rule the earth shall be dis-
-tributed [through all the lands], and [finally] be
+3. Yea, they who rule the earth shall be distributed [through all the lands], and [finally] be
 gathered in a state,^ — at top of Egypt's upper
-part,*~-which shall be founded towards the set-
-ting sun, and to which all the mortal race shall
+part,*~-which shall be founded towards the setting sun, and to which all the mortal race shall
 speed.
 
 Asc, But now, just at this moment, where
@@ -16806,16 +14991,11 @@ the Latin translation is, as usual, at fault.
 
 ^ Or city. ^ In summo Mgypti initio.
 
-Hosted by Google
-
-
-360 THRICE-GREATEST HERMES
 
 munity/ upon the Libyan Hill.^ And now
 enough concerning this hath been declared.
 
-4. [X. M.] But now the question as to death-
-lessness or as to death must be discussed.
+4. [X. M.] But now the question as to deathlessness or as to death must be discussed.
 
 The expectation and the fear of death torture
 the multitude, who do not know True Eeason.
@@ -16847,8 +15027,7 @@ title " Death"), under the heading " Of Hermes from the [Sermons]
 to Asclepius." It runs as follows :
 
 " Now must we speak of death. For death affrights the many
-as the greatest of all ills, in ignorance of fact. Death is the dis-
-solution of the toiling frame. For when the 'number' of the
+as the greatest of all ills, in ignorance of fact. Death is the dissolution of the toiling frame. For when the 'number' of the
 body's joints becomes complete,— the basis of the body's jointing
 being number, — that body dies ; [that is,] when it no longer can
 support the man. And this is death, — the body's dissolution and
@@ -16858,10 +15037,6 @@ The directness and the sturdy vigour of the Greek original has
 clearly lost much in the rhetorical paraphrasing of the Latin
 translator.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 361
 
 escape/ but which the ignorance and unbelief of
 man think little of.
@@ -16875,8 +15050,7 @@ Tris. So, lend thy ear, Asclepius !
 XXVIII
 
 1. When, [then,] the souFs departure from
-the body shall take place, — then shall the judg-
-ment and the weighing of its merit pass into its
+the body shall take place, — then shall the judgment and the weighing of its merit pass into its
 highest daimon's power. ^
 
 And when he sees it pious is and just, — he
@@ -16902,11 +15076,6 @@ That this is a "quotation," however, I doubt very much, for if
 we compare it with D. M., iv. 31 (W. 90, 24), which very faintly
 echoes the teaching of our chaps, iv., v., xxvii., we shall find that
 
-
-Hosted by Google
-
-
-362 THRICE-GREATEST HERMES
 
 2. 'Twixt Heaven and Earth, npon the waves
 of Cosmos, is it dragged in contrary directions,
@@ -16943,8 +15112,7 @@ Gods, eternal, sealed fast with broad oaths : Whenever any one
 defiles his body sinfully with bloody gore or perjures himself in
 regard to wrongdoing, — one of those spirits who are heir to long
 life (daifiooJ/, o'ire fiaKpaicoi/es XcXdxacri ^io7o), — thrice ten thousand
-seasons shall he wander apart from the blessed, being born mean-
-while in all sorts of mortal forms ((pvofi^vov ■jravro'ia 5m xP^Vou
+seasons shall he wander apart from the blessed, being born meanwhile in all sorts of mortal forms ((pvofi^vov ■jravro'ia 5m xP^Vou
 iXBea dv7]rcov) changing one bitter path of life for another. For
 mighty Air pursues him Seaward, and Sea spews him forth on
 the threshold of Earth, and Earth casts him into the rays of the
@@ -16953,11 +15121,6 @@ him from the other, and all hate him. One of these now am I
 too, a fugitive from the gods and a wanderer, at the mercy of
 raging Strife."
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 363
 
 afraid, and [ever] be upon our guard, lest we
 should be entangled in these [toils].
@@ -16994,9 +15157,6 @@ not so hardly dealt with . . . ; whereas those who had passed their
 lives in undetected vice, under cloak and show of virtue, were
 hemmed in by the retributory agents, and forced with labour and
 pain to turn their souls inside out."
-
-
-Hosted by Google
 
 
 364 THRICI^OREATEST HERMES
@@ -17036,10 +15196,6 @@ ii. 15, and by Cyril, G. /., iv. 130.
 
 ^ Of. xiii. (xiv.) 7-9, Comment. ^ (Jf. xii. 3 above.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 365
 
 seed of the assurance of his future Deathlessness
 implanted in him.
@@ -17083,11 +15239,6 @@ it there is no place for death/
 ^ That is, the Sun.
 
 
-Hosted by Google
-
-
-366 THRICE-GREATEST HERMES
-
 life and deathlessness ; if that it needs must be
 that he should live for ever.
 
@@ -17113,8 +15264,7 @@ of Life [itself] is Cosmic Space/
 
 On which account it^ shall not stop at any
 time, nor shall it be destroyed ; for that its very
-Kself is palisaded^ round about, and bound to-
-gether as it were, by Living's Sempiternity.
+Kself is palisaded^ round about, and bound together as it were, by Living's Sempiternity.
 
 ^ See Comment on G. H., xvi. 17.
 
@@ -17132,11 +15282,6 @@ Valentinus," as set forth by Hippolytus (Philosophumena^ vi. 31) :
 
 " Moreover that the formlessness of the Abortion should finally
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 367
 
 Cosmos is [thus] Life-giver unto all that
 are in it, and is the Space of all that are in
@@ -17179,10 +15324,6 @@ creation." See F. F, F, p. 342.
 
 3 Of. a. H., xi. (xii.) 2.
 
-Hosted by Google
-
-
-368 THRICE-GREATEST HERMES
 
 there's nothing stable, nothing fixed, nothing
 immoveable, of things that are being born, in
@@ -17197,8 +15338,7 @@ He is His own immoveable stability. Nor by
 the pressure of some other one can He be moved,
 nor in the space [of anyone],
 
-4. For in Him are all [spaces], and He Him-
-self alone is in them all ; unless someone should
+4. For in Him are all [spaces], and He Himself alone is in them all ; unless someone should
 venture to assert that God's own motion s in
 Eternity^; nay, rather, it is just Immoveable
 Eternity itself, back into which the motion of
@@ -17222,18 +15362,13 @@ been made, — Cosmos the imitator of Eternity.
 
 -'■' Of. X. 3 above.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 369
 
 Time, further, hath the strength and nature
 of its own stability, in spite of its being in
 perpetual motion, — from its necessity of [ever]
 from itself reverting to itself.
 
-2. And so, although Eternity is stable, motion-
-less, and fixed, still, seeing that the movement
+2. And so, although Eternity is stable, motionless, and fixed, still, seeing that the movement
 of [this] Time (which is subject to motion) is
 ever being recalled into Eternity, — and for that
 reason Time's mobility is circular, — it comes to
@@ -17267,10 +15402,6 @@ of the Upanishads.
 
 VOL. 11. 24
 
-Hosted by Google
-
-
-370 THRICE-GREATEST HERMES
 
 transcends all appraisement; That cannot be
 supported, nor borne up, nor can it be tracked
@@ -17283,8 +15414,7 @@ stability is in Himself [alone], — w^hether [this
 mystery] be God, or the Eternity, or both, or
 one in other, or both in either.
 
-4. And for this cause, just as Eternity tran-
-scends the bounds of Time ; so Time [itself], in that
+4. And for this cause, just as Eternity transcends the bounds of Time ; so Time [itself], in that
 it cannot have bounds set to it by number^ or by
 change, or by the period of the revolution of
 some second [kind of Time], — -is of the nature
@@ -17309,18 +15439,13 @@ moveable, is not a principal/
 ^ Compare the Hymn in G. JT., v. (vi.) 10, 11.
 ■' Or Eternity. ^ Lit. does not hold the chief place.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 371
 
 For its mobility exceeds its own stability by
 treating the immoveable fixation as the law of
 everlasting movement.
 
 The Whole Sense/ then, of the Divinity,
-though like [to Him] in its own self immove-
-able, doth set itself in motion within its own
+though like [to Him] in its own self immoveable, doth set itself in motion within its own
 stability.
 
 'Tis holy, incorruptible, and everlasting, and
@@ -17356,8 +15481,6 @@ also F. F. F., p. 388.
 
 ^ Or receptacle.
 
-Hosted by Google
-
 
 372 THRICE-GKEATEST HERMES
 
@@ -17391,8 +15514,7 @@ the most tenuous sketch, or [faintest] shade, in
 Cosmos is discerned.
 
 For where is aught [of it] discerned by
-measurement of times, — wherein are seen un-
-truths, and births [-and-deaths], and errors ?
+measurement of times, — wherein are seen untruths, and births [-and-deaths], and errors ?
 
 ^ That is, the divine or higher sense, connected with memory
 in its beginnings and with the Platonic "reminiscence" (the
@@ -17400,14 +15522,9 @@ Pythagorean mathesis) in its maturity.
 
 -^ Gf. a H., X. (xi.) 19. 3 Tj^at is, Cosmos.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 373
 
 4. Thou seest, then, Asclepius, on what we are
-[already] founded, with what we occupy our-
-selves, and after what we dare to strive.
+[already] founded, with what we occupy ourselves, and after what we dare to strive.
 
 But unto Thee, God most high, I give my
 thanks, in that Thou hast enlightened me with
@@ -17434,18 +15551,13 @@ a mist, as far as the condition of the human
 sense allows.
 
 'Tis true that the extension [of the mind]
-which we possess for the survey of such tran-
-scendent things, is very narrow [still] ; but [it
+which we possess for the survey of such transcendent things, is very narrow [still] ; but [it
 
 1 Lit. breasts. 2 (y (^ jj ^ xiii. (xiv.) 22.
 
 •^ The super-cosmic Gods, or beings of the Intelligible Cosmos ;
 tbe ^ons of the Gnostics.
 
-Hosted by Google
-
-
-374 THRICE-GREATEST HERMES
 
 will be] most ample when it shall perceive with
 the felicity of [true] self-consciousness.
@@ -17460,8 +15572,7 @@ importance, — I hold the following view.
 Naught is, naught could have been, naught
 ever will be void.
 
-For all the members of the Cosmos are com-
-pletely full ; so that Cosmos itself is full and
+For all the members of the Cosmos are completely full ; so that Cosmos itself is full and
 [quite] complete with bodies, diverse in quality
 and form, possessing each its proper kind and
 size.
@@ -17485,11 +15596,6 @@ is impossible.
 
 1 Gf. a H., xi. (xil).
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 375
 
 Extra-cosmic, — if there be any (which I do not
 believe), — [then] is it filled by Him with things
@@ -17524,10 +15630,6 @@ For if it should fall out, that it should seem
 that anything is able to be void of things like
 these, — though that which seemeth void be little
 
-Hosted by Google
-
-
-376 THRICE-GREATEST HERMES
 
 or be big, it still cannot be void of spirit and
 of air.
@@ -17547,8 +15649,7 @@ space of water, space of fire, or [space] of things
 like these.
 
 For as it is impossible that aught be void ; so
-is Space also in itself not possible to be dis-
-tinguished what it is.
+is Space also in itself not possible to be distinguished what it is.
 
 For if you postulate a space without that
 [thing] of which it is [the space], it will appear
@@ -17570,10 +15671,6 @@ ye who are with [him], — know the Intelligible
 
 * Signa ; characteristics, presumably.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 377
 
 Cosmos (that is, [the one] which is discerned by
 contemplation of the mind alone) is bodiless ;
@@ -17591,8 +15688,7 @@ without God. For God is all, and by Him [are]
 all things, and all [are] of His Will.
 
 For that He is all Goodness, Fitness, Wisdom,
-unchangeable, — that can be sensed and under-
-stood by His own self alone.
+unchangeable, — that can be sensed and understood by His own self alone.
 
 Without Him naught hath been, nor is, nor
 will be.
@@ -17601,8 +15697,7 @@ will be.
 through Him, — both multitudinous qualities, and
 mighty quantities, and magnitudes exceeding
 every means of measurement, and species of all
-forms ; — which things, if thou should'st under-
-stand, Asclepius, thou wilt give thanks to God.
+forms ; — which things, if thou should'st understand, Asclepius, thou wilt give thanks to God.
 
 And if thou should'st observe it ^ as a whole,
 thou wilt be taught, by means of the True
@@ -17614,10 +15709,6 @@ sense,^ and that all things in it are wrapped
 '^ Sensihilem ; probably referring to the sensus par excellence ;
 that is, the higher or cosmic sense.
 
-Hosted by Google
-
-
-378 THRICE-GREATEST HERMES
 
 as in a vesture by that Higher Cosmos ^ [spoken
 of above],
@@ -17657,10 +15748,6 @@ produced exactly like another, — because the
 
 ^ Apparently the idea and mind.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 379
 
 moments of the hours and points of inclination
 [when they're born] are different.
@@ -17702,10 +15789,6 @@ and xxxvi. 2 below.
 ^ Of. xl. 3 below. * Species.
 5 That is, that there are genera embracing many species.
 
-Hosted by Google
-
-
-380 THRICE-GREATEST HERMES
 
 earth, and elements. For though the other
 things possess more frequent change of species,
@@ -17716,15 +15799,13 @@ changes into species.^
 
 2. Earth hath, moreover, always many changes
 in its species; — both when she brings forth
-fruits, and when she also nourishes her bringings-
-forth with the return of all the fruits ; the
+fruits, and when she also nourishes her bringingsforth with the return of all the fruits ; the
 diverse qualities and quantities of air, its
 stoppings and its Sowings ^ ; and before all the
 qualities of trees, of flowers, and berries, of
 scents, of savours — species.
 
-Fire [also] brings about most numerous con-
-versions, and divine. For these are all-formed
+Fire [also] brings about most numerous conversions, and divine. For these are all-formed
 images of Sun and Moon * ; they're, as it were,
 like our own mirrors, which with their emulous
 resplendence give us back the likenesses of our
@@ -17747,10 +15828,6 @@ cf. XXXV. 2 above.
 with two slight verbal variants, by Augustine, I)e Civitate Deiy
 xxiv., xxvi.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 381
 
 to man and reason, — gift divine, from which
 man has the name of rational animal.
@@ -17778,8 +15855,7 @@ so that the statues should, by means of these,
 possess the powers of doing good and the
 reverse.
 
-3. For thy forebear, Asclepius, the first dis-
-coverer of medicine, to whom there is a temple
+3. For thy forebear, Asclepius, the first discoverer of medicine, to whom there is a temple
 
 1 Menard thinks lie can distinguish the hand of a Christian
 scribe in this sentence, which he translates with great freedom,
@@ -17790,10 +15866,6 @@ so in error.
 
 2 That is, images. Gf. xxx. above ; and G. H.^ xvii.
 
-Hosted by Google
-
-
-382 THRICE-GREATEST HERMES
 
 hallowed on Libya's Mount/ hard by the shore
 of crocodiles,^ in which his cosmic man ^ reposes,
@@ -17840,11 +15912,6 @@ Eshmun, on the left bank of the Nile, about lat. 2T 4'.
 ^ To get wisdom. Augustine's quotation ends here.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 383
-
 easily enraged, in that they are created and
 composed of the two natures.
 
@@ -17866,8 +15933,7 @@ wage with each other frequent war.
 XXXVIII
 
 1. Asc. And of what nature, Thrice-greatest
-one, may be the quality of those who are con-
-sidered terrene Gods ?
+one, may be the quality of those who are considered terrene Gods ?
 
 Tris, It doth consist, Asclepius, of plants,
 and stones, and spices, which contain the nature
@@ -17881,10 +15947,6 @@ De Is. et Os.j Ixxii. ff.
 
 2 Or consecrated.
 
-Hosted by Google
-
-
-384 THRICE-GREATEST HERMES
 
 sweetest sounds, tuned to the key of Heaven's
 harmonious song.^
@@ -17926,15 +15988,9 @@ particulars ?
 
 * Rationis ; lit. reason. " Oatholicorum,
 
-Hosted by Google
 
-
-THE PERFECT SERMON 385
-
-Tris» That which we call Heimarmene, As-
-clepius, is the necessity of all things that
-are born/ bound ever to themselves with inter-
-linked enchainments.
+Tris» That which we call Heimarmene, Asclepius, is the necessity of all things that
+are born/ bound ever to themselves with interlinked enchainments.
 
 This, then, is either the effector of all things,
 or it is highest God, or what is made the second
@@ -17943,8 +15999,7 @@ all things both in heaven and on earth, established
 by the laws of the Divine.
 
 2. And so these twain, Fate and Necessity,
-are bound to one another mutually by insepar-
-able cohesion.^
+are bound to one another mutually by inseparable cohesion.^
 
 The former of them, the Heimarmene, gives
 birth to the beginnings of all things ; Necessity
@@ -17974,11 +16029,6 @@ and there is naught that's orderless." Of. Ex. i. 15, and Ex. xi. 1.
 VOL. XL 25
 
 
-Hosted by Google
-
-
-386 THRICE-GREATEST HERMES
-
 That Cosmos ^ is made perfect in all things ;
 for Cosmos' self is vehicled ^ in Order, or totally
 consists of Order.
@@ -17991,8 +16041,7 @@ XL
 God's Will, who rules the Cosmos by Plis Law
 and by His Holy Reason.
 
-From these, accordingly, all willing or not-
-willing is altogether foreign, according to God's
+From these, accordingly, all willing or notwilling is altogether foreign, according to God's
 WiU.^
 
 They are not moved by wrath nor swayed by
@@ -18008,8 +16057,7 @@ that are to be.
 Follows Necessity, whereby they all are forcibly
 compelled unto their end.
 
-Third, Order [comes], preserving warp-and-
-woof of [all] the things which Fate and [which]
+Third, Order [comes], preserving warp-andwoof of [all] the things which Fate and [which]
 Necessity arrange.^
 
 1 Mundus ^^GOsmoBf meaning also order in Greek.
@@ -18020,14 +16068,10 @@ Necessity arrange.^
 Preserver, and Necessity as the Destroyer or Regenerator.
 
 
-Hosted by Google
-
-
 THE PEKFECT SERMON 387
 
 This, then, is the Eternity, which neither doth
-begin nor cease to be, which, fixed by law un-
-changeable, abides in the unceasing motion of
+begin nor cease to be, which, fixed by law unchangeable, abides in the unceasing motion of
 its course.
 
 3. It rises and it sets, by turns, throughout
@@ -18042,8 +16086,7 @@ what is the beginning of their revolution ^ ; since
 they appear for ever all to go before and follow
 after their own selves.
 
-Good and bad issues,* [therefore,] are com-
-mingled in all cosmic things.
+Good and bad issues,* [therefore,] are commingled in all cosmic things.
 
 4. [XV. M.] And now it hath been told you
 on each several point, — as man hath power [to
@@ -18065,11 +16108,6 @@ symbol of which was the serpent swallowing its tail.
 ^ Evenius etfors.
 ^ Of. the conclusion of C. H., xvii.
 
-
-Hosted by Google
-
-
-388 THRICE-GREATEST HERMES
 
 XLI
 
@@ -18094,8 +16132,7 @@ Whom when Thrice-greatest heard, he grew
 distressed and said :
 
 2. [Tris,~] Nay, nay, Asclepius; speak more
-propitious words ! For this is like to profana-
-tion of [our] sacred rites, — when thou dost pray
+propitious words ! For this is like to profanation of [our] sacred rites, — when thou dost pray
 to God, to offer incense and the rest
 
 For naught is there of which He stands in
@@ -18110,10 +16147,6 @@ need, in that He is all things, or all are in Him.
 4 Suhsolanus, lying beneath the sun ; that is to say, eastern.
 ^ Cf. xxxviii. 1 above.
 
-Hosted by Google
-
-
-THE PERFECT SERMON 389
 
 But let US worship, pouring forth our thanks.
 For this is the best incense in God's sight, —
@@ -18153,10 +16186,6 @@ Sense of our intelligence, we have perceived
 
 3 Suspiaonibus ; hints, perhaps, and so phenomena.
 
-Hosted by Google
-
-
-390 THRICE-GREATEST HERMES
 
 Thy Light supreme, — Thou true Life of life,
 Fecund Womb that giveth birth to every
@@ -18186,8 +16215,7 @@ The Title
 The titles in the Latin MSS. vary. The heading
 preferred by Hildebrand is " Asclepius, or a Dialogue
 of Thrice-greatest Hermes " ; while in the Bipontine
-edition, the title stands : " Thrice- greatest Hermes Con-
-cerning the Nature of the Gods ; A Sermon addressed
+edition, the title stands : " Thrice- greatest Hermes Concerning the Nature of the Gods ; A Sermon addressed
 to Asclepius." Menard, the French translator, prefers :
 " A Sermon of Initiation, or Asclepius."
 
@@ -18195,11 +16223,6 @@ The treatise begins with a transparent gloss, in all
 probability originally the marginal note of some scribe,
 1 Or of Thy Gnosis. 2 Coenam,
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 391
 
 or student, which has improperly crept into the text.
 It runs : '' This Asclepius is my Sun-god " ; that is
@@ -18242,11 +16265,6 @@ there were probably several recensions of the same text.^
 1 See R. 195, 2.
 
 
-Hosted by Google
-
-
-392 THRICE-GREATEST HERMES
-
 Indeed, the free rendering of our translation is of
 such a nature that it is impossible to base upon it any
 certain conclusions as to the date of the original or its
@@ -18275,8 +16293,7 @@ half-hearted way. The translation, if not by Appuleius,
 is at any rate in old African Latin, and there is nothing
 in the style which absolutely forbids the possibility
 of its being by the author of The Golden Ass and the
-initiate of Isis. The strongest point, other than philo-
-logical, against tradition is that Augustine does not say
+initiate of Isis. The strongest point, other than philological, against tradition is that Augustine does not say
 the translation was by Appuleius; but this seems to
 me to be unworthy of serious consideration.
 
@@ -18284,18 +16301,12 @@ It is, of course, difficult to turn possibilities into
 probabilities, but I see no reason why the Greek
 original of our Sermon should not be assigned to the
 
-1 The so-founded opinions of Bernays and Zeller are char-
-acterized by Reitzenstein (p. 195) as of as httle value as the
+1 The so-founded opinions of Bernays and Zeller are characterized by Reitzenstein (p. 195) as of as httle value as the
 opinions which made the whole of our hterature dependent on
 New Platonism.
 
 '' Augustine's date is 354-430 a.d.
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 393
 
 earlier Hermes-Asclepian dialogues as well as to any
 others. That it was one of the most famous is evident
@@ -18345,11 +16356,6 @@ know, Asclepius, that Egypt is the image of the Heaven ?
 1 Cf, G. H., xiii. (xiv.) 14
 
 
-Hosted by Google
-
-
-394 THRICE-GREATEST HERMES
-
 — could hardly have been written by a Greek. In
 xxviii. 1, moreover, the "weighing of the merit" of
 the soul is strongly Egyptian, and so with the image
@@ -18391,10 +16397,6 @@ Tat (xli. 1).
 
 This redactor (if our analysis is correct), moreover,
 
-Hosted by Google
-
-
-THE PERFECT SERMON 395
 
 was a member of a select ^ ascetic community, judging
 at any rate by his last sentence (xli. 5) ; in which case
@@ -18419,8 +16421,7 @@ The Doctrine of the Will of God
 In the general doctrine the stress laid on the concept
 of the Will of God 2 is to be specially noticed. This
 Will seems to be almost personified, and is, of course,
-a fundamental doctrine of the Trismegistic religio-
-philosophy.^
+a fundamental doctrine of the Trismegistic religiophilosophy.^
 
 In xxvi. 1 it is identified with the Goodness* of
 God, and the Nature of God.'' But what it seems to
@@ -18440,14 +16441,8 @@ xxii. 4 ; xxv. 2 ; xxvi. 1, 2 and 3.
 6 Gf. vi. 1 ; XIV. 3.
 
 
-Hosted by Google
-
-
-396 THRICE-GREATEST HERMES
-
 literature. God and ^on are the sources of all things ;
-and ^on is " the Eternity of God, in Truth itself sub-
-sisting, the Fullness of all things" (xxxii. 1). The
+and ^on is " the Eternity of God, in Truth itself subsisting, the Fullness of all things" (xxxii. 1). The
 Will of God is thus the ^on or Pleroma, the Wisdom,
 the Energy, the Spouse of the Supreme.
 
@@ -18489,11 +16484,6 @@ discloses an Egyptian point of view.
 2 Of. G. H.f X. (xi.) 13, and Commentary.
 
 
-Hosted by Google
-
-
-THE PERFECT SERMON 397
-
 We have already noticed this use of the term in
 some of our tractates, but in our present sermon it is
 brought into great prominence. This Sense is not the
@@ -18525,23 +16515,16 @@ This Likeness is evidently the ^on or Intelligible
 Cosmos ; for the " Cosmic Sense is the Container of
 all sensibles" (xxxii. 2).
 
-In man its chief normal characteristic is the reten-
-tiveness of memory, " through which man is made
+In man its chief normal characteristic is the retentiveness of memory, " through which man is made
 ruler of the Earth" (xxxii. 2). This Sense is then
 man's continuum, the germ of everlastingness in him,
 the root-ground of consciousness (xxxii. 3), the Single
 Sense of the intelligence (xli. 4), which is fully brought
-to birth only when a man " is wholly plunged in con-
-sciousness of life (in sensu vitce)'' (xxxvii. 3), — the
+to birth only when a man " is wholly plunged in consciousness of life (in sensu vitce)'' (xxxvii. 3), — the
 "spiritual life" of the Christian Gnostics.
 
 The fact that we have only a translation to deal with
 
-
-Hosted by Google
-
-
-398 THRICE-GREATEST HERMES
 
 prevents us laying too much stress on details, but the
 general idea is clear enough ; so too with the rest of
@@ -18555,8 +16538,7 @@ These present us with problems of very great
 difficulty, and, so far, I have neither seen any solution
 nor has any occurred to me.
 
-So much work has been done on contemporary pro-
-phetic utterances of this nature, especially on the
+So much work has been done on contemporary prophetic utterances of this nature, especially on the
 Sibylline Literature, that it may be said that the
 scholastic mind has reached certain general criteria
 with regard to such pronouncements — the chief of
@@ -18578,17 +16560,11 @@ persecuted
 
 That this was in the course of the fourth century,
 however, as Keitzenstein (p. 213) supposes, seems to
-me to be, so far, destitute of any sure objective con-
-firmation ; it not only compels us to suppose that the
+me to be, so far, destitute of any sure objective confirmation ; it not only compels us to suppose that the
 prophecies are later interpolations (which they may
 possibly be), but that these interpolations are later than
 Lactantius; whereas there is every probability that
 
-
-Hosted by Google
-
-
-THE PERFECT SERMON 399
 
 the Church Father had the text of them before him,^
 and his date is the beginning of the fourth century.
@@ -18614,8 +16590,7 @@ in mind when writing these words, for he contrasts the
 be characteristic of General Christianity.
 
 If, however, his words may be said to include also
-Gnostic Christianity, then he was clearly not in sym-
-pathy with it ; but this can hardly be the case, seeing
+Gnostic Christianity, then he was clearly not in sympathy with it ; but this can hardly be the case, seeing
 that the resemblances between the Trismegistic and
 Christian Gnosis are of a very intimate nature.
 
@@ -18633,7 +16608,3 @@ Serapeum by the Christians themselves in 389 a.d.
 1 See XXV. 4, and note.
 
 
-Hosted by Google
-
-
-Hosted by Google

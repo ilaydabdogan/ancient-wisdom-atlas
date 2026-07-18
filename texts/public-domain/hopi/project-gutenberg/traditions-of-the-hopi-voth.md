@@ -1,3 +1,68 @@
+---
+id: native_american.traditions_of_the_hopi.voth_archive
+title: The Traditions of the Hopi
+alternate_titles:
+- Hopi Traditions
+text_status: complete
+tradition: hopi
+culture: hopi_oral_traditions_ethnographic_collection
+region: north_america_southwest
+source_language: Hopi
+text_language: English
+date_range: living oral tradition; recorded c. 1893-1904, published 1905
+source_type: oral_tradition_collection
+provenance:
+  source_id: source.internet_archive.traditionshopi00vothgoog
+  edition: Internet Archive full-text OCR (_djvu.txt) of the 1905 Field Columbian
+    Museum edition (Google scan)
+  translator: H. R. Voth
+  editor: ''
+  publication_year: 1905
+  publisher: Internet Archive
+  source_url: https://archive.org/details/traditionshopi00vothgoog
+  access_date: '2026-07-17'
+rights:
+  status: public_domain
+  jurisdiction: US
+  license_url: https://creativecommons.org/publicdomain/mark/1.0/
+  training_use: allowed
+  full_text: allowed
+  notes: Published 1905, US public domain. Significant cultural sensitivity - Voth,
+    a missionary, documented Hopi narratives and ceremonies in ways the Hopi have
+    long objected to, including material considered esoteric. Handle with explicit
+    provenance caveats; prefer non-ceremonial narrative tales for extraction and flag
+    contested material.
+trademark:
+  status: present
+  marks:
+  - Project Gutenberg
+  use_rules: Use only as factual source attribution; do not use the mark as repository
+    branding.
+transcription:
+  mode: normalized
+  complete: true
+  corrections: []
+  omissions:
+  - Distributor header, license footer, start/end markers, and production boilerplate
+    were removed.
+  - Raw source capture is preserved under imports/raw for auditability.
+tags:
+- hopi
+- pueblo
+- emergence
+- katsina
+- southwest
+motifs:
+- emergence_through_worlds
+- migration_narrative
+- flood
+- reciprocity_with_spirits
+figures:
+- Spider_Woman
+- Maasaw
+- Hero_Twins
+---
+
 # The Traditions of the Hopi
 
 This is a digital copy of a book that was preserved for generations on library shelves before it was carefully scanned by Google as part of a project
@@ -41,6 +106,9 @@ discover the world's books while helping authors and publishers reach new audien
 
 
 at jhttp : //books . qooqle . com/
+
+
+4
 
 
 -• '.
@@ -365,7 +433,8 @@ Huruing Wuhti, 2 the deity of all hard substances, lived in the ocean.
 Her house was a kiva like the kivas of the Hopi of to-day. To the
 ladder leading into the kiva were usually tied a skin of a gray fox and
 one of a yellow fox. Another Huruing Wuhti lived in the ocean in
-the west in a similar kiva, but to her ladder was attached a turtleshell rattle.
+the west in a similar kiva, but to her ladder was attached a turtle-
+shell rattle.
 
 The Sun also existed at that time. Shortly before rising in the east
 the Sun would dress up in the skin of the gray fox, whereupon it
@@ -401,6 +470,8 @@ in Hopi mythology and ceremonies is Hard Being Woman, i. e.. woman of that which
 the Hopi sav she is the owner of such hard objects as shells, corals, turquoise, beads, etc.
 
 
+2 Field Columbian Museum — Anthropology, Vol. VIII.
+
 deity of the east made a wren of clay, and covered it up with a piece
 of native cloth (mochapu). Hereupon they sang a song over it, and
 after a little while the little bird showed signs of life. Uncovering it,
@@ -426,10 +497,12 @@ asked. "Yes, we want you'to inhabit this world." Hereupon the
 two deities taught every kind of bird the sound that it should make,
 and then the birds scattered out in all directions
 
-Hereupon the Huruing Wuhti of the west made of clay all different kinds of animals, and they were brought to life in the same
+Hereupon the Huruing Wuhti of the west made of clay all dif-
+ferent kinds of animals, and they were brought to life in the same
 manner as the birds. They also asked the same question: "Why do
 you want us so quickly?" "We want you to inhabit this earth,"
-was the reply given them, whereupon they were taught by their creators their different sounds or languages, after which they proceeded
+was the reply given them, whereupon they were taught by their crea-
+tors their different sounds or languages, after which they proceeded
 forth to inhabit the different parts of the earth. They now concluded
 that they would create man. The deity of the east made of clay
 first a woman and then a man. who were brought to life in exactly
@@ -493,11 +566,14 @@ White Man, and the people say that they lx'lieve this lan^ua^c taught to these t
 lanKiui^e of the present White Man
 
 
+4 Field Columbian Museum — Anthropology, Vol. VIII.
+
 very long before they commenced to quarrel with each other. "I
 wanf to live here alone," the woman said. "I can prepare food for
 myself." "Yes, but who will get the wood for you? Who will work
 the fields?" the man said. "We had better remain together." They
-made up with each other, but peace did not last. They soon quarreled again, separated for a while, came together again, separated
+made up with each other, but peace did not last. They soon quar-
+reled again, separated for a while, came together again, separated
 again, and so on. Had these people not lived in that way, all the
 other Hopi would now live in peace, but others learned it from them,
 and that is the reason why there are so many contentions between
@@ -514,9 +590,11 @@ had created came in contact with these good people there was trouble.
 The people at that time led a nomadic life, living mostly on game.
 Wherever they found rabbits or antelope or deer they would kill the
 game and eat it. This led to a good many contentions among the
-people. Finally the Woman of the west said to her people: "You.. remain here; I am going to live, after this, in the midst of the ocean in
+people. Finally the Woman of the west said to her people: "You.. re-
+main here; I am going to live, after this, in the midst of the ocean in
 the west. When you want anything from me, you pray to me there."
-Her people regretted this very much, but she left them. The Huruing Wuhti of the east did exactly the same thing, and that is the
+Her people regretted this very much, but she left them. The Huru-
+ing Wuhti of the east did exactly the same thing, and that is the
 reason why at the present day the places where these two live are
 never seen.
 
@@ -528,12 +606,15 @@ whom the Hopi believe that they still remember them.
 The Spanish were angry at Huruing Wuhti and two of them took
 their guns and proceeded to the abiding place of the deity. The
 Spaniards are very skillful and they found a way to get there. When
-they arrived at the house of Huruing Wuhti the latter at once surmised what their intentions were. "You have come to kill me,"
+they arrived at the house of Huruing Wuhti the latter at once sur-
+mised what their intentions were. "You have come to kill me,"
 she said; "don't do that; lay down your weapons and I shall show
 you something; I am not going to hurt you." They laid down their
 arms, whereupon she went to the rear end of the kiva and brought
 out a white lump like a stone and laid it before the two men, asking
 
+
+March, 1905. The Traditions of the Hopi — Voth. 5
 
 them to lift it up. One tried it, but could not lift it up, and what
 was worse, his hands adhered to the stone. The other man tried to
@@ -549,7 +630,8 @@ he should exchange it with others for other good things that they
 know and have. If you will agree to this I shall release you. They
 said they did, and that they would no more try to kill the deity.
 Then the latter went to the rear end of the kiva where she disappeared
-through an opening in the floor, from where she exerted a secret influence upon the stone and thus released the two men. They de-
+through an opening in the floor, from where she exerted a secret in-
+fluence upon the stone and thus released the two men. They de-
 parted, but Huruing Wuhti did not fully trust them, thinking that
 they would return, but they never did.
 
@@ -580,10 +662,13 @@ we shall own all things together." "Yes," Huruing Wuhti said,
 or controlled by Hurtling Wuhti. The informant did not know the songs mentioned in this tale.
 
 
+6 Field Columbian Museum — Anthropology, Vol. VIII.
+
 "now let us create something for you." "All right, thank you,"
 the Sun replied.
 
-Hereupon they entered another chamber which was very beautiful, and there all kinds of the skins of different kinds of animals and
+Hereupon they entered another chamber which was very beauti-
+ful, and there all kinds of the skins of different kinds of animals and
 birds were hanging. So Huruing Wuhti got out a bundle and placed
 it on the floor. It was a large piece of old native cloth (mochdpu).
 She then placed on the floor all kinds of bird skins and feathers.
@@ -601,7 +686,8 @@ began to emit sounds, whistling and chirping the way the different birds
 do. Hereupon Huruing Wuhti took off the covering saying: "We
 are done, be it this way." There were all different kinds of birds,
 those that fly around in the summer when it is warm. As she took
-off the covering the birds commenced to fly, passed through the opening and flew out into the air, but soon all returned, gathering again
+off the covering the birds commenced to fly, passed through the open-
+ing and flew out into the air, but soon all returned, gathering again
 in front of the two. "You shall own these," Huruing Wuhti said to
 the Sun, "they are yours." "Thanks," the Sun replied, "that they
 are mine." Huruing Wuhti then handed to the Sun a large jar made
@@ -615,12 +701,16 @@ a little quantity of the different kinds of paints that he was painted
 up with. He then let his beard (rays) drop upon these objects, also
 shook his wings towards them. They then covered up the things
 again, each took hold of two corners of the covering, and the Sun
-then sang a song. Soon something began to move under the covering, and when they removed the latter an antelope, deer, cotton-tail
-rabbit, jack-rabbit, and mountain sheep jumped up, and after running around in the large room for a while, they returned and assembled
+then sang a song. Soon something began to move under the cover-
+ing, and when they removed the latter an antelope, deer, cotton-tail
+rabbit, jack-rabbit, and mountain sheep jumped up, and after run-
+ning around in the large room for a while, they returned and assembled
 again in front of the two. "You take these, you shall own them,"
 the Sun said to Huruing Wuhti. "All right, thank you," the latter
 said. Hereupon these animals took places close to the Huruing-
 
+
+March, 1905. The Traditions of the Hopi — Voth. 7
 
 Wuhti, whom they considered as their mother afterwards. "You
 shall own these, they shall be yours/' the Sun said once more to
@@ -628,7 +718,8 @@ Huruing Wuhti, for which she thanked him.
 
 The latter then put the Sun into an opening in the floor of the
 house, through which the Sun departed with the vessel containing
-the birds. After having passed through the opening, the Sun returned under the earth to the east again, and when he came out he
+the birds. After having passed through the opening, the Sun re-
+turned under the earth to the east again, and when he came out he
 turned over the land which belonged to Huruing Wuhti, and which
 had been under water, and by so doing made the world (tawakachi)
 land. The Sun at once noticed a great many beings come out of the
@@ -639,15 +730,20 @@ White People (Bahdnas), some Spaniards (Castflians), and others
 Mormons (Mdmona). He then poured out of the jar all the birds,
 which then went flying around in the air and increased.
 
-From this time on the Sun always went towards the west, entering the house of Huruing Wuhti, passing out below, and returning
+From this time on the Sun always went towards the west, enter-
+ing the house of Huruing Wuhti, passing out below, and returning
 to the east again. When he came there this time Huruing Wuhti said :
-"Have you come?" "Yes," the Sun said. "Thanks," the Huruing Wuhti replied, "let us create something again. What have you
-found out?" "Yes," the Sun said, "land has come out everywhere, and everything is beautiful, and the water is beautiful, too,
+"Have you come?" "Yes," the Sun said. "Thanks," the Huru-
+ing Wuhti replied, "let us create something again. What have you
+found out?" "Yes," the Sun said, "land has come out every-
+where, and everything is beautiful, and the water is beautiful, too,
 Now, to-morrow when I shall rise there will be blossoms and flowers and
 grass all over the land." "Very well," Huruing Wuhti said, "but
-let us make something now again. What shall we make?" Hereupon she fed the Sun honey, and other good food. When the Sun
+let us make something now again. What shall we make?" Here-
+upon she fed the Sun honey, and other good food. When the Sun
 was through eating, Huruing Wuhti again said : "Well, now, what shall
-we make? Let us use the covering again," placing the same covering that they had used upon the floor. Hereupon Huruing Wuhti
+we make? Let us use the covering again," placing the same cover-
+ing that they had used upon the floor. Hereupon Huruing Wuhti
 rubbed her legs and feet, rubbing off some more particles of cuticle.
 These she took into her hands, working them into a small ball, which
 she placed on the floor, and covered it up with the mdch£pu. They
@@ -656,14 +752,18 @@ Wuhti singing a song. Soon something moved under the covering and
 the crying of a little child was heard, which soon said: "I am hot,
 I am perspiring." They uncovered it and found a little maiden.
 "O my!" Huruing Wuhti said: "Only one has been created. That
-is not good, it must not be this way. " Hereupon she put on the covering again and then repeated the song. Soon a second voice was
+is not good, it must not be this way. " Hereupon she put on the cov-
+ering again and then repeated the song. Soon a second voice was
 heard, and removing the covering they found a little boy, the little
 brother of the mana. His first sound was a groan as that of a
 
 
+8 Field. Columbian Museum — Anthropology, Vol. VIII.
+
 small child. Hereupon he also said: "I am very warm," and wiped
 off the perspiration from his face and body. "Have you come?"
-Huruing Wuhti said. "Yes, we have come." "Thanks," she replied.
+Huruing Wuhti said. "Yes, we have come." "Thanks," she re-
+plied.
 
 They were brother and sister. So the children sat up. "Have
 you anything to say?" Huruing Wuhti asked them. "Yes," they
@@ -673,10 +773,12 @@ on this earth. That is why I want you. So I want you to go eastward
 now, and wherever you find a good piece of land, there you settle
 down. By and by others, too, shall come to you. ' ' Before they
 started the Sun asked Huruing Wuhti who these two were, how
-they should be called ? And Huruing Wuhti named the youth Muyingwa, and the maiden Yalioya. Hereupon the two started and left.
+they should be called ? And Huruing Wuhti named the youth Muy-
+ingwa, and the maiden Yalioya. Hereupon the two started and left.
 
 The Sun and Huruing Wuhti prepared to create some more. It
-was at this time still night. Huruing Wuhti now rubbed her abdomen with both hands, and took from her umbilicus a small quantity
+was at this time still night. Huruing Wuhti now rubbed her abdo-
+men with both hands, and took from her umbilicus a small quantity
 of the scales which she twisted together. All this scaly matter, thus
 rubbed from her body, she then placed on the floor, covering it up
 with the aforesaid cloth. They again took hold of the corners, sang
@@ -687,7 +789,8 @@ She wiped off the perspiration from her body with some sand that
 was on the floor, and sat up. Huruing Wuhti told her not to rub her
 body any more, as the sand had already adhered to her body and
 the latter was dry. She hereupon told the maiden that she should
-be called Sand Clan member (Tuwa-wungwa), and Lizard Clan member (Kukuts-wungwa). Huruing Wuhti hereupon sent the maiden
+be called Sand Clan member (Tuwa-wungwa), and Lizard Clan mem-
+ber (Kukuts-wungwa). Huruing Wuhti hereupon sent the maiden
 off after the other two, giving her, however, one grain of shelled corn
 before she left.
 
@@ -704,6 +807,8 @@ Huruing Wuhti said, "we have made this beautiful world here and
 there is hardly anybody living there yet, and that you should live here
 
 
+March. 1905. The Traditions of the Hopi — Voth. 9
+
 somewhere we wanted you." She then said that the mdna should
 be a Burrowing Owl Clan member (K6kop-wungwa), and the youth
 Coyote Clan member (Ish-wungwa). Hereupon she gave one grain
@@ -716,8 +821,10 @@ grunt, and another one seemed to be angry, so after they had partly
 lifted up the covering they dropped it again, but the two under it
 said, "Remove that, we are very hot." So they removed it and
 there was one child like a Hopi. It was the one that had grunted like
-a bear. To this one Huruing Wuhti gave the name Bear Clan member (H6n-wungwa). She gave a grain of shelled corn to him and
-sent him on. The other, Head-with-the-Hair-Pushed-over-it-Backward (Talqoto), was a Navaho, and to him Huruing Wuhti gave a
+a bear. To this one Huruing Wuhti gave the name Bear Clan mem-
+ber (H6n-wungwa). She gave a grain of shelled corn to him and
+sent him on. The other, Head-with-the-Hair-Pushed-over-it-Back-
+ward (Talqoto), was a Navaho, and to him Huruing Wuhti gave a
 little piece of spoiled meat and sent him on. This is the reason why
 the Navaho use meat, instead of corn like the Hopi.
 
@@ -755,8 +862,10 @@ the maidens, and that led to very many contentions. So the chiefs,
 who were worried and angry over this, had a council and concluded
 that they would try to find another place to live. So they first sent
 out a bird named M6tsni, to find a place of exit from this world. He
-flew up high but was too weak and returned without having been successful. They then sent the Mocking-bird (Ydhpa). He was strong
-and flew up very high and found a place of exit. Returning, he reported this to the chiefs.
+flew up high but was too weak and returned without having been suc-
+cessful. They then sent the Mocking-bird (Ydhpa). He was strong
+and flew up very high and found a place of exit. Returning, he re-
+ported this to the chiefs.
 
 In the meanwhile the chiefs had caused a great flood. Many
 Bdl6l6okongwuus 2 came out of the ground with the water, and a great
@@ -775,8 +884,10 @@ they found that it was fairly strong, but not strong enough for many
 people to climb up on, especially its branches, which were very thin.
 So they planted another kind of pine (ldoqd), sang around it, and made
 it also to grow up fast. This tree and its branches was much stronger
-than the other, but while the first one had grown through the opening, this one did not reach it entirely, its uppermost branches and
-twigs spreading out sideways before they reached the opening. Hereupon they planted in the same manner a reed (bdkavi), which proved
+than the other, but while the first one had grown through the open-
+ing, this one did not reach it entirely, its uppermost branches and
+twigs spreading out sideways before they reached the opening. Here-
+upon they planted in the same manner a reed (bdkavi), which proved
 to be strong, and also grew through the opening like the calavi.
 Finally they planted a sunflower (dhkawu), and as it was moist where
 they planted it, it also grew up very fast and to a great size, its
@@ -791,27 +902,32 @@ Now they were done with this.
 
 March, 1905. The Traditions of the Hopi — Voth. i 1
 
-Hereupon Spider Woman, Pook6nghoya, his brother Baldongawhoya, and the Mocking-bird that had found the opening, climbed up
+Hereupon Spider Woman, Pook6nghoya, his brother Baldongaw-
+hoya, and the Mocking-bird that had found the opening, climbed up
 on the catevi in the order mentioned. After they had emerged
 through the opening, Pook6nghoya embraced the caldvi, his brother
 the reed, both holding them firmly that they should not shake when
 the people were climbing up. The Mocking-bird sat close by and
 sang a great many songs, the songs that are still chanted at the
-WawQchim ceremony. Spider Woman was also sitting close by watching the proceedings. Now the people began to climb up, some on the
+WawQchim ceremony. Spider Woman was also sitting close by watch-
+ing the proceedings. Now the people began to climb up, some on the
 caldvi, others on the ldoqo, still others on the ahkavu and on the
 bdkavi. As soon as they emerged, the Mocking-bird assigned them
 their places and gave them their languages. To one he would say :
 "You shall be a Hopi, and that language you shall speak." To
 another : "You shall be a Navaho, and you shall speak that language."
-And to a third: "You shall be an Apache," "a Mohave," "a Mexican," etc., including the White Man. The language spoken in the
-under world had been that of the following Pueblo Indians : Kawdhykaka, Akokavi, Kdtihcha, Kotiyti; these four branches of the Pueblo
+And to a third: "You shall be an Apache," "a Mohave," "a Mexi-
+can," etc., including the White Man. The language spoken in the
+under world had been that of the following Pueblo Indians : Kawdhy-
+kaka, Akokavi, Kdtihcha, Kotiyti; these four branches of the Pueblo
 Indians speaking essentially the same language.
 
 In the under- world the people had been very bad, there being many
 sorcerers and dangerous people, just like there are in the villages to-day
 who are putting diseases into the people. Of these P6pwaktu, one
 also found his way out with the others. The people kept coming out,
-and before they were all out the songs of the Mocking-bird were exhausted. "Hapf! pai shulahti! Now! (my songs) are gone, "and at
+and before they were all out the songs of the Mocking-bird were ex-
+hausted. "Hapf! pai shulahti! Now! (my songs) are gone, "and at
 once the people who were still on the ladders commenced returning
 to the under-world, but a very great many had already come out, an
 equally large number having remained in the under-world, but the
@@ -832,17 +948,22 @@ throw down again through the sfpapu." Hereupon he threw the
 ball upward to a great height, the people all standing and watching.
 
 
-When it came down it fell upon the head of some one and was shattered. "Ishohi! so you are the one," the chief said to him. But as
+12 Field Columbian Museum — Anthropology, Vol. VIII.
+
+When it came down it fell upon the head of some one and was shat-
+tered. "Ishohi! so you are the one," the chief said to him. But as
 it happened this was the chief's nephew (his younger sister's son). 1
 "My nephew, so you are nukpana (dangerous); why have you come
 out with us? We did not want any bad ones here, and now you have
 come with us. I am going to throw you back again. " So he grabbed
 him in order to throw him back. "Wait," he said, "wait! I am
 going to tell you something. " "I am going to throw you back, " the
-chief replied. "Wait," his nephew said again, "until I tell you something. You go there to the sfpahpuni and you look down. There he
+chief replied. "Wait," his nephew said again, "until I tell you some-
+thing. You go there to the sfpahpuni and you look down. There he
 is walking." "No, he is not," the chief replied, "I am not going to
 look down there, he is dead." But he went and looked down and
-there he saw his boy running around with other children, still showing the signs of the head washing which the Hopi practice upon the
+there he saw his boy running around with other children, still show-
+ing the signs of the head washing which the Hopi practice upon the
 dead immediately after death. "Yes, it is true, it is true," the chief
 said, "truly there he is going about." "So do not throw me down
 there," his nephew said, "that is the way it will be. If any one dies
@@ -883,7 +1004,8 @@ found out? Have you found anybody?" "Yes," he said, "I have
 found somebody and he has a good crop there. " Skeleton had fed
 the messenger with some of his good things which he had there. The
 people had not brought much food with them from below and so they
-had not very much left. The people were very glad for this invitation and went to the place where Skeleton lived. But when they saw
+had not very much left. The people were very glad for this invita-
+tion and went to the place where Skeleton lived. But when they saw
 the small field they thought: "Well, that will be gone in a very short
 time," but Skeleton always planted and the food was never gone.
 When they came there they gathered some wood and built a fire and
@@ -899,7 +1021,8 @@ and when they now had provisions they planned to start off again,
 but there was still no sun, and it was cold. So they talked about this,
 saying: "Now, it ought not remain this way. " So the chiefs all met
 in council with Skeleton, and talked this matter over in order to see
-whether they could not make a sun as they had had it in the underworld, but they did not just know how to do it. So they finally took
+whether they could not make a sun as they had had it in the under-
+world, but they did not just know how to do it. So they finally took
 a piece of dressed buffalo hide (hakwavu), which they cut in a round
 shape, stretched it over a wooden ring, and then painted it with
 white dtima (kaoline). They then pulverized some black paint
@@ -914,12 +1037,15 @@ They then selected some one (the story does not say whom) and
 directed him to stand on this moon symbol. Hereupon the chiefs
 took the cloth by its corners, swung it back and forth, and then threw
 it upward, where it continued swiftly flying eastward into the sky.
-So the people sat and watched. All at once they noticed that it became light in the east. Something was burning there as they thought.
+So the people sat and watched. All at once they noticed that it be-
+came light in the east. Something was burning there as they thought.
 The light became brighter and brighter, and something came up in
 the east. It rose higher and higher, and where the people were it
 
 1 These paints are still universally used in their ceremonies.
 
+
+14 Field Columbian Museum — Anthropology, Vol. VIII.
 
 became lighter and lighter. So now they could go about and they
 were happy. That turned out to be the moon, and though it was light,
@@ -929,7 +1055,8 @@ see very distinctly, and it was still cold and the people were freezing,
 and they still had to keep the ground warm with fires. So the people
 were thinking about it. The chiefs again met in council, and said:
 "Ishohf! It is better already, it is light, but it is not quite good yet,
-it is still cold. Can we not make something better?" They concluded that perhaps the buffalo skin was not good, and that it was
+it is still cold. Can we not make something better?" They con-
+cluded that perhaps the buffalo skin was not good, and that it was
 too cold, so they decided that this time they would take a piece of
 m6ch£pt# They again cut out a round piece, stretched it over a
 ring, but this time painted it with oxide of copper (c£kwa). They
@@ -938,12 +1065,15 @@ what this was to resemble in yellow, red, and other colors. They
 put a ring of corn-husks around it, which were worked in a zigzag
 fashion.' Around this they tied a t&wahona, that is, a string of red
 horse-hair, finally thrusting a number of eagle-tail feathers into a
-corn-husk ring, fastened to the back of the disk. In fact, they prepared a sun symbol as it is still worn on the back of the flute players
+corn-husk ring, fastened to the back of the disk. In fact, they pre-
+pared a sun symbol as it is still worn on the back of the flute players
 in the Flute ceremony. To the forehead of the face painted on the
 disk they tied an abalone shell. Finally the chief made nakwdkwosis
-of the feathers of a small yellowish bird, called ir£hoya, which resembles a fly-catcher, but has some red hair on top of the head."
+of the feathers of a small yellowish bird, called ir£hoya, which resem-
+bles a fly-catcher, but has some red hair on top of the head."
 
-Of these nakw^kwosis the chief tied one to the point of each eagletail feather on the sun symbol. They then placed this symbol on
+Of these nakw^kwosis the chief tied one to the point of each eagle-
+tail feather on the sun symbol. They then placed this symbol on
 the white cloth again, again asked some one to stand on it, and, as
 in the case of the moon, they swung the cloth with its contents into
 the air, where it kept twirling upward and upward towards the east.
@@ -973,7 +1103,8 @@ March, 1905. The Traditions of the Hopi — Voth. i 5
 
 the sun had been created and was rising day after day, the people
 were very happy, because it was now warm and very light, so that
-they could attend to their work very well. The children were running around and playing. They were now thinking of moving on.
+they could attend to their work very well. The children were run-
+ning around and playing. They were now thinking of moving on.
 They had a great many provisions by this time, and so the chiefs
 again met in a council to talk the matter over. "Let us move away
 from here/' the chiefs said; "let us go eastward and see where the
@@ -992,13 +1123,15 @@ and made wars on other people. When starting, the chiefs had
 agreed that as soon as one of the parties should reach the place where
 the sun rises, many stars would fall from the sky, and when that would
 happen all the traveling parties should remain and settle down where
-they would be. at that time. The White People having taken a southern route, were more gifted than the other people. When they had
+they would be. at that time. The White People having taken a south-
+ern route, were more gifted than the other people. When they had
 become very tired carrying their children and their burdens, one of
 the women bathed herself and took the scales that she had rubbed
 off from her body and made horses of these scales. These horses
 they used after that for traveling, so that they could proceed very
 much faster. In consequence of this they arrived at the place where
-the sun rises before any of the other parties arrived there. And immediately many stars fell from the sky. "Aha!" the people said who
+the sun rises before any of the other parties arrived there. And im-
+mediately many stars fell from the sky. "Aha!" the people said who
 were still traveling; "Some one has already arrived." Hereupon
 they settled down where they were. It had also been agreed upon
 before the different parties started, that whenever those who did not
@@ -1023,10 +1156,12 @@ here now, and at last the people participated in this. They, too,
 began to talk bad and to be bad. And then those who have not a
 single heart, the sorcerers, that are very bad, began to increase and
 became more and more. The people began to live the way we are
-living now, in constant contentions. Thus they were living. Nobody would listen any more. They became very bad. They would
+living now, in constant contentions. Thus they were living. No-
+body would listen any more. They became very bad. They would
 take away the wives of the chiefs.
 
-The chiefs hereupon became angry and they planned to do something to the people, to take revenge on them. They began to think
+The chiefs hereupon became angry and they planned to do some-
+thing to the people, to take revenge on them. They began to think
 of escaping. So a few of the chiefs met once and thought and talked
 about the matter. They had heard some sounds away up, as of
 footsteps, as if somebody was walking there, and about that they
@@ -1046,13 +1181,16 @@ we thought maybe you could go up there and see about that and find
 out for us, and that is the reason why we want you." "All right,"
 the Pawaolcaya said, "all right, I shall go up there and find out about
 it." Hereupon the chief planted a lrtoqo (species of pine or fir), but
-they saw that it did not reach up, but that its point was turning downward. Hereupon they planted a reed by the side of the pine and that
+they saw that it did not reach up, but that its point was turning down-
+ward. Hereupon they planted a reed by the side of the pine and that
 reached up. They then told the Pawaofcaya to go up now and if he
 
 1 Told by Yukioma (Oraibi).
 
 * Species of bird of a bluish black color.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 17
 
 should find anybody to tell him and then if he were willing they
 would go.
@@ -1081,7 +1219,8 @@ go up there for us and see what you can find out, and if the one up
 there is kind and good, we think of going up there, and that is the
 reason why we want you. So you go up there; you hunt somebody,
 and if he is gentle and kind, we shall go up there." So the Tohcha
-flew upward, circling around the two trees, went through the opening and flew around and around, and not finding anybody also became
+flew upward, circling around the two trees, went through the open-
+ing and flew around and around, and not finding anybody also became
 tired and came back. He flew lower and lower and alighted in front
 of the chiefs, exhausted. When he had somewhat revived, they
 asked him: "Now, then, what have you heard, what have you found
@@ -1150,6 +1289,8 @@ kind, we are welcome, and we are going."
 At that time there were all kinds of people living down there, the
 
 
+March, 1905. The Traditions of the Hopi — Voth. 19
+
 White Man, the Paiute, the Pueblo; in fact, all the different kinds of
 people except the Zufti and the Kdhonino, who have come from
 another place. Of all these people some whose hearts were not very
@@ -1169,13 +1310,15 @@ no more must come, this is enough." So they commenced to climb
 up the reed, first the different chiefs, the Village chief (Kfk-mongwi),
 who was also at the same time the Soydl-mongwi, the Flute chief
 (L4n-mongwi), Horn chief (Al-mongwi), Agave chief (Kwdn-mongwi),
-Singer chief (T£o-mongwi), Wtiwuchim chief (K£l-mongwi), Rattlesnake chief (Tcti-mongwi), Antelope chief (Tcdb-mongwi) , Maraii
+Singer chief (T£o-mongwi), Wtiwuchim chief (K£l-mongwi), Rattle-
+snake chief (Tcti-mongwi), Antelope chief (Tcdb-mongwi) , Maraii
 chief (Marau-mongwi), Lag6n chief (Lag6n-mongwi), and the Warrior
 chief (Katehtak-mongwi or P6okong). And then the people followed
 and a great many went out. By this time the people in the lower
 world had heard about this, and they now came crowding from all
 sides towards the trees. When the Kfk-mongwi above there saw that
-so many were coming he called down to stop. "Some of those Popwaktu," he said, "are going to come up too, I think, so that is enough,
+so many were coming he called down to stop. "Some of those Pop-
+waktu," he said, "are going to come up too, I think, so that is enough,
 stop now!" He then commenced to pull up the reed so that a great
 many people that were still on it dropped back.
 
@@ -1193,6 +1336,8 @@ and died. 'Ishohf!" the chief said, "A Powdka has come out with
 us," and they were thinking about it. Then he made a ball of fine meal
 and threw it upward, and it alighted on the head of a maiden. So
 
+
+20 Field Columbian Museum — Anthropology, Vol. VIII.
 
 he went there and grabbed her, saying: "So you are the one. On
 your account my child has died. I shall throw you back again."
@@ -1241,9 +1386,12 @@ t" the belief of the Hopi that the souls of the dead remain in the fjrave three 
 fyravc on the fourth day to travel to the skeleton house to live with the departed Hopi.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 21
+
 was dear and sacred to the Hopi chief, and he wanted to keep it alone
 to himself and for the Hopi, but did not want the people who would
-scatter out to take this language along, and so he asked the Mockingbird (Y£hpa), who talks everything, to give to the different people
+scatter out to take this language along, and so he asked the Mocking-
+bird (Y£hpa), who talks everything, to give to the different people
 a different language. This the Mocking-bird did, giving to one
 party one language, to another party another language, and so on,
 telling them that these languages they should henceforth speak.
@@ -1280,12 +1428,15 @@ their heads.
 The elder brother and his party started first, and they became the
 White Men as they traveled eastward. The chief and his party
 started next, both taking a southern route. The maiden that had
-been found to be a Powdka.and who had been left behind at the opening, followed these two parties after they had left.
+been found to be a Powdka.and who had been left behind at the open-
+ing, followed these two parties after they had left.
 
 The people hereupon formed different parties, each party following
 
 : A stew prenaml «>f mutton, shelled imi-ti, rtt .
 
+
+22 Field Columbian Museum — Anthropology, Vol. VIII.
 
 a certain chief, and all traveling eastward. They usually stopped
 for longer or shorter periods at certain places, and then traveled on
@@ -1316,7 +1467,8 @@ bduypi out of the ground and took it with them.
 
 Before any of the parties had arrived at the place where the Hopi
 now live they began to become bad. Contentions arose among the
-parties. They began to war against each other. Whenever a certain party possessed something, another party would attack and kill
+parties. They began to war against each other. Whenever a cer-
+tain party possessed something, another party would attack and kill
 them on account of those possessions. For that reason some of them
 built their villages on top of the bluffs and mesas, because they were
 afraid of other parties. Finally some of them arrived at Mtienkapi. 1
@@ -1335,6 +1487,8 @@ that is now called the Great Lakes, and arrived at Shong6pavi, where
 party found the dead bear.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 23
+
 they started a village at the place where now the ruins of old Shong6-
 pavi are, east of the present village. These people were also called
 the Bear clan, but they were different Bear people from those living
@@ -1345,7 +1499,8 @@ all the time. The clan that had stopped northeast of Muenkapi soon
 moved -to the place where Muenkapi now is, but did not remain there
 long. The Bear clan, the Hide Strap clan, and the Blue-bird clan
 soon moved on towards Orafbi. When the Spider clan arrived at
-Muenkapi they made marks or wrote on a certain bluff east of Muenkapi, saying that this place should always belong to the Hopi, that
+Muenkapi they made marks or wrote on a certain bluff east of Muen-
+kapi, saying that this place should always belong to the Hopi, that
 no one should take it away from them, because there was so much
 water there. Here the Hopi should always plant. 1
 
@@ -1381,6 +1536,8 @@ Tuba City), his wife Katcinmana, and others who wanted that land.
 7 About a mile north-west of Oraibi.
 
 
+24 Field Columbian Museum — Anthropology, Vol. VIII.
+
 Mom6shvavi, including that spring, and back up the mesa. This
 piece of land he allotted to the Bear clan. The leader of the Bear clan
 now asked him where he lived. He said he lived over there at the
@@ -1394,12 +1551,14 @@ clan arrived usually one of the new arrivals would go to the village
 and ask the village chief for permission to settle in the village. He
 usually asked whether they understood anything to produce rain
 and good crops, and if they had any cult, they would refer to it and
-say, V Yes, this or this we have, and when we assemble for this ceremony, or when we have this dance it will rain. With this we have
+say, V Yes, this or this we have, and when we assemble for this cere-
+mony, or when we have this dance it will rain. With this we have
 traveled, and with this we have taken care of our children." The
 chief would then say, "Very well, you come and live in the village."
 Thus the different clans arrived: First, the [Hide Strap clan, the
 Blue-bird clan, the Spider clan, etc. While these different clans were
-arriving in Orafbi, other clans were arriving in Walpi and Mish6ngnovi, and settling up those villages. When a new clan arrived, the
+arriving in Orafbi, other clans were arriving in Walpi and Mish6ng-
+novi, and settling up those villages. When a new clan arrived, the
 village chief would tell them: "Very well, you participate in our cult
 and help us with the ceremonies," and then he would give them their
 fields according to the way they came. And that way their fields
@@ -1415,7 +1574,8 @@ try it." So the Aoat-wungwa arranged a dance. On the day before
 the dance it rained a little, and on the last day when they had their
 dance it rained fearfully. All the washes were full of water. So the
 village chief invited them to move to the village and gave them a
-large tract of land. He told them that they should have their ceremonies first. This was the Wuwuchim ceremony, the chief of the
+large tract of land. He told them that they should have their cere-
+monies first. This was the Wuwuchim ceremony, the chief of the
 Bow clan being the leader of this ceremony. So this ceremony was
 the first one to take place.
 
@@ -1430,7 +1590,8 @@ March, 1905. The Traditions of the Hopi — Votii. 25
 Flute cult by the Spider clan. The Lizard, which also arrived from
 the north-west, brought the Maraii cult, and the Parrot clan the Lag6n
 cult. Others came later. Small bands living throughout the country
-when they could hear about the people living in Orafbi would sometimes move up towards Oraibi and ask for admission to live in the
+when they could hear about the people living in Orafbi would some-
+times move up towards Oraibi and ask for admission to live in the
 village. In this way the villages were built up slowly.
 
 At that time everything was good yet. No wicked ones were
@@ -1446,9 +1607,11 @@ maiden that had come with these people from the under-world had
 taught others her evil arts. And so these wicked ones had increased
 very much until finally Paldtkwapi was destroyed by a great water
 
+26 Field Columbian Museum — Anthropology, Vol. VIII.
 
 beat us and trouble us and probably kill us. But we should not listen
-to them, we should continue to live like the Hopi. We should continue to use the food of the Hopi and wear the clothes of the Hopi.
+to them, we should continue to live like the Hopi. We should con-
+tinue to use the food of the Hopi and wear the clothes of the Hopi.
 But those P6pwaktu of the Hopi would help the White Men, and they
 would speak for the White Men, because they would also want to do
 just the same as those White Men would ask them to do. And now it
@@ -1492,6 +1655,8 @@ but he made it lighter. When he returned the chief said: "Thank
 ' Told by Wikvaya (Oraibi).
 
 
+March, 1905. The Traditions of the Hopi — Voth. 27
+
 you. Well, now what? Now it is somewhat better. The sky has
 been opened somewhat more and it is much lighter/ ' The question
 arose: Which way? The Bear clan spoke for the south, the Spider
@@ -1500,7 +1665,8 @@ crowd, the Spider clan went northward.
 
 a. THE SPIDER CLAN.
 
-This clan traveled northward. The chief first, the people following. After four nights they came to a nice country, where the
+This clan traveled northward. The chief first, the people follow-
+ing. After four nights they came to a nice country, where the
 "North Old Man" (Kwinde Wuhtaka) lives. But it was cold there.
 The chief decided that there they would stay. So the people were
 glad and began to plant corn, watermelon, melons, sweet corn, etc.
@@ -1518,17 +1684,20 @@ small when the frost killed it. Then there was dissatisfaction.
 was good here/' So they all also started southward after the Bear
 people.
 
-After the first night the chief said to his wife: "You bathe yourself. " This she did (in warm water). Then she rubbed her body
+After the first night the chief said to his wife: "You bathe your-
+self. " This she did (in warm water). Then she rubbed her body
 and collected the small scales which she had rubbed from her skin
 and handed them to her husband. He laid them on a blanket until
 there was a considerable quantity of them. He then wrapped this
-in a reed receptacle, sang over it and waved it four times, whereupon the scales turned into burros and rushed out. "What is that?"
+in a reed receptacle, sang over it and waved it four times, where-
+upon the scales turned into burros and rushed out. "What is that?"
 the people asked. "Those are burros, M the chief said. So they were
 glad that now they would not have to carry everything themselves
 any longer, and the chief said that now they would move on towards
 the rising sun.
 
-The chief and his wife repeated the same performance, but ininstead of burros, Spaniards came out. To them the chief said:
+The chief and his wife repeated the same performance, but in-
+instead of burros, Spaniards came out. To them the chief said:
 " You put supplies and your things on the burros and follow the other
 Hopi (that is, the Bear clan), and when you overtake them, kill them.
 So the Castilians went south, and the Spider people went south-east,
@@ -1536,13 +1705,16 @@ following a stream (Nonflpbaya, a rolling stream, because of the high
 recoiling waves). They came to a nice place where they stayed one
 
 
+28 Field Columbian Museum — Anthropology, Vol. VIII.
+
 year and planted and reaped a crop. From there they proceeded
 south-east, stopped another year at a certain place, where they again
 planted, but were harassed by enemies. They saved a portion of
 the crop and proceeding farther south-east they ascended a bluff or
 mesa, staying another year and planting in the valleys.
 
-Thus they stopped in all at ten different places, but being constantly harassed by the people along the water, they never planted
+Thus they stopped in all at ten different places, but being con-
+stantly harassed by the people along the water, they never planted
 more than once. Finally they arrived where the sun rises and the
 Americans (Bahdnas) live. With them they became friends; here
 they planted, their children learned the language a little, and they
@@ -1562,12 +1734,14 @@ crop because they had the two Katcinas with them. The next year
 they came to a clear stream. In all they stopped ten times before
 arriving at the Americans, where the sun rises. Here they stopped
 four years. Their children learned a little English. The land being
-scarce, the Americans told them to go west and hunt land for themselves, and if anybody would be bad to them (nukpana) and cause
+scarce, the Americans told them to go west and hunt land for them-
+selves, and if anybody would be bad to them (nukpana) and cause
 their children to die, they (the Americans) would come and cut
 the Nukapana's heads off. This was told them because they (the
 Americans) had been told that down in the old home there had been
 P6pwaktu (sorcerers, etc.). So they traveled westward, found the
-Pueblo, but no good land that they could get. So they finally arrived at Shong6pavi, where some people lived, and there they settled
+Pueblo, but no good land that they could get. So they finally ar-
+rived at Shong6pavi, where some people lived, and there they settled
 down.
 
 One time the people saw that the chief, Machfto, held a sweet
@@ -1580,7 +1754,10 @@ still a stone on which there is some writing called Machftutubeni.
 Machfto left his wife at Shong6pavi, also his people, who then formed
 
 
-the Shong6pavi Bear clan. When the hunters found him they informed the people at Shong6pavi.
+March, 1905. The Traditions of the Hopi — Voth. 29
+
+the Shong6pavi Bear clan. When the hunters found him they in-
+formed the people at Shong6pavi.
 
 Some went there to get them back, but Machfto would not listen
 to them. Then his wife went to him but he would not listen to her
@@ -1605,9 +1782,11 @@ to make my kind of ptihtavi." l
 After the matter had been settled between Machfto and the
 Spider clan chief, the latter's people came up. Among these were
 also the Lizard clan, to which the Sand clan is related. These names
-were given to people while wandering. One would find and see something, perhaps under peculiar circumstances, and be called after it.
+were given to people while wandering. One would find and see some-
+thing, perhaps under peculiar circumstances, and be called after it.
 The Lizard people were also asked what they knew and when they
-said the Marati cult, they were also permitted to stay, but were requested to co-operate in the Soy£l ceremony. For that reason
+said the Marati cult, they were also permitted to stay, but were re-
+quested to co-operate in the Soy£l ceremony. For that reason
 Pungridnomsi, who is of the Bear clan, and village chief, now makes
 the ptihu (road) in the night of the Marau ceremony from the nitsi
 at the south end of the kiva towards the rising sun.
@@ -1618,7 +1797,8 @@ the Spider clan. The Badger people understand medicines, hence
 they prepare the medicine — for instance, charm liquid — for the Flute,
 Snake, Marau, and other ceremonies.
 
-Another Badger clan and the Butterfly (P6wul) came from Kfshiwuu. These brought the Powdmu and Katcina cult.
+Another Badger clan and the Butterfly (P6wul) came from Kfshi-
+wuu. These brought the Powdmu and Katcina cult.
 
 The Divided Spring (B£tki) clan came from \vhere the sun rises.
 
@@ -1628,7 +1808,10 @@ The Pihkash people had Aholi Katcina and the screen (Omawn) now used in the Soya
 the Corn Ceremonies. The Aototo has the wat^r and rain.
 
 
-They came to the village of Orafbi and arranged a contest at Muyfovatki where each planted corn, the Blue Flutes sweet corn, the others
+30 Field Columbian Museum — Anthropology, Vol. VIII.
+
+They came to the village of Orafbi and arranged a contest at Muyfo-
+vatki where each planted corn, the Blue Flutes sweet corn, the others
 Wuprikao, over which they played the whole day. The sweet corn
 grew first, and so the Blue Flutes to this day go to the village in
 processions, etc., first closing the well (batni) on the plaza. Later
@@ -1674,6 +1857,8 @@ water and immediately a road like a rainbow was formed from the
 1 ToM by L-rniavantiwa (Shupaulavi)
 
 
+March, 1905. The Traditions of the Hopi — Voth. 3 1
+
 dwelling of Spider Woman to the other kiva. On this they went
 across the water. As they approached the kiva to which they were
 going, they first encountered a panther, who growled fiercely. The
@@ -1695,7 +1880,8 @@ a large pipe. He filled the latter and smoked four times. He then
 handed the pipe to the young man and said: "Smoke and swallow
 the smoke." The swallowing of the smoke was a test; any one not
 being able to do that was driven off. Spider Woman had informed
-the young man about this test, so he was posted. When he commenced to smoke she whispered to him: "Put me behind you."
+the young man about this test, so he was posted. When he com-
+menced to smoke she whispered to him: "Put me behind you."
 This he did in an unobserved manner, so when he swallowed the
 smoke she immediately drew the smoke from him ' and blew it away,
 and hence he did not get dizzy. The men who did not observe the
@@ -1718,6 +1904,8 @@ people had been dressing themselves, Spider Woman had whispered
 
 1 Through the rectum.
 
+
+32 Field Columbian Museum — Anthropology, Vol. VIII.
 
 to him that they were now going to try him very hard, but that he
 should not be afraid to touch the snakes; and she gave him many
@@ -1745,9 +1933,11 @@ held and stroked it four times upward, each time spurting a little
 medicine on it, and thus freeing it from its anger. The chief was
 astonished and said: "You are very something, thanks. Now, look
 away again." He did so and when he turned back he saw that all
-the snakes had assumed the forms of men and women again, including the maiden that he had captured. They now were all very good
+the snakes had assumed the forms of men and women again, includ-
+ing the maiden that he had captured. They now were all very good
 to him, and talked to him in the kindest manner, because they now
-considered him as initiated and as one of them. He was now welcome, and the chief invited him to eat. The mana whom the young
+considered him as initiated and as one of them. He was now wel-
+come, and the chief invited him to eat. The mana whom the young
 man had taken got from another room in the kiva some bread made
 of fresh corn-meal, some peaches, melons, etc., and set this food before
 the young man. Spider Woman whispered to the young man to
@@ -1755,17 +1945,22 @@ give her something to eat too, which he did secretly. She enjoyed
 the food very much and was very happy.
 
 Now the chief asked the man why he came, etc. "I hunt
-a lolomat kritcit (good life) and was thinking about the water running this way,' and so this way .it runs. I have come also to get Hopi
-food from here. I also heard that there lives a woman here somewhere, the Huruing Wuhti, from whom I want beads." "What have
+a lolomat kritcit (good life) and was thinking about the water run-
+ning this way,' and so this way .it runs. I have come also to get Hopi
+food from here. I also heard that there lives a woman here some-
+where, the Huruing Wuhti, from whom I want beads." "What have
 you for her?" they asked. "These bdhos," he said. "All right, you
 will get there. But now you sleep here." But Spider Woman wanted
 to get back. He told them that he wanted to go out a little while.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 33
+
 He went and took Spider Woman home, and put her down. She
 invited him to come and eat with her. She had a povdlpifci off which
 she lived and which never gave out, but he left her and returned to the
-Snake kiva, where he was welcomed and called brother and son-inlaw (modnangwuu) , although he had not yet married, but only caught
+Snake kiva, where he was welcomed and called brother and son-in-
+law (modnangwuu) , although he had not yet married, but only caught
 the mana. So he remained there. That evening and night the chief
 told him all about the Snake cult, altar, etc., etc., and instructed him
 how he must put this up, and do that, when he would return. He
@@ -1784,7 +1979,8 @@ him, invited him to sleep with her on the bed. Then Spider Woman
 whispered he should comply with her request, then he would win her
 favor and get the beads. So he did as requested.
 
-In the morning he awoke and found by his side an old hag, snoring. He was very unhappy. He stayed all day, the hag sitting bent
+In the morning he awoke and found by his side an old hag, snor-
+ing. He was very unhappy. He stayed all day, the hag sitting bent
 up all day. In the evening the change, etc., that occurred on
 the previous day was repeated, but the hag after this remained a
 pretty maiden. He remained four days and nights with Huruing
@@ -1820,7 +2016,8 @@ night they slept separately. In the morning they found that the
 beads had increased, and they kept increasing as they went along
 the next day. The next night they spent in the same way. They
 were anxious to see whether the beads and shells had increased, but
-did not dare to do so. The third night was again spent, and the contents of the bag increased the same as the previous two nights. The
+did not dare to do so. The third night was again spent, and the con-
+tents of the bag increased the same as the previous two nights. The
 bag with the beads and shells now became very heavy and the young
 man was very anxious to see them, but his wife forbade him to open
 the sack. The fourth night was spent in the same manner, and when
@@ -1856,6 +2053,8 @@ they sometimes bit. This made the Hopi very angry, and they said:
 but she forbade him
 
 
+March, 1905. The Traditions of the Hopi — Voth. 35
+
 The woman said to her husband: "You take our children back to my
 home and then we shall go away from here alone." Then the man's
 father made bdhos, gave them to his son, who put all the snakes with
@@ -1866,7 +2065,8 @@ carrying away the snakes from the plaza after the snake dance, take
 with them and deposit with the snakes some b£hos, so that they
 should not themselves return to the village.
 
-When the Snake man returned to his village he and his wife traveled south-eastward, stopping at various places. All at once they
+When the Snake man returned to his village he and his wife trav-
+eled south-eastward, stopping at various places. All at once they
 saw smoke in the distance, and when they went there they found a
 village perched on the mesa. This was the village of Wdlpi. They
 at once went to the foot of the mesa on which W£lpi was situated
@@ -1882,7 +2082,8 @@ Snake clan, of whom only very few are now living.
 Soon also the B£tki and Pdna clan came to W£lpi and found
 admittance to the village. At Wdlpi the Snake people made the first
 Snake tiponi, Snake altar, etc., and had the first Snake ceremony.
-From here the Snake cult spread to the other villages, first to Shongdpavi, then to Mish6ngnovi, and then to Orafbi. At the first Snake
+From here the Snake cult spread to the other villages, first to Shongd-
+pavi, then to Mish6ngnovi, and then to Orafbi. At the first Snake
 ceremony the Snake chief sent his nephew to the north, to the west,
 to the south, and to the. east to hunt snakes. He brought some from
 each direction. The chief then hollowed out a piece of bdho, made
@@ -1901,6 +2102,8 @@ a box, put provisions in, and a pole to push and guide the box with
 
 1 Told by SikAnakpu < Mish6nfirnovi).
 
+
+36 Field Columbian Museum — Anthropology, Vol. VIII.
 
 when it got fast. They made also four balios, put them and a young
 man into the box, and sent the box off floating down the river.
@@ -1954,24 +2157,30 @@ by one of the principal men in Shupaulavi, a member of different secret orders, 
 best story tellers and singers.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 37
+
 site of Phoenix, and stayed there awhile. They remained for shorter
 or longer periods at many different places. Finally they came to
 the Little Colorado River, and about there it was where they assumed
 the clan name, but just exactly where the place was nobody can tell.
 Their forefathers say that the party once came upon a dead bear
-that they looked at, and from that they were called forever afterwards the Bear clan. Another party that traveled with them took
+that they looked at, and from that they were called forever after-
+wards the Bear clan. Another party that traveled with them took
 the hide of the bear, of which the hair had already been removed by
 little animals (Mtiyi. PI. Mtimuytu), who use hair or wool for their
-nests or burrows. These people took the skin and cut from it carrying straps (piqdsha), from which they were called Piqdsha clan.
+nests or burrows. These people took the skin and cut from it carry-
+ing straps (piqdsha), from which they were called Piqdsha clan.
 Another party came upon the bear at just this time and were called
 M6yi clan, after the small mice mentioned before. These three clans
 arrived there just about the same time, and hence are considered
 as closely related to one another.
 
 Shortly after another party passed by and found many blue-birds
-sitting upon the cadaver eating from it ; so they were called the Bluebird clan (Ch6rzh-namu). Still later another party came upon the
+sitting upon the cadaver eating from it ; so they were called the Blue-
+bird clan (Ch6rzh-namu). Still later another party came upon the
 scene and found the remains of the cadaver full of spider web, so this
-party was called Spider (K6hfcang) clan. By and by a sixth migrating party came along. By this time the bones of the bear were
+party was called Spider (K6hfcang) clan. By and by a sixth migrat-
+ing party came along. By this time the bones of the bear were
 bleached already. They took the skull, tied yucca leaves to it and
 carried it along as a drinking vessel in the manner in which the chief's
 or priest's jugs (mdngwikurus) are carried at the present time, and
@@ -2000,23 +2209,29 @@ a My informant was unable to explain why this spring was called by that name and
 the Bear clan .
 
 
+38 Field Columbian Museum — Anthropology, Vol. VIII.
+
 remained. They being the first to arrive at this place, they have
 ever since considered themselves to be the leading clan in the village,
 the village chief having also been chosen from their clan. A few
-persons of the Bear clan moved from here to Orafbi, where the chieftainship of the so-called Liberal or Friendly faction is still held by
-that clan, the Conservative or Hostile faction of that village selecting their chief from the Spider clan. Two of this clan moved to the
+persons of the Bear clan moved from here to Orafbi, where the chief-
+tainship of the so-called Liberal or Friendly faction is still held by
+that clan, the Conservative or Hostile faction of that village select-
+ing their chief from the Spider clan. Two of this clan moved to the
 villages of Shupaulavi and Mish6ngnovi, where the office of the village
 chief has also remained in this clan to the present day.
 
 The Bear clan brought with them the altar paraphernalia, songs,
-etc., of the Blue Flute cult. When they stopped and planted anywhere they would perform the Blue Flute ceremony and sing the
+etc., of the Blue Flute cult. When they stopped and planted any-
+where they would perform the Blue Flute ceremony and sing the
 songs, and their crop would then grow and mature very quickly,
 so that they would have something to eat. They also brought with
 them the Hu Katcina, the Bear (Hon) Katcina, the Aototo 1 Natacka,
 his wife C6oyok Wuhti, and finally the C6oyoko T£haam. a
 
 Later on other clans and migrating parties arrived at Shong6pavi
-asking of the Bear clan admission to the village. If proper arrangements could be made with the Bear clan they remained; if not, they
+asking of the Bear clan admission to the village. If proper arrange-
+ments could be made with the Bear clan they remained; if not, they
 moved on. Many of the large and small ruins with which the country
 is covered date back to the time of the migration of these different
 clans, showing the places where they made stays of shorter or longer
@@ -2031,7 +2246,8 @@ the question was, how to get out ? So he sent the M6tsni to find a
 place where they could get out. He flew up and found an opening, and
 came back and reported the same to the chief. So the Village Chief
 (Kfk-mongwi) and the Crier Chief (Chaik-mongwi) planted a pine
-(calavi), which grew up very fast, but did not quite reach the opening. They then planted a reed (bakavi) which also grew up fast
+(calavi), which grew up very fast, but did not quite reach the open-
+ing. They then planted a reed (bakavi) which also grew up fast
 and reached through the opening. On this reed they climbed up,
 first the Horn people (Aaltu), who then stood outside and held the
 protruding part of the reed or ladder. Many people then followed.
@@ -2046,6 +2262,8 @@ when they already lived in the villages and the Katcina clans came.
 a Told by Tawiima ( Mish6ngnovi) .
 
 
+March, 1905. The Traditions of the Hopi — Voth. 39
+
 The Mocking-bird (Yahpa) was sitting outside and distributed
 the languages to the people. As they were climbing up one of them
 dropped one of his moccasins. Below the Hopi had pretty moccasins,
@@ -2057,7 +2275,8 @@ but one of the sorcerers (P6pwaktu) had also come out.
 
 From here the people now started on different routes, the White
 Man taking the most southern route. All the other people took
-different routes further north. The Hopi brought with them Muyingwu, whose body consisted entirely of corn, his feet being ears of
+different routes further north. The Hopi brought with them Mu-
+yingwu, whose body consisted entirely of corn, his feet being ears of
 corn, so that he could not move very fast. The Hopi were to have
 the horse, but as they tried to ride him they could not do so, as they
 did not put any bridle on him; so the Navaho, wearing a band around
@@ -2135,7 +2354,8 @@ village, the chief belonging to that clan, but it seems that this clan,
 shared the chieftainship with the following clans, which furnished
 the Kfk-mongwi, the Village Chief, in the order named, for four years,
 
-1 Traditions with regard to the clans having received their names on this occasion vary somewhat. While some say the name of the Wikurzh-namu is derived from a netted gourd (wikuru),
+1 Traditions with regard to the clans having received their names on this occasion vary some-
+what. While some say the name of the Wikurzh-namu is derived from a netted gourd (wikuru),
 others, as in this tale, derived the name from wikoro, as explained in the text. Furthermore, the
 order of the clans having received their names here somewhat differs in the different tales; and
 lastly some also mentioned an Ant clan as the last one having obtained its name. Cf. tale No. S,
@@ -2151,7 +2371,8 @@ to have moved to Orafbi, east of which village they had had fields
 while they were still living at Chukuvi. At the time when the people
 lived at Chukuvi, Shupaulavi was also inhabited, but it seems that
 the people then, too, lived farther down, probably at the so-called
-First Ledge, but when Mish6ngnovi was built the people of Shupaulavi also moved on to the top of the mesa.
+First Ledge, but when Mish6ngnovi was built the people of Shupaul-
+avi also moved on to the top of the mesa.
 
 
 10. THE ORIGIN OF THE YAYAATU SOCIETY. 1
@@ -2182,14 +2403,18 @@ they had all gathered their bundles the priest's son said: "Are you
 all done?" "Yes," they said. "All right, then let us go home now,"
 he said. But just when they were ready to start a Hawk in the
 form of a man came upon them. He wore many strands of beads
-around his neck and had a black line painted with specular iron running over his nose down to the cheeks. The hair of all of the children
+around his neck and had a black line painted with specular iron run-
+ning over his nose down to the cheeks. The hair of all of the children
 was very much disheveled, so he laughed at them. "Are you getting
 wood?" he said. "Yes," they replied, and he again laughed at them.
 
 1 Told by Wikvaya (Oraibi)
 
 
-His kiva was close by. "You come in here," he said to the children, so they went in. It was a kiva just like those in the village.
+42 Field Columbian Museum — Anthropology, Vol. VIII.
+
+His kiva was close by. "You come in here," he said to the chil-
+dren, so they went in. It was a kiva just like those in the village.
 He invited them to sit down on the banquette that ran along the
 wall, so they sat down. He then took a seat near the. fire-place,
 filled a pipe and took two puffs from it. He then said to the children
@@ -2229,9 +2454,12 @@ him through the opening into the kiva.
 Hereupon they waited, and in a little while the youth came out
 of the kiva again, unharmed. Hereupon he grabbed another of the
 youths and they threw him down, and in this same manner every one
-was thrown into the kiva and came out unharmed. Then the Hawkman went into the kiva, being followed by all of the youths. He
+was thrown into the kiva and came out unharmed. Then the Hawk-
+man went into the kiva, being followed by all of the youths. He
 was called the uncle of the vouths. After thev had entered the kiva
 
+
+March, 1905. The Traditions of the Hopi — Voth. 43
 
 he drew aside a curtain from one of the inner chambers and in the
 room behind the curtain were four round ovens (k6ici) dug into the
@@ -2264,7 +2492,8 @@ they had put down their wood, they ran to the houses where they
 had gotten the burden straps and threw them on and into the horses,
 without, however, entering them. They all returned to the kiva at
 once without having partaken of any food. The sun had now gone
-down. They waited awhile and after the evening dawn had disappeared and it was quite dark they heard somebody come. It was
+down. They waited awhile and after the evening dawn had dis-
+appeared and it was quite dark they heard somebody come. It was
 the Hawk, in whose kiva they had been, and he at once entered the
 kiva. "Are you all sitting here?" the Hawk asked. "Yes, we are
 all here. Sit down," the youths replied. So the Hawk took a seat
@@ -2279,17 +2508,21 @@ and the others in the south end of the kiva. The first should be
 fire jumpers (Toviichochoyanifcam) and also Yayaatus. The others
 
 
+44 Field Columbian Museum — Anthropology, Vol. VIII.
+
 should be the singers (Tdtaofcam). Between the two parties he
 sprinkled a meal line on the floor of the kiva. One he selected to
 act as watchman. He should keep up the fires at the fireplace and
-keep out intruders. He told them that they should remain in a sitting posture in the kiva all of the next day and that they should fast
+keep out intruders. He told them that they should remain in a sit-
+ting posture in the kiva all of the next day and that they should fast
 all day. In the evening he would return and feed them again. Thus
 they were assembled here in the kiva, and each one had his "mother"
 (his white corn-ear) standing against the wall by his side. The people
 were wondering the next day why the little thieves, as they called
 them, were not coming out to hunt something to eat. Finally one
 of the women approached the kiva, looked in, and saw them sitting
-in an erect posture. "Oh," she said to the people, "they are assembled (ytingiota) in there."
+in an erect posture. "Oh," she said to the people, "they are as-
+sembled (ytingiota) in there."
 
 They remained in this way in the kiva for four days, their uncle
 coming every night to feed them and look after them. Early in the
@@ -2314,13 +2547,16 @@ for festal occasions).
 While this youth was heating the ovens the Hawk dressed up
 all the others in the kiva. He painted a wide yellow band from
 shoulder to shoulder running down over the chest ; the lower arms arid
-lower legs he also painted yellow, and a yellow ring around the abdomen. Their faces he covered with corn -pollen. They had many
+lower legs he also painted yellow, and a yellow ring around the ab-
+domen. Their faces he covered with corn -pollen. They had many
 strands of beads and also some strands of the twisted yarn consist"
 ing of dark blue and brownish red yarn. Large bunches of eagle
 feathers were tied to the top of their heads, and an eagle tail feather
 was tied on each side of their head in such a manner that their
 points extended backward. From these tail feathers were also
 
+
+March, 1905. The Traditions of the Hopi — Voth. 45
 
 suspended strands of the twisted yarn. Old Hopi women's belts
 were tied over the kilts. Strands of the same yarn were tied around
@@ -2335,7 +2571,8 @@ As soon as they had formed in line the Ydyaatu also emerged from the
 kiva and went. to the plaza with long strides, the priest's son carrying
 this time the mochdpu which the Hawk-man had used when initiating
 the youths. While the first party continued singing, the Ydyaatu
-rummaged through the village, ascending the roofs of the houses, jumping onto the people, tearing up and throwing down chimneys, taking
+rummaged through the village, ascending the roofs of the houses, jump-
+ing onto the people, tearing up and throwing down chimneys, taking
 hold of children and people and swinging them over the edge of the
 roof and threatening to throw them down, etc. The people got very
 angry at them and beat them with sticks, so they finally returned
@@ -2344,7 +2581,8 @@ of this order, handing the mochdpu to one of the others, jumped into
 one of the ovens. The others drew him out dead, wrapped him up
 in the mochapu, took him to the kiva and threw him into it. Here
 he was at once resuscitated by the Hawk-man and the old woman
-and came up apparently unharmed, having on again the same costume as the one that had been burned off his body in the oven.
+and came up apparently unharmed, having on again the same cos-
+tume as the one that had been burned off his body in the oven.
 While this was going on, others had jumped into the various ovens
 and were drawn out immediately, thrown into the kiva, and treated
 the same way.
@@ -2366,7 +2604,10 @@ into the kiva, brought out another bundle, over and around which
 they went through the same performance. Uncovering this bundle
 
 
-a great many little cotton-tail rabbits jumped up, which they distributed among the children. The singers kept up their singing
+46 Field Columbian Museum — Anthropology, Vol. VIII.
+
+a great many little cotton-tail rabbits jumped up, which they dis-
+tributed among the children. The singers kept up their singing
 during all these performances.
 
 The Yayaatu now all entered the kiva. Soon they came out again,
@@ -2374,7 +2615,8 @@ some hunting and uncovering the strings that they had buried and
 attached to the houses. Others that followed them wound the
 strings up on balls. Whenever one string was found and wound up
 another one was hunted and wound, so they all went through the
-village hunting and winding the strings that they had buried. Suddenly they all proceeded to the house of the Cotton-tail Rabbit
+village hunting and winding the strings that they had buried. Sud-
+denly they all proceeded to the house of the Cotton-tail Rabbit
 clan (Tab-namu), where Homihoiniwa and his family now live, and
 here one of the strings ran into a water-jug. This they lifted up
 without drawing the string out, and carried it also to the plaza where
@@ -2382,7 +2624,8 @@ they split it in two. It was found that on the inside a cloud symbol
 was painted in each half jug. They lifted up the two parts of the
 jug and showed the cloud symbols to the people. Hereupon they
 covered up the two parts, sang over them, and when they took the
-covering off the jug was whole again as before, whereupon they returned it to the house.
+covering off the jug was whole again as before, whereupon they re-
+turned it to the house.
 
 The leader once more went into the kiva and came back with a
 bowl containing some diluted white kaolin (dumakuyi). This they
@@ -2390,12 +2633,14 @@ took to the top of the Marau kiva, which is so situated that from it a
 long high bluff, which is called Canavitoika, can be plainly seen in
 the distance (probably eight or ten miles to the west). The Yayaatu
 now gathered around the bowl and putting eagle feathers into the
-white kaolin they moved them up and down in the air, as if whitewashing that distant bluff, and behold, the bluff, though far away,
+white kaolin they moved them up and down in the air, as if white-
+washing that distant bluff, and behold, the bluff, though far away,
 at once assumed a white color. All the people could plainly see that
 it was being whitewashed, though it is far away. Hereupon they
 returned to the plaza, the singers now stopping their singing. They
 cut up the watermelons and distributed slices. All then entered the
-kiva again, the mothers and the relatives of these* youths now crowding towards this kiva wanting to get their children. The watcher of
+kiva again, the mothers and the relatives of these* youths now crowd-
+ing towards this kiva wanting to get their children. The watcher of
 the kiva kept them back, saying, however, that they had not yet been
 discharmed.
 
@@ -2423,12 +2668,14 @@ and where thev had been initiated.
 
 The Batki clan and the Sand clan come from Paldtkwapi. When
 traveling, the Sand clan would spread sand 2 on the ground and plant
-corn. The Batki clan would cause it to thunder and rain (by singing), the crop would grow in a day and they would have something
+corn. The Batki clan would cause it to thunder and rain (by sing-
+ing), the crop would grow in a day and they would have something
 to eat. At Hom61ovi (Winslow) they lived a long time. They
 brought with them the Soyal cult, the Lagtin cult, and the Soyal
 Katcina. They went to Ao^tovi. Here they were not welcome,
 and hence moved on to Mish6ngnovi, where they found the Bear,
-Parrot and Crow clans. They were asked what they knew to produce rain and crops. They spread the sand, made corn grow, etc.,
+Parrot and Crow clans. They were asked what they knew to pro-
+duce rain and crops. They spread the sand, made corn grow, etc.,
 whereupon they were welcomed and their leader was made the chief
 of the village.
 
@@ -2479,7 +2726,8 @@ and larger corn with them.
 
 12. THE DESTRUCTION OF PALATKWAPI. 1
 
-After all the people, except the Zunis, had come out from the underworld through the sipahpuni, they remained for some time with
+After all the people, except the Zunis, had come out from the under-
+world through the sipahpuni, they remained for some time with
 Skeleton (Mdsauwuu) (see Story No. 3). When they were traveling
 eastward from here on different routes, and in different sections and
 parties, a large party came to a place called Palatkwapi, somewhere
@@ -2495,7 +2743,8 @@ especially the young men, here became very bad. They ill-treated
 the people sometimes in a disgraceful manner. :l One time a young
 man again shamefully mistreated an old man, who then became
 very angry. This old man belonged to the Batki clan. He went and
-reported the same to the village chief (Kik-mongwi), crier chief (Chadkmongwi) and the warrior chief (Kalelitak-mongwi), so they assembled
+reported the same to the village chief (Kik-mongwi), crier chief (Chadk-
+mongwi) and the warrior chief (Kalelitak-mongwi), so they assembled
 in the old man's house and asked him what was the matter, why he
 had called them. "Yes," the old man answered, "these young
 men here are very bad, they treat one very mean when one goes to
@@ -2514,6 +2763,8 @@ small vessel was their tiponi, and from that they derived their name.
 them and throw them backward, thus soiling their bodies.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 49
+
 (Loqdnmuru). 1 So the young man ran and when he came back his
 father asked him : " How is it now, are you strong? " "Yes, " the son
 replied, "my legs are strong now." "All right," the father said.
@@ -2527,7 +2778,8 @@ these masks the young man put on his head, first that of the Majia,
 secondly the Lanang Katcina mask, thirdly the Aha mask, and
 lastly that of the Ydhponcha. The father had dressed them during
 the night. He then strung a number of fingers which he had cut off
-of old dry corpses, and tied them to both of his son's wrists as rattles. He furthermore prepared a long cedar-bark fuse which he
+of old dry corpses, and tied them to both of his son's wrists as rat-
+tles. He furthermore prepared a long cedar-bark fuse which he
 handed to the young man. After he had thus dressed his son, the
 chief said : " Now you run back to Pine Ridge and set the pine timber
 there on fire, then you come back here. " The son did as he had been
@@ -2560,6 +2812,8 @@ in a crouching position. So he dashed away and lighted other fires.
 * The meaning of this could not be ascertained.
 
 
+50 Field Columbian Museum — Anthropology, Vol. VIII.
+
 In the morning they talked the matter over in the kivas, saying
 to the watchers : ' ' You are of no account. Next night we shall watch
 again, many of us. " They agreed that they would watch at different
@@ -2585,8 +2839,10 @@ that in the fourth night they would capture him, and so this became
 true.
 
 Hereupon the crier cried out in the village: "You that are living
-here, all of you come and assemble here." So the people all assembled there and filled the kiva. The old men were crying and said:
-"There is some reason for this, certainly it is not without some purpose that he goes around this way and acts so. He certainly wants
+here, all of you come and assemble here." So the people all assem-
+bled there and filled the kiva. The old men were crying and said:
+"There is some reason for this, certainly it is not without some pur-
+pose that he goes around this way and acts so. He certainly wants
 to do something bad." The village chief now requested that some
 one go and take off the masks from the ghost. Then some one
 approached him, but the masks were fastened securely around his
@@ -2596,7 +2852,8 @@ So he took that off and laid it on the floor, but found that there was
 another mask, and he took that one off and laid it on the floor. But
 he saw that there was a fourth mask and that was a Katcfn-mana
 mask, so he took that off and they all looked at the personage, and
-behold! it was the chief's son. "Puyaami!" they all said (an expression of regret and sorrow). "That is the chief's son!" They found
+behold! it was the chief's son. "Puyaami!" they all said (an expres-
+sion of regret and sorrow). "That is the chief's son!" They found
 that he had some bahos tied to each wrist and to each ankle. These
 they untied, also placing them on the floor.
 
@@ -2609,7 +2866,8 @@ dants, and many nice beads; his head was nicely washed, and on his
 face he had two black lines painted with yatehai, two lines running
 from the upper part of the nose to the cheeks. The young man .who
 had now been exposed then said: "Take these bahos and thrust them
-into the ground, one at the plaza, and the others in the different corners of a house," which he designated. He furthermore told them
+into the ground, one at the plaza, and the others in the different cor-
+ners of a house," which he designated. He furthermore told them
 that for four days they should have a feast, and having said this he
 left the kiva and went to his home. The people thought about it a
 great deal and were unhappy. They did not know what it meant,
@@ -2621,7 +2879,8 @@ expecting some evil to befall them the next day, but the sun rose
 higher and higher and nothing happened to them, and when evening
 came they felt very much relieved, saying: "Nothing has happened
 to us," and they became happy again. Thus three years passed
-without any especial evil happenings, but in the fourth year something happened. The young man when telling the people that they
+without any especial evil happenings, but in the fourth year some-
+thing happened. The young man when telling the people that they
 should feast for four days, had not told them right.
 
 The people had been right in their suspicions that something evil
@@ -2641,12 +2900,15 @@ that the people again should feast four days. " So the Crier Chief
 announced saying: "You that live here, thus I am informing you, all
 that have something living, kill the same and eat it for four days.
 All that have something good, eat it and have a feast." But the
-people were full of mistrust. They were afraid that at the expiration of the four days some evil would befall them, and they did
+people were full of mistrust. They were afraid that at the expira-
+tion of the four days some evil would befall them, and they did
 not comply with the requests of the chiefs; they did not prepare a
 feast.
 
 During the night following the announcement the chiefs met with
 
+
+52 Field Columbian Museum — Anthropology, Vol. VIII.
 
 the aforesaid old man, who told them that they should dress him up
 and put him into the tiwonyapavi (Katcina shrine on the plaza in
@@ -2655,8 +2917,10 @@ belong to the Katcinas). So they dressed him up, painting his back
 black, his chest and abdomen red, and both sides of the front part of
 his body green. On the arms, chest, and legs they made the typical
 marks of P6okong (two short lines). To the back of his head they
-fastened a p6htakni, 1 of the tail of a sparrow-hawk, extending upwards with the points of the feathers. To the top of his head they
-fastened a horn. His face was also painted black. He was to represent the Balolookong. He wore no costume.
+fastened a p6htakni, 1 of the tail of a sparrow-hawk, extending up-
+wards with the points of the feathers. To the top of his head they
+fastened a horn. His face was also painted black. He was to rep-
+resent the Balolookong. He wore no costume.
 
 When they were done they went to the plaza during the night
 when all the people were asleep. They dug a hole in the shrine
@@ -2694,10 +2958,13 @@ the ghost, water began to come out of the ground. These biihos had
 shaped head-dress which is worn on many ceremonial occasions by various dancers
 
 
+March, 1905. The Traditions of the Hopi — Voth. 53
+
 really been Balolookongs, who, it seems, had finally entered the ground
 and were now bringing out the water from the ground.
 
-The people now became alarmed and began to suspect that probably a flood was about to destroy their village. That night they
+The people now became alarmed and began to suspect that prob-
+ably a flood was about to destroy their village. That night they
 killed their sheep and prepared food and had a great feast, thinking
 that probably the next day they would all be destroyed anyway. On
 the fourth day just before sunrise, the old man in his grave sang the
@@ -2725,7 +2992,8 @@ they had made. There were a great many of these bahos. They
 then called the Village Chief's son, who had caused the destruction,
 and his sister, a very pretty maiden. They dressed up the latter in
 the same manner in which the Flute-manas are costumed, putting a
-white robe on her, over which they tied a white kilt, and an eaglebreath feather in her hair above her forehead, beads around her neck,
+white robe on her, over which they tied a white kilt, and an eagle-
+breath feather in her hair above her forehead, beads around her neck,
 etc. Her chin was painted black, white lines running from ear
 to ear over her upper lip.
 
@@ -2734,8 +3002,11 @@ lines were painted on his legs, arms, and the back and front part of
 his body. These two were to drive back the Balolookongs. The
 water was still coming out of the ground and the Balolookongs still
 shooting swiftly through the water. The one that had been the old
-man, who was buried on the plaza, was the largest and most powerful of the Balolookongs and was still standing at the place where he
+man, who was buried on the plaza, was the largest and most power-
+ful of the Balolookongs and was still standing at the place where he
 
+
+54 Field Columbian Museum — Anthropology, Vol. VIII.
 
 had emerged from the ground. The rumbling of the falling houses
 could still be heard. When the two were dressed, the young man
@@ -2744,18 +3015,22 @@ the two balls and the rest of the bahos, and thus they began to wade
 into the waters. They made straight for the large' Balolookong,
 which was considered the chief of the water serpents. Arriving at
 the place where he stood, the young man grasped and encircled the
-serpent with both arms and pressed him down into the water, whereupon the serpents as well as the young man and his sister disappeared
+serpent with both arms and pressed him down into the water, where-
+upon the serpents as well as the young man and his sister disappeared
 under the water and never returned.
 
-Immediately the water began to fall and disappear in a comparatively short time, the powder of the beads and of the turquoise, which
+Immediately the water began to fall and disappear in a compara-
+tively short time, the powder of the beads and of the turquoise, which
 the mana had brought to the water serpent as an offering, causing
 the ground to dry and to become hard quickly because the powder
-was made of very hard substances. The water-serpents had all disappeared, but so had the young man and his sister. The place
+was made of very hard substances. The water-serpents had all dis-
+appeared, but so had the young man and his sister. The place
 where the village had stood was full of mud and the people could not
 get there for some time yet. Everything was destroyed there. Only
 the old men who had been turned into turkeys survived. They had
 been very old and bald-headed, which is the reason that the turkeys
-to-day have no hair or feathers on their head. In one house, however, which stood somewhat high, two children, two little brothers,
+to-day have no hair or feathers on their head. In one house, how-
+ever, which stood somewhat high, two children, two little brothers,
 had been sleeping during the flood and had not been drowned, but
 they had very little to eat now. The younger one had found a little
 piki in a tray, which they ate.
@@ -2764,7 +3039,8 @@ The people in the eastern part of the village soon set to work to
 prepare to emigrate. They baked pfki and made other food of the
 provisions that they still had left. Early in the morning the day
 after the water serpents had disappeared they took some of the food
-which they had prepared, and made a food altar (tonosh-pongya), eastward from the village. Packing up the things, and especially the
+which they had prepared, and made a food altar (tonosh-pongya), east-
+ward from the village. Packing up the things, and especially the
 food which they had prepared, they all passed by this food altar, the
 village chief at the head of the line. Each one took a little quantity
 of each kind of food that they had placed there and ate it. They then
@@ -2778,14 +3054,18 @@ they would cry because they were lonely. The turkeys that had
 been Hopi saw the children and pitied them, but, although they cried
 
 
+March, 1905. The Traditions of the Hopi — Voth. 55
+
 over them so that the tears would roll from their eyes, they could not
 say anything to them. Finally one of the turkeys took such a pity
 on the children that he commenced to talk to them. "You poor
 ones," he said to them, "how will you take care of yourselves here?
 There is some corn hanging on the walls yet, but you cannot reach
-it. You go to the east there to those other houses. There the people made food when they left. There is a food altar standing there
+it. You go to the east there to those other houses. There the peo-
+ple made food when they left. There is a food altar standing there
 yet, of which you may eat!" So the children went there and found
-many trays full of piki standing on the ground. Of that they satisfied their hunger. They also found a few rabbit-skin blankets in a
+many trays full of piki standing on the ground. Of that they satis-
+fied their hunger. They also found a few rabbit-skin blankets in a
 house and so they lived there.
 
 The people that had left the village traveled on. One day the
@@ -2799,16 +3079,19 @@ began to suffer. They wanted to go back to their house but saw
 that water serpent standing there, and so they were afraid and did
 not know how to get back to their house, but their food was nearly
 all gone. Bdlolookong saw the children and had sympathy with
-them. They were the children of his daughter so he was their grandfather. He cried over their fate, the tears rolling down his cheeks.
+them. They were the children of his daughter so he was their grand-
+father. He cried over their fate, the tears rolling down his cheeks.
 Stretching up high, he looked whether the mother of the children had
 gone very far, and saw the people, as they had not moved away very
 far, but the children were still afraid to go back to their house. Finally
 the serpent began to speak to them in Hopi: "Come here. Come
 here. Be not afraid of me, I am your grandfather." The children
 looked up and listened when they heard somebody speak to them.
-So they went to the serpent, who said to them: "I am your grandfather. I pity you, but what will you eat here? There is some corn
+So they went to the serpent, who said to them: "I am your grand-
+father. I pity you, but what will you eat here? There is some corn
 yet, but you cannot reach it, it is hanging so high on the walls. You
-find a place where there is some sweet corn strung on a string hanging on the wall; then pile up some stones, and climbing on the stones,
+find a place where there is some sweet corn strung on a string hang-
+ing on the wall; then pile up some stones, and climbing on the stones,
 throw some of the ears down with a stick. These you take with you
 as food and then follow your parents. They are not very far yet and
 you will overtake them. But whenever you get ready to go you
@@ -2817,6 +3100,8 @@ one bring it to me, maybe I shall want to follow them sometime, too. "
 So the children went through the houses and sure enough found a
 sharp knife of flint. They also found in one of the houses some corn
 
+
+56 Field Columbian Museum — Anthropology, Vol. VIII.
 
 hanging on strings on the wall not very high up. They piled up some
 stones and loosened some of the corn-ears with a stick so that a good
@@ -2838,7 +3123,8 @@ rain." The children refused to cut out the piece of flesh, saying:
 "That will hurt you very much." "No, no," he said, "be not
 afraid. " Finally they were willing, took the knife and cut out quite
 a large piece of flesh. They found that the meat was very tender
-and when they had cut out the piece the wound closed up immediately.
+and when they had cut out the piece the wound closed up immedi-
+ately.
 
 So they started after their people. In the evening they were
 very tired and slept all night. The next evening they were again
@@ -2856,11 +3142,15 @@ children and took pity on them. He concluded to descend and help
 them. He took a gourd vessel full of water and some rolls of nuv£-
 muhpi (pfki made of meal of fresh roasting ears) and then descended
 to where the children were. They were sleeping, their mouths were
-dry and parched. Soon the younger brother awoke and there somebody was sitting by their side, somebody very terrible. The person-
-age had three very long horns or projections on the head, two standing sideways, and one standing upward on top of the head. They
+dry and parched. Soon the younger brother awoke and there some-
+body was sitting by their side, somebody very terrible. The person-
+age had three very long horns or projections on the head, two stand-
+ing sideways, and one standing upward on top of the head. They
 
 1 Usually calldl CotukvnariKwuu
 
+
+March, 1905. The Traditions of the Hopi — Voth. 57
 
 were of ice. His costume also consisted of ice and was full of little
 fringes or icicles that rattled all over his body. On the head he also
@@ -2877,7 +3167,8 @@ drink; I have brought some water for you," and handed them the
 gourd vessel, from which they drank and quenched their thirst. He
 then handed them the food, and they ate it and satisfied their hunger.
 "You remain here," he said, "you remain here at least two or three
-days and eat and drink this, and when you have recovered and become strong then follow your people. They are not far away. They
+days and eat and drink this, and when you have recovered and be-
+come strong then follow your people. They are not far away. They
 are right east of here. " After he had said this and the children were
 not just looking towards him he rose again and disappeared in the
 sky. When the children looked for him he was gone.
@@ -2908,6 +3199,8 @@ Then he should put the scalp which he had brought on a stick and
 • Clan aunts.
 
 
+58 Field Columbian Museum — Anthropology, Vol. VIII.
+
 perform a dance on the plaza in which his kdamu should accompany
 him.
 
@@ -2916,7 +3209,8 @@ taught them many war and battle songs all night, it had become
 morning and he told them that now they should follow their people.
 He told them that their parents would probably not know them, but
 they would ask who they were, and they should then take hold of
-their mother and tell her who they were and she would then probably know them. Then C6tukvnangi returned to the sky. The
+their mother and tell her who they were and she would then proba-
+bly know them. Then C6tukvnangi returned to the sky. The
 lightning arrow (h6hu) and the thunder he had promised them, but
 had not yet delivered to them. He told them that whenever they
 needed them, wanting to go and kill some one, they should pray to
@@ -2934,7 +3228,8 @@ they said. "We have followed you. You have gone this way and
 our mother and our father are here and we have come after them."
 So they called the people together and said: "Come here and see if
 there is anybody here who did not bring their children with them,"
-and then the people gathered around the children. The people commenced to ask now the different women whether there was any one
+and then the people gathered around the children. The people com-
+menced to ask now the different women whether there was any one
 -who had failed to bring their children with them, but no one was
 found. They also asked the mother of the two children but she also
 denied. When no one could be found that would claim the two boys,
@@ -2942,7 +3237,8 @@ they recognized their mother and went to her, taking hold of her.
 hands, and said: "Our mother, we have come," then the mother
 remembered and acknowledged that her two children had remained
 in the house sleeping when they had fled, but she, of course, had
-thought that they had perished. And when she now saw her children before her, she embraced them and cried. So the children
+thought that they had perished. And when she now saw her chil-
+dren before her, she embraced them and cried. So the children
 remained with their mother.
 
 The people living in the smaller village were the Batki-namu.
@@ -2952,6 +3248,8 @@ told the people about the piece of flesh that they had cut from the
 
 1 A place a fe-^r miles north of the present Winslow.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 59
 
 back of Bdldldokong, and had brought with them. So when the
 Batki people made bdhos they rubbed a little of this meat into the
@@ -2970,9 +3268,11 @@ us, and then let us go and kill some one. " To their mother and the
 people they said that they were going to kill some deer, and so she
 prepared some food for them and they started off. In the evening
 they gathered some wood and built a fire. C6tukvnangi saw them
-and came down to them again. "You have now reached your object," he said to them. "Yes," they replied. "It is well that you
+and came down to them again. "You have now reached your ob-
+ject," he said to them. "Yes," they replied. "It is well that you
 have come, "he said. "Close by here are some Apache, and whoever
-becomes a warrior for having killed them, he is a great warrior, because they are fierce. These Navaho do not amount to much, and it
+becomes a warrior for having killed them, he is a great warrior, be-
+cause they are fierce. These Navaho do not amount to much, and it
 is well that you have come in this direction." So during the night
 he instructed them how to go out and kill the Apache, also teaching
 them some war songs. Hereupon he went home again. He first
@@ -2996,6 +3296,8 @@ Hereupon he drew forth the lightning and the thunder and aimed
 at the Apache and shot the lightning into the crowd. All their
 enemies were slain, their camps burned up, and the two brothers
 
+
+60 Field Columbian Museum — Anthropology, Vol. VIII.
 
 laughed at their slain enemies. The Apache had previously made
 many raids on the Hopi at Hom61ovi, and for this reason the two
@@ -3022,7 +3324,8 @@ In the morning C6tukvnangi again ascended and the two returned
 to their, home, singing war songs as they went along. They went,
 however, to the larger village, as in the village where their mother
 lived there were so very few people, and here the rejoicings and rites,
-to be mentioned presently, occurred. When they arrived at the village they were received by the shouts of their people, who surrounded
+to be mentioned presently, occurred. When they arrived at the vil-
+lage they were received by the shouts of their people, who surrounded
 them, and snatching away the trophies that they had brought with
 them, swung them around, by which it is said they were discharmed
 from any bad influence, and then they threw them among the people
@@ -3034,13 +3337,16 @@ brother took the scalp which he had been carrying on a stick while
 they were dancing, and forcibly threw it at one of the inhabitants
 from the larger village, saying: "It is you, you shall be our war chief.
 We give this to you. You shall lead us after this. " Hereupon they
-followed him, going around the village four times. They then entered the kiva where the two brothers instructed them as to the rites
+followed him, going around the village four times. They then en-
+tered the kiva where the two brothers instructed them as to the rites
 to be observed in connection with their warfare. They drew the
 cloud symbol already referred to on the floor, whereupon the newly
 appointed war chief threw the scalp upon the symbol. They then
 cut out a piece of bear skin, sprinkled a ring of corn meal around it,
 and placed the war chief upon it, where he had to remain for three
 
+
+March, 1905. The Traditions of the Hopi — Voth. 61
 
 days. Hereupon followed the public war dance on the plaza on the
 fourth day (as already referred to on a previous page).
@@ -3058,14 +3364,16 @@ the present inhabitants of the village of Shupaulavi have derived
 their name. When the migrating party had reached a certain bluff,
 called Coyote Spring Bluff (probably about twenty-five or thirty
 miles northeast of Winslow), they remained there, but not very long
-it seems. Here they separated, the Bitki clan proceeding northeastward to Aodtovi, the others going northward towards a place a
+it seems. Here they separated, the Bitki clan proceeding north-
+eastward to Aodtovi, the others going northward towards a place a
 few miles west of Matdvf. Here they again remained for a number
 of years as they had good fields there. They finally proceeded farther
 north to a place called Nishiwamu (about a mile south of Shong£-
 pavi), where they probably remained about three years. Just as
 they arrived at this place, the sun arose, the upper part of the sun
 (his forehead, the Hopis say), just looming up above the horizon.
-For this reason they were ever afterwards the Forehead clan (Kdlriamu). They made repeated efforts to get permission from the
+For this reason they were ever afterwards the Forehead clan (Kdl-
+riamu). They made repeated efforts to get permission from the
 village chiefs of Shong6pavi to move on the mesa into the village,
 but their efforts were unsuccessful. It seems that the chief had
 heard something of their doings in Paldtkwapi, because he claimed that
@@ -3076,7 +3384,8 @@ Hom61ovi.
 The chief of Shupaulavi, which village, however, was not called
 by that name at that time, but was called W£ki (refuge house), heard
 that these people were going to return and so he went to them and
-invited them to move up to and settle down in his village, which invitation they accepted. They are still by far the most numerous clan
+invited them to move up to and settle down in his village, which invi-
+tation they accepted. They are still by far the most numerous clan
 in the village of Shupaulavi. The village was from that time called
 Shupaulavi, after the name of the new arrivals, who were called by
 that name because they had fled from Hom61ovi^on account of the
@@ -3085,6 +3394,8 @@ was considerably larger than Shong6pavi, the latter having lost a
 great many inhabitants a long time before, when the people of that
 
 
+62 Field Columbian Museum — Anthropology, Vol. VIII.
+
 village killed a number of Spanish and destroyed their missions, on
 which occasion a number of Shong6pavi fled to Shupaulavi.
 
@@ -3092,11 +3403,14 @@ The chief of Shong6pavi seems to have borne a grudge against
 Shupaulavi, because later on he informed the Spaniards in New
 Mexico, probably at Sante Fe, that they should come and take away
 the inhabitants of Shupaulavi, and said that this was the latter 's own
-wish. So one time the news reached the villages that many Spaniards had arrived at Keams Canyon where they were camping. The
+wish. So one time the news reached the villages that many Span-
+iards had arrived at Keams Canyon where they were camping. The
 next day they came -to Walpi where they inquired who it was that
-wanted to be taken away. The chief of Walpi and the chief of Shupaulavi were good friends with each other, and as soon as the Walpi
+wanted to be taken away. The chief of Walpi and the chief of Shu-
+paulavi were good friends with each other, and as soon as the Walpi
 chief heard about the matter he quickly proceeded to Shupaulavi and
-informed his friends about it, saying: "The Spaniards have come because they have heard that you wanted them to come and take you
+informed his friends about it, saying: "The Spaniards have come be-
+cause they have heard that you wanted them to come and take you
 east. They have come for you and for no one else. " "That is
 false, " the Shupaulavi chief said. " It is not I that want that, it must
 be some one else. It is probably the chief of Shong6pavi. " "All
@@ -3110,7 +3424,8 @@ where the leader of the Spaniards was, the latter, who was a powerful
 man, stood and looked at the new arrivals with his arms akimbo.
 The two men eyed each other for some time. Finally the Spaniard
 gave the Shupaulavi chief his hand and shook it. The Shupaulavi
-chief embraced him, the Spanish officer doing the same. All peoplepresent were crying. The chief at once drew forth the presents which
+chief embraced him, the Spanish officer doing the same. All people-
+present were crying. The chief at once drew forth the presents which
 he had brought, and handed them to the Spanish officer. "This is
 yours," he said. "I have heard that you came to get my children
 and my people. It is not I that wished it, it must be some one else.
@@ -3127,6 +3442,8 @@ of Shong6pavi. " The officer then said that the next day he would
 when he wanted to do so. He had been over in New Mexico during some night and had informed
 the Spanish chief himself, being back the next day.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 63
 
 bring his soldiers to a place west of Walpi where there was a large
 pool of water at that time. He said that they were tired and would
@@ -3150,7 +3467,8 @@ for the night. In the morning after breakfast the latter returned.
 After that the Spaniards never encroached on the Hopi any more,
 but the Shong6pavi chief, whose village at that time was very small,
 spread the news that the Spaniards would come back again some
-time to Shupaulavi and get them. This so scared the people at Shupaulavi that a majority of them left the village and moved over to
+time to Shupaulavi and get them. This so scared the people at Shu-
+paulavi that a majority of them left the village and moved over to
 Shong6pavi, which it is said accounts partly for the small number
 of inhabitants in the village of Shupaulavi.
 
@@ -3159,7 +3477,8 @@ of inhabitants in the village of Shupaulavi.
 Halfksai! This place, Kadtukvi, is somewhere east of the
 Pueblo Indians, and a long time ago many people lived there. West
 of them was a large mountain like the San Francisco Mountains (near
-Flagstaff). In these mountains lived many Katcinas. Those people sometimes had ceremonies (hfhta tot6fca yungwa), but they did
+Flagstaff). In these mountains lived many Katcinas. Those peo-
+ple sometimes had ceremonies (hfhta tot6fca yungwa), but they did
 not yet know the Katcinas.
 
 One time some of the Katcinas also assembled in their kiva in
@@ -3175,13 +3494,18 @@ By the side of the line of dancers danced a Katcina Uncle (Katcina
 1 Told by PQh<ln6mtiwa (Oraibi).
 
 
-Taha). The people, not knowing what or who the dancers were, became angry and concluded among themselves that they wanted to
+64 Field Columbian Museum — Anthropology, Vol. VIII.
+
+Taha). The people, not knowing what or who the dancers were, be-
+came angry and concluded among themselves that they wanted to
 kill them. The Katcinas heard what the people said about wanting
 to kill them and ran away. West of the village they jumped from
 a bluff into a large crack. These were the Snow (Nuva) Katcinas,
 the Uncle being a Hot6to Katcina. The Katcina Uncle was in the
-lead when they jumped in the crack. Here the people who had followed them set fire to them and burned them up. The Katcina
-Uncle who was at the bottom was not burned. Early in the morning he crept out and returned home to the mountains, singing the
+lead when they jumped in the crack. Here the people who had fol-
+lowed them set fire to them and burned them up. The Katcina
+Uncle who was at the bottom was not burned. Early in the morn-
+ing he crept out and returned home to the mountains, singing the
 following song as he walked along:
 
 Tanayo, tanayo,
@@ -3216,7 +3540,8 @@ the Heh£a was hoeing with a wooden hoe (wffca), still used by the
 Hehea Katcinas in their dances. It was early in the morning. All
 at once he heard somebody singing, raised his wffca and listened, but
 just then the singing stopped. The Katcina again commenced to
-hoe, and again heard the singing. Listening again he heard the singing and the sobbing and behold ! somebody was walking along crying.
+hoe, and again heard the singing. Listening again he heard the sing-
+ing and the sobbing and behold ! somebody was walking along crying.
 
 When the Hot6to arrived at the Hehea Katcina the latter asked:
 44 Why are you walking along saying something and crying? " "Yes, "
@@ -3229,6 +3554,8 @@ why I was moaning as I went along. " The Hehea Katcina then also
 commenced to moan as follows:
 
 
+March, 1905. The Traditions of the Hopi — Voth. 65
+
 Ochitana, iyawa, iyava
 Ochitana! iyava, iyava.
 Alas ! (This is the only word of which meaning could be
@@ -3238,7 +3565,8 @@ Hininiya ihihi io hiiohiio, h- h- h- h-.
 
 Hereupon they both went home into the mountain where there
 were a great many Katcinas, men, women, youths, and maidens.
-" Why do you come alone? " they asked the Hot6to. The latter hereupon repeated what he had said to the Heh£a Katcina. "We shall
+" Why do you come alone? " they asked the Hot6to. The latter here-
+upon repeated what he had said to the Heh£a Katcina. "We shall
 sometime take revenge," said the chief of the Katcinas, and ordered
 the Katcinas to assemble and to dress up. Hereupon they made it
 hail for three days. Early in the morning of the fourth day they
@@ -3247,7 +3575,8 @@ their emblem or standard (ndtsi); it was a very beautiful cloud.
 Then the Katcinas ate their morning meal.
 
 The people in the village saw the cloud. They had gone to their
-fields early in the morning for they had many fields around the village. After breakfast many more clouds began to rise above the
+fields early in the morning for they had many fields around the vil-
+lage. After breakfast many more clouds began to rise above the
 mountains, towering upon each other. They soon spread out and
 during the afternoon they covered the sky, coming up from all four
 sides. The corn of the Hopi had at this time begun to mature and
@@ -3257,21 +3586,26 @@ and to rain in the mountains and the clouds began to move towards
 the Hopi village. When they had arrived there it was thundering
 and lightning and it rained great hailstones. All the crops were
 ^destroyed, and even the people, although they left their houses and
-fled to the kivas, were killed. Only one man and one woman remained alive. When everything had been destroyed, the clouds said:
+fled to the kivas, were killed. Only one man and one woman re-
+mained alive. When everything had been destroyed, the clouds said:
 "We will stop now and return," and then they began to disperse in
 all directions, some of them returning to the mountains. The
-Katcinas were then happy saying, "Now we have revenged ourselves, let it be thus. " The woman that had been spared again bore
+Katcinas were then happy saying, "Now we have revenged our-
+selves, let it be thus. " The woman that had been spared again bore
 children and the village was by and by again inhabited.
 
 14. HOW THE CIRCLE (PONGO) KATCINA AND HIS WIFE BECAME
 
 STARS.'
 
-Halfksai! In Orafbi the people were living. In the north-western part of the village was at that time a kiva called Hamfs-kiva.
+Halfksai! In Orafbi the people were living. In the north-west-
+ern part of the village was at that time a kiva called Hamfs-kiva.
 Somewhat south of this kiva close to the present site of the Han6-
 
 1 Told by LomAnGmtiwa (Oraibi).
 
+
+66 Field Columbian Museum — Anthropology, Vol. VIII.
 
 kiva lived a "maiden. She persistently refused to marry any young
 man in the village. At Red Sand (Palanvisa), a place north-east of
@@ -3281,21 +3615,24 @@ maidens, but one time she went out intending to play with the
 maidens. When she came to the edge of the mesa she sat down and
 watched the other maidens play. A young man dressed in a blue
 Hopi blanket came by and asked her why she did not play with the
-other -maidens. "Yes," she said, "I never play with them." Hereupon he sat down beside her and they talked together a little while,
+other -maidens. "Yes," she said, "I never play with them." Here-
+upon he sat down beside her and they talked together a little while,
 then the maiden returned to her home.
 
 In the evening she was grinding corn. While she was grinding
 a Katcina came to the village, danced first near the Coyote (Ish) kiva,
 then at the Singer (Tdo) kiva, then at the Public plaza (Kfconvee),
 then at the Wrinkle (Wfkolapi) kiva, and finally at the Hamfsikiva.
-Hereupon he left the village. The next morning the mana again proceeded to the place at the edge of the mesa where she had been sitting
+Hereupon he left the village. The next morning the mana again pro-
+ceeded to the place at the edge of the mesa where she had been sitting
 the previous day, and again the youth joined her. This time he
 asked her if she would marry him if her father and mother were
 willing. She consented. He told her that if they were willing he
 would come and get her the next day. He then told her that he was
 the Katcina who was dancing in the village, saying that he would
 again dance at the same places as usual, and then after he would be
-through she should come and meet him at "The Place-Where-Scalpsare-Dressed" (Y6vutzrhrokwanpi). Hereupon they parted.
+through she should come and meet him at "The Place-Where-Scalps-
+are-Dressed" (Y6vutzrhrokwanpi). Hereupon they parted.
 
 In the evening she was again grinding corn and the Katcina again
 went through the village dancing at the places mentioned, and singing
@@ -3322,9 +3659,12 @@ voice called out from the kiva inviting them to come in. They en-
 1 Phcllopterus multinerva.
 
 
+March, 1905. The Traditions of the Hopi — Voth. -67
+
 tered and found here a great many different Katcinas. The youth
 was the Circle (P6ngo) Katcina. Hereupon the youth handed the
-m£na some pfki made of fresh roasting ears, and also some watermelon slices, which she ate. They then remained in this kiva, the
+m£na some pfki made of fresh roasting ears, and also some water-
+melon slices, which she ate. They then remained in this kiva, the
 m£na preparing the food for the Katcinas, and the latter preparing
 the bridal costume for the mdna. Every night the P6ngo Katcina
 would go to the village and dance, as already explained. When the
@@ -3367,6 +3707,8 @@ the spectators whether some one would not nurse the children for
 these roasting ears that they had brought with them, but no one
 was willing. They went to the plaza, repeated their dancing and
 
+
+68 Field Columbian Museum — Anthropology, Vol. VIII.
 
 singing, whereupon the father again asked the women that some one
 nurse his children for the roasting ears, but no one was willing.
@@ -3421,6 +3763,8 @@ of Katcinas had a dance. When one party had danced and gone
 away, another party would come and perform their dance and leave.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 69
+
 Then another party, and so on. When all had danced, Hahaii Wuhti
 returned to her home and told the three Circle Katcinas about the
 dance. She told them about it; then they also went and performed
@@ -3449,10 +3793,12 @@ grandmother, the Hahdii Wuhti, which they did. He then took a
 pointed stick and killed his wife with it by thrusting it into her throat.
 Leaving the body at the place, he followed his two sons, but before
 he reached the place where they were the skeleton of his wife followed
-him. The two boys had safely gotten into the house of their grandmother, but their father ran away, being followed by the skeleton.
+him. The two boys had safely gotten into the house of their grand-
+mother, but their father ran away, being followed by the skeleton.
 He finally arrived at the First Mesa, rushed into the village of Hano
 and there into a kiva where a number of women were making jugs.
-He begged them to hide him as something was pursuing him. Hereupon one of the women hid him under a pile of clay which they were
+He begged them to hide him as something was pursuing him. Here-
+upon one of the women hid him under a pile of clay which they were
 using for making their pottery. The skeleton then arrived, saying,
 "Hava! Did my husband not come here?" she asked. "No," they
 replied. "Yes," the skeleton said, "because his tracks end here, ,,
@@ -3466,11 +3812,14 @@ of his wife. In Walpi he again entered a kiva. Here they were
 practicing a war dance. "Hide me quickly," he said, "some one is
 
 
+70 Field Columbian Museum — Anthropology, Vol. VIII
+
 following me." "Come here," they said, and handed him a drum.
 So he beat the drum. The skeleton soon arrived and entered the
 kiva after having spoken the same words as in Hino. She shoved
 the dancers aside, but when she came to the one who was beating the
-drum, he threw aside the drum and rushed out, running to Mish6ngnovi. Here he again rushed into a kiva where they were assembled
+drum, he threw aside the drum and rushed out, running to Mish6ng-
+novi. Here he again rushed into a kiva where they were assembled
 for the Lag6n ceremony. The women were making trays. He again
 asked to be hidden as he was being pursued by some one. One of the
 women told him to be seated in her lap, which he did. She covered
@@ -3517,7 +3866,8 @@ priests were very angry and called at the woman to run. She started,
 and her husband started after her. "You shall always follow each
 other this way," the Flute priests said. They both ran westward,
 and are still running in that way. The two stars, Nangdsohu
-pursue each other because one constantly follows the other, sometimes overtaking it and then again remaining behind, are these two
+pursue each other because one constantly follows the other, some-
+times overtaking it and then again remaining behind, are these two
 personages.
 
 15. THE KOKOSHORI KATCINA AND THE SHONG6PAVI MAIDEN. 1
@@ -3534,11 +3884,13 @@ me." " Let us go to my house," he said. The child was a little girl.
 
 Now the child sat upon the back of the Katcina and the latter
 took it along. They now arrived at the village of those who lived
-at Kfshiwu. There were a great many Katcinas. They saw somebody coming carrying a little girl. Now, those Katcinas were glad.
+at Kfshiwu. There were a great many Katcinas. They saw some-
+body coming carrying a little girl. Now, those Katcinas were glad.
 "You, whom do you bring there?" they said. Now the Hah£i Wuhti
 was very happy. " Ishunf ! " she said. Now he put it down. "Where
 did you get that?" said the Hahdi Wuhti. " I went about at Shong6-
-pavi and the mother of this one went to get water, and this one followed her, and alas! she threw at it with a stone, and I pitied it and
+pavi and the mother of this one went to get water, and this one fol-
+lowed her, and alas! she threw at it with a stone, and I pitied it and
 have brought it." And now they pitied the child. "Very well,"
 they said. "Alas! Why is it thus." Now they fed it. The Hahai
 Wuhti spread out povdlpiki, handed the child a vessel with peaches,
@@ -3550,12 +3902,15 @@ After that it lived there. Now they always provided food for it.
 And because it ate this food it became big very soon. But now it
 became homesick. In the night the Katcinas danced. After the
 dance they would distribute steamed corn, watermelons and melons,
-but the child would only eat one occasionally, because it was homesick. It did not talk, it was sad. Now they said, "Come, let us
+but the child would only eat one occasionally, because it was home-
+sick. It did not talk, it was sad. Now they said, "Come, let us
 
 1 Told by Lomavantiwa (Shupatilavi).
 
 2 This name is spoken differently in different villages: Ki'shiwim, Kishiwu, and Kishiwu.
 
+
+72 Field Columbian Museum — Anthropology, Vol. VIII.
 
 take it to the village." Now the Kok6shori went to look after the
 father and the mother, and, alas! they too were homesick. They
@@ -3571,7 +3926,8 @@ belt and a pretty dress and some fine moccasins. But a Qdoqoqlom
 carried something in a burden basket on his back, a melon, peaches,
 and watermelons, etc. All the Katcinas brought something to eat.
 When they came to the village it rained very hard. So they arrived
-at Shong6pavi. They did not arrive dancing, but singing and walking. They sang as follows:
+at Shong6pavi. They did not arrive dancing, but singing and walk-
+ing. They sang as follows:
 
 Kokooshori, Kokooshori, Kokooshori,
 
@@ -3617,6 +3973,8 @@ food. Now they ascended to the house and entered it. The Qdoqoq-
 16m had wrapped up some meat and laid it down. He also laid
 
 
+March, 1905. The Traditions of the Hopi — Voth. 73
+
 down some peaches and watermelons, so that everything there became
 filled up; and they also now distributed some among the people.
 Having done that they went home. "You must at once send your
@@ -3649,7 +4007,8 @@ Halfksai! In Orafbi the people were living. At the place where
 Tuw£-mana now lives, right east of the public plaza, lived a maiden
 who persistently refused to marry any of the young men of the village,
 although many of them were wooing her. North of the village at
-Achamali, lived an old woman with her grandson. "My grandmother," he said to her one time. "What is it?" she answered.
+Achamali, lived an old woman with her grandson. "My grand-
+mother," he said to her one time. "What is it?" she answered.
 "Yes," he said, " I am going to visit that maiden there in the village,
 and see whether she will not marry me." "Alas!" she replied, "she
 will not want you." "I am going to try it anyhow," he answered.
@@ -3664,6 +4023,8 @@ the opening, and saw that she was very busy grinding corn. "Stop
 
 1 Told by MacAhon«va (Oraibi)
 
+
+74 Field Columbian Museum — Anthropology, Vol. VIII.
 
 a little," he said. She stopped and asked: "Why do you want me
 to stop?" "Yes," he said, "I came to you." "Who are you?" she
@@ -3712,7 +4073,10 @@ of 'the corn down to her parents who were also glad, and ate of it
 because thev were new corn ears.
 
 
-Returning tathe room where the young man was sitting, they conversed together for a while. "Very well," the maiden said, "I shall
+March, 1905. The Traditions of the Hopi — Voth. 75
+
+Returning tathe room where the young man was sitting, they con-
+versed together for a while. "Very well," the maiden said, "I shall
 now save the corn-meal that I am grinding, then sometime I shall
 come over to your house." Whereupon they separated, the young
 man going back to his house, and the mdna also retiring for the night.
@@ -3727,8 +4091,10 @@ he went in first. His grandmother welcomed the maiden to her
 house and invited her repeatedly to come in. The young man also
 told her to come in.
 
-So she entered. She first handed the tray with meal to the grandmother, who thanked her for it, and put the meal away. They then
-ate the evening meal, which consisted of corn, melons, and watermelons. After having conversed for some little time they retired for
+So she entered. She first handed the tray with meal to the grand-
+mother, who thanked her for it, and put the meal away. They then
+ate the evening meal, which consisted of corn, melons, and water-
+melons. After having conversed for some little time they retired for
 the night, the m£na sleeping with the grandmother. Early in the
 morning when the yellow dawn was appearing the grandmother and
 the maiden went out to kuivato (to make prayer-offerings, consisting
@@ -3750,9 +4116,12 @@ in a row north of the fireplace. Hereupon he said to the chickens:
 then afterwards sing the same way."
 
 Hereupon he hung a little drum over his shoulder, gave a signal
-on the drum, when all the chickens looked at him and listened attentively, while the young man sang the following song, accompanying
+on the drum, when all the chickens looked at him and listened at-
+tentively, while the young man sang the following song, accompanying
 it by beating the drum :
 
+
+76 Field Columbian Museum — Anthropology, Vol. VIII.
 
 Aha ihi aha
 
@@ -3785,7 +4154,8 @@ food." This the mana did in the morning, preparing some pffcami
 and other food. The young man again went hunting and returned
 with rabbits. The grandmother prepared a great deal of ndqkwiwi.
 In the evening they spread the food on the floor, filling a great many
-bowls and trays. When they had spread out the food the grandmother went out and called out: "You my neighbors here, come in
+bowls and trays. When they had spread out the food the grand-
+mother went out and called out: "You my neighbors here, come in
 and eat, and be not slow about it, but come in and eat. "
 
 Hereupon the three sat down and commenced to eat. While
@@ -3793,7 +4163,8 @@ they were eating the people began to come in. The first one that
 came in carried under his arm a large white bridal robe; the second
 one a small bridal robe; the third one a white knotted belt; the fourth
 one a pair of bridal moccasins; and the fifth one a reed receptacle.
-Having placed the same on the floor, they sat down and ate. Hereupon they exhorted the young man, saying to him that when he
+Having placed the same on the floor, they sat down and ate. Here-
+upon they exhorted the young man, saying to him that when he
 would now take his bride home and live there in the village he should
 be good to the people and he should not be angry at them, but should
 benefit them, whereupon they left the kiva.
@@ -3803,12 +4174,16 @@ and washed the mana's head. When her hair was dry she took her
 out and sprinkled meal to the rising sun. When they returned she
 
 
-dressed her up in the bridal costume. The young man put four watermelons in a blanket, and just as the sun was rising they all went out,
+March, 1905. The Traditions of the Hopi — Voth. 77
+
+dressed her up in the bridal costume. The young man put four water-
+melons in a blanket, and just as the sun was rising they all went out,
 the grandmother sprinkling a road of meal for her children, and then
 told them to go on now, whereupon they proceeded to the village,
 to the house of the bride. Arriving at the house they were welcomed
 by the mother of the bride who took the bridal costume and also the
-watermelons, which the young man had brought and put everything away. Hereupon the young people lived in the village, and
+watermelons, which the young man had brought and put every-
+thing away. Hereupon the young people lived in the village, and
 as the young man was a Katcina the village prospered, it always
 rained and they had much to eat. But by and by his wife went
 astray, at which her husband became angry and left the village,
@@ -3827,7 +4202,8 @@ she also was very feeble he took care of her and used to lead her.
 One time the Ahdli and the little maiden went to their field south of
 Walpi where they wanted to plant. They carried with them little
 pouches containing seeds. In their field was a Mho shrine, and
-when they came to their field the Katcina first deposited some prayerofferings in the shrine, first some corn-meal and then also some nak-
+when they came to their field the Katcina first deposited some prayer-
+offerings in the shrine, first some corn-meal and then also some nak-
 w£kwosis which he drew forth from his corn-meal bag. This bag he
 had tied around his neck.
 
@@ -3836,7 +4212,8 @@ In this shrine lived Mdyingwa and his sister Nayangap Wuhti.
 replied. "Thanks," Nayangap Wuhti said, "thanks, our father,
 that you have come. You have remembered us. No one has
 thought about us for a long time and brought some offering here,
-but you have thought about us." And she began to cry. Hereupon Ahdli gave to each one a stick upon which some nakw^kwosis
+but you have thought about us." And she began to cry. Here-
+upon Ahdli gave to each one a stick upon which some nakw^kwosis
 were strung, and also some corn-meal. Hereupon Nayangap Wuhti
 was crying still more. "Yes, we have come here," the Katcina
 said, "we are pitying our people because they have not had any
@@ -3844,6 +4221,8 @@ crops for a long time, and now we thought about you here and have
 
 1 Told by Kuhkuirna (Shupaula. i)
 
+
+78 Field Columbian Museum — Anthropology, Vol. VIII.
 
 brought these prayer-offerings here. And now you pity them and
 let it rain now, and when it rains then a crop will grow again and
@@ -3907,6 +4286,8 @@ r times, also praying to the objects, they became moist so that the
 ; water was beginning to flow from them, indicating that their efforts
 
 
+March, 1905. The Traditions of the Hopi — Voth. 79
+
 had been successful and that these objects would produce rain,
 which was symbolized by this moisture.
 
@@ -3929,7 +4310,8 @@ heard the same voice singing on top of the mesa, which they had
 heard before.
 
 There were then no villages on top of the mesa, but the shrine of
-Tal£whtoika was there already, and at this shrine some one was singing. When looking up they say that it was the Big-Horn (Wopdkal)
+Tal£whtoika was there already, and at this shrine some one was sing-
+ing. When looking up they say that it was the Big-Horn (Wopdkal)
 Katcina. Hereupon they returned to their house, but immediately
 started up on the mesa to look for and meet the one that they had
 heard singing. So they went up and reached the top of the mesa
@@ -3940,20 +4322,23 @@ yarn over his shoulder. He was standing by the side of the shrine
 shaking a rattle of bones slowly up and down. After having shaken
 the rattle four times h$ started off. "Wait," the Ahdli Katcina
 said, "wait, we have heard some singing up here and want to see
-who it is." "Yes," the other Katcina, which was the Aototo, replied, "yes, I am not singing, but we are two of us here, and the
+who it is." "Yes," the other Katcina, which was the Aototo, re-
+plied, "yes, I am not singing, but we are two of us here, and the
 other one was singing." By this time the Big-Horn Katcina came
 from the west end of the mesa holding in his left hand a bow, and
 having a quiver strung over his right shoulder. He had a green
 mask with a big horn on the right side and an ear on the left. He
 wore a nice kilt, nice ankle bands, and his body was painted up
 nicely. When he arrived at the shrine he asked the Aototo: "Why
-do you tarry here?" "Yes," the Aototo replied, "these are detaining me. " "Why ? " the Big-Horn Katcina asked. " We heard some-
+do you tarry here?" "Yes," the Aototo replied, "these are detain-
+ing me. " "Why ? " the Big-Horn Katcina asked. " We heard some-
 
 
 8o Field Columbian Museum — Anthropology, Vol. VIII.
 
 body singing here," the Ahdli replied, "and we came up here to see
-who it was, and so it is you. Now, what do you think," he continued, "let us go down all together and then we shall possess the
+who it was, and so it is you. Now, what do you think," he con-
+tinued, "let us go down all together and then we shall possess the
 people," and he told the Katcinas about what they had obtained
 and were going to do. So the two Katcinas were willing and they
 prepared to go down.
@@ -3970,7 +4355,8 @@ and down there. It was somebody dangerous (nukpana), who had
 large protruding eyes and a big mouth in his mask, and many rattles
 around his body and along the front part of his legs. His arms were
 painted white, his body red. Around his shoulders he had a small
-blanket of rabbit skin. On his feet he had old, torn, black moccasins. In his right hand he had a large knife, in his left hand a crook,
+blanket of rabbit skin. On his feet he had old, torn, black mocca-
+sins. In his right hand he had a large knife, in his left hand a crook,
 to which a number of m6sililis were attached. 1 It was the C6oyoko,
 who used to kill and devour children there. When the Katcinas saw
 him they said to him: "Do not trouble us, we are going to possess
@@ -3985,16 +4371,20 @@ better. When it will rain here you can go back, but we want to help
 the people first. So to-morrow morning we shall go to the fields and
 plant for the people. " During the night they did not sleep but they
 were singing all night, on their masks, which they had standing in a
-row in the north side of the room. When the yellow dawn was appearing before sunrise it commenced to rain, and it rained hard.
+row in the north side of the room. When the yellow dawn was ap-
+pearing before sunrise it commenced to rain, and it rained hard.
 Towards noon the Katcinas dressed up, putting on their masks, went
 out, crossed the mesa, came to the fields south of the mesa, and
 there they beheld large fields of corn, patches filled with melons,
 watermelons, and squashes. Everything was growing beautifully.
 
 1 Mosililis. i'onc-shajK'il shells from one to two inches long, which are tied by moans of thin
-buckskin thongs to sticks that are from six to eight inches long and bent at one end. These rattles are highlv prized by the Hopi and are used in various ceremonies, but, chiefly in those of the
+buckskin thongs to sticks that are from six to eight inches long and bent at one end. These rat-
+tles are highlv prized by the Hopi and are used in various ceremonies, but, chiefly in those of the
 Piute Fratcrnitu'-. Shells .»f this kind are among the objects found in the ruins of Tusayan.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 81
 
 Having looked around a little while they turned around, taking with
 them a watermelon, an ear of fresh corn, and a melon. It was still
@@ -4016,16 +4406,19 @@ A long time ago Pook6nghoya and his little brother Baldngahoya
 lived north of the village at the shrine of the Achdmali. One day
 they heard that two beautiful maidens were watching some fields west
 of the village of Huckovi, of which the ruins may still be seen a few
-miles north-west of Orafbi. They concluded that they would go hunting and at the same time visit those two maidens. When they arrived
+miles north-west of Orafbi. They concluded that they would go hunt-
+ing and at the same time visit those two maidens. When they arrived
 there the maidens joyfully greeted them and they were joking and
 teasing each other. The maidens believed that the two brothers had
-come with the intention to marry them, and they said, in a half-jesting manner, to their suitors: "We will cut off an arm from each one
+come with the intention to marry them, and they said, in a half-jest-
+ing manner, to their suitors: "We will cut off an arm from each one
 of you, and if you do not die you may own us. " The younger brother
 was at once willing, saying to his elder brother: "They are beautiful;
 let us not be afraid of having our arm cut off." The elder brother
 hesitated, saying, that that would hurt. So the younger brother
 said, "I am willing, " laid his right arm over the edge of the mealing
-trough at which the maidens had been working, and one of the maidens struck the arm with the upper mealing stone and cut it off, the
+trough at which the maidens had been working, and one of the maid-
+ens struck the arm with the upper mealing stone and cut it off, the
 arm dropping into the trough or bin. His elder brother hereupon
 laid his arm over the edge of the bin, which consisted of a thin, sharp
 slab, and the other maiden also cut his arm off with her mealing stone.
@@ -4039,6 +4432,8 @@ done some mischief." "Yes," they said, "We met two beautiful
 1 T<»!<1 by Oovawaima (Oraibi).
 
 
+82 Field Columbian Museum — Anthropology, Vol. VIII.
+
 maidens and liked them very much, and so we allowed them to cut
 off our arms." " Very well," she said, "I am going to set you right
 again." So she asked them to lay down north of the fireplace.
@@ -4051,7 +4446,8 @@ sisters was the prettier one and Pook6nghoya wanted to choose that
 one. His younger brother protested, saying: "Yesterday you were
 not willing to have your arm cut off, as you were then afraid, and now
 you want to have the first choice. I had my arm cut off first and I
-am going to choose first," to which his elder brother finally consented. They slept with the maidens that night and then left them
+am going to choose first," to which his elder brother finally con-
+sented. They slept with the maidens that night and then left them
 and returned to their home north of Orafbi.
 
 19. THE POOK6NGHOYAS AND THE CANNIBAL MONSTER. 1
@@ -4059,13 +4455,15 @@ and returned to their home north of Orafbi.
 A very long time ago a large monster, whom our forefathers called
 Shfta, lived somewhere in the west, and used to come to the village
 of Orafbi and wherever it would find children it would devour them.
-Often also grown people were eaten by the monster. The people became very much alarmed over the matter, and especially the village
+Often also grown people were eaten by the monster. The people be-
+came very much alarmed over the matter, and especially the village
 chief was very much worried over it. Finally he concluded to ask
 the Pook6nghoyas for assistance. These latter, namely Pook6nghoya
 and his younger brother Baldngahoya, lived north of and close to the
 village of Orafbi. When the village chief asked them to rid them of
 this monster they told him to make an arrow for each one of them.
-He did so, using for the shaft feathers, the wing feathers of the bluebird. These arrows he brought to the little War Gods mentioned.
+He did so, using for the shaft feathers, the wing feathers of the blue-
+bird. These arrows he brought to the little War Gods mentioned.
 They said to each other: "Now let us go and see whether such a
 monster exists and whether we can find it." So they first went to
 Orafbi and kept on the watch around the village. One time, when
@@ -4073,12 +4471,15 @@ they were on the east side of the village at the edge of the mesa, they
 noticed something approaching from the west side. They at once
 went there and saw that it was the monster that they were to destroy.
 When the monster met the two brothers it said to them: "I eat
-you" (Shfta). Both brothers objected. The monster at once swallowed the older one and then the other one. They found that it was
+you" (Shfta). Both brothers objected. The monster at once swal-
+lowed the older one and then the other one. They found that it was
 not dark inside of the monster, in fact, they found themselves on a
 path which the younger brother, who had been swallowed last, fol-
 
 1 Told by Qdydwaima(Oraibi).
 
+
+March, 1905. The Traditions of the Hopi — Voth. 83
 
 lowed, soon overtaking his older brother. The two brothers laughed
 and said to each other: "So this is the way we find it here. We are
@@ -4086,7 +4487,8 @@ not going to die here." They found that the path on which they
 were going was the oesophagus of the monster, which led into its
 stomach. In the latter they found a great many people of different
 nationalities which the monster had devoured in different parts of
-the earth; in fact, they found the stomach to be a little world in itself, with grass, trees, rock, etc.
+the earth; in fact, they found the stomach to be a little world in it-
+self, with grass, trees, rock, etc.
 
 Before the two brothers had left their home on their expedition
 to kill the monster, if possible, their grandmother had told them that
@@ -4109,7 +4511,8 @@ mouth but finally discovered a passage leading up into the nose.
 Through this they then emerged.
 
 It was found that a great many people assembled there north of
-the village. The village chief had cried out that a great many people had arrived north of the village and asked his people to assemble
+the village. The village chief had cried out that a great many peo-
+ple had arrived north of the village and asked his people to assemble
 there too. They did so and many found their children and relatives
 that had been carried off by the monster, and were very glad to have
 them back again.
@@ -4120,6 +4523,9 @@ which they did, settling down temporarily at different places, which
 accounts for the many small ruins scattered throughout the country
 The old people say that this monster was really a world or a country,
 as some call it, similar to the world that we are living in.
+
+
+84 Field Columbian Museum — Anthropology, Vol. VIII.
 
 
 20. PftOKONGHOYA AND HIS BROTHER AS THIEVES. 1
@@ -4140,7 +4546,8 @@ time the latter discovered in the recess in the rocks somewhat high
 up, some potsherds, or bowls, with different kinds of paints which
 the Flute priests had deposited there. "Let us take some of this,"
 he said to his younger brother, whereupon he put into his ball, through
-little holes and openings that had been made in the buckskin covering through long usage, some of each kind of paint. After having
+little holes and openings that had been made in the buckskin cover-
+ing through long usage, some of each kind of paint. After having
 put the paints into the ball he sewed up the holes. Hereupon he
 replaced the ball again and then said to his brother: "Now let us
 go, and before we will get home it will rain if we continue to beat our
@@ -4172,14 +4579,16 @@ mav be seen in several of these tales.
 March, 1905. The Traditions of the Hopi — Votji. 85
 
 were assembled for their ceremony. They were just washing the
-snakes in a bowl. The Pook6nghoyas grabbed a bull-snake (loldokong), put it into a snake-sack and left the kiva, the younger brother
+snakes in a bowl. The Pook6nghoyas grabbed a bull-snake (loldo-
+kong), put it into a snake-sack and left the kiva, the younger brother
 holding this bag tinder one arm, the elder brother carrying the tray
 with the objects. In this manner they proceeded towards the Corn-
 Ear bluffs, constantly beating their ball. When they arrived at the
 Corn-Ear Bluffs they found a great many bdhos, little artificial melons,
 watermelons, and peaches which the Hopi had made and deposited
 in the different niches, cracks, etc. They had been deposited here
-by the different societies in their different ceremonies as prayerofferings, that they might have an abundance of these things. On
+by the different societies in their different ceremonies as prayer-
+offerings, that they might have an abundance of these things. On
 top of the rocks they saw the Watcher (Tuwalahka), who owns this
 rock. It was C6tukvnangwuu, who was sitting there in the form of
 an old man. "Oh my!" the younger brother said, "How many
@@ -4190,7 +4599,8 @@ the places where the prayer-offerings had been deposited a corn
 baho, a watermelon, and a melon, and brought them down.
 
 Hereupon they started homeward again, beating their ball. They
-again went by the spring Toriva where they drank, this time, however, not stealing anything. They then started towards Shongdpavi
+again went by the spring Toriva where they drank, this time, how-
+ever, not stealing anything. They then started towards Shongdpavi
 along the trail. After they had gone a little distance they shot the
 lightning frame, and twirled the bullroarer several times. By the
 time they had reached the canyon, or gulch, right east of Shongopavi,
@@ -4203,7 +4613,8 @@ there they once more shot the lightning frame and twirled the thunder
 board. By this time it thundered very hard and loud, and lightning
 was flashing. One of the Hopi houses in the village was struck and
 shattered. By this time they had arrived at their house. "Who
-are those little mischief makers that are coming there?" their grandmother said. "You are bad." But the two brothers rushed into
+are those little mischief makers that are coming there?" their grand-
+mother said. "You are bad." But the two brothers rushed into
 the house and put the lightning frame, thunder board, the snake,
 the little artificial melons, bahos and the paint, which they had
 brought with them, quickly but secretly into two pots which they
@@ -4212,12 +4623,15 @@ things they were the cause that it always rained and the Hopi had
 good crops.
 
 
+86 Field Columbian Museum — Anthropology, Vol. VIII.
+
 21. HOW THE POOKONGS DESTROYED COOYOKO AND
 
 HIS WIFE. 1
 
 Halfksai! In Orafbi the people were living, but there were a
-great many people at that time living there, and it frequently happened that when the men br women would get wood, some of them
+great many people at that time living there, and it frequently hap-
+pened that when the men br women would get wood, some of them
 did not return, and the people were thinking about it and wondering
 what became of these people, whether they had gone away or whether
 they had been killed. They were worried about it. So one time a
@@ -4239,7 +4653,8 @@ Kooyna ahinahina, the Hopi.
 Toyashkakolita Cooyokooo. J
 
 It was the C6oyoko. • When he saw that somebody came with wood,
-he said: "Now then, I shall feast upon that one." The man carrying the wood, however, quickly threw down his large burden of wood
+he said: "Now then, I shall feast upon that one." The man carry-
+ing the wood, however, quickly threw down his large burden of wood
 and crawled under it. When the C6oyoko arrived at the place he
 could not find the man, and thought he had escaped. "Let me go
 on farther, I may find some one else," he said, and so proceeded to
@@ -4262,6 +4677,8 @@ the night who could help him.
 
 1 Told by KwAyeshva (Orafbi).
 
+
+March, 1905. The Traditions of the Hopi — Voth. 87
 
 So the next morning he went over to the shrine of Achdmali
 (about one-eighth of a mile north of Orafbi), where the Pdokongs
@@ -4294,7 +4711,8 @@ When they came here they looked into the house, but C6oyoko was
 gone. His wife, C6oyok Wuhti, had also gone away. They followed
 the tracks of the latter westward, and found her at a place sitting
 and killing white lice in her dress. "There is somebody sitting,"
-they said to each other, and laughed at her. "Now let us do something to her," the elder brother said, "because she does not notice
+they said to each other, and laughed at her. "Now let us do some-
+thing to her," the elder brother said, "because she does not notice
 us." Hereupon they both shot a lightning arrow at her, which
 shattered her to pieces. "Now, let us go to the house," they said,
 which they did.
@@ -4308,15 +4726,19 @@ waited for the return of C6oyoko. Soon they heard him come. He
 was singing the same song that he had been singing before. "He
 
 
+88 Field Columbian Museum — Anthropology, Vol. VIII.
+
 is coming now," the youths said to each other, and when he came
-upon the roof of the house or kiva they heard him throw down something. " He has killed somebody again, because he is throwing down
+upon the roof of the house or kiva they heard him throw down some-
+thing. " He has killed somebody again, because he is throwing down
 something," they said to each other. When C6oyoko came into the
 kiva he found no one there, and said to himself: "She has not yet
 returned," referring to his wife, "because there is no fire at the
 fireplace." He laid down his bow and arrows and his stone axe,
 and hunted for something to eat.
 
-The Pooktinghoyas had hidden themselves behind the mealingbin. When they saw him walking around there they said to each
+The Pooktinghoyas had hidden themselves behind the mealing-
+bin. When they saw him walking around there they said to each
 other: " Now let us kill him. " So each one shot lightning arrows at
 him and he was killed. The Pook6nghoyas hereupon took his knife,
 scalped him, and then took many beads and a great many other
@@ -4339,7 +4761,8 @@ Aynikohinahina
 
 Pookonghoyo, Cooyoyoko
 
-(The) Pookongs, (the )Cooyoko.
+(The) Pookongs, (the )Cooy-
+oko.
 
 Taalcha, hataina hataina
 
@@ -4349,7 +4772,8 @@ Avnikohina hina.
 The words are archaic
 and no longer understood
 except the two proper
-names and the word taalcha. The last word is
+names and the word taal-
+cha. The last word is
 said to be the Navaho
 word for kill.
 
@@ -4364,9 +4788,12 @@ the balls and sticks. After that the Hopi always returned when they
 went after wood.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 89
+
 22. HOW PCOKONG KILLED THE BEAR. 1
 
-In Mish6ngnovi they were living, and a bear used to kill the people. At the Skeleton Katcina house lived the PGokong with his
+In Mish6ngnovi they were living, and a bear used to kill the peo-
+ple. At the Skeleton Katcina house lived the PGokong with his
 grandmother, and the bear was killing the people. If some one went
 to his field he was killed. The chief was unhappy over it and was
 thinking about it. He was thinking about sending Pdokong after it,
@@ -4375,14 +4802,16 @@ the Pdokong of hard wood, and he made arrows and put parrot
 feathers on the arrows, and on one of the arrows he put blue-bird
 feathers. He also made a ball that he cut from a buckskin. He
 sewed it and put cotton into it and then tied it up tightly. He made
-one of them and rubbed red ochre (ctita) on it, and for the grandmother he made one bdho.
+one of them and rubbed red ochre (ctita) on it, and for the grand-
+mother he made one bdho.
 
 When he was done he brought this to the house of the Pdokong.
 The grandmother asked: "What are you doing?" "Yes," he said,
 "when these, my children, are killed by a bear I am not happy."
 "Hao, " she said to him, and now the chief said: "Yes, hence I have
 brought this for you," and then he handed it to the grandmother.
-She was happy. "Thanks," she said, "thanks." Then he said tothe Pdokong: "With this you kill the bear, because I have made
+She was happy. "Thanks," she said, "thanks." Then he said to-
+the Pdokong: "With this you kill the bear, because I have made
 this for you;" whereupon he gave the ball, the bow and arrows, and
 the ball stick to the Pdokong. "Thanks, thanks," the P6okong
 said, and was happy. Now he went to hunt the bear. The bear
@@ -4394,15 +4823,21 @@ about arrived, but when he had not yet quite arrived, the Pdokong
 shot and hit him in the throat. When he had shot the bear fell, and
 now he hit him with the ball stick, and the bear died.
 
-He then skinned him, the legs first, but he did not cut the abdomen. He left the skin in the form of a bag, pulling it over his head
+He then skinned him, the legs first, but he did not cut the abdo-
+men. He left the skin in the form of a bag, pulling it over his head
 like a shirt, but from the feet he cut off the claws. Now he filled it
-up tightly with dry grass. When he was done he had made something like a bear. Oh! it was like an ugly bear. Now he tied a
-woollen rope around his neck. Then he tied it to himself and dragging it ran very fast, screaming: " Uhii, a bear is following me," as
-he ran. Now the people saw it. Sure enough, a bear came following somebody, and he had almost caught him. "Why, he is follow-
+up tightly with dry grass. When he was done he had made some-
+thing like a bear. Oh! it was like an ugly bear. Now he tied a
+woollen rope around his neck. Then he tied it to himself and drag-
+ging it ran very fast, screaming: " Uhii, a bear is following me," as
+he ran. Now the people saw it. Sure enough, a bear came follow-
+ing somebody, and he had almost caught him. "Why, he is follow-
 ing the Prtokong, " the people said, and then they ran. Now they
 
 1 Told by Lom£v&ntiwa (Shupaulavi)
 
+
+90 Field Columbian Museum — Anthropology, Vol. VIII.
 
 told the grandmother, "A bear is following your grandchild. " Now
 alas! the grandmother ran away crying, and went into her kiva.
@@ -4412,13 +4847,15 @@ grandmother. The grandmother now, because she was so scared,
 died at once. The Pdokong laughed at the grandmother and kicked
 her. "Get up," he said to her, and the grandmother woke up.
 When she sat up she whipped her grandchild hard. "You are
-naughty, you have scared me/ r she said to him; but he had been dragging something dead. The chief was very happy because he heard
+naughty, you have scared me/ r she said to him; but he had been drag-
+ging something dead. The chief was very happy because he heard
 that he had killed him. From that time the bear stopped. After
 that he killed no more people. So after that it was better.
 
 23. THE POOKONGS ATTEND A DANCE. 1
 
-Haliksai! In Orafbi the people were living, and north of the village at Achamali lived the Pookongs with their grandmother, Spider
+Haliksai! In Orafbi the people were living, and north of the vil-
+lage at Achamali lived the Pookongs with their grandmother, Spider
 Woman. One time the Pookongs heard that the Ldlakontu were
 going to have a dance at Shong6pavi. "Our grandmother, " they
 said, "Ha!" she answered. "They are going to have a dance at
@@ -4441,13 +4878,16 @@ looked at the grass as it was swaying from side to side, being moved
 by the wind.
 
 In the evening they returned to the village, not, however, playing
-this time as they went along. When they arrived at their grandmother's house she asked: "Have you come?" "Yes," they replied,
+this time as they went along. When they arrived at their grand-
+mother's house she asked: "Have you come?" "Yes," they replied,
 "and we are very tired." "To be sure," she said, "because it is far
 to Shong6pavi. Did you see the dance well? How did they
 dance?" "Yes," they said, "we looked at it well and we enjoyed it.
 
 1 Told by T.irwakh"\'<i-n:t (Oraihn.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 91
 
 We went to the fields south-east of Orafbi and there on a sand hill
 we found something in tassels there, and the wind was waving it, and
@@ -4478,7 +4918,8 @@ at Mish6ngnovi. But they were filthy, and the phlegm that was
 running out of their noses they would wipe over their hands, and the
 people saw it. As the dance was going on, and the trays and sieves
 were thrown up, the Pdokongs saw the men getting them, but they
-did pot get any. Then the people of Mish6ngnovi invited thenfriends to come to their houses and eat with them, but no one invited
+did pot get any. Then the people of Mish6ngnovi invited then-
+friends to come to their houses and eat with them, but no one invited
 the Pdokongs. So they became very hungry, and towards evening
 they said to each other : " Let us go home now, because we are getting
 hungry. But we are going to take some trays along. " While the
@@ -4494,6 +4935,8 @@ doing. We enjoyed it. But no one invited us to eat, and we are
 very hungry." Hereupon Spider Woman placed some hurushuki
 
 
+92 Field Columbian Museum — Anthropology, Vol. VIII.
+
 before them and fed them. The Pookongs were angry that they had
 not been fed in Mish6ngnovi.
 
@@ -4503,7 +4946,8 @@ Pookongs, so they said: "We are going Ao remove that salt farther
 away. If they had fed us, although we are unsightly, they could,
 continue to get it from the place close by; but as they have not fed
 us we are going to remove it far away, so that they will be put to a
-greater trouble in getting their salt. " Spider Woman at first objected, but they would not listen and started. Arriving at the near-
+greater trouble in getting their salt. " Spider Woman at first ob-
+jected, but they would not listen and started. Arriving at the near-
 est place where there was some salt they picked that up and carried
 it away a long distance, descended a very steep bluff with it, and laid
 it down there. So ever since the Hopi can find only a very little
@@ -4516,7 +4960,8 @@ Halfksai! In Orafbi they were living. There were a great many
 people. At Pifcdchvi lived a family who had a pretty maiden who
 persistently refused all offers of marriage. Pook6nghoya and his
 brother Baloonghoya, who lived at Pookongwawarzhpi with their
-grandmother, Spider Woman, heard about this. They were thinking about it, and one time said to their grandmother: "Our grand-
+grandmother, Spider Woman, heard about this. They were think-
+ing about it, and one time said to their grandmother: "Our grand-
 mother !" "What is it?" she replied. "There is a maiden in the
 village, " they said, "who refuses to marry any one of the young men
 of the village. We are going to try, too." "You poor ones," she
@@ -4539,7 +4984,10 @@ there."
 1 ToM by Tanffakhoyoma (Oraibi)
 
 
-So she took them over to her house where they set traps in different parts of the house, also close to the mealing bin. They finally
+March, 1905. The Traditions of the Hopi — Voth. 93
+
+So she took them over to her house where they set traps in differ-
+ent parts of the house, also close to the mealing bin. They finally
 asked whether they did not have a pfki tray. The mother fetched
 one from another room and they set that near the mealing tray,
 instead of a small stone like in the other traps. "Now, to-morrow
@@ -4584,6 +5032,8 @@ get our daughter."
 
 In the night the Prtokongs killed a deer, of which they owned
 
+
+94 Field Columbian Museum — Anthropology, Vol. VIII.
 
 many, and carried it to the house of the maiden, where they placed it
 under the pfki tray trap. In the morning when the maiden arose
@@ -4631,6 +5081,8 @@ the tray and then put a very small quantity into her mouth. When
 she began to eat this it increased in her mouth so that her mouth was
 
 
+March, 1905. The Traditions of the Hopi — Voth. 95
+
 filled. She repeated this until she was satisfied and then there was
 some of the hurushuki left.
 
@@ -4654,26 +5106,31 @@ prepared some chukuviki. Spider Woman got some meat from one
 of the inner rooms, of which they then all ate. The next day this
 was repeated, and the maiden then made some comfviki, and in this
 way she prepared food for all of them day after day. But she felt
-unhappy because no one was carding and spinning cotton and preparing a bridal costume for her, as is always done for a bride. That
+unhappy because no one was carding and spinning cotton and pre-
+paring a bridal costume for her, as is always done for a bride. That
 way they were living there for some time. The two Pdokongs were
 constantly playing with their ball and stick, also with feathered
 arrows, but no one was preparing a bridal costume for the bride,
 about which she was very unhappy. But Spider Woman would often
 go into an inner room and they would frequently hear her say,
 "Thanks, thanks," to some one, but the maiden did not know to
-whom she was talking, but there in that room the spiders were preparing a bridal costume, first carding the cotton, then spinning it,
+whom she was talking, but there in that room the spiders were pre-
+paring a bridal costume, first carding the cotton, then spinning it,
 placing it onto a loom and then weaving it.
 
 Finally Spider Woman said one day to the bride: "you prepare
 some pikami now. Your parents are homesick after you and we
 shall then send you home. " The maiden prepared some pfkami, and
 Spider Woman some nookwiwi, and in the evening the maiden took
-out the pikami from the oven, Spider Woman dipped out the nrtokwiwi, and all ate and then retired for the night. In the morning
+out the pikami from the oven, Spider Woman dipped out the nrtok-
+wiwi, and all ate and then retired for the night. In the morning
 Spider Woman prepared some yucca suds and with it washed the
 heads of Pookong and his bride. She then entered an inner room
 and brought forth a complete bridal costume, which she handed to
 the maiden. She then again went into an inner room and brought
 
+
+96 Field Columbian Museum — Anthropology, Vol. VIII.
 
 out a large quantity of meat which she handed to Pdokong. He
 tied it into a bundle. Hereupon Spider Woman dressed up the bride
@@ -4717,9 +5174,12 @@ time it was planting time and the men began to plant. Prtokong
 went to Spider Woman and said: "It is planting time and we are
 going to plant. " "Very well, " she said, and gave him a small parcel
 of different kinds of corn to plant. This he took over to the house
-where he saw his father-in-law ready to go and plant. He had prepared a small sack full of corn, but Prtokong said to him: "Do not
+where he saw his father-in-law ready to go and plant. He had pre-
+pared a small sack full of corn, but Prtokong said to him: "Do not
 take that along, I have brought some planting-corn with me."
 
+
+March, 1905. The Traditions of the Hopi — Voth. 97
 
 Hereupon he produced a very small parcel. "That is not enough,"
 his father-in-law said. "Yes, let us take this," Pdokong said, "this
@@ -4739,15 +5199,18 @@ had kept increasing. The corn, which they had planted, soon grew
 up and when it rained it became larger and larger. One time it
 rained heavily and then much grass also came up.
 
-P6okong went to visit Spider Woman again. "Have you planted?" she asked him. "Yes, " he said. "And when it rained a little, "
+P6okong went to visit Spider Woman again. "Have you plant-
+ed?" she asked him. "Yes, " he said. "And when it rained a little, "
 she kept on inquiring, "did the grass come up?" "Yes," he said,
-"much grass and weeds came up." She then told him that a sonin-law ought to help his father-in-law to hoe his field, so he should
+"much grass and weeds came up." She then told him that a son-
+in-law ought to help his father-in-law to hoe his field, so he should
 return and go and do that. He should take his hoe and form ant
 hills throughout the field (referring to the small piles of sand and
 earth that are formed as one is drawing a hoe through the ground;
 in other words, she meant that he should diligently hoe the field).
 "Very well," he replied, and returned to the house, where he asked
-for a hoe. They gave him one and he went to the field. Here, however, he laid it down and at once began to hunt ants. Finding a very
+for a hoe. They gave him one and he went to the field. Here, how-
+ever, he laid it down and at once began to hunt ants. Finding a very
 large ant hill at the edge of the field he put the ants together with
 the earth into his blanket and formed small ant hills throughout the
 field, scattering ants in that way all through the corn-field.
@@ -4764,6 +5227,8 @@ that, I meant that when a man is hoeing and he draws his hoe through
 the weeds from different sides, the earth and sand is drawn together
 in little piles, or hills. These are called ant hills. That is what I
 
+
+98 Field Columbian Museum — Anthropology, Vol. VIII.
 
 told you to do. You are a fool, a fool you are. You go back again,
 take your hoe, and expose the moist ground by removing the dry
@@ -4797,7 +5262,8 @@ field he did not find any work done there. * The grass was growing,
 the corn was becoming tired (dry) and wilted, and he was thinking
 whether his daughter should not send his son-in-law away. While
 he was thus thinking, Pdokong came to the house. When the latter
-saw his father-in-law sitting there and evidently being very disappointed, he asked him why he was so sad. "Yes," the man said,
+saw his father-in-law sitting there and evidently being very dis-
+appointed, he asked him why he was so sad. "Yes," the man said,
 "I have been thinking about our field. The grass and weeds are
 growing and the corn is getting tired. There ought to be some corn
 ears forming by this time, but it is getting dry. " "So that is what
@@ -4810,6 +5276,8 @@ Spider Woman had in the meanwhile asked the clouds to hoe the
 field of her grandchild, and when the two commenced to hoe, a cloud
 was forming over the San Francisco mountain. Soon many clouds
 
+
+March, 1905. The Traditions of the Hopi — Voth. 99
 
 began to move towards the village. When they had hoed a little it
 commenced to rain. They ran to a shelter where they sat and
@@ -4865,7 +5333,8 @@ go and hunt up the Pookonghoyas and ask their assistance. He cut
 a round piece from the middle of a buckskin and made a ball which
 he tied to a stick; also an arrow, to which he fastened blue-bird and
 parrot feathers, and finally gave his boy some tobacco and then sent
-him on his errand. Going south, he all at once heard some one calling, and saw Pookonghoya and his brother, both being very small,
+him on his errand. Going south, he all at once heard some one call-
+ing, and saw Pookonghoya and his brother, both being very small,
 wandering and playing around there. He went first to the house
 where Spider Woman (So Wuhti), 1 the grandmother of the two brothers
 lived. She called to the latter and said, "Stop, and come here, some
@@ -4896,7 +5365,8 @@ said: "Let us smoke, then we will see what we think about it." So
 he got out a large pipe and the young man smoked, swallowing all
 the smoke without again exhaling it. He then said to his host.
 "Italia!"* "Itfwaya," 3 the uncle replied ; and then added : "You are
-surely my nephew. Now, what is it that you want? what has happened ? " He then said : " My older brother and I were racing there and
+surely my nephew. Now, what is it that you want? what has hap-
+pened ? " He then said : " My older brother and I were racing there and
 came to a place where a beautiful maiden called us and she drew my
 brother up, and now my father sent me out to see whether we could
 
@@ -4910,12 +5380,14 @@ J My nephew (on brother's side).
 March, 1905. The Traditions of the Hopi — Voth. 10 i
 
 do anything to get him back. Our beads, she said, she does not
-want." His uncle then said, "You go to Walpi (a Hopi village distantly located), and see the Snake people there, who used to have
+want." His uncle then said, "You go to Walpi (a Hopi village dis-
+tantly located), and see the Snake people there, who used to have
 snake dances here and were driven away from here to W£lpi when
 the snakes bit somebody, and see what they have to say about it."
 So the young man proceeded to Wdlpi, although it was far away. So
 he came to Wdlpi and there found the Snake people. They were
-handsome and dressed up like warriors and like Snake people (Tcutcucona).
+handsome and dressed up like warriors and like Snake people (Tcu-
+tcucona).
 
 When he had entered they asked him: "Why have you come
 here?" "Yes," he said, "we were racing there where we live, and
@@ -4929,7 +5401,8 @@ smoke, which pleased the Snakes l and they said, "You are truly our
 nephew. What is it that you want ? " " Yes," he said , " we were racing
 there and that • maiden drew up my elder brother and said that
 she did not want our stone beads even if we would bring them."
-"Yes," the Snakes said, "she does not want them." The Tcutcucona then showed him a baho, saying, "This the maiden wants, she
+"Yes," the Snakes said, "she does not want them." The Tcutcu-
+cona then showed him a baho, saying, "This the maiden wants, she
 does not want beads, but she wants such bdhos. You look at
 this bdho well and then make one like it; or," they continued, "we
 shall make one for you. You take that along and then you look at
@@ -4940,7 +5413,8 @@ When he arrived at his home he showed the b£ho ; they looked at it
 and then made a good many of them. With these they proceeded to
 the place where the maiden had enticed the young man. The young
 man, his father, the two Prtokongs, their grandmother (Spider Woman)
-and Storm were in the party. Spider Woman had taken a seat behind the ear of Pookonghoya. When they arrived at the bluff the
+and Storm were in the party. Spider Woman had taken a seat be-
+hind the ear of Pookonghoya. When they arrived at the bluff the
 father said, "We have come to get my child." "What have you
 brought with you?" the maiden replied. "We have brought these
 bahos," the father said, and hereupon Storm raised them all up and
@@ -4952,12 +5426,16 @@ brought ?" the m£na again asked. "This we have brought, this here."
 re'iuiring special courage and strength, occurs in various Hopi tales.
 
 
+102 Field Columbian Museum — Anthropology, Vol. VIII.
+
 Whereupon they showed her the bahos. "Thanks/' she said, ^ these
 I want. Of course I shall give him to you, but let us first play a
 game," whereupon she spread sand upon the floor. "Now, you play
 first," she said. So the Hopi planted different kinds of seed in the.
-sand and thrust the bahos into the sand around the border, whereupon the things planted grew up quickly. "Thanks," she said,
-4 ' you certainly know something. These I want and you shall certainly take him along. But we shall race first, we shall follow the
+sand and thrust the bahos into the sand around the border, where-
+upon the things planted grew up quickly. "Thanks," she said,
+4 ' you certainly know something. These I want and you shall cer-
+tainly take him along. But we shall race first, we shall follow the
 sun." So she and the young man that had procured the bdho
 arranged for a race. The young man mounted an eagle breath
 feather, the m£na turning into a T6kchii (a swift snake, similar to
@@ -4967,7 +5445,8 @@ the maiden still being in the lead. Spider Woman then took a reed,
 pointed it towards the racers, and by a strong inhalation drew the
 young man forward, increasing his speed so that he arrived at the
 house first, thus having beaten the mana in the race. The mdna
-then said, "You take him along, you have beaten me." Whereupon she drew him forth from another room. He was nearly dead.
+then said, "You take him along, you have beaten me." Where-
+upon she drew him forth from another room. He was nearly dead.
 In the inner room were many bones of young men who had perished
 there. The Antelope Maiden had been angry because no bahos had
 been made for her for a long time, and hence she had killed so many
@@ -4994,13 +5473,16 @@ was standing there, but the daughter could not be found, so she
 1 Told by Sikihpiki (Shupaulavi) .
 
 
+March, 1905. The Traditions of the Hopi — Voth. 103
+
 finally picked up the jug and the old blanket in which the jug had
 been carried and went home. "I have found the tracks," she said
 to her husband, "but they simply lead to the edge of the water, and
 I cannot find our child anywhere." "Oh!" the father replied; so
 the father bestirred himself and made a ball and an arrow; to the
 latter he tied some blue-bird feathers. These he took to the house of
-Pook6nghoya and his younger brother Baldongahoya, who lived somewhat higher up, north of the village.
+Pook6nghoya and his younger brother Baldongahoya, who lived some-
+what higher up, north of the village.
 
 When he arrived at their house the two youths were romping
 about. "Be quiet," their grandmother, Spider Woman, said, "be
@@ -5022,7 +5504,8 @@ friends and you must also go to work making nakwdkwosis." Spider
 Woman also instructed him that they should then dress up the brother
 of the maiden.
 
-So he went home, invited his friends, and they made many nakwdkwosis which they placed into a handsome tray. Early the next
+So he went home, invited his friends, and they made many nak-
+wdkwosis which they placed into a handsome tray. Early the next
 morning Spider Woman and the two youths repaired to the village.
 When they had arrived there they dressed up the brother of the lost
 maiden, putting a kilt, sash, bunch of breath feathers, numerous
@@ -5038,6 +5521,8 @@ should grab his sister and then strike the Balolookong with the tonfpi
 
 1 Prepared of corn-meal and water and sometimes formed into balls.
 
+
+104 Field Columbian Museum — Anthropology, Vol. VIII.
 
 (a club with a stone attached to it), which the Pookongs had handed
 to him.
@@ -5070,7 +5555,8 @@ was still nicely dressed, having her turquoise ear-pendants still in her
 ears. "My elder brother," she said, to her brother, "take me."
 "Yes, you go nearer now, and have a big heart, but do not cry,"
 Spider Woman urged him. So he approached the edge of the spring
-and reached for his sister. But as he did so he began to cry and immediately the Bdlolookong disappeared in the water with the maiden.
+and reached for his sister. But as he did so he began to cry and im-
+mediately the Bdlolookong disappeared in the water with the maiden.
 "Oh!" they all said. "Now let us try it again," Spider Woman
 suggested. "Let us try it once more, but you must not be afraid;
 you must have a big heart ; you must not cry. I did not tell you you
@@ -5085,12 +5571,15 @@ close to the edge," Spider Woman urged him, "do not be afraid now."
 So he danced slowly to the edge of the water and again his sister
 reached out her hands towards him and said : " My elder brother, take
 me." So when he was still dancing he held out his hand, grasped the
-maiden and struck the Balolookong on the head with the club. Immediately the serpent released the maiden and only his skin was
+maiden and struck the Balolookong on the head with the club. Im-
+mediately the serpent released the maiden and only his skin was
 floating on the water like a sack. "Thanks," the maiden said,
 "thanks! You were slow in taking me, you cried." Hereupon he
 drew her out of the water. "Thanks!" Spider Woman said, "thanks
 that you were not too late." Hereupon they put other clothes on the
 
+
+March, 1905. The Traditions of the Hopi — Voth. 105
 
 maiden and laid a puhu of red feathers for her on the path. 1 The tray
 with all the nakw£kwosis they threw into the spring for the maiden,
@@ -5100,7 +5589,8 @@ that nothing further should befall the m£na.
 
 They then returned to the village, but it seems that B£l6lookong
 just left his skin and slipped back into the water when he was struck,
-because he is still there and is occasionally seen by women, and whoever sees him becomes sick. Only lately, the narrator continued,
+because he is still there and is occasionally seen by women, and who-
+ever sees him becomes sick. Only lately, the narrator continued,
 he was seen by a woman, Corn-Ear (Kdo), but the women that have
 seen him say that he now is just small. One time he was also seen
 by a man. Sometimes those who see him get sick, because he is
@@ -5142,10 +5632,13 @@ etc., whom the Hopi wish to follow these paths.
 7 Told by Qdyawaima (Orafbi).
 
 
+106 Field Columbian Museum — Anthropology, Vol. VIII.
+
 so heavy that it threw her down. When she rose she had been turned
 into a coyote. Her friend at the top of the hill laughed at her and
 said, " You have been quarreling with me about that young man, now
-that is what you get for it. Now, you go about that way." Whereupon she picked up her jug and went to the village.
+that is what you get for it. Now, you go about that way." Where-
+upon she picked up her jug and went to the village.
 
 The other maiden, now a coyote, felt very sad and ascended the
 hill to her water jug, which she tried to carry but could not do so in
@@ -5166,7 +5659,8 @@ was again driven away. She then concluded that she could not get
 into the village and again went westward. She knew that somewhere
 west of Apdhnivi there was a place called Yungdchaivi, where
 some herders had also built temporary shelters and were staying while
-they were herding their sheep at that place. She thought that perhaps there she might find some shelter and food.
+they were herding their sheep at that place. She thought that per-
+haps there she might find some shelter and food.
 
 By and by she arrived at a hut which belonged to two Qdoqoqlom
 Katcinas who were hunting in that region. In this hut she found a
@@ -5186,12 +5680,15 @@ and take him home to our grandmother, Spider Woman." Upon
 entering the hut they heard the coyote sob and saw tears trickling
 
 
+March, 1905. The Traditions of the Hopi — Voth. 107
+
 down his eyes. "Oh!" one of the hunters said, "This coyote is sad
 and has been crying. Let us feed him." So he took a large piece of
 meat, broke it in two and gave a portion of it to the visitor, who ate
 it with relish. Hereupon they concluded that they would go home
 that evening. They tied up the meat and the skins, and also tied the
-feet of the coyote, and loading everything upon their backs they returned to their home, which was at Katcina Gap (Katcmvala), a
+feet of the coyote, and loading everything upon their backs they re-
+turned to their home, which was at Katcina Gap (Katcmvala), a
 short distance northwest of Orafbi.
 
 Arriving there they called to Spider Woman saying, "We have
@@ -5233,6 +5730,8 @@ should come in. In response to her announcement a great many
 1 Mart yinia prnboscMae, Miller.
 
 
+108 Field Columbian Museum — Anthropology, Vol. VIII.
+
 Katcinas who lived around there came into her house, asking her
 what she wanted of them. "Yes," she said, "there is this maiden
 here and I want you to return her to her house," and then told them
@@ -5265,7 +5764,8 @@ remained waiting by their side. When finally the father brought the
 prayer-offerings he gave one baho to the leader, the other to his
 daughter. After the dancing was over, the daughter gave her baho
 to the leader of the singing. The nakwakwosis were distributed
-among the other Katcinas, and after the father had thanked the Katcinas for returning his child and had told them that he was very
+among the other Katcinas, and after the father had thanked the Kat-
+cinas for returning his child and had told them that he was very
 happy, they returned to their home, the parents taking with them
 their daughter.
 
@@ -5274,18 +5774,23 @@ went to grind corn, singing a little song which told about her recent
 adventures. Her friend, the Yellow Corn-Ear maiden, heard her
 sing and at once visited her, expressing her great delight at her return.
 She was treated cordially, the maiden just having returned not
-manifesting any ill-feeling towards her at all, according to the instructions of Spider Woman. She was biding her time. They ground
+manifesting any ill-feeling towards her at all, according to the instruc-
+tions of Spider Woman. She was biding her time. They ground
 
+
+March, 1905. The Traditions of the Hopi — Voth. 109
 
 corn together all day again as they had done formerly. In the evening
 they went after water again to the same spring where they had gotten
 water before. While they were filling their jugs the Yellow Corn-
 N Ear maiden noticed that her friend was dipping her water with a
 peculiar little vessel (which Spider Woman had given to her) and that
-the water, as it was running into the jug, looked very beautiful, showing the different colors of the rainbow. She said to her friend : " What
+the water, as it was running into the jug, looked very beautiful, show-
+ing the different colors of the rainbow. She said to her friend : " What
 have you there? Let me see that little cup." "Yes," her friend
 said, "that is a very good cup, and the water tastes well from it, too."
-Hereupon she drank from it and handed it to her friend. She admired it very much and also drank from it. Immediately she fell
+Hereupon she drank from it and handed it to her friend. She ad-
+mired it very much and also drank from it. Immediately she fell
 down and was turned into a bull snake. "There! You remain that
 way now too," the Blue Corn-Ear maiden said; "you tried to destroy
 me, but you will now have to remain that way because no one will
@@ -5303,7 +5808,8 @@ This maiden in the form of a bull snake later on went to the village
 once and there was killed by her own parents, who of course did not
 know that they had killed their own daughter. Hereupon the maiden,
 or rather her soul, was liberated and could then go to the Skeleton
-House. Ever since some of the sorcerers (P6pwaktu) will occasionally leave their graves in the form of bull snakes. Bull snakes are
+House. Ever since some of the sorcerers (P6pwaktu) will occasion-
+ally leave their graves in the form of bull snakes. Bull snakes are
 often seen coming out of certain graves still wound in the yucca leaves
 with which the corpse was tied up when laid away. If such a bull
 snake in which a sorcerer is supposed to have entered happens to be
@@ -5372,7 +5878,8 @@ some very hard stone (kalavi), but a bow string was her burden band.
 March, 1905. The Traditions of the Hopi — Voth. hi
 
 It had cut into her head skin. Now that woman said, "Take this
-from me." "No," the young man said, "I am in a hurry," and proceeded.
+from me." "No," the young man said, "I am in a hurry," and pro-
+ceeded.
 
 Again somebody came, and now he had reached him, but this one
 was carrying a mealing stone. His burden band was a hair string.
@@ -5395,7 +5902,8 @@ taken four steps, there they remain again. Then these at Aoatovi
 are carrying something. They also take four steps and then remain
 there, but they always remain eight 'times' before they proceed,
 hence when shall they arrive here? Now go on, but you go this way
-here (pointing to one of two diverging roads). Now you go on happily and then somewhere some one will ring again." And sure
+here (pointing to one of two diverging roads). Now you go on hap-
+pily and then somewhere some one will ring again." And sure
 enough when he drew near, somebody was ringing, and again he
 arrived at some one who spoke to him in the same manner. "Have
 you come?" he said. "Yes," the young man answered. "All right,
@@ -5428,14 +5936,16 @@ There at the extreme edge of the village a Kwanitaka was going up
 and down. He said, "Have you come? Come this way," and then
 took hold of him and took him to the village. He arrived there.
 There another chief, a Kwanitaka, stood close at the village. "Have
-you come?" he said to them. "Yes," they answered together, whereupon he said, "Now please enter." Upon that this other also took
+you come?" he said to them. "Yes," they answered together, where-
+upon he said, "Now please enter." Upon that this other also took
 hold of the young man and they entered, and sure enough, there also
 some were living and he knew them. He had been a chief in Oraibi
 a long time ago. Now the Kwanitaka said to the young man. "This
 way, this you wanted to know." But in a large blossom he was living.
 
 That deceased chief and three other chiefs were living in blossoms
-that were standing one after the other. "Thanks," said the Kwanitaka, "these were never bad in Oraibi; they were always good, there-
+that were standing one after the other. "Thanks," said the Kwani-
+taka, "these were never bad in Oraibi; they were always good, there-
 fore they are here this way now. Now, then, let us go and look there,
 too." So they again entered. There all kinds of grasses and plants
 and blossoms of every description were. "Thus these are living
@@ -5446,16 +5956,19 @@ have seen it. You see, there a road has been prepared for them.
 Now as soon as you arrive you tell them everything about this our
 life here, and if some one thinks to himself (has his welfare at his heart)
 he must live accordingly. Thus you wanted it. Because you have
-entered our dwellings here everywhere you have found out everything, but as soon as you think of coming here sometime, you must
+entered our dwellings here everywhere you have found out every-
+thing, but as soon as you think of coming here sometime, you must
 eat a little of your medicine again, but you must tell this to your
 mother and your father and to them, but they must never do that
 way, and if they do not believe my talk they shall never live with us
 here. Now then, proceed. Run fast, as your father and mother are
 waiting for you."
 
-Now then, from there he ran very fast. He arrived at the Kwanmongwi, where the road divided. He said to him, "Have you come?"
+Now then, from there he ran very fast. He arrived at the Kwan-
+mongwi, where the road divided. He said to him, "Have you come?"
 "Yes," the young man said. "Very well," he replied, "run fast now,
-your father and mother are waiting for you." He now came running very fast. At Aoatovi he again came upon them who were
+your father and mother are waiting for you." He now came run-
+ning very fast. At Aoatovi he again came upon them who were
 
 
 March, 1905. The Traditions of the Hopi — Voth. i i 3
@@ -5472,7 +5985,8 @@ he answered, and upon that proceeded, running very fast.
 
 He now came upon the one that had killed some one, north of
 Ap6hnivi. "So you have come back again," said the one that was
-punished there. "Yes," he answered. Having said this, he proceeded, running. Now he arrived a little north of Ap6hnivi. Now
+punished there. "Yes," he answered. Having said this, he pro-
+ceeded, running. Now he arrived a little north of Ap6hnivi. Now
 there the one that did not want it to rain was sitting. He also said
 the same thing. "Yes," the young man said, and proceeded, running.
 Now he arrived at his house in Orafbi and entered his body. Now
@@ -5523,7 +6037,8 @@ lunch and then they left. When they arrived there they were making
 the field. Now the husband said to his wife, "Now somebody will
 come." "Who?" she asked. When they were still thus talking it
 arrived. Close by them something was whistling, and now he came
-running towards them and arrived at them. As soon as he had arrived at them he said, "Alas, you are homesick after me." Now the
+running towards them and arrived at them. As soon as he had ar-
+rived at them he said, "Alas, you are homesick after me." Now the
 father said, "Yes." " Now you must not be that way," he said. " I
 live well." Now the mother said: "Yes, I am homesick after you."
 Now again he said, "You must not be that way. I shall come and
@@ -5552,7 +6067,10 @@ Man. When he arrived he asked them what they wanted with him.
 1 Told by SikAhpiki (Shupatilavi).
 
 
-whether they live anywhere, and you know about it, you have medicine for that, and that is the reason why we called you." "Very
+March, 1905. The Traditions of the Hopi — Voth. 115
+
+whether they live anywhere, and you know about it, you have med-
+icine for that, and that is the reason why we called you." "Very
 well," he said, "so that is why you wanted me. I shall go and get
 my medicine."
 
@@ -5575,7 +6093,8 @@ will go far away and then come back again. He wanted to see
 something and find out something, and with this medicine he will
 find out."
 
-After the young man had fallen asleep he saw a path leading westward. It was the road to the Skeleton house. This road he followed
+After the young man had fallen asleep he saw a path leading west-
+ward. It was the road to the Skeleton house. This road he followed
 and after awhile he met someone who -was sitting there. "What
 have you come for?" he asked the young man. "Yes," he replied,
 "I have come to find out about your life here." "Yes," the other
@@ -5586,7 +6105,8 @@ get to Skeleton house." This one was simply living in an inclosure
 of sticks. That was all the house and protection he had.
 
 From here the young man proceeded westward. The path led
-through large cactus and through many agave plants so that sometimes it could hardly be distinguished. He finally arrived at the rim
+through large cactus and through many agave plants so that some-
+times it could hardly be distinguished. He finally arrived at the rim
 of a steep bluff. Here somebody was sitting. He asked the young
 man why he had come, and the latter told him. "Very well," the
 chief said. "Away over there is the house that you are going to,"
@@ -5641,7 +6161,8 @@ houses. So this young man, when he was wandering around there,
 would sometimes eat of it. When he had eaten they asked him what
 he had come for. "Yes," he said, "1 was always thinking whether
 Skeletons live somewhere. I spoke to my father about it and told him
-that I wanted to go and find out whether they were staying somewhere, and my father was willing and he dressed me up in this way.
+that I wanted to go and find out whether they were staying some-
+where, and my father was willing and he dressed me up in this way.
 
 
 March, 1905. The Traditions of the Hopi — Voth. i i 7
@@ -5680,7 +6201,8 @@ their ceremonies and smoke during the ceremonies, this smoke goes
 down into the other world to the tfponis or mothers and from there
 rises up in the form of clouds.
 
-After the young man had seen everything at this place he returned. When he arrived at the steep bluff he again mounted his
+After the young man had seen everything at this place he re-
+turned. When he arrived at the steep bluff he again mounted his
 kilt and a slight breeze at once lifted him up. The chief that was
 living here at the top of the bluff who had assisted the young man in
 getting down was a Kwaniita. He had a big horn for a head-dress.
@@ -5689,7 +6211,8 @@ how they live here; it is not good, it is not light here; no one should
 desire to come 'here. Your father and mother are mourning for you
 
 1 The tiponi is the palladium of the priest, and usually consists of an ear of corn to which are
-wrapped feathers of different birds, pieces of turquoise and shells, etc., and into which are sometimes placed different objects held sacred bv the priest
+wrapped feathers of different birds, pieces of turquoise and shells, etc., and into which are some-
+times placed different objects held sacred bv the priest
 
 
 n8 Field Columbian Museum — Anthropology, Vol. VIII.
@@ -5729,7 +6252,8 @@ and came to a place where there was a great deal of smoke coming out
 of the ground. Here I met a Skeleton woman. She told me not to go
 there, but that I should go straight ahead on the path, as that place
 is where the wicked people were thrown in and burned. Then I
-traveled on and finally came to the Skeleton house. Here some children saw me and said, 'Aha, a Skeleton has come.' I looked around
+traveled on and finally came to the Skeleton house. Here some chil-
+dren saw me and said, 'Aha, a Skeleton has come.' I looked around
 and could not see any one; then I remembered that they meant
 myself. I then entered the Skeleton house where many rows of
 houses like in the village are.
@@ -5740,6 +6264,8 @@ asked me who I was, and when I told them, they said I was from the
 Bear clan, and showed me the place where the Bear people lived.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 119
+
 When I tried to go up the ladder the rungs broke because they were
 made of sunflower stalks. So I told the people and they came down
 and fed me. I was the only one that was actually eating, and I saw
@@ -5749,7 +6275,8 @@ soul or the odor of the food only. They then asked me why I had
 come and I told them. They said: 'Your flesh is still 4 'salty." You
 will not stay with us here. Thus we are living here. We are not
 living like you Hopi live. It is light there, but here it is not light.
-We are living poorly here. Some of us have only very few nakw^kwosis left on our foreheads. They are worn out so we cannot see very
+We are living poorly here. Some of us have only very few nakw^k-
+wosis left on our foreheads. They are worn out so we cannot see very
 well through them any more. You must make many nakw^kwosis
 and bahos for us in the village and we shall also work for you here.
 You make prayer-offerings for us and we shall provide rain and crops
@@ -5758,13 +6285,15 @@ now and you tell them in the village that we are living here and that
 we are living here in the dark, and tell them that no one should wish
 to come here. For some it is not yet at all time to come, but if their
 hearts are not good and they are angry they will come here sooner, so
-tell them that no one should desire to travel this way. Now you return right straight, and do not tarry anywhere.' And so I came
+tell them that no one should desire to travel this way. Now you re-
+turn right straight, and do not tarry anywhere.' And so I came
 straight back.
 
 44 It is really true that the Skeletons are living somewhere, and I also
 saw that those who are bad here and wicked are punished there. They
 have to carry heavy burdens. Some carry mealing stones, and others
-cactus, the thorns of which prick them. Especially are those punished there in the other world that are bad to the maidens and womsn
+cactus, the thorns of which prick them. Especially are those pun-
+ished there in the other world that are bad to the maidens and womsn
 here. I have seen it all myself now, and I shall after this remember
 that and think that we are living in the light here. They are not
 living in the light there. So I shall not want to be thinking about
@@ -5816,7 +6345,8 @@ direction. Soon he saw tracks in the snow and began to think that
 perhaps this is a rabbit track. He saw where the rabbit had been
 sitting and so he finally concluded that he hsrd discovered the tracks
 of the rabbit and followed them for a long distance. Some of the
-hunters who had found something began to return home, but he followed the tracks. Finally he came upon a jack-rabbit who was very
+hunters who had found something began to return home, but he fol-
+lowed the tracks. Finally he came upon a jack-rabbit who was very
 tired. Him he killed and he was so happy over his first game that
 he stroked the rabbit for quite a while. He then tied a string to its
 legs, and taking it on his back he thought of returning. It was now
@@ -5824,6 +6354,8 @@ getting dark and it commenced to rain. He started back, and after
 
 1 Told by Sik£hj>iki (Shupaulavi)
 
+
+March, 1905. The Traditions of the Hopi — Voth. 121
 
 having traveled for some distance it was very dark and he came to a
 bluff where there was a place called Kaw^yldva. 1 Here he saw a
@@ -5835,7 +6367,8 @@ He sat down at the fireplace and warmed himself. She then
 gave him some pfkami and oongdwa to eat, but he discovered
 that the first was prepared of the brain of corpses and the other of
 flies, so although he was very hungry he did not eat anything. While
-he pretended to eat something he dropped the food in front of himself before he put it into his mouth. His rabbit he had left outside.
+he pretended to eat something he dropped the food in front of him-
+self before he put it into his mouth. His rabbit he had left outside.
 He went and got it and handed it to the woman, who was Skeleton
 Woman. She was very happy over it and thanked him for it. She
 then said to him: "I am going to dance, and when I am through
@@ -5862,16 +6395,20 @@ with exposed teeth and thin, bony legs.
 When she turned around, while dancing, the youth jumped up,
 ran up the ladder, cut the strings with which the opening was closed,
 and ran away, the woman shouting after him, "Oh, my husband!"
-After running a distance the youth again came to a bluff called Cituhoilawhka. Here he again saw a light and approaching it he found
+After running a distance the youth again came to a bluff called Citu-
+hoilawhka. Here he again saw a light and approaching it he found
 another kiva. Looking in he saw a lively dance in progress. "Come
 in," some one said to him, so he entered. "Hide me quickly," he
 said to the dancers, "somebody is pursuing me," for the Skeleton
 Woman had followed him. " All right, " they said, "come in quickly,
-dress up and dance with us." These were the crickets (nandkanchorzhtu).' They took some soaked clay, rubbed it over his body,
+dress up and dance with us." These were the crickets (nandkan-
+chorzhtu).' They took some soaked clay, rubbed it over his body,
 
 1 Hursc -vulva from *.he peculiar shaj>e of the roc-k which somewhat resembled that organ.
 ■^Sing: Naka'nchoro.
 
+
+122 Field Columbian Museum — Anthropology, Vol. VIII.
 
 and prepared him as one of the dancers. So he was dancing along
 and they were singing the following song as they danced :
@@ -5901,7 +6438,8 @@ kiva.
 
 Aliksai! In old Mishongnovi they were living. At Mdstopfcave
 Mdsauwuu lived with his grandmother, Mas Wuhti. In the village
-lived a beautiful maiden who persistently refused all offers of marriage. So M^sauwuu one time went to pay her a visit. He came as
+lived a beautiful maiden who persistently refused all offers of mar-
+riage. So M^sauwuu one time went to pay her a visit. He came as
 a very handsome young man. She was grinding corn when he
 entered her house. She invited him to sit down, and asked who
 he was. He told her who he was. He had a great many strands
@@ -5926,7 +6464,8 @@ over to the house of the maiden. She thanked him for it and again
 March, 1905. The Traditions of the Hopi — Voth. i 23
 
 gave him something to eat. The next morning he came to her house
-and took her over to his grandmother's house, where tbey lived forever afterwards.
+and took her over to his grandmother's house, where tbey lived for-
+ever afterwards.
 
 
 32. MASAUWUU AND THE HANO HUNTERS. 1
@@ -5939,7 +6478,8 @@ rabbits. When they had killed a great many they went home, but
 still hunting. North of Walpi, at Puhuvavi there lived the Masauwuu.
 In order to hunt he lived there. He was also hunting in the night.
 During the day he was sleeping all day. There were a great many
-rabbits. When he was still sleeping the Hdno arrived. The Masauwuu was living at Big Rock (Wuwdkoa). When the H£no came a
+rabbits. When he was still sleeping the Hdno arrived. The Mas-
+auwuu was living at Big Rock (Wuwdkoa). When the H£no came a
 cotton-tail was running and they followed him. "Hav£! havd!"
 they said, and pursued him. The rabbit jumped down just where
 the Masauwuu was sleeping. The H£no also jumped down, making
@@ -5971,6 +6511,8 @@ villages to be destroyed by fire. They were the cause of the destruc-
 2 Told by TanKikhoyoma (Oraibi)
 
 
+1 24 Field Columbian Museum — Anthropology, Vol. VIII.
+
 tion by fire of Pivdnhonfcape, and also one time of Orafbi, when a
 great many people perished.
 
@@ -5991,7 +6533,8 @@ trade" (Nu huy!) they said. "Have you come to trade something?"
 answered those in the kiva, " wheel" (with a rising inflection).
 "Very well," they said from the kiva, "what is it that you want?"
 "Tobacco we want" (Tangunache wfwinche), they answered. The
-men in the kiva looked up and said, "What is it? We do not understand you." Hereupon one of the Y^yaponchatu whispered, "pfva,
+men in the kiva looked up and said, "What is it? We do not under-
+stand you." Hereupon one of the Y^yaponchatu whispered, "pfva,
 pfva, hut-hut-hut" (the latter words, however, were spoken with an
 inhalation). "O," they said, "tobacco he wants." So one of
 them, who had a supply, went and got some and gave it to one of
@@ -6081,6 +6624,8 @@ saw that it was a Skeleton. "Oh!" (Ma!) they said, "it is a Skeleton "
 * These phrases are in the K6honino language.
 
 
+126 Field Columbian Museum — Anthropology, Vol. VIII.
+
 Hereupon they all picked up their things, the women throwing
 their children on their backs, the men their buckskins, meat, etc.,
 and then they fled. The Skeleton took possession of the houses that
@@ -6094,7 +6639,8 @@ Kohonino settled down at this place.
 
 A long time ago when there were a great many people living in
 Orafbi there lived a beautiful maiden in the village by the name of
-White Corn-Ear Maiden (Qdtc£-Awats-Mana). This maiden persistently refused all offers that were made to her by various young men
+White Corn-Ear Maiden (Qdtc£-Awats-Mana). This maiden persist-
+ently refused all offers that were made to her by various young men
 to marry her. The inhabitants of the Wikolapi kiva at that time
 were sorcerers (P6pwaktu), and being angry at thai maiden they
 decided to destroy her. . One day they agreed that in the night they
@@ -6102,7 +6648,8 @@ would meet in the sorcerers' house at Skeleton Gulch (Masposove),
 so called, it is said, because at one time a great many people of the
 Badger clan were killed there by the Orafbi, and their corpses thrown
 into the gulch. At this meeting they decided that the next day they
-would make a wheel, such as are still used by the children for a certain play, and also a number of feathered arrows, and that one of
+would make a wheel, such as are still used by the children for a cer-
+tain play, and also a number of feathered arrows, and that one of
 these arrows should be poisoned with rattlesnake poison. With this
 latter the maiden should be hurt, and after her death, which was
 expected as a matter of course, she was to be taken to the sorcerers'
@@ -6125,6 +6672,8 @@ waited until the maiden had been buried and her friends who had
 ' Told by x Qoyawaima (Oraibi).
 
 
+March, 1905. The Traditions of the Hopi — Voth. 127
+
 buried her had returned to the village. Then they approached the
 graveyard from different places, imitating at different times the
 sounds of those animals.
@@ -6138,16 +6687,19 @@ and at once knew that they were not animals but Hopi sorcerers;
 so he desisted , and heard one of them say that those who had brought
 old wrappings with them should now tear them all to small pieces, so
 that the people in the village should think and believe that coyotes
-had eaten the corpse and that the pieces were remnants of the wrappings of the body. So this was done and then the body itself dis-
+had eaten the corpse and that the pieces were remnants of the wrap-
+pings of the body. So this was done and then the body itself dis-
 interred. One, of the sorcerers that had changed himself into a grey
-wolf swung the body upon his back and carried it away, being followed by all the others.
+wolf swung the body upon his back and carried it away, being fol-
+lowed by all the others.
 
 The young man immediately followed them at some distance to
 their place of meeting, which they reached in a roundabout way.
 He saw the body lying north of the fireplace, and heard one of them
 say that they should hurry up; whereupon he immediately ran back
 to the village, thinking to whom he might appeal for help, who would be
-strong enough and have courage enough to rescue the body of his sister. So he went to the war chief. Arriving at his house he announced
+strong enough and have courage enough to rescue the body of his sis-
+ter. So he went to the war chief. Arriving at his house he announced
 his presence. The war chief's wife first heard him and replied to his
 call. She then awoke her husband, saying, "Some one is calling
 outside. " They invited him in, made a fire, and then he told them
@@ -6155,14 +6707,17 @@ his story, asking the old war chief to assist him, and expressing his
 determination to go right back and try to rescue the body of his
 sister. The war chief at once promised assistance. He took down
 two war costumes, shields, weapons, etc., and gave one to the young
-man, putting the other one on himself. The young man was impatient and urged that they depart, but the old war chief asked him
-to wait a little, took a bone whistle, went outside and whistled upwards, whereupon immediately a great noise was heard and a small
+man, putting the other one on himself. The young man was im-
+patient and urged that they depart, but the old war chief asked him
+to wait a little, took a bone whistle, went outside and whistled up-
+wards, whereupon immediately a great noise was heard and a small
 man entered the room. This was Cotukvnangwuu, the Star and
 Cloud deity, living in the sky. "Why do you want me so quickly ?"
 he asked. "Yes," the old man said, "this young man wants you."
 And he then told him the facts and asked whether he would assist
 them. The deity at once promised assistance. "Wait a little," the
-old war chief said, " I am going to call some one else. " So he whistled again and immediately the Hawk came flying down into the
+old war chief said, " I am going to call some one else. " So he whis-
+tled again and immediately the Hawk came flying down into the
 
 
 i28 Field Columbian Museum — Anthropology, Vol. VIII.
@@ -6176,7 +6731,8 @@ into his left hand, whistled again, and then a great many skeleton
 flies (mastotovi) came and drank his spittle, whereupon he closed
 the hand upon them. Then they all departed, going to the place of
 the assembled sorcerers, which resembled a Hopi kiva. They at
-once entered the kiva without being noticed, however, by the sorcerers. These were just busy resuscitating the maiden. They had
+once entered the kiva without being noticed, however, by the sorcer-
+ers. These were just busy resuscitating the maiden. They had
 taken off the wrappings from the body, had covered the body with
 a native cloth (mochapu), and were singing a song.
 
@@ -6211,6 +6767,8 @@ the kiva for the first time noticed the presence of their enemies.
 1 She was also told that as she had persistently refused to marry one of the younK nien of the
 village, all the men present would cohabit with her. which was to be her punishment.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 129
 
 "So you have watched us," the old man said to the young man.
 "Yes," the latter said, "I saw you take out the body of my sister
@@ -6249,13 +6807,16 @@ then said to their destroyed enemies: "This is what has happened to
 you. You ought not to be living, because you are dangerous, you
 are bad. You took away and ill treated this young man's sister;
 but you are very skillful, you will undoubtedly restore yourselves
-again," and thereupon they left the kiva and returned to the village.
+again," and thereupon they left the kiva and returned to the vil-
+lage.
 
 The old warrior and the young man replaced their war costume
 in the warrior's house. C6tukvnangwuu ascended to the sky again,
 where he found the maiden which the Hawk had taken there. In
 the house where they lived up there the skin of an Eagle Body (Kwa-
 
+
+130 Field Columbian Museum — Anthropology. Vol. VIII.
 
 tokuu) was hanging on the north wall, a skin of a Kwayo and a skin
 of the Hawk (Kisha) on the east wall. Here the m£na stayed for
@@ -6272,11 +6833,13 @@ would die they should not wrap her up and tie her body. She stayed
 in her home for a while and all at once had disappeared, but in four
 days returned, saying that she had visited those war chiefs above.
 After a while she went again and stayed six days. This she repeated
-a third time, staying ten days the third time. Her mother, now getting used to it, did not worry much about it, but after a while she
+a third time, staying ten days the third time. Her mother, now get-
+ting used to it, did not worry much about it, but after a while she
 failed to awake one morning and they found that she had fallen
 asleep never to awake again. They treated her body the same as
 bodies of eagles are treated when they are buried. They tied
-nakwakwosis to her hands and legs, laid a great many nakwakwosis on her breast and folded her garments over her and thus
+nakwakwosis to her hands and legs, laid a great many nakwak-
+wosis on her breast and folded her garments over her and thus
 buried her without wrapping her up or tying her body. She was
 this time buried on the west side of the village. Her brother
 watched the grave for four days, but this time it was not disturbed.
@@ -6315,7 +6878,8 @@ The old leader of the sorcerers soon went to the Wfkolapi kiva, and
 when he was about to descend the ladder his foot slipped and he fell
 down the ladder. The shaft of the spindle which he held in his hand
 pierced his throat and thus he died. After that nearly every day one
-of these poor victims met with some accident and after a comparatively short time they were all dead. When the last one had died
+of these poor victims met with some accident and after a compara-
+tively short time they were all dead. When the last one had died
 the maiden again descended from the sky to the village where she
 lived for quite a while. When she finally died she went to the sky
 where she lived with the war chiefs again.
@@ -6331,7 +6895,8 @@ he always patched his grandmother's wrappers and blankets.
 
 Many young men in the village asked for the hand of the pretty
 maiden when she would shell corn in the evening, and they would
-come and woo her, but she refused all offers. Piwftamni's grandmother once told him to visit the maiden too, and ask for her hand
+come and woo her, but she refused all offers. Piwftamni's grand-
+mother once told him to visit the maiden too, and ask for her hand
 in marriage, but he said that she would certainly refuse him because
 he was poor and his blanket was very much patched. One time she
 gave him two little fawns and said to him: "When the maiden goes
@@ -6346,6 +6911,8 @@ was glad and said, "Give me these and I shall own them." So he
 
 1 Told by Wikvaya (Oraibi)
 
+
+132 Field Columbian Museum — Anthropology, Vol. VIII.
 
 gave them to her. She took them to the village and showed them to
 her father and mother, as she still had parents.
@@ -6393,6 +6960,8 @@ many had come in by this time. When they had eaten they said,
 "Thanks, that our bride has prepared this feast and that we have
 
 
+March, 1905. The Traditions of the Hopi — Voth. 133
+
 eaten it. You remain here and see we have prepared your costume.
 There it is wrapped up in this bundle. To-morrow you look at it."
 So in the morning the grandmother opened the bundle, and there
@@ -6421,9 +6990,11 @@ now wondering and waiting whether he would provide for his wife
 and make some clothing for her. But he did as he had done for his
 grandmother, that is, repaired and patched, but never made any new
 clothes for her and only made and worked a very small field. He
-proved to be lazy. While the others raised fine crops and watermelons and filled their houses with them, this young man raised hardly
+proved to be lazy. While the others raised fine crops and water-
+melons and filled their houses with them, this young man raised hardly
 anything, and his poor wife had to live partly on watermelon rinds
-which were thrown away by other people, so from that fact she derived her name, and the others laughed at her husband.
+which were thrown away by other people, so from that fact she de-
+rived her name, and the others laughed at her husband.
 
 The young man also had a place in one of the kivas, but he usually
 had very little to eat. When the other people received their food
@@ -6431,12 +7002,15 @@ from their homes, nobody brought him anything. He generally got
 very little because they were so poor. He never received any meat
 to eat and always ate by himself on the floor of the kiva. Only one
 old man had pity on him and sat by his side when he ate. The other
-people laughed at him. One time he went home and his old grandmother asked him what the people were saying to him in the kiva.
+people laughed at him. One time he went home and his old grand-
+mother asked him what the people were saying to him in the kiva.
 He said that some of the people who were rich always brought a
 
 1 A white blanket made of cotton, two of which form a part of the bridal outfit. Sec "The
 Oraibi Marriage Ceremony," by H R Voth, published by the Field Columbian Museum.
 
+
+134 Field Columbian Museum — Anthropology, Vol. VIII.
 
 great deal to eat to the kiva, especially a great deal of meat, and one
 had said to him that he would feed his wife with good food and then
@@ -6484,6 +7058,8 @@ So the next day they were in the kiva all forenoon and at noon
 one of them suggested that now they go and get their possessions.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 135
+
 "All right," the old man said, who was sitting with Piwftamni.
 "You go first because you wanted to have it this way. " So they all
 went out and got their possessions and hung them up on the poles
@@ -6500,7 +7076,8 @@ kiva first," she said. So when, he came to the kiva they looked up
 again and saw that somebody brought a great bundle. He placed
 them on the floor and said to his friend: "Now you hang all these
 up, " and then left the kiva. Arriving at his grandmother's house she
-again went into a room and brought forth something and it was buckskins in great quantities. He took them over to the kiva. The
+again went into a room and brought forth something and it was buck-
+skins in great quantities. He took them over to the kiva. The
 men there looked up as he arrived at the kiva entrance and saw that
 he had a great bundle. He placed these buckskins on the floor and
 his friend, the old man, suspended them over poles. He again
@@ -6508,7 +7085,8 @@ returned to his grandmother's house and this time he brought
 back a large bundle of large buckskins which were also hung up
 in the kiva by the old man. A fourth time he went and this
 time brought a large bundle of women's belts. So it was shown that
-he was very rich. Most of what was in the kiva belonged to Piwftamni. "Now then, what have you to say?" the old man said to
+he was very rich. Most of what was in the kiva belonged to Piwft-
+amni. "Now then, what have you to say?" the old man said to
 the other men. So Piwftamni was ahead again.
 
 Hereupon the old man took all these things that Piwftamni had
@@ -6527,6 +7105,8 @@ ahead of them and no one ever dared to take away from him his wife.
 That rich woman, who was after that no longer called Watermelon-
 Rind Woman, may still be living somewhere.
 
+
+136 Field Columbian Museum — Anthropology, Vol. VIII.
 
 37. THE YOUTH AND MAIDEN WHO PLAYED HIDE AND SEEK
 
@@ -6547,7 +7127,8 @@ hide and seek now," she said, "and the one who is found four times
 shall be killed." "All right," he replied, "you hide first because you
 wanted it." "No, you hide first." she said, and so finally they
 agreed that the mana would go and hide first. "But you must not
-look after me," she warned the youth, and spread her blanket (ushfmni) over him.
+look after me," she warned the youth, and spread her blanket (ush-
+fmni) over him.
 
 She then ran through the growing corn and finally hid under some
 uyi (Corrispermum hyssopi folium Linn). As soon as she had hidden
@@ -6555,15 +7136,18 @@ she called out "tow." The young man then commenced to hunt her
 but could not find her. Finally he said: "I cannot find you, come
 out." So she came out and they went back to the place where they
 had eaten, and the youth then went to hide himself, covering up the
-m£na with her blanket. He hid under a bush of pawfhchoki. Having hidden, he called out. "tow," whereupon the mana hunted for
+m£na with her blanket. He hid under a bush of pawfhchoki. Hav-
+ing hidden, he called out. "tow," whereupon the mana hunted for
 him and found him. Hereupon they again returned, the youth was
 covered up and the mana again went among the growing corn to hide.
 Finding a large corn-stalk, she pulled out the tassel, crawled into the
 opening and put the tassel in again. She then signaled to the youth,
 and he came and looked for her. Following her tracks he found that
-she had been running through the corn-field. So he hunted throughout the corn-field and then at the edge among the herbs and grasses,
+she had been running through the corn-field. So he hunted through-
+out the corn-field and then at the edge among the herbs and grasses,
 but could not find her. Finally he noticed that her tracks seemed to
-come to an end near a large corn-stalk, but he could not find her anywhere. Finally he called out, "I cannot find you. where are you?"
+come to an end near a large corn-stalk, but he could not find her any-
+where. Finally he called out, "I cannot find you. where are you?"
 " Here I am," she replied, and throwing out the corn -tassel she jumped
 out. So for the second time he had failed to find her.
 
@@ -6572,15 +7156,19 @@ They again returned to the edge of the field, the mana now cov-
 ' TV l I iv Wikvava 1 Oraibi)
 
 
+March, 1905. The Traditions of the Hopi — Voth. 137
+
 ering herself up. The youth now, as he went through the field, was
 thinking, " Where shall I hide? It is time that she does not find me
 again.' ' As he passed along the edge of the field he heard a voice.
 4i Listen to me," some one said. "Come up here. I have pity on you.
 One time she has already found you, and she will certainly find you
-again." This was the Sun. Hereupon the latter threw down a rainbow upon which the youth climbed to the Sun, who hid him behind
+again." This was the Sun. Hereupon the latter threw down a rain-
+bow upon which the youth climbed to the Sun, who hid him behind
 his back saying, " Here she will not find you." So the mdna followed
 his tracks all through the field, and went to the edge of the field to a
-small knoll, but could not find him. She followed them again throughout the field and returned to the same place. By this time she was
+small knoll, but could not find him. She followed them again through-
+out the field and returned to the same place. By this time she was
 puzzled where he could be. Her hair whorls were hanging down out
 of shape. She was thinking and thinking where he might be. Finally
 she pressed a few drops of milk out of her breast, examined the drops
@@ -6616,6 +7204,8 @@ somewhere above again, but failed to find him. She then turned it
 downward and all at once saw the opening of the Spider's hole re-
 
 
+138 Field Columbian Museum — Anthropology, Vol. VIII.
+
 fleeted in it. " Come out," she at once called out, " I have found you.
 You are in there." Spider Woman said: "Well, you will have to go
 out, she has found you." He was very dejected by this time because
@@ -6628,7 +7218,8 @@ side of the corn-field was a ditch and as it had rained shortly before,
 there was some water in this ditch and a number of tadpoles were in
 this water. The mdna crossed the watermelon patch, went into the.
 ditch, entered the water and turned into a tadpole. The boy again
-went in search of the m£na, following her tracks through the cornfield and through the watermelon patch down to the ditch, but failed
+went in search of the m£na, following her tracks through the corn-
+field and through the watermelon patch down to the ditch, but failed
 to find her. He returned and hunted throughout the field, and being
 very tired, he returned to the water, stooped down and drank some.
 He was very sad by this time, but he hunted once more. Finally he
@@ -6661,6 +7252,8 @@ right hand fingers, one after another, into her mouth, wet them
 slightly, then pressed the point of her forefinger into her right ear, and
 
 
+March, 1905. The Traditions of the Hopi — Voth. 139
+
 immediately she heard the youth in his hiding place and told him to
 come out, as she had found him.
 
@@ -6681,7 +7274,8 @@ Hereupon she took the shirt and the beads with her and went
 home. When the young man did not return to his home his parents
 became worried and inquired at the maiden's house. "We thought
 you both had gone to our field to watch," they said. "Do you not
-know where Kwavuhu is?" "Yes," she said, "we were there together, but he drove me away, and I do not know where he is." So
+know where Kwavuhu is?" "Yes," she said, "we were there to-
+gether, but he drove me away, and I do not know where he is." So
 the parents were very sad. They had killed a sheep shortly before,
 but as they were so sorry they ate very little of the meat, and so the
 flies came in and ate of the meat. One time the woman was driving
@@ -6693,7 +7287,8 @@ the fly, "our boy went to watch the fields and he never came back.
 If you can, you go and hunt him and find him for me." So the Fly
 flew away to the corn-field and found very many tracks. Following
 them all over the field, she finally tracked them to the shelter where
-the young man had been killed. Flying around here she soon discovered traces of the blood, and opening the hole she found blood
+the young man had been killed. Flying around here she soon dis-
+covered traces of the blood, and opening the hole she found blood
 in it. She sucked some of this blood and went a little farther north
 and there found the ^rave. She then sucked up all the blood from
 the first opening and injected it into the body and then waited. Soon
@@ -6705,6 +7300,8 @@ over there in the ditch," the Fly said, "go there and drink and then
 ' I have found other evidences in the Hopi traditions that point to the probability that
 human sacrifices existed among the ancestors of the Hopi.
 
+
+140 Field Columbian Museum — Anthropology, Vol. VIII.
 
 •
 
@@ -6755,6 +7352,8 @@ request was granted, the child being only partly born, from which fact she recei
 Comp "The Oralbi Snake Ceremony," by H R Voth, page 3<j.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 141
+
 she rubbed this hand over the face of the antelope, twisted his nose,
 rubbed his horns, etc., and then let him run. She then turned to the
 people who had assembled outside of the house and said: " After this
@@ -6770,7 +7369,8 @@ smell the odor of people from a far distance, and so it is very difficult
 to approach them. The Tfhkuy Wuhti is said to still live at the Little
 Colorado River, and the Hopi claim to have seen her. still wrapped up
 in the white robe, and all covered with blood. She controls the game,
-and hunters make prayer-offerings to her of turquoise and nakwdkwosis stained in red ochre like that used in the Snake ceremony.
+and hunters make prayer-offerings to her of turquoise and nakwdk-
+wosis stained in red ochre like that used in the Snake ceremony.
 These prayer-offerings, however, are always deposited in the night.
 
 38. the maiden who stole the youth's costume. 1
@@ -6783,20 +7383,25 @@ him up in a kilt, beads, bunch of parrot feathers, and tied a little bell
 to his back, etc. She told him, that when he had made his circuit
 and returned to the village he should never pass by the house of that
 maiden, because she was dangerous, but he should come up another
-trail. So he ran towards Mishdngnovi and descended the mesa southeast of Mish6ngnovi, then made a large circuit in the valley.
+trail. So he ran towards Mishdngnovi and descended the mesa south-
+east of Mish6ngnovi, then made a large circuit in the valley.
 
 He was thinking why his grandmother had forbidden him to pass
 by that maiden *s house. Early the next morning he again ran, again
-descending south-east of Mish6ngnovi. Passing down the trail eastward, he turned in the valley, ran north, turned to the mesa south of
+descending south-east of Mish6ngnovi. Passing down the trail east-
+ward, he turned in the valley, ran north, turned to the mesa south of
 P^chkovi, ascended the mesa, and came to the village from the north.
 When he ascended to the village the maiden was standing on her kiva.
 "Aha, some one is running there, M she said. "Run! run! You are
-beautifully dressed up," she continued, "let me dress up in your costume and dance for you."
+beautifully dressed up," she continued, "let me dress up in your cos-
+tume and dance for you."
 
 Hereupon the youth ascended to the village and stopped in front
 
 1 Told by Sikahptki (Shupaulavi)
 
+
+142 Field Columbian Museum — Anthropology, Vol. VIII.
 
 of the m£na's kiva. "You are nicely costumed," she again said.
 11 Let me dress up in your costume and dance for you, and when I am
@@ -6852,15 +7457,18 @@ shall give it to you," he said. " Now, you listen to me," he said, "as
 March, 1905. TriE Traditions of the Hopi — Votk. 143
 
 soon as you get through dancing I shall give it to you." So she came
-out and performed her dance at the edge of the kiva opening, apparently ready to slip in again when she would be through. She sang
+out and performed her dance at the edge of the kiva opening, appar-
+ently ready to slip in again when she would be through. She sang
 the same song that she had been singing before. As she sang the last
 word the youth threw the game towards her, but quite a distance from
 the kiva, as he had been instructed by his grandmother. The mdna
 rushed for the game, and while she did so the youth closed the opening.
-The mdna was very quick, but when she saw that she had been defeated she laid off the entire costume, one piece after the other, saying,
+The mdna was very quick, but when she saw that she had been de-
+feated she laid off the entire costume, one piece after the other, saying,
 "Here is your costume." The youth picked it up and went to his
 grandmother's house, who was very happy. "Thanks," she said,
-"that you were not too late, and that you were successful." Hereafter he had his costume again. "Thanks, thanks," the grandmother
+"that you were not too late, and that you were successful." Here-
+after he had his costume again. "Thanks, thanks," the grandmother
 said, one time after another. "Do not go that way again, that mana
 is dangerous. She always takes away the things from the youths of
 the village. I told you so, but you would not believe me. Now since
@@ -6878,7 +7486,8 @@ refused to marry any of the young men in the village. Finally the
 Night (T6kila) concluded to try to marry the two maidens, and came
 to the house. He came there in the evening and asked them to marry
 him. They said they would lay the matter before their parents, and
-if they were willing they would marry him. The parents were willing, and so the two sisters waited for their suitor. The next evening
+if they were willing they would marry him. The parents were will-
+ing, and so the two sisters waited for their suitor. The next evening
 he came to fetch his two brides.
 
 Leaving the village they went through a narrow passage. Outside
@@ -6894,6 +7503,8 @@ pregnant, had thrown them into the room to perish. A number of
 
 1 Told bv LomanGmtiwa (Oraibi)
 
+
+144 Field Columbian Museum — Anthropology, Vol. VIII.
 
 women and maidens were still living, and they pitied these two new
 arrivals, and said: "Alas! that you two have come with him." So
@@ -6943,6 +7554,8 @@ tell us who he is, and we will go to him; then he will take care of us
 and provide for us." The mothers then told them, "Yes, you have
 
 
+March, 1905. The Traditions of the Hopi — Voth. 145
+
 a father, but from him we have fled, and he will not care for you. East
 of here is a village, Kawafhkaa, and there is where we used to live.
 There our father and our mother live. You go there and north of the
@@ -6956,14 +7569,16 @@ little turtle tied up in it."
 
 . Hereupon they slept until morning, then the two children started.
 Their mothers said to them: "If they contend with you and your
-grandfather pities you and gives you something, you bring us something too, so that we can dress up, because our clothes are worn out.
+grandfather pities you and gives you something, you bring us some-
+thing too, so that we can dress up, because our clothes are worn out.
 If they do not say anything to you, we shall go there too." When
 they arrived at the village they crossed the plaza, saw the ladder, and
 went up. Their grandparents lived in a kiva there. They entered
 and sat down. The grandparents had always been sad and sorry and
 at first did not say anything. Finally the grandfather saw them and
 asked, "Who are you?" "Why, it is we," they said. " But who are
-you? Where do you come from?" "From west of here," they replied. "From Aktfkovi (a village west of Kawafhkaa)?" the grand-
+you? Where do you come from?" "From west of here," they re-
+plied. "From Aktfkovi (a village west of Kawafhkaa)?" the grand-
 father asked. "No," they said, "not from there, but we stayed right
 west of here." " But who are you?" they asked again.
 
@@ -6971,7 +7586,8 @@ west of here." " But who are you?" they asked again.
 them, and we are their children. We have grown up now and have
 come here." Hereupon they set food before them and fed them.
 The grandmother was crying. When they had eaten, sure enough,
-they were asked to play a game with them. "If they are our grandchildren," they said, "they will know something." So the grand-
+they were asked to play a game with them. "If they are our grand-
+children," they said, "they will know something." So the grand-
 father laid out a flat stone on which was drawn a tukwnanawohpi. 1
 The grandfather sat on one side, the boy at the other end, and then
 they began to play. The boy won the game. "Very well," the
@@ -6987,8 +7603,11 @@ hesitate," the grandfather said, "but speak out and say what you
 1 A game lesembling our checkers.
 
 
+146 Field Columbian Museum — Anthropology, Vol. VIII.
+
 think." "Why, what can be in there?" the little brother finally said;
-"it is perhaps a little turtle." "Now, you are surely our grandchildren," the grandfather exclaimed.
+"it is perhaps a little turtle." "Now, you are surely our grand-
+children," the grandfather exclaimed.
 
 44 Well now, you kill me," the grandfather said. "No, we do not
 want to kill you," the children replied, "but you pay us something."
@@ -7012,11 +7631,13 @@ abreast. In this same manner they ascended the ladder, and when
 they had arrived at the opening the elder woman called down, "Our
 father, our mother," but received no answer. The younger sister
 then called down the same words, but received no answer. "They
-do not care for us," they said. The children had told their grandparents that their mothers would come if the grandparents would not
+do not care for us," they said. The children had told their grand-
+parents that their mothers would come if the grandparents would not
 say anything to them. They then descended the ladder and stopped
 at the elevated portion in the kiva. Again the two called, "Our
 father, our mother," and again no answer. "They do not care for
-us," the two women said. They then descended into the deeper portion of the kiva and again one after the other called, "Our father, our
+us," the two women said. They then descended into the deeper por-
+tion of the kiva and again one after the other called, "Our father, our
 mother," whereupon the grandmother responded. "How!" she said,
 and immediately her two children and two grandchildren fell dead.
 Had they heeded the injunction a little better, and had been quiet
@@ -7031,6 +7652,8 @@ marriage. The young men of the village would frequently go there
 
 1 Told by Lomdnomtiwa (Oraibi).
 
+
+March, 1905. The Traditions of the Hopi — Voth. 147
 
 and try to win her affections, but without success. At Ach£mali
 (now a shrine a few hundred yards north of the village) lived a youth
@@ -7052,7 +7675,8 @@ But the young man, not wanting to wait any longer, boldly passed
 between them to the house of the maiden. There was an open window
 in the upper story of the house, and to this the youth went up. The
 young people who saw him smiled. The maiden was grinding corn,
-but occasionally stopped. The young people watched the proceedings, and as they heard that the maiden occasionally stopped grinding,
+but occasionally stopped. The young people watched the proceed-
+ings, and as they heard that the maiden occasionally stopped grinding,
 they concluded and said that the young man must be welcome, and
 she must be talking with him sometimes, because she stops grinding
 corn occasionally.
@@ -7078,6 +7702,8 @@ next three days she ground corn, and on the morning of the fourth
 day the grandmother washed their heads, but there was nobody there
 
 
+148 Field Columbian Museum — Anthropology, Vol. VIII.
+
 to participate. There was nobody there to make a bridal costume,
 for which the maiden was now sorry. Hereupon the bride remained
 there and prepared the food for them, but no one prepared a bridal
@@ -7089,7 +7715,8 @@ you."
 
 That day the young man went hunting and brought home a great
 deal of meat. They prepared some ndokwiwi, some pikami, etc. Of
-this they ate in the evening. Early the next morning the grandmother again washed the head of the bride, and hereupon she went
+this they ate in the evening. Early the next morning the grand-
+mother again washed the head of the bride, and hereupon she went
 into a room on the north side and was hunting around there, knocking
 things about, but found nothing. Going into another room on the
 west side she did the same, but had nothing when she came out. She
@@ -7117,7 +7744,8 @@ young man returned.
 
 In the morning the maiden went to the Snake kiva, called her
 father for the morning meal, and added that in four days there would
-be war, whereupon she ran back. The people in the kiva were surprised, but laughed. The next day she repeated this, saying that in
+be war, whereupon she ran back. The people in the kiva were sur-
+prised, but laughed. The next day she repeated this, saying that in
 three days there would be war, and so on. In the evening of the second
 day the father and his son-in-law went over to the old woman at
 Achrimali, and said : " It is drawing nearer." "Yes." she said, " when
@@ -7126,7 +7754,8 @@ Achrimali, and said : " It is drawing nearer." "Yes." she said, " when
 March, 1905. The Traditions of the Hopi — Votii. 149
 
 they will have a race to-morrow you must not race with them, but you
-both come here first and start from here." Whereupon the two returned home. The next morning the little maiden repeated the same
+both come here first and start from here." Whereupon the two re-
+turned home. The next morning the little maiden repeated the same
 words. The men now began to feel uneasy, saying that that maiden
 certainly did not say that for nothing. Something must be about to
 happen.
@@ -7139,7 +7768,8 @@ whereupon she ran home. It had been noised abroad that some
 Navaho were approaching the village and were attacking some men
 in the fields. The men who were not killed ran towards the village
 and shouted. The men of the village at once got ready and descended
-the village to meet the Navaho raiders. Hiy6natitiwa and his fatherin-law each got two quivers full of arrows and a bow, and then ran
+the village to meet the Navaho raiders. Hiy6natitiwa and his father-
+in-law each got two quivers full of arrows and a bow, and then ran
 over to Achdmali to the old woman's house. " Have you come?" she
 said. "Yes," they replied. Hereupon she went to the room on the
 north and called in: "Come out here, your grandchildren have come
@@ -7164,6 +7794,9 @@ And this way it was prevented that some one should take away the
 young man's wife, and he forever afterwards lived with her.
 
 
+150 Field Columbian Museum — Anthropology, Vol. VIII.
+
+
 41. THE SHONGOPAVI MAIDEN WHO TURNED INTO A DOG. 1
 
 Haliksai ! In Shong6pavi they were living, and a youth there was
@@ -7174,7 +7807,8 @@ of the maidens ground coarse meal (hakwushkwi) for them and put
 it into a tray, and when she had put it in she lifted it up, and while
 she was singing she threw it away. She sang: "P6ta, p6ta, p6ta,
 Y6a fni, y6a mi," and then scattered it to the birds. Now the chfros
-darted towards it and ate of it, and when they had eaten they dispersed again, whistling, and were flying around somewhere in the
+darted towards it and ate of it, and when they had eaten they dis-
+persed again, whistling, and were flying around somewhere in the
 field. When it was evening they again assembled at the mdna's
 house. In the morning she again made hakwushkwi for them and
 fed them, and after that the m£na always fed them.
@@ -7209,6 +7843,9 @@ once ran away somewhere, and is still going around somewhere.
 1 Told by Moho (Oraibi woman)
 
 
+March, 1905. The Traditions of the Hopi — Voth. 151
+
+
 42. THE BLIND MAN AND THE LAME MAN. 1
 
 A long time ago there was an earthquake at Orafbi. It was a very
@@ -7234,7 +7871,8 @@ called over to the cripple asking for information. The latter answered
 that the earth had been trembling and the village had been in motion,
 and that all the people had left the village. The cripple then asked
 the blind man to come over to his house. The blind man asked the
-cripple to come over to his house, but after a while the cripple prevailed, and the blind man, taking a stick and feeling his way before
+cripple to come over to his house, but after a while the cripple pre-
+vailed, and the blind man, taking a stick and feeling his way before
 himself, tried to reach the house of the cripple, the latter directing
 him which way to go. When he had arrived at the house the cripple
 said : "Let us also flee. You carry me on your back, and I shall show
@@ -7253,6 +7891,8 @@ and soon concluded that it must be an elk. Before leaving the village
 
 1 Told by OGyAwaima (Ormlbi)
 
+
+152 Field Columbian Museum — Anthropology, Vol. VIII.
 
 the blind man had suggested that they take a bow and arrows along,
 so that, in case they needed some food, they could kill some game.
@@ -7290,7 +7930,8 @@ Early in the morning they concluded that they would follow the
 tracks of the inhabitants of the village who had fled. They finally
 found them in a timber quite a distance to the north. "What has
 happened to you?" they said. "Why, you were blind and lame, and
-now you can see and walk." "Yes," they said, "something has happened to us; and now let us go back again to the village. There is
+now you can see and walk." "Yes," they said, "something has hap-
+pened to us; and now let us go back again to the village. There is
 nothing the matter there any more." So the people all returned to
 the village, these two taking the lead, and that is the reason why
 Oraibi is again inhabited. If these two had not brought the people
@@ -7306,7 +7947,8 @@ a youth lived, by the name of Big Head (Wuy^kqotd). Away south
 are the Hopi Buttes, and on the westernmost butte lived Goat Horn
 (Chiw£kala). These two were friends, but as they lived so far apart
 they did not visit each other often; but one time Goat Horn visited
-his friend in Oraibi. After they had eaten and talked together, towards evening Goat Horn wanted to return home. "My friend, "
+his friend in Oraibi. After they had eaten and talked together, to-
+wards evening Goat Horn wanted to return home. "My friend, "
 he said to Big Head. "What is it?" the latter replied. "You must
 come and visit me sometime, too," Goat Horn said ; whereupon he went
 home. After a while Big Head visited his friend, and stayed all night
@@ -7321,12 +7963,15 @@ Halfksai! In Orafbi they were living. At Bay^vushtuhco lived
 a woman by the name of Kavushkavuwnom, and at O^nmuru lived a
 woman by the name of Shovfviounom. These two women were great
 friends. They usually got water at Spider Spring (K6hkangva). One
-time Kavushkavuwnom was getting water again, and as she was returning her friend Shovfviounom met her, also getting water. The
+time Kavushkavuwnom was getting water again, and as she was re-
+turning her friend Shovfviounom met her, also getting water. The
 latter asked her in a half -singing manner: "What now [in order] to
 cook, you get water?" (Hfhta vula kwiw^nikae kuyito?) Whereupon
-Kavushkavuwnom replied: "A dish of young squashes" (Ngam6ochona). Shovfviounom hereupon said: "So you are going to feast?"
+Kavushkavuwnom replied: "A dish of young squashes" (Ngam6o-
+chona). Shovfviounom hereupon said: "So you are going to feast?"
 (Aha, halihi kurzh pas um ch6nni?) "Yes," the other one replied,
-"you must come this evening and visit me," whereupon they separated, the one going home with her water, and the other one going
+"you must come this evening and visit me," whereupon they sepa-
+rated, the one going home with her water, and the other one going
 after water.
 
 When Shovfviounom returned with her water she went to grinding
@@ -7343,6 +7988,8 @@ Shovfviounom had visited for a little while, she returned to her home.
 2 ToM by TanKakhoyoma (Oraibi).
 
 
+154 Field Columbian Museum — Anthropology, Vol. VIII.
+
 The next morning Shovfviounom went after water first. She
 looked around several times for her friend, who, however, was not yet
 coming. She went down to the spring, filled her jug with water, but
@@ -7356,12 +8003,14 @@ Shovfviounom replied: "Tav6chona." "So you are going to feast?"
 "-Yes," Shovfviounom replied, "you must come and visit me in the
 evening."
 
-When they had both returned they prepared their meals, Kavushkavuwndm preparing some hurushuki, and Shovuvioun6m preparing
+When they had both returned they prepared their meals, Kavush-
+kavuwndm preparing some hurushuki, and Shovuvioun6m preparing
 a dish of rabbit meat. In the evening Kavushkavuwn6m proceeded
 to the house of her friend. The latter put her dish of rabbit meat into
 a bowl, and Kavushkavuwnom added her hurushuki. The two then
 ate, enjoying their feast. When they were through, they conversed
-together until the sun went down, whereupon Kavushkavuwn6m returned to her house and both retired for the night.
+together until the sun went down, whereupon Kavushkavuwn6m re-
+turned to her house and both retired for the night.
 
 45. HOW THE CHILDREN OF PIVANHONKAPI OBTAINED PER-
 MISSION TO CATCH BIRDS. 1
@@ -7369,10 +8018,12 @@ MISSION TO CATCH BIRDS. 1
 Halfksai! At Hukovi they were living, and at Pivanhonfcapi they
 were also living. At both places there were a great many children,
 and they always went down to Mumushva (a spring named after a
-certain herb and grass that grows in the spring), where they were setting bird traps. They were often at enmity with one another on
+certain herb and grass that grows in the spring), where they were set-
+ting bird traps. They were often at enmity with one another on
 account of the birds. One morning they again went to trap birds.
 They again became very angry at one another on account of the
-trapping, and the Hukovi children said to the children of Pivanhonfcapi that they should not trap birds there. But they said if they
+trapping, and the Hukovi children said to the children of Pivanhon-
+fcapi that they should not trap birds there. But they said if they
 would give them something they could trap birds there. So the
 children from Pivanhonfcapi ran back to the village and got such
 things as kutuki, pfki, and different other articles of food, and gave
@@ -7383,6 +8034,9 @@ from both villages were always catching birds there, and maybe they
 are catching birds there still.
 
 1 Told by Kw4yc«hva (Oraibi).
+
+
+March, 1905. The Traditions of the Hopi — Voth. 155
 
 
 46. THE JUG BOY. 1
@@ -7406,7 +8060,8 @@ put into the jug. Thus the child grew to be a young man. One time
 it rained and then it snowed, and the young men then went hunting.
 In the evening they came home carrying the rabbits. That jug youth
 envied them. He had a grandfather, and said to the grandfather,
-"My grandfather." " Hay!" the latter replied. " I want to go hunting, too." "Very well," he replied, and then the grandfather made a
+"My grandfather." " Hay!" the latter replied. " I want to go hunt-
+ing, too." "Very well," he replied, and then the grandfather made a
 bow for him and arrows, and tied feathers to the arrows, and when
 he had made them he tied them to the jug handles. He also tied
 some food to the jug and a burden band with it. These things he
@@ -7415,7 +8070,8 @@ made.
 Then the grandfather lifted the jug up, carried it down from the
 village and left it there. He said to him, "Now go on; there in the
 field they are hunting, hence when you proceed and find rabbit tracks
-somewhere you follow them. This kind of tracks they have," whereupon he drew them for him. Now then he (the jug youth) moved
+somewhere you follow them. This kind of tracks they have," where-
+upon he drew them for him. Now then he (the jug youth) moved
 forward in a wabbling manner and descended somewhere along the
 path. When he had descended he went somewhere northward from
 the village. Then he moved up and down that way, and sure enough
@@ -7430,6 +8086,8 @@ into two and a Hopi came bouncing out of it.
 
 * A part of it entered her genitalia and she became pregnant from it.
 
+
+156 Field Columbian Museum — Anthropology, Vol. VIII.
 
 After that he at once untied the bow and arrows and burden band.
 He now took the burden band, the bow and arrows, and followed the
@@ -7476,18 +8134,23 @@ means, be sitting or living with a disobedient heart. But as the
 ' ToM by Qdyawaima (Oraibi).
 
 
+March, 1905. The Traditions of the Hopi — Voth. 157
+
 Crow is constantly trying to influence the Hopi to do bad things, to
 infuse sickness into their bodies, there is some one else that is trying
 to counteract the doings of the Crow, but who this unseen being is
 the Hopi do not know. They do not know where he lives ; they have
 no regular name for him ; they speak of him as The-One-that-Does-
-Good-for-them-All, and wants to make them good, or as the Onewith-the-Good- Heart, and so on. The ideas about this being seem to
+Good-for-them-All, and wants to make them good, or as the One-
+with-the-Good- Heart, and so on. The ideas about this being seem to
 be vague. It is not quite clear whether the Hopi consider it to be
 a personality or simply a power, or influence, but they believe that
 whatever this may be, it is not so strong as the Crow, although the
-two forces constantly wrangle over the individual Hopi, the one trying to exert a bad influence over him and the other one to counteract
+two forces constantly wrangle over the individual Hopi, the one try-
+ing to exert a bad influence over him and the other one to counteract
 this bad influence. The Hopi say that sometimes, when they are
-under the influence of the Crow, this other power will in some mysterious way make itself felt, so that they sometimes feel a sudden shock;
+under the influence of the Crow, this other power will in some myster-
+ious way make itself felt, so that they sometimes feel a sudden shock;
 so that, as they sometimes put it, they even sometimes hit their foot
 against an object that may be close by. By this, they say, they
 realize that that "Good Thing," or Being, is trying to exert its
@@ -7510,7 +8173,8 @@ consisting of two robes, a pair of moccasins, a knotted belt, and a
 reed mat, the latter to be used as a receptacle for a part of the outfit.
 In fact, it was the same outfit that is made for brides at the present
 time, but yellow being the color of the north with the Hopi, this whole
-outfit was of that color. The chief brought it to the village and presented it to the maiden, but she refused to accept it, so he, too, re-
+outfit was of that color. The chief brought it to the village and pre-
+sented it to the maiden, but she refused to accept it, so he, too, re-
 turned to his home in disgust. The Blue Cloud chief of the west hearing
 about this, made up his mind that he would try to win the favor of
 that maiden, so he prepared a blue bridal outfit and offered it to
@@ -7519,11 +8183,14 @@ the maiden, but it was promptly refused. Hereupon the Red Cloud
 ' ToM by Qoyawaima (Orafbi).
 
 
+158 Field Columbian Museum — Anthropology, Vol. VIII.
+
 chief of the south prepared the same outfit in red color, but also
 without success. The White Cloud chief of the east tried his luck
 with a white bridal costume, but with no better results. The Black
 Cloud chief from above failed in the same manner, and finally the
-Gray Cloud chief from below tried his luck, only to meet with complete failure, as his five companions had. 1
+Gray Cloud chief from below tried his luck, only to meet with com-
+plete failure, as his five companions had. 1
 
 After all these attempts and failures, Pavayoyfcashi, a rain deity
 in the far south, heard about this story. He painted and dressed up
@@ -7543,7 +8210,8 @@ offered no objections.
 
 The Coyote Old Man at that time lived west of the village at a
 place called Coyote Gap. He had been thinking of that maiden,
-but knowing that she had refused all offers, had never had the courage to ask for her. Hearing now that she had accepted Pavayoy-
+but knowing that she had refused all offers, had never had the cour-
+age to ask for her. Hearing now that she had accepted Pavayoy-
 fcashi, he at once determined to win her. So he traveled south to
 a country where it is warm and where there are parrots and macaws.
 He captured one of the macaws, returned, and at once proceeded to
@@ -7564,11 +8232,15 @@ red, of the south; white, of the east; black, of the above; way, meaning in this
 all kind* of colon*, of the below.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 159
+
 for her, she mistook Coyote Old Man for her lover and went with
 him. They proceeded to the house of the Coyote Old Man where
-she remained. She soon discovered her mistake and was very unhappy over it.
+she remained. She soon discovered her mistake and was very un-
+happy over it.
 
-When Pavayoyfcashi awoke in the morning, he missed his costume. After hunting for it and being unable to find anything, he
+When Pavayoyfcashi awoke in the morning, he missed his cos-
+tume. After hunting for it and being unable to find anything, he
 discovered tracks leading to and from his house. He followed these
 and tracked them to the house of the maiden, from there back to
 the house of the Coyote, where to his great sorrow he found her.
@@ -7581,7 +8253,8 @@ down the mesa, surrounded the Coyote's house and determined to
 kill the Coyote. When they arrived there he was still sleeping.
 The maiden, sitting by his side, was very much dejected. When
 the Coyote heard the noise he awoke, jumped up, ran up the ladder
-and succeeded in escaping between and through the pursuers without being hurt by the sticks that were hurled at him. Ascending a
+and succeeded in escaping between and through the pursuers with-
+out being hurt by the sticks that were hurled at him. Ascending a
 ridge or mesa some distance west of the village, he turned around and
 in a defiant way expressed his satisfaction at the victory he had
 gained over them, by successfully getting their most beautiful maiden
@@ -7593,7 +8266,8 @@ Pavdyoyfcashi bided his time and one time brought a strong
 wind, some very heavy rain and thunder clouds, in which he was
 hidden, to the village. He took revenge on his enemy, the Coyote,
 by striking him dead with a ray of lightning. The maiden returned
-to her home, but realizing that she had cast herself away, she continued to lead a life of lewdness.
+to her home, but realizing that she had cast herself away, she con-
+tinued to lead a life of lewdness.
 
 49. chorzhvukiqOlO and the eagles. 1
 
@@ -7606,6 +8280,8 @@ in his field work. The two maidens would get angry at their brother
 
 ' ToM by Qdyawaima (Orafbi).
 
+
+160 Field Columbian Museum — Anthropology, Vol. VIII.
 
 because he would not assist their father to make a living, and they
 would tell him that he should go and work in the field. He would
@@ -7633,12 +8309,14 @@ sisters locked it, and the key is buried near the fireplace under some
 ashes;" whereupon the young man found the key and opened the
 door. The Eagles told him that his sisters had beaten them, and told
 him that he should dress up and that they wanted to go to where the
-family was. So the young man painted his legs yellow, with sifcdhpiki, tied some bells or rattles round his legs, and some eagle's feathers
+family was. So the young man painted his legs yellow, with sifcdh-
+piki, tied some bells or rattles round his legs, and some eagle's feathers
 in his hair, put on a kilt, sash, and belt, and decorated his body in
 different colors. Over his cheeks and nose he made a black line.
 He placed a number of strands of beads around his neck and ear
 pendants around his ears. One of the Eagles said, "I am going to
-carry you on my back." So he mounted the Eagle, holding himself with both hands to the wings of the Eagle, and the other Eagle
+carry you on my back." So he mounted the Eagle, holding him-
+self with both hands to the wings of the Eagle, and the other Eagle
 taking the lead, they began to ascend. The people in the village
 observed them and recognized the young man, and said, "Oh!
 Why is that Eagle carrying Chorzhvufcfqoio!" 1
@@ -7652,6 +8330,8 @@ Shilakwuyata. Corn husks.
 
 1 The name signifies • Bunch^>f lontf blue-bird wing feathers.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 161
 
 Tutubena tutubena. (Are) figured, (are) figured. 1
 
@@ -7683,7 +8363,8 @@ The Eagles kept flying higher and higher to their home. Arriving
 at an opening away up in the sky, they passed through into the
 world where the Eagles dwell, and from where they come down in
 response to the prayers of the Hopi and hatch their young for the
-Hopi here in this world. . The two Eagles proceeded somewhat eastward from the opening, onto a very high bluff around which, in
+Hopi here in this world. . The two Eagles proceeded somewhat east-
+ward from the opening, onto a very high bluff around which, in
 the valley, were many houses that were all perfectly white and in
 which the Eagles lived. The two Eagles deposited the young man
 on the top of that bluff, and told him, "Here you will have to stay,
@@ -7693,7 +8374,8 @@ that he would jump down from the bluff. He said, "If I remain
 here I will die with hunger anyway, so I may just as well jump down
 and die quickly." But soon a little Wren appeared on the bluff,
 jumping up and down the edge. He spoke to the little Wren, asking
-whether there was no possibility of him getting down, but he received no answer. Soon the little bird flew away, but came back
+whether there was no possibility of him getting down, but he re-
+ceived no answer. Soon the little bird flew away, but came back
 
 1 This refers to the fact that the Hopi, especially the children, often fold up a strip of corn
 husk and with their teeth mark different figures in it, which are then shown in different places of
@@ -7701,6 +8383,8 @@ the husk when the latter is opened and held against the light. This was probably
 the boy had been singing with his sisters and by which he wanted to make himself known, in
 which he was successful.
 
+
+162 Field Columbian Museum — Anthropology, Vol. VIII.
 
 again, acting in the same manner. All at once a black Spider, that
 had been informed about the matter by the Wren came up the bluff.
@@ -7723,8 +8407,10 @@ at once began to pull out one feather after another from its wings,
 putting them at short intervals into the wall of the crack, while it
 was holding itself also on the sides of the crack. When the feathers
 from the wings were all gone it pulled out the feathers from its tail,
-thrusting them also into the side of the crack. When the tail feathers were all gone it had not yet reached the bottom by far. So it
-began to pull out the small feathers from all over the body and continued to build its little ladder with these feathers, but the bottom
+thrusting them also into the side of the crack. When the tail feath-
+ers were all gone it had not yet reached the bottom by far. So it
+began to pull out the small feathers from all over the body and con-
+tinued to build its little ladder with these feathers, but the bottom
 was still not reached, so that finally it had to pull out even the small
 down all over its body, with which it finished the ladder. It now
 ascended the bluff again on its improvised ladder, and when it came
@@ -7767,7 +8453,8 @@ kind of a fowl, as the old woman explained to him upon his request.
 After he had eaten, Spider Woman made a ball for him of pitch and
 hair, the same as the Hopi use to-day in their races in early spring.
 In the morning he took that ball, left the house and ran southward,
-kicking the ball before him as the Hopj do at the present day. Arriving at a small lake he saw at its banks some little birds, and having
+kicking the ball before him as the Hopj do at the present day. Arriv-
+ing at a small lake he saw at its banks some little birds, and having
 learned that Spider Woman relished that kind of meat very much,
 he killed one of the birds and took it along. On his way back he
 again kicked the ball before him, and at the last kick it dropped down
@@ -7782,7 +8469,8 @@ the bird evidently having been killed by some other bird, and she
 had lived upon that bird for a long time.
 
 The next day he went out again, bringing home this time two
-birds that he had killed. She thanked him very much again, saying, that now they could eat all they wanted. She then warned him
+birds that he had killed. She thanked him very much again, say-
+ing, that now they could eat all they wanted. She then warned him
 that he should never go towards the west, as there were some bad
 people living there that would hurt him. The third day he again
 went to the lake, taking with him this time a throwing stick. When
@@ -7790,14 +8478,18 @@ he arrived there he killed a large number of birds and brought them
 back with him. On this trip he again kept kicking the ball before
 
 
+1 64 Field Columbian Museum — Anthropology, Vol. VIII.
+
 him. When he brought all these birds into Spider Woman's house
 and placed them on the floor, she was very happy, and thanked him
 for it many times. "Now," she said, "we can eat meat and need
 no longer simply suck it," as they did before. "I am going to live
 well now, on account of you, (by your help)," she added. On the
-fourth day he again made the trip in the same manner, to the aforesaid lake, but this time he thought he would turn around to the
+fourth day he again made the trip in the same manner, to the afore-
+said lake, but this time he thought he would turn around to the
 right, westward, and see at least who it was that was living there
-and that was reported to be bad. He thought if any danger threatened him he could easily run away. So he traveled westward, kick-
+and that was reported to be bad. He thought if any danger threat-
+ened him he could easily run away. So he traveled westward, kick-
 ing before him his ball. All at once the ball disappeared and he
 found that it had dropped into a kiva. He approached the kiva and
 waited outside. All at once some one called from within, saying,
@@ -7815,12 +8507,14 @@ man. "I do not know," the latter said, "I have nothing. You
 may take my ball, however." "I do not want that," Hasohkata
 said, "but you may lie down outside at the entrance of my kiva and
 it will not be so cold then," for it had by this time become fall and
-the weather was getting cold. The young man consented, but Hasohkata said to him: "I am afraid you will run away then, so I am
+the weather was getting cold. The young man consented, but Has-
+ohkata said to him: "I am afraid you will run away then, so I am
 going to tie your hands and feet," which he did. In a little while
 the young man began to feel very cold while he was lying outside of
 the kiva. Spider Woman, in the meanwhile, became uneasy about
 her young friend, saying, "It is now about half noon and he is not
-yet here, he undoubtedly did not follow my advice and went westward and fell into the hands of the bad people. She at once went to
+yet here, he undoubtedly did not follow my advice and went west-
+ward and fell into the hands of the bad people. She at once went to
 look him up and found him lying at the kiva's opening, his hands
 tied on his back and his feet also tied together. "Aha!" she said,
 "here you are lying just as I thought. You must be hungry; now,
@@ -7830,10 +8524,13 @@ two fuzzy, short turkey feathers. With these she returned and
 placed one beneath him and with the other one she covered him up.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 165
+
 Hereupon she returned to her house and commenced to meditate on
 the matter. "Why did he take away my friend," she thought,
 "and how shall I get him back again. That man there in the kiva
-is a bad man and he will not want to give back to me my grandchild. I am going out to call somebody in here. " So she went out
+is a bad man and he will not want to give back to me my grand-
+child. I am going out to call somebody in here. " So she went out
 and called out to her people, saying: "All assemble here, but do not
 tarry, be quick about it." Those that responded at once were
 specially animals of prey, such as the bear, wildcat, panther, mole,
@@ -7841,7 +8538,8 @@ etc. Her house was completely filled. "Why do you want us in
 such a hurry?" they asked. "Yes," she said, "that there Hasohkata
 has hung my grandchild up to smoke (referring to the fact that
 objects that are smoked are sometimes suspended in the hatch-way
-over the fireplace). So now, I want you to go and take my grandchild away from Hasohkata." "All right," they said, "but how
+over the fireplace). So now, I want you to go and take my grand-
+child away from Hasohkata." "All right," they said, "but how
 shall we do it?" "You must also gamble with him," she said.
 They then agreed upon certain games that they were going to play,
 and sticks that they should make, etc., and then left, being led by
@@ -7849,7 +8547,8 @@ the old woman. Hdsohkata in the meanwhile kept laughing at the
 young man lying outside of his kiva entrance. "Now, you are cold
 by this time, are you?" he kept saying to him, and while he was
 still talking in that manner the rescuers arrived at the kiva. Before
-they started, however, from Spider Woman's house, she had prepared a set of bdckshivu (a cup game). This she had brought with
+they started, however, from Spider Woman's house, she had pre-
+pared a set of bdckshivu (a cup game). This she had brought with
 her. While they had proceeded to H^sohkata's house the Mole had
 proceeded to the same place underground and was waiting under the
 house of Hdsohkata. When the others arrived at the kiva they
@@ -7860,14 +8559,18 @@ urgent request to come in, Spider Woman said: "We have come to
 gamble with you. You are smoking my grandchild here and we
 have come to beat you at playing, and are going to take him away. "
 "All right," he said, "come right in," whereupon they entered,
-entirely filling the kiva. "All right," they said, "who will commence?" "You play first," Hasohkata said, "because you pro-
+entirely filling the kiva. "All right," they said, "who will com-
+mence?" "You play first," Hasohkata said, "because you pro-
 posed it." Spider Woman was happy over it, and put up her four
-gaming cups on the north side of the fireplace. The Mole, still being under the floor, saw it and placed the little ball under one of the
+gaming cups on the north side of the fireplace. The Mole, still be-
+ing under the floor, saw it and placed the little ball under one of the
 cups, pushing it up very hard, however, that it could not drop out in
 case that cup was chosen and thrown down by the player. Now,
 they said to Hasohkata, "Guess under which it is, and we will see
 whether you will win. " He pondered a long time, then threw down
 
+
+166 Field Columbian Museum — Anthropology, Vol. VIII.
 
 one of the cups, but the ball was not under it. Hereupon he threw
 down another one, but the ball was not under that one. "Now, that
@@ -7883,7 +8586,8 @@ is the ball." This made the old man somewhat angry and he
 refused to let his captive go, but he challenged them to another trial.
 Outside of his kiva grew very strong kwfngwi, which is a brush, the
 sticks of which are very hard. He told them that if they would
-break down or pull out a certain amount of that stuff he would consider himself beaten. The Mole hearing this, quickly made its way
+break down or pull out a certain amount of that stuff he would con-
+sider himself beaten. The Mole hearing this, quickly made its way
 underground to the brush and soon gnawed off all the biggest
 roots of a great deal of brush. The others did not know anything
 about this and so when they came out of the kiva the old woman
@@ -7893,39 +8597,48 @@ so much, even with parts of the roots, that Hasohkata considered
 himself beaten even before they had pulled out all that the Mole had
 loosened. "All right," he said, "you take with you all that I have
 and you will be rich, you have beaten me." They returned to the
-kiva, untied the young man and all again entered the kiva of Hasohkata. "Now," Hasohkata said to them, "take with you all of my
+kiva, untied the young man and all again entered the kiva of Hasoh-
+kata. "Now," Hasohkata said to them, "take with you all of my
 things here, because you have beaten me twice." There were a
 great many objects throughout his kiva, such as clothing, bows,
 quivers, arrows, and other things that he had taken away from
-visitors with whom he had gambled and whom he had killed, throwing their corpses into a big hole that was full of bones.
+visitors with whom he had gambled and whom he had killed, throw-
+ing their corpses into a big hole that was full of bones.
 
 After they had taken everything, they said to him: "But what
 shall we do to you ? " He replied : "You have taken all my things, let
 me alone." To this they did not agree. "We are going to kill
 you," they said. "So the Bear grabbed him, tore open his breast,
 and tore out the heart of Hrisohkata, which he took with him. The
-Wolves, Coyotes, Wildcats, etc., hereupon fell upon the corpse, tearing it to pieces and devoured it. These animals still do the same
+Wolves, Coyotes, Wildcats, etc., hereupon fell upon the corpse, tear-
+ing it to pieces and devoured it. These animals still do the same
 to-day, killing people whenever they have an opportunity to do so,
 whether these people are good or bad, and that is the reason why
 the Hopi hunt and kill those animals if they can do so.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 167
+
 After they had left the kiva, Spider Woman told them all that
-they could now go to their respective homes. She took her grandchild with her and also returned to her home with him. Here she
+they could now go to their respective homes. She took her grand-
+child with her and also returned to her home with him. Here she
 told him that he should fear nothing after this because nobody would
-now hurt him, that having been the only one that was bad and dangerous. The Wren had in the meanwhile been down to this earth
+now hurt him, that having been the only one that was bad and dan-
+gerous. The Wren had in the meanwhile been down to this earth
 and had seen the parents of the young man and found out that they
 were longing for their lost son, and when it returned it told Spider
 Woman about it. So about four or five days after they had returned
 from H^sohkata's kiva, she told him that he might go home now, as
-his father and mother were homesick after him. She did not, however, tell him how she had found it out, and she promised him that
+his father and mother were homesick after him. She did not, how-
+ever, tell him how she had found it out, and she promised him that
 the next day she would go with him. So the next day they went to
 the opening through which the Eagles had brought the young man.
 They looked down and could see nothing. Everything looked as if
 we are now looking upward. So Spider Woman placed around the
 opening sticks and brush of all kinds just the same as around a
 spider hole. Over this she then spun a great deal of web and before
-cutting the thread she told the young man to mount her back. Hereupon they began to descend, the thread of spider web unraveling at
+cutting the thread she told the young man to mount her back. Here-
+upon they began to descend, the thread of spider web unraveling at
 the opening as they descended farther and farther downward. She
 advised the young man to keep his eyes closed, which he did. They
 struck the earth somewhere close to the field of the young man's
@@ -7951,10 +8664,13 @@ hard on him, making him work constantly and giving him very little
 • Told by Qdyawaima (Qraibi)
 
 
+168 Field Columbian Museum — Anthropology, Vol. VIII.
+
 to eat, so that he became very much emaciated. Somewhere north
 of this Navaho camp there was a high bluff on which a large Hawk
 lived. This Hawk was often flying around and frequently saw this
-little boy and pitied him. One time the Navaho had a great gathering at one place not far from this camp where the little boy was,
+little boy and pitied him. One time the Navaho had a great gath-
+ering at one place not far from this camp where the little boy was,
 leaving the little orphan behind. When the Hawk found this out he
 flew to the camp, flying around above the little boy. The latter was
 afraid and begged the Hawk not to hurt him. The Hawk at once
@@ -7982,7 +8698,8 @@ the Hawk brought to the little boy. The Hawk soon after flew down
 again, grabbed another little Navaho boy and carried him upward,
 the head of the child hanging down, pulled off his moccasins, dropped
 the body, and brought the moccasins to the little child. The Navaho
-were very much frightened and dispersed in all directions. This confusion the Hawk made use of and came down several times, taking
+were very much frightened and dispersed in all directions. This con-
+fusion the Hawk made use of and came down several times, taking
 away from several of the Navaho articles of clothing and ornaments,
 bringing them back to the little child. The Hawk then said to
 the little boy: "But you are not used to this raw food that I am
@@ -7994,6 +8711,8 @@ days the Hawk said to him: "In the morning I am going to take
 you to your home in Orafbi. " So the boy mounted his back again
 and the Hawk flew first down to the Navaho camp where he circled
 
+
+March. 1905. The Traditions of the Hopi — Voth. 169
 
 around a number of times, showing himself to the Navaho, who were
 very much astonished, and then flew on to the village of Orafbi
@@ -8022,7 +8741,8 @@ went away to hunt something else for her she played with the little
 bird, throwing it upwards several times, and all at once it became a
 living Humming-bird and flew away. When the boy returned he
 asked her what she had done with her little bird. She told him that
-it had flown away, at which he was very much surprised. The children had hardly anything to eat. The next morning the little bird
+it had flown away, at which he was very much surprised. The chil-
+dren had hardly anything to eat. The next morning the little bird
 came back, flew into the house where the children stayed and entered
 an opening in one of the walls. 44 My little bird has come back!"
 the little girl said. "Where is it?" the boy asked. "Why, it went
@@ -8031,7 +8751,8 @@ and found that it seemed to be very large. The bird he could not
 find, but he found a little corn-ear which the bird had apparently
 placed there. At this the children were very glad. They broke it
 in two, roasted it. and ate it. Soon the bird came out of the opening .
-and flew away again. The next day it returned with a larger cornear which the children ate, and so it returned for four days, always
+and flew away again. The next day it returned with a larger corn-
+ear which the children ate, and so it returned for four days, always
 bringing a larger corn-ear for the children. On the fifth day it came
 back but did not bring any corn with it. When the boy reached
 into the opening he drew forth the little bird, but in the form in
@@ -8039,6 +8760,8 @@ which he had made it. He held it in his hand and said: "You are
 
 1 Told by Qoyawaim.i (Oraibi)
 
+
+170 Field Columbian Museum — Anthropology, Vol. VIII.
 
 something living. You go and hunt our parents, they have left us
 here and you will perhaps find them, and you bring us something to
@@ -8050,7 +8773,8 @@ did it," throwing it upward, whereupon the bird was alive again and
 flew away. Sitting upon a rock south of the village the little bird
 looked southward and all at once detected at Tuwanashabe, 1 a cactus
 plant with a single red blossom. The bird at once flew towards this
-plant and removing it found an opening under it. Entering this opening it found itself in a kiva where some grass and herbs were growing.
+plant and removing it found an opening under it. Entering this open-
+ing it found itself in a kiva where some grass and herbs were growing.
 At the north end of this kiva was another opening. Passing through
 this one, the little bird found itself in a second kiva. Here it found
 some corn with some pollen on it, and ate some of it. At the north
@@ -8059,7 +8783,8 @@ Entering this kiva the bird found grass, herbs, and corn of all kinds,
 and here also lived Muyingwa, the God of Growth and Germination.
 
 There were also all kinds of birds in this last kiva, but it was the
-Humming-birds that first noticed the little intruder and told Muyingwa about it. "Somebody has come in," they said. "Who is it?"
+Humming-birds that first noticed the little intruder and told Muy-
+ingwa about it. "Somebody has come in," they said. "Who is it?"
 he asked, "and where is he? Let him come here. " So the little bird
 flew on Muyingwa's arm and waited. "Why are you going about
 here?" Muyingwa asked. "Yes," the bird said, "what are you doing
@@ -8072,11 +8797,13 @@ poor little children who are the only ones left in Orafbi. You come
 out here and look after things up there." "All right," Muyingwa
 answered, "I am thinking about the matter."
 
-Hereupon the bird asked for something to eat and also for something to bring to those children, saying that they had not had any-
+Hereupon the bird asked for something to eat and also for some-
+thing to bring to those children, saying that they had not had any-
 thing that day, and that they were hungry. Muyingwa told the bird
 to take just what it wanted and bring it to the children. So the
 bird broke off a nice roasting corn-ear to take along. Arriving at
-the house it flew into the same opening again, disposing of the cornear there. The boy reached into the opening and drew forth the
+the house it flew into the same opening again, disposing of the corn-
+ear there. The boy reached into the opening and drew forth the
 corn-ear. The children were very happy over it and talked to the
 
 1 A place about time miles S"Uth of Omilii.
@@ -8084,6 +8811,8 @@ corn-ear. The children were very happy over it and talked to the
 a Those who speak of three kivas under the earth consider the kivas in the village as the firit
 kiva. making only four Aerorlinn to others there are f»«ur kivas brsiiles those in the village
 
+
+March, 1905. The Traditions of the Hopi — Voth. 171
 
 bird, which was still in the opening, and said: "Thank you that you
 have pitied us, thank you that you have brought us something to
@@ -8118,8 +8847,10 @@ they have very little to eat. They are hungry and they are very
 much emaciated. "
 
 The children then begged the bird to bring them something, to
-eat, whereupon it flew away. Muyingwa had in the meanwhile*concluded to go up into the world and look after things there. He first
-ascended to the first kiva above him, where he stayed four days. During this time it rained a little about Orafbi. After four days he
+eat, whereupon it flew away. Muyingwa had in the meanwhile*con-
+cluded to go up into the world and look after things there. He first
+ascended to the first kiva above him, where he stayed four days. Dur-
+ing this time it rained a little about Orafbi. After four days he
 ascended into the next kiva above him when it rained again on the
 earth. He then ascended into the third kiva, whereupon it rained
 considerably in and around Orafbi, and when he after four more days
@@ -8130,8 +8861,12 @@ The parents of the children had seen from the distance the clouds
 and rain about Orafbi, and concluded to return to the village, not
 
 
-knowing that their children were still living. Others of the inhabitants of Oraibi who had not yet perished, also heard that it was now
-raining at their village and so they also returned. When these children grew up they, and after them their descendants, became the
+172 Field Columbian Museum — Anthropology, Vol. VIII.
+
+knowing that their children were still living. Others of the inhabi-
+tants of Oraibi who had not yet perished, also heard that it was now
+raining at their village and so they also returned. When these chil-
+dren grew up they, and after them their descendants, became the
 village chiefs and owners of the village of Oraibi.
 
 (The informant says that this tale is not complete. He says
@@ -8161,8 +8896,10 @@ of refuse by the Hopi, and rinding some, he took it to his house and
 was very happy.
 
 The next morning he put some of the pitch on his head and
-pasted some hair on it, so that he now had hair like the Hopi children. He was now very happy and made a visit to the village again.
-The children soon discovered him again and said: "Here is somebody," and one of the children soon recognized the Kalatoto, saying,
+pasted some hair on it, so that he now had hair like the Hopi chil-
+dren. He was now very happy and made a visit to the village again.
+The children soon discovered him again and said: "Here is some-
+body," and one of the children soon recognized the Kalatoto, saying,
 "It seems to be the Kalatoto, but he has now hair." "It smells
 very much like pitch here," some of the children said, "he has put
 pitch on his head," and they at once took little sticks and putting
@@ -8177,7 +8914,10 @@ also it In-ars a resemblance in certain respe» ts
 * Told by Kwayesh a (Oraibi).
 
 
-He was very sorry and returned to his home, gathering up, however, the hairs which the children had pulled out of the pitch and
+March. 1905. The Traditions of the Hopi — Voth. 173
+
+He was very sorry and returned to his home, gathering up, how-
+ever, the hairs which the children had pulled out of the pitch and
 thrown away, and he took them along. He meditated about the
 matter all night, and in the morning went into the timber north of
 the village again. Finding some cactus, he took with him some of
@@ -8223,6 +8963,8 @@ He lived in a little cave at the side of the bluff on which the village
 1 Told by Sikihpiki (Sh ipaulavi)
 
 
+174 Field Columbian Museum — Anthropology, Vol. VIII.
+
 of Bayupki was situated. To this cave he took the child. The Owl
 had little children in the cave that were living there nicely.
 
@@ -8247,7 +8989,8 @@ A hmhm, a hmhm.
 Looking up they saw a child in the cave, which had already feathers,
 and the white spots of the Owl began to appear all over the body.
 The eyes of the child also began to become yellow. "Oh!" the
-men said, "whose child may that be?" One of the men then suggested that it might be the child that had disappeared, so when they
+men said, "whose child may that be?" One of the men then sug-
+gested that it might be the child that had disappeared, so when they
 returned to the village they said: "There in the cave of an owl, at
 Bayupki, is a child. It already has feathers and spots all over, and
 its eyes are already yellow. It is turning into an owl. Whose child
@@ -8282,8 +9025,10 @@ waited and on the third day she was very anxious for her child and
 could hardly await the third day. During the night also, and it
 seemed to her as if the morning was very slow coming. Finally
 when it became light she went to the door, which, like the old Hopi
-doors, that were not made very well, had cracks. "It is light already," she said, "let us open the door. " Hereupon she shaded her
-eyes and looked through one of the cracks. She saw her child walking up and down, but also noticed that it began to change into an
+doors, that were not made very well, had cracks. "It is light al-
+ready," she said, "let us open the door. " Hereupon she shaded her
+eyes and looked through one of the cracks. She saw her child walk-
+ing up and down, but also noticed that it began to change into an
 owl again. " Let us open the door, " she urged, "it is already light. "
 Her husband protested, saying, that the sun had not yet risen, but
 she opened the door, and out rushed an Owl which immediately rose
@@ -8298,11 +9043,13 @@ into an Owl, and it will now remain an Owl. "
 
 Alfksai! A long time ago the people lived in Mish6ngnovi.
 There was to be a dance in the village of Shongdpavi and a man from
-Walpi was going to attend this dance. • He came by way of Mish6ngnovi, which was then situated half-way down the mesa, where there
+Walpi was going to attend this dance. • He came by way of Mish6n-
+gnovi, which was then situated half-way down the mesa, where there
 are still the ruins of the old village. East of the village there was a
 large rock, and at this rock some children were playing. They were
 hunting some lizards, the kind that are called hakwa (pi. hakwdhpu).
-"What are you doing there ? " the Walpi man asked. " We are hunting these hakwas. " "What are they?" he said. "Why these here
+"What are you doing there ? " the Walpi man asked. " We are hunt-
+ing these hakwas. " "What are they?" he said. "Why these here
 in the cracks and on the rocks," the children said. So some of the
 little boys got their bows and arrows ready and, aiming at some
 of the lizards, sang the following song:
@@ -8322,6 +9069,8 @@ As they sang the last word they shot their arrows at the lizards.
 
 1 Told by Sikihpiki (Shupft&lavi)
 
+
+176 Field Columbian Museum — Anthropology, Vol. VIII.
 
 From here the Wdlpi man proceeded westward towards Shong6-
 pavi. All at once he heard something, and standing still he listened
@@ -8349,28 +9098,34 @@ Fat full of.
 Aaay alihi, alihi,
 
 Nahanak, nahanak hanak.
-This song was forever afterwards spoken of as one of the Mishongnovi songs.
+This song was forever afterwards spoken of as one of the Mish-
+ongnovi songs.
 
 55. THE ROOSTER, THE MOCKING-BIRD AND THE MAIDEN. 1
 
 Halfksai! In Oraibi they were living. At the place where now
 Pongnamana lives, lived a Rooster. Somewhat south of Lanangva,
-among the peach-trees, lived the Mocking-bird (Yahpa). In the village at Bakvdtovi, a place in the extreme north-west part of the
+among the peach-trees, lived the Mocking-bird (Yahpa). In the vil-
+lage at Bakvdtovi, a place in the extreme north-west part of the
 village, lived a beautiful maiden with her father and mother. This
 mana persistently refused all offers of marriage. The young men of
-the village would bring presents to her, but no one succeeded in winning her affections. The chief of the north, Bamuyaomongwi, heard
+the village would bring presents to her, but no one succeeded in win-
+ning her affections. The chief of the north, Bamuyaomongwi, heard
 about it and so he came to the village trying to win the maiden. He
 brought with him a bundle of presents, which he was carrying over
 his shoulders. When he came to the house he left his bundle of
 presents outside.
 
-The mana was grinding corn -meal. Without stopping the grinding she looked up to the visitor and saw a very handsome youth
+The mana was grinding corn -meal. Without stopping the grind-
+ing she looked up to the visitor and saw a very handsome youth
 before her. "Why do you not talk to me?" he said. "Yes," she
 said, "who are you, going around here?" "Yes," he replied, 44 I
 came after you and I have left my bundle outside. Go and get it
 
 1 Told by Kiwanhnnuva (Oraibi)
 
+
+March, 1905. The Traditions of the Hopi — Voth. 177
 
 and look at it." She stopped her grinding, went out and found a
 yellow reed receptacle (shong6hkaki), which she took into the house.
@@ -8410,7 +9165,8 @@ knocked. Hereupon he entered and found the Mocking-bird there.
 this maiden," the Mocking-bird replied. "Not so," the Rooster said,
 "I shall fetch her to-morrow. You are not worth as much as I. I
 own all these people here ; they are mine. When I crow in the morning
-they all get up." "I am worth as much as you are," the Mockingbird replied. "When I twitter or sing in the morning it gets light."
+they all get up." "I am worth as much as you are," the Mocking-
+bird replied. "When I twitter or sing in the morning it gets light."
 "Very well," the Rooster replied, "let us contend with each other
 and see who knows most. In three days we shall have a contest.
 Until then no one shall get the maiden."
@@ -8418,9 +9174,12 @@ Until then no one shall get the maiden."
 Hereupon they both left the house and went to their homes. The
 
 
+178 Field Columbian Museum — Anthropology, Vol. VIII.
+
 Rooster was thinking to whom he should apply for assistance and
 courage. Early the next morning, after he had had his morning meal,
-he left the village, descended the mesa, and ran along the trail northwest (the trail that at present leads to Muenkapi). Arriving at Bow
+he left the village, descended the mesa, and ran along the trail north-
+west (the trail that at present leads to Muenkapi). Arriving at Bow
 Mound (Aoatchomo), about thirty-five miles northwest of Orafbi, he
 was tired and seated himself on a stone that was near by a b£ho
 shrine, where he rested. As he moved somewhat on the stone, an
@@ -8437,7 +9196,8 @@ somewhat revived and ran fast.
 Finally he arrived at Muenkapi, passed it, and ran on until he
 came to a steep bluff. There was a ladder standing at the bluff,
 which he descended. He then proceeded westward and finally came
-to a large rock where there was an opening. Here he crowed repeatedly, when a door was opened and a voice called out that he should
+to a large rock where there was an opening. Here he crowed repeat-
+edly, when a door was opened and a voice called out that he should
 come in. He entered and found a great many men, women, youths,
 and maidens, who were all Roosters and Hens. They seemed to
 be happy that he had come. "Thanks," they said, "that you have
@@ -8457,7 +9217,8 @@ three more songs they crowed a third time. The yellow dawn had
 by this time appeared, and after singing two more songs, the sun was
 rising. "We have accomplished it right," the chief said, "so you go
 home now without fear, and think that you will accomplish your
-end." So the Rooster returned, running very fast. When he arrived at the Bow Mound he was again tired, so that he had not been
+end." So the Rooster returned, running very fast. When he ar-
+rived at the Bow Mound he was again tired, so that he had not been
 running very fast for some time. He again entered and was fed there
 
 
@@ -8496,7 +9257,8 @@ sun rose. The Rooster had been defeated.
 During the day the Rooster again went around in the village, and
 in the evening the Mocking-bird invited him to come over to his house
 and watch him also. So in the evening the Mocking-bird was singing
-all night. After he had sung four songs he whistled, which he repeated after having sung another four songs, and after he had sung
+all night. After he had sung four songs he whistled, which he re-
+peated after having sung another four songs, and after he had sung
 an additional three songs he again whistled, and the dawn began to
 appear. He then sang his last two songs, whereupon the sun rose.
 "You see, I know much," the Mocking-bird said in a triumphant
@@ -8510,6 +9272,8 @@ Rooster, and the little girl the child of the Mocking-bird. So the
 women of the village are ever since that time said to be the children
 
 
+180 Field Columbian Museum — Anthropology, Vol. VIII.
+
 of the Mocking-bird, and that is the reason why they talk and jabber
 so much, because the Mocking-bird is a great talker. The men of the
 village have ever since been considered to be the children of the
@@ -8520,9 +9284,12 @@ gentle* and kind and not talk so much.
 
 56. THE TOAD AND THE SNOW KATCfNAS. 1
 
-Haliksai! A long time ago they were living in Orafbi. There wasa kiva in the northern part of the village called the Chorzhovi (Blue-
-bird Height). In this kiva one time the Snow Katcfnas were practicing for a dance. North of the village at Katcmavala lived the
-Toad Woman (Machak Wuhti). She had a son. The latter frequently went to the village in the evening to listen to the Katcfnas
+Haliksai! A long time ago they were living in Orafbi. There was-
+a kiva in the northern part of the village called the Chorzhovi (Blue-
+bird Height). In this kiva one time the Snow Katcfnas were prac-
+ticing for a dance. North of the village at Katcmavala lived the
+Toad Woman (Machak Wuhti). She had a son. The latter fre-
+quently went to the village in the evening to listen to the Katcfnas
 when they were practicing their singing. When he would be lying on
 the kiva roof looking down, the other young men would pile up on
 him and thus worry him. So finally he did not do that any more
@@ -8530,9 +9297,11 @@ but sat aside and simply listened to the singing of the Katcfnas. He
 usually wore a robe of wildcat skin, as was customary among the
 young men at that time.
 
-On the eighth day (TotoKa), the women of the village were preparing food for the dance on the next day. The Toad Woman also
+On the eighth day (TotoKa), the women of the village were pre-
+paring food for the dance on the next day. The Toad Woman also
 prepared some pfkami and other food. Her son was anxious to see
-the dance the next day. During the night he did not sleep, but remained awake in the village with the others. Early in the morning
+the dance the next day. During the night he did not sleep, but re-
+mained awake in the village with the others. Early in the morning
 the Toad Woman washed his head with suds. When he had dried
 his hair, his mother got some pfkami and they were eating. The sun
 then rose. He put on his wildcat robe again, and also put on a cap
@@ -8552,6 +9321,8 @@ Toad at once commenced to eat them and the children laughed at
 
 1 Told by Kwayeshva (Oraibi).
 
+
+March, 1905. The Traditions of the Hopi — Voth. 181
 
 him. When the Toad had eaten a great many of the ants, he went
 back to the plaza again and stayed with the Katcfnas and attended
@@ -8586,7 +9357,8 @@ hunted them, bringing back with them a great many.
 
 One time an old woman, whose little niece had been among the
 hunters and had brought back a great many locusts, was also roasting
-them in a pot after having broken them in two. While she was stirring them one of the locusts became alive, and in a moaning manner
+them in a pot after having broken them in two. While she was stir-
+ring them one of the locusts became alive, and in a moaning manner
 sang the following little song, slowly crawling up along the stirring
 stick as he was singing:
 
@@ -8608,6 +9380,8 @@ Chi, ri, ri, ri, ri, C
 
 « Told bv Tantf£khoyoma (Oraibi)
 
+
+1 82 Field Columbian Museum — Anthropology, Vol. VIII.
 
 When he had reached the top of the stirring stick, the woman said:
 " Yes, we used to like these jack-rabbits and cotton-tail rabbits very
@@ -8650,12 +9424,15 @@ heard in connection with or rather after a cry).
 The Coyote again urged the Turtle to sing, as he called the crying,
 saying: "If you do not sing I am going to devour you." The little
 Turtle was very much afraid, but refused to comply with the request
-of the Coyote. The Coyote repeated his threat, saying, "I shall certainly devour you if you do not sing." The little Turtle, thinking of
+of the Coyote. The Coyote repeated his threat, saying, "I shall cer-
+tainly devour you if you do not sing." The little Turtle, thinking of
 the subterfuge, said : "All right, it will not hurt me; I will then simply
 live in your body." The Coyote said to himself, "Maybe the Turtle
 
 ' Told by Qoyawaima (Oraibi)
 
+
+March, 1905. The Traditions of the Hopi — Voth. 183
 
 will continue to live in my body and move about there." And so he
 repeated his request, but this time changing his threat. "If you do
@@ -8674,7 +9451,8 @@ kwakwi, um nui jJSk wiki)," and, swimming around on the water,
 laughed at the Coyote.
 
 The Coyote was very angry and said: "Oh! that I did not devour
-you ; but I am going to hunt your mother now, and if I find her somewhere, I shall certainly devour her," and thereupon ran away. Fol-
+you ; but I am going to hunt your mother now, and if I find her some-
+where, I shall certainly devour her," and thereupon ran away. Fol-
 lowing the tracks of the Turtles, he met them on their way back to
 the water. They had been away quite a distance, had eaten there to
 their hearts' content, and were now returning. When the Coyote
@@ -8690,7 +9468,8 @@ cactus to her child, saying: "This I brought for you," and the child
 ate it in great delight. "When did you awake?" the mother asked.
 "About half-way noon I woke up, and when I found that you were
 all gone I cried." "Yes," the mother said, "you were sleeping so
-nicely, and so I did not take you along." The little Turtle then related all about the Coyote, saying that the latter had threatened to
+nicely, and so I did not take you along." The little Turtle then re-
+lated all about the Coyote, saying that the latter had threatened to
 devour it, but when he had been told that he could just do so, and
 that the little Turtle would then live in his body, he desisted. The
 Turtle mother laughed at it. The child then continued to relate how
@@ -8700,6 +9479,8 @@ had said that it would certainly drown; and the child continued,
 "When he threw me into the water I laughed at him and told him,
 'Here I am living'; and so I got back without even getting tired."
 
+
+1 84 Field Columbian Museum — Anthropology, Vol. VIII.
 
 The mother laughed at it and was very happy, saying: " Thanks that
 he brought you here, and that you got home even without becoming
@@ -8724,7 +9505,8 @@ said to the Snake : " I am going to become large and my tail will become
 long some day, too." While he said this the Snake was already
 slowly leaving the kiva, but he was so- long that when the head was
 out already, a large part of the body was still in the kiva. After he
-had left, the Coyote said to himself: "Now, let me go and hunt something, too." In the evening he left the kiva and went to a place
+had left, the Coyote said to himself: "Now, let me go and hunt some-
+thing, too." In the evening he left the kiva and went to a place
 where a great deal of cedar grew. Here he pulled off a large bundle
 of cedar bark and carried it home. "How shall I make a tail now?"
 he said to himself. Soon he began to rub the cedar bark so as to
@@ -8740,11 +9522,14 @@ friend, the W r ater Serpent. The latter had a larger kiva, so that there
 was some vacant space in it. W r hen the Coyote had entered he kept
 going around the kiva dragging his long tail after him. Then he
 kept circling around until the kiva also was well filled, and he sat
-down by the head of the Water Serpent and they talked with one another. The Water Serpent smiled, thinking to himself: "Well, that
+down by the head of the Water Serpent and they talked with one an-
+other. The Water Serpent smiled, thinking to himself: "Well, that
 tail did not used to be this way, how can that be?" After they had
 
 ' T<»M by Qoyawaima (Oraibi)
 
+
+March, 1905. The Traditions of the Hopi — Voth. ' 185
 
 talked together nearly all forenoon, the Coyote said he was going
 home to eat his dinner, and, uncoiling his long tail, he went up the
@@ -8783,13 +9568,16 @@ am going to pay him back," he said to himself. So, after he had eaten
 his dinner, he thought a great deal about the matter, and in the
 evening went to the timber again. He brought another armful of
 dry cedar bark and some yucca, and made another long addition to
-his tail in the same manner as before, only this time he made it considerably thicker. When it was done it filled his kiva entirely. He
+his tail in the same manner as before, only this time he made it con-
+siderably thicker. When it was done it filled his kiva entirely. He
 had so well covered it with hair and wool from his body that he
 thought nobody would know that it was not natural.
 
 As the Snake had invited the Coyote at his last visit to visit him
 too, sometime again, the Coyote planned to go over to his friend, but
 
+
+186 Field Columbian Museum — Anthropology, Vol. VIII.
 
 thought he would wait until there was a cold day. As in about four
 days it became very cold, he concluded to pay his friend a visit.
@@ -8802,7 +9590,8 @@ circling around and around, filling the entire kiva with his tail.
 me go outside and talk to you from there." Leaving the kiva, the
 Water Serpent kept going around outside for some time, coiling up in
 such a manner that finally the head was close to the entrance so that
-he could talk with his friend. It was very cold and the Coyote smilingly thought to himself while he was feeling very comfortable in the
+he could talk with his friend. It was very cold and the Coyote smil-
+ingly thought to himself while he was feeling very comfortable in the
 warm kiva, " Now you can freeze out there, too." The Snake became
 very cold and wished that his friend might leave, but he tarried. The
 Snake was shivering and became angry and wished very much that
@@ -8810,7 +9599,8 @@ the Coyote might take his leave. Finally the latter said that he must
 now go home and eat his dinner, and while the Coyote was going up
 the ladder dragging his tail after him, the Water Serpent went in.
 Arriving at the fireplace the latter said, " I am going to get even with
-you. I am going to pay you back;" and grabbing a stick at the fireplace, he shoved the part of the Coyote's tail that was still in the kiva
+you. I am going to pay you back;" and grabbing a stick at the fire-
+place, he shoved the part of the Coyote's tail that was still in the kiva
 on the fire, so that it caught fire, saying: "You get out of this; you
 (referring to the Coyote) are always taking other people's things
 and are* always doing something bad ; you had better get away from
@@ -8823,7 +9613,8 @@ and fire behind him, but as there was high grass around there at that
 time, he thought it was the grass burning. "Oh," he said, "the
 Hopi have set the grass on fire. They are after me and want to drive
 me away. Maybe they will kill me. I am not going to my house,
-but I am going to run away." So he began to run westward. Looking back he again noticed the grass burning at various places and
+but I am going to run away." So he began to run westward. Look-
+ing back he again noticed the grass burning at various places and
 thought he was pursued. He finally reached the timber and when
 he saw that burning after a while, he concluded that he would run to
 Little Colorado River (Bdyupa) and jump in there. Then he thought
@@ -8833,18 +9624,22 @@ he jumped in and tried to swim across, but before he got across he
 became very tired. The river was drifting him along, and he finally
 
 
+March, 1905. The Traditions of the Hopi — Voth. 187
+
 sank down and drowned. The Bdldlookong now lived in peace at
 the spring forever afterwards.
 
 60. THE COYOTE AND THE BALOLOOKONG 1 (WATER SERPENT).
 
 Alfksai! The Orafbis were living in their village. There were
-many of them. The Bdlolookong was living at Flute Spring (Lanangva), west, of the village. Somewhat south of this spring, at
+many of them. The Bdlolookong was living at Flute Spring (Lan-
+angva), west, of the village. Somewhat south of this spring, at
 f shmovala, the Coyote was living. They were great friends and often
 visited each other. One time Bdlolookong came out of his kiva in the
 spring and went over to his friend's kiva, which he entered, filling it
 up entirely so that the Coyote had to go out and remain there while
-they were conversing. After they had conversed a while, B£lolookong returned to his kiva.
+they were conversing. After they had conversed a while, B£loloo-
+kong returned to his kiva.
 
 The Coyote was angry that he had to remain outside and was
 meditating how he could take revenge on his friend, and finally formed
@@ -8876,7 +9671,8 @@ Mish6ngnovi, they were living. East of there the Ldldokong also
 
 2 Told by Sikahpiki (Shupaulavi) .
 
-3 Baldlookonqwuu < the abbreviated term Baldldokong being usually used) it a mythical serpent, supposed to control the water and to live in the ocean, springs, etc. Lolookongwuu (abr.
+3 Baldlookonqwuu < the abbreviated term Baldldokong being usually used) it a mythical ser-
+pent, supposed to control the water and to live in the ocean, springs, etc. Lolookongwuu (abr.
 Ldlookong) is rrallv the Bull Snake, but this term is often used for Balolookong, as is seen in this
 story.
 
@@ -8911,7 +9707,8 @@ tail.. On the walls of the kiva of the Lol6okong were hanging many
 snake costumes, and the Coyote kept looking and looking at them.
 " Now let us eat," the host finally said, and getting from a shelf a very
 small bowl with some corn -pollen, set it before his visitor. "This I
-am eating; eat of it too," he said to the Coyote. So they talked together until evening. "It is evening," finally the Coyote said. "I
+am eating; eat of it too," he said to the Coyote. So they talked to-
+gether until evening. "It is evening," finally the Coyote said. "I
 am going home now." "Very well," the Lolookong replied, "we are
 through talking, and it is evening."
 
@@ -8927,10 +9724,14 @@ treated me this way." And then he became very angry at the
 Lolookong. He then entered his kiva and continued to live there.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 189
+
+
 62. THE COYOTE AND THE FROG. 1
 
 Alfksai! A long time ago the people were living in Walpi. North
-of the village lived the Coyote. In the spring called Sun Spring (Tawaba) lived the Frog. They were friends with each other. So one time
+of the village lived the Coyote. In the spring called Sun Spring (Ta-
+waba) lived the Frog. They were friends with each other. So one time
 the Coyote went over to visit his friend, the Frog. He ascended the
 mesa and passed by the village. The dogs of the village, noticing him,
 made a raid on him. He ran and jumped down the mesa, but was
@@ -8964,12 +9765,15 @@ that he was finally killed by them.
 A long time ago the Coyote lived at Ishmovala, west of the village;
 a Bat at Tovftoala, north-west of the village; and a Humming-bird at
 Tohchipchookpu, also north-west of the village. They were all three
-close friends. The Bat and the bird often visited the Coyote, spending their time there in joking, laughing, and eating. The Coyote,
+close friends. The Bat and the bird often visited the Coyote, spend-
+ing their time there in joking, laughing, and eating. The Coyote,
 being a great hunter, always had plenty of rabbit meat and other
 
 1 Tnlil by Kdhkiuma (Shup»<iliivi)
 8 Told by Qdyawaima (Oraibi).
 
+
+190 Field Columbian Museum — Anthropology, Vol. VIII.
 
 game, which he would cook and place before them, and which they
 enjoyed very much. One time the Bat thought that he would invite
@@ -8997,7 +9801,8 @@ whose name he could mention, and thought of the Badger, who lived
 east of Orafbi, at Badger-Ditch (Hon£nci£a). Hereupon he retired,
 but did not sleep much that night, as he was very busy thinking over
 the anticipated visit of his two friends. In the morning he proceeded
-to the house of the Coyote, and from there to that of the Hummingbird, inviting them to visit him that day. They promptly accepted
+to the house of the Coyote, and from there to that of the Humming-
+bird, inviting them to visit him that day. They promptly accepted
 the invitation and paid their friend a visit. At noon the Bat said,
 "Now let us eat." Whereupon he prepared a meal of the things he
 had procured. First he fried some of the meat, which he then placed
@@ -9014,10 +9819,14 @@ and their conversation soon again turned upon the subject of the food
 which they had so much enjoyed at their friend's house. They again
 
 
+March, 1905. The Traditions of the Hopi — Voth. 191
+
 were wondering where he procured it, but soon agreed that he must
 have stolen it in Orafbi, and that he had deceived them. In order
-to get even with their friend, they concluded that they would 4 * songtie" him, that is, they would make a song about their friend. They
-at once started to compose a song, but did not finish it to their satisfaction. So, after the Humming-bird had left, the Coyote kept think-
+to get even with their friend, they concluded that they would 4 * song-
+tie" him, that is, they would make a song about their friend. They
+at once started to compose a song, but did not finish it to their satis-
+faction. So, after the Humming-bird had left, the Coyote kept think-
 ing over the song, and during the night, while he could not sleep,
 finished it. The next morning he at once went to the house of the
 bird, to whom he sang this song, to the satisfaction of both of them:
@@ -9048,9 +9857,11 @@ Kalatoto matototimaia.
 The Kalatoto are running about.
 
 They practiced the song until they both knew it. Hereupon the
-Coyote returned to his house, the Humming-bird saying he would invite the Bat to come over in the evening, which he did. When the
+Coyote returned to his house, the Humming-bird saying he would in-
+vite the Bat to come over in the evening, which he did. When the
 Bat arrived, the bird went over to the Coyote's house, telling him
-that their friend was waiting for them. The Coyote at once also proceeded to the house of the bird, where the latter soon proposed to
+that their friend was waiting for them. The Coyote at once also pro-
+ceeded to the house of the bird, where the latter soon proposed to
 have a song. The Bat consented, saying that they wanted to be
 happy together. So they stood up in a line and the bird commenced
 to sing the song which the Coyote had made. The Coyote at once
@@ -9063,6 +9874,9 @@ song; you both have made it. Now this ends our friendship."
 Whereupon they dispersed and never became friends again.
 
 
+192 Field Columbian Museum — Anthropology, Vol. VIII.
+
+
 64. THE COYOTE AND THE HUMMING-BIRD. 1
 
 Ishyaoi! The Coyote was living at /shmovala, west of Oraibi, and
@@ -9070,7 +9884,8 @@ a Humming-bird was living at Tohchipchoofcpu. They both had
 children and were good friends. One time the Coyote went to visit
 his friend, and as he also wanted to find some food for his children,
 he went north of the village to the place where the refuse of the village
-was thrown, and looked for some pieces of skin, old moccasins, remnants of hides, etc. The bird seeing it, went to a place close by and
+was thrown, and looked for some pieces of skin, old moccasins, rem-
+nants of hides, etc. The bird seeing it, went to a place close by and
 quickly buried itself so that the bill only was protruding. When the
 Coyote came to the place where the bird had buried itself, he saw
 something protruding from the pile of debris and said: "Thanks, I
@@ -9098,9 +9913,13 @@ commenced pulling at the supposed jug. " IshanaT' the Coyote said,
 "that is my snout." Hereupon they went to the Coyote's house.
 That having a large entrance, the bird, of course, could go in too.
 The Coyote fed his friend juniper berries (lap6ci), the Coyote also
-eating some. After they had talked a while the Humming-bird returned to her home, and the two are probably still living there.
+eating some. After they had talked a while the Humming-bird re-
+turned to her home, and the two are probably still living there.
 
 1 Told by Kwayeshva (Oraibi)
+
+
+March, 1905. The Traditions of the Hopi — Voth. 193
 
 
 65. HOW THE COYOTE WAS DECEIVED BY THE WREN. 1
@@ -9139,7 +9958,8 @@ she again spilled the water. But this time she was angry and said :
 44 Why are you dancing and singing here that way that I have to spill
 this water? My children are thirsty and they will die. Now, I am
 going back to get some more water, and if you are doing that still
-when I return and I spill the water again, I shall devour you." Hereupon she returned to the spring to fill her mouth again.
+when I return and I spill the water again, I shall devour you." Here-
+upon she returned to the spring to fill her mouth again.
 
 While the Coyote was gone the Wren slipped out of its skin and
 dressed up a stone with the skin so that it looked like a Wren.
@@ -9151,6 +9971,8 @@ She was now very angry. "Now then," she said, "you are still sing-
 
 ' Told by Tanffakhoyoma (Oraibi)
 
+
+194 Field Columbian Museum — Anthropology, Vol. VIII.
 
 ing that way here and I am going to devour you," whereupon she
 grabbed the stone dressed in the bird's skin and crushed it. She
@@ -9202,6 +10024,8 @@ Coyote too. They then sang again, and all the eyes, except those of
 * Told by Qoyawaima (Ondbi).
 
 
+March, 1905. The Traditions of the Hopi — Voth. 195
+
 the Coyote, returned. The little Birds all laughed at him saying,
 "Your eyes will never return; you are bad (undihu), you are taking
 other people's things away sometimes, and that is the reason why your
@@ -9223,14 +10047,16 @@ Hooho, hoo, hooho, hoo, hooho, hoo,
 Ho-ho-ho-
 
 While she was moaning a Coyote came along and heard somebody
-singing, as he believed. So he approached the place. When he arrived at the place he saw the Turtle-dove sitting and leaning forward
+singing, as he believed. So he approached the place. When he ar-
+rived at the place he saw the Turtle-dove sitting and leaning forward
 in deep distress. "Are you singing?" he asked the Dove. "Are you
 thus singing?" "No," she said, "I am riot singing; I am crying. I
 have cut myself." "No, you are singing," the Coyote replied. "Now
 you sing to me." "No," the Dove insisted, "I was crying," thus
 refusing to confirm the Coyote's statements. "Now, if you are not
 willing to sing to me, I shall devour you," the Coyote said. The Dove
-then yielded and sang the above song again. The Coyote then imitating the song of the Dove, left her and ran away.
+then yielded and sang the above song again. The Coyote then imi-
+tating the song of the Dove, left her and ran away.
 
 As he was running he stumbled over a rock and fell down. As he
 fell he lost the song, so that he was only able to say, "Ho-ho-ho."
@@ -9283,7 +10109,8 @@ there.
 HaKksai! A long time ago the people lived in Orafbi. West of
 the village, at Ishmovala, lived the Coyote and his wife. They had
 six children and the Coyote used to go and hunt rabbits for his
-children. One day he went hunting again and found a little cottontail rabbit, which he chased. The rabbit ran into the hole, which the
+children. One day he went hunting again and found a little cotton-
+tail rabbit, which he chased. The rabbit ran into the hole, which the
 Coyote could not enter. "How shall I get this rabbit out now?"
 he thought to himself; then somebody came along; it was the Badger.
 "You get this out for me here," the Coyote said, "I want this rabbit
@@ -9293,6 +10120,8 @@ he pulled the latter out. The Coyote was very happy. "Thus," he
 
 1 ToM by Wlkvaya (Oraibi).
 
+
+March, 1905. The Traditions of the Hopi — Voth. 197
 
 said, "on your account my children will have something to eat."
 Then the Coyote took the rabbit in his mouth and ran home with it,
@@ -9336,6 +10165,9 @@ children. So after that the little Coyotes had no mother. The
 Coyote then afterwards hunted food alone for his children, and that
 is the reason why so many Coyotes have to look out for their food
 alone.
+
+
+198 Field Columbian Museum — Anthropology, Vol. VIII.
 
 
 69. THE COYOTE AND THE EAGLE. 1
@@ -9386,6 +10218,8 @@ as follows :
 * So called because the Hopi throw the heads of coyotes and other game there.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 199
+
 Tipoki homponcholo
 
 Yep nu (Here I)
@@ -9417,7 +10251,8 @@ at him but did not catch him. and thus he did not kill him.
 
 71. THE COYOTE AND THE TURKEYS. 2
 
-Haliksai! At fshmovala the Coyote was living, and at Nuvatufcaovi, a short distance east of fshmovala, the Turkey lived. They
+Haliksai! At fshmovala the Coyote was living, and at Nuvatu-
+fcaovi, a short distance east of fshmovala, the Turkey lived. They
 both had children and were great friends, and often visited each other.
 One time when the Coyote came to the house of the Turkeys they
 fed him pinon nuts, which he relished very much. The little Turkeys
@@ -9432,6 +10267,8 @@ any bones. Them I left entirely unhurt. Early in the morning I
 1 Referring to the exposed roots of trees, herbs, etc.. standing up above the ground.
 » Told by Kwayeshva (Oraibi)
 
+
+200 Field Columbian Museum — Anthropology, Vol. VIII.
 
 put them into a tray, waved them up and down, singing the following
 song over them :
@@ -9480,6 +10317,8 @@ which she had told him she had sung over the bones of her children.
 Hereupon he also threw the bones away. But alas! nothing became
 alive, and only the bones were lying there. When he saw what had
 
+
+March, 1905. The Traditions of the Hopi — Voth. 201
 
 happened he cried bitterly and became very angry. " I shall go over
 to the house of the Turkey," he said, "and shall certainly devour the
@@ -9582,8 +10421,11 @@ ago, while the Coyote was living at the last named place. One time
 1 Told by SikAhpiki (Shupaiilavj).
 
 
+March, 1905. The Traditions of the Hopi — Voth. 203
+
 the Coyote went to visit his friend, the Porcupine. "Sit down," the
-latter said. "All right," the Coyote said, and so they talked together a long time. When it was noon the Porcupine said: "We are
+latter said. "All right," the Coyote said, and so they talked to-
+gether a long time. When it was noon the Porcupine said: "We are
 going to eat something. You build a fire;" so the Coyote built a large
 fire. When the Coyote had built the fire the Porcupine said: "Now
 we are going to have something to eat. M So he drew a small pointed
@@ -9595,7 +10437,8 @@ am preparing food." "Yes," the Coyote said, "we are happy."
 
 So after they had eaten they conversed until evening; then the
 Coyote said, "I must go home now." "Very well," the Porcupine
-replied, "it is evening now." "But you must visit me too, to-morrow," the Coyote said, and thereupon left, the Porcupine saying
+replied, "it is evening now." "But you must visit me too, to-mor-
+row," the Coyote said, and thereupon left, the Porcupine saying
 laughingly, "You will have something good too, since you have seen
 it here." So the next morning the Porcupine went over to his friend
 and there sure enough found that the Coyote also had a pointed stick
@@ -9626,10 +10469,13 @@ to devour you." "No, no," the Porcupine said, "you are not going
 to devour me. Why, you are my friend, and a friend will not eat up
 
 
+204 Field Columbian Museum — Anthropology, Vol. VIII.
+
 his friend. No, indeed." Then he began to talk kindly to his friend
 saying: "Well, since you have not died, we will live together again."
 The Coyote then also quieted down and they conversed together
-amicably. They then lived there again as friends, the Coyote thinking that he would have a chance sometime to take revenge on the
+amicably. They then lived there again as friends, the Coyote think-
+ing that he would have a chance sometime to take revenge on the
 Porcupine.
 
 
@@ -9656,7 +10502,8 @@ replied, "come in!" "Very well." the Coyote said, "but I am in a
 hurry. These Orafbi are going to clean the spring again and they
 have something very fine to eat there. Let us go over and take part
 in the eating, but do not be slow. Follow me soon." "Very well."
-the Badger said. Hereupon the Coyote left, the Badger soon following him. They entered the Coyote's house, and from there the Badger
+the Badger said. Hereupon the Coyote left, the Badger soon follow-
+ing him. They entered the Coyote's house, and from there the Badger
 commenced to dig a hole towards the place where the food was, and
 after he had gone a little way he turned around, which is the custom
 of the badgers. The Coyote noticed it and said: "Oh! you are
@@ -9672,6 +10519,8 @@ and they have a great deal of food there, of which we want to get
 1 T«»M liy Kiwdnhunuva (Oraibi)
 
 
+March, 1905. The Traditions of the Hopi — Voth. 205
+
 some. But the Badger, who has been digging towards it, always
 turns around, and we shall not get there. You come and scratch a
 hole for us and we shall give you a great deal of it." The Mole was
@@ -9684,8 +10533,10 @@ the Badger and scratched out the loose dirt.
 They arrived at a place not far from the rock where the food had
 been placed the day before. Here the Mole made a small opening
 and looked out and saw that the people were just arriving, and that
-the maidens again placed the food near the rock. So the Mole continued his digging to the place where the food was, and while the Hopi
-were at work he reached all the food to his companions. The Molehanded it to the Badger, the Badger to the Coyote, and the latter
+the maidens again placed the food near the rock. So the Mole con-
+tinued his digging to the place where the food was, and while the Hopi
+were at work he reached all the food to his companions. The Mole-
+handed it to the Badger, the Badger to the Coyote, and the latter
 carried it to his house. When the Hopi were through with their work
 the chief again said to the maidens that they should now go and get
 their food. They would eat and then go home. So the maidens
@@ -9695,7 +10546,8 @@ and found a hole in the ground, but only for a short distance, because
 the Badger had tightly closed up the hole from the inside. "Well
 now," the maidens said, "somebody has put our food in here." So
 the men and the youths brought their hoes and followed the opening
-in the ground, but they soon found that it was only open a short distance. Hereupon they abandoned it and went home hungry.
+in the ground, but they soon found that it was only open a short dis-
+tance. Hereupon they abandoned it and went home hungry.
 
 In the Coyote's house the three now divided up the food and the
 Badger and the Mole carried home their portions. On this they lived
@@ -9715,7 +10567,10 @@ am going to take this knife along and I am going to do the same, so
 to-morrow you must visit me, too." Hereupon he left and went home.
 
 
-The Badger laughed, saying: "That Fool Old Man (Una" Wuhtaka) believes that I took that fat out of my body."
+206 Field Columbian Museum — Anthropology, Vol. VIII.
+
+The Badger laughed, saying: "That Fool Old Man (Una" Wuhtaka) be-
+lieves that I took that fat out of my body."
 
 The next morning the Coyote took the knife and commenced to
 cut into his abdomen. It hurt him very much, and as he was
@@ -9761,6 +10616,8 @@ go home now. "Very well," the Badger replied, whereupon the
 1 T.-M by Sikahpiki f.Shupaulavi)
 
 
+March, 1905. The Traditions of the Hopi — Voth. 207
+
 Coyote left, his friend having wished him a happy journey. After
 that each one continued to live in his house.
 
@@ -9768,7 +10625,8 @@ that each one continued to live in his house.
 76. THE BADGER, THE COYOTE, AND THE KOHONINO MAIDEN. 1
 
 Halfksai! In Orafbi the people were living. At Badger Gulch
-(Hon£ncika), lived the Badger. His friend the Coyote lived at ishmovala. The two were great friends. One time they were hunting
+(Hon£ncika), lived the Badger. His friend the Coyote lived at ish-
+movala. The two were great friends. One time they were hunting
 together. They were hunting and had gotten as far as Mowdhpi,
 quite a distance west of Ap6hnivi, but they had not killed anything.
 Some time before the Coyote had been hunting alone and had found
@@ -9818,6 +10676,8 @@ meaning of these words.
 1 Told by Lom4n6mtiwa (Oraibi).
 
 
+208 Field Columbian Museum — Anthropology, Vol. VIII.
+
 Hereupon he poured some of the paint over the bones and grass. He
 then repeated the song several times, always pouring some of the
 paint over the material as he concluded the song. All at once the
@@ -9842,7 +10702,8 @@ That is not the reason why we brought her. You are bad. " As he
 was saying this the maiden fell down and died again.
 
 They were thinking where they should bury her. So the Badger
-took the body on his back and took it south-west. The Coyote followed him a short distance then returned to the place where she had
+took the body on his back and took it south-west. The Coyote fol-
+lowed him a short distance then returned to the place where she had
 died, but he soon again followed, overtaking the Badger. "Why did
 you follow me?" asked the Badger. "One does not follow the dead. "
 In a little while the Coyote again ran back to the place where the
@@ -9864,6 +10725,8 @@ over a slow fire until they were thoroughly dry. The lolookongs
 were fat. When he was done with this he put on another pot and
 
 
+March, 1905. The Traditions of the Hopi — Voth. 209
+
 made some hurushuki. As he was done with that his friend
 came.
 
@@ -9879,7 +10742,8 @@ The Coyote would not believe him. "Certainly you did not roast
 that, yet you are saying it," the Coyote said. "Yes," the Badger
 replied, "1 roasted that. You see my abdomen is not quite well
 yet," whereupon he showed it to him, having made a little scratch
-on it beforehand. And then the Coyote believed him. "I am going to do that, too," the Coyote said. "You come and visit me to-
+on it beforehand. And then the Coyote believed him. "I am go-
+ing to do that, too," the Coyote said. "You come and visit me to-
 morrow morning. But I have no knife and roasting .pot ; you have
 a knife and a pot, let me have them. " " Very well," the Badger said,
 "you take them along." He gave him the knife and the pot, and
@@ -9899,7 +10763,8 @@ of one of the larger intestines and thereupon fell over and died.
 
 When the Badger came over he looked in and said, "Friend
 (Kwach)," but receiving no answer he entered. He found that his
-friend was dead. He said: "Of course, you died here, being deceived that way. Of course, I did not really open my abdomen.
+friend was dead. He said: "Of course, you died here, being de-
+ceived that way. Of course, I did not really open my abdomen.
 You have been deceived." Hereupon he took the fat from the
 Coyote, and returned to his house. Close to his house was an ant
 hill. He spread this fat over the ant hill, whereupon the ants moved
@@ -9907,6 +10772,8 @@ away, and that is the reason why the ants do not remain when coyote
 fat is placed where they are, and that is also the reason why coyote
 fat is used for ant bites.
 
+
+210 Field. Columbian Museum — Anthropology, Vol. VIII.
 
 77. THE COYOTE AND THE KOKONTU MAIDENS. 1
 
@@ -9922,7 +10789,8 @@ corn. They sang the following song:
 Talaw ndndnga, Early we go out,
 Nononga, ma! We go out, see!
 
-(Referring to the custom of going out early in the morning [kuivato] and sprinkling meal towards the east.)
+(Referring to the custom of going out early in the morning [kui-
+vato] and sprinkling meal towards the east.)
 
 The Coyote listened to them and looked at them. By this time
 the K6kontu noticed the Coyote. "Come in," they said to him.
@@ -9934,7 +10802,8 @@ was a large pinon-tree growing at the edge of the bluff. The Coyote
 went with them and here they now played, running up the tree on
 one side and jumping down the tree and from the bluff on some sand
 that had piled up at the foot of the bluff. As they could run up
-steep bluffs they would repeat this constantly, jumping down, coming up again, jumping down, coming up again, and so on. The
+steep bluffs they would repeat this constantly, jumping down, com-
+ing up again, jumping down, coming up again, and so on. The
 Coyote looked on and envied them because they could do this. "You
 are enjoying yourselves," the Coyote said to them, "I shall join
 you." "All right," they replied, "you come and play with us."
@@ -9954,6 +10823,9 @@ they had laughed at him they went home again, leaving him there dead.
 
 ' J Small brownish animal with a short tail, and having white stripes running over it* snout and
 head and ahmg the back, living in rocks.
+
+
+March, 1905. The Traditions of the Hopi — Voth. 211
 
 
 78. THE COYOTE AND THE GRASSHOPPERS. 1
@@ -10010,9 +10882,11 @@ Halfksai! In Orafbi the people were living. At Grasshopper
 Bluff (Tdtolchomo), the Grasshopper Old Man (Tdtol Wuhtaka) and
 his wife were living. They had children. At Ishmovala lived the
 Coyote. It was planting time. The Grasshopper had a big field east
-of where he lived. The two were great friends. When it was planting time the Grasshopper also wanted to plant but he said to his wife
+of where he lived. The two were great friends. When it was plant-
+ing time the Grasshopper also wanted to plant but he said to his wife
 that he was not going to plant alone, others were going to help him,
-so she should put up a good deal of food. She prepared some muhpiki, 2 some q6ma, s and filled a jug with water. All this her husband
+so she should put up a good deal of food. She prepared some muh-
+piki, 2 some q6ma, s and filled a jug with water. All this her husband
 took on his back, took some seeds, and went to his field. Here he
 seated himself in the kisi 4 that he had built in his field and waited,
 but nobody came. It was nearly noon and still nobody came. So he
@@ -10054,7 +10928,8 @@ March, 1905. The Traditions of the Hopi — Vorn. 213
 
 he went to the house of his friend and found the door closed with a
 grass mat. This he removed and went in, but found no one in the
-house. "Aha," he said, "they have run away from me." and coming out of the house he found their tracks leading north-eastward.
+house. "Aha," he said, "they have run away from me." and com-
+ing out of the house he found their tracks leading north-eastward.
 
 He followed the tracks and came to the house of the Deer. " Has
 the Grasshopper come here with his family?" he asked. "Yes," the
@@ -10089,7 +10964,8 @@ be just living at one place now.
 
 80. THE THREE MAIDENS AND THE COYOTE. 1
 
-Hah'ksai! In Orafbi the people were living. Over there at Howakapchomo somebody, some maidens had a crop. They had a father
+Hah'ksai! In Orafbi the people were living. Over there at How-
+akapchomo somebody, some maidens had a crop. They had a father
 and a mother; three maidens there were. They were living at
 Pifcatsva. 3 From there they went to watch their crop; and now at
 
@@ -10097,6 +10973,8 @@ Pifcatsva. 3 From there they went to watch their crop; and now at
 
 * A place in the north-west corner of the village.
 
+
+214 Field Columbian Museum — Anthropology, Vol. VIII.
 
 fshmovala lived the Coyote. He had eaten watermelons, but he
 was longing for those maidens. Them he wanted. The Coyote had
@@ -10113,7 +10991,8 @@ you come and bring. " Thus she said to him.
 
 Now the Coyote started for the village and arrived there, and
 sure enough, he found a broken bow somewhere and took it. Also
-an arrow quiver he found, which he also took; and a shirt, and leggings; some blue yarn, and stone ochre. That much he brought
+an arrow quiver he found, which he also took; and a shirt, and leg-
+gings; some blue yarn, and stone ochre. That much he brought
 along. Now he went to his grandmother. The grandmother dressed
 him up in it. He put on the shirt and the leggings, had his hair
 tied up, put the quiver with arrows behind his loin string. Now the
@@ -10141,6 +11020,9 @@ hung up his skin as a watching flag. And after that it was hanging
 there as a flag.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 215
+
+
 81. HOW THE COYOTES HAD A KATCINA DANCE. 1
 
 At Squash Seed Point (Batangvoc Toika), lived the Haaa. Katcina.
@@ -10156,13 +11038,16 @@ In the morning the Coyote went out, and standing on the roof of
 his kiva he called out to his friends, the Coyotes, that they should
 come and assemble in his kiva. Soon they came from all sides,
 many of them. When they had all assembled he said to them: "I
-want to 'overtake' something, too, like these Katcinas do. To-morrow we shall have a Katcina dance, so you go to the village, and if
+want to 'overtake' something, too, like these Katcinas do. To-mor-
+row we shall have a Katcina dance, so you go to the village, and if
 you find something in the rear of the village such as feathers, pieces
 of skin, etc., bring it here." They all declared themselves willing.
 The Coyotes thus went out and went around the village hunting for
-pieces of skin, feathers, pieces of gourds, especially the necks of longnecked gourds, and brought all these things to the Coyote's kiva.
+pieces of skin, feathers, pieces of gourds, especially the necks of long-
+necked gourds, and brought all these things to the Coyote's kiva.
 Here they sewed up kilts, made bunches of feathers for head-dresses,
-etc., thus working all day. Each one prepared a costume of a Katcina that he had seen. During the night they slept there.
+etc., thus working all day. Each one prepared a costume of a Kat-
+cina that he had seen. During the night they slept there.
 
 In the morning one of the Coyotes went to the place where the
 Haaa Katcina always dresses up; two others to the place where the
@@ -10173,7 +11058,8 @@ Haaa shouted four times and then went northward where he was
 joined by the two Hot6tos, then by the next ones, and these by the
 Palakway. and finally by the Katcinas at Katcfnvala. They all then
 went to the Coyote's house at Ishmovala. The Coyote and his wife,
-who lived here had not gone along but had remained with their children. Here the Katcinas now had a dance.
+who lived here had not gone along but had remained with their chil-
+dren. Here the Katcinas now had a dance.
 
 The Orafbi happened to have a Coyote hunt on this day. Some
 of them went southward, others northward, frorn the village, forming
@@ -10184,13 +11070,17 @@ While they were still dancing, the Oraibi came upon them and at
 1 Told by Kwayeshva (Oraibi)
 
 
+216 Field Columbian Museum — Anthropology, Vol. VIII.
+
 once closed in upon them. When the Coyotes saw that they were
 surrounded they began to run, trying to escape, but as they had
 masks on they could not see so well, and many of them were killed
-at once; others threw down their masks, but as they had their costumes on they could not run fast and so were also killed. Only the
+at once; others threw down their masks, but as they had their cos-
+tumes on they could not run fast and so were also killed. Only the
 family that lived at ishmovala, and who had not put on costumes
 or masks, escaped. When the Hopi had killed all the Coyotes they
-laughed at them and went to the village, being happy over their successful hunt.
+laughed at them and went to the village, being happy over their suc-
+cessful hunt.
 
 82. THE COYOTE AND HIS PREY. 1
 
@@ -10209,7 +11099,8 @@ found something.
 
 83. THE BULL-SNAKE AND THE TDCHVO' (WREN).
 
-A long time ago some Oraibi children were hunting some Tuchvos. They found a nest high up on a bluff, somewhere east of the
+A long time ago some Oraibi children were hunting some Tuch-
+vos. They found a nest high up on a bluff, somewhere east of the
 village, but as they could not get to it they returned to the village.
 By and by a Bull-snake (Lolookongwuu), being in search of food had
 also discovered the nest of the Ttichvo. While coiled up at the foot
@@ -10234,7 +11125,10 @@ angry and said: " I am going to get up to you there. You are talk-
 - Told by QuvAwaima (Orai'.i;.
 
 
-ing to me that way now, but I am going to devour you. " Whereupon he commenced to hunt a place of ascent. Finally having found
+March, 1905. The Traditions of the Hopi — Voth. 217
+
+ing to me that way now, but I am going to devour you. " Where-
+upon he commenced to hunt a place of ascent. Finally having found
 a place, tried to climb up, but soon got tired and fell back. The
 little Bird seeing it, triumphantly sang:
 
@@ -10260,7 +11154,8 @@ to exert its charm on the poor Bird, trying to cause it to come nearer.
 This the Snake did by strong inhalations, and whenever the reptile
 inhaled the bird would be drawn towards the snake, when it exhaled
 the bird would try to escape, but would be drawn closer towards the
-Snake's mouth at the next inhalation. 1 This game the Snake carried on with its poor victim for quite a while, the poor Bird being
+Snake's mouth at the next inhalation. 1 This game the Snake car-
+ried on with its poor victim for quite a while, the poor Bird being
 entirely under the charm of the reptile. Finally it was drawn by a
 last strong inhalation on the part of the Snake close to the latter's
 mouth and then the Snake devoured its victim.
@@ -10285,7 +11180,10 @@ of the charm upon which the victim is at once set free and escapes.
 2 Told by Lomavantiwa (Shupaulavi)
 
 
-and close to the bluff is a place called Tcuakpi. Here the Rattlesnakes were living and had a kiva. During the summer they would
+218 Field Columbian Museum — Anthropology, Vol. VIII.
+
+and close to the bluff is a place called Tcuakpi. Here the Rattle-
+snakes were living and had a kiva. During the summer they would
 run about as rattlesnakes, but in the winter they were in their kivas
 and were Hopi, their snake skins hanging on pegs on the wall all
 around the kiva.
@@ -10376,6 +11274,8 @@ they lined up and sang the following song, dancing while they were
 singing and shaking small rattles :
 
 
+220 Field Columbian Museum — Anthropology, Vol. VIII.
+
 DOWNWARD.
 
 Haaaaaaaow Inamu, Haaaaaaaow Ingumu!
@@ -10437,6 +11337,9 @@ they make bahos in winter, throw pieces of a locust on the fireplace
 and burn it because the smoke and odor bring warm weather.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 221
+
+
 as. THE SQUIRREL AND THE CHIPMUNK. 1
 
 A long time ago the Squirrel and the Chipmunk lived near the
@@ -10445,14 +11348,16 @@ and the Chipmunk on the south side. The two were good friends and
 often visited each other. Near by were some peach orchards, where
 a certain old man owned a number of trees. There the two would go
 every day and eat peaches. The Chipmunk relished the peaches,
-while the Squirrel preferred the kernels from the stone. The Chipmunk would climb the trees, break open the peaches, and eating the
+while the Squirrel preferred the kernels from the stone. The Chip-
+munk would climb the trees, break open the peaches, and eating the
 flesh of the peaches, throw down the seeds to the Squirrel; or the
 Chipmunk would also throw down peaches, which the Squirrel
 would put in its mouth and carry to a certain place on the rock,
 where the two afterwards would feast on them.
 
 They were careful that the owner of the peach orchard would not
-find them there, because they knew that the latter made very desperate efforts to capture and kill them. One time the Squirrel said to
+find them there, because they knew that the latter made very desper-
+ate efforts to capture and kill them. One time the Squirrel said to
 the Chipmunk: " We ought to have a little dance some time. When
 you go home you try to make a song and then come and sing it to
 me, and then when we go to eat peaches again we shall have a little
@@ -10481,6 +11386,8 @@ Hinahina, hinahina.
 1 Told by Qoyawaima (Oraibi). _
 
 
+222 Field Columbian Museum — Anthropology, Vol. VIII.
+
 You have spoken correctly, the Squirrel said, "we are living in
 plenty." Hereupon they went to the peach orchard again to eat
 peaches but found the old man in the orchard, so they waited a little
@@ -10497,7 +11404,8 @@ going to kill you," and saying this he tried to climb the rock upon
 which they were. They jumped down, however, and both rushed
 into the house of the Squirrel at the foot of the rock. The old man
 followed them and when he saw where they had gone, he waited.
-The two were very happy and laughed at their pursuer. The Chipmunk looked up and said: "Aha, there he is watching us. I am go-
+The two were very happy and laughed at their pursuer. The Chip-
+munk looked up and said: "Aha, there he is watching us. I am go-
 ing to get out, pass him, and run to my house. He cannot catch
 me." "All right," the Squirrel said, "try it." So the Chipmunk
 rushed out. The man ran after it furiously, trying to kill it, and had
@@ -10514,7 +11422,8 @@ old man at that time killed the two, such would not be the case now.
 86. A BET BETWEEN THE COOYOKO AND THE FOX. 1
 
 Aliksai! In Shupaulavi, north of the village, is a bluff where
-there is a place called C6oyoko House (C6oyok-ki). Here the Cooyoko lived. One time a Fox, who was very handsome, came along,
+there is a place called C6oyoko House (C6oyok-ki). Here the Cooyo-
+ko lived. One time a Fox, who was very handsome, came along,
 and the Cooyoko Uncle (Tahaam) was sitting on the edge of the bluff
 when the Fox came along. The sun had not yet risen, and the Cooyoko
 was sitting and waiting to watch the sunrise. "Come here," he said
@@ -10525,6 +11434,8 @@ and see upon whose song the sun will rise. The one that loses shall
 
 1 T<»M bv Sikaletstiwa (Shupaulavi)
 
+
+March, 1905. The Traditions of the Hopi — Voth. 223
 
 be killed with this knife here," which the C6oyoko had. "O my!"
 the Fox said. "Yes," the C6oyoko said, "let us have a contest."
@@ -10541,7 +11452,8 @@ Ishka! Ishka!
 
 Hereupon the C6oyoko repeated his song. The sun by this time
 was just about to loom up. "Now you sing again," he said to the
-Fox, whereupon the latter repeated his song, and when he was singing, the sun loomed upon the horizon. So he had won the contest.
+Fox, whereupon the latter repeated his song, and when he was sing-
+ing, the sun loomed upon the horizon. So he had won the contest.
 44 Alas!" the C6oyoko said, "well now, I have wanted it this way and
 you have beaten me. Be it so then. " The knife was lying by their
 side, so the Fox took it, approached the C6oyoko, and cut the latter's
@@ -10549,10 +11461,12 @@ throat. And so the latter died over a bet.
 
 87. THE LITTLE GRAY MICE AND THE LITTLE BROWN MICE.'
 
-A long time ago the Little Gray Mice (Povdyamu) lived at Tumble Down Bluff (Tukwfshahpukpu), south-east of the village, and the
+A long time ago the Little Gray Mice (Povdyamu) lived at Tum-
+ble Down Bluff (Tukwfshahpukpu), south-east of the village, and the
 Little Brown Mice (Pavavumshamu) lived at Chir6ve, west of the
 village, far down the mesa. The two kinds of mice were on friendly
-terms at that time. During the night they would come to the village and whenever one would find hidden away in jars or packed
+terms at that time. During the night they would come to the vil-
+lage and whenever one would find hidden away in jars or packed
 away in the rooms, corn, etc., it would invite the others and then
 they would come and carry away the food to their holes. This they
 did a long time. The two kinds of mice would often visit each other
@@ -10572,6 +11486,8 @@ cover so that we can get at it. " Hereupon they all came from both
 1 The words in both of the songs are obsolete and no longer understood.
 • Told by Qdyawaima (Oraibi).
 
+
+224 Field Columbian Museum — Anthropology, Vol. VIII.
 
 places, but when they were carrying their food away to their houses
 they commenced to quarrel over it and had a great fight. Many
@@ -10617,7 +11533,8 @@ why they now may be found everywhere.
 
 A long time ago a Badger lived north of the village of Orafbi. He
 was a doctor and the people used to go to him seeking aid and cure
-for their various ailments. The place where he lived was called Badger Burrow (Honan Yaha); the Small Gray Mice (Tuc£nhomihtci) ,
+for their various ailments. The place where he lived was called Bad-
+ger Burrow (Honan Yaha); the Small Gray Mice (Tuc£nhomihtci) ,
 or rather many of them, lived west of Orafbi at a place called Big
 Hill (Wopachmo).
 
@@ -10632,6 +11549,8 @@ to the Hopi kfvas. In it he observed a number of small people like
 1 Told by Ooy&waimu (Oraibi).
 
 
+March, 1905. The Traditions of the Hopi — Voth. 225
+
 children. They at once noticed him, saying: "Somebody is looking
 in here," and invited him to come down. "How can I come in?"
 he said. "What is the matter with you?" they asked, to which he
@@ -10644,9 +11563,11 @@ pitied the poor man and said: "So this has happened to you."
 Whereupon one of the small men whispered to another one: "Let's
 repair the leg for him. " "All right," he answered, who was a chief.
 Hereupon a door was opened on the north side of the kiva which led
-into another room, and all the small people, who seemed to be children, were sent into that small room. One of the men, who took
+into another room, and all the small people, who seemed to be chil-
+dren, were sent into that small room. One of the men, who took
 care of the fire at the fireplace, remained with the sick man. The
-one who remained, presently called out: "Now come in here," whereupon a very great number of the Mice entered the room, crowded
+one who remained, presently called out: "Now come in here," where-
+upon a very great number of the Mice entered the room, crowded
 around the patient, covering him completely, and commencing to
 rub him all over the body and otherwise worked on and about him,
 and in that way plied their art as doctors upon the patient that had
@@ -10662,16 +11583,20 @@ became very jealous and angry about the matter. The man whose
 leg had been healed by the Mice said to the people, that the "Old
 Man Badger" was somewhat behind. It had been those Mice who
 had cured him and what was more, they had not asked for any pay,
-whereas, the Old Man Badger always asked something for his services, meat, cactus bulbs, etc., and he advised people who ever had
+whereas, the Old Man Badger always asked something for his ser-
+vices, meat, cactus bulbs, etc., and he advised people who ever had
 any ailments, to go to these Mice physicians that lived west of the
 village, and had cured him. The Old Man Badger did a great
-deal of thinking over the matter and was angry. Finally he concluded that he was going to test the knowledge of the Mice doctors.
+deal of thinking over the matter and was angry. Finally he con-
+cluded that he was going to test the knowledge of the Mice doctors.
 41 1 am going to feign sickness and shall call them over, and if they can
 tell me my ailment, I shall believe in them. " So he feigned sickness;
 placed some pelts and blankets on the floor and a bowl by his side,
 and laid down. In order to make it appear that he was very
 sick he took a little nourishment in the morning only and kept
 
+
+226 Field Columbian Museum — Anthropology, Vol. VIII.
 
 expectorating into the bowl. This he did for three days, at the end
 of which he looked very tired and exhausted. So he called some one
@@ -10687,7 +11612,8 @@ Badger. This dwelling consisted of a kiva like the Hopi kivas of
 to-day. The Badger was still angry and had hidden a stick under
 his bed. The mice, however, had brought no medicines with them.
 Arriving at the kiva, the chief went down the ladder first, passing by
-the east side of the fireplace to the bed of the patient. He was followed by his companions, of whom there were many, who also crowded
+the east side of the fireplace to the bed of the patient. He was fol-
+lowed by his companions, of whom there were many, who also crowded
 around the bed of the sick doctor. The latter was groaning very
 much, acting as if he was about to die. The chief of the Mice doctors
 then began to sing the following song in which he was accompanied
@@ -10737,6 +11663,8 @@ TT . TT . > No meaning.
 Hainawa Hainawa J
 
 
+March, 1905. The Traditions of the Hopi — Voth. 227
+
 Free rendering:
 
 At the Badger burrow the Badger
@@ -10768,7 +11696,8 @@ these Mice.
 
 But these new settlers had nothing to eat, so they went to hunt
 food, and wherever they came upon some seed or plant they would
-appropriate them, and to this day, wherever the Hopi plant something, these Mice will come and eat it. If that Old Man Badger had
+appropriate them, and to this day, wherever the Hopi plant some-
+thing, these Mice will come and eat it. If that Old Man Badger had
 not scattered them at that time they would not be all over the country
 now, but would still be living at the one place west of the village, where
 they had their home at that time. But, on the other hand, if any
@@ -10776,6 +11705,9 @@ Hopi works in his field or travels anywhere, or is away from his village
 for any purpose, and if he becomes sick, or gets hurt, these Mice in an
 unseen secret way take care of him so that he does not die; but
 they do not come to the village to take care of any sick.
+
+
+228 Field Columbian Museum — Anthropology, Vol. VIII.
 
 
 89. THE BADGER AND THE SMALL GRAY MICE. 1
@@ -10832,6 +11764,9 @@ and got well.
 1 Told by Lomavantiwa (Shupaulavi).
 
 
+March. 1905. The Traditions of the Hopi — Voth. 229
+
+
 90. THE MICE, THE OWL, AND THE HAWK. 1
 
 A long time ago a little Mouse (H6mihtci) lived south of the
@@ -10854,7 +11789,8 @@ some of them into little bunches. "But what shall I do with all
 these feathers?" it asked itself. "I am going to get my neighbors
 together and arrange a dance."
 
-So after dark the Mouse went out and called out: "You, my neighbors who live here, come here to my house quickly." So a great
+So after dark the Mouse went out and called out: "You, my neigh-
+bors who live here, come here to my house quickly." So a great
 many Mice at once assembled in the house of the one who had invited
 them and asked: "Why do you want us here?" "Yes," the Mouse
 answered, "I have killed this Owl here and do not know what to do
@@ -10884,7 +11820,10 @@ Ahalahahaha!
 s Sarcobatus vermiculatus Totrey.
 
 
-The meaning is that they dance in order to bring about an opportunity to get at some seeds and kernels again.
+230 Field Columbian Museum — Anthropology, Vol. VIII.
+
+The meaning is that they dance in order to bring about an oppor-
+tunity to get at some seeds and kernels again.
 
 By this time it was morning and a number of them were sent
 after some more sticks, which were again pointed and thrust into the
@@ -10904,8 +11843,10 @@ of the Mdmchitu Fraternity. They were very careful to keep within
 the limits of the sticks that they had put in last. While this dance
 was going on, a large Hawk was sitting on a rock south of Orafbi.
 "Aha," he said, "there is something going on somewhere. The Mice
-are enjoying themselves." He at once swooped down on them, ignoring the pointed sticks, as he was very strong, and killed a great
-number of Mice, taking one in each talon. These he carried to Ishmovala, a rock west of Orafbi, on the top of which he devoured them.
+are enjoying themselves." He at once swooped down on them, ig-
+noring the pointed sticks, as he was very strong, and killed a great
+number of Mice, taking one in each talon. These he carried to Ish-
+movala, a rock west of Orafbi, on the top of which he devoured them.
 
 Those that had not been killed rushed awav into their houses.
 
@@ -10935,6 +11876,8 @@ in the rock as soon as it had sung the last word of the song :
 T Jtt
 
 
+March, 1905. The Traditions of the Hopi — Voth. 231
+
 I Kalavocnayu, My kidney,
 
 Ani wihu qoyiotaka, (Having) on fat very much,
@@ -10951,7 +11894,8 @@ This somewhat irritated the Sparrow-Hawk, who warned the
 Hakwa. in the following words: "Why are you talking there; I am
 not afraid of you; I could kill you if I wanted to do so, but I do not
 want you, you are dirty." Soon the Hakwa came out and sang the
-same song again. The Sparrow-Hawk became more angry and repeated its warning. The little bird then began to make plans to
+same song again. The Sparrow-Hawk became more angry and re-
+peated its warning. The little bird then began to make plans to
 kill the Hakwa, but did not know just how to go about it, but when
 the latter had sung the song four times the Sparrow-Hawk was very
 angry and was determined to kill the Hakwa.
@@ -10988,9 +11932,12 @@ some food for her children. Close by were many grasshoppers.
 > Told by Wikvaya (Oraibi).
 
 
+232 Field Columbian Museum — Anthropology, Vol. VIII.
+
 These the Sparrow-Hawk would capture and take them to her nest
 for her brood. At other times she would go and hunt some Prayer
-Beetles (hohoyahtu). The mothers of the Beetles and of the Grasshoppers were very unhappy. They saw that the young Sparrow-
+Beetles (hohoyahtu). The mothers of the Beetles and of the Grass-
+hoppers were very unhappy. They saw that the young Sparrow-
 Hawks were growing fast but their children were disappearing.
 
 One morning the Grasshopper mother sneaked out of her house
@@ -11009,7 +11956,8 @@ My children have gotten.
 
 Oh! Oh!
 
-The Sparrow-Hawk then released the Grasshopper mother and returned to her nest. Soon some Hopi children came along and began
+The Sparrow-Hawk then released the Grasshopper mother and re-
+turned to her nest. Soon some Hopi children came along and began
 to capture the little Grasshoppers. The Grasshopper mother, seeing
 it, told them they should not take them, but they should go and catch
 the young Sparrow-Hawks and take them along. So they went to
@@ -11039,7 +11987,10 @@ visit that he was to make at his friend's house the next day, and he
 i ToM by Kwiiwshva (Oraibi).
 
 
-was thinking about the good food that the Crow had promised to prepare. Early in the morning, before he had eaten, the Hawk went over
+March, 1905. The Traditions of the Hopi — Voth. 233
+
+was thinking about the good food that the Crow had promised to pre-
+pare. Early in the morning, before he had eaten, the Hawk went over
 to his friend. The latter was cooking some food already, and when
 it was done he placed it before the Hawk. It was a l6Wokong, cut
 up into pieces. The loldokong had been very fat so that it was very
@@ -11060,7 +12011,8 @@ some good food for her. In the evening, when the rabbits are out, he
 hunted some rabbits and brought them to his children, who were very
 happy over them. After they had eaten them, they slept. The Crow
 was thinking during the night about^her visit at her friend's house,
-and about the good food that she was promised. Early in the morning, without having partaken of any food, she proceeded to her
+and about the good food that she was promised. Early in the morn-
+ing, without having partaken of any food, she proceeded to her
 friend's house.
 
 The Hawk, remembering the food that he had received at the
@@ -11075,6 +12027,9 @@ talked all day together, and then in the evening the Crow returned
 to her house and she is still living there, hatching her young, while
 the Hawk is still living at the same place, where he also hatches his
 broods.
+
+
+234 Field Columbian Museum — Anthropology, Vol. VIII.
 
 
 Q4. THE RED EAGLE SONG. 1
@@ -11107,7 +12062,8 @@ alighted again).
 One of the men from Siky^tki heard them singing and saw them
 dance and told his people about it. They soon afterwards went and
 captured the small Eagles, and forever afterwards they used to get
-young eagles there, the feathers of which they used for their prayerofferings, masks, etc.
+young eagles there, the feathers of which they used for their prayer-
+offerings, masks, etc.
 
 95. THE RED EAGLE AND THE OWL-
 
@@ -11128,10 +12084,14 @@ down and waited. Finally he scratched the Owl a little with his
 ..AT^
 
 
-talons, but the Owl did not notice it. He then took hold of his eyebrows and lifted his eyelids, but the Owl did not notice anything.
+March, 1905. The Traditions of the Hopi — Voth. 235
+
+talons, but the Owl did not notice it. He then took hold of his eye-
+brows and lifted his eyelids, but the Owl did not notice anything.
 He then took hold of the whiskers of the Owl and pulled out a few
 hairs, whereupon the Owl got awake, saying, "Ishana! Why do you
-do that way to me?" "We wanted to go hunting," the Eagle replied, "and now you are sleeping. You get up and we shall go
+do that way to me?" "We wanted to go hunting," the Eagle re-
+plied, "and now you are sleeping. You get up and we shall go
 hunting."
 
 The Owl was willing and so the two went out. The Eagle took
@@ -11173,6 +12133,8 @@ Bee promised to do. The next morning the Bee went over to her
 
 • Tol«l bv Kwaveshva (Oraibi).
 
+
+236 Field Columbian Museum — Anthropology, Vol. VIII.
 
 friend's house, but at that time the Bees had no wings. They walked
 like the hoh6yawuu, so that she did not get there very quickly.
@@ -11222,6 +12184,8 @@ children. They were Grasshoppers. So in the morning she went to
 ! JTold by Q6y4waima (Oraibi).
 
 
+March, 1905. The Traditions of the Hopi — Voth. 237
+
 the field early and stayed there during the day. When the sun was
 well up it became warm and then she heard the singing again. She
 thought she would see what it was, and going in a southerly direction
@@ -11269,12 +12233,16 @@ corn," and then she told him all about it. "Ishohf!" he exclaimed,
 the rubbing of the legs against the wings by the Grasshopper s .
 
 
-down his spindle and hurried to the field and found that the Grasshoppers had eaten up all the corn. He then grabbed a stick and,
+238 Field Columbian Museum — Anthropology, Vol. VIII.
+
+down his spindle and hurried to the field and found that the Grass-
+hoppers had eaten up all the corn. He then grabbed a stick and,
 knowing where he had seen the Grasshoppers before, and also seeing
 their tracks in the sand, he followed them.
 
 It seems that on returning they had not been flying, but walking.
-When he came upon them he found that they were resting and sleeping, as they had filled themselves so full with the corn. He jumped
+When he came upon them he found that they were resting and sleep-
+ing, as they had filled themselves so full with the corn. He jumped
 into the wash saying: "Ishohf, you have eaten my corn," and began
 pounding them with his stick. He killed a great many, but others
 escaped. He destroyed their houses there entirely, and that is the
@@ -11314,6 +12282,8 @@ were formed in a line now and one of them acted as leader. By this
 
 » Tol.l t>y Kwdyeslna (Oraibi).
 
+
+March, 1905. The Traditions of the Hopi — Voth. 239
 
 time a cloud was forming in the mountains. They now sang the
 following song:
@@ -11364,15 +12334,20 @@ the women here used to rub out the seeds from a certain grass called
 * Told by Loman6mtiwa (Orafbi).
 
 
+240 Field Columbian Museum — Anthropology, Vol. VIII.
+
 l£hu. At this place lived, Ldvovolvipiki so called after a certain food
 that was prepared of the seed of this grass. The food consisted of •
 small balls (povdlpiki), which were prepared of the meal of this seed.
-West of the mesa on which Orafbi is situated, and somewhat southwest of the old ruin of Chir6ve, used to be a place where a great deal
+West of the mesa on which Orafbi is situated, and somewhat south-
+west of the old ruin of Chir6ve, used to be a place where a great deal
 of ndno (Sporobolos Wrightii) used to grow. At this place lived
 Ndnvovolpiki, so called after certain little balls of food prepared of
 the meal of the ndno seed. These two were great friends. One time
-Ndnvovolpiki visited his friend on the mesa. While they were conversing the two concluded that they wanted to have a dance. West
-of the mesa, at How£kapchomo, lived the Mice maidens (Homitcmamantu). L&vdvdlvipiki was to fetch these maidens in order to
+Ndnvovolpiki visited his friend on the mesa. While they were con-
+versing the two concluded that they wanted to have a dance. West
+of the mesa, at How£kapchomo, lived the Mice maidens (Homitc-
+mamantu). L&vdvdlvipiki was to fetch these maidens in order to
 get them to participate in the dance, while his friend was to go to
 the Kwan kiva to borrow a drum.
 
@@ -11399,13 +12374,16 @@ Cay! cay! awatcahi — na.
 Impu naroo tukava,
 Ao-ao-ao-ao iyahi — na.
 
-While they were dancing the Prtokongs (Pook6nghoya and Bdldongawhoya) were hunting. They came to the place where these were
+While they were dancing the Prtokongs (Pook6nghoya and Bdldon-
+gawhoya) were hunting. They came to the place where these were
 dancing. "Ah, here are the little Mice," they said, whereupon each
 one of them shot and killed one of the Mice. Seeing the marks on
 their cheeks they said, "Ah, they are spotted." Hereupon Pdokong
 hoya saw the Nrtnvovolpiki and said, "Ah, here is a Ndnv6v6lpikL ^Ffe
 Oh (AH)! [I shall devour it," whereupon he devoured the N6nv6v6l-
 
+
+March, 1905. The Traditions of the Hopi — Voth. 241
 
 piki. His younger brother hereupon saw the Ldvflvolvipiki and said,
 "Ah, and here is a L4v6volvipiki, I shall devour it," which he did.
@@ -11418,7 +12396,8 @@ A long time ago there lived some people north of Orafbi close to
 the north of the place where the Oraibi at present dry their peaches.
 They were called Y£yaponchatu. There was only one village of them,
 probably only a small one. The villages of Piv£nhon£api, about
-four miles northwest of Orafbi, and Htickovi, about two miles northwest of Orafbi, which have been in ruins long ago, were then, too,
+four miles northwest of Orafbi, and Htickovi, about two miles north-
+west of Orafbi, which have been in ruins long ago, were then, too,
 still inhabited. The people in Pivdnhonfcapi seemed to have been very
 much degenerated. The village chief of that village was much worried
 over it, especially oyer the fact that the women of that village would
@@ -11452,8 +12431,11 @@ to come and take part in the dance, which they promised to do. So
 1 Told by 0<~>vAwaima (Oraibi).
 
 
+242 Field Columbian Museum — Anthropology, Vol. VIII.
+
 these three people were the only ones in possession of the secret. On
-the fourth day they had a series of dances. During the day the different kind of Katcina were dancing at each dance, and leaving the village
+the fourth day they had a series of dances. During the day the differ-
+ent kind of Katcina were dancing at each dance, and leaving the village
 when they had completed their performances. The Yayaponchatu
 people performed the last dance. They were masked like the H6he
 Katcina of the present day, their bodies, however, being decorated
@@ -11496,23 +12478,28 @@ aforesaid messengers. These prayer-offerings consisted of sacred meal
 piled up in small trays. Into these trays are placed a number of little
 
 
+March, 1905. The Traditions of the Hopi — Voth. 243
+
 husk packets, which are supposed to contain sacred meal mixed with
 honey. These little packets are fastened to nakwakwosis. But the
 prayer-offerings carried by the four dancers on that occasion also had
 a little spark of fire over each one of these packets. At the conclusion
-of the dance one of these was handed to the village chief of Pivanhonfcapi, the other to the village chief of Htickovi, the third to the
+of the dance one of these was handed to the village chief of Pivan-
+honfcapi, the other to the village chief of Htickovi, the third to the
 latter 's assistant and friend, and the fourth was retained by the leader
 of these last named dancers.
 
 Late in the evening the chief from Htickovi and his friend came to
-the chief of Pivanhonfcapi and all three smoked over the prayerofferings which they had received from the Yayaponchatu. Then
+the chief of Pivanhonfcapi and all three smoked over the prayer-
+offerings which they had received from the Yayaponchatu. Then
 the chief from Htickovi sent his friend with one of them to the San
 Francisco Mountains, which are situated about ninety miles to the
 south-west, to deposit the same there among the trees and high grass.
 The other two the two chiefs kept, each one hiding his one away in
 some lower room in his house. Tradition does not mention what the
 chief of the Yayaponchatu did with his prayer-offering, beyond the
-fact that he took it home with him. This was during the night following the dance. The next night the women and some of the men
+fact that he took it home with him. This was during the night fol-
+lowing the dance. The next night the women and some of the men
 again assembled in the kivas to gamble. Some of the men, however,
 did not participate. They all at once noticed a light in the San
 Francisco Mountains and remarked about it, mentioning it also to
@@ -11528,7 +12515,8 @@ alarmed, but their remarks upon thfe fact again met deaf ears. On
 the following day the smoke arising from the San Francisco Mountains
 seemed to be threatening, arid those few that were considered the
 better class of 'the people became alarmed. During the fourth night
-the people again continued their gambling and carousing, those outside watching with great alarm the fire on the San Francisco Moun-
+the people again continued their gambling and carousing, those out-
+side watching with great alarm the fire on the San Francisco Moun-
 tains, which now began to spread itself towards the Hopi villages.
 They told the people so and asked them to come out of the kiva and
 see for themselves. The latter again laughed at them saying: "You
@@ -11536,6 +12524,8 @@ only want us to stop our playing. We do not believe what you say."
 At short intervals their attention was drawn to the approaching fire
 with more persistence and in more urgent language, but without avail.
 
+
+244 Field Columbian Museum — Anthropology, Vol. VIII.
 
 Finally one of the players came out of the kiva to see for himself,
 and when he saw the air full of smoke and the fire rolling towards
@@ -11551,11 +12541,13 @@ is said that some of the small ruins in these parts of the country mark
 the sites of the temporary houses of these former inhabitants of
 Pivanhonlcapi and Htickovi.
 
-The village chief of Oraibi, when becoming aware of the approaching danger, became very much worried. "My children are dear to
+The village chief of Oraibi, when becoming aware of the approach-
+ing danger, became very much worried. "My children are dear to
 me," he said, "and I do not want to have them destroyed." So he
 quickly proceeded to the house of Spider Woman, which is situated
 south of the village, half-way down the mesa. She advised him to
-at once make two arrows, using on the shafts the feathers of the bluebird and wurfnawuu. This he did. When he was done he sent out
+at once make two arrows, using on the shafts the feathers of the blue-
+bird and wurfnawuu. This he did. When he was done he sent out
 a messenger with one arrow, instructing him to thrust it into the
 ground west of the village at the foot of the mesa. The other one he
 took to the shrine of Achamali, north of the village, where he thrust
@@ -11618,7 +12610,8 @@ back and again waved the head to his pursuers. They were very
 angry. He turned and went to the village again by another trail,
 still carrying the head in his hand. The people of the two villages
 quarreled severely, but the Wdlpi people withdrew to their village.
-There was, however, constant wrangling and fighting going on between the two villages after that. The people of Sikyatki, it seems,
+There was, however, constant wrangling and fighting going on be-
+tween the two villages after that. The people of Sikyatki, it seems,
 were very wicked. They were especially wicked towards the women
 and maidens, and as they did not even spare the chief's wife, he got
 very angry and was determined to take revenge upon his own people.
@@ -11629,6 +12622,8 @@ that the Sikydtki people were going to plant the fields of their chief
 they made ready.
 
 
+246 Field Columbian Museum — Anthropology, Vol. VIII.
+
 They went on top of the mesa and watched. Many of them had
 balls of pitch with them that they had procured from the woods.
 When the Sikyatki people were out in the fields they rushed upon the
@@ -11637,7 +12632,8 @@ they killed. They then rubbed the pitch on the walls of the houses
 and set the houses on fire, thus destroying the village. When the
 people who were planting saw the smoke rise from the village, they
 at once realized what had happened. They rushed to their village
-but had only their planting sticks with them. The Wdlpi, before setting fire to the houses, had secured the bows, arrows, and tomahawks
+but had only their planting sticks with them. The Wdlpi, before set-
+ting fire to the houses, had secured the bows, arrows, and tomahawks
 so that they were well armed when they met the people of Sikyatki,
 and in a short time had killed them all, including the chief who had
 been the instigator of the revenge. Thus Sikydtki was destroyed and
@@ -11669,10 +12665,13 @@ who then tied it up and carried it home in the evening.
 
 The daughter of the village chief, a very pretty maiden, who had
 big hair whorls, was also among the hunters, and as the hunting
-party was returning in the afternoon one of the young men in chasing a rabbit on his pony, dashed over this maiden and killed her.
+party was returning in the afternoon one of the young men in chas-
+ing a rabbit on his pony, dashed over this maiden and killed her.
 
 1 Told by Tun«akhoyoma (Oraibi).
 
+
+March, 1905. The Traditions of the Hopi — Voth. 247
 
 Her father, the village chief, became very angry. His heart became
 very bad about that, and he was thinking about it very deeply.
@@ -11686,7 +12685,8 @@ The chief said that he was not angry, but he said that with his lips
 only, and in his heart he was angry and planned a punishment. One
 night when all were fast asleep he proceeded to Shong6pavi and
 entered the village chief's house, because at that time the people did
-not lock their doors. The village chief was fast asleep, but the visitor touched his head and waked him up. The village chief of Shon-
+not lock their doors. The village chief was fast asleep, but the visi-
+tor touched his head and waked him up. The village chief of Shon-
 gopavi arose and built a fire. They each took a seat opposite the
 fireplace. The chief of Ao£tovi filled his pipe, which he had brought
 with him, with tobacco that he had also brought, lit the pipe, smoked,
@@ -11697,7 +12697,8 @@ you come?" the Shong6pavi chief asked. "You certainly go about
 in this way for some reason." "Yes," the visitor replied, "there in
 my village my children (people) are bad. They have bad hearts.
 They will not listen to my talk, they will not do what I tell them to
-do, and when some time ago we had a hunt they rode over my daughter and killed her. I have put her away but I am angry at that.
+do, and when some time ago we had a hunt they rode over my daugh-
+ter and killed her. I have put her away but I am angry at that.
 Now then, my village shall be rased to the ground. It shall be turned
 to sand and grass shall grow there. " "So that is why you are going
 about here," said the Shong6pavi chief. "Yes, that is why I have
@@ -11714,17 +12715,23 @@ sleep, so when he heard his friend come he got up and built a fire.
 They sat down again, smoked, and he again asked his visitor why he
 had come. "Yes," he said, "you remember what I told you and
 that I requested you to prepare your strong men. Are they willing ? "
-"Yes," the Shong6pavi chief replied, "they are willing and are practicing." "Very well," the other one said, "now on the third day
+"Yes," the Shong6pavi chief replied, "they are willing and are prac-
+ticing." "Very well," the other one said, "now on the third day
 
+
+248 Field Columbian Museum — Anthropology, Vol VIII.
 
 from now you must dress up and get ready. They must get ready to
 have a Katcina race with my young men. Four of your men shall
 dress up as Katcinas. " Hereupon he returned to his village.
 
-The young men again practiced for three days and then they prepared for the Katcina race. Their mothers cooked ttihpavu (steamed
-sweet corn -ears), and the next morning four of the young men proceeded to Aoatovi, taking the presents with them. One was dressed
+The young men again practiced for three days and then they pre-
+pared for the Katcina race. Their mothers cooked ttihpavu (steamed
+sweet corn -ears), and the next morning four of the young men pro-
+ceeded to Aoatovi, taking the presents with them. One was dressed
 as Hdmsona, 1 the second as a Chilftoshmoktaka, 2 the third as an
-Angwiishngontaka, 8 and the fourth as a Sifcapku. 4 When the Katcinas came to Aoatovi they entered the plaza, which was very much
+Angwiishngontaka, 8 and the fourth as a Sifcapku. 4 When the Kat-
+cinas came to Aoatovi they entered the plaza, which was very much
 like the one in Shong6pavi at the present day. In the center was a
 shrine. They laid down their sweet corn on the ground and waited.
 The Katcina chief of the village cried out: "Now then, you young
@@ -11740,11 +12747,13 @@ way behind. When the young man who had outrun the Katcina
 by far, returned, the Hdmsona grabbed him by the hair, threw him
 down on his back, sat on his body, jerked out his knife, of which every
 Hdmsona Katcina carried one to cut the loser's hair, thrust the knife
-into his throat and cut it. Having done this the Hdmsona ran towards the other Katcinas where also the Katcina chief of the village
+into his throat and cut it. Having done this the Hdmsona ran to-
+wards the other Katcinas where also the Katcina chief of the village
 was standing with his' corn meal and nakwakwosis, which he was to
 hang to the Katcinas prior to their departure. But the Hdmsona, as
 soon as he had arrived, motioned to the other Katcinas to run,
-whereupon they left the village without waiting for the prayer-offerings.
+whereupon they left the village without waiting for the prayer-offer-
+ings.
 
 When the people saw that the young man who had raced with
 the Katcina did not return they were suspicious that something had
@@ -11760,6 +12769,8 @@ where the murder had occurred. Here they found that the young
 
 • 'nic--()rn«-With-nu-.Y*-ll..w.Paintnl-Fan-.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 249
 
 man had been killed. "Why, he has been killed," they called back,
 "let us follow them and let us kill them." Hereupon the men and
@@ -11777,7 +12788,8 @@ Hdmsona. They killed the Katcina, shooting him with their bows
 and arrows. Hereupon they followed the others, and at the foot of
 the incline they overtook the ChiUtoshmoktaka, whom they also
 surrounded and killed. There were now two left. In the valley
-south-east of Mish6ngnovi they overtook the Angwushngontaka, surrounded and killed him. There was only the Si££pku left now.
+south-east of Mish6ngnovi they overtook the Angwushngontaka, sur-
+rounded and killed him. There was only the Si££pku left now.
 When he had arrived at the wash he jerked 6ff his mask, looked back
 and saw that his pursuers were not very far away. He discharmed
 himself by swinging the mask in front of himself four times. He then
@@ -11801,7 +12813,8 @@ during the night he again went to Shong6pavi, just as the sorcerers
 (P6pwaktu) always go about in the night. The Shong6pavi chief was
 expecting him and, while he had retired, he had not gone to sleep. He
 at once got up, built a fire, and again asked: "What have you come
-for?" "Yes," the Aoatovi chief replied, "I have forfeited my people. We have killed your Katcinas so I give you my people, I give
+for?" "Yes," the Aoatovi chief replied, "I have forfeited my peo-
+ple. We have killed your Katcinas so I give you my people, I give
 you all my people. In four days you come and get my people. The
 
 
@@ -11825,7 +12838,8 @@ When he arrived there he again thought over the matter. In
 the night he went to Orafbi, entered the chief's house, shook him,
 and awoke him. The chief got up, and built a fire. They smoked
 together, and then he related the same story to the Orafbi chief that
-he had told to the Shong6pavi chief. He added that he had requested the Shong6pavi chief to destroy his people but he had refused
+he had told to the Shong6pavi chief. He added that he had re-
+quested the Shong6pavi chief to destroy his people but he had refused
 to do so, and hence he had now come to him. "Now, what do you
 think about it?" he asked. "So that is why you are going about,"
 the Orafbi chief said, "so that is what you have planned. It is with
@@ -11852,6 +12866,8 @@ figure representing the females. " Thank you, that you have brought
 these to me and that they are not dear to you. Thank you. " "Very
 
 
+March, 1905. The Traditions of the Hopi — Voth. 251
+
 well," the Aoatovi chief said, "these you shall have, and the others
 the other villages shall have. " When that was decided the Aodtovi
 chief said, "Now, for four days you must make bows and arrows and
@@ -11865,7 +12881,8 @@ he should tell his other people of the village to prepare their bows and
 arrows. This he did, and so the people made bows and arrows and
 shields during the four days. Three of his nephews he sent to W£lpi,
 Mish6ngnovi, and Shong6pavi to tell those people about the request
-of the Aoatovi chief, and that they should get ready to participate in the destruction of that village. Shupaulavi did not at that
+of the Aoatovi chief, and that they should get ready to partici-
+pate in the destruction of that village. Shupaulavi did not at that
 time exist. The chiefs of the different villages declared themselves
 willing to take part in the expedition, only the chief of Shong6pavi
 said to his people: " Now, this is the request that has been made upon
@@ -11875,9 +12892,11 @@ people to live with us here. They may spoil us. We want to live
 here alone. I do not want to take part in it."
 
 So on the fourth day the Orafbi chief said that some of them
-should go to Walpi, invite them, and then proceed with them towards Aodtovi; some of them would go by way of Shong6pavi and
+should go to Walpi, invite them, and then proceed with them to-
+wards Aodtovi; some of them would go by way of Shong6pavi and
 Mish6ngnovi, and then meet the others near Aodtovi. Thus they
-parted in two parties. The party from Orafbi that went to Shongrtpavi entered the village and separated, the different clans looking
+parted in two parties. The party from Orafbi that went to Shongrt-
+pavi entered the village and separated, the different clans looking
 up their clan relatives with whom they ate a meal. They then
 asked them to join them, saying that they should take part, and they
 wanted to go to Aoatovi because the chief there wanted them to
@@ -11896,9 +12915,12 @@ ready to start. The Orafbi kept looking towards Shong6pavi, but
 nobody came and they suspected that the Shongdpavi had deceived
 
 
+252 Field Columbian Museum — Anthropology, Vol. VIII.
+
 them. The party that had gone to Wdlpi direct had in the meanwhile
 arrived there and found the W£lpi willing to join them. The two
-parties then met towards evening, south of Hufcdtwi, where they conversed together about the matter until the sun went down. They
+parties then met towards evening, south of Hufcdtwi, where they con-
+versed together about the matter until the sun went down. They
 then moved towards Aodtovi where they arrived at the foot of the
 mesa when it had become quite dark. Here they again rested.
 
@@ -11935,7 +12957,8 @@ men rushed into the houses where they found much Spanish pepper,
 of which the Aoritovi people, who had plenty of water, raised a great
 deal. The men then threw firebrands into the kivas, and when the
 wood and the roofs of the kivas were set on fire they threw the pepper
-into the fire, the smoke of which caused the men to cough vehemently and many of them smothered to death.
+into the fire, the smoke of which caused the men to cough vehe-
+mently and many of them smothered to death.
 
 While this was going on the people of Mish6ngnovi and Wdlpi
 rushed into the houses and took all the younger women and maidens,
@@ -11943,6 +12966,8 @@ rushed into the houses and took all the younger women and maidens,
 
 :.:*i
 
+
+March, 1905. The Traditions of the Hopi — Voth. 253
 
 and the children that they wanted to take, and moved off with them,
 not waiting for the Orafbi who were to have the first opportunity
@@ -11974,7 +12999,8 @@ allowed to go along. "Do not kill us," they implored them, "we
 shall go with you." Many of the younger and prettier ones about
 whom the quarrel had taken place were killed. Some, however,
 pitied their victims and these as well as others about whom there was
-no contention were taken to the different villages. That is the reason why in Oraibi, Mishdngnovi, and Walpi so many of the Ao^tovi
+no contention were taken to the different villages. That is the rea-
+son why in Oraibi, Mishdngnovi, and Walpi so many of the Ao^tovi
 people may be found to the present day.
 
 In Orafbi the following clans are represented from those people:
@@ -11982,11 +13008,14 @@ the Sand clan, the Rabbit clan, the Coyote clan, and the Butterfly
 clan. Of the latter, however, only one woman is left. There are in
 Oraibi two different kinds of all of these clans except the Sand clan,
 all of which are probably the Ao£tovi people, while those of the other
-clans have come from different directions. The Ao£tovi people introduced in Orafbi the 0£qdl cult, which is the latest cult introduced in
+clans have come from different directions. The Ao£tovi people in-
+troduced in Orafbi the 0£qdl cult, which is the latest cult introduced in
 Oraibi. The same cult was also introduced by them in Mish6ngnovi
 and Wdlpi. At every Soyal ceremony these clans place their bdhos
 at a separate place at the edge of the mesa for their dead ancestors.
 
+
+254 Field Columbian Museum — Anthropology, Vol, VIII.
 
 104. THE DESTRUCTION OF AOATOVI.'
 
@@ -11994,12 +13023,14 @@ Ah'ksai! At Aoatovi they were living. The village chief had
 some fine nice fields there. North of the village were two springs.
 The village chief also had a son, but all the maidens of the village
 were afraid of this youth and refused to marry him. He was a great
-hunter and always went hunting. So one time he again led a hunting expedition. They went south-west of the village, away off, where
+hunter and always went hunting. So one time he again led a hunt-
+ing expedition. They went south-west of the village, away off, where
 they assembled at a certain place. They had built their fire. Some
 of the maidens of the village took part in the hunt. They then
 formed two parties, and these spread out to form a circle. There
 were a great many rabbits and they killed a great many. A large
-hawk took part in the hunt too. He would swoop down on the rabbits and kill them. This he did for the village chief's son, so that
+hawk took part in the hunt too. He would swoop down on the rab-
+bits and kill them. This he did for the village chief's son, so that
 when they went home the village chief had a great deal of game to
 carry home. When the sun was low they arrived at the spring close
 to Aoatovi. Here they drank and then they went up to the village.
@@ -12009,12 +13040,14 @@ ripe.
 
 The village chief's son not having anything to carry, ran ahead to
 the village, wrapped up in his blanket, and seated himself on top of
-a house and watched for the hunters to come up. When they assembled in the village he came down and met his father in the house.
+a house and watched for the hunters to come up. When they assem-
+bled in the village he came down and met his father in the house.
 Here they ate supper. When they were through his sister removed
 the remnants. The father then smoked on the game, whereupon
 the son addressed his father and said: "My father, I am unhappy
 here, and now our children (people) they shall be happy here only
-this long too. Let us do something to them. You go to Torfva tomorrow morning." "Is that so?" the father said. "Yes," the son
+this long too. Let us do something to them. You go to Torfva to-
+morrow morning." "Is that so?" the father said. "Yes," the son
 replied.
 
 So early in the morning the village chief repaired to the village
@@ -12034,6 +13067,8 @@ returned to his home. The chief of llano went to inform the inhab-
 •.v«L
 
 
+March, 1905. The Traditions of the Hopi — Voth. 255
+
 itants of Sitchomovi, and of Walpi, both of which villages were then
 situated north of the mesa where there are now some ruins. He told
 them that the next night they should get ready for the expedition.
@@ -12041,7 +13076,8 @@ them that the next night they should get ready for the expedition.
 So the next evening the people of the three villages came out.
 went down the mesa and repaired to the village of Aodtovi, where
 they camped at the spring north of the village at the foot of the
-mesa. There was a great storm raging at that time. So in the evening they ascended the mesa. The men were still in their different
+mesa. There was a great storm raging at that time. So in the eve-
+ning they ascended the mesa. The men were still in their different
 kivas eating their evening meals. The enemies drew out the ladders
 from the kivas so. that the men could not come out. They then
 gathered the women and children, and while some of the raiders
@@ -12056,18 +13092,21 @@ A long time ago the people were living in Oraibi. They were also
 living in Walpi which, however, then was not on top of the mesa,
 but somewhat farther down towards the north-west. One time the
 children (people) of the chief in Oraibi were very bad and the chief
-concluded that he would punish them. So he went over to the warrior chief in Walpi. He sat down and they first smoked, then the
+concluded that he would punish them. So he went over to the war-
+rior chief in Walpi. He sat down and they first smoked, then the
 warrior chief asked him what his object in coming was. "Yes," he
 said, "my children are very bad and I have come to see what you
 think about it. After some days we will come by here to attack
 Walpi. You must then be ready and come to meet us in the valley,
 and when my children return and run, you must kill them, but those
-who pass the rock that is standing south of Ponotoika, they shall remain unmolested."
+who pass the rock that is standing south of Ponotoika, they shall re-
+main unmolested."
 
 The warrior chief of Walpi agreed to this, on the condition that
 the Oraibi chiefs would not ask for any of the lives of the Walpi. To
 this he agreed. So the Oraibi chief returned and told his people
-that in four days they would make a raid on Wrilpi and try especially to steal some maidens. They were willing, and so during the
+that in four days they would make a raid on Wrilpi and try espe-
+cially to steal some maidens. They were willing, and so during the
 night after the third day proceeded towards Walpi. Early in the
 morning they approached the village, but the Walpi were ready.
 They descended from their village well armed, and. sounding the war
@@ -12078,6 +13117,8 @@ dog rushed ahead and bit a great many of the Orafbi in the leg, thus
 
 1 Told by Sikahpiki iShupatilavi).
 
+
+256 Field Columbian Museum — Anthropology, Vol. VIII.
 
 disabling them. The Orafbi had been so thoroughly surprised that
 they got frightened and fled when the Wdlpi rushed upon them. The
@@ -12102,7 +13143,8 @@ Halfksai! In Walpi the people were living, but at the place
 where the old village stood before the people had moved on the mesa.
 And in Orafbi the people were also living. The Wdlpi always had
 races west of the village in the valley for practice. When they had
-become strong, they said: "Let us go to Orafbi and race there, because they are not strong and nimble." One time they had a Kat-
+become strong, they said: "Let us go to Orafbi and race there, be-
+cause they are not strong and nimble." One time they had a Kat-
 cina race in Walpi again, as they used to have frequently. One of
 the Orafbi youths who had a friend in Walpi went to visit his friend
 on that day, though he had not heard about there being a race there.
@@ -12113,10 +13155,12 @@ the Katcina race.
 
 They did not come until towards evening. When they had
 arrived on the plaza the Koyemsis challenged the young men of the
-village to come and race with the Katcinas. The Orafbi youth enjoyed seeing the race, but he was somewhat timid and afraid to
+village to come and race with the Katcinas. The Orafbi youth en-
+joyed seeing the race, but he was somewhat timid and afraid to
 participate in the race. When the race was over the young men of
 the village had long races yet down in the valley, but they said to
-one another, that no one should tell the Orafbi youth that they intended to go there and race with the Orafbi. In the evening, how-
+one another, that no one should tell the Orafbi youth that they in-
+tended to go there and race with the Orafbi. In the evening, how-
 ever, the friend of this young man told him that the Walpi had been
 practicing and that they intended to come to Orafbi and race with
 the Orafbi youths. He added that they should also practice in Orafbi
@@ -12124,6 +13168,8 @@ tor this coming contest, and said that these Wrilpi were braggarts
 
 ' TVul by Kwayeshva (Oraibi).
 
+
+March, 1905. The Traditions of the Hopi — Voth. 257
 
 and not so strong as they said they were. When he had told him
 this they retired for the night.
@@ -12150,12 +13196,14 @@ They did not know, however, that the Orafbi had heard about their
 coming. When the W£lpi arrived at the spring Keqdchmovi, east
 of Orafbi, where there were then no houses, they dressed up at
 that spring so that the Orafbi should not find out so soon, but the
-Orafbi had noticed them. When they had dressed up they ran towards the village, following a trail straight up towards the Katcfn-
+Orafbi had noticed them. When they had dressed up they ran to-
+wards the village, following a trail straight up towards the Katcfn-
 kihu Kuwdwaima. Here they gathered and stopped for a little
 while and then ran towards the village.
 
 The people of the village, though they had known of their coming,
-acted as if they had not seen them. Two of the Katcinas were K6yemsis who carried gifts in the form of comfviki, roasted sweet corn
+acted as if they had not seen them. Two of the Katcinas were K6y-
+emsis who carried gifts in the form of comfviki, roasted sweet corn
 ears, etc. When they had arrived at the plaza one of the older
 Orafbi went to them and asked: "Have you come? Have you
 arrived?" "Yes," the K6yemsis replied. "On what account did
@@ -12170,6 +13218,8 @@ strike him with their yucca leaf whips.
 
 When they were through racing they had not caught a single
 
+
+258 Field Columbian Museum — Anthropology, Vol. VIII.
 
 Orafbi youth, and the Oraibi had won from them all the presents.
 The Katcinas were very tired. The man who had received them on
@@ -12187,7 +13237,8 @@ The Wdlpi again could not overtake the Orafbi and when they
 got to Keqochmovi, the Walpi were very tired and gave up the race.
 The two Koyemsis who were a little older than the others and were
 not quite so tired went up to the Katcina house and got the costumes
-of the Walpi, whereupon the Walpi all returned, very much in despair. They went very slowly and were very quiet. "The Orafbi,"
+of the Walpi, whereupon the Walpi all returned, very much in des-
+pair. They went very slowly and were very quiet. "The Orafbi,"
 they said among themselves, "are very strong. " It was early in
 the morning when one after the other arrived at Wdlpi, some of them
 being so tired that they had fallen far behind. They agreed that
@@ -12205,7 +13256,8 @@ with their bows and arrows on the west side of the village, at the foot
 of the mesa, where they had filled several sand piles with arrows, the
 news was called down to them from the edge of the mesa that a large
 cloud of dust was seen in one of the wooded canyons towards the
-north-east, and that it looked as if a great many people were approaching the village. It was towards evening. The men gathered up their
+north-east, and that it looked as if a great many people were approach-
+ing the village. It was towards evening. The men gathered up their
 bows and arrows and hastened to the village. Here the roofs were
 covered with expectant people, whose faces were turned towards the
 approaching dust cloud about six miles towards the north-east. It
@@ -12215,9 +13267,12 @@ the village of Oraibi on the part of the Navaho. Suddenly the Hopi
 1 Told by Qdyawaima (Oraibi). L- ...
 
 
+March, 1905. The Traditions of the Hopi — Voth. 259
+
 noticed that the approaching enemy halted and evidently had struck *
 camp for the night. A great many camp-fires were soon seen at the
-place where they camped. These were kept up all night. The greatest excitement prevailed in the village. The different clans were
+place where they camped. These were kept up all night. The great-
+est excitement prevailed in the village. The different clans were
 invited to assemble in the ancestral homes of their respective clans,
 where councils were being held during the greater part of the night,
 as to what was to be done to meet the approaching danger. After
@@ -12225,22 +13280,27 @@ these councils were over the village crier invited all the people to the
 public plaza of the village. Firewood was being brought together
 and a large fire was kept up in the center of the plaza. The
 situation was discussed in all its aspects. People encouraged one
-another. Those who were expected to set out as warriors were especially encouraged ; they were told that they should be careful of their
+another. Those who were expected to set out as warriors were espe-
+cially encouraged ; they were told that they should be careful of their
 lives and that any plunder that might be found on the enemies, such
 as weapons, clothing, etc., should be owned by whomsoever succeeded
 in taking it. All narratives about this event agree in this fact, that
-a number of Hopi, who either were entirely discouraged from the beginning or saw no hope of their gaining the victory, and who perhaps
+a number of Hopi, who either were entirely discouraged from the be-
+ginning or saw no hope of their gaining the victory, and who perhaps
 acted as traitors, went to the Navaho during the night. They took
 with them such presents as buckskins, blankets, different articles of
 clothing, etc. Arriving at the Navaho camp each one approached
-some Navaho warrior and told him: "I want you to kill me to-morrow in the battle." "What will be the price for it?" he was asked
+some Navaho warrior and told him: "I want you to kill me to-mor-
+row in the battle." "What will be the price for it?" he was asked
 by the Navaho warrior. "This," the Hopi answered, and handed
-him the present that he had brought. Hereupon the Navaho warrior would puncture the foot of the Hopi, near the ankle, over a pot
+him the present that he had brought. Hereupon the Navaho war-
+rior would puncture the foot of the Hopi, near the ankle, over a pot
 that had been put into the ground, and the blood thus extracted
 would be allowed to run into the pot. The loss of blood so
 weakened the Hopi warriors that they could only walk slowly on the
 next day and were easily singled out by the Navaho. These Hopi
-hereupon returned to the village, not of course telling their brethren what they had done at the Navaho camp.
+hereupon returned to the village, not of course telling their breth-
+ren what they had done at the Navaho camp.
 
 The Navaho during the night sang their war songs and performed
 their war ceremonies. Early in the morning at the so-called white
@@ -12255,6 +13315,8 @@ through with the councils and had made up their minds that they
 would have to fight, they began to prepare for the approaching en-
 
 
+260 Field Columbian Museum — Anthropology, Vol. VIII.
+
 counter. The Hopi at that time had a great many buckskins.
 Every warrior wrapped two or even more of these around the upper
 part of his body, taking care that the thick head and neck part of the
@@ -12267,17 +13329,20 @@ Society, two horns; those belonging to the Agave Society, one horn;
 and so on. Most of them tied some feathers into their hair. When
 all were ready they lined up north of the village, filling the whole
 space from the rim of the east side to the edge on the west side of the
-mesa. The warrior chief of the Burrowing Owl clan performed certain war rites, the same, it is said, that are still performed as a part
+mesa. The warrior chief of the Burrowing Owl clan performed cer-
+tain war rites, the same, it is said, that are still performed as a part
 of the great Soyal ceremony.
 
-A water tray was placed on the ground, many fetishes and amulets, bones, etc., were placed around the medicine bowl, and a num-
+A water tray was placed on the ground, many fetishes and amu-
+lets, bones, etc., were placed around the medicine bowl, and a num-
 ber of war songs chanted. At the conclusion of the ceremony the
 bodies of all the warriors were decorated with certain spots, the
 material used being a peculiar stone, which is found west of Orafbi.
 This stone is called p66k6ngnayoo (war god vomisis). The war chief
 pulverized this stone, mixed it with the water from the medicine
 bowl, and decorated the bodies of the warriors by rubbing his hand
-over the outside of the lower and upper leg close to the knee, the outside of the lower and upper arm close to the elbow, and over his heart
+over the outside of the lower and upper leg close to the knee, the out-
+side of the lower and upper arm close to the elbow, and over his heart
 and back. It is, in fact, the same decoration which may now be seen
 on the body of the snake dancers.
 
@@ -12285,7 +13350,8 @@ By this time the Navaho began to come nearer and the Hopi
 drew up in line ready to meet them. The leader of the Navaho, being
 mounted on a pony and dressed in a large piece of bayetta (a red
 European cloth), with not only his but also his pony's body covered,
-rode up to the Hopi. After saying something to them, which, however, history has failed to record, he shot the first arrow into the
+rode up to the Hopi. After saying something to them, which, how-
+ever, history has failed to record, he shot the first arrow into the
 crowd of the Hopi. without hitting any of them. Hereupon he swung
 around his pony and dashed back to his people, who now rushed
 towards the Hopi. and the battle was opened. The sun had not yet
@@ -12296,6 +13362,8 @@ by those lighting with bows and arrows. While the first line served
 with their shields as a protection, striking, of course, their assailants
 with their war clubs wherever they had an opportunity, the archers
 
+
+March, 1905. ; The Traditions of the Hopi — Voth. 261
 
 shot into the enemy through the; spaces between the warriors in
 front of them. The Hopi succeeded in driving the Navaho slowly
@@ -12317,7 +13385,8 @@ the latter into two parties. These they at once surrounded, which
 placed the Hopi at a disadvantage.
 
 The sun was by this time just rising and the Hopi saw that the
-Navaho warriors were simply dressed in their loin cloths, some having on moccasins. Their bodies were decorated with red paint over
+Navaho warriors were simply dressed in their loin cloths, some hav-
+ing on moccasins. Their bodies were decorated with red paint over
 which they had drawn their fingers when it was still wet, making
 their bodies full of lines. Their hair was hanging down their backs
 loose. They were all mounted on ponies. The Hopi, however, had
@@ -12332,7 +13401,8 @@ enemies, were not exterminated.
 
 The battle lasted until late in the afternoon. The Hopi would
 break through the circles of the warriors surrounding them, but were
-always surrounded again by new parties, so that the circles surrounding the fighting Hopi became smaller and smaller. The Hopi
+always surrounded again by new parties, so that the circles sur-
+rounding the fighting Hopi became smaller and smaller. The Hopi
 say that the Navaho were much better provided with shields than
 they were, so. that they could cover themselves completely when
 encircling the Hopi, but the Hopi say they would not always shoot
@@ -12341,11 +13411,14 @@ them and then turn around quickly and then shoot at somebody
 else from the side and past, their shields. They also say that the
 
 
+262 Field Columbian Museum — Anthropology, Vol. VIII.
+
 Navaho in charging them on their ponies would often, after they
 had shot an arrow, or saw that they were threatened by some
 special Hopi warrior, turn their ponies arouncf quickly and lower
 themselves by the side of the pony, while they dashed away, but
-often the Hopi still succeeded in shooting them even in that position.
+often the Hopi still succeeded in shooting them even in that posi-
+tion.
 
 The arms of the Navaho also consisted of bows, arrows, shields,
 and war clubs, and some few had guns and pistols which they had
@@ -12367,10 +13440,13 @@ In the meanwhile the men on the edge of the mesa counseled with
 one another whether they should go down and assist their hard-pressed
 brethren, but only three were willing. These went down and hid
 behind rocks, towards which a party of Navaho was driven by a
-party of Hopi. When the retreating Navaho had come within shooting distance of the three Hopi hidden behind the rocks, the latter
+party of Hopi. When the retreating Navaho had come within shoot-
+ing distance of the three Hopi hidden behind the rocks, the latter
 killed a number of them from their safe shelter. Hereupon the
-Navaho scattered, giving the Hopi who were pursuing them an opportunity to also rush behind the rocks where they were greeted by their
-three valiant brethren. All now ascended the mesa where they proceeded in a north-westerly direction along the edge of the mesa.
+Navaho scattered, giving the Hopi who were pursuing them an oppor-
+tunity to also rush behind the rocks where they were greeted by their
+three valiant brethren. All now ascended the mesa where they pro-
+ceeded in a north-westerly direction along the edge of the mesa.
 They were preceded by the party of Navaho who had pursued them
 to the foot of the mesa, and who had in the meanwhile rounded on
 their very swift ponies on the point of the mesa and ascended on the
@@ -12383,6 +13459,8 @@ mock them.
 The Hopi finally found a place where they could descend the
 
 
+March, 1905. The Traditions of the Hopi — Voth. 263
+
 mesa, crossed the small valley, which is quite deep, stopped at one
 place and then reached a small spring by the name of Ohdwikba.
 Here they rested, as they were very thirsty and a number of them
@@ -12392,7 +13470,8 @@ way, which was done. The Navaho party who had pursued these
 Hopi had not followed them, they had descended the mesa at some
 other place, but made for the village of Orafbi. In the valley where
 the main battle-ground was, the fighting had also ceased by this
-time. The different groups of fighting Hopi had succeeded in cutting their way through their assailants and were running towards
+time. The different groups of fighting Hopi had succeeded in cut-
+ting their way through their assailants and were running towards
 the village, leaving a great many^ dead and wounded behind. The
 Navaho had also lost very heavily, but it is said that the Navaho
 carried their wounded away while the battle was raging, taking them
@@ -12404,20 +13483,24 @@ them and to reach the village first. 1
 While both parties were drawing closer to the village, the Hopi
 retreating and the Navaho following them, more or less fighting was
 going on, about which various details are still mentioned when the
-events of this important day of Hopi history are related. For instance, when the Hopi had arrived on t'Qp of the first mesa south of
+events of this important day of Hopi history are related. For in-
+stance, when the Hopi had arrived on t'Qp of the first mesa south of
 the battle-field, six of them hid in a stone inclosure. Whether it was
 a sheep corral or a temporary shelter that some Hopi had built, is
 not known. Here they were at once attacked by a party of Navaho
 whom they kept at a respectable distance with their well-directed
 arrows. The Navaho seeing that they could not overpower these
 men with their bows and arrows procured from some of their comrades
-some firearms. With these they kept shooting at the imperfect inclosure until they had killed five out of the six men. The sixth one
+some firearms. With these they kept shooting at the imperfect in-
+closure until they had killed five out of the six men. The sixth one
 jumped out of the inclosure, rushed through the attacking party,
 and jumped down at a steep though not very high place from the
 
-1 The number killed on both sides will perhaps never be fully ascertained, but the aforementioned Navaho, Mayalolo. who had become a member of one of the Hopi societies, later on
+1 The number killed on both sides will perhaps never be fully ascertained, but the afore-
+mentioned Navaho, Mayalolo. who had become a member of one of the Hopi societies, later on
 came to Oraibi, and he is authority for the statement, which* the Oraibi keep reiterating, that a
-great many more Navaho were killed than Hopi. He also stated, which of course is also substantiated by the Hopi, that a great many Navaho ponies were also killed. It is reasonable to believe
+great many more Navaho were killed than Hopi. He also stated, which of course is also substan-
+tiated by the Hopi, that a great many Navaho ponies were also killed. It is reasonable to believe
 that this statement is correct from the fact, already mentioned, that the Navaho were fighting
 with naked Ixxlies. while the Hopi were well protected by buckskins which they had wound
 ar<<und them. It seems that they were about equally well armed, and the courage of the Hopi
@@ -12427,15 +13510,20 @@ the Hopi could withdraw behind rocks or into other unapproachable places, the Na
 but little benefit from their ponies.
 
 
+264 Field Columbian Museum — Anthropology, Vol. VIII.
+
 mesa. Of the various missiles that wer& fired at him, none proved
 to be fatal. The Navaho followed him to the edge of the mesa, but
-had not the courage to jump after him. He hid away under a projecting rock where he stayed all day.
+had not the courage to jump after him. He hid away under a pro-
+jecting rock where he stayed all day.
 
-While this happened, one of the Hopi warriors, who had proven himself especially brave, had rounded the point of this mesa and was mak-
+While this happened, one of the Hopi warriors, who had proven him-
+self especially brave, had rounded the point of this mesa and was mak-
 ing his way towards the village of Orafbi. He was followed by several
 Navaho who hit him several times, but owing to the fact that he was
 well wrapped with good buckskins, none of the shots took fatal
-effect. These Navaho, as the Hopi believe, became somewhat superstitious about this man. The latter claim that the pursuing party
+effect. These Navaho, as the Hopi believe, became somewhat super-
+stitious about this man. The latter claim that the pursuing party
 abandoned pursuit of this one warrior, saying to one another: "Do
 not follow that man. He is very brave and will surely kill you."
 Some of the Hopi by this time discovered that among the Navaho
@@ -12450,7 +13538,8 @@ them, saying: "So, you are with them too, we thought there were -
 only Navaho." "Oh!" the Wdlpi said, "we are being recognized
 now. Let us kill him. If we do not kill him he will certainly tell on
 us in Orafbi. But how shall we kill him, shall we attack him and shoot
-him?" "No," some one said, "let us go and capture him." Hereupon some of them dismounted and they as well as some on horse-
+him?" "No," some one said, "let us go and capture him." Here-
+upon some of them dismounted and they as well as some on horse-
 back formed a ring around the man and then closed in on him. He
 broke the skull of one of them with his tomahawk, whereupon he was
 immediately overpowered and thrown upon the ground. One of the
@@ -12467,6 +13556,8 @@ In the meanwhile troops of Navaho, among whom were many
 women, had reached the village where the Hopi who had remained
 behind had assembled their flocks of sheep on the plaza, which the
 
+
+March, 1905. The Traditions of the Hopi — Voth. 265
 
 Hopi say was crowded with sheep. They had closed up the passages
 to the plaza with beams, rocks, etc., placing also guards at every
@@ -12499,7 +13590,8 @@ Navaho by the name of Ldtotovi, both of whom had been with the
 Hopi for some time, and had been initiated into their Wtiwuchim
 society.
 
-After the Navaho had left the village, stragglers of the Hopi warriors kept coming in. Many of these were wounded; some of them
+After the Navaho had left the village, stragglers of the Hopi war-
+riors kept coming in. Many of these were wounded; some of them
 had to be carried to the village. These called the ones who carried
 them Fathers. All the wounded were placed in an ancestral home
 of the Coyote clan. Here the "Fathers" of the wounded remained
@@ -12511,6 +13603,8 @@ fourth day those who still survived were taken to their homes, that
 is, not where their families were, but to the homes of their parents,
 
 
+266 Field Columbian Museum — Anthropology, Vol. VIII.
+
 where they were then taken care of. Some of the wounded Hopi
 later on also died, while a great many of them recovered. 1
 
@@ -12518,7 +13612,8 @@ later on also died, while a great many of them recovered. 1
 108. A HOPI RAID ON A NAVAHO DANCE. 2
 
 Aliksai! At a certain place the Navaho were living. They were
-going to have a dance at some place towards the north, so they gathered together their ponies and early in the morning they dressed up.
+going to have a dance at some place towards the north, so they gath-
+ered together their ponies and early in the morning they dressed up.
 The women did not have calico dresses, but wore blue dresses with
 red borders and silver belts. So when they were all dressed up they
 mounted their ponies and went to the dance. There were a great
@@ -12561,6 +13656,8 @@ wrapped with buckskins, which furnished a g(»od protection against the arrows.
 'Told by Kuhkuima (Shupaulavi).
 
 
+March, 1905. The Traditions of the Hopi — Voth. 267
+
 The Hopi followed them, shooting principally with reed arrows, and
 killing a great many of them. Only a few finally escaped to their
 homes, and that is the reason why the Navaho, when they have a
@@ -12595,7 +13692,8 @@ difficult for their enemies to get up to their village.
 When the sun rose the enemies approached the village on the
 west side of the valley, rushed up the hill and went through the
 village, but did not find any one, all having fled. But they soon
-discovered their tracks and followed them. They were on horseback, but when they arrived at the place where these people had
+discovered their tracks and followed them. They were on horse-
+back, but when they arrived at the place where these people had
 assembled they could not get up to the village, and many of them
 were shot and killed by the people in the village. But finally, towards
 evening, some of them going around the mesa succeeded in getting
@@ -12608,6 +13706,8 @@ overtake them, as they were afoot. The people who had thus been
 
 > Told by KwAycshva (Oraibi).
 
+
+268 Field Columbian Museum — Anthropology, Vol. VIII.
 
 attacked said that they would not stay at their villages, as they
 would certainly be attacked again by their enemies. So they dressed
@@ -12649,12 +13749,15 @@ Tut£achi told them that he was going to wash their heads (baptize
 them). They asked him what that was, what that meant. He told
 them that that was something very good. So they consented and
 he poured a little water on the heads of those present. After this the
-Tutaachi called another Tutaachi from Basoi,' who came with a number of others and brought clothing and shoes for the Hopi. The shoes
+Tutaachi called another Tutaachi from Basoi,' who came with a num-
+ber of others and brought clothing and shoes for the Hopi. The shoes
 
 • Told by Wlkvaya i Oraibi )
 
 - This place could not be identified and I doubt whether the name was iriven correctly.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 269
 
 were made of leather, the clothing of some gray woolen stuff. The
 things were brought on carts with heavy wooden wheels, but there
@@ -12665,10 +13768,12 @@ living in Orafbi, at least the new arrival remained in Orafbi. The
 Hopi then had to assemble in the assembly house on Sundays, where
 the Tut^achis, or priests, spoke to them. Soon they asked the Hopi
 to work for them. The water in the springs around Orafbi not being
-good, they requested them to get drinking water for them from Mtienkape, which is far away. The Orafbi soon got tired of this and some-
+good, they requested them to get drinking water for them from Mtien-
+kape, which is far away. The Orafbi soon got tired of this and some-
 times, instead of going to Mtienkape, they went to Tuhciva, a spring
 south of the mesa on which the sun shrine is situated, about three
-miles south-east of Orafbi. But the priests soon found out the deception, and were angry. They soon set the inhabitants of Orafbi to
+miles south-east of Orafbi. But the priests soon found out the decep-
+tion, and were angry. They soon set the inhabitants of Orafbi to
 work at making cisterns, and the Hopi themselves were pleased with
 this, as they were now not requested to get water so often from
 the distance.
@@ -12679,7 +13784,8 @@ very gentle and were used to drag logs to the village, which the Hopi
 had to get for the Spaniards from Kfshiwuu, fifty or sixty miles
 north-east. The deep cuts and ruts in the rocks north-east of Orafbi
 where many logs were dragged up may still be seen to-day. Some
-also had to get logs from the San Francisco Mountains (near Flagstaff), but as parts of the road from there were very sandy, not so
+also had to get logs from the San Francisco Mountains (near Flag-
+staff), but as parts of the road from there were very sandy, not so
 many were gotten from that place as from Kfshiwuu.
 
 Thus the Spaniards kept the Hopi at work in various ways, and
@@ -12699,6 +13805,8 @@ way, to make bdhos for the clouds." So they again began to have
 ceremonies, each fraternity with its own altar, and they made bdhos,
 but did not tell the priests about it. They deposited the prayer-offer-
 
+
+270 Field Columbian Museum — Anthropology, Vol. VIII.
 
 ings in the different directions, but it did not rain. So the chiefs
 and leaders were very much discouraged. Their "fathers," as they
@@ -12736,7 +13844,8 @@ door, whereupon they rushed into the room, grabbed him, dragged
 him out of the house, threw him on the ground and then cut his throat,
 one holding his head. Hereupon they carried the corpse eastward
 down the mesa, where they threw it into a gulch and piled stones
-upon it. Hereupon they waited for some time to see whether anybody would come, or what would happen.
+upon it. Hereupon they waited for some time to see whether any-
+body would come, or what would happen.
 
 The killing of the padre in Oraibi was the signal for the other
 villages to .get rid of the padres that lived at those mesas also. The
@@ -12745,6 +13854,8 @@ their brethren, but no one came, so they destroyed the houses of the
 Spaniards, divided their logs and timbers, and used them for their
 kivas. Some of the smaller bells are still owned by the Agave Frater-
 
+
+March, 1905. The Traditions of the Hopi — Voth. 2 7 1
 
 nity. No one has ever come to punish the Hopi for killing the padres.
 The places where the latter had their large sheep corrals can still be
@@ -12776,13 +13887,15 @@ them to go and select place to live. They build small house. Spider Woman
 makes man and woman of clay. They are Spaniards. She teaches them
 Spanish language and gives them tablets and imparts knowledge to them by
 rubbing hands, as deity of east had done with "white man." She creates two
-burros for them. Spider Woman creates other men and women, giving different langauge to each pair. She forgets to create woman for certain man, and
+burros for them. Spider Woman creates other men and women, giving differ-
+ent langauge to each pair. She forgets to create woman for certain man, and
 afterwards fails to create man for certain woman. Tells woman to go and
 rind man and live with him. They meet and live together, but they soon
 quarrel and separate. They come together again, and separate, and so on.
 This is why there are so many contentions between men and their wives.
 Huruing Wuhti of west now creates many people in pairs, husband and wife.
-They live in west and lead nomadic life, living on game. There are many contentions among people, and deity of west goes to live in ocean in west. Tells
+They live in west and lead nomadic life, living on game. There are many con-
+tentions among people, and deity of west goes to live in ocean in west. Tells
 people to pray to her there. Deity in east does something. Spanish are
 angry and two go with guns to abiding-place of Huruing Wuhti. She gets
 them to lay down their arms and asks them to lift stone. They try and their
@@ -12800,6 +13913,10 @@ birds, and Huruing Wuhti places them on floor. She then rubs small scales
 from her cuticle between palms of hands and places scales on feathers and
 skins and covers them with native cloth. Sun kindles fire at east side. They
 
+273
+
+
+274 Field Columbian Museum — Anthropology, Vol. VIII.
 
 wave four corners of cloth, Huruing Wuhti singing, four times, and things
 begin to move and emit sounds as birds do. On removal of cover birds fly out
@@ -12837,7 +13954,8 @@ Clan Member and tells them to travel eastward.
 When people were living below they became quarrelsome, and some very
 depraved. Chiefs decide to find another place to live. They send bird Mdtsni
 to find place of exit. He is unsuccessful. They then send Mocking-bird,
-who finds place of exit. In meanwhile chiefs cause great flood. Many Balolookong-wuus come with water and many people are destroyed. On return of
+who finds place of exit. In meanwhile chiefs cause great flood. Many Balo-
+lookong-wuus come with water and many people are destroyed. On return of
 Mocking-bird chiefs announce they will leave in four days. They then plant
 pine-tree and make it grow fast by singing. It grows to opening, but it is not
 strong enough for many people to climb on. They plant a stronger kind of
@@ -12853,13 +13971,16 @@ Songs of Mocking-bird are exhausted before all people come out, and others
 begin to return. Kik-wongi from below is with people around opening. His
 
 
+March, 1905. The Traditions of the Hopi — Voth. 275
+
 half-grown son dies and is buried. He says some Powdka has come out with
 them. He makes ball of fine corn-meal and throws it upwards. It comes
 down on head of chief's nephew. Chief grabs him to throw him back. Nephew
 tells chief to look down opening. He looks down and sees son walking, so lets
 nephew remain. There is no sunshine. Light is seen at distance, and chief
 sends some one to see about it. He finds field where corn, etc., planted, and
-fire burning all around field to keep ground warm. Then he sees very handsome man, Skeleton, by whose side is standing very ugly mask. Skeleton
+fire burning all around field to keep ground warm. Then he sees very hand-
+some man, Skeleton, by whose side is standing very ugly mask. Skeleton
 feeds messenger and invites all people to come to him. They go and remain
 there. They make fields, and when they have gathered crop they plan to
 start off again. They still have no sun, and it is cold. They paint disk of
@@ -12888,7 +14009,8 @@ wives of chiefs. Chiefs think of escaping. They hear sounds above and they
 decide to investigate. They make Pawaolcaya and sing over it. It comes to
 life, and they tell it to go up and find out. Chief plants l6oq6 tree, but it
 does not reach up. Then they plant reed that reaches up. Pawdokaya ascends
-and finds opening. He goes through and flies around, but does not find anybody. He descends tired out and tells chiefs. They make Ttfhcha, which
+and finds opening. He goes through and flies around, but does not find any-
+body. He descends tired out and tells chiefs. They make Ttfhcha, which
 ascends and also finds nothing, returning exhausted. The same occurs with
 Hawk. Chiefs then make M6tsni, which flies up through opening and finds
 place where Oraibi now is, and somebody sitting. It is Skeleton. Motsni
@@ -12905,6 +14027,8 @@ of fine meal upward. It alights on head of maiden. Chief accuses her, and
 savs he will throw her down. She tells chief to look down and he will see his
 
 
+276 Field Columbian Museum — Anthropology, Vol. VIII.
+
 child running around. He looks, and lets maiden remain, but says she is to
 stay there for day after they leave. It is dark, and Spider Woman, assisted
 by Flute Priest, makes drawing on white cloth. They sing songs over it, and
@@ -12913,7 +14037,8 @@ light. They then draw sun symbol on circular piece of buckskin and sing over
 it. Spider Woman takes it away, and something rises again, and it becomes
 light and very warm. They have rubbed yolks of eggs over sun symbol, and
 this is why chickens know all about time. Chiefs make different kinds of
-plants and other things. Hopi language is spoken, but chief asks Mockingbird to give to different people different language. Mocking-bird does so.
+plants and other things. Hopi language is spoken, but chief asks Mocking-
+bird to give to different people different language. Mocking-bird does so.
 They sit down to common meal, and chief lays out many corn ears of different
 lengths and tells people to choose of them before they start. Every one wants
 longest ears. Small ears are left for Hopi, who only have corn. Chief agrees
@@ -12929,11 +14054,13 @@ passed through while Hopi live. Spider Woman makes horses and burros for
 White Men and they go along much faster. Parties stay where there are good
 fields or springs for one or more years. They plant crops and create springs
 by burying bauypi containing certain herbs, brihos, etc. They can create rain.
-Contentions arise among parties, and they war on each other. So they build villages on bluffs and mesas. Bear and other clans, whose names are taken from
+Contentions arise among parties, and they war on each other. So they build vil-
+lages on bluffs and mesas. Bear and other clans, whose names are taken from
 dead bear, arrive at Muenkapi. Another Bear Clan arrives at Shongtfpavi,
 which is first village started. Skeleton is living where Oraibi now is. Bear
 and two other clans move towards Oraibi. Spider Clan make marks on bluff
-east of Muenkapi, claiming water for Hopi. Snake Clan arrives and afterwards Burrowing Owl clan, and they write something on bluff. Skeleton
+east of Muenkapi, claiming water for Hopi. Snake Clan arrives and after-
+wards Burrowing Owl clan, and they write something on bluff. Skeleton
 comes to meet Bear clan, who want him to be chief. Skeleton refuses, but
 gives them land, and Bear clan builds houses east of Oraibi bluff where now are
 ruins. Bear clan brings Aototo and Soyal Katcinas. Different clans arrive,
@@ -12945,13 +14072,15 @@ Katcinas dance it rains. They are simple and good Katcinas brought by Hopi
 from under-world. But Powaka maiden has taught others her evil arts, and
 Pnpwaktu have increased at Palatkwapi, which is destroyed by great water
 
+March, 1905. The Traditions of the Hopi — Voth. 277
 
 5. — T^e Origin op Some ORAfBi Clans.
 
 In under-world people live in same manner as here. Chief of Bear clan
 angry at wife for often dancing in Butterfly dance. Chief sends Pflokong and
 his brother in search of another world. They find opening above, which
-Prtokong reaches by means of *eed. Chief leaves wife dancing, and accompanied by Prtokong and his brovner, Spider clan 'chief, and many people, they
+Prtokong reaches by means of *eed. Chief leaves wife dancing, and accom-
+panied by Prtokong and his brovner, Spider clan 'chief, and many people, they
 start and go out. Bear chief closes opening. It is dark, and chief sends eagle
 to hunt for light. Eagle finds it hot, but he makes it lighter. Buzzard then
 goes and is burned, but makes it lighter. Bear clan and Spider clan go in
@@ -12979,7 +14108,8 @@ Orafbi and Shong6pavi. Machfto and two Katcinas go up Orafbi mesa.
 Later Spider people arrive, and Machfto asks about their wanderings. He
 says they may live there, but they are to watch sun for Soyril ceremony and
 to make his kind of puhtavi. Among Spider clan is Lizard clan, who have
-Maraii cult. They are permitted to stay, but are to co-operate in Soydl ceremony. Other clans that come are Rattle Snake, Badger, Butterfly, and
+Maraii cult. They are permitted to stay, but are to co-operate in Soydl cere-
+mony. Other clans that come are Rattle Snake, Badger, Butterfly, and
 Divided Spring. Divided Spring and Blue Flutes have corn contest, in which
 latter win.
 
@@ -13053,6 +14183,8 @@ assorts bahos offered him on course around earth and throws those of bad
 people away. He takes bath and cats food. He then goes into house under
 
 
+March, 1905. The Traditions of the Hopi — Voth. 279
+
 earth on course again. In east he goes down in house. Hence bahos offered
 to Sun are carried eastward to Sun shrines. There live Flutes of Sun Clan,
 who always play and the Sun rises. Hence gray fox-skin is put up at white
@@ -13092,18 +14224,23 @@ people who die will go back to lower world. Coyote has stars in hand and
 throws them into sky. White people take with them Spider, who creates
 burros from scales rubbed from her skin. So they reach place of sunrise first.
 Star arises in south as agreed signal to others. Party comes on bear and is
-called Bear clan. Other parties come and receive names from incidents connected with bear (as in story No. 8, with some variations). They soon separate,
+called Bear clan. Other parties come and receive names from incidents con-
+nected with bear (as in story No. 8, with some variations). They soon separate,
 and Spider clan wanders about long time. Finally it arrives at Chnkuvi,
 where are Squash and Sand clans. To escape raids people, with those of
 Mishongnovi, remove to mesa and build present village of Mish6ngnovi.
 10. — Origin of the YAyaatu Society.
 
 Man has little boy. who is visited by children of village. They are lazy,
-and steal wood to prepare food they have stolen in village. Priest's son suggests they go and gather their own wood. They steal burden bands and go
+and steal wood to prepare food they have stolen in village. Priest's son sug-
+gests they go and gather their own wood. They steal burden bands and go
 and gather brush in valley. When ready to start home, Hawk, in form of man,
-comes and invites them to his kiva. After smoking, they exchange terms of relationship. Hawk-man dresses boys up in costume, gives each eagle feather,
+comes and invites them to his kiva. After smoking, they exchange terms of rela-
+tionship. Hawk-man dresses boys up in costume, gives each eagle feather,
 stands them in line and tells them to do what they see him do. They jump
 
+
+280 Field Columbian Museum — Anthropology, Vol. VIII.
 
 down Jrom kiva, and run about through brush. Hawk-man seizes priest's son,
 throws him on cloth, and other boys carry him to kiva, where he is thrown
@@ -13113,13 +14250,15 @@ into earth, in which old woman keeps up fire. Hawk-man throws first priest's
 son and then other boys into ovens, and woman spurts medicine on them.
 When costumes burned off, Hawk-man takes bodies and covers them with cloth
 north of fireplace. He sings songs over them and they begin to move and are alive
-again. Old woman then washes their heads and gives each white corn ear. Hawkman tells them to go home, take their wood to Blue Flute kiva, and remain there
+again. Old woman then washes their heads and gives each white corn ear. Hawk-
+man tells them to go home, take their wood to Blue Flute kiva, and remain there
 for him. He hands priest's son eagle wing feather, and youths leave. They
 go to kiva. When it is dark, Hawk enters and takes seat near fireplace. They
 smoke, and then Hawk makes gruel which he feeds to youths. He says they
 are not to go home, and that in morning some are to sit in north end of kiva
 and some in south. The former are to be fire-jumpers and Ydyaatu, and the
-latter singers. He sprinkles meal line between them and selects one for witchman. They are to sit apart all next day. They remain there four days.
+latter singers. He sprinkles meal line between them and selects one for witch-
+man. They are to sit apart all next day. They remain there four days.
 Hawk-man coming to feed them every night. In evening of following day he
 brings costumes and yellow paint. Watcher digs four ovens on plaza and
 others bury long cotton string and stretch strings along houses. In morning'
@@ -13141,7 +14280,8 @@ and rain and crops grow in day. They find Bear, Parrot, and Crow clans at
 Mishongnovi. and are asked what they know about producing rain crops.
 They show their power, and their leader is made chief of village. Spring
 Tonva is very small, but Batki-namu puts in it mud, grass, and water from
-Little Colorado River and flow of water increases. Batki is admitted to Antelope and Blue Flute Fraternities of other elans. Young Corn-Ear clan conies
+Little Colorado River and flow of water increases. Batki is admitted to Ante-
+lope and Blue Flute Fraternities of other elans. Young Corn-Ear clan conies
 from Pueblo and brings larger corn.
 
 12.— The Destruction of Pal.vikwapi.
@@ -13154,6 +14294,8 @@ chief says they will move away. He tells son to run to Pine Ridge. They are
 sorcerers. On his return, chief makes four masks which his son puts on, the
 last being like that of Skeleton. He has fingers cut from old eoq>ses tied to
 
+
+March, 1905. The Traditions of the Hopi — Voth. 281
 
 wrists as rattler. Chief gives young man long cedar bark fuse and tells him to
 return to Pine Ridge and set pine on fire. He does so, and on return grinds
@@ -13207,9 +14349,12 @@ come. Children become bad, and when grown up they start off to kill some
 one. They pray to God of Thunder, who comes and teaches them how to kill
 
 
+282 Field Columbian Museum — Anthropology, Vol. VIII.
+
 Apache who are near. In morning they go and are surrounded by Apache.
 After arrow shooting for some time elder brother shoots lightning and all Apache
-are slain. They scalp large and fierce warrior, and cut out his heart and, taking moccasins and costumes of slain, return. God of Thunder comes and tells
+are slain. They scalp large and fierce warrior, and cut out his heart and, tak-
+ing moccasins and costumes of slain, return. God of Thunder comes and tells
 them to throw scalp on man who is to be War Chief. They return home and
 are discharmed. Scalp is thrown and War Chief made. People leave Hom<S-
 lovi, and after wandering some time Bdtki clan goes to Aodtovi, and others,
@@ -13259,6 +14404,8 @@ eastward and come to Owl Spring, where they are entertained by another
 Hahau Wuhti. During night she goes to Ki'shiwuu where Katcinas have dance.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 283
+
 She returns, and three Circle Katcinas go and dance. Next morning Hah an
 Wuhti goes to another dance. She returns and tells them mother is there.
 They go and dance on plaza, and on return meet mother, who goes with them.
@@ -13272,7 +14419,8 @@ He rushes into kiva where women are making trays for Lag6n ceremony.
 Woman seats him in her lap and hides him under tray. Skeleton arrives
 and drives women about. Man rushes out and runs to Shong6pavi, where
 same thing takes [place. From here he runs to Matdvi where Flute
-Society has ceremony. They tell him to go into spring' and hide in top ol sunflower stalk. When Skeleton comes, Flute priest tells her husband has gone
+Society has ceremony. They tell him to go into spring' and hide in top ol sun-
+flower stalk. When Skeleton comes, Flute priest tells her husband has gone
 into spring. She enters and sees sunflower stalk reflected in water and her
 husband on top of it. Thinking he is in water, she dives in and disappears,
 Man comes down and joins Flute players. On fourth day woman comes out
@@ -13299,7 +14447,8 @@ and dies. She is now living at Kishiwu.
 16. —How Ball-Head (TatciqtO) Wedded an ORAfBi Maiden.
 
 Young man thinks he will try to marry maiden who has refused all young
-men of village. He sees her .grinding corn, and tells her to stop. They converse, and when she finds out who he is, she consents if mother willing. Par-
+men of village. He sees her .grinding corn, and tells her to stop. They con-
+verse, and when she finds out who he is, she consents if mother willing. Par-
 ents say he will be welcome. Next morning young man prepares ten bunches
 of corn ears and proceeds to village. Maiden asks him to come in and they
 sit on opposite sides of fireplace. Young man wears mask of Ball-Head. He
@@ -13309,6 +14458,8 @@ on fifth day white corn. In evening young man comes for his bride. She
 goes with him to his grandmother, taking tray of white meal. After being
 invited by grandmother and young man to come in, she enters. She hands
 
+
+284 Field Columbian Museum — Anthropology, Vol. VIII.
 
 tray, to grandmother, and after evening meal they retire, mana sleeping with
 grandmother. In morning, after making prayer-offerings to dawn and sun,
@@ -13327,7 +14478,8 @@ poor.
 
 17. — The Aholi and other WAlpi Katcinas.
 
-In former Walpi village lives Aholi Katcina and his little sister. In Sitc6movi lives youth with grandmother. Ahrtli and maiden go to field to plant.
+In former Walpi village lives Aholi Katcina and his little sister. In Sit-
+c6movi lives youth with grandmother. Ahrtli and maiden go to field to plant.
 In field is baho shrine where Ahrtli deposits corn meal and nakwdkwosis as
 prayer-offerings. In shrine lives Mdyingwa and sister, who cries on receiving
 offering, as they have been neglected. Ahrtli places seeds on ground. Two
@@ -13364,6 +14516,8 @@ arms by their sides, covers them up, and sings. When through singing, they
 get up healed. Next day they go to house of maidens. Pook6nghoya wants
 
 
+March, 1905. The Traditions of the Hopi — Voth. 285
+
 to choose prettiest, but younger brother objects, as he had his arm cut off first.
 His brother consents, and they sleep with maidens that night, and then return
 
@@ -13388,7 +14542,8 @@ play with ball, striking it towards Torfva. They drink at spring and see many
 bahos. Younger brother swallows biiho. Elder brother discovers bowls of
 paints deposited in recess by Flute priests. He puts some of each paint into
 ball through holes, and sews them up. They proceed towards Mish6ngnovi,
-and beat ball through village. They enter kiva where Flute priests are assembled and grab tray with lightning frame, thunder board, netted water jug, etc.
+and beat ball through village. They enter kiva where Flute priests are assem-
+bled and grab tray with lightning frame, thunder board, netted water jug, etc.
 They go to kiva where Snake priests assembled, and grab bull-snake and carry
 it off in sack. They beat ball to corn-ear bluffs, where they find many bahos
 and prayer-offerings. Elder brother refuses to take prayer-offerings, but
@@ -13405,16 +14560,20 @@ Many people living in Oraibi. Some who go for wood do not return.
 Man, while gathering wood, hears Cooyoko singing. C6oyoko says he will
 feast on man, but man crawls under wood and Cooyoko cannot find him.
 Cooyoko then finds woman and says he will feast on her. Woman climbs tree
-and micturates. Cooyoko sees moisture and says there must be clouds somewhere. C6oyoko leaves place. Man and woman go to village and say it is
+and micturates. Cooyoko sees moisture and says there must be clouds some-
+where. C6oyoko leaves place. Man and woman go to village and say it is
 C<»oyoko who kills people. Village chief goes to shrine where Pookongs live
 with grandmother. Spider Woman. They are playing, but woman makes them
 stop. Chief tells them that he wants them to take revenge on Cooyoko for
 killing people. They promise to help him if he will make them some balls.
-Brothers take bow and lightning arrows. They strike ball before them forward and backward, until they arrive at Cooyoko's house. He and wife have
+Brothers take bow and lightning arrows. They strike ball before them for-
+ward and backward, until they arrive at Cooyoko's house. He and wife have
 gone, but they follow wife's tracks and find her sitting. They kill her with
 arrows. They go again to house and wait return of Cooyoko. He comes
 singing, and throws something down. He enters kiva and hunts for something
 
+
+286 Field Columbian Museum — Anthropology, Vol. VIII.
 
 to eat. Prtokongs have hidden themselves behind mealing bin, and kill him
 with lightning arrows. They scalp him and return home with many beads and
@@ -13446,7 +14605,8 @@ hissing noise. They sit down and look at grass dancing.. In evening they
 return and tell grandmother, who calls them fools. She sends them to see
 dance at Mishongnovi, and tells them about tray throwing. They get to
 Mishongnovi and sec dance, but they are so filthy no one invites them to eat.
-They snatch trays from dancers and run home. They give trays to grandmother, who feeds them, but they are angry at not being fed in Mish6ngnovi.
+They snatch trays from dancers and run home. They give trays to grand-
+mother, who feeds them, but they are angry at not being fed in Mish6ngnovi.
 Hopi iind salt, but salt belongs to Prtokongs, who remove it far away to give
 Hopi trouble in getting it.
 
@@ -13454,7 +14614,8 @@ Hopi trouble in getting it.
 
 Pookonghoya and brother Balrtonghoya live with grandmother, Spider
 Woman. They hear that maiden refuses to marry, and they tell grandmother
-they will go and try. She tries to dissuade them, as they are small and unsightly. In evening they take squash seeds and some little sticks and go to
+they will go and try. She tries to dissuade them, as they are small and un-
+sightly. In evening they take squash seeds and some little sticks and go to
 village. They make stone traps to catch mice near maiden's house. She sees
 them, and asks what they are doing. She asks them to set traps at her house,
 as there are many mice. They set traps in house and near mealing bin. They
@@ -13474,7 +14635,8 @@ to put very little in mouth, but it increases. Maiden grinds corn for three days
 
 March, 1905. The Traditions of thf. IIopi — Votii. 287
 
-On fourth day grandmother calls for neighbors to come and assist in headwashing. Maiden sits close to kiva entrance, and clouds come and rain upon
+On fourth day grandmother calls for neighbors to come and assist in head-
+washing. Maiden sits close to kiva entrance, and clouds come and rain upon
 her. Prtokongs constantly play with ball and stick, and with feathered arrows.
 Spiders prepare bridal costume. One day Spider Woman washes heads of
 Prtokong and bride. She gives maiden bridal costume and sends her to
@@ -13493,7 +14655,8 @@ throughout field. When he tells grandmother, she calls him fool, and tells
 him to go and " wiklolantanangwu. " He goes and obtains fat, which he scatters
 through corn-field. He returns without having hoed. When he tells Spider
 Woman what he has done, she calls him great fool, and explains that she
-meant he was to hoe field. Prtokong finds father-in-law very sad about condition of corn. He tells him hoeing shall be done that day. They go to field.
+meant he was to hoe field. Prtokong finds father-in-law very sad about con-
+dition of corn. He tells him hoeing shall be done that day. They go to field.
 Spider Woman asks clouds to hoe field. While men are hoeing, clouds come
 and water runs through corn-field in streamlets, covering up grass with sand
 and earth. Prtokong's wife bears son, who grows up and plays with children.
@@ -13535,9 +14698,11 @@ had been made for her, but she is reconciled when her Mhos are revived.
 26. — The Pookongs and the BAlOlookong.
 
 While maiden is dipping out water at spring, Balolookong comes out, and
-by strong inhalations draws her towards him. He embraces her and disappears with her in water. Mother goes to look for her, and finds her tracks
+by strong inhalations draws her towards him. He embraces her and disap-
+pears with her in water. Mother goes to look for her, and finds her tracks
 descending to water, and jug is standing there and old blanket. She tells
-father, who at once makes ball and arrow and takes them to house of Pdokonghoya and his brother. They are romping, but their grandmother, Spider Woman,
+father, who at once makes ball and arrow and takes them to house of Pdokong-
+hoya and his brother. They are romping, but their grandmother, Spider Woman,
 makes them be quiet. She gives man small ball of huriishiki, which increases
 as he eats from it. He gives bows to youths and eagle nakwdkwosis to Spider
 Woman, who tells him what to do. He invites friends, and they make many
@@ -13578,6 +14743,8 @@ trimi'iala and other for juniper branches. When former returns she pours
 water into vessel and puts hook from tom«'»ala pods into neck and another into
 
 
+March, 1905. The Traditions of the Hopi — Voth. 289
+
 back of coyote, which she places into water, covered with cloth. She twists
 and turns by hooks and then pulls off skin of coyote. She finds maiden in
 vessel, with clothes on and hair in curls. When juniper conies, she bathes
@@ -13594,7 +14761,8 @@ cordially, and they grind corn together as formerly. In evening they go to
 spring for water. Yellow Corn-Ear maiden notices that friend uses peculiar
 little vessel (given her by Spider Woman), and that water running into jug
 shows different colors of rainbow. Friend drinks and says water tastes good.
-She hands jug to Yellow Corn-Ear maiden, who drinks and turns into bullsnake. Friend tells her to remain so, takes jug, and returns to village. Bull-
+She hands jug to Yellow Corn-Ear maiden, who drinks and turns into bull-
+snake. Friend tells her to remain so, takes jug, and returns to village. Bull-
 snake maiden later on goes to village and is killed by her parents, who do not
 know her. Her soul goes to Skeleton House, and ever since sorcerers occasionally
 leave their graves in form of bull-snakes.
@@ -13630,6 +14798,8 @@ and tells them not to be homesick, as he lives well. After that when father is
 walking in field that comes there.
 
 
+290 Field Columbian Museum — Anthropology, Vol. VIII.
+
 20. — A Journey to the Skeleton House.
 
 In Shongopavi, son of village chief often sits looking at graveyards and
@@ -13640,13 +14810,15 @@ says he has medicine, and goes for it. Next day young man is dressed as
 though dead. Badger Old Man spreads white 6wa on floor, and tells young
 man to lie down on it, and places medicine in his mouth, in his ears, and on
 his heart. Young man eats medicine and "dies." Then he sees path leading
-westward to Skeleton House, which he follows, and he sees one sitting in inclosure of sticks who will be long time in getting to Skeleton House. He pro-
+westward to Skeleton House, which he follows, and he sees one sitting in inclos-
+ure of sticks who will be long time in getting to Skeleton House. He pro-
 ceeds westward through cactus and agave plants, and arrives at steep bluff.
 Chief sitting there points out direction of house, which young man cannot see
 for smoke. Chief places young man's kilt on ground,- places him on it, and
 throws it over precipice. Young man slowly descends on kilt as if flying with
 wings. On arriving on ground he proceeds and comes upon Skeleton Woman.
-She tells him that smoke is from where wicked people are thrown in and destroyed. He goes on to Skeleton House, where Skeleton people assemble to
+She tells him that smoke is from where wicked people are thrown in and de-
+stroyed. He goes on to Skeleton House, where Skeleton people assemble to
 look at him. They ask who he is, and then take him to Bear Clan. There is
 ladder up to house. He tries to ascend, but rungs are made of sunflower
 stems and first one breaks as he steps on it. He stays down and Skeletons
@@ -13669,7 +14841,8 @@ because people are living in light here.
 }o. - -Skki.k ton Woman and the Hunter.
 
 Poor y 1 null does not go with young men to hunt when snow on ground.
-( >lder men in kiwi ask why he has not gone on hunt. He says he has no moccasins. They make him pair of moccasins and some leggings, and give him old
+( >lder men in kiwi ask why he has not gone on hunt. He says he has no mocca-
+sins. They make him pair of moccasins and some leggings, and give him old
 blanket, also bow and arrows and smut' throwing sticks. They then explain
 difference between rabbit tracks and those of other animals. He leaves village
 and finds rabbit tracks, which he follows for long distance. Comes upon tired
@@ -13679,6 +14852,8 @@ and she gives him brain i>f corpses and flies, which lie pretends to eat. She is
 Skeleton Woman. He gives her rabbit. She says she is going to dance, and
 when she is through thoy will sleep together. She goes to another room,
 
+
+March, 1905. The Traditions of the Hopi — Voth. 291
 
 leaving him to attend to fire. He sees opening of kiva closed with threads
 stretched in every direction. Woman comes again dancing and singing, and
@@ -13692,7 +14867,8 @@ village pursued by Skeleton Woman, who fails to overtake him.
 
 31. — MAsauwuu Marries a Maiden.
 
-Beautiful maiden who refuses to marry is visited by Masauwuu as handsome young man. She asks who he is, and after conversing all evening, she
+Beautiful maiden who refuses to marry is visited by Masauwuu as hand-
+some young man. She asks who he is, and after conversing all evening, she
 promises to marry him. Next morning she sends tray of muhpfki to his
 grandmother. She gives Masauwuu quantity of rabbit meat for maiden.
 Next morning he comes and takes her to his grandmother's house.
@@ -13735,6 +14911,8 @@ valley near Green Bluff.
 White Corn- Ear Maiden refuses all offers of marriage. Inhabitants of
 kiva, who are sorcerers, decide to destroy her. Thev make wheel of feathered
 
+
+292 Field Columbian Museum — Anthropology, Vol. VIII.
 
 arrows, one of which is poisoned. Into wheel they wrap breath of maiden.
 Young men play with wheel and arrows in front of maiden's house, and one of
@@ -13789,12 +14967,15 @@ much patched. Grandmother gives him two fawns and tells him to take them
 to maiden at certain rock. In evening he goes and finds maiden pulverizing
 
 
+March, 1905. The Traditions of the Hopi — Voth. 293
+
 some rock. She sees fawns and asks for them. He gives her fawns and she
 takes them home. When grandmother hears, she tells young man to go to
 maiden's house, and if parents talk good to bring her. In evening he goes
 and maiden's parents recognize him. Father tells daughter to fill tray with
 meal and go along with young man. She goes with him, and is greeted by
-grandmother, who after they have eaten, shows her small room with very poorlooking couch on which to sleep. Maiden grinds corn for four days, but there
+grandmother, who after they have eaten, shows her small room with very poor-
+looking couch on which to sleep. Maiden grinds corn for four days, but there
 is no one to prepare her bridal costume. Grandmother tells grandchild to go
 and cry out for relatives to come and eat. They come and have good feast,
 after which they give bundle containing costumes. In morning bride goes
@@ -13842,9 +15023,12 @@ voice and sees small hole by side of small cornstalk. It is house of Spider
 Woman. He enters and she spins web across opening. Mana tracks him to
 
 
+294 Field Columbian Museum — Anthropology, Vol. VIII.
+
 edge of corn-field, but cannot find him. She takes mirror from bosom and
 sees opening of Spider's hole reflected. She tells youth to come out, and he
-does so very dejected. Mana goes to hide fourth time. She crosses watermelon patch, goes into ditch, and turns into tadpole. Youth hunts for her
+does so very dejected. Mana goes to hide fourth time. She crosses water-
+melon patch, goes into ditch, and turns into tadpole. Youth hunts for her
 and being tired, drinks from ditch, but cannot find her, and tells her to come
 out. Mana emerges from water and tells him she saw him drink. Youth
 again goes to hide, and Spider Woman tells him to go to his uncle Ahn who
@@ -13864,7 +15048,8 @@ flies off. Fly objects, and says she will go and hunt child when she has sucked
 meat. Woman tells Fly where boy went, and Fly goes to field. She discovers
 traces of blood, and opens hole. She finds grave, and sucking all blood from
 first opening, ejects it into body. Heart begins to beat, and soon youth rises
-up. He complains of thirst, and Fly tells him to go to ditch and drink. Afterwards they return to house of parents. Fly tells them that maiden has youth's
+up. He complains of thirst, and Fly tells him to go to ditch and drink. After-
+wards they return to house of parents. Fly tells them that maiden has youth's
 shirt and beads, and that he is to go for them, and when she gives him shirt he
 is to shake it at her, and so also with beads. Fly tells youth not to eat pflci
 rolls maiden will offer him. He goes, and mana brings food which he declines.
@@ -13888,7 +15073,8 @@ her dross in costume and dance for him. He lays off costume and hands it to
 her. She dresses up. dances and sings. At last words she jumps into kiva
 through opening, closing it quickly, and te-lls him to go. Youth goes home
 and grandmother is angry, but she says maiden is hungry for meat and he
-must go and hunt. After eating he goes hunting and kills rabbit. Grandmother tells him to take rabbit and offer it to maiden if she will dance for
+must go and hunt. After eating he goes hunting and kills rabbit. Grand-
+mother tells him to take rabbit and offer it to maiden if she will dance for
 him again. He is then to cover opening with trap door quickly, so that she
 
 
@@ -13897,7 +15083,8 @@ M arch . 1905. The Traditions of the Hopi — Voth. 295
 cannot get back. Youth goes and maiden dances at edge of kiva opening,
 ready to slip in again. She sings and at last word youth throws game quite
 distance from kiva. Maiden rushes for it and youth closes opening. Mana
-sees she is defeated and lays off entire costume. Youth takes it to grandmother, who is very happy.
+sees she is defeated and lays off entire costume. Youth takes it to grand-
+mother, who is very happy.
 
 39. — Tiik Two Pueblo Maidens Who were Married to the Night.
 
@@ -13915,7 +15102,8 @@ and says they will overtake them. When three come nearly to village, clouds
 overtake them and women are killed by lightning. Elder sister is delivered of
 little boy and younger one of little girl. Children live and nurse. Mothers
 are alive during night, but are dead during day. When children are grown
-they ask about father. Mothers tell them that grandparents live in village near, but that they are bad. They contend and kill any one who is
+they ask about father. Mothers tell them that grandparents live in vil-
+lage near, but that they are bad. They contend and kill any one who is
 beaten, and who cannot guess what is in something hanging on top of ladder,
 which is little turtle. Children start and mothers ask them to bring them
 clothes: and say that if grandparents do not say anything they also will go.
@@ -13923,7 +15111,8 @@ Children arrive at village, enter kiva, and sit down. When asked they tell
 who they are. When they have eaten they have to play game and boy wins.
 They are then asked to guess what is wrapped up at top of ladder. They
 equivocate and then brother says little turtle. Grandfather admits they are
-his grandchildren and tells them to kill him. They refuse, but ask for something They obtain bow and arrows and clothes and then clothes for mothers.
+his grandchildren and tells them to kill him. They refuse, but ask for some-
+thing They obtain bow and arrows and clothes and then clothes for mothers.
 They say mothers will come if nothing is said to them. Children return to
 mothers. After evening meal all dress up and proceed to village, all abreast.
 They ascend ladder and women call out and receive no answer. They descend
@@ -13940,8 +15129,11 @@ smile Youth talks with maidon and asks her to marry him. She promise's if
 parents are willing and he says he will fetch her to-morrow. Grandmother will
 not believe him, but next evening he goes and brings maria to grandmother's
 house She grinds corn four days, but there is no one to make her bridal
-costume Young man goes hunting and brings home much meat. Next morning grandmother washes head of bride and then goes hunting around. She
+costume Young man goes hunting and brings home much meat. Next morn-
+ing grandmother washes head of bride and then goes hunting around. She
 
+
+296 Field Columbian Museum — Anthropology, Vol. VIII.
 
 finds nothing in rooms on north, west, and south sides, but on coming out of
 room on east side she brings complete bridal costume. She dresses up bride,
@@ -13954,15 +15146,18 @@ morning she goes to kiva for father and adds that in four days' there will be
 war. Next day she repeats this, saying there will be war in three days. On
 third day she says to-morrow there will be war. Men make bows and arrows
 all day. Next morning she says there will be war that day. Navaho approach
-village and attack men in fields. Men of village descend to meet them. Hiy6natitiwa and father-in-law, well armed, go to old woman's house. She goes into
+village and attack men in fields. Men of village descend to meet them. Hiy6n-
+atitiwa and father-in-law, well armed, go to old woman's house. She goes into
 different rooms and calls for Puma, Bear, Wild Cat and Wolf. Hopi meet
-Navaho, who ask where Hiy6natitiwa is. While talking young man and fatherin-law descend mesa, accompanied by four animals. Animals rush on Navaho,
+Navaho, who ask where Hiy6natitiwa is. While talking young man and father-
+in-law descend mesa, accompanied by four animals. Animals rush on Navaho,
 who are nearly all killed, and also Hopi who have planned raid to get youth
 out of way and steal his wife.
 
 41. — The Shongopavi Maiden Who Turned into a Dog.
 
-In Shong6pavi lives a handsome youth whom all maidens ask for. Badlooking maiden grinds coarse meal, puts it into tray and sings while throwing
+In Shong6pavi lives a handsome youth whom all maidens ask for. Bad-
+looking maiden grinds coarse meal, puts it into tray and sings while throwing
 it to chfro birds. In evening birds assemble at m£na's house and after that
 mdna always feeds them. Youth also makes tray and hands it to maidens
 saying that who opens it shall get him. No one can open it. Tray comes to
@@ -13992,6 +15187,8 @@ of people and find them in timber. People return to Orafbi, those two taking
 lead.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 297
+
 43. — Big Head and Goat Horn.
 
 Big Head and Goat Horn are friends, but live so far apart in Oraibi they
@@ -14005,12 +15202,15 @@ they kill goat cut it up.
 
 Two Oraibi women are great friends. They meet returning from getting water
 and Shovfviounom asks Kavushkavuwnom what she is getting water to cook
-Latter says dish of young squashes, and asks friend to visit her. Shovfviounom goes home, prepares some hurushuki and takes it to house of friend, who
+Latter says dish of young squashes, and asks friend to visit her. Shovfviou-
+nom goes home, prepares some hurushuki and takes it to house of friend, who
 has prepared young squashes. While eating they converse, and, after visiting
 awhile, Shovfviounom returns home. Next day when returning from spring
-she meets friend, who asks her what she is getting water to cook. Shoviviounom says Tav6chona, and asks friend to visit her. On return Kavushkavuw-
+she meets friend, who asks her what she is getting water to cook. Shoviviou-
+nom says Tav6chona, and asks friend to visit her. On return Kavushkavuw-
 nom prepares some hurushuki and proceeds to house of friend, who prepares
-rabbit meat. They eat and converse until sun goes down. Then Kavushkavuwnom returns home.
+rabbit meat. They eat and converse until sun goes down. Then Kavushkav-
+uwnom returns home.
 
 45 — How the Children of PivXnhonkapi Obtained Permission to
 
@@ -14045,6 +15245,8 @@ influences bad people so that they get sick and some die. He despoils people
 in other ways, some tx?ginning to steal. Good people, whose heart is not strong
 
 
+298 Field Columbian Museum — Anthropology, Vol. VIII.
+
 are thus turned into bad people. Some one else tries to counteract doings
 of Crow, but Hopi do not know who he is or where he lives. He is not so
 strong as Crow. When Hopi are under influence of Crow, other power makes
@@ -14070,7 +15272,8 @@ mistake and is very unhappy. When Rain Deity awakes he misses costume.
 He follows tracks to house of maiden and then to house of Coyote, where he
 finds her. He returns home very angry. Young men of village hear and go
 to kill Coyote. He manages to escape unhurt and from distance makes defiant
-gesture at pursuers. Rain Deity afterwards strikes Coyote dead with lightning. Maiden returns to her home, but leads life of lewdness.
+gesture at pursuers. Rain Deity afterwards strikes Coyote dead with light-
+ning. Maiden returns to her home, but leads life of lewdness.
 
 4(>. — Chorzhukiqolo axp tiik Eaclks.
 
@@ -14091,10 +15294,13 @@ appears jumping up and down edge of bluff. He speaks to Wren, but receives
 no answer. Black Spider comes, having been informed by Wren, and pities
 him. Spider goes and brings him two small downy turkey feathers to keep
 him from getting cold, hi morning Wren comes again and makes ladder down
-narrow crack to ground with its feathers, which it pulls out, leaving itself entirely naked, having kept only its bill. Young man follows Wren down ladder
+narrow crack to ground with its feathers, which it pulls out, leaving itself en-
+tirely naked, having kept only its bill. Young man follows Wren down ladder
 and reaches ground. Wren replaces feather* in body, and, after directing
 young man where to go, leaves him. He comes to place and hears voice of
 
+
+March, 1905. The Traditions of the Hopi — Voth. 299
 
 Spider Woman, who invites him in. She enlarges opening and he enters. She
 asks him to live with her and gives him small piece of doughy mush and half
@@ -14107,14 +15313,16 @@ large number of birds, and Spider Woman says they can now eat meat and
 no longer suck it. On fourth day he goes westward from lake to see who it is
 Spider Woman has told him is dangerous. He kicks ball before him and all
 at once it disappears. It has dropped into kiva. Some one from within tells
-him to come in. He sees ball lying north of fireplace. Man in kiva is Hasohkata and has eyelids hanging down on breast. They play totolospi and Hasoh-
+him to come in. He sees ball lying north of fireplace. Man in kiva is Hasoh-
+kata and has eyelids hanging down on breast. They play totolospi and Hasoh-
 kata beats twice. He tells young man to lie down outside of entrance of kiva
 and ties his hands and feet. Spider Woman goes to look for him and finds
 him tied. She goes home to bring him two fuzzy turkey feathers. On return
 she calls her people, and animals of prey come. She tells them she wants them
 to go and take grandchildren from Hasohkata and gamble with him. While
 Hdsohkata is laughing at young man, rescuers arrive at kiva. Spider Woman
-takes cup game. Mole proceeds under ground. Spider Woman tells Hasohkata they have come to gamble with him. She puts four gaming cups on
+takes cup game. Mole proceeds under ground. Spider Woman tells Hasoh-
+kata they have come to gamble with him. She puts four gaming cups on
 north side of fireplace. By aid of mole, who is under floor and pushes little
 ball under cup, they beat Hdsohkata, who tells them to take young man along.
 Spider Woman finds ball, which disgusts Hasohkata, and he challenges them to
@@ -14124,7 +15332,8 @@ out so much that Hdsohkata considers himself beaten. He tells them to take
 all he has. There are many objects in kiva he has taken away from his victims.
 They take everything, and then Bear grabs him and tears out his heart. Wolves
 tear his corpse to pieces and devour it. Animals do so still, and this is why
-Hopi hunt and kill them. Spider Woman sends animals away and takes grandchild home with her. Wren finds out that young man's parents are longing
+Hopi hunt and kill them. Spider Woman sends animals away and takes grand-
+child home with her. Wren finds out that young man's parents are longing
 for him and tells Spider Woman. She says that next day she will go with
 him. They go to opening through which eagles brought him. Spider Woman
 places sticks around it and spins much web. Young man mounts her back
@@ -14145,6 +15354,8 @@ eats. He stays four days in Hawk's house. Then Hawk takes him on his
 back, and, after circling round Xavaho camp number of times, flies with
 child to village of Orafbi.
 
+
+300 Field Columbian Museum — Anthropology, Vol. VIII.
 
 51. — Muyingwa, Two Children, and the Humming-Bird.
 
@@ -14169,7 +15380,8 @@ hungry. Muyingwa tells him to take what he wants. Bird takes roasting
 corn ear and carries it to opening. Children are thankful to bird and ask it
 to hunt their parents. It flies north and finds father and mother of children.
 They are much emaciated. Man asks bird to procure them some food. It
-flies away and tells children atxrnt parents. They ask it to bring them something to eat, and bird flies away. Muyingwa ascends to first kiva, and it
+flies away and tells children atxrnt parents. They ask it to bring them some-
+thing to eat, and bird flies away. Muyingwa ascends to first kiva, and it
 rains little about Orafbi. In four days he ascends to next kiva, and it again
 rains. He ascends to third kiva and it rains considerably around Orafbi.
 After four days more he emerges from last kiva and finds grasses and herbs
@@ -14178,7 +15390,8 @@ village chiefs and owners of Orafbi.
 
 52. — The KalAtoto who Wished to have Hair on his Head.
 
-Kalitoto often visits Orafbi to find something to eat among refuse. Children tease him and snap their fingers against his head so that he nearly dies.
+Kalitoto often visits Orafbi to find something to eat among refuse. Chil-
+dren tease him and snap their fingers against his head so that he nearly dies.
 He then retires to house. He wonders how he can get hair on his head like
 children, and goes to timber and gets some pitch. He goes to village to hunt
 for hair and finds some on piles of refuse. Next morning he puts pitch on his
@@ -14194,6 +15407,8 @@ pasting new hair to it. He sleeps well, but pitch has become warm during
 night and adheres to floor on which he has been sleeping. He tries to rise,
 but cannot, and dies of hunger.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 301
 
 53. — The Child who Turned into an Owl.
 
@@ -14220,7 +15435,8 @@ Man from Wdlpi goes to attend dance at Shong6pavi. He sees children
 hunting lizards and shooting arrows at them. Proceeding, he hears voice
 and sees little lizards sitting and making peculiar sounds. He watches them
 running around and playing with each other. Man has lost so much time he
-returns and relates that he has not seen dance, but has watched children hunting and singing song, which is forever afterwards called Mish6ngnovi Song.
+returns and relates that he has not seen dance, but has watched children hunt-
+ing and singing song, which is forever afterwards called Mish6ngnovi Song.
 
 55. — The Rooster, the Mocking-Bird, and the Maiden.
 
@@ -14237,7 +15453,8 @@ light. Rooster goes in search of assistance. While resting near b£ho shrine,
 somebody tells him to come in. He enters and finds many maidens. He
 is seated and given shelled corn to eat. He goes on his journey until he
 comes to large rock with opening. He crows repeatedly and door opens. He
-enters and finds many roosters and chicken men. women, youths and maidens After he has been fed, they ask what he has come for. He tells them
+enters and finds many roosters and chicken men. women, youths and maid-
+ens After he has been fed, they ask what he has come for. He tells them
 about maiden and of his contention about light. They promise to try and do
 something for him, but that Mocking-bird understands something and has
 assistance of Kwdtokwuu. In evening they sing and crow all night. After
@@ -14246,8 +15463,11 @@ Chief says they have accomplished it right and that rooster can go hoem
 without fear. He returns running very fast. He is again fed by maidens.
 
 
+302 Field Columbian Museum — Anthropology, Vol. VIII.
+
 They tie dry corn-husks to his tail. As he runs they rattle, and as Tie is scared
-he runs very fast. Next day he walks through village and then notifies Mocking-bird to come that night and watch him. In evening Mocking-bird gets
+he runs very fast. Next day he walks through village and then notifies Mock-
+ing-bird to come that night and watch him. In evening Mocking-bird gets
 to Rooster's house, and Kwdtokwuu goes to his house. Rooster sings all night,
 and when he has nearly done Mocking-bird slips away and notifies Kwa*tokwvu.
 w-io spreads his large wings across eastern sky, completely covering up dawn.
@@ -14255,7 +15475,8 @@ Rooster crows after singing last two songs, but it does not become light, so he
 has failed. Mocking-bird flies away and sun soon comes up. In evening
 Mocking-bird invites Rooster to come and watch him. He sings and whistles all
 night, and after last two songs sun rises. Maiden marries Mocking-bird. She
-bears two children, boy and girl. Boy is child of Rooster and girl of Mocking-bird. Women since then said to be children of Mocking-bird, and that
+bears two children, boy and girl. Boy is child of Rooster and girl of Mock-
+ing-bird. Women since then said to be children of Mocking-bird, and that
 is why they talk and jabber so much. Men are considered children of Rooster
 and that is why they are so gentle and docile.
 
@@ -14274,7 +15495,8 @@ him very little, which he takes to his mother, and she is happy.
 57. — Tin-: Locust that Camk to Lin. wiiilk Bkim; Roasti.-d.
 
 Many locusts live in valleys around Oraibi. Children capture many,
-which women roast in pots with salt water. Young men used to hunt jackrabbits, and cotton-tail rabbits, but prefer to hunt locusts. While old woman
+which women roast in pots with salt water. Young men used to hunt jack-
+rabbits, and cotton-tail rabbits, but prefer to hunt locusts. While old woman
 i.- stirring locusts in pot, one of tlu-m Li comes alive, .sings ."('Tig about locusts
 bi'ing meat instead of rabbits, while slow lv crawling up stirring stick. W< man
 replies to it and locust flies away with hissing sound.
@@ -14295,6 +15517,8 @@ turtle then swi ns around and laughs at him. Coyote threatens to kill turtle's
 mother. He meets turtles on way back to water and tries to seize one. It
 draws its head, feet, and tail into shell and Coyote cannot hurt it. He jumps
 
+
+March, 1905. The Traditions of the Hopi — Voth. 303
 
 toward others with same result, and then leaves them in disgust. Turtle
 mother finds cactus, which child eats. He then tells mother of his adventure
@@ -14351,6 +15575,8 @@ Coyote goes to see his friend Frog. He is raided by dogs and jumps down
 mesa, but is not killed. After he has drank much water, Frog suggests that
 
 
+304 Field Columbian Museum — Anthropology, Vol. VIII.
+
 they sit down. Coyote asks Frog to dance for him and Frog jumps into deep
 water. He comes up with mouth wide open. He is pregnant. He tells
 Coyote to draw him out. Coyote grasps him by arms and throws him on
@@ -14385,12 +15611,14 @@ become friends again.
 
 64. — The Coyote and the Humming-Bird.
 
-Coyote and Humming-bird both have children and are good friends. Coyote goes to place where is refuse of village to look for pieces of skin, and bird
+Coyote and Humming-bird both have children and are good friends. Coy-
+ote goes to place where is refuse of village to look for pieces of skin, and bird
 goes to place close by and buries himself, his bill only protruding. Coyote
 comes and thinks bill is needle and pulls at it. Bird says it is his bill and
 laughs at Coyote. They go to bird's house and converse. In evening Coyote
 goes home, inviting bird to visit him to-morrow. Next morning bird goes
-to Coyote's house, first hunting worms. Near house she sees something protruding from ground and thinks it is gourd jug. She pulls at it and Coyote
+to Coyote's house, first hunting worms. Near house she sees something pro-
+truding from ground and thinks it is gourd jug. She pulls at it and Coyote
 says it is his snout. Coyote feeds friend on juniper berries, Coyote eating
 some. After talking awhile bird returns home.
 
@@ -14402,6 +15630,8 @@ mouth. Once when she returns from spring with mouth full of water, she sees
 Wren jumping from one rock to another, singing. Coyote laughs and spills
 water. She goes again to spring and on return again laughs at Wren and
 
+
+March, 1905. The Traditions of the Hopi — Voth. 305
 
 spills water. She tells Wren that she is going again for water and that if
 Wren is still doing that on her return she will devour him. While Coyote
@@ -14432,7 +15662,8 @@ Turtle-dove cuts her hand while rubbing out seed from tassels of kwdkwi
 grass. It bleeds profusely, and while she moans Coyote approaches. He asks
 if she is singing and, when she says she is crying, he tells her to sing again or
 he will devour her. Dove sings again and Coyote imitates her and runs away.
-He stumbles over rock and falls down. He loses song and goes back to Turtledove. He makes her sing song again. He runs back singing, but again
+He stumbles over rock and falls down. He loses song and goes back to Turtle-
+dove. He makes her sing song again. He runs back singing, but again
 stumbles and falls, and again returns. Turtle-dove goes away and leaves stone
 resembling her in place where she has been sitting. Coyote says he has again
 fallen and forgotten song. He threatens to devour Turtle-dove if she does
@@ -14455,6 +15686,8 @@ Coyote runs home with it. Little Coyotes wrangle over rabbit, tear it to pieces,
 some getting nothing and remaining hungry. Next morning Coyote and wife
 go in search of food. Wife enters woods and hears Blue Jays in tree. They
 
+
+306 Field Columbian Museum — Anthropology, Vol. VIII.
 
 arc dancing and ask her to join them. She says she would like to, but cannot
 get up there. Blue Jays put some of their wings, tails and feathers on her
@@ -14499,7 +15732,8 @@ threw bones outside and children got alive again beautifully figured. In
 morning Coyote gets wood and makes oven very hot. Then he throws all
 little Coyotes in and plasters oven up. In evening he takes them out thoroughly
 baked, eats meat, but does not hurt bones, which he gathers into basket.
-During night Turkey mother sends her children away to San Francisco Mountains. She rolls up small blankets and places them on floor to make them appear
+During night Turkey mother sends her children away to San Francisco Moun-
+tains. She rolls up small blankets and places them on floor to make them appear
 as sleeping. Then she follows children. When sun comes out Coyote takes
 tray containing children's bones, waves it up and down, singing song, and
 throws bones away. Nothing comes alive and only bones are there. He is
@@ -14529,7 +15763,8 @@ him and are pleased that he is dead.
 
 73. — The Coyote and the Porcupine.
 
-Coyote goes to visit his friend Porcupine. After talking long time Porcupine tells Coyote to build lire. He makes large fire and then Porcupine draws
+Coyote goes to visit his friend Porcupine. After talking long time Porcu-
+pine tells Coyote to build lire. He makes large fire and then Porcupine draws
 small pointed stick from his hair, and thrusts it into his nose. Blood and fat
 drops out on fire and is roasted. He^hands it toXoyote to eat. They converse
 until evening, and as Coyote leaves, he invites Porcupine to visit him next
@@ -14558,10 +15793,13 @@ enlarging hole, and Coyote scratches out loose dirt. Mole continues hole to
 rock and while Hopi an? at work he reaches fool and hands it to Badger and
 Badger to Coyote, who carries it to his hous^. When Hopi are through with
 work, chief sends 'maidens for food. They go to rock and find food gone.
-Coyote, Badger and Mole divide food, on which they live for some time. Afterwards Coyote visits Badger, who has cut into small pieces some loldokyongs and
+Coyote, Badger and Mole divide food, on which they live for some time. After-
+wards Coyote visits Badger, who has cut into small pieces some loldokyongs and
 roastfd them. Coyote eats food with relish and asks Badger where he got it.
 He replies that he opened his side and took fat from his intestines. He shows
 
+
+308 Field Columbian Museum — Anthropology, Vol. VIII.
 
 Coyote knife with which he opened body, and says it does not hurt. Coyote
 takes knife and invites Badger to visit him to-morrow. When he has gone,
@@ -14605,12 +15843,15 @@ to set l>efore him, so he opened his abdomen, took his entrails out and roasted
 them, and his abdomen closed up again. In proof he shows abdomen with
 little scratch he has made on it. Coyote believes him and says he will do that,
 too. He asks Badger to visit him in morning and borrows knife and pot. In
-morning Coyote puts pot on fire, opens abdomen with knife and paws and entrails drup out. He takes hold of largo intestine and drops dead. Badger
+morning Coyote puts pot on fire, opens abdomen with knife and paws and en-
+trails drup out. He takes hold of largo intestine and drops dead. Badger
 comes and finds friend dead. He takes fat from Coyote and returns to his
 house. He spreads fat on ant hill near and ants move away. This is why
 ants do not remain where coyote fat is placed and that Coyote fat is used for
 ant bites.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 309
 
 77. — The Coyote and the Kokontu-Maidens.
 
@@ -14667,6 +15908,8 @@ has put stone trap east of Coyote's house. At balance is some rabbit meat.
 Coyote presses towards meat, pulls at it, trap shuts and he dies there. Maidens
 
 
+310 Field Columbian Museum — Anthropology, Vol. VIII.
+
 going home in evening see him caught and laugh when they see arrow quiver.
 They go home and tell father, who says he will go there to-morrow. In morning
 he goes and finds Coyote* caught. He carries him to field, skins him, and hangs
@@ -14709,7 +15952,8 @@ mouth and then snake devours its victim.
 
 Rattlesnakes have kiva. During summer they run about as rattlesnakes,
 but in winter they are Hopi, their snake skins hanging on pegs on wall of kiva.
-One winter it snows very heavily. Around house of locusts, who live at Tuvanashavi, where is deep opening in earth, there is no snow, but elsewhere it is
+One winter it snows very heavily. Around house of locusts, who live at Tuvan-
+ashavi, where is deep opening in earth, there is no snow, but elsewhere it is
 very deep. It remains so long many Hopi freeze to death. Snake chief sends
 Sand Rattlesnake to see what their fathers at Tnvanashavi have to say at>out
 it. He becomes tired and cold, so he returns. Bull-snake goes, and he also
@@ -14721,10 +15965,13 @@ children are dying of cold, and asks them to come and assemble with them.
 They dress and paint up and tell Racer that in four days they will come over.
 
 
+March, 1905. The Traditions of the Hopi — Voth. 311
+
 Locust takes flute and blows path back to snake house, so that Racer arrives
 there in short time. Locusts come in evening of fourth day. Snakes and
 locusts have form of Hopi. Locusts are dressed in rabbit skins, and as they
-enter kiva it becomes warmer and warmer. Snake people soon begin to perspire. On leaving their own kivas, locusts have chirped through their flutes
+enter kiva it becomes warmer and warmer. Snake people soon begin to per-
+spire. On leaving their own kivas, locusts have chirped through their flutes
 and snow began to melt, and when they reach Snake kiva it has disappeared.
 They sing song and dance, and when through with dancing they go home.
 Snakes are bathed in perspiration and sleep well that night. In morning
@@ -14775,6 +16022,8 @@ him and rub him all over body and all at once run away. Man finds his leg in
 normal condition and goes home. Badger hears about it and is jealous. He
 
 
+312 Field Columbian Museum — Anthropology, Vol. VIII.
+
 feigns sickness, lying down, taking no nourishment and expectorating in bowl
 Sot three days. He sends to Mice doctors, asking them to have pity on him.
 They go to dwelling of Badger, who has hidden stick under his bed. Mice
@@ -14823,9 +16072,12 @@ brood live on him until latter can leave nest.
 Sparrow Hawk has children and hunts Grasshoppers and Prayer Beetles.
 Their mothers are very unhappy. Grasshopper mother sneaks out of house
 and is caught by Sparrow Hawk. She moans about her children and Sparrow
-Hawk releases her. Hopi children come and catch little Grasshoppers. Grasshopper mother tells them to go and catch young Sparrow Hawks. They go
+Hawk releases her. Hopi children come and catch little Grasshoppers. Grass-
+hopper mother tells them to go and catch young Sparrow Hawks. They go
 and take young Sparrow Hawks to village.
 
+
+March, 1905. The Traditions of the Hopi — Voth. 313
 
 93. — The Crow and the Hawk.
 Crow and Hawk, while hunting, meet, and Crow invites Hawk to visit
@@ -14861,7 +16113,8 @@ house all alone.
 96. — The Bee and the Asya.
 Bee and Asya are both women and have children. They are great friends.
 Asya has peach orchard an 1 relishes peaches very much. She visits Bee, who
-feeds her honey. They converse all day and Asya asks Bee to visit her in'morning. Bee has no wings and walks to friend's house. Asya gives her seat and
+feeds her honey. They converse all day and Asya asks Bee to visit her in'morn-
+ing. Bee has no wings and walks to friend's house. Asya gives her seat and
 feeds her peaches. She asks Bee if she likes peaches. Bee suggests she shall
 make some medicine for peaches, as they are sour, -(sya consents and Bee
 puts honey on them, making them sweet. Asya is happy and pulls out some
@@ -14878,6 +16131,8 @@ She asks them to go on, but they refuse until she offers them one division of
 corn-field. They then dance and sing. When through they fly to corn-field
 
 
+314 Field Columbian Museum — Anthropology, Vol. VIII.
+
 and devour corn. They eat beyond limit and maiden tries to drive them
 away, but cannot. She runs home and tells father. He hurries to field and
 finds Grasshoppers have eaten up all corn. He follows them and finding them
@@ -14889,7 +16144,8 @@ and now Grasshoppers live anywhere.
 It is hot and there is no rain. Beetles are very thirsty and some die.
 Chief proposes dance to bring rain and makes little song for them. They
 practice song and go to sleep. In morning chief makes four nakwakwosis and
-deposits them west of little village. He asks clouds in San Francisco Mountains to come quickly and bring some water. They dress up for dance and
+deposits them west of little village. He asks clouds in San Francisco Moun-
+tains to come quickly and bring some water. They dress up for dance and
 paint bodies black. Chief prays to clouds and Beetles are formed in line.
 They sing song and as they are singing clouds come and water falls, so that
 they can drink. When they have quenched thirst they are very happy and
@@ -14897,7 +16153,8 @@ run about.
 
 99. — Why the Ants are so Thin.
 
-Chief of Ants says that in four days they are going to have Katcina initiation. On fourth day three ants dress up as Katcinas. Some make sand picture
+Chief of Ants says that in four days they are going to have Katcina initia-
+tion. On fourth day three ants dress up as Katcinas. Some make sand picture
 in kiva and Ants bring in children to be initiated. Katcina priest relates story
 and four little K6yemsis have performance. At signal Katcinas come running
 and after circling kiva several times, enter it. They flog little Ant children
@@ -14931,6 +16188,8 @@ of dance they hand three of these prayer-offerings to village chief and to chief
 of Htickovi and his friend, fourth being retained by leader of Yayaponchatu
 
 
+March, 1905. The Traditions of the Hopi — Voth. 315
+
 dancers. In evening two chiefs and friend smoke over prayer-offerings and
 friend takes one to San Francisco Mountains to deposit among trees and high
 grass. Next night light is noticed in San Francisco Mountains. Each night
@@ -14962,7 +16221,8 @@ Sikyatki are very wicked, especially towards women. As they do not spare
 chief's wife, he determines to take revenge. He agrees with chief of Wdlpi
 that when people are planting in valley, Wdlpi shall come to village and destroy
 it. Wdlpi have balls of pitch and when Sikyatki people are in fields they rush
-upon village and kill women and children. Then they set houses on fire destroying village. People planting see smoke and rush to village, but only have
+upon village and kill women and children. Then they set houses on fire de-
+stroying village. People planting see smoke and rush to village, but only have
 planting sticks. Walpi are well armed and kill all people, including chief who
 instigated revenge.
 
@@ -14979,7 +16239,8 @@ again goes to Shongtfpavi to see friend and tells him to get ready for Katcina
 race. In four days four young men dressed as Katcinas go to Aodtovi taking
 presents of corn ears. They go to plaza, where young men of village come
 and race commences. Sometimes Katcinas win and then others win. The
-last bunch of corn ears is raced for by young men of village and Hdmsona Katcina. Young man outruns Katcina and on his return Hornsona throws him
+last bunch of corn ears is raced for by young men of village and Hdmsona Kat-
+cina. Young man outruns Katcina and on his return Hornsona throws him
 down and cuts his throat. Hornsona goes and motions to other Katcinas to
 
 
@@ -14995,7 +16256,8 @@ home. In night he goes to Orafbi and arranges with chief to destroy his people.
 He then produces two clay figures, one representing males and other females
 of his village, and tells him to select. Orafbi chief selects female. Next day
 he tells his warrior chiefs, and that people are to make bows and arrows. He
-sends three nephews to other Hopi villages to ask them to participate in destruction of Aoatovi. Chief of Shong6pavi says the wicked may do so, but
+sends three nephews to other Hopi villages to ask them to participate in de-
+struction of Aoatovi. Chief of Shong6pavi says the wicked may do so, but
 he refuses. On fourth day Orafbi set off in two parties for Aodtovi, going
 first to other villages. They meet towards evening and at sundown move
 towards Aodtovi. At foot of mesa chief and his wife come down to them with
@@ -15038,6 +16300,8 @@ and try to steal maidens. Early one morning they approach Walpi, but
 people are ready and rush down upon Orafbi. Large dog disables and kills
 
 
+March, 1905. The Traditions of the Hopi — Voth. 317
+
 many Orafbi. Orafbi flee and many are killed. Only few pass rock mentioned.
 On rock dog is engraved on account of what dog did in this battle.
 
@@ -15062,7 +16326,8 @@ where councils are held. Situation is discussed and warriors encouraged during
 night, but many Hopi go to Navaho with presents. These are weakened by
 blood-letting near ankle so that they may be recognized by Navaho next day
 through walking slowly. Immediately before sunrise Navaho ascend mesa
-and fill space north of village. Hopi warriors protect their bodies with buckskins and some have head-dresses of societies. War rites are celebrated and
+and fill space north of village. Hopi warriors protect their bodies with buck-
+skins and some have head-dresses of societies. War rites are celebrated and
 warriors are decorated with powdered war god vomisis stone. Leading Navaho
 rides up to Hopi, says something and shoots arrow without hitting any one.
 Battle begins and Hopi drive Navaho off mesa. Navaho who has lived in
@@ -15089,6 +16354,8 @@ by buckskins, and they abandon pursuit of him. Hopi discover that among
 Navaho are Hopi from Walpi disguised as Navaho. Brave warrior addresses
 them and they surround him. He is overpowered and killed and his heart
 
+
+318 Field Columbian Museum — Anthropology, Vol. VIII.
 
 torn out. This is seen by man hidden under rock. Walpi take victim on horse
 to Walpi and place him in small hut and throw stones upon him. Navaho
@@ -15127,7 +16394,8 @@ no. — The Early Spanish Missions at OraTbi.
 
 Long ago Spaniards make inroads on Orafbi. They make peace and
 Spaniards ask to be permitted to live in Oraibi. Hopi consent and assist
-Spaniards in building house. It is in spiral form and in center is house. Meeting house with bell tower is afterwards built. Hopi are baptised by Tfltdachi
+Spaniards in building house. It is in spiral form and in center is house. Meet-
+ing house with bell tower is afterwards built. Hopi are baptised by Tfltdachi
 who is joined by another Tnt£achi, who brings them clothing and shoes in
 carts on heavy wooden wheels. Hopi assemble on Sundays and priests speak
 to them. Soon they ask Hopi to work for them. They send them to springs
@@ -15143,9 +16411,13 @@ in council and finally decide to get rid of priest. Nobody will go, but finally
 Badger clan volunteers. They proceed to Mission and knock at door. Padre
 
 
+March, 1905. The Traditions of the Hopi — Voth. 319
+
 refuses to open it at first. When he does so they rush into room, drag him out
 of house, and cut his throat. They throw his body into gulch and pile stones
-upon it. They then wait to see what will happen. Other villagers follow example and get rid of their padres. They expect Spaniards will come to revenge
+upon it. They then wait to see what will happen. Other villagers follow ex-
+ample and get rid of their padres. They expect Spaniards will come to revenge
 brethren, but no one comes and they destroy houses of Spaniards, divide logs
 and timbers, and use them for kivas. Some of smaller bells still owned by Agave
 fraternity.
+

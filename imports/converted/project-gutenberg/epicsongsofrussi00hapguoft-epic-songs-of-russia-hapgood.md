@@ -7,13 +7,7 @@ in  2007  with  funding  from
 IVIicrosoft  Corporation
 
 
-http://www.archive.org/details/epicsongsofrussiOOhapguoft
-
-
 THE
-
-
-EPIC  SONGS  OF  RUSSIA
 
 
 BY
@@ -84,12 +78,10 @@ I
 
 T  CANNOT  forbear  to  bespeak  a  welcome  for
 this  spirited  and  sympathetic  version  of  the
-more  important  of  the  Great  Russian  Popular  He-
-roic Songs.  Besides  the  pleasure  which  may  be
+more  important  of  the  Great  Russian  Popular  Heroic Songs.  Besides  the  pleasure  which  may  be
 got  from  it,  it  will  help  to  an  appreciation  of  that
 large  class  of  our  fellow-creatures,  in  the  past  and
-in  the  present,  who  have  been  educated  by  tradi-
-tion and  not  by  books,  and  who,  though  living  on
+in  the  present,  who  have  been  educated  by  tradition and  not  by  books,  and  who,  though  living  on
 oats,  feel  and  cherish  poetry  not  less  than  those
 who  have  been  nursed  in  comfort  and  schooled  in
 literature.  The  songs  and  tales  of  this  class  have
@@ -110,11 +102,9 @@ to  students  of  popular  tradition  who  have  been  so
 unfortunate  as  to  neglect  Russian;  for  nothing
 of  the  same  kind  and  compass  has,  so  far  as  I
 know,  been  published  in  any  language  of  Western
-Europe.  The  translator  has  said  in  her  introduc-
-tion all  that  I  should  otherwise  have  felt  called  to
+Europe.  The  translator  has  said  in  her  introduction all  that  I  should  otherwise  have  felt  called  to
 say,  and  has  left  it  for  me  only  to  express  the
-obligation,  which  I  for  one  feel  to  her,  for  under-
-taking this  work,  and  the  wish  that  it  may  meet
+obligation,  which  I  for  one  feel  to  her,  for  undertaking this  work,  and  the  wish  that  it  may  meet
 with  the  reception  which  I  think  it  deserves.
 
 F.  J.  CHILD.
@@ -127,8 +117,7 @@ npHOROUGH  study  of  the  epic  poems  of  Russia,
 -^  (hylinas)  as  of  other  branches  of  folk-lore,  is
 not  to  be  thought  of  at  the  present  day,  without  the
 aid  of  the  comparative  method,  which  must  begin
-in  the  circle  of  the  other  Slavic  literatures,  Bulga-
-rian, Servian,  etc.
+in  the  circle  of  the  other  Slavic  literatures,  Bulgarian, Servian,  etc.
 
 It  has  not  seemed  to  me  advisable  to  enter  upon
 so  vast  a  subject  in  this  volume,  which  is  intended
@@ -141,10 +130,8 @@ epic  poems  of  other  nations.
 As  it  is  extremely  improbable  that  a  complete
 translation  of  these  Songs  will  ever  be  published,  a
 word  of  explanation  is  necessary  with  regard  to  the
-method  I  have  pursued.  —  Of  each  Song  many  ver-
-sions exist,  varying  in  number  from  three  to  three
-dozen  or  more.  Some  of  these,  though  mere  frag-
-ments, contain  important   facts.     Others  are  ren-
+method  I  have  pursued.  —  Of  each  Song  many  versions exist,  varying  in  number  from  three  to  three
+dozen  or  more.  Some  of  these,  though  mere  fragments, contain  important   facts.     Others  are  ren-
 
 
 y    ;^:
@@ -156,19 +143,14 @@ dered  inordinately  long  by  the  repetition  of  speeches,
 the  multiplication  of  details,  or  the  interpolation  of
 passages  from  other  songs.  In  very  few  instances
 is  the  story  complete ;  and  when  complete,  many
-characteristic  details  are  lacking.  Literal  render-
-ing of  such  a  vast  and  puzzling  mass  of  poems,
+characteristic  details  are  lacking.  Literal  rendering of  such  a  vast  and  puzzling  mass  of  poems,
 which  are  numbered  by  the  hundred,  and  in  their
-printed  form,  cover  thousands  of  pages,  is  mani-
-festly impossible.  Eclecticism  is  the  only  solution
+printed  form,  cover  thousands  of  pages,  is  manifestly impossible.  Eclecticism  is  the  only  solution
 of  the  difficulty,  for  the  descriptive  method  conveys
 no  adequate  idea  of  either  style  or  story.  I  have
-consulted  all  the  variants.  The  style  I  have  pre-
-served as  nearly  as  possible,  deeming  the  action
-sufficiently  rapid  and  forcible  to  sustain  the  old-
-fashioned  language.  I  venture  to  think  that  the
-result  would  satisfy  the  peasant-minstrels  them-
-selves.
+consulted  all  the  variants.  The  style  I  have  preserved as  nearly  as  possible,  deeming  the  action
+sufficiently  rapid  and  forcible  to  sustain  the  oldfashioned  language.  I  venture  to  think  that  the
+result  would  satisfy  the  peasant-minstrels  themselves.
 
 I  have  simplified  the  spelling  of  the  proper
 names  as  much  as  possible,  and  of  the  very  few
@@ -188,14 +170,12 @@ customary  in  Russia  and  necessary  to  the  proper
 PREFACE.  IX
 
 understanding  of  any  reference  to  the  subject.
-The  mythological  explanation  will  be  found  inter-
-esting from  its  ingenuity,  whichever  view  may
+The  mythological  explanation  will  be  found  interesting from  its  ingenuity,  whichever  view  may
 eventually  prevail.
 
 For  the  bylinas  I  am  indebted  to  the  Collections
 of  Kirsha  Danilef,  Sakarof,  Ryb^i^^^?  Kiry^evsky,
-Bez6nof,  Hilferding,  and  the  Ethnographical  Bulle-
-tin of  the  Natural  History  Society  of  Moscow  Uni-
+Bez6nof,  Hilferding,  and  the  Ethnographical  Bulletin of  the  Natural  History  Society  of  Moscow  Uni-
 versity ;  for  my  notes,  to  works  on  these  Songs  by
 Orest  Miller,  Schepping,  Maikof,  Buslaef,  Galak6f,
 and  other  recognized  Russian  authorities.
@@ -210,7 +190,6 @@ TABLE    OF    CONTENTS.
 
 FAOE
 
-Introduction 1
 
 THE    ELDER   HEROES.
 
@@ -224,8 +203,7 @@ Hero  Svyatogor 33
 
 THE   CYCLE   OF   VLADIMIR,   OR  OF   KIEF.
 
-Ilta  of  MCrom  the  Peasant  Hero,  and  Hero  Svya-
-togor        39
+Ilta  of  MCrom  the  Peasant  Hero,  and  Hero  Svyatogor        39
 
 Quiet  Dunai  Ivanovich ,.     .  48
 
@@ -337,9 +315,6 @@ Merchant  Sadko  the  Rich  Guest  of  Novgorod     .  357
 THE  EPIC   SONGS  OF   RUSSIA.
 
 
-INTRODUCTION.
-
-
 frv4
 
 
@@ -354,8 +329,7 @@ D-t*  A
 
 
 of  the  deeds  of  national  heroes  either  historical  or
-mythical.  In  many  countries  these  epics  were  com-
-mitted to  writing  at  a  very  early  date.  In  Western
+mythical.  In  many  countries  these  epics  were  committed to  writing  at  a  very  early  date.  In  Western
 Europe  this  took  place  in  the  Middle  Ages,  and  they
 are  known  to  the  modern  world  in  that  form  only,  their
 memory  having  completely  died  out  among  the  people.
@@ -374,17 +348,11 @@ extending  into  fresh  fields.
 Amid  the  vast  swamps  and  forests  of  Northern  Russia
 the  hyllnas  ^  are  sung  to-day  by  scores  of  peasants,  men
 
-^  ByUna,  from  htjt,  to  be:  i.e.,  the  story  of  something  which  has  actu-
-ally occurred,  in  contradistinction  to  the  account  of  a  purely  imaginary
+^  ByUna,  from  htjt,  to  be:  i.e.,  the  story  of  something  which  has  actually occurred,  in  contradistinction  to  the  account  of  a  purely  imaginary
 event.
 
-1
 
-
-2  INTRODUCTION.
-
-and  women,  old  and  young,  to  whom  they  have  de-
-scended through  countless  generations  of  ancestors,  and
+and  women,  old  and  young,  to  whom  they  have  descended through  countless  generations  of  ancestors,  and
 whose  belief  is  as  implicit  in  the  hogatprs'^  whose  deeds
 they  celebrate  as  was  the  belief  of  the  first  of  those
 ancestors.
@@ -402,20 +370,17 @@ edition  published  from  his  manuscript  in  1804  created
 some  interest  as  a  curiosity.  In  1818  a  more  complete
 edition  was  issued;  and  the  attention  of  students  having
 been  directed  to  the  subject,  various  songs  were  written
-down  by  different  persons,  as  occasion  offered.  A  col-
-lection was  also  published  in  German  at  Leipzig  in  1819,
+down  by  different  persons,  as  occasion  offered.  A  collection was  also  published  in  German  at  Leipzig  in  1819,
 which  contained  some  epic  songs  not  since  found.  It
 was  left,  however,  for  Petr  Rybnikof,  to  arouse  general
 
 
 1  The  etymology  of  hogatyr,  a  hero,  is  uncertain.  Some  authorities
-refer  it  to  a  word  current  among  various  Turko-Mongolian  tribes,  haga-
-dour,  batour,  bator,  bayadar,  which  is  applied  to  a  hero  who  has  thrice
+refer  it  to  a  word  current  among  various  Turko-Mongolian  tribes,  hagadour,  batour,  bator,  bayadar,  which  is  applied  to  a  hero  who  has  thrice
 penetrated  first  and  alone  into  the  ranks  of  the  enemy.  The  title  is
 thereafter  affixed  to  his  name.  But  the  Mongolians  had  borrowed  the
 word  from  the  Sanskrit,  where  it  already  denoted  a  person  endowed
-with  good  luck,  a  successful  person  —  and  success  constitutes  an  insep-
-arable attribute  of  all  heroes.  A  more  purely  Russian  theory  is  that
+with  good  luck,  a  successful  person  —  and  success  constitutes  an  inseparable attribute  of  all  heroes.  A  more  purely  Russian  theory  is  that
 which  derives  it  from  bog,  god,  through  the  intermediate  form  bogdtyi,
 rich,  as  in  Latin  dives,  rich,  is  immediately  related  to  divus,  godlike,  i.e.
 endowed  with  an  abundance  of  wonderful  powers  and  gifts.  In  Little
@@ -431,8 +396,6 @@ I
 I
 
 
-INTRODUCTION.  3
-
 attention  and  enthusiasm.  In  1861-62  appeared  the
 first  two  volumes  of  his  great  collection  made  on  the
 shores  of  Lake  On^ga.  They  were  greeted  with  so
@@ -445,15 +408,12 @@ marked  an  epoch  in  the  literature  of  Russia,
 stationed  at  Petrzavodsk  on  the  western  shore  of  Lake
 Oridga.  Conversing  in  1859  with  some  of  the  older
 inhabitants  of  the  town,  he  learned  that  many  curious
-and  ancient  customs,  traditions  and  songs  were  pre-
-served among  the  villagers  of  the  Oldnetz  Government.
+and  ancient  customs,  traditions  and  songs  were  preserved among  the  villagers  of  the  Oldnetz  Government.
 In  confirmation  of  the  statement  he  was  referred  to
-two  poems  which  had  been  published  in  the  govern-
-ment journals.  In  the  course  of  that  year,  he  succeeded
+two  poems  which  had  been  published  in  the  government journals.  In  the  course  of  that  year,  he  succeeded
 in  obtaining  some  manuscript  songs,  which  had  been
 written  down  at  the  dictation  of  a  peasant  tailor  known
-as  "  The  Bottle."  He  then  set  to  work  to  collect  mon-
-uments of  popular  poetry,  but  at  first  found  only  histor-
+as  "  The  Bottle."  He  then  set  to  work  to  collect  monuments of  popular  poetry,  but  at  first  found  only  histor-
 ical and  spiritual  songs  and  laments.
 
 In  1860  he  was  ordered  to  collect  certain  statistics,
@@ -474,15 +434,11 @@ in  search  of  him,  Rybnikof  made  two  journeys  across
 i
 
 
-4  INTRODUCTION.
-
 Lake  Ondga  on  the  ice  in  severe  winter  weather,  and
 one  in  summer  on  a  leaky  boat,  it  was  not  until  1863 J
-that  he  succeeded  in  finding  him.  —  Before  this,  how-
-ever, he  had  heard  many  an  epic  song  from  other  singers.]
+that  he  succeeded  in  finding  him.  —  Before  this,  however, he  had  heard  many  an  epic  song  from  other  singers.]
 Knowing  the  distrust  with  which  an  official  inspires
-the  peasants,  he  dressed  himself  like  a  man  of  the  peo-
-ple, and  took  passage  on  a  market-boat  returning  to
+the  peasants,  he  dressed  himself  like  a  man  of  the  people, and  took  passage  on  a  market-boat  returning  to
 Puddga,  where  *'Th6  Bottle"  lived.  Though  it  wasi
 May,  the  ice  was  not  out  of  the  lake,  and  it  was  bitterly
 cold.  Contrary  winds  forced  them  to  put  in  at  anj
@@ -496,22 +452,17 @@ sleep.  He  was  awakened  by  strange  sounds.  About
 three  paces  from  him  sat  a  group  of  peasants  and  an
 old  man  with  a  great  white  beard,  bright  eyes,  and  a
 kindly  expression  of  countenance.  From  the  old  man's
-lips  flowed  a  wondrous  song,  unlike  any  which  Rybni-
-kof had  ever  heard,  lively,  fantastic,  gay,  growing  now
+lips  flowed  a  wondrous  song,  unlike  any  which  Rybnikof had  ever  heard,  lively,  fantastic,  gay,  growing  now
 more  brisk,  again  breaking  off  suddenly,  and  suggesting
-in  style  something  very  ancient  and  long  forgotten  by  liv-
-ing men.  That  song  finished,  the  old  man  began  another
+in  style  something  very  ancient  and  long  forgotten  by  living men.  That  song  finished,  the  old  man  began  another
 —  the  famous  lay  of  Sadk6  the  Merchant  of  Novgorod.
 Thoroughly  aroused  now,  Rybnikof  knew  that  this  was
 his  long-sought  epic.  Many  a  one  did  he  thereafter  listen
-to,  sung  by  rhapsodists  with  fine  voices  and  masterly  dic-
-tion, but  none  of  them  ever  produced  upon  him  the
+to,  sung  by  rhapsodists  with  fine  voices  and  masterly  diction, but  none  of  them  ever  produced  upon  him  the
 fresh  and  overwhelming  impression  made  by  old  L^onty
 Bogdan6vich  with  his  poor,  cracked  voice  and  imperfect
 versions.
 
-
-INTRODUCTION.  5
 
 Thanks  to  Bogdandvich,  Rybnikof  was  enabled  to
 find  a  great  number  of  singers,  and  to  overcome  their
@@ -520,8 +471,7 @@ induce  them  to  sing  all  the  songs  they  knew.  In  this
 manner  he  succeeded  in  collecting  over  50,000  verses.
 —  But  this  collection  was  far  from  exhausting  the  rich
 hoards  of -epicL  poetry  treasured-ttp  in  the  region  about
-^ake  Ondga.  In  1870  Alexander  F.  Hilferding,  im-
-pelled by  a  desire  to  see  something  of  the  peasantry  and
+^ake  Ondga.  In  1870  Alexander  F.  Hilferding,  impelled by  a  desire  to  see  something  of  the  peasantry  and
 to  hear  some  of  the  remarkable  rhapsodists  described
 by  Rybnikof,  undertook  a  journey  to  certain  districts
 recommended  by  the  latter.  But  he  did  not  pause
@@ -534,8 +484,7 @@ than  Rybnikof  s,  containing  318  songs.
 The  region  is  but  little  known,  and  a  condition  of
 things  prevails  which  cannot  differ  much  from  that  of
 epic  days.  The  peasants  on  the  borders  of  Lake  Ondga
-have  a  comparatively  enviable  lot.  They  have  inter-
-course with  St.  Petersburg,  and  are  not  entirely  cut  off
+have  a  comparatively  enviable  lot.  They  have  intercourse with  St.  Petersburg,  and  are  not  entirely  cut  off
 from  the  world.  But  further  to  the  North  and  East,
 in  Kenozero,  Vygijzero  and  Vadldzero,  the  peasant's  lot
 is  hard  indeed.  There  lie  forests,  swamps,  and  again
@@ -549,11 +498,8 @@ board  attached  to  bear  the  load,  drags  on  the  ground.
 Where  water  communication  is  lacking,  the  peasant  must
 
 
-6  INTRODUCTION.
-
 go  on  horseback,  making  his  own  path  through  the  dense
-forest.  The  cultivation,  with  great  labor,  of  tiny  clear-
-ings in  the  forest,  and  fishing  in  autumn,  form  the  only
+forest.  The  cultivation,  with  great  labor,  of  tiny  clearings in  the  forest,  and  fishing  in  autumn,  form  the  only
 means  of  livelihood,  so  that  all  are  obliged  to  add  some
 trade  —  hunting  wild  animals,  teaming  to  the  White
 Sea  in  winter,  and  so  forth.  The  women  and  girls  work
@@ -578,23 +524,18 @@ This  prohibition  has  had  the  curious  effect  in  one
 district  of  introducing  epic  songs,  where  they  had  not
 been  previously  known.  Agriculture  is  not  favorable
 to  the  preservation  of  epic  poetry,  the  singers  coming
-almost  entirely  from  the  ranks  of  the  tailors,  shoe-
-makers and  net-makers.  When,  therefore,  this  com-
+almost  entirely  from  the  ranks  of  the  tailors,  shoemakers and  net-makers.  When,  therefore,  this  com-
 munity was  forced  to  abandon  agriculture,  it  took  to
 making  fine  nets,  —  and  to  learning  epic  songs.
 
-Two  of  the  causes  which  have  aided  in  the  preserva-
-tion of  epic  poetry  in  these  remote  districts,  long  after
+Two  of  the  causes  which  have  aided  in  the  preservation of  epic  poetry  in  these  remote  districts,  long  after
 its  disappearance  from  other  parts  of  Russia,  are  liberty
 and  loneliness.   These  people  have  never  been  subjected
 
 
-INTRODUCTION.  7
-
 to  the  oppressions  of  serfdom,  and  have  never  lost  the
 ideal  of  free  power  celebrated  in  the  ancient  rhapsodies.
-In  these  forest  fastnesses  they  have  never  felt  the  influ-
-ences of  change,  —  conditions  remain  as  in  epic  times.
+In  these  forest  fastnesses  they  have  never  felt  the  influences of  change,  —  conditions  remain  as  in  epic  times.
 Even  education  has  hardly  left  a  trace.  A  man  who
 can  read  and  write  is  very  rare.^  Faith  in  antiquity  and
 marvels  is  thus  preserved.  All  the  singers  and  most  of
@@ -614,12 +555,10 @@ now."  .  )\iUX>w     v-o^o^"^^
 The  singing  of  the  poems  is  not  now  a  profession,  as
 it  was  in  ancient  Greece,  in  Europe  during  the  Middle
 Ages,  and  as  it  is  in  Little  Russia  at  the  present  day,
-where  the  Kohzdrs  still  exist.  It  has  remained  a  domes-
-tic diversion  for  people  whose  voices  and  memories  per-
+where  the  Kohzdrs  still  exist.  It  has  remained  a  domestic diversion  for  people  whose  voices  and  memories  per-
 mit them  to  learn  the  old  songs.
 
-The  singing  of  religious  songs  or  stiTcs  is  of  a  pro-
-fessionalr^eharacter,  however,  and  the  kaliky  perekdzhie^
+The  singing  of  religious  songs  or  stiTcs  is  of  a  professionalr^eharacter,  however,  and  the  kaliky  perekdzhie^
 or  wandering-psalm-singers,  mostly  blind  men  or  cripples,
 use  it  as  a  means  of  livelihood.
 
@@ -630,10 +569,7 @@ the  Middle  Ages,  there  can  be  no  doubt.   The  Chronicles
 could  read  and  write.
 
 
-8  INTRODUCTION.
-
-mention  them  at  the  Court  of  Saint  Vladfmir's  grand-
-son. The  Church  also  denounced  skomoroki  (buffoons),
+mention  them  at  the  Court  of  Saint  Vladfmir's  grandson. The  Church  also  denounced  skomoroki  (buffoons),
 fiddlers  and  players,  and  the  singing  of  devilish  (i.e.
 worldly)  songs,  before  the  Tatar  conquest.  If,  as  is
 probable,  these  "devilish  songs "  included  the  epic  songs,
@@ -642,33 +578,26 @@ for  the  common  people,  but  were  sung  before  the  higher
 classes  and  the  royal  body-guard.  The  manner  in  which
 the  exploits  of  the  guard  are  magnified  and  those  of
 the  Prince  belittled  would  seem  to  indicate  that  these
-songs  were  preeminently  an  entertainment  for  the  body-
-guard. The  minstrels  also  exercised  their  art  before
+songs  were  preeminently  an  entertainment  for  the  bodyguard. The  minstrels  also  exercised  their  art  before
 the  Prince  —  if  we  can  trust  the  evidence  of  the  poems
 themselves.^
 
-However  this  may  be,  the  present  minstrels  all  be-
-long to  the  peasant  class,  and  are  nearly  all  well-to-do,
+However  this  may  be,  the  present  minstrels  all  belong to  the  peasant  class,  and  are  nearly  all  well-to-do,
 as  talent  for  practical  affairs  seems  to  accompany  a  taste
 for  epic  poetry.  Many  of  them  would  accept  nothing
 from  Rybnikof  and  Hilferding;  and  when  the  former
 offered  a  kerchief  to  the  daughter  of  Ryabfnin,  one  of
-the  best  singers,  the  minstrel  at  once  presented  an  em-
-broidered towel,  saying  that  it  was  customary  for  friends
+the  best  singers,  the  minstrel  at  once  presented  an  embroidered towel,  saying  that  it  was  customary  for  friends
 to  exchange  gifts  at  parting.  As  an  instance  of  the
-esteem  in  which  hylina  singing  is  regarded  by  the  peas-
-ants, it  is  related  of  this  Ryabinin,  that  his  comrades
+esteem  in  which  hylina  singing  is  regarded  by  the  peasants, it  is  related  of  this  Ryabinin,  that  his  comrades
 would  take  turns  in  doing  his  share  of  the  work  on  the
 fishing-boat,  on  condition  that  he  should  sing  to  them.
 The  aged  bard  also,  from  whom  many  of  the  present
-generation  learned  their  songs,  was  in  the  habit  of  say-
-ing when  asked  to  sing:  "Give  me  a  poltina  (half  a
+generation  learned  their  songs,  was  in  the  habit  of  saying when  asked  to  sing:  "Give  me  a  poltina  (half  a
 ruble),  and  I  will  sing  you  a  bi/lina"     The  half  ruble
 
 1  See  "Stavr  Godinovich,"  and  "Dobr^nya  and  Alydsha."
 
-
-INTRODUCTION.  9
 
 was  always  forthcoming ;  but  he  was  a  very  fine  singer  and
 the  only  one  who  demanded  any  thing  from  his  fellows.
@@ -676,22 +605,19 @@ the  only  one  who  demanded  any  thing  from  his  fellows.
 So  long  as  schools  and  trade  do  not  penetrate  to  this
 secluded  region,  there  is  no  danger  of  epic  poetry  dying
 out.  Memory  is  the  chief  factor;  creative  power,  which
-undoubtedly  exists  (though  it  is  supposed  to  have  be-
-come extinct  after  Peter  the  Great's  day),  does  not^
+undoubtedly  exists  (though  it  is  supposed  to  have  become extinct  after  Peter  the  Great's  day),  does  not^
 come  into  play.  As  a  man  has  received  his  song,  so  he  ';  ^  j
 sings  it,  with  all  the  obsolete  words,  sometimes  quite  Ijj^  (
 unintelligible.  If  asked  the  definitions  of  these  words,
 he  will  answer  simply,  "it  is  always  sung  so,"  unless
-the  words  chance  to  be  included  in  his  provincial  vo-
-cabulary. In  this  manner  have  been  preserved  details
+the  words  chance  to  be  included  in  his  provincial  vocabulary. In  this  manner  have  been  preserved  details
 of  nature  on  the  Dniepr,  —  the  "plume  grass,"  the  "open
 plain,"  the  "aurochs"  (now  extinct),  of  which  the  North
 Russian  peasant  knows  nothing  whatever.  Yet  not  a
 few  local  touches  are  introduced ;  —  the  mossy  marshes
 and  little  lakes  over  which  the  hero  gallops  and  picks
 his  way,  the  fitting  out  of  ships  and  the  saddling  of
-horses,  all  details  dear  and  familiar  to  these  lake-dwell-
-ers, are  enlarged  upon.
+horses,  all  details  dear  and  familiar  to  these  lake-dwellers, are  enlarged  upon.
 
 One  of  the  most  striking  results  of  local  influence  is
 seen  in  the  preservation  of  the  polydnitza.  This  has
@@ -702,31 +628,25 @@ defined  as  a  "  bold  fellow  who  gallops  about  seeking
 adventures ; "  and  even  Dahl  in  his  great  dictionary
 gives  it  as  "  a  band  of  desperadoes  or  robbers."  But
 any  peasant  in  North-eastern  Olonetz  will  explain  that
-in  ancient  times  heroic  deeds  were  performed  indiffer-
-ently by  men  and  women,  the  men  being  called  boga-
+in  ancient  times  heroic  deeds  were  performed  indifferently by  men  and  women,  the  men  being  called  boga-
 tyrs  and  the  women  poli/dnitzas.
 
 
-10  INTRODUCTION.
-
 Fine  or  poor,  all  the  rhapsodists  preserve  the  distinct
 characters  in  their  songs  perfectly.  Never  once  does
-,  >  Vladimir  depart  from  the  r61e  assigned  him,  of  a  good-
-f(j(^  '  natured,  but  not  always  just,  ruler ;  Dobrynya  is  always
+,  >  Vladimir  depart  from  the  r61e  assigned  him,  of  a  goodf(j(^  '  natured,  but  not  always  just,  ruler ;  Dobrynya  is  always
 courteous,  Aly6sha  bold  and  cunning,  Churilo  foppish.
 Thus  the  story  is  always  preserved  intact.  But  in
 spite  of  the  singers'  assertions  that  they  sing  things
 exactly  as  they  have  learned  them,  two  men  who  sing
 the  same  poem,  which  they  have  learned  from  the  same
-person,  will  tinge  it  with  their  own  distinct  personal-
-ities to  a  marked  degree.  Thus,  with  some  singers,
+person,  will  tinge  it  with  their  own  distinct  personalities to  a  marked  degree.  Thus,  with  some  singers,
 the  heroes  are  distinguished  for  their  piety;  other
 singers  tone  down  the  fiercest  speeches  in  accordance
 with  their  own  mild  dispositions.  Some  render  their
 songs  inordinately  long  —  two  or  three  hours  —  by  the
 multiplication  of  details  and  the  repetition  of  whole
-passages,  in  true  epic  fashion.  Yet  with  all  these  modi-
-fications, which  render  these  ancient  songs  almost  as
+passages,  in  true  epic  fashion.  Yet  with  all  these  modifications, which  render  these  ancient  songs  almost  as
 much  a  living  product  of  the  nineteenth  century  as  of
 the  tenth,  each  song  possesses  as  distinct  a  character  as
 any  of  the  epic  lays  which  crystallized  into  a  literary
@@ -734,8 +654,7 @@ form  in  the  Middle  Ages  and  faded  out  of  the  memories
 of  the  people.
 
 A  regular  tonic  versification  forms  one  indispensable
-property  of  these  epic  poems ;  irregularity  of  versifica-
-tion is  a  sign  of  decay,  and  a  complete  absence  of  meas-
+property  of  these  epic  poems ;  irregularity  of  versification is  a  sign  of  decay,  and  a  complete  absence  of  meas-
 ure the  last  stage  of  decay.  The  common  measure  of
 the  hylina  is  trochaic  with  a  dactylic  ending,  of  five
 or  six  feet,  which  with  characteristic  elasticity  can  be
@@ -745,14 +664,11 @@ The  measure  varies  with  the  subject  to  some  extent.
 •     For  example,  Ryabinin  sang  the  lay  of  Stavr  in  trochaic
 
 
-INTRODUCTION.  11
-
 leasure  with  a  dactyl,  Mihdilo  Rover  in  pure  trochaic,    \
 [and  Volgd  and  MikOla  in  anapaests.  -^
 
 The  airs  to  which  they  are  sung,  or  chanted,  are  very
-simple,  consisting  of  but  few  tones,  yet  extremely  diffi-
-jult  to  note  down.     Each  singer  has  an  air  of  his  own        7
+simple,  consisting  of  but  few  tones,  yet  extremely  diffijult  to  note  down.     Each  singer  has  an  air  of  his  own        7
 ((perhaps  two),  to  which  he  sings  all  the  songs  in  his      /
 [repertory,  modifying  it  according  to  the   subject  and     i
 'sentiment,  with  the  greatest  skill.     Rybnikof  and  Hil-     Y
@@ -766,12 +682,9 @@ in  an  epic  poem  ending  in  the  skdzka  (tale).  -fP^
 The  epic  poem  has  strictly  defined  characteristics ;  j^jji4
 names  historical  or  pseudo-historical  are  given  to  places  J-
 and  persons,  the  style  is  determined,  the  rhythm  fixed
-■within  certain  limits.  A  weakening  of  these  character-
-istics makes  of  the  epic  a  pohyvdlchina  or  starina  (old
-tale)  ;  further  deterioration  brings  it  to  the  class  of  ka-
-zdcheskiya  (Cossdck  songs)  ;  next  comes  the  class  of  the
-molodyStzkiya  (young  men's  songs),  then  the  hezimydni-
-niya  (nameless  songs),  then  the  skdzka  or  prose  tale.
+■within  certain  limits.  A  weakening  of  these  characteristics makes  of  the  epic  a  pohyvdlchina  or  starina  (old
+tale)  ;  further  deterioration  brings  it  to  the  class  of  kazdcheskiya  (Cossdck  songs)  ;  next  comes  the  class  of  the
+molodyStzkiya  (young  men's  songs),  then  the  hezimydniniya  (nameless  songs),  then  the  skdzka  or  prose  tale.
 At  each  step  of  this  descending  scale,  it  loses  more  and
 more  of  the  definite ness  of  time  and  place  as  well  as  the
 names  of  the  actors,  until  in  the  skdzka^  all  definite
@@ -782,15 +695,11 @@ The  epic  songs  proper  are  broadly  divisible  into  three
 groups :  the  cycle  of  Vladimir  or  Kief,  that  of  Ndvgorod,
 and  that  of  Moscow,  preceded  by  three  songs  of  the
 Elder  Heroes.  With  regard  to  the  first  two,  and  the
-Kfef  cycle  in  particular,  authorities  on  the  origin  of  Rus-
-sian literature  differ  widely.     One  writer  endeavors  to
+Kfef  cycle  in  particular,  authorities  on  the  origin  of  Russian literature  differ  widely.     One  writer  endeavors  to
 
-
-12  INTRODUCTION.
 
 prove  that  the  Russians,  while  preserving  the  traditions
-common  to  all  Aryan  races  in  their  Ceremonial  Songs,  en-
-tirely forgot  the  common  Aryan  stock  of  heroic  legends.
+common  to  all  Aryan  races  in  their  Ceremonial  Songs,  entirely forgot  the  common  Aryan  stock  of  heroic  legends.
 He  assumes  that  these  legends  came  back  to  them
 much  later  by  appropriation  from  peoples  of  Turko-
 Mongolian  race,  who  had  become  acquainted  with  epic
@@ -800,8 +709,7 @@ Benfey,  with  regard  to  European  tales.  According  to
 this  view,  there  is  in  Russian  nothing  but  the  crippled
 skeleton  of  foreign  tales,  to  which  have  been  added  a
 few  historical  and  geographical  names  and  psychical
-traits  furnished  to  various  heroes  by  over-zealous  stu-
-dents, who  approached  the  subject  with  preconceived
+traits  furnished  to  various  heroes  by  over-zealous  students, who  approached  the  subject  with  preconceived
 notions.
 
 That  the  epic  songs  possess  a  family  likeness  to  the
@@ -809,23 +717,18 @@ heroic  legends  of  other  Aryan  races,  is  not  denied  by  any
 one ;  and  this  likeness  is  particularly  strong  in  the  case
 of  the  Rig- Veda,  the  Ramayana,  the  Edda  and  the  Celtic
 epics.  But  about  this  epic  skeleton^  so  to  speak,  a  living
-body  has  grown  up  which  is  as  characteristically  na-
-tional as  any  of  those  mentioned.  The  examples  cited
+body  has  grown  up  which  is  as  characteristically  national as  any  of  those  mentioned.  The  examples  cited
 from  Tatar  and  Mongolian  sources  by  the  author  of  the
 theory  above  referred  to,  are  in  most  cases  extremely
-far-fetched.  His  views  have  been  combated  by  distin-
-guished students  of  comparative  mythology,  and  this
+far-fetched.  His  views  have  been  combated  by  distinguished students  of  comparative  mythology,  and  this
 wholesale  appropriation  from  Eastern  myths  cannot  be
 regarded  as  established.  A  comparison  of  these  epic
-songs  with  the  ancient  Chronicles  shows  that  the  he-
-roes are  thoroughly  Russian,  and  that  the  pictures  of
+songs  with  the  ancient  Chronicles  shows  that  the  heroes are  thoroughly  Russian,  and  that  the  pictures  of
 manners  and  customs  which  they  present  are  valuable
 for  their  accuracy.
 
 The  point  of  departure  for  the   mythologies   of  all
 
-
-INTRODUCTION.  13
 
 Aryan  races  must  be  sought  in  the  phenomena  of  Nature.  ^
 These  were  first  personified  as  gods,  and  when  each  of
@@ -836,17 +739,13 @@ sons  and  grandsons  of  the  gods.  The  localization  of
 these  Nature-myths  began  in  heathen  times.  They  were
 attached  to  various  places,  historical  events  and  persons.
 With  the  introduction  of  Christianity  this  localization
-became  mol-e  decided,  and  the  ancient  objects  of  wor-
-ship were  transformed,  now  into  heroes,  again  into  house
+became  mol-e  decided,  and  the  ancient  objects  of  worship were  transformed,  now  into  heroes,  again  into  house
 demons  or  sorcerers,  and  fell  under  the  ban  as  evil
 spirits  or  were  merged  with  the  new  saints.
 
-Prince  Vladfmir  Svyatosldvich  introduced  Christian-
-ity into  Russia  in  988.     It  was  not  only  established
-as  the  State  religion,  but  the  people,  at  Vladimir's  com-
-mand, accepted  the  new  faith,  permitted  their  idols  to
-be  destroyed  and  themselves  to  be  baptized  by  thou-
-sands forthwith.     Though  they  had  idols  representing
+Prince  Vladfmir  Svyatosldvich  introduced  Christianity into  Russia  in  988.     It  was  not  only  established
+as  the  State  religion,  but  the  people,  at  Vladimir's  command, accepted  the  new  faith,  permitted  their  idols  to
+be  destroyed  and  themselves  to  be  baptized  by  thousands forthwith.     Though  they  had  idols  representing
 the  powers  of  Nature  which  they  worshipped,  there
 were  neither  temples  nor  priests  to  interfere  with  this
 summary  change.     But  their  old  beliefs  could  not  be
@@ -870,21 +769,18 @@ heroes  of  Kief,  and  sung  by  the  same  rhapsodists,  flour-
 14  INTR  OD  UCTION.
 
 ishes  the  Novgorod  cycle,  with  its  Braves  (udaltzf).
-Much  more  restricted  than  either  the  Kief  or  the  Mos-
-cow cycle,  it  consists  practically  of  but  two  songs.
+Much  more  restricted  than  either  the  Kief  or  the  Moscow cycle,  it  consists  practically  of  but  two  songs.
 
 N6vgorod  was  one  of  the  greatest  cities  of  the  North,
 a  Slavic  Venice,  long  before  the  other  Russian  towns
-had  emerged  from  obscurity.  It  had  extensive  com-
-mercial relations  with  Western  Europe  and  the  Orient,
+had  emerged  from  obscurity.  It  had  extensive  commercial relations  with  Western  Europe  and  the  Orient,
 and  of  this  feature  of  N6vgorod  the  Great,  Sadkd  the
 Merchant  is  the  epic  representative.  Of  the  perpetual
 war  waged  against  the  Chouds,  Scandinavians  and  other
 tribes,  no  trace  remains  in  the  songs  which  survive ;
 but  the  memory  of  the  civil  war  which  raged  between
 the  patricians  and  the  common  people,  between  the  two
-quarters  of  the  town  separated  by  the  Volk<5f,  is  per-
-petuated in  the  song  of  Vasily  Busldevich.
+quarters  of  the  town  separated  by  the  Volk<5f,  is  perpetuated in  the  song  of  Vasily  Busldevich.
 
 This  cycle  is  not  so  rich  in  the  ancient  poetry  of  the
 Elements  as  the  Kief  cycle,  and  compared  with  that,  it
@@ -893,8 +789,7 @@ is  far  more  definite,  practical  and  closer  to  history.
 In  the  two  cycles  already  considered,  the  heroic  epos,
 the  historical  fate  of  the  people  is  reflected  in  its  most
 salient  features  and  essential  spirit.  —  But  there  exist
-among  the  people  epic  songs  which  are  more  justly  enti-
-tled to  the  general  appellation  bestowed  upon  all  similar
+among  the  people  epic  songs  which  are  more  justly  entitled to  the  general  appellation  bestowed  upon  all  similar
 productions,  hylinas  —  records  of  what  has  been.  The
 actors  in  these  songs  are  connected  with  well-defined
 epochs,  with  real  events,  and  not  only  bear  historic
@@ -908,19 +803,15 @@ and  at  times  heroic,  supernatural  feats  are  narrated,
 evidently  copied  from  the  earlier  cycles.     These  Mos-
 
 
-INTRODUCTION.  15
-
 cow  songs  are  inferior  in  force,  and  approach  in  style
 the  "  Old "  or  "Nameless  Songs."  The  pre-Tatar  period
 is  not  represented,  and  the  cycle  proper  begins  with
 Ivdn  the  Terrible ;  and  ends  with  the  reign  of  Peter  the
-Great,  when  the  power  of  composing  epic  songs  is  sup-
-posed to  have  disappeared.  Ivdn  and  Peter  are  the
+Great,  when  the  power  of  composing  epic  songs  is  supposed to  have  disappeared.  Ivdn  and  Peter  are  the
 most  prominent  figures.  As  the  period  extending  from
 the  Kief  cycle  to  Ivdn  is  not  rich  in  song,  so  likewise
 there  is  a  great  gap  of  a  hundred  years  before  Peter
-the  Great,  in  which  the  songs  are  in  no  way  remark-
-able, notwithstanding  the  many  striking  events  which
+the  Great,  in  which  the  songs  are  in  no  way  remarkable, notwithstanding  the  many  striking  events  which
 would  seem  to  have  afforded  fitting  subjects  for  the
 popular  muse.
 
@@ -932,8 +823,7 @@ land  Vladimir  Monomdchus  in  one  person,  is  pursued
 ire  attributed  many  deeds  of  his  grandfather  Ivan  III.
 (his  father  being  ignored),  and  other  persons ;  and  he
 is  always  represented  in  a  rather  favorable  light.  The
-conquest  of  Siberia,  the  taking  of  Kazdn  and  Astra-
-khan, the  wars  against  Poland,  the  Tatars  of  the  Cri-
+conquest  of  Siberia,  the  taking  of  Kazdn  and  Astrakhan, the  wars  against  Poland,  the  Tatars  of  the  Cri-
 mea, etc.,  are  the  principal  points  about  which  are
 gj»»ped  the  songs  referring  to  IvSn's  reign.
 (Richard  James,  Almoner  to  the  English  Embassy  to
@@ -949,13 +839,10 @@ Many  of  those  noted  by  James  are  reprinted  in  P.  V.
 ^
 
 
-16  INTRODUCTION.
-
 Kiry^evsky's  great  work  in  six  volumes,  which  is  very
 rich  in  songs  of  the  Moscow  cycle.
 
-The  epic  Peter  the  Great  bears  but  a  faint  resem-
-blance to  the  historical  Peter.     His  wars  offered  fine
+The  epic  Peter  the  Great  bears  but  a  faint  resemblance to  the  historical  Peter.     His  wars  offered  fine
 subjects  for  the  singers,  but  they  incorporated  many  a
 detail  from  the  ancient  myths  of  Dobrynya  the  Dragon
 Slayer  and  Ily4  of  Murom  in  their  songs   about   the
@@ -965,16 +852,13 @@ S    until  after  the  French  invasion  of  1812;   though  the
 I     songs  of  that  epoch  are  much  inferior  to  those  of  the
 ""?  ancient  days,  are  utterly  devoid  of  poetry,  and  merit
 1  attention  only  as  curious  mementos  of  the  times.     A
-I  more  detailed  account  of  the  Moscow  cycle  is  unneces-
-sary, as  it  will  not  be  represented  in  this  volume.     Its
-methods  can  be  observed  in  the  songs  of  the  semi-myth-
-ical epoch,  where   they  appear  at   their  best.     These
+I  more  detailed  account  of  the  Moscow  cycle  is  unnecessary, as  it  will  not  be  represented  in  this  volume.     Its
+methods  can  be  observed  in  the  songs  of  the  semi-mythical epoch,  where   they  appear  at   their  best.     These
 poems  are  sung  in  the  same  regions  as  those  of  the  first
 two  cycles,  and  also  to  a  greater  extent  than  the  latter
 in  the  central  governments  of  Tula  and  Saratof.
 
-In  support  of  the  theory  that  the  poems  of  the  Vla-
-dimir and  N6vgorod  cycles  were  not  original  creations
+In  support  of  the  theory  that  the  poems  of  the  Vladimir and  N6vgorod  cycles  were  not  original  creations
 but  derived  from  Turko-Mongolian  sources,  its  advo-
 •"cates  point  to  the  fact  that  in  the  Government  of  Kfef
 and  Southern  Russia,  where  they  should  have  originated
@@ -988,16 +872,13 @@ natural  explanation  of  this  phenomenon  is  furnished  by
 the  history  of  the  Kief  region.
 
 
-INTRODUCTION.  17
-
 —  The  lays  of  Vladimir  were  composed  in  the  X.,
 XI.,  and  XII.  centuries.  There  are  several  reasons  for
 assigning  them  to  this  epoch.  —  They  all  represent
 Russia  as  Christian,  united  under  the  rule  of  Vladimir,
 and  in  constant  (generally  hostile)  contact  with  the
 Tatars.  The  action  is  almost  exclusively  confined  to
-Kfef  or  its  environs,  and  among  the  other  towns  men-
-tioned (all  belonging  to  the  Kfef  epoch)  Moscow  is  not
+Kfef  or  its  environs,  and  among  the  other  towns  mentioned (all  belonging  to  the  Kfef  epoch)  Moscow  is  not
 included.  This  confines  them  between  the  limits  of
 988  (when  Christianity  was  introduced  by  Vladimir
 Svyatosldvich)  and  1147  when  Moscow  first  appears  in
@@ -1009,11 +890,9 @@ than  the  beginning  of  the  xin.  century.
 
 Further  proof  is  furnished  by  the  "Word  of  Igors
 Troop  "  ^  {Slova  o  plkou  Igorevye),  —  Russia's  famous
-written  epic  poem  and  the  only  one  which  was  com-
-mitted to  writing  earlier  than  the  xTvn.  century.  —  In
+written  epic  poem  and  the  only  one  which  was  committed to  writing  earlier  than  the  xTvn.  century.  —  In
 1185,  Igor,  Prince  of  N6vgorod-Syeversky,  undertook
-a  campaign  of  retaliation  against  the  Polovtzy,  a  no-
-mad tribe  of  Turko-Finnish  extraction  living  on  the
+a  campaign  of  retaliation  against  the  Polovtzy,  a  nomad tribe  of  Turko-Finnish  extraction  living  on  the
 shores  of  the  Don.  This  poem  which  is  founded  on
 that  expedition  bears  internal  evidence  of  having  been
 composed  during  the  lifetime  of  the  principal  actors  in
@@ -1026,8 +905,6 @@ burning  of  Moscow  in  1812.  A  MS.  copy  preserved  among  the  papers
 of  Catherine  II.,  and  the  text  printed  from  the  original  in  1800  alone
 survive.
 
-
-18  INTRODUCTION.
 
 ing  in  the  "present  style" — the  style  of  the  hylinaB~
 "and  not  in  that  of  Boyan,"  evidently  a  poet  of  repute
@@ -1043,22 +920,18 @@ The  epic  songs  are  the  work  of  the  people  alone ;
 they  present  no  traces  of  individual  character,  their
 heroes  are  more  mythical  than  historical.  The  "  Word,"
 on  the  other  hand,  is  the  work  of  a  poet,  who  has
-succeeded  in  coloring  it  strongly  with  his  own  person-
-ality ;  its  heroes  are  simple  men,  with  no  trace  of  the
+succeeded  in  coloring  it  strongly  with  his  own  personality ;  its  heroes  are  simple  men,  with  no  trace  of  the
 supernatural,  the  event  chronicled  is  historical,  and  the
 poem  forms  an  organic  whole.  —  In  the  songs  layers  of
 poetry  as  well  as  of  history  are  discernible,  and  it  has
 been  suggested  that  a  system  of  poetical  paleontology
 might  be  applied  to  them.
 
-There  seems  thus  to  be  sufficient  ground  for  assum-
-ing that  the  songs  of  the  Kief  cycle  (and  those  of  the
+There  seems  thus  to  be  sufficient  ground  for  assuming that  the  songs  of  the  Kief  cycle  (and  those  of  the
 Elder  Heroes)  were  already  in  existence  when,  in  the
 X.  and  xr.  centuries,  Vladfmir  and  Yarosldvl  were
-founded,  and  the  great  movement  of  the  South  Rus-
-sian population  towards  the  North  and  the  East  began.
-This  movement  continued  to  increase,  particularly  dur-
-ing the  XII.  century,  when  the  seat  of  empire  was
+founded,  and  the  great  movement  of  the  South  Russian population  towards  the  North  and  the  East  began.
+This  movement  continued  to  increase,  particularly  during the  XII.  century,  when  the  seat  of  empire  was
 removed  to  Vladfmir.  It  is  easy  to  see  how  the  songs
 would  be  carried  by  this  emigrating  population  from
 the  South  to  the  points  which  became  later  the  centre
@@ -1075,15 +948,13 @@ The  devastation  of   Southern  Russia  by  the  Tatars    \  v/
 in  the  xiii.  century,  and  the  decay  of  its  civilization     ^
 under   the    Lithuanian    sway   in    the    XIV.    and    XV.,       i
 obliterated  these  poems  from  popular  memory.     When,       \
-in  the  xvi.  century,  the  population  of  Southern  Rus-
-sia organized  itself  anew  in  the  forms  of  the  Cossdck         -^
+in  the  xvi.  century,  the  population  of  Southern  Russia organized  itself  anew  in  the  forms  of  the  Cossdck         -^
 communes,  it  fabricated  for  itself  a  fresh  cycle  of  epic
 legends,  which  finally  replaced  those  of  Kief.     Thus,
 in  Little  Russia,  where  they  originated,  these  epic  songs
 are  sung  no  longer,  though  a  dim  hint  or  a  name  may
 be  found  now  and  then  in  the  Ceremonial  Songs,  and
-the  KohzdrB  ^  celebrate  the  deed  of  a  new  race  of  Cos-
-sdck  heroes.     But  in   the    lonely  wildernesses   of  the
+the  KohzdrB  ^  celebrate  the  deed  of  a  new  race  of  Cossdck  heroes.     But  in   the    lonely  wildernesses   of  the
 North-east,  where  circumstances  have  called  forth  no
 great  or  warlike  deeds,  the  ancient  paladins  of  Prince
 Vladimir's  court  have  no  rivals,  and  the  emigrants  have
@@ -1094,8 +965,7 @@ This  progress  of  the  epic  poems  ever  further  towards
 the  North,  recalls  the  famous  migration  of  the  Norse
 epos  to  Iceland,  where  it  was  committed  to  writing  in
 the  Middle  Ages,  affords  a  reasonable  explanation  of
-the  present  home  of  epic  song,  and  renders  the  Sibe-
-rian theory  superfluous.
+the  present  home  of  epic  song,  and  renders  the  Siberian theory  superfluous.
 
 1  Professional  minstrels  who  accompany  their  songs  on  the  kobzd
 or  bancliira,  a  twelve-stringed  instrument,  resembling  a  mandolin  in
@@ -1106,9 +976,6 @@ THE    ELDER    HEROES.
 
 
 It
-
-
-EPIC   SONGS   OF   RUSSIA.
 
 
 VOLGA    VSESLAVICH    THE    -WIZARD.
@@ -1136,8 +1003,6 @@ and  all  cunning,  and  divers  tongues.     When   he
 ^  A  pood  is  about  forty  pounds.
 
 
-24  EPIC  SONGS   OF  RUSSIA.
-
 attained  to  fifteen  years  ^  he  collected  a  body-guard,
 bold  and  good  —  thirty  heroes,  save  one ;  and  he
 himself  was  the  thirtieth.  To  them  Lord  Volgd
@@ -1150,11 +1015,9 @@ martens,  foxes,  wUd  beasts  and  black  sables  foi
 the  space  of  three  days  and  three  nights."
 
 His  good  body-guard  hearkened  to  their  eldei
-brother,  to  their  chief,  and  did  the  thing  com-
-manded: but  no  single  beast  could  they  take.
+brother,  to  their  chief,  and  did  the  thing  commanded: but  no  single  beast  could  they  take.
 Then  Lord  Volga  transformed  himself  into  a  lion,
-and  trotted  over  the  damp  earth  to  the  gloomy  for-
-est, headed  off  the  martens,  foxes,  the  wild  beasts
+and  trotted  over  the  damp  earth  to  the  gloomy  forest, headed  off  the  martens,  foxes,  the  wild  beasts
 and  black  sables,  the  far-leaping  hares  and  little
 ermines,  capturing  as  niany  as  he  would.
 
@@ -1165,8 +1028,7 @@ them:
 "  Good  my  body-guard !  twine  now  mighty
 cords.  Make  them  fast  to  the  topmost  crests  of  the
 trees  in  the  dark  forest ;  and  catch  therewith  geese,
-swans,  clear  falcons,  and  little  birds  of  all  the  vari-
-ous sorts.  And  this  ye  shall  do  for  the  space  of
+swans,  clear  falcons,  and  little  birds  of  all  the  various sorts.  And  this  ye  shall  do  for  the  space  of
 three  days  and  nights."
 
 1  In  some  versions,  twelve  years,  the  epic  age  of  martial  maturity.
@@ -1176,8 +1038,6 @@ See  Appendix  :  Volga  Vsesldvich.
 
 ^  Hetman,  Cossack  chief.
 
-
-EPIC  SONGS   OF  RUSSIA.  25
 
 And  when  they  did  so,  and  caught  nothing,  Lord
 Volga  turned  himself  into  an  ostrich-bird,  and
@@ -1192,10 +1052,8 @@ days  and  as  many  nights.  And  when  they  could
 not,  he  transformed  himself  into  a  pike,  and  drove
 all  the  fishes  back.
 
-And  being  again  in  Kief  town,  with  his  body-
-guard. Lord  Volga  spoke :  "  Brave  and  good
-di'uzhlna  mine !  Whom  shall  we  send  to  the  Turk-
-ish land,  to  learn  the  Tzar's  mind, — what  the  Tzar
+And  being  again  in  Kief  town,  with  his  bodyguard. Lord  Volga  spoke :  "  Brave  and  good
+di'uzhlna  mine !  Whom  shall  we  send  to  the  Turkish land,  to  learn  the  Tzar's  mind, — what  the  Tzar
 thinketh,  whether  he  meaneth  to  come  against  Holy
 Russia?  If  we  send  an  old  man,  there  will  be  long
 to  wait;  if  a  young  one,  he  will  sport  with  the
@@ -1213,8 +1071,6 @@ Tzar  and  his  Tzaritza.
 "  Ai,  my  Tzaritza  Pantdlovna !  I  know  what  I
 know.     Li  Russia  the  grass  groweth  not  as  of  yore,
 
-
-26  EPIC  SONGS   OF  RUSSIA.
 
 the  flowers  bloom  not  as  of  old ;  plainly,  Volgd
 no  longer  among  the  livmg."
@@ -1237,16 +1093,14 @@ Nine  cities  will  I  take  and  bestow  upon  my  nine
 sons,  and  for  myself  I  will-  fetch  a  rich  furred
 cloak."
 
-"  Thou  shalt  never  take  nine  cities,"  quoth  Pan-
-talovna,  "  for  thy  nine  sons,  nor  shalt  thou  fetch
+"  Thou  shalt  never  take  nine  cities,"  quoth  Pantalovna,  "  for  thy  nine  sons,  nor  shalt  thou  fetch
 for  thyself  a  rich  furred  cloak."
 
 "  Thou  old  devil !  "  spake  Tzar  Santal  the  Turk,
 "  thou  hast  but  slept  and  dreamed."
 
 Therewith  he  smote  her  upon  her  white  face,  and,
-turning,  smote  the  other  cheek,  and  flung  the  Tzar-
-ltza upon  the  floor  of  brick ;  and  yet  a  second  time
+turning,  smote  the  other  cheek,  and  flung  the  Tzarltza upon  the  floor  of  brick ;  and  yet  a  second  time
 he  flung  her.
 
 "  Nay,  but  I  shall  go  to  Holy  Russia!"  quoth  he,
@@ -1254,10 +1108,7 @@ he  flung  her.
 rich  furred  cloak  for  my  own.  wearing."
 
 
-EPIC  SONGS   OF  RUSSIA.  27
-
-Then  Lord  Volgd  VsesMvich  transformed  him-
-self to  a  little  ermine,  crept  into  the  armory,  turned
+Then  Lord  Volgd  VsesMvich  transformed  himself to  a  little  ermine,  crept  into  the  armory,  turned
 back  into  a  goodly  youth,  snapped  the  stout  bows,
 broke  the  silken  cords,  all  the  fiery  arrows,  and
 the  locks  upon  the  weapons,  and  drenched  all  the
@@ -1317,8 +1168,7 @@ day  he  rode  until  evening,  and  heard  the  plough
 
 EPIC  SONGS   OF  nuSSlA.  29
 
-grate  ever  through  the  plain ;  but  dark  night  o'er-
-took  him  on  the  way,  and  he  found  not  the  man.
+grate  ever  through  the  plain ;  but  dark  night  o'ertook  him  on  the  way,  and  he  found  not  the  man.
 A  second  day  he  rode  toward  that  husbandman
 until  dusk,  and  yet  a  third ;  and  on  the  third  day
 he  came  upon  the  man  driving  his  plough,  and
@@ -1326,8 +1176,7 @@ casting  the  clods  of  earth  from  side  to  side  of  the
 furrow.  The  husbandman  ploughed  up  damp  oaks,
 stumps  and  great  stones ;  and  his  nightingale
 mare  was  named  "  Raise-her-head  ;  "  for  she  could
-lift  it  to  the  clouds.  His  plough  was  of  maple-
-wood,  his  reins  of  silk,  the  share  of  damascened
+lift  it  to  the  clouds.  His  plough  was  of  maplewood,  his  reins  of  silk,  the  share  of  damascened
 steel  with  fittings  of  silver,  and  the  handles  of  pure
 gold.  His  curls  waved  over  his  brows  of  blackest
 sable,  his  eyes  were  falcon  clear ;  his  shoes  were  of
@@ -1345,17 +1194,10 @@ good  guard?"
 
 "  I  go  to  take  possession  of  three  towns  which
 courteous  Prince  Vladimir,  my  uncle,  hath  given
-to  me.  Kurtzovetz,  Oryekovetz,  and  Krestydno-
-vetz."
+to  me.  Kurtzovetz,  Oryekovetz,  and  Krestydnovetz."
 
 "  Ho,  Volga  Vsesldvich !  Robbers  dwell  there.
 Two  days  ago  I  was  in  that  town,  bearing  two  sacks
-
-
-30
-
-
-EPIC  SONGS   OF  RUSSIA.
 
 
 of  salt,  of  a  hundred  poods  each,  upon  my  night
@@ -1400,9 +1242,6 @@ blows.
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  31
-
-
 was  not  enough  to  loose  the  share,  shake  off  the
 earth  and  toss  it  into  the  willow  bush.
 
@@ -1416,13 +1255,11 @@ with  thee."
 
 Then  they  mounted  then*  good  steeds  and  rode,
 and  came  to  the  famous  town  of  Kurtzovetz,  to
-Oryekovetz,  and  to  the  little  burgh  of  Krestyano-
-vetz.
+Oryekovetz,  and  to  the  little  burgh  of  Krestyanovetz.
 
 Thereupon  the  common  folk  assembled  in  throngs
 and  gave  them  great  battle.  And  those  peasants
-were  very  cunning  rogues.  They  reared  a  treach-
-erous bridge.  But  the  youthful  heroes  were  yet
+were  very  cunning  rogues.  They  reared  a  treacherous bridge.  But  the  youthful  heroes  were  yet
 more  cunning,  and  first  sent  forward  their  great
 force  upon  that  bridge  of  staffwood.  Then  the
 bridge  broke,  and  all  that  host  fell  into  the  little
@@ -1442,8 +1279,6 @@ that  hour,  and  to  pay  their  just  tribute.
 k
 
 
-32  EPIC  SONGS   OF  RUSSIA.
-
 The  husbandman  rode  in  front,  and  Volga  es
 sayed  to  overtake  him ;  yet  spur  on  as  he  would
 he  could  barely  keep  in  sight.  E-aise-her-head'
@@ -1451,8 +1286,7 @@ tail  spread  far  abroad,  her  mane  waved  in  th(
 breeze,  and  she  went  at  a  walk  ;  but  Volga's  horsi
 galloped  at  full  speed.  Raise-her-head  paced,  an<
 Volga's  steed  was  left  far  behind.  Then  Volgi
-waved  his  cap  and  shouted.  When  the  husband-
-man perceived  it,  he  restrained  his  nightingal
+waved  his  cap  and  shouted.  When  the  husbandman perceived  it,  he  restrained  his  nightingal
 mare,  the  while  Volga  spoke  thus:
 
 "  Halt,  thou  husbandman !  If  that  mare  wer
@@ -1467,15 +1301,11 @@ she  a  stallion  she  would  be  priceless."
 "  By  what  name  art  thou  called,  husbandman
 and  what  is  thy  patronymic  1 "  asked  Volgd.
 
-"  Now   ho,   thou   Volga   Vseslavich ! "  the  hus-
-bandman made  answer ;  "  I  will  plough  for  rye  an
+"  Now   ho,   thou   Volga   Vseslavich ! "  the  husbandman made  answer ;  "  I  will  plough  for  rye  an
 stack  it  in  ricks,  I  will  draw  it  home  and  thresh  it,
 brew  beer  and  give  the  peasants  to  drink  :  —  an
 the  peasants  shall  call  me  Young  Mikiila  SelyanI
 novich,  the  Villager's  Son."
-
-
-EPIC  SONGS   OF  RUSSIA.  33
 
 
 HERO    SVYATOGORi
@@ -1508,12 +1338,6 @@ pouches  from  his  shoulder  and  cast  them  on  the
 damp  earth.
 
 1  See  Appendix:  Svyatogdr.
-
-
-34
-
-
-EPIC  SONGS   OF  RUSSIA.
 
 
 "  What  hast  thou  in  thy  pouches  \ "  said  Svy-j
@@ -1550,13 +1374,10 @@ the  fork  of  the  road.  At  the  parting  of  the  way^l
 turn  to  thy  left  hand,  send  thy  horse  at  full  speed,
 and  thou  shalt  come  to  the  Northern  Mountains.!
 In  those  mountains,  beneath  a  great  tree,  standetl
-a  smithy;  and  of  the  smith  therein  do  thou  in-
-quire thy  fate."
+a  smithy;  and  of  the  smith  therein  do  thou  inquire thy  fate."
 
 1  Ushka  is  the  diminutive  termination.
 
-
-EPIC  SONGS   OF  RUSSIA.  35
 
 Then  Svyatogor  rode  three  days  as  he  had  been
 commanded,  and  so  came  to  the  great  tree  and  the
@@ -1570,8 +1391,7 @@ those  that  shall  wed."
 "  And  whom  shall  I  wed  ?  "
 
 "  Thy  bride  is  in  the  kingdom  by  the  sea,  in  the
-royal  city ;  thirty  years  hath  she  lain  on  the  dung-
-heap."
+royal  city ;  thirty  years  hath  she  lain  on  the  dungheap."
 
 Then  the  hero  stood  and  thought :  "  Nay :  but
 I  will  go  to  that  kingdom  by  the  sea,  arid  will  slay
@@ -1579,8 +1399,7 @@ my  bride."
 
 So  he  went  to  the  royal  city  of  that  kingdom  by
 the  sea,  and  came  to  a  miserable  hut  and  entered.
-No  one  was  there  save  a  maiden  lying  on  the  dung-
-heap  ;  and  her  body  was  like  the  bark  of  fir-trees.
+No  one  was  there  save  a  maiden  lying  on  the  dungheap  ;  and  her  body  was  like  the  bark  of  fir-trees.
 Svyatog6r  drew  forth  five  hundred  rubles,  and  laid
 them  on  the  table,  and  with  his  sharp  sword,  he
 smote  her  on  her  white  breast.  Then  he  departed
@@ -1593,9 +1412,6 @@ On  the  table  lay  the  five  hundi'ed  rubles,  and
 with  this  money  she  began  to  trade.  When  she
 had  accumulated  untold  treasure  of  gold,  she  built
 dark  red  ships,  freighted  them  with  precious  wares
-
-
-36
 
 
 EPIC  SONGS   OF  EUSSIA.
@@ -1615,12 +1431,10 @@ upon  his  wife's  white  bosom,  and  inquked  of  her :  |
 "What  scar  is  that?"
 
 And  his  wife  made  answer :  "  An  unknown  man]
-came  to  our  kingdom  by  the  sea,  and  left  five  hun-
-dred rubles  of  gold  in  our  hut.     When  I  awoke,!
+came  to  our  kingdom  by  the  sea,  and  left  five  hundred rubles  of  gold  in  our  hut.     When  I  awoke,!
 there  was  a  scar  upon  my  bosom,  and  the  fir-bark'
 had  fallen  away  from  my  white  body.     For  before
-that  day,  I  had  lain  for  thiity  years  upon  the  dung-
-heap."
+that  day,  I  had  lain  for  thiity  years  upon  the  dungheap."
 
 Then  Svyatog6r  the  hero  knew  that  none  may '
 escape  his  fate,  nor  may  any  flee  upon  his  good
@@ -1640,9 +1454,6 @@ IL7A    OP    MUROM   THE    PEASANT   HERO,    AND
 HERO    SVYATOGOR.
 
 
-EPIC  SONGS   OF  RUSSIA.  39
-
-
 dwelt  Ilya  ^  the  old  Cossack.  Thirty  years  he  sat
 upon  the  oven,  having  neither  arms  nor  legs,
 because  of  his  grandfather's  sin.
@@ -1651,8 +1462,7 @@ And  when  thu'ty  years  were  past,  in  summer,
 at  the  time  of  haying,  his  father  and  mother  went
 forth  to  clear  the  forest-girdled  meadows,  and  left
 Ilya  alone  in  the  cottage.  Then  there  came  to
-him  three  w^ayfarers  —  Christ  and  two  of  his  apos-
-tles, in  the  guise  of  poor  brethren,  strolling  psalm-
+him  three  w^ayfarers  —  Christ  and  two  of  his  apostles, in  the  guise  of  poor  brethren,  strolling  psalm-
 singers,  and  besought  him  that  he  would  give
 them  to  drink.
 
@@ -1673,8 +1483,6 @@ Murom.
 
 '  A  sourish  liquor  made  from  rye-meal.
 
-
-40  EPIC  SONGS   OF  RUSSIA.
 
 They  received  it,  drank,  and  gave  it  again  to  Ilyd,
 saying :
@@ -1727,8 +1535,7 @@ Son.  Against  these  three  contend  thou  not.  Live
 not  at  home,  —  labor  not ;  but  go  thou  to  royal
 Kief  town."     And  therewith  the  men  vanished.
 
-Then  Ilya  went  forth  to  his  father,  in  the  clear-
-ing, and  found  him  with  his  wife  and  laborers
+Then  Ilya  went  forth  to  his  father,  in  the  clearing, and  found  him  with  his  wife  and  laborers
 reposing  from  their  toil.  He  grasped  their  axes
 and  began  to  hew ;  and  what  his  father  with  the
 laborers  could  not  have  done  in  three  days,  that
@@ -1749,28 +1556,19 @@ as  he  went,  he  beheld  a  peasant  leading  a  shaggy
 brown  foal,  the  first  he  had  seen.  What  the
 peasant  demanded  for  the  foal,  that  Ilyd  paid.
 —  For  the  space  of  three  months,  he  tied  the  foal
-in  the  stall,  feeding  it  with  the  finest  white  Turk-
-ish wheat,  and  watering  it  from  the  pure  spring.
+in  the  stall,  feeding  it  with  the  finest  white  Turkish wheat,  and  watering  it  from  the  pure  spring.
 After  these  months  were  past,  he  bound  the  foal
 for  three  nights  in  the  garden,  anointing  it  with
 three  dews.     When  that  was  done,  he  led  the  foal
 
 
-42
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 to  the  lofty  paling,  and  the  good  brown  began  to
 leap  from  side  to  side,  and  was   able  to  sustain
 Ilya's  vast  weight;   for  he  had  become   a  heroic]
-steed.  —  All  this  Ilya  did  according  to  the  com-
-mands of  the  aged  psalm-singers  who  had  healed]
+steed.  —  All  this  Ilya  did  according  to  the  commands of  the  aged  psalm-singers  who  had  healed]
 him.
 
-Then  Ilyd  saddled  his  good  steed  Cloudfall,  pros-
-trated himself,  and  received  the  farewell  blessing]
+Then  Ilyd  saddled  his  good  steed  Cloudfall,  prostrated himself,  and  received  the  farewell  blessing]
 of  father  and  mother,  and  rode  forth  far  over  the]
 open  plain.
 
@@ -1795,8 +1593,6 @@ fortune  that  hangeth  over  thee.     Hero  Svyatog6r
 cometh  to  this  his  pavilion.     Loose  me  now,  in  the
 open  plain,  and  climb  thou  upon  the  damp  oak."
 
-
-EPIC  SONGS   OF  RUSSIA.  43
 
 Then  sprang  Ilyd  to  his  nimble  feet,  loosed  his
 horse  and  climbed  into  the  damp  oak.
@@ -1835,8 +1631,6 @@ slipped  down  from  the  oak  as  she  had  commanded.
 And  after  a  space,  that  fair  heroic  woman  took
 
 
-44  EPIC  SONGS   OF  RUSSIA.
-
 Ilyd  and  put  him  in  her  husband's  deep  pocket,
 and  roused  the  hero  from  his  heavy  sleep.  Then
 Svyatogor  put  his  wife  in  the  crystal  casket  again,
@@ -1855,8 +1649,7 @@ heroes.     Is  it  a  maiTel  that  I  stumble  % "
 Thereupon  Hero  Svyatog6r  drew  Ilyd  from  his
 deep  pocket,  and  began  to  question  him :  —  who
 he  was  and  how  he  came  in  the  pocket.  And  Ilya
-told  him  all  the  truth.  When  he  heard  it,  Svya-
-tog6r  slew  his  faithless  heroic  wife ;  but  with  Ilyd
+told  him  all  the  truth.  When  he  heard  it,  Svyatog6r  slew  his  faithless  heroic  wife ;  but  with  Ilyd
 he  exchanged  crosses,  and  called  him  his  younger
 brother.
 
@@ -1873,10 +1666,7 @@ precipices.  Let  us  now  ride  among  the  crags,  and
 come  thou  to  the  Holy  Mountains  with  me."
 
 
-EPIC  SONGS   OF  RUSSIA.  45
-
-Thus  they  rode  long  together,  diverting  them-
-selves ;  and  Svyatogor  taught  Ilya  all  heroic  cus-
+Thus  they  rode  long  together,  diverting  themselves ;  and  Svyatogor  taught  Ilya  all  heroic  cus-
 toms and  traditions.
 
 On  the  way,  Svyatog6r  said  to  Ilyd :  "  When  we
@@ -1911,12 +1701,6 @@ Hyd  journeyed  among  the  Holy  Mountains,  they
 found  a  great  coffin  in  the  way ;  and  upon  the
 coffin  was  this  writing :  "  This  coffin  shall  fit  him
 who  is  destined  to  lie  in  it."
-
-
-46
-
-
-EPIC  SONGS   OF  RUSSIA.
 
 
 Then  Hyd  essayed  to  lie  in  it,  but  for  him  it  W£
@@ -1955,8 +1739,6 @@ an  iron  ridge  sprang  forth.    Again  spoke  Svyatog6ri
 "  I  stifle,  younger  brother !  essay  yet  one  morl
 
 
-EPIC  SONGS   OF  RUSSIA.  47
-
 blow  upon  the  lid,  with  my  huge  sword."  Then
 Ilya  smote  along  the  lid  —  and  a  ridge  of  iron
 sprang  forth.     Yet  again  spoke  Svyatog6r :
@@ -1986,9 +1768,6 @@ plain.
 
 And  Svyatog6r's  burning  tears  flow  through  the
 coffin  evermore.
-
-
-48  EPIC  SONGS   OF  RUSSIA.
 
 
 QUIET    DITNAi   IVANOVICH.
@@ -2025,10 +1804,7 @@ gabs,  occurs  in  the  chanson  de  geste  "  Charlemagne's  Journey  to  Jeru�
 salem."
 
 
-EPIC  SONGS   OF  RUSSIA.  49
-
-Dimai  spoke  much,  boasting  of  his  many  wander-
-ings, of  the  King's  favor  and  rewards,  and  of  how
+Dimai  spoke  much,  boasting  of  his  many  wanderings, of  the  King's  favor  and  rewards,  and  of  how
 the  young  Princess  Nastasya  kept  him  ever  in  her
 heart.
 
@@ -2052,11 +1828,9 @@ Diinai  goeth  to  his  death.     Forgive ! "
 
 With  that  great  shout  the  palace  quaked ;
 Princess  Nastasya  woke,  and  ran  forth  into  the
-spacious  court  of  the  palace,  in  a  loose  robe  with-
-out a  girdle  ,^  and  cried  in  piercing  tones :
+spacious  court  of  the  palace,  in  a  loose  robe  without a  girdle  ,^  and  cried  in  piercing  tones :
 
-"  Ho  there,  ye  pitiless  headsmen !  Take  treas-
-ure as  much  as  ye  will,  and  release  Diinai  in  the
+"  Ho  there,  ye  pitiless  headsmen !  Take  treasure as  much  as  ye  will,  and  release  Diinai  in  the
 open  plain.  Then  go  seek  in  the  royal  pot-house  *
 an  accursed  Tatar,  some  vile  wretch  whom  ye  may
 
@@ -2104,8 +1878,6 @@ his  yellow  curls.     No  golden  tnimpet  pealed,  no]
 aspects.
 
 
-EPIC  SONGS   OF  RUSSIA.  51
-
 silver  pipe  trilled  sweet,  but  Prince  Vladimir  spoke :
 ■•  Boast  not,  brothers ;  glory  not  in  your  prowess
 nor  in  good  steeds  nor  golden  treasure.  Have  not
@@ -2136,8 +1908,7 @@ saying :
 a  word  without  speedy  death  or  distant  exile,  and
 chastise  me  not  therefor."
 
-"  Speak,  then,  Dobrynya  Nikltich,"  said  Vladi-
-mir, "  God  will  forgive  thee."
+"  Speak,  then,  Dobrynya  Nikltich,"  said  Vladimir, "  God  will  forgive  thee."
 
 Then  spoke  Dobrynya,   and  wavered   not :    "I
 
@@ -2181,11 +1952,6 @@ Kief,  maids  and  wives  thrust  heads  and  shoulde
 rain-bearing  clouds.
 
 
-1
-
-
-EPIC  SONGS   OF  RUSSIA.  53
-
 from  the  windows  crying :   "  Whence  come  such
 fair  youths  as  these  ? "
 
@@ -2196,8 +1962,7 @@ three,  and  four  sides,  to  all  the  Russian  heroes
 and  to  Prince  Vladlmu*  in  particular.  And  they
 gave  Diinai  a  seat  at  the  oaken  board,  in  the  great
 corner,^  the  place  of  honor.
-L|.-  As  he  feasted,  Fair  Sun  Vladimir  began  to  in-
-quire of  Dunai,  and  poured  out  green  wine  into  a
+L|.-  As  he  feasted,  Fair  Sun  Vladimir  began  to  inquire of  Dunai,  and  poured  out  green  wine  into  a
 great  cup  of  crystal  from  the  East,  set  in  a  rim  of
 gilt,  and  brought  it  to  quiet  Diinai.  The  measure
 of  that  cup  was  a  bucket  and  a  half,  and  its  weight
@@ -2215,16 +1980,12 @@ confusion :
 Vladimir.     Twelve  full  years  I  served  in  yonder
 
 1  The  corner  is  the  place  of  honor  in  the  East;  the  most  illustrious
-tombs  stand  in  the  corners  of  the  churches,  and  at  the  Coronation  ban-
-quet, the  Emperor  dines  alone  in  one  corner  of  the  ancient  Urem
-(palace)  known  as  the  gold  room.  The  kings  of  France  sat  in  the  left-
-hand  comer  of  the  apartment  to  hold  their  beds  of  Justice.
+tombs  stand  in  the  corners  of  the  churches,  and  at  the  Coronation  banquet, the  Emperor  dines  alone  in  one  corner  of  the  ancient  Urem
+(palace)  known  as  the  gold  room.  The  kings  of  France  sat  in  the  lefthand  comer  of  the  apartment  to  hold  their  beds  of  Justice.
 
 
 V
 
-
-54  EPIC  SONGS   OF  RUSSIA.
 
 land  of  Lithuania,  and  the  King's  Majesty  hati
 two  great  and  fair  daughters.  The  eldest,  Princess
@@ -2238,8 +1999,7 @@ may  not  scorch  her  nor  the  fine  and  frequent  rains
 drop  on  her,  nor  the  stormy  winds  breathe  on  her ;
 —  that  she  may  be  seen  of  few."
 
-"  Ai,  my  Russian  heroes ! "  spoke  Prince  Vla-
-dimir then :  "  Whom  shall  we  send  to  far-off
+"  Ai,  my  Russian  heroes ! "  spoke  Prince  Vladimir then :  "  Whom  shall  we  send  to  far-off
 Lithuania  1 "
 
 And  a  hero  made  answer :  "  Fair  Sun  Vladimir !
@@ -2257,12 +2017,9 @@ woo  the  Princess  Apraxia  for  me  with  fair  words."
 "  Lord,"  said  Dunai,  "  it  is  not  meet  for  a  youth
 to  go  alone."
 
-"  Take  then  a  host  of  forty  thousand,  and  treas-
-ure, as  much  as  thou  requirest :  and  if  the  King  give
+"  Take  then  a  host  of  forty  thousand,  and  treasure, as  much  as  thou  requirest :  and  if  the  King  give
 not  his  daughter  willingly,  then  fetch  her  by  force."
 
-
-EPIC  SONGS   OF  RUSSIA.  55
 
 "  I  need  no  host  to  wage  battle,  nor  golden
 treasure  to  barter,"  quoth  Ddnaii.  "  I  will  essay
@@ -2277,8 +2034,7 @@ our  Prince  Vladimir  is  honorable."
 All  these  things  Fair  Sun  Vladimir  did.  Then
 Diinai  and  Dobrynya  went  forth  from  the  palace,
 and  saddled  their  steeds ;  put  on  them  plaited
-bridles  of  parti-colored  silks,  and  silken  saddle-
-cloths, and  upon  these,  felts,  and  then  the  saddles,
+bridles  of  parti-colored  silks,  and  silken  saddlecloths, and  upon  these,  felts,  and  then  the  saddles,
 their  small  Cherkessian  saddles,  and  secured  them
 with  twelve  girths  with  silver  buckles,  —  the  stirrup
 buckles  were  of  gold.  Then  they  arrayed  and
@@ -2315,15 +2071,13 @@ then,  "  and  look  towards  the  royal  audience  hall ;
 when  I  shout,  then  will  be  the  time  to  come."
 
 Then  quiet  Diinai  entered  the  royal  hall  where
-sat  the  King,  crossing  himself  and  saluting  as  pre-
-scribed by  custom.
+sat  the  King,  crossing  himself  and  saluting  as  prescribed by  custom.
 
 "  Hail,  little  father,  King  of  brave  Lithuania ! "
 
 "  Hail,  little  Dunai  Ivanovich !  Whither  leadeth
 thy  path?  Art  thou  come  to  show  thyself  or  to
-view  us  ?  Twelve  years  thou  didst  serve  us  faith-
-fully ;  art  thou  now  come  to  fight  against  us,  or  to
+view  us  ?  Twelve  years  thou  didst  serve  us  faithfully ;  art  thou  now  come  to  fight  against  us,  or  to
 serve  us  as  of  yore  ?  —  Yet  eat  thy  fill,  fair  youth,
 and  drink  as  good  seemeth  to  thee."  Then  the
 King  seated  him  at  the  great  table  in  the  place  of
@@ -2338,16 +2092,13 @@ on  the  oaken  table.
 The  King  looking  upon  it,  tore  the  black  curls
 
 
-EPIC  SONGS   OF  RUSSIA.  57
-
 from  his  head  and  cast  them  on  the  brick  floor,  as
 he  spoke  in  wrath :
 
 "  Stupid  in  sooth  is  Vladimir  of  Royal  Kief,  in
 that  he  sent  not  as  wooer  a  wealthy  peasant,  a  good
 lord  or  a  mighty  hero !  But  he  must  needs  send
-me  some  noble's  serf!  Ho  there,  my  trusty  ser-
-vants !  Take  this  Dunai  by  his  white  hands,  seize
+me  some  noble's  serf!  Ho  there,  my  trusty  servants !  Take  this  Dunai  by  his  white  hands,  seize
 him  by  his  golden  ring,  by  his  yellow  curls ;  lead
 him  to  the  deep  dungeons  for  his  discourteous
 speech.  Shut  him  in  with  oaken  planks,  with  iron
@@ -2359,8 +2110,7 @@ Quiet  Diinai  hung  his  turbulent  head,  and
 dropped  his  clear  eyes  to  the  floor ;  then  raised  his
 small  white  hand  and  smote  the  table  with  his  fist.
 The  fair  liquors  all  were  spilled,  the  dishes  rolled
-away,  the  tables  fell  together,  and  the  railed  bal-
-conies of  the  palace  sat  awry.  The  Tatars  all
+away,  the  tables  fell  together,  and  the  railed  balconies of  the  palace  sat  awry.  The  Tatars  all
 were  terrified,  the  King  fled  to  his  lofty  tower,
 and  covered  himself  with  his  cloak  of  marten
 skins.
@@ -2376,12 +2126,6 @@ break ;  the  Tatar  is  wiry,  he  will  not  tear."
 Dobr;fnya  at  that  shout,  began  to  lay  about  him,
 
 
-58
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 and  slew  five  hundred  Tatars  with  his  own  right]
 hand.
 
@@ -2392,8 +2136,7 @@ is  come  upon  thee.     Into  thy  royal  court  no  falcon,
 clear  hath  flown,  no  raven  black  hath  fluttered,
 but  a  bold  and  goodly  youth  hath  ridden.     In  his
 left  hand  he  graspeth  the  silken  bridles  of  two]
-good  steeds,  in  his  right  he  holdeth  a  club  of  elm-
-wood  filled  with   lead.      Wheresoever  he  wavethl
+good  steeds,  in  his  right  he  holdeth  a  club  of  elmwood  filled  with   lead.      Wheresoever  he  wavethl
 that  club,  the  Tatars  fall  before  it.     He  hath  slain
 them  all,  to   the   last   man,  and  none  is  left  to]
 continue  the  race !  "
@@ -2417,8 +2160,6 @@ pacing  her  chamber,  clad  in  a  thin  robe  without]
 a  ghdle,  her  ruddy  locks  unbound,  and  no  shoes]
 upon  her  feet.
 
-
-EPIC  SONGS  OF  RUSSIA.  59
 
 "  Ai,  Princess  Apraxia !  wilt  thou  wed  with
 Prince  Vladimir  ? "  said  Diinai.
@@ -2453,17 +2194,13 @@ they  hear,  not  even  the  Tatar  riding  across  the
 plain.
 
 They  rose  while  it  was  still  very  early,  and  set
-out  upon  their  way.  And  the  Tatar  rode  in  pur-
-suit, his  steed  all  covered  with  the  mire  of  the  way.
+out  upon  their  way.  And  the  Tatar  rode  in  pursuit, his  steed  all  covered  with  the  mire  of  the  way.
 
 Then  Dtinai  was  aware  of  the  knight  in  the  way,
 
 
-60  EPIC  SONGS  OF  RUSSIA.
-
 and  sent  Dobrynya  on  to  Kief  town  in  Holy  Russia,
-with  the  fair  Princess  Apraxia,  but  remained  him-
-self in  the  open  plain  to  meet  that  stout,  bold
+with  the  fair  Princess  Apraxia,  but  remained  himself in  the  open  plain  to  meet  that  stout,  bold
 adversary.
 
 When  the  Tatar  perceived  that  he  was  pursued
@@ -2477,10 +2214,8 @@ So  the  Tatar  roared  and  whistled ;  — the  pebbles
 were  scattered  over  the  plain,  the  grass  withered,
 the  flowerets  drooped,  and  Diinai  fell  from  his  good
 steed.  But  quickly  sprang  Dunai  to  his  nimble
-feet,  and  fought  the  Tatar  knight,  with  mace,  far-
-reaching  spear  and  sharp  sword,  until  all  were
-broken  or  dulled,  and  he  had  overcome  his  adver-
-sary. Then  he  drew  his  dagger,  and  would  have
+feet,  and  fought  the  Tatar  knight,  with  mace,  farreaching  spear  and  sharp  sword,  until  all  were
+broken  or  dulled,  and  he  had  overcome  his  adversary. Then  he  drew  his  dagger,  and  would  have
 pierced  him  to  the  heart.
 
 "  Tell  me  now,  accursed  Tatar,"  cried  Diinai,
@@ -2497,8 +2232,6 @@ the  bosom  was  that  of  a  woman.
 
 "  How  now,  fair  Diinai !  knowest  thou  me  not  ]
 
-
-EPIC  SONGS  OF  RUSSIA.  61
 
 Yet  we  trod  one  path,  sat  in  one  bower,  drank
 from  one  cup !  And  thou  didst  dwell  with  us
@@ -2579,9 +2312,6 @@ Then  Dunaiushka  shot ;  the  first  arrow  he  sen
 »
 
 
-EPIC  SONGS   OF  RUSSIA.  63
-
-
 too  far,  the  second  fell  short,  the  thu'd  flew  wide  of
 the  mark  and  was  never  found  again.
 
@@ -2593,23 +2323,20 @@ him:
 "  Ai,  fair  Dunai  Ivanovich !  forgive  my  foolish
 woman's  words.  Better  will  it  be  for  thee  to
 punish  me.  Let  this  be  thy  first  reprimand :  take
-thy  silken  whip,  dip  it  in  burning  pitch,  and  chas-
-tise my  body.  And  for  the  second  reprimand:
+thy  silken  whip,  dip  it  in  burning  pitch,  and  chastise my  body.  And  for  the  second  reprimand:
 bind  me  by  my  woman's  hair  to  thy  stiiTups,  and
 send  thy  horse  at  speed  over  the  wide  plain. — Bury
 me  to  the  breast  in  the  damp  earth, — beat  me  with
 oaken  rods,  —  torture  me  with  hunger,  —  feed  me
 with  oats,  and  so  keep  me  three  full  months.  —
-But  grant  me  only  to  bear  thy  son,  and  leave  a  pos-
-terity behind  me  in  the  world.  For  such  a  child
+But  grant  me  only  to  bear  thy  son,  and  leave  a  posterity behind  me  in  the  world.  For  such  a  child
 there  is  not  in  all  the  town.  His  little  legs  are
 silver  to  the  knee,  his  arms  to  the  elbow  are  of
 pure  gold ;  upon  his  brow  gloweth  the  fair  red  sun,
 upon  his  crown  shine  countless  stars,  and  at  the
 back  of  his  head  the  bright  moon  beameth."
 
-Dunai  heeded  not  her  speech,  but  sent  his  burn-
-ing arrow  into  her  white  breast,  and  took  out  her
+Dunai  heeded  not  her  speech,  but  sent  his  burning arrow  into  her  white  breast,  and  took  out  her
 heart  with  his  dagger.  And  his  son  was  as  she
 had  said.
 
@@ -2646,8 +2373,7 @@ STAVR    GODINOVICH   THE    B07AR    (NOBLE).
 
 Courteous  Prince  Vladimir  made  a  great  feast
 in  royal  Kief  town,  and  summoned  thereto  all  his
-princes,  boyars,  mighty  heroes  and  bold  polya-
-nitzas :  ^  likewise  many  merchants  and  strangers.
+princes,  boyars,  mighty  heroes  and  bold  polyanitzas :  ^  likewise  many  merchants  and  strangers.
 
 Among  these  last  was  young  Stavr  Godlnovich
 from  Chernigof.  Softly  he  mounted  the  steps,  and
@@ -2656,8 +2382,7 @@ crossed  himself  and  bowed  low  on  all  sides,  and  to
 Prince  Vladimir  and  his  daughter  in  particular.
 
 The  red  sun  inclined  to  even,  and  all  the  youths
-were  merry  with  drink,  so  that  they  waxed  boast-
-ful. The  heroes  vaunted  their  good  steeds,  heroic
+were  merry  with  drink,  so  that  they  waxed  boastful. The  heroes  vaunted  their  good  steeds,  heroic
 strength  or  golden  treasure,  the  merchants  their
 Siberian  fox  pelts,  and  black  sables.  —  But  Stavr
 sat  alone,  eating  and  drinking  nothing,  and  making
@@ -2671,8 +2396,6 @@ inquiring  wherefore  he  neither  ate  nor  drank.
 
 1  Female  warriors.
 
-
-66  EPIC  SONGS  OF  RUSSIA.
 
 no  towns  with  their  suburbs,  villages  with  their
 hamlets,  nor  even  so  much  as  a  good  mother  or  a
@@ -2708,8 +2431,6 @@ Stavr's  golden  treasure  is  never  exhausted.  Yet
 one  thing  hath  Stavr  whereof  he  will  boast,  a  young
 
 
-EPIC  SONGS   OF  RUSSIA.  67
-
 wife,  Vasillsa  Mikiilichna :  ^  she  could  buy  and  sell
 all  Kief  town,  deceive  all  these  princes  and  nobles,
 and  drive  even  Fair  Sun  Vladimir  from  his  senses."
@@ -2734,22 +2455,18 @@ But  Stavr's  serving-man  mounted  his  master's
 good  steed  and  rode  in  haste  to  Chemigof,  to  Stavr's
 palace  of  white  stone,  and  his  young  wife.
 
-Now  Vasilisa  Mikiilichna  had  made  a  great  ban-
-quet for  the  wives  of  the  merchants  and  rulers  of
+Now  Vasilisa  Mikiilichna  had  made  a  great  banquet for  the  wives  of  the  merchants  and  rulers  of
 the  town,  and  so  the  man  found  them  feasting.
 
 When  her  husband's  man  told  her  all  that  had
 )efallen  in  Kief,  the  young  wife  rose  from  her
 Jbench  of  oak,  and  said :
 
-Time  is  it,  my  welcome  guests,  to  betake  your-
-selves to  your  own  homes  and  dwellings."
+Time  is  it,  my  welcome  guests,  to  betake  yourselves to  your  own  homes  and  dwellings."
 
 1  Daughter  of  Mikiila  the  Villager's  Son,  and  sister  of  Nastasya,
 obr^ya's  wife,  according  to  the  peasant  singer.  .
 
-
-68  EPIC  SONGS   OF  RUSSIA.
 
 Then  she  seated  herself  in  her  folding  chair,  and
 for  the  space  of  three  full  hours  she  meditated  how
@@ -2804,8 +2521,7 @@ of  Vasillsa's  guard :
 no  one  therein:  for  his  young  wife  hath  departed
 to  the  distant  land,  to  the  Golden  Horde."
 
-So  the  messenger  turned  back  to  Kief,  and  out-
-riding them,  told  Prince  Vladimir  privately  that  a
+So  the  messenger  turned  back  to  Kief,  and  outriding them,  told  Prince  Vladimir  privately  that  a
 threatening  ambassador,^  Vaslly  Mikiilich,  was  on
 his  way  to  Kief  from  a  far-off  land.
 
@@ -2828,8 +2544,6 @@ spike  at  its  point,  and  entered  straightway  the  fair,
 1  Yasilisa  appears  as  a  Tzar^vich  in  some  versions.
 
 
-70  EPIC  SONGS   OF  RUSSIA.
-
 royal  halls,  asking  leave  of  none,  but  flinging  wide
 the  doors.
 
@@ -2851,8 +2565,7 @@ Beauty  said :  "  What  art  thou  minded  to  do,  deal
 father  ?  wilt  thou  give  a  maiden  in  marriage  to  8
 woman  ?  For  I  have  marked  this  Vasily  Mikiilich,
 No  threatening  ambassador  is  he  —  but  a  woman,
-by  all  the  signs.  When  he  walketh  in  the  court-
-yard, 'tis  like  a  duck  swimming ;  his  speech  is
+by  all  the  signs.  When  he  walketh  in  the  courtyard, 'tis  like  a  duck  swimming ;  his  speech  is
 woman's  pipe,  his  gait  in  the  royal  halls  is  mincing
 when  he  sitteth  upon  the  wall-bench,  he  presset
 his  feet  close  one  to  the  other ;  his  little  hands  ar
@@ -2870,8 +2583,6 @@ as  Vladimir's  niece.
 I
 
 
-EPIC  SONGS  OF  RUSSIA.  71
-
 he  be  in  truth  a  mighty  hero,  then  will  he  come
 to  the  bath  with  me :  but  if  he  be  a  woman,  he
 will  not  come."
@@ -2880,23 +2591,20 @@ So  the  bath  was  heated,  and  Vladimir  went  to
 invite  Vaslly  Mikulich.
 
 "  Wilt  thou  steam  thyself  with  me,  after  the
-road,  good  youth?"  he  said.  And  Vaslly  re-
-plied :
+road,  good  youth?"  he  said.  And  Vaslly  replied :
 
 "  My  soul  bumeth  to  do  that.  Pleasing  will  it
 be  after  my  journey."
 
 Now,  Prince  Vladimir  was  royally  apparelled,
-and  while  he  was  busy  with  putting  off  his  gar-
-ments, Vasillsa  hastened  to  the  bath,  wet  her  head,
+and  while  he  was  busy  with  putting  off  his  garments, Vasillsa  hastened  to  the  bath,  wet  her  head,
 and  came  forth  as  Vladimir  entered.
 
 "With  great  speed  hast  thou  steamed  thyself.
 Ambassador  Vaslly  Mikiilich!  Why  didst  thou
 not  await  my  coming  ?  "
 
-"  Thou  art  at  home  and  at  leisure,  Prince  Vla-
-dimir, but  I  am  a  traveller ;  my  business  brooketh
+"  Thou  art  at  home  and  at  leisure,  Prince  Vladimir, but  I  am  a  traveller ;  my  business  brooketh
 no  long  delay  in  the  bath.  I  am  come  to  woo.
 Give  me  thy  young  daughter  to  wife."
 
@@ -2911,8 +2619,6 @@ is  no  man."
 "  I  will  prove  her  yet  once  more,  my  dear
 daughter,"  quoth  Vladimir,  and  went  to  Vasily.
 
-
-72  EPIC  SONGS  OF  RUSSIA.
 
 "Is  it  pleasing  to  thee  to  shoot  a  match  with
 my  young  men,  Vaslliushka  Mikiilich  ?  "
@@ -2930,8 +2636,7 @@ weather.
 Then  Vaslly  Mikiilich  spoke :
 
 "  Ho  ther6.  Prince  Vladimir  !  I  will  have  none
-of  these  heroic  bows.  I  have  by  me  a  little  trav-
-elling bow,  with  which  I  adventure  out  upon  the
+of  these  heroic  bows.  I  have  by  me  a  little  travelling bow,  with  which  I  adventure  out  upon  the
 open  plain."  Then  came  bold  and  goodly  youths
 from  the  white  pavilion  without  the  walls,  where
 she  had  left  her  body-guard.  Five  men  bore  the
@@ -2947,8 +2652,6 @@ ringbarked  oak,  and  shivered  it  into  splinters.
 Thereupon  Prince  Vladimir  spat  to  one  side,  and
 said  as  he  went  away :  "  I  will  prove  this  ambas-
 
-
-EPIC  SONGS  OF  RUSSIA.  73
 
 sador  yet  once  again.  If  he  be  a  woman,  he  will
 refuse  a  wrestling  match."
@@ -2987,8 +2690,6 @@ On  the  third  day  of  the  feast,  when  the  time
 drew  near  for  them  to  fare  to  God's  church  and  be
 married,  Vaslly  grew  sad  and  exceeding  sorrowful.
 
-
-74  EPIC  SONGS   OF  RUSSIA.
 
 Then  Prince  Vladimir  began  to  inquire  of  him  why
 he  was  not  merry.
@@ -3040,8 +2741,7 @@ J  EPIC  SONGS   OF  EUSSIA.  75
 
 Prince  Vladimir ;  let  Stavr  go  to  my  white  pavilion,
 and  view  there  my  body-guard,  and  walk  in  the
-open  fields."  This  Vladimir  would  fain  have  re-
-fused, yet  dared  not  anger  the  man ;  and  so  allowed
+open  fields."  This  Vladimir  would  fain  have  refused, yet  dared  not  anger  the  man ;  and  so  allowed
 it.
 
 When  they  were  come  to  the  open  plain  and  the
@@ -3069,21 +2769,16 @@ rather  go  to  Prince  Vladimir."
 
 When  they  came  to  the  royal  palace,  Stavr  said :
 "  Ai,  thou  Fair  Sun  Prince  Vladimir !  I  have  made
-good  my  boast ;  for  thou  hast  betrothed  thy  daugh-
-ter to  my  young  wife."
+good  my  boast ;  for  thou  hast  betrothed  thy  daughter to  my  young  wife."
 
 Then  was  Prince  Vladimir  shamed,  and  spoke
-
-
-76
 
 
 EPIC  SONQS   OF  RUSSIA.
 
 
 this  word :  "  With  reason  did  Stavr  boast  of  his
-young  wife,  Vasilisa  MikiiKchna!  May  God  for-
-give thee  thy  former  offence !  But  boast  no  more
+young  wife,  Vasilisa  MikiiKchna!  May  God  forgive thee  thy  former  offence !  But  boast  no  more
 of  thy  young  wife,  and  trade  evermore  in  our  good
 city  of  Kief  without  tax."
 
@@ -3093,9 +2788,6 @@ to  their  lordly  villages  and  palace  of  white  stones
 No  more  did  Stavr  frequent  lordly  banquets,  an(
 never  more  bragged  he  of  his  young  wife,  but  dwelt
 thenceforth  and  took  his  ease  in  Chernigof.
-
-
-EPIC  SONGS   OF  RUSSIA.  77
 
 
 ILYA    OP   -ildrROM   AND    NIGHTINGAT.T!    THE
@@ -3115,8 +2807,7 @@ would  not  shoot  his  fiery  darts."
 
 Then  he  departed  from  the  cathedral  church,
 entered  the  spacious  courtyard  and  began  to  saddle
-good  Cloudfall,  his  shaggy  bay  steed,  to  arm  him-
-self and  prepare  for  his  journey  to  the  famous  town
+good  Cloudfall,  his  shaggy  bay  steed,  to  arm  himself and  prepare  for  his  journey  to  the  famous  town
 of  Kief,  to  the  worshipful  feast,  and  the  Fair  Sun
 Prince  Vladlrau*  of  royal  Kief.  Good  Cloudfall's
 mane  was  three  ells  in  length,  his  tail  three  fathoms,
@@ -3124,12 +2815,6 @@ and  his  hair  of  three  colors.  Ilyd  put  on  him  fii'st
 the  plaited  bridle,  next  twelve  saddlecloths,  twelve
 felts,  and  upon  them  a  metal  bound  Cherk6ssian
 saddle.     The  silken  girths  were  twelve  in  number
-
-
-78
-
-
-EPIC  SONGS   OF  RUSSIA.
 
 
 —  not  for  youthful  vanity  but  for  heroic  strength  ;j
@@ -3167,11 +2852,8 @@ The  gray  hare  could  not  course,  nor  the  clear  falcoi
 fly,  about  that  host,  so  vast  was  it.
 
 
-EPIC  SONGS   OF  RUSSIA.  79
-
 When  Ilya  saw  that,  he  dismounted,  and  falling
-down  before  good  Cloudfall's  right  foot,  he  en-
-treated hira :
+down  before  good  Cloudfall's  right  foot,  he  entreated hira :
 
 "  Help  me,  my  shaggy  bay ! "  So  Cloudfall
 soared  like  a  falcon  clear,  and  Ilya  plucked  up  a
@@ -3181,10 +2863,8 @@ stirrup,  grasped  another  in  his  right  hand,  and
 began  to  brandish  it.  "  Every  man  may  take  a
 vow,"  quoth  he,  "  but  not  every  man  can  fulfil  it."
 
-Where  he  waved  the  damp  oak,  a  street  ap-
-peared ;  where  he  drew  it  back,  a  lane.  Great  as
-was  the  number  that  he  slew,  yet  twice  that  num-
-ber did  his  good  steed  trample  under  foot :  not  one
+Where  he  waved  the  damp  oak,  a  street  appeared ;  where  he  drew  it  back,  a  lane.  Great  as
+was  the  number  that  he  slew,  yet  twice  that  number did  his  good  steed  trample  under  foot :  not  one
 was  spared  to  continue  thek  race.
 
 The  gates  of  Chernigof  were  strongly  barred,
@@ -3194,18 +2874,14 @@ his  good  steed  over  the  city  wall  (the  height  of  the
 waU  was  twelve  fathoms),  and  entered  the  church
 where  all  the  people  were  assembled,  praying  God,
 repenting  and  receiving  the  sacrament  against  sure
-approaching  death.  Ilya  crossed  himself  as  pre-
-scribed, did  reverence  as  enjoined,  and  cried :
+approaching  death.  Ilya  crossed  himself  as  prescribed, did  reverence  as  enjoined,  and  cried :
 
-"  Hail,  ye  merchants  of  Chernigof,  warrior-
-maidens  and  mighty  heroes  all !  Why  repent  ye
+"  Hail,  ye  merchants  of  Chernigof,  warriormaidens  and  mighty  heroes  all !  Why  repent  ye
 now,  and  receive  the  sacrament  ?  Why  do  ye  bid
 farewell  thus,  to  the  white  world  ?  "
 
 Then  they  told  him  how  they  were  besieged  by
 
-
-80  EPIC  SONGS   OF  RUSSIA.
 
 accursed  Tatars,  and  Ilyd  said :  "  Go  ye  upon  the
 famous  wall  of  your  city,  and  look  toward  the  open
@@ -3242,22 +2918,18 @@ is  the  Smor6dina  river,  six  versts  in  width,  and  th(
 1  Originally  this  signified  a  war  chieftain.
 
 
-EPIC  SONGS   OF  RUSSIA.  81
-
 Black  Morass ;  and  beside  that  river,  the  thu*d
 barrier  is  Nightingale  the  Robber.
 
 "  He  hath  built  his  nest  on  seven  oaks,  that
-magic  bird.  When  he  whistleth  like  a  nightin-
-gale, the  dark  forest  boweth  to  the  earth,  the
+magic  bird.  When  he  whistleth  like  a  nightingale, the  dark  forest  boweth  to  the  earth,  the
 green  leaves  wither,  horse  and  rider  fall  as  dead.
 For  that  cause  the  road  is  lost,  and  no  man  hath
 travelled  it  these  thirty  years."
 
 When  Ilya  the  Old  Cossack  heard  that,  he
 mounted  his  good  steed,  and  rode  forthwith  that
-straight  way.  When  he  came  to  the  lofty  moun-
-tains, his  good  steed,  rose  from  the  damp  earth,  and
+straight  way.  When  he  came  to  the  lofty  mountains, his  good  steed,  rose  from  the  damp  earth,  and
 soared  like  a  bright  falcon  over  them  and  the  tall
 dreaming  forests.  When  he  came  to  the  Black
 Morass,  he  plucked  great  oaks  with  one  hand,  and
@@ -3278,14 +2950,7 @@ knees,  and  Ilyd  began  to  beat  him  upon  his  flanks
 and  between  his  ears.
 
 
-82
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
-"  Thou  wolf's  food !  "  cried  Ilya,  "  thou  grass-
-bag  !  Hast  never  been  in  the  gloomy  forest,  nor
+"  Thou  wolf's  food !  "  cried  Ilya,  "  thou  grassbag  !  Hast  never  been  in  the  gloomy  forest,  nor
 heard  the  song  of  nightingale,  the  roar  of  wild
 beast,  nor  serpent's  hiss  % "
 
@@ -3304,8 +2969,7 @@ Then  the  Old  Cossack  raised  up  that  mighty
 robber,  bound  him  to  his  stirrup  by  his  yellow
 curls,  and  went  his  way.  Ere  long  they  came  to
 the  Nightingale's  house,  built  upon  seven  pillars
-over  seven  versts  of  ground.  About  the  court-
-yard was  an  iron  paling,  upon  each  stake  thereof
+over  seven  versts  of  ground.  About  the  courtyard was  an  iron  paling,  upon  each  stake  thereof
 a  spike,  and  on  each  spike  the  head  of  a  hero.
 In  the  centre  was  the  strangers'  court ;  and  there
 stood  three  towers  with  golden  crests,  spire  joined
@@ -3319,8 +2983,6 @@ the  latticed  casements,  and  beheld  a  hero  riding
 with   one   at   his   stirrup,  they  cried :   "  Ai,  lady
 
 
-EPIC  SONGS  OF  RUSSIA.  83
-
 mother!  Our  father  cometh,  and  leadeth  a  man
 at  his  stirrup  for  us  to  eat."
 
@@ -3330,8 +2992,7 @@ Old  Cossack  Ilya  of  Mtirom  who  rideth,  and  leadeth
 our  father  in  bonds."
 
 Then  spoke  Nightingale's  nine  sons :  "  We  will
-transform  ourselves  into  ravens,  and  rend  that  peas-
-ant with  our  iron  beaks,  and  scatter  his  white  body
+transform  ourselves  into  ravens,  and  rend  that  peasant with  our  iron  beaks,  and  scatter  his  white  body
 over  the  plain."  But  their  father  shouted  to  them
 that  they  should  not  harm  the  hero.
 
@@ -3346,8 +3007,7 @@ than  God's  temple,  higher  than  the  life-giving
 cross  thereon,  and  fell  against  the  rear  wall  of  the
 court,  where  her  skin  burst.
 
-"  Foolish  are  ye,  my  children ! "  cried  the  Night-
-ingale. "  Fetch  from  the  vaults  a  cart-load  of
+"  Foolish  are  ye,  my  children ! "  cried  the  Nightingale. "  Fetch  from  the  vaults  a  cart-load  of
 fair  gold,  another  of  pure  silver  and  a  third  of  fine
 seed  pearls,  and  give  to  the  Old  Cossack,  Ilya  of
 Mtirom,  that  he  may  set  me  free."
@@ -3369,12 +3029,10 @@ wise  came  the  good  youth,  the  Old  Cossack,  to
 Kief,  to  glorious  Prince  Vladimir.
 
 Now,  fair  Prince  Vladimir  of  royal  Kief  was  not
-at  home;  he  had  gone  to  God's  temple.  There-
-fore Ilya  entered  the  coui't  without  leave  or  an-
+at  home;  he  had  gone  to  God's  temple.  Therefore Ilya  entered  the  coui't  without  leave  or  an-
 nouncement, bound  his  horse  to  the  golden  ring
 in  the  carven  pillar,  and  laid  his  commands  upon
-that  good  heroic  steed :  "  Guard  thou  the  Nightin-
-gale, my  charger,  that  he  depart  not  from  my
+that  good  heroic  steed :  "  Guard  thou  the  Nightingale, my  charger,  that  he  depart  not  from  my
 stirnip  of  steel."
 
 And  to  Nightingale  he  said :  "  Look  to  it.
@@ -3394,8 +3052,6 @@ son  of  honorable  parents.  "  I  stood  at  my  home
 in  Murom,  at  matins,"  quoth  he,  "  and  mass  was
 
 
-EPIC  SONGS   OF  RUSSIA.  85
-
 but  just  ended  when  I  came  hither  by  the  straight
 way."
 
@@ -3407,8 +3063,7 @@ not  %  "  said  Fair  Sun  Vladimir.  "  That  way  hath
 been  lost  these  thirty  years,  for  there  stand  great
 barriers  therein;  accursed  Tatars  in  the  fields,
 black  morasses ;  and  beside  the  famed  Smorodina,
-amid  the  bending  buxhes,  is  the  nest  of  the  Night-
-ingale on  seven  oaks ;  and  that  Magic  Bu*d  hath
+amid  the  bending  buxhes,  is  the  nest  of  the  Nightingale on  seven  oaks ;  and  that  Magic  Bu*d  hath
 nine  sons  and  eight  daughters,  and  one  is  a  witch.
 He  hath  permitted  neither  horse  nor  man  to  pass
 him  these  many  years."
@@ -3425,15 +3080,11 @@ on  Kief  town  and  the  other  on  Ch6migof  from
 force  of  habit.  And  Princess  Apraxia  came  forth
 upon  the  railed  balcony  to  look.
 
-Prince  Vladimir  spoke:  "Whistle,  thou  Night-
-ingale, roar  like  an  aurochs,  hiss  like  a  dragon."
+Prince  Vladimir  spoke:  "Whistle,  thou  Nightingale, roar  like  an  aurochs,  hiss  like  a  dragon."
 
 But  the  Nightingale  replied :  "  Not  thy  captive
 'am  I,  Vladimir.  'Tis  not  thy  bread  I  eat.  But
 give  me  ^dne."
-
-
-86
 
 
 EPIC  SONGS   OF  EUSSIA.
@@ -3474,15 +3125,12 @@ Ilya,  "  this  kind  buildeth  never,  but  destroyeth
 alway."
 
 
-EPIC  SONGS   OF  RUSSIA.  87
-
 With  that  he  took  Nightingale  the  Robber  by  his
 white  hands,  led  him  far  out  upon  the  open  plain,
 fitted  a  burning  arrow  to  his  stout  bow,  and  shot  it
 into  the  black  breast  of  that  Magic  Bird.  Then
 he  struck  off  his  turbulent  head,  and  scattered  his
-bones  to  the  winds  ,^  and  mounting  his  good  Cloud-
-fall,  came  again  to  Prince  Vladimir.
+bones  to  the  winds  ,^  and  mounting  his  good  Cloudfall,  came  again  to  Prince  Vladimir.
 
 Again  they  sat  at  the  oaken  board,  eating  savory
 viands  and  white  swans,  and  quaffing  sweet  mead.
@@ -3532,8 +3180,6 @@ Appendix.
 3  Popular  for  Joachim.
 
 
-EPIC  SONGS   OF  RUSSIA.  89
-
 Ch^rnigof,  the  third  to  Kief  town  and  courteous
 Prince  Vladimir.
 
@@ -3566,12 +3212,9 @@ to  saddle  them  with  speed ;  and  when  this  was
 done  they  mounted,  and  made  ready  to  go  to  Kief
 town.
 
-As  they  rode,  there  met  them  in  the  way  a  wan-
-dering psalm-singer.  His  foot-gear  was  woven  of
+As  they  rode,  there  met  them  in  the  way  a  wandering psalm-singer.  His  foot-gear  was  woven  of
 the  seven  silks,  soled  with  pure  silver,  and  the  faces
 
-
-90  EPIC  SONGS   OF  RUSSIA.
 
 were  studded  with  red  gold.  His  long  mantle  wai
 of  sable,  his  hat  from  Sorochinsky,  from  the  Gre
@@ -3587,10 +3230,8 @@ arrow's  length.  The  horse  beneath  him  is  like  a
 wild  beast ;  from  his  throat  flames  flash,  from  hi{
 ears,  smoke  riseth  in  a  pillar."
 
-Then  bold  Alyosha  Popovich  bade  the  psalm-
-singer  yield  his  pilgrim  garb,  and  receive  Alyosha'i
-heroic  raiment  in  exchange.  So  the  pilgrim  re-
-fused not,  but  gave  his  garments  to  Aly6sha,  ani
+Then  bold  Alyosha  Popovich  bade  the  psalmsinger  yield  his  pilgrim  garb,  and  receive  Alyosha'i
+heroic  raiment  in  exchange.  So  the  pilgrim  refused not,  but  gave  his  garments  to  Aly6sha,  ani
 put  on  the  heroic  raiment.  And  with  speed  di
 Alyosha  array  himself,  as  a  wandering  Kalyeka,
 took  the  staff"  of  fifty  poods  and  a  dagger  of  dam«
@@ -3612,18 +3253,13 @@ songs  are  known  as  kaly4ky  perikdzhie,-  wandering  psalm^ingers.
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  91
-
-
 ihrust  him  through  with  his  lance,  and  burn  him
 with  fire.
 
 Pilgrim  Aly6sha  answered :  "  Come  nearer ;  for
-I  hear  not  what  thou  sayest."  Then,  when  Tuga-
-rin  drew  near,  Alyosha  set  himself  against  him,
+I  hear  not  what  thou  sayest."  Then,  when  Tugarin  drew  near,  Alyosha  set  himself  against  him,
 brandished  his  staff  about  his  head,  and  smote
-Tugarin's  tempestuous  head,  and  broke  it.  Tuga-
-rin  fell  to  the  damp  earth,  and  Alyosha  sprang
+Tugarin's  tempestuous  head,  and  broke  it.  Tugarin  fell  to  the  damp  earth,  and  Alyosha  sprang
 upon  his  black  breast :  whereupon  young  Tugarin
 besought  him :
 
@@ -3632,16 +3268,14 @@ not  young  Alyosha  Popovich?  If  thou  be  he  in
 very  truth,  let  us  now  swear  brotherhood."
 
 But  Aly6sha  trusted  not  his  enemy.  He  smote
-off  his  turbulent  head,  drew  off  his  flowered  gar-
-ments (then-  value  was  one  hundred  thousand
+off  his  turbulent  head,  drew  off  his  flowered  garments (then-  value  was  one  hundred  thousand
 rubles),  put  them  all  on  himself,  mounted  his  good
 steed,  and  set  out  for  his  white  pavilion.
 
 But  when  Aklm  and  the  pilgrim  beheld  him,  they
 were  sore  afraid ;  they  mounted  their  good  steeds,
 and  rode  toward  Rostof  town.  But  young  Alyosha
-followed  and  outrode  them.  When  Aklm  Ivan-
-ovich  saw  that,  he  turned  about,  drew  forth  his
+followed  and  outrode  them.  When  Aklm  Ivanovich  saw  that,  he  turned  about,  drew  forth  his
 battle-mace  of  thirty  poods,  and  flung  it  behind
 him  (for  he  thought  from  the  garments  it  had  been
 young  Tugdrin  Dragon's  Son),  and  struck  Alydsha's
@@ -3695,16 +3329,12 @@ th|
 ml
 
 
-EPIC  SONGS   OF  RUSSIA.  93
-
 thyself  in  the  great  place,  the  fore  comer ;  or  in
 the  second,  the  heroic  place,  on  the  oaken  bench
-over  against  me ;  or  in  the  third  place,  whereso-
-ever thou  desirest."
+over  against  me ;  or  in  the  third  place,  wheresoever thou  desirest."
 
 Aly6sha  seated  himself  not  in  the  great  place,
-but  with  his  comrade  on  the  beam  of  the  oven-
-bench.  And  after  a  little  space,  lo !  twelve  mighty
+but  with  his  comrade  on  the  beam  of  the  ovenbench.  And  after  a  little  space,  lo !  twelve  mighty
 heroes  bare  in  Tugarin  the  Dragon's  Son  on  a  great
 sheet  of  pure  gold,^  and  seated  him  in  the  great  place
 beside  the  Princess  Apraxia.  Then  they  fetched
@@ -3721,8 +3351,7 @@ of  that  cup  was  a  bucket  and  a  half.
 
 Then  spoke  up  bold  Aly6sha  Pop6vich :  "  Ho
 there,  courteous  lord,  Prince  Vladimir  !  What  lout
-is  this  that  is  come  to  the  court,  what  untu-
-tored fool?  For  he  sitteth  not  honorably  at  thy
+is  this  that  is  come  to  the  court,  what  untutored fool?  For  he  sitteth  not  honorably  at  thy
 table,  but  layeth  his  hand  upon  the  Princess
 Apraxia,  kisseth  her  on  her  sugar  mouth,  and
 jeereth  at  thee.  Prince.  My  lord  and  father  had
@@ -3730,9 +3359,6 @@ an  old  dog,  that  dragged  himself  with  labor  under
 
 ^  Bodies  have  been  found  in  the  kurgdns  or  mounds,  between  sheets
 of  pare  gold;  but  these  belong  to  ancient  Scythian  times.
-
-
-94
 
 
 EPIO  SONGS   OF  RUSSIA.
@@ -3758,13 +3384,11 @@ As  she  spoke,  Tugarin  seized  ^the  white  swan,
 and  suddenly  swallowed  it  whole,  and  there witl
 yet  another  great  round  loaf.     Alyosha  said :
 
-"  Courteous  Lord  Vladimir !  What  boor  and  un-
-polished dullard  is  this  that  sitteth  here^  He
+"  Courteous  Lord  Vladimir !  What  boor  and  unpolished dullard  is  this  that  sitteth  here^  He
 thrusteth  whole  loaves  into  his  cheek,  and  maketl
 but  a  mouthful  of  a  white  swan.  My  lord  ant
 father,  Pope  Fedor  of  Rostof,  had  a  miserable  olc
-cow.  With  pain  she  dragged  herself  to  the  court-
-yard, and  broke  into  the  kitchen,  where  she  dranl
+cow.  With  pain  she  dragged  herself  to  the  courtyard, and  broke  into  the  kitchen,  where  she  dranl
 a  keg  of  spiced  small  beer,  —  and  burst.  Pope
 Fedor  took  her  by  the  tail,  and  swung  her  upoi
 the   hill.  —  So    also   will   I   do    to    Tularin    the
@@ -3780,9 +3404,6 @@ night,  plucked  out  his  steel  dagger,  and  flung
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  95
-
-
 at  Aly6sha.  But  Aly6sha  was  nimble,  and  Tugarin
 could  not  touch  him.  Aklm  Ivanovich  seized  the
 dagger,  and  said  to  Aly6sha :
@@ -3790,8 +3411,7 @@ dagger,  and  said  to  Aly6sha :
 "  Wilt  thou  cast  it  at  him  thyself,  or  dost  thou
 command  me  to  hurl  it  %  "
 
-"  I  will  neither  cast  it,  nor  command  thee.  To-
-morrow I  will  meet  him,  I  will  lay  a  great  wager
+"  I  will  neither  cast  it,  nor  command  thee.  Tomorrow I  will  meet  him,  I  will  lay  a  great  wager
 with  him  —  not  of  a  hundred  rubles,  nor  yet  of  a
 thousand ;  —  but  my  tempestuous  head  shall  be  my
 stake."
@@ -3821,8 +3441,6 @@ having  called  his  comrade,  hastened  forth.
 They  mounted,  and  rode  to  the  Safat  river,  and
 pitched  their  white  pavilions;  preparing  to  rest,
 
-
-96    *  EPIC  SONGS   OF  RUSSIA.
 
 they  loosed  their  horses  in  the  green  meadow.
 All  that  night  Aly6sha  slept  not,  but  besought  God
@@ -3866,15 +3484,13 @@ entered  his  fair  hall,  seated  himself  at  his  richly
 decked  table,  and  bade  the  banquet  proceed  for
 Aly6sha,
 
-After  it  had  continued  for  a  space,  Prince  Vladi-
-mir spoke :  "  Ho,  young  Aly6sha  Pop6vich !  In
+After  it  had  continued  for  a  space,  Prince  Vladimir spoke :  "  Ho,  young  Aly6sha  Pop6vich !  In
 one  moment  thou  hast  given  me  solace.  Dwell
 henceforth  in  Kief  town,  I  pray  thee,  and  serve
 me.  Prince  Vladimir,  and  I  will  reward  thee  with
 love,  and  with  all  my  heart."
 
-This  prayer  bold  young  Aly6sha  Pop6vich  dis-
-regarded not,  and  began  to  serve  Vladimir  with
+This  prayer  bold  young  Aly6sha  Pop6vich  disregarded not,  and  began  to  serve  Vladimir  with
 loyalty  and  truth.
 
 But  the  Princess  said :  "  Thou  villager  and  rustic
@@ -3919,8 +3535,6 @@ given.  But  it  behooveth  us  to  lay  upon  ourselvei
 a  great  vow,  ye  mighty  heroes !  —  not  to  rob  no
 
 
-EPIC  SONGS   OF  RUSSIA.  99
-
 steal,  not  to  yield  to  woman's  charms,  nor  stain  our
 knightly  hands  with  blood.
 
@@ -3937,8 +3551,7 @@ upon  the  silken  grass,  to  roam  the  open  plain,  and
 donned  palmer's  weeds.  Over  theu'  heroic  shoulders
 they  threw  their  beggar's  pouches  of  black  cut
 velvet,  embroidered  in  red  gold,  and  strewn  with
-fair  seed-pearls.  On  their  heads  they  set  caps-
-from  the  Grecian  land,  and  in  their  white  hands
+fair  seed-pearls.  On  their  heads  they  set  capsfrom  the  Grecian  land,  and  in  their  white  hands
 they  took  staves  of  precious  fishes'  teeth.^  Their
 raiment  was  like  the  poppy  in  hue,  and  each  bore
 in  his  hand  a  precious  antaventa  stone.  By  day
@@ -3954,9 +3567,6 @@ Prince  Vladimir,  hunting  the  white  swan,  geese,
 
 1  Walrus  tusk:  greatly  esteemed  in  the  Archangel  Government,  and
 used  for  fine  carvings.
-
-
-100
 
 
 EPIC  SONGS   OF  BUS  SI  A.
@@ -4001,8 +3611,6 @@ fore,  to  my  princely  palace,  and  say  that  the  Fail
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  101
-
 Sun  Prince  Vladimir  sent  ye  from  the  open
 plain."
 
@@ -4024,12 +3632,10 @@ and  bid  them  enter.
 When  the  pilgrims  mounted  the  fair  porch,  step
 bent  to  step,  and  the  new  ante-chamber  sagged
 beneath  their  tread.  They  crossed  themselves  as
-enjoined,  prayed  to  the  Saviour's  picture,  did  rever-
-ence as  prescribed  to  three  sides  and  to  four,  and
+enjoined,  prayed  to  the  Saviour's  picture,  did  reverence as  prescribed  to  three  sides  and  to  four,  and
 in  particular  to  the  Princess  Apraxia.
 
-The  Princess  bade  them  welcome,  and  com-
-manded fair  cloths  to  be  laid  on  the  oaken  tables
+The  Princess  bade  them  welcome,  and  commanded fair  cloths  to  be  laid  on  the  oaken  tables
 with  all  speed,  sugar  viands  to  be  brought,  and
 honeyed  drinks.  Then  all  sat  down  to  meat :  the
 pilgrims,  the  Princess  Apraxia,  with  her  nurses
@@ -4038,8 +3644,6 @@ Kasyan  Mikailovich  sat  in  the  great  place  of  honor,
 and  from  his  youthful  countenance  as  from  the  fair
 
 
-102  EPIC  SONGS   OF  RUSSIA.
-
 red  sun,  rays  streamed.      The  stewards  and  cup
 bearers  hastened  to  and  fro,  bearing  fau*  meats  and
 drinks.
@@ -4047,8 +3651,7 @@ drinks.
 They  feasted  long,  even  until  the  fair  sun  sank
 in  the  west.  Then  the  pilgrims  were  led  to  cham
 bers  where  they  might  repose ;  but  the  Princes*
-Aprdxia  herself  led  young  Kasyan  to  a  fair  cham-
-ber apart,  where  stood  a  couch  of  smooth  boards
+Aprdxia  herself  led  young  Kasyan  to  a  fair  chamber apart,  where  stood  a  couch  of  smooth  boards
 with  bed  of  down,  heavy  cushions,  and  a  coverlet
 of  rich  black  sables.
 
@@ -4112,13 +3715,10 @@ here  one  night,  and  are  but  lately  departed  hence.
 They  have  taken  thy  royal  cup  !  "
 
 Then  Prince  Vladimir  gave  command  in  haste,
-that  his  mighty  heroes  should  ride  after  the  pil-
-grims.    But  Ilya  of  Murom  warned  him :
+that  his  mighty  heroes  should  ride  after  the  pilgrims.    But  Ilya  of  Murom  warned  him :
 
 "  Ai,  Fair  Sun  Vladimir !  these  be  no  wandering
 
-
-104  EPIC  SONGS   OF  RUSSIA.
 
 psalm-singers,  but  one  and  forty  heroes  bold,  an
 whom  have  we  to  send  against  them  ?  "
@@ -4161,8 +3761,6 @@ how  to  petition  with  courtesy."
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  105
-
 So  Dobrynya  gat  to  horse,  and  when  he  came
 upon  the  forty  and  one  sittmg  on  the  open  plain,
 eating  and  refreshing  themselves,  he  cried :
@@ -4198,11 +3796,8 @@ exceeding  wroth,  and  in  great  amaze,  and  said :
 Kasydn  Mikdilovich  ?  lo,  it  was  thyself  who  didst
 impose  that  great  vow."
 
-"  Beloved  comrades,"  young  Kasyan  made  an-
-swer, "  I  did  not  steal  the  royal  cup :   this  thing
+"  Beloved  comrades,"  young  Kasyan  made  answer, "  I  did  not  steal  the  royal  cup :   this  thing
 
-
-106  EPIC  SONGS   OF  RUSSIA.
 
 hath  the  Princess  Aprdxia  contrived  because  1
 would  not  yield  to  her.  Nevertheless,  do  ye  now
@@ -4216,8 +3811,7 @@ feet  to  the  knee,  his  white  arms  to  the  elbow,
 plucked  his  clear  eyes  from  his  brow  and  hiia
 tongue  from  his  mouth,  and  buried  him  to  the
 breast  in  damp  mother  earth.  Then  they  bade
-him  farewell,  as  a  dead  man,  and  betook  them-
-selves to  Jerusalem.
+him  farewell,  as  a  dead  man,  and  betook  themselves to  Jerusalem.
 
 Young  Dobrynya  Nikltich  looked  on  at  all  theil
 deed,  then  rode  thence  with  all  speed,  bearing  the
@@ -4240,16 +3834,13 @@ feet,  his  white  hands,  his  clear  eyes,  and  his  tongue !
 1  St.  Nicholas.
 
 
-EPIC  SONGS  OF  RUSSIA.  107
-
 he  put  breath  also  into  Kasydn's  white  breast,  set
 him  on  his  nimble  feet,  and  spake  this  word :  "  Go
 thy  way,  young  Kasyan  Mikailovich !  thou  shalt  find
 thy  friends  at  their  first  halting-place.  The  Lord
 hath  sent  me  to  thee,  good  youth,  because  thou
 wert  wrongfully  slain,  not  having  stolen  the  royal
-cup.  Go  now  to  Jerusalem,  pray  God  in  the  sanc-
-tuary, kiss  the  Lord's  grave,  bathe  in  Jordan  river.
+cup.  Go  now  to  Jerusalem,  pray  God  in  the  sanctuary, kiss  the  Lord's  grave,  bathe  in  Jordan  river.
 And  when  thou  art  come  again  to  this  our  land,
 build  a  cathedral  church  to  Mik6la  of  Mozhaisk ;
 for  I  am  he."
@@ -4276,8 +3867,6 @@ and  rode  to  Kief  town,  to  Fair  Sun  Vladimh's
 spacious  court,  where  they  asked  alms  in  Chrifit's
 
 
-108  EPIC  SONGS   OF  RUSSIA.
-
 name,  that  they  might  have  the  wherewithal  to
 dine.
 
@@ -4292,8 +3881,7 @@ pouch."
 
 So  they  told  Vladimir  what  the  Princess  had
 done  when  they  had  lodged  there,  and  how  the
-good  youth  whom  they  had  slain,  had  never-
-theless accompanied  them  to  Jerusalem.  Then
+good  youth  whom  they  had  slain,  had  nevertheless accompanied  them  to  Jerusalem.  Then
 Prince  Vladimir  sent  his  stewards  and  cupbearers
 to  make  obeisance  to  them  and  entreat  them  to
 enter.
@@ -4313,13 +3901,10 @@ thereupon  young  Kasyan  breathed  upon  her  with
 his  holy  breath,  laid  his  holy  hand  upon  her  and
 
 
-EPIC  SONGS   OF  RUSSIA.  109
-
 pardoned  her,  and  she  was  solaced ;  for  she  had
 suifere.d  much,  lying  in  shame  a  full  half  year.
 
-Then  young  Kasyan  returned  with  Prince  Vladi-
-mir to  the  banquet-hall,  prayed  before  the  Saviour's
+Then  young  Kasyan  returned  with  Prince  Vladimir to  the  banquet-hall,  prayed  before  the  Saviour's
 picture,  and  sat  down  with  his  comrades  at  the
 richly  adorned  tables.  They  ate  and  drank  and
 refreshed  themselves ;  and  when  they  would  have
@@ -4332,13 +3917,11 @@ herself,  and  came  to  the  table  with  her  nurses,
 ladies  in  waiting  and  fair  handmaidens.  Young
 Kasyan  she  saluted  without  shame  or  confusion,
 though  her  sin  lay  in  her  mind,  and  Kasyan  waved
-his  small  right  hand  over  the  sugar  viands,  hedg-
-ing them  about  with  the  sign  of  the  cross,  and  a
+his  small  right  hand  over  the  sugar  viands,  hedging them  about  with  the  sign  of  the  cross,  and  a
 blessing.
 
 ^Yhen  all  had  feasted  their  fill,  they  saddled
-their  good  steeds,  and  having  taken  leave  of  court-
-eous Prince  Vladimir  and  of  each  other,  they  rode
+their  good  steeds,  and  having  taken  leave  of  courteous Prince  Vladimir  and  of  each  other,  they  rode
 each  to  his  own  country.
 
 And  none  of  these  forty  heroes  and  one  ever
@@ -4349,9 +3932,6 @@ When  young  Kasyan  Mikdilovich  came  to  his
 own  land,  he  raised  a  cathedral  church  to  Mik6la
 of  Mozhaisk,  and  began  to  pray  constantly  to  God,
 and  to  repent  of  his  sins.
-
-
-110  EPIC  SONGS   OF  RUSSIA.
 
 
 ILYA    IN    DISGmSR
@@ -4367,8 +3947,7 @@ Prince  Vladimir  was  holding  a  merry  feast.  Ilyd
 entered  straight  the  banquet-hall,  crossed  himself
 as  prescribed,  did  reverence  as  enjoined,  bowing  on
 all  four  sides,  and  to  the  Fair  Sun  Prince  Vladimir
-and  the  Princess  Apraxia  in  particular.  But  Vla-
-dimir knew  him  not.
+and  the  Princess  Apraxia  in  particular.  But  Vladimir knew  him  not.
 
 "  What  is  thy  name  and  tribe?"  he  asked ;  "  and
 what  thy  patronymic  \ "
@@ -4415,18 +3994,14 @@ hand,  and  the  other  three  fell  dead  likewise.
 Then  Prince  Vladimir  commanded  that  twelve
 should  seize  him ;  and  with  them  it  fared  the
 same.  Then  twelve  grasped  him,  with  six  more
-behind ;  and  these  eighteen  met  their  fate  like-
-wise, for  Ilya's  heroic  heart  burned  within  him
+behind ;  and  these  eighteen  met  their  fate  likewise, for  Ilya's  heroic  heart  burned  within  him
 when  he  was  thus  led  out  with  ignominy.
 
 He  fitted  an  arrow  to  his  stout  bow.  "  Fly,  my
 shaft,  about  the  princely  windows,"  he   conjm'ed
 
 
-112  EPIC  SONGS   OF  RUSSIA.
-
-it ;  "  bear  off  all  the  golden  spires,  and  the  wonder-
-working crosses  on  God's  temples."
+it ;  "  bear  off  all  the  golden  spires,  and  the  wonderworking crosses  on  God's  temples."
 
 Then  he  gathered  up  all  the  spkes  and  crosses,
 went  to  the  royal  pot-house,  sold  the  precious  spires
@@ -4456,8 +4031,7 @@ Thou  hast  not  known,  Vladimir,  how  to  welcome
 thy  guest  on  his  coming,  nor  honor  him  at  his
 going."
 
-"  Whom  shall  we  send  to  bid  him  to  an  honor-
-able feast  ? "  said  Vladlmu*  in  amaze.  "  Bold
+"  Whom  shall  we  send  to  bid  him  to  an  honorable feast  ? "  said  Vladlmu*  in  amaze.  "  Bold
 Aly6sha  Pop6vich  will  not  know  how  to  bid  him.
 
 
@@ -4506,8 +4080,7 @@ the  front,  thou  shouldst  have  become  £ishes  ere
 now!  Now  go,  and  say  these  words  to  thy  Fair
 Sun  Prince :  '  Let  strict  ukases  be  promulgated
 throughout  all  the  towns  of  Kief  and  Ch^rnigof,
-that  all  the  pot-houses  and  drinking  places  of  what-
-ever sort  be  opened  freely  for  the  space  of  three
+that  all  the  pot-houses  and  drinking  places  of  whatever sort  be  opened  freely  for  the  space  of  three
 days,  that  all  the  people  may  drink  green  wine
 without  price.  And  whoso  drinketh  no  green
 wine,  let  him  quaff  the  beer  of  drunkenness ;  and
@@ -4535,12 +4108,6 @@ either  on  my  right  hand  or  my  left,  and  yet  a  third
 place  —  wherever  it  pleaseth  thee  to  sit."     There
 
 
-EPIC  SONGS   OF  RUSSIA.
-
-
-115
-
-
 with  he  took  Ilya  by  his  white  hands,  and  kissed
 him  on  his  sugar  mouth.
 
@@ -4554,15 +4121,11 @@ Thus  was  Ilyd  reconciled  to  courteous  Prince
 Vladimir.
 
 
-116  EPIC  SONGS   OF  RUSSIA.
-
-
 DOBRYNYA    THE    DRAGON-SLAYER,   AND    MARINA.
 
 From  far,  very  far  in  the  open  plain,  and  farther
 yet  in  the  valley,  fled  the  herd  of  beasts,  of  wild
-beasts  and  serpents :  at  their  head  ran  the  Skiper-
-beast,  with  woolly  hide,  crumpled  horns,  and  little
+beasts  and  serpents :  at  their  head  ran  the  Skiperbeast,  with  woolly  hide,  crumpled  horns,  and  little
 hoofs  of  steel.    The  Skiper-beast  fled  to  the  Dniepr
 river,  and  all  the  Dniepr's  waters  were  troubled.
 Its  fair  steep  banks  quaked,  the  delicate  tree-tops
@@ -4579,8 +4142,7 @@ but  only  a  good  steed.
 In  the  tenth   year,  courteous   Prince  Vladimir
 ^  made  a  great  feast  in  royal  Kief  town,  whereat
 
-many  heroes  and  bold  warrior-maidens  were  assem-
-bled, eating  and  drinking  merrily.  Young  Do-
+many  heroes  and  bold  warrior-maidens  were  assembled, eating  and  drinking  merrily.  Young  Do-
 brynya Nikitich  sat  at  the  end  of  the  oaken  board,
 and  spoke :
 
@@ -4588,8 +4150,6 @@ and  spoke :
 
 1  Dobrynya  is  partly  historical.    See  AppeadLx.
 
-
-EPIC  SONGS   OF  RUSSIA.  117
 
 served  thee  long  in  thy  princely  court :  grant  me
 leave  now  to  wander  about  Kief,  through  its  narrow
@@ -4626,15 +4186,12 @@ mouth,  with  wing  enfolding  wing ;  and  it  pleased
 not   Dobrynya    that    they   should    sit   thus.      He
 
 
-118  EPIC  SONGS   OF  RUSSIA.
-
 strung  a  silken  cord  to  his  bow,  and  fitted  thereto  a
 flaming  arrow,  and  shot  at  the  dove  and  his  mate.
 The  cord  sang  on  the  stout  bow,  but  his  left  foot
 slipped,  his  right  hand  trembled  —  the  arrow  struck
 not  the  dove  and  mate,  but  flew  straight  to  the
-lofty  palace,  through  the  lattice  window  to  Marin-
-ushka  the  vile,  and  slew  Tugarin  Dragon's  Son  her
+lofty  palace,  through  the  lattice  window  to  Marinushka  the  vile,  and  slew  Tugarin  Dragon's  Son  her
 dear  friend  who  was  with  her  there.
 
 Dobrynya  reflected :  —  "If  I  enter  that  palace
@@ -4654,8 +4211,7 @@ She  took  Dobrynya  by  his  white  hand,  by  his  silver
 ring,  kissed  his  sugar  mouth,  and  said :
 
 "  Ah,  sweet  Dobrynya  Nikltich,  give  me  thy
-love !  "  Dobrynya  made  answer  :  "  Sweet  Marln-
-ushka  Ignatievna,  I  will  not!  Thou  hast  slain
+love !  "  Dobrynya  made  answer  :  "  Sweet  Marlnushka  Ignatievna,  I  will  not!  Thou  hast  slain
 nine  mighty  Russian  heroes,  and  art  minded  to
 slay  me  likewise."  Then  he  turned  from  the  new
 chamber,  and  went  forth  into  the  spacious  court,
@@ -4665,13 +4221,10 @@ and  so  home  to  his  mother.
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  119
-
 Up  sprang  Marlnushka  then,  seized  her  dagger,
 and  hacked  Dobrynya's  footsteps,  flung  them  into
 the  oven  painted  with  many  devices,  and  conjured
-them  with  a  powerful  incantation :  "  Burn,  ye  foot-
-steps of  Dobrynya,  burn,  in  this  oven  of  many
+them  with  a  powerful  incantation :  "  Burn,  ye  footsteps of  Dobrynya,  burn,  in  this  oven  of  many
 hues ;  and  may  his  spirit  likewise  burn  within  him
 for  me !  As  I  cut  these  footsteps,  may  Dobrynya's  y
 dear  little  heart  cut  for  me  !  "  ^
@@ -4710,9 +4263,6 @@ still  employed  in  a  slightly  difiereut  form  among  the  Burmese.
 i
 
 
-120  EPIC  SONGS   OF  RUSSIA.
-
-
 silver  hoofs  and  velvet  hide,  or  into  a  frog  of  the
 under  world ;  —  and  from  that  last  estate  there  is
 no  return  forever."
@@ -4736,23 +4286,17 @@ made  complaint.
 
 "  Ai,  young  Avd6tya  Ivdnovna !  an  aiu'ochs  with'
 golden  horns  hath  trampled  under  foot  all  our  1
-geese ;  not  one  hath  he  left  us."  After  them  fol-
-lowed the  keepers  of  the  swans,  the  shepherds  and|  I
+geese ;  not  one  hath  he  left  us."  After  them  followed the  keepers  of  the  swans,  the  shepherds  and|  I
 herdsmen,  with  the  same  complaint.  Not  a  living
 creature  of  all  then-  flocks  and  herds  had  the
 golden  aurochs  spared.  Then  Avddtya  Ivanovna
 spoke :
 
-"  That  aurochs  of  the  golden  horns  is  my  well-
-beloved  nephew,  young  Dobrynya,  whom  Marina
-the  Vile  hath  transformed."  But  when  the  guard-
-ians of  the  horses  came  and  told  how  the  aurochs
-had  dispersed  their  charge  over  all  the  plain,  spar-
-ing none,  Avd6tya  rose  in  wrath.  She  turned  herself
+"  That  aurochs  of  the  golden  horns  is  my  wellbeloved  nephew,  young  Dobrynya,  whom  Marina
+the  Vile  hath  transformed."  But  when  the  guardians of  the  horses  came  and  told  how  the  aurochs
+had  dispersed  their  charge  over  all  the  plain,  sparing none,  Avd6tya  rose  in  wrath.  She  turned  herself
 into  a  magpie,  and  flew  to  Mai'Ina  the  Vile,  perched
 
-
-EPIC  SONGS   OF  RUSSIA.  121
 
 in  her  little  lattice  window,  and  began  to  scold,  and
 say :  "  Vile  Princess  Marlnushka !  why  hast  thou
@@ -4784,12 +4328,8 @@ instructeth  his  wife."
 Then  Marina  believed  him,  and  turned  him  into
 a  goodly  youth  as  of  old.
 
-"  Now  I  must  wed  thee  about  a  bush,  Marin-
-nshka,"  he  said,  "  about  a  willow  bush  in  the
+"  Now  I  must  wed  thee  about  a  bush,  Marinnshka,"  he  said,  "  about  a  willow  bush  in  the
 open  plain."    So  three  times  about  the  willow  bush
-
-
-122  EPIC  SONGS  OF  RUSSIA.
 
 
 they  paced,  and  Dobrynya  called  Marina  his  wife,^
@@ -4818,8 +4358,7 @@ wine!"  i
 
 But  the  trusty  servant  gave  him  very  quickly  aj
 sharp  sword.     The  cup  of  wine  he  quaffed  not,  but'
-brandished  his  sword,  and  cut  off  Marina's  turbu-
-lent head  for  her  ungentle  deeds^
+brandished  his  sword,  and  cut  off  Marina's  turbulent head  for  her  ungentle  deeds^
 
 In  the  morning  he  went  to  his  warm  steam  bath,
 and  thither  came  princes  and  nobles.
@@ -4841,16 +4380,11 @@ and  no  longer  alone,  but  now  I  am  single  and  no
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  123
-
 longer  wedded.  I  have  cut  off  Marina's  turbulent
 head  for  her  ruthless  deeds  ;  for  she  had  slain  many
 Russian  people,  Princes  and  their  heirs,  Kings  and
 Crown  Princes,  nine  mighty  Russian  heroes,  and
 of  common  folk  an  innumerable  host ! "
-
-
-124  EPIC  SONGS   OF  RUSSIA.
 
 
 IVAN   GODINOVICH.
@@ -4885,8 +4419,6 @@ Godin6vich?"  i
 
 1  See  Appendix.
 
-
-EPIC  SONGS   OF  RUSSIA.  125
 
 Where  I  would  take,  there  I  am  refused:    and
 where  they  would  give,  I  will  not  take."
@@ -4956,8 +4488,7 @@ tlu'usting  the  door-posts  aside.
 Prince  Vladimir  then,  "  Take  a  hundred  of  my
 men,  and  a  second  hundred  of  the  princely  nobles,
 and  yet  a  third  hundred  of  thine  own.  Go  in
-honor  to  woo,  and  if  they  give  not  the  maid  will-
-ingly, then  take  her  by  force."
+honor  to  woo,  and  if  they  give  not  the  maid  willingly, then  take  her  by  force."
 
 In  haste  did  the  youths  assemble,  and  prepare
 for  their  journey.     They  had  but  passed  the  swift
@@ -4967,8 +4498,6 @@ for  their  journey.     They  had  but  passed  the  swift
 
 i
 
-
-EPIC  SONGS   OF  RUSSIA.  127
 
 Dniepr  when  a  powdering  of  white  snow  fell,  and
 upon  this  hght,  pure  snow  they  beheld  traces  of
@@ -4984,20 +4513,16 @@ be  taken  heedfully  and  without  disfiguring  wounds,
 and  borne  to  royal  Kief,  to  great  Prince  Vladimir.
 
 But  Ivan  himself  went  on  alone  to  Chernigof
-town,  rode  into  the  midst  of  Guest  Dmitry's  spa-
-cious court,  and  bound  his  good  steed  to  the  oaken
+town,  rode  into  the  midst  of  Guest  Dmitry's  spacious court,  and  bound  his  good  steed  to  the  oaken
 pillar.  Then  he  entered  the  fair  chamber,  and
 prayed  before  the  Saviour's  picture,  but  did  no,
 reverence  to  Dmitry  the  rich  merchant.  With
-Dmitry  were  sitting  then,  divers  of  the  Tatar  body-
-guard,^ who  had  brought  a  garment,  in  value  one
+Dmitry  were  sitting  then,  divers  of  the  Tatar  bodyguard,^ who  had  brought  a  garment,  in  value  one
 hundred  thousand  rubles,  from  the  Tzar  Kosch^i
-to  his  love  Avd6tya  Dmltrievna.  —  The  Tzar  him-
-self was  but  three  versts  from  Chernigof,  and  with
+to  his  love  Avd6tya  Dmltrievna.  —  The  Tzar  himself was  but  three  versts  from  Chernigof,  and  with
 him  was  a  host  of  three  thousand  men.
 
-"  Give   me   thy   daughter,"   spoke    Ivan    Godi-
-n6vich.
+"  Give   me   thy   daughter,"   spoke    Ivan    Godin6vich.
 
 "Thou  shalt  have  the  dog  in   my  courtyard,'*
 Dmitry  made  answer  as  before.
@@ -5007,8 +4532,7 @@ Dmitry  made  answer  as  before.
 
 128  EPIO  SONGS   OF  RUSSIA.
 
-"  I  shall  neither  ask  thee  much  nor  long  dis-
-pute," said  Ivan ;  and  thereupon  he  rose  from  th(
+"  I  shall  neither  ask  thee  much  nor  long  dispute," said  Ivan ;  and  thereupon  he  rose  from  th(
 hewn  wall  bench,  pushed  aside  the  silken  hangings,
 and  so  came  into  the  new  hall  where  sat  the  White
 Swan  weaving  linen.  "  Hail,  Avd6tya  the  White
@@ -5036,14 +4560,11 @@ To  this  the  Ch^rnigovian  made  reply :  "  Wilt
 thou  not  eat  bread  and  salt  with  me,  Ivanushka
 Godinovich  V'^
 
-"  Thou  hast  not  refreshed  the  guest  at  his  com-
-ing," quoth  Ivan,  "  and  at  his  going  it  shall  not  be;
+"  Thou  hast  not  refreshed  the  guest  at  his  coming," quoth  Ivan,  "  and  at  his  going  it  shall  not  be;
 permitted  to  thee."
 
 1  "  Bread  and  salt "  is  the  epic  euphuism  for  hospitality.
 
-
-EPIC  SONGS   OF  RUSSIA,  129
 
 Said  Dmitry:  "I  have  written  a  letter  to  Kosch6i
 the  Deathless,  and  have  thereto  set  my  hand,  and
@@ -5062,8 +4583,7 @@ for  himself  and  his  Avd6tya.
 Now  when  the  news  came  to  Kosch6i,  he  went
 forth  to  the  stable-yard,  took  a  foal  with  nine
 chains,  put  on  him  heroic  trappings,  girded  on  his
-broad  sword,  took  his  sharp  spear  and  his  battle-
-mace,  seized  on  the  way  his  steel  dagger,  and  rode
+broad  sword,  took  his  sharp  spear  and  his  battlemace,  seized  on  the  way  his  steel  dagger,  and  rode
 forth  over  the  plain  until  he  came  to  Chernigof.
 There  he  learned  that  Ivan  Godin6vich  had  in
 truth  carried  off  Avdotya  the  White  Swan,  and  he
@@ -5080,8 +4600,6 @@ fresh  spring  water,  dried  himself  upon  a  towel
 of  fine  damask,  crossed  himself  as  prescribed,  did
 reverence  as   enjoined,  and   prayed   to   the   most
 
-
-130  EPIC  SONGS   OF  RUSSIA.
 
 wondrous    Saviour.     Then   he  mounted  his   gooc
 
@@ -5129,8 +4647,7 @@ Kosch^i's  black  breast,  and  draw  forth  his  restive
 
 heart."
 
-Avd6tya  obeyed  his  behest,  and  fetched  the  dag-
-ger. But  when  Kosch6i  espied  her,  he  spoke  this
+Avd6tya  obeyed  his  behest,  and  fetched  the  dagger. But  when  Kosch6i  espied  her,  he  spoke  this
 word :  I
 
 "  Bethink  thee,  Avd6tya  the  White  Swan !     If^  I
@@ -5141,8 +4658,6 @@ I  will  make  thee  a  Tzarltza.     Many  lands  shall  do
 
 i
 
-
-EPIC  SONGS   OF  RUSSIA.  131
 
 homage  to  thee,  and  all  nobles  shall  do  reverence
 to  thee.  Do  thou  therefore  seize  Ivan  by  his
@@ -5172,8 +4687,7 @@ alighted  upon  the  damp  oak  ;  and  he  told  Avd6tya.
 "  Shoot  me  those  dark  blue  doves,"  quoth  the
 White  Swan,  "for  I  would  fain  eat  of  them."
 
-Kosch6i  hearkened  to  her,  fitted  a  sharp  burn-
-ing arrow  to  his  bow,  and  conjured  it :
+Kosch6i  hearkened  to  her,  fitted  a  sharp  burning arrow  to  his  bow,  and  conjured  it :
 
 "  Fall  not,  my  arrow,  in  the  water  or  upon  the
 damp  earth ;  but  fall,  my  shaft,  upon  the  damp
@@ -5183,16 +4697,13 @@ thereon."
 But  Ivdn  conjured  in  his  turn :  "  O  stout  bow.
 
 
-132  EPIC  SONGS   OF  RUSSIA.
-
 clear  burning  mother  arrow!  fall  not  to  earth,
 strike  not  the  dove ;  but  bound  back  from  this
 damp  oak,  and  pierce  Kosch6i's  black  breast,  drag
 forth  his  royal  heart,  to  the  discontent  of  old
 crones,  and  the  cawing  of  black  crows."
 
-So  the  arrow  did,  and  attained  Kosch6i's  im-
-petuous heart ;  and  thus  died  Koschei  the  Death-
+So  the  arrow  did,  and  attained  Kosch6i's  impetuous heart ;  and  thus  died  Koschei  the  Death-
 less.^
 
 Then  Avd6tya  bethought  herself  once  more  and
@@ -5263,9 +4774,6 @@ Ivdn  by  his  ruddy  curls."
 Last  of  all,  he  cut  off  her  turbulent  head.
 
 
-134  EPIC  SONGS   OF  RUSSIA.
-
-
 Then  he  washed  his  sword  in  the  Dniepr  river,
 and  rode  to  Kief  town,  where  all  the  mighty  heroes
 came  forth  to  meet  him.
@@ -5304,8 +4812,7 @@ addressed  him  in  human  language :
 
 "  Now  ai,  Dobrynya  Nikitich !  Slay  me  not,
 and  I  will  reveal  all  things  to  thee.  The  children
-in  the  streets  have  a  proverb :  '  In  killing  a  gray-
-beard  there  is  no  salvation,  and  none  shall  receive
+in  the  streets  have  a  proverb :  '  In  killing  a  graybeard  there  is  no  salvation,  and  none  shall  receive
 profit  from  shooting  a  raven.'  With  the  blue
 plumes  of  a  raven  may  no  man  solace  himself,  and
 my  flesh  thou  canst  not  eat."  Half  the  raven's
@@ -5322,12 +4829,9 @@ the  raven :  "  What  thou  hast  said  of  the  old  man
 and  the  raven  is  true."     Then  he  put  aside  his
 
 
-136  EPIC  SONGS   OF  RUSSIA.
-
 dart,  and  thought :  "  Better  is  it  that  I  should  go
 to  the  lofty  mountain,  to  yon  steep  hill,  and  view
-those  three  wondrous  marvels,  those  three  marvel-
-lous damsels."
+those  three  wondrous  marvels,  those  three  marvellous damsels."
 
 So  he  turned  his  good  steed  in  haste,  quickly,
 quickly,  very,  very  quickly,  and  with  speed,  and
@@ -5351,15 +4855,12 @@ hanging  over  him.
 
 From  afar  in  the  open  plain  came  Aly6sha
 Popovich  riding,  and  gazed  upon  that  sight.  —
-More  had  been  cast  down,  poured  out  and  tram-
-pled under  foot,  than  had  been  eaten.  Then  was
+More  had  been  cast  down,  poured  out  and  trampled under  foot,  than  had  been  eaten.  Then  was
 Alyosha  very  wroth,  and  his  heroic  heart  burned
 within  him.  He  grasped  his  sharp-pointed  spear,
 and  would  have  pierced  Dobrynya's  white  breast ;
 but  he  reflected :
 
-
-EPIC  SONGS  OF  RUSSIA.  137
 
 "  No  honor  shall  I  win,  nor  youthful  praise,  if  I
 slay  a  sleeping  man,  who  is  no  better  than  a  dead
@@ -5374,8 +4875,7 @@ in  his  fine  white  shirt  without  a  girdle,  and  without
 his  shoes,  grasped  his  heroic  mace,  and  they  two
 began  to  fight.  Dobrynya  leaped  about  on  foot,  but
 Aly6sha  rode  Dobrynya's  good  steed.  Allday  they  |
-contended  eating  nothing,  all  day  they  fought  drink-
-ing nothing.    Two  more  days  and  nights  they  fought.
+contended  eating  nothing,  all  day  they  fought  drinking nothing.    Two  more  days  and  nights  they  fought.
 
 Then  came  a  clap  of  thunder,  and  mother  earth
 began  to  quiver.  When  Ilyd  of  Miirom  the  Old
@@ -5392,25 +4892,20 @@ heroic  strength."  —  They  saw  the  good  youth  as  he
 mounted,  as  he  rode  they  saw  him  not  nor  knew
 whither  his  course  was  directed.
 
-When  Ilyd  came  to  the  lofty  mountain,  he  be-
-held young  Dobrynya  and  bold  Aly6sha  in  combat.
+When  Ilyd  came  to  the  lofty  mountain,  he  beheld young  Dobrynya  and  bold  Aly6sha  in  combat.
 
-
-138  EPIC  SONGS   OF  RUSSIA.
 
 Then  he  seized  Dobrynya  in  his  right  hand,  bold
 Aly6sha  in  his  left,  and  shouted  at  the  top  of  his
 voice:  "  Why  contend  ye,  mighty  Russian  heroes  ? "
 
 Aly6sha  answered :  "  Ah,  thou  Old  Cossack,
-Ilyd  of  Murom !  How  could  I  refain  from  fight-
-ing %  The  tables  were  all  laid  in  my  pavilion,  and
+Ilyd  of  Murom !  How  could  I  refain  from  fighting %  The  tables  were  all  laid  in  my  pavilion,  and
 viands  set  thereon ;  and  this  Dobrynya  Nikitich  cast
 to  the  earth  and  trampled  under  foot  as  much  as  he
 ate  and  drank,  so  that  I  was  ashamed  for  the  youth."
 
-"  I  thank  thee,  Aly6sha,"  spoke  Ilya,  "  for  de-
-fending thine  own."     And  to  Dobrynya  he  said :
+"  I  thank  thee,  Aly6sha,"  spoke  Ilya,  "  for  defending thine  own."     And  to  Dobrynya  he  said :
 
 "  And  thou,  Dobrynya  Nikitich,  my  cross-brother
 in  arms,  why  contendest  thou  ? "
@@ -5427,15 +4922,11 @@ of  a  stranger."     And  yet  more  said  little  Ilyd.
 
 "  Calm  now  your  heroic  hearts,  and  call  each
 other  brother  in  arms,  and  swear  brotherhood,  with
-exchanging  of  crosses."  Then  he  flattered  and  per-
-suaded them,  and  they  began  not  again  to  fight
+exchanging  of  crosses."  Then  he  flattered  and  persuaded them,  and  they  began  not  again  to  fight
 and  contend,  but  swore  brotherhood  on  the  cross :
 Dobrynya  called  himself  the  elder  brother,  and
 Aly6sha  called  himself  the  younger.  And  so  they
 parted  and  came  to  Kief  town.
-
-
-EPIC  SONGS  OF  RUSSIA.  139
 
 
 .   CHURILO  PLENKOVICH,  THE  POP.
@@ -5467,8 +4958,6 @@ and  stag,  and  us  they  beat  and  woun4ed.     And
 Latin  faith  prevailed,  in  contradistinction  to  "Orthodox"  Bussia.
 
 
-140  EPIC  SONGS   OF  RUSSIA.
-
 thou,  lord,  hast  no  booty  and  we  no  guerdon,  and
 our  wives  and  children  are  deprived  of  their  pro-
 -  tectors  ;  —  for  we  must  wander  through  the  world,
@@ -5484,19 +4973,16 @@ girdles,  for  the  cudgel  blows.  They  also  did  lowly
 reverence  to  bright  Prince  Vladimir,  and  made
 complaint,  in  like  fashion  to  the  first.  They  had
 traversed  the  lakes  and  rivers  and  royal  ponds,
-and  had  taken  nothing,  but  had  espied  five  hun-
-dred youths  catching  white-fish,  pikes,  carps,  and
+and  had  taken  nothing,  but  had  espied  five  hundred youths  catching  white-fish,  pikes,  carps,  and
 lesser  fishes,  so  that  the  Prince  could  get  nothing.
-They,  receiving  therefore  no  payment  save  a  cudg-
-elling from  those  bold  youths,  would  be  forced  to
+They,  receiving  therefore  no  payment  save  a  cudgelling from  those  bold  youths,  would  be  forced  to
 roam  the  world  for  a  livelihood.
 
 \ To  this  complaint  Vladimir  paid  no  more  heed
 
 "^  than  to  the  first,  but  continued  to  eat,  drink,  and
 ^^5  make  merry.  This  company  had  not  quitted  the
-''^' '  courtyard  when  two  more  appeared,  the  royal  fal-
-coners and  hawkers,  with  their  turbulent  heads  all
+''^' '  courtyard  when  two  more  appeared,  the  royal  falconers and  hawkers,  with  their  turbulent  heads  all
 broken  and  bound  up.  These  made  complaint
 that  in  all  the  open  plains,  royal  fens  and  pleasure
 isles,  they  could  espy  neither  hawk  nor  falcon,  nor
@@ -5506,13 +4992,9 @@ aught  but  a  thousand  men,  who  rode  hither  and  J
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  141
-
-
 thither,  catching  bright  sparrow-hawks  and  white
 noble  falcons.  And  these  men,  who  had  assaulted
-and  wounded  the  rojal  falconers,  were  called  Chu-
-rllo's  ^  body-guard.
+and  wounded  the  rojal  falconers,  were  called  Churllo's  ^  body-guard.
 
 While  the  falconers  still  stood  in  the  royal
 presence,  came  merchants  and  gardeners,  and  told
@@ -5547,22 +5029,17 @@ of  precious  fishes'  teeth,  and  all  his  ovens  of  tiles."
 of  Churil6vshina.
 
 
-142  EPIC  SONGS   OF  RUSSIA.
-
 When  Vladimir  heard  that,  he  arrayed  himself
 in  haste,  and  commanded  a  journey.  With  him
 he  took  his  Princess,  his  nobles  and  mighty  heroes,
 Dobrynya  Nikltich,  and  old  Bermyag  Vasllievich,
-summoned  five  hundred  men,  and  set  out  for  Chu-
-rllo  Plenk6vich's  court.
+summoned  five  hundred  men,  and  set  out  for  Churllo  Plenk6vich's  court.
 
 Old  Plenk6  came  to  meet  them.  For  the  Prince
 and  Princess  he  opened  his  gates  of  carved  work,
 for  the  princes  and  nobles  those  of  crystal,  for  the
-common  folk  the  tin.  Then  old  Plenk6  the  silk-
-merchant  led  Vladimir  and  the  Princess  Apraxia
-to  a  richly  patterned  chamber,  to  another  of  crys-
-tal, and  a  third  of  lattice  work,  and  so  to  the
+common  folk  the  tin.  Then  old  Plenk6  the  silkmerchant  led  Vladimir  and  the  Princess  Apraxia
+to  a  richly  patterned  chamber,  to  another  of  crystal, and  a  third  of  lattice  work,  and  so  to  the
 golden-domed  tower  where  all  was  heavenly  with
 sun  and  moon,  stars  innumerable  and  white
 dawns.
@@ -5570,8 +5047,7 @@ dawns.
 In  the  fair  hall  he  seated  them  at  tables  richly
 decked,  and  assigned  fitting  places  to  the  princes
 and  nobles.  Then  the  cunning  cooks  fetched  sweet
-viands  and  mead,  and  all  sorts  of  liquors  from  be-
-yond the  sea,  to  give  mirth  to  the  princes.  Joyful
+viands  and  mead,  and  all  sorts  of  liquors  from  beyond the  sea,  to  give  mirth  to  the  princes.  Joyful
 was  their  converse,  and  cheerful  the  day.
 
 Prince  Vladimir  pulled  aside  the  little  lattice
@@ -5587,8 +5063,6 @@ color,  their  bits  alike  of  bronze,  their  caftdns  all
 I
 
 
-EPiC  SONGS  OF  RUSSIA.  143
-
 of  scarlet  cloth  with  streaming  girdles.  The  shoes
 upon  their  feet  were  of  green  morocco,  the  tips
 awl-like,  the  heels  sharp  (under  the  heels  small
@@ -5596,14 +5070,12 @@ sparrows  might  hop  and  flutter,  over  the  insteps,
 an  egg  might  roll).
 
 Then  Prince  Vladimir  inquired  of  Plenk6  whether
-it  were  his  son  thus  riding,  and  the  old  silk-mer-
-chant made  answer,  smiling :
+it  were  his  son  thus  riding,  and  the  old  silk-merchant made  answer,  smiling :
 
 "Nay,  these  be  Churllo's  cooks,  who. make  his
 green  wine."
 
-When  that  throng  had  entered  the  court,  an-
-other of  five  hundred  came  riding  from  the  plain,
+When  that  throng  had  entered  the  court,  another of  five  hundred  came  riding  from  the  plain,
 all  mounted  alike  and  apparelled.
 
 Again  Vladimir  inquired  of  Plenk6  whether  this
@@ -5624,8 +5096,6 @@ with  carven  buttons  of  red  gold,  in  fashion  like  to
 apples  of  Siberia.
 
 
-144  EPIC  SONGS  OF  RUSSIA.
-
 Lightly  rode  that  host ;  beneath  them  the  soft
 grass  bent  not,  the  azure  flowerets  broke  not.
 
@@ -5642,8 +5112,7 @@ from  home,  and  there  rideth  hither  to  me,  a  King
 from  the  horde,  or  some  threatening  ambassador,
 to  sue  for  my  fair  niece  Beauty.^
 
-But  old  Plenkd  poured  him  a  cup  of  wine,  say-
-ing :   "  Fear  not,  Prince  Vladimir !     'Tis    but  my  ]
+But  old  Plenkd  poured  him  a  cup  of  wine,  saying :   "  Fear  not,  Prince  Vladimir !     'Tis    but  my  ]
 son  Churilo  with  his  guard.     When  he  shall  stand  ^
 before  thee,  lord,  this  feast  will  be  but  half  a  feast,
 this  banquet  will  seem  but  poor."  ■
@@ -5663,16 +5132,13 @@ guest,  Fair  Sun  Vladimir  of  royal   Kllef.     What
 1  Zabava  or  Zapava.
 
 
-EPIC  SONGS   OF  RUSSIA.  145
-
 wilt  thou  now  set  before  him,  what  gifts  bestow
 upon  him  % "
 
 Now  Churllo  was  quick-witted  and  crafty.  He
 took  his  golden  keys,  went  to  his  iron-bound  coffers,
 and  drew  thence  great  treasure  of  black  sables,  and
-a  mantle  of  precious  sables,  soft  and  feathery  be-
-neath rich  samite  from  beyond  the  sea,  for  Prince  ^
+a  mantle  of  precious  sables,  soft  and  feathery  beneath rich  samite  from  beyond  the  sea,  for  Prince  ^
 Vladimir,  fine  white  damask,  in  value  a  hundred
 thousand  rubles,  for  the  Princess  Aprdxia.  To  "^v-  (^
 each  noble  he  gave  little  foxes  of  the  cavern,  to
@@ -5685,13 +5151,11 @@ Vladimir  accepted  these  gifts,  and  said  :
 many,  yet  are  his  offerings  still  greater.  And  now
 I  will  not  give  judgment  against  him."
 
-And  to  Churllo  he  said :  "  Young  Chui-llo  Plen-
-k6vich,  it  is  not  fitting  that  thou  shouldst  dwell  in
+And  to  Churllo  he  said :  "  Young  Chui-llo  Plenk6vich,  it  is  not  fitting  that  thou  shouldst  dwell  in
 the  country.  Wilt  thou  not  come  to  Kief,  and
 serve  me  as  seneschal  and  cupbearer  ? "
 
-Though  some  buy  off  misfortune,  Churllo  pur-
-chased ill-luck  at  great  cost.  Yet  he  rebelled  not,
+Though  some  buy  off  misfortune,  Churllo  purchased ill-luck  at  great  cost.  Yet  he  rebelled  not,
 but  ordered  them  to  saddle  his  steed  in  haste,  and
 all  rode  back  to  Kief,  so  that  all  maids  and  wives
 gazed  and  marvelled  as  they  passed  through  the
@@ -5701,8 +5165,6 @@ Then  that  bright  lord.  Prince  Vladimir,  made  a
 great  feast  for  his  new  steward.  Churllo  laid  the
 oaken  tables,  and  as  he  shook  back  his  golden
 
-
-146  EPIC  SONGS   OF  RUSSIA.
 
 curls,  they  fell  apart  as  fair  round  pearls  do  roll
 .    asunder;    and    as    young    Princess    Apraxia   was
@@ -5719,8 +5181,7 @@ pillow  to  play  upon  his  giisly  of  maple-wood,  and
 solace  thee."
 
 Then  Vladimir  told  Churllo  that  thus  it  must
-be ;  for  some  buy  off  misfortune,  but  Churilo  pur-
-chased his.  So  he  performed  the  varied  service
+be ;  for  some  buy  off  misfortune,  but  Churilo  purchased his.  So  he  performed  the  varied  service
 of  groom  of  the  chambers,  to  the  great  solace  of
 Prince  Vladimir  and  his  Princess,  young  Aprdxia.
 
@@ -5740,9 +5201,6 @@ Churilo  not."  j|
 1  A  headdress,  in  shape  like  a  coronet.
 
 
-EPIC  SONGS   OF  RUSSIA.  147
-
-
 I  Vladimir  perceived  that  misfortune  was  come
 upon  him,  and  spoke  this  word  then  to  Churilo :
 
@@ -5756,17 +5214,13 @@ to  the  Piichai  river,  where  he  began  again  to  dwell
 in  mirth  and  pleasure.
 
 
-148  EPIC  SONGS   OF  RUSSIA.
-
-
 ILYA  AND  THE  BOON  COMPANIONS.
 
 From  the  city  of  Galich  to  Kief  town  ran  a
 broad  road  of  forty  fathoms :  along  that  road  fared
 a  pilgrim,  and  the  road  bent  beneath  his  weight.
 His  smock  was  tattered  with  use,  and  a  rag  was
-his  girdle.  His  cap  weighed  forty  poods,  his  foot-
-gear was  of  bast,  his  crutch  was  nine  fathoms,  and
+his  girdle.  His  cap  weighed  forty  poods,  his  footgear was  of  bast,  his  crutch  was  nine  fathoms,  and
 he  leaned  upon  a  hooked  staff.  I
 
 The  old  man's  beard  was  sprinkled  with  gray,  his
@@ -5780,8 +5234,7 @@ prayer,  crossing  himself  as  enjoined  and  bowing
 on  all  sides  as  prescribed.
 
 "  Hail,  ye  vintner's  men,"  quoth  he.     "  Pour  mi
-a  pail  and  a  half  of  wine,  to  refresh  me,  a  wander-
-ing pilgrim."
+a  pail  and  a  half  of  wine,  to  refresh  me,  a  wandering pilgrim."
 
 But  the  vintners  made  answer :  "  Nay,  thou  old
 dog,  thou  gray  hound,  we  will  not  trust  thee.  We
@@ -5793,8 +5246,6 @@ But  the  pilgrim  took  from  his  neck  an  ancient;
 
 i
 
-
-EPIC  SONGS   OF  RUSSIA.  149
 
 and  wondrous  cross,  six  poods  and  a  half  in  weight,
 of  purest  antique  gold.  "  Take  this  cross  as
@@ -5809,8 +5260,7 @@ said:
 
 "  I  thank  ye,  boon  companions,  and  peasants  of
 the  village !  Ye  have  given  the  old  man  wine  to
-drunkenness ;  but  now  it  is  late.  Come  ye  there-
-fore to  me  to-morrow  right  early,  and  I  will  give
+drunkenness ;  but  now  it  is  late.  Come  ye  therefore to  me  to-morrow  right  early,  and  I  will  give
 you  all  wine  even  to  drunkenness,  in  return."
 
 Then  the  aged  man  climbed  upon  the  brick
@@ -5825,14 +5275,11 @@ might,  in  a  piercing,  thunderous  voice :
 
 "  Ho,  ye  boon  companions  and  ye  peasants  of
 the  village !  Come  to  the  old  man's  feast !  I  will
-give  ye  all  green  wine  even  to  drunkenness,  with-
-out price."
+give  ye  all  green  wine  even  to  drunkenness,  without price."
 
 When  the  vintners  heard  that,  they  assembled,
 eighty   men   in   number,  to  take  the  green  wine
 
-
-150  EPIC  SONGS   OF  RUSSIA.
 
 from  the  aged  pilgrim,  but  could  do  nothing,  and
 so  went  to  petition  Prince  Vladimir  against  him.
@@ -5851,8 +5298,7 @@ royal  pot-house,  and  sleep  upon  the  oven  of  bricks."
 This  he  did,  and  early  on  the  morrow  came
 trusty  servants  from  the  Prince,  who  said .
 
-"Come  to  Prince  Vladimir,  thou  wandering  pil-
-grim."
+"Come  to  Prince  Vladimir,  thou  wandering  pilgrim."
 
 But  the  old  man  answered :  "In  vain  do  ye
 disquiet  me,  brothers !  Let  the  old  man  sleep."
@@ -5861,16 +5307,12 @@ through  Kief,  past  the  princely  palace,  and  cried
 in  a  mighty  voice :
 
 "Hey,  Prince  Vladimir  of  royal  Kief!  Receive
-here  thy  money  for  the  green  wine  from  the  Cos-
-sack of  the  Don,  from  Ilya  of  Miirom.  1  go  now
+here  thy  money  for  the  green  wine  from  the  Cossack of  the  Don,  from  Ilya  of  Miirom.  1  go  now
 to  the  open  plain,  to  the  heroic  barriers,  to  the
 damp  oak."     And  therewith  he  departed.
 
 
 ^i
-
-
-EPIC  SONGS  OF  RUSSIA.  151
 
 
 I
@@ -5884,8 +5326,7 @@ the  Perverse,  from  India  the  Rich,  came  young
 Lord  Dmk  ^  Stepanovich.  Like  a  white  gerfalcon
 fluttering,  like  a  small  white  ermine  coursing,  hke
 a  small,  clear  goshawk  flying,  rode  Lord  Diuk
-forth.  Like  the  bright  falcon  he  sat  his  dapple-
-bay;  his  bow-case  and  his  quiver  beat  his  hips,
+forth.  Like  the  bright  falcon  he  sat  his  dapplebay;  his  bow-case  and  his  quiver  beat  his  hips,
 and  like  a  wild  beast  was  his  good  steed  Shaggy
 beneath  him.
 
@@ -5946,8 +5387,7 @@ EPIC  SONQS  OF  RUSSIA.  153
 
 rode  towards  home.  On  the  broad  highway  he
 met  one  and  thirty  wandering  psalm-singers,  and
-shouted  in  piercing  tones :  "  Are  ye  thieves,  high-
-waymen, midnight  prowlers  or  church  robbers  %  "
+shouted  in  piercing  tones :  "  Are  ye  thieves,  highwaymen, midnight  prowlers  or  church  robbers  %  "
 
 The  psalm-singers  made  answer :  "  Young  Lord
 Diuk  !  we  are  no  robbers  ;  we  go  as  pilgrims  from
@@ -5966,8 +5406,7 @@ so  rode  back  to  Volhynia.
 It  was  the  solemn  Easter  Even,  and  young  Diuk
 went  to  vespers.  'Twas  not  the  silken  plume-grass
 waving,  nor  the  white  birch  bending  low,  but  the
-goodly  youth,  Diuk  Stepanovich,  bowing  there  be-
-fore his  mother,  the  most  honorable  widow  Amalfya
+goodly  youth,  Diuk  Stepanovich,  bowing  there  before his  mother,  the  most  honorable  widow  Amalfya
 Timofeevna.
 
 "  Fair  my  lady  mother !  Must  I  live  long  thus
@@ -5980,8 +5419,6 @@ see  people  and  to  show  myself.  Many  fair  towns
 have  I  seen,  but  never  have  I  been  in  Kief  the
 glorious,  nor  beheld  Prince  Vladimir  and  his  fair
 
-
-154  EPIC  SONGS   OF  RUSSIA.
 
 Princess  Apraxia.  Give  me  thy  leave  and  blessing
 now,  my  lady-mother,  to  journey  to  Kief  town,  to
@@ -6016,8 +5453,6 @@ Shaggy's  mane  swept  the  damp  earth,  on  the  left
 side ;  his  flowing  tail  wiped  out  traces  of  hoofs  as
 
 
-EPIC  SONGS   OF  RUSSIA.  155
-
 he  passed  over.  On  him  Diuk  put  his  braided  bit,
 his  metal-bound  Cherk^ssian  saddle,  with  felt  on
 felt,  saddle-cloth  on  saddle-cloth  beneath ;  and  one
@@ -6037,8 +5472,7 @@ sea,  which  cannot  be  destroyed.
 When  Diuk  had  caparisoned  his  heroic  steed,
 and  plaited  fair  jewels  in  his  mane,  he  went  off  a
 little  from  him  and  gazed  upon  him.  "  Art  thou
-a  horse,  my  good  steed,  or  a  wild  beast  %  For  un-
-der the  trappings  the  good  horse  cannot  be  seen."
+a  horse,  my  good  steed,  or  a  wild  beast  %  For  under the  trappings  the  good  horse  cannot  be  seen."
 
 Then  the  horse  answered  him  with  human  voice :  -
 "  Tear  not  my  sides  with  thy  spurs,  Diuk  Stepano-
@@ -6046,18 +5480,13 @@ Then  the  horse  answered  him  with  human  voice :  -
 not  my  plaited  bridle :  but  cling  thou  to  my  sacred
 lane ;  bind  handfuls  of  damp  mother  earth  under
 thy  two  arms,  that  thou  may  est  not  fear  to  ride
-ith  me  ;  for  I  shaU  leap  from  mountain  to  moun-
-lin,  lakes  and  rivers  I  shall  clear  at  a  bound ;  and
+ith  me  ;  for  I  shaU  leap  from  mountain  to  mounlin,  lakes  and  rivers  I  shall  clear  at  a  bound ;  and
 80  shall  I  serve  thee  well."
 
 
-156  EPIC  SONGS   OF  RUSSIA.
-
-Then  Diuk  took  off  his  armor,  and  put  on  gar-
-ments fitting  for  a  journey,  took  his  stout  bow  and
+Then  Diuk  took  off  his  armor,  and  put  on  garments fitting  for  a  journey,  took  his  stout  bow  and
 a  quiver  full  of  burning  arrows  on  his  hip,  and
-touched  the  earth  with  his  brow  in  reverence  be-
-fore his  mother.
+touched  the  earth  with  his  brow  in  reverence  before his  mother.
 
 His  mother  instructed  him :  "  Ai,  my  dear  child !
 when  thou  shalt  come  to  famous  Kief  town  and  to
@@ -6087,8 +5516,6 @@ farther  over  the  open  plain  until  he  came  to  a
 damp,  ring-barked  oak,  whereon  sat  a  black  raven
 cawing,  and  spoke  this  word :  "  Ai,  thou  cawing
 
-
-EPIC  SONGS   OF  RUSSIA.  157
 
 raven,  thou  bird  of  omen !  I  will  bend  my  stout
 bow,  I  will  lay  a  fiery  arrow  to  the  silken  cord,  I
@@ -6125,8 +5552,6 @@ so  I  may."
 When  he  beheld  the  good  steeds  feed  in  peace,
 
 
-158  EPIC  SONGS   OF  RUSSIA.
-
 side  by  side,  he  entered  the  linen  pavilion,  crossed
 himself  as  enjoined,  did  reverence  as  prescribed ;
 and  behold !  in  one  corner,  slumbered  a  hero  and
@@ -6161,8 +5586,6 @@ one  sun  in  heaven,  and  one  moon  —  and  but  one
 Cossack  of  the  Don  in  Holy  Russia,  Ilya  of  Murom,
 son  of  Ivdn."
 
-
-EPIC  SONGS   OF  RUSSIA.  159
 
 This  speech  pleased  Ilyd:  he  sprang  to  his
 nimble  feet,  caught  Diuk  by  his  white  hands,  his
@@ -6199,12 +5622,6 @@ cathedral,  he  took  his  stand  in  the  place  of  the
 ambassadors,  —  the  left  porch.     While  the  mass
 
 
-160  EPIC  SONGS   OF  RUSSIA.
-
-
-1
-
-
 was  sung,  he  prayed  not  so  much  as  gazed  about :
 —  he  gazed  at  the  church  and  gulped,  at  Prince
 Vladimir  and  shook  his  head,  at  the  Princess
@@ -6239,8 +5656,6 @@ had  heard  great  maiTels,  to  greet  the  Fau-  Sun
 Vladimk,  and  to  pray  to  God  in  his  temples.
 
 
-EPIC  SONGS   OF  RUSSIA.  161
-
 Then  Vladimir  took  him  by  his  white  hands,
 kissed  him  on  his  sweet  mouth,  and  led  him  to  the
 palace.  When  Diuk  beheld  the  palace,  he  shook
@@ -6250,8 +5665,7 @@ frozen  oats  to  eat ;  and  at  home  thou  wouldst  not
 touch  the  finest  of  white  wheat."
 
 And  when  Diuk  beheld  the  banquet-hall,  with
-its  tables  of  oak,  and  cloths  patterned  with  drawn-
-work,  he  shook  his  head  yet  more.  —  As  they  sat
+its  tables  of  oak,  and  cloths  patterned  with  drawnwork,  he  shook  his  head  yet  more.  —  As  they  sat
 about  the  board,  Vladimir  inquired  of  Diuk  if  it
 were  far  from  India  to  Kief  town.
 
@@ -6280,8 +5694,6 @@ thing  and  some  of  another;  and  Diuk  alone  sat
 sad  and  silent,  eating  not  nor  drinking  nor  carving
 
 
-162  EPIC  SONGS   OF  RUSSIA.
-
 the  white  swan.  And  courteous  Prince  Vladimir
 spoke :
 
@@ -6303,11 +5715,9 @@ laid  upon  the  table,  the  middle  he  ate,  and  cast  the
 under  crust  to  the  dogs  beneath  the  board.
 
 Seeing  this,  Vladlmu''s  princes  and  nobles  sprang
-to  their  nimble  feet,  and  cried :  "  What  discour-
-teous churl  is  this  \  He  is  not  Lord  Diuk  Stepa-
+to  their  nimble  feet,  and  cried :  "  What  discourteous churl  is  this  \  He  is  not  Lord  Diuk  Stepa-
 novich ;  never  before  this  day  hath  he  quaffed
-noble  liquors,  or  tasted  wheaten  cakes ;  he  know-
-eth  not  royal  courtesy.  He  is  a  herdsman,  the
+noble  liquors,  or  tasted  wheaten  cakes ;  he  knoweth  not  royal  courtesy.  He  is  a  herdsman,  the
 fugitive  serf  of  some  noble,  who  hath  murdered  his
 master  or  a  merchant,  stolen  his  flowered  garments,
 and  driven  off  his  good  steed !  He  is  come  hither
@@ -6318,16 +5728,13 @@ as  is  thy  usage.     He  mocketh  thee,  Prince  Vladl-
 1  Wheaten  rolls  or  cakes.
 
 
-EPIC  SONGS   OF  RUSSIA.  163
-
 mir ;  he  is  not  noble,  for  he  looked  upon  his  shoes
 as  he  walked ;  and  his  mantle  of  sables,  he  never
 earned."
 
 "  I  want  not  thy  treasure,"  quoth  Diuk.  "  I
 possess  inexhaustible  store  of  golden  treasure,  and
-bread  and  salt  in  abundance.  I  heard  great  mar-
-vels of  glorious  Kief  town,  and  so  came  hither.
+bread  and  salt  in  abundance.  I  heard  great  marvels of  glorious  Kief  town,  and  so  came  hither.
 But  things  are  not  with  you  as  they  are  with  us  in
 India."
 
@@ -6354,8 +5761,6 @@ pure  gold.  The  floor  of  thy  banquet-hall  is  of  pine
 planks,  and  uneven,  the  walls  and  ceiling  unpainted,
 
 
-164  EPIC  SONGS   OF  RUSSIA.
-
 the  tables  of  oak,  the  cloths  patterned  with  drawn
 threads.  But  the  floors  of  our  halls  are  of  ash,
 the  walls  and  ceilings  all  painted,  the  tables  of
@@ -6370,15 +5775,12 @@ cloth."
 cakes  % "  asked  courteous  Prince  Vladimir.  And
 Diuk  replied :
 
-—  "I  cannot  eat  thy  wheaten  cakes.  The  up-
-per crust  tasteth  of  pine,  and  the  lower  crust  of
-clay.  For  your  ovens  here  are  of  brick,  your  oven-
-brooms  of  pine.  But  my  mother's  ovens  in  India
+—  "I  cannot  eat  thy  wheaten  cakes.  The  upper crust  tasteth  of  pine,  and  the  lower  crust  of
+clay.  For  your  ovens  here  are  of  brick,  your  ovenbrooms  of  pine.  But  my  mother's  ovens  in  India
 the  Rich  are  of  glazed  tiles,  and  her  oven-brooms
 are  of  sUk  dipped  in  honey-dew.  He  who  hath
 eaten  one  of  my  lady  mother's  cakes  longeth  for
-another ;  when  he  hath  eaten  that,  his  soul  bui-n-
-eth  for  a  third ;  and  having  devoured  the  thu'd,  the
+another ;  when  he  hath  eaten  that,  his  soul  bui-neth  for  a  third ;  and  having  devoured  the  thu'd,  the
 fourth  will  not  depart  from  his  mind.  —  Thy  wines
 and  sweet  liquors  I  cannot  drink,  for  they  are
 musty  and  ill-flavored.  But  in  India  the  Hich,  my
@@ -6393,10 +5795,7 @@ deep.     From  these  vaulted  caverns,  pipes  run  to
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  165
-
-the  fresh  air  of  the  open  plain ;  and  when  tempest-
-uous breezes  blow,  they  enter  the  caverns,  and  the
+the  fresh  air  of  the  open  plain ;  and  when  tempestuous breezes  blow,  they  enter  the  caverns,  and  the
 silver  casks  rock  in  then-  chains,  and  murmur  like
 swans  at  play  upon  the  bosom  of  quiet  bays.  Our
 fair  liquors  never  grow  musty.  Having  drunk  one
@@ -6405,8 +5804,7 @@ the  merit  of  those  liquors  no  words  can  equal.
 The  store  of  my  lady  mother's  flowered  garments
 is  never  exhausted ;  for  the  sewing-women  are  ever
 at  work,  —  when  one  throng  quitteth  the  court,
-another  throng  arriveth.  My  mother's  under-gar-
-ments  are  of  precious  stones,  the  upper  of  gold
+another  throng  arriveth.  My  mother's  under-garments  are  of  precious  stones,  the  upper  of  gold
 brocade ;  her  cap  is  of  fair  round  pearls,  with
 jewels  of  great  price  in  the  front;  and  I  wear  a
 difierent  dress  each  day.  Our  horses  are  fed  only
@@ -6423,23 +5821,18 @@ thou  deservest."
 
 Thereupon  the  oaken  doors  of  the  banquet-hall
 were  opened  wide,  and  Churilo  entered,  clad  in  a
-fine  white  blouse  without  a  girdle  ;  he  crossed  him-
-self, and  bowed  to  all  save  to  Diuk  Stepanovich.
+fine  white  blouse  without  a  girdle  ;  he  crossed  himself, and  bowed  to  all  save  to  Diuk  Stepanovich.
 
 Then  said  Diuk :  "  The  fame  of  Churllo's  beauty
 was  not  false,  —  for  his  neck  is  like  the  driven
 
 
-166  EPIC  SONGS   OF  RUSSIA.
-
 snow,  his  face  red  as  the  poppy.  But  the  fame  of
 Churilo's  courtesy  was  false, — he  knoweth  not  how
 to  do  homage  nor  to  salute."
 
-Quoth  Churilo :  "  Dost  thou  boast,  thou  noble-
-man's serf,  of  thy  wealth  and  possessions  ?  Lay  a
-wager,  now,  with  me,  a  great  wager  of  thirty  thou-
-sand rubles.  For  three  years  we  shall  go  about
+Quoth  Churilo :  "  Dost  thou  boast,  thou  nobleman's serf,  of  thy  wealth  and  possessions  ?  Lay  a
+wager,  now,  with  me,  a  great  wager  of  thirty  thousand rubles.  For  three  years  we  shall  go  about
 Kief;  each  day  we  shall  wear  fresh  apparel;  —
 each  day  ride  a  horse  of  different  color.  And
 he  that  hath  the  fairest  shall  be  adjudged  the
@@ -6461,13 +5854,10 @@ Shaggy,  to  India  the  Rich ;  and  when  thou  comest
 to  my  lady  mother's  palace,  neigh  loudly."
 
 So  the  good  bay  flew  swiftly  to  India  the  Rich.
-And  when  the  honorable  widow  Amalfya  Timo-
-f6evna  beheld  the  empty  saddle,  she  wept  sore ;  for
+And  when  the  honorable  widow  Amalfya  Timof6evna  beheld  the  empty  saddle,  she  wept  sore ;  for
 she  thought  her  dear  child  had  lain  down  his  bold
 head  upon  the  open  plam,  in  Holy  Mother  Russia.
 
-
-EPIC  SONGS   OF  RUSSIA.  167
 
 But  when  the  grooms  unsaddled  good  Shaggy,  they
 found  the  scroll,  and  gave  it  to  Diuk's  lady  mother,
@@ -6487,8 +5877,7 @@ and  much-worn  garment.
 she  cried :  "  and  apprise  him  of  thy  coming  with
 a  neigh."
 
-—  Then  Churilo  Fop  and  young  Lord  Diuk  be-
-gan to  ride  about  Kief  town  with  new  garments
+—  Then  Churilo  Fop  and  young  Lord  Diuk  began to  ride  about  Kief  town  with  new  garments
 and  horses  every  day.  Churilo  had  great  herds
 of  horses  driven  in  from  Ch6rnigof;  but  Diuk
 anointed  his  Shaggy  each  morning  with  dew,  and
@@ -6507,8 +5896,6 @@ curving  to  the  instep,  eggs  might  roll.     His  black
 
 I
 
-
-168  EPIC  SONGS   OF  RUSSIA.
 
 murman^  cap  drooped  soft  and  downy,  so  that  his
 clear  eyes  might  not  be  seen  in  front  nor  his  white
@@ -6539,14 +5926,10 @@ us,  how  fair  soever  thy  garb  may  be."
 "  I  care  not  for  the  thirty  thousand  of  coin,"
 quoth  Diuk,  "  but  for  my  own  good  far  e  I  have  a
 care.  The  gold  I  now  bestow  upon  ..  ly  to\vn  of
-Kief."  And  therewith  he  cast  aside  h".s  mean  gar-
-ment, and  his  apparel  beneath  gleamed  fair,  so  that
+Kief."  And  therewith  he  cast  aside  h".s  mean  garment, and  his  apparel  beneath  gleamed  fair,  so  that
 
-1  Norman.  There  is  a  game  called  "  the  miirman  cap,"  for  a  descrip-
-tion of  which  see  "  Songs  of  the  Russian  People  "  (W.  R.  S.  Ralston).
+1  Norman.  There  is  a  game  called  "  the  miirman  cap,"  for  a  description of  which  see  "  Songs  of  the  Russian  People  "  (W.  R.  S.  Ralston).
 
-
-EPIC  SONGS  OF  RUSSIA,  169
 
 all  the  people  fell  to  the  earth  in  wonder  at  its
 beauty.  In  the  front  of  his  cap  sat  the  fair  red
@@ -6554,16 +5937,13 @@ sun ;  on  its  back,  the  radiant  moon ;  on  his  crest
 a  flame  seemed  ever  burning.
 
 Then  he  touched  his  clasps  in  semblance  of  small
-singing  birds  —  they  straightway  hopped  and  twit-
-tered. He  pulled  his  loops  —  dragons  and  fierce
+singing  birds  —  they  straightway  hopped  and  twittered. He  pulled  his  loops  —  dragons  and  fierce
 lion-beasts  were  they,  that  crawled  and  leaped,  and
-hissed  and  roared.  Then  all  the  folk  were  terri-
-fied, and  fell  to  the  damp  earth,  and  with  them
+hissed  and  roared.  Then  all  the  folk  were  terrified, and  fell  to  the  damp  earth,  and  with  them
 Churllo  the  Fop,     Lord  Diuk  alone  stood  firm.
 
 "  Thou  hast  won,  good  youth,"  spake  Vladimir  ;
-and  besought  him :  "  spare  me  at  least  a  rem-
-nant of  my  people.  Call  back  thy  beasts  and
+and  besought  him :  "  spare  me  at  least  a  remnant of  my  people.  Call  back  thy  beasts  and
 birds."
 
 This  Diuk  did,  and  all  Kief  gave  him  thanks  for
@@ -6572,13 +5952,11 @@ the  thirty  thousand,  Churllo's  wager,  he  bought
 green  wine,  and  gave  to  all  the  people  freely.
 
 But  Churllo  Plenk6vich  was  out  of  measure
-wroth,  and  said :  "  Ai,  young  Lord  Diuk  Stepano-
-vich !  let  us  make  yet  another  great  wager.  Let
+wroth,  and  said :  "  Ai,  young  Lord  Diuk  Stepanovich !  let  us  make  yet  another  great  wager.  Let
 us  prove  now  whose  horse  shall  leap  the  Dniepr
 river  (for  ""f other  Dniepr  is  three  versts  in  breadth),
 and  our  turbulent  heads  shall  be  the  stakes.  He
-whose  horse  leapeth  not  over  shall  yield  his  turbu-
-lent head  to  be  hewn  ofi"  by  the  other."
+whose  horse  leapeth  not  over  shall  yield  his  turbulent head  to  be  hewn  ofi"  by  the  other."
 
 "  I  have   but   my  poor  travelling  nag,"  youn
 
@@ -6587,8 +5965,6 @@ I  Diuk  made  answer.     Yet  did  he  accept  the  chal
 
 &
 
-
-170  EPIC  SONGS   OF  RUSSIA.    .
 
 lenge ;  and  going  forth  to  his  good  steed  in  the
 stall,  he  wept.
@@ -6626,8 +6002,6 @@ when  we  leap  together  in  India,  then  will  I  take
 the  lead."
 
 
-EPIC  SONGS   OF  RUSSIA.  171
-
 So  Churilo  made  ready  to  leap.  His  good  steed
 reared  upon  his  hind  legs  on  the  bank,  and  essayed
 the  flight,  but  floundered  in  mid-stream.
@@ -6635,15 +6009,13 @@ the  flight,  but  floundered  in  mid-stream.
 Then  Diuk  essayed.  His  good  steed  bore  him
 in  safety  past  the  flood,  and  turning  leaped  back
 whence  he  came.  As  he  flew,  Diuk  grasped
-Churilo  by  his  yellow  curls,  and  dragged  him  to  the-
-shore,  and  so  to  Prince  Vladimir's  presence,  where
+Churilo  by  his  yellow  curls,  and  dragged  him  to  theshore,  and  so  to  Prince  Vladimir's  presence,  where
 he  would  have  cut  ofi"  his  turbulent  head.
 
 But  all  the  old  women,  young  wives,  and  lovely
 maids  of  Kief  began  to  beseech  Diuk  urgently  that
 he  would  spare  the  life  of  Churilo  the  handsome
-Fop ;  and  royal  Vladimir  spoke  also  in  his  be-
-half
+Fop ;  and  royal  Vladimir  spoke  also  in  his  behalf
 
 Then  Diuk  gave  Churilo  a  mighty  kick :  "  Go,
 Fop,  be  wept  of  women,  since  Prince  Vladimir
@@ -6666,12 +6038,6 @@ Vladimir.
 quoth   Diuk :    "  for   he   hath  pope's  eyes,  greedy
 
 
-172
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 eyes,  and  pope's  pilfering  hands.     He  will  never
 return."
 
@@ -6690,8 +6056,7 @@ India,"  said  Diuk  then  ;  "  but  not  Aly6sha  with  his
 greedy  pope's  eyes  and  thieving  fingers."
 
 So  Vladimir  appointed  Dobrynya  and  two  more
-to  make  the  lists.  If  Diuk  had  the  greater  posses-
-sions, then  should  Vladimir  become  his  vassal,  and
+to  make  the  lists.  If  Diuk  had  the  greater  possessions, then  should  Vladimir  become  his  vassal,  and
 contrariwise :  if  Diuk's  brags  were  not  established,
 then  should  he  serve  Vladimir  loyally  so  long  as  he
 lived.
@@ -6712,8 +6077,6 @@ glowing   before    them.      And    one    said :    "Of   a
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  173
-
 surety,  Lord  Diuk  hath  sent  warning  to  his  native
 land,  that  they  should  set  on  fire  great  India  the
 Rich,  for  lo  !  it  burneth  !  "
@@ -6731,8 +6094,7 @@ set  with  all  manner  of  pleasant  fruit-trees  and  of
 shrubs,  walled  about  with  a  lofty  railing  of  carven
 pillars  of  gold,  surmounted  by  knobs  of  copper,
 and  the  gates  were  of  fair  brass.  In  the  court,
-maids  richly  apparelled  walked  with  the  serving-
-men,  or  played  at  chess.
+maids  richly  apparelled  walked  with  the  servingmen,  or  played  at  chess.
 
 Within,  the  palace  was  reared  upon  three  hun-  \
 dred  pillars  of  silver,  four  hundred  of  gold,  and
@@ -6743,19 +6105,11 @@ and  through  the  town  flowed  a  river  of  gold.
 
 The    talesmen   feared   to    enter ;    but   when    at*
 length  they  did  so,  and  came  to  the  first  tower,  they
-found  an  aged  woman  of  motherly  aspect :  her  gar-
-ments were  of  pure  silver,  with  but  small  admix-
+found  an  aged  woman  of  motherly  aspect :  her  garments were  of  pure  silver,  with  but  small  admix-
 ture of  silk,  and  they  bowed  to  the  earth  before  her.
 
 
-174
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
-"  Hail,  most  honorable  widow,  Amalfya  Timo-
-f(6eviia,  mother  to  Lord  Diuk  Stepanovich !  "  they
+"  Hail,  most  honorable  widow,  Amalfya  Timof(6eviia,  mother  to  Lord  Diuk  Stepanovich !  "  they
 said.
 
 "  I  am  not  the  Lord  Diuk's  mother,"  said  the
@@ -6786,11 +6140,8 @@ widow  was  gone  to  the  long  mass,  and  that  they
 might  know  her  as  she  came  thence  by  these  signs :
 Before  her  would  come  a  host  with  shovels,  and
 then  a  host  of  sweepers,  to  make  all  clean,  and
-sprinkle  orange-tawny  sand,  and  others  still  spread-
-ing cloth  of  scarlet.     Then  would  follow  the  mc
+sprinkle  orange-tawny  sand,  and  others  still  spreading cloth  of  scarlet.     Then  would  follow  the  mc
 
-
-EPIC  SONGS  OF  RUSSIA.  175
 
 honorable  widow,  Amalfya  Timofeevna,  supported
 on  either  hand  by  scores  of  maidens.
@@ -6801,8 +6152,7 @@ spoke  the  nurse ;  "  for  of  such  there  are  very  many
 in  this  town,  and  ye  would  never  make  an  end."
 
 So  they  went  forth  to  meet  the  honorable  lady,
-and  when  she  came,  attended  as  had  been  de-
-scribed to  them,  they  were  dazzled,  and  bowed  to
+and  when  she  came,  attended  as  had  been  described to  them,  they  were  dazzled,  and  bowed  to
 the  earth.  The  red  sun  glowed  upon  her  brow,  the
 bright  moon  and  thick-clustering  stars  gleamed  fair
 behind,  and  her  attire  was  rich  beyond  compare.
@@ -6825,11 +6175,8 @@ souls  burned.  After  they  had  eaten  and  drunken
 all  they  would,  the  honorable  widow  showed  them
 fii'st,  Diuk's  horses ;  and  they  would  have  counted
 them  —  but  could  not.  Then  she  showed  them
-Diuk's  foot-gear ;  this  also  they  would  have  reck-
-oned—  and  could  not.     After  that,  she  led  them
+Diuk's  foot-gear ;  this  also  they  would  have  reckoned—  and  could  not.     After  that,  she  led  them
 
-
-176  EPIC  SONGS   OF  RUSSIA,
 
 to  the  deep  vaults  with  vents  to  the  open  plain,
 where  swung  the  gold-hooped  casks  of  silver  in
@@ -6844,8 +6191,7 @@ compute  it.
 
 Then  they  sent  word  to  Kief,  to  royal  Vladimir :
 "  Sell  Kief  for  paper,  and  Ch^rnigof  for  ink,  and
-then,  mayhap,  we  may  make  a  beginning  of  reck-
-oning Diuk's  great  possessions."
+then,  mayhap,  we  may  make  a  beginning  of  reckoning Diuk's  great  possessions."
 
 When  courteous  Prince  Vladimir  heard  that,  he
 spoke:  "  I  pray  thee,  Lord  Diuk,  be  my  guest  in  the
@@ -6867,12 +6213,6 @@ came  to  Diuk's  dwelling,  they  marvelled  greatly,
 
 
 i
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
-177
 
 
 for  such  a  palace  even  royal  Vladimir  himself  had
@@ -6897,8 +6237,7 @@ withered  up  like  shavings,  for  grief  that  they  could
 not  compute  the  value  of  so  much  as  one  saddle.
 
 But  Vladimir  looked  on  the  saddle,  and  said:
-"  Of  a  truth,  he  who  wrought  that  may  alone  com-
-pute its  worth."
+"  Of  a  truth,  he  who  wrought  that  may  alone  compute its  worth."
 
 So  Prince  Vladimir  acknowledged  himself  vassal
 to  Lord  Diuk,  as  they  had  agreed ;  but  Diuk  said :
@@ -6908,20 +6247,15 @@ it  that  henceforth  the  unknown  man  and  stranger
 suffer  no  offence  in  thy  house."
 
 
-178  EPIC  SONGS   OF  RUSSIA.
-
-
 "VASTLY    THE    DRUNKARD    AND    TZAR    BATYG.
 
 From  beneath  the  cross  Levanldof,^  from  beneath
 the  birch  so  white,  issued  forth  two  aurochs,  and
 three  aurochs,  and  roamed  past  Kief  town.
 
-By  Kief  they  beheld  a  wondrous  marvel,  a  mar-
-vellous wonder :  a  damsel  came  forth,  weeping  bit-
+By  Kief  they  beheld  a  wondrous  marvel,  a  marvellous wonder :  a  damsel  came  forth,  weeping  bit-
 terly, and  bearing  in  her  hands  the  book  of  the
-Holy  Gospel.  And  as  she  read,  she  wept  in  two-
-fold measure.
+Holy  Gospel.  And  as  she  read,  she  wept  in  twofold measure.
 
 Then  the  aurochs  went  to  their  mother :  "  Hail,
 mother  aurochs ! "  said  they ;  "  we  have  been  to
@@ -6930,8 +6264,7 @@ her  of  the  damsel.
 
 "  Foolish  aurochs  are  ye,  little  children !  "  quoth
 mother  aurochs.  "  That  was  no  damsel  weeping
-sore,  but  the  city  wall  lamenting,  for  she  hath  fore-
-seen ill  fortune  for  Kief.  Tzar  Batyg^  is  come
+sore,  but  the  city  wall  lamenting,  for  she  hath  foreseen ill  fortune  for  Kief.  Tzar  Batyg^  is  come
 with  his  son,  his  son-in-law,  and  with  his  learned
 scribe.  His  son's  host  numbereth  forty  thousand  ;
 the  host  of  his  son-in-law,  forty  thousand ;  and  the
@@ -6942,8 +6275,6 @@ learned  scribe's  no  less."
 1  Or  Levantinof,  in  one  version:  the  cross  of  tlie  East.
 8  See  Appendix.
 
-
-EPIC  SONGS   OF  RUSSIA.  179
 
 white  pavilions,  and  demanded  of  Prince  Vladimir
 an  adversaiy  in  single  combat.
@@ -6957,8 +6288,7 @@ wheat.
 
 But  there  dwelt  in  Kief  in  those  days,  a  hero
 and  good  youth,  Vasily  Ignatievich  by  name,  who
-abode  in  the  imperial  pot-house.  He  had  squan-
-dered in  drink  his  wife's  dowry  and  all  his
+abode  in  the  imperial  pot-house.  He  had  squandered in  drink  his  wife's  dowry  and  all  his
 possessions.
 
 "  Ho  there,  ye  my  princes  and  nobles ! "  quoth
@@ -6985,12 +6315,6 @@ Then  Vasily  slipped  down  from  the  oven,  barred
 I
 
 
-180
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 up  the  pot-house,  making  all  very  fast,  tore  from
 the  princes  and  nobles  all  their  fair  apparel,
 wrenched  out  a  door-post,  and  belabored  the  men
@@ -7001,16 +6325,14 @@ When  Vladimir  looked  on  them  he  smiled,  and
 said  :  "  Ho,  my  princes  and  nobles ;  have  ye  drunk
 or  gamed  ?  "
 
-"  Little  father !  Prince  Vladimir,"  they  made  an-
-swer, "  we  have  neither  drunk  nor  gamed,  but
+"  Little  father !  Prince  Vladimir,"  they  made  answer, "  we  have  neither  drunk  nor  gamed,  but
 Vasily  the  Drunkard  hath  done  us  this  dishonor."
 
 "  Ah,  ye  stupid  nobles  and  senseless ! "  quoth
 Vladimir,  "  ye  have  not  appeased  the  youth,  but
 irritated  him."
 
-Then  Vladimir  went  himself  to  the  royal  pot-
-house, prayed  before  the  wondious  picture,  saluted
+Then  Vladimir  went  himself  to  the  royal  pothouse, prayed  before  the  wondious  picture,  saluted
 on  all  four  sides,  with  a  special  reverence  to  Vasily,
 and  spoke  to  him  in  the  words  of  the  princes  and
 nobles.
@@ -7030,8 +6352,6 @@ di'ained  also ;  and  yet  a  third,  the  cup  of  Aly6sha,
 of  two  buckets  and  a  half.
 
 
-EPIC  SONGS   OF  RUSSIA  181
-
 Then  Vaslly  said :  "  Now  I  may  sit  my  horse,
 and  wield  my  sword  of  ninety  poods."
 
@@ -7047,8 +6367,7 @@ But  Kief  town  is  not  small ;  a  falcon  may  not  fly
 about  it  in  a  summer's  day,  nor  a  little  bird  soar
 across  —  and  the  guilty  man  could  not  be  found.
 
-Vaslly  mounted  his  good  steed,  and  clad  in  war-
-like array,  with  his  Tatar  spear,  his  sword  of  ninety
+Vaslly  mounted  his  good  steed,  and  clad  in  warlike array,  with  his  Tatar  spear,  his  sword  of  ninety
 poods,  his  stout  bow,  and  gilded  arrows,  sallied
 forth  before  the  face  of  Batyg.
 
@@ -7068,15 +6387,6 @@ man.
 Then  he  returned  again  to  the  face  of  Batyg.
 
 " Forgive  this  my  fii*st  fault,"  he  said ;  "I  have
-
-
-182
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
-1
 
 
 lost  that  host  of  forty  thousand.  But  I  have  spied
@@ -7105,9 +6415,6 @@ And  from  that  day  forth  they  began  to  sing  the
 Song  of  Vasily,  which  shall  be  sung  for  evermore.
 
 
-EPIC  SONGS   OF  RUSSIA.  183
-
-
 ILITA  AND  rDOL.
 
 Mighty  Ivdniusho  arrayed  himself  and  set  out
@@ -7121,8 +6428,7 @@ his  foot-gear  precious  stones  were  woven.  On
 summer  days  his  course  was  lighted  by  the  fair
 red  sun ;  in  winter,  by  a  precious  jewel.
 
-As  he  returned  from  Jerusalem  he  passed  Tzar-
-gi*ad,  and  found  that  the  accursed  Idol  was  come
+As  he  returned  from  Jerusalem  he  passed  Tzargi*ad,  and  found  that  the  accursed  Idol  was  come
 thither,  that  the  holy  ikons  had  been  shattered
 and  trodden  in  the  mire,  and  horses  were  fed  in
 the  temple  of  God.  Then  mighty  Ivaniusho
@@ -7139,15 +6445,12 @@ measured,  in  height,  and  three  in  breadth ;  his
 head  is  like  a  beer-kettle,  his  eyes  like  diinking-
 
 
-184  EPIC  SONGS   OF  RUSSIA.
-
 cups.  His  nose  is  an  ell  long  from  its  root,  and  he
 cheweth  the  cud  like  an  aurochs."
 
 Ivaniusho  caught  the  accursed  Tatar  by  the
 hand,  and  hurled  him  upon  the  open  plain ;  and
-the  bones  of  the  Tatar  flew  asunder.  Then  Ivdni-
-usho  pursued  his  journey,  and  met  Ilyd  of  Mtirom
+the  bones  of  the  Tatar  flew  asunder.  Then  Ivdniusho  pursued  his  journey,  and  met  Ilyd  of  Mtirom
 in  the  way.
 
 "  Hail,  Ilya  of  Miirom,  thou  Old  Cossdck !  "  said
@@ -7188,8 +6491,6 @@ J
 f
 
 
-EPIC  SONGS   OF  RUSSIA.  185
-
 undo  quickly  thy  foot-gear  of  the  seven  silks  from
 thy  feet,  and  put  on  my  morocco  shoes,  for  I  will
 go  sadly  as  a  wandering  psalm-singer."  —  And  it
@@ -7218,16 +6519,12 @@ fellows,"  quoth  Idol.  "  Receive  this  pilgrim,  feed
 him,  give  him  drink  and  gold  at  thy  pleasure."
 
 Constantine  went  forth  upon  the  railed  balcony,
-and  bade  the  pilgrim  enter.  And  when  the  pil-
-grim had  eaten  and  drunk,  the  Idol  took  him  to
+and  bade  the  pilgrim  enter.  And  when  the  pilgrim had  eaten  and  drunk,  the  Idol  took  him  to
 himself  to  question :
 
-*'  Tell  me  truly,  thou  Russian  pilgrim,  and  con-
-ceal nothing.  What  manner  of  heroes  have  ye  in
+*'  Tell  me  truly,  thou  Russian  pilgrim,  and  conceal nothing.  What  manner  of  heroes  have  ye  in
 Russia?     And  your  Old  Cossdck,  Ilyd  of  Miii'om,
 
-
-186  EPIC  SONGS   OF  RUSSIA.
 
 —  is  he  great  of  stature  %     Can  he  devour  much
 bread,  drink  much  green  wine  ?  "
@@ -7264,12 +6561,6 @@ But  Ilyd  was  nimble  of  foot,  and  leaped  quickly^
 aside   upon   the    oven,    and   turning,   caught   tl
 
 
-EPIC  SONGS   OF  RUSSIA.
-
-
-187
-
-
 weapon  in  its  flight,  upon  his  staff".  The  poniard
 glanced  off,  struck  the  white  oak  door ;  the  door
 flew  from  its  fastenings  ;  the  poniard  bounded  into
@@ -7281,12 +6572,6 @@ the  open  plain.  Then  Ilya  sprang  into  the  great
 courtyard,  waved  his  staff,  slew  all  the  accursed
 Tatars,  cleared  the  city  of  Tzargrad,  and  delivered
 Tzar  Constantine.
-
-
-188
-
-
-EPIC  SONGS   OF  RUSSIA,
 
 
 DOBRYNYA  AND  THE  DRAGON.
@@ -7322,8 +6607,6 @@ will  go."
 So    his    mother  consented.      He  threw  off  his
 
 
-EPIC  SONGS   OF  RUSSIA.  189
-
 flowered  raiment,  and  put  on  garments  meet  for  a
 journey,  and  on  his  head  a  wide-brimmed  hat  from
 the  Grecian  land.  Then  he  saddled  and  bridled  a
@@ -7334,8 +6617,7 @@ and  far-reaching  spear,  and  his  battle-mace.
 And  as  he  rode  forth,  accompanied  by  his  little
 page,  his  mother^laid  her  commands  upon  him.
 
-"  K  thou  wilt  go  to  the  Puchai  river,  young  Do-
-brynya,  immeasurable  heats  shall  overcome  thee :
+"  K  thou  wilt  go  to  the  Puchai  river,  young  Dobrynya,  immeasurable  heats  shall  overcome  thee :
 yet,  bathe  thou  not  in  Mother  Puchai  flood ;  for
 she  is  fierce  and  angry.  From  her  first  stream  fixe
 flasheth ;  from  her  second,  sparks  shower ;  from
@@ -7360,10 +6642,7 @@ likewise.  —  And  lo  !  there  was  no  wind,  but  the
 clouds  sailed  on ;  there  were  no  clouds,  yet  the  rain
 
 
-190  EPIC  SONGS   OF  RUSSIA.
-
-dropped  down;  no  rain  was  there,  yet  the  light-
-ning flashed ;  no  lightning,  yet  sparks  showered
+dropped  down;  no  rain  was  there,  yet  the  lightning flashed ;  no  lightning,  yet  sparks  showered
 fast.  No  thick  darkness  was  it  that  obscured  the
 sky,  nor  gloomy  clouds  descending,  but  a  fierce
 Dragon  flying  down  upon  Dobrynya,  the  savage
@@ -7379,8 +6658,7 @@ him  into  captivity."
 will  be  the  fitting  time  to  boast ;  but  thou  hast
 not  yet  Dobrynya  in  thy  claws !  "  Then  he  dived
 swiftly  beneath  the  first  stream,  and  out  through
-the  second.  But  his  young  page  had  been  over-
-hasty,  and  had  driven  away  Dobrynya's  good  steed ;
+the  second.  But  his  young  page  had  been  overhasty,  and  had  driven  away  Dobrynya's  good  steed ;
 he  had  carried  off  the  stout  bow,  the  sharp  sword,
 far-reaching  spear,  and  war-mace.  The  cap  alone
 was  left,  the  wide-brimmed  cap  from  the  Grecian
@@ -7390,8 +6668,7 @@ Dobrynya  seized  his  cap,  filled  it  with  sand  from
 the  river-bank,  and  with  it  smote  the  cursed  worm,
 and  hewed  off  three  of  her  tails  —  the  best  of  all.
 
-Then  the  Dragon  of  the  Cavern  besought  Do-
-brynya :
+Then  the  Dragon  of  the  Cavern  besought  Dobrynya :
 
 "  Ai,  thou  young  Dobrynya  Nikltich !  Give  me
 not  over  to  fruitless  death,  shed  not  my  innocent
@@ -7407,8 +6684,7 @@ I
 EPIC  SONGS   OF  EUSSIA.  191
 
 prison  no  more  heroes,  nor  strangle  young  maidens,
-nor  orphan  Httle  children.  I  will  be  to  thee  a  sub-
-missive Dragon ;  and  thou,  Dobrynya,  shalt  be  my
+nor  orphan  Httle  children.  I  will  be  to  thee  a  submissive Dragon ;  and  thou,  Dobrynya,  shalt  be  my
 elder  brother,  and  I  will  be  thy  younger  sister."
 
 Dobrynya  was  taken  with  her  wiles,  and  loosed
@@ -7424,16 +6700,14 @@ cavern  in  the  hills.
 At  that  time  Royal  Vladimir  made  an  honorable
 feast  for  many  princes,  nobles,  bold  warrior-maid-V^'^^jv^^
 ens,  mighty  heroes,  and  wandering  good  youths.
-And  Dobrynya  prayed  his  mother's  leave  and  bless-
-ing to  go  to  that  honorable  feast.
+And  Dobrynya  prayed  his  mother's  leave  and  blessing to  go  to  that  honorable  feast.
 
 "  Nay,"  she  made  answer :  "  abide  thou  in  thine
 own  dwelling,  Dobrynya,  with  thy  mother ;  drink
 green  wine  until  thou  art  full  drunken,  and  lavish
 golden  treasure  at  thy  will.  But  go  not  to  this
 feast."  But  when  her  son  would  have  gone  in  any
-case,  she  gave  both  leave  and  blessing,  and  Do-
-brynya arrayed  himself  as  was  meet.
+case,  she  gave  both  leave  and  blessing,  and  Dobrynya arrayed  himself  as  was  meet.
 
 On  his  little  feet  he  put  shoes  of  green  morocco,
 with  lofty  heels  and  pointed  toes.  About  their  sharp
@@ -7441,8 +6715,6 @@ beaks,  an  egg  might  roll,  under  the  heel  might
 sparrows  fly.  His  garments  were  of  flowered  stuffs,
 his  mantle  of  black  sables  from  beyond  the  sea.
 
-
-192  EPIC  SONGS   OF  RUSSIA.
 
 He  saddled  his  good  steed,  and  rode  forth  to  the
 spacious  court.  When  he  was  come  thither  he
@@ -7477,13 +6749,7 @@ Piichai  river  in  conflict  with  that  Dragon.  And
 the  Dragon  beguiled  him,  —  calling  him  her  elder
 
 
-1
-
-
-EPIC  SONGS   OF  RUSSIA.  193
-
-brother,  herself  his  younger  sister.  Send  Do-
-brynya,  therefore,  to  the  Tugy  mountains,  for  the
+brother,  herself  his  younger  sister.  Send  Dobrynya,  therefore,  to  the  Tugy  mountains,  for  the
 Princess  Beauty."
 
 So  Vladimir  laid  his  commands  on  Dobi*ynya,
@@ -7492,8 +6758,7 @@ to  his  nimble  feet,  in  his  place  within  the  granite
 palace,  and  stamped  upon  the  oaken  floor.  The
 tables  rocked,  the  liquor  quivered  in  the  glasses,
 and  the  heroes  were  thrown  from  their  seats  with
-the  shock.  Dobrynya  rushed  forth  into  the  court-
-yard, loosed  his  good  steed  from  the  golden  ring,
+the  shock.  Dobrynya  rushed  forth  into  the  courtyard, loosed  his  good  steed  from  the  golden  ring,
 mounted  and  rode  to  his  own  dwelling.  When  he
 had  spread  fine  Turkish  wheat  before  the  horse,  in
 the  midst  of  his  own  courtyard,  he  entered  his
@@ -7506,8 +6771,7 @@ thy  liking,  or  unbefitting  thy  rank  X  Did  the  cup
 pass  thee  by?  Did  some  drunken  boor  spit  in
 thine  eye,  or  did  the  fair  damsels  scoff"  at  thee  ? "
 
-"  Mine  was  the  place  of  honor  at  meat,"  Do-
-brynya answered,  "  the  greatest  place,  not  the
+"  Mine  was  the  place  of  honor  at  meat,"  Dobrynya answered,  "  the  greatest  place,  not  the
 least ;  no  fool  offended,  no  damsel  scoffed.  But
 Prince  Vladimir  hath  laid  upon  me  a  great  seiTice.
 I  must  go  to  the  Tugy  mountains,  and  free  his
@@ -7517,15 +6781,8 @@ niece  from  the  fierce  Dragon  of  the  Cave."
 honorable    widow,   Aflmya   Alexdndrevna.     "  Lie
 
 
-194
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 down  to  sleep  early  this  evening ;  to-morrow  wilj
-be  wise,  for  the  morning  is  wiser  than  the  even-
-ing."   Her  son  heeded  her ;  and  the  next  morningJ
+be  wise,  for  the  morning  is  wiser  than  the  evening."   Her  son  heeded  her ;  and  the  next  morningJ
 rising  early,  he  washed  himself  very  white,  an(
 arrayed  himself  for  the  journey.
 
@@ -7558,14 +6815,10 @@ death."
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  195
-
-
 So  Dobrynya  mounted  his  good  steed,  and  rode
 to  the  Tiigy  mountains  and  the  Dragon's  cavern.
 Twelve  days  he  rode,  and  ate  nothing  but  a  wheaten
-roll.  On  the  thirteenth  day  he  came  to  the  glori-
-ous hills,  but  the  Dragon  was  not  in  her  cave,  and
+roll.  On  the  thirteenth  day  he  came  to  the  glorious hills,  but  the  Dragon  was  not  in  her  cave,  and
 the  Prince's  royal  niece  he  could  not  see.  Then
 he  began  to  trample  on  the  little  dragons,  and  they
 coiled  about  his  horse's  fetlocks  so  that  the  good
@@ -7586,8 +6839,7 @@ body  of  a  hero,  and  flew  straight  at  Dobrynya.
 broken  thine  oath,  and  crushed  all  my  little
 di'agons  % "
 
-"  And  ai,  thou  accursed  Dragon ! "  quoth  Do-
-brynya, "  what  devils  bore  thee  over  Kief,  that
+"  And  ai,  thou  accursed  Dragon ! "  quoth  Dobrynya, "  what  devils  bore  thee  over  Kief,  that
 thou  shouldest  seize  young  Beauty  Putyatichna  1
 Yield  her  now  without  battle  or  bloodshed."
 
@@ -7596,8 +6848,6 @@ the  Prince's  niece."
 
 So  they  waged  mighty  battle  all  that  day  until
 
-
-196  EPIC  SONGS   OF  RUSSIA.
 
 the  evening ;  and  the  snake  began  greatly  to  pre
 vail.  Yet  Dobrynya,  recalling  his  mother's  counsel
@@ -7672,8 +6922,6 @@ upon  a  fair  and  goodly  horse.
 1  This  agrees  with  Vladfmir's  uncle,  Dobrynya,  in  history.
 
 
-198  EPIC  SONGS   OF  RUSSIA.
-
 "  Eh !  "  quoth  Dobr^nya ;  "  this  is  no  hero,  but
 bold  damsel-errant,  some  maid  or  wife,  forsooth  !  '*
 Therewith  he  rode  after  the  warrior-maiden,  an(
@@ -7694,8 +6942,7 @@ marvelled  greatly.
 of  old,  but  his  courage  is  not  the  courage  of  earliei
 days ! "
 
-Then  he  again  rode  in  pursuit  of  the  bold  war-
-rior-maid, and  smote  her  honorably  upon  her  te
+Then  he  again  rode  in  pursuit  of  the  bold  warrior-maid, and  smote  her  honorably  upon  her  te
 pestuous   head.  —  She  wavered   not,  glanced   noi
 behind.      But    Dobrynya   was   sore    amazed,   an
 tested   his   might   upon    a   damp    oak    of    twelv
@@ -7708,13 +6955,6 @@ Thereat  she  turned  and  spoke :  "  Methought  the
 Russian  gnats  were  biting,  but  lo !  'tis  the  Russii
 hero  tapping ! "
 
-
-1
-
-1
-
-
-EPIC  SONGS   OF  RUSSIA.  199
 
 Then  she  seized  Dobr^nya  by  his  yellow  curls,
 twisted  him  from  his  good  horse,  and  dropped  him
@@ -7735,8 +6975,7 @@ set  him  on  one  of  my  palms,  and  press  him  with
 the  other,  and  make  a  pancake  of  him."*^
 
 Then  she  drew  him  forth  from  the  leather
-pouch,  and  liked  him  well.  "  Hail,  dearest  Do-
-brynya  Nikitich !  "  quoth  she.
+pouch,  and  liked  him  well.  "  Hail,  dearest  Dobrynya  Nikitich !  "  quoth  she.
 
 "  How  knowest  thou  me,  bold  virgin  knight  ?
 for  thee  I  know  not."
@@ -7752,12 +6991,6 @@ it  not,  I  will  make  of  thee  an  oat-cake."
 
 1  Mikula  the  Villager's  Son;  and  father  to  Stavr's  wife,  according  to
 one  singer.
-
-
-200
-
-
-EPIC  SONGS   OF  RUSSIA.
 
 
 "Leave  me  but  my  life,  young  Nastdsya,  and  Ij
@@ -7790,9 +7023,6 @@ great  feast  for  three  days ;  and  thereafter  theyj
 lived  happily  for  a  space.
 
 
-EPIC  SONGS   OF  RUSSIA,  201
-
-
 I
 
 
@@ -7811,8 +7041,7 @@ three  hundred  stallions,  and  three  of  exceeding
 merit:  one  is  an  iron-gray,  the  second's  mane
 hangeth  aU  to  one  side,  the  third  is  coal-black.
 Him  Ilyd  of  Miirom  captured  from  the  Dragon's
-Son,  Tugarin.  He  can  gallop  from  Kief  to  Ch6r-
-nigof,  between  mass  and  matins,  and  the  distance
+Son,  Tugarin.  He  can  gallop  from  Kief  to  Ch6rnigof,  between  mass  and  matins,  and  the  distance
 is  three  hundred  versts  and  thereto  thirty  versts
 and  three.  Is  there  in  all  Kief  town  a  man
 whose  horse  can  do  the  like  ?  "  All  hid,  and  made
@@ -7825,16 +7054,12 @@ hundred  rubles,  nor  ^yet  a  thousand,  —  Imtnrrvy
 turbulent  head  shall  be  the  stake,  —  that  he  will
 
 
-202  EPIC  SONGS   OF  RUSSIA.
-
-run  against  thy  horse  from  Kief  to  Chemigof,  be-
-tween mass  and  matins,  as  thou  hast  said."
+run  against  thy  horse  from  Kief  to  Chemigof,  between mass  and  matins,  as  thou  hast  said."
 
 "  What  devil  wilt  thou  ride,  then,  Ivan  ?  "  quoth
 Vladimir.
 
-With  that  all  the  princely  nobles  and  ship-mer-
-chants staked  a  hundred  thousand  rubles  for  the
+With  that  all  the  princely  nobles  and  ship-merchants staked  a  hundred  thousand  rubles  for  the
 Prince ;  but  none  laid  any  stake  for  Ivan,  save
 X^^  d'  only  the  ruler  of  Ch6rnigof.
 
@@ -7864,8 +7089,6 @@ bidding  thee  ride  against  him.  Then  saddle  me
 not,  Ivdn,  but  take  me  by  my  silken  bridle,  and
 
 
-EPIC  SONGS   OF  RUSSIA.  203
-
 lead  me  to  the  royal  court.  Don  thy  mantle  of
 sables,  —  thy  mantle  of  three  thousand  rubles,  with
 its  embossed  clasps  of  five  hundred  rubles.  When
@@ -7873,12 +7096,10 @@ thou  leadest  me  to  the  court,  I  shall  rear  up  and
 paw  thy  mantle,  and  nip  the  black  sables,  and
 prance  in  all  directions.  Then  shall  the  Prince
 and  his  nobles  marvel.  But  care  thou  not,  for  it
-shall  go  well  with  thee.  I  will  redeem  thy  turbu-
-lent head,  and  put  courteous  Prince  Vladimir  and
+shall  go  well  with  thee.  I  will  redeem  thy  turbulent head,  and  put  courteous  Prince  Vladimir  and
 my  elder  brother  to  shame."
 
-All  came  to  pass  as  the  shaggy  brown  had  fore-
-told. WTien  he  began  to  pluck  at  Ivan's  mantle,
+All  came  to  pass  as  the  shaggy  brown  had  foretold. WTien  he  began  to  pluck  at  Ivan's  mantle,
 and  to  trample  on  the  black  sables,  all  the  princely
 nobles  and  rich  merchants  assembled  in  the  spacious
 royal  courtyard  stood  and  marvelled.
@@ -7901,14 +7122,11 @@ black  fled,  neighing,  with  tail  uplifted,  to  the  Golden
 Horde,  leaping  the  Dniepr  stream  in  his  flight.
 
 
-204  EPIC  SONGS   OF  RUSSIA.
-
 All  who  saw  it  were  terrified,  and  Ivan  cried:
 "  Is  it  not  time,  Prince  Vladimir,  for  us  to  set  out
 for  Chernigof  town  ? "  •
 
-Prince  Vladimir  called  to  his  stable-men  to  col-
-lect the  three  hundred  stallions,  and  pick  out  the
+Prince  Vladimir  called  to  his  stable-men  to  collect the  three  hundred  stallions,  and  pick  out  the
 choicest,  the  three.  But  the  men  made  complaint
 that  all  the  three  hundred  lay  dead,  by  reason  of
 "that  terrible  cry  of  Ivan's  steed,  and  there  was
@@ -7929,8 +7147,7 @@ hundred  rubles,  and  before  he  came  to  me  he  cost
 a  thousand.  Shall  I  give  such  a  steed  to  Prince
 Vladimir?"
 
-Nevertheless,  he  yielded  him ;  and  Vladimir  com-
-manded that  the  horse  should  be  led  to  the  stable,
+Nevertheless,  he  yielded  him ;  and  Vladimir  commanded that  the  horse  should  be  led  to  the  stable,
 and  fed  with  fine  wheat,  and  watered  with  sweet
 mead.
 
@@ -7948,17 +7165,11 @@ I
 EPIC  SONGS   OF  BUSSIA.
 
 
-205
-
-
 wrapped   himself    in   his   mantle    of    sables,    and
 spoke  this  word :  "  Ho  there,  thou  Ivan  Merchant's
 Son!     Lead  that  horse  from  my  court  forthwith.
 The  devil  take  thee  and  thy  steed ! "
 Thus  was  the  great  race  ridden.
-
-
-206  EPIC  SONGS   OF  RUSSIA.
 
 
 ILTA  OP  MUROM  AND   FALCON  THE  HUNTER.
@@ -7996,8 +7207,6 @@ court  to  refresh  himself,  and  espied  the  traces  of
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  207
-
 a  horse's  hoofs,  the  marks  of  a  heroic  ride  and  a
 black  steed.
 
@@ -8010,16 +7219,13 @@ heroic  ride.  Arm  ye  then,  friends,  for  a  sally  into
 the  open  plain  to  seek  the  rash  intruder."  Then
 he  began  to  hold  a  great  council :
 
-"  It  will  not  do,  children,  to  send  Vaska  Long-
-sku-t,  for  he  will  get  entangled  in  his  skirts  in  the
+"  It  will  not  do,  children,  to  send  Vaska  Longsku-t,  for  he  will  get  entangled  in  his  skirts  in  the
 encounter ;  nor  Grishka  the  Noble,  —  for  men  of
-noble  descent  are  boastful,  and  he  will  vaunt  him-
-self in  the  combat.  Nor  may  Aly6sha  go  against
+noble  descent  are  boastful,  and  he  will  vaunt  himself in  the  combat.  Nor  may  Aly6sha  go  against
 the  unbidden  visitor,  for  Aly6sha  is  of  popish
 descent,  and  pop^s^eyes  are  covetous,  popes'  hands
 Ipilferous ;  Aly6sha  will  see  the  braggart's  great
-store  of  gold  and  silver,  and  will  covet  them.  Do-
-brynya  Nikitich  must  go  :  if  the  knight  be  Russian,
+store  of  gold  and  silver,  and  will  covet  them.  Dobrynya  Nikitich  must  go  :  if  the  knight  be  Russian,
 ^then  shall  Dobrynya  swear  brotherhood  with  him,
 but  if  he  be  an  infidel  knight,  he  shall  challenge
 him  to  single  combat."
@@ -8032,8 +7238,6 @@ him,  with  youthful  valor.  The  horse  under  the
 ^hero  was  like  a  wild  beast ;  at  each  leap  he  com-
 
 
-208  EPIC  SONGS  OF  RUSSIA.
-
 passed  a  verst,  and  the  tracks  he  left  were  as  large
 as  a  ram  or  a  full-grown  sheep.  From  that  good
 l^teed's  mouth  flames  flashed,  from  his  nostrils
@@ -8042,8 +7246,7 @@ purled  in  rings.
 '  The  helmet  on  the  hero's  head  glowed  like  fire,
 V>  and  his  horse's  bridle  darted  rays ;  stars  sprinkled
 from  his  stirrups,  on  his  saddle  stood  the  dawn,  the
-morning  dawn.  At  his  left  stiiTup  sprang  a  grey-
-hound, and  a  dragon  of  the  hills  was  also  chained
+morning  dawn.  At  his  left  stiiTup  sprang  a  greyhound, and  a  dragon  of  the  hills  was  also  chained
 thereto.  On  his  right  stirrup  perched  a  blue-gray
 'eaglet,  who  sang  and  whistled  without  ceasing
 caressing  and  diverting  the  hero.  From  shoulder
@@ -8069,10 +7272,7 @@ in  the  village  herding  the  swine."
 At  that  heroic  cry,  the  peaceful  bays  were  trou-
 
 
-EPIC  SONGS   OF  RUSSIA.  209
-
-bled,  the  waters  grew  choked  with  sand.  Dobryn-
-ya's  charger  sank  to  his  knees,  and  Dobrynya  fell
+bled,  the  waters  grew  choked  with  sand.  Dobrynya's  charger  sank  to  his  knees,  and  Dobrynya  fell
 to  the  damp  earth,  where  he  lay  as  in  a  heavy
 sleep  for  the  space  of  about  three  hours.  When
 he  awoke  from  that  swoon,  he  mounted  his  good
@@ -8087,8 +7287,7 @@ both  quickly  and  stoutly,  and  sprang  upon  his  back
 without  touching  the  stirrups.  On  his  saddle-strap
 hung  his  war-club,  and  its  weight  w^as  ninety  poods.
 On  his  hip  rested  his  sharp  sword,  in  his  hand  he
-held  his  silken  whip.  Thus  armed  he  rode  in  pur-
-suit of  the  knight  to  the  Sorochinsky  mountains,
+held  his  silken  whip.  Thus  armed  he  rode  in  pursuit of  the  knight  to  the  Sorochinsky  mountains,
 and  looking  through  the  circle  of  his  young  fist,
 he  descried  a  black  spot  in  the  plain,  and  rode
 towards  it.
@@ -8106,8 +7305,6 @@ First  they  fought  with  their  maces,  until  these
 snapped   short   at   the    hilt,  —  and   wounded   one
 
 
-210  EPIC  SONGS   OF  RUSSIA.
-
 another  not.  Then  they  fought  with  their  sharp
 swords,  until  these  brake,  —  and  wounded  one
 another  not ;  and  so  Hkewise  with  their  sharp
@@ -8124,8 +7321,7 @@ fluttering,  but  Ilya  falling  to  the  damp  earth  like  a
 stack  of  hay.
 
 Falcon  the  Hunter  planted  himself  upon  Hyd's
-white  breast,  snatched  out  his  dagger  of  dam-
-ascened steel,  and  would  have  pierced  that  white
+white  breast,  snatched  out  his  dagger  of  damascened steel,  and  would  have  pierced  that  white
 breast,  closed  Ilya's  clear  eyes,  and  struck  off  his
 turbulent  head,  and  plucked  out  his  heart  with  his
 liver ;  but  his  arm  was  stiffened  from  the  shoulder
@@ -8147,8 +7343,7 @@ Ilyd's   heroic   heart  grew  hot  at  that,  and  his
 EPIC  SONGS   OF  BUSSIA.  211
 
 young  blood  boiled.  He  smote  Falcon  upon  his
-black  breast,  and  hurled  him  higher  than  the  stand-
-ing wood,  yet  lower  than  the  flying  clouds.  When
+black  breast,  and  hurled  him  higher  than  the  standing wood,  yet  lower  than  the  flying  clouds.  When
 Falcon  descended  again  to  the  damp  earth,  Ilyd
 leaped  to  his  nimble  feet,  and  sat  upon  the  hunter's
 breast.
@@ -8156,16 +7351,14 @@ breast.
 "  Tell  me  now,  good  youth,  thy  land,  thy  horde,
 thy  father's  name."
 
-"  Sat  I  on  thy  white  breast,"  the  hunter  an-
-swered, "  so  would  I  not  inquire  of  thee  thy  name
+"  Sat  I  on  thy  white  breast,"  the  hunter  answered, "  so  would  I  not  inquire  of  thee  thy  name
 and  country.  But  I  would  pierce  thy  white  breast,
 and  scan  thy  restive  heart,  and  scatter  thy  white
 body  over  the  plain,  to  be  torn  of  the  gray  wolf,
 and  picked  by  the  black  crows."
 
 Then  Ilya  inquired  no  further  of  him,  but  drew
-forth  his  dagger.  The  youth  perceived  that  mis-
-fortune was  close  at  hand,  and  answered :
+forth  his  dagger.  The  youth  perceived  that  misfortune was  close  at  hand,  and  answered :
 
 "  I  come  from  the  blue  sea,  from  the  palaces  of
 gray  stone,  from  mighty  Zlatigorka ;  and  my  father
@@ -8177,11 +7370,8 @@ from  my  good  horse  and  do  reverence  to  him,
 touching  my  forehead  to  the  ground."
 i  Then  the  old  man  felt  compassion  ;  for  he  knew
 now  that  this  was  his  own  Falcon,  by  that  fierce
-Zlatig6rka  whom  he  had  overcome  in  single  com-
-bat, and  to  whom  he  had  given  his  golden  ring
+Zlatig6rka  whom  he  had  overcome  in  single  combat, and  to  whom  he  had  given  his  golden  ring
 
-
-212  EPIC  SONGS   OF  RUSSIA.
 
 with  an  inscription,  and  set  with  a  rich  jewel.  He
 took  Falcon  by  his  white  hands,  kissed  his  sugar
@@ -8199,8 +7389,7 @@ Russian  heroes,  thou  shouldst  tardly  escape
 thence  alive."
 
 The  secret  of  his  birth  overwhelmed  the  good
-youth  as  a  great  misfortune,  and  he  rode  straight-
-way to  the  blue  sea,  to  the  palaces  of  gray  stone,
+youth  as  a  great  misfortune,  and  he  rode  straightway to  the  blue  sea,  to  the  palaces  of  gray  stone,
 to  his  mother.
 
 When  he  came  to  the  fair  porch,  he  shouted
@@ -8219,12 +7408,6 @@ over  likewise  to  speedy  death,  for  so  dishonored  I
 will  not  live."
 
 
-EPIC  SONGS   OF  RUSSIA.
-
-
-213
-
-
 Therewitli  he  wheeled  his  good  charger  about,
 and  rode  to  the  pavilion  of  white  linen.  There  he
 fitted  a  burning  shaft  to  his  stout  bow,  and  sent  it
@@ -8240,9 +7423,6 @@ over  the  plain.
 So  Falcon's  praise  is  sung,  and  Ilya's  glory  is  not
 diminished;  and  forever  shall  Ilya  be  celebrated
 in  song.
-
-
-214  EPIC  SONGS   OF  RUSSIA.
 
 
 SW^EET  MIKAILO  FVANOVICH  THE  ROVER.
@@ -8279,9 +7459,6 @@ So  these  three  heroes  rode  forth  to  the  Levanldoi
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  215
-
-
 I
 
 
@@ -8304,8 +7481,7 @@ shoulders,  and  began  to  kill  and  to  destroy,  so  that
 the  men  of  Pod6lia  yielded  and  fetched  the  tribute.
 
 So  Mikailo  departed  thence,  and  wandered  by
-the  blue  sea,  past  warm  and  peaceful  bays,  shoot-
-ing swans  and  geese.  As  he  turned  to  leave  the
+the  blue  sea,  past  warm  and  peaceful  bays,  shooting swans  and  geese.  As  he  turned  to  leave  the
 precipitous  shore,  he  gazed  out  upon  the  quiet  bay,
 and  beheld  a  white  swan  floating  there.  Through
 her  feathers  she  was  all  gold,  and  her  head  was
@@ -8320,14 +7496,11 @@ stout  bow  to  his  ear,  with  the  burning  arrow  of
 seven  eUs,  the  cord  twanged,  the  horns  of  the  great
 
 
-216  EPIC  SONGS   OF  RUSSIA.
-
 bow  creaked,  and  he  would  have  let  fly.     But  the
 white  swan  besought  him :
 
 "  Ai,  Mikailo  Ivanovich  the  Rover,  shoot  not  the
-white  swan,  else  shalt  thou  have  no  luck  for  ever-
-more ! "
+white  swan,  else  shalt  thou  have  no  luck  for  evermore ! "
 
 Then  the  swan  rose  over  the  blue  sea  upon  her
 white  wings,  flew  to  the  shore,  and  turned  into  a
@@ -8354,8 +7527,7 @@ Marya,  the  White  Swan  of  Pod6lia.  Then  spoke
 his  brothers  in  arms :
 
 "  Hast  thou  been  led  astray  by  woman's  wiles,
-Mikailo  Rover,  that  thou  bringest  hither  no  treas-
-ure ?     With  what  face  wilt  thou  present  thyself  in
+Mikailo  Rover,  that  thou  bringest  hither  no  treasure ?     With  what  face  wilt  thou  present  thyself  in
 
 
 EPIQ  SONGS   OF  BUSSIA.  217
@@ -8388,16 +7560,13 @@ youths  understood  me  not,  —  they  coveted  gold  and
 silver.  In  our  Holy  Russian  land,  a  race  of  young
 heroes  is  more  precious  than  either  silver  or  gold."
 
-Then  spoke  sweet  Mikailo  the  Rover  to  Mari-
-ushka  the  White  Swan :  "  Let  us  wed."
+Then  spoke  sweet  Mikailo  the  Rover  to  Mariushka  the  White  Swan :  "  Let  us  wed."
 
 "  Nay,  not  so,  Mikailo  Rover,"  she  replied,  "  but
 under  one  condition.  Let  us  take  a  great  and
 solemn  oath  that  when  either  one  of  us  shall  die,
 the  other  shall  go,  living,  into  the  grave  with  the
 
-
-218  EPIC  SONGS   OF  RUSSIA.
 
 dead,   and   there   abide   for   the    space    of    three
 months."
@@ -8427,8 +7596,7 @@ inquired :
 "  Whence  comest  thou,  good  youth,  from  whatj
 land  or  horde  ? "
 
-"  From  Kief  town  I  come,  young  Mikdilo  Ivdno-
-vich  the  Rover.  I  bring  thee  gifts  and  tribute  for
+"  From  Kief  town  I  come,  young  Mikdilo  Ivdnovich  the  Rover.  I  bring  thee  gifts  and  tribute  for
 twelve  years  from  that  Fair  Sun,  Prince  Vladimir.'*
 
 "  Where  are  these  gifts  and  tribute  ? "  I
@@ -8437,8 +7605,6 @@ twelve  years  from  that  Fair  Sun,  Prince  Vladimir.'*
 broke  down  upon  the  road ;  the  men  are  even  now
 mending  them."
 
-
-EPIC  SONGS   OF  RUSSIA.  219
 
 "  How  divert  ye  yourselves  with  such  joy  in
 Russia  %  "  asked  Tzar  Bukar.
@@ -8477,8 +7643,6 @@ arms,"  said  he,  "  and  rule  thou  whilst  I  go  home  to
 Kief."     Then  quickly,  quickly,  very,  very  quickly.
 
 
-220  EPIC  SONGS   OF  RUSSIA.
-
 with  speed,  he  rode  to  Kief  town,  to  his  pal
 white  stone.  There  he  hired  craftsmen,  and  they
 made  him  a  spacious  coffin  of  oak,  wherein  two
@@ -8500,25 +7664,20 @@ They  drew  the  White  Swan's  body  to  the  grave
 on  a  sledge,  with  sweet  Mikailo  alive  beside  it.
 
 Then  they  lowered  the  coffin  into  the  deep
-mound,  and  also  his  good  steed  with  his  rich  trap-
-pings, and  covered  them  with  ruddy  yellow  sand.
+mound,  and  also  his  good  steed  with  his  rich  trappings, and  covered  them  with  ruddy  yellow  sand.
 Three  months  did  Mikailo  the  Rover  sit  therein.
 
 After  that,  a  Dragon  of  the  under-world  crawled
 to  the  white  oak  coffin  with  her  brood,  pressed
 upon  it,  and  the  hoops  began  to  burst  asunder.
 Mikailo  sprang  to  his  nimble  feet.  A  second  and
-yet  a  third  time  did  the  Dragon  press,  and  there-
-upon the  coffin  yawned  widely.
+yet  a  third  time  did  the  Dragon  press,  and  thereupon the  coffin  yawned  widely.
 
 When  that  beast  espied  sweet  Mikailo,  she
-rejoiced  that  she  should  have  a  living  man  to  sat-
-isfy her  hunger,  as  well  as  the  dead  body.
+rejoiced  that  she  should  have  a  living  man  to  satisfy her  hunger,  as  well  as  the  dead  body.
 
 But   Mikailo  seized  the  Dragon  with  his  iron
 
-
-EPIC  SONGS   OF  RUSSIA.  221
 
 pincers,  and  began  to  smite  her  with  the  iron  rods,
 and  to  cry:  "Ai,  thou  Dragon  of  the  under-world!
@@ -8559,8 +7718,6 @@ Then  he  sprinkled  his  Russian  beauty,  Mdrya
 W.  R.  S.  Ralston  in  "  Russian  Folk-lore."
 
 
-222  EPIC  SONGS   OF  RUSSIA.
-
 the  "White  Swan.  First  her  blood  played,  then
 she  moved,  and  at  last  sat  upright  in  the  coffin,
 and  spoke :  "  Long  have  I  slept,  and  suddenly
@@ -8591,18 +7748,14 @@ had  such  a  beauty  dwelt  under  the  fair  red  sun.
 At  the  fame  of  her  beauty  came  forty  Tzars,  Kings
 and  Princes  to  the  Sorochlnsky  mountains,  and
 wrote  a  cartel  in  haste :  "  If  the  Fair  Sun  Prince
-Vladimir  yield  not  that  young  heroic  woman  with-
-out conflict  or  great  battle,  and  in  good  will,  then,
+Vladimir  yield  not  that  young  heroic  woman  without conflict  or  great  battle,  and  in  good  will,  then,
 will  we  destroy  all  Kief  town."
 
-
-EPIC  SONGS   OF  RUSSIA.  223
 
 Thereupon  came  Prince  Vladimir  to  Mikdilo:
 "  Sweet  Mikailo  Rover,"  he  said,  "  destroy  not  my
 whole  kingdom,  I  pray  thee,  for  the  sake  of  one
-woman.  Deliver  up  thy  young  heroic  wife,  with-
-out conflict  or  great  battle."
+woman.  Deliver  up  thy  young  heroic  wife,  without conflict  or  great  battle."
 
 "  Nay,  Fair  Sun  Prince  Vladimir,"  sweet  Mikailo
 made  answer.  "  Deliver  up  thine  own  fair  Princess
@@ -8635,8 +7788,6 @@ who  first  returneth  with  one  shall  have  me."
 
 To  this  they  all  agreed,  and  Mikailo  shot  forty
 
-
-224  EPIC  SONGS   OF  RUSSIA.
 
 arrows,  —  some  into  the  brushwood,  some  mto
 the  water :  —  and  was  it  a  light  task  to  find
@@ -8671,17 +7822,13 @@ yet  stronger  than  of  yore,  Eover."     So    Mikailo
 
 
 1  A  kind  of  boat-shaped  bowl  with  a  long  handle  —  a  sort  of  ladle
-for  kvass  or  beer.  It  is  still  used  to  ladle  out  kvass  among  the  peas-
-antry, in  monasteries,  and  so  forth.
+for  kvass  or  beer.  It  is  still  used  to  ladle  out  kvass  among  the  peasantry, in  monasteries,  and  so  forth.
 
-
-EPIC  SONGS   OF  RUSSIA.  225
 
 drained  that  bowl  of  the  wine  of  oblivion,  and  fell
 unconscious  there.
 
-Then  the  White  Swan  went  to  Vakramey  Vak-
-rameevich,  and  spoke  this  word :  "  Ai,  Tzar  Vakra-
+Then  the  White  Swan  went  to  Vakramey  Vakrameevich,  and  spoke  this  word :  "  Ai,  Tzar  Vakra-
 mey, do  what  thou  wilt  with  this  man  who  is  as
 dead."
 
@@ -8694,15 +7841,12 @@ by  his  yellow  curls,  dragged  him  forth  upon  the "]
 open  plain,  swung  him  about  her  head,  and  flung
 him  over  her  shoulder.
 
-"  Where  stood  sweet  Rover  Mikailo,  there  hence-
-forth let  a  white  stone  stand,"  she  said.  "  Let  it
+"  Where  stood  sweet  Rover  Mikailo,  there  henceforth let  a  white  stone  stand,"  she  said.  "  Let  it
 fly  over  the  earth  for  the  space  of  three  years,  and
 after  that  let  it  sink  through  the  damp  earth ! "
-And  sweet  Mikailo  was  turned  into  a  stone  straight-
-way.
+And  sweet  Mikailo  was  turned  into  a  stone  straightway.
 
-His  brothers  in  arms,  remembering  sweet  Mi-
-kailo, grew  weary  with  longing  for  him,  and  said :
+His  brothers  in  arms,  remembering  sweet  Mikailo, grew  weary  with  longing  for  him,  and  said :
 "  Let  us  go,  brothers,  to  the  Volhynian  land,  to
 inquire  whether  our  brother  be  slain  or  captive
 there."  So  they  put  on  the  weeds  of  wandering
@@ -8714,8 +7858,6 @@ aged  man  came  to  meet  them  in  the  way,  and  said:
 
 "  Take  me  with  you  as  your  comrade."     And
 
-
-226  EPIC  SONGS   OF  RUSSIA.
 
 they  did  so,  and  came  to  the  land  of  Volhynia,  to
 Tzar  Vakram^y.
@@ -8746,17 +7888,13 @@ knights  to  kill  the  psalm-singers,  that  aged  pilgrim
 brandished  his  staff,  and  slew  them  all,  leaving  not
 one  alive.
 
-When  Tzar  Vakram^y  saw  that  his  whole  king-
-dom could  not  stand  against  that  one  pilgrim,  he
+When  Tzar  Vakram^y  saw  that  his  whole  kingdom could  not  stand  against  that  one  pilgrim,  he
 pondered  what  might  chance  when  the  other  two
 should  wake.  So  he  went  in  haste  to  his  deep
 vaults,  took  gold,  silver,  and  fair  round  pearls,  an
 
 
-EPIC  SONGS   OF  RUSSIA.  227
-
-gave  to  those  psalm-singers ;  and  the  next  morn-
-ing they  set  out  for  Kief  town.
+gave  to  those  psalm-singers ;  and  the  next  morning they  set  out  for  Kief  town.
 
 As  they  journeyed,  they  came  to  a  stone ;  and
 the  aged  pilgrim  said:  "I  must  leave  you,  brothers.
@@ -8777,8 +7915,7 @@ his  knees  in  the  damp  earth.  "  Is  this  the  devil
 or  God's  might,  that  is  in  this  stone  % "  quoth  he.
 
 Then  Dobrynya  essayed  to  lift  it,  and  could  not
-so  much  as  make  a  space  for  the  air  to  pass  be-
-neath it.  But  the  aged  psalm-singer  put  his  little
+so  much  as  make  a  space  for  the  air  to  pass  beneath it.  But  the  aged  psalm-singer  put  his  little
 hand  beneath  the  stone,  raised  it  to  his  shoulder,
 and  as  he  flung  it,  he  conjured  it :  "  Break,  stone !
 and  let  sweet  Mikailo  the  Rover  appear  in  thy
@@ -8792,16 +7929,13 @@ thou  art  come  to  Kief  town,  burn  a  candle  to  Saint
 Mik6la.     And  fai*e  ye  well  now,  ye  mighty  Russian
 
 
-228  EPIC  SONGS   OF  RUSSIA.
-
 heroes!  pray  to  Mik6la  of  Mozhdisk,  and  he  will
 raise  you  from  the  blue  sea ! "  Therewith  he
 vanished,  leaving  the  money  with  them,  and  they
 saw  not  whither  he  went.
 
 Rover  Mikdilo  took  leave  straightway  of  his
-brothers  in  arms,  and  returned  to  the  land  of  Vol-
-hynia,  and  entered  the  spacious  couit  of  Tzar
+brothers  in  arms,  and  returned  to  the  land  of  Volhynia,  and  entered  the  spacious  couit  of  Tzar
 Vakramey's  palace,  and  shouted  in  a  heroic  voice.
 
 White  Swan  Marya  heard  that  cry,  and  spoke
@@ -8831,8 +7965,6 @@ While  she  was  gone,  Anna  the  Fair,  sister  to
 Tzar  Vakram6y,  took   a  Httle  serving-maid,  and
 
 
-EPIC  SONGS   OF  RUSSIA.  229
-
 went  to  view  the  Russian  hero ;  and  as  she  looked,
 she  loved.  Mikailo's  stupor  was  already  passed,
 and  he  besran  to  entreat  her  to  set  him  free.
@@ -8844,8 +7976,7 @@ And  he  swore  to  her,  "  If  thou  wilt  but  save  me,
 I  will  sever  the  turbulent  head  of  Marya  the  White
 Swan,  and  take  the  golden  crown  with  thee."
 
-Then  she  drew  out  the  spikes  with  her  finger-
-nails, took  in  haste  a  Tatar  chosen  for  his  stature,
+Then  she  drew  out  the  spikes  with  her  fingernails, took  in  haste  a  Tatar  chosen  for  his  stature,
 hair  and  beauty,  and  fastened  him  to  the  wall  in
 Mikailo's  stead,  took  sweet  Mikailo  under  her
 cloak  of  black  sables,  and  led  him  across  the
@@ -8871,8 +8002,6 @@ then  asked :  "  Hast  thou  thy  strength  as  of  yore  %  "
 And  sweet  Mikailo  made  answer :  "  If  I  had
 but  my  suit  of  chain  mail,  my  great  battle-sword,
 
-
-230  EPIC  SONGS   OF  RUSSIA.
 
 and  my  good  steed,  I  should  not  fear  your  Tzar
 Vakram6y."
@@ -8914,8 +8043,6 @@ out  of  the  lattice  window  to  the  gu'dle,  and  shrieked
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  231
-
 in  a  piercing  voice :  "  Drink  not,  sweet  Rover
 Mikailo !  Remember  thine  oath.  If  thou  drink
 that  wine,  thou  hast  lost  thyself  forever."
@@ -8932,9 +8059,6 @@ Prince  Vladimir.  There  they  were  married,  and
 lived  in  happiness.  And  sweet  Mikailo  Ivdnovich
 the  Rover  built  a  church  to  Saint  Mik6la  of
 Mozhaisk.
-
-
-232  EPIC  SONGS   OF  RUSSIA.
 
 
 NIGHTINGALE    BUDIMIROVICH   THE    SAILOR    HERO,
@@ -8967,8 +8091,6 @@ shore,  towards  Mother  Dnicpr  river.
 1  A  long,  sleeveless  tunic  for  women.
 
 
-EPIC  SONGS   OF  RUSSIA.  233
-
 One  ship,  the  fairest,  sailed  before,  as  flies  the
 falcon  clear,  and  proudly  she  bore  her  head  on
 high.  Like  a  dragon  fierce  her  prow  was  fashioned,
@@ -8991,8 +8113,7 @@ ceiling  hung  with  black  cut  velvet,  its  walls  with
 sables  black.  Its  covering  was  foxes  and  martins,
 long  and  downy,  from  Siberian  caves.
 
-In  that  green  tiled  bower,  on  carven  seats  of  pre-
-cious fishes'  teeth,  sat  Nightingale  Budlmirovich:-^
+In  that  green  tiled  bower,  on  carven  seats  of  precious fishes'  teeth,  sat  Nightingale  Budlmirovich:-^
 on  his  right  sat  his  lady  mother,  young  Ulyana
 Vasllievna,  on  his  left  his  body-guard  of  three
 hundred  youths,  none  better.  Shoes  of  green
@@ -9002,8 +8123,6 @@ scarlet  cloth  ;  on  their  heads  were  Norman  caps.
 
 1  Lithuania.  >  See  Appendix.
 
-
-234  EPIC  SONGS   OF  RUSSIA.
 
 On  his  sounding  gusly  played  Nightingale,  anc
 solaced  his  lady  mother.  String  after  string  he
@@ -9043,8 +8162,6 @@ upon  the  steep  shores,  and  throw  out  three  landing
 stages ;  one  of  red  gold  for  Nightingale  himself
 
 
-EPIC  SONGS   OF  RUSSIA.  235
-
 one  of  silver  for  his  good  body-guard,  and  one  of
 bronze  for  his  lady  mother,  the  honorable  widow,
 Ulyana  Vasilievna.
@@ -9059,12 +8176,9 @@ not.  Not  dear  was  the  red  gold,  the  pure  silver
 upon  that  damask  fair ;  that  which  was  beyond
 price  was  the  pattern  from  beyond  the  sea,  of
 Nightingale's  own  devising.  All  these  things  he
-laid  on  a  dish  of  gold,  and  went  to  Prince  Vladi-
-mir's palace  of  white  stone,  to  the  banquet-hall.
-There  he  crossed  himself  as  prescribed,  did  rever-
-ence as  enjoined,  to  all,  to  two,  to  three,  to  four
-sides,  and  to  the  royal  Prince  in  particular,  greet-
-ing him  and  his  Princess.
+laid  on  a  dish  of  gold,  and  went  to  Prince  Vladimir's palace  of  white  stone,  to  the  banquet-hall.
+There  he  crossed  himself  as  prescribed,  did  reverence as  enjoined,  to  all,  to  two,  to  three,  to  four
+sides,  and  to  the  royal  Prince  in  particular,  greeting him  and  his  Princess.
 
 "Hail,  thou  bold  and  goodly  youth ! "  spoke
 Vladimir  then.  "  I  know  neither  thy  name  nor
@@ -9074,16 +8188,14 @@ the  peaceful  Don."
 
 "  None  of  these  am  I,"  quoth  the  youth ;  "  but
 young  Nightingale  Budlmir's  son,  from  the  blue
-sea,  from  the  Isle  of  Kadol  in  the  land  of  Lede-
-n^tz."  Then  he  offered  his  gifts  to  Vladimir  and
+sea,  from  the  Isle  of  Kadol  in  the  land  of  Leden^tz."  Then  he  offered  his  gifts  to  Vladimir  and
 his  Princess.      The  Princess  was  greatly  pleased
 
 
 236  EPIC  SONGS   OF  BUS  SI  A.
 
 thereat,  accepting  and  praising  them  all ;  and  in
-particular  the  damask,  the  like  of  which  for  rich-
-ness, and  cunuingness  of  device,  was  not  in  Kief
+particular  the  damask,  the  like  of  which  for  richness, and  cunuingness  of  device,  was  not  in  Kief
 nor  ever  had  been.  And  the  Princess  Aprdxia
 entreated  Vladimir  that  he  would  give  Nightingale
 sweet  viands,  green  wine,  and  sweet  mead.
@@ -9118,8 +8230,6 @@ cloth,  and  your  fair  green  shoes ;  don  raiment  fit
 for  labor,  of  elkskin,  and  heavy  foot-gear.     Take
 
 
-EPIC  SONGS   OF  RUSSIA.  237
-
 sharp  steel  axes,  go  to  Love's  garden,  root  up  the
 oaks  and  elms,  hew  oaken  beams,  and  build  me
 there  this  night,  three  golden-crown6d  towers,  with
@@ -9149,14 +8259,10 @@ Love  cried,  "  come  hither  and  view  this  marvel.
 But  yestere'en  that  hillock  was  bare,  and  now  'tis
 fully  crowned."
 
-"  Prithee,  dear  Love,"  they  answered,  "  look  thy-
-self!    For  thy  fate  hath  come  to  thy  court."
+"  Prithee,  dear  Love,"  they  answered,  "  look  thyself!    For  thy  fate  hath  come  to  thy  court."
 
 Then  Love  put  her  shoes  in  haste  upon  her
 naked  feet,  flung  her  robe  upon  one  shoulder,  and
-
-
-238  EPIC  SONGS   OF  RUSSIA.
 
 
 ^
@@ -9203,8 +8309,6 @@ for  thyself.     This  should  not  be,  fair  damsel.     Bet
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  239
-
 ter  were  it  for  thee  to  be  at  home,  dra^ving  water,
 milking  the  cows,  feeding  the  calves."
 
@@ -9238,9 +8342,6 @@ wife,  and  sailed  away  to  his  own  land.  There  he
 dwelt  thenceforth,  and  his  wife,  in  joy  and  peace.
 
 
-240  EPIC  SONGS   OF  RUSSIA.
-
-
 DANILO  THE  HUNTSMAN  AND  HIS  WIFE.
 
 In  Kief  town  the  Fair  Sun  Prince  Vladlmi
@@ -9270,8 +8371,6 @@ fair  of  face,  but  lacked  wit ;  the  wit  of  anothel
 exceeded  her  beauty.  Yet  never  found  I  so  fair
 woman,  and  so  fitting,  as  the  bride  of  Danllo  th
 
-
-EPIC  SONGS   OF  RUSSIA.  241
 
 Huntsman,  Vasillsa  Mikiilichna.  She  is  fair  of
 face,  and  of  good  understanding:  she  knoweth
@@ -9308,8 +8407,6 @@ said :  "  Little  father.  Prince  Vladimir !  if  thou  slay
 
 1  See  Appendix :  Aldtyr  Stone.
 
-
-242  EPIC  SONGS   OF  RUSSIA.
 
 the  bright  falcon,  yet  shalt  thou  not  capture  th
 white  swan ! "
@@ -9351,9 +8448,6 @@ So   the   good  youth  journeyed  to   the   Isle  o:
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  243
-
-
 Buydn.  When  he  espied  the  fierce  beast,  he
 grasped  his  stout  bow  firmly,  fitted  a  gilded  arrow
 to  the  silken  cord,  slew  the  beast,  and  took  out
@@ -9372,8 +8466,7 @@ cut  down  the  Russian  host  to  a  man.  And  after
 a  little  space,  he  looked  again  towards  Kief  town :
 —  'twas  not  two  fierce  beasts  coursing  o'er  the
 open  plain,  nor  yet  two  damp  oaks  quivering ;  but
-two  great  heroes  riding,  Niklta,  Danllo's  own  broth-
-er, and  Dobrynya,  his  brother  in  arms.
+two  great  heroes  riding,  Niklta,  Danllo's  own  brother, and  Dobrynya,  his  brother  in  arms.
 
 When  Danilo  saw  that,  he  wept  bitterly,  and
 spoke :  "  Of  a  truth,  the  Lord  is  wroth  with  me,
@@ -9432,8 +8525,6 @@ Upon  that,  she  took  her  sharp  knife,  pierced  h^
 white  breast,  and  closed  her  clear  eyes.
 
 
-EPIC  SONGS   OF  RUSSIA.  245
-
 The  two  heroes  wept,  and  returning,  told  all  to
 Prince  Vladimir.
 
@@ -9447,12 +8538,8 @@ a  kettle  of  pitch.^
 
 1  It  is  difficult  to  determine  the  epoch  of  this  bylina.  Possibly,  in
 some  version  of  the  song  which  has  not  come  down  to  us,  Vladimir  is
-represented  as  courting  Danilo's  wife  during  the  lifetime  of  the  Prin-
-cess Apraxia.  This  would  answer  to  the  historical  Vladimir  before  his
+represented  as  courting  Danilo's  wife  during  the  lifetime  of  the  Princess Apraxia.  This  would  answer  to  the  historical  Vladimir  before  his
 baptism.
-
-
-246  EPIC  SONGS   OF  RUSSIA.
 
 
 IL7A  AND  THE  ADVENTURE   OF   THE  THREE
@@ -9484,8 +8571,6 @@ I  Aldtyr,^jWhereon  was  written :  "  Whoso  rideth  to
 
 1  See  Appendix.
 
-
-EPIC  SONGS   OF  RUSSIA.  247
 
 the  right  shall  gain  great  wealth,  whoso  goeth  to  the
 left  a  wife,  he  that  fareth  straight  on,  his  death."
@@ -9522,12 +8607,6 @@ is  worth  but  five  hundred,  my  cloak  of  sables  three
 thousand ;  my  cap  of  forty  poods,  and  my  sandals
 
 1  A  sourish  porridge,  or  pudding.
-
-
-248
-
-
-EPIC  SONGS   OF  RUSSIA.
 
 
 of  the   seven   silks,  five  hundred  each ;    my  fin|
@@ -9567,8 +8646,6 @@ they  entreated  him :
 II
 
 
-EPIC  SONGS   OF  RUSSIA.  249
-
 "  Good  youth,  great  Russian  hero !  Enter  thou
 into  comradeship  with  us.  Take  what  thou  wilt
 of  golden  treasure,  flowered  garments,  horses  and
@@ -9605,8 +8682,6 @@ feast  with  her.
 such  a  marvel  I  have  never  yet  beheld,"  said  Ilyd.
 Then  she  led  him  in.      The  good  youth  crossed
 
-
-250  EPIC  SONGS   OF  RUSSIA.
 
 himself  as  prescribed,  made  salutation  as  enjoined
 to  all  sides,  and  lowest  of  all  to  the  fair  Princess
@@ -9647,8 +8722,6 @@ which  undo  the  dungeon  doors.  Show  me  th
 way  to  those  deep  vaults."
 
 
-EPIC  SONGS   OF  RUSSIA.  251
-
 So  they  showed  him ;  and  he  found  the  way
 choked  with  yellow  sand,  and  barred  with  vast
 logs  of  wood.
@@ -9657,8 +8730,7 @@ He  had  no  need  of  the  golden  keys ;  he  tore  the
 locks  asunder  with  his  hands,  forced  the  doors
 back  with  his  heels,  until  they  flew  from  their
 frames.  Then  from  the  dungeons  forty  Tzars  and
-Tzareviches,  forty  Kings  and  Princes,  their  heirs,  to-
-gether with  Dobrynya  Nikltich,  Aly6sha  Popovich,
+Tzareviches,  forty  Kings  and  Princes,  their  heirs,  together with  Dobrynya  Nikltich,  Aly6sha  Popovich,
 and  many  more,  an  innumerable  host,  sprang  to
 their  nimble  feet,  and  came  forth.
 
@@ -9671,8 +8743,7 @@ and  children,  and  pray  God  for  the  Old  Cossack,
 for  Ilyd  of  Miirom."
 
 But  when  the  fair  Princess  came  forth,  Ilya  took
-her  by  her  white  hands,  bound  her  to  three  un-
-tamed horses,  and  drove  them  apart,  so  that  they
+her  by  her  white  hands,  bound  her  to  three  untamed horses,  and  drove  them  apart,  so  that  they
 scattered  over  the  open  plain,  here  a  hand,  there
 a  foot,  and  everywhere  her  white  body.  All  her
 estates  and  treasure  he  divided  among  those  bold
@@ -9684,8 +8755,6 @@ Again  the  Old  Cossdck  returned  to  the  white
 stone,  crossed  out  the  old  inscription,  and,  wrote
 a  new  one :
 
-
-252  EPIC  SONGS   OF  RUSSIA.
 
 "This  legend  is  falsely  written;  I  have  riddeD
 that  way,  yet  am  I  still  unwed ! "
@@ -9702,8 +8771,7 @@ seed-pearls ;  and  on  the  vault  was  an  inscription :
 "  This  treasure  shall  fall  to  Ilyd  of  Miirom."
 
 Ilya  reflected ;  and  having  hired  wise  and
-cunning  craftsmen,  he  built  on  that  spot  a  monas-
-tery and  a  cathedi'al  church.  And  he  instituted
+cunning  craftsmen,  he  built  on  that  spot  a  monastery and  a  cathedi'al  church.  And  he  instituted
 there  church  singing,  and  the  sound  of  bells.
 *'  Let  him  whose  that  treasure  was  come  for  it
 now,"  quoth  Ilyd  of  Murom,  and  returned  to
@@ -9717,9 +8785,6 @@ Old  Cossdck,  Ilya  of  Mui'omr'
 And  Ilya  related  his  Adventure  of  the  Three
 Ways,  and  all  that  he  had  done,  to  Fair  Sun
 Prince  Vladimir.
-
-
-EPIC  SONGS   OF  RUSSIA.  253
 
 
 DOBRYNYA  AND  ALYOSHA.
@@ -9736,25 +8801,19 @@ Broad  and  far  ran  Mother  V6lga  past  Kazdn,
 and  broader  yet  by  Astrakhan ;  many  a  river  did
 our  Mother  V6lga  flood  receive  into  her  bosom,
 and  yet  more  brooks  did  she  ingulf.  A  vast
-sweep  she  gave  at  Dalinsky,  along  the  lofty  moun-
-tains of  Sorochlnsky  and  Smolensk's  gloomy  for-
+sweep  she  gave  at  Dalinsky,  along  the  lofty  mountains of  Sorochlnsky  and  Smolensk's  gloomy  for-
 ests ;  in  a  bed  of  three  thousand  versts  she  ran,
 and  fell  into  the  Caspian  Sea,  through  seventy
 mouths :  —  and  broad  is  her  flood  at  Novgorod.
 And  this,  brothers,  is  no  fable,  no  play  of  words :
-neither  is  it  Dobrynya's  tale,  which  shall  straight-
-way find  beginning.
+neither  is  it  Dobrynya's  tale,  which  shall  straightway find  beginning.
 
 —  Dobrynya  went  to  royal  Kief  town,  where
 courteous  Prince  Vladimir  had  made  an  honorable
-feast  to  his  princes,  nobles,  heroes,  and  warrior-
-maids.
+feast  to  his  princes,  nobles,  heroes,  and  warriormaids.
 
-The  long  day  drew  towards  evening,  the  honor-
-able feast  waxed  merry,  the  fair  sun  sank  to  the
+The  long  day  drew  towards  evening,  the  honorable feast  waxed  merry,  the  fair  sun  sank  to  the
 
-
-254  EPIC  SONGS   OF  RUSSIA.
 
 west.  And  the  feast  grew  ever  merrier,  and  the
 heroes  began  to  boast  of  many  thmgs,  —  the  wise
@@ -9769,11 +8828,9 @@ ermine  galloped  not,  weaving  the  prints  of  his
 small  pretty  paws.  But  from  the  verge  of  the
 plain  a  bold  and  goodly  youth  emerged,  —  little
 Ilya,  the  glorious,  of  Miirom,  —  rode  straight  to
-Prince  Vladimir's  court,  and  entered  the  banquet-
-hall.
+Prince  Vladimir's  court,  and  entered  the  banquethall.
 
-He  crossed  himself,  and  did  reverence  as  en-
-joined, to  all  four  sides,  and  seated  himself  at  the
+He  crossed  himself,  and  did  reverence  as  enjoined, to  all  four  sides,  and  seated  himself  at  the
 oaken  board  in  the  great  corner  of  honor,  on  the
 bench  of  precious  fishes'  teeth.^  Already  had
 the  guests  tasted  bread  and  salt,  and  now  were
@@ -9782,16 +8839,13 @@ the  hall,  stroked  his  black  curls,  and  spoke :
 
 "  Ho,  ye  princes,  nobles,  strong  and  mighty
 heroes  all,  and  all  ye  bold  warrior-maids !  stand
-for  the  Christian  faith,  for  me,  your  Prince  Vladi-
-mir, and  for  my  Princess  Apraxia,  for  widows,
+for  the  Christian  faith,  for  me,  your  Prince  Vladimir, and  for  my  Princess  Apraxia,  for  widows,
 orphans,  and  unhappy  women!  Whom  shall  we
 send  to  defend  the  mighty  barrier,  and  wage  battle
 with  the  Discourteous  Knight  ?     For  he  hath  writ-
 
 1  Walrus-tusks.
 
-
-EPIC  SONGS   OF  RUSSIA.  255
 
 ten  me  a  challenge  to  single  combat,  and  is  now
 tlying  hither  in  form  of  a  raven.  Whom  shall  we
@@ -9805,16 +8859,14 @@ of  Pyatig6rsk,  the  Kalmyks  and  Tatars  ? "
 
 All  at  the   feast  held  their  peace,  each  hiding  '^'
 behind  some  lesser  man.     Then  glorious  Ilya  of
-Murom,  that  bold  and  goodly  youth,  stepped  for-
-ward, and  stood  firm  upon  his  nimble  feet,  and
+Murom,  that  bold  and  goodly  youth,  stepped  forward, and  stood  firm  upon  his  nimble  feet,  and
 bowed  low  until  liis  white  face  touched  his  feet.
 
 "  Foolish  are  ye,  Russian  heroes,  to  hold  your
 peace  thus,  uttering  no  word !  Not  long  is  it,
 brothers,  since  I  returned  from  the  open  plain.
 I  have  dwelt  upon  the  Soix>chinsky  road,  at  the
-heroic  ditch  of  defence,  contending  in  single  com-
-bat and  waging  battle  these  twelve  years.  Thither
+heroic  ditch  of  defence,  contending  in  single  combat and  waging  battle  these  twelve  years.  Thither
 flew  the  Discourteous  Knight  in  form  of  a  black
 raven,  but  would  not  show  himself  to  my  eyes;
 else  would  I  have  slain  that  dog  of  a  churl  with
@@ -9826,8 +8878,6 @@ Then  Dobrynya  drained  a  cup  of  green  wine
 which  Prince  Vladimir  himself  brought  him,  but
 tarried   not   long    at   the    feast,    going   thence   in
 
-
-256  EPIC  SONGS   OF  RUSSIA.
 
 ui^cheerful  mood.     When  he  came  to  his  mothe]
 he  wept  bitterly.
@@ -9852,8 +8902,7 @@ I  have  borne  thee  with  the  genius  and  fortune  of
 riya  of  Miirom,  the  strength  of  Hero  Svyatogor,
 the  mincing  gait  of  Churllo  Plenkovich,  the  beauty
 of  Osip  Most  Fair,^  the  daring  of  Aly6sha  Pop6-
-vich,  the  wealth  of  Sadk6  the  merchant  of  N6v-
-gorod,  the  fame  of  Volga  Buslaevich,  the  curls
+vich,  the  wealth  of  Sadk6  the  merchant  of  N6vgorod,  the  fame  of  Volga  Buslaevich,  the  curls
 of  the  Tzar  Kudryanisha.^  But  to  Dobrynya  God
 gave  courtesy  alone ;  and  other  gifts  were  not
 bestowed  upon  thee."
@@ -9864,8 +8913,6 @@ songs.
 2  Curly,  literally  ;  but  said  to  be  in  reality  a  corruption  of  tb^
 Emperor  Hadrian's  name,
 
-
-EPIC  SONGS   OF  RUSSIA.  257
 
 He  said  to  her :  "  Fair  and  good  my  mother,
 thy  youth  hath  neither  good  steed  nor  heroic
@@ -9891,8 +8938,7 @@ before  his  right  fore-foot.
 
 "  Thou  good  heroic  steed,"  he  cried,  "  thou  hast
 served  my  father  and  grandfather ;  serve  now  also
-Dobrynya  on  his  heroic  quests."  Then  he  un-
-chained and  loosed  the  horse,  and  saddled  him,
+Dobrynya  on  his  heroic  quests."  Then  he  unchained and  loosed  the  horse,  and  saddled  him,
 girding  him  with  twelve  girths  of  the  silk  of
 Samarcand,  the  indestructible,  and  a  thirteenth  for
 heroic  strength,  lest  the  good  steed  should  spring
@@ -9902,23 +8948,19 @@ upon  the  open  plain.
 After  that  he  arrayed  himself.     Under  the  heels
 
 
-258  EPIC  SONGS   OF  RUSSIA.
-
 of  his  shoes  of  green  morocco,  studded  with  golden
 pins,  sparrows  might  fly ;  from  their  awl-like  beaks
 an  eg^  might  roll ;  his  cap  was  gilded,  —  not  for
 youthful  grace,  but  for  heroic  might.  Next  he  put
 on  a  coat  of  mail,  not  heavy  (in  weight  but  ninety
-poods),  and  set  his  foot  in  the  stirrup  of  damas-
-cened steel.  —  More  lightly  than  a  hare  he  sprang
+poods),  and  set  his  foot  in  the  stirrup  of  damascened steel.  —  More  lightly  than  a  hare  he  sprang
 —  more  sharply  than  a  little  ermine  turned,  seated
 himself  in  the  Cherkessian  saddle,  and  came  to  the
 palace  of  white  stone,  to  his  mother,  and  said :
 "  Give  me  thy  leave  to  ride  upon  this  heroic
 quest."
 
-So  his  fair,  good  mother  laid  the  cross  of  bless-
-ing on  him,  and  led  to  his  left  stirrup  his  beloved
+So  his  fair,  good  mother  laid  the  cross  of  blessing on  him,  and  led  to  his  left  stirrup  his  beloved
 wife,  young  Nastasya  Mikulichna,  and  having  bade
 him  farewell,  went  into  the  palace  and  wept  bitter
 tears,  wiped  them  away  with  a  fair  linen  cloth,  and
@@ -9928,17 +8970,13 @@ and  lofty  hills,  behind  mosses  and  wide  lakes :  and
 now  the  bright  moon  alone  lighteth  me :  young
 Nastasya,  my  son's  bride,  alone  tarrieth  with  me."
 
-Young  Nastasya,  as  she  stood  by  his  stirrup,  be-
-gan to  inquire  of  him  :  "  Ai,  my  dearest  Dobrynya
+Young  Nastasya,  as  she  stood  by  his  stirrup,  began to  inquire  of  him  :  "  Ai,  my  dearest  Dobrynya
 Nikitich !  when  may  I  expect  thee  from  the  open
-field?  Tell  me  when  I  may  await  thee  from  yon-
-der lands."
+field?  Tell  me  when  I  may  await  thee  from  yonder lands."
 
 "  I  will  tell  thee,  fair  Nastasya.  Three  years
 shalt  thou  wait  for  Dobrynya ;    if  in  that  time  I
 
-
-EPIC  SONGS   OF  RUSSIA.  259
 
 am  not  here,  then  wait  yet  another  three.  And
 when  that  space  of  six  years  is  past,  and  I  am  not
@@ -9973,9 +9011,6 @@ back  and  came  to  Nastasya.
 
 "  Lo,  Nastasya  Mikiilichna  !  "  quoth  he :  "  as  I
 roamed  the  open  plain  but  yesterday,  I  saw  Do-
-
-
-260  EPIC  SONGS   OF  RUSSIA.
 
 
 brynushka  dead.  He  lieth  with  his  head  in  a
@@ -10013,8 +9048,6 @@ Aly6sha,  I  may  never  wed."
 
 Then  Aly6sha  was  not  merry,  and  said :  "  Thou
 
-
-EPIC  SONGS   OF  RUSSIA.  261
 
 may  est  turn  and  strive  thy  uttermost,  but  none
 other  wilt  thou  get  for  a  husband;  and  so  shalt
@@ -10058,13 +9091,9 @@ bright  moon  set  also !  "
 k
 
 
-262  EPIC  SONGS  OF  RUSSIA.
-
 and  had  fought  for  royal  Kief  and  his  native  land
-all  those  years,  wandering  far  through  many  coun-
-tries. When  Nastasya  married  Aly6sha,  he  was
-far  away  upon  the  open  plain,  beyond  the  glori-
-ous blue  sea.  As  the  good  youth  sat  in  his  tent,
+all  those  years,  wandering  far  through  many  countries. When  Nastasya  married  Aly6sha,  he  was
+far  away  upon  the  open  plain,  beyond  the  glorious blue  sea.  As  the  good  youth  sat  in  his  tent,
 diverting  himself  with  chess,  upon  a  board  of  gold,
 he  knew  not  of  the  misfortune  which  had  befallen
 him.  Then  flew  thither  a  dove  and  his  mate,
@@ -10085,8 +9114,7 @@ borne  me  hither  in  three   years.     Now  bear  me
 home  in  three  hours  to  royal  Kief  town."
 
 Then  he  mounted  his  good  steed,  and  quickly,
-quickly,  very,  very  quickly,  with  speed,  rode  Do-
-brynya  from  beyond  the  blue  sea.  Good  Fly-alone
+quickly,  very,  very  quickly,  with  speed,  rode  Dobrynya  from  beyond  the  blue  sea.  Good  Fly-alone
 left  the  earth ;  higher  than  the  standing  wood  he
 soared,  yet  lower  than  the  flying  clouds.  He
 leaped  the  lakes  and  rivers,  dashed  thi'ough  the
@@ -10102,8 +9130,6 @@ heul
 )wd|
 
 
-EPIC  SONGS   OF  RUSSIA.  263
-
 nor   snowy  partridge   fluttering,  but   a   bol^    and
 
 )odly  youth  swift  riding.  Straight  to  Kief  town
@@ -10114,8 +9140,7 @@ asked  no  leave  of  the  porters  at  the  gate,  nor  of
 the  keepers  at  the  doors.  Thrusting  them  aside,
 he  broke  open  the  portals,  and  entered  unbidden,
 unannounced,  and  boldly,  the  honorable  widow's
-dwelling.  "  Hail,  honorable  widow,  Afimya  Al-
-exandrevna ! "  he  said  when  he  had  crossed  him-
+dwelling.  "  Hail,  honorable  widow,  Afimya  Alexandrevna ! "  he  said  when  he  had  crossed  him-
 self and  done  reverence  as  was  the  usage.
 
 The  porters  and  door-keepers,  entering,  made
@@ -10126,8 +9151,7 @@ the  orphaned  dwelling  unannounced?  Were  my
 dear  child  living,  young  Dobrynya  Nikltich,  he
 would  have  cut  off  thy  turbulent  head  for  thine
 unmannerly  ways.  Were  he  but  alive,  all  the
-diunken  boors  would  not  come  to  jeer  at  this  un-
-protected dwelling.  But  twelve  years  have  passed
+diunken  boors  would  not  come  to  jeer  at  this  unprotected dwelling.  But  twelve  years  have  passed
 since  my  fair  red  sun  set  forever."  ^-^'    j>^o
 
 "  Mournest  thou  not  in  vain?"  said  Dobrynya.  .^'^
@@ -10138,8 +9162,6 @@ Kief.  He  bade  me,  his  own  brother,  inquire
 for  his  dear  wife,  young  Nastasya.  Where  is
 she?"
 
-
-264  EPIC  SONGS   OF  RUSSIA.
 
 "  Go  forth,  thou  pot-house  boor,  and  mock  not
 poor  old  woman !     Though  I  ah-eady  totter  witl
@@ -10154,8 +9176,7 @@ young  Dobrynya  Nikltich  ? "
 his  feet,  but  thine,  thou  sot,  are  torn  and  patched^
 Dobrynya's  face  was  white  and  red, — thine  is  darl
 and  dust-begrimed.  His  eyes  were  clear  as  th(
-sea  falcon's,  but  thine  are  troubled.  Young  Do-
-brynya had  yellow  locks,  curling  in  three  tiers
+sea  falcon's,  but  thine  are  troubled.  Young  Dobrynya had  yellow  locks,  curling  in  three  tiers
 upon  his  head,  —  thine  hang  upon  thy  shoulders.
 Upon  his  curls  rested  a  fair  new  cap,  and  hi
 raiment  was  flowered ;  but  thy  garments  ai'e  rent
@@ -10180,8 +9201,6 @@ mouth,  calling  him  her  beloved  son.
 
 i
 
-
-EPIC  SONGS   OF  RUSSIA,  265
 
 "  Where  is  Nastasya,  that  she  cometh  not  to  meet
 me,  returning  from  the  open  plain  \ "
@@ -10220,9 +9239,6 @@ the  places  are  filled ;  but  there  is  yet  a  small  place
 upon  the  earthen  oven  —  the  minstrel's  place."
 
 1  Skomordk,  huSoon,Jongleur,  minstrel,  jester.
-
-
-266  EPIC  SONGS   OF  RUSSIA.
 
 
 Dobrynya  was  agile  of  foot:  lightly  he  sprang
@@ -10266,8 +9282,6 @@ ring  with  which  she  had  wedded  Dobrynya.
 I
 
 
-EPIC  SONGS   OF  RUSSIA.  267
-
 "  Fair  Sun  Prince  Vladimir,"  she  said,  "  not  he
 that  sitteth  beside  me  is  my  husband,  but  he  that
 sitteth  over  against  me,  that  Httle  minstrel,  young
@@ -10279,8 +9293,7 @@ vaulted  over,  fell  upon  Dobrynya's  white  breast,
 and  kissed  his  sugar  mouth.
 
 "  The  proverb  saith  — '  A  man  goeth  to  the
-forest  for  wood,  and  his  wife  doth  wed  straight-
-way!' Take  thy  silken  whip,  therefore,  Dobrynya,
+forest  for  wood,  and  his  wife  doth  wed  straightway!' Take  thy  silken  whip,  therefore,  Dobrynya,
 and  beat  me."
 
 But  Dobrynya  answered,  "  I  marvel  not  at  thee,
@@ -10290,8 +9303,7 @@ Fair  Sun,  I  da_marvel,  —  that  he  should  woo  the
 wife  of  a  living  husband  for  another  man,  and
 should  compel  her  to  wed  when  she  would  not
 wijlingly.  And  yet  more  do  I  marvel  at  my
-brother  in  arms,  bold  Alyosha  Popovich.  Yester-
-e'en  was  but  a  week  that  Aly6sha  saw  me  in  the
+brother  in  arms,  bold  Alyosha  Popovich.  Yestere'en  was  but  a  week  that  Aly6sha  saw  me  in  the
 open  plain ;  and  now  the  younger  brother  hath
 taken  away  the  elder  brother's  wife.  "
 
@@ -10301,12 +9313,6 @@ upon  the  brick  floor,  and  began  to  beat  him  with
 his  little  cudgel  of  ninety  poods ;  and  when  he
 was  done,  he  flung  Aly6sha  under  the  wall-bench.
 Quoth  he,  "  '  Any  man  may  marry,'  saith  the  prov-
-
-
-268
-
-
-EPIC  SONGS   OF  RUSSIA.
 
 
 erb,  '  but  not  with  every  man  doth  it  go  well !  j
@@ -10326,16 +9332,12 @@ ever,  and  forevermore.
 ■
 
 
-EPIC  SONGS   OF  RUSSIA.  269
-
-
 ILYA   OF  MUROM  AND   TZAR  KALIN.
 
 At  courteous  Prince  Vladimir's  palace  in  royal
 Kief  town,  an  honorable  feast  was  assembled  of
 many  princes,  all  the  nobles,  the  mighty  heroes
-and  their  bold  body-guards,  and  all  the  merchant-
-traders.
+and  their  bold  body-guards,  and  all  the  merchanttraders.
 
 The  Fair  Sun  made  good  cheer ;  to  one  he  gave
 cities,  to  another  towns,  to  this  man  villages,  to
@@ -10357,9 +9359,6 @@ the  Fair  Sun  Prince  Vladimir.  "  Ilya  hath  been
 in  my  kitchen,"  she  said ;  "  he  hath  dragged  his
 mantle  of  marten  about,  and  hath  said  that  even
 so  he  would  also  drag  Vladimir  by  his  yellow  curls.
-
-
-270  EPIC  SONGS   OF  RUSSIA.
 
 
 And  he  hath  poured  green  wine  upon  the  mantle
@@ -10384,8 +9383,7 @@ saddle  and  plaited  bridle,  and  let  his  brown  horse
 wander  free  at  God's  good  will.
 
 Then  he  descended  into  the  dungeon,  and  the
-heroes  made  all  fast  as  Prince  Vladimir  had  com-
-manded.
+heroes  made  all  fast  as  Prince  Vladimir  had  commanded.
 
 When  the  Princess  Apraxia  heard  of  that,  she
 dug  a  deep  passage,  and  carried  sugar  viands  and
@@ -10406,8 +9404,7 @@ They  stood  along  swift-flowing  Mother  Dniepr,  and
 about  Kief  town  on  all  sides,  a  hundred  versts  well
 told.
 
-That  dog  Tzar  Kdlin  seated  himself  on  his  fald-
-stool, and  wrote  in  haste  a  cartel,  with  a  swan-quill
+That  dog  Tzar  Kdlin  seated  himself  on  his  faldstool, and  wrote  in  haste  a  cartel,  with  a  swan-quill
 pen,  and  pure  gold  in  place  of  ink,  upon  crimson
 velvet.  Then  he  chose  his  best  and  favorite
 runner,  gave  him  the  cartel,  and  commanded  him
@@ -10421,8 +9418,7 @@ reverence  to  Vladimir,  neither  take  thou  thy  cap
 from  thy  head.  But  take  thy  stand  over  against
 him,  fling  this  cartel  upon  the  golden  table,  and
 say  to  Prince  Vladimir :  '  Take  this  cartel,  and
-look  what  is  written  there.  Clean  all  thine  arrow-
-straight  streets,  remove  the  wondrous  crosses  from
+look  what  is  written  there.  Clean  all  thine  arrowstraight  streets,  remove  the  wondrous  crosses  from
 God's  temples,  and  build  horse-stalls  in  the
 churches ;  for  our  good  steeds  shall  be  stabled
 there.  And  clean  out  all  thy  palaces  of  white
@@ -10458,12 +9454,10 @@ there  is  none  to  fight  for  our  faith  and  fatherlanc
 for  the  church  of  God  and  the  city  of  Kief;  ther
 is  none  to  defend  Prince  Vladimir."
 
-Then  spake  the  Princess :  "  Little  father !  com-
-mand thy  trusty  servants  to  go  to  the  deep  dungeon
+Then  spake  the  Princess :  "  Little  father !  command thy  trusty  servants  to  go  to  the  deep  dungeon
 and  see  whether  Ilya  be  not  yet  alive."
 
-"  Thou  foolish  princess ! "  Vladimir  made  an-
-swer. "If  I  take  thy  turbulent  head  from  thy
+"  Thou  foolish  princess ! "  Vladimir  made  answer. "If  I  take  thy  turbulent  head  from  thy
 shoulders,  will  it  grow  again  ?  How  can  the  bold
 good  youth  be  living  after  these  three  years  ?  "
 
@@ -10477,15 +9471,12 @@ orphans.  Then  he  took  the  Old  Cossack  by  his;
 little  white  hands,  by  his  golden  ring,  led  him  tc
 
 
-EPIC  SONGS   OF  RUSSIA.  273
-
 his  ovni  table,  and  gave  him  to  eat  and  drink  of
 the  best.
 
 So  Hya  saddled  his  good  steed,  and  sallied  forth.
 They  saw  the  good  youth  as  he  mounted,  they  saw
-him  not  as  he  rode.  There  was  but  a  smoke-
-wreath  on  the  open  plain,  and  springs  of  water
+him  not  as  he  rode.  There  was  but  a  smokewreath  on  the  open  plain,  and  springs  of  water
 bui-st  forth  where  good  Cloudfall's  hoofs  beat  the
 earth.  He  leaped  to  the  crest  of  a  lofty  mountain,
 and  the  Old  Cossack  gazed  upon  all  sides,  hoping
@@ -10515,9 +9506,6 @@ All  rose   and   kissed,  and   bade   him   welcome
 
 
 274  EPIC  SONGS   OF  BUSSIA.
-
-
-1
 
 
 heartily.     Then  they  sat  down  again  to  eat  an(
@@ -10554,8 +9542,7 @@ walked  the    streets,  his   nephew,  young  Yermak
 
 against  the  hostile  host.
 
-"  Thou  art  but  a  braggart  child,"  quoth  Vladi-
-mir, "  and  hast  never  taken  a  mace  in  thy  hand."   ,
+"  Thou  art  but  a  braggart  child,"  quoth  Vladimir, "  and  hast  never  taken  a  mace  in  thy  hand."   ,
 
 "  If  thou  grant  not  the  horse,  uncle,  I  will  go  on
 foot."
@@ -10566,8 +9553,6 @@ what  horse  he  would  from  the  stable,  where  he
 1  Yermak  Timofeevich  conquered  Siberia  during  the  reign  of  Ivan
 the  Terrible.
 
-
-EPIC  SONGS   OF  RUSSIA.  275
 
 should  also  find  what  armor  he  requu'ed.  Thither
 went  the  youth  in  all  haste ;  but  the  chain  mail
@@ -10581,8 +9566,7 @@ gold,  and  Ilya  asleep  upon  a  couch  of  fishes'  teeth,
 beneath  a  coverlet  of  sables.
 
 Yermak  was  vexed,  and  shouted  with  all  his
-strength :  "  Ho  there,  thou  Old  Cossack,  Ilya  Mii-
-rometz  !  Yonder  in  Kief  there  is  bread  to  eat  in
+strength :  "  Ho  there,  thou  Old  Cossack,  Ilya  Miirometz  !  Yonder  in  Kief  there  is  bread  to  eat  in
 plenty,  but  no  one  to  defend  the  town."
 
 Then  said  the  Old  Cossack :  "  Climb  into  the
@@ -10601,12 +9585,8 @@ the  longest  light  of  autumn  suffice  for  the  gray
 bird  to  fly  over  it.
 
 Then  Yermak  leaped  quickly  from  the  damp
-oak,  sprang  upon  his  good  steed,  and  rode  straight-
-way against  that  host.  The  heroes  sat  on  in  the
+oak,  sprang  upon  his  good  steed,  and  rode  straightway against  that  host.  The  heroes  sat  on  in  the
 white  pavilion.     Ilyd  slept  three  days  and  nights.
-
-
-276  EPIC  SONGS   OF  RUSSIA.
 
 
 During  that  space,  young  Yermak  contended  alone
@@ -10627,16 +9607,13 @@ infidels.     This  he  told  to  Ilya.
 Cossack  then.  "  Mount  your  good  steeds,  and
 sally  forth  against  that  host.  And  take  iron
 grappling-hooks,  catch  them  in  young  Yermak's
-shoulders,  and  persuade  him :  '  Thou  hast  break-
-fasted to-day,  now  let  us  dine.'  For  the  young  lad
+shoulders,  and  persuade  him :  '  Thou  hast  breakfasted to-day,  now  let  us  dine.'  For  the  young  lad
 will  perish,  and  will  never  attain  to  herohood."
 
-So  Aly6sha  went  forth  with  stout  grappling-
-irons;  but  thrice  did  young  Yermdk  break  away
+So  Aly6sha  went  forth  with  stout  grapplingirons;  but  thrice  did  young  Yermdk  break  away
 from  them,  and  Aly6sha  returned  to  the  pavilion.
 And  so  it  fared  also  with  Dobrynya.  Then  Ilyd
-went  himself.  He  sat  his  charger  like  a  centuiy-
-old  oak,  wavering  not,  and  caught  hold  of  Yermdk.
+went  himself.  He  sat  his  charger  like  a  centuiyold  oak,  wavering  not,  and  caught  hold  of  Yermdk.
 "  Calm  thy  heroic  heart,"  he  said,  "  we  will  labor
 now."
 
@@ -10647,8 +9624,6 @@ so  swooped  the  Holy  Russian  hero  upon  that  Tatar
 
 ■
 
-
-EPIC  SONGS   OF  RUSSIA.  277
 
 horde,  and  began  to  trample  the  host  under  his
 horse's  hoofs,  and  to  lay  them  low,  as  a  mower
@@ -10671,8 +9646,7 @@ to  eat  my  wheat."
 
 This  discourse  pleased  not  the  Old  Cossdck.
 He  grasped  his  silken  whip  in  his  white  hands,
-and  beat  the  horse  upon  his  flanks.  "  Thou  treach-
-erous hound  ! "  quoth  he.  "I  feed  and  water  thee,
+and  beat  the  horse  upon  his  flanks.  "  Thou  treacherous hound  ! "  quoth  he.  "I  feed  and  water  thee,
 and  yet  thou  wilt  abandon  me  in  the  deep  ditches
 of  the  open  plain !  "
 
@@ -10684,8 +9658,6 @@ When  he  fell  into  the  first  trench,  his  good
 steed  bore  him  out  in  safety.  Again  he  rode,  and
 came  to  the  second  ditch ;  and  from  that  also  he
 
-
-278  EPIC  SONGS   OF  RUSSIA.
 
 escaped.     From  the  third,  heroic  Cloudfall  leap
 nimbly  (but  bore  not  Ilya  with  him),  and  fled  far
@@ -10728,8 +9700,6 @@ and  none  opposed  him.     But  he  perceived  that  the
 A
 
 
-EPIC  SONGS   OF  RUSSIA.  279
-
 task  was  not  small,  and  so  seized  a  Tatar  by  the
 heels,  and  began  to  beat  the  Tatars  with  a  Tatar.
 "This  Tatar  is  stout,"  quoth  Ilya,  "he  breaketh
@@ -10763,9 +9733,6 @@ breast,  he  sprang  quickly  to  his  nimble  feet.
 
 "  Ho  there,  my  mighty  heroes  of  Holy  Russia !  '*
 |l   he  shouted.      "  Saddle  now  your  good  steeds  in
-
-
-280  EPIC  SONGS   OF  RUSSIA.
 
 
 haste,  and  mount  with  speed.  An  unwelcome
@@ -10807,16 +9774,13 @@ A  Little  Russian  legend  declares  that  the  last  bogat^  was  caught
 by  the  recruiting  officer,  and  turned  into  a  soldier.
 
 
-EPIC  SONGS   OF  RUSSIA.  281
-
 When  Yermdk  returned  to  Kief  town,  courteous
 Prince  Vladimir  inquired  of  him ;  "  How  shall  I
 reward  thee  now,  beloved  nephew  mine?  Wilt
 thou  have  estates,  or  golden  treasure  ?  "
 
 And  young  Yermak  made  answer :  "  Grant  me
-only,  uncle,  that  I  may  drink  beer  and  wine  with-
-out price  in  all  the  pot-houses."  And  so  Vladimir
+only,  uncle,  that  I  may  drink  beer  and  wine  without price  in  all  the  pot-houses."  And  so  Vladimir
 granted  it.
 
 But  Ilyd  of  Mtii'om  the  Old  Cossack  of  the  Don
@@ -10831,17 +9795,12 @@ end  forever.
 1  See  Appendix:  Ilyd  of  Murom.
 
 
-282  EPIC  SONGS   OF  RUSSIA.
-
-
 TZAR  SOLOMON  AND  TZARITZA  SOLOMONIDj
 
 Beyond  the  glorious  blue  sea,  in  Imperial  Tzar-*
 grad,^  Tzar  Vaslly  Okul6vicli  made  a  great  am
-honorable  feast  to  many  princes,  nobles,  errant-
-knights,  stout  and  mighty  heroes,  and  all  the  bold
-warrior-maidens,  Tatars,  body-guards,  and  mer-
-chants from  other  lands.
+honorable  feast  to  many  princes,  nobles,  errantknights,  stout  and  mighty  heroes,  and  all  the  bold
+warrior-maidens,  Tatars,  body-guards,  and  merchants from  other  lands.
 
 The  white  day  drew  to  even,  the  feast  waxed
 merry,  the  sovereign  was  well  diverted,  and  paced
@@ -10901,8 +9860,6 @@ they  may  sing  imperial  songs.  Prepare  a  couch
 of  ivory,  and  at  its  head  place,  lord,  a  little  giisly,
 
 
-284  EPIC  SONGS   OF  RUSSIA.
-
 which  will  sing,  hum,  breathe  forth  delicate  tone
 of  itself —  all  the  airs  of  Tzargrad  ;  that  they  ma
 be  a  solace  to  Jerusalem,  and  may  sing  reason  aa
@@ -10942,8 +9899,6 @@ Tzarltza  Solom6nida !  yield  not  to  manly  charms."
 1  Brandy.
 
 
-EPIC  SONGS  OF  RUSSIA.  285
-
 Then  took  he  leave  of  her,  and  went  forth  upon
 the  open  plain  to  collect  tribute  for  twelve  years.
 
@@ -10952,8 +9907,7 @@ entered  the  harbor,  and  paid  a  tax ;  he  cast  anchor,
 and  paid  dues,  lowered  his  sails,  and  paid  yet  more.
 
 Then  he  took  noble  and  precious  gifts,  and  came
-to  the  Tzarltza  in  her  lofty  castle,  crossed  him-
-self as  enjoined,  did  reverence  as  commanded,  and
+to  the  Tzarltza  in  her  lofty  castle,  crossed  himself as  enjoined,  did  reverence  as  commanded,  and
 spoke  these  words  t
 
 "  Most  fair  Tzarltza  Solom6nida !  Receive  from
@@ -10962,8 +9916,7 @@ and  surveyors,  to  write  down  the  wares  upon  my
 vessels,  that  thou  mayest  take  due  tribute,  and
 grant  me  leave  to  trade  in  Jerusalem."
 
-So  the  Tzarltza  appointed  scribes  and  survey-
-ors according  to  his  desire,  and  Tarakdshko  led
+So  the  Tzarltza  appointed  scribes  and  surveyors according  to  his  desire,  and  Tarakdshko  led
 them  to  his  first  vessel,  and  gave  them  lordly
 vodka ;  led  them  to  the  second,  and  brought  them
 the  liquor  of  oblivion.  The  scribes  all  drank,  and
@@ -10980,8 +9933,6 @@ Then  the  Tzarltza  rose,  and  took  a  force  of  five
 hundred  men,  and  went  to  the  first  vessel  to  view
 the   matter.      There   Tarakdshko    brought   lordly
 
-
-286  EPIC  SONGS   OF  RUSSIA.
 
 v6dka,  and  on  the  second  treated  her  to  the  win
 of  oblivion ;  and  the  Tzaritza  drank  too  mucl
@@ -11023,8 +9974,6 @@ took  Solom6nida  by  her  white  hands,  kissed  her
 •
 
 
-EPIC  SONGS  OF  RUSSIA.  287
-
 sugar  mouth,  and  led  her  to  the  cathedral  where
 they  straightway  took  the  golden  crowns.  Then
 they  began  to  live  and  pass  the  time  in  mirth.
@@ -11061,8 +10010,6 @@ wandering  psalm-singer  I  see  —  'tis  Solomon  the
 most  wise    Tzar.      Prithee,   Solomon,   enter   my
 
 
-288  EPIC  SONGS  OF  RUSSIA.
-
 lofty  palace.     That  which  I  have  done,  lord,  wat
 against  my  will."
 
@@ -11088,8 +10035,7 @@ reputed  both  wise  and  cunning.  But  of  a  truth,
 there  is  none  more  foolish ;  for  lo !  a  woman  now
 sitteth  upon  him !  "
 
-"  Show  me  Solomon  most  wise,  fairest  Solo-
-m6nida,"  quoth  Vasily.
+"  Show  me  Solomon  most  wise,  fairest  Solom6nida,"  quoth  Vasily.
 
 Then  she  undid  the  twofold  locks,  and  besought
 Vaslly :  "  Give  speedy  death  to  Solomon,  fair
@@ -11104,8 +10050,6 @@ usage  to  cut  off  the  heads  of  Tzars.     Make  now,
 ■
 
 
-EPIC  SONGS   OF  RUSSIA.  289
-
 therefore,  a  lofty  scaffold,  and  haug  upon  -it  three
 great  nooses ;  the  first  of  rope,  the  second  of  bast,
 the  third  of  silk."
@@ -11117,8 +10061,7 @@ will  he  yet  escape  by  his  craft  and  wisdom."
 
 Nevertheless  the  Tzar  did  all  as  Solomon  had
 commanded,  and  they  all  went  forth  to  the  gallows
-of  white  oak  —  Solomon  the  most  wise  Tzar,  Solo-
-m6nida  the  fairest  Tzaritza,  Tzar  Vasily,  and  Guest
+of  white  oak  —  Solomon  the  most  wise  Tzar,  Solom6nida  the  fairest  Tzaritza,  Tzar  Vasily,  and  Guest
 Tarakashko  from  over  the  sea.
 
 When  they  were  come  to  the  gallows,  Solomon
@@ -11174,8 +10117,7 @@ recalling  Solomon  most  wise."
 Then  he  mounted  the  third  step,  and  craved
 leave  to  sound  his  horn  for  the  last  time.  He
 blew  a  battle  call,  and  all  his  great  host  was
-moved,  as  though  clear  falcons  had  flown  over-
-head, or  gray  wolves  had  sped  swiftly  past.  With
+moved,  as  though  clear  falcons  had  flown  overhead, or  gray  wolves  had  sped  swiftly  past.  With
 all  speed  they  rode  to  the  oaken  gallows,  and  took
 Tzar  Solomon  most  wise  therefrom.  Then  they
 set  Tzar  Vasily  in  the  silken  noose,  Tzarltza
@@ -11184,8 +10126,6 @@ Solom6nida  the  Fair  in  the  rope,  and  Guest  Tara-
 
 i
 
-
-EPIC  SONGS   OF  RUSSIA.  291
 
 kashko  in  the  noose  of  bast.  And  having  taken
 captive  all  Tzargrad,  they  journeyed  back  around
@@ -11207,28 +10147,22 @@ THE    CYCLE    OF    NOVGOROD.
 „^
 
 
-EPIC  SONGS   OF  RUSSIA.  295
-
-
 VASILY  BUSLAEVICH,   THE  BRAVE    OF  NOVGOROD.
 
 In  glorious  Novgorod  the  Great,  dwelt  old
 Buslai  for  the  space  of  ninety  years.  He  dwelt
 in  peace  with  Novgorod,  challenging  it  not,  and
 had  no  dispute  with  the  men  thereof.  At  length
-he  died,  being  full  of  years,  and  left  great  posses-
-sions, a  widow,  and  an  amiable  son,  young  Vasili-
+he  died,  being  full  of  years,  and  left  great  possessions, a  widow,  and  an  amiable  son,  young  Vasili-
 ushka  Buslaevich,^  the  child  of  his  old  age.
 
 When  Vaslliushka  had  attained  to  seven  years,
 his  mother  sent  him  to  learn  to  read  and  write.
-In  this  he  succeeded  well,  likewise  in  church  sing-
-ing .  in  all  Novgorod  the  Glorious  there  was  no
+In  this  he  succeeded  well,  likewise  in  church  singing .  in  all  Novgorod  the  Glorious  there  was  no
 singer  equal  to  him.  Then  he  began  to  roam  the
 city,  to  loiter  in  princely  courts,  to  consort  with
 foolish  fellows  and  many  pot-house  sots,  and  to
-jest  in  rude  fashion  with  noble  and  princely  chil-
-di  en.  When  he  plucked  at  a  hand,  it  was  torn
+jest  in  rude  fashion  with  noble  and  princely  childi  en.  When  he  plucked  at  a  hand,  it  was  torn
 away  from  the  shoulder ;  each  foot  he  pulled
 di'opped  off  with  the  leg  attached ;  heads  at  his
 touch  spun  round  like  buttons ;  when  he  knocked
@@ -11239,8 +10173,6 @@ to  the  very  honorable  widow,  to  make  complaint
 
 1  See  Appendix.
 
-
-296  EPIC  SONGS   OF  RUSSIA.
 
 of  her  son ;  and  they  besought  her  to  put  a  sto]
 to  his  crippling  the  children.  Thereupon  she  rep^
@@ -11263,8 +10195,7 @@ wine  without  price,  and  wear  flowered  raiment  of'
 divers  hues,  let  him  repair  to  Vaska's  court."
 
 Then  he  bound  these  scrolls  to  stout  arrows,  and
-shot  them  into  N6vgorod.  As  the  men  of  N6vgo-
-rod  came  from  church,  they  gathered  them  up  in
+shot  them  into  N6vgorod.  As  the  men  of  N6vgorod  came  from  church,  they  gathered  them  up  in
 the  streets  and  lanes  ;  and  some  who  could  read
 chancing  there,  they  looked  upon  the  scrolls,  and
 interpreted  them :  "  Vasily  commandeth  us  to  an
@@ -11277,11 +10208,6 @@ his  court,  and  took  to  himself  a  cudgel  of  red  elm.
 
 "  Whosoever  shall  lift  in  one  hand  a  cup  of  this
 
-
-1
-
-
-EPIC  SONGS   OF  RUSSIA.  297
 
 wine,  in  weight  a  pood  and  a  half,  and  shall  quaff
 it  at  a  breath,  and  shall  likewise  withstand  a  blow
@@ -11320,12 +10246,8 @@ swung  it  a  lane  appeared,  where  he  drew  it  back,
 an  alley ;  and  he  slew  the  men  of  N6vgorod  like
 
 
-298  EPIC  SONGS   OF  RUSSIA.
-
-
 a  thunderstorm,  so  that  they  lay  dead  in  heaps.
-And  Vasily  returned  again  to  his  lofty,  golden-
-crowned  tower.
+And  Vasily  returned  again  to  his  lofty,  goldencrowned  tower.
 
 Then  came  K6stya^  New-trader,  took  a  cup  of
 green  wine,  raised  it  with  one  hand,  drained  it  at
@@ -11339,8 +10261,7 @@ spilled.
 "  Is  my  strength  less  than  of  old  ? "  quoth  Vasily:
 "  doth  not  my  red  elm  serve  me  as  of  yore  ? "  ]
 
-And  lo !  a  little  stone  lay  there,  white  and  burn-
-ing :  on  this  he  essayed  his  strength  —  and  the
+And  lo !  a  little  stone  lay  there,  white  and  burning :  on  this  he  essayed  his  strength  —  and  the
 stone  was  shivered  to  atoms.
 
 "  Ai,  K6stya  New-trader !  "  he  cried,  "  be  thou  of
@@ -11351,8 +10272,7 @@ Then  came  Lame  Potdnyshka,  lifted  the  great
 cup  in  one  hand,  drained  off  the  green  wine  at  a
 breath,  and  when  he  had  withstood  Vaslly's  stern
 assault  he  likewise  became  one  of  the  body-guard ;
-and  in  like  manner  also,  Komushka  the  Hunch-
-back.
+and  in  like  manner  also,  Komushka  the  Hunchback.
 
 These  three  went  not  forth  from  the  new  hall.
 
@@ -11361,8 +10281,6 @@ Vasily.     "  There  we  will  quaff  sweet  liquors,  and
 
 1  Kdstya,  diminutive  of  Consiantine.
 
-
-EPIC  SONGS   OF  RUSSIA.  299
 
 cat  sugar  viands ;  and  there  is  none  in  Novgorod
 whom  we  must  fear."
@@ -11380,8 +10298,7 @@ So  when  the  men  of  Novgorod  perceived  that
 things  were  not  well  with  them  they  said :  "  Cursed
 be  thou,  Vasily  Buslaevich !  We  have  come  at  thy
 bidding,  yet  have  neither  fared  sumptuously,  nor
-worn  fine  apparel.  Therefore  is  eternal  strife  en-
-gendered." Then  they  took  counsel  together,  and
+worn  fine  apparel.  Therefore  is  eternal  strife  engendered." Then  they  took  counsel  together,  and
 said :
 
 "  Children !  let  us  turn  Vasiliushka  into  a
@@ -11398,15 +10315,13 @@ have  dissuaded  him.  "  My  dear  child,"  she  spoke,
 "  there  is  room  for  the  guest  who  is  bidden,  but
 not  for  him  who  is  unbidden."
 
-Nevertheless  Vasily  hearkened  not  to  his  moth-
-er's counsel.     He  took  his  brave  body-guard,  and
+Nevertheless  Vasily  hearkened  not  to  his  mother's counsel.     He  took  his  brave  body-guard,  and
 
 
 300  EPIC  SONGS   OF  BUSSIA.
 
 
-went  to  the  feast.  He  asked  no  leave  of  the  gate-
-keepers, nor  yet  of  the  lackeys  at  the  doors,  but
+went  to  the  feast.  He  asked  no  leave  of  the  gatekeepers, nor  yet  of  the  lackeys  at  the  doors,  but
 entered  straight  the  banquet-hall.  He  set  his  right
 foot  in  the  hall,  his  left  on  the  oaken  table  in  the
 great  corner,  and  flung  himself  on  the  wall-bench
@@ -11415,8 +10330,7 @@ hand  and  his  right  foot.  i
 
 The  guests  all  came  to  the  oven-corner ;  and
 Vasily  moved  to  the  comer  by  the  door,  and
-stretched  out  his  left  hand  and  left  foot.  There-
-upon the  guests  went  to  the  new  hall,  and  some
+stretched  out  his  left  hand  and  left  foot.  Thereupon the  guests  went  to  the  new  hall,  and  some
 fled  to  their  homes  in  terror.
 
 Then  Vasily  went  to  the  oaken  tables  with  his
@@ -11440,8 +10354,6 @@ there,  with  the  sole  aid  of  his  good  guard,  hold  his
 own  against  all  Ndvgorod.
 
 
-EPIC  SONGS   OF  RUSSIA.  301
-
 When  he  left  the  feast,  and  returned  home  to
 his  princely  palace  with  drooping  head,  and  eyes
 fixed  on  the  ground,  his  mother  mquired  the  cause
@@ -11450,24 +10362,20 @@ of  his  sadness.
 "  Did  they  pass  thee  with  the  cup,  or  did  some
 drunken  churl  jeer  at  thee  ? "
 
-Vasily  could  make  no  reply,  but  his  brave  body-
-guard told  her  all.  Then  Avd6tya  Vasllievna  put
+Vasily  could  make  no  reply,  but  his  brave  bodyguard told  her  all.  Then  Avd6tya  Vasllievna  put
 her  shoes  in  haste  upon  her  bare  feet,  cast  her
 mantle  of  sables  upon  one  shoulder,  took  her
 golden  keys,  and  went  to  her  deep  vaults.  There
 she  heaped  a  bowl  with  red  gold,  another  with
 pure  silver,  and  yet  a  third  with  fair  round  pearls,
-and  came  to  the  honorable  feast.  She  crossed  her-
-self as  prescribed,  did  reverence  in  courteous  wise,
+and  came  to  the  honorable  feast.  She  crossed  herself as  prescribed,  did  reverence  in  courteous  wise,
 and  said :
 
 "  Hail,  ye  men  of  N6vgorod !  Forgive  now
 Vasily  his  fault."
 
-But  they  refused  to  accept  her  gifts,  or  to  par-
-don Vasily.  "  If  the  Lord  help  us  to  take  Vasily,
-we  will  ride  his  good  steeds,  wear  his  flowered  gar-
-ments, and  squander  his  golden  treasure.  We  will
+But  they  refused  to  accept  her  gifts,  or  to  pardon Vasily.  "  If  the  Lord  help  us  to  take  Vasily,
+we  will  ride  his  good  steeds,  wear  his  flowered  garments, and  squander  his  golden  treasure.  We  will
 pardon  him  when  we  shall  have  cut  off  his  head ! "
 
 Then  Avdotya^  Vasilievna  went  home  in  grief
@@ -11478,8 +10386,6 @@ my  beloved  son,  young  Vasily  Buslaevich  !  "
 
 1  Popular  for  Evdokia,  Eudoxia.
 
-
-302  EPIC  SONGS   OF  RUSSIA.
 
 So  when  she  was  come  to  her  own  dwelling
 she  gave  Vasily  to  drink  of  the  cup  of  forgetful
@@ -11520,8 +10426,6 @@ give  thee  golden  treasure  as  much  as  thou  desii-est."
 J
 
 
-EPIC  SONGS   OF  RUSSIA.  303
-
 So  she  undid  the  door,  breaking  the  lock  with
 her  maple  yoke,  and  let  Vasily  out  into  the  white
 world.  And  since  he  could  not  find  his  warlike
@@ -11538,8 +10442,7 @@ therewith  departed.
 When  he  came  to  the  V6lkof  bridge,  and  found
 all  as  the  maiden  had  told  him,  he  shouted :
 
-"  Ai,  my  brave  body-guard !  Ye  have  break-
-fasted, now  let  me  dine.  'Twas  not  I,  brothers,
+"  Ai,  my  brave  body-guard !  Ye  have  breakfasted, now  let  me  dine.  'Twas  not  I,  brothers,
 who  betrayed  ye,  but  my  own  mother.  Go  now,
 my  well-beloved  brothers,  and  rest,  while  I  play
 with  these  children."
@@ -11557,8 +10460,6 @@ Curb  thy  dear  child,  young  Vasily  Buslaevich;
 soften  his  heroic  heart,  that  he  may  leave  but  a
 handful  of  our  men  alive."     But  she  replied :
 
-
-304  EPIC  SONGS   OF  RUSSIA.
 
 "  I  dare  not,  ye  princes  of  N6ygorod.     I  have
 done  him  grievous  wrong,  in  that  I  confined  him  in
@@ -11591,14 +10492,11 @@ Thereupon  he  smote  the  Ancient  Pilgrim  upoA
 the  great  bell  of  Sophia,  with  his  axle ;  and  after
 that  one  blow,  the  Pilgrim's  praise  was  sung.^
 
-But  Vaslly  seized  the  great  clapper,  and  con-
-tinued to  slay  the  men  of  N6vgorod.  At  length
+But  Vaslly  seized  the  great  clapper,  and  continued to  slay  the  men  of  N6vgorod.  At  length
 the  princes   prevailed  upon  his   mother  to   make
 
 1  The  Easter  greeting  in  Eussia.  ^  He  was  dead.
 
-
-EPIC  SONGS   OF  RUSSIA.  305
 
 intercession  for  them.  So  she  arrayed  herself  in  a
 robe  of  black,  threw  a  cloak  of  sables  about  her
@@ -11630,13 +10528,9 @@ a  full  verst.
 Vasily  gave  command  that  all  this  should  be
 done,  and  went  to  the  banquet,  but  felt  ill  at
 ease  there,  and  so  returned  to  his  palace  of  white
-stone,  to  his  lady  mother,  and  his  brave  body-
-guard.
+stone,  to  his  lady  mother,  and  his  brave  bodyguard.
 
 1  The  military  leader.
-
-
-306  EPIC  SONGS   OF  RUSSIA.
 
 
 There  he  lived  at  ease,  healing  the  wounds  of
@@ -11650,8 +10544,7 @@ dived  like  a  fearless  duck :  —  there  floated  the  red
 ship  of  young  Vasily  Buslaevich,  and  thereon  Vaslly
 and  his  brave  troop.  K6stya  held  the  helm,  little
 Potanyshka  stood  on  the  prow,  and  Vaslly  paced
-the  vessel,  uttering  these  words :  "  My  bright  body-
-guard and  brave,  all  my  good  youths  and  bold!  Set
+the  vessel,  uttering  these  words :  "  My  bright  bodyguard and  brave,  all  my  good  youths  and  bold!  Set
 our  vessel  against  Ilmen,  and  sail  to  N6vgorod."
 
 With  anchors  they  caught  the  shore,  threw  out
@@ -11672,8 +10565,6 @@ my  great  blessing,  but  if  thou  goest  to  rob,  I  will
 not  give  it;  and  may  the  damp  earth  not  bear
 Vasily ! "
 
-
-EPIC  SONGS  OF  RUSSIA.  307
 
 Stone  softeneth  in  the  fire,  steel  melteth  in  the
 glow,  her  mother's  heart  gave  way:  she  gave
@@ -11700,8 +10591,7 @@ stole  much :  in  my  old  age  I  must  save  my  soul.
 Inform  me,  good  youths,  the  straight  way  to  the
 holy  city  of  Jerusalem."
 
-Then  they  told  him  that  the  straight  way  de-
-manded a  seven -weeks'  journey,  and  the  way
+Then  they  told  him  that  the  straight  way  demanded a  seven -weeks'  journey,  and  the  way
 about,  a  year  and  a  half.  But  upon  the  glorious
 Caspian  sea  was  a  stout  barrier ;  for  the  chieftains
 of  the  Cossacks,  three  thousand  in  number,  made
@@ -11712,8 +10602,6 @@ and  galleons,  destroying  scarlet  ships.
 Vasily  ;  "I  trust  in  my  red  elm  alone :  haste  now,
 my  children,  by  the  straight  way !  "
 
-
-308  EPIC  SONGS   OF  RUSSIA.
 
 When  Vasily  espied  a  lofty  mountain,  he  ran
 quickly  in  to  the  steep  shores,  and  ascended  that
@@ -11754,8 +10642,6 @@ mountains,  embarked  again  upon  their  scarlet  ships,
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  309
-
 spread  their  sails  of  fine  linen,  and  ran  across  the
 Caspian  sea  to  that  barrier  to  shipping  where  the
 robber  Cossacks  with  their  aged  chieftains  held
@@ -11790,11 +10676,8 @@ one  table.
 When  they  poured  out  green  wine,  he  grasped
 the  cup  in  one  hand,  and  emptied  it  at  a  single
 draught :  —  and  the  measure  of  the  cup  was  a
-bucket  and  a  half.  Thereat  the  chieftains  mar-
-velled greatly,  for  they  could  not  diink  so  much  as
+bucket  and  a  half.  Thereat  the  chieftains  marvelled greatly,  for  they  could  not  diink  so  much  as
 
-
-310  EPIC  SONGS   OF  RUSSIA.
 
 half  a  bucket.  And  when  they  had  broken  bread
 Vaslly  betook  himself  once  more  to  his  scarle
@@ -11821,8 +10704,7 @@ with  prayers  for  the  bold  good  youths,  who  from
 their  young  years  up  had  slain  and  stolen  much.
 Vasily  prayed  before  the  holy  of  holies,  bathed  in
 Jordan,  reckoned  with  the  popes  and  deacons,  gave
-gold  without  stint  to  the  aged  people  who  de-
-pended on  the  church,  and  embarked  again  with
+gold  without  stint  to  the  aged  people  who  depended on  the  church,  and  embarked  again  with
 his  band  on  his  scarlet  ships.
 
 Then  the  guards  bathed  in  Jordan  river,  and4
@@ -11831,10 +10713,7 @@ aged  crone  came  to  them,  and  said :
 "  Wherefore  bathe  ye  naked  in  Jordan  ?     Nol
 
 
-EPIC  SONGS   OF  RUSSIA.  311
-
-must  bathe  naked  therein  save  only  Vaslly  BusMe-
-vich !  For  Jesus  Christ  the  Lord  himself  bathed
+must  bathe  naked  therein  save  only  Vaslly  BusMevich !  For  Jesus  Christ  the  Lord  himself  bathed
 in  Jordan  river.  And  ye  shall  lose  your  great
 chieftain,  Vasily  Buslaevich."
 
@@ -11865,23 +10744,18 @@ ascend.
 
 On  the  summit  lay  the  stone  with  its  inscription,
 which  Vasily  believed  not.  And  after  he  had
-made  meriy  and  diverted  himself  with  his  body-
-guai'd,  leaping  across  the  stone,  he  was  minded  to
+made  meriy  and  diverted  himself  with  his  bodyguai'd,  leaping  across  the  stone,  he  was  minded  to
 
-
-312  EPIC  SONGS   OF  RUSSIA.
 
 essay  a  leap  lengthwise.  He  leaped  but  a  quarte;
 way,  and  falling,  was  killed  upon  the  stone.  And
 where  the  empty  skull  had  lain,  there  they  buried
 Vaslly.
 
-Then  his  good  body-guard  sailed  home  to  N6v-
-gorod,  and  coming  to  his  mother,  the  honorable
+Then  his  good  body-guard  sailed  home  to  N6vgorod,  and  coming  to  his  mother,  the  honorable
 widow,  they  did  homage,  and  laid  a  letter  in  her
 hand.  When  she  had  read  it,  she  wept,  and  said :
-"  Ai,  ye  bold  and  goodly  youths !  There  is  noth-
-ing now  which  I  may  do  for  ye.  —  Yet  go  ye  into
+"  Ai,  ye  bold  and  goodly  youths !  There  is  nothing now  which  I  may  do  for  ye.  —  Yet  go  ye  into
 my  deep  vaults,  and  take  golden  treasure  without
 stint."
 
@@ -11896,9 +10770,6 @@ her.
 
 And  after  that,  the  good  youths  went  their  way,
 each  youth  wheresoever  he  listed.
-
-
-EPIC  SONGS   OF  RUSSIA.  313
 
 
 MERCHANT  SADKO  THE  RICH  GUEST  OF
@@ -11925,8 +10796,7 @@ Novgorod.
 
 The  dark  night  passed,  a  second  day  dawned,
 and  again  Sadk6  was  bidden  to  no  worshipful  feast.
-Again  he  played  all  day  beside  the  lake,  and  re-
-turned in  terror  at  nightfall.
+Again  he  played  all  day  beside  the  lake,  and  returned in  terror  at  nightfall.
 
 And  the  third  day,  being  still  unbidden  of  any
 
@@ -12004,11 +10874,8 @@ six  rich  merchants."
 
 Thereupon  they  wove  a  net  of  sUk,  and  went  to
 cast  it  in  Lake  Ilmen.  At  the  first  cast  in  Ilmen,
-they  took  a  little  fish  with  fins  of  gold,  and  like-
-wise ^vith  the  second  and  the  third  cast.
+they  took  a  little  fish  with  fins  of  gold,  and  likewise ^vith  the  second  and  the  third  cast.
 
-
-316  EPIC  SONGS   OF  RUSSIA.
 
 Then  the  rich  merchants  of  N6vgorod  saw  tha
 there  was  nothing  to  be  done,  for  it  had  happened
@@ -12046,13 +10913,9 @@ walked  about  his  palace,  cried  out :  "  Ho  there,  ye
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  317
-
-rich  merchants,  ye  lords,  rulers,  and  men  of  N6v-
-gorod !  ye  have  eaten  and  drunk  at  my  feast,  and
+rich  merchants,  ye  lords,  rulers,  and  men  of  N6vgorod !  ye  have  eaten  and  drunk  at  my  feast,  and
 made  your  boasts.  And  of  what  shall  I  vaunt
-myself?  My  treasures  of  gold  are  now  mexhaust-
-ible,  my  flowered  garments  I  cannot  wear  out,  and
+myself?  My  treasures  of  gold  are  now  mexhaustible,  my  flowered  garments  I  cannot  wear  out,  and
 my  brave  body-guard  is  incorruptible.  But  I  will
 boast  of  my  golden  treasure.  With  that  treasure
 will  I  buy  all  the  wares  in  N6vgorod,  both  good
@@ -12073,15 +10936,12 @@ waked  his  brave  body-guard,  and  gave  them  all
 they  would  of  his  treasure,  and  sent  them  to  the
 marts.  But  he  himself  went  straight  to  the
 bazaar,  and  bought  all  the  wares  of  N6vgorod,
-both  good  and  bad.  And  again,  the  next  morn-
-ing he  rose,  and  waked  his  troop,  and  giving  them
+both  good  and  bad.  And  again,  the  next  morning he  rose,  and  waked  his  troop,  and  giving  them
 great  treasure,  went  to  the  bazaar ;  and  finding
 wares  yet  more  than  before,  he  bought  all,  of
 whatever  sort.  And  on  the  third  day,  when  he
 came  to  the  market,  he  found,  to  the  great  glory
 
-
-318  EPIC  SONGS   OF  RUSSIA.
 
 of  N6vgorod,  that  vast  store  of  goods  had  hastene
 thither  from  Moscow,  so  that  the  shops  were  ful
@@ -12119,8 +10979,6 @@ But  on  the  blue  sea  the  red  ships  halted ;  the  waves
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  319
-
 dashed,  the  breeze  whistled,  the  sails  flapped,  the
 ships  strained,  —  but  could  not  move  from  that
 spot.
@@ -12136,8 +10994,7 @@ And  Sadk6  the  merchant  spake  to  his  men :
 "  Ho  there,  my  brave  body-guard  !  Long  have  we
 sailed  the  seas,  yea,  twelve  full  years,  yet  have
 we  paid  no  tribute  to  the  Tzar  Morsk6i,^  and  now
-he  commandeth  us  down  into  the  blue  sea.  There-
-fore, cast  ye  into  the  waves  a  cask  of  red  gold."
+he  commandeth  us  down  into  the  blue  sea.  Therefore, cast  ye  into  the  waves  a  cask  of  red  gold."
 And  they  did  so  ;  but  the  waves  beat,  the  sails
 tore,  the  ships  strained,  yet  moved  not.
 
@@ -12157,11 +11014,8 @@ lots  of  all  just  souls  shall  float.     But  that  man  of
 1  Sea-King.
 
 
-320  EPIC  SONGS   OF  RUSSIA.
-
 us  whose  lot  sinketh,  he  also  shall  go  from  among
-us  into  the  blue  sea."  So  it  was  done  as  he  com-
-manded :  —  but  Sadk6's  lot  was  a  cluster  of  hop
+us  into  the  blue  sea."  So  it  was  done  as  he  commanded :  —  but  Sadk6's  lot  was  a  cluster  of  hop
 flowers.  And  all  the  lots  swam  like  ducks  save
 Sadk6's,  and  that  went  to  the  bottom  like  a  stone.
 
@@ -12183,21 +11037,16 @@ means  float,  and  the  others  would  not  sink.  |
 Then  said  Sadkd  the  rich  guest :  "  'Tis  plain
 that  Sadk6  can  do  nothing.  The  Tzar  Morsk6i
 demandeth  Sadk6  himself  in  the  blue  sea.  Then
-ho !  my  brave,  beloved  guards !  fetch  me  my  mas-
-sive inkstand,  my  swan-quill  pen,  and  my  paper."
+ho !  my  brave,  beloved  guards !  fetch  me  my  massive inkstand,  my  swan-quill  pen,  and  my  paper."
 
-His  brave,  beloved  men  brought  him  his  ink-
-stand, pen,  and  paper;  and  Sadk6,  the  rich  mer-
+His  brave,  beloved  men  brought  him  his  inkstand, pen,  and  paper;  and  Sadk6,  the  rich  mer-
 chant of  N6vgorod,  sat  in  his  folding-chair,  at  his
-oaken  table,  and  began  to  write  away  his  posses-
-sions. Much  gave  he  to  God's  churches,  much  to
+oaken  table,  and  began  to  write  away  his  possessions. Much  gave  he  to  God's  churches,  much  to
 the  poor  brethren,  and  to  his  young  wife.     And
 
 
 II
 
-
-EPIC  SONGS   OF  RUSSIA.  321
 
 the  remainder  of  his  possessions  he  bestowed  upon
 his  brave  body-guard.
@@ -12213,8 +11062,7 @@ another  with  red  gold,  and  yet  a  third  with  seed
 pearls,  and  place  them  upon  the  plank."
 
 Then  took  he  in  his  right  hand  an  image  of
-St.  Mik6la,  and  in  his  left  his  little  harp  of  maple-
-wood,  with  its  fine  strings  of  gold,  and  put  on  him
+St.  Mik6la,  and  in  his  left  his  little  harp  of  maplewood,  with  its  fine  strings  of  gold,  and  put  on  him
 a  rich  cloak  of  sables ;  and  bitterly  he  wept  as  he
 bade  farewell  to  his  brave  company,  to  the  white
 world,  and  Novgorod  the  glorious.  He  descended
@@ -12225,8 +11073,7 @@ as  they  had  been  black  ravens.
 Then  was  Sadko  the  rich  merchant  of  Novgorod
 greatly  terrified,  as  he  floated  over  the  blue  sea  on
 his  plank  of  oak  ;  but  he  fell  asleep,  and  lo  !  when
-he  awoke  it  was  at  the  very  bottom  of  the  ocean-
-sea.  He  beheld  the  red  sun  burning  through  the
+he  awoke  it  was  at  the  very  bottom  of  the  oceansea.  He  beheld  the  red  sun  burning  through  the
 clear  waves,  and  saw  that  he  was  standing  beside  a
 palace  of  white  stone  where  sat  the  Tzar  Morsk6i ,
 with  head  Hke  a  heap  of  hay,  on  his  royal  throne.
@@ -12234,8 +11081,6 @@ with  head  Hke  a  heap  of  hay,  on  his  royal  throne.
 The  Tzar  Morsk6i  spake  these  words :  "  Thou
 art  welcome,  Sadko,  thou  rich  merchant  of  N6v-
 
-
-322  EPIC  SONGS   OF  RUSSIA.
 
 gorod !  Long  hast  thou  sailed  the  seas,  yet  offered
 no  tribute  to  the  Lord  of  the  sea.  And  now  thou
@@ -12290,8 +11135,7 @@ shore  he  danceth,  and  many  drown  and  perish,  all
 innocent  men."
 
 Then  Sadk6  brake  his  harp,  and  snapped  its
-golden  strings ;  and  when  the  Tzar  Morsk6i  com-
-manded him  to  play  yet  two  hours,  he  answered
+golden  strings ;  and  when  the  Tzar  Morsk6i  commanded him  to  play  yet  two  hours,  he  answered
 'him  boldly  that  the  harp  was  broken;  and  when
 the  Tzar  would  have  had  his  smiths  to  mend  it,
 Sadko  said  that  could  only  be  done  in  Holy  Russia.
@@ -12316,8 +11160,6 @@ thou  behold  the  white  world  and  the  fair  sun.  But
 if  thou  kiss  her,  never  more  shalt  thou  behold  the
 
 
-324  EPIC  SONGS   OF  RUSSIA.
-
 white  world,  but  shalt  abide  forever  in  the  blue
 sea."
 
@@ -12327,8 +11169,7 @@ chose  the  last  of  all,  the  maiden  called  Chernava.^
 
 Then  the  Tzar  Morsk6i  made  him  a  great  feast ;
 and  afterwards  Sadko  lay  down  and  fell  into  a
-heavy  sleep.  And  when  he  awoke,  he  found  him-
-self on  the  steep  banks  of  the  Cherndva  river.
+heavy  sleep.  And  when  he  awoke,  he  found  himself on  the  steep  banks  of  the  Cherndva  river.
 And  as  he  gazed,  behold,  his  dark-red  ships  came
 speeding  up  the  Volkof,  and  his  brave  body-guard
 were  thinking  of  Sadko  under  the  blue  sea.  When
@@ -12354,12 +11195,6 @@ town.
 APPENDIX.
 
 
-EPIC  SONGS   OF  RUSSIA.
-
-
-327
-
-
 THE  ALAT7R  STONE.
 
 This  stone,  so  often  referred  to  in  Russian  song  and
@@ -12372,8 +11207,7 @@ The  Slavs  inhabited  these  shores  at  the  date  of  their
 first  appearance  in  history,  and  it  is  in  those  portions  of
 Russia  which  border  on  this  sea  or  whose  inhabitants
 traded  on  it  in  early  times,  that  the  most  vivid  images
-and  epithets  applied  to  the  Aldtyr  stone  are  still  pre-
-served. In  ancient  times  also,  the  name  of  the  Baltic
+and  epithets  applied  to  the  Aldtyr  stone  are  still  preserved. In  ancient  times  also,  the  name  of  the  Baltic
 among  the  Slavs  was  the  "  Ldtyr  Sea."  As  amber  was
 esteemed  not  only  for  its  beauty,  but  as  a  medicine,  it
 was  worn  as  a  protection  to  the  throat,  chest,  and  the
@@ -12391,20 +11225,13 @@ According  to  the  popular  notion,  the  Ocean  is  the
 source  of  all  rivers ;  on  this  Ocean  lies  Alatyr  which  is
 
 
-328
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 healing ;  —  hence,  from  beneath  this  stone  proceed
 rivers,  and  all  healing.
 
 The  sea  in  which  it  lies  varies  with  the  locality  in
 which  the  song  is  sung  or  the  legend  narrated.  As  all
 interests  of  the  Archangel  government  centre  in  the
-White  Sea,  there  lies  the  Alatyr  stone.  For  the  dwell-
-ers in  the  South,  it  is  situated  in  the  Black  or  Caspian
+White  Sea,  there  lies  the  Alatyr  stone.  For  the  dwellers in  the  South,  it  is  situated  in  the  Black  or  Caspian
 Sea,  while  far  inland  it  becomes  synonymous  with  a
 boundary  stone,  and  as  such  figures  at  cross-roads  and
 so  forth.
@@ -12416,21 +11243,13 @@ crucified,  and  through  which  his  blood  trickled  upon
 the  head  of  Adam,  and  of  all  born  on  earth.  Pilgrims
 returning  from  Jerusalem  declared  it  to  be  the  source
 of  all  healing,  spiritual  gifts,  and  new  life.  It  is  also
-said  to  be  the  stone  from  which  Christ  preached,  de-
-spatched his  disciples,  and  distributed  books  to  all  the
+said  to  be  the  stone  from  which  Christ  preached,  despatched his  disciples,  and  distributed  books  to  all  the
 world.  >
-
-
-EPIC  SONGS  OF  RUSSIA.
-
-
-329
 
 
 VOLGA  VSESLAVICH.
 
-VoLK  or  Volgd  Vsesldvich,  corrupted  from  Svyato-
-sldvich,  is  the  Prince  (3leg  (^Olg^  Vblg,  Volgd)  who
+VoLK  or  Volgd  Vsesldvich,  corrupted  from  Svyatosldvich,  is  the  Prince  (3leg  (^Olg^  Vblg,  Volgd)  who
 succeeded  Rurik  early  in  the  tenth  century.  Though
 this  hylina  undoubtedly  preserves  a  dim  memory  of  the
 Vsesldvich  of  the  Chronicles  and  the  "  Word  of  Igor's
@@ -12463,8 +11282,6 @@ ive  their  parallel  in  many  other  mythologies.  Similar
 )f  Indra  the  Thunderer  and  Lightning-bringer.
 
 
-330  EPIC  SONGS   OF  RUSSIA.
-
 A  similar  disturbing  approach  of  the  Thunder-god
 must  be  taken  for  granted  in  all  epic  accounts  of
 marvellously  born  heroes.  The  omens  are  also  often
@@ -12472,21 +11289,18 @@ appropriated  for  the  use  of  historical  characters  in  the
 legends  which  crystallize  about  striking  individualities,
 as  in  the  case  of  Alexander  of  Macedon.
 
-The  dragon  father  in  these  myths  is  the  Thunder-
-god;  for  the  clouds,  in  which  primitive  man  saw
+The  dragon  father  in  these  myths  is  the  Thundergod;  for  the  clouds,  in  which  primitive  man  saw
 dragons,  —  the  robbers  of  the  living  water,  and  of  the
 gold  of  the  sun's  rays,  —  were  regarded  also  as  an
 external  covering,  a  garment  or  cloak,  in  which  the
-bright  gods  and  goddesses  wrapped  themselves.  En-
-veloping themselves  thus  in  their  cloudy  garment,
+bright  gods  and  goddesses  wrapped  themselves.  Enveloping themselves  thus  in  their  cloudy  garment,
 the  gods  clothed  themselves,  as  it  were,  in  a  dragon's
 skin,  and  assumed  the  monstrous  dragon  form.  The
 Thunder-god,  slumbering  within  the  frost -fettered
 clouds,  invisible  until  the  spring  in  the  radiance  of
 his  beauty,  the  lightning,  transformed  himself  into  a
 dragon.  All  Volga's  transformations  refer,  therefore,
-to  changes  in  the  shape  of  the  rain-bearing  thunder-
-cloud.
+to  changes  in  the  shape  of  the  rain-bearing  thundercloud.
 
 As  the  representative  of  sorcery,  Volga  holds  the
 place  in  Slavic  epics,  held  by  Maugis  or  Malagis  in
@@ -12498,15 +11312,8 @@ Thirty  is  the  favorite  epic  number  for  the  body-guard
 Roland's  guard  at  the  court  of  Charlemagne  numbers
 thirty,  while  the  traitor  Ganelon  is  defended  by  the
 same  number  of  relatives.  As  the  ancient  Slavs  had
-no  other  organization  than  that  of  the  patriarchal  com-
-mune, this  idea  would  seem  to  have  been  borrowe
+no  other  organization  than  that  of  the  patriarchal  commune, this  idea  would  seem  to  have  been  borrowe
 from  the  Scandinavians.     The  tests  for  admission
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
-331
 
 
 these  brotherhoods,  and  the  manner  of  their  formation
@@ -12516,19 +11323,12 @@ Churilo  and  Sadk6,  had  these  guards,  which  owed
 allegiance  to  no  one  but  their  leader.
 
 
-332
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 VOLGA  AND  MIKULA
 
 MiKiD^LA  represents  the  intermediate  stage  between
 the  embodiment  of  purely  physical  and  of  moral  power
 —  the  stage  between  Svyatogor  and  Ily^.  He  partakes
-of  Ilya's  nature,  as  the  Thunder-god,  and  his  nightin-
-gale mare  signifies,  probably,  the  thunder-cloud.  The
+of  Ilya's  nature,  as  the  Thunder-god,  and  his  nightingale mare  signifies,  probably,  the  thunder-cloud.  The
 assistance  rendered  to  agriculture  through  the  rain  by
 the  Thunder-deity  led  in  course  of  time  to  his  being
 regarded  as  the  god  of  agriculture  also,  who  opene^
@@ -12536,10 +11336,8 @@ the  plains  of  heaven  with  his  whirlwinds,  ploughe
 them  with  his  lightning  darts,  and  scattered  his  seed
 broadcast  over  them.
 
-The  dependence  of  man  on  the  seasons  early  sug-
-gested the  idea  that  the  gods  had  set  the  example  of
-ploughing.  Many  ceremonies  and  traditions  are  pre-
-served in  various  countries,  which  point  to  such  a
+The  dependence  of  man  on  the  seasons  early  suggested the  idea  that  the  gods  had  set  the  example  of
+ploughing.  Many  ceremonies  and  traditions  are  preserved in  various  countries,  which  point  to  such  a
 mythical  significance  of  the  plough.  The  Siamese,  for
 instance,  celebrate  a  festival  in  its  honor,  of  Buddhistic
 origin.
@@ -12560,10 +11358,7 @@ I
 i
 
 
-EPIC  SONGS   OF  RUSSIA.  333
-
-heaven  comes  down  to  iis  from  the  most  remote  an-
-tiquity.—  The  Russian  peasant  still  sees  the  plough
+heaven  comes  down  to  iis  from  the  most  remote  antiquity.—  The  Russian  peasant  still  sees  the  plough
 which  Mikula  hurled  heavenward,  in  the  constellation
 of  Orion.
 
@@ -12591,15 +11386,11 @@ perished  Cleg  Svyatoslavich  —  the  Volga  Vseslavich  of
 the  epic  song.
 
 
-334  EPIC  SONGS  OF  RUSSIA.
-
-
 ,  SVYATOGOR.
 
 SvTATOGOR  was  the  last  of  the  Elder  Heroes,  that  is
 to  say,  of  the  prehistoric,  purely  mythical  giants  of  the
-cycle  preceding  the  Vladimirian.  The  only  songs  be-
-longing to  this  cycle  which  have  come  down  to  us  are
+cycle  preceding  the  Vladimirian.  The  only  songs  belonging to  this  cycle  which  have  come  down  to  us  are
 those  relating  to  Volgd,  Mikula,  Svyatogdr,  and  the
 "  One  and  Forty  Pilgrims,"  who  are  thought  to  be
 nameless  heroes  belonging  to  that  epoch.  One  or  two
@@ -12613,8 +11404,7 @@ clouds.  Hilferding  found  one  very  good  rhapsodist
 who  persisted  in  using  the  name  Svyatopdlk^  on  the
 usual  ground,  that  "it  was  sung  so."  This  suggested
 to  Hilferding  that  Svyatog6r  might  be  identical  with
-the  giant  of  that  name  from  Great  Moravia  —  a  legend-
-ary hero,  and  the  representative  of  Slavic  might.  The
+the  giant  of  that  name  from  Great  Moravia  —  a  legendary hero,  and  the  representative  of  Slavic  might.  The
 Chronicle  of  Kosma  of  Prague  states  that  Svyatop61k
 concealed  himself  in  the  mountains,  and  there  died  a
 mysterious  death.  Svyatop6lk  also,  like  Svyatogdr,  was]
@@ -12623,8 +11413,6 @@ Russia.
 
 The  adventure  with  the  pouches  is  often  credited  to
 
-
-EPIC  SONGS   OF  RUSSIA.  335
 
 "  Hero  Samson,"  Mikula  being  replaced  by  two  angels
 sent  by  the  Lord  to  rebuke  the  hero's  arrogance.
@@ -12636,18 +11424,15 @@ early  times.
 
 The  "Elder  Heroes"  make  way  for  the  Younger,
 typified  in  Ilya,  as  the  Titans  made  way  for  the  Gods
-in  Greek,  or  the  Jotuns  for  the  Asa  in  Norse  mythol-
-ogy. The  Younger  Heroes  superseded  the  Elder  when
+in  Greek,  or  the  Jotuns  for  the  Asa  in  Norse  mythology. The  Younger  Heroes  superseded  the  Elder  when
 men  became  convinced  that  in  the  battle  constantly
 waged  between  light  and  darkness,  summer  and  winter,
-light  and  summer  always  conquered  at  last.  The  dis-
-tinction between  4;he  Elder  and  Younger  Heroes  has
+light  and  summer  always  conquered  at  last.  The  distinction between  4;he  Elder  and  Younger  Heroes  has
 ceased  to  exist  among  the  people,  who  regard  them
 merely  as  representatives  of  different  kinds  of  heroic,
 not  divine,  forces.
 
-Svyatogdr,  the  giant  cloud-mountain,  dies,  i.e.,  be-
-comes fettered  with  cold,  and  falls  into  his  winter
+Svyatogdr,  the  giant  cloud-mountain,  dies,  i.e.,  becomes fettered  with  cold,  and  falls  into  his  winter
 sleep.  Popular  fancy  has  likened  the  action  of  the  frost
 to  bands  of  iron,  upon  the  frozen,  stone-like  earth.
 Svyatogor's  huge  sword,  the  lightning,  which  in  spring
@@ -12665,12 +11450,6 @@ suggests  an  incident  in  one  of  the  tales  contained  in
 the  Arabian  Nights'  Entertainment.
 
 
-336
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 ILYA    OP    MUROM.
 
 No  one  of  the  heroes  has  left  so  many  proofs  of  his
@@ -12683,8 +11462,7 @@ local  testimony,  the  people  who  inhabit  the  primeval
 forests  of  Murom  are  celebrated  for  their  great  stature
 and  strength.  To  this  day,  the  peasants  of  the  village
 of  Karacharof,  Ilyd's  birthplace,  point  out  a  chapel
-built  upon  the  spot  where  a  fountain  burst  forth  be-
-neath the  hoofs  of  Ilyd's  good  steed  Cloudfall,  as  did
+built  upon  the  spot  where  a  fountain  burst  forth  beneath the  hoofs  of  Ilyd's  good  steed  Cloudfall,  as  did
 the  springs  at  a  blow  from  the  hoof  of  Pegasus.  The
 chapel  is  dedicated  to  Ilya  the  Prophet ;  and  "  to  the
 fountain  fierce  bears  still  come  to  quaff  the  waters  and
@@ -12693,26 +11471,20 @@ gain  heroic  strength,"  so  the  legend  runs.
 He  is  bound  up  with  the  religious  legends  of  Kfef.
 Erich  Lassota  of  Steblau,  who  made  a  trip  to  Kief  in
 1594,  states  in  his  diary,  that  he  saw  in  a  chapel  of
-St.  Sophia,  the  tomb,  now  destroyed,  of  "  Elia  Morow-
-lin,  a  distinguished  hero  and  bohat^r,"  and  of  another
+St.  Sophia,  the  tomb,  now  destroyed,  of  "  Elia  Morowlin,  a  distinguished  hero  and  bohat^r,"  and  of  another
 hero ;  and  Kalnoforsky,  a  Pole,  in  a  book  published  in
 1638,  says  that  Ilyd  lived  about  1188.  His  portrait
 was  published  in  the  xvii.  century  among  the  saints
 of  Kief,  with  an  inscription  to  the  effect  that  his  body
 
 
-EPIC  SONGS  OF  RUSSIA.  337
-
-was  still  uncorrnpted  —  which  corresponds  to  the  state-
-ment in  the  epic  poems,  that  he  was  turned  to  stone.
+was  still  uncorrnpted  —  which  corresponds  to  the  statement in  the  epic  poems,  that  he  was  turned  to  stone.
 
 In  this  portrait  he  appears  as  a  gaunt  ascetic,  with
 masses  of  hair  and  beard,  barely  covered  with  his
-mantle,  and  with  hands  outstretched.  One  of  the  rhap-
-sodists  who  sang  the  lay  of  the  heroes'  end  to  Hilferd-
+mantle,  and  with  hands  outstretched.  One  of  the  rhapsodists  who  sang  the  lay  of  the  heroes'  end  to  Hilferd-
 ing  in  1870,  said  that  he  knew  Ily4  was  turned  to  stone
-in  Kief,  because  some  people  had  once  made  a  pilgrim-
-age thither  to  see  how  his  fingers  were  placed  for  the
+in  Kief,  because  some  people  had  once  made  a  pilgrimage thither  to  see  how  his  fingers  were  placed  for  the
 sign  of  the  cross  —  great  importance  being  attached  to
 this  point.  They  saw  Ilya,  but  his  hand  was  broken,
 and  the  question  remained  unsettled.
@@ -12728,13 +11500,11 @@ Dietrich  of  Berne  have,  however,  nothing  to  do  with
 those  attributed  to  l\yk  in  the  epic  songs.
 
 Notwithstanding  all  this  tolerably  strong  evidence  of
-liis  actual  existence,  Ilya  is  a  purely  mythical  person-
-age, an  incarnation  of  the  Thunder-god,  the  successor
+liis  actual  existence,  Ilya  is  a  purely  mythical  personage, an  incarnation  of  the  Thunder-god,  the  successor
 of  heathen  Periin.  In  the  Christian  mythology  of  the
 peasants,  he  appears  as  "Ilyd  (Elijah)  the  Prophet,"
 probably  on  account  of  the  fiery  chariot  in  which
-Elijah  was  translated  to  heaven.  The  mythical  allu-
-sions are  confined  to  a  very  restricted  circle  of  natural
+Elijah  was  translated  to  heaven.  The  mythical  allusions are  confined  to  a  very  restricted  circle  of  natural
 phenomena  —  the  clear  heaven,  the  lightning,  the  rain,
 the  thunder-clouds,  and  the  powers  of  darkness  in
 general.  Like  Thor  and  Indra,  he  wages  incessant
@@ -12776,8 +11546,7 @@ obscures  the  sunlight,  i.e.,  bars  the  road  to  Fair  Sun
 Vladimir,  —  troubles  the  sea  with  its  whistle  and  roar,
 and  uproots  century-old  oaks,  like  the  giant  Hraesvelgr
 in  the  Elder  Edda,  who  sits  on  the  border  of  heaven  in
-eagle's  plumage,  and  by  the  flapping  of  his  wings  pro-
-duces the  tempest.
+eagle's  plumage,  and  by  the  flapping  of  his  wings  produces the  tempest.
 
 The  supernatural  birds  with  iron  feathers  which
 Hercules  drove  from  the  Stymphaliaii  swamp,  one  of  j
@@ -12794,18 +11563,15 @@ fot  stormy  winds,  aquilo  and  vulturnus.  The  Smorodina
 is  a  mythical  river  —  the  rain  ;  and  the  bridge  built  by
 Ilyd,  is  the  rainbow.
 
-In  his  contest  with  Falcon  the  Hunter,  Ilya  repre-
-sents the  heavens,  Falcon  being  the  lightning  which
+In  his  contest  with  Falcon  the  Hunter,  Ilya  represents the  heavens,  Falcon  being  the  lightning  which
 turns  its  sharp  blade  against  its  mother  from  the
 realms  of  darkness,  the  clouds.  To  this  lightning  Ily4
 opposes  his  own,  and  having  conquered  shines  forth
-again  clear  and  radiant.  Falcon's  mace  cast  heaven-
-ward, and  returning  always  to  his  hand,  is  the  lightning
+again  clear  and  radiant.  Falcon's  mace  cast  heavenward, and  returning  always  to  his  hand,  is  the  lightning
 flash.
 
 The  Russian  examples  of  the  very  common  legend
-concerning  the  conflict  of  father  and  son  are  remark-
-able for  their  number  and  variety ;  some  versions  sub-
+concerning  the  conflict  of  father  and  son  are  remarkable for  their  number  and  variety ;  some  versions  sub-
 stitute Ilya's  daughter,^  a  "  bold  polydnitza^^''  for  Falcon ;
 most  of  then^have  preserved  their  tragic  ending.
 
@@ -12813,8 +11579,7 @@ Idol,  like  the  robbers  and  the  Tatars  who  effaced,  in
 course  of  time,  the  memory  of  the  tribes  who  really
 warred  against  Vladimir,  must  be  accepted  as  another
 embodiment  of  the  dark  and  hostile  principle.  The
-gluttony  ascribed  to  him  constitutes  a  sort  of  distinc-
-tion in  a  great  number  of  legends.  In  ancient  Hindoo
+gluttony  ascribed  to  him  constitutes  a  sort  of  distinction in  a  great  number  of  legends.  In  ancient  Hindoo
 myths,  it  appears  to  be  the  special  attribute  of  the  evil
 powers.  Thor  in  the  Edda  and  Indra  in  the  Rig-Veda
 are  credited  with  a  great  capacity  for  drinking,  and  Ilya
@@ -12824,14 +11589,11 @@ is  represented  as  intoxicated.     Owing  to  his  connection
 ability  to  conquer  her.
 
 
-340  EPIC  SONGS   OF  RUSSIA.
-
 with  the  rain,  drunkenness  is  the  special  attribute  of
 the  Thunder-god.
 
 Ilya  8  conduct  in  his  quarrels  with  Vladimir  is  much
-more  moderate  than  that  of  many  epic  heroes  in  dis-
-putes with  their  sovereigns.  —  The  paladins  of  Char-
+more  moderate  than  that  of  many  epic  heroes  in  disputes with  their  sovereigns.  —  The  paladins  of  Char-
 lemagne's court  pulled  the  Emperor's  beard,  beat  him,
 and  called  him  a  fool,  with  the  same  readiness  which
 they  displayed  in  humiliating  themselves  before  him
@@ -12839,8 +11601,7 @@ and  kissing  his  footsteps  when  circumstances  rendered
 it  advisable.
 
 ]\Iany  epic  personages  disappear  from  the  scene  in
-a  mysterious  manner  which  renders  their  death  uncer-
-tain, their  return  probable  at  any  moment.  Then
+a  mysterious  manner  which  renders  their  death  uncertain, their  return  probable  at  any  moment.  Then
 arises  the  legend  of  their  return  on  the  fulfilment  of
 certain  conditions,  as  in  the  case  of  Frederic  Barbarossa.
 As  the  Russian  heroes  were  known  to  have  been  killed
@@ -12855,9 +11616,6 @@ other  heroes  as  sailing  in  the  "  Falcon  ship,"  to  some
 unknown  region,  whence  they  do  not  return.
 
 
-EPIC  SONGS  OF  RUSSIA.  341
-
-
 THE   PAIR    SUN   PRINCE    VLADIMIR.
 
 Two  noted  historical  personages  are  combined  in
@@ -12868,10 +11626,8 @@ Monomachus,  who  was  born  in  1053,  and  died  in  1125.
 Both  are  celebrated  in  the  Chronicles  for  their  feasts,
 and  the  latter's  courtesy  is  frequently  referred  to.  His
 name  Vladimir,  Vladyki-Miri^  Ruler  of  the  World,
-chances  to  express  his  most  ancient  mythical  signifi-
-cation. His  peculiar  title,  '■^Fair  Sun^'^  renders  it  even
-more  apparent.  It  has  taken  the  place  in  Russian  tradi-
-tion of  the  most  ancient  name  of  the  divinity  of  the
+chances  to  express  his  most  ancient  mythical  signification. His  peculiar  title,  '■^Fair  Sun^'^  renders  it  even
+more  apparent.  It  has  taken  the  place  in  Russian  tradition of  the  most  ancient  name  of  the  divinity  of  the
 heavens  and  the  Sun.  If  not  identical  with  the  Vol6si
 of  the  Chronicles,  it  stands  at  least  in  close  philological
 relationship  with  him,  and  with  the  Semitic  Baal  or  Bel.
@@ -12890,12 +11646,6 @@ of  the  ceremonial  songs  connected  with  this  patron  saint  of  flocks  an
 herds,  see  Songs  of  the  Russian  People  (p.  251),  by  W.  K.  S.  Kalston.
 
 
-342
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 mir  is,  on  occasion,  both  oppressive  and  discourteous,
 as  these  songs  show.  In  one  omitted  here,  Prince
 Vladimir  despatches  young  Sukmdn  Odikmd,ntievich
@@ -12904,8 +11654,7 @@ destroys  an  innumerable  host  of  Tatars.  When  he
 reports  to  Vladimir  on  his  return,  the  Prince  does  not
 believe  him,  orders  him  to  be  thrown  into  a  dungeon,
 and  sends  heroes  to  examine  into  the  truth  of  the  story.
-Convinced  at  last,  he  releases  Sukmdn,  who  kills  him-
-self for  grief  at  his  prince's  treatment.
+Convinced  at  last,  he  releases  Sukmdn,  who  kills  himself for  grief  at  his  prince's  treatment.
 
 Many  marriages  of  heroes  are  mentioned  in  these
 epic  songs  besides  Vladimir's,  and  in  the  epics  of  other
@@ -12920,17 +11669,12 @@ the  realm  of  darkness.
 QUIET   DUNAI    IVANOVICH.
 
 DuNAi  is  the  name  borne  by  one  of  Prince  Vladimir
-Vasilkovich's  voiv6des,  and  is  mentioned  in  the  Chroni-
-cles of  the  years  1281  and  1287.  Like  Mikdilo  he  was
+Vasilkovich's  voiv6des,  and  is  mentioned  in  the  Chronicles of  the  years  1281  and  1287.  Like  Mikdilo  he  was
 a  rover,  and  probably  not  a  Russian.
 
 Geographical  accuracy  is  not  to  be  looked  for  in  these
 epic  lays.  Dunai  and  Nastdsya,  as  rivers,  bear  various
-names,  and  their  courses  are  as  fantastic  as  in  the  ver-
-sion selected.
-
-
-EPIC  SONGS   OF  RUSSIA.  343
+names,  and  their  courses  are  as  fantastic  as  in  the  version selected.
 
 
 STAVR    GODINOVICH.
@@ -12949,17 +11693,12 @@ wrath  at  some  of  their  exploits.
 Ryabinin,  one  of  the  best  of  epic  singers,  explained
 Vasilisa's  easy  victory  over  Vladimir's  heroes,  by  saying
 that  Ilya  of  Murom  had  not  arrived  in  Kief  at  that
-time.  Consequently,  as  a  daughter  of  Miktila,  a  repre-
-sentative of  the  Earth  and  the  Elder  Heroes,  she  was
+time.  Consequently,  as  a  daughter  of  Miktila,  a  representative of  the  Earth  and  the  Elder  Heroes,  she  was
 superior  to  all  the  Younger  Heroes.
 
-Such  wrestling  and  shooting  matches  were  not  un-
-common at  feasts,  as  the  Ipatidf  Chronicle  of  1150
+Such  wrestling  and  shooting  matches  were  not  uncommon at  feasts,  as  the  Ipatidf  Chronicle  of  1150
 informs  us,  and  even  horse-racing,  as  in  the  song  of
 "  Ivan  the  Merchant's  Son."
-
-
-344  EPIC  SONGS   OF  RUSSIA.
 
 
 BOLD    ALYOSHA    POp6vICH.
@@ -12990,13 +11729,10 @@ him  as  a  scorner  of  women  in  "  Dobrynya  and  Aly6sha."
 He  bears  some  resemblance  to  the  Loki  of  Northern
 mythology,  the  mischief-maker.
 
-An  incantation,  "The  Patrol  of  the  Flocks,"  men-
-tions among  evil  spirits,  wild  beasts,  and  other  noxious
+An  incantation,  "The  Patrol  of  the  Flocks,"  mentions among  evil  spirits,  wild  beasts,  and  other  noxious
 
 2  See  W.  R.  S.  Ralston  :  Russian  Folk  Lore,  p.  351.
 
-
-EPIC  SONGS   OF  RUSSIA.  345
 
 influences   to   be   guarded   against,   "  popes   and   their
 popesses,  monks,  nuiis,"  and  so  forth.
@@ -13006,9 +11742,6 @@ the  storm,  the  fire-flashing  cloud,  one  of  the  dragons
 combated  by  Dobryuya  as  well  as  by  Alyosha.
 
 
-346  EPIC  SONGS   OF  RUSSIA.
-
-
 DOBRYNYA    THE    DRAGON-SLAYER.
 
 Two  historical  Dobrynyas  are  united  in  the  person
@@ -13016,15 +11749,13 @@ of  this  hero.  The  first,  mentioned  in  the  Chronicles
 towards  the  end  of  the  tenth  century,  was  uncle  to  Prince
 (Saint)  Vladimir,  and  brother  to  Malusha  the  Princess
 Olga's  housekeeper  (kU{ichnitza)^  Vladimir's  mother.
-In  the  hylinas  he  becomes  Vladimir's  nephew  and  stew-
-ard (kliuchnik^.
+In  the  hylinas  he  becomes  Vladimir's  nephew  and  steward (kliuchnik^.
 
 The  second,  Dobrynya  of  Ryazan,  surnamed  "  Golden
 Belt,"  was  a  hero  who  perished  in  the  battle  of  Kalkd  ,
 in  1224.
 
-Marina  is  to  a  certain  degree  an  historical  reminis-
-cence of  the  heretic,  Polish  wife  of  the  False  Dmftry,
+Marina  is  to  a  certain  degree  an  historical  reminiscence of  the  heretic,  Polish  wife  of  the  False  Dmftry,
 Marina  Mnishek.  It  is  evident  that  her  name  must  have
 superseded  the  original  one  in  the  seventeenth  century.
 That  name  was  in  earlier  times  probably  "  Marya  the
@@ -13046,14 +11777,12 @@ EPIC  SONGS   OF  EUSSIA.  347
 principle  which  is  united  to  a  bright  and  beneficent
 male  principle-
 It  often  happens  in  mythology,  that  one  deity  is
-divided  into  two  or  more  distinct  persons,  in  accord-
-ance with  his  various  attributes.  This  is  the  ease  here.
+divided  into  two  or  more  distinct  persons,  in  accordance with  his  various  attributes.  This  is  the  ease  here.
 While  Vladimir  is  the  passive,  inactive  principle  of  the
 Sun,  and  pursues  his  way  tranquilly  through  the  sky,
 the  active,  warlike  principle  is  embodied  in  Dobrynya.
 
-Dobrynya  wages  incessant  war  with  darkness,  tri-
-umphing over  it  every  morning,  and  with  winter,  whose
+Dobrynya  wages  incessant  war  with  darkness,  triumphing over  it  every  morning,  and  with  winter,  whose
 fetters  he  strikes  asunder  every  spring  with  the  sword
 of  his  rays.  Like  Krishna,  Apollo,  Hercules,  Frey,
 Siegfrid,  and  Yeg6ry  the  Brave,  the  St.  George  of  the
@@ -13073,19 +11802,11 @@ inveigh.
 
 Dobrynya's  long  absence  from  Nastdsya,  the  Russian
 Penelope,  has  the  same  mythical  signification  as  Mikdilo
-Rover's  imprisonment  in  the  stone,  or  Ilyd's  long  con-
-finement to  the  oven  —  the  night  and  winter  repose
-of  the  deities  of  light  and  warmth.  Dobrynya's  trans-
-formation into  an  aurochs  likewise  represents  the  ob-
+Rover's  imprisonment  in  the  stone,  or  Ilyd's  long  confinement to  the  oven  —  the  night  and  winter  repose
+of  the  deities  of  light  and  warmth.  Dobrynya's  transformation into  an  aurochs  likewise  represents  the  ob-
 scuration of  the  beneficent  summer  deities  in  winter,
 and  his  golden  horns  are  an  intimation  of  his  bright
 origin.
-
-
-348
-
-
-EPIC  SONGS   OF  RUSSIA.
 
 
 These  Russian  poems  treating  of  the  return  of  the
@@ -13099,9 +11820,6 @@ which  go  back  to  the  thirteenth  century.
 \
 
 
-EPIC  SONGS   OF  RUSSIA.  349
-
-
 IVAN    GODINOVICH.
 
 Pulling  off  the  bridegroom's  boots,  in  token  of
@@ -13111,44 +11829,31 @@ in  the  oldest  versions  of  this  song,  Avdotya's  refusal  to
 pull  off  Ivan's  boot  was  the  direct  cause  of  her  death.
 
 Ivdn's  experience  with  Avdotya  the  White  Swan  is
-supposed  to  reflect  that  of  Prince  Vladimir  with  Rog-
-nydd,  daughter  of  Rogv61od,  Prince  of  the  Polotzki.
+supposed  to  reflect  that  of  Prince  Vladimir  with  Rognydd,  daughter  of  Rogv61od,  Prince  of  the  Polotzki.
 "I  will  not  marry  the  son  of  a  slave,"  she  said,  in
-answer  to  Vladimir's  proposal  of  marriage,  and  pre-
-pared to  wed  his  half-brother  Yaropolk,  Kosch^i  rep-
+answer  to  Vladimir's  proposal  of  marriage,  and  prepared to  wed  his  half-brother  Yaropolk,  Kosch^i  rep-
 resents Yaropolk.  This  was  in  allusion  to  Vladimir's
 mother,  who  had  been  a  servant  of  his  grandmother,
 (3lga.  Vladimir  slew  Rogv6lod  and  Yaropolk,  and
 forced  Rognydd  to  wed  him.
 
 After  several  years,  so  runs  the  legend,  Rognyed
-attempted  to  kill  Vladimir  in  his  sleep,  by  way  of  aven-
-ging her  father's  death  and  her  own  wrongs.  Vladimir
+attempted  to  kill  Vladimir  in  his  sleep,  by  way  of  avenging her  father's  death  and  her  own  wrongs.  Vladimir
 woke,  and  seized  her  hand  as  she  held  the  dagger  over
-him.  Then  he  ordered  her  to  dress  herself  in  her  wed-
-ding garments,  and  wait  for  him,  intending  to  kill  her
+him.  Then  he  ordered  her  to  dress  herself  in  her  wedding garments,  and  wait  for  him,  intending  to  kill  her
 with  his  own  hand.  But  she  put  a  sword  into  the
 hands  of  her  little  son,  and  bade  him  greet  his  father
 with  the  words :  "  Father,  thou  thinkest  that  thou  art
-alone  here  !  "  Touched  by  the  sight  of  his  son,  Vladi-
-mir summoned  his  boyars,  and  begged  them  to  judge
-
-
-350
-
-
-EPIC  SONGS   OF  RUSSIA.
+alone  here  !  "  Touched  by  the  sight  of  his  son,  Vladimir summoned  his  boyars,  and  begged  them  to  judge
 
 
 the  matter.  On  their  advice,  he  sent  Rognydd  and  her
-son  back  to  her  native  land.  Her  descendants  thence-
-forth reigned  over  the  Polotzki,  and  warred  against  the
+son  back  to  her  native  land.  Her  descendants  thenceforth reigned  over  the  Polotzki,  and  warred  against  the
 descendants  of  Vladimir  by  other  wives.
 
 Ivfin's  wooing,  as  well  as  Dunai's  wooing  for  Prince
 Vladimir,  furnishes  a  picture  of  that  rough,  forceful
-manner  of  courtship  which  prevailed  in  the  old  patri-
-archal days.  The  memory  of  it  is  preserved  in  a  great
+manner  of  courtship  which  prevailed  in  the  old  patriarchal days.  The  memory  of  it  is  preserved  in  a  great
 many  wedding  songs,  which  represent  the  bride  as
 purchased  or  stolen  away  by  an  entire  stranger.  There
 is  a  striking  likeness  between  the  birds  which  surround
@@ -13162,21 +11867,16 @@ CHURILO    PLENKOVICH.
 Chueilo's  name  does  not  appear  in  any  of  the  old
 chronicles.
 
-The  epithet  applied  to  old  Plenkd,  surozhdnin.,  indi-
-cates his  business  of  silk-merchant  or  trader  on  the
+The  epithet  applied  to  old  Plenkd,  surozhdnin.,  indicates his  business  of  silk-merchant  or  trader  on  the
 Surdg  Sea  —  the  Sea  of  Az6f.  Another  explanation
 professes  to  include  Churflo's  mythical  significance,  by
 deriving  the  term  from  the  same  Sanskrit  root  as
 Svardg,  the  Slavic  Saturn.
 
-The  numerous  attendants  credited  to  Prince  Vladf-
-mir  belong  to  the  Moscow  epoch,  and  present  a  strange
+The  numerous  attendants  credited  to  Prince  Vladfmir  belong  to  the  Moscow  epoch,  and  present  a  strange
 contrast  to  the  plainness  and  simplicity  of  the  court  of
 Kief.  Churilo  met  his  death  at  the  hands  of  an
 enraged  husband,  the  Bermyag  mentioned  in  the  song.
-
-
-EPIC  SONGS  OF  RUSSIA.  351
 
 
 DITTK    STEPANOVICH.
@@ -13195,8 +11895,7 @@ and  reflected  that  a  good  body-guard  might  acquire
 silver  and  gold,  but  could  never  be  purchased  by
 either."
 
-Nevertheless,  Burhard,  the  ambassador  of  the  Em-
-peror Henry  IV.  at  the  court  of  Svyatosldf  in  1075,
+Nevertheless,  Burhard,  the  ambassador  of  the  Emperor Henry  IV.  at  the  court  of  Svyatosldf  in  1075,
 was  amazed  at  the  quantity  and  magnificence  of  the
 treasures  he  saw  there.
 
@@ -13210,8 +11909,6 @@ to  my  Indian  realm  with  thy  learned  men,  and  I  will
 permit  thee  to  write  down  the  marvels  of  the  Indian
 laud ;  and  thou  shalt  not  be  able  to  make  a  writing
 
-
-352  EPIC  SONGS   OF  RUSSIA.
 
 of  the  wonders  of  my  kingdom  before  the  departure  of
 thy  spirit."
@@ -13228,18 +11925,13 @@ Chronicles,  which  has  been  idealized  and  transferred  to
 the  favorite  epoch  of  Vladimir,  and  the  siege  of  Kief
 by  Bdtyg  in  1240.
 
-In  1381,  Tokt4mysh  besieged  Moscow.  "  Taken  un-
-awares," says  the  Chronicle,  "  and  deprived  of  all  powet
+In  1381,  Tokt4mysh  besieged  Moscow.  "  Taken  unawares," says  the  Chronicle,  "  and  deprived  of  all  powet
 of  defending  themselves,  nearly  all  the  inhabitants
-gave  themselves  over  to  drunkenness.  A  few,  how-
-ever, fought  the  enemy  from  the  city  wall,  among  them
+gave  themselves  over  to  drunkenness.  A  few,  however, fought  the  enemy  from  the  city  wall,  among  them
 a  certain  cloth-dealer,  Adam  by  name,  who  shot  an
 arrow  from  the  Frol6f  gate,  and  slew  one  of  the  horde,
 a  son,  and  a  person  of  distinction,  causing  thereby
 great  grief  to  Tzar  Toktamysh,  and  to  all  his  princes,"
-
-
-EPIC  SONGS   OF  RUSSIA.  353
 
 
 S'WTJET   MIKAILO    IVANOVICH   THE    ROVER.
@@ -13265,8 +11957,7 @@ only  denotes  a  single  cloud,  but  the  cloudiness  common
 in  summer,  which  is  capable  of  entering  into  beneficent
 union  with  the  thunder  and  lightning,  but  in  winter
 remains  sterile  in  the  heaven,  and,  dying  with  idleness,
-conceals  within  itself,  as  though  entombed,  the  Thun-
-der-power, its  husband.  For  it  appears  that  Mikailo's
+conceals  within  itself,  as  though  entombed,  the  Thunder-power, its  husband.  For  it  appears  that  Mikailo's
 mythical  foundation  is  the  same  as  that  of  Ilya  of
 Murom,  and  of  Dunai  also,  to  a  certain  extent.
 
@@ -13275,16 +11966,9 @@ heavenly  smith,  the  forger  of  the  lightning,  which  is
 represented  by  those  weapons.      A  corresponding  in-
 
 
-354
-
-
-EPIC  SONGS   OF  RUSSIA.
-
-
 stance  of  double  burial  in  case  of  death,  as  a  condition
 of  marriage,  and  of  the  visit  of  a  serpent  to  the  grave,
-is  found  in  a  German  tale  (Grimm,  Kinder-  und  Haua-
-marchen).  Mikailo  sometimes  appears  as  the  leader
+is  found  in  a  German  tale  (Grimm,  Kinder-  und  Hauamarchen).  Mikailo  sometimes  appears  as  the  leader
 of  the  "  One  and  Forty  Pilgrims  "  instead  of  Kasyan.
 
 
@@ -13303,8 +11987,7 @@ he  was  a  merchant  from  Venice,  or  one  of  the  Italian
 architects  who  came  to  Russia  in  the  twelfth  century.
 
 One  variant  represents  Nightingale's  mother  as
-opposed  to  the  marriage  until  her  son  has  proved  him-
-self in  a  long  voyage.  During  his  absence,  young
+opposed  to  the  marriage  until  her  son  has  proved  himself in  a  long  voyage.  During  his  absence,  young
 David  Pop6f  arrives,  and,  stating  that  he  had  seen
 Nightingale  imprisoned  for  smuggling  in  Ledendtz,  seeks
 Love's  hand  in  marriage.  Nightingale  returns  in  time
@@ -13314,8 +11997,7 @@ Aly6sha  and  Nastdsya.
 
 Nightingale  Budimirovich's  mythical  signification  is
 probably  the  reverse  of  that  of  Nightingale  the  Robber.
-They  represent  the  opposite  sides  of  the  same  atmos-
-pheric phenomenon ;  the  Robber  being  the  rude  and
+They  represent  the  opposite  sides  of  the  same  atmospheric phenomenon ;  the  Robber  being  the  rude  and
 boisterous  gales,  while  fair  Love's  wooer  is  the  breeze,
 gentle  and  seductive  as  a  minstrel.
 
@@ -13324,14 +12006,11 @@ ships  of  the  ancient  Scandinavians.  An  Eastern  tale
 describes  the  ceiling  of  a  rich  man's  house  as  "  covered
 
 
-356  EPIC  SONGS   OF  RUSSIA.
-
 with  figures  of  all  sorts  of  wild  beasts,  seam-onsters,
 and  fishes.  When  the  wind  blew,  they  moved  about,
 and  were  reflected  in  the  floor."  This  exaggerated
 description  of  bas-reliefs  explains  the  decoration  of
-Nightingale's  bower  with  sables,  and  so  forth.  Nightin-
-gale is  not  an  historical  character.  His  palace  suggests
+Nightingale's  bower  with  sables,  and  so  forth.  Nightingale is  not  an  historical  character.  His  palace  suggests
 that  of  Aladdin.
 
 
@@ -13352,23 +12031,18 @@ In  one  version,  Tzar  Vasfly  lives  in  N6vgorod,  and
 Solomon  in  Tzargrdd  (Constantinople).
 
 
-1
-
-
 EPIC  SONGS  OF  EUSSIA.  357
 
 
 VASILY    BUSLAEVICH.
 
 This  doughty  hero,  a  representative  of  the  nobility
-and,  as  some  think,  of  the  ushkainiki,  the  noted  river-
-pirates,  was  a  contemporary  of  Sadk6.  Only  one
+and,  as  some  think,  of  the  ushkainiki,  the  noted  riverpirates,  was  a  contemporary  of  Sadk6.  Only  one
 mention  is  made  of  him  in  the  Chronicles:  his  death
 is  recorded  in  1171.  As  this  was  considered  worthy
 of  record  amid  events  of  the  greatest  moment,  some
 idea  may  be  formed  of  his  importance.  He  was,  in
-fact,  a  posddnik,  —  lord  mayor  or  president  of  the  popu-
-lar assembly.
+fact,  a  posddnik,  —  lord  mayor  or  president  of  the  popular assembly.
 
 It  has  been  suggested  that  the  "  black-visaged  maid  "
 is  identical  with  the  Iris  of  Greek  mythology.  The
@@ -13390,9 +12064,6 @@ Greek  mythology,  is  not  a  purely  imaginary  being.
 The  Chronicles  state  that  he  founded  a  church  in
 
 
-358
-
-
 EPIQ  SONGS   OF  RUSSIA.
 
 
@@ -13408,9 +12079,6 @@ hundred  years.  /
 
 
 O
-
-
-330
 
 
 J

@@ -77,12 +77,8 @@ VOL.   V
 
 
 AT      THE      CLARENDON      PRESS
-1880
 
 \^All  rights  reserved']
-
-
-PAHLAVI    TEXTS
 
 
 TRANSLATED   BY
@@ -98,7 +94,6 @@ shAyast   lA-shAyast
 
 
 AT      THE      CLARENDON      PRESS
-1880
 
 \_All  rights  reserved  1
 
@@ -132,7 +127,6 @@ xxii
 
 xlvi
 
-1
 
 lix
 
@@ -151,31 +145,16 @@ Shayast  la-shayast
 
 I
 
-153
-189
-
-237
-
 
 Index
 Errata
 
 
-407
-434
-
-
-Transliteration  of  Oriental  Alphabets  adopted  for  the  Trans-
-lations of  the  Sacred  Books  of  the  East
-
-
-435
+Transliteration  of  Oriental  Alphabets  adopted  for  the  Translations of  the  Sacred  Books  of  the  East
 
 
 PRIITCSTOIT
 REC.  MAR  1881
-
-PAHLAVI     TEXTS.
 
 
 I.  The  Parsi  Scriptures.
@@ -198,12 +177,10 @@ called  from  the  east,  and  the  shepherd  who  performed  His
 pleasure  (Is.  xliv.  28) ;    scattered  fragments  of  the  creed
 professed  by  Darius  in  his  inscriptions,  when  he  attributes
 his  successes  to  '  the  will  of  Auramazda  ; '  and  mouldering
-ruins  of  the  comparatively  pure  religion  of  oriental  '  bar-
-barism,'which  Alexander  and  his  civilising  Greek  successors
+ruins  of  the  comparatively  pure  religion  of  oriental  '  barbarism,'which  Alexander  and  his  civilising  Greek  successors
 were  unable  wholly  to  destroy,  and  replace  by  their  own
 idolatrous  superstitions.    While  in  the  Pahlavi  texts  we  find
-much  of  the  mediaeval  edifice  built  by  later  Persian  priest-
-craft upon  the  old  foundations,  with  a  strange  mixture  of
+much  of  the  mediaeval  edifice  built  by  later  Persian  priestcraft upon  the  old  foundations,  with  a  strange  mixture  of
 old  and  new  materials,  and  exhibiting  the  usual  symptom
 of  declining  powers,  a  strong  insistence  upon  complex  forms
 and  minute  details,  with  little  of  the  freedom  of  treatment
@@ -229,8 +206,7 @@ probably  by  Muhammadan  writers,  have  converted  the
 phrase  'Avesta  and  Zand'  into  'Zend-Avesta/  and  have
 further  identified  Zand  with  the  language  of  the  Avesta.
 This  use  of  the  word  Zand  is,  however,  quite  at  variance
-with  the  practice  of  all  Parsi  writers  who  have  been  inde-
-pendent of  European  influence,  as  they  apply  the  term
+with  the  practice  of  all  Parsi  writers  who  have  been  independent of  European  influence,  as  they  apply  the  term
 Zand  only  to  the  Pahlavi  translations  and  explanations  of
 their  sacred  books,  the  original  text  of  which  they  call
 Avesta.  So  that  when  they  use  the  phrase  '  Avesta  and
@@ -260,8 +236,7 @@ INTRODUCTION.  XI
 
 
 original  Avesta  text.  But  besides  these  translations  there
-is  another  class  of  Pahlavi  religious  writings  whose  authority-
-is  more  open  to  dispute.  These  writings  are  either  trans-
+is  another  class  of  Pahlavi  religious  writings  whose  authorityis  more  open  to  dispute.  These  writings  are  either  trans-
 lations and  Zands  of  Avesta  texts  no  longer  extant,  or  they
 contain  the  opinions  and  decisions  of  high-priests  of  later
 times,  when  the  Pahlavi  language  was  on  the  decline.  Such
@@ -289,31 +264,27 @@ and  phrases.  Some  traces  of  Pahlavi  words  and  phrases,
 written  in  old  Semitic  characters,  have  been  found  in  the
 legends  of  coins  struck  by  certain  kings  of  Persian  provinces,
 subordinate  to  the  Greek  successors  of  Alexander,  as  early
-as  the  third  century  B.  C.^  Further  traces  have  been  dis-
-covered in  the  legends  on  some  provincial  coins  of  the  time
+as  the  third  century  B.  C.^  Further  traces  have  been  discovered in  the  legends  on  some  provincial  coins  of  the  time
 of  the  Arsacidan  dynasty.  But,  practically,  our  acquaintance
 with  Pahlavi  commences  with  the  inscriptions^  on  rocks  and
 coins,  of  Ar<^akhshir-i  Papakan  (a.D.  226-240),  the  founder
 of  the  Sasanian  dynasty,  and   ends  with  certain  religious
 
 ^  See  Levy's  Beitrage  ziir  aramaischen  Miinzkunde  Eran's,  unci  zur  Kunde
-der  altern  Pehlewi-Schrift ;  Zeitschrift  der  deutschen  morgenlandischen  Gesell-
-schaft,  Leipzig,  1867  ;  XXI,  ^  21-465,
+der  altern  Pehlewi-Schrift ;  Zeitschrift  der  deutschen  morgenlandischen  Gesellschaft,  Leipzig,  1867  ;  XXI,  ^  21-465,
 
 
 Xll  PAHLAVI    TEXTS.
 
 
-writings  of  priests  and  other  devout  Parsis  of  post-Muham-
-madan  times,  among  the  latest  of  which  is  one  dated  A.Y.
+writings  of  priests  and  other  devout  Parsis  of  post-Muhammadan  times,  among  the  latest  of  which  is  one  dated  A.Y.
 350  (a.d.  881).  Any  fragments  of  Pahlavi  composition  of
 later  date  than  A.D.  1000,  must  be  considered  merely  as
 modern  imitations  of  a  dead  language,  and  cannot  be  quoted
 as  authorities  for  the  use  of  any  particular  Pahlavi  words  or
 construction.
 
-With  regard  to  the  origin  of  the  word  Pahlavi,  or  lan-
-guage of  Pahlav,  many  suggestions  have  been  offered  ;  but
+With  regard  to  the  origin  of  the  word  Pahlavi,  or  language of  Pahlav,  many  suggestions  have  been  offered  ;  but
 the  most  probable  explanation^  is  that  which  connects  it
 with  the  Parthva  of  the  cuneiform  inscriptions,  the  land  of
 the  Parthians  known  to  the  Greeks  and  Romans,  and  of  the
@@ -322,8 +293,7 @@ Parthva  into  Pahlav  being  very  similar  to  that  of  Av.
 Mithra  into  Pers.  Mihr.  No  doubt  the  language  of  the
 Parthians  themselves  was  not  Pahlavi,  but  they  were  the
 actual  rulers  of  Persia  for  some  centuries  at  the  time  when
-the  Pahlavi  language  was  forming  there  ;  and,  being  formid-
-able to  their  neighbours,  it  is  not  surprising  that  their  name
+the  Pahlavi  language  was  forming  there  ;  and,  being  formidable to  their  neighbours,  it  is  not  surprising  that  their  name
 became  identified  with  everything  Persian,  in  the  same  way
 as  the  Roman  name  has  been  applied  by  the  Persians,  not
 only  to  the  later  Greek  empire  of  Constantinople,  but  even
@@ -368,8 +338,7 @@ those  specially  relating  to  religious  matters),  they  often
 constitute  more  than  half  the  bulk  of  a  Pahlavi  text.
 
 The  use  of  such  Semitic  words,  scattered  about  in  Persian
-sentences,  gives  Pahlavi  the  motley  appearance  of  a  com-
-pound language ;  more  especially  as  Persian  terminations
+sentences,  gives  Pahlavi  the  motley  appearance  of  a  compound language ;  more  especially  as  Persian  terminations
 are  often  added  to  the  Semitic  words.  But  there  are  good
 reasons  for  supposing  that  the  language  was  never  spoken
 as  it  was  written.  The  spoken  language  appears  to  have
@@ -399,8 +368,7 @@ XIV  PAHLAVI    TEXTS.
 
 
 portion  of  the  Pahlavi  writing  was  nearly  pure  Chaldee,  and
-was  confined  (as  already  stated)  to  the  graphic  representa-
-tion of  most  of  the  simplest  and  commonest  words  uncon-
+was  confined  (as  already  stated)  to  the  graphic  representation of  most  of  the  simplest  and  commonest  words  uncon-
 nected with  religion  ;  but  it  seems  to  have  formed  no  part
 of  the  spoken  language,  at  all  events  in  later  times.  Whereas
 the  Semitic  portion  of  modern  Persian  is  borrowed  from
@@ -413,8 +381,7 @@ words  of  Norman-French  origin  are  to  the  English.
 
 In  Pahlavi  writings,  moreover,  besides  the  fou7  hundred
 Semitic  logograms  already  mentioned,  we  also  find  about
-one  hundred  obsolete  forms  of  Iranian  words  used  as  logo-
-grams ;  much  in  the  same  way  as  '  ye '  may  be  used  for
+one  hundred  obsolete  forms  of  Iranian  words  used  as  logograms ;  much  in  the  same  way  as  '  ye '  may  be  used  for
 'the,'  and  '  Xmas '  for  *  Christmas'  in  English.  The  use  of
 all  these  logograms  was,  however,  quite  optional,  as  their
 usual  Persian  equivalents  might  be  substituted  for  any  of
@@ -451,12 +418,10 @@ obsoleteness,'  yet  its  abstract  noun  would  not  be  altogether
 inapplicable  to  the  logograms  used  in  Pahlavi,  which  are,
 in  fact,  last  remnants  of  older  writings.
 
-The  word  Pazand  is  probably  derived  from  Av.  paiti-
-zantl,  with  the  meaning  're-explanation,'  that  is,  a  further
+The  word  Pazand  is  probably  derived  from  Av.  paitizantl,  with  the  meaning  're-explanation,'  that  is,  a  further
 interpretation  of  the  Pahlavi  Zand  in  the  Persian  vernacular.
 This  term  is  applied  not  only  to  the  purely  Persian  words
-in  Pahlavi  texts,  but  also  (as  already  noticed)  to  translitera-
-tions of  the  said  texts,  either  in  Avesta  or  modern  Persian
+in  Pahlavi  texts,  but  also  (as  already  noticed)  to  transliterations of  the  said  texts,  either  in  Avesta  or  modern  Persian
 characters,  in  which  all  the  Huzvarii-  words  are  replaced  by
 their  Pazand  equivalents.  These  transliterations  form  what
 are  called  Pazand  texts ;  they  retain  the  exact  idiom  and
@@ -470,17 +435,14 @@ Persian  language.
 
 This  theory  of  the  origin  and  development  of  Pahlavi
 writing  could  hardly  be  upheld,  unless  we  could  trace  the
-same  artificial  mixture  of  Huzvarii-  and  Pazand  in  all  acces-
-sible Pahlavi  records,  from  their  earliest  appearance  to  the
+same  artificial  mixture  of  Huzvarii-  and  Pazand  in  all  accessible Pahlavi  records,  from  their  earliest  appearance  to  the
 present  time.  This  we  are  able  to  do,  even  in  the  scanty
 materials  afforded  by  the  legends  on  the  provincial  Persian
 coins  of  the  third  century  B.C.  and  second  century  A.D.
-already  mentioned.  But  we  can  trace  it  with  greater  cer-
-tainty not  only  in  the  coin  legends,  but  also  in  the  rock
+already  mentioned.  But  we  can  trace  it  with  greater  certainty not  only  in  the  coin  legends,  but  also  in  the  rock
 inscriptions  of  the  earlier  Sasanian  kings  (a.d.  226-388),  in
 the  latest  of  which  we  find  the  written  language  differing
-very  slightly  from  that  contained  in  the  manuscripts  pre-
-served by  the  Parsis  of  the  present  day,  although  the
+very  slightly  from  that  contained  in  the  manuscripts  preserved by  the  Parsis  of  the  present  day,  although  the
 characters  differ  very  much  in  form.  And,  finally,  in  the
 legends  on  the  coins  of  the  later  Sasanian  kings  (a.d.  388-
 651)  and  on  seals  of  their  times,  we  find  even  this  difference
@@ -501,15 +463,13 @@ they  thus  used  as  Huzvarij-  in  their  writings.
 Although  the  use  of  Huzvarij-,  until  explained  recently,
 rendered  the  nature  of  the  Pahlavi  language  very  obscure,
 it  added  very  little  to  the  difficulty  of  understanding  the
-Pahlavi  texts,  because  the  meaning  of  nearly  every  Huz-
-varij-  logogram  was  well  known ;  being  recorded  in  an
+Pahlavi  texts,  because  the  meaning  of  nearly  every  Huzvarij-  logogram  was  well  known ;  being  recorded  in  an
 old  glossary  preserved  by  the  Parsis,  in  which  every
 logogram  is  explained  by  its  proper  Pazand  equivalent.
 The  extant  copies  of  this  old  glossary  generally  contain
 the  Huzvarii-  and  Pazand  words  written  in  the  Pahlavi
 character,  together  with  their  traditional  pronunciation,
-either  in  Avesta  or  modern  Persian  letters ;  there  is,  there-
-fore, no  particular  difficulty  in  reading  or  translating  the
+either  in  Avesta  or  modern  Persian  letters ;  there  is,  therefore, no  particular  difficulty  in  reading  or  translating  the
 Huzvari^  portion  of  a  Pahlavi  text,  although  doubts  may
 often  be  entertained  as  to  the  accuracy  of  the  traditional
 pronunciation.
@@ -523,8 +483,7 @@ letters,  so  that  some  letters  represent  several  different
 sounds  ;  and  this  ambiguity  is  increased  by  the  letters
 being  joined  together,  when  a  compound  of  two  letters
 is  sometimes  exactly  like  some  other  single  letter.  The
-complication  arising  from  these  ambiguities  may  be  under-
-stood from  the  following  list  of  the  sounds,  simple  and
+complication  arising  from  these  ambiguities  may  be  understood from  the  following  list  of  the  sounds,  simple  and
 compound,  represented  by  each  of  the  fourteen  letters  of
 the  Pahlavi  alphabet  respectively  : —
 
@@ -542,11 +501,9 @@ da,  dah,  dakh,  ga,  gah,  gakh,  ^a,  ^ah,  ^akh.      £^  gh.      5  k.
 
 From  this  list  it  is  easy  to  see  the  confusion  produced
 by  the  letter  33  s  being  exactly  like  the  letter  ^  y  doubled,
-and  by  the  letter  JQ  sh  being  identical  with  a  com-
-pound of  J)  y  and  JJ  a;  and  there  are,  in  fact,  some
+and  by  the  letter  JQ  sh  being  identical  with  a  compound of  J)  y  and  JJ  a;  and  there  are,  in  fact,  some
 compounds  of  two  letters  which  have  from  ten  to  fifteen
-sounds  in  common  use,  besides  others  which  might  pos-
-sibly occur.  If  it  be  further  considered  that  there  are
+sounds  in  common  use,  besides  others  which  might  possibly occur.  If  it  be  further  considered  that  there  are
 only  three  letters  (which  are  also  consonants,  as  in  most
 Semitic  languages)  to  represent  five  long  vowels,  and  that
 there  are  probably  five  short  vowels  to  be  understood,
@@ -554,12 +511,10 @@ the  difficulty  of  reading  Pahlavi  correctly  may  be  readily
 imagined.
 
 When  Pahlavi  writing  was  in  common  use  this  difficulty
-was  probably  no  more  felt  by  the  Persians,  than  the  com-
-plexity of  Chinese  characters  is  felt  as  an  evil  by  a  Chinese
+was  probably  no  more  felt  by  the  Persians,  than  the  complexity of  Chinese  characters  is  felt  as  an  evil  by  a  Chinese
 mandarin,  or  the  corrupt  system  of  English  orthography
 by  an  educated  Englishman.  It  is  only  the  foreigner,  or
-learner,  who  fully  appreciates  the  difficulty  of  understand-
-ing such  cumbrous  systems  of  writing.
+learner,  who  fully  appreciates  the  difficulty  of  understanding such  cumbrous  systems  of  writing.
 
 With  regard,  however,  to  their  Huzvari^-  logograms  the
 Persians  seem  to  have  experienced  more  difficulty.  As
@@ -575,8 +530,7 @@ Huzvarij-  logograms.  But  its  compilation  does  not  appear
 to  have  been  undertaken  until  the  true  pronunciation  of
 some  of  these  logograms  had  been  already  lost.  Thus,
 although  the  traditional  readings  of  most  of  the  Semitic
-portion  of  the  Huzvarii-  can  be  readily  traced  to  well-
-known  Chaldee  words,  there  are  yet  many  other  such
+portion  of  the  Huzvarii-  can  be  readily  traced  to  wellknown  Chaldee  words,  there  are  yet  many  other  such
 readings   which   are   altogether    inexplicable    as    Semitic
 
 [5]  b
@@ -588,13 +542,11 @@ XVlll  PAHLAVI    TEXTS.
 words.  In  most  such  cases,  however,  European  scholars
 have  found  that  the  Huzvarii-  word  can  be  easily  read  in
 some  other  way  which  at  once  connects  it  with  some
-ordinary  Chaldee  equivalent.  It  may,  therefore,  be  reason-
-ably assumed  that  the  compilers  of  the  glossary  had  in
+ordinary  Chaldee  equivalent.  It  may,  therefore,  be  reasonably assumed  that  the  compilers  of  the  glossary  had  in
 some  instances  lost  the  correct  pronunciation  of  these  old
 Semitic  words,  and  that,  in  such  cases,  they  adopted  (as
 a  Parsi  would  probably  do  at  the  present  day)  the  most
-obvious  reading  of  the  letters  before  them,  which  thence-
-forth became  an  artificial  word  to  be  handed  down  to
+obvious  reading  of  the  letters  before  them,  which  thenceforth became  an  artificial  word  to  be  handed  down  to
 posterity,  by  successive  generations  of  writers,  with  all
 the  authority  of  old  tradition.
 
@@ -614,15 +566,12 @@ Naturally  enough  the  Parsis  are  loth  to  admit  the
 possibility  of  any  error  in  their  traditional  readings  of
 Huzvarii-,  and  very  few  of  them  have  yet  adopted  the
 views  of  European  scholars  further  than  to  admit  that
-they  are  ingenious  hypotheses,  which  still  require  satis-
-factory proof.  They  are  quite  right  in  demanding  such
+they  are  ingenious  hypotheses,  which  still  require  satisfactory proof.  They  are  quite  right  in  demanding  such
 proof,  and  they  may  reasonably  argue  that  the  conflicting
-opinions  of  various  European  scholars  do  not  tend  to  in-
-crease the  certainty  of  their  explanations.  But,  on  the
+opinions  of  various  European  scholars  do  not  tend  to  increase the  certainty  of  their  explanations.  But,  on  the
 other  hand,  they  are  bound  to  examine  all  proofs  that
 may  be  offered,  and  to  consider  the  arguments  of  scholars,
-before  utterly  rejecting  them  in  favour  of  their  own  pre-
-conceived notions  of  traditional  authority.
+before  utterly  rejecting  them  in  favour  of  their  own  preconceived notions  of  traditional  authority.
 
 Fortunately,  we  possess  some  means  of  ascertaining  the
 ancient  pronunciation  of  a  few  Huzvarij"  words,  independent
@@ -642,15 +591,13 @@ characters,  which  have  been  called  Chaldseo-Pahlavi  and
 Sasanian-Pahlavi,  because  the  one  bears  more  resemblance
 to  Chaldee,  both  in  its  letters  and  the  language  they
 express,  and  the  other  is  more  frequently  used  by  the
-subsequent  Sasanian  monarchs.  A  similar  tri-lingual  in-
-scription records  the  names  and  titles  of  his  son  and
+subsequent  Sasanian  monarchs.  A  similar  tri-lingual  inscription records  the  names  and  titles  of  his  son  and
 successor  Shahpuhar  I  (a.  D.  240-271),  who  has  also  left
 a  long  bi-Iingual  inscription,  in  Chaldaeo  and  Sasanian-
 Pahlavi,  in  a  cave  near  Persepolis.  Another  long  bi-lingual
 inscription,  fragments  of  which  have  been  found  on  stones
 among  the  ruins  of  Pai  Kuli,  is  attributed  to  his  early
-successors,  who  have  also  left  us  several  uni-lingual  in-
-scriptions in  Sasanian-Pahlavi,  two  of  which  are  of  great
+successors,  who  have  also  left  us  several  uni-lingual  inscriptions in  Sasanian-Pahlavi,  two  of  which  are  of  great
 length,  but  none  later  than  the  end  of  the  fourth  century.
 
 The  language  of  the  earlier  of  these  inscriptions  differs
@@ -661,15 +608,13 @@ Huzvarii-  (which  is  evidently  a  growth  of  later  times),  and
 the  less  frequent  use  of  Persian  terminations  affixed  to
 Semitic  words.  These  differences,  however,  are  hardly
 greater  than  those  which  distinguish  the  English  of  Chaucer
-from  that  of  our  own  day.  Moreover,  they  gradually  dis-
-appear in  process  of  time,  as  we  find  the  later  inscriptions
+from  that  of  our  own  day.  Moreover,  they  gradually  disappear in  process  of  time,  as  we  find  the  later  inscriptions
 of  the  fourth  century  approaching  much  closer,  in  language,
 to  the  manuscripts.
 
 As  the  alphabets  of  these  inscriptions  are  less  imperfect
 and  ambiguous  than  that  of  the  Pahlavi  manuscripts,  they
-render  the  pronunciation  of  many  words  much  more  cer-
-tain. They  consist  of  eighteen  letters,  having  the  following
+render  the  pronunciation  of  many  words  much  more  certain. They  consist  of  eighteen  letters,  having  the  following
 sounds : — ■
 
 
@@ -697,8 +642,7 @@ compounds  are  left  in  doubt  by  the  manuscript  alphabet.
 Unfortunately  we  do  not  possess  trustworthy  copies  of
 some  of  the  inscriptions  which  are  evidently  the  most
 important  from  a  linguistic  point  of  view^';  but  such
-copies  as  have  been  obtained  supply  corrections  of  tra-
-ditional misreadings  of  about  twenty-five  Huzvam  logo-
+copies  as  have  been  obtained  supply  corrections  of  traditional misreadings  of  about  twenty-five  Huzvam  logo-
 grams, and  at  the  same  time  they  confirm  the  correctness
 of  three  traditional  readings  which  have  been  called  in
 question  by  most  European  scholars.  So  far,  therefore,
@@ -712,11 +656,9 @@ The   Chaldaeo-Pahlavi  character  appears   to   have  soon
 
 *  Whether  the  sound  of  this  letter  can  ever  be  satisfactorily  settled  remains
 doubtful.  Levy,  in  his  Beitrage,  cited  on  p.  xi,  considers  it  to  be  the  Semitic
-n,  on  palseographical  grounds  ;  but  there  are  serious  objections  to  all  the  identi-
-fications that  have  been  proposed.
+n,  on  palseographical  grounds  ;  but  there  are  serious  objections  to  all  the  identifications that  have  been  proposed.
 
-'  The  Sasanian  inscriptions,  of  which  new  and  correct  copies  are  most  ur-
-gently wanted,  are: — i.  An  inscription  of  thirty-one  lines  high  up  in  the  left
+'  The  Sasanian  inscriptions,  of  which  new  and  correct  copies  are  most  urgently wanted,  are: — i.  An  inscription  of  thirty-one  lines  high  up  in  the  left
 side-compartment  (behind  the  king)  of  the  centre  bas-relief  of  Naqs-i  Rao-ab,
 near  Persepolis.  2.  Two  inscriptions,  of  eleven  and  twelve  lines  respectively,
 on  the  stones  of  the  edifice  near  the  south-west  corner  of  the  great  platform  at
@@ -736,8 +678,7 @@ INTRODUCTION.  XXI
 
 gone  out  of  use,  after  the  establishment  of  the  Sasanian
 dynasty,  as  the  latest  known  inscription,  in  which  it  occurs,
-is  that  of  Pai  Kuli,  which  contains  the  name  of  Au-
-harmazd  I  (a.  D.  271-272) ;  while  the  long  inscriptions
+is  that  of  Pai  Kuli,  which  contains  the  name  of  Auharmazd  I  (a.  D.  271-272) ;  while  the  long  inscriptions
 of  Naqi'-i  Ra^'-ab  and  Naqj--i  Rustam,  which  contain  the
 name  of  Varahran  II  (A.D.  275-283),  are  engraved  only
 in  Sasanian-Pahlavi.  From  these  facts  it  seems  probable
@@ -756,14 +697,12 @@ written  in  the  eighth  century.  Next  to  this,  after  a  long
 interval,  come  four  manuscripts  written  on  Indian  paper,
 all  by  the  same  hand,  in  A.D.  1323-1324;  they  are  two
 copies  of  the  Yasna  and  two  of  the  Vendidad,  containing
-the  Avesta  with  its  Zand,  or  Pahlavi  translation  and  com-
-mentary ;  two  of  these  old  MSS.  are  now  preserved  in
+the  Avesta  with  its  Zand,  or  Pahlavi  translation  and  commentary ;  two  of  these  old  MSS.  are  now  preserved  in
 Kopenhagen,  one  in  London,  and  one  in  Bombay.  Next
 to  these  in  age  are  two  MSS.  of  miscellaneous  Pahlavi
 texts,  written  probably  about  fifty  years  later ;  one  of
 these  is  now  in  Kopenhagen  and  one  in  Bombay.  Another
-MS.  of  nearly  the  same  age  is  also  a  miscellaneous  col-
-lection of  Pahlavi  texts,  written  in  A.D.  1397,  and  now  in
+MS.  of  nearly  the  same  age  is  also  a  miscellaneous  collection of  Pahlavi  texts,  written  in  A.D.  1397,  and  now  in
 Munich ;  where  there  is  also  one  of  the  oldest  Pazand-
 Sanskrit  MSS.,  a  copy  of  the  An/a-Viraf-namak,  written
 in  A.D.  1410,  Another  Pazand-Sanskrit  MS.,  a  copy  of
@@ -780,8 +719,7 @@ commenced  with  the  fall  of  the  Sasanian  dynasty  (A.D.
 XXil  PAHLAVI    TEXTS.
 
 
-636-651) ;  and  the  subsequent  adoption  of  the  modern  Per-
-sian alphabet  gave  it  its  death-blow.  The  last  remnants  of
+636-651) ;  and  the  subsequent  adoption  of  the  modern  Persian alphabet  gave  it  its  death-blow.  The  last  remnants  of
 Pahlavi  writings  are  now  contained  in  the  few  manuscripts
 still  preserved  by  the  Parsis  in  Western  India,  and  their
 almost-extinct  brethren  in  Persia.  A  careful  estimate  of
@@ -818,8 +756,7 @@ to  the  subject.     But  the  same  sentence  seems  to  inform
 
 
 '■  When  this  work  forms  part  of  a  collection  of  Pahlavi  texts,  the  whole
-manuscript  is  sometimes  called  '  the  great  Bundahis.'  There  also  exists  a  Sad-
-dar  Eundahis,  or  Buudahi.s  of  a  hundred  chapters,  which  is  a  comparatively
+manuscript  is  sometimes  called  '  the  great  Bundahis.'  There  also  exists  a  Saddar  Eundahis,  or  Buudahi.s  of  a  hundred  chapters,  which  is  a  comparatively
 modern  compilation,  detailing  the  chief  customs  and  religious  laws  of  the  Parsis
 in  a  hundred  sections.
 
@@ -833,23 +770,20 @@ US  that  the  actual  name  of  the  treatise  was  Zand-akas,
 The  work  commences  by  describing  the  state  of  things
 in  the  beginning  ;  the  good  spirit  being  in  endless  light
 and  omniscient,  and  the  evil  spirit  in  endless  darkness  and
-with  limited  knowledge.  Both  produced  their  own  crea-
-tures, which  remained  apart,  in  a  spiritual  or  ideal  state,
+with  limited  knowledge.  Both  produced  their  own  creatures, which  remained  apart,  in  a  spiritual  or  ideal  state,
 for  three  thousand  years,  after  which  the  evil  spirit  began
 his  opposition  to  the  good  creation  under  an  agreement
 that  his  power  was  not  to  last  more  than  nine  thousand
 years,  of  which  only  the  middle  three  thousand  were  to
 see  him  successful.  By  uttering  a  sacred  formula  the  good
 spirit  throws  the  evil  one  into  a  state  of  confusion  for  a
-second  three  thousand  years,  while  he  produces  the  arch-
-angels and  the  material  creation,  including  the  sun,  moon,
+second  three  thousand  years,  while  he  produces  the  archangels and  the  material  creation,  including  the  sun,  moon,
 and  stars.  At  the  end  of  that  period  the  evil  spirit,
 encouraged  by  the  demons  he  had  produced,  once  more
 rushes  upon  the  good  creation,  to  destroy  it.  The  demons
 carry  on  conflicts  with  each  of  the  six  classes  of  creation,
 namely,  the  sky,  water,  earth,  plants,  animals  represented
-by  the  primeval  ox,  and  mankind  represented  by  Gayo-
-mard ;  producing  little  effect  but  movement  in  the  sky,
+by  the  primeval  ox,  and  mankind  represented  by  Gayomard ;  producing  little  effect  but  movement  in  the  sky,
 saltness  in  the  water,  mountains  in  the  earth,  withering
 in  plants,  and  death  to  the  primeval  ox,  and  also  to
 Gayomar^  after  an  interval.
@@ -863,8 +797,7 @@ the  bird  /i  amrojr,  and  other  birds  and  animals  opposed  to
 the  evil  creation,  the  rivers  of  the  world,  the  seventeen
 species  of  liquids,  the  lakes,  the  origin  of  the  ape  and  bear,
 the  chiefs  of  the  several  kinds  of  creatures  and  creations,
-the  calendar,  lineal  measures,  trees  and  plants,  the  cha-
-racteristics of  various  demons,  the  spiritual  chiefs  of  the
+the  calendar,  lineal  measures,  trees  and  plants,  the  characteristics of  various  demons,  the  spiritual  chiefs  of  the
 various  regions  of  the  earth,  and  the  resurrection  and
 future  existence  ;  all  which  descriptions  are  given  on  the
 authority  of  the  Din,  which  may  have  been  some  particular
@@ -883,16 +816,13 @@ As  the  work  now  stands  it  is  evidently  of  a  fragmentary
 character,  bearing  unmistakable  marks  both  of  omissions
 and  dislocations  ;    and  the  extant  manuscripts,  as  will  be
 seen,  differ  among  themselves  both  as  to  the  extent  and
-arrangement  of  the  text.     Many  passages  have  the  appear-
-ance  of  being  translations   from  an  Avesta  original,  and
+arrangement  of  the  text.     Many  passages  have  the  appearance  of  being  translations   from  an  Avesta  original,  and
 it   is  very  probable   that  we  have  in  the  Bundahij'  either
 a  translation,  or  an  epitome,  of  the  Damda^^  Nask,  one  of
-the  twenty-one  books  into  which  the  whole  of  the  Zoroas-
-trian  scriptures  are  said  to  have  been  divided   before  the
+the  twenty-one  books  into  which  the  whole  of  the  Zoroastrian  scriptures  are  said  to  have  been  divided   before  the
 time  of  Darius.     This  may  be  guessed  from  a  comparison
 of  the  contents  of  the  Bundahii'  with  those  of  the  Damdac/
-Nask,  which   are  detailed    in    the  Dini-va^arkar*^  as    fol-
-lows^:—  'It    contained    an    explanation    of   the    spiritual
+Nask,  which   are  detailed    in    the  Dini-va^arkar*^  as    follows^:—  'It    contained    an    explanation    of   the    spiritual
 existence  and  heaven,  good  and  evil,  the  material  existence
 of  this  world,  the  sky  and  the  earth,  and  everything  which
 Auharmazd  produced  in  water,  fire,  and  vegetation,  men
@@ -922,8 +852,7 @@ INTRODUCTION.  XXV
 
 
 which  is  now  in  the  National  Library  at  Paris,  was  a
-modern  copy,  written  A.  D.  1734,  and  contained  a  miscel-
-laneous collection  of  Pahlavi  writings  besides  the  Bundahij.
+modern  copy,  written  A.  D.  1734,  and  contained  a  miscellaneous collection  of  Pahlavi  writings  besides  the  Bundahij.
 And  Anquetil's  translation,  though  carefully  prepared  in
 accordance  with  the  information  he  had  obtained  from  his
 Parsi  instructor,  is  very  far  from  giving  the  correct  meaning
@@ -931,8 +860,7 @@ of  the  original  text  in  many  places.
 
 In  1820  the  very  old  codex  from  which  Anquetil's  MS.
 had  been  copied  was  brought  to  Europe,  from  Bombay,
-by  the  Danish  scholar  Rask,  and  was  subsequently  de-
-posited in  the  University  Library  at  Kopenhagen.  This
+by  the  Danish  scholar  Rask,  and  was  subsequently  deposited in  the  University  Library  at  Kopenhagen.  This
 most  important  codex,  which  will  be  more  particularly
 described  under  the  appellation  of  K20,  appears  to  have
 been  written  during  the  latter  half  of  the  fourteenth  century;
@@ -959,15 +887,13 @@ duas  inscriptiones  regis  Saporis  Primi  adjecit,  N.  L.  Westergaard ;   Ha
 
 1851.
 
-^  Ueber  die  Pehlewi-Sprache  iind  den  Bundehesh,  von  Martin  Haug ;  Got-
-tingen,  1854.
+^  Ueber  die  Pehlewi-Sprache  iind  den  Bundehesh,  von  Martin  Haug ;  Gottingen,  1854.
 
 ^  Die  Traditionelle  Literatur  der  Parsen  in  ihrem  Zusammenhange  mit  den
 angranzenden  Literaturen,  dargestellt  von  Fr.  Spiegel ;  Wien,  i860.
 
 *  Zoroastriche  Studien.  Abhandlungen  zur  Mythologie  und  Sagengeschichte
-des  alten  Iran,  von  Fr.  Windischmann  (nach  dem  Tode  des  Verfassers  heraus-
-gegeben  von  Fr.  Spiegel) ;  Berlin,  1863.
+des  alten  Iran,  von  Fr.  Windischmann  (nach  dem  Tode  des  Verfassers  herausgegeben  von  Fr.  Spiegel) ;  Berlin,  1863.
 
 
 XXVI  PAHLAVI    TEXTS.
@@ -986,8 +912,7 @@ order  from  that  in  K20,  and  Chaps.  XXVIII,  XXIX,  and
 XXXI-XXXIII  are  omitted.
 
 A  second  complete  German  translation  of  the  Bundahij,
-with  a  lithographed  copy  of  the  Pahlavi  text,  a  trans-
-literation of  the  text  in  modern  Persian  characters,  and
+with  a  lithographed  copy  of  the  Pahlavi  text,  a  transliteration of  the  text  in  modern  Persian  characters,  and
 a  glossary  of  all  the  words  it  contains,  was  published  by
 Justi  in  1868^.  Its  author,  having  had  access  to  other
 MSS.  (descended  from  M6)  at  London  and  Oxford,  was
@@ -997,8 +922,7 @@ elucidating  difficult  passages.
 
 Other  European  writers  have  published  the  result  of
 their  studies  of  particular  parts  of  the  Bundahij-,  but  it
-does  not  appear  that  any  of  them  have  attempted  a  con-
-tinuous translation  of  several  chapters.
+does  not  appear  that  any  of  them  have  attempted  a  continuous translation  of  several  chapters.
 
 Whether  the  existence  of  previous  translations  be  more
 of  an  assistance  than  a  hindrance  in  preparing  a  new  one,
@@ -1006,11 +930,9 @@ may  well  be  a  matter  of  doubt.  Previous  translations  may
 prevent  oversights,  and  in  difficult  passages  it  is  useful
 to  see  how  others  have  floundered  through  the  mire ;  but,
 on  the  other  hand,  they  occasion  much  loss  of  time,  by
-the  necessity  of  examining  many  of  their  dubious  render-
-ings before  finally  fixing  upon  others  that  seem  more
+the  necessity  of  examining  many  of  their  dubious  renderings before  finally  fixing  upon  others  that  seem  more
 satisfactory.  The  object  of  the  present  translation  is  to
-give  the  meaning  of  the  original  text  as  literally  as  pos-
-sible, and  with  a  minimum  of  extra  words  ;  the  different
+give  the  meaning  of  the  original  text  as  literally  as  possible, and  with  a  minimum  of  extra  words  ;  the  different
 renderings  of  other  translators  being  very  rarely  noticed,
 unless  there  be  some  probability  of  their  being  of  service
 
@@ -1028,8 +950,7 @@ reader  is  warned;  and,  no  doubt,  a  few  oversights  and
 mistakes  will  be  discovered.
 
 With  regard  to  the  original  text,  we  have  to  recover
-it  from  four  manuscripts  which  are,  more  or  less,  inde-
-pendent authorities,  and  may  be  styled  K20,  K2ob,  M6,
+it  from  four  manuscripts  which  are,  more  or  less,  independent authorities,  and  may  be  styled  K20,  K2ob,  M6,
 and  TD.  The  first  three  of  these  have  evidently  descended,
 either  directly  or  through  one  or  more  intermediate  copies,
 from  the  same  original ;  but  the  source  of  TD,  so  far  as
@@ -1057,31 +978,26 @@ have  been  copied  from  older  MSS.;  but  at  the  same  time
 the  appearance  of  the  paper  indicates  that  the  actual  date
 of  the  MS.  cannot  be  much  later  than  A.Y.  720  (a.d.  1351),
 and  there  are  reasons  for  believing  that  it  was  written
-several  years  before  A.Y.  766  (a.  D.  1397),  as  will  be  ex-
-plained in  the  description  of  M6.  Owing  to  its  age  and
+several  years  before  A.Y.  766  (a.  D.  1397),  as  will  be  explained in  the  description  of  M6.  Owing  to  its  age  and
 comparative  completeness  this  MS.  of  the  Bundahi^y  is
-certainly  the  most  important  one  extant,  although  com-
-parison with  other  MSS.  proves  that  its  writer  was  rather
+certainly  the  most  important  one  extant,  although  comparison with  other  MSS.  proves  that  its  writer  was  rather
 careless,  and  frequently  omitted  words  and  phrases.     The
 
 
 XXVlll  PAHLAVI    TEXTS.
 
 
-loss  of  fol.  121,  though  it  has  hitherto  left  an  inconve-
-nient gap  in  the  text  (not  filled  up  by  other  MSS.),  is
+loss  of  fol.  121,  though  it  has  hitherto  left  an  inconvenient gap  in  the  text  (not  filled  up  by  other  MSS.),  is
 more  than  compensated  by  the  three  extra  chapters  which
 this  MS.  and  its  copies  have  hitherto  alone  supplied.  The
 text  on  the  lost  folio  was  supposed  by  Anquetil  to  have
 contained  a  whole  chapter  besides  portions  of  the  two
-adjacent  ones  ;  this  is  now  known  to  be  a  mistake,  An-
-quetil's  Chap.  XXVIII  being  quite  imaginary;  the  end  of
+adjacent  ones  ;  this  is  now  known  to  be  a  mistake,  Anquetil's  Chap.  XXVIII  being  quite  imaginary;  the  end  of
 Chap.  XXVII  has  long  been  supplied  from  other  MSS.,
 but  the  beginning  of  the  next  chapter  has  hitherto  been
 missing.
 
-Only  two  copies  of  K20  appear  to  be  known  to  Eu-
-ropeans ;  the  best  of  these  is  the  copy  brought  from  Surat
+Only  two  copies  of  K20  appear  to  be  known  to  Europeans ;  the  best  of  these  is  the  copy  brought  from  Surat
 by  Anquetil,  No.  7  of  his  collection  of  manuscripts,  now
 in  the  National  Library  at  Paris  ;  this  was  written  in  A.  D.
 1734,  when  K20  appears  to  have  been  nearly  in  its  present
@@ -1116,8 +1032,7 @@ INTRODUCTION.  XXIX
 
 
 MS.  is  not  very  old,  and  contains  merely  a  fragment  of
-the  text ;  but  its  value  consists  in  its  not  being  a  de-
-scendant of  either  K20  or  M6,  as  it  clearly  represents  a
+the  text ;  but  its  value  consists  in  its  not  being  a  descendant of  either  K20  or  M6,  as  it  clearly  represents  a
 third  line  of  descent  from  their  common  original.  It  agrees
 with  K20  in  the  general  arrangement  of  its  chapters,  so
 far  as  they  go,  and  also  in  containing  Chap.  XXXI ;  but
@@ -1136,8 +1051,7 @@ in  1866,  and  now  No.  6  of  the  Haug  collection  in  the
 State  Library  at  Munich.  It  consists  of  240  folios  of  very
 old,  but  well-preserved,  Indian  paper  of  large  octavo  size
 (to  which  thirteen  others,  of  rather  later  date,  have  been
-prefixed)  bound  in  two  volumes.  This  MS.  contains  nine-
-teen Pahlavi  texts,  written  from  seventeen  to  twenty-two
+prefixed)  bound  in  two  volumes.  This  MS.  contains  nineteen Pahlavi  texts,  written  from  seventeen  to  twenty-two
 lines  to  the  page,  and  some  of  them  accompanied  by
 Avesta ;  eleven  of  these  texts  are  also  found  in  K20,  and
 the  Bundahij-  is  the  fourteenth  of  the  nineteen,  occupying
@@ -1167,8 +1081,7 @@ instances  of  which  are  not  uncommon  in  old  Pahlavi  MSS.
 Eliminating  these  errors,  for  which  the  writer  of  M6  cannot
 be  held  responsible,  he  seems  to  have  been  a  more  careful
 copyist  than  the  writer  of  K20,  and  supplies  several  words
-and  phrases  omitted  by  the  latter.  The  close  corres-
-pondence of  K20  and  M6  in  most  other  places,  renders  it
+and  phrases  omitted  by  the  latter.  The  close  correspondence of  K20  and  M6  in  most  other  places,  renders  it
 probable  that  they  were  copied  from  the  same  original,
 in  which  case  K20  must  have  been  written  several  years
 earlier  than  M6,  before  the  original  MS.  became  decayed
@@ -1183,8 +1096,7 @@ collection  in  the  Bodleian  Library  at  Oxford,  and  contains
 the  chapters  in  the  following  order : — Chaps.  XV-XXIII,
 I-Vn,i7(to'Aragriver'),XII-XIV,XXIV-XXVII,XXX,
 VII,  12-XI;  followed  by  Sis.  Chap.  XX,  4-17,  also  derived
-from  M6.  Another  is  in  the  library  of  Dastur  Jamaspji  Mino-
-chiharji  at   Bombay,  and   contains  the   chapters  also  in  a
+from  M6.  Another  is  in  the  library  of  Dastur  Jamaspji  Minochiharji  at   Bombay,  and   contains  the   chapters  also  in  a
 dislocated  state  (due  to  the  misplacement  of  folios  in  some
 former  MS.)  as  follows :- Chaps.  XV-XXIII,  I-XI,  5  (to
 'and  the  evil  spirit'),  XII,  2  (from  '  Si/^idav')-XII,  12  (first
@@ -1195,8 +1107,7 @@ Bund.  Chaps.  XII,  12  (from  '  Ah-a^")-XIV,  XXIV-XXVII,
 XXX.     A   third   is  in  the  library  of   Dastur    Noshirvanji
 Jamaspji  at  Poona,  and  contains  the  text  in  the  same  order
 as  M6.     A  fragment  of  the  Pahlavi  text  of  the  Bundahij,
-also  descended  from  M6,  occupies  eight  folios  in  the  Addi-
-tional Oriental  MS.  No.  22,378  in  the  Library  of  the  British
+also  descended  from  M6,  occupies  eight  folios  in  the  Additional Oriental  MS.  No.  22,378  in  the  Library  of  the  British
 Museum  ;  it  contains  Chaps.  XVIII,  XIX,  17,  and  XX,  1-2
 (to  '  one  from  the  other').
 
@@ -1207,8 +1118,7 @@ INTRODUCTION.  XXXI
 
 
 dahis,  written  in  Avesta  characters,  and  likewise  derived
-from  M6.  One  of  the  best  of  these  is  No.  22  of  the  collec-
-tion of  Avesta  and  Pahlavi  MSS.  in  the  India  Office  Library
+from  M6.  One  of  the  best  of  these  is  No.  22  of  the  collection of  Avesta  and  Pahlavi  MSS.  in  the  India  Office  Library
 at  London  ;  it  is  old,  and  has  the  date  a.y.  936  (a.d.  1567)
 in  a  Pahlavi  colophon  on  fol.  iii,  but  this  may  have  been
 copied  from  an  older  MS.;  its  contents  are  arranged  as
@@ -1228,8 +1138,7 @@ the  Pazand  text  are  also  contained  in  the  MSS.  No.  131  at
 Oxford,  already  mentioned  ;  they  consist  of  Chaps.  V,  3-7
 (to  'would  have  known  the  secret')  and  XXV,  18-23.
 Another  fragment,  evidently  copied  from  an  old  MS.,  is
-found  on  fols.  34,  35  of  the  Rivayat  MS.  No.  8  of  the  col-
-lection in  the  India  Office  Library  ;  it  consists  of  Chap.
+found  on  fols.  34,  35  of  the  Rivayat  MS.  No.  8  of  the  collection in  the  India  Office  Library  ;  it  consists  of  Chap.
 XVIII,  1-8.
 
 The  Pazand  text  of  the  Bundahij-,  derived  from  M6,  is
@@ -1241,8 +1150,7 @@ XXX  on  fols.  81-119,  with  Chaps.  XV-XVII  on  fols.  120-
 126,  a  repetition  of  Chap.  XV  and  part  of  XVI  on  fols.
 223-227,  and  Chap.  XXXII  on  fol.  232.
 
-Thus  far,  it  will  be  noticed,  we  have  two  good  indepen-
-dent authorities,  K20  and  M6,  for  ascertaining  the  text  of
+Thus  far,  it  will  be  noticed,  we  have  two  good  independent authorities,  K20  and  M6,  for  ascertaining  the  text  of
 the  Bundahii-  in  the  fourteenth  century,  so  far  as  Chaps.  I-
 
 
@@ -1311,8 +1219,7 @@ With  regard  to  the  age  of  the  older  part  of  this  MS.  we
 can  arrive  at  an  approximation  in  the  following  manner  : —
 A  valuable  MS.  of  the  Da^istan-i  Dinik,  which  also  belongs
 to  Tehmuras  Dinshawji,  was  written  (according  to  a  colophon
-which  it  contains)  by  Gopatshah  Rustom^  Bandar  Malka-
-mar^an  in  the  land  of  Kirman,  who  was  evidently  the  same
+which  it  contains)  by  Gopatshah  Rustom^  Bandar  Malkamar^an  in  the  land  of  Kirman,  who  was  evidently  the  same
 person  as  the  writer  of  TD,  Another  MS.  of  the  Da<:/istan-i
 Dinik  was  written  by  Mar^apan  Frec/un  Vahrom  Rustam
 Bondar  Malka-mar^/an  Din-ayar,  also  in  the  land  of  Kirman,
@@ -1359,18 +1266,14 @@ a7id  deed,  and  the  good  augury  of  all  the  celestial  angels
 and  terrestrial  angels  upon  the  virtuous  creation,  I  beseech.
 
 'Written  at  the  second  fortunate  conjunction  (akhtar)
-in  the  high-priestship  (dastiarih)  of  the  God-devoted,  all-
-sagacious  cultivator  of  righteousness,  the  lover  of  good  works
+in  the  high-priestship  (dastiarih)  of  the  God-devoted,  allsagacious  cultivator  of  righteousness,  the  lover  of  good  works
 who  is  God-discerning,  spirit-surveying,  and  approved  by
-the  good,  the  high-priest  of  the  good  religion  of  the  Maz-
-dayasnians,  the  glorified  ^  Spendya^  son  of  Mah-vinda(^,  sou
+the  good,  the  high-priest  of  the  good  religion  of  the  Mazdayasnians,  the  glorified  ^  Spendya^  son  of  Mah-vinda(^,  sou
 of  Rustom,  son  of  Shatroyar.
 
 'The  writing-  of  the  Bundahi^  was  set  going  by  the
-coming  of  the  Arabs  to  the  country  of  Iran,  whose  hetero-
-doxy (duj--dinih)  and  ignorance  have  arisen  from  not
-understanding  the  mysteries  of  Kayan  ^  orthodoxy  (hu-
-dinoih)  and  of  those  revered  by  the  upholders  of  the
+coming  of  the  Arabs  to  the  country  of  Iran,  whose  heterodoxy (duj--dinih)  and  ignorance  have  arisen  from  not
+understanding  the  mysteries  of  Kayan  ^  orthodoxy  (hudinoih)  and  of  those  revered  by  the  upholders  of  the
 religion.  From  their  deep  seats  it  draws  the  purport  of
 benedictions,  atid  from  dubious  thinking  of  actions  it
 draws  words  of  true  meaning,  the  disclosure  of  which  is
@@ -1386,10 +1289,8 @@ filthy  vice.  He  also  whose  wish  was  to  learn  propriety
 for  himself,  from  various  places,  by  trouble  and  day  and
 night  painstaking,  bnt  was  not  able.'
 
-The  text  of  Chap.  I  then  commences  (without  any  inter-
-mediate stop)  with  the  words  zak  zand-akasih,  'that
-knowledge  of  tradition.'  As  the  whole  text  of  the  Bundahij-
-occupies  about  203  pages  in  TD,  and  each  page  contains
+The  text  of  Chap.  I  then  commences  (without  any  intermediate stop)  with  the  words  zak  zand-akasih,  'that
+knowledge  of  tradition.'  As  the  whole  text  of  the  Bundahijoccupies  about  203  pages  in  TD,  and  each  page  contains
 
 '  Literally,  '  immortal-soulled,'  a  term  implying  generally  that  the  person  is
 dead  ;  but  it  seems  to  have  been  applied  to  King  Khusro  I  (Noshirvan)  during
@@ -1421,8 +1322,7 @@ in  this  volume  (such  chapters  as  seem  to  be  entirely  wanting
 in  K20  being  marked  with  an  asterisk) : —
 
 1.  The  knowledge  of  tradition,  first  about  Auharmazd's
-original  creation  and  the  antagonism  of  the  evil  spirit^  after-
-wards about  the  nature  of  the  creatures  of  the  world,  from
+original  creation  and  the  antagonism  of  the  evil  spirit^  afterwards about  the  nature  of  the  creatures  of  the  world,  from
 the  original  creation  till  the  end  ;  19  pages  ;  see  Chap.  I.
 
 2.  On  the  formation  of  light ;  11  pages  ;  see  Chap.  II.
@@ -1435,8 +1335,7 @@ manner  the  arch-fiends  have  come  spiritually  in  opposition
 to  the  celestial  angels  ;  10  pages ;  see  Chap.  V  for  two  of
 the  middle  pages.
 
-5.  On  the  waging  of  the  conflict  (ar^ik)  of  the  crea-
-tions of  the  world,  encountering  the  evil  spirit ;  i  page ;
+5.  On  the  waging  of  the  conflict  (ar^ik)  of  the  creations of  the  world,  encountering  the  evil  spirit ;  i  page ;
 see  Chap.  VI.
 
 6.  The  second  conflict  the  water  waged  ;  3  pages ;  see
@@ -1464,8 +1363,7 @@ XXXVl  PAHLAVI    TEXTS.
 "^^13.  The  ninth  conflict  the  celestial  angels  waged  with
 the  evil  spirit ;  three  lines.
 
-*I4.  Tenth,  the  stars  practised  non-intermeddling  (agu-
-megisn);  h  page.
+*I4.  Tenth,  the  stars  practised  non-intermeddling  (agumegisn);  h  page.
 
 ■^^15.  On  the  species  of  those  creations  ;  25  pages.
 
@@ -1552,8 +1450,7 @@ as  in  Chaps.  XXXI-XXXIII.
 see  Chap.  XXXIV.
 
 Comparing  this  list  of  contents  with  the  text  in  K20,
-as  published  in  Westergaard's   lithographed  facsimile  edi-
-tion, it  appears  that  TD  contains,  not  only  fifteen  extra
+as  published  in  Westergaard's   lithographed  facsimile  edition, it  appears  that  TD  contains,  not  only  fifteen  extra
 chapters,  but    also   very   much   additional    matter   in    the
 chapters  corresponding  to  Chaps.  I,  II,  V,  XVI,  XXVIII,
 and  XXXI  of  the  translation  in  this  volume,  and  smaller
@@ -1562,8 +1459,7 @@ XVII,  and  XXXIV.     The  arrangement  of  the  chapters  in
 TD   is   also  much  more  methodical   than  in    the   Indian
 MSS.,  especially  with  regard  to  Chaps.  XX,  XXI,  XXII,
 and  XXVII,  which  evidently  occupy  their  proper  position
-in  TD  ;  and  so  far  as  Chap.  XX  is  concerned,  this  arrange-
-ment  is  confirmed  by  the  insertion  of  its  first  sentence
+in  TD  ;  and  so  far  as  Chap.  XX  is  concerned,  this  arrangement  is  confirmed  by  the  insertion  of  its  first  sentence
 between  Chaps.  XIII  and  XIV  in  the  Indian  MSS.,  which
 indicates  that  the  whole  chapter  must  have  been  in  that
 position  in  some   older  copy.     In  fact,  the  Indian  MSS.
@@ -1600,18 +1496,15 @@ can  be  detected  between  the  additional   matter  and  the
 text  hitherto  known,  nor  any  inconsistencies  more  striking
 than  such  as  sometimes  occur  in  the  Indian  MSS.     On  the
 other  hand,  it  will  be  noticed  that  heading  No.  25  in  the
-list  of  contents  seems  to  be  misplaced,  which  is  an  argu-
-ment against  the  text  being  in  its  original  state ;  and  the
+list  of  contents  seems  to  be  misplaced,  which  is  an  argument against  the  text  being  in  its  original  state ;  and  the
 style  of  the  Bundahii-  is  so  much  less  involved  and  obscure
 than  that  of  the  Selections  of  Za^^-sparam  (see  Appendix
 to  the  Bundahii),  which  treat  of  some  of  the  same  subjects,
 that  it   may  be  fairly  suspected   of  having  been  written
 originally  in  a  different  age.     But  the  writer  of  the  text,
-as  it  appears  in  TD,  calls  Za^/-sparam  ^  one  of  his  con-
-temporaries (see  Chap.  XXXIII,  10,  11  of  the  translation);
+as  it  appears  in  TD,  calls  Za^/-sparam  ^  one  of  his  contemporaries (see  Chap.  XXXIII,  10,  11  of  the  translation);
 it  may,  therefore,  be  suspected  that  he  merely  re-edited
-an  old  text  with  some  additions  of  his  own,  which,  how-
-ever, are  rather  difficult  to  distinguish  from  the  rest.     No
+an  old  text  with  some  additions  of  his  own,  which,  however, are  rather  difficult  to  distinguish  from  the  rest.     No
 stress  can  be  laid  upon  peculiarities  of  orthography  in  TD,
 as  they  are,  in  all  likelihood,  attributable  to  copyists  long
 subsequent  to  Za^-sparam's  contemporaries.
@@ -1659,18 +1552,15 @@ may  be  translated  as  follows  : —
 
 '[....  Sahm^  was  in  those  reigns  <?/"Auz6b6,  Kava^,
 and  Maniu/i'ihar.]  Kai-Kayus,  till  Jiis  going  to  the  sky,
-seventy-five  years,  and  after  that,  seventy-five  years,  alto-
-gether a   hundred    and    fifty    years ;    Kai-Khusrobo    sixty
+seventy-five  years,  and  after  that,  seventy-five  years,  altogether a   hundred    and    fifty    years ;    Kai-Khusrobo    sixty
 
 
-^  I  am  indebted  to  Professor  G.  Hoffmann,  of  Kiel,  for  directing  my  atten-
-tion to  this  fragment,  and  also  for  kindly  sending  me  a  facsimile  of  it.  It  had
+^  I  am  indebted  to  Professor  G.  Hoffmann,  of  Kiel,  for  directing  my  attention to  this  fragment,  and  also  for  kindly  sending  me  a  facsimile  of  it.  It  had
 been  recognised  as  a  portion  of  the  Bundahis  by  Dr.  Andreas  some  years  ago,
 and  probably  by  the  owner  of  the  MS.,  the  late  Professor  Westergaard,  long
 before  that.
 
-^  See  Bund.  XXXI,  -27.  As  the  beginning  of  this  sentence  is  lost,  it^  trans-
-lation is  uncertain.  Details  not  found  in  K20  and  M6  are  here  enclosed  in
+^  See  Bund.  XXXI,  -27.  As  the  beginning  of  this  sentence  is  lost,  it^  translation is  uncertain.  Details  not  found  in  K20  and  M6  are  here  enclosed  in
 brackets,  and  words  added  by  the  translator  to  complete  the  sense  are  printed
 in  italics.
 
@@ -1693,16 +1583,14 @@ years ;  Darai,  son  of  Darai,  fourteen  years ;  and  Alexander
 the  Ruman^  fourteen  years.
 
 '  The  Ai-kanians  should  bear  the  title  in  an  uninterrupted
-sovereignty  two  hundred  and  so  many"*  years  ;  and  Artakh-
-shatar,  son  of  Papak,  and  the  number  of  the  Sasanians  bear
+sovereignty  two  hundred  and  so  many"*  years  ;  and  Artakhshatar,  son  of  Papak,  and  the  number  of  the  Sasanians  bear
 it  four  hundred  and  sixty  years,  until  the  withering  Arabs
 obtained  a  place  ^  [as  far  as  the  year  447  of  the  Persians  ;
 now  //  is  the  Persian  year  527]^.'
 
 The  colophon,  which  follows,  states  that  the  MS.  was
 finished  on  the  thirteenth  day  of  the  ninth  month  A.Y.  936
-(a.  D.  1567),  and  was  written  by  Mitro-apan,  son  of  Anoshak-
-ruban,  son  of  Rustam.  This  MS.  is,  therefore,  of  nearly  the
+(a.  D.  1567),  and  was  written  by  Mitro-apan,  son  of  Anoshakruban,  son  of  Rustam.  This  MS.  is,  therefore,  of  nearly  the
 same  age  as  TD  ;  but  there  has  been  no  opportunity  of
 collating  the  fragment  of  it,  which  is  still  extant,  with  the
 corresponding  portion  of  TD.  That  it  was  a  MS.  of  the
@@ -1742,8 +1630,7 @@ folio  130.  According  to  this  calculation,  the  original  extent
 of  the  text  of  the  Bundahij-  in  this  MS.  must  have  been
 very  nearly  30,000  words ;  and  it  is  remarkable  that  a
 similar  calculation  of  the  extent  of  the  text  in  TD,  based
-upon  the  actual  contents  of  ten  folios  out  of  103,  gives  pre-
-cisely the  same  result.  This  coincidence  is  a  strong  argu-
+upon  the  actual  contents  of  ten  folios  out  of  103,  gives  precisely the  same  result.  This  coincidence  is  a  strong  argu-
 ment in  favour  of  the  absolute  identity  of  the  text  lost  from
 Westergaard's  MS.  with  that  actually  existing  in  TD  ;  it
 shows,  further,  that  the  original  extent  of  the  Bundahij  may
@@ -1765,16 +1652,14 @@ each  writer's  special  misinterpretation  of  the  text,  it  is
 unnecessary  to  detail  them.  The  only  indication  of  its
 age  that  can  be  fairly  obtained  from  internal  evidence,
 is  that  the  text  of  the  Bundahij'  could  not  have  been
-completed,  in  its  present  form,  until  after  the  Muham-
-madan  conquest  of  Persia  (a.  D.  651).  This  is  shown  not
+completed,  in  its  present  form,  until  after  the  Muhammadan  conquest  of  Persia  (a.  D.  651).  This  is  shown  not
 only  by  the  statements  that  the  sovereignty  '  went  to  the
 Arabs '  (Chap.  XXXIV,  9),  that  '  now,  tJiroiigh  the  invasion
 of  the  Arabs,  they  (the  negroes)  are  again  diffused  through
 the  country  of  Iran'  (Chap.  XXIII,  3),  and  that  'whoever
 keeps  the  year  by  the  revolution  of  the  moon  mingles
 summer  with  winter  and  winter  with  summer '  (Chap.  XXV,
-19,  referring  probably  to  the  Muhammadan  year  not  cor-
-responding with    the   seasons),  but   also,   more   positively
+19,  referring  probably  to  the  Muhammadan  year  not  corresponding with    the   seasons),  but   also,   more   positively
 
 
 xlii  PAHLAVI    TEXTS.
@@ -1785,28 +1670,24 @@ by   the   following   translation   of  an   extract    from   Chap.
 
 'And  when  the  sovereignty  came  to  Yazdakar^  he
 exercised  sovereignty  twenty  years,  and  then  the  Arabs
-rushed  into  the  country  of  Iran  in  great  multitude.  Yaz-
-dakari^  did  not  prosper  (la  j-akafto)  in  warfare  with  them,
+rushed  into  the  country  of  Iran  in  great  multitude.  Yazdakari^  did  not  prosper  (la  j-akafto)  in  warfare  with  them,
 and  went  to  Khurasan  and  Turkistan  to  seek  horses,  men,
 and  assistance,  and  was  slain  by  them  there.  The  son  of
 Yazdakar^  went  to  the  Hindus  and  fetched  an  army  of
 champions  ;  before  it  came,  conducted  unto  Khurasan,  that
-army  of  champions  dispersed.  The  country  of  Iran  re-
-mained with  the  Arabs,  and  their  own  irreligious  law  was
+army  of  champions  dispersed.  The  country  of  Iran  remained with  the  Arabs,  and  their  own  irreligious  law  was
 propagated  by  them,  and  many  ancestral  customs  were
 destroyed ;  the  religion  of  the  Mazdayasnians  was  weakened,
 and  washing  of  corpses,  burial  of  corpses,  and  eating  of
 dead  matter  were  put  in  practice.  From  the  original
 creation  until  this  day  evil  more  grievous  than  this  has
 not  happened,  for  through  their  evil  deeds — on  account
-of  want,  foreign  habits  (Aniranih),  hostile  acts,  bad  de-
-crees, and  bad  religion — ruin,  want,  and  other  evils  have
+of  want,  foreign  habits  (Aniranih),  hostile  acts,  bad  decrees, and  bad  religion — ruin,  want,  and  other  evils  have
 taken  lodgment.'
 
 None  of  these  passages  could  have  been  written  before
 the  Muhammadan  conquest ;  but  the  writer,  or  editor,  of
-the  text  as  it  appears  in  TD,  supplies  the  means  of  ap-
-proximating much  more  closely  to  the  date  of  his  work,
+the  text  as  it  appears  in  TD,  supplies  the  means  of  approximating much  more  closely  to  the  date  of  his  work,
 in  a  passage  in  Chap.  41  of  TD,  in  which  he  mentions  the
 names  of  several  of  his  contemporaries  (see  Chap.  XXXIII,
 10,  1 1),  Among  these,  as  already  noticed,  he  mentions
@@ -1828,8 +1709,7 @@ INTRODUCTION.  xliii
 
 
 high-priest  of  Pars  and  Kirman  in  A,  Y,  250  (a.  D.  881).
-This  date  may,  therefore,  be  taken  as  a  very  close  ap-
-proximation to  the  time  at  which  the  Bundahij-  probably
+This  date  may,  therefore,  be  taken  as  a  very  close  approximation to  the  time  at  which  the  Bundahij-  probably
 assumed  the  form  we  find  in  TD  ;  but  that  MS.,  having
 been  written  about  650  years  later,  can  hardly  have  been
 copied  direct  from  the  original.  Whether  that  original
@@ -1840,8 +1720,7 @@ Avesta  of  the  Damda*^  Nask,  in  the  ninth  century,  we
 have  no  means  of  determining  with  certainty.  Judging,
 however,  from  Chap.  I,  i,  the  original  Bundahii^  probably
 ended  with  the  account  of  the  resurrection  (Chap.  XXX),
-and  the  extra  chapters,  containing  genealogical  and  chro-
-nological details  (matters  not  mentioned  in  Chap.  I,  i),
+and  the  extra  chapters,  containing  genealogical  and  chronological details  (matters  not  mentioned  in  Chap.  I,  i),
 together  with  all  allusions  to  the  Arabs,  were  probably
 added  by  the  revising  editor  in  the  ninth  century.  The
 last,  or  chronological,  chapter  may  even  have  been  added
@@ -1856,8 +1735,7 @@ Jamasp  Asa,  and  a  revised  edition  of  it  was  published  by
 Peshutan  Rustam  in  1877^.  In  the  preface  to  the  latter
 edition  it  is  stated  that  the  translator  made  use  of  two
 MSS.,  one  being  a  copy  of  a  manuscript  written  in  Iran
-in  A. Y.  776  by  Rustamji  Meherwanji  Mar^aban  She-
-heriar^,  and  the  other  a  MS.  written  in  India  by  Dastur
+in  A. Y.  776  by  Rustamji  Meherwanji  Mar^aban  Sheheriar^,  and  the  other  a  MS.  written  in  India  by  Dastur
 Jamshedji  Jamaspji  in  A.  Y.  1139^.  It  is  also  mentioned
 that  he  was  four  years  at  work  upon  his  translation.  The
 editor  of  the  new  edition  states  that  he  has  laboured  to
@@ -1868,8 +1746,7 @@ hakikat ;  bi^-var  sudharine  ^Aapawanar,  Peshutan  bin  Rustam  ;  Mu?nbai,  
 ^  There  is  no  doubt  whatever  that  the  writer  of  the  preface  is  referring  to
 M6,  although  his  description  is  incorrect.  M6  was  written  at  Bhro^  in  India
 A.  Y.  766  by  Peshotan  Ram  Kamdin  Shaharyar  Neryosang  Shahmard  Shaharyar
-Bahram  AOrmazdyar  Ramyar ;  but  some  portion  of  it  (proljably  not  the  Bun-
-dahis)  was  copied  from  a  MS.  written  a.  y.  6i8  (a.  d.  1249)  by  Rustarn  Mihir-
+Bahram  AOrmazdyar  Ramyar ;  but  some  portion  of  it  (proljably  not  the  Bundahis)  was  copied  from  a  MS.  written  a.  y.  6i8  (a.  d.  1249)  by  Rustarn  Mihir-
 apan  Marzapan  Dahi.m-ayar,  who  must  be  the  copyist  mentioned  in  the  preface
 to  the  Gu^arati  translation.
 
@@ -1895,8 +1772,7 @@ Mount  Albor^,  of  the  twelve  signs  of  the  zodiac,  of  the
 stars,   of  the  soul,   of  the  first  practices  adopted  by  the
 creatures  of  the  evil  spirit  Ahereman,  of  Ahereman's  first
 breaking  into  the  sky,  of  Ahereman's  coming  upon  the
-primeval  ox,  of  Ahereman's  arrival  in  the  fire^  of  Ahere-
-man's coming  upon   Gaiomard,  of  the  coming  of  Ahura-
+primeval  ox,  of  Ahereman's  arrival  in  the  fire^  of  Ahereman's coming  upon   Gaiomard,  of  the  coming  of  Ahura-
 mazd  and  Ahereman  upon  Gaiomard  at  the  time  of  his
 creation,  of  the  lustre   residing   in   both    spirits ;    further
 account  of  the  arrangement  of  the  sky,  another  account
@@ -1910,8 +1786,7 @@ Ahereman  had  distributed  over  the  earth,  of  the  prophet
 Zarathost's  asking  the  creator  Ahuramazd  how  long  these
 noxious  creatures  will  remain  in  the    latter  millenniums,
 of  driving  the  poison  of  the  noxious  creatures  out  of  the
-earth,  of  the  divisions  of  the  land,  of  the  creator  Ahura-
-mazd's placing  valiant  stars  as  club-bearers  over  the  heads
+earth,  of  the  divisions  of  the  land,  of  the  creator  Ahuramazd's placing  valiant  stars  as  club-bearers  over  the  heads
 of  the  demons,  of  all  the  things  produced  by  the  passing
 away  of  the  primeval  ox,  of  the  282  species  of  beasts  and
 birds,    of  the   bird    named   Kamros,    of  the    bird    named
@@ -1942,8 +1817,7 @@ of  the  orders  given  by  Ahereman  to  the  demons  when  the
 creator  Ahuramazd  created  the  creatures,  of  the  weeping
 and  raging  of  the  evil  spirit  Ahereman,  of  the  weeping  of
 the  demon  of  Wrath  in  the  presence  of  Ahereman  when
-the  prophet  Zarathost  brought  the  religion,  of  the  compu-
-tation of  twelve  thousand  years.
+the  prophet  Zarathost  brought  the  religion,  of  the  computation of  twelve  thousand  years.
 
 The  headings  of  the  thirteen  chapters,  which  form  the
 second  part,  are :  —  Account  of  the  last  millenniums,  of
@@ -1959,8 +1833,7 @@ and  sky  one  after  the  resurrection,  of  the  proceedings  of
 all  creatures  after  the  resurrection.
 
 The  third  part  contains  an  abstract  of  the  contents  of
-the  hundred  chapters  of  the  Sad-dar  Bundahii-,  and  con-
-cludes with  an  account  of  the  ceremonial  formula  practised
+the  hundred  chapters  of  the  Sad-dar  Bundahii-,  and  concludes with  an  account  of  the  ceremonial  formula  practised
 when  tying  the  kusti  or  sacred  thread-girdle.
 
 
@@ -1969,8 +1842,7 @@ Xlvi  PAHLAVI    TEXTS.
 
 4.  The  Selections  of  Zaz>-sparam.
 
-In  some  manuscripts  of  the  Da^istan-i  Dinik  the  ninety-
-two  questions  and  answers,  which  usually  go  by  that  name,
+In  some  manuscripts  of  the  Da^istan-i  Dinik  the  ninetytwo  questions  and  answers,  which  usually  go  by  that  name,
 are  preceded  and  followed  by  Pahlavi  texts  which  are  each
 nearly  equal  in  extent  to  the  questions  and  answers,  and
 treat  of  a  variety  of  subjects,  somewhat  in  the  manner  of
@@ -1981,8 +1853,7 @@ Incantations  for  fever,  &c. ;  indications  afforded  by
 natural  marks  on  the  body;  about  the  hamistakan  ('the
 ever-stationary,'  or  neutral  state  of  future  existence)  and
 the  different  grades  in  heaven ;  copy  of  an  epistle  ^  from
-Herbad  Manuj/tihar  son  of  Yudan-Yim^,  which  he  ad-
-dressed to  the  good  people  of  Sirkan  ^,  about  the  decisions
+Herbad  Manuj/tihar  son  of  Yudan-Yim^,  which  he  addressed to  the  good  people  of  Sirkan  ^,  about  the  decisions
 pronounced  by  Herbad  Za^-sparam  son  of  Yudan-Yim  ;
 copy  of  a  letter  from  Herbad  Manuj^ihar  son  of  Yudan-
 Yim  to  his  brother,  Herbad  Za^-sparam,  on  the  same
@@ -2002,8 +1873,7 @@ that  he  was  Mobad  of  Mobads  and  a  commentator.  Now  this  is  the  name
 a  commentator  quoted  in  the  Pahlavi  Vend.  Ill,  151,  V,  112,  VIII,  64,  and  very
 frequently  in  the  Nirangistan  ;  it  is  also  a  title  applied  to  Arc?a-Viraf  (see  AY.
 J,  35).  These  facts  seem  to  limit  the  age  of  the  last  revision  of  the  Pahlavi
-Vendidad,  and  of  the  composition  of  the  Pahlavi  Nirangistan  and  Art/a -Viraf-
-namak  to  the  time  of  King  Khilsro  Noshirvan  (a.d.  531-579).  The  statement
+Vendidad,  and  of  the  composition  of  the  Pahlavi  Nirangistan  and  Art/a -Virafnamak  to  the  time  of  King  Khilsro  Noshirvan  (a.d.  531-579).  The  statement
 depends,  of  course,  upon  the  accuracy  of  a  tradition  three  centuries  old,  as
 this  epistle  must  have  been  written  about  a.  d.  880.
 
@@ -2020,8 +1890,7 @@ INTRODUCTION.  xlvli
 with  legends  regarding  Zaratujt  and  his  family  ;  the  second
 part  about  the  formation  of  men  out  of  body,  life,  and
 soul ;  and  the  third  part  about  the  details  of  the  renovation
-of  the  universe.  The  last  part  of  these  Selections  is  in-
-complete in  all  known  MSS.,  and  is  followed  by  some
+of  the  universe.  The  last  part  of  these  Selections  is  incomplete in  all  known  MSS.,  and  is  followed  by  some
 fragments  of  a  further  series  of  questions  and  answers
 regarding  the  omniscient  wisdom,  the  evil  spirit,  Kangde^,
 the  enclosure  formed  by  Yim,  &c.
@@ -2033,12 +1902,10 @@ this  volume,  because  the  language  used  in  these  Selections
 seems  to  have  an  important  bearing  upon  the  question  of
 the  age  of  the  Bundahij-.  The  time  when  the  Selections
 themselves  were  written  is  fixed  with  considerable  precision
-by  the  date  (a.  D.  881);,  when  their  author's  brother,  Manu-
-skihsLV,  issued  his  public  notice,  as  mentioned  above.  But
+by  the  date  (a.  D.  881);,  when  their  author's  brother,  ManuskihsLV,  issued  his  public  notice,  as  mentioned  above.  But
 Za^-sparam  uses,  in  many  places,  precisely  the  same  words
 as  those  employed  in  the  Bundahij-,  interspersed  with  much
-matter  written  in  a  more  declamatory  style  ;  it  is,  there-
-fore, evident  that  he  had  the  Bundahij-  before  him  to  quote
+matter  written  in  a  more  declamatory  style  ;  it  is,  therefore, evident  that  he  had  the  Bundahij-  before  him  to  quote
 from,  and  that  work  must  consequently  have  been  written
 either  by  one  of  his  contemporaries,  or  by  an  older  writer.
 So  far  the  Selections  merely  confirm  the  information  already
@@ -2046,8 +1913,7 @@ obtained  more  directly  from  TD  (see  p.  xxxviii) ;  but  the
 involved  style  of  their  language  seems  to  prove  more  than
 this.  In  fact,  in  none  of  the  text  of  the  Da^istan-i  Dinik
 and  its  accompaniments  is  there  much  of  the  simplicity  of
-style  and  directness  of  purpose  which  are  the  chief  cha-
-racteristics of  most  of  the  language  of  the  Bundahij'.  So
+style  and  directness  of  purpose  which  are  the  chief  characteristics of  most  of  the  language  of  the  Bundahij'.  So
 far,  therefore,  as  style  can  be  considered  a  mark  of  age,
 rather  than  a  mere  personal  peculiarity  of  a  contemporary
 writer,  the  contrast  between  the  straightforward  language
@@ -2055,8 +1921,7 @@ of  the  Bundahij-  and  the  laboured  sentences  of  Manuj-z^ihar
 and  Za^-sparam,  sons  of  Yudan-Yim,  tends  to  prove  that
 the  bulk  of  the  Bundahii-  was  already  an  old  work  in  their
 days,  and  was  probably  saved  from  oblivion  through  their
-writings  or  influence.  That  this  original  Bundahii-  or  Zand-
-akas  was  an   abridged    translation  of  the  Avesta  of  the
+writings  or  influence.  That  this  original  Bundahii-  or  Zandakas  was  an   abridged    translation  of  the  Avesta  of  the
 
 
 xlviii  PAHLAVI    TEXTS.
@@ -2077,8 +1942,7 @@ including  time ;  the  incursion  of  the  evil  spirit  and  his
 temporary  success  in  deranging  the  creation,  with  the  reason
 why  he  was  unable  to  destroy  the  primitive  man  for  thirty
 years ;  followed  by  the  seven  contests  he  carried  on  with
-the  sky,  water,  earth,  plants,  animals,  man,  and  fire,  respec-
-tively, detailing  how  each  of  these  creations  was  modified
+the  sky,  water,  earth,  plants,  animals,  man,  and  fire,  respectively, detailing  how  each  of  these  creations  was  modified
 in  consequence  of  the  incursion  of  the  evil  spirit.  In  the
 account  of  the  first  of  these  contests  the  Pahlavi  translation
 of  one  stanza  in  the  Gathas  is  quoted  verbatim,  showing  that
@@ -2089,16 +1953,14 @@ been  translated.
 
 With  regard  to  the  Pahlavi  text  of  the  Selections,  the
 present  translator  has  been  compelled  to  rely  upon  a  single
-manuscript  of  the  Dart'istan-i  Dinik,  brought  by  Wester-
-gaard  from  Kirman  ^  in  1843,  and  now  No.  35  of  the  collec-
+manuscript  of  the  Dart'istan-i  Dinik,  brought  by  Westergaard  from  Kirman  ^  in  1843,  and  now  No.  35  of  the  collec-
 tion of  Avesta  and  Pahlavi  MSS.  in  the  University  Library
 at  Kopenhagen ;  it  may,  therefore,  be  called  K35.  This
 MS.  is  incomplete,  having  lost  nearly  one-third  of  its  original
 bulk,  but  still  contains  181  folios  of  large  octavo  size,  written
 fifteen  to  seventeen  lines  to  the  page ;  the  first  seventy-one
 folios  of  the  work  have  been  lost,  and  about  thirty-five  folios
-are  also  missing  from  the  end  ;  but  the  whole  of  the  ninety-
-two  questions  and  answers,  together  with  one-third  of  the
+are  also  missing  from  the  end  ;  but  the  whole  of  the  ninetytwo  questions  and  answers,  together  with  one-third  of  the
 
 '  That  is,  so  far  as  the  late  Professor  Westergaard  could  remember  in  1878,
 when  he  kindly  lent  me  the  MS.  for  collation  with  my  copy  of  the  text,  already
@@ -2133,11 +1995,9 @@ recovered,  is  in  the  library  of  Dastur  Jamaspji  Minochiharji ;
 it  is  a  modern  copy,  written  at  different  periods  from  forty
 to  sixty  years  ago,  and  is  incomplete,  as  it  contains  only
 one-fourth  of  the  texts  which  usually  follow  the  ninety-two
-questions  and  answers,  and  includes  no  portion  of  the  Selec-
-tions of  Za<^-sparam.
+questions  and  answers,  and  includes  no  portion  of  the  Selections of  Za<^-sparam.
 
-Another  MS.  of  the  Da<^istan-i  Dinik  and  its  accompani-
-ments, written  also  at  Kirman,  but  two  generations  earlier
+Another  MS.  of  the  Da<^istan-i  Dinik  and  its  accompaniments, written  also  at  Kirman,  but  two  generations  earlier
 than  K35  (say,  about  A.D.  1530),  has  been  already  mentioned
 (see  p.  xxxiii).  It  is  said  still  to  contain  227  folios,  though
 its  first  seventy  folios  are  missing  ;  it  must,  therefore,  begin
@@ -2145,8 +2005,7 @@ very  near  the  same  place  as  K35,  but  extends  much  further,
 as  it  supplies  about  half  the  text  still  missing  from  the
 
 
->  The  fact  of  its  being  a  copy  of  K35  is  proved  by  strong  circumstantial  evi-
-dence.  In  the  first  place,  it  contains  several  false  readings  which  are  clearly
+>  The  fact  of  its  being  a  copy  of  K35  is  proved  by  strong  circumstantial  evidence.  In  the  first  place,  it  contains  several  false  readings  which  are  clearly
 due  to  mis-shapen  letters  and  accidental  marks  in  K35,  so  that  it  is  evidently
 descended  from  that  MS.  But  it  is  further  proved  to  have  been  copied  direct
 from  that  MS.,  by  the  last  words  in  thirty-two  of  its  pages  having  been  marked
@@ -2154,9 +2013,6 @@ with  interlined  circles  in  K35  ;  the  circle  having  been  the  copyist's
 finding  his  place,  when  beginning  a  new  page  after  turning  over  his  folios.
 
 [5]  d
-
-
-1  PAHLAVI    TEXTS.
 
 
 Bombay  copy  of  K35,  though  it  has  lost  about  fourteen
@@ -2186,15 +2042,13 @@ of  a  thousand  years.     It  states,  further,  that  the  commen-
 
 A
 
-taries  of  the  Vohuman,  Horvada^,  and  Ai-ta^  Ya^-ts  men-
-tioned the  heretic  Mazdak,  and  that  Khusro  Noshirvan
+taries  of  the  Vohuman,  Horvada^,  and  Ai-ta^  Ya^-ts  mentioned the  heretic  Mazdak,  and  that  Khusro  Noshirvan
 summoned  a  council  of  high-priests  and  commentators,  and
 ordered  them  not  to  conceal  these.  Yaj-ts,  but  to  teach  the
 commentary  only  among  their  own  relations.
 
 The  text  then  proceeds  (Chap.  II)  to  give  the  details  of
-the  commentary  on  the  Vohuman  Ya^-t  as  follows  : — Zara-
-tu^t,  having  again  asked  Auharmazd  for  immortality,  is
+the  commentary  on  the  Vohuman  Ya^-t  as  follows  : — Zaratu^t,  having  again  asked  Auharmazd  for  immortality,  is
 refused,  but  is  again  supplied  with  omniscient  wisdom  for  a
 week,  during  which  time  he  sees,  among  other  things,  a  tree
 wdth  seven  branches  of  different  metals,  which  are  again
@@ -2209,8 +2063,7 @@ INTRODUCTION.  li
 
 
 Iran  is  to  be  invaded  from  the  east  by  hordes  of  demons  or
-idolators  with  dishevelled  hair,  who  are  to  work  much  mis-
-chief, so  as  to  destroy  the  greater  part  of  the  nation  and
+idolators  with  dishevelled  hair,  who  are  to  work  much  mischief, so  as  to  destroy  the  greater  part  of  the  nation  and
 mislead  the  rest,  until  the  religion  becomes  nearly  extinct.
 The  details  of  this  mischief,  written  in  a  tone  of  lamentation,
 constitute  the  greater  part  of  the  text,  which  also  notices
@@ -2222,10 +2075,8 @@ Distressed  at  this  narrative  ZaratuJt  asks  Auharmazd
 (Chap.  Ill,  i)  how  the  rehgion  is  to  be  restored,  and  these
 demons  destroyed  ?  He  is  informed  that,  in  the  course  of
 time,  other  fiends  with  red  banners,  red  weapons,  and  red
-hats,  who  seem  to  be  Christians,  will  appear  in  the  north-
-west, and  will  advance  either  to  the  Arvand  (Tigris)  or  the
-Euphrates,  driving  back  the  former  demons  who  will  assem-
-ble all  their  allies  to  a  great  conflict,  one  of  the  three
+hats,  who  seem  to  be  Christians,  will  appear  in  the  northwest, and  will  advance  either  to  the  Arvand  (Tigris)  or  the
+Euphrates,  driving  back  the  former  demons  who  will  assemble all  their  allies  to  a  great  conflict,  one  of  the  three
 great  battles  of  the  religions  of  the  world,  in  which  the
 wicked  will  be  so  utterly  destroyed  that  none  will  be  left
 to  pass  into  the  next  millennium.
@@ -2246,8 +2097,7 @@ women.
 
 The  writer  then  proceeds  to  describe  the  supernatural
 agencies  employed  to  produce  this  result :  how  the  evil
-spirit  (III,  24)  comes  to  the  assistance  of  the  demon-
-worshippers  ;  how  Auharmazd  sends  his  angels  to  Kangde^,
+spirit  (III,  24)  comes  to  the  assistance  of  the  demonworshippers  ;  how  Auharmazd  sends  his  angels  to  Kangde^,
 to  summon  Peshyotanu,  the  immortal  son  of  Vi.ftasp,  with
 his  disciples,  to  re-establish  the  sacred  fires  and  restore  the
 
@@ -2263,17 +2113,14 @@ to  destroy  the  fiendish  races,  as  already  detailed,  and
 Peshyotanu  becomes  supreme  high-priest  of  the  Iranian
 world.
 
-Finally,  the  writer  gives  some  details  regarding  the  mis-
-sions of  the  last  three  apostles,  returning  for  that  purpose
+Finally,  the  writer  gives  some  details  regarding  the  missions of  the  last  three  apostles,  returning  for  that  purpose
 (III,  44)  to  the  birth  of  Hlashe^^ar,  the  first  of  the  three,  whose
 millennium  witnesses  both  the  invasion  and  the  destruction
-of  the  fiendish  races.  Hushe-^ar  proves  his  apostolic  au-
-thority, to  the  satisfaction  of  Vai^avand  and  the  people,  by
+of  the  fiendish  races.  Hushe-^ar  proves  his  apostolic  authority, to  the  satisfaction  of  Vai^avand  and  the  people,  by
 making  the  sun  stand  still  for  ten  days  and  nights.  His
 mission  is  to  '  bring  the  creatures  back  to  their  proper
 state;'  and  it  is  not  till  near  the  end  of  his  millennium  that
-Peshyotanu  appears,  as  before  described.  As  this  millen-
-nium begins  with  the  invasion  of  the  fiendish  races  and  the
+Peshyotanu  appears,  as  before  described.  As  this  millennium begins  with  the  invasion  of  the  fiendish  races  and  the
 fall  of  the  Sasanian  dynasty,  it  must  have  terminated  in  the
 seventeenth  century,  unless  it  was  to  last  more  than  a
 thousand  years.  A  very  brief  account  is  then  given  of
@@ -2284,27 +2131,23 @@ progressive'  and  to  destroy  'the  fiend  of  serpent  origin'
 now  in  progress)  mankind  become  so  skilled  in  medicine
 that  they  do  not  readily  die ;  but  owing  to  their  toleration
 of  heretics  the  evil  spirit  once  more  attains  power,  and
-releases  A^^-i  Dahak,  from  his  confinement  in  Mount  Dima-
-vand,  to  work  evil  in  the  world,  till  Auharmazd  sends  his
+releases  A^^-i  Dahak,  from  his  confinement  in  Mount  Dimavand,  to  work  evil  in  the  world,  till  Auharmazd  sends  his
 angels  to  rouse  Keresasp  the  Saman,  who  rises  from  his
 trance  and  kills  A^-i  Dahak  with  his  club  at  the  end  of  the
 millennium.  Afterwards,  Soshyans,  the  last  apostle,  appears
 to  'make  the  creatures  again  pure;'  when  the  resurrection
 takes  place  and  the  future  existence  commences.
 
-Whether  this  text,  as  now  extant,  be  the  original  com-
-mentary or  Zand  of  the  Vohuman  Yaj-t  admits  of  doubt,
+Whether  this  text,  as  now  extant,  be  the  original  commentary or  Zand  of  the  Vohuman  Yaj-t  admits  of  doubt,
 since  it  appears  to  quote  that  commentary  (Chap.  II,  i)  as
-an  authority  for  its  statements ;  it  is,  therefore,  most  pro-
-bably, only  an  epitome  of  the  original  commentary.  Such
+an  authority  for  its  statements ;  it  is,  therefore,  most  probably, only  an  epitome  of  the  original  commentary.  Such
 an  epitome  would  naturally  quote  many  passages  verbatim
 
 
 INTRODUCTION.  liil
 
 
-from  the  original  work,  which  ought  to  bear  traces  of  trans-
-lation from  an  Avesta  text,  as  its  title  zand  implies  a
+from  the  original  work,  which  ought  to  bear  traces  of  translation from  an  Avesta  text,  as  its  title  zand  implies  a
 Pahlavi  translation  from  the  Avesta  (see  p.  x).  There  are,
 in  fact,  many  such  traces  in  this  epitome,  as  indicated  by
 the  numerous  sentences  beginning  with  a  verb,  the  mode  of
@@ -2327,17 +2170,14 @@ written  about  five  hundred  years  ago,  and  that  this  copy  is
 evidently  descended  from  older  manuscripts  as  it  contains
 several  clerical  blunders  incompatible  with  any  idea  of  its
 being  the  original  manuscript,  as  witness  the  omissions  noted
-in  Chaps.  II,  10,  13,  14,  33,  37,  45,  III,  30,  33,  the  misplace-
-ment of  II,  18,  and  many  miswritings  of  single  words.
+in  Chaps.  II,  10,  13,  14,  33,  37,  45,  III,  30,  33,  the  misplacement of  II,  18,  and  many  miswritings  of  single  words.
 Owing  to  the  threefold  character  of  the  work,  already
 noticed,  the  internal  evidence  of  its  age  can  only  apply  to
 its  last  recension  in  the  form  of  an  epitome,  as  an  oriental
 editor  (to  say  nothing  of  others)  generally  considers  himself
-at  liberty  to  alter  and  add  to  his  text,  if  he  does  not  under-
-stand it,  or  thinks  he  can  improve  it.  That  this  liberty
+at  liberty  to  alter  and  add  to  his  text,  if  he  does  not  understand it,  or  thinks  he  can  improve  it.  That  this  liberty
 has  been  freely  exercised,  with  regard  to  these  professed
-prophecies,  is  shown  by  the  identification  of  the  four  pro-
-phetical ages  of  the  StU(/gar  Nask  in  the  first  chapter  of
+prophecies,  is  shown  by  the  identification  of  the  four  prophetical ages  of  the  StU(/gar  Nask  in  the  first  chapter  of
 the  Bahman  Ya^t  being  different  from  that  given  in  the
 Dinkar^.  The  Dinkar<^  quotes  the  Stu^^gar  Nask  (that  is,
 its  Pahlavi  version)  as  identifying  the  iron  age  with  some
@@ -2354,24 +2194,20 @@ age  with  the  reign  of  an  idolatrous  race  subsequent  to  the
 time  ofKhusro  Ndshirvan  (a.d.  531-579).  This  example
 is  sufficient  to  show  that  the  compiler  of  the  extant  epitome
 of  the  Bahman  Ya.ft  commentary  largely  availed  himself  of
-his  editorial  license,  and  it  indicates  the  difficulty  of  dis-
-tinguishing his  statements  from  those  of  the  former  editors.
+his  editorial  license,  and  it  indicates  the  difficulty  of  distinguishing his  statements  from  those  of  the  former  editors.
 At  the  same  time  it  proves  that  the  epitome  could  not  have
 been  compiled  till  after  Iran  had  been  overrun  by  a  foreign
 race  subsequent  to  the  reign  of  Khusro  Noshirvan.  It  is
 remarkable  that  the  compiler  does  not  mention  any  later
 Sasanian  king,  that  he  does  not  allude  to  Muhammadanism,
-and  speaks  of  the  foreign  invaders  as  Turanians  and  Chris-
-tians, only  mentioning  Arabs  incidentally  in  later  times  ;
-at  the  same  time  the  foreign  invasion  (which  lasts  a  thou-
-sand years)  is  of  too  permanent  a  character  to  allow  of
+and  speaks  of  the  foreign  invaders  as  Turanians  and  Christians, only  mentioning  Arabs  incidentally  in  later  times  ;
+at  the  same  time  the  foreign  invasion  (which  lasts  a  thousand years)  is  of  too  permanent  a  character  to  allow  of
 its  having  reference  merely  to  the  troublous  times  of
 Noshirvan's  successor.
 
 Perhaps  the  most  reasonable  hypotheses  that  can  be
 founded  upon  these  facts  are,  first,  that  the  original  zand
-or  commentary  of  the  Bahman  Ya^t  was  written  and  trans-
-lated from  the  Avesta  in  the  latter  part  of  the  reign  of
+or  commentary  of  the  Bahman  Ya^t  was  written  and  translated from  the  Avesta  in  the  latter  part  of  the  reign  of
 Khusro  Noshirvan,  or  very  shortly  afterwards,  which  would
 account  for  no  later  king  being  mentioned  by  name ;  and,
 secondly,  that  the  epitome  now  extant  was  compiled  by
@@ -2386,8 +2222,7 @@ of  the  date  of  the  extant  manuscript  of  his  work,  which  has
 no  appearance  of  being  an  immediate  copy  of  the  original ;
 but  the  rule  of  the  Sal^uqs  would  certainly  have  afforded
 him  sufficient  materials  for  his  long  description  of  the  iron
-age.  The  Avesta  of  the  Bahman  Ya^-t  was  probably  com-
-piled from  older  sources  (like  the  rest  of  the  Avesta)  during
+age.  The  Avesta  of  the  Bahman  Ya^-t  was  probably  compiled from  older  sources  (like  the  rest  of  the  Avesta)  during
 
 
 INTRODUCTION.  Iv
@@ -2406,13 +2241,11 @@ expecting  the  appearance  of  Hushe^ar,  the  first  of  their
 last  three  apostles,  but  have  always  had  to  postpone  their
 expectations  from  time  to  time,  like  the  Jews  and  other
 interpreters  of  prophecy ;  so  that  they  are  still  looking
-forward  into  the  future  for  his  advent,  although  his  millen-
-nium has  long  since  expired  according  to  the  chronology
+forward  into  the  future  for  his  advent,  although  his  millennium has  long  since  expired  according  to  the  chronology
 adopted  in  the  Bahman  Yaj-t.  This  chronology,  of  course,
 represents  the  expectations  of  Zoroastrians  in  past  times,
 and  seems  to  express  three  different  opinions.  First,  we
-have  the  statement  that  the  last  great  battle  of  the  demon-
-races  is  to  take  place  at  the  end  of  Zaratui-t's  millennium
+have  the  statement  that  the  last  great  battle  of  the  demonraces  is  to  take  place  at  the  end  of  Zaratui-t's  millennium
 (see  Chap.  Ill,  9),  when  the  wicked  will  be  so  destroyed
 (compare  III,  22,  23)  that  none  will  pass  into  the  next
 millennium  (III,  11),  which  is  that  of  Hushe(;/ar  (111,43).
@@ -2450,12 +2283,10 @@ seems  to  mean  the  sixteen  hundredth  year  of  Zaratu^t's
 millennium,  or  six  hundredth  of  his  own  (say  A.D.  1193-
 1335),  also  that  the  reign  of  the  demon-races  is  to  last  a
 thousand  years  (III,  34),  and  that  Peshyotanu  does  not
-come  to  restore  the  religion  till  near  the  end  of  the  millen-
-nium (III,  51);  it  also  appears  (III,  49)  that  Var^avand
+come  to  restore  the  religion  till  near  the  end  of  the  millennium (III,  51);  it  also  appears  (III,  49)  that  Var^avand
 occupies  a  prominent  position  when  Hushe^^ar  comes  from
 his  conference  with  Auharmazd  at  thirty  years  of  age  (III,
-44,  45).  Such  details  were  probably  inserted  by  the  com-
-piler of  the  epitome,  who  had  to  admit  the  facts  that  the
+44,  45).  Such  details  were  probably  inserted  by  the  compiler of  the  epitome,  who  had  to  admit  the  facts  that  the
 reign  of  the  demon-races  had  already  lasted  for  centuries,
 and  that  Hushe^^ar  had  not  yet  appeared.  To  get  over
 these  difficulties  he  probably  adopted  the  opinions  current
@@ -2489,25 +2320,21 @@ doubtful.
 The  Pazand  version  is  more  common  in  Parsi  hbranes,
 but  contains  a  very  imperfect  text.  Of  this  version  two
 modern  copies  have  been  consulted  ;  one  of  these  occupies
-fols.  38-62  of  a  small  manuscript,  No.  23  of  the  Haug  col-
-lection in  the  State  Library  at  Munich  ;  the  other  is  a  copy
+fols.  38-62  of  a  small  manuscript,  No.  23  of  the  Haug  collection in  the  State  Library  at  Munich  ;  the  other  is  a  copy
 of  a  manuscript  in  the  library  of  the  high-priest  of  the  Parsis
 in  Bombay.  Both  these  MSS.  are  evidently  descended
-from  the  same  original,  which  must  have  been  a  very  imper-
-fect transliteration  of  a  Pahlavi  text  closely  resembling  that
+from  the  same  original,  which  must  have  been  a  very  imperfect transliteration  of  a  Pahlavi  text  closely  resembling  that
 of  K20,  but  yet  independent  of  that  MS.,  as  a  few  words
 omitted  in  K20  are  supplied  by  these  Pazand  MSS.  (see
 B.Yt.  II,  13,  14,  22,  &c.)  To  a  certain  extent,  therefore,
 these  Pazand  MSS.  are  of  some  assistance  in  settling  the
-text  of  a  few  sentences,  but  the  greater  part  of  their  con-
-tents is  so  imperfect  as  to  be  utterly  unintelligible ;  they
+text  of  a  few  sentences,  but  the  greater  part  of  their  contents is  so  imperfect  as  to  be  utterly  unintelligible ;  they
 not  only  omit  Chaps.  I,  1-8,  II,  17,  30-32,  40,  III,  9,  12,  17-
 44,  58-63  entirely,  but  also  words  and  phrases  from  nearly
 every  other  section  of  the  text.  Adhering  scrupulously  to
 the  Pahlavi  original  for  a  few  consecutive  words,  and  then
 widely  departing  from  it  by  misreading  or  omitting  all
-difficult  words  and  passages,  this  Pazand  version  is  a  com-
-plete contrast  to  the  Pazand  writings  of  Neryosang,  being
+difficult  words  and  passages,  this  Pazand  version  is  a  complete contrast  to  the  Pazand  writings  of  Neryosang,  being
 of  little  use  to  the  reader  beyond  showing  the  extremely
 low  ebb  to  which  Pahlavi  learning  must  have  fallen,  among
 the  Parsis,  before  such  unintelligible  writings  could  have
@@ -2522,8 +2349,7 @@ of  Yazd,  from  an  Avesta  (Pazand)  MS.  belonging  to  his
 brother  Jamshed.  This  Persian  version  contains  less  than
 three  per  cent  of  Arabic  words,  and  is  more  of  a  paraphrase
 than  a  translation,  but  it  adheres  very  closely  to  the  meaning
-of  the  Pahlavi  text  from  Chaps.  I,  i  to  III,  9,  where  a  dis-
-location occurs,  evidently  owing  either  to  the  displacement
+of  the  Pahlavi  text  from  Chaps.  I,  i  to  III,  9,  where  a  dislocation occurs,  evidently  owing  either  to  the  displacement
 
 
 Ivlii  PAHLAVI    TEXTS.
@@ -2543,12 +2369,10 @@ adversity  departs  from  the  world,  and  ten  people  are
 satisfied  with  the  milk  of  one  cow,  when  Hushe^/ar-mah
 appears  and  his  millennium  commences.  On  his  coming
 from  his  conference  with  Auharmazd  the  sun  stands  still
-for  twenty  days  and  nights,  in  consequence  of  which  two-
-thirds  of  the  people  in  the  world  believe  in  the  religion.
+for  twenty  days  and  nights,  in  consequence  of  which  twothirds  of  the  people  in  the  world  believe  in  the  religion.
 Meat  is  no  longer  eaten,  but  only  milk  and  butter,  and  a
 hundred  people  are  satisfied  with  the  milk  of  one  cow.
-Hushed^ar-mah  destroys  the  terrible  serpent,  which  ac-
-companies apostasy,  by  means  of  the  divine  glory  and
+Hushed^ar-mah  destroys  the  terrible  serpent,  which  accompanies apostasy,  by  means  of  the  divine  glory  and
 Avesta  formulas ;  he  clears  all  noxious  creatures  out  of  the
 world,  and  wild  animals  live  harmlessly  among  mankind ;
 the  fiends  of  apostasy  and  deceit  depart  from  the  world,
@@ -2583,8 +2407,7 @@ subjects  as  the  third  chapter  of  the  Bahman  Yaj-t,  but  is
 differently  arranged.  It  confines  itself  to  the  millennium
 of  Hushe^^ar,  and  may  possibly  be  some  modification  of  the
 contents  of  the  folios  missing  from  the  version  described
-above.  After  some  introductory  matter  this  fragment  con-
-tains a  paraphrase  (less  accurate  than  the  preceding)  of
+above.  After  some  introductory  matter  this  fragment  contains a  paraphrase  (less  accurate  than  the  preceding)  of
 Chap.  Ill,  23-49  of  the  Bahman  Vast;  it  then  proceeds  to
 .state  that  Hushe^ar  destroys  the  wolf  race,  so  that  wolves,
 thieves,  highway  robbers,  and  criminals  cease  to  exist.
@@ -2594,8 +2417,7 @@ vegetation,  and  only  one  man  survives  out  of  ten  thousand  ;
 after  which  the  world  is  repeopled  from  the  enclosure  made
 by  Yim.  Then  comes  the  gathering  of  the  nations  to  the
 great  battle  on  the  Euphrates,  where  the  slaughter  is  so
-great  that  the  water  of  the  river  becomes  red,  and  the  sur-
-vivors wade  in  blood  up  to  their  horses'  girths.  Afterwards,
+great  that  the  water  of  the  river  becomes  red,  and  the  survivors wade  in  blood  up  to  their  horses'  girths.  Afterwards,
 the  Kayan  king,  Var^avand,  advances  from  the  frontiers  of
 India  and  takes  possession  of  Iran  to  the  great  delight  of
 the  inhabitants,  but  only  after  a  great  battle;  and  then
@@ -2603,15 +2425,13 @@ Peshyotanu  is  summoned  from  Kangde^  to  restore  the
 religious  ceremonies.
 
 A  German  translation  of  some  passages  in  the  Bahman
-Ya^t,  with  a  brief  summary  of  the  greater  part  of  the  re-
-mainder, was  published  in  i860  in  Spiegel's  Traditionelle
+Ya^t,  with  a  brief  summary  of  the  greater  part  of  the  remainder, was  published  in  i860  in  Spiegel's  Traditionelle
 Literatur  der  Parsen,  pp.  128-135.
 
 6.   The  Shayast  la-shayast.
 
 Another  treatise  which  must  be  referred  to  about  the
-same  age  as  the  Bundahij-,  though  of  a  very  different  cha-
-racter, is  the  Shayast  la-shayast  or  '  the  proper  and  impro-
+same  age  as  the  Bundahij-,  though  of  a  very  different  character, is  the  Shayast  la-shayast  or  '  the  proper  and  impro-
 per.' It  is  a  compilation  of  miscellaneous  laws  and  customs
 regarding  sin  and  impurity,  with  other  memoranda  about
 ceremonies  and  religious  subjects  in  general.  Its  name  has,
@@ -2649,19 +2469,16 @@ writer  in  different  parts  of  the  same  treatise.  To  these  two
 parts  of  the  Shayast  la-shayast  a  third  part  has  been  added
 in  the  present  translation,  as  an  appendix,  consisting  of  a
 number  of  miscellaneous  passages  of  a  somewhat  similar
-character,  which  are  found  in  the  same  old  MSS.  that  con-
-tain the  first  two  parts,  but  which  cannot  be  attributed
+character,  which  are  found  in  the  same  old  MSS.  that  contain the  first  two  parts,  but  which  cannot  be  attributed
 either  to  the  same  writers  or  the  same  age  as  those  parts.
 
 The  first  part  commences  with  the  names  and  amounts
 of  the  various  degrees  of  sin,  and  the  names  of  the  chief
 commentators  on  the  Vendidad.  It  then  gives  long  details
 regarding  the  precautions  to  be  taken  with  reference  to
-corpses  and  menstruous  women,  and  the  impurity  they  occa-
-sion ;  besides  mentioning  (Chap.  II,  33-35)  the  pollution
+corpses  and  menstruous  women,  and  the  impurity  they  occasion ;  besides  mentioning  (Chap.  II,  33-35)  the  pollution
 
-ill  its  opening  words,  as  follows : — '  This  book  is  on  "  the  proper  and  im-
-proper" which  is  brought  out  from  the  good,  pure  religion  of  the  Mazda-
+ill  its  opening  words,  as  follows : — '  This  book  is  on  "  the  proper  and  improper" which  is  brought  out  from  the  good,  pure  religion  of  the  Mazda-
 yasnians ;'  though  this  term  may  possibly  relate  to  its  own  contents.  There  is
 also  a  Persian  treatise  called  Shayast  na-shayast,  which  gives  a  good  deal
 of  information  obtahied  from  the  Persian  Rivayats,  and  copies  of  which  are
@@ -2712,19 +2529,16 @@ Avesta  not  to  be  mumbled,  doubtful  actions  to  be  avoided
 or  consulted  about,  evil  of  laughing  during  prayer,  crowing
 of  a  hen,  treatment  of  a  hedgehog,  after  a  violent  death
 corruption  does  not  set  in  immediately,  necessity  of  a  dog's
-gaze,  putrid  meat  and  hairy  cakes  or  butter  unfit  for  cere-
-monies, when  a  woman  can  do  priestly  duty,  &c.
+gaze,  putrid  meat  and  hairy  cakes  or  butter  unfit  for  ceremonies, when  a  woman  can  do  priestly  duty,  &c.
 
 
 Ixii  PAHLAVI    TEXTS.
 
 
 The  second  part  also  commences  with  the  names  and
-amounts  of  the  various  degrees  of  sin,  followed  by  the  pro-
-per meat-offerings  for  various  angels  and  guardian  spirits.
+amounts  of  the  various  degrees  of  sin,  followed  by  the  proper meat-offerings  for  various  angels  and  guardian  spirits.
 Next  come  miscellaneous  observations  on  the  following
-subjects : — The  simplest  form  of  worship,  necessity  of  sub-
-mitting to  a  high-priest,  advantage  of  a  fire  in  the  house,
+subjects : — The  simplest  form  of  worship,  necessity  of  submitting to  a  high-priest,  advantage  of  a  fire  in  the  house,
 sin  of  clothing  the  dead,  presentation  of  holy-water  to  the
 nearest  fire  after  a  death,  nail-parings  to  be  prayed  over,
 advantage  of  light  at  childbirth,  offerings  to  the  angels,
@@ -2737,8 +2551,7 @@ of  prayer  at  feasts,  treatment  of  a  hedgehog,  praying  when
 washing  the  face,  the  proper  choice  of  a  purifying  priest,  no
 one  should  be  hopeless  of  heaven,  necessity  of  a  wife  being
 religious  as  well  as  her  husband,  the  ceremonies  which  are
-good  works,  and  the  cause  of  sneezing,  yawning,  and  sigh-
-ing. These  are  followed  by  a  long  account  of  the  mystic
+good  works,  and  the  cause  of  sneezing,  yawning,  and  sighing. These  are  followed  by  a  long  account  of  the  mystic
 signification  of  the  Gathas,  with  some  information  as  to  the
 errors  which  may  be  committed  in  consecrating  the  sacred
 cakes,  and  how  the  beginning  of  the  morning  watch  is  to  be
@@ -2755,8 +2568,7 @@ have  no  part  in  the  resurrection,  the  duty  of  submission  to
 the  priesthood,  whether  evil  may  be  done  for  the  sake  of
 good,  the  place  where  people  will  rise  from  the  dead,
 Aeshm's  complaint  to  Aharman  of  the  three  things  he  could
-not  injure  in  the  world,  the  occasions  on  which  the  Ahuna-
-var  formula  should  be  recited,  and  the  number  of  recitals
+not  injure  in  the  world,  the  occasions  on  which  the  Ahunavar  formula  should  be  recited,  and  the  number  of  recitals
 that  are  requisite,  &c.  And,  finally,  statements  of  the
 lengths  of  midday  and  afternoon  shadows,  blessings  invoked
 
@@ -2783,8 +2595,7 @@ that  a  portion  of  M6,  containing  the  book  of  Ar^a-Viraf
 and  the  tale  of  G6st-i  Fry  and,  was  copied  from  a  MS.
 written  in  A.D.  1249  5  ^^^  ^^  ^^Y  safely  conclude  that  the
 Shayast  la-shayast  was  copied,  either  from  the  same  MS.,
-or  from  one  fully  as  old.  So  far,  therefore,  as  external  evi-
-dence goes,  there  is  every  reason  to  suppose  that  the  whole
+or  from  one  fully  as  old.  So  far,  therefore,  as  external  evidence goes,  there  is  every  reason  to  suppose  that  the  whole
 of  the  Shayast  la-shayast,  with  its  appendix  \  was  existing
 in  a  MS.  written  about  630  years  ago.
 
@@ -2792,8 +2603,7 @@ But  internal  evidence  points  to  a  far  higher  antiquity
 for  the  first  two  parts,  as  the  compilers  of  those  treatises
 evidently  had  access,  not  only  to  several  old  commentaries,
 but  also  to  many  of  the  Nasks,  which  have  long  been  lost.
-Thus,  the  first  treatise  contains  quotations  from  the  com-
-mentaries of  Afarg,  Gogoj-asp,  Kushtano-bu^e^,  Me^^ok-
+Thus,  the  first  treatise  contains  quotations  from  the  commentaries of  Afarg,  Gogoj-asp,  Kushtano-bu^e^,  Me^^ok-
 mah,  Roshan,  and  Soshyans,  which  are  all  frequently
 quoted  in  the  Pahlavi  translation  of  the  Vendidad  (see  Sis.
 I,  3,  4,  notes) ;  besides  mentioning  the  opinions  of  Mar^-
@@ -2813,8 +2623,7 @@ Ixiv  PAHLAVI    TEXTS.
 The  Nasks  quoted  are  the  Stu^gar  (Sis.  X,  8),  the  Bagh
 (X,  26),  the  Damda^  (X,  22),  the  Pa^on  (IX,  9),  the  Ratui^-
 taitih  (X,  29),  the  Kidrast  (X,  28),  the  Spend  (X,  4),  the
-Nihart'um  (X,  3,  22,  23),  the  DubasrCi^e^  (X,  13),  the  Hus-
-param  (X,  21),  and  the  Saka^um  (X,  25),  very  few  of  which
+Nihart'um  (X,  3,  22,  23),  the  DubasrCi^e^  (X,  13),  the  Husparam  (X,  21),  and  the  Saka^um  (X,  25),  very  few  of  which
 are  mentioned  even  in  the  Pahlavi  Vendidad.  The  second
 treatise  mentions  only  one  commentator,  Vand-Auharmazd,
 but  it  quotes  eight  of  the  Nasks  no  longer  extant ;  these
@@ -2843,13 +2652,11 @@ so  there  is  no  certainty  that  many  of  the  Nasks  actually
 existed  in  his  time.
 
 Thus  far,  therefore,  the  internal  evidence  seems  to  prove
-that  the  two  treatises  called  Shayast  la-shayast,  which  con-
-stitute the  first  two  parts  of  the  present  translation,  are
+that  the  two  treatises  called  Shayast  la-shayast,  which  constitute the  first  two  parts  of  the  present  translation,  are
 more  than  a  thousand  years  old.  On  the  other  hand,  they
 cannot  be  more  than  three  centuries  older,  because  they
 frequently  quote  passages  from  the  Pahlavi  Vendidad
-which,  as  we  have  seen  (p.  xlvi,  note  i),  could  not  have  as-
-sumed its  present  form  before  the  time  of  Khusro  Noshir-
+which,  as  we  have  seen  (p.  xlvi,  note  i),  could  not  have  assumed its  present  form  before  the  time  of  Khusro  Noshir-
 van  (A.D.  531-579).     As  they  contain  no  reference  to  any
 
 
@@ -2861,13 +2668,10 @@ priesthood,  it  is  probable  that  they  were  written  before  the
 Muhammadan  conquest  (a.D.  636-65 [),  although  they  do
 not  mention  the  existence  of  any  '  king  of  the  kings,'  the
 usual  title  of  the  Sasanian  nionarchs.  And  this  probability
-is  increased  by  there  being  no  direct  mention  of  Muham-
-madanism  among  the  contemporary  religions  named  in
-Chap,  VI,  7,  unless  we  assume  that  passage  to  be  a  quota-
-tion from  an  earlier  book.  We  may,  therefore,  conclude,
+is  increased  by  there  being  no  direct  mention  of  Muhammadanism  among  the  contemporary  religions  named  in
+Chap,  VI,  7,  unless  we  assume  that  passage  to  be  a  quotation from  an  earlier  book.  We  may,  therefore,  conclude,
 with  tolerable  certainty,  that  the  Pahlavi  text  of  the  first
-two  parts  of  the  present  translation  of  the  Shayast  la-
-shayast  was  compiled  some  time  in  the  seventh  century  ;
+two  parts  of  the  present  translation  of  the  Shayast  lashayast  was  compiled  some  time  in  the  seventh  century  ;
 but,  like  the  Bundahii-  and  Bahman  Ya^t,  it  was,  for  the
 most  part,  a  compilation  of  extracts  and  translations  from
 far  older  writings,  and  may  also  have  been  rearranged
@@ -2875,28 +2679,24 @@ shortly  after  the  Muhammadan  conquest.
 
 The  fragments  which  are  collected  in  the  appendix,  or
 third  part  of  the  present  translation,  are  probably  of  various
-ages,  and  several  of  them  may  not  be  more  than  seven  cen-
-turies old.  The  commentator  Bakht-afri^  whose  work
+ages,  and  several  of  them  may  not  be  more  than  seven  centuries old.  The  commentator  Bakht-afri^  whose  work
 (now  lost)  is  quoted  in  Chap.  XX,  1 1,  may  have  lived  in
 the  time  of  Khusro  Noshirvan  (see  B.  Yt.  I,  7).  And
 Chap.  XXI  must  certainly  have  been  written  in  Persia,  as
 the  lengths  of  noonday  shadows  which  it  mentions  are  only
 suitable  for  33°  north  latitude.  As  regards  the  last  two
-chapters  we  have  no  evidence  that  they  are  quite  five  cen-
-turies old.
+chapters  we  have  no  evidence  that  they  are  quite  five  centuries old.
 
 For  the  Pahlavi  text  of  the  Shayast  la-shayast  and  its
 appendix  we  have  not  only  the  very  old  codex  M6  (see
 p.  xxix)  for  the  whole  of  it,  but  also  the  equally  old  codex
 K20  (see  p.  xxvii)  for  all  but  Chaps.  XV-XVII,  XX,  XXII,
 and  XXIII  in  the  appendix.  In  M6  the  first  two  parts  are
-separated  by  twenty  folios,  containing  the  Farhang-i  Oim-
-khaduk,  and  the  second  part  is  separated  from  the  first
+separated  by  twenty  folios,  containing  the  Farhang-i  Oimkhaduk,  and  the  second  part  is  separated  from  the  first
 three  chapters  of  the  appendix  by  four  folios,  containing
 the  Patit-i  Khu^;  the  next  three  chapters  of  the  appendix
 are  from  the  latter  end  of  the  second  volume  of  M6,  Chap.
-XXI  is  from  the  middle  of  the  same,  and  the  last  two  chap-
-ters are  from  some  additional  folios  at  the  beginning  of  the
+XXI  is  from  the  middle  of  the  same,  and  the  last  two  chapters are  from  some  additional  folios  at  the  beginning  of  the
 [5]  e
 
 
@@ -2912,8 +2712,7 @@ earlier  part  of  the  MS,
 
 Derived  from  K20  are  the  two  modern  copies  P7  and
 K21  (see  p.  xxviii).  Derived  from  M6  are  the  modern
-copy  of  the  first  two  parts  in  M9  (No.  9  of  the  Haug  col-
-lection in  the  State  Library  at  Munich),  a  copy  of  Chaps.
+copy  of  the  first  two  parts  in  M9  (No.  9  of  the  Haug  collection in  the  State  Library  at  Munich),  a  copy  of  Chaps.
 XIV,  XV  in  L15  (No.  15  of  the  collection  of  Avesta  and
 Pahlavi  MSS.  in  the  India  Office  Library  at  London),  a
 copy  of  Chap.  XX,  4-17  in  O121  (No.  121  of  the  Ouseley
@@ -2922,8 +2721,7 @@ and  a  copy  of  Chap.  XVIII  in  Dastur  Jamaspji's  MS.  of
 the  Bundahij-  at  Bombay.  While  an  independent  Pahlavi
 version  of  Chap.  XXIII  occurs  in  a  very  old  codex  in  the
 library  of  the  high-priest  of  the  Parsis  at  Bombay,  which
-version  has  been  used  for  the  text  of  the  present  transla-
-tion, because  that  chapter  is  incomplete  in  M6.
+version  has  been  used  for  the  text  of  the  present  translation, because  that  chapter  is  incomplete  in  M6.
 
 Pazand  versions  of  some  of  the  chapters,  chiefly  in  the
 appendix,  are  to  be  found  in  some  MSS.,  but  all  derived
@@ -2936,8 +2734,7 @@ MS.  M7  (No.  7  of  the  Haug  collection  in  the  State  Library
 at  Munich),  written  in  Persian  characters,  the  following
 detached  passages  occur  in  a  miscellaneous  collection  of
 extracts  (fols.  126-133) :  — Chaps.  XX,  14-16,  X,  18,  J9,
-IX,  9,  10,  XX,  12,  13,  4,  5,  VIII,  2,  4-14,  XX,  II.  A  Per-
-sian version  of  Chap.  XVIII  also  occurs  in  M5  (No.  5  of
+IX,  9,  10,  XX,  12,  13,  4,  5,  VIII,  2,  4-14,  XX,  II.  A  Persian version  of  Chap.  XVIII  also  occurs  in  M5  (No.  5  of
 the  same  collection)  on  fol.  54«
 
 It  does  not  appear  that  the  Shayast  la-shayast  has  ever
@@ -2951,13 +2748,10 @@ last  chapter  of  his  translation  of  the  Bundahis  (see  p.  xxvi).
 INTRODUCTION.  Ixvil
 
 is  any  Persian  or  Gu^arati  translation  of  it  known  to  the
-present  translator,  though  a  good  deal  of  the  matter  it  con-
-tains may  be  found  in  the  Persian  Rivayats,  but  generally
-given  in  a  different  form.  Owing  to  the  technical  charac-
-ter of  the  treatise,  it  is  hazardous  for  any  one  but  a  Parsi
+present  translator,  though  a  good  deal  of  the  matter  it  contains may  be  found  in  the  Persian  Rivayats,  but  generally
+given  in  a  different  form.  Owing  to  the  technical  character of  the  treatise,  it  is  hazardous  for  any  one  but  a  Parsi
 priest  to  attempt  to  translate  it,  so  that  errors  will,  no
-doubt,  be  apparent  to  the  initiated  in  the  present  transla-
-tion. At  the  same  time  it  must  not  be  forgotten  that  the
+doubt,  be  apparent  to  the  initiated  in  the  present  translation. At  the  same  time  it  must  not  be  forgotten  that  the
 laws  and  customs  mentioned  in  the  text  were  those  current
 in  Persia  twelve  centuries  ago,  which  may  be  expected  to
 differ,  in  many  details,  from  those  of  the  Parsis  in  India  at
@@ -2966,18 +2760,15 @@ translator  might  be  too  apt  to  ignore ;  so  that  his  thorough
 knowledge  of  present  customs,  though  invaluable  for  the
 decipherment  of  ambiguous  phrases,  might  lead  him  astray
 when  dealing  with  clear  statements  of  customs  and  rules
-now  obsolete  and,  therefore,  at  variance  with  his  precon-
-ceived ideas  of  propriety.
+now  obsolete  and,  therefore,  at  variance  with  his  preconceived ideas  of  propriety.
 
 7.    Concluding  Remarks.
 
 The  Pahlavi  texts  selected  for  translation  in  this  volume
 are  specimens  of  three  distinct  species  of  writings.  Thus,
 the  Bundahij  and  its  appendix,  which  deal  chiefly  with
-cosmogony,  myths,  and  traditions,  may  be  roughly  com-
-pared to  the  book  of  Genesis.  The  Bahman  Ya^t,  which
-professes  to  be  prophetical,  may  be  likened  unto  the  Apoca-
-lypse. And  the  Shayast  la-shayast,  which  treats  of  reli-
+cosmogony,  myths,  and  traditions,  may  be  roughly  compared to  the  book  of  Genesis.  The  Bahman  Ya^t,  which
+professes  to  be  prophetical,  may  be  likened  unto  the  Apocalypse. And  the  Shayast  la-shayast,  which  treats  of  reli-
 gious laws  regarding  impurity,  sin,  ritual,  and  miscellaneous
 matters,  bears  some  resemblance  to  Leviticus.  But,  though
 thus  dealing  with  very  different  subjects,  these  texts  appear
@@ -3003,8 +2794,7 @@ But,  notwithstanding  the  wide  range  of  subjects  embraced
 by  these  texts,  it  would  be  rash  for  the  reader  to  assume
 that  they  afford  him  sufficient  information  for  forming  a
 decided  opinion  as  to  the  character  of  the  Parsi  rehgion.
-The  texts  translated   in  this  volume  contain  barely  one-
-eleventh  part  of  the  religious  literature  extant  in  the  Pah-
+The  texts  translated   in  this  volume  contain  barely  oneeleventh  part  of  the  religious  literature  extant  in  the  Pah-
 la  vi  language,  without  taking  the  Pahlavi  versions  of  existing
 Avesta  texts   into   account,   which  latter    are  even  more
 important  than  the  former,  from  a  religious  point  of  view,
@@ -3032,8 +2822,7 @@ without  any  further  information.
 
 But,  though  these  translations  must  be  considered  merely
 as  a  contribution  towards  a  correct  account  of  mediseval
-Zoroastrianism,  the  Bundahii-  does  afford  some  very  defi-
-nite information  upon  one  of  the  fundamental  doctrines  of
+Zoroastrianism,  the  Bundahii-  does  afford  some  very  definite information  upon  one  of  the  fundamental  doctrines  of
 that  faith.  The  Parsi  religion  has  long  been  represented  by
 its  opponents  as  a  dualism  ;  and  this  accusation,  made  in
 good  faith  by    Muhammadan    writers,   and    echoed    more
@@ -3045,8 +2834,7 @@ INTRODUCTION.
 Ixix
 
 
-incautiously  by  Christians,  has  been  advanced  so  strenu-
-ously that  it  has  often  been  admitted  even  by  Parsis  them-
+incautiously  by  Christians,  has  been  advanced  so  strenuously that  it  has  often  been  admitted  even  by  Parsis  them-
 selves, as  regards  the  mediaeval  form  of  their  faith.  But
 neither  party  seems  to  have  fairly  considered  how  any
 religion  which  admits  the  personality  of  an  evil  spirit,  in
@@ -3070,19 +2858,15 @@ perish  at  the  resurrection  (I,  7,  21),  and  he  himself  becomes
 impotent  (I,  21,  III,  i)  and  will  not  be  (I,  3,  XXX,  32).
 Nowhere  is  he  supposed  to  be  in  two  places  at  once,  or  to
 know  what  is  occurring  elsewhere  than  in  his  own  presence.
-So  far,  his  powers  are  considerably  less  than  those  gene-
-rally assigned  by  Christians  to  the  devil,  who  is  certainly
+So  far,  his  powers  are  considerably  less  than  those  generally assigned  by  Christians  to  the  devil,  who  is  certainly
 represented  as  being  a  more  intelligent  and  ubiquitous
-personage.  On  the  other  hand,  Aharman  is  able  to  pro-
-duce fiends  and  demons  (Chap.  I,  10,  24),  and  the  noxious
+personage.  On  the  other  hand,  Aharman  is  able  to  produce fiends  and  demons  (Chap.  I,  10,  24),  and  the  noxious
 creatures  are  said  to  be  his  (III,  15,  XIV,  30,  XVIII,  2);  in
 which  respects  he  has  probably  rather  more  power  than
-the  devil,  although  the  limits  of  the  latter's  means  of  pro-
-ducing evil  are  by  no  means  well  defined.
+the  devil,  although  the  limits  of  the  latter's  means  of  producing evil  are  by  no  means  well  defined.
 
 The  origin  and  end  of  Aharman  appear  to  be  left  as
-uncertain  as  those  of  the  devil,  and,  altogether,  the  resem-
-blance between  these  two  ideas  of  the  evil  spirit  is  remark-
+uncertain  as  those  of  the  devil,  and,  altogether,  the  resemblance between  these  two  ideas  of  the  evil  spirit  is  remark-
 ably close ;  in  fact,  almost  too  close  to  admit  of  the  possibility
 of  their  being  ideas  of  different  origin.  The  only  important
 differences  are  that  Zoroastrianism  does  not  believe  in  an
@@ -3106,22 +2890,17 @@ the  score  of  its  dualism.
 Another  misrepresentation  of  the  Parsi  religion  is  shown
 to  have  no  foundation  in  fact,  by  a  passage  in  the  Selections
 of  Za^-sparam.  Several  writers,  both  Greek  and  Armenian,
-contemporaries  of  the  Sasanian  dynasty,  represent  the  Per-
-sians as  believing  that  both  Auharmazd  and  Aharman  were
-produced  by  an  eternal  being,  who  is  evidently  a  personifi-
-cation of  the  Avesta  phrase  for  '  boundless  time.'  This
+contemporaries  of  the  Sasanian  dynasty,  represent  the  Persians as  believing  that  both  Auharmazd  and  Aharman  were
+produced  by  an  eternal  being,  who  is  evidently  a  personification of  the  Avesta  phrase  for  '  boundless  time.'  This
 view  was  apparently  confirmed  by  a  passage  in  Anquetil
 Duperron's  French  translation  of  the  Vendidad  (XIX,
-32-34),  but  this  has  long  been  known  to  be  a  mistrans-
-lation due  to  Anquetil's  ignorance  of  Avesta  grammar ;  so
+32-34),  but  this  has  long  been  known  to  be  a  mistranslation due  to  Anquetil's  ignorance  of  Avesta  grammar ;  so
 that  the  supposed  doctrine  of  '  boundless  time  '  being  the
 originator  of  everything  is  not  to  be  found  in  the  Avesta ;
 still  it  might  have  sprung  up  in  Sasanian  times.  But  the
-Selections  of  Zart'-sparam  (I,  24)  distinctly  state  that  Auhar-
-mazd produced  the  creature  Zorvan  (precisely  the  term  used
+Selections  of  Zart'-sparam  (I,  24)  distinctly  state  that  Auharmazd produced  the  creature  Zorvan  (precisely  the  term  used
 in  the  phrase  '  boundless  time'  in  the  Avesta).  Here  'time,'
-although  personified,  is  represented  as  a  creature  of  Auhar-
-mazd, produced  after  the  first  appearance  of  Aharman  ;
+although  personified,  is  represented  as  a  creature  of  Auharmazd, produced  after  the  first  appearance  of  Aharman  ;
 which  contradicts  the  statement  of  the  Greek  and  Armenian
 writers  completely,  and  shows  how  little  reliance  can  be
 placed  upon  the  assertions  of  foreigners  regarding  matters
@@ -3156,8 +2935,7 @@ readings  and  other  details  that  may  be  useful  to  scholars ;
 they  are,  therefore,  very  numerous,  though  some  passages
 may  still  be  left  without  sufficient  explanation.  References
 to  the  Vendidad,Yasna,  and  Visparad  are  made  to  Spiegel's
-edition  of  the  original  texts,  not  because  that  edition  is  supe-
-rior, or  even  equal,  in  accuracy  to  that  of  Westergaard,  but
+edition  of  the  original  texts,  not  because  that  edition  is  superior, or  even  equal,  in  accuracy  to  that  of  Westergaard,  but
 because  it  is  the  only  edition  which  gives  the  Pahlavi
 translations,  because  its  sections  are  shorter  and,  therefore,
 reference  to  them  is  more  definite,  and  because  the  only
@@ -3169,8 +2947,7 @@ No  attempt  has  been  made  to  trace  any  of  the  myths
 or  traditions  farther  back  than  the  Avesta,  whence  their
 descent  is  a  fact  that  can  hardly  be  disputed.  To  trace
 them  back  to  earlier  times,  to  a  supposed  Indo-Iranian
-personification  or  poetic  distortion  of  meteorological  phe-
-nomena, would  be,  in  the  present  state  of  our  knowledge,
+personification  or  poetic  distortion  of  meteorological  phenomena, would  be,  in  the  present  state  of  our  knowledge,
 merely  substituting  plausible  guesses  for  ascertained  facts.
 In  many  cases,  indeed,  we  have,  really  no  right  to  assume
 that  an  Avesta  myth  has  descended  from  any  such  Indo-
@@ -3183,16 +2960,12 @@ placed  upon  the  correctness  of  this  translation,  owing  to  defects  in  
 German  one.
 
 
-1
-
-
 XXU  PAHLAVI    TEXTS.
 
 
 among  the  many  nations  with  which  the  reh'gion  of  the
 Avesta  has  come  in  contact,  both  before  and  since  the
-time  of  Zaratuj-t.  For,  notwithstanding  the  ingenious  rhe-
-toric of  the  expounders  of  myths,  it  is  still  as  unsafe,  from
+time  of  Zaratuj-t.  For,  notwithstanding  the  ingenious  rhetoric of  the  expounders  of  myths,  it  is  still  as  unsafe,  from
 a  scientific  point  of  view,  to  disbelieve  the  former  existence
 of  Zaratujt  as  it  is  to  doubt  that  of  Moses,  or  any  other
 practically  prehistoric  personage,  merely  because  mythic
@@ -3209,18 +2982,15 @@ in  nearly  all  cases,  to  translate  them  by  some  explanatory
 phrase,  in  preference  to  filling  the  translation  with  foreign
 words  which  would  convey  little  or  no  distinct  meaning  to
 the  general  reader.  Some  of  these  technical  terms  have
-almost  exact  equivalents  in  English,  such  as  those  trans-
-lated '  resurrection '  and  '  demon,'  or  can  be  well  expressed
+almost  exact  equivalents  in  English,  such  as  those  translated '  resurrection '  and  '  demon,'  or  can  be  well  expressed
 by  descriptive  phrases,  such  as  '  sacred  twigs  '  and  '  sacred
 cakes.'  Other  terms  are  only  approximately  rendered  by
 such  words  as  'archangel'  and  'angel;'  others  can  hardly
 be  expressed  at  all  times  by  the  same  English  words,  but
 must  change  according  to  the  context,  such  as  the  term
 variously  rendered  by  '  worship,  ceremonial,  prayer,  or
-rites.'  While  the  meaning  of  some  few  terms  is  so  tech-
-nical, complicated,  or  uncertain,  that  it  is  safer  to  use
-the  Pahlavi  word  itself,  such  as  Tanapuhar,  Frasast,  Geti-
-khand,  Dva^dah-homast,  &c.
+rites.'  While  the  meaning  of  some  few  terms  is  so  technical, complicated,  or  uncertain,  that  it  is  safer  to  use
+the  Pahlavi  word  itself,  such  as  Tanapuhar,  Frasast,  Getikhand,  Dva^dah-homast,  &c.
 
 The  following  is  a  list  of  nearly  all  the  technical  terms  that
 have  been  translated,  with  the  English  equivalents  generally
@@ -3236,44 +3006,34 @@ INTRODUCTION.  Ixxiii
 
 
 baresomdan,  'twig  stand;'  dakhmak  (Huz.  khazan),
-'depository  for  the  dead  ;'  dashtanistan,  'place  for  men-
-struation;' dino,  'religion,  revelation,  religious  rites;'
+'depository  for  the  dead  ;'  dashtanistan,  'place  for  menstruation;' dino,  'religion,  revelation,  religious  rites;'
 drayan-^uyii-nih,  'unseasonable  chatter;'  drevand,
-'wicked;'  dr  6  no, 'sacred  cake  ;'  dru^, 'fiend;'  frasha-
-kar^,  'renovation  of  the  universe;'  fravahar,  'guardian
+'wicked;'  dr  6  no, 'sacred  cake  ;'  dru^, 'fiend;'  frashakar^,  'renovation  of  the  universe;'  fravahar,  'guardian
 spirit;'  fravar^ikan, 'days  devoted  to  the  guardian  spirits ;'
 ganrak  mainok,  'evil  spirit;'  gar^ij-n,  'confession  of
-sin;'  gas,  'period  of  the  day,  time;'  gasanbar,  'season-
-festival;'  £-a.sn6,  'feast;'  gauj-dak  (Av.  gkus  hudh^u),
-'meat-offering,  sacred  butter;'  ^avi^-rastakan,  'the  he-
-terodox;' ^iv  (Av.  gauj-  ^ivya),  'sacred  milk;'  gome^,
-'bull's  urine;'  hamemal, 'accuser  ;'  ha  mre^,  '  direct  pol-
-lution, contagion;'  ha^'arak,  'millennium;'  hikhar,  'bo-
+sin;'  gas,  'period  of  the  day,  time;'  gasanbar,  'seasonfestival;'  £-a.sn6,  'feast;'  gauj-dak  (Av.  gkus  hudh^u),
+'meat-offering,  sacred  butter;'  ^avi^-rastakan,  'the  heterodox;' ^iv  (Av.  gauj-  ^ivya),  'sacred  milk;'  gome^,
+'bull's  urine;'  hamemal, 'accuser  ;'  ha  mre^,  '  direct  pollution, contagion;'  ha^'arak,  'millennium;'  hikhar,  'bo-
 dily refuse;'  kar,  'duty;'  keshvar,  'region;'  khayebit,
 'destroyer;'  khrafstar, '  noxious  creature;'  khvetuk-das,
 'next-of-kin  marriage;'  kirfak,  'good  works;'  kustik,
-'  sacred  thread-girdle  ;'  magh,  '  stone  ablution-seat ;'  mai-
-nok, ^spirit;'  marg-ar^an,  'worthy  of  death,  mortal  sin;'
+'  sacred  thread-girdle  ;'  magh,  '  stone  ablution-seat ;'  mainok, ^spirit;'  marg-ar^an,  'worthy  of  death,  mortal  sin;'
 myazd,  'feast,  sacred  feast ;'  nasai,  'corpse,  dead  matter  ;'
 nasal  ka t a k, 'corpse  chamber  ;'  nirang, 'religious  formula,
-ritual;'  nirangistan,  '  code  of  religious  formulas;'  niya-
-ylsn,  'salutation;'  padam,  'mouth-veil;'  pa^iyaz/ih,
-'ablution,  ceremonial  ablution;'  pahlum  ah  van, 'best  ex-
-istence;' paitre^, 'indirect pollution, infection  ;'  parahom,
+ritual;'  nirangistan,  '  code  of  religious  formulas;'  niyaylsn,  'salutation;'  padam,  'mouth-veil;'  pa^iyaz/ih,
+'ablution,  ceremonial  ablution;'  pahlum  ah  van, 'best  existence;' paitre^, 'indirect pollution, infection  ;'  parahom,
 'hom-juice;'  parik,  'witch;'  patitih,  'renunciation  of
 sin;'  patiyarak,  'adversary;'  p6ry6<^keshih, 'primitive
 faith;'  ra<^,  'chief,  spiritual  chief,  primate,  high-priest;'
 ristakhe^,  'resurrection;'  satuih,  'the  three  nights;'
-.feda, 'demon ;'  shapik,  'sacred  shirt;'  shnayijn,  '  pro-
-pitiation, gratification;'  shnuman,  'dedication  formula,
+.feda, 'demon ;'  shapik,  'sacred  shirt;'  shnayijn,  '  propitiation, gratification;'  shnuman,  'dedication  formula,
 propitiation;'  spenak  mainok,  'beneficent  spirit;'  tanu-i
 pasino,  'future  existence;'  to^ij-n,  '  retribution  ;'  tor  a- i
 khadu-da^,  'primeval  ox;'  va^,  'inward  prayer;' vi^arij-n,
 'atonement  for  sin;'  vishart^-dubarii-nih,  'running  about
 uncovered;'  yasno,  'ritual;'  yai-t,  'prayers,  ritual,  form
 of  prayer,  worship,  consecration;'  ya^tano,  'to  consecrate,
-solemnize,  propitiate,  reverence;'  yatuk,  'wizard;'  yaz-
-dan,  'angels,  sacred  beings,  celestial  beings,  God  ;'  ya^ij-n,
+solemnize,  propitiate,  reverence;'  yatuk,  'wizard;'  yazdan,  'angels,  sacred  beings,  celestial  beings,  God  ;'  ya^ij-n,
 
 [5]  f
 
@@ -3281,14 +3041,12 @@ dan,  'angels,  sacred  beings,  celestial  beings,  God  ;'  ya^ij-n,
 Ixxiv  PAHLAVI    TEXTS.
 
 
-'ceremonial,  ceremony,  sacred  ceremony,  ceremonial  wor-
-ship, worship,  reverence,  rites,  prayer;'  yedato,  'angel;'
+'ceremonial,  ceremony,  sacred  ceremony,  ceremonial  worship, worship,  reverence,  rites,  prayer;'  yedato,  'angel;'
 Zand,  'commentary;'  zohar  or  zor,  'holy-water;'  zot,
 'officiating  priest.'
 
 With  regard  to  the  orthography  of  Pahlavi  names  and
-words,  advantage  has  been  taken  of  the  system  of  trans-
-literation adopted  for  this  series  of  Translations  of  the
+words,  advantage  has  been  taken  of  the  system  of  transliteration adopted  for  this  series  of  Translations  of  the
 Sacred  Books  of  the  East,  by  making  use  of  italics  for  the
 purpose  of  distinguishing  between  certain  Pahlavi  letters
 which  were  probably  pronounced  very  nearly  alike.  Thus,
@@ -3301,10 +3059,8 @@ attempted  in  this  volume ;  these  two  letters  are  usually
 written  '},  but  in  a  few  words  they  are  represented  by  \  or
 by  J^,  in  which  cases  they  would  be  better  expressed  by
 the  italics  /  and  r.  Some  attempt  has  been  made  to  adhere
-to  one  uniform  orthography  in  such  names  as  occur  fre-
-quently, but  as  there  is  no  such  uniformity  in  the  various
-languages  and  writings  quoted^  nor  even  in  the  same  manu-
-script, some  deviations  can  hardly  be  avoided.
+to  one  uniform  orthography  in  such  names  as  occur  frequently, but  as  there  is  no  such  uniformity  in  the  various
+languages  and  writings  quoted^  nor  even  in  the  same  manuscript, some  deviations  can  hardly  be  avoided.
 
 In  conclusion  it  may  be  remarked  that  a  translator  of
 Pahlavi  generally  begins  his  career  by  undervaluing  the
@@ -3324,16 +3080,10 @@ if  not,  they  will  have  signally  failed  in  doing  those  writers
 justice.
 
 
-BUNDAHI5
-
-
 OR
 
 
 THE     ORIGINAL    CREATION.
-
-
-[5]
 
 
 L  1
@@ -3348,13 +3098,11 @@ OBSERVATIONS.
 responsible,  as  the  original  text  is  written  continuously,  with  very
 few  stops  marked.
 
-2.  Italics  are  used  for  any  English  words  which  are  not  ex-
-pressed, or  fully  understood,  in  the  original  text,  but  are  added  to
+2.  Italics  are  used  for  any  English  words  which  are  not  expressed, or  fully  understood,  in  the  original  text,  but  are  added  to
 complete  the  sense  of  the  translation.
 
 3.  Oriental  words  are  usually  '  spaced.'  Italics  occurring  in
-them,  or  in  names,  are  intended  to  represent  certain  peculiar  Ori-
-ental letters.  The  italic  consonants  d,  n,  v  may  be  pronounced
+them,  or  in  names,  are  intended  to  represent  certain  peculiar  Oriental letters.  The  italic  consonants  d,  n,  v  may  be  pronounced
 as  in  English ;  but  g  should  be  sounded  like  j,  hv  like  wh,  k  like
 ch  in  '  church,'  n  like  ng,  s  like  sh,  z  like  French  j.  For  further
 information,  see  '  Transliteration  of  Oriental  Alphabets  adopted  for
@@ -3365,11 +3113,9 @@ the  volume.
 expressed  in  the  Pahlavi  original,  but  all  other  vowels  are  merely
 understood.
 
-5.  In  the  translation,  words  in  parentheses  are  merely  explana-
-tory of  those  which  precede  them.
+5.  In  the  translation,  words  in  parentheses  are  merely  explanatory of  those  which  precede  them.
 
-6.  Abbreviations  used  are: — A  v.  for  Avesta.  Da^.  for  Da/i-
-stan-i  Dinik.  Huz.  for  Huzvari^.  Mkh.  for  Mainyo-i-khar^,  ed.
+6.  Abbreviations  used  are: — A  v.  for  Avesta.  Da^.  for  Da/istan-i  Dinik.  Huz.  for  Huzvari^.  Mkh.  for  Mainyo-i-khar^,  ed.
 West.  Pahl.  for  Pahlavi.  Paz.  for  Pazand.  Pers.  for  Persian.
 Sans,  for  Sanskrit.  Vend,  for  Vendidad,  ed.  Spiegel.  Visp.  for
 Visparad,  ed.  Sp.  Yas.  for  Yasna,  ed.  Sp.  Yt.  for  Ya^t,  ed.
@@ -3393,8 +3139,7 @@ Dinshawji  Anklesaria  at  Bombay.
 Chapter  I.
 
 o.  In  the  name  of  the  creator  Auharmazd.
-I.  The  Zand-akas  ('Zand-knowing  or  tradition-
-informed  y,  which  is  first  about  Auharmazd's  original
+I.  The  Zand-akas  ('Zand-knowing  or  traditioninformed  y,  which  is  first  about  Auharmazd's  original
 creation  and  the  antagonism  of  the  evil  spirit  ^  and
 afterwards  about  the  nature  of  the  creatures  from
 the  original  creation  till  the  end,  which  is  the  future
@@ -3448,12 +3193,10 @@ in  which  is  now  their  meeting.
 
 5.  Both  are  limited  and  unlimited  spirits,  for  the
 supreme  is  that  which  they  call  endless  light,  and
-the  abyss  that  which  is  endlessly  dark,  so  that  be-
-tween them  is  a  void,  and  one  is  not  connected  with
+the  abyss  that  which  is  endlessly  dark,  so  that  between them  is  a  void,  and  one  is  not  connected  with
 
 
-^  Reading  aham-kai,  'without  a  fellow-sovereign,  peerless,  un-
-rivalled, independent.'  This  rare  word  occurs  three  times  in  §§  2,
+^  Reading  aham-kai,  'without  a  fellow-sovereign,  peerless,  unrivalled, independent.'  This  rare  word  occurs  three  times  in  §§  2,
 3,  and  some  Pazand  writers  suggest  the  meaning  '  everlasting '  (by
 means  of  the  Persian  gloss  hamij-ah),  which  is  plausible  enough,
 but  hamaki  would  be  an  extraordinary  mode  of  writing  the  very
@@ -3469,8 +3212,7 @@ observances,  rules,  and  writings ;  so  it  may  be  translated  either  by
 ^  This  appears  to  be  the  meaning,  but  the  construction  of  §  3  is
 altogether  rather  obscure,  and  suggestive  of  omissions  in  the  text.
 
-*  The  usual  name  of  the  evil  spirit ;  it  is  probably  an  older  cor-
-ruption of  Angra-mainyu  than  Ganrak-mainok,  and  a  less
+*  The  usual  name  of  the  evil  spirit ;  it  is  probably  an  older  corruption of  Angra-mainyu  than  Ganrak-mainok,  and  a  less
 technical  term.     Its  Sasanian  form  was  Aharmani.
 
 
@@ -3482,16 +3224,14 @@ their  own  selves.  6.  And,  secondly,  on  account  of
 the  omniscience  of  Auharmazd,  both  things  are  in
 the  creation  of  Atiharmazd,  the  finite  and  the  infinite;
 for  this  they  know  is  that  which  is  in  the  covenant
-of  both  spirits.  7.  And,  again,  the  complete  sove-
-reignty of  the  creatures  of  Auharmazd  is  in  the
+of  both  spirits.  7.  And,  again,  the  complete  sovereignty of  the  creatures  of  Auharmazd  is  in  the
 future  existence,  and  that  also  is  unlimited  for  ever
 and  everlasting ;  and  the  creatures  of  Aharman  will
 perish  at  the  time  when ^  the  future  existence  occurs,
 and  that  also  is  eternity.
 
 8.  Alaharmazd,  through  omniscience,  knew  that
-Aharman  exists,  and  whatever  he  schemes  he  in-
-fuses with  malice  and  greediness  till  the  end;  mid
+Aharman  exists,  and  whatever  he  schemes  he  infuses with  malice  and  greediness  till  the  end;  mid
 because  He  accomplishes  the  end  by  many  means,
 He  also  produced  spiritually  the  creatures  which
 were  necessary  for  those  means,  and  they  remained
@@ -3499,19 +3239,16 @@ three  thousand  years  in  a  spiritual  state,  so  that  they
 were  unthinking  ^  and  unmoving,  with  intangible
 bodies.
 
-9.  The  evil  spirit,  on  account  of  backward  know-
-ledge, was  not  aware  of  the  existence  of  Auharmazd ;
+9.  The  evil  spirit,  on  account  of  backward  knowledge, was  not  aware  of  the  existence  of  Auharmazd ;
 and,  afterwards,  he  arose  from  the  abyss,  and  came
 in  unto  the  light  which  he  saw.  10.  Desirous  of
 destroying,  and  because  of  his  malicious  nature,  he
 
 ^  Substituting  amat,  'when,'  for  mun,  'which,'  two  Huzvarij
-forms  which  are  frequently  confounded  by  Pahlavi  copyists  be-
-cause their  Pazand  equivalents,  ka  and  ke,  are  nearly  alike.
+forms  which  are  frequently  confounded  by  Pahlavi  copyists  because their  Pazand  equivalents,  ka  and  ke,  are  nearly  alike.
 
 2  Reading  amini^ar  in  accordance  with  M6,  which  has  amini-
-<far  in  Chap.  XXXIV,  i,  where  the  same  phrase  occurs.  Windisch-
-mann  and  Justi  read  amuitar,  'uninjured,  invulnerable,'  in  both
+<far  in  Chap.  XXXIV,  i,  where  the  same  phrase  occurs.  Windischmann  and  Justi  read  amuitar,  'uninjured,  invulnerable,'  in  both
 places.  This  sentence  appears  to  refer  to  a  preparatory  creation  of
 embryonic  and  immaterial  existences,  the  prototypes,  fravashis,
 spiritual  counterparts,  or  guardian  angels  of  the  spiritual  and
@@ -3521,8 +3258,7 @@ material  creatures  afterwards  produced.
 EUNDAHW.
 
 
-rushed  in  to  destroy  that  Hght  of  Auharmazd  unas-
-sailed  by  fiends,  and  he  saw  its  bravery  and  glory
+rushed  in  to  destroy  that  Hght  of  Auharmazd  unassailed  by  fiends,  and  he  saw  its  bravery  and  glory
 were  greater  than  his  own ;  so  he  fled  back  to  the
 gloomy  darkness,  and  formed  many  demons  and
 fiends  ;  and  the  creatures  of  the  destroyer  arose  for
@@ -3532,22 +3268,18 @@ violence.
 spirit  were  seen,  creatures  terrible,  corrupt,  and  bad,
 also  considered  them  not  commendable  (burzi^nik).
 12.  Afterwards,  the  evil  spirit  saw  the  creatures  of
-Atiharmazd ;  they  appeared  many  creatures  of  de-
-light (vayah),  enquiring  creatures,  and  they  seemed
-to  him  commendable,  and  he  commended  the  crea-
-tures and  creation  of  Auharmazd.
+Atiharmazd ;  they  appeared  many  creatures  of  delight (vayah),  enquiring  creatures,  and  they  seemed
+to  him  commendable,  and  he  commended  the  creatures and  creation  of  Auharmazd.
 
 13.  Then  Auharmazd,  with  a  knowledge^  of  which
 way  the  end  of  the  matter  would  be,  went  to  meet
 the  evil  spirit,  and  proposed  peace  to  him,  and  spoke
-thus  :  '  Evil  spirit !  bring  assistance  unto  my  crea-
-tures, and  offer  praise !  so  that,  in  reward  for  it,
+thus  :  '  Evil  spirit !  bring  assistance  unto  my  creatures, and  offer  praise !  so  that,  in  reward  for  it,
 ye  (you  and  your  creatures)  may  become  immortal
 and  undecaying,  hungerless  and  thirstless.'
 
 14.  And  the  evil  spirit  shouted  thus^:  '  I  will  not
-depart,  I  will  not  provide  assistance  for  thy  crea-
-tures, I  will  not  offer  praise  among  thy  creatures,
+depart,  I  will  not  provide  assistance  for  thy  creatures, I  will  not  offer  praise  among  thy  creatures,
 and  I  am  not  of  the  same  opinion  with  thee  as  to
 good  things.  I  will  destroy  thy  creatures  for  ever
 and  everlasting ;  moreover,  I  ivill  force  all  thy
@@ -3578,8 +3310,7 @@ will  not  return  to  my  possession.'
 1 7.  Then  Auharmazd,  through  omniscience,  knew
 that :  If  I  do  not  grant  a  period  of  contest,  then  it
 will  be  possible  for  him  to  act  so  that  he  may  be
-able  to  cause  the  seduction  of  my  creatures  to  him-
-self. As  even  now  there  are  many  of  the  inter-
+able  to  cause  the  seduction  of  my  creatures  to  himself. As  even  now  there  are  many  of  the  inter-
 mixture of  mankind  who  practise  wrong  more  than
 right.  18.  And  Auharmazd  spoke  to  the  evil  spirit
 thus  :  '  Appoint  a  period !  so  that  the  intermingling
@@ -3593,12 +3324,10 @@ like  two  men  quarrelling  together,  who  propose  a
 time  thus:  Let  us  appoint  such-and-such  a  day  for  a
 fight.
 
-20.  Auharmazd  also  knew  this,  through  omni-
-science, that  within  these  nine  thousand  years,  for
+20.  Auharmazd  also  knew  this,  through  omniscience, that  within  these  nine  thousand  years,  for
 three  thousand  years  everything  proceeds  by  the  will
 of  Auharmazd,  three  thousand  years  there  is  an
-intermingling  of  the  wills  of  Adharmazd  and  Ahar-
-man,  and  the  last  three  thousand  years  the  evil
+intermingling  of  the  wills  of  Adharmazd  and  Aharman,  and  the  last  three  thousand  years  the  evil
 spirit  is  disabled,  aad  they  keep  the  adversary  away  ^
 from  the  creatures.
 
@@ -3633,8 +3362,7 @@ years  are  in  addition  to  the  3000  mentioned  in  §  8,  as  appears  mor
 clearly  in  Chap.  XXXIV,  i.
 
 ^  This  is  the  most  sacred  formula  of  the  Parsis,  which  they  have
-to  recite  frequently,  not  only  during  the  performance  of  their  cere-
-monies, but  also  in  connection  with  most  of  their  ordinary  duties
+to  recite  frequently,  not  only  during  the  performance  of  their  ceremonies, but  also  in  connection  with  most  of  their  ordinary  duties
 and  habits.  It  is  neither  a  prayer,  nor  a  creed,  but  a  declaratory
 formula  in  metre,  consisting  of  one  stanza  of  three  lines,  containing
 twenty-one  Avesta  words,  as  follows : —
@@ -3661,20 +3389,16 @@ and  impotent  as  to  the  harm  he  caused  the  creatures
 of  Auharmazd,  and  he  remained  three  thousand
 years  in  confusion^,
 
-23.  Auharmazd  created  his  creatures  in  the  con-
-fusion of  Aharman ;  first  he  produced  Vohuman
+23.  Auharmazd  created  his  creatures  in  the  confusion of  Aharman ;  first  he  produced  Vohuman
 ('good  thought'),  by  whom  the  progress  of  the
 creatures  of  Auharmazd  was  advanced.
 
-24.  The  evil  spirit  first  created  ^  Mitokht  ('  false-
-hood '),  and  then  Akoman  ('  evil  thought ').
+24.  The  evil  spirit  first  created  ^  Mitokht  ('  falsehood '),  and  then  Akoman  ('  evil  thought ').
 
 25.  The  first  of  Auharmazd's  creatures  of  the
-world  was  the  sky,  and  his  good  thought  (Vohu-
-man), by  good  procedure  ^,  produced  the  light  of
+world  was  the  sky,  and  his  good  thought  (Vohuman), by  good  procedure  ^,  produced  the  light  of
 the  world,  along  with  which  was  the  good  religion
-of  the  Mazdayasnians  ;  this  was  because  the  renova-
-tion (frashakarrtf)  ^  which  happens  to  the  creatures
+of  the  Mazdayasnians  ;  this  was  because  the  renovation (frashakarrtf)  ^  which  happens  to  the  creatures
 was  known  to  him.       26.  Afterwards  arose  Ar^ava-
 
 ^  This  is  the  first  third  of  the  9000  years  appointed  in  §§  18,  20,
@@ -3683,13 +3407,11 @@ and  the  second  3000  years  mentioned  in  Chap.  XXXIV,  i.
 2  It  is  usual  to  consider  da^/an  (Huz.  yehabuntan),  when
 traceable  to  Av.  da=Sans.  dha,  as  meaning  'to  create,'  but  it  can
 hardly  be  proved  that  it  means  to  create  out  of  nothing,  any  more
-than  any  other  of  the  Avesta  verbs  which  it  is  sometimes  con-
-venient to  translate  by  '  create.'  Before  basing  any  argument  upon
+than  any  other  of  the  Avesta  verbs  which  it  is  sometimes  convenient to  translate  by  '  create.'  Before  basing  any  argument  upon
 the  use  of  this  word  it  will,  therefore,  be  safer  to  substitute  the
 word  'produce'  in  all  cases.
 
-^  Or  it  may  be  translated,  '  and  from  it  Vohuman,  by  good  pro-
-cedure,' &c.  The  position  here  ascribed  to  Vohuman,  or  the  good
+^  Or  it  may  be  translated,  '  and  from  it  Vohuman,  by  good  procedure,' &c.  The  position  here  ascribed  to  Vohuman,  or  the  good
 thought  of  Auharmazd,  bears  some  resemblance  to  that  of  the  Word
 in  John  i.  1-5,  but  with  this  essential  difference,  that  Vohuman  is
 merely  a  creature  of  Aiaharmazd,  not  identified  with  him ;  for  the
@@ -3729,14 +3451,12 @@ also  not  of  the  constellations  ^  then  the  moon,  and
 afterwards  the  sun,  as  I  s/m//  relate.
 
 
-^  These  five,  with  Vohuman  and  Auharmazd  in  his  angelic  capa-
-city, constitute  the  seven  Ameshaspends, '  undying  causers  of  pros-
+^  These  five,  with  Vohuman  and  Auharmazd  in  his  angelic  capacity, constitute  the  seven  Ameshaspends, '  undying  causers  of  pros-
 perity, immortal  benefactors,'  or  archangels,  who  have  charge  of
 the  whole  material  creation.  They  are  personifications  of  old  Avesta
 phrases,  such  as  Vohu-mano,  'good  thought;'  Asha-vahijta,
 'perfect  rectitude;'  Khshathra-vairya,  'desirable  dominion;'
-Spewta-armaiti,  'bountiful  devotion;'  Haurvata</,  'complete-
-ness or  health  ;'  and  Ameretad,  '  immortality.'
+Spewta-armaiti,  'bountiful  devotion;'  Haurvata</,  'completeness or  health  ;'  and  Ameretad,  '  immortality.'
 
 "^  These  six  demons  are  the  opponents  of  the  six  archangels
 respectively  (see  Chap.  XXX,  29) ;  their  names  in  the  Avesta  are,
@@ -3748,27 +3468,23 @@ respectively.   For  further  details  regarding  them,  see  Chap.  XXVIII,
 
 7-13-
 
-^  The  word  akhtar  is  the  usual  term  in  Pahlavi  for  a  constella-
-tion of  the  zodiac;  but  the  term  apakh  tar,  'away  from  the  akhtar,'
+^  The  word  akhtar  is  the  usual  term  in  Pahlavi  for  a  constellation of  the  zodiac;  but  the  term  apakh  tar,  'away  from  the  akhtar,'
 means  not  only  '  the  north,'  or  away  from  the  zodiac,  but  also  '  a
 
 
 CHAPTER    I,   27-ir,  4.  II
 
 2.  First  he  produced  the  celestial  sphere,  and  the
-constellation  stars  are  assigned  to  it  by  him  ;  espe-
-cially these  twelve  whose  names  are  Varak  (the
+constellation  stars  are  assigned  to  it  by  him  ;  especially these  twelve  whose  names  are  Varak  (the
 Lamb),  Tora  (the  Bull),  D6-patkar  (the  Two-figures
 or  Gemini),  Kala/^ang  (the  Crab),  S^x  (the  Lion),
 Khui-ak  (Virgo),  Tara^uk  (the  Balance),  'Gazdum
 (the  Scorpion),  Nimasp  (the  Centaur  or  Sagittarius),
 Vahik^  (Capricornus),  Dul  (the  Waterpot),  and
 Mahik  (the  Fish)  ;  3.  which,  from  their  original
-creation,  were  divided  into  the  twenty-eight  sub-
-divisions of  the  astronomers  ^  of  which  the  names
+creation,  were  divided  into  the  twenty-eight  subdivisions of  the  astronomers  ^  of  which  the  names
 are  Padevar,  Pesh-Parviz,  Parviz,  Paha,  Avesar,
-Bern,  Rakhvartf,  Taraha,  Avra,  Nahn,  Miyan,  Av-
-dem,  Mashaha,  Spur,  Husru,  Srob,  Nur,  Gel,  Garaf^a,
+Bern,  Rakhvartf,  Taraha,  Avra,  Nahn,  Miyan,  Avdem,  Mashaha,  Spur,  Husru,  Srob,  Nur,  Gel,  Garaf^a,
 Vara;/t,  Grt;u,  Goi,  Muru,  Bunda,  Kahtsar,  Vaht.
 Miyan,  Kaht  ^.       4.  And  all  his  original  creations,
 
@@ -3798,13 +3514,9 @@ Ajvini.  The  Pazand  names  are  so  corrupt  that  no  reliance  can
 be  placed  upon  them,  and  the  first  step  towards  recovering  the  true
 
 
-1 2  BUNDAHW.
-
-
 residing  in  the  world,  are  committed  to  them^;  so
 that  when  the  destroyer  arrives  they  overcome  the
-adversary  and  their  own  persecution,  and  the  crea-
-tures are  saved  from  those  adversities.
+adversary  and  their  own  persecution,  and  the  creatures are  saved  from  those  adversities.
 
 ^.  As  2i  specimen  of  a  warhke  army,  which  is
 destined  for  battle,  they  have  ordained  every  single
@@ -3814,14 +3526,12 @@ chieftains,  appointed  on  the  four  sides,  are  leaders.
 6.  On  the  recommendation  of  those  chieftains  the
 many  unnumbered  stars  are  specially  assigned  to  the
 various  quarters  and  various  places,  as  the  united
-strength  and  appointed  power  of  those  constella-
-tions. 7.  As  it  is  said  that  Ti^tar  is  the  chieftain  of
+strength  and  appointed  power  of  those  constellations. 7.  As  it  is  said  that  Ti^tar  is  the  chieftain  of
 the  east,  Sataves  the  chieftain  of  the  west,  Vanand
 the  chieftain  of  the  south,  and  Haptok-ring  the
 chieftain  of  the  north  2.     8.  The  great  07ie  which  they
 
-Pahlavi  names  would  be  to  transliterate  the  Pazand  back  into  Pah-
-lavi  characters.  The  ninth  subdivision  is  mentioned  in  Chap.  VII,  i
+Pahlavi  names  would  be  to  transliterate  the  Pazand  back  into  Pahlavi  characters.  The  ninth  subdivision  is  mentioned  in  Chap.  VII,  i
 by  the  name  Avrak.
 
 ^  That  is,  to  the  zodiacal  constellations,  which  are  supposed  to
@@ -3832,19 +3542,14 @@ leaders,  there  is  no  doubt  that  Haptok-ring,  the  chieftain  of  the
 north,  is  Ursa  Major  ;  and  it  is  usually  considered  that  Tutar,  the
 chieftain  of  the  east,  is  Sirius  ;  but  the  other  two  chieftains  are  not
 so  well  identified,  and  there  may  be  some  doubt  as  to  the  proper
-stations  of  the  eastern  and  western  chieftains.  It  is  evident,  how-
-ever, that  the  most  westerly  stars,  visible  at  any  one  time  of  the
+stations  of  the  eastern  and  western  chieftains.  It  is  evident,  however, that  the  most  westerly  stars,  visible  at  any  one  time  of  the
 year,  are  those  which  set  in  the  dusk  of  the  evening ;  and  east  of
 these,  all  the  stars  are  visible  during  the  night  as  far  as  those  which
 rise  at  daybreak,  which  are  the  most  easterly  stars  visible  at  that
 time  of  the  year.  Tutar  or  Sirius  can,  therefore,  be  considered
-the  chieftain  of  the  eastern  stars  only  when  it  rises  before  day-
-break, which  it  does  at  the  latter  end  of  summer  ;  and  Haptok-
+the  chieftain  of  the  eastern  stars  only  when  it  rises  before  daybreak, which  it  does  at  the  latter  end  of  summer  ;  and  Haptok-
 ring  or  Ursa  Major  is  due  north  at  midnight  (on  the  meridian  below
 the  pole)  at  about  the  same  time  of  the  year.     These  stars,  there-
-
-
-CHAPTER    II,   5-8.  13
 
 
 call  a  Gah  (period  of  the  day),  which  they  say  is  the
@@ -3870,8 +3575,7 @@ when  Ursa  Major  would  be  due  north  three-quarters  of  an  hour
 after  midnight,  and  Fomalhaut  due  south  three-quarters  of  an  hour
 before  midnight,  Sirius  would  rise  three  hours  before  the  sun,  and
 Antares  would  set  three  hours  after  the  sun.  In  the  Avesta  these
-leading  stars  are  named  Tijtrya,  Satavaesa,  Vanawt,  and  Haptoi-
-riwga  (see  Tutar  Yt.  o,  8,  9,  12,  32,  &c.,  Rashnu  Yt.  26-28,
+leading  stars  are  named  Tijtrya,  Satavaesa,  Vanawt,  and  Haptoiriwga  (see  Tutar  Yt.  o,  8,  9,  12,  32,  &c.,  Rashnu  Yt.  26-28,
 Siroz.  13).
 
 ^  This  translation,  though  very  nearly  literal,  must  be  accepted
@@ -3883,42 +3587,32 @@ Huz.  khomjya,  '  five,'  and  may  refer  either  to  the  five  chieftains
 day,  of  which  Rapitvin  is  the  midday  one  (see  Chap.  XXV,  9).
 The  object  of  the  text  seems  to  be  to  connect  the  Rapitvin  Gah
 with  some  great  mid-sky  and  midday  constellation  or  star,  possibly
-Regulus,  which,  about  b.  c.  960,  must  have  been  more  in  the  day-
-light than  any  other  important  star  during  the  seven  months  of
+Regulus,  which,  about  b.  c.  960,  must  have  been  more  in  the  daylight than  any  other  important  star  during  the  seven  months  of
 summer,  the  only  time  that  the  Rapitvin  Gah  can  be  celebrated
 (see  Chap.  XXV,  7-14).  Justi  has,  'They  call  that  the  great  one  of
 the  place,  which  is  great  in  the  middle  of  the  sky ;  they  say  that
 before  the  enemy  came  it  was  always  midday,  that  is,  Rapitvin.'
 
 
-14  BUNDAHI5'.
-
-
-9.  Aiiharmazd  performed  the  spiritual  Ya^'i^n  cere-
-mony  with  the  archangels  (ameshospendan)  in  the
+9.  Aiiharmazd  performed  the  spiritual  Ya^'i^n  ceremony  with  the  archangels  (ameshospendan)  in  the
 Rapitvin  Gah,  and  in  the  Ya^ii-n  he  supplied  every
 means  necessary  for  overcoming  the  adversary  \
 lo.  He  deliberated  with  the  consciousness  (bod)
 and  guardian  spirits  (fravahar)  of  men^,  and  the
 omniscient  wisdom,  brought  forward  among  men,
-spoke  thus :  *  Which  seems  to  you  the  more  advanta-
-geous, when  2  I  shall  present  you  to  the  world  ?  that
+spoke  thus :  *  Which  seems  to  you  the  more  advantageous, when  2  I  shall  present  you  to  the  world  ?  that
 you  shall  contend  in  a  bodily  form  with  the  fiend
 (dru^),  and  the  fiend  shall  perish,  and  in  the  end
-I  shall  have  you  prepared  again  perfect  and  im-
-mortal, and  in  the  end  give  you  back  to  the  world,
+I  shall  have  you  prepared  again  perfect  and  immortal, and  in  the  end  give  you  back  to  the  world,
 and  you  will  be  wholly  immortal,  undecaying,  and
-undisturbed ;  or  that  it  be  always  necessary  to  pro-
-vide you  protection  from  the  destroyer  ? '
+undisturbed ;  or  that  it  be  always  necessary  to  provide you  protection  from  the  destroyer  ? '
 
-II.  Thereupon,  the  guardian  spirits  of  men  be-
-came of  the  same  opinion  with  the  omniscient  wis-
+II.  Thereupon,  the  guardian  spirits  of  men  became of  the  same  opinion  with  the  omniscient  wis-
 dom about  going  to  the  world,  on  account  of  the
 evil  that  comes  upon  them,  in  the  world,  from  the
 fiend  (dru^)  Aharman,  and  their  becoming,  at  last,
 again  unpersecuted  by  the  adversary,  perfect,  and
-immortal,  in  the  future  existence,  for  ever  and  ever-
-lasting.
+immortal,  in  the  future  existence,  for  ever  and  everlasting.
 
 Windischmann  has  nearly  the  same,  as  both  follow  the  Pazand
 MSS.  in  reading  homij-ak  (as  a  variant  of  hami>rak),  'always,'
@@ -3943,8 +3637,7 @@ it  is  said,  in  revelation,  that  the  evil  spirit,  when  he
 saw  the  impotence  of  himself  and  the  confederate  ^
 (ham-dast)  demons,  owing  to  the  righteous  man  ^
 became  confounded,  and  seemed  in  confusion  three
-thousand  years.  2.  During  that  confusion  the  arch-
-fiends =^  of  the  demons  severally  shouted  thus:  'Rise
+thousand  years.  2.  During  that  confusion  the  archfiends =^  of  the  demons  severally  shouted  thus:  'Rise
 up,  thou  father  of  us !  for  we  will  cause  a  conflict  in
 the  world,  the  distress  and  injury  from  which  will
 become  those  of  Auharmazd  and  the  archangels,'
@@ -3995,8 +3688,7 @@ make  the  whole  creation  of  Auharmazd  vexed/
 7.  And  she  so  recounted  those  evil  deeds  a  second
 time,  that  the  evil  spirit  was  delighted  and  started
 up  from  that  confusion ;  and  he  kissed  Goh  upon
-the  head,  and  the  pollution  which  they  call  men-
-struation became  apparent  in  6^eh.
+the  head,  and  the  pollution  which  they  call  menstruation became  apparent  in  6^eh.
 
 8.  He  shouted  to  Ceh  thus  :  '  What  is  thy  wish  ?
 so  that  I  may  give  il  thee.'  And  Geh.  shouted  to
@@ -4016,8 +3708,7 @@ Windischmann  and  Justi  in  accordance  with  the  Paz.  MSS.
 ^  That  this  is  the  Huzvari^  of  ruban,  'soul,'  appears  from  Chap.
 XV,  3-5,  where  both  words  are  used  indifferently ;  but  it  is  not
 given  in  the  Huz.-Paz.  Glossary.  It  is  evidently  equivalent  to
-Chald.  nijma,  and  ought  probably  to  have  the  traditional  pronun-
-ciation nisman,  an  abbreviation  of  nismman.
+Chald.  nijma,  and  ought  probably  to  have  the  traditional  pronunciation nisman,  an  abbreviation  of  nismman.
 
 ^  This  seems  to  be  the  literal  meaning  of  the  sentence,  and  is
 confirmed  by  Chap.  XXVIII,  i,  but  Windischmann  and  Justi
@@ -4028,15 +3719,13 @@ Milton's  idea  of  Satan  and  Sin  in  Paradise  Lost,  Book  II,  745-765-
 
 CHAPTER    III,    6-16.  17
 
-10.  Afterwards,  the  evil  spirit,  with  the  confede-
-rate demons,  went  towards  the  kiminaries,  and  he
+10.  Afterwards,  the  evil  spirit,  with  the  confederate demons,  went  towards  the  kiminaries,  and  he
 saw  the  sky ;  and  he  led  them  up,  fraught  with
 malicious  intentions.  11.  He  stood  upon  one-third^
 of  the  inside  of  the  sky,  and  he  sprang,  like  a  snake,
 out  of  the  sky  down  to  the  earth.
 
-12.  In  the  month  Fravar^Ti'in  and  the  day  Auhar-
-mazd  ^  he  rushed  in  at  noon,  and  thereby  the  sky  was
+12.  In  the  month  Fravar^Ti'in  and  the  day  Auharmazd  ^  he  rushed  in  at  noon,  and  thereby  the  sky  was
 as  shattered  and  frightened  by  him,  as  a  sheep  by
 a  wolf  13.  He  came  on  to  the  water  which  was
 arranged  ^  below  the  earth,  and  then  the  middle
@@ -4046,15 +3735,13 @@ the  ox,  then  to  Gayomar^,  and  then  he  came  to
 fire*;  so,  just  like  a  fly,  he  rushed  out  upon  the
 whole  creation ;  and  he  made  the  world  quite  as
 injured  and  dark  ^  at  midday  as  though  it  were  in
-dark  night.  15.  And  noxious  creatures  were  dif-
-fused by  him  over  the  earth,  biting  and  venomous,
+dark  night.  15.  And  noxious  creatures  were  diffused by  him  over  the  earth,  biting  and  venomous,
 such  as  the  snake,  scorpion,  frog  (kalvak),  and
 lizard  (vazak),  so  that  not  so  much  as  the  point
 of  a  needle  remained  free  from  noxious  creatures.
 16,  And    blight''   was    diffused    by   him    over    the
 
-^  Perhaps  referring  to  the  proportion  of  the  sky  which  is  over-
-spread by  the  darkness  of  night.  The  whole  sentence  is  rather
+^  Perhaps  referring  to  the  proportion  of  the  sky  which  is  overspread by  the  darkness  of  night.  The  whole  sentence  is  rather
 obscure.
 
 ^  The  vernal  equinox  (see  Chap.  XXV,  7).
@@ -4074,9 +3761,6 @@ difficult  to  read.
 [5]  C
 
 
-1 8  BUNDAHI5'.
-
-
 vegetation,  and  it  withered  away  immediately.  17.
 And  avarice,  want,  pain,  hunger,  disease,  kist,  and
 lethargy  were  diffused  by  him  abroad  upon  the  ox
@@ -4092,8 +3776,7 @@ passed  away,  the  ox  also  spoke  thus  :  '  The  cattle
 are  to  be  created,  and  their  work,  labour,  and  care
 are  to  be  appointed.'
 
-19.  And  before  his  coming  to  Gayomar^,  Atihar-
-mazd  brought  forth  a  sweat  upon  Gayomar^,  so
+19.  And  before  his  coming  to  Gayomar^,  Atiharmazd  brought  forth  a  sweat  upon  Gayomar^,  so
 long  as  he  might  recite  a  prayer  (va^)  of  one  stanza
 (vi/crast);  moreover,  Aiiharmazd  formed  that  sweat
 into  the  youthful  body  of  a  man  of  fifteen  years,
@@ -4107,8 +3790,7 @@ motion :  and  the  world's  struggle,  owing  to  the
 clamour  of  the  Mazinikan  demons  ^,  was  with  the
 constellations.
 
-21.  And  the   evil   spirit    thought   that  the    crea-
-tures of  Afiharmazd  were  all  rendered  useless  except
+21.  And  the   evil   spirit    thought   that  the    creatures of  Afiharmazd  were  all  rendered  useless  except
 
 
 ^  The  word  mivang  is  an  unusual  form  of  mivak,  'fruit.'  It
@@ -4140,8 +3822,7 @@ duty  and  good  works/
 24.  And,  afterwards,  he  (the  evil  spirit)  came  to
 fire,  and  he  mingled  smoke  and  darkness  with  it
 25.  The  planets,  with  many  demons,  dashed  against
-the  celestial  sphere,  and  they  mixed  the  constella-
-tions ;  and  the  whole  creation  was  as  disfigured  as
+the  celestial  sphere,  and  they  mixed  the  constellations ;  and  the  whole  creation  was  as  disfigured  as
 though  fire  disfigured  every  place  and  smoke  arose
 over  it.  26.  And  ninety  days  and  nights  the
 heavenly  angels  were  contending  in  the  world  with
@@ -4159,15 +3840,11 @@ in  upon  it,  as  all  the  possessions  of  the  world  were
 137.  V,  25,  31),  who  is  supposed  'to  cast  a  halter  around  the
 necks  of  the  dead  to  drag  them  to  hell,  but  if  their  good  works
 have  exceeded  their  sins  they  throw  off  the  noose  and  go  to  heaven'
-(Haug's  Essays,  2nd  ed.  p.  321).  This  name  is  misread  Asti-
-viha^/  by  Pazand  writers.
+(Haug's  Essays,  2nd  ed.  p.  321).  This  name  is  misread  Astiviha^/  by  Pazand  writers.
 
 2  See  §  13.
 
 C  2
-
-
-20  BUNDAHW.
 
 
 changing  into  duality,  and  persecution,  contention,
@@ -4201,8 +3878,7 @@ some  plants  are  supposed  to  have  proceeded  (see  Chaps.  X  and
 XIV),  as  mankind  proceeded  from  Gay6mar<f.  It  is  the  ox  of
 the  primitive  creation,  mentioned  in  Chap.  Ill,  14,  18.
 
-^  The  spiritual  representative  of  the  primeval  ox,  called  Qews-
-urva,  '  soul  of  the  bull,'  in  the  Avesta,  of  which  name  G6,mrvan  is
+^  The  spiritual  representative  of  the  primeval  ox,  called  Qewsurva,  '  soul  of  the  bull,'  in  the  Avesta,  of  which  name  G6,mrvan  is
 a  corruption.  The  complaint  of  Gojurvan  is  recorded  in  the
 Gathas,  the  oldest  part  of  the  Avesta  (see  Yas.  XXIX).
 
@@ -4249,8 +3925,7 @@ a  representative  of  the  earth.  In  the  Selections  of  Za</-sparam,  II,
 sun  and  moon  are  here  added.
 
 ^  As  this  name  stands  in  the  MSS.  it  may  be  read  Gur^dar  (as
-in  the  Paz.  MSS.),  GurX'ihar,  or  Dur/^ihar  ;  the  reading  is  very  un-
-certain, and  Windischmann  suggests  Gurg-/iihar,  '  wolf  progeny '
+in  the  Paz.  MSS.),  GurX'ihar,  or  Dur/^ihar  ;  the  reading  is  very  uncertain, and  Windischmann  suggests  Gurg-/iihar,  '  wolf  progeny '
 (compare  vehrko-^ithrain  Ardabahi^  Yait  8).    A  shooting  star,
 
 
@@ -4296,8 +3971,7 @@ Caspian.     See  Chaps.  VIII,  2,  XII,  i,  3.
 
 Chap.  XII,  2,  4-
 
-*  The  word  maya-gir  is  a  Huz.  hybrid  for  av-gir, 'a  water-
-holder,  or  ditch.'
+*  The  word  maya-gir  is  a  Huz.  hybrid  for  av-gir, 'a  waterholder,  or  ditch.'
 
 •"'  The  word  may  be  either  ave^ak   or   khavi^ak,  with  this
 
@@ -4310,12 +3984,10 @@ The  Huz.  word  for  '  month '  is  here  used  for  the  '  moon.'
 CHAPTER    V,    2-6.  23
 
 
-and  eighty  apertures  (ro^in)  in  the  east,  and  a  hun-
-dred and  eighty  in  the  west,  through  Alburn ;  and
+and  eighty  apertures  (ro^in)  in  the  east,  and  a  hundred and  eighty  in  the  west,  through  Alburn ;  and
 the  sun,  every  day,  comes  in  through  an  aperture,
 and  goes  out  through  an  aperture  ^ ;  and  the  whole
-connection    and    motion   of  the  moon  and   constel-
-lations and  planets  is  with  it  :  every  day  it  always
+connection    and    motion   of  the  moon  and   constellations and  planets  is  with  it  :  every  day  it  always
 illumines  (or  warms)  three  regions  (keshvar)^  and
 a  half,  as  is  evident  to  the  eyesight.     6.   And  twice
 in  every  year  the  day  and  night  are  equal,  for  on  the
@@ -4326,8 +3998,7 @@ at  the  first  degree  of  Kala/C^ang  (Cancer)  the  time  of
 day  is  greatest,  it  is  the  beginning  of  summer;  when
 it  arrives  at  the  sign  (khurrt'ak)  Tara^k  (Libra)  the
 day  and    night  are   equal,   it   is   the    beginning   of
-autumn ;  when  it  arrives  at  the  sign  Vahik  (Capri-
-corn) the  night  is  a  maximum,  it  is  the  beginning  of
+autumn ;  when  it  arrives  at  the  sign  Vahik  (Capricorn) the  night  is  a  maximum,  it  is  the  beginning  of
 winter  ;    and  when   it  arrives  at  Varak  (Aries)  the
 night  and  day  have  again  become  equal,  as  when  it
 
@@ -4386,8 +4057,7 @@ there.
 months,  of  thirty  days  each,  to  complete  the  year.  For  these  days
 no  additional  apertures  are  provided  in  Alburz,  and  the  sun  appears
 to  have  the  choice  of  either  of  the  two  centre  apertures  out  of  the
-180  on  each  side  of  the  world.  This  arrangement  seems  to  indi-
-cate that  the  idea  of  the  apertures  is  older  than  the  rectification  of
+180  on  each  side  of  the  world.  This  arrangement  seems  to  indicate that  the  idea  of  the  apertures  is  older  than  the  rectification  of
 the  calendar  which  added  the  five  Gatha  days  to  an  original  year
 of  360  days.
 
@@ -4439,9 +4109,6 @@ following  four  chapters.
 the  middle  of  Cancer.     Tii-tar  (Sirius)  being  in  Cancer  probably
 
 
-26  BUNDAHW.
-
-
 pouring,  on  the  same  day  when  the  destroyer  rushed
 in,  and  came  again  into  notice  for  mischief  (avarak)
 in  the  direction  of  the  west.  2.  For  every  single
@@ -4478,12 +4145,10 @@ the  form  of  a  man  for  the  first  ten  nights,  of  a  bull  for  the  sec
 ten  nights,  and  of  a  horse  for  the  third  ten  nights.  Also  in  Vend.
 XIX,  126  Tutar  is  specially  invoked  in  his  form  of  a  bull.
 
-*  Or  it  may  be  translated, '  he  hovered  in  the  light,'  as  Windisch-
-mann  and  Justi  have  it.
+*  Or  it  may  be  translated, '  he  hovered  in  the  light,'  as  Windischmann  and  Justi  have  it.
 
 *  In  comparing  the  inundation  produced  by  TiJtar  with  the
-Noachian  deluge,  it  must  be  recollected  that  the  former  is  repre-
-sented as  occurring  before  mankind  had  propagated  on  the  earth.
+Noachian  deluge,  it  must  be  recollected  that  the  former  is  represented as  occurring  before  mankind  had  propagated  on  the  earth.
 
 
 CHAPTER   VII,    2-IO.  27
@@ -4541,18 +4206,15 @@ thus  they  call  the  measure  which  was  a  means  of  the
 work — he  seized  upon  the  water  and  made  it  rain
 most  prodigiously,  in  drops  like  bull's  heads  and
 men's  heads,  pouring  in  handfuls  and  pouring  in
-armfuls,  both  great  and  small,  12.  On  the  produc-
-tion of  that  rain  the  demons  Aspen^argak  ^  and
-Apaosh  contended  ivith  it,  and  the  fire  Vazi^t-
-turned  its  club  over ;  and  owing  to  the  blow  of  the
+armfuls,  both  great  and  small,  12.  On  the  production of  that  rain  the  demons  Aspen^argak  ^  and
+Apaosh  contended  ivith  it,  and  the  fire  Vazi^tturned  its  club  over ;  and  owing  to  the  blow  of  the
 club  Aspen^argak  made  a  very  grievous  noise,  as
 even  now,  in  a  conflict  with  the  producer  of  rain,  a
 groaning  and  raging^  are  manifest.  13.  And  ten
 nights  and  days  rain  was  produced  by  him  in  that
 manner,  and  the  poison  and  venom  of  the  noxious
 creatures  which  were  in  the  earth  were  all  mixed  up
-in  the  water,  and  the  water  became  quite  salt,  be-
-cause there  remained  in  the  earth  sonic  of  those
+in  the  water,  and  the  water  became  quite  salt,  because there  remained  in  the  earth  sonic  of  those
 germs  which  noxious  creatures  ever  collect.
 
 14.  Afterwards,  the  wind,  in  the  same  manner  as
@@ -4564,8 +4226,7 @@ became  manifest,  one  the  A'e/^ast  lake,  and  one
 the  Sovbar^,  whose  sources  are  connected  with  the
 
 
-^  Mentioned  in  Vend.  XIX,  135,  thus:  'thou  shouldst  propi-
-tiate the  fire  Vazi^ta,  the  smiter  of  the  demon  Spen^aghra.'  It  is
+^  Mentioned  in  Vend.  XIX,  135,  thus:  'thou  shouldst  propitiate the  fire  Vazi^ta,  the  smiter  of  the  demon  Spen^aghra.'  It  is
 also  written  Spen^argak  in  Chap.  XVII,  i,  and  Aspen^aroga  in
 Chap.  XXVIII,  39.
 
@@ -4584,14 +4245,11 @@ CHAPTER   VII,   I  I -VIII,   2.  29
 fountain  of  the  sea.  15.  And  at  its  north  side  ^
 two  rivers  flowed  out,  and  went  one  to  the  east  and
 one  to  the  west ;  they  are  the  Arag  river  and  the
-Veh  river;  as  it  is  said  thus:  'Through  those  finger-
-breadth  trickhngs  do  thou  pour  and  draw  forth  two
+Veh  river;  as  it  is  said  thus:  'Through  those  fingerbreadth  trickhngs  do  thou  pour  and  draw  forth  two
 such  waters,  O  Auharmazd!'  16.  Both  those  rivers
 wind  about  through  all  the  extremities  of  the  earth,
-and  interminMe  arain  with  the  water  of  the  wide-
-formed  ocean.  1 7.  As  those  two  rivers  flowed  out,
-and  from  the  same  place  of  origin  as  theirs,  eigh-
-teen -  navigable  rivers  flowed  out,  and  after  the
+and  interminMe  arain  with  the  water  of  the  wideformed  ocean.  1 7.  As  those  two  rivers  flowed  out,
+and  from  the  same  place  of  origin  as  theirs,  eighteen -  navigable  rivers  flowed  out,  and  after  the
 other  waters  have  flowed  out  from  those  navigable
 streams  they  all  flow  back  to  the  Arag  ^  river  and
 Veh  river,  whose  fertilization  (khvapardarih)  of
@@ -4624,9 +4282,6 @@ other  nasals  are  sometimes;  thus  we  often  find  sag  for  sang,
 variant  of^unbi^,  'shook.'
 
 
-30  BUNDAHI5.
-
-
 the  Other  ranges  of  mountains  (kofaniha)  of  the
 middle  of  the  earth  ;  for  as  Albiir,^  grew  forth  all
 the  mountains  remained  in  motion,  for  they  have  all
@@ -4634,15 +4289,12 @@ grown  forth  from  the  root  of  Albiir^.  3.  At  that
 time  they  came  up  from  the  earth,  like  a  tree  which
 has  grown  up  to  the  clouds  and  its  root^  to  the
 bottom;  and  their  root  passed  on  that  way/r^w  one
-to  the  other,  and  they  are  arranged  in  mutual  con-
-nection. 4.  Afterwards,  about  that  wonderful  shak-
-ing out  from  the  earth,  they  say  that  a  great  moun-
-tain is  the  knot  of  lands ;  and  the  passage  for  the
+to  the  other,  and  they  are  arranged  in  mutual  connection. 4.  Afterwards,  about  that  wonderful  shak-
+ing out  from  the  earth,  they  say  that  a  great  mountain is  the  knot  of  lands ;  and  the  passage  for  the
 waters  within  the  mountains  is  the  root  which  is
 below  the  mountains  ;  they  forsake  the  upper  parts
 so  that  they  may  flow  into  it,  just  as  the  roots  of
-trees  pass  into  the  earth;  a  counterpart  (anguni-
-aitak)  of  the  blood  in  the  arteries  of  men,  which
+trees  pass  into  the  earth;  a  counterpart  (anguniaitak)  of  the  blood  in  the  arteries  of  men,  which
 gives  strength  to  the  whole  body.  5.  In  numbers ^
 apart  from  Alblar^-,  all  the  mountains  grew  up  out  of
 the  earth  in  eighteen  years  ^  from  which  arises  the
@@ -4685,8 +4337,7 @@ the  creatures ;  and  from  those  ten  thousand,  the
 100,000  species^  of  plants  have  grown  forth.
 
 5.  From  that  same  germ  of  plants  the  tree  of  all
-germs  ^  was  given  forth,  and  grew  up  in  the  wide-
-formed  ocean,  from  which  the  germs  of  all  species  of
+germs  ^  was  given  forth,  and  grew  up  in  the  wideformed  ocean,  from  which  the  germs  of  all  species  of
 plants  ever  increased.  6.  And  near  to  that  tree  of
 all  germs  the  Gokar^tree*  was  produced,  for  keeping
 away  deformed  (duj.pa^)  decrepitude;  and  \}i\^  full
@@ -4723,8 +4374,7 @@ O
 
 
 seminal  energy  (tokh mi h)  of  the  OX.  2.  Delivered
-to  the  moon  station \  that  seed  was  thoroughly  puri-
-fied by  the  light  of  the  moon,  fully  prepared  in
+to  the  moon  station \  that  seed  was  thoroughly  purified by  the  light  of  the  moon,  fully  prepared  in
 every  way,  and  produced  life  in  a  body.  3.  Thence
 arose  two  oxen,  one  male  and  one  female ;  and,
 afterwards,  two  hundred  and  eighty-two  species  of
@@ -4735,8 +4385,7 @@ fish  are  in  the  midst  of  the  water.
 
 Chapter  XI.
 
-I.  On  the  nature  of  the  earth  it  says  in  revela-
-tion, that  there  are  thirty  and  three  kinds  ^  of  land.
+I.  On  the  nature  of  the  earth  it  says  in  revelation, that  there  are  thirty  and  three  kinds  ^  of  land.
 2.  On  the  day  when  Tt^'tar  produced  the  rain,  when
 its  seas  arose  therefrom,  the  whole  place,  half  taken
 up  by  water,  was  converted  into  seven  portions ;
@@ -4745,8 +4394,7 @@ and  six  portions  are  around ;  those  six  portions
 are  together  as  much  as  Khvaniras.     3.  The  name
 
 
-*  See  Chap.  XIV,  3.  In  the  Mah  Yt.  o,  7,  blessings  are  in-
-voked for  'the  moon  of  ox  lineage'  (gaO/^ithra)  in  conjunction
+*  See  Chap.  XIV,  3.  In  the  Mah  Yt.  o,  7,  blessings  are  invoked for  'the  moon  of  ox  lineage'  (gaO/^ithra)  in  conjunction
 with  the  '  sole-created  ox  and  the  ox  of  many  species.'  In  the
 Avesta  the  gender  of  these  two  primeval  oxen  appears  doubtful,
 owing  probably  to  the  dual  gen.  masc.  of  their  epithets  being  of  the
@@ -4813,13 +4461,9 @@ Soshans  in  other  Pahlavi  works,  and  its  Avesta  form  is  Saoshyas
 [5]  ^
 
 
-34  BUNDAHI5.
-
-
 Chapter  XII.
 
-I.  On  the  nature  of  mountains  it  says  in  revela-
-tion, that,  at  first,  the  mountains  have  grown  forth
+I.  On  the  nature  of  mountains  it  says  in  revelation, that,  at  first,  the  mountains  have  grown  forth
 in  eighteen  years ;  and  Albiir<^  ever  grew  till  the
 completion  of  eight  hundred  years ;  two  hundred
 years  2ip  to  the  star  station  (pa yak),  two  hundred
@@ -4832,12 +4476,10 @@ and  the  Are^'ur  ridge,  the  Afisindom  mountain.
 Mount  Aparsen  which  they  say  is  the  mountain  of
 Pars,  Mount  Zari^^f  also  which  is  Mount  Manu5,
 Mount  Aira/^,  Mount  Kaf,  Mount  Va^^ges,  Mount
-Aushdartar,  Mount  Are-s-ur-bum,  Mount  Royim-
-homand,  Mount  Padashkhvargar  which  is  the
+Aushdartar,  Mount  Are-s-ur-bum,  Mount  Royimhomand,  Mount  Padashkhvargar  which  is  the
 greatest  in  Khvarih,  the  mountain  which  they  call
 A'ino,  Mount  Revand,  Mount  Darspet  the  Bakyir
-mountain.  Mount  Kabed-i-ikaft,  Mount  Siyak-mui-
-mand,  Mount  Vafar-homand,  Mount  Spendyart'  and
+mountain.  Mount  Kabed-i-ikaft,  Mount  Siyak-muimand,  Mount  Vafar-homand,  Mount  Spendyart'  and
 Kondr^sp,  Mount  Asnavand    and  Kondras,  Mount
 
 ^  These  are  the  four  grades  of  the  Mazdayasnian  heaven.
@@ -4861,23 +4503,19 @@ Si/C'idav  ^  a  mountain  among  those  which  are  in
 Kangde^'  ^,  ^which  they  say  that  they  are  a  comfort
 and  delight  of  the  good  creator,  the  smaller  hills.
 
-3.  I  will  mention  them  also  a  second  time  ;  Al-
-bur-^^  is  around  this  earth  and  is  connected  with  the
+3.  I  will  mention  them  also  a  second  time  ;  Albur-^^  is  around  this  earth  and  is  connected  with  the
 sky.  4,  The  Terak  ^  of  AlbLir^"  is  that  through
 which  the  stars,  moon,  a7id  sun  pass  ^  in,  and
 through  it  they  come  back.  5.  Hugar  the  lofty *^  is
 that  from  which  the  water  of  Aredvivsur  '^  leaps
-down  the  height  of  a  thousand  men.  6.  The  Au-
-sindom  ^   mountain    is    that   which,    being   of  ruby
+down  the  height  of  a  thousand  men.  6.  The  Ausindom  ^   mountain    is    that   which,    being   of  ruby
 
 
 ^  The  Av.  Si/^idava  of  Zamyad  Yt.  5.
 
 ^  See  Chap.  XXIX,  4,  10;  the  name  is  here  written  Kandes  in
-K20.  In  M6  the  word  is  kof,  '  mountain,'  which  is  almost  iden-
-tical in  form ;  if  this  be  the  correct  reading,  the  translation  will  be,
-'  a  mountain  among  those  in  the  mountain  which  they  say  is  agree-
-able and  the  delight,'  &c.  This  mountain  is,  however,  probably
+K20.  In  M6  the  word  is  kof,  '  mountain,'  which  is  almost  identical in  form ;  if  this  be  the  correct  reading,  the  translation  will  be,
+'  a  mountain  among  those  in  the  mountain  which  they  say  is  agreeable and  the  delight,'  &c.  This  mountain  is,  however,  probably
 intended  for  the  Av.  Awtare-kangha,  '  within  Kangha,'  of  Zamyad
 Yt.  4-
 
@@ -4890,8 +4528,7 @@ mentioned  in  Yas.  XLI,  24,  Ram  Yt.  7,  Zamyad  Yt.  6.
 
 ®  So  in  M6,  but  K20  has  'go  in.'
 
-*  This  appears  to  be  another  peak  of  the  mythic  Albfir^,  pro-
-bably in  the  west,  as  it  is  connected  with  Sataves,  the  western  chief-
+*  This  appears  to  be  another  peak  of  the  mythic  Albfir^,  probably in  the  west,  as  it  is  connected  with  Sataves,  the  western  chief-
 tain of  the  constellations  (see  Chaps.  XXIV,  17,  and  II,  7).  It  is
 the  Av.  Hukairya  berezo,  of  Yas.  LXIV,  14,  Aban  Yt.  3,  25,  96,  Qtos
 Yt.  8,  Mihir  Yt.  88,  RashnuYt.  24,  FravardinYt.  6,  RamYt.  15.
@@ -4909,19 +4546,14 @@ paiti  garoi^  yo  hijtaiti  maidhtm  zrayangho  vouru-kashahe,
 D    2
 
 
-36  BUNDAHW.
-
-
 (khun-ahino),  of  the  substance  of  the  sky\  is  in
 the  midst  of  the  wide-formed  ocean,  so  that  its
 water,  which  is  from  Hugar,  pours  down  into  it  (the
 ocean).  7.  A'aka^'-i-Daitik  ('the  judicial  peak')  is
-that  of  the  middle  of  the  world,  the  height  of  a  hun-
-dred men,  on  which  the  A"invar  bridge'^  stands ;  and
+that  of  the  middle  of  the  world,  the  height  of  a  hundred men,  on  which  the  A"invar  bridge'^  stands ;  and
 they  take  account  of  the  soul  at  that  place.  8.  The
 Are^'ur  ^  ridge  [of  the  Alburn  mountain]  is  a  summit
-at  the  gate  of  hell,  where  they  always  hold  the  con-
-course of  the  demons.  9.  This  also  is  said,  that,
+at  the  gate  of  hell,  where  they  always  hold  the  concourse of  the  demons.  9.  This  also  is  said,  that,
 excepting  Alburn,  the   Aparsen  *    mountain    is  the
 
 ocean;'  and  the  Pahlavi  name,  Ausindom,  has  probably  arisen  from
@@ -4942,8 +4574,7 @@ of  this  world)  into  paradise,  but  if  wacked  it  drops  off  the  bridge
 into  hell.
 
 ^  See  Vend.  Ill,  23,  XIX,  140.  The  words  in  brackets  may
-perhaps  be  inserted  by  mistake,  but  they  occur  in  all  MSS.  exa-
-mined, and  there  is  nothing  inconsistent  with  tradition  in  supposing
+perhaps  be  inserted  by  mistake,  but  they  occur  in  all  MSS.  examined, and  there  is  nothing  inconsistent  with  tradition  in  supposing
 Arezur  to  be  the  extreme  northern  range  of  the  mythic  Alburn
 which  surrounds  the  earth,  being  the  place  where  demons  chiefly
 congregate.
@@ -4990,8 +4621,7 @@ word  '  great '  is  omitted  in  M6.
 
 ^  That  is,  around  the  ranges  of  Alburz,  Aparsen,  and  Maniu.
 
-*  Perhaps  intended  for  the  Erezisho  of  Zamyad  Yt.  2.  The  de-
-scription would  apply  to  any  of  the  mountains  near  Nuapur.
+*  Perhaps  intended  for  the  Erezisho  of  Zamyad  Yt.  2.  The  description would  apply  to  any  of  the  mountains  near  Nuapur.
 
 ^  This  name  is  omitted  in  the  MSS.,  but  is  taken  from  §  2  as
 suggested  by  Justi.  Perhaps  it  may  be  connected  with  '  the  country
@@ -5010,19 +4640,16 @@ fissure'  (see  Haug's  Essays,  2nd  ed.  p.  326,  note  2).
 
 
 tar^  is  in  Saorastan.  16.  Mount  Are^ur^  is  that
-which  is  in  the  direction  of  Arum.  17.  The  Padash-
-khvargar^  mountain  is  that  which  is  in  Taparistan
+which  is  in  the  direction  of  Arum.  17.  The  Padashkhvargar^  mountain  is  that  which  is  in  Taparistan
 and  the  side  of  Gilan.  18.  The  Revand"^  mountain
-is  in  Khurasan  ^  on  which  the  Bur^tn  fire«  was  esta-
-bhshed ;  and  its  7iame  Revand  ineajis  this,  that  it  is
+is  in  Khurasan  ^  on  which  the  Bur^tn  fire«  was  estabhshed ;  and  its  7iame  Revand  ineajis  this,  that  it  is
 glorious.  19.  The  Va^'ges'^  mountain  is  that  which
 is  on  the  frontier  of  the  Va(%esians  ;  that  quarter  is
 full  of  timber  and  full  of  trees.  20.  The  Bakyir^
 mountain  is  that  which  Frasiyaz/  of  Tur  used  as  a
 stronghold,  and  he  made  his  residence  within  it;
 and  m  the  days  of  Yim  ^  a  myriad  towns  and  cities
-were  erected  on  its  pleasant  and  prosperous  ter-
-ritory.       21.  Mount  Kabed-^ikaft^^  ('very  rugged')
+were  erected  on  its  pleasant  and  prosperous  territory.       21.  Mount  Kabed-^ikaft^^  ('very  rugged')
 
 ^  The  Av.  Ushi-darena  of  Yas.  I,  41,  II,  54,  III,  55,  IV,  45,
 XXII,  31,  XXV,  22,  Afiharmazd  Yt.  31,  Zamyad  Yt.  o,  2,  97.
@@ -5044,8 +4671,7 @@ called  the  Ridge  of  Vi^-tasp  (see  §  34).
 Badghes  in  Persian.
 
 Mn  §  2  it  is  Bakyir,  which  Justi  thinks  is  another  name  for
-Mount  Darspet  ('  white  poplar  ') ;  the  latter  name  not  being  re-
-peated here  makes  this  supposition  probable.
+Mount  Darspet  ('  white  poplar  ') ;  the  latter  name  not  being  repeated here  makes  this  supposition  probable.
 
 ^  K20  has  rum  and  M6  has  lanman,  but  both  explained  by
 the  Paz.  gloss  Yim,  which  is  also  the  reading  of  the  Paz.  MSS.  If
@@ -5064,8 +4690,7 @@ is  that  in  Pars,  out  of  the  same  Mount  Aparsen.
 22.  Mount  Siyak-homand  ('being  black')  and  Mount
 Vafar-homand  ('having  snow')\  as  far  as  their
 Kavul  borders,  have  grown  out  of  it  (Aparsen)
-towards  the  direction  of  A'ino.  23.  The  Spend-
-ykd''^  mountain  is  in  the  circuit  (var)  of  Revand^
+towards  the  direction  of  A'ino.  23.  The  Spendykd''^  mountain  is  in  the  circuit  (var)  of  Revand^
 24.  The  Kondrasp*  mountain,  on  the  summit  of
 which  is  Lake  Sovbar  ^  is  in  the  district  (or  by  the
 town)  of  Tus.  25.  The  Kondras*^  mountain  is  in
@@ -5077,8 +4702,7 @@ grown.
 28.  Whatever^  mountains  are  those  which  are  in
 every   place   of  the   various    districts   and  various
 
-1  The  Av.  Syamaka  and  Vafrayau  of  Zamyad  Yt.  5  ;  and  pro-
-bably the  Shah-koh  and  Safed-koh  of  Afghanistan.  With  regard
+1  The  Av.  Syamaka  and  Vafrayau  of  Zamyad  Yt.  5  ;  and  probably the  Shah-koh  and  Safed-koh  of  Afghanistan.  With  regard
 to  A'ino,  see  the  note  on  §  13.  The  former  mountain  is  called
 Siyak-mui-mand,  'having  black  hair,'  in  §  2,  which  is  certainly  a
 more  grammatical  form  than  Siyak-homand.
@@ -5112,24 +4736,19 @@ mountains.'
 40  BUNDAHM.
 
 
-countries,  and  cause  the  tillage  and  prosperity  there-
-in, are  many  in  name  and  many  in  number,  and
+countries,  and  cause  the  tillage  and  prosperity  therein, are  many  in  name  and  many  in  number,  and
 have  grown  from  these  same  mountains.  29.  As
 Mount  Ganava^,  Mount  Asparq^,  Mount  Pahargar,
 Mount  Dimavand,  Mount  Ravak,  Mount  Zarin,
 Mount  Gesbakht,  Mount  Davart',  Mount  Mt^in,  and
 Mount  Marak  \  which  have  all  grown  from  Mount
-Aparsen,  of  which  the  other  mountains  are  enume-
-rated. 30.  For  the  Dava^^  mountain  has  grown
+Aparsen,  of  which  the  other  mountains  are  enumerated. 30.  For  the  Dava^^  mountain  has  grown
 into  Khu^istan  likewise  from  the  Aparsen  mountain.
 31.  The  Dimavand^  mountain  is  that  in  which
-Bevarasp  is  bound,  ^2.  From. the  same  Padashkh-
-vargar  mountain  unto  Mount  Kumi^-  *,  which  they
+Bevarasp  is  bound,  ^2.  From. the  same  Padashkhvargar  mountain  unto  Mount  Kumi^-  *,  which  they
 call  Mount  Mad6frya<^  ('  Come-to-help  ')  —  that  in
-which  Vi^tasp  routed  Ar^asp  —  is  Mount  Miyan-i-
-daj-t  ('mid-plain')^,  and  was  broken  off  from  that
-mountain  there.  ■^'X,.  They  say,  in  the  war  of  the  reli-
-gion, when  there  was  confusion  among  the  Iranians
+which  Vi^tasp  routed  Ar^asp  —  is  Mount  Miyan-idaj-t  ('mid-plain')^,  and  was  broken  off  from  that
+mountain  there.  ■^'X,.  They  say,  in  the  war  of  the  religion, when  there  was  confusion  among  the  Iranians
 it  broke  off  from  that  mountain,  and  slid  down  into
 the  middle  of  the  plain  ;  the  Iranians  were  saved  by
 
@@ -5164,15 +4783,12 @@ Ridge  of  Vi5tasp(pt:i^t-iVi5taspan)2  at  the  abode
 of  the  Bumn-Mitro  fire,  nine  leagues  (parasang)  to
 the  west.  35.  Ravak  Bi^an^  is  in  Zravaka^;  this
 place,  some  say,  is  Zravart',  some  call  it  Bi^^an,  some
-Kalak;  from  this  the  road  of  two  sides  of  the  moun-
-tain is  down  the  middle  of  a  fortress ;  for  this  reason,
+Kalak;  from  this  the  road  of  two  sides  of  the  mountain is  down  the  middle  of  a  fortress ;  for  this  reason,
 that  is,  because  it  is  there  formed,  they  call  Kalak
 a  fortress ;  this  place  they  also  call  within  the  land
 of  Sarak.  36.  Mount  Asparo^^^  is  established  from
-the  country  of  Lake  A'e/C-ast^  unto  Pars.  37.  Pahar-
-gar  {'the  Pahar  range')  is  in  Khurasan.  38.  Mount
-Marak«  is  in  Laran.  39.  Mount  Zarin  is  in  Turkis-
-tan.     40.   Mount  Bakht-tan  ^  is  in  Spahan.
+the  country  of  Lake  A'e/C-ast^  unto  Pars.  37.  Pahargar  {'the  Pahar  range')  is  in  Khurasan.  38.  Mount
+Marak«  is  in  Laran.  39.  Mount  Zarin  is  in  Turkistan.     40.   Mount  Bakht-tan  ^  is  in  Spahan.
 
 41.  The  rest,  apart  from  this  enumeration,  which
 they  reckon  as  fostering  hills  of  the  country  in  the
@@ -5205,8 +4821,7 @@ s  See  Chap.  XXII,  2.
 42  BUNDAFII5'.
 
 
-wide-formed  is  the  ocean  that  the  water  of  a  thou-
-sand lakes  is  held  by  it,  such  as  the  source  Aredviv-
+wide-formed  is  the  ocean  that  the  water  of  a  thousand lakes  is  held  by  it,  such  as  the  source  Aredviv-
 sur\  which  some  say  is  the  fountain  lake.  2.  Every
 particular  lake  is  of  a  particular  kind  ^,  some  are
 great,  and  some  are  small ;  some  are  so  large  that
@@ -5219,14 +4834,12 @@ water,  purifying  more  than  other  waters,  everything
 continually  flows  from  the  source  Aredvivsur.  4.  At
 the  south  of  Mount  Albur^'  a  hundred  thousand
 golden  channels  are  there  formed,  and  that  water
-goes  with  warmth  and  clearness,  through  the  chan-
-nels, on  to  Hugar  the  lofty*;  on  the  summit  of  that
+goes  with  warmth  and  clearness,  through  the  channels, on  to  Hugar  the  lofty*;  on  the  summit  of  that
 mountain  is  a  lake^;  into  that  lake  it  flows,  becomes
 quite  purified,  and  comes  back  through  a  different
 golden  channel.  5.  At  the  height  of  a  thousand
 men  an  open  golden  branch  from  that  channel  is
-connected  with  Mount  Ausindom  ^  amid  the  wide-
-formed  ocean ;  from  there  one  portion  flows  forth  to
+connected  with  Mount  Ausindom  ^  amid  the  wideformed  ocean ;  from  there  one  portion  flows  forth  to
 the  ocean  for  the  purification  of  the  sea,  and  one
 portion  drizzles  in  moisture  upon  the  whole  of  this
 earth,  and  all  the  creations  of  Auharmazd  acquire
@@ -5258,22 +4871,18 @@ CHAPTER    XIII,    2-II.  43
 health    from   it,   and   it  dispels   the  dryness  of  the
 atmosphere.
 
-6.  Of  the  salt  seas  three  are  principal,  and  twenty-
-three  are  small.  7.  Of  the  three  which  are  principal,
+6.  Of  the  salt  seas  three  are  principal,  and  twentythree  are  small.  7.  Of  the  three  which  are  principal,
 one  is  the  Putik,  one  the  Kamrurt',  and  one  the
 KSahi-bun.  8.  Of  all  three  the  Putik  ^  is  the  largest,
 in  which  is  a  flow  and  ebb,  on  the  same  side  as  the
-wide-formed  ocean,  and  it  is  joined  to  the  wide-
-formed  ocean.  9.  Amid  this  wide-formed  ocean,  on
+wide-formed  ocean,  and  it  is  joined  to  the  wideformed  ocean.  9.  Amid  this  wide-formed  ocean,  on
 the  Putik  side,  it  has  a  sea  which  they  call  the  Gulf
 (var)  of  Sataves  -.  10.  Thick  and  salt  the  stench  ^
 wishes  to  gfo  from  the  sea  Putik  to  the  wide-formed
 ocean;  with  a  mighty  high  wind  therefrom,  the  Gulf
 of  Sataves  drives  away  whatever  is  stench,  and
-whatever  is  pure  and  clean  goes  into  the  wide-
-formed  ocean  and  the  source  Aredvivsur ;  and  that
-flows  back  a  second  time  to  Putik  ^  11.  The  con-
-trol ^  of  this  sea  (the  Putik)  is  connected  with  the
+whatever  is  pure  and  clean  goes  into  the  wideformed  ocean  and  the  source  Aredvivsur ;  and  that
+flows  back  a  second  time  to  Putik  ^  11.  The  control ^  of  this  sea  (the  Putik)  is  connected  with  the
 
 ^  The  Av.  Puitika  of  Vend.  V,  52,  57,  and  evidently  the  Persian
 Gulf.
@@ -5296,18 +4905,13 @@ had  some  vague  idea  of  the  monsoon.
 
 *  Or,  perhaps,  '  the  other  (the  stench)  flows  back  to  Putik.'
 
-^  Reading  band;  but  it  may  be  bod,  'consciousness,  sensi-
-tiveness.'
-
-
-44  BUNDAHW.
+^  Reading  band;  but  it  may  be  bod,  'consciousness,  sensitiveness.'
 
 
 moon  and  wind ;  it  comes  again  and  goes  down,  in
 increase  and  decrease,  because  of  her  revolving.
 12.  The  control^  also  of  the  Gulf  of  Sataves  is
-attached  to  the  constellation  Sataves,  in  whose  pro-
-tection are  the  seas  of  the  southern  quarter,  just  as
+attached  to  the  constellation  Sataves,  in  whose  protection are  the  seas  of  the  southern  quarter,  just  as
 those  on  the  northern  side  are  in  the  protection  of
 Haptok-ring '^.  13.  Concerning  the  flow  ^^;^(2f  ebb  it
 is  said,  that  everywhere  from  the  presence  of  the
@@ -5331,16 +4935,14 @@ in  Taparistan  ;  that  of  ^'aht-bun  ^  is  in  Arum.
 ^  This  is  not  a  confused  attempt  to  explain  the  tides  as  the  effect
 of  the  land  and  sea  breezes,  as  might  be  suspected  at  first,  but  is  a
 reasonable  conclusion  from  imaginary  facts.  Assuming  that  the
-wind  always  blows  eastward  and  westward  from  the  moon,  it  fol-
-lows that  as  the  moon  rises  an  easterly  wind  must  blow,  which  may
+wind  always  blows  eastward  and  westward  from  the  moon,  it  follows that  as  the  moon  rises  an  easterly  wind  must  blow,  which  may
 be  supposed  to  drive  the  flood  tide  westward  into  the  Persian  Gulf;
 until  the  moon  passes  the  meridian,  when  the  wind,  changing  to
 the  west,  ought  to  drive  the  ebb  tide  eastward  out  of  the  Gulf,
 thus  accounting  for  one  flow  and  ebb  every  day,  dependent  on  the
 position  of  the  moon.
 
-*  Evidently  the  Caspian,  which  lies  north  of  Taparistan,  a  pro-
-vince including  part  of  Mazendaran.
+*  Evidently  the  Caspian,  which  lies  north  of  Taparistan,  a  province including  part  of  Mazendaran.
 
 ^  Or  perhaps  Gahi-bun,  meaning  probably  the  Mediterranean  or
 Euxine,  if  not  both  of  them ;  the  author  appears  merely  to  have
@@ -5351,11 +4953,9 @@ Selections  of  Za^-sparam,  VI,  14,  it  is  called  Gehan-bun.
 CHAPTER    XIII,   12 -XIV,    2.  45
 
 
-some  1  was  the  sea  Kyansih  ^,  such  as  is  in  Sagas-
-tan  ;  at  first,  noxious  creatures,  snakes,  and  lizards
+some  1  was  the  sea  Kyansih  ^,  such  as  is  in  Sagastan  ;  at  first,  noxious  creatures,  snakes,  and  lizards
 (vazagh)  were  not  in  it,  and  the  water  was
-sweeter  than  in  any  of  the  other  seas;  later  (da^t-
-gar)  it  became  salt ;  at  the  closest,  on  account  of  the
+sweeter  than  in  any  of  the  other  seas;  later  (da^tgar)  it  became  salt ;  at  the  closest,  on  account  of  the
 stench,  it  is  not  possible  to  go  so  near  as  one  league,
 so  very  great  are  the  stench  and  saltness  through  the
 violence  of  the  hot  wind.  1 7.  When  the  renovation
@@ -5369,8 +4969,7 @@ I.  On  the  nature  of  the  five  classes  of  animals
 primeval  ox  passed  away*,  there  where  the  marrow
 came  out  grain  grew  up  ^  of  fifty  and  five  species,
 and  twelve  ^  species  of  medicinal  plants  grew  ;  as  it
-says,  that  out  of  the  marrow  is  every  separate  crea-
-ture, every  single  thing  whose  lodgment  is  in  the
+says,  that  out  of  the  marrow  is  every  separate  creature, every  single  thing  whose  lodgment  is  in  the
 marrow ''.      2.  From  the  horns  a7'ose  peas  (mi^uk),
 
 ^  Comparing  nistum  with  Pers.  ni^t,  'healthy.'
@@ -5397,27 +4996,20 @@ XXVII,  2.
 marrow,'
 
 
-46  BUNDAHW.
-
-
-from  the  nose  the  leek,  from  the  blood  the  grape-
-vine ^  from  which  they  make  wine — on  this  account
-wine  abounds  with  blood — from  the  lungs  the  rue-
-like herbs,  from  the  middle  of  the  heart ^  thyme  y^'r
+from  the  nose  the  leek,  from  the  blood  the  grapevine ^  from  which  they  make  wine — on  this  account
+wine  abounds  with  blood — from  the  lungs  the  ruelike herbs,  from  the  middle  of  the  heart ^  thyme  y^'r
 keeping  away  stench,  and  every  one  of  the  others
 as  revealed  in  the  Avesta.
 
 3.  The  seed  of  the  ox  was  carried  up  to  the  moon
-station  ^ ;  there  it  was  thoroughly  purified,  and  pro-
-duced the  manifold  species  of  animals  *.  4.  First,
+station  ^ ;  there  it  was  thoroughly  purified,  and  produced the  manifold  species  of  animals  *.  4.  First,
 two  oxen,  one  male  and  one  female,  and,  afterwards,
 one  pair  of  every  single  species  was  let  go  into  the
 earth,  and  was  discernible  in  Airan-ve^yi?r  a  Hasar
 ('  mile  '),  which  is  like  a  Parasang  ('  league  ')  ^ ;  as  it
 says,  that,  on  account  of  the  valuableness  of  the  ox,
 it  was  created  twice,  one  time  as  an  ox,  and  one
-time  as  the  manifold  species  of  animals.  5.  A  thou-
-sand days  and  nights  they  were  without  eating,  and
+time  as  the  manifold  species  of  animals.  5.  A  thousand days  and  nights  they  were  without  eating,  and
 first  water  and  afterwards  herbage  (atirvar)  were
 devoured  by  them.
 
@@ -5434,8 +5026,7 @@ or  jigar,  '  the  liver.'
 ^  See  Chap.  X,  2.
 
 *  This  translation  suits  both  text  and  context  very  well,  but
-gospend  pur-sarfl'ak  is  evidently  intended  for  the  Av.  gaui-
-pouru-saredho,  'the  ox  of  many  species,'  of  Mah  Yt.  o,  7,  and
+gospend  pur-sarfl'ak  is  evidently  intended  for  the  Av.  gauipouru-saredho,  'the  ox  of  many  species,'  of  Mah  Yt.  o,  7,  and
 
 SA      A
 iroz.  12.
@@ -5454,16 +5045,13 @@ a  Hasar  is  a  measure  for  long  distances,  just  as  a  Parasang  is.
 CHAPTER    XIV,    3-13.  47
 
 and  swine,  and  then  the  horse  and  ass.  7.  For,
-first,  those  suitable  for  grazing  were  created  there-
-from, those  are  now  kept  in  the  valley  (lai);  the
-second  created  were  those  of  the  hill  summits  (sar-
-i  de^)  \  which  are  wide-travellers,  and  habits  (niha-
+first,  those  suitable  for  grazing  were  created  therefrom, those  are  now  kept  in  the  valley  (lai);  the
+second  created  were  those  of  the  hill  summits  (sari  de^)  \  which  are  wide-travellers,  and  habits  (niha-
 dak)  are  not  taught  to  them  by  hand  ;  the  third
 created  were  those  dwelling  in  the  water.
 
 8.  As  for  the  genera  (khadutnak),  the  first  genus
-is  that  which  has  the  foot  cloven  in  two,  and  is  suit-
-able for  grazing  ;  of  which  a  camel  larger  than  a
+is  that  which  has  the  foot  cloven  in  two,  and  is  suitable for  grazing  ;  of  which  a  camel  larger  than  a
 horse  is  small  and  new-born.  9.  The  second  genus
 is  ass-footed,  of  which  the  swift  ^  horse  is  the  largest,
 and  the  ass  the  least.  10.  The  third  genus  is  that
@@ -5477,8 +5065,7 @@ least.
 
 13.  These  five  genera  are  apportioned  out  into
 
-1  Justi  reads  girisa>^,  the  Av.  gairisha/1'6, '  mountain-frequent-
-ing,' of  Tutar  Yt.  36  ;  but  this  is  doubtful.
+1  Justi  reads  girisa>^,  the  Av.  gairisha/1'6, '  mountain-frequenting,' of  Tutar  Yt.  36  ;  but  this  is  doubtful.
 
 2  Pahl.  zibal  =  Pers.  zibal.
 
@@ -5486,8 +5073,7 @@ ing,' of  Tutar  Yt.  36  ;  but  this  is  doubtful.
 Chap.  XXIV,  II,  29,  the  Sin  bird  or  Simurgh  of  Persian  legends,
 the  Av.  saena.  The  word  avina  is  a  Paz.  misreading  either  of
 ainak,  'kind,  sort,'  or  of  an^anak,  'dividing.'  The  mixture  of
-Pazand  and  Pahlavi  in  this  and  some  other  chapters  is  rather  per-
-plexing, but  the  Pazand  misreadings  can  usually  be  corrected  after
+Pazand  and  Pahlavi  in  this  and  some  other  chapters  is  rather  perplexing, but  the  Pazand  misreadings  can  usually  be  corrected  after
 transliterating  them  back  into  Pahlavi  characters.
 
 *  Reading  va  taru  (Pers.  tar).
@@ -5506,8 +5092,7 @@ two  hundred  and  eighty-two  ^  species  (sar^ak).
 14.  First  are  five  species  of  goat,  the  ass-goat-,  the
 milch-goat,  the  mountain-goat,  the  fawn,  and  the
 covimon  goat.  15.  Second,  five  species  of  sheep,
-that  with  a  tail,  that  which  has  no  tail,  the  dog-
-sheep,  the  wether,  and  the  Kuri^k  sheep,  a  sheep
+that  with  a  tail,  that  which  has  no  tail,  the  dogsheep,  the  wether,  and  the  Kuri^k  sheep,  a  sheep
 whose  horn  is  great ;  it  possesses  a  grandeur  ^  like
 unto  a  horse,  and  they  use  it  mostly  for  a  steed
 (bara),  as  it  is  said  that  Manuj/'ihar  kept  a  Kuri^k
@@ -5536,14 +5121,12 @@ horse.'
 
 *  Paz.  ashgun  is  evidently  for  Pahl.  hajgun.
 
-^  Transcribing  the  Paz.  mahi  khu  ushan  into  Pahlavi  it  may-
-be read  mahikan-khvashan  (khashan.?).
+^  Transcribing  the  Paz.  mahi  khu  ushan  into  Pahlavi  it  maybe read  mahikan-khvashan  (khashan.?).
 
 ^  Instead  of  these  first  three  species  M6  has  '  the  white,  black,
 yellow,  bay,  a^id  chestnut.'     K20  omits  '  the  ass  '  by  mistake.
 
-"'  These  first  four  species  are  the  Av.  pasuj-haurvo,  y\s-
-haurvo,  vohunazgo,  and  tauruno  of  Vend.  V,  92-98,  XIII,
+"'  These  first  four  species  are  the  Av.  pasuj-haurvo,  y\shaurvo,  vohunazgo,  and  tauruno  of  Vend.  V,  92-98,  XIII,
 21,  26-74,  117,  164,  165.
 
 
@@ -5552,15 +5135,13 @@ CHAPTER    XIV,    14-22.  49
 beaver^  which  they  call  the  water-dog,  the  fox,  the
 ichneumon  (rasu),  the  hedgehog  which  they  call
 '  thorny-back,'  the  porcupine  ^  mid  the  civet-cat ;  of
-which,  two  species  are  those  accustomed "  to  bur-
-rows, one  the  fox  and  one  the  ichneumon;  and  those
+which,  two  species  are  those  accustomed "  to  burrows, one  the  fox  and  one  the  ichneumon;  and  those
 accustomed  to  jungle  are  such  as  the  porcupine
 which  has  spines  on  its  back,  and  the  hedgehog
 which  is  similar.  20.  Seventh,  five  species  of  the
 black  ■*  hare ;  two  are  wild  species,  one  dwelling
 in  a  burrow  ^  and  one  dwelling  in  the  jungle.
-21.  Eighth,  eight  species  of  weasel  ;  one  the  mar-
-ten, one  the  black  marten,  the  squirrel,  the  V>ez
+21.  Eighth,  eight  species  of  weasel  ;  one  the  marten, one  the  black  marten,  the  squirrel,  the  V>ez
 ermine  '^,  the  white  ermine,  and  other  species  of
 weasel.  22,  Ninth,  eight  species  oi  vdlW^  anii7tals  ;
 one   is  that  which  is  recognised  by  its  musk'^,  one
@@ -5578,15 +5159,12 @@ indra,  and  its  meaning  suits  the  context  better.
 evidently  a  misreading  of  the  Pahl.  amukhtagan.
 
 *  Kzo  has  seya,  M6  has  zyagi  hest.  Perhaps  some  old  copyist
-has  corrected  siyak-gosh  into  khar-gosh,  and  to  both  the  epi-
-thets have  crept  into  the  text,  the  word  '  black'  being  superfluous.
+has  corrected  siyak-gosh  into  khar-gosh,  and  to  both  the  epithets have  crept  into  the  text,  the  word  '  black'  being  superfluous.
 
-^  Reading  khan-manii-t,  the  Paz.  khu  being  an  obvious  mis-
-reading of  khan.
+^  Reading  khan-manii-t,  the  Paz.  khu  being  an  obvious  misreading of  khan.
 
 ^  The  Paz.  b^z  is  written  bedh  in  the  Pazand  MS.  (the  z  in
-M6  being  shaped  something  like  dh),  and  Justi  supposes  it  repre-
-sents the  Arabic  abyadh  or  baidha,  'white,'  and  is  explained  by
+M6  being  shaped  something  like  dh),  and  Justi  supposes  it  represents the  Arabic  abyadh  or  baidha,  'white,'  and  is  explained  by
 the  Pers.  saped,  'white/  which  follows;  but  there  is  nothing  in
 the  text  to  indicate  that  the  second  name  is  an  explanation  of  the
 first.  It  is  more  probable  that  b^z  represents  the  Pers.  bi^ad,
@@ -5602,8 +5180,7 @@ ermine  in  its  summer  fur.
 
 
 the  musk  animal  with  a  bag  in  which  is  their
-pleasant  scent,  the  Bi^-musk  ^  which  eats  the  V>\s-
-kerb,  the  black  musk  which  is  the  enemy  of  the  ser-
+pleasant  scent,  the  Bi^-musk  ^  which  eats  the  V>\skerb,  the  black  musk  which  is  the  enemy  of  the  ser-
 pent that  is  numerous  in  rivers,  and  other  species  of
 musk  animals.  23.  Tenth,  one  hundred  and  ten
 species  of  birds;  flying  creatures  (vey  =  vai)  such
@@ -5623,8 +5200,7 @@ about  as  when  a  man  scatters  seed,  and  drops  the
 seed  in  his  fingers  to  the  ground,  large,  middling,
 and  small.      26.  Eleventh  ^,  fish  were  created  of  ten
 
-^  A  kin  1  of  musk-rat;  ihe  bi^  it  eats  is  said  to  be  the  Na-
-pellus  INIoysis.
+^  A  kin  1  of  musk-rat;  ihe  bi^  it  eats  is  said  to  be  the  Napellus  INIoysis.
 
 2  Pahl.  seno  muruk,  the  simurgh  of  Persian  tradition,  and
 Av.  meregho  saeno  of  Bahram  Yt.  41.
@@ -5647,21 +5223,18 @@ mentioning  any  group  of  bats  among  the  other  animals.
 CHAPTER    XIV,    23-29.  51
 
 
-Species;  first,  the  fish  Am^  the  Arzuva,  the  Ar-
-ziika,  the  Marzuka,  and  other  Avesta  names  ^.
+Species;  first,  the  fish  Am^  the  Arzuva,  the  Arziika,  the  Marzuka,  and  other  Avesta  names  ^.
 27.  Afterwards,  within  each  species,  species  within
 species  are  created,  so  the  total  is  two  hundred  and
 eighty-two  species  ^.
 
 28.  Of  the  dog  they  say  that  out  of  the  star
-station,  that  is,  azvay  from  the  direction  of  the  con-
-stellation Haptok-ring,  was  given  to  him  further  by
+station,  that  is,  azvay  from  the  direction  of  the  constellation Haptok-ring,  was  given  to  him  further  by
 a  stage  (yo^ist)*  than  to  men,  on  account  of  his
 protection  of  sheep,  and  as  associating  with  sheep
 and  men  ;  for  this  the  dog  is  purposely  adapted  ^,
 as  three  more  kinds  of  advantage  are  given  to  him
-than  to  man,  he  has  his  own  boots,  his  own  cloth-
-ing*', and  may  wander  about  without  self-exertion.
+than  to  man,  he  has  his  own  boots,  his  own  clothing*', and  may  wander  about  without  self-exertion.
 29.  The    twelfth  '^    is    the    sharp-toothed    beast    of
 
 gularities  seem  to  indicate  that  part  of  this  chapter  has  been  omitted
@@ -5698,20 +5271,15 @@ them  to  enter  the  higher  grades  of  paradise.
 E  2
 
 
-52  BUNDAHI5'.
-
-
 which  the  leader  of  the  flock  is  in  such  great  fear,
 for  that  flock  of  sheep  is  very  badly  maintained
 which  has  no  doer.
 
 30.  Auharmazd  said  when  the  bird  Varesha  ^  was
 created  by  him,  which  is  a  bird  of  prey,  thus :  '  Thou
-art  created  by  me,  O  bird  Varesha!  so  that  my  vexa-
-tion may  be  greater  than  my  satisfaction  with  thee,
+art  created  by  me,  O  bird  Varesha!  so  that  my  vexation may  be  greater  than  my  satisfaction  with  thee,
 for  thou  doest  the  will  of  the  evil  spirit  more  than
-that  of  me ;  like  the  wicked  man  who  did  not  be-
-come satiated  with  wealth,  thou  also  dost  not
+that  of  me ;  like  the  wicked  man  who  did  not  become satiated  with  wealth,  thou  also  dost  not
 become  satiated  with  the  slaughter  of  birds ;  but  if
 thou  be  not  created  by  me,  O  bird  Varesha  !  thou
 wouldst  be  created  by  him,  the  evil  spirit,  as  a
@@ -5749,8 +5317,7 @@ CHAPTER    XIV,   30 -XV,    4.  53
 
 
 the  light  of  the  sun,  and  Neryosang  ^  kept  charge  of
-two  portions,  and  Spendarma^f^  received  one  por-
-tion. 2.  And  in  forty  years,  with  the  shape  of  a
+two  portions,  and  Spendarma^f^  received  one  portion. 2.  And  in  forty  years,  with  the  shape  of  a
 one-stemmed  Rivas-//^;^^  ^,  and  the  fifteen  years  of
 its  fifteen  leaves,  Matro  and  Matroyao  ^  grew  up
 from  the  earth  in  such  a  manner  that  their  arms
@@ -5779,11 +5346,9 @@ acid  juice  used  by  the  Persians  for  acidulating  preserves  and  drinks.
 *  These  names  are  merely  variants  of  the  Mashya  and  Mashyot
 of  the  latter  part  of  this  chapter  (nom.  dual,  m.  and  f.,  of  Av.
 mashya,  'mortal').  This  is  shown  by  the  Pandnamak-i  Zaratmt,
-saying :  '  and  my  human  nature  is  from  Matroih  and  IMatro-
-yaoih,  from  which  first  generation  and  seed  from  Gayomara?  I
+saying :  '  and  my  human  nature  is  from  Matroih  and  IMatroyaoih,  from  which  first  generation  and  seed  from  Gayomara?  I
 have  sprung.'  And  the  names  are  also  found  in  the  more  Persian
-forms  Maharih  and  Mahariyaoyih  (see  the  note  to  §  22).  Windisch-
-mann  considered  the  meaning  to  be  that  '  they  grew  up  on  the  day
+forms  Maharih  and  Mahariyaoyih  (see  the  note  to  §  22).  Windischmann  considered  the  meaning  to  be  that  '  they  grew  up  on  the  day
 Mitroof  the  month  Mitro,'  that  is,  the  sixteenth  day  of  the  seventh
 month  of  the  Parsi  year  ;  this  is  not  confirmed,  however,  by  Za^-
 sparam  in  his  Selections,  Chap.  X,  4  (see  App.  to  Bund.)
@@ -5793,11 +5358,7 @@ Huzvarij  for  ruban,  'soul,'  appears  clearly  in  §  4,  where  both
 words  are  used  for  the  same  thing.
 
 
-54  BUNDAHI5.
-
-
-created;  it  is  given  into  the  body  that  it  may  pro-
-duce activity,  and  the  body  is  created  only  for
+created;  it  is  given  into  the  body  that  it  may  produce activity,  and  the  body  is  created  only  for
 activity;'  hence  the  conclusion  is  this,  that  the  soul
 (ruban)  is  created  before  and  the  body  after.
 5.  And  both  of  them  changed  from  the  shape  of  a
@@ -5832,8 +5393,7 @@ A
 
 Armaiti  (the  spirit  of  the  earth).'
 
-^  Comparing  me^id?  with  Pers.  ma^id;  but  the  verb  is  very  am-
-biguous, as  it  may  mean,  '  they  feasted  themselves/  or  '  they  made
+^  Comparing  me^id?  with  Pers.  ma^id;  but  the  verb  is  very  ambiguous, as  it  may  mean,  '  they  feasted  themselves/  or  '  they  made
 water.'
 
 "  The  last  phrase  appears  to  be  quoted  from  the  Pahlavi  Ha^okht
@@ -5858,8 +5418,7 @@ came  to  a  white-haired  goat,  and  milked  the  milk
 from  the  udder  with  their  mouths.  11.  When  they
 had  devoured  the  milk  Mashya  said  to  Mashyoi
 thus  :  '  My  delight  was  owing  to  it  when  I  had  not
-devoured  the  milk,  and  my  delight  is  more  de-
-lightful now  when  it  is  devoured  by  my  vile  body.'
+devoured  the  milk,  and  my  delight  is  more  delightful now  when  it  is  devoured  by  my  vile  body.'
 12.  That  second  false  speech  enhanced  the  power
 of  the  demons,  and  the  taste  of  the  food  w^as  taken
 away  by  them,  so  that  out  of  a  hundred  parts  one
@@ -5905,8 +5464,7 @@ a  cutting  edge  ^  from  it ;  and  they  cut  wood  with
 it,  and  prepared  a  wooden  shelter  from  the  sun
 (pei'-khur).
 
-1 7.  Owing  to  the  gracelessness  which  they  prac-
-tised, the  demons  became  more  oppressive,  and  they
+1 7.  Owing  to  the  gracelessness  which  they  practised, the  demons  became  more  oppressive,  and  they
 themselves  carried  on  unnatural  malice  between
 themselves ;  they  advanced  one  against  the  other,
 and  smote  and  tore  their  hair  and  cheeks  ^.
@@ -5915,8 +5473,7 @@ and  smote  and  tore  their  hair  and  cheeks  ^.
 
 ^  INIost  of  this'sentence  is  omitted  in  K20  by  mistake,
 
-^  Reading  khej-i-i  ta*/,  which  Pahlavi  words  might  be  easily-
-misread  ashabe  tad,  as  given  in  Pazand  in  the  text.  That  Paz.
+^  Reading  khej-i-i  ta*/,  which  Pahlavi  words  might  be  easilymisread  ashabe  tad,  as  given  in  Pazand  in  the  text.  That  Paz.
 tadha  stands  for  Pahl.  ta^ak  (Pers.  tadah,  'spun,  woven')  is
 quite  certain.
 
@@ -5937,23 +5494,20 @@ your  demon  of  mahce  may  repose/  19.  Mashya
 went  forth  and  milked  a  cow's  milk,  and  poured  it
 out  towards  the  northern  quarter ;  through  that  the
 demons  became  more  powerful,  and  ozuing  to  them
-they  both  became  so  dry-backed  that  in  fifty  win-
-ters they  had  no  desire  for  intercourse,  and  though
+they  both  became  so  dry-backed  that  in  fifty  winters they  had  no  desire  for  intercourse,  and  though
 they  had  had  intercourse  they  would  have  had  no
 children.  20.  And  on  the  completion  of  fifty  years
 the  source  of  desire  arose,  first  in  Mashya  and  then
 /;/  Mashyoi,  for  Mashya  said  to  Mashyoi  thus  :
 '  When  I  see  thy  shame  my  desires  arise.'  Then
 Mashyoi  spoke  thus :  '  Brother  Mashya !  when  I
-see  thy  great  desire  I  am  also  agitated^'  21.  After-
-wards, it  became  their  mutual  wish  that  the  satis-
+see  thy  great  desire  I  am  also  agitated^'  21.  Afterwards, it  became  their  mutual  wish  that  the  satis-
 faction of  their  desires  should  be  accomplished,  as
 they  reflected  thus  :  '  Our  duty  even  for  those  fifty
 years  was  this.'
 
 22.  From  them  was  born  in  nine  months  a  pair,
-male  and  female  ;  and  owing  to  tenderness  for  off-
-spring ^  the  mother  devoured  one,  and  the  father  one.
+male  and  female  ;  and  owing  to  tenderness  for  offspring ^  the  mother  devoured  one,  and  the  father  one.
 23.  And,  afterwards,  Auharmazd  took  tenderness
 for  offspring  away  from  them,  so  that  one  may
 nourish  a  child,  and  the  child  may  remain.
@@ -5963,8 +5517,7 @@ nourish  a  child,  and  the  child  may  remain.
 ^  This  is  merely  a  paraphrase  of  the  original.
 
 2  Or,  'the  deliciousness  of  children'  (shirinih-i  farzand).
-Justi  has, '  owing  to  an  eruption  on  the  children  the  mother  de-
-serted one,'  &c. ;  but  the  legend  of  devouring  the  first  children  is
+Justi  has, '  owing  to  an  eruption  on  the  children  the  mother  deserted one,'  &c. ;  but  the  legend  of  devouring  the  first  children  is
 still  more  clearly  mentioned  in  the  Pahlavi  Rivayat,  which  forms
 the  first  book  of  the  Dart^istan-i  Dinik  (preceding  the  ninety-two
 questions  and  answers  to  which  that  name  is  usually  applied)  as
@@ -5973,17 +5526,13 @@ farzand-i  naf^man  bara  va^tamund,  '  Mashya  and  Mashyoi,
 through  affection,  at  first  ate  up  their  own  offspring.'
 
 
-58  BUNDAHI5.
-
-
 female,  and  each  was  a  brother  and  sister-wife  ;  and
 from  every  one  of  them,  in  fifty  years,  children  were
 born,  and  they  themselves  died  in  a  hundred  years.
 
 25.  Of  those  seven  pairs  one  was  Siyakmak,  the
 name  of  the  man,  and  Naj-ak  ^  of  the  woman ;  and
-from  them  a  pair  was  born,  whose  names  were  Fra-
-vak    of  the    man    and    Fravakain    of  the   woman.
+from  them  a  pair  was  born,  whose  names  were  Fravak    of  the    man    and    Fravakain    of  the   woman.
 
 26.  From  them  fifteen  pairs  were  born,  every  single
 pair  of  whom  became  a  race  (sar^T^ak)  ;  and  from
@@ -6000,8 +5549,7 @@ pair  was  Ta-S'  and  of  the  woman  Ta^'ak,  and  they
 went  to  the  plain  of  the  Ta^ikan  (Arabs) ;  and  of
 one  pair  Hoshyang^  was  the  name  of  the  man  and
 Gu2'ak  of  the  woman,  and  from  them  arose  the
-Airanak^n  (Iranians);  and  from  one  pair  the  Ma-
-zendarans  ^  have  arisen.  29.  Among  the  number
+Airanak^n  (Iranians);  and  from  one  pair  the  Mazendarans  ^  have  arisen.  29.  Among  the  number
 (pa van  ae  mar)  were  those  who  are  in  the  coun-
 
 1  Or  'Va^ak.'
@@ -6017,8 +5565,7 @@ that  he  first  set  going  the  law  of  sovereignty.'  For  this  reason
 he  is  considered  to  be  the  founder  of  the  earliest,  or  Pe^dadian,
 dynasty.     See  Chaps.  XXXI,  i,  XXXIV,  3,  4.
 
-■*  The  people  of  the  southern  coast  of  the  Caspian,  the  Maz-
-ainya  daeva, '  Mazainyan  demons  or  idolators,'  of  the  Avesta.
+■*  The  people  of  the  southern  coast  of  the  Caspian,  the  Mazainya  daeva, '  Mazainyan  demons  or  idolators,'  of  the  Avesta.
 
 
 CHAPTER    XV,    25-31.  59
@@ -6075,8 +5622,7 @@ was  considered  a  part  of  India  in  Sasanian  times.
 
 Chapter  XVI.
 
-I.  On  the  nature  of  generation  it  says  in  revela-
-tion, that  a  woman  when  she  comes  out  from  men-
+I.  On  the  nature  of  generation  it  says  in  revelation, that  a  woman  when  she  comes  out  from  men-
 struation, during  ten  days  and  nights,  when  they  go
 near  unto  her,  soon  becomes  pregnant.  2.  When
 she  is  cleansed  from  her  menstruation,  and  when  the
@@ -6105,8 +5651,7 @@ the    time    any  one    is    born    it    becomes    milk    and
 for  the  last  three  details  seem  to  refer  to  one  variety,  the  monkeys.
 The  Parst  MS.  of  miscellaneous  texts,  My  (fol.  120),  says,  'The
 names  of  the  ten  species  of  men  are  the  breast-eyed,  the  three-eyed,
-the  breast-eared,  the  elephant-eared,  the  one-legged,  the  web-
-footed,  the  leopard-headed,  the  lion-headed,  the  camel-headed,
+the  breast-eared,  the  elephant-eared,  the  one-legged,  the  webfooted,  the  leopard-headed,  the  lion-headed,  the  camel-headed,
 and  the  dog-headed.'
 ^  M6  has  '  always.'
 
@@ -6135,14 +5680,12 @@ Chapter  XVII.
 
 I.  On  the  nature  of  fire  it  says  in  revelation,  that
 fire  is  produced  of  five  kinds,  namely,  the  fire
-Berezi-savang  2,  the  fire  which  shoots  up  before  Au-
-harmazd  the  lord;  the  fire  Vohu-fryan  ^  the  fire
+Berezi-savang  2,  the  fire  which  shoots  up  before  Auharmazd  the  lord;  the  fire  Vohu-fryan  ^  the  fire
 which  is  in  the  bodies  of  men  and  animals ;  the  fire
 Urvazi.9t^    the    fire    which    is    in    plants;    the    fire
 
 
-1  K20  has  '  the  male  fish,'  which  is  inconsistent  with  the  pre-
-ceding sentence.
+1  K20  has  '  the  male  fish,'  which  is  inconsistent  with  the  preceding sentence.
 
 2  These  Avesta  names  of  the  five  kinds  of  fire  are  enumerated
 in  Yas.  XVII,  63-67,  and  the  Pahlavi  translation  of  that  passage
@@ -6162,17 +5705,14 @@ bodies  of  men '  (Pahl.  Yas.  XVII,  64).
 
 Vazii-t  \  the  fire  which  is  in  a  cloud  which  stands
 opposed  to  Spen^argak  in  conflict;  the  fire  Spenii-t^,
-the  fire  which  they  keep  in  use  in  the  world,  like-
-wise the  fire  of  Vahram'^.  2.  Of  those  five  fires  one
+the  fire  which  they  keep  in  use  in  the  world,  likewise the  fire  of  Vahram'^.  2.  Of  those  five  fires  one
 consumes  both  water  and  food,  as  that  which  is  in
-the  bodies  of  men  ;  one  consumes  water  and  con-
-sumes no  food,  as  that  which  is  in  plants,  which  live
+the  bodies  of  men  ;  one  consumes  water  and  consumes no  food,  as  that  which  is  in  plants,  which  live
 and  grow  through  water ;  one  consumes  food  and
 consumes  no  water,  as  that  which  they  keep  in  use
 in  the  world,  and  likewise  the  fire  of  Vahram ;  one
 consumes  no  water  and  no  food,  as  the  fire  Vazi^-t.
-3.  The  Berezi-savang  is  that  in  the  earth  and  moun-
-tains ajid  other  things,  which  *  Auharmazd  created,
+3.  The  Berezi-savang  is  that  in  the  earth  and  mountains ajid  other  things,  which  *  Auharmazd  created,
 ill  the  original  creation,  like  three  breathing  souls
 (nismo);  through  the  watchfulness  and  protection
 dice  to  them  the  world  ever  develops  (vakhshe^?).
@@ -6184,8 +5724,7 @@ from    Khvaniras    to    the   other   regions,  one    night
 ^  '  The  fire  Vazijt,  that  which  smites  the  demon  Spen^arga '
 (Pahl.  Yas.  XVII,  66).     See  Chap.  VII,  12.
 
-^  '  The  propitious  fire  ivJiich  stands  in  heaven  before  Auhar-
-mazd in  a  spiritual  state'  (Pahl. Yas.  XVII,  67).
+^  '  The  propitious  fire  ivJiich  stands  in  heaven  before  Auharmazd in  a  spiritual  state'  (Pahl. Yas.  XVII,  67).
 
 ^  The  Bahram  fire,  or  sacred  fire  at  places  of  worship.
 
@@ -6208,19 +5747,15 @@ Chap.  XIX,  13.
 CHAPTER    XVII,    2-7.  63
 
 amid  the  sea  the  wind  rushed  upon  ^  the  fireplace —
-the  fireplace  in  which  the  fire  was,  such  as  was  pro-
-vided in  three  places  on  the  back  of  the  ox — which
+the  fireplace  in  which  the  fire  was,  such  as  was  provided in  three  places  on  the  back  of  the  ox — which
 the  wind  dropped  with  the  fire  into  the  sea  ;  and  all
-those  three  fires,  like  three  breathing  souls,  con-
-tinually shot  up  in  the  place  and  position  of  the  fire
+those  three  fires,  like  three  breathing  souls,  continually shot  up  in  the  place  and  position  of  the  fire
 on  the  back  of  the  ox,  so  that  it  becomes  quite
 light,   and  the    men    pass   again   through   the    sea.
 
-5.  And  in  the  reign  of  Yim  ^  every  duty  was  per-
-formed more  fully  through  the  assistance  of  all  those
+5.  And  in  the  reign  of  Yim  ^  every  duty  was  performed more  fully  through  the  assistance  of  all  those
 three  fires ;  and  the  fire  Frobak^  was  established  by
-him  at  the  appointed  place  (da^f-gas)  on  the  Gad-
-man-homand  ('  glorious  ')  mountain  in  Khvari^em  *,
+him  at  the  appointed  place  (da^f-gas)  on  the  Gadman-homand  ('  glorious  ')  mountain  in  Khvari^em  *,
 which  Yim  constructed  for  them  ;  and  the  glory  of
 Yim  saves  the  fire  Frobak  from  the  hand  of  Dahak^.
 
@@ -6230,8 +5765,7 @@ Khvari^em,  at  the  Roshan  ('  shining ')  mountain  in
 Kavulistan,  the  country  of  Kavul  (Kabul),  just  as  it
 remains  there  even  now.
 
-7.  The  fire  Gu^asp,  until  the  reign  of  Kai-Khus-
-rob^  continually  afforded  the  world  protection  in
+7.  The  fire  Gu^asp,  until  the  reign  of  Kai-Khusrob^  continually  afforded  the  world  protection  in
 the  manner  aforesaid^ ;  and  when  Kai-Khusrob '  was
 
 ^  Compare  staft  with  Pers.  i'itaftan, '  to  hasten.'
@@ -6256,9 +5790,6 @@ Yim,'  &c.     For  Dahak  see  Chaps.  XXXI,  6,  XXXIV,  5.
 Mn  §  3.    The  '  three  breathing  souls '  of  spiritual  fire  are  sup-
 
 
-64  BUNDAHW.
-
-
 extirpating  the  idol-temples  of  Lake  A^eX-ast^  it
 settled  upon  the  mane  of  his  horse,  and  drove  away
 the  darkness  and  gloom,  and  made  it  quite  light,  so
@@ -6269,8 +5800,7 @@ appointed  place  on  the  Asnavand  mountain  2.
 8.  The  fire  BurMn-Mitro,  until  the  reign  of  King
 Vii-tasp,  ever  assisted 3,  in  like  manner,  in  the  world,
 and  continually  afforded  protection ;  and  when  the
-glorified  ^  Zaratii^t  was  introduced  to  produce  con-
-fidence in  the  progress  of  the  religion,  King  Vii-tasp
+glorified  ^  Zaratii^t  was  introduced  to  produce  confidence in  the  progress  of  the  religion,  King  Vii-tasp
 and  Jiis  offspring  were  steadfast  in  the  religion
 of  God^  and  Vi^tasp  established  this  fire  at  the
 appointed  place  on  Mount  Revand,  where  they  say
@@ -6280,8 +5810,7 @@ the  Ridge  of  Vi-^tasp  (pu^t-i  Vi^taspan)  is «.
 fire  of  Vahram,  together  with  the  fire  of  the  world,
 and  those  breathing  souls  are  lodged  in  them ;  a
 counterpart  of  the  body  of  man  when  it  forms  in  the
-womb  of  the  mother,  and  a  soul  from  the  spirit-
-world  settles  within  //,  which  controls  the  body  while
+womb  of  the  mother,  and  a  soul  from  the  spiritworld  settles  within  //,  which  controls  the  body  while
 living ;  when  that  body  dies,  the  body  mingles  with
 the  earth,  and  the  soul  goes  back  to  the  spirit.
 
@@ -6295,8 +5824,7 @@ fires  Frobak,  Gujasp,  and  Burzin-Mitro  respectively.
 ^  Taking  v^gxd  as  equivalent  to  Pers.  guzid;  but  it  may  be
 equivalent  to  Pers.  vazid,  '  grew,  shot  up.'
 
-*  The  epithet  anoshak-riaban  (Pers.  noshirvan)  means  lite-
-rally '  immortal-souled.'
+*  The  epithet  anoshak-riaban  (Pers.  noshirvan)  means  literally '  immortal-souled.'
 
 ^  Or,  '  of  the  angels,'  which  plural  form  is  often  used  to  express
 '  God.'
@@ -6312,8 +5840,7 @@ Chapter  XVIII.
 I.  On  the  nature  of  the  tree  they  call  Gokar*^^  it
 says  in  revelation,  that  it  was  the  first  day  when  the
 tree  they  call  G6kar</  grew  in  the  deep  mud  ^  within
-the  wide-formed  ocean ;  and  it  is  necessary  as  a  pro-
-ducer of  the  renovation  of  the  universe,  for  they  pre-
+the  wide-formed  ocean ;  and  it  is  necessary  as  a  producer of  the  renovation  of  the  universe,  for  they  pre-
 pare its  immortality  therefrom.  2.  The  evil  spirit
 has  formed  therein,  among  those  which  enter  as
 opponents,  a  lizard  ^  as  an  opponent  in  that  deep
@@ -6324,11 +5851,9 @@ circle  around  the  Hom,  so  that  the  head  of  one  of
 those  fish  is  continually  towards  the  lizard.  4.  And
 together  with  the  lizard  those  fish  are  spiritually
 fed  ^,  that  is,  no  food  is  necessary  for  them  ;  and  till
-the  renovation  of  the  universe  they  remain  in  con-
-tention.      5.  There    are   places    where   that   fish    is
+the  renovation  of  the  universe  they  remain  in  contention.      5.  There    are   places    where   that   fish    is
 
-^  A  corruption  of  the  Av.  gaokerena  of  Vend.  XX,  17,  Auhar-
-mazd Yt.  30,  Haptan  Yt.  3,  Siroz.  7.  In  the  old  MSS.  of  the
+^  A  corruption  of  the  Av.  gaokerena  of  Vend.  XX,  17,  Auharmazd Yt.  30,  Haptan  Yt.  3,  Siroz.  7.  In  the  old  MSS.  of  the
 Bundahij  the  form  go  kar  ^/  occurs  thrice,  gokarn  once,  and
 gogrv  once.
 
@@ -6352,15 +5877,11 @@ be  reconciled  with  the  Pahlavi  text.
 [5]  F
 
 
-66  BUNDAHI5'.
-
-
 written  of  as  'the  Ari^^  of  the  water;'  as  it  says
 that  the  greatest  of  the  creatures  of  Aiiharmazd
 is  that  fish,  and  the  greatest  of  those  proceeding
 from  the  evil  spirit  is  that  Hzard ;  with  the  jaws
-of  their  bodies,  moreover,  they  snap  in  two  what-
-ever of  the  creatures  of  both  spirits  has  entered
+of  their  bodies,  moreover,  they  snap  in  two  whatever of  the  creatures  of  both  spirits  has  entered
 between  them,  except  that  one  fish  which  is  the
 Vas  of  Pan/'asartVaran  ^.  6.  This,  too,  is  said,  that
 those  fish  are  so  serpent-hke^  in  that  deep  water,
@@ -6374,14 +5895,12 @@ ocean,  and  its  length  is  as  much  as  what  a  man,
 while  in  a  swift  race,  will  walk  from  dawn  till
 when  the  sun  goes  down ;  so  much  that  it  does
 not  itself  move  ^  the  length  of  the  whole  of  its
-great  body,  8.  This,  too,  is  said,  that  the  crea-
-tures of  the  waters  live  also  specially  under  its
+great  body,  8.  This,  too,  is  said,  that  the  creatures of  the  waters  live  also  specially  under  its
 guardianship.
 
 9.  The  tree  of  many  seeds  has  grown  amid  the
 wide-formed  ocean, 'and  in  its  seed  are  all  plants;
-some  say  //  is  the  proper-curing,  some  the  energetic-
-curing,  some  the  all-curing  ^.
+some  say  //  is  the  proper-curing,  some  the  energeticcuring,  some  the  all-curing  ^.
 
 
 1  See  Chaps.  XIV,  26,  and  XXIV,  13.
@@ -6431,8 +5950,7 @@ Ausindom  mountain  of  Chaps.  XII,  6,  and  XIII,  5.
 
 *  The  Av.  khara,  'which  is  righteous  ««</ which  stands  in  the
 middle  of  the  wide-shored  ocean'  (Yas.  XLI,  28).  Darmesteter,
-in  his  Orrnazd  et  Ahriman  (pp.  148-151),  considers  this  mytho-
-logical monster  as  a  meteorological  myth,  a  personification  of
+in  his  Orrnazd  et  Ahriman  (pp.  148-151),  considers  this  mythological monster  as  a  meteorological  myth,  a  personification  of
 clouds  and  storm ;  and,  no  doubt,  a  vivid  imagination  may  trace  a
 striking  resemblance  between  some  of  the  monster's  attributes  and
 certain  fanciful  ideas  regarding  the  phenomena  of  nature;  the
@@ -6448,9 +5966,6 @@ tolerated  in  the  form  of  the  angel  of  water.
 F    2
 
 
-68  BUNDAHW.
-
-
 one,  body  white,  food  spiritual,  and  it  is  righteous.
 2.  And  two  of  its  six  eyes  are  in  the  position  of
 eyes,  two  on  the  top  of  the  head,  and  two  in  the
@@ -6462,14 +5977,11 @@ mouth  is  about  the  size  of  a  cottage,  and  it  is  itself
 as  large  as  Mount  Alvand  ^.  4.  Each  one  of  the
 three  feet,  when  it  is  placed  on  the  ground,  is  as
 much  as  a  flock  [gird)  of  a  thousand  sheep  comes
-under  when  the)'  repose  together ;  and  each  pas-
-tern 2  is  so  great  in  its  circuit  that  a  thousand  men
+under  when  the)'  repose  together ;  and  each  pastern 2  is  so  great  in  its  circuit  that  a  thousand  men
 with  a  thousand  horses  may  pass  inside.  5.  As  for
-the  two  ears  it  is  Mazendaran  which  they  will  en-
-compass. 6.  The  one  horn  is  as  it  were  of  gold
+the  two  ears  it  is  Mazendaran  which  they  will  encompass. 6.  The  one  horn  is  as  it  were  of  gold
 and  hollow,  and  a  thousand  branch  horns  ^  have
-grown  upon  it,  some  befitting  ^  a  camel,  some  be-
-fitting a  horse,  some  befitting  an  ox,  some  befitting
+grown  upon  it,  some  befitting  ^  a  camel,  some  befitting a  horse,  some  befitting  an  ox,  some  befitting
 an  ass,  both  great  and  small.  7.  With  that  horn  it
 will  vanquish  and  dissipate  all  the  vile  corruption
 due  to  the  eflbrts  of  noxious  creatures.
@@ -6504,8 +6016,7 @@ of  the  wide-formed  ocean  will  shake  with  agitation,
 and  the  side  of  Ganiva^^  will  tremble  (shivanert').
 
 9.  When  it  utters  a  cry  all  female  water-creatures,
-of  the  creatures  of  Auharmazd,  will  become  preg-
-nant ;  and  all  pregnant  noxious  water-creatures,
+of  the  creatures  of  Auharmazd,  will  become  pregnant ;  and  all  pregnant  noxious  water-creatures,
 when    they    hear    that    cry,    will    cast   their  young.
 
 10.  When  it  stales  in  the  ocean  all  the  sea-water
@@ -6520,23 +6031,20 @@ through  the  death  of  the  creatures  of  Auharmazd.'
 
 1 1.  TLvtar  seizes  the  water  ^  more  completely  from
 the  ocean  with  the  assistance  of  the  three-legged
-ass.  12.  Of  ambergris  also  (ambar-i/C')  //  is  de-
-clared, that  it  is  the  dung  of  the  three-legged  ass ;
+ass.  12.  Of  ambergris  also  (ambar-i/C')  //  is  declared, that  it  is  the  dung  of  the  three-legged  ass ;
 for  if  it  has  much  spirit  food,  then  also  the  moisture
 of  the  liquid  nourishment  goes  through  the  veins
 pertaining  to  the  body  into  the  urine,  and  the  dung
 is  cast  away.
 
-13.  Of  the  ox  Hadhayo-s-^  which  they  call  Sar-
-saok^  it  says,  that  in  the  original  creation  men
+13.  Of  the  ox  Hadhayo-s-^  which  they  call  Sarsaok^  it  says,  that  in  the  original  creation  men
 passed  from   region   to  region   upon  it,  and  in  the
 
 ^  A  mountain  (see  Chap.  XII,  29,  34).
 
 2  See  Chap.  VII,  11.
 
-3  Written  Hadayav^  in  the  MSS.  in  Chap.  XXX,  25,  and  Ha-
-dhaya^  in  the  Dart'istan-i  Dinik,  Part  II,  reply  89 ;  it  is  a  Pazand
+3  Written  Hadayav^  in  the  MSS.  in  Chap.  XXX,  25,  and  Hadhaya^  in  the  Dart'istan-i  Dinik,  Part  II,  reply  89 ;  it  is  a  Pazand
 reading  in  all  three  places.
 
 *  See  Chaps.  XV,  27,  XVII,  4.
@@ -6577,14 +6085,12 @@ birds.
 
 ^  Or,  '  to  an  assembly.'
 
-*  The  Av.  Bere^ya  of  Yas.  I,  21,  II,  27,  III,  35,  'a  spirit  co-
-operating with  the  Ushahina  Gah,  who  causes  the  increase  of
+*  The  Av.  Bere^ya  of  Yas.  I,  21,  II,  27,  III,  35,  'a  spirit  cooperating with  the  Ushahina  Gah,  who  causes  the  increase  of
 herds  and  corn.'
 
 ^  Or,  'of  the  district  of  Arag  '  (see  the  note  on  Chap.  XII,  23).
 Although  no  Lake  Arag  is  described  in  Chap.  XXII,  some  of  the
-epithets  referring  to  its  Avesta  equivalent  Rangha  are  more  appli-
-cable to  a  lake  than  to  a  river,  as  in  Bahram  Yt.  29.  Possibly  the
+epithets  referring  to  its  Avesta  equivalent  Rangha  are  more  applicable to  a  lake  than  to  a  river,  as  in  Bahram  Yt.  29.  Possibly  the
 low  lands  between  the  Caspian  and  Aral,  or  on  the  shores  of  the
 Caspian,  are  meant.
 
@@ -6638,9 +6144,6 @@ Chaps.  XIV,  23,  XXIV,  11).
 common,'  or  it  may  be  zagar  =  yakar,  'dear,  precious,'  but  the
 
 
-72  BUNDAHW.
-
-
 says,  that  it  kills  the  serpent  with  wings.  24.  The
 magpie  (kaskinak)  bird  kills  the  locust,  and  is
 created  in  opposition  to  it.  25.  The  Kahrkas  \
@@ -6656,18 +6159,15 @@ securing  the  protection  of  sheep ;  the  fox  is  created
 in  opposition  to  the  demon  Khava  ;  the  ichneumon
 is  created  in  opposition  to  the  venomous  snake
 (gar^'ak)  rt/^^  other  noxious  creatures  in  burrows;
-so  also  the  great  vausk-animal  is  created  in  opposi-
-tion ^  to  ravenous  intestinal  worms  (ka<i!'uk-danak
-garsak).  28.  The  hedgehog  is  created  in  opposi-
-tion to  the  ant  which  carries  off  grain  *,  as  it  says,
+so  also  the  great  vausk-animal  is  created  in  opposition ^  to  ravenous  intestinal  worms  (ka<i!'uk-danak
+garsak).  28.  The  hedgehog  is  created  in  opposition to  the  ant  which  carries  off  grain  *,  as  it  says,
 that  the  hedgehog,  every  time  that  it  voids  urine
 into  an  ant's  nest,  will  destroy  a  thousand  ants;
 when  the  grain-carrier  travels  over  the  earth  it  pro-
 
 
 latter  seems  most  probable,  although  the  crow  is  perhaps  as
-'  common  '  as  it  is  '  precious,'  as  a  scavenger  in  the  East.  Singu-
-larly enough  Pers.  arzan  is  a  synonym  to  both  words,  as  it  means
+'  common  '  as  it  is  '  precious,'  as  a  scavenger  in  the  East.  Singularly enough  Pers.  arzan  is  a  synonym  to  both  words,  as  it  means
 both  '  cheap '  and  '  worthy.'
 
 '  The  Av.  kahrkasa  of  Vend.  Ill,  66,  IX,  181,  Aban  Yt.  61,
@@ -6691,16 +6191,14 @@ CHAPTER    XIX,    24-34.  75
 duces  a  hollow  track  ^ ;  when  the  hedgehog  travels
 over  it  the  track  goes  away  from  it,  and  it  becomes
 level.  29.  The  water-beaver  is  created  in  opposition
-to  the  demon  which  is  in  the  water.  30.  The  con-
-clusion is  this,  that,  of  all  beasts  and  birds  and
+to  the  demon  which  is  in  the  water.  30.  The  conclusion is  this,  that,  of  all  beasts  and  birds  and
 fishes,  every  one  is  created  in  opposition  to  some
 noxious  creature.
 
 31.  Regarding  the  vulture  (karkas)  it  says,  that,
 even  from  his  hiohest  flicrht,  he  sees  when  flesh  the
 size  of  a  fist  is  on  the  ground ;  and  the  scent  of
-musk  is  created  under  his  wing,  so  that  if,  in  de-
-vouring dead  matter,  the  stench  of  the  dead  matter
+musk  is  created  under  his  wing,  so  that  if,  in  devouring dead  matter,  the  stench  of  the  dead  matter
 comes  Old  from  it,  he  puts  his  head  back  under  the
 wing  and  is  comfortable  again.  32.  Regarding  the
 Arab  horse  they  say,  that  if,  in  a  dark  night,  a  single
@@ -6709,12 +6207,10 @@ hair  occurs  on  the  ground,  he  sees  it.
 ■^■}).  The  cock  is  created  in  opposition  to  demons
 and  wizards,  co-operating  with  the  dog ;  as  it  says
 in  revelation,  that,  of  the  creatures  of  the  world,
-those  which  are  co-operating  with  Srosh  ^,  in  de-
-stroying the  fiends,  are  the  cock  and  the  dog.
+those  which  are  co-operating  with  Srosh  ^,  in  destroying the  fiends,  are  the  cock  and  the  dog.
 34.  This,  too,  it  says,  that  it  would  not  have  been
 managed  if  I  had  not  created  the  shepherd's  dog,
-which  is  the  Pasu^-haurva  ^  and  the  house  watch-
-dog, the  Vii--haurva^;  for  it  says  in  revelation,  that
+which  is  the  Pasu^-haurva  ^  and  the  house  watchdog, the  Vii--haurva^;  for  it  says  in  revelation,  that
 the  dog  is  a  destroyer  of  such  a  fiend  as  covetous-
 
 
@@ -6734,8 +6230,7 @@ Chap.  XIV,  19).
 
 
 ness,  among  those  which  are  in  the  nature  (aitih)  of
-man  and  of  animals.  35.  Moreover  it  says,  that,  in-
-asmuch as  it  will  destroy  all  the  disobedient,  when
+man  and  of  animals.  35.  Moreover  it  says,  that,  inasmuch as  it  will  destroy  all  the  disobedient,  when
 it  barks  it  will  destroy  pain  ^  ;  and  its  flesh  and  fat
 are  remedies  for  driving  away  decay  and  pain  from
 men  ^.
@@ -6755,8 +6250,7 @@ I.  On  the  nature  of  rivers  It  says  in  revelation,
 that  these  two  rivers  flow  forth  from  the  north,  part
 from   Alburs  ajid  part   from  the  Alburn  of  Auhar-
 
-^  Or  it  may  be  thus  :  '  For  it  says  thus :  Wherewith  will  it  de-
-stroy ?  When  it  barks  it  will  destroy  the  assembly  (girr/)  of  all  the
+^  Or  it  may  be  thus  :  '  For  it  says  thus :  Wherewith  will  it  destroy ?  When  it  barks  it  will  destroy  the  assembly  (girr/)  of  all  the
 disobedient.'
 
 "^  This  is  the  most  obvious  meaning,  but  Spiegel  (in  a  note  to
@@ -6767,8 +6261,7 @@ Vend.  XIII,  78,  99.
 ^  The  five  dispositions  (khim)  of  priests  are  thus  detailed  in  old
 Pahlavi  MSS. :  '  First,  innocence ;  second,  discreetness  of  thoughts,
 words,  and  deeds ;  third,  holding  the  priestly  office  as  that  of  a  very
-wise  and  very  true-speaking  master,  who  has  learned  religion  atten-
-tively and  teaches  //  truly ;  fourth,  celebrating  the  worship  of  God
+wise  and  very  true-speaking  master,  who  has  learned  religion  attentively and  teaches  //  truly ;  fourth,  celebrating  the  worship  of  God
 (yazdan)  with  a  ritual  (nirang)  of  rightly  spoken  words  and
 scriptures  known  by  heart  (n arm  naskiha);  fifih,  remaining  day
 and  night  propitiatingly  in  his  vocation,  struggling  with  his  own
@@ -6897,8 +6390,7 @@ the  Pahlavi  form  of  Vendesej  in  §  29.
 
 *  As  there  is  no  description  of  any  ^ed  river  it  is  probably  only
 an  epithet  of  the  Peda-meyan  or  A'atru-meyan  (pert'ak  being  the
-usual  Pahlavi  equivalent  of  Av.  yi-ithro).  Justi  suggests  that  Mo-
-karstan (Mokarsta  rm/in  M6)  stands  for  Pers.  Moghulstan,  '  the
+usual  Pahlavi  equivalent  of  Av.  yi-ithro).  Justi  suggests  that  Mokarstan (Mokarsta  rm/in  M6)  stands  for  Pers.  Moghulstan,  '  the
 country  of  the  Moghuls,'  but  this  is  doubtful.
 
 *  Sometimes  written  Arang  or  Areng,  but  the  nasal  is  usually
@@ -6909,8 +6401,7 @@ encompass  a  great  part  of  the  known  world  (see  Chap.  VII,  16),
 and  the  Bundahix  probably  means  to  trace  its  course  down  the  Amu
 (Oxus)  from  Sogdiana,  across  the  Caspian,  up  the  Aras  (Araxes)
 or  the  Kur  (Cyrus),  through  the  Euxine^  and  Mediterranean,  and
-up  the  Nile  to  the  Indian  Ocean.  The  Amu  (Oxus)  is  also  some-
-times considered  a  part  of  the  Veh  river  or  Indus  (see  §§22,28).
+up  the  Nile  to  the  Indian  Ocean.  The  Amu  (Oxus)  is  also  sometimes considered  a  part  of  the  Veh  river  or  Indus  (see  §§22,28).
 
 5  Sogdiana  (see  Chap.  XV,  29),  the  country  of  the  Amu  river.
 
@@ -6925,16 +6416,12 @@ Pahlavi,  can  also  be  read  Nil.
 ■^  The '  good '  river,  which,  with  the  Arag  and  the  ocean,  completes
 
 
-78  BUNDAHI5.
-
-
 passes  on  in  the  east,  goes  through  the  land  of
 SincP,  and  flows  to  the  sea  in  Hindustan,  and  they
 call  it  there  the  Mehra^  river.  lo.  The  sources  of
 the  Fr^t^  river  are  from  the  frontier  of  Arum,  they
 feed  upon  it  in  Siiristan,  and  it  flows  to  the  Diglat
-river ;  and  of  this  Frat  it  is  ^  that  they  produce  irri-
-gation over  the  land.  ii.  It  is  declared  that  Manu-
+river ;  and  of  this  Frat  it  is  ^  that  they  produce  irrigation over  the  land.  ii.  It  is  declared  that  Manu-
 i-y^lhar  excavated  the  sources,  and  cast  back  the
 water  all  to  one  place,  as  it  says  thus  :  '  1  reverence
 the  Frat,  full  of  fish,  which  ManiU/^ihar  excavated
@@ -7018,8 +6505,7 @@ Meshhed  into  the  Heri  river.
 
 *  See  Chap.  XII,  9.
 
-^  The  Etymander  of  classical  writers,  now  the  Helmand  in  Af-
-ghanistan. The  Av.  Haeiumat  of  Vend.  I,  50,  XIX,  130,  Zamyad
+^  The  Etymander  of  classical  writers,  now  the  Helmand  in  Afghanistan. The  Av.  Haeiumat  of  Vend.  I,  50,  XIX,  130,  Zamyad
 Yt.  66,  is  the  name  of  the  country  through  which  it  flows.
 
 ®  See  §  34  and  Chap.  XXI,  6.
@@ -7036,18 +6522,15 @@ tion  of  Soghd,  flows  away  towards  the  Khve^and
 river.  20.  The  Khve^and  ^  river  goes  on  through
 the  midst  of  Samarkand  and  Pargana,  and  they  call
 it  also  the  river  Ashard.  2 1 .  The  Marv  ^  river,  a
-glorious  river  in  the  east  ^,  flows  out  from  the  Apar-
-sen  range.  22.  The  Balkh  river  comes  owX.  from
+glorious  river  in  the  east  ^,  flows  out  from  the  Aparsen  range.  22.  The  Balkh  river  comes  owX.  from
 the  Aparsen  mountain  of  Bamikan*,  and  flows  on  to
-the  Veh^  river,  23.  The  Sped''  river  is  in  Ataro-
-patakan;  they  say  that  Dahak  begged  a  favour"
+the  Veh^  river,  23.  The  Sped''  river  is  in  Ataropatakan;  they  say  that  Dahak  begged  a  favour"
 here  from  Aharman  and  the  demons.  24.  The  Tort  '^
 river,  which  they  call  also  the  Koir,  comes  out  from
 
 
 ^  This  is  evidently  not  the  small  affluent  now  called  the  Khu^'-and,
-but  the  great  Syr-darya  or  laxartes,  which  flows  through  the  pro-
-vinces of  Farghanah  and  Samarkand,  past  Kokand,  Khu_^and,  and
+but  the  great  Syr-darya  or  laxartes,  which  flows  through  the  provinces of  Farghanah  and  Samarkand,  past  Kokand,  Khu_^and,  and
 Tashkand,  into  the  Aral.  The  Paz.  Ashard  represents  Pahl.
 Khshart,  or  Ashart  (laxartes).
 
@@ -7057,13 +6540,11 @@ Khshart,  or  Ashart  (laxartes).
 
 *  Bamian,  near  which  the  river  of  Balkh  has  its  source.
 
-^  Justi  observes  that  it  should  be  '  the  Arag  river ; '  but  accord-
-ing to  an  Armenian  writer  of  the  seventh  centurv  the  Persians
+^  Justi  observes  that  it  should  be  '  the  Arag  river ; '  but  according to  an  Armenian  writer  of  the  seventh  centurv  the  Persians
 called  the  Oxus  the  Veh  river,  and  considered  it  to  be  in  India,
 because  Buddhists  occupied  the  country  on  its  banks  (see  Garrez
 in  Journal  Asiatique  for  1869,  pp.  161- 198).  It  would  seem,
-therefore,  that  the  Oxus  was  sometimes  (or  in  early  times)  con-
-sidered a  part  of  the  Arag  (Araxes),  and  sometimes  (or  in  later
+therefore,  that  the  Oxus  was  sometimes  (or  in  early  times)  considered a  part  of  the  Arag  (Araxes),  and  sometimes  (or  in  later
 times)  a  part  of  the  Veh  (Indus).
 
 ^  So  in  IM6,  but  K20  has  '  Spend,'  both  here  and  in  §  7.  The
@@ -7093,8 +6574,7 @@ from  Ataro-patakan,  and  flows  to  the  sea  in  Pars.
 26.  The  sources  of  the  Khvarae  *  river  are  from
 Spahan^;  it  passes  on  through  Khu^istan,  flows  forth
 to  the  Diglat  *'  river,  and  in  Spahan  they  call  it  the
-Mesrkan "  river.  27.  The  Harhaz^  river  is  in  Tapa-
-ristan,  and  its  sources  are  from  Mount   Dimavand.
+Mesrkan "  river.  27.  The  Harhaz^  river  is  in  Taparistan,  and  its  sources  are  from  Mount   Dimavand.
 
 28.  The  Teremet'^  river  flows  away  to  the  Veh  river.
 
@@ -7131,8 +6611,7 @@ Shustar ;  it  is  now  called  Ab-i  Gargar.
 
 ^  Flows  into  the  Caspian  near  Amul.
 
-'  Probably  the  river  which  flows  into  the  Amu  (Oxus)  at  Tar-
-maz ;  but,  in  that  case,  the  Oxus  is  here  again  identified  with  the
+'  Probably  the  river  which  flows  into  the  Amu  (Oxus)  at  Tarmaz ;  but,  in  that  case,  the  Oxus  is  here  again  identified  with  the
 Veh  (Indus)  as  in  §  22,  instead  of  the  Arag  (Araxes)  as  in  §  8.
 
 '"  Called  Khvanaidij,  or  Khvanainidi>f,  in  §  7.
@@ -7150,19 +6629,16 @@ Kasak^  even  in  Sind  they  call  it  the  Kasak.  31.
 The  Pert'ak-miyan  ^  which  is  the  river  A^atru-miyan,
 is  that  which  is  in  Kangde^:^  32.  The  Dara^a
 river  is  in  Airan-vef,  on  the  bank  (bar)  of  which
-was  the  dwelling  of  Porushasp,  the  father  of  Zara-
-tu5-t*  33.  The  other  innumerable  waters  and  rivers,
+was  the  dwelling  of  Porushasp,  the  father  of  Zaratu5-t*  33.  The  other  innumerable  waters  and  rivers,
 springs  and  channels  are  one  in  origin  with  those  ^ ;
 so  in  various  districts  and  various  places  they  call
 them  by  various  names.
 
-34.  Regarding  Frasiyaz^  ^  they  say,  that  a  thou-
-sand springs  were  conducted  away  by  him  into  the
+34.  Regarding  Frasiyaz^  ^  they  say,  that  a  thousand springs  were  conducted  away  by  him  into  the
 sea  Kyansih '',  suitable  for  horses,  suitable  for
 camels,  suitable  for  oxen,  suitable  for  asses,  both
 great  and  small  ^ ;  and  he  conducted  the  spring
-Zarinmand  (or  golden  source),  which  is  the  Hetu-
-mand  ^  river  they  say,  into  the  same  sea ;  and  he
+Zarinmand  (or  golden  source),  which  is  the  Hetumand  ^  river  they  say,  into  the  same  sea ;  and  he
 conducted  the  seven  navigable  waters  of  the  source
 of  the  Va/c-aeni  ^^  river  into  the  same  sea,  and  made
 men  settle  there.
@@ -7239,16 +6715,12 @@ Yas.  LXVII,  15.
 
 ^  K20  omits  the  word  pus,  '  embryo.'
 
-'  The  meaning  'bark'  for  Paz.  ay  van  is  merely  a  guess;  An-
-quetil  has  'sap'  (compare  Pers.  avina,  'juice'),  but  this  is  hardly
+'  The  meaning  'bark'  for  Paz.  ay  van  is  merely  a  guess;  Anquetil  has  'sap'  (compare  Pers.  avina,  'juice'),  but  this  is  hardly
 consistent  with  the  rest  of  the  sentence.
 
 «  See  Chap.  XXVII,  25.
 
 G    2
-
-
-84  BUNDAHW.
 
 
 the  body  which  is  formed,  mingle  again  with  the
@@ -7258,17 +6730,14 @@ are  both  one.
 3.  This,  too,  they  say,  that  of  these  three  rivers,
 that  is,  the  Arag  river,  the  Marv  river,  and  the
 Veh^  river,  the  spirits  were  dissatisfied,  so  that  they
-would  not  flow  into  the  world,  owing  to  the  defile-
-ment of  stagnant  water  (armei't)  which  they  beheld,
-so  that  they  were  in  tribulation  through  it  until  Zara-
-tui^t  was  exhibited  to  them,  whom  I  (Auharmazd)
+would  not  flow  into  the  world,  owing  to  the  defilement of  stagnant  water  (armei't)  which  they  beheld,
+so  that  they  were  in  tribulation  through  it  until  Zaratui^t  was  exhibited  to  them,  whom  I  (Auharmazd)
 will  create,  who  ivill  pour  sixfold  holy-water  (zor)
 into  it  and  make  it  again  wholesome;  he  w^ill  preach
 carefulness  ^.  4.  This,  too,  it  says,  that,  of  water
 whose  holy-water  is  more  and  pollution  less,  the
 holy-water  has  come  in  excess,  and  in  three  years  it
-goes  back  to  the  sources  ^ ;  that  of  which  the  pollu-
-tion a7id  holy-water  have  both  become  equal,  arrives
+goes  back  to  the  sources  ^ ;  that  of  which  the  pollution a7id  holy-water  have  both  become  equal,  arrives
 back  in  six  years  ;  that  of  which  the  pollution  is
 more  and  holy-water  less,  arrives  back  in  nine  years.
 5.  So,  also,  the  growth  of  plants  is  connected,  in  this
@@ -7279,8 +6748,7 @@ back,   in  this  proportion,  to  themselves.
 6.  Regarding  the  river  Nahvtak  ■'  it  says,  that
 Frasiyaz^   of  Tur   conducted    it    away ;    and  when "
 
-^  K20  has  '  Hetumand.'  but  M6  has  '  ^.S'apir,'  the  Huz.  equiva-
-lent of '  Veh,'  which  is  more  probable.
+^  K20  has  '  Hetumand.'  but  M6  has  '  ^.S'apir,'  the  Huz.  equivalent of '  Veh,'  which  is  more  probable.
 ^  Or,  '  abstinencey>-ci»z  impurity^.
 
 *  The  source  Aredvivsur  (see  Chap.  XIII,  3,  10).
@@ -7309,8 +6777,7 @@ Chapter  XXI L
 1.  On  the  nature  of  lakes  it  says  in  revelation,
 that  thus  many  fountains  of  waters  have  come  into
 notice,  which  they  call  lakes  (var);  counterparts  of
-the  eyes  (i'ashm)  of  men  are  those  fountains  (/Yash-
-mak) of  waters;  such  as  Lake  A^e/'ast,  Lake  Sovbar,
+the  eyes  (i'ashm)  of  men  are  those  fountains  (/Yashmak) of  waters;  such  as  Lake  A^e/'ast,  Lake  Sovbar,
 Lake  Khvarisem  ■'^,  Lake  Frazclan,  Lake  Zarinmand,
 Lake  Asvast,  Lake  Husru,  Lake  Sataves,  Lake
 Urvis.
@@ -7318,8 +6785,7 @@ Urvis.
 2,  I  zvill  mention  them  also  a  second  time  :  Lake
 A'e/^ast*  is  in  Ataro-patakan,  warm  is  the  water  and
 opposed  to  harm,  so  that  nothing  whatever  is  living
-in  it;  and  its  source  is  connected  with  the  wide-
-formed  ocean  ^  3.  Lake  Sovbar  is  in  the  upper
+in  it;  and  its  source  is  connected  with  the  wideformed  ocean  ^  3.  Lake  Sovbar  is  in  the  upper
 district  and  country  on  the  summit  of  the  mountain
 of  Tus  *■' ;  as  it  says,  that  the  Su^/-bahar  ^  ('  share  of
 benefit ')  is  propitious  and  good  from  which  abound-
@@ -7345,41 +6811,34 @@ probably  a  small  sheet  of  water  on  the  mountains  near  Meshhed.
 86  BUNDAHI.S.
 
 
-ing  liberality  is  produced.  4.  Regarding  Lake  Khva-
-risem^  it  says  that  excellent  benefit  is  produced
+ing  liberality  is  produced.  4.  Regarding  Lake  Khvarisem^  it  says  that  excellent  benefit  is  produced
 from  it,  ^/la^  is,  Arshi^ang^  the  rich  in  wealth,  the
 well-portioned  zaif/i  abounding  pleasure.  5.  Lake
 Frazdan^  is  in  Sagastan  ;  they  say,  where  a  generous
 man,  w/io  2s  righteous,  throws  anything  into  it,  it
 receives  ?V;  when  not  righteous,  it  throws  i^  out
-aofain  ;  its  source  also  is  connected  with  the  wide-
-formed  ocean.  6.  Lake  Zarinmand  is  in  Hamai^an'*.
+aofain  ;  its  source  also  is  connected  with  the  wideformed  ocean.  6.  Lake  Zarinmand  is  in  Hamai^an'*.
 7.  Reeardine  Lake  Asvast  it  is  declared  that  the
-undefiled^  water  which  it  contains  is  always  con-
-stantly flowing  into  the  sea,  so  bright  and  copious ''
+undefiled^  water  which  it  contains  is  always  constantly flowing  into  the  sea,  so  bright  and  copious ''
 that  one  might  say  that  the  sun  had  come  into  it  and
 looked  at  Lake  Asvast,  into  that  water  which  is
 requisite  for  restoring  the  dead  in  the  renovation
 of  the  univei'-se.       8.   Lake   Husru'   is  within  fifty  ^
 
 
-^  The  province  of  Khvarigem  was  between  the  Aral  and  Cas-
-pian, along  the  ancient  course  of  the  Oxus  (see  Chap.  XVII,  5).
+^  The  province  of  Khvarigem  was  between  the  Aral  and  Caspian, along  the  ancient  course  of  the  Oxus  (see  Chap.  XVII,  5).
 This  lake  has  been  identified  with  the  Aral.
 
 2  Av.  ashij  vanguhi,  '  good  rectitude,'  personified  as  a  female
 angel  whose  praises  are  celebrated  in  the  Ashi  Yart ;  in  later
 times  she  has  been  considered  as  the  angel  dispensing  wealth  and
-possessions.  She  is  also  called  Ar«/ (Av.  areta,  which  is  synony-
-mous Avith  asha),  see  Chap.  XXVII,  24.
+possessions.  She  is  also  called  Ar«/ (Av.  areta,  which  is  synonymous Avith  asha),  see  Chap.  XXVII,  24.
 
-^  The  'Frazdanava  water'  of  Aban  Yt.  108  and  Farhang-i  Oim-
-khaduk,  p.  17.  Justi  identifies  it  with  the  Ab-istadah  ('standing
+^  The  'Frazdanava  water'  of  Aban  Yt.  108  and  Farhang-i  Oimkhaduk,  p.  17.  Justi  identifies  it  with  the  Ab-istadah  ('standing
 water")  lake,  south  of  Ghazni.  It  is  here  represented  as  a  salt
 lake.
 
-*  K20  adds,  'they  say.'  This  lake  cannot  be  the  spring  Zarin-
-mand of  Chap.  XX,  34.
+*  K20  adds,  'they  say.'  This  lake  cannot  be  the  spring  Zarinmand of  Chap.  XX,  34.
 
 •'■■  Paz.  avnasti  transcribed  into  Pahlavi  is  avinastag,  'unspoiled,'
 the  equivalent  of  Av.  anahita  in  Yas.  LXIV,  i,  16,  Visp.  I,  18.
@@ -7431,14 +6890,10 @@ they  are  again  diffused  through  the  country  of  Iran.
 
 2  See  Chaps.  XII,  5,  XIII,  4.
 
-^  See  Chap.  XXXIV,  4.     This  is  the   Jamshed  of  the  Shah-
-namah.     Perhaps  for  '  reason '  we  should  read  '  glory.'
+^  See  Chap.  XXXIV,  4.     This  is  the   Jamshed  of  the  Shahnamah.     Perhaps  for  '  reason '  we  should  read  '  glory.'
 
 *  See  Chaps.  XXXI,  6,  XXXIV,  5.
 "  See  Chap.  XXXIV,  6.
-
-
-88  BUNDAHI5.
 
 
 Chapter  XXIV.
@@ -7493,22 +6948,19 @@ the  Karj>ipt  -  is  the  chief,  which  they  call  the  falcon
 the  enclosure  formed  by  Yim.  12.  First  of  fur
 animals  the  white  ermine  was  produced  ;  he  is  the
 chief  of  fur  animals  ;  as  it  says  that  it  is  the  white
-ermine  which  came  unto  the  assembly  of  the  arch-
-angels. 13.  The  Kar-fish,  or  Ari^  ^,  is  the  chief  of
+ermine  which  came  unto  the  assembly  of  the  archangels. 13.  The  Kar-fish,  or  Ari^  ^,  is  the  chief  of
 the  water-creatures.  14.  The  Daitik '^  river  is  the
 chief  of  streams.  15.  The  Dara/a*^  river  is  the
 chief  of  exalted  rivers,  for  the  dwelling  of  the  father
 of  Zaratu.Tt  was  on  its  banks  *^,  and  Zaratu5-t  was
 born  there.  16.  The  hoary  forest"^  is  the  chief  of
 forests.  17.  Hugar  the  lofty  ^  on  which  the  water
-of  Aredvivsur  flows  and  leaps,  is  the  chief  of  sum-
-mits, since  it  is  that  above  which  is  the  revolution
+of  Aredvivsur  flows  and  leaps,  is  the  chief  of  summits, since  it  is  that  above  which  is  the  revolution
 of  the  constellation    Sataves^,  the    chief   of  reser-
 
 
 ^  The  Simurgh  (see  §  29  and  Chap.  XIV,  11,  23,  24).  In  IMkh.
-LXII,  37-39,  it  is  mentioned  as  follows  :  '  And  Sinamru's  resting-
-place  is  on  the  tree  which  is  opposed  to  harm,  of  all  seeds ;  and
+LXII,  37-39,  it  is  mentioned  as  follows  :  '  And  Sinamru's  restingplace  is  on  the  tree  which  is  opposed  to  harm,  of  all  seeds ;  and
 always  when  he  rises  aloft  a  thousand  twigs  wall  shoot  forth  from
 that  tree  ;  and  when  he  alights  he  will  break  off  the  thousand  twigs,
 and  he  sheds  their  seed  therefrom.'
@@ -7537,16 +6989,14 @@ Yt.  31.
 voirs^  i8.  The  Horn  which  is  out-squeezed  is  the
 chief  of  medicinal  plants-.  19.  Wheat  is  the  chief
 of  large-seeded  ^  grains.  20.  The  desert  wormwood
-is  the  chief  of  unmedicinaP  plants.  21.  The  sum-
-mer vetch,  which  they  also  call  'pag'  (gavirs),  is
+is  the  chief  of  unmedicinaP  plants.  21.  The  summer vetch,  which  they  also  call  'pag'  (gavirs),  is
 the  chief  of  small-seeded  grains ^  22.  The  Kustik
 (sacred  thread-girdle)  is  the  chief  of  clothes.  23.
 The  Bazayvana  ^  is  the  chief  of  seas.  24.  Of  two
 men,  when  they  come  forward  together,  the  wiser
 and  more  truthful  is  chief.
 
-25.  This,  too,  it  says  in  revelation,  that  Auhar-
-mazd  created  the  whole  material  world  one  abode,
+25.  This,  too,  it  says  in  revelation,  that  Auharmazd  created  the  whole  material  world  one  abode,
 so  that  all  may  be  one  ;  for  there  is  much  splendour
 and  glory  of  industry  in  the  world.  26.  Whatsoever
 he  performs,  who  practises  that  which  is  good,  is
@@ -7558,8 +7008,7 @@ by  Auharmazd.     27.  Of  trees  the  myrtle  and  date,
 
 ^  The  meaning  of  Paz.  gobara  is  doubtful,  but  it  is  here  taken
 as  standing  for  Pahl.  gobalan,  equivalent  to  the  plural  of  Pers.
-gol  or  k  6 1, '  a  reservoir  ;'  Sataves  being  a  specially  'watery'  con-
-stellation (see  TiJtar  Yt.  o).  Justi  traces  gobaran  to  Av.  gufra,
+gol  or  k  6 1, '  a  reservoir  ;'  Sataves  being  a  specially  'watery'  constellation (see  TiJtar  Yt.  o).  Justi  traces  gobaran  to  Av.  gufra,
 and  translates  it  by  'protecting  stars!
 
 ^  Paz.  khvad  and  ba/^aga  evidently  stand  for  Pahl.  hu^(Av.
@@ -7592,8 +7041,7 @@ tree  ^  with  which  they  restore  the  dead.
 in  Sagastan  and  end  in  Khu^lstan,  some  say  it  is  all
 the  mountains  of  Pars,  and  is  chief  of  all  mountains
 except  Alburs.  29.  Of  birds  A'amro^^  is  chief,  who
-is  worth  all  the  birds  in  Khvaniras,  except  the  grif-
-fon of  three  natures.  30.  The  conclusion  is  this,
+is  worth  all  the  birds  in  Khvaniras,  except  the  griffon of  three  natures.  30.  The  conclusion  is  this,
 that  every  one  who  performs  a  great  duty  has  then
 much  value.
 
@@ -7620,12 +7068,8 @@ variance  with  §  11,  which  gives  the  chieftainship  to  Kar^ipt.
 s  The  Av.  maidhyo-shema  of  Yas.  I,  27,  II,  36,  III,  41,
 Visp.  I,  3,  II,  I,  Afringan  Gahanbar  2,  8.  It  is  the  second
 season-festival,  held  on  the  five  days  ending  with  the  105th  day  of
-the  Parsi  year,  which  formerly  corresponded  approximately  to  mid-
-summer, according  to  the  Bundahij.  Later  writings  assert  that  it
+the  Parsi  year,  which  formerly  corresponded  approximately  to  midsummer, according  to  the  Bundahij.  Later  writings  assert  that  it
 commemorates  the  creation  of  water.
-
-
-92  BUNDAHW.
 
 
 which    is  the  auspicious  ^    day  Khur  of  the   month
@@ -7641,24 +7085,18 @@ solar  time  by  the  intercalation  of  a  month  every  120  years  ;'  Mulla
 Firuz,  the  high-priest  of  the  new  sect  (who  had  adopted  the  calendar
 of  the  Persian  Parsis,  which  is  one  month  in  advance  of  the  other),
 asserted  that  the  word  had  no  connection  with  intercalation,  but
-meant  '  commencing,'  or  '  pertaining  to  New-year's  day,'  as  trans-
-lated into  Sanskrit,  by  Neryosang,  in  Mkh.  XLIX,  27.     Anquedl
+meant  '  commencing,'  or  '  pertaining  to  New-year's  day,'  as  translated into  Sanskrit,  by  Neryosang,  in  Mkh.  XLIX,  27.     Anquedl
 translates  it  either  as  'inclusive'  or  'complete;'  Windischmann
-simply  skips  it  over ;  and  Justi  translates  it  everywhere   as   '  in-
-clusive.'    Dastur  Edalji  reads   the  word    vehi^aki   or   vehi^§-ak;
-Neryosang  has  vahe-za;  Mulla  Firuz  reads  nai/'akik  in  the  Bun-
-dahij,  but  vehi^akik  in  the  Dinkarfl^,  where  the  word  also  occurs;
+simply  skips  it  over ;  and  Justi  translates  it  everywhere   as   '  inclusive.'    Dastur  Edalji  reads   the  word    vehi^aki   or   vehi^§-ak;
+Neryosang  has  vahe-za;  Mulla  Firuz  reads  nai/'akik  in  the  Bundahij,  but  vehi^akik  in  the  Dinkarfl^,  where  the  word  also  occurs;
 Jusd  has  nai/('akik.     The  meaning  'inclusive'  suits  the  context  in
 nearly  all  cases  in  the  Bundahij-,  but  not  elsewhere ;  if  it  had  that
 meaning  the  most    probable    reading  would  be  vikhe^'-akik  or
 nikhei^akik,  '  arising,  leaping  over,  including.'    It  is  nearly  always
 used  in  connection  with  dates  or  periods  of  time,  and  must  be  some
-epidiet  of  a  very  general  character,  not  only  applicable  to  inter-
-calary periods,  but  also  to  New-year's  day  and  dates  in  general ;
-something  like  the  Arabic  epithet  mubarak,  'fortunate,'  so  com-
-monly used  in  Persian  dates.    Dastur  Edalji  compares  it  with  Pers.
-bihrak  or  bihtarak,  'intercalary  month,'  which  is  probably  a  corrup-
-tion of  it;  and  this  suggests  veh,  'good,'  as  one  component  of  the
+epidiet  of  a  very  general  character,  not  only  applicable  to  intercalary periods,  but  also  to  New-year's  day  and  dates  in  general ;
+something  like  the  Arabic  epithet  mubarak,  'fortunate,'  so  commonly used  in  Persian  dates.    Dastur  Edalji  compares  it  with  Pers.
+bihrak  or  bihtarak,  'intercalary  month,'  which  is  probably  a  corruption of  it;  and  this  suggests  veh,  'good,'  as  one  component  of  the
 epithet.     The  word  maybe  read  veh-yazakik,  '  for  reverencing
 the  good,'  but  as  veh,  'good,'  is  an  adjective,  this  would  be  an
 irregular   form;    a   more    probable    reading    is   veh-i/('akik,  'for
@@ -7678,8 +7116,7 @@ commences.
 CHAPTER    XXV,   4-6.  93
 
 auspicious  day  Vahram  of  the  month  Din ' — the
-short^5/?  day — the  night  increases ;  and  from  the  sea-
-son of  Me<^iyarem  to  the  season  of  Merf'ok-shem  the
+short^5/?  day — the  night  increases ;  and  from  the  season of  Me<^iyarem  to  the  season  of  Merf'ok-shem  the
 night  decreases  and  the  day  increases.  4.  The
 summer  day  is  as  much  as  two  of  the  shortest^
 winter  days,  and  the  winter  night  is  as  much  as  two
@@ -7701,8 +7138,7 @@ creation  of  animals.
 ^  The  word  kah-ait  is  merely  a  hybrid  Huzvari^  form  of  kahist,
 '  shortest,'  which  occurs  in  the  next  phrase.
 
-^  This  statement  must  be  considered  merely  as  an  approxima-
-tion. The  longest  day  is  twice  the  length  of  the  shortest  one  in
+^  This  statement  must  be  considered  merely  as  an  approximation. The  longest  day  is  twice  the  length  of  the  shortest  one  in
 latitude  49°,  that  is,  north  of  Paris,  Vienna,  and  Odessa,  if  the
 length  of  the  day  be  computed  from  sunrise  to  sunset ;  and,  if
 twilight  be  included,  it  is  necessary  to  go  still  further  north.  In
@@ -7724,9 +7160,6 @@ I,  7,  II,  I,  Af.  Gahan.  2,  12.  It  is  the  sixth  season-festival,  hel
 on  the  five  Gatha  days  which  conclude  the  Parsi  year,  just  before
 
 
-94  BUNDAHI5.
-
-
 five  supplementary  days  at  the   end  of  the   month
 Spendarmart',  the  day  and  night  are  again  equal.
 
@@ -7740,13 +7173,10 @@ winter  of  five  months.  8.  The  priest  fulfils  the
 regulation  (va/^ar)  about  a  corpse  «7/^  other  things,
 by  this  calculation  as  to  summer  and  winter.  9.  In
 those  seven  months^  of  summer  the  periods  (gas)
-of  the  days  and  nights  are  five — since  one  cele-
-brates the  Rapitvin — namely,  the  period  of  day-
+of  the  days  and  nights  are  five — since  one  celebrates the  Rapitvin — namely,  the  period  of  day-
 break is  Havan,  the  period  of  midday  is  Rapitvin,
-the  period  of  afternoon  is  Auzerin,  when  the  ap-
-pearance of  the  stars  has  come  into  the  sky*  until
-midnight  is  the  period  of  Aibisrutem,  from  mid-
-night until  the  stars  become  imperceptible  is  the
+the  period  of  afternoon  is  Auzerin,  when  the  appearance of  the  stars  has  come  into  the  sky*  until
+midnight  is  the  period  of  Aibisrutem,  from  midnight until  the  stars  become  imperceptible  is  the
 period  of  Aushahin  ^.  10.  In  winter  are  four  periods,
 ior  from  daybreak  till  Auzerin  is  all  Havan,  and  \\\^
 rest  as  I  have  said ;  and  the  reason  of  it  is  this,  that
@@ -7760,8 +7190,7 @@ assert  that  it  commemorates  the  creation  of  man.
 the  seventh  month.
 
 ^  That  is,  from  the  first  day  of  the  eighth  month  to  the  last  of
-the  five  Gatha  days,  which  are  added  to  the  twelfth  month  to  com-
-plete the  year  of  365  days.
+the  five  Gatha  days,  which  are  added  to  the  twelfth  month  to  complete the  year  of  365  days.
 
 3  All  MSS.  have  '  five  months '  here.
 
@@ -7795,14 +7224,11 @@ A
 they  kindle  a  fire  everywhere  on  the  day  Ataro  of
 the  month  Din,  and  it  forms  an  indication  that
 winter  has  come.  12.  In  those  five  months  the
-water  of  springs  and  conduits  is  all  warm  *,  for  Ra-
-pitvin  keeps  warmth  and  moisture  there,  and  one
+water  of  springs  and  conduits  is  all  warm  *,  for  Rapitvin  keeps  warmth  and  moisture  there,  and  one
 does  not  celebrate  the  period  of  Rapitvin.  13.  As
-the  day  Auharmazd  of  the  month  Fravar^if^in  ad-
-vances it  diminishes  the  strength  which  winter
+the  day  Auharmazd  of  the  month  Fravar^if^in  advances it  diminishes  the  strength  which  winter
 possesses,  and  summer  comes  in  from  its  own
-original  dwelling,  and  receives  strength  and  do-
-minion. 14.  Rapitvin  comes  up  from  below-ground,
+original  dwelling,  and  receives  strength  and  dominion. 14.  Rapitvin  comes  up  from  below-ground,
 and  ripens  the  fruit  of  the  trees  ;   on  this  account
 
 1  See  Chaps.  V,  8,  XI,  3.  The  north,  being  opposed  to  the
@@ -7825,8 +7251,7 @@ g6  BUNDAHW.
 the  water  of  springs  is  cold  in  summer  \  for  Rapitvin
 is  not  there;  a7id  those  seven  ^'  months  one  celebrates
 the  Rapitvin,  a?id  summer  advances  through  the
-whole  earth.  15.  And  yet  in  the  direction  of  Hin-
-dustan, there  where  the  original  dwelling  of  summer
+whole  earth.  15.  And  yet  in  the  direction  of  Hindustan, there  where  the  original  dwelling  of  summer
 is  nearer,  it  is  always  neither  cold  nor  hot ;  for  in  the
 season  which  is  the  dominion  of  summer,  the  rain
 always  dispels  most  of  the  heat,  and  it  does  not
@@ -7842,16 +7267,14 @@ both  come  on  vehemently.
 
 18.  Again,  the  year  dependent  on  the  revolving
 moon  is  not  equal  to  the  computed  year  on  this
-account,  for  the  moon  ^  returns  one  time  in  twenty-
-nine,  and  one  time  in  thirty  days,  and  there  are  four
+account,  for  the  moon  ^  returns  one  time  in  twentynine,  and  one  time  in  thirty  days,  and  there  are  four
 
 ^  K20  has  'winter'  by  mistake.
 
 2  K20  has  '  six,'  and  M6  '  five,'  instead  of  '  seven.'
 
 ^  This  is  a  fairly  accurate  account  of  the  effect  of  the  monsoons
-over  the  greater  part  of  India,  as  understood  by  a  foreigner  unac-
-quainted with  the  different  state  of  matters  in  a  large  portion  of
+over  the  greater  part  of  India,  as  understood  by  a  foreigner  unacquainted with  the  different  state  of  matters  in  a  large  portion  of
 the  Madras  provinces.
 
 *  M6  has  khurasan  instead  of  arayi.vn,  'preparation,'  which
@@ -7885,10 +7308,8 @@ Ataro  are  autumn ;  the  month  Din,  the  month
 Vohuman,  and  the  month  Spendarmart^  are  winter  *.
 21.  And  the  sun  comes  from  the  sign  (khur^ak)  of
 Aries,  into  which  it  proceeded  in  the  beginning,
-back  to  that  sa-me  place  in  three  hundred  and  sixty-
-five  days  and  six  short  times  (hours),  which  are  one
-year.  22.  As  every  three  months  it  (the  sun)  ad-
-vances through  three  constellations,  more  or  less,
+back  to  that  sa-me  place  in  three  hundred  and  sixtyfive  days  and  six  short  times  (hours),  which  are  one
+year.  22.  As  every  three  months  it  (the  sun)  advances through  three  constellations,  more  or  less,
 the  moon  comes,  in  a  hundred  and  eighty  days,
 back  to  the  place  out  of  which  it  travelled  in  the
 beginning  ^.
@@ -7933,8 +7354,7 @@ the  same  in  both  cases.
 1  Av.  hathra  of  Vend.  II,  65,  VIII,  280,  287,  291,  Tutar  Yt.
 23,  29.  The  statements  regarding  the  length  of  a  Hasar  are
 rather  perplexing,  for  we  are  told  that  it  'is  like  a  Parasang'
-(Chap.  XIV,  4),  that  '  the  length  of  a  Hasar  is  one-fourth  of  a  Para-
-sang '  (Chap.  XVI,  7),  and  that  '  a  medium  Hasar  on  the  ground,
+(Chap.  XIV,  4),  that  '  the  length  of  a  Hasar  is  one-fourth  of  a  Parasang '  (Chap.  XVI,  7),  and  that  '  a  medium  Hasar  on  the  ground,
 which  they  also  call  a  Parasang,  is  a  thousand  steps  of  the  two
 feet  when  walking  with  propriety'  (Farhang-i  Oim-khaduk,  ed.
 Hosh.  p.  42).  To  reconcile  these  statements  we  must  conclude
@@ -7955,8 +7375,7 @@ a  Hasar  is  meant  here.
 
 ^Reading  vitast-i  miyanak  instead  of  vitast  damanak.
 The  Farhang-i  Oim-khaduk  (p.  41)  mentions  three  kinds  of  spans,
-the  Av.  vitast i  (Vend.  VIII,  243,  245,  XVII,  13)  of  twelve  finger-
-breadths  (an gust),  or  about  9  inches,  which  is  a  full  span  between
+the  Av.  vitast i  (Vend.  VIII,  243,  245,  XVII,  13)  of  twelve  fingerbreadths  (an gust),  or  about  9  inches,  which  is  a  full  span  between
 the  thumb  and  little  finger  (the  one  mentioned  in  the  text) ;  the  Av.
 di.yti  (Vend.  XVII,  13)  often  finger-breadths,  or  about  7 J  inches,
 which  is  a  span  between  the  thumb  and  middle  finger ;  and  the
@@ -7978,8 +7397,7 @@ of  hemp  (kand)2,  that  is  poisonous,  for  men  when
 they  eat  it  die.
 
 2.  In  like  manner  even  as  the  animals,  with  grain
-of  fifty  and  five  species  and  twelve  species  of  medi-
-cinal plants,  have  arisen  from  the  primeval  ox  ^  ten
+of  fifty  and  five  species  and  twelve  species  of  medicinal plants,  have  arisen  from  the  primeval  ox  ^  ten
 thousand*  species   among  the  species  of  principal
 
 
@@ -8020,8 +7438,7 @@ plants,  and  a  hundred  thousand  species  among
 ordinary  plants  have  grown  from  all  these  seeds  of
 the  tree  opposed  to  harm^,  the  many-seeded,  which
 has  grown  in  the  wide-formed  ocean.  3.  When  the
-seeds  of  all  these  plants,  with  those  from  the  pri-
-meval ox,  have  arisen  upon  it,  every  year  the  bird^
+seeds  of  all  these  plants,  with  those  from  the  primeval ox,  have  arisen  upon  it,  every  year  the  bird^
 strips  that  tree  and  mingles  all  the  seeds  in  the
 water ;  Ti^tar  seizes  them  with  the  rain-water  and
 rains  them  on  to  all  regions.  4.  Near  to  that  tree
@@ -8029,8 +7446,7 @@ the  white  Horn,  the  healing  and  undefiled,  has
 grown  at  the  source  of  the  water  of  Aredvivsur  ^ ;
 every  one  who  eats  it  becomes  immortal,  and  they
 call  it  the  Gokar^*  tree,  as  it  is  said  that  Hom  is
-expelling  death  ^ ;  also  in  the  renovation  of  the  2ini-
-verse  they  prepare  its  immortality  therefrom " ;  and
+expelling  death  ^ ;  also  in  the  renovation  of  the  2iniverse  they  prepare  its  immortality  therefrom " ;  and
 it  is  the  chief  of  plants  '^.
 
 5.  These  are  as  many  genera  of  plants  as  exist :
@@ -8070,8 +7486,7 @@ a7id  are  perennial  (s^lvar),  as  the  cypress,  the  plane,
 the  white  poplar,  the  box,  and  others  of  this  genus,
 they  call  trees  and  shrubs  (dar  va  dirakht).  7,
 The  produce  of  everything  welcome  as  food  of  men,
-tlmt  is  perennial,  as  the  date,  the  myrtle,  the  lote-
-plum  -,  the  grape,  the  quince,  the  apple,  the  citron,
+tlmt  is  perennial,  as  the  date,  the  myrtle,  the  loteplum  -,  the  grape,  the  quince,  the  apple,  the  citron,
 the  pomegranate,  the  peach,  the  fig,  the  walnut,  the
 almond,  a/id  others  in  this  genus,  they  call  fruit
 (mivak).  8.  Whatever  requires  labour  with  the
@@ -8082,8 +7497,7 @@ through  labour,  a7id  its  root  withers  away,  such  as
 wheat,  barley,  grain,  various  kinds  ^  of  pulse,  vetches,
 and  others   of  this  genus,  they  call  corn  (^ur^ak),
 
-10.  Y^very  plant  with  fragrant  leaves,  which  is  culti-
-vated by  the  hand-labour  of  men,  and  is  perennial
+10.  Y^very  plant  with  fragrant  leaves,  which  is  cultivated by  the  hand-labour  of  men,  and  is  perennial
 (hamvar),  they  call  an  aromatic  herb  (siparam).  1 1.
 Whatever  sweet-scented  blossom  arises  at  various
 seasons  through  the  hand-labour  of  men,  or  has
@@ -8099,28 +7513,22 @@ clothing.'
 
 ■^  The  kunar  (see  Chap.  XV,  13).
 
-^  The  Paz.  pehani  (which  is  omitted  in  K20)  is  evidently  a  mis-
-reading of  Pahl.  pashang,  '  a  hoe-like  spade.'
+^  The  Paz.  pehani  (which  is  omitted  in  K20)  is  evidently  a  misreading of  Pahl.  pashang,  '  a  hoe-like  spade.'
 
 *  M6  adds  Paz.  gavina  (Pahl.  gunak)  to  gvi^/ gvi</ mungan,
 without  altering  the  meaning  materially.
-
-
-102  BUNDAHW.
 
 
 the  tulip,  the  colocynth  (kavastik),  the  pandanus
 (kedi),  the  /C-amba,  the  ox-eye  (heri),  the    crocus,
 the    swallow-wort  (zarda),   the  violet,   the    karda,
 and  others  of  this  genus,  they  call  a  flower  (giil).
-12.  Everything  whose  sweet-scented  fruit,  or  sweet-
-scented  blossom,   arises   in  its  season,  without  the
+12.  Everything  whose  sweet-scented  fruit,  or  sweetscented  blossom,   arises   in  its  season,  without  the
 hand-labour  of  men,  they  call  a  wild  plant  (vahar
 or   nihal).      13.   Whatever   is   welcome   as  food  of
 cattle  and  beasts  of  burden  they  call  grass  (giyah).
 14.   Whatever    enters    into    cakes    (pe^-paraktha)
-they  call  spices  (avzariha).      15.  Whatever  is  wel-
-come in  eating  of  bread,  as  torn  shoots^  of  the  cori-
+they  call  spices  (avzariha).      15.  Whatever  is  welcome in  eating  of  bread,  as  torn  shoots^  of  the  cori-
 ander, water-cress  (kaki^),  the  leek,  and  others  of
 this  genus,  they  call  salad  (terak)l     16.  Whatever
 is  like  spinning  =^  cotton,  and  others  of  this  genus,
@@ -8129,8 +7537,7 @@ lentiH    is    greasy,    as    sesame,    diishdang,    hemp,
 zandak^,   and  others  of  this  genus,   they   call   an
 6\\-seed    (rokano).       18.    Whatever    one    can    dye
 clothing    with,     as    saffron,    sapan-wood,     zaX^ava,
-vaha,   and  others  of  this  genus,   they  call  a  dye-
-plant  (rag).      19.  Whatever  root,  or  gum  ^  or  wood
+vaha,   and  others  of  this  genus,   they  call  a  dyeplant  (rag).      19.  Whatever  root,  or  gum  ^  or  wood
 
 
 ^  Reading  stak  dariff;  Justi  has  '  baked  shoots  ;'  Anquetil  has
@@ -8156,8 +7563,7 @@ assumes.
 CHAPTER    XXVII,    I  2-24.  IO3
 
 
-is  scented,  as  frankincense  \  vara^-t-,  kiist,  sandal-
-wood, cardamom  ^,  camphor,  orange-scented  mint,
+is  scented,  as  frankincense  \  vara^-t-,  kiist,  sandalwood, cardamom  ^,  camphor,  orange-scented  mint,
 and  others  of  this  genus,  they  call  a  scent  (bod).
 20.  Whatever  stickiness  comes  out  from  plants  *
 they  call  gummy  (zart'ak).  21.  The  timber  which
@@ -8165,16 +7571,14 @@ proceeds  from  the  trees,  when  it  is  either  dry  or  wet,
 they  call  wood  (Z'iba).  22.  Every  one  of  all  these
 plants  which  is  so,  they  call  medicinal  (daruk)\
 
-23.  The  principal  fruits  are  ^thirty  kinds  (kha-
-duinak),  and  ten  species  (sarrt'ak)  of  them  are  fit
+23.  The  principal  fruits  are  ^thirty  kinds  (khaduinak),  and  ten  species  (sarrt'ak)  of  them  are  fit
 to  eat  inside  and  outside,  as  the  fig,  the  apple,  the
 quince,  the  citron,  the  grape,  the  mulberry,  the  pear,
 mid  others  of  this  kind  ;  ten  are  fit  to  eat  outside,
 but  not  fit  to  eat  inside,  as  the  date,  the  peach,  the
 white  apricot,  and  others  of  this  kind ;  those  which
 are  fit  to  eat  inside,  biU  not  fit  to  eat  outside,  are
-the  walnut,  the  almond,  the  pomegranate,  the  cocoa-
-nut  ^,  the  filbert  ^  the  chesnut  ^,  the  pistachio  nut,
+the  walnut,  the  almond,  the  pomegranate,  the  cocoanut  ^,  the  filbert  ^  the  chesnut  ^,  the  pistachio  nut,
 the  vargan,  and  whatever  else  of  this  description
 are  very  remarkable.
 
@@ -8184,8 +7588,7 @@ appropriate  to  an  angel  (ameshospend)  ^'\  as  the
 1  Paz.  kendri  for  Pahl.  kundur  probably.
 ^  Justi  compares  Pers.  bargha^t.
 
-^  Paz.  kakura  may  be  equivalent  to  Pers.  qaqulah,  'carda-
-moms,' or  to  Pers.  kakul  or  kakul, '  marjoram.'
+^  Paz.  kakura  may  be  equivalent  to  Pers.  qaqulah,  'cardamoms,' or  to  Pers.  kakul  or  kakul, '  marjoram.'
 
 *  K20  omits  a  line,  from  here  to  the  word  '  either.'
 
@@ -8213,18 +7616,15 @@ a?id  jasmine    (yasmin)  are  Auharmazd's  own,  the
 mouse-ear  (or  sweet  marjoram)  is  Ashavahlit's  ^  own,
 the  basil-royal  is  Shatvairo's  own,  the  musk  flower
 is  Spendarmart^'s,  the  lily  is  Horvada^'s,  the  /^amba
-is  Amerodartf's,   Dm-pavan-Ataro   has   the   orange-
-scented  mint  (vaa'rang-bod),  Ataro  has  the  mari-
+is  Amerodartf's,   Dm-pavan-Ataro   has   the   orangescented  mint  (vaa'rang-bod),  Ataro  has  the  mari-
 gold^ (adargun),  the  water-lily  is  Avan's,  the  white  ,
 marv    is    Khurshe^'s,   the   ranges^  is   Mah's,   the           j
 violet  is  Tir's,  the  meren^  is  Goi-'s,  the  karda  is
 Din-pavan-Mitro's,  all  violets  are  Mitro's,  the   red
 chrysanthemum    (kher)    is     Srosh's,    the    dog-rose
-(nestran)   is    Rashnu's,   the  cockscomb   is   Fravar-
-rtfin's,  the  sisebar  is  Vahram's,  the  yellow  chrysan-
+(nestran)   is    Rashnu's,   the  cockscomb   is   Fravarrtfin's,  the  sisebar  is  Vahram's,  the  yellow  chrysan-
 themum is  Ram's,  the  orange-scented  mint  isVartf's'\
-the    trigonella    is    Din-pavan-Din's,    the    hundred-
-petalled    rose   is    Din's,    all    kinds    of  wild    flowers
+the    trigonella    is    Din-pavan-Din's,    the    hundredpetalled    rose   is    Din's,    all    kinds    of  wild    flowers
 (vahar)  are  Ar^'s',  A^ta<^  has  all  the  white  Hom  ^
 the  bread-baker's  basil  is  Asman's,  Zamyart'  has  the
 crocus,    Maraspend   has    the  Jiozver'^    of   Ardashir,
@@ -8279,16 +7679,14 @@ is  possible  to  tell  by  this  winter  * ;  and  his  body  is
 that  of  a  hzard  (vazagh)'^  zvhose  place  is  filth  (kaU).
 2.  He  does  not  think,  nor  speak,  nor  act  for  the
 welfare  (n ad ukih)  of  the  creatures  of  Auharmazd  ;
-and  his  business  is  unmercifulness  and  the  destruc-
-tion of  this  welfare,  so  that  the  creatures  which
+and  his  business  is  unmercifulness  and  the  destruction of  this  welfare,  so  that  the  creatures  which
 Auharmazd  shall  increase  he  will  destroy ;  and  his
 eyesight  (/^ashm  m\k\sv^^  does  not  refrain  from
 doing  the  creatures  harm.      3.  As  it  says  that, '  ever
 
 ^  Reading,  in  Pahlavi,  Horn  y^dato  ae  horn.
 
-2  See  Chap.  XXI,  i.  Referring  to  the  necessity  of  drying  fire-
-wood before  putting  it  on  the  fire.  The  kunar  is  specially  men-
+2  See  Chap.  XXI,  i.  Referring  to  the  necessity  of  drying  firewood before  putting  it  on  the  fire.  The  kunar  is  specially  men-
 tioned, as  one  of  the  first  fire-woods  used  by  mankind,  in  Chap.
 XV,  13.
 
@@ -8326,8 +7724,7 @@ him,  that  is,  he  has  acted  by  his  pleasure.
 
 7.  The  business  of  Akoman  -  is  this,  that  he  gave
 vile  thoughts  and  discord  to  the  creatures.  8.  The
-business  of  the  demon  Andar  is  this,  that  he  con-
-strains the  thouo^hts  of  the  creatures  from  deeds  of
+business  of  the  demon  Andar  is  this,  that  he  constrains the  thouo^hts  of  the  creatures  from  deeds  of
 
 o
 
@@ -8336,10 +7733,8 @@ virtue,  just  like  a  leader  who  lias  well-constrained
 the  thoughts  of  men,  that  it  is  not  necessary  to
 have  the  sacred  shirt  and  thread-  girdle.  9.  The
 business  of  the  demon  Savar-\  that  is  a  leader  of
-the  demons,  is  this,  that  is,  misgovernment,  oppres-
-sive anarchy,  and  drunkenness.  10.  The  business  of
-the  demon  Naikiyas'*  is  this,  that  he  gives  discon-
-tent to  the  creatures  ;  as  it  says,  that  should  this  one
+the  demons,  is  this,  that  is,  misgovernment,  oppressive anarchy,  and  drunkenness.  10.  The  business  of
+the  demon  Naikiyas'*  is  this,  that  he  gives  discontent to  the  creatures  ;  as  it  says,  that  should  this  one
 
 ^  Compare  Chap.  I,  14.
 
@@ -8362,8 +7757,7 @@ are  propitiated  by  him.  ii.  The  demon  Taprez^^  is
 he  who  mingles  poison  with  plants  and  creatures ;
 as  it  says  thus  :  '  Taprez/  the  frustrater,  and  Zairii
 the  maker  of  poison.'  12.  All  those  six,  it  is  said,
-are  arch-fiends ^  of  the  demons;  the  rest  are  co-
-operating and  confederate  with  them.  13.  This,
+are  arch-fiends ^  of  the  demons;  the  rest  are  cooperating and  confederate  with  them.  13.  This,
 too,  it  says,  that]  ^  should  one  give  [anything  to]  a
 man  who  says  [that  it  is  proper  to  have  one  boot],
 and  in  his  law  walking  with  one  boot  [is  established,
@@ -8383,12 +7777,10 @@ enclosed  in  brackets.
 
 *  Anquetil,  misled  by  the  lacuna  in  his  IMS.,  thought  that  there
 was  a  change  of  subject  here,  and  began  a  new  chapter  at  this
-point.  On  this  account  the  numbers  of  his  chapters  are  hence-
-forth one  in  excess  of  those  in  this  translation.
+point.  On  this  account  the  numbers  of  his  chapters  are  henceforth one  in  excess  of  those  in  this  translation.
 
 5  Written  Tarokmato  in  TD,  and  identified  with  Naunghas
-(Naikiyas)  in  Chap.  XXX,  29  ;  a  personification  of  the  Av.  taro-
-maiti,  'disobedience,'  of  Yas.  XXXIII,  4,  LIX,  8.
+(Naikiyas)  in  Chap.  XXX,  29  ;  a  personification  of  the  Av.  taromaiti,  'disobedience,'  of  Yas.  XXXIII,  4,  LIX,  8.
 
 «  A  personification  of  the  Av.  mithaokhta,  'false-spoken,'  of
 Yas.  LIX,  8,  Vend.  XIX,  146,  Visp.  XXIII,  9,  Zamyad  Yt.  96.
@@ -8398,8 +7790,7 @@ Yas.  LIX,  8,  Vend.  XIX,  146,  Visp.  XXIII,  9,  Zamyad  Yt.  96.
 «  Av.  araska  of  Yas.  IX,  18,  Ram  Yt.  16,  personified.
 
 «  The  word  homanam  in  K20  is  a  false  Huzvarii-  reading  of
-ham,  owing  to  the  copyist  reading  am,  '  I  am ; '  TD  has  ham-
-afzar,  'having  like  means.'
+ham,  owing  to  the  copyist  reading  am,  '  I  am ; '  TD  has  hamafzar,  'having  like  means.'
 
 ^°  Or  Khashm,  'wrath;'  so  written  in  K20,  but  it  is  usually
 
@@ -8414,12 +7805,10 @@ the  Kayan  heroes  in  his  own  time,  but  one  will
 remain.  i6.  There  where  Mitokht  ('falsehood')
 arrives,  Arabic  ('  malice ')  becomes  welcome,  [and
 there  where  Ara^k  is  welcome]^  Aeshm  lays  a
-foundation  *,  and  there  where  Aeshm  has  a  founda-
-tion ^  many  creatures  perish,  and  he  causes  much
+foundation  *,  and  there  where  Aeshm  has  a  foundation ^  many  creatures  perish,  and  he  causes  much
 non-Iranianism ''.  17.  Aeshm  mostly  contrives  all
 evil  for  the  creatures  of  Auharmazd,  and  the  evil
-deeds  of  those  Kayan  heroes  have  been  more  com-
-plete through  Aeshm,  as  it  says,  that  Aeshm,  the
+deeds  of  those  Kayan  heroes  have  been  more  complete through  Aeshm,  as  it  says,  that  Aeshm,  the
 impetuous  assailant,  causes  them  most^.
 
 18.  The  demon  Vizaresh  ^  is   he  who   struggles
@@ -8433,12 +7822,10 @@ daevo,  '  demon  of  wrath.'
 ^  TD  has  '  there  were  seven  powers  of  Aeshm.'
 ^  TD  has  '  six,'  which  looks  like  an  unlucky  attempt  to  amend
 a  correct  text.  Tradition  tells  us  that  only  five  Kayans  reigned
-(see  Chap.  XXXI V,  7),  and  the  Shahnamah  also  mentions  Siya-
-wush  (Pahl.  Kai-Siyavakhsh),  who  did  not  reign  ;  but  eight  Kayans,
+(see  Chap.  XXXI V,  7),  and  the  Shahnamah  also  mentions  Siyawush  (Pahl.  Kai-Siyavakhsh),  who  did  not  reign  ;  but  eight  Kayans,
 besides  Loharasp  and  Vi.s-tasp,  who  were  of  collateral  descent  (see
 Chap.  XXXI,  28),  are  mentioned  in  the  Avesta,  whence  the  author
-of  the  Bundahij  would  obtain  much  of  his  information  (see  Fra-
-vardin  Yt.  132,  Zamyad  Yt.  71,  74).
+of  the  Bundahij  would  obtain  much  of  his  information  (see  Fravardin  Yt.  132,  Zamyad  Yt.  71,  74).
 
 ^  The  phrase  in  brackets  occurs  only  in  TD.
 
@@ -8467,10 +7854,8 @@ he  may  eat,  chattering]  he  may  evacuate  [xitd),  and
 chattering  he  may  make  water  (meze^),  so  that  he
 may  not  attain  [unto  the]  best  existence  *.
 
-[20.  The  demon  Akatash  ^  is  the  fiend  of  perver-
-sion (nikirayih),  who  makes  the  creatures  averse
-(nikirai)  from  proper  things  ;  as  it  says,  that  who-
-ever has  given  anything  to  that  person  (tanti)
+[20.  The  demon  Akatash  ^  is  the  fiend  of  perversion (nikirayih),  who  makes  the  creatures  averse
+(nikirai)  from  proper  things  ;  as  it  says,  that  whoever has  given  anything  to  that  person  (tanti)
 whose  opinion  {A^d)  is  this,  that  it  is  not  necessary
 to  have  a  high-priest  (dastobar),  then  the  demon
 Aeshm  is  propitiated  by  him.  21.  Whoever  has
@@ -8516,8 +7901,7 @@ A'ishmak^  is  he  who  makes  disastrous  (vazandak),
 and  also  causes  the  whirlwind^  which  passes  over
 for  disturbance.  25.  The  demon  Vareno^  Is  he
 who  causes  illicit  intercourse,  as  it  says  thus :
-*  Vareno  the  defiling  (alai).'  26.  The  demon  Biish-
-asp  ^  is  she  who  causes  slothfulness ;  Se^  is  the
+*  Vareno  the  defiling  (alai).'  26.  The  demon  Biishasp  ^  is  she  who  causes  slothfulness ;  Se^  is  the
 fiend  (drii^)  who  causes  annihilation;  and  the
 demon   Niyaz  is  he  who  causes  distress.
 
@@ -8538,8 +7922,7 @@ Yas.  IX,  18  Sp.,  Goj  Yt.  10,  Ram  Yt.  16.
 
 ^  The  small  whirlwinds,  which  usually  precede  a  change  of  wind
 in  India,  are  commonly  known  by  the  name  of  shaiTan,  which
-indicates  that  such  whirling  columns  of  dust  are  popularly  attri-
-buted to  demoniacal  agency.
+indicates  that  such  whirling  columns  of  dust  are  popularly  attributed to  demoniacal  agency.
 
 ■*  A  personification  of  Av.  varena, '  desire,'  in  an  evil  sense.
 
@@ -8561,15 +7944,13 @@ as  it  says,  that  the  power  of  the  demon  Az  is  owing
 to  that  person  who,  not  content  with  his  own  wife,
 snatches  away  even  those  of  others.
 
-29.  The  demon  Nas  ^  is  he  who  causes  the  polhi-
-tion  and  contamination  (nisrCii-tth),  which  they  call
+29.  The  demon  Nas  ^  is  he  who  causes  the  polhition  and  contamination  (nisrCii-tth),  which  they  call
 nasai  ('dead  matter').  ^o.  The  demon  Friftar
 ('deceiver')  is  he  who  seduces  mankind.  31.  The
 demon  Spazg  ^  ('  slander')  is  he  who  brings  and
 conveys  discourse  (milaya),  and  it  is  nothing  in
 appearance  such  as  he  says ;  and  he  shows  that
-mankind  fights  «;/^  apologizes  (avakhshine*/),  indi-
-vidual with  individual.  32.  The  demon  Arast^  ('un-
+mankind  fights  «;/^  apologizes  (avakhshine*/),  individual with  individual.  32.  The  demon  Arast^  ('un-
 true') is  he  who  speaks  falsehood.  '2,2)-  The  demon
 Aighash  ^  is  the  malignant-eyed  fiend  who  smites
 mankind  with  Ids  eye.  34.  The  demon  But  ^  is  he
@@ -8598,11 +7979,7 @@ but  the  meaning  is  rather  obscure.
 ^  Here  written  Asti-vida^  (see  Chap.  Ill,  21).  Vend.  V,  25,  31
 says,  '  Asto-vidhotu  binds  him  (the  dying  man) ;  Vayo  (the  flying
 demon)  conveys  him  bound;'  from  which  it  would  appear  that
-Ast6-vida^  and  '  the  evil  flyer '  were  originally  considered  as  dis-
-tinct demons.
-
-
-112  BUNDAHI5.
+Ast6-vida^  and  '  the  evil  flyer '  were  originally  considered  as  distinct demons.
 
 
 Jiis  hand  strokes  a  man  it  is  lethargy,  when  he  casts
@@ -8644,8 +8021,7 @@ is  stated  in  §§  1-6,  and  is  contrary  to  general  opinion.  This
 inconsistency  would  indicate  the  possibility  of  this  continuation  of
 Chap.  XXVIII  in  TD,  or  a  portion  of  it,  having  been  added  by
 an  editor  in  later  times  (although  it  is  difficult  to  discover  any
-difference  of  style  in  the  language),  if  we  did  not  find  a  similar  con-
-fusion of  the  two  names  in  Chap.  XXX,  29,  30.
+difference  of  style  in  the  language),  if  we  did  not  find  a  similar  confusion of  the  two  names  in  Chap.  XXX,  29,  30.
 
 
 CHAPTER    XXVIII,    36-44.  I  I  3
@@ -8658,13 +8034,11 @@ This,  too,  it  says,  that  the  evil  spirit  remains  at  the
 distance  of  a  cry,  even  at  the  cry  of  a  three-year-old
 cock  (kuleng),  even  at  the  cry  of  an  ass,  even  at
 the  cry  of  a  righteous  man  when  one  strikes  him
-involuntarily  and  he  utters  a  cry  ^.  42.  The  de-
-mon Kundak^  is  he  who  is  the  steed  (barak)  of
+involuntarily  and  he  utters  a  cry  ^.  42.  The  demon Kundak^  is  he  who  is  the  steed  (barak)  of
 wizards.
 
 43.  Various  new  demons  arise  from  the  various
-new  sins  the  creatures  may  commit,  and  are  pro-
-duced for  such  purposes ;  who  make  even  those
+new  sins  the  creatures  may  commit,  and  are  produced for  such  purposes ;  who  make  even  those
 planets  rush  on  which  are  in  the  celestial  sphere,  and
 they  stand  very  numerously  in  the  conflict.  44.
 Their  ringleaders  (kamarikan)  are  those  seven
@@ -8673,8 +8047,7 @@ pla7iets,  the  head  and  tail  of  G6/('ihar,  and  Mu^rpar  ^
 ^  Compare  Mkh.  XL,  24-28:  'The  one  wish  that  Hormezd,
 the  lord,  desires  from  men  is  this,  that  "  ye  shall  understand  me
 (Hormezd),  since  every  one  who  shall  understand  me  comes  after
-me,  and  strives  for  my  satisfaction."  And  the  one  wish  that  Ahar-
-man  desires  from  men  is  this,  that  "  ye  shall  not  understand  me
+me,  and  strives  for  my  satisfaction."  And  the  one  wish  that  Aharman  desires  from  men  is  this,  that  "  ye  shall  not  understand  me
 (Aharman),  since  whoever  shall  understand  me  wicked,  his  actions
 proceed  not  after  me,  and,  moreover,  no  advantage  and  friendship
 come  to  me  from  that  man." '
@@ -8688,8 +8061,7 @@ such  cries.
 
 *  TD  has  Gok-Mar  and  Mft^-parik  here,  but  see  Chap.  V,  i,
 where  these  beings  are  included  among  the  seven  planetary  leaders,
-and  not  counted  in  addidon  to  them.  This  is  another  inconsis-
-tency which  leads  to  the  suspicion  that  this  continuation  of  the
+and  not  counted  in  addidon  to  them.  This  is  another  inconsistency which  leads  to  the  suspicion  that  this  continuation  of  the
 chapter  may  have  been  written  by  a  later  hand.  According  to
 this  later  view,  the  sun  and  moon  must  be  included  among  those
 malevolent  orbs,  the  planets.
@@ -8697,20 +8069,15 @@ malevolent  orbs,  the  planets.
 [5]  I
 
 
-114  BUNDAHI5.
-
-
 provided  with  a  tail,  which  are  ten.  45.  And  by
 them  these  ten  worldly  creations,  that  is,  the  sky,
 water,  earth,  vegetation,  animals,  metals,  wind,  light,
-fire,  and  mankind,  are  corrupted  with  all  this  vile-
-ness ;  and  from  them  calamity,  captivity,  disease,
+fire,  and  mankind,  are  corrupted  with  all  this  vileness ;  and  from  them  calamity,  captivity,  disease,
 death,  and  other  evils  and  corruptions  ever  come  to
 water,  vegetation,  and  the  other  creations  which
 exist  in  the  world,  owing  to  the  fiendishness  of
 those  ten.  46.  They  whom  I  have  enumerated  are
-furnished  with  the  assistance  and  crafty  (afzar-
-homand)  nature  of  Aharman.
+furnished  with  the  assistance  and  crafty  (afzarhomand)  nature  of  Aharman.
 
 47.  Regarding  the  cold,  dry,  stony,  and  dark
 interior  of  mysterious  (tarik  den  afra^-pefl^ak)
@@ -8719,16 +8086,13 @@ the  hand  \  and  the  stench  is  fit  to  cut  with  a  knife ;
 and  if  they  inflict  the  punishment  of  a  thousand
 men  within  a  single  span,  they  (the  men)  think  in
 this  way,  that  they  are  alone ;  and  the  loneliness  is
-worse  than  its  punishment  ^.  48.  And  its  connec-
-tion (band)  is  with  the  seven  planets,  be  it  through
+worse  than  its  punishment  ^.  48.  And  its  connection (band)  is  with  the  seven  planets,  be  it  through
 much  cold  like  Saturn"^  (Kevan),  be  it  through
-much  heat  like  Aharman;  and  their  food  is  brim-
-stone (gandak),  and  of  succulents  the  lizard  (va-
+much  heat  like  Aharman;  and  their  food  is  brimstone (gandak),  and  of  succulents  the  lizard  (va-
 zagh),  and  other  evil  ^/^^f  wretchedness  (patyin).]
 
 
-^  Compare  Mkh.  VII,  31:'  and  always  their  darkness  is  such-
-like as  though  it  be  possible  to  grasp  with  the  hand.'
+^  Compare  Mkh.  VII,  31:'  and  always  their  darkness  is  suchlike as  though  it  be  possible  to  grasp  with  the  hand.'
 
 ^  Compare  Ar</a-Viraf-namak  (LIV,  5-8) :  '  As  close  as  the  ear
 to  the  eye,  and  as  many  as  the  hairs  on  the  mane  of  a  horse,  so
@@ -8748,15 +8112,12 @@ I.  On  [the  spiritual  chieftainship  ^  of  the  regions
 of  the  eartJ{\  it  says  in  revelation,  that  every  one  of
 those  six  chieftainships^  has  one  spi^ntual  chief;
 as  the  chief  of  Arzah  is  Ashashagahartf-e  i^e^a^^dMn*,
-the  chief  of  Savah  is  Hoazarodathhri-hana  PareJt-
-yaro^  the  chief  of  Fradart'afsh  is  Spit6i<^-i  Auspo-
-sinan  ^  [the  chief  of  Vida(/afsh  is  Airi<2'-rasp  Auspo-
-sinan',]  the  chief  of  Vorubar^t  is  Huvasp^  the
+the  chief  of  Savah  is  Hoazarodathhri-hana  PareJtyaro^  the  chief  of  Fradart'afsh  is  Spit6i<^-i  Auspo-
+sinan  ^  [the  chief  of  Vida(/afsh  is  Airi<2'-rasp  Ausposinan',]  the  chief  of  Vorubar^t  is  Huvasp^  the
 chief  of  V6ru^ar<rt  is  A^akhravak^      2.   Zaratiut  is
 
 
-^  For  this  chapter,  which  is  numbered  XXX  by  previous  trans-
-lators, we  have  to  depend  only  on  K20  and  TD  (see  the  note  on
+^  For  this  chapter,  which  is  numbered  XXX  by  previous  translators, we  have  to  depend  only  on  K20  and  TD  (see  the  note  on
 the  heading  of  Chap.  XXVIII) ;  and  the  words  enclosed  in  brackets
 are  supplied  from  TD,  being  either  illegible  or  omitted  in  K20.
 
@@ -8782,8 +8143,7 @@ tira  of  Fravardin  Yt.  no.
 Dastur  is,  no  doubt,  the  Av.  (gen.)  Spitoi^  Uspasnaoj-  of  Fravardin
 Yt.  121.
 
-■^  Omitted  in  K20,  but,  no  doubt,  this  Dastur  is  the  Av.  Erez-
-raspa  Uspasnu  of  Fravardin  Yt.  121.
+■^  Omitted  in  K20,  but,  no  doubt,  this  Dastur  is  the  Av.  Erezraspa  Uspasnu  of  Fravardin  Yt.  121.
 
 *  Av.  Hvaspa  of  Fravardin  Yt.  122.
 
@@ -8804,8 +8164,7 @@ received  by  them  from  Zaratui^t  \
 
 3.  In  the  region  of  Khvaniras  are  many  places,
 from  which,  in  this  evil  time  of  violent  struggling
-with  the  adversary,  a  passage  (vi^arg)  is  con-
-structed by  the  power  of  the  spiritual  world
+with  the  adversary,  a  passage  (vi^arg)  is  constructed by  the  power  of  the  spiritual  world
 (mainokih),  and  one  calls  them  the  beaten  tracks^
 of  Khvaniras.
 
@@ -8850,8 +8209,7 @@ CHAPTER    XXIX,   3-5.  I  I  7
 of  them  ;  as  it  says,  that  Peshyotanil  ^  son  of  Vi^-
 tasp,  whom  they  call  A'itro-maino^,  is  in  the  country
 of  Kangde^^;  Aghrera^^^  sou  of  Pashang  is  in  the
-land  of  S^ukavastan^,  and  they  call  him  Gopat-
-shah^     Pari-adga^   Z^^z^embya    is    in    the    plain    of
+land  of  S^ukavastan^,  and  they  call  him  Gopatshah^     Pari-adga^   Z^^z^embya    is    in    the    plain    of
 
 
 ^  The  Av.  Peshotanu  of  Vishtasp  Yt.  4,  where  he  is  described
@@ -8899,17 +8257,14 @@ mentions  '  Fradhakhjto  son  of  Khiambikan'  as  one  of  the  seven
 Il8  BUNDAHW.
 
 
-Pei-yansai  \  and  he  is  //jvembya  for  this  reason,  be-
-cause they  brought  him  up  in  a  /^z^emb  ('jar')  for
+Pei-yansai  \  and  he  is  //jvembya  for  this  reason,  because they  brought  him  up  in  a  /^z^emb  ('jar')  for
 fear  of  Khashm  ('  Wrath  ') ;  [Asam-i  ^  Yamahu^t  is
 in  the  place  which  they  call  the  River  Naivtak] ;
-the  tree  opposed  to  harm"  is  in  Airan-ve^;  Urvatad-
-nar  *  son  of  Zaratui"t  is  in  the  enclosure  formed  by
+the  tree  opposed  to  harm"  is  in  Airan-ve^;  Urvatadnar  *  son  of  Zaratui"t  is  in  the  enclosure  formed  by
 Yim.  6.  Regarding  them  it  says,  they  are  those
 who  are  immortal,  as  are  Narsih  ^  son  of  Vivanghau,
 Tus  "^  son  of  No^ar^,  Giw  ^  son  of  Gu^'ar^',  Ibairaz^
-the  causer  of  strife,  and  Ashavazd  son  of  Pouru-
-dhakh^t^*^;   and   they  will  alP^  come   forth,  to  the
+the  causer  of  strife,  and  Ashavazd  son  of  Pourudhakh^t^*^;   and   they  will  alP^  come   forth,  to  the
 
 
 immortal  lords  of  Khvaniras,  which  name  corresponds  with  the
@@ -8949,8 +8304,7 @@ of  strife.'
 
 ^^  So  in  TD;  K20  has  'Ashavand  son  of  Porudakhi't,'  and  Daia'.
 (Reply  89)  mentions  '  Ashavazang  son  of  Porudakhsloih '  as  one
-of  the  seven  immortal  lords  of  Khvaniras.  He  is  the  Av.  '  Asha-
-vazdangh  the  Poumdhakhj-tiyan '  of  Aban  Yt.  72,  Fravardin  Yt.
+of  the  seven  immortal  lords  of  Khvaniras.  He  is  the  Av.  '  Ashavazdangh  the  Poumdhakhj-tiyan '  of  Aban  Yt.  72,  Fravardin  Yt.
 112.
 
 ^'  So  in  TD,  but  K20  has  '  always.'
@@ -8961,8 +8315,7 @@ CHAPTER    XXIX,    6-TO.  IIQ
 assistance  of  Soshyans,  on  the  production  of  the
 renovation  of  the  tcniverse.
 
-7.  Regarding  Sam  ^  it  says,  that  he  became  im-
-mortal, dui  owing  to  his  disregard  of  the  Mazda-
+7.  Regarding  Sam  ^  it  says,  that  he  became  immortal, dui  owing  to  his  disregard  of  the  Mazda-
 yasnian  reHgion,  a  Turk  whom  they  call  Niha^^
 wounded  ki?n  with  an  arrow,  when  he  was  asleep
 there,  in  the  plain  of  Pei^yansai  ;  and  it  had  brought
@@ -8975,8 +8328,7 @@ guardian  spirits  of  the  righteous  are  as  a  protection
 to  him.  9.  Of  Dahak,  whom  they  call  Bevarasp,
 this,  too,  it  says,  that  Fre^^un  when  he  captured
 Dahak  was  not  able  to  kill  him,  and  afterwards
-confined  him  in  Mount  Dimavand*^;  when  he  be-
-comes unfettered,  Sam  arises,  and  smites  and  slays
+confined  him  in  Mount  Dimavand*^;  when  he  becomes unfettered,  Sam  arises,  and  smites  and  slays
 him.
 
 10.  As  to  Kangde^',  //  is  in  the  direction  of  the
@@ -9063,20 +8415,17 @@ Htjshe</ar-mah  -,  the  strength  of  appetite  (az)  will
 thus  diminish,  when  men  will  remain  three  days
 and  nights  in  superabundance  (sirih)  through  one
 taste  of  consecrated  food.  3.  Then  they  will  desist
-from  meat  food,  and  eat  vegetables  and  milk  ;  after-
-wards, they  abstain  from  milk  food  and  abstain  from
+from  meat  food,  and  eat  vegetables  and  milk  ;  afterwards, they  abstain  from  milk  food  and  abstain  from
 vegetable  food,  and  are  feeding  on  water ;  and  for
 ten  years  before  Soshyans  ^  comes  they  remain
 without  food,  and  do  not  die.
 
 4.  After  Soshyans  comes  they  prepare  the  raising
-of  the  dead,  as  it  says,  that  Zaratui-t  asked  of  Auhar-
-mazd  thus :  '  Whence  does  a  body  form  again,
+of  the  dead,  as  it  says,  that  Zaratui-t  asked  of  Auharmazd  thus :  '  Whence  does  a  body  form  again,
 which  the  wind  has  carried  and  the  water  conveyed
 (va^i</)*?  and  how  does  the  resurrection  occur?'
 5.  Auharmazd  answered  thus  :  '  When  through  me
-the  sky  arose  from  the  substance  of  the  ruby^  with-
-out columns,  on  the  spiritual  support  of  far-com-
+the  sky  arose  from  the  substance  of  the  ruby^  without columns,  on  the  spiritual  support  of  far-com-
 passed light;  when  through  me  the  earth  arose,
 which  ^   bore   the    material    life,    and    there     is    no
 
@@ -9185,18 +8534,12 @@ sheep  among  those  which  are  black.      11.   In  that
 (the  idhafat  of  unity) ;  but  the  meaning  is  probably  that  all  former
 distinctions  of  class,  or  caste,  are  abolished.
 
-^  Windischmann  suggests  that  it  may  be  '  the  assembly  of  Isa^f-
-vastar,'  the  eldest  son  of  Zaratmt  (see  Chap.  XXXII,  5);  perhaps
-supposed  to  be  presided  over  by  him  as  the  first  supreme  high-
-priest  after  Zaratmt's  death.
-
-
-124  BUNDAHI5'.
+^  Windischmann  suggests  that  it  may  be  '  the  assembly  of  Isa^fvastar,'  the  eldest  son  of  Zaratmt  (see  Chap.  XXXII,  5);  perhaps
+supposed  to  be  presided  over  by  him  as  the  first  supreme  highpriest  after  Zaratmt's  death.
 
 
 assembly  whatever  righteous  man  was  friend  of  a
-wicked  one  in  the  world,  and  the  wicked  man  com-
-plains of  him  who  is  righteous,  thus  :  '  Why  did  he
+wicked  one  in  the  world,  and  the  wicked  man  complains of  him  who  is  righteous,  thus  :  '  Why  did  he
 not  make  me  acquainted,  when  in  the  world,  with
 the  good  deeds  which  he  practised  himself  ? '  if  he
 who  is  righteous  did  not  inform  him,  then  it  is
@@ -9212,8 +8555,7 @@ bodily  those  three  days'  happiness  in  heaven^.  14.
 As  it  says  that,  on  the  day  when  the  righteous  7nan
 is  parted  from  the  wicked,  the  tears  of  every  one,
 thereupon,  run  down  unto  Jiis  legs.  15.  When,
-after  they  set  apart  a  father  from  his  consort  (ham-
-ba^),  a  brother  from  his  brother,  and  a  friend  from
+after  they  set  apart  a  father  from  his  consort  (hamba^),  a  brother  from  his  brother,  and  a  friend  from
 
 1  In  the  Ar^a-Viraf-namak  (Chap.  LXVIII)  it  is  related  that
 Ar</a-Viraf  saw  the  souls  of  a  husband  and  wife,  that  of  the  husband
@@ -9252,12 +8594,10 @@ call  it  '  the  punishment  of  the  three  nights  ^'
 universe,  those  righteous  men  of  whom  it  is  written  ^
 that  they  are  living,  fifteen  men  and  fifteen  damsels,
 will  come  to  the  assistance  of  Soshyans.  i8.  As
-Go/'ihar^  falls  in  the  celestial  sphere  from  a  moon-
-beam on  to  the  earth,  the  distress  of  the  earth
+Go/'ihar^  falls  in  the  celestial  sphere  from  a  moonbeam on  to  the  earth,  the  distress  of  the  earth
 becomes  such-like  as  that  of  a  sheep  when  a  wolf
 falls  upon  it.  19.  Afterwards,  the  fire  and  halo*
-melt  the  metal  of  Shatvairo,  in  the  hills  and  moun-
-tains,  and  it  remains  on   this    earth    like   a   river.
+melt  the  metal  of  Shatvairo,  in  the  hills  and  mountains,  and  it  remains  on   this    earth    like   a   river.
 
 ^  According  to  the  Pahlavi  Vend.  VII,  136  (p.  96,  Sp.)  it  appears
 that  a  person  who  has  committed  a  marg-ar^an  or  mortal  sin,
@@ -9278,9 +8618,6 @@ of  these  righteous  immortals,  or  an  addition  to  them.
 
 *  Reading  khirman;  M6  has  'the  fire  and  angel  Airman  (Av.
 Airyaman)  melt  the  metal  in  the  hills,'  &c.
-
-
-126  BUNDAHI5.
 
 
 20.  Then  all  men  will  pass  into  that  melted  metal
@@ -9309,8 +8646,7 @@ assistants,  performs  a  Ya^'ii'n  cereniotiy  in  preparing
 the  dead,  and  they  slaughter  the  ox  Hadhayoi-^  in
 that  Ya^'ii'n  ;  from  the  fat  of  that  ox  and  the  white
 Hom  ^  they  prepare  Hush,  and  give  it  to  all  men,
-and  all  men  become  immortal  for  ever  and  ever-
-lasting. 26.  This,  too,  it  says,  that  whoever  has
+and  all  men  become  immortal  for  ever  and  everlasting. 26.  This,  too,  it  says,  that  whoever  has
 been  the  size  of  a  man,  they  restore  him  then  with
 an  age  of  forty  years ;  they  who  have  been  little
 when  not  dead,  they  restore  then  with  an  age  of
@@ -9336,8 +8672,7 @@ the  reward  and  recompense  suitable  to  his  deeds  ;
 this  is  even  the  righteous  existence  (ait)  where  it  is
 said  that  they  convey  him  to  paradise  (vahi^t),  and
 the  heaven  (garo^man)  of  Auharmazd  takes  up
-the  body  (kerp)  as  itself  requires;  with  that  assist-
-ance he  continually  advances  for  ever  and  ever-
+the  body  (kerp)  as  itself  requires;  with  that  assistance he  continually  advances  for  ever  and  ever-
 lasting. 28.  This,  too,  it  says,  that  whoever  has
 performed  no  worship  (ya^t),  and  has  ordered  no
 Getl-kharirtf^  and  has  bestowed  no  clothes  as  a
@@ -9388,15 +8723,11 @@ it  may  not  be  ineffective.'
 2  Paz.  gehan  is  probably  a  misreading  of  Pahl.  yazdan,  as
 
 
-128  BUNDAHI5.
-
-
 29-  Afterwards,  Auharmazd  seizes  on  ^  the  evil
 spirit,  Vohuman  on  Akoman^,  Ashavahii't  on  Andar^
 Shatvairo  on  Savar,  Spendarmaflf  on  Taromat
 who  is  Naiinghas  ^,  Horvada^f  and  Ameroda^  on
-Tairez/  and  Zairi/^^,  true-speaking  on  what  is  evil-
-speaking,  Srosh  ^  on  Aeshm  ^  30.  Then  two  fiends
+Tairez/  and  Zairi/^^,  true-speaking  on  what  is  evilspeaking,  Srosh  ^  on  Aeshm  ^  30.  Then  two  fiends
 remain  at  large,  Aharman  ^  and  A^"^;  Auharmazd
 comes  to  the  world,  himself  the  Zota  and  Srosh
 the    Raspi  ^*^,    and    holds    the    Kusti    in  his   hand ;
@@ -9425,8 +8756,7 @@ Taromat  in  XXVIII,  14.
 
 ^  Here  written  Tarez'  and  Zari/^.
 
-^  Av.  Sraosha,  a  personification  of  attentive  hearing  and  obe-
-dience, who  is  said  to  watch  over  the  world  and  defend  it  from
+^  Av.  Sraosha,  a  personification  of  attentive  hearing  and  obedience, who  is  said  to  watch  over  the  world  and  defend  it  from
 the  demons,  especially  at  night;  see  Vend.  XVIII,  48,  51,  70,  &c.,
 Yas.  LVI,  Srosh  Yt.  Hadokht,  &c.
 
@@ -9462,8 +8792,7 @@ the  world  is  immortal  for  ever  and  everlasting.
 2,Z-  This,  too,  it  says,  that  this  earth  becomes  an
 iceless  ^    slopeless    plain  ^ ;    even    the    mountain  ■',
 
-^  The  words  zak  g,hani,  for  an  g^hani,  are  probably  a  mis-
-reading of  aivyahan,  'the  k^sti  or  sacred  thread-girdle,'  which  is
+^  The  words  zak  g,hani,  for  an  g^hani,  are  probably  a  misreading of  aivyahan,  'the  k^sti  or  sacred  thread-girdle,'  which  is
 tied  round  the  waist  in  a  peculiar  manner,  during  the  recital  of  a
 particular  formula,  in  which  Auharmazd  is  blessed  and  Aharman
 and  the  demons  are  cursed.
@@ -9472,8 +8801,7 @@ and  the  demons  are  cursed.
 
 *  Probably  referring  to  kz,  which  means  both  '  greediness '  and
 '  serpent.'  It  is,  however,  possible  to  read  '  G6/^ihar  the  serpent
-burns  in '  &c.,  and  there  can  be  no  doubt  that  GokVa^x  is  repre-
-sented as  a  malevolent  being.
+burns  in '  &c.,  and  there  can  be  no  doubt  that  GokVa^x  is  represented as  a  malevolent  being.
 
 ^  Or,  perhaps, '  hiding-place.'  Comparing  K20  and  M6  together
 the  word  seems  to  be  alom,  which  may  be  compared  with  Heb.
@@ -9498,9 +8826,6 @@ of  the  evil  spirit,  disappear  with  him.
 [5]  I^
 
 
-1 30  BUNDAHI5.
-
-
 whose  summit  is  the  support  of  the  Aliivar  bridge,
 they  keep  down,  and  it  will  not  exist.
 
@@ -9509,14 +8834,12 @@ Chapter  XXXI
 
 
 o.  On  the  race  and  genealogy  of  the  Kayans.
-I.  Hoshyang^  was  son  of  Fravak,  son  of  Siy^k-
-mak  2,  son  of  Mashya  ^,  son  of  Gayomar^.  [2.  Takh-
+I.  Hoshyang^  was  son  of  Fravak,  son  of  Siy^kmak  2,  son  of  Mashya  ^,  son  of  Gayomar^.  [2.  Takh-
 morup  ^  was  son  of  Vivanghau  ^,  son  of  Yangha^i^'^,  son
 ^Hoshyang.  3.  Yim,]^  Takhmorup,  Spitur^  and
 Narsih^",  whom  they  also  call  'the  Rashnu  of /^ino^^'
 
-^  For  this  chapter,  which  is  numbered  XXXII  by  previous  trans-
-lators, we  have  to  depend  only  on  K20,  TD,  and  K2ob  (a  fragment
+^  For  this  chapter,  which  is  numbered  XXXII  by  previous  translators, we  have  to  depend  only  on  K20,  TD,  and  K2ob  (a  fragment
 evidently  derived  from  the  same  original  as  K20  and  M6,  but
 through  some  independent  line  of  descent).
 
@@ -9589,16 +8912,13 @@ name  seems  to  be  used  rather  as  a  title  than  a  patronymic,  and  in
 
 ^  TD  has  '  together,'  instead  of  '  then.'
 
-^  So  in  K20,  but  K2ob  has  Narst-gyavan,  and  TD  has  Nosih-
-viyavanik  (or  niyazanik).  Perhaps  we  may  assume  the  epithet  to
-have  been  nigir-viyavanik  (or  niyazanik),  'one  with  a  bewil-
-dering (or  longing)  glance.'
+^  So  in  K20,  but  K2ob  has  Narst-gyavan,  and  TD  has  Nosihviyavanik  (or  niyazanik).  Perhaps  we  may  assume  the  epithet  to
+have  been  nigir-viyavanik  (or  niyazanik),  'one  with  a  bewildering (or  longing)  glance.'
 
 ■^  Justi  supposes  this  clause  of  the  sentence  refers  to  Yim  and
 the  disease  which  attacked  his  hand.  If  this  be  the  case  it  may  be
 translated  as  follows  :  'they  say  aighash  is  produced  on  his  hand
-(y  ad  man),  so  that,'  &c. ;  aighash  being  a  disease,  or  evil,  men-
-tioned in  Vend.  XX,  14,  20,  24 ;  compare  Chap.  XXVIII,  33.
+(y  ad  man),  so  that,'  &c. ;  aighash  being  a  disease,  or  evil,  mentioned in  Vend.  XX,  14,  20,  24 ;  compare  Chap.  XXVIII,  33.
 
 ^  Or  kz-\  Dahak,  the  Av.  Asi  Dahaka,  '  destructive  serpent,'  of
 Yas.  IX,  25,  Vend.  I,  69,  Aban  Yt.  29,  34,  Bahram  Yt.  40,  Zamyad
@@ -9609,14 +8929,10 @@ Yim  (see  Chap.  XXXIV,  5).
 K   2
 
 
-132  BUNDAHW.
-
-
 son  of  Viraf^ang,  son  of  Tas',  son  of  Fravak.  son  of
 Siyakmak  ^ ;  by  his  mother  Dahak  was  of  Udai  ^,  5W^
 of  Bayak,  son  of  Tambayak,  son  of  Owokhm^,  i"(?;^  of
-Pairi-urvaesm  ^  ^^;^  of  Gadhwithw  ^,  ^^/^  of  Druf as-
-kan  ^,  ^^/2  of  the  evil  spirit.
+Pairi-urvaesm  ^  ^^;^  of  Gadhwithw  ^,  ^^/^  of  Druf askan  ^,  ^^/2  of  the  evil  spirit.
 
 7.  Fre^tiii  the  Aspiyan  ^  z£/^5  ^<?;^  <?/  Pur-tora  ®  the
 
@@ -9637,8 +8953,7 @@ Aspiyan,    son   of  Ramak-tora    the  Aspiyan,  son  of
 19.  The  following  two  names  look  like  'fear'  and  'gloom-fear,'
 both  appropriate  names  for  demons.
 
-^  TD  has  Paz.Owoikh  ;  compare  Av.  aoiwra, '  a  species  of  night-
-mare,' observing  that  r  and  6  are  often  written  alike  in  Pahlavi.
+^  TD  has  Paz.Owoikh  ;  compare  Av.  aoiwra, '  a  species  of  nightmare,' observing  that  r  and  6  are  often  written  alike  in  Pahlavi.
 
 *  TD  and  K2ob  have  Paz.  Pairi-urva-urvaesm,  and  K20  has
 Pai-urvaesm.
@@ -9650,19 +8965,16 @@ Dru^-i  ayaska.  It  corresponds  to  Av.  dru^aska  in  Vend.  XIX,  139,
 Vij-tasp  Yt.  26.  This  genealogy  appears  to  trace  Dahak's  maternal
 descent  through  a  series  of  demons.
 
-^  Av. Thraetaona,  son  of  Athwya,but  generally  called  'the  Athwya-
-nian,'  who  slew  the  destructive  serpent  (asi  dahaka),  see  Yas.  IX,
+^  Av. Thraetaona,  son  of  Athwya,but  generally  called  'the  Athwyanian,'  who  slew  the  destructive  serpent  (asi  dahaka),  see  Yas.  IX,
 24,  25,  Vend.  I,  69,  Aban  Yt.  33,  61,  Goi- Yt.  13,  FravardinYt.  131,
 Bahram  Yt.  40,  Ram  Yt.  23,  Ashi  Yt.  33,  Zamyad  Yt.  36,  92,  If.
 Zarat.  2.     In  the  Shahnamah  he  is  called  Feridun  son  of  Abtin.
 
 *  This  name  is  omitted  in  K20,  but  occurs  in  the  other  two  IMSS.  ;
-it  is  a  Huzvarij  hybrid  equivalent  to  Paz.  Pur-gau  and  Av.  Pouru-
-gau,  which  is  a  title  of  an  Athwyanian  in  Af.  Zarat.  4,  Vi.ytasp  Yt.
+it  is  a  Huzvarij  hybrid  equivalent  to  Paz.  Pur-gau  and  Av.  Pourugau,  which  is  a  title  of  an  Athwyanian  in  Af.  Zarat.  4,  Vi.ytasp  Yt.
 2.  This  genealogy  consists  almost  entirely  of  such  hybrid  names,
 which  have  a  very  artificial  appearance,  though  suitable  enough  for
-a  race  of  herdsmen,  meaning,  as  they  severally  do, '  one  with  abun-
-dant oxen,  with  useful  oxen,  with  the  brown  ox,  with  the  black  ox,
+a  race  of  herdsmen,  meaning,  as  they  severally  do, '  one  with  abundant oxen,  with  useful  oxen,  with  the  brown  ox,  with  the  black  ox,
 with  the  white  ox,  with  the  fat  ox,  and  with  a  herd  of  oxen.'
 
 '  So  in  TD,  but  the  other  two  MSS.  have  Siyak-tora,  which  is
@@ -9673,8 +8985,7 @@ CHAPTER    XXXI,   7-II.  133
 
 
 Vanfraghem'  the  Aspiyan,  son  of  Yim,  son  of
-Vivanghau  ;  as  these,  apart  from  the  Aspiyan  Pur-
-tora,  were  ten  generations,  they  every  one  Hved  a
+Vivanghau  ;  as  these,  apart  from  the  Aspiyan  Purtora,  were  ten  generations,  they  every  one  Hved  a
 hundred  years,  which  becomes  one  thousand  years ;
 those  thousand  years  were  the  evil  reign  of  Dahak.
 8.  By  the  Aspiyan  Piir-tora  was  begotten  Fre^un,
@@ -9720,14 +9031,10 @@ and  dvzd,  *pair,'  being  written  alike  in  Pahlavi.
 must  be  read  dukht,  and  not  dva^,  'pair.'
 
 
-134  BUNDAHW.
-
-
 ten  generations,  when  Manui'-i  Khurshe^-vinik  was
 born  from  his  mother,  \so  called  because,  as  he  was
 born,  some  of]^  the  light  of  the  sun  (khurshe<3f)  fell
-upon  his  nose  (vintk).  12.  From  Manui'-i  Khur-
-shert'-vintk  mid  his  sister  ^  was  Manu^-khurnar,  and
+upon  his  nose  (vintk).  12.  From  Manui'-i  Khurshert'-vintk  mid  his  sister  ^  was  Manu^-khurnar,  and
 from  Manui"-khurnar  \and  his  sister]  was  Manu-f/^ihar
 born^,  by  whom  Salm  and  Tu^^were  slain  in  revenge
 for  Airi/6^  13.  By  Manui-Z'ihar  were  Frii-,  No^T^ar^,
@@ -9735,8 +9042,7 @@ and  Durasrob  ^  begotten.
 
 14.  Just  as  Maniu/C'ihar  was  of  Manu^-khiirnar,  of
 Manui'-khurnak',  who  was  Mam-sozak  ®,  of  Airak,  of
-Thritak,  of  Bitak,  of  Fraziuak,  of  Zui-ak  ^,  of  Fragti-
-zak,  of  Guzak,  of  AiriX',  of  Fre</un,  so  Frasiyaz:/^"  was
+Thritak,  of  Bitak,  of  Fraziuak,  of  Zui-ak  ^,  of  Fragtizak,  of  Guzak,  of  AiriX',  of  Fre</un,  so  Frasiyaz:/^"  was
 
 ^  The  phrase  in  brackets  occurs  only  in  TD;  and  the  whole
 passage  from  'vinik'  to  'sun'  is  omitted  in  K20,  evidently  by
@@ -9751,8 +9057,7 @@ ManmZ'ihar  born,'  but  this  introduction  of  an  extra  generation  is
 not  confirmed  by  the  list  of  names  in  §  14.  The  term  khurnak  (or
 khurnak)  seems  to  be  merely  a  transcript  of  the  Avesta  word  of
 which  khurshe6?-vinik, 'sun-nose,' is  a  translation.  The  other
-term  kh-urnar  can  also  be  read  khurvar,  but  K20  has  Paz.  ^z'ar-
-nar,  ManiJj/C'ihar  is  the  Av.  Manu^/^ithra  of  Fravardin  Yt.  131,
+term  kh-urnar  can  also  be  read  khurvar,  but  K20  has  Paz.  ^z'arnar,  ManiJj/C'ihar  is  the  Av.  Manu^/^ithra  of  Fravardin  Yt.  131,
 where  he  is  styled  the  Airyavan,  or  descendant  of  Airyu  (Airi/&).
 
 ^  TD  has  '  and  vengeance  exacted  for  AiriX'.'
@@ -9823,8 +9128,7 @@ many  other  ways.
 
 ^  She  is  called  Farangis  in  the  Shahnamah.
 
-^"  The  reading  of  several  of  these  names  is  more  or  less  uncer-
-tain, but  the  object  of  the  author  is  evidently  to  apply  opprobrious
+^"  The  reading  of  several  of  these  names  is  more  or  less  uncertain, but  the  object  of  the  author  is  evidently  to  apply  opprobrious
 epithets  to  all  the  male  descendants  of  Afrasiyab.
 
 "  TD  has  Gopat-^malka  here,  as  also  in  Chap.  XXIX,  5,  where
@@ -9839,8 +9143,7 @@ J
 
 var\  and  scattered  ruin  and  want  among  them,
 Aghrerartf  begged  a  favour  of  God  (yazdan),  and
-he  obtained  the  benefit  that  the  army  and  cham-
-pions of  the  Iranians  were  saved  by  him  from  that
+he  obtained  the  benefit  that  the  army  and  champions of  the  Iranians  were  saved  by  him  from  that
 distress.  22.  Frasiyaz^  slew  Aghrera^  for  that
 fault ;  and  Aghrera^f,  as  his  recompense,  begat
 such  a  son  as  Gopatshah.
@@ -9857,8 +9160,7 @@ the  trembling  child.
 
 25.  By  Kavafl^  was  Kai-Apiveh  begotten;  by
 Kai-Apiveh  were  Kai-Arsh,  Kai-Vyarsh,  Kai-Pisan,
-and  Kai-Kaus  begotten ;  by  Kai-Kaus  was  Siya-
-vakhsh  begotten  ;  by  Siyavakhsh  was  Kai-Khusrob^
+and  Kai-Kaus  begotten ;  by  Kai-Kaus  was  Siyavakhsh  begotten  ;  by  Siyavakhsh  was  Kai-Khusrob^
 
 ^  The  mountains  south  of  the  Caspian  (see  Chap.  XTI,  17).
 
@@ -9875,8 +9177,7 @@ said  to  have  been  found.
 
 ^  The  Avesta  names  of  these  seven  other  Kayans  are,  respectively,
 Kavi  Aipi-vanghu,  Kavi  Arshan,  Kavi  Byarshan,  Kavi  Pisanangh,
-Kavi  Usadhan,  Kavi  Syavarshan,  and  Kavi  Husravangh  (see  Fra-
-vardin Yt.  132,  Zamyad  Yt.  71,  74);  omitting  the  third,  they  are
+Kavi  Usadhan,  Kavi  Syavarshan,  and  Kavi  Husravangh  (see  Fravardin Yt.  132,  Zamyad  Yt.  71,  74);  omitting  the  third,  they  are
 called,  respectively,  Armin,  Arij,  Pa^in,  Kai-Kavils,  Siyavush,  and
 Kai  Khusro  in  the  Shahnamah.  TD,  omitting  the  first  letter,  has
 Sano  for  Pisan  j  it  also  writes  Kai-Kayuks  and  Kai-Khusrovi.
@@ -9891,8 +9192,7 @@ of  Tilf,  5^;z  of  Fre^un.  28.  Loharasp^  was  son  of
 Auzav  ^  5^;^  of  Manu.?,  ^^;^  of  Kai-Ptstn  ^  ^^;2  ^/
 Kai-Apiveh,  son  of  Kat-Kava^.  29.  By  Kai-
 Loharasp  were  Vi^tasp,  Zarir  ^,  ^;^<if  other  brothers
-begotten  ;  by  Vi^tasp  were  Spend-dac/'^  and  Peshyo-
-tanu^^^  begotten ;  and  by  Spend-da^  were  Vohuman",
+begotten  ;  by  Vi^tasp  were  Spend-dac/'^  and  Peshyotanu^^^  begotten ;  and  by  Spend-da^  were  Vohuman",
 Ataro-tarsah,  Mitro-tarsah,  and  others  begotten.
 
 30.  Artakhshatar  descendant  of  Papak — of  whom
@@ -9943,8 +9243,7 @@ Papakan  states  clearly  that  Art/ashir  was  son  of  Sasan  by   the
 I  ^8  BUNDAHI5.
 
 
-Veh-afri^  and  ^  Zarir,  son  of  Sasan,  son  of  Artakhsha-
-tar  who  was  the  said  Vohuman  son  of  Spend-da^f.
+Veh-afri^  and  ^  Zarir,  son  of  Sasan,  son  of  Artakhshatar  who  was  the  said  Vohuman  son  of  Spend-da^f.
 
 31.  The  mother  of  Kai-Apiveh  was  Farhank  2,
 daughter  of  him  who  is  exalted  on  the  heavenly
@@ -9958,8 +9257,7 @@ there,  and  gave  them  to  the  cow,  until  the  glory
 went  on  to  the  cow;  he  brought  the  cow,  milked  her
 milk,  and  gave  it  to  his  three  sons  ;  as  their  walking
 was  on  hoofs,  the  glory  did  not  go  to  the  sons,  but
-to  Farhank.  33.  Noktarga  wished  to  injure^  Far-
-hank,  but  Farhank  went  with  the  glory  aivay  from
+to  Farhank.  33.  Noktarga  wished  to  injure^  Farhank,  but  Farhank  went  with  the  glory  aivay  from
 
 daughter  of  Papak,  a  tributary  ruler  of  Pars  under  Ardavan,  the
 last  of  the  A^kaniyan  monarchs.
@@ -9977,8 +9275,7 @@ than  a  name.
 
 *  Or,  perhaps,  '  Urva<f-ga  son  of  Frajt.'
 
-^  The  divine  glory  which  was  supposed  to  accompany  all  legiti-
-mate sovereigns  of  Iran,  from  the  time  of  Hoshyang  even  to  that
+^  The  divine  glory  which  was  supposed  to  accompany  all  legitimate sovereigns  of  Iran,  from  the  time  of  Hoshyang  even  to  that
 of  the  Sasanian  dynasty  ;  it  is  the  Av.  /^z;arenangh  of  the  Zamyad
 Yai't,  and  is  said  to  have  fled  to  the  ocean  for  refuge  during  the
 reign  of  foreign  dynasties  and  wicked  kings  (see  Aban  Yt.  42,
@@ -9996,8 +9293,7 @@ CHAPTER    XXXI,   3I-38,  1 39
 the  fierce  (ttb)  father,  and  made  a  vow  (patyastak)
 thus:  '  I  will  give  my  first  son  to  Aushbam^.'  34.
 Then  Aiishbam  saved  her  from  the  father ;  and  the
-first  son,  Kai-Apiveh,  she  bore  and  gave  to  Aush-
-bam,  was  a  hero  associating  with  Aushbam,  and
+first  son,  Kai-Apiveh,  she  bore  and  gave  to  Aushbam,  was  a  hero  associating  with  Aushbam,  and
 travelled  in  Aiishbam's  company.
 
 35.  The  mother  of  Aiizobo  was  the  daughter
@@ -10046,8 +9342,7 @@ I40  BUNDAHW.
 
 among  them.  39.  To  Damnak  the  governorship  of
 Astiristan  was  given  ;  sovereignty  and  arranging  the
-law  of  sovereignty,  wilfulness  and  the  stubborn  de-
-fects they  would  bring,  were  among  them.  40.  To
+law  of  sovereignty,  wilfulness  and  the  stubborn  defects they  would  bring,  were  among  them.  40.  To
 Sparnak  ^  the  governorship  of  Spahan  ^  was  given  ;
 to  Khusrov  the  governorship  of  Rai  ^  was  given  ;  to
 Margandak  the  kingdom,  forest  settlements,  and
@@ -10055,14 +9350,12 @@ mountain  settlements  of  Padashkhvarear  were
 given ;  where  they  travel  nomadically,  and  there
 are  the  forming  of  sheep-folds,  prolificness,  easy
 procreation,  and  continual  triumph  over  enemies.
-41.  From  Dastan  proceeded  RCu/astam  *  and  Huza-
-varak  ^]
+41.  From  Dastan  proceeded  RCu/astam  *  and  Huzavarak  ^]
 
 
 Chapter    XXXII «.
 
-I.   On    the    kindred  of  Porushasp^  son  of  Paiti-
-rasp®,  son  of  Aurvadasp  ^  son  of  Hae/^a^asp  ^°,  son  of
+I.   On    the    kindred  of  Porushasp^  son  of  Paitirasp®,  son  of  Aurvadasp  ^  son  of  Hae/^a^asp  ^°,  son  of
 
 ^  He  would  seem  not  to  have  been  a  son  of  Sam,  as  he  is  not
 mentioned  before.     The  reading  of  all  these  names  is  uncertain.
@@ -10077,8 +9370,7 @@ the  modern  Teheran.
 ®  Or  Auzvarak ;  Rustam's  brother  is  called  Zavarah  in  the
 Shahnamah.
 
-"  This  chapter,  which  is  numbered  XXXIII  by  previous  trans-
-lators, is  found  in  all  MSS.,  but  in  TD  it  forms  a  continuation  of
+"  This  chapter,  which  is  numbered  XXXIII  by  previous  translators, is  found  in  all  MSS.,  but  in  TD  it  forms  a  continuation  of
 the  preceding  chapter,  beginning  with  the  name  Porushasp.
 
 "^  Av.  Pourushaspa  of  Yas.  IX,  42,  43,  Vend.  XIX,  15,  22,  143,
@@ -10098,10 +9390,8 @@ A'akhshnili' ^  son  of  Paitirasp,  sou  of  Hardariri^,  son
 of  Hardar  ^,  son  of  Spitaman  '*,  son  of  Vidai't  ^,  son  of
 Ayazem,  son  of  Ra^an^,  5<?;2  of  Durasrob  ^  son  of
 Manuj-/('ihar  ^.  2.  As  Paitirasp  //^^  two  sons,  one
-Porushasp  and  one  Arasti  ^,  by  Porushasp  was  Za-
-ratfii-t  begotten  for  a  sanctuary  of  good  religion  ^°,
-^;«^  by  Arasti  was  Mert^yok-mah  ^^  begotten.  3.  Zara-
-tii<s't,  when  he  brought  the  rehgion,  first  celebrated
+Porushasp  and  one  Arasti  ^,  by  Porushasp  was  Zaratfii-t  begotten  for  a  sanctuary  of  good  religion  ^°,
+^;«^  by  Arasti  was  Mert^yok-mah  ^^  begotten.  3.  Zaratii<s't,  when  he  brought  the  rehgion,  first  celebrated
 
 
 ^  Windischmann  suggests  Av.  A'akhshnoij-  (gen.)  of  Fravardin
@@ -10122,17 +9412,14 @@ see  XXXIII,  3.
 ^  So  in  TD,  but  Paz.  Durasrun  in  K20,  M6.
 
 ^  This  genealogy  is  somewhat  differently  given  in  theVa^arkar^-i
-Dinik  (pp.28, 29), as  published  in  Bombay  by  Dastur  Peshotanji  Beh-
-ramji  Sanjana  in  1848;  and  is  extended  back,  through  the  genera-
+Dinik  (pp.28, 29), as  published  in  Bombay  by  Dastur  Peshotanji  Behramji  Sanjana  in  1848;  and  is  extended  back,  through  the  genera-
 tions mentioned  in  Chap.  XXXI,  i,  2, 7, 14,  to  Gayomar^?',  as  follows  :
 '  Poriishaspo  son  of  Paitirasp,  and  Araspo  son  of  Paitirasp,  Urva«-
-dasp,  Hae/^afl^asp,  -ff'ikhshnuj,  Paetirasp,  Hardr^n,  Haridar,  Spita-
-mano,  Vaedi.s-t,  Nayazem,  Ra^ij'n,  Durasrob,  j\Ianiaj/^ihar  sovereign
+dasp,  Hae/^afl^asp,  -ff'ikhshnuj,  Paetirasp,  Hardr^n,  Haridar,  Spitamano,  Vaedi.s-t,  Nayazem,  Ra^ij'n,  Durasrob,  j\Ianiaj/^ihar  sovereign
 of  Iran,  IManuj-khurnar,  Manuj-khurnak,  Neryosang,  Varsi^-din,
 Vizak,  Airyak,  Aithritak,  Ibitak,  Frazi^ak,  Zi^ak,  Frasizak,  Izak,
 Airi/J,  Fre^/un  lord  of  Khvaniras,  Pur-tora  the  Aspikan,  Nevak-tora
-the  Aspikan,  Sog-tora  the  Aspikan,  Gefar-tord  the  Aspikan,  Vano-
-i-fravijn  the  Aspikan,  Yim  lord  of  the  seven  regions,  Vivanghau,
+the  Aspikan,  Sog-tora  the  Aspikan,  Gefar-tord  the  Aspikan,  Vanoi-fravijn  the  Aspikan,  Yim  lord  of  the  seven  regions,  Vivanghau,
 Ayangha^,  Anangha^/,  Takhmorup,  Hoshang  the  Pe^-da^,  lord  of
 the  seven  regions,  Fravak,  Siyamak,  Mashyo  whose  wife  was
 Mashyak,  Gayokmar^/  the  first  man,  and  father  of  all  mankind  in
@@ -10147,11 +9434,7 @@ misreading  of  Pahl.  dargas-i  hudinoih.
 He  is  said  to  have  been  Zaratujt's  first  disciple.
 
 
-142  BUNDAHI5'.
-
-
-worship  ^  and  expounded  in  Airan-ve^,  and  Me^^yok-
-mah  received  the  rehgion  from  him.  4.  The
+worship  ^  and  expounded  in  Airan-ve^,  and  Me^^yokmah  received  the  rehgion  from  him.  4.  The
 Mobads  ^  of  Pars  are  all  traced  back  to  this  race
 of  Manui"/'ihar.
 
@@ -10159,12 +9442,10 @@ of  Manui"/'ihar.
 sons  and  three  daughters^;  one  son  mas  Isa^^vastar^,
 one  Aurvata^-nar  *^,  and  one  Khiirshe^-z^thar'^ ;  as
 Isar/vastar  ivas  chief  of  the  priests  he  became  the
-Mobad  of  Mobads,  and  passed  away  in  the  hun-
-dredth year  of  the  religion  ;  Aurvata^-nar  was  an
+Mobad  of  Mobads,  and  passed  away  in  the  hundredth year  of  the  religion  ;  Aurvata^-nar  was  an
 agriculturist,  and  the  chief  of  the  enclosure  formed
 by  Yim^,  which  is  below  the  earth  ;  Khurshe«'-/ihar
-was  a  warrior,  commander  of  the  army  of  Peshyo-
-tanii,  son  of  Vii-tasp,  and  dwells  in  Kangde^^;  and
+was  a  warrior,  commander  of  the  army  of  Peshyotanii,  son  of  Vii-tasp,  and  dwells  in  Kangde^^;  and
 of  the  three  daughters  the  name  of  one  was  Fren,  of
 one  Srit,  and  of  one  Poru/^ist  ^  6.  Aurvata^f-nar  and
 Kh\irshe<3^-/(^ihar  were  from  a  serving  (-^akar)  wife^",
@@ -10173,11 +9454,9 @@ the  rest  were  from  a  privileged  (pa^akhshah)  wife.
 ^  Reading  fra^  ya^t ;  but  it  may  be  fra^  ga^t,  'wandered
 forth.'
 
-^  The  class  of  priests  whose  special  duty  is  to  perform  all  reli-
-gious rites  and  ceremonies.
+^  The  class  of  priests  whose  special  duty  is  to  perform  all  religious rites  and  ceremonies.
 
-^  This  paragraph  is  quoted,  with  a  few  alterations,  in  the  Va^ar-
-kar6?-i  Dinik,  pp.  21-23.
+^  This  paragraph  is  quoted,  with  a  few  alterations,  in  the  Va^arkar6?-i  Dinik,  pp.  21-23.
 
 *  K20  omits  the  'three  daughters'  here,  by  mistake.
 
@@ -10212,13 +9491,11 @@ and  she  and  her  children  remain  his  in  both  worlds.
 
 A  yukan  or  ayilk  ('only  child')  wife  is  an  only  child,  married
 with  the  parents'  consent,  and  her  first  child  belongs  to  them ;
-after  its  birth  she  becomes  a  padshah  wife.  She  is  entitled  to  one-
-third  of  her  parents'  property  for  giving  up  the  child.
+after  its  birth  she  becomes  a  padshah  wife.  She  is  entitled  to  onethird  of  her  parents'  property  for  giving  up  the  child.
 
 A  satar  ('adopted')  wife  is  when  a  man  over  fifteen  years  of
 age  dies  childless  and  unmarried,  and  his  relatives  provide  a  maiden
-with  a  dowry,  and  marry  her  to  another  man ;  when  half  her  chil-
-dren belong  to  the  dead  man,  and  half  to  the  living,  and  she  herself
+with  a  dowry,  and  marry  her  to  another  man ;  when  half  her  children belong  to  the  dead  man,  and  half  to  the  living,  and  she  herself
 is  the  dead  man's  wife  in  the  other  world.
 
 A  X'akar  or  /^akar  ('serving')  wife  is  a  widow  who  marries
@@ -10246,8 +9523,7 @@ these  four  were  from  Urvi^.  And  from  the  wife  Arni^-bareda  two
 sons  were  born,  one  Aiirvart-nar,  and  the  second  Khiarshe(/-y{'ihar  ;
 and  Arni^-bareda  was  a  serving  wife,  and  the  name  of  the  former
 husband  of  Arni,o--bareda  was  Mitro-ayar.  And  from  Hvov,  who
-was  a  privileged  wife,  were  three  sons,  namely,  Hushe^ar,  Hush-
-e</ar-mah,  and  Soshans,  as  it  says,'  &c.  (as  in  §  8).
+was  a  privileged  wife,  were  three  sons,  namely,  Hushe^ar,  Hushe</ar-mah,  and  Soshans,  as  it  says,'  &c.  (as  in  §  8).
 
 ^  TD  has  Pahl.  Aurvarvi^ak  or  Khixrurupak.
 
@@ -10293,8 +9569,7 @@ of  the  name,  as  given  once  in  TD,  is  Huvaobo.
 (the  Aredvivsur  of  Chap.  XIII),  and  whose  name  is  also  applied
 to  the  planet  Venus  (see  Chap.  V,  i).
 
-®  So  in  M6  ;  other  MSS.  have  '  9,999  myriads,'  but  see  Fra-
-vardin Yt.  62.
+®  So  in  M6  ;  other  MSS.  have  '  9,999  myriads,'  but  see  Fravardin Yt.  62.
 
 ■^  This  last  phrase,  about  the  demons,  is  omitted  in  TD  and  the
 Va^§-arkar^-i  Dinik.
@@ -10310,8 +9585,7 @@ CHAPTER    XXXII,  8-XXXIII,  3.  I45
 [Chapter    XXXI I  P.
 
 o.  The  family  of  the  Mobads  ('  priests').
-•  I.  Bahak^  was  son  of  Hubakht,  son  of  Ataro-
-bondak,  son  of  Mahda^,  son  of  Me«fy6k-mah,  son
+•  I.  Bahak^  was  son  of  Hubakht,  son  of  Atarobondak,  son  of  Mahda^,  son  of  Me«fy6k-mah,  son
 of  Frah-vakhsh-vindartf^,  son  of  Mert'yok-mah,  son  of
 Kartf^,  son  of  Me^yok-mah,  son  of  Arastih,  son  of
 Paitirisp^  2.  As  Bahak  was  Mobad  of  Mobads
@@ -10320,12 +9594,10 @@ so  Ka</  was  the  great  preceptor  (farma^ar)  unto
 Darai  \
 
 3.  Ataro-pa^^^  was  son  of  Maraspend,  son  of  Da^-
-ar^a,  son  of  Dart'ira^,  son  of  Hildino,  i'^;^  of  Ataro-
-da.d,son  of  Manui-iihar,  i^^/^  of  Vohuman-/('ihar,  son  of
+ar^a,  son  of  Dart'ira^,  son  of  Hildino,  i'^;^  of  Ataroda.d,son  of  Manui-iihar,  i^^/^  of  Vohuman-/('ihar,  son  of
 Fryano  ^  son  of  Bahak  ^^  i"^;?  of  Fre^iin,  so7i  of  Fra-
 
-^  This  chapter  is  found  only  in  TD,  where  it  forms  a  continua-
-tion of  the  preceding,  and  affords  a  means  (see  §§  10,  11)  for
+^  This  chapter  is  found  only  in  TD,  where  it  forms  a  continuation of  the  preceding,  and  affords  a  means  (see  §§  10,  11)  for
 determining  the  age  of  the  recension  of  the  text  contained  in  that
 MS.  As  nearly  all  the  names  are  written  in  Pahlavi  letters,  the
 pronunciation  of  many  of  them  is  merely  a  matter  of  guess.
@@ -10373,8 +9645,7 @@ Taham,  son  of  Zarir,  son  of  Durasrob,  5we  of  Mginu^'^.
 Nort'ar^  ^^;/  of  M4nu^/^ihar.
 
 6.  Mitro  -  ak4vi^  is  son  of  Marrt'an-veh  ^  son  of
-Afrobag-vinda^T^,  ^d??2  of  Vind4^-i-pe^ak,  son  of  Vae-
-btakht  \  son  of  Bahak,  ^^;2  of  Vae-bukht.  7.  The
+Afrobag-vinda^T^,  ^d??2  of  Vind4^-i-pe^ak,  son  of  Vaebtakht  \  son  of  Bahak,  ^^;2  of  Vae-bukht.  7.  The
 mother  from  whom  I  was  born  is  Humai,  daughter
 of  Freh-mah,  who  also  was  the  righteous  daughter  ^
 
@@ -10389,8 +9660,7 @@ to  this  genealogy  Ataropa^-i  Maraspendan  was  the  twenty-third  in
 descent  from  Maniu,^ihar,  whereas  his  contemporary,  Bahak  (§  i),
 was  twenty-second  in  descent  from  the  same.
 
-*  No  doubt  Manuj-y^ihar  is  meant ;  if  not,  we  must  read  Manuj-
-durnamik  in  connection  with  §  5.
+*  No  doubt  Manuj-y^ihar  is  meant ;  if  not,  we  must  read  Manujdurnamik  in  connection  with  §  5.
 
 ^  Here  written  Ni^ar,  but  see  Chaps.  XXIX,  6,  XXXI,  13.
 ®  Here  written  Mar^Z-veh,  but  see  §  8.
@@ -10404,8 +9674,7 @@ perhaps  read  '  Freh-mah  son  of  .^aharob-bukht,'  but  it  seems  more
 probable  that  §§  7,  8  should  be  connected,  and  that  the  meaning
 intended  is  that  Hfimai  was  daughter  of  Freh-mah  (of  a  certain
 family)  and  of  Puyijn-shad?  (of  another  family) ;  she  was  also  the
-mother  of  the  editor  of  that  recension  of  the  Bundahii'  which  is  con-
-tained in  TD  ;  but  who  was  his  father  ?  The  singularly  unnecessary
+mother  of  the  editor  of  that  recension  of  the  Bundahii'  which  is  contained in  TD  ;  but  who  was  his  father  ?  The  singularly  unnecessary
 repetition  of  the  genealogy  of  the  two  brothers,  Mitr6-akavi</  and
 Puyijn-sha</,  in  §§  6,  8,  leads  to  the  suspicion  that  if  the  latter
 
@@ -10413,8 +9682,7 @@ Puyijn-sha</,  in  §§  6,  8,  leads  to  the  suspicion  that  if  the  latte
 CHAPTER    XXXIII,  4-11.  I47
 
 of  M4h-ay4r  son  of  Mah-bondak,  sou  of  Mah-bukht.
-8.  Puyii-n-sh^Y/  /^  ^^7^  of  Mar^an-veh,  son  of  Afrobag-
-vindac/,  i-w^  of  Vinda^-i-pert'ak,  i-^;/  of  Vae-bukht,  son
+8.  Puyii-n-sh^Y/  /^  ^^7^  of  Mar^an-veh,  son  of  Afrobagvindac/,  i-w^  of  Vinda^-i-pert'ak,  i-^;/  of  Vae-bukht,  son
 of  Bahak,  son  of  Vae-bukht.
 
 9.  All  the  other  Mobads  who  have  been  renowned
@@ -10423,8 +9691,7 @@ family  it  is  said,  and  were  of  this  race  of  Manu^-
 ^'ihar\  10.  Those  Mobads,  likewise,  who  now
 exist  are  all  from  the  same  family  they  assert,  and
 
-I,  too,  they  boast,  whom  they  call  ^  '  the  administra-
-tion of  perfect  rectitude'  (Dart'akih-i  Ashovahi^to)^.
+I,  too,  they  boast,  whom  they  call  ^  '  the  administration of  perfect  rectitude'  (Dart'akih-i  Ashovahi^to)^.
 
 I I.  Yudan-Yim  son  of  Vahram-sha^,  son  of  Zaratu^t,
 Ataro-pa^  son  of  Maraspend,  son  of  Za^-sparham  *,
@@ -10450,8 +9717,7 @@ the  colophons  of  other  writings  which  usually  accompany  that
 work,  that  those  answers  were  composed  and  certain  epistles  were
 written  by  Manmy^ihar,  son  of  Yudan-Yim,  who  was  high-priest  of
 Pars  and  Kirman  in  a.y.  250  (a.  d.  881),  and  apparently  a  more
-important  personage  than  his  (probably  younger)  brother  7Ad-
-sparham,  who  is  mentioned  in  §  11  as  one  of  the  priests  contem-
+important  personage  than  his  (probably  younger)  brother  7Adsparham,  who  is  mentioned  in  §  11  as  one  of  the  priests  contem-
 porary with  the  editor  of  the  TD  recension.  If  this  editor,  therefore,
 were  a  son  of  Yudan-Yim  (which  is  a  possible  interpretation  of  the
 text)  he  was  most  probably  this  same  ManmX'ihar,  author  of  the
@@ -10460,9 +9726,6 @@ Dac/istan-i  Dinik  (see  the  Introduction,  §  4).
 *  The    last   name   is    very  probably  superfluous,  Zafi^-sparham
 
 L  2
-
-
-148  BUNDAHW.
 
 
 Zart'-sparham  son  of  Ytidan-Yim  \  Atar6-p4^  son  of
@@ -10482,8 +9745,7 @@ in  the  Indian  Office  Library  at  London  (fol.  142  a) : —
 
 A
 
-ancients  have  compiled,  likewise  the  blessed  Adarbad  son  of  Mah-
-rasfend,  son  of  Asavahist  of  the  people  of  the  good  religion,  in  the
+ancients  have  compiled,  likewise  the  blessed  Adarbad  son  of  Mahrasfend,  son  of  Asavahist  of  the  people  of  the  good  religion,  in  the
 year  three  hundred  of  Yazda^ard  Shahryar,  collected  some  of  the
 more  essential  mysteries  of  the  religion  as  instruction,  and  of  these
 he  formed  this  book.'  That  is,  he  was  the  last  editor  of  the  Dinkar;/,
@@ -10503,16 +9765,14 @@ as  follows:  —
 '  After  that,  the  well-meaning  Ataro-pa^/  son  of  HemW,  who
 was  the  leader  of  the  people  of  the  good  religion,  compiled,  with
 the  assistance  of  God,  through  inquiry,  investigation,  and  much
-trouble,  a  new  means  of  producing  remembrance  of  the  Maz-
-dayasnian  rehgion.'  He  did  this,  we  are  further  told,  by  collecting
+trouble,  a  new  means  of  producing  remembrance  of  the  Mazdayasnian  rehgion.'  He  did  this,  we  are  further  told,  by  collecting
 all  the  decaying  literature  and  perishing  traditions  into  a  work
 '  like  the  great  original  Dinkar^/,  of  a  thousand  chapters' (manak-i
 zak  raba  bun  Dino-karto  i  ooo-darako).  We  thus  learn  from
 external  sources  that  the  group  of  contemporary  priests,  mentioned
 in  the  text,  was  actively  employed  (about  a.d.  900)  in  an  attempted
 revival  of  the  religious  literature  of  the  Mazdayasnians,  to  which  we
-owe  either  the  revision  or  compilation  of  such  works  as  the  Din-
-karf/,  Da/istan-i  Dinik,  and  Bundahix.
+owe  either  the  revision  or  compilation  of  such  works  as  the  Dinkarf/,  Da/istan-i  Dinik,  and  Bundahix.
 
 
 CHAPTER    XXXIII,    I  2 -XXXIV,  4.  1 49
@@ -10527,8 +9787,7 @@ says  in  revelation,  that  three  thousand  years  was  the
 duration  of  the  spiritual  state,  where  the  creatures
 were  unthinking,  unmoving,  and  intangible^;  and
 three  thousand  years*  was  the  duration  of  G^yomar^,
-with  the  ox,  in  the  world.  2.  As  this  was  six  thou-
-sand years  the  series  of  millennium  reigns  ^  of
+with  the  ox,  in  the  world.  2.  As  this  was  six  thousand years  the  series  of  millennium  reigns  ^  of
 Cancer,  Leo,  and  Virgo  had  elapsed,  because  it  was
 six  thousand  years  when  the  millennium  reign  came
 to  Libra,  the  adversary  rushed  in,  and  Gay6mar</
@@ -10574,8 +9833,7 @@ sixteen  years  and  six  months,  and  after  that  he
 was  a  hundred  years  in  concealment,  5.  Then  the
 millennium  ^  reign  came  to  Scorpio,  and  Dahak  ^
 ruled  a  thousand  years.  6.  After  the  millennium
-reign  came  to  Sagittarius,  Fre^^iin  "  rcigjicd  five  hun-
-dred years ;  in  the  same  five  hundred  years  of
+reign  came  to  Sagittarius,  Fre^^iin  "  rcigjicd  five  hundred years ;  in  the  same  five  hundred  years  of
 Fre^un  were  the  twelve  years  of  h\x\k\  Manujr/'ihar*
 was  a  hundred  and  twenty  years,  aiid  in  the  same
 reien  of  Manui-Z'ihar,  when  he  was  in  the  mountain
@@ -10583,8 +9841,7 @@ fastness  (dushkhvar-gar)  ^,  a^<?r^  the  twelve  years
 of  Frasiyaz' ;  Zob  ^  the  Tuhmaspian  was  five  years.
 
 7.  Kai-KabiW^  was  fifteen  years  ;  Kai-Kaus,  till
-he  went  to  the  sky,  seventy-five  years,  and  seventy-
-five  years  after  that,  altogether  a  hundred  and  fifty
+he  went  to  the  sky,  seventy-five  years,  and  seventyfive  years  after  that,  altogether  a  hundred  and  fifty
 years ;  Kai-Khusrov  sixty  years ;  Kai-Lorasp  ^  a
 hundred  and  twenty  years  ;  Kai-Vi^tasp,  till  the
 coming  of  the  religion,  thirty  years  ^,  altogether  a
@@ -10593,8 +9850,7 @@ hundred  and  twenty  years.
 8.  Vohiiman  ^^  son  of  Spend-da^T'  a  hundred  and
 
 
-^  The  seventh  millennium,  ruled  by  Libra,  is  computed  by  Wind-
-ischmann  as  follows:  30  +  401  +  50  +  93  +  40+30  +  6161  +  100  =
+^  The  seventh  millennium,  ruled  by  Libra,  is  computed  by  Windischmann  as  follows:  30  +  401  +  50  +  93  +  40+30  +  6161  +  100  =
 1000.  The  eighth  millennium,  ruled  by  Scorpio,  is  the  thousand
 years  of  Dahak.
 
@@ -10621,14 +9877,12 @@ A'ihar-a2a(/an  with  Artaxerxes  Ochus,  as  Darai  Darayan  must  be
 CHAPTER    XXXIV,   5-9.  15^
 
 
-twelve  years;  Humat,  who  was  daughter  of  Vohu-
-man,  thirty  years;  Darai  son  of  A'ihar-a^^^f \  that
+twelve  years;  Humat,  who  was  daughter  of  Vohuman,  thirty  years;  Darai  son  of  A'ihar-a^^^f \  that
 is,  of  the  daughter  of  Vohuman,  twelve  years  ;  Darat
 son  of  Darat  fourteen  years  ;  Alexander  the  Riiman^
 fourteen  years.
 
-9.  The  A^kanians  bore  the  title  in  an  uninter-
-rupted (a-arubak)  sovereignty  two  hundred  and
+9.  The  A^kanians  bore  the  title  in  an  uninterrupted (a-arubak)  sovereignty  two  hundred  and
 eighty-four  years  ^  Ardashtr  son  of  P^pak  and  the
 number  of  the  Sasanians  four  hundred  and  sixty
 years  ^  and  then  it  went  to  the  Arabs.
@@ -10645,15 +9899,13 @@ eastern  or  Greek  empire),  as  Pahlavi  writers  assume.
 ^  This  period  is  nearly  two  centuries  too  short.
 
 *  The  actual  period  of  Sasanian  rule  was  425  yearS  (a.  d.  226-
-651).  According  to  the  figures  given  in  the  text,  the  tenth  millen-
-nium, ruled  by  Capricornus,  must  have  terminated  in  the  fourth
+651).  According  to  the  figures  given  in  the  text,  the  tenth  millennium, ruled  by  Capricornus,  must  have  terminated  in  the  fourth
 year  of  the  last  king,  Yazdakar</.  This  agrees  substantially  with  the
 Bahman  Yajt,  which  makes  the  millennium  of  Zaratu^t  expire
 some  time  after  the  reign  of  Khusr6  Noshirvan;  probably  in
 the  time  of  Khusro  Parviz,  or  some  forty  years  earlier  than  the
 fourth  year  of  Yazdakar^/.  According  to  the  text  we  must  now
-be  near  the  end  of  the  first  quarter  of  the  twelfth  and  last  mil-
-lennium.
+be  near  the  end  of  the  first  quarter  of  the  twelfth  and  last  millennium.
 
 
 APPENDIX   TO   THE   BUNDAHI5.
@@ -10678,8 +9930,7 @@ OBSERVATIONS.
 
 1-5.  (The  same  as  on  p.  2.)
 
-6.  Abbreviations  used  are:  —  Av.  for  Avesta.  Bund,  for  Bun-
-dahis,  as  translated  in  this  volume.  B.  Yt.  for  Bahman  Ya^-t,  as
+6.  Abbreviations  used  are:  —  Av.  for  Avesta.  Bund,  for  Bundahis,  as  translated  in  this  volume.  B.  Yt.  for  Bahman  Ya^-t,  as
 translated  in  this  volume.  Haug's  Essays,  for  Essays  on  the  Sacred
 Language,  Writings,  and  Religion  of  the  Parsis,  by  Martin  Haug,
 2nd  edition.  Mkh.  for  Mainyo-i-kharc/,  ed.  West.  Pers.  for
@@ -10718,8 +9969,7 @@ was  open  space.  2.  Auharmazd  was  in  the  light,
 and  Aharman  in  the  darkness  ^ ;  Auharmazd  ivas
 aware  of  the  existence  of  Aharman  and  of  his
 coming  for  strife  ;  Aharman  was  not  aware  of  the
-existence  of  light  and  of  Auharmazd^.  3.  It  hap-
-pened to  Aharman,  in  the  gloom  and  darkness,  that
+existence  of  light  and  of  Auharmazd^.  3.  It  happened to  Aharman,  in  the  gloom  and  darkness,  that
 
 ^  Zafl^-sparam  appears  to  have  been  dastur  of  Sirkan,  about
 thirty  parasangs  south  of  Kirman,  and  one  of  the  most  southern
@@ -10794,16 +10044,13 @@ diffused  endless  strife  arises  ^.
 he  brought  forward  the  P\\\\Xxv3M-dLX formula'^ ;  and  in
 his  Ahunavar  these*  kinds  of  benefit  were  shown: —
 13.  The  first  is  that,  of  all  things,  that  is  proper
-which  is  somethinof  declared  as  the  will  of  ACihar-
-mazd;  so  that,  whereas  that  is  proper  which  is
+which  is  somethinof  declared  as  the  will  of  ACiharmazd;  so  that,  whereas  that  is  proper  which  is
 declared  the  will  of  Auharmazd,  where  anything
 exists  which  is  not  within  the  will  of  Auharmazd,  it
 is  created  injurious  from  the  beginning,  a  sin  of  a
-distinct  nature.  14.  The  second  is  this,  that  who-
-ever shall  do  that  which  is  the  will  of  Auharmazd,
+distinct  nature.  14.  The  second  is  this,  that  whoever shall  do  that  which  is  the  will  of  Auharmazd,
 his  reward  and  recompense  are  his  own  ;  and  of  him
-who  shall  not  do  that  which  is  the  will  of  Alahar-
-mazd,  the  punishment  at  the  bridge  ^  owing  thereto
+who  shall  not  do  that  which  is  the  will  of  Alaharmazd,  the  punishment  at  the  bridge  ^  owing  thereto
 
 1  Bund.  I,  17,  18.
 
@@ -10834,17 +10081,14 @@ ofiven  which  are  his  own.  16.  And  the  creatures  of
 the  trained  hand  of  Auharmazd  are  contending  and
 angry  (ar^tk),  one  with  the  other,  as  the  renovation
 of  the  universe  must  occur  through  these  three
-things.  1 7.  That  is,  first,  true  religiousness  in  one-
-self, and  reliance  upon  a  man's  original  hold  on  the
+things.  1 7.  That  is,  first,  true  religiousness  in  oneself, and  reliance  upon  a  man's  original  hold  on  the
 truly  glad  tidings  (nav-barham),  that  Auharmazd
 is  all  goodness  without  vileness,  and  his  will  is  a
-will  altoofether  excellent ;  and  Aharman  is-  all  vile-
-ness  without  goodness.  18.  Secondly,  hope  of  the
+will  altoofether  excellent ;  and  Aharman  is-  all  vileness  without  goodness.  18.  Secondly,  hope  of  the
 reward  and  recompense  of  good  works,  serious  fear
 of  the  bridge  ^;/^/the  punishment  of  crime,  strenuous
 perseverance  in  good  works,  and  abstaining  from
-sin.  19.  Thirdly,  the  existence  of  the  mutual  assist-
-ance of  the  creatures,  or  along  with  and  owing  to
+sin.  19.  Thirdly,  the  existence  of  the  mutual  assistance of  the  creatures,  or  along  with  and  owing  to
 mutual  assistance,  their  collective  warfare ;  it  is  the
 triumph  of  warfare  over  the  enemy  which  is  one's
 own  renovation''.
@@ -10854,15 +10098,13 @@ own  renovation''.
 
 '^  This  commentary  on  the  Ahunavar,  or  Yatha-ahu-vairy6
 formula,  is  rather  clumsily  interpolated  by  Zac/-sparam,  and  is
-much  more  elaborate  than  the  usual  Pahlavi  translation  and  expla-
-nation of  this  formula,  which  may  be  translated  as  follows : —
+much  more  elaborate  than  the  usual  Pahlavi  translation  and  explanation of  this  formula,  which  may  be  translated  as  follows : —
 
 
 SELECTIONS    OF    ZAD-SPARAM,    I,   1 5-24.  1 59
 
 
-20.  By  this  formula  he  (Aharman)  was  con-
-founded, and\\^  fell  back  to  the  gloom  i;  ^;^^/ Afihar-
+20.  By  this  formula  he  (Aharman)  was  confounded, and\\^  fell  back  to  the  gloom  i;  ^;^^/ Afihar-
 mazd  produced  the  creatures  bodily  for  the  world ;
 first,  the  sky ;  the  second,  water ;  the  third,  earth  ;
 the  fourth,  plants;  the  fifth,  animals;  the  sixth,
@@ -10884,8 +10126,7 @@ thirstless,  which  is  unmoving  or  mischievous  ?'     24.
 '  As  is  the  will  of  the  living  spirit  (as  is  the  will  of  Aiaharmazd)
 so  should  be  the  pastor  (so  excellent  should  he  be)  owing  to
 whatsoever  are  the  duties  and  good  works  of  righteousness  (the
-duties  and  good  works  should  be  as  excellent  as  the  will  of  Auhar-
-mazd). Whose  is  the  gift  of  good  thought  (that  is,  the  reward
+duties  and  good  works  should  be  as  excellent  as  the  will  of  Auharmazd). Whose  is  the  gift  of  good  thought  (that  is,  the  reward
 and  recompense  good  thought  gives,  it  gives  also  unto  him)  which
 among  living  spirits  is  the  work  of  Auharmazd  (that  is,  they  would
 do  that  which  Auharmazd  requires) ;  there  are  some  who  say  it  is
@@ -10923,17 +10164,14 @@ their  weapons  the  co-operation  of  the  serpent  (a^'o)
 dies  away,  mid  this  which  is  thine,  indeed  thy  own
 daughter,  dies  through  religion  ;  and  if  at  the  end  of
 nine  thousand  years,  as  it  is  said  and  written,  is  a
-time   of  upheaval    (madam    kar^ano),   she   is  up-
-heaved, not  ended.'
+time   of  upheaval    (madam    kar^ano),   she   is  upheaved, not  ended.'
 
-2  7.  At  the  same  time  Aharman  came  from  accom-
-panying Time  out  to  the  front,  out  to  the  star
+2  7.  At  the  same  time  Aharman  came  from  accompanying Time  out  to  the  front,  out  to  the  star
 station ;  the  connection  of  the  sky  with  the  star
 station  was  open,  which  showed,  since  it  hung  down
 into  empty  space,  the  strong  communication  of  the
 lights  and  glooms,  the  place  of  strife  in  which  is  the
-pursuit  of  both.  28.  And  having  darkness  with  him-
-self he  brought  it  into  the  sky,  and  left  the  sky  so
+pursuit  of  both.  28.  And  having  darkness  with  himself he  brought  it  into  the  sky,  and  left  the  sky  so
 to  gloom  that  the  internal  deficiency  in  the  sky
 extends  as  much  as  one-third  ^  over  the  star  station.
 
@@ -10975,8 +10213,7 @@ in  its  race,  it  was  in  the  vicinity  of  the  middle  of  the
 earth  ;  and  at  the  self-same  time  it  became  quite
 withered  ^
 
-6.  Afterwards,  he  came  to  the  ox,  the  sole-
-created  ^   as  it  stood  as  high  as  Gayomar^  on  the
+6.  Afterwards,  he  came  to  the  ox,  the  solecreated  ^   as  it  stood  as  high  as  Gayomar^  on  the
 
 
 1  Bund.  Ill,  12.  2  Bund.  Ill,  13.
@@ -10986,8 +10223,7 @@ created  ^   as  it  stood  as  high  as  Gayomar^  on  the
 *  The  primeval  ox,  or  first-created  representative  of  animals,  as
 Gayomar^  was  of  mankind ;  from  which  two  representatives  all
 mankind  and  animals  are  said  to  have  been  afterwards  developed.
-There  seems  to  have  been  some  doubt  as  to  the  sex  of  this  mytho-
-logical ox  ;  here  it  is  distinctly  stated  to  have  been  a  female,  but  from
+There  seems  to  have  been  some  doubt  as  to  the  sex  of  this  mythological ox  ;  here  it  is  distinctly  stated  to  have  been  a  female,  but  from
 Bund.  X,  I,  2,  XIV,  3,  it  would  appear  to  have  been  a  male,  and  this
 seems  to  be  admitted  by  Da^Z-sparam  himself,  in  Chap.  IX,  7.
 
@@ -11013,8 +10249,7 @@ then  about  one-third  the  height  of  Zaratu^t,  and  was
 brilliant  as  the  sun,  Auharmazd  forms,  from  the
 sweat  ^  on  the  man,  a  figure  of  fifteen  years,  radiant
 and  ta.\\,  and  sends  it  on  to  Gayomar^';  and  he  also
-brino;s  his  sweat  ^  on  to  him  as  lonor  as  one  Yatha-
-ahu-vairyo  ^  is  Sein^"  recited.  9.  When  he  issued
+brino;s  his  sweat  ^  on  to  him  as  lonor  as  one  Yathaahu-vairyo  ^  is  Sein^"  recited.  9.  When  he  issued
 from  the  sweat,  and  raised  his  eyes,  he  saw  the
 world  when  it  was  dark  as  night  "^ ;  on  the  whole
 earth  were  the  snake,  the  scorpion,  the  lizard
@@ -11025,8 +10260,7 @@ so  the  other  kinds  of  quadrupeds  stood  among  the
 
 ^  This  is  a  misunderstanding  of  the  corresponding  phrase  in
 Bund.  Ill,  18.  The  narcotic  here  mentioned  is  usually  prepared
-from  the  hemp  plant,  and  is  well  known  in  India  and  the  neigh-
-bouring countries.
+from  the  hemp  plant,  and  is  well  known  in  India  and  the  neighbouring countries.
 
 '  See  Bund.  IV,  i.
 
@@ -11053,8 +10287,7 @@ which  there  was  no  rush  of  noxious  creatures.  10.
 The7^e  were  the  coming  of  a  planetary  star  into
 planetary  conjunction,  and  the  moon  and  planets  at
 sixes  and  sevens  ^ ;  many  dark  forms  with  the  face
-and  curls  of  A^-i  Dahak  suffered  punishment  in  com-
-pany with  certain  non-Iranians ;  and  he  was  amazed
+and  curls  of  A^-i  Dahak  suffered  punishment  in  company with  certain  non-Iranians ;  and  he  was  amazed
 at  calling  the  wicked  out  from  the  righteous.
 
 1 1.  Lastly,  he  (Aharman)  came  up  to  the  fire,  and
@@ -11066,10 +10299,8 @@ Chapter  III.
 I.  And  Go^ilrvan,  as  she  was  herself  the  soul  of
 the  primeval  ox,  when  the  ox  passed  away,  came  out
 from  the  ox,  even  as  the  soul  from  the  body  of  the
-dead,  and  kept  up  the  clamour  of  a  cry  to  Atihar-
-mazd  in  such  fashion  as  that  of  an  army,  a  thousand
-strong,  when  they  cry  out  together  ^  2.  And  Au-
-harmazd,  in  order  to  be  much  more  able  to  keep
+dead,  and  kept  up  the  clamour  of  a  cry  to  Atiharmazd  in  such  fashion  as  that  of  an  army,  a  thousand
+strong,  when  they  cry  out  together  ^  2.  And  Auharmazd,  in  order  to  be  much  more  able  to  keep
 watch  over  the  mingled  creatures  than  in  front  of
 Gayomarrtf,  went  from  the  earth  up  to  the  sky.  3.
 And  Goi-urvan  continually  went  after  him  crying,
@@ -11079,8 +10310,7 @@ guardianship  over  the  creatures  be  left  by  thee?'
 
 Chapter  IV.
 
-I.  This  was  the  highest  predominance  of  Ahar-
-man, for  he  came  on,  with  all  the  strength  which  he
+I.  This  was  the  highest  predominance  of  Aharman, for  he  came  on,  with  all  the  strength  which  he
 
 
 ^  Literally,  '  in  fours  and  fives.'
@@ -11104,16 +10334,13 @@ this  day,  in  the  sleep  -  of  the  renovation,  as  on  that
 when  the  enemy,  who  is  fettered  on  coming  in,  is
 kept  back.
 
-3.  Amid  all  this  struggling  were  mingled  the  in-
-stigations of  Aharman,  crying  thus  :  '  My  victory
-has  come  completely,  for  the  sky  is  split  and  dis-
-figured by  me  with  gloom  and  darkness,  and  taken
+3.  Amid  all  this  struggling  were  mingled  the  instigations of  Aharman,  crying  thus  :  '  My  victory
+has  come  completely,  for  the  sky  is  split  and  disfigured by  me  with  gloom  and  darkness,  and  taken
 by  me  as  a  stronghold ;  water  is  disfigured  by  me,
 and  the  earth,  injured  by  darkness,  is  pierced  by  me;
 vegetation  is  withered  by  me,  the  ox  is  put  to  death
 by  me,  Gayomar^  is  made  ill  by  me,  and  opposed  to
-those  revolving "  are  the  glooms  and  planets  ar-
-ranged by  me ;  no  one  has  remained  for  me  to  take
+those  revolving "  are  the  glooms  and  planets  arranged by  me ;  no  one  has  remained  for  me  to  take
 and  pervert  in  combat  except  Auharmazd,  and  of
 the  earth  there  is  only  one  man,  who  is  alone,  what
 is  he  able  to  do  ?'
@@ -11137,8 +10364,7 @@ were  no  earthly  believers  at  the  time  alluded  to.
 SELECTIONS    OF    ZAZ)-SPARAM,    IV,  2-8.  1 65
 
 which  are  his  own,  sicknesses  of  various  kinds,  so  that
-they  may  make  him  ill  and  cause  death.  5.  Gayo-
-mar^  was  not  secured  by  them,  and  the  reason
+they  may  make  him  ill  and  cause  death.  5.  Gayomar^  was  not  secured  by  them,  and  the  reason
 was  because  it  was  a  decree  of  appointing  Time
 (zorvano)  in  the  beginning  of  the  coming  in  of
 Aharman,  that :  '  Up  to  thirty  winters  I  appoint
@@ -11174,8 +10400,7 @@ Chap.  II,  i),  Libra  is  in  opposition  to  the  sun,  and  Saturn  in  Libr
 would  be  at  its  nearest  approach  to  the  earth,  and  would,  therefore,
 attain  its  maximum  brightness ;  while  Jupiter  in  Cancer  would  be
 at  its  greatest  altitude  and  shining  with  four-fifihs  of  its  maximum
-brightness.  Both  planets,  therefore,  were  near  their  most  con-
-spicuous position  (which  would  seem  to  be  the  meaning  of  balist
+brightness.  Both  planets,  therefore,  were  near  their  most  conspicuous position  (which  would  seem  to  be  the  meaning  of  balist
 
 
 1 66  APPENDIX    TO    THE    BUNDAHI^-.
@@ -11187,16 +10412,14 @@ which  life  is  bestowed  upon  it ;  and  Saturn  was  in
 Libra,  in  the  great  subterranean,  so  that  its  own
 venom  and  deadliness  bcca7ne  more  evident  and
 more  dominant  thereby.  9.  And  it  was  when  both
-shall  not  be  supreme  that  Gayomar^  was  to  com-
-plete his  own  life,  which  is  the  thirty  years  ^  Saturn
+shall  not  be  supreme  that  Gayomar^  was  to  complete his  own  life,  which  is  the  thirty  years  ^  Saturn
 came  not  again  to  supremacy,  that  is,  to  Libra.  10.
 And  at  the  time  when  Saturn  came  into  Libra,
 Jupiter  was  in  Capricornus  ^  on  account  of  whose
 own  lowness^  and  the  victory  of  Saturn  over
 Jupiter,  Gayomar^  suffered  through  those  very
 defects  which  came  and  are  to  continue  advancing,
-the  continuance  of  that  disfigurement  which  Ahar-
-man  can  bring  upon  the  creatures  of  Auharmazd.
+the  continuance  of  that  disfigurement  which  Aharman  can  bring  upon  the  creatures  of  Auharmazd.
 
 
 here),  and  might  each  be  supposed  to  be  exercising  its  maximum
@@ -11234,15 +10457,13 @@ I.  When  in  like  manner,  and  equally  oppressively,
 as  his  (Auharmazd's)  creatures  were  disfigured,  then
 through  that  same  deterioration  his  own  great  glory
 was  exhibited  ;  for  as  he  came  within  the  sky  ^  he
-maintains  the  spirit  of  the  sky,  like  an  intrepid  war-
-rior who  has  put  on  metal  armour  ^ ;  and  the  sky  in
+maintains  the  spirit  of  the  sky,  like  an  intrepid  warrior who  has  put  on  metal  armour  ^ ;  and  the  sky  in
 its  fortress  ^  spoke  these  hasty,  deceitful  words  to
 Aharman,  thus  :  '  Now  when  thou  shalt  have  come
 in  I  will  not  let  thee  back;'  and  it  obstructed  him
 until  Auharmazd  prepared  another  rampart,  that  is
 stronger,  around  the  sky,  which  is  called  '  righteous
-understanding'  (ashok  akasih).  2.  And  he  ar-
-ranged the  guardian  spirits  *  of  the  righteous  who
+understanding'  (ashok  akasih).  2.  And  he  arranged the  guardian  spirits  *  of  the  righteous  who
 are  warriors  around  that  rampart,  mounted  on  horses
 and  spear  in  hand,  in  such  manner  as  the  hair  on
 the  head ;  and  they  acquired  the  appearance  of
@@ -11254,8 +10475,7 @@ enemy  descended  from  the  inside.
 may  go  back  to  his  own  complete  darkness,  but
 he  found  no  passage  ;  and  he  recapitulated,  with
 seeming  misgiving,  his  fears  of  the  worthiness
-which  is  to  arise  at  the  appearance  of  the  renova-
-tion of  I  he  niiive7^se  at  the  end  of  the  nine  thousand
+which  is  to  arise  at  the  appearance  of  the  renovation of  I  he  niiive7^se  at  the  end  of  the  nine  thousand
 years.
 
 4.  As  it  is  said  in  the  Gathas,  thus  ^ :  '  So  also
@@ -11274,10 +10494,8 @@ years.
 
 both  those  spirits  have  approached  together  unto
 that  which  was  the  first  creation  —  that  is,  both
-spirits  have  come  to  the  body  of  Gayomar^^.  What-
-ever is  in  hfe  is  so  through  this  purpose  of  Auhar-
-mazd,  that  is  :  So  that  I  may  keep  it  ahve  ;  what-
-ever is  in  hfelessness  is  so  through  this  purpose  ^  of
+spirits  have  come  to  the  body  of  Gayomar^^.  Whatever is  in  hfe  is  so  through  this  purpose  of  Auhar-
+mazd,  that  is  :  So  that  I  may  keep  it  ahve  ;  whatever is  in  hfelessness  is  so  through  this  purpose  ^  of
 the  evil  spirit,  that  is:  So  that  I  may  utterly  destroy
 it ;  and  whatever  is  thus,  is  so  until  the  last  in
 the  world,  so  that  they  (both  spirits)  come  also  on
@@ -11318,13 +10536,11 @@ with  Pers.  ard,  '  anger.'
 SELECTIONS    OF   ZAZ)-SPARAM,  V,   5-VI,   7.  1 69
 
 declared  as  the  movement  of  the  first-comers  of  the
-creatures.  2.  Cancer  became  a  zodiacal  constella-
-tion (akhtar);  it  is  the  fourth  constellation  of  the
+creatures.  2.  Cancer  became  a  zodiacal  constellation (akhtar);  it  is  the  fourth  constellation  of  the
 zodiac  for  this  reason,  because  the  month  Tir  is  the
 fourth  month  of  the  year  \
 
-3.  And  as  Ti^tar  begged  for  assistance,  Vohu-
-man  and  Horn  are  therefore  co-operating  with  him
+3.  And  as  Ti^tar  begged  for  assistance,  Vohuman  and  Horn  are  therefore  co-operating  with  him
 in  command,  Bur^  of  the  waters  and  the  water  in
 mutual  aid,  and  the  righteous  guardian  spirits  in
 keeping  the  peace.  4.  He  was  converted  into  three
@@ -11343,8 +10559,7 @@ man,  became  manifest  on  the  earth ;  radiant  and  tall
 he  had  a  kind  of  wooden  boot  (mukv6-ae-i  darino)
 on  his  feet ;  and  as  when  the  life  shall  stir  the  body,
 the  body  is  advancing  with  like  vigour,  so  that  spirit
-of  the  wind  stirs  forth  the  inner  nature  of  the  atmo-
-spheric wind,  the  wind  pertaining  to  the  whole  earth
+of  the  wind  stirs  forth  the  inner  nature  of  the  atmospheric wind,  the  wind  pertaining  to  the  whole  earth
 is  forth,  and  the  water  in  its  grasp  is  flung  out  from
 it  to  the  sides  of  the  earth,  and  its  wide-formed
 ocean  arose  therefrom.
@@ -11365,8 +10580,7 @@ water-fountains,  whose  water  is  from  the  ocean,
 come  up  from  the  lakes  and  are  poured  forth  into
 it.  8.  And  the  size  of  some  of  all  the  lakes  and  all
 the  fountains  of  water  is  as  much  as  a  fast  rider  on
-an  Arab  horse,  who  continually  compasses  and  can-
-ters around  them,  will  attain  in  forty  days,  which  is
+an  Arab  horse,  who  continually  compasses  and  canters around  them,  will  attain  in  forty  days,  which  is
 1900'  long  leagues  (parasang-i  akarik),  each
 league  being  at  least  20,000  feet.
 
@@ -11380,8 +10594,7 @@ applied  unto  Auharmazd,  ivJio  brought  such  power
 unto  Tirtar  as  arises  through  propitiation  and  praise
 and  invoking  by  name  ^,  and  they  call  forth  such
 power  unto  TLstar  as  that  ^ten  vigorous  horses,
-ten  vigorous  camels,  ten  vigorous  bulls,  ten  moun-
-tains when  hurled,  and  ten  single-stream  rivers
+ten  vigorous  camels,  ten  vigorous  bulls,  ten  mountains when  hurled,  and  ten  single-stream  rivers
 when  together.  11.  And  without  alarm  he  drove
 out  Apaosh,  the  demon,  and  kept  him  away  from
 the  sources  of  the  ocean.
@@ -11420,13 +10633,11 @@ three,  and  three  seas  arose  from  it ;  they  are  called
 the  Puitik,  the  Kamiri^/,  and  the  Gehan-bun  ^      15.
 Of  these  the  Puitik  itself  is  salt  water,  in  which  is
 a  flow  and  ebb  * ;    and  the  control  of  its  flow  and
-ebb  is  connected  with  the  moon,   and   by  its   con-
-tinual rotation,  in  coming  up  and  going  down,  that
+ebb  is  connected  with  the  moon,   and   by  its   continual rotation,  in  coming  up  and  going  down,  that
 of  the  moon  is  manifested.      16.  The  wide-formed
 ocean  stands  forth  on  the  south  side  as  to  (pavan)
 Albiir^  ^  and  the  Puitik  stands  contiguous  to  it,  and
-amidst   it   is  the  gulf  (var)  of  Sataves,  whose  con-
-nection   is    with    Sataves,  which    is    the    southern
+amidst   it   is  the  gulf  (var)  of  Sataves,  whose  connection   is    with    Sataves,  which    is    the    southern
 quarter.      17.  In  the  activity  of  the  sea,  and  in  the
 increase  and  decrease  of  the  moon,  whose  circuit
 is  the  whole  of  Iran,  are  the  flow  and  ebb  ;  of  the
@@ -11449,8 +10660,7 @@ Bund.  XIII.     In  the  MS.  Puitik  occurs  once,  and  Puitik  twice.
 172  APPENDIX    TO    THE    BUNDAHI5'.
 
 curving  tails  in  front  of  the  moon  two  issue  forth,
-and  have  an  abode  in  Sataves ;  one  is  the  up-
-drag  and  one  the  down-drag;  through  the  up-drag
+and  have  an  abode  in  Sataves ;  one  is  the  updrag  and  one  the  down-drag;  through  the  up-drag
 occurs  the  flood,  and  through  the  down-drag  occurs
 the  ebb^  18.  And  Sataves  itself  is  a  gulf  (var)
 and  side  arm  of  the  wide-formed  ocean,  for  it  drives
@@ -11501,8 +10711,7 @@ SELECTIONS    OF    ZAZ)-SPARAM,  VI,   l8~VII,   I.        1 73
 of  that  river  ivas  to  those  of  the  setthig  sun  (val
 fro^-yehevun^ano) — mid  th^Vth^  was  the  river
 of  the  first-comers  to  the  sun ;  formed  as  two  horns
-they  went  on  to  the  ocean.  21.  After  them  eigh-
-teen ^  great  rivers  came  out  from  the  same  Albtar^ ;
+they  went  on  to  the  ocean.  21.  After  them  eighteen ^  great  rivers  came  out  from  the  same  Albtar^ ;
 and  these  twenty  rivers,  whose  source  is  in  Alburn,
 go  down  into  the  earth,  and  arrive  in  Khvaniras.
 
@@ -11513,8 +10722,7 @@ whose  shore  rests  the  triumphant  fire  Gu^-nasp^ —
 and,  secondly,  the  Sovar  ^  which  casts  on  its  shores
 all  turbidness,  and  keeps  its  own  salt  lake  clear  and
 pure,  for  it  is  like  the  semblance  of  an  eye  which
-casts  out  to  its  edges  every  ache  and  every  im-
-purity ;  and  on  account  of  its  depth  it  is  not  reached
+casts  out  to  its  edges  every  ache  and  every  impurity ;  and  on  account  of  its  depth  it  is  not  reached
 to  the  bottom,  for  it  goes  into  the  ocean  ;  and  in  its
 vicinity  rests  the  beneficial  fire  BurMn-Mitro  '^.
 
@@ -11701,8 +10909,7 @@ Chapter  IX.
 I.  As  he  (Aharman)  came  fifthly  to  cattle — which
 struggled  against  him  with  all  the  animals — and
 likewise  as  the  primeval  ox  ^  passed  away,  from  the
-nature  of  the  vegetable  principle  it  possessed,  fifty-
-five  ^  species  of  grain  and  twelve  species  of  medi-
+nature  of  the  vegetable  principle  it  possessed,  fiftyfive  ^  species  of  grain  and  twelve  species  of  medi-
 cinal plants  grew  from  its  various  members ;  mid
 forasmuch  as  they  should  see  from  which  member
 each  one  proceeds,  it  is  declared  in  the  Damda^f
@@ -11713,8 +10920,7 @@ Nask"^.     2.  And  every  plant  grown  from  a  member
 -  The  MS.  has  'fifty-seven'  in  ciphers,  but  Bund.  X,  i,  XIV,  i,
 XXVII,  2,  have  '  fifty-five'  in  words.
 
-^  This  was  the  fourth  nask  or  'book'  of  the  complete  Mazda-
-yasnian  Hterature,  according  to  the  Dinkar^,  which  gives  a  very
+^  This  was  the  fourth  nask  or  'book'  of  the  complete  Mazdayasnian  Hterature,  according  to  the  Dinkar^,  which  gives  a  very
 short  and  superficial  account  of  its  contents.  But,  according  to
 the  Dini-vao-arkard  and  the  Rivayats  of  Kamah  Bahrah,  Nariman
 Hoshang,  and  Barzu  Qiyamu-d-din,  it  was  the  fifth  nask,  and  was
@@ -11725,14 +10931,12 @@ Rivayats,  gives  the  following  account  (for  the  Persian  text  of  which,
 see  '  Fragmens  relatifs  a  la  religion  de  Zoroastre,'  par  Olshausen
 et  Jules  Mohl)  :—
 
-'  Of  the  fifth  the  name  is  Dvazdah-homast,  and  the  interpreta-
-tion of  this  is  "the  book  about  help"  (dar  imdad,  but  this  is
+'  Of  the  fifth  the  name  is  Dvazdah-homast,  and  the  interpretation of  this  is  "the  book  about  help"  (dar  imdad,  but  this  is
 probably  a  corruption  of  dam  dad).  And  this  book  has  thirty-two
 sections  (kardah)  that  the  divine  and  omnipotent  creator  sent
 down,  in  remembrance  of  the  beginning  of  the  creatures  of  the
 superior  world  and  inferior  world,  and  it  is  a  description  of  the
-whole  of  them  and  of  that  which  God,  the  most  holy  and  omnipo-
-tent, mentioned  about  the  sky,  earth,  and  water,  vegetation  and
+whole  of  them  and  of  that  which  God,  the  most  holy  and  omnipotent, mentioned  about  the  sky,  earth,  and  water,  vegetation  and
 
 [5]  N
 
@@ -11758,8 +10962,7 @@ and  the  nature  of  the  circumstances  of  the  resurrection,  as  regards
 the  virtuous  and  evil-doers,  through  the  weight  of  every  action  they
 perform  for  good  and  evil.'
 
-This  description  corresponds  very  closely  with  what  the  Bun-
-dahii'  must  have  been,  before  the  addition  of  the  genealogical  and
+This  description  corresponds  very  closely  with  what  the  Bundahii'  must  have  been,  before  the  addition  of  the  genealogical  and
 chronological  chapters  at  the  end ;  and  Da(/-sparam  mentions  in
 his  text  here,  and  again  in  §  16,  particulars  regarding  the  Damda</
 which  also  occur  in  the  Bundahij-  (XIV,  2,  14-18,  21-24).  There
@@ -11788,8 +10991,7 @@ alum  or  arzanu.
 
 SELECTIONS    OF    ZAD-SPARAM,    IX,  3- 10.  I  79
 
-5.  And  it  is  also  said  that  from  the  lungs  are  the  rue-
-like herbs  ^  zvhich  heal,  and  are  for  the  lung-disease
+5.  And  it  is  also  said  that  from  the  lungs  are  the  ruelike herbs  ^  zvhich  heal,  and  are  for  the  lung-disease
 of  cattle.  6.  This,  rooted  amid  the  heart,  is  thyme,
 from  which  is  Vohuman's  thorough  withstanding  of
 the  stench  of  Akoman^,  and  it  is  for  that  which
@@ -11801,8 +11003,7 @@ they  would  carry  ^from  it,  and  the  brilliance  was
 intrusted  to  the  angel  of  the  moon^;  in  a  place
 therein  that  seed  was  thoroughly  purified  by  the
 light  of  the  moon,  and  was  restored  in  its  many
-qualities,  and  made  fully  infused  with  life  (^anvar-
-homand).  8.  Forth  from  there  it  produced  for
+qualities,  and  made  fully  infused  with  life  (^anvarhomand).  8.  Forth  from  there  it  produced  for
 Airan-ve^,  first,  two  oxen,  a  pair,  male  and  female  *,
 and,  afterwards,  other  species,  until  the  completion
 of  the  282  species^;  and  they  were  discernible  as
@@ -11836,19 +11037,14 @@ N  2
 l80  APPENDIX    TO    THE    BUNDAHI5.
 
 and  birds  flying  in  the  atmosphere.  1 1 .  Then,  into
-five  classes  \  that  is,  the  quadruped  which  is  round-
-hoofed,  the  double-hoofed,  the  five-clawed,  the  bird,
+five  classes  \  that  is,  the  quadruped  which  is  roundhoofed,  the  double-hoofed,  the  five-clawed,  the  bird,
 and  the  fish,  whose  dwellings  are  in  five  places,  and
-which  are  called  aquatic,  burrowing,  oviparous,  wide-
-travelling,  «;^^  suitable  for  grazing.  12.  The  aquatic
+which  are  called  aquatic,  burrowing,  oviparous,  widetravelling,  «;^^  suitable  for  grazing.  12.  The  aquatic
 are  fish  and  every  beast  of  burden,  cattle,  wild
 beast,  dog,  and  bird  which  enters  the  water  ;  the
-burrowing  are  the  marten  (samur)  and  musk  ani-
-mals, and  all  other  dwellers  and  movers  in  holes ;
-the  oviparous  are  birds  of  every  kind  ;  the  wide-
-travelling  sprang  away  for  help,  and  are  also  those
-of  a  like  kind ;  those  suitable  for  grazing  are  what-
-ever are  kept  grazing  in  a  flock.
+burrowing  are  the  marten  (samur)  and  musk  animals, and  all  other  dwellers  and  movers  in  holes ;
+the  oviparous  are  birds  of  every  kind  ;  the  widetravelling  sprang  away  for  help,  and  are  also  those
+of  a  like  kind ;  those  suitable  for  grazing  are  whatever are  kept  grazing  in  a  flock.
 
 13.  And,  afterwards,  they  were  divided  into
 genera,  as  the  round-hoofed  are  one,  which  is  all
@@ -11886,8 +11082,7 @@ man,  who  is  sowing  grain,  first  scatters  abroad  that
 of  heavy  weight,  then  that  which  is  middling,  and
 afterwards  that  which  is  small.
 
-16.  And  of  the  whole  of  the  species,  as  enume-
-rated a  second  time  in  the  Damda//  Nask^,  and
+16.  And  of  the  whole  of  the  species,  as  enumerated a  second  time  in  the  Damda//  Nask^,  and
 written  by  me  in  the  manuscript  (nipik)  of  'the
 summary  enumeration  of  races  ^' — this  is  a  lordly*
 summary — the  matter  which  is  shown  is,  about  the
@@ -11901,8 +11096,7 @@ of  ox  are  the  white,  mud-coloured,  red,  yellow,  black,
 and  dappled,  the  elk,  the  buffalo,  the  camel-leopard^,
 the  ox-fish,  ^//^  others.  19.  Among  sheep  are  those
 having  tails  and  those  which  are  tailless,  also  the
-wether  and  the  Ktiri^k  which,  because  of  its  tram-
-pling the  hills,  its  great  horn,  and  also  being  suitable
+wether  and  the  Ktiri^k  which,  because  of  its  trampling the  hills,  its  great  horn,  and  also  being  suitable
 
 1  Bund.  XIV,  25.
 
@@ -11910,8 +11104,7 @@ pling the  hills,  its  great  horn,  and  also  being  suitable
 XIV,  14-18,  21-24,  showing  that  the  Bundahi^  must  be  derived
 from  the  Damda</.
 
-^  The  title  of  this  work,  in  Pahlavi,  is  Tokhm-aui'marij-
-nih-i  hangar</ik6,  but  it  is  not  known  to  be  extant.
+^  The  title  of  this  work,  in  Pahlavi,  is  Tokhm-aui'marijnih-i  hangar</ik6,  but  it  is  not  known  to  be  extant.
 
 *  Reading  marik  (Chaldee  X?.'?),  but  this  is  doubtful,  though
 the  Iranian  final  k  is  often  added  to  Semitic  Huzvari^  forms  ending
@@ -11932,8 +11125,7 @@ Among  goats  are  the  ass-goat,  the  Arab,  the  fawn
 (variko),  the  roe,  and  the  mountain  goat.  21.
 Amono-  martens  are  the  white  ermine,  the  black
 marten,  the  squirrel,  the  beaver  (khaz),  and  others.
-22.  Of  musk  animals  with  a  bag,  one  is  the  Bish-
-musk — which  eats  the  Bish  poison  and  does  not  die
+22.  Of  musk  animals  with  a  bag,  one  is  the  Bishmusk — which  eats  the  Bish  poison  and  does  not  die
 throuo-h  it,  and  it  is  created  for  the  great  advantage
 that  it  should  eat  the  Bish,  aiid  less  of  it  should
 succeed  in  poisoning  the  creatures — and  one  is  a
@@ -11968,8 +11160,7 @@ supposed  to  be  neutralized.
 SELECTIONS    OF    ZA25-SPARAM,  IX,   20-X,   5.  1 83
 
 pure  propitious  liturgy  (m an sar spend),  as  heard
-from  Gayomarrt';  and  Auharmazd,  in  pure  medita-
-tion, considered  that  which  is  o^ood  and  rig-hteous-
+from  Gayomarrt';  and  Auharmazd,  in  pure  meditation, considered  that  which  is  o^ood  and  rig-hteous-
 ness  as  destruction  of  the  fiend  (drti^o).  2.  And
 when  he  (Gayomarrtf)  passed  away  eight  kinds  of
 mineral  of  a  metallic  character  arose  from  his
@@ -12000,14 +11191,12 @@ some  part  of  the  Avesta  which  is  no  longer  extant.  Pazand
 writers  have  found  it  easy  to  read  Mashyani  instead  of  Mashyoi.
 
 ^  Reading  ham-bajno  ham-dakhik,  but  whether  this  is  more
-likely  to  be  the  original  reading  than  the  ham-badi^-n  va  ham-
-dasak  of  Bund.  XV,  2,  is  doubtful.  The  last  epithet  here  might
+likely  to  be  the  original  reading  than  the  ham-badi^-n  va  hamdasak  of  Bund.  XV,  2,  is  doubtful.  The  last  epithet  here  might
 also  be  read  ham-sabik,  'having  the  same  shirt,'  but  this  is  an
 improbable  meaning.
 
 *  It  is  evident  that  ham-bandi^nth,  'mutual  connection,'  in
-accordance  with  Bund.  XV,  3,  would  be  preferable  to  the  ham-
-ba^noih,  'like  stature/  of  this  text.
+accordance  with  Bund.  XV,  3,  would  be  preferable  to  the  hamba^noih,  'like  stature/  of  this  text.
 
 
 184  APPENDIX    TO    THE    BUNDAHI5'.
@@ -12028,28 +11217,23 @@ I.  As  he  (Aharman)  came  seventhly  to  fire,  which
 was  all  together  against  him,  the  fire  separated  into
 five  kinds  ^,  which  are  called  the  Propitious,  the
 Good  diffuser,  the  Aurvazti-t,  the  Vazii't,  and  the
-Supremely-(5^;/^///2^.  2.  And  it  produced  the  Pro-
-pitious fire  itself  in  heaven  (gar 6 ^m an) ;  its  mani-
+Supremely-(5^;/^///2^.  2.  And  it  produced  the  Propitious fire  itself  in  heaven  (gar 6 ^m an) ;  its  mani-
 festation is  in  the  fire  which  is  burning  on  the
 earth,  and  its  propitiousness  is  this,  that  all  the
 kinds  are  of  its  nature.  3.  The  Good  diffuser  is  that
-which  is  in  men  and  animals  ^,  and  its  business  con-
-sists in  the  digestion  of  the  food,  the  sleeping  of  the
+which  is  in  men  and  animals  ^,  and  its  business  consists in  the  digestion  of  the  food,  the  sleeping  of  the
 
 ^  The  old  word  nismo, '  soul'  (see  Bund.  XV,  3,  4),  has  become
 corrupted  here  (by  the  omission  of  the  initial  stroke)  into  gadman,
 '  glory.'  This  corruption  may  be  due  either  to  Da^/-sparam  not
 understanding  the  word  (in  which  case  the  Bundahij-  must  have
-been  an  old  book  in  his  time),  or  else  to  some  later  copyist  con-
-founding the  old  word  for  '  soul '  with  the  better-known  '  glory '
+been  an  old  book  in  his  time),  or  else  to  some  later  copyist  confounding the  old  word  for  '  soul '  with  the  better-known  '  glory '
 of  the  Iranian  sovereigns.
 
 2  Bund.  XV,  5.
 
-'  Bund.  XVII,  I.  Three  of  the  Avesta  names  are  here  trans-
-lated, the  first  two  being  the  Spenii't  and  Vohu-fryan,  which  are
-the  fifth  and  second  in  the  Bundahij,  and  the  fifth  being  the  Berezi-
-savang,  which  is  the  first  in  the  Bundahij.
+'  Bund.  XVII,  I.  Three  of  the  Avesta  names  are  here  translated, the  first  two  being  the  Spenii't  and  Vohu-fryan,  which  are
+the  fifth  and  second  in  the  Bundahij,  and  the  fifth  being  the  Berezisavang,  which  is  the  first  in  the  Bundahij.
 
 *  See  Bund.  XVII,  2.
 
@@ -12060,16 +11244,14 @@ body,  and  the  brightening  of  the  eyes.  4.  The
 Atirvdzti-t  is  that  which  is  in  plants,  in  whose  seed
 it  is  formed,  and  its  business  consists  in  piercing  the
 earth,  warming  the  chilled  water ^  and  producing  the
-qualities  and  fragrance  of  plants  and  blossoms  there-
-from, and  elaborating  the  ripened  produce  into
+qualities  and  fragrance  of  plants  and  blossoms  therefrom, and  elaborating  the  ripened  produce  into
 many  fruits.  5.  And  the  Vazti-t  is  that  which  has
 its  motion  in  a  cloud,  and  its  business  consists  in
 destroying  the  atmospheric  gloom  and  darkness,  and
 making  the  thickness  of  the  atmosphere  fine  and
 propitious  in  quality,  sifting  the  hail,  moderately
 warming  the  water  which  the  cloud  holds,  and
-making  sultry  weather  showery.  6.  The  Supremely-
-benefiting,  like  the  sky,  is  that  glory  whose  lodg-
+making  sultry  weather  showery.  6.  The  Supremelybenefiting,  like  the  sky,  is  that  glory  whose  lodg-
 ment is  in  the  Behram  fire  2,  as  the  master  of  the
 house  is  over  the  house,  and  whose  propitious
 power  arises  from  the  growing  brightness  of  the
@@ -12080,13 +11262,11 @@ the  spiritual  fiend,  it  watches  the  forms  of  the
 witches — who  walk  up  from  the  river  *,  wear  woven
 clothing,  disturb  the  luminaries  by  the  concealment
 of  stench,  and  by  witchcraft  injure  the  creatures —
-and  the  occurrences  of  destruction,  burning,  and  cele-
-bration of  witchcraft,  especially  at  night ;  being  an
+and  the  occurrences  of  destruction,  burning,  and  celebration of  witchcraft,  especially  at  night ;  being  an
 assistant  of  Srosh  the  righteous.
 
 
-^  Reading  maya-i  afsar^Jni</6  taftano  instead  of  the  seem-
-ingly unmeaning  mayS  2,sz.xd\xAdo  aftano  of  the  MS.
+^  Reading  maya-i  afsar^Jni</6  taftano  instead  of  the  seemingly unmeaning  mayS  2,sz.xd\xAdo  aftano  of  the  MS.
 
 ^  The  Verehrano  atash,  or  sacred  fire  of  the  fire-temples.
 
@@ -12111,12 +11291,9 @@ which  is  in  the  Ridge  of  Vi^tasp,  and  its  material
 manifestation  in  the  world  was  the  most  complete.
 
 10.  In  the  reign  of  Hoshang^,  when  men  were
-continually  going  forth  to  the  other  regions  (kesh-
-var)  on  the  ox  Sruvo  ^,  one  night,  half-way,  while
-admiring  the  fires,  the  fire-stands  which  were  pre-
-pared in  three  places  on  the  back  of  the  ox,  and  in
-which  the  fire  was,  fell  into  the  sea,  and  the  sub-
-stance of  that  one  great  fire  ivhich  was  manifest,  is
+continually  going  forth  to  the  other  regions  (keshvar)  on  the  ox  Sruvo  ^,  one  night,  half-way,  while
+admiring  the  fires,  the  fire-stands  which  were  prepared in  three  places  on  the  back  of  the  ox,  and  in
+which  the  fire  was,  fell  into  the  sea,  and  the  substance of  that  one  great  fire  ivhich  was  manifest,  is
 divided  into  three,  and  they  established  it  on  the
 three  fire-stands,  and  it  became  itself  three  glories
 whose  lodgments  are  in  the  Frobak  fire,  the
@@ -12139,8 +11316,7 @@ meeting  of  the  beneficent  spirit  ajid  the  evil  spirit,'  have  no
 special  reference  to  the  Bundahij.  They  treat  of  the  following
 matters : —
 
-The  coming  of  the  religion,  beginning  in  the  time  of  Fra-
-siyazi  and  Manuj/('ihar,  with  an  anecdote  of  Kai-us  and  the  hero
+The  coming  of  the  religion,  beginning  in  the  time  of  Frasiyazi  and  Manuj/('ihar,  with  an  anecdote  of  Kai-us  and  the  hero
 Srito  (Av.  Thrita).     The  manifestation  of  the  glory  of  Zaratujt
 
 
@@ -12160,8 +11336,7 @@ was  frustrated ;  his  own  four  brothers,  and  some  of  his  wonderful
 deeds.  The  worthiness  of  his  righteousness ;  his  compassionate
 and  liberal  nature;  his  giving  up  worldly  desires;  his  pity;  his
 good  selection  of  a  wife ;  and  what  is  most  edifying  for  the  soul.
-What  occurred  when  he  was  thirty  years  old,  and  his  being  con-
-ducted by  the  archangel  Vohfiman  to  the  assembly  of  the  spirits.
+What  occurred  when  he  was  thirty  years  old,  and  his  being  conducted by  the  archangel  Vohfiman  to  the  assembly  of  the  spirits.
 The  questions  asked  by  Zaratuxt,  and  Afiharmazd's  replies  thereto.
 The  seven  questions  he  asked  of  the  seven  archangels  in  seven
 diff'erent  places,  in  the  course  of  one  winter.  [Westergaard's  MS.
@@ -12172,8 +11347,7 @@ connection  of  the  Ahunavar  with  the  Nasks.  Zaratui-t's  obtaining
 one  disciple,  Me(^y6k-mSh,  in  the  first  ten  years,  and  the  acceptance
 of  the  religion  by  Vijtasp  two  years  afterwards.
 
-The  second  of  the  writings  of  Za</-sparam  consists  of  his  '  say-
-ings about  the  formation  of  men  out  of  body,  life,  and  soul ; '  and
+The  second  of  the  writings  of  Za</-sparam  consists  of  his  '  sayings about  the  formation  of  men  out  of  body,  life,  and  soul ; '  and
 the  third  (which  is  imperfect  in  all  known  MSS.)  contains  his
 '  sayings  about  producing  the  renovation  of  the  universe'
 
@@ -12195,8 +11369,7 @@ OBSERVATIONS.
 
 1-5.  (The  same  as  on  p.  2.)
 
-6.  Abbreviations  used  are: — Av.  for  Avesta.  Bund,  for  Bun-
-dshls,  as  translated  in  this  volume.  Dsid.  for  Da/istan-i  Dinik.
+6.  Abbreviations  used  are: — Av.  for  Avesta.  Bund,  for  Bundshls,  as  translated  in  this  volume.  Dsid.  for  Da/istan-i  Dinik.
 Gr.  for  Greek.  Haug's  Essays,  for  Essays  on  the  Sacred  Language,
 Writings,  and  Religion  of  the  Parsis,  by  Martin  Haug,  2nd  edition.
 Huz.  for  Huzvarij.  Pahl.  for  Pahlavi.  Paz.  for  Pazand.  Pers.
@@ -12211,8 +11384,7 @@ K20  (about  500  years  old),  No.  20  in  the  University  Library  at
 Kopenhagen.
 
 Paz.  MSS.  (modern),  No.  22  of  the  Haug  Collection  in  the  State
-Library  at  Munich,  and  a  copy  of  one  in  the  library  of  the  high-
-priest  of  the  Parsis  at  Bombay.
+Library  at  Munich,  and  a  copy  of  one  in  the  library  of  the  highpriest  of  the  Parsis  at  Bombay.
 
 Pers.  version  (composed  a.  d.  1496,  copied  a.d.  1679)  in  a
 Rivayat  MS.,  No.  29  of  the  University  Library  at  Bombay.
@@ -12224,11 +11396,9 @@ BAHMAN   YA5T.
 Chapter  I.
 
 
-0.  May  the  gratification  of  the  creator  Atlhar-
-mazd,  the  beneficent,  the  developer,  the  splendid,
+0.  May  the  gratification  of  the  creator  Atlharmazd,  the  beneficent,  the  developer,  the  splendid,
 and  glorious,  and  the  benediction  of  the  archangels,
-which  constitute  the  pure,  good  religion  of  the  Maz-
-dayasnians,  be  vigour  of  body,  long  life,  and  pros-
+which  constitute  the  pure,  good  religion  of  the  Mazdayasnians,  be  vigour  of  body,  long  life,  and  pros-
 perous wealth  for  him  whose  writing  I  am  \
 
 1.  As  ^  it  is  declared  by  the  StiifT'gar  Nask^  that
@@ -12247,8 +11417,7 @@ the  Pers.  version.  It  is  also  omitted  in  the  epitome  of  the  Bahman
 Yajt  contained  in  the  Dabistan  (see  Shea's  translation,  vol.  i.
 pp.  264-271).
 
-^  This  was  the  first  nask  or  'book'  of  the  complete  Mazdayas-
-nian  literature,  according  to  the  Dinkar^,  which  calls  it  SiJfi^kar;
+^  This  was  the  first  nask  or  'book'  of  the  complete  Mazdayasnian  literature,  according  to  the  Dinkar^,  which  calls  it  SiJfi^kar;
 but  according  to  the  Dini-va^arkar</  and  the  Rivayats  it  was  the
 second  nask,  called  Sludgar  or  Istudgar.  For  its  contents,  as
 given  by  the  Dini-va^arkar</  (which  agrees  with  the  account  in  the
@@ -12287,8 +11456,7 @@ periods  in  the  Zarattjjtian  millennium  (hazangrok  zim,  "thousand
 winters" ).  First,  the  golden,  that  in  which  Auharmazd  displayed
 the  religion  to  Zaratii^t.  Second,  the  silver,  that  in  which  Vi^tasp
 received  the  religion  from  Zaratui-t.  Third,  the  steel,  the  period
-within  which  the  organizer  of  righteousness,  Atar6-pa</  son  of  Mar-
-spend,  was  born.  Fourth,  the  period  mingled  with  iron  is  this,
+within  which  the  organizer  of  righteousness,  Atar6-pa</  son  of  Marspend,  was  born.  Fourth,  the  period  mingled  with  iron  is  this,
 in  which  is  much  propagation  of  the  authority  of  the  apostate  and
 other  villains  (sari  tar  an  6),  along  with  destruction  of  the  reign
 of  religion,  the  weakening  of  every  kind  of  goodness  arid  virtue,
@@ -12311,16 +11479,12 @@ was  his  ancestor  in  the  ninth  generation  (see  Bund.  XXXII,  i).
 CHAPTER    I,  2-6.  19;
 
 
-come.  4.  That  of  gold  is  when  I  and  thou  con-
-verse, and  King  Vijtasp  shall  accept  the  religion,
+come.  4.  That  of  gold  is  when  I  and  thou  converse, and  King  Vijtasp  shall  accept  the  religion,
 and  shall  demolish  the  figures  of  the  demons,  but
-they  themselves  remain  for^  .  .  .  concealed  pro-
-ceedings. 5.  And  that  of  silver  is  the  reign  of
+they  themselves  remain  for^  .  .  .  concealed  proceedings. 5.  And  that  of  silver  is  the  reign  of
 Ar^akhshir^  the  Kayan  king  (Kai  shah),  and  that
-of  steel  is  the  reign  of  the  glorified  (anoshak-
-ruban)  Khusro  son  of  Keva^^  and  that  which  was
-mixed  with  iron  is  the  evil  sovereignty  of  the  de-
-mons with  dishevelled  hair  *  of  the  race  of  Wrath  ^
+of  steel  is  the  reign  of  the  glorified  (anoshakruban)  Khusro  son  of  Keva^^  and  that  which  was
+mixed  with  iron  is  the  evil  sovereignty  of  the  demons with  dishevelled  hair  *  of  the  race  of  Wrath  ^
 and  when  it  is  the  end  of  the  tenth  hundredth
 winter  (sato  zim)  of  thy  millennium,  O  Zaratu^t
 the  Spitaman ! '
@@ -12367,8 +11531,7 @@ B^mdtW,  who  is  opposed  to  the  reHgion,  comes  into
 notice,  and  is  to  cause  disturbance  among  those  in
 the  rehgion  of  God  (yazd^n).  7.  Aud  he,  the
 glorified  one'^,  summoned  Khusro  son  of  Mah-da^
-and  Da^-Auharmazd  of  NishapCir,  who  were  high-
-priests  of  Ataro-patakan,  and  Ataro-frobag  the  un-
+and  Da^-Auharmazd  of  NishapCir,  who  were  highpriests  of  Ataro-patakan,  and  Ataro-frobag  the  un-
 deceitful  (akadba),  Ataro-p^^f,  Ataro-Mitro,  and
 Bakht-afrirtf  to  h's  presence,  and  he  demanded  of
 them  a  promise  ^,  thus :  '  Do  not  keep  these  Ya5ts
@@ -12444,8 +11607,7 @@ from  an  Avesta  book  now  lost,  or,  at  any  rate,  to  its  author's  wish
 that  it  might  appear  to  be  so  translated.  In  such  cases  of  inverted
 construction,  when  the  verb  is  in  a  past  tense,  the  Pahlavi  idiom
 often  requires  a  pronominal  suffix,  corresponding  to  the  nominative,
-to  be  added  to  the  first  word  in  the  sentence;  thus,  guftoj  Auhar-
-mazd, or  afaj-  guft  Aflharmazd,  does  not  mean  'Auharmazd
+to  be  added  to  the  first  word  in  the  sentence;  thus,  guftoj  Auharmazd, or  afaj-  guft  Aflharmazd,  does  not  mean  'Auharmazd
 spoke  to  him  (or  said  it),'  but  merely  'Auharmazd  spoke '  (lit.  *  it  was
 said  by  him,  Auharmazd').
 
@@ -12466,8 +11628,7 @@ not  possible.'
 and  Auharmazd,  through  the  wisdom  of  omniscience,
 knew  what  was  thought  by  ZaratU5t  the  Spitaman
 with  the  righteous  spirit,  and  he^  took  hold  of
-Zaratui-t's  hand.  5.  And  he,  Auharmazd  the  pro-
-pitious spirit,  creator  of  the  material  world,  the
+Zaratui-t's  hand.  5.  And  he,  Auharmazd  the  propitious spirit,  creator  of  the  material  world,  the
 righteous  one,  even  he  put  the  omniscient  wisdom,
 in  the  shape  of  water,  on  the  hand  of  ZaratuJt,  and
 said  to  him  thus  :  '  Devour  it.'
@@ -12484,8 +11645,7 @@ Bra</r6k-resh,  the  Karapo,'  and  was  probably  the  third  brother,
 whose  name  (thus  corrected)  indicates  brathro-raesha  as  its  Avesta
 form.  Karap  or  Karapan  in  all  these  passages  is  evidently  the
 name  of  a  family  or  caste,  probably  the  Av.  karapano  which  Haug
-translates  by  '  performers  of  (idolatrous)  sacrificial  rites, 'nn  connec-
-tion with  Sans,  kalpa,  'ceremonial  ritual'  (see  Haug's  Essays,
+translates  by  '  performers  of  (idolatrous)  sacrificial  rites, 'nn  connection with  Sans,  kalpa,  'ceremonial  ritual'  (see  Haug's  Essays,
 pp.  289-291).
 
 ^  K20  has  'among  the  spirits/  the  word  minijn  having  become
@@ -12493,17 +11653,13 @@ mainokan  by  the  insertion  of  an  extra  stroke.
 
 -  Reading  afa^  instead  of  minaj  (Huz.  oizg2iS,  'from  or  by
 him,'  which  is  written  with  the  same  letters  as  afaj',  'and  by  him'),
-not  only  here,  but  also  in  §§  5,  7,  9.  The  copyist  of  K20  was  evi-
-dently not  aware  that  afaj  is  a  conjunctive  form,  but  confounded
-it  with  the  prepositional  form  a^aj,  as  most  Parsis  and  some  Euro-
-pean scholars  do  still.  The  Sasanian  inscriptions  confirm  the
+not  only  here,  but  also  in  §§  5,  7,  9.  The  copyist  of  K20  was  evidently not  aware  that  afaj  is  a  conjunctive  form,  but  confounded
+it  with  the  prepositional  form  a^aj,  as  most  Parsis  and  some  European scholars  do  still.  The  Sasanian  inscriptions  confirm  the
 reading  afax  for  the  conjunctive  form  ;  and  Neryosang,  the  learned
 Parsi  translator  of  Pahlavi  texts  into  Pazand  and  Sanskrit  some
 four  centuries  ago,  was  aware  of  the  difference  between  the  two
 forms,  as  he  transcribes  them  correctly  into  Paz.  va>s-  and  aza^.
 
-
-CHAPTER    II,    4-12.  197
 
 6.  And  Zaratui^t  devoured  some  of  it ;  thereby  the
 omniscient  wisdom  was  intermingled  with  Zaratiut,
@@ -12517,8 +11673,7 @@ were,  and  how  many  roots  of  plants  were  in  the
 earth  of  Spendarma^,  where  and  how  they  had
 grown,  and  where  they  were  mingled.
 
-9.  And  the  seventh  day  and  night  he  (Auhar-
-mazd) took  back  the  omniscient  wisdom  from
+9.  And  the  seventh  day  and  night  he  (Auharmazd) took  back  the  omniscient  wisdom  from
 Zaratuj't,  and  Zaratui-t  reflected  in  this  way,  that
 I  have  seen  it  in  a  pleasant  dream  produced  by
 Auharmazd,  and  I  am  not  surfeited  with  the  dream.
@@ -12528,11 +11683,9 @@ time,  and  am  not  surfeited  with  this  pleasant  dream
 produced  by  Auharmazd.'
 
 11.  Auharmazd  said  to  the  righteous  Zaratu.5t
-thus :  '  What  was  seen  in  the  pleasant  dream  pro-
-duced by  Auharmazd?'
+thus :  '  What  was  seen  in  the  pleasant  dream  produced by  Auharmazd?'
 
-12.  Zaratu^t  spoke  thus:  'O  Auharmazd,  propi-
-tious spirit !  creator  of  the  material  world,  righteous
+12.  Zaratu^t  spoke  thus:  'O  Auharmazd,  propitious spirit !  creator  of  the  material  world,  righteous
 creator!  I  have  seen  a  celebrity  (khuni^f)  with
 much  wealth,  whose  soul,  infamous  in  the  body,  was
 hungry  (gurs)^  and  jaundiced  and  in  hell,  and  he  did
@@ -12560,15 +11713,13 @@ mixed  up  with  iron.'
 
 15.  Auharmazd  spoke  thus:  'O  Zaratu^t  the
 Spitaman !  this  is  what  I  say  beforehand,  the  one
-tree  which  thou  sawest  is  the  world  which  I,  Auhar-
-mazd, created ;  and  those  seven  branches  thou
+tree  which  thou  sawest  is  the  world  which  I,  Auharmazd, created ;  and  those  seven  branches  thou
 sawest  are  the  seven  periods  which  zai//  come.
 16.  And  that  which  was  golden  is  the  reign  of  King
 Vi^tasp,  when  I  and  thou  converse  about  religion,
 and  Vi^tasp  shall  accept  that  religion  and  shall
 demolish  the  figures  of  the  demons,  and  the  demons
-desist  from  demonstration  into  concealed  proceed-
-ings ;  Aharman  and  the  demons  rush  back  to  dark-
+desist  from  demonstration  into  concealed  proceedings ;  Aharman  and  the  demons  rush  back  to  dark-
 ness, and  care  for  water,  fire,  plants,  and  the  earth
 of  Spendarma^^  becomes  apparent.  17.  And  that
 which  was  of  silver*  is  the  reign  of  Ar^ashir^  the
@@ -12592,8 +11743,7 @@ I,  26).
 
 ^  Usually  identified  with  Artaxerxes  Longimanus,  but  his  long
 reign  of  1 12  years  may  include  most  of  the  Acha^menian  sovereigns
-down  to  Artaxerxes  Mnemon,  several  of  whom  are  called  Aha-
-suerus  or  Artaxerxes  in  the  biblical  books  of  Ezra  and  Esther.  See
+down  to  Artaxerxes  Mnemon,  several  of  whom  are  called  Ahasuerus  or  Artaxerxes  in  the  biblical  books  of  Ezra  and  Esther.  See
 Bund,  XXXI,  30,  XXXIV,  8.
 
 
@@ -12601,17 +11751,14 @@ CHAPTER    11,    13-19.  199
 
 Kayan  (Kai),  whom  ^  they  call  Vohuman  son  of
 Spend-da^^,  who  is  he  who  separates  the  demons
-from  men,  scatters  them  about,  and  makes  the  reli-
-gion current  in  the  whole  world.  18.  And  that
+from  men,  scatters  them  about,  and  makes  the  religion current  in  the  whole  world.  18.  And  that
 which  was  brazen  ^  is  the  reign  of  Ar^akhshir  *,  the
 arranger  and  restorer  of  the  world,  and  that  of  King
 Shahpur,  when  he  arranges  the  world  which  I,
-Auharmazd,  created  ;  he  makes  happiness  (bukhta-
-kih)^  prevalent  in  the  boundaries  of  the  world,  and
+Auharmazd,  created  ;  he  makes  happiness  (bukhtakih)^  prevalent  in  the  boundaries  of  the  world,  and
 goodness  shall  become  manifest ;  and  Atar6-p4^  of
 triumphant  destiny,  the  restorer  of  the  true  religion,
-with  the  prepared  brass  ^,  brings  this  religion,  to-
-gether with  the  transgressors,  back  to  the  truth.
+with  the  prepared  brass  ^,  brings  this  religion,  together with  the  transgressors,  back  to  the  truth.
 19.  And  that  which  was  of  copper  is  the  reign  of
 the  Ai^kanian  king  '^,  who  removes  from   the  world
 
@@ -12629,8 +11776,7 @@ describing  the  copper  age  before  the  brazen  one  here,  but  they
 place  the  brazen  branch  before  the  copper  one  in  §  14,  so  it  is
 doubtful  how  the  text  stood  originally.
 
-*  Artakhshatar  son  of  Papaki  and  Shahpuhari  son  of  Artakh-
-shatar  are  the  Sasanian  forms  of  the  names  of  the  first  two
+*  Artakhshatar  son  of  Papaki  and  Shahpuhari  son  of  Artakhshatar  are  the  Sasanian  forms  of  the  names  of  the  first  two
 monarchs  (a.d.  226-271)  of  the  Sasanian  dynasty,  whose  reigns
 constitute  this  brazen  age.
 
@@ -12659,8 +11805,7 @@ successors  of  Alexander  were  subdued  in  Persia  by  A^k  (Arsaces  I),
 \vho  defeated  Seleucus  Callinicus  about  b.c.  236.  But  the  third
 book  of  the  Dinkar^(in  a  passage  quoted  by  Haug  in  his  Essay  on
 the  Pahlavi  Language)  mentions  Valkhaj  (Vologeses)  the  A^kanian
-as  collecting  the  Avesta  and  Zand,  and  encouraging  the  Mazda-
-yasnian  religion.  This  Valkhaj  was  probably  Vologeses  I,  a  con-
+as  collecting  the  Avesta  and  Zand,  and  encouraging  the  Mazdayasnian  religion.  This  Valkhaj  was  probably  Vologeses  I,  a  con-
 temporary of  Nero,  as  shown  by  Darmesteter  in  the  introduction
 to  his  translation  of  the  Vendidad.
 
@@ -12668,8 +11813,7 @@ to  his  translation  of  the  Vendidad.
 that  Neryosang,  in  his  Sanskrit  translation  of  Yas.  IX,  75,  explains
 Kalajiyaka/^  as  'those  whose  faith  is  the  Christian  religion;'  the
 original  Pahlavi  word  in  the  oldest  MSS.  is  Kilisayaik,  altogether
-a  misunderstanding  of  the  Avesta  name  Keresani,  which  it  trans-
-lates, but  sufficiently  near  the  name  in  our  text  to  warrant  the
+a  misunderstanding  of  the  Avesta  name  Keresani,  which  it  translates, but  sufficiently  near  the  name  in  our  text  to  warrant  the
 assumption  that  Neryosang  would  have  translated  Kilisyakih  by
 'Christianity;'  literally  it  means  '  ecclesiasticism,  or  the  church
 religion'  (from  Pers.  kilisya,  Gr.  eKKXTjaia).  Akandgar  is  probably
@@ -12694,19 +11838,15 @@ creeds  which  had  been  tolerated  by  his  predecessor,  and  this
 conduct  naturally  endeared  him  to  the  priesthood.
 
 
-CHAPTER    II,  20-24.  201
-
 makes  the  sight  ^  of  the  spirit  of  pleasure  manifest,
-and  Aharman  with  the  wizards  rushes  back  to  dark-
-ness ant/  gloom.  21.  And  that  which  was  of  steel  is
+and  Aharman  with  the  wizards  rushes  back  to  darkness ant/  gloom.  21.  And  that  which  was  of  steel  is
 the  reign  of  King  KhCisro  son  of  Keva^f^,  when  he
 keeps  away  from  this  religion  the  accursed  Mazdtk^,
 son  of  Bdmdartf,  who  remains  opposed  to  the  religion
 alonof  with  the  heterodox.  22.  And  that  which  was
 mixed  with  iron  [is  the  reign  of  the  demons  with
 dishevelled  hair  *  of  the  race  of  Wrath,  when  it  is
-the  end  of  the  tenth  hundredth  winter  of  thy  mil-
-lennium], O  Zaraturt  the  Spitam^n  ! '
+the  end  of  the  tenth  hundredth  winter  of  thy  millennium], O  Zaraturt  the  Spitam^n  ! '
 
 23.  Zaratu^t  said  thus:  '  Creator  of  the  material
 world!  O  propitious  spirit!  what  token  would  you
@@ -12755,11 +11895,9 @@ the  Spitaman !  the  race  of  Wrath  is  miscreated  (v  i  -
 shu^)  and  its  origin  is  not  manifest.  26.  Through
 witchcraft  they  rush  into  these  countries  of  Iran
 which  I,  Auharmazd,  created,  since  they  burn  and
-damage  many  things ;  and  the  house  of  the  house-
-owner,  the  land  of  the  land-digger,  prosperity,  nobi-
+damage  many  things ;  and  the  house  of  the  houseowner,  the  land  of  the  land-digger,  prosperity,  nobi-
 lity, sovereignty,  religion^,  truth,  agreement,  security,
-enjoyment,  and  every  characteristic  which  I,  Auhar-
-mazd, created,  this  pure  religion  of  the  Mazda-
+enjoyment,  and  every  characteristic  which  I,  Auharmazd, created,  this  pure  religion  of  the  Mazda-
 yasnians,  and  the  fire  of  Vahram,  which  is  set  in
 the  appointed  place,  encounter  annihilation,  and  the
 direst  destruction  and  trouble  will  come  into  notice.
@@ -12770,8 +11908,7 @@ a  town ;  that  which  is  a  great  town,  a  village  ;  that
 ^  Or  'of  Khurasan.'  It  is  difficult  to  identify  these  demons
 with  the  Arabs,  who  came  from  the  west,  though  a  dweller  in
 Kirman  might  imagine  that  they  came  from  Khurasan.  In  fact,
-hardly  any  of  the  numerous  details  which  follow,  except  their  long-
-continued  rule,  apply  exclusively  to  Muhammadans.  It  appears,
+hardly  any  of  the  numerous  details  which  follow,  except  their  longcontinued  rule,  apply  exclusively  to  Muhammadans.  It  appears,
 moreover,  from  §  50  and  Chap.  Ill,  8,  that  these  demons  are
 intended  for  Turks,  that  is,  invaders  from  Turkistan,  who  would
 naturally  come  from  the  east  into  Persia.
@@ -12785,8 +11922,6 @@ banners  and  black  garments.'
 MSS.
 
 
-CHAPTER    II,    25-31.  203
-
 which  is  a  great  village,  a  family;  and  that  which  is
 a  [great]  ^  family,  a  single  threshold.  28.  O  Zaratu^-t
 theSpitaman!  they  will  lead  these  Iranian  countries
@@ -12794,8 +11929,7 @@ of  Ailharmazd  into  a  desire  for  evil,  into  tyranny
 and  misgovernment,  those  demons  with  dishevelled
 hair  who  are  deceivers,  so  that  what  they  say  they
 do  not  do,  and  they  are  of  a  vile  religion,  so  that
-what  they  do  not  say  they  do.  29.  And  their  assist-
-ance and  promise  have  no  sincerity,  there  is  no
+what  they  do  not  say  they  do.  29.  And  their  assistance and  promise  have  no  sincerity,  there  is  no
 law,  they  preserve  no  security,  and  on  the  support
 they  provide  no  one  relies ;  with  deceit,  rapacity,
 and  misgovernment  they  will  devastate  these  my
@@ -12814,8 +11948,7 @@ be  parted  and  estranged  from  the  daughter.
 31.  'When  it  is  the  end  of  thy  tenth  hundredth
 winter,  O  Zaratui't  the  Spitaman !  the  sun  is  more
 unseen  and  more  spotted  (vasangtar);  the  year,
-month,  and  day  are  shorter ;  and  the  earth  of  Spen-
-darma^    is    more   barren,    and    fuller    of  highway-
+month,  and  day  are  shorter ;  and  the  earth  of  Spendarma^    is    more   barren,    and    fuller    of  highway-
 
 
 *  This  word  is  omitted  in  K20,  but  supplied  from  the  Pazand.
@@ -12840,14 +11973,12 @@ trees,  and  shrubs  will  diminish ;  when  one  shall  take
 a  hundred,  ninety  will  diminish  and  ten  will  increase,
 and  that  which  increases  gives  no  pleasure  and
 flavour.  32.  And  men  are  born  smaller,  and  their
-skill  and  strength  are  less ;  they  become  more  de-
-ceitful and  more  given  to  vile  practices ;  they  have
+skill  and  strength  are  less ;  they  become  more  deceitful and  more  given  to  vile  practices ;  they  have
 no  gratitude  and  respect  for  bread  and  salt,  and  they
 have  no  affection  for  their  country  (desak).
 
 2)Z'  'And  in  that  most  evil  time  a  boundary  has
-most  disrespect  *  where  it  is  the  property  of  a  suf-
-fering man  of  religion ;  gifts  are  few  among  their
+most  disrespect  *  where  it  is  the  property  of  a  suffering man  of  religion ;  gifts  are  few  among  their
 deeds,  and  duties  and  good  works  proceed  but  little
 from  their  hands  ;  and  sectarians  of  all  kinds  are
 seeking  mischief  for  them  ^  34.  And  all  the  world
@@ -12874,8 +12005,6 @@ of  wrath  and  avarice  they  rush  to  hell.
 §§  32-35-
 
 
-CHAPTER    II,   32-36.  205
-
 Spttdman! — the  reign  of  Wrath  with  infuriate  spear  ^
 and  the  demon  with  dishevelled  hair,  of  the  race  of
 Wrath, — the  meanest  slaves  walk  forth  with  the
@@ -12887,8 +12016,7 @@ become  so  abundant,  that  one  who  shall  set  step  to
 step  walks  upon  dead  matter ;  or  when  he  washes
 in  the  barashntim  ceremony,  and  puts  down  a  foot
 from  the  stone  scat  (magh)^  he  walks  on  dead
-matter;  or  when  he  arranges  the  sacred  \.\y\<g^  (bare-
-som)  and  consecrates  the  sacred  cakes  (drono)  in
+matter;  or  when  he  arranges  the  sacred  \.\y\<g^  (baresom)  and  consecrates  the  sacred  cakes  (drono)  in
 their  corpse-chamber  (nasai  katak)^  it  is  allowable.
 
 ^  The  Av.  Aeshmo  khrvidrui',  '  Aeshma  the  impetuous
@@ -12898,8 +12026,7 @@ A  vesta  term.
 
 ^  According  to  Dastiir  Hoshangji  (Zand-Pahlavi  Glossary,  p.  65)
 the  term  magh  is  now  applied  to  the  stones  on  which  the  person
-undergoing  purification  has  to  squat  during  ablution  in  the  barash-
-num  ceremony.  Originally,  however,  Av.  magha  appears  to  have
+undergoing  purification  has  to  squat  during  ablution  in  the  barashnum  ceremony.  Originally,  however,  Av.  magha  appears  to  have
 meant  a  shallow  hole  dug  in  the  earth,  near  or  over  which  the
 person  squatted  upon  a  seat,  either  of  stone  or  some  other  hard
 material  (see  Vend.  IX).  The  term  for  the  hole  was  probably
@@ -12930,8 +12057,7 @@ in  a  myriad,  who  believes  in  this  religion,  and  even
 he  does  nothing  of  it  though  z^  be  a  duty^;  and  the
 fire  of  Vahram,  which  will  come  to  nothing  and
 collapse, /^//i-  off  from  a  thousand  to  one  care-taker,
-and  even  he  does  not  supply  it  properly  with  fire-
-wood and  incense ;  or  when  a  man,  zvho  has  per-
+and  even  he  does  not  supply  it  properly  with  firewood and  incense ;  or  when  a  man,  zvho  has  per-
 formed worship  and  does  not  know  the  Nirangistan^
 ('code  of  religious  formulas'),  shall  kindle  it  with
 good  intentions,  it  is  allowable.
@@ -12943,11 +12069,9 @@ from  the  families  of  noblemen  even  unto  the  priests
 (mog-marrtfan),  remain  running  about  uncovered;
 the  lower   orders  take   in  marriage   the    daughters
 of  nobles,  grandees,   and  priests ;    and  the  nobles,
-grandees,  and  priests  come  to  destitution  and  bon-
-dage.    39.  The  misfortunes  of  the  ignoble  will  over-
+grandees,  and  priests  come  to  destitution  and  bondage.    39.  The  misfortunes  of  the  ignoble  will  over-
 take greatness  and  authority,  and  the  helpless  and
-ignoble  will  come  to  the  foremost  place  atid  advance-
-ment ;  the  words  of  the  upholders  of  religion,  and
+ignoble  will  come  to  the  foremost  place  atid  advancement ;  the  words  of  the  upholders  of  religion,  and
 the  seal  and  decision  of  a  just  judge  will  become  the
 
 
@@ -12957,21 +12081,17 @@ the  seal  and  decision  of  a  just  judge  will  become  the
 he  orders  of  priests  and  disciples  they  do  not  fulfil.'
 
 ^  The  name  of  a  work  which  treats  of  various  ceremonial  details,
-and  appears  to  be  a  portion  of  the  Pahlavi  translation  of  the  seven-
-teenth or  Husparam  Nask,  containing  many  Avesta  quotations
+and  appears  to  be  a  portion  of  the  Pahlavi  translation  of  the  seventeenth or  Husparam  Nask,  containing  many  Avesta  quotations
 which  are  not  now  to  be  found  elsewhere.
 
 *  The  Paz.  MSS.  have  misread  a0tr  damik,  'underground,'
 instead  of  asarmik.
 
 
-CHAPTER    II,   37-41.  207
-
 words  of  random  speakers  (ande^o-gokan)  among
 the  just  and  even  the  righteous ;  and  the  words  of
 the  ignoble  and  slanderers,  of  the  disreputable  and
-mockers,  and  of  those  of  divers  opinions  they  con-
-sider true  and  credible,  about  which  they  take  ^  an
+mockers,  and  of  those  of  divers  opinions  they  consider true  and  credible,  about  which  they  take  ^  an
 oath,  although  with  falsehood,  and  thereby  give
 false  evidence,  and  speak  falsely  and  irreverently
 about  me,  Auharmazd.  40.  They  who  bear  the
@@ -12980,16 +12100,14 @@ one  another ;  he  speaks  vice  and  they  look  upon
 vice ;  and  the  antagonism  of  Aharman  and  the
 demons  is  much  brought  on  by  them  ;  of  the  sin
 which  men  commit,  out  of  five  ^  sins  the  priests  and
-disciples  commit  three  sins,  and  they  become  ene-
-mies of  the  good,  so  that  they  may  thereby  speak  of
+disciples  commit  three  sins,  and  they  become  enemies of  the  good,  so  that  they  may  thereby  speak  of
 bad  faults  relating  to  one  another ;  the  ceremonies
 they  undertake  they  do  not  perform,  and  they  have
 no  fear  of  hell.
 
 41.  'And  in  that  tenth  hundredth  winter,  which  is
 the  end  of  thy  millennium,  O  righteous  Zaratiut !
-all  mankind  will  bind  torn  hair,  disregarding  reve-
-lation ^    so    that    a  willingly-disposed    cloud   and   a
+all  mankind  will  bind  torn  hair,  disregarding  revelation ^    so    that    a  willingly-disposed    cloud   and   a
 
 ^  Literally, '  devour  an  oath,'  which  Persian  idiom  was  occasioned
 by  the  original  form  of  oath  consisting  in  drinking  water  prepared
@@ -13004,10 +12122,8 @@ plain  enough.
 ^  The  Persian  paraphrase  has  '  eight.'
 
 *  Referring  probably  to  the  injunctioi^s  regarding  cutting  the
-hair  and  paring  the  nails,  with  all  the  proper  precautions  for  pre-
-venting any  fragments  of  the  hair  or  nails  from  lying  about,  as  given
-in  Vend.  XVII.  One  of  the  penalties  for  neglecting  such  precau-
-tions is  supposed  to  be  a  failure  of  the  necessary  rains.     The
+hair  and  paring  the  nails,  with  all  the  proper  precautions  for  preventing any  fragments  of  the  hair  or  nails  from  lying  about,  as  given
+in  Vend.  XVII.  One  of  the  penalties  for  neglecting  such  precautions is  supposed  to  be  a  failure  of  the  necessary  rains.     The
 
 
 2o8  BAHMAN   VAST.
@@ -13022,17 +12138,14 @@ not  rain,  and  that  which  rains  also  rains  more
 noxious  creatures  than  water ;  and  the  water  of
 rivers  and  springs  will  diminish,  and  there  will  be
 no  increase.  43.  And  the  beast  0/  burden  and  ox
-and  sheep  bring  forth  more  painfully^  and  awk-
-wardly, and  acquire  less  fruitfulness  ;  and  their  hair
-is  coarser  and  skin  thinner ;  the  milk  does  not  in-
-crease and  has  less  cream  (y^arbii't);  the  strength
+and  sheep  bring  forth  more  painfully^  and  awkwardly, and  acquire  less  fruitfulness  ;  and  their  hair
+is  coarser  and  skin  thinner ;  the  milk  does  not  increase and  has  less  cream  (y^arbii't);  the  strength
 of  the  labouring  ox  is  less,  and  the  agility  of  the
 swift  horse  is  less,  and  it  carries  less  in  a  race.
 
 44.  '  And  on  the  men  in  that  perplexing  time,
 O  Zaratui-t  the  Spitaman !  who  wear  the  sacred
-t/iread-g'irdle  on  the  waist,  the  evil-seeking  of  mis-
-government  and  much  of  its  false  judgment  have
+t/iread-g'irdle  on  the  waist,  the  evil-seeking  of  misgovernment  and  much  of  its  false  judgment  have
 come  as  a  wind  in  which  their  living  is  not  possible,
 and  they  seek  death  as  a  boon ;  and  youths  and
 children  will  be  apprehensive,  and  gossiping  chitchat
@@ -13041,8 +12154,7 @@ and  gladness  of  heart  do  not  arise  among  them.
 of  tAeir  ancestors,  the  propitiation  (ausofri^/)  of
 angels,  ^;^^the  prayers  and  ceremonies  of  the  season
 festivals  and  guardian  spirits,  in  various  places,  yet
-that  which  they  practise  they  do  not  believe  in  un-
-hesitatingly ;  they  do  not  give  rewards  lawfully,  and
+that  which  they  practise  they  do  not  believe  in  unhesitatingly ;  they  do  not  give  rewards  lawfully,  and
 
 words  anastak  dino  can  also  be  translated  by  'despising  the
 religion.'
@@ -13052,20 +12164,16 @@ K20;  it  may  possibly  be  kutaktar,  'more  scantily,'  as  the  Paz.
 MSS.  have  kodaktar  baho^  'become  smaller.'
 
 
-CHAPTER    II,    42-49.  209
-
 bestow  no  gifts  and  alms,  and  even  those  [they
 bestow]  1  they  repent  of  again.  46.  And  even  those
 men  of  the  good  rehgion,  who  have  reverenced  the
-good  rehgion  of  the  Mazdayasnians,  proceed  in  con-
-formity with  (bar-hamako  riibii-n)  those  ways  and
+good  rehgion  of  the  Mazdayasnians,  proceed  in  conformity with  (bar-hamako  riibii-n)  those  ways  and
 customs  2,  and  do  not  beheve  their  own  rehgion.
 47.  And  the  noble,  great,  and  charitable  =*,  who  are
 the  virtuous  of  their  own  country  and  locality,  will
 depart  from  their  own  original  place  and  family  ^  as
 idolatrous ;  through  want  they  beg  something  from
-the  ignoble  and  vile,  and  come  to  poverty  and  help-
-lessness ;  through  them  ^  nine  in  ten  of  these  men
+the  ignoble  and  vile,  and  come  to  poverty  and  helplessness ;  through  them  ^  nine  in  ten  of  these  men
 will  perish  in  the  northern  quarter.
 
 48.  •  Through  their  way  of  misrule  everything
@@ -13084,8 +12192,7 @@ those  of  their  conquerors.
 
 *  Or  dahakan  may  mean  'the  skilful.'
 
-*  Reading  du^ak  instead  of  ru^/ak.  At  first  sight  the  mis-
-writing  of  r  for  d  seems  to  indicate  copying  from  a  text  in  the
+*  Reading  du^ak  instead  of  ru^/ak.  At  first  sight  the  miswriting  of  r  for  d  seems  to  indicate  copying  from  a  text  in  the
 modern  Persian  character,  in  which  those  two  letters  are  often
 much  alike;  but  it  happens  that  the  compounds  du  and  rii  also
 resemble  one  another  in  some  Pahlavi  handwriting.
@@ -13093,8 +12200,7 @@ resemble  one  another  in  some  Pahlavi  handwriting.
 »  Whether  through  poverty  and  helplessness,  or  through  the
 conquerors,  is  not  quite  clear.
 
-«  Very  little  reliance  can  be  placed  upon  the  details  of  this  sen-
-tence, but  it  is  difficult  to  make  any  other  complete  and  consistent
+«  Very  little  reliance  can  be  placed  upon  the  details  of  this  sentence, but  it  is  difficult  to  make  any  other  complete  and  consistent
 translation.  Darmesteter  suggests  the  reading  heno,  'army,'  but
 another  possible  reading  is  Khyon  (Av.  /^57yaona),  the  old  name
 
@@ -13105,8 +12211,7 @@ another  possible  reading  is  Khyon  (Av.  /^57yaona),  the  old  name
 
 
 taineers^;  and  the  A^ini  2,  the  Kaz'ull,  the  Softi,  the
-Ruman  (Arumayak),  and  the  white-clothed  Kar-
-mak^  then  attain  sovereignty  in  my  countries  of  Iran,
+Ruman  (Arumayak),  and  the  white-clothed  Karmak^  then  attain  sovereignty  in  my  countries  of  Iran,
 ^/zrt' their  will  and  pleasure  will  become  current  in  the
 world.  50.  The  sovereignty  will  come  from  those
 leathern-belted  ones'*  and  Arabs  (Ta^igan)  and
@@ -13121,10 +12226,8 @@ and  standards  of  the  frontiers  come  to  them,  and  a
 rule  with  a  craving  for  wrath  advances  in  the  world.
 52.  And  their  eyes  of  avarice  are  not  sated  with
 wealth,  and  they  form  hoards  of  the  world's  wealth,
-and  conceal  ^/inn  underground ;  and  through  wicked-
-ness they  commit  sodomy,  hold  much  intercourse
-with  menstruous  zvomen,  and  practise  many  unna-
-tural lusts.
+and  conceal  ^/inn  underground ;  and  through  wickedness they  commit  sodomy,  hold  much  intercourse
+with  menstruous  zvomen,  and  practise  many  unnatural lusts.
 
 of  some  country  probably  in  Turkistan,  as  Aro-asp,  the  opponent  of
 Vi jtasp,  is  called  '  lord  or  king  of  Khyon '  in  the  Ya(/l^ar-i  Zariran
@@ -13148,28 +12251,20 @@ and  again  in  Chap.  Ill,  9,  51.
 ^  Literally,  '  both  are  one.'
 
 
-CHAPTER    II,    50-57.  211
-
-
 53.  'And  in  that  perplexing  time  the  night  is
-brighter  ^  and  the  year,  month,  and  day  will  di-
-minish one-third ;  the  earth  of  Spendarma^  arises,
+brighter  ^  and  the  year,  month,  and  day  will  diminish one-third ;  the  earth  of  Spendarma^  arises,
 and  suffering,  death,  and  destitution  become  more
 severe  in  the  world.'
 
 54.  Auharmazd  said  to  ZaratCi^t  the  Spitaman  :
 '  This  is  what  I  foretell :  that  wicked  evil  spirit,
-when  it  shall  be  necessary  for  him  to  perish,  be-
-comes more  oppressive  and  more  tyrannical.'
+when  it  shall  be  necessary  for  him  to  perish,  becomes more  oppressive  and  more  tyrannical.'
 
-55.  So  Auharmazd  spoke  to  Zaratu^t  the  Spita-
-man thus:  'Enquire  fully  and  learn  by  heart  ^
-thoroughly!  teach  it  by  Zand,  Pa^and,  and  explana-
-tion !  tell  it  to  the  priests  and  disciples  ivho  speak
+55.  So  Auharmazd  spoke  to  Zaratu^t  the  Spitaman thus:  'Enquire  fully  and  learn  by  heart  ^
+thoroughly!  teach  it  by  Zand,  Pa^and,  and  explanation !  tell  it  to  the  priests  and  disciples  ivho  speak
 forth  in  the  world,  and  those  who  are  not  aware  of
 the  hundred  winters,  tell  it  then  to  them  !  so  that,
-for  the  hope  of  a  future  existence,  and  for  the  pre-
-servation of  their  own  souls,  they  may  remove  the
+for  the  hope  of  a  future  existence,  and  for  the  preservation of  their  own  souls,  they  may  remove  the
 trouble,  evil,  and  oppression  which  those  of  other
 religions  cause  in  the  ceremonies  of  religion  (din 6
 yesnan).  56.  And,  moreover,  I  tell  thee  this,  O
@@ -13181,8 +12276,7 @@ is  hungry  and  lean  through  the  misery  of  the  world,
 and  destitute,  and  his  soul  is  fat  in  heaven.'
 
 57.  Zaratu^t  enquired  of  Auharmazd  thus:  'O
-Auharmazd,  propitious  spirit !  creator  of  the  mate-
-rial world  who  art  righteous!' — He  is  Auharmazd
+Auharmazd,  propitious  spirit !  creator  of  the  material world  who  art  righteous!' — He  is  Auharmazd
 through  righteous  invocation,  and  the  rest  through
 
 
@@ -13197,8 +12291,7 @@ P  2
 
 praise;  some  say  '  righteous  creatorM  ' — 'O  creator  !
 in  that  perplexing  time  are  they  righteous  ?  and  are
-there  rehgious  people  who  wear  the  sacred  thread-
-girdle  (kustik)  on  the  waist,  and  celebrate  religious
+there  rehgious  people  who  wear  the  sacred  threadgirdle  (kustik)  on  the  waist,  and  celebrate  religious
 rites  (din 6) 2  with  the  sacred  \.\i\^s  (baresom)?  and
 does  the  religious  practice  of  next-of-kin  marriage
 (khvet{ik-das)  continue  in  their  families?'
@@ -13209,10 +12302,8 @@ the  sacred  ^/iread-girdle  on  the  waist,  and  celebrates
 religious  rites  with  the  sacred  twigs,  thotigh  not  as  in
 the  reign  of  King  Vi^tasp.  59.  Whoever  in  that
 perplexing  time  recites  Ita-a^j'-yazam  (A v.  itha  2.d
-yazamaide,  Yas.  Vand  XXXVII)^  and  one  Ashem-
-vohu^  ajtd  has  learned  it  by  heart,  is  as  though,
-in  the  reign  of  King  Vi^tasp,  it  were  a  Dva^dah-
-homist"^   with    holy-water   (zohar).       60.   And   by
+yazamaide,  Yas.  Vand  XXXVII)^  and  one  Ashemvohu^  ajtd  has  learned  it  by  heart,  is  as  though,
+in  the  reign  of  King  Vi^tasp,  it  were  a  Dva^dahhomist"^   with    holy-water   (zohar).       60.   And   by
 
 
 ^  This  interpolated  commentary  is  a  pretty  clear  indication  that
@@ -13229,8 +12320,7 @@ worships  Auharmazd  as  the  creator  of  all  good  things.
 I  am  indebted  to  Dastur  Jamaspji  Minochiharji  Jamasp-Asa-na  of
 Bombay : —
 
-There  are  four  kinds  of  homast  recited  by  priests  for  the  atone-
-ment of  any  sin  that  may  have  been  committed  by  a  woman  during
+There  are  four  kinds  of  homast  recited  by  priests  for  the  atonement of  any  sin  that  may  have  been  committed  by  a  woman  during
 menstruation,  after  her  purification  : —
 
 1.  Homast  consists  of  prayers  recited  for  144  days,  in  honour
@@ -13243,10 +12333,7 @@ days  successively,  with  one  Yasna  each  day.
 in  adding  aVendidad  every  twelfth  day,  to  be  recited  in  the  Ush-
 
 
-CHAPTER    II,    58-62.  513
-
-whomever  prayer  is  offered  up,  and  the  Gatha-
-hymns  are  chanted,  it  is  as  though  the  whole  ritual
+whomever  prayer  is  offered  up,  and  the  Gathahymns  are  chanted,  it  is  as  though  the  whole  ritual
 had  been  recited,  and  the  G2L\\\2i-hymns  consecrated
 by  him  in  the  reign  of  King  Vi<rtasp.  61.  The  most
 perfectly  righteous  of  the  righteous  is  he  who
@@ -13258,28 +12345,22 @@ marriage  in  his  family.'
 '  In  these  nine  thousand  years  which  I,  Auharmazd,
 created,  mankind  become  most  perplexed  in  that
 perplexing  time ;  for  in  the  evil  reigns  of  Kz-\
-Dahak  and  Frasiyaz^  of  Tur  mankind,  in  those  per-
-plexing times,  were  living  better  and  living  more
+Dahak  and  Frasiyaz^  of  Tur  mankind,  in  those  perplexing times,  were  living  better  and  living  more
 
-ahin  Gah  ( 1 2  p.  M.  to  6  a.  m.)  in  honour  of  the  angel  whose  propi-
-tiation ends  that  day.
+ahin  Gah  ( 1 2  p.  M.  to  6  a.  m.)  in  honour  of  the  angel  whose  propitiation ends  that  day.
 
 3.  Dah-homast/  ten  homasts,' differs  from  the  preceding  merely
 in  having  a  Vendidad,  in  addition  to  the  Yasna,  every  day.
 
 4.  Dvazdah-homast, '  twelve  homasts,'  are  prayers  recited  for
-264  days  in  honour  of  twenty-two  angels,  namely,  the  twelve  afore-
-said and  the  following  ten :  Bahman,  Ardibahi^t,  Shahrivar,  Mihir,
+264  days  in  honour  of  twenty-two  angels,  namely,  the  twelve  aforesaid and  the  following  ten :  Bahman,  Ardibahi^t,  Shahrivar,  Mihir,
 Bahram,  Ram,  Dm,  Rashnu,  Qbs,  and  A^tad.  Each  angel,  in
 turn,  is  reverenced  as  in  the  last.
 
-The  celebration  of  ho  mast  costs  350  rupis,  that  of  khaduk-
-homast  422  rfipis,  that  of  dah-homast  1000  rupis,  and  that  of
+The  celebration  of  ho  mast  costs  350  rupis,  that  of  khadukhomast  422  rfipis,  that  of  dah-homast  1000  rupis,  and  that  of
 dvazdah-homast  2000  rupis  ;  but  the  first  and  third  are  now  no
-longer  used.  The  merit  obtained  by  having  such  recitations  per-
-formed is  equivalent  to  1000  tanapfihars  for  each  Yasna,  10,000
-for  each  Visparad,  and  70,000  for  each  Vendidad  recited.  A  tana-
-puhar  is  now  considered  as  a  weight  of  1200  dirhams,  with
+longer  used.  The  merit  obtained  by  having  such  recitations  performed is  equivalent  to  1000  tanapfihars  for  each  Yasna,  10,000
+for  each  Visparad,  and  70,000  for  each  Vendidad  recited.  A  tanapuhar  is  now  considered  as  a  weight  of  1200  dirhams,  with
 which  serious  sins  and  works  of  considerable  merit  are  estimated ;
 originally  it  must  have  meant  a  sin  which  was  '  inexpiable  '  by
 ordinary  good  works,  and,  conversely,  any  extraordinary  good
@@ -13298,8 +12379,7 @@ numerously,  and  their  disturbance  by  Aharman  and
 the  demons  was  less.  63.  For  in  their  evil  reigns,
 within  the  countries  of  Iran,  there  were  not  seven  ^
 towns  which  were  desolate  as  they  wi/l  be  when  it  is
-the  end  of  thy  millennium,  O  Zaratu^t  the  Spita-
-man!  for  all  the  towns  of  Iran  will  be  ploughed  up
+the  end  of  thy  millennium,  O  Zaratu^t  the  Spitaman!  for  all  the  towns  of  Iran  will  be  ploughed  up
 by  their  horses'  hoofs,  and  their  banners  ivill  reach
 unto  Part'ashkhvargar  2,  and  they  will  carry  away
 the  sovereignty  of  the  seat  of  the  religion  I  approve
@@ -13308,12 +12388,9 @@ place,   O   ZaratuJt  the    Spitam^n !    this    is  what   I
 
 foretell.'
 
-64.  Whoever  ^  of  those  existing,  thus,  with  rever-
-ence unto  the  good,  performs  much  worship  for
-Auharmazd,  Auharmazd,  aware  of  it  through  right-
-eousness, gives  him  whatsoever  Auharmazd  is  aware
-of  through  righteousness,  as  remuneration  and  re-
-ward of  duty  and  good  works,  and  such  members  of
+64.  Whoever  ^  of  those  existing,  thus,  with  reverence unto  the  good,  performs  much  worship  for
+Auharmazd,  Auharmazd,  aware  of  it  through  righteousness, gives  him  whatsoever  Auharmazd  is  aware
+of  through  righteousness,  as  remuneration  and  reward of  duty  and  good  works,  and  such  members  of
 
 
 ^  So  in  the  Pazand,  but  'seventeen'  in  Persian;  in  K20  tlie
@@ -13336,8 +12413,7 @@ yaunghilm/C'a,  tasH  taus/('a  yazamaide.
 And  it  may  be  translated  in  the  following  manner : —
 
 '  Of  whatever  male  of  the  existences,  therefore,  Ahuramazda  was
-better  cognizant,  through  righteousness  in  worship,  and  of  what-
-c^•cr  females,  both  those  males  and  those  females  we  reverence.'
+better  cognizant,  through  righteousness  in  worship,  and  of  whatc^•cr  females,  both  those  males  and  those  females  we  reverence.'
 
 
 CHAPTER    II,  63-III,   3.  215
@@ -13350,19 +12426,16 @@ they  are  good.
 Chapter  III.
 
 I.  Zarat^i-t  enquired  of  Auharmazd  thus  :  '  O
-Auharmazd,  propitious  spirit!  creator  of  the  mate-
-rial world,  righteous  one !  whence  do  they  restore
+Auharmazd,  propitious  spirit!  creator  of  the  material world,  righteous  one !  whence  do  they  restore
 this  good  religion  of  the  Mazdayasnians  ?  and  by
 what  means  will  they  destroy  these  demons  with
 dishevelled  halr\  of  the  race  of  Wrath?  2.  O
 creator !  grant  me  death  !  and  grant  my  favoured
-ones  death !  that  they  may  not  live  in  that  per-
-plexing time  ;  grant  them  exemplary  living !  that
+ones  death !  that  they  may  not  live  in  that  perplexing time  ;  grant  them  exemplary  living !  that
 they  may  not  prepare  wickedness  and  the  way  to
 heli;
 
-3.  Auharmazd  spoke  thus  :  'O  Zaratius-t  the  Spiti-
-man  !  after  the  ill-omened  ^  sovereignty  of  those  of
+3.  Auharmazd  spoke  thus  :  'O  Zaratius-t  the  Spitiman  !  after  the  ill-omened  ^  sovereignty  of  those  of
 the  race  of  Wrath  ^  there  is  a  fiend,  She^/aspih  ^  of
 the  Kilisyakih,  from  the  countries  of  Salman'';'  Mah-
 
@@ -13389,20 +12462,17 @@ and  hence  concluded  that  the  text  must  have  been  written  long'
 2l6  BAHMAN    YA^T.
 
 
-vand-da^  said  that  these  people  are  Rumaii  (Aru-
-mayik),  and  Roshan  ^  said  that  they  have  red
+vand-da^  said  that  these  people  are  Rumaii  (Arumayik),  and  Roshan  ^  said  that  they  have  red
 weapons,  red  banners,  andr^^  hats  (kill ah).  4.  '  It  is
 when  a  symptom  of  them  appears,  as  they  advance,
 O  Zaratui't  the  Spitaman !  the  sun  and  the  dark
 show  signs,  and  the  moon  becomes  manifest  of
 .various  colours;  earthquakes  (bum-gu^-and),  too,
-become  numerous,  and  the  wind  comes  more  vio-
-lently ;  in  the  world  want,  distress,  and  discomfort
+become  numerous,  and  the  wind  comes  more  violently ;  in  the  world  want,  distress,  and  discomfort
 come  more  into  view;  and  Mercury  and  Jupiter
 advance  the  sovereignty  for  the  vile  ^,  and  they  are
 in  hundreds  and  thousands  and  myriads.  5.  They
-have  the  red  banner  of  the  fiend  She^'aspih  of  Kili-
-syakih,  and  they  hasten  much  their  progress  to  these
+have  the  red  banner  of  the  fiend  She^'aspih  of  Kilisyakih,  and  they  hasten  much  their  progress  to  these
 countries  of  Iran  which  I,  Afiharmazd,  created,  up
 to  the  bank  of  the  Arvand  ^,'  some  have  said  ^  the
 Frat^  river,  'unto  the  Greeks  (Yunan)  dwelling  in
@@ -13414,8 +12484,7 @@ Sairima)  is  defined  by  Bund.  XX,  12,  which  places  the  sources  of
 the  Tigris  in  that  country.
 
 ^  The  name  of  a  commentator,  or  commentary,  often  quoted
-in  the  Pahlavi  Vendidad,  and  other  texts.  Mahvand-dad?  is  men-
-tioned in  the  Pahlavi  Yasna  (see  Sis.  I,  4).
+in  the  Pahlavi  Vendidad,  and  other  texts.  Mahvand-dad?  is  mentioned in  the  Pahlavi  Yasna  (see  Sis.  I,  4).
 
 2  The  Paz.  MSS.  state  that  '  Mercury  and  Jupiter  beat  down  the
 strength  of  Venus.'
@@ -13444,28 +12513,24 @@ their  abode,  some  have  said  the  lurking-\^o\^%
 (grestak)  of  the  demons.
 
 6.  '  They  turn  back  those  of  the  race  of  Wrath  ^  in
-hundreds  and  thousands  and  myriads  ;  and  the  ban-
-ners, standards,  and  an  innumerable  army  of  those
+hundreds  and  thousands  and  myriads  ;  and  the  banners, standards,  and  an  innumerable  army  of  those
 demons  with  dishevelled  hair  will  come  to  these
 countries  of  Iran  which  I,  Auharmazd,  created.  7.
 And  the  army  of  the  invader-  is  an  extending  enemy
-of  the  Turk  3  and  even  the  KarmS  be  it  with  ban-
-ners aloft  when  he  shall  set  up  a  banner,  be  it
+of  the  Turk  3  and  even  the  KarmS  be  it  with  banners aloft  when  he  shall  set  up  a  banner,  be  it
 through  the  excessive  multitude  which  will  remain —
 like  hairs  in  the  mane  of  a  horse — in  the  countries
 of  Iran  which  I,  Auharmazd,  created.
 
 8.  'The  leathern-belted  Turk  and  the  Ruman
-She^aspih  of  Kilisyakih  come  forth  with  simul-
-taneous movement  ^  and  in  three  places,  with
+She^aspih  of  Kilisyakih  come  forth  with  simultaneous movement  ^  and  in  three  places,  with
 similar  strife,  there  was  and  will  be  three  times
 a  great  contest  (ar^ih),  O  Zaratu^t  the  Spttaman !
 9.   One   in  the  reign   of  Kai-Kaus  ^  when  through
 
 
 may  be  sakht  ^umal,  '  extreme  beauty,'  or  Sakhtimar  (the  name
-of  a  place),  or  this  may  stand  for  sakht  timar,  '  severe  misfor-
-tune ; '  and  other  readings  are  possible.
+of  a  place),  or  this  may  stand  for  sakht  timar,  '  severe  misfortune ; '  and  other  readings  are  possible.
 
 ^  It  is  not  quite  clear  which  party  will  turn  the  other  back.
 
@@ -13489,14 +12554,12 @@ together,  so  as  to  become  Kai-gails,  and  this  form  of  the  name  is
 
 
 the  assistance  of  demons  ^V  was  with  the  archangels ;
-and  the  second  when  thou,  O  Zaratuj't  the  Spita-
-man !  receivedst  the  rehgion  and  /mds^  thy  con-
+and  the  second  when  thou,  O  Zaratuj't  the  Spitaman !  receivedst  the  rehgion  and  /mds^  thy  con-
 ference, and  King  Vi^tasp  and  Ar^asp  \  miscreated
 by  wrath,  7vere,  through  the  war  of  the  rehgion,  in
 the  combat  of  Spe^-ra<^ur  ("the  hoary  forest 2"),'
 some  have  said  i^  zvas  in  Pars  ;  '  and  the  third  when
-it  is  the  end  of  thy  millennium,  O  Zaratui't  the  Spita-
-man  !  when  all  the  three,  Turk,  Arab,  and  Ruman,
+it  is  the  end  of  thy  millennium,  O  Zaratui't  the  Spitaman  !  when  all  the  three,  Turk,  Arab,  and  Ruman,
 come  to  this  ^  place,'  some  have  said  the  plain  of
 Nii-anak^.  10.  'And  all  those  ^/ the  countries  of
 Iran,  which  I,  Auharmazd,  created,  come  from  their
@@ -13518,8 +12581,7 @@ often  read  Kahus  or  Kahos  in  Pazand  (see  Mkh.VIII,  27,  XXVII,
 
 2  See  Bund.  XXIV,  16.
 
-^  Perhaps  'one'  is  meant,  as  hana,  'this,'  is  sometimes  substi-
-tuted for  ae,  '  one,'  both  being  read  e  in  Pazand.
+^  Perhaps  'one'  is  meant,  as  hana,  'this,'  is  sometimes  substituted for  ae,  '  one,'  both  being  read  e  in  Pazand.
 
 "  The  reading  of  this  name  is  quite  uncertain.
 
@@ -13539,13 +12601,11 @@ CHAPTER    III,    lO,   II.  219
 
 
 they  may  use  it  anew,  and  the  fire  may  become
-shinine  in  these  countries* of  Iran  which  I,  Auhar-
-mazd,  created.  11.  For  when  one  shall  be  able  to
+shinine  in  these  countries* of  Iran  which  I,  Auharmazd,  created.  11.  For  when  one  shall  be  able  to
 save  his  own  life,  he  has  then  no  recollection  of
 wife,  child,  and  wealth,  that  they  may  not  live,  m
 that  perplexing  time,  O  Zaratu^t !  yet  the  day  when
-the  hundredth  winter  becomes  the  end  of  thy  mil-
-lennium, which  is  that  of  Zaraturt,  is  so  that
+the  hundredth  winter  becomes  the  end  of  thy  millennium, which  is  that  of  Zaraturt,  is  so  that
 nothing  wicked  may  go  from  this  millennium  into
 that  millennium  ^'
 
@@ -13590,8 +12650,7 @@ world,  righteous  one!  when  they  are  so  many  in
 number,  by  what  means  will  they  be  able  to
 perish  ^  ? '
 
-13.  Afiharmazd  spoke  thus  :  '  O  Zarati\j-t  the  Spi-
-taman !  when  the  demon  with  dishevelled  hair  of
+13.  Afiharmazd  spoke  thus  :  '  O  Zarati\j-t  the  Spitaman !  when  the  demon  with  dishevelled  hair  of
 the  race  of  Wrath  comes  into  notice  in  the  eastern
 quarter,  first  a  black  token  becomes  manifest,  and
 Hushe^ar  son  of  Zaratiut  is  born  on  Lake  Frazdan^.
@@ -13606,11 +12665,9 @@ earlier,  and  his  millennium  must  have  ended  a.  d.  593-595-  But
 according  to  the  imperfect  chronology  of  Bund.  XXXIV  the  tenth
 millennium  of  the  world,  that  of  Capricornus,  commenced  with  '  the
 coming  of  the  religion,'  and  ended,  therefore,  in  a.  d.  635,  the
-fourth  year  of  Yazdakar^/,  the  last  Sasanian  king,  when  the  Muham-
-madans  were  just  preparing  for  their  first  invasion  ;  so  the  millen-
+fourth  year  of  Yazdakar^/,  the  last  Sasanian  king,  when  the  Muhammadans  were  just  preparing  for  their  first  invasion  ;  so  the  millen-
 nium of  Aquarius  is  very  nearly  coincident  with  that  of  Hushe^/ar,
-and  may  probably  be  intended  to  represent  it.  It  appears,  there-
-fore, that  the  millennium  of  Hushe^ar  is  altogether  past,  having
+and  may  probably  be  intended  to  represent  it.  It  appears,  therefore, that  the  millennium  of  Hushe^ar  is  altogether  past,  having
 extended  from  a.d.  593-635  to  a.d.  i 593-1 635.
 
 ^  The  Paz.  MSS.  omit§  12.  The  writer  having  detailed  the  evils
@@ -13620,8 +12677,7 @@ the  means  adopted  for  partially  counteracting  those  evils.
 2  See  Bund.  XXII,  5,  XXXII,  8,  The  P^z.  MSS.  add,  'they
 bring  him  up  in  Zavulistan  and  Kavulistan ; '  and  the  Pers.  version
 says,  '  on  ihe  frontier  of  Kabulistan.'  With  regard  to  the  time  of
-Hushe(^ar's  birth,  see  §  44.  His  name  is  always  written  Khur-
-she^/ar  in  K20.
+Hushe(^ar's  birth,  see  §  44.  His  name  is  always  written  Khurshe^/ar  in  K20.
 
 ^  The  Paz.  and  Pers.  versions  say, '  at  thirty  years  of  age,'  as  in
 §  44-
@@ -13644,18 +12700,15 @@ woman  becomes  ruler.
 
 17.  'That  prince  when  he  is  thirty  years  old' —
 some  have  told  the  time — '  comes  with  innumerable
-banners  and  divers  armies,  Hindu  and  Alni'*,  hav-
-ing uplifted  banners — for  they  set  up  their  banners
+banners  and  divers  armies,  Hindu  and  Alni'*,  having uplifted  banners — for  they  set  up  their  banners
 — having  exalted  banners,  and  having  exalted
 weapons ;  they  hasten  up  with  speed  ^  as  far  as  the
 Veh  river' — some  have  said  the  country  of  Bambo*' —
 
 *  as  far  as  Bukhar  and  the  Bukharans  within  its  bank,
 
-^  Bahram  the  illustrious  or  splendid  (Av.  vare>^anghan</,  com-
-pare Pers.  var^),  an  epithet  applied,  in  the  Avesta,  to  the  moon,
-Tijtrya,  the  scriptures,  the  royal  glory  of  the  Kayanians,  the  Ka-
-yanians  themselves,  and  the  hero  Thrita.  This  personage  may
+^  Bahram  the  illustrious  or  splendid  (Av.  vare>^anghan</,  compare Pers.  var^),  an  epithet  applied,  in  the  Avesta,  to  the  moon,
+Tijtrya,  the  scriptures,  the  royal  glory  of  the  Kayanians,  the  Kayanians  themselves,  and  the  hero  Thrita.  This  personage  may
 possibly  be  an  incarnation  of  the  angel  Bahram,  mingled  with  some
 reminiscences  of  the  celebrated  Persian  general  Bahram  A'opin ;
 but  see  §§  32,  49.
@@ -13663,15 +12716,13 @@ but  see  §§  32,  49.
 ^  A  commentator  who  is  quoted  in  the  Pahlavi  Yas.  XI,  22 ;  see
 also  Chap.  I,  7.
 
-*  The  22nd  day  of  the  eighth  month  of  the  Parsi  year,  corres-
-ponding to  October  7th  when  the  year  began  at  the  vernal  equinox,
+*  The  22nd  day  of  the  eighth  month  of  the  Parsi  year,  corresponding to  October  7th  when  the  year  began  at  the  vernal  equinox,
 as  the  Bundahii'  (XXV,  6,  7,  20,  21)  describes.
 
 *  That  is,  Bactrian  and  Samarkandian.
 
 ^  Or,  '  light  up  with  glitter,'  according  as  we  read  ta^end  or
-taz'end.  The  Paz.  MSS.  omit  §§  17-44,  except  one  or  two  iso-
-lated phrases.
+taz'end.  The  Paz.  MSS.  omit  §§  17-44,  except  one  or  two  isolated phrases.
 
 "  Spiegel  was  inclined  to  identify  this  name  with  Bombay,  but
 this  is  impossible,  as  the  MS.  K20  (in  which  the  name  occurs)  was
@@ -13682,8 +12733,7 @@ name  of  Bombay.     Its  original  name,  by  which  it  is  still  called  by
 222  BAHMAN    YAST.
 
 
-O  Zarat^^t  the  Spitam^n !  i8.  When  the  star  Jupi-
-ter comes  up  to  t^s  culminating  point  (balist)^  and
+O  Zarat^^t  the  Spitam^n !  i8.  When  the  star  Jupiter comes  up  to  t^s  culminating  point  (balist)^  and
 casts  Venus  down,  the  sovereignty  comes  to  the
 prince.  19.  Quite  innumerable  are  the  champions,
 furnished  with  arms  and  with  banners  displayed,'
@@ -13703,8 +12753,7 @@ the  text  is  evidently  to  be  sought  on  the  banks  of  the  Oxus  near
 Bukhara ;  the  Oxus  having  been  sometimes  considered  the  upper
 course  of  the  Arag,  and  sometimes  that  of  the  Veh  (see  Bund.  XX,
 22,  note  5).  It  is  hardly  probable  that  either  Bami  (Balkh)  or
-Bamiyan  would  be  changed  into  Bambo,  and  the  only  exact  repre-
-sentative of  this  name  appears  to  be  Bamm,  a  town  about  120
+Bamiyan  would  be  changed  into  Bambo,  and  the  only  exact  representative of  this  name  appears  to  be  Bamm,  a  town  about  120
 miles  S.  E.  of  Kirman ;  this  is  quite  a  different  locality  from  that
 mentioned  in  the  text,  but  it  is  hazardous  to  set  bounds  to  the
 want  of  geographical  knowledge  displayed  by  some  of  the  Pahlavi
@@ -13733,8 +12782,7 @@ it  is  possible  that  the  writer  meant  to  say,  '  of  whom  I  told  thee
 CHAPTER    III,    18-22.  223
 
 
-that  they  will  slay  an  excessive  number,  in  com-
-panionship and  under  the  same  banner,  for  these
+that  they  will  slay  an  excessive  number,  in  companionship and  under  the  same  banner,  for  these
 countries  of  Iran.
 
 21.  '  Those  of  the  race  of  Wrath  and  the  extensive
@@ -13786,8 +12834,7 @@ ridge  (Bund.  XII,  8).
 
 
 23.  '  When  it  is  the  end  of  the  time\  O  Zaratui-t
-the  Spitaman!  those  enemies  will  be  as  much  de-
-stroyed as  the  root  of  a  shrub  when  it  is  in  the  night
+the  Spitaman!  those  enemies  will  be  as  much  destroyed as  the  root  of  a  shrub  when  it  is  in  the  night
 on  which  a  cold  winter  arrives,  and  in  this  night  it
 sheds  its  leaves ;  and  they  will  reinstate  these
 countries  of  Iran  which   I,  Auharmazd,  created  ^
@@ -13817,8 +12864,7 @@ detailed  in  the  following  paragraphs.
 
 ^  See  Chap.  II,  36.
 
-*  The  two  angels  who  are  the  special  messengers  of  Auhar-
-mazd to  mankind  (see  Bund.  XV,  i,  XXX,  29).  This  message
+*  The  two  angels  who  are  the  special  messengers  of  Auharmazd to  mankind  (see  Bund.  XV,  i,  XXX,  29).  This  message
 was  expected  to  be  sent  to  Peshyotanu  near  the  end  of  Hushe^ar's
 millennium  (see  §  51).
 
@@ -13826,8 +12872,7 @@ millennium  (see  §  51).
 «  See  Bund.  XXXI,  25.
 '  A  title  of  Peshyotanfi,  written  A'itro-maino  in  Bund.  XXIX,  5.
 
-*  This  was  the  twentieth  nask  or  '  book  '  of  the  complete  Maz-
-dayasnian  literature,  according  to  the  Dinkard^;  but  the  Dini-
+*  This  was  the  twentieth  nask  or  '  book  '  of  the  complete  Mazdayasnian  literature,  according  to  the  Dinkard^;  but  the  Dini-
 vag^arkart/  and  the  Rivayats  make  it  the  twenty-first,  and  say  very
 
 
@@ -13846,8 +12891,7 @@ the  nature  of  the  recital  of  the  Ahunavar,  which  is  the  spiritual
 benefit  from  chanting  it  aloud,  and  whatever  is  on  the  same
 subject.  Admonition  about  selecting  a7id  keeping  a  spiritual  and
 worldly  high-priest,  performing  every  duty  as  to  the  high-priest,
-and  maintaining  even  those  of  various  high-priests.  On  the  twenty-
-one  chieftainships  of  the  spirits  in  Auharmazd,  and  of  the  worldly
+and  maintaining  even  those  of  various  high-priests.  On  the  twentyone  chieftainships  of  the  spirits  in  Auharmazd,  and  of  the  worldly
 existences  in  Zaratu.s-t,  among  which  are  the  worship  of  God  and
 the  management  of  the  devout.  On  the  duty  requisite  in  each  of
 the  five  different  periods  of  the  day  and  night,  and  the  fate  at  the
@@ -13864,16 +12908,13 @@ from  uttering  good  words  for  blessing  the  eating  and  drinking  of
 food  and  drink,  and  rebuking  the  inward  talk  of  the  demons.  On
 the  recitations  at  the  five  periods  of  the  day,  and  the  ceremonial
 invocation  by  name  of  many  angels,  each  separately,  and  great
-information  on  the  same  subject;  the  worthiness  of  a  man  re-
-strained by  authority,  the  giving  of  life  and  body  to  the  angels,  the
+information  on  the  same  subject;  the  worthiness  of  a  man  restrained by  authority,  the  giving  of  life  and  body  to  the  angels,  the
 good  rulers,  and  their  examination  and  satisfaction;  the  blessing
 and  winning  words  which  are  most  successful  in  carrying  off  the
-affliction  which  proceeds  from  a  fiend.  On  all-pleasing  creative-
-ness  and  omniscience,  and  all  precedence  (?),  leadership,  foresight(?),
+affliction  which  proceeds  from  a  fiend.  On  all-pleasing  creativeness  and  omniscience,  and  all  precedence  (?),  leadership,  foresight(?),
 worthy  liberality,  virtue  (?),  and  every  proper  cause  and  effect  of
 righteousness ;  the  individuality  of  righteousness,  the  opposition  to
-the  demons  of  Auharmazd's  opinion,  and  also  much  other  informa-
-tion in  the  same  section.
+the  demons  of  Auharmazd's  opinion,  and  also  much  other  information in  the  same  section.
 
 'The  middle  division  has  102  sections,  treatises  on  spiritual  and
 worldly  diligence,  the  leadership  of  the  diligent,  and  their  mighty
@@ -13885,8 +12926,7 @@ worldly  diligence,  the  leadership  of  the  diligent,  and  their  mighty
 
 
 26.  '  And  Neryosang  proceeds,  Tvtfk  Srosh  the
-righteous,  from  the  good  A'akartM-Dattik^  to  Kang-
-de^,  which  the  ilhistrious  Siyavakhsh  formed,  and
+righteous,  from  the  good  A'akartM-Dattik^  to  Kangde^,  which  the  ilhistrious  Siyavakhsh  formed,  and
 cries  out  from  it  thus  :  "  Walk  forth,  O  ilhistrious
 PeshyotanCi !  O  Altro-miyan  son  of  Vii^tasp,  glory  of
 the  Kayans,  just  restorer  of  the  religion  !  walk  forth
@@ -13905,8 +12945,7 @@ were  of  the  good  spirit.  28.  They  walk  up  with
 means,  all  former  deeds  of  righteousness ;  righteousness  kindling
 the  resolution  is  the  reward  of  merit,  each  for  each,  and  is  adapted
 by  it  for  that  ^  which  it  is  said  that  //  is  the  Hart'okht  which  is  the
-maintaining  of  righteousness,  so  that  they  may  make  righteous-
-ness more  abiding  in  the  body  of  a  man.
+maintaining  of  righteousness,  so  that  they  may  make  righteousness more  abiding  in  the  body  of  a  man.
 
 '  The  last  division  has  nineteen  sections  of  trusty  remedies,  that
 is,  remedies  whose  utterance  aloud  by  the  faithful  is  a  chief  resource
@@ -13934,8 +12973,7 @@ CHAPTER    III,   26-31.  227
 
 the  fire  of  the  waters ;  with  the  illustrious  Hart'okht
 they  bless  me,  Auharmazd,  with  the  archangels;
-and  after  that  it  demolishes  one-third  of  the  opposi-
-tion. 29.  And  the  illustrious  Peshyotanu  walks
+and  after  that  it  demolishes  one-third  of  the  opposition. 29.  And  the  illustrious  Peshyotanu  walks
 forth,  with  the  hundred  and  fifty  men  who  wear
 black  marten  fur,  and  they  celebrate  the  rituals
 (yasnan)  of  the  Gadman-homand  ("glorious")  fire,
@@ -13947,8 +12985,7 @@ Horvadart',  and  Ameroda^,  and  the  ceremonial  (ya-
 and  pray  over  the  sacred  twigs  ;  aiid  the  ritual  of
 Horvada^  and  Ameroda^^,  in  the  chapter  of  the
 code  of  religious  formulas  (ntrangistan)^  demo-
-_  lishes  three-thirds  of  the  opposition.  30.  Peshyo-
-tanti  son  of  Vi^tasp  walks  forth,  with  the  assistance
+_  lishes  three-thirds  of  the  opposition.  30.  Peshyotanti  son  of  Vi^tasp  walks  forth,  with  the  assistance
 of  the  Froba  fire,  the  fire  Gu-?nasp,  and  the  fire
 Bur^in-Mitro  ^  to  the  great  idol-temples,  the  abode
 of  the  demons^;  and  the  wicked  evil  spirit,  Wrath
@@ -13962,8 +12999,7 @@ Mount  HCikairyartfs  with  the  archangels,  and  I  issue
 
 
 1  See  Bund.  XVII,  5,  6.  This  appears  to  be  an  allusion  to  the
-removal  of  the  sacred  fire  by  Vi^iasp,  from  the  '  glorious '  moun-
-tain in  Khvarizem  to  the  '  shining '  mountain  in  Kavulistan.
+removal  of  the  sacred  fire  by  Vi^iasp,  from  the  '  glorious '  mountain in  Khvarizem  to  the  '  shining '  mountain  in  Kavulistan.
 
 2  See  Chap.  II,  37.
 
@@ -13985,29 +13021,24 @@ orders  to  the  archangels  that  they  should  speak  to
 the  angels  of  the  spiritual  existences  thus  :  "  Proceed
 to  the  assistance  of  the  illustrious  Peshyotanu!"  32.
 Mitro  of  the  vast  cattle-pastures,  Srosh  the  vigorous,
-Rashn  the  just,  Vahram^  the  mighty,  Ast3.d  the  vic-
-torious, and  the  glory  of  the  religion  of  the  Mazda-
-yasnians,  the  stimulator  of  religious  formulas  (ni-
-rang),  the  arranger  of  the  world,  proceed'^  to  the
+Rashn  the  just,  Vahram^  the  mighty,  Ast3.d  the  victorious, and  the  glory  of  the  religion  of  the  Mazda-
+yasnians,  the  stimulator  of  religious  formulas  (nirang),  the  arranger  of  the  world,  proceed'^  to  the
 assistance  of  the  illustrious  Peshyotanu,  through  the
 order  of  which  I,  the  creator,  have  just  written  ^
 
 ^i-^.  ^Out  of  the  demons  of  gloomy  race  the  evil
 spirit  cries  to  Mitro  of  the  vast  cattle-pastures  thus :
-"  Stay  above  in  truth  *,  thou  Mitro  of  the  vast  cattle-
-pastures  !"
+"  Stay  above  in  truth  *,  thou  Mitro  of  the  vast  cattlepastures  !"
 
 34.  'And  then  Mitro  of  the  vast  cattle-pastures
 cries  thus  :  '*  Of  these  nine  thousand  years'  support,
 which  during  its  beginning  produced  Dahak  of  evil
-religion,  Frasiyaz^  of  Ttir,  and  Alexander  ^  the  RCi-
-man,  the  period  of  one  thousand  years  of  those
+religion,  Frasiyaz^  of  Ttir,  and  Alexander  ^  the  RCiman,  the  period  of  one  thousand  years  of  those
 leathern-belted  demons  with  dishevelled  hair  is  a
 more  than  moderate  reign  to  produce''."
 
 35.  'The  wicked  evil  spirit  becomes  confounded
-when  he  heard  this ;  Mitrd  of  the  vast  cattle-pas-
-tures will  smite  Wrath  of  the   infuriate  spear  with
+when  he  heard  this ;  Mitrd  of  the  vast  cattle-pastures will  smite  Wrath  of  the   infuriate  spear  with
 
 
 ^  The  fact  that  the  angel  Vahram  goes  in  his  spiritual  form  to
@@ -14033,8 +13064,7 @@ CHAPTER    III,    32-39.  229
 Stupefaction ;  and  the  wicked  evil  spirit  flees,  with
 the  miscreations  and  evil  progeny  he  flees  back  to
 the  darkest  recess  of  hell.  36.  And  Mitro  of  the
-vast  cattle-pastures  cries  to  the  illustrious  Peshyo-
-tanii  thus  :  "  Extirpate  and  utterly  destroy  the  idol-
+vast  cattle-pastures  cries  to  the  illustrious  Peshyotanii  thus  :  "  Extirpate  and  utterly  destroy  the  idol-
 temples,  the  abode  of  the  demons !  proceed  to  these
 countries  of  Iran  which  I,  Ataharmazd,  created!
 restore  again  the  throne  of  sovereignty  of  the
@@ -14045,8 +13075,7 @@ will  be  terrified."
 the  fire  Froba,  the  fire  Gu-fnasp,  and  the  triumphant
 fire  Bur^m-Mitro  will  smite  the  fiend  of  excessive
 strength  ;  he  will  extirpate  the  idol-temples  that  are
-the  abode  of  demons ;  and  they  celebrate  the  cere-
-monial (yas'i^n),  arrange  the  sacred  tv^'i^s,  solemnize
+the  abode  of  demons ;  and  they  celebrate  the  ceremonial (yas'i^n),  arrange  the  sacred  tv^'i^s,  solemnize
 the  Dva-S'dah-homast,  and  praise  me,  Auharmazd,
 with  the  archangels  ;  this  is  what  I  foretell  ^  38.
 The  illustrious  PeshyotanCl  walks  forth  to  these
@@ -14084,10 +13113,8 @@ period  goes  away,  and  the  sheep  period  comes  on  ;
 they  establish  the  fire  Froba,  the  fire  GCi^nasp,  and
 the  fire  Biir^in-Mitro  again  at  their  proper  places,
 and  they  will  properly  supply  the  firewood  and
-incense  ;  and  the  wicked  evil  spirit  becomes  con-
-founded and  unconscious,  with  the  demons  and  the
-progeny  of  gloom.  41.  And  so  the  illustrious  Peshyo-
-tanu  speaks  thus:  "Let  the  demon  be  destroyed,
+incense  ;  and  the  wicked  evil  spirit  becomes  confounded and  unconscious,  with  the  demons  and  the
+progeny  of  gloom.  41.  And  so  the  illustrious  Peshyotanu  speaks  thus:  "Let  the  demon  be  destroyed,
 and  the  witch  be  destroyed !  let  the  fiendishness
 and  vileness  of  the  demons  be  destroyed !  and  let
 the  gloomy  progeny  of  the  demons  be  destroyed !
@@ -14136,15 +13163,13 @@ Nothing  is  said  here  about  his  miraculous  birth,  the  details  of
 which  are  given  in  the  seventh  book  of  the  Dinkarfl?  very  much
 as  they  are  found  in  the  Persian  Rivayats.  The  Dinkar^/  states
 that  thirty  years  before  the  end  of  Zaratiut's  millennium  a  young
-maiden  bathing  in  certain  water,  and  drinking  it,  becomes  preg-
-nant through  the  long-preserved  seed  of  Zarati^ut  (see  Bund.
+maiden  bathing  in  certain  water,  and  drinking  it,  becomes  pregnant through  the  long-preserved  seed  of  Zarati^ut  (see  Bund.
 XXXII,  8,  9),  and  subsequently  gives  birth  to  Husha/ar.
 
 ^  There  seems  to  be  no  other  rational  way  of  understanding  this
 number  than  by  supposing  that  it  represents  the  date  of  Hushe-
 (/ar's  birth,  counting  from  the  beginning  of  Zaratfijt's  millennium.
-According  to  this  view  Hushe^ar  was  to  be  born  in  the  six  hun-
-dredth year  of  his  own  millennium,  and  not  at  its  beginning,  as
+According  to  this  view  Hushe^ar  was  to  be  born  in  the  six  hundredth year  of  his  own  millennium,  and  not  at  its  beginning,  as
 §  1 3  seems  to  imply,  nor  nearly  thirty  years  earlier,  as  the  Dinkar^
 asserts.  As  the  beginning  of  his  millennium  may  be  fixed  about
 A.  D.  593-635  (see  note  on  §  11),  the  writer  must  have  expected
@@ -14154,8 +13179,7 @@ far  in  the  future  when  he  was  writing.  And  as  Vahram  the  Var-
 (compare  §§  14,  44),  and  was  to  march  into  Iran  at  the  age  of
 thirty  (§  17),  the  great  conflict  of  the  nations  (§§  8,  19-22)  was
 expected  to  begin  about  a.d.  i 253-1 295,  and  to  continue  till  near
-the  end  of  the  millennium,  about  a.d.  i 593-1 635,  when  Peshyo-
-tanu  was  expected  to  appear  (§  51)  and  to  restore  the  'good'
+the  end  of  the  millennium,  about  a.d.  i 593-1 635,  when  Peshyotanu  was  expected  to  appear  (§  51)  and  to  restore  the  'good'
 religion  (§§  26,  37,  42).  An  enthusiastic  Parsi  interpreter  of
 prophecy  might  urge  that  though  this  period  did  not  witness  any
 revival  of  his  religion,  it  did  witness  a  restoration  of  the  Persian
@@ -14171,19 +13195,16 @@ remnant  of  his  fellow-countrymen.
 
 days  and  nights ;  and  when  this  happens  all  the
 people  of  the  world  abide  by  the  good  religion  of
-the  Mazdayasnians.  47.  Mitro  of  the  vast  cattle-
-pastures  cries  to  Hushe^ar,  so7i  of  Zaratu-rt,  thus  :
+the  Mazdayasnians.  47.  Mitro  of  the  vast  cattlepastures  cries  to  Hushe^ar,  so7i  of  Zaratu-rt,  thus  :
 "  O  Husherf'ar,  restorer  of  the  true  religion  !  cry  to
 the  sun  with  the  swift  horse  thus  :  '  Move  on  !'  for  it
-is  dark  in  the  regions  of  Arzah  and  Savah,  Frada-
-da.{sh  and  Vida^afsh,  Vorubari-t  and  Voru^ar^t,  and
+is  dark  in  the  regions  of  Arzah  and  Savah,  Fradada.{sh  and  Vida^afsh,  Vorubari-t  and  Voru^ar^t,  and
 the  illustrious  Khvaniras  ^."
 
 48.  'Hushe^ar  son  of  Zaratu5-t  cries,  to  the  sun  he
 cries,  thus  :  "Move  on  !"  49.  The  sun  with  the  swift
 horse  moves  on,  and  Var^avand  ^  and  all  mankind
-fully  believe  in  the  good  religion  of  the  Mazda-
-yasnians.'
+fully  believe  in  the  good  religion  of  the  Mazdayasnians.'
 
 50.  Auharmazd  spoke  thus  :  '  O  Zaratu^t  the
 Spitaman !  this  is  what  I  foretell,  that  this  one
@@ -14195,8 +13216,7 @@ enemies  who  relied  upon  fiendishness,  such  as  the
 Turk,  Arab,  and  Ruman,  and  the  vile  ones  who
 control  the  Iranian  sovereign  with  insolence  and
 oppression  and  enmity  to  the  sovereignty,  destroy
-the  fire  and  make  the  religion  weak ;  and  they  con-
-vey their  power  and  success  to  him  and  every  one
+the  fire  and  make  the  religion  weak ;  and  they  convey their  power  and  success  to  him  and  every  one
 who  accepts  the  law  and  religion   willingly;  if  he
 
 ^  The  seven  regions  of  the  earth  (see  Bund.  XI,  2,  3).
@@ -14221,13 +13241,11 @@ kzm  1  till  it  is  the  end  of  the  whole  millennium.
 52.  'And,  afterwards,  when  the  millennium  of
 Hushe^ar-mah  comes,  through  Hushe^ar-mah  ^  the
 creatures  become  more  progressive,  and  he  utterly
-destroys  the  fiend  of  serpent  origin  ^ ;  and  Peshyo-
-tanu  son  of  Vi^tasp  becomes,  in  like  manner,  high-
+destroys  the  fiend  of  serpent  origin  ^ ;  and  Peshyotanu  son  of  Vi^tasp  becomes,  in  like  manner,  high-
 priest  and  primate  (ra^)  of  the  world  ^  53-1^  that
 millennium-  of  Hiishefl'ar-mah  mankind  become  so
 versed  in  medicine,  and  keep  and  bring  physic  and
-remedies  so  ^rnicA  in  use,  f/ia^  when  they  are  con-
-fessedly at  the  point  of  death  they  do  not  thereupon
+remedies  so  ^rnicA  in  use,  f/ia^  when  they  are  confessedly at  the  point  of  death  they  do  not  thereupon
 die,  nor  when  they  smite  and  slay  ^/lem  with  the
 sword  and  knife  ^.
 
@@ -14251,8 +13269,7 @@ Yt.  8,  10,  II,  15;  but  Az-i  Dahak, 'the  destructive  serpent,'  is
 probably  meant  here  (see  §§  56-61).
 
 *  As  in  the  previous  millennium.  According  to  the  chronology
-deduced  from  §  44  the  millennium  of  Hushe^ar-mah,  which  corres-
-ponds to  the  twelfth  and  last  millennium  of  Bund.  XXXIV,  is  now
+deduced  from  §  44  the  millennium  of  Hushe^ar-mah,  which  corresponds to  the  twelfth  and  last  millennium  of  Bund.  XXXIV,  is  now
 near  the  middle  of  its  third  century.
 
 s  The  sentence  is  either  defective  or  obscure,  but  this  appears
@@ -14265,31 +13282,26 @@ apparently,  to  recommence  his  manoeuvres  for  injuring  mankind.
 234  BAHMAN    YA^-T.
 
 
-tain  of  DImavand  \  which  is  the  direction  of  Beva-
-rasp,  and  shouts  thus  :"  Now  it  is  nine  thousand
+tain  of  DImavand  \  which  is  the  direction  of  Bevarasp,  and  shouts  thus  :"  Now  it  is  nine  thousand
 years,  and  Fre^^un  is  not  Hving ;  why  do  you  not
-rise  up,  although  these  thy  fetters  are  not  re-
-moved, when  2  this  world  is  full  of  people,  and  they
+rise  up,  although  these  thy  fetters  are  not  removed, when  2  this  world  is  full  of  people,  and  they
 have  broueht  them  from  the  enclosure  which  Yim
 formed  ^  ? "
 
-56.  'After  that  apostate  shouts  like  this,  and  be-
-cause of  it,  A^-'i  Dahak  ^  stands  up  before  him,  but,
+56.  'After  that  apostate  shouts  like  this,  and  because of  it,  A^-'i  Dahak  ^  stands  up  before  him,  but,
 throuo-h  fear  of  the  likeness  of  Fre^un  in  the  body
 of  Fre^^un,  he  does  not  first  remove  those  fetters
 and  stake  from  his  trunk  until  Aharman  removes
 them.  57.  And  the  vigour  of  A^-i  Dahak  increases,
 the  fetters  being  removed  from  his  trunk,  and  his
-impetuosity  remains ;  he  swallows  down  the  apos-
-tate on  the  spot\  and  rushing  into  the  world  to
+impetuosity  remains ;  he  swallows  down  the  apostate on  the  spot\  and  rushing  into  the  world  to
 perpetrate  sin,  he  commits  innumerable  grievous
 sins;  he  swallows  down  one -third  of  mankind,
 cattle,  sheep,  and  other  creatures  of  Auharmazd ;  he
 smites  the  water,  fire,  and  vegetation,  and  commits
 grievous  sin.
 
-58.  'And,  afterwards,  the  water,  fire,  and  vegeta-
-tion stand  before  Auharmazd  the  lord  in  lamenta-
+58.  'And,  afterwards,  the  water,  fire,  and  vegetation stand  before  Auharmazd  the  lord  in  lamenta-
 tion, and  make  this  complaint:  "Make  Fre^un  alive
 again !  so  that  he  may  destroy  A^-i  Dahak ;  for  if
 thou,  O  Auharmazd!   dost  not  do  this,  we  cannot
@@ -14340,15 +13352,11 @@ in  the  plain  of  Pe^yansai  (see  Bund.  XXIX,  7-9).
 2  Reading  afaj  instead  of  minaj  (see  Chap.  II,  4,  note  2).
 
 2  The  thirteenth  millennium,  or  first  of  the  future  existence,
-when  Soshyans  appears.  The  Dinkar^/  and  the  Persian  Riva-
-yats  recount  the  same  legends  regarding  the  miraculous  birth  of
+when  Soshyans  appears.  The  Dinkar^/  and  the  Persian  Rivayats  recount  the  same  legends  regarding  the  miraculous  birth  of
 Soshyans,  and  of  the  sun  standing  still  (for  thirty  days),  as  they  do
 with  regard  to  Hushe</ar  (see  note  on  §  43).
 
 *  See  Bund.  XXXII,  8.
-
-
-SHAYAST    LA-SHAYAST
 
 
 OR
@@ -14377,20 +13385,17 @@ AV.  for  the  Book  of  Arrt'a-Viraf,  ed.  Hoshangji  and  Haug.  Bund,
 for  Bundahij,  as  translated  in  this  volume.  B.  Yt.  for  Bahman
 Yast,  as  translated  in  this  volume.  Chald.  for  Chaldee.  Farh.
 Okh.  for  Farhang-i  Gim-khadfak,  ed.  Hoshangji  and  Haug.  Haug's
-Essays,  for  Essays  on  the  Sacred  Language,  Writings,  and  Reli-
-gion of  the  Parsis,  by  Martin  Haug,  2nd  edition.  Huz.  for  Huz-
+Essays,  for  Essays  on  the  Sacred  Language,  Writings,  and  Religion of  the  Parsis,  by  Martin  Haug,  2nd  edition.  Huz.  for  Huz-
 varij.  Lev.  for  Leviticus.  Mkh.  for  Mainy6-i-khar</,  ed.  West.
 Nir.  for  Nirangistan.  Pahl.  for  Pahlavi.  Paz.  for  Pazand.  Pers.
 for  Persian.  Sis.  for  Shayast  la-shayast,  as  here  translated.  SZS.
 for  Selections  of  Za^-sparam,  as  translated  in  this  volume.  W.  for
-Westergaard.  Vend,  for  Vendidad,  ed.  Spiegel.  Visp.  for  Vispa-
-rad,  ed.  Spiegel.  Yas.  for  Yasna,  ed.  Spiegel.  Yt.  for  Yajt,  ed.
+Westergaard.  Vend,  for  Vendidad,  ed.  Spiegel.  Visp.  for  Visparad,  ed.  Spiegel.  Yas.  for  Yasna,  ed.  Spiegel.  Yt.  for  Yajt,  ed.
 Westergaard.
 
 7.  The  manuscripts  mentioned  in  the  notes  are: —
 
-B29  (written  a.d.  1679),  a  Rivayat  MS.,  No.  29  of  the  Univer-
-sity Library  at  Bombay.
+B29  (written  a.d.  1679),  a  Rivayat  MS.,  No.  29  of  the  University Library  at  Bombay.
 
 K20  (about  500  years  old).  No.  20  in  the  University  Library  at
 Kopenhagen.
@@ -14409,17 +13414,13 @@ TD  (written  about  a.d.  1530),  a  MS.  of  the  Bundahii-  belonging
 to  Mobad  Tehmuras  Dinshawji  Anklesaria  at  Bombay.
 
 
-SHAYAST     LA-SHAYAST.
-
-
 Part  I. —  The  Original  Treatise.
 
 Chapter  I.
 
 0.  In  the  name  of  God  (yazdan)  and  the  good
 creation  may  there  be  the  good  health,  long  life,
-and  abundant  wealth  of  all  the  good  and  the  right-
-doers  specially  for  him  whose  writing  I  am  \
+and  abundant  wealth  of  all  the  good  and  the  rightdoers  specially  for  him  whose  writing  I  am  \
 
 1.  As  revealed  by  the  Avesta,  it  is  said  in  the
 Vendidad  ^  that  these  seven  degrees  (payak)  of  sin
@@ -14428,8 +13429,7 @@ Vendidad  ^  that  these  seven  degrees  (payak)  of  sin
 
 ^  Referring  to  Vend.  IV,  54-114,  where  seven  classes  of  assault
 and  their  respective  punishments  are  detailed.  In  our  text  eight
-classes  of  sin  are  named,  although  only  seven  degrees  are  men-
-tioned ;  the  second  and  third  classes  being  apparently  arranged
+classes  of  sin  are  named,  although  only  seven  degrees  are  mentioned ;  the  second  and  third  classes  being  apparently  arranged
 together,  as  one  degree  of  sin  in  §  2.  Or  the  inconsistency  may
 have  arisen  from  the  addition  of  the  Farman,  a  class  of  sin  or  crime
 not  mentioned  in  the  Vendidad,  unless,  indeed,  it  be  the  farman
@@ -14451,8 +13451,6 @@ him — zVis  thus  his  Aredui-,  that  is,  Areduj  is  implanted  in  him  an
 the  Avoirii-t  merges  into  it,  some  say  that  it  does  not  exist.  At
 the  fifth  Areduj  the  man  even  becomes  a  Tanapuhar ;  things  at
 
-
-240  SHAYAST    LA-SHAYAST.
 
 are  mentioned  in  revelation,  which  are  Farman,
 Agerept,  Avoiri^tS  Aredu^,  Khor,  Ba^-ai,  Yat,  and
@@ -14478,8 +13476,7 @@ and  Khor  in  Pahl.Vend.  Ill,  48,  XIII,  38,  and  Yas.  LVI,  iv,  2.
 other  places.
 
 ^  Five  of  these  names  are  merely  slight  alterations  of  the  Av,
-agerepta,  avaoiri^ta,  areduj,  /zz^ara,  and  tanuperetha  (pere-
-totanu  or  peshotanu).  The  last  seven  degrees  are  also  noticed
+agerepta,  avaoiri^ta,  areduj,  /zz^ara,  and  tanuperetha  (peretotanu  or  peshotanu).  The  last  seven  degrees  are  also  noticed
 in  a  very  obscure  passage  in  Farh.  Okh.  pp.  36,  37  (correcting  the
 text  from  the  old  MSS.  M6  and  K20)  as  follows : —
 
@@ -14492,11 +13489,9 @@ explains  Ba^ai  as  "  smiting,"  aiid  Yat  as"  going  to,"  and  the  soul
 of  man  ought  to  be  withstanding,  as  a  counterstroke  is  the  penalty
 for  a  Yat  when  it  has  been  so  much  away  from  the  abode  of  life.
 In  like  manner  Agerept,  Avoirut,  Aredu^,  Khor,  Bazai,  and  Yat
-are  also  called  good  works,  ivhich  are  performed  in  like  propor-
-tions, and  are  called  by  the  names  of  weights  and  measures  in  the
+are  also  called  good  works,  ivhich  are  performed  in  like  proportions, and  are  called  by  the  names  of  weights  and  measures  in  the
 same  manner.  Of  pesh6tanu>r  tanum  pairyeite  the  meaning  is
-a  Tanapuhar ;  as  they  call  a  good  work  of  three  hundred  a  Tana-
-puhar,  on  account  of  the  three  hundred  like  proportions  of  the
+a  Tanapuhar ;  as  they  call  a  good  work  of  three  hundred  a  Tanapuhar,  on  account  of  the  three  hundred  like  proportions  of  the
 same  kind,  the  meaning  of  its  name,  Tanapuhar,  thereupon  enters
 into  sin.  ...  A  Khor  is  just  that  description  of  wound  from  which
 
@@ -14509,17 +13504,14 @@ Agerept  and  Avoiri^'t  that  which  is  least  is  a
 scourging  (ta^rano),  and  the  amount  of  them  which
 was  specially  that  which  is  most  is  said  to  be  one
 dirham  - ;  an  Areduj  is  thirty  stirs'^;  a  Khor  is
-sixty  stirs ;  a  Ba^'ai  is  ninety  stirs ;  a  Yat  is  a  hun-
-dred and  eighty  stirs ;  and  a  Tanaptihar  is  three
+sixty  stirs ;  a  Ba^'ai  is  ninety  stirs ;  a  Yat  is  a  hundred and  eighty  stirs ;  and  a  Tanaptihar  is  three
 hundred  stirs*.
 
 
-the  blood  comes,  irrespective  of  where,  how,  how  much,  and  where-
-with it  is  inflicted  ;  it  is  that  which  is  a  wound  from  the  beginning,
+the  blood  comes,  irrespective  of  where,  how,  how  much,  and  wherewith it  is  inflicted  ;  it  is  that  which  is  a  wound  from  the  beginning,
 and  that  which  will  result  therefrom.'
 
-The  application  of  this  scale  of  offences  is,  however,  not  con-
-fined to  these  particular  forms  of  assault,  but  has  been  extended
+The  application  of  this  scale  of  offences  is,  however,  not  confined to  these  particular  forms  of  assault,  but  has  been  extended
 (since  the  Avesta  was  compiled)  to  all  classes  of  sins,  and  also  to
 the  good  works  which  are  supposed  to  counterbalance  them.
 
@@ -14530,10 +13522,8 @@ therefore,  be  estimated  at  200  grains.  The  Greeks  used  both  these
 weights,  which  they  called  SpaxMV  ^i^d  aruTrjp.
 
 ^  The  amounts  of  these  first  three  degrees  of  sin  are  differently
-stated  in  other  places  (see  Chaps.  XI,  2,  XVI,  1-3,  5).  It  is  diffi-
-cult to  understand  why  the  amounts  of  Agerept  and  Avoirii't  should
-here  be  stated  as  less  than  that  of  Farman,  and  some  Parsis,  there-
-fore, read  vihast  (as  an  irregular  form  ofvist,  'twenty')  instead
+stated  in  other  places  (see  Chaps.  XI,  2,  XVI,  1-3,  5).  It  is  difficult to  understand  why  the  amounts  of  Agerept  and  Avoirii't  should
+here  be  stated  as  less  than  that  of  Farman,  and  some  Parsis,  therefore, read  vihast  (as  an  irregular  form  ofvist,  'twenty')  instead
 of  vej-ast,  'is  most,'  so  that  they  may  translate  the  amount  as
 'twenty  dirhams;'  but  to  obtain  this  result  they  would  have  to
 make  further  alterations  in  the  Pahlavi  text.  In  a  passage  quoted
@@ -14554,14 +13544,11 @@ the  soul  is  called  to  account,  for  its  actions  during  life,  after  th
 [5]  R
 
 
-242  SHAYAST    LA-SHAYAST.
-
 3.   In  the  administration  of  the  primitive  faith  ^
 there  are  some  who  have  been  of  different  opinions
 
 
-third  night  after  death  (see  Mkh.  II,  114-122).  Its  sins  are  sup-
-posed to  be  then  weighed  against  its  good  works,  which  are  esti-
+third  night  after  death  (see  Mkh.  II,  114-122).  Its  sins  are  supposed to  be  then  weighed  against  its  good  works,  which  are  esti-
 mated by  the  same  scale  of  degrees  (see  the  passage  already  quoted
 from  Farh.  Okh.  in  p.  240,  note  2),  and  it  is  sent  direct  to  heaven,  or
 hell,  or  an  intermediate  place,  according  as  the  good  works  or  sins
@@ -14569,8 +13556,7 @@ preponderate,  or  are  both  equal.  In  the  Avesta  of  the  Vendidad,
 however,  whence  these  degrees  are  derived,  we  find  them  forming
 merely  a  graduated  scale  of  assaults,  extending  from  first  lifting
 the  hand  to  smite  even  unto  manslaughter ;  and  for  each  of  these
-seven  degrees  of  assault  a  scale  of  temporal  punishments  is  pre-
-scribed, according  to  the  number  of  times  the  offence  has  been
+seven  degrees  of  assault  a  scale  of  temporal  punishments  is  prescribed, according  to  the  number  of  times  the  offence  has  been
 committed.  These  punishments  consist  of  a  uniform  series  of
 lashes  with  a  horse-whip  or  scourge,  extending  from  a  minimum
 of  five  lashes  to  a  maximum  of  two  hundred  (see  Vend.  IV,
@@ -14580,8 +13566,7 @@ rising  through  the  scale  with  each  repetition  of  the  offence,  so  that
 the  more  aggravated  assaults  attain  the  maximum  punishment  by
 means  of  a  smaller  number  of  repetitions.  Thus,  the  punishments
 prescribed  for  Agerepta,  from  the  first  to  the  eighth  offence,  are  5,
-10,  15,  30,  50,  70,  90,  and  200  lashes  respectively;  those  for  Ava-
-oirijta,  from  the  first  to  the  seventh  offence,  extend  on  the  same
+10,  15,  30,  50,  70,  90,  and  200  lashes  respectively;  those  for  Avaoirijta,  from  the  first  to  the  seventh  offence,  extend  on  the  same
 scale  from  10  to  200  lashes;  those  for  Areduj-,  from  the  first  to
 the  sixth  offence,  are  from  1 5  to  200  lashes ;  those  for  a  bruised
 hurt  (-^yara),  from  the  first  to  the  fifth  offence,  are  from  30  to  200
@@ -14605,8 +13590,7 @@ CHAPTER    I,    3.  243
 
 
 about  it,  for  Gogo^asp^  spoke  otherwise  than  the
-teaching  2  (/^a^tak)  of  Ataro-Auharmazd^  and  Sosh-
-yans*  otherwise  than  the  teaching  of  Ataro-frobag
+teaching  2  (/^a^tak)  of  Ataro-Auharmazd^  and  Soshyans*  otherwise  than  the  teaching  of  Ataro-frobag
 N6sai^  and  Me«^6k-mah'^  otherwise  than  the  teaching
 of  Gogoi-asp^  and  Afarg®  otherwise  than  the  teaching-
 
@@ -14630,8 +13614,7 @@ Ataro  Auharmazdan.
 119,  III,  13,  VI,  4,  5;  also  in  Pahl.Vend.  Ill,  64,  69,  151,  IV,  6,
 V,  48,  80,  107,  121,  146,  153,  VI,  15,  64,  73,  VII,  4,  136,  168,
 VIII,  28,  59,  303,  IX,  184,  Xm,  20,  XVI,  7,  10,  17,  20-22,  27,
-XVIII,  98,  and  forty-six  times  in  the  Nirangistan.  He  was  a  name-
-sake of  the  last  of  the  future  apostles  and  sons  of  Zaratujt  (see
+XVIII,  98,  and  forty-six  times  in  the  Nirangistan.  He  was  a  namesake of  the  last  of  the  future  apostles  and  sons  of  Zaratujt  (see
 Bund.  XXXII,  8),  and  his  name  is  often  written  Soshans  and  read
 Saoshyos  or  Sosyoj-  by  Pazand  writers.
 
@@ -14674,26 +13657,20 @@ Farh.  Okh.,  and  thirty-eight  times  in  the  Nirangistan.
 commentators  are  mentioned  in  the  previous  section,  and  a  fifth
 '  teaching '  is  mentioned  in  Chap.  II,  2.  The  original  reading
 was  more  probably  '  six '  than  '  four,'  as  a  Pahlavi  '  six  '  requires
-merely  the  omission  of  a  cipher  to  become  '  three,'  whereas  a  Pah-
-lavi '  four '  must  be  altered  to  produce  the  same  blunder.
+merely  the  omission  of  a  cipher  to  become  '  three,'  whereas  a  Pahlavi '  four '  must  be  altered  to  produce  the  same  blunder.
 
 Several  other  commentators  are  mentioned  in  Pahlavi  books,  such
-as  Atar6-pa(/,  son  of  Da</-farukh,  twice  in  the  Nirangistan;  Azad-
-mar^  nine  times  in  Nir. ;  Baroshand  Auharmazd  once  in  Nir.;  Dad
-Auharmazd  in  B.  Yt.  I,  7,  III,  16,  Pahl.  Yas.  X,  57,  XI,  22  ;  Dad-
-farukh  in  Pahl.  Vend.  V,  112,  VI,  64,  and  twice  in  Nir.;  Dart'-i-veh
+as  Atar6-pa(/,  son  of  Da</-farukh,  twice  in  the  Nirangistan;  Azadmar^  nine  times  in  Nir. ;  Baroshand  Auharmazd  once  in  Nir.;  Dad
+Auharmazd  in  B.  Yt.  I,  7,  III,  16,  Pahl.  Yas.  X,  57,  XI,  22  ;  Dadfarukh  in  Pahl.  Vend.  V,  112,  VI,  64,  and  twice  in  Nir.;  Dart'-i-veh
 seventeen  times  in  Nir. ;  Farukho  thrice  in  Nir. ;  Kiratano-buo-efl'
-in  Pahl.  Vend.  V,  80,  VI,  15,  IX,  184,  XIII,  20,  he  is  called  the  Kir-
-manik  in  Pahl.  Vend.  IV,  35,  and  Dastur  Hoshangji  thinks  his  name
+in  Pahl.  Vend.  V,  80,  VI,  15,  IX,  184,  XIII,  20,  he  is  called  the  Kirmanik  in  Pahl.  Vend.  IV,  35,  and  Dastur  Hoshangji  thinks  his  name
 is  merely  a  variant  of  the  next;  Kiashtan6-bia^e</ in  Sis.  II,  57,  81,
 118,  VI,  6,  Vm,  17,  Pahl.  Vend.  Ill,  64,  69,  IV,  6,V,  48,  VI,  53,
 64,  73,  VIII,  28,  XVI,  17,  2  1,  22,  27,  and  twenty-two  times  in
-Nir. ;  Mah- Auharmazd  in  Pahl.  Vend.  VII,  82  ;  Mah-gojaspo,  Mah-
-goxospo,  Mah-gospo,  or  Mah-vasp  in  Pahl.  Yas.  IX,  33,  Pahl.  Vend.
+Nir. ;  Mah- Auharmazd  in  Pahl.  Vend.  VII,  82  ;  Mah-gojaspo,  Mahgoxospo,  Mah-gospo,  or  Mah-vasp  in  Pahl.  Yas.  IX,  33,  Pahl.  Vend.
 Ill,  138,  and  ten  times  in  Nir.;  Mahvand-da<f  or  Mah-vinda^  in
 B.  Yt.III,  3,Pahk  Yas.  IX,  33,  X,  57,  XI,  22,  XIX,  27;  Mar^-bu^
-in  Sis.  II,  86,  and  twice  in  Nir.,  where  he  is  called  the  son  of  Dad-
-gun;  Neryosang  in  Sis.  VIII,  13,  Pahl.  Vend.  V,  22;  Nikhsha-
+in  Sis.  II,  86,  and  twice  in  Nir.,  where  he  is  called  the  son  of  Dadgun;  Neryosang  in  Sis.  VIII,  13,  Pahl.  Vend.  V,  22;  Nikhsha-
 puhar,  or  Nishapuhar  in  Pahl.  Vend.  Ill,  151,  V,  112,  VI,  71,
 VIII,  64,  XVI,  10,  17,  AV.I,  35,  and  twenty-four  times  in  Nir.;
 Nosai  Burz-Mitro  in  Sis.  VIII,  18;  Parik  or  Pirik  in  PahLVend.
@@ -14711,8 +13688,7 @@ CHAPTERS    I,    4-II,    2.  245
 
 Chapter  II.
 
-I.  For  in  the  third  fargar^  ('chapter')  of  the  Ven-
-didad  of  Mefl!ok-mah  ^  it  is  declared  that  when  Hfe  is
+I.  For  in  the  third  fargar^  ('chapter')  of  the  Vendidad  of  Mefl!ok-mah  ^  it  is  declared  that  when  Hfe  is
 resigned  without  effort  ^,  at  the  time  when  the  hfe
 departs,  when  a  dog  is  tied  to  his  foot,  even  then
 the  Nasll^  ^  rushes  upon  it,  and  afterwards,  when
@@ -14726,8 +13702,7 @@ of  some  of  these  names  is  very  uncertain.
 
 .^  Alluding  probably  to  Me^'ok-mah's  complete  commentary  on
 the  Vendidad  (now  no  longer  extant),  as  the  commentary  on  Pahl.
-Vend.  Ill,  48,  which  treats  of  Sag-di</  or  dog-gaze,  does  not  men-
-tion IMert'ok-mah  or  any  of  the  details  described  here  in  the  text ;
+Vend.  Ill,  48,  which  treats  of  Sag-di</  or  dog-gaze,  does  not  mention IMert'ok-mah  or  any  of  the  details  described  here  in  the  text ;
 these  details,  however,  are  to  be  found  in  Pahl.  Vend.  VII,  4.
 
 ^  Reading  amat  bara  zor  ^an  da«/.  This  phrase  occurs
@@ -14739,8 +13714,7 @@ wash  with  holy-water.'
 ^  The  '  corruption '  which  is  supposed  to  enter  a  corpse  shortly
 after  death,  whence  it  issues  in  the  form  of  a  fiend  and  seizes  upon
 any  one  who  touches  the  corpse,  unless  it  has  been  destroyed,  or
-driven  away,  by  the  gaze  of  a  dog,  as  mentioned  in  the  text  (com-
-pare Vend.  VIII,  38-48).  The  carcase  of  a  dog  is  considered
+driven  away,  by  the  gaze  of  a  dog,  as  mentioned  in  the  text  (compare Vend.  VIII,  38-48).  The  carcase  of  a  dog  is  considered
 equally  contagious  with  the  corpse  of  a  human  being,  and  when
 the  fiend  of  corruption  (Nasu.f  or  Nas  of  Bund.  XXVIII,  29)  has
 seized  upon  any  one,  it  can  be  driven  out  only  by  a  long  and
@@ -14787,15 +13761,13 @@ in  §  4.
 
 ^  See  Pahl.  Vend.  VII,  4.
 
-*  The  Persian  Rivayats  say  this  is  because  the  NasiiJ  is  con-
-cealed beneath  the  hair  and  nails  (compare  Vend.  VII,  70).
+*  The  Persian  Rivayats  say  this  is  because  the  NasiiJ  is  concealed beneath  the  hair  and  nails  (compare  Vend.  VII,  70).
 
 ^  These  are  the  birds  '  created  for  devouring  dead  matter '
 (see  Bund.  XIX,  25).  Pahl.  Vend.  VII,  4  substitutes  an  eagle
 (d  aim  an)  for  the  vulture.
 
-"  This  sentence  is  probably  defective,  as  the  last  clause  evi-
-dently refers  to  the  dog's  gaze  (see  Pahl.  Vend.  Ill,  138),  and  not
+"  This  sentence  is  probably  defective,  as  the  last  clause  evidently refers  to  the  dog's  gaze  (see  Pahl.  Vend.  Ill,  138),  and  not
 to  the  bird's  shadow;  the  rule,  however,  is  applicable  to  both.
 Thus  the  Persian  Rivayats  state  that  if  the  bird's  shadow  falls  upon
 the  hair  or  the  nails  of  the  corpse,  or  if  the  bird's  shadow,  or  the
@@ -14806,8 +13778,6 @@ only  to  cases  of  death  in  uninhabited  places,  where  a  dog  is  not
 procurable.  As  all  three  birds  are  such  as  feed  upon  corpses,  it
 icems  probable  that  the  rule  as  to  their  utility  was  intended  to  pre-
 
-
-CHAPTER    II,    3-7.  247
 
 6.  Vand-Auharmazd  said,  where  a  pregnant  woman
 is  to  be  carried  by  two  men\  both  are  to  be  cleansed
@@ -14833,11 +13803,9 @@ exceptional.
 ^  A  long  purification  ceremony  lasting  nine  nights,  and  described
 in  Vend.  IX,  1-145.  Its  name,  according  to  Dastiir  Hoshangji,
 is  derived  from  the  first  word  of  the  instructions  for  sprinkling  the
-unclean  person,  which  commence  (Vend.  IX,  48)  as  follows  :  Bare-
-shnum he  vaghdhanem  paourum  paiti-hi«/^6ij,  'sprinkle  in
+unclean  person,  which  commence  (Vend.  IX,  48)  as  follows  :  Bareshnum he  vaghdhanem  paourum  paiti-hi«/^6ij,  'sprinkle  in
 front  on  the  top  of  his  head.'  As  it  is  usual  to  quote  chapters  by
-their  initial  words,  the  initial  word  of  these  instructions  for  the  cere-
-mony became  a  name  for  the  ceremony  itself.
+their  initial  words,  the  initial  word  of  these  instructions  for  the  ceremony became  a  name  for  the  ceremony  itself.
 
 ^  The  building  in  which  the  dead  are  finally  deposited;  here
 called  by  its  Huzvari^-  name,  khazan.  The  Dakhmas  used  by  the
@@ -14855,12 +13823,9 @@ arranged  in  two  or  more  concentric  rings  around  the  well,  and  the
 gutters  (which  isolate  each  space  on  all  four  sides)  drain  into  the
 
 
-248  SHAYAST    LA-SHAYAST.
-
 (pa^vishak)^  two  are  not  to  be  carried  at  one  time,
 and  two  by  one  person  are  not  proper ;  one  dog  and
-one  person  are  proper  ^.  8.  Every  one  who  under-
-stands the  care  of  a  corpse  is  proper ;  two  boys  of
+one  person  are  proper  ^.  8.  Every  one  who  understands the  care  of  a  corpse  is  proper ;  two  boys  of
 eight  years  old,  who  understand  the  care,  are  proper ;
 a  woman  free  from  menstruation,  or  free  from  dead
 
@@ -14955,8 +13920,6 @@ Pahlavi  Vendidad.
 shelter  near  the  Dakhma.     Pahl.  Vend.  VIII,  17  says,  'to   carry
 
 
-250  SHAYAST    LA-SHAYAST.
-
 fasten  above  that  place,  and  it  would  make  it  dry
 below  ^  ;  one  should  place  the  corpse  under  that
 shelter,  and  they  may  take  the  shelter  and  bring  it
@@ -14965,14 +13928,12 @@ away.
 12.  From  the  fifth  fargar^^  of  the  Vendidad  of
 Mer/6k-mah  ^  they  state  thus,  that  at  the  place
 where  one's  life  goes  forth,  when  he  shall  die  upon
-a  cloth,  and  a  hair  or  a  limb  remains  upon  the  bed-
-place  and  the  ground  ^  the  ground  conveys  the  pollu-
+a  cloth,  and  a  hair  or  a  limb  remains  upon  the  bedplace  and  the  ground  ^  the  ground  conveys  the  pollu-
 tion, even  not  originating  with  //^■^//"(ahambuni/C'),
 in  like  manner  down  unto  the  water ^.  1 3.  And  when
 he  is  on  a  bedstead,  and  its  legs  are  not  connected
 with  the  ground,  when  a  hair  or  a  limb  remains
-behind  on  the  bedstead,  it  does  not  convey  the  pol-
-lution down.  14.  When  he  shall  die  on  a  plastered
+behind  on  the  bedstead,  it  does  not  convey  the  pollution down.  14.  When  he  shall  die  on  a  plastered
 floor  the  plaster  is  polluted,  and  when  they  dig  up
 that  plaster  and  spread  it  again  afterwards,  it  is
 clean.  15.  When  he  shall  die  on  a  stone,  and  the
@@ -15001,9 +13962,6 @@ imply  that  the  ground  is  polluted  as  deep  as  it  contains  no  water.
 at  the  time  when  they  dig  it  up,  the  stone  is  all  polluted,  in  so
 
 
-CHAPTER    II,   12-19.  251
-
-
 when  they  shall  leave  it,  in  the  length  of  a  year  it
 will  become  clean  along  with  the  ground  ;  and  when
 they  dig  it  up,  the  stone  is  all  polluted,  and  is  to  be
@@ -15012,8 +13970,7 @@ even  with  the  ground,  above  the  ground  the  stone  is
 all  polluted,  and  is  to  be  washed  at  the  time.
 
 17.  Dung-fuel  and  ashes,  when  the  limbs  of  a
-menstruous  woman  come  upon  them,  are  both  pol-
-luted ;  and  the  salt  and  lime  for  washing  her  shift
+menstruous  woman  come  upon  them,  are  both  polluted ;  and  the  salt  and  lime  for  washing  her  shift
 (kartak-shui)  are  to  be  treated ]wst  like  stoned
 
 18.  li  one  shall  die  on  a  terrace  roof  (ban)-,  when
@@ -15028,8 +13985,7 @@ when  his  hair  or  limb  has  not  come  to  the  eaves
 (parakan)  the  roof  is  polluted  to  the  bottom  (tohik).
 19.  And  when  one  shall  die  on  a  rita^  it  is  polluted
 
-much  space  as  the  corpse  occupied  ?'/?>  polluted ; '  but  the  addi-
-tional matter  seems  to  be  struck  out.  Something  analogous  to  the
+much  space  as  the  corpse  occupied  ?'/?>  polluted ; '  but  the  additional matter  seems  to  be  struck  out.  Something  analogous  to  the
 details  in  this  paragraph  will  be  found  in  Pahl.  Vend.VI,  9.
 
 ^  This  section  would  be  more  appropriate  in  Chap.  III.
@@ -15049,9 +14005,6 @@ XXVI,  3)  these  thirty  steps  are  about  79  English  feet.
 
 ^  ]\Ieaning  uncertain ;  the  word  looks  like  Huzvari.y,  but  it  is
 possible  to  read  ri^-ae  instead  of  rita-i.
-
-
-252  SHAYAST    LA-SHAYAST.
 
 
 for  the  size  of  the  body  as  far  as  the  water ;  in  the
@@ -15095,9 +14048,6 @@ corpse  more  than  is  absolutely  necessary,  provided  there  be  no
 fear  of  its  polluting  more  of  the  ground  by  falling  upon  it.
 
 
-CHAPTER    II,   20-32.  25
-
-
 ^
 
 
@@ -15113,8 +14063,7 @@ not  carry  him  down.  28.  And  when  there  is  fear  of
 it,  or  it  is  a  branch  of  a  withered  tree,  when  also,  a
 hair  originating  with  him,  or  a  limb,  remains  behind
 on  the  particular  tree,  they  should  carry  down  the
-whole  of  the  body  \  29.  And  when  it  does  not  re-
-main behind  him  on  the  particular  tree,  but  when
+whole  of  the  body  \  29.  And  when  it  does  not  remain behind  him  on  the  particular  tree,  but  when
 there  is  fear  of  its  falling  off,  they  should  not  carry  it
 below  (vad  fro^)^.
 
@@ -15122,8 +14071,7 @@ below  (vad  fro^)^.
 remains  behind  on  a  jar  (khumbo)  in  which  there
 may  be  wine,  the  jar  is  polluted,  ajid  the  wine  is
 clean.  31.  And  when  one  shall  die  inside,  in  the
-wine  in  the  jar,  if  not  even  a  hair  or  a  curl  originat-
-ing with  him  remains  behind  on  the  jar,  the  wine  is
+wine  in  the  jar,  if  not  even  a  hair  or  a  curl  originating with  him  remains  behind  on  the  jar,  the  wine  is
 polluted  and  the  jar  not  polluted'*.     32.  When  it  is
 
 ^  K20  has  a  portion  of  §  30  inserted  here  by  mistake.
@@ -15164,8 +14112,7 @@ which  the  touch  (malign)  of  the  serpent  has  gone —
 because  the  touch  of  the  serpent's  seed  might  be
 the  death  of  one  —  is  to  be  taken  out  and  to  be
 thrown  away.  35.  And  when  hair  or  dead  matter,
-even  not  originating  with  the  serpent,  remains  be-
-hind on  the  jar,  the  jar  is  polluted,  but  is  service-
+even  not  originating  with  the  serpent,  remains  behind on  the  jar,  the  jar  is  polluted,  but  is  service-
 able  (shaya^T^)   on  making  it  dry^
 
 ;6.   Brick,   earth,   and    mortar    are    separated  by
@@ -15194,17 +14141,12 @@ the  jar  is  not  even  fit  to  put  any  bran-flour  in.'
 'but  is  fit  for  bran-flour  (khiukar).'
 
 
-CHAPTER    II,    33-38.  255
-
-
 their  own  substance  (pavan  mindavam-i  naf^-
 man),  and  are  connected  with  the  ground  ;  being
 separated  by  their  own  substance  is  this,  that  so
-much  space  as  dead  matter  ^  comes  upon  is  pol-
-hited  ;  being  connected  with  the  ground  is  this,  that
+much  space  as  dead  matter  ^  comes  upon  is  polhited  ;  being  connected  with  the  ground  is  this,  that
 they  would  convey  the  polkition  down  unto  the
-water.  37.  Dung-fuel,  ashes,  flour,  and  other  pow-
-dered things  are  connected  with  their  own  sub-
+water.  37.  Dung-fuel,  ashes,  flour,  and  other  powdered things  are  connected  with  their  own  sub-
 stance, and  are  separated  from  the  ground ;  being
 connected  with  their  own  substance  is  this,  that
 when  dead  matter  comes  upon  them  the  whole  of
@@ -15222,8 +14164,7 @@ corpse  *,  even  then  it  is  to  be  carried  away,  and  the
 
 ^  Or  '  a  corpse ;'  K20  has  '  stands  upon.'  The  meaning  is  that
 these  substances  do  not  communicate  the  contamination  throughout
-their  own  substance,  but  only  downwards  to  the  ground,  which  con-
-veys it  farther  down,  so  far  as  it  contains  no  water.
+their  own  substance,  but  only  downwards  to  the  ground,  which  conveys it  farther  down,  so  far  as  it  contains  no  water.
 
 ^  That  is,  these  substances  communicate  the  contamination
 throughout  their  own  substance,  but  not  down  to  the  ground.
@@ -15239,8 +14180,6 @@ nearly  the  same  text  as  §§  38,  39.
 *  Under  ordinary  circumstances  fire  must  not  be  brought  within
 thirty  steps,  or  about  79  English  feet,  of  a  corpse  (see  Vend.  VIII,
 
-
-256  SHAYAST    LA-SHAYAST.
 
 wall  is  not  to  be  cut.  39.  Roshan^  said  that  an
 earthen  one  is  to  be  cut  into,  but  a  mortar  one  is
@@ -15285,14 +14224,10 @@ maintained.
 
 ^  A  marg-ar^an  sin,  on  committing  which  the  sinner  is  required
 to  place  his  life  at  the  disposal  of  the  high-priest  (see  Chap.  VIII,
-2,  5,  6,  21).  It  is  usually  considered  equivalent  to  fifteen  Tana-
-puhars  (see  Chap.  I,  i,  2).
+2,  5,  6,  21).  It  is  usually  considered  equivalent  to  fifteen  Tanapuhars  (see  Chap.  I,  i,  2).
 
 
-CHAPTER    II,    39-45-  257
-
-or  a  month  ^  42.  Clothing  also  in  like  manner,  ex-
-cept that  which  one  wears  on  the  body ;  that,  even
+or  a  month  ^  42.  Clothing  also  in  like  manner,  except that  which  one  wears  on  the  body ;  that,  even
 in  that  time,  is  not  clean,  since  it  remains  in  use.
 43.  And  the  holy-water  (zohar)^  too,  which  is
 taken  and  remains  in  that  place,  is  to  be  carried
@@ -15304,8 +14239,7 @@ the  writer'^  (dapir)  said  that  it  is  when  they  perform
 the  washing  of  hands,  and  wash  it  thoroughly,  it
 will  become  clean  at  the  time.
 
-45.  If  in  a  house  there  are  three  rooms  (gun^i-
-nak),  and  one  shall  die  in  the  entrance  place
+45.  If  in  a  house  there  are  three  rooms  (gun^inak),  and  one  shall  die  in  the  entrance  place
 (dargas),  if  it  be  so  that  they  may  set  the  door
 open,  and  the  corpse  comes  to  this  side,  only  this
 
@@ -15325,8 +14259,7 @@ holy-water  and  Hom-juice   in   the  mortar    (see   Haug's   Essays,
 
 pp.  403>  405,  406).
 
-*  Compare  Pers.  /^um,  'fat;'  it  is  the  Av.  gSu^  hudh^/u,  'pro-
-dud  of  the  well-yielding  cow,'  a  small  piece  of  which  is  placed
+*  Compare  Pers.  /^um,  'fat;'  it  is  the  Av.  gSu^  hudh^/u,  'produd  of  the  well-yielding  cow,'  a  small  piece  of  which  is  placed
 upon  one  of  the  sacred  pancakes,  or  wafers  (dron),  during  the
 ceremonies  (see  Haug's  Essays,  pp.  396,  407).
 
@@ -15341,8 +14274,6 @@ opinion  here.
 [5]  s
 
 
-258  SHAYAST    LA-SHAYAST.
-
 side  is  polluted  ;  and  if  the  corpse  comes  to  that
 side,  only  that  side  is  polluted ;  when  it  comes  to
 both  sides  at  once  (aeva/^),  only  the  entrance  place
@@ -15352,20 +14283,16 @@ are  clean.
 46.  And  the  vault  of  the  sacred  fires  ^  alone  does
 not  become  polluted.
 
-47.  If  one  shall  die  in  a  wild  spot  (va^kar),  pre-
-pared food  which  is  within  three  steps  is  all  useless,
-and  beyond  four  steps  it  is  not  polluted.  48.  Pre-
-pared food  is  this,  such  as  bread,  boiled  and  roast
+47.  If  one  shall  die  in  a  wild  spot  (va^kar),  prepared food  which  is  within  three  steps  is  all  useless,
+and  beyond  four  steps  it  is  not  polluted.  48.  Prepared food  is  this,  such  as  bread,  boiled  and  roast
 meat,  and  prepared  broth  2.
 
-49.  And  the  ashes  (var)  of  the  sacred  fire  ^  be-
-come in  a  measure  polluted.
+49.  And  the  ashes  (var)  of  the  sacred  fire  ^  become in  a  measure  polluted.
 
 50.  Should  they  carry  in  the  fire  into  that  house
 in  which  the  length  of  nine  nights  or  a  month  is
 requisite  for  becoming  clean,  there  is  a  sin  of  one
-Tanapuhar*  through  carrying  it  in,  and  one  Tana-
-puhar  through  kindling  it ;  and  every  trifling  crea-
+Tanapuhar*  through  carrying  it  in,  and  one  Tanapuhar  through  kindling  it ;  and  every  trifling  crea-
 ture  {khur  or  khul)  which  shall  die  and  shall  remain
 cattses  a  sin  of  one  Tanapuhar.  51.  Also  through
 carrying  water  in,  tAere  is  a  sin  of  one  Farman ;  and
@@ -15389,10 +14316,7 @@ equivalent  phrase,  'clothing  of  the  fire'  (see  Chap.  Ill,  27).
 5h  53-
 
 
-CHAPTER    II,    46-56.  259
-
-undergo  ablution  ^  inside  the  unclean  house  is  all  non-
-ablution.  53.  And  whoever  goes  into  it  needlessly,
+undergo  ablution  ^  inside  the  unclean  house  is  all  nonablution.  53.  And  whoever  goes  into  it  needlessly,
 his  body  and  clothes  are  to  be  every  time  thoroughly
 washed,  and  his  sin  is  one  Tanapiihar ;  and  when  he
 goes  in  needfully  it  is  neither  good  work  nor  sin^.
@@ -15405,8 +14329,7 @@ contact  which  is  stated  in  the  Avesta*,  the  account
 is  that  it  is  from  one  side,  and  it  ever  cleaves  to
 one;  the  curse  (ga^i^n)^  which  is  stated  in  the
 Avesta  advances  from  all  four  sides.  56.  Soshyans®
-said  it  is,  until  its  exhibition  to  a  dog,  just  as  it  be-
-comes at  the  time  when  its  life  departs  ^ ;  a  priest,  a
+said  it  is,  until  its  exhibition  to  a  dog,  just  as  it  becomes at  the  time  when  its  life  departs  ^ ;  a  priest,  a
 
 *  That  is,  the  ceremonial  ablution  (paa'iyajyih),  or  '  washing,
 with  water,  the  hands  and  arms  up  to  the  elbows,  the  face  as  far
@@ -15489,16 +14412,12 @@ paiti-raethwayeiti.  The  definition  of  the  latter  one  is  omitted
 in  K20  by  mistake.
 
 
-CHAPTER    II,    57-63.  261
-
-
 VQd)  is  that  when  ^  one  is  in  contact  with  him  who
 touched  the  corpse  ;  and  from  contact  with  him  who
 is  the  eleventh  ^  indirect  polhition  cleaves  to  one  in
 the  same  manner.  61.  The  indirect  pollution  of  an
 ape  2  and  a  menstruous  woman,  not  acting  the  same
-zvay,  remains.  62.  The  shepherd's  dog,  and  like-
-wise the  villaee-dosf,  and  others  also  of  the  like  kind
+zvay,  remains.  62.  The  shepherd's  dog,  and  likewise the  villaee-dosf,  and  others  also  of  the  like  kind
 carry  contamination  to  eight "" ;  and  when  they  shall
 carry  the  carcase  down  on  the  ground  the  placc^  is
 clean  immediately ;  and  that,  too,  which  dies  on  a
@@ -15530,8 +14449,7 @@ and  none  of  them  are  very  satisfactory.
 the  carcases  of  other  dogs  occasion  the  indirect  pollution  of  fewer
 persons,  in  proportion  to  their  inferior  importance;  but  Pahl. Vend.
 V,  107  states,  with  regard  to  this  importance,  that  when  '  in  doubt,
-every  man  is  to  be  considered  as  a  priest,  and  every  dog  as  a  shep-
-herd's dog,'  so  as  to  be  on  the  safe  side,  by  exacting  the  maximum
+every  man  is  to  be  considered  as  a  priest,  and  every  dog  as  a  shepherd's dog,'  so  as  to  be  on  the  safe  side,  by  exacting  the  maximum
 amount  of  purification  in  all  doubtful  cases,
 
 «  The  Pahlavi  text  leaves  it  doubtful  whether  the  place,  the
@@ -15542,15 +14460,12 @@ probable.
 262  SHAY  AST    LA-SHAYAST.
 
 death  ^  at  the  time  when  a  dog  has  not  seen  the
-corpse  (nasai) ;  and  if  through  negligence  of  ap-
-pliances and  means  (/^ar  va  ttibano)  he  disturbs  it,
+corpse  (nasai) ;  and  if  through  negligence  of  appliances and  means  (/^ar  va  ttibano)  he  disturbs  it,
 and  disturbs  it  by  touching  it,  he  knows  that  //  is  a
 sin  worthy  of  death  ;  and  for  a  corpse  that  a  dog
-has  seen,  and  one  that  a  dog  has  not  seen,  the  ac-
-countability is  to  be  understood  to  be  as  much  '^  and
+has  seen,  and  one  that  a  dog  has  not  seen,  the  accountability is  to  be  understood  to  be  as  much  '^  and
 for  the  death  and  sickness  ^  of  a  feeble  man  and  a
-powerful  one.  64.  Afarg  has  said  there  is  no  ac-
-count of  appliances  and  means  ^,  for  it  is  not  allow-
+powerful  one.  64.  Afarg  has  said  there  is  no  account of  appliances  and  means  ^,  for  it  is  not  allow-
 able to  commit  a  sin  worthy  of  death  in  cases  of
 death  and  sickness,
 
@@ -15582,12 +14497,9 @@ Vend.  Ill,  48.
 ■^  This  exception  (which  is  repeated  in  §§  68,  71)  seems  to  imply
 that  §§  66,  68,  71  refer  to  the  collection  of  any  fragments  of
 a  corpse  found  in  the  wilderness,  or  in  water ;  and  the  exemption
-from  the  troublesome  purification  ceremony  in  such  cases,  is  pro-
-bably intended  to  encourage  people  to  undertake  the  disagreeable
+from  the  troublesome  purification  ceremony  in  such  cases,  is  probably intended  to  encourage  people  to  undertake  the  disagreeable
 duty  of  attending  to  such  fragments.
 
-
-CHAPTER    II,    64-71.  263
 
 when  he  shall  move  with  a  stake  (dar)^  a  corpse
 which  a  dog  has  not  seen,  except  that  one  only
@@ -15598,8 +14510,7 @@ not  to  be  with  ceremony,
 a  dog  has  not  seen,  by  the  hand  of  another  man,  he
 who  moves  it  by  the  hand  of  a  man,  and  he  also
 whose  own  hand's  strength  does  it  are  polluted  in
-the  bodies  of  both  ;  and  it  is  the  root  of  a  Tanapli-
-har  2  si7i  for  him  himself  and  of  a  Tanapuhar  for  the
+the  bodies  of  both  ;  and  it  is  the  root  of  a  Tanaplihar  2  si7i  for  him  himself  and  of  a  Tanapuhar  for  the
 other  one,  for  this  reason,  because  his  own  body  and
 that  also  of  the  other  are  both  made  polluted
 through  sinfulness.  70.  And  when  there  is  not  in
@@ -15631,8 +14542,6 @@ but  the  man  employed  suffers  the  same  in  both  cases.
 *  See  Chap.  I,  i,  2.  "  See  §  66.
 
 
-264  SHAYAST    LA-SHAYAST.
-
 72.  When  one  is  going  by  a  place  at  night,  and
 comes  back  there  on  the  morrow,  and  a  corpse
 lies  there,  and  he  does  not  know  whether  the  evil
@@ -15641,23 +14550,20 @@ be  considered  by  him  that  it  was  not  there.
 
 73.  Of  a  flock  in  which  is  a  sheep  by  whom  dead
 matter  is  eaten,  of  a  forest  in  which  is  a  tree  with
-which  dead  matter  is  mingled,  and  of  a  firewood-
-stand  (aesamdan)  in  which  is  a  stick  of  firewood
+which  dead  matter  is  mingled,  and  of  a  firewoodstand  (aesamdan)  in  which  is  a  stick  of  firewood
 with  which  grease  is  mingled,  Afarg  said  that  it  is
 not  proper  to  make  the  flock  and  the  forest  fruitful,
 and  the  firewood  is  useless  ^.
 
 74.  About  a  door  on  which  a  corpse  impinges;  as
 to  the  door  of  a  town  and  city  they  have  been  of  the
-same  opinion,  that  it  is  to  be  discarded  by  his  com-
-rades (hamkar) ';  as  to  a  door  which  is  mostly  closed
+same  opinion,  that  it  is  to  be  discarded  by  his  comrades (hamkar) ';  as  to  a  door  which  is  mostly  closed
 (badtum)*   they  have  been  of   different    opinions,
 
 ^  Literally,  'when  I  came  by;'  the  usual  Persian  idiom  in  such
 phrases.
 
-^  This  statement  of  Afarg's,  so  far  as  it  relates  to  greasy  fire-
-wood, will  be  found  in  Pahl.  Vend.  V,  14.
+^  This  statement  of  Afarg's,  so  far  as  it  relates  to  greasy  firewood, will  be  found  in  Pahl.  Vend.  V,  14.
 
 ^  Or, '  by  the  community.'  The  same  rule  is  mentioned  in  Pahl.
 Vend.V,  14.
@@ -15672,21 +14578,17 @@ a  possible  variant  of  beta,  *a  house'  (although  'a  house-door'
 would  suit  the  context  very  well),  because  it  occurs  also  in  Pahl.
 Vend.  V,  14,  XI,  10,  in  which  latter  place  it  is  clearly  an  adjective
 partially  translating  Av.  b^ndvo.  And  it  would  be  hazardous  to
-connect  it  with  Pers.  bidun,  'outside,'  which  seems  merely  a  cor-
-ruption or  misreading  of  birun.  The  view  taken  here  is  that
+connect  it  with  Pers.  bidun,  'outside,'  which  seems  merely  a  corruption or  misreading  of  birun.  The  view  taken  here  is  that
 badtum  stands  for  bandtum,  'most  shut  up,'  the  nasal  being
 often  dropped  in  Pahlavi,  as  in  sag  for  sang,  '  stone,'  &c.
 
-
-CHAPTER    II,    72-78.  265
 
 Gogo^asp  ^  said  that  discarding  it  by  his  comrades
 is  likewise  proper,  and  Soshyans  said  that  it  is  not
 proper ;  and  as  to  other  doors  they  have  been
 of  the  same  opinion,  that  it  is  not  proper.  75.
 The  door  of  one's  own  chief  apartment  (shah-gas)
-is  fit  for  that  of  the  place  for  menstruation  (da^tan-
-istan),  and  that  of  the  place  for  menstruation  is  fit
+is  fit  for  that  of  the  place  for  menstruation  (da^tanistan),  and  that  of  the  place  for  menstruation  is  fit
 for  that  of  the  depository ybr ///e' ^<?(^^  (kh a zano) 2,
 and  that  of  the  depository  of  the  dead  is  not  fit  for
 any  purpose  whatever  ^ ;  that  of  the  more  pleasant
@@ -15718,12 +14620,9 @@ proportion  it  comes  is  ever  as  much  as  it  goes,  and
 '  Compare  Pahl.  Vend.  VII,  66.  "^  See  Vend.  VI,  80.
 
 •^  That  is,  the  pollution  extends  about  eight  English  feet  up-stream
-and  upwards,  sixteen  feet  sideways  and  downwards,  and  twenty-
-four  feet  down-stream.  Some  of  the  latter  part  of  the  sentence  is
+and  upwards,  sixteen  feet  sideways  and  downwards,  and  twentyfour  feet  down-stream.  Some  of  the  latter  part  of  the  sentence  is
 omitted  in  K20  by  mistake.
 
-
-266  SHAYAST    LA-SHAYAST.
 
 is  the  proportion  of  it  they   should    always    carry
 away  with  ^/le  dead  matter  ^
@@ -15732,8 +14631,7 @@ away  with  ^/le  dead  matter  ^
 lies  in  the  water,  when  he  is  able  to  bring  it  out,
 and  it  is  not  an  injury  to  him,  it  is  not  allowable  to
 abandon  it  except  when  he  brings  it  out^  80.
-Soshyans^  said  that,  when  it  is  an  injury,  it  is  allow-
-able when  *  he  does  not  bring  it  out ;  and  when  it  is
+Soshyans^  said  that,  when  it  is  an  injury,  it  is  allowable when  *  he  does  not  bring  it  out ;  and  when  it  is
 not  an  injury,  and  he  does  not  bring  it,  his  sin  is  a
 Tanapuhar '^.  81.  Kushtano-buc'e^^  said  that  even
 in  case  of  injury  it  is  not  allowable  to  abandon  it,
@@ -15741,20 +14639,17 @@ except  when  he  brings  it  out ;  when  he  does  not
 bring  it  he  is  worthy  of  death.  82.  And  Gogo-yasp  ^
 said  that  it  is  even  in  case  of  injury  not  allowable,
 except  when  he  brings  it  out ;  and  when,  in  case  of
-injury,  he  does  not  bring  it  out  his  sin  is  a  Tana-
-puhar ;  and  when  it  is  no  injury  to  him,  and  he  does
+injury,  he  does  not  bring  it  out  his  sin  is  a  Tanapuhar ;  and  when  it  is  no  injury  to  him,  and  he  does
 not  bring  it,  he  is  worthy  of  death.
 
-83.  And  when, he  shall  wish  to  bring  it  his  cloth-
-ing is  to  be  laid  aside  ^  for  it  makes  the  clothing
+83.  And  when, he  shall  wish  to  bring  it  his  clothing is  to  be  laid  aside  ^  for  it  makes  the  clothing
 
 ^  The  sentence  is  obscure,  but  this  seems  to  be  the  meaning ;
 that  is,  when  a  corpse  or  any  dead  matter  is  thrown  into  a  pond
 or  tank,  the  pollution  extends  sixteen  feet  from  it  in  all  directions ;
 and  that  quantity  of  water  ought  to  be  drawn  off,  in  order  to
 purify  the  tank  (see  Vend.  VI,  65-71).  As  the  corpse,  in  nearly
-all  cases,  must  be  either  at  the  bottom  or  on  the  surface,  the  quan-
-tity of  polluted  water  to  be  drawn  off  must  be  a  hemispherical
+all  cases,  must  be  either  at  the  bottom  or  on  the  surface,  the  quantity of  polluted  water  to  be  drawn  off  must  be  a  hemispherical
 mass  sixteen  feet  in  radius,  or  about  forty-eight  tons  of  water.
 
 "^  See  Pahl.  Vend.  VI,  64,  where  it  states  that  bringing  it  out
@@ -15770,8 +14665,6 @@ I,  7,  note).
 
 '  See  Chap.  I,  3.  «  See  Pahl.  Vend.  VI,  64.
 
-
-CHAPTER    II,    79-87.  267
 
 polluted,  and  whatever  he  is  first  able  and  best  able
 to  bring  is  to  be  brought  out  by  him.  84.  When,  too,
@@ -15816,9 +14709,6 @@ note).
 *■  See  Pahl.Vend.VI,  64  for  this  prohibition.
 
 
-268  SHAYAST    LA-SHAYAST.
-
-
 connected  it  is  allowable,  and  when  separated  it  is
 not  allowable.  88.  Afarg '  said  it  is  allowable  to
 drag  //  below  through  the  water,  but  to  drag  it  over
@@ -15845,8 +14735,7 @@ does  not  go  back  his  body  is  polluted  and  worthy  of
 
 '  See  Chap.  I,  3.
 
-''■  Or  '  fear.'  The  difference  of  opinion  between  the  two  com-
-mentators on  this  question  in  casuistry,  appears  to  have  arisen  from
+''■  Or  '  fear.'  The  difference  of  opinion  between  the  two  commentators on  this  question  in  casuistry,  appears  to  have  arisen  from
 Afarg  regarding  the  water  merely  as  the  representative  of  a  spirit,
 who  might  be  endangered  or  frightened  by  the  source  of  impurity
 becoming  more  visible  when  above  the  water,  while  Me</6k-mah
@@ -15858,11 +14747,8 @@ through  more  of  it.
 
 *  These  rules  generally  distinguish  clearly  between  offences
 committed  '  through  sinfulness,'  that  is,  wilfully,  and  those  arising
-from  accidental  inability ;  more  stress  being  laid  upon  the  inten-
-tion than  upon  the  action.
+from  accidental  inability ;  more  stress  being  laid  upon  the  intention than  upon  the  action.
 
-
-CHAPTER    II,    88-95.  269
 
 death,  and  when  he  Is  unable  to  go  back  he  is  not
 poHuted.
@@ -15911,11 +14797,8 @@ to  be  buried,  according  to  the  Avesta  of  Vend.  VII,  32,  though  the
 Pahlavi  commentary  explains  that  they  are  to  be  thrown  away.
 
 
-270  SHAYAST    LA-SHAYAST.
-
 thoroughly  washed  for  the  six-months  period'^.  96.
-That  which  a  menstruous  woman  has  in  wear  (mah-
-manih)^  is  to  be  discarded  in  hke  fashion.
+That  which  a  menstruous  woman  has  in  wear  (mahmanih)^  is  to  be  discarded  in  hke  fashion.
 
 97.  The  clothing  which  is  to  be  washed  for  the
 six-months'  period  is  such  as  is  declared  in  the
@@ -15959,9 +14842,6 @@ as  well  as  for  helpless  cripples,  and  insane  persons  under  restraint
 apply  to  tank  water.
 
 
-CHAPTER    II,    96-104.  271
-
-
 worship,  or  it  is  proper  for  a  menstruous  woman.  99.
 Other  clothing,  when  hair  is  on  it^,  is  liable  just  Hke
 woven  cloth  (ta^fak);  all  the  washing  of  wool,  floss
@@ -15976,16 +14856,14 @@ and  when  fleece  (mesh)  rests  upon  fleece,  then  so
 much   space   as  the  corpse   rests   upon  is  polluted.
 JOT.  When  one  shall  die  upon  a  rich  carpet  (bup)
 when  the  carpet   is   on  a  coarse  rug  (nama^)  and
-is  made  connected,  the  rug  and  carpet  are  both  pol-
-luted, and  when  separated  the  rug  is  clean.      102.
+is  made  connected,  the  rug  and  carpet  are  both  polluted, and  when  separated  the  rug  is  clean.      102.
 When    several    cushions    are   heaped    {nxkid)    one
 upon  the  other,  and  are   not  made  connected,  and
 dead    matter   comes    upon    them,    they   have   been
 unanimous  that  only  that  one  is  polluted  on  which
 the  dead    matter   came.      103.   A   cushion    together
 with  wool  *  is  liable  just  like  a  carpet  with  a  rug  ^.
-104.  Of  several  cushions  which  are  tied  down  to-
-gether, when  dead  matter  comes  to  the  tie,  both  are
+104.  Of  several  cushions  which  are  tied  down  together, when  dead  matter  comes  to  the  tie,  both  are
 polluted,  the  cord  and  the  cushions ;  and  when  the
 dead  matter  comes  to  a  cushion,  and  does  not  come
 to  the  tie,  the  cushions  are  all  polluted  on  account
@@ -16004,8 +14882,6 @@ either  of  them.
 
 «  See  Pahl.  Vend.  VII,  27.
 
-
-272  SHAYAST    LA-SHAYAST.
 
 105.  A  pregnant  woman  who  devours  dead  matter
 through  sinfulness  is  polhited  and  worthy  of  death,
@@ -16057,14 +14933,12 @@ liable  just  like  a  leathern  bag  (anban)  in  which  is
 dead  matter.
 
 112.  Gold,  when  dead  matter  comes  upon  it,  is  to
-be  once  thoroughly  washed  with  bull's  urine  (go-
-me^), to  be  once  made  quite  dry  with  dust,  and  to
+be  once  thoroughly  washed  with  bull's  urine  (gome^), to  be  once  made  quite  dry  with  dust,  and  to
 be  once  thoroughly  washed  with  water,  and  it  is
 clean  \  113.  Silver  is  to  be  twice  thoroughly  washed
 with  bull's  urine,  and  to  be  made  quite  dry  wdth
 dust,  and  is  to  be  twice  thoroughly  washed  with
-water,  and  it  is  clean  ^.  114.  And  iron,  in  like  man-
-ner, three  times,  steel  four  times,  and  stone  six
+water,  and  it  is  clean  ^.  114.  And  iron,  in  like  manner, three  times,  steel  four  times,  and  stone  six
 times  ^  1 15.  Afarg  said  :  '  Should  it  be  quicksilver
 (at'ginak)'^  it  is  liable  just  like  gold,  and  amber
 (kahrupai)  just  like  stone,  and  all  jewels  just  like
@@ -16080,8 +14954,7 @@ and  has,  therefore,  been  omitted  in  Spiegel's  edition  of  the  texts.
 By  this  accidental  omission  in  the  MSS.  silver  is  connected  with
 the  purification  for  stone  (see  §  114).
 
-^  See  Vend.  VII,  75  W.,  much  of  which  is  omitted  in  the  Ven-
-didad with  Pahlavi  translation,  and  in  Spiegel's  edition  (see  the
+^  See  Vend.  VII,  75  W.,  much  of  which  is  omitted  in  the  Vendidad with  Pahlavi  translation,  and  in  Spiegel's  edition  (see  the
 preceding  note),  the  sixfold  washing  of  stone  being  erroneously
 applied  to  silver  (see  Vend.  VII,  187  Sp.),  owing  to  this  omission
 of  the  intervening  text.  It  appears  from  this  section  that  the  Av.
@@ -16100,12 +14973,8 @@ say  that  there  is  no  washingybr  //.'
 [5]  T
 
 
-2  74  SHAYAST   LA-SHAYAST.
-
-ruby  (yakand)  gem,  the  turquoise  \  the  agate  (sha-
-pak),  coral-stone  (vasa^in  sag),  bone,  and  other
-substances  (gohar)  which  are  not  particularly  men-
-tioned, are  to  be  washed  just  like  wood  - ;  and  when
+ruby  (yakand)  gem,  the  turquoise  \  the  agate  (shapak),  coral-stone  (vasa^in  sag),  bone,  and  other
+substances  (gohar)  which  are  not  particularly  mentioned, are  to  be  washed  just  like  wood  - ;  and  when
 they  are  taken  into  use  there  is  no  washing  ^  and
 when  they  are  not  taken  their  washing  is  once.  117.
 Of  earthen  and  horny  articles  there  is  no  washing  ;
@@ -16126,15 +14995,13 @@ said  that  it  is  just  as  declared  in  the  Avesta  :  '  The
 ^  This  is  doubtful;  the  word  can  be  read  pirinak,  and  has  the
 Pers.  gloss  piruzah, '  turquoise,'  in  some  MSS.  If  read  pilinak  it
 might  perhaps  be  taken  for  'ivory.'  But  in  Pahl.  Vend.  VII,  188
-it  is  vafarino,  'snowy,'  and  the  reading  there  seems  to  be  'jet-
-black  awif  snow-white  stone-coral ;'  so  here  the  original  meaning
+it  is  vafarino,  'snowy,'  and  the  reading  there  seems  to  be  'jetblack  awif  snow-white  stone-coral ;'  so  here  the  original  meaning
 may  have  been  '  snow-white  and  jet-black  coral-stone.'
 
 "^  Vend.  VII,  188  says  that  'earthen  or  wooden  or  porcelain
 vessels  are  impure  for  everlasting.'
 
-^  Meaning,  apparently,  that  they  cannot  be  purified  for  imme-
-diate use.
+^  Meaning,  apparently,  that  they  cannot  be  purified  for  immediate use.
 
 *  That  is,  one-sixth  longer  than  when  green,  the  vitast  being
 twelve  ^x\^QX -breadths,  or  nine  inches  (see  Bund.  XXVI,  3,  note).
@@ -16169,8 +15036,7 @@ walnut.  122.  As  to  the  date,  when  its  stalk «  is  not
 connected  the  date  is  polluted  and  the  stalk  and
 stone  (astak)  are  clean ;  the  washing  of  the  date  is
 just  like  that  ^/corn  ;  and  when  it  is  touched  upon
-the  stalk,  when  the  stalk,  stone,  and  date  are  con-
-nected, the  whole  is  polluted ;  as  to  the  date  when
+the  stalk,  when  the  stalk,  stone,  and  date  are  connected, the  whole  is  polluted ;  as  to  the  date  when
 not  connected  with   the  stalk,  and  touched  at  the
 
 
@@ -16182,14 +15048,12 @@ about  double  the  length.
 
 *  Reading  den  gopan  farostak;  the  practice  of  storing  corn
 in  dry  pits  underground  is  common  in  the  East  and  in  some  parts
-of  Europe.  In  Pahl.  Vend.  VII,  93  it  is  den  gopan  avist,  '  con-
-cealed in  pits.'
+of  Europe.  In  Pahl.  Vend.  VII,  93  it  is  den  gopan  avist,  '  concealed in  pits.'
 
 *  See  Chap.  I,  3.
 
 5  Pahl.  Vend.  VII,  93  classes  the  almond  with  the  walnut  as
-a  connected  fruit,  and  the  date  with  the  pomegranate  as  a  sepa-
-rated  one.
+a  connected  fruit,  and  the  date  with  the  pomegranate  as  a  separated  one.
 
 «  The   word   is   kfirapak   or   kurazak,   but    its   meaning'  is
 
@@ -16201,12 +15065,9 @@ T    2
 276  SHAYAST    LA-SHAVAST.
 
 Stalk,  tlie  date  is  clean,  and  the  washing  of  the
-stone  is  just  like  tJiat  of  wood.  123.  The  pome-
-granate, citron,  quince,  apple,  pear,  and  other  fruit,
-when  in  bearing  and  the  rind  (pazaz^i^no)  is  per-
-ceptible on*  it,  when  dead  matter  comes  upon  it  tJiere
-is  no  pollution  of  it;  and  when  the  rind  (paza-
-mi.cno)  is  not  perceptible  on  it,  its  washing  is  just
+stone  is  just  like  tJiat  of  wood.  123.  The  pomegranate, citron,  quince,  apple,  pear,  and  other  fruit,
+when  in  bearing  and  the  rind  (pazaz^i^no)  is  perceptible on*  it,  when  dead  matter  comes  upon  it  tJiere
+is  no  pollution  of  it;  and  when  the  rind  (pazami.cno)  is  not  perceptible  on  it,  its  washing  is  just
 like  that  of  zox'sx  ;  and  rind  is  ever  with  the  citron  \
 124.  For  meat,  butter,  milk,  cheese,  and  preserves
 (ri/C'ar)  there  is  no  washing  ^.
@@ -16216,15 +15077,13 @@ Chapter  III.
 
 I.  The  clothing  of  a  menstruous  woman  which
 they  shall  take  new  for  her  use  is  polluted,  and  that
-which  is  in  use  is  not  polluted  ^  2.  When  a  bed-
-chamber (sha^-atirvan)  is  overspread,  and  a  carpet
+which  is  in  use  is  not  polluted  ^  2.  When  a  bedchamber (sha^-atirvan)  is  overspread,  and  a  carpet
 (bup)  is  laid  upon  it  and  a  cushion  on  the  two"*,  and
 
 '  Pahl.  Vend.  VII,  93  says,  'fruit  whose  rind  (pazaz')  exists  is
 also  just  like  that  in  a  pod  (kuvak),  zxiAfor  that  which  does  not
 remain  in  a  rind,  when  pollution  shall  come  upon  it,  there  is  no
-cleansing  whatever.  Afarg  said  that  there  is  ever  a  rind  (paza-
-z'ijno)  with  the  citron.'
+cleansing  whatever.  Afarg  said  that  there  is  ever  a  rind  (pazaz'ijno)  with  the  citron.'
 
 ^  Pahl.  Vend.  VII,  93  says,  ^for  everything  separated  there  is
 a  washing,  except  meat  and  milk.'  Articles  for  which  there  is  no
@@ -16263,8 +15122,7 @@ then  the  ear-rings,  then  the  head-fillet  (iambar),
 and  then  the  outer  garments  (^amak)  are  to  be  put
 off  by  her,  5.  When  in  the  place  she  remains  in
 for  the  purpose,  even  though  she  may  remain  a  xtxy
-long  time  for  that  purpose,  yet  then  the  outer  gar-
-ments are  clean,  aiid  tJiere  is  no  need  of  leather
+long  time  for  that  purpose,  yet  then  the  outer  garments are  clean,  aiid  tJiere  is  no  need  of  leather
 covering  and  leather  shoes  •^.
 
 6.  When  she  knows  for  certain  (aevar)  that  //  is
@@ -16276,8 +15134,7 @@ down  in  the  place  for  menstruation  *,  a  prayer  is  to
 ^  §§  2,  3  are  merely  corollaries  from  §  i.
 
 ^  Or,  possibly,  '  on  the  spot  she  is  in  on  the  occasion ;'  although
-it  would  appear  from  §  5  that  the  place  referred  to  is  the  dashtan-
-istan,  or  place  of  retirement  for  the  unclean.
+it  would  appear  from  §  5  that  the  place  referred  to  is  the  dashtanistan,  or  place  of  retirement  for  the  unclean.
 
 ^  Reading  ma^k  va  jalmiha,  but  both  reading  and  meaning
 are  doubtful.  The  first  word  may  be  muxko,  '  musk,'  and  the
@@ -16293,24 +15150,20 @@ righteous  men;  it  ought  to  be  fifteen  steps  (39^  feet)  from  fire,
 2/8  SHAYAST   lA-SHAYAST.
 
 
-be  retained  imvardly^.  7.  When  worship  is  cele-
-brated a  prayer  is  to  be  retained^  imuardly,  and
+be  retained  imvardly^.  7.  When  worship  is  celebrated a  prayer  is  to  be  retained^  imuardly,  and
 should  menstruation  occur  the  prayer  is  to  be
 spoken  out  by  her.  8.  When  in  speaking  ottt  the
 prayer  should  menstruation  occur,  both  afterwards,
 when  the  time  was  certain  (az^tguman),  and  now
-she  is  certain  ^  9.  When  she  retains  a  prayer  m-
-ivardly,  and  a  call  of  nature  arises,  there  is  no  need
+she  is  certain  ^  9.  When  she  retains  a  prayer  mivardly,  and  a  call  of  nature  arises,  there  is  no  need
 for  her  to  speak  out  the  prayer,  for  the  formula  for
 the  call  is  to  be  spoken  by  her ''.
 
-10.  Hands  sprinkled  in  cei-emonial  2iki\\x\AO^  (pa^i-
-yaz^),  when  a  menstruous  woman  sees  them,  become
+10.  Hands  sprinkled  in  cei-emonial  2iki\\x\AO^  (pa^iyaz^),  when  a  menstruous  woman  sees  them,  become
 quite  unclean  (apa^iyaz/)  by  her  look  ^  and  even
 when  she  looks  hastily,  and  does  not  see  the  sacred
 twigs  (baresom),  it  is  the  same.  11.  And  on  the
-subject  of  a  house  (khanak-i  baba),  when  a  men-
-struous woman  is  above  in  it,  and  the  sacred  twigs
+subject  of  a  house  (khanak-i  baba),  when  a  menstruous woman  is  above  in  it,  and  the  sacred  twigs
 
 
 water,  and  the  sacred  twigs,  and  three  steps  (8  feet)  from  righteous
@@ -16330,8 +15183,7 @@ occasions.
 2  K20  has,  '  she  retains  a  prayer.'     See  Pahl.  Vend.  XVI,  5.
 2  The  meaning  is,  however,  uncertain.
 
-*  The  Pahlavi  text  is  as  follows  :  Amat  va^  yakhsenune^,  pe-
-jinkar  (Pers.  pejyar)  bara  yatune^/,  a^  va^  guftano  kar  loit
+*  The  Pahlavi  text  is  as  follows  :  Amat  va^  yakhsenune^,  pejinkar  (Pers.  pejyar)  bara  yatune^/,  a^  va^  guftano  kar  loit
 mamanaj  nask-i  pavan  ^amijn  yemaleluniino.  Compare  Pahl.
 Vend.  XVI,  5.
 
@@ -16364,13 +15216,11 @@ the  bedding  of  any  one  does  not  make  it  polluted.
 three  nights  is  not  to  be  washed  till  the  fifth  day ;
 from  the  fifth  day  onwards  to  the  ninth  day,  when-
 
-^  Pahl.  Vend.  XVI,  10  says,  'everything,  when  at  the  right  dis-
-tance, is  proper,  except  only  that  one  case,  when  uncleanness  is
+^  Pahl.  Vend.  XVI,  10  says,  'everything,  when  at  the  right  distance, is  proper,  except  only  that  one  case,  when  uncleanness  is
 above  and  cleanness  also  right  below ;  although  it  be  even  much
 below,  yet  it  is  not  proper.'  In  such  a  case  the  prescribed  distance
 of  fifteen  steps  is  not  sufficient;  therefore,  the  dashtanistan
-should  be  on  the  ground  floor,  not  over  an  underground  water-
-tank,  nor  within  fifteen  steps  of  the  water  in  such  a  tank.
+should  be  on  the  ground  floor,  not  over  an  underground  watertank,  nor  within  fifteen  steps  of  the  water  in  such  a  tank.
 
 2  Or,  possibly,  ham  ne^man  may  mean  '  a  companion  woman,'
 when  two  or  more  are  secluded  at  the  same  time.  Pahl.  Vend.
@@ -16386,35 +15236,29 @@ va,sn6  (proposed  by  Dastur  Hoshangji)  is,  however,  doubtful.
 
 28o  SHAY  AST    LA-SHAYAST.
 
-ever  she  becomes  clean,  she  is  to  sit  down  in  cleanli-
-ness one  day  for  the  sake  of  her  depletion  (tihik),
+ever  she  becomes  clean,  she  is  to  sit  down  in  cleanliness one  day  for  the  sake  of  her  depletion  (tihik),
 and  then  she  \sjit  for  washing;  and  after  nine  nights
 the  depletion  is  no  matter  \
 
 15.  A  woman  who  has  brought  forth  or  miscarried
-(nasai),  during  forty  days  sees  whenever  she  is  pol-
-luted ;  but  when  she  knows  for  certain  that  she  is
-free  from  menstruation  she  is,  thereupon,  to  be  asso-
-ciated with  meanwhile  (vada^),  from  the  forty  days^
+(nasai),  during  forty  days  sees  whenever  she  is  polluted ;  but  when  she  knows  for  certain  that  she  is
+free  from  menstruation  she  is,  thereupon,  to  be  associated with  meanwhile  (vada^),  from  the  forty  days^
 onward ;  but  when  she  knows  for  certain  that  there
 is  something  of  it,  she  is  to  be  considered  meanwhile
 as  menstruous.
 
 16.  A  menstruous  woman  when  she  has  sat  one
 month  as  menstruous,  and  becomes  clean  on  the
-thirtieth  day,  when  at  the  very  same  time  she  be-
-came quite  clean  she  also  becomes  again  men-
+thirtieth  day,  when  at  the  very  same  time  she  became quite  clean  she  also  becomes  again  men-
 struous, her  depletion  (tihik)  is  from  its  beginning,
 and  till  the  fifth  day  washing  is  not  allowable.  17.
 And  when  she  is  washed  from  the  menstruation,
-and  has  sat  three  days  in  cleanliness,  and  again  be-
-comes menstruous  as  from  the  beginning,  four  days
+and  has  sat  three  days  in  cleanliness,  and  again  becomes menstruous  as  from  the  beginning,  four  days
 are  to  be  watched  through  by  her,  and  the  fifth  day
 is   for  washing^.      18.  When   she  has  become  free
 
 
-^  See  Pahl.  Vend.  XVI,  22.  The  Hebrew  law  (Lev.  xv.  19)  pre-
-scribes a  fixed  period  of  seven  days,  except  in  abnormal  cases.
+^  See  Pahl.  Vend.  XVI,  22.  The  Hebrew  law  (Lev.  xv.  19)  prescribes a  fixed  period  of  seven  days,  except  in  abnormal  cases.
 
 ^  The  same  period  of  seclusion  as  appointed  by  the  Hebrew
 law,  after  the  birth  of  a  man  child  (see  Lev.  xii.  2-4).  The  Avesta
@@ -16424,18 +15268,15 @@ the  Hebrew  woman's  seclusion  is  divided  into  periods  of  seven  and
 thirty-three  days.
 
 ^  The  substance  of  §§  16,  17  is  given  in  Pahl.  Vend.  XVI,  22,
-but  in  language  even  more  obscure  than  here.  The  washing  men-
-tioned here  is  merely  for  the  first  menstruation ;  that  for  the  second
+but  in  language  even  more  obscure  than  here.  The  washing  mentioned here  is  merely  for  the  first  menstruation ;  that  for  the  second
 one  being  prescribed  in  §  18.
 
 
 CHAPTER    III,    15-22.  281
 
-from  the  second  menstruation  she  is  not  in  cleanli-
-ness for  nine  days  and  nights, — these  days  and
+from  the  second  menstruation  she  is  not  in  cleanliness for  nine  days  and  nights, — these  days  and
 nights  are  for  watching, — and  then  she  is  to  be
-washed ;  when  the  nine  days  aiid  nights  are  com-
-pleted, on  the  same  day  washing  is  good  \
+washed ;  when  the  nine  days  aiid  nights  are  completed, on  the  same  day  washing  is  good  \
 
 19.  Of  leucorrhoea  (/§iharak)^  when  it  has  quite
 changed  colour,  that  which  comes  on  before  and
@@ -16465,8 +15306,7 @@ when  her  pregnancy  is  certain — except  when  her
 ^  In  such  abnormal  cases  the  Hebrew  law  (Lev.  xv.  25-28)
 prescribes  seven  days'  seclusion  after  recovery.
 
-2  Av.  /^ithra,  see  explanation  of  X-iharak-homand  (Av.  /^ithra-
-van^)  in  Pahl.  Vend.  XVI,  i,  34,
+2  Av.  /^ithra,  see  explanation  of  X-iharak-homand  (Av.  /^ithravan^)  in  Pahl.  Vend.  XVI,  i,  34,
 
 ^  Dastur  Jamaspji  reads  val  bavan-i  atash,  'to  the  part  of  the
 fire.'  From  what  follows  it  would  seem  doubtful  whether  this
@@ -16478,30 +15318,24 @@ washing,
 ^  Or,  '  goes  up  from  the  place  of  menstruation.'
 
 
-282  SHAYAST    LA-SHAYAST.
-
 miscarriage  (nasai  yehevuntano)  is  evident  —  is
 then  to  be  washed  with  bull's  urine  and  water;
-when  her  pregnancy  is  not  certain  she  is  to  be  con-
-sidered as  menstruous.  23.  Some  say\  moreover,
+when  her  pregnancy  is  not  certain  she  is  to  be  considered as  menstruous.  23.  Some  say\  moreover,
 that  when  miscarriage  is  certainly  manifest  she  is,
 meanwhile,  to  be  considered  as  menstruous.  24.
-Some  say  that  when  she  is  doubtful  about  the  mis-
-carriage she  is  to  be  washed  with  ceremony  ^.
+Some  say  that  when  she  is  doubtful  about  the  miscarriage she  is  to  be  washed  with  ceremony  ^.
 
 25.  And  for  any  one^  who  comes  in  contact  with  a
 menstruous  woman,  or  with  the  person  whom  it  is
 necessary  to  wash  with  water  and  bull's  urine,  it  is
-the  root  of  a  sin  of  sixty  stirs  *.  26.  And  for  whom-
-ever knowingly  has  sexual  intercourse  with  a  men-
+the  root  of  a  sin  of  sixty  stirs  *.  26.  And  for  whomever knowingly  has  sexual  intercourse  with  a  men-
 struous woman  it  is  the  root  of  a  sin  of  fifteen
 Tanapuhars  and  sixty  stirs  ^
 
 27.  Of  a  menstruous  woman  who  sees  a  fire  the
 sin  is  one  Farman  ^  and  when  she  goes  within  three
 steps  it  is  one  Tanapuhar,  and  when  she  puts  a
-hand  on  the  fire  itself"  it  is  a  sin  of  fifteen  Tana-
-puhars ;  and  in  like  manner  as  to  the  ashes  ^  and
+hand  on  the  fire  itself"  it  is  a  sin  of  fifteen  Tanapuhars ;  and  in  like  manner  as  to  the  ashes  ^  and
 zvater  goblet  ^     28.  When  she  looks  at  water  it  is  a
 
 '  Literally,  '  there  is  one  who  says  thus.'
@@ -16533,8 +15367,7 @@ CHAPTER    III,    23-32.  283
 
 
 sin  of  one  Farman;  when  she  sits  in  water  it  is  a  sin
-of  fifteen  Tanapuhars  ;  and  when  through  disobe-
-dience she  walks  out  in  the  rain  every  single  drop
+of  fifteen  Tanapuhars  ;  and  when  through  disobedience she  walks  out  in  the  rain  every  single  drop
 is  a  sin  of  fifteen  Tanapuhars  for  her.  29.  And  the
 sun  and  other  luminaries  are  not  to  be  looked  at  by
 her,  and  animals  and  plants  are  not  to  be  looked  at
@@ -16546,8 +15379,7 @@ smites  with  a  look.
 
 30.  As  to  a  house  2  in  which  is  a  menstruous
 woman,  the  fire  of  that  house  is  not  to  be  kindled ;
-food  which  is  delivered  up  from  before  a  men-
-struous woman  is  not  proper  for  the  same  woman  ^
+food  which  is  delivered  up  from  before  a  menstruous woman  is  not  proper  for  the  same  woman  ^
 31.  A  tray-cloth  (khvano  ^amak)  which  stands
 before  her,  when  it  is  not  in  contact  with  her,  is  not
 polluted;  a  table-napkin  (pata^khur)  when  apart
@@ -16579,8 +15411,6 @@ woman  can  perform  these  rites  among  women  (see  Chap.  X,  35).
 «  The  dron  (Av.  draona,  corrupted  into  drfin  or  darun  by
 
 
-284  SHAYAST    LA-SHAYAST.
-
 (bare SO m)^  from  the  twig-stand  (bares 6m-dan),
 and  menstruation  occurs,  and  just  as  it  came  to
 ones  knowledge  one  puts  down  the  sacred  twigs  and
@@ -16606,8 +15436,7 @@ must  stand  opposite  him,  on  the  other  side  of  the  table.  The
 priest  recites  a  certain  formula  of  consecration  (chiefly  Yas.  Ill,
 i-VIII,  9),  during  which  he  uplifts  the  sacred  twigs,  and  mentions
 the  name  of  the  angel,  or  of  the  guardian  spirit  of  a  deceased
-person,  in  whose  honour  the  ceremony  is  performed.  After  con-
-secration, pieces  are  broken  off"  the  drons  by  the  officiating  priest,
+person,  in  whose  honour  the  ceremony  is  performed.  After  consecration, pieces  are  broken  off"  the  drons  by  the  officiating  priest,
 and  are  eaten  by  himself  and  those  present,  beginning  with  the
 priests  (see  Haug's  Essays,  pp.  396,  407,  408,  AV.  p.  147).
 
@@ -16615,8 +15444,7 @@ priests  (see  Haug's  Essays,  pp.  396,  407,  408,  AV.  p.  147).
 rods  or  tai  (Pahl.  tak),  formerly  twigs  of  some  particular  trees,
 but  now  thin  metal  wires  are  generally  used.  The  number  of  these
 twigs  varies  according  to  the  nature  of  the  ceremony,  but  is  usually
-from  five  to  thirty-three.  These  twigs  are  laid  upon  the  crescent-
-shaped  tops  of  two  adjacent  metal  stands,  each  called  a  mah-ru,
+from  five  to  thirty-three.  These  twigs  are  laid  upon  the  crescentshaped  tops  of  two  adjacent  metal  stands,  each  called  a  mah-ru,
 'moon-face,'  and  both  together  forming  the  baresom-dan  or
 '  twig- stand.'  The  baresom  is  prepared  for  the  sacred  rites  by
 the  recital  of  certain  prayers  by  the  officiating  priest,  during  which
@@ -16659,8 +15487,7 @@ kept  as  far  removed  as  the  sacred  twigs.
 ^  See  Vend.  XVI,  11-14,  which  states  that  the  food  is  to  be
 carried  forth  on  iron,  lead,  or  the  basest  metal.
 
-^  This  is  the  time  when  the  name  of  the  angel  or  spirit  is  men-
-tioned, in  whose  honour  the  cakes  are  consecrated  (see  §  32,  note
+^  This  is  the  time  when  the  name  of  the  angel  or  spirit  is  mentioned, in  whose  honour  the  cakes  are  consecrated  (see  §  32,  note
 on  dron,  and  Chap.  VII,  8).
 
 *  The  Itha  is  Yas.V  (so  called  from  its  first  word),  which  forms
@@ -16671,13 +15498,10 @@ Pahl.  Vend.  XVI,  1*].  These  prayers  also  form  a  portion  of  all
 ceremonial  worship,  including  the  Ya.zisn.
 
 
-286  SHAYAST   LA-SHAYAST.
-
 proper,  and  from  other  hairy  creatures  (m^yino)  it
 is  proper  among  the  lowly  (nakhe^'ik).  2.  The
 least  fulness  ^  necessary  for  it  is  exactly  three
-^ng^Y-dreadths ;  when  it  is  exactly  three  finger-
-brcadtJis  altogether  ^  from  one  side,  and  when  the
+^ng^Y-dreadths ;  when  it  is  exactly  three  fingerbrcadtJis  altogether  ^  from  one  side,  and  when  the
 rest  is  cut  off,  it  is  proper.  3,  When  one  retains  the
 prayer  inzvardly^  and  has  tied  his  girdle,  and  ties
 it  anew  once  again,  he  will  untie  that  which  he  has
@@ -16687,16 +15511,14 @@ tied,  and  it  is  not  proper  ^.
 figured  silk  (parnikano)  is  not  good  for  girdling^;
 and  cloth  of  hide  when  the  hair  is  stripped  from  it,
 of  wool,  of  hair,  of  cotton,  of  dyed  silk,  and  of  wood^
-is  proper  for  shirting  (^apikih).  5.  Four  finger-
-breadths  of  shirt '^  is  the  measure  of  its  width  aivay
+is  proper  for  shirting  (^apikih).  5.  Four  fingerbreadths  of  shirt '^  is  the  measure  of  its  width  aivay
 
 ^  Literally,  '  width  ; '  that  is,  extra  width,  or  slackness  round  the
 waist,  as  the  girdle  sits  very  loosely  over  a  loose  shirt ;  or,  as  the
 text  implies,  the  slackness  ought  to  admit  three  fingers  together,
 projecting  edgeways  from  the  waist.  After  tying  it  so  loosely,  any
 unnecessary  length  of  string  may  be  cut  off,  when  the  girdle  is
-put  on  for  the  first  time.  The  necessary  looseness  is  again  men-
-tioned in  Chap.  X,  i.
+put  on  for  the  first  time.  The  necessary  looseness  is  again  mentioned in  Chap.  X,  i.
 
 2  Literally, 'extreme  to  extreme;'  roejman-a-roejman  being
 Huzvarij  for  sarasar.
@@ -16760,8 +15582,7 @@ for  the  negative  particle.
 
 *  This  sin  is  called  visha</-dubarijnih  ;  it  is  mentioned  in
 Pahl.  Vend.  V,  167,  VII,  48,  but  not  described  there.  The  usual
-definition  of  the  sin  is  '  walking  about  without  the  sacred  thread-
-girdle;'  and  it  is  generally  classed  with  the  two  other  Parsi  sins  of
+definition  of  the  sin  is  '  walking  about  without  the  sacred  threadgirdle;'  and  it  is  generally  classed  with  the  two  other  Parsi  sins  of
 '  walking  with  one  boot '  and  '  making  water  on  foot '  (see  AV.
 XXV,  5,  6) ;  sometimes  a  fourth  Parsi  sin,  '  unseasonable  chatter,'
 is  associated  with  them,  as  in  the  text,  but  this  is  supposed  to  be
@@ -16770,8 +15591,6 @@ punished  in  a  different  manner  in  hell  (see  AV.  XXIII).
 ^  Indicating  that  it  is  not  absolutely  necessary  to  wear  the  sacred
 thread-girdle  till  one  is  fifteen  years  old  (see  Chap.  X,  1 3).
 
-
-288  SHAYAST    LA-SHAYAST.
 
 chatter^  arises  after  fifteen  years  of  age^.  lo.  The
 sin  of  running  about  uncovered,  as  far  as  three
@@ -16794,15 +15613,13 @@ effect,  of  the  va^.
 ^  This  is  modified  by  Chap.  V,  i,  2.
 
 ^  See  Chap.  I,  i,  2.  These  particulars  are  deduced  by  the
-Pahlavi  commentator  from  Vend.  XVIII,  115,  which  refers,  how-
-ever, to  a  special  case  of  going  without  girdle  and  shirt.  He  says
+Pahlavi  commentator  from  Vend.  XVIII,  115,  which  refers,  however, to  a  special  case  of  going  without  girdle  and  shirt.  He  says
 (Pahl.  Vend.  XVIII,  116),  '  so  that  as  far  as  the  fourth  step  it  is
 not  more  than  (ai)  a  Srosho-z^aranam,  and  at  the  fourth  step  it
 amounts  to  the  root  of  a  Tanapuhar  within  him ;  some  say  that  he
 is  within  what  is  allowed  him  in  going  three  steps.  When  he  walks
 on  very  many  steps  it  is  also  not  more  than  a  Tanapuhar,  and
-when  he  stops  again  it  is  counted  from  the  starting-point '  (com-
-pare §  12).
+when  he  stops  again  it  is  counted  from  the  starting-point '  (compare §  12).
 
 *  Probably  referring  to  the  possibility  of  tying  the  girdle  over
 a  woman's  hair,  when  hanging  loose  down  to  her  waist.  The
@@ -16811,8 +15628,7 @@ whole  of  their  hair  with  a  white  handkerchief  tied  closely  over  the
 head ;  but  whether  this  is  an  ancient  custom  is  uncertain,
 
 ^  This  sin,  which  is  mentioned  in  Bund.  XXVIII,  13,  is  called
-ae-muk-dubarij'nih  or  khadft-muk-dubarij'nih,  literally,  'run-
-ning in  one  boot,'  and  is  usually  so  understood,  but  how  there
+ae-muk-dubarij'nih  or  khadft-muk-dubarij'nih,  literally,  'running in  one  boot,'  and  is  usually  so  understood,  but  how  there
 can  be  any  risk  of  the  committal  of  so  inconvenient  an  offence  is
 not  explained.  Dastur  Hoshangji  thinks  that  ae-muk,  'one  boot,'
 was  formerly  written  avi-muk,  'without  boots;'  and  no  doubt
@@ -16826,8 +15642,7 @@ CHAPTER    IV,    10-14,  289
 a  Tanaptihar  sin,  when  with  one  ^  movement ;  and
 after  the  fourth  step  as  much  as  one  shall  walk  is  a
 Tanaptihar;  and  when  he  sits  down  and  walks  on
-the  sin  is  the  same  that  it  would  be  from  his  starting-
-point  (b<anih);  and  there  were  some  who  said  it  is  a
+the  sin  is  the  same  that  it  would  be  from  his  startingpoint  (b<anih);  and  there  were  some  who  said  it  is  a
 Tanipuhar  for  each  league  (para sang).
 
 13.  At  night,  when  they  lie  down,  the  shirt  mid
@@ -16874,8 +15689,6 @@ estimated ;  and,  by  a  further  process  of  reasoning,  the  good  works
 A       _      _    A  .
 
 
-290  SHAYAST    LA-SHAYAST.
-
 sleep    decease    occurs,    his    renunciation    of  sin   is
 accomplished  \
 
@@ -16913,8 +15726,7 @@ recitation  of  a  particular  formula  called  the  Patit,  in  which  every
 imaginable  sin  is  mentioned  with  a  declaration  of  repentance  of
 any  such  sins  as  the  reciter  may  have  committed.  The  priest
 ordains  such  atonement  as  he  thinks  necessary,  but  the  remission
-of  the  sins  depends  upon  the  after  performance  of  the  atone-
-ment and  the  effectual  determination  to  avoid  such  sins  in  future
+of  the  sins  depends  upon  the  after  performance  of  the  atonement and  the  effectual  determination  to  avoid  such  sins  in  future
 (see  Chap.  VIII,  i,  2,  8).
 
 ^  See  Chap.  IV,  9.
@@ -16936,8 +15748,7 @@ such  is  as  when  his  ritual  is  not  performed  and  there
 is  no  offering  (yastofri^),  and  some  have  said  that
 it  is  not  unseasonable  chatter.
 
-3.  Unseasonable  chatter  may  occur  at  every  cere-
-monial (ya^'ii'no);  yi?r  him  who  has  performed  the
+3.  Unseasonable  chatter  may  occur  at  every  ceremonial (ya^'ii'no);  yi?r  him  who  has  performed  the
 ritual  it  is  a  TanapCihar  sin  ^•  for  him  who  has  not
 performed  the  ritual  //  is  less,  some  have  said  three
 Srosho-zC-aranams*'.  4.  The  measure  of  unseasonable
@@ -16971,8 +15782,6 @@ prayers  (see  Chap.  Ill,  6,  note).
 U    2
 
 
-292  SHAYAST   LA-SHAYAST.
-
 him  who  has  not  performed  the  ritual  Afarg  ^  said
 this  degree  is  slighter ;  Me^ok-mah  ^  said  both  are
 alike,  and  he  spoke  further  of  this,  since  for  him
@@ -16980,12 +15789,10 @@ who  has  not  performed  the  ritual,  and  does  not
 attend  to  ^  saying  its  Itha  and  Ashem-vohu,  it  is
 more  severe  than  for  him  who  has  performed  the
 ritual,  and  does  not  attend  to  consecrating  its  sacred
-cake  (dron).  6.  Mert'ok-mah  said  that  it  (the  cere-
-monial)^ does  not  become  Geto-khart^*;  Afarg
+cake  (dron).  6.  Mert'ok-mah  said  that  it  (the  ceremonial)^ does  not  become  Geto-khart^*;  Afarg
 said  that  it  amounts  to  an  offering  (yastofria^)^  for
 every  one,  except  for  that  person  who  knozvs  the
-ritual  by  heart,  and  through  sinfulness  will  not  per-
-form it;  and  it  becomes  his  at  the  time  when,
+ritual  by  heart,  and  through  sinfulness  will  not  perform it;  and  it  becomes  his  at  the  time  when,
 during  his  life  and  by  his  command,  it  is  recited
 with  this  intention,  namely :  *  I  wish  to  do  it,  my
 faith  (astobanih)  is  in  the  religion*','
@@ -17002,12 +15809,10 @@ ashem,  ashem ;'  and  if  it  be  possible  for  him  to  say
 
 *  Durin2:  which  unseasonable  chatter  occurs.
 
-*  Generally  written  Geii-khari^  (see  Bund.  XXX,  28);  but,  per-
-haps, we  should  here  read  yastofri^,  'offering,'  though  getok-
+*  Generally  written  Geii-khari^  (see  Bund.  XXX,  28);  but,  perhaps, we  should  here  read  yastofri^,  'offering,'  though  getok-
 kharit/ occurs  in  Chap.  XII,  30.
 
-^  The  MSS.  have  merely  stofrit/,  which  differs  from  the  fore-
-going get6-khari</  only  in  one  Pahlavi  letter,  so  we  should
+^  The  MSS.  have  merely  stofrit/,  which  differs  from  the  foregoing get6-khari</  only  in  one  Pahlavi  letter,  so  we  should
 probably  read  the  same  word  in  both  cases,  but  which  of  them  it
 ought  to  be  is  uncertain.
 
@@ -17029,19 +15834,15 @@ only  possible  for  him  to  say  'itha'  it  matters  not\
 Chapter  VI.
 
 I.  The  deaf  and  dumb  and  helpless  (arm^5t)^
-though  of  unblemished  conduct  and  proper  disposi-
-tion, is  incapable  of  doing  good  works,  and  from
+though  of  unblemished  conduct  and  proper  disposition, is  incapable  of  doing  good  works,  and  from
 the  time  when  he  is  born  till  the  time  when  he  shall
 die,  all  the  duty  and  good  works  which  they  may
 perform  in  the  world  become  his  property  (naf^-
-man)  as  much  as  his  even  by  whom  they  are  per-
-formed ;  some  say  that  it  is  thus  :  as  much  as  they
+man)  as  much  as  his  even  by  whom  they  are  performed ;  some  say  that  it  is  thus  :  as  much  as  they
 belong  to  Zaratu^t^  2.  Though  he  does  not  do
-the  good  works  not  really  originating  with  (aham-
-buni/^)  him,  and  does  not  commit  the  sin  not  really
+the  good  works  not  really  originating  with  (ahambuni/^)  him,  and  does  not  commit  the  sin  not  really
 originating  with  him,  it  is  better  than  though  he
-were  able  to  do  the  good  works  not  really  origin-
-ating with  him,  and  should  not  do  them ;  but  should
+were  able  to  do  the  good  works  not  really  originating with  him,  and  should  not  do  them ;  but  should
 commit  the  sin  not  really  originating  with  him  ;
 when,  afterwards,  he  passes  away,  and  then  also
 comes  to  his  account  as  to  sin  and  good  works,
@@ -17058,16 +15859,12 @@ or  insane  person,  is  probably  meant  here.
 
 3  This  comment  seems  to  imply  that  its  writer  was  translating
 from  an  Avesta  text,  and  here  met  with  a  word  which  some  persons
-thought  contained  a  reference  to  Zaratiut,  but  which  he  first  trans-
-lated°so  as  to  suit  the  context;  perhaps  Av.  zarazdaiti  may  be
+thought  contained  a  reference  to  Zaratiut,  but  which  he  first  translated°so  as  to  suit  the  context;  perhaps  Av.  zarazdaiti  may  be
 suggested.
 
 
-294  SHAYAST    LA-SHAYAST.
-
 not  really  originating  with  him  is  more  he  is  in  hell,
-and  when  both  are  equal  he  is  among  the  ever-
-stationary  (hamistakan)\  3.  When  the  good  works
+and  when  both  are  equal  he  is  among  the  everstationary  (hamistakan)\  3.  When  the  good  works
 are  three  Srosho-Z'aranams  ^  more  than  the  sins  he
 is  in  heaven  (vahi^t),  when  the  good  works  are  one
 Tanapljhar  more  he  attains  to  the  best  existence
@@ -17078,8 +15875,7 @@ imputed  to  him,  precisely  as  all  others  are  with  regard  to  their
 own  actions.  With  reference  to  the  hamistakan,  Arrt'a-Viraf
 states  (AV.VI,  2,  5-12)  that  on  his  journey  to  the  other  world  he
 '  saw  the  souls  of  several  people  who  remain  in  the  same  position,'
-and  he  was  informed  that  '  they  call  this  the  place  of  the  Hamis-
-takan ("those  ever-stationary"),  and  these  souls  remain  in  this
+and  he  was  informed  that  '  they  call  this  the  place  of  the  Hamistakan ("those  ever-stationary"),  and  these  souls  remain  in  this
 place  till  the  future  existence ;  and  they  are  the  souls  of  those
 people  whose  good  works  and  sin  were  equal.  Speak  out  to  the
 w'orldlings  thus :  "  Consider  not  the  easier  good  works  with  avarice
@@ -17113,20 +15909,16 @@ CHAPTER   VI,    3-6.  295
 
 formed  \  4.  Soshyans  ^  said  that  to  come  into  that
 best  existence  it  is  not  necessary  to  perform  the
-ceremony,  for  when  his  good  works  are  one  ^  Tana-
-puhar  more  than  the  sin  he  attains  to  the  best
+ceremony,  for  when  his  good  works  are  one  ^  Tanapuhar  more  than  the  sin  he  attains  to  the  best
 existence,  and  no  account  is  taken  of  performing  his
-ceremony;  because  in  the  heavenly  existence  (ga-
-rortfmanikih)  it  is  not  necessary  to  perform  a
+ceremony;  because  in  the  heavenly  existence  (garortfmanikih)  it  is  not  necessary  to  perform  a
 ceremony,  for  an  excess  of  good  works  must  attain
 Garortfm^n  *.  5.  As  Soshyans  said,  in  heaven
 (vahi^t)  he  who  is  below  is  elevated  to  him  who  is
 above ;  and  it  says  thus  :  *  Happy  indeed  art  thou,
-O  man!  who  art  in  any  way  near  unto  that  im-
-perishable existence  ^.'
+O  man!  who  art  in  any  way  near  unto  that  imperishable existence  ^.'
 
-6.  Kushtano-bCi^e^^  said  that  an  infidel  (ak-
-dino)  ^  when  his  good  works  are  one  Tanapuhar
+6.  Kushtano-bCi^e^^  said  that  an  infidel  (akdino)  ^  when  his  good  works  are  one  Tanapuhar
 more  than  his  sin,  is  saved  from  hell.
 
 
@@ -17163,8 +15955,7 @@ atheist.
 296  SHAYAST   LA-SIIAYAST.
 
 
-7.  Of  a  pure  law  (da^)  are  we  of  the  good  reli-
-gion, and  we  are  of  the  primitive  faith ;  of  a  mixed
+7.  Of  a  pure  law  (da^)  are  we  of  the  good  religion, and  we  are  of  the  primitive  faith ;  of  a  mixed
 law  are  those  ^  the  Sinik  congregation^;  of  a  vile
 
 1  It  is  not  easy  to  identify  this  Sinik  vajkar<^ih,  but  Professor
@@ -17172,18 +15963,15 @@ J.  Darmesteter  suggests  that  the  term  may  have  been  appHed  to  the
 Manicheans  settled  in  eastern  Turkistan  and  western  China,  whence
 they  may  have  been  called  Sinik  (the  country  of  the  Seni,  Av,
 Saini,  being  identified  with  A^inistan  or  China  in  Bund.  XV,  29,
-because  T'^in  is  the  Arabic  name  of  the  latter).  This  is  con-
-firmed, to  some  extent,  by  a  passage  in  the  Dinkar^  (see  Dastur
+because  T'^in  is  the  Arabic  name  of  the  latter).  This  is  confirmed, to  some  extent,  by  a  passage  in  the  Dinkar^  (see  Dastur
 Pgshotan's  edition  of  the  Pahlavi  text,  p.  27),  where  three  foreign
 religions  are  mentioned,  that  of  the  Jews  from  Arum,  that  of  the
-Messiah  from  the  west,  and  that  of  Manih  from  Turkistan.  Dar-
-mesteter further  points  out  the  following  passages  in  Barbier  de
+Messiah  from  the  west,  and  that  of  Manih  from  Turkistan.  Darmesteter further  points  out  the  following  passages  in  Barbier  de
 Meynard's  French  translation  of  Mas'audi,  which  show  that  the
 Manicheans  had  considerable  influence  in  eastern  Turkistan  as  late
 as  A.D.  944  : —
 
-(Meynard,  I,  268) :  '.  .  .  the  Turks,  the  Khuzlu^,  and  the  Ta-
-ghazghaz,  who  occupy  the  town  of  Kuran,  situated  between
+(Meynard,  I,  268) :  '.  .  .  the  Turks,  the  Khuzlu^,  and  the  Taghazghaz,  who  occupy  the  town  of  Kuran,  situated  between
 Khurasan  and  China,  and  who  are  now  (a.d.  944)  the  most
 valiant,  most  powerful,  and  best  governed  of  all  the  Turkish  races
 and  tribes.  Their  kings  bear  the  title  of  irkhan  ("sub-khan.?"),
@@ -17203,8 +15991,7 @@ and  sickness,  riches  and  poverty,  light  and  darkness,  union  and
 separation,  connection  and  severance,  rising  and  setting,  existence
 and  non-existence,  night  and  day,  &c.  Then,  he  spoke  to  them  of
 the  various  ailments  which  afflict  rational  beings,  animals,  children,
-idiots,  and  madmen;  and  he  added  that  God  could  not  be  re-
-sponsible for  this  evil,  which  was  in  distressing  contradiction  to
+idiots,  and  madmen;  and  he  added  that  God  could  not  be  responsible for  this  evil,  which  was  in  distressing  contradiction  to
 the  excellence  which  distinguishes  his  works,  and   that  he  was
 
 
@@ -17220,8 +16007,7 @@ Chapter  VII.
 I.  The  morning  sun  it  is  necessary  to  reverence
 (ya5tan6)  till  midday,  and  that  of  midday  it  is
 necessary  to  reverence  till  the  afternoon  time,  and
-that  of  the  afternoon  time  it  is  necessary  to  re-
-verence till  nighty   whenever  ^;^^  is  quite  prepared
+that  of  the  afternoon  time  it  is  necessary  to  reverence till  nighty   whenever  ^;^^  is  quite  prepared
 
 above  any  such  imputation.  By  these  quibbles,  and  others  like
 them,  he  carried  away  their  minds,  and  made  them  adopt  his
@@ -17230,8 +16016,7 @@ errors.'
 The  tenets  of  the  Manicheans  ought,  no  doubt,  to  have  been
 considered  by  the  Zoroastrians  as  a  mixture  of  truth  and  error,
 just  as  those  of  the  Sinik  congregation  are  represented  to  be  in
-our  text ;  but  such  tenets  being  an  heretical  offshoot  of  Zoroas-
-trianism,  it  argues  unusual  liberality  in  the  priests  if  they  preferred
+our  text ;  but  such  tenets  being  an  heretical  offshoot  of  Zoroastrianism,  it  argues  unusual  liberality  in  the  priests  if  they  preferred
 Manicheans  to  Christians,  that  is,  heretics  to  infidels.
 
 K20  has  altered  sinik  va^kar^ih  into  nisinik(or  vidinik)
@@ -17242,8 +16027,7 @@ attention  to  their  collective  meaning.
 ^  A  sect  which  (according  to  its  name)  probably  adhered  to  a
 certain  heretical  interpretation  (zand)  in  preference  to  the  orthodox
 Avesta  and  Zand.  Neryosang,  in  his  Sanskrit  version  of  Mkh.
-XXXVI,  16,  explains  a  Zandik  as  one  who  'thinks  well  of  Ahar-
-man  and  the  demons.'
+XXXVI,  16,  explains  a  Zandik  as  one  who  'thinks  well  of  Aharman  and  the  demons.'
 
 2  Unless  this  paragraph  be  a  continuation  of  the  quotation  from
 Kushtano-bu^e^'s  commentary,  which  seems  unlikely,  its  contents
@@ -17253,15 +16037,11 @@ have  been  written  after  the  fall  of  the  Sasanian  dynasty,  when  that
 new  faith  had  become  much  more  important,  in  Persia,  than  those
 of  the  Christians  and  Jews.
 
-3  Referring  to  the  recitation  of  the  Khurshe^  Nyayi.y,  or  '  saluta-
-tion of  the  sun,'  which  should  be  performed  thrice  a  day,  in  the
+3  Referring  to  the  recitation  of  the  Khurshe^  Nyayi.y,  or  '  salutation of  the  sun,'  which  should  be  performed  thrice  a  day,  in  the
 Havan,  Rapitvin,  and  Auzerin  Gahs,  or  periods  of  the  day  (see
 
 
-298  SHAYAST   LA-SHAYAST.
-
-for  activity  (khve^karih),  and  shall  then  do  rever-
-ence, it  is  proper.  2.  And  when  anything  of  that
+for  activity  (khve^karih),  and  shall  then  do  reverence, it  is  proper.  2.  And  when  anything  of  that
 happens  which  indicates  when  it  is  not  proper  to
 wash  the  hands,  and  about  this  he  considers  that
 when  he  does  not  reverence  the  sun  it  will  stop  \  at
@@ -17316,8 +16096,7 @@ own  ;  some  say  that  of  the  good  works  which  they
 do  within  the  law  (da^f)  of  the  good  religion  he  has
 no  share.  7.  While  they  do  not  wash  dirty  hands
 any  good  work  which  they  do  is  not  their  own,  for
-while  one  does  not  utterly  destroy  corruption  (na-
-sui-)^  there  is  no  coming  of  the  angels  to  his  body,
+while  one  does  not  utterly  destroy  corruption  (nasui-)^  there  is  no  coming  of  the  angels  to  his  body,
 and  when  there  is  no  coming  of  the  angels  to  his
 body  he  has  no  steadfastness  in  the  religion,  and
 when  he  has  no  steadfastness  in  the  religion  no
@@ -17325,8 +16104,7 @@ good  work  whatever  reaches  unto  him.
 
 8.  When  one  wishes  to  perform  the  propitiation
 (shnuman)^  of  fire,  it  is  allowable  to  perform  one
-'athro  '  by  itself,  and,  when  two  and  the  '  ma^  vis-
-paeibyo  aterebyo,'  these  three  are  thus  the  pro-
+'athro  '  by  itself,  and,  when  two  and  the  '  ma^  vispaeibyo  aterebyo,'  these  three  are  thus  the  pro-
 pitiation everywhere^;  some  say  that  it  would  be
 proper  to  perform  it  while  allowable,  except  that  of
 the  heterodox.
@@ -17340,8 +16118,7 @@ destroyed  by  cleansing.
 formula  of  praise,  reciting  all  the  usual  titles  of  the  spirit  intended
 to  be  propitiated  by  it,  and  is  used  for  dedicating  the  prayers  or
 ceremony  specially  to  his  service  (see  Chaps.  Ill,  35,  X,  2,  XIV,
-3).  The  propitiatory  formulas  for  the  thirty  angels  and  arch-
-angels who  preside  over  the  days  of  the  month  constitute  the
+3).  The  propitiatory  formulas  for  the  thirty  angels  and  archangels who  preside  over  the  days  of  the  month  constitute  the
 Sirozah,  or  form  of  prayer  '  relating  to  the  thirty  days.'
 
 ^  The  propitiation  of  fire  (as  given  in  Siroz.  I,  9,  Ataf  Nyayij-
@@ -17353,12 +16130,8 @@ sentences  (probably  the  last),  but  if  two  are  used  besides  the  last
 they  are  amply  sufficient  for  practical  purposes.
 
 
-300  SHAYAST   LA-SHAYAST.
-
-
 9.  Whoever  shall  extinguish  ^  a  fire,  by  him  ten
-fires  are  to  be  gathered  together,  by  him  ten  punish-
-ments are  to  be  endured,  by  him  ten  ants  are  to  be
+fires  are  to  be  gathered  together,  by  him  ten  punishments are  to  be  endured,  by  him  ten  ants  are  to  be
 destroyed^,  and  by  him  holy-water  (zohar)  is  to  be
 presented  to  the  sacred  fire  (atai--i  Vahram).
 
@@ -17378,15 +16151,13 @@ appear  to  be  divided  into  two  great  classes,  hamemal  and
 rubanik.  A  hamemal  sin  seems  to  be  any  secular  offence
 which  injures  some  person  or  animal  who,  thereupon,  becomes  a
 hamemal,  'accuser'  (Av.  hameretha,  'opponent,'  Yas.  LVI,  x,
-10),  and  who  must  first  be  satisfied  by  atonement,  before  con-
-fession to  the  high-priest,  or  renunciation  of  sin,  can  be  of  any
+10),  and  who  must  first  be  satisfied  by  atonement,  before  confession to  the  high-priest,  or  renunciation  of  sin,  can  be  of  any
 avail  for  removing  the  sin  (compare  Matthew  v.  23-26).  The
 Rivayats  assert  that  if  a  person  dies  without  atoning  for  a
 hamemal  sin,  his  soul  will  be  stopped  at  the  K'\n\2id  bridge  (see
 Bund.  XII,  7)  on  its  way  to  the  other  world,  and  kept  in  a  state  of
 torment  until  the  arrival  of  the  '  accuser,'  and  after  he  is  satisfied
-the  sinner's  soul  will  be  disposed  of,  in  the  usual  manner,  accord-
-ing to  the  balance  of  its  good  and  bad  actions.  It  is  also  probable
+the  sinner's  soul  will  be  disposed  of,  in  the  usual  manner,  according to  the  balance  of  its  good  and  bad  actions.  It  is  also  probable
 that  only  a  man  of  '  the  good  religion,'  or  an  animal  of  the  good
 creation,  can  be  an  'accuser.'  A  rubanik  sin,  on  the  other  hand,
 seems  to  be  one  which  affects  only  the  sinner's  own  soul,  and  for
@@ -17402,8 +16173,7 @@ mentioning  certain  special  instances  of  each  class  of  sin  ;   thus,
 CHAPTER    VII,  9-VIII,  3.  301
 
 the  soul  is  to  be  atoned  for  among  the  high-priests
-(ra</an),  and  when  they  do  whatever  the  high-
-priests  of  the  rehgion  command  the  sin  will  depart,
+(ra</an),  and  when  they  do  whatever  the  highpriests  of  the  rehgion  command  the  sin  will  depart,
 and  the  good  works  which  they  may  thenceforth  do
 will  attain  completion  (avasporik).  2.  The  sin  of
 him  who  is  worthy  of  death  (marg-ar^an)  is  to  be
@@ -17431,8 +16201,7 @@ mentioned,  but  hamemalan  occurs  in  Pahl.  Vend.  Ill,  151,  IV,
 worthy  of  death,  he  has  forfeited  his  life,  and  ought  to  place  it  at
 the  disposal  of  the  X2.d,  or  high-priest.
 
-^  This  section,  intended  to  preserve  game  for  the  poor,  is  evi-
-dently out  of  place  here,  as  it  has  no  connection  with  the  context.
+^  This  section,  intended  to  preserve  game  for  the  poor,  is  evidently out  of  place  here,  as  it  has  no  connection  with  the  context.
 With  reference  to  the  property  qualification  for  hunting,  it  appears,
 from  a  passage  in  the  Persian  MS.  M5  about  the  proper  dowry  for
 a  privileged  wife,  that  2000  dirhams  of  silver  were  worth  2300
@@ -17444,8 +16213,6 @@ been  1380  rupis  or  1350  tolas  of  silver,  according  to  the  standards
 mentioned  in  M5 ;  so  that  hunting  was  intended  to  be  confined
 to  those  whose  property  was  less  than  1 350-1 380  rupis  ;  but  how
 
-
-302  SHAYAST    LA-SHAYAST.
 
 4.  The  ceremonial  worship  (ya^'i^n)  of  those
 worthy  of  death,  which  they  do  not  perform  by  way
@@ -17459,8 +16226,7 @@ person  who  has  at  once  (aeva/§)  become  righteous
 in  mind.
 
 5.  When  the  mortal  sinner  (marg-ar^ano)  has
-delivered  his  body  and  wealth  at  once  to  the  high-
-priests,  and  engages  mentally  in  renunciation  as  to
+delivered  his  body  and  wealth  at  once  to  the  highpriests,  and  engages  mentally  in  renunciation  as  to
 the  sin  which  has  occurred,  and  the  high-priests  give
 him  their  decision  (dastobarih)  as  to  duty  and
 good  works,  the  duty  and  good  works  which  zvere
@@ -17476,8 +16242,7 @@ this  limitation  is  to  be  reconciled  with  the  fact  that  hunting  was  a
 favourite  pursuit  of  kings  and  nobles  does  not  appear,  unless  it  be
 considered  as  a  sacerdotal  protest  against  that  practice.
 
-^  That  is,  in  those  cases  when  they  do  not  have  the  yasi^n  per-
-formed as  an  atonement  for  sin,  by  order  of  the  high-priest  after
+^  That  is,  in  those  cases  when  they  do  not  have  the  yasi^n  performed as  an  atonement  for  sin,  by  order  of  the  high-priest  after
 confession.
 
 2  This  appears  to  refer  to  temporal  punishment,  inflicted  by
@@ -17502,20 +16267,16 @@ they  will  make  hi77i  alive  again,  and  will  inflict
 
 8.  However  a  man  engages  in  renunciation  of  sin
 the  duty  of  his  state  of  renunciation  (patitih)  is  to
-be  engaged  therein  openly  and  mentally  in  renuncia-
-tion ;  the  duty  of  openness  is  this,  that  the  sin  which
-he  knows  has  assailed  him  ^,  is  to  be  specially  con-
-fessed (bara  gobii-no)  by  him  ;  and  the  mental
+be  engaged  therein  openly  and  mentally  in  renunciation ;  the  duty  of  openness  is  this,  that  the  sin  which
+he  knows  has  assailed  him  ^,  is  to  be  specially  confessed (bara  gobii-no)  by  him  ;  and  the  mental
 duty  is  this,  that  he  engages  in  renunciation  with
 this  thought,  that  '  henceforth  I  will  not  commit
-sin.'  9.  And  that  which  occurs  before  the  renuncia-
-tion, except  pious  alms,  it  is  well  for  him  not  to  be
+sin.'  9.  And  that  which  occurs  before  the  renunciation, except  pious  alms,  it  is  well  for  him  not  to  be
 overlooked  ^  by  him,  and  not  to  be  kept  ^  secret  by
 him  ;  for  when  he  shall  overlook*^,  or  shall  keep
 secret,  about  sin  committed,  it  becomes  for  him  as
 
-^  That  is,  the  usual  ceremonies  after  death  are  not  to  be  with-
-held in  this  world,  and  his  soul  is  able  to  pass  through  the  usual
+^  That  is,  the  usual  ceremonies  after  death  are  not  to  be  withheld in  this  world,  and  his  soul  is  able  to  pass  through  the  usual
 investigation,  as  to  his  sins  and  good  works,  on  its  way  to  the
 other  world,  without  delay.  This  period  of  three  nights  (satuih,
 'the  triplet'),  which  Pazand  writers  miscall  sedoj  or  sadis,  is  the
@@ -17529,15 +16290,12 @@ for  impenitent  sinners,  mentioned  in  Bund.  XXX,  i6.
 
 ^  Literally,  '  which  he  knows  thus  :  "  It  assailed  me." '
 
-*  Reading  aveni.yn6,  but  the  word  can  also  be  read  khunin-
-ij-no,  'to  be  made  celebrated,  to  be  boasted  of.'
+*  Reading  aveni.yn6,  but  the  word  can  also  be  read  khuninij-no,  'to  be  made  celebrated,  to  be  boasted  of.'
 
 ^  Literally,  '  carried  on,  borne  away.'
 
 ^  Reading  avene^,  but  it  may  be  khuninec/,  'boast  of.'
 
-
-304  SHAYAST    LA-SHAYAST.
 
 much,  some  say,  as  three  Srosho-Z'aranams  ^ ;  some
 say  that  when  he  keeps  secret  about  a  sin  of  three
@@ -17546,23 +16304,20 @@ much  otherwise  ^  lO.  Ataro-pa^  son  of  ZaratlJ^t^
 had  remarked  (pe^^akini^)  to  a  disciple,  about  this
 duty,  thus:  'Conform  to  the  renunciation  of  si?t/'
 and  one^  time  a  secret  was  kept  by  him,  and  he
-ordered  him  thus  :  'Henceforth  be  thou  never  appa-
-rent in  this  duty!'  and  after  that  he  looked  upon
+ordered  him  thus  :  'Henceforth  be  thou  never  apparent in  this  duty!'  and  after  that  he  looked  upon
 the  supplication  (avakhshih)  and  much  repentance
 of  that  disciple,  and  even  then  he  did  not  become
 the  high-priest  (dastobar)  over  him,
 
 II.  The  rule  is^  this,  that  of  those  who  would  be
 proper  for  this  priestly  duty  (dastobarih),  that
-person  is  proper  who  is  perfect  in  (narm)  the  com-
-mentary (zand)  of  the  law,  and  the  punishment  of
+person  is  proper  who  is  perfect  in  (narm)  the  commentary (zand)  of  the  law,  and  the  punishment  of
 sin  is  easy  for  him,  and  he  has  controlled  himself;
 some  say  thus :  '  By  whom  a  course  of  priestly
 studies  (aerpatastan)  is  performed.'  12.  And  the
 punishment  of  sin  being  easy  for  him,  and  his  having
 controlled  himself  are  proper ;  and  when,  in  danger
-before  a  menstruous  woman,  he  engages  in  renun-
-ciation it  is  proper.
+before  a  menstruous  woman,  he  engages  in  renunciation it  is  proper.
 
 '  Probably  the  same  as  a  Farman  sin  (see  Chaps.  I,  i,  2,  IV,  14).
 
@@ -17578,8 +16333,7 @@ single  name  so  common  as  Atar6-pa</  used  to  be.
 
 *  Reading  ae, '  one,'  instead  of  hana,  'this'  (see  p.  218,  note  3).
 
-"  Assuming  that  the  word  ainak  has  been  omitted  at  the  begin-
-ning of  this  section  (see  Chap.  X,  i).
+"  Assuming  that  the  word  ainak  has  been  omitted  at  the  beginning of  this  section  (see  Chap.  X,  i).
 
 
 CHAPTER    VIII,     10-14.  305
@@ -17587,16 +16341,13 @@ CHAPTER    VIII,     10-14.  305
 13.  Neryosang^  said  thus:  'Thou  deemest  it
 most  surprising  that,  of  the  renunciation  of  sm  with
 energy,  whatever  may  be  its  efficacy,  they  have
-been  so  imich  of  the  same  -  opinion,  so  that  when-
-ever they  perform  renunciation,  however  they  per-
+been  so  imich  of  the  same  -  opinion,  so  that  whenever they  perform  renunciation,  however  they  per-
 form it,  and  before  whomever  they  perform  it,
 whenever  a  sin  is  not  even  mentally  originating
 with  one  ^  a  renunciation  should  be  performed  by
-him ;  and  when  very  many  mortal  sins  (marg-
-ar^an)  are  committed  by  him,  and  he  engages
+him ;  and  when  very  many  mortal  sins  (margar^an)  are  committed  by  him,  and  he  engages
 mentally  in  renunciation  of  every  one  separately,  he
-is  not  on  ^  the  way  to  hell,  owing  to  his  renuncia-
-tion ;  and  if  there  be  one  of  which  he  is  not  in
+is  not  on  ^  the  way  to  hell,  owing  to  his  renunciation ;  and  if  there  be  one  of  which  he  is  not  in
 renunciation  the  way  to  helH  is  not  closed  to  him,
 for  he  does  not  rely  upon  the  beneficence  {^\kd)  of
 Auharmazd,  and  it  is  allowable  to  appoint  a  priestly
@@ -17629,8 +16380,6 @@ note  5),
 [5]  X  -
 
 
-306  SHAYAST    LA-SHAYAST.
-
 accusers  ^  it  will  be  necessary  to  act  so  that  the  head
 of  the  family  (mirak)  shall  not  become  evil-minded^,
 and  shall  not  divorce  the  wife  from  matrimony,  and
@@ -17639,10 +16388,8 @@ accusers  he  is  to  be  engaged  in  renunciation,  and
 when  not,  he  is  to  be  engaged  in  renunciation  of  the
 sin  before  the  high-priests  (rart'an),  and  it  will
 become  debts,  and  debt  does  not  make  a  man
-wicked^;  its  effect  is  this,  that  in  the  future  exist-
-ence they  may  quite  forsake  him,  and  this  becomes
-a  great  shame,  and  they  disturb  (kaz^end)  his  enjoy-
-ment. 15.  As  to  the  sin  which  affects  the  accusers,
+wicked^;  its  effect  is  this,  that  in  the  future  existence they  may  quite  forsake  him,  and  this  becomes
+a  great  shame,  and  they  disturb  (kaz^end)  his  enjoyment. 15.  As  to  the  sin  which  affects  the  accusers,
 when  the  female  has  atoned  for  it,  its  stem  (pa yak)
 is  atoned  for;  some  say  that  the  stem  (payakghih)
 has  no  root;  some  say  that  it  is  just  like  a  tree
@@ -17652,8 +16399,7 @@ whose  leaves  wither  away.
 renunciation,  stays  2.w2iy  from  him ;  when  it  shall  be
 fully  atoned  for  it  is  well,  and  when  he  does  not
 fully  atone  they  will  make  him  righteous  by  the
-three  nights  (satuih)  punishment.  17.  Kushtano-
-hxlgo^d^  said  that  even  that  which  affects  accusers,
+three  nights  (satuih)  punishment.  17.  Kushtanohxlgo^d^  said  that  even  that  which  affects  accusers,
 when  one  engages  in  renunciation,  stays  diWdiy  from
 him.
 
@@ -17697,8 +16443,7 @@ is  committed  by  him,  and  he  shall  consecrate  "a
 sacred  cake  (dron),  or  shall  accomplish  a  good  work
 of  one  Tanapuhar  ^,  it  has  atoned  for  it.
 
-21.  When  he  has  committed  a  mortal  sin  (marg-
-ar^an),  and  engages  mentally  in  renunciation,  and
+21.  When  he  has  committed  a  mortal  sin  (margar^an),  and  engages  mentally  in  renunciation,  and
 the  high-priest  (ra^)  knows  that,  though  he  ought
 to  give  up  his  body,  he  will  not  give  it  up,  it  is
 allowable  when  he  shall  kill  him;  that  is,  because
@@ -17733,11 +16478,9 @@ ceremoyiial  ablution  of  the  hands ;  it  amounts  to  a
 whole  quarry  (kano)  of  good  works,  and  the  worship
 of  God  (ya^i^n-i  yazdano)  is  to  be  performed  for
 him^  23.  Atar6-pa^2  son  of  Maraspend  said  that
-it  is  always  necessary  to  be  more  diligent  in  per-
-forming one's  worship  of  God  at  the  time  that  many
+it  is  always  necessary  to  be  more  diligent  in  performing one's  worship  of  God  at  the  time  that  many
 mortal  sms  are  committed  ;  all  sins  being  admissible
-into  renunciation,  when  thou  shalt  atone  by  com-
-plete self-sacrifice  (pur-^^an-da^iha),  and\Av&xi  one
+into  renunciation,  when  thou  shalt  atone  by  complete self-sacrifice  (pur-^^an-da^iha),  and\Av&xi  one
 engages  in  renunciation  of  the  sin  from  its  root,  he
 becomes /r^^  from  the  sin  in  renunciation  of  which
 sin  he  engaged ;  for  Auharmazd  will  not  leave  his
@@ -17766,20 +16509,17 @@ the  Dinkarrt'(see  Bund.  XXXIII,  3,  11),  is  not  clear.
 XXVI,  i),  but  also  a  measure  of  time  (see  Bund.  XXV,  5).
 According  to  the  text  here  the  greater  Hasar  must  be  two  hours,
 and  the  lesser  Hasar  (which  is  not  mentioned  in  M6)  must  be  one
-hour  and  twenty  minutes.  But  Farh.  Okh.  (p.  43)  says,  '  dvada-
-sang-hSthrem  asti  aghrem   ayare,  "of  twelve  Hasars  is  the
+hour  and  twenty  minutes.  But  Farh.  Okh.  (p.  43)  says,  '  dvadasang-hSthrem  asti  aghrem   ayare,  "of  twelve  Hasars  is  the
 
 
 CHAPTER   VIII,   2 3- IX,  4.  309
 
 
-2.  The  priest  (asruk)  who  passes  away  in  idola-
-tryi  (au^dayakih)  thou  hast  considered  as  desolate
+2.  The  priest  (asruk)  who  passes  away  in  idolatryi  (au^dayakih)  thou  hast  considered  as  desolate
 (viran)^;  and  there  is  a  high-priest  (dastobar)  who
 is  of  a  different  opinion,  there  is  one  who  says  he
 is  as  a  non-Iranian  (anai ran)  country  I  3.  It  is
-declared  that,  when  a  supreme  high-priest  (zara-
-tu^trotum)  passes  away  in  idolatry,  an  apostate
+declared  that,  when  a  supreme  high-priest  (zaratu^trotum)  passes  away  in  idolatry,  an  apostate
 (ah  arm  ok)  will  be  born  in  that  dwelling,  and  a
 rumour  of  this  calamity  is  uttered "*  by  that  supreme
 high-priest.
@@ -17791,8 +16531,7 @@ not  teach  it.
 
 
 longest  day ; "  the  day  and  night  in  which  is  the  longest  'day  are
-twelve  of  the  greatest  Hasars,  eighteen  of  the  medium,  and  twenty-
-four  of  the  least;'  according  to  which  statement  there  are  three
+twelve  of  the  greatest  Hasars,  eighteen  of  the  medium,  and  twentyfour  of  the  least;'  according  to  which  statement  there  are  three
 kinds  of  Hasar,  that  are  respectively  equivalent  to  two  hours,  one
 hour  and  twenty  minutes,  and  one  hour.  As  the  longest  day  is
 said  (Bund.  XXV,  4)  to  be  twice  the  length  of  the  shortest  day,
@@ -17802,8 +16541,7 @@ being  a  subdivision  (one-eighth)  of  the  time  the  sun  was  above  the
 horizon;  this  would  account  for  the  greatest  and  least  Hasars,
 which  are  one-eighth  of  the  longest  and  shortest  days,  respectively ;
 but  it  does  not  account  for  the  medium  Hasar,  which  is  not  a
-mean  between  the  two  extremes,  but  one-ninth  (instead  of  one-
-eighth)  of  the  mean  day  of  twelve  hours.  If  the  Hasar  of  distance
+mean  between  the  two  extremes,  but  one-ninth  (instead  of  oneeighth)  of  the  mean  day  of  twelve  hours.  If  the  Hasar  of  distance
 were  really  a  Parasang,  as  is  sometimes  stated,  the  connection
 between  it  and  the  Hasar  of  time  would  be  obvious,  as  the  average
 Hasar  of  one  hour  and  twenty  minutes  is  just  the  time  requisite  for
@@ -17821,9 +16559,6 @@ statement.
 
 
 A  .A     „,, A,
-
-
-310  SHAYAST    LA-SHAYAST.
 
 
 5.  The  ceremonial  worship  (ya^i^n)  which  they
@@ -17851,8 +16586,7 @@ Zaratui-t,  thus  :  ''  After  the  departure  of  the  light  let
 him  not  devour,  with  unwashed  hands,  the  water
 and  vegetables  of  Horvadart^  and  Ameroda^^ ;  for  if
 after  the  departure  of  the  light  thou  devourest,  with
-unwashed  hands,  the  water  and  vegetables  of  Hor-
-vada^  and  Ameroda*^,  the  fiend  seizes  away  from
+unwashed  hands,  the  water  and  vegetables  of  Horvada^  and  Ameroda*^,  the  fiend  seizes  away  from
 thee    two-thirds    of    the    existing    original   wisdom
 
 
@@ -17878,12 +16612,10 @@ Nask^  it  is  declared  that  one  mentions  these  charac-
 
 ^  This  passage  does  not  appear  to  be  now  extant  in  the  Avesta.
 
-2  This  was  the  sixth  nask  or  'book'  of  the  complete  Mazda-
-yasnian  literature,  according  to  the  Dinkara',  which  calls  it  Past  or
+2  This  was  the  sixth  nask  or  'book'  of  the  complete  Mazdayasnian  literature,  according  to  the  Dinkara',  which  calls  it  Past  or
 Pasag;  but  according  to  the  Dini-va^arkar</  and  the  Rivayats  it
 was  the  seventh  nask,  called  Vagzva.  For  its  contents,  as  given  by
-the  Dini-va^arkar</,  see  Haug's  Essays,  pp.  128,  129.  The  follow-
-ing is  a  short  summary  of  the  account  of  it  given  in  the  eighth  book
+the  Dini-va^arkar</,  see  Haug's  Essays,  pp.  128,  129.  The  following is  a  short  summary  of  the  account  of  it  given  in  the  eighth  book
 of  the  Dinkar</  (that  published  in  the  Pahl.-Paz.  Glossary,  pp.  184,
 185,  being  taken  from  the  fifteenth  nask,  whose  contents  were
 mixed  up  with  those  of  the  seventh  through  the  abstraction  of
@@ -17916,42 +16648,33 @@ The  fifth  fargarrt',  quoted  in  the  text,  was  probably  that  portion
 of  the  Nask  which  described  the  duties  of  the  officiating  priests.
 
 
-312  SHAYAST    LA-SHAYAST.
-
 teristics   of  four  kinds  of  worship  of  the   celestial
-beings  (yazdan) : — one  is  that  whose  Avesta  is  cor-
-rect, but  the  man  is  bad ;  the  second  is  that  whose
+beings  (yazdan) : — one  is  that  whose  Avesta  is  correct, but  the  man  is  bad ;  the  second  is  that  whose
 Avesta  is  faulty  (zifan6)\  but  the  man  is  good  ;  the
 third  is  that  whose  Avesta  is  correct,  and  the  man  is
 good ;  and  the  fourth  is  that  whose  Avesta  is  faulty
 and  the  man  is  bad.      lo.    That    whose  Avesta    is
-correct,  but  the   man   bad,  the   archangels  will  ap-
-proach and  will  listen  to,  but  do  not  accept ;    that
-whose  Avesta  is  faulty,  but  the  man  good,  the  arch-
-angels and  angels^  will  approach,  but  do  not  listen
+correct,  but  the   man   bad,  the   archangels  will  approach and  will  listen  to,  but  do  not  accept ;    that
+whose  Avesta  is  faulty,  but  the  man  good,  the  archangels and  angels^  will  approach,  but  do  not  listen
 to,  and  will  accept ;  that  whose  Avesta  is  correct,
 and  the  man  good,  the  archangels  a7id  angels  will
-approach,  will  come  to,  will  listen  to,  and  will  ac-
-cept ;  that  whose  Avesta  is  faulty,  and  the  man  bad,
+approach,  will  come  to,  will  listen  to,  and  will  accept ;  that  whose  Avesta  is  faulty,  and  the  man  bad,
 they  do  not  approach,  do  not  listen  to,  and  do  not
 accept.
 
-II.  In  every  ceremonial  (ya^ii-no),  at  the  begin-
-ning of  the  ceremony  ^  and  the  beginning  of  the
+II.  In  every  ceremonial  (ya^ii-no),  at  the  beginning of  the  ceremony  ^  and  the  beginning  of  the
 sacred-cake  consecration  (dron)*,  the  angels  and
 guardian  spirits  of  the  righteous  are  to  be  invited  to
 the  ceremony.  12.  When  they  invoke  the  angels
 they  will  accept  the  ceremony,  and  when  they  do
 
-^  K20  has  hiiz van, '  tongue,  speech,'  for  zifan,  'faulty'  (com-
-pare Pers.  zif,  '  sin'),  in  all  occurrences  of  the  word.
+^  K20  has  hiiz van, '  tongue,  speech,'  for  zifan,  'faulty'  (compare Pers.  zif,  '  sin'),  in  all  occurrences  of  the  word.
 
 '^  K20  omits  from  this  word  to  '  will  approach '  in  the  next
 clause  of  the  sentence.
 
 ^  That  is,  shortly  before  beginning  the  regular  recitation  of  the
-Yasna,  the  angels,  in  whose  honour  the  ceremony  is  being  per-
-formed, are  invited  to  approach  by  reciting  their  proper  Khshnu-
+Yasna,  the  angels,  in  whose  honour  the  ceremony  is  being  performed, are  invited  to  approach  by  reciting  their  proper  Khshnu-
 mans,  or  propitiatory  formulas  (see  Chap.  VII,  8,  and  Haug's
 Essays,  p.  404).
 
@@ -17966,13 +16689,11 @@ not  invoke  them,  all  the  guardian  spirits  of  the
 righteous  are  to  be  invoked  at  the  beginning  of
 'staomi^ ;'  and  when  not,  they  watch  until  the  words
 '  frash6-/'arethram  saoshya;^tam  -,'  and  when  they
-shall  invoke  them  there  they  will  accept  the  cere-
-mony ;  and  when  not,  they  will  watch  until  the  words
+shall  invoke  them  there  they  will  accept  the  ceremony ;  and  when  not,  they  will  watch  until  the  words
 '  visp(2u  fravashayo  ashaonam  yazamaide  ^'  and
 when  they  shall  invoke  them  there  they  will  accept  ^
 the  ceremony ;  and  when  not,  they  zvill  ivatch  until
-the  words  '  t^^usM  yazamaide^;'  and  when  they  in-
-voke them  ^  at  the  threefold  '  ashem  vohu  '  and  the
+the  words  '  t^^usM  yazamaide^;'  and  when  they  invoke them  ^  at  the  threefold  '  ashem  vohu  '  and  the
 word  damanam^'  at  the  \.\N\z^-told  '  aokhto-namano  ^'
 the  '  ashartf   ha/ia  '■','  or  the  '  yatumanahe  ^asaiti  ^^'
 
@@ -18008,11 +16729,8 @@ beginning  of  the  Homast  in  the  Vijtasp  Yajt  Sadah.
 «  Yas.  XXIV,  30,  when  the  officiating  priest  turns  the  mortar
 right  side  upwards.
 
-1°  Yas.  VIII,  9,  which  is  practically  the  same  place  as  the  three-
-fold '  ashem  vohu '  before  mentioned.
+1°  Yas.  VIII,  9,  which  is  practically  the  same  place  as  the  threefold '  ashem  vohu '  before  mentioned.
 
-
-314  SHAYAST    LA-SHAYAST.
 
 they  will  accept^;  and  when  not,  they  go  up  the
 height  of  a  spear  (ni^ak)  and  will  remain.  13.  And
@@ -18020,14 +16738,12 @@ they  speak  thus  :  *  This  man  does  not  understand
 that  it  will  be  necessary  even  for  him^  to  go  from
 the  world,  and  our  prayer  (apistan)  is  for  reminding
 men ;  it  is  not  that  our  uneasiness  ajHses  from  this,
-that  we  are  in  want  of  their  ceremony,  but  our  un-
-easiness arises  from  this,  that  when  they  do  not
+that  we  are  in  want  of  their  ceremony,  but  our  uneasiness arises  from  this,  that  when  they  do  not
 reverence  and  do  not  invoke  us,  when  evil  comes
 upon  them  it  is  not  possible  for  us  to  keep  it  away.'
 14.  'O  creator!  how  much  is  the  duration  in  life
 of  him  who  is  dead  ?'  And  Auharmazd  spoke  thus :
-'  As  much  as  the  wing  of  a  fly,  O  Zaratu^t  the  Spita-
-man  !  or  as  much  as  the  hearing  a  wing  unto  a  sight-
+'  As  much  as  the  wing  of  a  fly,  O  Zaratu^t  the  Spitaman  !  or  as  much  as  the  hearing  a  wing  unto  a  sight-
 less one^!
 
 
@@ -18041,8 +16757,7 @@ I.   The  rule^  is   this,  that  a  sacred  t/iread-g\rd\e
 2  Literally,  '  for  me,'  which  seems  to  refer  to  the  man,  and  not
 to  the  spirits.
 
-^  This  appears  to  be  the  complete  translation  of  the  Avesta  sen-
-tence partially  quoted  in  Pahl.  Vend.  VIII,  64  :  '  yatha  makhshy^u
+^  This  appears  to  be  the  complete  translation  of  the  Avesta  sentence partially  quoted  in  Pahl.  Vend.  VIII,  64  :  '  yatha  makhshy^u
 perenem,  yatha  v^  perenahe,'  &c.  The  last  clause  is  doubtful;
 the  reading  adopted  here  is  /^and  zak-i  shinavak-/  par  andarg
 avenak,  as  nothing  more  satisfactory  suggests  itself;  it  might
@@ -18052,8 +16767,7 @@ invisible.'
 *  Reading  ainak;  Pazand  writers  convert  it  into  yak,  which
 can,  however,  have  the  same  meaning,  though  they  evidently  take
 the  word  to  be  Huz.  khaduk,  'one,'  which  is  written  precisely  Hke
-ainak  in  Pahlavi  characters.  Most  of  the  miscellaneous  state-
-ments, contained  in  the  latter  part  of  Sis.,  commence  with  this
+ainak  in  Pahlavi  characters.  Most  of  the  miscellaneous  statements, contained  in  the  latter  part  of  Sis.,  commence  with  this
 phrase.
 
 
@@ -18079,8 +16793,7 @@ Nask"^  it  says  that  a  man  is  going  to  commit  rob-
 "^  That  is,  'interpretation  or  exposition'  (see  Chap.  I,  3,  4)-
 K20  has,  '  a7id  by  every  teaching  it  is  proper.'
 
-^  These  fravart/ikan  are,  strictly  speaking,  the  five  supple-
-mentary days  at  the  end  of  the  Parsi  year,  but  the  last  five  days  of
+^  These  fravart/ikan  are,  strictly  speaking,  the  five  supplementary days  at  the  end  of  the  Parsi  year,  but  the  last  five  days  of
 the  last  month  are  usually  added  to  them,  so  as  to  make  a  period
 of  ten  days  at  the  end  of  the  year,  during  which  the  guardian
 spirits  of  the  departed  are  supposed  to  revisit  their  old  homes,  and
@@ -18091,8 +16804,7 @@ for  whom  the  sacred  cake  is  set  aside.
 
 after  a  death  (see  Chaps. VIII,  6,  XVII,  3,  4).
 
-*  This  was  the  fifteenth  nask  or  '  book'  of  the  complete  Maz-
-dayasnian  Hterature,  according  to  the  Dinkar^',  which  calls  it  Nika-
+*  This  was  the  fifteenth  nask  or  '  book'  of  the  complete  Mazdayasnian  Hterature,  according  to  the  Dinkar^',  which  calls  it  Nika-
 fifum ;  but  according  to  the  Dini-va^arkar^  and  the  Rivayats  it  was
 the  sixteenth  nask,  called  Niyarum.  For  its  contents,  as  given  by
 the  Dini-va^arkar(/,  see  Haug's  Essays,  p.  132.  The  following
@@ -18100,8 +16812,7 @@ is  a  brief  summary  of  the  account  of  it  given  in  the  eighth  book
 of  the  Dinkard/,  where  it  occupies  twenty-five  quarto  pages  of  that
 work  : —
 
-The  beginning  of  the  law  (da^/)  is  the  Nika^um  of  thirty  far-
-gar</s.  The  section  Patkar-ra^istan  (' the  arbitrator's  code')  is
+The  beginning  of  the  law  (da^/)  is  the  Nika^um  of  thirty  fargar</s.  The  section  Patkar-ra^istan  (' the  arbitrator's  code')  is
 about  umpires  and  arbitration,  contracts  by  words  of  four  kinds
 and  by  signs  of  six  kinds  ;  and  twelve  sorts  of  arbitrators  are
 described  in  four  sub-sections,  according  as  they  decide  by  hearing
@@ -18134,8 +16845,7 @@ lying  and  slander,  the  care  of  pregnant  women,  impenitence  and
 various  offences  against  priests  and  disciples,  remitting  penalties,
 abetting  and  assisting  criminals,  mediation,  punishment  of  children,
 smiting  foreigners,  murder,  medical  treatment,  and  many  other
-things  (see  Pahl.-Paz.  Glossary,  p.  184,  where  they  are  errone-
-ously ascribed  to  the  Pazon  Nask,  owing  to  the  defective  text  of
+things  (see  Pahl.-Paz.  Glossary,  p.  184,  where  they  are  erroneously ascribed  to  the  Pazon  Nask,  owing  to  the  defective  text  of
 the  MS.  Mi  3).  The  fifth  section  contained  twenty -four  treatises
 on  miscellaneous  subjects  connected  with  crime  and  sin  (see  Pahl.-
 Paz.  Glossary,  pp.  184,  185).
@@ -18143,8 +16853,7 @@ Paz.  Glossary,  pp.  184,  185).
 The  passage  mentioned  in  the  text  cannot  be  recognised  in  any
 of  the  details  supplied  by  the  Dinkara'.
 
-^  This  was  the  thirteenth  nask  or  'book'  of  the  complete  Maz-
-dayasnian  literature,  according  to  all  authorities,  but  is  called  Sfend
+^  This  was  the  thirteenth  nask  or  'book'  of  the  complete  Mazdayasnian  literature,  according  to  all  authorities,  but  is  called  Sfend
 in  the  Rivayats.  For  its  contents,  as  given  by  the  Dini-va^arkar^/,
 see  Haug's  Essays,  pp.  131,  132.  The  following  is  a  summary
 of  the  short  account  of  it  given  in  the  eighth  book  of  the
@@ -18152,8 +16861,7 @@ Dinkar^: —
 
 The  Spend  is  a  treatise  on  the  origin  and  combination  of  the
 existence,  guardian  spirit,  and  glory  of  Zaratmt;  on  his  generation
-and  birth ;  on  the  coming  of  the  two  spirits,  the  good  one  to  sus-
-tain, and  the  bad  one  to  destroy  him,  and  the  victory  of  the  good
+and  birth ;  on  the  coming  of  the  two  spirits,  the  good  one  to  sustain, and  the  bad  one  to  destroy  him,  and  the  victory  of  the  good
 
 
 CHAPTER    X,  4,   5.  317
@@ -18171,15 +16879,12 @@ for  the  disciples,  when  they  are  going  to  perform
 the  worship  of  God,  and  are  sprinkling  the  stone
 seat  (magok)"*;  and  lest  they  should  make  a  wet
 place  by  that  sprinkling  through  taking  water  out
-from  it,  it  is  to  be  done  sitting ;  for  in  the  Vendi-
-dad^   the    high-priests  have  taught,   about    making
+from  it,  it  is  to  be  done  sitting ;  for  in  the  Vendidad^   the    high-priests  have  taught,   about    making
 
-spirit ;  on  his  going,  at  thirty  years  of  age,  to  confer  with  Auhar-
-mazd,  and  his  seven  conferences  in  ten  years;  on  the  seven
+spirit ;  on  his  going,  at  thirty  years  of  age,  to  confer  with  Auharmazd,  and  his  seven  conferences  in  ten  years;  on  the  seven
 questions  he  proposed  to  the  archangels  on  those  occasions ;
 on  the  conveyance  of  the  omniscient  wisdom  into  him,  showing
-him  heaven  and  hell,  and  the  intermediate  place  of  those  '  ever-
-stationary,'  the  account  taken  of  sin  and  good  works,  the  future
+him  heaven  and  hell,  and  the  intermediate  place  of  those  '  everstationary,'  the  account  taken  of  sin  and  good  works,  the  future
 existence,  and  the  fate  of  the  religion  on  earth  till  the  renovation
 of  the  universe,  with  the  coming  of  his  future  sons,  the  last  three
 apostles.
@@ -18225,8 +16930,7 @@ healing.
 
 7.  The  rule  is  this,  that  in  the  night  wine  and
 aromatic  herbs  (sparam)  and  anything  like  food  are
-not  to  be  cast  away  towards  the  north  quarter,  be-
-cause a  fiend^  will  become  pregnant ;  and  when  one
+not  to  be  cast  away  towards  the  north  quarter,  because a  fiend^  will  become  pregnant ;  and  when  one
 casts  them  away  one  Yatha-ahu-vairyo  ^  is  to  be
 uttered.
 
@@ -18245,8 +16949,7 @@ YeNhe-hatam  (see  B.Yt.  II,  64).
 
 '  See  Chap.  I,  i,  2.
 
-*  The  three  chapters  (Yas.  XLII-XLIV)  which  begin  the  U^ta-
-vaiti  Gatha  (Yas.  XLII-XLV).
+*  The  three  chapters  (Yas.  XLII-XLIV)  which  begin  the  U^tavaiti  Gatha  (Yas.  XLII-XLV).
 
 ^  A  dru^,  or  fiend,  is  usually  considered  as  a  female  demon
 (see  Vend.  XVIII,  70-77);  and  the  demons  are  supposed  to  come
@@ -18262,8 +16965,7 @@ CHAPTER    X,  6-1  I.  319
 8.  The  rule  is  this,  that  reverential  should  be
 the  abstinence  from  unlawfully  slaughtering  of  any
 species  of  animals ;  for  in  the  Stu^gar  Nask^  it  is
-said,  concerning  those  who  have  unlawfully  slaugh-
-tered animals,  the  punishment  is  such  that  each  hair
+said,  concerning  those  who  have  unlawfully  slaughtered animals,  the  punishment  is  such  that  each  hair
 of  those  animals  becomes  like  a  sharp  dagger  (tekh),
 and  he  who  is  unlawfully  a  slaughterer  is  slain.  9.
 Of  animals,  the  slaughtering  of  the  lamb,  the  goat
@@ -18281,12 +16983,10 @@ along  by  two  men  with  united  strength,  they  do  not
 become  polluted ;  hit  for  a  pregnant  woman  two
 dogs  are  necessary,  to  whose  united  power  she  is  to
 be  exposed  ;  and  they  carry  her  along  by  four  men
-with  united  strength,  and  they  do  not  become  pol-
-luted ;  bid  when  they  carry  her  along  by  two  men
+with  united  strength,  and  they  do  not  become  polluted ;  bid  when  they  carry  her  along  by  two  men
 they  are  to  be  washed  with  ceremony  (pi^ak)^
 
-11.  The  rule  is  this,  that  when  they  beg  forgive-
-ness for  a  person  (mar^fum)  who  has  passed  away,
+11.  The  rule  is  this,  that  when  they  beg  forgiveness for  a  person  (mar^fum)  who  has  passed  away,
 
 ^  See  B.Yt.  I,  i.  The  passage  here  referred  to  is  probably  one
 in  the  middle  of  the  seventeenth  fargar^  of  this  Nask,  which  is
@@ -18301,16 +17001,12 @@ necessitates  extraordinary  purification.
 2  That  is,  with  the  Bareshniim  ceremony  (see  Chap.  II,  6).
 
 
-320  SHAYAST   LA-SHAYAST.
-
-
 such  a  p7'ayer  is  more  significant  when  one  says  thus  :
 '  Whenever  a  trespass  (vinas)  of  mine  has  occurred
 against  him,  you  will  take  account  of  it  along  with
 those  of  his  which  have  occurred  against  me,  and
 the  trespasses  have  passed  away  one  through  the
-other  ;  any  further  trespasses  of  his  which  have  oc-
-curred against  me  are  then  made  a  righteous  gift
+other  ;  any  further  trespasses  of  his  which  have  occurred against  me  are  then  made  a  righteous  gift
 by  me\'
 
 12.  The  rule  is  this,  that  one  should  not  walk
@@ -18324,8 +17020,7 @@ he  is  polluted"^,  except  when  he  knows  for  certain
 (aevar)  that  a  dog  has  seen  //,  or  if  not  it  is  to  be
 considered  as  not  seen  by  a  dog  *.
 
-13.  The  rule  is  this,  as  revealed  i^i  the  Dubasrta-
-gtd  JVask^,  where  a  day  in  the   year  is  indicated,
+13.  The  rule  is  this,  as  revealed  i^i  the  Dubasrtagtd  JVask^,  where  a  day  in  the   year  is  indicated,
 
 *  That  is,  I  pardon  them  in  charity.
 
@@ -18333,20 +17028,16 @@ gtd  JVask^,  where  a  day  in  the   year  is  indicated,
 be  something  different  from  the  sin  of  ae-muk-dubarijnih,
 '  running  in  one  boot'  (see  Chap.  IV,  13).
 
-^  Without  these  words,  which  do  not  exist  in  the  MSS.,  the  sen-
-tence seems  to  have  no  clear  meaning.
+^  Without  these  words,  which  do  not  exist  in  the  MSS.,  the  sentence seems  to  have  no  clear  meaning.
 
-*  And,  therefore,  still  containing  the  Nasuj,  or  fiend  of  corrup-
-tion, who  will  enter  into  any  one  who  merely  touches  the  dead
+*  And,  therefore,  still  containing  the  Nasuj,  or  fiend  of  corruption, who  will  enter  into  any  one  who  merely  touches  the  dead
 matter,  without  disturbing  it,  and  can  be  driven  out  only  by  the
 tedious  and  troublesome  Bareshnum  ceremony,
 
-^  This  was  the  sixteenth  nask  or  'book'  of  the  complete  Maz-
-dayasnian  literature,  according  to  the  Dinkart/,  which  calls  it
+^  This  was  the  sixteenth  nask  or  'book'  of  the  complete  Mazdayasnian  literature,  according  to  the  Dinkart/,  which  calls  it
 Diabasru^^/  or  Dubasrurt';  but  according  to  the  Dini-va^arkar^^,
 which  calls  it  Dvasriizd,  and  the  Rivayats,  which  call  it  Dvasrij^ad,
-Dvasrun^ad,  or  Dvasrfib,  it  was  the  eighteenth  nask.  For  its  con-
-tents, as  given  by  the  Dini-va^arkara',  see  Haug's  Essays,  pp.  132,
+Dvasrun^ad,  or  Dvasrfib,  it  was  the  eighteenth  nask.  For  its  contents, as  given  by  the  Dini-va^arkara',  see  Haug's  Essays,  pp.  132,
 133.     The  following  is  a  brief  summary  of  the  account  of  it  given
 
 
@@ -18427,13 +17118,10 @@ becomes  every  day  the  root  of  a  Tanapuhar  sin^
 for  him.
 
 18.  The  rule  is  this,  that  when  in  a  country  they
-trust  a  false  judge,  and  keep  }mn  among  their  su-
-periors, owing  to  the  sin  and  breach  of  faith  which
+trust  a  false  judge,  and  keep  }mn  among  their  superiors, owing  to  the  sin  and  breach  of  faith  which
 that  judge  commits,  the  clouds  and  rain,  in  that
-country,  are  deficient,  a  portion  (bavan)  of  the  deli-
-ciousness,  fatness,  whole  someness,  and  milk  of  the
-cattle  and  goats  diminishes^,  and  many  children  be-
-come destroyed  in  the  mother's  womb.
+country,  are  deficient,  a  portion  (bavan)  of  the  deliciousness,  fatness,  whole  someness,  and  milk  of  the
+cattle  and  goats  diminishes^,  and  many  children  become destroyed  in  the  mother's  womb.
 
 19.  The  rule  is  this,  that  a  man,  when  he  does
 not  wed  a  wife,  does  not  become  worthy  of  death ;
@@ -18461,12 +17149,10 @@ future  existence.
 out  clear  of  bark  (post  pak)^for  the  high-priests
 have  taught  that  when  one's  toothpick — made  for
 the  mouth  with  the  bark — shall  fall,  and  when  a
-pregnant  woman  puts  a  foot  upon  it,  she  is  appre-
-hensive about  its  being  dead  matter  I
+pregnant  woman  puts  a  foot  upon  it,  she  is  apprehensive about  its  being  dead  matter  I
 
 21.  The  rule  is  this,  that  in  accepting  the  child  of
-a  handmaid  (/'akar)*  discrimination  is  to  be  exer-
-cised; for  in  the  fourteenth  of  the  Nask  Husparam^
+a  handmaid  (/'akar)*  discrimination  is  to  be  exercised; for  in  the  fourteenth  of  the  Nask  Husparam^
 
 ^  This  reference  is  probably  to  the  circumstances  detailed  in
 Vend.  XVIII,  99-112,  but  the  Pahlavi  commentary  on  §§  iii,  112
@@ -18491,17 +17177,12 @@ is  meant.
 
 ^  As  this  was  the  seventeenth  nask  or  'book'  of  the  complete
 Mazdayasnian  literature,  according  to  all  authorities,  it  is  probable
-that  the  word  '  fourteenth,'  in  the  text  here,  refers  to  some  parti-
-cular chapter  or  fargar^,  most  likely  to  the  last  group  of  fourteen
+that  the  word  '  fourteenth,'  in  the  text  here,  refers  to  some  particular chapter  or  fargar^,  most  likely  to  the  last  group  of  fourteen
 
 Y    2
 
 
-;24  SHAYAST    LA-SHAYAST.
-
-
-the  high-priests  have  taught  thus  :  '  My  son  is  suit-
-able also  as  thy  son,  but  my  daughter  is  not  suitable
+the  high-priests  have  taught  thus  :  '  My  son  is  suitable also  as  thy  son,  but  my  daughter  is  not  suitable
 also  as  thy  daughter.'
 
 sections,  mentioned  below,  in  the  summary  of  its  contents ;  and
@@ -18512,10 +17193,8 @@ Essays,  p.  133.  The  following  is  a  brief  summary  of  the  account
 of  it  given  in  the  eighth  book  of  the  Dinkarr/,  where  it  occupies
 sixteen  quarto  pages  of  that  work  : —
 
-Of  the  first  thirty  sections  of  the  Husparam,  one  is  the  Aerpa-
-tistan  ('the  priest's  code'),  a  treatise  on  priestly  studies,  priests,
-disciples,  and  their  five  dispositions.     One  section  is  the  Niran-
-gistan  ('religious  formula  code'),  a  treatise  on  the  formulas  of
+Of  the  first  thirty  sections  of  the  Husparam,  one  is  the  Aerpatistan  ('the  priest's  code'),  a  treatise  on  priestly  studies,  priests,
+disciples,  and  their  five  dispositions.     One  section  is  the  Nirangistan  ('religious  formula  code'),  a  treatise  on  the  formulas  of
 worship,  the  Avesta  to  be  recited  by  the  officiating  priests  twice,
 thrice,  and  four  times,  the  five  periods  of  the  day  and  their  proper
 ceremonies,  the  season-festivals,  the  sacred  girdle  and  shirt,  cutting
@@ -18528,8 +17207,7 @@ sections  are  about  appropriating  the  property  of  others,  obedient
 and   disobedient  wives,   foreign  wives,   advantages   of  male    and
 female  offspring,  breeding  of  cattle,  treatment  of  labourers  and
 children,  the  evil  eye,  judges,  the  origin  and  cultivation  of  corn,  the
-degrees  of  crime  and  punishment,  &c.     Of  the  next  twenty  sec-
-tions, one  is  about  the  treatment  of  furious  cattle  and  mad  dogs,
+degrees  of  crime  and  punishment,  &c.     Of  the  next  twenty  sections, one  is  about  the  treatment  of  furious  cattle  and  mad  dogs,
 and  the  damage  they  may  do.      One  section  on  the  means  of
 accumulating  wealth,  the  giving  of  sons  and  daughters  in  marriage,
 the  goodness  of  charity  and  evil  of  waste,  the  five  best  actions
@@ -18554,8 +17232,7 @@ the  duty  and  good  works  which  a  son  performs  are
 as  much  the  father's  as  though  they  had  been  done
 by  his  own  hand;  and  in  the  Damda^  Nask^  it  is
 revealed  thus  :  '  Likewise,  too,  the  good  works,  in
-like  measure,  which  come  into  the  father's  pos-
-session.'
+like  measure,  which  come  into  the  father's  possession.'
 
 23.  The  rule  is  this,  that  they  shall  give  to  the
 worthy  as  much  of  anything  as  is  proper  for  eating
@@ -18566,8 +17243,7 @@ good  works,  which  he  shall  perform  through  that
 superabundance,  become  as  much  his  who  gave  it  as
 though  they  had  been  done  by  his  own  hand.'
 
-24.  The  rule  is  this,  where  one  lies  down,  in  cir-
-cumstances of  propriety  and  innocence,  one  Ashem-
+24.  The  rule  is  this,  where  one  lies  down,  in  circumstances of  propriety  and  innocence,  one  Ashem-
 vohu  is  to  be  uttered^  and  in  like  manner  when  he
 
 
@@ -18596,8 +17272,7 @@ what  occurs  in  this  section.
 326  SHAYAST    LA-SIIAYAST.
 
 
-gets  up  well ;  when  he  does  so,  every  single  draw-
-ing of  the  breath  (vayo)  becomes  a  good  work  of
+gets  up  well ;  when  he  does  so,  every  single  drawing of  the  breath  (vayo)  becomes  a  good  work  of
 three  Sr6sh6-/§aranams,  that  is,  a  weight  of  ten
 dirhams  of  the  full  weight  of  four  mads  \
 
@@ -18609,8 +17284,7 @@ as  it  says  in  the  Saka^um  Nask  -  that  Zaratiut  has
 
 
 1  Reading  i  mad-4,  instead  of  va  maz-4  ;  the  word  mad  (see
-Pahl.-Paz.  Glossary,  p.  21)  being  Huz.  for  the  dang  or  quarter-
-dirham.  The  amount  of  the  Sr6sh6-/^aranam,  as  deduced  from
+Pahl.-Paz.  Glossary,  p.  21)  being  Huz.  for  the  dang  or  quarterdirham.  The  amount  of  the  Sr6sh6-/^aranam,  as  deduced  from
 this  statement,  differs  from  those  given  in  Chaps.  XI,  2,  XVI,  5,
 and  must  be  awkwardly  fractional,  unless  the  sentence  be  altered
 into  lo^'-u^an  sang  nem  z\s  pur  sang  yehevunefl',  'a  weight
@@ -18626,8 +17300,7 @@ brief  summary  of  the  account  of  it  given  in  the  eighth  book  of  the
 Dinkar^,  where  it  occupies  twenty  quarto  pages  of  that  work  : —
 
 Of  the  first  thirty  sections  of  the  SakLWilm  one  is  a  treatise
-on  the  necessity  of  obedience  and  understanding  the  laws,  on  new-
-born infants  and  their  proper  treatment,  on  the  care  of  fire  and
+on  the  necessity  of  obedience  and  understanding  the  laws,  on  newborn infants  and  their  proper  treatment,  on  the  care  of  fire  and
 sharp-pointed  things,  on  race-courses,  the  use  of  water,  salt  and
 sweet,  warm  and  cold,  flowing  and  stagnant,  &c.  One  section  is
 the  Ha/^i^akanistan  ('annoyances  code'),  a  treatise  on  irritating
@@ -18636,8 +17309,7 @@ buried  treasure  at  various  depths  and  in  different  places,  &c.  And
 one  section  is  the  Ziyanakistan  ('damage  code'),  a  treatise  on
 damao-e  to  animate  and  inanimate  objects.  Of  the  last  twenty-two
 sections,  one  is  the  Vakhshistan  ('increase  code'),  a  treatise  on
-the  progress  of  growth,  breeding  of  cattle  and  other  animals,  plead-
-ings regarding  debts,  growth  of  corn,  &c.  One  section  is  the
+the  progress  of  growth,  breeding  of  cattle  and  other  animals,  pleadings regarding  debts,  growth  of  corn,  &c.  One  section  is  the
 Varistan  ('ordeal  code'),  a  treatise  on  the  detection  of  witchcraft
 by  ordeal,  by  heat  and  cold,  &c.     One  section  on  asking  assistance
 
@@ -18654,8 +17326,7 @@ chattering*.     26.   As    it   says   in   the   Bagh    Nask^
 
 
 and  rewarding  it,  on  the  unjust  judge  and  the  sagacious  one,  on
-daughters  given  in  marriage  by  mothers  and  brothers,  on  the  dis-
-obedient son,  &c.  And  one  section  on  the  spirits  of  the  earthly
+daughters  given  in  marriage  by  mothers  and  brothers,  on  the  disobedient son,  &c.  And  one  section  on  the  spirits  of  the  earthly
 existences,  the  merit  of  killing  noxious  water-creatures,  the  animal
 world  proceeding  from  the  primeval  ox,  the  evil  spirit  not  to  be
 worshipped,  and  much  other  advice.
@@ -18693,10 +17364,7 @@ quarto  pages  in  the  MSS.  of  the  Dinkar^/.  From  this  it  appears
 that  the  passage  quoted  in  our  text  probably  occurred  in  the  first
 
 
-328  SHAYAST    LA-SHAYAST.
-
-thus:  'Whoever  shall  mutter,  O  Zaratii^t !  my  allot-
-ment of  the  Ahunavar  ^ — that  Is,  shall  softly  take  it
+thus:  'Whoever  shall  mutter,  O  Zaratii^t !  my  allotment of  the  Ahunavar  ^ — that  Is,  shall  softly  take  it
 inwardly — and  shall  let  it  escape^  again — that  is,
 shall  utter  it  aloiui — so  much  as  a  half,  or  one-third,
 or  one-fourth,  or  one-fifth,  his  soul  will  I  shield,
@@ -18725,8 +17393,7 @@ min  Ahunavar  dru^ist,  which  might  be  translated,  in  connection
 with  the  following  phrase,  thus  :  '  Of  my  vexation,  O  Zaratmt !  from
 the  Ahunavar,  the  most  fiendish  is  that  one  shall  softly  take  it',  &c.
 But  very  slight  alterations  of  the  Pahlavi  letters  (in  accordance  with
-Pahl.  Yas.  XIX,  12)  convert  min  into  mun,  bej-tarih  into  bakh-
-tarih,  and  dru^ist  into  dren_^a^.  Instead  of 'allotment  of  the
+Pahl.  Yas.  XIX,  12)  convert  min  into  mun,  bej-tarih  into  bakhtarih,  and  dru^ist  into  dren_^a^.  Instead  of 'allotment  of  the
 Ahunavar '  we  might  read  '  predestination,  or  providence,  from  the
 Ahunavar ; '  because  the  Pahlavi  translator,  by  using  the  word
 bakhtarih  or  bakhtarih,  appears  to  have  understood  the  Av.
@@ -18748,8 +17415,7 @@ A/'as^  ^  that  Spendarma^  spoke  to  Manu^/ihar  thus  :
 '  Even  the  swiftest  horse  requires  the  whip  (ta^a-
 
 
-^  This  was  the  twelfth  nask  or  'book'  of  the  complete  Maz-
-dayasnian  literature,  according  to  the  Dinkara',  which  calls  it
+^  This  was  the  twelfth  nask  or  'book'  of  the  complete  Mazdayasnian  literature,  according  to  the  Dinkara',  which  calls  it
 XidrdiStd  or  A'i^/rojto ;  but  according  to  the  Dini-va^arkar^/  and
 the  Rivayats  it  was  the  fourteenth  nask  called  Cira^t.  For  its
 contents,  as  given  by  the  Dini-va^arkar</,  see  Haug's  Essays,  p.  131.
@@ -18793,16 +17459,13 @@ may  have  occurred.
 
 
 nak),  the  sharpest  steel  knife  requires  the  whetstone
-(afsan),  and  the  wisest  man  requires  counsel  (ham-
-pOrsih),'
+(afsan),  and  the  wisest  man  requires  counsel  (hampOrsih),'
 
 29.  The  rule  is  this,  that  when  one  laughs  outright
 (bara  khandert')  the  A  vesta  and  Zand  are  not  to
-be  mumbled,  for  the  wisdom  of  Auharmazd  is  omni-
-scient, ajid  good  works  are  a  great  exercise  of
+be  mumbled,  for  the  wisdom  of  Auharmazd  is  omniscient, ajid  good  works  are  a  great  exercise  of
 liberality,  but  an  extreme  abstinence  from  producing
-irritation  (han^irt^ar-daht^nih) ;  because  in  the  Ra-
-tuj>taitih  Nask  ^  many  harsh  things  are  said  about
+irritation  (han^irt^ar-daht^nih) ;  because  in  the  Ratuj>taitih  Nask  ^  many  harsh  things  are  said  about
 the  severe  punishment  of  producers  of  irritation,  in
 the  spiritual  existence.
 
@@ -18811,8 +17474,7 @@ even  of  those  of  the  good  religion  who,  through
 unacquaintance  with  the  religion,  when  a  female
 fowl  crows  in   the   manner  of  a  cock,  will  kill  the
 
-*  This  was  the  seventh  nask  or  'book'  of  the  complete  Maz-
-dayasnian  literature,  according  to  the  Dinkar</,  which  calls  it
+*  This  was  the  seventh  nask  or  'book'  of  the  complete  Mazdayasnian  literature,  according  to  the  Dinkar</,  which  calls  it
 Ralujtaiti ;  but  according  to  the  Dini-va<;'arkarrt?  and  the  Rivayats
 it  was  the  eighth  nask  called  Ratmtai.  For  its  contents,  as  given
 by  the  Dini-va^arkar(/,  see  Haug's  Essays,  p.  129.  The  following
@@ -18846,10 +17508,8 @@ away,  and  the  female  fozvl  makes  that  noise  for  the
 assistance  of  the  cock^  especially  when  the  bringing
 of  another  cock  into  that  dwelling  is  necessary.
 
-31.  The  rule  is  this,  that  when  one  sees  a  hedge-
-hog, then  along  with  it^  a  place  in  the  plain,  free
-from  danger,  is  to  be  preserved  ;  for  in  the  Ven-
-didad  *  the  high-priests  have  taught  that  it  is  when
+31.  The  rule  is  this,  that  when  one  sees  a  hedgehog, then  along  with  it^  a  place  in  the  plain,  free
+from  danger,  is  to  be  preserved  ;  for  in  the  Vendidad  *  the  high-priests  have  taught  that  it  is  when
 the  hedgehog  every  day  voids  urine  into  an  ant's
 nest  that  a  thousand  ants  will  die.
 
@@ -18862,8 +17522,7 @@ period  of  the  day  (gas-i  levin)  comes  on,  contami-
 ^  See  Chap.  I,  3.
 
 2  The  cock  is  considered  to  be  an  opponent  of  demons  and
-wizards  (see  Bund.  XIX,  33),  and  to  warn  men  against  the  seduc-
-tions of  the  demoness  of  lethargy  (see  Vend.  XVIII,  33-42,  52).
+wizards  (see  Bund.  XIX,  33),  and  to  warn  men  against  the  seductions of  the  demoness  of  lethargy  (see  Vend.  XVIII,  33-42,  52).
 
 ^  Assuming  that  levatman  val  means  levatman  valman,  but
 the  reading  'he  takes  it  back  to  (lakhvar  val)  the  plain,'  which
@@ -18877,8 +17536,7 @@ evil  spirit,'  in  Vend.  XIII,  5,  of  which  passage  the  statement  in  ou
 text  seems  to  be  an  illustration.     The  ant  is  considered  noxious.
 
 5  Vend. VII,  5,  6,  where,  however,  eight  modes  of  death  are
-mentioned,  which  delay  the  arrival  of  the  Nasuj,  or  fiend  of  corrup-
-tion, till  the  next  period  of  the  day ;  these  are  when  the  person
+mentioned,  which  delay  the  arrival  of  the  Nasuj,  or  fiend  of  corruption, till  the  next  period  of  the  day ;  these  are  when  the  person
 has  been  killed  by  a  dog,  a  wolf,  a  wizard,  anxiety,  falling  into
 a  pit,  the  hand  of  man  as  sentenced  by  law,  illegal  violence,  or
 strangulation.  In  all  other  cases  it  is  supposed  that  the  fiend  of
@@ -18925,13 +17583,10 @@ Dron  and  Afringan  ceremonies  at  certain  festivals.
 that  is  not  to  be  prayed  over.'  Although  M6  is  more  carefully
 written  than  K20,  it  seems  to  have  been  copied  from  an  original
 which  was  hardly  legible  in  some  places,  of  which  this  is  one.
-The  presence  of  a  hair  in  the  cake  or  butter  would  render  it  use-
-less for  religious  purposes.
+The  presence  of  a  hair  in  the  cake  or  butter  would  render  it  useless for  religious  purposes.
 
-®  But  only  for  some  of  the  minor  priestly  oifices,  such  as  conse-
-crating the  sacred  cake.  According  to  Avesta  passages,  quoted  in
-the  Nirangistan,  any  man  who  is  not  a  Tanapuhar  sinner  can  per-
-form certain  priestly  duties  for  virtuous  men,  and  any  woman  who
+®  But  only  for  some  of  the  minor  priestly  oifices,  such  as  consecrating the  sacred  cake.  According  to  Avesta  passages,  quoted  in
+the  Nirangistan,  any  man  who  is  not  a  Tanapuhar  sinner  can  perform certain  priestly  duties  for  virtuous  men,  and  any  woman  who
 is  not  feeble-minded  (kasu-khrathwa)  can  perform  them  for
 children.
 
@@ -18947,21 +17602,17 @@ the  twie-stand,  brings  them-  awav,  and  the  utterance
 of  another  one  is  good ;  when  she  says  it  is  not
 expedient  to  do  it  with  attention  before  a  meal,  it
 is  proper.  36.  The  sacred  cake  of  a  disreputable
-woman  is  not  to  be  consecrated,  but  is  to  be  ren-
-dered ineligible  (avi^inako).
+woman  is  not  to  be  consecrated,  but  is  to  be  rendered ineligible  (avi^inako).
 
-3'].  When  one  places  a  thing  before  the  fire  ob-
-servantly, and  does  not  see  the  splendour  itself,
+3'].  When  one  places  a  thing  before  the  fire  observantly, and  does  not  see  the  splendour  itself,
 '  tava  athro^'   is  not  to  be  said.
 
 ^8.  At  nieht,  when^  one  lies  down,  the  hands  are
 to  be  thoroughly  washed.  39.  That  which  comes
-from  a  menstruous  woman  to  any  one,  or  to  any-
-thing, is  all  to  be  thoroughly  washed  with  bull's
+from  a  menstruous  woman  to  any  one,  or  to  anything, is  all  to  be  thoroughly  washed  with  bull's
 urine  (gome^")  and  water ^.
 
-[40.  The  rule  is  this,  as  Ataro-pa^  son  of  Mara-
-spend^  said  when  every  one  passed  away: — 'The
+[40.  The  rule  is  this,  as  Ataro-pa^  son  of  Maraspend^  said  when  every  one  passed  away: — 'The
 mouth-veil  ^   and   also   the   clothing   are   to  be  well
 
 
@@ -18978,8 +17629,7 @@ I,  7,  note).
 *  Here  ends  the  original  Shayast  la-shayast.  §  40  is  found  only
 in  M6,  and  is  evidently  a  later  addition  to  that  MS.  by  another
 hand.  Then  follows  the  Farhang-i  Oim-khaduk,  both  in  M6  and
-K20;  this  is  an  old  Avesta-Pahlavi  Glossary  which  has  no  connec-
-tion with  Sis.,  although  it  may  be  of  the  same  age,  as  it  quotes
+K20;  this  is  an  old  Avesta-Pahlavi  Glossary  which  has  no  connection with  Sis.,  although  it  may  be  of  the  same  age,  as  it  quotes
 many  Avesta  sentences  which  are  no  longer  extant  elsewhere,  and
 amongst  others  passages  from  the  Niha^'iim  Nask  (see  Sis.  X,  3)
 and  the  commentary  of  Afarg  (see  Sis.  I,  3).
@@ -19000,10 +17650,8 @@ Part    II, — A   Supplemcntai'y   Treatise^.
 
 Chapter  XI.
 
-I.  The  degrees  of  sin  are  these  ^  such  as  a  Far-
-man,  Sr6sh6-/{'aranam,  Agerept,  Aiviri^t,  AredCi^,
-Khor,  Basai,  Yat,  and  Tanapuhar,  and  I  ivill  men-
-tion each  of  them  a  second  time.  2.  A  Farman  is
+I.  The  degrees  of  sin  are  these  ^  such  as  a  Farman,  Sr6sh6-/{'aranam,  Agerept,  Aiviri^t,  AredCi^,
+Khor,  Basai,  Yat,  and  Tanapuhar,  and  I  ivill  mention each  of  them  a  second  time.  2.  A  Farman  is
 the   weight    of   three    dirhams    of   four    mads  ^ ;    a
 
 
@@ -19022,15 +17670,13 @@ only  repeats  several  passages  (Chaps.  "XI,  i,  2,  XII,  11,  13-16,  18,
 in  a  less  simple  style.  In  some  MSS.  of  Sis.  alone,  such  as  M9,
 the  second  part  immediately  follows  the  first,  as  in  this  translation ;
 indicating  that  it  has  been  accepted  as  a  part  of  the  same  work.
-But  in  M6  the  two  parts  are  separated  by  the  Farh.  Okh.,  occupy-
-ing twenty  folios;  and  in  K20  there  is  an  interval  of  ninety-two
+But  in  M6  the  two  parts  are  separated  by  the  Farh.  Okh.,  occupying twenty  folios;  and  in  K20  there  is  an  interval  of  ninety-two
 folios,  containing  the  Farh.  Okh.,  Bund.,  B.  Yt.,  and  several  other
 texts.
 
 2  §§  I,  2  are  a  repetition  of  Chap,  I,  i,  2,  with  a  few  variations.
 The  number  of  degrees  is  here  raised  to  nine  by  the  addition  of
-the  Srosho-z^aranam  (see  Chap.  X,  24);  which  is  written  Srosha/^ara-
-nam  in  both  these  sections.
+the  Srosho-z^aranam  (see  Chap.  X,  24);  which  is  written  Srosha/^aranam  in  both  these  sections.
 
 ^  Reading  i  mad-4,  instead  of  va  m-4;  the  mad  being  a
 quartcr-dirham  (see  Chap.  X,  24,  note) ;  or  we  can  read  'weight  and
@@ -19051,15 +17697,13 @@ Arediijr  is  thirty  stirs  ^;  a  Khor  is  sixty  stirs  ;  a
 Basai  is  ninety  stirs  ;  a  Yat  is  a  hundred  and  eighty
 stirs,  and  a  Tanapuhar  is  three  hundred  stirs.
 
-3.  Every  one  ought  to  be  unhesitating  and  una-
-nimous about  this,  that  righteousness  is  the  one
+3.  Every  one  ought  to  be  unhesitating  and  unanimous about  this,  that  righteousness  is  the  one
 thing,  and  heaven  (garo^man)^  the  one  place,
 which  is  good,  and  contentment  the  one  thing
 more  comfortable.
 
 4.  When  a  sheep'*  is  slaughtered  and  divided,  its
-meat-offering  (gavus-dak) '^  is  to  be  thus  pre-
-sented:—  the    tongue,   jaw,    and    left   eye    are    the
+meat-offering  (gavus-dak) '^  is  to  be  thus  presented:—  the    tongue,   jaw,    and    left   eye    are    the
 
 here  given  appears  to  agree  with  that  stated  in  Chap.  XVI,  i,  but
 differs  very  much  from  the  sixteen  dirhams  mentioned  in  Chap.  I,  2,
@@ -19097,8 +17741,7 @@ angel  Horn's^  own  ;  the  neck  is  Ashavahirt's^  own  ;
 the  head  is  the  angel  Vae's^  own  ;  the  right  shoulder
 (arm)  is  Ardvisur's*,  the  left  is  Drvasp's '^ ;  the
 right  thigh  (hakht)  \'i  for  the  guaj^diaii  spirit^  of
-Vi.Ttasp,  and  the  \^i\.  for  the  guardian  spirit  of  G^a-
-masp';  the  back  \s  for  the  supreme  chiefs ;  the  loin
+Vi.Ttasp,  and  the  \^i\.  for  the  guardian  spirit  of  G^amasp';  the  back  \s  for  the  supreme  chiefs ;  the  loin
 is  the  spirits'  own  ;  the  belly  is  Spendarmai2''s " ;  the
 testicles  ^*^  2.r^  for  the  star  Vanand  '^ ;  the  kidneys  are
 
@@ -19140,8 +17783,7 @@ Auharmazd  himself  (see  Yas.  LVI,  i,  to).
 XV,  5,  20-24,  ^ri*-''  Bund.  I,  26).
 
 '"  The  word  gund  has  here,  in  most  MSS.,  the  usual  Persian
-gloss  dahan,  'mouth'  (see  Bund.  XIX,  i),  which  is  a  very  im-
-probable meaning  in  this  place.
+gloss  dahan,  'mouth'  (see  Bund.  XIX,  i),  which  is  a  very  improbable meaning  in  this  place.
 
 "  Probably  Fomalhaut  (see  Bund.  II,  7,  note).
 
@@ -19151,19 +17793,16 @@ CHAPTER    XI,  4,   5.  S37
 
 Haptoiring's  ^ ;  the  ventricle  (naska^fako)  ^  \s,  for
 the  guardian  spirit  of  priests  ;  the  lungs  are/br  the
-guardian  spirit  of  warriors ;  the  liver  is  for  com-
-passion and  sustenance  ^  of  the  poor ;  the  spleen  is
+guardian  spirit  of  warriors ;  the  liver  is  for  compassion and  sustenance  ^  of  the  poor ;  the  spleen  is
 Mansarspend's  ^ ;  the  fore-legs  (ba-S'ai)  ^ro.  for  the
 waters  ;  the  heart  is  for  the  fires  ;  the  entrail  fat  is
 Ar^ai-fravar^'s^;  the  tail-bone  (dunb-ga^-ako)  isfo^^-
 the  guardian  spirit  of  ZaratuJt  the  Spitamin  "^ ;  the
 tail  (dunbak)  is  forVdid'^  the  righteous;  the  right
 eye  is  in  the  share  of  the  moon  ^ ;  and  any  ^  that
-may  be  left  over  from  those  \s  for  the  other  arch-
-angels. 5.  There  have  been  those  who  may  have
+may  be  left  over  from  those  \s  for  the  other  archangels. 5.  There  have  been  those  who  may  have
 spoken  about  protection,  and  there  have  been  those
-who  may  have  done  so  about  meat-offerings ;  who-
-ever has  spoken   about  protection   is    such  as  has
+who  may  have  done  so  about  meat-offerings ;  whoever has  spoken   about  protection   is    such  as  has
 
 
 ^  Ursa  Major,  called  Haptok-ring  in  Bund.  II,  7.
@@ -19176,19 +17815,16 @@ mean  'the  womb.'
 thraoi'ta  (see  Yas.  XXXIV,  3),  and  not  srayi^no,  'chanting.'
 
 *  Av.  mathra  spe«ta,  'the  beneficent  sayings,  or  holy  word,'
-of  which  this  angel  is  a  personification;  his  name  is  often  cor-
-rupted into  Mahraspend  or  Maraspend,  and  is  given  to  the  twenty-
+of  which  this  angel  is  a  personification;  his  name  is  often  corrupted into  Mahraspend  or  Maraspend,  and  is  given  to  the  twenty-
 ninth  day  of  the  Parsi  month  (see  Chap.  XXII,  29).
 
-^  A  personification  of  the  Av.  ashaonam  fravashayo,  'guar-
-dian angels  of  the  righteous'  (see  Fravardin  Yt.  i,  &c.),  whence
+^  A  personification  of  the  Av.  ashaonam  fravashayo,  'guardian angels  of  the  righteous'  (see  Fravardin  Yt.  i,  &c.),  whence
 the  first  month,  and  the  nineteenth  day  of  each  month,  in  the  Parsi
 year,  are  called  Fravar«/in.
 
 ^  This  clause  and  the  next  are  omitted  in  K20.
 
-■^  The  angel  of  the  wind,  whose  name  is  given  to  the  twenty-
-second  day  of  the  Parsi  month  (see  Chap.  XXII,  22).
+■^  The  angel  of  the  wind,  whose  name  is  given  to  the  twentysecond  day  of  the  Parsi  month  (see  Chap.  XXII,  22).
 
 *  Or  its  angel,  Mah,  whose  name  is  given  to  the  twelfth  day  of
 the  Parsi  month.
@@ -19200,10 +17836,7 @@ and  '  other.'
 [5]  z
 
 
-338  SHAYAST    LA-SHAYAST.
-
-spoken  well,  and  whoever  has  spoken  about  meat-
-offerings has  not  spoken  everything  which  is  note-
+spoken  well,  and  whoever  has  spoken  about  meatofferings has  not  spoken  everything  which  is  note-
 worthy ^  6.  Whea^;^^  shall  offer  up^  what  pertains
 to  one  (khadukag)  on  account  of  another  it  is
 proper  ;  except  the  tongue,  jaw,  and  left  eye,  for
@@ -19213,10 +17846,8 @@ from  the  passage:  '  Hizvam  fr^renao^^,'  &c.
 
 Chapter  XII.
 
-I .  The  rule  is  this,  that  when  one's  form  of  wor-
-ship (ya>f  t)  ^  is  performed,  and  it  is  not  possible  for
-him  to  prepare  it,  the  practice  of  those  of  the  primi-
-tive faith^  is,  when  the  girdle  (aipiyaung)  is  twined
+I .  The  rule  is  this,  that  when  one's  form  of  worship (ya>f  t)  ^  is  performed,  and  it  is  not  possible  for
+him  to  prepare  it,  the  practice  of  those  of  the  primitive faith^  is,  when  the  girdle  (aipiyaung)  is  twined
 about  a  sacred  twig-bundle  (baresom)^  of  seven
 twigs  (tak),  to  consecrate  a  sacred  cake  (drono)
 thrice,  which  becomes  his  form  of  worship  that  is
@@ -19296,8 +17927,6 @@ preceptors,  adapted  to  their  destruction.'
 Z  2
 
 
-340  SHAYAST    LA-SHAYAST.
-
 carried  away  from  the  fire  ;  and  in  the  Spend  Nask  ^
 it  is  revealed  that  a  fire,  when  they  shall  make  it
 quite  clean  from  its  chilled  charcoal,  has  as  much
@@ -19310,8 +17939,7 @@ smallest  mouth-veil  ^  for  it  says  in  the  Vendidad  ^
 that  '  if  even  those  Mazdayasnians  should  leave  on
 him  who  is  dead,  in  parting  with  him,  as  much  as
 that  which  a  damsel  would  leave  in  parting  with  the
-food-hoy^X  (pa^fmanako)  —  that  is,  a  bag  (anba-
-nako-hana)^' — the  decree  is  this,  that  it  is  a  Tana-
+food-hoy^X  (pa^fmanako)  —  that  is,  a  bag  (anbanako-hana)^' — the  decree  is  this,  that  it  is  a  Tana-
 
 
 ^  See  Chap.  X,  4 ;  the  passage  mentioned  was  probably  in  that
@@ -19324,16 +17952,14 @@ translated  '  to  make  no  use  of.'
 ^  See  Chap.  X,  40.     K20  has  'garment.'
 
 *  Always  written  Vadikdarf'in  this  second  part  of  Sis.,  except
-in  Chap.  XIII,  7 ;  whereas  in  the  first  part  it  is  written  in  its  un-
-corrupted  form  Gavi^-def-da</  or  6^avi<f-jeda-da(/,  'the  law
+in  Chap.  XIII,  7 ;  whereas  in  the  first  part  it  is  written  in  its  uncorrupted  form  Gavi^-def-da</  or  6^avi<f-jeda-da(/,  'the  law
 opposed  to  the  demons.'  The  passage  here  quoted  is  Pahl.  Vend.
 V,  171,  172,  with  one  or  two  verbal  variations.
 
 ^  Standing  for  anbanak-ae,  which  is  corrupted  in  the  Vendidad
 MSS.  into  the  unintelligible  form  andanako-i,  so  that  this  old
 quotation  throws  a  rather  unexpected  light  upon  a  passage  in  the
-Vendidad  which  translators  would  be  almost  certain  to  misunder-
-stand. The  allusion  is  to  the  bags  used  by  a  menstruous  woman,
+Vendidad  which  translators  would  be  almost  certain  to  misunderstand. The  allusion  is  to  the  bags  used  by  a  menstruous  woman,
 when  eating,  to  prevent  contamination  of  the  food.  The  Persian
 Rivayats  state  that  three  bags  (kisah)  are  made  of  two  thicknesses
 of  strong  linen,  one  bag  to  wear  on  each  hand,  and  the  third,  which
@@ -19346,8 +17972,7 @@ metal  spoon,  which  must  not  touch  her  nose ;  and  when  the  meal
 
 CHAPTER    XII,  4,   5.  341
 
-puhar  sin  ^  at  root,  which  is  hell ;  and  in  the  Vendi-
-dad"  it  says  that  the  clothing  of  the  charitable
+puhar  sin  ^  at  root,  which  is  hell ;  and  in  the  Vendidad"  it  says  that  the  clothing  of  the  charitable
 (dahii-n-homand)  soul,  and  even  the  clothing
 which  they  will  give  it,  are  out  of  almsgivings
 (dasaran)  ^
@@ -19357,8 +17982,7 @@ away,  after  keeping  fasting  the  three  nights^,  still
 the  presentation  of  holy-water  (zohar)  to  the  fire  is
 to  be  performed,  which  is  the  presenting  of  the
 holy-water  to  the  nearest  fire ;  for  in  the  Damda^
-Nask^  it  is  revealed  that  when  they  sever  (te-
-brund)  the  consciousness  of  men  it  goes  out  to  the
+Nask^  it  is  revealed  that  when  they  sever  (tebrund)  the  consciousness  of  men  it  goes  out  to  the
 nearest  fire,  then  out  to  the  stars,  then  out  to  the
 
 
@@ -19393,12 +18017,9 @@ found  in  the  complete  text  of  the  Bundahi.?,  as  given  in  TD  (Chap.
 37  ;  see  Introduction,  p.  xxxvii).
 
 
-342  SHAYAST    LA-SHAYAST.
-
 moon,  and  then  out  to  the  sun  ^ ;  and  it  is  needful
 that  the  nearest  fire,  which  is  that  to  which  it  has
-come  out,  should  become  stronger  (zor-homand-
-tar)-.
+come  out,  should  become  stronger  (zor-homandtar)-.
 
 6.  The  rule  is  this,  that  they  should  not  leave  a
 Vi2i!A-paring  unprayed  over  {anafsu<^ak),  for  if  it  be
@@ -19449,9 +18070,6 @@ sacred  cakes  (see  note  on  dron,  Chap.  Ill,  32).     The  object  of
 CHAPTER    XII,  6-II.  34^^
 
 
-3
-
-
 sovereign  moon  (mah-i  khurt'ai)  and  the  other
 angels  ;  if  so,  it  is  to  be  allowed  by  them  thus  :  '  I
 will  consecrate  so  much  food  for  such  an  angel,'  and
@@ -19479,13 +18097,11 @@ the  destruction  of  Zaratu^t,  and  yet,  owing  to  the
 existence  of  the  fire  in  the  dwelling,  they  knew  no
 means  for  it.
 
-this  paragraph  is,  evidently,  to  reprove  niggardliness  in  such  offer-
-ings, and  to  prevent  their  being  mere  pretexts  for  feasting.
+this  paragraph  is,  evidently,  to  reprove  niggardliness  in  such  offerings, and  to  prevent  their  being  mere  pretexts  for  feasting.
 
 ^  See  Chap,  X,  25.  The  passage  alluded  to  here  was  probably
 in  that  section,  of  the  last  twenty-two,  which  treated  of  the  spirits
-of  the  earthly  existences,  one  portion  of  which  was  '  about  prepar-
-ing offerings  (austofrito)  to  the  angels.'
+of  the  earthly  existences,  one  portion  of  which  was  '  about  preparing offerings  (austofrito)  to  the  angels.'
 
 2  1M6  has  '  the  fire  of  Auharmazd  is  to  be  fully  maintained,  and
 it  is  revealed,'  &c.  This  section  is  a  repetition  of  Chap.  X,  4,  with
@@ -19495,8 +18111,6 @@ a  few  variations.
 
 *  Or  it  may  be  read  jeda,  'a  demon,'  meaning  'an  arch-fiend.'
 
-
-344  SHAYAST   LA-SHAYAST.
 
 12.  The  rule  is  this,  where  a  child  is  born,  during
 three  days,  for  protection  from  demons,  wizards,  and
@@ -19514,23 +18128,19 @@ who  puts  a  foot  upon  it,  is  doubtful  about  its  being
 dead  matter.
 
 14.  The  rule  is  this,  that  it  is  well  if  any  one  of
-those  who  have  their  handmaid  (i:akar)  in  coha-
-bitation (zanih),  and  offspring  is  born  of  her,  shall
+those  who  have  their  handmaid  (i:akar)  in  cohabitation (zanih),  and  offspring  is  born  of  her,  shall
 accept  all  those  who  are  male  as  sons ;  but  those
-who  are  female  are  no  advantage,  because  an-
-adopted  son  (sator)  is  requisite,  and  in  the  four-
+who  are  female  are  no  advantage,  because  anadopted  son  (sator)  is  requisite,  and  in  the  four-
 teenth   of  the   Husparam  Nask^   the   high-priests
 
 ^  That  is,  in  the  first  thirty  sections  of  the  Nask  (see  Chap.  X,
 25);  the  passage  alluded  to  must  have  been  in  that  portion  which
 treated  of  new-born  infants  and  their  proper  treatment.
 
-2  §§  13-16  are  a  repetition  of  Chap.  X,  20-23,  with  a  few  varia-
-tions.
+2  §§  13-16  are  a  repetition  of  Chap.  X,  20-23,  with  a  few  variations.
 
 ^  The  word  appears  to  be  topo  or  tufo,  which  would  rather
-mean  'scum'  or  '  gum'  (see  Bund.  XXVII,  19),  unless  it  be  con-
-sidered a  miswriting  of  itgo  or  tozo,  which  would  mean  'thin
+mean  'scum'  or  '  gum'  (see  Bund.  XXVII,  19),  unless  it  be  considered a  miswriting  of  itgo  or  tozo,  which  would  mean  'thin
 bark'  or  'bast.'  It  can  also  be  read  t^par,  'a  leather  bag,'  and
 the  sentence  can  be  so  translated  as  to  imply  that  a  toothpick  should
 be  cut  out  of  a  leather  bag,  an  alternative  similar  to  that  suggested
@@ -19553,8 +18163,7 @@ an  adopted  son  with  this  idea,  that :  '  The  child  of
 a  handmaid  may  be  accepted  by  us  as  a  son.'
 
 15.  The  rule  is  this,  that  one  is  to  persevere  much
-in  the  begetting  of  offspring,  since  it  is  for  the  acqui-
-sition ^  of  many  good  works  at  once  ;  because  in  the
+in  the  begetting  of  offspring,  since  it  is  for  the  acquisition ^  of  many  good  works  at  once  ;  because  in  the
 Spend  3  and  Nihart'tjm  Nasks^  the  high-priests  have
 taught  that  the  duty  and  good  works  which  a  son
 performs  are  as  much  the  father's  as  though  they
@@ -19592,8 +18201,6 @@ the  short  accounts  of  its  contents.
 «  See  Chap.  X,  3,  23.
 
 
-346  SHAYAST    LA-SHAYAST.
-
 not  to  be  drawn ^  from  a  well,  as  in  the  Bag-yasno"^
 notice  is  given  about  the  uncleanness(ayoi'dasarlh)
 of  well-water  at  night.
@@ -19604,8 +18211,7 @@ a  fiend  will  become  pregnant ;  and  when  it  is  cast
 away  one  Yatha-ahta-vairyo  ^  is  to  be  uttered.  19.
 Those  of  the  primitive  faith '^  who  7ised  to  act  more
 orthodoxically  (hu-rastakihatar),  when  food  was
-eaten  by  them  in  the  night,  for  the  sake  of  preserva-
-tion from  sin  owing  to  the  coming  of  strainings  and
+eaten  by  them  in  the  night,  for  the  sake  of  preservation from  sin  owing  to  the  coming  of  strainings  and
 sprinklings  07i  to  the  ground,  directed  a  man  to  chant
 the    Ahunavar^   from   the    beginning  of  the    feast
 
@@ -19614,8 +18220,7 @@ the    Ahunavar^   from   the    beginning  of  the    feast
 ^  Probably  the  Bakan-yasto  is  meant,  which  was  the  fourteenth
 nask  or  '  book '  of  the  complete  Mazdayasnian  literature,  according
 to  the  Dinkar^;  but  according  to  the  Dini-va^arkar^  and  the
-Rivayats  it  was  the  fifteenth  nask,  called  Baghan-ya^t.  For  its  con-
-tents, as  given  by  the  Dini-va^arkar^,  see  Haug's  Essays,  p.  132.
+Rivayats  it  was  the  fifteenth  nask,  called  Baghan-ya^t.  For  its  contents, as  given  by  the  Dini-va^arkar^,  see  Haug's  Essays,  p.  132.
 The  following  is  the  account  of  it  given  in  the  eighth  book  of  the
 Dinkarc/: —
 
@@ -19625,8 +18230,7 @@ and,  secondly,  the  worship  of  the  angels  of  the  other  invisible  and
 visible  worldly  existences,  out  of  whom  are  even  the  names  of  the
 days,  and  the  glory,  power,  triumph,  and  miraculousness  of  their
 life  also  is  extreme ;  the  angels  who  are  invoked  by  name  in  their
-worship,  and  the  attention  mid  salutation  due  to  them ;  the  worthi-
-ness and  dispensation  of  favour  for  worshippers,  and  the  business
+worship,  and  the  attention  mid  salutation  due  to  them ;  the  worthiness and  dispensation  of  favour  for  worshippers,  and  the  business
 of  their  many  separate  recitations  unto  the  angels ;  the  business  of
 unlimited  acquaintance  with  knowledge  about  the  promoters  of  the
 treasures  of  the  period,  unto  whom  the  creator  Auharmazd  is  to
@@ -19649,10 +18253,8 @@ of  the  season-festivals ;  as  it  says  in  the  Hart'okht
 Nask^,  that  of  the  sayings  which  are  spoken  out  the
 Ahunavar  is  that  which  is  most  triumphant.
 
-20.  The  rule  is  this,  that  when  one  sees  a  hedge-
-hog he  takes  it  back  to  the  plain,  and  its  own  place
-is  to  be  preserved  free  from  danger ;  for  in  the  Ven-
-didad  the  high-priests  have  taught,  that  every  day,
+20.  The  rule  is  this,  that  when  one  sees  a  hedgehog he  takes  it  back  to  the  plain,  and  its  own  place
+is  to  be  preserved  free  from  danger ;  for  in  the  Vendidad  the  high-priests  have  taught,  that  every  day,
 when  the  hedgehog  voids  urine  into  an  ant's  nest,  a
 thousand  ants  will  die^.
 
@@ -19691,20 +18293,16 @@ Bareshnum.
 ^  See  Chap.  II,  52.
 
 
-348  SHAYAST   LA-SHAYAST.
-
 with   regard   to    the   good  disposition  and  truthful
 speaking  of  the   man,  and  to  the  particular  work ;
 and  on  account  of  his  being  in  innocence  he  is  to  be
-considered   more  righteous.     23.   As  in  the  Vendi-
-dad^  it  says,  about  the  two  shares  of  righteousness,
+considered   more  righteous.     23.   As  in  the  Vendidad^  it  says,  about  the  two  shares  of  righteousness,
 how  one  should  tell  that  he  is  '  a  righteous  man,  O
 Zarattii-t  the  Spitaman  !  who  is  a  purifier,  who  should
 be  a  speaker  that  speaks  truly,  an  enquirer  of  the
 sacred  texts — that    is,  he  has  performed   his  ritual
 (yai-t) — a  righteous  one  who  specially  understands
-purification    from    the    religion    of   the    Mazdayas-
-nians,  that  is,  he  understands  its  religious  formulas
+purification    from    the    religion    of   the    Mazdayasnians,  that  is,  he  understands  its  religious  formulas
 (nirang).'      24.  When  it  is  so  that  the  control  of
 their  ablution  is  connected  with  him,  so  that  they
 consider  what  pertains  to  the  purifying  bowl  (zak-i
@@ -19712,8 +18310,7 @@ ta^tik)  as  his,  and  ever  abstain  from  it,  though  the
 angels  hear  and  consider  them  as  clean,  and   they
 select  for  him  those  who  consecrate  the  water  and
 bull's  urine  (gome^)  on  account  of  their  control  of
-purification  (yo^dasarkarih),  and  it  is  to  be  per-
-formed very  observantly  by  the  consecrators  at  the
+purification  (yo^dasarkarih),  and  it  is  to  be  performed very  observantly  by  the  consecrators  at  the
 place  which  is  to  be  measured  with  a  measure  and
 very  exactly  (khuptar)^.     25.  And  the  purifier  is  so
 much  the  better  when  washed  again,  and  when  it
@@ -19744,16 +18341,14 @@ that  is  secret,  which  has  happened  and  mostly
 arises  about  it,  there  is  no  harm  from  performing  it.
 27.  And  any  one  of  those  who  shall  receive  the
 water  and  bull's  urine  it  is  very  important  to  wash
-beforehand  (pavan  pe^)^;  because,  if  the^x  be  im-
-purity aboiU  him*,  and  he  puts  a  hand  to  the  cup
+beforehand  (pavan  pe^)^;  because,  if  the^x  be  impurity aboiU  him*,  and  he  puts  a  hand  to  the  cup
 (^amak),  the  water,  and  the  bull's  urine,  they  are
 unclean  (apa/^az^o)^-  when  it  is  so  that  there  be
 some  one,  when  so,  it  is  better  that  they  always
 wash  his  eyelids  (moyak  gas),  and  to  wash  them
 by  the  clean  is  good.
 
-28.  The  rule  is  this,  that  thou  shouldst  not  con-
-sider even  any  one  hopeless  (anaime^)  of  heaven,
+28.  The  rule  is  this,  that  thou  shouldst  not  consider even  any  one  hopeless  (anaime^)  of  heaven,
 
 ^  Reading  nihan,  but  we  might  perhaps  read  '  causes  (vahan)
 of  pollution  of  many  kinds.'  The  meaning  of  the  section  is,  that
@@ -19778,9 +18373,6 @@ some  places,  it  is  generally  safer  to  follow  K20,  except  when  M6
 suppUes  words  omitted  by  the  more  careless  writer  of  K20.
 
 
-350  SHAYAST    LA-SHAYAST.
-
-
 and  they  should  not  set  their  minds  steadfastly  on
 hell;  thereby  much  sinfulness  for  which  there  is  a
 desire  would  be  undesirable,  because  there  is  nothing
@@ -19790,13 +18382,11 @@ those  who  are  aware  that  thou  art,  O  Auharmazd !  is
 even  he  who  is  infamous  (raspako) ;  and  they  know
 the  punishment  of  him  even  who  is  very  sinful.'  29.
 And  as  to  him  even  w^ho  is  a  very  sinful  person,
-through  the  desire  ^  of  good  works  which  is  enter-
-tained by  him,  there  then  comes  more  fully  to  him
+through  the  desire  ^  of  good  works  which  is  entertained by  him,  there  then  comes  more  fully  to  him
 the  joy  of  a  soul  newly  worthy  (nuk  shaya^^) ;  as
 in  the  Spend  Nask^  it  was  shown  to  Zaratiut  about
 one  man,  that  all  Jiis  limbs  were  in  torment,  and  one
-foot  was  outside  ;  and  Zaratu^t  enquired  of  Auhar-
-mazd about  the  reason  of  it ;  and  Auharmazd  said
+foot  was  outside  ;  and  Zaratu^t  enquired  of  Auharmazd about  the  reason  of  it ;  and  Auharmazd  said
 that  he  was  a  man,  Davans  ^  by  name ;  he  was  ruler
 over  thirty-three^  districts,  and  he  never  practised
 
@@ -19808,8 +18398,7 @@ by  him;'  but  K20  has  '  i  hamak'  inserted  at  this  point,  which
 seems  to  indicate  the  existence  of  the  nearly  identical  Pahlavi
 letters  kamak,  'desire,'  in  the  original  from  which  it  was  copied.
 
-^  See  Chap.  X,  4.  The  passage  here  quoted  was  no  doubt  con-
-tained in  that  part  of  the  Nask  which  treated  of  the  exhibition  of
+^  See  Chap.  X,  4.  The  passage  here  quoted  was  no  doubt  contained in  that  part  of  the  Nask  which  treated  of  the  exhibition  of
 heaven  and  hell  to  Zaratujt,  which  must  have  been  very  similar  to
 the  Ar</a-Viraf-namak,  in  which  most  of  the  details  of  this  story
 about  Davans  are  given  (see  AV.  XXXII).
@@ -19830,13 +18419,10 @@ CHAPTER    XII,    29-31.  351
 any  good  work,  except  one  time  when  fodder  luas
 conveyed  by  him  to  a  sheep  with  that  one  foot.
 
-30.  The  rule  is  this,  that  when  a  man  has  per-
-formed h.\s  form  ^worship  (ya.s"t),  and  his  wife  has
-not  performed  it,  it  is  extremely  necessary  to  per-
-form the  suitable  form,  of  worship,  or  to  order  a
+30.  The  rule  is  this,  that  when  a  man  has  performed h.\s  form  ^worship  (ya.s"t),  and  his  wife  has
+not  performed  it,  it  is  extremely  necessary  to  perform the  suitable  form,  of  worship,  or  to  order  a
 Get6-kharW\  so  that  they  may  become  such  as  are
-dwelling  more  closely  together  in  the  spiritual  exist-
-ence than  in  the  world;  and  in  the  Ha^okht  Nask^
+dwelling  more  closely  together  in  the  spiritual  existence than  in  the  world;  and  in  the  Ha^okht  Nask^
 it  says  that  a  woman  (nairik)  who  shall  be  reverent
 (tarsak)  is  to  be  considered  as  much  as  she  who  is
 suitable  (ziyak).
@@ -19861,8 +18447,7 @@ indicated  in  the  accounts  we  have  of  the  contents  of  this  Nask.
 ^  The  distinction  between  these  ceremonies  and  those  whose
 values  as  good  works  are  given  in  Chap.  XVI,  6,  appears  to  be
 that  any  omission  in  performing  these  five  at  their  proper  times
-amounts  to  an  absolute  sin,  whereas  the  others  are  not  so  indis-
-pensable.
+amounts  to  an  absolute  sin,  whereas  the  others  are  not  so  indispensable.
 
 *  That  is,  they  will  be  taken  into  account  at  the  judgment  on  the
 soul's  actions  at  the  ^invart?  bridge  (see  Bund.  XII,  7).
@@ -19872,8 +18457,6 @@ the  section  called  Nirangistan.
 
 ^  The  Gasanbars  or  Gahanbars  (see  Bund.  XXV,  1-6).
 
-
-352  SHAYAST   LA-SHAYAST.
 
 Rapitvin  \  the  three  nights  ^  after  a  death,  the  days
 devoted  to  the  guardian  spirits^,  and  the  sun  and
@@ -19888,8 +18471,7 @@ speak  ill  like  manner  is  so  considered  as  an  action  of
 the  good  ^ ;  and  in  the  Stu^gar  Mask  ^  it  says  thus  :
 ' "  What  prepares  sneezing  ?  that  is,  through  what
 process  (kir)  does  it  come  ?  "  And  Atiharmazd  said
-thus  :  "  Hungry  living,  O  Zaratui"t !  because  the  re-
-medy for  its  existence  is  the  Ahunavar,  O  Zaratu^t !
+thus  :  "  Hungry  living,  O  Zaratui"t !  because  the  remedy for  its  existence  is  the  Ahunavar,  O  Zaratu^t !
 and  righteousness  *. "  '
 
 
@@ -19926,16 +18508,11 @@ CHAPTER    XII,   32 -XIII,  2.  353
 repj^escnf^  the  Fravarane  (Yas.  XI,  end)  of  the
 prehminary  ritual  (pei"  nirang)  and  the  rotation
 of  these  three  Has  ('  chapters '),  the  Fravarane,
-Frastuye,  and  Astuye — fravarane  demg  the  begin-
-ning of  the  Fravarane^  which  extends  as  far  as  fras-
-astayae/^a^,  frastuye*,  the  beginning  of  the  Fras-
-tuye (Yas.  XII,  i-XIII,  26)  which  extends  up  to  the
-Astuye,  and  astuye  ^  the  beginning  of  the  Astaoth-
-wanem  "^  (Yas.  XIII,  27-XIV,  end)  zvhich  extends  as
-far  as  astaothwanem/^a  daenay^u  Mazdayas-
-n6i.9  —  also  represent  the  Visai-V6'-amesha-spe;^ta
-(Yas.  XV),  which  is  the  beginning  of  the  Stotan-
-yasno  ('  the  ritual  of  praisers ')  ^,  and  these  three
+Frastuye,  and  Astuye — fravarane  demg  the  beginning of  the  Fravarane^  which  extends  as  far  as  fras-
+astayae/^a^,  frastuye*,  the  beginning  of  the  Frastuye (Yas.  XII,  i-XIII,  26)  which  extends  up  to  the
+Astuye,  and  astuye  ^  the  beginning  of  the  Astaothwanem  "^  (Yas.  XIII,  27-XIV,  end)  zvhich  extends  as
+far  as  astaothwanem/^a  daenay^u  Mazdayasn6i.9  —  also  represent  the  Visai-V6'-amesha-spe;^ta
+(Yas.  XV),  which  is  the  beginning  of  the  Stotanyasno  ('  the  ritual  of  praisers ')  ^,  and  these  three
 Has  of  the  Bagham  (Yas.  XIX-XXI).
 
 2.   In  the  exposition  (/^ashi^ak)  and  through  the
@@ -19948,8 +18525,7 @@ Avesta.
 section  is  altogether  very  obscure,  and  the  text  is  more  or  less
 corrupt  in  all  MSS.  In  the  celebration  of  the  Yasna  or  Yazii-n  the
 officiating  priest  tastes  the  Horn  juice  during  the  recitation  of  Yas.
-XI  (see  Haug's  Essays,  p.  404),  and  shortly  afterwards  he  com-
-mences the  preliminary  prayers  mentioned  in  the  text.
+XI  (see  Haug's  Essays,  p.  404),  and  shortly  afterwards  he  commences the  preliminary  prayers  mentioned  in  the  text.
 ^^  Both  K20  and  M6  have  Freran  in  Pazand.
 
 '  Both  K20  and  M6  omit  the  initial  f.
@@ -19973,12 +18549,9 @@ Baghan  Yaj-t.
 [5]  A  a
 
 
-354  SHAYAST    LA-SHAYAST.
-
 evidence  of  revelation  (dino)  the  wise  of  those  of
 the  primitive  faith  ^  have  thus  said,  that  a  man  of
-fifteen  years  ^  and  a  son  and  brother  of  Mazdayas-
-nians — when  he  confesses  his  failings  (mandak)  to
+fifteen  years  ^  and  a  son  and  brother  of  Mazdayasnians — when  he  confesses  his  failings  (mandak)  to
 the  high-priests  (ra^^an),  and  they  shall  bring  him
 the  whip  and  scourge  ^,  and  these  five  Gathas  *  are
 chanted  and  the  good  waters  consecrated  by  him,
@@ -20049,8 +18622,7 @@ body.
 
 ^  This  is  doubtful,  as  no  verb  is  expressed,  and  the  word  bSr,
 '  time,'  is  struck  out  in  M6,  so  it  is  possible  to  read  '  the  "  three
-foremost  "  of  the  Ashem-Ahurem-mazdam  are  the  coming  of  Hush-
-e^far,'  &c.  The  '  three  foremost '  (3  lev  1  nog)  would  be  a  possible
+foremost  "  of  the  Ashem-Ahurem-mazdam  are  the  coming  of  Hushe^far,'  &c.  The  '  three  foremost '  (3  lev  1  nog)  would  be  a  possible
 Pahlavi  translation  of  the  Av.  ti^ro  paoiryo  and  tijra  paoirya  of
 Visp.  XV,  4-6,  instead  of  the  actual  'three  first'  (3-i  fratum),  as
 may  be  seen  from  Pahl.  Visp.  VIII,  17,  20,  where  both  pej  (=
@@ -20061,8 +18633,7 @@ religion  (see  Bund.  XXXII.  8,  B.  Yt.  Ill,  13,  44,  52,  62).  In  fact,
 however,  they  seem  to  refer  to  the  first  three  chapters  of  the
 Ahunavaiti  Gatha,  immediately  after  which  this  chapter  (Visp.  XV)
 is  recited  in  the  full  Parsi  ritual ;  the  phrase  being  rendered  in  the
-Pahlavi  translation  thus  : — '  I  reverence  the  three  first  by  not  speak-
-ing out,  that  is,  I  do  not  say  anything  during  them,  and  not  wearing
+Pahlavi  translation  thus  : — '  I  reverence  the  three  first  by  not  speaking out,  that  is,  I  do  not  say  anything  during  them,  and  not  wearing
 out,  that  is,  I  do  not  doze  away  during  them,'
 
 ^  K20  has  '  arrive  early.'
@@ -20070,10 +18641,7 @@ out,  that  is,  I  do  not  doze  away  during  them,'
 A  a  2
 
 
-356  SHAYAST    LA-SHAYAST.
-
-country   becomes   more    flourishing   and    more    do-
-minant in  the  world.
+country   becomes   more    flourishing   and    more    dominant in  the  world.
 
 6.  The  twenty-two  stanzas  of  Ta-V£?-urvata  (Yas.
 XXXI)  are  the  twenty-two  judgments  (da^istan)
@@ -20084,12 +18652,10 @@ every  thought  ?  ajid  where  before  ? ')  '  Lodging  in
 the  judge,  that  while  /le  has  twenty-two  judgments
 he  may  be  more  just ;' — so  that  when  they  pray  the
 Ta-V(?-urvata  chapter  well,  and  recite  it  by  line  and
-stanza,  the  judges  possess  those  twenty-two  judg-
-ments more  correctly,  and  judiciousness  is  more
+stanza,  the  judges  possess  those  twenty-two  judgments more  correctly,  and  judiciousness  is  more
 lodging  in  them.
 
-7.  The  sixteen  stanzas  of  the  iYz^aetumaithl  chap-
-ter (Yas.  XXXII)  ^  are  lodging  in  warriors,  so  that
+7.  The  sixteen  stanzas  of  the  iYz^aetumaithl  chapter (Yas.  XXXII)  ^  are  lodging  in  warriors,  so  that
 it  becomes  possible,  during  their  good  protection,  to
 force  the  enemy  azoay  from  those  sixteen  countries
 which  the  Vendldad "  mentions  In  its  first  fargar^.
@@ -20110,21 +18676,17 @@ has  this  special  name  (see  the  prayers  at  the  end  of  it)  derived
 from  its  second  word,  and  which  is  corrupted  in  Pahlavi  into
 Khvetmano.
 
-•''  Here  written  G^avi^Z-jeda-da^  as  in  Sis.  Part  I,  and  not  Va-
-dikda^  as  in  other  parts  of  Sis.  Part  H  (see  §  19  and  Chap.  XII,
+•''  Here  written  G^avi^Z-jeda-da^  as  in  Sis.  Part  I,  and  not  Vadikda^  as  in  other  parts  of  Sis.  Part  H  (see  §  19  and  Chap.  XII,
 4,  6,  20,  23,  26).     Vend.  I  contains  an  account  of  the  sixteen
 
 
 CHAPTER    XIII,  6-9.  357
 
 8.  The  fourteen  stanzas  of  Yatha-aii-  (Yas.
-XXXIII)  are  for  this  reason,  because  seven  arch-
-angels are  more  diHgent  in  activity  for  the  spirit,
+XXXIII)  are  for  this  reason,  because  seven  archangels are  more  diHgent  in  activity  for  the  spirit,
 and  seven  archangels  ^  for  the  world,  so  that  they
-may  attain  '  to  heaven,  the  home  (mehono)  of  Au-
-harmazd,  the  home  of  the  archangels,  the  home  of
-those  righteous  ones,'  avi  garo-nmanem,  mae-
-thanem  Ahurahe  mazd^u,  maethanem  ame-
+may  attain  '  to  heaven,  the  home  (mehono)  of  Auharmazd,  the  home  of  the  archangels,  the  home  of
+those  righteous  ones,'  avi  garo-nmanem,  maethanem  Ahurahe  mazd^u,  maethanem  ame-
 shanam  spe;^tanam,  maethanem  anyaesham
 ashaonam^.  9.  The  three  repetitions  (danar)  of
 Ye-?>ev\sX.o  (Yas.  XXXIII,  11)  ^  and  the  holding  up
@@ -20145,12 +18707,10 @@ perhaps  we  should  read  '  angels,'  as  they  are  often  mentioned  as
 and  then  the  Avesta  text,  is  from  Vend.  XIX,  107.
 
 ^  This  stanza  is  recited  thrice,  and  about  the  same  time  the
-officiating  priest  strains  the  Hom  juice,  and  prepares  to  pour  holy-
-water  into  the  mortar  in  which  the  Hom  twigs  were  pounded  (see
+officiating  priest  strains  the  Hom  juice,  and  prepares  to  pour  holywater  into  the  mortar  in  which  the  Hom  twigs  were  pounded  (see
 Haug's  Essays,  pp.  402,  406).
 
-*  Or  '  professions '  of  the  community,  of  which  there  were  ori-
-ginally only  three,  the  priest,  warrior,  and  husbandman ;  but  at
+*  Or  '  professions '  of  the  community,  of  which  there  were  originally only  three,  the  priest,  warrior,  and  husbandman ;  but  at
 a  later  date  the  artizan  was  added.  Both  K20  and  M6  have  '  four
 classes,'  but  this  is  inconsistent  with  the  '  three  repetitions.'  The
 Avesta  generally  knows  only  three  classes,  but  four  are  mentioned
@@ -20176,8 +18736,7 @@ in  the  tillaofe  and  cultivation  of  the  world.
 
 10.  The  fifteen  stanzas  of  Ya-i-kyaothana  (Yas.
 XXXIV)  are  for  this  reason,  because  it  is  given ^
-for  the  destruction  of  those  fifteen  fiends  who  are  dis-
-closed in  the  medical  part  (besha^r)  of  the  Ha^okht
+for  the  destruction  of  those  fifteen  fiends  who  are  disclosed in  the  medical  part  (besha^r)  of  the  Ha^okht
 Nask^.  II.  The  four  repetitions  (bar)  of  Mazda-a^-
 moi  (Yas.  XXXIV,  15)^  are  for  the  right  coming
 on  of  the  share  of  these  five  chieftainships  (ra^ih),
@@ -20201,8 +18760,7 @@ be  read  va  va-srodaan.
 times.
 
 ^  See  Yas.  XIX,  50-52.  The  last  of  these  rulers  must  have  been
-the  supreme  pontiff  or  patriarch  of  the  province,  and  in  the  pro-
-vince of  Ragha  (Rages  or  Rai,  near  Teheran)  he  was  both  temporal
+the  supreme  pontiff  or  patriarch  of  the  province,  and  in  the  province of  Ragha  (Rages  or  Rai,  near  Teheran)  he  was  both  temporal
 and  spiritual  ruler,
 
 ®  This  first  stanza  of  the  Ahunavaiti  Gatha  is  recited  twice,  not
@@ -20219,8 +18777,7 @@ ness,  and  soul.  13.  Those  four  Yatha-ahu-vairyos
 of  the  first  Gdtha  ^  are  for  this  reason,  that  is,  so
 that  inferiors  may  become  more  tolerant  of  the
 commands  of  superiors,  and  good  thoughts,  good
-words,  and  good  deeds  be  more  domesticated  (mah-
-mantar)  in  the  world,  and  the  fiend  more  powerless
+words,  and  good  deeds  be  more  domesticated  (mahmantar)  in  the  world,  and  the  fiend  more  powerless
 (apa^akhshahtar).
 
 14.  In  short  (ae-mar)^,  Ahya-yasa  is  as  (pavan)^
@@ -20255,8 +18812,7 @@ creations  which  they  severally  protect  (see  Chap.  XV).
 *  Here  written  Shatrivar.
 
 ^  INIeaning  probably  '  the  prosperity  which  is  occasioned  by ; '
-but  the  exact  signification  of  the  word  frak-sham  or  freh-
-k  a  sham  (or  however  it  may  be  read)  is  uncertain.
+but  the  exact  signification  of  the  word  frak-sham  or  frehk  a  sham  (or  however  it  may  be  read)  is  uncertain.
 
 ^  Spendomat  or  Spendamat  in  Pahlavi.
 
@@ -20277,13 +18833,11 @@ XXXV,  4),  and  its  end  is  Humatanam  (Yas.  XLI,
 17.  The    six   stanzas   of  Ahya-thwa-athro  (Yas.
 
 XXXVI)  are  owing  to  the  six  hot  ordeals  (var)
-which,  in  the  Husparam  Nask^,  are  effected  by  /C'a-
-thrayaim   athraiam*.
+which,  in  the  Husparam  Nask^,  are  effected  by  /C'athrayaim   athraiam*.
 
 18.  The  five  stanzas  of  Itha-a^-yazamaide  (Yas.
 
-XXXVII)  are  thanksgiving  and  praise  for  the  pro-
-duction of  the  good  creations  by  Auharmazd.
+XXXVII)  are  thanksgiving  and  praise  for  the  production of  the  good  creations  by  Auharmazd.
 
 19.  The    five    stanzas    of   Imam-aa^-zam    (Yas.
 
@@ -20305,8 +18859,7 @@ from  the  Avesta,  as  the  verbs  precede  their  nominatives.
 is  probably  meant,  as  it  contained  a  section  on  ordeals  by  heat
 and  cold.
 
-*  These  Avesta  words  are  evidently  corrupt,  but  perhaps  '  a  quad-
-ruple fire '  is  meant.     K20  has /^athrayaim  athraiam.
+*  These  Avesta  words  are  evidently  corrupt,  but  perhaps  '  a  quadruple fire '  is  meant.     K20  has /^athrayaim  athraiam.
 
 5  Here  written  Vandikda^  (see  §  7).  The  passage  here  cited  is
 not  a  quotation,  but  only  a  brief  summary  of  Vend.  Ill,  i-37  J
@@ -20342,8 +18895,7 @@ account  of  water,  earth,  plants,  and  animals.
 
 22.  The  six  stanzas  of  Stuto-garo  (Yas.  XLI,
 I- 1 7),  the  two  repetitions  of  Humatanam  (Yas.
-XXXV,  4-6),  and  the  three  repetitions  of  Hukhsh-
-athrotemai  (Yas.  XXXV,  13-15)  are  on  account  of
+XXXV,  4-6),  and  the  three  repetitions  of  Hukhshathrotemai  (Yas.  XXXV,  13-15)  are  on  account  of
 the  existence  of  the  sons  of  Zaratui"t  ^
 
 ^  The  verb  is  probably  omitted  by  mistake,  and  we  ought  to
@@ -20367,13 +18919,10 @@ XXXII,  8).     It  is  doubtful  whether  these  three  passages  in  the
 362  SHAVAST    LA-SHAYAST.
 
 23.  The  two  repetitions  of  Ashahya-aai^-sairi  ^
-(Yas.  XXXV,  22,  23)  are  for  the  laudation  of  right-
-eousness and  the  destruction  of  the  fiend.  24.  The
-two  repetitions  of  YeNhe-hatam  ^  are  for  the  lau-
-dation of  Auharmazd  and  the  archangels,  and  the
+(Yas.  XXXV,  22,  23)  are  for  the  laudation  of  righteousness and  the  destruction  of  the  fiend.  24.  The
+two  repetitions  of  YeNhe-hatam  ^  are  for  the  laudation of  Auharmazd  and  the  archangels,  and  the
 destruction  of  the  evil  spirit  and  the  miscreations
-(vishu^akan).  25.  The  two  repetitious  of^  Thwoi-
-staotaras/C'a  (Yas.  XLI,  12-14)  ^^e  for  the  laudation
+(vishu^akan).  25.  The  two  repetitious  of^  Thwoistaotaras/C'a  (Yas.  XLI,  12-14)  ^^e  for  the  laudation
 of  ceremonial  worship  (ya-^i^no)  and  the  sacred
 feast  (mazd).
 
@@ -20382,8 +18931,7 @@ feast  (mazd).
 the  fire  Vazi^t  ^
 
 27.  Of  the  sixteen  stanzas  of  the  U^tavaiti  chapter
-(Yas.  XLI  I) «  it  is  related  just  as  about  the  Hv2i&iw-
-maithi  chapter  '^.
+(Yas.  XLI  I) «  it  is  related  just  as  about  the  Hv2i&iwmaithi  chapter  '^.
 
 Yasna  are  here  intended  all  to  refer  to  the  same  subject,  but  no
 ether  subject  is  mentioned  for  the  two  former.  Having  completed
@@ -20423,8 +18971,7 @@ CHAPTER    XIII,  23-29.  ^6
 
 
 28.  The  twenty  stanzas  of  Tartf-thwa-peresa  (Yas.
-XLIII)  are  the  twenty  judgments  (da^istan)  be-
-tween the  beneficent  spirit  and  the  evil  spirit ;  and
+XLIII)  are  the  twenty  judgments  (da^istan)  between the  beneficent  spirit  and  the  evil  spirit ;  and
 for  this  reason  they  should  every  time  utter  Ta^-
 thwa-peresa  again  \  because  they  should  utter  the
 original  judgment  again,  and  the  twentieth  time  the
@@ -20434,15 +18981,13 @@ evil  spirit  becomes  confounded.
 XLIV)  are  made  up  from  the  six  chieftainships  ^
 and  the  five  accomplishments  (farhang)  owing  to
 religion  ;  one  is  thus,  not  to  do  unto  others  ^  all  that
-which  is  not  well  for  one's  self;  the  second  is  to  under-
-stand fully  what  is  well-done  and  not  well-done  ;  the
+which  is  not  well  for  one's  self;  the  second  is  to  understand fully  what  is  well-done  and  not  well-done  ;  the
 third  is  to  turn  from  the  vile  and  their  conversation
 (andarag-guftano) ;  the  fourth  is  to  confess  ones
 failings  to  the  high-priests,  and  let  them  bring  the
 w^hip ;  the  fifth  is  not  to  neglect  the  season-festivals
 at  their  proper  hour  (den  hasar),  nor  the  other
-things  which  go  to  the  bridge  ^ ;  and  the  six  chief-
-tainships are  not  his   property  who  has  not  these
+things  which  go  to  the  bridge  ^ ;  and  the  six  chieftainships are  not  his   property  who  has  not  these
 
 
 ^  That  is,  the  first  line  (ta^  thwa  peresal  ercj  moi  vao/^a
@@ -20465,8 +19010,6 @@ Chap.  XII,  31).  Part  of  these  fourth  and  fifth  clauses  is  omitted
 in  K20  by  mistake.
 
 
-364  SHAYAST    LA-SHAYAST.
-
 five  accomplishments,   and    he   is   not   fit  even   for
 teaching.
 
@@ -20484,20 +19027,16 @@ chapters^,  and  each  stanza  of  five  lines  (gas),  except
 Hae/t-a^-aspa-vakhshya  (Yas.  XLV,  15)^.  32.  The
 two  repetitions  of  IJj-ta-ahmai  (Yas.  X LI  I,  i)"  are,  one
 as  a  retention  and  embrace  of  Auharmazd,  and  one
-as  a  destruction  of  the  fiends  ;  and  Ui"ta-Ahurem-
-mazdam  (Visp.  XXI,  1-5)'^  in  like  manner.
+as  a  destruction  of  the  fiends  ;  and  Ui"ta-Ahuremmazdam  (Visp.  XXI,  1-5)'^  in  like  manner.
 
 '^■i,-  Spe;^ta-maiayu  (Yas.  XLV  I)  has  six  stanzas,
-Yezi-adai^  (Yas.  XLV II)  twelve  stanzas,  A^-ma-
-yava  (Yas.  XLV  1 1 1)  twelve  stanzas,  and  Ka^-moi-
-urva  (Yas.  XLIX)  eleven  stanzas.  34.  The  Spe;^ta-
-mainyu   Gatha  is  a   Gatha  of  four    chapters  ^  and
+Yezi-adai^  (Yas.  XLV II)  twelve  stanzas,  A^-mayava  (Yas.  XLV  1 1 1)  twelve  stanzas,  and  Ka^-moi-
+urva  (Yas.  XLIX)  eleven  stanzas.  34.  The  Spe;^tamainyu   Gatha  is  a   Gatha  of  four    chapters  ^  and
 
 ^  Or,  it  may  be,  'through  his  own  intellect  (khvei'ak  hush),'  or
 merely  another  mode  of  writing  khve^karih,  'industry.'
 
-^  Considering  each  of  the  stanzas  as  an  offering  to,  or  propiti-
-ation of,  (Av.  usefriti)  the  angels.
+^  Considering  each  of  the  stanzas  as  an  offering  to,  or  propitiation of,  (Av.  usefriti)  the  angels.
 
 ^  See  Chap.  X,  25.
 
@@ -20521,12 +19060,10 @@ CHAPTER    XIII,   30-40.  365
 each  stanza  of  four  lines  ;  it  is  made  up  from  the
 five  chieftainships  and  four  classes  ^  35.  The  two
 repetitions  of  Spe;^ta-mainyu  (Yas.  XLVI,  i)^  are,
-one /^r  the  laudation  of  the  beneficent  spirit  (spen-
-damat),  and  one  for  that  of  the  earth  -K
+one /^r  the  laudation  of  the  beneficent  spirit  (spendamat),  and  one  for  that  of  the  earth  -K
 
 2,6.  One  Spe;^tem-Ahurem-mazdam  (Visp.  XXII,
-i-i  i)  ^  is  the  laudation  of  the  creatures  of  the  bene-
-ficent spirit,  and  one  is  the  destruction  of  the  crea-
+i-i  i)  ^  is  the  laudation  of  the  creatures  of  the  beneficent spirit,  and  one  is  the  destruction  of  the  crea-
 tures of  the  evil  spirit.
 
 ^y.  The  twenty-two  stanzas  of  the  Vohu-khshathra
@@ -20569,10 +19106,7 @@ Chap.  XV,  5,  14-19,  and  Bund.  I,  26,  XXX,  19);  the  name
 is  here  written  Shatrivar.
 
 
-366  SHAYAST    LA-SHAYAST.
-
-apam  (Visp.  XXIV,  1-12)^  are,  one  for  the  lauda-
-tion of  waters,  and  one  of  plants.
+apam  (Visp.  XXIV,  1-12)^  are,  one  for  the  laudation of  waters,  and  one  of  plants.
 
 41.  The  nine  stanzas  of  the  Vahi^toi^ti  (Yas.  LI  I)
 are  on  account  of  those  nine  things  which  are  ^  .  .  .
@@ -20584,8 +19118,7 @@ Gatha  of  one  chapter,  and  each  stanza  of  four  lines,
 except  Itha-i-haithya-naro  (Yas.  LII,  6)^  for  there  is
 always  one  lord  and  sovereign  in  the  world.  43,
 And  those  four  lines  are  for  this  reason,  because  it
-is  declared  :  /^athruj  hamay^^^u  khshapo  dahma-
-ya^  paro  afrit6i^^  'four  times  every  night  is  the
+is  declared  :  /^athruj  hamay^^^u  khshapo  dahmaya^  paro  afrit6i^^  'four  times  every  night  is  the
 "blessing  of  the  holy"  (Yas.  LIX),'  and  three  times
 Srosh^,  twice  Bushasp^  and  once  Aeshm^^  will  come
 
@@ -20627,17 +19160,14 @@ the  assistants  of  the  supreme  Zaratui-t  are  five,  the
 house -ruler,  the  village -ruler,  the  tribe-ruler,  the
 province -ruler,  and  she  even  who  is  his  own  wife
 (narik)^  45.  The  two  repetitions  of  Vahii-ta-tni^
-(Yas.  LII,  1)2  are,  one  for  the  laudation  of  sove-
-reigns, and  one  for  the  laudation  of  peace  (pa^-
+(Yas.  LII,  1)2  are,  one  for  the  laudation  of  sovereigns, and  one  for  the  laudation  of  peace  (pa^-
 man).
 
-46,  The  two  repetitions  of  Vahirtem-Ahurem-
-mazdam  (Visp.  XXVI)  ^  are,  one  for  the  laudation
+46,  The  two  repetitions  of  Vahirtem-Ahuremmazdam  (Visp.  XXVI)  ^  are,  one  for  the  laudation
 of  Aiiharmazd  and  the  archangels,  and  one  for  the
 destruction  of  the  fiends.  47.  The  four  repetitions  of
 the  Airyamana  (Yas.  LIII)*  are  for  the  existence
-of  more  submission  (airmanih)  in  the  house,  vil-
-lage, tribe,  and  province.  48.  The  four  repetitions
+of  more  submission  (airmanih)  in  the  house,  village, tribe,  and  province.  48.  The  four  repetitions
 of  Ava^-mi^-dem  (Visp.  XXVII)  are  for  the  healing
 of  those  ^  who  dwell  in  the  house,  village,  tribe,  and
 province.
@@ -20667,8 +19197,6 @@ illegibility  of  the  MS.  from  which  it  was  copied.
 *  This  is  the  Fshusho-mathra  ('  a  spell  or  prayer  for  prosperity  ')
 
 
-368  SHAYAST    LA-SHAYAST.
-
 of  the  Gathas,  taught  as  pertaining  to  the  Gathas
 (gasanik  /^a5"t).
 
@@ -20687,8 +19215,7 @@ of  Visp.  I,  28,  11,  30,  Yas.  LVI,  ix,  6,  LVIII,  13.  Whether  the
 remainder  of  Yas.  LVII  is  to  be  considered  as  pertaining  to  the
 Gathas  is  uncertain ;  it  is  recited  in  seven  sections  by  the  assistant
 priest,  each  section  from  a  different  position  ;  these  seven  positions
-being  the  stations  of  the  seven  assistant  priests  who  are  sup-
-posed to  be  present  spiritually,  and  to  be  arranged  three  on  each
+being  the  stations  of  the  seven  assistant  priests  who  are  supposed to  be  present  spiritually,  and  to  be  arranged  three  on  each
 side,  and  one  at  the  south  end,  of  the  ceremonial  area,  while  the
 chief  officiating  priest  occupies  the  north  end  (see  Haug's  Essays,
 
@@ -20699,8 +19226,7 @@ be  seen  from  the  details  given  in  §  51.  Regarding  the  words
 there  is  the  uncertainty  as  to  what  constitutes  a  compound  word,
 but,  taking  each  compound  in  Westergaard's  edition  of  the  texts
 as  a  single  word,  the  total  number  of  words  in  the  1016  lines
-is  about  6147;  a"d  this  could  be  reduced  to  5567  only  by  omit-
-ting the  Yasna  of  seven  chapters,  and  somewhat  relaxing  the  rule
+is  about  6147;  a"d  this  could  be  reduced  to  5567  only  by  omitting the  Yasna  of  seven  chapters,  and  somewhat  relaxing  the  rule
 as  to  compound  words.  The  meaning  of  the  last  two  terms,
 marik  and  khur</ak,  is  doubtful,  but  they  are  certainly  not
 syllables  and  letters,  as  the  number  of  syllables  exceeds  13,000.
@@ -20716,8 +19242,7 @@ things  are  probably  the  consonants.
 
 CHAPTER    XIII,   50-XIV,   I.  369
 
-XLI,  17),  of  which  each  stanza  is  three  lines;  sixty-
-six  stanzas  of  the  Ui-tavaiti  Gatha  (Yas,  XLII-
+XLI,  17),  of  which  each  stanza  is  three  lines;  sixtysix  stanzas  of  the  Ui-tavaiti  Gatha  (Yas,  XLII-
 XLV),  of  which  each  stanza  is  five  lines,  except
 Hae/t'a^-aspa  (Yas.  XLV,  15),  for  that  one  is  four
 lines  ;  forty-one  stanzas  of  the  Spe;^ta-mainyu  Gatha
@@ -20766,16 +19291,12 @@ version  of  §§  1-3  exists  in  L22,  fols.  126,  127,  and  L7,  fols.  78
 A.
 
 
-370  SHAYAST   LA-SHAYAST.
-
 2.  The  decision  is  this  :  —  Whoever  knowingly
 consecrates  a  sacred  cake  -with  unpurified  sacred
-twigs  (bares6m-i  apa^^iyaz^)^,  or  with  a  twig-
-bundle  the  number  of  whose  twigs  (tak)  is  too  many
+twigs  (bares6m-i  apa^^iyaz^)^,  or  with  a  twigbundle  the  number  of  whose  twigs  (tak)  is  too  many
 or  too  few,  or  of  another  plant  not  proper  y^r  sacred
 twigs  ;  or  holds  the  end  of  the  twig-bundle  to  the
-north  ^  and  utters  the  A  vesta  attentively;  or  who-
-ever consecrates  with  efficacy  unawares,  it  is  not  to
+north  ^  and  utters  the  A  vesta  attentively;  or  whoever consecrates  with  efficacy  unawares,  it  is  not  to
 be  considered  as  uttered  by  him.  3.  Nor  by  him
 who  advertently  or  inadvertently  takes  a  taste
 (/^ashnik),  not  from  the  sacred  cake  with  the  butter
@@ -20821,8 +19342,7 @@ he  sees  the  fire.
 4.  This  is  how  it  is  when  the  period  of  the  day
 (g^s)^  is  retained,  and  how  it  should  be  when  one
 may  relinquish  it;  that  is,  when  even  one  of  the
-stars  created  by  Auharmazd  is  apparent,  it  is  re-
-tained, and  when  not  it  is  relinquished.  5.  It  is
+stars  created  by  Auharmazd  is  apparent,  it  is  retained, and  when  not  it  is  relinquished.  5.  It  is
 Vand-Auharmazd "  who  said  that  when,  besides
 Tinar,  Vanand,  or  Sataves*,  one  of  the  zodiacal
 stars  (akhtarik)  is  apparent,  it  is  retained,  and
@@ -20834,8 +19354,7 @@ when  not  it  is  relinquished^.
 
 1  See  Chaps.  Ill,  35,  VII,  8.
 
-^  See  Bund.  XXV,  9.  The  text  appears  to  refer  to  the  transi-
-tion from  the  Ushahina  to  the  Havani  Gah  at  daybreak  ;  and
+^  See  Bund.  XXV,  9.  The  text  appears  to  refer  to  the  transition from  the  Ushahina  to  the  Havani  Gah  at  daybreak  ;  and
 as  certain  portions  of  the  prayers  are  varied  according  to  the
 period  of  the  day,  it  is  very  necessary  to  know  precisely  when  each
 period  commences,  so  as  to  avoid  vitiating  the  whole  ceremonial
@@ -20850,8 +19369,7 @@ Antares  (see  Bund.  II,  7).
 by  the  Pahlavi  text  of  the  Patit-i  Khu^,  or  renunciation  of  one's
 own  sin,  a  translation  of  which  will  be  found  in  Bleeck's  English
 version  of  the  Avesta,  London,  1864,  III,  pp.  159-162,  derived
-from  Spiegel's  German  translation  of  the  Pazand  text.  This  trans-
-lation is  fairly  correct  on  the  whole,  although  some  passages  might
+from  Spiegel's  German  translation  of  the  Pazand  text.  This  translation is  fairly  correct  on  the  whole,  although  some  passages  might
 be  improved,  thus  (p.  162),  instead  of  'all  sins  which  may  attack
 the  character  of  man  [or]  have  attacked  my  character,  if  I,  on
 account  of  much  death,  have  not  recognised  the  death,'  &c.,  we
@@ -20862,17 +19380,13 @@ do  not  know  the  number,'  &c.
 B  b  2
 
 
-372  SHAYAST    LA-SHAYAST.
-
-
 Part  III. — Appendix^.
 
 Chapter    XV  ^
 
 1.  //is  revealed  by  a  passage  of  the  A  vesta  that
 Zaratu^t,  seated  before  Auharmazd,  always  wanted
-information  {yz.k)  from  him;  and  he  spoke  to  Au-
-harmazd thus :  '  Thy  head,  hands,  feet,  hair,  face,
+information  {yz.k)  from  him;  and  he  spoke  to  Auharmazd thus :  '  Thy  head,  hands,  feet,  hair,  face,
 and  tongue  are  in  my  eyes  just  like  those  even
 which  are  my  own,  and  you  have  the  clothing  men
 have ;  give  me  a  hand,  so  that  I  may  grasp  thy
@@ -20882,8 +19396,7 @@ hand.'
 spirit ;   it  is  not  possible  to  grasp  my  hand.'
 
 3.  Zaratui't  spoke  thus  :  '  Thou  art  intangible,  and
-Vohuman,  Ar</avahi5-t,  Shatvairo^,  Spendarma^f,  Hor-
-vada^,  and  Ameroda^  are  intangible,  and  when  I
+Vohuman,  Ar</avahi5-t,  Shatvairo^,  Spendarma^f,  Horvada^,  and  Ameroda^  are  intangible,  and  when  I
 depart  from  thy  presence,  and  do  not  see  thee  7ior
 even  them — since  of  the  person  whom^  I  see  and
 worship  there  is  something — should  thou  and  the
@@ -20891,8 +19404,7 @@ seven  archangels  be  worshipped  by  me,  or  not^?'
 
 ^  This  Appendix  consists  of  a  number  of  fragments  found  in  the
 old  MS.  M6,  and  of  somewhat  the  same  character  as  the  Shayast
-la-shayast,  but  they  have  no  claim  to  be  considered  as  a  por-
-tion of  that  work.  Excepting  Chaps.  XVIII,  XIX,  XXI,  they  are
+la-shayast,  but  they  have  no  claim  to  be  considered  as  a  portion of  that  work.  Excepting  Chaps.  XVIII,  XIX,  XXI,  they  are
 not  found  in  the  other  old  MS.  K20,  and  beyond  the  fact  that  they
 must  be  more  than  five  centuries  old  their  age  is  quite  uncertain,
 though  some  of  them  are  probably  older  than  others.
@@ -20932,8 +19444,7 @@ has  exercised  his  care  of  the  seven  archangels,  and
 ought  to  teach  all  mankind  in  the  world.
 
 7.  'Whoever  wishes  to  propitiate  Auharmazd  in
-the  world,  wishes  to  promote  the  things  of  Auhar-
-mazd ;  and  whoever  he  be,  with  whom  Auharmazd
+the  world,  wishes  to  promote  the  things  of  Auharmazd ;  and  whoever  he  be,  with  whom  Auharmazd
 ever  is  in  every  place  (gas)  ^  it  is  necessary  that  he
 should  ^  propitiate  the  righteous  man,  in  whatever
 
@@ -20955,12 +19466,8 @@ verbs  by  prefixing  hana,  ae,  or  i  (all  representing  Paz.  ae  or  e)  t
 the  present  tense,  instead  of  affixing  it.
 
 
-374  SHAYAST    LA-SHAYAST,
-
-
 has  happened  and  whatever  occurs  to  him,  and
-should  act  for  his  happiness,  and  afford  him  protec-
-tion from  the  vile.  8.  Since  the  righteous  man  is  a
+should  act  for  his  happiness,  and  afford  him  protection from  the  vile.  8.  Since  the  righteous  man  is  a
 counterpart  of  Auharmazd  the  lord,  and  when  the
 rio-hteous  man  acts  it  is  caused  by  him  who  is
 Ataharmazd,  w^ioever  propitiates  the  righteous  man,
@@ -20977,22 +19484,19 @@ with  him,  that  he  should  propitiate,  at  every  place
 whatever  has  happened  and  whatever  occurs,  and
 should  act  for  their  happiness ;  and  in  the  terrible
 days  and  the  hurried  times  (gas)  which  befall  them,
-he  should  aiford  them  protection  from  the  oppres-
-sive and  idle.  10.  He  should  not  give  them  as  a
+he  should  aiford  them  protection  from  the  oppressive and  idle.  10.  He  should  not  give  them  as  a
 bribe  to  a  man  who  is  a  wicked  tyrant,  but  should
 keep  them  in  a  pleasant  and  warm  locality  and  place
 (gas);  and  in  summer  he  should  provide  them  a
 store  of  straw  and  corn,  so  that  it  be  not  necessary
 to  keep  thcin  on  the  pastures  (/C-arak)  in  winter;
-and  he  should  not  deliver  them  7ip  for  this  pur-
-pose, that  is,  "  So  that  I  may  give  them  up  to  the
+and  he  should  not  deliver  them  7ip  for  this  purpose, that  is,  "  So  that  I  may  give  them  up  to  the
 vile,"  because  it  is  necessary  to  give  to  the  good ;
 and  he  should  not  drive  them  apart  from  their
 young,  and  should  not  put  the  young  apart  from
 their  milk.  11.  Since  they  are  counterparts  of  him
 (Vohuman)  himself  in  the  world,  the  well-yielding
-cattle,  whoever  propitiates  those  which  are  well-
-yielding  cattle  his  fame  subsists  in  the  world,  and
+cattle,  whoever  propitiates  those  which  are  wellyielding  cattle  his  fame  subsists  in  the  world,  and
 
 
 CHAPTER    XV,    8-15.  375
@@ -21005,12 +19509,10 @@ best  existence  \
 the  world  is  he  who  wishes  to  promote  his  things ;
 and  it  is  necessary  for  him,  so  that  Ar^^avahi^t  may
 be  with  him  at  every  place  (gas)  and  time,  that  he
-should  propitiate  the  fire  of  Auharmazd,  in. what-
-ever has  happened  and  whatever  occurs,  and  should
+should  propitiate  the  fire  of  Auharmazd,  in. whatever has  happened  and  whatever  occurs,  and  should
 act  for  its  happiness  ;  he  should  not  put  upon  it
 wood,  incense,  and  holy-water ^  which  are  stolen  and
-extorted,  and  he  should  not  cook  at  it  a  ration  (ba-
-har)  which  is  violently  extorted  from  men.  13.  For
+extorted,  and  he  should  not  cook  at  it  a  ration  (bahar)  which  is  violently  extorted  from  men.  13.  For
 it  is  a  counterpart  of  him  (Ar^^avahi^t)  himself  in
 the  world,  the  fire  of  Auharmazd ;  and  whoever
 propitiates  those  which  are  fires  of  Auharmazd  his
@@ -21040,8 +19542,6 @@ also  means  '  metal '  generally,  as  it  certainly  does  here,  and  very
 probably  likewise  in  B.  Yt.  I,  i,  5,  II,  14,  22.
 
 
-376  SHAYAST   LA-SHAYAST.
-
 heart  so  unsullied  and  pure  that,  when  they  shall
 drop  melted  metal  upon  it,  it  does  not  burn.  i6.
 And  Ataropartf  son  of  Maraspend^  even  acted  in  this
@@ -21053,17 +19553,14 @@ they  drop  it  upon  the  region  of  the  heart  of  the
 wicked  and  sinners,  it  burns,  and  they  die.  18.  And
 one  should  not  commit  sin  with  metal,  and  with  its
 burning ;  and  should  not  give  gold  and  silver  to  the
-vile.  19.  For  it  is  a  counterpart  of  Shatvairo  him-
-self in  the  world  for  him,  and  since  he  propitiates
+vile.  19.  For  it  is  a  counterpart  of  Shatvairo  himself in  the  world  for  him,  and  since  he  propitiates
 those  which  are  melted  metals,  his  fame  subsists  in
 the  world,  and  the  splendour  of  Auharmazd  becomes
 his  own  in  heaven.
 
 20.  'Whoever  wishes  to  propitiate  Spendarma^f  In
-the  world,  wishes  to  promote  the  things  of  Spend-
-arma^;  «;^^  whoever  he  be,  it  is  necessary,  so  that
-Spendarmart^  may  be  with  him,  that  he  should  pro-
-pitiate, at  every  place  and  time,  the  earth  and
+the  world,  wishes  to  promote  the  things  of  Spendarma^;  «;^^  whoever  he  be,  it  is  necessary,  so  that
+Spendarmart^  may  be  with  him,  that  he  should  propitiate, at  every  place  and  time,  the  earth  and
 virtuous  woman,  in  whatever  has  happened  and  in
 whatever  occurs,  and  should  act  for  their  happiness.
 21.  For  when  he  does  not  spread  out  (bara  la
@@ -21073,8 +19570,7 @@ piece  from  another,  his  body  also  will  not  be  always
 
 '  The  primate  and  prime  minister  of  Shapiir  II  (a.d.  309-379),
 who  is  said  to  have  undergone  the  ordeal  of  having  melted  metal
-poured  upon  his  chest,  in  order  to  prove  the  truth  of  the  Mazda-
-yasnian  religion.  The  metal  used  is  generally  called  rui,  'brass,'
+poured  upon  his  chest,  in  order  to  prove  the  truth  of  the  Mazdayasnian  religion.  The  metal  used  is  generally  called  rui,  'brass,'
 but  here  it  is  aiyen,  'iron,'  though  a  more  fusible  metal  than
 either  was,  no  doubt,  used.
 
@@ -21095,12 +19591,9 @@ are  active  mid  virtuous,  it  becomes  much  distressed
 this  earth  becomes  distressed  (zanik),  it  is  most  so
 at  the  time  when  sinners  worthy  of  death  are  most ;
 for  it  is  declared,  when  sinners  worthy  of  death  walk
-upon  //,  its  pain  and  uneasiness  become  as  dis-
-tressing (du-ykhvar)  to  it  as  the  dead  son  on  her
-bosom  to  a  mother ;  and  the  lodgment  of  Spend-
-armartf  in  the  earth  is  little  in  that  place  whereon
-sinners  worthy  of  death  walk.  24.  And  her "-  happi-
-ness arises  from  that  place  when  they  shall  perform
+upon  //,  its  pain  and  uneasiness  become  as  distressing (du-ykhvar)  to  it  as  the  dead  son  on  her
+bosom  to  a  mother ;  and  the  lodgment  of  Spendarmartf  in  the  earth  is  little  in  that  place  whereon
+sinners  worthy  of  death  walk.  24.  And  her "-  happiness arises  from  that  place  when  they  shall  perform
 tillage  and  cultivation  on  it,  and  a  virtuous  son  is
 born  upon  it,  and  they  rear  cattle  upon  it ;  and  it
 is  so  one's  fame  subsists  in  the  world,  and  the
@@ -21120,12 +19613,9 @@ inhabitants,  but  there  is  some  doubt  as  to  the  exact  wording  of  the
 translation.
 
 2  Spendarma^  is  a  female  archangel ;  perhaps,  however,  the
-earth  is  meant  here,  as  it  is  said  to  be  most  pleased  by  the  exist-
-ence of  fire-temples,  dwellings  of  righteous  people,  cultivation,
+earth  is  meant  here,  as  it  is  said  to  be  most  pleased  by  the  existence of  fire-temples,  dwellings  of  righteous  people,  cultivation,
 stables,  and  pastures  (see  Vend.  Ill,  1-20).
 
-
-378  SHAYAST   LA-SHAYAST.
 
 whatever  occurs,  and  should  seize  upon  those  who
 consume  and  steal  water  and  vegetation  ^  26.  And
@@ -21144,8 +19634,7 @@ when  he  has  committed  sin  against  water,  even
 when  it  is  committed  against  a  single  drop  of  it,  and
 he  has  not  atoned  for  it,  that  also  stands  up  as  high
 as  the  plants  stood,  and  does  not  let  him  go  to
-heaven.  29.  Since  they  are  counterparts  of  Hor-
-vadartf  and  Ameroda^f  themselves,  the  water  and
+heaven.  29.  Since  they  are  counterparts  of  Horvadartf  and  Ameroda^f  themselves,  the  water  and
 vegetation,  whoever  propitiates  those  which  be  water
 and  vegetation,  his  fame  subsists  in  the  world,  and  a
 share  of  the  splendour  of  Auharmazd  becomes  his
@@ -21156,8 +19645,7 @@ in  heaven.'
 '  Reading  mun,  '  who,'  instead  of  am  at,  '  when,'  and  du^end,
 'they  steal,'  instead  of  dia^d  (perhaps  for  du^ak,  'thievish');
 and  supposing  the  verb  to  be  vakhdunea',  'takes,  seizes,'  and  not
-vadianea',  '  makes,  acts.'  If  the  reverse  be  assumed,  the  transla-
-tion would  be  thus :  '  should  act  for  their  happiness.  When  they
+vadianea',  '  makes,  acts.'  If  the  reverse  be  assumed,  the  translation would  be  thus :  '  should  act  for  their  happiness.  When  they
 consume  water  and  vegetation  he  should  not  act  thievishly  and
 oppressively.'
 
@@ -21182,8 +19670,7 @@ may  become  their  own  in  heaven.'
 
 Chapter  XV I.
 
-0.  In  the  name  of  God  (yazdan)  I  write  a  para-
-graph (baba)  where  the  sins  which  are  as  it  were
+0.  In  the  name  of  God  (yazdan)  I  write  a  paragraph (baba)  where  the  sins  which  are  as  it  were
 small  are  mentioned  one  by  one.
 
 1.  The  least  sin  is  a  Farman  ;  and  a  Farman  is
@@ -21194,8 +19681,7 @@ is  taken  in  hand ;  and  taken  up  by  any  one  four
 ^nger-breadths  from  the  ground  it  is  the  root^  of  an
 
 ^  This  is  the  most  usual  concluding  phrase  of  short  Pahlavi
-texts,  and  indicates  that  this  account  of  the  best  mode  of  propiti-
-ating the  archangels  is  to  be  considered  as  a  separate  text.  It  is
+texts,  and  indicates  that  this  account  of  the  best  mode  of  propitiating the  archangels  is  to  be  considered  as  a  separate  text.  It  is
 followed  in  M6  by  the  paragraphs  which  constitute  the  next  two
 chapters.
 
@@ -21213,13 +19699,9 @@ and  in  Chap.  I,  2  as  much  as  sixteen  dirhams.
 '  See  Chap.  II,  69,  note.
 
 
-380  SHAYAST    LA-SHAYAST.
-
-Agerept  for  him  ;  and  the  retribution  and  punish-
-ment for  an  Agerept  should  be  fifty-three  dirhams
+Agerept  for  him  ;  and  the  retribution  and  punishment for  an  Agerept  should  be  fifty-three  dirhams
 {g^g2.vC)'^.  3.  When  the  weapon  turns  downwards
-it  is  the  root  of  an  Avoiri^t  for  him,  and  his  sen-
-tence (din a)  is  to  be  changed;  his  retribution  and
+it  is  the  root  of  an  Avoiri^t  for  him,  and  his  sentence (din a)  is  to  be  changed;  his  retribution  and
 punishment  should  be  seventy-three  dirhams^,  which
 is  when  anything  further  occurs.  4.  When  he  shall
 lay  the  weapon  on  any  one  it  is  the  root  of  an
@@ -21251,10 +19733,8 @@ also,  possibly,  in  Chap.  XI,  2.
 ^  The  diJt  is  a  span  of  ten  finger-breadths  (about  ^\  inches)
 between  the  thumb  and  middle  finger  (see  Bund.  XXVI,  3,  note).
 
-*  See  Chap.  IV,  14,  note.  Comparing  the  amount  here  men-
-tioned with  that  of  the  Farman  in  §  i,  the  Srosho-zC'aranam,  which
-is  here  made  equal  to  the  Farman,  appears  to  amount  to  3^  dir-
-hams, which  agrees  very  nearly,  with  the  statement  in  Chap.  X,  24,
+*  See  Chap.  IV,  14,  note.  Comparing  the  amount  here  mentioned with  that  of  the  Farman  in  §  i,  the  Srosho-zC'aranam,  which
+is  here  made  equal  to  the  Farman,  appears  to  amount  to  3^  dirhams, which  agrees  very  nearly,  with  the  statement  in  Chap.  X,  24,
 but  differs  from  that  in  Chap.  XI,  2.
 
 °  For  similar  scales  of  degrees,  see  Chaps.  I,  2,  XI,  2.
@@ -21270,8 +19750,7 @@ Tanapuhars ;  a  D6-h6mast  ^  is  ten  thousand ;  a
 Dva^dah-homast  is  a  hundred  thousand,  and  the
 merit  (kirfak)  of  every  one  which  \s  performed  with.
 holy- water  is  said  to  be  a  hundred  to  one ;  a  Ha^-
-okht  ^  is  two  thousand  Tanapuhars,  and  with  holy-
-water  it  becomes  a  hundred  to  one  ^.
+okht  ^  is  two  thousand  Tanapuhars,  and  with  holywater  it  becomes  a  hundred  to  one  ^.
 
 
 ^  See  Chap.  Ill,  32.  The  Persian  Rivayats  explain  that  this  is
@@ -21301,14 +19780,10 @@ though  called  merely  Homast  in  the  Persian  Rivayats.
 
 ■^  The  merits  of  other  prayers  and  ceremonies  are  detailed  in  the
 Persian  Rivayats ;  thus,  that  of  the  ordinary  recital  of  a  Vendidad
-(which  includes  both  Yasna  and  Vispara^)  is  sixty  thousand  Tana-
-puhars, and  when  with  sacred  twigs  and  holy-water  it  is  a  hundred
+(which  includes  both  Yasna  and  Vispara^)  is  sixty  thousand  Tanapuhars, and  when  with  sacred  twigs  and  holy-water  it  is  a  hundred
 thousand  ;  that  of  the  recital  of  any  Nyayi^  (see  Chap.  VII,  4),  or
 of  taking  and  retaining  a  prayer  (va^^,  see  Chap.  Ill,  6)  inwardly,
 is  one  Tanapuhar.
-
-
-382  SHAYAST    LA-SHAYAST.
 
 
 Chapter  XVI I.
@@ -21318,11 +19793,9 @@ is :  '  Which  is  the  time  when  one  must  not  eat
 meat  ?'
 
 2.  Auharmazd  gave  a  reply  thus:  '  In  a  house
-when  a  person  shall  die,  until  three  nights  are  com-
-pleted, nothing  whatever  of  meat  is  to  be  placed  on
+when  a  person  shall  die,  until  three  nights  are  completed, nothing  whatever  of  meat  is  to  be  placed  on
 a  sacred  cake  (dron)  therein  and  in  its  vicinity^  ;
-but  these,  such  as  milk,  cheese,  fruit,  eggs,  and  pre-
-serves, are  to  be  placed  ;  and  nothing  whatever  of
+but  these,  such  as  milk,  cheese,  fruit,  eggs,  and  preserves, are  to  be  placed  ;  and  nothing  whatever  of
 meat  is  to  be  eaten  by  his  relations  ^  3.  In  all  the
 three  days  it  is  necessary  to  perform  the  ceremonial
 (ya^i^n)  of  Srosh  for  this  reason,  because  Srosh  will
@@ -21364,11 +19837,9 @@ cakes  (dron),  on&  for  Rashnta  and  Ast^d,  the  second
 for  Vae  the  good^  and  the  third /^r  the  righteous
 guardian  spirit  (ar^ai  fravar<7^);  and  clothing^  is
 to  be  placed  upon  the  sacred  cake  of  the  righteous
-guardian  spirit.  5.  For  the  fourth  day  it  is  allow-
-able to  slaughter  a  sheep  ^,  and  the  fourth  day  the
+guardian  spirit.  5.  For  the  fourth  day  it  is  allowable to  slaughter  a  sheep  ^,  and  the  fourth  day  the
 ceremonial  (ya^i j"n)  of  the  righteous  guardian  spirit
-is  to  be  performed ;  and  afterwards  are  the  tenth-
-day,  the  monthly,  and,  then,  the  annual  ceremonies ;
+is  to  be  performed ;  and  afterwards  are  the  tenthday,  the  monthly,  and,  then,  the  annual  ceremonies ;
 and  the  first  monthly  is  exactly  on  the  thirtieth  day,
 and  the  annual  on  the  particular  day  ^     6.  When  he
 
@@ -21377,8 +19848,7 @@ and  the  annual  on  the  particular  day  ^     6.  When  he
 winter  (see  Bund.  XXV,  9,  10).
 
 2  The  usual  name  of  the  angel  Ram  (the  Vayu  of  Ram  Yt.)
-who,  with  the  angels  Rashnu  and  A^tac/,  is  supposed  to  be  sta-
-tioned at  the  KmM2id  bridge,  where  the  soul  has  to  give  an  account
+who,  with  the  angels  Rashnu  and  A^tac/,  is  supposed  to  be  stationed at  the  KmM2id  bridge,  where  the  soul  has  to  give  an  account
 of  its  actions  during  life  shortly  after  the  dawn  following  the  third
 night  after  death  (see  AV.  V,  3,  CI,  21,  note,  Mkh.  II,  115).
 
@@ -21386,8 +19856,7 @@ night  after  death  (see  AV.  V,  3,  CI,  21,  note,  Mkh.  II,  115).
 supplied  to  the  spirit  to  prevent  its  appearing  unclothed  in  the
 other  world,  where  the  clothing  of  the  soul  is  said  to  be  formed
 '  out  of  almsgivings '  (Chap.  XII,  4) ;  to  fulfil  which  condition  the
-clothes  provided  are  presented  to  the  ofiiciating  priests  (see  Sad-
-dar  Bundahi.y  LXXXVII).
+clothes  provided  are  presented  to  the  ofiiciating  priests  (see  Saddar  Bundahi.y  LXXXVII).
 
 ^  Or  '  goat.'
 
@@ -21400,22 +19869,17 @@ consecrated  (see  Chap.  Ill,  32,  note).  On  the  third  night,  in  the
 middle  of  the  Aiwisruthrem  Gah  (dusk  to  midnight),  a  renuncia-
 
 
-384  SHAYAST    LA-SHAYAST.
-
-
 shall  die  at  a  place  distant  from  that  where  the
 information  arrives,  when  the  three  days  ceremonies
 (satilih)  are  celebrated  at  that  place  where  he  shall
 die  it  is  well,  when  not,  their  celebration  is  to  be  at
 this  place,  and  from  the  time  when  the  information
-arrives,  until  three  nights  are  completed,  it  is  neces-
-sary to  perform  the  ceremonial  of  Srosh,  and  after
+arrives,  until  three  nights  are  completed,  it  is  necessary to  perform  the  ceremonial  of  Srosh,  and  after
 three  days  and  nights  it  is  necessary  to  perform  the
 ceremonial  of  the  righteous  guardian  spirit.'
 
 7.  hi  one  place  it  is  declared,  that  of  him  whose
-begetting  is  owing  to  the  demons,  of  him  who  com-
-mits sodomy,  and  of  him  who  performs  the  religious
+begetting  is  owing  to  the  demons,  of  him  who  commits sodomy,  and  of  him  who  performs  the  religious
 rites   (din 6)  of  apostasy,  of  none  of  the  three  do
 
 tion  of  sin  is  performed  in  the  house  of  the  deceased ;  and  in  the
@@ -21425,23 +19889,20 @@ ks\.2,d,  one  to  Srosh,  and  one  to  the  righteous  (as  ho  an),  and  in
 front  of  the  last  are  placed  new  and  clean  clothes  with  fruit,  but
 without  an  Q^g.      On  the   fourth  day,   at  sunrise,   the  Dahman
 Afringan  (Yas.  LIX)  is  recited,  and  then  the  Khurshec/  and  INIihir
-Nyayij,  after  which  the  people  in  the  house  can  first  eat  fresh-
-cooked  meat.    During  the  fourth  day  also  the  Ya^t  of  the  righteous
+Nyayij,  after  which  the  people  in  the  house  can  first  eat  freshcooked  meat.    During  the  fourth  day  also  the  Ya^t  of  the  righteous
 is  performed,  and  the  Dron  of  the  righteous  is  consecrated;  and
 the  same  again  on  the  tenth  day,  together  with  the  recitation  of
 the  Dahman  Afringan.     On  the  thirtieth  day  the  Sirozah  (praise
 of  the  thirty  days)  is  to  be  celebrated,  with  the  dedication  to  the
 thirty  days;  thirty-three  beans  (luvak)  and  thirty-three  eggs,  with
 fruit,  being  placed  in  front  of  the  Dron,  which  is  consecrated  in
-the  presence  of  fire  ;  and,  afterwards,  the  assistant  priest  conse-
-crates a  Dron  for  Srosh.    The  next  day  the  chief  priest  consecrates
+the  presence  of  fire  ;  and,  afterwards,  the  assistant  priest  consecrates a  Dron  for  Srosh.    The  next  day  the  chief  priest  consecrates
 a  Dron  for  the  righteous ;  a  suit  of  clothes  and  fruit  being  placed
 in  front  of  the  Dron.     And  each  day  a  Yajt  of  the  righteous  is
 performed,  a  Dron  of  the  righteous  is  consecrated,  and  an  Afringan
 recited.     On  the  same  day  every  month  the  same  Yajt,  Dron,  and
 Afringan  are  celebrated  ;  a  priest  also  undergoes  the  Bareshnum
-for   the    deceased,   a   Geti-khari^  (see  Bund.  XXX,  28)  is  per-
-formed, and  three  Vendidads  dedicated  to  Srosh.     On  each  day
+for   the    deceased,   a   Geti-khari^  (see  Bund.  XXX,  28)  is  performed, and  three  Vendidads  dedicated  to  Srosh.     On  each  day
 at  the  end  of  a  year  the  Sirozah  Ya-yt  is  performed,  and  a  Dron
 
 
@@ -21461,8 +19922,7 @@ to  that  man  to  whom  the  whole  Avesta  and  Zand  is
 easy  ^,  so  that  he  may  make  you  acquainted  with
 duties  and  good  works  ;  because  men  go  to  hell  for
 this  reason,  when  they  do  not  submit  their  persons
-to  priestly  control  (aerpatistan),  and  do  not  be-
-come acquainted  with  duties  and  good  works.'
+to  priestly  control  (aerpatistan),  and  do  not  become acquainted  with  duties  and  good  works.'
 
 9.  Query : — There  is  an  action  which,  according
 to  the  Avesta  ■^,  is  not  good  for  a  person  to  do,  and
@@ -21472,8 +19932,7 @@ ones  better  preservation  is  07ie  not  to  do  that  action,
 dedicated  to  the  thirty  days  is  consecrated,  thirty-three  beans  being
 placed,  with  one  Dron,  one  Frasast  (see  Chap.  Ill,  32,  note),  one
 pentagonal  Dron  as  the  sun,  one  crescent-shaped  as  the  moon,
-thirty-three  eggs,  and  fruit,  in  front  of  the  Dron,  which  is  conse-
-crated in  the  presence  of  fire ;  afterwards,  the  assistant  priest
+thirty-three  eggs,  and  fruit,  in  front  of  the  Dron,  which  is  consecrated in  the  presence  of  fire ;  afterwards,  the  assistant  priest
 consecrates  a  Dron  for  Srosh,  and  recites  the  Dahman  Afringan,
 and  the  next  day  the  chief  priest  consecrates  a  Dron  for  the
 righteous,  a  suit  of  clothes  being  placed  before  the  Dron,  and
@@ -21485,20 +19944,15 @@ recites  the  Dahman  Afringan.
 
 ^  Compare  Vend.  VIII,  98-106.
 
-*  Which  being  a  creature  of  the  evil  spirit  is  doomed  to  de-
-struction.
+*  Which  being  a  creature  of  the  evil  spirit  is  doomed  to  destruction.
 
 ^  But  it  is  doubtful  if  the  passage  be  extant.
 
-^  That  is,  the  man  who  knows  the  whole  scripture  and  com-
-mentary by  heart.
+^  That  is,  the  man  who  knows  the  whole  scripture  and  commentary by  heart.
 
 ■^  Reading  pavan  Avistak,  instead  of  Avistak  pavan.
 
 [5]  c  c
-
-
-386  SHAYAST   LA-SHAYAST.
 
 
 or  to  accomplish  and  urge  it  on,  for  the  advance  of
@@ -21522,11 +19976,9 @@ their   mothers,    nor    from    that    place   where    their
 bodies  and   flesh   happen  to  be,  for  they  rise  from
 that    place   where    the    life    went    out  from    their
 bodies.'       13.    And  this,   too,    he    asked,    that    is:
-'  Whence    do   they  raise  ^  him   again  who    is    sus-
-pended from  anything,  and  shall  die   in   the  air?'
+'  Whence    do   they  raise  ^  him   again  who    is    suspended from  anything,  and  shall  die   in   the  air?'
 14.  The   reply  was:   'From   that    place  where  his
-bones  and  flesh  first  fall  to  the  ground ;  hence,  ex-
-cept when  he  shall  die  on  a  divan  (gas)  or  a  bed
+bones  and  flesh  first  fall  to  the  ground ;  hence,  except when  he  shall  die  on  a  divan  (gas)  or  a  bed
 (vistarg),  before  they  carry  him  away,  whatever  it
 
 
@@ -21577,8 +20029,7 @@ volume  of  M6.
 first  being  placed  before  the  first  part  of  Sis.,  and  the  second
 before  the  second  part.  Chap.  XVIII  also  occurs  in  Dastur
 Jamaspji's  MS.  of  the  Bundahi^,  just  after  Chap.  XXXIV  of  that
-text  (see  Introduction,  p.  xxx),  and  a  Pazand  version  of  it  occu-
-pies the  same  position  in  L7  and  L22,  and  is  translated  by  Justi
+text  (see  Introduction,  p.  xxx),  and  a  Pazand  version  of  it  occupies the  same  position  in  L7  and  L22,  and  is  translated  by  Justi
 as  the  last  chapter  of  the  Bundahij-,  in  his  German  translation  of
 that  work  (see  Introduction,  p.  xxvi).
 
@@ -21591,15 +20042,10 @@ presence  in  hell  to  complain  of  the  difficulties  he  encounters.
 C  C    2
 
 
-388  SHAYAST   LA-SHAYAST.
+(gasanbar)\  the  sacred  feast  (myazd),  and  nextof-kin  marriage  (khvetuk-das).'
 
 
-(gasanbar)\  the  sacred  feast  (myazd),  and  next-
-of-kin  marriage  (khvetuk-das).'
-
-
-1  See  Bund.  XXV,  i,  3,  6.  The  six  Gahanbars  or  season-
-festivals  are  held,  respectively,  on  the  45th,  105th,  180th,  210th,
+1  See  Bund.  XXV,  i,  3,  6.  The  six  Gahanbars  or  seasonfestivals  are  held,  respectively,  on  the  45th,  105th,  180th,  210th,
 290th,  and  365th  days  of  the  Parsi  year.  An  explanation  of  the
 cause  of  the  inequality  of  these  intervals  has  been  proposed  by
 Mr.  Khurshedji  Rustamji  Cama,  which  is  well  worthy  of  attention,
@@ -21611,15 +20057,13 @@ and  a  winter  of  five  (Bund.  XXV,  7),  and  they  held  a  festival,  not
 only  at  the  end  of  each  season,  that  is,  on  the  210th  and  365th
 days  of  their  year,  but  also  in  the  middle  of  each  season,  that  is,
 on  the  105th  and  290th  days  of  their  year.  That  these  two  latter
-were  mid-season  festivals  is  proved  by  their  Avesta  names,  Maidhyo-
-shema  and  Maidhyairya,  beginning  with  the  word  maidhya,
+were  mid-season  festivals  is  proved  by  their  Avesta  names,  Maidhyoshema  and  Maidhyairya,  beginning  with  the  word  maidhya,
 *  middle.'  Later  on,  the  Zoroastrians  divided  their  year  into  four
 equal  seasons,  spring,  summer,  autumn,  and  winter  (Bund.  XXV,
 20),  and  without  interfering  with  their  old  festivals,  they  would,  no
 doubt,  have  wished  to  celebrate  the  end  and  middle  of  each  of
 their  new  seasons.  The  ends  of  these  four  seasons  occur  on  the
-90th,  1 80th,  270th,  and  365th  days  of  the  year,  and  their  mid-
-points are  the  45th,  135th,  225th,  and  320th  days;  but  the  Zoro-
+90th,  1 80th,  270th,  and  365th  days  of  the  year,  and  their  midpoints are  the  45th,  135th,  225th,  and  320th  days;  but  the  Zoro-
 astrians already  held  a  festival  on  the  365th  day,  and  celebrated
 midsummer  and  midwinter  (the  135th  and  320th  days  of  their  new
 calendar)  on  the  105th  and  290th  days  of  their  year,  and  they
@@ -21629,8 +20073,7 @@ former  being  held  as  new  festivals ;  so  that  they  would  have  only
 the  midspring  festival,  on  the  45th  day,  and  that  of  the  end  of
 summer,  on  the  iSoth  day,  to  add  to  their  old  festivals.  It  may
 be  objected  that  the  end  of  summer  was  already  celebrated  on  the
-2ioth  day,  and,  for  this  reason,  it  is  more  probable  that  the  festi-
-vals were  intended  to  celebrate  the  beginnings  and  mid-points  of
+2ioth  day,  and,  for  this  reason,  it  is  more  probable  that  the  festivals were  intended  to  celebrate  the  beginnings  and  mid-points  of
 the  seasons,  rather  than  their  ends  and  mid-points.  According
 10  this  view,  the  six  season-festivals  were  intended,  respectively,  to
 celebrate  midspring,  midsummer,  the  beginning  of  autumn,  the
@@ -21646,8 +20089,7 @@ a  single  thing  the  season-festival  is  violated,  and  the
 affair  is  iji  accordance  with  ^  thy  wish  ;  enter  into  the
 sacred  feast  ^!  if  only  one  of  those  present  shall  chatter
 the  sacred  feast  is  violated,  and  the  affair  is  in
-accordance  with  thy  wish;  bttt  avoid  next-of-kin  mar-
-riage^! because  I  do  not  know  a  remedy  for  it;  for
+accordance  with  thy  wish;  bttt  avoid  next-of-kin  marriage^! because  I  do  not  know  a  remedy  for  it;  for
 whoever  has  gone  four  times  near  to  it  will  not
 become  parted  from  the  possession  of  Auharmazd
 and  the  archangels  *.'
@@ -21666,12 +20108,10 @@ with  meat-offerings  and  the  recital  of  the  Afringans  or  blessings
 marriage  of  first  cousins,  which  they  consider  a  specially  righteous
 act;  and  the  passages  in  Pahlavi  texts,  which  appear  to  approve  of
 marriages  between  brother  and  sister,  father  and  daughter,  and
-mother  and  son,  they  explain  as  referring  to  the  practices  of  here-
-tics (see  Dastur  Peshotan's  English  translation  of  the  Dinkar^^/,
+mother  and  son,  they  explain  as  referring  to  the  practices  of  heretics (see  Dastur  Peshotan's  English  translation  of  the  Dinkar^^/,
 p.  96,  note).  How  far  this  explanation  may  be  correct  has  not
 been  ascertained,  for  the  passages  in  question  are  rather  obscure,
-and  have  not  been  thoroughly  examined.  But  it  is  quite  con-
-ceivable that  the  Parsi  priesthood,  about  the  time  of  the  Muham-
+and  have  not  been  thoroughly  examined.  But  it  is  quite  conceivable that  the  Parsi  priesthood,  about  the  time  of  the  Muham-
 madan  conquest  (when  the  practice  of  next-of-kin  marriage  was
 most  extolled),  were  anxious  to  prevent  marriages  with  strangers,
 in  order  to  hinder  conversions  to  the  foreign  faith ;  and  that  they
@@ -21680,12 +20120,8 @@ relations  beyond  the  limits  now  approved  by  their  descendants.
 
 *  The  object  of  this  chapter  is  evidently  to  extol  the  religious
 merit  of  next-of-kin  marriage.  A  Persian  version  of  the  passage,
-contained  in  M5,  fols.  54,  55,  adds  the  following  details :  '  There-
-fore it  is  necessary  to  understand,  that  the  chief  next-of-kin  mar-
+contained  in  M5,  fols.  54,  55,  adds  the  following  details :  '  Therefore it  is  necessary  to  understand,  that  the  chief  next-of-kin  mar-
 riage is  that  of  a  sister's  daughter  and  brother's  son;  a  medium
-
-
-;90  SHAYAST    LA-SHAYAST.
 
 
 Chapter    XIX.
@@ -21695,8 +20131,7 @@ necessary  in  each  place,  and  how  they  are  to  be
 spoken  in  performing  anything  2.
 
 2.  One  by  hwi  who  goes  forth  to  an  assembly,
-or  before  grandees  and  chieftains,  or  on  any  busi-
-ness ;  or  when  he  goes  to  ask  for  what  he  wants
+or  before  grandees  and  chieftains,  or  on  any  business ;  or  when  he  goes  to  ask  for  what  he  wants
 (val  khvahii-no);  also  when  he  quits  any  business;
 in   each  of  these    situations  he  is  to  say  only  one
 
@@ -21718,11 +20153,9 @@ worthy  of  death.'
 
 '  See  Bund.  I,  21.
 
-^  It  appears  from  the  ninth  book  of  the  Dinkar</,  that  the  con-
-tents of  this  chapter  are  derived  from  the  first  fargarc?  of  the
+^  It  appears  from  the  ninth  book  of  the  Dinkar</,  that  the  contents of  this  chapter  are  derived  from  the  first  fargarc?  of  the
 Siu/kar  Nask  {see  B.  Yt.  I,  i,  note).  The  account  given  by  the
-Dinkarc/  contains  fewer  details,  but,  so  far  as  it  goes,  it  is  in  accord-
-ance with  our  text,  except  that  it  seems  to  transfer  the  object  of
+Dinkarc/  contains  fewer  details,  but,  so  far  as  it  goes,  it  is  in  accordance with  our  text,  except  that  it  seems  to  transfer  the  object  of
 §  10  to  §  1 2,  and  removes  the  objects  of  §§  1 2,  13  one  step  onwards ;
 it  also  adds  'going  on  a  bridge'  to  §  2.  The  Persian  Rivayat  of
 Bahman  Pun^yah  gives  further  details,  as  will  be  mentioned  in  the
@@ -21735,8 +20168,7 @@ of  a  loan,  or  goes  out  from  his  house,  or  comes  into  it.
 
 CHAPTER    XIX,     1-6.  391
 
-3.  That  a  blessing  (afrino)  may  be  more  benedic-
-tory, for  this  reason  one  utters  two  formulas ;  for
+3.  That  a  blessing  (afrino)  may  be  more  benedictory, for  this  reason  one  utters  two  formulas ;  for
 thei^e  are  two  kinds  of  blessing,  one  is  that  which
 is  in  the  thoughts  \  and  one  is  that  which  is  in
 words.
@@ -21745,8 +20177,7 @@ words.
 at  a  season-festival  ^.
 
 5.  Five  by  him  who  goes  to  atone  for  sin,  in  order
-to  expel  the  fiend  ;  because  it  is  necessary  to  un-
-dergo punishment  by  the  decision  (dastobarih)  of
+to  expel  the  fiend  ;  because  it  is  necessary  to  undergo punishment  by  the  decision  (dastobarih)  of
 these  five  persons,  the  house-ruler,  the  village-ruler,
 the  tribe-rider'^ ,  the  province-ruler,  and  the  supreme
 Zaratui"t ;  and  five  Ashem-vohus  *  are  to  be  uttered
@@ -21761,35 +20192,27 @@ K20,  except  part  of  the  last  letter.
 
 '^  K20  substitutes  for  val,  'at,'  the  following  mutilated  phrase  :
 [.  .  .  .  aNhflu  khshapo  ka^ar,('ai  pavan  ka^ar>^ai]  madam
-vazlune</ rafi?ih-i ;  the  portion  in  brackets  being  evidently  a  frag-
-ment from  the  Har/okht  Srosh  Yt.  5  with  Pahlavi  translation
-(a  passage  which  treats  of  the  efficacy  of  reciting  the  Yatha-ahu-
-vairyo).  If  this  fragment  be  not  merely  a  marginal  gloss,  which
+vazlune</ rafi?ih-i ;  the  portion  in  brackets  being  evidently  a  fragment from  the  Har/okht  Srosh  Yt.  5  with  Pahlavi  translation
+(a  passage  which  treats  of  the  efficacy  of  reciting  the  Yatha-ahuvairyo).  If  this  fragment  be  not  merely  a  marginal  gloss,  which
 has  crept  into  the  text  by  mistake,  we  must  translate  the  whole
 section  as  follows :  '  Four  are  for  the  more  thankful  coming  out
 of  the  liberality  of  a  season-festival,  when  the  passage,  "  07i  thai  day
 nor  on  that  night  comes  there  anything  whatever  on  any  one,"  goes
 on.'  The  Dinkar^  has  merely  :  '  Four  by  him  who  is  at  the
-invocation  of  the  chiefs  of  creation  and  the  celebration  of  a  season-
-festival.'     The  Persian  Rivayats  omit  the  section  altogether.
+invocation  of  the  chiefs  of  creation  and  the  celebration  of  a  seasonfestival.'     The  Persian  Rivayats  omit  the  section  altogether.
 
 ^  This  person  is  omitted  both  in  M6  and  K20,  but  he  is  wanted
 to  make  up  the  five.  This  section  is  omitted  by  the  Persian
 Rivayats.  ,_,-
 
-*  See  Bund.  XX,  2.  These  are  to  be  recited  after  the  punish-
-ment is  over.
-
-
-392  SHAYAST   LA-SHAYAST.
+*  See  Bund.  XX,  2.  These  are  to  be  recited  after  the  punishment is  over.
 
 
 7.  Seven  by  hhn  who  goes  to  perform  the  worship
 of  God  (yazdan),  so  that  the  archangels  may  come
 more  forward  ^  at  the  worship.
 
-8.  Eight  by  him  who  goes  to  perform  the  cere-
-monial of  the  righteous  guardian  spirit.
+8.  Eight  by  him  who  goes  to  perform  the  ceremonial of  the  righteous  guardian  spirit.
 
 9.  Nine  by  him  who  goes  to  sow  corn;  these  he
 utters  for  this  reason,  because  the  corn  will  ripen
@@ -21803,8 +20226,7 @@ the  presents  may  be  favourable  for  the  purpose.
 to  beasts  of  burden  and  cattle,  so  that  it  may  be
 more  procreative  ^.
 
-12.  Eleven  by  him  who  goes  to  the  lofty  moun-
-tains, so  that  the  glory  of  mountains  and  hills  may
+12.  Eleven  by  him  who  goes  to  the  lofty  mountains, so  that  the  glory  of  mountains  and  hills  may
 bless  him  and  be  friendly  ^
 
 1 3.  Twelve  by  him  who  goes  to  the  low  districts,
@@ -21821,8 +20243,7 @@ omitted  by  the  Persian  Rivayats.
 ^  The  Persian  Rivayats  add  general  cultivation,  planting  trees,
 and  cohabitation  with  one's  wife.
 
-^  Instead  of  §§  10,  11  the  Persian  Rivayats  have  buying  quadru-
-peds, and  driving  pegs  into  the  ground  for  picketing  them.
+^  Instead  of  §§  10,  11  the  Persian  Rivayats  have  buying  quadrupeds, and  driving  pegs  into  the  ground  for  picketing  them.
 
 *  The  Persian  Rivayats  substitute  conference  with  a  maiden,
 seeking  a  wife,  giving  one's  children  in  marriage,  and  obtaining
@@ -21840,8 +20261,7 @@ the  Yatha-ahu-vairyo  is  greater  and  more  successful
 than  everything  in  the  Avesta  as  to  all  rivers,  all
 wholesomeness,  and  all  protection.
 
-15.  Religion  is  as  connected  with  the  Yatha-ahii-
-vairyo  as  the  hair  is  more  connected  with  the  glory
+15.  Religion  is  as  connected  with  the  Yatha-ahiivairyo  as  the  hair  is  more  connected  with  the  glory
 of  the  face;  any  one,  indeed,  would  dread  (samart')
 to  separate  hairiness  and  the  glory  of  the  face.
 
@@ -21851,8 +20271,7 @@ Chapter   XX  ^
 I.  In  one  place  it  is  declared  that  it  is  said  by
 revelation  (din 6)  that  a  man  is  to  go  as  much  as
 possible  (y^and  vej"-ast)  to  the  abode  of  fires^  and
-the  salutation  (niyayi^no)  of  fire*  is  to  be  per-
-formed zvith  reverence  ;  because  three  times  every
+the  salutation  (niyayi^no)  of  fire*  is  to  be  performed zvith  reverence  ;  because  three  times  every
 day  the  archangels  form  an  assembly  in  the  abode
 of  fires,  and  shed  good  works  and  righteousness
 there;  and  then  the  good  works  and  righteousness,
@@ -21865,19 +20284,15 @@ or  town ;  they  also  add  twenty-one  recitations  on  setting  out  on
 a  journey,  so  that  the  angel  Bahram  may  grant  a  safe  arrival.
 
 ^  The  contents  of  this  chapter  conclude  the  MS.  M6  ;  a  few
-lines  even  having  been  lost  at  the  end  of  that  MS.,  though  pre-
-served in  some  of  its  older  copies.  A  more  modern  copy,  in  the
+lines  even  having  been  lost  at  the  end  of  that  MS.,  though  preserved in  some  of  its  older  copies.  A  more  modern  copy,  in  the
 MS.  No.  121  of  the  Ouseley  collection  in  the  Bodleian  Library  at
 Oxford,  contains  §§  4-17,  appended  to  the  Bundahij.  Complete
-Pazand  versions,  derived  from  M6,  occur  in  L7  and  L22,  immedi-
-ately following  the  Pazand  of  Chap.  XVIII.
+Pazand  versions,  derived  from  M6,  occur  in  L7  and  L22,  immediately following  the  Pazand  of  Chap.  XVIII.
 
 ^  The  fire-temple.
 
 *  That  is,  the  Ataj  Nyayij  is  to  be  recited.
 
-
-394  SHAYAST    LA-SHAYAST.
 
 2.  This,  too,  that  the  nature  of  wisdom  is  just  like
 fire ;  for,  in  this  world,  thei^e  is  nothing  which  shall
@@ -21967,8 +20382,6 @@ be  read  dahij'n,  'creation,'  but  this  meaning  seems  improbable
 here.
 
 
-396  SHAYAST    LA-SHAYAST.
-
 tion  of  the  one  adversary,  and  the  renunciation  of  sin
 (patitik)  ^  for  the  opposition  of  every  fiend.
 
@@ -22001,24 +20414,21 @@ to  the  vile.
 17.  On  these,  too,  is  the  attention  of  men  to  be
 fixed,  because  there  is  a  remedy  for  everything  but
 
-death,  a  hope  for  everything  but  wickedness,  every-
-thing will  lapse  ^  except  righteousness,  it  is  possible
+death,  a  hope  for  everything  but  wickedness,  everything will  lapse  ^  except  righteousness,  it  is  possible
 
 ^  That  is,  the  Patit  or  formula  of  renunciation  (see  Chap.
 IV,  14).
 
 2  Literally,  '  killed.'
 
-■'•  M6  ends  at  this  point,  the  next  folio  being  lost.  The  re-
-mainder of  the  chapter  has  been  recovered  from  a  copy  in  Bombay,
+■'•  M6  ends  at  this  point,  the  next  folio  being  lost.  The  remainder of  the  chapter  has  been  recovered  from  a  copy  in  Bombay,
 checked  by  the  Paz.  MSS.  L7  and  L22,  all  of  which  must  have
 
 
 CHAPTER    XX,   I  2 -XXI,   2.  397
 
 to  manage  everything  but  temper  (gohar),  and  it  is
-possible  for  everything  to  change  but  divine  pro-
-vidence (bako-bakhto).
+possible  for  everything  to  change  but  divine  providence (bako-bakhto).
 
 1 8.  This,  too,  is  declared,  that  Fre^iin^  wished
 to  slay  As-i  Dahak  ^  but  Auharmazd  spoke  thus  :
@@ -22056,8 +20466,7 @@ for  homanae,  '  should  it  be,'  but  it  is  written  in  both  MSS.  exactl
 like  the  two  ciphers  for  the  numeral  5.  Mulla  Firuz  in  his  Avi^eh
 Din,  p.  279  seq.,  takes  5  khaduk  pai  as  implying  that  the  shadow
 is  under  the  sole  of  the  foot,  or  the  sun  overhead ;  but  neither  this
-reading,  nor  the  more  literal  '  one-fifth  of  a  foot,'  can  be  recon-
-ciled with  the  other  measures ;  though  if  we  take  5  as  standing
+reading,  nor  the  more  literal  '  one-fifth  of  a  foot,'  can  be  reconciled with  the  other  measures ;  though  if  we  take  5  as  standing
 for  pan^ak,  '  the  five  ioes  or  sole,'  we  might  translate  as  follows :
 '  When  the  sun  is  at  Cancer,  the  shadow  is  the  sole  of  one  foot  of
 the  man.'
@@ -22072,8 +20481,7 @@ O
 one  foot  and  a  half,  a^  the  fifteenth  of  Leo  2V  is  two
 feet ;  w/ieu  the  sun  is  at  Virgo  ^V  is  two  feet  and  a
 half,  a^  the  fifteenth  of  Virgo  zV  is  three  feet  and
-a  half;  a^  Libra  i'J  is  four  ^  feet  and  a  half,  a^  the  fif-
-teenth of  Libra  eV  is  five  feet  and  a  half  ^;  a^  Scorpio
+a  half;  a^  Libra  i'J  is  four  ^  feet  and  a  half,  a^  the  fifteenth of  Libra  eV  is  five  feet  and  a  half  ^;  a^  Scorpio
 zV  is  six  feet  and  a  half,  a^  the  fifteenth  of  Scorpio  zV
 is  seven ^  feet  and  a  half;  a^  Sagittarius  zV  is  eight
 feet  and  a  half,  a^  the  fifteenth  of  Sagittarius  zV  is
@@ -22120,8 +20528,7 @@ CHAPTER    XXI,   3-6.  399
 3.  The  midday  shadow  is  written\  may  its  end  be
 o^ood !
 
-4.  I  write  the  indication  of  the  Auzerin  (after-
-noon) ^  period  of  the  day ;  may  it  be  well  and
+4.  I  write  the  indication  of  the  Auzerin  (afternoon) ^  period  of  the  day ;  may  it  be  well  and
 fortunate  by  the  help  of  God  (yazdan)!
 
 5.  When  the  day  is  at  a  maximum  (pa van
@@ -22137,8 +20544,7 @@ north  latitude,  which  is  precisely  the  position  assigned  to  Yazd
 on  some  English  maps,  though  some  foreign  maps  place  it  15'  or  20'
 farther  south.  With  regard  to  the  rough  nature  of  this  mode  of
 observation  it  may  be  remarked  that,  as  the  lengths  of  the  shadows
-are  noted  only  to  half  a  foot,  there  is  a  possible  error  of  a  quarter-
-foot  in  any  of  them ;  this  would  produce  a  possible  error  of
+are  noted  only  to  half  a  foot,  there  is  a  possible  error  of  a  quarterfoot  in  any  of  them ;  this  would  produce  a  possible  error  of
 2°  4'  in  the  midsummer  observation  of  latitude,  and  of  39'  in  the
 midwinter  one;  or  a  mean  possible  error  of  1°  22'  in  any  of  the
 observations;  so  that  the  possible  error  in  the  mean  of  thirteen
@@ -22166,24 +20572,19 @@ from  the  seven  and  a  half  feet  shadow  at  the  end  of  the  first  mont
 we  have  six  feet  and  one-sixth  remaining  for  the  shadow  at  the
 
 
-400  SHAYAST    LA-SHAYAST.
-
 Every  thirty  days  it  always  increases  one  foot  and
-one-third,  therefore  about  every  ten  days  the  reckon-
-ing is  ahvays  half  a  foot  \  and  when  the  sun  is  at  the
+one-third,  therefore  about  every  ten  days  the  reckoning is  ahvays  half  a  foot  \  and  when  the  sun  is  at  the
 head  of  Leo  the  shadow  is  seven  ^  feet  and  a  half.
 7.  In  this  series  every  zodiacal  constellation  is
 treated  alike,  and  the  months  alike,  until  the  sun
 comes  unto  the  head  of  Capricornus,  and  the
 shadow  becomes  fourteen  feet  and  two  parts.  8.
-In  Capricornus  it  diminishes  again  a  foot  and  one-
-third  ^ ;  and  from  there  where  it  turns  back,  because
+In  Capricornus  it  diminishes  again  a  foot  and  onethird  ^ ;  and  from  there  where  it  turns  back,  because
 of  the  decrease  of  the  night  and  increase  of  the  day,
 it  always  diminishes  one  foot  and  one-third  every
 one  of  the  months,  a7id  about  every  ten  days  the
 reckoning  is  always  half  a  foot,  until  it  comes  back
-to  six  feet  and  two  parts ;  every  zodiacal  constella-
-tion being  treated  alike,  and  the  months  alike  *.
+to  six  feet  and  two  parts ;  every  zodiacal  constellation being  treated  alike,  and  the  months  alike  *.
 
 beginning  of  the  month.  Hence  we  may  conclude  that  the  '  two
 parts'  are  equal  to  one-sixth,  and  each  'part'  is  one-twelfth  of
@@ -22225,8 +20626,7 @@ benefit  of  knowing  Vohuman  ^  be  good  thought,
 and  mayest  thou  be  acting  well,  that  is,  saving  the
 soul!
 
-3.  May  Ar^T'avahii-t,  the  beautiful,  give  thee  un-
-derstanding and  intellect !
+3.  May  Ar^T'avahii-t,  the  beautiful,  give  thee  understanding and  intellect !
 
 4.  May  Shatvairo  grant  thee  wealth  from  every
 generous  one !
@@ -22235,8 +20635,7 @@ generous  one !
 the  seed  of  thy  body !  may  she  give  thee  as  wife
 a  woman  from  the  race  of  the  great !
 
-6.  May  Horvada^/  grant  thee  plenty  and  pros-
-perity !
+6.  May  Horvada^/  grant  thee  plenty  and  prosperity !
 
 7.  May  Amer6da<i^  grant  thee  herds  of  four-footed
 beasts  !
@@ -22247,8 +20646,7 @@ then  remaining  very  nearly  constant  till  the  vernal  equinox.
 ^  These  last  two  chapters  are  found  written  upon  some  folios
 which  have  been  added  to  the  beginning  of  M6 ;  but,  though  not
 belonging  to  that  MS.  originally,  they  are  still  very  old.  The  first
-of  these  two  chapters  has  not  been  found  elsewhere  ;  it  is  an  ela-
-borate benediction,  in  which  the  writer  calls  down,  upon  some  one,
+of  these  two  chapters  has  not  been  found  elsewhere  ;  it  is  an  elaborate benediction,  in  which  the  writer  calls  down,  upon  some  one,
 a  series  of  blessings  from  each  of  the  thirty  archangels  and  angels
 whose  names  are  given  to  the  days  of  the  Parsi  month  in  the  order
 in  which  they  here  stand  (compare  the  same  names  in  Bund.
@@ -22256,8 +20654,7 @@ XXVII,  24).
 
 '^  The  meaning  of  the  word  pa</r6^  or  pa^ran^  (which  occurs
 also  in  §§  12,  26,  and  appears  to  be  a  title)  may  be  guessed  from
-the  following  passage  in  the  Yaf^/kar-i  Zariran,  or  Vi^tasp-shah-
-namak  :  Pavan  har  razm  va  paifrazm-i  lak  piro^  va  veh  pa^/roo-
+the  following  passage  in  the  Yaf^/kar-i  Zariran,  or  Vi^tasp-shahnamak  :  Pavan  har  razm  va  paifrazm-i  lak  piro^  va  veh  pa^/roo-
 j-em  yaityuni-ae, '  in  every  attack  and  counter-attack  of  thine  mayest
 thou  bring  away  the  title  of  conqueror  and  good  champion  ! '
 
@@ -22265,8 +20662,6 @@ thou  bring  away  the  title  of  conqueror  and  good  champion  ! '
 
 [5]  Dd
 
-
-402  SHAYAST    LA-SHAYAST.
 
 8.  May  Dino  always  secure '  thee  the  support  of
 the  creator  Auharmazd !
@@ -22278,8 +20673,7 @@ throne  in  heaven !
 generous  one !
 
 11.  May  Khur  hold  thee  without  mystery  and
-doubt  among  the  great  and  thy  compeers  (ham-
-bu^ikan) !
+doubt  among  the  great  and  thy  compeers  (hambu^ikan) !
 
 12.  May  Mah  give  thee  an  assistant,  who  is  the
 assistant  of  champions !
@@ -22290,26 +20684,22 @@ countries  of  the  seven  regions !
 14.  Goi-urvan  the  archangel^  is  the  protection  of
 four-footed  beasts.
 
-15.  May  Dino  always  remain  y^r  thee  as  the  sup-
-port of  the  creator  Alaharmazd  !
+15.  May  Dino  always  remain  y^r  thee  as  the  support of  the  creator  Alaharmazd  !
 
 16.  May  Mitrd  be  thy  judge,  who  shall  wish  thy
 existence  to  be  vigorous!
 
-17.  May  Srosh  the  righteous,  the  smiter  of  de-
-mons, keep  greed,  wrath,  and  want  ^  far  from  thee !
+17.  May  Srosh  the  righteous,  the  smiter  of  demons, keep  greed,  wrath,  and  want  ^  far  from  thee !
 may  he  destroy  them,  and  may  he  not  seize  thee  as
 unjust!
 
-1 8.  May  Rashnu  be  thy  conductor  ^  to  the  re-
-splendent heaven !
+1 8.  May  Rashnu  be  thy  conductor  ^  to  the  resplendent heaven !
 
 ^  This  verb  is  doubtful ;  here  and  in  §  23  it  is  netruna«/,  *  may
 she  guard,'  but  in  §  15  it  is  ketrunaa',  '  may  she  remain.'
 
 ^  Burs  ataro, 'the  sublime  fire,'  seems  to  be  a  personification
-of  the  fire  Berezi-savang  of  Bund.  XVII,  i,  3,  the  Supremely-
-benefiting  of  SZS.  XI,  I,  6.
+of  the  fire  Berezi-savang  of  Bund.  XVII,  i,  3,  the  Supremelybenefiting  of  SZS.  XI,  I,  6.
 
 ^  She  is  usually  called  an  angel.  Either  the  verb  is  omitted  in
 this  section,  or  it  is  not  a  blessing  ;  and  the  same  may  be  said  of
@@ -22331,11 +20721,9 @@ warhke.
 
 21.  May  Ram,  applauding  the  life  of  a  praiser  of
 the  persistent^  lord,  keep  thee  perfect  (a spar),  that
-is,  living  three  hundred  years  ^,  undying  and  unde-
-caying  unto  the  end  of  thy  days !
+is,  living  three  hundred  years  ^,  undying  and  undecaying  unto  the  end  of  thy  days !
 
-22.  May  Vart'  bring  thee  peace  ^  from  the  re-
-splendent heaven !
+22.  May  Vart'  bring  thee  peace  ^  from  the  resplendent heaven !
 
 23.  May  Dino  always  secure  thee  the  support  of
 the  creator  Auharmazd !
@@ -22375,9 +20763,6 @@ to  constitute  a  great  cycle  of  the  moon  and  planets,
 D  d  2
 
 
-404  SHAYAST   LA-SHAYAST.
-
-
 28.  May  Zamya^  destroy  for  thee  the  demon  and
 fiend  out  of  thy  dwelHng  !
 
@@ -22390,16 +20775,14 @@ all  wealth,  become  thy  desire !  the  horses  of  God
 mayest  obtain  a  victory.
 
 31.  May  destiny  give  thee  a  helper!  he  is  the
-guardian  of  the  celestial  sphere  for  all  these  arch-
-angels whose  names  I  have  brought  forward;  may
+guardian  of  the  celestial  sphere  for  all  these  archangels whose  names  I  have  brought  forward;  may
 he  be  thy  helper  at  all  times,  in  every  good  work
 and  duty !
 
 32.  Homage  to  Srit  ^  the  teacher!  may  he  live
 long  !  may  he  be  prosperous  in  the  land !  may  his
 be  every  pleasure  and  joy,  and  every  glory  of  the
-Kayans,  through  the  will  of  the  persistent  Atih-
-armazd !
+Kayans,  through  the  will  of  the  persistent  Atiharmazd !
 
 
 Chapter  XXIII.
@@ -22412,8 +20795,7 @@ health  ^ !
 
 
 1  Both  nouns  are  in  the  plural,  and  both  verbs  in  the  singular.
-Aniran  is  a  personification  of  Av.  anaghra  rao/^au,  'the  begin-
-ningless  lights,'  or  fixed  stars  (which,  however,  are  said  to  have
+Aniran  is  a  personification  of  Av.  anaghra  rao/^au,  'the  beginningless  lights,'  or  fixed  stars  (which,  however,  are  said  to  have
 been  created  by  Aiiharmazd  in  Bund.  II,  i),  and  these  stars  appear
 to  have  been  considered  as  horses  of  the  angels  (Bund.  VI,  3,
 SZS.  VI,  i).     There  are  several  uncertain  phrases  in  §§  30-32.
@@ -22428,14 +20810,11 @@ XI,  10,  note.
 
 CHAPTER    XXII,    28-XXIII,  4.  405
 
-embellished  \  Ar^avahi^-t  Is  more  brilliant^,  Shat-
-vairo  is  more  exalted  ^,  Spendarma^  is  more  fruit-
+embellished  \  Ar^avahi^-t  Is  more  brilliant^,  Shatvairo  is  more  exalted  ^,  Spendarma^  is  more  fruit-
 ful ^  Horvada^  is  moister  ^,  Ameroda^  is  fatter  *'.
 2.  Din-pa-Ataro  is  just  like  Auharmazd '',  Ataro  is
-hotter^,  ATJan  is  more  golden^,  Khixr  is  more  obser-
-vant^*^, Mah  is  more  protective  ",  Tir  is  more  liberal,
-Gos  is  swifteri2.  3.  Din^^.p^-Mitro  is  just  like  Auh-
-armazd, Mitro  is  more  judicial,  Srosh  is  more
+hotter^,  ATJan  is  more  golden^,  Khixr  is  more  observant^*^, Mah  is  more  protective  ",  Tir  is  more  liberal,
+Gos  is  swifteri2.  3.  Din^^.p^-Mitro  is  just  like  Auharmazd, Mitro  is  more  judicial,  Srosh  is  more
 vigorous,  Rashn  is  more  just,  Fravarrtftn  is  more
 powerful,  Vahram  is  more  victorious,  Ram  is  more
 pleasing,  Vac/  is  more  fragrant.  4.  V>m-pa-Din6  is
@@ -22481,8 +20860,6 @@ through  which  the  water  of  Aredvivsur  (a  title  of  the  angel  Az^an,
 "  The  same  as  Arshi^ang  (see  Bund.  XXII,  4).
 
 
-406  SHAYAST   LA-SHAYAST.
-
 conveying  the  religion,   Aniran  is   the   extreme   of
 exertion  and  listening  ^
 
@@ -22490,8 +20867,7 @@ exertion  and  listening  ^
 
 ^  The  reading  of  both  these  nouns  is  uncertain.  The  days  of
 the  Parsi  month,  which  bear  the  names  of  these  thirty  angels,  are
-divided,  it  will  be  observed,  into  four  nearly  equal  divisions,  re-
-sembling weeks,  which  are  here  separated  in  §§  1-4.  The  first
+divided,  it  will  be  observed,  into  four  nearly  equal  divisions,  resembling weeks,  which  are  here  separated  in  §§  1-4.  The  first
 weekly  period  begins  with  a  day  dedicated  to  Auharmazd,  and
 called  by  his  own  name  ;  and  each  of  the  three  other  weekly  periods
 also  begins  with  a  day  dedicated  to  Auharmazd,  but  called  by  the
@@ -22501,11 +20877,9 @@ Aiiharmazd  followed  by  six  days  named  after  the  six  archangels
 respectively  (see  Bund.  I,  23,  26).  The  second  week  consists  of
 the  day  Din-with-Ataro  followed  by  six  days  named  after  the
 angels  of  fire,  waters,  the  sun,  the  moon,  Mercury,  and  the  primeval
-ox.  The  third  week  consists  of  the  day  Din-with-Mitro  fol-
-lowed by  seven  days  named  after  the  angels  of  solar  light,  obe-
+ox.  The  third  week  consists  of  the  day  Din-with-Mitro  followed by  seven  days  named  after  the  angels  of  solar  light,  obe-
 dience, and  justice,  the  guardian  spirits,  and  the  angels  of  victory,
-pleasure,  and  wind.  And  the  fourth  week  consists  of  the  day  Din-
-with-Dino  followed  by  seven  days  named  after  the  angels  of  religion,
+pleasure,  and  wind.  And  the  fourth  week  consists  of  the  day  Dinwith-Dino  followed  by  seven  days  named  after  the  angels  of  religion,
 righteousness,  rectitude,  the  sky,  the  earth,  the  liturgy,  and  the
 fixed  stars.
 
@@ -22523,20 +20897,17 @@ denoted  by  the  larger  ciphers.
 2.  References  to  passages  which  contain  special  information  are  given
 in  parentheses,
 
-3.  Though  different  forms  of  the  same  name  may  occur  in  the  trans-
-lations, only  one  form  is  usually  given  in  the  index,  to  which  the  refer-
+3.  Though  different  forms  of  the  same  name  may  occur  in  the  translations, only  one  form  is  usually  given  in  the  index,  to  which  the  refer-
 ences to  all  forms  are  attached  ;  except  when  the  forms  differ  so  much
 as  to  require  to  be  widely  separated  in  the  index.
 
-4.  Pahlavi  forms  are  always  given  in  preference  to  Pazand  and  Per-
-sian, when  only  one  is  mentioned ;  but  where  only  a  Pazand  form  occurs
+4.  Pahlavi  forms  are  always  given  in  preference  to  Pazand  and  Persian, when  only  one  is  mentioned ;  but  where  only  a  Pazand  form  occurs
 it  is  printed  in  italics,  as  Pazand  orthography  is  usually  corrupt.  In  all
 such  italicised  names  any  letters,  which  would  elsewhere  be  italic,  are
 printed  in  roman  type.
 
 5.  Abbreviations  used  are  : — Av.  for  Avesta  word  ;  Bd.  for  Bundahij ;
-Byt.  for  Bahman  Yajt ;  ch.  for  chapter  of  Visparad ;  com.  for  com-
-mentator and  commentary;  Gu^.  for  Gu^arati ;  Huz.  for  Huzvarij ;
+Byt.  for  Bahman  Yajt ;  ch.  for  chapter  of  Visparad ;  com.  for  commentator and  commentary;  Gu^.  for  Gu^arati ;  Huz.  for  Huzvarij ;
 Int.  for  Introduction  ;  lun.  man.  for  lunar  mansion  ;  m.  for  mountain  ;
 meas.  for  measure ;  n  for  foot-note ;  Pahl.  for  Pahlavi ;  Paz.  for
 Pazand  ;  Pers.  for  Persian ;  r.  for  river ;  SI.  for  Shayast  la-shayast ;
@@ -22609,8 +20980,7 @@ Aghrera^/,  man,  Bd.  29,  5;  31,  15,
 
 Aharman,  origin  of  evil,  Bd.  1,  3,  7,
 8,  20,  23,  27;  2,  11;  Zs.  1,  2-4,
-6,  8-1 1,  17,  20,  24,  25;  wor-
-shipped by  Dahak,  Bd.  20,  23  ;
+6,  8-1 1,  17,  20,  24,  25;  worshipped by  Dahak,  Bd.  20,  23  ;
 nature  of,  Bd.  28,  1-6,  46,  48  ;
 by  whom  served,  Bd.  28,  2 1  ;
 differs  sometimes  from  the  evil
@@ -22623,8 +20993,7 @@ ij  3,  5;  6,  I,  23;  7,  I,  12;  8,
 1,  6;   9,  I,  24;  10,  I  ;    11,  i  ;
 
 defeated  by  religion,  Byt.  2,  16,
-20;  SI.  15,  6;  his  future  evil-
-doings,  Byt.  2,  40,  62  ;  3,  55,
+20;  SI.  15,  6;  his  future  evildoings,  Byt.  2,  40,  62  ;  3,  55,
 56 ;  his  advice,  SI.  18,  i,  2,  4.
 See  Evil  spirit.
 
@@ -22687,9 +21056,6 @@ Alexander  the  Great,  Int.  9,  11,  12,
 4IO
 
 
-PAHLAVI    TEXTS.
-
-
 Almsgiving  never  excessive,  SI.  10,
 
 23  ;  12, 16.
@@ -22724,8 +21090,7 @@ Angels,  Bd.  15,  13;  30,2  8;  Zs.  1,  o;
 
 Byt.  3,  31;  SI.  7,  7;  8,  4;  12,
 
-24  ;  13,  8  n,  30  ;  fight  with  de-
-mons, Bd.  3,  26  ;  6,  I ;  their
+24  ;  13,  8  n,  30  ;  fight  with  demons, Bd.  3,  26  ;  6,  I ;  their
 flowers,  Bd.  27,  24;  prayers
 and  offerings  to  them,  SI.  9,  10-
 12;  11,  4;  12,8-10;  their  gifts,
@@ -22834,7 +21199,6 @@ Ar^akhshir-i  Papakan,  Int.  11,  19;
 Bd.  31,  3on;  Byt.  2,  18.
 Ar^avahijt,  angel,  Bd.  1,  26  ;  31,  38  ;
 
-SI.  11,  4n;  13,  14;  15,  3,5,  12,
 
 13;  22,  3  ;  23,  I  ;  month,  Bd.
 
@@ -22858,9 +21222,6 @@ Arezur  m.,  Bd.  3,  2n;    12,  2,  (8;)
 
 
 INDEX.
-
-
-411
 
 
 Byt.  3,  22n;    SI.  10,  7";    13,
@@ -23028,12 +21389,6 @@ Atrat,  man,  Bd.  31,  2yn.
 Auharmazd,  Zs.  6,  10;  Byt.  2,  64;
 
 
-412
-
-
-PAHLAVI    TEXTS.
-
-
 SI.  8,  13,  21,  23;  10,  29;  12,
 28  ;  13,  8;  18,4;  20,  11,  18;
 22,  32 ;  the  creator,  Bd.  1,  0-3,
@@ -23067,11 +21422,9 @@ talks  with  ZaratQjt,  Bd.  30,  4,
 Bd.  30,  23,  28 ;  Zs.  10,  i  ;
 Byt.  2,  64;  3,  28,  37;  SI.  13,
 
-18,  24,  32,  46  ;  arranges  the  fu-
-ture existence,  Bd.  30,  24,  27,
+18,  24,  32,  46  ;  arranges  the  future existence,  Bd.  30,  24,  27,
 29)  30j  32  ;  his  nature,  Zs.  1,
-13-17  ;  5,  4  ;  SI.  23, 1-4  ;  fore-
-tells future  events,  Byt.  1,  3-5  ;
+13-17  ;  5,  4  ;  SI.  23, 1-4  ;  foretells future  events,  Byt.  1,  3-5  ;
 2, 15-22,  24-63  ;  3,  1-62,
 
 Auharmazd  day,  Bd.  3,  12  ;  25,  7,
@@ -23148,8 +21501,7 @@ Byt.   3,    45  n;     SI.    13,    15  n;
 8  ;  15,  I  ;  17,  8,  9  ;  words
 quoted,  SI.  5,  2,  5,  7  ;  7,  8  ;  9,
 12;  10,  37;  13,  I,  4-14,  16-26,
-28-36,  38-40,  42,  45-51;  P'^^s-
-sages  quoted,  SI.  8,  22  ;  11,  6  ;
+28-36,  38-40,  42,  45-51;  P'^^ssages  quoted,  SI.  8,  22  ;  11,  6  ;
 13,  6,  8,  43  ;  prayers,  SI.  9,  9,
 10;  10,  5,  19,  26  n;    14,  2,  3;
 
@@ -23212,8 +21564,7 @@ Vohuman.
 
 50-52  ;  age.  Int.  53-56  ;  MSS.,
 Int.  56  ;  Paz.  version.  Int.  57  ;
-Pers.  version,  Int.  57-59  ;  Ger-
-man trans..  Int.  59.
+Pers.  version,  Int.  57-59  ;  German trans..  Int.  59.
 Bahram,  angel,  Byt.  2,  59n;  king,
 Byt.  3,  i4n ;  —  fire,  Zs.  11,  6.
 See  Vahram.
@@ -23342,12 +21693,6 @@ Bushasp,  demoness,  Bd.  28,  26;  SI.
 13,  43.
 
 
-414
-
-
-PAHLAVI    TEXTS.
-
-
 But,  demon,  Bd.  28,  34-
 Butter,  see  Sacred  butter.
 
@@ -23373,7 +21718,6 @@ Caspian  sea,  Bd.  13,  15  n;  15,  2  8n,
 n;  Byt.  2,  63  n;  3,  19  n.
 
 Ceremonial  (ya^ijn),  Byt.  2,  37  ;  3,
-37;  SI.  3,  35  n;  5,  3;  8,  4;  9,
 
 5,  11;  13,  25;  19,8.
 Ceremonies,  SI.  2,   38  ;   12,  31  ;  —
@@ -23485,7 +21829,6 @@ Da^/akih-i  Ashovahijto,  man,  Bd.  33,
 Dad-ar^a,  man,  Bd.  33,  3.
 Dais'-Aijharmazd,  com.,  Byt.  1,  7  ;  S,
 
-16  ;  SI.  1,  4  n.
 Da</-farukh,  com.,  SI.  1,  4  n.
 DaJgun,  man,  SI.  1,  4  n.
 Daiira^/,  man,  Bd.  33,  3.
@@ -23511,9 +21854,6 @@ Dahmanafringan,S1.13, 43n;  17,  S".
 INDEX.
 
 
-415
-
-
 Dai,  land,  Bd.  15,  29.
 
 Daitik  m.,  see  K^kaM  Daitik.
@@ -23523,8 +21863,7 @@ Daitik  m.,  see  K^kaM  Daitik.
 29,  5  n  ;  Zs.  2,  6.
 
 Dakhma,  Byt.  2,  36  n  ;  SI.  2,  (6,)
-pn,  ion,  I  in,  75  n.  See  De-
-pository for  the  dead.
+pn,  ion,  I  in,  75  n.  See  Depository for  the  dead.
 
 Damaghan,  town,  Bd.  20,  18  n;  29,
 14  n.
@@ -23551,8 +21890,7 @@ II  n.
 
 Dastan,  man,  Bd.  31,  37.
 
-Dastur,  Bd.  19,  36.  See  High-
-priest.
+Dastur,  Bd.  19,  36.  See  Highpriest.
 
 Dd-vad  m.,  Bd.  12,  29,  30.
 
@@ -23584,8 +21922,7 @@ a  roof,  SI.  2, 18,  21  ;  in  a  room,
 SI.  2,  22;  when  seated,  SI.  2,
 24  ;  by  strangulation,  SI.  2,  23  ;
 17,  13  ;  on  a  tree,  SI.  2,  25-29  ;
-in  a  vessel,  SI.  9,  7 ;  in  a  wilder-
-ness, SI.  2,  47.
+in  a  vessel,  SI.  9,  7 ;  in  a  wilderness, SI.  2,  47.
 
 Demonized  men,  SI.  17,  7.
 
@@ -23602,8 +21939,7 @@ Bd.  1,  10;  end,  Bd.  1,  21,  22;
 1 1,  13  ;  council,  Bd.  3,  1-9  ;  12,
 8;  incursion,  Bd.  3,  10,  21,  25,
 26  ;  7,  8,  12  ;  mislead  men,  Bd.
-15,  9,  12,  17,  18;  use  nail-par-
-ings as  weapons,  Bd.  19,  19,  20  ;
+15,  9,  12,  17,  18;  use  nail-parings as  weapons,  Bd.  19,  19,  20  ;
 SI.  12,  6  ;  opposed  by  cock,  Bd.
 19,  33 ;  SI.  10,  30  n  ;  beget  the
 ape,  bear,  and  negro,  Bd.  23,  i,
@@ -23613,8 +21949,7 @@ with  dishevelled  hair,  Byt.  1,  5  ;
 2,  22,  24-29,  36;  3,  1,6,  13,  34;
 discomfited,  Byt.  2,  16,  17;  3,
 40,  41  ;  reside  in  idol-temples,
-Byt.  3,  30,  36,  37 ;  attack  Zara-
-tust,  SI.  10,  4 ;  12,  11  ;  in  the
+Byt.  3,  30,  36,  37 ;  attack  Zaratust,  SI.  10,  4 ;  12,  11  ;  in  the
 north,  SI.  10,  7  ;  12, 1 8 ;  14,  2  n.
 
 Demon  worship,  SI.  8,  4;  14,  i.
@@ -23622,8 +21957,7 @@ Demon  worship,  SI.  8,  4;  14,  i.
 —  worshippers,  Byt.  3,  24.
 
 Depository  for  the  dead,  SI.  2,  75;
-13,  19.  See  Dakhma  and  Re-
-ceptacle.
+13,  19.  See  Dakhma  and  Receptacle.
 
 Destroyer,  Bd.  2,  4,  8  ;  3,  i,  23  ;  7,
 I  ;  20,  6  ;  27,  I ;  Zs.  7,  3  ;  SI.
@@ -23670,9 +22004,6 @@ Zs.  9,  I  n ;    Byt.  1,  i  n ;  2,  3  n,
 4i6
 
 
-PAHLAVI    TEXTS.
-
-
 19  n;  3,  25  n,  43  n,  52  n,  61  n;
 SI.  6,  7  n  ;  9,  9  n ;  10,  3  n,  4  n,
 8  n,  13  n,  21  n,  25  n,  26  n,  28  n,
@@ -23684,13 +22015,11 @@ Dino,  angel,  SI.  22,  8,  15,  23,  24 ;  23,
 4.     See  Din.
 Din-pavan-Ataro,  angel,  Bd.  27,  24  ;
 
-SI.  23,  2,  4n.
 Din-pavan-Dino,  angel,  Bd.  27,  24  ;
 
 SI.  23,  4.
 Din-pavan-Mitro,  angel,  Bd.  27,  24  ;
 
-SI.  23,  3,  4  n.
 Dirham,  SI.  1,  (2  ;)  8,  (3  n  ;)  10,  24  ;
 
 11,  2;  16,  in,  2,  3.
@@ -23750,15 +22079,13 @@ Evil    spirit,  Zs.  1,  o  ;  SI.  8,  23  ;  12,
 
 
 5;  11,  6;  30,  29,  30,  32;  Byt.
-3,  35}  40  ;  SI.  13,  24,  36  ;  com-
-forted, Bd.  3,  6-8  ;  described,
+3,  35}  40  ;  SI.  13,  24,  36  ;  comforted, Bd.  3,  6-8  ;  described,
 Bd.  3,  9  ;  28,  40,  41  ;  attacks
 creation,  Bd.  3,  10-17,  21,  24-
 27  ;    6,  1-4  ;   8,  I  ;  11,  5  ;  18,
 
 2,  5  ;  19,  10  ;  28,  1,3;  misleads
-men,  Bd.  15,  8,  9  ;  28,  6  ;  an-
-cestor of  Dahak,  Bd.  31,  6  ;  his
+men,  Bd.  15,  8,  9  ;  28,  6  ;  ancestor of  Dahak,  Bd.  31,  6  ;  his
 future  evil-doings,  Byt.  2,54;
 
 3,  24,  33.     See  Aharman.
@@ -23797,8 +22124,7 @@ Bd.  2,  10;  19,  33,  34,  36;  20,
 6;  Zs.  10,  i;  SI.  13,  23,  32,46;
 described,  Bd.  28,  13,  14,  20,
 33,  37  ;  Christians,  Byt.  3,  3,  5;
-serpents,  Byt.  3,  52;  of  men-
-struation, SI.  3,  29 ;  become
+serpents,  Byt.  3,  52;  of  menstruation, SI.  3,  29 ;  become
 pregnant,  SI.  10,  7 ;  12,  18.  See
 Arch-fiends.
 
@@ -23816,17 +22142,13 @@ Sacred  fire.
 Fire-temple,  see  Abode  of  fires.
 
 Fish,  classification,  Bd.  10,  4 ;  14,
-12,  26;  Zs.  9,9-14;  genera-
-tion, Bd.  16,  7  ;    chief,  Bd.  24,
+12,  26;  Zs.  9,9-14;  generation, Bd.  16,  7  ;    chief,  Bd.  24,
 
 13-
 Flowers,  Bd.  27,  11,  24.
 
 
 INDEX.
-
-
-417
 
 
 Fomalhaut,  star,  Bd.  2,  7  n  ;    SI.  11,
@@ -23904,8 +22226,6 @@ S8;  SI.  10,  28n;  20,  18;  man,
 
 Bd.  33,  3.
 Freh-khur</,  man,  Bd.  31,  19.
-
-[5]
 
 
 Freh-mah,  woman,  Bd.  33,  7.
@@ -23996,9 +22316,6 @@ E  e
 
 
 4i8
-
-
-PAHLAVI    TEXTS.
 
 
 Gel,  lun.  man.,  Bd.  2,  3.
@@ -24123,8 +22440,7 @@ Hamespamadayem,  season,  Bd.  25, 6.
 
 HamW,  man,  Bd.  33,  11.
 
-Hamistakan,  SI.  6,  2.  See  Ever-
-stationary.
+Hamistakan,  SI.  6,  2.  See  Everstationary.
 
 Yiaxnred,  see  Contagion.
 
@@ -24329,12 +22645,6 @@ Idols,  Bd.  28,  34  ;  Byt.  1,  4n.
 E  e  2
 
 
-420
-
-
-PAHLAVI    TEXTS.
-
-
 Idol-temples,  Bd.  17,  7  ;  Byt.  3,  30,
 
 36,  37.
@@ -24358,8 +22668,7 @@ Indra,  god,  Bd.  1,  27 n.
 Indus  r.,  Bd.  20,  8n,  9n,  22n,  28n  ;
 
 Byt.  3,  38n.
-Infant,  treatment,  SI.  10,  16;  pro-
-tected by  fire,  SI.  12,  12.
+Infant,  treatment,  SI.  10,  16;  protected by  fire,  SI.  12,  12.
 Infection,  SI.  2,  55,  59,  (6o-)62.    See
 
 Paitrei/.
@@ -24468,7 +22777,6 @@ SI.  10,  28  n.     See  KavaJ.
 
 —  Loharasp,  king,  Bd.  31,  29;  34,
 
-7;  SI.  10,  28 n.
 
 —  Pisan  (or  Pisin),  prince,  Bd.  31,
 
@@ -24511,9 +22819,6 @@ Karmak,  tribe,  Byt.  2,  49.
 
 
 INDEX.
-
-
-421
 
 
 Karman,  tribe,  Byt.  3,  20.
@@ -24559,7 +22864,6 @@ o,  25n;  Byt.  1,5;  2,17;  3,  14,
 51-
 Kayanians,  Bd.  11,  6  ;    Byt.  3,  140  ;
 
-SI.  10,  2  8n.
 Kayans,  Byt.  3,  25,  26 ;  SI.  22,  32.
 Keresani,  king,  Byt.  2,  i9n.
 Keresasp,  man,  Bd.  29,  yn;   31,  26,
@@ -24658,8 +22962,7 @@ Khve'gand  r,,  Bd.  20,  7,  19,  20,
 
 Khvetmano  ha,  SI,  13,  7n.
 
-Khvetuk-das,  see  Next-of-kin  mar-
-riage,
+Khvetuk-das,  see  Next-of-kin  marriage,
 
 Khyon,  land,  Byt.  2,  49n.
 
@@ -24682,12 +22985,6 @@ Kokand,  town,  Bd.  20,  20 n.
 Kondras  m.,  Bd.  12,  2,  25.
 Kondrasp  m.,  Bd.  12,  2,  24;  22,  5n.
 K/vttika,  lun.  man.,  Bd.  2,  3n.
-
-
-422
-
-
-PAHLAVI    TEXTS.
 
 
 Kumij  m.,  Bd.  12,  32  ;    land,  Bd.
@@ -24736,7 +23033,6 @@ A!1nistan,  land,  Bd.  12,  9n,  i3n;  15,
 
 29;    29,  13;    Zs.  7,  7;    Byt.  3,
 
-14  ;  SI.  6,  7n.
 ^inva J  or  /Tinvar  bridge,  Bd.  12,  7  ;
 
 28,  i8n;  30,  33;  SI.  8,  in;  12,
@@ -24804,10 +23100,8 @@ I,  4n.
 
 Maidhyairya,  season,    Bd.  25,  3  n ;
 
-SI.  18,  (3  n.)
 Maidhvo-shema,  season,  Bd.  25,  3  n ;
 
-Si:  18,  (3  n.)
 Male  things,  Bd.  16,  6,
 Mdm-so%ak,  title,  Bd.  31,  14.
 Manicheans,  Si.  6,  7  n.
@@ -24858,9 +23152,6 @@ Mar^-bu^,  com.,  SI,  1,  4  n  ;  2,  86.
 INDEX.
 
 
-423
-
-
 Margandak,  man,  Bd.  31,  36,  40.
 ]\Iarg-ar§-an,  see  Worthy  of  death.
 Marriage,  refraining  from,  SI.  10, 19.
@@ -24879,7 +23170,6 @@ Mashyoi,  woman,  Bd,  15,  6,  11,  20;
 
 30,  I,  7  ;   32,  in;   34,  3  ;    Zs.
 
-10,  4;  SI.  10,  28  n.
 Majvak,  man,  Bd.  33,  5.
 Matro,  man,  Bd.  15,  2.
 Matroyao,  woman,  Bd.  15,  2.
@@ -24892,8 +23182,7 @@ Mazda-afl'-moi  ha,  SI.  13,  11.
 Mazdayasnian  literature,  Zs.  9,  i  n  ;
 Byt.  3,  25  n;  SI.  9,  9  n  ;  10,
 3  n,  4n,  13  n,  21  n,  25  n,  26  n,
-28  n,  29  n;  12,  17  n  ;  — reli-
-gion, Bd.  29,  7;  33,  II  n.
+28  n,  29  n;  12,  17  n  ;  — religion, Bd.  29,  7;  33,  II  n.
 
 Mazdayasnians,  SI.  12,  4 ;  13,  2 ;
 religion  of,  Int.  9  ;  Bd.  1,  2,  25  ;
@@ -25017,12 +23306,6 @@ Nahn,  lun.  man.,  Bd.  2,  3  ;    Zs.  4,
 Nahvtak  r.,  Bd.  20,  34  n;  21,  6.
 
 
-424
-
-
-PAHLAVI    TEXTS.
-
-
 Naikiyas,  demon,  Bd.  28,  lo;   30,
 
 2911.
@@ -25118,7 +23401,6 @@ Niha^um.
 Niyaz,  demon,  Bd.  3,  17  ;  28,  26.
 No^ar,  man,  Bd.  29,  6  ;  31,  13,  23  ;
 
-33,  5  ;  SI.  10,  2  8n.
 Noktarga,  man,  Bd.  31,  32,  33.
 Nonabar,  rite,  SI.  10,  2  ;  13,  2  n.
 Non-Iranian,  Bd.  19,   15;    29,  4n;
@@ -25187,15 +23469,11 @@ Pahlavi  alphabets.  Int.  16,  17,  20.
 INDEX.
 
 
-425
-
-
 Pahlavi  papyri,  Int.  21.
 
 —  texts,  three  kinds  here  translated,
 
-Int.  67,  68  ;  proportion  un-
-translated, Int.  68 ;  value  of,
+Int.  67,  68  ;  proportion  untranslated, Int.  68 ;  value  of,
 Int.  74.
 
 —  writings.  Int.  9-22.
@@ -25240,8 +23518,7 @@ Pars,  land,  Bd.  12,  2,  9,  21,  36  ;  20,
 Parsadgd,  chief,  Bd.  29,  5.
 
 Parsi  religion  most  detailed  in  Pahl.
-texts.  Int.  9  ;  not  fully  ex-
-plained here.  Int.  68.
+texts.  Int.  9  ;  not  fully  explained here.  Int.  68.
 
 Parsti-a,  man,  Bd.  33,  4.
 
@@ -25298,7 +23575,6 @@ Persian  Gulf,  Bd.  13,  8  n,  1 3  n  ;  20,
 Pejda^,  title,  Bd.  32,  i  n.
 Pejdart'ian,  Bd.  15,  (28  n  ;)   17,  4  n  ;
 
-SI.  10,  28  n.
 Pesh-Parinx,  lun.  man.,  Bd.  2,  3.
 Peshyotanu,  priest,   Bd.   20,    31  n;
 
@@ -25328,8 +23604,7 @@ Planets,  Bd.  3,  25  ;  5,  (i,)  5 ;  28,
 
 Plants,  origin,  Bd.  9,  1-6  ;  27,  1-3  ;
 Zs.  8,  1-6  ;  9,  1-6  ;  chiefs  of,
-Bd.  24, 18-21,  27;  27,  4;  classi-
-fication, Bd.  27,  5-23  ;  devoted
+Bd.  24, 18-21,  27;  27,  4;  classification, Bd.  27,  5-23  ;  devoted
 to  angels,  Bd.  27,  24 ;  dried
 before  burning,  Bd.  27,  25.
 
@@ -25365,12 +23640,6 @@ wool,  81.  2,  100.
 Portuguese,  Byt.  3,  17  n.
 
 
-426
-
-
-PAHLAVI    TEXTS.
-
-
 Poni^ist,  woman,  Bd.  32,  5,  7  n.
 Poriishasp,  man,  Bd.  20,  32,  34 n;
 
@@ -25387,8 +23656,7 @@ Precautions  where  death  occurs,  SI.
 
 Pregnant  woman,  carrying  her
 corpse,  SI.  2,  6  ;  10,  10  ;  eating
-dead  matter,  SI.  2,  105  ;  pro-
-tected by  fire,  SI.  10,  4  ;  12,  1 1 ;
+dead  matter,  SI.  2,  105  ;  protected by  fire,  SI.  10,  4  ;  12,  1 1 ;
 stepping  on  toothpick,  SI.  10,
 20  ;  12,  13.
 
@@ -25398,8 +23666,7 @@ Byt.  1,  7n;  2,  38,40,55;  SI.  2,
 56,  6on,  62n;  5,  3n;  8,  4,  11;
 9,  2,  4,  i2n;  13,  9,  49";  14,
 3 ;  their  five  dispositions,  Bd.
-19,  36  n.  See  Dastur,  High-
-priest,  Mobads,  Purifying,  Ras-
+19,  36  n.  See  Dastur,  Highpriest,  Mobads,  Purifying,  Ras-
 pi,  Supreme,  Zota.
 
 Primeval  ox,  Bd.  3,  14,  17,  18  ;  4,  i,
@@ -25485,8 +23752,7 @@ Renunciation  of  sin,  81,  4,  14;  8,
 I  n,  4,  5,  (7-10,)  12-14,  16,  17,
 21,(23;)  9,6;  20,11.
 
-Resurrection,  Bd.  1,  21;  11,  6  ;  ac-
-count of,  Bd.  30,  1-33  ;  not  for
+Resurrection,  Bd.  1,  21;  11,  6  ;  account of,  Bd.  30,  1-33  ;  not  for
 some,  81.  17,  7  ;  where,  SI.  17,
 11-14.
 
@@ -25530,9 +23796,6 @@ soul.
 
 
 INDEX.
-
-
-427
 
 
 Rik/astam,  man,  Bd.  31,  41.
@@ -25616,10 +23879,7 @@ Saka^um  nask,  SI.  10,  (25;)  12,  2,
 
 Salm,  prince,  Bd.  15,  29  ;  20,  i2n;
 
-31,  9,  10,  12  ;  SI.  10,  28 n.
 Salman,  land,  Bd.  20,  12  ;  Byt.  3,  3  ;
-
-SI.  10,  28  n.
 
 
 Sam,   man,   Bd.   29,   7,   9;    31,36;
@@ -25704,12 +23964,6 @@ Sfend     nask,     SI.    10,    4  n.       See
 Spend.
 
 
-428
-
-
-PAHLAVI    TEXTS.
-
-
 Shadows,  midday,  SI.  21,  1-3;  —
 afternoon,  SI.  21,  4-8.
 
@@ -25776,8 +24030,7 @@ Simurgh,  bird,  Bd.  14,  1 1  n  ;  18,  9  n  ;
 Sin,  Zs.  1,  13,  18  ;  Byt.  2,  40;  3,57;
 SI.  2,  53,91,  106;  5,6;  6,4,6;
 8,  19;  10,  3,  18,25,27;  12,  31  ;
-15,  22,  26-28,  30  ;  20,  15  ;  af-
-fecting accusers,  81.  8,  (i,)  14,
+15,  22,  26-28,  30  ;  20,  15  ;  affecting accusers,  81.  8,  (i,)  14,
 15,  17  ;  affecting  the  soul,  SI.  8,
 (i,)  16  ;  degrees  of,  81.  1,  i,  2  ;
 11,  I,  2  ;  16,  1-5  ;  harm,  Bd.  5,
@@ -25786,15 +24039,13 @@ fecting accusers,  81.  8,  (i,)  14,
 foot,  81.  4,  8  n  ;  10,  5  ;  mortal,
 SI.  8,  7,  18,  21,  23;  running
 about  uncovered,  Bd.  28,  8,  10  ;
-Byt.  2,  38;  81.  4,  (8)-io;  un-
-seasonable chatter,  Bd.  28,  19  ;
+Byt.  2,  38;  81.  4,  (8)-io;  unseasonable chatter,  Bd.  28,  19  ;
 81.4,(9;)  5;  1-7  ;  walking  with
 
 
 one  boot,  Bd.  28,  13;  SI.  4,
 8n,  (12.)  See  AredCu,  Farman,
-Khor,  Renunciation,  Tanapu-
-har.  Worthy  of  death,  Yat.
+Khor,  Renunciation,  Tanapuhar.  Worthy  of  death,  Yat.
 
 Sinamru,  bird,  Bd.  24,  1 1  n.
 
@@ -25812,8 +24063,7 @@ Sirkan,  town,  Bd.  33,  1 1  n  ;  Zs.  1,  on.
 
 Sirozah,  ritual,  81.  7,  8n;    17,  5n.
 
-Sistan,  land,  Bd.  12,  9n,  See  Sagas-
-tan.
+Sistan,  land,  Bd.  12,  9n,  See  Sagastan.
 
 Siyah  koh,  m.,  Bd.  12,  2  2n.
 
@@ -25875,9 +24125,6 @@ Spend  nask,  81,  10,  (4;)  12,  3,  11,
 
 
 INDEX.
-
-
-429
 
 
 Spendarma^,  angel,  Bd.  1,  26  ;  15,
@@ -26000,7 +24247,6 @@ Tairei',  demon,  Bd.  1,  27  ;  28,  1 1  n  ;
 30,  29.
 Takhmorup,  king,  Bd.  17,  4 ;  31,  2,
 3  ;  32,  I  n  ;  34,  4  ;  Zs.  11,  ion ;
-SI.  10,  28  n.
 Tambayak,  demon,  Bd.  31,  6.
 Tanapuhar  good  work.  Si.  1,  (in;)
 2,  79",  93;  6,  3,  4,  6;  7,  4 ;  8,
@@ -26032,12 +24278,6 @@ Tazak,  woman,  Bd.  15,  28.
 Te?end  r.,  Bd.  20,  isn.
 Teheran,  town,  Bd.  12,   31  n;    31,
 40  n  ;  SI.  13,  im.
-
-
-430
-
-
-PAHLAVI    TEXTS.
 
 
 Terak  m.,  Bd.  5,  3,  4 ;  12,  2,  4.
@@ -26111,10 +24351,8 @@ Tribe-ruler,  SI.  13,  11,  15,  41  n,  44;
 
 Tu^,  prince,  Bd,  31,  9,  10,  12,  14,
 
-27  ;  SI.  10,  28n.
 Tuhmaspian,  title,  Bd.  31,  23  ;  34,
 
-6;  SI.  10,  28  n.
 Tuirya,  tribe,  Bd.  15,  29 n  ;  31,  9n.
 Tur,  land,  Bd.  12,  20  ;  15,  29  ;  21,
 
@@ -26203,9 +24441,6 @@ Faedist,  man,  Bd.  32,  i  n.
 
 
 INDEX.
-
-
-431
 
 
 Faetand-i  Rdghinoid,  woman,  Bd.  31,
@@ -26365,12 +24600,6 @@ Bd.  31,  29,  30  ;  34,  8  ;  Byt.  2,
 17  ;  month,  Bd.  25,  20.
 
 
-432
-
-
-PAHLAVI    TEXTS.
-
-
 Vohuman-/('ihar,  man,  Bd.  33,  3.
 
 —  yajt,  ritual,  Byt.  1,  i  n,  6  ;  2,  r.
@@ -26385,7 +24614,6 @@ V6r%arjt,  region,  Bd.  5,  8,  9;   11,
 47.
 
 Walking  with  one  boot,  Bd.  28,  1 3 ;
-SI.  4,  8n,  (12.)
 
 —  without  boots,   SI.  4,  12  n;    10,
 
@@ -26443,16 +24671,14 @@ Xerxes,  Bd.  34,  8  n.
 
 Ya^ar-i  Zariran,  book,  Byt.  2,  490.
 Tanidhitst,  man,  Bd.  29,  5.
-Tanghad,  man,  Bd.  31,  2.   See  Ayan-
-ghad.
+Tanghad,  man,  Bd.  31,  2.   See  Ayanghad.
 
 
 Ya-jkyaothana  ha,  SI.  13,  10,  14.
 Yasna,  ritual,  Byt.  2,  59  n  ;    SI.  9,
 
 I  in,  12  n;  13,  in;  16,  6n;
-oldest  MSS.  of,  Int.  21;  chap-
-ters cited,  SI.  13,  i,  2  n,  4,  6-
+oldest  MSS.  of,  Int.  21;  chapters cited,  SI.  13,  i,  2  n,  4,  6-
 12,  16-23,  25,  27-33,  35,  37,  38,
 41-45,  47,  49-51;  of  seven  ch.,
 SI.  13,  on,  15-25,  son,  51.
@@ -26467,8 +24693,7 @@ Yat  sin,  SI.  1,  i,  2  ;  2,  5 1 ;  11,  i,  2  ;
 
 Yatha-ahu-vairyo  formula,  Bd.  1,
 (21;)  Zs.l,  (i9n;)2,  8;  SI.  10,
-7;  12,  18,  32;  13,  13;  recita-
-tions of,  SI.  19,  1-15.
+7;  12,  18,  32;  13,  13;  recitations of,  SI.  19,  1-15.
 
 Yatha-aij  ha,  SI.  13,  8,  14.
 
@@ -26499,8 +24724,7 @@ Yezi-adaij  ha,  SI.  13,  33.
 
 Yim,  king,  Bd.  12,  20;  17,  5  ;  23,
 i;  31,  3-5,  6n,  7,  8;  32,  in ;
-34,  4;  SI.  10,  28  n;  his  en-
-closure, Bd.  19,  16;  24,  11;
+34,  4;  SI.  10,  28  n;  his  enclosure, Bd.  19,  16;  24,  11;
 29,  4,  5,  14;  32,  5;  Byt.  3,
 55-
 
@@ -26531,9 +24755,6 @@ Zad'-sparam,  priest.  Int.  38,  42,  46-
 INDEX.
 
 
-433
-
-
 Zaesm,  man,  Bd.  31,  14.
 
 Zdgh,  man,  Bd.  33,  5.
@@ -26562,8 +24783,7 @@ Zs.  9,  in.
 
 Zandik,  sect,  SI.  6,  7.
 
-Zaothra,  Av.,  SI.  2,  43  n.  See  Holy-
-water.
+Zaothra,  Av.,  SI.  2,  43  n.  See  Holywater.
 
 Zarafjan  r.,  Bd.  20,  19  n.
 
@@ -26581,11 +24801,9 @@ Bd.  29,  2  ;  his  family,  Bd.  20,
 Bd.  34,  9n;  Byt.  1,  5 ;  2,  22,
 24,  31,  41;  3,  II,  43")  44n;
 attacked  by  demons,  SI.  10,  4 ;
-12,  3  n,  11;  addresses  Auhar-
-mazd,  Bd.  30,  4  ;  Byt.  1,  i,  2  ;
+12,  3  n,  11;  addresses  Auharmazd,  Bd.  30,  4  ;  Byt.  1,  i,  2  ;
 2,  I,  12,  23,  57;  3,  I,  12;  SI.
-12,  29  ;  15,  I,  3  ;  17,  i,  1 1 ;  ad-
-dressed by  Auharmazd,  Byt.  2,
+12,  29  ;  15,  I,  3  ;  17,  i,  1 1 ;  addressed by  Auharmazd,  Byt.  2,
 58;   3,  11;    SI.  9,  8;   10,  26;
 
 
@@ -26600,8 +24818,7 @@ the  Spitaman,  Byt.  1,  3,  5 ;  2,
 Zaratujt,  man,  Bd.  33,  11.
 
 Zaratijjtrotum,  Bd.  24, 1.  See  also
-Supreme  high-priest  or  Zara-
-tujt.
+Supreme  high-priest  or  Zaratujt.
 
 Zardahim,  title,  Bd.  31,  4.
 
@@ -26656,9 +24873,6 @@ Zrvana,  Av.,  Zs.  1,  24  n.
 Zujak,  man,  Bd.  31,  14-
 
 
-[5]
-
-
 Ff
 
 
@@ -26676,9 +24890,6 @@ P.  199,  note  6,  for  '  Shapur  I '  read  '  Shapur  II.'
 
 
 TRANSLITERATION    OF    ORIENTAL    ALPHABETS.
-
-
-435
 
 
 •  •          •
@@ -26701,7 +24912,6 @@ p\  n  '^  '-i  n-
 
 •                                                                                 •                                        •           •           •           •
 
-1
 
 D      ^     '•     •  '0
 
@@ -26717,7 +24927,6 @@ D      iS     •  =0
 
 4)
 
-3
 
 (2
 
@@ -26774,15 +24983,12 @@ U
 
 CONSONANTS.
 
-05
 ©
 
 I:
 
 C
 
-03
-1
 
 CO           '
 
@@ -26796,7 +25002,6 @@ M           1
 m
 t^   oc
 
-03
 
 i  s  -g  1    o  .
 
@@ -26833,9 +25038,6 @@ i-t     tH
 •
 
 F  f  2
-
-
-436
 
 
 TRANSLITERATION    OF    ORIENTAL    ALPHABETS
@@ -26943,7 +25145,6 @@ X
 
 •
 
-1
 
 ^■.
 
@@ -27102,7 +25303,6 @@ ffi
 
 •  •
 
-33
 
 •
 •
@@ -27117,7 +25317,6 @@ S  S'
 
 k— •
 
-02
 
 N       N-
 
@@ -27205,7 +25404,6 @@ en
 
 .        s
 
-3
 
 •        •        •
 
@@ -27219,7 +25417,6 @@ H
 
 <
 
-1
 
 CO
 
@@ -27254,7 +25451,6 @@ I— 1
 
 c
 
-2
 
 C
 
@@ -27266,11 +25462,9 @@ CO      a3
 
 CO
 
-1
 
 CO
 
-03
 
 -2
 
@@ -27290,7 +25484,6 @@ s
 to*
 e3
 
-03
 
 CO        S        0)
 
@@ -27306,7 +25499,6 @@ cS
 
 eS
 
-03
 
 o
 
@@ -27332,7 +25524,6 @@ C
 
 r     c
 
-0
 
 5     o
 
@@ -27459,16 +25650,10 @@ jn  in  n  n
 n
 
 
-1
-
-
 -^
 
 
 ^
-
-
-1
 
 
 <iy
@@ -27540,13 +25725,9 @@ d
 c3
 
 
-03
-
-
 P.  't;    -o
 
 
-03
 o
 
 S3    !-5
@@ -27554,9 +25735,6 @@ S3    !-5
 
 c3
 o
-
-
-03
 
 
 tn
@@ -27575,9 +25753,6 @@ S
 CO
 
 
-3
-
-
 !/3
 
 
@@ -27586,12 +25761,6 @@ O
 
 •iH
 Hi
-
-
-03
-
-
-03
 
 
 s   ^  I  «-
@@ -27603,19 +25772,14 @@ CD
 Eh
 
 
-2
-
-
 c3      S
 
 
-3
 C
 
 Eh
 
 
-03
 -»-:»
 
 c3
@@ -27626,14 +25790,9 @@ S-i
 S3
 
 
-03
-
 to
 
-03
 
-
-03
 o
 
 O
@@ -27642,10 +25801,6 @@ O
 TO       I — I
 CO
 
-3
-
-
-03
 
 Si
 
@@ -27661,7 +25816,6 @@ r/l
 
 u
 
-3
 
 ca
 
@@ -27722,7 +25876,6 @@ cfl.Sq-o «-..<^.
 
 ^^^        ^                      •                      •••••                      •                      ••••                      ••■••
 
-13
 
 C
 
@@ -27734,7 +25887,6 @@ N
 
 .      .                                 .      .      .      .                U)  -^     •      •      '                 Oj     •      •      •      •
 
-1
 
 ^     ^   P    P   »w-^  |£?  Ifi?*  r  t??*  IP   |«5     '   IV  ^iv     '.     \     !  '^  '^^     '.     i     "     ^
 
@@ -27777,7 +25929,6 @@ o    joj    )0     03    <rt    —    <-    ;:s    J2    ■£    'i;     s    
 
 oi
 
-03
 
 5     p
 
@@ -27800,14 +25951,12 @@ w!     n?     a,                 •      •    ^
 •
 •
 
-1
 
 ;.^^3         ^§5
 
 J
 >
 
-5
 
 E>         13         .2         .2         "-5          ■«          0      "    2                0-0               -^   .2
 
@@ -27855,8 +26004,7 @@ variorum  instruxit  Thomas  Gaisford,  S.T.P.     1848.  fol.  cloth,  il.  12s
 Suidae  Lexicon.  Ad  Codd.  MSS.  recensuit  Thomas  Gaisford,
 S.T.P.     Tomi  III.      1834.  fol.  cloth,  2I.  2s.
 
-Scheller's  Lexicon  of  the  Latin  Tongue,  with  the  German  ex-
-planations translated  into  English  by  J.  E.  Riddle,  M.A.  1835.  fol.
+Scheller's  Lexicon  of  the  Latin  Tongue,  with  the  German  explanations translated  into  English  by  J.  E.  Riddle,  M.A.  1835.  fol.
 cloth,  ll.  IS.
 
 A  Latin  Dictionary,  founded  on  Andrews'  edition  of  Freund's
@@ -27893,28 +26041,23 @@ Vol.  I,  containing  Fasc.  I-V.  sm.  fol.  cloth,  5/.  5s.  Just  Published.
 
 A  Practical  Grammar  of  the  Sanskrit  Language,  arranged
 with  reference  to  the  Classical  Languages  of  Europe,  for  the  use  of
-English  Students,  by  Monier  Williams,  M.A.,  Boden  Professor  of  San-
-skrit.    Fourth  Edition,  1877.     8vo.  cloth,  15s.
+English  Students,  by  Monier  Williams,  M.A.,  Boden  Professor  of  Sanskrit.    Fourth  Edition,  1877.     8vo.  cloth,  15s.
 
-A  Sanskrit-English  Dictionary,  Etymologically  and  Philo-
-logically  arranged,  with  special  reference  to  Greek,  Latin,  German,
+A  Sanskrit-English  Dictionary,  Etymologically  and  Philologically  arranged,  with  special  reference  to  Greek,  Latin,  German,
 Anglo-Saxon,  English,  and  other  cognate  Indo-European  Languages.
 By  Monier  Williams,  M.A.,  Boden  Professor  of  Sanskrit.  1872.  4to.
 cloth,  4I.  1 4s.  6d.
 
 Nalopdkhydnam.  Story  of  Nala,  an  Episode  of  the  Maha-
-Bharata  :  the  Sanskrit  text,  with  a  copious  Vocabulary,  and  an  im-
-proved version  of  Dean  Milman's  Translation.  By  Monier  Williams,  M.A.
+Bharata  :  the  Sanskrit  text,  with  a  copious  Vocabulary,  and  an  improved version  of  Dean  Milman's  Translation.  By  Monier  Williams,  M.A.
 Second  Edition,  Revised  aftd  Improved.     1879.  ^^'°-  '^l'^'^>  I5«-
 
 Sakuntala.  A  Sanskrit  Drama,  in  seven  Acts.  Edited  by
 Monier  Williams,  M.A.     Second  Edition,   1876.    Svo.  cloth,  2is.
 
-An  Anglo-Saxon  Dictionary,  by  Joseph  Bosworth,  D.D.,  Pro-
-fessor of  Anglo-Saxon,  Oxford.     New  edition.     In  the  Press.
+An  Anglo-Saxon  Dictionary,  by  Joseph  Bosworth,  D.D.,  Professor of  Anglo-Saxon,  Oxford.     New  edition.     In  the  Press.
 
-An  Icelandic-English  Dictionary,  based  on  the  MS.  col-
-lections of  the  late  Richard  Cleasby.  Enlarged  and  completed  by
+An  Icelandic-English  Dictionary,  based  on  the  MS.  collections of  the  late  Richard  Cleasby.  Enlarged  and  completed  by
 G.  Vigfiisson.  With  an  Introduction,  and  Life  of  Richard  Cleasby.
 by  G.  Webbe  Dasent,  D.C.L.     1874.  4to.  cloth,  3/.  7s.
 
@@ -27984,8 +26127,7 @@ Sophocles :  Scholia  Graeca  :
 Vol.  I.  ed.  P.  Elmsley,  A.M.     1825.  8vo.  cloth,  4s.  6d.
 Vol.  II.  ed.  Guil.  Dindorfius.     1852,  8vo.  cloth,  4s.  6d.
 
-Euripides :  Tragoediae  et  Fragmenta,  ex  recensione  Guil.  Din-
-dorfii.   Tomi  II.     1834.  8vo.  cloth,  ids.
+Euripides :  Tragoediae  et  Fragmenta,  ex  recensione  Guil.  Dindorfii.   Tomi  II.     1834.  8vo.  cloth,  ids.
 
 Euripides :  Annotationes  Guil.  Dindorfii.  Partes  II.  1840.
 8vo.  cloth,  I  OS.
@@ -28023,14 +26165,12 @@ Anecdota  Graeca  Oxoniensia.    Edidit  J.  A.  Cramer,  S.T.P.
 
 Tomi  IV.     1835.  8vo.  cloth,  \l.  2s.
 
-Aneedota  Graeca  e  Codd.  MSS.  Bibliothecae  Regiae  Parisien-
-sis.     Edidit  J.  A.  Cramer,  S.T.P.    Tomi  IV.     1839.  Svo.  cloth,  \l.  2s.
+Aneedota  Graeca  e  Codd.  MSS.  Bibliothecae  Regiae  Parisiensis.     Edidit  J.  A.  Cramer,  S.T.P.    Tomi  IV.     1839.  Svo.  cloth,  \l.  2s.
 
 Apsinis  et  Longini  Bhetoriea.    E  Codicibus  MSS,  recensuit
 Joh.  Bakius.     1849.  8vo.  cloth,  3s.
 
-Aristoteles;  ex  recensione  Immanuelis  Bekkeri.    Accedunt  In-
-dices Sylburgiani.     Tomi  XI.     1837.  8vo.  cZo/i,  2Z.  los.
+Aristoteles;  ex  recensione  Immanuelis  Bekkeri.    Accedunt  Indices Sylburgiani.     Tomi  XI.     1837.  8vo.  cZo/i,  2Z.  los.
 The  volumes  (except  vol.  IX.)  may  be  had  separately,  price  5s.  6d.  each,
 
 Aristotelis  Ethica  Nicomachea,  ex  recensione  Immanuelis
@@ -28060,8 +26200,7 @@ Heracliti  Ephesii  Reliquiae,     Recensuit   I,  Bywater,  M.A.
 
 HerculanensiumVoluminumPartes  II.  1824.  Zvo.  cloth,  los.
 
-Homerus:  Ilias,  cum  brevi  Annotatione  C,  G,  Heynii.    Acce-
-dunt Scholia  minora,     Tomi  II,     1S34.  Svo.  cloth,  15s.
+Homerus:  Ilias,  cum  brevi  Annotatione  C,  G,  Heynii.    Accedunt Scholia  minora,     Tomi  II,     1S34.  Svo.  cloth,  15s.
 
 Homerus:  Ilias,  ex  rec.  Guil. Dindorfii.  1856.  Svo,  cloth,  ^s.  6d.
 
@@ -28109,8 +26248,7 @@ cloth,  8s.  6c?.
 Plato :  Philebus,  with  a  revised  Text  and  English  Notes,  by
 Edward  Poste,  M.A.     i860.  8vo.  cloth,  "js.  6d.
 
-Plato :  Sophistes  and  Politicus,  with  a  revised  Text  and  Eng-
-lish Notes,  by  L.Campbell,  M.A.     1866.  8vo.  cloth,  i8s.
+Plato :  Sophistes  and  Politicus,  with  a  revised  Text  and  English Notes,  by  L.Campbell,  M.A.     1866.  8vo.  cloth,  i8s.
 
 Plato  :  Theaetetus,  with  a  revised  Text  and  English  Notes,  by
 L.Campbell,  M.A.     1861.  8vo.  cloth,  Qs.
@@ -28144,20 +26282,16 @@ In  the  Press.
 Clarendon  Press,  Oxford.
 
 
-Xenophon :  Historia  Graeca,  ex  recensione  et  cum  annotatio-
-nibus  L.  Dindorfii.     Second  Edition,  1852.  8vo.  cloth,  ios.6d.
+Xenophon :  Historia  Graeca,  ex  recensione  et  cum  annotationibus  L.  Dindorfii.     Second  Edition,  1852.  8vo.  cloth,  ios.6d.
 
-Xenophon :  Expeditio  Cyri,  ex  rec.  et  cum  annotatt.  L.  Din-
-dorfii.    Second  Edition,  1S55.  8vo.  cloth,  10s.  6d.
+Xenophon :  Expeditio  Cyri,  ex  rec.  et  cum  annotatt.  L.  Dindorfii.    Second  Edition,  1S55.  8vo.  cloth,  10s.  6d.
 
-Xenophon:  Institutio  Cyri,  ex  rec.  et  cum  annotatt.  L.  Din-
-dorfii.    1857.  8vo.  cloth,  ios.6d.
+Xenophon:  Institutio  Cyri,  ex  rec.  et  cum  annotatt.  L.  Dindorfii.    1857.  8vo.  cloth,  ios.6d.
 
 Xenophon :  Memorabilia  Socratis,  ex  rec.  et  cum  annotatt.  L.
 Dindorfii.      1862.  8vo.  cloth,  p.6d.
 
-Xenophon :  Opuscula  Politica  Equestria  et  Venatica  cum  Arri-
-aiii  Libello  de  Venatione,  ex  rec.  et  cum  annotatt.  L.  Dindorfii.  1866.
+Xenophon :  Opuscula  Politica  Equestria  et  Venatica  cum  Arriaiii  Libello  de  Venatione,  ex  rec.  et  cum  annotatt.  L.  Dindorfii.  1866.
 8vo.  cloth,  I  OS.  6d.
 
 THE  HOLY  SCmPTURES,  &e.
@@ -28172,11 +26306,9 @@ John  Wycliffe,  about  a.d.  13S0,  and  Revised  by  John  Purvey,  about
 A.D.  13S8.  Reprinted  from  the  above.  With  Introduction  and  Glossary
 by  W.  W.  Skeat,  M.A.     1879.  Extra  fcap.  8vo.  cloth,  6s.
 
-The  Holy  Bible :  an  exact  reprint,  page  for  page,  of  the  Author-
-ized Version  published  in  the  year  1611.   Demy  4to.  half  bound,  il.  is.
+The  Holy  Bible :  an  exact  reprint,  page  for  page,  of  the  Authorized Version  published  in  the  year  1611.   Demy  4to.  half  bound,  il.  is.
 
-Vetus  Testamentum  Graeee  cum  Variis  Lectionibus.  Edi-
-tionem  a  R.  Holmes,  S.T.P.  inchoatam  continuavit  J.  Parsons,  S.T.B.
+Vetus  Testamentum  Graeee  cum  Variis  Lectionibus.  Editionem  a  R.  Holmes,  S.T.P.  inchoatam  continuavit  J.  Parsons,  S.T.B.
 Tomi  V.  1 798-1827.  folio,  7/.
 
 Vetus   Testamentum   ex   Versione   Septuaginta   Interpretum
@@ -28184,8 +26316,7 @@ Vetus   Testamentum   ex   Versione   Septuaginta   Interpretum
 secundum  exemplar  Vaticanum  Romae  editum.    Accedit  potior  varietas
 Codicis  Alexandrini.    Tomi   III,     Editio  Altera.     i8mo.    cloth,   1 8s.
 
-Origenis  Hexaplorum  quae  supersunt;  sive,  Veterum  Inter-
-pretum Graecorum  in  totum  Vetus  Testamentum  Fragmenta.  Edidit
+Origenis  Hexaplorum  quae  supersunt;  sive,  Veterum  Interpretum Graecorum  in  totum  Vetus  Testamentum  Fragmenta.  Edidit
 Fridericus  Field,  A.M.     2  vols.  1867-1874.  4to.  cloth,  5/.  5s.
 
 Libri    Psalmorum    Versio    antiqua   Latina,   cum   Paraphrasi
@@ -28268,9 +26399,6 @@ of  his  Life  by  William  Bright,  D.D.,  Regius  Professor  of  Ecclesiastica
 History,  Oxford.     1873.    Crown  Svo.  cloth,  9s.
 
 
-8  Clarendon  Press,  Oxford.
-
-
 St.  Augustine:  Select  Anti-Pelagian  Treatises,  with  the  Acts
 of  the  Second  Council  of  Orange.  With  an  Introduction  by  WilHam
 Bright,  D.D.     Crown  8vo.  cloth,  9s.
@@ -28293,27 +26421,23 @@ Cyrilli  Archiepiscopi   Alexandrini   in    D.  Joannis   Evangelium.
 Accedunt  Fragmenta  Varia  necnon  Tractatiis  ad  Tiberium  Diaconum  Duo.
 Edidit  post  Aubertum  P.  E.  Pusey,  A.M.    Tomi  III.    1872,  8vo.  2/.  55.
 
-Cyrilli  Archiepiscopi  Alexandrini  Commentarii  in  Lucae  Evan-
-gelium quae  supersunt  Syriace.  E  MSS.  apud  Mus.  Britan.  edidit  R.
+Cyrilli  Archiepiscopi  Alexandrini  Commentarii  in  Lucae  Evangelium quae  supersunt  Syriace.  E  MSS.  apud  Mus.  Britan.  edidit  R.
 Payne  Smith,  A.M.     1858.     4to.  cloth,  il.  2s.
 
 The  same,  translated  by  R.  Payne  Smith,  M.A.  2  vols.  1859.
 8vo.  cloth,  14s.
 
 Ephraemi  Syri,  Rabulae  Episcopi  Edesseni,  Balaei,  aliorumque
-Opera  Selecta.  E  Codd.  Syriacis  MSS.  in  Museo  Britannico  et  Biblio-
-theca  Bodleiana  asservatis  primus  edidit  J.  J.  Overbeck.  1865.  ^^O"
+Opera  Selecta.  E  Codd.  Syriacis  MSS.  in  Museo  Britannico  et  Bibliotheca  Bodleiana  asservatis  primus  edidit  J.  J.  Overbeck.  1865.  ^^O"
 cloth,  il.  IS.
 
 Eusebii  Pamphili  Evangelicae  Praeparationis  Libri  XV.  Ad
 Codd.  MSS.  recensuit  T.  Gaisford,  S.T.P.  Tomi  IV.  1843.  8vo.
 cloth,  il.  los.
 
-Eusebii  Pamphili  Evangelicae  Demonstrationis  Libri  X.  Re-
-censuit T.  Gaisford,  S.T.P.     Tomi  II.     1852.  8vo.  cloth,  15s.
+Eusebii  Pamphili  Evangelicae  Demonstrationis  Libri  X.  Recensuit T.  Gaisford,  S.T.P.     Tomi  II.     1852.  8vo.  cloth,  15s.
 
-Eusebii  Pamphili  contra  Hieroclem  et  INIarcellum  Libri.  Re-
-censuit T.  Gaisford,  S.T.P.     1852.  8vo.  cloth,  7s.
+Eusebii  Pamphili  contra  Hieroclem  et  INIarcellum  Libri.  Recensuit T.  Gaisford,  S.T.P.     1852.  8vo.  cloth,  7s.
 
 Eusebius'  Ecclesiastical  History,  according  to  the  text  of
 Burton,  with  an  Introduction  by  William  Bright,  D.D.  1872.  Crown
@@ -28383,8 +26507,7 @@ Bright  (W.,  D.D.).    Chapters  of  Early  English  Church  History.
 
 1 8 78.   Svo.  cloth,  I2S.
 
-Burnet's  History  of  the  Reformation  of  the  Church  of  Eng-
-land. A  new  Edition.  Carefully  revised,  and  the  Records  collated
+Burnet's  History  of  the  Reformation  of  the  Church  of  England. A  new  Edition.  Carefully  revised,  and  the  Records  collated
 with  the  originals,  by  N.  Pocock,  M.A.     7  vols.   1865.  Svo.  4/.  4s.
 
 Burnet's  Life  of  Sir  M.  Hale,  and  Fell's  Life  of  Dr.  Hammond.
@@ -28400,8 +26523,7 @@ lo  Clarendon  Press,  Oxford.
 
 
 Cardwell's  Documentary  Annals  of  the  Reformed  Church  of
-England;  being  a  Collection  of  Injunctions,  Declarations,  Orders,  Arti-
-cles of  Inquiry,  &c.  from  1546  to  1716.  2  vols.  1843.  8vo.  cloth,  i8s,
+England;  being  a  Collection  of  Injunctions,  Declarations,  Orders,  Articles of  Inquiry,  &c.  from  1546  to  1716.  2  vols.  1843.  8vo.  cloth,  i8s,
 
 Cardwell's  History  of  Conferences  on  the  Book  of  Common
 Prayer  from  1551  to  1690.     Third  Edition,  1849.  8vo.  cloth,  'js.Gd.
@@ -28435,8 +26557,7 @@ Second  Edition,  1863.  fcap.  8vo.  cloth,  ^s.6d,
 Inett's  Origines  Anglicanae  (in  continuation  of  Stillingfleet).
 Edited  by  J.  Griffiths,  M.A.      3  vols.  1855.  8vo.  cloth,  15s.
 
-John,  Bishop  of  Ephesus.  The  Third  Part  of  his  Ecclesias-
-tical History.  [In  Syriac]  Now  first  edited  by  William  Cureton,
+John,  Bishop  of  Ephesus.  The  Third  Part  of  his  Ecclesiastical History.  [In  Syriac]  Now  first  edited  by  William  Cureton,
 M.A.     1853.  4to.  cloth,  \l.  I2S.
 
 The  same,  translated  by  R.  Payne  Smith,  M.A.  i860.  8vo.
@@ -28476,8 +26597,7 @@ VI,  and  Elizabeth.     Edited  by  E.  Cardwell,  D.D.     1850.  8vo.  cloth,
 Shirley's  (W.  "W.)  Some  Account  of  the  Church  in  the  Apostolic
 Age.     Second  Edition,  1874.  fcap.  Svo.  cloth,  3s.  6(f.
 
-Shuckford's  Sacred  and  Profane  History  connected  (in  con-
-tinuation of  Prideaux).     2  vols.  1848.  8vo.  cloth,  los.
+Shuckford's  Sacred  and  Profane  History  connected  (in  continuation of  Prideaux).     2  vols.  1848.  8vo.  cloth,  los.
 
 Stillingfleet's  Origines  Britannicae,  with  Lloyd's  Historical
 Account  of  Church  Government.  Edited  byT.  P.  Pantin,  M.A.  2  vols.
@@ -28501,8 +26621,7 @@ Ecclesiastical  Memorials.    6  vols.  1822.  Svo.  cloth,  il.  ly.
 Annals  of  the  Reformation.   7  vols.   Svo.  cloth,  2/.  ^s.  6d.
 General  Index.     2  vols.  1S2S.  Svo.  cloth,  iis.
 
-Sylloge  Confessionum  sub  tempus  Reformandae  Ecclesiae  edi-
-tarum.  Subjiciuntur  Catechismus  Heidelbergensis  et  Canones  Synodi
+Sylloge  Confessionum  sub  tempus  Reformandae  Ecclesiae  editarum.  Subjiciuntur  Catechismus  Heidelbergensis  et  Canones  Synodi
 Dordrechtanae.    1827.  Svo.  cloth,  8s.
 
 ENGLISH  THEOLOGY.
@@ -28583,8 +26702,7 @@ Hall's  (Bp.)  "Works.     A  neav  Edition,  by  Philip  Wynter,  D.D.
 
 10  vols.   1S63.  8vo.  cloth,  3/.  3s.
 
-Hammond's  Paraphrase  and  Annotations  on  the  New  Testa-
-ment.    4  vols.  1845.  8vo.  cloth,  ll.
+Hammond's  Paraphrase  and  Annotations  on  the  New  Testament.    4  vols.  1845.  8vo.  cloth,  ll.
 
 Hammond's  Paraphrase  on  the  Book  of  Psalms.  2  vols.  1850.
 8vo.  cloth,  los.
@@ -28593,9 +26711,6 @@ Heurtley's  Collection  of  Creeds.     1858.  8vo.  cloth,  6s.  6d.
 
 Homilies  appointed  to  be  read  in  Churches.  Edited  by  J.
 Griffiths,  M.A.    18^^.  8vo.  cloth,  'js.6d.
-
-
-Clarendon  Press,  Oxford.  13
 
 
 Hooker's  "Works,  with  his  Life  by  Walton,  arranged  by  John
@@ -28679,26 +26794,22 @@ Glossarial  Index,  by  J.  Earle,  M.A.     1865.  Svo.  cloth,  l6s.
 Magna  Carta,  a  careful  Reprint.  Edited  by  W.  Stubbs,  M.A.,
 Regius  Professor  of  Modern  History.     1879.  4'^°-  ^t'-tched,  is.
 
-Britton,  a  Treatise  upon  the  Common  Law  of  England,  com-
-posed by  order  of  King  Edward  I.  The  French  Text  carefully  revised,
+Britton,  a  Treatise  upon  the  Common  Law  of  England,  composed by  order  of  King  Edward  I.  The  French  Text  carefully  revised,
 with  an  English  Translation,  Introduction,  and  Notes,  by  F.  M.  Nichols,
 M.A.     2  vols.   1865.  royal  8vo.  cloth,  \l.  i6s.
 
-Burnet's  History  of  His  Own  Time,  with  the  suppressed  Pas-
-sages and  Notes.     6  vols.  1833.  Svo.  cloth,  2I.  los.
+Burnet's  History  of  His  Own  Time,  with  the  suppressed  Passages and  Notes.     6  vols.  1833.  Svo.  cloth,  2I.  los.
 
 Burnet's  History  of  James  H,  with  additional  Notes.  1852.
 8vo.  cloth,  9s.  6d.
 
-Carte's  Life  of  James  Duke  of  Ormond.  ^  new  Edition,  care-
-fully compared  with  the  original  MSS.    6  vols.  1851.  8vo.  cloth,  il.  5s.
+Carte's  Life  of  James  Duke  of  Ormond.  ^  new  Edition,  carefully compared  with  the  original  MSS.    6  vols.  1851.  8vo.  cloth,  il.  5s.
 
 Casauboni  Ephemerides,  cum  praefatione  et  notis  J.  Russell,
 S.T.P.     Tomi  II.     i8c,o.  8\o.  cloth,  i^s.
 
 Clarendon's  (Edw.  Earl  of)  History  of  the  Rebellion  and  Civil
-Wars  in  England.  To  which  are  subjoined  the  Notes  of  Bishop  War-
-burton.     7  vols.  1849.  medium  Svo.  cloth,  2I.  10s.
+Wars  in  England.  To  which  are  subjoined  the  Notes  of  Bishop  Warburton.     7  vols.  1849.  medium  Svo.  cloth,  2I.  10s.
 
 Clarendon's  (Edw.  Earl  of)  History  of  the  Rebellion  and  Civil
 
@@ -28706,16 +26817,14 @@ Wars  in  England.     7  vo\s.   1839.  iSmo.  cloth,  ll.  Is.
 
 Clarendon's  (Edw.  Earl  of)  History  of  the  Rebellion  and  Civil
 
-Wars  in  England.  Also  His  Life,  written  by  Himself,  in  which  is  in-
-cluded a  Continuation  of  his  History  of  the  Grand  Rebellion.  With
+Wars  in  England.  Also  His  Life,  written  by  Himself,  in  which  is  included a  Continuation  of  his  History  of  the  Grand  Rebellion.  With
 copious  Indexes.    In  one  volume,  royal  Svo.  1842.  cloth,  ll.  2s.
 
 Clarendon's  (Edw.  Earl  of)  Life,  including  a  Continuation  of
 
 his  History.     2  vols.   1857.  medium  Svo.  cloth,  ll.  2s.
 
-Clarendon's  (Edw.  Earl  of)  Life,  and  Continuation  of  his  His-
-tory.    3  vols.   1S27.  Svo.  cloth,  i6s.6d.
+Clarendon's  (Edw.  Earl  of)  Life,  and  Continuation  of  his  History.    3  vols.   1S27.  Svo.  cloth,  i6s.6d.
 
 Calendar  of  the  Clarendon  State  Papers,  preserved  in  the
 
@@ -28767,8 +26876,7 @@ Protests  of  the  Lords,  including  those  which  have  been
 expunged,  from  1624  to  1874;  with  Historical  Introductions.  Edited
 by  James  E.  Thorold  Rogers,  M.A.      1875.    3  vols.  Svo.  cloth,  2/.  2s.
 
-Enactments  in  Parliament,  specially  concerning  the  Universi-
-ties of  Oxford  and  Cambridge.  Collected  and  arranged  by  J.  Griffiths,
+Enactments  in  Parliament,  specially  concerning  the  Universities of  Oxford  and  Cambridge.  Collected  and  arranged  by  J.  Griffiths,
 M.A.     1869.   Svo.  cloth,  I2S.
 
 Ordinances  and  Statutes  [for  Colleges  and  Halls]  framed  or
@@ -28789,9 +26897,6 @@ royal  Svo.  cloth,  3s.  6d.
 
 Catalogue  of  Oxford  Graduates  from  1659  to  1850.  185  i.
 8vo.  cloth,  7s.  6d.
-
-
-1 6  Clarendon  Press,  Oxford.
 
 
 CHRONOLOGY,  GEOGRAPHY,  &c.
@@ -28855,8 +26960,7 @@ Reduction  of  Bradley's  Observations  by  Dr.  Busch.  i838.4to.  c/o/A,  3$.
 Clarejidoji  Press,  Oxford.  I'j
 
 
-Astronomical  Observations  made  at  the  University  Obser-
-vatory, Oxford,  under  the  direction  of  C.  Pritchard,  M.A.,  Savilian  Pro-
+Astronomical  Observations  made  at  the  University  Observatory, Oxford,  under  the  direction  of  C.  Pritchard,  M.A.,  Savilian  Pro-
 fessor of  Astronomy.     No.  i.     1S78.   Royal  8vo.  paper  covers,  3s.  6d.
 
 Treatise  on  Infinitesimal  Caletilus.  By  Bartholomew  Price,
@@ -28965,12 +27069,8 @@ and  Rafiaello  in  the  University  Galleries,  Oxford.     By  J.  C.  Robinso
 F.S.A.     1 8 70.  Crown  Svo.  cloth,  4s.
 
 Sturlunga  Saga,  including  the  Islendinga  Saga  of  Lawman
-Sturla  Thordsson  and  other  works.  Edited  with  Prolegomena,  Ap-
-pendices, Tables,  Indices,  and  Maps,  by  Dr.  Gudbrand  Vigfusson.  In
+Sturla  Thordsson  and  other  works.  Edited  with  Prolegomena,  Appendices, Tables,  Indices,  and  Maps,  by  Dr.  Gudbrand  Vigfusson.  In
 2  vols.      1 8  78.  Svo.  cloth,  2I.  2s.
-
-
-Clarendon  Press,  Oxford.  19
 
 
 The  Ormulum ;  with  the  Notes  and  Glossary  of  Dr.  R.  M.
@@ -28982,8 +27082,7 @@ The   Sacred  Books  of   the  East.      Translated  by  various,
 Oriental  Scholars,  and  edited  by  F.  Max  Miiller.
 
 Vol.  I.  The  Upanishads.  Part  I.  The  A';6andogya-upanishad,
-The  Talavakara-upanishad.  The  Aitareya-ara/^yaka,  The  Kaushitaki-
-brahmana-upanishad,  and  The  Va^asaneyi-samhita-upanishad.  Trans-
+The  Talavakara-upanishad.  The  Aitareya-ara/^yaka,  The  Kaushitakibrahmana-upanishad,  and  The  Va^asaneyi-samhita-upanishad.  Trans-
 lated by  F.  Max  Miiller.     8vo.  cloth,  \os.  6d.
 
 Vol.  II.   The  Sacred  Laws  of  the  Aryas,  as  taught  in  the
@@ -28991,12 +27090,10 @@ Vol.  II.   The  Sacred  Laws  of  the  Aryas,  as  taught  in  the
 Scliools  of  Apastamba  and   Gautama.     Translated    by  Georg  Biihler.
 8vo.  cloth,  los.  6d.
 
-Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Con-
-fucianism. Part  I.  The  Shu  King,  The  Shih  King,  and  The  Hsiao
+Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Confucianism. Part  I.  The  Shu  King,  The  Shih  King,  and  The  Hsiao
 King.     Translated  by  James  Legge.     Svo.  cloth,  12s.  6d.
 
-Vol.  IV.  The  Zend-Avesta.  Part  I.  The  Vendidad.  Trans-
-lated by  James  Darmesteter.     Svo.  cloth,  los.  6d.
+Vol.  IV.  The  Zend-Avesta.  Part  I.  The  Vendidad.  Translated by  James  Darmesteter.     Svo.  cloth,  los.  6d.
 
 Vol.  V.  Pahlavi  Texts.  Part  I.  The  Bundahis,  Bahman
 Yast,  and  Shiiyast-la-Shayast.  Translated  by  E.  W.  West.  Svo.  cloth,
@@ -29025,9 +27122,6 @@ Vol.  XI.  The     Mahaparinibbana     Sutta,     The    Tevigc/a
 
 Sutta,    The    Mahasudassana     Sutta,    The    Dhamma-A'akkappavattana
 Sutta.     Translated  by  T.  W.  Rhys  Davids.
-
-
-20  Clarendon  Press,  Oxford.
 
 
 Ckri^nWit  lit^s  %tm^.
@@ -29064,8 +27158,7 @@ An  English  Grammar  and  Reading  Book,  for  Lower  Forms
 in  Classical  Schools.  By  O.  W.  Tancock,  M.A.,  Assistant  Master  of
 Sherborne  School.     Third  Edition.     Extra  fcap.  Svo.  cloth,  3s.  6d.
 
-Typical  Selections  from  the  best  English  Writers,  with  Intro-
-ductory Notices.  Second  Edition.  In  Two  Volumes.  Extra  fcap.  Svo.
+Typical  Selections  from  the  best  English  Writers,  with  Introductory Notices.  Second  Edition.  In  Two  Volumes.  Extra  fcap.  Svo.
 cloth,  3s.  6d.  each.
 
 Vol.  I.  Latimer  to  Berkeley.  Vol.  II.  Pope  to  Macaulay.
@@ -29078,9 +27171,6 @@ A  Book  for  the  Beginner  in  Anglo-Saxon.     By  John  Earle,
 
 M.A.,  Professor  of  Anglo-Saxon,  Oxford.    Second  Edition.     Extra  fcap.
 Svo,  cloth,  2s.  6d.
-
-
-Clarendon  Press,  Oxford.  21
 
 
 An   Anglo-Saxon    Reader.      In    Prose    and    Verse.      With
@@ -29142,9 +27232,6 @@ Richard  the  Third.     In  the  Press.
 (For  other  Plays,  see  p.  23.)
 
 
-22  Clarendon  Press,  Oxford.
-
-
 Milton.  Areopagitica.  With  Introduction  and  Notes.  By
 J.  W.  Hales,  M.A.,  late  Fellow  of  Christ's  College,  Cambridge.  Second
 Edition.     Extra  fcap.  8vo.  cloth,  3s.
@@ -29153,8 +27240,7 @@ Addison.  Selections  from  Papers  in  the  Spectator.  With
 Notes.  By  T.  Arnold,  M.A.,  University  College.  Second  Edition.
 Extra  fcap.  8vo.  cloth,  4s.  6d.
 
-Burke.  Four  Letters  on  the  Proposals  for  Peace  with  the  Regi-
-cide Directory  of  France.  Edited,  with  Introduction  and  Notes,  by
+Burke.  Four  Letters  on  the  Proposals  for  Peace  with  the  Regicide Directory  of  France.  Edited,  with  Introduction  and  Notes,  by
 E.  J.  Payne,  M.A.     Extra  fcap.  8vo.  cloth,  5s.     (See  also  p.  23.)
 
 Also  the  following  in  paper  covers  : —
@@ -29199,9 +27285,6 @@ Book  II.     Third  Edition.     Extra  fcap.  Svo.  cloth,  2s.6d.
 
 Church,  M.A.,  Dean  of  St.  Paul's  ;  formerly  Fellow  of  Oriel  College,
 Oxford.     Second  Edition.     Extra  fcap.  Svo.  cloth,  2s.
-
-
-Clarendon  Press,  Oxford.  23
 
 
 o
@@ -29272,9 +27355,6 @@ II.  The  Task,  with  Tirocinium,  and  Selections  from  the  Minor  Poems,
 A.D.  1 784-1 799,     Extra  fcap,  Svo.  cloth,  3s.
 
 
-24  Clarendon  Press,  Oxford.
-
-
 II.  LATIK".
 An  Elementary  Latin  Grammar.     By  John  B.  Allen,  M.A,,
 
@@ -29289,8 +27369,7 @@ Anglice  Reddenda,  or   Easy  Extracts,  Latin   and  Greek,  for
 
 Unseen  Translation.      By  C.  S.  jerram,  M.A.     Extra  fcap.  8vo.  c/o//;,  2s.
 
-Passages  for  Translation  into  Latin.  For  the  use  of  Pass-
-men and  others.  Selected  by  J.  Y.  Sargent,  M.A.,  Fellow  and  Tutor  of
+Passages  for  Translation  into  Latin.  For  the  use  of  Passmen and  others.  Selected  by  J.  Y.  Sargent,  M.A.,  Fellow  and  Tutor  of
 Magdalen  College,  Oxford.  Fifth  Edition.  Ext.  fcap.  Svo.  cloth,  25.  6d.
 
 First  Latin  Reader.  By  T.  J.  Nunns,  M.A.  Third  Edition.
@@ -29335,12 +27414,9 @@ Part  II.    Hannibal's  Campaign  in  Italy.
 Fart  III.  The  Macedonian  War.
 
 
-Clarendon  Press,  Oxford.  25
-
 Ovid.  Selections  for  the  use  of  Schools.  With  Introductions
 and  Notes,  and  an  Appendix  on  the  Roman  Calendar.  By  W.  Ramsay,
-M.A.  Edited  by  G.  G.  Ramsay,  M.A.,  Professor  of  Humanity,  Glas-
-gow.    Second  Edition.     Ext.  fcap.  8vo.  cloth,  5s.  6d.
+M.A.  Edited  by  G.  G.  Ramsay,  M.A.,  Professor  of  Humanity,  Glasgow.    Second  Edition.     Ext.  fcap.  8vo.  cloth,  5s.  6d.
 
 Pliny.  Selected  Letters  (for  Schools).  With  Notes.  By
 the  late  C.  E.  Prichard,  M.A.,  and  E.  R.  Bernard,  M.A.  Second  Edition.
@@ -29356,8 +27432,7 @@ A  Commentary  on  Catullus.    By  Robinson  Ellis,  M.A.    1876.
 
 Demy  Svo.  cloth,  i6s.
 
-Catulli  Veronensis  Carmina  Seleeta,  secundum  recogni-
-tionem  Robinson  Ellis,  A.M.     Extra  fcap.  Svo.  cloth,  3s.  6d.
+Catulli  Veronensis  Carmina  Seleeta,  secundum  recognitionem  Robinson  Ellis,  A.M.     Extra  fcap.  Svo.  cloth,  3s.  6d.
 
 Cicero  de  Oratore.  Book  I.  With  Introduction  and  Notes.
 By  A.S.  Wilkins,  M.A.,  Professor  of  Latin,  Owens  College,  Manchester.
@@ -29393,15 +27468,11 @@ Byjohn  Conington,  M.A.  Edited  by  Henry  Nettleship,  M.A.  Second
 Edition.     1874.    Svo.  cloth,  p.  6d.
 
 
-26  Clarendon  Press,  Oxford.
-
-
 Selections  from  the  less  known  Latin  Poets.    By  North
 
 Finder,  M. A.      1S69.    Demy  8 vo.  c/o/Z?,  15s.
 
-Fragments  and  Specimens  of  Early  Latin.  With  Introduc-
-tions and  Notes.  1874.    By  John  Wordsworth,  M. A.     8vo.  c/o//&,  i8s.
+Fragments  and  Specimens  of  Early  Latin.  With  Introductions and  Notes.  1874.    By  John  Wordsworth,  M. A.     8vo.  c/o//&,  i8s.
 
 Tacitus.  The  Annals.  Books  I-VI.  With  Essays  and  Notes.
 By  T.  F.  Dallin,  M.A.,  Tutor  of  Queen's  College,  Oxford.    Preparing.
@@ -29440,11 +27511,9 @@ Graecae  Grammatieae  Rudimenta  in  usum  Scholarum.  Auctore
 Carolo  Wordsworth,  D.C.L.   Nineteenth  Edition,  18]  ■j.  i2mo. bound, 4s.
 
 A  Greek-English  Lexicon,  abridged  from  Liddell  and  Scott's
-4to.  edition,  chiefly  for  the  use  of  Schools.  Eighteenth  Edition.  Care-
-fully Revised  throughout.     1S79.    Square  1 2mo.  cloth,  "js.  6d.
+4to.  edition,  chiefly  for  the  use  of  Schools.  Eighteenth  Edition.  Carefully Revised  throughout.     1S79.    Square  1 2mo.  cloth,  "js.  6d.
 
-Greek  Verbs,  Irregular  and  Defective;  their  forms,  mean-
-ing, and  quantity  ;  embracing  all  the  Tenses  used  by  Greek  writers,
+Greek  Verbs,  Irregular  and  Defective;  their  forms,  meaning, and  quantity  ;  embracing  all  the  Tenses  used  by  Greek  writers,
 with  reference  to  the  passages  in  which  they  are  found.  By  W.  Veitch.
 Third  Edition.     Crown  Svo.  cloth,  lOs.  6d.
 
@@ -29454,13 +27523,9 @@ from  his  larger  work  by  H.  W.  Chandler,  M.A.,  Waynflete  Professor  of
 Moral  and  Metaphysical  Philosophy,  Oxford.  Ext.  fcap.  Svo.  cloth,  2s.  6d.
 
 
-Clarendon  Press,  Oxford.  27
-
-
 A  Series  of  Graduated  Greek  Readers ; —
 
-First  Greek  Reader.  By  W.  G.  Rushbrooke,  M.L.,  for-
-merly Fellow  of  St.  John's  College,  Cambridge,  Second  Classical
+First  Greek  Reader.  By  W.  G.  Rushbrooke,  M.L.,  formerly Fellow  of  St.  John's  College,  Cambridge,  Second  Classical
 Master  at  the  City  of  London  School.    Extra  fcap.  8vo.  cloth,  2s.  dd.
 
 Second  Greek  Reader.     By  A.  M.  Bell,  M.A.     Extra  fcap,
@@ -29480,8 +27545,7 @@ Abbott,  M. A.,  Fellow  of  Balliol  College.  Ext. fcap.  8vo. cloth,  4s. 6d.
 
 Part  II.     By  the  same  Editor.  In  Preparation.
 
-The  Golden  Treasury  of  Ancient  Greek  Poetry ;  being  a  Col-
-lection of  the  finest  passages  in  the  Greek  Classic  Poets,  with  Introduc-
+The  Golden  Treasury  of  Ancient  Greek  Poetry ;  being  a  Collection of  the  finest  passages  in  the  Greek  Classic  Poets,  with  Introduc-
 tory Notices  and  Notes.  By  R.  S.  Wright,  M.A.,  Fellow  of  Oriel
 College,  Oxford.     Ext.  fcap.  8vo.  cloth,  Ss.  6d,
 
@@ -29491,8 +27555,7 @@ finest  passages  in  the  principal  Greek  Prose  Writers,  with  Introductory
 Notices  and  Notes.  By  R.  S.  Wright,  M.A.,  and  J.  E.  L.  Shadwell,  M.A.
 Ext.  fcap.  8vo.  cloth,  4s.  6d.
 
-Aeschylus.  Prometheus  Bound  (for  Schools).  With  Intro-
-duction and  Notes,  by  A.  O.  Prickard,  M.A.,  Fellow  of  New  College.
+Aeschylus.  Prometheus  Bound  (for  Schools).  With  Introduction and  Notes,  by  A.  O.  Prickard,  M.A.,  Fellow  of  New  College.
 Extra  fcap.  Svo.  cloth,  2s.
 
 Aeschylus.    Agamemnon  (for  Schools),  with  Introduction  and
@@ -29508,8 +27571,7 @@ The  Clouds,  2s.  The  Acharnians.    In  Preparation.
 
 Other  Plays  will  follow.
 
-Arrian.  Selections  (for  Schools).  With  Notes.  By  J.  S.  Phill-
-potts,  B.C.L.,  Head  Master  of  Bedford  School.
+Arrian.  Selections  (for  Schools).  With  Notes.  By  J.  S.  Phillpotts,  B.C.L.,  Head  Master  of  Bedford  School.
 
 Cebes.      Tabula.     With    Introduction    and   Notes    by   C.  S.
 
@@ -29517,9 +27579,6 @@ Jerram,  M.A.    Extra  fcap.  Svo.  cloth,  2s.  6d.
 
 Euripides.  Alcestis  (for  Schools).  By  C.  S.  Jerram,  M.A.
 Extra  fcap.   Svo.  cloth,  2s.  6d.     Just  Published.
-
-
-28  Clarendon  Press,  Oxford.
 
 
 Herodotus.  Selections  from.  Edited,  with  Introduction,  Notes,
@@ -29587,9 +27646,6 @@ and  ji;schines  on  the  Crown.     With  hitroductory  Essays  and  Notes.
 By  G.  A.  Simcox,  M.A.,and  W.H.Simcox.M.A.    1872.  Svo.  cloth,  i  2s.
 
 
-Clarendon  Press,  Oxford.  29
-
-
 Homer.  Odyssey,  Books  I-XII.  Edited  with  English  Notes,
 Appendices,  etc.  By  W.  W.  Merry,  M.A.,  and  the  late  James  Riddell,
 M.A.     1876.     Demy  8vo.  cloth,  i6s.
@@ -29651,8 +27707,6 @@ de  I'Hotel  Corneille,  by  Edmond  About ;  Mesaventures  d'un  Ecolier,
 by  Eodolphe  Topflfer.    Extra  fcap.  Svo.  cloth,  2s.  6d.
 
 
-30  Clarendon  Press,  Oxford.
-
 Regnard's    Le    Joueur,    and   Brueys    and    Palaprat's    Le
 
 Grondeur.     By  Gustave  Masson,  B.A.     Extra  fcap.  8vo.  cloth,  2s.  dd.
@@ -29685,8 +27739,7 @@ chiefly  for  the  purpose  of  being  able  to  read  German  books.
 
 German  Composition;   Extracts  from  English  and  American
 
-writers  for  Translation  into  German,  with  Hints  for  Translation  in  foot-
-notes.    In  the  Press.
+writers  for  Translation  into  German,  with  Hints  for  Translation  in  footnotes.    In  the  Press.
 
 Lessing's  Laokoon.  With  Introduction,  English  Notes,  etc.
 By  A.  Hamann,  Phil.  Doc,  M.A.,  Taylorian  Teacher  of  German  in  the
@@ -29710,9 +27763,6 @@ Third  Edition.     Extra  fcap.  8vo.  cloth,  3s.  6d.
 Lessing's  Minna  von  Barnhelm.  A  Comedy.  With  a  Life  of
 Lessing,  Critical  Analysis,  Complete  Commentary,  &c.  Third  Edition,
 Extra  fcap.  8vo.  cloth,  3s.  6c?.
-
-
-Clarendon  Press,  Oxford.  31
 
 
 Schiller's  Historische  Skizzen ;  Egmont's  Leben  und  Tod,  and
@@ -29761,8 +27811,7 @@ of  Astronomy,  Oxford.     1S70.     Crown  Svo.  c/o//&,  7s.  6^.
 
 A  Treatise  on   Electricity  and  Magnetism.    By  J.  Clerk
 
-Maxwell,  M.A.,  F.R.S.,  Professor  of  Experimental  Physics  in  the  Uni-
-versity of  Cambridge.     1873.     2  vols.  Svo.  cloth,  i/.  lis.  6d.
+Maxwell,  M.A.,  F.R.S.,  Professor  of  Experimental  Physics  in  the  University of  Cambridge.     1873.     2  vols.  Svo.  cloth,  i/.  lis.  6d.
 
 An  Elementary  Treatise  on  the  same  subject.    By  the  same
 
@@ -29823,8 +27872,7 @@ By  A.  G.  Vernon  Harcourt,  M.A.,  F.R.S.,  Senior  Student  of  Christ
 Church,  and  Lee's  Reader  in  Chemistry;  and  H.  G.  Madan,  M.A.,  Fellow
 of  Queen's  College,  Oxford.  Second  Edition.  Crown  8vo.  cloth,  7s.  6d.
 
-Crystallography.  By  M.  H.  N.  Story-Maskelyne,  M.A.,  Pro-
-fessor of  Mineralogy,  Oxford  ;  and  Deputy  Keeper  in  the  Department  of
+Crystallography.  By  M.  H.  N.  Story-Maskelyne,  M.A.,  Professor of  Mineralogy,  Oxford  ;  and  Deputy  Keeper  in  the  Department  of
 Minerals,  British  Museum.     In  the  Press.
 
 
@@ -29836,15 +27884,10 @@ Development.  By  William  Stubbs,  M.A.,  Regius  Professor  of  Modern
 History.  Library  Edition.  Three  vols,  demy  8vo.  cloth,  2/.  85,  Just
 Published.
 
-Also  in  crown  Svo.  vols.  II  and  III,  price  12s.  each.     Vol.  I  Re-
-printing.
+Also  in  crown  Svo.  vols.  II  and  III,  price  12s.  each.     Vol.  I  Reprinting.
 
 
-Clarendon  Press,  Oxford.  33
-
-
-Select  Charters  and  other  Illustrations  of  English  Con-
-stitutional History,  from  the  Earliest  Times  to  the  Reign  of  Edward  I.
+Select  Charters  and  other  Illustrations  of  English  Constitutional History,  from  the  Earliest  Times  to  the  Reign  of  Edward  I.
 Arranged  and  Edited  by  W.  Stubbs,  M.A.  Third  Edition.  1876.
 Crown  8vo.  cloth,  8s.  6c?.
 
@@ -29891,20 +27934,15 @@ Fellow  of  Trinity  College,  Oxford.
 
 A  History  of  Greece  from,  its  Conquest  by  the  Romans  to
 the  present  time,  b.c.  146  to  a.d.  1864.  By  George  Finlay,  LL.  D.
-A  new  Edition,  revised  throughout,  and  in  part  re-written,  with  con-
-siderable additions,  by  the  Author,  and  Edited  by  H.  F.  Tozer,  M.A.,
+A  new  Edition,  revised  throughout,  and  in  part  re-written,  with  considerable additions,  by  the  Author,  and  Edited  by  H.  F.  Tozer,  M.A.,
 Tutor  and  late  Fellow  of  Exeter  College,  Oxford,  1877.  7  vols.
 8vo.  cloth,  3/.  los.
-
-
-34  Clarendon  Press,  Oxford.
 
 
 A  Selection  from  the  Despatches,  Treaties,  and  other  Papers
 
 of  the  Marquess  Wellesley,  K.G.,  during  his  Government  of  India.
-Edited  by  S.  J.  Owen,  M.A.,  formerly  Professor  of  History  in  the  Elphin-
-stone  College,  Bombay.     1877.  8vo.  cloth,  \l.  4s.
+Edited  by  S.  J.  Owen,  M.A.,  formerly  Professor  of  History  in  the  Elphinstone  College,  Bombay.     1877.  8vo.  cloth,  \l.  4s.
 
 A  Selection  from  the  Wellington  Despatches.  By  the  same
 Editor.     In  the  Press.
@@ -29923,11 +27961,9 @@ Lincoln's  Inn,  Barrister-at-Law.  Second  Edition.  1876.  Crown  8vo.
 cloth,  75.  6d.
 
 The  Elements  of  Jurisprudence.  By  Thomas  Erskine
-Holland,  D.C.L.,  Chichele  Professor  of  International  Law  and  Diplo-
-macy, and  Fellow  of  All  Souls  College,  Oxford.     Just  ready.
+Holland,  D.C.L.,  Chichele  Professor  of  International  Law  and  Diplomacy, and  Fellow  of  All  Souls  College,  Oxford.     Just  ready.
 
-The  Institutes  of  Justinian,  edited  as  a  recension  of  the  Insti-
-tutes of  Gains.  By  the  same  Editor.   1873.  Extra  fcap.  Svo.  cloth,  5s.
+The  Institutes  of  Justinian,  edited  as  a  recension  of  the  Institutes of  Gains.  By  the  same  Editor.   1873.  Extra  fcap.  Svo.  cloth,  5s.
 
 Alberici  Gentilis,  I.  C.  D.,  I.  C.  Professoris  Regii,  De  lure  Belli
 Libri  Tres.  Edidit  Thomas  Erskine  Holland  I.  C.  D.,  luris  Gentium
@@ -29936,13 +27972,11 @@ Perusin.  luris  Professor  Honorarius.   1877.  Small  ^.io.  half  morocco,  2
 
 Gaii  Institutionum  Juris  Civilis  Commentarii  Quatuor;
 
-or.  Elements  of  Roman  Law  by  Gaius.  With  a  Translation  and  Com-
-mentary by  Edward  Poste,  M.A.,  Barrister-at-Law,  and  Fellow  of  Oriel
+or.  Elements  of  Roman  Law  by  Gaius.  With  a  Translation  and  Commentary by  Edward  Poste,  M.A.,  Barrister-at-Law,  and  Fellow  of  Oriel
 College,  Oxford.     Second  Edition.     1875.    8yo.  cloth,  l8s.
 
 Select  Titles  from  the  Digest  of  Justinian.  By  T.  E.
-Holland,  D.C.L.,  Chichele  Professor  of  International  Law  and  Diplo-
-macy, and  Fellow  of  All  Souls'  College,  Oxford,  and  C.  L.  Shadwell,
+Holland,  D.C.L.,  Chichele  Professor  of  International  Law  and  Diplomacy, and  Fellow  of  All  Souls'  College,  Oxford,  and  C.  L.  Shadwell,
 B.C.L.,  Fellow  of  Oriel  College,  Oxford.     In  Parts.
 
 Part  I.      Introductory  Titles.     Svo.  sewed,  2s.  6d.
@@ -29959,9 +27993,6 @@ of  All  Souls  College,  Oxford.     1879.    down  Svo.  cloth,  gs.
 
 A  Treatise  on  International  Law.  By  W.  E.  Hall,  M.A.,
 University  College,  Oxford.     In  the  Press.
-
-
-Clarendon  Press,  Oxford.  35
 
 
 X.    MENTAL   AND    MORAL    PHILOSOPHY.
@@ -29988,16 +28019,14 @@ A  Manual  of  Political  Economy,  for  the  use  of  Schools.  By
 J.  E.  Thorold  Rogers,  M.A.,  formerly  Professor  of  Political  Economy,
 Oxford.     Third  Edition.     Extra  fcap.  8vo.  cloth,  4s.  6d.
 
-An  Introduction  to  the  Principles  of  Morals  and  Legisla-
-tion.  By  Jeremy  Bentham.    Crown  8vo.  cloth,  6s.  6d.
+An  Introduction  to  the  Principles  of  Morals  and  Legislation.  By  Jeremy  Bentham.    Crown  8vo.  cloth,  6s.  6d.
 
 XI.  ABT,  &c.
 
 A  Handbook  of  Pictorial  Art.     By  R.  St.  J.  Tyrwhitt,  M.A.,
 
 formerly  Student  and  Tutor  of  Christ  Church,  Oxford.  With  coloured
-Illustrations,  Photographs,  and  a  chapter  on  Perspective  by  A.  Mac-
-donald.     Second  Edition.     1875.  8vo.  half  morocco,  1 8s.
+Illustrations,  Photographs,  and  a  chapter  on  Perspective  by  A.  Macdonald.     Second  Edition.     1875.  8vo.  half  morocco,  1 8s.
 
 A  Music  Primer  for  Schools.  By  J.  Troutbeck,  M.A.,  Alusic
 Master  in  Westminster  School,  and  R.  F.  Dale,  M.A.,  B.  Mus.,  Assistant
@@ -30040,13 +28069,11 @@ Tasso.  La  Gerusalemme  Liberata.  Cantos  i,  ii.  With
 Introduction  and  Notes.  By  the  same  Editor.  Extra  fcap.  8vo.
 doth,  2s.  6d.
 
-An  Icelandic  Prose  Reader,  with  Notes,  Grammar,  and  Glos-
-sary by  Dr.  Gudbrand  Vigfusson  and  F.  York  Powell,  M.A.  1879.
+An  Icelandic  Prose  Reader,  with  Notes,  Grammar,  and  Glossary by  Dr.  Gudbrand  Vigfusson  and  F.  York  Powell,  M.A.  1879.
 Extra  fcap.  8vo.  cloth,  los.  6d.
 
 The  Book  of  Tobit.  A  Chaldee  Text,  from  a  unique  MS.  in
-the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Trans-
-lations, and  the  Itala.  Edited  by  Ad.  Neubauer,  M.A.  1878.  Crown
+the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Translations, and  the  Itala.  Edited  by  Ad.  Neubauer,  M.A.  1878.  Crown
 8vo.  cloth,  6s.
 
 Outlines  of  Textual  Criticism  applied  to  the  New  Testament.

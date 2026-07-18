@@ -9,22 +9,18 @@ a
 TRUBNER’S ORIENTAL SERIES.
 
 
-**A knowledge of the commonplace, at least, of Oriental literature, philo-
-sophy, and religion is as necessary to the general reader of the present day
+**A knowledge of the commonplace, at least, of Oriental literature, philosophy, and religion is as necessary to the general reader of the present day
 as an acquaintance with the Latin and Greek classics was a generation or so
 ago. Immense strides have been made within the present century in these
 branches of learning; Sanskrit has been brought within the range of accurate
 philology, and its invaluable ancient literature thoroughly investigated ; the
 language and sacred books of the Zoroastrians have been laid bare; Egyptian,
 Assyrian, and other records of the remote past have been deciphered, and a
-group of scholars speak of still more recondite Accadian and Hittite monu-
-ments ; but the results of all the scholarship that has been devoted to these
-subjects have been almost inaccessible to the public because they were con-
-tained for the most part in learned or expensive works, or scattered through-
+group of scholars speak of still more recondite Accadian and Hittite monuments ; but the results of all the scholarship that has been devoted to these
+subjects have been almost inaccessible to the public because they were contained for the most part in learned or expensive works, or scattered through-
 out the numbers of scientific periodicals. Messrs. TRUBNER & Co,, in aspirit
 of enterprise which does them infinite credit, have determined to supply the
-constantly-increasing want, and to give in a popular, or, at least, a compre-
-hensive form, all this mass of knowledge to the world.” —Z'imes.
+constantly-increasing want, and to give in a popular, or, at least, a comprehensive form, all this mass of knowledge to the world.” —Z'imes.
 
 
 NEARLY READY,
@@ -91,8 +87,7 @@ account of the Zoroastrian religion, but the design was frustrated by his untime
 death. We have, however, in a concise and readable form, a history of the researches
 into, the sacred writings and religion of the Parsis from the earliest times down to
 the present—a dissertation on the lanewages of the Parsi Scriptures, a translation
-of the Zend-Avesta, or the Scripture of the Parsis, and a dissertation on the Zoroas-
-trian religion, with especial reference to its origin and development.” —Times.
+of the Zend-Avesta, or the Scripture of the Parsis, and a dissertation on the Zoroastrian religion, with especial reference to its origin and development.” —Times.
 
 
 Post 8vo, cloth, pp. viii—176, price 7s. 6d.
@@ -112,13 +107,10 @@ University College, London.
 The Dhammapada, as hitherto known by the Pali Text Edition, as edited
 by Fausbéll, by Max Miiller’s English, and Albrecht Weber’s German
 translations, consists only of twenty-six chapters or sections, whilst the
-Chinese version, or rather recension, as now translated by Mr. Beal, con-
-sists of thirty-nine sections. The students of Pali who possess Fausbéll’s
+Chinese version, or rather recension, as now translated by Mr. Beal, consists of thirty-nine sections. The students of Pali who possess Fausbéll’s
 text, or either of the above-named translations, will therefore needs want
-Mr. Beal’s English rendering of the Chinese version; the thirteen above-
-named additional sections not being accessible to them in any other form ;
-for, even if they understand Chinese, the Chinese original would be un-
-obtainable by them.
+Mr. Beal’s English rendering of the Chinese version; the thirteen abovenamed additional sections not being accessible to them in any other form ;
+for, even if they understand Chinese, the Chinese original would be unobtainable by them.
 
 
 ‘‘Mr. Beal’s rendering of the Chinese translation is a most valuable aid to the
@@ -131,11 +123,9 @@ employed was principally parable, and the simplicity of the tales and the excell
 of the morals inculcated, as well as the strange hold which they have retained upon
 the minds of millions of people, make them a very remarkable study.” —Times.
 
-“Mr. Beal, by making it accessible in an English dress, has added to the great ser-
-vices he has already rendered to the comparative study of religious history.”—Acodemy.
+“Mr. Beal, by making it accessible in an English dress, has added to the great services he has already rendered to the comparative study of religious history.”—Acodemy.
 
-“Valuable as exhibiting the doctrine of the Buddhists in its purest, least adul-
-terated form, it brings the modern reader face to face with that simple creed and rule
+“Valuable as exhibiting the doctrine of the Buddhists in its purest, least adulterated form, it brings the modern reader face to face with that simple creed and rule
 of conduct which won its way over the minds of myriads, and which is now nominally
 professed by 145 millions, who have overlaid its austere simplicity with innumerable
 ceremonies, forgotten its maxims, perverted its teaching, and so inverted its leading
@@ -160,8 +150,7 @@ Translated from the Second German Edition by Joun Mann, M.A., and
 THEODOR ZACHARIAE, Ph.D., with the sanction of the Author.
 
 
-Dr. BunwER, Inspector of Schools in India, writes: —‘‘ When I was Pro-
-fessor of Oriental Languages in Elphinstone College, I frequently felt the
+Dr. BunwER, Inspector of Schools in India, writes: —‘‘ When I was Professor of Oriental Languages in Elphinstone College, I frequently felt the
 want of such a work to which I could refer the students.”
 
 Professor CowELL, of Cambridge, writes :—‘‘ It will be especially useful
@@ -288,8 +277,7 @@ by way of comment, and prefixing an introduction.”—TZimes.
 
 ““Mr. Poole is both a generous and a learned biographer. . . . Mr. Poole tells us
 the facts . . . so far as it is possible for industry and criticism to ascertain them,
-and for literary skill to present them in a condensed and readable form.”—English-
-man, Calcutta,
+and for literary skill to present them in a condensed and readable form.”—Englishman, Calcutta,
 
 
 Post Bxb, pp- ae nee cloth, price 14s.
@@ -312,8 +300,7 @@ passages in the previous editions as appeared to him to be just, and he has
 enlarged the work by more than a hundred pages of additional matter.
 
 “In this volume we have the thoughtful impressions of a thoughtful man on some
-of the most important questions connected with our Indian Empire. . . . An en-
-lightened observant man, travelling among an enlightened observant people, Professor
+of the most important questions connected with our Indian Empire. . . . An enlightened observant man, travelling among an enlightened observant people, Professor
 Monier Williams has brought before the public in a pleasant form more of the manners
 and customs of the Queen’s Indian subjects than we ever remember to have seen in
 any one work. He not only deserves the thanks of every Englishman for this able
@@ -368,11 +355,9 @@ Part II. Grammar.—Part LUI. Their Origin, Location, Numbers, Creed, Customs,
 Character, and Condition, with a General Description of the Climate they dwell in.
 —Appendix.
 
-Section I1.—On Himalayan Ethnology.—I. Comparative Vocabulary of the Lan-
-guages of the Broken Tribes of Népal.—II. Vocabulary of the Dialects of the Kiranti
+Section I1.—On Himalayan Ethnology.—I. Comparative Vocabulary of the Languages of the Broken Tribes of Népal.—II. Vocabulary of the Dialects of the Kiranti
 Language.—III. Grammatical Analysis of the Vayu Language, The Vayu Grammar,
-—IV. Analysis of the Bahing Dialect of the Kiranti Language. The Béhing Gram-
-mar.—V, On the Vayu or Hayu Tribe of the Central Himaldya,—VI. On the Kiranti
+—IV. Analysis of the Bahing Dialect of the Kiranti Language. The Béhing Grammar.—V, On the Vayu or Hayu Tribe of the Central Himaldya,—VI. On the Kiranti
 Tribe of the Central Himaldya.
 
 
@@ -385,18 +370,15 @@ Section IV.—Aborigines of the North-Eastern Frontier.
 
 Section V.—Aborigines of the Eastern Frontier.
 
-Srcrion VI.—The Indo-Chinese Borderers, and their connection with the Hima-
-layans and Tibetans. Comparative Vocabulary of Indo-Chinese Borderers in Arakan.
+Srcrion VI.—The Indo-Chinese Borderers, and their connection with the Himalayans and Tibetans. Comparative Vocabulary of Indo-Chinese Borderers in Arakan.
 Comparative Vocabulary of Indo-Chinese Borderers in Tenasserim.
 
-Srcrton VII.—The Mongolian Affinities of the Caucasians.—Comparison and Ana-
-lysis of Caucasian and Mongolian Words.
+Srcrton VII.—The Mongolian Affinities of the Caucasians.—Comparison and Analysis of Caucasian and Mongolian Words.
 
 Section VIII.—Physical Type of Tibetans.
 
 Srcrion IX.—The Aborigines of Central India.—Comparative Vocabulary of the
-Aboriginal Languages of Central India.—Aborigines of the Eastern Ghats.—Vocabu-
-lary of some of the Dialects of the Hill and Wandering Tribes in the Northern Sircars.
+Aboriginal Languages of Central India.—Aborigines of the Eastern Ghats.—Vocabulary of some of the Dialects of the Hill and Wandering Tribes in the Northern Sircars.
 —Aborizines of the Nilgiris, with Remarks on their Affinities—Supplement to the
 Nilgirian Vocabularies.—Lhe Aborigines of Southern India and Ceylon.
 
@@ -415,8 +397,7 @@ Népilese.
 Section XIV.—Pre-eminence of the Vernaculars; or, the Anglicists Answered ;
 Being Letters on the Education of the People of India.
 
-“For the study of the less-known races of India Mr. Brian Hodgson’s “ Miscellane-
-ous Essays” will be found yery valuable both to the philologist and the ethnologist.”
+“For the study of the less-known races of India Mr. Brian Hodgson’s “ Miscellaneous Essays” will be found yery valuable both to the philologist and the ethnologist.”
 —Times, , a
 
 
@@ -441,14 +422,12 @@ By THE Ricut Rev. P. BIGANDET,
 Bishop of Ramatha, Vicar-Apostolic of Ava and Pegu.
 
 
-The work is furnished with copious notes, which not only illustrate the subject-
-matter, but form a perfect encyclopedia of Buddhist lore.” — Times.
+The work is furnished with copious notes, which not only illustrate the subjectmatter, but form a perfect encyclopedia of Buddhist lore.” — Times.
 
 ‘* A work which will furnish European students of Buddhism with a most valuable
 help in the prosecution of their investigations.”—Edinburgh Daily Review.
 
-“‘Bishop Bigandet’s invaluable work, . . . and no work founded—rather trans-
-lated—from original sources presents to the Western student a more faithful picture
+“‘Bishop Bigandet’s invaluable work, . . . and no work founded—rather translated—from original sources presents to the Western student a more faithful picture
 than that of Bishop Bigandet.”—IJndian Antiquary.
 
 “Viewed in this light, its importance is sufficient to place students of the subject
@@ -641,8 +620,7 @@ Talmud is a boon to Christians at least.” — Times.
 
 
 “This is a new volume of the ‘Oriental Series,’ and its peculiar and popular
-character will make it attractive to general readers. Mr. Hershon is a very com-
-petent scholar. . . . The present selection contains samples of the good, bad, and
+character will make it attractive to general readers. Mr. Hershon is a very competent scholar. . . . The present selection contains samples of the good, bad, and
 indifferent, and especially extracts that throw light upon the Scriptures. The
 extracts have been all derived, word for word, and made at first hand, and references
 are carefully given.”—British Quarterly Review.
@@ -670,8 +648,7 @@ extract is given in its pages but throws some light, direct or refracted, upon t
 Scriptures which are the common heritage of Jew and Christian alike.”—John Bull.
 
 “ His acquaintance with the Talmud, &c., is seen on every page of his book. . . .
-It is a capital specimen of Hebrew scholarship ; a monument of learned, loving, light-
-giving labour.”—Jewish Herald.
+It is a capital specimen of Hebrew scholarship ; a monument of learned, loving, lightgiving labour.”—Jewish Herald.
 
 
 Post 8vo, pp. xii.—228, cloth, price 7s. 6d.
@@ -826,8 +803,7 @@ of language contained in these mighty epics.” —Daily Telegraph.
 air seems laden with the spicy odours of the tropics, and the verse has a richness and
 a melody sufficient to captivate the senses of the dullest.”—Standard.
 
-“The translator, while producing a very enjoyable poem, has adhered with toler-
-able fidelity to the original text.”—Overland Mail.
+“The translator, while producing a very enjoyable poem, has adhered with tolerable fidelity to the original text.”—Overland Mail.
 
 “We certainly wish Mr. Arnold success in his attempt ‘to popularise Indian
 classics,’ that being, as his preface tells us, the goal towards which he bends his
@@ -835,9 +811,6 @@ efforts.” —Allen’s Indian Mail.
 
 
 Post 8vo, pp. viii.—152, cloth, price 6s.
-
-
-HINDU PHILOSOPHY.
 
 
 Tue SANKHYA KARIKA or IS’'WARA KRISHNA.
@@ -853,8 +826,7 @@ By JOHN DAVIES, M.A. (Cantab.), M.R.A.S.
 The system of Kapila is the earliest attempt on record to give an answer
 from reason alone to the mysterious questions which arise in every thoughtful
 mind about the origin of the world, the nature and relations of man and his
-future destiny. It contains nearly all that India has produced in the depart-
-ment of pure philosophy. Other systems, though classed as philosophic,
+future destiny. It contains nearly all that India has produced in the department of pure philosophy. Other systems, though classed as philosophic,
 are mainly devoted to logic and physical science, or to an exposition of the
 Vedas.
 
@@ -1023,9 +995,6 @@ PALLANTYNE, HANSON AND CO. —
 EDINBURGH AND LONDON |
 
 
-HINDU PHILOSOPHY.
-
-
 THE SANKHYA KARIKA OF
 ISWARA KRISHNA.
 
@@ -1066,7 +1035,6 @@ ye
 
 .
 
-4
 —
 . a
 ia
@@ -1110,8 +1078,7 @@ thoughtful mind about the origin of the world, the nature
 and relations of man, and his future destiny. It is
 interesting, also, and instructive to note how often the
 human mind moves in a circle. The latest German
-philosophy, the system of Schopenhauer and Von Hart-
-mann, is mainly a reproduction of the philosophic system
+philosophy, the system of Schopenhauer and Von Hartmann, is mainly a reproduction of the philosophic system
 of Kapila in its materialistic part, presented in a more
 elaborate form, but on the same fundamental lines. In
 
@@ -1124,8 +1091,7 @@ ground that it occupied more than two thousand y:
 ago, but on a more important question it has es
 step in retreat. Kapila recognised fully the existence of
 a soul in man, forming indeed his proper nature—the
-absolute Ego of Fichte—distinct from matter and im-
-mortal; but our latest philosophy, both here and in Ger-
+absolute Ego of Fichte—distinct from matter and immortal; but our latest philosophy, both here and in Ger-
 many, can see in man only a highly developed physical
 organisation. “All external things,” says Kapila, “were
 formed that the soul might know itself and be free.”
@@ -1174,24 +1140,6 @@ THAT OF SCHOPENHAUER AND VON HARTMANN .
 PAGE
 
 
-119
-
-
-133
-
-
-135
-
-
-139
-
-
-143
-
-
-HINDU PHILOSOPHY.
-
-
 IPA TS US UE.
 
 
@@ -1212,15 +1160,13 @@ the following order :—
 Vyasa, or Veda Vyasa.
 
 They are called the six Sastras, or writings of autho- {
-tity, and sometimes the six Darganas, views or exposi-
-tions of doctrine.
+tity, and sometimes the six Darganas, views or expositions of doctrine.
 
 The term “philosophy” cannot be strictly applied to
 all these systems.
 
 The Nyaya is properly a system of logic, offering
-many points of resemblance to the methods of Aris-
-totle.
+many points of resemblance to the methods of Aristotle.
 
 The Vaiseshika treats of physics, of the categories
 
@@ -1229,11 +1175,7 @@ or general attributes of things, and of the formation of
 A
 
 
-2 HINDU PHILOSOPHY.
-
-
-the kosmos, which it attributes to the qualities and move-
-ments of primitive atoms.
+the kosmos, which it attributes to the qualities and movements of primitive atoms.
 
 The Mimansa and Vedanta systems are nearly related
 to each other.
@@ -1241,8 +1183,7 @@ to each other.
 The Mimansa, or Piirva (Prior) Mimansa, arose from
 a desire to maintain and illustrate the Vedas. Its object
 was to support the supreme authority of these books,
-to maintain their ritual, and to determine the true mean-
-ing of such passages as had been misunderstood, or wrested
+to maintain their ritual, and to determine the true meaning of such passages as had been misunderstood, or wrested
 in support of error.
 
 The Vedanta, or Uttara (Posterior) Mimansa, as it is
@@ -1297,10 +1238,8 @@ incarnation of Vishnu,? or a form of Agni, though
 born as a son of Vitatha and Devahuti;* one of the
 great rishis or ancient sages; a descendant of the
 great lawgiver Manu; and to have been endowed with
-knowledge, virtue, freedom from passion, and super-
-natural power at the time of his birth. We can only
-say that he was probably a Brahman, who, being dis-
-gusted with the prevailing beliefs and practices of his
+knowledge, virtue, freedom from passion, and supernatural power at the time of his birth. We can only
+say that he was probably a Brahman, who, being disgusted with the prevailing beliefs and practices of his
 time, wrought out for himself a system by which he
 hoped to solve the mysteries connected with spirit and
 
@@ -1309,8 +1248,7 @@ hoped to solve the mysteries connected with spirit and
 on the §. Karika, Wilson’s ed., p.
 1. ; Colebrooke, ii. 242.
 
-2 “Tn his (Vishnu’s) fifth mani-
-festation, he (in the form of) Kapila
+2 “Tn his (Vishnu’s) fifth manifestation, he (in the form of) Kapila
 and Lord of Saints, declared to
 Asuri the Sankhya (doctrine), which
 defines the series of principles, and
@@ -1327,13 +1265,9 @@ sisters, all born to Kardama by his
 wife Devahuti (ii. 7, 3 ; iii. 33, 1).
 
 
-6 HINDU PHILOSOPHY.
-
-
 matter by reason alone. His memory survives only in
 his system; for of the details of his life or of the time
-when he lived we have no certain account. It is pro-
-bable that he lived in the seventh or eighth century
+when he lived we have no certain account. It is probable that he lived in the seventh or eighth century
 before Christ. He is said to have been born at Pushkara,
 a sacred bathing-place near Ajmeer, and to have dwelt
 at Ganga Sagar;+ but there is no reliable evidence in
@@ -1349,12 +1283,10 @@ that it was near the Himalaya mountains (i. 20). An
 indefinite antiquity was sometimes assigned to the
 system. In the first book of the Mahabharata, Narada
 is said to have taught the thousand sons of Daksha
-the doctrine of final deliverance (from matter), the sur-
-passing knowledge of the Sankhya,? and he is reckoned
+the doctrine of final deliverance (from matter), the surpassing knowledge of the Sankhya,? and he is reckoned
 as one of the Prajapatis, or first progenitors of mankind.
 Tradition affirms that Kapila lived as a recluse—he
-is called a Muni in Bhag. G., x. 1. 52—and that he pos-
-sessed a supernatural power, not always used with
+is called a Muni in Bhag. G., x. 1. 52—and that he possessed a supernatural power, not always used with
 philosophic calmness. In the Ramayana (i. 36-44) we
 are told, with true Oriental exaggeration, that the sixty
 thousand sons of Sagara, a king of Ayodhya (Oude),
@@ -1366,18 +1298,12 @@ Indraprastha (F. Hall, Introduction to 8. Sara, p. 20).
 2 Adi-parvan, 3131; Sans. Texts, i. 125.
 
 
-HINDU PHILOSOPHY. 7
-
-
-that had been stolen by a Rakshasa (demon) at an aswa-
-medha (horse-sacrifice). Meeting with Kapila in their
+that had been stolen by a Rakshasa (demon) at an aswamedha (horse-sacrifice). Meeting with Kapila in their
 search, they accused him of the theft, and the charge so
 enraged him that he reduced them immediately to ashes.
 
-It does not appear that Kapila separated himself en-
-tirely from the Brahmanic system. It has been said
-that he “proclaimed the authority of revelation as para-
-mount to reasoning and experience.”2 This, however,
+It does not appear that Kapila separated himself entirely from the Brahmanic system. It has been said
+that he “proclaimed the authority of revelation as paramount to reasoning and experience.”2 This, however,
 is contrary to the main principle of his system, which
 upholds a knowledge of philosophy as the only way
 of obtaining the deliverance of the soul from matter.
@@ -1387,12 +1313,10 @@ insufficient for the attainment of this great purpose. He
 allows “valid testimony” to be one method of proof;
 and his Vedantist expounders have interpreted this to
 be an acknowledgment of the divine origin and authority
-of the Vedas, but there is no ground for such a state-
-ment. The common designation of his system as Niris-
+of the Vedas, but there is no ground for such a statement. The common designation of his system as Niris-
 wara (godless or atheistical) is a sufficient indication
 that it did not acknowledge a Supreme Lord or a divine
-revelation. The eminent Vedantist commentator, San-
-kara, rightly estimated the position of the Sankhya
+revelation. The eminent Vedantist commentator, Sankara, rightly estimated the position of the Sankhya
 system with regard to the Vedas. In his commentary
 on the Brahma Sutras he discusses this subject, and
 concludes: “Hence it is proved that Kapila’s system
@@ -1410,17 +1334,13 @@ destroyed the sons of Sagara (Com-
 L
 
 
-8 HINDU PHILOSOPHY.
-
-
 diversity of souls” (Sans. T., iii, 190). The system of
 Kapila, if it had been generally adopted, would have
 been as fatal to the Vedantist ritual and doctrine as
 that of Gautama Buddha, which was the natural
 result or logical issue of the earlier system. In each,
 knowledge and meditation took the place of religious
-rites; but Kapila established no society and no _ hier-
-archy ; he knew nothing of sympathy with mankind in
+rites; but Kapila established no society and no _ hierarchy ; he knew nothing of sympathy with mankind in
 general; he addressed himself to thinkers like himself,
 and to these alone. Hence his system remained only
 as a philosophical theory, affecting the whole course of
@@ -1438,8 +1358,7 @@ is represented in it as holding a kind of royal supremacy,
 and all material things are subservient to it. Another
 writer states, on the contrary, that in this system “ souls
 alone are regarded as substances, whatever affects the
-soul being ranged under the head of a quality: 1. pleas-
-ing; 2. displeasing; or 3. indifferent.” The Gunas, how-
+soul being ranged under the head of a quality: 1. pleasing; 2. displeasing; or 3. indifferent.” The Gunas, how-
 ever, are not qualities, but constituent elements, of
 Prakriti, as real in their nature as the soul, and having
 like it an eternal existence.t
@@ -1447,11 +1366,7 @@ like it an eternal existence.t
 
 1 The Sankhya philosophy, what- Schliiter in describing it says, “ Das
 ever may be its merits or demerits, Selbstbewusstsein (Ahankara) ist
-is rarely presented in a correct erzeugt und nicht zeugend” (Aris-
-form by Western writers. Professor totle’s Metaph. eine Toch. de San-
-
-
-HINDU PHILOSOPHY. 9
+is rarely presented in a correct erzeugt und nicht zeugend” (Arisform by Western writers. Professor totle’s Metaph. eine Toch. de San-
 
 
 The term sdénkhya is from the noun sankhyd, number,
@@ -1462,8 +1377,7 @@ is said: “ They (the Sankhyans) exercise reason (sankhyd)
 commentary, explains the noun sankhyd as meaning
 “ discrimination,” “the setting forth of spirit as distinct
 from matter (Prakriti).” Sankara Acharya gives a similar
-interpretation (Comm. on the Vishnu-sahasra-naman ; In-
-trod. to Sankhya Sara, by F. Hall). The course of ideas
+interpretation (Comm. on the Vishnu-sahasra-naman ; Introd. to Sankhya Sara, by F. Hall). The course of ideas
 seems to be from number to discrimination, and then to a
 discriminating judgment, a result of reasoning.
 
@@ -1473,16 +1387,14 @@ commentaries have been written.
 
 1. The Sankhya-Pravachana (Exposition of the Sankhya),
 or Sankhya Stitras, a work which has been attributed,
-but erroneously, to Kapila. It appears to be compara-
-tively modern, for it is not mentioned by Sankara
+but erroneously, to Kapila. It appears to be comparatively modern, for it is not mentioned by Sankara
 Acharya, who lived probably in the seventh or eighth
 century A.D.; by Vachaspati Misra; or even by the author
 of the Sarva-dargana-sangraha, who is supposed to have
 
 
 lived in the fourteenth century The most important
-commentary on this work is the Sankhya-pravachana-
-bhashya, by Vijnina Bhikshu, probably written in the
+commentary on this work is the Sankhya-pravachanabhashya, by Vijnina Bhikshu, probably written in the
 sixteenth century.
 
 2. The Tattwa-Samasa, or Compendium of Principles,
@@ -1499,9 +1411,6 @@ contrary, from consciousness, or visible, manifold forms of sensuous
 )
 
 
-10 HINDU PHILOSOPHY.
-
-
 3. The Sanrkhya-Sara, written by Vijnana Bhikshu. It
 has been lately edited by Dr. Fitz-Edward Hall, who has
 prefixed to it a valuable introduction.
@@ -1513,8 +1422,7 @@ Kapila’s philosophy that has come down to the present
 time. An edition of this work was published at Bonn
 in 1832 by Professor Lassen, with a Latin translation
 and notes. It was also translated by the late Sir H. T.
-Colebrooke, and this translation was adopted by Pro-
-fessor Wilson in an edition published by the Oriental
+Colebrooke, and this translation was adopted by Professor Wilson in an edition published by the Oriental
 Society, to which the commentary of Gaudapada, with
 explanations, was added. It has also been translated
 into German by Drs. Windischmann and Lorinser, and
@@ -1554,8 +1462,7 @@ that those who follow the footsteps of pioneers in a
 difficult country may be able to make the path somewhat
 more distinct than it was before, without possessing as
 much skill and energy as those who led the way. I
-have adopted Professor Wilson’s translation of Gauda-
-pada’s commentary, except in a few instances, where I
+have adopted Professor Wilson’s translation of Gaudapada’s commentary, except in a few instances, where I
 think he has failed to apprehend its right meaning, or
 the real nature of Kapila’s system, which he admits, in
 his preface, he had not previously studied,
@@ -1598,39 +1505,28 @@ Chandrika), with the translations of
 Colebrooke and others :—
 
 
-du’khatrayabhighatajjijnasa tadapa-
-ghatake héetau
+du’khatrayabhighatajjijnasa tadapaghatake héetau
 
-drishtésaparthachennaikantatyanta-
-to’ bhavat.
+drishtésaparthachennaikantatyantato’ bhavat.
 
 
 Colebrooke:—“ The inquiry is into
 the means of precluding the three
-sorts of pain, for pain is embarrass-
-ment. Nor is the inquiry super-
+sorts of pain, for pain is embarrassment. Nor is the inquiry super-
 fluous because obvious means of
 alleviation exist, for absolute and
-final relief is not thereby accom-
-plished.”
+final relief is not thereby accomplished.”
 
 
-1
-
-
-Lassen:—“ E tergeminorum dolo-
-rum impetu (oritur) desiderium cog-
+Lassen:—“ E tergeminorum dolorum impetu (oritur) desiderium cog-
 noscendz rationis qué ii depellantur.
 Quod (cognoscendi desiderium) licet
-in visibilibus rebus infructuose ver-
-setur, non est (infructuosum) propter
+in visibilibus rebus infructuose versetur, non est (infructuosum) propter
 absentiam absoluti et omni «vo
 superstitis (remedii).”
 
-St. Hilaire: —“ La philosophie con-
-siste & guérir les trois espéces de
-douleurs. Si l’on pretend qu’il ex-
-iste des moyens materiels de les
+St. Hilaire: —“ La philosophie consiste & guérir les trois espéces de
+douleurs. Si l’on pretend qu’il existe des moyens materiels de les
 guérir, et que, par consequent, la
 philosophie est inutile, on se trompe,
 car il n’est pas un seul de ces moyens
@@ -1642,15 +1538,11 @@ threefold pain there arises a desire
 to learn the means of doing away
 
 
-14 HINDU PHILOSOPHY.
-
-
 The first distich gives the chief, if not the sole, purpose
 It is to relieve mankind from
 the suffering of pain. It is founded on the gloomy view
 of human life which is generally accepted by Hindu
-writers. They assert an absolute pessimism. Our pre-
-sent life is not a blessing ; it is only a wearisome burden,
+writers. They assert an absolute pessimism. Our present life is not a blessing ; it is only a wearisome burden,
 
 
 of Kapila’s philosophy.
@@ -1658,8 +1550,7 @@ of Kapila’s philosophy.
 
 which is finally cast off when the soul has become free
 from all contact with matter. The soul then gains,
-according to Kapila, an absolute independence, a self-
-existence, which is not affected by any subsequent
+according to Kapila, an absolute independence, a selfexistence, which is not affected by any subsequent
 changes in the outer material world; or it is absorbed,
 according to the theistic system of Patanjali, into the
 
@@ -1700,16 +1591,12 @@ Gaudapada interprets it, may be either divine or at-
 mospheric; “in the latter
 
 
-therewith effectually. If it be ob-
-jected, that visible means to this end
-being available, such desire is need-
-less, I demur; for that these means
+therewith effectually. If it be objected, that visible means to this end
+being available, such desire is needless, I demur; for that these means
 do not entirely and for ever work
-immunity from discomposure” (In-
-trod. to S. Sara, p. 26).
+immunity from discomposure” (Introd. to S. Sara, p. 26).
 Colebrooke’s version of the first
-part of the distich is not very accu-
-rate, and abhighdta is not “ embar-
+part of the distich is not very accurate, and abhighdta is not “ embar-
 rassment,” though Professor Wilson
 
 
@@ -1721,15 +1608,10 @@ Lassen for translating it by the Latin
 impetus. It is composed of abhi=
 Gr. audi, and han, for ghan, to strike,
 to slay. In the Peters. Dict. it is
-explained as schlag, angriff, beschadi-
-gung. Lassen was confessedly mis-
+explained as schlag, angriff, beschadigung. Lassen was confessedly mis-
 taken in his version of the second
-part. Dr. Hall’s is the truest ver-
-sion, but abhighdta is much more
+part. Dr. Hall’s is the truest version, but abhighdta is much more
 than “ discomposure,”
-
-
-HINDU PHILOSOPHY. 15
 
 
 proceeds from cold, heat, wind, rain, thunderbolts,
@@ -1739,8 +1621,7 @@ is “ from the influence of the planetary bodies, or by being
 possessed by impure spirits, such as Yakshas, Rakshasas,
 &e.” But, in old time, the gods of a higher class, and
 not demons merely, were supposed to afflict men with
-disease and pain. In the Rig-Veda (ii. 33, 7), Gritsa-
-mada prays to Rudra that he may be freed from his
+disease and pain. In the Rig-Veda (ii. 33, 7), Gritsamada prays to Rudra that he may be freed from his
 bodily pains, which he affirms to have been sent by the
 Devas or gods (daivya).t
 
@@ -1752,16 +1633,14 @@ condition of its perfect deliverance from pain.
 
 
 2. “The revealed (means) are like the visible
-(z.e., inefficient), for they are connected with im-
-purity, destruction, and excess. A contrary method
+(z.e., inefficient), for they are connected with impurity, destruction, and excess. A contrary method
 is better, and this consists in a discriminative
 knowledge of the Manifested (forms of matter), the
 Unmanifested (Prakriti or primeval matter), and
 the knowing (Soul).”
 
 
-By “revelation” the Vedas are meant, which were sup-
-posed to have been heard by wise men (rishis) as a
+By “revelation” the Vedas are meant, which were supposed to have been heard by wise men (rishis) as a
 divine communication, and hence were called Sruti
 
 1 “QO Rudra, who bearest away One! to me.” So Apollo sent the
@@ -1771,14 +1650,10 @@ the disease (rapas) sent by the plague into the camp of the Greeks
 (other) gods, be gracious, O mighty (lliad, i. 42).
 
 
-16 HINDU PHILOSOPHY.
-
-
 (hearing.)! In the judgment of Kapila the Vedic system
 was not perfectly efficient; for (1.) it was impure. It
 required sacrifice, and thus the blood of animals was
-shed, often to a great extent. In the ASwamedha (horse-
-sacrifice) more than a hundred horses might be sacrificed
+shed, often to a great extent. In the ASwamedha (horsesacrifice) more than a hundred horses might be sacrificed
 at one time. According to the Brahmans, this would
 avail “to expiate all sin, even the murder of a Brahman,’?
 and would confer supernatural power; but to Kapila all
@@ -1793,8 +1668,7 @@ less than is due to his individual merit. The Vedas say
 indeed that there is “no return (to bodily life) for one
 who has attained to the state of Brahmi;” but in the
 school of Kapila this blessedness is reserved for those
-who may attain in the heaven of Brahma to a discrimi-
-nating knowledge of soul and matter.®
+who may attain in the heaven of Brahma to a discriminating knowledge of soul and matter.®
 
 This is the leading principle of Kapila’s system. The
 ) complete and final blessedness of the soul, which consists
@@ -1813,9 +1687,6 @@ trary to the Mimansa or Vedantist 3 Sank. Prav., i. 83, 843; vi. 58.
 
 
 Maa
-
-
-HINDU PHILOSOPHY. 17
 
 
 this treats of existence in three forms—(1.) Manifested
@@ -1891,11 +1762,7 @@ Physiology of;Mind, 3d ed., p. 38).
 B
 
 
-18 HINDU PHILOSOPHY.
-
-
-of the subtlest form of matter. In the system of Ka-
-pila, everything connected in function with sensuous
+of the subtlest form of matter. In the system of Kapila, everything connected in function with sensuous
 objects is as material as the objects themselves, being
 equally an emanation from Prakriti. The soul exists as
 
@@ -1939,9 +1806,6 @@ consciousness, standing over against
 .
 
 
-HINDU PHILOSOPHY. 19
-
-
 the existence of conscious and unconscious beings was
 made possible, and was finally developed.
 
@@ -1964,30 +1828,23 @@ Both Consciousness and all existing external
 objective reality of our sense-perceptions.®
 
 
-1 “There is room for the supposi-
-tion that even the ultimate particles
+1 “There is room for the supposition that even the ultimate particles
 of matter may be permeable to the
 causes Of attractions of various kinds,
-especially if those causes are im-
-material ; nor is there anything in
+especially if those causes are immaterial ; nor is there anything in
 the unprejudiced study of physical
 philosophy that can induce us to
 doubt the existence of immaterial
 substances ; on the contrary, we see
-analogies which lead us almost di-
-rectly to such an opinion. The elec-
-trical fluid is supposed to be essen-
-tially different from common matter ;
+analogies which lead us almost directly to such an opinion. The elec-
+trical fluid is supposed to be essentially different from common matter ;
 the general medium of light and
-heat, according to some, or the prin-
-ciple of caloric, according to others,
+heat, according to some, or the principle of caloric, according to others,
 is equally distinct from it” (Dr.
 Thomas Young, Unseen Universe,
 p. 160). The authors of this work
-would substitute “not grossly mate-
-rial” for “immaterial,” and “ gross
-matter” for “matter” in the pas-
-sage quoted. They correspond to
+would substitute “not grossly material” for “immaterial,” and “ gross
+matter” for “matter” in the passage quoted. They correspond to
 the tanmdtra and mahabhita of
 Kapila.
 
@@ -2010,10 +1867,8 @@ the Categories, p. 576).
 
 “ After all, what do we know of
 this terrible ‘matter,’ except as a
-name for the unknown and hypo-
-thetical cause of states of our own
-consciousness” (Huxley, Lay Ser-
-mons, p. 142).
+name for the unknown and hypothetical cause of states of our own
+consciousness” (Huxley, Lay Sermons, p. 142).
 
 3 Cf. the Sankhya Sara (i. 41, 42).
 The Vedantist objects that “since
@@ -2021,9 +1876,6 @@ nothing existsexcept thought, neither
 does bondage, for it has no cause.”
 The reply is, ‘ Not thought alone
 exists, because there is the intuition
-
-
-20 HINDU PHILOSOPHY.
 
 
 spect there seems to be in the Hindi theory a germ of
@@ -2057,8 +1909,7 @@ the element called taste.
 
 of the external.’ The objector tator, Vijnina Bhikshu, adds, “ if
 replies, “From the example of in- the external does not exist, then
-tuitive perception in dreams, we find thought does not exist. It is intui-
-this (your supposed evidence of ob- tion that proves the objective, and
+tuitive perception in dreams, we find thought does not exist. It is intuithis (your supposed evidence of ob- tion that proves the objective, and
 jective reality) to exist even in the if the intuition of the external does
 absence of objects.” The rejoinder not establish the objective, then the
 is, “Then if one does not exist, the intuition of thought cannot establish
@@ -2067,27 +1918,21 @@ other does not exist, and there is it (thought).”
 only a void ;” “for,” the commen-
 
 
-HINDU PHILOSOPHY. 21
-
-
 From Consciousness proceed also (6.) the five organs
 of sense (indriya),! which are the eye, the ear, the nose,
 the tongue, and the skin; and (7.) the five organs of
 action; the voice, the hands, the feet, the anus, and the
 organs of generation. Lastly, it produces the manas,?
 which is the receptive and discriminating faculty. It
-receives and individualises the impressions made by out-
-ward objects on the senses. These it submits to Con-
+receives and individualises the impressions made by outward objects on the senses. These it submits to Con-
 sciousness, by which an attribute of personality is given
-to them, and through which they pass on to the Intel-
-lect (Buddhi). By this last faculty the sense-perceptions
+to them, and through which they pass on to the Intellect (Buddhi). By this last faculty the sense-perceptions
 are defined and represented in a full, distinct form. The
 soul beholds these presentations as objects are seen in
 a mirror, and thus has a knowledge of the external
 world. .
 
-ii.) The next object of inquiry (the first in point of ex-
-istence) is the primal source of these material existences,
+ii.) The next object of inquiry (the first in point of existence) is the primal source of these material existences,
 or the Unmanifested (Avyakta).® This is the primordial
 matter, from which all material things have emanated or
 
@@ -2095,8 +1940,7 @@ matter, from which all material things have emanated or
 1 Kapila saw that consciousness
 was the base of the reality of all our
 sense - perceptions, “Soll Etwas
-iiberhaupt etwas Reelles im Gegen-
-satz gegen das blos Hingebildete
+iiberhaupt etwas Reelles im Gegensatz gegen das blos Hingebildete
 bezeichnen, so mus das Ich wohl
 etwas Reelles sein, da es Princip
 aller Realitit ist” (Schelling, System
@@ -2107,8 +1951,7 @@ thus original states of consciousness,
 and exist only in so far as we are
 conscious of them. For example, I
 see and I am conscious that I see.
-These two assertions, logically dis-
-tinct, are really one and inseparable.
+These two assertions, logically distinct, are really one and inseparable.
 Sight is a state of consciousness, and
 I see only in so far as I am conscious
 
@@ -2116,11 +1959,9 @@ I see only in so far as I am conscious
 of seeing” (Dean Mansel’s Letters,
 Lectures, &c., p. 162).
 
-2 «There exists, latent or poten-
-tial, in the sensory centres, some-
+2 «There exists, latent or potential, in the sensory centres, some-
 thing that may be called a faculty,
-which on the occasion of the appro-
-priate impression, renders the sen-
+which on the occasion of the appropriate impression, renders the sen-
 sation clear and definite ; in other
 words, gives the interpretation”
 (Maudsley, p. 237). This is the
@@ -2129,21 +1970,16 @@ manas of Kapila.
 3 “Here let us remind our
 readers of the argument by which
 we were led to conclude that the
-visible system (the Vyakta of Ka-
-pila) is not the whole universe, . . .
+visible system (the Vyakta of Kapila) is not the whole universe, . . .
 and that there must be an invisible
 order of things (Avyakta), which will
-
-
-22 HINDU PHILOSOPHY.
 
 
 have been evolved. It is eternal, universal, single, e.,
 without parts, invisible, and is inferred only by reasoning
 from present, actual existences, which must have a cause.
 It is not produced, but is productive, having within itself
-the potentiality of all being, except soul. The Vedan-
-tists incorporated it in their system, making it the Brahmi,
+the potentiality of all being, except soul. The Vedantists incorporated it in their system, making it the Brahmi,
 or productive energy, of Brahma.
 
 (iii.) The soul, which is uncompounded and eternal,
@@ -2183,36 +2019,25 @@ also p. 158).
 
 is from proof that belief of that
 which is to be proven results,” and
-this version is supported by Pro-
-fessor Wilson, on the ground that
+this version is supported by Professor Wilson, on the ground that
 the Hindti commentators explain the
-word siddhi (accomplishment, per-
-fect knowledge) by pratiti, “trust,”
-“belief ;” but in the Peters-
-burg Dictionary this is explained as
-
-
-HINDU PHILOSOPHY. 23
+word siddhi (accomplishment, perfect knowledge) by pratiti, “trust,”
+“belief ;” but in the Petersburg Dictionary this is explained as
 
 
 5. “ Perception is the application’ (of the senses)
-to special objects of sense. ‘Three kinds of infer-
-ence are declared: it (an inference or logical con-
+to special objects of sense. ‘Three kinds of inference are declared: it (an inference or logical con-
 clusion) is preceded by a liga (mark or sign =
 major premiss) and a ligt (the subject in which
 it inheres = minor premiss). Fit testimony is fit
 revelation (srutz).”
 
-6. “The knowledge of formal or generic exist-
-ence is by perception; of things beyond the senses
+6. “The knowledge of formal or generic existence is by perception; of things beyond the senses
 by inference; that which cannot be determined by
 this (method) and cannot be perceived must be
 
 
 determined by fitting means.
-
-
-2
 
 
 Perception results from the action of any of the
@@ -2228,19 +2053,15 @@ Sangraha, p. 30).
 The Nyaya or Logical school admits four kinds of
 
 
-meaning: (1.) a drawing near (hin-
-zatreten, nahen) ; (2.) a clear insight
+meaning: (1.) a drawing near (hinzatreten, nahen) ; (2.) a clear insight
 into a matter, a full knowledge,
 conviction (klare Einsicht in Etwas,
-volkommenes Verstindniss, Ueber-
-zeugung). Lassen’s translation is,
-“Nimirum demonstrandz rei con-
-summatio (oritur) -e demonstra-
+volkommenes Verstindniss, Ueberzeugung). Lassen’s translation is,
+“Nimirum demonstrandz rei consummatio (oritur) -e demonstra-
 tione,” adding in his commentary,
 “TUltimam sententiam ita accipio
 ut dicatur id quod demonstrandum
-sit, magis minusve absoluta evi-
-dentia posse evinci secundum ge-
+sit, magis minusve absoluta evidentia posse evinci secundum ge-
 nus demonstrationis qua probetur.”
 Proof, however, is here spoken of
 absolutely. There is no question of
@@ -2248,8 +2069,7 @@ degree.
 
 
 1 Adhyavasdya, a word difficult
-of explanation. Colebrooke trans-
-lates it by “ascertainment,” Lassen
+of explanation. Colebrooke translates it by “ascertainment,” Lassen
 by “intentio (sensuum),” St. Hilaire
 by “application.” In the Amera
 Kosha it is glossed by utsaha (force,
@@ -2261,18 +2081,13 @@ that some explain it as meaning
 “a strong will or effort.”
 
 2 Aptagamat, from “ revelation”
-(Colebrooke) ; ‘‘revelatione” (Las-
-sen); “par une information legitime”
+(Colebrooke) ; ‘‘revelatione” (Lassen); “par une information legitime”
 
 
 (St. Hilaire).
 
 
-24 HINDU PHILOSOPHY.
-
-
-proof: (1.) pratyaksha (perception); (2.) anwméana (in-
-ference); (3.) wpamdna (comparison or analogy); and
+proof: (1.) pratyaksha (perception); (2.) anwméana (inference); (3.) wpamdna (comparison or analogy); and
 (4.) Sabda (verbal testimony), To these the Vedantic
 school adds arthdpatti (presumption), an informal kind
 of inference; as, “ Devadatta does not eat by day and yet
@@ -2307,21 +2122,16 @@ objects of sense, but the result of that process. The use
 of the term “application” is, however, strictly in accord-
 
 
-HINDU PHILOSOPHY. 25
-
-
 ance with the Hindi theory of the method of perception.
 The knowledge gained by the eye is not from rays of
 light proceeding from an object, but by a ray of light
 proceeding from the eye.
 
-An inference, according to the Nyaya school, is “ know-
-ledge produced from a logical antecedent. This consists
+An inference, according to the Nyaya school, is “ knowledge produced from a logical antecedent. This consists
 in the knowledge of a general principle combined with
 the knowledge that the case in question is one to which
 itis applicable.” In the Nyaya Sutra Vritti inference
-is said to be threefold: (1.) “Prior, that is, cause, charac-
-terised by or having that (cause); as inference of rain
+is said to be threefold: (1.) “Prior, that is, cause, characterised by or having that (cause); as inference of rain
 
 
 from the gathering of clouds; (2.) posterior, effect charac-
@@ -2336,8 +2146,7 @@ cause; and by analogy, or community of properties.
 
 The terms linga (character or mark) and ligt (the
 subject of the /izga) answer nearly to the major and minor
-premisses of Western logicians, In the syllogism, com-
-monly given as an example—
+premisses of Western logicians, In the syllogism, commonly given as an example—
 
 “Whatever smokes has fire ;
 This hill smokes ;
@@ -2345,10 +2154,8 @@ Ergo, This hill has fire,” ?
 
 
 1 Tarka Sangraha, p. 29. The
-word pardmarsa, translated “ logi-
-cal antecedent” by Ballantyne, is
-translated by Wilson “ observa-
-tion,” “experience ;” prim. taking
+word pardmarsa, translated “ logical antecedent” by Ballantyne, is
+translated by Wilson “ observation,” “experience ;” prim. taking
 hold and then apprehension by the
 mind. In logic it means a fact or
 truth apprehended by observation.
@@ -2356,12 +2163,10 @@ truth apprehended by observation.
 this hill is marked by smoke, which
 
 
-is always attended by fire, is a pard-
-marsa,”
+is always attended by fire, is a pardmarsa,”
 
 2 In the Tarka Sangraha (p. 32),
-the knowledge that this “ moun-
-tain is characterised by smoke (the
+the knowledge that this “ mountain is characterised by smoke (the
 linga), which is invariably attended
 by fire,” is called a linga pardmarsa,
 which means “ such recognition of a
@@ -2371,26 +2176,19 @@ sign as leads to inference.”
 ee ow
 
 
-26 HINDU PHILOSOPHY.
-
-
 the first proposition contains the limga, which here is
 smoke, and the second the Jiigi, or that in which the
-linga inheres. By “revelation” is meant either the teach-
-ing of the Vedas or of other works supposed to have a
+linga inheres. By “revelation” is meant either the teaching of the Vedas or of other works supposed to have a
 similar or equal authority. Kapila, who was doubtless
 a Brahman, did not wholly reject the Vedas, but he
 treats them with little respect, and makes their authority
-subordinate to that of reason. His Vedantist commen-
-tators draw conclusions from this passage which are incon-
+subordinate to that of reason. His Vedantist commentators draw conclusions from this passage which are incon-
 sistent with the first and second distichs, which express
 Kapila’s fundamental principle.
 
-By “formal or generic existence” in Distich 6 (sém-
-anya) is meant all the related forms or genera of the
+By “formal or generic existence” in Distich 6 (sémanya) is meant all the related forms or genera of the
 material world. In the Tarka Sangraha (p. 56) it is thus
-explained : “ Community (sémdnya) is eternal, one, belong-
-ing to more than one, residing in substance, quality,
+explained : “ Community (sémdnya) is eternal, one, belonging to more than one, residing in substance, quality,
 and action. It is of two kinds, the highest and what is
 The highest is existence (sattwa, primal matter ?) ;
 the lower is genus (jati, family or race), such as have the
@@ -2413,8 +2211,7 @@ passage must then be translated,
 by analogy, or a perception of it, is
 not equivalent to the whole of the
 inferential process, but only a part
-ofit. I adopt, therefore, the conclu-
-sions of Colebrooke and Lassen; but
+ofit. I adopt, therefore, the conclusions of Colebrooke and Lassen; but
 Colebrooke’s translation of samanya
 
 
@@ -2436,16 +2233,12 @@ by “sensible things,” and Lassen’s by
 sufficient exactness its meaning.
 
 2 Dravyatwa, haying the nature
-of substance, from dravya, sub-
-stance, which sometimes means ele-
+of substance, from dravya, substance, which sometimes means ele-
 mentary substance, as fire, earth,
 &c. See Burnouf, s. x
 
 
 SL pen ctl gut x
-
-
-HINDU PHILOSOPHY. 27
 
 
 Things beyond the senses are not only those which
@@ -2457,10 +2250,8 @@ Whatever lies beyond perceived or inferred existence
 can only be known by testimony.
 
 
-7. “(This want of perception may be) from ex-
-cessive distance, too great nearness, destruction of
-organs, inattention of the mind (manas), minute-
-ness, concealment (by other objects), predominance
+7. “(This want of perception may be) from excessive distance, too great nearness, destruction of
+organs, inattention of the mind (manas), minuteness, concealment (by other objects), predominance
 (of other things), and by intermixture with like
 objects.”
 
@@ -2484,9 +2275,6 @@ agent (only) ; and from the nature of cause.”
 (having its own form), from the (like), which the sense requires. In
 Sankhya Kaumidi, which must be his translation he has “ dissimile et
 referred to intellect (Mahat). All simile.”
-
-
-28 HINDU PHILOSOPHY.
 
 
 Kapila, or his expounder, contends in Distich 6, as the
@@ -2525,19 +2313,16 @@ But the world, as it exists, was to Kapila an effect.
 “alike in both the Sankhyas there is
 acknowledgment of a being superior
 to the gods. He is made up of an
-immaterial part, purusha, or ‘per-
-son, and of an antwkarana or
+immaterial part, purusha, or ‘person, and of an antwkarana or
 ‘internal organ,’ which is Prakriti
 (Nature)” (Introd. Sank. Sara, p.
 2). This statement is not supported
 by anything in the Sank. Karika,
-and in the Sank. Pravachana it is ex-
-pressly stated that “they (the Vedas)
+and in the Sank. Pravachana it is expressly stated that “they (the Vedas)
 
 
 are not the work of Purusha, from
-the non-existence of a Purusha (pu-
-rushasyabhavat). Vijnana Bhikshu
+the non-existence of a Purusha (purushasyabhavat). Vijnana Bhikshu
 adds, “Supply, because we deny that
 there is a Lord” (v. 46). Some of
 the followers of this school asserted
@@ -2545,51 +2330,38 @@ the existence of a personified sum
 of existence, called Hiranya-Garbha
 (Professor Cowell, Note in Elph.
 India, p. 126) ; but Kapila did not
-recognise such a being. His Pra-
-kriti is impersonal matter.
-
-
-HINDU PHILOSOPHY. 29
+recognise such a being. His Prakriti is impersonal matter.
 
 
 He proceeds in Distich 9 to prove this proposition by
-arguments which have received very different interpreta-
-tions. Colebrooke translates the first part of the distich
+arguments which have received very different interpretations. Colebrooke translates the first part of the distich
 thus: “ Effect subsists (antecedently to the operation of
 cause), for what exists not can by no operation of cause
 be brought into existence.” The doctrine of Kapila is
 indeed that cause and effect are so far identical that an
-effect is only a developed cause, but this part of his areu-
-ment is contained in the sixth clause of the distich, where
-he argues from the nature of cause. The general argu-
-ment or the main proposition to be proved is, that formal
+effect is only a developed cause, but this part of his areument is contained in the sixth clause of the distich, where
+he argues from the nature of cause. The general argument or the main proposition to be proved is, that formal
 existence 7s an effect, implying a cause, not that effect
 exists antecedently in its cause. Professor Wilson adopts
 Colebrooke’s translation, and explains the passage as if in
 accordance with this view, but in reality he confounds
 two distinct ideas. “It is laid down,” he says, “as a
-general principle that cause and effect are in all cases co-
-existent, or that effect exists anteriorly to its manifestation :
+general principle that cause and effect are in all cases coexistent, or that effect exists anteriorly to its manifestation :
 sat-karyam, in the text, meaning existent effect prior to
 the exercise of the (efficient) cause ; or, as the phrase also
 of the text, asadakarandat, is explained, ‘If effect prior to
-the exercise of (efficient) cause does not exist, its exist-
-ence cannot by any means be effected.’ The expression
+the exercise of (efficient) cause does not exist, its existence cannot by any means be effected.’ The expression
 sat-karyam, therefore, is to be understood throughout as
 meaning ‘existent effect, not the effect of that which
 exists, and the object of the stanza is to establish the
 existence of cause from its effects, and not of effects from
 the existence of cause, as Professor Lassen has explained
-it: ‘Quenam sint rationes docetur quibus evincatur men-
-tem ceteraque principia effecta esse a tw dv7u.”” Here
+it: ‘Quenam sint rationes docetur quibus evincatur mentem ceteraque principia effecta esse a tw dv7u.”” Here
 the two propositions, that effect exists im its cause, and
 that formal existence is an “existent. effect,’ are con-
 
 
 —_—
-
-
-30 HINDU PHILOSOPHY.
 
 
 founded, and the last part of the sentence is not in
@@ -2599,10 +2371,8 @@ the proposition to be proved, which is that sat, manifest
 or formal existence, must be considered as wrought; or,
 in other words, is an effect implying an efficient cause.
 The phrase does not mean “an existent effect,’ but that
-what is formally existent is necessarily an effect. Caus-
-ality is implied as an absolute condition of all formal
-being. Asadakarandt (literally from non-existence, non-
-cause) implies that there is an identity in the terms non-
+what is formally existent is necessarily an effect. Causality is implied as an absolute condition of all formal
+being. Asadakarandt (literally from non-existence, noncause) implies that there is an identity in the terms non-
 existence and non-cause, and that we cannot conceive
 of formal existence as uncaused: only the unformed
 Prakriti (Nature) is without a cause, having existed
@@ -2618,15 +2388,12 @@ which is the true material cause of the whole series of
 existent things. The argument implies that the idea of
 cause is involved in the idea of formal existence, and that
 we can only conceive of any limited conditioned life as
-HINDU PHILOSOPHY. 31
 
 
 il n’y a pas de notion propre de cause, et ce que nous
-appelons une cause n’est qu'une cause apparente relative-
-ment 4 l’effet qui la suit, mais c’est aussi un effet par la
+appelons une cause n’est qu'une cause apparente relativement 4 l’effet qui la suit, mais c’est aussi un effet par la
 méme raison, et toujours de méme, de maniére que tout
-est un enchainement nécessaire d’effets sans cause véri-
-table et independente.” It is difficult to imagine how
+est un enchainement nécessaire d’effets sans cause véritable et independente.” It is difficult to imagine how
 such a theory could be attributed to Kapila after reading
 any of the well-known expositions of his philosophy.
 Any link in the series of existent things may be a cause
@@ -2636,17 +2403,14 @@ a primal material cause, itself uncaused, from which all
 existent things have ultimately proceeded. He did not
 admit a supreme spiritual Being, an /éwara or Lord,
 either as the Author or Ruler of the visible world, but he
-argued for the existence of a primal material cause (Pra-
-kritv) as the necessary antecedent of every other existence.
+argued for the existence of a primal material cause (Prakritv) as the necessary antecedent of every other existence.
 
 M. St. Hilaire translates the clause as follows: “Ce qui
 prouve bien que leffet provient de l’étre, c’est que le non-
 étre ne peut étre cause de quoi que ce soit;” but this makes
-Kapila asswme that the existing world is an effect spring-
-ing from a cause, but his proposition is to prove that it
+Kapila asswme that the existing world is an effect springing from a cause, but his proposition is to prove that it
 is an effect, and that therefore there must have been a
-primary cause. His standpoint is existence in the mani-
-fold conditioned forms of things as they are, and that such
+primary cause. His standpoint is existence in the manifold conditioned forms of things as they are, and that such
 forms must have had a primary cause, 2e. that they are
 effects, The nature of cause forms the last clause of the
 distich. He rises finally at the end of the series, traced
@@ -2655,12 +2419,6 @@ identified in kind with the effects which have issued
 from it.
 
 Mr. Mill’s definition of cause is more clearly expressed,
-
-
-HINDU PHILOSOPHY.
-
-
-32
 
 
 but is insufficient: “It is an universal truth,” he says,
@@ -2674,8 +2432,7 @@ else be is a cause.” It is this law of succession which
 Kapila declares to be invariable and necessary as to all
 the facts or formal existences in Nature.
 
-In the second clause he appeals to the common ob-
-servation of mankind that cause and effect mutually
+In the second clause he appeals to the common observation of mankind that cause and effect mutually
 imply each other. If you wish to produce anything, you
 must use means for the accomplishment of your end.
 This cause must also bear a relation to the effect; it must
@@ -2686,10 +2443,8 @@ be of the same nature, as stated in the third clause.
 
 1 Mill’s theory of causation (which
 is that of Dr. Thomas Brown), that
-it means only the idea of an invari-
-able sequence, is insufficient, for we
-cannot think of cause without con-
-ceiving a necessary and invariable
+it means only the idea of an invariable sequence, is insufficient, for we
+cannot think of cause without conceiving a necessary and invariable
 power inherent in it by which the
 effect is produced. The definition in
 the Tarka Sangraha is more precise.
@@ -2699,11 +2454,9 @@ of power is not distinctly enunciated
 by either. It is well expressed by
 the late Professor Wilson : “ We do
 not fear to say that when we speak
-of a power in one substance to pro-
-duce a change in another, and of a
+of a power in one substance to produce a change in another, and of a
 susceptibility of such change in that
-other, we express more than our be-
-lief that the change has taken and
+other, we express more than our belief that the change has taken and
 will take place... . There is, besides
 this, the conception included of a
 
@@ -2712,8 +2465,7 @@ If
 
 
 fixed constitution of their nature
-which determines the event—a con-
-stitution which, while it lasts, makes
+which determines the event—a constitution which, while it lasts, makes
 the event a necessary consequence ”
 (Quot. in Hamilton’s Metaph., ii. 383,
 384). “It is a self-evident maxim
@@ -2722,13 +2474,11 @@ After contemplating an event in life
 or nature, I find myself going in
 thought beyond it to consider how
 it came to pass ; by some instinctive
-law, some constitutional motion in-
-herent in my mind, I go in the
+law, some constitutional motion inherent in my mind, I go in the
 direction of a cause for that event ;
 something not merely antecedent
 to it, but which stands in such a
-relation to it as that, in conse-
-quence of it, that event or thing
+relation to it as that, in consequence of it, that event or thing
 exists ” (Professor Mozley’s Essays,
 The Principle of Causation, i. 416).
 See Sir W. Hamilton’s Discussions
@@ -2738,13 +2488,9 @@ in Philosophy, App. 1.
 t
 
 
-HINDU PHILOSOPHY. 33
-
-
 you would have cheese, you must use milk and not water ;
 for one cause is not equal to the production of every
-effect. An efficient cause is also necessary for the pro-
-duction of an effect as well as a material cause. A potter
+effect. An efficient cause is also necessary for the production of an effect as well as a material cause. A potter
 is necessary for the making of a jar; he is not competent
 to produce cloth.
 
@@ -2770,29 +2516,24 @@ previously existed in the cause.
 Simply this: ... That all that we at
 present come to know as an effect
 must have previously existed in its
-causes” (Metaph., ii. 400). Not ab-
-solutely so, for the effect may differ,
+causes” (Metaph., ii. 400). Not absolutely so, for the effect may differ,
 and, in truth, must always differ, in
 some respect from the cause.
 
 2So, according to Aristotle, the
 ancient Greek philosophers taught :
 “otra 5é 7d nev Ex wy dvrwr ylvec bat
-dduvarov* epi yap TavTns osoyvapov-
-ovot THs Sdéns Aravres ol rept pucews ”
+dduvarov* epi yap TavTns osoyvapovovot THs Sdéns Aravres ol rept pucews ”
 (Phys., i. 4). Mr. G. H. Lewes goes
 further than Kapila, for he practi-
 
 
-cally denies that there is any differ-
-ence between cause and effect. “I
+cally denies that there is any difference between cause and effect. “I
 have endeavoured to show that the
 supposed axiom of causes not being
 knowable when their effects are
-known is a fallacy and a misappre-
-hension of the principle of causation ;
-it is plausible only through the meta-
-physical postulate that the cause is
+known is a fallacy and a misapprehension of the principle of causation ;
+it is plausible only through the metaphysical postulate that the cause is
 something different from its effects ”
 (Fort. Revy., April 1876). Kapila
 taught that the effect must be of
@@ -2804,9 +2545,6 @@ the other in many ways. The potter
 the jar produced.
 
 
-34 HINDU PHILOSOPHY.
-
-
 hence, from the nature of cause, it involves the effect in
 itself, as that which is evolved implies the cause or
 material source from which it has been evolved. Now
@@ -2816,23 +2554,20 @@ forgotten that the efficient cause, as the potter in making
 a jar, is something altogether different from the clay with
 which he works and the jar which he produces.
 
-The nature of visible or developed things is then dis-
-cussed, in contrast with the invisible or undeveloped
+The nature of visible or developed things is then discussed, in contrast with the invisible or undeveloped
 source (Avyakta), which is Prakriti.
 
 
 10. “That which is visible or developed has a
 cause; it is not eternal or universal; it is mobile
-(modifiable), multiform, dependent, attributive, con-
-junct, and subordinate. The undeveloped principle
+(modifiable), multiform, dependent, attributive, conjunct, and subordinate. The undeveloped principle
 is the reverse.”
 
 
 three principles (¢attwa, existence, reality), which are
 emanations from Prakriti (Nature).
 
-It is caused, for it proceeds from Prakriti; it is there-
-fore not eternal as manifestation or form, but is eternal
+It is caused, for it proceeds from Prakriti; it is therefore not eternal as manifestation or form, but is eternal
 as being one with its source; for “destruction,” says
 Kapila, “is a return to the producing cause.”
 
@@ -2842,25 +2577,17 @@ principles (¢attwa) is not found in every form.
 It is mobile, admitting changes of position in different
 bodies.
 
-It is multiform, existing in various forms of agerega-
-tion.
+It is multiform, existing in various forms of ageregation.
 
 
 The visible or developed universe contains the twenty-
-
-
-HINDU PHILOSOPHY.
-
-
-35
 
 
 It is dependent or conditioned;! each of the grosser
 elements is dependent upon the more subtle, and these
 are dependent on consciousness, &c., up to Prakriti.
 
-It is attributive or predicative (Jingam ®), 2.¢., each sub-
-stance has a characteristic sign or quality which may be
+It is attributive or predicative (Jingam ®), 2.¢., each substance has a characteristic sign or quality which may be
 
 
 predicated of it.
@@ -2872,8 +2599,7 @@ It is conjunct or conjunctible, for the elements combine
 with one another.
 
 
-It is subordinate or governed, each being subordi-
-nate to the other in an ascending series, up to Buddhi
+It is subordinate or governed, each being subordinate to the other in an ascending series, up to Buddhi
 
 
 (intellect).
@@ -2918,25 +2644,21 @@ activity, and restraint: they mutually subdue and
 
 
 1 Agritam. Lassen translates it by
-“innixum ;” Colebrooke by “sup-
-porting ;” St. Hilaire by “‘acci-
+“innixum ;” Colebrooke by “supporting ;” St. Hilaire by “‘acci-
 dentel.” The Petersburg Dict. has
 “ Halt und Schutz beiJmd suchend,”
 lit. “ going to one” (for protection
 or support).
 
 2 Lingam. Colebrooke translates it
-“mergent,” i.e. subject to dissolu-
-tion, after Gaudapada; but Professor
+“mergent,” i.e. subject to dissolution, after Gaudapada; but Professor
 Wilson remarks that “ predicative”
 
 
-or “characteristic ” would be a pre-
-ferable translation. Lassen has “re-
+or “characteristic ” would be a preferable translation. Lassen has “re-
 ciprocans,” but he adds “ dubie
 mihi est significationis.” See the
-Tarka Sangraha, p. 38 (Ballan-
-tyne).
+Tarka Sangraha, p. 38 (Ballantyne).
 
 3 Samanyam, translated by Lassen
 and Colebrooke “‘common.” See
@@ -2944,9 +2666,6 @@ p. 26.
 
 4 Achetanam, from a, neg. part, and
 chit, to perceive, to know.
-
-
-36 HINDU PHILOSOPHY.
 
 
 support each other, produce each other, consort
@@ -2991,8 +2710,7 @@ reciprocally present). St. Hilaire
 has “se suppléent reciproquement.”
 Vritt? means state, condition, or
 manner of being, and the meaning
-is that each guna may, in some cir-
-cumstances, assume the nature of
+is that each guna may, in some circumstances, assume the nature of
 the others, or be the same in effect.
 See p. 26.
 
@@ -3003,8 +2721,7 @@ rajas (passion), and tamas (darkness)
 are the usual names of the three
 gunas. In the preceding distich they
 are named from “ priti” (joy or love),
-apriti (aversion), and vishdda (stu-
-pefaction or dulness). The first is
+apriti (aversion), and vishdda (stupefaction or dulness). The first is
 said to include rectitude, gentleness,
 modesty, faith, patience, clemency,
 and wisdom; the second produces
@@ -3018,39 +2735,30 @@ Wilson, p. 52).
 q
 
 
-HINDU PHILOSOPHY. 37
-
-
 brium, and so long as this state existed there was no
 emanation into separate forms of matter. This state of
 rest was destroyed when Nature began to act, though
-unconsciously, for the welfare of soul,t and this move-
-ment, aS motion or activity in general, is due to the
+unconsciously, for the welfare of soul,t and this movement, aS motion or activity in general, is due to the
 influence of that guna, or constituent of Nature, which
 is called “passion” (rajas). This theory seems to be
 contrary to a previous statement that Nature is one;
 but it is conceived as we apprehend light to be a simple
 colourless substance, though formed by a perfect union of
-the coloured rays, whose individuality is lost or unde-
-veloped in that which we call light.
+the coloured rays, whose individuality is lost or undeveloped in that which we call light.
 
 The Gunas are a mere hypothesis, invented to account
 for the manifest differences in the conditions of formal
-existences. There is evidently a subtle or spiritual ele-
-ment, one of passion or force, and something which is
+existences. There is evidently a subtle or spiritual element, one of passion or force, and something which is
 contrary to both, an element of dulness or insensibility,
 in at least all human beings ;* and these are assumed by
 Kapila to indicate a primary difference in the constituent
 elements of Nature (Prakriti). The same idea seems to
-have presented itself to some of the earlier Greek philo-
-sophers, as Aristotle has described their doctrine.®
+have presented itself to some of the earlier Greek philosophers, as Aristotle has described their doctrine.®
 
 
 1 “The governorship thereof (of
-soul over Nature) is from its proxi-
-mity, as in the case of the gem”
-(Sank, Sara, i.96). The interpreta-
-tion is, ‘that as the gem (the load-
+soul over Nature) is from its proximity, as in the case of the gem”
+(Sank, Sara, i.96). The interpretation is, ‘that as the gem (the load-
 stone) is attracted by iron merely by
 proximity, without resolving (either
 to act or to be acted upon), so by
@@ -3069,8 +2777,7 @@ by connecting it with matter.
 Gnostic, all men and all substances
 are divided into three classes; (1.)
 the spiritual, (2.) the vital, and (3.)
-the material (/ylic). This corre-
-sponds to the gunas of Kapila, and is
+the material (/ylic). This corresponds to the gunas of Kapila, and is
 probably an importation from India.
 
 3 Cf. Aristotle: “Tis pév ovctas
@@ -3082,12 +2789,8 @@ Tov byte Thy apxnvy dacw elvar”
 (Metaph., i. 3; Wilson, p. 53).
 
 
-38 HINDU PHILOSOPHY.
-
-
 These gunas are called by Kapila: (1.) sattwa, truth or
-goodness; (2.) rajas, properly passion, but sometimes in-
-terpreted as foulness; and (3.) ¢amas, darkness. Professor
+goodness; (2.) rajas, properly passion, but sometimes interpreted as foulness; and (3.) ¢amas, darkness. Professor
 Lassen translates them as (1.) essentia, (2.) impetus, (3.)
 caligo. The first, however, is not more an essence than
 the second or third. The second, “ passion,” is rather the
@@ -3113,14 +2816,11 @@ The gunas or modes are sometimes termed (1.) Prakasa,
 
 1 Jn the notes to the Sankhya
 Karika which Lassen has given he
-explains the word guna thus: “ Di-
-versus sane est usus vocabuli, quum,
+explains the word guna thus: “ Diversus sane est usus vocabuli, quum,
 veluti per Manum, de peculiari
 cujusvis elementi virtute dicatur.
-Atque est sane guna apud Sank-
-yicos materi innata évépyeta, per
-tres gradus ascendens atque consi-
-dens. Sunt tres materia cum arcu
+Atque est sane guna apud Sankyicos materi innata évépyeta, per
+tres gradus ascendens atque considens. Sunt tres materia cum arcu
 vel lyra comparate tensiones, et
 reddi possit guna haud inepte per
 potentiam” (p. 30). This is not
@@ -3129,20 +2829,15 @@ potentiam” (p. 30). This is not
 strictly correct. Guna means pri-,
 
 
-marily a thread or cord, and Pra-
-kriti, or Nature, is as a string com-
+marily a thread or cord, and Prakriti, or Nature, is as a string com-
 posed of three varying strands ; not
 properly energies, but constituent
-elements of different virtue. Ka-
-pila did not resolve matter into
+elements of different virtue. Kapila did not resolve matter into
 mere force, as some of our modern
 physicists. Force was only to him
 a condition of matter, or rather of
 one of its primary elements, i.e., of
 the guna called “ passion.”
-
-
-HINDU PHILOSOPHY. 39
 
 
 luminousness; this is prevalent in fire. (2.) Pravritti,
@@ -3152,8 +2847,7 @@ be formed by, and to represent, the gross, stupefying
 element.
 
 Every kind of existence except soul is formed by the
-gunas, but in an infinite variety of conditions, as the dif-
-ferent kinds of these elements are blended together in
+gunas, but in an infinite variety of conditions, as the different kinds of these elements are blended together in
 varying degrees.4
 
 Kapila, or his disciple, Igwara Krishna, proceeds to
@@ -3180,8 +2874,7 @@ It is generic (sémanya), ue., 1b produces generic or
 
 1 Even the gods are represented
 in the Vayu Purana as springing
-from the three gunas. ‘‘ From Prad-
-hana (Nature), when agitated, the
+from the three gunas. ‘‘ From Pradhana (Nature), when agitated, the
 quality of passion (rajas) arose, which
 was there a stimulating cause, as
 water is to seeds. When an in-
@@ -3196,9 +2889,6 @@ tamas (darkness) as Agni ; the sattwu
 Texts, 1. 75).
 
 
-40 HINDU PHILOSOPHY.
-
-
 specific forms. Colebrooke translates the word “common,”
 
 
@@ -3209,8 +2899,7 @@ common to all things. The meaning is, that each may
 form, with others, things that have common properties.
 
 It is irrational (achetana, unthinking). Even “intellect”
-cannot think, for it is material. It is only a passive re-
-ceptacle for arranged and individualised ideas. Cognition
+cannot think, for it is material. It is only a passive receptacle for arranged and individualised ideas. Cognition
 is a property of the soul alone,
 
 It is productive. Intellect produces Consciousness, and
@@ -3222,8 +2911,7 @@ each of its developments. Soul, however, is the opposite
 of Nature. It discriminates; it exists by and for itself
 alone; it knows, and is not productive.
 
-In Distich 12 the gunas are classed as pleasant, un-
-pleasant, and stupefying. “Goodness” serves for mani-
+In Distich 12 the gunas are classed as pleasant, unpleasant, and stupefying. “Goodness” serves for mani-
 festation, for it is light and elastic; “passion” leads to
 activity, and “darkness” to restraint or inertness.
 
@@ -3244,15 +2932,13 @@ wick and the oil.
 HINDU PHILOSOPHY. AI
 
 
-(the other conditions of material forms) are a con-
-clusion from the three modes, and by the absence
+(the other conditions of material forms) are a conclusion from the three modes, and by the absence
 of the reverse of this (the modal existence). The
 Unmanifested (Nature) is also to be determined by
 the cause having the same qualities as the effect.”
 
 
-In Distich 8 it is affirmed that the productions (emana-
-tions) of Nature are in some respects like, and in others
+In Distich 8 it is affirmed that the productions (emanations) of Nature are in some respects like, and in others
 unlike, their original source. In Distich 1o the points of
 disagreement are mentioned, and the points of agreement
 in Distich 11, The first-named of the common properties
@@ -3265,36 +2951,27 @@ intellect downward, objective, and have other properties
 of the modes, Also, as they are objective, 7.¢., external to
 soul, they must be material.
 
-The latter part of the first line of the distich—tad-
-viparyayabhavat—is obscure. Colebrooke translates it,
+The latter part of the first line of the distich—tadviparyayabhavat—is obscure. Colebrooke translates it,
 “and by the absence thereof in the reverse;” that is, as
 Vachaspati and others interpret it, in the soul; soul and
-matter being opposite in their nature. Gaudapada con-
-fines the passage to the undeveloped Nature (avyakta)
+matter being opposite in their nature. Gaudapada confines the passage to the undeveloped Nature (avyakta)
 and the developed principles (vyakta), and explains it
-to mean that the absence of the reverse of these quali-
-ties in the developed establishes its absence in the un-
+to mean that the absence of the reverse of these qualities in the developed establishes its absence in the un-
 developed, for they are not contrary to each other.
 Vachaspati says, also, that “it may be understood as
 taking for its own two subjects, vyakta and avyakta, and
 asserting by the inverted proposition (negatively) that
 
 
-42 HINDU PHILOSOPHY.
-
-
 there is no reason (to the contrary) from one being
 exempt from the three modes.”! Lassen connects “this ”
-with “the three modes,” and after examining other trans-
-lations, interprets the passage thus: “ Queeritur, quomodo
+with “the three modes,” and after examining other translations, interprets the passage thus: “ Queeritur, quomodo
 interpreter hee verba; vertenda sunt Latine, quia non est
 contrarium hujus (@e., trium qualitatum). Refero autem
 ad Evolutum et Involutum, de quibus hic potissimum est
 sermo. Sensus ijitur ex mea opinione est: quia in eis
-(Involuto et Evoluto) non sunt proprietates tribus quali-
-tatibus contraposite. He enim si essent, falsa esset
-enunciatio dist. 11 proposita.” I adopt Lassen’s explana-
-tion, as best suited to the grammar of the language and to
+(Involuto et Evoluto) non sunt proprietates tribus qualitatibus contraposite. He enim si essent, falsa esset
+enunciatio dist. 11 proposita.” I adopt Lassen’s explanation, as best suited to the grammar of the language and to
 the sequence of ideas, the 14th distich being thus linked
 to the preceding.
 
@@ -3325,17 +3002,12 @@ puissance d’agir” (St. Hiliare.), lit.
 from the energetic action (sakti)
 
 
-of production or development (pru-
-eritti).
+of production or development (prueritti).
 
 8 «Since there is a reunion of the
-universe” (Coleb.) ; “‘propter insepa-
-rabilitatem omnes formas induentis
+universe” (Coleb.) ; “‘propter inseparabilitatem omnes formas induentis
 (Involuti)” (Lassen). Vazswarupa
 is the entirety of formal existence.
-
-
-HINDU PHILOSOPHY. 43
 
 
 16. ‘‘(It is proved that) there is a primary
@@ -3349,11 +3021,9 @@ are variously distributed.” *
 1. From the finite nature (parimdna, measure) of specific
 objects. On this account they must have a cause, for
 otherwise they would have no limit in space or time.
-That which is conditioned must be dependent on some-
-thing external to itself, and be limited by it.
+That which is conditioned must be dependent on something external to itself, and be limited by it.
 
-2. From the common properties (samanvaya) in diffe-
-rent things. Hence species and genera exist, from which
+2. From the common properties (samanvaya) in different things. Hence species and genera exist, from which
 we rise to the conception of one primary genus.
 
 3. From the active or living energy (Sakti) shown in
@@ -3374,8 +3044,7 @@ supply its own motive power.
 4. From the separate existence of cause and effect.
 
 
-is certainly correct. This is Gauda-
-pada’s explanation.
+is certainly correct. This is Gaudapada’s explanation.
 
 
 1 “Per diversitatem cujusvis, quam
@@ -3383,21 +3052,15 @@ amplectitur qualitatis ” (Lassen).
 
 
 “ Yor different objects are diversified
-by the influence of the several quali-
-ties respectively ” (Coleb.). Wilson’s
-suggested correction, ‘by modifica-
-tion, like water, according to the
+by the influence of the several qualities respectively ” (Coleb.). Wilson’s
+suggested correction, ‘by modification, like water, according to the
 receptacle or subject of the qualities,”
 
 
-2 As Lassen explains it: ‘“ Evol-
-vuntur evoluta non per suam ip-
+2 As Lassen explains it: ‘“ Evolvuntur evoluta non per suam ip-
 sorum facultatem, sed per potentiam
 quandam, qu est causa potestate
 ea evolyendi instructa” (p. 33).
-
-
-44 HINDU PHILOSOPHY.
 
 
 This is closely connected with the former argument. A
@@ -3410,8 +3073,7 @@ and must therefore have a cause beyond itself.
 5. From the inseparable unity of all (material) forms
 (vaisvartipa), or of the whole universe in its manifold
 forms. No part of Nature can exist independently
-of the rest. There is an unbroken chain or abso-
-lute continuity from the lowest to the highest. At
+of the rest. There is an unbroken chain or absolute continuity from the lowest to the highest. At
 the end of the existing kalpa (period of creation)
 they will all become one again. Gaudapada assumes
 this fact as a proof or illustration of the argument.
@@ -3438,27 +3100,20 @@ combination may be effected in different proportions, as
 of Nature (Prakriti), called “ passion” or “ foulness.”
 
 
-HINDU PHILOSOPHY. 45
-
-
-one or another may be predominant. This is the mix-
-ture or blending mentioned in Distich 16. It is also
+one or another may be predominant. This is the mixture or blending mentioned in Distich 16. It is also
 modified, as water or moisture, by different conditions,
 caused .by the nature of its receptacle or seat. “As
 simple water coming from the clouds is modified
 as sweet, sour, bitter, pungent, in the nature of the
-juice of the cocoa-nut, palm, bel-karanja,! and wood-
-apple.”
+juice of the cocoa-nut, palm, bel-karanja,! and woodapple.”
 
-“ Modified condition,” says Vachaspati, “is the cha-
-racter of the three modes, which are never for a moment
+“ Modified condition,” says Vachaspati, “is the character of the three modes, which are never for a moment
 stationary.” This constant motion produces different
 effects by the ever-varying proportion of their action.
 In the gods, the quality of “goodness” predominates,
 and they are happy; in mankind, that of “passion” or
 “foulness,” and they are miserable; in animals and
-lower substances, “darkness” prevails, and they are in-
-sensible or indifferent.
+lower substances, “darkness” prevails, and they are insensible or indifferent.
 
 Kapila having endeavoured to prove the existence of
 Nature (Prakritt), now attempts to prove the existence
@@ -3469,8 +3124,7 @@ of soul.
 the sake of another ;* because the opposite of the
 three modes and the rest (their modifications) must
 exist; because there must be a superintending
-power; because there must be a nature that en-
-joys; and because of (the existence of) active
+power; because there must be a nature that enjoys; and because of (the existence of) active
 
 
 1 The bel-karanja is a leguminous 2 This is stated a little more fully
@@ -3480,26 +3134,19 @@ Res., iv. 310). A Sanskrit name of always for its object another being”
 the plant is chiravilwa. (i. 133).
 
 
-46 HINDU PHILOSOPHY.
-
-
 exertion for the sake of abstraction or isolation
 (from material contact) ;* therefore soul exists.”
 
 
-1. The first argument is from design; not of a de-
-signing mind from evidences of design, but objectively
-of another nature for which the arrangement (sam-
-ghata, collocation) of material things is made. “In
+1. The first argument is from design; not of a designing mind from evidences of design, but objectively
+of another nature for which the arrangement (samghata, collocation) of material things is made. “In
 like manner,” says Gaudapada, “as a bed, which is an
-assemblage of bedding, props, cotton, coverlet, and pil-
-lows, is for another’s use, not for its own, and its several
+assemblage of bedding, props, cotton, coverlet, and pillows, is for another’s use, not for its own, and its several
 component parts render no mutual service; thence it is
 concluded that there is a man who sleeps upon the bed,
 and for whose sake it was made: so this world, which
 is an assemblage of the five elements, is for another's
-use; or there is a soul, for whose enjoyment this enjoy-
-able body, consisting of intellect and the rest, has been
+use; or there is a soul, for whose enjoyment this enjoyable body, consisting of intellect and the rest, has been
 produced.” 2
 
 2. Because there must be something different from
@@ -3520,15 +3167,13 @@ causam.”
 
 2 Wilson, p. 66.
 
-3 Wilson, p. 67. The soul, how-
-ever, in the Sankhya system, is not
+3 Wilson, p. 67. The soul, however, in the Sankhya system, is not
 properly sentient, and the difficulty
 is thus explained in the 8, Prava-
 
 
 chana (vi. 11): “Though it (pain)
-is the property or function of some-
-thing else, yet it is effected (in the
+is the property or function of something else, yet it is effected (in the
 soul) by non-distinction (of soul
 and matter),” or, as the passage
 is explained by Vijnana Bhikshu,
@@ -3540,25 +3185,19 @@ soul), through ‘non-distinction’ as
 the cause.”
 
 
-HINDU PHILOSOPHY. 47
-
-
 our consciousness. We are conscious of a nature within
-us, which feels joy or woe; and this we infer is some-
-thing different from matter, for we cannot conceive of
+us, which feels joy or woe; and this we infer is something different from matter, for we cannot conceive of
 mere matter as feeling or thinking.
 
 3. There must be a superintending or directing force.
 “ As a charioteer guides a chariot drawn by horses,” says
 Gaudapada, “so the soul guides the body.” ‘The idea of
 Kapila seems to be that the power of self-control cannot
-be predicated of matter, which must be directed and con-
-trolled for the accomplishment of any purpose, and this
+be predicated of matter, which must be directed and controlled for the accomplishment of any purpose, and this
 controlling power must be something external to matter
 and diverse from it. The soul, however, never acts. It
 only seems to act; and it is difficult to reconcile this part
-of the system with that which gives to the soul a con-
-trolling force. If the soul is a charioteer, it must be an
+of the system with that which gives to the soul a controlling force. If the soul is a charioteer, it must be an
 active agent.
 
 4. “Because there must be a nature that enjoys.”
@@ -3577,8 +3216,7 @@ ment appears to be of an universal have no raison d’étre except as the
 kind. Every arrangement of ma- adjuncts of another nature, whose
 
 
-terial things is for a purpose, and ministers they are. They are inter-
-therefore for one in whom that pur- mediaries, implying the existence of
+terial things is for a purpose, and ministers they are. They are intertherefore for one in whom that pur- mediaries, implying the existence of
 
 
 pose is fulfilled; or, in other words,
@@ -3588,9 +3226,6 @@ however, as intellect, are evidently,
 
 the two extremes, the objective world
 and soul.
-
-
-48 HINDU PHILOSOPHY.
 
 
 be enjoyed (bhogya, what is eaten, enjoyed, possessed)
@@ -3615,8 +3250,7 @@ establish the plurality or separate existence of souls.
 
 
 18. “From the separate allotment of birth,
-death, and the organs; from the diversity of oc-
-cupations at the same time, and also from the
+death, and the organs; from the diversity of occupations at the same time, and also from the
 different conditions (or. modifications) of the three
 modes, it is proved that there is a plurality of
 
@@ -3633,11 +3267,7 @@ meaning of this distich; they merely every soul is accompanied by its
 repeat it. There is, however, the linga, a subtle body formed of the
 difficulty that the soul is not af- finer principles of matter, in which
 fected by the three modes. How, lie the dispositions (bhdvas) of the
-then, can their various modifications individual. Now the liga is vari-
-prove the individuality of souls, in ously affected by the three modes,
-
-
-HINDU PHILOSOPHY. 49
+then, can their various modifications individual. Now the liga is variprove the individuality of souls, in ously affected by the three modes,
 
 
 As birth is only the entrance of the soul into another
@@ -3660,16 +3290,14 @@ easily affected by, the mode called “goodness;” another
 by the mode called “passion;” and another by the
 | “darkness” mode. But if all souls were absolutely
 one, each person would be the same in his mental and
-| moral state. Hach soul has, therefore, a distinct per-
-sonality, for men are not the same in these respects.
+| moral state. Hach soul has, therefore, a distinct personality, for men are not the same in these respects.
 
 This line of argument makes the soul less passive than
 it is represented to be in other parts of the system, for
 a certain responsibility is given to it which is inconsistent
 with the idea of a perfect abstinence from all action.
 
-In the Sankhya Sutras (i. 154), Kapila is repre-
-sented as arguing that his doctrine is not different from
+In the Sankhya Sutras (i. 154), Kapila is represented as arguing that his doctrine is not different from
 that of the Vedas, because the latter are said to teach
 
 
@@ -3685,9 +3313,6 @@ D
 =,
 
 
-50 HINDU PHILOSOPHY.
-
-
 only a generic oneness of soul. The sutra is probably
 a late interpolation, due to some one who wished to
 reconcile the system of Kapila with that of the Vedantist
@@ -3701,8 +3326,7 @@ a separate ens or existence,? limited by its union with
 a body, though soul, in the abstract idea of it, seems
 to be unlimited. But this abstract soul is not the
 Supreme Spirit, the Igwara or Lord of the Pantajali
-system. If an absolute Supreme Spirit exists, he main-
-tained (it seems) that such a nature lies outside the
+system. If an absolute Supreme Spirit exists, he maintained (it seems) that such a nature lies outside the
 domain of philosophy ; humanity being with him, as with
 Fichte and the Comtists, the highest point of philosophic
 research.
@@ -3721,8 +3345,7 @@ than the Sank. Karika. Kapila the vital airs belong to the
 
 2 Cf. Sank. Pravachana (vi. 63), body and do not affect the soul. In
 where it is said that the separate the next Sutra all action is separated
-life of a soul (jzvatwa, the property from the soul and from any super-
-of living) is from a distinction as of intending influence. “The accom-
+life of a soul (jzvatwa, the property from the soul and from any superof living) is from a distinction as of intending influence. “The accom-
 race, z.e., by attendant qualities; or, plishment of works depends on the
 as Vijnana Bhikshu interprets the agent, self-consciousness (see p. 18),
 passage, “to be a living soul means not on a Lord (Iswara), from the
@@ -3730,23 +3353,17 @@ the being possessed of the vital airs absence of proof (that such a Lord
 (see p. 66), and this is the character exists).”
 
 
-HINDU PHILOSOPHY. 51
-
-
-20. “It is thus, from this union, that the unin-
-telligent body (the laiga)* appears to be intelligent,
+20. “It is thus, from this union, that the unintelligent body (the laiga)* appears to be intelligent,
 and from the activity of the modes the stranger
 (the soul) appears to be an agent.”
 
-21. “It is that the soul may be able to con-
-template Nature, and to become entirely separated
+21. “It is that the soul may be able to contemplate Nature, and to become entirely separated
 from it, that the union of both is made, as of the
 halt and the blind, and through that (union) the
 universe is formed.”
 
 
-The soul beholds as an eye-witness (sékshin), for in-
-sight or cognition does not belong to matter. “That
+The soul beholds as an eye-witness (sékshin), for insight or cognition does not belong to matter. “That
 which is irrational cannot observe, and that to which
 an object is apparent is a witness.” It is solitary or
 perfectly distinct from matter, and therefore from the
@@ -3759,25 +3376,19 @@ that as a witness the soul only observes, and then by
 seeing that which is presented to it by the buddhi
 (intellect), it perceives and understands the phenomena
 of the material world. It is still, however, passive or
-inert. All action, in the judgment of a Hindi, is in-
-ferior to a contemplative state, and the soul in its regal
+inert. All action, in the judgment of a Hindi, is inferior to a contemplative state, and the soul in its regal
 
 
 1 Prof. Wilson says: “The term subtle vehicle of the soul is formed
-liiga in the first line is explained from the substance of the three in-
-to denote mahat [intellect] and the ternal organs and the finer elements
+liiga in the first line is explained from the substance of the three into denote mahat [intellect] and the ternal organs and the finer elements
 subtle products of pradhdna [Na- of matter (tanmdtra).
 ture].” This is a mistake. The * Gaudapada’s Commentary.
 linga does not denote them. This
 
 
-52 - HINDU PHILOSOPHY.
-
-
 grandeur has no part in the inferior life of action. It
 directs as a sovereign, but it does not work. In the
-system of Kapila, all action, even mental effort or appli-
-cation, is due to the influence of the three modes, of
+system of Kapila, all action, even mental effort or application, is due to the influence of the three modes, of
 which Nature (Prakriti) is formed, and the soul is not
 subject to their influence. It is, therefore, completely
 passive.!
@@ -3800,8 +3411,7 @@ and is endowed with knowledge.” But there is no true
 cognition until the soul has seen the individualised and
 complete sensations, now elaborated into form, in the
 buddht. It is from this effect that the soul seems to act,
-the motive power of the “intellect” being in close ap-
-proximation to it. It has, indeed, a kind of action in
+the motive power of the “intellect” being in close approximation to it. It has, indeed, a kind of action in
 itself, so far as observation and the formation of thought
 are action, but it is not an agent upon anything external
 to itself. Kapila insists upon this distinction, which is
@@ -3818,14 +3428,10 @@ pears to move when the clouds only
 aa
 
 
-HINDU PHILOSOPHY. 53
-
-
 essential to his system, from a strong conviction of the
 absolute and essential distinction of soul and matter.
 They are in their very nature subject and object, and can
-never coalesce. As “idea” and “thing” they are eter-
-nally separate, and their properties or functions can never
+never coalesce. As “idea” and “thing” they are eternally separate, and their properties or functions can never
 be interchanged. The doctrine of Fichte—that material
 things exist, at least to us, only as a result of the laws of
 the inward subjective nature—is wholly contrary to that
@@ -3834,28 +3440,21 @@ functions, but it is only by the juxtaposition of the two
 that knowledge can be gained. This is a result of the
 synthesis of the discerning faculty and the thing to be
 discerned. Hence there are no innate ideas, and the soul,
-when freed from the contact of matter, has neither know-
-ledge nor self-consciousness. The soul can only see what
+when freed from the contact of matter, has neither knowledge nor self-consciousness. The soul can only see what
 buddhi (intellect) presents to its view, and it is of the
 essence of his system that “nihil est in intellectu, quod
 non prius in sensu.” ‘ In making the soul absolutely
 dependent on the senses for its ideas; in refusing to admit
 that there is anything higher than the individual soul
 which may enlighten or act upon it, he laid the foundation
-for a philosophical atheism, or what is now called agnos-
-ticism. Like Fichte, in making the individual self, 2e.,
+for a philosophical atheism, or what is now called agnosticism. Like Fichte, in making the individual self, 2e.,
 the soul, the highest form of knowable being, he rejected
-the idea of a supreme, personal Deity, as a truth de-
-termined by logical inference, though it is not certain
+the idea of a supreme, personal Deity, as a truth determined by logical inference, though it is not certain
 that he absolutely denied it. We cannot know God,
 because he cannot be presented as an object to be seen in
-the buddhi, and the soul has no virtue or moral conscious-
-ness, for this is a property of our material nature. He
+the buddhi, and the soul has no virtue or moral consciousness, for this is a property of our material nature. He
 seems to magnify philosophy, as an outcome of human
 reason, as some of our modern teachers, but in reality
-
-
-54 HINDU PHILOSOPHY.
 
 
 degrades it, both in its mental and moral aspects, by
@@ -3866,8 +3465,7 @@ its knowledge, and even its self-consciousness.
 Kapila teaches (Dist. 21) that the material universe was
 formed, or, in Hindi phrase, the various forms of matter
 were evolved, by the unconscious Prakriti (Nature), for
-the use of the soul, a¢., that the soul may gain a know-
-ledge of material things, and thus by contrast know itself
+the use of the soul, a¢., that the soul may gain a knowledge of material things, and thus by contrast know itself
 as the means of a final liberation from matter. This is
 illustrated by the well-known tale of a blind man meeting
 in a forest with one that was lame, when, agreeing to help
@@ -3896,9 +3494,6 @@ their production is given. This has been stated in p. 17
 ff, but it may be useful to present it in a tabular form.
 
 
-HINDU PHILOSOPHY. 55
-
-
 1. Prakriti or primordial matter, the tn of the
 Greek philosophy.
 
@@ -3917,11 +3512,9 @@ or fire, and water.
 
 8. The Manas (mind), which is the first of the internal
 organs, receiving the impressions made upon the senses.
-It ought to be numbered with buddhi and ahankara, mak-
-ing with them the three internal organs.
+It ought to be numbered with buddhi and ahankara, making with them the three internal organs.
 
-9. The soul (dtman, Purusha), which is totally dis-
-tinct from Prakriti (Nature), forms, with Nature and
+9. The soul (dtman, Purusha), which is totally distinct from Prakriti (Nature), forms, with Nature and
 its emanations, the twenty-five tattwas (categories) in
 the Sankhya philosophy. He who understands them
 thoroughly has attained to the highest state of man in the
@@ -3929,8 +3522,7 @@ present life, and in laying aside the body in death shall
 know birth no more: he is for ever freed from any contact
 with matter, and therefore from pain. “He who knows
 the twenty-five principles, whatever order of life he
-may enter, and whether he wear braided hair, or a top-
-knot only, or be shaven, he is free; of this there is no
+may enter, and whether he wear braided hair, or a topknot only, or be shaven, he is free; of this there is no
 doubt.” 4
 
 
@@ -3943,9 +3535,6 @@ passion, and power denote it when affected by (the
 
 (Wilson, p. 79). The meaning is, ascetics, or be a Brahman, or has the
 whether he has the braided or shaven head (munda) of a Buddhist.
-
-
-56 HINDU PHILOSOPHY.
 
 
 mode) ‘goodness ;’ when affected by ‘darkness’
@@ -3962,10 +3551,8 @@ and Colebrooke by “ascertainment.” St. Hilaire writes,
 and with this interpretation the comment of Gaudapada
 agrees. “This is a jar, this is cloth; that which marks or
 designates thus is buddhi.” The word is, however, more
-commonly used in the sense of “determination,” “re-
-solve;” but this appears to be a secondary meaning, the
-primary being a defining or distinguishing act. “In-
-tellect” (buddhi) is then, in the system of Kapila, the
+commonly used in the sense of “determination,” “resolve;” but this appears to be a secondary meaning, the
+primary being a defining or distinguishing act. “Intellect” (buddhi) is then, in the system of Kapila, the
 faculty or organ by which outward objects are presented
 to the view of the soul in their proper and definite form.
 Some of the commentators suppose that here is the seat of
@@ -3980,18 +3567,13 @@ equally strange as attributes of matter. Having defined
 the soul as that which contemplates but never acts, he is
 
 1 Jt has this meaning in the is interpreted by Dr. Ballantyne as
-Hitopadega, “effort,” “determined “judgment.” ‘‘Intellect is judg-
-application” (see Voc. by Johnson). ment, and judgment, called also
+Hitopadega, “effort,” “determined “judgment.” ‘‘Intellect is judgapplication” (see Voc. by Johnson). ment, and judgment, called also
 
 
-2 The same word is used todenote ascertainment, is its peculiar modi-
-buddhi in the S. Parv. Bhashna, and fication ” (ii, 13).
+2 The same word is used todenote ascertainment, is its peculiar modibuddhi in the S. Parv. Bhashna, and fication ” (ii, 13).
 
 
 —
-
-
-HINDU PHILOSOPHY. 57
 
 
 obliged to assign every quality or state that is connected
@@ -4002,12 +3584,10 @@ the influence of that mode or constituent of Nature called
 (jndna), (3.) absence of passion or passivity (virdga), and
 (4.) supernatural power (aifwarya). When affected by
 the mode called “darkness,” it is then vice, ignorance,
-passion, and weakness. The commentators, who are gene-
-rally under a Vedantist influence, explain virtue (dharma)
+passion, and weakness. The commentators, who are generally under a Vedantist influence, explain virtue (dharma)
 as including humanity, benevolence, acts of restraint
 (yama) and of obligation (ntyama). Gaudapada explains
-acts of restraint as restraint of cruelty, falsehood, dis-
-honesty, incontinence, and avarice; acts of obligation
+acts of restraint as restraint of cruelty, falsehood, dishonesty, incontinence, and avarice; acts of obligation
 are purification, contentment, religious austerities, sacred
 study and divine worship; but he expressly refers this
 interpretation to the Patanjala, or theistic branch of the
@@ -4030,56 +3610,40 @@ to the soul, the power of pervading certain states, but he does not assign
 antist idea, Kapila attributes much constant attribute.
 
 
-4
-
-
-58 HINDU PHILOSOPHY.
-
-
 by internal knowledge, liberation, ¢.¢., from the bondage
 of matter.
 
 Kapila, however, placed a knowledge of the Vedas at
 a very low point, if he did not discard it altogether.
 Religious austerities and divine worship found no place
-in his system. The soul of man is the highest exist-
-ence which his philosophy contemplates, recognising, as
+in his system. The soul of man is the highest existence which his philosophy contemplates, recognising, as
 Comtism, only the supremacy of humanity, but rising
 above M. Comte in admitting the soul to be its only
 true representative.
 
-Dispassion is also of two kinds—one which is indif-
-ference to all external things, either on account of their
-defects, or the trouble of acquiring them, or their in-
-juriousness and wrong; and another which seeks only
+Dispassion is also of two kinds—one which is indifference to all external things, either on account of their
+defects, or the trouble of acquiring them, or their injuriousness and wrong; and another which seeks only
 to be delivered from matter, accounted as “illusion,” }
 that the soul may be free.
 
-By “power” or “mastery” is meant (we are told) super-
-natural or magical power. A devotee who shall attain,
+By “power” or “mastery” is meant (we are told) supernatural or magical power. A devotee who shall attain,
 by knowledge, to a complete abstraction from anything
 external to himself, can accomplish what he pleases:
 he may traverse all things by subtlety of Nature; may
 rise to colossal dimensions; may stand on the tops of the
 filaments of a flower; may rise to the solar sphere on a
-sunbeam, and may command the three worlds. What-
-ever the person having this faculty intends or proposes
+sunbeam, and may command the three worlds. Whatever the person having this faculty intends or proposes
 must be complied with by that which is the subject of
 his purpose; the elements themselves must conform to
 his designs. “The ordinary laws that govern material
 
 
 1 This is Gaudapada’s interpreta- ing from the rays of the sun (Indra).
-tion. “Illusion” (indrajala, Indra’s Here, as elsewhere, there is a Ved-
-net) means a kind of magic, pro- Antist colouring. Wilson renders it
+tion. “Illusion” (indrajala, Indra’s Here, as elsewhere, there is a Vednet) means a kind of magic, pro- Antist colouring. Wilson renders it
 bably at first a kind of mirage aris- “ witchcraft.”
 
 
-HINDU PHILOSOPHY. 59
-
-
-things,” says Hemachandra, “cannot impede the move-
-ments of one who has attained to this etherealised state.”
+things,” says Hemachandra, “cannot impede the movements of one who has attained to this etherealised state.”
 
 
 24. “Hgoism is self-consciousness. From this
@@ -4087,8 +3651,7 @@ proceeds a double creation (sarga, emanation), the
 series of the eleven (principles) and the five (subtle)
 elements.”
 
-25. “From consciousness modified (by ‘ good-
-ness’) proceed the eleven good principles ;* from
+25. “From consciousness modified (by ‘ goodness’) proceed the eleven good principles ;* from
 this origin ® of being as ‘darkness’ come the subtle
 elements. Both emanations are caused by the
 ‘foul’ or ‘active’ mode.” *
@@ -4101,11 +3664,9 @@ pride or conceit of individuality, self-sufficiency, the notion
 that ‘I do, I feel, I think, I am, I alone preside, and have
 
 
-1 In the Comm. on the S. Prava-
-chana by Vijnana Bhikshu, éhadasaka
+1 In the Comm. on the S. Pravachana by Vijnana Bhikshu, éhadasaka
 is explained as “eleventh,” 7.e., the
-eleventh organ, manas, which pro-
-ceeds from consciousness when modi-
+eleventh organ, manas, which proceeds from consciousness when modi-
 fied by goodness.
 
 2 Bhatadi, rightly translated by
@@ -4127,8 +3688,7 @@ mere consciousness. “It might be
 
 better expressed perhaps by le moi,
 as it adds to the simple conception
-of individuality the notion of self-
-property, the concentration of all
+of individuality the notion of selfproperty, the concentration of all
 objects and interests and feelings in
 the individual ” (Wilson, p. 91). The
 meaning of pride is a secondary
@@ -4145,15 +3705,11 @@ omnibus rebus semetipsum respici,
 omniaque ad se spectare ” (p. 36).
 
 
-60 HINDU PHILOSOPHY.
-
-
 power over all that is perceived or known, and all these
 objects of sense for my use: there is no other Supreme,
 except this ego, I am.’ This pride, from its exclusive
 application, is egotism.” We cannot suppose that Kapila
-meant to imply all this by the term abhimdana, but pro-
-bably he did mean by it that egoism is not merely a
+meant to imply all this by the term abhimdana, but probably he did mean by it that egoism is not merely a
 consciousness of our individual life, but that which forms
 the relation we bear to the outer world.
 
@@ -4236,8 +3792,7 @@ modes and the diversity of external things.” ”
 28. “The function of the five (senses), with
 
 
-1 Gaudapada, whom Wilson fol-
-lows, has sparsanaka, that which
+1 Gaudapada, whom Wilson follows, has sparsanaka, that which
 touches or has contact; the skin,
 as a sensitive organ. The MSS.,
 however, have twach, the skin, and
@@ -4250,9 +3805,6 @@ passage: “They (the organs) are
 numerous by specific modification
 of qualities, and so are external
 diversities.” Following the explana-
-
-
-62 HINDU PHILOSOPHY.
 
 
 regard to sound and other (sense-objects), is that
@@ -4269,14 +3821,12 @@ of the sensation of taste. The other organs are those
 of action. The organisation by which speech is produced
 is classed under this head, and the power or faculty
 of speech is evidently referred to mere sensation, as
-handling and walking. Probably Kapila meant to im-
-ply that language, at least in its primary form, only
+handling and walking. Probably Kapila meant to imply that language, at least in its primary form, only
 expresses what Locke calls “sensible” ideas; 2.¢., ideas of
 material things formed by the senses. The action of mind
 upon language he does not allude to, and as the soul,
 in the system of Kapila, can only contemplate, it
-does not appear how language has passed from the ex-
-pression of material objects to an abstract or spiritual
+does not appear how language has passed from the expression of material objects to an abstract or spiritual
 meaning.
 
 The manas belongs to both classes. It is both an
@@ -4310,8 +3860,7 @@ It may be translated as “formative” or “plastic;” the
 faculty of the manas being to collect together and
 arrange in an idealised form the manifold impressions
 of the senses.1 It is the sensoriwm commune in the
-system of Kapila. The Latin mens and our mind corre-
-spond to it in origin but not in meaning. In our
+system of Kapila. The Latin mens and our mind correspond to it in origin but not in meaning. In our
 Western philosophy, mind is usually considered as an
 expression for the rational faculties of the soul, and
 as opposed to matter; but in the view of Kapila, it is
@@ -4319,8 +3868,7 @@ not a part of the soul, but is itself a form of matter
 from a material source (Prakriti). Its functions are
 thus explained by Vachaspati: “It gives form in a
 collective manner to that which is perceived by an
-organ of sense, and says ‘This is a thing ;’ ‘This is com-
-pounded and that is not so, and it discriminates or
+organ of sense, and says ‘This is a thing ;’ ‘This is compounded and that is not so, and it discriminates or
 defines (a thing) by its specific or unspecific nature.”
 The manas then is the first agent between the outer
 world and the soul, collecting and shaping the scattered,
@@ -4333,13 +3881,10 @@ it is an organ as being cognate with
 the rest;” but the manas never
 ponders ; it is an unconscious agent,
 whose office is merely to transmit
-our sense-impressions, when col-
-lected and united, through con-
+our sense-impressions, when collected and united, through con-
 sciousness to the intellect (buddhi).
-It is an organ, not from being cog-
-nate merely with the other organs
-in its origin, but from having cog-
-nate duties or functions (sadharma)
+It is an organ, not from being cognate merely with the other organs
+in its origin, but from having cognate duties or functions (sadharma)
 to fulfil, Lassen translates thus:
 “ Gemine indolis inter hosce sensus
 
@@ -4347,20 +3892,15 @@ to fulfil, Lassen translates thus:
 est animus (manas), et imaginans
 est.” St. Hilaire: “Le cour
 (manas) est & la fois ... et un
-organe d’action et an organ d’in-
-telligence: sa fonction est de re-
+organe d’action et an organ d’intelligence: sa fonction est de re-
 unir.” The Hindi commentators
 seem to have been perplexed by the
-secondary meaning of sazikalpa, “ de-
-sign,’ in its twofold sense of a
+secondary meaning of sazikalpa, “ design,’ in its twofold sense of a
 “formed plan” or “project” and
 “resolve.” Hence, too, they have
 assigned the faculty of will to the
 manas, which in Kapila’s system is
 unconscious and subordinate.
-
-
-64 HINDU PHILOSOPHY. :
 
 
 It belongs, however, to that mode or constituent element
@@ -4377,8 +3917,7 @@ organs. It is so applied by Colebrooke and Professor
 Wilson after Gaudapada. But the distich is evidently
 devoted to a description of the manas, and the multiform
 action is assigned in the Sankhya Pravachana Bhashya
-more correctly to this organ alone, on which it is im-
-posed by the varying actions of the modes and the
+more correctly to this organ alone, on which it is imposed by the varying actions of the modes and the
 variety of external things: “as the same individual
 assumes different characters according to the influence
 of his associations, becoming a lover with his beloved,
@@ -4401,22 +3940,17 @@ The function of the five organs of the intellect is that
 of observation only (dlochana, seeing, observing). This
 
 
-HINDU PHILOSOPHY. 65
-
-
 cannot be applied literally to all the senses. The meaning
 appears to be that each organ acts passively in receiving
 only the sensations which affect it, as the eye receives
-impressions of form and colour. In the Sankhya Pra-
-vachana it is said that the senses are the instruments of
+impressions of form and colour. In the Sankhya Pravachana it is said that the senses are the instruments of
 the soul, It is through the action of the manas and
 buddhi that the impressions made on the senses become
 real perceptions, if such a term can be applied to the
 action of unconscious matter.
 
 
-29. “The function (or action) of the three (in-
-ternal organs) is the distinguishing mark (specific
+29. “The function (or action) of the three (internal organs) is the distinguishing mark (specific
 nature *) of each, and it is not common (to the
 three). The common (combined) function of these
 organs is (the production of) the five vital airs,
@@ -4424,8 +3958,7 @@ breathing and the rest.”
 
 30. “The function (or action) of the four (the
 internal organs and an organ of sense) is declared
-to be either instantaneous or consecutive with re-
-gard to visible objects; the function of the three
+to be either instantaneous or consecutive with regard to visible objects; the function of the three
 (internal organs) with regard to an invisible object
 is preceded by that of the fourth.” ”
 
@@ -4438,27 +3971,21 @@ have a common physiological function assigned to them,
 
 1 Swalakshanyam, “specifischeun- prior function,” but the function of
 terschiedenheit” (Petersburg Dict.). the three (internal organs) is pre-
-2 Tatpurvika vrittih, not, as Pro- ceded by that (the action of a sense-
-fessor Wilson translates it, “their organ).
+2 Tatpurvika vrittih, not, as Pro- ceded by that (the action of a sensefessor Wilson translates it, “their organ).
 E
-
-
-66 HINDU PHILOSOPHY.
 
 
 and that is the maintenance of the five vital “airs”? The
 word employed here (va@yu, air or wind) does not mean
 the elemental air, but a subtle inward force or action,
-necessary to vitality and independent of sensation. Ac-
-cording to Gaudapada they are—
+necessary to vitality and independent of sensation. According to Gaudapada they are—
 
 1. Prana, breath, the ordinary inspiration and expiration.
 
 2. Apaina, downward breath, the air or vital force acting
 in the lower parts of the body.
 
-3. Samdna, collective breath; “so named from conduct-
-ing equally the food, &c., through the body.”
+3. Samdna, collective breath; “so named from conducting equally the food, &c., through the body.”
 
 4. Uddna, ascending breath, the vital force that causes
 the pulsations of the arteries in the upper portions of the
@@ -4483,10 +4010,8 @@ variety of fanciful explanations is furnished by native
 airs is attributed by Gaudapada to
 all the organs, but by the Hindu
 commentators generally to the three
-internal organs exclusively. Vij-
-nana Bhikhsu, in his commentary
-on the Sankhya Pravachana, ex-
-pressly limits the production and
+internal organs exclusively. Vijnana Bhikhsu, in his commentary
+on the Sankhya Pravachana, expressly limits the production and
 continuance of the vital airs to the
 three internal organs (ii. 31).
 
@@ -4501,13 +4026,9 @@ be enwrapped “in five investing
 sheaths or coverings” (osha, cf. Fr.
 cosse; Ir. Gael. coch-al, a pod or
 husk). The third of these is called
-prana-maya, 2.¢., “the sheath com-
-posed of breath, and the other vital
+prana-maya, 2.¢., “the sheath composed of breath, and the other vital
 airs associated with the organs of
 action” (Indian Wisdom, p. 123).
-
-
-HINDU PHILOSOPHY. 67
 
 
 commentators. It is evident that they denote some subtle
@@ -4530,8 +4051,7 @@ either instantaneous, like a flash of lightning, or gradual;
 an object at a distance, and is in doubt whether it be
 a post or a man; he then observes some characteristic
 marks upon it, or a bird perched there, and doubt being
-thus dissipated by the reflection of the mind, the under-
-standing (6uddhi) discriminates that it 1s a post;+ and
+thus dissipated by the reflection of the mind, the understanding (6uddhi) discriminates that it 1s a post;+ and
 then egotism interposes for the sake of certainty, as
 “Verily (or I am certain) it is a post.’ In this way the
 functions of intellect, egotism, mind (manas), and the
@@ -4552,11 +4072,7 @@ the manas, the intellect (buddht) be-
 
 
 sankalpa, or collected form of an
-object from the sensory impres-
-sions,
-
-
-68 HINDU PHILOSOPHY.
+object from the sensory impressions,
 
 
 the range of the senses at a given time. If the object be
@@ -4568,8 +4084,7 @@ that this has been, by some means, unconsciously retained.
 Kapila seems to teach herein that “nihil est in intellectu
 quod non prius in sensu;” but not wholly so. He also
 would add, “ Nisi intellectus ipse.” The soul hasa distinct
-faculty, which belongs to its own nature and is indepen-
-dent of the inner or outer organs.
+faculty, which belongs to its own nature and is independent of the inner or outer organs.
 the forms of external things presented by its ministers, the
 internal organs. The soul alone is the seat of all real
 cognition; it alone knows and decides; it is therefore
@@ -4595,21 +4110,17 @@ It sees and understands ~
 
 
 1 Abita is glossed in the Petersb,
-Lexicon by absicht, antrieb. Cole-
-brooke’s translation is “incited by
+Lexicon by absicht, antrieb. Colebrooke’s translation is “incited by
 mutual invitation.” Lassen has
-‘ad quam cietur unum ratione al-
-terius.” The meaning of ‘“incite-
+‘ad quam cietur unum ratione alterius.” The meaning of ‘“incite-
 ment to activity,” mentioned by
 Wilson, expresses more nearly the
-sense of akita. ‘‘ L’influence spon-
-tanée qu’ils exercent les uns sur les
+sense of akita. ‘‘ L’influence spontanée qu’ils exercent les uns sur les
 
 
 autres ” (St. Hilaire), It is composed
 of a, to, towards, and ha, to cry.
-Gaudapada says that it means a@dara-
-sambhrama (respectful eagerness in
+Gaudapada says that it means a@darasambhrama (respectful eagerness in
 action).
 
 Colebrooke and Wilson suppose
@@ -4617,9 +4128,6 @@ that in this distich all the organs are
 referred to, but Gaudapada, more
 correctly, I think, connects it with
 the three internal organs only.
-
-
-HINDU PHILOSOPHY. 69
 
 
 This word generally implies a conscious purpose or resolve ;
@@ -4641,10 +4149,8 @@ manifesting : the effect to be produced is of ten
 kinds, and is that which is to be seized, retained,
 or manifested.”
 
-33. “The internal organs are three; the exter-
-nal ten,’ and these are to make known external
-objects to the three (internal organs). The exter-
-nal organs act only at the time present; the
+33. “The internal organs are three; the external ten,’ and these are to make known external
+objects to the three (internal organs). The external organs act only at the time present; the
 internal (or intermediate) at the three divisions of
 
 
@@ -4660,9 +4166,6 @@ this view; but the author of the “Karika” appears to
 1 St. Hilaire translates this part The text is dasadha vahyam, ‘‘ the
 ‘‘Pexterieur [organe] est simple,” external (set of organs) is in ten
 but for what reasons he does not say. divisions,”
-
-
-70 HINDU PHILOSOPHY.
 
 
 attribute these properties to all the organs alike. The
@@ -4681,15 +4184,12 @@ future. This would seem to imply that they possess
 within themselves a power of volition, and that they are
 the seat of memory. The manas and the other internal
 organs appear to have impressions stamped, or (so to
-speak) photographed upon them; and these may be re-
-produced without reference to time. But Kapila has not
+speak) photographed upon them; and these may be reproduced without reference to time. But Kapila has not
 attempted to determine where the power of willing resides,
-nor has he treated of memory or imagination as a dis-
-tinct faculty. If the soul really directs, “as a charioteer
+nor has he treated of memory or imagination as a distinct faculty. If the soul really directs, “as a charioteer
 directs a chariot,” then it acts, though not as a mechanical
 force, and the faculty of volition must belong to it. But
-the action of the internal organs in reproducing a pre-
-vious impression is not expressly referred to the soul, but
+the action of the internal organs in reproducing a previous impression is not expressly referred to the soul, but
 rather to the organs themselves, which, though material,
 are thus endowed with a kind of volition.
 
@@ -4699,21 +4199,16 @@ the manas.
 
 1 In the Sankhya Pravachana
 (ii. 39-41) the manas is called the
-chief of the organs, and the pos-
-session of memory is assigned as a
+chief of the organs, and the possession of memory is assigned as a
 reason for the distinction. Memory
 is therefore a quality or function of
 
 
 Gaudapada, however,
-attributes to each of the three inter-
-nal organs the power of acting ac-
+attributes to each of the three internal organs the power of acting ac-
 cording to its own nature without
 reference to time, and to buddhi
 (intellect) is attributed the power
-
-
-HINDU PHILOSOPHY. 71
 
 
 The results of the action of the organs are tenfold,
@@ -4732,8 +4227,7 @@ internal organs, allies itself* with all objects of sense,
 these three organs are the gatekeepers and the rest
 are gates.”
 
-36. “These having different characteristic (speci-
-fic) differences from each other, and being variously
+36. “These having different characteristic (specific) differences from each other, and being variously
 affected by the modes, present the whole (of being *)
 in the ‘intellect’ (buddhi) for the sake of the soul,
 
@@ -4754,8 +4248,7 @@ must be a product of the three.
 1 Vishaya, gebiet, wirkungskreis
 (Peters. Dict.). The meaning is, the
 five intellectual organs have specific
-and non-specific objects as their pro-
-vince or domain. ‘“Sensuum perfi-
+and non-specific objects as their province or domain. ‘“Sensuum perfi-
 ciendiinterhos quinumprovincie sunt
 distincta atque indistincta,” (Lassen).
 
@@ -4771,10 +4264,8 @@ H.); lit. “dives down to,” and thence,
 4 “Present to the intellect the
 soul’s whole purpose” (Colebrooke
 and Gaudapada). ‘ Universitatem
-genii causa menti tradunt” (Las-
-sen). St. Hilaire has, after Cole-
-brooke, ‘‘presentent a Jintelli-
-gence l’objet entier de Ame.” T
+genii causa menti tradunt” (Lassen). St. Hilaire has, after Cole-
+brooke, ‘‘presentent a Jintelligence l’objet entier de Ame.” T
 prefer Lassen’s version. The organs
 bring all things in a definite form
 before the soul, as a lamp reveals
@@ -4785,11 +4276,7 @@ both them and itself.
 ca
 
 
-72 HINDU PHILOSOPHY.
-
-
-the fruition of the soul, so also it is that which dis-
-criminates the subtle difference between the chief
+the fruition of the soul, so also it is that which discriminates the subtle difference between the chief
 principle (Pradhdna = Prakriti) and the soul.”
 
 
@@ -4809,14 +4296,12 @@ well as to the gross elements. For example, the gross
 element ether is produced from a subtle element called
 “sound.” The doctrine of Kapila seems to be, that in
 hearing, the ear has a relation not only to the ether, but
-to the subtler principle that underlies it; a dim appre-
-hension of the truth that hearing depends not only on
+to the subtler principle that underlies it; a dim apprehension of the truth that hearing depends not only on
 some channel of communication between the ear and the
 source of sound, but on some modification of the material
 element through which the sound is conducted. This
 explanation is supported by the S. Tattwa Kaumudi,
-which identifies specific with corporeal objects, and non-
-specific with subtle, rudimental objects, the latter being
+which identifies specific with corporeal objects, and nonspecific with subtle, rudimental objects, the latter being
 seen only by holy men and gods. This clause Kapila
 would reject, for he set knowledge and philosophers above
 virtue and holy men, and is silent about the gods. He
@@ -4826,11 +4311,7 @@ appears to have supposed that a high power of physical
 ——— ee
 
 
-HINDU PHILOSOPHY. 73
-
-
-discernment is possible to those who are sufficiently en-
-lightened by knowledge.
+discernment is possible to those who are sufficiently enlightened by knowledge.
 
 Speech has reference only to sound, z.¢., we can only
 hear it; but the remaining four organs of action may be
@@ -4851,8 +4332,7 @@ pay them to the governor of the district; as the local
 governor pays the amount to the minister, and the
 minister receives it for the use of the king; so the
 manas having received ideas from the external organs
-transfers them to consciousness, and consciousness de-
-livers them to intellect (Guddhz), the general superin-
+transfers them to consciousness, and consciousness delivers them to intellect (Guddhz), the general superin-
 tendent, who takes charge of them for the use of the
 sovereign, soul.”? The intellect is, therefore, the soul’s
 chief officer, its direct agent, and presents all that it
@@ -4867,12 +4347,10 @@ p. 115.
 
 2 Wilson, p. 117.
 
-3 The mental physiology of Ka-
-pila is imperfect. The “intellect”
+3 The mental physiology of Kapila is imperfect. The “intellect”
 
 
-(duddhi) merely represents sensa-
-tional ideas in a complete form to
+(duddhi) merely represents sensational ideas in a complete form to
 the gaze of the soul, and the soul
 never acts. It does not appear,
 therefore, how abstract ideas are
@@ -4881,15 +4359,11 @@ therefore, how abstract ideas are
 —= ee ik
 
 
-74 HINDU PHILOSOPHY.
-
-
 tween matter and itself in order to discern its own
 higher nature. This knowledge does not lead to virtue
 or piety. Gaudapada says that it is gained only by
 those who practise religious austerities; but here, as
-in other places, he misinterprets Kapila, to whom re-
-ligion was neither a means nor an end, It has an
+in other places, he misinterprets Kapila, to whom religion was neither a means nor an end, It has an
 inferior place in his system. Virtue and religion may
 do something, by causing the attainment of a happier
 birth, but by knowledge only can the soul attain to
@@ -4907,8 +4381,7 @@ which underlie them have been explained in page 20.
 The subtle elements are said to be non-specific. This
 is explained to mean that “they have only one quality
 or mode, which is not affected by change, and by which
-no feeling of pleasure, pain, or stupidity can be pro-
-duced.” But it belongs to the nature of any mode or
+no feeling of pleasure, pain, or stupidity can be produced.” But it belongs to the nature of any mode or
 constituent of Nature to produce some effect of this kind.
 Vijnina Bhikshu explains the term “non-specific” by
 saying that “the subtle elements are not affected by
@@ -4917,17 +4390,12 @@ the gross elements change in their nature and effects
 according to circumstances. Thus the wind is agree-
 
 
-formed, or by what means a course called chitta, the thinking or rea-
-of reasoning can be carriedon. The soning faculty.
+formed, or by what means a course called chitta, the thinking or reaof reasoning can be carriedon. The soning faculty.
 Vedantists add a fourth faculty
 
 
 .
-4
 a Coa
-
-
-HINDU PHILOSOPHY. 75
 
 
 able to a person oppressed by heat, disagreeable to
@@ -4939,16 +4407,13 @@ the gods, and sometimes even sages, may perceive them
 and receive pleasure from them.t They must also be
 affected by the modes, for these form every development
 of Nature, as they are from Nature itself. We may
-best translate these terms by “diversified” and “non-
-diversified.” The subtle elements have each only one
+best translate these terms by “diversified” and “nondiversified.” The subtle elements have each only one
 nature and one effect. The gross elements may have
-various effects, and become changed in kind by com-
-mingling in various degrees.
+various effects, and become changed in kind by commingling in various degrees.
 
 
 39. “Subtle (bodies), those which are born of
-father and mother, with the gross forms of exist-
-ence,” are the threefold species (of bodies). Of
+father and mother, with the gross forms of existence,” are the threefold species (of bodies). Of
 these, the subtle are permanent; those which are
 born of father and mother perish.”
 
@@ -4961,29 +4426,20 @@ the rest, down to the subtle elements, migrates,
 of gross elemental bodies are here
 defined, the subtle being only subtle
 relatively, or in comparison with
-uterine and other bodies or sub-
-stances ; but the liviga is not formed
-of the gross elements; it is a com-
-pound of the substance of the three
-internal organs and of the finer ele-
-ments called tanmdtrani. All are
+uterine and other bodies or substances ; but the liviga is not formed
+of the gross elements; it is a compound of the substance of the three
+internal organs and of the finer elements called tanmdtrani. All are
 bodies or developed forms, but not
 of the same materials.
 
 
  * Saha prabhitais. Prabhuta, that
 which is brought into being, often
-used with an idea of multitude con-
-nected with it; “in grossem Maase
-vorhanden” (St. Peters. Lex.). Cole-
-brooke has “together with the great
+used with an idea of multitude connected with it; “in grossem Maase
+vorhanden” (St. Peters. Lex.). Colebrooke has “together with the great
 elements;” Lassen, “crassa” simply.
-The reference is not to the gross ele-
-ments, but to the substances formed
+The reference is not to the gross elements, but to the substances formed
 from them.
-
-
-76 HINDU PHILOSOPHY.
 
 
 never enjoys, and is endowed with dispositions”
@@ -5006,8 +4462,7 @@ by the aggregation of the subtle elements, which in
 themselves are “non-specific” or undiversified. Hach
 linga is inseparably connected with its appropriate soul,
 whose minister it is, until it is no longer required. It
-has a separate existence from the body which is pro-
-duced in the womb of the mother. The latter dies and
+has a separate existence from the body which is produced in the womb of the mother. The latter dies and
 has no more distinct existence, but the diziga never dies;
 it migrates with the soul. It is endowed with a separate
 vitality of a subtle kind, but still material, for it is formed
@@ -5022,35 +4477,28 @@ we possess a frame, or the rudiments so as to produce what may be termed
 of a frame, connecting us with the
 invisible universal, which we may
 call the spiritual body.” ‘Now,
-each thought that we think is accom-
-panied by certain molecular motions
+each thought that we think is accompanied by certain molecular motions
 and displacements in the brain, and
 part of these, let us allow, are in
 
 
 our material or physical memory.
 Other parts of these motions are,
-however, communicated to the spi-
-ritual or invisible body, and are
+however, communicated to the spiritual or invisible body, and are
 there stored up, forming a memory
 which may be made use of when
 that body is free to exercise its
-
-
-HINDU PHILOSOPHY. 77
 
 
 rising to the heaven of Indra or to other celestial abodes,
 though it may descend to the vilest human forms, or even
 to the bodies of beasts and reptiles. Kapila does not
 appear to recognise the possibility of the soul existing
-independent of material conditions until it has been pre-
-pared for its solitary but perfect state by a knowledge of
+independent of material conditions until it has been prepared for its solitary but perfect state by a knowledge of
 the nature of the outer world and its own higher nature.
 
 The linga was created primevally, or with the first
-emanations of Nature (Prakriti). Its period is there-
-fore indefinite.
+emanations of Nature (Prakriti). Its period is therefore indefinite.
 
 It is unconfined, %.¢., it is not confined to one body;
 it is capable of passing into any number of bodies or
@@ -5061,8 +4509,7 @@ the soul until the latter has attained by knowledge to
 a perfect liberation from all matter. The lizga is then
 resolved into Nature again.
 
-It does not enjoy or possess, for it is only the hand-
-maid or minister of the true sovereign, the soul.
+It does not enjoy or possess, for it is only the handmaid or minister of the true sovereign, the soul.
 
 It is of a subtle nature, being formed from the primary
 emanations of Nature, “intellect (6uddiz) and the rest.”
@@ -5071,18 +4518,13 @@ as virtue and other faculties or powers. As the S.
 Tattwa Kaumudi explains its nature, it is “through
 the influence of intellect (buddht) that the whole of
 the subtle body is affected by dispositions or conditions,
-in the same manner as a garment is perfumed by con-
-tact with a fragrant champa flower.” 4
-functions” (The Unseen Universe, 1 The Bauhinia variegata of Lin-
-p. 159.) This “spiritual body” neus. It is called kovidara in the
+in the same manner as a garment is perfumed by contact with a fragrant champa flower.” 4
+functions” (The Unseen Universe, 1 The Bauhinia variegata of Linp. 159.) This “spiritual body” neus. It is called kovidara in the
 answers to the liziga, which carries Asiat. Res. (iv. 285) ; a leguminous
 
 
 into another state of being the feel- plant; “ flowers chiefly purplish and
 ings and habits of a previous state. _rose-coloured, fragrant.”
-
-
-78 HINDU PHILOSOPHY.
 
 
 41. ‘‘As a painting does not stand without a
@@ -5091,8 +4533,7 @@ stake, &c., so the linga does not exist unsupported,
 without specific elements.”
 
 42. “Formed for the sake of the soul, the
-linga, by the connection of means and their re-
-sults, and by union with the predominant power
+linga, by the connection of means and their results, and by union with the predominant power
 of Nature, plays its part like a dramatic actor.”
 
 
@@ -5101,8 +4542,7 @@ exist alone. It needs a support or receptacle, but what
 kind of support is not clearly defined. Gaudapada reads
 aviseshairvina, “without unspecific elements,” 7.¢., the
 subtle elements of material things (fanmdtra). The
-usual reading is “ without specific elements,” ¢.e., “ with-
-out the grosser elements,” as the word is usually trans-
+usual reading is “ without specific elements,” ¢.e., “ without the grosser elements,” as the word is usually trans-
 lated, but here it means, I think, as in Distich 38,
 specific forms, which are usually of the gross elements.
 The linga alone cannot perform any functions; it
@@ -5117,8 +4557,7 @@ mean a frame in which it may be
 fixed ; but Colebrooke translates the
 word by “ground,” and the authors
 of the Peters. Dict. interpret the
-passage by “wie ein Bild ohne Un-
-terlage” (s. v. aéraya).  Vijnana
+passage by “wie ein Bild ohne Unterlage” (s. v. aéraya).  Vijnana
 Bihkshu (Com. Sank. Pravachana
 iii. 9) makes the linga to be formed
 of seventeen principles or factors,
@@ -5126,16 +4565,13 @@ the “eleven organs, the five subtle
 elements and buddhi (intellect).
 
 
-Self-consciousness or egoism is in-
-cluded in the latter.” He explains
+Self-consciousness or egoism is included in the latter.” He explains
 the support which the liiga requires
 to be that of the gross body.
 
 2 The liiga and the liiga-sarira
-(linga-body) are sometimes con-
-founded ; but the liga is a rudi-
-mental substance, sometimes com-
-pared to light, and the linga-sarira
+(linga-body) are sometimes confounded ; but the liga is a rudi-
+mental substance, sometimes compared to light, and the linga-sarira
 is its vehicle. ‘‘ When a dead body
 is burnt by one who knows and can
 repeat these verses (Smarta-stitra,
@@ -5143,16 +4579,12 @@ x. 18, 11, and x. 14, 7-II) properly,
 then it is certain the soul (invested
 
 
-HINDU PHILOSOPHY. 79
-
-
 deposited in the maternal womb, is connected with
 another body produced in the womb of the mother from
 gross elements.
 
 This distinction between gross and subtle bodies runs
-through the whole of Hindu philosophy. It is trans-
-ferred to other worlds. According to the Institutes of
+through the whole of Hindu philosophy. It is transferred to other worlds. According to the Institutes of
 Manu, a subtle body envelops the souls of the wicked,
 that they may suffer the torments of hell.t
 
@@ -5161,10 +4593,8 @@ order that the destinies of the soul may be fulfilled,
 either in successive forms of an united existence, or in
 a final deliverance from matter. Sometimes it dwells
 in noble, and at other times ignoble forms, according
-to the virtues or vices of a’ former life. These vicissi-
-tudes are undergone by the agency of a peculiar energy
-or attribute (vibhutt) of Nature, to whom here a pre-
-siding power is given. The linga is the receptacle of
+to the virtues or vices of a’ former life. These vicissitudes are undergone by the agency of a peculiar energy
+or attribute (vibhutt) of Nature, to whom here a presiding power is given. The linga is the receptacle of
 the soul, giving it a kind of attributive or conditioned
 nature by contact, and it bears the soul, which never
 
@@ -5179,8 +4609,7 @@ Ahavaniya fire and strewn with the
 plants Avaka and Sipala; and the
 commentator adds that the soul of
 the dead man, invested with its
-vehicular subtle body (called ativa-
-hika and sometimes adhishthdna, and
+vehicular subtle body (called ativahika and sometimes adhishthdna, and
 distinct from the linga or sukshma,
 being angushtha-mdatra, ‘of the size
 of a thumb’), waits in this hole until
@@ -5190,10 +4619,8 @@ to heaven.” _
 
 
 The Hindi commentators are
-much perplexed by the word “ spe-
-cific” being applied to the subtle
-body of the linga. There is, how-
-ever, no real inconsistency in the
+much perplexed by the word “ specific” being applied to the subtle
+body of the linga. There is, however, no real inconsistency in the
 language of Iswara Krishna. The
 subtle body which is the envelope of
 the litiga is specific or diversified
@@ -5206,14 +4633,7 @@ may be combined in various degrees.
 1 Manu, xii. 16. This body is
 said to be formed of the five gross
 elements (mdtrdni), not “(nerves
-of) five sensations,” as Sir C, Haugh-
-ton translates the word,
-
-
-HINDU PHILOSOPHY.
-
-
-80
+of) five sensations,” as Sir C, Haughton translates the word,
 
 
 acts, from one body to another. It forms the personality
@@ -5222,8 +4642,7 @@ acts, from one body to another. It forms the personality
 of each individual.
 
 
-43. “Conditions or states of being are trans-
-cendental, natural, and modified. These (last)
+43. “Conditions or states of being are transcendental, natural, and modified. These (last)
 are virtue and the rest. They must be considered
 as including cause (lit. cause-receptacle), and
 those which belong to the uterine germ and the
@@ -5255,8 +4674,7 @@ there is a dissolution of Nature (Prakriti*) or
 (the power of Nature is destroyed).
 
 
-1 Colebrooke’s translation is, “ Es-
-sential dispositions are innate. In-
+1 Colebrooke’s translation is, “ Essential dispositions are innate. In-
 cidental, as virtue and the rest,
 are considered appurtenant to the
 instrument.” The meaning of the
@@ -5265,14 +4683,12 @@ or states of being in every specific
 existence, but that they differ in
 their nature and their source.
 
-2 Lassen’s translation is, “ placi-
-ditatedeletur potentia nature.” The
+2 Lassen’s translation is, “ placiditatedeletur potentia nature.” The
 original is vairagyat prakritilayah
 (from the absence of passion is
 nature - dissolution). The Hindu
 commentators interpret the words
-to mean that by dispassion an ab-
-sorption into Nature is gained, z.e.,
+to mean that by dispassion an absorption into Nature is gained, z.e.,
 of the subtle body as well as the
 gross, but that final deliverance is
 
@@ -5281,14 +4697,11 @@ Transmi-
 
 
 not hereby gained. So says Vijnana
-Bhikshu : “In the absence of know-
-ledge of the distinction (between
+Bhikshu : “In the absence of knowledge of the distinction (between
 Soul and Nature), when indifference
 towards Mind, &c., has resulted
-from devotion to Nature, then ab-
-sorption into Nature takes place ;
-for it is declared, ‘Through dispas-
-sion there is absorption into Nature.’
+from devotion to Nature, then absorption into Nature takes place ;
+for it is declared, ‘Through dispassion there is absorption into Nature.’
 Even through this, i.e., absorption
 into the cause, the end is not gained,
 because there is a rising again as in
@@ -5299,9 +4712,6 @@ because it is a cardinal doctrine of
 the Sankhya philosophy that the
 final liberation of the soul from
 matter can only be gained by know-
-
-
-HINDU PHILOSOPHY. 81
 
 
 eration is from disorderly passion. By power we
@@ -5315,16 +4725,14 @@ or constructive (modified). To the former class belong:
 by sages, or, as Gaudapada supposes, by the great sage
 Kapila; (2.) that which is natural (prakritika), or the
 state at birth caused by virtue or vice in a previous
-existence. The constructive or modified condition (vatk-
-ritika) is gained by other means, as by knowledge ob-
+existence. The constructive or modified condition (vatkritika) is gained by other means, as by knowledge ob-
 tained from a tutor.
 
 The modified conditions are: (1.) Intellectual, as virtue
 and the rest, z.¢., virtue, knowledge, absence of passion,
 power and their contraries. These conditions have the
 nature of cause or instrument, for they produce a higher
-or lower state in a subsequent life, or even final deliver-
-ance from matter. (2.) Other superadded conditions
+or lower state in a subsequent life, or even final deliverance from matter. (2.) Other superadded conditions
 belong to the generated body and the progress from
 infancy to old age. These have only the nature of effect.
 They are due to external circumstances, and do not
@@ -5332,8 +4740,7 @@ produce anything.
 
 By virtue (dharma), as a cause, the soul and its subtle
 body, the liiga-Sartra, may rise to a higher state, either
-upon earth, or in one of the eight heavens, or supra-
-mundane abodes. These are :—
+upon earth, or in one of the eight heavens, or supramundane abodes. These are :—
 
 
 ledge. It does not, however, recog- the meaning is, “ By the destruction
@@ -5341,29 +4748,22 @@ ledge. It does not, however, recog- the meaning is, “ By the destruction
 
 nise any absorption of the subtle
 body into Nature until the soul is
-entirely free; and hence, notwith-
-standing the general consensus of
+entirely free; and hence, notwithstanding the general consensus of
 Hindi commentators, I think Las-
 
 
 sen’s translation is correct, and that
 
 
-of passion the influence of the ma-
-terial world (Prakriti) is destroyed,
+of passion the influence of the material world (Prakriti) is destroyed,
 and the soul is independent, though
-not yet finally liberated.” See Dis-
-tich 67.
-
-
-82 HINDU PHILOSOPHY.
+not yet finally liberated.” See Distich 67.
 
 
 1. The region of the Pigachas, who are genii of the
 lowest class.
 
-2 and 3. The regions of the Rakshasas and the Yak-
-shas, of a higher class.
+2 and 3. The regions of the Rakshasas and the Yakshas, of a higher class.
 
 4. That of the Gandharvas, a kind of demigods, the
 musicians of the higher class of deities. :
@@ -5420,13 +4820,8 @@ solong. The manwantara is a period
 of 4,320,000 years.
 
 
-HINDU PHILOSOPHY. 83
-
-
-ditions. The common Hindi interpretation of the pas-
-sage is, that for a time all the elements which form any
-envelopment of the soul are absorbed into Nature (Pra-
-kriti), but they are re-formed again until the soul has gained
+ditions. The common Hindi interpretation of the passage is, that for a time all the elements which form any
+envelopment of the soul are absorbed into Nature (Prakriti), but they are re-formed again until the soul has gained
 the knowledge by which alone it can be finally liberated
 from matter.
 
@@ -5440,8 +4835,7 @@ which every obstacle may bar its course.
 
 46. “This is an intellectual production (or
 evolved state) which is distinguished by the names
-of obstruction, incapacity, acquiescence (or content-
-ment), and perfection. By the hostile influence
+of obstruction, incapacity, acquiescence (or contentment), and perfection. By the hostile influence
 (vimarda, destruction, ravage, hostile attack) of
 modal inequalities (or specific differences) the
 different kinds are fifty.”
@@ -5466,39 +4860,29 @@ a
 oad
 
 
-84 HINDU PHILOSOPHY.
-
-
-accounted as ‘ineapacity.’ The seventeen (in-
-juries) of the intellect are from the opposites of
+accounted as ‘ineapacity.’ The seventeen (injuries) of the intellect are from the opposites of
 acquiescence and perfection.”
 
 50. “Nine varieties of acquiescence are set
 forth ; four internal, named from Nature, means,
-time, and fortune; five external, relating to absti-
-nence from objects of sense.”
+time, and fortune; five external, relating to abstinence from objects of sense.”
 
 
 The 46th and following distichs form the outline of a
-Hindi system for “the conduct of the human understand-
-ing;” but as they stand, they are too indefinite to have
+Hindi system for “the conduct of the human understanding;” but as they stand, they are too indefinite to have
 any practical value, and the commentators are not agreed
 in all points as to the right meaning.
 
 In the phrase “intellectual production” (pratyaya sarga).
-the first part represents buddhi, the faculty by which modi-
-fied sensations are presented as ideas to the gaze of the
+the first part represents buddhi, the faculty by which modified sensations are presented as ideas to the gaze of the
 soul. “ By intellectual production,” says Professor Wilson,
 “are to be understood the various accidents of human life
-occasioned by the operations of the intellect or the exer-
-cise of its faculties, virtue, knowledge, impassiveness, and
-power, or their contraries.” It denotes rather new condi-
-tions or modifications of the intellect itself, which by the
+occasioned by the operations of the intellect or the exercise of its faculties, virtue, knowledge, impassiveness, and
+power, or their contraries.” It denotes rather new conditions or modifications of the intellect itself, which by the
 varied action of the modes may be differently formed or
 modified.
 
-“Obstruction” is explained by Vachaspati as “igno-
-rance;” by Gaudapada as “doubt.” It is whatever is
+“Obstruction” is explained by Vachaspati as “ignorance;” by Gaudapada as “doubt.” It is whatever is
 opposed to the soul’s purpose of final liberation from
 contact with matter.
 
@@ -5507,9 +4891,6 @@ senses. Acquiescence or contentment (tushti) is a passive
 
 
 1 Lassen calls the results “mentis conditiones speciales,” p. 46.
-
-
-HINDU PHILOSOPHY. 85
 
 
 state of the intellect. Perfection (siddhi) means perfect
@@ -5534,42 +4915,32 @@ to seek for the eight degrees of supernatural power (see
 p. 58). The soulis thus drawn aside from its proper aim.
 
 Extreme illusion is the error of seeking happiness in
-sensual objects, and is interpreted as being tenfold, be-
-cause gods and men may seek happiness in the pleasures
+sensual objects, and is interpreted as being tenfold, because gods and men may seek happiness in the pleasures
 of the senses, and thus there may be a double series of
-errors arising from the five senses. ‘Thus say all the com-
-mentators; but more probably, as M. St. Hilaire has
+errors arising from the five senses. ‘Thus say all the commentators; but more probably, as M. St. Hilaire has
 suggested, reference is here made to the five organs of
 sense and the five organs of action.
 
-Gloom (¢émisra) is interpreted “hate,” and the explana-
-tion is, that a man may hate the ten senses or organs, and
+Gloom (¢émisra) is interpreted “hate,” and the explanation is, that a man may hate the ten senses or organs, and
 the eight degrees of supernatural power. He may thus be
 as much disturbed and drawn away from his proper aim
 as by the influence of love. The highest state to which
-he can attain next to Nirvdina is one of pure contempla-
-tion, in which nothing is hated or loved.
-
-
-86 HINDU PHILOSOPHY.
+he can attain next to Nirvdina is one of pure contemplation, in which nothing is hated or loved.
 
 
 Utter darkness (andhataimisra, lit. the darkness of ‘the
 blind) is terror. It may be the fear of death in men, and
 in gods the fear of being expelled from heaven by the
 Asuras; in each case it is the loss of pleasure or power
-which is feared ; and as their sources are eighteen in num-
-ber,! there are so many varieties of “ utter darkness.”
+which is feared ; and as their sources are eighteen in number,! there are so many varieties of “ utter darkness.”
 
 The destructive injuries of the eleven organs, 7.¢., of the
 organs of sense and action with the manas, are deafness,
 blindness, paralysis, loss of taste and smell, dumbness,
-mutilation, lameness, constipation, impotence, and in-
-sanity. The injuries of the intellect are the inversed or
+mutilation, lameness, constipation, impotence, and insanity. The injuries of the intellect are the inversed or
 evil forms of acquiescence, of which there are nine
 varieties, and of perfection, of which there are eight.
-These states of acquiescence are both internal and ex-
-ternal, The internal kind is fourfold. A man may
+These states of acquiescence are both internal and external, The internal kind is fourfold. A man may
 believe, for instance, that Nature does everything and
 will in time procure the liberation of the soul; he
 remains, therefore, passive. Or he may rest satisfied with
@@ -5577,8 +4948,7 @@ the efficacy of some religious or ascetic observances, or
 in the idea that liberation will necessarily come in time,
 or by an accident of fortune.
 
-The five external inversions of acquiescence are abstin-
-ence from the five kinds of sensuous pleasure, not from a
+The five external inversions of acquiescence are abstinence from the five kinds of sensuous pleasure, not from a
 right idea of their obstructive nature, but merely from a
 desire to avoid the trouble and anxiety which they may
 cause by the indulgence of them.
@@ -5594,39 +4964,31 @@ perception, or the five objects of all sensual delights.
 sense, twice told, to gods and men.
 
 
-HINDU PHILOSOPHY. 87
-
-
 ing perfection) are reasoning (wha), word or oral
 instruction (sabda), study or reading (adhyayana),
-the suppression of the three kinds of pain, ac-
-quisition of friends and liberality (dana). The
+the suppression of the three kinds of pain, acquisition of friends and liberality (dana). The
 three fore-mentioned (conditions) are checks to
 perfection.”
 
 
 The fore-mentioned conditions are the several varieties
 of obstruction, incapacity, and acquiescence. They are
-all checks or hindrances in the pursuit of perfect know-
-ledge. Kapila now defines the eight methods or means
+all checks or hindrances in the pursuit of perfect knowledge. Kapila now defines the eight methods or means
 of attaining it.
 
-Vachaspati interprets the first source of perfect know-
-ledge, “reasoning,” to be “investigation of scriptural
+Vachaspati interprets the first source of perfect knowledge, “reasoning,” to be “investigation of scriptural
 authority by dialectics which are not contrary to the
 scriptures;”1 but this gloss is evidently due to the
 Vedantist views of the commentator. In placing reason
 as the first source of perfection, Kapila meant to ignore
 the Vedas, or to place them on a lower scale. Human
-reason is the highest power which his system acknow-
-ledges. It is sufficient to determine what is truth,
+reason is the highest power which his system acknowledges. It is sufficient to determine what is truth,
 or at least it is the supreme judge of truth and error,
 in all that can be known. But its capacity has no
 defined limits. Such questions as “What am I?”
 “Whence have I come?” “ What is the true purpose of
 my existence and of all existence?” might be answered,
-he supposed, by the reason, if not alone, yet as para-
-mount over all other means. But the knowledge gained
+he supposed, by the reason, if not alone, yet as paramount over all other means. But the knowledge gained
 by reason, though far above virtue, is not man’s highest
 state: it is only a means to the final deliverance of
 
@@ -5646,12 +5008,10 @@ The suppression of the three kinds of pain (see Distich
 1), forms one of the means of acquiring perfection by
 taking away an obstacle to thought or meditation.
 
-Intercourse with friends is sometimes limited to philo-
-sophical discussions with a teacher or fellow-student.
+Intercourse with friends is sometimes limited to philosophical discussions with a teacher or fellow-student.
 
 Liberality (dana) is explained as giving money or other
-offerings to a teacher or to religious devotees; a Brah-
-manic gloss. Vachaspati and Narayana, however, explain
+offerings to a teacher or to religious devotees; a Brahmanic gloss. Vachaspati and Narayana, however, explain
 the word as meaning purity (Suddhi), deriving it from the
 root daip,’ to purify, and not from dé, to give. M. St.
 Hilaire approves of this interpretation. Professor Wilson
@@ -5669,19 +5029,14 @@ Supreme Spirit as the object of veneration.
 
 52. “Without dispositions or states of being
 there would be no liaga, and without the linga no
-development or manifestation of conditions (dis-
-positions) ; whence comes a double creation—one
+development or manifestation of conditions (dispositions) ; whence comes a double creation—one
 
 
 1 This root seems to be coined for the occasion. I have not been able to
 find it in any dictionary, Indian or European,
 
 
-HINDU PHILOSOPHY. 89
-
-
-called personal (of the linga), and the other condi-
-tional (of the dispositions, bhdvas).”
+called personal (of the linga), and the other conditional (of the dispositions, bhdvas).”
 
 
 In Distichs 40 and 43 it is stated that the linga migrates,
@@ -5695,8 +5050,7 @@ The second clause is translated by Colebrooke and
 Wilson, “Without person there would be no pause
 (nirvrittt) of dispositions.” Wilson explains the passage
 in his comment on Gaudapada’s exposition thus: This
-creation of the liga is not “indispensable for the exist-
-ence or exercise of the intellectual conditions or senti-
+creation of the liga is not “indispensable for the existence or exercise of the intellectual conditions or senti-
 ments alone, but is equally necessary for their occasional
 cessation ; thus virtue and vice and the rest necessarily
 imply and occasion bodily condition; bodily condition is
@@ -5712,26 +5066,19 @@ conditionum manifestatio;” and in his notes he remarks
 
 
 1 Professor Wilson, having failed
-to perceive the meaning of the pas-
-sage, has translated incorrectly, I
+to perceive the meaning of the passage, has translated incorrectly, I
 think, the comment of Gaudapada:
-“Without person, without rudi-
-mental creation, there would be no
-pause of dispositions, from the in-
-dispensability of virtue and vice for
+“Without person, without rudimental creation, there would be no
+pause of dispositions, from the indispensability of virtue and vice for
 the attainment of either subtle or
-gross body.” I translate the pas-
-sage thus: “ Without the liziga, which
+gross body.” I translate the passage thus: “ Without the liziga, which
 is formed of the finer elements
-(tanmatrani), there is no develop-
-ment of dispositions (0hdvas), and
+(tanmatrani), there is no development of dispositions (0hdvas), and
 
 
 there would be no beginning of
-virtue and the rest without a com-
-plete formation of subtle and gross
-body” (na sthtlasukshmadehasad-
-hyatwaddharmaderanaditwachcha).
+virtue and the rest without a complete formation of subtle and gross
+body” (na sthtlasukshmadehasadhyatwaddharmaderanaditwachcha).
 The soul per se knows nothing of
 virtue or vice. Hach is possible only
 by its union with’ the subtle body
@@ -5742,17 +5089,12 @@ there would be no occasion for the
 linga.
 
 
-90 HINDU PHILOSOPHY.
-
-
 “ Nirvritti est manifestatio, evolutio, originario vocabuli
 sensu,” referring to Manu i. 31. The translation of the
-word in the Petersburg Lex. is “fertigwerden,” “ausbil-
-dung.” The meaning of the distich then becomes evident.
+word in the Petersburg Lex. is “fertigwerden,” “ausbildung.” The meaning of the distich then becomes evident.
 There is a continual action and reaction of intellectual
 and personal states, the first causing the latter, and the
-latter giving manifestation to the former. There is there-
-fore a constant double creation, the bhavakhya (or disposi-
+latter giving manifestation to the former. There is therefore a constant double creation, the bhavakhya (or disposi-
 tional) and the lizgakya (of the subtle body, liiga).
 
 Some commentators make the liviga itself to be buddhi
@@ -5783,8 +5125,7 @@ n2
 gods) and a stock form the limits.
 
 
-1 Tairyagyonas, “grovelling” (Cole-
-brooke); “inhumana” (Lassen); “nés
+1 Tairyagyonas, “grovelling” (Colebrooke); “inhumana” (Lassen); “nés
 de la matrice” (St. Hilaire). The
 last is certainly wrong, for it would
 include mankind. The Petersburg
@@ -5796,13 +5137,8 @@ in Beziehung stehend), from tiryaga
 (beast) and yoni (womb).
 
 ? Colebrooke’s translationis, “In the
-midst is the predominance of foul-
-ness, from Brahma to a stock;” and
-Professor Wilson translates Gauda-
-pada’s commentary thus: “Jn the
-
-
-HINDU PHILOSOPHY. 91
+midst is the predominance of foulness, from Brahma to a stock;” and
+Professor Wilson translates Gaudapada’s commentary thus: “Jn the
 
 
 The gods are only a created order (sarga, emanation).
@@ -5812,13 +5148,11 @@ grades up to Brahma, see p. 53.
 
 The low or grovelling class has five genera or divisions:
 (1.) domestic animals (pasu); (2.) wild animals, such as
-deer (mriga) and the rest; (3.) birds; (4.) reptiles, includ-
-ing fishes (sarisripa); and (5§.) fixed things (sthadvara),
+deer (mriga) and the rest; (3.) birds; (4.) reptiles, including fishes (sarisripa); and (5§.) fixed things (sthadvara),
 vegetables and minerals.
 
 Man stands alone between these two classes, forming
-an order by himself. The mode or quality of “good-
-ness” is only, it must be remembered, a light, elastic,
+an order by himself. The mode or quality of “goodness” is only, it must be remembered, a light, elastic,
 etherealised kind of matter, favourable to virtue, but not
 of a moral nature in itself. Some of the supposed
 superhuman beings are neither virtuous nor beneficent ;
@@ -5849,15 +5183,10 @@ regions, and Brahma does not belong
 to it, but to the region ‘ above.”
 Gaudapiada’s comment is, ‘This, 7.e.,
 from Brahma to a stock, is equivalent
-to from Brahma to immovable (in-
-animate) things.” In the S. Prava-
+to from Brahma to immovable (inanimate) things.” In the S. Prava-
 chana (ili. 50) it is said, “In the
 midst”? passion “ abounds,” 7.¢., as
-Vijnana Bhikshu interprets the pas-
-sage, “in the world of mortals.”
-
-
-92 HINDU PHILOSOPHY.
+Vijnana Bhikshu interprets the passage, “in the world of mortals.”
 
 
 Here is the climax of the Sankhya philosophy, the
@@ -5866,8 +5195,7 @@ even that of its subtle vehicle the lizga. It is from
 contact with matter that pain arises. The soul knows
 nothing of decay or pain in itself, but the liiga is so
 closely connected with it that it becomes sensible of
-the imperfections and pains that belong to bodily condi-
-tions by this union But when at length, by full know-
+the imperfections and pains that belong to bodily conditions by this union But when at length, by full know-
 ledge, the soul escapes from “the body of this death,” it
 knows pain no more; the livga is then absorbed again
 in Nature (Prakriti). Kapila, however, does not say where
@@ -5881,8 +5209,7 @@ the deliverance of each individual soul. This
 action (drambha, effort) is for another, as if for
 itself (Nature).”
 
-57. “As the production of milk, which is un-
-intelligent (unknowing), causes the growth of the
+57. “As the production of milk, which is unintelligent (unknowing), causes the growth of the
 calf, so the development” of Nature causes the
 liberation of the soul.”
 
@@ -5895,25 +5222,18 @@ desires to cease, so does the undeveloped principle
 and oppressed by the body, we shall
 never arrive at the point which we
 aim at, namely, at truth. The bodyis
-a constant enemy tous. The neces-
-sity of providing for its wants and
+a constant enemy tous. The necessity of providing for its wants and
 
 
 the diseases which fall upon it are
 constant interruptions. It fills us
-with desires, cravings, fears, delu-
-sions, follies ” (Plato, Pheedo, ec. 28).
+with desires, cravings, fears, delusions, follies ” (Plato, Pheedo, ec. 28).
 
-2 Pravritti (lowing forth, emana-
-tion) is used in each line.
-
-
-HINDU PHILOSOPHY. 93
+2 Pravritti (lowing forth, emanation) is used in each line.
 
 
 Kapila here maintains that a purpose or design may
-be formed and completed unconsciously, without a de-
-signing mind. He feels, however, the difficulty of con-
+be formed and completed unconsciously, without a designing mind. He feels, however, the difficulty of con-
 necting design with unintelligent matter, and adduces
 as an argument in his favour the fact that in the udder
 of a cow the milk by which the calf is nourished is
@@ -5928,33 +5248,25 @@ content to assume the non-existence of a designer, because
 the milk is produced, and there is no evidence of a
 designing mind in the course of its production. He
 does not ask if the arrangement of the several parts
-or functions for the attainment of this end were for-
-tuitous or not. In India, however, as in other parts of
-the world, the idea of a design without an intelligent de-
-signer is held to be an impossible assumption. “ Whether
-this (evolution),” says Vachaspati, “be for its own pur-
-pose or that of another, it is a rational principle that
+or functions for the attainment of this end were fortuitous or not. In India, however, as in other parts of
+the world, the idea of a design without an intelligent designer is held to be an impossible assumption. “ Whether
+this (evolution),” says Vachaspati, “be for its own purpose or that of another, it is a rational principle that
 acts. Nature cannot act thus without rationality, and
 therefore there must be a reason which directs Nature,
 Embodied souls, though rational, cannot direct Nature,
 as they are ignorant of its character; therefore there is an
 omniscient Being, the director of Nature, who is Iswara
 (Lord?).” This is sound reasoning, but it was not
-adopted by Kapila. He saw that there was an adapta-
-tion of means to an end in the supply of a suitable
+adopted by Kapila. He saw that there was an adaptation of means to an end in the supply of a suitable
 
 
 1 Wilson, p. 168.
 
 
-94 HINDU PHILOSOPHY.
-
-
 nourishment for the calf; but as the cow supplies it
 without bringing an intelligent agency to bear upon the
 production, so Nature works in providing what is for the
-benefit of the soul. She is not acted upon by any ex-
-ternal force or necessity, nor is she directed by a superior
+benefit of the soul. She is not acted upon by any external force or necessity, nor is she directed by a superior
 power, nor does she produce by the necessary action of |
 some internal mechanism, but by a blind instinct, as
 men act to gratify some desire that rises within them
@@ -5967,8 +5279,7 @@ cease (to produce) when she has made herself
 manifest to soul.”
 
 60. “Generous Nature, endowed with modes,
-causes by manifold means, without benefit to her-
-self, the benefit of Soul, which is devoid of modes,
+causes by manifold means, without benefit to herself, the benefit of Soul, which is devoid of modes,
 and makes no return.”
 
 61. ‘ Nothing is more modest than Nature; that
@@ -5980,11 +5291,9 @@ liberated, or migrates. It is Nature, which has
 many receptacles (or bodily forms of being), which
 is bound, or is liberated, or migrates.”
 
-1 Lassen’s translation of Distich 61 sen assumes, but prakritéh. Cole-
-is this: ‘Procreatrix, pudibunde brooke’s translation is: ‘“ Nothing,
+1 Lassen’s translation of Distich 61 sen assumes, but prakritéh. Coleis this: ‘Procreatrix, pudibunde brooke’s translation is: ‘“ Nothing,
 instar puellz, non iterum invisit in my opinion, is more gentle than
-presentiam Genii, dicens ne hilum Nature.” It is not, however, gentle-
-quidem est; heec mihi nascitur per- ness, but modesty, that is attributed
+presentiam Genii, dicens ne hilum Nature.” It is not, however, gentlequidem est; heec mihi nascitur per- ness, but modesty, that is attributed
 suasio, postquam sum conspecta.” to Nature, by which she withdraws
 
 
@@ -5992,12 +5301,8 @@ It is certainly wrong. The true from the gaze of the soul.
 reading is not prakritih, which Las-
 
 
-HINDU PHILOSOPHY. 95
-
-
 Beautiful as poetry, but not very philosophic, nor in
-strict harmony with other parts of the Sankhya philo-
-sophy. Kapila, or Igwara Krishna, forgets that Nature
+strict harmony with other parts of the Sankhya philosophy. Kapila, or Igwara Krishna, forgets that Nature
 (Prakritt) has no personality, no power of volition, and no
 consciousness. But the instincts of the soul (if I may use
 the term) are often too strong for mere reason. Kapila,
@@ -6006,8 +5311,7 @@ he breaks away from the meshes of his false logic, and
 Nature is endowed with all the qualities that belong to a
 thinking and self-conscious mind.
 
-Nature is called generous, or not seeking return, be-
-cause she acts for the benefit of Soul, which, having no
+Nature is called generous, or not seeking return, because she acts for the benefit of Soul, which, having no
 modes, cannot act, and therefore can give nothing in
 return. She exhibits herself to Soul in the forms of gods,
 men, and animals, and by the properties of sensuous
@@ -6032,12 +5336,8 @@ for they are his servants, and the gain or loss is his, not
 1 §. Tattwa Kaumudi, Wilson, p. 173.
 
 
-96 HINDU PHILOSOPHY.
-
-
 theirs.” The distinction is more than this. Kapila
-has a lofty idea of the soul. It is incomparably sup-
-erior to matter. All outward things minister to it, as
+has a lofty idea of the soul. It is incomparably superior to matter. All outward things minister to it, as
 the servants of a king minister to his desires; But
 the servants and the king are both of a Hindu type.
 The servants are mere slaves, without reflection or power
@@ -6059,14 +5359,12 @@ she has accomplished her object and retires.
 
 
 64. “It is thus that by the study of principles
-(tattwa) the knowledge is obtained which is com-
-plete," incontrovertible, and absolute ;* by which it
+(tattwa) the knowledge is obtained which is complete," incontrovertible, and absolute ;* by which it
 is said, ‘I am not,’ ‘ Nothing is mine,’ and ‘ There
 is no ego.’ ”
 
 
-The meaning of this distich has been variously under-
-stood. To M. Cousin it seems to teach “an absolute
+The meaning of this distich has been variously understood. To M. Cousin it seems to teach “an absolute
 nihilism, the last fruit of scepticism;” but this idea is
 contrary to the fundamental principles of the Sankhya
 
@@ -6077,16 +5375,12 @@ remaining, including everything in science.
 itself.
 
 
-HINDU PHILOSOPHY. 97
-
-
 philosophy. To Kapila the soul was the most real of
 all things—self-existent, never born, and never dying. It
 becomes, by knowledge of the doctrines of Kapila, wholly
 separate from matter, and this separation is the soul’s
 highest achievement. This is distinctly expressed in the
-S. Pravachana: “By renunciation through study of prin-
-ciples (it is said), ‘It is not thus; it is not thus,
+S. Pravachana: “By renunciation through study of principles (it is said), ‘It is not thus; it is not thus,
 soul is different from all the emanations of Prakriti. The
 Sankhya Pravachana Bhashya gives this interpretation :
 
@@ -6099,33 +5393,25 @@ Sankhya Pravachana Bhashya gives this interpretation :
 
 “«Neither I am’ denies the agency of soul; ‘nor is aught
 mine’ denies attachment (to any objects) ; ‘nor do I exist’
-denies its appropriation (of faculties) ;”+ or, as the Chand-
-vika explains the last clause, “By this, difference from
-egotism is expressed.” We learn, then, by these testi-
-monies, confirmed by other parts of the Sankhya system,
+denies its appropriation (of faculties) ;”+ or, as the Chandvika explains the last clause, “By this, difference from
+egotism is expressed.” We learn, then, by these testimonies, confirmed by other parts of the Sankhya system,
 that the phrase “I am not” (nasmi) denies only life in
 its ordinary form, existence of a moving, acting kind;
 “naught is mine” implies that the soul has now no
 adjuncts to itself, it is wholly self-contained; “nor is
-there an ego” affirms that the soul exists without con-
-sciousness or sense of personality. The final and supreme
-state of the soul is then an abstract, passionless, uncon-
-scious state, which is the nearest possible approach to the
+there an ego” affirms that the soul exists without consciousness or sense of personality. The final and supreme
+state of the soul is then an abstract, passionless, unconscious state, which is the nearest possible approach to the
 Buddhist idea of Wirvdna,? which, in its full completeness,
 is simple annihilation. The last stage of the wise man,
 according to Buddhism, before absolute extinction of
 being is gained, is very nearly the final state of the soul
-in the system of Kapila. But the Sankhya doctrine main-
-tains the continued existence of soul, though in a perfectly
+in the system of Kapila. But the Sankhya doctrine maintains the continued existence of soul, though in a perfectly
 unconditioned and passive state, as an eternal entity.
 1 Wilson, p. 180.
 
 
 2 See Professor Childers’ Pali Dict., s. v. Nirvana.
 G
-
-
-98 HINDU PHILOSOPHY.
 
 
 65. “ By this (knowledge), Soul, as a spectator,
@@ -6151,15 +5437,12 @@ occasion for virtue, or for any condition of ordinary life,
 because the soul has now become entirely independent of
 Nature. The latter has now also no capacity (vasa) of
 ‘producing. In the language of Vachespati, “The two
-objects of soul, fruition and discrimination, are the excite-
-ments to the activity of Nature: if they do not exist,
+objects of soul, fruition and discrimination, are the excitements to the activity of Nature: if they do not exist,
 Nature is not stimulated (to production). In the text,
-the term ‘motive’ implies that by which Nature is ex-
-cited to creation (to evolve the existing world), which
+the term ‘motive’ implies that by which Nature is excited to creation (to evolve the existing world), which
 cannot be in the non-existence of the objects of Soul.”
 Creation, or the development of Nature, does not arise
-from the union of Soul and Matter, as some other philo-
-sophers have taught, but solely from Nature acting to
+from the union of Soul and Matter, as some other philosophers have taught, but solely from Nature acting to
 satisfy the needs or the desires of Soul.
 All things, however, return to unconsciousness. Con-
 
@@ -6172,9 +5455,6 @@ subsister encore,” &c. This is in- from it. An assertion or theory of
 correct. Soul and matter can never others is here denied.
 
 
-HINDU PHILOSOPHY. 99
-
-
 sciousness, or the ego, is a development from buddha
 Gntellect), which proceeds directly from Nature (Prakriti);
 but in the consummation of all things this element retires
@@ -6182,8 +5462,7 @@ within buddhi, and the latter is absorbed again into
 Prakriti.
 an isolated, independent state.
 
-But if the liberation of the soul is gained by know-
-ledge, how then does the soul remain connected with
+But if the liberation of the soul is gained by knowledge, how then does the soul remain connected with
 matter when the requisite knowledge has been obtained ?
 This inquiry is answered in the following distich :—
 
@@ -6204,19 +5483,14 @@ abstraction from matter* which is both complete
 and eternal.”
 
 
-By perfect knowledge the soul is freed from the influ-
-ence of virtue and the rest, which are the cause of bodily
+By perfect knowledge the soul is freed from the influence of virtue and the rest, which are the cause of bodily
 
 
 1 Dist. 67. Lassen translates the
-first line thus ; “ Postquam consum-
-mate scientie acquisitione invenit
-genius nullum esse pietatis ceter-
-arumque conditionum usum.” The
-lit. translation is, “By the attain-
-ment of complete knowledge, virtue
-and the rest have become a name-
-cause (namakdrana),” 7.€., a cause
+first line thus ; “ Postquam consummate scientie acquisitione invenit
+genius nullum esse pietatis ceterarumque conditionum usum.” The
+lit. translation is, “By the attainment of complete knowledge, virtue
+and the rest have become a namecause (namakdrana),” 7.€., a cause
 onlyinname. Cf. nadmayajna (name-
 
 
@@ -6230,14 +5504,10 @@ et les autres facultés cessent aussitot
 d’étre des causes.”
 
 * Kaivalya, the state of complete
-abstraction or isolation from mat-
-ter.
+abstraction or isolation from matter.
 
 
 wy
-
-
-100 HINDU PHILOSOPHY.
 
 
 existence in a higher or lower form. But for a time their
@@ -6280,9 +5550,6 @@ are those of the complete science, containing sixty
 2 Utpatti, going forth.
 
 
-HINDU PHILOSOPHY. 101
-
-
 topics, excluding illustrative tales, and omitting
 also controversial questions.”’?
 
@@ -6301,8 +5568,7 @@ We have in the preceding distichs an outline, and
 it is no more than an outline, of the philosophic system
 taught by Kapila. In what manner or to what extent
 it was explained by its author we do not know. The
-comments upon it by Gaudapada and others are com-
-paratively modern. It is not certain that they offer
+comments upon it by Gaudapada and others are comparatively modern. It is not certain that they offer
 an accurate tradition of the manner in which it was
 expounded by Kapila himself, for some of them are
 evidently influenced by a desire to make its doctrines
@@ -6319,16 +5585,11 @@ Practically, as some of our modern philosophers, he
 had no theology. He admitted, indeed, the existence
 of gods, but they were only emanations from Prakriti
 
-1 The reference is here to such Sankhya system, the fourth con-
-works as the Sankhya Pravachana, tains some short illustrative tales
+1 The reference is here to such Sankhya system, the fourth conworks as the Sankhya Pravachana, tains some short illustrative tales
 which consists of six chapters or (dkhydyikas), and the fifth offers
 
 
-readings, of which the first three are some arguments against the objec-
-devoted to an exposition of the tions of opposite schools of thought.
-
-
-102 HINDU PHILOSOPHY.
+readings, of which the first three are some arguments against the objecdevoted to an exposition of the tions of opposite schools of thought.
 
 
 (Nature), and are to be absorbed hereafter into this
@@ -6349,8 +5610,7 @@ This was the sole purpose of Kapila’s philosophy.
 He had no desire to raise mankind to a higher degree
 of moral excellence or a more perfect civilisation, either
 as a means to provide more amply for the uses or
-the pleasures of his kind, or to gratify a love of know-
-ledge for its own sake. To him, the world of matter,
+the pleasures of his kind, or to gratify a love of knowledge for its own sake. To him, the world of matter,
 enfolding and producing so much pain, is to be regarded
 only as an enemy. Our present physical life is a mere
 bondage; it is full of pain; it can never be the source
@@ -6362,16 +5622,14 @@ of anything but sorrow and degradation.
 
 
 1 Compare the language of Jeremy
-Bentham: ‘Nature has placed man-
-kind under the governance of two
+Bentham: ‘Nature has placed mankind under the governance of two
 sovereign masters, pleasure and pain.
 . . » On the one hand, the standard
 of right and wrong, on the other,
 the chain of causes and effects, are
 fastened to their throne.”
 
-“ Pain is in itself an evil, and in-
-deed, without exception, the only
+“ Pain is in itself an evil, and indeed, without exception, the only
 evil, or the words good and evil
 
 
@@ -6383,18 +5641,13 @@ Kapila, like Schopenhauer, goes,
 however, farther than Bentham ; for
 his is a system of Pessimism, though
 older than the German by more than
-two thousand years. Life, z.e., con-
-scious life, not merely containsevil :
+two thousand years. Life, z.e., conscious life, not merely containsevil :
 it is an unmixed evil. The better
 state, nay, the best of all, is the un-
 
 
-HINDU PHILOSOPHY. 103
-
-
 every other connection with matter for ever. We must
-seek to cast it away, as men cast off a vile and loath-
-some garment; and this emancipation must be gained
+seek to cast it away, as men cast off a vile and loathsome garment; and this emancipation must be gained
 by the soul itself, without the aid—if such aid can be
 obtained—of any external power or influence.
 
@@ -6430,9 +5683,6 @@ reason and consciousness. The high- which is the cardinal principle of
 est aim of both systems is not self- Buddhism.
 
 
-104 HINDU PHILOSOPHY. :
-
-
 to effect, or a posteriori from effect to cause, or by
 analogy. The relation of cause and effect is real and
 necessary; but causation is not properly a creation of
@@ -6443,17 +5693,14 @@ is thus created by, the fountain from which it springs.
 In the system of Kapila, a pure creation is impossible.
 Each individual soul and every particle of matter has
 existed from all eternity. Nor can either perish. They
-must exist for ever; the soul in an unconditioned, un-
-changing, isolated state; and matter, including therein
+must exist for ever; the soul in an unconditioned, unchanging, isolated state; and matter, including therein
 intellect and consciousness, will be absorbed for ever
 in Nature (Prakriti).
 
 We may also reason by analogy, or, as Sir. W. Hamilton
-terms it, “ philosophical presumption,”? which Kapila per-
-ceived to be “a natural or ultimate principle of intelli-
+terms it, “ philosophical presumption,”? which Kapila perceived to be “a natural or ultimate principle of intelli-
 gence.” How Kapila explained and defended this method
-of proof we do not know. The opinions of his commen-
-tators have been already explained (see page 22).
+of proof we do not know. The opinions of his commentators have been already explained (see page 22).
 
 Beyond this range some things are known by “valid
 testimony.” Under what conditions or for what purposes
@@ -6462,12 +5709,10 @@ know whether Kapila admitted what is called sruti, or
 revelation, as coming within this definition. His followers
 
 
-1 “When we are aware of some-
-thing that begins to be, we are, by
+1 “When we are aware of something that begins to be, we are, by
 the necessity of our intelligence,
 constrained to believe that it has a
-cause. But what does the expres-
-sion that it has a cause signify? If
+cause. But what does the expression that it has a cause signify? If
 we analyse our thought, we shall
 find that it simply means, that as we
 cannot conceive any new existence
@@ -6480,18 +5725,12 @@ to commence, therefore all that now
 FI 3 ce Gee nen Cand nen tamd
 
 
-is seen to arise under a new appear-
-ance had previously an existence
+is seen to arise under a new appearance had previously an existence
 under a prior form. . . . We think
-the causes to contain all that is con-
-tained in the effect; the effect to
-contain nothing which was not con-
-tained in the causes” (Hamilton,
+the causes to contain all that is contained in the effect; the effect to
+contain nothing which was not contained in the causes” (Hamilton,
 Lect. on Metaph., ii. 377).
 ? Lectures on Logic, ii. 166.
-
-
-HINDU PHILOSOPHY. 105
 
 
 gave a modified assent to the Vedas (sruwti), and also to
@@ -6519,23 +5758,18 @@ dimoppov mavodeyés.)*
 
 
 1 “The Vedanta maintained that
-the acquisition of truth is indepen-
-dent of caste or any other distinction,
+the acquisition of truth is independent of caste or any other distinction,
 and that the highest knowledge,
-which is the chief end of man, can-
-not be imparted by the Vedas (vide
+which is the chief end of man, cannot be imparted by the Vedas (vide
 Katha, ii. 23) ; yet it insisted that a
-knowledge of the Vedas was neces-
-sary to prepare the mind for the
+knowledge of the Vedas was necessary to prepare the mind for the
 highest knowledge. ThistheSankhya
 denied altogether, and though it
 referred to the Vedas, and especially
 to the Upanishads, still it did so only
 when they accorded with its own
-doctrines, and it rejected their autho-
-rity in a case of discrepancy ” (Dr.
-Réer, Introd. to Svetasvatara Upani-
-shad, p. 36).
+doctrines, and it rejected their authority in a case of discrepancy ” (Dr.
+Réer, Introd. to Svetasvatara Upanishad, p. 36).
 
 2 The Prakriti of Kapila answers
 
@@ -6545,8 +5779,7 @@ But they maintained either that
 
 to the Wille of Schopenhauer. It is
 a blind unconscious force, or rather
-a primal substance, with a potenti-
-ality of force through the constituent
+a primal substance, with a potentiality of force through the constituent
 called passion or foulness, out of
 which conscious life was an unhappy
 development.
@@ -6558,13 +5791,9 @@ nor fire, nor water, nor anything
 produced from them, or from which
 these are produced. Itisan invisible
 and formless thing, the recipient of
-everything (all-embracing), partici-
-pating in a certain way of the intelli-
+everything (all-embracing), participating in a certain way of the intelli-
 gible, but in a way very difficult to
 seize.”
-
-
-106 HINDU PHILOSOPHY.
 
 
 this first principle was God, as the Eleatics, or that it
@@ -6575,22 +5804,18 @@ intellectual Power in the formation of the world. The
 one primeval source was simply Matter, and in all its
 developments was wholly unconnected with the working
 of Mind. It wrought, and for a distinct purpose, but
-unconsciously, and by a “ potentiality” which dwelt en-
-tirely within itself.
+unconsciously, and by a “ potentiality” which dwelt entirely within itself.
 
-How then did Nature (Prakriti) begin to work? Be-
-cause, says Kapila, though formless, it has modes or
+How then did Nature (Prakriti) begin to work? Because, says Kapila, though formless, it has modes or
 constituents of its being. When these are in a state of
-equipose, Nature is at rest. When the equipose is dis-
-turbed, then Nature begins to work. The impelling
+equipose, Nature is at rest. When the equipose is disturbed, then Nature begins to work. The impelling
 influence was an unconscious purpose to free the souls
 of men from all contact with matter, which is the source
 of pain. For this purpose it first sent forth intellect
 (buddhi), the first-born of all created things. But the
 nature and functions of this first product are not clearly
 defined. It has a faculty of ascertainment; and by this
-Kapila means a determinant power by which the percep-
-tions of sense-objects are defined in an ultimate form, that
+Kapila means a determinant power by which the perceptions of sense-objects are defined in an ultimate form, that
 the soul may look upon them and gain a knowledge of
 their nature. From intellect (buddht) consciousness or
 egoism is evolved. It is from this product of thought
@@ -6601,17 +5826,13 @@ works without any consciousness of its working or of its
 effects. From egoism or consciousness, 2.¢, conscious
 
 
-HINDU PHILOSOPHY. 107
-
-
 mind-matter, spring the manas (mind), the ten organs
 of sense and action, and the five subtle elements (see page
 18). The manas is an internal faculty, the doorkeeper
 of the senses, which are the doors through which the soul
 of Nature. It receives the sensations
 give from outward things, and has a
-Our sensations hereby become percep-
-tions, and these, passed on to consciousness, become
+Our sensations hereby become perceptions, and these, passed on to consciousness, become
 individualised as “mine;” then by the intellect these
 individualised perceptions become, in the language of Sir
 W. Hamilton, “concepts or judgments,” and are fit to be
@@ -6628,13 +5849,11 @@ from another system.
 
 
 1 «Mind is the one ultimate reality;
-not mind, as we know it, in the com-
-plex forms of conscious feeling and
+not mind, as we know it, in the complex forms of conscious feeling and
 thought, but the simpler elements
 out of which thought and feeling are
 built up. ‘The hypothetical ultimate
-element of mind, or atom of mind-
-stuff, precisely corresponds to the
+element of mind, or atom of mindstuff, precisely corresponds to the
 hypothetical atom of matter, being
 the ultimate fact of which the
 material atom is the phenomenon.
@@ -6679,21 +5898,16 @@ view of attention or apperception
 (buddhi or intellect) ; 4. The action
 of the will in giving the necessary
 impetus to the motor nerves ; 5. The
-transmission of this motor excita-
-tion to the muscles” (the action of
+transmission of this motor excitation to the muscles” (the action of
 the soul in directing by volition).
 (Grundziige, der physiol. Psychologie,
 Leipsic, 1873-74.)
 
 
-108 HINDU PHILOSOPHY.
-
-
 nor have we a phraseology which will suffice for
 purpose; for, in Kapila’s system, the “mind” (manas) is
 consciousness, and “intellect” (buddhi) are all only forms
-of developed matter. The “intellect” has no proper cogni-
-tion, though from its proximity to soul this is sometimes
+of developed matter. The “intellect” has no proper cognition, though from its proximity to soul this is sometimes
 ascribed to it. Hence the common Hindi saying,
 “Agency from affection, intelligence from proximity,”
 ie. the apparent agency of the soul, which never acts, —
@@ -6712,8 +5926,7 @@ appear to be contradictory to each other, being really
 one, and existence the relation of the two. Perhaps we
 may say that it is nearer the doctrine of Schelling, that
 subject and object are really distinct from each other, but
-yet only the manifestation of the absolute essence in dif-
-ferent stages of development. ‘This absolute essence may
+yet only the manifestation of the absolute essence in different stages of development. ‘This absolute essence may
 be supposed to be thought or matter, and thus we have the ©
 system of the Idealists and that of the Materialistic school.
 “Tf the subject be taken as the original and genetic, and
@@ -6729,15 +5942,10 @@ evolved from it as its product, the theory of Materialism
 a ane ae Se
 
 
-HINDU PHILOSOPHY. 109
-
-
-is established.” The system of Kapila does not, how-
-ever, quite accord with this definition. Here the sub-
+is established.” The system of Kapila does not, however, quite accord with this definition. Here the sub-
 jective element is genetic, but it is not ideal or spiritual.
 It is itself only a development of a material nature. As
-far, then, as the outward world and the inner life of con-
-sciousness are concerned, Kapila is a Materialist; but
+far, then, as the outward world and the inner life of consciousness are concerned, Kapila is a Materialist; but
 not wholly so. The soul exists apart from both, but it
 never creates, nay, it never acts. It exists simply as light,
 self-contained and eternally distinct.
@@ -6759,19 +5967,15 @@ between the system of Fichte and
 that of Kapila which deserve notice.
 Vichte contends that the absolute
 Kgo, the I by myself I, must be
-something different from conscious-
-ness, for this is only a certain state
+something different from consciousness, for this is only a certain state
 of the real Ego. It is the Ego
-“ affirming itself.” With this abso-
-lute Ego, distinct from consciousness,
-the Purusha (person) or soul of Ka-
-pila agrees. But the Ego, in affirm-
+“ affirming itself.” With this absolute Ego, distinct from consciousness,
+the Purusha (person) or soul of Kapila agrees. But the Ego, in affirm-
 ing itself, is also conscious of the
 non-Ego, or is determined by the
 necessary law of its nature, and
 “distinguishes between itself as a
-definite representation and every-
-thing else which is not that repre-
+definite representation and everything else which is not that repre-
 sentation; it only comes to know
 
 
@@ -6781,8 +5985,7 @@ itself by knowing Prakriti (Nature).
 Further, Fichte maintained that we
 have no knowledge—and his work is
 the ‘‘ Doctrine of Science” —of the
-non-Kgo except by concepts or re-
-presentations which are due, in part,
+non-Kgo except by concepts or representations which are due, in part,
 to the mind, and, so far, are created
 by it. The mind or Absolute Ego,
 which is an intuitive principle, as
@@ -6794,9 +5997,6 @@ and gross forms of matter emanate,
 but this consciousness is clumsily
 represented as distinct from soul,
 because the latter cannot act.
-
-
-110 HINDU PHILOSOPHY.
 
 
 mate forms, as the Greek philosophers generally supposed
@@ -6825,29 +6025,23 @@ Eastern kind. It dwells apart in a lofty but barren
 isolation. The soul alone sees, we, has a true cognition
 
 
-1 Tt is curious that the latest philo-
-sophy—Von Hartmann’s Philosophy
+1 Tt is curious that the latest philosophy—Von Hartmann’s Philosophy
 of the Unconscious—should accord
-in many points with its earliest de-
-velopment in the system of Kapila.
+in many points with its earliest development in the system of Kapila.
 1. In each system the source of all
 existing forms is an unconscious
 Monism, which is self-existent. 2.
-The unconscious first principle de-
-velops consciousness. 3. In this
-conscious life only misery can pre-
-vail. 4. Pain is a necessary conse-
+The unconscious first principle develops consciousness. 3. In this
+conscious life only misery can prevail. 4. Pain is a necessary conse-
 quence of the normal development
 
 
-of the first principle, and must re-
-main as long as the present system
+of the first principle, and must remain as long as the present system
 continues. 5. The ideal state, for
 which we are to labour and wait, is
 an unconditioned, unconscious state,
 the nirvana of the Buddhist school.
-6. Virtue and vice are only acci-
-dents of material conditions. ‘The
+6. Virtue and vice are only accidents of material conditions. ‘The
 great aim of life is not to attain to
 goodness or even a high intellectual
 state, but only deliverance from
@@ -6877,8 +6071,7 @@ life, and then it is absorbed into the universal Nature
 from which it sprung,
 
 This theory of the liviga deserves more consideration
-than it has received from either ancient or modern ex-
-pounders of the Sankhya philosophy. It plays an im-
+than it has received from either ancient or modern expounders of the Sankhya philosophy. It plays an im-
 portant part in what we must call, though improperly,
 the moral element of the system. It is the seat of those
 dispositions, whether moral or physical, which in the
@@ -6893,33 +6086,26 @@ being. “The commentators agree,” says Professor Wilson
 enjoyment or suffering only through its connection with
 
 
-112 HINDU PHILOSOPHY.
-
-
 generated body, understanding apparently thereby, not
 its abstract capability of either, but the actual condition in
 which it partakes of them; for it is repeatedly declared
-that the seat of enjoyment or suffering is buddhi or ‘intel-
-lect,’ through the presence of which, as an ingredient in
+that the seat of enjoyment or suffering is buddhi or ‘intellect,’ through the presence of which, as an ingredient in
 subtle body, it is immediately added, the latter is invested
 with dispositions (bhdvas), that is, with the properties
 of intellect enumerated in y. 43, virtue, vice, knowledge,
-ignorance, &e.” This is not strictly correct. The “intel-
-lect” (buddhi) cannot properly be said to enjoy or suffer.
+ignorance, &e.” This is not strictly correct. The “intellect” (buddhi) cannot properly be said to enjoy or suffer.
 The liga may be called the “acting soul;” it is the
 “annexe” of the soul, in the language of M. St. Hilaire,
 and the seat of those qualities by which an individual
 is formed, and thinks and feels according to his nature.
 In being compounded of buddhi and other substances, it
-shows what Professor Jowett has called “the interpenetra-
-tion of the intellectual and moral faculties” (Plato, 1.
+shows what Professor Jowett has called “the interpenetration of the intellectual and moral faculties” (Plato, 1.
 464).
 
 The grandeur of the soul, in Kapila’s system, is unreal
 and, useless. It has no moral elevation, It knows
 nothing of virtue and vice as connected with itself. It
-has no purpose beyond itself. It directs in some unde-
-fined degree, but it never condescends to work, either for
+has no purpose beyond itself. It directs in some undefined degree, but it never condescends to work, either for
 itself or for others. It has no sympathy. Its highest
 state is one of perfect abstraction from matter and from
 other souls; a self-contained life, wherein no breath of
@@ -6929,9 +6115,6 @@ active agency against evil; nay, more, it levels so nearly
 the barrier between virtue and vice, that the difference
 becomes unimportant except as a matter of sensation.
 They are, in fact, pleasure and pain, which are both to be
-
-
-HINDU PHILOSOPHY. 113
 
 
 avoided; for both imply action, and all action, if not an
@@ -6972,9 +6155,6 @@ It is singular that Kapila stands so far apart from the
 H
 
 
-114 HINDU PHILOSOPHY.
-
-
 rest of his countrymen in ignoring that sense of moral
 evil which has so deep a root in the Hindi mind. But
 he is not alone in this. Our modern philosophers decry
@@ -6986,11 +6166,9 @@ not understand, and for which their systems afford no
 remedy. But logically Kapila was consistent in rejecting
 both the idea of duty and of guilt from his system. He
 did not admit that any Power existed that was of right
-the ruler of the world, or of any superintending Provi-
-dence. The soul is sufficient for itself. There is no
+the ruler of the world, or of any superintending Providence. The soul is sufficient for itself. There is no
 real, absolute duty, except perhaps that of acquiring
-knowledge and of gaining thus deliverance from all con-
-tact with matter. But this is rather a privilege of the
+knowledge and of gaining thus deliverance from all contact with matter. But this is rather a privilege of the
 few than a duty incumbent on all, By not obtaining it
 the soul is doomed to reappear in some new bodily form,
 but there is no guilt incurred. All actions are not
@@ -7008,8 +6186,7 @@ therefore the being of a God cannot
 be proved as a part of science, so
 Kapila taught that the soul can only
 know what is presented to it by
-buddhi (intellect), and therefore can-
-not know absolutely that there is an
+buddhi (intellect), and therefore cannot know absolutely that there is an
 Iswara or Supreme Lord of all
 things, for this idea cannot be thus
 presented.
@@ -7020,13 +6197,11 @@ further. Some make virtue to be
 
 merely a name for a collective sense
 during many generations of what is
-useful to mankind. A virtuous ac-
-tion and a fountain of water do not
+useful to mankind. A virtuous action and a fountain of water do not
 differ in kind. But the latest theory
 makes it to denote only a healthy
 and vigorous organisation. “If I
-have evolved myself out of some-
-thing like an amphioxus, it is clear
+have evolved myself out of something like an amphioxus, it is clear
 that I have become better by the
 change. I haverisen in the organic
 scale ; I have become more organic.
@@ -7036,9 +6211,6 @@ undergone, the greater part must
 
 ]
 p
-
-
-HINDU PHILOSOPHY. 115
 
 
 in itself unable to procure full deliverance for the soul.
@@ -7073,8 +6245,7 @@ But if I could only find out which,
 I should say that those changes
 which have tended in the direction
 of greater organisation were good,
-and those which tended in the op-
-posite direction bad. Here there
+and those which tended in the opposite direction bad. Here there
 is no room for proof; the words
 ‘good’ and ‘bad’ belong to the
 practical reason, and if they are
@@ -7095,14 +6266,10 @@ material condition, and led only to a
 happier bodily life.
 
 
-116 HINDU PHILOSOPHY.
-
-
 act, because knowledge could alone accomplish more for
 the soul than these religious rites ; but on this account it
 did not commend itself to the people of India. It was
-therefore supplemented and made more popular by Patan-
-jali, of whom, however, little is known. He probably
+therefore supplemented and made more popular by Patanjali, of whom, however, little is known. He probably
 lived about 200 years B.C.; but almost all that we know
 of him is that he is reputed to be the author of a book
 called the “Yoga Sitra,” in which the theistic form or
@@ -7122,8 +6289,7 @@ Sankhya, and Kapila’s the Mir7swara or Atheistical; a
 term which may also be applied to Buddhism, which
 apparently owed its origin to the system of Kapila.
 
-“God” (Iswara, the supreme Ruler), according to Patan-
-jali, “is a soul or spirit distinct from other souls, unaffected
+“God” (Iswara, the supreme Ruler), according to Patanjali, “is a soul or spirit distinct from other souls, unaffected
 by the ills with which all men are beset, unconnected
 with good or bad deeds and their consequences. In him
 is an absolute omniscience. He is the instructor of
@@ -7137,17 +6303,13 @@ or a mystic union with the Deity, destroyed, or they act only as far
 all the affections and the senses as necessity requires.
 
 
-HINDU PHILOSOPHY. 117
-
-
 time.”! Here is an essential difference between the master
 and his pupil; for Kapila taught that the existence of
 thought or instruction is dependent on Consciousness, not
 upon Igwara, and Consciousness is from the great principle,
 Buddhi (Intellect).
 
-The means of attaining to Yoga are (1.) Yama, self-
-restraint; (2.) Niyama, necessary religious duties; (3.)
+The means of attaining to Yoga are (1.) Yama, selfrestraint; (2.) Niyama, necessary religious duties; (3.)
 Asana, postures ;2 (4.) Prand-yama, restraint of breath ;
 (5.) Pratyahara, subjugation of the senses; (6.) Dharana,
 fixed control; (7.) Dhyana, contemplation; (8.) Samadhi,
@@ -7159,8 +6321,7 @@ subduing the senses by severe ascetic rites are set forth
 and commended, and a frequent repetition of the mystic
 syllable OM is enjoined. By these means the Yogi
 might attain to a state called wideha (incorporeal) or
-kevala (abstracted or purely spiritual). In such condi-
-tions he is endowed with supernatural wisdom and power.
+kevala (abstracted or purely spiritual). In such conditions he is endowed with supernatural wisdom and power.
 He can enter into the body of another, and even into his
 mind, and thus may read his thoughts. The attracting
 power of the earth cannot bind him. He can soar in the
@@ -7178,9 +6339,6 @@ u Yoga-Sastra, i. 23, 24, 26-29; Colebrooke, i. 264.
 
 
 bitin)
-
-
-118 HINDU PHILOSOPHY.
 
 
 Practically the system of Patanjali, though
@@ -7222,15 +6380,11 @@ to the same degree as Kapila, the author of the Sankhya
 system. He is said to have been born in Northern India
 at the beginning of the Treta Yuga, or second age of the
 world, and to have married Ahalya, the daughter of Brahma.
-We can only infer from these statements that he was pro-
-bably a Brahman, and may have been of noble descent.
+We can only infer from these statements that he was probably a Brahman, and may have been of noble descent.
 He is the Aristotle of India, and his Stitras have always
 been a popular study among the Hindus, whose acuteness
 finds a suitable field in the discussion of dialectic subtleties.
 A large number of commentators have explained and com-
-
-
-120 HINDU PHILOSOPHY.
 
 
 mented on the system of Gotama, in order to adapt it to
@@ -7238,8 +6392,7 @@ popular use,
 
 It is set forth in a treatise called the Nyaya Sutra,
 which comprises five divisions or readings, each containing
-two lessons. These are divided into sections or praka-
-ranas, relating to distinct topics. In practice, this system
+two lessons. These are divided into sections or prakaranas, relating to distinct topics. In practice, this system
 is commonly combined with that of Kanada, as in the
 Bhasha-parichchheda, the popular text-book in India. It
 is not always easy to distinguish, in the modern schools,
@@ -7256,8 +6409,7 @@ its peculiar properties or differentiz. Investigation is an
 examination of the subject with regard to its peculiar
 properties.
 
-The first reading or division of the Nyaya Sitra con-
-sists of sixty aphorisms, and the first Siitra gives a list of
+The first reading or division of the Nyaya Sitra consists of sixty aphorisms, and the first Siitra gives a list of
 the subjects to be discussed. These are sixteen in number:
 (1.) Pramdna, or the means by which a right knowledge
 may be gained; (2.) Prameya, or the objects of thought ;
@@ -7277,9 +6429,6 @@ Proof or evidence (pramaéna) is of four kinds: (1.)
 =r
 
 
-HINDU PHILOSOPHY. 121
-
-
 Pratyaksha, or perception by the senses; (2.) Anwmana,
 inference, which is of three kinds—from cause to effect,
 from effect to cause, and by analogy; (3.) Upamdna, or
@@ -7288,18 +6437,14 @@ including revelation and tradition.
 
 Cause (Karana) is defined as that which necessarily
 precedes an effect, which without the cause could not be ;
-for the relation of cause and effect, connection (sam-
-bandha), must be considered. This is twofold, implying
-either simple conjunction (samyoga), or intimate and con-
-stant relation (samavdya), wherein two things must always
+for the relation of cause and effect, connection (sambandha), must be considered. This is twofold, implying
+either simple conjunction (samyoga), or intimate and constant relation (samavdya), wherein two things must always
 be joined, as cloth and the threads of yarn which form it.
 Hence cause is considered as (1.) intimate or direct, as
 clay is the material cause of pottery, and yarn of cloth;
 (2.) mediate or indirect, proximate to the intimate cause,
-as the weaving of yarn in forming cloth; and (3.) instru-
-mental or concomitant, as the loom. In desire, the soul
-is the direct or intimate cause; the mediate is the conjunc-
-tion of the soul and its internal organ, the manas; the
+as the weaving of yarn in forming cloth; and (3.) instrumental or concomitant, as the loom. In desire, the soul
+is the direct or intimate cause; the mediate is the conjunction of the soul and its internal organ, the manas; the
 instrumental is knowledge. We may rather call them the
 agoregate of conditions necessary for the forming either of
 a material product or a psychical state.
@@ -7312,17 +6457,13 @@ production, oral, mental, or corporeal; (8.) fault or wrong
 (11.) pain; (12.) deliverance, or emancipation.
 
 The soul is different, or individual, in each person,
-separate from the body and the senses, the seat of know-
-ledge and feeling. It is eternal induration. Knowledge,
+separate from the body and the senses, the seat of knowledge and feeling. It is eternal induration. Knowledge,
 
 
 1 Tarka Sangraha, p. 22; Colebrooke, i. 287.
 
 
 —
-
-
-122 HINDU PHILOSOPHY.
 
 
 desire, aversion, volition, pain, and pleasure, imply the
@@ -7353,8 +6494,7 @@ generated, as those of gods and demigods; (2.) uterine
 or viviparous; (3.) oviparous; (4.) engendered in filth;
 and (5.) vegetative or germinating.
 
-The five external organs are not modifications of con-
-sciousness, as the Sankhya philosophy teaches, but are
+The five external organs are not modifications of consciousness, as the Sankhya philosophy teaches, but are
 formed of gross matter, earth, water, light, air, and ether,
 corresponding to the senses of smell, taste, sight, touch,
 and hearing. There is a sixth sense, an internal organ,
@@ -7367,9 +6507,6 @@ rather perception, at the same instant. The manas is
 
 
 |
-
-
-HINDU PHILOSOPHY. 123
 
 
 minutely small, as an atom; for otherwise it might come
@@ -7392,14 +6529,12 @@ notion or concept is either right or wrong. A right
 notion is that which is derived from a clear proof, and is
 fourfold: (1.) From perception, as a jar perceived by the
 bodily organs; (2.) from inference, as fire is inferred from
-smoke; (3.) from comparison, by which we have a know-
-ledge of genera; and (4.) from revelation, as the notion of
+smoke; (3.) from comparison, by which we have a knowledge of genera; and (4.) from revelation, as the notion of
 celestial happiness, which we have from the Vedas.
 
 A wrong notion is one which is not derived from proof,
 and is threefold in origin: (1.) From doubt; (2.) false
-premisses; and (3.) error, as the mistaking of mother-of-
-pearl for silver.
+premisses; and (3.) error, as the mistaking of mother-ofpearl for silver.
 
 Remembrance is also either right or wrong. A waking
 remembrance may be either, but in sleep it is wrong.
@@ -7411,12 +6546,8 @@ include unconscious vital functions. It is the result of
 the three fawlts—passion or extreme desire, aversion or
 
 
-124 HINDU PHILOSOPHY.
-
-
 loathing, and error or delusion. The wise man, according
-to Gotama, is one that avoids these faults, and is pro-
-foundly indifferent to all action.
+to Gotama, is one that avoids these faults, and is profoundly indifferent to all action.
 
 The only motive to action is the desire of attaining
 pleasure or of avoiding pain.!
@@ -7434,64 +6565,50 @@ attains to this deliverance by knowledge, by meditating
 on itself, by not earning fresh merit or demerit through
 actions sprung from desire, and by becoming free from
 passion through knowledge of the evil inherent in objects.
-It is knowledge, as in the Sankhya system, and not vir-
-tue, which obtains final deliverance from the body.? The
+It is knowledge, as in the Sankhya system, and not virtue, which obtains final deliverance from the body.? The
 latter can only procure a better state of bodily connection ;
 it cannot destroy it.
 
 
-1“ A motive is substantially no-
-thing more than pleasure or pain
+1“ A motive is substantially nothing more than pleasure or pain
 operating in a certain manner.
 
 “Now, pleasure is in itself a good
 —nay, even setting aside immunity
 from pain, the only good. Pain is
-in itself an evil; and indeed, with-
-out exception, the only evil, or else
+in itself an evil; and indeed, without exception, the only evil, or else
 the words good and evil have no
 meaning. And this is alike true of
 every sort of pain and every sort of
-pleasure. It follows, therefore, im-
-mediately and incontestably, there
+pleasure. It follows, therefore, immediately and incontestably, there
 is no such thing as any sort of
 motive that is in itself a bad one.”
 
 “Nature has placed mankind
 
 
-under the governance of two sove-
-reign masters, pain and pleasure. It
+under the governance of two sovereign masters, pain and pleasure. It
 is for them alone to point out what
-we ought to do, as well as to deter-
-mine what we shall do” (Jeremy
+we ought to do, as well as to determine what we shall do” (Jeremy
 Bentham, Introd. to Prin. of Morals,
 &e., ©. X. 88. 9, 10, i. s. I).
 
 2 In the system of Bentham
-there is no more room for vir-
-tue, goodness, justice, or unselfish
+there is no more room for virtue, goodness, justice, or unselfish
 liberality than in the system of
 Gotama. The base of what is called
 in these systems morality (a real
-morality in such systems is impos-
-sible) is only the gratifying of
+morality in such systems is impossible) is only the gratifying of
 desire.
 
 
-HINDU PHILOSOPHY. 125
-
-
-The other subjects mentioned are only the possible suc-
-cessive stages of a discussion.
+The other subjects mentioned are only the possible successive stages of a discussion.
 
 The development of inference as a method of proof, by
-the construction of a true syllogism, is the most interest-
-ing part of these systems, The right methods of reasoning
+the construction of a true syllogism, is the most interesting part of these systems, The right methods of reasoning
 have been discussed with as much subtlety as by any of
 the Western logicians. A complete syllogism, in the
-Hindt system, consists of five members or parts (ava-
-yava) : (1.) The proposition (pratind), (2.) the reason (hetw
+Hindt system, consists of five members or parts (avayava) : (1.) The proposition (pratind), (2.) the reason (hetw
 or apadesa), (3.) the instance or example (udaharana or
 nidargana), (4.) the application of the reason (wpanaya),
 and (5.) the conclusion (nigamana).
@@ -7517,15 +6634,11 @@ the syllogism of Aristotle.
 
 The term vyapti (pervasion or invariable concomitance)
 is used to express the connection in the major premiss of the
-Aristotelian syllogism. Inference is defined as the know-
-ledge which is caused by the knowledge of vydpti1 or a
+Aristotelian syllogism. Inference is defined as the knowledge which is caused by the knowledge of vydpti1 or a
 knowledge “generable by a mediate judgment” (para-
 
 
 1 Vyaptijnana-karanakam jnanam.
-
-
-126 HINDU PHILOSOPHY.
 
 
 marga).. “This mediate judgment is a recognition that
@@ -7533,8 +6646,7 @@ there is in the subject of the question (paksha) an attribute
 characterised by a: pervasion (or universal concomitance,
 vyapti). In other words, the subject of the question hasa _
 property universally accompanied by something else, viz.,
-by that which is to be proved or disproved of it by the sad-
-hya or predicate of the conclusion.” The meaning of this
+by that which is to be proved or disproved of it by the sadhya or predicate of the conclusion.” The meaning of this
 term, vyapti, is fully explained by Sankara Migra. “Tt may
 be asked, What is this invariable concomitance? It is not
 merely a relation of co-extension. Nor is it the relation
@@ -7544,18 +6656,15 @@ the major term, such connection does not exist in the case
 of smoke [for smoke does not always exist where there is
 fire]. Nor is it natural conjunction, for the nature of a
 thing is the thing’s proper mode of being. . . . Nor is it —
-the possession of a form determined by the same connec-
-tion as something else; as, for instance, the being fiery is
+the possession of a form determined by the same connection as something else; as, for instance, the being fiery is
 not determined by connection with smoke, for the being
 fiery is more extensive. We proceed, then, to state that
 invariable concomitance is a connection requiring no
-qualifying term or limitation. It is an extensiveness co-
-extensive with the predicate. In other words, invariable
+qualifying term or limitation. It is an extensiveness coextensive with the predicate. In other words, invariable
 concomitance is invariable co-inherence of the predicate.” 3
 The qualifying term or limitation is called wpddhi.
 Fire always underlies smoke, but’smoke does not always
-accompany fire; and the proposition that smoke accom-
-panies fire requires a qualifying condition (uwpadhi)—that
+accompany fire; and the proposition that smoke accompanies fire requires a qualifying condition (uwpadhi)—that
 there must be moist fuel—which may not be present.
 An universal proposition is not therefore simply conver-
 
@@ -7563,9 +6672,6 @@ An universal proposition is not therefore simply conver-
 1 Paramarsa-janyam jnanam.
 2 Professor Gough, Calcutta Review, January 1876.
 3 Mr. Gough’s translation (Indian Wisdom), p. 73.
-
-
-HINDU PHILOSOPHY. 127
 
 
 tible, but only convertible by limitation per accidens. The
@@ -7594,20 +6700,15 @@ The system of Kanada (the Vazseshika) is supplementary
 to that of Gotama, coinciding with it in the main, but
 differing from it in allowing only two methods of proof,
 perception and inference, and in its arrangement of the
-objects of knowledge. It is expounded in the “ Vaige-
-shika Siitra, which contains about 550 aphorisms.
+objects of knowledge. It is expounded in the “ Vaigeshika Siitra, which contains about 550 aphorisms.
 
 There are in this system six categories or predicaments
-(padartha): (1.) things or substance; (2.) quality; (3.) ac-
-tion; (4.) community or genus; (5.) particularity; (6.) the
+(padartha): (1.) things or substance; (2.) quality; (3.) action; (4.) community or genus; (5.) particularity; (6.) the
 co-inherence or intimate connection of constituent parts,
 
 
 1 Comm. on the Sankhya Sutras, Professor Cowell’s note to Colebrooke,
 i, 314.
-
-
-128 HINDU PHILOSOPHY.
 
 
 to which later writers added a seventh, non-existence |
@@ -7628,8 +6729,7 @@ Other substances are formed in a similar manner. These ©
 atoms combine by twos in an aggregate called dwy-anuka,
 or by threes, forming an aggregate called trasa-renu, which _
 comes within the range of our sight, as a mote in a sun- —
-beam. They also combine by fours, &. They are in-
-numerable in extent, and are perpetually united, disinte-
+beam. They also combine by fours, &. They are innumerable in extent, and are perpetually united, disinte-
 grated, and redintegrated by an unseen peculiar virtue or
 force (adrishta).
 
@@ -7646,11 +6746,7 @@ Mind from the existence of effects; from the combinations
 of the atoms; from the support of the earth in the sky;
 
 
-HINDU PHILOSOPHY. 129
-
-
-from traditional arts, and from the Vedas. As Kanada dif-
-fered from Gotama in not admitting speech or tradition asa
+from traditional arts, and from the Vedas. As Kanada differed from Gotama in not admitting speech or tradition asa
 source of knowledge, it may be doubted whether he would
 have admitted an argument founded on the Vedas. They
 appeal, however, chiefly to the evidence of design. “The
@@ -7669,8 +6765,7 @@ certainly taught that the soul is distinct from matter.
 He appeals, in proof, to our feelings of desire and
 aversion, which are excited by a perception of the
 good or evil connected with certain things; affirming
-that this perception of good and bad results is an attri-
-bute of spirit. He combats the assertion of an objector
+that this perception of good and bad results is an attribute of spirit. He combats the assertion of an objector
 that the soul might be diffused in matter, and not be
 separate from it, by asserting that the nature of the
 cause is always seen in the effect, and that if soul
@@ -7688,9 +6783,6 @@ disjunction, priority, posteriority, intellections (buddhayas),
 I
 
 
-130 HINDU PHILOSOPHY.
-
-
 pleasure, pain, desire, aversion, and volition. To these
 his followers added the seven following: gravity, fluidity,
 viscidity, self-reproduction (including motion, elasticity, —
@@ -7699,12 +6791,10 @@ and memory), sound, with merit and demerit.
 Light and heat are considered as only different forms of
 the same substance.
 
-The direct instrument of vision is a ray of light pro-
-ceeding from the pupil of the eye to the object seen.
+The direct instrument of vision is a ray of light proceeding from the pupil of the eye to the object seen.
 This ray of light is not ordinarily visible, as the brightness
 of a torch is not seen in the meridian light, but may be
-seen at night in the eye of a cat or other animal watch-
-ing for its prey.
+seen at night in the eye of a cat or other animal watching for its prey.
 
 Ether (akasa) is uncompounded, infinite, and eternal.
 It is not atomic. It is known only by inference. It
@@ -7733,9 +6823,6 @@ the notion of here and there.
 The third category, action (karman), is divided into five
 
 
-HINDU PHILOSOPHY. 131
-
-
 kinds, upward and downward movement, contraction,
 dilatation, and going, or motion in general.
 
@@ -7744,8 +6831,7 @@ of our notion of genus. In its highest degree it expresses
 only existence, a property common to all, but it usually
 denotes qualities common to many objects. It denotes
 species also, as indicating a class. These genera and
-species have a real, objective existence. The Baud-
-dhas deny this, affirming that individuals only have
+species have a real, objective existence. The Bauddhas deny this, affirming that individuals only have
 existence, and that abstractions are false conceptions.
 It is the quarrel revived in the Realist and Nominalist
 theories of the medieval schoolmen.
@@ -7755,8 +6841,7 @@ objects, devoid of community. These are soul, mind,
 time, place, the ethereal element, and also atoms in their
 ultimate form.
 
-The sixth category, co-inherence or inseparable connec-
-tion (samavadya), denotes the connection of things that in
+The sixth category, co-inherence or inseparable connection (samavadya), denotes the connection of things that in
 their nature must be connected so long as they exist, as
 yarn and the cloth of which it is formed ; for so long as
 the yarn subsists the cloth remains.
@@ -7783,9 +6868,6 @@ j
 fe
 
 
-132 HINDU PHILOSOPHY.
-
-
 whom it is a, as may, the illusive manifestatio
 the One Supreme Brahma, who is himself the All. _
 
@@ -7810,29 +6892,22 @@ Distichs 22, 24, 26, 34.
 
 THE Intellect (buddhi), the first emanation of Nature (Prakriti),
 is an organ or instrument of the Soul, for by it all material
-things are brought within the view of the Soul, which is imma-
-terial. From it Consciousness or Mind-stuff emanates, and from
-Consciousness, affected by the mode of Nature called ‘ good-
-ness,” issue the eleven organs (indriydni), which are the Mind
+things are brought within the view of the Soul, which is immaterial. From it Consciousness or Mind-stuff emanates, and from
+Consciousness, affected by the mode of Nature called ‘ goodness,” issue the eleven organs (indriydni), which are the Mind
 (manas), the five organs of sensation and the organs of action.
 From it also emanate the five subtle elements of matter when
 it is affected by the mode called “darkness,” and from the
 subtle elements the grosser elements are evolved. ‘The five
-organs of sensation are called “intellect-organs” (buddhi-
-indriyadni), and in Distich 34 they are said to be the domain
+organs of sensation are called “intellect-organs” (buddhiindriyadni), and in Distich 34 they are said to be the domain
 of specific and non-specific elements (as Lassen translates the
 passage), or to concern objects specific and unspecific (as
 Colebrooke translates it). The meaning is obscure, and, as
-usual, the Hindi commentators throw no light on the dark-
-ness. Gaudapada assumes that by non-specific objects are
+usual, the Hindi commentators throw no light on the darkness. Gaudapada assumes that by non-specific objects are
 meant such as are apprehended by the gods, If so, they
 would have no place in the system of Kapila. His meaning
 
 
 SoS sits iaistinne ase e Stel
-
-
-134 HINDU PHILOSOPHY.
 
 
 apes
@@ -7856,8 +6931,7 @@ tion, which is defined by the manas, is gained. Without it
 the eye could no more see than in the case of a dead body.
 Sometimes the faculty and its instrument are united in one
 expression. Hence, I think, we may explain Distich 34 as
-meaning that the “intellect-organs” are composed of non-
-specific substances, i.e., of the more subtle or ethereal forms of —
+meaning that the “intellect-organs” are composed of nonspecific substances, i.e., of the more subtle or ethereal forms of —
 matter in the faculty of seeing, and of specific or the grosser
 elements in the instrument, i.e, the eye. This distinction
 seems to have partly suggested itself to the author of the
@@ -7882,8 +6956,7 @@ DER es
 NOTES. 135
 
 
-“Numerous facts prove demonstrably that a certain applica-
-tion and exercise of mind on one side is as necessary to the
+“Numerous facts prove demonstrably that a certain application and exercise of mind on one side is as necessary to the
 existence of sensation as the occurrence of a physical impulse
 on the other” (Morell, Elements of Psychology, pp. 107, 108).
 
@@ -7895,8 +6968,7 @@ ON THE MEANING oF Sat AND Asal.
 There is a general misunderstanding of these terms as used
 in the philosophy of the Hindiis, especially in the system of
 Kapila. Sat is supposed to mean existence per se, and asat is
-therefore represented as its logical opposite, or rather contra-
-dictory ; the negation of being, or non-existence. Thus Dr.
+therefore represented as its logical opposite, or rather contradictory ; the negation of being, or non-existence. Thus Dr.
 Muir writes: “These ideas of entity and nonentity seem to
 have been familiar to the Vedic poets, and we find it thus
 declared (R.-V. x. 72, 2, 3), that in the beginning nonentity
@@ -7913,14 +6985,10 @@ And in a note he adds: “This phrase
 is also applied to Agni in R.-V. x. 5, 7, where it is said that
 
 
-292
-
-
 sprang entity [sat].
 
 
-that god, being ‘a thing both asat, non-existent (i.e, unmani-
-fested), and sat, existent (i.¢., in a latent state or in essence),
+that god, being ‘a thing both asat, non-existent (i.e, unmanifested), and sat, existent (i.¢., in a latent state or in essence),
 in the highest heaven, in the creation of Daksha, and in the
 womb of Aditi, became in a former age the first-born of our
 ceremonial, and is both a bull and a cow’” (Progress of the
@@ -7928,9 +6996,6 @@ Vedic Religion, Journal A. S., 1865, p. 347). So also Pro-
 
 
 ee ae, ee eee ad
-
-
-136 HINDU PHILOSOPHY.
 
 
 fessor Max Miiller writes: “Some of the ancient sages, a
@@ -7950,8 +7015,7 @@ Spinoza, and asat is the opposite of this, or the formless
 Prakriti, the Mind-matter from which all formal existence
 has sprung. Sat corresponds in each separate form to the
 “being-this” of Hegel, and Kapila argues, as the German
-philosopher, that “by virtue of its predicate of merely being-
-this, every something is a finite,” and therefore it is an effect,
+philosopher, that “by virtue of its predicate of merely beingthis, every something is a finite,” and therefore it is an effect,
 because otherwise we could only conceive it as absolute being,
 and therefore unlimited. Soul was something different from
 both. So in the Satapatha Brahmana (x. 5, 3, 1) it is said,
@@ -7987,11 +7051,9 @@ is only the projection of the One, or, as Hegel thought (for he
 was essentially a Vedantist), “the idea in its externality, in
 having fallen from itself into a without in time and space ;”
 but this is only a manifestation of the Absolute. ‘The
-Absolute, the being-thinking [the ultimate synthesis of exis-
-tence and thought, of object and subject] passes through the
+Absolute, the being-thinking [the ultimate synthesis of existence and thought, of object and subject] passes through the
 three periods, and manifests itself as idea in and for itself
-[thinking]; secondly, in its being otherwise, or in objective-
-ness and externality [nature]; thirdly, as the idea which from
+[thinking]; secondly, in its being otherwise, or in objectiveness and externality [nature]; thirdly, as the idea which from
 its externality has returned into itself [mind]” (Chalybius,
 Hist. of Spec. Phil., Eng. ed., p. 362). As Mr. Morrell has
 expounded his views, and correctly, I may add, ‘“ With him
@@ -8016,16 +7078,10 @@ Veda who explain asaé as meaning “an undeveloped state,”
 oe?
 
 
-138 HINDU PHILOSOPHY.
-
-
-and adds that if we accept this statement there will be no con-
-tradiction. sat does not mean simply an undeveloped state,
-but the state of pure or formless existence of the primal sub-
-stance from which all forms have sprung. It is clear, however,
+and adds that if we accept this statement there will be no contradiction. sat does not mean simply an undeveloped state,
+but the state of pure or formless existence of the primal substance from which all forms have sprung. It is clear, however,
 that if asaf means an undeveloped state, then sa¢ must mean, not
-the essence of anything, but a developed state, the develop-
-ment of the existing world, as Kapila uses it. The writer of
+the essence of anything, but a developed state, the development of the existing world, as Kapila uses it. The writer of
 the Vedic hymn (R.-V. x. 57) meant to say that Agni was —
 asat, but became sat in the birth (janman) of Daksha and 1 in
 the womb of Aditi. It is clear, also, that Kapila, in this part
@@ -8069,12 +7125,10 @@ THE PHILOSOPHY OF SPINOZA.
 
 The teaching of Spinoza has been unjustly described as a
 pure Atheism or as a system based on Materialism. This
-error has apparently arisen from his use of the word “ sub-
-stantia,’ which he is supposed to use to denote mere matter
+error has apparently arisen from his use of the word “ substantia,’ which he is supposed to use to denote mere matter
 or gross body, in opposition to mind or spirit. He uses it,
 however, to denote absolute or infinite Being with infinite
-attributes, manifesting itself by modes or accidents (affec-
-tiones) in the manifold forms of the universe, and to this
+attributes, manifesting itself by modes or accidents (affectiones) in the manifold forms of the universe, and to this
 absolute substance or Being he gives the name of God. ‘To
 God he sometimes gives the name of Nature, as Kapila called
 his primal substance Prakriti. ‘Infinitum ens, quod Deum
@@ -8093,28 +7147,22 @@ problem of the relation of the Infinite to the Finite, he forms
 only a kind of Pantheism. It has been said that “ Spinoza
 does not confound God with the material universe,” but this
 is, in his system, a part of God: “ Natura naturans et natura
-naturata in identitate Deus est.” God has, indeed, two attri-
-butes, thought and expansion. ‘‘ Cogitatio attributum Dei
+naturata in identitate Deus est.” God has, indeed, two attributes, thought and expansion. ‘‘ Cogitatio attributum Dei
 est, sive Deus est res cogitans. Extensio attributum Dei est,
 
 
 EN an
 
 
-140 HINDU PHILOSOPHY.
-
-
 sive Deus est res extensa” (Eth. 2). But here are not two
 distinct entities. God is the All Extension is visible
 thought and thought is invisible extension, but He is the
-living whole. Res particulares nihil sunt nisi Dei attri-
-butorum affectiones, sive modi, quibus Dei attributa certo et
+living whole. Res particulares nihil sunt nisi Dei attributorum affectiones, sive modi, quibus Dei attributa certo et
 de terminato modo exprimuntur” (Eth. i.). God, however,
 is not corporeal. The universe is only a manifestation of his
 being. Body is only a mode of his attribute of extension, a
 passing form of his existence. All formal existence changes
-and dies ; it is but a visible aspect of him who is unchange-
-able and eternal. He, the Infinite, exists in himself, and that
+and dies ; it is but a visible aspect of him who is unchangeable and eternal. He, the Infinite, exists in himself, and that
 which is finite exists in another, and cannot therefore be a
 representation of his nature. As Cousin has interpreted the
 idea; the universe is “the Deity passing into activity, but not
@@ -8127,8 +7175,7 @@ confused, become clear by the action of the mind in internal
 reflection. It is not, however, free in its action. It is
 determined by a cause, which is itself determined ad infinitum
 by some other cause. All things issue and are carried on by
-an eternal necessity. Even God does not act for some volun-
-tary purpose, for this would indicate desire. He acts only
+an eternal necessity. Even God does not act for some voluntary purpose, for this would indicate desire. He acts only
 from the necessity of his nature. As there is no free will and
 no really free action, for man is but a part of the general
 order whose laws cannot be disturbed, there is no absolute
@@ -8186,9 +7233,6 @@ existing things is a manifestation of the Supreme Spirit in
 |
 
 
-142 HINDU PHILOSOPHY.
-
-
 this lower attribute, coming forth at the will of the spir
 nature and again at the end of an age called a kalpa, dissol
 into his all-containing self. All individual or formal existe:
@@ -8211,8 +7255,7 @@ the ideas of sensation or sense-perceptions that originate in
 the bodily organs. There is no absolute self-consciousness.
 
 In another conclusion the two systems agree. The fatalism
-which Spinoza asserted, though supported by a more im-
-posing array of argument and more absolute in its kind, is
+which Spinoza asserted, though supported by a more imposing array of argument and more absolute in its kind, is
 maintained by his Hindu predecessor. According to the
 latter, the universe is only a vast machine, which is caused
 to revolve by the action of the One Being, in whom all
@@ -8238,8 +7281,7 @@ and all sense of duty are entirely lost. The system of Spinoza
 leads to the same selfish exclusiveness ; for if men ought to
 seek only what is profitable or agreeable to them, or rather,
 must do so from the very necessity of their nature, there is
-no possibility of self-sacrifice or the abandonment of a per-
-sonal gain for the benefit of others, either in their personal
+no possibility of self-sacrifice or the abandonment of a personal gain for the benefit of others, either in their personal
 or national capacity. There is virtually no law, or no law
 but that of an unchangeable necessity, and all rightfulness
 and the sense of right or wrong are absolutely destroyed.
@@ -8257,15 +7299,11 @@ common with the theory of Patanjali, but the teaching of
 Kapila is more closely allied with the latest philosophy of
 Germany, as set forth by Schopenhauer and Von Hartmann,
 in “ Die Welt als Wille und Vorstellung” (“The World as
-Will and Idea”) of the first, and the ‘“‘ Philosophie des Unbe-
-wussten” (“Philosophy of the Unconscious”) of the latter.
+Will and Idea”) of the first, and the ‘“‘ Philosophie des Unbewussten” (“Philosophy of the Unconscious”) of the latter.
 If we leave out of view Hartmann’s poetical illustrations of
 his subject, by which he gives an unnatural brightness to a
 gloomy system, we shall find only a “ philosophy of despair,”
 an inarticulate cry, a wail of lamentation in which there is
-
-
-144 HINDU PHILOSOPHY.
 
 
 no hope. There is absolutely none for man in his present
@@ -8298,8 +7336,7 @@ that our hopes are deceptive: they only make our miserable
 state more sad and despairing from the false light which
 they throw around us for a while, leaving us, in their
 departure, immersed in a deeper darkness and at a lower
-depth. ‘Human life,” says Schopenhauer, “oscillates be-
-tween pain and ennui, which two states are indeed the
+depth. ‘Human life,” says Schopenhauer, “oscillates between pain and ennui, which two states are indeed the
 ultimate elements of life.” Hartmann says of love that “the
 sorrow of disappointment and the bitterness of betrayal
 continue infinitely longer than the happiness of the illusion.”
@@ -8325,14 +7362,12 @@ which are only material conditions. To strive for inward
 purity, or to contend for a noble purpose in our own lives
 or for the benefit of others, was not indeed to him, as to
 some modern philosophers, a work of folly or delusion, but
-it was not held to be man’s highest or most necessary pur-
-pose. This is found only in the attainment of the knowledge
+it was not held to be man’s highest or most necessary purpose. This is found only in the attainment of the knowledge
 by which the soul may be freed from all contact with matter,
 that by such means pain may be destroyed. There is no
 greatness in the suffering of pain, no moral elevation in
 sharing the pains or the sorrows of others. Philosophy
-began, as it ends, by seeking only to obtain a painless, un-
-troubled life.
+began, as it ends, by seeking only to obtain a painless, untroubled life.
 
 If now the question be put, How was this state of misery
 produced ? the answer in the two systems is substantially the
@@ -8347,9 +7382,6 @@ source of all formal existence, the Uy of the Greeks. ‘The
 
 Unconscious is the ultimate principle of all existence ; it enters
 K
-
-
-146 HINDU PHILOSOPHY.
 
 
 into all organic forces, into all our bodily movements and our
@@ -8368,11 +7400,9 @@ dition of equilibrium, and there was no development of formal
 existence while it continued in that state. How then was this
 passive state brought to an end and the beginning of the ©
 existing kosmos produced? The answer of Kapila is that the
-proximity of Prakriti (Nature) to Soul gave rise to an un-
-conscious movement of Nature’s constitutent elements, that
+proximity of Prakriti (Nature) to Soul gave rise to an unconscious movement of Nature’s constitutent elements, that
 by their consequent unfolding into the forms of material life
-the Soul might know the existence of matter and be sub-
-sequently free from all contact with it. The Soul thus knows
+the Soul might know the existence of matter and be subsequently free from all contact with it. The Soul thus knows
 itself and gains its natural state of isolation. All existing
 things have been formed for this purpose. So says Hegel:
 ‘Everything in heaven and earth aims only at this—that
@@ -8386,8 +7416,7 @@ Hartmann represents the Unconscious as the unity of Willand
 Idea, the latter being the object which the Will unconsciously
 
 
-1 See an able article on the “ Philosophy of Pessimism” in the “ West-
-minster Review,” January 1876.
+1 See an able article on the “ Philosophy of Pessimism” in the “ Westminster Review,” January 1876.
 
 
 NOTES. 147
@@ -8396,17 +7425,14 @@ NOTES. 147
 seeks to realise. The Idea has no separate existence per se,
 and here we come very near the Vedantist doctrine of maya
 (illusion). Schopenhauer, however, says that ‘‘absence of end
-belongs to the nature of Will per se, which is an endless striv-
-ing” (Die Welt als Wille, &c.), From neither do we learn
+belongs to the nature of Will per se, which is an endless striving” (Die Welt als Wille, &c.), From neither do we learn
 how the world of existent things came to be developed from
 this unknown power called Will, but the German philosophers
 agree with Kapila in maintaining that the primary essence or
 substance was unconscious, and that the conscious life has been
 developed from it. Hartmann speaks of the Unconscious as
-being properly that which is above consciousness (das Ueberbe-
-wusste), and that an individual consciousness is a limitation
-and defect. Its birth is explained in language which is pro-
-bably as strange as any that the science of mental physiology
+being properly that which is above consciousness (das Ueberbewusste), and that an individual consciousness is a limitation
+and defect. Its birth is explained in language which is probably as strange as any that the science of mental physiology
 has ever known : “ Before the rise of consciousness, mind can,
 in its own nature, have no other presentations and ideas than
 those which are called into being through Will and form its
@@ -8433,11 +7459,7 @@ has ceased to exist. When the soul has gained a complete
 __<-eeiilee R A A ALAA AANA LCN ALLO, A OC CAO Cc
 
 
-148 HINDU PHILOSOPHY.
-
-
-isolation, then all conscious life is absorbed into the un-
-conscious Prakriti. Freedom from pain can only be obtained
+isolation, then all conscious life is absorbed into the unconscious Prakriti. Freedom from pain can only be obtained
 by the destruction of this conscious life, and the aim of
 the wise is to obtain by knowledge the primitive state of
 unconsciousness. Schopenhauer and Hartmann teach the
@@ -8448,14 +7470,11 @@ existence, even the lowest, but has its highest development in
 man, and hence he is supremely wretched. But the remedy
 for the evil is not suicide: this affects only the individual ; it
 cannot benefit the race. ‘“ The basis of all man’s being is
-want, defect, and pain. Since he is the most complete ob-
-jective form of will, he is by that same fact the most defective
-of all beings. His life is only a continual struggle for exist-
-ence, with the certainty of being beaten” (Die Welt als Wille).
+want, defect, and pain. Since he is the most complete objective form of will, he is by that same fact the most defective
+of all beings. His life is only a continual struggle for existence, with the certainty of being beaten” (Die Welt als Wille).
 How, then, is the world to be delivered from this state of
 wretchedness? The answer is: (1.) By a knowledge of the
-fact that the world in its present form is wholly and un-
-alterably bad. This answers to Kapila’s statement that our
+fact that the world in its present form is wholly and unalterably bad. This answers to Kapila’s statement that our
 deliverance from pain can only be gained by knowledge. (2.)
 By the abandonment of desire, the renunciation of will, the
 absolute surrender of personal existence, that all things may
@@ -8491,8 +7510,7 @@ Hartmann, too, asserts a true Nirvana, the extinction of all
 conscious personal life as the final goal which the wise will
 seek to obtain. The Hindi and the German philosopher
 alike maintain that there is no hope for the world by any
-process of amendment. ‘The labours of statesmen and philan-
-thropists are in vain. The only sufficient and abiding cure of
+process of amendment. ‘The labours of statesmen and philanthropists are in vain. The only sufficient and abiding cure of
 its woes is the annihilation of all individual life. The last act
 of the great drama, which we are to expect eagerly, ends in
 the universal destruction of the present order, and the world,
@@ -8507,8 +7525,7 @@ be absorbed and contained in him. M. Renan anticipates a
 similar result as the conclusion of the existing world. “We
 imagine a state of the world in which everything would end
 alike in a single conscious centre in which the universe would
-be reduced to a single existence, in which the idea of a per-
-sonal monotheism would bea truth. A Being omniscient and
+be reduced to a single existence, in which the idea of a personal monotheism would bea truth. A Being omniscient and
 omnipotent might be the last term of the deific evolution,
 whether we conceive him as rejoicing in all (all also rejoicing
 in him), according to the dream of the Christian mysticism,
@@ -8520,12 +7537,8 @@ the total voice of the universe. The universe would be thus
 “)
 
 
-150 HINDU PHILOSOPHY.
-
-
 consummated in a single organised being, in whose infinitude
-would be resumed millions of millions of lives, past and pre-
-sent, at the same time.” This sole Being is further described in
+would be resumed millions of millions of lives, past and present, at the same time.” This sole Being is further described in
 language which, from its united grandeur and grotesqueness,
 might have been written in the East, and will remind the
 Sanskrit scholar of the description of the Supreme Being
@@ -8533,11 +7546,9 @@ in the eleventh chapter of the Bhagavad Gita: “Only a
 small part of matter is now organised, and that which is
 organised is organised feebly ; but we may admit an age in
 which all matter may be organised, in which thousands of
-suns joined together would serve to form a single being, sen-
-tient, rejoicing, absorbing by his burning throat a river of
+suns joined together would serve to form a single being, sentient, rejoicing, absorbing by his burning throat a river of
 pleasure which would flow from him in a torrent of life. This
-living universe would present the two poles which every ner-
-yous mass presents, the pole which feels and the pole which
+living universe would present the two poles which every neryous mass presents, the pole which feels and the pole which
 enjoys. Now, the universe thinks and rejoices by millions of
 individuals. One day a colossal mouth would give a sense of
 the infinite (savowrerait Vinfini), an ocean of intoxicating delight
@@ -8551,8 +7562,7 @@ Kapila and Hartmann had substantially the same theory, but
 the exercise of their imagination was less bold and vivid than
 that of the Frenchman. But, however expressed, whether in
 the obscure brevity of Iswara Krishna, or in the subtle but
-flowing arguments and illustrations of Hartmann, or the im-
-aginative flights of Renan, the theory is substantially the
+flowing arguments and illustrations of Hartmann, or the imaginative flights of Renan, the theory is substantially the
 same. All existent things have issued from the One; this
 emanation into separate and conscious forms of being has been
 the cause of unnumbered woes; and this state of misery can
@@ -8566,8 +7576,7 @@ NOTES. 151
 
 only be put away by the absorption of all personal, conscious
 life in its primal source. The oldest and the latest system of
-philosophy, though severed in time by more than two thou-
-sand years, speak with the same voice; but they give no hope
+philosophy, though severed in time by more than two thousand years, speak with the same voice; but they give no hope
 to man, for his highest ambition or his only refuge from
 misery lies in his personality being destroyed for ever.
 
@@ -8577,9 +7586,6 @@ THE END.
 
 PRINTED BY BALLANTYNE, HANSON AND CO.
 EDINBURGH AND LONDON,
-
-
-2
 
 
 MY

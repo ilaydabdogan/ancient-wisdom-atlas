@@ -6,9 +6,6 @@ THE
 SACRED  BOOKS  OF  THE  EAST
 
 
-[15]
-
-
 1:
 
 
@@ -39,7 +36,6 @@ THE   MAITRAYAiVA-BRAHMAiVA-UPANISHAD
 
 
 AT    THE     CLARENDON     PRESS
-1884
 
 \_All  rights  reserved  ]
 
@@ -95,27 +91,13 @@ xlii
 xliii
 
 
-27
-
-45
-73
-
-
-231
-
-
-271
-287
-
-
 ^6
 
 
 ^-■^
 
 
-Transliteration  of  Oriental  Alphabets  adopted  for  the  Trans-
-lations of  the  Sacred  Books  of  the  East  .        .        .347
+Transliteration  of  Oriental  Alphabets  adopted  for  the  Translations of  the  Sacred  Books  of  the  East  .        .        .347
 
 
 INTRODUCTION.
@@ -153,11 +135,9 @@ them  the  eleven  classical  Upanishads,  or  the  fundamental
 Upanishads  of  the  Vedanta  philosophy.
 
 Vidyarawya^,  in  his  'Elucidation  of  the  meaning  of  all
-the  Upanishads,'  Sarvopanishadarthanubhuti-prakai-a,  con-
-fines himself  likewise  to  those  treatises,  dropping,  however,
+the  Upanishads,'  Sarvopanishadarthanubhuti-prakai-a,  confines himself  likewise  to  those  treatises,  dropping,  however,
 the  tsk,  and  adding  the  Maitrayawa-upanishad,  of  which
-I  have  given  a  translation  in  this  volume,  and  the  Nrz-
-si7«hottara-tapaniya-upanishad,  the  translation  of  which
+I  have  given  a  translation  in  this  volume,  and  the  Nrzsi7«hottara-tapaniya-upanishad,  the  translation  of  which
 had  to  be  reserved  for  the  next  volume.
 
 
@@ -178,16 +158,14 @@ It  is  more  difficult  to  determine  which  of  the  Upanishads
 were  chosen  by  5ahkara  or  deserving  the  honour  of  a  special
 commentary.  We  possess  his  commentaries  on  the  eleven
 Upanishads  mentioned  before  \  with  the  exception  of  the
-Kaushitaki  ^-upanishad.  We  likewise  possess  his  commen-
-tary on  the  Ma;/^ukya-upanishad,  but  we  do  not  know  for
+Kaushitaki  ^-upanishad.  We  likewise  possess  his  commentary on  the  Ma;/^ukya-upanishad,  but  we  do  not  know  for
 certain  whether  he  left  commentaries  on  any  of  the  other
 Upanishads.  Some  more  or  less  authoritative  statements
 have  been  made  that  he  wrote  commentaries  on  some  of  the
 minor  Upanishads,  such  as  the  Atharva^iras,  Atharva-i-ikha,
 and  the  Nrzsiwhatapani^  But  as,  besides  5ahkaraHrya,  the
 disciple  of  Govinda,  there  is  5ankarananda,  the  disciple  of
-Anandatman,  another  writer  of  commentaries  on  the  Upa-
-nishads, it  is  possible  that  the  two  names  may  have  been
+Anandatman,  another  writer  of  commentaries  on  the  Upanishads, it  is  possible  that  the  two  names  may  have  been
 confounded  by  less  careful  copyists  *.
 
 With  regard  to  the  Nr/si;;2hatapani  all  uncertainty  might
@@ -225,12 +203,10 @@ Dipikas  on  several  Upanishads.
 
 *  They  have  been  published  by  Dr.  Roer  in  the  Bibliotheca  Indica.
 
-^  Dr.  Weber's  statement  that  5ahkara  wrote  a  commentary  on  the  Kaushitaki-
-upanishad  has  been  corrected  by  Deussen,  loc.  cit.  p.  39.
+^  Dr.  Weber's  statement  that  5ahkara  wrote  a  commentary  on  the  Kaushitakiupanishad  has  been  corrected  by  Deussen,  loc.  cit.  p.  39.
 ^  See  Deussen,  loc.  cit,  p.  39.
 
-*  A  long  list  of  works  ascribed  to  ^ankara  may  be  seen  in  Regnaud,  Philo-
-sophie  de  I'Inde,  p.  34,  chiefly  taken  from  Fitzedward  Hall's  Index  of  Indian
+*  A  long  list  of  works  ascribed  to  ^ankara  may  be  seen  in  Regnaud,  Philosophie  de  I'Inde,  p.  34,  chiefly  taken  from  Fitzedward  Hall's  Index  of  Indian
 Philosophical  Systems.
 
 ^  See  Tarkaratna's  Vi^;7apana,  p.  3, 1.  5.
@@ -242,8 +218,7 @@ INTRODUCTION.
 XI
 
 
-I  subjoin  a  list  of  thirty  of  the  smaller  Upanishads,  pub-
-lished by  Professor  Ramamaya  Tarkaratna  in  the  Biblio-
+I  subjoin  a  list  of  thirty  of  the  smaller  Upanishads,  published by  Professor  Ramamaya  Tarkaratna  in  the  Biblio-
 theca  Indica,  with  the  commentaries  of  Naraya;/abha//a.
 I.  ^""ira-upanishadjpp.i-io;  DipikabyNaraya;/a,pp.42-6o.
 
@@ -359,19 +334,16 @@ commentaries  leave  us  without  any  help.
 
 Whatever  other  scholars  may  think  of  the  difficulty
 of  translating  the  Upanishads,  I  can  only  repeat  what  I
-have  said  before,  that  I  know  of  few  Sanskrit  texts  pre-
-senting more  formidable  problems  to  the  translator  than
+have  said  before,  that  I  know  of  few  Sanskrit  texts  presenting more  formidable  problems  to  the  translator  than
 these  philosophical  treatises.  It  may  be  said  that  most  of
 them  had  been  translated  before.  No  doubt  they  have
 been,  and  a  careful  comparison  of  my  own  translation  with
 those  of  my  predecessors  will  show,  I  believe,  that  a  small
 advance,  at  all  events,  has  now  been  made  towards  a  truer
 understanding  of  these  ancient  texts.  But  I  know  full  well
-how  much  still  remains  to  be  done,  both  in  restoring  a  cor-
-rect text,  and  in  discovering  the  original  meaning  of  the
+how  much  still  remains  to  be  done,  both  in  restoring  a  correct text,  and  in  discovering  the  original  meaning  of  the
 Upanishads  ;  and  I  have  again  and  again  had  to  translate
-certain  passages  tentatively  only,  or  following  the  com-
-mentators, though  conscious  all  the  time  that  the  meaning
+certain  passages  tentatively  only,  or  following  the  commentators, though  conscious  all  the  time  that  the  meaning
 which  they  extract  from  the  text  cannot  be  the  right  one.
 
 As  to  the  text,  I  explained  in  my  preface  to  the  first
@@ -411,12 +383,9 @@ made  between  what  is  not  quite  faithful  and  what  is  not
 quite  English,  to  surrender  without  hesitation  the  idiom
 rather  than  the  accuracy  of  the  translation.  I  know  that
 all  true  scholars  have  approved  of  this,  and  if  some  of  our
-critics  have  been  offended  by  certain  unidiomatic  expres-
-sions occurring  in  our  translations,  all  I  can  say  is,  that  we
-shall  always  be  most  grateful  if  they  would  suggest  trans-
-lations which  are  not  only  faithful,  but  also  idiomatic.  For
-the  purpose  we  have  in  view,  a  rugged  but  faithful  trans-
-lation seems  to  us  more  useful  than  a  smooth  but  mis-
+critics  have  been  offended  by  certain  unidiomatic  expressions occurring  in  our  translations,  all  I  can  say  is,  that  we
+shall  always  be  most  grateful  if  they  would  suggest  translations which  are  not  only  faithful,  but  also  idiomatic.  For
+the  purpose  we  have  in  view,  a  rugged  but  faithful  translation seems  to  us  more  useful  than  a  smooth  but  mis-
 leading one.
 
 However,  we  have  laid  ourselves  open  to  another  kind
@@ -429,8 +398,7 @@ I  shall  give  at  least  one  instance.
 My  old  friend,  Mr.  Nehemiah  Goreh — at  least  I  hope  he
 will  still  allow  me  to  call  him  so  —  in  the  'Occasional
 Papers  on  Missionary  Subjects/  First  Series,  No.  6,  quotes,
-on  p.  39,  a  passage  from  the  -^//andogya-upanishad,  trans-
-lates it  into  English,  and  then  remarks  that  I  had  not
+on  p.  39,  a  passage  from  the  -^//andogya-upanishad,  translates it  into  English,  and  then  remarks  that  I  had  not
 translated  it  accurately.     But  the  fault  seems  to  me  to  lie
 
 
@@ -440,8 +408,7 @@ xiv  UPANISHADS.
 entirely  with  him,  in  attempting  to  translate  a  passage
 without  considering  the  whole  chapter  of  which  it  forms
 a  part.  Mr.  Nehemiah  Goreh  states  the  beginning  of  the
-story  rightly  when  he  says  that  a  youth  by  name  vSveta-
-ketu  went,  by  the  advice  of  his  father,  to  a  teacher  to
+story  rightly  when  he  says  that  a  youth  by  name  vSvetaketu  went,  by  the  advice  of  his  father,  to  a  teacher  to
 study  under  him.  After  spending  twelve  years,  as  was
 customary,  with  the  teacher,  when  he  returned  home  he
 appeared  rather  elated.     Then  the  father  asked  him:
@@ -449,23 +416,19 @@ appeared  rather  elated.     Then  the  father  asked  him:
 Uta  tarn  adej-am  apraksho^  yenasmtam  j-rutam  bhavaty
 amatam  matam  avi^/7ata;//  vi^;7atam  iti  ?
 
-I  translated  this  :  '  Have  you  ever  asked  for  that  instruc-
-tion by  which  we  hear  what  cannot  be  heard,  by  which  we
+I  translated  this  :  '  Have  you  ever  asked  for  that  instruction by  which  we  hear  what  cannot  be  heard,  by  which  we
 perceive  what  cannot  be  perceived,  by  which  we  know  what
 cannot  be  known  }'
 
 Mr.  Nehemiah  Goreh  translates :  '  Hast  thou  asked  (of
 thy  teacher)  for  that  instruction  by  which  what  is  not  heard
-becomes  heard,  what  is  not  comprehended  becomes  com-
-prehended, what  is  not  known  becomes  known  .^'
+becomes  heard,  what  is  not  comprehended  becomes  comprehended, what  is  not  known  becomes  known  .^'
 
 I  shall  not  quarrel  with  my  friend  for  translating  man  by
 to  comprehend  rather  than  by  to  perceive.  I  prefer  my
 own  translation,  because  manas  is  one  side  of  the  common
-sensory  (anta/^kara;«a),  buddhi,  the  other  ;  the  original  differ-
-ence between  the  two  being,  so  far  as  I  can  see,  that  the
-manas  originally  dealt  with  percepts,  the  buddhi  with  con-
-cepts^. But  the  chief  difference  on  which  my  critic  lays
+sensory  (anta/^kara;«a),  buddhi,  the  other  ;  the  original  difference between  the  two  being,  so  far  as  I  can  see,  that  the
+manas  originally  dealt  with  percepts,  the  buddhi  with  concepts^. But  the  chief  difference  on  which  my  critic  lays
 stress  is  that  I  translated  airutam,  amatam,  and  avi^;7atam
 not  by  '  not  heard,  not  comprehended,  not  known,'  but  by
 '  what  cannot  be  heard,  what  cannot  be  perceived,  what
@@ -492,11 +455,9 @@ INTRODUCTION.  XV
 
 what  cannot  be  known,  rather  than  by  unknown,  as  every  one
 would  be  inclined  to  translate  these  words  at  first  sight?  If
-he  had  done  so,  he  would  have  seen  in  a  moment,  that  with-
-out the  change  which  I  introduced  in  the  idiom,  the  trans-
+he  had  done  so,  he  would  have  seen  in  a  moment,  that  without the  change  which  I  introduced  in  the  idiom,  the  trans-
 lation would  not  have  conveyed  the  sense  of  the  original,  nay,
-would  have  conveyed  no  sense  at  all.  What  could  vSveta-
-ketu  have  answered,  if  his  father  had  asked  him,  whether
+would  have  conveyed  no  sense  at  all.  What  could  vSvetaketu  have  answered,  if  his  father  had  asked  him,  whether
 he  had  not  asked  for  that  instruction  by  which  what  is  not
 heard  becomes  heard,  what  is  not  comprehended  becomes
 comprehended,  what  is  not  known  becomes  known?  He
@@ -507,12 +468,10 @@ before,  I  have  comprehended  something  which  I  had  not
 comprehended  before,  I  have  known  something  which  I  had
 not  known  before.'  Then  why  does  he  say  in  reply, 'What
 is  that  instruction?'  Surely  Mr.  Nehemiah  Goreh  knew
-that  the  instruction  which  the  father  refers  to,  is  the  instruc-
-tion regarding  Brahman,  and  that  in  all  which  follows  the
+that  the  instruction  which  the  father  refers  to,  is  the  instruction regarding  Brahman,  and  that  in  all  which  follows  the
 father  tries  to  lead  his  son  by  slow  degrees  to  a  knowledge
 of  Brahman^.  Now  that  Brahman  is  called  again  and  again
-'  that  which  cannot  be  seen,  cannot  be  heard,  cannot  be  per-
-ceived, cannot  be  conceived,'  in  the  ordinary  sense  of  these
+'  that  which  cannot  be  seen,  cannot  be  heard,  cannot  be  perceived, cannot  be  conceived,'  in  the  ordinary  sense  of  these
 words  ;  can  be  learnt,  in  fact,  from  the  Veda  only  2.  It  was
 in  order  to  bring  out  this  meaning  that  I  translated  aj-rutam
 not  by '  not  heard,'  but  by '  not  bearable,'  or,  in  better  English,
@@ -521,10 +480,8 @@ by  'what  cannot  be  heard V
 
 ^  In  the  Vedanta-Sara,  Sadananda  lays  great  stress  on  the  fact  that  in  this  very
 chapter  of  the  iT/iandogya-upanishad,  the  principal  subject  of  the  whole  chapter
-is  mentioned  both  in  the  beginning  and  in  the  end.  Tatra  prakarawaprati-
-padyasyarthasya  tadadyantayor  upadanam  upakramasawharam.  Yatha  K/mn-
-dogj'ashash/Aaprapa^^ake  prakara«apratipadyasyadvitiyavastuna  ekam  eva-
-dvitiyam  (VI,  2,  i)  ityadav  aitadatmyam  idaw  sarvam  (VI,  16,  3)  ity  ante  ^a
+is  mentioned  both  in  the  beginning  and  in  the  end.  Tatra  prakarawapratipadyasyarthasya  tadadyantayor  upadanam  upakramasawharam.  Yatha  K/mn-
+dogj'ashash/Aaprapa^^ake  prakara«apratipadyasyadvitiyavastuna  ekam  evadvitiyam  (VI,  2,  i)  ityadav  aitadatmyam  idaw  sarvam  (VI,  16,  3)  ity  ante  ^a
 pratipadanam.  '  The  beginning  with  and  ending  with '  imply  that  the  matter
 to  be  declared  in  any  given  section  is  declared  both  at  the  beginning  and  at  the
 end  thereof: — as,  for  instance,  in  the  sixth  section  of  the  iT/jandogya-upanishad,
@@ -545,8 +502,7 @@ invictus  by  invincible,  and  how  Latin  tolerates  even
 invictissimus,  which  we  could  never  render  in  English  by
 '  the  most  unconquered,'  but  '  the  unconquerable.'  English
 idiom,  therefore,  and  common  sense  required  that  avi^;/ata
-should  be  translated,  not  by  inconceived,  but  by  inconceiv-
-able, if  the  translation  was  to  be  faithful,  and  was  to  give
+should  be  translated,  not  by  inconceived,  but  by  inconceivable, if  the  translation  was  to  be  faithful,  and  was  to  give
 to  the  reader  a  correct  idea  of  the  original.
 
 Let  us  now  examine  some  other  translations,  to  see  whether
@@ -565,15 +521,13 @@ He  evidently  knew  that  Brahman  was  intended,  but  his
 rendering  of  the  three  verbs  is  not  exact.
 
 Mr.  Gough  (p.  43)  translates  :  '  Hast  thou  asked  for  that
-instruction  by  which  the  unheard  becomes  heard,  the  un-
-thought  thought,  the  unknown  known?'
+instruction  by  which  the  unheard  becomes  heard,  the  unthought  thought,  the  unknown  known?'
 
 But  now  let  us  consult  a  scholar  who,  in  a  very  marked
 degree,  always  was  a  thoughtful  translator,  who  felt  a  real
 interest  in  the  subject,  and  therefore  was  never  satisfied  with
 mere  words,  however  plausible.  The  late  Dr.  Ballantyne,  in
-his  translation  of  theVedanta-Sarai,  had  occasion  to  trans-
-late this  passage  from  the  iT/zandogya-upanishad,  and  how
+his  translation  of  theVedanta-Sarai,  had  occasion  to  translate this  passage  from  the  iT/zandogya-upanishad,  and  how
 did  he  translate  it?  'The  eulogizing  of  the  subject  is  the
 glorifying  of  what  is  set  forth  in  this  or  that  section  (of  the
 Veda) ;  as,  for  example,  in  that  same  section,  the  sixth
@@ -583,8 +537,7 @@ terms:  "Thou,  O  disciple,  hast  asked  for  that  instruction
 whereby  the    unheard-of  becomes    heard,  the   inconceiv-
 
 
-h  y.  a''^^^  °"  theVeddnta,  embracing  the  text  of  the  Vedanta-Sara,  Alla-
-habad, 1851,  p.  69.  Vedantasara,  with  Nnsiwha-Sarasvati's  Subodhini,  and
+h  y.  a''^^^  °"  theVeddnta,  embracing  the  text  of  the  Vedanta-Sara,  Allahabad, 1851,  p.  69.  Vedantasara,  with  Nnsiwha-Sarasvati's  Subodhini,  and
 KamatirthasVidvanmanora^^ini,  Calcutta,  i860,  p.  89.  Here  we  find  the
 right  reading,  aprakshaA.
 
@@ -613,16 +566,14 @@ sentence  in  the  same  chapter  of  the  A'/zandogya-upanishad,
 where  the  father,  in  answer  to  his  son's  question,  replies  :
 '  Sad  eva,  Somya,  idam  agra  asid  ekam  evadvitiyam.'  I
 had  tried  several  translations  of  these  words,  and  yet  I  see
-now  that  the  one  I  proposed  in  the  end  is  liable  to  be  mis-
-understood. I  had  translated  :  '  In  the  beginning,  my  dear,
+now  that  the  one  I  proposed  in  the  end  is  liable  to  be  misunderstood. I  had  translated  :  '  In  the  beginning,  my  dear,
 there  was  that  only  which  is,  one  only,  without  a  second.'
 The  more  faithful  translation  would  have  been :  '  The  beinsf
 alone  was  this  in  the  beginning.'  But  '  the  being'  does  not
 mean  in  English  that  which  is,  to  ov,  and  therefore,  to  avoid
 any  misunderstanding,  I  translated  '  that  which  is.'  I  might
 have  said,  however, '  The  existent,  the  real,  the  true  (satyam)
-was  this  in  the  beginning,'  just  as  in  the  Aitareya-upani-
-shad  we  read  :  '  The  Self  was  all  this,  one  alone,  in  the
+was  this  in  the  beginning,'  just  as  in  the  Aitareya-upanishad  we  read  :  '  The  Self  was  all  this,  one  alone,  in  the
 beginning \'  But  in  that  case  I  should  have  sacrificed  the
 gender,  and  this  in  our  passage  is  of  great  importance,
 being  neuter,  and  not  masculine.
@@ -631,8 +582,7 @@ What,  however,  is  far  more  important,  and  where  Mr.
 Nehemiah  Goreh  seems  to  me  to  have  quite  misapprehended
 the  original  Sanskrit,  is  this,  that  sat,  to  ov,  and  atma,  the
 Self,  are  the  subjects  in  these  sentences,  and  not  predicates.
-Now  Mr.  Nehemiah  Goreh  translates :  '  This  was  the  ex-
-istent one  itself  before,  one  only  without  a  second  ;'  and  he
+Now  Mr.  Nehemiah  Goreh  translates :  '  This  was  the  existent one  itself  before,  one  only  without  a  second  ;'  and  he
 
 
 ^  Atma  va  idam  eka  evagra  asit.
@@ -676,8 +626,7 @@ Thus  the  'Pa.nka.da.si,  1,  18,  says  :
 
 Ekadaj-endriyair  yuktya  j-astre;/apy  avagamyate
 Yavat  kbnkld  bhaved  etad  ida;;/.fabdodita;«  ^agat,
-which  Mr.  A.Venis  (Pandit, V,  p.  667)  translates:  'What-
-ever may  be  apprehended  through  the  eleven  organs,  by
+which  Mr.  A.Venis  (Pandit, V,  p.  667)  translates:  'Whatever may  be  apprehended  through  the  eleven  organs,  by
 argument  and  revelation,  i.  e.  the  world  of  phenomena,  is
 expressed  by  the  word  idam,  this.'  The  Pa;U'adaj-i  then
 goes  on  :
@@ -686,8 +635,7 @@ Idaw  sarvam  pura  srzsh/er  ekam  evadvitiyakam
 Sad  evasin  namarupe  nastam  ity  Aru;;er  vaksLk.
 This  Mr.  Venis  translates  :  '  Previous  to  creation,  all  this
 
-'  Sankara  says  (p.  398, 1.  5)  :  ekam  evadvitiyam  paramarthata  idam  buddhi-
-kale  'pi  tat  sad  aikshata.
+'  Sankara  says  (p.  398, 1.  5)  :  ekam  evadvitiyam  paramarthata  idam  buddhikale  'pi  tat  sad  aikshata.
 
 
 INTRODUCTION.  XIX
@@ -698,15 +646,13 @@ form  were  not  : — this  is  the  declaration  of  the  son  of  Aru«a.'
 
 This  is  no  doubt  a  translation  grammatically  correct,  but
 from  the  philosophical  standpoint  of  the  Vedanta,  what  is
-really  meant  is  that,  before  the  sr/sh/i  (which  is  not  crea-
-tion, but  the  sending  forth  of  the  world,  and  the  sending
+really  meant  is  that,  before  the  sr/sh/i  (which  is  not  creation, but  the  sending  forth  of  the  world,  and  the  sending
 forth  of  it,  not  as  something  real,  but  as  a  mere  illusion),
 the  Real  alone,  i.e.  the  Brahman,  was,  instead  of  this,  i.e.
 instead  of  this  illusory  world.  The  illusion  was  not,  but  the
 Real,  i.e.  Brahman,  was.  What  became,  or  what  seemed  to
 change,  was  Brahman,  and  therefore  the  only  possible
-subject,  logically,  is  Brahman,  everything  else  being  a  pre-
-dicate, and  a  phenomenal  predicate  only.
+subject,  logically,  is  Brahman,  everything  else  being  a  predicate, and  a  phenomenal  predicate  only.
 
 If  I  were  arguing  with  a  European,  not  with  an  Indian
 scholar,  I  should  venture  to  go  even  a  step  further,  and  try  to
@@ -714,13 +660,11 @@ prove  that  the  idam,  in  this  and  similar  sentences,  does  not
 mean  this,  i.  e.  this  world,  but  that  originally  it  was  intended
 as  an  adverb,  meaning  now,  or  here.  This  use  of  idam,
 unsuspected  by  native  scholars,  is  very  frequent  in  Vedic
-literature,  and  instances  may  be  seen  in  Boehtlingk's  Dic-
-tionary. In  that  case  the  translation  would  be  :  '  The  real
+literature,  and  instances  may  be  seen  in  Boehtlingk's  Dictionary. In  that  case  the  translation  would  be  :  '  The  real
 (to  6v),  O  friend,  was  here  in  the  beginning.'  This  meaning
 of  idam,  however,  would  apply  only  to  the  earliest  utterances
 of  ancient  Brahmavadins,  while  in  later  times  idam  was  used
-and  understood  in  the  sense  of  all  that  is  seen,  the  visible  uni-
-verse, just  as  iyam  by  itself  is  used  in  the  sense  of  the  earth.
+and  understood  in  the  sense  of  all  that  is  seen,  the  visible  universe, just  as  iyam  by  itself  is  used  in  the  sense  of  the  earth.
 
 However,  difficulties  of  this  kind  may  be  overcome,  if
 once  we  have  arrived  at  a  clear  conception  of  the  general
@@ -760,8 +704,7 @@ writes :  '  The  Bible  is  so  unlike  what  you  would  expect ;
 it  does  not  consist  of  golden  sayings  and  rules  of  life  ;  give
 explanations  of  the  philosophical  and   social  problems  of
 the  past,  the  present,  and  the   future;  contain  teachings
-immeasurably  unlike  those  of  any  other  book  ;  but  it  con-
-tains history,  ritual,  legislation,  poetry,  dialogue,  prophecy,
+immeasurably  unlike  those  of  any  other  book  ;  but  it  contains history,  ritual,  legislation,  poetry,  dialogue,  prophecy,
 memoirs,  and  letters ;  it  contains  much  that  is  foreign  to
 your  idea  of  what  a  revelation  ought  to  be.    But  this  is  not
 all.    There  is  not  only  much  that  is  foreign,  but  much  that
@@ -799,8 +742,7 @@ of  the  mystic  philosophy  and  poetry  of  the  ancient  Hindus.
 
 It  was  in  the  year  1845  that  I  first  copied  at  Berlin  the
 text  of  this  Upanishad,  the  commentary  of  >Sarikara  (MS.  1 37
-Chambers'^},  and  the  gloss  of  Gopalayogin  (MS.  224  Cham-
-bers). The  text  and  commentary  of  5arikara  and  the  gloss
+Chambers'^},  and  the  gloss  of  Gopalayogin  (MS.  224  Chambers). The  text  and  commentary  of  5arikara  and  the  gloss
 of  Anandagiri  have  since  been  edited  by  Dr.  Roer  in  the
 Bibliotheca  Indica,  with  translation  and  notes.  There  are
 other  translations,  more  or  less  perfect,  by  Rammohun  Roy,
@@ -812,11 +754,9 @@ I  may  have  succeeded  in  rendering  the  original  meaning  of
 the  author  more  intelligible  than  it  has  hitherto  been.
 
 The  text  of  theKa//^a-upanishad  is  in  some  MSS.  ascribed
-to  the  Ya^ur-veda.  In  the  Chambers  MS.  of  the  com-
-mentary also  it  is  said  to  belong  to  that  Veda  ^,  and  in  the
+to  the  Ya^ur-veda.  In  the  Chambers  MS.  of  the  commentary also  it  is  said  to  belong  to  that  Veda  ^,  and  in  the
 Muktikopanishad  it  stands  first  among  the  Upanishads  of
-the  Black  Ya^ur-veda.  According  to  Colebrooke  (Miscel-
-laneous Essays,  I,  96,  note)  it  is  referred  to  the  Sama-veda
+the  Black  Ya^ur-veda.  According  to  Colebrooke  (Miscellaneous Essays,  I,  96,  note)  it  is  referred  to  the  Sama-veda
 also.  Generally,  however,  it  is  counted  as  one  of  the
 Atharva//a  Upanishads.
 
@@ -846,11 +786,9 @@ give  thee.'
 Then  a  voice  said  to  the  young  Gautama,  as  he  stood
 up  :  '  He  (thy  father)  said,  Go  away  to  the  house  of  Death,
 I  eive  thee  to  Death.'  Go  therefore  to  Death  when  he  is
-not  at  home,  and  dwell  in  his  house  for  three  nights  with-
-out eating.  If  he  should  ask  thee,  '  Boy,  how  many  nights
+not  at  home,  and  dwell  in  his  house  for  three  nights  without eating.  If  he  should  ask  thee,  '  Boy,  how  many  nights
 hast  thou,  been  here  ? '  say,  '  Three.'  When  he  asks  thee,
-'  What  didst  thou  eat  the  first  night  ? '  say,  '  Thy  off-
-spring.' '  What  didst  thou  eat  the  second  night } '  say,
+'  What  didst  thou  eat  the  first  night  ? '  say,  '  Thy  offspring.' '  What  didst  thou  eat  the  second  night } '  say,
 'Thy  cattle.'  'What  didst  thou  eat  the  third  night?'
 say,  'Thy  good  works.'
 
@@ -913,8 +851,7 @@ used  in  the  same  sense  as  parvan,  a  joint,  a  shoot,  a
 branch,  i.  e.  a  division.
 
 Various  attempts  have  been  made  to  distinguish  the
-more  modern  from  the  more  ancient  portions  of  our  Upani-
-shad^. No  doubt  there  are  peculiarities  of  metre,  gram-
+more  modern  from  the  more  ancient  portions  of  our  Upanishad^. No  doubt  there  are  peculiarities  of  metre,  gram-
 mar, language,  and  thought  which  indicate  the  more
 primitive  or  the  more  modern  character  of  certain  verses.
 There  are  repetitions  which  offend  us,  and  there  are
@@ -953,8 +890,7 @@ Rig-veda  X,  184,  i.  Deva,  in  the  sense  of  God  (Ka//;.  Up.
 II,  12},  is  equally  strange,  but  occurs  in  other  Upanishads
 also  (Maitr.  Up.  VI,  23  ;  ^veta^v.  Up.  I,  3).  Much  might
 be  said  about  setu,  bridge  (Ka//^.  Up.  Ill,  2  ;  Mwid.  Up.
-II.  2,  5),  adarja,  mirror  (Ka///.  Up.  VI,  5),  as  being  character-
-istic of  a  later  age.  But  setu  is  not  a  bridge,  in  our  sense  of
+II.  2,  5),  adarja,  mirror  (Ka///.  Up.  VI,  5),  as  being  characteristic of  a  later  age.  But  setu  is  not  a  bridge,  in  our  sense  of
 the  word,  but  rather  a  wall,  a  bank,  a  barrier,  and  occurs
 frequently  in  other  Upanishads  (Maitr.  Up.  VII,  7  ;  ^//and.
 Up.  VIII,  4 ;  BrzTi.  Up.  IV,  4,  22,  &c.),  while  adarjas,  or
@@ -968,8 +904,7 @@ hardly  scholarlike.
 
 With  regard  to  faulty  or  irregular  readings,  we  can  never
 know  whether  they  are  due  to  the  original  composers,  the
-compilers,  the  repeaters,  or  lastly  the  writers  of  the  Upani-
-shads. It  is  easy  to  say  that  adrej-ya  {Uxxfid.  Up.  I,  i,  6)
+compilers,  the  repeaters,  or  lastly  the  writers  of  the  Upanishads. It  is  easy  to  say  that  adrej-ya  {Uxxfid.  Up.  I,  i,  6)
 ought  to  be  admya  ;  but  who  would  venture  to  correct  that
 form.?  Whenever  that  verse  is  quoted,  it  is  quoted  with
 adrejya,  not  admya.  The  commentators  themselves  tell
@@ -989,8 +924,7 @@ INTRODUCTION.  XXV
 
 
 or  copyists  or  printers,  we  have  a  right  to  remove  those
-later  alterations,  whether  they  be  improvements  or  corrup-
-tions. But  where,  as  in  our  case,  we  can  never  hope  to  gain
+later  alterations,  whether  they  be  improvements  or  corruptions. But  where,  as  in  our  case,  we  can  never  hope  to  gain
 access  to  original  documents,  and  where  we  can  only  hope,
 by  pointing  out  what  is  clearly  more  modern  than  the  rest
 or,  it  may  be,  faulty,  to  gain  an  approximate  conception
@@ -1011,8 +945,7 @@ translated  by  '  the  road  which  leads  to  wealth.'  As  it  is
 said  that  Na/^iketas  did  not  choose  that  srmka,  some  reader
 must  have  supposed  that  a  srmka  was  offered  him  by  Death.
 Srmka,  however,  meant  commonly  a  string  or  necklace,  and
-hence  arose  the  idea  that  Death  must  have  offered  a  neck-
-lace as  an  additional  gift  to  Na/^iketas.  Besides  this,  there
+hence  arose  the  idea  that  Death  must  have  offered  a  necklace as  an  additional  gift  to  Na/^iketas.  Besides  this,  there
 was  another  honour  done  to  Na/^iketas  by  Mr/tyu,  namely,
 his  allowing  the  sacrifice  which  he  had  taught  him,  to  be
 called  by  his  name.  This  also,  it  was  supposed,  ought  to  have
@@ -1040,8 +973,7 @@ THE  MUiVi^AKA-UPANISHAD.
 This  is  an  Upanishad  of  the  Atharva-veda.  It  is  a
 Mantra-upanishad,  i.  e.  it  has  the  form  of  a  Mantra.  But,
 as  the  commentators  observe,  though  it  is  written  in
-verse,  it  is  not,  Hke  other  Mantras,  to  be  used  for  sacri-
-ficial purposes.  Its  only  object  is  to  teach  the  highest
+verse,  it  is  not,  Hke  other  Mantras,  to  be  used  for  sacrificial purposes.  Its  only  object  is  to  teach  the  highest
 knowledge,  the  knowledge  of  Brahman,  which  cannot
 be  obtained  either  by  sacrifices  or  by  worship  (upasana),
 but  by  such  teaching  only  as  is  imparted  in  the
@@ -1052,19 +984,16 @@ performance  of  sacrificial  and  other  good  works,  if  one
 wishes  to  obtain  the  highest  knowledge  of  Brahman.  The
 Sannyasin  alone,  who  has  given  up  everything,  is  qualified
 to  know  and  to  become  Brahman.  And  though  it  misht
-seem  from  Vedic  legends  that  Grzhasthas  also  who  con-
-tinued to  live  with  their  families,  performing  all  the  duties
+seem  from  Vedic  legends  that  Grzhasthas  also  who  continued to  live  with  their  families,  performing  all  the  duties
 required  of  them  by  law,  had  been  in  possession  of  the  highest
-knowledge,  this,  we  are  told,  is  a  mistake.  Works  and  know-
-ledge can  be  as  little  together  as  darkness  and  light.
+knowledge,  this,  we  are  told,  is  a  mistake.  Works  and  knowledge can  be  as  little  together  as  darkness  and  light.
 
 This  Upanishad  too  has  been  often  translated  since  it
 first  appeared  in  the  Persian  translation  of  Dara  Shukoh.
 My  own  copy  of  the  text  and  .Sankara's  commentary  from
 the  MS.  in  the  Chambers  Collection  was  made  in  October
 1844.  Both  are  now  best  accessible  in  the  Bibliotheca
-Indica,  where  Dr.  Roer  has  published  the  text,  the  corn-
-commentary  by  vSahkara,  a  gloss  by  Ananda^;7ana,  and  an
+Indica,  where  Dr.  Roer  has  published  the  text,  the  corncommentary  by  vSahkara,  a  gloss  by  Ananda^;7ana,  and  an
 English  translation  with  notes.
 
 The  title  of  the  Upanishad,  Mwidaka,  has  not  yet  been
@@ -1082,14 +1011,12 @@ INTRODUCTION.  XXvil"
 meaning  an  instrument  for  removing  illusion  and  error.
 The  title  is  all  the  more  strange  because  Mu;/^aka,  in  its
 commonest  acceptation,  is  used  as  a  term  of  reproach  for
-Buddhist  mendicants,  who  are  called  '  Shavelings,'  in  oppo-
-sition to  the  Brahmans,  who  dress  their  hair  carefully,  and
+Buddhist  mendicants,  who  are  called  '  Shavelings,'  in  opposition to  the  Brahmans,  who  dress  their  hair  carefully,  and
 often  display  by  its  peculiar  arrangement  either  their  family
 or  their  rank.  Many  doctrines  of  the  Upanishads  are,  no
 doubt,  pure  Buddhism,  or  rather  Buddhism  is  on  many  points
 the  consistent  carrying  out  of  the  principles  laid  down  in
-the  Upanishads.  Yet,  for  that  very  reason,  it  seems  im-
-possible that  this  should  be  the  origin  of  the  name,  unless
+the  Upanishads.  Yet,  for  that  very  reason,  it  seems  impossible that  this  should  be  the  origin  of  the  name,  unless
 we  suppose  that  it  was  the  work  of  a  man  who  was,  in  one
 sense,  a  Mundaka,  and  yet  faithful  to  the  Brahmanic  law.
 
@@ -1101,8 +1028,7 @@ THE   TAITTIRIYAKA-UPANISHAD.
 The  Taittiriyaka-upanishad  seems  to  have  had  its  original
 place  in  the  Taittiriya-Ara;<!yaka.  This  Arauyaka.  consists,
 as  Rajendralal  Mitra  has  shown  in  the  Introduction  to  his
-edition  of  the  work  in  the  Bibliotheca  Indica,  of  three  por-
-tions. Out  of  its  ten  Prapa///akas,  the  first  six  form  the
+edition  of  the  work  in  the  Bibliotheca  Indica,  of  three  portions. Out  of  its  ten  Prapa///akas,  the  first  six  form  the
 Ara/zyaka  proper,  or  the  Karma-ka«</a,  as  Sa.ya.na.  writes.
 Then  follow  Prapa///akas  VII,  VIII,  and  IX,  forming  the
 Taittiriyaka-upanishad;  and  lastly,  the  tenth  Prapa//^aka,
@@ -1110,13 +1036,11 @@ the  Ya^y7iki  or  Mahanaraya^^a-upanishad,  which  is  called
 a  Khila,  and  was  therefore  considered  by  the  Brahmans
 themselves  as  a  later  and  supplementary  work.
 
-vSaiikara^  in  his  commentary  on  the  Taittiriyaka-upani-
-shad, divides  his  work  into  three  Adhyayas,  and  calls  the
+vSaiikara^  in  his  commentary  on  the  Taittiriyaka-upanishad, divides  his  work  into  three  Adhyayas,  and  calls  the
 first  vSiksha-valli,  the  second  the  Brahmananda-valli,  while
 he  gives  no  special  name  to  the  Upanishad  explained  in  the
 third  Adhyaya.  This,  however,  may  be  due  to  a  mere
-accident,  for  whenever  the  division  of  the  Taittiriyaka-upani-
-shad into  Vallis  is  mentioned,  we  always  have  three  ^,  the
+accident,  for  whenever  the  division  of  the  Taittiriyaka-upanishad into  Vallis  is  mentioned,  we  always  have  three  ^,  the
 
 *  6'afikara  (ed.  Roer,  p.  141)  himself  speaks  of  two  Vallis,  teaching  the
 paramalmag-Hana  (the  5iksha-valli  has  nothing  to  do  with  this),  and  Anqiietil
@@ -1135,8 +1059,7 @@ Sawhiti-upanishad.
 
 Sayawa^  in  his  commentary  on  the  Taittiriya-ara;/yaka,
 explains  the  seventh  chapter,  the  vSikshadhyaya  (twelve
-anuvakas),  as  Sawhiti-upanishad.  His  commentary,  how-
-ever, is  called  5iksha-bhashya.  The  same  Saya;/a  treats  the
+anuvakas),  as  Sawhiti-upanishad.  His  commentary,  however, is  called  5iksha-bhashya.  The  same  Saya;/a  treats  the
 eighth  and  ninth  Prapa///akas  as  the  Varuwy-upanishad'*.
 
 The  Ananda-valli  and  Bhrzgu-valli  are  quoted  among  the
@@ -1145,8 +1068,7 @@ A
 
 Upanishads  of  the  Atharva«a^.
 
-At  the  end  of  each  Valli  there  is  an  index  of  the  Anu-
-vakas which  it  contains.  That  at  the  end  of  the  first  Valli
+At  the  end  of  each  Valli  there  is  an  index  of  the  Anuvakas which  it  contains.  That  at  the  end  of  the  first  Valli
 is  intelligible.  It  gives  the  Pratikas,  i.  e  the  initial  words,
 of  each  Anuvaka,  and  states  their  number  as  twelve.  At  the
 end  of  the  first  Anuvaka,  we  have  the  final  words  '  satyam
@@ -1156,12 +1078,10 @@ the  final  words,  we  have  the  initial,  i.  e.  J^iksham,  and  then
 pa>7^a,  i.  e.  five  sections  in  the  Anuvaka.  At  the  end  of  the
 third  Anuvaka,  we  have  the  final  words,  but  no  number  of
 sections.  At  the  end  of  the  fourth  Anuvaka,  we  have  the
-final  words  of  the  three  sections,  followed  by  one  para-
-graph ;  at  the  end  of  the  fifth  Anuvaka,  three  final  words,
+final  words  of  the  three  sections,  followed  by  one  paragraph ;  at  the  end  of  the  fifth  Anuvaka,  three  final  words,
 and  two  paragraphs,  though  the  first  paragraph  belongs
 clearly  to  the  third  section.  In  the  sixth  Anuvaka,  we
-have  the  final  words  of  the  two  Anuvakas,  and  one  para-
-graph.    In  the  seventh  Anuvaka,  there  is  the  final  word
+have  the  final  words  of  the  two  Anuvakas,  and  one  paragraph.    In  the  seventh  Anuvaka,  there  is  the  final  word
 
 
 '  The  third  Valli  ends  with  Bhr/gur  ity  upanishat.
@@ -1173,8 +1093,7 @@ graph.    In  the  seventh  Anuvaka,  there  is  the  final  word
 *  The  Anukrama'ii  of  the  Atreyi  school  (see  Weber,  Indische  Studien,  II,
 p.  ■208)  of  the  Taittiriyaka  gives  likewise  the  name  of  YSiTum  to  the  eighth  and
 ninth  Prapa/Aaka,  while  it  calls  the  seventh  Prapa/Aaka  the  Sawzhiti,  and  the
-tenth  Prapa^Aaka  the  Y%;7iki-upanishad.  That  Anukiama«}  presupposes,  how-
-ever, a  different  text,  as  may  be  seen  both  from  the  number  of  Anuvakas.  and
+tenth  Prapa^Aaka  the  Y%;7iki-upanishad.  That  Anukiama«}  presupposes,  however, a  different  text,  as  may  be  seen  both  from  the  number  of  Anuvakas.  and
 from  the  position  assigned  to  the  Y%wiki  as  between  the  Sawhiti  and  Vaiu«i
 Upanishads.
 
@@ -1199,8 +1118,7 @@ afterwards,  it  is  clear  that  as  the  first  word  of  the  Valli  is
 
 In  the  second  Valli  the  index  to  each  Anuvaka  is  given
 at  the  end  of  the  Valli.
-ist  Anuvaka  :  pratika  :  brahmavid,  and  some  other  catch-
-words, idam,  ayam,  idam.    Number  of  sections,  2i.
+ist  Anuvaka  :  pratika  :  brahmavid,  and  some  other  catchwords, idam,  ayam,  idam.    Number  of  sections,  2i.
 2nd  Anuvaka  :   pratika:   annad,  and  other  catchwords;
 
 last  word,  -^wkkhd..     Sections,  26.
@@ -1217,8 +1135,7 @@ last  word,  pu/^/^/^a.     Sections,  22.
 
 Taitt.  Ar.  7).     Sections,  28.
 7th  Anuvaka:  pratika:  asat.     Sections,  16.
-8th  Anuvaka:    pratika:    bhishasmat,   and   other    catch-
-words; last  word,  upasahkramati.     Sections,  51.
+8th  Anuvaka:    pratika:    bhishasmat,   and   other    catchwords; last  word,  upasahkramati.     Sections,  51.
 9th  Anuvaka  :    pratika:   yata/^ — kutaj-zl'ana  ;    then    tam
 (deest  in  Taitt.  Ar.).     Sections,  11.
 In  the  third  Valli  the  Anukramawi  stands  at  the  end.
@@ -1257,8 +1174,7 @@ Sections,  11.
 
 Sections,  11.
 10.  The  first  words,  na  kankana.     Sections  61.     The  last
-words  of  each  section  are  given  for  the  tenth  Anu-
-vaka.
+words  of  each  section  are  given  for  the  tenth  Anuvaka.
 
 IV.
 
@@ -1285,8 +1201,7 @@ of  six  adhyayas.
 
 As  .Sankara's  commentary  and  the  gloss  of  Anandatirtha,
 edited  by  Dr.  Roer  in  the  Bibliotheca  Indica,  follow  the
-Ka;?va-j-akha,  I  have  followed  the  same  text  in  my  trans-
-lation.
+Ka;?va-j-akha,  I  have  followed  the  same  text  in  my  translation.
 
 Besides  Dr.  Roer's  edition  of  the  text,  commentary,  and
 gloss  of  this  Upanishad,  there  is  Foley's  edition  of  the  text.
@@ -1305,12 +1220,10 @@ The  vSvetaj-vatara-upanishad  has  been  handed  down  as
 one  of  the  thirty-three  Upanishads  of  the  Taitti'riyas,  and
 though  this  has  been  doubted,  no  real  argument  has  ever
 been  brought  forward  to  invalidate  the  tradition  which
-represents  it  as  belonging  to  the  Taittiriya  or  Black  Ya^ur-
-veda.
+represents  it  as  belonging  to  the  Taittiriya  or  Black  Ya^urveda.
 
 It  is  sometimes  called  5vetajvatara«am  Mantropanishad
-(p.  274),  and  is  frequently  spoken  of  in  the  plural,  as  .Sveta-
-jvataropanishada/^.  At  the  end  of  the  last  Adhyaya  we  read
+(p.  274),  and  is  frequently  spoken  of  in  the  plural,  as  .Svetajvataropanishada/^.  At  the  end  of  the  last  Adhyaya  we  read
 that  5vetaj-vatara  told  it  to  the  best  among  the  hermits,
 and  that  it  should  be  kept  secret,  and  not  be  taught  to  any
 one  except  to  a  son  or  a  regular  pupil.  It  is  also  called
@@ -1321,14 +1234,12 @@ to  them  in  particular,  nothing  is  ever  mentioned  beyond
 this  Upanishad.
 
 5veta^vatara  means  a  white  mule,  and  as  mules  were
-known  and  prized  in  India  from  the  earliest  times,  vSveta-
-j-vatara,  as  the  name  of  a  person,  is  no  more  startling  than
+known  and  prized  in  India  from  the  earliest  times,  vSvetaj-vatara,  as  the  name  of  a  person,  is  no  more  startling  than
 6"veta^va,  white  horse,  an  epithet  of  Ar^una.  Now  as  no
 one  would  be  likely  to  conclude  from  the  name  of  one  of
 the  celebrated  Vedic  7?zshis,  Syavksva,  1.  e.  black  horse,
 that  negro  influences  might  be  discovered  in  his  hymns,  it
-is  hardly  necessary  to  say  that  all  speculations  as  to  Chris-
-tian influences,  or  the  teaching  of  white  Syro-Christian
+is  hardly  necessary  to  say  that  all  speculations  as  to  Christian influences,  or  the  teaching  of  white  Syro-Christian
 missionaries,  being  indicated  by  the  name  of  6'vetaj'vatara,
 are  groundless^.
 
@@ -1359,13 +1270,11 @@ a  more  modern  period  is  what,  in  the  present  state  of  our
 knowledge,  or,  to  be  honest,  of  our  ignorance  of  minute
 chronology  during  the  Vedic  period,  no  true  scholar  would
 venture  to  assert.  We  must  be  satisfied  to  know  that,  as
-a  class,  the  Upanishads  are  presupposed  by  the  Kalpa-
-sutras,  that  some  of  them,  called  Mantra-upanishads,  form
+a  class,  the  Upanishads  are  presupposed  by  the  Kalpasutras,  that  some  of  them,  called  Mantra-upanishads,  form
 part  of  the  more  modern  Sa;/^hitas,  and  that  there  are
 portions  even  in  the  Rig-veda-sa;//hita^  for  which  the
 name  of  Upanishad  is  claimed  by  the  Anukramawis.  We
-find  them  most  frequent,  however,  during  the  Brahmawa-
-period,  in  the  Brahmawas  themselves,  and,  more  especially,
+find  them  most  frequent,  however,  during  the  Brahmawaperiod,  in  the  Brahmawas  themselves,  and,  more  especially,
 in  those  portions  which  are  called  Arawyakas,  while  a  large
 number  of  them  is  referred  to  the  Atharva-veda.  That,
 in  imitation  of  older  Upanishads,  similar  treatises  were
@@ -1379,8 +1288,7 @@ can  prove  nothing.  The  Upanishads  belonged  to  Parishads
 or  settlements  spread  all  over  India.  There  is  a  stock  of
 ideas,  even  of  expressions,  common  to  most  of  them.  Yet,
 the  ideas  collected  in  the  Upanishads  cannot  all  have  grown
-up  in  one  and  the  same  place,  still  less  in  regular  succes-
-sion. They  must  have  had  an  independent  growth,  deter-
+up  in  one  and  the  same  place,  still  less  in  regular  succession. They  must  have  had  an  independent  growth,  deter-
 mined by  individual  and  local  influences,  and  opinions
 which  in  one  village  might  seem  far  advanced,  would  in
 another  be  looked   upon  as  behind  the  world.     We  may
@@ -1405,14 +1313,12 @@ true  in  the  end,  they  will  require  very  different  support
 from  what  they  have  hitherto  received,  before  they  can  be
 admitted  to  the  narrow  circle  of  scientific  facts.
 
-While  fully  admitting  therefore  that  the  wSveta^vatara-
-upanishad  has  its  peculiar  features  and  its  peculiar  difficul-
+While  fully  admitting  therefore  that  the  wSveta^vataraupanishad  has  its  peculiar  features  and  its  peculiar  difficul-
 ties, I  must  most  strongly  maintain  that  no  argument  that
 has  as  yet  been  brought  forward,  seems  to  me  to  prove,  in
 any  sense  of  the  word,  its  modern  character.
 
-It  has  been  said,  for  instance,  that  the  5vetaj-vatara-
-upanishad  is  a  sectarian  Upanishad,  because,  when  speak-
+It  has  been  said,  for  instance,  that  the  5vetaj-vataraupanishad  is  a  sectarian  Upanishad,  because,  when  speak-
 ing of  the  Highest  Self  or  the  Highest  Brahman,  it  applies
 such  names  to  him  as  Hara  (I,  lo),  Rudra  (H,  17;  HI,  2  ;  4  ;
 IV,  12;  21 ;  22),  5iva  (III,  14 ;  IV,  10),  Bhagavat  (III,  14),
@@ -1442,11 +1348,9 @@ Xxxiv  UPANISHADS,
 
 view,  the  Upanishads,  which  still  show  these  rudera  of
 the  ancient  temples,  would  have  to  be  considered  as  more
-primitive  even  than  those  in  which  the  idea  of  the  Brah-
-man or  the  Highest  Self  has  reached  its  utmost  purity.
+primitive  even  than  those  in  which  the  idea  of  the  Brahman or  the  Highest  Self  has  reached  its  utmost  purity.
 
-It  has  been  considered  a  very  strong  argument  in  sup-
-port of  the  modern  and  sectarian  character  of  the  ^veta-
+It  has  been  considered  a  very  strong  argument  in  support of  the  modern  and  sectarian  character  of  the  ^veta-
 watara-upanishad,  that  'it  inculcates  what  is  called  Bhakti\
 or  implicit  reliance  on  the  favour  of  the  deity  worshipped.'
 Now  it  is  quite  true  that  this  Upanishad  possesses  a  very
@@ -1454,8 +1358,7 @@ distinct  character  of  its  own,  by  the  stress  which  it  lays  on
 the  personal,  and  sometimes  almost  mythical  character  of
 the  Supreme  Spirit ;  but,  so  far  from  inculcating  bhakti,
 in  the  modern  sense  of  the  word^  it  never  mentions  that
-word,  except  in  the  very  last  verse,  a  verse  which,  if  neces-
-sary, certain  critics  would  soon  dispose  of  as  a  palpable
+word,  except  in  the  very  last  verse,  a  verse  which,  if  necessary, certain  critics  would  soon  dispose  of  as  a  palpable
 addition.  But  that  verse  says  no  more  than  this  :  '  If  these
 truths  (of  the  Upanishad)  have  been  told  to  a  high-minded
 man,  who  feels  the  highest  devotion  for  God,  and  for  his
@@ -1469,10 +1372,8 @@ Upanishad  of  the  Sahkhya  system  of  philosophy,  and  not
 of  the  Vedanta.  Now  I  am  quite  willing  to  admit  that,  in
 its  origin,  the  Vedanta  philosophy  is  nearer  to  the  Vedic
 literature  than  any  other  of  the  six  systems  of  philosophy,
-and  that  if  we  really  found  doctrines,  peculiar  to  the  San-
-khya,  and  opposed  to  the  Vedanta,  in  the  5vetaj-vatara-
-upanishad,  we  might  feel  inclined  to  assign  to  our  Upani-
-shad a  later  date.     But  where  is  the  proof  of  this  ?
+and  that  if  we  really  found  doctrines,  peculiar  to  the  Sankhya,  and  opposed  to  the  Vedanta,  in  the  5vetaj-vatara-
+upanishad,  we  might  feel  inclined  to  assign  to  our  Upanishad a  later  date.     But  where  is  the  proof  of  this  ?
 
 No  doubt  there  are  expressions  in  this  Upanishad  w^hich
 remind  us  of  technical  terms  used  at  a  later  time  in  the
@@ -1494,16 +1395,14 @@ the  first  time  made  it  quite  clear  that  the  teaching  of  our
 Upanishad  is,  in  the  main,  the  same  as  that  of  the  other
 Upanishads.  '  The  vSvetai-vatara-upanishad  teaches,'  as  he
 says,  'the  unity  of  souls  in  the  one  and  only  Self;  the
-unreality  of  the  world  as  a  series  of  figments  of  the  self-
-feigning  world-fiction  ;  and  as  the  first  of  the  fictitious
+unreality  of  the  world  as  a  series  of  figments  of  the  selffeigning  world-fiction  ;  and  as  the  first  of  the  fictitious
 emanations,  the  existence  of  the  Demiurgos  or  universal
 soul  present  in  every  individual  soul,  the  deity  that  projects
 the  world  out  of  himself,  that  the  migrating  souls  may  find
 the  recompense  of  their  works  in  former  lives.'
 
 I  do  not  quite  agree  with  this  view  of  the  li'vara,  whom
-Mr.  Gough  calls  the  Demiurgos,  but  he  seems  to  me  per-
-fectly right  when  he  says  that  the  iVetai-vatara-upanishad
+Mr.  Gough  calls  the  Demiurgos,  but  he  seems  to  me  perfectly right  when  he  says  that  the  iVetai-vatara-upanishad
 propounds  in  Saiikhya  terms  the  very  principles  that  the
 Saiikhya  philosophers  make  it  their  business  to  subvert.
 One  might  doubt  as  to  the  propriety  of  calling  certain
@@ -1515,16 +1414,14 @@ of  Kapila.  Sankhya  is  derived  from  sankhya,  and  that
 meant  counting,  number,  name,  corresponding  very  nearly
 to  the  Greek  \6yoi.  Sankhya,  as  derived  from  it,  meant
 originally  no  more  than  theoretic  philosophy,  as  opposed
-to  yoga,  which  meant  originally  practical  religious  exer-
-cises and  penances,  to  restrain  the  passions  and  the  senses
+to  yoga,  which  meant  originally  practical  religious  exercises and  penances,  to  restrain  the  passions  and  the  senses
 in  general.  All  other  interpretations  of  these  words,  when
 they  had  become  technical  names,  are  of  later  date.
 
 But  even  in  their  later  forms,  whatever  we  may  think  of
 the  coincidences  and  differences  between  the  Sankhya  and
 Vedanta  systems  of  philosophy,  there  is  one  point  on  which
-they  are  diametrically  opposed.  Whatever  else  the  Saii-
-khya may  be,  it  is  dualistic ;  whatever  else  the  Vedanta
+they  are  diametrically  opposed.  Whatever  else  the  Saiikhya may  be,  it  is  dualistic ;  whatever  else  the  Vedanta
 may  be,  it  is  monistic.  In  the  Sankhya,  nature,  or  whatever
 else  we  may  call  it,  is  independent  of  the  purusha ;  in  the
 Vedanta  it  is  not.  Now  the  5vetai-vatara-upanishad  states
@@ -1565,8 +1462,7 @@ being,  as  Maya,  we  see  in  such  verses  as :
 Sarvabhuteshu  sarvatman  ya  jaktir  aparabhava
 Gunksrsiya.  namas  tasyai  jai-vatayai  parej-vara^.
 
-But  the  important  point  is  this,  that  in  the  5vetaj-vatara-
-upanishad  this  change  has  not  taken  place.  Throughout
+But  the  important  point  is  this,  that  in  the  5vetaj-vataraupanishad  this  change  has  not  taken  place.  Throughout
 the  whole  of  it  we  have  one  Being  only,  as  the  cause  of
 everything,  never  two.  Whatever  Sankhya  philosophers
 of  a  later  date  may  have  imagined  that  they  could  discover
@@ -1588,16 +1484,13 @@ INTRODLXTION.  XXXVll
 support  of  a  dualistic  philosophy  such  as  the  Saiikhya,  as
 a  system,  decidedly  is.
 
-If  we  want  to  understand,  what  seems  at  first  sight  contra-
-dictory, the  existence  of  a  God,  a  Lord,  a  Creator,  a  Ruler,
+If  we  want  to  understand,  what  seems  at  first  sight  contradictory, the  existence  of  a  God,  a  Lord,  a  Creator,  a  Ruler,
 and  at  the  same  time  the  existence  of  the  super-personal
 Brahman,  we  must  remember  that  the  orthodox  view  of
 the  Vedanta^  is  not  what  we  should  call  Evolution,  but
-Illusion.  Evolution  of  the  Brahman,  or  Pariwama,  is  hete-
-rodox, illusion  or  Vivarta  is  orthodox  Vedanta.  Brahman
+Illusion.  Evolution  of  the  Brahman,  or  Pariwama,  is  heterodox, illusion  or  Vivarta  is  orthodox  Vedanta.  Brahman
 is  a  concept  involving  such  complete  perfection  that  with  it
-evolution,  or  a  tendency  towards  higher  perfection,  is  im-
-possible. If  therefore  there  is  change,  that  change  can
+evolution,  or  a  tendency  towards  higher  perfection,  is  impossible. If  therefore  there  is  change,  that  change  can
 only  be  illusionj  and  can  never  claim  the  same  reality  as
 Brahman.  To  put  it  metaphorically,  the  world,  according
 to  the  orthodox  Vedantin,  does  not  proceed  from  Brahman
@@ -1607,19 +1500,16 @@ whatever  objective  reality  there  is  in  it,  is  Brahman, 'das
 Ding  an  sich,"  as  Kant  might  call  it.
 
 Then  what  is  Ij-vara  or  Deva,  the  Lord  or  God  ?  The
-answers  given  to  this  question  are  not  very  explicit.  His-
-torically, no  doubt,  the  idea  of  the  Ij-vara,  the  personal
+answers  given  to  this  question  are  not  very  explicit.  Historically, no  doubt,  the  idea  of  the  Ij-vara,  the  personal
 God,  the  creator  and  ruler,  the  omniscient  and  omnipotent,
 existed  before  the  idea  of  the  absolute  Brahman,  and
 after  the  idea  of  the  Brahman  had  been  elaborated^  the
 difficulty  of  effecting  a  compromise  between  the  two  ideas,
 had  to  be  overcome,  tsvara.,  the  Lord,  is  Brahman,  for  what
 else  could  he  be  ?  But  he  is  Brahman  under  a  semblance,
-the  semblance,  namely,  of  a  personal  creating  and  govern-
-ing God.  He  is  not  created,  but  is  the  creator,  an  office
+the  semblance,  namely,  of  a  personal  creating  and  governing God.  He  is  not  created,  but  is  the  creator,  an  office
 too  low,  it  was  supposed,  for  Brahman.  The  power  which
-enabled  Ij-vara  to  create,  was  a  power  within  him,  not  inde-
-pendent of  him,  whether  we  call  it  Devatmai-akti,  Maya,
+enabled  Ij-vara  to  create,  was  a  power  within  him,  not  independent of  him,  whether  we  call  it  Devatmai-akti,  Maya,
 or  Prakr/ti.  That  power  is  really  inconceivable,  and  it
 has  assumed  such  different  forms  in  the  mind  of  different
 Vedantists,  that  in  the  end  Maya  herself  is  represented  as
@@ -1634,14 +1524,12 @@ XXXvili  UPANISHADS.
 In  our  Upanishad,  however,  tjvara  is  the  creator,  and
 though,  philosophically  speaking,  we  should  say  that  he  was
 conceived  as  phenomenal,  yet  we  must  never  forget  that
-the  phenomenal  is  the  form  of  the  real,  and  Ijvara  there-
-fore an  aspect  of  Brahman ^  'This  God,' says  Pramada
+the  phenomenal  is  the  form  of  the  real,  and  Ijvara  therefore an  aspect  of  Brahman ^  'This  God,' says  Pramada
 Dasa  Mitra^,  'is  the  spirit  conscious  of  the  universe.
 Whilst  an  extremely  limited  portion,  and  that  only  of  the
 material  universe,  enters  into  my  consciousness,  the  whole
 of  the  conscious  universe,  together,  of  course,  with  the
-material  one  that  hangs  upon  it,  enters  into  the  conscious-
-ness of  God.'  And  again,  'Whilst  we  (the  ^ivatmans)
+material  one  that  hangs  upon  it,  enters  into  the  consciousness of  God.'  And  again,  'Whilst  we  (the  ^ivatmans)
 are  subject  to  Miya,  Maya  is  subject  to  livara.  If  we
 truly  know  Ij-vara,  we  know  him  as  Brahman ;  if  we  truly
 know  ourselves,  we  know  ourselves  as  Brahman.  This
@@ -1656,8 +1544,7 @@ that  the  very  name  of  Kapila,  the  reputed  founder  of  the
 Saiikhya  philosophy,  occurs  in  it.  Now  it  is  quite  true
 that  if  we  read  the  second  verse  of  the  fifth  Adhyaya  by
 itself,  the  occurrence  of  the  word  Kapila  may  seem  startling.
-But  if  we  read  it  in  connection  with  what  precedes  and  fol-
-lows, we  shall  see  hardly  anything  unusual  in  it.     It  says  :
+But  if  we  read  it  in  connection  with  what  precedes  and  follows, we  shall  see  hardly  anything  unusual  in  it.     It  says  :
 
 'It  is  he  who,  being  one  only,  rules  over  every  germ
 (cause),  over  all  forms,  and  over  all  germs ;  it  is  he  who,
@@ -1683,8 +1570,7 @@ INTRODUCTION.  XXXIX
 the  personified  Brahman.  Thus  we  read  before,  III,  4,
 '  He  the  creator  and  supporter  of  the  gods,  Rudra,  the  great
 seer  (maharshi),  the  lord  of  all,  formerly  gave  birth  to
-Hirawyagarbha ;'  and  in  IV,  11,  we  have  the  very  expres-
-sion which  is  used  here,  namely,  'that  he  saw  Hirawya-
+Hirawyagarbha ;'  and  in  IV,  11,  we  have  the  very  expression which  is  used  here,  namely,  'that  he  saw  Hirawya-
 garbha  being  born.'  Unfortunately,  a  new  adjective  is
 applied  in  our  verse  to  Hira;/yagarbha,  namely,  kapila,
 and  this  has  called  forth  interpretations  totally  at  variance
@@ -1694,15 +1580,13 @@ of  Hira;/yagarbha,  no  one,  I  believe,  would  have  hesitated
 for  a  moment  to  recognise  the  fact  that  our  text  simply
 repeats  the  description  of  Hirawyagarbha  in  his  relation
 to  Brahman,  for  the  other  epithet  r/shim,  like  maharshim,
-is  too  often  applied  to  Brahman  himself  and  to  Hira//ya-
-garbha  to  require  any  explanation.
+is  too  often  applied  to  Brahman  himself  and  to  Hira//yagarbha  to  require  any  explanation.
 
 But  it  is  a  well  known  fact  that  the  Hindus,  even  as  early
 as  the  Brahma;/a-period,  were  fond  of  tracing  their  various
 branches  of  knowledge  back  to  Brahman  or  to  Brahman
 Svayambhu  and  then  through  Pra^apati,  who  even  in  the
-Rig-veda  (X,  121,  10)  replaces  Hira;/yagarbha,  and  some-
-times through  the  Devas,  such  as  Mr/tyu,  Vayu,  Indra,
+Rig-veda  (X,  121,  10)  replaces  Hira;/yagarbha,  and  sometimes through  the  Devas,  such  as  Mr/tyu,  Vayu,  Indra,
 Agni^,  &c.,to  the  various  ancestors  of  their  ancient  families.
 
 In  the  beginning  of  the  Muz/rt'akopanishad  we  are  told
@@ -1712,10 +1596,8 @@ Ahgiras  to  ^'aunaka.  Manu,  the  ancient  lawgiver,  is  called
 both  Hairawyagarbha  and  Svayambhuva,  as  descended  from
 Svayambhu  or  from  Hira;^yagarbha^.  Nothing  therefore
 was  more  natural  than  that  the  same  tendency  should  have
-led  some  one  to  assign  the  authorship  of  a  great  philoso-
-phical system  like  the  Saiikhya  to  Hira/^yagarbha,  if  not
-to  Brahman  Svayambhu.  And  if  the  name  of  Hira;^ya-
-garbha  had  been  used  already  for  the. ancestors  of  other
+led  some  one  to  assign  the  authorship  of  a  great  philosophical system  like  the  Saiikhya  to  Hira/^yagarbha,  if  not
+to  Brahman  Svayambhu.  And  if  the  name  of  Hira;^yagarbha  had  been  used  already  for  the. ancestors  of  other
 sages,  and  the  inspirers  of  other  systems,  what  could  be
 more  natural  than  that  another  name  of  the  same  Hirawya-
 
@@ -1752,8 +1634,7 @@ us  here.  I  see  no  evidence  for  it.  What  is  instructive  is
 this,  that  our  very  passage,  which  may  have  suggested  at
 first  the  name  of  Kapila,  as  distinct  from  Hira;/yagarbha
 Kapila,  was  later  on  appealed  to  to  prove  the  primordial
-existence  of  a  Kapila,  the  founder  of  the  Sankhya  philo-
-sophy. However^  it  requires  but  a  very  slight  acquaintance
+existence  of  a  Kapila,  the  founder  of  the  Sankhya  philosophy. However^  it  requires  but  a  very  slight  acquaintance
 with  Sanskrit  literature  and  very  little  reflection  in  order
 to  see  that  the  author  of  our  verse  could  never  have  dreamt
 of  elevating  a  certain  Kapila,  known  to  him  as  a  great
@@ -1764,8 +1645,7 @@ person,  was  never  changed  into  Hirawyagarbha  kapila.
 
 Let  us  see  now  what  the  commentators  say.  ^ahkara
 first  explains  kapilam  by  kanaka;;/  ^  kapilavar«am  ....
-Hira;^yagarbham.  Kapilo  'gra^a  iti  pura;mva>^anat.  Ka-
-pilo  Hira;^yagarbho  va  nirdii-yate.  But  he  afterwards  quotes
+Hira;^yagarbham.  Kapilo  'gra^a  iti  pura;mva>^anat.  Kapilo  Hira;^yagarbho  va  nirdii-yate.  But  he  afterwards  quotes
 some  verses  in  support  of  the  theory  that  Kapila  was  a
 
 
@@ -1792,11 +1672,9 @@ fully  aware  of  the  misuse  that  had  been  made  of  this
 passage,  even  in  certain  passages  of  the  Mahabharata
 (XII,  13254,  13703),  and  elsewhere,  declares  distinctly  that
 kapila  cannot  be  meant  for  the  teacher  of  the  Sankhya
-(na  tu  sahkhyapraweta  kapila//,  namamatrasamyena  tad-
-graha;/e  syad  atiprasahga//).  He  is  fully  aware  of  the  true
+(na  tu  sahkhyapraweta  kapila//,  namamatrasamyena  tadgraha;/e  syad  atiprasahga//).  He  is  fully  aware  of  the  true
 interpretation,  viz.  avyakrz'tasya  prathamakaryabhuta7;z
-kapilaw  vi>^itravar;/a;;/  ^/7anakriyaj-aktyatmakaw  Hirawya-
-garbham  ityartha//,  but  he  yields  to  another  temptation,
+kapilaw  vi>^itravar;/a;;/  ^/7anakriyaj-aktyatmakaw  Hirawyagarbham  ityartha//,  but  he  yields  to  another  temptation,
 and  seems  to  prefer  another  view  which  makes  Kapila
 Vasudevasyavatarabhuta;«  Sagaraputra/za/w  dagdharam,  an
 Avatara  of  Vasudeva,  the  burner  of  the  sons  of  Sagara.
@@ -1804,17 +1682,13 @@ What  vast  conclusions  may  be  drawn  from  no  facts,  may
 be  seen  in  Weber's  Indische  Studien,  vol.  i,  p.  430,  and  even
 in  his  History  of  Indian  Literature,  published  in  1878.
 
-Far  more  difficult  to  explain  than  these  supposed  allu-
-sions to  the  authors  and  to  the  teaching  of  the  Sankhya
-philosophy  are  the  frequent  references  in  the  vSvetaj-vatara-
-upanishad  to  definite  numbers,  which  are  supposed  to  point
+Far  more  difficult  to  explain  than  these  supposed  allusions to  the  authors  and  to  the  teaching  of  the  Sankhya
+philosophy  are  the  frequent  references  in  the  vSvetaj-vataraupanishad  to  definite  numbers,  which  are  supposed  to  point
 to  certain  classes  of  subjects  as  arranged  in  the  Sahkhya
 and  other  systems  of  philosophy.  The  Sahkhya  philosophy
 is  fond  of  counting  and  arranging,  and  its  very  name  is
-sometimes  supposed  to  have  been  chosen  because  it  num-
-bers (sankhya)  the  subjects  of  which  it  treats.  It  is  certainly
-true  that  if  we  meet,  as  we  do  in  the  5vetaivatara-upani-
-shad,  with  classes  of  things^,  numbered  as  one,  two,  three,
+sometimes  supposed  to  have  been  chosen  because  it  numbers (sankhya)  the  subjects  of  which  it  treats.  It  is  certainly
+true  that  if  we  meet,  as  we  do  in  the  5vetaivatara-upanishad,  with  classes  of  things^,  numbered  as  one,  two,  three,
 five,  eight,  sixteen,  twenty,  forty-eight,  fifty  and  more,  and
 if  some  of  these  numbers  agree  with  those  recognised  in
 the  later  Sahkhya  and  Yoga  systems,  we  feel  doubtful  as  to
@@ -1834,12 +1708,10 @@ early  as  the  hymns  of  the  Rig-veda  we  meet  with  these
 numbers  assigned  to  days  and  months  and  seasons,  rivers
 and  countries,  sacrifices  and  deities.  They  clearly  prove  the
 existence  of  a  considerable  amount  of  intellectual  labour
-which  had  become  fixed  and  traditional  before  the  com-
-position of  certain  hymns,  and  they  prove  the  same  in  the
+which  had  become  fixed  and  traditional  before  the  composition of  certain  hymns,  and  they  prove  the  same  in  the
 case  of  certain  Upanishads.  But  beyond  this,  for  the
 present,  I  should  not  like  to  go  ;  and  I  must  say  that
-the  attempts  of  most  of  the  Indian  commentators  at  ex-
-plaining such  numbers  by  a  reference  to  later  systems  of
+the  attempts  of  most  of  the  Indian  commentators  at  explaining such  numbers  by  a  reference  to  later  systems  of
 philosophy  or  cosmology,  are  generally  very  forced  and
 unsatisfactory.
 
@@ -1853,10 +1725,8 @@ mentioned  in  the  notes  to  my  translation.
 The  text  of  this  Upanishad  was  printed  by  Dr.  Roer  in
 the  Bibliotheca  Indica,  with  5ahkara's  commentary.  I  have
 consulted  besides,  the  commentary  of  Vi^>Tanatman,  the
-pupil  of  Paramaha;«sa-parivra^aka/^arya-jrima^-6"«anotta-
-maHrya,  MS.  I.  O.  1133;  and  a  third  commentary,  by
-6"ahkarananda,  the  pupil  of  ParamahaMsa-parivra^aka>^ar-
-yanandatman,  MS.  I.  O.  1878.  These  were  kindly  lent  me
+pupil  of  Paramaha;«sa-parivra^aka/^arya-jrima^-6"«anottamaHrya,  MS.  I.  O.  1133;  and  a  third  commentary,  by
+6"ahkarananda,  the  pupil  of  ParamahaMsa-parivra^aka>^aryanandatman,  MS.  I.  O.  1878.  These  were  kindly  lent  me
 by  Dr.  Rost,  the  learned  and  liberal  librarian  of  the  India
 Office.
 
@@ -1867,8 +1737,7 @@ PRASiV-A-UPANISHAD.
 This  Upanishad  is  called  the  Praj-^a  or  Sha.f-pra.sna.-
 upanishad,  and  at  the  end  of  a  chapter  we  find  occasionally
 iti  pra^y7aprativaZ-anam,  i.e.  thus  ends  the  answer  to  the
-question.  It  is  ascribed  to  the  Atharva-veda,  and  occa-
-sionally to  the  Pippalada-j-akha,  one  of  the  most  important
+question.  It  is  ascribed  to  the  Atharva-veda,  and  occasionally to  the  Pippalada-j-akha,  one  of  the  most  important
 .fakhas  of  that  Veda.  Pippalada  is  mentioned  in  the
 Upanishad  as  the  name  of  the  principal  teacher.
 
@@ -1878,13 +1747,11 @@ Upanishad  as  the  name  of  the  principal  teacher.
 INTRODUCTION.  xliii
 
 
-Mantroktasyarthasya  vistaranuvadidam  Brahmawam  ara-
-bhyate,  which  would  mean  '  this  Brahmawa  is  commenced
+Mantroktasyarthasya  vistaranuvadidam  Brahmawam  arabhyate,  which  would  mean  '  this  Brahmawa  is  commenced
 as  more  fully  repeating  what  has  been  declared  in  the
 Mantra.'  This,  however,  does  not,  I  believe,  refer  to  a
 Mantra  or  hymn  in  the  Atharva-veda-sa;«hita,  but  to  the
-Muw^aka-upanishad,  which,  as  written  in  verse,  is  some-
-times spoken  of  as  a  Mantra,  or  Mantropanishad.  This
+Muw^aka-upanishad,  which,  as  written  in  verse,  is  sometimes spoken  of  as  a  Mantra,  or  Mantropanishad.  This
 is  also  the  opinion  of  Anandagiri,  who  says,  '  one  might
 think  that  it  was  mere  repetition  (punarukti),  if  the
 essence  of  the  Self,  which  has  been  explained  by  the
@@ -1908,15 +1775,12 @@ In  the  case  of  this  Upanishad  we  must  first  of  all  attempt
 to  settle  its  right  title.  Professor  Cowell,  in  his  edition  and
 translation  of  it,  calls  it  Maitri  or  Maitraya;/iya-upanishad,
 and  states  that  it  belongs  to  the  Maitrayawiya-i-akha  of  the
-Black  Yagur-veda,  and  that  it  formed  the  concluding  por-
-tion of  a  lost  Brahma«a  of  that  5akha,  being  preceded  by
+Black  Yagur-veda,  and  that  it  formed  the  concluding  portion of  a  lost  Brahma«a  of  that  5akha,  being  preceded  by
 the  sacrificial  (karma)  portion,  which  consisted  of  four  books.
 
 In  his  MSS.  the  title  varied  between  Maitry-upanishad
-and  Maitri-j-akha-upanishad.  A  Poona  MS.  calls  it  Maitra-
-ya«iya-j-akha-upanishad,  and  a  MS.  copied  for  Baron  von
-Eckstein,  Maitraya/nyopanishad.  I  myself  in  the  Alpha-
-betical List  of  the  Upanishads,  published  in  the  Journal  of
+and  Maitri-j-akha-upanishad.  A  Poona  MS.  calls  it  Maitraya«iya-j-akha-upanishad,  and  a  MS.  copied  for  Baron  von
+Eckstein,  Maitraya/nyopanishad.  I  myself  in  the  Alphabetical List  of  the  Upanishads,  published  in  the  Journal  of
 
 '  Mantravyatiriktabhage  tu  brahma^msabdaA,  Rig-veda,  Saya«a's  Introduqtion,
 vol.  i,  p.  23.
@@ -1926,17 +1790,14 @@ xliv  UPANISHADS.
 
 
 the  German  Oriental  Society,  called  it,  No.  104,  Maitraya;za
-or  Maitri-upanishad,  i.e.  either  the  Upanishad  of  the  Maitra-
-ysLHSLS,  or  the  Upanishad  of  Maitri,  the  principal  teacher.
+or  Maitri-upanishad,  i.e.  either  the  Upanishad  of  the  MaitraysLHSLS,  or  the  Upanishad  of  Maitri,  the  principal  teacher.
 
 In  a  MS.  which  I  received  from  Dr.  Burnell,  the  title  of
 our  Upanishad  is  Maitrayawi-brahma/^a-upanishad,  varying
-with  Maitraya;/i-brahma;i'a-upanishad,  and  vSriya^uj-sakha-
-yam  Maitraya;nya-brahma;za-upanishad.
+with  Maitraya;/i-brahma;i'a-upanishad,  and  vSriya^uj-sakhayam  Maitraya;nya-brahma;za-upanishad.
 
 The  next  question  is  by  what  name  this  Upanishad  is
-quoted  by  native  authorities.  Vidyarawya,  in  his  Sarvo-
-panishad-arthanubhutiprakai'a^  v.  i,  speaks  of  the  Maitra-
+quoted  by  native  authorities.  Vidyarawya,  in  his  Sarvopanishad-arthanubhutiprakai'a^  v.  i,  speaks  of  the  Maitra-
 ya;nyanamni  ya^ushi  j-akha,  and  he  mentions  Maitra  (not
 Maitri)  as  the  author  of  that  5akha  (vv.  5^,  150).
 
@@ -1949,15 +1810,11 @@ Maitraya;n  and  Maitreyi  as  the  fourth  and  fifth.
 Looking  at  all  this  evidence,  I  think  we  should  come  to
 the  conclusion  that  our  Upanishad  derives  its  name  from
 the  6'akha  of  the  Maitrayawas,  and  may  therefore  be  called
-Maitraya;/a-upanishad  or  Maitrayam  Upanishad.  Maitra-
-ya;za-brahma«a-upanishad  seems  likewise  correct,  and
-Maitraya«i-brahma«a- upanishad,  like  Kaushitaki-brah-
-ma«a-upanishad  and  Va^asaneyi-sawhitopanishad,  might
-be  defended,  if  Maitrayanin  were  known  as  a  further  deri-
-vative of  Maitrayawa.  If  the  name  is  formed  from  the
+Maitraya;/a-upanishad  or  Maitrayam  Upanishad.  Maitraya;za-brahma«a-upanishad  seems  likewise  correct,  and
+Maitraya«i-brahma«a- upanishad,  like  Kaushitaki-brahma«a-upanishad  and  Va^asaneyi-sawhitopanishad,  might
+be  defended,  if  Maitrayanin  were  known  as  a  further  derivative of  Maitrayawa.  If  the  name  is  formed  from  the
 teacher  Maitri  or  Maitra,  the  title  of  Maitri-upanishad
-would  also  be  correct,  but  I  doubt  whether  Maitri-upani-
-shad would  admit  of  any  grammatical  justification  ^
+would  also  be  correct,  but  I  doubt  whether  Maitri-upanishad would  admit  of  any  grammatical  justification  ^
 
 Besides  this  Maitrayawa-brahma/^-upanishad,  however,
 I  possess  a  MS.  of  what  is  called  the  Maitreyopanishad,
@@ -1971,8 +1828,7 @@ Prapa///aka  of  the  Maitraya;/a-brahma;/a-upanishad.    I  give
 *  Calcutta,  1 791  (1869),  p.  4;  also  as  quoted  in  the  Mahavakya-ratnavali,  p.  2".
 ^  Dr.  Burnell,   in  his  Tanjore   Catalogue,  mentions,  p.  35",  a  Maitrayani-
 
-brahma^opanishad,  which  can  hardly  be  a  right  title,  and  p.  ^6^  a  Maitra-
-ya«iya  and  Mailreyibrahma«a.
+brahma^opanishad,  which  can  hardly  be  a  right  title,  and  p.  ^6^  a  Maitraya«iya  and  Mailreyibrahma«a.
 
 
 INTRODUCTION.  xlv
@@ -1982,40 +1838,31 @@ the  text  of  it,  as  far  as  it  can  be  restored  from  the  one  MS.
 in  my  possession :
 
 Had//  Om.  Br/hadratho  vai  nama  ra^a  vaira^ye  putraw
-nidhapayitvedam  ai^ajvatam  manyamana//  sanram  vaira-
-gyam  upeto  'rawyaw  nir^agama.  Sa  tatra  paramam  tapa^
+nidhapayitvedam  ai^ajvatam  manyamana//  sanram  vairagyam  upeto  'rawyaw  nir^agama.  Sa  tatra  paramam  tapa^
 adityam  udikshamawa  urdhvas  tish///aty.  Ante  sahasrasya
-muner  antikam  a^agama^.  Atha  Brz'hadratho  brahmavit-
-pravaram  munindra?//  sampu^ya  stutva  bahuj-a//  prawamam
+muner  antikam  a^agama^.  Atha  Brz'hadratho  brahmavitpravaram  munindra?//  sampu^ya  stutva  bahuj-a//  prawamam
 akarot.  So  'bravid  agnir  ivadhumakas  te^asa  nirdahann
 ivatmavid  Bhagava/1  ^//akayanya,  uttish///ottish///a  vara;/?
-vrzV/ishveti  ra^anam  abravit  ^.  Sa  tasmai  punar  namaskrz-
-tyovaka.,  Bhagavan  na(ha)matmavit  tvam  tattvavi/^  k/m-
+vrzV/ishveti  ra^anam  abravit  ^.  Sa  tasmai  punar  namaskrztyovaka.,  Bhagavan  na(ha)matmavit  tvam  tattvavi/^  k/m-
 ^rumo  vayam ;  sa  tvaw  no  bruhity  etad  vratam  purastad
 aj-akyam  ma  ^^rikkhd,  pra^nam  Aikshvakanyan  kaman
 vr/;nshveti  vSakayanya//.  6"arirasya  jarire  (sic)  /^arawav
 abhimrwyamano  ra^emawz  gatha;;z  ^agada.    i
 
-Bhagavann,  asthi/^armasnayuma^amawsai-uklaj-owita-
-j-reshmaiTudashikavi/^mutrapittakaphasawghate  durgandhe
+Bhagavann,  asthi/^armasnayuma^amawsai-uklaj-owitaj-reshmaiTudashikavi/^mutrapittakaphasawghate  durgandhe
 ni/^sare  'smi«  /^//arire  Yxni  kamabhogai/z.    i
 
-Kamakrodhalobhamohabhayavishadershesh/aviyoganish-
-i'asamprayogakshutpipasa^'aramrztyurogai'okadyair  abhiha-
+Kamakrodhalobhamohabhayavishadershesh/aviyoganishi'asamprayogakshutpipasa^'aramrztyurogai'okadyair  abhiha-
 te  'smi/1  /^//arire  Vwi  kamabhogai//.    3
 
-Sarva;«  ^edaw  kshayish/m  paj-yamo  yatheme  da;;zj'ama-
-jakadayas  trzV/avan  *  naj'yata  yodbhutapradhva;«sina/z.   4
+Sarva;«  ^edaw  kshayish/m  paj-yamo  yatheme  da;;zj'amajakadayas  trzV/avan  *  naj'yata  yodbhutapradhva;«sina/z.   4
 
-Atha  kim  etair  va  pare  'nye  dhamartharaj  (sic)  /^akra-
-vartina//  Sudyumnabhuridyumnakuvalayajvayauvana^va-
+Atha  kim  etair  va  pare  'nye  dhamartharaj  (sic)  /^akravartina//  Sudyumnabhuridyumnakuvalayajvayauvana^va-
 vaddhr/yaj-vaj-vapati//  ja^abindur  harij'/^andro  'wbarisho
-nanukastvayatir  yayatir  a«ara;/yokshasenadayo  maruta-
-bharataprabhrz'tayo  ra^ano  mishato  bandhuvargasya  ma-
+nanukastvayatir  yayatir  a«ara;/yokshasenadayo  marutabharataprabhrz'tayo  ra^ano  mishato  bandhuvargasya  ma-
 hati;;z  j-riya;«  tyaktvasmal  lokad  amuw  lokam  prayanti.  5.
 
-Atha  kim  etair  va  pare  'nye  gandharvasurayaksharaksha-
-sabhutagawapi^a/^oragrahadina;;/  nirodhanam  paj-yama//.  6
+Atha  kim  etair  va  pare  'nye  gandharvasurayaksharakshasabhutagawapi^a/^oragrahadina;;/  nirodhanam  paj-yama//.  6
 Atha    kim    etair    vanyana/;/    j-osha«aw    mahar«avana?;«
 
 ^  One  expects  asthaya.
@@ -2050,13 +1897,11 @@ Sa  s'wdih  so  'nte  vaijvanaro  bhutva  sa  dagdhva  sarva/zi
 bhutani  prz thivyapsu  praliyate  ^,  apas  te^asi  liyante  ^,  te^o
 vayau  praliyate'^,  vayur  aka^-e  viliyate^,  akai-am  indriyeshv,
 indriya/n  tanmatreshu,  tanmatrawi  bhutadau  viliyante^,
-bhutadi  mahati  viliyate^'',  mahan  avyakte  viliyate^^,  avyak-
-tam  akshare  viliyate^^,  aksharam  tamasi  viliyate  ^""'j  tama
+bhutadi  mahati  viliyate^'',  mahan  avyakte  viliyate^^,  avyaktam  akshare  viliyate^^,  aksharam  tamasi  viliyate  ^""'j  tama
 ekibhavati  parasmin,  parastan  na^*  san  nasan  na  sad  ityetan
 niivawam  anui-asanam  iti  vedanui-asanam.
 
-We  should  distinguish  therefore  between  the  large  Maitra-
-ya«a-brahma;/a-upanishad  and  the  smaller  Maitreyopani-
+We  should  distinguish  therefore  between  the  large  Maitraya«a-brahma;/a-upanishad  and  the  smaller  Maitreyopani-
 shad.  The  title  of  Maitreyi-brahmawa  has,  of  course,  a
 totally  different  origin,  and  simply  means  the  Brahmawa
 which  tells  the  story  of  Maitreyi^^.
@@ -2066,8 +1911,7 @@ translation  of  the  Maitrayawa-brahmawa-upanishad,  has
 discussed  its  peculiar  character,  I  have  little  to  add  on  that
 subject.  I  agree  with  him  in  thinking  that  this  Upanishad
 has  grown,  and  contains  several  accretions.  The  Sanskrit
-commentator  himself  declares  the  sixth  and  seventh  chap-
-ters to  be  Khilas  or  supplementary.  Possibly  the  Mai-
+commentator  himself  declares  the  sixth  and  seventh  chapters to  be  Khilas  or  supplementary.  Possibly  the  Mai-
 treya-upanishad,  as  printed  above,  contains  the  earliest
 framework.  Then  we  have  traces  of  various  recensions.
 Professor   Cowell  (Preface,  p.  vi)  mentions  a  MS.,  copied
@@ -2112,15 +1956,13 @@ to  ^akayanya,  and  by  vSakayanya  to  King  B;^/hadratha
 Aikshvaka,  also  called  Marut  (II,  i ;  VI,  30).  This  dialogue
 might  seem  to  come  to  an  end  in  VI,  29,  and  likewise  the
 dialogue  between  5akayanya  and  Br/hadratha ;  but  it  is
-carried  on  again  to  the  end  of  VI,  30,  and  followed  after-
-wards by  a  number  of  paragraphs  which  may  probably  be
+carried  on  again  to  the  end  of  VI,  30,  and  followed  afterwards by  a  number  of  paragraphs  which  may  probably  be
 considered  as  later  additions.
 
 But  though  admitting  all  this,  I  cannot  bring  myseff  to
 follow  Professor  Cowell  in  considering,  as  he  does,  even
 the  earlier  portion  of  the  Upanishad  as  dating  from  a  late
-period,  while  the  latter  portions  are  called  by  him  com-
-paratively modern,  on  account  of  frequent  Vaishwava  quo-
+period,  while  the  latter  portions  are  called  by  him  comparatively modern,  on  account  of  frequent  Vaishwava  quo-
 tations. What  imparts  to  this  Upanishad,  according  to  my
 opinion,  an  exceptionally  genuine  and  ancient  character,
 is   the   preservation  in  it  of  that  peculiar  Sandhi  which,
@@ -2143,18 +1985,14 @@ initial  a  is  sometimes  elided,  sometimes  not.  Some  of  these
 rules,  it  must  be  remembered,  run  counter  to  Pa;nni,  and
 we  may  safely  conclude  therefore  that  texts  in  which  they
 are  observed,  date  from  the  time  before  Pa;nni.  In  some
-MSS.,  as,  for  instance,  in  my  own  MS.  of  the  Maitraya;/a-
-brahmawa-upanishad,  these  rules  are  not  observed,  but  this
+MSS.,  as,  for  instance,  in  my  own  MS.  of  the  Maitraya;/abrahmawa-upanishad,  these  rules  are  not  observed,  but  this
 makes  their  strict  observation  in  other  MSS.  all  the  more
 important.  Besides,  though  to  Dr.  von  Schroeder  belongs,
 no  doubt,  the  credit  of  having,  in  his  edition  of  the
-Maitrayawi  Sawzhita,  first  pointed  out  these  phonetic  pecu-
-liarities, they  were  known  as  such  to  the  commentators,
-who  expressly  point  out  these  irregular  Sandhis  as  dis-
-tinctive of  the  Maitrayawi  j-akha.  Thus  we  read  Maitr.  Up.
+Maitrayawi  Sawzhita,  first  pointed  out  these  phonetic  peculiarities, they  were  known  as  such  to  the  commentators,
+who  expressly  point  out  these  irregular  Sandhis  as  distinctive of  the  Maitrayawi  j-akha.  Thus  we  read  Maitr.  Up.
 II,  3  (p.  1 8),  that  tigmate^asa  urdhvaretaso,  instead  of
-tigmate^asa,  is  evawvidha  eta^>^//akhasanketapa//za.f  klAn-
-dasa/z  sarvatra,  i.e.  is  throughout  theVedic  reading  indica-
+tigmate^asa,  is  evawvidha  eta^>^//akhasanketapa//za.f  klAndasa/z  sarvatra,  i.e.  is  throughout  theVedic  reading  indica-
 tory of  that  particular  .Sakha,  namely  the  Maitrayawi.
 
 A  still  stranger  peculiarity  of  our  5akha  is  the  change  of
@@ -2235,8 +2073,7 @@ VI,   28,   ava/aiva   for  avata   iva.     (Comm.  Sandhi-
 
 vrz'ddhi  k/ia.nda.SQ.)
 
-V.  Final  au  before  initial  vowels  becomes  a.     For  in-
-stance :
+V.  Final  au  before  initial  vowels  becomes  a.     For  instance :
 
 II,  6,  yena  va  eta  anugrzTiita  iti.
 VI,  22,  asa  abhidhyata.
@@ -2271,10 +2108,8 @@ II,  6,  so  tmanam  abhidhyatva.
 VI,  0,^,  dvidharmondham  for  dvidharmandham.
 (Comm.  /^//andasa.)
 
-VI,  '^^,  te^asendham,  i.  e.  te^asa-iddhan.  (In  explain-
-ing other  irregular  compounds,  too,  as  in  I,  4,  the
-commentator  has  recourse  to  a  XV^andasa  or  pra-
-madika  licence.)
+VI,  '^^,  te^asendham,  i.  e.  te^asa-iddhan.  (In  explaining other  irregular  compounds,  too,  as  in  I,  4,  the
+commentator  has  recourse  to  a  XV^andasa  or  pramadika  licence.)
 
 VI,  1,  hira;zyavasthat  for  hira«yavasthat.  Here
 the  dropping  of  a  in  avasthat  is  explained  by
@@ -2283,23 +2118,20 @@ avapyor  upasargayo/z).     See  Vopadeva  III,  171.
 
 VIII.  Vij-lish/apatha :
 
-VII,  3,  brahmadhiyalambana.  (Comm.  vijlish/a-
-pathai'  khknddiSdih.)
+VII,  3,  brahmadhiyalambana.  (Comm.  vijlish/apathai'  khknddiSdih.)
 
 VI,   '^^,    apyay  aiikura   for  apy  aiikura.      (Comm.
 yakara/z  pramadapa///ita/^.)
 On  the  contrary  VI,  '^^,  vliyante  for  viliyante.
 
 If  on  the  grounds  which  we  have  hitherto  examined  there
-seems  good  reason  to  ascribe  the  Maitraya;m-brahma«a-
-upanishad  to  an  early  rather  than  to  a  late  period,  possibly
+seems  good  reason  to  ascribe  the  Maitraya;m-brahma«aupanishad  to  an  early  rather  than  to  a  late  period,  possibly
 to  an  ante-Pawinean  period,  we  shall  hardly  be  persuaded  to
 change  this  opinion  on  account  of  supposed  references  to
 Vaish/^ava  or  to  Bauddha  doctrines  which  some  scholars
 have  tried  to  discover  in  it.
 
-As  to  the  worship  of  Vish;m,  as  one  of  the  many  mani-
-festations of  the  Highest  Spirit,  we  have  seen  it  alluded  to
+As  to  the  worship  of  Vish;m,  as  one  of  the  many  manifestations of  the  Highest  Spirit,  we  have  seen  it  alluded  to
 in  other  Upanishads,  and  we  know  from  the  Brahmawas
 that  the  name  of  Vishwu  was  connected  with  many  of  the
 earliest  Vedic  sacrifices.
@@ -2310,29 +2142,24 @@ INTRODUCTION.  li
 
 As  to  Bauddha  doctrines,  including  the  very  name  of
 Nirvana  (p.  xlvi,  1.  19},  we  must  remember,  as  I  have  often
-remarked,  that  there  were  Bauddhas  before  Buddha.  Bnha-
-spati,  who  is  frequently  quoted  in  later  philosophical  writings
+remarked,  that  there  were  Bauddhas  before  Buddha.  Bnhaspati,  who  is  frequently  quoted  in  later  philosophical  writings
 as  the  author  of  an  heretical  philosophy,  denying  the  au- '
 thority  of  the  Vedas,  is  mentioned  by  name  in  our  Upanishad
 (VII,  9),  but  we  are  told  that  this  Br/haspati,  having  become
-6"ukra,  promulgated  his  erroneous  doctrines  in  order  to  mis-
-lead the  Asuras,  and  thus  to  insure  the  safety  of  Indra,  i.e.  of
+6"ukra,  promulgated  his  erroneous  doctrines  in  order  to  mislead the  Asuras,  and  thus  to  insure  the  safety  of  Indra,  i.e.  of
 the  old  faith.
 
 The  fact  that  the  teacher  of  King  Br/hadratha  in  our
-Upanishad  is  called  vSakayanya,  can  never  be  used  in  sup-
-port of  the  idea  that,  being  a  descendant  of  6"aka^,  he  must
+Upanishad  is  called  vSakayanya,  can  never  be  used  in  support of  the  idea  that,  being  a  descendant  of  6"aka^,  he  must
 have  been,  like  vSakyamuni,  a  teacher  of  Buddhist  doctrines.
 He  is  the  very  opposite  in  our  Upanishad,  and  warns  his
 hearers  against  such  doctrines  as  we  should  identify  with
 the  doctrines  of  Buddha.  As  I  have  pointed  out  on  several
 occasions,  the  breaking  through  the  law  of  the  A^ramas  is
 the  chief  complaint  which  orthodox  Brahmans  make  against
-Buddhists  and  their  predecessors,  and  this  is  what  5a,ka-
-yanya  condemns.  A  Brahman  may  become  a  Sannyasin,
+Buddhists  and  their  predecessors,  and  this  is  what  5a,kayanya  condemns.  A  Brahman  may  become  a  Sannyasin,
 which  is  much  the  same  as  a  Buddhist  Bhikshu,  if  he  has
-first  passed  through  the  three  stages  of  a  student,  a  house-
-holder, and  a  Vanaprastha.  But  to  become  a  Bhikshu
+first  passed  through  the  three  stages  of  a  student,  a  householder, and  a  Vanaprastha.  But  to  become  a  Bhikshu
 without  that  previous  discipline,  was  heresy  in  the  eyes  of
 the  Brahmans,  and  it  was  exactly  that  heresy  which  the
 Bauddhas  preached  and  practised.  That  this  social  laxity
@@ -2366,8 +2193,7 @@ the  friar,  only  emancipated  alike  from  the  tedious  discipline
 of  the  Brahmanic   student,  the  duties  of  the   Brahmanic
 householder,  and  the  yoke  of  useless  penances  imposed  on
 the  Brahmanic  dweller  in  the  forest.    The  spiritual  freedom
-of  the  Sannyasin  becomes  in  Buddhism  the  common  pro-
-perty of  the  Sangha,  the  Fraternity,  and  that  Fraternity  is
+of  the  Sannyasin  becomes  in  Buddhism  the  common  property of  the  Sangha,  the  Fraternity,  and  that  Fraternity  is
 open  alike  to  the  young  and  the  old,  to  the  Brahman  and
 the  5udra,  to  the  rich  and  the  poor,  to  the  wise  and  the
 foolish.     In  fact  there  is  no  break  between  the  India  of
@@ -2380,14 +2206,10 @@ F.  MAX  MULLER.
 Oxford,  February,  1884.
 
 
-*  As  there  is  room  left  on  this  page,  I  subjoin  a  passage  from  the  Abhi-
-dharma-kosha-vyakhya,  ascribed  to  the  Bhagavat,  but  which,  as  far  as  style  and
-thought  are  concerned,  might  be  taken  from  an  Upanishad  :  Uktaw  hi  Bhaga-
-vata :  Pnthivi  bho  Gautama  kutra  pratish/Aita  ?  Pnthivi  Brahmawa  abma«rfale
-pratish^^ita.  Abma^rfalam  bho  Gautama  kva  pratish^/zitam  ?  Vayau  pratish-
-ihitzm.  Vayur  bho  Gautama  kva  pratish//nta,%  ?  Akase  pra.tish.thi\.a.h.  Akasam
-bho  Gautama  kutra  pratish//%itam  ?  Atisarasi  Mahabrahma^a,  atisarasi  Maha-
-brahmana.  Akasam  Brahma«apratish/Aitam,  analambanam  iti  vistara^.  Tas-
+*  As  there  is  room  left  on  this  page,  I  subjoin  a  passage  from  the  Abhidharma-kosha-vyakhya,  ascribed  to  the  Bhagavat,  but  which,  as  far  as  style  and
+thought  are  concerned,  might  be  taken  from  an  Upanishad  :  Uktaw  hi  Bhagavata :  Pnthivi  bho  Gautama  kutra  pratish/Aita  ?  Pnthivi  Brahmawa  abma«rfale
+pratish^^ita.  Abma^rfalam  bho  Gautama  kva  pratish^/zitam  ?  Vayau  pratishihitzm.  Vayur  bho  Gautama  kva  pratish//nta,%  ?  Akase  pra.tish.thi\.a.h.  Akasam
+bho  Gautama  kutra  pratish//%itam  ?  Atisarasi  Mahabrahma^a,  atisarasi  Mahabrahmana.  Akasam  Brahma«apratish/Aitam,  analambanam  iti  vistara^.  Tas-
 mad  asty  aka;am  iti  VaibhashikaA.  (See  B?-2had-Ar.  Up.  Ill,  6,  i.  Burnouf,
 Introduction  a  I'histoire  du  Buddhisme,  p.  449-)
 
@@ -2421,8 +2243,7 @@ surrendered  (at  a  sacrifice)  all  that  he  possessed.  He
 had  a  son  of  the  name  of  Na^^'iketas.
 
 2.  When  the  (promised)  presents  were  being  given
-(to  the  priests),  faith  entered  into  the  heart  of  Na^i-
-ketas,  who  was  still  a  boy,  and  he  thought :
+(to  the  priests),  faith  entered  into  the  heart  of  Na^iketas,  who  was  still  a  boy,  and  he  thought :
 
 3.  '  Unblessed  ^,  surely,  are  the  worlds  to  which
 a  man  goes  by  giving  (as  his  promised  present  at  a
@@ -2438,8 +2259,7 @@ wilt  thou  give  me  .'* '
 Na/^iketas.  The  father  of  -S'vetaketu,  another  enlightened  pupil
 (see  ^Mnd.  Up.  VI,  1,1),  is  also  called  Aruwi  (Uddalaka,  comm.
 Kaush.  Up.  I,  i)  Gautama.  ^Svetaketu  himself  is  called  Aruweya,
-i.  e,  the  son  of  Aru«i,  the  grandson  of  Aruwa,  and  likewise  Audda-
-laki. Auddalaki  is  a  son  of  Uddalaka,  but  ^'ahkara  (Ka//^.Up.  1, 11)
+i.  e,  the  son  of  Aru«i,  the  grandson  of  Aruwa,  and  likewise  Auddalaki. Auddalaki  is  a  son  of  Uddalaka,  but  ^'ahkara  (Ka//^.Up.  1, 11)
 takes  Auddalaki  as  possibly  the  same  as  Uddalaka.  See  Br/h.  Ar.
 Up.  Ill,  6,  I.
 
@@ -2472,8 +2292,7 @@ to-day  he  has  to  do  unto  me  ^  ?
 1  Dadami,  I  give,  with  the  meaning  of  the  future.    Some  MSS.
 write  dasyami.
 
-2  I  translate  these  verses  freely,  i.  e.  independently  of  the  commen-
-tator, not  that  I  ever  despise  the  traditional  interpretation  which  the
+2  I  translate  these  verses  freely,  i.  e.  independently  of  the  commentator, not  that  I  ever  despise  the  traditional  interpretation  which  the
 commentators  have  preserved  to  us,  but  because  I  think  that,  after
 having  examined  it,  we  have  a  right  to  judge  for  ourselves.    6'ahkara
 says  that  the  son,  having  been  addressed  by  his  father  full  of  anger,
@@ -2483,8 +2302,7 @@ I  the  last.     Yet  though  I  am  such  a  good  pupil,  my  father  has  sa
 that  he  will  consign  me  unto  death.   What  duty  has  he  to  fulfil  toward
 Yama  which  he  means  to  fulfil  to-day  by  giving  me  to  him  ?    There
 may  be  no  duty,  he  may  only  have  spoken  in  haste.    Yet  a  father's
-word  must  not  be  broken.'     Having  considered  this,  the  son  com-
-forted his  father,  and  exhorted  him  to  behave  like  his  forefathers,  and
+word  must  not  be  broken.'     Having  considered  this,  the  son  comforted his  father,  and  exhorted  him  to  behave  like  his  forefathers,  and
 to  keep  his  word.    I  do  not  think  this  view  of  6'ahkara's  could  have
 been  the  view  of  the  old  poet.     He  might  have  made  the  son  say  that
 he  was  the  best  or  one  of  the  best  of  his  father's  pupils,  but  hardly
@@ -2509,10 +2327,8 @@ before,  look  forward  how  it  will  be  with  those  who
 come  hereafter.  A  mortal  ripens  like  corn,  like
 corn  he  springs  up  again  ^'
 
-(Naiiketas  enters  into  the  abode  of  Yama  Vai-
-vasvata,  and  there  is  no  one  to  receive  him.
-Thereupon  one  of  the  attendants  of  Yama  is  sup-
-posed to  say  :)
+(Naiiketas  enters  into  the  abode  of  Yama  Vaivasvata,  and  there  is  no  one  to  receive  him.
+Thereupon  one  of  the  attendants  of  Yama  is  supposed to  say  :)
 
 7.  '  Fire  enters  into  the  houses,  when  a  Brahma/^a
 enters  as  a  guests  That  fire  is  quenched  by  this
@@ -2545,8 +2361,7 @@ according  to  Rhys ;  different  from  jash-pa,  ces-pes,  Benfey.
 is  the  first  gift  to  be  offered  to  a  stranger  who  claims  hospitality.
 
 *  Here  again  some  words  are  translated  differently  from  -Sahkara.
-He  explains  a^a  as  asking  for  a  wished-for  object,  pratiksha  as  look-
-ing forward  with  a  view  to  obtaining  an  unknown  object.  Sangata
+He  explains  a^a  as  asking  for  a  wished-for  object,  pratiksha  as  looking forward  with  a  view  to  obtaining  an  unknown  object.  Sangata
 he  takes  as  reward  for  intercourse  with  good  people ;  sunr/ta,  as
 usual,  as  good  and  kind  speech;  ish/a  as  rewards  for  sacrifices;
 pfirta  as  rewards  for  public  benefits.
@@ -2586,8 +2401,7 @@ reach  immortality, — this  I  ask  as  my  second  boon.'
 14.  Yama  said:  '  I  tell  it  thee,  learn  it  from  me,
 and  when  thou  understandest  that  fire-sacrifice  which
 leads  to  heaven,  know,  O  Na/^'iketas,  that  it  is  the
-attainment  of  the  endless  worlds,  and  their  firm  sup-
-port, hidden  in  darkness  \'
+attainment  of  the  endless  worlds,  and  their  firm  support, hidden  in  darkness  \'
 
 15.  Yama  then  told  him  that  fire-sacrifice,  the
 beginning  of  all  the  worlds  2,  and  what  bricks   are
@@ -2612,11 +2426,9 @@ with  him,  said  again  :
 
 1 6.  The  generous  \  being  satisfied,  said  to  him:
 *  I  give  thee  now  another  boon ;  that  fire-sacrifice
-shall  be  named  after  thee,  take  also  this  many-
-coloured  chain  2.'
+shall  be  named  after  thee,  take  also  this  manycoloured  chain  2.'
 
-17.  '  He  who  has  three  times  performed  this  NaZ'i-
-keta  rite,  and  has  been  united  with  the  three  (father,
+17.  '  He  who  has  three  times  performed  this  NaZ'iketa  rite,  and  has  been  united  with  the  three  (father,
 mother,  and  teacher),  and  has  performed  the  three
 duties  (study,  sacrifice,  almsgiving)  overcomes  birth
 and  death.  When  he  has  learnt  and  understood
@@ -2678,13 +2490,11 @@ all  desires.'
 
 25.  '  Whatever  desires  are  difficult  to  attain  among
 mortals,  ask  for  them  according  to  thy  wish  ; — these
-fair  maidens  with  their  chariots  and  musical  instru-
-ments,^ such  are  indeed  not  to  be  obtained  by
+fair  maidens  with  their  chariots  and  musical  instruments,^ such  are  indeed  not  to  be  obtained  by
 men, — be  waited  on  by  them  whom  I  give  to  thee,
 but  do  not  ask  me  about  dying.'
 
-26.  Na/^iketas  said:  'These  things  last  till  to-
-morrow, O  Death,  for  they  wear  out  this  vigour  of
+26.  Na/^iketas  said:  'These  things  last  till  tomorrow, O  Death,  for  they  wear  out  this  vigour  of
 all  the  senses.  Even  the  whole  of  hfe  is  short.  Keep
 thou  thy  horses,  keep  dance  and  song  for  thyself.'
 
@@ -2709,8 +2519,7 @@ in  a  long  life,  after  he  has  pondered  on  the  pleasures
 which  arise  from  beauty  and  love^?'
 
 29.  '  No,  that  on  which  there  is  this  doubt,  O  Death,
-tell  us  what  there  is  in  that  great  Hereafter.  Na/^'i-
-ketas  does  not  choose  another  boon  but  that  which
+tell  us  what  there  is  in  that  great  Hereafter.  Na/^'iketas  does  not  choose  another  boon  but  that  which
 enters  into  the  hidden  world.'
 
 
@@ -2737,15 +2546,13 @@ them.  Yea,  the  wise  prefers  the  good  to  the
 pleasant,  but  the  fool  chooses  the  pleasant  through
 greed  and  avarice.'
 
-3.  '  Thou,  O  Na/^iketas,  after  pondering  all  plea-
-sures that  are  or  seem  delightful,  hast  dismissed
+3.  '  Thou,  O  Na/^iketas,  after  pondering  all  pleasures that  are  or  seem  delightful,  hast  dismissed
 them  all.  Thou  hast  not  gone  into  the  road^  that
 leadeth  to  wealth,  in  which  many  men  perish.'
 
 4.  'Wide  apart  and  leading  to  different  points  are
 these  two,  ignorance,  and  what  is  known  as  wisdom.
-I  believe  Na^^iketas  to  be  one  who  desires  know-
-ledge, for  even  many  pleasures  did  not  tear  thee
+I  believe  Na^^iketas  to  be  one  who  desires  knowledge, for  even  many  pleasures  did  not  tear  thee
 away  -.'
 
 5.  *  Fools  dwelling  in  darkness,  wise  in  their  own
@@ -2762,8 +2569,7 @@ thus  he  falls  again  and  again  under  my  sway.'
 
 '  Cf.  I,  16.
 
-^  The  commentator  explains  lolupanta/z  by  v[kk/iedd.?n  kr/'tavan-
-ta^.  Some  MSS.  read  lolupante  and  lolupanti,  but  one  expects
+^  The  commentator  explains  lolupanta/z  by  v[kk/iedd.?n  kr/'tavanta^.  Some  MSS.  read  lolupante  and  lolupanti,  but  one  expects
 either  lolupyante  or  lolupati.
 
 '  Cf.  Mwid.  Up.  II,  8.
@@ -2784,16 +2590,14 @@ upon^;  unless  it  be  taught  by  another,  there  is  no
 way  to  it,  for  it  is  inconceivably  smaller  than  what
 is  small  ^'
 
-9.  '  That  doctrine  is  not  to  be  obtained^  by  argu-
-ment, but  when  it  is  declared  by  another,  then,  O
+9.  '  That  doctrine  is  not  to  be  obtained^  by  argument, but  when  it  is  declared  by  another,  then,  O
 dearest,  it  is  easy  to  understand.  Thou  hast  obtained
 it  now^;  thou  art  truly  a  man  of  true  resolve.  May
 we  have  always  an  inquirer  like  thee  ^! '
 
 10.  Na/^iketas  said  :  '  I  know  that  what  is  called  a
 treasure  is  transient,  for  that  eternal  is  not  obtained
-by  things  which  are  not  eternal.  Hence  the  Na/^i-
-keta  fire(-sacrifice)  has  been  laid  by  me  (first) ;  then,
+by  things  which  are  not  eternal.  Hence  the  Na/^iketa  fire(-sacrifice)  has  been  laid  by  me  (first) ;  then,
 by  means  of  transient  things,  I  have  obtained  what
 is  not  transient  (the  teaching  of  Yama)^.'
 
@@ -2805,16 +2609,14 @@ the  endless  rewards  of  good  deeds,  the  shore  where
 
 ^  I  read  a«uprama«at.  Other  interpretations :  If  it  is  taught  by
 one  who  is  identified  with  the  Self,  then  there  is  no  uncertainty.  If
-it  has  been  taught  as  identical  with  ourselves,  then  there  is  no  per-
-ception of  anything  else.  If  it  has  been  taught  by  one  who  is
+it  has  been  taught  as  identical  with  ourselves,  then  there  is  no  perception of  anything  else.  If  it  has  been  taught  by  one  who  is
 identified  with  it,  then  there  is  no  failure  in  understanding  it  (agati).
 
 *  Apaneya;  should  it  be  apanaya,  as  afterwards  su^nanaya?
 
 ^  Because  you  insist  on  my  teaching  it  to  thee.
 
-®  Unless  no  is  negative,  for  Yama,  at  first,  does  not  like  to  com-
-municate his  knowledsre.
+®  Unless  no  is  negative,  for  Yama,  at  first,  does  not  like  to  communicate his  knowledsre.
 
 ''  The  words  in  parentheses  have  been  added  in  order  to  remove
 the  otherwise  contradictory  character  of  the  two  lines.
@@ -2954,12 +2756,10 @@ then  wise  people  call  him  the  Enjoyer.'
 
 ^  The  two  are  explained  as  the  higher  and  lower  Brahman,  the
 former  being  the  light,  the  latter  the  shadow.  i?/ta  is  explained
-as  reward,  and  connected  with  sukrz'ta,  lit.  good  deeds,  but  fre-
-quently used  in  the  sense  of  svakr/ta,  one's  own  good  and  evil
+as  reward,  and  connected  with  sukrz'ta,  lit.  good  deeds,  but  frequently used  in  the  sense  of  svakr/ta,  one's  own  good  and  evil
 deeds.  The  difficulty  is,  how  the  highest  Brahman  can  be  said  to
 drink  the  reward  (rztapa)  of  former  deeds,  as  it  is  above  all  works  and
-above  all  rewards.  The  commentator  explains  it  away  as  a  meta-
-phorical expression,  as  we  often  speak  of  many,  when  we  mean  one.
+above  all  rewards.  The  commentator  explains  it  away  as  a  metaphorical expression,  as  we  often  speak  of  many,  when  we  mean  one.
 (Cf  Mxxnd.  Up.  Ill,  I,  I.)  I  have  joined  sukr/tasya  with  loke,  loka
 meaning  the  world,  i.  e.  the  state,  the  environment,  which  we  made
 to  ourselves  by  our  former  deeds.
@@ -2981,16 +2781,14 @@ unmanageable,  like  vicious  horses  of  a  charioteer,'
 is  always  firmly  held,  his  senses  are  under  control,
 like  good  horses  of  a  charioteer.'
 
-7.  '  He  who  has  no  understanding,  who  is  unmind-
-ful and  always  impure,  never  reaches  that  place,  but
+7.  '  He  who  has  no  understanding,  who  is  unmindful and  always  impure,  never  reaches  that  place,  but
 enters  into  the  round  of  births.'
 
 8.  '  But  he  who  has  understanding,  who  is  mindful
 and  always  pure,  reaches  indeed  that  place,  from
 whence  he  is  not  born  again.'
 
-9.  '  But  he  who  has  understanding  for  his  cha-
-rioteer, and  who  holds  the  reins  of  the  mind,  he
+9.  '  But  he  who  has  understanding  for  his  charioteer, and  who  holds  the  reins  of  the  mind,  he
 reaches  the  end  of  his  journey,  and  that  is  the
 highest  place  of  Vish^m.'
 
@@ -3028,13 +2826,11 @@ the  Self)  is  hard.'
 
 15.  '  He  who  has  perceived  that  which  is  without
 sound,  without  touch,  without  form,  without  decay,
-without  taste,  eternal,  without  smell,  without  begin-
-ning, without  end,  beyond  the  Great,  and  unchange-
+without  taste,  eternal,  without  smell,  without  beginning, without  end,  beyond  the  Great,  and  unchange-
 able, is  freed  from  the  jaws  of  death.'
 
 16.  'A  wise  man  who  has  repeated  or  heard  the
-ancient  story  of  Na/§iketas  told  by  Death,  is  magni-
-fied in  the  world  of  Brahman.'
+ancient  story  of  Na/§iketas  told  by  Death,  is  magnified in  the  world  of  Brahman.'
 
 17.  'And  he  who  repeats  this  greatest  mystery  in
 an  assembly  of  Brahmans,  or  full  of  devotion  at  the
@@ -3073,13 +2869,11 @@ great  omnipresent  Self,  grieves  no  more.'
 
 5.  'He  who  knows  this  living  soul  which  eats
 honey  (perceives  objects)  as  being  the  Self,  always
-near,  the  Lord  of  the  past  and  the  future,  hence-
-forward fears  no  more.     This  is  that.'
+near,  the  Lord  of  the  past  and  the  future,  henceforward fears  no  more.     This  is  that.'
 
 6.  'He  who  (knows)  him^  who  was  born  first  from
 
-^  The  first  manifestation  of  Brahman,  commonly  called  Hirawya-
-garbha,  which  springs  from  the  tapas  of  Brahman.  Afterwards  only
+^  The  first  manifestation  of  Brahman,  commonly  called  Hirawyagarbha,  which  springs  from  the  tapas  of  Brahman.  Afterwards  only
 water  and  the  rest  of  the  elements  become  manifested.  The  text  of
 these  verses  is  abrupt,  possibly  corrupt.  The  two  accusatives,
 tishZ/zantam  and  tishMantim,  seem  to  me  to  require  veda  to  be
@@ -3094,8 +2888,7 @@ who,  entering  into  the  heart,  abides  therein,  and  was
 perceived  from  the  elements.     This  is  that.'
 
 7.  '(He  who  knows)  Aditi  also,  who  is  one  with
-all  deities,  who  arises  with  Pra;^a  (breath  or  Hira;/ya-
-garbha),  who,  entering  into  the  heart,  abides  therein,
+all  deities,  who  arises  with  Pra;^a  (breath  or  Hira;/yagarbha),  who,  entering  into  the  heart,  abides  therein,
 and  was  born  from  the  elements.     This  is  that.'
 
 8.  '  There  is  Agni  (fire),  the  all-seeing,  hidden  in
@@ -3140,17 +2933,13 @@ I
 
 II    ADHYAYA,  4  VALl!,   1 5.  17
 
-14.  '  As  rain-water  that  has  fallen  on  a  mountain-
-ridge  runs  down  the  rocks  on  all  sides,  thus  does  he,
+14.  '  As  rain-water  that  has  fallen  on  a  mountainridge  runs  down  the  rocks  on  all  sides,  thus  does  he,
 who  sees  a  difference  between  qualities,  run  after
 them  on  all  sides.'
 
 1 5.  *  As  pure  water  poured  into  pure  water  remains
 the  same,  thus,  O  Gautama,  is  the  Self  of  a  thinker
 who  knows.'
-
-
-[15]
 
 
 J  S  KAr/TA-UPANISHAD.
@@ -3314,8 +3103,7 @@ the  Brahman  in  its  various  manifestations.
 If  he  is  not  able  to  understand  it,  then  he  has  to  take  body  again
 in  the  created  worlds.'  I  doubt  whether  it  is  possible  to  supply  so
 much,  and  should  prefer  to  read  iha  >^en  na^akad,  though  I  find  it
-difficult  to  explain  how  so  simple  a  text  should  have  been  mis-
-understood and  corrupted.
+difficult  to  explain  how  so  simple  a  text  should  have  been  misunderstood and  corrupted.
 
 
 22  KAr^A-UPANISHAD.
@@ -3353,8 +3141,7 @@ still  together  with  the  mind,  and  when  the  intellect
 does  not  move,  that  is  called  the  highest  state.'
 
 11.  '  This,  the  firm  holding  back  of  the  senses,  is
-what  is  called  Yoga.  He  must  be  free  from  thought-
-lessness then,  for  Yoga  comes  and  goes  \'
+what  is  called  Yoga.  He  must  be  free  from  thoughtlessness then,  for  Yoga  comes  and  goes  \'
 
 
 ^  Roer :  'As  in  a  picture  and  in  the  sunshine/
@@ -3455,8 +3242,7 @@ of  the  universe,  the  preserver  of  the  world.  He
 told  the  knowledge  of  Brahman,  the  foundation  of
 all  knowledge,  to  his  eldest  son  Atharva  ^.
 
-2.  Whatever  Brahma  told  Atharvan,  that  know-
-ledge of  Brahman  Atharvan  formerly  told  to  Anglr;
+2.  Whatever  Brahma  told  Atharvan,  that  knowledge of  Brahman  Atharvan  formerly  told  to  Anglr;
 he  told  it  to  Satyavaha  Bharadva^a,  and  Bharadva^a
 told  it  in  succession  to  Angiras.
 
@@ -3469,18 +3255,15 @@ known  ? '
 be  known,  this  is  what  all  who  know  Brahman  tell  us,
 the  higher  and  the  lower  knowledge.'
 
-5.  '  The  lower  knowledge  is  the  7?/g-veda,  Ya^r-
-veda,  Sama-veda,  Atharva-veda,  ^'iksha  (phonetics),
+5.  '  The  lower  knowledge  is  the  7?/g-veda,  Ya^rveda,  Sama-veda,  Atharva-veda,  ^'iksha  (phonetics),
 Kalpa  (ceremonial),  Vyakara/^a  (grammar),  Nirukta
 (etymology),  AV^andas  (metre),  6^yotisha  (astronomy)  ^ ;
 
 ^  The  change  between  Atharva  and  Atharvan,  like  that  between
 Na^iketas  and  Na-^iketa,  shows  the  freedom  of  the  phraseology  of
-the  Upanishad,  and  cannot  be  used  for  fixing  the  date  of  the  con-
-stituent elements  of  the  Upanishad.
+the  Upanishad,  and  cannot  be  used  for  fixing  the  date  of  the  constituent elements  of  the  Upanishad.
 
-"^  Other  MSS.  add  here  itihasa-pura«a-nyaya-mima»2sa-dharma-
-jastra^^i.
+"^  Other  MSS.  add  here  itihasa-pura«a-nyaya-mima»2sa-dharmajastra^^i.
 
 
 28  MUiVDAKA-UPANISHAD.
@@ -3491,8 +3274,7 @@ Indestructible  (Brahman)  is  apprehended.'
 
 6.  '  That  which  cannot  be  seen,  nor  seized,  which
 has  no  family  and  no  caste  \  no  eyes  nor  ears,  no
-hands  nor  feet,  the  eternal,  the  omnipresent  (all-
-pervading),  infinitesimal,  that  which  is  imperishable,
+hands  nor  feet,  the  eternal,  the  omnipresent  (allpervading),  infinitesimal,  that  which  is  imperishable,
 that  it  is  which  the  wise  regard  as  the  source  of
 all  beings.'
 
@@ -3516,16 +3298,14 @@ species.
 ^  I  have  translated  tapas  by  brooding,  because  this  is  the  only
 word  in  English  which  combines  the  two  meanings  of  warmth  and
 thought.  Native  authorities  actually  admit  two  roots,  one  tap,
-to  burn,  the  other  tap,  to  meditate;  see  commentary  on  Para-
-jara-smrzti,  p.  39^  (MS.  Bodl),  Tapa-^  kr/-^/^,^ra/^andraya«adiru-
+to  burn,  the  other  tap,  to  meditate;  see  commentary  on  Parajara-smrzti,  p.  39^  (MS.  Bodl),  Tapa-^  kr/-^/^,^ra/^andraya«adiru-
 pewaharavar^anam.  Nanu  Vyasena  tapo  'nyatha  smaryate,  tapa^
 svadharma-vartitvaz??  s^Lukam  sahganibarhawam  iti ;  nayawz  dosha^,
 kn'/^Mrader  api  svadharmavi^eshat.   Tapa  sa;«tapa  ity  asmad  dhator
 
 utpannasya  tapa>^-jabdasya  dehajoshawe  vrz'ttir  mukhya Yat
 
-tu  tatraivoktaw?,  ko  'yam  mokshay^  katham  tena  sawzsaram  prati-
-pannavan  ity  alo-^anam  artha^nas  tapa/^  sa.msznti  pa«^ita  iti  so  'nya
+tu  tatraivoktaw?,  ko  'yam  mokshay^  katham  tena  sawzsaram  pratipannavan  ity  alo-^anam  artha^nas  tapa/^  sa.msznti  pa«^ita  iti  so  'nya
 eva  tapa-^jabda/^,  tapa  alo/^ana  ity  asmad  dhator  utpanna^.
 
 ^  Hira72yagarbha,  the  living  world  as  a  whole.     Comm.
@@ -3538,8 +3318,7 @@ I    MUiVDAKA,   I   KHAA^DA,  9.  29
 
 9.  '  From  him  who  perceives  all  and  who  knows
 all,  whose  brooding  (penance)  consists  of  knowledge,
-from  him  (the  highest  Brahman)  is  born  that  Brah-
-man ^  name,  form  ^  and  matter  (food).'
+from  him  (the  highest  Brahman)  is  born  that  Brahman ^  name,  form  ^  and  matter  (food).'
 
 ^  Hira«yagarbha.    Comm.
 
@@ -3562,8 +3341,7 @@ this  is  your  path  that  leads  to  the  world  of  good
 works  ^!
 
 2.  When  the  fire  is  lighted  and  the  flame  flickers,
-let  a  man  offer  his  oblations  between  the  two  por-
-tions of  melted  butter,  as  an  offering  with  faith.
+let  a  man  offer  his  oblations  between  the  two  portions of  melted  butter,  as  an  offering  with  faith.
 
 3.  If  a  man's  Agnlhotra  sacrifice  ^  Is  not  followed
 
@@ -3592,8 +3370,7 @@ many  others,  two  portions  of  a^ya  are  sacrificed  on  the  right  and
 left  side  of  the  Ahavaniya  altar.  The  place  between  the  two  is
 called  the  Avapasthana,  and  here  the  oblations  to  the  gods  are  to
 be  offered.  There  are  two  oblations  in  the  morning  to  Surya  and
-Pra^apati,  two  in  the  evening  to  Agni  and  Pra^apati.  Other  sacri-
-fices, such  as  the  Dar^a  and  Purwamasa,  and  those  mentioned  in
+Pra^apati,  two  in  the  evening  to  Agni  and  Pra^apati.  Other  sacrifices, such  as  the  Dar^a  and  Purwamasa,  and  those  mentioned  in
 verse  3,  are  connected  with  the  Agnihotra.
 
 
@@ -3616,26 +3393,22 @@ flames  are  shining,  and  the  oblations  follow  at  the
 right  time,  then  they  lead  him  as  sun-rays  to  where
 the  one  Lord  of  the  Devas  dwells.
 
-6.  Come  hither,  come  hither !  the  brilliant  obla-
-tions say  to  him,  and  carry  the  sacrificer  on  the  rays
+6.  Come  hither,  come  hither !  the  brilliant  oblations say  to  him,  and  carry  the  sacrificer  on  the  rays
 of  the  sun,  while  they  utter  pleasant  speech  and
 praise  him,  saying :  '  This  is  thy  holy  Brahma-world
 (Svarga),  gained  by  thy  good  works.'
 
-7.  But  frail,  in  truth,  are  those  boats,  the  sacri-
-fices, the  eighteen,  in  which  this  lower  ceremonial
+7.  But  frail,  in  truth,  are  those  boats,  the  sacrifices, the  eighteen,  in  which  this  lower  ceremonial
 has  been  told^.  Fools  who  praise  this  as  the  highest
 good,  are  subject  again  and  again  to  old  age  and
 death.
 
 ^  The  seven  worlds  form  the  rewards  of  a  pious  sacrificer,  the
-fifst  is  Bhu>^,  the  last  Satya.  The  seven  worlds  may  also  be  ex-
-plained as  the  worlds  of  the  father,  grandfather,  and  great-grand-
+fifst  is  Bhu>^,  the  last  Satya.  The  seven  worlds  may  also  be  explained as  the  worlds  of  the  father,  grandfather,  and  great-grand-
 father, of  the  son,  the  grandson,  and  great-grandson,  and  of  the
 sacrificer  himself.
 
-^  Or  Vijvaru-^i,  if  there  is  any  authority  for  this  reading  in  Mahi-
-dhara's  commentary  to  the  Va^as.  Sawhita  XVII,  79.  The  Rajah
+^  Or  Vijvaru-^i,  if  there  is  any  authority  for  this  reading  in  Mahidhara's  commentary  to  the  Va^as.  Sawhita  XVII,  79.  The  Rajah
 of  Besmah's  edition  has  vi^varuki,  which  is  also  the  reading  adopted
 by  Rammohun  Roy,  see  Complete  Works,  vol.  i,  p.  579.
 
@@ -3652,8 +3425,7 @@ conceit,  and  puffed  up  with  vain  knowledge,  go  round
 and  round  staggering  to  and  fro,  like  blind  men  led
 by  the  blind  ^
 
-9.  Children,  when  they  have  long  lived  in  igno-
-rance, consider  themselves  happy.  Because  those
+9.  Children,  when  they  have  long  lived  in  ignorance, consider  themselves  happy.  Because  those
 who  depend  on  their  good  works  are,  owing  to  their
 passions,  improvident,  they  fall  and  become  miserable
 when  their  life  (in  the  world  which  they  had  gained
@@ -3668,8 +3440,7 @@ or  a  lower  one.
 11.  But  those '^  who  practise  penance  and  faith
 in  the  forest,  tranquil,  wise,  and  living  on  alms,
 depart  free  from  passion  through  the  sun  to  where
-that  immortal  Person  dwells  whose  nature  is  impe-
-rishable^.
+that  immortal  Person  dwells  whose  nature  is  imperishable^.
 
 12.  Let  a  Brihma^^a,  after  he  has  examined  all
 these  worlds  which  are  gained  by  works,  acquire
@@ -3697,11 +3468,9 @@ I    MUiVDAKA,   2  KHAiVJDA,   1 3.  33
 fuel  in  his  hand  and  approach  a  Guru  who  is  learned
 and  dwells  entirely  in  Brahman.
 
-13.  To  that  pupil  who  has  approached  him  re-
-spectfully, whose  thoughts  are  not  troubled  by  any
+13.  To  that  pupil  who  has  approached  him  respectfully, whose  thoughts  are  not  troubled  by  any
 desires,  and  who  has  obtained  perfect  peace,  the
-wise  teacher  truly  told  that  knowledge  of  Brah-
-man through  which  he  knows  the  eternal  and  true
+wise  teacher  truly  told  that  knowledge  of  Brahman through  which  he  knows  the  eternal  and  true
 Person.
 
 
@@ -3746,8 +3515,7 @@ Person  (purusha).
 
 '  Cf.  Br^-h.  Ar.  II,  i,  20.
 
-^  The  high  Imperishable  is  here  the  creative,  the  higher  the  non-
-creative  Brahman.
+^  The  high  Imperishable  is  here  the  creative,  the  higher  the  noncreative  Brahman.
 
 ^  Called  Vishwu  and  Vira^  by  the  commentators.
 '  There  are  five  fires,  those  of  heaven,  rain,  earth,  man,  and
@@ -3770,8 +3538,7 @@ faith,  truth,  abstinence,  and  law.
 the  seven  lights  (acts  of  sensation),  the  seven  kinds
 of  fuel  (objects  by  which  the  senses  are  lighted),  the
 seven  sacrifices  (results  of  sensation),  these  seven
-worlds  (the  places  of  the  senses,  the  worlds  deter-
-mined by  the  senses)  in  which  the  senses  move,
+worlds  (the  places  of  the  senses,  the  worlds  determined by  the  senses)  in  which  the  senses  move,
 which  rest  in  the  cave  (of  the  heart),  and  are  placed
 there  seven  and  seven.
 
@@ -3780,8 +3547,7 @@ from  him  flow  the  rivers  of  every  kind  ;  hence  come
 all  herbs  and  the  juice  through  which  the  inner  Self
 subsists  with  the  elements.
 
-10.  The  Person  is  all  this,  sacrifice,  penance,  Brah-
-man, the  highest  immortal ;  he  who  knows  this  hidden
+10.  The  Person  is  all  this,  sacrifice,  penance,  Brahman, the  highest  immortal ;  he  who  knows  this  hidden
 in  the  cave  (of  the  heart),  he,  O  friend,  scatters  the
 knot  of  ignorance  here  on  earth.
 
@@ -3801,8 +3567,7 @@ and  not-being,  as  adorable,  as  the  best,  that  is  beyond
 the  understanding  of  creatures.
 
 2.  That  which  is  brilHant,  smaller  than  small,  that
-on  which  the  worlds  are  founded  and  their  inhabit-
-ants, that  is  the  indestructible  Brahman,  that  is  the
+on  which  the  worlds  are  founded  and  their  inhabitants, that  is  the  indestructible  Brahman,  that  is  the
 breath,  speech,  mind;  that  is  the  true,  that  is  the
 immortal.     That  is  to  be  hit.     Hit  it,  O  friend !
 
@@ -3856,8 +3621,7 @@ and  the  stars,  nor  these  lightnings,  and  much  less
 this  fire.  When  he  shines,  everything  shines  after
 him  ;  by  his  light  all  this  is  lighted  ^
 
-11.  That  immortal  Brahman  is  before,  that  Brah-
-man is  behind,  that  Brahman  is  right  and  left.  It
+11.  That  immortal  Brahman  is  before,  that  Brahman is  behind,  that  Brahman  is  right  and  left.  It
 has  gone  forth  below  and  above ;  Brahman  alone  is
 all  this,  it  is  the  best.
 
@@ -3892,8 +3656,7 @@ passions  ;
 4.  For  he  is  the  Breath  shining  forth  in  all  beings,
 and  he  who  understands  this  becomes  truly  wise,
 not  a  talker  only.  He  revels  in  the  Self,  he  delights
-In  the  Self,  and  having  performed  his  works  (truth-
-fulness, penance,  meditation,  &c.)  he  rests,  firmly
+In  the  Self,  and  having  performed  his  works  (truthfulness, penance,  meditation,  &c.)  he  rests,  firmly
 established  in  Brahman,  the  best  of  those  who  know
 Brahman  ^.
 
@@ -3915,8 +3678,7 @@ conducive  to  a  knowledge  of  Brahman.     Probably  truthfulness,
 
 Ill    MUiVDAKA,   I  KHANDA,   lO.  39
 
-5.  By  truthfulness,  indeed,  by  penance,  right  know-
-ledge, and  abstinence  must  that  Self  be  gained ;  the
+5.  By  truthfulness,  indeed,  by  penance,  right  knowledge, and  abstinence  must  that  Self  be  gained ;  the
 Self  whom  spotless  anchorites  gain  is  pure,  and  like
 a  light  within  the  body.
 
@@ -3944,8 +3706,7 @@ for  every  thought  of  men  is  interwoven  with  the
 senses,  and  when  thought  is  purified,  then  the  Self
 arises.
 
-10.  Whatever  state  a  man  whose  nature  is  puri-
-fied imagines,  and  whatever  desires  he  desires  (for
+10.  Whatever  state  a  man  whose  nature  is  purified imagines,  and  whatever  desires  he  desires  (for
 himself  or  for  others)^,  that  state  he  conquers  and
 
 penance,  &c.,  mentioned  in  the  next  following  verse,  are  the  kriyas
@@ -3971,8 +3732,7 @@ the  Self^
 
 Second  Khajvda.
 
-1.  He  (the  knower  of  the  Self)  knows  that  high-
-est home  of  Brahman^,  in  which  all  is  contained  and
+1.  He  (the  knower  of  the  Self)  knows  that  highest home  of  Brahman^,  in  which  all  is  contained  and
 shines  brightly.  The  wise  who,  without  desiring
 happiness,  worship  that  Person  ^  transcend  this  seed,
 (they  are  not  born  again.)
@@ -4011,11 +3771,9 @@ the  conditioned  Brahman  only.
 Ill    MUiVDAKA,   2  KHAA^DA,    lO,  4I
 
 away,  and  they  are  tranquil.  The  wise,  having
-reached  Him  who  is  omnipresent  everywhere,  de-
-voted to  the  Self,  enter  into  him  wholly.
+reached  Him  who  is  omnipresent  everywhere,  devoted to  the  Self,  enter  into  him  wholly.
 
-6.  Having  well  ascertained  the  object  of  the  know-
-ledge of  theVedanta^and  having  purified  their  nature
+6.  Having  well  ascertained  the  object  of  the  knowledge of  theVedanta^and  having  purified  their  nature
 by  the  Yoga^  of  renunciation,  all  anchorites,  enjoying
 the  highest  immortality,  become  free  at  the  time  of
 the  great  end  (death)  in  the  worlds  of  Brahma.
@@ -4023,8 +3781,7 @@ the  great  end  (death)  in  the  worlds  of  Brahma.
 7=  Their  fifteen  parts^  enter  into  their  elements,
 their  Devas  (the  senses)  into  their  (corresponding)
 Devas^  Their  deeds  and  their  Self  with  all  his
-knowledge  become  all  one  in  the  highest  Imperish-
-able.
+knowledge  become  all  one  in  the  highest  Imperishable.
 
 8.  As  the  flowing  rivers  disappear  in  the  sea^
 losing  their  name  and  their  form,  thus  a  wise  man,
@@ -4037,8 +3794,7 @@ of  Brahman.  He  overcomes  grief,  he  overcomes
 evil ;  free  from  the  fetters  of  the  heart,  he  becomes
 immortal.
 
-10.  And  this  is  declared  by  the  following  Rik-
-verse :  '  Let  a  man  tell  this  science  of  Brahman  to
+10.  And  this  is  declared  by  the  following  Rikverse :  '  Let  a  man  tell  this  science  of  Brahman  to
 those  only  who  have  performed  all  (necessary)  acts,
 who  are  versed  in  the  Vedas,  and  firmly  established
 in   (the  lower)  Brahman,  who  themselves  offer  as
@@ -4133,8 +3889,7 @@ together !    May  Vedic  light  belong  to  both  of  us  !
 
 Now  let  us  explain  the  Upanishad  (the  secret
 meaning)  of  the  union  {sa.mKita.y,  under  five  heads,
-with  regard  to  the  worlds,  the  heavenly  lights,  know-
-ledge, offspring,  and  self  (body).  People  call  these
+with  regard  to  the  worlds,  the  heavenly  lights,  knowledge, offspring,  and  self  (body).  People  call  these
 the  great  Sa;;2hitas.
 
 First,  with  regard  to  the  worlds.  The  earth  is
@@ -4167,8 +3922,7 @@ Next,  with  regard  to  offspring.     The  mother  is
 I   VALLI,  4  ANUVAKA,   2.  47
 
 the  former  element,  the  father  the  latter,  offspring
-their  union.  That  union  takes  place  through  pro-
-creation.    So  much  with  regard  to  offspring.
+their  union.  That  union  takes  place  through  procreation.    So  much  with  regard  to  offspring.
 
 4.  Next,  with  regard  to  the  self  (body).  The
 lower  jaw  is  the  former  element,  the  upper  jaw  the
@@ -4204,8 +3958,7 @@ that  the  Om  is  invoked,  the  most  powerful  syllable  of  the  Vedas,
 the  essence  extracted  from  all  the  Vedas,  and  in  the  end  a  name
 of  Brahman.     See  ^^and.  Up.  p.  i  seq.
 
-^  Here  end  the  prayers  for  the  attainment  of  wisdom,  to  be  fol-
-lowed by  oblations  for  the  attainment  of  happiness.
+^  Here  end  the  prayers  for  the  attainment  of  wisdom,  to  be  followed by  oblations  for  the  attainment  of  happiness.
 
 
 ^8  TAITTIRiVAKA-UPANISHAD.
@@ -4220,15 +3973,13 @@ peace,  Svdha!
 3.  May  I  be  a  glory  among  men,  Svaha!  May
 I  be  better  than  the  richest,  Svaha!  May  I  enter
 into  thee,  O  treasure  (Om),  Svaha!  Thou,  O
-treasure  ^  enter  into  me,  Svaha!  In  thee,  con-
-sisting of  a  thousand  branches,  in  thee,  O  treasure,
+treasure  ^  enter  into  me,  Svaha!  In  thee,  consisting of  a  thousand  branches,  in  thee,  O  treasure,
 I  am  cleansed,  Svaha  !  As  water  runs  downward,  as
 the  months  go  to  the  year,  so,  O  preserver  of  the
 world,  may  Brahman-students  always  come  to  me
 from  all  sides,  Svaha !
 
-(i)  Thou  art  a  refuge !  Enlighten  me  !  Take  pos-
-session of  me !
+(i)  Thou  art  a  refuge !  Enlighten  me  !  Take  possession of  me !
 
 Fifth  Anuvaka.
 
@@ -4266,8 +4017,7 @@ Suvas  is  the  Ya^us-verses.  .
 by  the  Brahman.
 
 (1-2)  Bhu  is  Pra;za  (up-breathing),  Bhuvas  is
-Apana  (down-breathing),  Suvas  is  Vyana  (back-
-breathing).  Mahas  is  food.  All  breathings  are
+Apana  (down-breathing),  Suvas  is  Vyana  (backbreathing).  Mahas  is  food.  All  breathings  are
 increased  by  food.
 
 Thus  there  are  these  four  times  four,  the  four  and
@@ -4290,8 +4040,7 @@ he  enters  Agni  (the  fire);  saying  Bhuvas,  he  enters
 Vayu  (air) ;
 
 2.  Saying  Suvas,  he  enters  Aditya  (sun) ;  saying
-Mahas,  he  enters  Brahman.  He  there  obtains  lord-
-ship, he  reaches  the  lord  of  the  mind.  He  becomes
+Mahas,  he  enters  Brahman.  He  there  obtains  lordship, he  reaches  the  lord  of  the  mind.  He  becomes
 lord  of  speech,  lord  of  sight,  lord  of  hearing,  lord  of
 knowledge.  Nay,  more  than  this.  There  is  the
 Brahman  whose  body  is  ether,  whose  nature  is  true,
@@ -4317,8 +4066,7 @@ stars,' — 'Water,  herbs,  trees,  ether,  the  universal  Self
 (bhuta).
 
 Now  with  reference  to  the  self  (the  body)  :  *  Frana.
-(up-breathing),  Apana  (down-breathing),  Vyana  (back-
-breathing),  Udana  (out-breathing),  and  Sama;^a  (on-
+(up-breathing),  Apana  (down-breathing),  Vyana  (backbreathing),  Udana  (out-breathing),  and  Sama;^a  (on-
 breathing),' — '  The  eye,  the  ear,  mind,  speech,  and
 touch,' — '  The  skin,  flesh,  muscle,  bone,  and  marrow.'
 Having  dwelt  on  this  (fivefold  arrangement  of  the
@@ -4340,8 +4088,7 @@ sing    Samans.      5.  After    Om    they   recite   hymns.
 
 7.  After    Om    the    Brahman-priest    gives    orders.
 
-8.  After  Om  he  (the  sacrificer)  allows  the  perform-
-ance of  the  Agnihotra.  9.  When  a  Brahma;/a  is
+8.  After  Om  he  (the  sacrificer)  allows  the  performance of  the  Agnihotra.  9.  When  a  Brahma;/a  is
 going  to  begin  his  lecture,  he  says,  10.  '  Om,  may
 I  acquire  Brahman  (the  Veda).'  He  thus  acquires
 the  Veda.
@@ -4357,8 +4104,7 @@ Ninth  Anuvaka^
 
 I.  (What  is  necessary?)  The  right,  and  learning
 and  practising  the  Veda.  The  true,  and  learning  and
-practising  the  Veda.  Penance,  and  learning  and  prac-
-tising the  Veda.  Restraint,  and  learning  and  practising
+practising  the  Veda.  Penance,  and  learning  and  practising the  Veda.  Restraint,  and  learning  and  practising
 the  Veda.  Tranquillity,  and  learning  and  practising
 the  Veda.  The  fires  (to  be  consecrated),  and  learning
 and  practising  the  Veda.  The  Agnihotra  sacrifice,
@@ -4368,14 +4114,12 @@ Man's  duty,  and  learning  and  practising  the  Veda.
 Children,  and  learning  and  practising  the  Veda.
 
 (1-6)  Marriage,  and  learning  and  practising  the
-Veda.  Children's  children,  and  learning  and  prac-
-tising the  Veda.
+Veda.  Children's  children,  and  learning  and  practising the  Veda.
 
 Satyava/'as  Rathitara  thinks  that  the  true  only
 is  necessary.  Taponitya  Paura^ish/i  thinks  that
 penance  only  is  necessary.  Naka  Maudgalya  thinks
-that  learning  and  practising  the  Veda  only  are  neces-
-sary,— for  that  is  penance,  that  is  penance.
+that  learning  and  practising  the  Veda  only  are  necessary,— for  that  is  penance,  that  is  penance.
 
 Tenth  Anuvaka.
 
@@ -4394,20 +4138,15 @@ have  been  previously  performed.
 E    2
 
 
-52
-
-
 TAITTIRiVAKA-UPANISHAD.
 
 
-4.  I  am  the  brightest  treasure.  5.  I  am  wise,  im-
-mortal, imperishable  V  6.  This  is  the  teaching  of
+4.  I  am  the  brightest  treasure.  5.  I  am  wise,  immortal, imperishable  V  6.  This  is  the  teaching  of
 the  Veda,  by  the  poet  Tri^aiiku.
 
 Eleventh  Anuvaka.
 
-1.  After  having  taught  the  Veda,  the  teacher  in-
-structs the  pupil :  '  Say  what  is  true !  Do  thy  duty !
+1.  After  having  taught  the  Veda,  the  teacher  instructs the  pupil :  '  Say  what  is  true !  Do  thy  duty !
 Do  not  neglect  the  study  of  the  Veda!  After
 having  brought  to  thy  teacher  his  proper  reward,
 do  not  cut  off  the  line  of  children !  Do  not  swerve
@@ -4463,8 +4202,7 @@ observed.'
 Twelfth  Anuvaka.
 
 I.  May  Mitra  be  propitious  to  us,  and  Varu;2a,
-Aryaman  also,  Indra,  Br/haspati,  and  the  wide-
-striding  Vish/m !  Adoration  to  Brahman !  Adora-
+Aryaman  also,  Indra,  Br/haspati,  and  the  widestriding  Vish/m !  Adoration  to  Brahman !  Adora-
 tion to  thee,  O  Vdyu !  Thou  indeed  art  the  visible
 Brahman.  I  proclaimed  thee  alone  as  the  visible
 Brahman.
@@ -4478,9 +4216,6 @@ Peace !  peace !  peace !
 Ind.  Stud.  II,  p.  216.
 
 
-54
-
-
 TAITTIRIYAKA-UPANISHAD.
 
 
@@ -4490,8 +4225,7 @@ Or,  the  Chapter  on  Ananda  (bliss).
 
 Hari/^,  Om!  May  it  (the  Brahman)  protect  us
 both  (teacher  and  pupil)!  May  it  enjoy  us  both!
-May  we  acquire  strength  together !  May  our  know-
-ledge become  bright!  May  we  never  quarrel!  Peace!
+May  we  acquire  strength  together !  May  our  knowledge become  bright!  May  we  never  quarrel!  Peace!
 peace !  peace  ^ !
 
 First  Anuvaka.
@@ -4535,14 +4269,12 @@ Second  Anuvaka.
 *  From  food  ^  are  produced  all  creatures  which
 d^vell  on  earth.  Then  they  live  by  food,  and  in  the
 end  they  return  to  food.  For  food  is  the  oldest  of
-all  beings,  and  therefore  it  is  called  panacea  (sar-
-vaushadha,  i.  e.  consisting  of  all  herbs,  or  quieting
+all  beings,  and  therefore  it  is  called  panacea  (sarvaushadha,  i.  e.  consisting  of  all  herbs,  or  quieting
 the  heat  of  the  body  of  all  beings).'
 
 They  who  worship  food  as  Brahman  ^,  obtain  all
 food.  For  food  is  the  oldest  of  all  beings,  and
-therefore  it  is  called  panacea.  From  food  all  crea-
-tures are  produced ;  by  food,  when  born,  they  grow.
+therefore  it  is  called  panacea.  From  food  all  creatures are  produced ;  by  food,  when  born,  they  grow.
 Because  it  is  fed  on,  or  because  it  feeds  on  beings,
 therefore  it  is  called  food  (anna).
 
@@ -4551,8 +4283,7 @@ of  food,  is  the  other,  the  inner  Self,  which  consists
 of  breath.  The  former  is  filled  by  this.  It  also
 has  the  shape  of  man.  Like  the  human  shape
 of  the  former  is  the  human  shape  of  the  latter.
-Pra/za  (up-breathing)  is  its  head.  Vyana  (back-
-breathing)  is  its  right  arm.  Apana  (down-breathing)
+Pra/za  (up-breathing)  is  its  head.  Vyana  (backbreathing)  is  its  right  arm.  Apana  (down-breathing)
 is  its  left  arm.  Ether  is  its  trunk.  The  earth
 the  seat  (the  support).
 
@@ -4576,8 +4307,7 @@ food,  live  by  food,  and  end  in  food,  which  food  is  Brahman.
 Third  Anuvaka.
 
 'The  Devas  breathe  after  breath  (pra;za),  so  do
-men  and  cattle.  Breath  is  the  hfe  of  beings,  there-
-fore it  is  called  sarvayusha  (all-enlivening).'
+men  and  cattle.  Breath  is  the  hfe  of  beings,  therefore it  is  called  sarvayusha  (all-enlivening).'
 
 They  who  worship  breath  as  Brahman,  obtain
 the  full  life.  For  breath  is  the  life  of  all  beings,  and
@@ -4591,8 +4321,7 @@ former  is  filled  by  this.  It  also  has  the  shape  of
 man.  Like  the  human  shape  of  the  former  is  the
 human  shape  of  the  latter.  Ya^s  is  its  head.  Rik
 is  its  right  arm.  Saman  is  its  left  arm.  The  doctrine
-(ade^a,  i.e.  the  Brahma;za)  is  its  trunk.  The  Athar-
-vaiigiras  (Atharva-hymns)  the  seat  (the  support).
+(ade^a,  i.e.  the  Brahma;za)  is  its  trunk.  The  Atharvaiigiras  (Atharva-hymns)  the  seat  (the  support).
 
 On  this  there  is  also  the  followine  6'loka :
 
@@ -4636,12 +4365,10 @@ body,  and  attains  all  his  wishes.'  The  embodied  Self
 of  this  (consisting  of  understanding)  is  the  same  as
 that  of  the  former  (consisting  of  mind).
 
-Different  from  this,  which  consists  of  understand-
-ing, is  the  other  inner  Self,  which  consists  of  bliss.
+Different  from  this,  which  consists  of  understanding, is  the  other  inner  Self,  which  consists  of  bliss.
 The  former  is  filled  by  this.  It  also  has  the  shape
 of  man.  Like  the  human  shape  of  the  former  is  the
-human  shape  of  the  latter.  Joy  is  its  head.  Satisfac-
-tion its  right  arm.  Great  satisfaction  is  its  left  arm.
+human  shape  of  the  latter.  Joy  is  its  head.  Satisfaction its  right  arm.  Great  satisfaction  is  its  left  arm.
 Bliss  is  its  trunk.   Brahman  is  the  seat  (the  support).
 
 On  this  there  is  also  the  following  ^Sloka :
@@ -4650,8 +4377,7 @@ Sixth  Anuvaka.
 
 *  He  who  knows  the  Brahman  as  non-existing,
 becomes  himself  non-existing.  He  who  knows  the
-Brahman  as  existing,  him  we  know  himself  as  exist-
-ing.' The  embodied  Self  of  this  (bliss)  is  the  same
+Brahman  as  existing,  him  we  know  himself  as  existing.' The  embodied  Self  of  this  (bliss)  is  the  same
 as  that  of  the  former  (understanding).
 
 Thereupon  follow  the  questions  of  the  pupil :
@@ -4673,10 +4399,8 @@ brooded,  he  sent  forth  (created)  all,  whatever  there
 is.  Having  sent  forth,  he  entered  into  it.  Having
 entered  it,  he  became  sat  (what  is  manifest)  and
 tyat  (what  is  not  manifest),  defined  and  undefined,
-supported  and  not  supported,  (endowed  with)  know-
-ledge and  without  knowledge  (as  stones),  real  and
-unreal  2.  The  Sattya  (true)  became  all  this  what-
-soever, and  therefore  the  wise  call  it  (the  Brahman)
+supported  and  not  supported,  (endowed  with)  knowledge and  without  knowledge  (as  stones),  real  and
+unreal  2.  The  Sattya  (true)  became  all  this  whatsoever, and  therefore  the  wise  call  it  (the  Brahman)
 Sat-tya  (the  true).
 
 On  this  there  is  also  this  .Sloka :
@@ -4706,8 +4430,7 @@ real  and  unreal.
 
 *  As  flavour  is  the  cause  of  pleasure,  so  Brahman  is  the  cause
 of  all  things.  The  wise  taste  the  flavour  of  existence,  and  know
-that  it  proceeds  from  Brahman,  the  Self-made.  See  Kaushitaki-
-upanishad  I,  5 ;  Sacred  Books,  vol.  i,  p.  277.
+that  it  proceeds  from  Brahman,  the  Self-made.  See  Kaushitakiupanishad  I,  5 ;  Sacred  Books,  vol.  i,  p.  277.
 
 
 II    VALLI,  8  ANUVAKA,    2.  59
@@ -4716,8 +4439,7 @@ man)  existed  not  in  the  ether  (in  the  heart)  ?  For
 he  alone  causes  blessedness.
 
 When  he  finds  freedom  from  fear  and  rest  in  that
-which  is  invisible,  incorporeal,  undefined,  unsup-
-ported, then  he  has  obtained  the  fearless.  For  if
+which  is  invisible,  incorporeal,  undefined,  unsupported, then  he  has  obtained  the  fearless.  For  if
 he  makes  but  the  smallest  distinction  in  it,  there
 is  fear  for  him^  But  that  fear  exists  only  for
 one  who  thinks  himself  wise^  (not  for.  the  true
@@ -4763,8 +4485,7 @@ knows  (a  difference),  and  does  not  know  the  oneness.'
 and  likewise  of  a  great  sage  (learned  in  the  Vedas)
 who  is  free  from  desires.
 
-One  hundred  times  that  bliss  of  human  Gan-
-dharvas  is  one  measure  of  the  bliss  of  divine
+One  hundred  times  that  bliss  of  human  Gandharvas  is  one  measure  of  the  bliss  of  divine
 Gandharvas  (genii),  and  likewise  of  a  great  sage
 who  is  free  from  desires.
 
@@ -4808,9 +4529,6 @@ One  hundred  times  that  bliss  of  Pra^apati  is  one
 II    VALLI,  8  ANUVAKA,   5.
 
 
-61
-
-
 measure  of  the  bliss  of  Brahman,  and  likewise  of
 a  great  sage  who  is  free  from  desires.
 
@@ -4824,8 +4542,7 @@ Upanishad  gives  us  at  the  same  time  the  various  classes  of  human
 and  divine  beings  which  we  must  suppose  were  recognised  in  his
 time.  We  have  Men,  human  Gandharvas,  divine  Gandharvas,
 Fathers  (pitaraj  ^iralokaloka^),  born  Gods  (a^ana^a  deva^),  Gods
-by  merit  (karmadeva/^),  Gods,  Indra,  Brz"haspati,  Pra^apati,  Brah-
-man. Such  a  list  would  seem  to  be  the  invention  of  an  individual
+by  merit  (karmadeva/^),  Gods,  Indra,  Brz"haspati,  Pra^apati,  Brahman. Such  a  list  would  seem  to  be  the  invention  of  an  individual
 rather  than  the  result  of  an  old  tradition,  if  it  did  not  occur  in  a  very
 similar  form  in  the  -Satapatha-brahmawa,  Madhyandina-^-akha  XIV,
 7,1,31,  Kawva-jakha  (Br?'h.  Ar.Up.IV,  3,32).  Here,  too, the  highest
@@ -4835,8 +4552,7 @@ happiness.  The  scale  begins  in  the  Madhyandina-jakha  with  men,
 who  are  followed  by  the  Fathers  (pitaro  ^italokdy^),  the  Gods  by
 merit  (karmadeva,;^),  the  Gods  by  birth  (a^anadeva/^,  with  whom
 the  -5'rotriya  is  joined),  the  world  of  Gods,  the  world  of  Gandharvas,
-the  world  of  Pra^-apati,  the  world  of  Brahman.  In  the  Briha-d-
-ara7/yaka-upanishad  we  have  Men,  Fathers,  Gandharvas,  Gods  by
+the  world  of  Pra^-apati,  the  world  of  Brahman.  In  the  Briha-dara7/yaka-upanishad  we  have  Men,  Fathers,  Gandharvas,  Gods  by
 merit,  Gods  by  birth,  Pra^apati,  and  Brahman.  If  we  place  the
 three  lists  side  by  side,  we  find —
 
@@ -4902,8 +4618,7 @@ The  commentators  do  not  help  us  much.    -Sahkara  on  the  Taitti-
 
 
 He  who  knows  this,  when  he  has  departed  this
-world,  reaches  and  comprehends  the  Self  which  con-
-sists of  food,  the  Self  which  consists  of  breath,  the
+world,  reaches  and  comprehends  the  Self  which  consists of  food,  the  Self  which  consists  of  breath,  the
 Self  which  consists  of  mind,  the  Self  which  consists
 of  understanding,  the  Self  which  consists  of  bliss.
 
@@ -4914,11 +4629,9 @@ have  become  Gandharvas,  a  kind  of  fairies ;  divine  Gandharvas,  as
 Gandharvas  by  birth.  The  Fathers  or  Manes  are  called  ^iraloka,
 because  they  remain  long,  though  not  for  ever,  in  their  world.  The
 a^ana^a  Gods  are  explained  as  born  in  the  world  of  the  Devas
-through  their  good  works  (smarta),  while  the  Karmadevas  are  ex-
-plained as  born  there  through  their  sacred  works  (vaidika).  The
+through  their  good  works  (smarta),  while  the  Karmadevas  are  explained as  born  there  through  their  sacred  works  (vaidika).  The
 Gods  are  the  thirty-three,  whose  lord  is  Indra,  and  whose  teacher
-BnTiaspati.  Pra^apati  is  Vira^,  Brahman  Hirawyagarbha.  Dvive-
-dagahga,  in  his  commentary  on  the  6'atapatha-brahma«a,  explains
+BnTiaspati.  Pra^apati  is  Vira^,  Brahman  Hirawyagarbha.  Dvivedagahga,  in  his  commentary  on  the  6'atapatha-brahma«a,  explains
 the  Fathers  as  those  who,  proceeding  on  the  Southern  path,  have
 conquered  their  world,  more  particularly  by  having  themselves
 offered  in  their  life  sacrifices  to  their  Fathers.  The  Karmadevas,
@@ -4926,16 +4639,14 @@ according  to  him,  are  those  who  have  become  Devas  by  sacred
 works  (jrauta),  the  A^anadevas  those  who  were  gods  before  there
 were  men.  The  Gods  are  Indra  and  the  rest,  while  the  Gandharvas
 are  not  explained.  Pra^apati  is  Vira^,  Brahman  is  Hira«yagarbha.
-Lastly,  6'ahkara,  in  his  commentary  on  the  Br/hadarawyaka-
-upanishad,  gives  nearly  the  same  explanation  as  before ;  only  that
+Lastly,  6'ahkara,  in  his  commentary  on  the  Br/hadarawyakaupanishad,  gives  nearly  the  same  explanation  as  before ;  only  that
 he  makes  a^anadeva/^  still  clearer,  by  explaining  them  as  gods
 a^-anata/^,  i.  e.  utpattita//,  from  their  birth.
 
 The  arrangement  of  these  beings  and  their  worlds,  one  rising
 above  the  other,  reminds  us  of  the  cosmography  of  the  Buddhists,
 but  the  elements,  though  in  a  less  systematic  form,  existed  evidently
-before.  Thus  we  find  in  the  so-called  Gargi-brahmawa  (^'atapatha-
-brahmawa  XIV,  6,  6,  i)  the  following  succession :  Water,  air,  ether^,
+before.  Thus  we  find  in  the  so-called  Gargi-brahmawa  (^'atapathabrahmawa  XIV,  6,  6,  i)  the  following  succession :  Water,  air,  ether^,
 the  worlds  of  the  sky^,  heaven,  sun,  moon,  stars,  gods,  Gandharvas c,
 Pra^apati,  Brahman.  In  the  Kaushitaki-upanishad  I,  3  (Sacred
 Books  of  the  East,  vol.  i,  p.  275)  there  is  another  series,  the  worlds
@@ -5083,8 +4794,7 @@ This  is  the  knowledge  of  Bhrigu  and  Varu7/a\
 exalted  in  the  highest  heaven  (in  the  heart).  He
 who  knows  this  becomes  exalted,  becomes  rich  in
 food,  and  able  to  eat  food  (healthy),  becomes  great
-by  offspring,  cattle,  and  the  splendour  of  his  know-
-ledge (of  Brahman),  great  by  fame.
+by  offspring,  cattle,  and  the  splendour  of  his  knowledge (of  Brahman),  great  by  fame.
 
 Seventh  Anuvaka.
 
@@ -5146,8 +4856,7 @@ meanly.
 
 2.  He  who  knows  this,  (recognises  and  worships
 Brahman  2)  as  possession  in  speech,  as  acquisition
-and  possession  in  up-breathing  (pra;^a)  and  down-
-breathing  (apana) ;  as  action  in  the  hands  ;  as  walking
+and  possession  in  up-breathing  (pra;^a)  and  downbreathing  (apana) ;  as  action  in  the  hands  ;  as  walking
 in  the  feet ;  as  voiding  in  the  anus.  These  are  the
 human  recognitions  (of  Brahman  as  manifested  in
 human  actions).     Next  follow  the  recognitions  (of
@@ -5160,23 +4869,20 @@ F   2
 68  TAITTIRtvAKA-UPANISHAD.
 
 
-Brahman)  with  reference  to  the  Devas,  viz.  as  satis-
-faction in  rain  ;  as  power  in  lightning ;
+Brahman)  with  reference  to  the  Devas,  viz.  as  satisfaction in  rain  ;  as  power  in  lightning ;
 
 3.  As  glory  in  cattle ;  as  light  in  the  stars  ;  as
 procreation,  immortality,  and  bliss  in  the  member ;
 as  everything  in  the  ether.  Let  him  worship  that
 (Brahman)  as  support,  and  he  becomes  supported.
 Let  him  worship  that  (Brahman)  as  greatness  (maha//),
-and  he  becomes  great.  Let  him  worship  that  (Brah-
-man) as  mind,  and  he  becomes  endowed  with  mind.
+and  he  becomes  great.  Let  him  worship  that  (Brahman) as  mind,  and  he  becomes  endowed  with  mind.
 
 4.  Let  him  worship  that  (Brahman)  as  adoration,
 and  all  desires  fall  down  before  him  in  adoration.
 Let  him  worship  that  (Brahman)  as  Brahman,  and
 he  will  become  possessed  of  Brahman.  Let  him
-worship  this  as  the  absorption  of  the  gods  ^  in  Brah-
-man, and  the  enemies  who  hate  him  will  die  all
+worship  this  as  the  absorption  of  the  gods  ^  in  Brahman, and  the  enemies  who  hate  him  will  die  all
 around  him,  all  around  him  will  die  the  foes  whom
 he  does  not  love.
 
@@ -5187,8 +4893,7 @@ that  (Brahman)  in  the  sun,  both  are  one.
 world,  after  reaching  and  comprehending  the  Self
 which  consists  of  food,  the  Self  which  consists  of
 breath,  the  Self  which  consists  of  mind,  the  Self
-which  consists  of  understanding,  the  Self  which  con-
-sists of  bliss,  enters  and  takes  possession  of  these
+which  consists  of  understanding,  the  Self  which  consists of  bliss,  enters  and  takes  possession  of  these
 worlds,  and  having  as  much  food  as  he  likes,  and
 assuming  as  many  forms  as  he  likes,  he  sits  down
 singing  this  Saman  (of  Brahman) :  '  Havu,  havu,
@@ -5249,8 +4954,7 @@ the  feet  days  and  nights,  the  bones  the  stars,  the
 ^  It  is  the  third  Adhyaya  of  the  Arawyaka,  but  the  first  of  the
 Upanishad.
 
-^  This  Brahmawa  is  found  in  the  Madhyandina  text  of  the  6'ata-
-patha,  ed.  Weber,  X,  6,  4.  Its  object  is  there  explained  by  the
+^  This  Brahmawa  is  found  in  the  Madhyandina  text  of  the  6'atapatha,  ed.  Weber,  X,  6,  4.  Its  object  is  there  explained  by  the
 commentary  to  be  the  meditative  worship  of  Vira^,  as  represented
 metaphorically  in  the  members  of  the  horse.  Sayawa  dispenses  with
 its  explanation,  because,  as  part  of  the  Br/hadara//yaka-upanishad,
@@ -5284,8 +4988,7 @@ sacrifice)  is  placed  before  the  horse.  Its  place  is  in
 the  Eastern  sea.  The  Night  arose  after  the  horse
 as  the  (silver)  vessel,  called  Mahiman,  which  (at  the
 sacrifice)  is  placed  behind  the  horse.  Its  place  is  in
-the  Western  sea.  Verily,  these  two  vessels  (or  great-
-nesses) arose  to  be  on  each  side  of  the  horse.
+the  Western  sea.  Verily,  these  two  vessels  (or  greatnesses) arose  to  be  on  each  side  of  the  horse.
 
 As  a  racer  he  carried  the  Devas,  as  a  stallion  the
 Gandharvas,  as  a  runner  the  Asuras,  as  a  horse  men.
@@ -5323,8 +5026,7 @@ was  concealed, — by  hunger ;  for  death  is  hunger.
 Death  (the  first  being)  thought,  '  Let  me  have  a
 body.'  Then  he  moved  about,  worshipping.  From
 him  thus  worshipping  water  was  produced.  And  he
-said  :  '  Verily,  there  appeared  to  me,  while  I  wor-
-shipped (ar/'ate),  water  (ka).'  This  is  why  water  is
+said  :  '  Verily,  there  appeared  to  me,  while  I  worshipped (ar/'ate),  water  (ka).'  This  is  why  water  is
 called  ar-ka\  Surely  there  is  water  (or  pleasure)
 for  him  who  thus  knows  the  reason  why  water  is
 called  arka.
@@ -5345,8 +5047,7 @@ found  in  the  -S'atapatha-brahma?/a,  Madhyandina-jakha  X,  6,  5,  and
 there  explained  as  a  description  of  Hirawyagarbha.
 
 ^  We  ought  to  read  arkasyarkatvam,  as  in  Foley's  edition,  or
-ark-kasyarkkatvam,  to  make  the  etymology  still  clearer.  The  com-
-mentator takes  arka  in  the  sense  of  fire,  more  especially  the  sacri-
+ark-kasyarkkatvam,  to  make  the  etymology  still  clearer.  The  commentator takes  arka  in  the  sense  of  fire,  more  especially  the  sacri-
 ficial fire  employed  at  the  Horse-sacrifice.  It  may  be  so,  but  the
 more  natural  interpretation  seems  to  me  to  take  arka  here  as  water,
 from  which  indirectly  fire  is  produced.  From  water  springs  the
@@ -5371,8 +5072,7 @@ legs  this  and  that  quarter  (i.e.  the  N.W.  and  S.W.)
 The  sides  were  the  Southern  and  Northern  quarters,
 the  back  heaven,  the  belly  the  sky,  the  dust  the
 earth.  Thus  he  (Mmyu,  as  arka)  stands  firm  in
-the  water,  and  he  who  knows  this  stands  firm  wher-
-ever he  goes.
+the  water,  and  he  who  knows  this  stands  firm  wherever he  goes.
 
 4.  He  desired ^  '  Let  a  second  body  be  born  of
 me,'  and  he  (Death  or  Hunger)  embraced  Speech
@@ -5419,25 +5119,21 @@ means  the  senses  (pra/^a).  Then  when  the  senses
 had  gone  out,  the  body  took  to  swelling  (^va-yitum),
 and  mind  was  in  the  body.
 
-7.  He  desired  that  this  body  should  be  fit  for  sacri-
-fice (medhya),  and  that  he  should  be  embodied  by  it.
+7.  He  desired  that  this  body  should  be  fit  for  sacrifice (medhya),  and  that  he  should  be  embodied  by  it.
 Then  he  became  a  horse  (ai'va),  because  it  swelled
 (ai'vat),  and  was  fit  for  sacrifice  (medhya) ;  and  this
 is  why  the  horse-sacrifice  is  called  A^va-medha.
 
-Verily  he  who  knows  him  thus,  knows  the  A^va-
-medha.  Then,  letting  the  horse  free,  he  thought^,
+Verily  he  who  knows  him  thus,  knows  the  A^vamedha.  Then,  letting  the  horse  free,  he  thought^,
 and  at  the  end  of  a  year  he  offered  it  up  for  himself,
 while  he  gave  up  the  (other)  animals  to  the  deities.
 Therefore  the  sacrificers  offered  up  the  purified
 horse  belonging  to  Pra^apati,  (as  dedicated)  to  all
 the  deities.
 
-Verily  the  shining  sun  is  the  Ai'vamedha-sacri-
-fice,  and  his  body  is  the  year ;  Agni  is  the  sacrificial
+Verily  the  shining  sun  is  the  Ai'vamedha-sacrifice,  and  his  body  is  the  year ;  Agni  is  the  sacrificial
 fire  (arka),  and  these  worlds  are  his  bodies.  These
-two  are  the  sacrificial  fire  and  the  A^vamedha-sacri-
-fice,  and  they  are  again  one  deity,  viz.  Death.  He
+two  are  the  sacrificial  fire  and  the  A^vamedha-sacrifice,  and  they  are  again  one  deity,  viz.  Death.  He
 (who  knows  this)  overcomes  another  death,  death
 does  not  reach  him,  death  is  his  Self,  he  becomes
 one  of  those  deities.
@@ -5453,12 +5149,10 @@ one  of  those  deities.
 
 Third  BRAHMAivA^.
 
-1.  There  were  two  kinds  of  descendants  of  Prac'"a-
-pati,  the  Devas  and  the  Asurasl  Now  the  Devas
+1.  There  were  two  kinds  of  descendants  of  Prac'"apati,  the  Devas  and  the  Asurasl  Now  the  Devas
 were  indeed  the  younger,  the  Asuras  the  elder  ones^
 The  Devas,  who  were  struggHng  in  these  worlds,
-said  :  'Well,  let  us  overcome  the  Asuras  at  the  sacri-
-fices (the  (9yotish/oma)  by  means  of  the  udgitha.'
+said  :  'Well,  let  us  overcome  the  Asuras  at  the  sacrifices (the  (9yotish/oma)  by  means  of  the  udgitha.'
 
 2.  They  said  to  speech  (Va/^)  :  *Do  thou  sing  out
 for  us  (the  udgitha).'  *  Yes,'  said  speech,  and  sang
@@ -5476,8 +5170,7 @@ in  saying  what  is  bad,  that  Is  that  evil.
 sang.  Whatever  delight  there  is  in  breath  (smell),
 that  he  obtained  for  the  Devas  by  singing ;  but  that
 he  smelled  well,  that  was  for  himself.  The  Asuras
-knew :  '  Verily,  through  this  singer  they  will  over-
-come us.'     They  therefore  rushed  at  the  singer,  and
+knew :  '  Verily,  through  this  singer  they  will  overcome us.'     They  therefore  rushed  at  the  singer,  and
 
 ^  Called  the  Udgitha-brahmawa.  In  the  INIadhyandina-jakha,
 the  Upanishad,  which  consists  of  six  adhyayas,  begins  with  this
@@ -5652,8 +5345,7 @@ Brz*hati  (Rig-veda),  and  he  is  her  lord;  therefore  he
 is  BWhaspati.
 
 21.  He  (breath)  is  also  Brahma/^aspati,  for  speech
-is  Brahman  (Ya^ur-veda),  and  he  is  her  lord ;  there-
-fore he  is  Brahma;^aspati.
+is  Brahman  (Ya^ur-veda),  and  he  is  her  lord ;  therefore he  is  Brahma;^aspati.
 
 He  (breath)  is  also  Saman  (the  Udgitha),  for
 speech  is  Saman  (Sama-veda),  and  that  is  both
@@ -5731,8 +5423,7 @@ from  darkness  to  light !  Lead  me  from  death  to
 immortality!'
 
 Now  when  he  says,  '  Lead  me  from  the  unreal  to
-the  real,'  the  unreal  is  verily  death,  the  real  immor-
-tality. He  therefore  says,  '  Lead  me  from  death  to
+the  real,'  the  unreal  is  verily  death,  the  real  immortality. He  therefore  says,  '  Lead  me  from  death  to
 immortality,  make  me  immortal.'
 
 When  he  says,  *  Lead  me  from  darkness  to  light,'
@@ -5740,8 +5431,7 @@ darkness  is  verily  death,  light  immortality.  He
 therefore  says, '  Lead  me  from  death  to  immortality,
 make  me  Immortal.'
 
-When  he  says,  '  Lead  me  from  death  to  immor-
-tality,' there  is  nothing  there,  as  it  were,  hidden
+When  he  says,  '  Lead  me  from  death  to  immortality,' there  is  nothing  there,  as  it  were,  hidden
 (obscure,  requiring  explanation)  \
 
 28.  Next  come  the  other  Stotras  with  which  the
@@ -5750,8 +5440,7 @@ Therefore  let  the  sacrificer,  while  these  Stotras  are
 being  sung,  ask  for  a  boon,  whatever  desire  he  may
 desire.  An  Udgatr^*  priest  who  knows  this  obtains
 by  his  singing  whatever  desire  he  may  desire  either
-for  himself  or  for  the  sacrificer.  This  (knowledge)  in-
-deed is  called  the  conqueror  of  the  worlds.  He  who
+for  himself  or  for  the  sacrificer.  This  (knowledge)  indeed is  called  the  conqueror  of  the  worlds.  He  who
 thus  knows  this  Saman  ^  for  him  there  is  no  fear  of
 his  not  being  admitted  to  the  worlds  ^
 
@@ -5811,8 +5500,7 @@ Boehtlingk,  Sanskrit  Chrestomathie,  p.  357.
 a  split  pea  is  of  a  whole.'  Brzgala  is  a  half  of  anything.  Muir
 (Orig.  Sansk.  Texts,  vol.  i,  p.  25)  translates  :  '  Ya^itavalkya  has  said
 that  this  one's  self  is  like  the  half  of  a  split  pea.'  I  have  translated
-the  sentence  according  to  Professor  Boehtlingk's  conjecture  (Chres-
-tomathie, 2nd  ed.  p.  357),  though  the  singular  after  the  dual  (sva/^)
+the  sentence  according  to  Professor  Boehtlingk's  conjecture  (Chrestomathie, 2nd  ed.  p.  357),  though  the  singular  after  the  dual  (sva/^)
 is  irregular.
 
 
@@ -5828,11 +5516,9 @@ myself
 She  then  became  a  cow,  the  other  became  a
 bull  and  embraced  her,  and  hence  cows  were  born.
 The  one  became  a  mare,  the  other  a  stallion ;  the
-one  a  male  ass,  the  other  a  female  ass.  He  em-
-braced her,  and  hence  one-hoofed  animals  were  born.
+one  a  male  ass,  the  other  a  female  ass.  He  embraced her,  and  hence  one-hoofed  animals  were  born.
 The  one  became  a  she-goat,  the  other  a  he-goat  ;
-the  one  became  a  ewe^  the  other  a  ram.  He  em-
-braced her,  and  hence  goats  and  sheep  were  born.
+the  one  became  a  ewe^  the  other  a  ram.  He  embraced her,  and  hence  goats  and  sheep  were  born.
 And  thus  he  created  everything  that  exists  in  pairs,
 down  to  the  ants.
 
@@ -5851,8 +5537,7 @@ that  god,'  each  god  is  but  his  manifestation,  for  he
 is  all  gods.
 
 Now,  whatever  there  is  moist,  that  he  created
-from  seed ;  this  is  Soma.  So  far  verily  is  this  uni-
-verse either  food  or  eater.  Soma  indeed  is  food,
+from  seed ;  this  is  Soma.  So  far  verily  is  this  universe either  food  or  eater.  Soma  indeed  is  food,
 Agni  eater.     This  is  the  highest  creation  of  Brah-
 
 
@@ -5865,8 +5550,7 @@ text.     See  Boehtlingk,  Chrestomathie,  p.  357.
 I  ADHYAYA,  4    BRAHMAiVA,    7.  StJ
 
 man,  when  he  created  the  gods  from  his  better  part\
-and  when  he,  who  was  (then)  mortal^,  created  the  im-
-mortals. Therefore  it  was  the  highest  creation.  And
+and  when  he,  who  was  (then)  mortal^,  created  the  immortals. Therefore  it  was  the  highest  creation.  And
 he  who  knows  this,  Hves  in  this  his  highest  creation,
 
 7.  Now  all  this  was  then  undeveloped.  It  became
@@ -5879,14 +5563,12 @@ He  (Brahman  or  the  Self)  entered  thither,  to  the
 very  tips  of  the  finger-nails,  as  a  razor  might  be
 fitted  in  a  razor-case,  or  as  fire  in  a  fire-place  ^
 
-He  cannot  be  seen,  for,  in  part  only,  when  breath-
-ing, he  is  breath  by  name;  when  speaking,  speech
+He  cannot  be  seen,  for,  in  part  only,  when  breathing, he  is  breath  by  name;  when  speaking,  speech
 by  name ;  when  seeing,  eye  by  name  ;  when  hearing,
 ear  by  name ;  when  thinking,  mind  by  name.  All
 these  are  but  the  names  of  his  acts.  And  he  who
 worships  (regards)  him  as  the  one  or  the  other,  does
-not  know  him,  for  he  is  apart  from  this  (when  quali-
-fied) by  the  one  or  the  other  (predicate).  Let  men
+not  know  him,  for  he  is  apart  from  this  (when  qualified) by  the  one  or  the  other  (predicate).  Let  men
 worship  him  as  Self,  for  in  the  Self  all  these  are  one.
 This  Self  is  the  footstep  of  everything,  for  through
 it  one  knows  everything^.  And  as  one  can  find
@@ -5897,8 +5579,7 @@ this  finds  glory  and  praise.
 
 "^  As  man  and  sacrificer.     Comm.
 
-^  The  Comm.  takes  asau-nama  as  a  compound,  instead  of  \dz.m-
-nama.  I  read  asau  nama,  he  is  this  by  name,  viz.  Devadatta,  &c.
+^  The  Comm.  takes  asau-nama  as  a  compound,  instead  of  \dz.mnama.  I  read  asau  nama,  he  is  this  by  name,  viz.  Devadatta,  &c.
 Dr.  Boehtlingk,  who  in  his  Chrestomathie  (2nd  ed.  p.  31)  had
 accepted  the  views  of  the  Commentator,  informs  me  that  he  has
 changed  his  view,  and  thinks  that  we  should  read  asau  nama.
@@ -5915,20 +5596,17 @@ one  finds  everything,  if  one  has  found  out  the  Self.'     Comm.
 Self,  is  clearer  than  a  son,  dearer  than  wealth,  dearer
 than  all  else.
 
-And  if  one  were  to  say  to  one  who  declares  an-
-other than  the  Self  dear,  that  he  will  lose  what  is  dear
+And  if  one  were  to  say  to  one  who  declares  another than  the  Self  dear,  that  he  will  lose  what  is  dear
 to  him,  very  likely  it  would  be  so.  Let  him  worship
 the  Self  alone  as  dear.  He  who  worships  the  Self
 alone  as  dear,  the  object  of  his  love  will  never  perish  ^
 
-9.  Here  they  say:  Tf  men  think  that  by  know-
-ledge of  Brahman  they  will  become  everything,  what
+9.  Here  they  say:  Tf  men  think  that  by  knowledge of  Brahman  they  will  become  everything,  what
 then  did  that  Brahman  know,  from  whence  all  this
 sprang  ? '
 
 10.  Verily  In  the  beginning  this  was  Brahman,  that
-Brahman  knew  (its)  Self  only,  saying,  '  I  am  Brah-
-man.' From  it  all  this  sprang.  Thus,  whatever
+Brahman  knew  (its)  Self  only,  saying,  '  I  am  Brahman.' From  it  all  this  sprang.  Thus,  whatever
 Deva  was  awakened  (so  as  to  know  Brahman),  he
 indeed  became  that  (Brahman);  and  the  same  with
 i^zshis  and  men.  The  i?/shi  Vamadeva  saw  and
@@ -5963,8 +5641,7 @@ Devas,  —  Indra,  Varu;^a,  Soma,  Rudra,  Par^anya,
 Yama,  Mmyu,  l^ana.  Therefore  there  is  nothing
 beyond  the  Kshatra,  and  therefore  at  the  Ra^asuya
 sacrifice  the  Brahma;za  sits  down  below  the  Kshatriya.
-He  confers  that  glory  on  the  Kshatra  alone.  But  Brah-
-man is  (nevertheless)  the  birth-place  of  the  Kshatra.
+He  confers  that  glory  on  the  Kshatra  alone.  But  Brahman is  (nevertheless)  the  birth-place  of  the  Kshatra.
 Therefore  though  a  king  is  exalted,  he  sits  down  at
 the  end  (of  the  sacrifice)  below  the  Brahman,  as  his
 birth-place.  He  who  injures  him,  injures  his  own
@@ -6023,8 +5700,7 @@ his  true  state,  his  work  does  not  perish,  for  whatever
 he  desires  that  he  gets  from  that  Self.
 
 16.  Now  verily  this  Self  (of  the  ignorant  man)  is
-the  world  ^  of  all  creatures.  In  so  far  as  man  sacri-
-fices and  pours  out  libations,  he  is  the  world  of  the
+the  world  ^  of  all  creatures.  In  so  far  as  man  sacrifices and  pours  out  libations,  he  is  the  world  of  the
 Devas ;  in  so  far  as  he  repeats  the  hymns,  &c.,  he  is
 the  world  of  the  i?/shis  ;  in  so  far  as  he  offers  cakes
 to  the  Fathers  and  tries  to  obtain  offspring,  he  is  the
@@ -6053,8 +5729,7 @@ Therefore  now  also  a  lonely  person  desires,  'Let
 there  be  a  wife  for  me  that  I  may  have  offspring,  and
 let  there  be  wealth  for  me  that  I  may  offer  sacrifices,'
 And  so  long  as  he  does  not  obtain  either  of  these
-things,  he  thinks  he  is  incomplete.  Now  his  com-
-pleteness (is  made  up  as  follows):  mind  is  his  self
+things,  he  thinks  he  is  incomplete.  Now  his  completeness (is  made  up  as  follows):  mind  is  his  self
 (husband);  speech  the  wife  ;  breath  the  child  ;  the
 eye  all  worldly  wealth,  for  he  finds  it  with  the  eye ;
 the  ear  his  divine  wealth,  for  he  hears  it  with  the
@@ -6115,8 +5790,7 @@ all  this,  whatsoever  breathes  and  breathes  not,  rests
 and  depends  on  milk.
 
 And  when  it  is  said  (in  another  Brahma;2a),  that
-a  man  who  sacrifices  with  milk  a  whole  year  ^,  over-
-comes death  again,  let  him  not  think  so.     No,  on
+a  man  who  sacrifices  with  milk  a  whole  year  ^,  overcomes death  again,  let  him  not  think  so.     No,  on
 
 
 ^  It  belongs  to  all  beings.
@@ -6148,15 +5822,12 @@ mouth.
 When  it  is  said,  that  'he  goes  even  to  the  Devas,
 he  lives  on  strength,'  that  is  meant  as  praise.
 
-3.  When  it  is  said,  that  'he  made  three  for  him-
-self,' that  means  that  he  made  mind,  speech,  and
+3.  When  it  is  said,  that  'he  made  three  for  himself,' that  means  that  he  made  mind,  speech,  and
 breath  for  himself.  As  people  say,  'My  mind  was
 elsewhere,  I  did  not  see  ;  my  mind  was  elsewhere,
 I  did  not  hear,'  it  is  clear  that  a  man  sees  with  his
-mind  and  hears  with  his  mind 2.  Desire,  representa-
-tion, doubt,  faith,  want  of  faith,  memory  ^  forgetful-
-ness,  shame,  reflexion,  fear,  all  this  is  mind.  There-
-fore even  if  a  man  is  touched  on  the  back,  he  knows
+mind  and  hears  with  his  mind 2.  Desire,  representation, doubt,  faith,  want  of  faith,  memory  ^  forgetful-
+ness,  shame,  reflexion,  fear,  all  this  is  mind.  Therefore even  if  a  man  is  touched  on  the  back,  he  knows
 it  through  the  mind.
 
 Whatever  sound  there  is,  that  is  speech.  Speech
@@ -6172,8 +5843,7 @@ by  itself.
 94  Bi^/HADARAiVYAKA-UPANISHAD.
 
 
-The  up-breathing,  the  down-breathing,  the  back-
-breathing,  the  out-breathing,  the  on-breathing,  all
+The  up-breathing,  the  down-breathing,  the  backbreathing,  the  out-breathing,  the  on-breathing,  all
 that  is  breathing  is  breath  (pra?2a)  only.  Verily
 that  Self  consists  of  it ;  that  Self  consists  of  speech,
 mind,  and  breath.
@@ -6208,8 +5878,7 @@ become  this,  protects  man.
 breath  is  unknown.  Breath,  having  become  this,
 protects  man  2.
 
-11.  Of  that  speech  (which  is  the  food  of  Pra^a-
-pati)  earth  is  the  body,  light  the  form,  viz.  this  fire.
+11.  Of  that  speech  (which  is  the  food  of  Pra^apati)  earth  is  the  body,  light  the  form,  viz.  this  fire.
 And  so  far  as  speech  extends,  so  far  extends  the
 earth,  so  far  extends  fire.
 
@@ -6236,8 +5905,7 @@ the  form,  viz.  this  moon.  And  so  far  as  this  breath
 extends,  so  far  extends  water,  so  far  extends  the
 moon.
 
-These  are  all  alike,  all  endless.  And  he  who  wor-
-ships them  as  finite,  obtains  a  finite  world,  but  he  who
+These  are  all  alike,  all  endless.  And  he  who  worships them  as  finite,  obtains  a  finite  world,  but  he  who
 worships  them  as  infinite,  obtains  an  infinite  world.
 
 14.  That  Pra^apati  is  the  year,  and  he  consists  of
@@ -6250,8 +5918,7 @@ in  the  morning.  Therefore  let  no  one  cut  off  the  life
 of  any  living  thing  on  that  night,  not  even  of  a  lizard,
 in  honour  (pu^artham)  of  that  deity.
 
-15.  Now  verily  that  Pra^apati,  consisting  of  six-
-teen digits,  who  is  the  year,  is  the  same  as  a  man
+15.  Now  verily  that  Pra^apati,  consisting  of  sixteen digits,  who  is  the  year,  is  the  same  as  a  man
 who  knows  this.  His  wealth  constitutes  the  fifteen
 digits,  his  Self  the  sixteenth  digit.  He  is  increased
 and  decreased  by  that  wealth.  His  Self  is  the  nave,
@@ -6308,8 +5975,7 @@ mind,  and  breath)  enter  into  him.
 etan  ma  sarvawz  sann  ayam  ito  'bhuna^ad  iti.
 
 "^  The  Comm.  derives  putra  from  pu  (pur),  to  fill,  and  tra  (tra),  to
-deliver,  a  deliverer  who  fills  the  holes  left  by  the  father,  a  stop-
-gap. Others  derive  it  from  put,  a  hell,  and  tra,  to  protect;  cf.
+deliver,  a  deliverer  who  fills  the  holes  left  by  the  father,  a  stopgap. Others  derive  it  from  put,  a  hell,  and  tra,  to  protect;  cf.
 Manu  IX,  138.
 
 *  '  The  manushya-loka,  not  the  pitrz-loka  and  deva-loka.'  Comm.
@@ -6339,8 +6005,7 @@ all  one^  (and  therefore  disappears).  Only  what  is
 good  approaches  him ;  verily,  evil  does  not  approach
 the  Devas.
 
-21.  Next  follows  the  consideration  of  the  observ-
-ances ^  (acts).  Pra^^pati  created  the  actions  (active
+21.  Next  follows  the  consideration  of  the  observances ^  (acts).  Pra^^pati  created  the  actions  (active
 senses).  When  they  had  been  created,  they  strove
 among  themselves.  Voice  held,  I  shall  speak ;  the
 eye  held,  I  shall  see ;  the  ear  held,  I  shall  hear ;
@@ -6393,8 +6058,7 @@ sets'  (he  verily  rises  from  the  breath,  and  sets  i'
 the  breath)
 
 '  Him  the  Devas  made  the  law,  he  only  is  to-day,
-and  he  to-morrow  also'  (whatever  these  Devas  de-
-termined then,  that  they  perform  to-day  also  ^).
+and  he  to-morrow  also'  (whatever  these  Devas  determined then,  that  they  perform  to-day  also  ^).
 
 Therefore  let  a  man  perform  one  observance  only
 let  him  breathe  up  and  let  him  breathe  down,  th?
@@ -6439,8 +6103,7 @@ lS  their  Brahman  (prayer),  for  it  supports  all  works.
 That  being  a  triad  is  one,  viz.  this  Self;   and  the
 Self,  being  one,  is  that  triad.     This  is  the  immortal,
 :overed  by  the  true.    Verily  breath  is  the  immortal,
-lame  and  form  are  the  true,  and  by  them  the  im-
-mortal is  covered.
+lame  and  form  are  the  true,  and  by  them  the  immortal is  covered.
 
 
 *  Madhyandina  text,  p.  1058.
@@ -6478,8 +6141,7 @@ the  perfect  knowledge  of  Brahman.  While  Gargya  worships  the
 Brahman  as  the  sun,  the  moon,  &c.,  as  limited,  as  active  and  passive,
 A^atai'atru  knows  the  Brahman  as  the  Self.
 
-^  Compare  with  this  the  fourth  Adhyaya  of  the  Kaushitaki-
-upanishad.  Sacred  Books  of  the  East,  vol.  i,  p.  300 ;  Gough,
+^  Compare  with  this  the  fourth  Adhyaya  of  the  Kaushitakiupanishad.  Sacred  Books  of  the  East,  vol.  i,  p.  300 ;  Gough,
 Philosophy  of  the  Upanishads,  p.  144.
 
 *  Son  of  Balaka,  of  the  race  of  the  Gargyas.
@@ -6505,35 +6167,30 @@ king.  Whoso  adores  him  thus,  becomes  supreme,
 the  head  of  all  beings,  a  king,'
 
 3.  Gargya  said :  '  The  person  that  is  in  the  moon
-(and  in  the  mind),  that  I  adore  as  Brahman.'  A^d-
-ta^atru  said  to  him  :  *  No,  no  !  Do  not  speak  to  me
+(and  in  the  mind),  that  I  adore  as  Brahman.'  A^dta^atru  said  to  him  :  *  No,  no  !  Do  not  speak  to  me
 on  this.  I  adore  him  verily  as  the  great,  clad  in
 white  raiment,  as  Soma,  the  king.'  Whoso  adores
 him  thus,  Soma  is  poured  out  and  poured  forth  for
 him  day  by  day,  and  his  food  does  not  fail  \
 
-4.  Gargya  said  :  '  The  person  that  is  in  the  light-
-ning (and  in  the  heart),  that  I  adore  as  Brahman.'
+4.  Gargya  said  :  '  The  person  that  is  in  the  lightning (and  in  the  heart),  that  I  adore  as  Brahman.'
 A^ata^atru  said  to  him  :  '  No,  no !  Do  not  speak  to
 me  on  this.  I  adore  him  verily  as  the  luminous.'
 Whoso  adores  him  thus,  becomes  luminous,  and  his
 offspring  becomes  luminous.
 
 5.  Gargya  said:  'The  person  that  is  in  the  ether
-(and  in  the  ether  of  the  heart),  that  I  adore  as  Brah-
-man.' A^ata^atru  said  to  him  :  '  No,  no !  Do  not
+(and  in  the  ether  of  the  heart),  that  I  adore  as  Brahman.' A^ata^atru  said  to  him  :  '  No,  no !  Do  not
 speak  to  me  on  this.  I  adore  him  as  what  is  full,
 and  quiescent'  Whoso  adores  him  thus,  becomes
 filled  with  offspring  and  cattle,  and  his  offspring  does
 not  cease  from  this  world.
 
 6.  Gdrgya  said  :  '  The  person  that  is  in  the  wind
-(and  in  the  breath),  that  I  adore  as  Brahman.'  A^a-
-ta.ratru  said  to  him  :  *  No,  no  !  Do  not  speak  to  me
+(and  in  the  breath),  that  I  adore  as  Brahman.'  A^ata.ratru  said  to  him  :  *  No,  no  !  Do  not  speak  to  me
 on  this.  I  adore  him  as  Indra  Vaiku;^///a,  as  the
 unconquerable  army  (of  the  Maruts).'  Whoso  adores
-him  thus,  becomes  victorious,  unconquerable,  con-
-quering his  enemies.
+him  thus,  becomes  victorious,  unconquerable,  conquering his  enemies.
 
 ^  We  miss  the  annasyatma,  the  Self  of  food,  mentioned  in  the
 Kaush.  Up.,  and  evidently  referred  to  in  the  last  sentence  of  our
@@ -6547,8 +6204,7 @@ I02  BiJ/HADARAiVYAKA-UPANISHAD.
 7.  Gargya  said  :  '  The  person  that  is  in  the  fire  (and
 in  the  heart),  that  I  adore  as  Brahman/  A^atai-atru
 said  to  him :  '  No,  no !  Do  not  speak  to  me  on  this.  I
-adore  him  as  powerful.'  Whoso  adores  him  thus,  be-
-comes powerful,  and  his  offspring  becomes  powerful.
+adore  him  as  powerful.'  Whoso  adores  him  thus,  becomes powerful,  and  his  offspring  becomes  powerful.
 
 8.  Gargya  said:  '  The  person  that  is  in  the  water
 (in  seed,  and  in  the  heart),  that  I  adore  as  Brahman.'
@@ -6567,8 +6223,7 @@ brilliant,  and  with  whomsoever  he  comes  together,
 he  outshines  them.
 
 10.  Gargya  said  :  '  The  sound  that  follows  a  man
-while  he  moves,  that  I  adore  as  Brahman.'  A^ata-
-i^atru  said  to  him  :  '  No,  no !  Do  not  speak  to  me
+while  he  moves,  that  I  adore  as  Brahman.'  A^atai^atru  said  to  him  :  '  No,  no !  Do  not  speak  to  me
 on  this.  I  adore  him  verily  as  life.'  Whoso  adores
 him  thus,  he  reaches  his  full  age  in  this  world,  breath
 does  not  leave  him  before  the  time.
@@ -6624,14 +6279,12 @@ great  one,  clad  in  white  raiment,  Soma,  King^'    He
 ^  '  In  the  Atman,  in  Pra^apati,  in  the  Buddhi,  and  in  the  heart.'
 Comm.
 
-2  It  is  difficult  to  know  what  is  meant  here  by  atman  and  atman-
-vin.  In  the  Kaush.  Up.  A^ita^atru  refers  to  Pra^apati,  and  the
+2  It  is  difficult  to  know  what  is  meant  here  by  atman  and  atmanvin.  In  the  Kaush.  Up.  A^ita^atru  refers  to  Pra^apati,  and  the
 commentator  here  does  the  same,  adding,  however,  buddhi  and
 hrt'd.  Gough  translates  atmanvin  by  'having  peace  of  mind.'
 Deussen,  p.  195,  passes  it  over.
 
-^  These  names  are  given  here  as  they  occur  in  the  Kaushitaki-
-upanishad,  not   as   in  the  Brzliadarawyaka-upanishad,  where   the
+^  These  names  are  given  here  as  they  occur  in  the  Kaushitakiupanishad,  not   as   in  the  Brzliadarawyaka-upanishad,  where   the
 
 
 104  BR^HADARAiVYAKA-UPANISHAD.
@@ -6640,8 +6293,7 @@ did  not  rise.     Then  rubbing  him  with  his  hand,  he
 woke  him,  and  he  arose.
 
 16.  A^atai-atru  said:  'When  this  man  was  thus
-asleep,  where  was  then  the  person  (purusha),  the  in-
-telhgent  ?  and  from  whence  did  he  thus  come  back?'
+asleep,  where  was  then  the  person  (purusha),  the  intelhgent  ?  and  from  whence  did  he  thus  come  back?'
 Gargya  did  not  know  this  ?
 
 f  1 7.  A^ata^atru  said  :  '  When  this  man  was  thus
@@ -6662,8 +6314,7 @@ a  great  king;  he  is,  as  it  were,  a  great  Brahma?2a  ;  he
 rises,  as  it  were,  and  he  falls.  And  as  a  great  king
 might  keep  in  his  own  subjects,  and  move  about,
 according  to  his  pleasure,  within  his  own  domain,
-thus  does  that  person  (who  is  endowed  with  intel-
-ligence) keep  in  the  various  senses  (pra;^as)  and  move
+thus  does  that  person  (who  is  endowed  with  intelligence) keep  in  the  various  senses  (pra;^as)  and  move
 about,  according  to  his  pleasure,  within  his  own  body
 (while  dreaming).
 
@@ -6755,16 +6406,13 @@ called  the  cup  having  its  mouth  below  and  its  bottom
 above  is  this  head,  for  its  mouth  (the  mouth)  is
 below,  its  bottom  (the  skull)  is  above.  When  it  is
 said  that  manifold  glory  has  been  placed  into  it,
-the  senses  verily  are  manifold  glory,  and  he  there-
-fore means  the  senses.  When  he  says  that  the
+the  senses  verily  are  manifold  glory,  and  he  therefore means  the  senses.  When  he  says  that  the
 seven  7?/shis  sit  on  its  lip,  the  ^zshis  are  verily  the
 (active)  senses,  and  he  means  the  senses.  And
-when  he  says  that  the  tongue  as  the  eighth  com-
-municates with  Brahman,  it  is  because  the  tongue,
+when  he  says  that  the  tongue  as  the  eighth  communicates with  Brahman,  it  is  because  the  tongue,
 as  the  eighth,  does  communicate  with  Brahman.
 
-4.  These  two  (the  two  ears)  are  the  i?/shis  Gau-
-tama and  Bharadvac^a ;  the  right  Gautama,  the  left
+4.  These  two  (the  two  ears)  are  the  i?/shis  Gautama and  Bharadvac^a ;  the  right  Gautama,  the  left
 Bharadv^_^a.  These  two  (the  eyes)  are  the  jRzshis
 Vii'vamitra  and  (9amadagni ;  the  right  Vii-vamitra,
 the  left  6^amadagni.  These  two  (the  nostrils)  are
@@ -6858,8 +6506,7 @@ from  the  world,  is  enjoined,  when  all  desires  cease,  and  no  duties
 are  to  be  performed  (Sawznyasa,  parivrS^ya).  The  story  is  told  again
 with  slight  variations  in  the  Bnliadarawyaka-upanishad  IV,  5.  The
 more  important  variations,  occurring  in  IV,  5,  are  added  here,  marked
-with  B.  There  are  besides  the  various  readings  of  the  Madhyandina-
-j^kha  of  the  6'atapatha-brahma?/a.   See  alsoDeussen,Vedanta,p.i85.
+with  B.  There  are  besides  the  various  readings  of  the  Madhyandinaj^kha  of  the  6'atapatha-brahma?/a.   See  alsoDeussen,Vedanta,p.i85.
 
 ^  In  BrzTi.Up.  IV,  5,  the  story  begins :  Ya^fiavalkya  had  two  wives,
 Maitreyi  and  Katyayani.  Of  these  Maitreyi  was  conversant  with
@@ -6930,22 +6577,18 @@ love  the  Devas ;  but  that  you  may  love  the  Self,
 therefore  the  Devas  are  dear\
 
 '  Verily,  creatures  are  not  dear,  that  you  may  love
-the  creatures  ;  but  that  you  may  love  the  Self,  there-
-fore are  creatures  dear.
+the  creatures  ;  but  that  you  may  love  the  Self,  therefore are  creatures  dear.
 
 '  Verily,  everything  is  not  dear  that  you  may  love
-everything ;  but  that  you  may  love  the  Self,  there-
-fore everything  is  dear.
+everything ;  but  that  you  may  love  the  Self,  therefore everything  is  dear.
 
 'Verily,  the  Self  is  to  be  seen,  to  be  heard,  to
 be  perceived,  to  be  marked,  O  Maitreyi !  When
 we  see,  hear,  perceive,  and  know  the  Self^  then
 all  this  is  known.
 
-6.  '  Whosoever  looks  for  the  Brahman-class  else-
-where than  in  the  Self,  was^  abandoned  by  the
-Brahman-class.  Whosoever  looks  for  the  Kshatra-
-class  elsewhere  than  in  the  Self,  was  abandoned  by
+6.  '  Whosoever  looks  for  the  Brahman-class  elsewhere than  in  the  Self,  was^  abandoned  by  the
+Brahman-class.  Whosoever  looks  for  the  Kshatraclass  elsewhere  than  in  the  Self,  was  abandoned  by
 the  Kshatra-class.  Whosoever  looks  for  the  worlds
 elsewhere  than  in  the  Self,  was  abandoned  by  the
 worlds.  Whosoever  looks  for  the  Devas  elsewhere
@@ -6991,10 +6634,8 @@ player  of  the  lute  ;
 10.  'As  clouds  of  smoke  proceed  by  themselves
 out  of  a  lighted  fire  kindled  with  damp  fuel,  thus,
 verily,  O  Maitreyi,  has  been  breathed  forth  from
-this  great  Being  what  we  have  as  i?/g-veda,  Ya^r-
-veda,  Sama-veda,  Atharvdngirasas,  Itihasa  (legends),
-Pura;2a  (cosmogonies),  Vidy^  (knowledge),  the  Upa-
-nishads,  ^'lokas  (verses),  Sutras  (prose  rules),  Anu-
+this  great  Being  what  we  have  as  i?/g-veda,  Ya^rveda,  Sama-veda,  Atharvdngirasas,  Itihasa  (legends),
+Pura;2a  (cosmogonies),  Vidy^  (knowledge),  the  Upanishads,  ^'lokas  (verses),  Sutras  (prose  rules),  Anu-
 vyakhyanas  (glosses),  Vyakhyanas  (commentaries)  ^
 From  him  alone  all  these  were  breathed  forth.
 
@@ -7023,14 +6664,12 @@ world  and  the  other  world,  and  all  creatures.
 
 out  again,  but  wherever  we  taste  (the  water)  it  is
 salt, — thus  verily,  O  Maitreyi,  does  this  great  Being,
-endless,  unlimited,  consisting  of  nothing  but  know-
-ledge \  rise  from  out  these  elements,  and  vanish  again
+endless,  unlimited,  consisting  of  nothing  but  knowledge \  rise  from  out  these  elements,  and  vanish  again
 in  them.  When  he  has  departed,  there  is  no  more
 knowledge  (name),  I  say,  O  Maitreyi.'  Thus  spoke
 Ya^;'^avalkya.
 
-13.  Then  Maitreyi  said:  'Here  thou  hast  be-
-wildered me,  Sir,  when  thou  sayest  that  having
+13.  Then  Maitreyi  said:  'Here  thou  hast  bewildered me,  Sir,  when  thou  sayest  that  having
 departed,  there  is  no  more  knowledge  V
 
 But  Ya^/^avalkya  replied :  'O  Maitreyi,  I  say  nothing
@@ -7055,8 +6694,7 @@ but  is  altogether  a  mass  of  knowledge.     B.
 ^  '  Here,  Sir,  thou  hast  landed  me  in  utter  bewilderment.  Indeed,
 I  do  not  understand  him.'     B,
 
-*  Verily,  beloved,  that  Self  is  imperishable,  and  of  an  inde-
-structible nature.     B.
+*  Verily,  beloved,  that  Self  is  imperishable,  and  of  an  indestructible nature.     B.
 
 *  B.  inserts,  one  tastes  the  other.
 ^  B.  inserts,  one  hears  the  other.
@@ -7104,8 +6742,7 @@ far  goes  immortality.'  Having  said  so,  Yag'Tlavalkya  went  away
 
 ^  Madhyandina  text,  p.  1064.
 
-^  Madhu,  honey,  seems  to  be  taken  here  as  an  instance  of  some-
-thing which  is  both  cause  and  effect,  or  rather  of  things  which  are
+^  Madhu,  honey,  seems  to  be  taken  here  as  an  instance  of  something which  is  both  cause  and  effect,  or  rather  of  things  which  are
 mutually  dependent  on  each  other,  or  cannot  exist  without  one
 other.  As  the  bees  make  the  honey,  and  the  honey  makes  or
 supports  the  bees,  bees  and  honey  are  both  cause  and  effect,
@@ -7147,8 +6784,7 @@ all  beings,  and  all  beings  are  the  honey  of  this
 space.  Likewise  this  bright,  immortal  person  in  this
 space,  and  that  bright,  immortal  person  existing  as
 the  ear  in  the  body  (both  are  madhu).  He  indeed
-is  the  same  as  that  Self,  that  Immortal,  that  Brah-
-man, that  All.
+is  the  same  as  that  Self,  that  Immortal,  that  Brahman, that  All.
 
 7.  This  moon  is  the  honey  of  all  beings,  and  all
 beings  are  the  honey  of  this  moon.  Likewise  this
@@ -7225,8 +6861,7 @@ indeed  is  the  same  as  that  Self,  that  Immortal,  that
 Brahman,  that  All.
 
 15.  And  verily  this  Self  is  the  lord  of  all  beings,
-the  king  of  all  beings.  And  as  all  spokes  are  con-
-tained in  the  axle  and  in  the  felly  of  a  wheel,  all
+the  king  of  all  beings.  And  as  all  spokes  are  contained in  the  axle  and  in  the  felly  of  a  wheel,  all
 beings,  and  all  those  selfs  (of  the  earth,  water,  &c.)
 are  contained  in  that  Self.
 
@@ -7286,8 +6921,7 @@ yoked,  hundreds  and  ten.'
 
 This  (Atman)  is  the  horses,  this  (Atman)  is  the
 ten,  and  the  thousands,  many  and  endless.  This  is
-the  Brahman,  without  cause  and  without  effect,  with-
-out anything  inside  or  outside  ;  this  jelf  is  Brahman,
+the  Brahman,  without  cause  and  without  effect,  without anything  inside  or  outside  ;  this  jelf  is  Brahman,
 omnipresent  and  omniscient.  This  is  the  teaching
 (of  the  Upanishads).
 
@@ -7298,8 +6932,7 @@ the  pravarg-ya  rite.  The  knowledge  of  this  rite  forms  the  honey
 of  Tvash/n".  The  other  honey  which  is  to  be  kept  secret  is  the
 knowledge  of  the  Self,  as  taught  before  in  the  Madhu-brahma;za.
 
-^  He  assumed  all  forms,  and  such  forms,  as  two-footed  or  four-
-footed  animals,  remained  permanent.    Comm.
+^  He  assumed  all  forms,  and  such  forms,  as  two-footed  or  fourfooted  animals,  remained  permanent.    Comm.
 
 
 Il8  BiJ/riADARAiVYAKA-UPANISHAD.
@@ -7353,13 +6986,11 @@ A  A
 ^  The  line  of  teachers  and  pupils  by  whom  the  Madhukaw^a
 (the  fourth  Brahmawa)  was  handed  down.  The  Madhyandina-jakha
 begins  with  ourselves,  then  i.  .Saurpawayya,  2.  Gautama,  3.  Vatsya,
-4.  Vatsya  and  Paraj-arya,  5.  Sahkrztya  and  Bharadva^a,  6.  Auda-
-vahi  and  S3.?idi\ya,  7.  Vai^avapa  and  Gautama,  8.  Vai_^avapayana
+4.  Vatsya  and  Paraj-arya,  5.  Sahkrztya  and  Bharadva^a,  6.  Audavahi  and  S3.?idi\ya,  7.  Vai^avapa  and  Gautama,  8.  Vai_^avapayana
 and  Vaish/apureya,  9.  6"a«(5?ilya  and  Rauhiwayana,  10.  -Saunaka,
 Atreya,  and  Raibhya,  11.  Pautimashyayawa  and  Kauwo^inyayana,
 12.  Kauwfi^inya,  13.  Kanndinya.,  14.  Kaundinya.  and  Agnivejya,
-15.  Saitava,  16.  Parajarya,  17.  6^atukar«ya,  18.  Bharadva^a,  19.  Bha-
-radva^a,  Asurayawa,  and  Gautama,  20.  Bharadva^a,  2 1 .  Vai^avapa-
+15.  Saitava,  16.  Parajarya,  17.  6^atukar«ya,  18.  Bharadva^a,  19.  Bharadva^a,  Asurayawa,  and  Gautama,  20.  Bharadva^a,  2 1 .  Vai^avapa-
 y.ana.  Then  the  same  as  the  Kawvas  to  G'atukarwya,  who  learns
 from  Bharadva^'a,  who  learns  from  Bharadva^a,  Asurayawa,  and
 Yaska.     Then  Traiva«i  &c.  as  in  the  Ka«va-va;«ja.
@@ -7409,8 +7040,7 @@ Vatsya  from  ^a/^rt'ilya,
 
 39.  Galava  from  Vidarbhi-kau;^«'inya,
 
-40.  Vidarbhi  -  kau;^rt'inya    from    Vatsanapat    Ba-
-bhrava,
+40.  Vidarbhi  -  kau;^rt'inya    from    Vatsanapat    Babhrava,
 
 41.  Vatsanapat  Babhrava  from  Pathi  Saubhara,
 
@@ -7483,8 +7113,7 @@ First  BRAHMAiVA  \
 
 Adoration  to  the  Highest  Self  (Paramatman) !
 
-1.  6^anaka  Vaideha  (the  king  of  the  Videhas)  sacri-
-ficed with  a  sacrifice  at  which  many  presents  were
+1.  6^anaka  Vaideha  (the  king  of  the  Videhas)  sacrificed with  a  sacrifice  at  which  many  presents  were
 offered  to  the  priests  of(the  Ai-vamedha).  Brahma/^as
 of  the  Kurus  and  the  Paw/^alas  had  come  thither,
 and  6^anaka  Vaideha  wished  to  know,  which  of  those
@@ -7513,8 +7142,7 @@ Vaideha.     He    asked   him:    'Are    you   indeed    the
 "  Pala/^aturbhaga//  pada/^  suvarwasya.     Comm.
 
 ^  One  expects  iti  after  uda^a,  but  Sama^ravas  is  applied  to
-Ya^ilavalkya,  and  not  to  the  pupil.  Yao-ftavalkya,  as  the  com-
-mentator observes,  was  properly  a  teacher  of  the  Ya^ir-veda,  but
+Ya^ilavalkya,  and  not  to  the  pupil.  Yao-ftavalkya,  as  the  commentator observes,  was  properly  a  teacher  of  the  Ya^ir-veda,  but
 as  the  pupil  calls  him  Sama>rravas,  he  shows  that  Ya^ilavalkya
 knew  all  the  four  Vedas,  because  the  Samans  are  taken  from  the
 Rig-veda,  and  the  Atharva-veda  is  contained  in  the  other  three
@@ -7532,16 +7160,14 @@ but  I  wish  indeed  to  have  these  cows.'
 Then  A^vala,  the  Hotri  priest,  undertook  to
 question  him.
 
-3.  '  Ya^//avalkya,'  he  said,  '  everything  here  (con-
-nected with  the  sacrifice)  is  reached  by  death,  every-
+3.  '  Ya^//avalkya,'  he  said,  '  everything  here  (connected with  the  sacrifice)  is  reached  by  death,  every-
 thing is  overcome  by  death.  By  what  means  then
 is  the  sacrificer  freed  beyond  the  reach  of  death  ?'
 
 Ya^;^avalkya  said :  '  By  the  Viotri  priest,  who  is
 Agni  (fire),  who  is  speech.  For  speech  is  the  Hotri
 of  the  sacrifice  (or  the  sacrificer),  and  speech  is
-Agni,  and  he  is  the  Hot?^.  This  constitutes  free-
-dom, and  perfect  freedom  (from  death).'
+Agni,  and  he  is  the  Hot?^.  This  constitutes  freedom, and  perfect  freedom  (from  death).'
 
 4.  '  Ya^/^avalkya,'  he  said,  '  everything  here  is
 reached  by  day  and  night,  everything  is  overcome  by
@@ -7582,8 +7208,7 @@ does  the  sacrificer  approach  the  Svarga  world  ? '
 Ya^;^avalkya  said  :  '  By  the  Brahman  priest,  who
 is  the  mind  (manas),  who  is  the  moon.  For  the
 mind  is  the  Brahman  of  the  sacrifice,  and  the  mind
-is  the  moon,  and  he  is  the  Brahman.  This  consti-
-tutes freedom,  and  perfect  freedom.  These  are  the
+is  the  moon,  and  he  is  the  Brahman.  This  constitutes freedom,  and  perfect  freedom.  These  are  the
 complete  deliverances  (from  death).'
 
 Next  follow  the  achievements.
@@ -7630,8 +7255,7 @@ the  Deva  (god)  world,  for  the  Deva  world  flames
 up,  as  it  were.  By  those  which,  when  offered,  make
 an  excessive  noise,  he  gains  the  Pit;V  (father)  world,
 for  the  Vitrz  world  is  excessively  (noisy)  ^  By  those
-which,  when  offered,  sink  down,  he  gains  the  Manu-
-shya  (man)  world,  for  the  Manushya  world  is,  as  it
+which,  when  offered,  sink  down,  he  gains  the  Manushya  (man)  world,  for  the  Manushya  world  is,  as  it
 were,  down  below.'
 
 9.  '  Yac^/lavalkya,'  he  said,  '  with  how  many  deities
@@ -7682,8 +7306,7 @@ Second  Brahmaa^a^
 
 A
 
-1 .  Then  Caratkirava  Artabhaora  ^  asked.  '  Yai?77a-
-valkya,'  he  said,  'how  many  Grahas  are  there,  and
+1 .  Then  Caratkirava  Artabhaora  ^  asked.  '  Yai?77avalkya,'  he  said,  'how  many  Grahas  are  there,  and
 how  many  Atigrahas  ^  ? '
 
 '  Eight  Grahas,'  he  repHed, '  and  eight  Atigrahas.'
@@ -7735,8 +7358,7 @@ by  work  as  the  Atigraha,  for  with  the  arms  one
 works  work.'
 
 9.  '  The  skin  is  one  Graha,  and  that  is  seized  by
-touch  as  the  Atigraha,  for  with  the  skin  one  per-
-ceives touch.  These  are  the  eight  Grahas  and  the
+touch  as  the  Atigraha,  for  with  the  skin  one  perceives touch.  These  are  the  eight  Grahas  and  the
 eight  Atigrahas.'
 
 10.  '  Ya^i^avalkya,'  he  said, '  everything  is  the  food
@@ -7784,8 +7406,7 @@ of  ours  not  be  (discussed)  in  public'  Then  these
 two  went  out  and  argued,  and  what  they  said  was
 karman  (work),  what  they  praised  was  karman  ^,
 viz.  that  a  man  becomes  good  by  good  work,  and
-bad  by  bad  work.  After  that  6^aratkarava  Arta-
-bhaga  held  his  peace.
+bad  by  bad  work.  After  that  6^aratkarava  Artabhaga  held  his  peace.
 
 Third  BRAHMAivA^.
 
@@ -7804,16 +7425,14 @@ were  the  Parikshitas  .'*'
 that  they  went  where  those  go  who  have  performed
 a  horse-sacrifice.'
 
-He  said:  'And  where  do  they  go  who  have  per-
-formed a  horse-sacrifice  ?'
+He  said:  'And  where  do  they  go  who  have  performed a  horse-sacrifice  ?'
 
 ^  What  is  intended  is  that  the  sa?;zsara^  continues  by  means  of
 karman,  while  karman  Jjy  itself  never  leads  to  moksha.
 
 ^  Madhyandina  text,  p.  1070.
 
-''  The  commentator  explains  .^araka/2  as  adhyayanarthaw  vrata-
-k?irznik  /Jaraka/2,  adhvaryavo  va.  See  Professor  R.  G.  Bhandarkar,
+''  The  commentator  explains  .^araka/2  as  adhyayanarthaw  vratak?irznik  /Jaraka/2,  adhvaryavo  va.  See  Professor  R.  G.  Bhandarkar,
 in  Indian  Antiquary,  1883,  p.  145.
 
 *  An  old  royal  race,  supposed  to  have  vanished  from  the  earth.
@@ -7831,8 +7450,7 @@ edge  of  a  razor  or  the  wing  of  a  mosquito.  Indra,
 having  become  a  bird,  handed  them  (through  the
 space)  to  Vayu  (the  air),  and  Vayu  (the  air),  holding
 them  within  himself,  conveyed  them  to  where  they
-dwell  who  have  performed  a  horse-sacrifice.  Some-
-what in  this  way  did  he  praise  Vayu  indeed.  There-
+dwell  who  have  performed  a  horse-sacrifice.  Somewhat in  this  way  did  he  praise  Vayu  indeed.  There-
 fore Vayu  (air)  is  everything  by  itself,  and  Vayu  is
 all  things  together.  He  who  knows  this,  conquers
 death.'  After  that  Bhu^yu  Lahyayani  held  his
@@ -7840,8 +7458,7 @@ peace.
 
 Fourth  BRAHMAiVA  ^.
 
-T.  Then  Ushasta  ATakraya^^a  asked.  'Y^^;'^aval-
-kya,'  he  said,  '  tell  me  the  Brahman  which  is  visible,
+T.  Then  Ushasta  ATakraya^^a  asked.  'Y^^;'^avalkya,'  he  said,  '  tell  me  the  Brahman  which  is  visible,
 not  invisible^,  the  Self  (atman),  who  is  within  all.'
 
 Ya^;'^avalkya  replied :  '  This,  thy  Self,  who  is
@@ -7882,15 +7499,13 @@ within  all.'
 
 Ya^;^avalkya  replied :  '  Thou  couldst  not  see  the
 (true)  seer  of  sight,  thou  couldst  not  hear  the  (true)
-hearer  of  hearing,  nor  perceive  the  perceiver  of  per-
-ception, nor  know  the  knower  of  knowledge.  This
+hearer  of  hearing,  nor  perceive  the  perceiver  of  perception, nor  know  the  knower  of  knowledge.  This
 is  thy  Self,  who  is  within  all.  Everything  also  is  of
 evil.'   After  that  Ushasta  A!akraya;^a  held  his  peace.
 
 Fifth  Brahmaa^a^
 
-I.  Then  Kahola  Kaushitakeya  asked.  'Ykgn2i-
-valkya,'  he  said,  'tell  me  the  Brahman  which  is  visible,
+I.  Then  Kahola  Kaushitakeya  asked.  'Ykgn2ivalkya,'  he  said,  'tell  me  the  Brahman  which  is  visible,
 not  invisible,  the  Self  (atman),  who  is  within  all.'
 
 Ya^;1avalkya  replied :  '  This,  thy  Self,  who  is
@@ -7904,8 +7519,7 @@ When  Brahma;^as  know  that  Self,  and  have  risen
 above  the  desire  for  sons^,  wealth,  and  (new)  worlds  ^,
 they  wander  about  as  mendicants.  For  a  desire  for
 sons  is  desire  for  wealth,  a  desire  for  wealth  is  desire
-for  worlds.  Both  these  are  indeed  desires.  There-
-fore let  a  Brahma7za,  after  he  has  done  with  learning,
+for  worlds.  Both  these  are  indeed  desires.  Therefore let  a  Brahma7za,  after  he  has  done  with  learning,
 
 ^  Madhyandina  text, p.  107 1, standing  before  the  fourth  Brahmawa.
 
@@ -7922,8 +7536,7 @@ wish  to  Stand  by  real  strength  ^ ;  after  he  has  done
 with  that  strength  and  learning,  he  becomes  a  Muni
 (a  Yogin) ;  and  after  he  has  done  with  what  is  not
 the  knowledge  of  a  Muni,  and  with  what  is  the
-knowledge  of  a  Muni,  he  is  a  Brahma?za.  By  what-
-ever means  he  has  become  a  Brahma;/a,  he  is  such
+knowledge  of  a  Muni,  he  is  a  Brahma?za.  By  whatever means  he  has  become  a  Brahma;/a,  he  is  such
 indeed  ^.  Everything  else  is  of  evil.'  After  that
 Kahola  Kaushitakeya  held  his  peace.
 
@@ -7952,16 +7565,13 @@ other  knowledge.
 ^  Mr.  Gough  proposes  as  an  alternative  rendering :  '  Let  a
 Brahmawa  renounce  learning  and  become  as  a  child ;  and  after
 renouncing  learning  and  a  childlike  mind,  let  him  become  a
-quietist;  and  when  he  has  made  an  end  of  quietism  and  non-
-quietism,  he  shall  become  a  Brahmawa,  a  Brahma7;a  indeed,'
+quietist;  and  when  he  has  made  an  end  of  quietism  and  nonquietism,  he  shall  become  a  Brahmawa,  a  Brahma7;a  indeed,'
 Deussen  takes  a  similar  view,  but  I  doubt  whether  'the  knowledge
 of  babes'  is  not  a  Christian  rather  than  an  Indian  idea,  in  spite  of
 ^Sahkara's  remarks  on  Ved.  Siitra,  III,  4,  50,  which  are  strangely  at
-variance  with  his  commentary  here.  Possibly  the  text  may  be  cor-
-rupt, for  tishZ/zaset  too  is  a  very  peculiar  form.  We  might  conjecture
+variance  with  his  commentary  here.  Possibly  the  text  may  be  corrupt, for  tishZ/zaset  too  is  a  very  peculiar  form.  We  might  conjecture
 balyena,  as  we  have  abalyam,  in  IV,  4,  i.  In  Kaush.  Up.  Ill,  3,
-abalyam  stands  for  abalyam,  possibly  for  abalyam.  The  construc-
-tion of  kena  syad  yena  syat  tenedrwa  eva,  however,  is  well  known.
+abalyam  stands  for  abalyam,  possibly  for  abalyam.  The  construction of  kena  syad  yena  syat  tenedrwa  eva,  however,  is  well  known.
 
 ^  Madhyandina  text,  p.  1072.
 
@@ -8134,8 +7744,7 @@ whose  body  the  space  is,  and  who  pulls  (rules)  the
 space  within,  he  is  thy  Self,  the  puller  (ruler)  within,
 the  immortal.'
 
-11.  'He  who  dwells  in  the  moon  and  stars  (/^an-
-dra-tarakam),  and  within  the  moon  and  stars,  whom
+11.  'He  who  dwells  in  the  moon  and  stars  (/^andra-tarakam),  and  within  the  moon  and  stars,  whom
 the  moon  and  stars  do  not  know,  whose  body  the
 moon  and  stars  are,  and  who  pulls  (rules)  the  moon
 and  stars  within,  he  is  thy  Self,  the  puller  (ruler)
@@ -8223,8 +7832,7 @@ within,  he  is  thy  Self,  the  puller  (ruler)  within,
 the  immortal ;  unseen,  but  seeing ;  unheard,  but
 hearing  ;  unperceived,  but  perceiving ;  unknown,  but
 knowing.  There  is  no  other  seer  but  he,  there
-is  no  other  hearer  but  he,  there  is  no  other  per-
-ceiver  but  he,  there  is  no  other  knower  but  he.
+is  no  other  hearer  but  he,  there  is  no  other  perceiver  but  he,  there  is  no  other  knower  but  he.
 This  is  thy  Self,  the  ruler  within,  the  immortal.
 Everything  else   is  of  evil.'     After  that  Uddalaka
 
@@ -8293,8 +7901,7 @@ warp  and  woof?'
 8.  He  said :  '  O  Gargi,  the  Brahma/^as  call  this
 the  Akshara  (the  imperishable).  It  is  neither  coarse
 nor  fine,  neither  short  nor  long,  neither  red  (like  fire)
-nor  fluid  (like  water) ;  it  is  without  shadow,  with-
-out  darkness,   without   air,  without    ether,  without
+nor  fluid  (like  water) ;  it  is  without  shadow,  without  darkness,   without   air,  without    ether,  without
 
 
 ^  Deussen,  p.  143,  translates,  'between  heaven  and  earth,'  but
@@ -8313,13 +7920,11 @@ mouth  (or  door),  without  measure,  having  no  within
 and  no  without,  it  devours  nothing,  and  no  one
 devours  it.'
 
-9.  '  By  the  command  of  that  Akshara  (the  im-
-perishable), O  Gargi,  sun  and  moon  stand  apart  I
+9.  '  By  the  command  of  that  Akshara  (the  imperishable), O  Gargi,  sun  and  moon  stand  apart  I
 By  the  command  of  that  Akshara,  O  Gargi,-
 heaven  and  earth  stand  apart.  By  the  command  of
 that  Akshara,  O  Gargi,  what  are  called  moments
-(nimesha),  hours  (muhurta),  days  and  nights,  half-
-months,  months,  seasons,  years,  all  stand  apart.
+(nimesha),  hours  (muhurta),  days  and  nights,  halfmonths,  months,  seasons,  years,  all  stand  apart.
 By  the  command  of  that  Akshara,  O  Gargi,  some
 rivers  flow  to  the  East  from  the  white  mountains,
 others  to  the  West,  or  to  any  other  quarter.  By
@@ -8329,16 +7934,14 @@ fathers  the  Darvi-offering.'
 
 10.  'Whosoever,  O  Gargi,  without  knowing  that
 Akshara  (the  imperishable),  offers  oblations  in  this
-world,  sacrifices,  and  performs  penance  for  a  thou-
-sand years,  his  work  will  have  an  end.  Whosoever,
+world,  sacrifices,  and  performs  penance  for  a  thousand years,  his  work  will  have  an  end.  Whosoever,
 O  Gargi,  without  knowing  this  Akshara,  departs  this
 world,  he  is  miserable  (like  a  slave)  ^  But  he,  O
 Gargi,  who  departs  this  world,  knowing  this  Akshara,
 he  is  a  Brahma;^a.'
 
 11.  'That  Brahman,'  O  Gargi,  'is  unseen,  but
-seeing ;  unheard,  but  hearing ;  unperceived,  but  per-
-ceiving ;  unknown,  but  knowing.     There  is  nothing
+seeing ;  unheard,  but  hearing ;  unperceived,  but  perceiving ;  unknown,  but  knowing.     There  is  nothing
 
 ^  Not  adhering  to  anything,  Uke  lac  or  gum.
 ^  Each  follows  its  own  course.
@@ -8382,15 +7985,13 @@ occurs  in  a  simpler  form  in  the  6'atapatha-brahma«a,  XI,  p.  873.
 He  is  here  represented  as  the  first  who  defies  Ya^itavalkya,  and
 whom  Ya§-«avalkya  asks  at  once,  whether  the  other  Brahmans
 had  made  him  the  ulmukavakshayawa,  the  cat's  paw,  literally  one
-who  has  to  take  a  burning  piece  of  wood  out  of  the  fire  (ardha-
-dagdhakash///am  ulmukam;  tasya  vahirnirasanam  avakshayawa?;^
+who  has  to  take  a  burning  piece  of  wood  out  of  the  fire  (ardhadagdhakash///am  ulmukam;  tasya  vahirnirasanam  avakshayawa?;^
 vinaja/i).  The  end,  however,  is  different,  for  on  asking  the  nature
 of  the  one  god,  the  Prawa,  he  is  told  by  Ya^Tlavalkya  that  he  has
 asked  for  what  he  ought  not  to  ask,  and  that  therefore  he  will  die
 and  thieves  will  carry  away  his  bones.
 
-^  Nivid,  old  and  short  invocations  of  the  gods ;  devatasahkhya-
-va^akani  mantrapadani  kani/^id  vai^vadeve  ^astre  jasyante.  ^'ahkara
+^  Nivid,  old  and  short  invocations  of  the  gods ;  devatasahkhyava^akani  mantrapadani  kani/^id  vai^vadeve  ^astre  jasyante.  ^'ahkara
 and  Dvivedagafiga.
 
 *  This  would  make  3306  devatas.
@@ -8520,8 +8121,7 @@ He  asked :  'Who  is  the  one  god  and  a  half?'
 Ya^;7avalkya  replied  :  '  He  that  blows.'
 
 9.  Here  they  say :  'How  is  it  that  he  who  blows
-like  one  only,  should  be  called  one  and  a  half  (adhyar-
-dha)?'  And  the  answer  is  :  'Because,  when  the  wind
+like  one  only,  should  be  called  one  and  a  half  (adhyardha)?'  And  the  answer  is  :  'Because,  when  the  wind
 was  blowing,  everything  grew  (adhyardhnot).'
 
 He  asked  :  'Who  is  the  one  god  ?'
@@ -8541,8 +8141,7 @@ each  speaker.  If  ^akalya  is  the  questioner,  then  the  sentence,  veda
 v^  ahzm  tam  purushawz  sarvasyatmana/?  parayawaw  yam  attha,  must
 belong  to  Y%«avalkya,  because  he  refers  to  the  words  of  another
 speaker.  Lastly,  the  sentence  vadaiva  has  to  be  taken  as  addressed
-to  6'akalya.  The  commentator  remarks  that,  he  being  the  ques-
-tioner, one  expects  pr//^^//a  instead  of  vada.  But  Ya^Tiavalkya
+to  6'akalya.  The  commentator  remarks  that,  he  being  the  questioner, one  expects  pr//^^//a  instead  of  vada.  But  Ya^Tiavalkya
 may  also  be  supposed  to  turn  round  on  -S'akalya  and  ask  him  a
 question  in  turn,  more  difficult  than  the  question  addressed  by
 6'akalya  to  Y%riavalkya,  and  in  that  case  the  last  sentence  must
@@ -8552,8 +8151,7 @@ The  commentator  seems  to  think  that  after  Ya^ilavalkya  told
 it,  and  that  then  Ya^?iavalkya  answered  in  turn.
 
 2  The  Madhyandina  text  varies  considerably.  It  has  the  first
-time,  /^ashur  loka/z  for  agnir  \6ka.k.  I  keep  to  the  same  construc-
-tion throughout,  taking  mano  gyotUi,  not  as  a  compound,  but  like
+time,  /^ashur  loka/z  for  agnir  \6ka.k.  I  keep  to  the  same  construction throughout,  taking  mano  gyotUi,  not  as  a  compound,  but  like
 agnir  loko  yasya,  as  a  sentence,  i.  e,  mano  ^yotir  yasya.
 
 
@@ -8562,8 +8160,7 @@ Ill  ADHYAYA,    9  BRAHMAiVA,    I  3.  1 43
 ciple  of  every  (living)  self,  he  indeed  is  a  teacher,
 O  Yaf/zavalkya.'
 
-Yaf;lavalkya  said  :  '  I  know  that  person,  the  prin-
-ciple of  every  self,  of  whom  thou  speakest.  This
+Yaf;lavalkya  said  :  '  I  know  that  person,  the  principle of  every  self,  of  whom  thou  speakest.  This
 corporeal  (material,  earthy)  person,  "he  is  he."  But
 tell  me  ^  6'akalya,  who  is  his  devata^  (deity)?'
 
@@ -8680,8 +8277,7 @@ is  his  devata  ?'
 
 KS"akalya  replied  :  '  Pra^apati.'
 
-18.  Ya^;^avalkya  said:  '^'akalya,  did  those  Brah-
-ma;^as  (who  themselves  shrank  from  the  contest)
+18.  Ya^;^avalkya  said:  '^'akalya,  did  those  Brahma;^as  (who  themselves  shrank  from  the  contest)
 make  thee  the  victim^.-*'
 
 ^Sakalya  said  :  '  Ya^;/avalkya,  because  thou  hast
@@ -8855,14 +8451,12 @@ body)  and  the  Self  (thy  heart)  abide?'
 
 Ya^;mvalkya  said  :  'In  the  Pra^^a  (breath).'
 ^Sakalya  said :  'In  what  does  the  Pra/^a  abide  ?'
-Ya^7?avalkya     said :      'In     the     Apana     (down-
-breathing)  2.'
+Ya^7?avalkya     said :      'In     the     Apana     (downbreathing)  2.'
 
 ^'akalya  said :  'In  what  does  the  Apana  abide?'
 Ya^;Iavalkya said: '  In  theVyana(back-breathing)^'
 ^'akalya  said :  'In  what  does  the  Vyana  abide  ?'
-Yac^;lavalkya  said:  '  In  the  Udana  (the  out-breath-
-ing)'.'
+Yac^;lavalkya  said:  '  In  the  Udana  (the  out-breathing)'.'
 ♦  6akalya  said  :  'In  what  does  the  Uddna  abide  ?*
 
 ^        Ya^;lavalkya  said:  'In  the  Samana^     That  Self
@@ -8890,11 +8484,9 @@ in  the  Antaryamin,  and  this  in  the  Brahman  (Kia/astha),  which  is
 
 Ill  ADHYAYA,  9    BRAHMAiVA,  28.  1 49
 
-(atman)  is  to,  be  described  by  No,  noM  He  is  in-
-comprehensible, for  he  cannot  be  (is  not)  compre-
+(atman)  is  to,  be  described  by  No,  noM  He  is  incomprehensible, for  he  cannot  be  (is  not)  compre-
 hended ;  he  is  imperishable,  for  he  cannot  perish ;  he
-is  unattached,  for  he  does  not  attach  himself;  unfet-
-tered, he  does  not  suffer,  he  does  not  fail.'
+is  unattached,  for  he  does  not  attach  himself;  unfettered, he  does  not  suffer,  he  does  not  fail.'
 
 '  These  are  the  eight  abodes  (the  earth,  &c.),  the
 eight  worlds  (fire,  &c.),  the  eight  gods  (the  immortal
@@ -8909,8 +8501,7 @@ will  fall.'
 thieves  took  away  his  bones,  mistaking  them  for
 something  else.
 
-27.  Then  Ya^^avalkya  said:  'Reverend  Brah-
-ma/ms,  whosoever  among  you  desires  to  do  so,  may
+27.  Then  Ya^^avalkya  said:  'Reverend  Brahma/ms,  whosoever  among  you  desires  to  do  so,  may
 now  question  me.  Or  question  me,  all  of  you.  Or
 whosoever  among  you  desires  it,  I  shall  question
 him,  or  I  shall  question  all  of  you.
@@ -8943,8 +8534,7 @@ man^   comes   forth   blood,  as   from  a  tree    that  is
 struck.
 
 3.  '  The  kimps  of  his  flesh  are  (in  the  tree)  the
-layers  of  wood,  the  fibre  is  strong  like  the  ten-
-dons ^.  The  bones  are  the  (hard)  wood  within,  the
+layers  of  wood,  the  fibre  is  strong  like  the  tendons ^.  The  bones  are  the  (hard)  wood  within,  the
 marrow  is  made  like  the  marrow  of  the  tree.
 
 4.  '  But,  while  the  tree,  when  felled,  grows  up
@@ -8975,14 +8565,12 @@ nv  enam  ^anayet  puna-^,  which  the  Kawvas  place  later,
 *  Instead  of  aw^asa,  the  Madhyandinas  have  anyata/^.
 
 ^  The  Madhyandinas  have  dhanaruha  u  vai,  which  is  better  than
-iva  vai,  the  iva  being,  according  to  -S'ankara's  own  confession,  use-
-less. The  thread  of  the  argument  does  not  seem  to  have  been
+iva  vai,  the  iva  being,  according  to  -S'ankara's  own  confession,  useless. The  thread  of  the  argument  does  not  seem  to  have  been
 clearly  perceived  by  the  commentators.  What  the  poet  wants  to
 say  is,  that  a  man,  struck  down  by  death,  does  not  come  to  life
 again  from  seed,  because  human  seed  comes  from  the  living  only,
 while  trees,  springing  from  grain,  are  seen  to  come  to  life  after  the
-tree  (which  yielded  the  grain  or  the  seed)  is  dead.  Pretya-sam-
-bhava,  hke  pretya-bhava,  means  life  after  death,  and  pretyasam-
+tree  (which  yielded  the  grain  or  the  seed)  is  dead.  Pretya-sambhava,  hke  pretya-bhava,  means  life  after  death,  and  pretyasam-
 bhava,  as  an  adjective,  means  coming  to  Hfe  after  death.
 
 "  This  line  too  is  taken  in  a  different  sense  by  the  commentator.
@@ -9024,8 +8612,7 @@ First  BRAHMAiVA.
 1.  When  6^anaka  Vaideha  was  sitting  (to  give
 audience),  Ya^^lavalkya  approached,  and  6^anaka
 Vaideha  said  :  '  Ya^;^avalkya,  for  what  object  did
-you  come,  wishing  for  cattle,  or  for  subtle  ques-
-tions^?'
+you  come,  wishing  for  cattle,  or  for  subtle  questions^?'
 
 Ya^;mvalkya  replied  :  '  For  both.  Your  Majesty  ;
 
@@ -9038,8 +8625,7 @@ Yai;^;2avalkya  said  :  *  As  one  who  had  (the  benefit
 of  a  good)  father,  mother,  and  teacher  might  tell,  so
 did  ^'ailini^  tell  you,  that  speech  is  Brahman;  for
 what  is  the  use  of  a  dumb  person  ?  But  did  he  tell
-you  the  body  (ayatana)  and  the  resting-place  (pra-
-tish^M)  of  that  Brahman?'
+you  the  body  (ayatana)  and  the  resting-place  (pratish^M)  of  that  Brahman?'
 
 6^anaka  Vaideha  said  :  *  He  did  not  tell  me.'
 
@@ -9048,8 +8634,7 @@ stands  on  one  leg  only^'
 
 C^anaka Vaideha  said :  'Then  tell  me,  Ya^;lavalkya.'
 
-^  A«v-anta,  formed  like  Sutranta,  Siddhanta,  and  probably  Ve-
-danta,  means  subtle  questions.
+^  A«v-anta,  formed  like  Sutranta,  Siddhanta,  and  probably  Vedanta,  means  subtle  questions.
 
 ^  Roer  and  Foley  give  here  A^ailina;  Weber  also  (pp.  io8o  and
 io8i)  has  twice  5'ailina  (6'ilinasyapatyam).
@@ -9057,8 +8642,7 @@ io8i)  has  twice  5'ailina  (6'ilinasyapatyam).
 '  This  seems  to  mean  that  Gitvan's  explanation  of  Brahman  is
 lame  or  imperfect,  because  there  are  four  padas  of  that  Brahman,
 and  he  taught  one  only.  The  other  three  are  its  body,  its  place,
-and  its  form  of  worship  (praj^?Tetiyam  upanishad  brahma^/ai-  /^atur-
-tha/^  pada,^).     See  also  Maitr.  Up. VII,  p.  221.
+and  its  form  of  worship  (praj^?Tetiyam  upanishad  brahma^/ai-  /^aturtha/^  pada,^).     See  also  Maitr.  Up. VII,  p.  221.
 
 
 IV  ADHYAYA,   I   BRAHMAiVA,  3.  1 53
@@ -9072,8 +8656,7 @@ knowledge  ? '
 Ya^;/avalkya  replied:  'Your  Majesty,  speech  itself
 (is  knowledge).  For  through  speech,  Your  Majesty,
 a  friend  is  known  (to  be  a  friend),  and  likewise  the
-7??*g-veda,  Ya^ur-veda,  Sama-veda,  the  Atharvangi-
-rasas,  the  Itihasa  (tradition),  Pura;2a-vidya  (know-
+7??*g-veda,  Ya^ur-veda,  Sama-veda,  the  Atharvangirasas,  the  Itihasa  (tradition),  Pura;2a-vidya  (know-
 ledge of  the  past),  the  Upanishads,  ^'lokas  (verses),
 Sutras  (rules),  Anuvyakhyanas  and  Vyakhyanas
 (commentaries  \  &c.) ;  what  is  sacrificed,  what  is
@@ -9120,8 +8703,7 @@ that  Brahman?'
 Ya^^/avalkya  said:  '  Your  Majesty,  this  (Brahman)
 stands  on  one  leg  only.'
 
-6^anaka  Vaideha  said :  *  Then  tell  me,  Ya^;^a-
-valkya.'
+6^anaka  Vaideha  said :  *  Then  tell  me,  Ya^;^avalkya.'
 
 Ya^;1avalkya  said :  '  Breath  is  its  body,  ether  its
 place,  and  one  should  worship  it  as  what  is  dear.'
@@ -9173,8 +8755,7 @@ G'anaka  Vaideha  said  :  *  He  did  not  tell  me.'
 Ya^;lavalkya  said:  *  Your  Majesty,  this  (Brahman)
 stands  on  one  leg  only.'
 
-Canaka  Vaideha  said :  '  Then  tell  me,  Ya^;7a-
-valkya.'
+Canaka  Vaideha  said :  '  Then  tell  me,  Ya^;7avalkya.'
 
 Ya^/^avalkya  said  :  '  The_eye  is  its  body,  ether  its
 place,  and  one  should  worship  it  as  what  is  true.'
@@ -9201,16 +8782,14 @@ instructed  a  pupil.'
 5.  Ya^/7avalkya  said  :  'Let  us  hear  what  anybody
 may  have  told  you.'
 
-6^anaka  Vaideha  replied :  '  Gardabhivibhita  Bha-
-radva^a  told  me  that  hearing  (^rotra)  is  Brahman.'
+6^anaka  Vaideha  replied :  '  Gardabhivibhita  Bharadva^a  told  me  that  hearing  (^rotra)  is  Brahman.'
 
 
 156  B22/H  ADARAiVYAKA-UPANISHAD.
 
 Ya^;}avalkya  said  :  '  As  one  who  had  (the  benefit
 of  a  good)  father,  mother,  and  teacher  might  tell,  so
-did  Gardabhivibhita  Bharadva^a  tell  you  that  hear-
-ing is  Brahman;  for  what  is  the  use  of  a  person  who
+did  Gardabhivibhita  Bharadva^a  tell  you  that  hearing is  Brahman;  for  what  is  the  use  of  a  person  who
 cannot  hear  ?  But  did  he  tell  you  the  body  and  the
 resting-place  of  that  Brahman?'
 
@@ -9234,8 +8813,7 @@ to  whatever  space  (quarter)  he  goes,  he  never  comes
 to  the  end  of  it.  For  space  is  endless.  Space  indeed,
 O  King,  is  hearing  \  and  hearing  indeed,  O  King,  is
 the  Highest  Brahman.  Hearing  does  not  desert
-him  who  worships  that  (Brahman)  with  such  know-
-ledge, all  creatures  approach  him,  and  having  become
+him  who  worships  that  (Brahman)  with  such  knowledge, all  creatures  approach  him,  and  having  become
 a  god,  he  goes  to  the  gods.'
 
 (kanaka  Vaideha  said :  '  I  shall  give  you  (for  this)
@@ -9248,8 +8826,7 @@ instructed  a  pupil.'
 6.  Ya^72avalkya  said  :  '  Let  us  hear  what  anybody
 may  have  told  you.'
 
-^  Dvivedaganga  states,  digbhago  hi  parthivadhish//ianava/('/^/^in-
-na/^  jrotram  ity  u/^yate,  atas  tayor  ekatvam.
+^  Dvivedaganga  states,  digbhago  hi  parthivadhish//ianava/('/^/^inna/^  jrotram  ity  u/^yate,  atas  tayor  ekatvam.
 
 
 IV  ADHYAYA,    I   BRAHMAiVA,   7.  157
@@ -9259,8 +8836,7 @@ me  that  mind  ^  (manas)  is  Brahman.'
 
 Ya^;^avalkya  said  :  '  As  one  who  had  (the  benefit
 of  a  good)  father,  mother,  and  teacher  might  tell,  so
-did  Satyakama  C'abala  tell  you  that  mind  is  Brah-
-man ;  for  what  is  the  use  of  a  person  without  mind  ?
+did  Satyakama  C'abala  tell  you  that  mind  is  Brahman ;  for  what  is  the  use  of  a  person  without  mind  ?
 But  did  he  tell  you  the  body  and  the  resting-place  of
 that  Brahman  ?'
 
@@ -9307,8 +8883,7 @@ Ya^;^avalkya  said  :  '  As  one  who  had  (the  benefit
 of  a  good)  father,  mother,  and  teacher  might  tell,  so
 did  Vidagdha  .Sakalya  tell  you  that  the  heart  is
 Brahman ;  for  what  is  the  use  of  a  person  without  a
-heart  ?  But  did  he  tell  you  the  body  and  the  resting-
-place  of  that  Brahman  ? '
+heart  ?  But  did  he  tell  you  the  body  and  the  restingplace  of  that  Brahman  ? '
 
 6^anaka  Vaideha  said  :  *  He  did  not  tell  me.'
 
@@ -9329,8 +8904,7 @@ itself;  for  the  heart  indeed,  O  King,  is  the  body  of
 all  things,  the  heart  is  the  resting-place  of  all  things,
 for  in  the  heart,  O  King,  all  things  rest.  The  heart
 indeed,  O  King,  is  the  Highest  Brahman.  The
-heart  does  not  desert  him  who  worships  that  (Brah-
-man) with  such  knowledge,  all  creatures  approach
+heart  does  not  desert  him  who  worships  that  (Brahman) with  such  knowledge,  all  creatures  approach
 him,  and  having  become  a  god,  he  goes  to  the  gods.'
 
 C'anaka  Vaideha  said :  '  I  shall  give  you  (for  this)
@@ -9346,14 +8920,12 @@ I.  G"anaka  Vaideha,  descending  from  his  throne,
 said:  '  I  bow  to  you,  O  Ya^;/avalkya,  teach  me.'
 
 Ya^;'Iavalkya  said  :  '  Your  Majesty,  as  a  man  who
-wishes  to  make  a  long  journey,  would  furnish  him-
-self with  a  chariot  or  a  ship,  thus  is  your  mind  well
+wishes  to  make  a  long  journey,  would  furnish  himself with  a  chariot  or  a  ship,  thus  is  your  mind  well
 
 
 IV  ADHYAYA,  2    BRAHMAiVA,   3.  1 59
 
-furnished  by  these  Upanishads^  You  are  honour-
-able, and  wealthy,  you  have  learnt  the  Vedas  and
+furnished  by  these  Upanishads^  You  are  honourable, and  wealthy,  you  have  learnt  the  Vedas  and
 been  told  the  Upanishads.  Whither  then  will  you
 go  when  departing  hence?'
 
@@ -9371,8 +8943,7 @@ they  call  indeed  ^  Indra  mysteriously,  for  the  gods  love
 what  is  mysterious,  and  dislike  what  is  evident.
 
 3.  '  Now  that  which  in  the  shape  of  a  person  is  in
-the  right  eye,  is  his  wife,  Vira^^  Their  meeting-
-place  ^  is  the  ether  within  the  heart,  and  their  food
+the  right  eye,  is  his  wife,  Vira^^  Their  meetingplace  ^  is  the  ether  within  the  heart,  and  their  food
 the  red  lump  within  the  heart.  Again,  their
 covering  ^  is  that  which  is  like  net-work  within  the
 heart,  and  the  road  on  which  they  move  (from  sleep
@@ -9380,8 +8951,7 @@ to  waking)  is  the  artery  that  rises  upwards  from  the
 heart.  Like  a  hair  divided  into  a  thousand  parts,  so
 are  the  veins  of  it,  which  are  called  Hita^  placed
 
-^  This  refers  to  the  preceding  doctrines  which  had  been  commu-
-nicated to  G^anaka  by  other  teachers,  and  particularly  to  the  upasanas
+^  This  refers  to  the  preceding  doctrines  which  had  been  communicated to  G^anaka  by  other  teachers,  and  particularly  to  the  upasanas
 of  Brahman  as  knowledge,  dear,  true,  endless,  bliss,  and  certainty.
 
 2  See  also  Maitr.  Up.  VII,  p.  216.
@@ -9429,8 +8999,7 @@ go  downward  ;
 
 'All  the  quarters  are  all  the  pra?/as.  And  he  (the
 Atman  in  that  state)  can  only  be  described  by  No^,
-no !  He  is  incomprehensible,  for  he  cannot  be  com-
-prehended ;  he  is  undecaying,  for  he  cannot  decay ;
+no !  He  is  incomprehensible,  for  he  cannot  be  comprehended ;  he  is  undecaying,  for  he  cannot  decay ;
 he  is  not  attached,  for  he  does  not  attach  himself;
 he  is  unbound,  he  does  not  suffer,  he  does  not  perish.
 O  C'anaka,  you  have  indeed  reached  fearlessness,' —
@@ -9465,20 +9034,15 @@ did  not  mean  to  speak  with  him\    But  when  formerly
 ^  The  introduction  to  this  Brahmawa  has  a  very  peculiar  interest,
 as  showing  the  close  coherence  of  the  different  portions  which
 together  form  the  historical  groundwork  of  the  Upanishads.  G'anaka
-Vaideha  and  Y%fiavalkya  are  leading  characters  in  the  BrAada-
-ra?zyaka-upanishad,  and  whenever  they  meet  they  seem  to  converse
-quite  freely,  though  each  retains  his  own  character,  and  Yagn2i-
-valkya  honours  Ganaka  as  king  quite  as  much  as  G^anaka  honours
+Vaideha  and  Y%fiavalkya  are  leading  characters  in  the  BrAadara?zyaka-upanishad,  and  whenever  they  meet  they  seem  to  converse
+quite  freely,  though  each  retains  his  own  character,  and  Yagn2ivalkya  honours  Ganaka  as  king  quite  as  much  as  G^anaka  honours
 Ya^?avalkya  as  a  Brahma^ia.  Now  in  our  chapter  we  read  that
 Ya^wavalkya  did  not  wish  to  enter  on  a  discussion,  but  that  (kanaka
-was  the  first  to  address  him  (pilrvam  papra^X'/^a).  This  was  evi-
-dently considered  not  quite  correct,  and  an  explanation  is  given,
-that  (kanaka  took  this  liberty  because  on  a  former  occasion  Ya^Tla-
-valkya  had  granted  him  permission  to  address  questions  to  him,
+was  the  first  to  address  him  (pilrvam  papra^X'/^a).  This  was  evidently considered  not  quite  correct,  and  an  explanation  is  given,
+that  (kanaka  took  this  liberty  because  on  a  former  occasion  Ya^Tlavalkya  had  granted  him  permission  to  address  questions  to  him,
 whenever  he  liked.  It  might  be  objected  that  such  an  explanation
 looks  very  much  like  an  after-thought,  and  we  find  indeed  that  in
-India  itself  some  of  the  later  commentators  tried  to  avoid  the  diffi-
-culty by  dividing  the  words  sa  mene  na  vadishya  iti,  into  sam  enena
+India  itself  some  of  the  later  commentators  tried  to  avoid  the  difficulty by  dividing  the  words  sa  mene  na  vadishya  iti,  into  sam  enena
 vadishya  iii,  so  that  we  should  have  to  translate, '  Ya^wavalkya  came
 to  Ganaka  intending  to  speak  with  him.'  (See  Dvivedagahga's
 Comm.  p.  1 141.)  This  is,  no  doubt,  a  very  ingenious  conjecture,
@@ -9490,8 +9054,7 @@ is  supported  by  6'ahkara  and  Dvivedagahga,  though  the  latter
 alludes  to  the  other  pada/^Meda,  is  that  the  tmesis,  sam  enena
 vadishye,  does  not  occur  again,  while  sa  mene  is  a  common  phrase.
 But  the  most  interesting  point,  as  I  remarked  before,  is  that  this
-former  disputation  between  (ranaka  and  Ya^fiavalkya  and  the  per-
-mission granted  to  the  King  to  ask  any  question  he  liked,  is  not  a
+former  disputation  between  (ranaka  and  Ya^fiavalkya  and  the  permission granted  to  the  King  to  ask  any  question  he  liked,  is  not  a
 mere  invention  to  account  for  the  apparent  rudeness  by  which
 Ya^ftavalkya  is  forced  to  enter  on  a  discussion  against  his  will,
 but  actually  occurs  in  a  former  chapter.  In  6'atap.  Br.  XI,  6,  2,  10,
@@ -9506,8 +9069,7 @@ we  read:  tasmai  ha  Ya^?lavalkyo  varaz^i  dadau;  sa  hova/^a,  kama-
 Canaka  Vaideha  and  Yaf  ;zavalkya  had  a  disputation
 on  the  Agnihotra,  Ya^;lavalkya  had  granted  him  a
 boon,  and  he  chose  (for  a  boon)  that  he  might  be
-free  to  ask  him  any  question  he  hked.  Yag-fia-
-valkya  granted  it,  and  thus  the  King  was  the  first  to
+free  to  ask  him  any  question  he  hked.  Yag-fiavalkya  granted  it,  and  thus  the  King  was  the  first  to
 ask  him  a  question.
 
 2.  '  Yaf^'zavalkya,'  he  said,  'what  is  the  Hght  of
@@ -9517,8 +9079,7 @@ Ya^;'^avalkya  rephed :  *  The  sun,  O  King ;  for,
 having  the  sun  alone  for  his  hght,  man  sits,  moves
 about,  does  his  work,  and  returns/
 
-C'anaka  Vaideha  said  :  '  So  indeed  it  is,  O  Ya^;'2a-
-valkya.'
+C'anaka  Vaideha  said  :  '  So  indeed  it  is,  O  Ya^;'2avalkya.'
 
 3.  6^anaka  Vaideha  said :  '  When  the  sun  has  set,
 O  Yac^/lavalkya,  what  is  then  the  Hght  of  man?'
@@ -9538,15 +9099,12 @@ light  of  man  ?'
 Ya^;lavalkya  replied :   '  Fire  indeed  is  his  light ;
 
 praj«a  eva  me  tvayi  Ya^Tiavalkyasad  iti,  tato  brahma  Ganaka  asa.
-This  would  show  that  Ganaka  was  considered  almost  like  a  Brah-
-mawa,  or  at  all  events  enjoyed  certain  privileges  which  were  sup-
+This  would  show  that  Ganaka  was  considered  almost  like  a  Brahmawa,  or  at  all  events  enjoyed  certain  privileges  which  were  sup-
 posed to  belong  to  the  first  caste  only.  See,  for  a  different  view,
-Deussen,  Vedanta,  p.  203  ;  Regnaud  (Matdriaux  pour  servir  a  I'his-
-toire  de  la  philosophic  de  ITnde),  Errata;  and  Sacred  Books  of
+Deussen,  Vedanta,  p.  203  ;  Regnaud  (Matdriaux  pour  servir  a  I'histoire  de  la  philosophic  de  ITnde),  Errata;  and  Sacred  Books  of
 the  East,  vol.  i,  p.  Ixxiii.
 
-^  Read  kiw^yotir  as  a  Bahuvrihi.  Purusha  is  difficult  to  trans-
-late. It  means  man,  but  also  the  true  essence  of  man,  the  soul,
+^  Read  kiw^yotir  as  a  Bahuvrihi.  Purusha  is  difficult  to  translate. It  means  man,  but  also  the  true  essence  of  man,  the  soul,
 as  we  should  say,  or  something  more  abstract  still,  the  person,  as
 
 1  generally  translate  it,  though  a  person  beyond  the  Ego.
@@ -9567,8 +9125,7 @@ about,  does  his  work,  and  returns.  Therefore,  O
 King,  when  one  cannot  see  even  one's  own  hand,
 yet  when  a  sound  is  raised,  one  goes  towards  it.'
 
-(S'anaka  Vaideha  said:  *So  indeed  it  is,  O  Ya^^a-
-valkya.'
+(S'anaka  Vaideha  said:  *So  indeed  it  is,  O  Ya^^avalkya.'
 
 6.  (kanaka  Vaideha  said  :  '  When  the  sun  has  set,
 O  Ya^;/avalkya,  and  the  moon  has  set,  and  the  fire
@@ -9585,8 +9142,7 @@ Yaf;Iavalkya    replied :    'He    who    is    within    the
 heart,  surrounded  by  the  Pra;^as  ^  (senses),  the  person
 of  light,  consisting  of  knowledge.  He,  remaining  the
 same,  wanders  along  the  two  worlds^,  as  if^  thinking,
-as  if  moving.  During  sleep  (in  dream)  he  tran-
-scends this  world  and  all  the  forms  of  death  (all  that
+as  if  moving.  During  sleep  (in  dream)  he  transcends this  world  and  all  the  forms  of  death  (all  that
 falls  under  the  sway  of  death,  all  that  is  perishable).
 
 8.  '  On  being  born  that  person,  assuming  his  body,
@@ -9613,8 +9169,7 @@ one  here  in  this  world,  the  other  in  the  other  world,
 and  as  a  third  ^  an  intermediate  state,  the  state  of
 sleep.  When  in  that  intermediate  state,  he  sees
 both  those  states  together,  the  one  here  in  this
-world,  and  the  other  in  the  other  world.  Now  what-
-ever his  admission  to  the  other  world  may  be,
+world,  and  the  other  in  the  other  world.  Now  whatever his  admission  to  the  other  world  may  be,
 having  gained  that  admission,  he  sees  both  the  evils
 and  the  blessings  ^.
 
@@ -9645,8 +9200,7 @@ things ;  see  Brih.  Up.  IV,  4,  2.
 ^  Dividing  and  separating  the  material,  i.  e.  the  impressions
 received  from  this  world.  The  commentator  explains  matra  as  a
 portion  of  the  impressions  which  are  taken  away  into  sleep.
-'  Destroying '  he  refers  to  the  body,  which  in  sleep  becomes  sense-
-less, and  '  building  up '  to  the  imaginations  of  dreams.
+'  Destroying '  he  refers  to  the  body,  which  in  sleep  becomes  senseless, and  '  building  up '  to  the  imaginations  of  dreams.
 
 
 n
@@ -9654,8 +9208,7 @@ n
 
 IV  ADHYAYA,   3  BRAHMAiVA,   1 4.  1 65
 
-are  no  tanks  there,  no  lakes,  no  rivers,  but  he  him-
-self sends  forth  (creates)  tanks,  lakes,  and  rivers.
+are  no  tanks  there,  no  lakes,  no  rivers,  but  he  himself sends  forth  (creates)  tanks,  lakes,  and  rivers.
 He  indeed  is  the  maker.
 
 11.  '  On  this  there  are  these  verses  :
@@ -9710,8 +9263,7 @@ we  explained  before)/
 (S'anakaVaideha  said:  'I  give  you,  Sir,  a  thousand.
 Speak  on  for  the  sake  of  (my)  emancipation/
 
-15.  Ya^;1avalkya  said  :  '  That  (person)  having  en-
-joyed himself  in  that  state  of  bliss  (samprasada,  deep
+15.  Ya^;1avalkya  said  :  '  That  (person)  having  enjoyed himself  in  that  state  of  bliss  (samprasada,  deep
 sleep),  having  moved  about  and  seen  both  good  and
 evil,  hastens  back  again  as  he  came,  to  the  place
 from  which  he  started  (the  place  of  sleep),  to  dream  \
@@ -9728,23 +9280,20 @@ this  is  wrong,  because  the  senses  have  stopped,  and  only  when  the
 senses  have  stopped  does  one  see  dreams.  Therefore  there  is  no
 necessity  for  admitting  another  light  in  sleep,  but  only  the  light
 inherent  in  the  Self.  This  has  been  proved  by  all  that  went  before.'
-Dr.  Roer  takes  the  same  view  in  his  translation,  but  Deussen  (Ve-
-danta,  p.  205)  takes  an  independent  view,  and  translates  :  '  There-
+Dr.  Roer  takes  the  same  view  in  his  translation,  but  Deussen  (Vedanta,  p.  205)  takes  an  independent  view,  and  translates  :  '  There-
 fore it  is  said  :  It  (sleep)  is  to  him  a  place  of  waking  only,  for
 what  he  sees  waking,  the  same  he  sees  in  sleep.  Thus  this  spirit
 serves  there  for  his  own  light.'  Though  the  interpretations  of
 6'ahkara  and  Dvivedagahga  sound  artificial,  still  Dr.  Deussen's
 version  does  not  remove  all  difficulties.  If  the  purusha  saw  in
 sleep  no  more  than  what  he  had  seen  before  in  waking,  then  the
-whole  argument  in  favour  of  the  independent  action,  or  the  inde-
-pendent light  of  the  purusha,  would  go ;  anyhow  it  would  be  no
+whole  argument  in  favour  of  the  independent  action,  or  the  independent light  of  the  purusha,  would  go ;  anyhow  it  would  be  no
 argument  on  Y%fiavalkya's  side.  See  also  note  to  paragraph  9,
 before.
 
 ^  The  Madhyandinas  speak  only  of  his  return  from  svapnanta
 to  buddhanta,  from  sleep  to  waking,  instead  of  his  going  from
-samprasada  (deep  sleep)  to  svapna  (dream),  from  svapna  to  bud-
-dhanta, and  from  buddhanta  again  to  svapnanta,  as  the  Kawvas
+samprasada  (deep  sleep)  to  svapna  (dream),  from  svapna  to  buddhanta, and  from  buddhanta  again  to  svapnanta,  as  the  Kawvas
 have  it.  In  §  1 8  the  Ka/^vas  also  mention  svapnanta  and  buddhanta
 only,  but  the  next  paragraph  refers  to  sushupti.
 
@@ -9754,20 +9303,17 @@ IV  ADHYAYA,    3  BRAHMAiVA,  20.  1 67
 valkya.     I  give  you,  Sir,  a  thousand.     Speak  on  for
 the  sake  of  emancipation/
 
-16.  Ya^?/avalkya  said  :  '  That  (person)  having  en-
-joyed himself  in  that  sleep  (dream),  having  moved
+16.  Ya^?/avalkya  said  :  '  That  (person)  having  enjoyed himself  in  that  sleep  (dream),  having  moved
 about  and  seen  both  good  and  evil,  hastens  back
 again  as  he  came,  to  the  place  from  which  he  started,
 to  be  awake.  And  whatever  he  may  have  seen
 there,  he  is  not  followed  (affected)  by  it,  for  that
 person  is  not  attached  to  anything.'
 
-6"anaka  Vaideha  said :  'So  it  is  indeed,  Yaf^a-
-valkya.  I  give  you,  Sir,  a  thousand.  Speak  on  for
+6"anaka  Vaideha  said :  'So  it  is  indeed,  Yaf^avalkya.  I  give  you,  Sir,  a  thousand.  Speak  on  for
 the  sake  of  emancipation.'
 
-17.  Ya^/lavalkya  said:  'That  (person)  having  en-
-joyed himself  in  that  state  of  Waking,  having  moved
+17.  Ya^/lavalkya  said:  'That  (person)  having  enjoyed himself  in  that  state  of  Waking,  having  moved
 about  and  seen  both  good  and  evil,  hastens  back
 again  as  he  came,  to  the  place  from  which  he  started,
 to  the  state  of  sleeping  (dream).
@@ -9790,8 +9336,7 @@ full   of  white,  blue,  yellow,  green,  and  red  \      Now
 
 
 ^  Dvivedagahga  explains  that  if  phlegm  predominates,  qualified
-by  wind  and  bile,  the  juice  in  the  veins  is  white ;  if  wind  predomi-
-nates, qualified  by  phlegm  and  bile,  it  is  blue ;  if  bile  predominates,
+by  wind  and  bile,  the  juice  in  the  veins  is  white ;  if  wind  predominates, qualified  by  phlegm  and  bile,  it  is  blue ;  if  bile  predominates,
 qualified  by  wind  and  phlegm,  it  is  yellow ;  if  wind  and  phlegm
 
 
@@ -9816,14 +9361,12 @@ Self,  knows  nothing  that  is  without,  nothing  that  is
 within.  This  indeed  is  his  (true)  form,  in  which
 his  wishes  are  fulfilled,  in  which  the   Self  (only)  is
 
-predominate,  with  little  bile  only,  it  is  green ;  and  if  the  three  ele-
-ments are  equal,  it  is  red.  See  also  Anandagiri's  gloss,  where
+predominate,  with  little  bile  only,  it  is  green ;  and  if  the  three  elements are  equal,  it  is  red.  See  also  Anandagiri's  gloss,  where
 Sujruta  is  quoted.  Why  this  should  be  inserted  here,  is  not  quite
 clear,  except  that  in  sleep  the  purusha  is  supposed  to  move  about
 in  the  veins.
 
-^  Here,  again,  the  commentator  seems  to  be  right,  but  his  inter-
-pretation does  violence  to  the  context.  The  dangers  which  a  man
+^  Here,  again,  the  commentator  seems  to  be  right,  but  his  interpretation does  violence  to  the  context.  The  dangers  which  a  man
 sees  in  his  sleep  are  represented  as  mere  imaginations,  so  is  his
 idea  of  being  of  god  or  a  king,  while  the  idea  that  he  is  all  this
 (aham  eveda;^?  sarva/z,  i.  e.  idam  sarvam,  see  ^Sahkara,  p.  873, 1.  1 1)
@@ -9836,8 +9379,7 @@ take  deva  and  ra^an  as  steps  leading  to  the  sarvatmatva.
 to  pajyati,  from  the  end  of  §  19.
 
 '  The  Kawva  text  reads  ati/^/^'/^anda  apahatapapma.  ^afikara
-explains  ztiWianda.  by  a.t\kk/ia.ndam,  and  excuses  it  as  svadhyaya-
-dharma/^  pa//?a/z.  The  Madhyandinas  read  atiM/zando,  but  place
+explains  ztiWianda.  by  a.t\kk/ia.ndam,  and  excuses  it  as  svadhyayadharma/^  pa//?a/z.  The  Madhyandinas  read  atiM/zando,  but  place
 the  whole  sentence  where  the  Ka72vas  put  aptakamam  &c.,  at  the
 end  of  §  21.
 
@@ -9851,10 +9393,8 @@ sorrow  ^
 a  mother,  the  worlds  not  worlds,  the  gods  not  gods,
 the  Vedas  not  Vedas.  Then  a  thief  is  not  a  thief,  a
 murderer  not  a  murderer^,  a  Kandala.^  not  a  Kandsila,
-a  Paulkasa^  not  a  Paulkasa,  a  ^'rama/^a^  not  a  ^'ra-
-ma;^a,  a  Tapasa^  not  a  Tapasa.  He  is  not  followed
-by  good,  not  followed  by  evil,  for  he  has  then  over-
-come all  the  sorrows  of  the  heart  ^.
+a  Paulkasa^  not  a  Paulkasa,  a  ^'rama/^a^  not  a  ^'rama;^a,  a  Tapasa^  not  a  Tapasa.  He  is  not  followed
+by  good,  not  followed  by  evil,  for  he  has  then  overcome all  the  sorrows  of  the  heart  ^.
 
 23.  'And  when  (it  is  said  that)  there  (in  the
 Sushupti)  he  does  not  see,  yet  he  is  seeing,  though
@@ -9863,8 +9403,7 @@ he  does  not  see  ^,     For  sight  is  inseparable  from  the
 ^  The  Ka«vas  read  j-okantararn,  the  Madhyandinas  aj-okantaram,
 but  the  commentators  arrive  at  the  same  result,  namely,  that  it
 means  i'okajunyam,  free  from  grief.  i5'ankara  says :  i-okantaraw.
-soka.kk/ndra.m  jokajunyam  ityeta-^,  -^/zokamadhyaman  iti  va ;  sar-
-vathapy  ajokam.  Dvivedagafiga  says  :  na  vidyate  joko  'ntare
+soka.kk/ndra.m  jokajunyam  ityeta-^,  -^/zokamadhyaman  iti  va ;  sarvathapy  ajokam.  Dvivedagafiga  says  :  na  vidyate  joko  'ntare
 madhye  yasya  tad  ajokantarawz  (ra,  Weber)  j'okai'unyam.
 
 ^  Bhruwahan,  varish/Zzabrahmahanta.
@@ -9879,11 +9418,9 @@ madhye  yasya  tad  ajokantarawz  (ra,  Weber)  j'okai'unyam.
 
 '  I  have  translated  as  if  the  text  were  ananvagata^  puwyena
 ananvagata//  papena.  We  find  anvagata  used  in  a  similar  way  in
-§§  15,  16,  &c.  But  the  Ka«vas  read  ananvagatam  puwyena  anan-
-vagatam  papena,  and  6'ankara  explains  the  neuter  by  referring  it
+§§  15,  16,  &c.  But  the  Ka«vas  read  ananvagatam  puwyena  ananvagatam  papena,  and  6'ankara  explains  the  neuter  by  referring  it
 to  rupam  (rupaparatvan  napu;«sakalihgam).  The  Madhyandinas,  if
-we  may  trust  Weber's  edition,  read  ananvagata/2  pu;zyenanvaga-
-ta,^  papena.  The  second  anvagata/^  may  be  a  mere  misprint,  but
+we  may  trust  Weber's  edition,  read  ananvagata/2  pu;zyenanvagata,^  papena.  The  second  anvagata/^  may  be  a  mere  misprint,  but
 Dvivedagafiga  seems  to  have  read  ananvagatam,  like  the  Ka?/vas,
 for  he  says  ;  ananvagatam  iti  rupavishayo  napu?«sakanirdeja/^.
 
@@ -9916,8 +9453,7 @@ he  could  taste.
 
 26.  '  And  when  (it  is  said  that)  there  (in  the
 Sushupti)  he  does  not  speak,  yet  he  is  speaking,
-though  he  does  not  speak.  For  speaking  is  inse-
-parable from  the  speaker,  because  it  cannot  perish.
+though  he  does  not  speak.  For  speaking  is  inseparable from  the  speaker,  because  it  cannot  perish.
 But  there  is  then  no  second,  nothing  else  different
 from  him  that  he  could  speak.
 
@@ -9930,8 +9466,7 @@ he  could  hear.
 
 28.  'And  when  (it  is  said  that)  there  (in  the
 Sushupti)  he  does  not  think,  yet  he  is  thinking,
-though  he  does  not  think.  For  thinking  is  inse-
-parable from  the  thinker,  because  it  cannot  perish.
+though  he  does  not  think.  For  thinking  is  inseparable from  the  thinker,  because  it  cannot  perish.
 
 of  seeing,  as  little  as  the  fire  can  lose  its  character  of  burning,  so
 long  as  it  is  fire.  The  Self  sees  by  its  own  light,  like  the  sun,  even
@@ -9946,15 +9481,13 @@ from  him  that  he  could  think.
 
 29.  *  And  when  (it  is  said  that)  there  (in  the
 Sushupti)  he  does  not  touch,  yet  he  is  touching,
-though  he  does  not  touch.  For  touching  is  inse-
-parable from  the  toucher,  because  it  cannot  perish.
+though  he  does  not  touch.  For  touching  is  inseparable from  the  toucher,  because  it  cannot  perish.
 But  there  is  then  no  second,  nothing  else  different
 from  him  that  he  could  think.
 
 30.  'And  when  (it  is  said  that)  there  (in  the
 Sushupti)  he  does  not  know,  yet  he  is  knowing,
-though  he  does  not  know.  For  knowing  is  inse-
-parable from  the  knower,  because  it  cannot  perish.
+though  he  does  not  know.  For  knowing  is  inseparable from  the  knower,  because  it  cannot  perish.
 But  there  is  then  no  second,  nothing  else  different
 from  him  that  he  could  know.
 
@@ -9977,8 +9510,7 @@ others,  surrounded  by  all  human  enjoyments,  that
 
 ^  Salila  is  explained  as  salilavat,  like  the  ocean,  the  seer  being
 one  like  the  ocean,  which  is  one  only.  Dr.  Deussen  takes  salila  as
-a  locative,  and  translates  it  '  In  dem  Gewoge,'  referring  to  ^Veta-
-i'vatara-upanishad  VI,  15.
+a  locative,  and  translates  it  '  In  dem  Gewoge,'  referring  to  ^Vetai'vatara-upanishad  VI,  15.
 
 2  Or  this_  sefii:Js_the  Brahma-world,  dwells  in  Brahman,  or  is
 Brahman.
@@ -9989,8 +9521,7 @@ Brahman.
 /■  is  the  highest  blessing  of  men.  Now  a  hundred
 of  these  human  blessings  make  one  blessing  of  the
 fathers  who  have  conquered  the  world  (of  the  fathers).
-A  hundred  blessings  of  the  fathers  who  have  con-
-quered this  world  make  one  blessing  in  the  Gan-
+A  hundred  blessings  of  the  fathers  who  have  conquered this  world  make  one  blessing  in  the  Gan-
 dharva  world.  A  hundred  blessings  in  the  Gandharva
 world  make  one  blessing  of  the  Devas  by  merit
 (work,  sacrifice),  who  obtain  their  godhead  by  merit.
@@ -10001,8 +9532,7 @@ desire.  A  hundred  blessings  of  the  Devas  by  birth
 make  one  blessing  in  the  world  of  Pra^apati,  also
 (of)  a  .Srotriya  who  is  without  sin,  and  not  overcome
 by  desire.  A  hundred  blessings  in  the  world  of
-Pra^apati  make  one  blessing  in  the  world  of  Brah-
-man, also  (of)  a  K^rotriya  who  is  without  sin,  and
+Pra^apati  make  one  blessing  in  the  world  of  Brahman, also  (of)  a  K^rotriya  who  is  without  sin,  and
 not  overcome  by  desire.  And  this  is  the  highest
 blessing  2.
 
@@ -10026,8 +9556,7 @@ Up.  I,  3-5  ;  Regnaud,  II,  p.  33  seq.
 
 ^  ^afikara  explains  that  Ya^wavalkya  was  not  afraid  that  his
 own  knowledge  might  prove  imperfect,  but  that  the  king,  having
-the  right  to  ask  him  any  question  he  liked,  might  get  all  his  know-
-ledge from  him.
+the  right  to  ask  him  any  question  he  liked,  might  get  all  his  knowledge from  him.
 
 
 IV  ADHYAYA,    4  BRAHMAiVA,    I.  I  73
@@ -10070,8 +9599,7 @@ having  sunk  Into  weakness  ^  sinks,  as  it  were,  into
 ^  See  §  17,  before.
 
 *  -Sahkara  seems  to  take  \xkkhva.s\  as  a  noun.  He  writes:
-yatraitad  bhavati ;  etad  iti  kriyavijesha«am  firdhvoy^/^/^vasi  yatror-
-dhvO/^/^//vasitvam  asya  bhavatityartha-^.
+yatraitad  bhavati ;  etad  iti  kriyavijesha«am  firdhvoy^/^/^vasi  yatrordhvO/^/^//vasitvam  asya  bhavatityartha-^.
 
 ^  In   the    Kaush.  Up.  Ill,  3,  we   read   yatraitat   purusha  arto
 
@@ -10100,8 +9628,7 @@ when  he  thus  departs,  life  (the  chief  pra;2a)  departs
 after  him,  and  when  life  thus  departs,  all  the  other
 
 
-marishyan  abalyam  etya  sammohati.  Here  abalyam  should  cer-
-tainly be  abalyam,  as  in  the  commentary ;  but  should  it  not  be
+marishyan  abalyam  etya  sammohati.  Here  abalyam  should  certainly be  abalyam,  as  in  the  commentary ;  but  should  it  not  be
 abalyam,  as  here.     See  also  Brih.  Up.  Ill,  5,  i,  note.
 
 ^  Alkshusha  purusha  is  explained  as  that  portion  of  the  sun
@@ -10160,8 +9687,7 @@ addictionem  sumat  ....  in  illo  corpore  aham  est,  id  est,  ego  sum.'
 
 ^  This  acquaintance  with  former  things  is  necessary  to  explain
 the  peculiar  talents  or  deficiencies  which  we  observe  in  children.
-The  three  words  vidya,  karman,  and  purvapra^wa  often  go  toge-
-ther (see  ^ahkara  on  Brih.  Up.  IV,  3,  9).  Deussen's  conjecture,
+The  three  words  vidya,  karman,  and  purvapra^wa  often  go  together (see  ^ahkara  on  Brih.  Up.  IV,  3,  9).  Deussen's  conjecture,
 apiarvapra^wa,  is  not  called  for.
 
 ^  See  Brih.  Up.  IV,  3,  9,  a  passage  which  shows  how  difficult
@@ -10171,16 +9697,12 @@ same  words  in  English ;  see  also  Brahmopanishad,  p.  245.
 *  See  Brih.  Up.  IV,  3,  9,  and  IV,  3,  13.
 
 
-1
-
-
 /
 
 
 1 76  Bi27HADARAiVYAKA-UPANISHAD.
 
-and  dispelled  all  ignorance,  make  unto  himself  an-
-other, newer  and  more  beautiful  shape,  whether  it  be
+and  dispelled  all  ignorance,  make  unto  himself  another, newer  and  more  beautiful  shape,  whether  it  be
 like  the  Fathers,  or  like  the  Gandharvas,  or  like  the
 Devas,  or  like  Pra^apati,  or  like  Brahman,  or  like
 other  beings.
@@ -10229,12 +9751,10 @@ p.  loi  and  p.  139,  has  not  observed.
 IV  ADHYAYA,    4  BRAHMA;\rA,   II.  I  77
 
 which  once  entered  his  heart  are  undone,  then  does
-the  mortal  become  immortal,  then  he  obtains  Brah-
-man."
+the  mortal  become  immortal,  then  he  obtains  Brahman."
 
 '  And  as  the  slough  of  a  snake  lies  on  an  ant-hill,
-dead  and  cast  away,  thus  lies  this  body  ;  but  that  dis-
-embodied immortal  spirit  (pr^;^a,  life)  is  Brahman
+dead  and  cast  away,  thus  lies  this  body  ;  but  that  disembodied immortal  spirit  (pr^;^a,  life)  is  Brahman
 only,  is  only  light'
 
 6^anaka  Vaideha  said:  'Sir,  I  give  you  a  thousand.'
@@ -10262,8 +9782,7 @@ the  mouth  of  Ya^favalkya.
 
 ^  Instead  of  vitata/;,  which  perhaps  seemed  to  be  in  contradiction
 with  a^u,  there  is  a  Madhyandina  reading  vitara,  probably  intended
-originally  to  mean  leading  across.  The  other  adjective  mam-
-spr?sh/a  I  cannot  explain.  -S'ahkara  explains  it  by  vnim  spnsh/a/^,
+originally  to  mean  leading  across.  The  other  adjective  mamspr?sh/a  I  cannot  explain.  -S'ahkara  explains  it  by  vnim  spnsh/a/^,
 maya  labdha//.
 
 ^  That  this  is  the  true  meaning,  is  indicated  by  the  various
@@ -10291,8 +9810,7 @@ He,"  what  could  he  wish  or  desire  that  he  should
 pine  after  the  body\
 
 13.  'Whoever  has  found  and  understood  the  Self
-that  has  entered  into  this  patched-together  hiding-
-place  ^,  he  indeed  is  the  creator,  for  he  is  the  maker
+that  has  entered  into  this  patched-together  hidingplace  ^,  he  indeed  is  the  creator,  for  he  is  the  maker
 of  everything,  his  is  the  world,  and  he  is  the  world
 itself  ^
 
@@ -10334,8 +9852,7 @@ ear,  food,  and  mind.
 
 IV  ADHYAYA,    4  BRAHMAA^A,   22.  I  79
 
-know,  believe  him  to  be  Brahman  ;   I  who  am  im-
-mortal, believe  him  to  be  immortal.
+know,  believe  him  to  be  Brahman  ;   I  who  am  immortal, believe  him  to  be  immortal.
 
 18.  '  They  who  know  the  life  of  life,  the  eye  of  the
 eye,  the  ear  of  the  ear,  the  mind  of  the  mind,  they
@@ -10358,8 +9875,7 @@ of  knowledge,  is  surrounded  by  the  Pra/^as,  the  ether
 within  the  heart*.  In  it  there  reposes  the  ruler  of  all,
 the  lord  of  all,  the  king  of  all.  He  does  not  become
 greater  by  good  works,  nor  smaller  by  evil  works.
-He  is  the  lord  of  all,  the  king  of  all  things,  the  pro-
-tector of  all  things.  He  is  a  bank^  and  a  boundary,
+He  is  the  lord  of  all,  the  king  of  all  things,  the  protector of  all  things.  He  is  a  bank^  and  a  boundary,
 so  that  these  worlds  may  not  be  confounded.  Brah- '
 ma/^as  seek  to  know  him  by  the  study  of  the  Veda,  by
 sacrifice,  by  gifts,  by  penance,  by  fasting,  and  he  who
@@ -10388,8 +9904,7 @@ wealth,  and  new  worlds,  wander  about  as  mendicants.
 For  desire  for  sons  is  desire  for  wealth,  and  desire
 for  wealth  is  desire  for  worlds.  Both  these  are  indeed
 desires  only.  He,  the  Self,  is  to  be  described  by  No,
-no^!  He  is  incomprehensible,  for  he  cannot  be  com-
-prehended; he  is  imperishable,  for  he  cannot  perish  ;
+no^!  He  is  incomprehensible,  for  he  cannot  be  comprehended; he  is  imperishable,  for  he  cannot  perish  ;
 he  is  unattached,  for  he  does  not  attach  himself;
 unfettered,  he  does  not  suffer,  he  does  not  fail.  Him
 (who  knows),  these  two  do  not  overcome,  whether
@@ -10410,8 +9925,7 @@ self  in  Self,  sees  all  as  Self.  Evil  does  not  overcome
 him,  he  overcomes  all  evil.  Evil  does  not  burn  him,
 he  burns  all  evil.  Free  from  evil,  free  from  spots,
 free  from  doubt,  he  becomes  a  (true)  Brahma^^a ;  this
-is  the  Brahma-world,  O  King,' — thus  spoke  Ya^;1a-
-valkya.
+is  the  Brahma-world,  O  King,' — thus  spoke  Ya^;1avalkya.
 
 6^anaka  Vaideha  said  :  '  Sir,  I  give  you  the  Videhas,
 and  also  myself,  to  be  together  your  slaves.'
@@ -10528,22 +10042,18 @@ love  the  Vedas ;  but  that  you  may  love  the  Self,
 therefore  the  Vedas  are  dear.
 
 *  Verily,  creatures  are  not  dear,  that  you  may  love
-the  creatures ;  but  that  you  may  love  the  Self,  there-
-fore are  creatures  dear.
+the  creatures ;  but  that  you  may  love  the  Self,  therefore are  creatures  dear.
 
 '  Verily,  everything  is  not  dear,  that  you  may  love
-everything ;  but  that  you  may  love  the  Self,  there-
-fore everything  is  dear.
+everything ;  but  that  you  may  love  the  Self,  therefore everything  is  dear.
 
 '  Verily,  the  Self  is  to  be  seen,  to  be  heard,  to  be
 perceived,  to  be  marked,  O  Maitreyi !  When  the
 Self  has  been  seen,  heard,  perceived,  and  known,
 then  all  this  is  known,'
 
-7.  '  Whosoever  looks  for  the  Brahman-class  else-
-where than  in  the  Self,  was  abandoned  by  the
-Brahman-class.  Whosoever  looks  for  the  Kshatra-
-class  elsewhere  than  in  the  Self,  was  abandoned  by
+7.  '  Whosoever  looks  for  the  Brahman-class  elsewhere than  in  the  Self,  was  abandoned  by  the
+Brahman-class.  Whosoever  looks  for  the  Kshatraclass  elsewhere  than  in  the  Self,  was  abandoned  by
 the  Kshatra-class.  Whosoever  looks  for  the  worlds
 elsewhere  than  in  the  Self,  was  abandoned  by  the
 worlds.  Whosoever  looks  for  the  Devas  elsewhere
@@ -10552,8 +10062,7 @@ Whosoever  looks  for  the  Vedas  elsewhere  than  in
 the  Self,  was  abandoned  by  the  Vedas.  Whosoever
 looks  for  the  creatures  elsewhere  than  in  the  Self,
 was  abandoned  by  the  creatures.  Whosoever  looks
-for  anything  elsewhere  than  in  the  Self,  was  aban-
-doned by  anything.
+for  anything  elsewhere  than  in  the  Self,  was  abandoned by  anything.
 
 *  This  Brahman-class,  this  Kshatra-class,  these
 worlds,  these  Devas,  these  Vedas,  all  these  beings,
@@ -10581,10 +10090,8 @@ of  the  lute ;
 11.  'As  clouds  of  smoke  proceed  by  themselves
 out  of  lighted  fire  kindled  with  damp  fuel,  thus
 verily,  O  Maitreyi,  has  been  breathed  forth  from
-this  great  Being  what  we  have  as  J^ig-veda.,  Ya^ur-
-veda,  Sama-veda,  Atharvaiigirasas,  Itihasa,  Pura;2a,
-Vidya,  the  Upanishads,  ^Slokas,  Sutras,  Anuvya-
-khyanas,  Vyakhyanas,  what  is  sacrificed,  what  is
+this  great  Being  what  we  have  as  J^ig-veda.,  Ya^urveda,  Sama-veda,  Atharvaiigirasas,  Itihasa,  Pura;2a,
+Vidya,  the  Upanishads,  ^Slokas,  Sutras,  Anuvyakhyanas,  Vyakhyanas,  what  is  sacrificed,  what  is
 poured  out,  food,  drink  ^  this  world  and  the  other
 world,  and  all  creatures.  From  him  alone  all  these
 were  breathed  forth.
@@ -10598,15 +10105,13 @@ the  feet,  and  all  the  Vedas  in  speech, —
 
 13.  'As  a  mass  of  salt  has  neither  inside  nor
 outside,  but  is  altogether  a  mass  of  taste,  thus  indeed
-has  that  Self  neither  inside  nor  outside,  but  is  alto-
-gether a  mass  of  knowledge  ;  and  having  risen  from
+has  that  Self  neither  inside  nor  outside,  but  is  altogether a  mass  of  knowledge  ;  and  having  risen  from
 out  these  elements,  vanishes  again  in  them.  When
 he  has  departed,  there  is  no  more  knowledge  (name),
 I  say,  O  Maitreyi,' — thus  spoke  Ya^;/avalkya.
 
 
-Explained  by  annadananimittam  and  peyadananimittaw  dhar-
-mao-atam.     See  before,  IV,  i,  2.
+Explained  by  annadananimittam  and  peyadananimittaw  dharmao-atam.     See  before,  IV,  i,  2.
 
 
 IV  ADHYAYA,    6  BRAHMAiVA,   I.  I  85
@@ -10616,8 +10121,7 @@ landed  me  in  utter  bewilderment.  Indeed,  I  do  not
 understand  him.'
 
 But  he  replied  :  *  O  Maitreyi,  I  say  nothing  that  is
-bewildering.  Verily,  beloved,  that  Self  is  imperish-
-able, and  of  an  Indestructible  nature.
+bewildering.  Verily,  beloved,  that  Self  is  imperishable, and  of  an  Indestructible  nature.
 
 15.  'For  when  there  is  as  it  were  duality,  then
 one  sees  the  other,  one  smells  the  other,  one  tastes
@@ -10710,10 +10214,8 @@ I.  ^aurpawayya,  2.  Gautama,  3.Vatsya,  4.  Parai-arya,  &c.,  as  in  the
 Madhuka«(fa,  p.  118,  except  in  10,  where  it  gives  G'aivantayana  for
 Atreya.  Then  after  12.  Kau7/^inyayana,  it  gives  13.  14.  the  two
 Kau?/^inyas,  15,  the  Aur;zavabhas,  16.  Kauwa^inya,  17.  KauwsTmya,
-18.  Kauw^inya  and  Agnive^-ya,  19.  Saitava,  20.  Para^arya,  21.  Gatu-
-kar«ya,  22.  Bharadv%a,  23.  Bharadva^a,  Asuraya«a,  and  Gautama,
-24.  Bharadva^a,  25.  Valakakauj-ika,  26.  Kashayawa,  27.  Saukara-
-ya«a,  28.  Traivam,  29.  Aupa^andhani,  30.  Sayakayana,  31.  Kauji-
+18.  Kauw^inya  and  Agnive^-ya,  19.  Saitava,  20.  Para^arya,  21.  Gatukar«ya,  22.  Bharadv%a,  23.  Bharadva^a,  Asuraya«a,  and  Gautama,
+24.  Bharadva^a,  25.  Valakakauj-ika,  26.  Kashayawa,  27.  Saukaraya«a,  28.  Traivam,  29.  Aupa^andhani,  30.  Sayakayana,  31.  Kauji-
 kayani,  &c.,  as  in  the  Ka«va  text,  from  No.  22  to  Brahman.
 
 ^  From  here  the  Vawja  agrees  again  with  that  given  at  the  end
@@ -10815,10 +10317,8 @@ FIFTH   ADHYAYA.
 First  BRAHMAiVA^
 
 I.  That  (the  invisible  Brahman)  is  full,  this  (the
-visible  Brahman)  is  full  ^.  This  full  (visible  Brah-
-man) proceeds  from  that  full  (invisible  Brahman).
-On  grasping  the  fulness  of  this  full  (visible  Brah-
-man) there  is  left  that  full  (invisible  Brahman)  3.
+visible  Brahman)  is  full  ^.  This  full  (visible  Brahman) proceeds  from  that  full  (invisible  Brahman).
+On  grasping  the  fulness  of  this  full  (visible  Brahman) there  is  left  that  full  (invisible  Brahman)  3.
 
 Om  (is)  ether,  (is)  Brahman  ^  '  There  is  the  old
 ether  (the  invisible),  and  the  (visible)  ether  of  the
@@ -10830,8 +10330,7 @@ all  that  has  to  be  known.
 Second  Brahmaata.
 
 1.  The  threefold  descendants  of  Pra^apati,  gods,
-men,  and  Asuras  (evil  spirits),  dwelt  as  Brahma/^-a-
-rins  (students)  with  their  father  Pra^apati.  Having
+men,  and  Asuras  (evil  spirits),  dwelt  as  Brahma/^-arins  (students)  with  their  father  Pra^apati.  Having
 finished  their  studentship  the  gods  said :  '  Tell  us
 (something),  Sir.'  He  told  them  the  syllable  Da.
 Then  he  said  :  '  Did  you  understand  ?'  They  said  :
@@ -10862,8 +10361,7 @@ said  :  'Did  you  understand  ?'  They  said  :  'We  did
 understand.  You  told  us,  "  Datta,"  Give.'  '  Yes,'  he
 said,  '  you  have  understood.'
 
-3.  Then  the  Asuras  said  to  him  :  '  Tell  us  some-
-thino-  Sir.'  He  told  them  the  same  syllable  Da.
+3.  Then  the  Asuras  said  to  him  :  '  Tell  us  somethino-  Sir.'  He  told  them  the  same  syllable  Da.
 Then  he  said  :  '  Did  you  understand  ?'  They  said  :
 'We  did  understand.  You  told  us,  "  Dayadham,"  Be
 merciful'     *  Yes,'  he  said,  '  you  have  understood.'
@@ -10912,8 +10410,7 @@ Fifth  Brahmaa^a.
 Water  produced  the  true  ^  and  the  true  is  Brahman.
 Brahman  produced  Pra^apati^  Pra^apati  the  Devas
 (gods).  The  Devas  adore  the  true  (satyam)  alone.
-This  satyam  consists  of  three  syllables.  One  syl-
-lable is  sa,  another  t(i),  the  third  ^  yam.  The  first
+This  satyam  consists  of  three  syllables.  One  syllable is  sa,  another  t(i),  the  third  ^  yam.  The  first
 and  last  syllables  are  true,  in  the  middle  there  is  the
 untrue  ^  This  untrue  is  on  both  sides  enclosed  by
 the  true,  and  thus  the  true  preponderates.  The
@@ -10937,15 +10434,13 @@ on  with  ya  tvzm  veda.
 
 ^  Here  explained  as  Vira^.
 
-^  Satyam  is  often  pronounced  satiam,  as  trisyllabic.  iS'ahkara,  how-
-ever, takes  the  second  syllable  as  t  only,  and  explains  the  i  after  it  as
+^  Satyam  is  often  pronounced  satiam,  as  trisyllabic.  iS'ahkara,  however, takes  the  second  syllable  as  t  only,  and  explains  the  i  after  it  as
 an  anubandha.  The  Ka«va  text  gives  the  three  syllables  as  sa,  ti,  am,
 which  seems  preferable;  cf.^^and.  Up.VIII,  3,  5;  Taitt.  Up.  II,  6.
 
 *  This  is  explained  by  a  mere  play  on  the  letters,  sa  and  ya
 having  nothing  in  common  with  mr/tyu,  death,  whereas  t  occurs  in
-mr/tyu  and  ann'ta.  Dvivedagafiga  takes  sa  and  am  as  true,  be-
-cause they  occur  in  satya  and  amrz'ta,  and  not  in  mntyu,  while  ti
+mr/tyu  and  ann'ta.  Dvivedagafiga  takes  sa  and  am  as  true,  because they  occur  in  satya  and  amrz'ta,  and  not  in  mntyu,  while  ti
 is  untrue,  because  the  t  occurs  in  mn'tyu  and  an/-/ta.
 
 
@@ -10961,8 +10456,7 @@ destroys  (hanti)  evil  and  leaves  (^ahati)  it
 
 4.  Of  the  person  in  the  right  eye  BhM  is  the  head,
 for  the  head  is  one,  and  that  syllable  is  one ;  Bhuva/^
-the  two  arms,  for  the  arms  are  two,  and  these  sylla-
-bles are  two;  Svar  the  foot,  for  the  feet  are  two,  and
+the  two  arms,  for  the  arms  are  two,  and  these  syllables are  two;  Svar  the  foot,  for  the  feet  are  two,  and
 these  syllables  are  two.  Its  secret  name  is  Aham
 (ego),  and  he  who  knows  this,  destroys  (hanti)  evil
 and  leaves  (^ahati)  it.
@@ -11053,8 +10547,7 @@ a  dead  person  into  the  forest  2.  He  who  knows  this,
 conquers  the  highest  world.
 
 This  is  indeed  the  highest  penance,  if  they  place  a
-dead  person  on  the  fire^  He  who  knows  this,  con-
-quers the  highest  world.
+dead  person  on  the  fire^  He  who  knows  this,  conquers the  highest  world.
 
 Twelfth  BRAHMAivA.
 
@@ -11063,8 +10556,7 @@ so,  for  food  decays  without  life  (pra;^a).  Others  say
 that  life  (pra;^a)  is  Brahman,  but  this  is  not  so,  for  life
 dries  up  without  food.  Then  these  two  deities  (food
 and  life),  when  they  have  become  one,  reach  that
-highest  state  (i.e.  are  Brahman).  Thereupon  Pra-
-tr/da  said  to  his  father :  '  Shall  I  be  able  to  do  any
+highest  state  (i.e.  are  Brahman).  Thereupon  Pratr/da  said  to  his  father :  '  Shall  I  be  able  to  do  any
 good  to  one  who  knows  this,  or  shall  I  be  able  to  do
 him  any  harm*?'  The  father  said  to  him,  beckoning
 with  his  hand:  '  Not  so,  O  Pratr/da ;  for  who  could
@@ -11074,8 +10566,7 @@ oneness  of  these  two  ?'     He  then  said  to  him  :  '  Vi ;
 ^  The  meaning  is  that,  while  he  is  suffering  pain  from  illness,  he
 should  think  that  he  was  performing  penance.  If  he  does  that,
 he  obtains  the  same  reward  for  his  sickness  which  he  would  have
-obtained  for  similar  pain  inflicted  on  himself  for  the  sake  of  per-
-forming penance.
+obtained  for  similar  pain  inflicted  on  himself  for  the  sake  of  performing penance.
 
 ^  This  is  like  the  penance  of  leaving  the  village  and  living  in
 the  forest.
@@ -11105,31 +10596,25 @@ with  the  Uktha.
 2.  Next  follows  the  Ya^us.  Verily,  breath  is
 Ya^us,  for  all  these  beings  are  joined  in  breath^.
 For  him  who  knows  this,  all  beings  are  joined  to
-procure  his  excellence ;  he  obtains  union  and  one-
-ness with  the  Ya^us.
+procure  his  excellence ;  he  obtains  union  and  oneness with  the  Ya^us.
 
 3.  Next  follows  the  Saman.  Verily,  breath  is  the
 Saman,  for  all  these  beings  meet  in  breath.  For  him
-who  knows  this,  all  beings  meet  to  procure  his  excel-
-lence ;  he  obtains  union  and  oneness  with  the  Saman.
+who  knows  this,  all  beings  meet  to  procure  his  excellence ;  he  obtains  union  and  oneness  with  the  Saman.
 
 4.  Next  follows  the  Kshatra.  Verily,  breath  is
-the  Kshatra,  for  breath  is  Kshatra,  i.e.  breath  pro-
-tects (trayate)  him  from  being  hurt  (ksha;^ito/^).
+the  Kshatra,  for  breath  is  Kshatra,  i.e.  breath  protects (trayate)  him  from  being  hurt  (ksha;^ito/^).
 He  who  knows  this,  obtains  Kshatra  (power),  which
-requires  no  protection ;  he  obtains  union  and  one-
-ness with   Kshatra^
+requires  no  protection ;  he  obtains  union  and  oneness with   Kshatra^
 
 ^  Meditation  on  the  hymn  called  uktha.  On  the  uktha,  as  the
 principal  part  in  the  Mahavrata,  see  Kaush.Up.  Ill,  3;  Ait.  Ar.  II,  i,  2.
 The  uktha,  ya_^us,  saman,  &c.  are  here  represented  as  forms  under
 which  pra«a  or  life,  and  indirectly  Brahman,  is  to  be  meditated  on.
 
-"^  Without  life  or  breath  nothing  can  join  anything  else ;  there-
-fore life  is  called  ya^us,  as  it  were  yu^us.
+"^  Without  life  or  breath  nothing  can  join  anything  else ;  therefore life  is  called  ya^us,  as  it  were  yu^us.
 
-^  Instead  of  Kshatram  atram,  another  .Sakha,  i.  e.  the  Madhyan-
-dina,  reads  Kshatramatram,  which  Dvivedaganga  explains  as,  he
+^  Instead  of  Kshatram  atram,  another  .Sakha,  i.  e.  the  Madhyandina,  reads  Kshatramatram,  which  Dvivedaganga  explains  as,  he
 
 O  2
 
@@ -11181,13 +10666,11 @@ V  ADHYAYA,   1 4  BRAHMAiVA,  5.  I  97
 
 skies)  is  meant  for  him  who  shines  higher  and  higher
 above  every  sky.  And  he  who  thus  knows  that  foot
-of  the  Gayatri,  shines  thus  himself  also  with  hap-
-piness and  glory.
+of  the  Gayatri,  shines  thus  himself  also  with  happiness and  glory.
 
 4.  That  Gayatri  (as  described  before  with  its  three
 feet)  rests  on  that  fourth  foot,  the  bright  one,  high
-above  the  sky.  And  that  again  rests  on  the  True  (sa-
-tyam),  and  the  True  is  the  eye,  for  the  eye  is  (known
+above  the  sky.  And  that  again  rests  on  the  True  (satyam),  and  the  True  is  the  eye,  for  the  eye  is  (known
 to  be)  true.  And  therefore  even  now,  if  two  persons
 come  disputing,  the  one  saying,  I  saw,  the  other,
 I  heard,  then  we  should  trust  the  one  who  says,  I
@@ -11312,8 +10795,7 @@ person.
 sun)  is  covered  by  a  golden  disk.'  6'ahkara  explains  here  mukha,
 face,  by  mukhya;?i  svarupam,  the  principal  form  or  nature.
 
-*  Pushan  is  here  explained  as  a  name  of  Savitr/,  the  sun ;  like-
-wise all  the  names  in  the  next  verse.
+*  Pushan  is  here  explained  as  a  name  of  Savitr/,  the  sun ;  likewise all  the  names  in  the  next  verse.
 
 "  Cf.  Maitr.  Up.  VI,  35.
 
@@ -11328,8 +10810,7 @@ what  he  is  (viz.  the  person  in  the  sun).
 
 3.  Breath  to  air  and  to  the  immortal !  Then  this
 my  body  ends  in  ashes.  Om !  Mind,  remember !
-Remember  thy  deeds  !  Mind,  remember !  Remem-
-ber thy  deeds  ^ !
+Remember  thy  deeds  !  Mind,  remember !  Remember thy  deeds  ^ !
 
 4.  Agni,  lead  us  on  to  wealth  (beatitude)  by  a  good
 path^  thou,  O  God,  who  knowest  all  things!  Keep
@@ -11337,8 +10818,7 @@ far  from  us  crooked  evil,  and  we  shall  offer  thee  the
 fullest  praise  !    (Rv.  I,  189,  i.)
 
 *  The  Va^asaneyi-sa;?/hita  reads  :  Om,  krato  smara,  klibe  smara,
-kntd.m  smara.  Uva/a  holds  that  Agni,  fire,  who  has  been  wor-
-shipped in  youth  and  manhood,  is  here  invoked  in  the  form  of
+kntd.m  smara.  Uva/a  holds  that  Agni,  fire,  who  has  been  worshipped in  youth  and  manhood,  is  here  invoked  in  the  form  of
 mind,  or  that  kratu  is  meant  for  sacrifice.  'Agni,  remember  me!
 Think  of  the  world!  Remember  my  deeds!'  K//be  is  explained
 by  Mahidhara  as  a  dative  of  k/zp,  k//p  meaning  loka,  world,  what
@@ -11361,8 +10841,7 @@ First  BRAHMAiVA-
 the  best,  becomes  himself  the  first  and  the  best
 among  his  people.  Breath  is  indeed  the  first  and
 the  best.  He  who  knows  this,  becomes  the  first
-and  the  best  among  his  people,  and  among  whom-
-soever he  wishes  to  be  so.
+and  the  best  among  his  people,  and  among  whomsoever he  wishes  to  be  so.
 
 2.  He  who  knows  the  richest^,  becomes  himself
 the  richest  among  his  people.  Speech  is  the  richest.
@@ -11376,8 +10855,7 @@ stands  firm  on  even  and  uneven  ground.  He  who
 knows  this,  stands  firm  on  even  and  uneven  ground.
 
 4.  He  who  knows  success,  whatever  desire  he
-desires,  it  succeeds  to  him.  The  ear  indeed  is  suc-
-cess. For  in  the  ear  are  all  these  Vedas  successful.
+desires,  it  succeeds  to  him.  The  ear  indeed  is  success. For  in  the  ear  are  all  these  Vedas  successful.
 He  who  knows  this,  whatever  desire  he  desires,  it
 succeeds  to  him.
 
@@ -11403,8 +10881,7 @@ a  home  of  his  own  people  and  a  home  of  all  men.
 offspring  and  cattle.  Seed  indeed  is  generation.  He
 who  knows  this,  becomes  rich  in  offspring  and  cattle.
 
-7.  These  Pra/^as  (senses),  when  quarrelling  toge-
-ther as  to  who  was  the  best,  went  to  Brahman  ^
+7.  These  Pra/^as  (senses),  when  quarrelling  together as  to  who  was  the  best,  went  to  Brahman  ^
 and  said  :  '  Who  is  the  richest  of  us  ?'  He  replied  :
 '  He  by  whose  departure  this  body  seems  worst,  he
 is  the  richest.'
@@ -11420,8 +10897,7 @@ Then  speech  entered  in.
 
 9.  The  eye  (sight)  departed,  and  having  been
 absent  for  a  year,  it  came  back  and  said  :  '  How
-have  you  been  able  to  live  without  me  ?'  They  re-
-plied :  '  Like  blind  people,  not  seeing  with  the  eye,
+have  you  been  able  to  live  without  me  ?'  They  replied :  '  Like  blind  people,  not  seeing  with  the  eye,
 but  breathing  with  the  breath,  speaking  with  the
 tongue,  hearing  with  the  ear,  knowing  with  the
 mind,  generating  with  seed.  Thus  we  have  lived.'
@@ -11429,8 +10905,7 @@ Then  the  eye  entered  in.
 
 10.  The  ear  (hearing)  departed,  and  having  been
 absent  for  a  year,  it  came  back  and  said  :  '  How
-have  you  been  able  to  live  without  me  ? '  They  re-
-plied :  '  Like  deaf  people,  not  hearing  with  the  ear,
+have  you  been  able  to  live  without  me  ? '  They  replied :  '  Like  deaf  people,  not  hearing  with  the  ear,
 
 ^  This  is  wanting  in  the ^/^and.  Up.  Roer  and  Foley  read  Pra^apati
 for  pra^ati.    MS.  I.  O.  375  has  pra^ati,  MS.  I.  O.  1973  pra^apati.
@@ -11462,8 +10937,7 @@ but  breathing  with  the  breath,  seeing  with  the  eye,
 hearing  with  the  ear,  knowing  with  the  mind.  Thus
 we  have  lived.'     Then  the  seed  entered  in.
 
-13.  The  (vital)  breath,  when  on  the  point  of  de-
-parting, tore  up  these  senses,  as  a  great,  excellent
+13.  The  (vital)  breath,  when  on  the  point  of  departing, tore  up  these  senses,  as  a  great,  excellent
 horse  of  the  Sindhu  country  might  tare  up  the  pegs
 to  which  he  is  tethered.  They  said  to  him  :  '  Sir,
 do  not  depart.  We  shall  not  be  able  to  live  without
@@ -11498,8 +10972,7 @@ thinking  that  thereby  they  make  the  breath  dressed
 Second  BRAHMAivA^
 
 1.  6'vetaketu  Aru;^eya  went  to  the  settlement  of
-the  Pa;//C'alas.  He  came  near  to  Pravaha;^a  6^ai-
-vali^,  who  was  walking  about  (surrounded  by  his
+the  Pa;//C'alas.  He  came  near  to  Pravaha;^a  6^aivali^,  who  was  walking  about  (surrounded  by  his
 men).  As  soon  as  he  (the  king)  saw  him,  he  said  :
 '  My  boy !'     6'vetaketu  replied  :  '  Sir  !'
 
@@ -11516,8 +10989,7 @@ world  ?'     '  No,'  he  replied ^
 ^  It  may  mean,  every  kind  of  food,  such  as  is  eaten  by  dogs,
 worms,  insects,  and  birds.
 
-^  We  must  read,  with  MS.  I.O.  375,  anasyannam,  not  annasyan-
-nam,  as  MS.  I.O.  1973,  Roer,  and  Foley  read.  Weber  has  the  right
+^  We  must  read,  with  MS.  I.O.  375,  anasyannam,  not  annasyannam,  as  MS.  I.O.  1973,  Roer,  and  Foley  read.  Weber  has  the  right
 reading,  which  is  clearly  suggested  by  J^Mnd.  Up.  V,  2,  i.
 
 '  See  ^/zand.  Up.  V,  3  ;  Muir,  Original  Sanskrit  Texts,  I,  433;
@@ -11544,20 +11016,17 @@ and  rise  and  speak  ?'     '  No,'  he  replied.
 
 *  Do  you  know  the  access  to  the  path  leading  to
 the  Devas  and  to  the  path  leading  to  the  Fathers,
-i.  e.  by  what  deeds  men  gain  access  to  the  path  lead-
-ing to  the  Devas  or  to  that  leading  to  the  Fathers  ?
+i.  e.  by  what  deeds  men  gain  access  to  the  path  leading to  the  Devas  or  to  that  leading  to  the  Fathers  ?
 For  we  have  heard  even  the  saying  of  a  7?/shi  :  "  I
 heard  of  two  paths  for  men,  one  leading  to  the
 Fathers,  the  other  leading  to  the  Devas.  On  those
-paths  all  that  lives  moves  on,  whatever  there  is  be-
-tween father  (sky)  and  mother  (earth)."  '
+paths  all  that  lives  moves  on,  whatever  there  is  between father  (sky)  and  mother  (earth)."  '
 
 ^'vetaketu  said  :  '  I  do  not  know  even  one  of  all
 these  questions.'
 
 3.  Then  the  king  invited  him  to  stay  and  accept
-his  hospitality.  But  the  boy,  not  caring  for  hospi-
-tality, ran  away,  went  back  to  his  father,  and  said  :
+his  hospitality.  But  the  boy,  not  caring  for  hospitality, ran  away,  went  back  to  his  father,  and  said  :
 '  Thus  then  you  called  me  formerly  well-instructed  !'
 The  father  said  :  '  What  then,  you  sage  ?'  The  son
 replied  :  '  That  fellow  of  a  Ra^anya  asked  me  five
@@ -11579,8 +11048,7 @@ do  not  support  this.
 
 206  B22/HADARAiVYAKA-UPANISIIAD.
 
-Then  Gautama  went  where  (the  place  of)  Prava-
-ha/^a  6^aivali  was,  and  the  king  offered  him  a  seat,
+Then  Gautama  went  where  (the  place  of)  Pravaha/^a  6^aivali  was,  and  the  king  offered  him  a  seat,
 ordered  water  for  him,  and  gave  him  the  proper
 offerings.  Then  he  said  to  him  :  '  Sir,  we  offer  a
 boon  to  Gautama.'
@@ -11597,12 +11065,10 @@ gold,  plenty  of  cows,  horses,  slaves,  attendants,  and
 apparel ;  do  not  heap  on  me  ^  what  I  have  already  in
 plenty,  in  abundance,  and  superabundance.'
 
-The  king  said  :  '  Gautama,  do  you  wish  (for  in-
-struction from  me)  in  the  proper  way  ? '
+The  king  said  :  '  Gautama,  do  you  wish  (for  instruction from  me)  in  the  proper  way  ? '
 
 Gautama  replied  :  '  I  come  to  you  as  a  pupil.'
-In  word  only  have  former  sages  (though  Brah-
-mans)  come  as  pupils  (to  people  of  lower  rank),  but
+In  word  only  have  former  sages  (though  Brahmans)  come  as  pupils  (to  people  of  lower  rank),  but
 Gautama  actually  dwelt  as  a  pupil  (of  Pravaha?2a,
 who  was  a  Ra^anya)  in  order  to  obtain  the  fame  of
 having  respectfully  served  his  master  ^.
@@ -11627,8 +11093,7 @@ distress,  he  says,  former  sages,  belonging  to  a  higher  caste,  have
 VI  ADHYAYA,   2  BRAHMAiVA,    II.  207
 
 8.  The  king  said :  '  Do  not  be  offended  with  us,
-neither  you  nor  your  forefathers,  because  this  know-
-ledge has  before  now  never  dwelt  with  any  Brah-
+neither  you  nor  your  forefathers,  because  this  knowledge has  before  now  never  dwelt  with  any  Brah-
 ma/^a\  But  I  shall  tell  it  to  you,  for  who  could
 refuse  you  when  you  speak  thus  ?
 
@@ -11642,8 +11107,7 @@ water  3).  From  that  oblation  rises  Soma,  the  king
 
 10.  '  The  altar,  O  Gautama,  is  Par^anya  (the  god
 of  rain)  ;  the  fuel  is  the  year  itself,  the  smoke  the
-clouds,  the  light  the  lightning,  the  coals  the  thunder-
-bolt, the  sparks  the  thunderings.  On  that  altar  the
+clouds,  the  light  the  lightning,  the  coals  the  thunderbolt, the  sparks  the  thunderings.  On  that  altar  the
 Devas  offer  Soma,  the  king  (the  moon).  From  that
 oblation  rises  rain.
 
@@ -11653,8 +11117,7 @@ the  night,  the  coals  the  moon,  the  sparks  the  stars.
 On  that  altar  the  Devas  offer  rain.  From  that
 oblation  rises  food.
 
-submitted  to  become  pupils  to  teachers  of  a  lower  caste,  not,  how-
-ever, in  order  to  learn,  but  simply  in  order  to  live.  Therefore
+submitted  to  become  pupils  to  teachers  of  a  lower  caste,  not,  however, in  order  to  learn,  but  simply  in  order  to  live.  Therefore
 Gautama  also  becomes  a  pupil  in  name  only,  for  it  would  be
 against  all  law  to  act  otherwise.  See  Gautama,  Dharma-sutras
 VII,  I,  ed.  Stenzler;  translated  by  Buhler,  p.  209.
@@ -11695,8 +11158,7 @@ in  colour.
 
 15.  '  Those  who  thus  know  this  (even  Grzliasthas),
 and  those  who  in  the  forest  worship  faith  and  the
-True  2  (Brahman  H ira;zyagarbha),  go  to  light  (ar-
-hs),  from  light  to  day,  from  day  to  the  increasing
+True  2  (Brahman  H ira;zyagarbha),  go  to  light  (arhs),  from  light  to  day,  from  day  to  the  increasing
 half,  from  the  increasing  half  to  the  six  months
 when  the  sun  goes  to  the  north,  from  those  six
 months  to  the  world  of  the  Devas  (Devaloka),  from
@@ -11759,8 +11221,7 @@ A  similar  construction  is^ayasva  mr/yasva,  see  AV^and.  Up.V,  10,  8.
 
 Up.  II,  3-'  ^  .        ■     .
 
-^  Yasmin  pu«ye  'nukule  'iini  karma  -^ikirshati  tata/^  prak  puwya-
-ham  evarabhya  dvada^aham  upasadvrati.
+^  Yasmin  pu«ye  'nukule  'iini  karma  -^ikirshati  tata/^  prak  puwyaham  evarabhya  dvada^aham  upasadvrati.
 
 [15]  P
 
@@ -11768,11 +11229,9 @@ ham  evarabhya  dvada^aham  upasadvrati.
 2  10  BiJ/HADARAiVYAKA-^UPANISHAD.
 
 
-made  of  Udumbara  wood  all  sorts  of  herbs,  includ-
-ing fruits.  He  sweeps  the  floor  (near  the  house-
+made  of  Udumbara  wood  all  sorts  of  herbs,  including fruits.  He  sweeps  the  floor  (near  the  house-
 altar,  avasathya),  sprinkles  it,  lays  the  fire,  spreads
-grass  round  it  according  to  rule  \  prepares  the  clari-
-fied butter  {^£y3.),  and  on  a  day,  presided  over  by  a
+grass  round  it  according  to  rule  \  prepares  the  clarified butter  {^£y3.),  and  on  a  day,  presided  over  by  a
 male  star  (nakshatra),  after  having  properly  mixed
 the  Mantha^  (the  herbs,  fruits,  milk,  honey,  &c.),
 he  sacrifices  (he  pours  a^ya  into  the  fire),  saying"".
@@ -11820,8 +11279,7 @@ VI  ADHYAYA,  3  BRAHMA^'A,   3.  211
 Home,  pours  ghee  into  the  fire,  and  throws  what
 remains  into  the  Mantha  (mortar).
 
-He  then  says,  Svaha  to  the  Mind,  Svaha  to  Off-
-spring, pours  ghee  into  the  fire,  and  throws  what
+He  then  says,  Svaha  to  the  Mind,  Svaha  to  Offspring, pours  ghee  into  the  fire,  and  throws  what
 remains  into  the  Mantha  (mortar).
 
 He  then  says,  Svaha  to  Seed, pours  ghee  into  the  fire,
@@ -11885,8 +11343,7 @@ He  then  says,  Svaha  to  Pra^apati,  pours  ghee
 into  the  fire,  and  throws  what  remains  into  the
 Mantha  (mortar).
 
-4.  Then  he  touches  it  (the  Mantha,  which  is  dedi-
-cated to  Pra;«a,  breath),  saying :  '  Thou  art  fleet  (as
+4.  Then  he  touches  it  (the  Mantha,  which  is  dedicated to  Pra;«a,  breath),  saying :  '  Thou  art  fleet  (as
 breath).  Thou  art  burning  (as  fire).  Thou  art  full
 (as  Brahman).  Thou  art  firm  (as  the  sky).  Thou
 art  the  abode  of  all  (as  the  earth).  Thou  hast  been
@@ -11901,8 +11358,7 @@ Thou  art  celebrated  again  (by  the  agnidhra  In  the
 middle  of  the  sacrifice).  Thou  art  bright  In  the  wet
 (cloud).  Thou  art  great.  Thou  art  powerful.  Thou
 art  food  (as  Soma).  Thou  art  light  (as  Agnl,  fire,
-the  eater).  Thou  art  the  end.  Thou  art  the  ab-
-sorption (of  all  things).'
+the  eater).  Thou  art  the  end.  Thou  art  the  absorption (of  all  things).'
 
 5.  Then  he  holds  it  (the  Mantha)  forth,  saying  :
 '  Thou  1  knowest  all,  we  know  thy  greatness.     He  is
@@ -11916,8 +11372,7 @@ VI  ADHYAYA,  3  BRAHMAiVA,   7.  213
 indeed  a  king,  a  ruler,  the  highest  lord.  May  that
 kine,  that  ruler  make  me  the  hio^hest  lord.'
 
-6.  Then  he  eats  it,  saying:  'Tat  savitur  vare-
-nyam^  (We  meditate  on  that  adorable  light) — The
+6.  Then  he  eats  it,  saying:  'Tat  savitur  varenyam^  (We  meditate  on  that  adorable  light) — The
 winds  drop  honey  for  the  righteous,  the  rivers  drop
 honey,  may  our  plants  be  sweet  as  honey !  BhM
 (earth)  Svaha !
@@ -11934,8 +11389,7 @@ honey  !     Sva/^  (heaven)  Svaha ! '
 
 He  repeats  the  whole  Savitri  verse,  and  all  the
 verses  about  the  honey,  thinking.  May  I  be  all  this !
-Bhur,  Bhuva/^,  Sva/^,  Svaha  !  Having  thus  swal-
-lowed all,  he  washes  his  hands,  and  sits  down  behind
+Bhur,  Bhuva/^,  Sva/^,  Svaha  !  Having  thus  swallowed all,  he  washes  his  hands,  and  sits  down  behind
 the  altar,  turning  his  head  to  the  East.  In  the
 morning  he  worships  Aditya  (the  sun),  with  the
 hymn,  '  Thou  art  the  best  lotus  of  the  four  quarters,
@@ -11993,13 +11447,9 @@ Udumbara  tree,  the  sacrificial  ladle  (sruva),  the  cup
 (/^amasa),  the  fuel,  and  the  two  churning  sticks.
 
 There  are  ten  kinds  of  village  (cultivated)  seeds,
-viz.  rice  and  barley  (brihiyavas),  sesamum  and  kidney-
-beans  (tilamashas),  millet  and  panic  seed  (a;mpriyafi-
+viz.  rice  and  barley  (brihiyavas),  sesamum  and  kidneybeans  (tilamashas),  millet  and  panic  seed  (a;mpriyafi-
 gavas),  wheat  (godhumas),  lentils  (masuras),  pulse
 (khalvas),  and  vetches  (khalakulas  '^.     After  having
-
-
-1
 
 
 The  Mantha-doctrine  with  the  prawadar^-ana.     Comm.
@@ -12016,8 +11466,7 @@ VI  ADHYAYA,    4  BRAHMAA^A,   2.
 
 
 ground  these  he  sprinkles  them  with  curds  (dadhi),
-honey,  and  ghee,  and  then  offers  (the  proper  por-
-tions) of  clarified  butter  ^  (af  ya).
+honey,  and  ghee,  and  then  offers  (the  proper  portions) of  clarified  butter  ^  (af  ya).
 
 Fourth  BRAHMAiVA^
 
@@ -12052,21 +11501,17 @@ r/lukalaw  patnya^  (brahma-^arye/^a)  pratikshata  iti.
 ^  I  have  given  those  portions  of  the  text  which  did  not  admit  of
 translation  into  English,  in  Sanskrit.  It  was  not  easy,  however,  to
 determine  always  the  text  of  the  Ka«va-sakha,  Poley's  text  is  not
-always  correct,  and  Roer  seems  simply  to  repeat  it.  ^S'ahkara's  com-
-mentary, which  is  meant  for  the  Kawva  text,  becomes  very  short
-towards  the  end  of  the  Upanishad.  It  is  quite  sufficient  for  the  pur-
-pose of  a  translation,  but  by  no  means  always  for  restoring  a  correct
+always  correct,  and  Roer  seems  simply  to  repeat  it.  ^S'ahkara's  commentary, which  is  meant  for  the  Kawva  text,  becomes  very  short
+towards  the  end  of  the  Upanishad.  It  is  quite  sufficient  for  the  purpose of  a  translation,  but  by  no  means  always  for  restoring  a  correct
 text.  MS.  Wilson  369,  which  has  been  assigned  to  theKa«va-jakha,
 and  which  our  Catalogue  attributes  to  the  same  school,  gives  the
-INIadhyandina  text,  and  so  does  MS.  INIill  108.  I  have  therefore  col-
-lated two  MSS.  of  the  India  Office,  which  Dr.  Rost  had  the  kindness
+INIadhyandina  text,  and  so  does  MS.  INIill  108.  I  have  therefore  collated two  MSS.  of  the  India  Office,  which  Dr.  Rost  had  the  kindness
 to  select  for  me,  MS.  375  and  MS.  1973,  which  I  call  A.  and  B.
 
 
 2  I  6  Bi?/HADARAi\rYAKA-UPANISHAD.
 
-3.  Tasya  vedir  upastho,  lomani  barhi^,  /^'arma-
-dhishava/^e,  samiddho  ^  madhyatas,  tau  mushkau.
+3.  Tasya  vedir  upastho,  lomani  barhi^,  /^'armadhishava/^e,  samiddho  ^  madhyatas,  tau  mushkau.
 Sa  ydvan  ha  vai  va^^apeyena  ya^^amanasya  loko
 bhavati  tavan  asya  loko  bhavati  ya  eva;;^  vidvan
 adhopahasaw  /-araty  a  sa^  strina7?i  sukr/taw  vrmkte
@@ -12074,8 +11519,7 @@ adhopahasaw  /-araty  a  sa^  strina7?i  sukr/taw  vrmkte
 strlya/^  sukrztam  vrm^ate.
 
 4.  Etad  dha  sma  vai  tadvidvan  Uddalaka  Aru/nr
-ahaltad  dha  sma  vai  tadvidvan  Nako  Maudgalya  ahai-
-tad  dha  sma  vai  tadvidvan  Kumaraharita  aha,  bahavo
+ahaltad  dha  sma  vai  tadvidvan  Nako  Maudgalya  ahaitad  dha  sma  vai  tadvidvan  Kumaraharita  aha,  bahavo
 marya  brahma/^ayana^  nirindriya  visukmo'smal  lokat
 prayanti^  ya  idam  avidva;;2so  'dhopahasa;;2  /-arantiti.
 Bahu  va^  ida;;^  suptasya  va^agrato  va  reta//  skandati,
@@ -12141,11 +11585,9 @@ become  glorious.
 9.  Sa  yam  U^Met  kamayeta  met!  tasyam  artha;;^
 nish/aya '^  mukhena  mukha/;?  sandhayopastham  asya
 abhimr/i-ya  ^aped  ahgadaiigat  sambhavasi  hr/dayad
-adhi  ^^ayase,  sa  tvam  aiigakashayo  ^  'si  digdhavid-
-dham^  iva  madayemam  amum  mayiti  ^
+adhi  ^^ayase,  sa  tvam  aiigakashayo  ^  'si  digdhaviddham^  iva  madayemam  amum  mayiti  ^
 
-10.  Atha  yam  iM/iGn  na  garbha;/^  dadhiteti^  tas-
-yam arthaw  nish/aya  mukhena  mukhaw  sandhaya-
+10.  Atha  yam  iM/iGn  na  garbha;/^  dadhiteti^  tasyam arthaw  nish/aya  mukhena  mukhaw  sandhaya-
 bhipra;^yapanyad  indriye/^a  te  retasa  reta  adada  ity
 areta^°  eva  bhavati.
 
@@ -12174,8 +11616,7 @@ Dvivedagahga  explains  madayeti.
 
 
 11.  Atha  yam  \kkhQ.d.  garbha;?2  dadhiteti  tasyam
-arthaw  nish/aya  mukhena  mukhaw  sandhayapa-
-nyabhipra?^yad  indriye/za  te  retasa  reta  adadhamiti
+arthaw  nish/aya  mukhena  mukhaw  sandhayapanyabhipra?^yad  indriye/za  te  retasa  reta  adadhamiti
 garbhi;/y  eva  bhavati.
 
 12.  Now  again,  if  a  man's  wife  has  a  lover  and
@@ -12195,8 +11636,7 @@ sacred  and  thy  good  works,  I  here.'
 '  Thou  hast  sacrificed  in  my  fire,  I  take  away  thy
 hope  and  expectation,  I  here.'
 
-He  whom  a  Brahma^^a  who  knows  this  curses,  de-
-parts from  this  world  without  strength  and  without
+He  whom  a  Brahma^^a  who  knows  this  curses,  departs from  this  world  without  strength  and  without
 good  works.  Therefore  let  no  one  wish  even  for
 sport  with  the  wife  of  a  .Srotriya^  who  knows  this,  for
 he  who  knows  this,  is  a  dangerous  enemy.
@@ -12241,8 +11681,7 @@ eat,  being  fit  to  have  offspring.
 15.  And  if  a  man  wishes  that  a  reddish^  son  with
 tawny  eyes  should  be  born  to  him,  and  that  he
 should  know  two  Vedas,  and  live  to  his  full  age,
-then,  after  having  prepared  boiled  rice  with  coagu-
-lated milk  and  butter,  they  should  both  eat,  being
+then,  after  having  prepared  boiled  rice  with  coagulated milk  and  butter,  they  should  both  eat,  being
 fit  to  have  offspring.
 
 16.  And  if  a  man  wishes  that  a  dark  son  should
@@ -12274,17 +11713,14 @@ plural     See  Paraskara  Grzliya-sutras  I,  11.
 2  20  B/LZHADARAiVYAKA-UPANISHAD.
 
 
-he  should  Uve  to  his  full  age,  then,  after  having  pre-
-pared boiled  rice  with  meat  and  butter,  they  should
+he  should  Uve  to  his  full  age,  then,  after  having  prepared boiled  rice  with  meat  and  butter,  they  should
 both  eat,  being  fit  to  have  offspring.  The  meat
 should  be  of  a  young  or  of  an  old  bull.
 
-19.  And  then  toward  morning,  after  having,  ac-
-cording to  the  rule  of  the  Sthalipaka  (pot-boiling),
+19.  And  then  toward  morning,  after  having,  according to  the  rule  of  the  Sthalipaka  (pot-boiling),
 performed  the  preparation  of  the  A^ya  (clarified
 butter^),  he  sacrifices  from  the  Sthalipaka  bit  by  bit,
-saying  :  '  This  is  for  Agni,  Svaha  !  This  is  for  Anu-
-mati,  Svaha !  This  is  for  the  divine  6'avitr/,  the  true
+saying  :  '  This  is  for  Agni,  Svaha  !  This  is  for  Anumati,  Svaha !  This  is  for  the  divine  6'avitr/,  the  true
 creator,  Svaha  !'  Having  sacrificed,  he  takes  out  the
 rest  of  the  rice  and  eats  it,  and  after  having  eaten,
 he  gives  it  to  his  wife.  Then  he  washes  his  hands,
@@ -12311,8 +11747,7 @@ husband.     See  A7/and.  Up.  I,  6,  i.
 *  Because  the  Sama-veda  rests  on  the  Rig-veda.
 
 ^  This  is  a  verse  which  is  often  quoted  and  explained.  It  occurs
-in  the  Atharva-veda  XIV,  71,  as  '  amo  'ham  asmi  sa  tvaw,  sama-
-ham  asmy  ri^  tvam,  dyaur  aham  pr/thivi  tvam ;  tav  iha  sam
+in  the  Atharva-veda  XIV,  71,  as  '  amo  'ham  asmi  sa  tvaw,  samaham  asmy  ri^  tvam,  dyaur  aham  pr/thivi  tvam ;  tav  iha  sam
 bhavava  pra^am  a  ^anayavahai.'
 
 Here  we  have  the  opposition  between  ama/z  and  sa,  while  in
@@ -12330,10 +11765,8 @@ Pra^apatir  Dhat^  garbhaw  dadhatu  te.  Garbha;;^
 dhehi  SInivali,  g-arbha?;2  dhehi  pmhush/uke,  garbha;;^
 te  Ajvinau  devav  adhattam  pushkarasra^au.
 
-22.  Hira;^mayi  ara^^i  yabhya;;^  nirmanthatam^  a^vi-
-nau  ^,  t3.m  te  garbha^^  havamahe  ^  daj'ame  masi
-stitave.  Yathagnigarbha  prz'thivi,  yatha  dyaur  in-
-drena.  garbhi;^i,  vayur  disam  yatha  garbha  eva;;^
+22.  Hira;^mayi  ara^^i  yabhya;;^  nirmanthatam^  a^vinau  ^,  t3.m  te  garbha^^  havamahe  ^  daj'ame  masi
+stitave.  Yathagnigarbha  prz'thivi,  yatha  dyaur  indrena.  garbhi;^i,  vayur  disam  yatha  garbha  eva;;^
 garbha;;^  dadhami  te  'sav  iti  ^.
 
 23.  Soshyantim^adbhirabhyukshati.  Yatha vayu/2'''
@@ -12343,8 +11776,7 @@ krita/i  sarga/a/^  ^  sapari^raya/^  ^,  tarn  indra  nir^ahi
 garbhe;2a  sa.vara;;2  ^'^  saheti.
 
 was  an  old  proverbial  formula,  and  that  it  meant  originally  no  more
-than  '  I  am  he,  and  thou  art  she.'  But  this  meaning  was  soon  for-
-gotten. In  the  i572and.  Up.  I,  6,  i,  we  find  sa  explained  as  earth,
+than  '  I  am  he,  and  thou  art  she.'  But  this  meaning  was  soon  forgotten. In  the  i572and.  Up.  I,  6,  i,  we  find  sa  explained  as  earth,
 ama  as  fire  (Sacred  Books  of  the  East,  vol.  i,  p.  13).  In  the  Ait.
 Brahmawa  sa  is  explained  as  jRi^,  ama  as  Saman.  I  have  therefore
 in  our  passage  also  followed  the  interpretation  of  the  commentary,
@@ -12360,8 +11792,7 @@ suyate,  B.  sfitaye.
 
 ^  Iti  nama  grzTiwati,  Madhyandina  text.  6'ahkara  says,  asav  iti
 tasya/^.  Anandagiri  says,  asav  iti  patyur  va  nirdesz/i ;  tasya  nama
-g/7'hwatTti  purve??a  sambandha>^.  Dvivedagahga  says,  ante  bharta-
-sav  aham  iti  svatmano  nama  gr/h«ati,  bharyaya  va.
+g/7'hwatTti  purve??a  sambandha>^.  Dvivedagahga  says,  ante  bhartasav  aham  iti  svatmano  nama  gr/h«ati,  bharyaya  va.
 
 ®  See  Paraskara  Gr/hya-sutra  I,  16  seq.  "^  Vata//,  M.
 
@@ -12376,11 +11807,9 @@ Dvivedagahga.
 2  22  BiUHADARAArVAKA-UPANISHAD.
 
 24  \  When  the  child  is  born,  he  prepares  the  fire,
-places  the  child  on  his  lap,  and  having  poured  prz-
-shada^a,  i.  e.  dadhi  (thick  milk)  mixed  with  ghrita.
+places  the  child  on  his  lap,  and  having  poured  przshada^a,  i.  e.  dadhi  (thick  milk)  mixed  with  ghrita.
 (clarified  butter)  into  a  metal  jug,  he  sacrifices  bit  by
-bit  of  that  p/'/shadac^ya,  saying  :  '  May  I,  as  I  in-
-crease In  this  my  house,  nourish  a  thousand  !  May
+bit  of  that  p/'/shadac^ya,  saying  :  '  May  I,  as  I  increase In  this  my  house,  nourish  a  thousand  !  May
 fortune  never  fail  in  his  race,  with  offspring  and
 cattle,  Svaha!'
 
@@ -12402,13 +11831,11 @@ savara;«  >^a  nirgamaya.
 
 ^  These  as  well  as  the  preceding  rules  refer  to  matters  generally
 treated  in  the  Gr^Tiya-sutras ;  see  Ajvalayana,  Gr/hya-sutras  I,
-13  seq.;  Paraskara,  Gr/hya-sQtras  1, 11  seq. ;  6'ankhayana,  Gn'hya-
-sutras  I,  19  seq.  It  is  curious,  however,  that  Ai'valayana  I,  13,  i,
+13  seq.;  Paraskara,  Gr/hya-sQtras  1, 11  seq. ;  6'ankhayana,  Gn'hyasutras  I,  19  seq.  It  is  curious,  however,  that  Ai'valayana  I,  13,  i,
 refers  distinctly  to  the  Upanishad  as  the  place  where  the  pu;«savana
 and  similar  matters  were  treated.  This  shows  that  the  Upanishads
 were  known  before  the  composition  of  the  Grz'hya-suiras,  and
-explains  perhaps,  at  least  partially,  why  the  Upanishads  were  con-
-sidered as  rahasya.  A^valayana  says, '  Conception,  begetting  of  a
+explains  perhaps,  at  least  partially,  why  the  Upanishads  were  considered as  rahasya.  A^valayana  says, '  Conception,  begetting  of  a
 boy,  and  guarding  the  embryo  are  to  be  found  in  the  Upanishad.
 But  if  a  man  does  not  read  the  Upanishad,  let  him  know  that  he
 should  feed  his  wife,'  &c.  Narayawa  explains  that  Ai'valayana  here
@@ -12424,8 +11851,7 @@ it  should  be  performed,  as  prescribed  by  -Saunaka  and  others.
 
 VI  ADHYAYA,    4  BRAHMAiVA,  28.  22  3
 
-that  he  pours  together  thick  milk,  honey,  and  clari-
-fied butter,  and  feeds  the  child  with  (a  ladle  of)
+that  he  pours  together  thick  milk,  honey,  and  clarified butter,  and  feeds  the  child  with  (a  ladle  of)
 pure  gold  ^  saying  :  '  I  give  thee  Bhu/^,  I  give  thee
 Bhuva/^,  I  give  thee  Sva//  ^  Bhtar,  Bhuva/^,  Sva/z,  I
 give  thee  all  ^'
@@ -12436,16 +11862,13 @@ art  Veda ;'  but  this  is  his  secret  name^.
 27.  Then  he  hands  the  boy  to  his  mother  and
 gives  him  her  breast,  saying :  '  O  Sarasvati,  that
 breast  ^of  thine  which  is  inexhaustible,  delightful,
-abundant,  wealthy,  generous,  by  which  thou  cherish-
-est  all  blessings,  make  that  to  flow  here''.'
+abundant,  wealthy,  generous,  by  which  thou  cherishest  all  blessings,  make  that  to  flow  here''.'
 
 28'^.  Then  he  addresses  the  mother  of  the  boy:
 
-^  Cf.  Paraskara  Gnliya-sutras  I,  16,  4,  anamikaya  suvamantar-
-hitaya  ;  5'arikhayana,  GnTiya-sfitras  I,  24,  pra^aye^ ^atarupewa.
+^  Cf.  Paraskara  Gnliya-sutras  I,  16,  4,  anamikaya  suvamantarhitaya  ;  5'arikhayana,  GnTiya-sfitras  I,  24,  pra^aye^ ^atarupewa.
 
-^  Bhur  bhuva//  sva/z  are  explained  by  Dvivedaganga  as  the  Ri'g-
-veda,  Ya^ur-veda,  and  Sama-veda.  They  might  also  be  earth,  air,
+^  Bhur  bhuva//  sva/z  are  explained  by  Dvivedaganga  as  the  Ri'gveda,  Ya^ur-veda,  and  Sama-veda.  They  might  also  be  earth,  air,
 and  heaven.  See  -Sahkhayana,  Gr/liya-sutras  I,  24;  Bhur  rzgveda»2
 tvayi  dadhami,  &c.
 
@@ -12482,8 +11905,7 @@ strong  children  thou  who  hast  blessed  me  with  a
 strong  child.'
 
 And  they  say  of  such  a  boy :  *  Ah,  thou  art  better
-than  thy  father  ;  ah,  thou  art  better  than  thy  grand-
-father. Truly  he  has  reached  the  highest  point  in
+than  thy  father  ;  ah,  thou  art  better  than  thy  grandfather. Truly  he  has  reached  the  highest  point  in
 happiness,  praise,  and  Vedic  glory  who  is  born  as
 the  son  of  a  Brahma;2a  that  knows  this.'
 
@@ -12505,20 +11927,16 @@ against  the  metre,  and  is  a  theoretical  rather  than  a  real  form.
 If  we  read  a^to-ana-^,  we  must  also  read  akara-^,  unless  we  are
 prepared  to  follow  the  commentator,  who  supplies  bhavati.
 
-^  The  Madhyandinas  begin  with  vayam,  we,  then  i.  Bharadva^i-
-putra,  2.  Vatsima«</aviputra,  3.  Para^ariputra,  4.  Gargiputra,  5.  Pa-
+^  The  Madhyandinas  begin  with  vayam,  we,  then  i.  Bharadva^iputra,  2.  Vatsima«</aviputra,  3.  Para^ariputra,  4.  Gargiputra,  5.  Pa-
 rajari-kau;;rf^miputra,  6.  Gargiputra,  7.  Gargiputra,  8.  Bao'eyiputra,
 9.  INIaushikiputra,  10.  Harikar/ziputra,  11.  Bharadv%iputra,  12.
 Paihgiputra,  13.  ^'aunakiputra,  14.  Kaj-yapi-balakya-ma//^ariputra,
-15.  Kautsiputra,  16.  Baudhiputra,  17.  6'alafikayamputra,  iS.Varsha-
-gawiputra,  19.  Gautamiputra,  20.  Atreyiputra,  21.  Gautamiputra,
-22.  Vatsiputra,  23.  Bharadva^iputra,  24.  Parajariputra,  25.  Varka-
-ruwiputra;  then  from  No.  20  as  in  the  Ka;A'a  text.
+15.  Kautsiputra,  16.  Baudhiputra,  17.  6'alafikayamputra,  iS.Varshagawiputra,  19.  Gautamiputra,  20.  Atreyiputra,  21.  Gautamiputra,
+22.  Vatsiputra,  23.  Bharadva^iputra,  24.  Parajariputra,  25.  Varkaruwiputra;  then  from  No.  20  as  in  the  Ka;A'a  text.
 
 This  stem  is  called  by  6'ankara,  Samastaprava/('anava;«ja//,  and
 Anandagiri  adds,  purvau  va.ms3.u  purushavii'eshitau,  tr/tiyas  tu
-striviseshita/z,  stripradhanyat.  Dvivedaganga  writes,  putramantha-
-karma/^ay^  strisawskararthatvenoktatvat  tatsannidhanad  aya/;/  vawja^
+striviseshita/z,  stripradhanyat.  Dvivedaganga  writes,  putramanthakarma/^ay^  strisawskararthatvenoktatvat  tatsannidhanad  aya/;/  vawja^
 stripradhanyeno-^yate.
 
 
@@ -12649,8 +12067,7 @@ A  ^
 52.  Ambhi;a  from  Aditya,  the  Sun.
 
 As  coming  from  Aditya,  the  Sun,  these  pure  ^
-Ya^s  verses  have  been  proclaimed  by  YagTia-
-valkya  Va^asaneya.
+Ya^s  verses  have  been  proclaimed  by  YagTiavalkya  Va^asaneya.
 
 
 '  Vaidabhrz'tiputra,  M.  2  Bhalukiputra,  M.
@@ -12659,8 +12076,7 @@ valkya  Va^asaneya.
 
 *  They  are  called  juklani,  white  or  pure,  because  they  are  not
 mixed  with  Brahma7ias,  avyamij-rawi  brahmawena  (doshair  asairkir-
-«ani,  paurusheyatvadoshadvarabhavad  ityartha//).  Or  they  are  aya-
-tayamani,  unimpaired.  Anandagiri  adds,  Pra^apatim  arabh3'a
+«ani,  paurusheyatvadoshadvarabhavad  ityartha//).  Or  they  are  ayatayamani,  unimpaired.  Anandagiri  adds,  Pra^apatim  arabh3'a
 Saw^iviputraparyantara  (No.  36)  Va^asaneyixakhasu  sarvasv  eko
 vawja  ityaha  samanam  iti.    Dvivedagahga  says  :  Va^ijakhava^'/('/nn-
 
@@ -12732,20 +12148,17 @@ for  on  p.  277,  when  recapitulating,  he  says,  kim  brahma  karawam
 ahosvit  kaladi.  In  comparing  former  translations,  whether  by
 Weber,  Roer,  Gough,  and  others,  it  will  be  seen  that  my  own  differs
 considerably  from  every  one  of  them,  and  differs  equally  from
-6'ankara's  interpretation.  It  would  occupy  too  much  space  to  criti-
-cise former  translations,  nor  would  it  seem  fair,  considering  how
+6'ankara's  interpretation.  It  would  occupy  too  much  space  to  criticise former  translations,  nor  would  it  seem  fair,  considering  how
 long  ago  they  were  made,  and  how  imperfect  were  the  materials
 which  were  then  accessible.  All  I  wish  my  readers  to  understand
-is  that,  if  I  differ  from  my  predecessors,  I  do  so  after  having  care-
-fully examined  their  renderings.  Unfortunately,  Roer's  edition  of
+is  that,  if  I  differ  from  my  predecessors,  I  do  so  after  having  carefully examined  their  renderings.  Unfortunately,  Roer's  edition  of
 both  the  text  and  the  commentary  is  often  far  from  correct.
 Thus  in  the  very  first  verse  of  the  6'vetaj'vatara-upanishad,  I  think
 we  ought  to  read  sampratish///a//,  instead  of  sampratishZ/^ita/^.  In
 the  commentary  the  reading  is  right.  Vyavasyam  is  a  misprint  for
 vyavastham.  In  the  second  verse  we  must  separate  ka.\a/i  and
 svabhava/z.  YcidriM/ia.,  no  very  unusual  word,  meaning  chance,
-was  formerly  taken  for  a  name  of  the  moon!  Instead  of  na  tvatma-
-bhavat,  both  sense  and  metre  require  that  we  should  read
+was  formerly  taken  for  a  name  of  the  moon!  Instead  of  na  tvatmabhavat,  both  sense  and  metre  require  that  we  should  read
 analmabhavat,  though  the  commentators  take  a  different  view.
 They  say,  because  there  is  a  self,  and  then  go  on  to  say  that  even
 that  would  not  suffice.  Such  matters,  however,  belong  to  a  critical
@@ -12760,14 +12173,12 @@ readings  of  the  two  MSS.,  A.  and  B,  seem  to  offer  some  help.
 2.  Should  time,  or  nature ^  or  necessity,  or  chance,
 or  the  elements  be  considered  as  the  cause,  or  he
 who  is  called  the  person  (purusha,  vi^;lanatma)  ?  It
-cannot  be  their  union  either,  because  that  is  not  self-
-dependent  ^  and  the  self  also  is  powerless,  because
+cannot  be  their  union  either,  because  that  is  not  selfdependent  ^  and  the  self  also  is  powerless,  because
 there  is  (independent  of  him)  a  cause  of  good  and
 
 evil  ^
 
-3.  The  sages,  devoted  to  meditation  and  concen-
-tration, have  seen  the  power  belonging  to  God
+3.  The  sages,  devoted  to  meditation  and  concentration, have  seen  the  power  belonging  to  God
 himself  ^  hidden  in  its  own  qualities  (gu;^a).  He,
 being  one,  superintends  all  those  causes,  time,  self,
 and  the  rest^.
@@ -12795,13 +12206,11 @@ between  Vedanta  and  Sahkhya.
 Atman  is  here  taken  as  synonymous  with  purusha  in  verse  2.
 
 ^  It  is  difficult  to  say  whether  this  verse  was  written  as  a  summing
-up  of  certain  technicalities  recognised  in  systems  of  philosophy  exist-
-ing at  the  time,  or  whether  it  is  a  mere  play  of  fancy.  I  prefer  the
+up  of  certain  technicalities  recognised  in  systems  of  philosophy  existing at  the  time,  or  whether  it  is  a  mere  play  of  fancy.  I  prefer  the
 former  view,  and  subjoin  the  explanation  given  by  -Sahkara,  though
 it  is  quite  possible  that  on  certain  points  he  may  be  mistaken.  The
 ijvara  or  deva  is  represented  as  a  wheel  with  one  felly,  which
-would  seem  to  be  the  phenomenal  world.  It  is  called  trivnt,  three-
-fold, or  rather  having  three  tires,  three  bands  or  hoops  to  bind  the
+would  seem  to  be  the  phenomenal  world.  It  is  called  trivnt,  threefold, or  rather  having  three  tires,  three  bands  or  hoops  to  bind  the
 felly,  these  tires  being  intended  for  the  three  gu«as  of  the  prakr/ti,
 the  Sattva,  Ra^-as,  and  Tamas.    In  the  Brahmopanishad  (Bibl.  Ind.
 
@@ -12818,8 +12227,7 @@ ending  in  the  sixteen.  These  sixteen  are  differently  explained.
 They  may  be  meant  for  the  five  elements  and  the  eleven  indriyas
 or  organs  (the  five  receptive  and  the  five  active  senses,  together  with
 manas,  the  common  sensory) ;  or  for  the  sixteen  kalas,  mentioned
-in  the  Prajfiopanishad,  VI,  i,  p.  283.  Then  follows  a  new  inter-
-pretation. The  one  felly  may  be  meant  for  the  chaos,  the  unde-
+in  the  Prajfiopanishad,  VI,  i,  p.  283.  Then  follows  a  new  interpretation. The  one  felly  may  be  meant  for  the  chaos,  the  unde-
 veloped state  of  things,  and  the  sixteen  would  then  be  the  two
 products  in  a  general  form,  the  Vir%  and  the  S&tratman,  while  the
 remaining  fourteen  would  be  the  individual  products,  the  bhuvanas
@@ -12829,26 +12237,22 @@ Next  follows  j-atardharam,  having  fifty  spokes.  These  fifty
 spokes  are  supposed  to  produce  the  motion  of  the  mundane  wheel,
 and  are  explained  by  -Sahkara  as  follows :
 
-1.  The  five  Viparyayas,  misconceptions,  different  kinds  of  igno-
-rance or  doubt,  viz.  Tamas,  Moha,  Mahamoha,  Tamisra,  Andhata-
+1.  The  five  Viparyayas,  misconceptions,  different  kinds  of  ignorance or  doubt,  viz.  Tamas,  Moha,  Mahamoha,  Tamisra,  Andhata-
 misra,  or,  according  to  Ya.ta.nga\i,  ignorance,  self-love,  love,  hatred,
 and  fear  (Yoga-siitras  I,  8  ;  11,  2  ;  Sahkhya-sutras  III,  37).
 
 2.  The  twenty-eight  A^aktis,  disabilities,  causes  of  misconception.
 (See  Sahkhya-siitras  III,  38.)
 
-3.  The  nine  inversions  of  the  Tush/is,  satisfactions.  (Sahkhya-
-siitras  III,  39.)
+3.  The  nine  inversions  of  the  Tush/is,  satisfactions.  (Sahkhyasiitras  III,  39.)
 
-4.  The  eight  inversions  of  the  Siddhis,  perfections.  (Sahkhya-
-siitras  III,  40.)
+4.  The  eight  inversions  of  the  Siddhis,  perfections.  (Sahkhyasiitras  III,  40.)
 
 These  are  afterwards  explained  singly.  There  are  8  kinds  of
 Tamas,  8  kinds  of  Moha,  10  kinds  of  Mahamoha,  18  kinds  of
 Tamisra,  and  18  kinds  of  Andhatamisra,  making  62  in  all.  More
 information  on  the  Ajaktis,  the  Tush/is,  and  Siddhis  may  be  found
-in  the  Sahkhya-siJtras  III,  37-45;  Sahkhya-karika  47  seq.;  Yoga-
-sutras  II,  2  seq.
+in  the  Sahkhya-siJtras  III,  37-45;  Sahkhya-karika  47  seq.;  Yogasutras  II,  2  seq.
 
 Then  follow  the  20  pratyaras,  the  counter-spokes,  or  wedges  to
 strengthen  the  spokes,  viz.  the  10  senses  and  their  10  objects.
@@ -12866,12 +12270,10 @@ The  three  paths  are  explained  as  righteousness,  unrighteousness.
 2  34  5VETA5VATARA-UPANISIIAD.
 
 
-5\  We  meditate  on  the  river  whose  water  con-
-sists of  the  five  streams,  which  is  wild  and  winding
+5\  We  meditate  on  the  river  whose  water  consists of  the  five  streams,  which  is  wild  and  winding
 with  its  five  springs,  whose  waves  are  the  five  vital
 breaths,  whose  fountain  head  is  the  mind,  the  course
-of  the  five  kinds  of  perceptions.  It  has  five  whirl-
-pools, its  rapids  are  the  five  pains ;  it  has  fifty  kinds
+of  the  five  kinds  of  perceptions.  It  has  five  whirlpools, its  rapids  are  the  five  pains ;  it  has  fifty  kinds
 of  suffering,  and  five  branches.
 
 6,  In  that  vast  Brahma-wheel,  in  which  all  things
@@ -12887,21 +12289,18 @@ ignorance  of  self,  produced  by  good  or  bad  works.
 
 ^  Here  again,  where  the  i^vara  is  likened  to  a  stream,  the
 minute  coincidences  are  explained  by  -S'ankara  in  accordance  with
-certain  systems  of  philosophy.  The  five  streams  are  the  five  recep-
-tive organs,  the  five  springs  are  the  five  elements,  the  five  waves
+certain  systems  of  philosophy.  The  five  streams  are  the  five  receptive organs,  the  five  springs  are  the  five  elements,  the  five  waves
 are  the  five  active  organs.  The  head  is  the  manas,  the  mind,  or
 common  sensory,  from  which  the  perceptions  of  the  five  senses
 spring.  The  five  whirlpools  are  the  objects  of  the  five  senses,  the
 five  rapids  are  the  five  pains  of  being  in  the  womb,  being  born,
-growing  old,  growing  ill,  and  dying.  The  next  adjective  pa^X'a-
-jadbhedam  is  not  fully  explained  by  -S'aiikara.  He  only  mentions
+growing  old,  growing  ill,  and  dying.  The  next  adjective  pa^X'ajadbhedam  is  not  fully  explained  by  -S'aiikara.  He  only  mentions
 the  five  divisions  of  the  kle^a  (see  Yoga-sutras  H,  2),  but  does  not
 show  how  their  number  is  raised  to  fifty.  Dr.  Roer  proposes  to
 read  pa^/^akle^'a-bhedam,  but  that  would  not  agree  with  the  metre.
 The  five  parvans  or  branches  are  not  explained,  and  may  refer  to
 the  fifty  kinds  of  suffering  (kleja).  The  whole  river,  like  the
-wheel  in  the  preceding  verse,  is  meant  for  the  Brahman  as  karya-
-karawatmaka,  in  the  form  of  cause  and  effect,  as  the  phenomenal,
+wheel  in  the  preceding  verse,  is  meant  for  the  Brahman  as  karyakarawatmaka,  in  the  form  of  cause  and  effect,  as  the  phenomenal,
 not  the  absolutely  real  world.
 
 2  If  he  has  been  blessed  by  the  Ijvara,  i.  e.  when  he  has  been
@@ -12916,8 +12315,7 @@ I    ADHYAYA,    lO.  235
 
 
 Highest  Brahman,  and  in  it  there  is  the  triads  The
-Highest  Brahman  is  the  safe  support,  it  is  imperish-
-able. The  Brahma-students ^  when  they  have  known
+Highest  Brahman  is  the  safe  support,  it  is  imperishable. The  Brahma-students ^  when  they  have  known
 what  is  within  this  (world),  are  devoted  and  merged
 in  the  Brahman,  free  from  birth  ^
 
@@ -12948,8 +12346,7 @@ finds  out  these  three,  that  is  Brahma"^.
 
 *  Read  badhyate  for  budhyate,
 
-®  The  form  ijanuau  is  explained  as  >^/iandasa  ;  likewise  brah-
-mam  for  brahma.
+®  The  form  ijanuau  is  explained  as  >^/iandasa  ;  likewise  brahmam  for  brahma.
 
 «  Cf.  ^■vet.  Up.  IV,  5,  bhuktabhogyam.
 
@@ -12977,8 +12374,7 @@ further  cessation  of  all  illusion  in  the  end.
 
 11.  When  that  god  is  known,  all  fetters  fall  off,
 sufferings  are  destroyed,  and  birth  and  death  cease.
-From  meditating  on  him  there  arises,  on  the  disso-
-lution of  the  body,  the  third  state,  that  of  universal
+From  meditating  on  him  there  arises,  on  the  dissolution of  the  body,  the  third  state,  that  of  universal
 lordship  2;  but  he  only  who  is  alone,  is  satisfied  ^
 
 12.  This,  which  rests  eternally  within  the  self,
@@ -12991,12 +12387,10 @@ threefold,  and  this  is  Brahman.
 under-wood  ^  is  not  seen,  nor  is  its  seed  destroyed,
 
 avidyader  harawat,  taking  away  ignorance.  He  would  seem  to  be
-meant  for  the  uvara  or  deva,  the  one  god,  though  immediately  after-
-wards he  is  taken  for  the  true  Brahman,  and  not  for  its  phenomenal
+meant  for  the  uvara  or  deva,  the  one  god,  though  immediately  afterwards he  is  taken  for  the  true  Brahman,  and  not  for  its  phenomenal
 divine  personification  only.
 
-1  The  self,  atman,  used  here,  as  before,  for  purusha,  the  indi-
-vidual soul,  or  rather  the  individual  souls.
+1  The  self,  atman,  used  here,  as  before,  for  purusha,  the  individual soul,  or  rather  the  individual  souls.
 
 2  A  blissful  state  in  the  Brahma-world,  which,  however,  is  not
 yet  perfect  freedom,  but  may  lead  on  to  it.  Thus  it  is  said  in  the
@@ -13034,23 +12428,19 @@ like  the  spark  hidden  in  the  wood^
 
 15.  As  oil  in  seeds,  as  butter  in  cream,  as  water
 in  (dry)  river-beds^,  as  fire  in  wood,  so  is  the  Self
-seized  within  the  self,  if  man  looks  for  him  by  truth-
-fulness and  penance^;
+seized  within  the  self,  if  man  looks  for  him  by  truthfulness and  penance^;
 
-16.  (If  he  looks)  for  the  Self  that  pervades  every-
-thing, as  butter  is  contained  in  milk,  and  the  roots
+16.  (If  he  looks)  for  the  Self  that  pervades  everything, as  butter  is  contained  in  milk,  and  the  roots
 whereof  are  self-knowledge  and  penance.  That  is
 the  Brahman  taught  by  the  Upanishad.
 
-is  rather  obscure  at  first  sight,  but  very  exact  when  once  under-
-stood. Fire,  as  produced  by  a  fire  drill,  is  compared  to  the  Self.
+is  rather  obscure  at  first  sight,  but  very  exact  when  once  understood. Fire,  as  produced  by  a  fire  drill,  is  compared  to  the  Self.
 It  is  not  seen  at  first,  yet  it  must  be  there  all  the  time ;  its  lihga
 or  subtle  body  cannot  have  been  destroyed,  because  as  soon  as  the
 stick,  the  indhana,  is  drilled  in  the  under-wood,  the  yoni,  the  fire
 becomes  visible.  In  the  same  way  the  Self,  though  invisible  during
 a  state  of  ignorance,  is  there  all  the  time,  and  is  perceived  when
-the  body  has  been  drilled  by  the  Prawava,  that  is,  after,  by  a  con-
-stant repetition  of  the  sacred  syllable  Om,  the  body  has  been  sub-
+the  body  has  been  drilled  by  the  Prawava,  that  is,  after,  by  a  constant repetition  of  the  sacred  syllable  Om,  the  body  has  been  sub-
 dued, and  the  ecstatic  vision  of  the  Self  has  been  achieved.
 
 Indhana,  the  stick  used  for  drilling,  and  yoni,  the  under-wood,  in
@@ -13065,8 +12455,7 @@ which,  if  dug  into,  will  yield  water.
 ^  The  construction  is  correct,  if  we  remember  that  he  who  is
 seized  is  the  same  as  he  who  looks  for  the  hidden  Self.  But  the
 metre  would  be  much  improved  if  we  accepted  the  reading  of  the
-Brahmopanishad,  evam  atma  atmani  gnhyaie  'sau,  which  is  con-
-firmed by  B.  The  last  line  would  be  improved  by  reading,  satye-
+Brahmopanishad,  evam  atma  atmani  gnhyaie  'sau,  which  is  confirmed by  B.  The  last  line  would  be  improved  by  reading,  satye-
 na.ina.?n  ye  'nupajyanti  dhira^.
 
 
@@ -13089,8 +12478,7 @@ philosophy,  as  to  become  almost  nonsensical.  I  have  given  a  few
 specimens  of  6'ahkara's  renderings  in  the  notes,  but  have  translated
 the  verses,  as  much  as  possible,  in  their  original  character.  As
 they  are  merely  introductory,  I  do  not  understand  why  the  collector
-of  the  Upanishad  should  have  seen  in  them  anything  but  an  invo-
-cation of  Savitr/.
+of  the  Upanishad  should  have  seen  in  them  anything  but  an  invocation of  Savitr/.
 
 These  verses  are  taken  from  various  Sa7;ihitas.  The  first  yunga.m.h
 prathamam  is  from  Taitt.  Sa.mh.  IV,  i,  1,1,1;  Va^.  Sarah.  XI,  i;
@@ -13107,8 +12495,7 @@ having  discovered  his  brightness,  above  the  earth,  in  this  body.'  He
 explains  it :  '  May  Savitr/,  taking  our  thoughts  away  from  outward
 things,  in  order  to  concentrate  them  on  the  Highest  Self,  produce
 in  our  speech  and  in  our  other  senses  that  power  which  can  lighten
-all  objects,  which  proceeds  from  Agni  and  from  the  other  favour-
-able deities.'  He  adds  that  'by  the  favour  of  Savitr/,  Yoga  may
+all  objects,  which  proceeds  from  Agni  and  from  the  other  favourable deities.'  He  adds  that  'by  the  favour  of  Savitr/,  Yoga  may
 be  obtained.'
 
 ^  The  second  verse  is  from  Taitt.  Sawh.  IV,  i,  i,  i,  3 ;  Va^.  Sarah.
@@ -13132,12 +12519,9 @@ great  is  the  praise  of  the  divine  Savitri.
 by  Savit;-/  to  the  Highest  Self,  we,  with  the  sanction  of  that  Savitr/,
 devote  ourselves  to  the  work  of  meditation,  which  leads  to  the
 obtainment  of  Svarga,  according  to  our  power/  He  explains
-Svarga  by  Paramatman.  Saya«a  in  his  commentary  on  the  Taitti-
-riya-sa;;^hita  explains  svargeyaya  by  svargaloke  giyamanasyagne,^
-sampadanaya;  .Sankara,  by  svargapraptihetubhutaya  dhyanakar-
-ma«e.  6'aktyai  is  explained  by  ^S'ankara  by  yathasamarthyam  ;  by
-Sayawa,  by  jakta  bhuyasma.  Mahidhara  explains  jaktya  by  svasa-
-marthyena.  I  believe  that  the  original  reading  was  svargyaya
+Svarga  by  Paramatman.  Saya«a  in  his  commentary  on  the  Taittiriya-sa;;^hita  explains  svargeyaya  by  svargaloke  giyamanasyagne,^
+sampadanaya;  .Sankara,  by  svargapraptihetubhutaya  dhyanakarma«e.  6'aktyai  is  explained  by  ^S'ankara  by  yathasamarthyam  ;  by
+Sayawa,  by  jakta  bhuyasma.  Mahidhara  explains  jaktya  by  svasamarthyena.  I  believe  that  the  original  reading  was  svargyaya
 jaktyai,  and  that  we  must  take  jaktyai  as  an  infinitive,  like  ityai,
 construed  with  a  dative,  like  dr/jaye  siiryaya,  for  the  seeing  of  the
 sun.  The  two  attracted  datives  would  be  governed  by  save,  'we
@@ -13160,8 +12544,7 @@ verse  i,  and  again  in  verse  4.
 ^  This  verse  is  from  Taitt.  Saw-fh.  IV,  i,  i,  i,  4;  i,  2,  13,  i,  i;
 Vag.  Sawh.  V,  14;  XI,  4;  XXXVII,  2;  Rig-veda  V,  81,  i;  ^^at.
 Br.  Ill,  5,  3,  11;  VI,  3,  I,  16.  Sankara  explains  this  verse  again  in
-the  same  manner  as  he  did  the  former  verses,  while  the  6"atapatha-
-brahma;;a  supplies  two  different  ritual  explanations.
+the  same  manner  as  he  did  the  former  verses,  while  the  6"atapathabrahma;;a  supplies  two  different  ritual  explanations.
 
 
 240  5'VETA5'VATARA-UPANISHAD.
@@ -13188,31 +12571,22 @@ In  the  Atharva-veda  XVIII,  39,  if  we  may  trust  the  edition,  the
 verse  begins  with  svasasthe  bhavatam  indave  na^^,  which  is  really
 the  end  of  the  next  verse  (Rv.  X,  13,  2),  while  the  second  line  is,
 vi  sldka.  eti  pathyeva  sfiri^  jrmvantu  vi^ve  amr/tasa  etat.  I  see  no
-sense  in  pathyeva  sura^.  ^.S'ankara  explains  pathyeva  by  pathi  san-
-marge,  athava  pathya  kirti/?,  while  his  later  commentary,  giving
-sri'nvaniu  and  putra//  suratmano  hirawyagarbhasya,  leads  one  to  sup-
-pose that  he  read  sure//  sn'nvantu.  Saya;za  (Taitt.  Sa7?/h.  IV,  i,  i,
-2)  explains  pathya  sura  iva  by  girva«amarga  antarikshe  suryara-
-j-mayo  yatha  prasaranti  tadvat.  The  same,  when  commenting  on
-the  Rig-veda  (X,  13,  i),  says:  pathya-iva  sure^,  yatha  stotu//  sva-
-bhuta  pathya  pariwamasukhavahahutir  vijvan  devan  prati  vividhaw
+sense  in  pathyeva  sura^.  ^.S'ankara  explains  pathyeva  by  pathi  sanmarge,  athava  pathya  kirti/?,  while  his  later  commentary,  giving
+sri'nvaniu  and  putra//  suratmano  hirawyagarbhasya,  leads  one  to  suppose that  he  read  sure//  sn'nvantu.  Saya;za  (Taitt.  Sa7?/h.  IV,  i,  i,
+2)  explains  pathya  sura  iva  by  girva«amarga  antarikshe  suryaraj-mayo  yatha  prasaranti  tadvat.  The  same,  when  commenting  on
+the  Rig-veda  (X,  13,  i),  says:  pathya-iva  sure^,  yatha  stotu//  svabhuta  pathya  pariwamasukhavahahutir  vijvan  devan  prati  vividhaw
 gakMati  tadvat.  Mahidhara  (Va^.  Sa7;/h.  XI,  5)  refers  suvek
 (pawfiTitasya)  to  j-loka//,  and  explains  pathyeva  by  patho  'napeta
 pathya  ya^^Tamargapravr/ttahuti/^.
 
-^  Yu^e  cannot  stand  for  yuvge,  as  all  commentators  and  trans-
-lators suppose,  but  is  a  datival  infinitive.  Neither  can  yuii^^ate  in
+^  Yu^e  cannot  stand  for  yuvge,  as  all  commentators  and  translators suppose,  but  is  a  datival  infinitive.  Neither  can  yuii^^ate  in
 the  following  verse  stand  for  yuhkte  (see  Boehdingk,  s.  v.),  or  be
-explained  as  a  subjunctive  form.  A.  reads  adhirudhyate,  B.  abhi-
-rudhyate,  with  a  marginal  note  abhinudyate.  It  is  difficult  to  say
+explained  as  a  subjunctive  form.  A.  reads  adhirudhyate,  B.  abhirudhyate,  with  a  marginal  note  abhinudyate.  It  is  difficult  to  say
 whether  in  lighting  the  fire  the  wind  should  be  directed  towards  it,
 or  kept  from  it.
 
 ^  That  is,  at  the  Soma  sacrifice,  after  the  fire  has  been  kindled
 and  stirred  by  the  wind,  the  poets,  on  partaking  of  the  juice,  are
-
-
-1
 
 
 II    ADHYAYA,   lO.  24I
@@ -13236,14 +12610,12 @@ horses  ^
 
 TO.  Let  him   perform   his  exercises  in   a  place ^
 
-inspirited  for  new  songs.  .S'ahkara,  however,  suggests  another  expla-
-nation as  more  appropriate  for  the  Upanishad,  namely,  'Where  the
+inspirited  for  new  songs.  .S'ahkara,  however,  suggests  another  explanation as  more  appropriate  for  the  Upanishad,  namely,  'Where  the
 fire,  i.e.  the  Highest  Self,  which  burns  all  ignorance,  has  been  kindled
 (in  the  body,  where  it  has  been  rubbed  with  the  syllable  Om),  and
 where  the  breath  has  acted,  i.  e.  has  made  the  sound  peculiar  to  the
 initial  stages  of  Yoga,  there  Brahman  is  produced.'  In  fact,  what
-was  intended  to  be  taught  was  this,  that  we  must  begin  with  sacri-
-ficial acts,  then  practise  yoga,  then  reach  samadhi,  perfect  know-
+was  intended  to  be  taught  was  this,  that  we  must  begin  with  sacrificial acts,  then  practise  yoga,  then  reach  samadhi,  perfect  know-
 ledge, and  lastly  bliss.
 
 ^  We  must  read  kn'wavase,  in  the  sense  of  '  do  this  and  nothing
@@ -13256,8 +12628,7 @@ jarire.
 
 ^  Explained  by  -Sankara  as  the  syllable  Om.
 
-*  Cf.  Bhagavadgita  V,  27.  Prawapanau  samau  kn'tva  nasabhyan-
-tara  karinau.  See  Telang's  notes,  Sacred  Books  of  the  East,  vol.  viii,
+*  Cf.  Bhagavadgita  V,  27.  Prawapanau  samau  kn'tva  nasabhyantara  karinau.  See  Telang's  notes,  Sacred  Books  of  the  East,  vol.  viii,
 p.  68  seq.
 
 ^  A  similar  metaphor  in  Ka//^.  Up.  Ill,  4-6  ;  Sacred  Books  of
@@ -13298,14 +12669,12 @@ grief,  after  he  has  seen  the  real  nature  of  the
 self^
 
 ajraya  by  maw^apa,  a  booth.  See  Bhagavadgita  VI,  11.  In  the
-Maitr.  Up.  VI,  30,  Ramatirtha  explains  sukdu  dese  by  girinadi-
-pulinaguhadijuddhasthane.     See  also  Ajv.  GrAya-sutras  III,  2,  2.
+Maitr.  Up.  VI,  30,  Ramatirtha  explains  sukdu  dese  by  girinadipulinaguhadijuddhasthane.     See  also  Ajv.  GrAya-sutras  III,  2,  2.
 
 ^  Or,  it  may  be,  a  crystal  and  the  moon.
 
 ^  The  Yogaguwa  is  described  as  the  quality  of  each  element,
-i.  e.  smell  of  the  earth,  taste  of  water,  &c.  It  seems  that  the  per-
-ception of  these  guwas  is  called  yogapravr/tti.  Thus  by  fixing  the
+i.  e.  smell  of  the  earth,  taste  of  water,  &c.  It  seems  that  the  perception of  these  guwas  is  called  yogapravr/tti.  Thus  by  fixing  the
 thought  on  the  tip  of  the  nose,  a  perception  of  heavenly  scent  is
 produced ;  by  fixing  it  on  the  tip  of  the  tongue,  a  perception  of
 heavenly  taste  ;  by  fixing  it  on  the  point  of  the  palate,  a  heavenly
@@ -13324,8 +12693,7 @@ II    ADHYAYA,   I  7.  243
 
 
 15.  And  when  by  means  of  the  real  nature  of  his
-self  he  sees,  as  by  a  lamp,  the  real  nature  of  Brah-
-man, then  having  known  the  unborn,  eternal  god,
+self  he  sees,  as  by  a  lamp,  the  real  nature  of  Brahman, then  having  known  the  unborn,  eternal  god,
 who  is  beyond  all  natures  \  he  is  freed  from  all
 fetters.
 
@@ -13345,8 +12713,7 @@ trees,  adoration  be  to  that  god,  adoration !
 I,  3,  with  slight  modifications.  The  Va^asaneyins  read  esho  ha  (so
 do  A.  B.)  for  esha  hi ;  sa  eva  gata.k  (A.  B.)  for  sa  vigatzk ;  ^anas
 (A.B.)  for  ^ana»zs.  The  Arawyaka  has  sa  vi^ayamana/^  for  sa  vi^ata,^,
-pratyanmukhas  for  ipra-tyanganams,  and  vijvatomukha^  for  sarvato-
-mukha^.  Colebrooke  (Essays,  I,  57)  gives  a  translation  of  it.
+pratyanmukhas  for  ipra-tyanganams,  and  vijvatomukha^  for  sarvatomukha^.  Colebrooke  (Essays,  I,  57)  gives  a  translation  of  it.
 If  we  read  gana/i,  we  must  take  it  as  a  vocative.
 
 ^  B.  (not  A.)  reads  yo  rudro  yo  'gnau.
@@ -13392,8 +12759,7 @@ authority.
 
 ^  I  prefer  saff//l'ukoX'a  to  saw-^ukopa,  which  gives  us  the  meaning
 that  Rudra,  after  having  created  all  things,  draws  together,  i.  e.
-takes  them  all  back  into  himself,  at  the  end  of  time.  I  have  trans-
-lated sarasn^ya  by  having  created,  because  Boehtlingk  and  Roth
+takes  them  all  back  into  himself,  at  the  end  of  time.  I  have  translated sarasn^ya  by  having  created,  because  Boehtlingk  and  Roth
 give  other  instances  of  samsng  with  that  sense.  Otherwise, '  having
 mixed  them  together  again,'  would  seem  more  appropriate.  A.  and
 B.  read  saw/^ukoX'a.
@@ -13422,8 +12788,7 @@ is  auspicious,  not  terrible,  and  reveals  no  evil !
 which  thou,  a  dweller  in  the  mountains,  boldest  in
 thy  hand  to  shoot.     Do  not  hurt  man  or  beast !
 
-7.  Those  who  know  beyond  this  the  High  Brah-
-man, the  vast,  hidden  in  the  bodies  of  all  creatures,
+7.  Those  who  know  beyond  this  the  High  Brahman, the  vast,  hidden  in  the  bodies  of  all  creatures,
 and  alone  enveloping  everything,  as  the  Lord,  they
 become  immortal  *.
 
@@ -13447,15 +12812,13 @@ p.  274.
 A  A
 
 I^a  or  that  Isa.  is  Brahman.  But  in  either  case  the  gender  of  the
-adjectives  is  difficult.  The  ^S'veta^vatara-upanishad  seems  to  use  hri-
-hanta  as  an  adjective,  instead  of  br/hat.    I  should  prefer  to  translate  :
+adjectives  is  difficult.  The  ^S'veta^vatara-upanishad  seems  to  use  hrihanta  as  an  adjective,  instead  of  br/hat.    I  should  prefer  to  translate  :
 
 A
 
 Beyond  this  is  the  High  Brahman,  the  vast.  Those  who  know  Isa.,
 the  Lord,  hidden  in  all  things  and  embracing  all  things  to  be  this
-(Brahman),  become  immortal.  See  also  Muir,  Metrical  Transla-
-tions, p.  196,  whose  translation  of  these  verses  I  have  adopted  with
+(Brahman),  become  immortal.  See  also  Muir,  Metrical  Translations, p.  196,  whose  translation  of  these  verses  I  have  adopted  with
 few  exceptions.
 
 '  Cf.  Va^.  Sawh.  XXX,  18  ;  Taitt.  Ar.  Ill,  12,  7;  III,  13,  i.
@@ -13485,8 +12848,7 @@ undecaying.
 
 1 3  *'.  The  person  (purusha),  not  larger  than  a  thumb,
 
-^  Divi,  the  sky,  is  explained  by  6'ankara  as  dyotanatmani  sva-
-mahimni.
+^  Divi,  the  sky,  is  explained  by  6'ankara  as  dyotanatmani  svamahimni.
 
 ^  The  pain  of  sawsara,  or  transmigration.  See  Brthad.  Up.  IV,
 3,  20  (p.  178).
@@ -13547,8 +12909,7 @@ nine  gates  ^  the  bird,  flutters  outwards,  the  ruler  of
 ^  The  text  has  manvi^a,  which  6'ahkara  explains  by  ^^laneja.
 But  Weber  has  conjectured  rightly,  I  believe,  that  the  original  text
 must  have  been  manisha.  The  difficulty  is  to  understand  how  so
-common  a  word  as  manisha  could  have  been  changed  into  so  un-
-usual a  word  as  manvija.     See  IV,  20.
+common  a  word  as  manisha  could  have  been  changed  into  so  unusual a  word  as  manvija.     See  IV,  20.
 
 2  This  is  a  famous  verse  of  the  Rig-veda,  X,  90,  i ;  repeated  in
 the  Atharva-veda,  XIX,  6,  i;  Yag.  Samh.  XXXI,  i;  Taitt.  Ar.  Ill,
@@ -13557,8 +12918,7 @@ says,  it  may  be  meant  for  the  heart,  which  is  ten  fingers  above
 the  navel.
 
 ^  Saya«a,  in  his  commentary  on  the  Rig-veda  and  the  Taitt.  Ar.,
-gives  another  explanation,  viz.  he  is  also  the  lord  of  all  the  im-
-mortals, i.  e.  the  gods,  because  they  grow  to  their  exceeding  state
+gives  another  explanation,  viz.  he  is  also  the  lord  of  all  the  immortals, i.  e.  the  gods,  because  they  grow  to  their  exceeding  state
 by  means  of  food,  or  for  the  sake  of  food.
 
 *  The  gender  changes  frequently,  according  as  the  author  thinks
@@ -13627,11 +12987,9 @@ everywhere.
 
 4.  Thou  art  the  dark-blue  bee,  thou  art  the  green
 
-^  Nihitartha,  explained  by  6'ahkara  as  gr/hitaprayo^ana;^  svartha-
-nirapeksha/^.  This  may  mean  with  set  purpose,  but  if  we  read
+^  Nihitartha,  explained  by  6'ahkara  as  gr/hitaprayo^ana;^  svarthanirapeksha/^.  This  may  mean  with  set  purpose,  but  if  we  read
 agrz'hitaprayq^ana/^  it  would  mean  the  contrary,  namely,  without
-any  definite  object,  irrespective  of  his  own  objects.  This  is  pos-
-sible, and  perhaps  more  in  accordance  with  the  idea  of  creation  as
+any  definite  object,  irrespective  of  his  own  objects.  This  is  possible, and  perhaps  more  in  accordance  with  the  idea  of  creation  as
 propounded  by  those  to  whom  the  devatmajakti  is  maya.  Nihita
 would  then  mean  hidden.
 
@@ -13645,8 +13003,7 @@ simple  a  line  should  have  been  changed  into  what  we  read  now,  is
 difficult  to  say.
 
 *  This  is  the  explanation  of  ^ahkara,  and  probably  that  of  the
-Yoga  schools  in  India  at  his  time.  But  to  take  jukram  for  dip-
-timan  nakshatradi,  brahma  for  Hirawyagarbha,  and  Pra§-apati  for
+Yoga  schools  in  India  at  his  time.  But  to  take  jukram  for  diptiman  nakshatradi,  brahma  for  Hirawyagarbha,  and  Pra§-apati  for
 Vira^  seems  suggested  by  this  verse  only.
 
 ^  Vaii/^ayasi,  an  exceptional  form,  instead  of  vaTi/i'asi  (A.  B.)
@@ -13680,8 +13037,7 @@ who  are  as  anxious  as  the  Vedantins  to  find  authoritative  passages
 in  the  Veda,  confirming  their  opinions,  appeal  to  this  and  other
 passages,  to  show  that  their  view  of  Prakr/ti,  as  an  independent
 power,  is  supported  by  the  Veda.  The  whole  question  is  fully
-discussed  in  the  Vedanta-sutras  I,  4,  8.  Here  we  read  rohita-
-kr?sh«a-.yuklam,  which  seems  preferable  to  lohita-k;7sh«a-var«am,
+discussed  in  the  Vedanta-sutras  I,  4,  8.  Here  we  read  rohitakr?sh«a-.yuklam,  which  seems  preferable  to  lohita-k;7sh«a-var«am,
 at  least  from  a  Vedanta  point  of  view,  for  the  three  colours,  red,
 black,  and  white,  are  explained  as  signifying  either  the  three  guwas,
 ra^as,  sattva,  and  tamas,  or  better  (A7;and.  Up.  VI,  3,  i),  the  three
@@ -13726,8 +13082,7 @@ sacrifices,  the  panaceas,  the  past,  the  future,  and  all
 Taitt.  Ar.  II,  11,  6,  it  is  quoted  in  connection  with  the  syllable  Om,
 the  Akshara,  in  which  all  the  Vedas  are  comprehended.  It  is
 similarly  used  in  the  Nrz'siwha-piarva-tapani,  IV,  2  ;  V,  2.  In  our
-passage,  however,  akshara  is  referred  by  ^Sankara  to  the  paramat-
-man,  and  I  have  translated  it  accordingly.  Rikd^h  is  explained  as
+passage,  however,  akshara  is  referred  by  ^Sankara  to  the  paramatman,  and  I  have  translated  it  accordingly.  Rikd^h  is  explained  as
 a  genitive  singular,  but  it  may  also  be  taken  as  a  nom.  plur.,  and  in
 that  case  both  the  verses  of  the  Veda  and  the  gods  are  said  to
 reside  in  the  Akshara,  whether  we  take  it  for  the  Paramatman  or
@@ -13735,8 +13090,7 @@ for  the  Om.  In  the  latter  case,  parame  vyoman  is  explained  by
 utkr/sh/e  and  rakshake.
 
 ^  It  is  impossible  to  find  terms  corresponding  to  maya  and
-mayin.  Maya  means  making,  or  art,  but  as  all  making  or  creat-
-ing, so  far  as  the  Supreme  Self  is  concerned,  is  phenomenal  only
+mayin.  Maya  means  making,  or  art,  but  as  all  making  or  creating, so  far  as  the  Supreme  Self  is  concerned,  is  phenomenal  only
 or  mere  illusion,  maya  conveys  at  the  same  time  the  sense  of
 illusion.  In  the  same  manner  mayin  is  the  maker,  the  artist,  but
 also  the  magician  or  juggler.  What  seems  intended  by  our  verse  is
@@ -13768,8 +13122,7 @@ Hira;^yagarbha  being  born,  may  he  endow  us  with
 good  thoughts.
 
 13.  He  who  is  the  sovereign  of  the  gods,  he  in
-whom  all  the  worlds  ^  rest,  he  who  rules  over  all  two-
-footed  and  four-footed  beings,  to  that  god^  let  us
+whom  all  the  worlds  ^  rest,  he  who  rules  over  all  twofooted  and  four-footed  beings,  to  that  god^  let  us
 sacrifice  an  oblation.
 
 14.  He  who  has  known  him  who  is  more  subtile
@@ -13780,8 +13133,7 @@ the  happy  one  (6'iva),  passes  into  peace  for  ever.
 ^  See  before.  III,  4.
 
 ^  6'ahkara  does  not  explain  this  verse  again,  though  it  differs
-from  III,  4.  Vi^ftanatman  explains  pajyata  by  apa^yata,  and  quali-
-fies the  Atmanepada  as  irregular.
+from  III,  4.  Vi^ftanatman  explains  pajyata  by  apa^yata,  and  qualifies the  Atmanepada  as  irregular.
 
 ^  B.  reads  yasmin  deva/^,  not  A.
 
@@ -13811,8 +13163,7 @@ the  clarified  butter^,  alone  enveloping  everything, —
 he  who  knows  the  god,  is  freed  from  all  fetters.
 
 17.  That  god,  the  maker  of  all  things,  the  great
-Self*,  always  dwelling  in  the  heart  of  man,  is  per-
-ceived by  the  heart,  the  soul,  the  mind^ ; — they  who
+Self*,  always  dwelling  in  the  heart  of  man,  is  perceived by  the  heart,  the  soul,  the  mind^ ; — they  who
 know  it  become  immortal.
 
 18.  When  the  light  has  risen ^,  there  is  no  day,  no
@@ -13879,8 +13230,7 @@ Va^.  Samh. ;  but  Vi^?lanatman  reads  ayau.  As  to  bhamito,  it  seems
 the  right  reading,  being  supported  by  the  Rig-veda,  the  Taitt.  Ssimh.,
 and  the  Svet.  Up.,  while  bhavito  in  Roer's  edition  is  a  misprint.
 The  Va^.  Sa;«h.  alone  reads  bhamino,  which  Mahidhara  refers  to
-viran.  The  last  verse  in  the  Rig-veda  and  Va^.  Sarah,  is  havishman-
-ta^  sadam  it  tva  havamahe  ;  in  the  Taitt.  Sa»/h.  havishmanto  namasa
+viran.  The  last  verse  in  the  Rig-veda  and  Va^.  Sarah,  is  havishmanta^  sadam  it  tva  havamahe  ;  in  the  Taitt.  Sa»/h.  havishmanto  namasa
 vidhema  te.  In  the  ^vet.  Up.  havishmanta//  sadasi  tva  havdmahe,  as
 printed  by  Roer,  seems  to  rest  on  6'ahkara's  authority  only.  The
 other  commentators,  ^Sahkarananda  and  Vi^?1anatman,  read  and
@@ -13909,8 +13259,7 @@ out  one  net  after  another^°  in  various  ways,  draws  it
 together  again,  the  Lord,  the  great   Self^\  having
 
 ^  6'ankara  explains  Brahmapare  by  brahma«o  hira«yagarbh^t
-pare,  or  by  parasmin  brahmawi,  which  comes  to  the  same.  Vi^wa-
-natman  adds  ^//andasa/z  paranipata/^.  As  the  termination  e  may
+pare,  or  by  parasmin  brahmawi,  which  comes  to  the  same.  Vi^wanatman  adds  ^//andasa/z  paranipata/^.  As  the  termination  e  may
 belong  to  the  locative  singular  or  to  the  nom.  dual,  commentators
 vary  in  referring  some  of  the  adjectives  either  to  brahman  or  to
 vidyavidye.
@@ -13932,8 +13281,7 @@ i.  e.  Somavatpriyadarjana,  as  if  i'veta.rvatvara  addressed  his  pupil.
 which  the  commentator  explains  by  patin.
 
 "  The  world,  or  the  mulaprakrzti,  the  net  being  the  sa»zsara.
-^°  ^afikara  explains  ekaikam  by  pratyekam,  i.  e.  for  every  crea-
-ture, such  as  gods,  men,  beasts,  &c.
+^°  ^afikara  explains  ekaikam  by  pratyekam,  i.  e.  for  every  creature, such  as  gods,  men,  beasts,  &c.
 
 "  I  doubt  whether  mahatma  should  be  translated  by  the  great
 
@@ -13941,8 +13289,7 @@ ture, such  as  gods,  men,  beasts,  &c.
 256  SVETAi'VATARA-UPANISHAD.
 
 
-further  created  the  lords  \  thus  carries  on  his  lord-
-ship over  all.
+further  created  the  lords  \  thus  carries  on  his  lordship over  all.
 
 4.  As  the  car  (of  the  sun)  shines,  lighting  up  all
 quarters,  above,  below,  and  across,  thus  does  that
@@ -13950,8 +13297,7 @@ god,  the  holy,  the  adorable,  being  one,  rule  over  all
 that  has  the  nature  of  a  germ  2.
 
 5.  He,  being  one,  rules  over  all  and  everything,
-so  that  the  universal  germ  ripens  its  nature,  diversi-
-fies all  natures  that  can  be  ripened^,  and  determines
+so  that  the  universal  germ  ripens  its  nature,  diversifies all  natures  that  can  be  ripened^,  and  determines
 all  qualities  ^
 
 6^  Brahma  (Hira/^yagarbha)  knows  this,  which
@@ -13970,20 +13316,17 @@ extremely  difficult.
 
 *  This  is  again  a  very  difficult  verse.  I  have  taken  vijvayoni/z
 as  a  name  for  Brahman,  possessed  of  that  devatma^-akti  which  was
-mentioned  before,  but  I  feel  by  no  means  satisfied.  The  com-
-mentators do  not  help,  because  they  do  not  see  the  difficulty  of  the
+mentioned  before,  but  I  feel  by  no  means  satisfied.  The  commentators do  not  help,  because  they  do  not  see  the  difficulty  of  the
 construction.  If  one  might  conjecture,  I  should  prefer  pa/^et  for
 pa/f-ati,  and  should  write  pari«amayed  yat,  and  viniyo^ayed  yat,
 unless  we  changed  yaMa  into  yas  ^a.
 
 ^  This  verse  admits  of  various  translations,  and  requires  also
-some  metrical  emendations.  Thus  Vi^Tlanatman  explains  vedagu-
-hyopanishatsu  very  ingeniously  by  the  Veda,  i.e.  that  part  of  it
+some  metrical  emendations.  Thus  Vi^Tlanatman  explains  vedaguhyopanishatsu  very  ingeniously  by  the  Veda,  i.e.  that  part  of  it
 which  teaches  sacrifices  and  their  rewards;  the  Guhya,  i. e.  the
 Arawyaka,  which  teaches  the  worship  of  Brahman  under  various
 legendary  aspects ;  and  theUpanishads,  which  teach  the  knowledge
-of  Brahman  without  qualities.  These  three  divisions  would  corre-
-spond to  the  karmaka«</a,  yogakanda,  and  gnamkanda.  (G^aimini,
+of  Brahman  without  qualities.  These  three  divisions  would  correspond to  the  karmaka«</a,  yogakanda,  and  gnamkanda.  (G^aimini,
 Pata?l^ali,  Badarayawa).  See  Deussen,  Vedanta,  p.  20.  Mr.  Gough
 and  Dr.  Roer  take  Brahmayoni  as  '  the  source  of  the  Veda,'  or  as
 the  source  of  Hira«yagarbha.  The  irregular  form  vedate  may  be
@@ -14008,8 +13351,7 @@ all  forms,  led  by  the  three  Gu;/as,  and  following  the
 three  paths  ^.
 
 8  ^.  That  lower  one  also,  not  larger  than  a  thumb,
-but  brilliant  like  the  sun,  who  is  endowed  with  per-
-sonality and  thoughts,  with  the  quality  of  mind  and
+but  brilliant  like  the  sun,  who  is  endowed  with  personality and  thoughts,  with  the  quality  of  mind  and
 the  quality  of  body,  is  seen  small  even  like  the  point
 of  a  goad.
 
@@ -14029,20 +13371,16 @@ Highest  Brahman.
 
 ^  The  paths  of  vice,  virtue,  and  knowledge.
 
-^  Both  MSS.  (A.  and  B.)  read  aragramatro  hy  avaro  'pi  dri-
-sh/a/^.
+^  Both  MSS.  (A.  and  B.)  read  aragramatro  hy  avaro  'pi  drish/a/^.
 
 *  An  expression  of  frequent  occurrence  in  Buddhist  literature.
 
-^  A.  and  B.  read  yu^yate,  A.  explains  yu^yate  by  sambadh-
-yate.  B.  explains  adyate  bhakshyate  tirobhuta/i  kriyate.  -S^ahkara
-explains  rakshyate,  sa/«rakshyate,  tattaddharman  atmany  adhyasya-
-bhimanyate.
+^  A.  and  B.  read  yu^yate,  A.  explains  yu^yate  by  sambadhyate.  B.  explains  adyate  bhakshyate  tirobhuta/i  kriyate.  -S^ahkara
+explains  rakshyate,  sa/«rakshyate,  tattaddharman  atmany  adhyasyabhimanyate.
 
 ®  The  MSS.  vary  considerably.  Instead  of  mohair,  A,  and  B.
 read  homair.  They  read  grasambuvn'sh/ya  Mtma.  A.  reads
-atmavivrzddhi^anma,  B.  atmaniv;7ddha^anma.  A.  has  abhisam-
-prapadye,  B.  abhisamprapadyate.  My  translation  follows  -S'ahkara,
+atmavivrzddhi^anma,  B.  atmaniv;7ddha^anma.  A.  has  abhisamprapadye,  B.  abhisamprapadyate.  My  translation  follows  -S'ahkara,
 who  seems  to  have  read  atmavivrzddhi^anma,  taking  the  whole  line
 
 ['5]  S
@@ -14075,8 +13413,7 @@ body*),  who  makes  existence  and  non-existence,  the
 as  a  simile  and  in  an  adverbial  form.  Vi^jianatman,  however,  differs
 considerably.  He  reads  homai,^,  and  explains  homa  as  the  act  of
 throwing  oblations  into  the  fire,  as  in  the  Agnihotra.  This  action
-of  the  hands,  he  thinks,  stands  for  all  actions  of  the  various  mem-
-bers of  the  body.  Grasambuvr?sh/i  he  takes  to  mean  free  distri-
+of  the  hands,  he  thinks,  stands  for  all  actions  of  the  various  members of  the  body.  Grasambuvr?sh/i  he  takes  to  mean  free  distri-
 bution of  food  and  drink,  and  then  explains  the  whole  sentence  by
 'he  whose  self  is  born  unto  some  states  or  declines  from  them
 again,  namely,  according  as  he  has  showered  food  and  drink,  and
@@ -14093,8 +13430,7 @@ afterwards  explains  vivrzddhi  by  vividha  vnddhi^.
 
 '  Cf.  Ill,  7;  IV,  14,  16.
 
-■•  Ni^a  is  explained  as  the  body,  but  6'ahkarananda  reads  anila-
-khyam,  who  is  called  the  wind,  as  being  prawasya  prawam,  the
+■•  Ni^a  is  explained  as  the  body,  but  6'ahkarananda  reads  anilakhyam,  who  is  called  the  wind,  as  being  prawasya  prawam,  the
 breath  of  the  breath.
 
 
@@ -14141,16 +13477,14 @@ subtile  qualities  of  the  mind,
 
 4.  Who,  after  starting  ^  the  works  endowed  with
 (the  three)  qualities,  can  order  all  things,  yet  when,
-in  the  absence  of  all  these,  he  has  caused  the  de-
-struction of  the  work,  goes  on,  being  in  truth  ^
+in  the  absence  of  all  these,  he  has  caused  the  destruction of  the  work,  goes  on,  being  in  truth  ^
 different  (from  all  he  has  produced)  ;
 
 ^  See  Muir,  Metrical  Translations,  p.  198.
 
 2  See  before,  I,  2.
 
-^  The  destroyer  of  time.  Vi^fiSnatman  reads  kalakalo,  and  ex-
-plains it  by  kalasya  niyanta,  upaharta.  6'ankarananda  explains  kala-^
+^  The  destroyer  of  time.  Vi^fiSnatman  reads  kalakalo,  and  explains it  by  kalasya  niyanta,  upaharta.  6'ankarananda  explains  kala-^
 sarvavinajakari,  tasyapi  vina^akara/^.    See  also  verse  16.
 
 *  Or  sarvavid  ya/?.
@@ -14160,8 +13494,7 @@ vinivrz'tya.
 
 ^  Aruhya  for  arabhya,  ^afikarananda.
 
-■^  These  two  verses  are  again  extremely  obscure,  and  the  expla-
-nations of  the  commentators  throw  little  light  on  their  real,  original
+■^  These  two  verses  are  again  extremely  obscure,  and  the  explanations of  the  commentators  throw  little  light  on  their  real,  original
 meaning.  To  begin  with  6'ahkara,  he  assumes  the  subject  to  be  the
 same  as  he  at  whose  command  this  work  unfolds  itself,  and  explains
 
@@ -14204,8 +13537,7 @@ all  states  (resulting  from  ignorance),  yet,  when  these  states  cease,
 there  would  be  an  end  of  the  work,  good  or  bad,  done  by  him,  and
 when  his  work  has  come  to  an  end,  he  abides  in  truth  (according  to
 the  Veda) ;  while  the  other,  who  differs  from  the  Veda,  is  wrong.'
-6'afikarananda,  however,  evidently  feels  that  this  is  a  doubtful  inter-
-pretation, and  he  suggests  another,  viz. '  If  the  Lord  himself,'  he  says,
+6'afikarananda,  however,  evidently  feels  that  this  is  a  doubtful  interpretation, and  he  suggests  another,  viz. '  If  the  Lord  himself,'  he  says,
 '  determined  these  states  (bhava),  it  would  seem  that  there  would
 be  no  end  of  sawsara.  He  therefore  says,  that  when  these  states,
 ignorance  &c.,  cease,  the  work  done  by  man  ceases ;  and  when  the
@@ -14218,8 +13550,7 @@ Vi^wanatman  says :  '  If  a  man^  having  done  work,  turns  away
 262  SVETA.SVATARA-UPANISHAD.
 
 above  the  three  kinds  of  time  (past,  present,  future),
-he  is  seen  as  without  parts  ^  after  we  have  first  wor-
-shipped that  adorable  god,  who  has  many  forms,
+he  is  seen  as  without  parts  ^  after  we  have  first  worshipped that  adorable  god,  who  has  many  forms,
 and  who  is  the  true  source  (of  all  things),  as  dwelling
 in  our  own  mind.
 
@@ -14231,27 +13562,23 @@ from  it,  and  obtains  union  of  one  tattva  (the  tvam,  or  self)  with  t
 real  tattva  (the  tat,  or  the  Lord) ; — and  how  ?  By  means  of  the  one,
 i.e.  the  teaching  of  the  Guru  ;  the  two,  i.e.  love  of  the  Guru  and  of  the
 Lord;  the  three,  i.  e.  hearing, remembering,  and  meditating ;  the  eight,
-i.  e.  restraint,  penance,  postures,  regulation  of  the  breath,  abstrac-
-tion, devotion,  contemplation,  and  meditation  (Yoga-sutras  II,  29);
+i.  e.  restraint,  penance,  postures,  regulation  of  the  breath,  abstraction, devotion,  contemplation,  and  meditation  (Yoga-sutras  II,  29);
 by  time,  i.  e.  the  right  time  for  work ;  by  the  qualities  of  the  self,  i.  e.
-pity,  &c. ;  by  the  subtile  ones,  i.  e.  the  good  dispositions  for  know-
-ledge, then  (we  must  supply)  he  becomes  free.'  And  this  he  ex-
+pity,  &c. ;  by  the  subtile  ones,  i.  e.  the  good  dispositions  for  knowledge, then  (we  must  supply)  he  becomes  free.'  And  this  he  ex-
 plains more  fully  in  the  next  verse,  '  If,  after  having  done  qualified
 works,  i.  e.  works  to  please  the  Lord,  a  Yati  discards  all  things,
 and  recognises  the  phenomenal  character  of  all  states,  and  traces
 them  back  to  their  real  source  in  Mulaprakr/ti  and,  in  the  end,
 in  the  Sa/^/^idananda,  he  becomes  free.  If  they  (the  states)  cease,
 i.  e.  are  known  in  their  real  source,  the  work  done  ceases  also  in  its
-effects,  and  when  the  work  has  been  annihilated,  he  goes  to  free-
-dom, being  another  in  truth ;  or,  if  we  read  anyat,  he  goes  to  what
+effects,  and  when  the  work  has  been  annihilated,  he  goes  to  freedom, being  another  in  truth ;  or,  if  we  read  anyat,  he  goes  to  what
 is  different  from  all  these  things,  namely,  to  the  Lord ;  or,  he  goes
 to  a  state  of  perfect  lordship  in  truth,  having  discovered  the  highest
 ■truth,  the  oneness  of  the  self  with  the  Highest  Self.'
 
 I  think  that,  judging  from  the  context,  the  subject  is  really  the  same
 in  both  verses,  viz.  the  Lord,  as  passing  through  different  states,  and
-at  last  knowing  himself  to  be  above  them  all.  Yet,  the  other  explana-
-tions may  be  defended,  and  if  the  subject  were  taken  to  be  different
+at  last  knowing  himself  to  be  above  them  all.  Yet,  the  other  explanations may  be  defended,  and  if  the  subject  were  taken  to  be  different
 in  each  verse,  some  difficulties  would  disappear.
 
 ^  Vi^fianatman  and  ^ahkarananda  read  akalo  'pi,  without  parts,
@@ -14305,8 +13632,7 @@ the  masters  as  Hira^zyagarbha,  &c.  ^Sahkarananda  sees  in  the  lords
 Hirawyagarbha  &c.,  in  the  deities  Agni  &c.,  in  the  masters  the
 Pra^apatis,  such  as  Kajyapa.
 
-^  If  he  could  be  inferred  from  a  sign,  there  would  be  no  neces-
-sity for  the  Veda  to  reveal  him.
+^  If  he  could  be  inferred  from  a  sign,  there  would  be  no  necessity for  the  Veda  to  reveal  him.
 
 ^  Karawa,  instrument,  is  explained  as  organ  of  sense.  The  lords
 of  such  organs  would  be  all  living  beings,  and  their  lord  the  true
@@ -14344,10 +13670,8 @@ organs,  but  do  not  affect  the  Highest  Self,  which  always  remains
 passive  (nishkriya).
 
 *  I  have  formerly  translated  this  verse,  according  to  the  reading
-nityo  'nityanawz  -^etanaj  ^etananam,  the  eternal  thinker  of  non-
-eternal  thoughts.  This  would  be  a  true  description  of  the  Highest
-Self  who,  though  himself  eternal  and  passive,  has  to  think  (^ivat-
-man)  non-eternal  thoughts.  I  took  the  first  /('etana/z  in  the  sense
+nityo  'nityanawz  -^etanaj  ^etananam,  the  eternal  thinker  of  noneternal  thoughts.  This  would  be  a  true  description  of  the  Highest
+Self  who,  though  himself  eternal  and  passive,  has  to  think  (^ivatman)  non-eternal  thoughts.  I  took  the  first  /('etana/z  in  the  sense
 of  ^etta,  the  second  in  the  sense  of  ketsmsifn.  The  commentators,
 however,  take  a  different,  and  it  may  be,  from  their  point,  a  more
 correct  view.  -Sahkara  says :  '  He  is  the  eternal  of  the  eternals,
@@ -14363,8 +13687,7 @@ thinkers.'
 Vi^wanatman  says  :  '  The  Highest  Lord  is  the  cause  of  eternity
 in  eternal  things  on  earth,  and  the  cause  of  thought  in  the  thinkers
 on  earth.'  But  he  allows  another  construction,  namely,  that  he  is
-the  eternal  thinker  of  those  who  on  earth  are  endowed  with  eter-
-nity and  thought.     In  the  end  all  these  interpretations  come  to
+the  eternal  thinker  of  those  who  on  earth  are  endowed  with  eternity and  thought.     In  the  end  all  these  interpretations  come  to
 
 
 VI  ADHYAYA,    1 8.  265
@@ -14383,8 +13706,7 @@ over  death  ^ ;  there  is  no  other  path  to  go.
 the  knower^,  the  time  of  time  (destroyer  of  time),
 who  assumes  qualities  and  knows  everything,  the
 master  of  nature  and  of  man  ^,  the  lord  of  the  three
-qualities  (guna.),  the  cause  of  the  bondage,  the  exist-
-ence, and  the  liberation  of  the  world  ^.
+qualities  (guna.),  the  cause  of  the  bondage,  the  existence, and  the  liberation  of  the  world  ^.
 
 1 7.  He  who  has  become  that  '^,  he  is  the  immortal,
 remaining  the  lord,  the  knower,  the  ever-present
@@ -14415,8 +13737,7 @@ in  putting  ^wa^  before  kalakalo,  as  in  verse  2.
 ■^  He  who  seems  to  exist  for  a  time  in  the  form  of  kshetra^wa
 and  pradhana.
 
-^  The  MSS.  vary  between  atmabuddhipraka^am  and  atmabuddhi-
-prasadam.  The  former  reading  is  here  explained  by  6'ahkarananda
+^  The  MSS.  vary  between  atmabuddhipraka^am  and  atmabuddhiprasadam.  The  former  reading  is  here  explained  by  6'ahkarananda
 as  svabuddhisakshi«am.
 
 
@@ -14425,8 +13746,7 @@ as  svabuddhisakshi«am.
 first  creates  Brahman  (m.)^  and  delivers  the  Vedas
 to  him  ;
 
-19.  Who  is  without  parts,  without  actions,  tran-
-quil, without  fault,  without  taint^  the  highest  bridge
+19.  Who  is  without  parts,  without  actions,  tranquil, without  fault,  without  taint^  the  highest  bridge
 to  immortality — like  a  fire  that  has  consumed  its
 fuel.
 
@@ -14435,8 +13755,7 @@ a  hide,  will  there  be  an  end  of  misery,  unless  God
 has  first  been  known  ^
 
 21.  Through  the  power  of  his  penance  and
-through  the  grace  of  God*  has  the  wise  6'vetaj'va-
-tara  truly  ^  proclaimed  Brahman,  the  highest  and
+through  the  grace  of  God*  has  the  wise  6'vetaj'vatara  truly  ^  proclaimed  Brahman,  the  highest  and
 holiest,  to  the  best  of  ascetics'^,  as  approved  by
 the  company  of  7?/shis.
 
@@ -14444,8 +13763,7 @@ the  company  of  7?/shis.
 
 ^  Nir3.nganzm  nirlepam.
 
-^  -Sahkarananda  reads  tada  j-ivam  avi_§'naya  du-^khasyanto  bhavi-
-shyati;  Vi^wanatman  retains  devam,  but  mentions  >rivam  as  a  various
+^  -Sahkarananda  reads  tada  j-ivam  avi_§'naya  du-^khasyanto  bhavishyati;  Vi^wanatman  retains  devam,  but  mentions  >rivam  as  a  various
 reading.  Both  have  anto,  not  antam,  like  Roer.  ■S'ahkara  seems
 to  have  found  na  before  bhavishyati,  or  to  have  read  du/;khanto  na
 bhavishyati,  for  he  explains  that  there  will  be  no  end  of  misery,
@@ -14461,8 +13779,7 @@ the  character  of  this  Upanishad.
 ^  Samyak  may  be  both  adverb  and  adjective  in  this  sentence,
 kakakshinyayena.
 
-®  Atyajramin  is  explained  by  6'ahkara  as  atyantam  pQ_^yatama-
-jramibhya// ;'  and  he  adds,  Xraturvidha  bhikshava^  ka  bahfidakaku/i-
+®  Atyajramin  is  explained  by  6'ahkara  as  atyantam  pQ_^yatamajramibhya// ;'  and  he  adds,  Xraturvidha  bhikshava^  ka  bahfidakaku/i-
 /^akau,  Hsifusak  paramahawsaj  ka  yo  yak  paskat  sa  uttama/i.  Weber
 (Indische  Studien,  II,  109)  has  himself  corrected  his  mistake  of
 reading  antyajramibhya>^,  and  translating  it  by  neighbouring
@@ -14497,8 +13814,7 @@ and  wears  the  same  kind  of  reddish  garment.  3.  Hawsa,  the  same
 as  in  the  preceding  case,  except  the  carrying  of  only  a  one-knotted
 bamboo.  4.  Paramahawsa,  the  same  as  the  others ;  but  the  ascetic
 wears  the  sacred  thread,  and  his  hair  and  beard  are  quite  long.
-This  is  the  highest  of  all  orders.  A  Paramahawsa  who  shows  him-
-self worthy  is  on  the  very  threshold  of  becoming  a  Dikshita.
+This  is  the  highest  of  all  orders.  A  Paramahawsa  who  shows  himself worthy  is  on  the  very  threshold  of  becoming  a  Dikshita.
 1  Cf.  Brib.  Up.  VI,  3, 12;  Maitr.  Up.  VI,  29.
 
 
@@ -14516,8 +13832,7 @@ Adoration  to  the  Highest  Self!    Hari//,  Om !
 
 A
 
-and  Sauryaya^^in  ^  Gargya,  and  Kausalya  ^  Ai'vala-
-yana,  and  Bhargava  Vaidarbhi  ^,  and  Kabandhin
+and  Sauryaya^^in  ^  Gargya,  and  Kausalya  ^  Ai'valayana,  and  Bhargava  Vaidarbhi  ^,  and  Kabandhin
 Katyayana,  these  were  devoted  to  Brahman,  firm  in
 Brahman,  seeking  for  the  Highest  Brahman.  They
 thought  that  the  venerable  Pippalada  could  tell  them
@@ -14536,8 +13851,7 @@ be  born  ?'
 ^  Sukejas  seems  better  than  Suke^'an,  and  he  is  so  called  in  the
 sixth  'Pra.sna.,  in  MS.  Mill  74.
 
-^  Bharadvaga,  ^S'aivya,  Gargya,  Ajvalayana,  Bhargava,  and  Katya-
-yana are,  according  to  -S'ahkara,  names  of  gotras  or  families.
+^  Bharadvaga,  ^S'aivya,  Gargya,  Ajvalayana,  Bhargava,  and  Katyayana are,  according  to  -S'ahkara,  names  of  gotras  or  families.
 
 ^  S^ryasyapatyawz  Saurya/^,  tadapatyawz  -S"auryaya«i>^.  Dirgha/^
 sulopa^r  k^L  ^//andasa  iti  sa  eva  Sauryayawi.
@@ -14558,8 +13872,7 @@ of  Vidarbha.     See  B.  R.  s.  v.
 
 4.  He  replied:  'Pra^apati  (the  lord  of  creatures)
 was  desirous  of  creatures  (pra^a/^).  He  performed
-penance  \  and  having  performed  penance,  he  pro-
-duces a  pair,  matter  (rayi)  and  spirit  (pra/za),  think-
+penance  \  and  having  performed  penance,  he  produces a  pair,  matter  (rayi)  and  spirit  (pra/za),  think-
 ing that  they  together  should  produce  creatures  for
 him  in  many  ways.
 
@@ -14580,8 +13893,7 @@ has  been  said  in  the  following  verse :
 
 8  2.  (They  knew)  him  who  assumes  all  forms,  the
 golden  ^,  who  knows  all  things,  who  ascends  highest,
-alone  in  his  splendour,  and  warms  us  ;  the  thousand-
-rayed,  who  abides  in  a  hundred  places,  the  spirit  of
+alone  in  his  splendour,  and  warms  us  ;  the  thousandrayed,  who  abides  in  a  hundred  places,  the  spirit  of
 all  creatures,  the  Sun,  rises.
 
 9.  The  year  indeed  is  Pra^apati,  and  there  are
@@ -14644,8 +13956,7 @@ and  to  them  belongs  this  Brahma-world  here  *.     But
 ^  Rig-veda  I,  164,  12.     We  ought  to  read  upare  vi;^aksha«am.
 
 ^  Sapta/^akre,  i.  e.  rathe.  The  seven  wheels  are  explained  as  the
-rays  or  horses  of  the  sun  ;  or  as  half-years,  seasons,  months,  half-
-months,  days,  nights,  and  muhurtas.
+rays  or  horses  of  the  sun  ;  or  as  half-years,  seasons,  months,  halfmonths,  days,  nights,  and  muhurtas.
 
 ^  Taken  as  one,  as  a  Nychthemeron.
 
@@ -14692,12 +14003,10 @@ as  if  he  were  going  out  from  above.     Thereupon,
 ^  This  is  6'ankara's  explanation,  in  which  ba«a  is  taken  to  mean
 the  same  as  jarira,  body.  But  there  seems  to  be  no  authority  for
 such  a  meaning,  and  Anandagiri  tries  in  vain  to  find  an  etymological
-excuse  for  it.  Ba«a  or  Va«a  generally  means  an  arrow,  or,  parti-
-cularly in  Brahmawa  writings,  a  harp  with  many  strings.  I  do  not
+excuse  for  it.  Ba«a  or  Va«a  generally  means  an  arrow,  or,  particularly in  Brahmawa  writings,  a  harp  with  many  strings.  I  do  not
 see  how  an  arrow  could  be  used  as  an  appropriate  simile  here,  but
 a  harp  might,  if  we  take  avash/abhya  in  the  sense  of  holding  the
-frame  of  the  instrument,  and  vidharayamaA  in  the  sense  of  stretch-
-ing and  thereby  modulating  it.
+frame  of  the  instrument,  and  vidharayamaA  in  the  sense  of  stretching and  thereby  modulating  it.
 
 *  On  this  dispute  of  the  organs  of  sense,  see  Brih.  Up.  VI,  i,
 p.  201;  I^Mnd.  Up.  V,  I  (S.  B.  E.,  vol.  i,  p.  72).
@@ -14719,8 +14028,7 @@ God — he  is  what  is  and  what  is  not,  and  what
 is  immortal.
 
 6.  As  spokes  in  the  nave  of  a  wheel,  everything
-is  fixed  in  Pra/za,  the  verses  of  the  /?/g-veda,  Ya^ur-
-veda,  Sama-veda,  the  sacrifice,  the  Kshatriyas,  and
+is  fixed  in  Pra/za,  the  verses  of  the  /?/g-veda,  Ya^urveda,  Sama-veda,  the  sacrifice,  the  Kshatriyas,  and
 the  Brahmans.
 
 7.  As  Pra^apati  (lord  of  creatures)  thou  movest
@@ -14815,8 +14123,7 @@ separate  work.
 5.  The  Apana  (the  down-breathing)  in  the  organs
 of  excretion  and  generation ;  the  Pra/^a  himself
 dwells  in  eye  and  ear,  passing  through  mouth  and
-nose.  In  the  middle  is  the  Samana  ^  (the  on-
-breathing)  ;  it  carries  what  has  been  sacrificed  as
+nose.  In  the  middle  is  the  Samana  ^  (the  onbreathing)  ;  it  carries  what  has  been  sacrificed  as
 food  equally  (over  the  body),  and  the  seven  lights
 proceed  from  it.
 
@@ -14848,15 +14155,13 @@ eyes,  the  two  ears,  the  two  nostrils,  and  the  mouth.
 by  72,000  would  give  us  a  sum  total  of  727,200,000  veins,  or,  if  we
 add  the  principal  veins,  727,210,201.  Anandagiri  makes  the  sum
 total,  72  /^o/is,  72  lakshas,  six  thousands,  two  hundred  and  one,
-where  the  six  of  the  thousands  seems  to  be  a  mistake  for  dajasa-
-hasram.  In  the  Bnliadar.  Upanishad  II,  i,  19,  we  read  of  72,000
+where  the  six  of  the  thousands  seems  to  be  a  mistake  for  dajasahasram.  In  the  Bnliadar.  Upanishad  II,  i,  19,  we  read  of  72,000
 arteries,  likewise  in  Ya^wavalkya  III,  108.     See  also  Br/h.  Up.  IV,
 
 
 278  PRA^iVA-UPANISHAD.
 
-7.  Through  one  of  them,  the  Udana  (the  out-
-breathing)  leads  (us)  upwards  to  the  good  world  by
+7.  Through  one  of  them,  the  Udana  (the  outbreathing)  leads  (us)  upwards  to  the  good  world  by
 good  work,  to  the  bad  world  by  bad  work,  to  the
 world  of  men  by  both.
 
@@ -14867,8 +14172,7 @@ in  the  earth,  is  there  in  support  of  man's  Apana
 earth)  is  the  Samana  (on-breathing),  the  air  is  Vyana
 (back-b  reath  i  ng).
 
-9.  Light  is  the  Udana  (out-breathing),  and  there-
-fore he  whose  light  has  gone  out  comes  to  a  new
+9.  Light  is  the  Udana  (out-breathing),  and  therefore he  whose  light  has  gone  out  comes  to  a  new
 birth  with  his  senses  absorbed  in  the  mind.
 
 10.  Whatever  his  thought  (at  the  time  of  death)
@@ -14921,8 +14225,7 @@ take,  does  not  enjoy,  does  not  evacuate,  does  not
 move  about    He  sleeps,  that  is  what  people  say.
 
 3.  The  fires  of  the  pra;^as  are,  as  it  were  ^,  awake
-in  that  town  (the  body).  The  Apana  is  the  Garha-
-patya  fire,  the  Vyana  the  Anvaharyapa^ana  fire  ;  and
+in  that  town  (the  body).  The  Apana  is  the  Garhapatya  fire,  the  Vyana  the  Anvaharyapa^ana  fire  ;  and
 because  it  is  taken  out  of  the  Garhapatya  fire,  which
 is  fire  for  taking  out  ^,  therefore  the  Pra;^a  is  the
 Ahavaniya  fire  *.
@@ -14950,8 +14253,7 @@ the  Ahavaniya  fire,  being  taken  out  of  the  Garhapatya,  here  called
 
 4.  Because  it  carries  equally  these  two  oblations,
 the  out-breathing  and  the  in-breathing,  the  Samana
-is  he  (the  Hotri  priest)  ^  The  mind  is  the  sacri-
-ficer,  the  Udana  is  the  reward  of  the  sacrifice,  and
+is  he  (the  Hotri  priest)  ^  The  mind  is  the  sacrificer,  the  Udana  is  the  reward  of  the  sacrifice,  and
 it  leads  the  sacrificer  every  day  (in  deep  sleep)  to
 Brahman,
 
@@ -14980,8 +14282,7 @@ from  the  apana.  The  Vyana  is  identified  with  the  Dakshiwagni,
 the  Southern  fire,  because  it  issues  fi-om  the  heart  through  an
 aperture  on  the  right.
 
-^  The  name  of  the  Hotn*  priest  must  be  supplied.  He  is  sup-
-posed to  carry  two  oblations  equally  to  the  Ahavaniya,  and  in  the
+^  The  name  of  the  Hotn*  priest  must  be  supplied.  He  is  supposed to  carry  two  oblations  equally  to  the  Ahavaniya,  and  in  the
 same  way  the  Vyana  combines  the  two  breathings,  the  in  and  out
 breathings.
 
@@ -15009,8 +14310,7 @@ light  and  what  can  be  lighted  up,  the  Pra;^a  and
 what  is  to  be  supported  by  it.
 
 9.  For  he  it  is  who  sees,  hears,  smells,  tastes,
-perceives,  conceives,  acts,  he  whose  essence  is  know-
-ledge \  the  person,  and  he  dwells  in  the  highest,
+perceives,  conceives,  acts,  he  whose  essence  is  knowledge \  the  person,  and  he  dwells  in  the  highest,
 indestructible  Self, —
 
 10.  He  who  knows  that  indestructible  being,  obtains
@@ -15022,8 +14322,7 @@ becomes  all.     On  this  there  is  this  ^Sloka :
 11.  He,  O  friend,  who  knows  that  indestructible
 being  wherein  the  true  knower,  the  vital  spirits
 (pra/^as),  together  with  all  the  powers  (deva),  and
-the  elements  rest,  he,  being  all-knowing,  has  pene-
-trated all.'
+the  elements  rest,  he,  being  all-knowing,  has  penetrated all.'
 
 Fifth  Question,
 
@@ -15052,16 +14351,14 @@ world  of  men,  and  being  endowed  there  with  penance,
 abstinence,  and  faith,  he  enjoys  greatness.
 
 4.  If  he  meditate  with*  two  Matras  (A  +  U)  he
-arrives  at  the  Manas  ^  and  is  led  up  by  the  Ya^us-
-verses  to  the  sky,  to  the  Soma-world.  Having  enjoyed
+arrives  at  the  Manas  ^  and  is  led  up  by  the  Ya^usverses  to  the  sky,  to  the  Soma-world.  Having  enjoyed
 greatness  in  the  Soma-world,  he  returns  again.
 
 5.  Again,  he  who  meditates  with  this  syllable
 AUM  of  three  Matras,  on  the  Highest  Person,  he
 comes  to  light  and  to  the  sun.  And  as  a  snake  is
 freed  from  its  skin,  so  is  he  freed  from  evil.  He
-is  led  up  by  the  Saman-verses  to  the  Brahma-
-world^;  and  from  him,  full  of  life  (Hira;^yagarbha,
+is  led  up  by  the  Saman-verses  to  the  Brahmaworld^;  and  from  him,  full  of  life  (Hira;^yagarbha,
 the  lord  of  the  Satya-loka '),  he  learns  ^  to  see  the
 all-pervading,  the  Highest  Person.  And  there  are
 these  two  ^Slokas  :
@@ -15133,12 +14430,10 @@ They  are  probably  meant  for  Yoga  exercises  in  which  the  three
 Matras  of  Om  are  used  as  one  word,  and  as  an  emblem  of  the
 Highest  Brahman.
 
--  vSahkara  explains  Kausalya  by  Kosalayam  bhava-^.  Ananda-
-tirtha  gives  the  same  explanation.  Kosala  is  the  capital,  generally
+-  vSahkara  explains  Kausalya  by  Kosalayam  bhava-^.  Anandatirtha  gives  the  same  explanation.  Kosala  is  the  capital,  generally
 called  Ayodhya.     There  is  no  authority  for  the  palatal  s.
 
-^  6ahkara  explains  prawa  by  sarvapra«o  Hira«yagarbha  (sarva-
-pra«ikara«adharam  antaratmanam).
+^  6ahkara  explains  prawa  by  sarvapra«o  Hira«yagarbha  (sarvapra«ikara«adharam  antaratmanam).
 
 
 284  PRASivA-UPANISHAD.
@@ -15194,8 +14489,7 @@ First  PRAPAr/zAKA.
 
 1.  The  laying  of  the  formerly-described  sacrificial
 fires  1  is  indeed  the  sacrifice  of  Brahman.  Therefore
-let  the  sacrificer,  after  he  has  laid  those  fires,  medi-
-tate on  the  Self  Thus  only  does  the  sacrificer
+let  the  sacrificer,  after  he  has  laid  those  fires,  meditate on  the  Self  Thus  only  does  the  sacrificer
 become  complete  and  faultless.
 
 But  who  is  to  be  meditated  on  ?  He  who  is
@@ -15210,11 +14504,9 @@ uplifted  arms,  looking  up  to  the  sun.  At  the  end
 of  a  thousand  (days)  ^  the  Saint  ^'akayanya  ^,  who
 knew  the  Self,  came  near  ^,  burning  with  splendour,
 
-^  The  performance  of  all  the  sacrifices,  described  in  the  Maitra-
-ya«a-brahma;za,  is  to  lead  up  in  the  end  to  a  knowledge  of  Brahman,
+^  The  performance  of  all  the  sacrifices,  described  in  the  Maitraya«a-brahma;za,  is  to  lead  up  in  the  end  to  a  knowledge  of  Brahman,
 by  rendering  a  man  fit  for  receiving  the  highest  knowledge.  See
-Manu  VI,  82  :  'All  that  has  been  declared  (above)  depends  on  medi-
-tation ;  for  he  who  is  not  proficient  in  the  knowledge  of  the  Self
+Manu  VI,  82  :  'All  that  has  been  declared  (above)  depends  on  meditation ;  for  he  who  is  not  proficient  in  the  knowledge  of  the  Self
 reaps  not  the  full  reward  of  the  performance  of  rites.'
 
 ^  Instead  of  vira^-e,  a  doubtful  word,  and  occurring  nowhere
@@ -15225,11 +14517,8 @@ else,  m.  reads  vaira^ye.
 *  The  descendant  of  -S'akayana.  Saint  is  perhaps  too  strong ;  it
 means  a  holy,  venerable  man,  and  is  frequently  applied  to  a  Buddha.
 
-^  Both  M.  and  m.  add  munc/^  before  antikam,  whereas  the  com-
-mentary has  ra^wa^.
+^  Both  M.  and  m.  add  munc/^  before  antikam,  whereas  the  commentary has  ra^wa^.
 
-
-288  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
 
 like  a  fire  without  smoke.  He  said  to  the  King :
 *  Rise,  rise!  Choose  a  boon!'
@@ -15251,8 +14540,7 @@ mass  of  bones,  skin,  sinews,  marrow  2,  flesh,  seed,
 blood,  mucus,  tears,  phlegm,  ordure,  water  ^,  bile,
 and  slime !  What  is  the  use  of  the  enjoyment  of
 pleasures  in  this  body  which  is  assailed  by  lust,
-hatred,  greed,  delusion,  fear,  anguish,  jealousy,  sepa-
-ration from  what  is  loved,  union  with  what  is  not
+hatred,  greed,  delusion,  fear,  anguish,  jealousy,  separation from  what  is  loved,  union  with  what  is  not
 loved*,  hunger,  thirst,  old  age,  death,  illness,  grief,
 and  other  evils !
 
@@ -15286,17 +14574,14 @@ of  empires,  Sudyumna,  Bhuridyumna,  Indradyumna,
 Kuvalaya^^va,  Yauvanai'va,  Vadhryai^va,  Ai'vapati  ^,
 ^'ai'abindu,  Hari^^/^andra,  Ambarisha  ^,  Nahusha,
 Ananata,  vS'aryati,  Yayati,  Anara;^ya  ^  Ukshasena  *,
-&c.,  and  kings  such  as  Marutta,  Bharata  (Daush-
-yanti),  and  others,  who  before  the  eyes  of  their  whole
+&c.,  and  kings  such  as  Marutta,  Bharata  (Daushyanti),  and  others,  who  before  the  eyes  of  their  whole
 family  surrendered  the  greatest  happiness,  and
 passed  on  from  this  world  to  that.  And  what  of
 these  ?  There  are  other  great  ones.  We  see  the
-destruction  ^  of  Gandharvas,  Asuras  ^  Yakshas,  Ra-
-kshasas,  Bhutas,  Ga;2as,  Pi^a/'as,  snakes,  and  vam-
+destruction  ^  of  Gandharvas,  Asuras  ^  Yakshas,  Rakshasas,  Bhutas,  Ga;2as,  Pi^a/'as,  snakes,  and  vam-
 pires. And  what  of  these  ?  There  is  the  drying
 up  of  other  great  oceans,  the  falling  of  mountains,
-the  moving  of  the  pole-star,  the  cutting  of  the  wind-
-ropes  (that  hold  the  stars),  the  submergence  of  the
+the  moving  of  the  pole-star,  the  cutting  of  the  windropes  (that  hold  the  stars),  the  submergence  of  the
 earth,  and  the  departure  of  the  gods  (suras)  from
 their  place.  In  such  a  world  as  this,  what  is  the
 use  of  the  enjoyment  of  pleasures,  if  he  who  has
@@ -15304,10 +14589,8 @@ fed  ^  on  them  is  seen^  to  return  (to  this  world)  again
 
 ^  M.  carries  on  ajvapatija^'abinduharij/^andrambarisha.
 
-^  After  Ambarisha,  IM.  reads  Nabhushananutujayyatiyayatyanara-
-wyakshasenadayo.  Nahusha  (Naghusha  ?)  is  the  father  of  ^aryati  ;
-Nabhaga,  the  father  of  Ambarisha.  These  names  are  so  care-
-lessly written  that  even  the  commentator  says  that  the  text  is
+^  After  Ambarisha,  IM.  reads  Nabhushananutujayyatiyayatyanarawyakshasenadayo.  Nahusha  (Naghusha  ?)  is  the  father  of  ^aryati  ;
+Nabhaga,  the  father  of  Ambarisha.  These  names  are  so  carelessly written  that  even  the  commentator  says  that  the  text  is
 either  -^y^andasa  or  pramadika.  Ananata  is  a  mere  conjecture.  It
 occurs  as  the  name  of  a  7?/shi  in  Rig-veda  IX,  in.
 
@@ -15317,8 +14600,7 @@ occurs  as  the  name  of  a  7?/shi  in  Rig-veda  IX,  in.
 
 °  M.  and  m.  read  nirodhanam.  ^  M.  adds  Apsarasas.
 
-'  M.  and  m.  read  amtasya,  but  the  commentator  explains  a^i-
-tasya.
+'  M.  and  m.  read  amtasya,  but  the  commentator  explains  a^itasya.
 
 **  Here  we  have  the  Maitrayawa  Sandhi,  dr/jyata  iti,  instead
 of  dmyata  iti ;  see  von  Schroeder,  Maitraya^t  Sa?«hita,  p.  xxviii.
@@ -15339,8 +14621,7 @@ Second   PRAPAriJAKA.
 
 1.  Then  the  Saint  ^'akayanya,  well  pleased,  said
 to  the  King:  'Great  King  Brz'hadratha,  thou  banner
-of  the  race  of  Ikshvaku,  quickly  obtaining  a  know-
-ledge of  Self,  thou  art  happy,  and  art  renowned  by
+of  the  race  of  Ikshvaku,  quickly  obtaining  a  knowledge of  Self,  thou  art  happy,  and  art  renowned  by
 the  name  of  Marut,  the  wind  ^  This  indeed  is  thy
 SelfV
 
@@ -15366,16 +14647,13 @@ storm  gods.     Afterwards  the  king  is  called  Marut,  VI,  30.
 *  M.  leaves  out  atha.
 
 
-^  One  might  read  avish/ambhanena,  in  the  sense  of  while  pre-
-venting the  departure  of  the  vital  breath,  as  in  the  Brih.  Ar,  VI,  3,
+^  One  might  read  avish/ambhanena,  in  the  sense  of  while  preventing the  departure  of  the  vital  breath,  as  in  the  Brih.  Ar,  VI,  3,
 prawena  rakshann  avaram  kulayam.
 
 ^  M.  reads  vyathamano  'vyathamanas,
 
-■^  M.  leaves  out  Maitri/^-ity  ev3.m  hyaha.  The  commentator  ex-
-plains Maitrir  by  mitraya  apatyam  r/shir  maitrir  maitreya.  In  a  later
-passage  (II,  3)  M,  reads  Bhagavata  Maitrewa,  likewise  the  Anubhuti-
-prakaja.
+■^  M.  leaves  out  Maitri/^-ity  ev3.m  hyaha.  The  commentator  explains Maitrir  by  mitraya  apatyam  r/shir  maitrir  maitreya.  In  a  later
+passage  (II,  3)  M,  reads  Bhagavata  Maitrewa,  likewise  the  Anubhutiprakaja.
 
 
 II  PRAPArFAKA,    4.  29 1
@@ -15391,12 +14669,10 @@ told  us  by  the  Saint  Maitri  ^     I  shall  tell  it  to  thee  :
 '  We  hear  (in  the  sacred  records)  that  there  were
 once  the  Valakhilyas  *,  who  had  left  off  all  evil,  who
 were  vigorous  and  passionless.  They  said  to  the  Pra-
-^apati  Kratu  :  "  O  Saint,  this  body  is  without  intel-
-ligence, like  a  cart.  To  what  supernatural  being
+^apati  Kratu  :  "  O  Saint,  this  body  is  without  intelligence, like  a  cart.  To  what  supernatural  being
 belongs  this  great  power  by  which  such  a  body  has
 been  made  intelligent  ?  Or  who  is  the  driver }
-What  thou  knowest,  O  Saint,  tell  us  that  ^"  '  Pra^a-
-pati  answered  and  said  :
+What  thou  knowest,  O  Saint,  tell  us  that  ^"  '  Pra^apati  answered  and  said  :
 
 4.  '  He  who  in  the  ^S^ruti  is  called  "  Standinof
 above,"  like  passionless  ascetics  ^  amidst  the  objects
@@ -15421,8 +14697,7 @@ Bhagavan  vetsy  etad  asmakawz  bruhiti  tan  hova&ti.
 ^  The  commentator  allows  urdhvaretasasa//  to  be  taken  as  a
 vocative  also.
 
-■^  Niratma  is  explained  by  the  commentator  as  thoughtless,  with-
-out volition,  &c.  But  atma  is  frequently  used  for  body  also,  and
+■^  Niratma  is  explained  by  the  commentator  as  thoughtless,  without volition,  &c.  But  atma  is  frequently  used  for  body  also,  and
 this  seems  more  appropriate  here.  M.,  however,  reads  anijatma,
 and  this  is  the  reading  explained  in  the  Anubhutipraka^a,  p.  228,
 ver.  60.  This  might  mean  the  Atman  which  has  not  yet  assumed
@@ -15438,8 +14713,7 @@ intelligent  by  such  a  being  as  this  which  has  no
 desires \  and  how  is  he  its  driver?'  He  answered
 them  and  said  :
 
-5.  '  That  Self  which  is  very  small,  invisible,  in-
-comprehensible, called  Purusha,  dwells  of  his  own
+5.  '  That  Self  which  is  very  small,  invisible,  incomprehensible, called  Purusha,  dwells  of  his  own
 will  here  in  part^;  just  as  a  man  who  is  fast  asleep
 awakes  of  his  own  will  ^  And  this  part  (of  the  Self)
 which  is  entirely  intelligent,  reflected  in  man  (as  the
@@ -15464,8 +14738,7 @@ various  readings  anish/ena,  free  from  wishes,  and  a;?ish///ena,  the
 smallest.  M.  reads  a.mM/iena.,  and  this  seems  better  than  anish/ena.
 The  Anubhutipraka^-a  reads  likewise  zuikk/izsya..
 
-^  I  read  buddhipurvam,  and  again  with  M.  suptasyeva  buddhi-
-purvam.  I  also  read  awzjena  without  iti,  as  in  M.  The  simile  seems
+^  I  read  buddhipurvam,  and  again  with  M.  suptasyeva  buddhipurvam.  I  also  read  awzjena  without  iti,  as  in  M.  The  simile  seems
 to  be  that  a  man,  if  he  likes,  can  wake  himself  at  any  time  of
 night,  and  this  '  if  he  likes  '  is  expressed  by  buddhipurvam.  See
 Anubhutipraklra,  vv.  67,  68.
@@ -15488,10 +14761,8 @@ Hke  a  stone,  without  understanding,  and  standing
 like  a  lifeless  post.  He  had  no  happiness.  He
 thought,  I  shall  enter  ^  within,  that  they  may  awake.
 Making  himself  like  air  (vayu)  ^  he  entered  within.
-Being  one,  he  could  not  do  it.  Then  dividing  him-
-self fivefold,  he  is  called  Pra;^a,  Apana,  Samana,
-Udana,  Vyana.  Now  that^  air  which  rises  up-
-wards, is  Pra;^a.  That  which  moves  downwards,
+Being  one,  he  could  not  do  it.  Then  dividing  himself fivefold,  he  is  called  Pra;^a,  Apana,  Samana,
+Udana,  Vyana.  Now  that^  air  which  rises  upwards, is  Pra;^a.  That  which  moves  downwards,
 is  Apana.  That  by  which  these  two  are  supposed
 to  be  held,  is  Vyana.  That  *  which  carries  the
 grosser  material  of  food  to  the  Apana,  and  brings
@@ -15519,19 +14790,15 @@ The  whole  sentence  from  uttaram  to  udanasya  is  left  out  in  M.
 esha  vava  sa  vyana/z.
 
 *  The  views  of  these  five  kinds  of  wind  differ  considerably.
-Here  the  commentator  explains  that  the  pra«a  and  apina,  the  up-
-breathing  and  down-breathing,  keep  the  bodily  warmth  alive,  as
+Here  the  commentator  explains  that  the  pra«a  and  apina,  the  upbreathing  and  down-breathing,  keep  the  bodily  warmth  alive,  as
 bellows  keep  up  a  fire.  The  food  cooked  in  it  is  distributed  by
 the  Samana,  so  that  the  coarse  material  becomes  ordure,  the  middle
 flesh,  the  subtle  material  mind  (manas).  The  udana  brings  up
 phlegm,  &c.,  while  the  Vyana  gives  strength  to  the  whole  body.
 
 
-294  MAITRAYAiVA-BRAHMAiVA-UPANISHAD,
-
 vessel  (apana)  on  the  Upa?;2^u-vesseP  (pra/za),  and
-between  these  two  the  self-resplendent  (Self)  pro-
-duced heat^  This  heat  is  the  purusha  (person),
+between  these  two  the  self-resplendent  (Self)  produced heat^  This  heat  is  the  purusha  (person),
 and  this  purusha  is  Agni  Vaiivanara.  And  thus
 it  is  said  elsewhere  ^ :  "  Agni  Vaij"vanara  is  the  fire
 within  man  by  which  the  food  that  is  eaten  is  cooked,
@@ -15541,8 +14808,7 @@ of  departing  this  life,  he  does  not  hear  that  noise."
 
 Now  he^  having  divided  himself  fivefold,  is
 hidden  in  a  secret  place  (buddhi),  assuming  the
-nature  of  mind,  having  the  pra^^as  as  his  body,  re-
-splendent, having  true  concepts,  and  free  like  ether  ^.
+nature  of  mind,  having  the  pra^^as  as  his  body,  resplendent, having  true  concepts,  and  free  like  ether  ^.
 Feeling  even  thus  that  he  has  not  attained  his  object,
 he  thinks  from  within  the  interior  of  the  heart  ^
 *'  Let  me  enjoy  objects."  Therefore,  having  first
@@ -15605,33 +14871,26 @@ fruits    of  action,   enters  on  a   good  or  bad   birth  ?
 ^  M.  reads :  Sa  va  esha  atmeti  ho^ann  iva  sitasitai//.  This  seems
 better  than  uj-anti  kavaya/z,  which  hardly  construes.
 
-^  M.  reads  abhibhuyamanay  iva,  which  again  is  better  than  ana-
-bhibhuta  iva,  for  he  seems  to  be  overcome,  but  is  not,  just  as  he
+^  M.  reads  abhibhuyamanay  iva,  which  again  is  better  than  anabhibhuta  iva,  for  he  seems  to  be  overcome,  but  is  not,  just  as  he
 seems  to  be  an  agent,  but  is  not.     See  also  III,  i.
 
 ^  M.  has  alepo.
 
-*  The  pure  Self,  called  atma,  brahma,  Xinmatram,  pra^?lanagha-
-nam,  &c.,  after  entering  what  he  had  himself  created,  and  no  longer
+*  The  pure  Self,  called  atma,  brahma,  Xinmatram,  pra^?lanaghanam,  &c.,  after  entering  what  he  had  himself  created,  and  no  longer
 distinguishing  himself  from  the  created  things  (bhuta),  is  called
 Bhutatma.
 
 
-296  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
-
 Downward  or  upward  is  his  course  \  and  overcome
-by  the  pairs  (distinction  between  hot  and  cold,  plea-
-sure and  pain,  &c.)  he  roams  about^.'
+by  the  pairs  (distinction  between  hot  and  cold,  pleasure and  pain,  &c.)  he  roams  about^.'
 
 2.  Pra^apati  Kratu  replied:  'There  is  indeed  that
-other ^  different  one,  called  the  elemental  Self  (Bhu-
-tatma),  who,  overcome  by  bright  and  dark  fruits  of
+other ^  different  one,  called  the  elemental  Self  (Bhutatma),  who,  overcome  by  bright  and  dark  fruits  of
 action,  enters  on  a  good  or  bad  birth  :  downward  or
 upward  is  his  course,  and  overcome  by  the  pairs  he
 roams  about.  And  this  is  his  explanation  :  The  five
 Tanmatras*  (sound,  touch,  form,  taste,  smell)  are
-called  Bhuta ;  also  the  five  Mahabhutas  (gross  ele-
-ments) are  called  Bhuta.  Then  the  aggregate^  of  all
+called  Bhuta ;  also  the  five  Mahabhutas  (gross  elements) are  called  Bhuta.  Then  the  aggregate^  of  all
 these  is  called  ^arira,  body*'.  And  lastly  he  of  whom
 it  was  said  that  he  dwelt  in  the  body^,  he  is  called
 Bhutatma,  the  elemental  Self.  Thus  his  immortal
@@ -15640,8 +14899,7 @@ he  himself  is  overcome  by  the  qualities  of  nature.
 Then^",  because  he  is  thus  overcome,  he  becomes
 bewildered,  and  because  he  is  bewildered,  he  saw
 not  the  creator,  the  holy  Lord,  abiding  within
-himself.  Carried  along  by  the  waves  of  the  quali-
-ties ^\  darkened  in  his  imaginations,  unstable,  fickle,
+himself.  Carried  along  by  the  waves  of  the  qualities ^\  darkened  in  his  imaginations,  unstable,  fickle,
 
 ^  M.  reads  here  and  afterwards  avakam  urdhva?^  va  gatidvandvai/^.
 
@@ -15671,8 +14929,7 @@ Ill  PRAPAr^AKA,  3.  297
 
 crippled,  full  of  desires,  vacillating,  he  enters  into
 belief,  believing  "I  am  he,"  "this  is  mine^ ;"  he  binds
-his  Self  by  his  Self,  as  a  bird  with  a  net,  and  over-
-come afterwards  by  the  fruits  of  what  he  has  done,
+his  Self  by  his  Self,  as  a  bird  with  a  net,  and  overcome afterwards  by  the  fruits  of  what  he  has  done,
 he  enters  on  a  good  and  bad  birth ;  downward  or
 upward  is  his  course,  and  overcome  by  the  pairs  he
 roams  about'
@@ -15682,16 +14939,13 @@ them  :
 
 3.  '  This  also  has  elsewhere  been  said  :  He  who
 acts,  is  the  elemental  Self;  he  who  causes  to  act  by
-means  of  the  organs ^  is  the  inner  man  (anta/^puru-
-sha).  Now  as  even  a  ball  of  iron,  pervaded  (over-
+means  of  the  organs ^  is  the  inner  man  (anta/^purusha).  Now  as  even  a  ball  of  iron,  pervaded  (over-
 come) by  fire,  and  hammered  by  smiths,  becomes
 manifold  (assumes  different  forms,  such  as  crooked,
-round,  large,  small  ^),  thus  the  elemental  Self,  per-
-vaded (overcome)  by  the  inner  man,  and  hammered
+round,  large,  small  ^),  thus  the  elemental  Self,  pervaded (overcome)  by  the  inner  man,  and  hammered
 by  the  qualities,  becomes  manifold^.  And  the  four
 tribes  (mammals,  birds,  &c.),  the  fourteen  worlds
-(Bhur,  &c.),  with  all  the  number  of  beings,  multi-
-plied eighty-four  times  ^,  all  this  appears  as  manifold-
+(Bhur,  &c.),  with  all  the  number  of  beings,  multiplied eighty-four  times  ^,  all  this  appears  as  manifold-
 ness.  And  those  multiplied  things  are  impelled  by
 man  (purusha)  as  the  wheel  by  the  potter*'.  And  as
 when  the  ball  of  iron  is  hammered,  the  fire  is  not
@@ -15705,8 +14959,7 @@ itself  (with  the  elements).
 
 *  M.  reads  upety  atha  trigu«a»2  /^atur^alam.
 
-^  M.  reads  >^aturaj'itilakshayonipari«atam.  See  also  Anubhuti-
-prakaja,  ver.  118.
+^  M.  reads  >^aturaj'itilakshayonipari«atam.  See  also  Anubhutiprakaja,  ver.  118.
 
 ^  Mr/tyava  seems  an  impossible  word,  though  the  commentator
 twice  explains  it  as  kulala,  potter,  M.  reads  ,^akri«eti,  which  seems
@@ -15721,33 +14974,27 @@ preferable.    Weber  conjectures  mri\pa./ca,.
 produced  from  marriage,  and  endowed  with  growth  ^
 in  darkness,  came  forth  by  the  urinary  passage,  was
 buih  up  with  bones,  bedaubed  with  flesh,  thatched
-with  skin,  filled  with  ordure,  urine,  bile,  slime,  mar-
-row, fat,  oil^  and  many  impurities  besides,  like  a
+with  skin,  filled  with  ordure,  urine,  bile,  slime,  marrow, fat,  oil^  and  many  impurities  besides,  like  a
 treasury  full  of  treasures*.
 
-5.  And  it  has  been  said  elsewhere :  Bewilder-
-ment, fear,  grief,  sleep,  sloth,  carelessness,  decay,
-sorrow,  hunger,  thirst,  niggardliness,  wrath,  infi-
-delity, ignorance,  envy,  cruelty^,  folly,  shameless-
+5.  And  it  has  been  said  elsewhere :  Bewilderment, fear,  grief,  sleep,  sloth,  carelessness,  decay,
+sorrow,  hunger,  thirst,  niggardliness,  wrath,  infidelity, ignorance,  envy,  cruelty^,  folly,  shameless-
 ness,  meanness*',  pride,  changeability '',  these  are  the
 results  of  the  quality  of  darkness  (tama/^)^
 
 
 ^  Part  of  this  passage  has  been  before  the  mind  of  the  author  of
 the  Manava-dharmaxastra,  when  writing,  VI,  76,  77  :  asthisthu7/a?«
-snayuyutam  ma;;/sajo«italepanam,  -^armavanaddha?;/  durgandhi  pur-
-na.m.  mutrapurishayo//,  ^arajokasamavish/awi  rogayatanam  aturam
+snayuyutam  ma;;/sajo«italepanam,  -^armavanaddha?;/  durgandhi  purna.m.  mutrapurishayo//,  ^arajokasamavish/awi  rogayatanam  aturam
 ra^asvalam  anityaw  ka.  bhutavasam  imzm  tya^et.  The  same  verses
 occur  in  the  Mahabharata  XII,  12463-4,  only  with  tyagz  at  the
-end,  instead  of  tya_^et.  The  rendering  of  asthibhi^-  X'itam  by  asthi-
-sthimam  shows  that  /^ita  was  understood  to  mean  piled  or  built  up,
+end,  instead  of  tya_^et.  The  rendering  of  asthibhi^-  X'itam  by  asthisthimam  shows  that  /^ita  was  understood  to  mean  piled  or  built  up,
 i.  e.  supported  by  bones.
 
 ^  Instead  of  sa7«vrz'ddhyupetam  IM.  reads  sa;;zviddhyapetam.
 
 ^  M.  adds  snayu  after  vasa,  and  instead  of  amayai/i  reads  malai/z.
-This  reading,  malai/z,  would  seem  preferable,  though  Manu's  roga-
-yatanam might  be  quoted  in  support  of  amayai>^.  The  exact
+This  reading,  malai/z,  would  seem  preferable,  though  Manu's  rogayatanam might  be  quoted  in  support  of  amayai>^.  The  exact
 meaning  of  vasa  is  given  in  the  Aryavidyasudhakara,  p.  82, 1.  9.
 
 *  Therefore  should  wise  people  not  identify  their  true  Self  with
@@ -15755,8 +15002,7 @@ the  body.     M.  reads  vasuneti.
 
 ^  M.  reads  vaikaru«yam.
 
-^  Instead  of  nirakrz'titvam  M.  reads  nikntatvam,  which  is  de-
-cidedly preferable.  We  may  take  it  to  mean  either  meanness,  as
+^  Instead  of  nirakrz'titvam  M.  reads  nikntatvam,  which  is  decidedly preferable.  We  may  take  it  to  mean  either  meanness,  as
 opposed  to  uddhatatvam,  overbearing,  or  knavery,  the  usual
 meaning  of  nikn'ti.
 
@@ -15769,10 +15015,8 @@ tn'sh7?a  instead  of  antastnshwa.
 IV  PRAPArFAKA,    2.  099
 
 Inward  thirst,  fondness,  passion,  covetousness,
-unkindness,  love,  hatred,  deceit ^  jealousy,  vain  rest-
-lessness, fickleness^,  unstableness,  emulation,  greed,
-patronising  of  friends,  family  pride,  aversion  to  dis-
-agreeable objects,  devotion  to  agreeable  objects,
+unkindness,  love,  hatred,  deceit ^  jealousy,  vain  restlessness, fickleness^,  unstableness,  emulation,  greed,
+patronising  of  friends,  family  pride,  aversion  to  disagreeable objects,  devotion  to  agreeable  objects,
 whispering^,  prodigality,  these  are  the  results  of  the
 quality  of  passion  (ra^as).
 
@@ -15792,8 +15036,7 @@ he  obtains  union ^  with  the  (true)  Self?'  Pra^apati
 Kratu  said  to  them  :
 
 2.  'It  has  been  said  elsewhere  :  Like  the  waves
-in  large  rivers,  that  which  has  been  done  before,  can-
-not be  turned  back,  and,  like  the  tide  of  the  sea,  the
+in  large  rivers,  that  which  has  been  done  before,  cannot be  turned  back,  and,  like  the  tide  of  the  sea,  the
 approach  of  death  is  hard  to  stem.  Bound ^  by  the
 fetters  of  the  fruits  of  good  and  evil,  like  a  cripple ;
 without  freedom,  like  a  man  in  prison  ;  beset  by  many
@@ -15805,12 +15048,8 @@ fears,  like  one  standing  before  Yama  (the  judge  of
 
 *  Instead  of  the  irregular  sayo^yam,  M.  always  reads  sayu^yam.
 
-^  It  is  not  quite  clear  what  is  the  subject  to  which  all  these  ad-
-jectives refer.  M.  reads  baddho  for  baddham,  but  afterwards
+^  It  is  not  quite  clear  what  is  the  subject  to  which  all  these  adjectives refer.  M.  reads  baddho  for  baddham,  but  afterwards
 agrees  with  the  text  as  published  by  Cowell.
-
-
-300  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
 
 
 the  dead) ;  intoxicated  by  the  wine  of  ilkision,  like
@@ -15836,8 +15075,7 @@ one's  own  duty,  other  performances  are  like  the
 mere  branches  of  a  stem^  Through  it  one  obtains
 the  Highest  above,  otherwise  one  falls  downward''.
 Thus  is  one's  own  duty  declared,  which  is  to  be  found
-in  the  Vedas.  No  one  belongs  truly  to  an  order  (ai-ra-
-ma)  who  transgresses  his  own  law'.  And  if  people
+in  the  Vedas.  No  one  belongs  truly  to  an  order  (ai-rama)  who  transgresses  his  own  law'.  And  if  people
 say,  that  a  man  does  not  belong  to  any  of  the  orders,
 and  that  he  is  an  ascetic  ^  this  is  wrong,  though,  on
 
@@ -15864,19 +15102,16 @@ IV  PRAPAr/TAKA,    4.  30I
 
 
 the  other  hand,  no  one  who  is  not  an  ascetic  brings
-his  sacrificial  works  to  perfection  or  obtains  know-
-ledge of  the  Highest  Self^     For  thus  it  is  said  :
+his  sacrificial  works  to  perfection  or  obtains  knowledge of  the  Highest  Self^     For  thus  it  is  said  :
 
 By  ascetic  penance  goodness  is  obtained,  from
-goodness  understanding  is  reached,  from  understand-
-ing the  Self  is  obtained,  and  he  who  has  obtained
+goodness  understanding  is  reached,  from  understanding the  Self  is  obtained,  and  he  who  has  obtained
 that,  does  not  return^.
 
 4.  "  Brahman  is,"  thus  said  one  who  knew  the
 science  of  Brahman ;  and  this  penance  is  the  door
 to  Brahman,  thus  said  one  who  by  penance  had
-cast  off  all  sin.  The  syllable  Om  is  the  mani-
-fest greatness  of  Brahman,  thus  said  one  who
+cast  off  all  sin.  The  syllable  Om  is  the  manifest greatness  of  Brahman,  thus  said  one  who
 well  grounded  (in  Brahman)  always  meditates  on
 it.  Therefore  by  knowledge,  by  penance,  and  by
 meditation  is  Brahman  gained.  Thus  one  goes
@@ -15908,8 +15143,6 @@ karmai-uddhi.
 *  Rathita/^  is  a  very  strange  word,  but,  like  everything  else,  it  is
 
 
-302  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
-
 5.  The  Valakhilyas  said :  '  O  Saint,  thou  art  the
 teacher,  thou  art  the  teacher  \  What  thou  hast  said,
 has  been  properly  laid  up  in  our  mind.  Now  answer
@@ -15930,15 +15163,13 @@ and  when  all  things  perish,  he  becomes  one  with  the
 Purusha,  yes,  with  the  Purusha.'
 
 explained  by  the  commentator,  viz.  as  rathani  prapito  rathitvawi  kdu
-prapita  iti  yavat.  Nevertheless  the  reading  of  M.  seems  to  me  pre-
-ferable, viz.  atha  yai-^  paripiirwo  'bhibhuto  'ya/«  tathaitai^  -^a,  tai^
+prapita  iti  yavat.  Nevertheless  the  reading  of  M.  seems  to  me  preferable, viz.  atha  yai-^  paripiirwo  'bhibhuto  'ya/«  tathaitai^  -^a,  tai^
 sarvair  vimukta  svatmany  eva  sajiig'yam  upaiti.  I  should  prefer
 vimuktas  tv  atmany  eva,  and  translate,  'But  then,  freed  from  all
 those  things  by  which  he  was  filled  and  likewise  was  overcome  by
 them,  he  obtains  union  with  the  Self.'
 
-^  M.  reads  the  second  time  abhivady  asmiti,  which  is  no  improve-
-ment.    It  might  have  been  ativadyasiti.
+^  M.  reads  the  second  time  abhivady  asmiti,  which  is  no  improvement.    It  might  have  been  ativadyasiti.
 
 ^  M.  reads  Yama/z  pra«o.
 
@@ -15973,13 +15204,11 @@ Lord  of  the  Universe,  glory  to  thee!  Thou  art
 the  Self  of  All,  thou  art  the  maker  of  All,  the
 enjoyer  of  All ;  thou  art  all  life,  and  the  lord  of  all
 pleasure  and  joy*.  Glory  to  thee,  the  tranquil,  the
-deeply  hidden,  the  incomprehensible,  the  immeasur-
-able, without  beginning  and  without  end.'
+deeply  hidden,  the  incomprehensible,  the  immeasurable, without  beginning  and  without  end.'
 
 
 2.  '  In  the  beginning^  darkness  (tamas)  alone  was
-this.  It  was  in  the  Highest,  and,  moved  by  the  High-
-est, it  becomes  uneven.     Thus  it  becomes  obscurity
+this.  It  was  in  the  Highest,  and,  moved  by  the  Highest, it  becomes  uneven.     Thus  it  becomes  obscurity
 
 ^  At  the  beginning  of  the  fifth  PrapaMaka  my  MS.  gives  the
 -Slokas  which  in  the  printed  edition  are  found  in  VI,  34,  p.  178,
@@ -15990,8 +15219,7 @@ tvam,  &c.
 ^  The  commentator  explains  Brahma  by  Hirawyagarbha  and
 Pra^apati  by  Vira^.
 
-^  M,  reads  tvam  Manus,  tva;/z  Yamai'  ko.  tvam,  pr/thivi  tvam  atha-
-kyxitzh,  which  is  so  clearly  the  right  reading  that  it  is  diflicult  to
+^  M,  reads  tvam  Manus,  tva;/z  Yamai'  ko.  tvam,  pr/thivi  tvam  athakyxitzh,  which  is  so  clearly  the  right  reading  that  it  is  diflicult  to
 understand  how  the  mistakes  arose  which  are  presupposed  by  the
 commentary.     See  Taitt.  Up.  II,  2.
 
@@ -15999,9 +15227,6 @@ commentary.     See  Taitt.  Up.  II,  2.
 
 ^  M.  reads  tamo  va  idam  ekam  asta  tat  paro  syat  tat  pareweritam.
 It  may  have  been  tat  pare  'sthat.
-
-
-304  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
 
 
 (ra^as)i.    x^en  this  obscurity,  being  moved,  becomes
@@ -16016,10 +15241,8 @@ been  declared  before  I     Now  that  part  of  him  which
 belongs  to  darkness,  that,  O  students  *,  is  he  who  is
 called  Rudra.     That  part  of  him  which  belongs  to
 obscurity,    that,   O    students,   is    he   who    is   called
-Brahma,     That  part  of  him  which  belongs  to  good-
-ness, that,  O  students,  is  he  who  is  called  Vish;m.
-He  being  one,  becomes  three,  becomes  eight  ^  be-
-comes  eleven  ^  becomes   twelve,  becomes    infinite.
+Brahma,     That  part  of  him  which  belongs  to  goodness, that,  O  students,  is  he  who  is  called  Vish;m.
+He  being  one,  becomes  three,  becomes  eight  ^  becomes  eleven  ^  becomes   twelve,  becomes    infinite.
 Because^  he  thus  came  to  be,  he  is  the  Being  (neut),
 he  moves  about,  having  entered  all  beings,  he  has
 become   the   Lord   of  aU  beings.      He  is  the  Self
@@ -16030,11 +15253,9 @@ more  in  accordance  with  what  follows.
 
 ^  M.  reads  sattvam  everitarasas  %z.m  prasnvat.
 
-5  A  reference  to  Maitr.  Up.  II,  5,  would  have  saved  the  com-
-mentator much  trouble.  M.  has  a  better  text.  It  leaves  out  vijveti
+5  A  reference  to  Maitr.  Up.  II,  5,  would  have  saved  the  commentator much  trouble.  M.  has  a  better  text.  It  leaves  out  vijveti
 or  vijvakhyas  after  pra^apati,  which  may  be  wrong,  but  then  goes
-on  :  tasya  prokla  agryas  tanavo  brahma  rudro  vishwur  iti.  In  enu-
-merating the  three  agryas  tanava>^,  however,  M.  is  less  consistent,
+on  :  tasya  prokla  agryas  tanavo  brahma  rudro  vishwur  iti.  In  enumerating the  three  agryas  tanava>^,  however,  M.  is  less  consistent,
 for  it  begins  with  ra^as  or  Brahma,  then  goes  on  to  tamas  or
 Rudra,  and  ends  with  sattva  or  Vish/m.  The  Anubhutiprakaja,
 verse  142,  has  the  right  succession.
@@ -16067,8 +15288,7 @@ thus  it  is  said  :
 overseer   of  the    senses^,    the   pure-minded,    firmly
 
 ^  The  commentator  describes  the  sixth  and  seventh  chapters  as
-Khila,  supplementary,  and  does  not  think  that  they  are  closely  con-
-nected with  the  chief  object  of  the  Upanishad.  This  chief  object  was
+Khila,  supplementary,  and  does  not  think  that  they  are  closely  connected with  the  chief  object  of  the  Upanishad.  This  chief  object  was
 to  show  that  there  is  only  one  thinking  Self  (/Jidatma)  to  be  known,
 and  that  the  same  is  to  be  meditated  on  as  manifested  in  the  different
 forms  of  Rudra,  Brahma,  Vish?m,  &c.  Thus  the  highest  object  of
@@ -16083,8 +15303,7 @@ translation  deviates  considerably  from  the  commentary.  The  text
 is  obscure  and  not  always  correct.  My  rule  has  been  throughout
 to  begin  a  new  sentence  with  eva;;z  hy  aha, '  for  thus  it  is  said,'
 which  introduces  proofs  of  what  has  been  said  before.  The  passages
-thus  quoted  as  proofs  from  the  Veda  are  often  difficult  to  under-
-stand, nor  do  they  always  consist  of  a  complete  sentence.  My
+thus  quoted  as  proofs  from  the  Veda  are  often  difficult  to  understand, nor  do  they  always  consist  of  a  complete  sentence.  My
 translation  therefore  is  often  purely  tentative.
 
 ^  M.  reads  dvitiya  for  dvidha.
@@ -16154,8 +15373,7 @@ says, '  the  true  reading  would  seem  to  be  yat  satyaw  tad  brahma,
 VI    PRAPArZTAKA,    4.  307
 
 He  divided  himself  threefold,  for  Om  consists  of
-three  letters, a  +  u  +  m.  Through  them  all  this  ^  is  con-
-tained in  him  as  warp  and  woof.     For  thus  it  is  said  :
+three  letters, a  +  u  +  m.  Through  them  all  this  ^  is  contained in  him  as  warp  and  woof.     For  thus  it  is  said  :
 
 *  Meditate  on  that  Sun  as  Om,  join  your  Self  (the
 breath)  with  the  (Self  of  the)  Sun.'
@@ -16177,8 +15395,7 @@ is  also  said :
 the  branches  are  ether,  wind,  fire,  water,  earth,  &c.
 This  one  A^vattha^  by  name,  the  world,  is  Brahman,
 and  of  it  that  is  the  light  which  is  called  the  Sun,
-and  it  is  also  the  light  of  that  syllable  Om.  There-
-fore let  him  for  ever  worship  that  (breath  and  sun,
+and  it  is  also  the  light  of  that  syllable  Om.  Therefore let  him  for  ever  worship  that  (breath  and  sun,
 as  manifestations  of  Brahman)  with  the  syllable  Om.'
 
 He  alone  enlightens  us.     For  thus  it  is  said :
@@ -16220,16 +15437,13 @@ masculine,  neuter.     This  is  his  light-endowed  body,
 A
 
 viz.  Agni,  Vayu,  Aditya.  This  is  his  lord-endowed
-body,  viz.  Brahma,  Rudra,  Vish;m.  This  is  his  mouth-
-endowed  body,  viz.  Garhapatya,  Dakshi/^agni,  Ahava-
+body,  viz.  Brahma,  Rudra,  Vish;m.  This  is  his  mouthendowed  body,  viz.  Garhapatya,  Dakshi/^agni,  Ahava-
 niya^  This  is  his  knowledge-endowed  body,  viz.  Ri/',
 Ya^us,  Saman.  This  is  his  world-endowed  body,  viz.
 Bhu/^,  Bhuva/^,  Svar.  This  is  his  time-endowed  body,
 viz.  Past,  Present,  Future.  This  is  his  heat-endowed
-body,  viz.  Breath,  Fire,  Sun.  This  is  his  growth-
-endowed  body,  viz.  Food,  Water,  Moon.  This  is
-his  thought-endowed  body,  viz.  intellect,  mind,  per-
-sonality. This  is  his  breath-endowed  body,  viz.  Pra7/a,
+body,  viz.  Breath,  Fire,  Sun.  This  is  his  growthendowed  body,  viz.  Food,  Water,  Moon.  This  is
+his  thought-endowed  body,  viz.  intellect,  mind,  personality. This  is  his  breath-endowed  body,  viz.  Pra7/a,
 Apana,  Vyana.  Therefore  by  the  aforesaid  syllable
 Om  are  all  these  here  enumerated  bodies  praised  and
 identified  (with  the  Pra;^adityatman).  For  thus  it
@@ -16263,8 +15477,7 @@ the  feet,  the  sun  the  eye.  For  in  the  eye  is  fixed
 man's  great  measure,  because  with  the  eye  he  makes
 all  measurements.  The  eye  is  truth  (satyam),  for
 the  person  (purusha)  dwelling  in  the  eye  proceeds  to
-all  things  (knows  all  objects  with  certainty).  There-
-fore let  a  man  worship  with  the  Vyahmis,  Bhu/^,
+all  things  (knows  all  objects  with  certainty).  Therefore let  a  man  worship  with  the  Vyahmis,  Bhu/^,
 Bhuva/^,  Svar,  for  thus  Pra^apati,  the  Self  of  All,  is
 worshipped  as  the  (sun,  the)  Eye  of  AlP.  For
 thus  it  is  said  :
@@ -16288,15 +15501,13 @@ thus  say  the  Brahma-teachers.
 
 ^  Pra^apati,  according  to  the  commentator,  is  ident"fied  with
 Satya,  the  true, because  sat  means  the  three  worlds,  and  these  (hhu/i,
-bhuva/^,  svar)  are  said  to  be  his  body.  Hence  probably  the  inser-
-tion of  Satyam  before  Pra^apati  at  the  beginning  of  the  paragraph.
+bhuva/^,  svar)  are  said  to  be  his  body.  Hence  probably  the  insertion of  Satyam  before  Pra^apati  at  the  beginning  of  the  paragraph.
 Then  he  argues,  as  the  eye  has  been  called  satya,  and  as  the  eye
 is  Aditya,  therefore  Pra^apati  also,  being  Satya,  is  Aditya,  the  sun.
 And  again,  if  the  sun  is  worshipped  (by  the  vyahrztis)  then,  like  the
 sun,  the  eye  of  all,  Pra^apati  also,  the  self  of  all,  is  worshipped.
 
-^  Eshopasita  is  impossible.  We  must  either  read,  with  the  com-
-mentator, etam  upasita,  or  with  M.  eshopasiteti.
+^  Eshopasita  is  impossible.  We  must  either  read,  with  the  commentator, etam  upasita,  or  with  M.  eshopasiteti.
 
 *  He  now  proceeds  to  explain  the  worship  of  the  Savitri  verse,
 which  had  been  mentioned  in  VI,  2,  after  the  Om  and  the  Vyahr/tis,
@@ -16309,8 +15520,7 @@ philosophical  sense.     See  also  B/Vh.  Up.  VI,  3,  6.
 MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
 
 
-(Then  follows  the  last  foot) :  Dhiyo  yo  na/^  pra/§o-
-dayat,  i.e.  'who  should  stir  up  our  thoughts.'  Here
+(Then  follows  the  last  foot) :  Dhiyo  yo  na/^  pra/§odayat,  i.e.  'who  should  stir  up  our  thoughts.'  Here
 the  dhiya//  are  thoughts,  and  he  should  stir  these  up
 for  us,  thus  say  the  Brahma-teachers.
 
@@ -16326,8 +15536,7 @@ delights  these  beings,  ga  that  these  creatures  go  to
 him  and  come  from  him  ;  therefore  being  a  bha-ra-ga,
 he  is  called  Bhargas,
 
-S6rya^  (sun)  is  so  called,  because  Soma  is  con-
-tinually squeezed  out  (su).  Savitr/  (sun)  is  so  called,
+S6rya^  (sun)  is  so  called,  because  Soma  is  continually squeezed  out  (su).  Savitr/  (sun)  is  so  called,
 because  he  brings  forth  (su).  Aditya  (sun)  is  so
 called,  because  he  takes  up  (ada,  scil.  vapour,  or
 the  life  of  man).  Pavana^  is  so  called,  because  he
@@ -16354,8 +15563,7 @@ has  entered  into  the  body.'     And  it  is  said  :
 
 VI    PRAPAr^AKA,    8.  311
 
-*  When  the  knowledge  is  twofold  (subjective  and  ob-
-jective), then  he  hears,  sees,  smells,  tastes,  and  touches
+*  When  the  knowledge  is  twofold  (subjective  and  objective), then  he  hears,  sees,  smells,  tastes,  and  touches
 (something),  for  it  is  the  Self  that  knows  everything.'
 
 But  when  the  knowledge  is  not  twofold  (subjective
@@ -16365,17 +15573,14 @@ what  is  that  ?     It  cannot  be  told^
 
 8.  And  the  same  Self  is  also  called  L'ana  (lord),
 K^ambhu,  Bhava,  Rudra  (tamasa) ;  Prac^apati  (lord
-of  creatures),  Vi^vasr^^  (creator  of  all),  Hira;^ya-
-garbha,  Satyam  (truth),  Vrami  (breath),  Ha;;?sa
-(rac^asa) ;  Sastri  (ruler),  Vish;2u,  Naraya^^a  (sat-
-tvika) ;  Arka,  Savitrz,  Dhatr^  (supporter),  Vidha-
+of  creatures),  Vi^vasr^^  (creator  of  all),  Hira;^yagarbha,  Satyam  (truth),  Vrami  (breath),  Ha;;?sa
+(rac^asa) ;  Sastri  (ruler),  Vish;2u,  Naraya^^a  (sattvika) ;  Arka,  Savitrz,  Dhatr^  (supporter),  Vidha-
 trz^  (creator),  Samraf  (king),  Indra,  Indu  (moon).
 He  is  also  he  who  warms,  the  Sun,  hidden  by  the
 thousand-eyed  golden  egg,  as  one  fire  by  another.
 He  is  to  be  thought  after,  he  is  to  be  sought  after.
 Having  said  farewell  to  all  living  beings,  having
-gone  to  the  forest,  and  having  renounced  all  sen-
-suous objects,  let  man  perceive  the  Self^  from  his
+gone  to  the  forest,  and  having  renounced  all  sensuous objects,  let  man  perceive  the  Self^  from  his
 own  body.
 
 '  (See  him)^  who  assumes  all  forms,  the  golden,
@@ -16409,8 +15614,7 @@ creatures,  the  Sun,  rises  \'
 
 9.  Therefore  he  who  by  knowing  this  has  become
 the  Self  of  both  Breath  and  Sun,  meditates  (while
-meditating  on  them)  on  his  Self,  sacrifices  (while  sacri-
-ficing to  them)  to  his  Self — this  meditation,  the  mind
+meditating  on  them)  on  his  Self,  sacrifices  (while  sacrificing to  them)  to  his  Self — this  meditation,  the  mind
 thus  absorbed  in  these  acts,  is  praised  by  the  wise.
 
 Then  let  him  purify  the  contamination  of  the  mind
@@ -16427,16 +15631,14 @@ saying,  Svaha  to  Vrana,  Svaha  to  Apana,  Svaha
 to  Vyana,  Svaha  to  Samana,  Svaha  to  Udana,  he
 offers  (the  food)  with  five  invocations  (in  the  fire
 of  the  mouth).  What  is  over,  he  eats  in  silence,
-and  then  he  surrounds  (the  food)  once  more  after-
-wards with  water  (rincing  the  mouth  after  his  meal).
+and  then  he  surrounds  (the  food)  once  more  afterwards with  water  (rincing  the  mouth  after  his  meal).
 Having  washed  let  him,  after  sacrificing  to  himself,
 meditate  on  his  Self  with  these  two  verses,  Pra;^o
 'gni/i  and  Vi^-vo  'si,  viz.  '  May  the  Highest  Self  as
 breath,  as  fire  (digestive  heat),  as  consisting  of  the
 
 ^  Here  ends  the  M.  manuscript,  with  the  following  title :  iti
-jriya^uwakhayam  Maitrayawiyabrahmawopanishadi  shashZ/^a/^  pra-
-pa//^aka/^.    Samapta.
+jriya^uwakhayam  Maitrayawiyabrahmawopanishadi  shashZ/^a/^  prapa//^aka/^.    Samapta.
 
 -  In  the  following  paragraphs  the  taking  of  food  is  represented
 as  a  sacrifice  offered  by  the  Self  to  the  Self  (atmaya^anarupam
@@ -16469,11 +15671,9 @@ maker  being  Pradhana  (nature^).  Therefore  what
 is  composed  of  the  three  qualities  (gunas)  is  the  food,
 but  the  person  within  is  the  feeder.  And  for  this  the
 evidence  is  supplied  by  the  senses.  For  animals
-spring  from  seed,  and  as  the  seed  is  the  food,  there-
-fore it  is  clear  that  what  is  food  is  Pradhana  (the
+spring  from  seed,  and  as  the  seed  is  the  food,  therefore it  is  clear  that  what  is  food  is  Pradhana  (the
 seed  or  cause  of  everything).  Therefore,  as  has
-been  said,  the  Purusha  (person)  is  the  eater,  Pra-
-kmi,  the  food  ;  and  abiding  within  it  he  feeds.  All
+been  said,  the  Purusha  (person)  is  the  eater,  Prakmi,  the  food  ;  and  abiding  within  it  he  feeds.  All
 that  begins  with  the  Mahat^  (power  of  intellect)  and
 ends  with  the  Vi^eshas  (elements*),  being  developed
 from  the  distinction  of  nature  with  its  three  qualities,
@@ -16485,14 +15685,10 @@ is  the  sign  (that  there  must  be  a  Purusha,  an  intel-
 says,  asya  bhutatmana/^  karta  pradhana/;  purvokta/^,  so  'pi  bho^ya
 ity  artha^.
 
-^  Technical  terms,  afterwards  adopted  by  the  Sahkhya  philo-
-sophers.
+^  Technical  terms,  afterwards  adopted  by  the  Sahkhya  philosophers.
 
 *  Professor  Cowell  observes  that  the  term  vijesha,  as  here  applied
 to  the  five  gross  elements,  occurs  in  the  Sankhya-karika,  ver.  38.
-
-
-314  MAITRAYAiVA-'BRAHMAiVA-UPANISHAD.
 
 
 ligent  subject).  And  in  this  manner  the  way  with
@@ -16504,13 +15700,11 @@ hold  of  the  taste  of  the  seed  (cause),  so  long  as  there
 is  no  development  (in  the  shape  of  effect).'  And  in
 its  three  stages  also  it  has  the  character  of  food,  as
 childhood,  youth,  and  old  age ;  for,  because  these
-are  developed,  therefore  there  is  in  them  the  cha-
-racter of  food  ^.
+are  developed,  therefore  there  is  in  them  the  character of  food  ^.
 
 And  in  the  following  manner  does  the  perception
 of  Pradhana  (nature)  take  place,  after  it  has  become
-manifest : — Intellect  and  the  rest,  such  as  determina-
-tion, conception,  consciousness,  are  for  the  tasting  (of
+manifest : — Intellect  and  the  rest,  such  as  determination, conception,  consciousness,  are  for  the  tasting  (of
 the  effects  of  Pradhana).  Then  there  are  the  five
 (perceptive  organs)  intended  for  the  (five)  objects  of
 senses,  for  to  taste  them.  And  thus  are  all  acts  of
@@ -16536,8 +15730,7 @@ and  being  independent  of  it),  because  it  is  said, '  The
 
 VI  PRAPAT/fAKA,  I  3.  315
 
-Purusha  (person)  enjoys  nature  with  its  three  quah-
-ties,  by  the  mouth  of  undeveloped  nature.'  He  who
+Purusha  (person)  enjoys  nature  with  its  three  quahties,  by  the  mouth  of  undeveloped  nature.'  He  who
 knows  this,  is  an  ascetic,  a  yogin,  he  is  a  performer
 of  the  Self-sacrifice  (see  before).  And  he  who  does
 not  touch  the  objects  of  the  senses  when  they  intrude
@@ -16577,9 +15770,6 @@ the  body  of  the  blessed  Vish;2u,  called  Visvahhrit
 of  breath,  knowledge  of  mind,  joy  of  knowledge.    He
 
 '  iOand.  Up.  VII,  9,  I.  2  Taitt.  Up.  II,  2.
-
-
-3 1 6  MAITRAYAiVA-BRAHMAiVA'UPANISHAD.
 
 
 who  knows  this  is  possessed  of  food,  breath,  mind,
@@ -16640,17 +15830,14 @@ had  its  beginning  from  the  sun  is  time  and  has
 parts.  Of  that  which  has  parts,  the  year  is  the
 form,  and  from  the  year  are  born  all  creatures ;
 when  produced  by  the  year  they  grow,  and  go  again
-to  rest  in  the  year.  Therefore  the  year  is  Pra^a-
-pati,  is  time,  is  food,  is  the  nest  of  Brahman,  is  Self.
+to  rest  in  the  year.  Therefore  the  year  is  Pra^apati,  is  time,  is  food,  is  the  nest  of  Brahman,  is  Self.
 Thus  it  is  said  :
 
 '  Time  ripens  and  dissolves  all  beings  in  the  great
-Self,  but  he  who  knows  into  what  time  itself  is  dis-
-solved, he  is  the  knower  of  the  Veda.'
+Self,  but  he  who  knows  into  what  time  itself  is  dissolved, he  is  the  knower  of  the  Veda.'
 
 16.  This  manifest  time  is  the  great  ocean  of
-creatures.  He  who  is  called  Ss-vhri  (the  sun,  as  be-
-getter) dwells  in  it,  from  whence  the  moon,  stars,
+creatures.  He  who  is  called  Ss-vhri  (the  sun,  as  begetter) dwells  in  it,  from  whence  the  moon,  stars,
 planets,  the  year,  and  the  rest  are  begotten.  From
 them  again  comes  all  this,  and  thus,  whatever  of
 good  or  evil  is  seen  in  this  world,  comes  from  them.
@@ -16667,8 +15854,7 @@ by  what  we  see,  the  rising  of  the  sun.     All  this  is  very  obscure.
 
 
 *  The  sacrificer,  the  deity  that  enjoys  the  sacrifice,
-the  oblation,  the  hymn,  the  sacrifice,  Vish;^u,  Pra^a-
-pati,  all  this  is  the  Lord,  the  witness,  that  shines  in
+the  oblation,  the  hymn,  the  sacrifice,  Vish;^u,  Pra^apati,  all  this  is  the  Lord,  the  witness,  that  shines  in
 yonder  orb.'
 
 17.  In  the  beginning  Brahman  was  all  this \  He
@@ -16694,10 +15880,8 @@ same.'
 
 He  who  knows  this  becomes  one  with  the  one.
 
-18.  This  is  the  rule  for  achieving  it  (viz.  concen-
-tration of  the  mind  on  the  object  of  meditation):
-restraint  of  the  breath,  restraint  of  the  senses,  medi-
-tation, fixed  attention,  investigation,  absorption,  these
+18.  This  is  the  rule  for  achieving  it  (viz.  concentration of  the  mind  on  the  object  of  meditation):
+restraint  of  the  breath,  restraint  of  the  senses,  meditation, fixed  attention,  investigation,  absorption,  these
 are  called  the  sixfold  Yoga  ^.    When  beholding  by
 
 ^  Brahman  used  as  neuter,  but  immediately  followed  by  eko
@@ -16749,8 +15933,7 @@ stages  being  waking,  slumbering,  and  sleep.
 
 ^  Professor  Cowell  offers  two  renderings  of  this  difficult  passage  :
 'This  which  is  called  prawa,  i.e.  the  individual  soul  as  characterised
-by  the  subtil  body,  will  thus  no  longer  appear  in  its  separate  indi-
-viduality from  the  absence  of  any  conscious  subject;  or,  this  subdl
+by  the  subtil  body,  will  thus  no  longer  appear  in  its  separate  individuality from  the  absence  of  any  conscious  subject;  or,  this  subdl
 body  bearing  the  name  of  intellect  will  thus  become  void  of  all
 objects.'
 
@@ -16777,8 +15960,7 @@ heart  to  the  Brahmarandhra),  serving  as  the  passage
 of  the  Pra;m,  is  divided  within  the  palate.  Through
 that  artery,  when  it  has  been  joined  by  the  breath
 (held  in  subjection),  by  the  sacred  syllable  Om,  and
-by  the  mind  (absorbed  in  the  contemplation  of  Brah-
-man), let  him  proceed  upwards  ^,  and  after  turning
+by  the  mind  (absorbed  in  the  contemplation  of  Brahman), let  him  proceed  upwards  ^,  and  after  turning
 the  tip  of  the  tongue  to  the  palate,  without*  using
 any  of  the  organs  of  sense,  let  greatness  perceive
 greatness^.  From  thence  he  goes  to  selflessness,
@@ -16786,8 +15968,7 @@ and  through  selflessness  he  ceases  to  be  an  enjoyer
 of  pleasure  and  pain,  he  obtains  aloneness  (kevalatva,
 final  deliverance).     And  thus  it  is  said  :
 
-^  The  commentator  remarks  that  this  process  is  called  Lambika-
-yoga,  and  the  state  produced  by  it  Unmani  or  Unmanibhava ;  see
+^  The  commentator  remarks  that  this  process  is  called  Lambikayoga,  and  the  state  produced  by  it  Unmani  or  Unmanibhava ;  see
 amanibhava,  in  VI,  34,  ver.  7.
 
 ^  I  should  have  preferred  to  translate  atmanam  atmana  pa^yati
@@ -16797,8 +15978,7 @@ pai'yati.
 
 '  Cf.  Ka/Zm  Up.  VI,  16 ;  Prama  Up.  Ill,  6  (p.  277).
 
-*  If  we  read  sa?;/yo^ya  we  must  follow  the  commentator  in  trans-
-lating by  '  uniting  the  senses  with  the  pra«a  and  the  manas.'
+*  If  we  read  sa?;/yo^ya  we  must  follow  the  commentator  in  translating by  '  uniting  the  senses  with  the  pra«a  and  the  manas.'
 
 ^  Let  the  Self  perceive  the  Self.
 
@@ -16837,8 +16017,7 @@ and  undistinguishable,  as  various  flavours  of  the
 flowers  are  lost  in  the  taste  of  honey.  And  thus
 it  is  said :
 
-'  Two  Brahmans  are  to  be  known,  the  word-Brah-
-man and  the  highest  Brahman  ;  he  who  is  perfect  in
+'  Two  Brahmans  are  to  be  known,  the  word-Brahman and  the  highest  Brahman  ;  he  who  is  perfect  in
 the  word-Brahman  attains  the  highest  Brahman  \'
 
 ^  Cf.  Mahabharata  XII,  8540;    Sarvadarjana-saiigraha,  p.  147;
@@ -16851,8 +16030,7 @@ Cowell's  Translation,  p.  271.
 
 23.  And  thus   it  has   been  said  elsewhere:  The
 syllable  Om  is  what  is  called  the  word.    And  its  end
-is  the  silent,  the  soundless,  fearless,  sorrowless,  joy-
-ful, satisfied,  firm,  unwavering,  immortal,  immovable,         \
+is  the  silent,  the  soundless,  fearless,  sorrowless,  joyful, satisfied,  firm,  unwavering,  immortal,  immovable,         \
 certain  (Brahman),  called  Vish/m.     Let  him  worship         ;
 these  two,  that  he  may  obtain  what  is  higher  than         |
 everything  (final  deliverance).     For  thus  it  is  said  :
@@ -16864,8 +16042,7 @@ the  crown  of  his  head.'
 
 24.  And  thus   it  has  been  said  elsewhere :  The
 body  is  the  bow,  the  syllable  Om  is  the  arrow,  its         |
-point  is  the  mind.     Having  cut  through  the  dark-
-ness, which  consists  of  ignorance  2,  it  approaches  that
+point  is  the  mind.     Having  cut  through  the  darkness, which  consists  of  ignorance  2,  it  approaches  that
 which  is  not  covered  by  darkness^.     Then  having
 
 cut  through  that  which  was  covered  (the  personal
@@ -16878,8 +16055,7 @@ said:
 
 '  Meditation  is  directed  to  the  highest  Being
 (Brahman)  within,  and  (before)  to  the  objects  (body,
-Om,  mind)  ;  thence  the  indistinct  understanding  be-
-comes distinct.
+Om,  mind)  ;  thence  the  indistinct  understanding  becomes distinct.
 
 And  when  the  works  of  the  mind  are  dissolved,
 
@@ -16908,8 +16084,7 @@ longer  ruled  by  them,  sees,  as  in  a  dream,  with  the
 purest  intellect,  Him  who  is  called  Pra/^ava  (Om),
 the  leader  ^  the  bright,  the  sleepless,  free  from  old
 age,  from  death,  and  sorrow,  he  is  himself  also
-called  Pra/^ava,  and  becomes  a  leader,  bright,  sleep-
-less, free  from  old  age,  from  death,  and  sorrow.
+called  Pra/^ava,  and  becomes  a  leader,  bright,  sleepless, free  from  old  age,  from  death,  and  sorrow.
 And  thus  it  is  said :
 
 '  Because  in  this  manner  he  joins  the  Fmna,
@@ -16940,9 +16115,6 @@ thus  does  this  being  which  is  called  Not-breath
 Y    2
 
 
-3  24  MAITRAYAiVA-BRAHMAiVA-UPANISHAD
-
-
 vital  airs)\  And  that  which  flares  up,  that  is  the
 manifest  form  of  Brahman,  that  is  the  highest  place
 of  Vish^m^  that  is  the  essence  of  Rudra.  And  this,
@@ -16962,8 +16134,7 @@ lighted  up).  Then,  being  manifest,  it  is  placed  in
 the  ether  (of  the  heart).  Then  by  concentration  they
 thus  remove  that  ether  which  is  within  the  heart,  so
 that  its  light  appears,  as  it  were*.  Therefore  the
-worshipper  becomes  identified  with  that  light  with-
-out much  delay.  As  a  ball  of  iron,  if  placed  in  the
+worshipper  becomes  identified  with  that  light  without much  delay.  As  a  ball  of  iron,  if  placed  in  the
 earth,  becomes  earth  without  much  delay,  and  as,
 when  it  has  once  become  a  clod  of  earth,  fire  and
 smiths  have  nothing  more  to  do  with  that  ball  of
@@ -16991,8 +16162,7 @@ VI  VRAVATHAKA,  28.  325
 
 '  The  shrine  which  consists  of  the  ether  in  the
 heart,  the  bhssful,  the  highest  retreat,  that  is  our
-own,  that  is  our  goal,  and  that  is  the  heat  and  bright-
-ness of  the  fire  and  the  sun.'
+own,  that  is  our  goal,  and  that  is  the  heat  and  brightness of  the  fire  and  the  sun.'
 
 28.  And  thus  it  has  been  said  elsewhere :  After
 having  left  behind  the  body,  the  organs  of  sense,  and
@@ -17006,29 +16176,23 @@ taking  the  diadem  of  passion,  the  earrings  of  greed
 and  envy,  and  the  staff  of  sloth,  sleep,  and  sin,  and
 having  seized  the  bow  whose  string  is  anger,  and
 whose  stick  is  lust,  he  destroys  with  the  arrow
-which  consists  of  wishes,  all  beings) — having  there-
-fore killed  that  guardian,  he  crosses  by  means  of  the
+which  consists  of  wishes,  all  beings) — having  therefore killed  that  guardian,  he  crosses  by  means  of  the
 boat  Om  to  the  other  side  of  the  ether  within  the
 heart,  and  when  the  ether  becomes  revealed  (as
 Brahman),  he  enters  slowly,  as  a  miner  seeking
 minerals  in  a  mine,  into  the  Hall  of  Brahman.
 After  that  let  him,  by  means  of  the  doctrine  of  his
 teacher,  break  through  the  shrine  of  Brahman,  which
-consists  of  the  four  nets  (of  food,  breath,  mind,  know-
-ledge, till  he  reaches  the  last  shrine,  that  of  blessed-
+consists  of  the  four  nets  (of  food,  breath,  mind,  knowledge, till  he  reaches  the  last  shrine,  that  of  blessed-
 ness and  identity  with  Brahman).    Thenceforth  pure,
 
 
 similes  are  intended  to  show  how,  as  soon  as  the  impediment  is
-removed,  the  worshipper  obtains  his  true  form,  i.e.  becomes  Brah-
-man. Afterwards  he  explains  X-ittam,  thought,  by  the  individual
+removed,  the  worshipper  obtains  his  true  form,  i.e.  becomes  Brahman. Afterwards  he  explains  X-ittam,  thought,  by  the  individual
 thinker,  and  declares  that  he  vanishes  together  with  the  thought,
 which  forms  the  ajraya,  the  place,  or  the  upadhi,  the  outward  form.
 Or  again,  he  says  that  the  /^itta,  the  mind,  vanishes  with  its  outward
 sign,  viz.  the  thoughts  and  imaginations.
-
-
-326  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
 
 
 clean,  undeveloped,  tranquil,  breathless,  bodiless,
@@ -17044,15 +16208,13 @@ thoroughly  free  (from  the  outer  world),  then  the
 perfect  Yoga  (union),  which  is  endless,  high,  and
 hidden,  is  accomplished.
 
-But  if  a  man,  though  well  enlightened  (by  instruc-
-tion), is  still  pierced  by  (the  gu/zas  of)  passion  and
+But  if  a  man,  though  well  enlightened  (by  instruction), is  still  pierced  by  (the  gu/zas  of)  passion  and
 darkness,  and  attached  to  his  children,  wife,  and
 house,  then  perfect  Yoga  is  never  accomplished^.'
 
 29.  After  he  had  thus  spoken  (to  Br/hadratha),
 ^'akayanya,  absorbed  in  thought,  bowed  before  him,
-and  said  :  '  O  King,  by  means  of  this  Brahma-know-
-ledge have  the  sons  of  Pra^apati  (the  Valakhilyas)
+and  said  :  '  O  King,  by  means  of  this  Brahma-knowledge have  the  sons  of  Pra^apati  (the  Valakhilyas)
 gone  to  the  road  of  Brahman.  Through  the  practice
 of  Yoga  a  man  obtains  contentment,  power  to  endure
 good  and  evil,  and  tranquillity.  Let  no  man  preach
@@ -17081,8 +16243,7 @@ VI  PRAPAr^AKA,  30.  327
 let  him,  being  pure  himself,  and  firm  in  goodness,
 study  the  truth,  speak  the  truth,  think  the  truth,
 and  offer  sacrifice  to  the  truths  Henceforth  he  has
-become  another ;  by  obtaining  the  reward  of  Brah-
-man his  fetters  are  cut  asunder,  he  knows  no  hope,
+become  another ;  by  obtaining  the  reward  of  Brahman his  fetters  are  cut  asunder,  he  knows  no  hope,
 no  fear  from  others  as  little  as  from  himself,  he
 knows  no  desires ;  and  having  attained  imperishable,
 infinite  happiness,  he  stands  blessed  in  the  true
@@ -17102,13 +16263,11 @@ the  will,  and  that  deliverance  takes  place  (for  theGu;/a)
 when  the  fault  of  the  will  has  been  removed.  (But  this
 is  not  our  view),  because  (call  it  gu;2a,  intellect,  buddhi,
 manas,  mind,  ahaiikara,  egotism,  it  is  not  the  mind
-that  acts,  but)  he  sees  by  the  mind  (as  his  instru-
-ment), he  hears  by  the  mind;  and  all  that  we  call
+that  acts,  but)  he  sees  by  the  mind  (as  his  instrument), he  hears  by  the  mind;  and  all  that  we  call
 
 ^  The  truth  or  the  true  are  explained  by,  (i)  the  bcok  which
 teaches  the  Highest  Self;  (2)  by  Brahman,  who  is  to  be  spoken
-about ;  (3)  by  Brahman,  who  is  to  be  meditated  on  ;  (4)  by  Brah-
-man, who  is  to  be  worshipped  in  thought.
+about ;  (3)  by  Brahman,  who  is  to  be  meditated  on  ;  (4)  by  Brahman, who  is  to  be  worshipped  in  thought.
 
 ^  I  have  translated  this  according  to  the  commentary,  but  I  should
 prefer  to  read  satyabhilashi«i.
@@ -17118,8 +16277,6 @@ mentary  in  order  to  make  the  text  intelligible,  at  least  according  to
 Ramatirtha's  views.
 
 
-328  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
-
 desire,  imagination,  doubt,  belief,,  unbelief,  certainty,
 uncertainty,  shame,  thought,  fear,  all  that  is  but
 mind  (manas).  Carried  along  by  the  waves  of  the
@@ -17127,8 +16284,7 @@ qualities,  darkened  in  his  imaginations,  unstable,
 fickle,  crippled,  full  of  desires,  vacillating,  he  enters
 into  belief,  believing  I  am  he,  this  is  mine,  and  he
 binds  his  Self  by  his  Self,  as  a  bird  with  a  net\
-Therefore  a  man,  being  possessed  of  will,  imagina-
-tion, and  belief,  is  a  slave,  but  he  who  is  the  oppo-
+Therefore  a  man,  being  possessed  of  will,  imagination, and  belief,  is  a  slave,  but  he  who  is  the  oppo-
 site is  free.  For  this  reason  let  a  man  stand  free
 from  will,  imagination,  and  belief — this  is  the  sign  of
 liberty,  this  is  the  path  that  leads  to  Brahman,  this
@@ -17172,12 +16328,10 @@ piercing  the  solar  orb  :  by  it,  having  stepped  beyond
 the  world  of  Brahman,  they  go  to  the  highest  path.
 
 The  other  hundred  rays^  rise  upwards  also,  and
-on  them  the  worshipper  reaches  the  mansions  be-
-longing to  the  different  bodies  of  gods.
+on  them  the  worshipper  reaches  the  mansions  belonging to  the  different  bodies  of  gods.
 
 But  the  manifest  rays  of  dim  colour  which  lead
-downwards,  by  them  a  man  travels  on  and  on  help-
-lessly, to  enjoy  the  fruits  of  his  actions  here.'
+downwards,  by  them  a  man  travels  on  and  on  helplessly, to  enjoy  the  fruits  of  his  actions  here.'
 
 Therefore  it  is  said  that  the  holy  Aditya  (sun)  is
 the  cause  of  new  births  (to  those  who  do  not  worship
@@ -17185,8 +16339,7 @@ him),  of  heaven  (to  those  who  worship  him  as  a  god),
 of  liberty  (to  those  who  worship  him  as  Brahman)^.
 
 31.  Some  one  asks:  'Of  what  nature  are  those
-organs  of  sense  that  go  forth  (towards  their  ob-
-jects) ?  Who  sends  them  out  here,  or  who  holds
+organs  of  sense  that  go  forth  (towards  their  objects) ?  Who  sends  them  out  here,  or  who  holds
 them  back  ?'
 
 Another  answers  :  'Their  nature  is  the  Self;  the
@@ -17214,13 +16367,9 @@ as  we  saw,  with  the  eighth  paragraph  of  the  sixth  chapter.
 '  See  before,  II,  4    VI,  j^
 
 
-330  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
-
-
 heat  Is  of  fire,  the  purest  taste  of  water ;  thus  say
 some\  It  is  speech,  hearing,  sight,  mind,  breath  ;
-thus  say  others 2.  It  is  intellect,  retention,  remem-
-bering, knowledge  ;  thus  say  others ^  Now  all  these
+thus  say  others 2.  It  is  intellect,  retention,  remembering, knowledge  ;  thus  say  others ^  Now  all  these
 are  siens  of  the  Self  in  the  same  sense  in  which  here
 on  earth  shoots  are  the  signs  of  seed,  or  smoke,  light,
 and  sparks  of  fire.     And  for  this  they  quote* :
@@ -17232,8 +16381,7 @@ earth.'
 
 32.  From  this  very  Self,  abiding  within  his  Self,
 come  forth  all  Pra;^as  (speech,  &c.),  all  worlds,  all
-Vedas,  all  gods,  and  all  beings  ;  its  Upanishad  (revela-
-tion)^ is  that  it  is  'the  true  of  the  true.'  Now  as  from  a
+Vedas,  all  gods,  and  all  beings  ;  its  Upanishad  (revelation)^ is  that  it  is  'the  true  of  the  true.'  Now  as  from  a
 fire  of  green  wood,  when  kindled,  clouds  of  smoke  come
 forth  by  themselves  (though  belonging  to  the  fire),
 thus  from  that  great  Being  has  been  breathed  forth
@@ -17242,8 +16390,7 @@ Sama-veda,  the  Atharvanglrasas  (Atharva-veda),  the
 Itlhasa  (legendary  stories),  the  Pura/^a  (accounts  of
 the  creation,  &c.),  VIdya  (ceremonial  doctrines),  the
 Upanlshads,  the  ^'lokas  (verses  Interspersed  In  the
-Upanlshads,  &c.),  the  Sutras  (compendious  state-
-ments), the  Anuvyakhyanas  (explanatory  notes),  the
+Upanlshads,  &c.),  the  Sutras  (compendious  statements), the  Anuvyakhyanas  (explanatory  notes),  the
 Vyakhyanas  (elucidations) ^ — all  these  things  are  his.
 
 1  See  Svet.  Up.  VI,  13.  ^  See  Ken.  Up.  2.
@@ -17254,8 +16401,7 @@ Vyakhyanas  (elucidations) ^ — all  these  things  are  his.
 
 *  See  before,  VI,  26.
 
-^  Revelation  is  here  the  rendering  of  Upanishad,  upanigama-
-yitr/tvat  sakshadrahasyam,  and  the  true  (sattya)  is  explained  first  by
+^  Revelation  is  here  the  rendering  of  Upanishad,  upanigamayitr/tvat  sakshadrahasyam,  and  the  true  (sattya)  is  explained  first  by
 the  five  elements,  and  then  by  that  which  is  their  real  essence.
 
 "  SeeAV/and.Up.VI,  i.   The  explanations  given  of  these  literary
@@ -17279,8 +16425,7 @@ are  the  five  vital  breaths,  Pra;m,  Vyana,  Apana,
 Samana,  Udana;  and  by  them  the  fire  has  a  head,
 two  sides,  a  centre,  and  a  tail.  This  sky  (the
 Dakshi;^agni-fire)  here  is  the  second  sacrificial  pile
-for  Pra^apati,  who  knows  the  Purusha.  It  pre-
-sented the  sacrificer  to  Indra,  by  lifting  him  with
+for  Pra^apati,  who  knows  the  Purusha.  It  presented the  sacrificer  to  Indra,  by  lifting  him  with
 the  hands  to  heaven.  That  Indra  is  Aditya,  the
 sun.
 
@@ -17298,8 +16443,7 @@ Upanishad  by  such  passages  as  we  had  just  now,  viz.  its  Upanishad
 is  that  it  is  the  true  of  the  true.  The  ^lokas  are  explained  as
 verses  like  those  in  VI,  19,  a^itta;«  >^ittamadhyastham.  The
 Sutras  are  explained  as  comprehensive  sentences,  such  as  II,  2,
-aya7«  vava  khalv  atma  te.  Anuvyakhyanas  are  taken  as  explana-
-tions following  on  the  Sutra  in  II,  2,  beginning  with  atha  ya
+aya7«  vava  khalv  atma  te.  Anuvyakhyanas  are  taken  as  explanations following  on  the  Sutra  in  II,  2,  beginning  with  atha  ya
 esho/('/(',^vasavish/ambhanena.  The  Vyakhyanas  are  taken  as  fuller
 statements  of  the  meaning  contained  in  the  Sutra,  such  as  the
 dialogue  between  the  Valakhilyas  and  Kratu.
@@ -17309,8 +16453,7 @@ dialogue  between  the  Valakhilyas  and  Kratu.
 
 Purusha.  With  the  hands  it  makes  a  present  of
 the  sacrificer  to  the  Knower  of  the  Self  (Pra^apati) ;
-then  the  Knower  of  the  Self,  lifting  him  up,  pre-
-sented him  to  Brahman.  In  him  he  becomes  full
+then  the  Knower  of  the  Self,  lifting  him  up,  presented him  to  Brahman.  In  him  he  becomes  full
 of  happiness  and  joy.
 
 34.  The  earth  is  the  Garhapatya-fire,  the  sky  the
@@ -17319,8 +16462,7 @@ therefore  they  are  also  the  Pavamana  (pure),  the
 Pavaka  (purifying),  and  the  Sul'i  (bright)  ^  By  this
 (by  the  three  deities,  Pavamana,  Pavaka,  and  Su/^l)
 the  sacrifice  (of  the  three  fires,  the  Garhapatya,
-Dakshi;^a,  and  Ahavaniya)  is  manifested.  And  be-
-cause the  digestive  fire  also  is  a  compound  of  the
+Dakshi;^a,  and  Ahavaniya)  is  manifested.  And  because the  digestive  fire  also  is  a  compound  of  the
 Pavamana,  Pavaka,  and  Suk'i,  therefore  that  fire  is
 to  receive  oblations,  is  to  be  laid  with  bricks,  is  to
 be  praised,  and  to  be  meditated  on.  The  sacrificer,
@@ -17331,8 +16473,7 @@ his  meditation  of  the  deity  :
 in  the  sun — a  diver  bird,  a  swan,  strong  in  splendour  ;
 him  we  worship  in  the  fire.'
 
-Having  recited  the  verse,  he  discovers  Its  mean-
-ing, viz.  the  adorable  splendour  of  Savitrz  (sun)  is  to
+Having  recited  the  verse,  he  discovers  Its  meaning, viz.  the  adorable  splendour  of  Savitrz  (sun)  is  to
 be  meditated  on  by  him  who,  abiding  within  his
 mind,  meditates  thereon.  Here  he  attains  the  place
 of  rest  for  the  mind,  he  holds  it  within  his  own  Self.
@@ -17369,8 +16510,7 @@ thinks,  that  he  is :  this  is  the  old  secret*'.
 
 (4)  By  the  serenity  of  his  thoughts  a  man  blots  out
 all  actions,  whether  good  or  bad.  Dwelling  within
-his  Self  with  serene  thoughts,  he  obtains  imperish-
-able happiness.
+his  Self  with  serene  thoughts,  he  obtains  imperishable happiness.
 
 (5)  If  the  thoughts  of  a  man  were  so  fixed  on
 Brahman  as  they  are  on  the  things  of  this  world,
@@ -17403,8 +16543,6 @@ kamasahkalpam,  as  in  MS.  M.
 ^  INI.  reads  moksha>f>^a  and  i-eshas  tu.   The  commentator  says  that
 
 
-334  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
-
 (9)  That  happiness  which  belongs  to  a  mind  which
 by  deep  meditation  has  been  washed^  clean  from  all
 impurity  and  has  entered  within  the  Self,  cannot  be
@@ -17426,8 +16564,7 @@ the  bricks,  as  described  above),  who  are  ignorant  (of
 the  mind  being  the  cause  of  the  round  of  births),  who
 do  not  meditate  (on  the  Self  in  the  solar  orb)  are
 debarred  from  remembering  the  ethereal  place  of
-Brahman.  Therefore  that  fire  is  to  receive  obla-
-tions, is  to  be  laid  with  bricks,  is  to  be  praised,  to
+Brahman.  Therefore  that  fire  is  to  receive  oblations, is  to  be  laid  with  bricks,  is  to  be  praised,  to
 be  meditated  on.
 
 35 ^  Adoration  to  Agni,  the  dweller  on  earth,  who
@@ -17461,8 +16598,7 @@ remembers  his  world.  Grant  that  world  to  this  thy
 worshipper !
 
 Adoration  to  Brahman,  who  dwells  everywhere,
-who  remembers  all.  Grant  all  to  this  thy  wor-
-shipper !
+who  remembers  all.  Grant  all  to  this  thy  worshipper !
 
 The  mouth  of  the  true  (Brahman)  is  covered  with
 a  golden  lid  ;  open  that,  O  Pushan  (sun),  that  we  may
@@ -17507,8 +16643,7 @@ ha;«saOT  trisutram  ma«im  avyayam,  dvivartamana/w  tai^asaiddhara
 'Xd  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
 
 
-with  three  threads,  the  infinitely  small,  the  imperish-
-able, blind  for  good  and  evil,  kindled  with  light — he
+with  three  threads,  the  infinitely  small,  the  imperishable, blind  for  good  and  evil,  kindled  with  light — he
 who  sees  him,  sees  everything.'
 
 A  portion  (only)  of  the  light  which  pervades  the
@@ -17516,16 +16651,14 @@ ether,  are  the  two  rays  rising  in  the  midst  of  the
 sun.  That  is  the  knower^  (the  Sun),  the  true  one.
 That  is  the  Ya^us,  that  is  the  heat,  that  is  Agni
 (fire),  that  is  Vayu  (wind),  that  is  breath,  that  is
-water,  that  is  the  moon,  that  is  bright,  that  is  im-
-mortal, that  is  the  place  of  Brahman,  that  is  the  ocean
+water,  that  is  the  moon,  that  is  bright,  that  is  immortal, that  is  the  place  of  Brahman,  that  is  the  ocean
 of  lieht.  In  that  ocean  the  sacrificers  are  dissolved^
 like  salt,  and  that  is  oneness  with  Brahman,  for  all
 desires  are  there  fulfilled.     And  here  they  quote  :
 
 '  Like  a  lamp,  moved  by  a  gentle  wind,  he  who
 dwells  within  the  gods  shines  forth.  He  who  knows
-this,  he  is  the  knower,  he  knows  the  difference  (be-
-tween the  high  and  the  highest  Brahman) ;  having
+this,  he  is  the  knower,  he  knows  the  difference  (between the  high  and  the  highest  Brahman) ;  having
 obtained  -unity,  he  becomes  identified  with  it.
 
 They  who  rise  up  in  endless  number,  like  spray
@@ -17534,8 +16667,7 @@ within  the  clouds  in  the  highest  heaven,  they,  when
 they  have  entered  into  the  light  of  glory  (Brahman),
 appear  like  so  many  flame-crests  in  the  track  of  fire.'
 
-36.  There  are  two  manifestations  of  the  Brahma-
-light  :  one  is  tranquil,  the  other  lively.  Of  that  which
+36.  There  are  two  manifestations  of  the  Brahmalight  :  one  is  tranquil,  the  other  lively.  Of  that  which
 is  tranquil,  the  ether  is  the  support ;  of  that  which  is
 lively,  food.  Therefore  (to  the  former)  sacrifice  must
 be  offered  on  the  house-altar  with  hymns,  herbs,
@@ -17555,8 +16687,7 @@ is  the  Ahavaniya-fire ;  and  this  is  done  to  increase
 our  bodily  vigour,  to  gain  the  world  of  purity,  and
 for  the  sake  of  immortality.    And  here  they  quote  :
 
-*  Let  him  who  longs  for  heaven,  offer  an  Agni-
-hotra.  By  an  Agnish/oma  he  wins  the  kingdom
+*  Let  him  who  longs  for  heaven,  offer  an  Agnihotra.  By  an  Agnish/oma  he  wins  the  kingdom
 of  Yama  ;  by  Uktha,  the  kingdom  of  Soma ;  by
 a  Sho^asin-sacrifice,  the  kingdom  of  Surya  ;  by  an
 Atiratra-sacrifice,  the  kingdom  of  Indra ;  by  the
@@ -17569,10 +16700,8 @@ the  wick  is  filled  with  oil,  these  two,  the  Self  and  the
 bright  Sun,  remain  so  long  as  the  egg  (of  the  world)
 and  he  who  dwells  within  it  hold  together.'
 
-2,7.  Therefore  let  a  man  perform  all  these  cere-
-monies with  the  syllable  Om  (at  the  beginning).  Its
-splendour  is  endless,  and  it  is  declared  to  be  three-
-fold, in  the  fire  (of  the  altar),  in  the  sun  (the  deity),
+2,7.  Therefore  let  a  man  perform  all  these  ceremonies with  the  syllable  Om  (at  the  beginning).  Its
+splendour  is  endless,  and  it  is  declared  to  be  threefold, in  the  fire  (of  the  altar),  in  the  sun  (the  deity),
 in  the  breath  (the  sacrificer).  Now  this  is  the  channel
 to  increase  the  food,  which  makes  what  is  offered  in
 the  fire  ascend  to  the  sun.  The  sap  which  flows
@@ -17595,8 +16724,6 @@ from  rain  food,  from  food  living  beings  ^'
 [t5]  Z
 
 
-338  MAITRAYAiVA-BRAHMAiVA-UPANISHAD,
-
 38.  He  who  offers  the  Agnihotra  breaks  through  the
 net  of  desire.  Then,  cutting  through  bewilderment,
 never  approving  of  anger,  meditating  on  one  desire
@@ -17605,10 +16732,8 @@ Brahman  with  its  four  nets,  and  proceeds  thence  to
 the  ether.  For  having  there  broken  through  the
 (four)  spheres  of  the  Sun,  the  Moon,  the  Fire,  and
 Goodness,  he  then,  being  purified  himself,  beholds
-dwelling  in  goodness,  immovable,  immortal,  inde-
-structible, firm,  bearing  the  name  of  Vish/^u,  the
-highest  abode,  endowed  with  love  of  truth  and  om-
-niscience, the  self-dependent  Intelligence  (Brahman),
+dwelling  in  goodness,  immovable,  immortal,  indestructible, firm,  bearing  the  name  of  Vish/^u,  the
+highest  abode,  endowed  with  love  of  truth  and  omniscience, the  self-dependent  Intelligence  (Brahman),
 standing  in  its  own  greatness.    And  here  they  quote  :
 
 '  In  the  midst  of  the  sun  stands  the  moon,  in
@@ -17641,8 +16766,7 @@ VII    PRAPArfl-AKA,   4.  339
 
 
 (the  sun),  they  enter  again  into  him  (the  sun),  they
-look  out  from  him  (the  sun).  He  (the  sun)  is  incon-
-ceivable, without  form,  deep,  covered,  blameless,
+look  out  from  him  (the  sun).  He  (the  sun)  is  inconceivable, without  form,  deep,  covered,  blameless,
 solid,  unfathomable,  without  qualities,  pure,  brilliant,
 enjoying  the  play  of  the  three  qualities,  awful,  not
 caused,  a  master-magician'^,  the  omniscient,  the
@@ -17653,13 +16777,11 @@ things,  the  ruler  of  all  things,  the  centre  of  the  centre
 of  all  things.
 
 2.  Indra,  the  Trish/ubh  (metre),  the  Pa;'^/^ada5a
-(hymn),  the  Brihat  (song),  the  summer,  the  through-
-going  breath  (Vyana),  Soma,  the  Rudras — these  rise
+(hymn),  the  Brihat  (song),  the  summer,  the  throughgoing  breath  (Vyana),  Soma,  the  Rudras — these  rise
 in  the  South  ;  they  warm,  they  rain,  they  praise,  they
 enter  again  into  him,  they  look  out  from  him.  He
 (the  sun)  is  without  end  or  beginning,  unmeasured,
-unlimited,  not  to  be  moved  by  another,  self-depend-
-ent, without  sign,  without  form,  of  endless  power,
+unlimited,  not  to  be  moved  by  another,  self-dependent, without  sign,  without  form,  of  endless  power,
 the  creator,  the  maker  of  light.
 
 3.  The  Maruts,  the  6^agati  (metre),  the  Saptadai"a
@@ -17667,8 +16789,7 @@ the  creator,  the  maker  of  light.
 downward  breath  (apana),  ^'ukra,  the  Adityas — these
 rise  in  the  West ;  they  warm,  they  rain,  they  praise,
 they  enter  again  into  him,  they  look  out  from  him.
-That  is  the  tranquil,  the  soundless,  fearless,  sorrow-
-less,  joyful,  satisfied,  firm,  immovable,  immortal,
+That  is  the  tranquil,  the  soundless,  fearless,  sorrowless,  joyful,  satisfied,  firm,  immovable,  immortal,
 eternal,  true,  the  highest  abode,  bearing  the  name
 of  Vish;m.
 
@@ -17680,8 +16801,6 @@ these  rise  in  the  North  ;  they  warm,  they  rain,  they
 ^  See  VII,  II,  abhidhyatur  vistr/tir  iva.
 Z  2
 
-
-340  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
 
 praise,  they  enter  again  into  him,  they  look  out  from
 him.  He  is  pure  within,  purifying,  undeveloped,
@@ -17697,8 +16816,7 @@ Pra;^ava  (Om),  the  leader,  consisting  of  light,  without
 sleep,  old  age,  death,  and  sorrow.
 
 6.  6ani  (Saturn),  Rahu  and  Ketu  (the  ascending
-and  descending  nodes),  the  serpents,  Rakshas,  Yak-
-shas,  men,  birds,  ^arabhas,  elephants,  &c. — these  rise
+and  descending  nodes),  the  serpents,  Rakshas,  Yakshas,  men,  birds,  ^arabhas,  elephants,  &c. — these  rise
 below  ;  they  warm,  they  rain,  they  praise,  they  enter
 again  into  him,  they  look  out  from  him — he  who  is
 wise,  who  keeps  things  in  their  right  place,  the  centre
@@ -17734,15 +16852,13 @@ abides  in  the  sun,  they  are  one  and  the  same.  To
 thee  who  art  this,  endowed  with  all  forms,  settled  in
 the  true  ether,  be  adoration !
 
-8.  Now  follow  the  impediments  in  the  way  of  know-
-ledge, O  King^ !  This  is  indeed  the  origin  of  the  net
+8.  Now  follow  the  impediments  in  the  way  of  knowledge, O  King^ !  This  is  indeed  the  origin  of  the  net
 of  bewilderment,  that  one  who  is  worthy  of  heaven
 lives  with  those  who  are  not  worthy  of  heaven.  That
 is  it.  Though  they  have  been  told  that  there  is  a
 grove  before  them,  they  cling  to  a  small  shrub.  And
 others  also  who  are  always  merry,  always  abroad,
-always  begging,  always  making  a  living  by  handi-
-work ;  and  others  who  are  begging  in  towns,  per-
+always  begging,  always  making  a  living  by  handiwork ;  and  others  who  are  begging  in  towns,  per-
 forming sacrifices  for  those  who  are  not  allowed  to
 offer  sacrifices,  who  make  themselves  the  pupils  of
 6*udras,  and  .Sudras  who  know  the  sacred  books  ;
@@ -17804,8 +16920,7 @@ perfect  knowledge^.
 (3)  Those  who  are  wrapped  up^  in  the  midst  of
 
 ^  If  we  translate  thus,  the  use  of  vidya  for  vn'thS  vidya  is
-unusual ;  if  we  follow  the  commentary,  we  should  have  to  trans-
-late, he  does  not  know  the  Veda  and  the  other  knowledge.
+unusual ;  if  we  follow  the  commentary,  we  should  have  to  translate, he  does  not  know  the  Veda  and  the  other  knowledge.
 
 "^  All  this  may  refer  to  Buddhists,  but  not  by  necessity,  for  there
 were  heretics,  such  as  Br/haspati,  long  before  -Sakyamuni.
@@ -17818,8 +16933,7 @@ were  heretics,  such  as  Br/haspati,  long  before  -Sakyamuni.
 VII   PRAPAr^AKA,    II.  343
 
 imperfect  knowledge,  fancying  themselves  alone  wise
-and  learned,  they  wander  about  floundering  and  de-
-ceived, like  the  blind  led  by  the  blinds
+and  learned,  they  wander  about  floundering  and  deceived, like  the  blind  led  by  the  blinds
 
 10.  The  gods  and  the  demons,  wishing  to  know
 the  Self,  went  into  the  presence  of  Brahman  (their
@@ -17830,8 +16944,7 @@ long  while,  he  thought,  these  demons  are  not  yet
 self-subdued^;  therefore  a  very  different  Self  was
 told  to  them  (from  what  was  told  to  the  gods).  On
 that  Self  these  deluded  demons  take  their  stand,
-clinging  to  it,  destroying  the  true  means  of  salva-
-tion (the  Veda),  preaching  untruth.  What  is  untrue
+clinging  to  it,  destroying  the  true  means  of  salvation (the  Veda),  preaching  untruth.  What  is  untrue
 they  see  as  true,  as  in  jugglery.  Therefore,  what  is
 taught  in  the  Vedas,  that  is  true.  What  is  said  in
 the  Vedas,  on  that  the  wise  keep  their  stand.
@@ -17852,8 +16965,7 @@ knowledge  of  Brahman.     That  (light,  in  the  shape  of
 2  Cf.  Kh^nd.  Up.  VIII,  8.
 
 ^  I  prefer  ayatatmana/^,  though  it  is  the  easier  (sugama)  reading,
-as  compared  with  anyatatmana,^,  those  who  seek  for  the  Self  else-
-where, namely,  in  the  body.  It  seems  to  me  to  refer  to  those  who,
+as  compared  with  anyatatmana,^,  those  who  seek  for  the  Self  elsewhere, namely,  in  the  body.  It  seems  to  me  to  refer  to  those  who,
 without  having  subdued  the  passions  of  their  body,  wish  to  obtain
 the  knowledge  of  the  Highest  Self.  Possibly,  however,  the  author
 may  have  intended  a  climax  from  anyatatmana/2  to  anyatamam.
@@ -17922,8 +17034,7 @@ minim  it  becomes  in  the  throat  a  double  minim  ;
 on  the  tip  of  the  tongue  know  that  it  is  a  treble
 minim,  and,  when  uttered,  they  call  it  the  alphabet
 
-(6)  He  who  sees  this,  does  not  see  death,  nor  dis-
-ease, nor  misery,  for  seeing  he  sees  all  (objectively,
+(6)  He  who  sees  this,  does  not  see  death,  nor  disease, nor  misery,  for  seeing  he  sees  all  (objectively,
 not  as  affecting  him  subjectively);  he  becomes  all
 everywhere  (he  becomes  Brahman).
 
@@ -17948,16 +17059,13 @@ Na  Tpa.syo  mn'tyum  pajyati  na  rogam  nota  du>^khatam,
 Sarva;;2  ha  pa^ya/z  pa^yati  sarvam  apnoti  sarvaja//.
 "^  The  conditions  here  described  are  sometimes  called  the  Vi^va
 (Vaijvanara),  Tai^asa,  Pra^ila,  and  Turiya.  In  the  first  state  the
-Self  is  awake,  and  enjoys  the  world ;  in  the  second  he  sees  every-
-thing as  in  a  dream ;  in  the  third  the  two  former  states  cease,  and
+Self  is  awake,  and  enjoys  the  world ;  in  the  second  he  sees  everything as  in  a  dream ;  in  the  third  the  two  former  states  cease,  and
 he  is  absorbed  in  sleep ;  in  the  fourth  he  becomes  again  the  pure
 Self.  In  the  first  state  the  Self  has  the  disguise  of  a  coarse  material
 body ;  in  the  second  of  a  subtle  material  body ;  in  the  third  its
 disguise  is  potential  only;  in  the  fourth  it  has  no  disguise,  either
 potential  or  realised.
 
-
-346  MAITRAYAiVA-BRAHMAiVA-UPANISHAD.
 
 It  is  that  both  the  true  (in  the  fourth  condition)
 and  the  untrue  (in  the  three  conditions)  may  have
@@ -17969,9 +17077,6 @@ Soul  appears  possessed  of  duality.'    Cowell.
 
 
 TRANSLITERATION  OF    ORIENTAL    ALPHABETS.
-
-
-347
 
 
 •a
@@ -18055,7 +17160,6 @@ O
 
 !/]
 
-2
 O
 
 u
@@ -18064,7 +17168,6 @@ u
 o
 
 1—1
-03
 !h
 
 PI
@@ -18082,10 +17185,7 @@ p!
 
 CO
 
-03
 
-
-3
 C
 
 
@@ -18104,15 +17204,12 @@ U
 
 CI,
 
-03
-
 
 03     ^      S     ^      03     ^
 
 
 w
 
-3
 
 -4^
 
@@ -18143,7 +17240,6 @@ o
 
 il
 
-07
 
 <D
 
@@ -18182,16 +17278,11 @@ CO  1^
 l-H       (M       CO       TJH       O
 
 
-03
-
-
 t^     CO     C5     O     •-I     (M
 
 
 O)
 
-
-3
 
 CO    -"ti    >n    o    t^
 
@@ -18286,11 +17377,9 @@ D
 
 •0
 
-1
 
 •
 
-0
 
 D-^
 
@@ -18312,11 +17401,9 @@ D
 
 ■0
 
-0
 
 •
 
-0
 
 D-D
 
@@ -18493,7 +17580,6 @@ C     — '
 
 •     ^
 
-3
 
 c«       ai
 
@@ -18503,12 +17589,10 @@ c«       ai
 
 r— <
 
-1
 
 •
 
 i-H
-02
 
 CO             •
 
@@ -18525,7 +17609,6 @@ to         S         O!
 
 0)
 
-0
 
 n
 
@@ -18563,7 +17646,6 @@ C3
 
 c<3
 
-0
 
 cu                       CI,
 C«                     CO
@@ -18574,7 +17656,6 @@ C«                     CO
 c
 a
 
-4
 
 ^
 
@@ -18600,13 +17681,11 @@ C
 
 5     ■*
 
-10
 
 t:
 
 3   iv
 
-00
 
 cri    0
 
@@ -18622,13 +17701,11 @@ I— 1               .—1
 
 (M     C^     (M
 
-0
 
 ]     (M
 
 iM
 
-0
 
 J     CM
 
@@ -18648,13 +17725,6 @@ i     CO
 
 FOR    THE   SACRED    BOOKS    OF    THE    EAST.
 
-
-349
-
-
-1
-
-1
 
 ....
 
@@ -18759,7 +17829,6 @@ P              B
 
 '               CO
 
-1
 
 39  „       aspirata
 
@@ -18799,31 +17868,22 @@ Labiales.
 
 58  Anusvara
 
-03
 bi
 
 >
 
 OS
 
-5
 
 i
 i
 
-1
 
 (
 i
 
-1
-1
-
-1
 
 -
-
-350
 
 
 TRANSLITERATION   OF   ORIENTAL    ALPHABETS.
@@ -18894,7 +17954,6 @@ i     a
 
 1     (M
 
-1
 .
 
 .    1
@@ -18904,7 +17963,6 @@ i     a
 
 3    '1
 
-1
 
 !      ■
 
@@ -18951,18 +18009,14 @@ i     a
 15  „               ]
 
 16  Diphthongus  gutt
-17
 
-18
 
 19  Gutturo-labialis  b
 
 20  „             k
 
 21  Diphthongus  gutt
-22
 
-23
 
 24  Gutturalis  fracta  .
 
@@ -19009,8 +18063,7 @@ A  Record  of  Buddhistic  Kingdoms,  by  the  Chinese  Monk
 Fa-hien.  Translated  and  annotated  by  James  Legge,  M.A.,  LL.D.  Crown
 4to.  cloth  back,  10s.  6d.
 
-English. — A  New  English  Dictionary,  on  Historical  Prin-
-ciples: founded  mainly  on  the  materials  collected  by  the  Philological  Society.
+English. — A  New  English  Dictionary,  on  Historical  Principles: founded  mainly  on  the  materials  collected  by  the  Philological  Society.
 Edited  by  James  A.  PI.  Murray,  LL.D.,  with  the  assistance  of  many  Scholars
 and  men  of  Science.  Part  I.  A— ANT.  Part  II.  ANT— BATTEN.
 Part  in.    BATTER— BOZ.     Imperial  410.     I2.f.  eo'.  each.
@@ -19018,20 +18071,15 @@ Part  in.    BATTER— BOZ.     Imperial  410.     I2.f.  eo'.  each.
 B
 
 
-2  CLARENDON  PRESS,  OXFORD.
-
-English. — An  Etymological  Dictionary  of  the  English  Lan-
-guage.   By  W.  W.  Skeat,  Litt.D.     Second  Editjott.     1884.  4to.  2/.  4^.
+English. — An  Etymological  Dictionary  of  the  English  Language.   By  W.  W.  Skeat,  Litt.D.     Second  Editjott.     1884.  4to.  2/.  4^.
 
 Supplement  to  the  First  Edition  of  the  above.  4to.  2s.  6d.
 
-A  Concise  Etymological  Dictioitary  of  the  English  Lan-
-guage.  By  W.  W.  Skeat,  Litt.D.  Second  Edition.  1885.  Crown  8vo.  5^.6^.
+A  Concise  Etymological  Dictioitary  of  the  English  Language.  By  W.  W.  Skeat,  Litt.D.  Second  Edition.  1885.  Crown  8vo.  5^.6^.
 
 Greek. — A     Greek-English     Lexicon,    by     Henry     George
 
-Liddell,  D.D.,  and  Robert  Scott,  D.D.    Seventh  Edition,  Revised  and  Aug-
-mented throughout.     1883.    4to.  i/.  i6j.
+Liddell,  D.D.,  and  Robert  Scott,  D.D.    Seventh  Edition,  Revised  and  Augmented throughout.     1883.    4to.  i/.  i6j.
 
 A   Greek-English  Lexicon,  abridged  from  Liddell  and
 
@@ -19091,9 +18139,6 @@ of  Freund's  Latin  Dictionary,  revised,  enlarged,  and  in  great  part  rew
 by  Charlton  T.  Lewis,  Ph.D.,  and  Charles  Short,  LL.D.   1879.  4to.  \l.  is.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Melanesian. —  The    Melanesian    Langjiages.       By    R.    H.
 
 Codrington,  D.D.,  of  the  Melanesian  Mission.     8vo.  i8j.
@@ -19122,8 +18167,7 @@ M.A.     Second  Edition,  Revised  and  Improved.     1879.  8vo.  15,?.
 
 by  Sir  M.  Monier- Williams,  M.A.     Second  Edition,  1876.   8vo.  21J.
 
-SVRIAC. — Thesaurus  Syriacus :  collegerunt  Quatremere,  Bern-
-stein, Lorsbach,  Arnoldi,  Agrell,  Field,  Roediger:  edidit  R.  Payne  Smith.
+SVRIAC. — Thesaurus  Syriacus :  collegerunt  Quatremere,  Bernstein, Lorsbach,  Arnoldi,  Agrell,  Field,  Roediger:  edidit  R.  Payne  Smith.
 S.T.P.   Ease.  I-VI.    1868-83.  sm.  fol.   each,  iZ.  is.    Ease.  VIL   il.  lis.  6d.
 
 Vol.  I,  containing  Ease.  I-V,  sm.  fol.  5/.  ^s.
@@ -19144,8 +18188,7 @@ Aristotle:    The  Politics,  with  Introductions,  Notes,  etc.,  by
 W.  L.  Newman,  M.A.,  Fellow  of  Balliol  College,  Oxford.     Vols.  I.  and  II.
 Medium  Svo.  28^'.    Just  Published.
 
-Aristotle:  The  Politics,  translated  into  English,  with  Intro-
-duction, Marginal  Analysis,  Notes,  and  Indices,  by  B.  Jowett,  M.A.  Medium
+Aristotle:  The  Politics,  translated  into  English,  with  Introduction, Marginal  Analysis,  Notes,  and  Indices,  by  B.  Jowett,  M.A.  Medium
 Svo.     2  vols.  2 1  J.
 
 Catalogus    Codicuni    Graecorum    Sinaiticorum.      Scripsit   V.
@@ -19154,15 +18197,11 @@ Gardthausen  Lipsiensis.     With  six  pages  of  Facsimiles.     Svo.  linen, 
 
 Heracliti  Ephesii   Reliquiae.     Recensuit    I.    Bywater,   M.A.
 
-Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita  Heracliti,  Particulae  Hip-
-pocratei  De  Diaeta  Libri  Primi,  Epistolae  Heracliteae.   1877.  Svo.  6,f.
+Appendicis  loco  additae  sunt  Diogenis  Laertii  Vita  Heracliti,  Particulae  Hippocratei  De  Diaeta  Libri  Primi,  Epistolae  Heracliteae.   1877.  Svo.  6,f.
 
 Herculanensium  Voluniinum  Partes  II.  1824.  Svo.  loj.
 
 6  2
-
-
-CLARENDON  PRESS,  OXFORD.
 
 
 Fragmenta  Herciilanensia.     A  Descriptive  Catalogue  of  the
@@ -19219,8 +18258,7 @@ Medium  Svo.    \l.  \2s.
 
 THE    HOLY   SCRIPTURES,  &c.
 
-Studia  Biblica.— Essays  in  Biblical  Archaeology  and  Criti-
-cism, and  kindred  subjects.  By  Members  of  the  University  of  Oxford.  Svo.
+Studia  Biblica.— Essays  in  Biblical  Archaeology  and  Criticism, and  kindred  subjects.  By  Members  of  the  University  of  Oxford.  Svo.
 \os.  6d.
 
 
@@ -19228,9 +18266,6 @@ English. —  The  Holy  Bible  in  the  earliest  English  Versions,
 
 made  from  the  Latin  Vulgate  by  John  Wycliffe  and  his  followers :   edited  by
 the  Rev.  J.  Forshall  and  Sir  F.  Madden.  4  vols.  1850.  Royal  4to.  3/.3J.
-
-
-CLARENDON  PRESS,  OXFORD,
 
 
 [Also  reprinted  from  the  above,  -witli  Introduction  and  Glossary
@@ -19261,8 +18296,7 @@ With  an  Introduction  and  Glossary.     Demy  8vo.    i/.  is.
 
 Lectures  on  the  Book  of  Job.     Delivered  in  Westminster
 
-Abbey  by  the  Very  Rev.  George  Granville  Bradley,  D.D.,  Dean  of  West-
-minster.    Crown  8vo.  7^.  6(/.
+Abbey  by  the  Very  Rev.  George  Granville  Bradley,  D.D.,  Dean  of  Westminster.    Crown  8vo.  7^.  6(/.
 
 Lectures  on  Ecclesiastes.     By  the  same  Author.     Crown
 
@@ -19298,9 +18332,6 @@ E.  H.  Hansen,  S.T.B.   Tomi  III.    1864.    8vo.   24J.
 
 Scripturae  loca,  etc.     Edidit  Carolus  Lloyd,  S.T. P. R.    iSmo.  3^.
 On  writing  paper,  with  wide  margin,  \os.
-
-
-CLARENDON  PRESS,  OXFORD.
 
 
 Greek. — Novum  Testamentum  Graece]\xx.\.2.  Exemplar  Millia-
@@ -19354,8 +18385,7 @@ to  Abraham  Ibn  Ezra.      Edited  from  a  MS.  in  the  Bodleian  Library  b
 S.  R.  Driver,  M.A.     Crown  8vo.    paper  covers,  3J.  6^.
 
 —  The  Book  of  Tobit.  A  Chaldee  Text,  from  a  unique
-MS.  in  the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Transla-
-tions, and  the  Itala.    Edited  by  Ad.  Neubauer,  M.A.   1878.   Crown  8vo.  6j.
+MS.  in  the  Bodleian  Library ;  with  other  Rabbinical  Texts,  English  Translations, and  the  Itala.    Edited  by  Ad.  Neubauer,  M.A.   1878.   Crown  8vo.  6j.
 
 Horae  Hebraicae  et  Talmtidicae,  a  J.  Lightfoot.    A  new
 
@@ -19381,9 +18411,6 @@ M.A.     Small  4to.,  stiff  covers,  2\s.
 "
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Latin — Old-Latin    Biblical    Texts:    No.  LIL.      The    Four
 
 Gospels  from  the  Munich  MS.  (q)  of  the  Sixth  Century.  Edited  by  H.  J.
@@ -19398,8 +18425,7 @@ Phil.  Doc.     i860.  8vo.   los.  6d.
 
 FATHERS  OF  THE  CHURCH,  &c.
 
-St.  Athanasius:  Historical  Writings,  according  to  the  Bene-
-dictine Text.  With  an  Introduction  by  William  Bright,  D.D.  1881.  Crown
+St.  Athanasius:  Historical  Writings,  according  to  the  Benedictine Text.  With  an  Introduction  by  William  Bright,  D.D.  1881.  Crown
 8vo.  io.f.  6d.
 
 Orations  against  the  Af'ians,     With  an  Account  of  his
@@ -19412,8 +18438,7 @@ St.Atigiisiine:  Select  Anti-Pelagian  Treatises,  and  the  Acts
 of  the  Second  Council  of  Orange.    With  an  Introduction  by  William  Bright,
 D.D.     Crown  8vo.  9J.
 
-Canons  of  the  First  Fonr  General  Councils  of  Nicaea,  Con-
-stantinople, Ephesus,  and  Chalcedon.  1877.  Crown  8vo.  2s.  6d,
+Canons  of  the  First  Fonr  General  Councils  of  Nicaea,  Constantinople, Ephesus,  and  Chalcedon.  1877.  Crown  8vo.  2s.  6d,
 
 Notes  on  the  Canons  of  the  First  Fonr  General  Conncils.
 
@@ -19447,9 +18472,6 @@ Eusebius'   Ecclesiastical  History,   according  to    the   text   of
 
 Burton,  with  an  Introduction  by  William  Bright,  D.D.     18S1.    Crown  8vo.
 8j,  (>d.
-
-
-CLARENDON  PRESS,  OXFORD.
 
 
 Irenaeus :  The  Third  Book  of  St.Irenaens,  Bishop  of  Lyons,
@@ -19509,8 +18531,7 @@ Hammond  {C.  E^.    Liturgies,  Eastern  and  Western.    Edited,
 wiih  Introduction,  Notes,  and  Liturgical  Glossary.   1878.  Crown  Svo.  los.dd.
 An  Appendix  to  the  above.     1S79.  Crown  Svo.  paper  covers,  \s.  6d.
 
-John,  Bishop  of  Ephesus.     The    Third  Part  of^  his   Eccle-
-siastical History.    [In  Syriac]     Now  first  edited  by  William  Cureton,  M.A.
+John,  Bishop  of  Ephesus.     The    Third  Part  of^  his   Ecclesiastical History.    [In  Syriac]     Now  first  edited  by  William  Cureton,  M.A.
 
 1853.    4tO.    \l.  \2S.
 
@@ -19518,15 +18539,11 @@ siastical History.    [In  Syriac]     Now  first  edited  by  William  Cureton,
 Translated  by  R.  Payne  Smith,  M.A.     i860.  Svo.  \os.
 
 
-CLARENDON  PRESS,  OXFORD.
-
-
 Leofric  Missal,   The,  as  used   in   the    Cathedral  of  Exeter
 
 during  the  Episcopate  of  its  first  Bishop,  A.D.  1050-1072  ;  together  with  some
 Account  of  the  Red  Book  of  Derby,  the  Missal  of  Robert  of  Jumieges,  and  a
-few  other  early  MS.  Service  Books  of  the  English  Church.  Edited,  with  In-
-troduction and  Notes,  by  F.  E.  Warren,  B.D.    4to.  half  morocco,  35J-.
+few  other  early  MS.  Service  Books  of  the  English  Church.  Edited,  with  Introduction and  Notes,  by  F.  E.  Warren,  B.D.    4to.  half  morocco,  35J-.
 
 Monuvienta  Ritiialia  Ecclesiae  Anglicanae.     The   occasional
 
@@ -19555,8 +18572,7 @@ Warren  (F.  E.).    Liturgy  and  Ritual  of  the  Celtic  Church,
 
 ENGLISH    THEOLOGY.
 
-BamptoJi  Lecitircs,  1886,     The  Christian  Platonists  of  Alex-
-andria.    By  Charles  Bigg,  D.D.     Svo.  ioj-.  6(/.
+BamptoJi  Lecitircs,  1886,     The  Christian  Platonists  of  Alexandria.    By  Charles  Bigg,  D.D.     Svo.  ioj-.  6(/.
 
 Butler'' s  Works,  with  an  Index  to  the  Analogy.    2  vols.  1874.
 
@@ -19627,8 +18643,7 @@ HISTORICAL    AND    DOCUMENTARY    WORKS.
 British  Barrows,  a  Record  of  the  Examination  of  Sepulchral
 
 Mounds  in  various  parts  of  England.  By  William  Greenwell,  M.A.,  F.S.A.
-Together  with  Description  of  Figures  of  Skulls,  General  Remarks  on  Pre-
-historic Crania,  and  an  Appendix  by  George  RoUeston,  M.D.,  F.R.S.  1877.
+Together  with  Description  of  Figures  of  Skulls,  General  Remarks  on  Prehistoric Crania,  and  an  Appendix  by  George  RoUeston,  M.D.,  F.R.S.  1877.
 Medium  8vo.  25.^,
 
 Clarendon^ s  History  of    the   Rebellion    and   Civil  Wars    in
@@ -19637,8 +18652,7 @@ England.    7  vols.    1839.  i8mo.  ll.  is.
 
 Clarendon' s   History   of   the  Rebellion    and    Civil    Wars    in
 
-England.  Also  his  Life,  written  by  himself,  in  which  is  included  a  Con-
-tinuation of  his  History  of  the  Grand  Rebellion.  With  copious  Indexes.
+England.  Also  his  Life,  written  by  himself,  in  which  is  included  a  Continuation of  his  History  of  the  Grand  Rebellion.  With  copious  Indexes.
 In  one  volume,  royal  8 vo.  1842.  il.as.
 
 Clintoits  Epitojne  of  the  Fasti  Hellenici.     1 85 1 .     8vo.    6s.  6d.
@@ -19648,16 +18662,12 @@ Epitome  of  the  Fasti  Romani.     1854.     8vo.   yj.
 i
 
 
-.  .  CLARENDON  PRESS,  OXFORD.  1 1
-
 Corpvs  Poeticvm  Boreale.    The  Poetry  of  the  Old  Northern
 
-Tongue,  from  the  Earliest  Times  to  the  Thirteenth  Century.  Edited,  clas-
-sified, and  translated,  with  Introduction,  Excursus,  and  Notes,  by  Gudbrand
+Tongue,  from  the  Earliest  Times  to  the  Thirteenth  Century.  Edited,  classified, and  translated,  with  Introduction,  Excursus,  and  Notes,  by  Gudbrand
 Vigfiisson,  M.A.,  and  F.  York  Powell,  M. A.     2  vols.     1883.  Svo.  42J-.
 
-Freeman  {E.  A.).     History  of  the  Norman  Conquest  of  Eng-
-land;  its  Causes  and  Results.    In  Six  Volumes.  Svo.  5/.  9J.  dd.
+Freeman  {E.  A.).     History  of  the  Norman  Conquest  of  England;  its  Causes  and  Results.    In  Six  Volumes.  Svo.  5/.  9J.  dd.
 
 The  Reign   of   William   Rufus  and   the  Accession   of
 
@@ -19686,8 +18696,7 @@ Century  MS.  in  the  Library  of  Corpus  Christi  College,  Oxford,  with  an
 Introduction  and  Notes,  by  Frederick  Metcalfe,  M.A.  Small  4to.  stiff
 covers,  6^.
 
-Protests  of  the  Lords,  including  those  which  have  been  ex-
-punged, from  1624  to  1874;  with  Historical  Introductions.  Edited  by  James
+Protests  of  the  Lords,  including  those  which  have  been  expunged, from  1624  to  1874;  with  Historical  Introductions.  Edited  by  James
 E.  Thorold  Rogers,  M.A.   1875.   3  vols.  Svo.  2/.  2J.
 
 Rogers  {J.  E.  T.).     History  of  Agriculture  and  Prices   in
@@ -19704,8 +18713,7 @@ TJie  First  Nine  Years  of  the  Bank  of  England.  Svo.  8s.  6d.
 
 Saxon  Chronicles  (Two  of  the)  parallel,  with  Supplementary
 
-Extracts  from  the  Others.  Edited,  with  Introduction,  Notes,  and  a  Glos-
-sarial  Index,  by  J.  Earle,  M.A.     1S65.    Svo.  i6s.
+Extracts  from  the  Others.  Edited,  with  Introduction,  Notes,  and  a  Glossarial  Index,  by  J.  Earle,  M.A.     1S65.    Svo.  i6s.
 
 Stubbs   ( W.,  D.D.).      Seventeen   Lectures   on   the  Study  of
 
@@ -19717,8 +18725,6 @@ Sturlunga  Saga,  including  the  Islendinga  Saga  of  Lawman
 Sturla  Thordsson  and  other  works.  Edited  by  Dr.  Gudbrand  Vigfusson.
 In  2  vols.     1878.  Svo.  2I.  2s.
 
-
-12  CLARENDON  PRESS,  OXFORD.
 
 York  Plays.     The  Plays  performed  by  the  Crafts  or  Mysteries
 
@@ -19767,8 +18773,7 @@ Acland{H.  W.,  M.D..  F.R.S.).     Synopsis  of  the  Pathological
 
 Series  in  the  Oxford Musemtt.     1867.    8vo.   2s.  dd.
 
-Burdon-Sanderson  {J.,  M.D.,  F.R.SS.  L.  and  E.).  Transla-
-tions of  Foreign  Biological  Memoirs.  I.  Memoirs  on  the  Physiology  of  Nerve,
+Burdon-Sanderson  {J.,  M.D.,  F.R.SS.  L.  and  E.).  Translations of  Foreign  Biological  Memoirs.  I.  Memoirs  on  the  Physiology  of  Nerve,
 of  Muscle,  and  of  the  Electrical  Organ.     Medium  8vo.   2  \s.
 
 De  Bary  [Dr.  A.).     Comparative  Anatomy  of  the    Vegetative
@@ -19777,18 +18782,12 @@ Organs  of  the  Phanerogams  and  Ferns.  Translated  and  Annotated  by  F.  O
 Bower,  M.A.,  F.L.S.,  and  D.  H.  Scott,  M.A.,  Ph.D.,  F.L.S.  With  241
 woodcuts  and  an  Index.    Royal  8vo.,  half  morocco,  \l.  2s.  6d.
 
-Goebel  {Dr.  K.).     Outlines  of  Classification  and  Special  Mor-
-phology of  Plants.     A  New  Edition  of  Sachs'  Text-Book  of  Botany,  Book  IIj
+Goebel  {Dr.  K.).     Outlines  of  Classification  and  Special  Morphology of  Plants.     A  New  Edition  of  Sachs'  Text-Book  of  Botany,  Book  IIj
 English  Translation  by  H.  E.  F.  Garnsey,  M.A.     Revised  by  I.  Bayley  Balfour  J
 M.A.,  M.D.,  F.R.S.     With  407  Woodcuts.     Royal  8vo.  half  morocco,  2  u.     '
 
 
 I
-
-1
-
-
-CLARENDON  PRESS,  OXFORD.  13
 
 
 Sachs  {Julius  von).     Lectures  on   the   Physiology  of  Plants,
@@ -19802,8 +18801,7 @@ the  Fungi,  JMycetozoa  and  Bacteria.  Authorised  English  Translation  by
 Henry  E.  F.  Garnsey,  M.A.  Revised  by  Isaac  Bayley  Balfour,  M.A.,  M.D.,
 F.R.S.     With  198  Woodcuts.     Royal  Svo.,  half  morocco,  i/.  2J-.  6^/.
 
-Lectures  on  Bacteria.  Second  improved  edition.  Au-
-thorised translation  by  H.  E.  F.  Garnsey,  M.A.  Revised  by  Isaac  Bayley
+Lectures  on  Bacteria.  Second  improved  edition.  Authorised translation  by  H.  E.  F.  Garnsey,  M.A.  Revised  by  Isaac  Bayley
 Balfour,  M.A.,  M.D.,  F.R.S.     With  20  Woodcuts.     Crown  8vo.  ds.
 
 
@@ -19833,8 +18831,7 @@ Second  Edition,  1865.     Svo.  i8j.
 Vol. III.  Statics,  including  Attractions;   Dynamics  of  a  Material   Particle.
 Second  Edition,  1S68.     Svo.  i6j.
 
-Vol.  IV.  Dynamics  of  Material  Systems;  together  with  a  chapter  on  Theo-
-retical Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S.     1862.     Svo.  i6.f.
+Vol.  IV.  Dynamics  of  Material  Systems;  together  with  a  chapter  on  Theoretical Dynamics,  by  W.  F.  Donkin,  M.A.,  F.R.S.     1862.     Svo.  i6.f.
 
 Pritchard  {C-,  D.D.,  F.R.S.).     Uranometria  Nova  Oxoniensis.
 
@@ -19851,13 +18848,10 @@ Rigaud's  Correspondence  of  Scientific  Meji  of  the  lyth  Century,
 with  Table  of  Contents  by  A.  de  Morgan,  and  Index  by  the  Rev.  J.  Rigaud,
 M.A.     2  vols.     1841-1S62.    Svo.  iSj-.  6^.
 
-Rolleston  {George,  M.D.,  F.R.S.).  Scientific  Papers  and  Ad-
-dresses. Arranged  and  Edited  by  William  Turner,  M.B.,  F.R.S.  With  a
+Rolleston  {George,  M.D.,  F.R.S.).  Scientific  Papers  and  Addresses. Arranged  and  Edited  by  William  Turner,  M.B.,  F.R.S.  With  a
 Biographical  Sketch  by  Edward  Tylor,  F.R.S.  With  Portrait,  Plates,  and
 Woodcuts.     2  vols.  Svo,   i/.  4J-.
 
-
-1 4  CLARENDON  PRESS,  OXFORD.
 
 Westwood  {y.  O.,  M.A.,  F.R.S.).      Thesmirns  Entomologiciis
 
@@ -19875,8 +18869,7 @@ F.  Max  Mijller.
 [Demy  8vo.  cloth.]
 Vol.    I.    The   Upanishads.     Translated  by  F.  Max    Miiller.
 
-Part  I.  TheiOaiidogya-upanishad,  The  Talavakara-npanishad,  The  Aitareya-
-arawyaka,  The  Kaushitaki-brahmawa-upanishad,  and  The  Va^asaneyi-sa»«hita-
+Part  I.  TheiOaiidogya-upanishad,  The  Talavakara-npanishad,  The  Aitareyaarawyaka,  The  Kaushitaki-brahmawa-upanishad,  and  The  Va^asaneyi-sa»«hita-
 upanishad.     \os.  6d.
 
 Vol.  II.  The  Sacred  Laws  of  the  Aryas,  as  taught  in   the
@@ -19884,8 +18877,7 @@ Vol.  II.  The  Sacred  Laws  of  the  Aryas,  as  taught  in   the
 Schools  of  Apastamba,  Gautama,  Vasish//^a,  and  Baudhfiyana.  Translated  by
 Prof.  Georg  Biihler.     Part  I.  Apastamba  and  Gautama.     10s.  6d.
 
-Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Con-
-fucianism. Translated  by  James  Legge.  Part  I.  The  Shu  King,  The  Reli-
+Vol.  III.  The  Sacred  Books  of  China.  The  Texts  of  Confucianism. Translated  by  James  Legge.  Part  I.  The  Shu  King,  The  Reli-
 gious portions  of  the  Shih  King,  and  the  Hsiao  King,     i  2s.  6d.
 
 Vol.  IV.  The  Zend-Avesta.     Translated  by  James  Darme-
@@ -19917,12 +18909,9 @@ Canonical  Books  of  the  Buddhists.     lo^.  6d.
 II
 
 
-CLARENDON  PRESS,  OXFORD.  15
-
 Vol.  XL  Buddhist  Suttas.     Translated  from  Pali  by  T.  W.
 
-Rhys  Davids,  i.  The  Mahaparinibbana  Suttanta  ;  2.  The  Dhamma-,l'akka-
-ppavattana  Siitta ;  3.  The  Tevi^^a  Suttanta ;  4.  The  Akankheyya  .Sutta ;
+Rhys  Davids,  i.  The  Mahaparinibbana  Suttanta  ;  2.  The  Dhamma-,l'akkappavattana  Siitta ;  3.  The  Tevi^^a  Suttanta ;  4.  The  Akankheyya  .Sutta ;
 5.  The Aetokhila  Sutta;  6.  The Maha-sudassana  Suttanta ;  7.  The Sabbasava
 Sutta.     loj.  6^.
 
@@ -19943,8 +18932,7 @@ by  Georg  Biihler.     Part  II.     Vasish^/za  and  Baudhayana.     loj.  6d.
 
 Vol.  XV.     The  Upanishads.     Translated  by  F.  Max  Muller.
 
-Part  II.  The  Ka//;a-upanishad,  The  Mu«r/aka-upanishad,  The  Taittiriyaka-
-upanishad,  The  Br^'hadarawyaka-upanishad,  The  .Svetajvatara-upanishad,  The
+Part  II.  The  Ka//;a-upanishad,  The  Mu«r/aka-upanishad,  The  Taittiriyakaupanishad,  The  Br^'hadarawyaka-upanishad,  The  .Svetajvatara-upanishad,  The
 Praj-«a-upanishad,  and  The  Maitrayawa-Brahmawa-upanishad.     los.  6d.
 
 Vol.  XVI.    The    Sacred   Books    of  China.     The   Texts   of
@@ -19976,11 +18964,8 @@ Vol.  XXI.     The  Saddharma-pu;^^arika ;   or,  the  Lotus  of  the
 
 True  Law.    Translated  by  H.  Kern.     12s.  dd.
 
-Vol.  XXII.    G^aina-Sutras,     Translated  from  Prakrit  by  Her-
-mann Jacobi.     Part  I.     The  A,^aranga-Siltra.    The  Kalpa-Sutra.     los.  dd.
+Vol.  XXII.    G^aina-Sutras,     Translated  from  Prakrit  by  Hermann Jacobi.     Part  I.     The  A,^aranga-Siltra.    The  Kalpa-Sutra.     los.  dd.
 
-
-1 6  CLARENDON  PRESS,  OXFORD.
 
 Vol.  XXIII.     The  Zend-Avesta.    Translated  by  James  Dar-
 
@@ -20026,20 +19011,13 @@ Vol.    XXXIII.       Narada,    and    some    Minor     Law-books.
 
 Translated  by  Julius  Jolly.     [^Preparmg.']
 
-Vol.  XXXIV.     The  Vedanta-Sutras,  with   ^"arikara's  Com-
-mentary.    Translated  by  G.  Thibaut.     {Preparing?^
+Vol.  XXXIV.     The  Vedanta-Sutras,  with   ^"arikara's  Commentary.    Translated  by  G.  Thibaut.     {Preparing?^
 
 
 *  *
 
 
 =**  The  Second  Series  will  consist  of  Twenty-Four  Volumes.
-
-
-4
-
-
-CLARENDON  PRESS,  OXFORD.  17
 
 
 Clar^ntroit  %xi^%  %mt^.
@@ -20069,8 +19047,7 @@ An  English  Grammar  and  Reading  Book,  for  Lower  Forms
 in  Classical  Schools.     By  O.  W.  Tancock,  M.A.     Fourth  Edition.     Extra
 fcap.  Svo.   3J.  (>d.
 
-Typical  Selections  from  the  best  English  Writers,  with  Intro-
-ductory Notices.  Second  Edition.     In  2  vols.    Extra  fcap.  Svo.  3^.  6d.  each.
+Typical  Selections  from  the  best  English  Writers,  with  Introductory Notices.  Second  Edition.     In  2  vols.    Extra  fcap.  Svo.  3^.  6d.  each.
 Vol.  I.  Latimer  to  Berkeley.  Vol.  II.  Pope  to  Macaulay.
 
 Shairp  {J.  C.,  LL.D.).     Aspects  of  Poetry ;    being  Lectures
@@ -20082,8 +19059,7 @@ A  Book  for  the  Beginner  in  Anglo-Saxon.     By  John  Earle,
 
 M.A.     Third  Edition.     Extra  fcap.  8vo.  2s.  6d.
 
-An  Anglo-Saxon  Reader.  In  Prose  and  Verse.  With  Gram-
-matical Introduction,  Notes,  and  Glossary.  By  Henry  Sweet,  M.A.  Fourth
+An  Anglo-Saxon  Reader.  In  Prose  and  Verse.  With  Grammatical Introduction,  Notes,  and  Glossary.  By  Henry  Sweet,  M.A.  Fourth
 Edition,  Revised  and  Enlarged.     Extra  fcap.  Svo.  Ss.  6d.
 
 A  Second  Anglo-Saxon  Reader.    By  the  same  Author.  Extra
@@ -20100,9 +19076,6 @@ I.  Selected  Homilies  of  ^Ifric.     Extra  fcap.  Svo.,  stiff  covers,  is.
 II.  Extracts  from  Alfred's  Orosius.    Extra  fcap.  Svo.,  stiff  covers,  is.  6d.
 
 C
-
-
-1 8  CLARENDON  PRESS,  OXFORD,
 
 
 First  Middle  English  Primer,  zvith  Grammar  and  Glossary.
@@ -20156,8 +19129,7 @@ Second  Edition.    Extra  fcap.  Svo.  7^.  6d.
 
 Specimens   of  English   Literature,   from    the    '  Ploughmans
 
-Crede'  to  the  '  Shepheardes  Calender'  (a.d.  1394  to  a.d.  1579).  With  Intro-
-duction, Notes,  and  Glossarial  Index.  By  W.  W.  Skeat,  Litt.D.  Extra  fcap.
+Crede'  to  the  '  Shepheardes  Calender'  (a.d.  1394  to  a.d.  1579).  With  Introduction, Notes,  and  Glossarial  Index.  By  W.  W.  Skeat,  Litt.D.  Extra  fcap.
 Svo.     7^.  (>d.
 
 
@@ -20172,8 +19144,6 @@ The  Vision  of  William   concerning  Piers   the   Plozvman,   by
 William  Langland.  Edited,  with  Notes,  by  W.  W.  Skeat,  Litt.D.  Fourth
 Edition.    Extra  fcap.  Svo.  4^.  (>d.
 
-
-CLARENDON  PRESS,  OXFORD.  19
 
 Chaucer.     I.  The  Prologue    to    the    Canter'bury    Tales;    the
 
@@ -20237,9 +19207,6 @@ Richard  the  Second,     is.  6d,  Hamlet.     2s.
 c  2
 
 
-20  CLARENDON  PRESS,  OXFORD.
-
-
 Shakespeare.    Select  Plays.  Edited  by  W.  Aldis  Wright,  M.A.
 
 The  Tempest.     is.Sd.  Midsummer  Night's  Dream.   is.6d.
@@ -20287,8 +19254,7 @@ IV.  Samson  AsTonistcs.      Edited  with  Introduction  and
 
 Notes  by  John  Churton  Collms.     Extra  fcap.  Svo.  stiff  covers,  is.
 
-Bunyan.  I.  The  Pilgrim's  Progress,  Grace  Abounding,  Rela-
-tion of  the  hnprisonment  of  Mr.  John  Bunyan.  Edited,  with  Biographical
+Bunyan.  I.  The  Pilgrim's  Progress,  Grace  Abounding,  Relation of  the  hnprisonment  of  Mr.  John  Bunyan.  Edited,  with  Biographical
 Introduction  and  Notes,  by  E.  Venables,  M.A.  1S79.  Extra  fcap.  Svo.  6J.
 In  ornamental  Parchment,  (is.
 
@@ -20307,11 +19273,8 @@ Cromwell;  Astrjea  Redux;  Annus  Mirabilis  ;  Absalom  and  Acbitophel;
 Religio  Laici ;  The  Hind  and  the  Panther.  Edited  by  W.  D.  Christie,  M.A.
 Second  Edition.     Extra  fcap.  Svo.  is.  6d.
 
-Locke's  Conduct  of  the   Understanding.     Edited,  with  Intro-
-duction, Notes,  &c.,  by  T.  Fowler,  D.D.    Second  Edition.  Extra  fcap.  Svo.  2s.
+Locke's  Conduct  of  the   Understanding.     Edited,  with  Introduction, Notes,  &c.,  by  T.  Fowler,  D.D.    Second  Edition.  Extra  fcap.  Svo.  2s.
 
-
-CLARENDON  PRESS,  OXFORD.  21
 
 Addison.   Selections  from  Papers  in  the  Spectator.  With  Notes.
 
@@ -20384,8 +19347,6 @@ I.   Thoughts  on  the  Present  Discontents  ;  the  two  Speeches
 
 on  America     Second  Edition.     Extra  fcap.  %\'o.  ^s.dd.
 
-
-2  2  CLARENDON  PRESS,  OXFORD.
 
 Burke.    11.  ReflectionsontheFrenchRevolution.  Second  Edition.
 
@@ -20460,8 +19421,6 @@ Hints  and  Helps  for  Latin  Elegiacs.    By  H.  Lee-Warner,  M.A.
 Extra  fcap.  8vo.  y.  dd.
 
 
-CLARENDON  PRESS,  OXFORD.  23
-
 First  Latin  Reader,     By  T.  J.  Nunns,  M.A.     Third  Edition.
 
 Extra  fcap.  8vo.  2s.
@@ -20533,8 +19492,6 @@ A.  R.  Cluer,  B.A.      Second  Edition.      Revised  by  P.  E.  Matheson,  
 (In  one  or  two  vols.)     Extra  fcap.  Svo.     1,$.
 
 
-24  CLARENDON  PRESS,  OXFORD.
-
 Livy.     Books  XXI,  XXII,  and   XXIII.     With  Introduction
 
 and  Notes.    By  M.  T.  Tatham,  M.  A.    Extra  fcap.  8vo.  45.  dd.
@@ -20544,8 +19501,7 @@ Ovid.     Selections  for  the  use  of  Schools.    With  Introductions
 and  Notes,  and  an  Appendix  on  the  Roman  Calendar.     By  W.  Ramsay,  M.A.
 Edited  by  G.  G.  Ramsay,  M.A.     Tliird  Edition.    Extra  fcap.  8vo.  pj.  6</.
 
-Ovid.  Tristia.  Book  I.  The  Text  revised,  with  an  Intro-
-duction and  Notes.     By  S.  G.  Owen,  B.A.    Extra  fcap.  8vo.  3^-.  dd.
+Ovid.  Tristia.  Book  I.  The  Text  revised,  with  an  Introduction and  Notes.     By  S.  G.  Owen,  B.A.    Extra  fcap.  8vo.  3^-.  dd.
 
 Plautns.     Captivi.     Edited  by  W.  M.  Lindsay,  M.A.     Extra
 
@@ -20564,8 +19520,7 @@ Salhist.     With  Introduction  and  Notes.     By  W.  W.  Capes,
 
 M.A.    Extra  fcap.  Svo.     4^'.  dd.
 
-Tacitus.  The  Annals.  Books  I-IV.  Edited,  with  Introduc-
-tion and  Notes  (for  the  use  of  Schools  and  Junior  Students),  by  11.  Furneaux,
+Tacitus.  The  Annals.  Books  I-IV.  Edited,  with  Introduction and  Notes  (for  the  use  of  Schools  and  Junior  Students),  by  11.  Furneaux,
 M.A.    Extra  fcap.  Svo.    <~)S.
 
 Tacitus.     The  Annals.    Book  I.    With  Introduction  and  Notes,
@@ -20605,8 +19560,6 @@ Virgil  Aeneid  IX.  Edited,  with  Introduction  and  Notes,
 by  A.  E.  Haigh,  M.A.,  late  Fellow  of  Hertford  College,  Oxford.  Extra
 fcap.  Svo.  limp,  \s.  6d.     In  two  Parts,  2s.
 
-
-CLARENDON  PRESS,  OXFORD.  25
 
 Aviamis,  The  Fables  of.     Edited,  with  Prolegomena,  Critical
 
@@ -20675,14 +19628,10 @@ of  Latin  in  Liverpool  University  College,  Victoria  University.     In  tw
 Crown  Svo.     Complete,  65.
 Also  separately,  Part  I.  Introduction,  Text,  etc.,  3J.        Part  II.  Notes,  35.  6(/.
 
-Tacitus.  The  Annals.  Books  I- VI.  Edited,  with  Intro-
-duction and  Notes,  by  H.  Furneaux,  M.A.    Svo.  iSj.
+Tacitus.  The  Annals.  Books  I- VI.  Edited,  with  Introduction and  Notes,  by  H.  Furneaux,  M.A.    Svo.  iSj.
 
 
-2  6  CLARENDON  PRESS,  OXFORD.
-
-Nettleship  {H.,  M.A.).  Lectures  mid  Essays  on  Subjects  con-
-nected with  Latin  Scholarship  and  Literature.     Crown  8vo.  7^.  6d.
+Nettleship  {H.,  M.A.).  Lectures  mid  Essays  on  Subjects  connected with  Latin  Scholarship  and  Literature.     Crown  8vo.  7^.  6d.
 
 The  Roman  Satiira.     8vo.  sewed,  \s.
 
@@ -20714,8 +19663,7 @@ A  Greek  Primer,  for  the  use  of  beginners  in  that  Language.
 
 By  Charles  Wordsworth,  D.C.L.  Seventh  Edition.   Extra  fcap.  8vo.  is.6J.
 
-A  Greek  Testament  Primer.  An  Easy  Grammar  and  Read-
-ing Book  for  the  use  of  S  udents  beginning  Greek.  By  the  Rev.  E.  Miller,
+A  Greek  Testament  Primer.  An  Easy  Grammar  and  Reading Book  for  the  use  of  S  udents  beginning  Greek.  By  the  Rev.  E.  Miller,
 M.A.     Extra  fcap.  8vo.  3^.  dd.
 
 Easy  Greek  Reader.     By  Evelyn  Abbott,  M.A.     In  one  or
@@ -20749,9 +19697,6 @@ Second  Greek  Reader.     By  A.  M.  Bell,  M,A.     Extra  fcap.
 Svo.  3^-.  6d.
 
 
-CLARENDON  PRESS,  OXFORD.  27
-
-
 Fourth  Greek  Reader ;  being  Specimens  of  Greek  Dialects.
 
 With  Introductions,  etc.    By  W.  W,  Merry,  D.D.    Extra  fcap.  8vo.  4J.  6(/.
@@ -20761,8 +19706,7 @@ Fifth   Greek  Reader.     Selections   from    Greek    Epic    and
 Dramatic  Poetry,  with  Introductions  and  Notes,     By  Evelyn  Abbott,  M.A.
 Extra  fcap.  8vo.  4^.  6a'.
 
-The  Golden  Treasury  of  Ancient  Greek  Poetry:  beins^  a  Col-
-lection of  the  finest  passages  in  the  Greek  Classic  Poets,  with  Introductory
+The  Golden  Treasury  of  Ancient  Greek  Poetry:  beins^  a  Collection of  the  finest  passages  in  the  Greek  Classic  Poets,  with  Introductory
 Notices  and  Notes.    By  R.'  S.  Wright^  M.A.    Extra  fcap.  8vo.  Sj.  6^.
 
 A  Golden  Treasury  of  Greek  Prose,  being  a  Collection  of  the
@@ -20771,8 +19715,7 @@ finest  passages  in  the  principal  Greek  Prose  Writers,  with  Introductory
 and  Notes.  By  R.  S.  Wright,  M.A.,  and  J.  E.  L.  Shadwell,  M.A.  Extra  fcap.
 8vo.  4^.  dd.
 
-AcscJiyhis.  PronietJie7ts  Bound  {{ox  Schools).  With  Introduc-
-tion and  Notes,  by  A.  O.Prickard,  M.A.  Second  Edition.  Extra  fcap.  8vo.  2j.
+AcscJiyhis.  PronietJie7ts  Bound  {{ox  Schools).  With  Introduction and  Notes,  by  A.  O.Prickard,  M.A.  Second  Edition.  Extra  fcap.  8vo.  2j.
 
 Agamemnon.     With  Introduction  and  Notes,  by  Arthur
 
@@ -20822,8 +19765,6 @@ Medea.     By  C.  B.  Heberden,  M.A.     In  one  or  two  Parts.
 
 Extra  fcap.  Svo.  2s,
 
-
-28  CLARENDON  PRESS,  OXFORD.
 
 Herodotus,  Book  IX.     Edited,  with  Notes,  by  Evelyn  Abbott,
 M.A.     In  one  or  two  Parts.     Extra  fcap.  8vo.  3^.
@@ -20876,8 +19817,7 @@ Plato.     The  Apology.     With    Introduction    and    Notes.     By
 
 St.  George  Stock,  M.A.     (In  one  or  two  Parts.)     Extra  fcap.  Svo.   2s.  6d.
 
-Sophocles.      For    the    use   of   Schools.       Edited    with    Intro-
-ductions and  English  Notes      By  Lewis  Campbell,  M.A.,  and  Evelyn  Abbott,
+Sophocles.      For    the    use   of   Schools.       Edited    with    Introductions and  English  Notes      By  Lewis  Campbell,  M.A.,  and  Evelyn  Abbott,
 M.A.    New  and  Revised  Edition.     2  Vols.     Extra  fcap.  8vo.     loj.  6d.
 Sold  separately,  Vol.  I,  Text,  ^s.  dd. ;  Vol.  IL  Explanatory  Notes,  (js.
 
@@ -20896,8 +19836,6 @@ present  Bishop  of  St.  David's.     Extra  fcap.  Svo.  limp,  is.  6d.
 Theocritus   (for   Schools).     With    Notes.     By   H.  Kynaston,
 D.D.  (late  Snow).     Third  Edition.    Extra  fcap  Svo.  4J.  bd.
 
-
-CLARENDON  PRESS,  OXFORD.  29
 
 Xenophon.     Easy   Selections   (for   Junior    Classes).     With   a
 
@@ -20941,8 +19879,7 @@ Head  [Barclay  V.).    Historia  Njimoriim:  A  Manual  of  Greek
 
 Numismatics.     Royal  Svo.  half-bound.     2/.  2s.
 
-Hicks  [E.  L.,M.A.).    A  Manual  of  Greek  Historical  Inscrip-
-tions.   Demy  Svo.  10s.  6d.
+Hicks  [E.  L.,M.A.).    A  Manual  of  Greek  Historical  Inscriptions.   Demy  Svo.  10s.  6d.
 
 Hojner.     Odyssey,  Books  I-XIL     Edited  with  English  Notes,
 
@@ -20961,16 +19898,13 @@ Vol.1.     Oedipus  Tyrannus.     Oedipus  Coioneus.     Antigone.     Svo.  ids
 Vol.  II.   Ajax.    Electra.  Trachiniae.  Philoctetes.   Fragments.     Svo.  i6j.
 
 
-30  CLARENDON  PRESS,  OXFORD.
-
 IV.    FRENCH  AND  ITALIAN.
 
 Brae  he  fs  Etymologieal  Dietionary  of  the  French  Language.
 
 Translated  by  G.  W.  Kitchin,  D.D.    Third  Edition.    .Crown  8vo.  7^.  6^/.
 
-Historical  Grammar  of  the  French  Language.     Trans-
-lated by  G.  W.  Kitchin,  D.D.    Fourth  Edition.    Extra  fcap.  8vo.  y.  6d.
+Historical  Grammar  of  the  French  Language.     Translated by  G.  W.  Kitchin,  D.D.    Fourth  Edition.    Extra  fcap.  8vo.  y.  6d.
 
 "Works  by  GEORGE  SAINTSBUEY,  M.A.
 
@@ -21031,9 +19965,6 @@ L' Eloquence  de  la  Chaire  et  de  la  Tribune  Frangaises.     Edited
 by  Paul  Blouet,  B.A.     Vol.  I.    Sacred  Oratory.     Extra  fcap.  Svo.  2s.  6d.
 
 
-CLARENDON  PRESS,   OXFORD.  31
-
-
 Edited  by  GUSTAVE  MASSON",  B.A.
 
 Corneilles  China.    With  Notes,  Glossary^  etc.    Extra  fcap.  8vo.
@@ -21085,8 +20016,7 @@ Dante.     Selections  from  the  Inferno.     With  Introduction  and
 
 Notes.     By  H.  B.  Cotterill,  B.A.     Extra  fcap.  Svo.  4J-.  6(/.
 
-Tasso.     La  Gcrnsalemme  Liberata.     Cantos  i,  ii.     With  In-
-troduction and  Notes.    By  the  same  Editor.    Extra  fcap.  Svo.  2s.  6d,
+Tasso.     La  Gcrnsalemme  Liberata.     Cantos  i,  ii.     With  Introduction and  Notes.    By  the  same  Editor.    Extra  fcap.  Svo.  2s.  6d,
 
 V.    GERMAN".
 Scherer  (  W^.     A  History  of  German  Literattire.    Translated
@@ -21101,8 +20031,6 @@ German,  and  Notes.  By  F.  Max  Miiller,  M.A.  A  New  Edition,  Revised,
 Enlarged,  and  Adapted  to  Wilhelm  Scherer's  '  History  of  German  Literature,
 by  F.  Lichtenstein.  2  vols,  crown  Svo.  2ij-.
 
-
-32  CLARENDON  PRESS,  OXFORD.
 
 GERMAN  COURSE.     By  HEEMANJST  LATsTGE.
 
@@ -21145,8 +20073,7 @@ Goethe's  Egmoitt.  With  a  Life  of  Goethe,  &c.    Third  Edition.
 
 Extra  fcap.  8vo.  y.
 
-Iphigenie  auf  Tauris.     A  Drama.     With  a  Critical  In-
-troduction and  Notes,    Second  Edition.     Extra  fcap.  8vo.  3^-.
+Iphigenie  auf  Tauris.     A  Drama.     With  a  Critical  Introduction and  Notes,    Second  Edition.     Extra  fcap.  8vo.  3^-.
 
 Heine''s  Prosa,  being  Selections  from  his  Prose  Works.     With
 
@@ -21176,10 +20103,7 @@ and  Map.     Sixth  Edition.     Extra  fcap.  8vo.  3J.  6d.
 Wilhelm  Tell.    School  Edition.   With  Map.    2s.
 
 
-CLARENDON  PRESS,  OXFORD.  33
-
-Modem  German  Reader.     A   Graduated   Collection   of  Ex-
-tracts in  Prose  and  Poetry  from  jModern  German  writers  : —
+Modem  German  Reader.     A   Graduated   Collection   of  Extracts in  Prose  and  Poetry  from  jModern  German  writers  : —
 
 Part  I.     \Vith   English  Notes,   a   Grammatical  Appendix,  and    a   complete
 Vocabulary.   Fourth  Edition.  Extra  fcap.  8vo.  2s.  6c?.
@@ -21223,8 +20147,7 @@ Astronomy,    Third  Edition.     1877.    Demy  Svo.  2 Sj.
 
 Clarke  {Col.  A.  R.,C-B.,R.E.).    Geodesy.    1880.    Svo.  i2j-.  6^,
 
-Cremona  {Luigi).     Elements  of  Projective  Geometry.     Trans-
-lated by  c.  Leudesdorf,  M.A.    Svo.    12^.  6a'.
+Cremona  {Luigi).     Elements  of  Projective  Geometry.     Translated by  c.  Leudesdorf,  M.A.    Svo.    12^.  6a'.
 
 Donkin.     Acoustics,     Second  Edition.     Crown  Svo.     ']s.  6d.
 
@@ -21238,8 +20161,6 @@ Book  I.    i.r.  Books  I,  II.    is.  dd.
 
 Books  I-IV.    is.bd.  Books  V,  VI.  3^.
 
-
-34  CLARENDON  PRESS,  OXFORD.
 
 Galton  {Do2iglas,  C.B.,  F.R.S.).     The  Construction  of  Healthy
 
@@ -21272,8 +20193,7 @@ An   Elementary    Treatise    on    Electricity.     Edited    by
 
 William  Garnett,  M.A.     Demy  Svo.  7j.  <dd.
 
-Minchin  [G.  M.,  M.A.).  A  Treatise  on  Statics  with  Applica-
-tions to  Physics.  Third  Edition,  Corrected  and  Enlarged.  Vol.  I.  Equili-
+Minchin  [G.  M.,  M.A.).  A  Treatise  on  Statics  with  Applications to  Physics.  Third  Edition,  Corrected  and  Enlarged.  Vol.  I.  Equili-
 brium of  Coplanar  Forces.  Svo.  9^.    Vol.  II.  Statics.  Svo.  i6.f.
 
 Uniplanar  Kinematics  of  Solids  and  Fluids.     Crown
@@ -21308,9 +20228,6 @@ numerous  Woodcuts  and  Diagrams.  Fourth  Edition.  Extra  fcap.  Svo.
 IS.  6d.
 
 
-CLARENDON  PRESS,  OXFORD.  35
-
-
 Vernoji-Harcoiirt  (L.  F.,  Jjf.A.).     A   Treatise  on  Rivers  and
 
 Canals,  relating  to  the  Control  and  Improvement  of  Rivers,  and  the  Design,
@@ -21319,8 +20236,7 @@ Plates.)     Svo.   2\s.
 
 Haj-boiirs  and  Docks ;  their  Physical  Features,  History,
 
-Construction,  Equipment,  and  Maintenance;  with  Statistics  as  to  their  Com-
-mercial Development.     2  vols.  Svo.  25J.
+Construction,  Equipment,  and  Maintenance;  with  Statistics  as  to  their  Commercial Development.     2  vols.  Svo.  25J.
 
 Walker  [James,  M.A.)     The  Theory  of  a  Physical  Balance.
 
@@ -21336,8 +20252,7 @@ I.  A  Treatise  on  the  Application  of  Generalised  Coordinates  to  the  Ki
 
 a  Material  System.     1879.  Svo.  6j-.
 
-II.  The  Mathematical  Theory  of  Electricity  and  Magnetism.     Vol.  I.  Electro-
-statics.    Svo.   loj.  (dd.
+II.  The  Mathematical  Theory  of  Electricity  and  Magnetism.     Vol.  I.  Electrostatics.    Svo.   loj.  (dd.
 
 Williamson   (A.    W.,   Phil.   Doc.,   F.R.S.).      Chemistry  for
 
@@ -21348,19 +20263,15 @@ VII.  HISTORY.
 
 Bhtntschli  [J.  K.).     The  Theory  of  the   State.      By   J.   K.
 
-Bluntschli,  late  Professor  of  Political  Sciences  in  the  University  of  Heidel-
-berg. Authorised  English  Translation  from  the  .Sixth  German  Edition.
+Bluntschli,  late  Professor  of  Political  Sciences  in  the  University  of  Heidelberg. Authorised  English  Translation  from  the  .Sixth  German  Edition.
 Demy  Svo.  half  bound,  12J.  (>d.
 
-Finlay  [George,  LL.D.).  A  History  of  Greece  from  its  Con-
-quest by  the  Romans  to  the  present  time,  K.c.  146  to  A.D.  1S64.  A  new
-Edition,  revised  throughout,  and  in  part  re-written,  with  considerable  ad-
-ditions, by  the  Author,  and  edited  by  H,  F.  Tozer,  M.A.  7  vols.  Svo.  3/.  \os.
+Finlay  [George,  LL.D.).  A  History  of  Greece  from  its  Conquest by  the  Romans  to  the  present  time,  K.c.  146  to  A.D.  1S64.  A  new
+Edition,  revised  throughout,  and  in  part  re-written,  with  considerable  additions, by  the  Author,  and  edited  by  H,  F.  Tozer,  M.A.  7  vols.  Svo.  3/.  \os.
 
 Fortescue   {Sir  John,  Kt.).      The   Governance  of  England:
 
-otherwise  called  The  Difference  between  an  Absolute  and  a  Limited  Mon-
-archy. A  Revised  Text.  Edited,  with  Introduction,  Notes,  and  Appendices,
+otherwise  called  The  Difference  between  an  Absolute  and  a  Limited  Monarchy. A  Revised  Text.  Edited,  with  Introduction,  Notes,  and  Appendices,
 by  Charles  Plummer,  M.A.     Svo.  half  bound,  \2S.  bd.
 
 Freeman  [E.A.,  D.C.L.).     A   Short  Flistory  of  the  Norman
@@ -21374,8 +20285,6 @@ History.     Third  Edition,  Revised  and  Enlarged.     Small  4to.   \2s.
 Hodgkin  ( 7".).  Italy  and  Jier  Invaders.  Ilkistrated  with
 Plates  and  Maps.     Vols.  I— IV.,  A.I).  376-553.  Svo.  3/.  Sj.
 
-
-36  CLARENDON  PRESS,  OXFORD.
 
 Hiighes  [Alfred).     Geography  for  Schools.     With    Diagrams.
 
@@ -21444,9 +20353,6 @@ A  History  of  British  India.     By  S.  J.  Owen,  M.A.,  Reader
 in  Indian  History  in  the  University  of  Oxford.     In  preparation.
 
 
-CLARENDON  PRESS,  OXFORD.  37
-
-
 VIII.  LAW.
 
 Alberici   Gentilis,    LCD.,   I.C.,    De    lure   Belli   Libri   Tres.
@@ -21480,8 +20386,7 @@ Holland  [T.  E.,  D.C.L.).     The  Elements  of  Jurisprudence.
 
 Third  Edition.     Demy  Svo.  10^.  (yd.
 
-The  Etiropcan  Concert  in  the  Eastern  Question,  a  Col-
-lection of  Treaties  and  other  Public  Acts.  Edited,  with  Introductions  and
+The  Etiropcan  Concert  in  the  Eastern  Question,  a  Collection of  Treaties  and  other  Public  Acts.  Edited,  with  Introductions  and
 Notes,  by  Thomas  Erskine  Holland,  D.C.L.     Svo.  \2s.  6d.
 
 Imperatoris  histiniani  Institntionnm  Libri  Qnattnor ;    with
@@ -21512,10 +20417,7 @@ With  an  Introduction  to  the  Study  of  the  Corpus  luris  Civilis.  By  I'
 Grueber,  Dr.  Jur.,  1\LA.     Demy  Svo.   los.  6d.
 
 
-38  CLARENDON  PRESS,  OXFORD.
-
-Markby[  IV.,D.C.L.).    Elevients  of  Law  considered  with  refer-
-ence to  Principles  of  General  Jurisprudence.  Third  Edition.  Demy  8vo.  \2s.(id.
+Markby[  IV.,D.C.L.).    Elevients  of  Law  considered  with  reference to  Principles  of  General  Jurisprudence.  Third  Edition.  Demy  8vo.  \2s.(id.
 
 Stokes  (  Whitley,  D.C.L.).     The  Anglo-Indian  Codes.
 
@@ -21583,15 +20485,12 @@ Locke's    Conduct   of   the    Understanding.      Second    Edition.
 Extra  fcap.  Svo.  2s.
 
 
-CLARENDON  PRESS,  OXFORD.  39
-
 Danson  [J.  T.).     The  Wealth  of  Households.     Crown  8vo.  ^s.
 Green  {T.  H.,  M.A.).     Prolegomena   to   Ethics.     Edited   by
 
 A.  C.  Bradley,  M.A.     Demy  Svo.  12s.  dd.
 
-Hegel.  The  Logic  of  Hegel ;  translated  from  the  Encyclo-
-paedia of  the  Philosophical  Sciences.  With  Prolegomena  by  William
+Hegel.  The  Logic  of  Hegel ;  translated  from  the  Encyclopaedia of  the  Philosophical  Sciences.  With  Prolegomena  by  William
 Wallace,  M.A.     1874.    Svo.  14^.
 
 Lotze's  Logic,  in  Three  Books ;   of  Thought,  of  Investigation,
@@ -21647,8 +20546,6 @@ M.A.,  Author  of  'Modem  Gothic  Architecture.'  In  3  vols.  Svo.  With  man
 Plates  and  Illustrations.     Half  botmd,  ^2s.
 
 
-40  CLARENDON  PRESS,  OXFORD.
-
 Oiiseley  [Sir  F.  A.  Gore,  Bart.).     A    Treatise  on  Harmony.
 
 Third  Edition.    4to.  ioj.
@@ -21679,8 +20576,7 @@ Upcott  [L.  F.,  M.A.).      An  Introduction  to  Greek  Sculpture.
 
 Crown  Svo.  4^^.  ^d.
 
-Vaux  ( W.  S.  IV.,  31. A.).     Catalogue  of  tJie  Castellani  Collec-
-tion of  Antiqtdties  in  the  University  Galleries,  Oxford.     Crown  Svo.  is.
+Vaux  ( W.  S.  IV.,  31. A.).     Catalogue  of  tJie  Castellani  Collection of  Antiqtdties  in  the  University  Galleries,  Oxford.     Crown  Svo.  is.
 
 
 The  Oxford  Bible  for  Teachers,  containing  Supplementary
@@ -21693,8 +20589,7 @@ Prices  in  various  sizes  and  bindings  from  -^s.  to  2/.  ^s.
 Helps  to  the  Study  of  the  Bible,  taken  from  the  OXFORD
 Bible  for  Teachers,  comprising  Summaries  of  the  several  Books,  with
 copious  Explanatory  Notes  and  Tables  illustrative  of  Scripture  History  and
-the  Characteristics  of  Bible  Lands ;  with  a  complete  Index  of  Subjects,  a  Con-
-cordance, a  Dictionary  of  Proper  Names,  and  a  series  of  Maps.  Crown  Svo.
+the  Characteristics  of  Bible  Lands ;  with  a  complete  Index  of  Subjects,  a  Concordance, a  Dictionary  of  Proper  Names,  and  a  series  of  Maps.  Crown  Svo.
 cloth,  35.  Gd. ;  i6mo.  cloth,  is.
 
 

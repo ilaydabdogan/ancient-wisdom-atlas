@@ -5,7 +5,6 @@ TEACHINGS  OP  RUMI
 
 TEACHINGS  OF  RUMI
 
-THE  MASNAVI
 
 OF
 
@@ -27,7 +26,6 @@ Paperback
 NEW  YORK
 
 E.  P.  DUTTON  & CO.,  INC.
-1975
 
 
 This  paperback  edition  of
@@ -45,8 +43,7 @@ FIRST  EDITION
 
 No  part  of  this  publication  may  be  reproduced  or
 transmitted  in  any  form  or  by  any  means,  electronic  or
-mechanical,  including  photocopy,  recording,  or  any  in-
-formation storage  and  retrieval  system  now  known  or
+mechanical,  including  photocopy,  recording,  or  any  information storage  and  retrieval  system  now  known  or
 to  be  invented,  without  permission  in  writing  from  the
 publisher,  except  by  a reviewer  who  wishes  to  quote
 brief  passages  in  connection  with  a review  written  for
@@ -104,48 +101,8 @@ Complaints  of  God’s  harsh  dealings  .
 
 I
 
-4
-
-5
-
-6
-
-7
-
-8
-
-9
-
-10
-
-11
-
-12
-13
 
 IS
-
-15
-
-16
-
-17
-
-18
-20
-21
-
-24
-
-25
-
-28
-
-28
-
-29
-
-30
 
 
 VI
@@ -230,27 +187,6 @@ Story  II.— The  Pauper  and  The  Prisoners  .
 Satan’s  office  in  the  world
 
 Tlve  “Beloved”  the  cause  of  all  earthly  beauty*
-
-
-61
-
-62
-
-63
-
-63
-
-64
-
-65
-
-66
-
-67
-
-68
-68
-70
 
 
 CONTENTS.
@@ -417,7 +353,6 @@ jn
 
 I!2
 
-114
 . ns
 
 . 116
@@ -512,33 +447,8 @@ ix
 
 PAGE
 
-150
 
-150
-
-151
-
-152
-
-153
-
-154
-
-155
-
-157
-
-158
 1 60
-163
-
-165
-
-166
-
-167
-
-168
 
 
 BOOK  IV.
@@ -577,42 +487,7 @@ Bdyazid’s  impious  sayings  ....
 Why  the  HudhaUi  youth  was  promoted  .
 
 
-172
-
-174
-
-175
-
-176
-
-177
-
-179
-
-180
-
-181
-
-182
-
-183
-
-184
-186
-
-188
-
-189
-
-192
-
-193
-
-194
-
 19s
-
-197
 
 
 X
@@ -1000,9 +875,6 @@ The  flute  is  the  confidant  of  all  unhappy  lovers ;
 reunion  with  their  Creator.
 
 
-2
-
-
 THE  MASHAVL
 
 
@@ -1067,8 +939,7 @@ Did  my  Beloved  only  touch  me  with  his  lips,
 I too,  like  the  flute,  would  burst  out  in  melody.
 
 
-Self-annihilation  leads  to  eter-
-nal life  in  God — the  nniversal  Nou-
+Self-annihilation  leads  to  eternal life  in  God — the  nniversal  Nou-
 menon,  by  ■whom  all  phenomena
 subsist.  See  Gtdshan  i Raz,  L
 400.
@@ -1086,9 +957,6 @@ BOOK  I.]
 
 
 PROLOGUE.
-
-
-3
 
 
 But  he  who  is  parted  from  them  that  speak  his  tongue,
@@ -1124,8 +992,7 @@ It  would  reflect  the  shining  of  the  Sun  of  God.^
 Which  sets  forth  the  very  essence  of  my  case.
 
 ^ All  phenomenal  existences  (man  is  wifchdr.a\vn  they  at  once  relapse
-included)  are  but  “veils"  obscur-  into  their  original  nothingness.  See-
-ing the  face  of  the  Divine  Noume-  Gulshan  i Raz,  1.  165.
+included)  are  but  “veils"  obscur-  into  their  original  nothingness.  Seeing the  face  of  the  Divine  Noume-  Gulshan  i Raz,  1.  165.
 non,  the  only  real  existence,  and  * So  Bernard  of  Clairvaux.  See
 the  moment  His  sustaining  presence  Gulshan  i Raz,  1,  435.
 
@@ -1140,8 +1007,7 @@ the  prince  had  her  tended  by  divers  physicians.  As,
 however,  they  all  omitted  to  say,  “ God  willing, we  will
 cure  her,”  their  ^eatment  was  of  no  avail.  So  the  prince
 offered  prayer,  and  in  answer  thereto  a physician  was
-sent  from  heaven.  He  at  once  condemned  his  pre-
-decessors’ view  of  the  case,  and  by  a very  skilful
+sent  from  heaven.  He  at  once  condemned  his  predecessors’ view  of  the  case,  and  by  a very  skilful
 diagnosis,  discovered  that  the  real  cause  of  the  maiden’s
 illness  was  her  love  for  a certain  goldsmith  of  Samarcand.
 In  accordance  with  the  physician’s  advice,  the  prince  sent
@@ -1234,12 +1100,6 @@ So  that  -similitudes  of  Him  should  be  conceivable  ?
 ® There  is  a tradition,  “ I know  ray  Lord  by  ray  Lord.”
 
 
-6
-
-
-THE  MASNAVI.
-
-
 [book  I.
 
 
@@ -1312,9 +1172,6 @@ present,”  because  he  is  an  Energu-
 BTORTli.]  THE  OILMAN  AND  HIS  PARROT.
 
 
-7
-
-
 I^is  not  tte  rale^if^is,canQn,.to.,saj:,J_To.-:moTrow,’
 
 Can  it  be  tKat  thou  art  not  a true  Sufi  ?
@@ -1385,9 +1242,6 @@ dust  of  the  road.”
 — Gulshan  i Kaz,  1.  195.
 
 
-8
-
-
 THE  MASNAVt,
 
 
@@ -1400,8 +1254,7 @@ such  a blow  on  the  head  as  made  all  its  feathers  drop
 off,  and  so  stunned  it  that  it  lost  the  ])owcr  of  speech  for.
 several  days.  But  one  day  the  parrot  saw  a biild-honded
 man  passing  the  shop,  and  recovering  its  speech,  it  cried
-out,  “ Pray,  whoso  oil-jar  did  you  upset  ? ” Tho  passers-
-by  smiled  at  the  parrot’s  mistake  in  confounding  baldness
+out,  “ Pray,  whoso  oil-jar  did  you  upset  ? ” Tho  passersby  smiled  at  the  parrot’s  mistake  in  confounding  baldness
 caused  by  age  with  the  loss  of  its  own  feathers  due  to  a
 blow.
 
@@ -1504,20 +1357,15 @@ Story  III.  The  Jewish  King,  his  Vazir,  and  the
 Christians  (pp.  12—22).
 
 A certain  Jewish  king  nsed  to  persecute  the  Christians,
-desiring  to  exterminate  their  faith.  His  Vazir  per-
-suaded him  to  try  a stratagem,  namely,  to  mutilate  the
+desiring  to  exterminate  their  faith.  His  Vazir  persuaded him  to  try  a stratagem,  namely,  to  mutilate  the
 Vazir  himself,  and  expel  him  from  his  court,  with  the
 intent  that  he  might  take  refuge  with  the  Christians,
 and  stir  up  mutual  dissensions  amongst  them.  The
-Vazir’s  suggestion  was  adopted.^  He  fled  to  the  Chris-
-tians, and  found  no  difficuliy  in  persuading  them  that
+Vazir’s  suggestion  was  adopted.^  He  fled  to  the  Christians, and  found  no  difficuliy  in  persuading  them  that
 he  had  been  treated  in  that  barbarous  way  on  account  of
 his  attachment  to  the  Chistian  faith.  He  soon  gained
 
 ^ Compare  the  story  of  Zopynis,  Herodotus,  iii.  155.
-
-
-10
 
 
 THE  ^fASNA  VI.
@@ -1527,8 +1375,7 @@ THE  ^fASNA  VI.
 
 
 complete  influence  over  them,  and  was  accepted  as  a
-saintly  martyr  and  a divine  teacher.  Only  a few  dis-
-cerning men  divined  liis  treachery ; the  majority  were
+saintly  martyr  and  a divine  teacher.  Only  a few  discerning men  divined  liis  treachery ; the  majority  were
 all  deluded  by  him.  The  Cliristians  were  divided  into
 
 
@@ -1576,9 +1423,6 @@ STORY  m.]
 
 
 THE  JEWISH  KING.
-
-
-11
 
 
 Therefore  the  followers  of  the  Prophet  (Tsa)
@@ -1711,9 +1555,6 @@ STOUT  III.]
 THE  JEWISH  KING.
 
 
-13
-
-
 TIic  itcclvc  vohnnes  of  thtology  (p.  16).
 
 He  drew  up  a separate  scroll  to  tlie  address  of  each,
@@ -1774,9 +1615,6 @@ And  thy  Laila  is  then  as  bold  as  her  Majnun.
 1 This  was  the  doctrine  of  the  ^ i.e,.  Hide  not  thy  light  (of
 Jabriyan  or  extreme  predestina-  good  works  or  of  self-denial}  under
 rians.  a bushel.
-
-
-14
 
 
 THE  MASNA  VL
@@ -1861,9 +1699,6 @@ FTORY  IV.]
 ANOTHER  JEWISH  KING.
 
 
-15
-
-
 Eacli  scroll  liati  itsS  contrary  piece  of  rlietoriC;
 
 In  form  and  substance  utterly  opposed  to  it ;
@@ -1915,9 +1750,6 @@ Bor  the  pair  will  generate  more,  like  man  and  woman.
 
 
 l6
-
-
-THE  MASNAVI.
 
 
 [book  I.
@@ -1993,9 +1825,6 @@ of  God.  See  Book  IL  Story  XVIL
 STORT  y.]  THE  LION  AND  THE  BEASTS.
 
 
-17
-
-
 Story  V.  The  Lion  and  the  Beasts  (p.  26).
 
 In  tlie  book  of  Kalila  and  Damna  a story  is  told  of
@@ -2028,17 +1857,13 @@ In  excuse  for  his  tardy  arrival  he  represented  that  he
 and  another  hare  had  set  out  together  to  appear  before
 the  lion,  but  a strange  lion  had  seized  the  second  hare,
 and  carried  it  off  in  spite  of  his  remonstrances.  On
-hearing  this  the  lion  was  exceeding  wroth,  and  com-
-manded the  hare  to  show  him  the  foe  who  had  trespassed
+hearing  this  the  lion  was  exceeding  wroth,  and  commanded the  hare  to  show  him  the  foe  who  had  trespassed
 on  his  preserves.  Pretending  to  be  afraid,  the  hare  got
 the  lion  to  take  him  upon  his  back,  and  directed  him
 to  a well.  On  looking  down  the  well,  the  lion  saw  in
 
 
 i8
-
-
-THE  M A SNA  VI.
 
 
 [book  I.
@@ -2086,9 +1911,6 @@ In  n R ^ objects,  bit  by  bit.
 RelySg  Totter  mTs  ifa  ^
 
 Section .
-
-
-19
 
 
 BTOBY  v.]  THE  LION  AND  THE  BEASTS.
@@ -2161,12 +1983,6 @@ When  ye  have  taken  to  heart  His  hints,
 1 Koran  ii.  341.
 
 
-20
-
-
-THE  M A SNA  VI.
-
-
 [book  I.
 
 
@@ -2235,9 +2051,6 @@ The  skill  taught  by  God  to  the  silkworm
 STORY T.]  THE  LION  AND  THE  BEASTS.
 
 
-21
-
-
 Is  a learning  beyond  tbe  reach  of  the  elephant.
 
 The  earthly  Adana  was  taught  of  God  names/
@@ -2300,12 +2113,6 @@ names  of  all  things  ” (Koran  ii.  us  to  know  ” (Koran  ii.  30).
 3 See  Gulshan  i Kaz,  1.  543.
 
 The  angels  said,  “"We  have  no  * Koran  xviii.  17.
-
-
-22
-
-
-THE  M A SNA  VI.
 
 
 [nooK  I.
@@ -2403,9 +2210,6 @@ them?”  (Koran  li.  21).
 STOUT  T.]  THE  LION  AND  THE  BEASTS.
 
 
-23
-
-
 These  colours  veil  the  light  from  thee.
 
 But  when  night  veils  those  colours  from  thee,
@@ -2467,13 +2271,7 @@ distinguished  from  that  which  it  is  ® Koran  vii.  139:  “He  said,
 not.”  But  the  Infinite  Deity  ex  ‘Thou  shalt  not  see  me.’ ”
 
 
-THE  MASNAVL
-
-
 [IJOOK  h
-
-
-24
 
 
 Tbou  knovrest  tlierc  is  a gloriotis  Oconn  kcncaih  tkein,
@@ -2556,8 +2354,7 @@ him  two  questions,  first.  How  can  souls  descend  from
 heaven  to  earth  ? and  secondly,  With  what  object  are
 souls  imprisoned  in  the  bonds  of  flesh  and  blood  ? ’Omar
 responded,  and  the  ambassador  accepted  his  teaching,  and
-became  a pure-hearted  Sufi.  The  hare  urged  his  com-
-panions to  abjure  lust  and  pride,  and  to  go  and  do
+became  a pure-hearted  Sufi.  The  hare  urged  his  companions to  abjure  lust  and  pride,  and  to  go  and  do
 likewise.
 
 God’s  agmcy  reconciled  with  man’s  freewill  (p.  39).
@@ -2599,12 +2396,6 @@ That  it  attends  thereto  and  rests  steadfast  ?
 What  is  it  that  Speaker  says  to  the  cloud.
 
 That  it  pours  forth  rain-water  like  a water-skin  ?
-
-
-16
-
-
-THE  MASNAVL
 
 
 [hook  I.
@@ -2693,9 +2484,6 @@ God  s will,  as  in  the  case  of  the
 STORY  VI.]  ^OMAR  AND  THE  AMBASSADOR.
 
 
-27
-
-
 Outside  the  shell  they  are  raindrops,  great  and  small ;
 Inside  they  are  precious  pearls,  big  and  little.
 
@@ -2761,12 +2549,6 @@ Whence  our  recompense  is  either  hell  or  ‘ The  Friend.’  ”
 J As  a sign  of  the  last  day  (Koran  liv.  i).
 
 
-28
-
-
-THE  MASNAVL
-
-
 [book  I.
 
 
@@ -2777,8 +2559,7 @@ cage.  Being  about  to  travel  to  Hindustan  on  business,
 he  asked  the  parrot  if  he  had  any  message  to  send  to  his
 kinsmen  in  that  country,  and  the  parrot  desired  him  to  tell
 them  that  he  was  kept  confined  in  a cage.  The  merchant
-promised  to  deliver  this  message,  and  on  reaching  Hindu-
-stan, duly  delivered  it  to  the  first  flock  of  parrots  he  saw.
+promised  to  deliver  this  message,  and  on  reaching  Hindustan, duly  delivered  it  to  the  first  flock  of  parrots  he  saw.
 On  hearing  it  one  of  them  at  once  fell  down  dead.  The
 merchant  was  annoyed  with  his  own  parrot  for  having
 sent  such  a fatal  message,  and  on  his  return  home
@@ -2787,8 +2568,7 @@ no  sooner  heard  the  merchant’s  tale  than  he  too  fell
 down  dead  in  his  cage.  The  merchant,  after  lamenting
 his  death,  took  his  corpse  out  of  the  cage  and  threw
 it  away ; but,  to  his  surprise,  the  corpse  immediately
-recovered  life,  and  flew  away,  explaining  that  the  Hindu-
-stani parrot  had  only  feigned  death  to  suggest  this  way
+recovered  life,  and  flew  away,  explaining  that  the  Hindustani parrot  had  only  feigned  death  to  suggest  this  way
 of  escaping  from  confinement  in  a cage.
 
 
@@ -2829,9 +2609,6 @@ well  b note.
 
 
 STORY  VII.]  THE  MERCHANT  AND  HIS  PARROT.
-
-
-29
 
 
 A swimmer  brings  pearls  from  the  deep  sea ;
@@ -2885,20 +2662,12 @@ Though  to  lay  bead  at  tbe  king’s  feet  is  due  obeisance,
 
 In  the  case  supposed  it  would  be  wrong  to  kiss  tbe  feet.
 The  king’s  jealousy  would  be  kindled  against  him
-^^bo,-aftgrJie  bad  seen  his  face,  preferredAu^-^mere  per-
-fume.
+^^bo,-aftgrJie  bad  seen  his  face,  preferredAu^-^mere  perfume.
 
 „ .3  comment  on  the  Hadis,  jealonsy  He  prohibits  ‘All  polluti^s,
 
-Verily  Sa’d  is  a jealous  man,  and  both  outward  and  inw’ard.  (Jvo-
-aui  more  jealous  than  he.  and  God  ran  vi.  152*)
+Verily  Sa’d  is  a jealous  man,  and  both  outward  and  inw’ard.  (Jvoaui  more  jealous  than  he.  and  God  ran  vi.  152*)
 more  jealous  than  I,  and  of  His
-
-
-30
-
-
-THE  MASNA  VI.
 
 
 [nooK  T.
@@ -2969,9 +2738,6 @@ tb<
 STORY  viL]  THE  MERCHANT  AND  HIS  PARROT.
 
 
-31
-
-
 My  Heart  says,  “ He  has  injured  me,”
 
 But  I laugh  at  these  pretended  injuries.
@@ -3038,12 +2804,6 @@ phenomena  ; again  withdraws  Himself  from  our
 ^ les,  the  revelation  of  Absolute  sight,"
 
 ■“emg  to  Its  votaries.  Sa’di  (Guli-
-
-
-32
-
-
-THE  M A SNA  VI.
 
 
 [noofi  I-
@@ -3130,9 +2890,6 @@ STORY  vn.]
 THE  HARPER.
 
 
-33
-
-
 The  •world  takes  its  being  from  me,  not  I from  it !
 I am  like  bees,  and  earthly  bodies  like  -wax/
 
@@ -3184,9 +2941,6 @@ emanates.
 
 ® The  night  of  his  marriage  with
 Safiyya,
-
-
-34
 
 
 THE  MASNA  VL
@@ -3263,8 +3017,7 @@ STonY  IX.]  THE  ARAB  AKD  HIS  WIFE.  35
 
 WTien  thou  cntcrcst  in  thou  art  at  home.
 
-Thou  whoso  knowledge  is  ignorance  of  the  Giver  of  know-
-ledge,
+Thou  whoso  knowledge  is  ignorance  of  the  Giver  of  knowledge,
 
 Thy  wailing  contrition  is  worse  than  tliy  sin.
 
@@ -3315,8 +3068,7 @@ The  waves  of  ihul  sea  rise  to  this  point.^
 Stoby  IX.  The  Arab  and  his  Wife  (p.  58).
 
 An  Arab  lived  with  his  wife  in  the  desert  in  extreme
-poverty,  so  that  they  became  a reproach  to  their  neigh-
-bours. The  wife  at  last  lost  patience,  and  began  to  abuse
+poverty,  so  that  they  became  a reproach  to  their  neighbours. The  wife  at  last  lost  patience,  and  began  to  abuse
 her  husband,  and  to  urge  him  to  improve  their  condition.
 The  Arab  rebuked  her  for  her  covetousness,  reminding  her
 that  the  Prophet  had  said,  “Poverty  is  my  glory,  and
@@ -3325,18 +3077,11 @@ that  the  Prophet  had  said,  “Poverty  is  my  glory,  and
 ■works  these  ecstatic  states  in  him.
 
 
-36
-
-
-THE  M A SNA  VI.
-
-
 (book  I.
 
 shovring  her  how  poverty  wns  a better  preparation  for
 death  than  riches,  and  iinally  threatening  to  divorce  her
-if  she  persisted  in  her  querulous  ways.  The  wife,  how-
-ever, by  blandishments  reduced  her  husband  to  obedience,
+if  she  persisted  in  her  querulous  ways.  The  wife,  however, by  blandishments  reduced  her  husband  to  obedience,
 as  wives  always  do,  and  made  him  promise  to  carry  out  her
 wishes.  She  directed  him  to  go  and  represent  their  case
 to  the  Khalifa  at  Bagdad,  and  to  make  him  an  offering
@@ -3379,9 +3124,6 @@ What  and  severity
 m nte7h  11”;  T"'"  'logins  to  pTellT’
 
 ■'1  ““git  tat  bloodshed
-
-
-37
 
 
 STORT  IX.]  THE  ARAB  AND  HIS  WIFE.
@@ -3450,9 +3192,6 @@ Koran  iii.  189.  his  wife,  Ayisha.
 
 
 THE  MASNA  VL
-
-
-38
 
 
 [DOOK  I.
@@ -3528,9 +3267,6 @@ boast.
 hxix.  24.  Pharaoh
 
 
-39
-
-
 STORY  IX.]
 
 
@@ -3602,12 +3338,6 @@ He  bums,  and  is  freed  from  effects.
 He  has  no  need  of  signs  to  assure  him  of  love,
 
 
-40
-
-
-THE  MASNAVL
-
-
 [book  l
 
 
@@ -3653,8 +3383,7 @@ Air-hV  t know  all  that  is  written  on  those  tablets,
 
 So  +1,  the  knowledge  of  his  own  ‘ names,’  ^
 
-angels  were  beside  themselves  at  his  in-
-struction,
+angels  were  beside  themselves  at  his  instruction,
 
 sanctification.
 
@@ -3663,9 +3392,6 @@ Was  ^Hng  nneqnXdW  bronght  abont.
 tWae  e^anse  of  tLf;nXrd“
 
 ’ KoLmL  29!*  writes  His  eternal  decrees.
-
-
-41
 
 
 STORY  IX.]  THE  ARAB  AND  HIS  WIFE.
@@ -3741,12 +3467,6 @@ Microcosm.
 “ Perfect  Man,”  or
 
 
-42
-
-
-THE  MASNAVL
-
-
 [book  I.
 
 
@@ -3818,9 +3538,6 @@ STORY  IS.]
 THE  ARAB  AND  HIS  WIFE.
 
 
-43
-
-
 She  is  vested  ■with  darkness  and  a gainsayer  of  reason.
 Learn  now  whence  springs  the  root  of  this  circumstance,
 From  this,  that  the  Whole  has  parts  of  divers  kinds.
@@ -3890,8 +3607,6 @@ THE  MASHAVL
 [rook  I.
 
 
-44
-
 But  he  who  is  frora  head  to  foot  a perfect  rose  or  lily,
 
 To  him  spring  brings  rejoicing.
@@ -3954,9 +3669,6 @@ aesired  that  it  might  be  the  figure  of  a Uon.
 STORY s.]  THE  MAN  WHO  WAS  TATTOOED.
 
 
-45
-
-
 But  vrlieii  Le  felt  the  pricks  of  tke  needles  ke  roared  witli
 pain,  and  said  to  the  artist,  “ What  part  of  the  lion  are
 you  now  painting  ? The  artist  replied,  I am  doing  the
@@ -4004,8 +3716,6 @@ tte  Perfect  Shaikh,  or  Spiritual  Director.  So  St.  John  of
 
 122)^  enjoin  obedience  to  the  Director  (Yaughan,
 
-
-46  THE  MASNAVL
 
 My  words  would  not  be  too  many  nor  admit  of  curtail
 ment,
@@ -4084,9 +3794,6 @@ STORY  X.]
 THE  LION  WHO  HUNTED.
 
 
-47
-
-
 Is  served  better  than  tbe  stranger  outside  tbe  gate.
 Tbe  difference  between  them  is  beyond  calculation ;
 One  sees  tbe  light,  tbe  other  only  tbe  veil.
@@ -4115,8 +3822,7 @@ and  “ Thou,”  and  “ My  share  ” and  “ Thy  share,”  when  it
 all  belonged  of  right  to  the  lion,  and  he  slew  the  wolf  with
 one  blow  of  his  paw.  Then,  turning  to  the  fox,  he  ordered
 him  to  make  the  division.  The  fox,  rendered  wary  by  the
-fate  of  the  wolf,  replied  that  the  whole  should  be  the  por-
-tion of  the  lion  The  lion,  pleased  with  his  self-abnegation,
+fate  of  the  wolf,  replied  that  the  whole  should  be  the  portion of  the  lion  The  lion,  pleased  with  his  self-abnegation,
 
 gave  it  all  up  to  him,  saying,  “ Thou  art  no  longer  a fox,
 but  myself.”
@@ -4128,8 +3834,7 @@ God  (p.  77).
 Once  a man  came  and  knocked  at  the  door  of  his  friend.
 
 IS  friend  said,  “ Who  art  thou,  0 faithful  one  ? ”
-e said,  “’Tis  I.”  He  answered,  “There  is  no  admit-
-tance.
+e said,  “’Tis  I.”  He  answered,  “There  is  no  admittance.
 
 ^ere  is  no  room  for  the  ‘ raw  ’ at  my  well-cooked  feast.
 3'Ught  but  fire  of  separation  and  absence
@@ -4181,9 +3886,6 @@ He  drew  forth  a mirror  from  his  side
 garea  is  the  clear  mirror  of  bread,
 
 ^ *35>  ana  the  not(
-
-
-49
 
 
 BTORT  siL]  JOSEPH  AND  THE  MIRROR.
@@ -4240,12 +3942,8 @@ And  this  same  weakness  lurks  in  the  soul  of  all  creatures.
 
 ^ Cp.  “ E.eligio  Medici,”  Sect.  35 : contrary  nnto  nothing  ; out  of  which
 “ Herein  is  divinity  conformant  unto  were  made  all  things,  and  so  nothing
-philosophy,  and  not  only  generation  became  something,  and  Omneity  in-
-founded  on  contrarieties,  but  also  formed  nullity  into  existence.”
+philosophy,  and  not  only  generation  became  something,  and  Omneity  infounded  on  contrarieties,  but  also  formed  nullity  into  existence.”
 creation.  God,  being  all  things,  is  - Horan  vii.  1 1.
-
-
-50
 
 
 THE  MASK  A VI.
@@ -4362,13 +4060,7 @@ the  Chinese  was  much  admired  j but  the  Greek  house
 ^ Blue  turbans  were  considered  a sign  of  hypocrisy  (Hafiz,  Ode  5).
 
 
-THE  MASNAVL
-
-
 [book  I.
-
-
-52
 
 
 carried  off  the  palm,  as  all  tlie  colours  of  the  other^  house
@@ -4432,9 +4124,6 @@ STORY  XV.]
 COUNSELS  OF  RESERVE.
 
 
-53
-
-
 That  you  may  see  your  own  pure  bright  essence !
 Yea,  see  in  your  heart  the  knowledge  of  the  Prophet,
 Without  book,  without  tutor,  without  preceptor.
@@ -4494,9 +4183,6 @@ been  there  in  the  spirit.  Zaid  answered  that  he  had  seen
 ■BismiUah  upon  it,  and,  after  spend-  now  Commentator).
 
 
-54
-
-
 THE  MASNAVr.
 
 
@@ -4521,8 +4207,7 @@ spirit ; and  the  Prophet  again  commanded  him  to  pause,
 adding  that  “ God  is  never  ashamed  to  say  the  truth,”  ^
 and  allows  His  Prophet  to  speak  forth  the  truth,  but
 that  for  Zaid  to  blab  forth  the  secrets  seen  in  ecstatic
-vision  would  be  wrong.  Zaid  replied  that  it  was  im-
-possible for  one  who  had  once  beheld  the  Sun  of  “ The
+vision  would  be  wrong.  Zaid  replied  that  it  was  impossible for  one  who  had  once  beheld  the  Sun  of  “ The
 
 
 Truth  ” to  keep  his  vision  a secret.  But  the  Prophet  in
@@ -4557,9 +4242,6 @@ STOKT  XV.]
 
 
 COUNSELS  OF  RESERVE.
-
-
-55
 
 
 To  look  straigkt  at  the  ligkt  of  the  sun  in  heaven,
@@ -4641,9 +4323,6 @@ THE  MASNAVr.
 [nooK  I.
 
 
-56
-
-
 Are  as  waves  on  waves  “ assembled  before  ns."  ^ ^
 
 WKen  night  returns  and  'tie  the  time  of  the  shy’s  lov(;e,
@@ -4675,8 +4354,7 @@ Story  XVI.  'AH's  Forbearance  (p.  92).
 with  a Magian  chief,  and  in  the  midst  of  the  struggle  the
 Magian  spat  in  his  face.  'Ali,  instead  of  talcing  vengeance
 on  him,  at  once  dropped  his  sword,  to  the  Magian’s  great
-astonishment.  On  his  inquiring  the  reason  of  such  for-
-bearance, ’Ali  informed  him  that  the  “ Lion  of  God  " did
+astonishment.  On  his  inquiring  the  reason  of  such  forbearance, ’Ali  informed  him  that  the  “ Lion  of  God  " did
 not  destroy  life  for  the  satisfaction  of  his  own  vengeance,
 but  sinlply^o  carry  out  God’s  will,  and  that  whenever  he
 saw  just  cause,  he  held  his  hand  even  in  the  midst  of  the
@@ -4696,9 +4374,6 @@ STORY  XVL]
 
 
 ALPS  FORBEARANCE.
-
-
-57
 
 
 eternal  purpose.  The  Magian  chief,  on  hearing  ’Ali’s
@@ -4768,12 +4443,6 @@ He  makes  those  crushed  ones  fair  in  His  sight.
 
 
 “ an  eye  for  an  eye  ” enjoined  in  the  Koran,  ii.
-
-
-THE  M A SNA  VI.
-
-
-58
 
 
 [book  I.
@@ -4856,9 +4525,6 @@ ETORT  S.VI.]
 ALPS  FORBEARANCE.
 
 
-59
-
-
 I slioiild  root  np  the  mountains  from  their  bases,
 
 And  lay  hare  the  secrets  of  a hundred  Adams,
@@ -4932,9 +4598,6 @@ Thine  is  the  dominion  and  the  glory  and  the  wealth !
 6o
 
 
-THE  MASNAVL
-
-
 [book  I.
 
 
@@ -5000,8 +4663,7 @@ Patience  will  accomplish  thy  desire,  not  haste.
 Be  patient,  God  knows  what  is  best.
 
 
-Muhammadans  think  the  for-
-bidden fruit  to  have  been  wheat.
+Muhammadans  think  the  forbidden fruit  to  have  been  wheat.
 
 
 ® The  descending  node  of  the
@@ -5063,15 +4725,13 @@ him  plenty  of  litter  and  fodder.  The  servant  assured  him
 that  his  minute  directions  were  supevdnous,  and  promised
 to  attend  to  the  ass  most  carefully ; but  when  his  master’s
 back  was  turned  he  neglected  the  ass,  and  the  poor
-animal  remained  all  night  without  water  or  food.  Conse-
-quently he  was  weak  and  unfit  to  travel  next  morning,
+animal  remained  all  night  without  water  or  food.  Consequently he  was  weak  and  unfit  to  travel  next  morning,
 and  in  spite  of  the  blows  and  kicks  that  were  showered  on
 him,  could  not  carry  his  master,  but  had  to  be  led.  The
 other  Sufis  who  were  travelling  with  his  owner  thought
 that  the  ass  was  useless,  and  when  they  arrived  at  the
 place  where  they  halted  for  the  night,  they  sold  the  ass  to
-a traveller,  and  with  the  proceeds  of  the  sale  bought  deli-
-cate viands  and  torches,  and  made  a feast.  The  owner  of
+a traveller,  and  with  the  proceeds  of  the  sale  bought  delicate viands  and  torches,  and  made  a feast.  The  owner  of
 the  ass,  who  was  ignorant  of  this  transaction,  shared  the
 east,  and  joined  in  the  chorus  sung  by  the  others,  “ The
 assns  gone  the  ass  is  gone,”  without  attaching  any  sense
@@ -5090,14 +4750,10 @@ STORT  I.]
 THE  suprs  BEAST,
 
 
-63
-
-
 Sufis.  In  tlie  course  of  this  story  there  occur  anecdotes
 of  God  consulting  with  the  angels  as  to  the  creation  of
 man,  of  a king  who  lost  his  hawk  and  found  it  again  in
-the  house  of  a poor  old  man,  and  of  Shaikh  Ahmad  Khiz-
-rawiya  buying  sweetmeats  for  his  creditors.
+the  house  of  a poor  old  man,  and  of  Shaikh  Ahmad  Khizrawiya  buying  sweetmeats  for  his  creditors.
 
 
 W/iy  the  ;poet  veils  Ms  doctrines  in  fables  (p.  104).
@@ -5152,13 +4808,8 @@ Till  the  sun  of  the  prophets  arose,  and  cried,
 “ Begone,  O slumber ; welcome,  0 pure  light ! ”
 
 
-THE  M A SNA  VI.
-
-
 [book  II.
 
-
-64
 
 Now  tlie  eye  sees  how  to  disbinguish  colours,
 
@@ -5230,9 +4881,6 @@ STORT  I.]
 THE  SUFTS  BEAST.
 
 
-65
-
-
 Ux^resdons  of  religious  or  other  feeling  derive  their  only
 value  froTTi  the  state  of  mind  from  which  they  'proceed
 (p.  107).
@@ -5294,12 +4942,6 @@ Sufi  who  was  put  to  death  at  Bag-  plurality  (see  Gulshan  i Raz,  1.
 dad  in  309  a.h.  for  using  these  710).
 
 ■'^'ords  3 gee  Gulshan  i Raz,  1.  104.
-
-
-66
-
-
-THE  MASNAVI.
 
 
 [book  n.
@@ -5368,9 +5010,6 @@ BTORT  1.]
 THE  SUFrS  BEAST.
 
 
-67
-
-
 JSvil  inJiiLcnce  of  covetousness  (p.  112).
 
 Would  you  have  eyes  and  ears  of  reason  clear,
@@ -5432,12 +5071,6 @@ reads  Ba  sati  for  Ma  sti.  expedition  to  Syria.
 - Koran  xL  53.
 
 
-68
-
-
-THE  MASNAVL
-
-
 [book  n.
 
 
@@ -5454,8 +5087,7 @@ that  be  bad  no  bouse  or  means  of  livelihood  except  that
 supplied  by  tbe  prison ; whereupon  tbe  Qazi  ordered  him
 to  be  carried  through  tbe  city,  and  proclamation  to
 be  made  that  he  was  a pauper,  that  no  one  might  be
-induced  to  lend  him  money  or  trade  with  bim.  Accord-
-ingly tbe  attendants  sought  for  a camel  whereon  to  carry
+induced  to  lend  him  money  or  trade  with  bim.  Accordingly tbe  attendants  sought  for  a camel  whereon  to  carry
 bim  through  tbe  city,  and  at  last  induced  a Kurd  who
 sold  firewood  to  lend  bis  camel  for  tbe  purpose.  Tbe
 Kurd  consented  from  greed  of  reward,  and  tbe  pauper,
@@ -5464,8 +5096,7 @@ from  morning  till  evening,  proclamation  being  made  in
 Persian,  Arabic,  and  Kurdish  that  be  was  a pauper.
 When  evening  came  tbe  Kurd  demanded  payment,  but
 tbe  pauper  refused  to  give  bim  anything,  observing  that
-if  be  bad  kept  bis  ears  open  be  must  have  beard  tbe  pro-
-clamation. Thus  tbe  Kurd  was  led  by  greed  to  spend
+if  be  bad  kept  bis  ears  open  be  must  have  beard  tbe  proclamation. Thus  tbe  Kurd  was  led  by  greed  to  spend
 tbe  day  in  useless  labour.
 
 Satan’s  ojjice  in  the  \oorld  (p.  114).
@@ -5554,13 +5185,7 @@ Koran  ii.  279.
 *■  Cf.  Gulshan  i Raz,  p.  86.
 
 
-THE  MASNAVL
-
-
 [book  n.
-
-
-70
 
 
 Ah. ! sweep  out  of  your  heart  these  evil  suggestions^.
@@ -5693,12 +5318,6 @@ He  bites  bis  finger  in  spite  against  strangers.
 naught  in  the  presence  of  the  Deity.
 
 
-72
-
-
-THE  MASNAVL
-
-
 [book  n.
 
 Then  follows  an  anecdote  of  a man  wlio  slew  his  mother
@@ -5748,13 +5367,9 @@ to  outward  accidents,  but  to  the  “substance,”  the  eteioial
 BTORT  m.]  THE  KING  AND  HIS  TWO  SLA  VES.
 
 
-73
-
-
 soul.  The  slave  in  reply  urged  that  the  accidents  of  good
 works  and  thoughts  •will  in  some  way  hear  fruit  in  the
-next  world,  pointing  out  that  thought  is  always  the  pre-
-cursor of  the  completed  work,  as  the  plan  of  the  architect
+next  world,  pointing  out  that  thought  is  always  the  precursor of  the  completed  work,  as  the  plan  of  the  architect
 precedes  the  building,  and  the  gardener’s  design  the
 perfect  fruit  resulting  from  his  labours.  He  added  that
 the  world  is  only  the  realised  thought  of  “Universal
@@ -5763,8 +5378,7 @@ he  had  held  this  discourse,  and  summoned  the  other,  and
 told  him  that  his  fellow  slave  had  given  a bad  account  of
 him,  and  asked  what  he  had  to  say.  He  replied  that  his
 fellow  slave  was  a liar  and  a rascal,  and  the  king  then
-dismissed  him,  observing  that,  in  accordance  ■with  the  tra-
-dition, “ Every  man  is  hidden  under  his  own  tongue,”  his
+dismissed  him,  observing  that,  in  accordance  ■with  the  tradition, “ Every  man  is  hidden  under  his  own  tongue,”  his
 tongue  had  betrayed  his  inner  vileness.  “ The  safety  of  a
 man  lies  in  holding  his  tongue.”
 
@@ -5801,13 +5415,7 @@ Koran  xxiv.  43.  The  prophetic  handed  on  from  one  to  another.
 * Koran  xii.  80.
 
 
-THE  MASNAVL
-
-
 {book  n.
-
-
-74
 
 
 "WTien  iSolomon  was  ntirfctired  by  its  fruition,
@@ -5877,21 +5485,16 @@ by  Mnhammadans  to  be  the  Bame
 person  as  Khizr  or  Elias.
 
 3 Zakhariah  the  prophet  is  said
-to  have  taken  refuge  from  his  per-
-secutors in  the  hollow  of  a tree.
+to  have  taken  refuge  from  his  persecutors in  the  hollow  of  a tree.
 
 
 Koran  liv,  i,
 
-® ’Omar  was  called  “The  I>is-
-cemer.”
+® ’Omar  was  called  “The  I>iscemer.”
 
 ® He  bore  this  name  because  be
 had  two  daughters  of  Muhammad
 as  his  wives.
-
-
-75
 
 
 ETORTiii.]  THE  KING  AND  HIS  TWO  SLAVES.
@@ -5959,12 +5562,6 @@ The  “way”  means  the  Sufi  are  not  even  known  to  one  another,
 uoctrines.
 
 
-76
-
-
-THE  MASNAVI.
-
-
 [book  ir.
 
 
@@ -6016,9 +5613,6 @@ STORY  V.]
 
 
 THE  THIRSTY  MAN.
-
-
-77
 
 
 Concupiscence  in  the  flesh  and  courage  in  the  heart.
@@ -6083,8 +5677,7 @@ with  the  Primal  Soul.
 again  in  a new  creation  ” (Gulshan
 i Raz,  p.  66).  constant  effluxes
 from  Absolute  Being  the  world  of
-phenomena  is  every  moment  re-
-newed.
+phenomena  is  every  moment  renewed.
 
 
 [book  n.
@@ -6178,8 +5771,7 @@ bathe  because  he  was  ashamed  to  go  into  the  water,  with  the
 moral  that  “ Shame  hinders  religion ; ” ^ and  then  another
 of  Zu’l  Nun,  a celebrated  Egyptian  Sufi  of  the  third
 century  a.h.  Zu’l  Niin  appeared  to  his  ignorant  friends
-to  be  mad,  and  they  accordingly  confined  him  in  a mad-
-kouse.  After  a time  they  thought  that  he  was  not  really
+to  be  mad,  and  they  accordingly  confined  him  in  a madkouse.  After  a time  they  thought  that  he  was  not  really
 mad,  but  had  feigned  madness  for  some  deep  purpose,  and
 they  went  to  the  madhouse  to  inquire  into  the  state  of  his
 health.  When  they  arrived  there,  Zu’l  Niin  asked  them
@@ -6201,14 +5793,10 @@ Job,  though  “gifted  with  -wisdom  by  God,”  was  a slave.
 ^ Preytag,  ArabumProverbia,  yoL  religion;”  and  the  other,  ‘‘Sham&
 PP-  379  and  418,  gives  two  pro-  hinders  getting  a livelihood.”
 
-Verbs — one,  "Shame  is  a part  of  ® See  Koran  xxxi.  Another  anec-
-dote of  his  wit  occurs  in  Book  I.
+Verbs — one,  "Shame  is  a part  of  ® See  Koran  xxxi.  Another  anecdote of  his  wit  occurs  in  Book  I.
 
 
 8o
-
-
-THE  MASNAVL
 
 
 [book  n.
@@ -6342,12 +5930,6 @@ guide  of  life  ”),
 ♦ Koran  vi.  77*
 
 
-82
-
-
-THE  MASNAVL
-
-
 [book  n.
 
 as  opposed  to  true  reason  as  ATdtIi  Jahl  was  to  Mnliammad ;
@@ -6356,8 +5938,7 @@ inner  reason,  man  sees  that  the  body  is  only  foam,  and  the
 heart  the  limitless  ocean.  Afterwards  comes  an  anecdote
 of  a philosopher  who  was  struck  blind  for  cavilling  at  the
 verse,  “ What  think  ye  ? If  at  early  mom  your  waters
-shall  have  sunk  away,  who  will  then  give  you  clear  run-
-ing  water  ? ” ^ This  is  succeeded  by  the  story  of  Moses
+shall  have  sunk  away,  who  will  then  give  you  clear  runing  water  ? ” ^ This  is  succeeded  by  the  story  of  Moses
 and  the  shepherd.  Moses  once  heard  a shepherd  praying
 as  follows : “ 0 God,  show  me  where  thou  art,  that  I may
 become  Thy  servant.  • I will  clean  Thy  shoes  and  comb  Thy
@@ -6528,9 +6109,6 @@ Witb  wbat  objeet  hast  thou  framed  this  plan
 7 burnt  np  mosqnes  and  them  who  worship  thereto  ?
 
 
-85
-
-
 BTORT  vni.3  THE  If  AH  AHD  THE  PET  DEAR.
 
 Paradise  is  attaclicd  to  requirements  unpleasant  to  us,
@@ -6585,8 +6163,7 @@ A kind  man,  seeing  a serpent  overcoming  a bear,  went
 to  the  hear’s  assistance,  and  delivered  him  from  the  serpent.
 The  hear  was  so  sensible  of  the  kindness  the  man  a
 done  him  that  he  followed  him  about  wherever  he  went,
-and  became  his  faithful  slave,  guarding  him  from  every-
-thing that  might  annoy  him.  One  day  the^  man  was
+and  became  his  faithful  slave,  guarding  him  from  everything that  might  annoy  him.  One  day  the^  man  was
 lying  asleep,  and  the  bear,  according  to  his  custom,
 was  sitting  by  him  and  driving  oflT  the  flies.  The  flies
 
@@ -6658,9 +6235,6 @@ So  that  the  milk  of  His  love  may  hoil  up.^
 BTOBTvni.]  THE  MAN  AND  THE  PET  BEAR.
 
 
-87
-
-
 Moses  and  ths  worshipper  of  the  calf  (p.  145).
 
 
@@ -6721,9 +6295,6 @@ True,  if  it  lose  his  wolf-like  nature  it  becomes  a friend ;
 Even  as  the  dog  of  the  cave  became  a son  of  man.^
 
 
-1
-
-
 See  Koran  xx.  90.
 
 
@@ -6734,9 +6305,6 @@ See  Koran  xx.  90.
 
 
 STOBYVin.]  THE  MAN  AND  THE  PET  BEAR.
-
-
-87
 
 
 Moses  and  the  worshipper  of  the  calf  (p.  145)-
@@ -6864,9 +6432,6 @@ Cp.  Matthew  xiv.  40.
 STOEY  X]
 
 
-89
-
-
 BAYAZtD  AND  THE  SAINT.
 
 that  lay  on  his  route.  At  last  lie  discover^  the  “ Bdi^r
@@ -6934,9 +6499,6 @@ And  placed  them  as  golden  earrings  in  his  ears.
 heart  of  my  faithful  servant  contuns  me.”
 
 
-90
-
-
 THE  MASH  AVI.
 
 
@@ -6996,9 +6558,6 @@ Have  laid  this  injunction  upon  the  world.^
 
 ^ Preytag  quotes  a saying  of  right  course  ” (Arabum  Proverbia,
 ’Omar,  “A  fool  may  indicate  the  L p.  566).
-
-
-91
 
 
 6T0RY  X.]  BAYAZtD  AND  THE  SAINT.
@@ -7064,9 +6623,6 @@ Yet  what  damage  is  that  to  His  perfection  ?
 course.  it  darkeneth,  thy  Lord  hath  not  for-
 
 * Koran  xciii. ; By  the  noonday  saken  thee  nor  been  displeased.
-
-
-92
 
 
 THE  MASHA  VI.
@@ -7136,9 +6692,6 @@ Was  mdeed  Hell  and  the  place  of  dread  torufeut
 ■world  and  goo?  in  torment  of  the  fir
 
 next,  and  (Koran  ii.  197).
-
-
-93
 
 
 STORY  X.]  BAYAZiD  AND  THE  SAINT.
@@ -7212,12 +6765,6 @@ Are  moths  burnt  with  the  torch  of  the  Beloved’s  face.”
 ^ I.e.,  to  annihilation  of  self  in  God,  as  a moth  in  the  flame.
 
 
-94
-
-
-THE  M A SNA  VI.
-
-
 [book  II.
 
 
@@ -7281,16 +6828,12 @@ a thief  Hhr.  r ^ ""'eht  way.  How  can  I trusl
 * Atarld  or  Mercury.
 
 
-95
-
-
 STOEY SI.}  MO'AVIA  AND  JBLIS.
 
 and  tliat  I cannot  quite  abandon  my  original  occupation.
 You  may  travel  to  Eome  or  Cathay,  but  stiU  you  retain
 the  love  of  your  fatherland.  I still  retain  my  love  of  God,
-■who  fed  me  -when  I -was  young ; nay,  even  though  I re-
-volted from  Him,  that  was  only  from  jealousy  (of  Adam),
+■who  fed  me  -when  I -was  young ; nay,  even  though  I revolted from  Him,  that  was  only  from  jealousy  (of  Adam),
 and  jealousy  proceeds  from  love,  not  from  denial  of  Go  .
 I played  a game  of  chess  with  God  at  His  own  desire,  and
 though  I was  utterly  checkmated  and  ruined,  in  my  ruin
@@ -7313,8 +6856,7 @@ him  against  the  sophistries  of  Iblis,  and  again  adjured
 Iblis  to.  cease  his  arguments  and  "tell  plainly  the  reason
 why  he  had  awakened  fiim,  Iblis,  instead  of  answering,
 continued  to  justify  himself,  saying  how  hard  it  was  that
-men  and  women  should  blame  him  when  they  did  any-
-thing "wrong,  instead  of  blaming  their  o'wn  e'vil  lusts.
+men  and  women  should  blame  him  when  they  did  anything "wrong,  instead  of  blaming  their  o'wn  e'vil  lusts.
 Mo’avia,  in  reply,  reproached  him  with  concealing  the
 truth,  and  ultimately  brought  him  to  confess  that  the  true
 reason  why  he  had  awakened  tiim  was  this,  that  if  he
@@ -7325,9 +6867,6 @@ have  counted  for  as  many  as  two  hundred  ordinary  prayers.
 
 
 1 Sea  Koran  xi.  63.
-
-
-96
 
 
 THE  MASHA  VI.
@@ -7458,12 +6997,6 @@ Mentions  a hundred  marks  without  any  foundation.
 P-  385)-
 
 
-98
-
-
-THE  MASNA  VI.
-
-
 [boob.  II-
 
 
@@ -7530,9 +7063,6 @@ Search  well  and  find  out  that  true  one.
 wiis  revealed.
 
 
-99
-
-
 stoat  xil]  the  four  HIF!DUSTA^o1S.
 
 Tell  tko  wary  and  discerning  believer
@@ -7571,13 +7101,11 @@ saying,  “ O simpleton,  why  do  you  rebuke  him?  Rather
 rebuke  yourself.”  Last  of  all,  the  fourth  said,  “ God  be
 praised  that  I have  not  fallen  into  the  same  ditch  as  my
 three  companions.”  The  moral  is,  not  to  find  fault  with
-others,  but  rather,  according  to  the  proverb,"  to  be  ad-
-monished by  their  bad  example.  A-prerpos  of  this  proverb,
+others,  but  rather,  according  to  the  proverb,"  to  be  admonished by  their  bad  example.  A-prerpos  of  this  proverb,
 a story  is  told  of  two  prisoners  captured  by  the  tribe  of
 Ghuz.  The  Ghnzians  were  about  to  put  one  of  them  to
 death,  to  frighten  the  other,  and  make  him  confess  where
-the  treasure  was  concealed,  when  the  doomed  man  dis-
-covered their  object,  and  said,  “ O noble  sirs,  kill  my
+the  treasure  was  concealed,  when  the  doomed  man  discovered their  object,  and  said,  “ O noble  sirs,  kill  my
 companion,  and  frighten  me  instead.”
 
 1 Miahksit  ul  Masibih,  by  Mat-  ® Preytag,  Arabum  Provetbia,  i.
@@ -7661,8 +7189,7 @@ was  so  struck  by  his  sagacity  that  he^  conceive  a gieat
 respect  for  him,  and  mounted  him  on  his  camel.  en  e
 said,  “ As  you  possess  such  great  wisdom,  I piesume  a
 you  are  a king  or  a Vazir,  or  at  least  a vmy  tic  an
-powerful  noble.”  The  theologian  replied,  “ On  the  con-
-trary, I am  a very  poor  man ; all  the  riches  my  learning
+powerful  noble.”  The  theologian  replied,  “ On  the  contrary, I am  a very  poor  man ; all  the  riches  my  learning
 has  brought  me  are  weariness  and  headaches,  and  I know
 not  wtere  to  look  for  o,  loof  of  bread.”  The  Arab  swd,
 “ In  that  case  get  oSE  m?  camel  and  go  your  way,  and  suSer
@@ -7670,26 +7197,17 @@ me  to  go  mine,  for  I see  your  learning  brings  ill  luck.  T e
 
 moral  of  the  story  is  the  worthlessness  of  mere  uman
 knowledge,  and  its  inferiority  to  the  dmne  knowledge
-proceeding  from  inspiration.  This  thesis  is  further  illus-
-trated by  an  account  of  the  mighty  works  which  were
+proceeding  from  inspiration.  This  thesis  is  further  illustrated by  an  account  of  the  mighty  works  which  were
 done  by  the  saint  Ibrahim  bin  Adham,  through  the  divine
-knowledge  that  God  had  given  him.  Ibrahim  was  origi-
-nally prince  of  Balkh,  but  renounced  his  kingdom  and
+knowledge  that  God  had  given  him.  Ibrahim  was  originally prince  of  Balkh,  but  renounced  his  kingdom  and
 became  a saint.  One  day  he  was  sitting  by  the  shore
 mending  his  cloak,  when  one  of  his  former  subjects  passed
-by  and  marvelled  to  see  him  engaged  in  such  a mean  occu-
-pation. The  saint  at  once,  by  inspired  knowledge,  read
+by  and  marvelled  to  see  him  engaged  in  such  a mean  occupation. The  saint  at  once,  by  inspired  knowledge,  read
 his  thoughts,  and  thus  corrected  his  false  impressions.
 He  took  the  needle  with  wHch  he  was  mending  his  cloak
 and  cast  it  into  the  sea.  Then  with  a loud  voice  he  cried
 out,  “ O needle,  rise  again  from  the  midst  of  the  sea,  and
 come  back  again  into  my  hands.  Without  a moment  a
-
-
-102
-
-
-THE  MASNAVL
 
 
 [book  ir.
@@ -7817,9 +7335,6 @@ He  said,  “If  He  has  punished  me,  where  is  the  sign  ot  it  ^
 Shuib  said,  “ O Lord,  he  repels  my  arguments.
 
 He  seeks  for  a sign  of  that  punishment.
-
-
-104
 
 
 THE  MASHA  VL
@@ -7994,8 +7509,7 @@ This  truth-fraught  saying  of  mine  is  no  vain  pretence, — ■
 
 ‘ Though  I talk  half  the  night  I am  superior  to  you  ; ’
 
-And  again,  ^Eear  not  the  night;  here  am  I,  your  kins-
-man.’
+And  again,  ^Eear  not  the  night;  here  am  I,  your  kinsman.’
 
 These  two  assertions  of  mine  will  both  seem  true  to  you
 The  moment  you  recognise  the  voice  of  your  kinsman.
@@ -8012,9 +7526,6 @@ But  the  uninspired  fool  who  from  ignorance
 
 
 THE  TREE  OF  LIFE.
-
-
-107
 
 
 ETORT  XVII.]
@@ -8076,9 +7587,6 @@ nigh  unto  them.  I will  answer  the  “ Luke  i.  41.
 io8
 
 
-THE  MASNAVL
-
-
 [book  it.
 
 
@@ -8087,11 +7595,9 @@ whosoever  ate  of  its  fruit  lived  for  ever.  Hearing  this,^  a
 king  deputed  one  of  his  courtiers  to  go  in  quest  of  it.
 The  courtier  accordingly  proceeded  to  Hindustan,  and
 travelled  all  over  that  country,  inquiring  of  every  one  he
-met  where  this  tree  was  to  be  found.  Some  of  these  per-
-sons professed  their  entire  ignorance,  others  joked  him,
+met  where  this  tree  was  to  be  found.  Some  of  these  persons professed  their  entire  ignorance,  others  joked  him,
 and  others  gave  him  false  information;  and,  finally,  he
-had  to  return  to  his  country  with  his  mission  unaccom-
-plished. He  then,  as  a last  resource,  betook  himself  to  the
+had  to  return  to  his  country  with  his  mission  unaccomplished. He  then,  as  a last  resource,  betook  himself  to  the
 sage  who  had  first  spoken  of  the  tree,  and  begged  for
 further  information  about  it,  and  the  sage  replied  to  him
 as  follows ; —
@@ -8146,9 +7652,6 @@ STOHY  xvni.]
 THE  YOUNG  DUCKS.
 
 
-109
-
-
 The  differences  of  sects  arise  from  His  names ;
 
 When  they  pierce  to  His  essence  they  find  His  peace  ! ”
@@ -8164,8 +7667,7 @@ would  buy  “ indb,”  while  the  Turk  and  the  Greek  were
 for  buying  “ 'azum,  ” and  “ astapMl  ” {stapJiyle),  respectively.
 Now  all  these  words  mean  one  and  the  same  thing,  viz.,
 “ grapes  ; ” but,  owing  to  their  ignorance  of  each  other’s
-languages,  they  fancied  they  each  wanted  to  buy  some-
-thing different,  and  accordingly  a violent  quarrel  arose
+languages,  they  fancied  they  each  wanted  to  buy  something different,  and  accordingly  a violent  quarrel  arose
 beween  them.  At  last  a wise  man  who  knew  all  their
 languages  came  up  and  explained  to  them  that  they  were
 all  wishing  for  one  and  the  same  thiug.
@@ -8448,9 +7950,6 @@ Contraries  flee  away  from  contraries ;
 address  me  not.’  141.”  ’
 
 
-THE  MASNA  VI.
-
-
 [book  hi.
 
 
@@ -8552,8 +8051,7 @@ before  accepting  his  invitation,  having  doubts  as  to  his
 sincerity,  and  remembering  the  Sadis,  “ Caution  consists
 in  suspecting  others.”  ^ But  after  ten  years’  solicitation  he
 at  length  yielded,  and  set  off  with  his  family  to  the  village.
-On  his  arrival  the  villager  shut  the  door  in  his  face,  say-
-ing that  he  did  not  know  him,  and  the  townsman  had  to
+On  his  arrival  the  villager  shut  the  door  in  his  face,  saying that  he  did  not  know  him,  and  the  townsman  had  to
 pass  five  nights  in  the  cold  and  rain.  At  last,  exhausted
 with  suffering,  he  implored  the  villager  to  give  him.
 shelter,  promising  to  render  service  in  return.  The  villager
@@ -8568,9 +8066,6 @@ wolf.  The  villager  abused  him  roundly,  saying  that  he
 Aqzam  bin  Zaid.  '
 
 
-THE  MASNAVI.
-
-
 [book  hi-
 
 
@@ -8581,10 +8076,8 @@ Mmself  would  not  iiave  taken  an  ass  for  a wolf,  even  on
 tke  darkest  nigkt.  The  townsman  replied,  “ If  tkat  ke  so,
 you  are  self-convicted  of  inhumanity,  for  you  must  have
 recognised  me,  your  friend  of  ten  years’  standing,  the
-moment  I knocked  at  your  door.  As  for  me,  I am  igno-
-rant of  all  hut  Allah,  and,  moreover,  was  unable  to  see^  in
-the  darkness ; and  God  has  said,  ‘ No  criminality  is  im-
-puted to  the  blind.’  ^ But  your  blindness  in  refusing  to
+moment  I knocked  at  your  door.  As  for  me,  I am  ignorant of  all  hut  Allah,  and,  moreover,  was  unable  to  see^  in
+the  darkness ; and  God  has  said,  ‘ No  criminality  is  imputed to  the  blind.’  ^ But  your  blindness  in  refusing  to
 recognise  me  was  wilful,  and  your  claims  to  humanity
 are  thus  proved  to  be  false  by  the  test  to  which  you  have
 been  submitted.”
@@ -8849,12 +8342,6 @@ But,  like  those  drunkards  who,  when  they  drink  wine.
 Bear  ripe  fruits  of  wisdom  of  penitence.
 
 
-120
-
-
-THE  MASNAVI.
-
-
 [book  dl
 
 
@@ -8865,13 +8352,11 @@ Story  III.  The  Jctckal  who  'pretended  to  be  a Peacock
 A jackal  fell  into  a dye-pit,  and  kis  skin  was  dyed  of
 various  colours.  Proud  of  kis  splendid  appearance,  ke
 returned  to  Ms  companions,  and  desired  tkem  to  address
-kim  as  a peacock.  But  tkey  proceeded  to  test  kia  preten-
-sions, saying,  “ Dost  tkou  scream  like  a peacock,  or  strut
+kim  as  a peacock.  But  tkey  proceeded  to  test  kia  pretensions, saying,  “ Dost  tkou  scream  like  a peacock,  or  strut
 about  gardens  as  peacocks  are  wont  to  do  ? ” And  ke  was
 forced  to  admit  tkat  ke  did  not,  wkereupon  tkey  rejected
 Ms  pretensions.  Anotker  story,  also  on  tke  subject  of  false
-pretenders,  follows.  A proud  man  wko  lacked  food  pro-
-cured a skin  full  of  fat,  greased  Ms  beard  and  lips  witk  it,
+pretenders,  follows.  A proud  man  wko  lacked  food  procured a skin  full  of  fat,  greased  Ms  beard  and  lips  witk  it,
 and  called  on  Ms  friends  to  observe  kow  luxuriously  ke
 kad  dined.  But  Ms  belly  was  vexed  at  tkis,  because  it  was
 hungry,  and  ke  was  destroying  kis  ckance  of  being  invited
@@ -8883,8 +8368,7 @@ resembled  tke  pretensions  of  tkis  jackal,  and  adds  tkat  all
 suck  false  pretenders  may  be  detected  by  tke  mark  noted
 in  tke  Koran,  “ Ye  skall  know  tkem  by  tke  strangeness  of
 tkeir  speech.”  ^ Tkis  recalls  tke  story  of  Harut  and  Marut,
-two  angels  wko  were  very  severe  on  tke  frailties  of  man-
-kind, and  whom  God  sent  down  upon  tke  earth  to  be
+two  angels  wko  were  very  severe  on  tke  frailties  of  mankind, and  whom  God  sent  down  upon  tke  earth  to  be
 tempted,  with  tke  result  tkat  tkey  both  succumbed  to  tke
 charms  of  tke  daughters  of  men.^
 
@@ -8892,8 +8376,7 @@ charms  of  tke  daughters  of  men.^
 Story  IV . Moses  and  Pharaoh  (p.  207) .
 
 Then  follows  a long  account  of  tke  birth  of  Moses,  of
-Pharaoh  s devices  to  kill  Mm  in  kis  infancy,  of  kis  educa-
-tion in  Pharaoh  s house-,  of  kis  desiring  Pharaoh  to  let  tke
+Pharaoh  s devices  to  kill  Mm  in  kis  infancy,  of  kis  education in  Pharaoh  s house-,  of  kis  desiring  Pharaoh  to  let  tke
 children  of  Israel  go,  and  of  kis  contest  witk  tke  magicians
 
 Koran  xlvu.  32.  2 Koran  ii.  96.
@@ -8963,12 +8446,6 @@ If  you  wish  to  keep  that  snake  tied  up
 Without  trouble,  be  faithful,  be  faithful !
 
 But  how  can  base  men  attain  this  wish  ?
-
-
-122
-
-
-THE  MASNAVI.
 
 
 [book  III.
@@ -9090,12 +8567,6 @@ Who  said,  “ I desire  not  to  enter  the  ark  of  Noah  passing
 by.”
 
 
-124
-
-
-THE  M A SNA  VI.
-
-
 [book  in.
 
 
@@ -9145,8 +8616,7 @@ Nor  did  his  advice  make  any  impression  on  Canaan  ;
 While  they  were  yet  talking  a violent  wave
 Smote  Canaan’s  head,  and  he  was  overwhelmed.
 
-Meconciliation  of  the  two  traditions^  “ JLcguiescence  in  in-
-fidelity is  infidelity  f and  “ Whoso  acquiesces  not  in  God's
+Meconciliation  of  the  two  traditions^  “ JLcguiescence  in  infidelity is  infidelity  f and  “ Whoso  acquiesces  not  in  God's
 ordinance  desires  another  Lord  besides  rm"  (p.  219).
 
 Yesterday  an  inquirer  questioned  me,
@@ -9218,11 +8688,7 @@ Por  I have  selected  a young  bride,  0 my  son.
 The  barber  cut  off  his  beard  and  laid  it  before  him.
 Saying,  “ Do  you  part  them,  the  task  is  beyond  me.
 
-^ Or  “ decreed,  not  decree  ” {magA  nai  qaza).  I confess  I do  not  under-
-stand the  distinction-  “ See  Gulshan  i Raz,  L 287.
-
-
-126
+^ Or  “ decreed,  not  decree  ” {magA  nai  qaza).  I confess  I do  not  understand the  distinction-  “ See  Gulshan  i Raz,  L 287.
 
 
 THE  M ASM  AVI.
@@ -9288,9 +8754,6 @@ your  own  effusions  and  ecstatic  raptures.  I see,  as  it  were,
 ^ The- four  last  couplets  are  omitted  in  the  Bulaq  edition.
 
 
-127
-
-
 8T0RTVI.]  THE  LOVER  AND  HIS  MISTRESS.
 
 the  water  which  I have  longed  for  before  me,  and  yet  you
@@ -9337,8 +8800,7 @@ But  the  pure  one  is  drowned  in  overwhelming  love.
 
 A child  of  any  one  is  never  free  from  season  and  state.
 
-The  pure  one  is  drowned  in  the  light  “ that  is  not  be-
-gotten,”
+The  pure  one  is  drowned  in  the  light  “ that  is  not  begotten,”
 
 ‘‘  What  begets  not  and  is  not  begotten  is  God.
 
@@ -9347,12 +8809,6 @@ Go ! seek  such  love  as  this,  if  you  are  alive  j
 1 See  Gulshan  i Raz.  1.  850.  ..  “ 77-
 
 3 Koran  ciu.  3-
-
-
-128
-
-
-THE  M A SNA  VI,
 
 
 [book  in-
@@ -9408,9 +8864,6 @@ This  bird  of  opinion  goes  on  rising  and  falling
 On  one  wmg,  in  hope  to  reach  his  nest.
 
 
-129
-
-
 STORY  vm.]  THE  BOYS  AND  THEIR  TEACHER.
 
 When  he  escapes  from  opinion  and  knowledge  is  seen,
@@ -9452,8 +8905,7 @@ To  illustrate  the  force  of  imagination  or  opinion,  a story
 is  told  of  a trick  played  by  boys  upon  their  master.  The
 boys  wished  to  obtain  a holiday,  and  the  sharpest  of  them
 suggested  that  when  the  master  came  into  the  school  each
-boy  should  condole  with  him  on  his  alleged  sickly  appear-
-ance. Accordingly,  when  he  entered,  one  said,  “ 0 master,
+boy  should  condole  with  him  on  his  alleged  sickly  appearance. Accordingly,  when  he  entered,  one  said,  “ 0 master,
 how  pale  you  are  looking ! ” and  another  said,  “ You  are
 looking  very  ill  to-day,”  and  so  on.  The  master  at  first
 answered  that  there  was  nothing  the  matter  with  him,  but
@@ -9470,9 +8922,6 @@ wife  assured  him  he  was  not  looking  pale,  and  ofiered  to
 THE  MASNA  VL
 
 
-130
-
-
 [book  III.
 
 
@@ -9480,8 +8929,7 @@ convince  liirn  by  bringing  a mirror ; but  be  rejpQsed  to  look
 at  it,  and  took  to  bis  bed.  He  tben  ordered  tbe  boys  to  begin
 tbeir  lessons ; but  tbey  assured  bim  tbat  tbe  noise  made
 bis  bead  acbe,  and  be  believed  tbem,  and  dismissed  tbem
-to  tbeir  homes,  to  tbe  annoyance  of  tbeir  mothers.  Apro-
-pos of  tbe  sharpness  of  tbe  boy  who  devised  this  trick,
+to  tbeir  homes,  to  tbe  annoyance  of  tbeir  mothers.  Apropos of  tbe  sharpness  of  tbe  boy  who  devised  this  trick,
 tbe  poet  takes  occasion  to  controvert  tbe  opinion  of  tbe
 Miiftazalites,  tbat  all  men  are  bom  with  equal  ability,  and
 to  express  bis  agreement  with  tbe  doctrine  of  tbe  Sunnis,
@@ -9579,12 +9027,6 @@ Consumed  by  lusts  and  riotous  living,
 “ Koran  Iv.  29 ; cp.  John  v.  17.  ui.  p.  490.
 
 
-132
-
-
-THE  M A SNA  VI.
-
-
 [book  hi.
 
 
@@ -9664,9 +9106,6 @@ the  wife  “laden  with  firewood,  and
 on  her  neck  a rope  of  palm  fibre.”
 
 
-133
-
-
 SIOKY  X.]  THE  OLD  MAN  AND  HIS  SONS.
 
 Saying,  “ Aid  me  to  escape  from  this  load.
@@ -9724,12 +9163,6 @@ I shake  down  the  leaves  of  outward  sense  from  the  tree.
 Know,  O wife,  outward  sense  is  captive  to  reason.
 
 And  reason,  again,  is  captive  to  spirit.
-
-
-134
-
-
-THE  MASNAVL
 
 
 [book  III.
@@ -9857,12 +9290,6 @@ In  the  view  of  that  faithful  one  his  children’s  deaths
 Are  as  sweetmeats  to  a starving  beggar.
 
 
-136
-
-
-THE  MASNAVI.
-
-
 [book  in.
 
 
@@ -9899,8 +9326,7 @@ seven  men  changed  into  seven  trees ; but,  strange  to  say,
 although  crowds  of  people  were  passing  by,  none  of  them
 could  see  these  trees,  so  that  Daquqi  shared  the  feelings  of
 the  apostles  “ who  lost  all  hope  ” (of  convincing  the  world),
-and  deemed  that  they  were  reckoned  as  liars.”  ^ Possess-
-ing his  soul  in  patience,  Daquqi  still  watched  on,  and  saw
+and  deemed  that  they  were  reckoned  as  liars.”  ^ Possessing his  soul  in  patience,  Daquqi  still  watched  on,  and  saw
 the  seven  trees  bowing  down  in  prayer,  and  was  reminded
 of  the  text,  “ Plants  and  trees  bend  in  adoration.’’  3 Pre-
 ^ntly  the  seven  trees  again  changed  into  seven  men,  and
@@ -9908,9 +9334,6 @@ Daquqi  was  appointed  to  conduct  their  devotions.  While
 e was  yet  acting  as  Imam  in  front  of  them,  and  they  were
 o owmg  the  prayers  he  recited,  a ship  was  seen  in  great
 ^ Koran  ii.  136.  2 Koran  xii.  no.  3 Koran  Iv.  5.
-
-
-137
 
 
 stoat  sn.]  THE  VISIONS  SEEN  BY  DAQUQI.
@@ -9978,8 +9401,6 @@ THE  MASHA  VI.
 
 [fiOOK  HI.
 
-
-138
 
 Thus  Daquqi,  in  devotions  and  praises  and  prayers,
 “Was  ever  seeking  the  particular  favourites  oi  God.
@@ -10088,8 +9509,7 @@ his  food  (p.  241)*
 
 After  the  petitioner  had  slain  and  eaten  the  cow,  the
 owner  of  the  cow  came  up  and  accused  him  of  theft,  and
-seiziug  him  by  the  coUar,  dragged  him  before  the  judgment-
-seat  of  the  prophet  David.  When  he  had  stated  his  case,
+seiziug  him  by  the  coUar,  dragged  him  before  the  judgmentseat  of  the  prophet  David.  When  he  had  stated  his  case,
 David  ordered  the  accused  to  make  restitution,  telling  him
 
 
@@ -10099,8 +9519,7 @@ that  ho  must  not  break  tho  law.  xVt  this  order  tho  accused
 redoubled  his  cries,  tolling  David  that  he  was  siding  with
 an  oppressor.  David  w’as  staggered  at  tho  man’s  assurance,
 and  finally  resolved  to  take  further  timo  for  consideration
-before  deciding  tho  case.  After  private  meditation  ho  re-
-versed his  former  sentenco,  and  directed  tho  plaintiil  to
+before  deciding  tho  case.  After  private  meditation  ho  reversed his  former  sentenco,  and  directed  tho  plaintiil  to
 relinquish  his  claim.  On  the  plaintiff  refusing  to  do  this,
 and  stoutly  protesting  against  David's  injustice,  David
 further  ordered  that  alt  tho  plaintiff’s  goods  should  be
@@ -10211,15 +9630,6 @@ Iwar  witness  of  that  winch  they  to  a cow,  referring  to  Koran  E 6^
 hare  done  ” (Koran  xsxvj.  65).
 
 
-141
-
-
-142
-
-
-THE  MASNA  VI.
-
-
 [book  ih.
 
 
@@ -10232,8 +9642,7 @@ dwelling-places — two  gardens,  the  one  on  the  right  hand
 and  tlie  other  on  the  left ; — ‘ Eat  ye  of  your  Lord’s
 supplies,  and  give  thanks  to  Him ; goodly  is  the  country
 and  gracious  is  the  Lord.’  But  they  turned  aside,  so  we
-sent  upon  them  the  flood  of  Iram.  Such  was  our  retribu-
-tion on  them  for  their  ingratitude.”  ^ The  men  of  Saha
+sent  upon  them  the  flood  of  Iram.  Such  was  our  retribution on  them  for  their  ingratitude.”  ^ The  men  of  Saha
 were  all  fools,  and  brought  destruction  on  themselves  by
 their  ingratitude  to  God.  One  was  far-sighted,  and  yet
 blind  ; another  sharp  of  hearing,  and  yet  deaf ; and  a third
@@ -10263,9 +9672,6 @@ ot  the  hare  and  the  elephant,  and  again  adjured  them  to
 ^ Koran  xxxiv.  14.
 
 “ Anvar  i Suhaili,  chap.  iv.  Story  IV.
-
-
-143
 
 
 STORY  sin.]  THE  PEOPLE  OF  SABA.
@@ -10313,9 +9719,6 @@ A hundred  parable-mongers  attacked  him  with  irony,
 
 « In  tte  desert,  where  is  no  water  or  weU,
 ilMds  a boat ! What  ignorant  folly  is  this ! ”
-
-
-144
 
 
 THE  MASNA  VL
@@ -10460,12 +9863,6 @@ And  ye  have  plunged  us  into  cares  and  anxieties.
 1 Koran  bd.  5 : “ God  led  their  hearts  astray.”
 
 
-146
-
-
-THE  MASNAVL
-
-
 [book  III.
 
 
@@ -10603,9 +10000,6 @@ THE  MASNAV'.
 [book  HI-
 
 
-148
-
-
 mind  the  text  “ When  at  last  the  i postles  lost  all  hope,
 and  deemed  that  they  were  recko  led  as  liars,  our  aid
 reached  them,  and  we  delivered  whom  we  would,  hut  our
@@ -10683,9 +10077,6 @@ doomed  to  be  saved  or  those  doomed
 to  destruction.
 
 
-149
-
-
 STOBY  xin.]  THE  PEOPLE  OF  SABA.
 
 Acquires  neitlier  loss  nor  gain  by  its  ventures.'^  ^
@@ -10751,12 +10142,6 @@ made  effort  ” (Koran  Im.  40J*
 
 
 Cp.
-
-
-150
-
-
-THE  MASNAVL
 
 
 [book  hi.
@@ -10853,9 +10238,6 @@ master,  hearing  this,  at  once  sold  his  horse,  and  the  dog,
 being  disappointed  of  his  meal,  again  attacked  the  cock.
 The  cock  then  told  him  the  mule  would  die,  whereupon
 the  master  sold  the  mule.  Then  the  cock  foretold  the
-
-
-152
 
 
 THE  VL
@@ -10967,9 +10349,6 @@ essence.
 '54
 
 
-THE  M A SNA  VI.
-
-
 [book  III.
 
 
@@ -11029,9 +10408,6 @@ Seeing  that  you  know  not  his  real  nature.
 ±5ut  this  impotence  to  perceive  real  essence,
 
 ^ There  ia  a Hadis,  » Think  on  God's  mercies,  and  not  on  His  essence.’*
-
-
-155
 
 
 STORY  xvir.]  the  vakil  OF  BOKHARA.
@@ -11108,9 +10484,6 @@ TU.  139.
 THE  MASNA  VL
 
 
-156
-
-
 [book  III.
 
 
@@ -11120,8 +10493,7 @@ determined  to  return  to  Bokhara  and  throw  himself  at  bis
 lord’s  feet,  and  endure  whatever  punishment  his  lord  might
 be  pleased  to  inflict  upon  him.  His  friends  did  all  they
 could  to  dissuade  him,  assuring  him  that  the  Prince’s  wrath
-was  still  hot  against  him,  and  that  if  he  appeared  at  Bok-
-hara he  would  be  put  to  death,  or  at  least  imprisoned  for
+was  still  hot  against  him,  and  that  if  he  appeared  at  Bokhara he  would  be  put  to  death,  or  at  least  imprisoned  for
 the  rest  of  his  life.  He  replied,  “ 0 advisers,  be  silent,  for
 the  force  of  the  love  which  is  drawing  me  to  Bokhara  is
 stronger  than  the  force  of  prudent  counsels.  When  love
@@ -11140,8 +10512,7 @@ because  they  were  steps  in  his  homeward  course.  When
 he  reached  Bokhara  his  friends  and  relations  all  warned
 him  not  to  show  himself,  as  the  Prince  was  still  mindful  of
 his  offence  and  bent  on  punishing  hiTn  • but  he  replied  to
-them  as  to  his  other  advisers,  that  he  was  utterly  regard-
-less of  his  life,  and  was  resolved  to  commit  himself  to  his
+them  as  to  his  other  advisers,  that  he  was  utterly  regardless of  his  life,  and  was  resolved  to  commit  himself  to  his
 lord  s good  pleasure.  He  then  went  to  the  court  and  threw
 himself  at  his  lord’s  feet  and  swooned  away.  The  Prince,
 seeing  the  strong  affection  borne  to  biTn  by  his  repentant
@@ -11206,9 +10577,6 @@ Without  thee  Hbes  and  roses  would  be  as  flames  of  Are  !
 
 
 * Koran  viiL  lo.
-
-
-THE  MASNAVL
 
 
 [book  III*
@@ -11355,8 +10723,7 @@ becomes  vegetable,  vegetable  again
 
 perishes  to  feed  and  be  transmuted
 into  animal,,  and  in  like  manner
-animal  becomes  man.  See  the  pas-
-sage of  Milton  quoted  below,  and
+animal  becomes  man.  See  the  passage of  Milton  quoted  below,  and
 Gulshan  i Raz,  L 490  and  note.
 
 ^ Koran  ii.  153  : “Verily  we  are
@@ -11364,9 +10731,6 @@ God’s,  and  to  Him  shall  we  return.”
 
 
 i6o
-
-
-THE  MASNA  VI.
 
 
 [book  III.
@@ -11647,13 +11011,7 @@ And  to  hear  thee  and  to  listen  to  thy  words,
 1 Koran  v.  59.
 
 
-THE  M A SNA  VI.
-
-
 [book  nr.
-
-
-164
 
 
 And  to  iDeliold  thy  life-giving  smiles.
@@ -11729,9 +11087,6 @@ for  there  is  no  God  but  one  God  ”
 Bioni  xvm-]  THE  DEADLY  MOSQUE.
 
 
-165
-
-
 Story  XVIH.  The  Dcadhj  Mos/iuc  (p.  278).
 
 In  the  suburbs  of  u cortoiu  city  tbero  was  a mosque  in
@@ -11744,8 +11099,7 @@ At  last  a stranger  came  to  that  city  and  desired  to  sleep
 in  the  mosque,  saying  that  he  did  not  fear  ““.3  hfo,
 as  the  life  of  the  body  was  naught  and  God  has  said
 “Wish  for  death  if  you  are  sincere.  The  men  of  the
-city  warned  him  again  and  again  of  the  iangor  ani  re-
-buLd  him  for  his  foolhardiness,  reminding  him  that  not
+city  warned  him  again  and  again  of  the  iangor  ani  rebuLd  him  for  his  foolhardiness,  reminding  him  that  not
 
 r , v,  Q tpmntino-  liim  to  liis  o^vIl  destruc-
 
@@ -11753,15 +11107,12 @@ improbably  Satan  was  tempt  ^ Bedr  2
 
 tion,  as  be  tempted  tbe  men  of  Mecca  at  tbe  batt  e of  Bedr
 
-The  stranger,  however,  would  not  be  dissuaded,  but  per-
-sisted in  bis  purpose  of  sleeping  in
+The  stranger,  however,  would  not  be  dissuaded,  but  persisted in  bis  purpose  of  sleeping  in
 
 that  he  was  as  one  of  the  devoted  agents  of  the  I=““'‘ans.
-who  were  always  ready  to  sacrifice  their  lives  at  the  bid-
-dim.  of  their  chiefs,  and  that  the  terrors  of  death  did  not
+who  were  always  ready  to  sacrifice  their  lives  at  the  biddim.  of  their  chiefs,  and  that  the  terrors  of  death  did  not
 appal  him  any  more  than  the  noise  of  a ittle  drum  beaten
-wLboy  to  sLe  away  birds  could  appal  the  great  drum-
-bLring  camel  that  used  to  march  at  the  h^d  of  King
+wLboy  to  sLe  away  birds  could  appal  the  great  drumbLring  camel  that  used  to  march  at  the  h^d  of  King
 iSud's  army.  Accordingly,  he  slept  m the  mosque
 and  at  midnight  he  was  awakened  by  a toble  voice,  as  o
 one  about  to  attack  Mm.  But  instead  of  being  dismayed,
@@ -11834,8 +11185,7 @@ Since  my  mouth  has  eaten  of  His  sweetmeats,
 I am  become  clear-sighted,  and  see  Him  face  to  face !
 
 1 “ Verily  of  the  faithful  hath  but  in  the  end  ye  shall  know.  Nay !
-God  bought  their  persons  and  their  would  that  ye  knew  it  with  knovi-
-substance,  on  condition  of  IParadise  Xtdigc  of  c&rtaxTity^  Surely  ye  shall
+God  bought  their  persons  and  their  would  that  ye  knew  it  with  knovisubstance,  on  condition  of  IParadise  Xtdigc  of  c&rtaxTity^  Surely  ye  shall
 for  them  in  return  ” (Koran  ix.  1 12).  see  hell-fire.  Ye  shall  surely  see  it
 
 2 “The  desire  of  riches  occupieth  with  the  eyt  of  certainty"  (Koran
@@ -11843,9 +11193,6 @@ you  till  ye  come  to  the  grave.  Nay  I ciL)
 
 
 STOHY  XTHL]  THE  DEADLY  MOSQUE.
-
-
-167
 
 
 The  righteous  ai’c  exposed  to  trials  for  their  improvement^
@@ -11911,9 +11258,6 @@ That  it  is  restored  to  life  by  being  cut  off!  ”
 
 
 i68
-
-
-THE  MASNAVI.
 
 
 [book  III*
@@ -12060,13 +11404,7 @@ seven  nieanings.  See  Koran  iiL  5.
 ® Koran  xvii.  63.
 
 
-THE  MASNAVI.
-
-
 [book:  nr.
-
-
-170
 
 
 Thou  makesfc  thy  abuse  of  the  ICoran  thy  destruction.^
@@ -12197,8 +11535,7 @@ him,  saying,  that  though  no  men  were  present,  yet  t e
 •wind  was  blowing  and  that  showed  that  God,  the  mover
 of  the  wind,  was  also  present.  The  lover  replied,  “ It  may
 he  I am  lacking  in  good  manners,  but  I am  not  lacking
-in  constancy  and  fidelity  towards  you,”  His  mistress  re-
-plied, One  must  judge  of  the  hidden  by  the  manifest ; I
+in  constancy  and  fidelity  towards  you,”  His  mistress  replied, One  must  judge  of  the  hidden  by  the  manifest ; I
 see  for  myself  that  your  outward  behaviour  is  bad,  and
 
 
@@ -12206,9 +11543,6 @@ Roran  xcix.  7.
 
 
 ^ Koran  ii.  213.
-
-
-173
 
 
 SToari.]  THE  LOVER  AHD  HIS  MISTRESS.
@@ -12220,24 +11554,20 @@ scruple  to  do  so  in  the  presence  of  the  All-seeing  God,  and
 hence  I doubt  the  existence  of  the  virtuous  sentiments
 which  you  claim  to  possess,  but  which  can  only  be  known
 to  yourself.”  To  illustrate  this,  she  told  the  story  of  a
-Sufi  and  his  faithless  wife.  This  wife  was  one  day  enter-
-taining a paramour,  when  she  was  surprised  by  the  sudden
+Sufi  and  his  faithless  wife.  This  wife  was  one  day  entertaining a paramour,  when  she  was  surprised  by  the  sudden
 return  of  her  husband.  On  the  spur  of  the  moment  she
 threw  a woman’s  dress  over  her  paramour  and  presented
-him  to  her  husband  as  a rich  lady  who  had  come  to  pro-
-pose a marriage  between  her  son  and  the  Sufi’s  daughter,
+him  to  her  husband  as  a rich  lady  who  had  come  to  propose a marriage  between  her  son  and  the  Sufi’s  daughter,
 saying  she  did  not  care  for  wealth,  but  only  regarded
 modesty  and  rectitude  of  conduct.  To  this  the  Sufi
 replied,  that  as  from  her  coming  unattended  it  was  plain
 that  the  lady  had  not  the  wealth  she  pretended  to  have,
-it  was  more  than  probable  that  her  pretensions  to  extra-
-ordinary modesty  and  humility  were  also  fictitious.  The
+it  was  more  than  probable  that  her  pretensions  to  extraordinary modesty  and  humility  were  also  fictitious.  The
 lover  then  proceeded  to  excuse  himself  by  the  plea  that  he
 had  wished  to  test  his  mistress,  and  ascertain  for  himself
 whether  she  was  a modest  woman  or  not.  He  said  he
 of  course  knew  beforehand  that  she  would  prove  to  be  a
-modest  woman,  but  still  he  wished  to  have  ocular  demon-
-stration of  the  fact.  His  mistress  reproved  him  for  trying
+modest  woman,  but  still  he  wished  to  have  ocular  demonstration of  the  fact.  His  mistress  reproved  him  for  trying
 to  deceive  her  with  false  pretences,  assuring  him  that
 after  he  had  been  detected  in  a fault,  his  only  proper
 course  was  to  confess  it,  as  Adam  had  done.  Moreover,
@@ -12245,12 +11575,6 @@ she  added  that  an  attempt  to  put  her  to  the  test  would
 have  been  an  extremely  unworthy  proceeding,  only  to  be
 paralleled  by  Abu  Jahl’s  attempt  to  prove  the  truth  of  the
 Prophet’s  claims  by  calling  on  him  to  perform  a miracle.
-
-
-174
-
-
-THE  M A SNA  VI.
 
 
 [book  IV.-
@@ -12390,8 +11714,6 @@ THE  MASNA  VL
 [book  IV.
 
 
-176
-
 You  regarded  me  aa  a lamb  wifcboub  a sliepherd ;
 
 You  fancied  that  I bad  no  guardian.
@@ -12455,9 +11777,6 @@ To  him  who  is  temperate  and  prudent.
 Your  lust  is  as  fire  in  the  world,
 
 
-177
-
-
 BTORTii.]  THE  BUILDING  OF  THE  TEMPLE.
 
 With  a hundred  greedy  mouths  wide  open.
@@ -12484,14 +11803,11 @@ King  David  purposed  to  build  a temple  at  Jerusalem,
 but  was  forbidden  to  do  so  by  a divine  voice,  because  he
 had  been  a man  of  blood.  But,  it  was  added,  the  work
 should  be  accomplished  by  his  son  Solomon,  and  Solomon’s
-work  would  be  reckoned  the  same  as  David’s,  in  accord-
-ance with  the  tezts,  “ The  faithful  are  brethren,”  and
+work  would  be  reckoned  the  same  as  David’s,  in  accordance with  the  tezts,  “ The  faithful  are  brethren,”  and
 “ Sages  are  as  a single  soul,”  and  “We  make  no  distinction
-between  any  of  the  apostles.”  ^ Accordingly,  when  Solo-
-mon came  to  the  throne,  he  set  about  the  building,  which
+between  any  of  the  apostles.”  ^ Accordingly,  when  Solomon came  to  the  throne,  he  set  about  the  building,  which
 was  attended  with  many  miraculous  circumstances,  e.y.,
-the  stones  in  the  quarry  crying  out  and  moving  of  them-
-selves to  the  site  of  the  temple.  Bilqis,  Queen  of  Saba,
+the  stones  in  the  quarry  crying  out  and  moving  of  themselves to  the  site  of  the  temple.  Bilqis,  Queen  of  Saba,
 sent  Solomon  a present  of  forty  camels  laden  with  ingots
 of  gold ; but  Solomon  would  not  receive  them,  and  sent
 her  messengers  back  with  a letter  commanding  her  to
@@ -12519,8 +11835,7 @@ and  an  ’Afrit  offered  to  fetch  it,  but  Aaaf,  the  vizier,
 anticipated  him.^  Afterwards  Solomon  proceeded  with
 the  building  of  the  temple,  wherein  he  was  assisted  by
 devils  and  fairies.  Then  God  tried  Solomon  by  placing
-on  his  throne  a false  counterpart  of  him.  His  miracle-
-working  signet  was  stolen  by  a devil  named  Sakhar,  who
+on  his  throne  a false  counterpart  of  him.  His  miracleworking  signet  was  stolen  by  a devil  named  Sakhar,  who
 thereupon  assumed  his  shape  and  personated  him  for  forty
 days,  during  which  Solomon  had  to  wander  about  and  beg
 his  bread.  After  this  he  regained  his  throne,  and  having
@@ -12547,9 +11862,6 @@ I
 
 
 STORY  n.]  THE  BUILDING  OF  THE  TEMPLE,
-
-
-179
 
 
 Though  philosophers  call  man  the  microcosm,  divines  call
@@ -12616,8 +11928,7 @@ Press  on  like  a lover,  and  cease  vain  words,  0 son !
 is  at  once  the  “ Eirst  reason  ’’  (Logos)
 and  the  “Perfect  man,”  who  is  “the
 sum  of  all  the  worlds  ” and  the
-“ Great  world.”  See  Notices  et  Ex-
-traits des  MSS.,  X.  p.  86.
+“ Great  world.”  See  Notices  et  Extraits des  MSS.,  X.  p.  86.
 
 ® He  was  also  the  final  caiise  of
 creation.  “If  it  had  not  been  for
@@ -12637,8 +11948,7 @@ i8o  THE  UASNAVI.  [bookiv.
 
 In  the  course  of  bis  rebuke  to  the  messengers  of  Bilqis
 for  bringing  bim  mere  gold  instead  of  a bumble  heart,
-Solomon  tells  the  story  of  the  druggist  "wbo  used  soap-
-stone or  Persian  earth  for  a weight.  A man  came  to
+Solomon  tells  the  story  of  the  druggist  "wbo  used  soapstone or  Persian  earth  for  a weight.  A man  came  to
 him  to  buy  sugar-candy,  and  as  he  had  no  weight  at  ban  ,
 he  used  a lump  of  soapstone  instead ; but,  while  his  bac
 was  turned,  the  purchaser  stole  a bit  of  the  soapstone.
@@ -12706,8 +12016,7 @@ found  that  all  the  wild  fruits  were  rendered  fit  for  his
 food.  Having  a few  grains  of  gold  by  him,  which  he  had
 gained  by  worldly  labour  before  this  miracle  had  been
 wrought  for  him,  he  was  about  to  give  them  to  a poor
-woodcutter  who  was  passing  that  way.  But  this  wood-
-cutter was  a saint,  and  at  once  read  his  thoughts,  and  to
+woodcutter  who  was  passing  that  way.  But  this  woodcutter was  a saint,  and  at  once  read  his  thoughts,  and  to
 show,  like  Solomon,  that  he  had  no  need  of  worldly  wealth,
 he  offered  up  a short  prayer  to  God,  and  straightway  his
 bundle  of  firewood  was  changed  into  gold,  and  immediately
@@ -12747,9 +12056,6 @@ Jalalu-d-Din  Eumi.  See  “The  viL  171}.
 
 
 i82
-
-
-THE  MASNAVL
 
 
 [book  IV.
@@ -12810,8 +12116,7 @@ He  said,  “ Who  ever  searched  for  camels  on  a housetop  ? ”
 blast,  that  shall  be  a dreadful  day  ’*
 (Koran  Ixxiv.  7).
 
-^ The  so-called  Pythagorean  doc-
-trine of  the  “Harmony  of  the
+^ The  so-called  Pythagorean  doctrine of  the  “Harmony  of  the
 
 
 spheres  ” was  as  well  known  to
@@ -12823,9 +12128,6 @@ iL,  Story  xL
 
 
 STOBxn.]  THE  BUILDING  OF  THE  TEMPLE.
-
-
-183
 
 
 They  said,  “ We  follow  thy  example,
@@ -12914,8 +12216,7 @@ To  the  cock  the  signs  of  dawning  day.
 
 In  this  way  deal  with  all  from  the  hoopoo  to  the  eagle.
 
-Then  follows  a long  account  of  various  miraculous  inci-
-dents that  occurred  during  the  childhood  of  the  Prophet, —
+Then  follows  a long  account  of  various  miraculous  incidents that  occurred  during  the  childhood  of  the  Prophet, —
 how  he  was  suckled  by  Halima,  a woman  of  the  Bani
 Sa’ad, — how  the  idols  bowed  down  before  him, — how  he
 strayed  from  home, — how  his  grandfather,  Abd  ul  Muttalib,
@@ -12937,16 +12238,13 @@ Arise,  Bilqis,  now  that  thou  hast  the  choice,
 
 w xxvii.  16.  There  is  a bought  error  at  the  price  of  guidance,
 
-^adia,  bpeak  to  men  according  to  but  their  traffic  hath  not  been  gain-
-intelligence.”  ful  ” (Koran  ii.  i O.
+^adia,  bpeak  to  men  according  to  but  their  traffic  hath  not  been  gainintelligence.”  ful  ” (Koran  ii.  i O.
 
 These  are  they  who  have
 
 
 STOEYn.]  THE  BUILDING  OF  THE  TEMPLE.
 
-
-185
 
 Before  that  death  lays  his  heavy  hand  upon  thee.
 
@@ -13009,9 +12307,6 @@ When  thy  real  self  is  thy  treasure  and  thy  kingdom  ?
 ^ Union  attained,  all  duality  and  non).  (See  Gulshan  i Raz,- 1.  835
 separate  phenomenal  existence  are  and  845).
 swallowed  up  in  the  One  (Noume-
-
-
-THE  MASNAVI.
 
 
 [book  IV.
@@ -13095,12 +12390,8 @@ he  last  day  wiU  we  bring  forth  to  that  day  ” (Korau  xvii.  14).
 sxoHY  II.]  THE  BUILDING  OF  THE  TEMPLE.
 
 
-187
-
-
 Nor  their  temples,  nor  their  works,  nor  their  families ;
-Nor  their  manners,  nor  their  wrath,  nor  their  chastise-
-ments ;
+Nor  their  manners,  nor  their  wrath,  nor  their  chastisements ;
 
 Nor  their  dreams,  nor  their  reason,  nor  their  words.
 
@@ -13226,8 +12517,7 @@ more  plainly  visible  to  him  in  his  heart  than  in  the
 outward  creation,  which  was  merely  as  it  were  a blurred
 reflection  from  the  spiritual  creation  enshrined  in  his
 heart.  For  God  says,  “ The  life  of  the  world  is  naught
-but  a cheating  fruition.”  2 In  other  words,  “ Nature  con-
-ceals God,  but  the*  supernatural  in  man  reveals  Him.”  2
+but  a cheating  fruition.”  2 In  other  words,  “ Nature  conceals God,  but  the*  supernatural  in  man  reveals  Him.”  2
 
 
 On  clccL'nsvn.g  the  inward  of  the  heart  from  self -conceit
@@ -13256,17 +12546,11 @@ That  the  Heavenly  Master  may  not  withhold  instruction.
 ® Koran  iii.  182.'  ia  man,  which  alone_  reveals  him
 
 ® “Butiaitunreasonabletoconfess  and  prov-'s  him  to  exist?”  (Jacobi,
-that  we  believe  in  God,  not  by  reason  quoted  in  Sir  W.  Hamilton’s  Lee-
-of  the  nature  which  conceals  him,  tures  on  Metaph^'sics,  voL  i.  p.  40),
-
-
-THE  M A SNA  VI.
+that  we  believe  in  God,  not  by  reason  quoted  in  Sir  W.  Hamilton’s  Leeof  the  nature  which  conceals  him,  tures  on  Metaph^'sics,  voL  i.  p.  40),
 
 
 [book  rv.
 
-
-190
 
 Wlieii  you  say,  “ I am  ignorant ; 0 teacli  me"
 
@@ -13340,9 +12624,6 @@ Story  y.
 STOBYIL]  THE  BUILDING  OF  THE  TEMPLE.
 
 
-191
-
-
 ’Tmll  not  save  yon ; Canaan  was  drowned  at  last.
 
 Love  is  as  the  ark  appointed  for  the  righteons,
@@ -13413,12 +12694,6 @@ keep  us,  this  is  no  man  £ ’ ” (Koran
 xiL  31).
 
 
-192
-
-
-THE  MASNA  VI.
-
-
 [book  IV.
 
 
@@ -13473,9 +12748,6 @@ a fool  is  silence.  ^ When  the  youth  received  no  answer
 i 551,  for  a parallel.
 
 
-193
-
-
 STOEYIIL]  THE  YOUTH  AND  HIS  RATIONS.
 
 to  Ms  letter,  lie  "was  mucli  surprised,  and  ttrew  the  blame
@@ -13508,8 +12780,7 @@ Although  like  a sea  their  waves  cast  up  foam,
 
 The  magicians  gloried  in  their  own  achievements,
 
-But  when  Moses’  rod  became  a snake,  they  were  con-
-founded.
+But  when  Moses’  rod  became  a snake,  they  were  confounded.
 
 Whoso  boasts  of  his  beauty  and  wit.
 
@@ -13537,9 +12808,6 @@ THE  MASHA  VI.
 
 
 [book  IV.
-
-
-194
 
 
 The  hand  of  power  will  soon  crush  your  exaltation.
@@ -13596,14 +12864,10 @@ The  holy  saint  Bayazid  before  his  death  predicted  the
 birth  of  the  saint  Abu-’l-Hasan  Khirqani,  and  specified  all
 the  peculiar  qualities  which  would  be  seen  in  him.  And
 after  his  death  it  came  to  pass  as  he  had  predicted,  and
-Abu-  1-Hasan,  hearing  what  Bayazid  had  said,  used  to  fre-
-quent his  tomb.  One  day  he  visited  the  tomb  as  usual.
+Abu-  1-Hasan,  hearing  what  Bayazid  had  said,  used  to  frequent his  tomb.  One  day  he  visited  the  tomb  as  usual.
 
 
 8T0EY  IV.]  BA  YA  ZID  A ND  HIS  SA  YINGS.
-
-
-195
 
 
 and  found  it  covered  with  snow,  and  a voice  was  heard
@@ -13741,9 +13005,6 @@ You  smite  yourself  therewith ; Beware !
 BTORTiv.]  BAYAZID  AND  HIS  SAYINGS.
 
 
-197
-
-
 For  lie  that  is  beside  himself  is  annihilated  and  safe ;
 
 Yea,  he  dwells  in  security  for  ever.
@@ -13771,8 +13032,7 @@ Close  then  your  lips,  though  eloquence  be  possible.
 
 Heep  silence  ; God  knows  the  right  way  I
 
-This  is  followed  by  an  anecdote  of  the  Prophet  appoint-
-ing an  Hudhaili  youth  to  be  captain  of  a band  of  warriors
+This  is  followed  by  an  anecdote  of  the  Prophet  appointing an  Hudhaili  youth  to  be  captain  of  a band  of  warriors
 amongst  whom  were  many  older  and  more  experienced
 soldiers,  and  of  the  objections  made  to  this  appointment,
 and  of  the  Prophet’s  answer  to  the  objectors.
@@ -13808,13 +13068,8 @@ He  is  pure  from  pride  and  from  carnal  lust.
 That  whiteness  of  the  hair  is  a sign  of  maturity
 
 
-THE  M A SNA  VI.
-
-
 [book  IV.
 
-
-198
 
 Only  to  purblind  eyes  whose  vision  is  limited.
 
@@ -13894,9 +13149,6 @@ STORY  V.]
 THE  THREE  FISHES.
 
 
-199
-
-
 and  the  third  foolish.  One  day  some  fishermen  passed
 by  that  lake,  and  having  espied  the  fish,  hastened  home  to
 fetch  their  nets.  The  fish  also  savr  the  fishermen  and
@@ -13955,9 +13207,6 @@ And  also  half  wisdom,  so  as  to  assume  to  be  dead  ?
 
 
 2CO
-
-
-THE  MASNAVL
 
 
 [book  T7.
@@ -14027,9 +13276,6 @@ STORY  ■VI.]
 MOSES.  AND  PHARAOH.
 
 
-201
-
-
 The  bird  said  to  him,  “ Did  I not  counsel  you,  sayings,
 
 ‘ Beware  of  grieving  over  what  is  past  and  gone  ? ’
@@ -14083,12 +13329,6 @@ must  first  be  ground  in  the  mill,  and  so  on.  The  best
 of  Koran  xL
 
 
-202
-
-
-THE  MASNAVI.
-
-
 [book  IV.
 
 return  lie  can  make  to  Pharaoli  for  his  hospitality  to  him
@@ -14136,9 +13376,6 @@ STORY  VI.]
 MOSES  AND  PHARAOH.
 
 
-203
-
-
 The  tradition  “ I was  a hidden  treasure,”  &c.,  bears  on  this
 matter.  (3.)  A better  kingdom  than  that  of  Egypt,  one
 of  peace  in  place  of  one  of  enmity  and  contention.  (4.)
@@ -14149,10 +13386,8 @@ Asiya,  being  a pious  woman  and  well  inclined  to  Moses,
 whom  she  had  nurtured  in  his  infancy,  urged  him  to  do
 so,  but  Pharaoh  said  he  would  first  consult  his  vazir
 Haman.  Asiya  had  a bad  opinion  of  Haman,  whom  she
-knew  to  be  as  blind  to  spiritual  truths  as  Pharaoh  him-
-self, and  she  did  her  best  to  dissuade  Pharaoh  from
-consulting  him.  To  illustrate  Haman’s  spiritual  blind-
-ness, she  told  the  story  of  a royal  falcon  who  fell  into  the
+knew  to  be  as  blind  to  spiritual  truths  as  Pharaoh  himself, and  she  did  her  best  to  dissuade  Pharaoh  from
+consulting  him.  To  illustrate  Haman’s  spiritual  blindness, she  told  the  story  of  a royal  falcon  who  fell  into  the
 hands  of  an  ignorant  old  woman.  This  old  woman  knew
 nothing  of  the  virtues  of  a falcon,  and  was  displeased  at
 the  falcon’s  appearance,  and  said  to  it,  “ What  was  your
@@ -14178,20 +13413,13 @@ another,  so  unlike  things  repel  one  another.  Thus  it
 13  said  that  when  holy  men  pray  to  be  delivered  from
 
 
-204
-
-
-THE  MASNA  VI.
-
-
 [book  IV.
 
 hellj  liell  also  prays  that  they  may  he  kept  away  from  it.
 Pharaoh  then  proceeded  to  consult  Haman,  and  Haman,
 on  hearing  that  Moses  had  proposed  to  Pharaoh  to  humble
 himself  and  confess  the  supreme  lordship  of  Allah,  was
-indignant  and  rent  his  clothes,  saying,  “ Is  not  the  king-
-dom of  Egypt  thine  ? Art  thou  not  mightier  than  this
+indignant  and  rent  his  clothes,  saying,  “ Is  not  the  kingdom of  Egypt  thine  ? Art  thou  not  mightier  than  this
 despicable  fellow  ? ^ Who  is  he  to  degrade  Pharaoh  from
 his  ‘ supreme  lordship  ? ’ ” So  Pharaoh  listened  to  Haman
 and  refused  to  be  converted  to  the  true  faith.  Then
@@ -14250,9 +13478,6 @@ STORY  YL]
 
 
 MOSES  AND  PHARAOH.
-
-
-205
 
 
 I did  not  do  what  they  told  me  for  my  good ;
@@ -14318,12 +13543,6 @@ But  if  yoa  are  an  ass,  I give  you  the  stick  as  an  ass.
 So  I will  drive  yon  out  of  your  stable,
 
 ^ Koran  sxxvi.  29.
-
-
-THE  MASNAVL
-
-
-206
 
 
 [boos  17.
@@ -14404,9 +13623,6 @@ STORY  TI.]
 MOSES  AND  PHARAOH.
 
 
-207
-
-
 Here  at  His  command  wisdom  was  sited  down  like  rain,
 Wkiist  there  wisdom  saw  His  wrath  and  fled  away.
 
@@ -14451,8 +13667,7 @@ Last  night  a Sunni  said,  “ The  world  is  transitory;
 
 The  heavens  will  pass  away  ; ‘ God  will  be  the  heir.’  ” ^
 
-A philosopher  replied,  “ How  know  you  they  are  transi-
-tory ?
+A philosopher  replied,  “ How  know  you  they  are  transitory ?
 
 How  knows  the  rain  the  transitory  nature  of  the  cloud  ?
 Are  you  not  a mere  mote  floating  in  the  sunbeams  ?
@@ -14591,12 +13806,6 @@ as  to  the  cause  of  his  ingratitude  to  his  benefactor.  He
 Koran  viiL  17.
 
 
-210
-
-
-THE  MASNAVL
-
-
 [book  IV.
 
 replied,  “ I had  offered  up  my  life  to  the  king  when  this
@@ -14636,8 +13845,7 @@ nob  his  intercession  to  save  me  from  evil  sent  me  by  God,
 for  evil  at  God’s  hand  seems  to  me  good.  What  seems
 mercy  and  kindness  to  the  vulgar  seems  wrath  and  ven-
 
-^ See  Koran  xxi.  68,  and  the  Com-
-mentators thereon.
+^ See  Koran  xxi.  68,  and  the  Commentators thereon.
 
 
 ^ See  Gulahan  i Eaz,  L 1 20.
@@ -14649,8 +13857,7 @@ mentators thereon.
 
 8T0ETVIL]  THE  COURTIER  WHO  QUARRELLED.
 
-geance  to  God-intoxicated  saints.  God’s  severity  and  chas-
-tisements serve  to  exalt  his  saints,  though  they  make  the
+geance  to  God-intoxicated  saints.  God’s  severity  and  chastisements serve  to  exalt  his  saints,  though  they  make  the
 vulgar  more  ungodly  than  before,  even  as  the  water  of
 the  Nile  was  pure  water  to  the  Israelites,  but  blood  to  the
 Egyptians.
@@ -14705,12 +13912,6 @@ Grain  is  out  of  place  in  the  straw-yard,
 And  straw  is  useless  in  the  wheat-bam.
 
 ^ So  Job  X.  8 : “Thy  hands  have  made  me,  yet  Thou  dost  destroy  me.”
-
-
-212
-
-
-THE  MASNAVL
 
 
 [book  it.
@@ -14772,14 +13973,10 @@ A certain  king  dreamed  that  his  dearly  beloved  son,  a
 
 n awnking  he  was  rejoiced  to  find  that  his  son  was  still
 a ve , ut  he  refiected  that  an  accident  might  carry  jn'm  off
-at  ay  moment,  and  therefore  decided  to  marry  him  with-
-ou  e ay,  m order  that  the  succession  might  be  secured.
+at  ay  moment,  and  therefore  decided  to  marry  him  withou  e ay,  m order  that  the  succession  might  be  secured.
 
 
 STOEYVIH.]  THE  PRINCE  AND  THE  COURTESAN.
-
-
-213
 
 
 Accordingly  he  chose  the  daughter  of  a pious  Darvesh  as  a
@@ -14788,8 +13985,7 @@ But  his  wife  and  the  other  ladies  of  his  harem  did  not
 approve  of  the  match,  considering  it  below  the  dignity  of
 the  prince  to  marry  the  daughter  of  a beggar.  The  king
 rebuked  them,  saying  that  a Darvesh  who  had  renounced
-worldly  wealth  for  the  sake  of  God  was  not  to  be  con-
-founded with  an  ordinary  beggar,  and  insisted  on  the
+worldly  wealth  for  the  sake  of  God  was  not  to  be  confounded with  an  ordinary  beggar,  and  insisted  on  the
 consummation  of  the  marriage.  After  the  marriage  the
 prince  refused  to  have  anything  to  do  with  his  bride,
 though  she  was  very  fair  to  look  on,  and  he  carried  on  an
@@ -14803,8 +13999,7 @@ parable,  the  true  wife  being  the  Deity,  the  old  paramour
 the  world,  and  the  physicians  the  prophets  and  saints.
 Another  illustration  is  a child  who  played  at  besieging  a
 mimic  fort  with  his  fellows,  and  succeeded  in  capturing  it
-and  keeping  the  others  out.  At  this  moment  God  “ be-
-stowed on  hiTn  wisdom,  though  a child,”  ^ and  it  became  to
+and  keeping  the  others  out.  At  this  moment  God  “ bestowed on  hiTn  wisdom,  though  a child,”  ^ and  it  became  to
 him  a day  “ when  a man  flees  from  his  brethren,”  ^ and  he
 recognised  the  emptiness  of  this  idle  sport,  and  engaged
 in  the  pursuit  of  holiness  and  piety.  This  is  followed  by  an
@@ -14818,12 +14013,6 @@ of  a severe  famine.
 
 
 ® Koran  btxx.  34.
-
-
-214
-
-
-THE  M A SNA  VI.
 
 
 [book  it.
@@ -14900,9 +14089,6 @@ prophet  Muhammad.”
 iL  261.
 
 
-215
-
-
 8I0RY IX.]  THE  MULE  AND  THE  CAMEL.
 
 Hm  to  die  for  a hundred  years,  and  then  raised  him  again
@@ -14955,8 +14141,7 @@ THE  MASNAVL  [bookiv.
 
 Israelite  to  pray  for  Hm,  and  the  Israelite^  admonished
 him  to  renounce  his  egotism  and  conceit  of  his
-ence,  which  blinded  his  eyes  to  divine  verities.  In  lUus-
-tration  of  this  he  tells  the  same  story  of  an  adulterous
+ence,  which  blinded  his  eyes  to  divine  verities.  In  lUustration  of  this  he  tells  the  same  story  of  an  adulterous
 woman,  which  is  known  as  the  ‘‘  Merchant  s Ta  e ^ m
 Chaucer.  This  woman,  desiring  to  carry  on  an  intrigue
 with  her  paramour,  climbed  up  a pear-tree  to  gathCT  t e
@@ -15002,9 +14187,6 @@ Towards  their  noble  and  illustrious  teachers.
 
 of  the  ascending  grades  of  the  soul,
 or  vital  principle.
-
-
-217
 
 
 STOBY  ix]  THE  MULE  AND  THE  CAMEL.
@@ -15072,9 +14254,6 @@ Your  present  wailing  and  sorrow  .and  griefs,
 
 
 2I8
-
-
-THE  MASNAVL
 
 
 [book  IV.
@@ -15211,12 +14390,6 @@ To  what  extent  its  senses  are  frail  and  impotent.
 True,  man’s  bodily  senses  are  frail.
 
 
-220
-
-
-THE  MASNAVL
-
-
 [book  IV.
 
 
@@ -15289,8 +14462,7 @@ After  the  usual  address  to  Husamu-d-Din  follows  a
 comment  on  the  precept  addressed  to  Abraham,  “Take
 four  birds  and  draw  them  towards  thee,  and  cut  them
 in  pieces.”  ^ The  birds  are  explained  to  be  the  duck  of
-gluttony,  the  cock  of  concupiscence,  the  peacock  of  ambi-
-tion and  ostentation,  and  the  crow  of  bad  desires,  and
+gluttony,  the  cock  of  concupiscence,  the  peacock  of  ambition and  ostentation,  and  the  crow  of  bad  desires,  and
 this  is  made  the  text  of  several  stories.  Beginning  with
 gluttony,  the  poet  tells  the  following  story  to  illustrate
 the  occasion  of  the  Prophet’s  uttering  the  saying,  “ Infidels
@@ -15316,12 +14488,6 @@ unwell  in  consequence  of  having  overeaten  himself,  and
 ^ Koran  n.  262.
 
 
-222
-
-
-THE  MASNAVI,
-
-
 [book  V.
 
 
@@ -15341,8 +14507,7 @@ but  he  persisted  in  doing  it,  calling  to  mind  the  text,
 drunkenness,”  i and  being,  in  fact,  urged  to  it  by  a divine
 command.  While  he  was  engaged  in  the  work  the  infidel
 came  back  to  look  for  a talisman  which  he  had  left  behind
-him  in  his  hurry  to  escape,  and  seeing  the  Prophet’s  occu-
-pation he  burst  into  tears,  and  bewailed  his  o^vn  filthy
+him  in  his  hurry  to  escape,  and  seeing  the  Prophet’s  occupation he  burst  into  tears,  and  bewailed  his  o^vn  filthy
 conduct.  The  Prophet  consoled  him,  saying  that  weeping
 and  penitence  would  purge  the  offence,  for  God  says,
 Little  let  them  laugh,  and  much  let  them  weep ; ” " and
@@ -15438,9 +14603,6 @@ Yet  the  grace  of  God,  despite  this  fraud,
 May  ultimately  purge  him  from  all  this  hypocrisy.
 
 Mercy  may  prevail  over  vengeance,  and  give  the  hypocrite
-
-
-224
 
 
 THE  MASNA  VL
@@ -15582,9 +14744,6 @@ for  their  punishment,  as  thej  wait
 for  thy  downfall  (Rodwell).
 
 
-220
-
-
 TUB  MAS:LAV!.
 
 
@@ -15671,8 +14830,7 @@ day  by  day.
 
 ETOHTn.]  THE  ARAB  AND  HIS  DOG.
 
-it  is  only  men  of  deep  spiritual  discernment  who  can  re-
-cognise acts  of  mercy  and  acts  of  \vrath  concealed  in  their
+it  is  only  men  of  deep  spiritual  discernment  who  can  recognise acts  of  mercy  and  acts  of  \vrath  concealed  in  their
 opposites.  The  object  of  this  concealment  is  to  try  and
 test  men’s  dispositions ; according  to  the  text,  “ To  prove
 which  of  you  will  be  most  righteous  in  deed.”  ^
@@ -15682,14 +14840,12 @@ Story  II.  TJlc  Arab  and  his  Dog  (p.  402).
 
 The  doctrine  of  the  Mu’tazilites,-’  already  mentioned,
 that  all  men’s  intellects  are  alike  and  equal  at  birth,
-is  again  controverted,  and  the  poet  dwells  on  the  essen-
-tial differences  which  characterise  the  intellects  akin  to
+is  again  controverted,  and  the  poet  dwells  on  the  essential differences  which  characterise  the  intellects  akin  to
 Universal  Reason  or  the  Xiogos,  and  those  swayed  by
 partial  or  carnal  reason ; the  former,  like  the  children  of
 Israel,  seeking  exaltation  through  self-abasement;  and
 the  others,  like  Pharaoh,  running  after  worldly  rank  and
-power,  to  their  own  destruction.  In  order  to  make  pro-
-bation of  men,  as  already  explained,  God  fills  the  world
+power,  to  their  own  destruction.  In  order  to  make  probation of  men,  as  already  explained,  God  fills  the  world
 with  deceptions,^ — making  apparent  blessings  destructive
 to  us,  and  apparent  evils  salutary.  On  the  other  hand,  if
 men  try  to  deceive  God,  they  fail  signally . Hypocritical
@@ -15711,9 +14867,6 @@ who  could  not  pay  for  it ; but  that,  as  his  tears  cost  him
 * The  Mu’tazilites  were  one  of  gems,  God  is  best  ’ (Koran  iii.  47)*
 the  principal  unorthodox  sects.  See
 Sale,  Btelim.  Dko.,  p.  II2,
-
-
-228
 
 
 [book:  y.
@@ -15741,8 +14894,7 @@ in  so  wanton  a manner.  The  peacock  then  explained  to
 him  that  the  bright  plumage  which  he  admired  so  muc
 was  a fruitful  source  of  danger  to  its  unfortunate  owner,
 as  it  led  to  his  being  constantly  pursued  by  hunters,  whom
-he  had  no  strength  to  contend  against ; and  he  had  accord-
-ingly decided  on  ridding  himself  of  it  with  his  own  beak,
+he  had  no  strength  to  contend  against ; and  he  had  accordingly decided  on  ridding  himself  of  it  with  his  own  beak,
 and  making  Himself  so  ugly  that  no  hunter  would  m
 future  care  to  molest  him.  The  poet  proceeds  to  point
 out  that  worldly  clevemess  and  accomplishments  and
@@ -15766,9 +14918,6 @@ The  moon  itself  would  weep  to  lose  sight  of  it !
 
 
 * A Sadia.
-
-
-229
 
 
 btobtiil]  the  sage  AND  THE  PEACOCK.
@@ -15826,8 +14975,7 @@ This  is  followed  by  the  admordtion  that  the  only  way
 
 
 ^ Cp.  Bp.  Butler,  “ On  a state  of
-probation  as  implying  trial  and  dan-
-ger”  (Analogy,  Chap.  iv.  Bt.  l).
+probation  as  implying  trial  and  danger”  (Analogy,  Chap.  iv.  Bt.  l).
 
 - Probably  referring  to  Origen.
 
@@ -15842,9 +14990,6 @@ not,”
 
 ® Or,  “ If  there  be  no  supporter,
 there  can  be  nothing  supported.”
-
-
-230
 
 
 THE  MASH  AVI.
@@ -15866,8 +15011,7 @@ who  lust  after  the  vile  pleasures  of  this  world,  and  desire
 long  life,  not  to  serve  God,  but  to  satisfy  their  own  carnal
 lusts,  resemble  the  crow  slain  by  Abraham,  because  he
 only  lived  for  the  sake  of  carrion  j or  Iblis,  who  prayed
-to  be  respited  till  the  day  of  judgment,  not  for  the  pur-
-pose of  reforming  himself,  but  only  to  do  mischief  to
+to  be  respited  till  the  day  of  judgment,  not  for  the  purpose of  reforming  himself,  but  only  to  do  mischief  to
 mankind,^
 
 
@@ -15896,9 +15040,6 @@ he  eyes  of  the  heart  which  behold  the  heavens
 
 
 ^ Koran  xciiL  7,
-
-
-231
 
 
 STOBYIIL]  THE  SAGE  AND  THE  PEACOCK.
@@ -15967,9 +15108,6 @@ Brophet,  “ Pity  the  pious  man  who  falls  into  sin,  and  the
 THE  MASH  AVI.
 
 
-232
-
-
 [book  V.
 
 
@@ -15996,20 +15134,17 @@ the  first  Khalif  Abu  Bakr.  After  the  city  was  taken  the
 inhabitants  came  out,  and  proceeded  with  all  humility  to
 beg  their  lives,  offering  to  pay  any  amount  of  ransom  and
 tribute  that  he  might  impose  upon  them.  But  the  prince
-replied  that  he  would  spare  their  lives  only  on  one  con-
-dition, viz.,  that  they  produced  from  Sabzawar  a man
+replied  that  he  would  spare  their  lives  only  on  one  condition, viz.,  that  they  produced  from  Sabzawar  a man
 bearing  the  name  Abu  Bakr.  They  represented  to  him
 that  it  w.oidd  be  impossible  to  find  in  the  whole  city  a single
 man  bearing  a name  so  hateful  to  the  Shi’as ; but  the  prince
 was  inexorable,  and  refused  to  alter  the  conditions.  So
 they  went  and  searched  all  the  neighbourhood,  and  at  last
 found  a traveller  lying  at  the  roadside  at  the  point  of
-death,  v.ho  bore  the  name  of  Abu  Bakr.  As  he  was  un-
-able to  v/alk,  they  placed  him  on  a bier  and  carried  him
+death,  v.ho  bore  the  name  of  Abu  Bakr.  As  he  was  unable to  v/alk,  they  placed  him  on  a bier  and  carried  him
 into  the  Icing’s  presence.  The  king  reproached  them  for
 their  contempt  and  neglect  of  this  pious  Sunni,  the  only
-tnia  heart  amongst  them,  and  reminded  them  of  the  say-
-ing  of  the  Prophet,  “ God  regards  not  your  outward  show
+tnia  heart  amongst  them,  and  reminded  them  of  the  saying  of  the  Prophet,  “ God  regards  not  your  outward  show
 and  your  wealth,  but  your  hearts  and  your  deeds.”  In  this
 
 
@@ -16072,12 +15207,6 @@ If  thou  becomest  naught,  they  will  turn  thee  to  being.”
 ^ Koran  xcv.  4.  ^
 
 
-234
-
-
-THE  MASNAVI.
-
-
 [book  V.
 
 
@@ -16126,12 +15255,8 @@ these,  moso  has  his  face  reddened  with  celestial  wine
 BTOST  y.]  THE  PRETENDED  PROPHET.
 
 
-235
-
-
 is  a propliet  of  like  disposition  witli  Muhammad,  and
-whoso  is  unaffected  by  that  spiritual  drink  is  to  be  ac-
-counted an  enemy  to  God  and  man/’
+whoso  is  unaffected  by  that  spiritual  drink  is  to  be  accounted an  enemy  to  God  and  man/’
 
 
 The  Prophet' s prayer  fw  the  envious  people  (p.  419).
@@ -16182,9 +15307,6 @@ toils  he  had  undergone  for  her  sake,  and  inquired  if  there
 was  anything  else  he  could  do  to  testify  the  sincerity  of
 his  love.  His  mistress  replied,  “AH  these  things  you
 have  done  are  but  the  branches  of  love;  you  have  not
-
-
-236
 
 
 TUB  MASNAVI.
@@ -16243,19 +15365,16 @@ STOEY  VI.]  THE  DISCIPLE  AND  HIS  SHAIKH.
 
 possible  to  one  -wbo  bas,  like  him,  waged  tbe  spiritual  war
 for  tbirty  years.  His  weeping  is  not  caused  by  worldly
-griefe,  but  by  tbe  deep  concerns  of  tbe  spirit.  You  can-
-not perceive  by  reason  or  sense  tbe  spiritual  mysteries
+griefe,  but  by  tbe  deep  concerns  of  tbe  spirit.  You  cannot perceive  by  reason  or  sense  tbe  spiritual  mysteries
 that  are  open  and  plain  to  bis  enlightened  vision,  any
-more  than  tbe  darkness  can  bebold  tbe  light.  His  breath-
-ings are  as  those  of  ’Isa,  and  not  like  mere  human  sighs
+more  than  tbe  darkness  can  bebold  tbe  light.  His  breathings are  as  those  of  ’Isa,  and  not  like  mere  human  sighs
 raised  by  worldly  sorrows.  His  tears  and  bis  smiles  and
 bis  speeches  are  not  bis  own,  but  proceed  from  Allah.
 Hools  like  you  are  ignorant  of  tbe  motive  and  design  of
 saints’  actions,  and  therefore  only  barm  themselves  if  they
 try  to  imitate  them,  without  understanding  their  meaning.”
 To  illustrate  this  a curious  story  is  told  of  a foolish  lady
-who  copied  a trick  of  her  clever  slave-girl,  without  under-
-standing the  Toodus  operuTidi,  and  by  so  doing  caused  her
+who  copied  a trick  of  her  clever  slave-girl,  without  understanding the  Toodus  operuTidi,  and  by  so  doing  caused  her
 own  death.  In  like  manner  parrots  are  taught  to  speak
 without  understanding  the  words.  The  method  is  to  place
 a mirror  between  the  parrot  and  the  trainer.  The  trainer,
@@ -16285,13 +15404,7 @@ Because  he  sees  all  the  party  laughing; —
 Yet,  though  he  laughs  like  the  others.
 
 
-THE  MASNAVL
-
-
 [book  V.
-
-
-238
 
 
 He  is  tlieii  ignorant  of  the  subject  of  their  laughter ;
@@ -16360,9 +15473,6 @@ time  as  “true  dawn.”  traditions.
 ‘ Alluding  to  Bokhari,  the  author
 
 
-239
-
-
 STORY  yl]  the  disciple  AND  HIS  SHAIKH.
 
 And  Tnimble  yonrself  in  order  to  be  exalted.
@@ -16427,9 +15537,6 @@ over  sea  as  welL  tave  mysterious  meanings.  See  Rod-
 “ Truth  ’’  Li  reflected  in  the  resulting
 
 
-240
-
-
 THE  MASH  A VI.
 
 
@@ -16479,8 +15586,7 @@ Then  follows  an  anecdote  of  a man  who  heard  whelps
 barking  in  their  mother’s  womb.  A voice  came  from
 heaven  and  explained  that  these  whelps  were  like  men
 who  have  not  emerged  into  the  light  of  truth,  but  are  still
-veiled  in  spiritual  darkness,  and,  though  they  make  pre-
-tensions to  spiritual  sight,  their  discourses  are  useless,
+veiled  in  spiritual  darkness,  and,  though  they  make  pretensions to  spiritual  sight,  their  discourses  are  useless,
 both  to  procure  spiritual  food  for  themselves,  and  to  warn
 their  hearers  of  spiritual  dangers.
 
@@ -16522,8 +15628,7 @@ forbear.  She  represented  that  Gabriel  would  at  the  last
 day  be  pre-eminent  over  aU  the  eight  angels  who  would
 then  support  the  throne, ^ and  that  it  therefore  was  only
 right  that  he  should  prefer  mercy  to  judgment.  At  last
-Gabriel  granted  her  prayer,  and  returned  to  heaven  with-
-out the  handful  of  earth.  Then  God  deputed
+Gabriel  granted  her  prayer,  and  returned  to  heaven  without the  handful  of  earth.  Then  God  deputed
 
 Michael  on  the  same  errand,  and  the  Earth  made  similar
 excuses  to  him,  and  he  also  listened  to  her  crying,  and
@@ -16534,12 +15639,6 @@ returned  to  heaven  without  taking  a handful.  He  excused
 
 
 ® Koran  Ixix  17,
-
-
-242
-
-
-THE  MASNAVL
 
 
 [book  V.
@@ -16559,8 +15658,7 @@ and  brought  back  the  required  handful  of  earth.  The
 Earth  pressed  him  with  the  argument  that  God’s  command
 to  bear  away  a handful  of  her  substance  against  her  will
 id  not  override  the  other  divine  command  to  take  pity
-on  suppliants ; but  Izrail  wculd  not  listen  to  her,  remark-
-ing that,  according  to  the  canons  of  theological  interpreta-
+on  suppliants ; but  Izrail  wculd  not  listen  to  her,  remarking that,  according  to  the  canons  of  theological  interpreta-
 tion, it  was  not  allowable  to  have  recourse  to  analogical
 reasoning  to  evade  a plain  and  categorical  injunction.  He
 ^ executing  this  injunction,  painful  though
@@ -16599,9 +15697,6 @@ If  He  makes  me  fire,  I give  forth  heat.
 
 
 41-
-
-
-243
 
 
 SToai  vu.]  HOW  ADAM  17^15  CREATED.
@@ -16664,9 +15759,6 @@ It  is  said  in  the  Hadis  that  on  the  last  day
 tution”  of  all  by  free  grace.  they  really  are.”
 
 ^ Cp.  the  Hadis : “ Kispiration  is  a
-
-
-244
 
 
 THE  MASNA  VL
@@ -16815,12 +15907,6 @@ One  day  they  came  to  the  king  and  informed  him  that
 * All  the  latter  part  of  this  story  is  a parable  of  the  last  judgment.
 
 
-THE  MASNAVI.
-
-
-246
-
-
 [book  V”.
 
 
@@ -16869,9 +15955,6 @@ the  resurrection  day  thou  shalt  see  those  who  have  lied
 
 
 MAHMUD  AND  AYAZ.
-
-
-247
 
 
 STOET  vm.]
@@ -16941,9 +16024,6 @@ For  till  it  becomes  one  ‘ I,’  it  is  two  separate  ‘ I’s,’
 ^ Koran  sxiix.  61.
 
 
-THE  MASNAVL
-
-
 [uoox  V.
 
 
@@ -16974,16 +16054,13 @@ Expressing  union  with  the  light,  not  mere  incarnation."
 
 Story  IX.  The  sincere  rejpentance  of  Nasuh  (p*  443)-
 
-Ayaz,  in  weighing  the  pros  and  cons  in  regard  to  par-
-doning the  courtiers,  remarks  that  professions  of  faith  and
-penitence  when  contradicted  by  acts  are  worthless,  accord-
-ing to  the  text,  “If  ye  ask  them  who  hath  created  the
+Ayaz,  in  weighing  the  pros  and  cons  in  regard  to  pardoning the  courtiers,  remarks  that  professions  of  faith  and
+penitence  when  contradicted  by  acts  are  worthless,  according to  the  text,  “If  ye  ask  them  who  hath  created  the
 heavens  and  the  earth,  they  will  say  ‘ God ; ’ yet  they
 devise  lies,”  ^ And  in  illustration  of  this  he  tells  a story
 of  a faithless  husband  who  retired  to  a secret  chamber
 ostensibly  to  say  his  prayers,  but  really  to  carry  on  an
-intrigue  with  a slave-girl,  and  the  falsity  of  whose  pre-
-tences was  demonstrated  by  ocular  pro'of  of  his  condition.
+intrigue  with  a slave-girl,  and  the  falsity  of  whose  pretences was  demonstrated  by  ocular  pro'of  of  his  condition.
 In  like  manner,  on  the  day  of  resurrection  man’s  hands
 and  eyes  and  feet  will  bear  witness  against  him  of  the  evil
 actions  done  by  him,  thus  confuting  his  pretences  to  piety.
@@ -16991,8 +16068,7 @@ The  test  of  a sincere  repentance  is  abhorrence  of  past  sins
 and  utter  abandonment  of  all  pleasure  in  them, — ^the  old
 love  for  sin  being  superseded  by  the  new  love  for  holiness.
 
-1 See  Gulshan  i Raz,  Answer  vii.  the  Deity  into  man  {EdL-Ol),  or  incar-
-p.  45,  Mansur  Dallaj  (woolcarder),  nation,  is  rejected  both  by  Rumi  and
+1 See  Gulshan  i Raz,  Answer  vii.  the  Deity  into  man  {EdL-Ol),  or  incarp.  45,  Mansur  Dallaj  (woolcarder),  nation,  is  rejected  both  by  Rumi  and
 the  celebrated  Sufi  who  was  put  to  Shabistan  in  favour  of  the  doctrine
 death  at  Bagdad  in  309  (A,  H. ) of  intimate  union  {Iitihad  or  Wahdat).
 
@@ -17000,21 +16076,16 @@ death  at  Bagdad  in  309  (A,  H. ) of  intimate  union  {Iitihad  or  Wahdat)
 note.  The  doctrine  of  the  descent  of
 
 
-249
-
-
 STORY  IS.]  THE  REPENTANCE  OF  NASUH.
 
 Sucli  a repentance  was  that  of  Nasiih.  Nasuh  in  his
-youth  disguised  himself  in  female  attire  and  obtained  em-
-ployment as  attendant  at  the  women’s  baths,  -where  he
+youth  disguised  himself  in  female  attire  and  obtained  employment as  attendant  at  the  women’s  baths,  -where  he
 used  to  carry  on  shameful  intrigues  with  some  of  the
 women  who  frequented  the  bath.  At  last,  however,  his
 eyes  were  opened  to  the  wickedness  of  bis  conduct,  and
 he  went  to  a holy  man  and  besought  him  to  pray  for  him.
 The  holy  man,  imitating  the  long-suffering  of  the  “ Veiler
-of  sins,”  did  not  so  much  as  name  his  sin,  but  prayed,  say-
-ing, ‘‘God  give  thee  repentance  of  the  sin  thou  knowest ! ”
+of  sins,”  did  not  so  much  as  name  his  sin,  but  prayed,  saying, ‘‘God  give  thee  repentance  of  the  sin  thou  knowest ! ”
 The  prayer  of  that  holy  man  was  accepted,  because  the
 prayers  of  such  an  one  are  the  same  as  God’s  own  will,
 according  to  the  tradition,  “ My  servant  draws  nigh  to  me
@@ -17042,9 +16113,6 @@ of  temptation,  lest  he  might  fall  again,  and  God  might
 
 
 ^ Koran  xciL  lO.
-
-
-250
 
 
 THE  MASH  AVI.
@@ -17086,8 +16154,7 @@ is  next  told,  which  is  also  found  in  the  fifth  chapter  of  the
 Anwar  i Suhaili.  A lion  had  been  wounded  in  fight  with
 a male  elephant,  and  was  unable  to  hunt  game  for  himself.
 In  this  strait  he  called  a fox  who  was  wont  to  attend  upon
-him,  and  to  live  on  the  meat  that  was  left  from  his  re-
-pasts, just  as  disciples  attending  on  a saint  subsist  on  the
+him,  and  to  live  on  the  meat  that  was  left  from  his  repasts, just  as  disciples  attending  on  a saint  subsist  on  the
 heavenly  food  dropping  from  liis  lips.  He  called  this  fox,
 and  bade  him  go  and  entice  some  animal  to  come  near  his
 lair,  so  that  he  miglit  kill  it  and  make  a meal  of  it.  The
@@ -17100,9 +16167,6 @@ appointed  lot,  and  that  it  would  be  impious  to  complain
 of  the  dispensations  of  Providence.  He  also  instanced
 the  case  of  the  ass  of  a water-camer,  which,  after  having
 starved  and  worked  hard  in  its  master’s  service,  by  chance
-
-
-251
 
 
 STOBT  X.]  THE  LION,  THE  FOX,  AND  THE  ASS.
@@ -17123,8 +16187,7 @@ never  lack  plenty  of  grass  all  the  year  round.  The  ass
 rejoined  that  the  command  to  strive  for  sustenance  was
 only  issued  on  account  of  the  weakness  of  man  s faith.
 The  fox  replied  that  this  exalted  faith  was  only  vouchsafed
-to  a few  great  saints,  because  the  Prophet  describes  con-
-tentment as  a treasure,  and  treasure  is  not  found  by  every
+to  a few  great  saints,  because  the  Prophet  describes  contentment as  a treasure,  and  treasure  is  not  found  by  every
 one.  The  ass  rejoined  that  the  fox  was  perverting  the
 Scripture,  as  no  pious  man  who  trusted  in  God  was  ever
 forsaken.  In  Olustration  of  this  he  told  an  anecdote  of  a
@@ -17138,8 +16201,7 @@ him  to  take  food  in  spite  of  himself.^  The  fox  again
 pressed  the  ass  to  try  to  better  his  condition,  saying  that
 God  had  given  men  hands  to  use,  and  not  to  do  nothmg
 with.  The  ass  answered  that  he  knew  of  no  occupation
-and  exertion  better  than  trust  in  God,  as  worldly  occupa-
-tions often  lead  to  ruin,  according  to  the  text,  “ Throw  not
+and  exertion  better  than  trust  in  God,  as  worldly  occupations often  lead  to  ruin,  according  to  the  text,  “ Throw  not
 yourselves  with  your  own  hands  into  ruin.  ^ But  though
 the  ass  repeated  all  these  excellent  precepts,  yet  it  was
 only  so  much  cant  on  his  part,  because  he  was  not  firmly
@@ -17150,20 +16212,12 @@ only  so  much  cant  on  his  part,  because  he  was  not  firmly
 1 Koran  Ixii.  10.
 
 
-252
-
-
-THE  MASNAVI.
-
-
 [book  V.
 
 
-rooted  in  the  faith.  He  had  all  the  time  a carnal  hanker-
-ing after  the  pleasant  grazing-groiind  the  fox  told  him
+rooted  in  the  faith.  He  had  all  the  time  a carnal  hankering after  the  pleasant  grazing-groiind  the  fox  told  him
 ofj  and  the  objections  he  made  were  only  a parrot-like
-repetition  of  precepts  heard,  but  not  thoroughly  under-
-stood and  taken  to  heart.  To  illustrate  the  worthless
+repetition  of  precepts  heard,  but  not  thoroughly  understood and  taken  to  heart.  To  illustrate  the  worthless
 nature  of  mere  imitated  religion  and  profession  divorced
 from  practice,  a story  is  told  of  an  infamous  fellow  who
 used  to  cany  a dagger  to  protect  as  he  said,  his  honour,
@@ -17177,15 +16231,12 @@ Verily  God  is  not  ashamed  to  set  forth  as  well  the  instance
 of  a gnat  as  of  any  nobler  object  Pinally  the  ass
 yielded  to  the  fox’s  enticement,  and  accompanied  him  to
 the  lions  lair.  The  lion,  being  famished  with  hunger,
-sprang  upon  him  the  moment  he  appeared.  Being,  how-
-ever, weak  with  sickness  and  fasting,  he  missed  his  aim,
+sprang  upon  him  the  moment  he  appeared.  Being,  however, weak  with  sickness  and  fasting,  he  missed  his  aim,
 and  the  ass  escaped , with  a slight  wound.  Then  the  fox
 blamed  the  Hon  for  his  precipitation,  and  the  lion,  after
 excusmg  himself  as  best  he  could,  persuaded  the  fox  to  try
-to  allure  the  ass  a second  time  into  his  lair.  The  fox  con-
-sented to  try,  observing  that  experience  would  probably
-6 een  thrown  away  on  an  ass,  and  his  vows  of  repent-
-ance  orgotten.  Those  who  lapse  fi:om  repentance,  in  for-
+to  allure  the  ass  a second  time  into  his  lair.  The  fox  consented to  try,  observing  that  experience  would  probably
+6 een  thrown  away  on  an  ass,  and  his  vows  of  repentance  orgotten.  Those  who  lapse  fi:om  repentance,  in  for-
 getfolness  of  their  former  experience,  may  be  compared
 e Jews  changed  into  apes  and  swine  by  Tsa.^  The
 
@@ -17209,9 +16260,6 @@ mThi  “ -^ore  he  speedHy
 
 
 STORY  X.}  THE  LION,  THE  FOX,  AND  THE  ASS.
-
-
-253
 
 
 Men  who  majce  professions  of  holiness  merely  from  hlind
@@ -17271,12 +16319,6 @@ Although  the  ass  repeated  verities  to  the  fox.
 
 
 " Koran  xxviii.  38.
-
-
-254
-
-
-THE  M A SNA  VI.
 
 
 [book  V.
@@ -17351,14 +16393,12 @@ STORY  X.]  THE  LION,  THE  FOX,  AND  THE  ASS.  257
 went  to  tke  river  to  quencli  his  thirst,  telKng  the  fox  to
 watch  the  dead  body  till  he  returned;  but  the  moment
 the  lion’s  back  was  turned  the  fox  ate  up  the  heart  and
-liver,  which  are  the  daintiest  parts.  When  the  lion  re-
-turned and  inquired  for  them,  the  fox  assured  him  ^ that
+liver,  which  are  the  daintiest  parts.  When  the  lion  returned and  inquired  for  them,  the  fox  assured  him  ^ that
 the  ass  had  possessed  neither  a heart  nor  a liver,  for  if  he
 had  he  would  never  have  shown  himself  so  stupid.  Men
 without  understanding  are  not  really  men  at  all,  but  only
 simulacra,  or  forms  of  men.  For  lack  of  understanding
-many  will  cry  in  the  world  to  come,  “ Had  we  but  heark-
-ened or  understood,  we  had  not  been  among  the  dwellers
+many  will  cry  in  the  world  to  come,  “ Had  we  but  hearkened or  understood,  we  had  not  been  among  the  dwellers
 in  the  flame.”  ^ Then  follows  a story  of  a monk  (Diogenes)
 who  took  a lantern  and  searched  all  through  a bazaar
 crowded  with  men  to  And,  as  he  said,  a man.
@@ -17402,13 +16442,8 @@ It  turns  steel  and  stone  to  water.
 1 Koran  IxxviL  10.
 
 
-THE  MASNAVL
-
-
 [book  V.
 
-
-256
 
 Where  is  safety  to  be  found  save  in  Noah’s  ark  ?
 
@@ -17466,18 +16501,15 @@ one  of  His  agents.  Satan,  resembles  tbe  Turkoman  s dog
 wlio  sits  at  tbe  door  of  tbe  tent,  and  is  “ vehement  against
 aliens,  but  full  of  tenderness  to  friends.”  ^ Tbe  Musulman
 then  replied  ‘witb  tbe  arguments  of  tbe  Qadarians  and
-MvHazilites,  to  prove  tbe  freedom  of  tbe  will  and  conse-
-quent responsibility  of  man  for  bis  actions.  He  urged  tbat
-man’s  free  agency  and  consequent  responsibility  are  recog-
-nised in  common  parlance,  as  wben  we  order  a man  to  act
+MvHazilites,  to  prove  tbe  freedom  of  tbe  will  and  consequent responsibility  of  man  for  bis  actions.  He  urged  tbat
+man’s  free  agency  and  consequent  responsibility  are  recognised in  common  parlance,  as  wben  we  order  a man  to  act
 in  a certain  way, — tbat  God  expressly  assumes  man  to  be
 a free  agent  by  addressing  commands  and  prohibitions  to
 him,  and  by  specially  exempting  some,  such  as  tbe  blind,^
 from  responsibibty  for  certain  acts,  tbat  our  internal
 consciousness  assures  us  of  our  power  of  choice,  just  as
 outward  sense  assures  us  of  properties  in  material  objects,
-— and  tbat  it  is  just  as  sophistical  to  disbelieve  tbe  declara-
-tions of  the  interior  consciousness,  as  those  of  tbe  outward
+— and  tbat  it  is  just  as  sophistical  to  disbelieve  tbe  declarations of  the  interior  consciousness,  as  those  of  tbe  outward
 senses  as  to  tbe  reality  of  tbe  material  world.  He  then
 told  an  anecdote  of  a man  caught  robbing  a garden  and
 defending  himself  witb  tbe  fatalist  plea  of  irresponsibility,  -
@@ -17544,8 +16576,7 @@ faith.  The  Magian  replied,  “ If  God  wills  it,  no  doubt  I
 shall  do  so.”  ^ The  Musulman  replied,  “ God  certainly
 wills  it,  that  your  soul  may  be  saved  from  hell ; but  your
 own  evil  lusts  and  the  Devil  hold  you  back,”  The  Magian
-retorted,  using  the  arguments  of  the  Jahnynn  or  “Com-
-pulsionists,”  that  on  earth  God  is  sole  sovereign,  and  that
+retorted,  using  the  arguments  of  the  Jahnynn  or  “Compulsionists,”  that  on  earth  God  is  sole  sovereign,  and  that
 Satan  and  lust  exist  and  act  only  in  furtherance  of  God  s
 will.  To  hold  that  God  is  pulling  men  one  way  and  Satan
 another  is  to  derogate  from  God’s  sovereignty.  Man  cannot
@@ -17636,14 +16667,10 @@ p,  13,  and  notes.
 26o
 
 
-THE  M A SNA  VI,
-
-
 [UOOK  V.
 
 
-slave,  and  then  look  for  recompense."  The  lifagian,  un-
-convinced by  the  arguments  of  the  Musulman,  again  plied
+slave,  and  then  look  for  recompense."  The  lifagian,  unconvinced by  the  arguments  of  the  Musulman,  again  plied
 him  with  “ Compulsionisb  ” arguments,  and  the  discussion
 was  protracted,  with  the  usual  result  of  leaving  both  the
 disputants  of  the  same  opinion  as  when  they  began.  The
@@ -17667,8 +16694,7 @@ Hunt  for  that  Waterfowl  in  every  stream !
 
 How  can  you  get  water  from  that  which  cuts  it  off  ?
 
-How  gain  understanding  from  what  destroys  under-
-standinf?  ?
+How  gain  understanding  from  what  destroys  understandinf?  ?
 
 Apart  from  principles  of  reason  are  other  principles
 Of  light  and  great  price  to  be  gained  by  love  of  God.
@@ -17680,8 +16706,7 @@ By  your  carnal  reason  you  may  procure  earthly  food,
 By  God-given  reason  you  may  mount  the  heavens.
 
 When,  to  win  enduring  love  of  God,  you  sacrifice  reason,
-God  gives  you  “ a tenfold  recompense  j ” ^ ysa,  seven  hun-
-dred fold.
+God  gives  you  “ a tenfold  recompense  j ” ^ ysa,  seven  hundred fold.
 
 When  those  Egyptian  women  sacrificed  their  reason,*
 They  penetrated  the  mansion  of  Joseph’s  love  ;
@@ -17774,12 +16799,6 @@ The  thesis  that  silence  may  indicate  emotions  too  deep
 1 Alluding  to  Story  viL  Book  II.
 
 
-262
-
-
-THE  MASNA  VI.
-
-
 [book  t.
 
 witlL  it  to  see  ; it  can  see  nothing  but  what  it  has  gained
@@ -17833,9 +16852,6 @@ But  open  and  manifest  to  the  spiritual !
 O God,  our  eyes  are  blinded !
 
 O pardon  us,  our  sins  are  a heavy  burden !
-
-
-263
 
 
 STORY  viil]  MAHMUD  and  ay AZ.
@@ -17906,9 +16922,6 @@ The  thesis  that  silence  may  indicate  emotions  too  deep
 THE  MASH  AVI.
 
 
-264
-
-
 [liOOEL  V.
 
 
@@ -17935,8 +16948,7 @@ Gueber  said  that  he  admired  and  envied  the  faith  of  Bay  azid,
 though  he  had  no  power  to  imitate  it  j but  as  for  the  faith
 of  the  missionary  who  was  trying  to  convert  him,  it  only
 inspired  him  with  aversion,  because  it  was  plainly  insincere
-and  hypocritical.  And  he  told  an  anecdote  of  a harsh-
-voiced  Mu'azzin  who  went  into  a heathen  country  and
+and  hypocritical.  And  he  told  an  anecdote  of  a harshvoiced  Mu'azzin  who  went  into  a heathen  country  and
 there  uttered  the  call  to  prayer.  It  happened  that  there
 was  a girl  in  that  place  who  had  long  been  inclined  to
 embrace  Islam,  much  to  the  grief  of  her  parents ; bub
@@ -17972,8 +16984,7 @@ Story  XII.  The  Devotee  who  broke  the  noble’s  wine-jar
 
 (p.  471)-
 
-A certain  noble,  who  lived  under  the  Christian  dis-
-pensation when  wine  was  allowed,  sent  his  servant  to  a
+A certain  noble,  who  lived  under  the  Christian  dispensation when  wine  was  allowed,  sent  his  servant  to  a
 monastery  to  fetch  some  wine.  The  servant  went  and
 bought  the  wine,  and  was  returning  with  it,  when  he
 passed  the  house  of  a very  austere  and  testy  devotee.  This
@@ -17983,8 +16994,7 @@ devotee  said,  “What!  does  a follower  of  God  indulge  in
 wine?  followers  of  God  should  have  naught  to  do  with
 pleasure  and  drinking  ; for  wine  is  a very  Satan,  and  steals
 men’s  wits.  Your  wits  are  not  too  bright  a,beady,  so  you
-have  no  need  to  render  them  still  duller  by  drink.  In  illus-
-tration of  this,  he  told  the  story  of  one  Ziayi  Dalaq,  a very
+have  no  need  to  render  them  still  duller  by  drink.  In  illustration of  this,  he  told  the  story  of  one  Ziayi  Dalaq,  a very
 taU  man,  who  had  a dwarfish  brother.  This  brother  one
 day  received  him  very  ungraciously,  only  half  rising  from
 his  seat  in  answer  to  his  salutation,  and  Ziayi  Dalaq
@@ -18052,9 +17062,6 @@ life  Meei”  ? future  mansion  is
 MAHMUD  AND  AYAZ.
 
 
-267
-
-
 DescTijption  of  a,  devotee  who  trusted  to  the  light  of  natw  e
 
 (P-  473)-
@@ -18101,8 +17108,7 @@ For  he  loses  the  kernel  in  his  love  for  the  shell.
 
 Stoey  'VTTT  {emtinued).  Mahmud  and  Aydz  (p.  476).
 
-Mahmud  again  presses  Ayaz  to  reveal  his  secrets,  re-
-marking that  even  if  they  suggest  sad  thoughts,  they  will
+Mahmud  again  presses  Ayaz  to  reveal  his  secrets,  remarking that  even  if  they  suggest  sad  thoughts,  they  will
 benefit  the  hearers.  The  wise  man  is  as  a guest-house,
 and  he  admits  all  the  thoughts  that  occur  to  him,  whether
 of  joy  or  of  sorrow,  with  the  same  welcome,  knowing  that,
@@ -18113,9 +17119,6 @@ a valued  guest  by  a petulant  remark,  which  he  was  not
 1 “But  as  to  the  infidels,  their  ^ ® he  has  no  director (iJ/ursAid
 works  are  like  the  mirage  in.  the  JcdiniL)  to  instruct  him  in  the  right
 desert”  (Koran  xxiv.  39).  course.
-
-
-268
 
 
 THE  MASNA  VL
@@ -18143,8 +17146,7 @@ against  one’s  own  lusts  and  passions,  demands  as  much
 courage  as  the  “ lesser  warfare  ” against  the  infidels.  This
 is  illustrated  by  a story  of  a saint  named  Tyazi,  who,  after
 having  been  a great  warrior  against  the  infidels,  renounced
-the  world  and  applied  himself  to  wage  the  “ greater  war-
-fare against  his  own  lusts.  One  day,  while  sitting  in  his
+the  world  and  applied  himself  to  wage  the  “ greater  warfare against  his  own  lusts.  One  day,  while  sitting  in  his
 cell,  he  heard  the  noise  of  the  army  going  out  to  fight,  and
 his  carnal  passion  urged  him  to  go  and  join  in  the  fight,
 but  he  thus  rebuked  it : —
@@ -18170,9 +17172,6 @@ And  without  mouth  vented  the  following  complaints
 
 
 MAHMUD  AND  AYAZ.
-
-
-269
 
 
 STORT  Vlir.]
@@ -18216,11 +17215,9 @@ Such  persons  must  shim  the  array  of  battle,
 
 And  keep  aloof  from  it  even  as  women  do.”
 
-This  is  followed  by  an  anecdote  of  another  brave  war-
-rior who  ‘‘  was  among  the  faithful,  and  made  good  what
+This  is  followed  by  an  anecdote  of  another  brave  warrior who  ‘‘  was  among  the  faithful,  and  made  good  what
 he  had  promised  to  God.”  ^ Then  comes  a long  story  of  a
-prince  of  Egypt  who  saw  the  portrait  of  a damsel  belong-
-ing to  the  Chief  of  Mausil,  and  conceived  an  ardent  passion
+prince  of  Egypt  who  saw  the  portrait  of  a damsel  belonging to  the  Chief  of  Mausil,  and  conceived  an  ardent  passion
 for  her,  and  sent  an  army  to  take  her  by  force.  The  army
 succeeded  in  capturing  her,  and  set  out  on  the  return
 march ; but  on  the  way  the  captain  of  the  army  fell  in
@@ -18232,9 +17229,6 @@ discovered  her  secret,  and  though  he  might  justly  have
 
 
 I Koran  xxxiii.  23.
-
-
-270
 
 
 r///*  .\tASNA  VI.
@@ -18479,8 +17473,7 @@ being  tempted  by  the  rewards  given  to  the  rest,  decided
 that  the  king’s  command  ought  to  be  obeyed  at  all  costs,
 and  therefore  broke  the  jewel  to  pieces.  B^d  imitation
 of  current  fashions  and  ruling  “ public  opinion  is  the
-way  of  the  world,  but  its  worthlessness  is  at  once  mani-
-fested when  it  is  put  to  the  test.  True  faith  is  a reason-
+way  of  the  world,  but  its  worthlessness  is  at  once  manifested when  it  is  put  to  the  test.  True  faith  is  a reason-
 able faith,  not  one  adopted  and  held  in  mechanical  and
 parroWike  fashion.  The  Hng  then  commanded  that  those
 courtiers  whose  faith  had  been  shown  to  be  mere  taqlid
@@ -18489,18 +17482,11 @@ to  death ; but  Ayaz  interceded  for  them,  saying,  O Lord,,
 punish  them  not  if  they  forget  or  fall  into  sin  ; ” ^ although
 their  plea  that  they  sinned  through  forgetfulness  is  of
 no  more  weight  than  the  plea  of  having  sinned  through
-drunkenness,  seeing  that  both  forgetfulness  and  drunken-
-ness are  wilfully  incurred.  Those  who  die  in  amity  with
+drunkenness,  seeing  that  both  forgetfulness  and  drunkenness are  wilfully  incurred.  Those  who  die  in  amity  with
 God  have  no  cause  to  fear  death, — “ It  cannot  harm  them.
 
 
 ^ Koran  ii.  286.
-
-
-274
-
-
-THE  MASNA  VI.
 
 
 [book  V.
@@ -18758,15 +17744,8 @@ Knowledge  is  the  effect  flowing  from  soul ;
 
 1 Koran  xvii.  72.  Man  undertook  to  bear  it,  but  hath
 
-3 “We  proposed  to  the  heavens  proved  unjust  and  senseless”  (Ko-
-and  to  the  earth  to  receive  the  de-  ran  xxxiiL  72),
+3 “We  proposed  to  the  heavens  proved  unjust  and  senseless”  (Koand  to  the  earth  to  receive  the  de-  ran  xxxiiL  72),
 posit,  but  they  refused  the  burden.
-
-
-278
-
-
-THE  MASNAVI.
 
 
 [book  VI.
@@ -18837,9 +17816,6 @@ PROLOGUE.
 BOOK  VL]
 
 
-279
-
-
 He  said,  “ Nay ; it  will  be  published  by  them  that  hear ;
 ‘A  secret  known  to  more  than  two  is  known  to  every  one.’  ^
 As  I live  in  the  midst  of  these  Arabs,
@@ -18862,8 +17838,7 @@ This  flux  and  reflux  of  resolves  came  to  me  from  Thee,
 
 Else  these  tides  of  wiU  had  rested  still,  0 God  I
 
-By  the  same  fiat  whereby  Thou  madest  me  thus  irre-
-solute,
+By  the  same  fiat  whereby  Thou  madest  me  thus  irresolute,
 
 Of  Thy  mercy  deliver  me  from  this  irresolution !
 
@@ -18949,16 +17924,11 @@ STORY  L]
 THE  HINDU  SLAVE.
 
 
-281
-
-
-tried,  and  then  they  are  found  to  be  very  bitter  and  re-
-pulsive. The  Prophet  has  declared  that  “ Patience  is  the
+tried,  and  then  they  are  found  to  be  very  bitter  and  repulsive. The  Prophet  has  declared  that  “ Patience  is  the
 key  of  joy;"^  in  other  words,  that  he  who  controls  and
 restrains  himself  from  grasping  at  worldly  pleasures  will
 find  true  happiness ; but  this  precept  makes  no  lasting
-impression  on  the  bulk  of  mankind.  When  bitter  experi-
-ence overtakes  them,  as  the  pain  of  biuming  afflicts  children,
+impression  on  the  bulk  of  mankind.  When  bitter  experience overtakes  them,  as  the  pain  of  biuming  afflicts  children,
 or  moths  sporting  with  fire,  or  the  pain  of  amputation  a
 thief,  they  curse  the  delusive  temptations  which  brought
 this  pain  upon  them;  but  no  sooner  is  the  pain  abated
@@ -18980,12 +17950,10 @@ agency  of  Allah.
 Then,  to  supply  the  necessary  corrective  of  this  doctrine,
 another  anecdote  is  told  concerning  Mahmud  and  Ayaz.
 The  courtiers  grumbled  because  Ayaz  received  the  stipend
-of  thirty  courtiers,  and  Mahmud  by  a practical  test  con-
-vinced them  that  the  talents  of  Ayaz  equalled  those  of
+of  thirty  courtiers,  and  Mahmud  by  a practical  test  convinced them  that  the  talents  of  Ayaz  equalled  those  of
 thirty  men.  The  courtiers  replied  that  this  was  due  to
 God’s  grace,  not  to  any  merit  on  the  part  of  Ayaz ; and  the
-king  confuted  them  by  pointing  out  that  man’s  responsi-
-bility and  merit,  or  demerit,  for  his  actions  are  recognised
+king  confuted  them  by  pointing  out  that  man’s  responsibility and  merit,  or  demerit,  for  his  actions  are  recognised
 in  the  Koran.  Iblis  was  condemned  for  saying  to  God,
 
 “ Thou  hast  caused  me  to  eir,”  ^ and  Adam  was  commended
@@ -18995,17 +17963,10 @@ in  the  Koran.  Iblis  was  condemned  for  saying  to  God,
 3 Koran  v.  69.  * Koran  vii.  1 5 and  22.
 
 
-282
-
-
-THE  MASNA  VI.
-
-
 [book  VI.
 
 
-for  saying,  “ We  have  blackened  ourselves.”  ^ And  else-
-where it  is  said,  “Whosoever  shall  have  wrought  an
+for  saying,  “ We  have  blackened  ourselves.”  ^ And  elsewhere it  is  said,  “Whosoever  shall  have  wrought  an
 atom’s  weight  of  good  shall  behold  it ; and  whoso  shall
 have  wrought  an  atom’s  weight  of  evil  shall  behold  it.”  ^
 
@@ -19020,15 +17981,13 @@ wrong,  but  foolishly  lingered  near,  and  began  to  question
 him  as  to  his  business.  The  fowler  said  he  was  a hermit
 who  had  retired  from  the  world  and  dressed  himself  in
 weeds  for  the  health  of  his  soul.  The  bird  said  he  was
-surprised  to  see  a Musulman  doing  this  in  contraven-
-tion of  the  Prophet’s  precept,  “ There  is  no  monkeiy  in
+surprised  to  see  a Musulman  doing  this  in  contravention of  the  Prophet’s  precept,  “ There  is  no  monkeiy  in
 Islam,”  and  his  repeated  declarations  that  Islam  involves
 association  with  the  faithful  and  avoidance  of  a solitary
 life.  The  fowler  replied  that  a solitary  life  was  allowed  in
 heathen  countries  for  the  soul’s  health.^  The  bird  then
 asked  what  the  grains  of  wheat  were  that  were  strewed
-on  the  trap.  The  fowler  replied  that  they  were  the  pro-
-perty of  an  orphan,  which  had  been  deposited  with  him
+on  the  trap.  The  fowler  replied  that  they  were  the  property of  an  orphan,  which  had  been  deposited  with  him
 in  consequence  of  his  known  probity.  The  bird  then
 asked  permission  to  eat  some,  as  he  was  very  hungry,  and
 the  fowler,  with  much  pretended  reluctance,  allowed  him  to
@@ -19046,9 +18005,6 @@ Koran  vii.  and  22.  s Koran  xcix.  7.
 
 
 STOET  n.]  THE  FO  WLER  AND  THE  BIRD.
-
-
-283
 
 
 The  bird’s  cries  to  God  for  aid  (p.  505).
@@ -19116,13 +18072,8 @@ For  apart  from  Thee  I am  wearied  of  my  life.
 I am  weary  of  learning  and  sense.
 
 
-THE  M A SNA  VI.
-
-
 [book  VI.
 
-
-284
 
 Since  my  baslifulness  is  destroyed,  I will  publisb  secrets ;
 How  long  must  I bear  this  trepidation  and  anxiety  ?
@@ -19147,8 +18098,7 @@ that  ask,  it  shall  be  answered  to  you ; and  ye  that  crave
 pardon,  it  shall  be  pardoned  to  you  j and  ye  that  petition,
 your  petitions  shall  be  granted.’  ” But  all  who  sleep  the
 sleep  of  negligence  will  miss  the  promised  blessing.  This .
-is  illustrated  by  the  story  of  a lover  who  obtained  an  assig-
-nation with  his  mistress,  but  when  she  came,  was  found
+is  illustrated  by  the  story  of  a lover  who  obtained  an  assignation with  his  mistress,  but  when  she  came,  was  found
 asleep,  and  was  accordingly  rejected.
 
 
@@ -19160,11 +18110,9 @@ negation,”  as  they  are  called  in  the  Gulshan  i Baz^ — i.e.,
 even  as  the  great  saint  and  poet  Faridu-’d-Din  ’Attar  cast
 away  his  drugs,  to  cast  one’s  own  will,  knowledge,  power,
 and  “ self”  into  the  unique  river  of  “ annihilation,”  ^ and
-from  that  state  to  rise  to  the  higher  state  of  eternal  exist-
-ence in  God.  The  end  and  object  of  all  negation  is  to
+from  that  state  to  rise  to  the  higher  state  of  eternal  existence in  God.  The  end  and  object  of  all  negation  is  to
 attain  to  subsequent  affirmation,  as  the  negation  in  the
-creed,  “ There  is  no  God,”  finds  its  complement  and  pur-
-pose in  the  affirmation  “but  God.”  Just  so  the  purpose
+creed,  “ There  is  no  God,”  finds  its  complement  and  purpose in  the  affirmation  “but  God.”  Just  so  the  purpose
 
 ^ “ To  God  I commit  my  case  ” (Koran  xL  47).
 
@@ -19217,8 +18165,7 @@ yoa  answer  only  by  negations,  yonr  answer  is  a waste  of
 time.  Say  what  yon  mean  by  all  these  negataona  The
 minstrel  replied,  “My  meaning  is  a concealed  one.  I
 fear  to  make  affirmations  in  opposition  to  your  negations,
-so  I state  negations  that  you  may  get  a Hut  of  the  corre-
-sponding affirmations  from  them.  I now  hint  the  truth
+so  I state  negations  that  you  may  get  a Hut  of  the  corresponding affirmations  from  them.  I now  hint  the  truth
 to  you  in  my  song;  and  when  death  comes  to  you,  you
 
 
@@ -19292,9 +18239,6 @@ When  man  is  united  with  God  he  can  no  longer  behold  Him,  for  he
 is  dwelling  in  Him.
 
 
-287
-
-
 STORY  III.]  THE  AMtR  AND  THE  MINSTREL.
 
 Thou  art  my  reason  j what  wonder  if  I see  Thee  not
@@ -19343,12 +18287,6 @@ for  rejoicing,  not  for  wailing.  The  man  who  is  engrossed
 
 
 1 Koran  L 15*
-
-
-288
-
-
-THE  MASNAVL
 
 
 [book  YU
@@ -19416,9 +18354,6 @@ I likewise,  in  order  to  please  the  merciful  God,
 STOEY  ly.]  THE  PURCHASE  OF  BILAL.
 
 
-289
-
-
 Beat  my  drum  at  every  door  in  iiope  of  dawn.
 
 Seek  ye  a purchaser  who  will  pay  you  gold ;
@@ -19466,14 +18401,10 @@ but  Abu  Bakr  told  him,  somewhat  to  his  annoyance,  that
 he  had  already  set  him  free.  Notwithstanding  this  Bilal
 
 
-THE  M A SNA  VI.
-
-
 [book  TIv
 
 
-attached  himself  to  the  Prophet,  and  was  afterwards  pro-
-moted to  the  honourable  post  of  the  Prophet’s  Mio’azzin.
+attached  himself  to  the  Prophet,  and  was  afterwards  promoted to  the  honourable  post  of  the  Prophet’s  Mio’azzin.
 
 This  is  followed  by  the  story  of  Hilal,  another  holy  man
 who,  like  Bilal  and  Lnqman  and  Joseph,  served  a noble
@@ -19484,8 +18415,7 @@ will  not  stop  till  I reach  the  confluence  of  the  two  seas,
 and  for  years  will  I journey  on.”  ^ Herein  he  presented  a
 great  contrast  to  ordinary  men,  who  are  ever  giving  way
 to  their  lusts,  and  so  being  dragged  down  into  the  state  of
-mere  animals,  or  even  lower.  Hilal’s  master  was  a Musul-
-man,  yet  one  whose  eyes  were  only  partially  open  to  the
+mere  animals,  or  even  lower.  Hilal’s  master  was  a Musulman,  yet  one  whose  eyes  were  only  partially  open  to  the
 truth.  He  was  in  the  habit  of  asking  his  guests  their
 age;  and  if  they  answered  doubtfully,  saying,  “Perhaps
 eighteen,  or  seventeen,  or  sixteen,  or  even  fifteen,”  he  would
@@ -19494,12 +18424,10 @@ lower  and  lower,  you  had  better  go  back  at  once  to  your
 mother’s  womb.”  These  guests  are  a type  of  men  who
 lower  themselves  &om  the  rank  of  humanity  to  that  of
 animals.  This-  master,  however,  was  blind  to  EQlal  s
-spiritual  excellence,  and  allowed  him  to  drag  on  a miser-
-able existence  in  his  stables.  At  last  Hilal  fell  sick ; but
+spiritual  excellence,  and  allowed  him  to  drag  on  a miserable existence  in  his  stables.  At  last  Hilal  fell  sick ; but
 no  one  cared  for  him,  till  the  Prophet  himself,  warned  by
 a divine  intimation,  came  to  visit  him,  and  commiserated
-his  wretched  condition.  Hilal  proved  himself  to  be  faith-
-ful through  tribulation ; for,  instead  of  grumbling  at  his
+his  wretched  condition.  Hilal  proved  himself  to  be  faithful through  tribulation ; for,  instead  of  grumbling  at  his
 lot,  he  replied,  “How  is  that  sleep  wretched  which  is
 broken  by  the  advent  of  the  Sun  of  prophecy  ? or  how  can
 he  be  called  athirst  on  whose  head  is  poured  the  water  of
@@ -19518,9 +18446,6 @@ God’s  Word  aright
 
 
 BTOSY  IV.]  THE  PURCHASE  OF  BILAL.
-
-
-291
 
 
 Growth  in  grace  is  accoinplishecl  ly  slow  degrees^  aiul
@@ -19587,9 +18512,6 @@ who  painted  her  face  to  make  it  look  pretty,  but  was
 detected  and  exposed  to  scorn.
 
 
-292
-
-
 THE  AfASNAVI.
 
 
@@ -19612,8 +18534,7 @@ He  was  seized  with  a desire  to  hit  the  Sufi  on  the  back,
 and,  calling  to  mind  the  physician’s  advice,  at  once  carried
 his  wish  into  effect.  The  Sufi  jumped  up,  and  was  about
 to  return  the  blow,  but  when  he  saw  the  weakly  and  infirm
-condition  of  his  assailant  he  restrained  himself.  He  dis-
-regarded his  present  angry  impulse,  and  had  regard  to
+condition  of  his  assailant  he  restrained  himself.  He  disregarded his  present  angry  impulse,  and  had  regard  to
 the  future,  so  that  the  non-existent  future  became  to  him
 more  really  existent  than  the  existing  present.  Here  the
 poet  digresses  to  point  out  that  when  wise  men  recognise
@@ -19624,8 +18545,7 @@ by  an  anecdote  of  Mahmud  of  Ghazni,  quoted  fi:om  Faridu-
 ’d-Din  ’Attar.  Mahmud,  in  one  of  his  campaigns,  took
 prisoner  a Hindu  boy,  who  at  first  regarded  him  with  the
 greatest  dread,  in  consequence  of  the  stories  he  had  heard
-of  him  from  his  mother,  but  afterwards  experienced  Mah-
-mud’s kindness  and  tenderness,  and  came  to  know  him  and
+of  him  from  his  mother,  but  afterwards  experienced  Mahmud’s kindness  and  tenderness,  and  came  to  know  him  and
 love  him.  So  it  is  with  death.  According  to  the  Sadis
 “ Those  who  have  passed  away  do  not  grieve  because  of
 death,  but  because  of  wasted  opportunities  in  life.”  The
@@ -19634,9 +18554,6 @@ a treasury  containing  only  the  doctrines  of  “ Unity ; ” and
 if  its  stories  suggest  aught  else,  that  is  due  to  the  evil
 
 ^ Koran  xli.  40.
-
-
-293
 
 
 STORY  V.]  THE  SUFI  AND  THE  qAZI.
@@ -19663,11 +18580,9 @@ pointed  out  to  the  Qazi  that  by  his  ill-timed  leniency  to
 the  Faqir  he  had  brought  this  blow  upon  himself,  and
 urged  tiim  to  apply  in  his  own  case  those  principles  of
 mercy  and  forgiveness  which  he  had  proposed  in  the
-case  of  another.  The  Qazi  said  that,  for  his  part,  he  recog-
-nised every  blow  and  misfortune  that  might  befall  him  as
+case  of  another.  The  Qazi  said  that,  for  his  part,  he  recognised every  blow  and  misfortune  that  might  befall  him  as
 divinely  ordained,  and  sent  for  Ms  good,  according  to  the
-text,  “Laugh  little  and  weep  much,”^  and  that  his  judg-
-ment in  the  matter  of  the  Faqir  had  not  been  dictated  by
+text,  “Laugh  little  and  weep  much,”^  and  that  his  judgment in  the  matter  of  the  Faqir  had  not  been  dictated  by
 impulse,  but  by  inspiration.^  The  Sufi  again  asked  1^
 how  evils  and  misfortunes  could  proceed  from  the  divine
 fount  of  good,  and  the  Qazi  replied  that  what  seems  good
@@ -19682,12 +18597,6 @@ that  only  good  should  be  experienced  in  it,  and  the  Qazi
 a Koran  84.  * 3-
 
 
-THE  MASNAVL
-
-
-294
-
-
 [book  vr.
 
 
@@ -19699,8 +18608,7 @@ himself  to  be  robbed  of  the  silk  which  was  to  furnish  him
 with  a vesture  for  eternity.  The  Sufi  again  retorted  that
 he  did  not  see  why  the  world  would  not  get  on  better
 without  the  evil  in  it,  and  the  Qazi  replied  with  the
-poet’s  favourite  argument  that  there  would  be  no  pos-
-sibility of  being  virtuous  if  there  were  no  temptations
+poet’s  favourite  argument  that  there  would  be  no  possibility of  being  virtuous  if  there  were  no  temptations
 to  be  vicious.  As  Bishop  Butler  says,  this  life  is  a state
 of  probation,  and  such  a state  necessarily  involves  trials
 and  difficulties  and  dangers  to  be  resisted  and  overcome.
@@ -19839,8 +18747,7 @@ troubles  are  so  hard  to  bear  as  separation  from  the
 Beloved.  Fasting  and  holy  war  bring  pains  with  them,
 ut  not  so  great  as  those  incurred  by  banishment  from
 God.  In  the  midst  of  their  troubles  God  is  ever  caring
-for  His  servants,  and  they  must  not  let  their  tribula-
-tions blot  out  the  memory  of  God’s  previous  "oodness
+for  His  servants,  and  they  must  not  let  their  tribulations blot  out  the  memory  of  God’s  previous  "oodness
 to  them.  ^
 
 shows  an  entire  absence  of  growth  in  grace,
@@ -19861,9 +18768,6 @@ not  at  all  m goodness  since  he  was  bom.
 STOEYV.]  THE  SUFI  AND  THE  QAZI.
 
 
-297
-
-
 Each  of  OUT  membeTS  testifies  to  God’s  bounties  towavds  us
 
 (p.  632).
@@ -19878,8 +18782,7 @@ Which  are  recorded  in  the  volume  of  the  universe.
 Day  and  night  you  are  eagerly  asking  for  news,
 
 Whilst  every  member  of  your  body  is  telling  you  news.
-Since  each  member  of  your  body  issued  from  Not-
-being,
+Since  each  member  of  your  body  issued  from  Notbeing,
 
 How  much  pleasure  has  it  seen,  and  how  much  pain  ?
 
@@ -19996,9 +18899,6 @@ shut  their  eyes  to  it,  and  look  afar  off  for  what  is  really
 offspring  of  commnnion  witli  God.
 
 
-299
-
-
 storttl]  the  FAQIR  AND  THE  TREASURE.
 
 close  to  them,  so  that  they  incur  the  penalty  of  “being
@@ -20024,8 +18924,7 @@ got  weary  of  searching,  and  returned  the  writing  to  the
 Faqir.  Then  the  Faqir  tried  what  he  could  do,  but  failed
 altogether  to  hit  the  spot  where  the  treasure  was  buried.
 At  last,  despairing  of  success  by  his  own  unaided  eSbrts,
-he  cast  his  care  upon  God,  and  implored  the  divine  assist-
-ance. Then  a voice  from  heaven  came  to  him,  saying,
+he  cast  his  care  upon  God,  and  implored  the  divine  assistance. Then  a voice  from  heaven  came  to  him,  saying,
 “ You  were  directed  to  fix  an  arrow  on  your  bow,  but  not
 to  draw  your  bow  with  all  your  might,  as  you  have  been
 doing.  Shoot  as  gently  as  possible,  that  the  arrow  may
@@ -20041,12 +18940,6 @@ and  the  Prophet  Hud  or  Heber.
 
 
 - Koran  1.  15.
-
-
-300
-
-
-THE  MASNA  VI.
 
 
 [book  VI.
@@ -20182,12 +19075,6 @@ note.
 “ God  is  all  things.”
 
 
-302
-
-
-THE  MASNA  VI.
-
-
 [book  VI.
 
 
@@ -20211,8 +19098,7 @@ So  that  you  will  cast  off  these  furs  and  silks,
 
 And  seek  for  a refuge  from  cold  with  cold  itself.
 
-You  have  only  one  eye,  not  two  (for  these  two  possi-
-bilities).
+You  have  only  one  eye,  not  two  (for  these  two  possibilities).
 
 You  have  forgotten  the  story  of  the  “ shadowing  cloud.”  ^
 God’s  command  came  to  city  and  village,
@@ -20324,12 +19210,6 @@ Sought  his  ark  of  safety  on  a protecting  mountain.
 1 Koran  xsix.  69.
 
 
-304
-
-
-THE  MASNAVL
-
-
 [book  ti-
 
 
@@ -20352,8 +19232,7 @@ Story  YII.  The  Three  Travellers  (p.  545)-
 
 A Musulman  was  travelling  with  two  unbelievers,  a
 Jew  and  a Christian,  like  wisdom  linked  with  the  flesh
-and  the  devil.  God  was  “ nigh  unto  His  faithful  ser-
-vant,”^ and  when  the  first  stage  was  completed  He
+and  the  devil.  God  was  “ nigh  unto  His  faithful  servant,”^ and  when  the  first  stage  was  completed  He
 caused  a present  of  sweetmeats  to  be  laid  before  the
 travellers.  As  the  Jew  and  the  Christian  had  already
 eaten  their  evening  meal  when  the  sweetmeats  arrived,
@@ -20363,11 +19242,9 @@ not  eat  before  nightfall,  proposed  to  eat  them  that  night.
 To  this  the  other  two  refused  to  consent,  alleging  that
 the  Musulman  wanted  to  eat  the  whole  of  the  sweetmeats
 himself.  Then  the  Musulman  proposed  to  divide  them
-into  three  portions,  so  that  each  might  eat  his  own  por-
-tion when  he  pleased ; but  this  also  was  objected  to  by
+into  three  portions,  so  that  each  might  eat  his  own  portion when  he  pleased ; but  this  also  was  objected  to  by
 the  others,  who  quoted  the  proverb,  “ The  divider  is  in
-hell.”  The  Musulman  explained  to  them  that  this  pro-
-verb meant  the  man  who  divides  his  allegiance  between
+hell.”  The  Musulman  explained  to  them  that  this  proverb meant  the  man  who  divides  his  allegiance  between
 God  and  lust ; but  they  still  refused  to  give  way,  and  the
 ^Musulman  therefore  submitted,  and  lay  down  to  sleep  in
 the  endurance  of  the  pangs  of  hunger.  Next  morning,
@@ -20391,8 +19268,7 @@ the  fourth  heaven  and  shown  him  all  the  glories  of  the
 heavens.  Finally  the  Musulman  said  that  the  Prophet
 Muhammad  had  appeared  to  him  in  person,  and  after
 commending  him  for  his  piety  in  saying  his  prayers  and
-keeping  fast  so  strictly  on  the  previous  night,  had  com-
-manded him  to  eat  up  those  divinely  provided  sweetmeats
+keeping  fast  so  strictly  on  the  previous  night,  had  commanded him  to  eat  up  those  divinely  provided  sweetmeats
 as  a reward,  and  he  had  accordingly  done  so.  The  Jew
 and  the  Christian  were  at  first  annoyed  with  him  for  thus
 stealing  a march  upon  them ; but  on  his  pointing  out  that
@@ -20498,9 +19374,6 @@ Sucb  proofs  are  as  tbe  staff  of  a blind  man.
 ^ Koran  li.  56.
 
 3 Samiri,  the  maker  of  the  golden  calf.  Qarun  Korah.
-
-
-307
 
 
 BTORYVir.]  the  THREE  TRAVELLERS.
@@ -20615,9 +19488,6 @@ on  dry  land.”
 STOHYYU.]  THE  THREE  TRAVELLERS.
 
 
-309
-
-
 Camparison  of  the  lody  to  the  mouse,  and  the  soul  to  the
 
 frog  (p.  5 5 3)-
@@ -20658,8 +19528,7 @@ On  the  last  day,  when  you  shall  awake  from  sleep,
 
 You  will  learn  the  rest  of  this  from  the  Sun  of  truth  .
 
-In  illustration  of  the  thesis  that  the  sense  which  per-
-ceives the  unseen  and  spiritual  world  is  superior  to  the
+In  illustration  of  the  thesis  that  the  sense  which  perceives the  unseen  and  spiritual  world  is  superior  to  the
 other  senses,  and  is  exempt  from  death  and  decay,  the
 poet  tells  an  anecdote  of  Sultan  Mahmud  of  Ghazni  and
 some  robbers.  One  night,  when  walking  about  the  city
@@ -20672,12 +19541,6 @@ night  he  could  recognise  him  without  fail  next  day;
 another  said  his  talent  lay  in  the  strength  of  his  arms,
 whereby  he  dug  holes  through  the  walls  of  houses;
 another  said  he  could  divine  by  his  sense  of  smell  where
-
-
-310
-
-
-THE  M A SNA  VI.
 
 
 [book  VI.
@@ -20777,24 +19640,16 @@ capture  a strong  fort  single-handed  through  the  power  of
 ^ Koran  liiL  17.  “ Koran  xciv.  i.  3 Gulahan  i Raz,  L 120.
 
 
-312
-
-
-THE  MASNA  VI.
-
-
 [book  vl
 
 
 God  assisting  Mm.  When  the  creditors  hecaine  pressing
 the  man  journeyed  to  Tabriz  to  seek  further  aid  ; but  on
-arriving  there  he  found  the  Prefect  was  dead.  On  learn-
-ing this  he  was  much  cast  down,  but  eventually  recognised
+arriving  there  he  found  the  Prefect  was  dead.  On  learning this  he  was  much  cast  down,  but  eventually  recognised
 that  he  had  erred  in  looking  to  a creature  instead  of
 his  Creator  for  aid,  according  to  the  text,  “ The  infidels
 equalise  others  with  their  Lord.”^  This  obliquity  of
-spiritual  sight,  causing  him  to  see  a mere  human  bene-
-factor, where  the  real  benefactor  was  God  alone,  is  illus-
+spiritual  sight,  causing  him  to  see  a mere  human  benefactor, where  the  real  benefactor  was  God  alone,  is  illus-
 trated by  anecdotes  of  a man  buying  bread  at  Kashan,  of
 Sultan  Khwarazm  Shah  deluded  into  misliking  a fine
 horse  by  the  interested  advice  of  his  Vazir,  and  of  Joseph,
@@ -20899,9 +19754,6 @@ If  you  regard  two  you  lose  the  benefit  of  both  ;
 A spark  falls  on  the  tinder  and  the  tinder  vanishes  !
 
 
-314
-
-
 TUB  MASNA  VI.
 
 
@@ -20952,8 +19804,7 @@ through  his  realm,  and  to  inspect  the  behaviour  of  the
 governors  and  the  state  of  the  administration ; and  he
 strictly  charged  them  not  to  go  near  a particular  fort
 which  he  named.  But,  according  to  the  saying,  “ Man
-hankers  after  what  is  forbidden,”  the  three  princes  dis-
-obeyed their  father,  and,  before  going  anywhere  else.
+hankers  after  what  is  forbidden,”  the  three  princes  disobeyed their  father,  and,  before  going  anywhere  else.
 
 
 ^ Koran  xii.  42.
@@ -21006,10 +19857,8 @@ Those  bodies  either  to  good  or  to  evil.
 ^ Koran  IxviL  lo.
 
 2 Surat,  or  “form,”  means  picture,
-image,  outward  appearance  as  op-
-posed to  reality,  conception  or
-“form  of  thought,”  the  “archi-
-types  ” or  “ ideas  ” in  the  Divine
+image,  outward  appearance  as  opposed to  reality,  conception  or
+“form  of  thought,”  the  “architypes  ” or  “ ideas  ” in  the  Divine
 mind,  “the  Substantial  forms”  of
 the  Healist  philosophy.  Here  the
 
@@ -21019,20 +19868,15 @@ meanings.
 
 3 Sale’s  Koran,  p.  75,  note.
 
-* I.e.,  the  architypes  in  the  “ Intel-
-lectual Presence  ” or  “ world  of  com-
+* I.e.,  the  architypes  in  the  “ Intellectual Presence  ” or  “ world  of  com-
 mand,” which  are  afterwards  setforth
-in  the  “ world  of  creation  ” or  sen-
-sible objects.
+in  the  “ world  of  creation  ” or  sensible objects.
 
 
 TUB  MASNAVI.
 
 
 (juooi-:  vr.
-
-
-316
 
 
 If  tho  form  "bo  blessing,  the  man  is  thankful ;
@@ -21102,9 +19946,6 @@ Those  occurring  independently  of  your  thought  are  best.^
 STORY  IZ.]  THE  KING  AND  HIS  THREE  SONS.
 
 
-317
-
-
 The  “ Truth’*  which  is  our  real  self,  lies  hidden  wiihm  our
 phemmcnal  and  visible  self,  and  the  Frojpliets  reveal
 it  to  -us  (p.  576).
@@ -21157,8 +19998,7 @@ And  slighted  his  matchless  intimations.
 Now  we  have  all  fallen  into  the  ditch.
 
 
-“The  Truth/’ Al  Haqz,  the  Di-
-vine  iToumenon,
+“The  Truth/’ Al  Haqz,  the  Divine  iToumenon,
 
 * See  Gulahan  i Raz,  Answer  III.,
 
@@ -21171,9 +20011,6 @@ THE  MASNA  VL
 
 
 [book  vb
-
-
-318
 
 
 Wounded  and  cruslied  in  this  fatal  struggle.
@@ -21216,10 +20053,8 @@ exertion  and  contrivance  is  further  illustrated  by  an
 absurd  anecdote  of  two  youths,  one  of  whom  trusted  for
 protection  to  his  own  contrivance,  and  found  it  a broken
 reed.  The  Prophet  said,  “ Two  there  are  who  are  never
-satisfied — ^the  lover  of  the  world  and  the  lover  of  know-
-ledge ; ” and  he  who  loves  knowledge  wiE  continue  to  trust
-in  his  knowledge,  in  spite  of  all  exhortations  and  expe-
-rience. But  the  eldest  prince  advised  his  brothers  to
+satisfied — ^the  lover  of  the  world  and  the  lover  of  knowledge ; ” and  he  who  loves  knowledge  wiE  continue  to  trust
+in  his  knowledge,  in  spite  of  all  exhortations  and  experience. But  the  eldest  prince  advised  his  brothers  to
 risk  the  perils  and  persevere  in  the  journey,  reminding
 them  that  “Patience  is  the  key  of  joy.”  Accordingly
 
@@ -21274,12 +20109,8 @@ Yet  not  all  shut  off,  rather  intermitted  for  a wise  end,
 
 ^ Koran  xxvii.  i6.  birds  ” (Si  murgTi),  and  is  used  as  a
 
-® Simurgh,  “Oiseau  extraordinaire  type  of  the  Divine  TJnity  which  em-
-qui  reside  au  Caucase,”  as  IVL  Gar-  braces  all  plurality,
+® Simurgh,  “Oiseau  extraordinaire  type  of  the  Divine  TJnity  which  emqui  reside  au  Caucase,”  as  IVL  Gar-  braces  all  plurality,
 cin  de  Tassy  calls  it,  means  “ thirty
-
-
-THE  MASNAVI.
 
 
 [boos  VI.
@@ -21355,9 +20186,6 @@ Her  thirst  was  quenched  hy  Yusuf’s  name,
 STORY  IX.]  THE  KING  AND  HIS  THREE  SONS.
 
 
-321
-
-
 His  name  was  spiritual  water  to  lier  soul.
 
 Was  she  in  pain,  by  pronouncing  his  mighty  name
@@ -21401,8 +20229,7 @@ thereupon  the  eldest  priuce  expressed  his  intention  of
 presenting  himself  before  the  king,  as  he  could  wait  no
 longer.  His  brothers  tried  to  dissuade  him  from  risking
 his  life,  pointing  out  that  if  he  acted  on  blind  impulse
-and  vain  conceit  he  would  surely  go  astray,  for  “ a con-
-ceit hath  naught  of  truth ; ” ^ and  they  further  urged  him
+and  vain  conceit  he  would  surely  go  astray,  for  “ a conceit hath  naught  of  truth ; ” ^ and  they  further  urged  him
 to  listen  to  the  counsels  of  the  Fir,  or  Spiritual  Director.
 But  the  eldest  brother  refused  to  be  dissuaded  from  his
 purpose,  saying  he  would  no  longer  hide  his  passion  for
@@ -21411,17 +20238,10 @@ his  beloved,  like  one  who  beats  a drum  under  a blanket,
 ^ Koran  x,  37.
 
 
-322
-
-
-THE  MASNA  VI.
-
-
 [book  VI.
 
 
-but  would  proclaim  it  openly,  and  take  tbe  risk  of  what-
-ever might  ensue.  He  added  that  he  was  convinced
+but  would  proclaim  it  openly,  and  take  tbe  risk  of  whatever might  ensue.  He  added  that  he  was  convinced
 that  he  should  obtain  his  desire  in  some  way  or  other,  if
 not  in  the  way  that  he  expected ; — according  to  the  text,
 “ Whoso  feareth  God,  to  him  will  he  grant  a prosperous
@@ -21470,9 +20290,6 @@ Khuldzat  vlHisdb,  Book  iv.
 
 
 STORi  IX.]  THE  KING  AND  HIS  THREE  SONS.
-
-
-323
 
 
 poor  and  hungry  for  a season^  in  order  to  make  them
@@ -21536,12 +20353,6 @@ Axe  appointed  for  this  wise  purpose.
 ^ t.e.,  hardened  sinners  like  Pharaoh.
 
 
-324
-
-
-THE  M A SNA  VI.
-
-
 [book  vr.
 
 The  eldest  brother  then  delayed  no  longer,  but  rushed
@@ -21549,8 +20360,7 @@ into  the  presence  of  the  King  and  kissed  his  feet.  The
 King,  like  a good  shepherd,  was  well  aware  of  the  troubles
 and  cravings  of  his  sheep.  He  knew  that  the  prince  had
 abjured  earthly  rank  and  dignity  through  love  for  his
-daughter,  even  as  a Sufi  casts  away  his  robe  when  over-
-powered by  ecstatic  rapture.  The  only  reason  why  the
+daughter,  even  as  a Sufi  casts  away  his  robe  when  overpowered by  ecstatic  rapture.  The  only  reason  why  the
 prince  had  lagged  behind  in  the  race  and  not  presented
 himself  to  the  King  before  was  that  hitherto  he  had
 lacked  the  “ inner  eye  ” or  spiritual  sense  which  discerns
@@ -21560,8 +20370,7 @@ sense  can  no  more  appreciate  spiritual  pleasures  than  a
 man  lacking  the  sense  of  smell  can  enjoy  the  perfume  of
 flowers,  or  a eunuch  the  society  of  fair  women.  But  his
 eyes  had  now  been  opened  by  the  King’s  grace,  and  he
-had  escaped  from  the  bondage  of  worldly  lusts  and  illu-
-sions, and,  taught  by  experience,  had  resolved  never  again
+had  escaped  from  the  bondage  of  worldly  lusts  and  illusions, and,  taught  by  experience,  had  resolved  never  again
 to  be  led  captive  by  them.
 
 This  is  illustrated  by  the  anecdote  of  the  Qazi  who  was
@@ -21639,13 +20448,7 @@ He  departed,  and  found  union  with  his  Spiritual  Beloved.
 Then  he  said,  “ Though  she  lacks  clothes  of  silk  and  wool,
 
 
-THE  MASNA  VI.
-
-
 [book  VI.
-
-
-326
 
 
 ’Tis  sweeter  to  embrace  ber  without  those  veils.
@@ -21710,9 +20513,6 @@ him,  and  took  pity  on  him  and  entreated  him  kindly.
 He  instilled  into  him  spiritual  knowledge  of  the  verities
 
 
-327
-
-
 STORY  IX.]  THE  KING  AND  HIS  THREE  SONS.
 
 hidden  beneath  phenomenal  objects,  and  conveyed  to
@@ -21723,10 +20523,8 @@ escapes  from  the  bonds  of  the  body,  God  gives  it  sight
 to  behold  the  things  of  the  spirit.  The  logician  denies
 the  possibility  of  this  divine  illumination  of  the  heart,  but
 he  is  confuted  by  the  Prophet,  who  swore  “ by  the  star  ”
-that  the  Koran  was  revealed  to  him  by  divine  illumina-
-tion.^ Those  who  cleave  to  their  heresy  {Bid’at)  and
-obstinate  unbelief  are  like  to  incur  the  punishment  in-
-flcted  on  the  tribe  of ’Ad  for  disbelieving  the  Prophet
+that  the  Koran  was  revealed  to  him  by  divine  illumination.^ Those  who  cleave  to  their  heresy  {Bid’at)  and
+obstinate  unbelief  are  like  to  incur  the  punishment  inflcted  on  the  tribe  of ’Ad  for  disbelieving  the  Prophet
 Hud.^  Earthly  forms  are  only  shadows  of  the  Sun  of
 the  Truth, — a cradle  for  babes,  but  too  small  to  hold
 those  who  have  grown  to  spiritual  manhood.  When  the
@@ -21737,8 +20535,7 @@ those  who  give  partners  to  God,  he  began  to  be  pufied
 up  with  self-conceit,  and  forgot  what  he  owed  to  the
 Kiag,  and  rebelled  against  him.  The  King  was  cut  to
 the  heart  by  his  ingratitude,  which  exactly  resembled
-that  of  Kimrod.  When  Nimrod  was  an  infant  he  was-
-taken  by  his  mother  to  sea,  and  the  ship  being  wrecked,
+that  of  Kimrod.  When  Nimrod  was  an  infant  he  wastaken  by  his  mother  to  sea,  and  the  ship  being  wrecked,
 all  that  were  in  it  perished,  save  only  the  infant  Nimrod,
 who  was  saved  through  the  pity  of  ’Izra’il,  the  Anggl  of
 Death.  God  spared  him,  and  nurtured  him  without
@@ -21845,8 +20642,7 @@ is  found  in  any  of  the  other  editions.
 
 The  Bulaq  edition  adds  a so-called  Book  VII.,  but  this
 is  known  to  be  a comparatively  recent  forgery.  Haji
-Khalfa  says : — “ It  is  notorious  thdt  the  Masnavi  is  con-
-tained in  six  books,  but  a seventh  book  has  made  its
+Khalfa  says : — “ It  is  notorious  thdt  the  Masnavi  is  contained in  six  books,  but  a seventh  book  has  made  its
 appearance,  put  forth  by  Isma’il  Dadah,  the  commentator.
 He  also  wrote  a commentary  on  it,  and  therein  replied
 with  eloquence  and  strenuousness  to  those  who  denied  its
@@ -21860,8 +20656,7 @@ Maulavi  order  denied  the  genuineness  of  the  Seventh
 Book.”^
 
 
-1 Haji  Khalfa,  v.  377.  IsmiVil  was  a Darvesh  of  the  Maulavi  order  aur-
-named  Anq^dravi,  from  hia  native  place  Angttri,  in  Anatolia.  ’
+1 Haji  Khalfa,  v.  377.  IsmiVil  was  a Darvesh  of  the  Maulavi  order  aurnamed  Anq^dravi,  from  hia  native  place  Angttri,  in  Anatolia.  ’
 
 
 33°
@@ -21873,8 +20668,7 @@ THE  MASNA  VI.  <
 [book  VI.
 
 
-TJie  contents  of  this  Seventh.  Book  consist  of  com-
-ments on  various  teKts  and  traditions,  illustrated  by  stories
+TJie  contents  of  this  Seventh.  Book  consist  of  comments on  various  teKts  and  traditions,  illustrated  by  stories
 of  no  interest.  They  have  nothing  in  common  "with
 the  Epilogue  of  Muhammad  Hahi  Bakhsh.  found  in  the
 Lucknow  edition.
