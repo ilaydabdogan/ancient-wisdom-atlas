@@ -1,70 +1,3 @@
-# Buddhist Mahayana Texts (Sacred Books of the East, Vol. 49)
-CONTENTS OF THE TWO PARTS.
-
-
-BUDDHIST MAHAYANA TEXTS.
-
-
-PART 1
-
-
-INTRODUCTION: . , A F : ; ey Ce
-Tue Buppua-xarita oF AsvacuosHa: Booxs I-XVII
-InpEX OF Proper Names : : :
-
-
-Novres AnD CoRRECTIONS : ; :
-Translated by E. B. CowELL. |
-
-
-PART II.
-
-
-INTRODUCTION .« : ‘ f : : : :
-1. Tue Larcer SuknAvati-vyéna . : : .
-InpEx oF Worps . F ;
-Ixpex oF SuBjEcTS ;
-2. THe SMALLER SuxkwAvatt-vyCuHa .
-InpDEx oF Names AND SuBJECTS . , :
-INDEX OF SANskRIT Worps .
-3. THE VAGRAXKHEDIKA.
-4. THe Larcer PraGNA-pARAMITA-HR/DAYA-SOTRA .
-5. THE SMALLER PRAGNA-PARAMITA-HR/DAYA-SUTRA .
-InpEx or Names AND SUBJECTS
-InDEX oF SanskrIT Worps
-Translated by F, MAX MULLER.
-
-
-6. Tue AmirAyur-puyAna-sOTRA i ;
-InpEx oF Names anpD Susjects .
-Translated by J. TAKAKUSU.
-
-
-Transliteration of Oriental Alphabets adopted for the
-
-
-Translations of the Sacred Books of the East.
-
-
-10g
-Is
-
-
-c
-
-
-+
-
-
-it
-
-
-. et © a :
-" ‘
-avn! cptpaltage
-rrr yy aa agli,
-
-
 INTRODUCTION.
 
 
@@ -267,9 +200,9 @@ Z By =
 ;
 ; ‘
 _ a
->
+)
 ,
-<e
+(e
 P
 es
 a — ~
@@ -1956,7 +1889,7 @@ of intoxication and of love.
 
 
 * Ramay. I, 10 (Schleg. ed.). * I would read mahat tapaA.
-> Raméy. IV, 35. ‘ Lit. ‘dispelled their want of confidence.’
+) Raméy. IV, 35. ‘ Lit. ‘dispelled their want of confidence.’
 
 
 27. Then surrounded by troops of women the
@@ -2969,7 +2902,7 @@ carry out his wish.
 affectionate and able, is hard to find in the world.
 
 
-> Svam kanuvartitim rakshan. [The Tibetan has the
+) Svam kanuvartitim rakshan. [The Tibetan has the
 obscure ran-gi rjes-su bsrun-va la=sva+anu-+rakshan? H. W.]
 An old mythic representation of the sun as a horse.
 
@@ -3755,7 +3688,7 @@ with his eyes full of tears, Kamethaka uttered-a loud
 sound, as if he were uttering his woe to the people.
 
 18. Then the birds that fed in the middle of the
-house, and the carefully cherished horses that were >
+house, and the carefully cherished horses that were )
 tied near by, re-echoed the sound of that horse,
 thinking that it might be the return of the prince.
 
@@ -4603,7 +4536,7 @@ forests to their houses. |
 59. ‘The king Ambarisha‘, though he had
 
 
-> Purusha. - ? Probably the son of Nabhaga.
+) Purusha. - ? Probably the son of Nabhaga.
 
 
 BOOK IX, 53-64. 101
@@ -6592,7 +6525,7 @@ vanquished with his hostile forces and the passionless sage remained victorious,
 the power of darkness, the heavens shone out with
 the moon like a maiden with a smile, and a sweetsmelling shower of flowers fell down wet with dew.
 
-73. > When the wicked one thus fled vanquished,
+73. ) When the wicked one thus fled vanquished,
 the different regions of the sky grew clear, the moon
 shone forth, showers of flowers fell down from the
 sky upon the earth, and the night gleamed out like
@@ -8918,700 +8851,6 @@ treatises,—two in Sanskrit, the Khandosmritalata (p. 79), the
 Kalyazapamkavimsatika (p. 99), translated in Wilson’s Works,
 vol. ii, and the Virakusavadana (p. 274) in Newari. Compare Cowell and Eggeling’s Catalogue, pp. 18, 24; in p. 18 he
 is associated with the date x.s. 916 (A.D. 1796).
-
-
-Ve a)
-: Lal
-ti gi
-~~
-§
-+
-4 whi’ |
-
-
-, Jj ; 7. nual
-AN ti tit “yl ee
-
-ij (ape
-‘ibavitedestan
-Te | ees
-
-
-: yielir.
-
-
-INDEX OF PROPER NAMES".
-
-
-Akanishr4ah, the, book V, verse 47.
-
-Akshamala, IV, 77.
-
-Agastya, IV, 73; IX, 9, 26.
-
-Agni, IV, 76; VII, 17.
-
-Agni, son of, (Skanda), I, 66.
-
-Amgiras, I, 46; IX, to.
-
-Amgirasas, the, II, 36.
-
-Aga, VIII, 79.
-
-Agapala-vana, XV, 53.
-
-Agaya, XVII, 3.
-
-Atri, I, 48.
-
-Anugopa, XVII, 23.
-
-Amtideva, I, 57; IX, 20, 60.
-
-Amdhakas, the, XI, 31.
-
-Apsaras, I, 94; IV, 11, 28, &c.
-
-Ambarisha, IX, 59.
-
-Arada, VII, 54; 1x} 6; XI, 69;
-XII, 1-81; XV, 8 9.
-
-Alaka, ILI, 65.
-
-Asvinau, the, WLI 7s
-
-Asita, 1, 54, 67, 85; II, 25; VIII,
-
-
-4.
-Ahalya, IV, 72.
-
-
-Akimkanyah, XII, 63 (cf. 83).
-Atreya, I, 48.
-
-Ananda, XVII, rr.
-AbhasuraA, the, 8 ES
-Ashadba, IX, 20.
-
-
-Ikshvakavas, the, I, 49; VII, 6;
-Je. O.O 0 ES A
-
-Indra (Maghavat, Sakra, &c.), I, 7,
-27,29, 63, 92; II, 27; 1V, 72;
-V5.22,'27,,87; V1, 62:5) V1E;i3;
-
-
-43; VIII, 13,64, 73,79; IX, 5;
-
-
-10, 12; X, 19, 39, 41; XI, 13,
-14, 16,70; XIII, 9,37; XV, 65,
-73; XVI, 93, 110.
-
-
-fsvara, fsa, IX, 53; X, 33 XVII,
-21, 24, 30.
-
-
-Ugrayudha, XI, 18.
-Uttare kuravah, the, IV, ro.
-hint be ae 8, 24, 62; XVIF, 17,
-
-
-Udraks, XI, 82-86 (cf. Rudraka).
-Upatishya, XVII, ro.
-
-Upasumda, XI, 32.
-
-Upasena, XVII, 8.
-
-Uruvilva, XVII, 8.
-
-Urvasi, XI, 15.
-
-
-Rishyasrimga, IV, 19.
-
-
-Ekasamgi, XVII, 27.
-Elapatra, XVII, 3.
-
-
-Aida, XI, 15; XIII, 12.
-
-
-Autathya, IV, 74.
-Aurva, I, 29.
-Aurvaseya, IX, 9.
-
-
-Ka, II, 51; XI, 61 (?).
-
-Kakshivat, I, 29.
-
-Kasthaka, V, 3, 68; VI, 53, 55, 67;
-VII, 3,17; 19, 32, 38, 43, 7375+
-
-Kapimgalada, IV, 77.
-
-Kapila, I, 2; XII, 21.
-
-Kapilavastu, I,2 (2), GAnBV 84 55N 15
-30, 51 VIL, (3 XVII, 20, 30.
-
-Kamandaln, XV, 96.
-
-Kamala, XVII, r3:
-
-Kardlaganaka, IV, 80.
-
-Kama, III, 24; 1V, 43 XIII, 3, 72.
-
-KAmavakarad, the, XIV, 88.
-
-Karttikeya (shanmukha), I, 93.
-
-Kala, XII, 113.
-
-Kalama, XII, 2.
-
-Kali, IV, 76.
-
-Kasika, KVIL, 2.
-
-K4sisumdari, IV, 16.
-
-Kasi, Kasi, KV, 39, g0, ror; XVII,
-
-
-2, 6.
-
-
-re
-
-
-1 This Index omits some of the obscure names in the last book.
-
-
-Kasyapa, XVII, 12.
-
-Kasyapas, the, XVII, 8.
-
-Kurus, the, XI, 31.
-
-Kuvera, I, 94; IV, 10; V, 45, 853
-XVII, 15.
-
-Kusika, I, 49.
-
-Kailasa, I, 3, 21; II, 30; X, 41.
-
-Kolata, XVII, ro.
-
-Kaurava, IV, 79.
-
-
-Gamgia, IX, 25; XV, 98; XVII, 7
-
-Gamdha, XV, 97.
-
-Gamdhapura, XV, 97.
-
-Gaya, XII, 87.
-
-Gaya, XV, 91; XVII, 8.
-
-Garuda, XII, 54; XVII, 22.
-
-Gopika, XVII, 27, 28, 30.
-
-Gautama, IV, 18, 72.
-
-Gautama (Buddha), XV, 104.
-
-Gautami, VIII, 24, 51; XVII, 23,
-28, 30.
-
-
-Ghrit3Ai, IV, 20.
-
-
-Kamdramas, IV, 75.
-Kaitraratha, 1V, 78.
-Kyavana, I, 48.
-
-
-Khamda, Khamdaka, V, 68; VI, 4, 14,
-25,43, 65; VII,1; VIII, 9, 23,
-32, 42, 73; XVII, 17, 18.
-
-
-Ganaka, I, 50; IX, 20; XII, 67.
-Gayamta, IX, 5, 12.
-
-Ginakshetra, XV, 114.
-
-Geta, XVII, 11, 15.
-Getakarazya, XVII, 15.
-Gaigishavya, XII, 67.
-
-
-Tarkshya, VI, 5.
-
-Tushita, Tushita4, the, 1,19; X1V
-89; XVI, 111.
-
-Trayastrimsad-devah, XIV, 89.
-
-Trikavyamgika, XVII, 4.
-
-
-Damdakas, the, XI, 31.
-
-Dasaratha, VIII, 79, 8.
-
-Dasarathi, VIII, 8.
-
-Divodasa, XVII, 7.
-
-Dirghanakha, XVII, 11.
-
-Deer-park, the, XV, 87, 103, 114;
-XVII, 5. -
-
-Devi, I, 66.
-
-Drumasiddha, XVII, 22.
-
-Drumiaksha, IX, 60.
-
-Drumabgaketu, the Moon? V, 3. .
-
-
-Dharmasfakra (ginaga), XV, 119.
-Dharmapalin, XVI], ro.
-Dharmaruvéi, XV, 86.
-Dharmiazavi, XVII, 9.
-Dhanyayana, XVII, ro.
-Dhritarashtra, XVII, 22.
-
-Dhriti, XVII, 3.
-
-
-Navdana, III, 64.
-
-Namdabala, XII, 106.
-
-Namdaguha, I, 19.
-
-Namdika, XVII, 9.
-
-Namdin, XV, 93.
-
-NamuAi, XV, 25, 46.
-
-Naradatta, XVII, 13.
-
-Nalakfivara, I, 94.
-
-Nahusha, II, 11; XI, 14, 16.
-
-Nalaka, XVII, 3.
-
-Nigrodha-vana (niyagrodha), XVII,
-18, 27.
-
-Nirmazaratayad, the, XIV, 89.
-
-Nirmita bodhisattv44, the, XIV, 71.
-
-Nairamgana, XII, 88, 105.
-
-
-Pamka bhikshavab, paméa-vargiya,
-the, XII, 89, 111; XV, 89, 104,
-118 (cf. Bhadravargiy4é).
-
-Padma, I], 3.
-
-Padmakhamda, III, 63.
-
-Padma (?), IV, 36.
-
-Paranirmita-vasavartinad, the, XIV,
-
-
-89.
-Parasara, IV, 76; XII, 67.
-Pamdava (mountain), X, 14, 17-
-Pamdavas, the, X, 17.
-PAamdu, IV, 79.
-PunarvasGi, IX, 11,
-Puramdara, IV, 72; XIII, 37.
-Pushya, I, 25.
-Piirza, XVII, 2, 15.
-Prithu, I, 29.
-Paurvika, XVII, 27.
-Pragapati, XII, 21.
-
-
-Bali, IX, 20; XI, 16; XVII, 22.
-Balamukhy§, IV, 17.
-Bimbisira, XV, 100 (cf. Srenya) ;
-
-
-XVII, 9.
-
-Buddhaé (atitas), I, 38; XIV, 75;
-XV, 8.
-
-Budha, IV, 75.
-
-Bodhidruma, XII, 112, 116; XIII,
-7,27, 32,42,68; XIV,g0; XVII,
-
-
-re
-Bodhisattva, I, 19, 24; II, 56; IX,
-30; X, 18, &ec.
-
-
-INDEX OF PROPER ‘NAMES.
-
-
-BrahmakayikaA, the, XIV, 88.
-
-Brahman, I, 1; XII, 42, 51, 65;
-XV, 18, 84,118; XVI, 93, 1115
-XVII, 15.243'30.
-
-
-Bhadravargtya/, the five, XII, 89,
-1113; XV,89,104,115 (cf. Pamka
-bhikshava4),
-
-Bhadrasanani, XV, 114.
-
-Bharadvaga, IV, 74.
-
-Bhava, I, 93.
-
-Bhargava, VI, 1; IX, 2, 3.
-
-Bhishma, IX, 25; XI, 18.
-
-Bhrigu, I, 46.’
-
-
-Magadhas, the, X, 10, 41; XI,1;
-XVII, 11.
-
-Maghavat, see Indra.
-
-Mathura, XVII, 4.
-
-Manu (Vaivasvata), II, 16; VIII, 78.
-
-Mamthalagautama, IV, 17.
-
-Mamdara, VI, 13.
-
-Mamata (?), IV, 74.
-
-Marakata, XVII, 3.
-
-Marutvat (Indra), es 133 X, 39.
-
-Maruts, the, IV, 74; V, 27.
-
-Mabakautuka, XVII, 27
-
-Maharaga4, the, XV 16474 XVII,22.
-
-Mahasudarsa, VIII, 6
-
-Mahendra, see hada
-
-Mahoragaj, the, I, 38.
-
-Madri, IV, 79.
-
-Mamdhatri, 1, 29; X, 31; XI, 13.
-
-Maya, I, 15) 22, 373 II, 18.
-
-Mara,- XIII, 1-73; XV, 11, 37.
-
-Mara’s sons, XIII, 3, 14.
-
-Mara’ s daughters, X11, 3, 14; Vers:
-
-Meghakali, XIII, 49.
-
-Meru,V, 37, 43; XIII, 41,57; XV, 32.
-
-Maitra, XVII, 2, 27.
-
-Maitrayani, XVII, 2.
-
-Maitriya, XV, 118; XVI, 1.
-
-Maitreya, XVI, 53.
-
-Maithilas, the, XI, 31.
-
-Maudgalya, XVII, ro.
-
-
-Yakshadhipa4, the, I, 36.
-
-Yamuni, IV, 76; XII, 107.
-Wayati, tl, 113 1V, 48.
-
-Yasoda, XVII, 5.
-
-Yasodrsh, XVII, 17
-
-Yarochart, ot ave VI, 343 VII,
-
-
-yamas’ ed Xv, 89; XVI, 110.
-Raghu, Vi, 36.
-
-
-Ragagriha, X, 1, 9.
-
-Ragageha, XVII, 9, 12, 16.
-
-Rama (Da4sarathi), VI, 36; VIII,
-81; IX, 9, 25, 59, 67.
-
-Rama (Bhargava), IX, 25.
-
-Rahu, II, 46; 1X, 28.
-
-Rahula, II, 46; VIII, 67; IX, 28;
-XVII, 27, 28, 30.
-
-Rudraka, V, 89; XVII, 14 (cf.
-Udraka).
-
-Raivata, XVII, 14.
-
-Rohini, IV, 73.
-
-Rohitavastuka, XV, 96.
-
-
-Lumbini, I, 23; XVII, 27.
-Lopamudra, IV, 73.
-
-
-Vagrabahu, IX, 20.
-
-Vanara, XV, 94.
-
-Varana, XVII, 5.
-
-Valabhid (Indra), X, 41.
-
-Vasavartina/, the, XVI, 111.
-
-Vasishtha, I, 47,57; I1V,77; IX, 60.
-
-Vasus, the, VII, 7.
-
-Vamadeva, IX, 9.
-
-Varanasi, XV, 87, 101;
-
-Valmiki, I, 48.
-
-Videhas, the, 1X, 20.
-
-Vidyakara, XVII, 4
-
-Vindhya, XIII, 38 5 “XVI, 3.
-
-Vindhya- -koshtha, VI, 54.
-
-Visvaéi, IV, 78.
-
-Visvamitra, IV, 20.
-
-Vishnu, XVII, 21, 24, 30.
-
-Vumda, XV, 95.
-
-Vumdadvira, XV, 95.
-
-Vritra, VIII, 13; XI, 14.
-
-Vrishnis, the, XI, 31.
-
-Vrihatphalas, the, XII, 58.
-
-Vrihaspati, I, 46; IV, 74, 75; VII,
-43 pel X, 12.
-
-Venuvana, XVII, 16.
-
-Venuvihara, XVII, 17.
-
-Vaibhraga, IX, 20.
-
-Vaisvasmtara hermitage, the, XI, 73.
-
-Vyasa, I, 47.
-
-
-XVII, 6.
-
-
-Sakti, XVII, 13.
-Sakra, see Indra.
-Samkhamedhiya (udyana), XV, 102.
-Saki, II, 27.
-Sakya, Sakyas, the, I, 7, ant 54, 63,
-93; II, 25,27; V, 1, 36; VI, 60;
-OVil rae VILIS 8 sel kerr ag:
-X, 11; XII, 43; XV, 44, 85,
-88; XVII, 1, 24.
-
-
-Samtanu, XIII, 12.
-Samta, IV, 19.
-Saliputra, XVII, rr.
-Sali, XVII, 10.
-Salya, XVII, ro.
-Salvas, the, IX, 60.
-Sibi, XIV, 30
-
-Siva, see Isvara.
-Sukra, I, 46; IX, ro.
-
-
-SuddhadhivasaA, the, I, 39; III, 26,
-
-
-CSR ONO Oe.
-Suddhavasas/, the, XIV, 88.
-
-
-Suddhodana, I, 9, 20; XVII, 17, 23.
-
-
-SubhakritsnaA/, the, XII, 56.
-Sfira, I, 50.
-
-
-Sauddhodani, IT, 46; III, 40; XI, 1.
-
-
-Sauri (Krishza), I, 50.
-
-Sravasti, XVII, 15
-
-Srenya, X, 10, 16 ‘cf. Bimbisara).
-Svetabalarka, XVII, 4.
-
-
-Sagara, I, 49.
-
-Samgayin, XVII, 3.
-Sanatkumara, II, 273 V, 27.
-Saptarshitara, I, 33.
-Sabhya, XVII, 4.
-
-
-Samamtakusuma, XV, 5
-
-
-Sarvarthasiddha, II, is, "VIL, I.
-
-
-Samkriti, IX, 60.
-Sarathi (pura), XV, 98.
-Sarasvata, I, 47.
-Sugata, XVII, 9-
-Sudarsana, XV, 92.
-
-
-Sunirmita4/, the, XVI, rrr.
-
-
-Sumda, XL 32.
-
-
-Sumdarananda, XVII, 27:
-Sumitra (Sumantra 2), VI, 36.
-Suvarzanish¢/ivin, VIII, 77.
-
-
-Sfiryaka, XIII, 11.
-
-
-Srimgaya (Samgaya?), VIII, 77.
-
-
-Senagit, IX, 20.
-Soma, IV, 73.
-Sautasomi, XVII, 27
-
-
-Saunu, Saunava (?), VI, 28, 30.
-Svayambh(, II, 51; X,2,19; XVII,
-
-
-30.
-Svastika, XVII, 6.
-
-
-Hari (seé Vishnu), XV, 103.
-
-
-Himavat, I, 20; II,
-13.
-
-
-1V, 27s
-, 683 xvin,
-
-
-NOTES AND CORRECTIONS. 207
-
-
-NOTES AND CORRECTIONS.
-
-
-Page 11, note 2 (1,63). Professor Jacobi writes, ‘ Indra’s banner is
-intimately connected with the Gaina legend of king Domuha (see
-my Ausgew. Erzahl. in Mahar4sh/rt, p. 40); the old Gaina legends
-originated in the East; cf. also RAmay. II, 74, 36; IV, 16, 37;
-17, 2 (Bombay ed.).’
-
-P. 21, 1. 30 (II, 31 4). I have read in the translation madaiz for
-the printed mamdaih.
-
-P. 33, 1. 30 (III, 50 c). If we read api nama sakto, the translation
-should run, ‘would that he might not be able to forsake us, even
-though he remained attached to us only through the restlessness of
-the senses.”
-
-P. 49, note 2, |. 4, read kumudesa.
-
-P. 60, 1. 31 (V, 80 d). This might be rendered ‘planting his
-footsteps without alarm,’ but I have taken #akita as meaning
-‘hurrying’ from the 4akitagate’ of the next sloka.
-
-P. 83 (VIII, 31 @), add to note 2, ‘there is a similar confusion of.
-vigidha and vigA4d/a in the MSS. in VIII, 76.’
-
-
 BUDDHIST MAHAYANA TEXTS
 
 
@@ -9660,7 +8899,7 @@ INDEX OF WorRDs . . : : : : : ; : 77
 ENDE XS ORS SUBIC CIS Maan Cen Ce es ee | ee So
 
 2. THE SMALLER SUKHAVATI!-VYCHA 3 s A ; ; ‘ 87
-INDEX OF NAMES AND SUBJECTS . , a : : <) 105
+INDEX OF NAMES AND SUBJECTS . , a : : () 105
 INDEX OF SANSKRIT WorDs . 5 ° - ° : a BLO?
 
 3. THE VAGRAKKHEDIKA . - Salles : : : ees 169
@@ -9673,7 +8912,7 @@ INDEX OF SANSKRIT WoRDs . , : 2 ; : tay,
 
 Translated by J. Takakusu.
 
-6. THE AMITAYUR-DHYANA-SOTRA . : < - : : = C19
+6. THE AMITAYUR-DHYANA-SOTRA . : ( - : : = C19
 
 INDEX OF NAMES AND SUBJECTS . a 7 F ; pao
 
@@ -10568,7 +9807,7 @@ J. Takakusu, S. B. E., vol. xlix.
 CHINESE TITLE.
 
 
-42> =
+42) =
 Ob A 47 EEE
 Translated into Chinese
 by Dharmaraksha, A. D. 420.
@@ -10748,7 +9987,7 @@ Nos. 113, 114, I15, 120, 123, 118,
 119, 552, though they do not agree.
 
 
-gt > Ba a
+gt ) Ba a
 
 
 Nos. 657, 658.
@@ -11073,12 +10312,10 @@ Dipankara, O Ananda, there was a Tathagata
 2. Pratapavat, and after him, 3. Prabhakara, 4. Kandanagandha, 5. Sumerukalpa, 6. Xandana, 7. Vimal4nana, 8. Anupalipta, 9. Vimalaprabha, 10. Nagé-
 bhibha, 11. Sfryodana, 12. Giriragaghosha, 13.
 Merukfia, 14. Suvarzaprabha, 15. Gyotishprabha,
-16, Vaidiryanirbhasa, 17. Brahmaghosha, 18. Kandabhibhd, 19. Taryaghosha, 20. Muktakusumapratimanditaprabha, 21. Sriki¢fa, 22. Sagaravarabuddhivikriditabhig#a, 23. Varaprabha, 24. Mahagandhardaganir-
-bh4sa, 25. Vyapagatakhilamalapratighosha, 26. Sdrakita, 27. Ramazgaha, 28. Mahaguvadharabuddhipraptabhig#a, 29. Kandrasiryagihmikarama, 30. Uttaptavaiddryanirbhasa, 31. Aittadh4rabuddhisanku-
+16, Vaidiryanirbhasa, 17. Brahmaghosha, 18. Kandabhibhd, 19. Taryaghosha, 20. Muktakusumapratimanditaprabha, 21. Sriki¢fa, 22. Sagaravarabuddhivikriditabhig#a, 23. Varaprabha, 24. Mahagandhardaganirbh4sa, 25. Vyapagatakhilamalapratighosha, 26. Sdrakita, 27. Ramazgaha, 28. Mahaguvadharabuddhipraptabhig#a, 29. Kandrasiryagihmikarama, 30. Uttaptavaiddryanirbhasa, 31. Aittadh4rabuddhisanku-
 sumitabhyudgata, 32. Pushpavativanaragasankusumitabhig#a, 33. Pushpakara, 34. Udakaé#andra, 35.
 Avidyandhakaravidhvamsanakara, 36. Lokendra, 37.
-Mukta#éAatrapravatasadvzsa, 38. Tishya, 39. Dharmamativinanditaraga, 40. SimhasAgarakdéavinanditaraga, 41. SagarameruZandra, 42. Brahmasvaranadabhinandita, 43. Kusumasambhava, 44. Prapta-
-sena, 45. Kandrabhanu, 46. Merukti/a, 47. Kandraprabha, 48. Vimalanetra, 409. Giriragaghoshesvara,
+Mukta#éAatrapravatasadvzsa, 38. Tishya, 39. Dharmamativinanditaraga, 40. SimhasAgarakdéavinanditaraga, 41. SagarameruZandra, 42. Brahmasvaranadabhinandita, 43. Kusumasambhava, 44. Praptasena, 45. Kandrabhanu, 46. Merukti/a, 47. Kandraprabha, 48. Vimalanetra, 409. Giriragaghoshesvara,
 50. Kusumaprabha, 51. Kusumavysh¢yabhiprakiraa,
 52. Ratnafandra, 53. Padmabimbyupasobhita, 54.
 
@@ -11932,8 +11169,7 @@ ptaprabha (whose light is never finished), Asangataprabha (whose light is not co
 flames of light), Sadivyamaziprabha (whose light
 is that of heavenly jewels), Apratihatarasmiragaprabha (whose light has the colour of unimpeded
 rays), Ragantyaprabha (possessed of beautiful light),
-Premaziyaprabha (possessed of lovely light), Pramodantyaprabha (possessed of delightful light), Sangamaniyaprabha (possessed of attractive light), Uposhamiyaprabha (possessed of pleasant light), Ani-
-bandhantyaprabha? (possessed of light that cannot
+Premaziyaprabha (possessed of lovely light), Pramodantyaprabha (possessed of delightful light), Sangamaniyaprabha (possessed of attractive light), Uposhamiyaprabha (possessed of pleasant light), Anibandhantyaprabha? (possessed of light that cannot
 be stopped), Ativiryaprabha (possessed of extremely
 powerful light), Atulyaprabha (possessed of incomparable light), Abhibhdyanarendrabhitrayendraprabha? (possessed of light greater than that of
 
@@ -13055,7 +12291,7 @@ possessed of memory, understanding, and prudence;
 
 4 ‘The Tibetan translation has Buddha for laksha.
 
->’ Asam4&Z in the Tibetan translation.
+)’ Asam4&Z in the Tibetan translation.
 
 
 sending forth the weapons of knowledge, possessed
@@ -14918,7 +14154,7 @@ VIII, 46.
 Buddhas, X, p. 26 end.
 
 — possessed of thirty-two marks,
-Vl p: 30>
+Vl p: 30)
 
 — proceeding from the rays of light
 that proceed from gem-lotuses,
@@ -15002,7 +14238,7 @@ on
 \
 "
 :
-> <
+) (
 ™
 r Yi : +
 ~ ae
@@ -19578,288 +18814,5 @@ Dr. Kern translates by the terrace of enlightenment, vara meaning
 circuit. A different idea is expressed by bodhimandapa in the
 Buddha-arita XIV, 90, which would mean a hall or pavilion,
 unless we ought to read here also bodhimamdala.
-
-
-INDEX OF NAMES AND SUBJECTS
-IN THE AMITAYUR-DHYANA-SUTRA.
-
-
-Abhithanam, page 192 note; 198
-note.
-
-Agatasatru, 1613 1623 164.
-
-Amitabha (or Amitayus), 166; 195.
-
-Amitayus (or Amitabha), 166; 167 ;
-OSs 170 5m 150s 189); 51955
-198; 2003 201.
-
-Anagamin, 167.
-
-Ananda, 164; 165; 168; 179, et
-passim.
-
-Anantarya sins, p. 198 note.
-
-Anutpatikadharmakshanti, 169 note.
-
-Anuttarasamyaksambodhi, 191.
-
-Arhat, 178; 195.
-
-Arhatghata, 197 note.
-
-Asankhya kalpas, 185.
-
-Avaivartya, 191.
-
-Avalokitesvara, 176, et passim.
-
-Bhagavat, see World-Honoured
-One,
-
-Bhikshus, 161 5 1753 1773 189
-
-Bimbisara, 161 5 167.
-
-Bodhi, 168; 1913; 196; 1973 199;
-the circle of, 200 note.
-
-Bodhi-mandala, 200.
-
-Bodhisattvas, 161, et passim.
-
-Brahma-mazi, 176.
-
-Brahman (god), 165; 172.
-
-Brute creation, 165 ; 182 note; 184.
-
-Buddha, spiritual body of, 178; the
-height of Buddha Sakyamuni,
-187; the charity of, 188.
-
-
-Chiliocosm, 173; 180.
-Depravities (five), 165 note.
-
-
-Devadatta, 161; 165,
-Dhiarazi, 190.
-
-
-Dharmadhatu-kaya, 178.
-Dharmakara, 177; 194.
-
-
-Enlightenment, the round terrace of,
-200,
-
-Existence, the nve paths ot, 182;
-non-, 171; 1743 193.
-
-
-rive deadly sins, 192; 197 note.
-
-
-Gambudvipa, 165.
-
-Gambfinada (gold), 173; 176; 178;
-180; 182.
-
-Ganga, 180.
-
-Garlands, 162; 163, et passim.
-
-Giva, famous physician, 163 ; 164.
-
-Gridhrakfita, 161; 162; 1643 201.
-
-
-Hardy (Spence), 187 uvie.
-
-Hells, 165 ; 182 note; 184.
-
-Hungry spirits (Pretas), 165; 182
-note.
-
-
-Impermanence, 171; 1743 193.
-Indra, 165; 173.
-
-
-KAlayasas, a Sramaza from India,
-161,
-
-Kandala, 164.
-
-Kandraprabha, minister of king
-Bimbisara, 163.
-
-Karma, 183; 200.
-
-Karmavaraza-visuddhi, 200 note.
-
-K-k5 (Chisha-daishi of Ten-dai),
-161 note.
-
-Kimsuka, 176.
-
-Kintamani, 174 note.
-
-Kshanti (Anutpatikadharma-), 169.
-
-
-Kshatriyas (the kingly race), 163.
-Kumifarabhfta, 161 note.
-
-
-Lapis lazuli, 169, et passim,
-
-Law, prince of the, 161; remembrance of the, 174; eternal
-Law, 169 note.
-
-
-Mahamaudgalyayana (mokuren),
-1623; 1633:1643; 1653 201.
-Mahasthama, 176; named Unlimited
-Light, 184, et passim.
-
-Mahavyutpatti, 197 note.
-
-Mahayana, 168; 188; 190;
-1955 197.
-
-Mahesvara Deva, 166.
-
-Mazgusri, 161.
-
-Marks (minor), 174.
-
-Matrighata, 197 note.
-
-Meditation, 167, et passim.
-
-
-T9I;
-
-
-Naga, 201.
-
-Nirvana, 1673; 169; 194.
-Noble Truths (the four), 193.
-Non-existence, 171 ; 1743 193.
-Non-self, 171; 1743 193.
-
-
-Padma (lotus), 184.
-
-Paramita, 174.
-
-Pitrighata, 197 note.
-
-Prayer, of Dharmakara, 177 ; mystic
-form of, 190; the forty-eight,
-
-
-194,
-
-Precepts, the eight prohibitive, 162 ;
-192; the ten prohibitive, 167
-note ; the five prohibitive, 192.
-
-Pretas, 165; 184.
-
-Pundarika, 200.
-
-Piirza (Furuna), 162.
-
-
-Ragagriha, 161.
-
-Remembrance (sixfold), 188 ; of the
-Buddha, 174, et passim.
-
-Resignation (spirit ot), 169; 4815
-189; 191; 199.
-
-
-AMITAYUR-DHYANA-SUTRA.
-
-
-Saddharmapundarika, 161; 200 note.
-
-Sakra (Indra), 165; 173; 176.
-
-Sakrabhilagnamaziratna, 173 note.
-
-Sakyamuni, 165 ; 182; the height of,
-187 note; 201.
-
-Samadhi, 1713 1813 1913 199.
-
-Satighabheda, 197 note.
-
-Sanghika labha, 196.
-
-Satadharmavidyadvara, 192; 196
-(where the Sanskrit is omitted).
-
-Scriptures, the twelve divisions of,
-186; 195.
-
-Shan-tao (Jen-do Daishi), 162; 163
-note.
-
-Signs of perfection, 174; 178.
-
-Siva, 166.
-
-Spells, 163.
-
-Sramaaas, 163.
-
-Sramanera (a novice), 193.
-
-Sravakas, 189.
-
-Srota-apanna, 194.
-
-Sufferings, the five worldly, 169;
-171; 1743 193.
-
-Sukhavati, 166; 167; 168; 171;
-1753 1853 200.
-
-Sumeru, 166; 1773 180.
-
-
-Tathagata (Nyo-rai), 164; 178; 187.
-
-Tathagatasyantike dushrasittarudhirotpadana, 197 note.
-
-Three Jewels (Ratna-traya), 167;
-188 note; 196.
-
-
-Ushzishasiraskata, 182.
-
-
-Vaidehi, consort of Bimbisara, 161;
-164, et passim.
-
-Vaipulya Sfitra, 188; 190; 195.
-
-Veda, 163.
-
-
-World-Honoured One, 162; 164,
-‘ et passim, being a translation of
-’ Bhagavat, the Blessed One,
-
-
-Yaksha, 201.
-Yama, 1773; 180.
 
 

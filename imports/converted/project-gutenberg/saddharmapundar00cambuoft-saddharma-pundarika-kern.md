@@ -1,177 +1,3 @@
-# The Saddharma-Pundarika, or The Lotus of the True Law (Sacred Books of the East, Vol. 21)
-
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-Honfcon
-HENRY FROWDE
-
-
-OXFORD UNIVERSITY PRESS 'WAREHOUSE
-AMEN COENEE
-
-
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-TRANSLATED
-
-
-BY VARIOUS ORIENTAL SCHOLARS
-
-
-AND EDITED BY
-
-
-F. MAX MULLER
-
-
-VOL. XXI
-
-
-AT THE CLARENDON PRESS
-
-
-N
-
-[All rights reserved'}
-
-V
-
-
-THE
-
-
-SADDHARMA-PUMMRIKA
-
-
-OR
-
-
-THE LOTUS OF THE TRUE LAW
-
-
-TRANSLATED BY
-
-
-H. KERN
-
-
-AT THE CLARENDON PRESS
-
-[All rights reserved]
-
-
-CONTENTS.
-
-
-PAGE
-
-INTRODUCTION ix
-
-CHAPTER 1. Introductory .... . . . i
-
-„ 2. Skilfulness ....... 30
-
-„ 3. A Parable . . 60
-
-„ 4. Disposition 98
-
-„ 5. On Plants . . . . . . . 118
-
-„ 6. Announcement of Future Destiny . . .142
-
-„ 7. Ancient Devotion . . . . 153
-
-„ 8. Announcement of the Future Destiny of the
-
-Five Hundred Monks . . . .191
-
-„ 9. Announcement of the Future Destiny of
-
-A
-
-Ananda, RShula, and the Two Thousand
-
-Monks ....... 205
-
-„ 10. The Preacher ... . . .213
-
-„ 11. Apparition of a Stupa . .. . . 227
-
-„ 12. Exertion . . . . . . . 255
-
-* „ 13. Peaceful Life ....... 262
-
-„ 14. Issuing of Bodhisattvas from the Gaps of the
-
-Earth . . . . . . .281
-
-„ 15. Duration of Life of the Tathagata . . 298
-
-„ 16. Of Piety . . . . . . .311
-
-„ 17. Indication of the Meritoriousness of Joyful
-
-Acceptance . . . . . -328
-,, 18. The Advantages of a Religious Preacher . 336
-„ 19. Sadaparibhuta . . . . . -354
-„ 20. Conception of the Transcendent Power of the
-
-Tathagatas ... . . . .363
-
-„ 21. Spells . 370
-
-„ 22. Ancient Devotion of Bhaishagyarij^a . . 376
-
-
-Vlll CONTENTS.
-
-
-PAGE
-
-CHAPTER 23.
-
-Gadgadasvara .....
-
-• 393
-
-„ 24.
-
-The All-sided One .
-
-. 406
-
-„ 25.
-
-Ancient Devotion ....
-
-. 419
-
-„ 26.
-
-Encouragement of Samantabhadra
-
-• 43i
-
-„ 27.
-
-The Period
-
-. 440
-
-INDEX
-
-
-Transliteration of Oriental Alphabets adopted for the Translations of the Sacred Books of the East . . .451
-
-
 INTRODUCTION.
 
 
@@ -250,7 +76,7 @@ of the coin in question.
 The results arrived at by Burnouf may be right so far as
 any Mahavaipulya Sutra, as a whole, is concerned ; they
 cannot be applied to all the component parts of such a
-work. Not to go further than the Saddharma-pu«</arika
+work. Not to go further than the Saddharma-pu«(/arika
 
 1 Introduction al'histoire du Buddhisme indien, pp. 103-128.
 1 Burnouf, Introd. p. 218 seq.
@@ -566,7 +392,7 @@ p. 147, 81; p. 439, 6; Pali ekodi-bhava2. The expression samtrita in the sense o
 occurs in »Satapatha thrice 3, in Atharva-veda once, in Saddharma-puw^/arika several times, e.g. in pa^/agha/z/fasamirita, chap. xxii. We may add the Prakritism ing in
 samiw^ayati, Brzhad-ara/zyaka VI, 4, 23, the usual form
 in Buddhist works in Sanskrit, Gathi dialect, and Pali ;
-further manku, .Satap. V, 5,4, n ; ma;/</a in the compound nauma;z^a, 6atap. II. 3, 3, 15 ; cf. bodhi-maw^a.
+further manku, .Satap. V, 5,4, n ; ma;/(/a in the compound nauma;z^a, 6atap. II. 3, 3, 15 ; cf. bodhi-maw^a.
 An archaic trait in the stanzas is the expletive use of the
 particle u, e.g. in teno, yeno, tasyo, adyo, for tena,
 yen a, tasya, adya. Both in prose and poetry4 we meet
@@ -719,7 +545,7 @@ translation) Kumara^iva translated the prose only; the
 Gathas were rendered by £wanagupta, of the Northern
 -fiTeu dynasty, A.D. 557-589.
 
-The last translation in order of time, entitled Thien-phinmiao-fa-lien-hwa-^in, is from £>?anagupta and Dharmagupta, A.D. 601, of the Sui dynasty; in 27 chapters.
+The last translation in order of time, entitled Thien-phinmiao-fa-lien-hwa-^in, is from £)?anagupta and Dharmagupta, A.D. 601, of the Sui dynasty; in 27 chapters.
 
 We see that the older translations — and, consequently,
 their originals — counted one chapter more than our MSS.
@@ -783,7 +609,7 @@ XXli SADDHARMA-PUJVDARiKA.
 
 may be, I think that the following facts may be held to
 be established, both from internal and external evidence :
-i. The more ancient text of the Saddharma-pu;z<^arika
+i. The more ancient text of the Saddharma-pu;z(^arika
 contained 21 chapters and an epilogue, i.e. the matter of
 chaps, i-xx and of chap, xxvii ; 2. The later additions,
 excepting probably some verses, had been connected with
@@ -794,7 +620,7 @@ conclude that the more ancient text in 21 chapters, the
 epilogue included, dates some centuries earlier. Greater
 precision is for the present impossible.
 
-We know that a commentary on the Saddharma-pu«</arika was composed by Vasubandhu1. The date of that
+We know that a commentary on the Saddharma-pu«(/arika was composed by Vasubandhu1. The date of that
 work, not yet recovered, it seems, must fall between 550
 and 600 A.D., or at least not much earlier, for Vasubandhu's
 pupil Guwaprabha became the Guru of the famous 6ri-
@@ -1056,7 +882,7 @@ in Manu VIII, 91. It is acknowledged in Bhagavad-gita IX,
 14 seqq. that the supreme being may be conceived and respected in different ways according to the degree of intelligence of creatures. Some pay their worship by leading a
 virtuous life, others by pious devotion, others by contemplation, others by confessing a strictly monistic philosophy1,
 others by acknowledging a personal god2. The Lord in
-the Saddharma-pu#</arika admits of being viewed in all
+the Saddharma-pu#(/arika admits of being viewed in all
 these various aspects. Whether the Buddha-theory, such
 as we find it developed in the Sutra, not in plain words,
 indeed, but by circumlocutions and ambiguities, should be
@@ -1558,7 +1384,7 @@ Cambridge MS., which shows the greatest number of
 peculiar readings. The text of chapter iv in Professor
 Foucaux's edition of the Parabole de 1'enfant e"gare is
 comparatively modern and bad. In general it may be said
-that all the known copies of the Saddharma-pu«</arika are
+that all the known copies of the Saddharma-pu«(/arika are
 written with a want of care little in harmony with the holy
 character of the book.
 
@@ -1579,7 +1405,7 @@ LEIDEN.
 xl SADDHARMA-PIWDAR{KA.
 
 
-KuMARAGiVA's TRANSLATION OF SADDHARMA-PUJVZ>A-
+KuMARAGiVA's TRANSLATION OF SADDHARMA-PUJVZ)A-
 R{KA III, STANZAS 1-22, RENDERED INTO FRENCH
 
 BY STANISLAS JULIEN.
@@ -1652,7 +1478,7 @@ J'examine murement une telle chose
 
 Exempte d'imperfections et difficile a concevoir
 
-Qui fait arriver la multitude a 1'estrade de 1'Intelligence (B drilling a»</a)
+Qui fait arriver la multitude a 1'estrade de 1'Intelligence (B drilling a»(/a)
 
 Moi, dans 1'origine, j'&ais attache* aux vues perverses (a 1'he're'sie)
 
@@ -1843,9 +1669,9 @@ Kapphilla, Kawzphilla. The Tibetan form Kapina (in Lotus, p. 294)
 agrees with Maha-Kappina in Pali writings; Mahavagga II, 5; X, 5.
 I cannot help guessing that the name is identical with S^y, the
 proper name of Kalanos, in Plutarch's Alexander, chap. 65 ; one
-would expect Kao-<£t'w7*.
+would expect Kao-(£t'w7*.
 
-' The same with Pi»</ola-Bharadva£a, ^"ullavagga V, 8.
+' The same with Pi»(/ola-Bharadva£a, ^"ullavagga V, 8.
 
 8 In Pali Maha-Ko//^ita ; Mahavagga X, 5.
 
@@ -1901,8 +1727,7 @@ Ratnaprabha, Pur#a/£andra, Mahavikramin, Trailokavikramin, Anantavikramin, Maha
 Maitreya, the Bodhisattva Mahasattva Siwha.
 
 With them were also the sixteen virtuous men to
-begin with Bhadrapala, to wit, Bhadrapala, Ratnakara, Susarthavaha, Naradatta4, Guhagupta, Varuwadatta, Indradatta, Uttaramati, Vkeshamati, Vardhamanamati, Amoghadamn, Susawsthita, Suvikranta-
-vikramin, Anupamamati, Suryagarbha, and Dharawldhara; besides eighty thousand Bodhisattvas,
+begin with Bhadrapala, to wit, Bhadrapala, Ratnakara, Susarthavaha, Naradatta4, Guhagupta, Varuwadatta, Indradatta, Uttaramati, Vkeshamati, Vardhamanamati, Amoghadamn, Susawsthita, Suvikrantavikramin, Anupamamati, Suryagarbha, and Dharawldhara; besides eighty thousand Bodhisattvas,
 among whom the fore-mentioned were the chiefs;
 further 6akra, the ruler of the celestials, with twenty
 thousand gods, his followers, such as the god
@@ -1910,7 +1735,7 @@ A"andra (the Moon), the god Surya (the Sun),
 the god Samantagandha (the Wind), the god Ratnaprabha, the god Avabhasaprabha, and others;
 further, the four great rulers of the cardinal points
 with thirty thousand gods in their train, viz. the
-great ruler Viru<///aka, the great ruler Virupaksha,
+great ruler Viru(///aka, the great ruler Virupaksha,
 the great ruler Dlmtarash/ra, and the great ruler
 Vai^ravawa; the god Lvara and the god Mahejvara5, each followed by thirty thousand gods; further,
 
@@ -2014,7 +1839,7 @@ other, tossed, tossed along.
 
 Then did those who were assembled and sitting
 together in that congregation, monks, nuns, male and
-female lay devotees, gods, Nagas, goblins, Gandharvas, demons, Garu</as, Kinnaras, great serpents,
+female lay devotees, gods, Nagas, goblins, Gandharvas, demons, Garu(/as, Kinnaras, great serpents,
 men, and beings not human, as well as governors of
 a region, rulers of armies and rulers of four continents, all of them with their followers, gaze on the
 Lord in astonishment, in amazement, in ecstasy.
@@ -2437,7 +2262,7 @@ a ray.
 
 1 Hence it follows that Mangusri is eternally young, like the rising
 sun, like Mithra, and like the Arhataw deva, the latest, or youngest,
-of the Arhats or <-rinas.
+of the Arhats or (-rinas.
 
 2 The rendering of vipratyanika, var.lect. vipratyaniyaka, is
 doubtful. Burnouf, who translates it by ' avec laquelle (le monde
@@ -3683,8 +3508,8 @@ the leaders.
 69. Remove all doubt and uncertainty ; and should
 
 1 Ka/iwzsi vardhenti. This is a strangely altered ka/asiw
-vardhenti, Pali ka/asiw va</^enti; see ^Tullavagga XII, i, 3,
-and cf. the expression ka/asiva</^ano in £ataka (ed. Fausboll)
+vardhenti, Pali ka/asiw va(/^enti; see ^Tullavagga XII, i, 3,
+and cf. the expression ka/asiva(/^ano in £ataka (ed. Fausboll)
 I, p. 146, and the passage of Apastamba II, 9, 23, 4 (in Biihler's
 transl. p. 156), where cemeteries, -Sma.ranani, by the commentator
 Haradatta, are said to denote ' fresh births.'
@@ -3730,7 +3555,7 @@ have all of them reached enlightenment.
 76. And such beings as were living patient, subdued, and disciplined, under the rule of the 6inas of
 those times, have all of them reached enlightenment.
 
-1 Purushottama>&.
+1 Purushottama)&.
 [21] E
 
 
@@ -4043,7 +3868,7 @@ Arhat, of Dharma, and Sangha.
 1 Properly, the most lofty place; the word pada in the text
 means place, spot, word, subject, &c.
 
-2 A£-?1ata-Kau«<fmya and the four others mentioned in the opening chapter.
+2 A£-?1ata-Kau«(fmya and the four others mentioned in the opening chapter.
 
 3 In chap. VII we shall see that the wheel was put in motion at
 an inconceivably long period before, by the Tathagata Mahabhi^a^nanabhibhu.
@@ -4172,7 +3997,7 @@ of ' speaking (speech) in council, a counsel,' scarcely differing from
 mantra. In both words secrecy is implied, though not expressed.
 If we take the term as synonymous with mantra, the connection
 between upayakaujalya, diplomacy, skilfulness, and sandhabhashita is clear. Cf. the Gothic word run a, both /SouXij and
-nvorrfjpiov ; garuni, <rvnfiov\iov. The theistical sect have taken
+nvorrfjpiov ; garuni, (rvnfiov\iov. The theistical sect have taken
 it in the sense of ' God's counsel,' but I cannot produce a warrant
 for this guess. By Hiouen Thsang, the term sandhaya is translated by 'in a hidden sense/ as we know from Professor Max
 Muller's note, in his edition of the Va^ra^Wedika, p. 23.
@@ -4283,7 +4108,7 @@ the world,
 10. And on hearing this Buddha-law, I thought:
 'To be sure, this is expounded mysteriously1; it is
 an inscrutable, subtle, and faultless science, which
-is announced by the <7inas on the terrace of enlightenment.'
+is announced by the (7inas on the terrace of enlightenment.'
 
 1 Sandhaya; the Chinese translation by Kumara-§iva, according to Stan. Julien's version, has ' suivant la convenance.'
 
@@ -4543,7 +4368,7 @@ the course of duty which they have been taught
 under hundreds of Buddhas, will come to be born
 in that field.
 
-28. And the afore-mentioned <7ina, then in his last
+28. And the afore-mentioned (7ina, then in his last
 bodily existence, shall, after passing the state of
 prince royal, renounce sensual pleasures, leave home
 (to become a wandering ascetic), and thereafter reach
@@ -5527,15 +5352,15 @@ Sutra.
 sada). Burnoufs 'cent batons' is evidently based upon the
 reading sata.
 
-2 Ka«akaku»</aka s £a, var. lect. vftlaka0, with marginal correction kanaka0. The translation is doubtful; cf. St. 116 below.
+2 Ka«akaku»(/aka s £a, var. lect. vftlaka0, with marginal correction kanaka0. The translation is doubtful; cf. St. 116 below.
 Kuflfifeka I connect with ku#/=vikalikara«e and the Greek
 KuAAdr.
 
-3Kro</asa;%krin,var.lect.0sa7»£-mn,with correction °sawkkin,
+3Kro(/asa;%krin,var.lect.0sa7»£-mn,with correction °sawkkin,
 the reading I have followed, taking sawkkin to be identical with
 sakkin, a Prakrit form of Sanskrit sarpin.
 
-4 Kufl</akalahgaka, for which I read °kalahgaka.
+4 Kufl(/akalahgaka, for which I read °kalahgaka.
 
 
 SADDHARMA-PUJVDARiKA. III.
@@ -6907,7 +6732,7 @@ alike; by which plants and men(?) thrive, endless
 
 1 The term used might be rendered by ' gospel.'
 
-2 Pratyekabuddha vanasha#</a£ari#o, &c. Burnoufmust
+2 Pratyekabuddha vanasha#(/a£ari#o, &c. Burnoufmust
 have had quite a different reading.
 
 8 Or unreality, junyata.
@@ -6949,7 +6774,7 @@ pushpa«i anantakani.
 
 1 And removing.
 
-2 Tathagata£-fianaprabhaya>& ; var. lect. Tathagatapra-
+2 Tathagata£-fianaprabhaya)& ; var. lect. Tathagatapra-
 
 
 V. ON PLANTS. 129
@@ -6964,7 +6789,7 @@ clay. Some of those pots are to contain sugar,
 others ghee, others curds and milk; others, of inferior quality, are vessels of impurity. There is no
 diversity in the clay used ; no, the diversity of the
 pots is only due to the substances which are put
-into each of them. In like manner, Ka>ryapa, is there
+into each of them. In like manner, Ka)ryapa, is there
 but one vehicle, viz. the Buddha-vehicle ; there is no
 second vehicle, no third.
 
@@ -7060,7 +6885,7 @@ that those who used it intended by it to convey the meaning of
 something grand and imposing, especially the senses of a spiritual
 man, as distinguished from the profanum vulgus. As to the
 Seers, 7?zshis, here mentioned, I think that they are the senses personified, otherwise called devas, gods. Deva, to denote an organ
-of sense, occurs frequently, e.g. Mu«</aka Upanishad III, i, 8.
+of sense, occurs frequently, e.g. Mu«(/aka Upanishad III, i, 8.
 
 K 2
 
@@ -7516,7 +7341,7 @@ looking like a checker-board with eight compartments set off with gold threads. 
 samu££^raya, which also means western rise,
 elevation.
 
-2 Apagatasyandanikaguthofiftlla, var. lect.°tho</igalla. My
+2 Apagatasyandanikaguthofiftlla, var. lect.°tho(/igalla. My
 rendering of the last part of the compound is conjectural.
 
 
@@ -7693,7 +7518,7 @@ retrograde motion of planets, &c.
 VI. ANNOUNCEMENT OF FUTURE DESTINY. 147
 
 21. In it will be many Bodhisattvas to turn the
-wheel that never rolls back (or never deviates) ; endowed with keen faculties they will, under that <9ina,
+wheel that never rolls back (or never deviates) ; endowed with keen faculties they will, under that (9ina,
 be the ornaments of the Buddha-field.
 
 22. His disciples are so numerous as to pass calculation and measure ; gifted with the six transcendent faculties, the triple science and magic
@@ -8021,7 +7846,7 @@ reached supreme, perfect enlightenment and had just
 occupied the summit of the terrace of enlightenment 1, he discomfited and defeated the whole host
 of Mara, after which he thought : I am to reach
 
-1 Bodhima«</avaragragata eva; var. lect. bodhima/zdavaragata eva,
+1 Bodhima«(/avaragragata eva; var. lect. bodhima/zdavaragata eva,
 i.e. just having come to the terrace of enlightenment. Var a here
 is vara, circuit; it adds little to the notion of the simple bodhi-
 , this also being a round terrace.
@@ -8968,8 +8793,7 @@ needless to remark that the points of the compass are meant.
 
 
 the Arhat, &c., and the Tathagata Meruku/a, the
-Arhat, &C.1 In the south-east, monks, is the Tathagata Siwhaghosha, &c., and the Tathagata Simhadhva^a, &c.2 In the south, monks, is the Tathagata named Aka-sapratish^ita, &c., and the Tatha-
-gata named Nityaparinirvrzta3, &c. In the southwest, monks, is the Tathagata named Indradhva^a,
+Arhat, &C.1 In the south-east, monks, is the Tathagata Siwhaghosha, &c., and the Tathagata Simhadhva^a, &c.2 In the south, monks, is the Tathagata named Aka-sapratish^ita, &c., and the Tathagata named Nityaparinirvrzta3, &c. In the southwest, monks, is the Tathagata named Indradhva^a,
 &c., and the Tathagata named Brahmadhva^ia, &c.
 In the west, monks, is the Tathagata named Amitayus 4, &c., and the Tathagata named Sarvalokadhatupadravodvegapratyuttir^a, &c. In the north-west,
 monks, is the Tathagata named Tamalapatra/£andanagandhabhi^a 5, &c., and the Tathagata Merukalpa, &c. In the north, monks, is the Tathagata
@@ -10092,7 +9916,7 @@ other hand it must be remarked that we shall meet in the sequel
 with the phrase bahuni GangSnadivalikopamani Buddhako/inayutasahasram.
 
 
-IX. DESTINY OF ANANDA, RAHULA, ETC. 2C>7
+IX. DESTINY OF ANANDA, RAHULA, ETC. 2C)7
 
 the term of which is not to be found by calculation.
 So many hundred thousand myriads of ko/is of
@@ -10183,7 +10007,7 @@ of yore.
 And on that occasion the venerable Ananda
 uttered the following stanzas :
 
-6. Wonderful, boundless are the <7inas l who remind us of the law preached by the extinct 6inas
+6. Wonderful, boundless are the (7inas l who remind us of the law preached by the extinct 6inas
 and mighty saints2. Now I remember it as if it
 had happened to-day or yesterday 3.
 
@@ -10637,7 +10461,7 @@ write or worship this Dharmaparyaya. So long as
 they do not hear this Dharmaparyaya, they are not
 yet proficient in the course of a Bodhisattva. But
 
-1 Ta</ava/£ara.
+1 Ta(/ava/£ara.
 
 
 X. THE PREACHER. 221
@@ -10854,7 +10678,7 @@ care shall very soon all become Bodhisattvas, and
 by cultivating his intimacy they shall behold Buddhas as numerous as the sands of the Ganges.
 
 
-XL APPARITION OF A ST<JPA. 227
+XL APPARITION OF A ST(JPA. 227
 
 
 CHAPTER XI.
@@ -12224,7 +12048,7 @@ is conjectural. Burnouf has, ' emprisonner et frapper de diverses
 manures/ but hereby two meanings are assigned to ku//t
 
 
-SADDHARMA-PUM>ARiKA. XIII.
+SADDHARMA-PUM)ARiKA. XIII.
 
 
 CHAPTER XIII.
@@ -12372,7 +12196,7 @@ female lay devotees as seek their highest happiness
 nasato) na sawtan, not non-existent, not existent.
 
 1 Burnouf adds, 'ceux qui vendent des liqueurs fermente'es/
-which is wanting in my MS. : £a«</alair mush^kai^api tirthikai^-
+which is wanting in my MS. : £a«(/alair mush^kai^api tirthikai^-
 
 
 2 According to the reading, vin ay ed agamasthita(n). A marginal reading has vinayena0, a reading followed by Burnouf.
@@ -12503,7 +12327,7 @@ benevolence, and preaches the law to them without
 invidiousness3. He refrains from entering upon a
 
 
-1 Kalena ko £ittayamatu (Sansk. °yamat) pa«<fita^ pravilayanaw
+1 Kalena ko £ittayamatu (Sansk. °yamat) pa«(fita^ pravilayanaw
 tatha gha//ayitva, vipajyidharmam imu sarva yoniso utthaya, &c.
 I take gha//ayitva in the sense of gha/ayitva=yuktva.
 
@@ -13614,7 +13438,7 @@ the exception of a tuft on the crown, the £ufi?akarmari, commonly
 follows the annapra.rana; in the case of Gautama, however, it is
 represented to be subsequent on the kumara having left his home.
 In so far as he cut off his hair at the time of his entering a spiritual
-life, the act agrees with the £u</akarman at the upanayana or
+life, the act agrees with the £u(/akarman at the upanayana or
 initiation of boys.
 
 2 Lokadhipatisya putrsU.
@@ -14949,13 +14773,13 @@ accepts it. Against this accumulation of merit,
 A^ita, this accumulation of roots of goodness connected with that joyful acceptance, the former accumulation of merit connected with the charity of
 that master of munificence, that great master of
 munificence, and connected with the confirmation
-in Arhatship, does not fetch the JQO Part> n°t
-the > not the 1 not the
+in Arhatship, does not fetch the JQO Part) n°t
+the ) not the 1 not the
 
 
-100,000) 10 ooo,ooo> 1000,000,000?
+100,000) 10 ooo,ooo) 1000,000,000?
 
-ioooxio.000,000) not the ]oo,oool<i6,ooo,ooo> not the 100, ooo x 10,000 x 10,000,000
+ioooxio.000,000) not the ]oo,oool(i6,ooo,ooo) not the 100, ooo x 10,000 x 10,000,000
 part ; it admits of no calculation, no counting, no
 reckoning, no comparison, no approximation, no
 secret teaching. So immense, incalculable, A^ita, is
@@ -15031,7 +14855,7 @@ adopts it.
 added by a later hand in the margin, but the characters are
 indistinct.
 
-2 Pra»itamukhama«</ala; a marginal reading has priwamukha0.
+2 Pra»itamukhama«(/ala; a marginal reading has priwamukha0.
 
 8 Tathagatari Mvavadanubhasakaw pratilabhate. I am not sure
 of the real meaning of anubhasaka; it may as well be ' suggesting.' Burnouf has, ' c'est de la bouche du Tathagata qu'il recevra
@@ -15570,7 +15394,7 @@ the Bodhisattva by the odour recognises him as
 the Lord of the universe.
 
 50. Staying on earth, the Bodhisattva also perceives those beings who hear the law and rejoice at
-it, and the whole assembly of the <7ina.
+it, and the whole assembly of the (7ina.
 
 5 1 . Such is the power of his organ of smell. Yet
 it is not the divine organ he possesses, but (the
@@ -16520,7 +16344,7 @@ Thereupon the giantesses called Lamba, Vilamva3,
 
 2 The list in Burnouf differs but slightly ; a. g. g. gandhari
 k&nd&u. m. pukkasi s. vrulasisi s. Vrusali or rather vrusali must
-be the Sanskrit vrz'shalt. Gauri, ^aw<falika, Matangi are known
+be the Sanskrit vrz'shalt. Gauri, ^aw(falika, Matangi are known
 from elsewhere as epithets of Durga ; Pukkasi and Vr/shali denote
 nearly the same as .ATam/ali and Matangf.
 
@@ -17158,7 +16982,7 @@ such inconceivable qualities and properties.
 1 This is an allusion to the bundles of grass the Bodhisattva
 received from Svastika, the grass-cutter, when he was on his way
 to occupy his seat at the foot of the Bo tree ; see Lalita-vistara,
-P- 357 >' £ataka I, p. 70 (English translation by Professor Rhys
+P- 357 )' £ataka I, p. 70 (English translation by Professor Rhys
 Davids, p. 95).
 
 
@@ -17256,7 +17080,7 @@ the Bodhisattva Mahasattva Gadgadasvara, without
 leaving that Buddha-field and without leaving his
 
 
-or gutho</igalla; according to Burnouf the word
+or gutho(/igalla; according to Burnouf the word
 means 'ordures;' cf. above, p. 142, and Pali oligalla.
 
 2 Spence Hardy, Manual of Buddhism, p. 364 : ' Buddha is sometimes said to be twelve cubits in height, and sometimes eighteen
@@ -17638,7 +17462,7 @@ Bodhisattva Mahisattva Avalokite^vara being pronounced lose the faculty of sight
 designs5. If some creature, young man of good
 
 
-1 In the Kara«</a-vyuha, a work entirely devoted to the glorification of Avalokitesvara and his sublime achievements, the isle
+1 In the Kara«(/a-vyuha, a work entirely devoted to the glorification of Avalokitesvara and his sublime achievements, the isle
 of the Giantesses is identified with Ceylon ; see pp. 45 and 53 of
 that work (Calcutta edition), and the extract given by Burnouf,
 Introduction, pp. 221-227.
@@ -17722,7 +17546,7 @@ lady will produce in consequence of it ? So asked,
 1 We should rather say : in whom a good natural disposition is
 implanted.
 
-2 In the margin added paramaya <rubhavar«apushkalataya',
+2 In the margin added paramaya (rubhavar«apushkalataya',
 (and) of an egregiously blooming complexion.
 
 3 Dvashash/inaw Gahga0.
@@ -17996,7 +17820,7 @@ Avalokite^vara, is worthy of adoration.
 
 1 Aparahata anila^alaprabha (voc. case) prapatento ^agati viro-
 £asi. For anila^ala I read anala^ala (Sansk. anala^vala). Cf.
-Kara«da-vytiha, p. 43: Atharyavalokitejvaro ^valad ivagnipi«</am
+Kara«da-vytiha, p. 43: Atharyavalokitejvaro ^valad ivagnipi«(/am
 aka^e 'ntarhita^.
 
 2 Kr/pasawbhfitamaitragar§ita (voc.) jubhaguwa maitrama»a
@@ -18544,7 +18368,7 @@ roots 3 ; she shall keep steadily to the mass of disci-
 2 Tdsam. I am not able to discover the connection between
 this confirming of the females in the gathering, and the foregoing
 remark on the character of the Saddharma. The explanation is
-probably to be sought in the term asambhinna, unallayed, unmixed. The meaning of the passage may be that the Saddharmapu»<?arika, as a general rule, is fit for males only, but under certain
+probably to be sought in the term asambhinna, unallayed, unmixed. The meaning of the passage may be that the Saddharmapu»(?arika, as a general rule, is fit for males only, but under certain
 conditions may be entrusted to females also.
 
 3 We would say : she must have a good antecedent behaviour.
@@ -18613,7 +18437,7 @@ them. I will protect them, take care of their safety,
 avert blows2, and destroy poison. I will, besides,
 O Lord, give those preachers words of talismanic
 spells, such as, Adande da;^apati, da^avartani
-daTzdaku.rale da^</asudhari dhari sudharapati, buddhapasyani dhara/zi, avartani sa^vartani sanghaparlkshite sahghanirghatani dharmaparikshite sarva-
+daTzdaku.rale da^(/asudhari dhari sudharapati, buddhapasyani dhara/zi, avartani sa^vartani sanghaparlkshite sahghanirghatani dharmaparikshite sarva-
 
 that the Bodhisattva entered the womb of his mother Maya Devt
 in the shape of an elephant with six tusks; see Lalita-vistara, p. 63.
@@ -18654,7 +18478,7 @@ singular. Pati, as in Pali p a^a pa ti, Buddhistic Sansk. pra^apati,
 interchanges with the ending vati; not only in pra^avati (e.g. in
 Lalita-vistara), but in some of the words occurring in the spell ; so
 for da#^apati the Tibetan text has da.nda.va.ti. As .Siva in Mahdbharata XII, 10361 is represented as the personified Dawda, we
-may hold that all the names above belong to .Siva's female counterpart, Durga. The epithet of Si7whavikri<fita is but a variation of
+may hold that all the names above belong to .Siva's female counterpart, Durga. The epithet of Si7whavikri(fita is but a variation of
 Siff/hika, one of the names of Dakshayam or Durga in her quality
 of mother to Rahu. Cf. the remarks on the spells in chap. XXI.
 
@@ -18804,7 +18628,7 @@ the talismanic spell Avarta.
 impossible to distinguish between pa and ya in the Nepalese MSS.
 
 
-44<D SADDHARMA-PlWDARfKA. XXVII.
+44(D SADDHARMA-PlWDARfKA. XXVII.
 
 
 CHAPTER XXVII.
@@ -18889,1120 +18713,5 @@ the gaps of the earth, the great disciples, the four
 classes, the world, including gods, men, demons,
 and Gandharvas, in ecstasy applauded the words
 of the Lord.
-
-
-INDEX.
-
-
-Aban Yasht, page 253.
-Abbhutadhamma, 45.
-Abhasvaras (pi.), 340, 346.
-Abhayandada, 412.
-Abhi^wa, i, 89, 131, 242.
-Abhig-«a.£«anabhibhu. See Maha-
-
-
-Abhirati, 177.
-
-Abhisawskara, 317.
-
-Abhyudgatara§-a, 429.
-
-Adbhutadharma, 45.
-
-Aditi, 124, 371.
-
-Aditta-pariyaya, 79.
-
-A^atajatru, 6.
-
-A^ita, 18 seq., 290 seqq., 311, 316
-
-^ seq., 320 seqq.
-A^ivaka, 263.
-A\f»ata-Kau«</inya, 2, 34, 56, 198,
-
-202.
-
-Agrajravaka, 2.
-A>£ala, 374.
-
-Akanish/£as (pi.), 340.
-Akajapratish/>6ita, 178.
-Akshayamati, 4, 406, 412 seq.
-Akshobhya, 177.
-Alahkarajubhaj 420.
-Alahkarasura, 420.
-Amitabha, 178, 389, 417.
-Amitayus, 178, 389, 417.
-Amoghadarjin, 4.
-Anabhibhu, 183.
-Anagamin, 315, 330, 387.
-Ananda, 3, 205 seqq.
-Ananda-Bhadra, 207.
-Ananta^aritra, 284.
-Anantamati, 19.
-Anantavikramin, 4.
-Anavanamitavai^ayanta, 206.
-Anavanata Vai^-ayanti, 206.
-Anavatapta, 5.
-Anikshiptadhura, 4.
-Anilambha, 394.
-Anisawsa, 336.
-Anmawsa, 336.
-Anupadhuesha, 139.
-Anupadisesa, 139.
-
-
-Anupamamati, 4.
-
-Anutpattikadharmakshanti, 134, 254.
-
-Anuvya^g-ana, 246.
-
-Anya, 371.
-
-Apastamba, 48.
-
-Apkr/tsna, 394.
-
-Apokasiwa, 394.
-
-Appama«»a, 140.
-
-Aprawihita, 99.
-
-Apratyanika, 94.
-
-Apratyaniya, 94.
-
-Arawwakahga, 293.
-
-Aranyadhuta, 293.
-
-Ardvi Sura, 253.
-
-Arhat (of the Buddhists), i, 8, 35,
-
-and further passim.
-Arhat (of the Gainas), 265.
-ArQpabrahmaloka, 241.
-Arya, i3,A79, 81, 275, 338.
-Aryasatyani. See Truths.
-Ajaiksha, 71.
-Asamasama, 418.
-Asankhyeya, 284, 329, 331.
-Ajaya, 317.
-
-Asekha. See Ajaiksha.
-A-roka, 383.
-Ajva^-it, 2.
-Ajvins, 67 seq.
-Atikrantabhavaniya, 387.
-Aupapaduka, 160.
-Avabhasa, 142.
-Avalokitejvara, 4, 406 seqq.
-Avarta, 439.
-Avewika-dharma, 31.
-Avidya, 133.
-AvUi, 7, 10, 92, 337, 340, 350, 360.
-
-Bala, 79.
-
-Beal (S.), 228, 406, 414.
-Benares, 56, 70.
-Bhadra (a world), 258.
-Bhadrakalpa, 193.
-Bhadrapala, 4, 360.
-Bhadra vargiya, 2.
-Bhadrika, 2.
-Bhagavata-Pura«a, 118.
-
-
-SADDHARMA-PUJVDARiKA.
-
-
-Bhaisha.fyara^a, 4, 213 seqq., 255,
-371 seqq., 385, 392, 394, 404,
-430.
-
-Bhaisha.gyaraj-asamudgata, 394, 430.
-
-Bharadva^-a, 19.
-
-Bharadva^a, 2.
-
-Bharhut (Stupa of), 345.
-
-Bhavana, 140.
-
-Bhavani, 371.
-
-Bhishmagar^itasvarara^a, 354 seqq.
-
-Bhishmasvara, 360.
-
-Bigandet (P.), 55, 421.
-
-Birth Stories, 2. See Gataka.
-
-Bodhapakshika. SeeBodhipakshika.
-
-Bodhi (constituents of). See Bodhyanga.
-
-Bodhima«</a, 155.
-
-Bodhipakshika, 420.
-
-Bodhisattva, 4, and further passim.
-
-Bodhi tree, 300.
-
-Bodhyanga, 31.
-
-Brahma (Sahampati), 5, 55, 69, 252,
-
-347, 349, 387, 416-
-Brahmadhva^a, 178.
-Brahma>£akra, 134.
-Brahmakaya ( = Brahmakayika), 345.
-Brahmakayika, 5, 156, 342, 347, 387.
-Brahmaloka. See Brahma-world.
-Brahmas (pi., divine beings), 21, 64,
-
-"5, 345-
-
-Brahmasawzstha, 63.
-
-Brahma-Sutra, 63, 322 seq.
-
-Brahmavadini, 336.
-
-Brahmavihara, 140.
-
-Brahma-world, 160, 241, 315, 322
-seq., 340, 364, 387.
-
-Br/haspati, 411.
-
-Br/hat-Sawhita, 76, 179.
-
-Buddha, 16, and further passim.
-
-Buddhadharma, 31.
-
-Buddha-field, 7 seqq., 145, 194 211,
-&c.
-
-Buddhaghosha, 241.
-
-Buddha-vehicle, n, 42 seq., 89, 129,
-'37.
-
-Biihler (G.), 48.
-
-Burnouf (Eug.), 2, and further passim.
-
-Childers (R. C), 31, 71, 133, 24I,
-
-325-
-Cunningham (A.), 345.
-
-Dakshlyam, 435.
-Dan^a, 435.
-Da»</apati, 435.
-
-
-Daw^avati, 435.
-
-Dajabala, 31.
-
-Dajajila, 269.
-
-Devadatta, 246 seq.
-
-Devanikaya, 342.
-
-DevarSjg-a, 247.
-
-Devasopana, 247.
-
-Dhammakkhandha. See Dharmaskandha.
-
-Dhammapada, 58, 99.
-Dhanvantari, 404.
-Dhara«i, 311, 314.
-Dhara«idhara, 4.
-Dharawindhara, 4, 418.
-Dharma, 56, 245 seq.
-Dharmabhawaka, 336.
-Dharmadhara, 5.
-
-Dharmagahanabhyudgatara^a, 208.
-Dharmalokamukha, 420.
-Dharmamati, 19.
-Dharmaparyaya, 6, 17, 20 seqq., 65,
-
-1 20, &c.
-
-Dharmaprabhasa, 195 seqq.
-Dharmara^a, 58, 91, 115, 122, 307.
-Dharmasa^g-iti, 272.
-Dharmaskandha, 241.
-Dharmika, 245.
-Dhatu, 251, 399.
-Dhr/tarash/ra, 4.
-Dhr/tiparipurwa, 67.
-Dhutaguwa, 132.
-Dhutahga, 132, 193.
-Dhva^agrakeyura, 393.
-Dhyani-bodhisattva, 134.
-Dhyani-buddha, 134, 411, 417.
-Dipahkara, 22, 28, 300.
-Dipavawzsa, 241, 260, 281, 383.
-Dr/shfiguru, 407.
-Druma, 5.
-
-Dundubhuvararajg-a, 358.
-Durga, 256, 371, 435.
-
-Eka^akra, 81.
-Ekapad, 81.
-
-Fausboll (V.), 45, 48.
-
-Gadgadasvara, 393 seqq.
-Gandharva, 5, 7, 20, 23, 69, and
-
-further passim.
-Gandharvakayika, 5.
-Garu^a, 6 seq., 20, 69, 162, and
-
-further passim.
-Gatha, 45.
-Gauri, 373.
-Gautami, 3, 256 seqq.
-
-
-INDEX.
-
-
-Gavampati, 2.
-Gaya, 294, 296, 299.
-Gayajlrsha, 79.
-Geya, 45.
-Ghoshamati, 19.
-Giantesses (island of), 407.
-Goldstiicker (Th.), 134.
-Gr/dhrakufa, i, 235, 248 seq., 307
-
-seq., 321, 396, 398,431.
-Guhagupta, 4.
-
-Galadharagarg-itaghoshasusvaranakshatraragasankusumitabhi^wa,
-419 seqq.
-
-Gambudvipa, 214 seq., 329, 391, 435,
-
-437-
-
-Gambunadaprabhasa, 148 seq.
-Gataka, 45, 48, 392.
-Gina, 8, 12 seqq., 23, and further
-
-passim.
-
-Givanmukta, 135.
-Givanmukti, 138.
-Gwanakara, 157.
-Gwanamudra, 394.
-G«anolka, 394.
-Gyotishprabha, 5.
-
-Haradatta, 48.
-
-Hardy (R. Spence), 2, 31, 79, 246,
-
-^ ^348> 394 seq., 402, 420.
-Hariti, 374.
-
-Himalaya, 130, 137, 351.
-Hiouen Thsang, 59, 260.
-Hodgson (B. H.), 30, 186, 241, 269,
-321,429.
-
-Indra, 55, 252, 342, 387, &c.
-Indradatta, 4.
-Indradhva^a, 178.
-Indras (pi.), 315, 347.
-Indriya, 79.
-
-Lvara, 4, 55, 116, 349, 411.
-Itivr/ttika, 45.
-Itivuttaka, 45.
-Ityukta, 45.
-
-Julien (Stanislas), 62.
-
-Kala, 198.
-
-Kala-mountam, 233 seq., 386.
-
-Kalodayin, 198.
-
-Kalpa (al. JEon), 89, 284 ; intermediate kalpa, 27,67 seq., 148, &c.
-
-Kamaladalavimalanakshatrara^-asankusumitabhi^-«a, 393 seq.
-
-Kawphilla. See Kapphina.
-
-
-Kapilavastu, 294, 296.
-Kapina, 2, 198.
-Kapphilla, 2, 198.
-Kapphina, 2, 198.
-KaraWa-vyuha, 407, 416.
-Karketana, 50.
-Karmajaya, 317.
-Kashayas (the five), 58.
-Kashphiwa. See Kapphiwa.
-Kasphiwa. See Kapphiwa.
-Kajyapa. See Maha-Kajyapa.
-Kajyapa of Gaya, 2, 198.
-Kajyapa of Nadi, 2, 198.
-Kajyapa of Uruvilva, 2, 198.
-Ka/asi, 48.
-Katesiva^&ano, 48.
-Ka/£a Upanishad, 122.
-Katyayana. See^Maha-Katyayana.
-Kau«*finya. See A^wata-Kauw^inya.
-Kaush//6ila. See Maha-Kaushf-6ila.
-Kejini, 374.
-Ketu, 211 seq.
-
-Kharaskandha (al. Suraskandha), 6.
-Kinnara, 7, 20, 33, 69, and further
-
-passim.
-
-Kinnara king, 5.
-Kleja, 58.
-Klejakashaya, 42.
-Ko/i, 3, and further passim.
-KottMta. See Maha-KottAita.
-Kr/ttikas (the Pleiads), 256 seq.
-Kubera, 411.
-Kumara, 256.
-Kumarabhuta, 4.
-Kumara^iva, 62.
-KumbhaWa, 373.
-Kuw^ina (family), 199.
-Kunti, 374 seq.
-KuVadanti, 374.
-KG/agara, 321.
-
-/Tailaka, 186.
-ATailakabhuta, 186.
-A"akravala, 233.
-
-iTakravartin, 157, 174, 252, 332,411.
-£a»<&li, ^aw^alika, 373.
-/Tandra, 4.
-^Tandraprabha, 394.
-ATandraprabhasvarara^a, 358.
-^Tandrapradipa ( = £andrasuryapradipa), 26 ; name of a Samadhi,
-
-394-
-
-^Tandrarkadtpa, 25 seq.
-^Tandrasuryapradipa, 18 seq.
-ATandravimalasuryaprabhasajri, 376
-
-seqq.
-
-
-Aaraka, 263.
-
-ATellakabhfita. See ATailaka.
-ATelukabhQta. See tfailaka.
-AMndogya Upanishad, 320.
-ATitradhva^, 413.
-.ATittavimukti, 31.
-ATullavagga, 2, 47 seq., 198, 268.
-ATunda, 198.
-
-Lakshmi, 251.
-
-Lalita-vistara, 3, 17, 55, 58, 7°, 79,
-
-110,140,156, 191, 316, 348, 392,
-
-418, 420, 429.
-Latnba, 373.
-Lay ana, 222.
-Lohitamukti, 147.
-Lokabandhu, 166, 210.
-Lokadhatu, 177.
-Lokayatamantradharaka, 263.
-Lokayatika, 263, 438.
-Lotus of the True Law, 2 1 seq., 65,
-
-174 seq., 177, 228 seqq., 357,
-
-366, 370, 377, 386 seqq., 432
-
-seqq.
-
-MadhubhQmika, 387.
-
-Madhura, 5.
-
-Madhurasvara, 5.
-
-Magadha, 6.
-
-Mahabharata, 170, 256, 435.
-
-Mahabhi^a^-wanabhibhu, 153 seqq.,
-
-183.
-
-Mahabrahmas (pi.), 342.
-Mahadharma, 5.
-Mahakalpa, 381.
-Maha-Ka/yapa, 2, 98, 108, 113, 118
-
-seqq., 142 seqq.
-
-Maha-Katyayana, 2, 98, 144, 147 seq.
-Maha-Kaush^ila, 2.
-Mahakaya, 6.
-Maha-KottAita, 2.
-Maha-ATunda, 198.
-Maha-Maudgalyayana, 2, 98, 144,
-
-149.
-Maha-Maya, 5, 124. Cf. Maya
-
-Devi.
-
-Maha-MuMinda, 233.
-Mahanaman, 2.
-Mahananda, 2.
-Mahaprag-apati, 3.
-Mahapratibhana, 4, 228 seqq., 255.
-Mahapfirwa, 6.
-Maharatnapratimaw^ita, 66.
-Maharddhiprapta, 6.
-MaharQpa, 153.
-Mahasambhava, 354.
-
-
-MahSsanghika, 228.
-
-Mahasattva, 4, and further passim.
-
-Mahasthamaprapta, 4, 354 seq.
-
-Mahate^-as, 6.
-
-Mahate^-ogarbha, 420.
-
-Mahavagga, 2 seq., 55, 70, 79, 156,
-
-198.
-
-Mahavastu, 5.
-Mahavikramin, 4.
-Mahavyuha, 142.
-Mahejvara, 4, 55, 116, 349, 411.
-Maitrayamputra. See Pur«a.
-Maitreya, 4 seq., 28, 286 seq., 290
-
-seqq., 311, 314, 316, 328 seqq.,
-
-436.
-
-Maku/adanti, 374.
-Maladhari, 374.
-Manasvin, 5.
-Mandara, 308.
-Mandarava, 6, 9, 20, 24, 69, 228,
-
-234. 3i3> 342, 345, 378.
-Maw^ughosha ( = Maw,g-u.rri), n, 15,
-
-280.
-
-Maw^-usha, 6, 9, 20, 342, 345.
-Maw,g-ushaka, 6, 9, 20, 342, 345.
-Mangusri, 4, 8 seqq., 23, 248 seqq.,
-
-262 seqq., 363, 394 seqq.
-Maw^-usvara ( = Ma%ujri), 16.
-Manobhirama, 150.
-Mano^-«a, 5.
-
-Mano^wajabdabhigar.g-ita, 206.
-Mano^-wasvara, 5.
-Manu (law book), 191, 317.
-Manus (pi.), 193.
-Manushi-Buddha, 193.
-Mara, 63 seq., 143, 155, 275, 391
-
-seq., 433, 439.
-Marakayika, 391, 433.
-Maras (pi. divine beings), 21, 64, 115.
-Marut, 55.
-Matahgi, 373.
-Mati, 22.
-
-Matres (the seven), 256.
-Ma/uta^andi, 374.
-
-Maudgalyayana. See Maha-Maudgalyayana.
-
-Maya (Devi), 5, 371, 434.
-Meghadundubhisvararjig-a, 399 seq.
-Meghasvara, 179.
-Meghasvarapradipa, 179.
-Meghasvararjyj-a, 179, 358.
-Meru, 5, 337, 350 seq., 414.
-Merukalpa, 178.
-Merukute, 178.
-Milinda Pawho, 132, 153.
-Mithra, 17 seq., 28.
-
-
-INDEX.
-
-
-Mu^ilinda, 233.
-Miiller (Max), 59, 317.
-MiWaka Upanishad, 131.
-Musaragalva, 147.
-
-Naga, 5, 20, 24, 69, 162, 213, 223,
-253, 338 seq., 347, 349, 363, 376,
-391, 412 seq., 415, 431.
-
-Naga king, 5, 248, 251 seq.
-
-Na/fciketas, 122.
-
-Nakshatrarag-a, 4.
-
-Nakshatrara^aditya, 420.
-
-Nakshatrara§-asahkusumitabhig-«a,
-37, 376 seqq., 394.
-
-Nakshatrara^avikrWita, 393.
-
-Nakshatratarara^aditya, 420.
-
-Nanda (a Naga king), 5 ; (an Arhat), 2.
-
-Naradatta, 4.
-
-Narayawa, 397.
-
-Nayuta, 3.
-
-Niramisha, 191.
-
-Nirgrantha, 263.
-
-Nirvawa, 18, 21, and further passim.
-
-Nityaparivr/ta, 178.
-
-Nityodyukta, 4.
-
-Oldenberg (H.), 2, 241.
-Opapatika, 1 60.
-
-Padmaprabha, 65 seqq.
-
-Padmajn, 4, 399 seq., 405.
-
-Padmav/vshabhavikramin, 67.
-
-Pan^ita, 209, 318.
-
-Pawini, 25, 53, 113, 144, 153.
-
-Pa«£avaggiya, 2.
-
-Paramita, 18,140, 243, 246, 249, 252,
-316, 355,419.
-
-Parian ya, 1 1 9.
-
-Pari>$araka, 209.
-
-Parinirmita Vajavartin, 225.
-
-Parivra,g-, Parivrag-aka, 63, 263.
-
-Paryaya ( = Dharmaparyaya), 255,
-277.
-
-Pa/isallana, 175.
-
-Pa/isambhida, 192.
-
-Perfections (the six). See Paramita.
-
-Phoenix, 378 seqq.
-
-Pilindavatsa, 2.
-
-PiWola (Bharadva^-a), 2.
-
-Pitr;- worship, 115.
-
-Prabhasa ( = Samantaprabhasa), 199.
-
-Prabhiitaratna, 229 seqq., 283, 313,
-364 seqq., 392, 397 seqq., 412,
-442.
-
-Pradanajfira, 4, 372, 394, 404.
-
-
-Pra^apati, 435.
-Pra,§-avati, 435.
-Pragnz, 30, 307, 371.
-Pra^waffyotis, 387.
-Pragnakuta, 248 seqq.
-Pra^-wika, 30.
-Prakr/ti, 124.
-Pralamba, 373.
-Pra«ayama, 402.
-Prawidhana, 203, 208.
-Prasadavati, 394.
-Prathamakalpika, 387.
-Pratirupaka, 68.
-Pratisawlayana, 175.
-Pratisawzvid, 192.
-Pratityasamutpada, 133; cf. 172.
-Pratyekabuddha, 10, 30, 33, 36, &c.
-Pratyeka^ina, 137.
-Priyadarjana (an ^Eon), 400, 419.
-Puwyabhisawskara, 317.
-Purwa (Maitrayawiputra), 3, 191
-
-seqq.
-
-Pur«a£andra, 4.
-Purushottama, 44, 46.
-Purva-yoga, 153, 376, 419.
-Pushpadanti, 374.
-
-Ra^agr/ha, i.
-
-Rahu, 6, 210 seq., 395.
-
-Rahula, 3, 205, 209 seq., 257.
-
-Rahula-Bhadra ( = Rahula), 209.
-
-Rajmiprabhasa, 142 seq.
-
-Rajmi.ratasahasraparipurwadhva.g-a,
-
-257.
-
-Ratipratipfirwa, 150.
-Ratna (a term applied to Bodhisattvas), 66.
-Ratnadatta, 4.
-Ratnalandra, 4.
-Ratnakara, 4.
-Ratnaketura^a, 211.
-Ratnamati, 19.
-Ratnapani, 4.
-Ratnaprabha, 4.
-Ratnaprabhasa (al. Ratnavabhasa),
-
-145.
-
-Ratnas (the seven), 227.
-Ratnasambhava, 145.
-Ratnatej-obhyudgata, 432.
-Ratnavabhasa. See Ratnaprabhasa.
-Ratnavijuddha, 229.
-Revata, 2.
-
-Rhys Davids (T.W.), 2, 45, 392.
-Rig-veda, 66, 81, 309, 404.
-Rudra, 401, 404.
-RQpabrahmaloka, 241.
-
-
-SADDHARMA-PUtfDARfKA.
-
-
-/?/ddhi, 19, 273.
-/J/ddhivikru/ita, 394.
-/{/shipatana, 70.
-
-SadaparibhQta, 356 seqq.
-Siddharma-puWarika. See Lotus.
-
-Name of a Samadhi, 393.
-Sagara, 5, 248, 251 seqq. ; his
-
-daughter, 251 seqq.
-Sagarabuddhidharin Abhi^aprapta,
-
-207.
-Sagaravaradharabuddhivikrufltabhi-
-
-£#a, 206, 209 seqq.
-Sagata. See Svagata.
-Sahampati. See Brahma.
-Saha-world, 230 seqq., 256, and
-
-further passim.
-Samantabhadra, 431 seqq.
-Samantagandha, 4.
-Samantamukha, 406.
-Samantaprabha ( = Samantaprabhasa), 200.
-
-Samantaprabhasa, 198 seqq.
-Sambhava, 153.
-Sawskara, 107, 133.
-Sandhabhashita, 30, 59; cf. 62, 121,
-
-261, 273, 320.
-Sandhabhashya, 30, 59; cf. 62, 121,
-
-261, 273, 320.
-Sandhayabhashita, 30, 59 ; cf. 62,
-
-121, 261, 273, 320.
-Sahgamejvara, 309.
-Sahgha, 56.
-
-Sangraha(-vastu"ni), 140.
-Saptaratnapadmavikramin (al. Saptaratnapadmavikrantagamin), 209.
-Sarvabuddhasandarjana, 400.
-Sarvadarjana-Sahgraha, 402.
-SarvaguwalarikaravyGha, 425.
-Sarvalokabhayajg-ita^ambhitatvavidhvawsanakara, 179.
-Sarvalokabhayagitastambhitatvavidhvawsanakara, 179.
-Sarvalokadhatupadravodvegapratyuttirna, 178.
-
-Sarvapuwyasamu^aya, 394.
-Sarvarthanaman, 4.
-Sarvarflpasandarjana, 378, 384, 404.
-Sarvarutakaujalya, 394.
-Sarvasattvapapa^ahana, 424.
-Sarvasattvapriyadarjana, 257, 377
-
-seqq.
-
-Sarvasattvatratr/, 161.
-Sarvasattvo^ohari, 374.
-Satatasamitabhiyukta, 4, 336 seqq.
-Satpurusha, 402.
-
-
-Schiefner (A.), 89.
-
-Sekho, 71.
-
-Senapati, 411.
-
-Senart (E.), 5, 227, 230, 348.
-
-Siwha, 4.
-
-Siwhadhvag-a, 178.
-
-Siwhaghosha, 178.
-
-Siw/ha^andra, 360.
-
-Siwhavikru/ita, 435.
-
-Siwhika, 435.
-
-Skanda, 256, 411.
-
-Sopadhuesha, 138.
-
-Srotaapanna, 315, 330, 387.
-
-Stupa, 8, 15, 277 seqq., &c.
-
-Subhuti, 2, 98, 144 seqq.
-
-Sudharma (a king of the Kinnaras),
-5 ; an angel, 169.
-
-Sudharma, 167, 342, 345.
-
-Sugata, 10, and further passim.
-
-Sug-ata, 296.
-
-Sugata^etana, 360.
-
-Sukhakara, 417.
-
-Sukhavati, 178, 389, 417.
-
-Sukhavati-vyfiha, 317.
-
-Sumati, 19.
-
-Sumeru, 5, 162, 169, 233, 267, 337,
-350 seq., 386.
-
-Sunanda, 3.
-
-Sundara-Nanda, 3.
-
-Supratish//Mta£aritra, 284.
-
-Suraskandha, 6 ; cf. Kharaskandha.
-
-Suryagarbha, 4.
-
-Suryavarta, 394.
-
-Susawsthita, 4.
-
-Susarthavaha, 4.
-
-Sutra, 24, 29, 46, and further passim.
-
-Sfltranta, 65, 144, 176, 218, &c.
-
-Sutta, 45.
-
-Suvikrantavikramin, 4.
-
-Suvbuddha, 195, 197.
-
-Svabhavika, 438.
-
-Svagata, 198.
-
-Svaha, 435.
-
-Svastika, 392.
-
-Svayambhu, 310.
-
-Svayambhu^-wana, 217.
-
-Sakra, 4.
-
-•Sakyamuni, 179, 228, 232, 234 seqq.,
-283 seq., 298, and further passim.
-
-•Sakyaputra, 3.
-
-Sakyasiwha, 28.
-
-•Sala king, 417.
-
-•Salendraraja, 429.
-
-
-INDEX.
-
-
-SaWilyavidya, 320.
-
-Sahkara (the philosopher), 63, 134.
-
-Saiikhajila, n.
-
-•Sari (son of ) = Sariputra, 47 seq., 56,
-
-69.
-
-5ariputra, 2, 30 seqq., 252 seqq.
-Sajiketu, 145.
-Satapatha-Brahma«a, 386.
-Sayyasana, 308.
-iSikhin (name of Brahma), 5, 179;
-
-name of an angel, 167.
-Siva, 5, 81,115, 407, 435.
-5rama»era, 292.
-Sravaka, 129.
-Sravaka-yana, 269.
-iSrigarbha, 22, 27.
-Subhavyuha, 419 seqq.
-SGnyata, 127 ; cf. 99.
-iSveta-rvatara Upanishad, 134.
-
-Tadi (tadin), 25.
-Taittinya Arawyaka, 314.
-Tamalapatrayfcandanagandha, 1 50 seq.
-Tamalapatra^andanagandhabhi^wa,
-
-178.
-
-Tapin, 25.
-
-Tara, Taraka, 251, 253.
-Tathagata, 9, 12, 17, and further
-
-passim.
-
-Tathagatas (the sixteen), 178.
-Tayin, 25, 45, 57, 113, 144, 169, 199,
-
-207, 209, 287, 315.
-Tirtha-doctrine, 260.
-Tirthika, 63, 259 seq., 265.
-Tishter Yasht, 253.
-Tishtrya, 253.
-Tishya (=Upatishya), 89.
-Trailokavikramin, 4.
-Trayastriwzja (gods), 156.
-Trenckner (V.), 132.
-Trinabhi, 81.
-Tripad, 81.
-Trivartman, 134.
-Trivrit, 134.
-Truths (the four great), 18, 90, 158,
-
-354-
-Tushita gods, 436.
-
-Udana, 45.
-
-Upadana, 172.
-
-Upadisesa, 138.
-
-Upananda (an Arh'at), 3; a Naga, 5.
-
-Upanisa, 317.
-
-Upasthayaka, 209.
-
-Upatishya, 89.
-
-Upa-ya, 30 ; cf. 307.
-
-[21] G g
-
-
-Upayakaujalya, 30, 59.
-Onza, 427.
-Utpalaka, 5.
-Uttaramati, 4.
-
-Va^iputtaka, 260.
-Va.gra-A^arya, 269.
-Va.g-ra^Aedika, 59.
-Va^-rapawi, 411.
-VaideM, 6.
-Vai^ayanta, 342, 345.
-Vaihayasa, 227.
-Vaipulya, 45.
-Vairo>£anarajmipratima«*/ita, 393,
-
-396 seq., 419, 429.
-Vauaradya, 246.
-Vaurava«a, 4, 373.
-Vaivasvata, 309.
-Vaiyakarawa, 45.
-Vakkula, 2, 198.
-Vakula, 2, 198.
-Vandya, 318.
-Varaha-Mihira, 76.
-Varaprabha, 21 seq., 26 seq.
-Vardhamanamati, 4.
-Varuwadatta, 4.
-Vashpa, 2.
-Vajibhuta, i.
-Vasuki, 5.
-Vayu, 397, 401 seq.
-Vedalla, 45.
-Vedanta, 322.
-
-Vehicles (the three), 78 seqq., 213.
-Vema^itri, 6.
-Vepa/fcitti, 6.
-Veyyakarawa, 45.
-Vihara, 222.
-Vikurva, 406.
-Vimala, 253 seq. ; name of a Samadhi, 420.
-
-Vimalabhasa, 420.
-Vimaladatta, 380 ; name of a Samadhi, 393.
-
-Vimaladatta, 419 seqq.
-Vimalagarbha (a prince), 419 seqq. ;
-
-name of a Samadhi, 394.
-Vimalagranetra, 27.
-Vimalanetra, 22, 419 seqq.
-Vimalanirbhasa, 420.
-Vimalaprabha, 394.
-Vimatisamudghatin, 19.
-Vimoksha, 31.
-Vimukti, 31.
-Vinirbhoga, 355.
-Vipajyin, 193.
-Vipra&tti, 6.
-
-
-SADDHARMA-PUJVDARIKA.
-
-
-Vipratyanika, vipratyaniyaka, 17.
-
-Virata, 66, 68.
-
-Virfii&aka, 4, 373.
-
-Virflpaksha, 4.
-
-Vijeshamati, 4, 19.
-
-Vishau, 5, 44, 81, 173, 301, 397, 411.
-
-VLrish/a^aritra, 284, 364, 367, 394,
-
-442.
-
-VistirnavatT, 429.
-Vijuddha&iritra, 284.
-Vijvanatha, 309.
-VyGha, 173.
-Vyuhara^ja (a Bodhisattva), 394 ;
-
-name of a Samadhi, 394.
-
-
-Westergaard (N. L.), 253.
-
-Ya^wavalkya, 141.
-
-Yama, 65 seq., 91, 115 seq., 167,
-
-178, 233, 248, 309, 402, 415,
-
-417.
-
-Yana, 34, 53.
-Yajaskama, 23, 28.
-Yajodhara, 3, 257 seq.
-Yoga, 7.
-
-Yogajastra, 31, 71, 140, 387, 402.
-Yoga system, 31, 71, 387.
-Yogayatra, 170.
-Yogin, 7,92, 319.
 
 

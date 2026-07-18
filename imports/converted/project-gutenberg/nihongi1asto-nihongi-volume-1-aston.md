@@ -1,55 +1,3 @@
-# Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 1
-TRANSACTIONS AND PROCEEDINGS
-
-
-OF
-
-
-THE JAPAN SOCIETY, LONDON.
-
-
-SUPPLEMENT I.
-
-
-Chronicles of Japan from the Earliest Times to 4.v. 697.
-
-
-TRANSLATED FROM THE ORIGINAL CHINESE AND JAPANESE
-
-
-BY
-~
-
-
-W. G. ASTON, C.M.G.
-Honorary Member of the Fapan Society, &c.
-
-
-VOLUME I.
-
-Freer G ler of Are
-
-Washingion-.
-LONDON, 1806.
-
-PUBLISHED FOR THE SOCIETY BY
-KEGAN PAUL, TRENCH, TRUBNER - & Co.,. LIMITED,
-PATERNOSTER HOUSE, CHARING CROSS ROAD, W.C.
-[All Rights Reserved.|
-
-
-“ere
-
-
-oY}
-
-
-iNG 9 die
-
-
-Vi |
-
-
 PREFACE.
 
 
@@ -1549,7 +1497,7 @@ the source of masculinity. I desire to unite my source of
 ‘ Koshi is not anisland. It comprises the present provinces of Ettchiu,
 Echigo, and Echizen.
 
-> These two are not clear. Kibi is now Bingo, Bizen, and Bittchiu. Ko,
+) These two are not clear. Kibi is now Bingo, Bizen, and Bittchiu. Ko,
 “child or small,” perhaps refers to the small islands of the Inland Sea.
 
 3 Great-eight-island.
@@ -2036,7 +1984,7 @@ and next Kura-midzu-ha no Kami."
 4 i.e. The Milky Way. Yasu, easy, is probably in error for ya-so, eighty,
 i.e. manifold, having many reaches.
 
-> Jar-swift-sun. So written, but mika is probably a word meaning very or
+) Jar-swift-sun. So written, but mika is probably a word meaning very or
 mighty.
 
 6 Fire-swift-sun. See Ch. “ Kojiki,” p. 32. 7 Brave-jar-father.
@@ -2377,7 +2325,7 @@ ran away. Then the thunders all arose and pursued him.
 * The numbers 500, 80, 8, 180, 10,000 are often put vaguely for a large
 number.
 
-> Rock-split. ® Root-split.
+) Rock-split. ® Root-split.
 
 * Rock-elder-male. * Greatemountain-of-person.
 
@@ -3169,7 +3117,7 @@ up in every Shinto shrine.
 4 This is said to be the origin of the Kagura or pantomimic dance now
 performed at Shinto festivals.
 
-> The braces or shoulder straps were to support a tray for carrying things,
+) The braces or shoulder straps were to support a tray for carrying things,
 and so assist the arms. The Japanese word is tasuki, which means
 assistance. .
 
@@ -3633,7 +3581,7 @@ snake,
 * It is hardly necessary to point out the resemblance of this story to that
 of Perseus and Andromeda, and many others.
 
-*> Suga means pure, fresh. _ 5 Fierce;
+*) Suga means pure, fresh. _ 5 Fierce;
 
 
 I
@@ -3971,7 +3919,7 @@ above as the residence of Sosa no wo. See Index—Kuma-nari.
 
 3 Great-country-master. + Great-thing-master.
 
-> Country-make great-name-possessor.
+) Country-make great-name-possessor.
 
 6 The ugly male of the reed-plain. 7 Eight thousand spears.
 S Great-country-jewel. » Apparent-country-jewel.
@@ -4399,7 +4347,7 @@ Lilt
 
 
 Now there were certain Gods dwelling in the Rock-cave of
-Heaven, viz. Mika no Haya-hi' no Kami, son of Idzu no wobashiri >no Kami, Hino Haya-hino Kami, son of Mika no Hayahi no Kami, and Take-mika-dzuchi no Kami,’ son of Hino Haya-hi
+Heaven, viz. Mika no Haya-hi' no Kami, son of Idzu no wobashiri )no Kami, Hino Haya-hino Kami, son of Mika no Hayahi no Kami, and Take-mika-dzuchi no Kami,’ son of Hino Haya-hi
 no Kami. The latter God came forward and said :—‘‘Is Futsunushi no Kami alone to be reckoned a hero? And am I not a
 hero ?”’ His words were animated by a spirit of indignation. He
 was therefore associated with Futsu‘nushi no Kami and made to
@@ -4580,7 +4528,7 @@ entrance.
 
 * The character 3 which in Chinese means a house, a chamber, is, in
 the older Japanese literature, generally, if not invariably, used to represent
-the Japanese word muro. Another character used for this purpose is > a
+the Japanese word muro. Another character used for this purpose is ) a
 cellar. The muro is distinguished from the ihe, or ordinary dwelling. What
 was the murogij/This term is nowadays applied to a. gardener’s forcinghouse, which aM doan consists of a pit four or five feet deep and roofed over.
 Hi-muro means an ice-house. Ifthe ice-houses in Japan (see drawing in
@@ -5073,7 +5021,7 @@ thee the eighty myriads of Deities to be the guards of my
 August Grandchild to all ages. So she sent him down
 again. Thereupon Ta-oki-ho-ohi no Kami, ancestor of the
 Imbe of the Land of Kii, was appointed hatter,’ Hiko-sachi
-no’ Kami was made shield-maker,*> Ma-hitotsu nc Kamié
+no’ Kami was made shield-maker,*) Ma-hitotsu nc Kamié
 was made metal-worker, Ame no Hi-washi’? no Kami was
 appointed tree-fibre maker, and Kushi-akaru-dama no Kami
 ewel-maker.‘
@@ -5086,7 +5034,7 @@ saying :—‘I will set up a Heavenly divine fence’ and a
 
 * Kasa-nuhi, i.e. broad-hat-sewer.
 
-> Tate-nuhi, lit. shield-sewer.
+) Tate-nuhi, lit. shield-sewer.
 
 ° The-one-eyed God. It is curious that the Smith-God of Japan, like the
 Cyclops of Greek fable, should have but one eye. The “ Kojiki” calls him
@@ -5389,7 +5337,7 @@ Now at this place there was a God named Koto-katsukuni-katsu-Nagasa. Therefore t
 inquired of this-God, saying:—‘Is there a country?’
 
 
->
+)
 
 
 Il.
@@ -5884,7 +5832,7 @@ looked up and there was a beautiful God leaning against a
 cassia-tree. She accordingly returned within, and informed
 her mistress.
 
-Hereupon Toyo-tama-hiko sent a>man to inquire,
+Hereupon Toyo-tama-hiko sent a)man to inquire,
 saying :—* Who art thou, O stranger, and why hast thou
 come here?’ Hoho-demino Mikoto answered and said :—
 ‘I am the grandchild of the Heavenly Deity,’ and ulti-
@@ -6639,7 +6587,7 @@ hardly have been known in Japan before the introduction of writing in the
 5th century, A.D. It ismeedless to add that such dates are, in this part of
 the “ Nihongi,” purely fictitious.
 
-> The days of the month are throughout the “ Nihongi” given in this clumsy
+) The days of the month are throughout the “ Nihongi” given in this clumsy
 fashion. I have not thought it necéssary to follow the example, except in
 this one instance.
 
@@ -6696,7 +6644,7 @@ Whereupon that place was called Nami-haya (wave-swift) or ~
 
 * Prince of shihi root. .
 
-> Usa is now a district (k6ri) in the province of Buzen. Tsukushiis used by
+) Usa is now a district (k6ri) in the province of Buzen. Tsukushiis used by
 old writers both for the whole island of Kiushiu and for the northern part of it,
 
 3 Or Kuni no miyakko, local hereditary nobles.
@@ -6741,7 +6689,7 @@ the forces under his dominion, and intercepted them at the Hill
 of Kusaka. A battle was engaged, and Itsuse no Mikoto was hit
 by a random arrow on the elbow. The Imperial forces were
 unable to advance against the enemy. The Emperor was vexed,
-and revolved in his inmost heart a divine plan, saying :—<‘ I
+and revolved in his inmost heart a divine plan, saying :—(‘ I
 am the descendant of the Sun-Goddess, and if I proceed
 against the Sun to attack the enemy, I shall act contrary to the
 way of Heaven. Better to retreat and make a show of weakness. Then sacrificing to the Gods of Heaven and Earth, and
@@ -7058,7 +7006,7 @@ however, that this part of the poem contains an indication of the polygamous
 customs of the Japanese at this time in the use of two words signifying respectively elder wife (konami) and younger wife (uhanari), The
 “ Nihongi” omits the interjectional refrain given in the “ Kojiki.”
 
-> Kume means no doubt “soldier” in this passage.
+) Kume means no doubt “soldier” in this passage.
 
 3 Beating time is perhaps meant. * Well-brightness.
 
@@ -7103,7 +7051,7 @@ Food-holder or purveyor.
 U-kahi means cormorant-keepers. Fishing with cormorants is still
 practised in Japan.
 
-> Land-view. ® Women’s acclivity.
+) Land-view. ® Women’s acclivity.
 
 7 Men’s acclivity. The terms Me-zaka and Wo-zaka are now applied to
 two roads or stairs leading up to the same place, one of which (the women’s)
@@ -7290,7 +7238,7 @@ women were available at this time, Michi-no-Omi was given a feminine title
 for the occasion.
 
 
->.The interlinear Kana has tatematsuri, i.e. offered. The reference is to
+).The interlinear Kana has tatematsuri, i.e. offered. The reference is to
 the feast of Nihiname described above. See p. 86. ,
 6 The shitadami is a small shell of the turbinide class. Its introduction
 
@@ -7640,7 +7588,7 @@ gracious to him. He was the ancestor of the Mono no Be House.”
 1 Three-cook-house-princess. ? Wealth-house. 3 Sweet-true-hand.
 
 
-4 A foot-soldier’s quiver is meant. > i.e. of Lord and Vassal.
+4 A foot-soldier’s quiver is meant. ) i.e. of Lord and Vassal.
 6 The Mononobe were soldiers. Here, however, the hereditary chiefs
 
 
@@ -7786,7 +7734,7 @@ and strong.’
 
 At present things are in a crude and obscure condition, and
 the people’s minds are unsophisticated. They roost in nests
-or dwell in caves.> Their manners are simply what is customary.
+or dwell in caves.) Their manners are simply what is customary.
 Now if a great man were to establish laws, justice could not
 fail to flourish. And even if some gain should accrue to
 the people, in what way would this interfere with the Sage’s *
@@ -8651,7 +8599,7 @@ is a honorific), and one Emperor styles himself Yamato-neko in an edict,
 although this was not his name. It may be suspected that Yamato- neko was
 at one time a general title for the sovereigns of Japan.
 
-? Filial piety-spirit. .. >  * In ¥amato,
+? Filial piety-spirit. .. )  * In ¥amato,
 
 
 KocEn. - 4g
@@ -8954,7 +8902,7 @@ Toyo-suki-iri-bime no Mikoto to be worshipped at the village
 
 3 Le, a the virtues of the Sov ereign commanding the respect and
 obedience of the people.
-->%-In accordance: with the Chihese, notion that national’ calamities ae
+-)%-In accordance: with the Chihese, notion that national’ calamities ae
 owing tothe faults of the Emperor.
 
 5 The numen of Be great land of Y amato.
@@ -9066,7 +9014,7 @@ to worship other Gods.’
 11th month, 8th day.* The Emperor took the articles 4 for
 
 
-1 In Idzumi. > Than the two above mentioned.
+1 In Idzumi. ) Than the two above mentioned.
 
 * The original has cyclical characters which would make it the 56th day of
 the month. I have adopted an emendation which does not make obvious
@@ -9145,7 +9093,7 @@ We would go forth from—
 The door of the Hall of Miwa.
 
 
->> Hereupon the Emperor sang as follows :—
+)) Hereupon the Emperor sang as follows :—
 
 
 “How long ago” is'in Japanese Heubvisa: an obvious - allusion to- the
@@ -10047,7 +9995,7 @@ brother.
 
 
 1 Mirror-valley. 2 A Chinese saying.
-> i.e. to take possession of the throne.
+) i.e. to take possession of the throne.
 + A Chinese metaphor meaning “in security.”
 
 
@@ -12046,7 +11994,7 @@ country as regards means of access, and also whether the people
 were tractable or not. So Yamato-dake no Mikoto advanced
 
 
-* Cf Ch. Ka Pp. 214. > Quiver.
+* Cf Ch. Ka Pp. 214. ) Quiver.
 3 Now known as the Usuhi Toge (pass) on the Nakasendd road.
 4 Aga tsuma means my wife.
 
@@ -12080,7 +12028,7 @@ guiding the Prince. Following the dog, he proceeded on his
 way, and succeeded in coming out into Mino. Kibi no Takehiko, coming out from Koshi, met him. Before this when any
 one crossed the Shinano pass, he inhaled so much of the breath
 of the Deity that he became ill and lay down. But after the
-white deer was killed, the travellers who crossed that mountain chewed garlic,®> and smearing with it men, kine, and
+white deer was killed, the travellers who crossed that mountain chewed garlic,®) and smearing with it men, kine, and
 horses, preserved them from being affected by the Deity’s
 
 
@@ -12511,7 +12459,7 @@ to the influence of the element which overcomes that prevailing with the
 previous dynasty, and all human affairs are referable to the same occult
 influence.” Mayers’ Manual, p. 317. This whole speech is intensely Chinese.
 
-2 This cannot be correct. > i.e. the Gokinai.
+2 This cannot be correct. ) i.e. the Gokinai.
 
 * Inaki is literally rice-castle, i.e. granary. The office seems to be something like mayor. It subsequently became a mere title, and eventually a
 surname.
@@ -12814,7 +12762,7 @@ and the edge of thy sword shall not at all be stained with blood.
 
 century of our era. “There are” (he says) “hereditary kings in Ito, who
 all owe allegiance to the Queen country.”
-> No doubt Maga-tama are meant. 3 Opposite.
+) No doubt Maga-tama are meant. 3 Opposite.
 
 
 4 Taku-fusuma in Japanese. This is a pillow-word, prefixed to Silla, not
@@ -13070,7 +13018,7 @@ of Yamato,’ where she put to death a Tsuchi-gumo named
 4 The term “divine words” probably means the proper names and titles
 of the Deities.
 
-> Feather-white bear-eagle. 6 August hat. 7 Peaceful.
+) Feather-white bear-eagle. 6 August hat. 7 Peaceful.
 
 8 In Chikugo.
 
@@ -13321,7 +13269,7 @@ which the Empress leant * was planted at the gate of the King
 of Silla as a memorial to after ages. Therefore that spear
 even now remains planted at the King of Silla’s gate.
 
-Now Phasa Mikeun,‘ King of Silla, gave as a hostage Micheul-kwi-chi Pha-chin Kan-ki,> and with gold and silver,
+Now Phasa Mikeun,‘ King of Silla, gave as a hostage Micheul-kwi-chi Pha-chin Kan-ki,) and with gold and silver,
 bright colours, figured gauzes and silks, he loaded eighty vessels,
 which he made to follow after the Imperial forces. This was
 the origin of the King of Silla always sending eighty ships of
@@ -14136,7 +14084,7 @@ under the name of @l}) 33 and the Governor of Lolang called by the “ Tongkam�
 
 Another authority makes Thé-pang identical with Namwén in Chdllato.
 
-> These officials, as. we learn from other sources, were sent by the Chinese
+) These officials, as. we learn from other sources, were sent by the Chinese
 authorities of Sakpang in Corea, not far from the present Treaty Port of
 Wonsan. See “Early Japanese History,” p. 58; “Ishdnihonden,” I. 11;
 “ Tongkam,” III. 17.
@@ -14196,7 +14144,7 @@ Its destruction by Silla is recorded below—sth year of Kimmei Tenno.
 
 4 The Japanese traditional rendering is Makin Kanki.
 
-> A.D. 244.
+) A.D. 244.
 
 6 The Japanese kana gloss has Kutei, Mitsuru, and Mako.
 
@@ -14463,7 +14411,7 @@ projections round the rim. See above, p. 44.
 
 8 Iron mountain. All this about iron is merely symbolical of constancy.
 
-4 The King of Pékché. > Came to the throne A.D. 384.
+4 The King of Pékché. ) Came to the throne A.D. 384.
 
 § The “ Tongkam” places his death in A.D. 375.
 
@@ -15394,7 +15342,7 @@ road—the part nearest the capital.
 
 * Middle prince. 5 Younger prince. 4 Weavers.
 
-> If we take a broad view of Japanese History we shall recognize in it a
+) If we take a broad view of Japanese History we shall recognize in it a
 constant oscillation between two forms of government. At one time there
 is a strong central authority with local governors removable at pleasure or at
 short intervals. By degrees the latter offices become hereditary and more
@@ -15460,7 +15408,7 @@ all assembled in the harbour of Muko. At this time the Silla
 
 1 Japan. 7
 
-> If this story were true, it would have to be dated 120 years later. But
+) If this story were true, it would have to be dated 120 years later. But
 even then Koryo was still Kokuryd. The name Koryé did not come into
 official use till A.D. 918, though as a literary designation examples of it may
 be found as early as A.D. 500. Koryé, however, is out of place in an
@@ -15531,7 +15479,7 @@ Yura is in Ahaji. Cf. Ch. K., 285.
 
 + They were Coreans. See above, p. 264.
 
-> Wu AR, called by the Japanese Go or Kure, was a Chinese dynasty,
+) Wu AR, called by the Japanese Go or Kure, was a Chinese dynasty,
 the last sovereign of which was deposed A.D. 280, long before the despatch of
 these envoys. We learn, however, from a note to the “ Shukai” edition that
 this appellation was applied (perhaps popularly) to all the six dynasties
@@ -15597,7 +15545,7 @@ rejects the name Chikchi, which in the older editions follows Pékché, It is
 not in the old books, and besides his death has been already recorded
 above.
 
-®> He was the son of an inferior consort.
+®) He was the son of an inferior consort.
 
 
 Ojmn. 294
@@ -15642,7 +15590,7 @@ in his honour standing at this day.
 
 3 In Chikuzen.
 
-* Mitsukahi means “ august messenger.” > Settsu.
+* Mitsukahi means “ august messenger.” ) Settsu.
 
 6 Kaya is written with the characters for ‘“‘ Musquito-net.” There isa place
 in Bittchiu of this name, but written with different characters.
@@ -15956,7 +15904,7 @@ a new palace in a new locality.
 par ee se
 
 
->.
+).
 
 
 A.D. 314.
@@ -16080,7 +16028,7 @@ Chinese works.
 esrO;
 
 
-Av Ds <3 89%
+Av Ds (3 89%
 
 
 XT stet's
@@ -16134,7 +16082,7 @@ side, so that the lower streams flow sluggishly. Should there
 of thisname. It was originally the group of peasants whose duty it was to
 provide wet nurses, etc., for infant princes. See Ch. K., p. 268, and Motowori in “ Kojikiden,” xxxv. 12.
 
-> The “ Kojiki” says that these two Be were instituted as “ middai” of
+) The “ Kojiki” says that these two Be were instituted as “ middai” of
 the Prince and the Empress, i.e. in order to perpetuate their memory, the
 Be in such cases taking the name of the person or of his or her residence.
 The last explanation might apply to the Empress, but it is not clear how
@@ -16442,7 +16390,7 @@ Empress’s ship, made a song, saying : —
 
 4 This is properly not a cape, but only a spur ofa hill.
 
-> In the original mitsuna-kashiha. Kashiha is the Quercus dentata, a
+) In the original mitsuna-kashiha. Kashiha is the Quercus dentata, a
 kind of evergreen oak, the leaves of which were used as drinking-cups. But
 this term was also applied to any leaves used for this purpose. Here the
 leaves of another tree—the mitsuna—seem to be intended. Chamberlain
@@ -16451,7 +16399,7 @@ makes it the aralia. See Ch. K., pp. 248-273.
 § No doubt Naniha or Osaka.
 
 
->» ee
+)» ee
 
 
 Ye men of Naniha,
@@ -16688,7 +16636,7 @@ Empress, saying :—‘‘ This evening the deer does not bell.
 Wherefore is this?” ‘The next day, a Saheki Be of the
 district of Wina presented a basket. The Emperor caused a
 steward to make inquiry of him, saying:—‘‘ What is this
-basket?” The answer was, “A buck.” He inquired—“<A
+basket?” The answer was, “A buck.” He inquired—“(A
 deer of what place?” and was told, “‘Of Toga moor.” The
 Emperor. considered that this basket’ must be the deer which
 
@@ -16952,7 +16900,7 @@ Ga) 3
 A.D. 355+
 
 
-> Gl aap
+) Gl aap
 
 
 A.D. 362.
@@ -17768,7 +17716,7 @@ expiation. See above, p. 48.
 RicHivu. | 309
 
 
-gth day. A Treasury was. instituted and a Treasury > ae
+gth day. A Treasury was. instituted and a Treasury ) ae
 established.
 
 2nd month, 1st day. The Emperor sent for Futohime no
@@ -18409,7 +18357,7 @@ as opposed to Oho-nakatsu hime, the dame of the Great Interior.
 
 £ It was considered that when a spider clung to one’s garments, it was a
 sign that an intimate friend would arrive. Little crab is another name for
-spider. Sotohori hime was in after times looked on as the “ Muse. of>
+spider. Sotohori hime was in after times looked on as the “ Muse. of)
 poetry.” This poem is a regular Tanka, as are the others in this passage.
 
 
@@ -18984,7 +18932,7 @@ here is uncertain.
 * The ‘“ Kojiki” gives here a different name.
 
 
->. Ol raed
+). Ol raed
 
 
 A.D. 455.
@@ -19041,7 +18989,7 @@ bore to him Prince Mayuwa. Afterwards the Emperor
 Book read more like genuine history, and the chronology, though it stiil
 leaves much to be desired, is not so wildly inaccurate as before.
 
-> He was really the fifth son. See above, p. 315.
+) He was really the fifth son. See above, p. 315.
 
 * The same thing in nearly the same words is related of one of the Later
 Han Emperors of China.
@@ -19323,7 +19271,7 @@ The “‘Shinsen ” * of Péekché says :—‘‘ In the 6th year of
 some of the events allotted to the previous period really belong to this
 interval. Ae aris
 
-> i.e. wed. * 1.e. new compilation, the name of a book.
+) i.e. wed. * 1.e. new compilation, the name of a book.
 
 
 YURIAKU. 339
@@ -19387,7 +19335,7 @@ A.D. 400, and we are now at 458.
 Z 2
 
 
-EXCL VE <FOr
+EXCL VE (FOr
 
 
 SAV it.
@@ -19443,7 +19391,7 @@ flesh is cut up small before it is served.
 Kori of Yamato. There is a village there called Mitobe, which means
 Imperial House Be. It probably was an appanage of the Empress.
 
-4 Scribes. > Palace attendants.
+4 Scribes. ) Palace attendants.
 
 
 YURIAKU. 34F
@@ -20203,7 +20151,7 @@ A.D. 465.
 PINE 20.
 
 
-> GING
+) GING
 
 
 ENE 2 Ss
@@ -20621,7 +20569,7 @@ But unawares he made a slip of the hand, and spoilt the edge
 
 _1 Tachibana moto means “ orange-stem, or orange-bottom,” and possibly
 is to be taken here in this sense, and not as the name of a place.
-> Here is the magician (world-wide) who can change himself into a beast,
+) Here is the magician (world-wide) who can change himself into a beast,
 but on being wounded or killed is obliged to assume his natural form.
 3 The plane was apparently unknown.
 
@@ -20918,7 +20866,7 @@ Their victuals became exhausted, and deep was hereupon the
 
 ' Great-axe-hand.
 
-> The village of Wina-Be, in Ise, with its inhabitants.
+) The village of Wina-Be, in Ise, with its inhabitants.
 
 3 In memory of the Emperor Anaho.
 
@@ -21377,7 +21325,7 @@ had no children, sent the Ohomuraji, Ohotomo no Muruya, to
 the provinces, and established the Be of Shiraga no Toneri,’
 the Be of Shiraga no Kashihade,* and the Be of Shiraga no
 Yugehi,’ in the hope of leaving a trace which might be seen of
-posterity. >
+posterity. )
 
 Winter, r1th month. For the purpose of the offerings of
 the feast of first-fruits, Wodate, of the Be of Kume of Iyo,
@@ -21577,7 +21525,7 @@ to turn his steps towards the district of Akashi in the province
 of Harima. There they both changed their names to Tamba
 
 
-? i.e. Emperor Woke’s father. > See above, p. 336.
+? i.e. Emperor Woke’s father. ) See above, p. 336.
 3 Woke is meant.
 
 
@@ -22274,7 +22222,7 @@ destroyed.”” The Emperor said, ‘‘It is well,’ and countermanded the wo
 
 1 Virtue is in Chinese active, not merely the negation of vice.
 
-> The “ Kojiki” tells a somewhat different story. Vide Ch. K., p. 336. This.
+) The “ Kojiki” tells a somewhat different story. Vide Ch. K., p. 336. This.
 misasagi (which I have visited) is at the present day a round single mound,
 encircled by a moat, but there are sufficient remains of the second mound
 and of the original moat to show that it was once a double-topped misasagi
@@ -23139,7 +23087,7 @@ is Otara.
 4 The traditional Kana has sema, for the Corean syém, island. Nirim
 means Lord.
 
-*> The “ Tongkam” (Vol. V. 4) account of these events is as follows :—
+*) The “ Tongkam” (Vol. V. 4) account of these events is as follows :—
 “Autumn, 8th month (A.D. 501). Pékché built the Castle of Karim (in
 Chollado), which was occupied by a garrison under a military officer named
 Chak Ka.
@@ -23177,7 +23125,7 @@ a son is raised up to honour.’ But we have no successor:
 wherewithal shall we hand down our name to posterity ?
 In accordance, therefore, with old Imperial precedents, we
 establish the Wohatsuse Toneri and make them assume the
-designation of this nEIen> so that it may not be forgotten
+designation of this nEIen) so that it may not be forgotten
 for ten thousand years.’
 
 Winter, roth month. The Land of Pékché sent Lord Mana

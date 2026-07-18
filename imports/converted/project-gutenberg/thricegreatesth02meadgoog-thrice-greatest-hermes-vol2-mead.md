@@ -1,31 +1,3 @@
-# Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)
-Thrice-Greatest Hermes
-
-
-Thrice-Greatest Hermes
-
-Studies in Hellenistic Theosophy
-and Gnosis
-
-Being a Translation of the Extant Sermons and
-
-Fragments of the Trismegistic Literature, with
-
-Prolegomena, Commentaries, and Notes
-
-
-By
-G. R. S. Mead
-
-
-Volume 11. — Sermons
-
-
-London and Benares
-
-The Theosophical Publishing Society
-
-
 Contents
 
 /. CORPUS HEBMETIGUM
@@ -981,7 +953,7 @@ born.
 
 If then thou learnest that thou art thyself of
 
-* There is a word-play between TrKdvrjs and Tr\av(i>fM€vos,
+* There is a word-play between TrKdvrjs and Tr\av(i)fM€vos,
 '^ Sc. Darkness. ^ 8c. The Moist Nature.
 
 
@@ -1268,7 +1240,7 @@ or apocalypse received by the founder of the tradition,
 2 rrjs yvwcrecas rrjs Kar ovaiav rjfi&v^ " our being," that is, presumably, the " being " of man and God, the ^' being " which man shares
 with God.
 
-3 Gf. G, H,y xiii. (xiv.) 20. -* ^ov<riap.
+3 Gf. G, H,y xiii. (xiv.) 20. -* ^ov(riap.
 
 
 PCEMANDRES, THE SHEPHERD OF MEN 21
@@ -2696,7 +2668,7 @@ forth every way. For He did teach me [how to understand and] scriptures worthy t
 direction, is no other than Hermes treated as a
 symbol of Christ. And so some of the arguments
 which may be directed against the Christian character
-of this inscription, and to which Harnack> attaches
+of this inscription, and to which Harnack) attaches
 an exaggerated weight, are turned aside."
 
 With all of this may be compared what we have
@@ -3500,7 +3472,7 @@ who were still living the married life.
 
 The scribe of the thirteenth century, Codex B.
 (Parisinus, 1220), has laconically written on the margin
-of this paragraph the single word " nonsense " {<p\vapla) ;
+of this paragraph the single word " nonsense " {(p\vapla) ;
 he was presumably a monk.
 
 
@@ -3931,7 +3903,7 @@ Stobgeus, Phys., I. ii. 30 ; G. i. 26 ; W. 38, 10 ff., under the heading " Of He
 
 '^ That is, the Body of God ; the One Element.
 
-> Of. G. H., V. (vi.) 2.
+) Of. G. H., V. (vi.) 2.
 
 i A critical text of most of these two paragraphs is given, R,
 214, n. 1.
@@ -4735,13 +4707,13 @@ to preserve it by using the somewhat clumsy term
 THOUGH UNMANIFEST GOD IS MOST MANIFEST 107
 
 from the following list of the original terms taken in
-the order of their occurrence: a(pave<Sy (pavepwrarov,
+the order of their occurrence: a(pave(Sy (pavepwrarov,
 €/j,^av€^, (patv6/ji€i/ov, ecfxlvrj, a(pavi9, ^av^vat, (pavepa,
 a(pav}]gy ^avepoop, (pavepovTaiy (pavTaarlaj ^avraarioop,
 (pavTacria, atpaPTaariacTog Kai a^avrjg, ^avracricovj (patveraij ^avtjuai^ These all occur in § 1 and the first two
 lines of § 2.
 
-I have translated (j>avTacrLa by '* thinking-manifest/'
+I have translated (j)avTacrLa by '* thinking-manifest/'
 seeing that it is the power by which an object is made
 apparent or manifest. The doctrine is the same as that
 of the Vedanta philosophy, the Maya of the Vedantavadins. Maya is generally translated *' illusion," but
@@ -5423,7 +5395,7 @@ and that doth make materiality eternal.
 
 ^ Sc, beneath the cosmos, world-order or universe.
 * The text here seems to me to be very faulty ; for iroi6vf void,
-I read C^*>^t Cvo" In such unintelligible phrases as avr^ rh woidy,
+I read C^*)^t Cvo" In such unintelligible phrases as avr^ rh woidy,
 
 
 But He, the Father, lull-filled with His ideas,
@@ -5978,7 +5950,7 @@ with Him. But meantime while this making, creating
 or becoming, or transformation, is going on, the imperfections cannot produce, that is, become creators in their
 turn ; they are unproductive {a(f)opa). That which is
 the instrument or organ of God's making is the Cosmic
-Course {<popd). We are finally (§7) told that the
+Course {(popd). We are finally (§7) told that the
 differences of bodies are conditioned by the speed of
 this Cosmic Course ; therefore the opposite poles, Other
 and Same, are both ultimately referable to Cosmos, the
@@ -5989,7 +5961,7 @@ The end to be achieved is to develop the ** sense-andthought " of the Cosmos, th
 
 but simple. This is the deliberate working with the
 Will of God, the Cosmic Will, the perpetual renewing
-of all things {avavG(jocn<s).
+of all things {avavG(jocn(s).
 
 The Cosmos, then, as the Logos of God, is the Good
 Gardener of Life ; it is both the place of Life and its
@@ -6336,7 +6308,7 @@ mentioned above.
 3 Namely the ever-becoming of genesis.
 
 * Or mental, in the sense of being of tlie same nature as the mind.
-•'' K^cfyaXiKws. <^' 111 which " tissue,"
+•'' K^cfyaXiKws. (^' 111 which " tissue,"
 
 ^ §§ 12, 13 are quoted by Stobeeus, Phys., I. xxxix. 9 (G. i. 307 ;
 W. 350, 13 ff.).
@@ -6654,7 +6626,7 @@ reproduce the original word-play in translation.
 
 ^ Stobaeus (Gaisford) here reads " A." — that is, Asclepius.
 
-^> Tov virrjperiKovj compare § 21, "the services of God" (r&s rod
+^) Tov virrjperiKovj compare § 21, "the services of God" (r&s rod
 06oO vtr-np^alas) ; that is to say, Hermes speaks of the Universal
 Mind and not of the mind in man.
 
@@ -7124,7 +7096,7 @@ the Cosmos and God.
 The Vehicles of the Soul
 
 13. The vehicles of man's " Soul " are then categorized
-{}J^vxh <5e avOpcoirov ox^iTat top Tpoirov tovtov), the
+{}J^vxh (5e avOpcoirov ox^iTat top Tpoirov tovtov), the
 Soul being here used in the sense of the Self, and as
 distinguished from the " soul " in the category. They are
 
@@ -7556,7 +7528,7 @@ Becoming.
 Cosmos.
 
 
-'> Sc.
+') Sc.
 
 
 Soul.
@@ -7938,7 +7910,7 @@ and most potent of them all.
 
 19. And, thus, think from thyself, and bid
 
-' KoX iv rats ypa<f>a7s axpc^petat. All the translators talk of
+' KoX iv rats ypa(f)a7s axpc^petat. All the translators talk of
 "margins" in MSS., and make entire nonsense of the passage.
 I can find absolutely no authority for translating aKpdcp^iai
 margins.
@@ -8129,7 +8101,7 @@ disciples of the School, as Zosimus tells us.
 Mystically, then, the main interest of our treatise
 centres in the doctrine of the At-one-ment (as the
 inner consummation of the Baptism in the Cup or
-Monad), to which the -<3Eon-idea is but a formal introduction ; historically, however, the introduction of the
+Monad), to which the -(3Eon-idea is but a formal introduction ; historically, however, the introduction of the
 iEon-idea presents itself as a critical problem, for the
 term is not found in the " Poemandres," and, therefore,
 presumably was not used in the earliest documents of
@@ -9337,7 +9309,7 @@ doctrine or being initiated into it.
 •'' B.'s reading would make this refer to Herme.s : " I know not
 from what womb thou com'st to birth," But the whole instruction seems to favour the usually accepted reading.
 
-^ tTo<j>U vo€pd. " Of. G. IL, X. (xi.) 5.
+^ tTo(j)U vo€pd. " Of. G. IL, X. (xi.) 5.
 
 
 me, which doth transcend the senses.^ The one
@@ -9796,7 +9768,7 @@ heavenly food.
 
 ^ The Word or Reason or true Man in man.
 
-** irviV(xaT0<p6pe Z'nfuovpy^.
+** irviV(xaT0(p6pe Z'nfuovpy^.
 
 
 20. [For] Thou art God; Thy Man^ thus
@@ -9995,7 +9967,7 @@ Tat was allowed to ask questions. This is further
 
 2 Or, c. Demos., 91, 20.
 
-^ Or., iv. 60 : '* (rr7(pos apxa^as (ro((>ias, ov Koiurjs ovSe iv fteV* kvKlvdoviJ.evr]S aXXk (XTraviov koI aTroOerov,
+^ Or., iv. 60 : '* (rr7(pos apxa^as (ro(()ias, ov Koiurjs ovSe iv fteV* kvKlvdoviJ.evr]S aXXk (XTraviov koI aTroOerov,
 
 
 symbolically described by a phrase, cttI rrjg rov opovg
@@ -10095,7 +10067,7 @@ The time has come for Tat to receive, through his
 master, the touch of the true Mind-consciousness, the
 Christ is to be born in his heart, the light of the Pleroma
 is to shine into his inmost being. It is to be a Kew
-Birth, a Eegeneration (ira\iyy€V€cn<s), or Ee-birth {avayevvw^?)> i^ ^^^ sense of being born from Above {avwOev).
+Birth, a Eegeneration (ira\iyy€V€cn(s), or Ee-birth {avayevvw^?)) i^ ^^^ sense of being born from Above {avwOev).
 
 Compare John iii. 3: "Amen, Amen, I say unto
 thee; Except a man be born from Above, he cannot
@@ -10646,7 +10618,7 @@ So also in the Bhej^herd of Hernias (Vis. iii. 8, 7), just
 as in our treatise, we are presented with the Vision of
 a Band of seven Women, each the mother of the next,
 seven Virtues, called : Faith, Continence, Simplicity,
-Freedom-from-malice, Seriousness, Gnosis (e7rtcrT?yM>?)?
+Freedom-from-malice, Seriousness, Gnosis (e7rtcrT?yM)?)?
 Love.
 
 And not only do we have the Seven, but also the
@@ -10963,7 +10935,7 @@ become a Knower of thyself, and of our Sire."
 Compare logos 2 of the latest found Sayings at
 Oxyrliynchus :
 
-* Compare yvwcns ayia, 0(»Tto-6f h atrh <tov (§ 18) ; <pcoTi(€ 0c6s (§ 19) ;
+* Compare yvwcns ayia, 0(»Tto-6f h atrh (tov (§ 18) ; (pcoTi(€ 0c6s (§ 19) ;
 irrKpdlfTKrTai fiov 6 vovs (§ 21).
 
 
@@ -11403,7 +11375,7 @@ But we do not use words ; but we use sounds
 full-filled with deeds.
 
 1 This presumably means from the hieroglyphic into the
-demotic — t^ irarp^c^ dia\€KT({> ipurjuevSfi^vos,
+demotic — t^ irarp^c^ dia\€KT({) ipurjuevSfi^vos,
 
 2 Lit. the mind. ^ q^^ perhaps, smartness.
 * Make jejune, so to say — i^ir-nKov iroi-ficrr}.
@@ -11655,7 +11627,7 @@ natures good, and bad, that is, in their activities
 ^ virh ras rSoi/ aa-repcau trXivdiSas. 7rKip6ls = ir\ij/6lop, and is used of
 any rectangular figure, and also of groups of stars as in Eratosth.
 apud Strab., II. i. 35 ; v. 36 (Lex. Sophocles) ; compare at ray
--KKivOCoiv vTroypa<paij the fields, or spaces, into which the Augurs
+-KKivOCoiv vTroypa(paij the fields, or spaces, into which the Augurs
 divided the heavens, templa^ or regiones coeli (Lex. Liddell and
 Scott).
 
@@ -11819,7 +11791,7 @@ some Byzantine scribe, who also foolishly interpolated
 
 But even to (xvi.) the title " Definitions of Asclepius "
 seems very inappropriate ; while, on the other hand, we
-find Lactantius (i>. /., ii. 5), in referring to the
+find Lactantius (i). /., ii. 5), in referring to the
 "incursions of daimones," claiming that it was a
 doctrine also of Hermes, and adding:
 
@@ -12335,7 +12307,7 @@ b de6s — God is Sj)irit.
 ''' The metaphor has become somewhat mixed by the introduction of Pheidias, who was a " musician ^' in marble and ivory
 and gold, and not on strings and pipes.
 
-* rrjs KpoiKTicos iroWdKis irphs rhv rduou €fnr€a'ov(r7}9<,
+* rrjs KpoiKTicos iroWdKis irphs rhv rduou €fnr€a'ov(r7}9(,
 
 
 THE ENCOMIUM OF KINGS 291
@@ -12567,10 +12539,10 @@ epignosis and gnosis^ and a parallel between the wisdom of God
 and the royal knowledge of the King.
 
 ^ €fs t6v^^ Thv Kbff^ov irap^x^^ """V a,7rayye\iav els diao'coo'TiK'^i/
-ev(f>'rj}ji.iau, — where it may be possible to connect aTrayy^Kia with
+ev(f)'rj}ji.iau, — where it may be possible to connect aTrayy^Kia with
 the familiar evayyeXiov.
 
-'^ iKeiare, '^ rh aKKorrp6<ra\\ov.
+'^ iKeiare, '^ rh aKKorrp6(ra\\ov.
 
 ^ trpSyvoocTLS.
 
@@ -12699,7 +12671,7 @@ of the vaguest.
 Eeitzenstein, however, is of opinion (pp. 207, 208)
 that the indications in § 16 best suit the reign of
 
-1 See § 15 — 7) Trphs robs Baffixias ev<firifjLla — and compare note to
+1 See § 15 — 7) Trphs robs Baffixias ev(firifjLla — and compare note to
 Clem. Alex., iii., in "Fragments from the Fathers."
 
 
@@ -12768,7 +12740,7 @@ Clement takes it as a text for a naturalistic explanation
 of Hellenic miracle. No literary dependence, however,
 of one or the other can be entertained, for the similarity
 of the " Trji/ v€vpav aveTrXripwcrev avrcp " of our text and
-the " o (pSo<s Trjv XeiTTOvcrav aveirXripeocre \opSrjv " of
+the " o (pSo(s Trjv XeiTTOvcrav aveirXripeocre \opSrjv " of
 Clement is far too slight a link to bear the weight
 of any argument of this nature.^
 
@@ -14890,7 +14862,7 @@ And for this cause God doth transcend the
 height of highest Heaven, extending everywhere,
 and doth behold all things on every side.
 
-1 This seems b> formal contradiction of G. H., x. (xi.) 10, but is
+1 This seems b) formal contradiction of G. H., x. (xi.) 10, but is
 not really so.
 
 2 Meaning higher sense, presumably ; reading senst(,s for sensibus.

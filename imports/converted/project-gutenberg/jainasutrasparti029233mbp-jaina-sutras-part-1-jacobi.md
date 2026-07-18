@@ -1,350 +1,3 @@
-# Jaina Sutras, Part I: The Akaranga Sutra and the Kalpa Sutra (Sacred Books of the East, Vol. 22)
-THE
-
-SACRED BOOKS OF THE EAST
-
-
-TRANSLATED
-
-By VARIOUS ORIENTAL SCHOLARS
-
-
-AND EDITED BY
-
-F. MAX MULLER
-
-
-VOL. xxu
-
-
-SACRED BOOKS OF THE EAST SERIES
-
-IN 50 VOLUMES
-
-
-VOLS
-
-
-1, 15. THE UPANISADS : in 2 vols. : F. Max Muller.
-
-2, 14. THE SACRED LAWS OF THE ARYAS : in 2 vols. : Georg Buhler.
-
-3, 16, 27, 28, 39, 40. THE SACRED BOOKS OF CHINA : in 6 vols. :
-
-Jarnes Legge.
-
-4, 23, 31. THE ZEND-AVESTA : in 3 vols. : James Darmesteter &
-
-L.H. Mills.
-
-5, 1 8, 24, 37, 47. PAHLAVI TEXTS : in 5 vols. : E.W. West.
-
-6, 9. THE QUR'AN : in 2 vols. : E.ll. Palmer.
-
-7, THE INSTITUTES OF VI$NU : Julius Jolly.
-
-8, THE BHAGAVADGlfA with the Sanatsujatiya and the Anugita:
-
-Ka^hmath Tiimbak TeLing.
-
-10. THE DHAMMAPADA : F. Max Muller; SUTTA-NIPATA : V.
-
-Faubboll.
-
-11. BUDDHIST SUTTAS : T.W.Rhys Davids.
-
-12, 26, 4 r, 43, 44. THE SATAPA THA-BRAHMANA : in 5 voh. : Julius
-
-Eggeling.
-13, 17, 20. VINAYA TEXTS : in 3 vols. : T.W. Rhys Davids & Hermann
-
-Oldenbcrg.
-19. THE FO-SHO-HING-TSAN-KING : Samuel Beal.
-
-21. THE SADDHARMA-PUNDARlKA or The Lotus of the True Law;
-
-H. Kern.
-
-22, 45. JAINA SOTRAS : in 2 vols. : Hermann Jacobi.
-25. MANU : Georg Buhler.
-
-29, 30. THE GRIHYA-SOTRAS : in 2 vols. : Hermann Oldenberg &
-F. Max Muller.
-
-32, 46. VEDIC HYMNS : in 2 vols. : F. Max Muller & H. Oldenberg.
-
-33, THE MINOR LAW-BOOKS : Julius Jolly.
-
-34, 38. THE VEDANTA-SOTRAS : in 2 vols. : with Saftkaracarya's
-
-Commentary : G. Thibaut.
-
-35, 36. THE QUESTIONS OF KING MILINDA : in 2 vols. : T.W.
-
-Rhys Davids.
-
-42. HYMNS OF THE ATHARVA-VEDA : M. Bloomfield.
-
-48. THE VEDANTA-S0TRAS with Ramanuja's Sribhaya : G. Thibaut.
-
-49. BUDDHIST MAHAYANA TEXTS : E.B. Cowell, F. Max Muller
-
-& J. Takakusu.
-
-50. INDEX : M. Winternitz,
-
-
-JAINA SUTRAS
-
-
-TRANSLATED FROM PRAKRIT
-BY
-
-HERMANN JACOBl
-
-
-Part I
-
-THE AtfARANGA SUTRA
-THE KALl'A SUTRA
-
-
-MOTILAL BANARSIDASS
-DELHI :: VARANASI :: PATNA
-
-
-MOTILAL BANARSIDASS
-
-Bungalow Road, Jawahar Nagar, DeIhi-6
-Nepali Khapra, Varanasi U. P.
-Bankipur, Patna (Bihar)
-
-
-UNESCO COLLECTION OF REPRESENTATIVE WORKS INDIAN SERIES
-
-This book has been accepted in the Indian Translation Series
-of the UNESCO collection of Representative Works, jointly
-sponsored by the United Nations Educational, Scientific and
-Cultural Organization (UNESCO), and the Government of India.
-
-
-First published by the Oxford University Press, 1884
-Reprinted by Motilal Bariarsidass, 1964
-
-
-PRINTED IN INDIA BY SHANTILAL JAIN, SHRI JAINENDRA PRESS,
-BUNGALOW ROAD, DBLHI-6 AND PUBLISHED BY SUNDARLAL JAIN,
-MOTILAL BANARSIDASS, BUNGALOW ROAD, JAWAHARNAGAR, DELHI-6
-
-
-RASHTRAPATI BHAVAN,
-NEW DELHi-4
-June 10, 1962
-
-
-I am very glad to know that the Sacred
-Books of the East, published years ago by
-the Clarendon Press ; Oxford, which have
-been out-of-print for a number of years,
-will now be available to all students of
-religion and philosophy. The enterprise
-of the publishers is commendable and I
-hope the books will be widely read.
-
-S. RADHAKRISHNAN
-
-
-PREFATORY NOTE TO THE NEW EDITION
-
-
-Since 1948 the United Nations Educational, Scientific
-and Cultural Organization (UNESCO), upon the recommendation of the General Assembly of the United Nations,
-has been concerned with facilitating the translation of the
-works most representative of the culture of certain of its
-Member States, and, in particular, those of Asia.
-
-One of the major difficulties confionting this programme
-is the lack of translators having both the qualifications and
-the time to undertake translations of the many outstanding
-books meiiting publication. To help overcome this difficulty
-in part, UNESCO's adviseis in this field (a panel of experts
-convened every other year by the International Council for
-Philosophy and Humanistic Studies), have recommended that
-many worthwhile translations published during the 19th century,
-and now impossible to find except in a limited number of
-libraries, should be brought back into print in low-priced
-editions, for the use of students and of the general public. The
-experts also pointed out that in certain cases, even though
-there might be in existence more recent and more accurate
-translations endowed with a more modern apparatus of scholarship, a number of pioneer works of the greatest value and
-interest to students of Eastern religions also merited republication.
-
-This point of view was warmly endorsed by the Indian
-National Academy of Letters (Sahitya Akademi), and the
-Indian National Commission for Unesco.
-
-It is in the spirit of these recommendations that this
-work from the famous series "Sacred Books of the East' 3 is
-now once again being made available to the general public
-as part of the UNESCO Collection of Representative Works.
-
-
-PUBLISHER'S NOTE
-
-First, the man distinguished between eternal and perishable. Later he discovered within himself the germ of the
-Eternal. This discovery was an epoch in the history of the
-human mind and the East was the first to discover it.
-
-To watch in the Sacred Books of the East the dawn of
-this religious consciousness of man, must always remain one
-of the most inspiring and hallowing sights in the whole history
-of the world. In order to have a solid foundation for a comparative study of the Religions of the East, we must have before
-all things, complete and thoroughly faithful translation of their
-Sacred Books in which some of the ancient sayings were preserved because they were so true and so striking that they
-could not be forgotten. They contained eternal truths, expressed for the first time in human language.
-
-With profoundest reverence for Dr. S. Radhakrishnan,
-President of India, who inspired us for the task; our deep
-sense of gratitude for Dr. C. D. Deshmukh & Dr. D. S.
-Kothari, for encouraging assistance; esteemed appreciation of
-UNESCO for the warm endorsement of the cause; and finally
-with indebtedness to Dr. H. Rau, Director, Max Muller
-Bhawan, New Delhi, in procuring us the texts of the Series
-for reprint, we humbly conclude.
-
-
-CONTENTS.
-
-
-INTRODUCTION .
-
-
-PAf.R
-
-IX
-
-
-SJTRA.
-
-
-FIRST BOOK.
-
-LECTURE 1. Knowledge of the Weapon .
-
-2. Conquest of the World
-
-3. Hot and Cold ...
-
-4. Righteousness ...
-
-5. Essence of the World .
-
-6. Cleaning
-
-7. Liberation ....
-
-8. The Pillow of Righteousness
-
-
-i
-
-
-SECOND BOOK.
-FIRST PART.
-
-LECTURE 1. Begging of Food
-
-2. Begging for a Couch
-
-3. Walking .
-
-4. Modes of Speech
-
-5. Begging of Clothes .
-
-6. Begging for a Bowl .
-
-7. Regulation of Possession .
-
-
-SECOND PART.
-
-
-LECTURE 8.
-
-9.
-
-10.
-
-11.
-
-12.
-
-13.
-
-H.
-
-
-1 20
-
-i 3 6
-
-
-i/9
-
-i So
-
-1 86
-1 88
-
-
-Vlll CONTENTS.
-
-
-THIRD PART.
-
-PACK
-
-LECTURE 15. The Clauses . . . . . .189
-
-FOURTH^ PART.
-LECTURE 16. The Liberation . . .211
-
-KAIJPA SOTRA.
-
-LlVES OF $Ji (TINAS . . . 217-285
-
-Life of Mahdvira .... . 217-270
-
-Lecture 1. : . . . . . .217
-
-,,2 218
-
-,,3 229
-
-,,4 . 238
-
-,,5 251
-
-Life of PSrjva ....... 271-275
-
-Life of Arish/anemi ...... 276-279
-
-Epochs of the intermediate Tirthakaras . . .280
-^ife of -ffishabha 281-385
-
-LIST OF THE STHAVIRAS ...... 286-395
-
-RULES FOR YATIS 296-^11
-
-INDEX , .
-
-
-Transliteration of Oriental Alphabets adopted for the
-
-Translations of the Sacred Books of the East 321-324
-
-
 INTRODUCTION.
 
 
@@ -366,7 +19,7 @@ source of their history. If they were full of contradictory
 statements, or the dates contained in them would lead to
 contradictory conclusions, we should be justified in viewing
 all theories based on such materials with suspicion. But
-the character of the <9aina literature differs little in this
+the character of the (9aina literature differs little in this
 respect also from the Buddhistical, at least from that of
 the northern Buddhists. How is it then that so many
 writers are inclined to accord a different age and origin
@@ -395,17 +48,17 @@ sect some centuries after the pretended age of their
 assumed founder.
 
 The Gainas, both ^SVetAmbaras and Digambaras, state
-that Mahavira was the son of king Siddhartha of Ku;/</apura or Ku;^agrama. They would have us believe that
+that Mahavira was the son of king Siddhartha of Ku;/(/apura or Ku;^agrama. They would have us believe that
 Ku;/*/agrama was a large town, and Siddhartha a powerful
 monarch. But they have misrepresented the matter in
 overrating the real state of things, just as the Buddhists
 did with regard to Kapilavastu and Suddhodana. For
-Ku//</agrdma is called in the A&rnga Sfttra a sa;//nivesa,
+Ku//(/agrdma is called in the A&rnga Sfttra a sa;//nivesa,
 a term which the commentator interprets as denoting a
 halting-place of caravans or processions. It must therefore
 have been an insignificant place, of which tradition has
 only recorded that it lay in Videha (A^aranga Stitra II,
-J 5> I 7) Yet by combining occasional hints in the Bauddha and Gaina scriptures we can, with sufficient accuracy,
+J 5) I 7) Yet by combining occasional hints in the Bauddha and Gaina scriptures we can, with sufficient accuracy,
 point out where the birthplace of Mahavira was situated ;
 for in the Mahavagga of the Buddhists 1 we read that
 Buddha, while sojourning at Ko/iggama, was visited by
@@ -428,11 +81,11 @@ Ambapali possessed a park, Ambapalivana, which she
 bequeathed on Buddha and the community. From there
 he went to Vesali, where he converted the general-in-chief
 (of the Li/Wy/avis), a lay-disciple of the Nirgranthas (or
-<7aina monks). Now it is highly probable that the Ko/iggama of the Buddhists is identical with the Ku/^aggama
+(7aina monks). Now it is highly probable that the Ko/iggama of the Buddhists is identical with the Ku/^aggama
 of the G*ainas. Apart from the similarity of the names,
 the mentioning of the -/Vatikas, apparently identical with the
 Cr/Idt/'/ka Kshatriyas to whose clan Mahavira belonged, and
-of Siha, the aina, point to the same direction. Ku;/</agrama, therefore, was probably one of the suburbs of VaLr41i,
+of Siha, the aina, point to the same direction. Ku;/(/agrama, therefore, was probably one of the suburbs of VaLr41i,
 the capital of Videha. This conjecture is borne out by the
 name Vesalic, i. c. VauAlika given to Mahavira in the S&trakr/tanga I, 3 1 . The commentator explains the passage in
 question in two different ways, and at another place a third
@@ -442,10 +95,10 @@ Vaualika, and so we are justified in entirely ignoring the artificial explanatio
 means a native of Vai^ali : and Mahavira could rightly
 be called that when Ku;/^agrama_was^a suburb of Vaij^lt,
 just as a native of Turnham Green may be called a
-Londoner. If then Ku;/</agrdma was scarcely more than
+Londoner. If then Ku;/(/agrdma was scarcely more than
 an outlying village ofVai^ali, it is evident that the sovereign
 of that village could at best have been only a petty chief.
-Indeed, though the <7ainas fondly imagine SiddhArtha to
+Indeed, though the (7ainas fondly imagine SiddhArtha to
 have been a powerful monarch and depict his royal state
 in glowing, but typical colours, yet their statements, if
 stripped of all rhetorical ornaments, bring out the fact
@@ -485,7 +138,7 @@ Buddhist works do not mention, for aught I know,
 /Te/laka, king of Vawali ; but they tell us that the government
 of Vesali was vested in a senate composed of the nobility
 and presided over by a king, who shared the power with a
-viceroy and a general-in-chief 3 . In <7aina books we still
+viceroy and a general-in-chief 3 . In (7aina books we still
 have traces of this curious government of the
 for in the Nirayavali Sutri 4 it is related that king
 whom Ktmika, al. A^ta^atiu, king of TTampA, prepared to
@@ -519,7 +172,7 @@ was not very great, and, besides, was used in the interest of
 their rivals. But the Gainas cherished the memory of the
 maternal uncle and patron of their prophet, to whose
 influence we must attribute the fact, that VaLr&li used to
-be a stronghold of <7ainism, while being looked upon by
+be a stronghold of (7ainism, while being looked upon by
 the Buddhists as a seminary of heresies and dissent.
 
 We have traced the connection of Mah&vira's family not
@@ -705,7 +358,7 @@ Alabhikfc, lay within the limits of the three kingdoms mentioned in the text.
 INTRODUCTION. XVI I
 
 
-the <9aina creed. Lastly, the Buddhists are correct in
+the (9aina creed. Lastly, the Buddhists are correct in
 assuming the town P&p as the scene of Nataputta's
 death.
 
@@ -754,7 +407,7 @@ penances 1 , and persevered in some of them even after
 becoming a Tirthakara. Amongst Buddha's opponents
 Go^clla Makkhaliputra is by no means so prominent as
 amongst Mahclvira's, nor among the former do we meet
-G"am<ili, j^ho^ca^sed-J^ the gaina church.
+G"am(ili, j^ho^ca^sed-J^ the gaina church.
 
 All the disciples of Buddha bear other names than those
 of Mahclvira. To finish this enumeration of differences,
@@ -907,7 +560,7 @@ and temples for his followers to worship them, but rather
 much that is inconsistent with this kind of adoration,
 while the Gaums commit no inconsistency 1n worshipping
 Mahvira in his apotheosis. But I believe that this worship
-had nothing to do with original Buddhism or <7ainism, that
+had nothing to do with original Buddhism or (7ainism, that
 it did not originate with the monks, but with the lay community, when the people in general felt the want of a higher
 cult than that of their rude deities and demons, and when
 the religious development of India found in the Bhakti the
@@ -1029,7 +682,7 @@ that it would seem hard to avoid the conclusion that one sect
 borrowed their precepts from the other. Yet the question
 whether the Buddhists or the Gainas were the borrowers,
 would still remain an open one. It can be shown, however, that neither the Buddhists nor the gainas have in this
-regard anjrjjain t<^ originality, but that both have only
+regard anjrjjain t(^ originality, but that both have only
 adoptedjhejfivg vows ofthc^lftrahmajlic ascetics (sa/wny^-
 sin). The latter must keep the following five vows 2 :
 
@@ -1077,7 +730,7 @@ It is worth remarking that the fifth great vow or precept
 is peculiar to each of the three religious systems, probably
 because the Brahmanic fifth vow, viz. liberality, could not
 be enjoined on mendicants such as the monks of the
-Buddhists and <9ainas were. The Gainas previous to
+Buddhists and (9ainas were. The Gainas previous to
 Mahavira's time had only four great vows, since the fourth
 was included in the fifth. But Mahavira brought the
 number of the vows again up to five, a number which seems
@@ -1268,13 +921,13 @@ shall not injure created beings 3 / This is only an amplification of the first g
 purification/ c He shall perform the necessary purifications
 with water which has been taken out (of a well or a tank)
 and has been strained 5 / These rules are strictly observed
-by the <7aina monks. They also carry a cloth for straining
+by the (7aina monks. They also carry a cloth for straining
 water. The commentator Govinda explains pavitra, ' a cloth
 for straining water/ by * a bunch of Ky^a grass for removing
 insects from the road 6 / If Govinda be right, and had the
 authority of a really old tradition, which I do not doubt,
 we have here the Brahmanic counterpart of the broom
-(rax>hara#a or pctdapro#^ana) with which the <9aina monks
+(rax)hara#a or pctdapro#^ana) with which the (9aina monks
 sweep the road and the place where they walk or sit down,
 for removing insects.
 
@@ -1470,7 +1123,7 @@ non-Brahmanic ascetics, were most likely to make this step,
 is easy to imagine. We see thus that the germs of dissenting sects like those of the Buddhists and the 6ainas were
 contained in the institute of the fourth A^rama, and that
 the latter was the model of the heretical sects ; therefore
-Buddhism and gainism must be regarded as religionsjieveloped nuf c)f Rr4^mariisin notj>y a sudden reformation,
+Buddhism and gainism must be regarded as religionsjieveloped nuf c)f Rr4^mariisin notj)y a sudden reformation,
 but prepare T 4 by religious movement goinp^cmfor a long
 time.
 
@@ -1485,7 +1138,7 @@ INTRODUCTION. XXXIU
 We have seen that neither the aina legends about their
 last prophet, nor the ascetic life ordained for aina monks,
 nor any other religious practices adhered to by the faithful.
-warrant our assuming that the <9aina sect has developed,
+warrant our assuming that the (9aina sect has developed,
 in one way or other, out of the Buddhistical church. It
 remains for me to show that the difference of both creeds
 as regards the principal tenets is such as not to admit a
@@ -1497,7 +1150,7 @@ can conceive, it is beyond doubt, and a striking feature of
 Buddha's philosophy, that he combated the Brahmanic
 theory of the Atman, as being the absolute and permanent
 soul, according to the pantheist as well as the monadic
-point of view. But the <7ainas fully concur in the Brahmanic
+point of view. But the (7ainas fully concur in the Brahmanic
 theory of the Atman, with only this difference, that they ascribe to the Atmans a limited space, while the Brahmans of
 the Sankhya, Ny iya, and Vai^eshika schools contend that the
 Atmans are co-extensive with the universe. On the other
@@ -1580,12 +1233,12 @@ the Gainas originally invented the theory of the succession of prophets, matters
 result to which the previous discussion has led us, viz* (i)
 that Gainism had an origin independent from Buddhism,
 that it had a development of its own, and did not largely
-borrow from the rival sect; (2) that both <7ainism and
+borrow from the rival sect; (2) that both (7ainism and
 Buddhism owed to the Brahmans, especially the Sawny4-
 sins, the groundwork of their philosophy, ethics, and
 cosmogony.
 
-Our discussion has as yet been conducted on the supposition that the tradition of the <7ainas as contained in their
+Our discussion has as yet been conducted on the supposition that the tradition of the (7ainas as contained in their
 sacred books may on the whole be credited. But the intrinsic value of this tradition has been called into question by a
 scholar of wide views and cautious judgment. Mr. Barth, in
 the Revue de THistoire des Religions, vol. iii, p. 90, admits
@@ -2037,7 +1690,7 @@ tradition, as it does not agree with the dogma of the Ahgas, being taught alread
 by the first Ttilhakara. See Weber, Indische Sludien, XVI, p. 353.
 
 
-xlvi <?AINA SUTRAS.
+xlvi (?AINA SUTRAS.
 
 
 community must have made itself felt, and it led, in my
@@ -2323,7 +1976,7 @@ become forgotten. It was a different thing with the List
 of Sthaviras, which consists of four or five distinct treatises
 only put together and added to the Lives of the Ginas by the
 editor of the work. We cannot argue from the style of the
-Lives of the <9inas that that part rtiust be younger than
+Lives of the (9inas that that part rtiust be younger than
 the Rules for Yatis ; for the same difference of style occasioned by the diversity of the matter exists between the
 third Ktilz. of the A/fcdranga Stitra and the two preceding
 ones. Nor can the meagreness of the contents be adduced
@@ -2384,11 +2037,11 @@ AATARANGA S0TRA.
 FIRST BOOK 1 .
 FIRST LECTURE 2 ,
 
-KNOWLEDGE OF THE < WEAPON.
+KNOWLEDGE OF THE ( WEAPON.
 
 FIRST LESSON 3 .
 
-long-lived (<9ambftsvdmin 4 ) ! I (Sudharman)
+long-lived ((9ambftsvdmin 4 ) ! I (Sudharman)
 have heard the following discourse from the venerable (Mahdvtra) : (i)
 
 Here many do not remember whether they have
@@ -2811,7 +2464,7 @@ taught the truth : for the sake of the splendour,
 
 honour, and glory of this life, for the sake of birth,
 death, and final liberation, for the removal of pain,
-man acts sinfully towards animals, <jr causes others
+man acts sinfully towards animals, (jr causes others
 to act so, or allows others to act so. This deprives him of happiness and perfect wisdom. About
 this he is informed, when he has understood, or
 heard from the Revered One or from the monks,
@@ -3101,8 +2754,8 @@ is dear 4 . (4)
 Having acquired it (i.e. wealth), employing bipeds
 and quadrupeds, gathering riches in the three ways 5 ,
 
-1 Hereafter va</abhatta#t explained by vinirgatapr/thivt
-va</abha-laksha*a#z.
+1 Hereafter va(/abhatta#t explained by vinirgatapr/thivt
+va(/abha-laksha*a#z.
 
 * Sa#/pu#fta;ft=:sampftr?ia#i, lit. complete, i.e. the complete
 end of human existence is enjoyment of the world.
@@ -3203,7 +2856,7 @@ pleasure and pain are the result of their own works, c.
 9 The commentators give no explanation of what is meant by
 ' the three ways/ yet cf. 3, 5.
 
-3 The words asaw a >Ma/vda/ a vigi/;/a dhire form a trish/ubh
+3 The words asaw a )Ma/vda/ a vigi/;/a dhire form a trish/ubh
 pada.
 
 
@@ -3682,7 +3335,7 @@ a dweller far (from sin), him he should know as a
 dweller on high. Man! restraining thyself (from
 the outward world) ' thou wilt get free from pain/
 Man, understand well the truth ! exerting himself in
-the rule of truth a wise man overcomes M<ira. (4)
+the rule of truth a wise man overcomes M(ira. (4)
 
 1 The gifted man 2 , following the law, sees well his
 true interest/ In a twofold way 3 , for the sake of
@@ -3700,7 +3353,7 @@ the Seer who does not injure living beings and has
 put an end (to acts and to sawsAra). Preventing
 
 1 There is apparently a pun in the text : u&laiya#i is explained
-by u>Walayitaram = remover (of sins), but as contrasted with dftrfilaiya it has the meaning we have adopted above.
+by u)Walayitaram = remover (of sins), but as contrasted with dftrfilaiya it has the meaning we have adopted above.
 
 8 With knowledge, &c.
 
@@ -3783,7 +3436,7 @@ among the faithful and the not faithful, among the
 not cruel and the cruel, among those who have
 worldly weakness and those who have not, among
 those who like social bonds and those who do not :
->* that is the truth, that is so, that is proclaimed in
+)* that is the truth, that is so, that is proclaimed in
 this (creed)/ (2)
 
 Having adopted (the law), one should not hide it,
@@ -3861,7 +3514,7 @@ driven away. Know about this : there is no wrong
 in it. That is a doctrine of the unworthy. (4) But
 we say thus, speak thus, declare thus, explain thus :
 
-1 The passage in brackets is introduced by the words p&Mantaram v&, * various reading/ It occurs in <all MSS. I have consulted,
+1 The passage in brackets is introduced by the words p&Mantaram v&, * various reading/ It occurs in (all MSS. I have consulted,
 and is commented upon by the commentaries as belonging to the
 text
 
@@ -3872,7 +3525,7 @@ doctrine of ahi/wsL
 
 All sorts of living beings should not be slain, nor
 treated with violence, nor abused, nor tormented,
-nor driven away. Knt>w about this, there is no
+nor driven away. Knt)w about this, there is no
 wrong in it. This is the doctrine of the teachers. (5)
 
 First the persuasion of every one should be
@@ -4101,7 +3754,7 @@ conduct.
 
 is no such danger). Knowing that that which is well
 understood is well practised, man ! with thy eyes on
-the highest go>d, be victorious (in control). Among
+the highest go)d, be victorious (in control). Among
 such men only is real Brahmanhood. Thus I say. (4)
 I have heard this, and it is in my innermost heart ;
 and the freedom from bonds is in your innermost
@@ -4197,7 +3850,7 @@ go (on one's business). (2)
 his age.
 
 a The result will be that he thinks himself above the admonition
-of the spiritual head (&drya) of the chapter (ga>Wa), and leaves
+of the spiritual head (&drya) of the chapter (ga)Wa), and leaves
 the chapter, living as a gaAWanirgata.
 
 8 The monk must closely inspect everything with which he
@@ -4271,7 +3924,7 @@ him untrue, whether it be true or untrue. But he
 
 1 Like unto it is a teacher who is full of wisdom, who lives in
 a quiet country, is free from passion, and protects living beings.
-a Samdhi> the means of a religious death.
+a Samdhi) the means of a religious death.
 3 Any article of the &aina faith.
 
 [22] E
@@ -4821,7 +4474,7 @@ one and the same thing.
 
 2 In all other religious sects.
 
-8 <?dma = ydma. These are, (i) to kill no living being, (2) to
+8 (?dma = ydma. These are, (i) to kill no living being, (2) to
 speak no untruth, (3) to abstain from forbidden things (theft and
 sexual pleasures). Or the three ages of man are intended by
 , which we have rendered vows.
@@ -4976,7 +4629,7 @@ to injure ; see lecture 2, lesson 4.
 8 The three robes allowed to a Gkina monk are two linen under
 garments (kshaumikakalpa) and one woollen upper garment (auntikakalpa). Besides these (kalpatraya), the monk possesses, 2. an
 alms-bowl (p&tra) with six things belonging to it, 3. a L room (ra^oharaaa), 4. a veil for the mouth (mukhavastrikd). The almsbowl and the articles belonging to it are specialised in the following gdthd: pattam pattdbamdho p&ya//Aavaa*w a piyakesariyfi I
-pa<l& rayatt&iaa* *a goao piyan^ogo 11
+pa(l& rayatt&iaa* *a goao piyan^ogo 11
 
 F 2
 
@@ -5166,7 +4819,7 @@ itvara 8 . (4)
 1 There is no finite verb in this sentence, nor any word
 which could supply its place. The old Gaina authors were so
 accustomed to surround their meaning with exclusions and exceptions, and to fortify it with a maze of parentheses, that they sometimes apparently forgot to express the verb, especially when they
-made use of fragments of old verses, as in the present <^ase.
+made use of fragments of old verses, as in the present (^ase.
 
 2 This is one of the most frequent gamas or identical passages
 which form a rather questionable ornament of the Sfttra style. The
@@ -5273,7 +4926,7 @@ mental), the wise ones, having thoroughly learned
 the law, perceiving in due order (that the time for
 their death has come), get rid of karman. (2)
 
-Subduing the passions and living on little food 1 >
+Subduing the passions and living on little food 1 )
 he should endure (hardships). If a mendicant falls ,
 sick, let him again take food. (3)
 
@@ -5549,7 +5202,7 @@ his body. (19)
 
 8 Present and future. 4 I. e. religious life.
 
-6 Ahdka</am : yathS, yena prak&rea pr;"sh/va apr/sh/vA va
+6 Ahdka(/am : yathS, yena prak&rea pr;"sh/va apr/sh/vA va
 yathakr/'tam adhakarm^dina.
 
 
@@ -5677,7 +5330,7 @@ by the dogs. It is difficult to travel in Li^a. (6)
 may be identical with the classical TSi&dASi or western Bengal
 and the LSla of the Buddhists, the native country of Vi^aya, the
 legendary conqueror of Ceylon. Subbhabhfimi is probably the
-country of the Suhmas, who are also identified with the Ra<2%as.
+country of the Suhmas, who are also identified with the Ra(2%as.
 
 1 The commentator seems to understand the words lukkhadesie
 bhdtte in the sense : There the living also was rough ; for they
@@ -5840,7 +5493,7 @@ spot, a garden, or a monk's hall where there are no
 
 
 8 This is the typical beginning of most precepts or sfitras in this
-se bhikkhd vd bhikkhufti v& gdhavaikula/B pi#2d?avayapa</iy3e
+se bhikkhd vd bhikkhufti v& gdhavaikula/B pi#2d?avayapa(/iy3e
 a#upavi//Ae sam#e se gg%m pu/ra g&negg. In the sequel I have
 shortened this rather lengthy preamble.
 
@@ -5857,7 +5510,7 @@ during famine and sickness.
 
 BOOK II, LECTURE I, LESSON I. 89
 
-e gg s > n r living beings, nor sprouts, nor dew, nor
+e gg s ) n r living beings, nor sprouts, nor dew, nor
 water, nor ants, nor mildew, nor drops (of water), nor
 mud, nor cobwebs and rejecting (that which is
 affected by), and cleaning that which is mixed up
@@ -5931,7 +5584,7 @@ of, is impure and unacceptable.
 
 1 These are the viMrabhfimi and vih&rabhflmi.
 
-a Purisa*0taraka</a. I have rendered this word according to
+a Purisa*0taraka(/a. I have rendered this word according to
 the interpretation of the commentators ; but in a similar passage,
 8, 3, 2 and 3, they understand the word to mean appropriated
 by another person.
@@ -6011,7 +5664,7 @@ various festivals many 6ramaas and Brdhma#as,
 BOOK II, LECTURE I, LESSON 2. 93
 
 guests, paupers, and beggars are entertained with
-food, &c. (all as in> i, down to) acceptable. (3)
+food, &c. (all as in) i, down to) acceptable. (3)
 
 But when he perceives that all have received their
 due share, and are enjoying their meal, he should
@@ -6045,7 +5698,7 @@ him on such an occasion, he will incur the sin of one
 1 Puvvdm eva dloe^a, he should first look at him or her
 (and then say).
 
-2 Sa*kha</i, somewhere explained odanapdka, cooking of
+2 Sa*kha(/i, somewhere explained odanapdka, cooking of
 rice ; in the commentary the following etymology is given : sa/nkham/yante virddhyante pramno yatra s& sa/wkharfi. But the Guzerati
 commentator explains it : gihbm gha& gan nimitti dhira kelviva
 bha*.
@@ -6456,7 +6109,7 @@ treated thus ; for it is impure and unacceptable. (4)
 
 It is also to be known that food, &c is impure
 
-1 Siodagaviga</a, usiwodagavigarfa. Vigarfa, Sanskrit vika/a*
+1 Siodagaviga(/a, usiwodagavigarfa. Vigarfa, Sanskrit vika/a*
 is explained apkdya. It is therefore cold or hot water which i
 to be considered as containing life.
 
@@ -6580,7 +6233,7 @@ that a layman might, for the sake of the mendicant,
 
 
 1 The original has bho malohadaw ti na^a. Bhomaloharfais
-explained adhomalahr/'tam. M3,loha</a, which I translate
+explained adhomalahr/'tam. M3,loha(/a, which I translate
 ' fetched from above/ is the technical term for things affected by
 the dosha under question.
 
@@ -6917,7 +6570,7 @@ bones ?' Hearing such a communication, he should
 1 They are detailed in the original : a#*taruAuya;#, a piece
 between two knots; uA&AugzmdiyQim, a piece containing a knot;
 u**Au*oyagam (?), uAumeragajw, top of a stalk;
-laa#i, long leaf; uAu</&lagaflf, fragment of a leaf.
+laa#i, long leaf; uAu(/&lagaflf, fragment of a leaf.
 
 
 BOOK II, LECTURE I, LESSON IO. 1 15
@@ -7045,7 +6698,7 @@ Now follows the fourth rule for begging food. A
 1 Sa*wsa/Ma ; it would perhaps be more correct to translate this
 word, soiled with the food in question.
 
-9 These are the pa</iggahadh&rf and the pfiwiparfiggahiya,
+9 These are the pa(/iggahadh&rf and the pfiwiparfiggahiya,
 lit. one who uses his hand instead of an alms-bowl.
 
 
@@ -7839,7 +7492,7 @@ Mle///*as, non-Aryan people 2 , half-civilised people,
 1 He should in that case stay in the same place for the whole
 month M6rgajirsha, where he was during the rainy season.
 
-1 According to the commentary mle>Ma (milakkhu) means
+1 According to the commentary mle)Ma (milakkhu) means
 
 
 unconverted people, people who rise or eat at an
@@ -7954,7 +7607,7 @@ over, they should not approach the boatman and say:
 ' O long-lived householder ! water enters through a
 leak into the boat, and it becomes dirty all over/
 
-1 Rudder is a guess for pf </Aa, nautical instruments for valaya
+1 Rudder is a guess for pf (/Aa, nautical instruments for valaya
 and avallaya.
 
 s P&ea = pdtrea. The Guzerati commentator takes it for
@@ -8493,7 +8146,7 @@ The Sanskrit commentaries give no explanation.
 
 
 they have many branches, extended branches, they
-are very magnificent,' &<x (see 4) ; considering well,
+are very magnificent,' &(x (see 4) ; considering well,
 they should use such sinless, &c., language. (12)
 
 A monk or a nun, seeing many wild fruits, should
@@ -8759,7 +8412,7 @@ mendicant; for they a*e pure and acceptable. (16)
 
 A monk or a nun should not wash his clothes,
 rub or wipe them with ground drugs, &c., because
-they are not i>ew.
+they are not i)ew.
 
 A monk or a nun should not clean or wash his
 clothes in plentiful water, because they are not
@@ -9120,13 +8773,13 @@ permission, and having inspected and wiped (the object in question), he may take
 
 He may beg for a domicile in a traveller's hall, &c.
 
-1 Oggahapa<fim.
+1 Oggahapa(fim.
 
 * The commentator (Sildnka) states that the monks in Kuhkaaadeju, &c., are allowed to carry umbrellas, because of the heavy
 rains in that country.
 
 * Ogitfhe^a v& paggihe^& v&. The commentators explain
-these words 'to take for once' (sakrit) and < to take repeatedly'
+these words 'to take for once' (sakrit) and ( to take repeatedly'
 (anekajas). Later on the Guzerati commentator explains oggi*-
 htggti by mfige, ' he should ask.'
 
@@ -9507,7 +9160,7 @@ $13). (2 and 3).
 
 * UAHrap&savaaasattikkao, discharging of feces and urine.
 
-3 Purisa0?taraka</a, here translated svikn'ta. The text proceeds ^ava bahiya niharfaw v&, which I do not know how to apply
+3 Purisa0?taraka(/a, here translated svikn'ta. The text proceeds ^ava bahiya niharfaw v&, which I do not know how to apply
 to the object in question. As 3 differs from 2 only in giving
 
 
@@ -9552,7 +9205,7 @@ or barley. (10)
 A monk or a nun should not ease na ure in a
 place where there are heaps of refuse, furrows, mud,
 
-the negative attributes (apurifttu*taraka<&m), I have contracted both
+the negative attributes (apurifttu*taraka(&m), I have contracted both
 paragraphs in the translation,
 
 v, explained parikshepa*&dik kriy&A kurytiA.
@@ -9726,7 +9379,7 @@ various colours (or forms). All that has been said
 original meaning, conflux; or mah&sava is a mistake for mahosava, which would be identical with mahussava, great festivals,
 in the next paragraph.
 
-* I have translated the last four words, gamthimdm, ve<2iim&m,
+* I have translated the last four words, gamthimdm, ve(2iim&m,
 pftrim&m, sa#zghtim&m, according to the commentary. Later on
 I shall translate them garlands, ribbons, scarfs, and sashes.
 
@@ -9929,7 +9582,7 @@ Tlrthakaras), removed the embryo from the southern
 
 BOOK II, LECTURE 15. 19 1
 
-brahmanical part of the place Ku;/</apura to the
+brahmanical part of the place Ku;/(/apura to the
 northern Kshatriya part of the same place, rejecting
 the unclean matter, and retaining the clean matter,
 lodged the fetus in the womb of Trijali of the
@@ -10108,7 +9761,7 @@ Venerable Vlra : ' Arhat! propagate the religion which
 is a blessing to all creatures in the world !' vi.
 
 When the gods and goddesses (of the four orders
-of) Bhavanapatis, Vyantaras, <?yotishkas, and Vimnavsins had become aware of the Venerable
+of) Bhavanapatis, Vyantaras, (?yotishkas, and Vimnavsins had become aware of the Venerable
 Ascetic Mahivtra's intention to retire from the world,
 they assumed their proper form, dress, and ensigns,
 ascended with their proper pomp and splendour,
@@ -10127,7 +9780,7 @@ O 2
 
 
 dvtpa at the northern Kshatriya part of the place
-Kiw</apura ; in the north-eastern quarter of it they
+Kiw(/apura ; in the north-eastern quarter of it they
 suddenly halted. (18)
 
 Sakra, the leader and king of the gods, quietly and
@@ -10146,7 +9799,7 @@ him to the divine pavilion, he softly placed him with
 the face towards the east on the throne, anointed him
 with hundredfold and thousandfold refined oil, with
 perfumes and decoctions, bathed him with pure water,
-and rubbed him with beautifying cool sar>dal 2 , laid
+and rubbed him with beautifying cool sar)dal 2 , laid
 on a piece of cloth worth a lack. He clad him in
 a pair of robes so light that the smallest breath
 would caniy them away; they were manufactured
@@ -10284,7 +9937,7 @@ he adopted the holy conduct. At that moment the
 
 1 Wake, Yfima, or time of three hours.
 
-* <raiHtuv&yapa</ie,. according to the Guzerati Bdlboclh ihis
+* (raiHtuv&yapa(/ie,. according to the Guzerati Bdlboclh ihis
 means making obeisance to the Lord of the world by touching his
 feet. Another MS. has : Then -Sakra the chief and king of the gods.
 
@@ -11130,7 +10783,7 @@ by rain-drops, with his eyes and mouth open like fullblown lotuses, with his exc
 bracelets, with diadem and earrings, his breast lighted
 up by necklaces, wearing long and swinging ornaments with a pearl pendant the chief of the gods rose
 
-1 Ka</aga, tudfiya, keftra. Ka/aka is the well-known kahkaua,
+1 Ka(/aga, tudfiya, keftra. Ka/aka is the well-known kahkaua,
 tru/ika is explained by bdhurakshikd, keyfira by ahgsu/a. The last
 two are bracelets worn on the upper arm.
 
@@ -11219,7 +10872,7 @@ the brahmanical part of the town Kiw^agrdma, has
 taken the form of an embryo in the womb of the
 Brhma&i Devdnandd of the 6&landharya#a gotra,
 wife of the Brhma#a ^shabhadatta of the; gotra of
-Ko<&la. (20) Hence it is the established custom
+Ko(&la. (20) Hence it is the established custom
 of all past, present, and future .Sakras, chiefs and
 kings of the gods, to cause the Arhats and Bhagavats to be removed from such-like low, mean, &c.,
 families, to such-like high, noble, &a, families. (21)
@@ -11569,7 +11222,7 @@ of Rohwi who did her mind good.
 
 2 According to Stevenson : the red side of the retti seed.
 
-8 Or if we adopt a various reading, mentioned in -the commentary, paya</iya, we must translate : whose luminous glory was
+8 Or if we adopt a various reading, mentioned in -the commentary, paya(/iya, we must translate : whose luminous glory was
 set forth by his thousand rays.
 
 
@@ -12177,7 +11830,7 @@ which we shall meet with later on.
 1 The passage in brackets seems to be a later addition ; for it
 is wanting in my oldest MS., and the commentator says that it was
 not seen in many books. The occurrence of the astrological term
-exaltation (u/fca=ityo>/ia) in this passage proves it to be inserted
+exaltation (u/fca=ityo)/ia) in this passage proves it to be inserted
 after 300 A.D. For about that time Greek astrology had been introduced in India, as I have shown in my dissertation : De Astrologiae
 Indicae *Hora' appellatae originibus, Bonn, 1872.
 
@@ -12435,7 +12088,7 @@ O Hero ! in the arena of the three worlds gain the
 supreme, bqst knowledge, called Kevala, which is free
 from obscurity ; obtain the pre-eminent highest rank
 (i. e. final liberation) on that straight road which the
-best <9inas have taught ; beat the army of obstacles !
+best (9inas have taught ; beat the army of obstacles !
 Victory, victory to thee, bull of the best Kshatriyas !
 Many days, many fortnights, many months, many
 seasons, many half-years, many years be not afraid
@@ -12498,7 +12151,7 @@ S 2
 a month wore clothes ; after that time he walked
 about naked, and accepted the alms in the hollow
 of his hand For more than twejvg__years the
-Venerable Ascetic Mah&vira neglected his jx>dy
+Venerable Ascetic Mah&vira neglected his jx)dy
 and abandoned the care of it ; he with equanimity
 bore, underwent, and suffered all pleasant or unpleasant occurrences arising from divine powers,
 men, or anirtials. (117)*
@@ -12605,7 +12258,7 @@ defilement of Karman. (119)
 
 1 Different names of divisions of time; a Stoka contains seven
 respirations, a Kshawa many (bahutara) respirations (according to
-another commentary a Kshaaa contains six Na</ikds, it is the sixth
+another commentary a Kshaaa contains six Na(/ikds, it is the sixth
 pan of a Gha/1), a Lava contains seven Stokas, and a Muhftrta
 seventy Lavas. This system of dividing time differs from all other
 known; compare Colebrooke, Misc. Essays, IP, pp. 540, 541. Wilson,
@@ -12627,7 +12280,7 @@ During the thirteenth year, in the second month
 of summer, in thelourth fortnight, the light (fortnight) of VaL&kha, on its tenth day, when the shadow
 had turned towards the east and the first wake was
 over, on the day called Suvrata, in the Muhftrta
-called Vi^aya, outside of the town <SWmbhikagr&ma
+called Vi^aya, outside of the town (SWmbhikagr&ma
 on the bank of the river RigiipAlika, not far from an
 old temple, in the field of the householder S4m4ga^
 under a Sal tree, when the moon was in conjunction
@@ -12650,7 +12303,7 @@ knew and saw all conditions of the world, of gods,
 
 men y and demons : whence they come, whither they
 go, whether they are born as men or animals
-(>fcyavana) or become gods or hell-beings (upapdda),
+()fcyavana) or become gods or hell-beings (upapdda),
 the ideas, the thoughts of their minds, the food,
 doings, desires, the open and secret deeds of all
 the living beings in the whole world ; he the
@@ -13309,7 +12962,7 @@ Mahvlra, only that the contents of 100 and 101
 do not apply to the present case.) (209)
 
 The Arhat /frshabha, the Ko^alian, belonged to
-the K<L$yapa gotra, and he had five names : 7?zshabha, First King, First Mendicant, First Gina, and
+the K(L$yapa gotra, and he had five names : 7?zshabha, First King, First Mendicant, First Gina, and
 First Tlrthakara. (210)
 
 The Arhat /frshabha, the Kosalian, clever, with
@@ -13492,7 +13145,7 @@ the Vatsa gotra ;
 In the short redaction the list of Sthaviras after
 Arya Yasobhadra is the following :
 
-6. Arya Sambhfltavi^aya of the Md/>4ara gotra
+6. Arya Sambhfltavi^aya of the Md/)4ara gotra
 
 and Arya Bhadrabdhu of the Prd^lna gotra;
 7* Arya Sthtilabhadra of the Gautama gotra;
@@ -13789,7 +13442,7 @@ b. Priyagantha, founder of the Madhyamd
 
 c. Vidyddharagopala of the K&syapa gotra,
 
-founder of the Vidyadhari >S&kha,
+founder of the Vidyadhari )S&kha,
 d" /?z'shidatta,
 e. Arhaddatta (Pr. Arihadatta).
 
@@ -13973,7 +13626,7 @@ nights of the rainy season had elapsed/ (2)
 As the Venerable Ascetic Mahavira commenced
 the Pa^^nsan when a month and twenty nights of
 the rainy season had elapsed, so the Ga^adharas
-commenced the Pa < ggnsan when a month and twenty
+commenced the Pa ( ggnsan when a month and twenty
 nights of the rainy season had elapsed. (3) As the
 Ga^adharas have done, so the disciples of the
 Gawadharas have done. (4) As they have done,
@@ -14079,7 +13732,7 @@ sake of collecting alms. (21) A monk who during
 the Pa^fusan eats on every third day, is allowed
 twice to frequent the abodes of householders for the
 sake of collecting alms. (22) A monk who during
-the Pa < ^usan eats one meal on every fourth day, is
+the Pa ( ^usan eats one meal on every fourth day, is
 allowed three times to frequent the abod'es of householders for the sake of collecting alms, (23) A
 monk who keeps still more protracted fasts, is Allowed
 at all (four) times to frequent the abodes of householders for the sake of collecting alms. (.24)
@@ -14103,7 +13756,7 @@ commentary are the following : the first is water mixed with flour,
 or water used for washing the hands after kneading flour; the
 
 
-3<X> KALPA S^TRA.
+3(X) KALPA S^TRA.
 
 
 on every third day, is allowed to accept three kinds
@@ -14182,7 +13835,7 @@ falls in his hand. (29)
 the donations of food above the fixed number as donations of drink
 if the latter have not yet reached the fixed number.
 
-1 Sa/rckha<fi, the word which, in the A/iardhga Sutra II, i, 2, &c.,
+1 Sa/rckha(fi, the word which, in the A/iardhga Sutra II, i, 2, &c.,
 we have translated ' festive entertainment.'
 
 2 Rain is here and in the sequel called rain-body, i. e. rain-drops
@@ -14195,7 +13848,7 @@ alms in the hollow of his hand, is not allowed to
 collect alms if rain, even in the form of a fine spray,
 falls down. (30)
 
-13. During the Pa < giisan a monk who uses an
+13. During the Pa ( giisan a monk who uses an
 alms-bowl is not allowed to frequent the abodes of
 householders for the sake of collecting alms if it
 rains fast, but he is allowed to do so if it rains but
@@ -14350,7 +14003,7 @@ same as gr/hagolikfi, a kind of lizard ; and vrdhmawi, a kind of
 wasps, ditto, of lizards.
 
 8 HallohaliyS, which is declared by the commentator to be
-synonymous with ahiloaft, saradfi, and kakki#</i. Of these words
+synonymous with ahiloaft, saradfi, and kakki#(/i. Of these words
 only sara^t is known ; for it seems to be the same with Sanskrit
 sara/a or sara/u, c chameleon, lizard,' and Maratht sara/a, * hedgelizard.'
 
@@ -14410,7 +14063,7 @@ out or to enter, to eat food, &c., to ease nature, to
 learn his daily lesson, to keep religious vigils he
 is not allowed to do it without asking leave. (51)
 
-19. If durirg the Pa < g^usan a monk wants to dry
+19. If durirg the Pa ( g^usan a monk wants to dry
 or warm (in the sun) his robe, alms-bowl, blanket,
 broom, or any other utensil,, he is not allowed without asking one or many persons to frequent the
 abodes of householders for the sake of collecting
@@ -14533,7 +14186,7 @@ might swoon or fall down. (In case of such an
 accident the remaining) reverend monks will undertake their search in that direction or intermediate
 direction (which the ascetic had named them). (61)
 
-27. During the Pa < ggusan monks or nuns are not
+27. During the Pa ( ggusan monks or nuns are not
 allowed to travel farther than four or five Yq^anas 2 ,
 and then to return. They are allowed to stay in
 some intermediate place, but not to pass there (at
@@ -14582,1142 +14235,5 @@ End of the Rules for Yatis.
 
 
 End of the Kalpa Sdtra.
-
-
-INDEX.
-
-
-Abh^it, name of an asterism, p. 28 1 .
-Abhinandana, name of the fourth
-
-Tfrthakara, 280.
-
-Abhiya/asa, name of a Kula, 292.
-Accomplishments, the sixty-four, of
-
-women, 282.
-Adbhuta Kalpa, 194.
-Adhakarma, 81 n 2, 127.
-Adikara=Tirthakara, 224.
-Affects, enumerated, 262.
-A^ita, name of the second Tirthakara, 280.
-Agnibhfiti, name of a Gawadhara,
-
-286.
-
-Agnidatta, 289.
-Agnivejyavana, name of a gotra,
-
-286, 287.
-Ahakamma, ahakammiya = adhakarma, ika, 94 n i, in n i.
-AharStiwiya, 146.
-Ahiwsa, doctrine of, 38.
-Ailapatya, name of a gotra, 287,
-
-289.
-A^alabhratr/, name of a Gawadhara,
-
-286.
-
-Akampita, name of a Gawadhara, 286.
-A^ela, a naked monk, 57 n 2.
-Alabhika, name of a town, 264.
-Alms-bowls, what they should be
-
-made of, 166.
-Amagandha, 23 n i.
-Ananta, name of the fourteenth Tirthakara, 280.
-Anisrava, 37.
-Anga, title of works, 221.
-Anidana, 40.
-
-Animals, eight kinds of, n.
-Ahka, a certain posture, 187.
-Ano^g-a 4 , daughter of Mahavira, 193.
-Antara^ika (Antari^iya), name of
-
-a Sakha, 291.
-Anuddharl, name of small insects,
-
-267.
-
-Apara^ita, name of a Vimana, 276.
-Ara, name of the eighteenth Tirthakara, 280.
-
-
-Arati, 17.
-
-Arhaddatta, 293 (bis).
-Arhat, title of Ginas, 36, 225, &c.
-Arishfanemi, name of the twentysecond Tfrthakara, 276.
-Arithmetics, 221.
-Ar>&ya, name of a Lava, 265.
-Arts, hundred, 282.
-Aryadatta, 274.
-Arya^ayanti, name of a Sakha, 288,
-
-A 2 93*
-
-Aryaghosha, 274.
-Arya^e/aka, name of a Kula, 292.
-Aryakuben, name of a Sakha, 293.
-Aryanagila, name of a Sakha, 288,
-A 293.
-
-Aryapadma, name of a Sakha, 293.
-Aryapadmila, name of a Sakha,
-
-288.
-
-Aryar/shipalita, name of a Sakha,
-A 293.
-Aryatapast, name of a Sakha, 288,
-
-293.^
-
-Aryava^ra, name of a Sakha, 293.
-Ascetic, compared to a warrior,
-
-258.
-
-different kinds of, 128 n i.
-
-untrue, 17.
-
-AshaV/a, name of an asterism, 278.
-
-AshaV/fo, name of a month, 281.
-
-A-rramapada, name of a park, 283.
-
-Asrava, 37, 7 6.
-
-Asthikagrama, name of a town, 264.
-
-Astronomy, 221.
-
-Asura, 198.
-
-Ajvasena, king of Benares, 271.
-
-Ajvina, name of a month, 191.
-
-Atharva-veda, 221.
-
-Avadhi knowledge, 223.
-
-Avalika, a division of time, 262.
-
-Avasarpi/ii era, 189, 218, &c.
-
-Ayatana, 44 .
-
-Ayus, 269.
-
-Bala, 25 n 2.
-Baladeva, 225.
-
-
-3*4
-
-
-0AINA SOTRAS.
-
-
-Balissaha, 289.
-
-Bathing-room, described, 242.
-
-Bauddha, 4.
-
-Bhadra, name of a Sthavira, 294
-
-(bis).
-Bhadrabahu, name of a Sthavira,
-
-287, 288.
-
-Bhadrap ida, name of a month, 308.
-Bhadrayajas, 291.
-
-Bhadrayajaska, name of a Kula, 291.
-Bhadrika, name of a nun, 264.
-Bhadnyika, name of a Sakha, 291.
-Bhagavat, title of Ginas, 36.
-Bharadv%a, name of a gotra, 286,
-
-291.
-
-Bharatavarsha, 190, 218, &c.
-BharuWa, a fabulous bird, 261.
-Bhavanapati, one of the four orders
-
-of gods, 191, &c,
-BhQta, 289.
-
-Bhfitadatta (dinna), 289.
-Birds, young, likened to disciples,
-
-58.
-
-Birth, 1 8.
-Bodies, 3 n 2.
-Brahmadvipika, name of a <Sakha,
-
-393.
-
-Brahma Kalpa, 195,
-Brahma^arin, name of a monk, 274.
-Brahmaliptika, name of a Sakha,
-
-292.
-
-Brahma^as and Sramajzas, 38, &c.
-Brahmasundari, name of a nun,
-
-284.
-
-Buddha, epithet of Mahavfra, 264.
-Buddhabodhita, 66 n i.
-
-Categories, sixty, 221.
-Ceremonial, 221.
-
-Clothes, what they should be made
-of, 157, &c.
-
-how many to be worn, 157.
-
-should not be dyed, 163.
-
-DaWa, 7.
-
-Dasikarba/ika, name of a 6"akha,
-
-289.
-Datta (Dinna), name of a Sthavira,
-
-288, 293.
-
-Dejiga^in, name of a Sthavira, 295.
-Devananda, 190, ai8, &c.
-
-name of a night, 265.
-Devarddhi, name of a Sthavira, 295.
-Dhammapada, 212 n i.
-Dhanagiri, name of a Sthavira, 293,
-
-294.
-
-
-Dhanarddhi, 290.
-
-Dharma, name of different Sthaviras, 294 (bis), 295.
-
-name of the fifteenth Ttrthakara, a 80.
-Dinara, denar, 233.
-Dfrghabhadra, 289.
-Diseases, various kinds of, 18, 19.
-
-enumerated, 53.
-Dream-book, 246.
-
-Dreams, interpreters of, 244, &c.
-
-various kinds of, 246.
-
-those of Trijali described, 330,
-
-&c.
-
-Dushamasushama period, 189, 218,
-&c.
-
-Earth-bodies, how they are injured, 4.
-Ea, 289.
-Eravatt, name of a river, 297.
-
-Fire-bodies, 7,
-
-Flood Sa#fsara, 20.
-
-Flowers, various kinds enumerated,
-
-
-a, chapter of monks, nirgata,
-47 na, 113 n 2.
-
-Gama, identical passages, 72 n a.
-Gaaa, 113, 273,286, 306.
-
-founder of a, 113.
-Gaaadatta, 289.
-
-Gawadhara, i n 4, 113, 273, 286.
-Gandharvas, 537.
-
-Gangavarta, name of a whirlpool,
-
-237.
-
-Gaika, name of a Kula, 291.
-Garu^as, gods, 189.
-Gautama, name of a gotra, 286, 289,
-
-293, 294.
-
-the Nirgrantha, 202.
-Gautarniya, name of a 5Skha, 292.
-Gavedhuka, name of a Sakha, 291.
-Girn3r, a mountain, 277, 279.
-Godasa, name of a Sthavira, 288.
-
-name of a Ga^a, 288.
-Graha, 266, 267.
-Grammar, 221.
-Guhya, 152.
-
-Gymnastic exercises, hall for, 242.
-
-Gaiandharaya/za, name of a gotra,
-
-190, 218.
-Gambi, name of a Sthavira, 295.
-
-name of another monk, 289.
-
-
-INDEX.
-
-
-Gambfidvipa, 190, 218, &c.
-GambQnsiman Gambfi, 287.
-
-GambGsva'min = GambG, i.
-
-Gasawsa, name of Mahavira, 193,
-256.
-
-Gayanta, name of a Sthavira,
-288.
-
-Gehila (Gett&la), name of a Sthavira, 294.
-
-Gina, title, 201, 203.
-
-Ginakalpika, 57 n 2, 308 n 2.
-
-Giva, identical with atman, 3 n 2.
-
-G#atr/' or Gtfatr/ka, clan of Kshatriyas, 191, 226, &c.
-
-Gtfatn'putra, name of Mahavira, 76,
-80.
-
-<?/iatr/sha</a, name of a park, 199.
-
-Gr/mbhikagrama, 201, 263.
-
-Gyotishka, one of the four orders of
-gods, 191, 195, 252.
-
-HSridraka, name of a Kula, 292.
-Hariwegamesi, 227, 229.
-Hanta, name of a gotra, 29 1
-Haritamalagari, name of a
-
-291.
-
-H3ritayaa, name of a gotra, 286.
-Harivawja, 92.
-Hastilipta (Hatthili&ga), name of a
-
-Kula, 290.
-
-Hastin, name of a Sthavira, 294.
-Heretic, 25.
-
-Ikshvaku, 92, 218.
-Indra, 92.
-
-Indrabhfiti, name of a Gaaadhara.
-286.
-
-name of another man, 265.
-Indradatta (Dinna), name of a Sthavira, 288, 292.
-
-Indrapuraka, name of a Kula, 291.
-Ihgitamarana, a religious death, 72
-
-Ijana, different from Indra, 198.
-Island, never covered with water,
-
-likened to an ascetic, 58, 61.
-Itihasa, 221.
-Itvara, a religious death, 72 n 3.
-
-Jewels, different kinds of, 238.
-
-sixteen kinds of, 227.
-
-Kakandaka, 284, 292.
-
-Kakandika, 291.
-
-Kalaka, name of a Sthavira, 294.
-
-
-Kamarddhi, 291.
-
-Kamarddhika, name of a Kula, 291.
-
-Karana, 19 n 5, 265.
-
-Karmabhtimi, 195 n i.
-
-Karman, a.
-
-Karttika, name of a month, 376.
-
-Kaji, kings of, 266.
-
-Kajyapa, name of a gotra, 193, 218,
-
-226, 286, 294.
-
-Kasyapiya*, name of a 5aikha, 292.
-Ka/ibandhana, 73 n 2.
-Kltyiyana, name of a gotra, 287.
-Kauttt/ijiya, name of a gotra, 193,
-
-286.
-
-KaujSmbika 1 , name of a SlkhS, 290.
-Kausika, name of a gotra, 290, 293.
-Kau/ika, 288, 292.
-Kautsa, name of a gotra, 294.
-Kau/umbini, name of a Sakha, 390.
-Kevala, 2, &c.
-Kheyanna, 29.
-Kinnaras, 237.
-
-Ko^/ala, name of a gotra, 190, 219,
-&a
-
-Ko</inya, 290.
-
-Kojala, kings of, 266.
-
-Kosalian, native of Ayodhy3, 281.
-
-Kofivarsmya*, name of a Sakha, 288.
-
-Kr/shfla, the line of, a celestial
-region, 195.
-
-Kr/shwasakha, name of a Kula, 292.
-
-Kriya, 2 n 3.
-
-Kro/a, 297.
-
-Kshamsbramaffa, a title, 295.
-
-Ksha;ia, a divisioh of time, 262.
-
-Kshemaliptiki, name of a Sakha, 291.
-
-KshudrStman, name of a graha, 265.
-
-Kubera, 293.
-
-Kula, 288,&c.
-
-Kulakara, 281 n 2.
-
-Ku#ala, name of a town, 297.
-
-Kun^adhan. See Kau/umbim.
-
-Kuw</agrama, M^havira's birth-place,
-219, &c.
-
-KuWala, name o a gotra, 291.
-
-KuWapura, Mahavira's birth-place,
-1 90 ; puri, 191.
-
-Kunthu, name of the seventeenth
-Tirthakara, 280.
-
-.Kaitra, name of a month, 273, 282.
-ATakravartin, 225.
-ATampS, name of a town, 262.
-ATampiyik, name of a Sikha, 291.
-ATandana, name of a nun, 267.
-/Candanagari, name of a S^kha 1 , 290.
-
-
-GAINA SUTRAS.
-
-
-ATandra, name of a year, 265.
-^andraprabha, name of the eighth
-
-Tirthakara, 280.
-ATandraprabha, name of a palankin,
-
-197, 257.
-
-/Tirana, name of a Ga*a, 291. .
-&6aluya, or ATMiluya. See Rohagupta.
-
-Kbukkbb) an interjection, 84.
-Jfitra, name of an asterism, 276.
-61apa//aka, 73 n 2.
-/iTyavana, 202, 262.
-
-
-n, name of a country, 84, 85.
-Lake, compared to a teacher, 49.
-Laukantika, gods, 195, 256, 272.
-Lava, a division ot time, 262, 265.
-Leader of the battle, epithet of a
-
-monk, 61.
-
-Leaki. See LUavi, 266 n i.
-Liberation, its nature inexpressible
-
-in words, 52.
-
-Li>Wavi, princes of Kojala, 266.
-Lives, six kinds of, 14.
-Living beings, all sorts of, 14, &c.
-
-Madhyama, name of a Sakha, 293.
-Madhyamika (Mi/mnilla),name of
-
-a Sakha, 292.
-Mahiigiri, name of a Sthavira, 287,
-
-289.
-
-Maharddhika, 165.
-Mahasuvrata, female lay votary, 278.
-Mahavideha, name of a country,
-
-194.
-Mahavira, venerable ascetic, 191,
-
-&c.
-
-Maighika, name of a Kula, 291.
-Maker of an end, 269, &c.
-Mallaki, princes of Kaji, 266.
-Malii, name of the nineteenth Tirthakara, 280.
-Maloha^a, 106+41 i.
-Malyaka, name of a Kula, 292.
-Maaaka, 287.
-
-Ma/zava, name of a Ga#a, 292*
-Mandara, mount, 261.
-Ma/r</ikaputra, name of a Gaoadhara, 286.
-Mambhadra, 289.
-Mara, 29, 30.
-Margajiras, name of a month, 194,
-
-257-
-
-Masapfinka, name of a Sakha, 290.
-Mi/fora, name of a gotra, 287, 288,
-
-293-
-
-
-Matipattrika", name of a Sakha, 29.
-Mauryaputra, name of a Gawadhara,
-
-286.
-
-Megha, 291.
-Mekhaliyika (Mehali^iya), name of
-
-a Sakha, 291.
-
-Metarya, name of a Ga^adhara, 286.
-Metre, 221.
-Milk Ocean, 199.
-Mithili, name of a' town, 264.
-MleM6a, 137, 185.
-Monk's hall, 88.
-Mukhavastrika*, 57 n 2.
-Mukta, name of a respiration, 265.
-
-epithet of Mahavira, 265.
-Mukunda, 92.
-
-Munisuvrata, name of the twentieth
-
-Tirthakara, 280.
-Musical instruments, different kinds,
-
-183.
-
-Nabhi, first king, 287.
-Naga, gods, 198.
-
-name of a Karawa, 265.
-
-name of a Sthavira, 294.
-
-proper name, 290.
-NagabhGta, name of a Kula, 290.
-Nagaputra, 290.
-
-Nagar^una, 32 n 2.
-Nagila, name of a Sthavira, 288.
-Nakshatra, name of a Sthavira, 294.
-Nalanda, name of a town, 264.
-Name and gotra, Karman relating to,
-
-226.
-Kami, name of the twenty-first Ttrthakaja, 280.
-Nanda, a lay votary, 278.
-Nandanabhadra, 289.
-Nandika (Nandi&fa), name of a
-
-Kula, 290.
-
-Nandita, name of a Sthavira, 295.
-Nandivardhana, name of the elder
-
-brother of Mahavira, 193.
-
-name of a fortnight, 265.
-Niggha/tfu, 221.
-Nirgrantha, 28, &c.
-Nirr/ti, name of a night, 265.
-Non- Aryan people, 137.
-Nurses, five kinds of, 192.
-
-Occupations, the three, of men,
-
-282.
-Oggaha (avagraha), 23ns.
-
-PaJiggahadha'n, 117 n 2.
-Padma, 293.
-
-
-INDEX.
-
-
-Padmaprabha, name of the sixth
-
-Tirthakara, 280.
-
-Padmila, name of a Sthavira, 288.
-Pagg>usan, 130 n 2, 296, &c.
-Palyopama", a long period of time,
-
-280.
-
-PaWubhadra, 289.
-PaVipai/iggahiya, 117 n 2.
-PawitabhQmi, 264.
-Paovagamawa, a religious death, 73.
-Papa, name of a town, 269.
-Parigraha, 23.
-
-Parihasaka, name of a Kula, 290.
-Pariwwa, comprehension and renunciation, i n 2.
-Parisrava, 37 n i.
-Pshvva, name of the twenty-third
-
-Tirthakara, 194, 271.
-Paryanka, a certain posture, 187.
-Passions, enumerated, 35.
-Paurushi, wake of the day or night,
-
-357.
-
-Paushya, name of a month, 273.
-Phalgumitra, name of a Sthavira,
-
-294.
-
-Plants, endowed with intellect, 10.
-Players and other performers, 253.
-Policemen, 252.
-Poshadha, 266.
-
-Prabhasa, name of a Gawadhara, 286.
-Prabhava, name of a Sthavira, 287.
-Pragma, name of a gotra, 287, 288.
-Praata Kalpa, 271.
-PrajnavShanaka, name of a Kula,
-
-292.
-
-Pratyekabuddha, 66 n i.
-Preaching, 27.
-
-Pr/sh/i>frampa, name of a town, 264.
-Pritidharmika, name of a Kula, 292.
-Pritivardhana, 265.
-Priyadarjana*, daughter of Mahavira,
-
-193.
-
-Priyagantha, 293.
-Priyakariwi, name of Trijala, 193.
-Pronunciation, 221,
-Puw^ravardhaniya, name of a Sakha*,
-
-288.
-
-Puayabhadra, 289.
-Purimat&la, name of a town, 283.
-Purisantarakaj/a, 90 n 2.
-PQrwapattrika, name of a Sakha,
-
-290.
-
-POrva, 274i 278, 284.
-Pushpadanta, name of the ninth
-
-Tirthakara, 280.
-Pushpagiri, name of a Sthavira, 293.
-
-
-Pushpa/ftila*, name of a nun, 274.
-Pushpottara, name of a Vima*na,
-
-190, 218.
-Pushyamitrika, name of a Kula, 292.
-
-Quality, 15.
-
-Ra#agr/ha, capital of Magadha, 264,
-
-287.
-
-Raohara//a, broom, 57 n 2.
-Rag>yapalika, name of a Sakha, 291.
-Rahasya, 221.
-
-Raksha, name of a Sthavira, 294.
-Ratha, name of a Sthavira, 293.
-Reciprocity, law of, 13.
-Re3, 289.
-
-Renunciation of Mahavira, 257.
-Retinue of a king, 243.
-Revati, name of a female lay votary,
-
-268.
-
-Revatika, name of a park, 277.
-Ri^upalika, name of a river, 263.
-Rohagupta, 290.
-Roharca, 290.
-Rudra, 92.
-
-Rigumati, 289.
-#/g-veda, 221.
-
-&shabha, name of the first Tirthakara, 281, &c.
-
-/'shabhadatta, 190, 281, &c.
-J&shabhasena, 284.
-K/'shidatta, 293.
-
-^/shidattika, name of a Kula, 292.
-.R/shigupta, 292.
-
-&'shiguptika, name of a Kula, 292.
-&'shipalita, 293.
-
-Sadharmika, 70.
-
-SSgaropama, a long period of time,
-190, 218, 271, &c.
-
-Samadhi, 49 n 2.
-
-Samaga, 201, 263.
-
-Sama-veda, 221.
-
-Samaya, 23 n 3.
-
-a division of time, 262.
-
-Sambhava, name of the f third Tirthakara, 280.
-
-Sambhfitavi^aya, name of a Sthavira, 287, 288.
-
-Samita, 293.
-
-Sawkajika (Sawkajyika ?), name of
-a Sakha*, 291.
-
-Sa;?fkha</i, 93 n 2.
-
-Sarolekhani, 74 n 3.
-
-Sampalita, name of a Sthavira, 294.
-
-
-0AINA SUTRAS.
-
-
-Samparyahka, a certain posture,
-
-269.
-Samudravi^aya, king of Sauripura,
-
-276.
-
-Sandhi, 31 n 4.
-Sarvarthasiddha, name of a Vim an a,
-
-281.
-
-name of a Muhfirta, 265.
-Sattha (Sastra), i n 2.
-Saudharma Kalpa, a celestial region, 222.
-
-Avatawsaka, a celestial abode,
-
-222.
-
-Saumya, 274.
-Saurasli/rika, name of a Sakha,
-
-292.
-
-Sautapuka, name of a Sakha, 290.
-Sciences, seventy-two, 282.
-Self, the Knower, 50.
-Sena, 289.
-Senika, 293.
-
-ShaWa vana, name of a park, 259.
-Siddha, epithet of Mahavira, 264.
-
-name of a Stoka, 265.
-Siddhirtha, father of MahSvira, 191,
-
-&c., 226, &c.
-Siddharthavana, name of a park,
-
-283.
-
-Siwha, name of a Sthavira, 294.
-Siwhagiri Gatismara, name of a
-
-Sthavira, 288, 293.
-Sin, causes of, 2.
-Skanda, 92.
-Snake gods, 92.
-Soittiy! See SautaptikS.
-Somabhuta, name of a Kula, 290.
-Somadatta, 289.
-Soul, 2.
-Sthavira, 286.
-Sthiragupta, name of a Sthavira,
-
-295.
-Sthfilabhadra, name of a Sthavira,
-
-287.
-
-Stoka, a division of time, 262, 265.
-Subbhabhftmi, name of a country,
-
-84.
-Subhadra, name of a female lay
-
-votary, 284.
-Sudarrana*, elder sister of Mahavira,
-
-193.
-Sudharman, name of a Ganadhara,
-
-i, 286, 287.
-
-name of a council hall of tlie
-
-gods, 223.
-
-Suhastin, name of a Sthavira, 288,
-390.
-
-
-Suicide, 68 n 5.
-
-Sulasa, name of a female lay votary,
-268.
-
-Sumanobhadra, 289.
-
-Sumati, name of the fifth Tfrthakara, 280.
-
-Sunanda, name of a female lay votary, 274.
-
-Suparjva, name of the seventh Tirthakara, 280.
-
-paternal uncle of Mahavira, 193.
-Supratibuddha, name of a Sthavira,
-
-288, 292.
-Suras, 198.
-Sushama, name of a period, 189,
-
-218.
-Sushamasushama, name of a period,
-
-189, 218.
-Susthita, name of a Sthavira, 288,
-
-292.
-Suvidhi, name of the ninth Tfrtbakara, 280.
-Suvrata, name of a lay votary, 274.
-
-name of a day, 198, 257, 263.
-
-name of a gotra, 294.
-Suvratagni, name of a day, 265.
-Svastika, 190.
-
-Svati, name of an asterism, 189, 218,
-
-269.
-Svayambuddha, 66 n i.
-
-5aka/amukha, 283.
-
-Sakra, 222.
-
-SaWilya, name of a Sthavira,
-
-294.
-Sahkha^ataka, name of a lay votary,
-
-267.
-Santi, name of the sixteenth Tirthakara, 280.
-iSantisenika, 293.
-Sauripura, name of a town, 276.
-Sayyambhava, name of a Sthavira,
-
-287.
-
-Sirarddhi, 290.
-Sitala, name of the tenth Tirthakara, 280.
-
-Siva, name of a queen, 276.
-.Sivabhtiti, name of a Sthavira, 294.
-SVamaaas, 194, &c.
-Srava^a, name of a month, 275
-
-277-
-
-Sravasti, name of a town, 264.
-Sravastika, name of a Sakha, 291.
-Sreyawia, name of the eleventh
-
-Tlrthakara, 280.
-
-name of Mahavira, 193, 256.
-
-
-INDEX.
-
-
-3^9
-
-
-Sreyamsa, name of a lay votary,
-
-274.
-
-.Sridhara, 274,
-Srfgupta, 291.
-Subha, 274.
-Sfidra, 151.
-
-Tamraliptika, name of a Sakha,
-
-288.
-
-Tapasa, name of a Sthavira, 288.
-Tasa = trasa, 3 n 2.
-Tirthakara, 224.
-Tishyabhadra, 289.
-Trairajika, name of a Sikha, 290.
-Treasures, hiding-places of, 248.
-Tree, likened to a worldly man, 53.
-Trijala, mother of Mahavira, 191,
-
-193, 226, &c.
-Tortoise, likened to a worldly man,
-
-53-
-Tungikayana, name of a gotra, 53.
-
-Uddeha, name of a Gaa, 290.
-U^umbarika, name of a Sakha,
-
-290.
-
-IL/uvatika, name of a Gaa, 291.
-U^An3gari, name of a Sakha, 292,
-
-293.
-
-Ullaga4a, name of a Kula, 290.
-Upananda, 289.
-Upanga, 221.
-Upapada, 202, 264.
-Upajama, name of a day, 265.
-Upajraya, 115.
-Utsarpim era, 189, 218, &c.
-Uttara, 289.
-Uttarabalissaha, name of a Ga/za,
-
-289.
-Uttarakura, name of a palankin,
-
-277-
-Uttaraphalgunt,name of an asterism,
-
-
-Uttarasha//M, name of an asterism,
-281, &c.
-
-Vagg-abhtim!, name of a country,
-
-84.
-Vagra, name of a Sthavira, 288,
-
-293-
-Va$ranigari, name of a 6akha,
-
-291.
-Va^rasena, name of a Sthavira, 288,
-
-293.
-
-Va^rt, name of a Sakha, 292.
-Vau&kha, name of a month, 201,
-
-263,
-
-
-i, capital of Videha, 264^
-Vauramawa, or Vaijravaa, 195,
-
-199.
-
-VSmi, name of a queen, 271.
-Va^assai Vanaspati, 3 n 2.
-Va/ii^agrima, name, of a town,
-
-264.
-
-Vanfya, name of a Kttla, 292.
-Varaoatta, 277.
-Vardhamana, name of Mahavira,
-
-192,^193,249, 255.
-Vardhamanaka, 190.
-Vasish/^a, 274.
-Visish/^a, name of a gotra, 191, &c.,
-
-226, &c., 286, 288, 290, 294.
-Visish*Mya, name of a 5^kha, 292.
-Vasudeva, 225.
-
-Vasupfig-ya, name of the twelfth Tirthakara, 280.
-
-Vatsa, name of a gotra, 287, 293.
-Vltsaliya, name of two Kulas, 291,
-
-292.
-Vayubhfiti, name of a Ga/?adhara,
-
-286.
-
-Vedana = feeling, 3 n 2.
-Vedanfya, 269.
-Veaa, 286.
-Vesamawa, 248, 251.
-Vejava/ika, name of a Ga*a, 291.
-Videha, native country of Mahavira,
-
-286.
-Videhadatta (dinna), name of Trijaia,i93, 194, 256.
-
-VidySdharagopala, 293.
-
-Vidyadharas, 197.
-
-Vidyadhari, name of two 5akhis,
-292, 293.
-
-Vi^g-aya, name of a muhflrta, 199,
-201, 257, 263.
-
-Vihirabhfimi, 90 n i, 306.
-
-Vi>tarabhfimi, 90 n i, 306.
-
-Vimala, name of the thirteenth Tirthakara, 280.
-
-Vimana, celestial abode, 190, 218.
-
-VimSnavasin, one of the four orders
-of gods, 191.
-
-Vinitck, name of a town, 283.
-
-'Virabhadra, 274.
-
-Vijakha, name of an asterism,
-271.
-
-Vijlla, name of a palankin, 273.
-
-Vishnu, name of a Sthavira, 294.
-
-Vows, three, 63.
-
-five, 203,
-
-Water-bodies, 5.
-
-
-32O GAIN A SUTRAS.
-
-
-Water-lives, 5 n i. Yakshit, name of a nun, 278.
-
-Whirlpool = Sawsara, 9. Yajas, 274.
-
-Wind-bodies, 9. Yajobhadra, name of a monk, 289.
-
-Women, 21. name of a Kula, 291.
-
-name of a Sthavira, 287.
-
-Ya^ur-veda, 221. YaJodS, wife of Mahavira, 193.
-
-Yaksha, 289. Years, former, 58.
-
-Yakshadatta fdinna), 289. Yoga, 15 n 5.
-
-Yakshas, 92. Yo^ana, 297, &c.
 
 

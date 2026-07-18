@@ -1,61 +1,3 @@
-# The Melanesians: Studies in Their Anthropology and Folk-Lore
-
-MELANESIAN
-
-ANTHBOPOLOGrY AND FOLK-LOBE
-
-CODR1NGTON
-
-
-SToitbffrt
-HENRY FROWDE
-
-
-Oxford University Press Warehouse
-Amen Corner, E.C.
-
-
-Digitized by the Internet Archive
-
-in 2015
-
-
-THE MELANESIANS
-
-
-STUDIES IN THEIR
-
-
-ANTHROPOLOGY AND FOLK-LORE
-
-
-BY
-
-
-R H. CODRINGTON, D.D.
-
-LATE OP THE MELANESIAN MISSION
-SOMETIME FELLOW OF WADHAM COLLEGE, OXFORD
-AUTHOR OF 'THE MELANESIAN LANGUAGES 1
-
-
-With. Illustrations
-
-
-Oxford
-
-AT THE CLARENDON PRESS
-
-[All rights reserved]
-
-
-Ojforb
-
-PRINTED AT THE CLARENDON PRESS
-
-BY HORACE HART, PRINTER TO THE UNIVERSITY
-
-
 PBEFACE.
 
 
@@ -214,7 +156,7 @@ Chiefs recognised by visitors. Their Power in Solomon Islands, Banks'
 Islands, and New Hebrides. Absence of History and Tradition
 Remarkable exception at Saa. Origin of that settlement. Chiefs there
 Hereditary element. Chiefs in Florida; in Banks' Islands Alternation of predominance in Kindreds. Chiefs in New Hebrides Lepers'
-Island . > f
+Island . ) f
 
  4r'-.^
 
@@ -323,7 +265,7 @@ MAGIC.
 Mana, and equivalent terms. Native belief in magic, (i) Sicknesscauses. Solomon Islands. Treatment with charms ; medicine. Ghosts
 fighting; Sea-ghosts. Santa Cruz. Banks" Islands. New Hebrides
 (2) Weather: weather doctoring ; Banks' Islands, charms. (,) Witch
-craft: fragments of food; bones; < ghost-shooter ■ ; Metamorphosis.
+craft: fragments of food; bones; ( ghost-shooter ■ ; Metamorphosis.
 4 Dreams : dreamers. (5) Prophecy : possession by ghosts ; prophets.
 
 "'eth0dS in S°lomon Islands and B^ks' Islands
@@ -622,7 +564,7 @@ in some of the Banks' Islands ; it has not been carried across
 B
 
 
-2 Introductory. [-CH>
+2 Introductory. [-CH)
 
 the boundary of the betel-nut by the Polynesian settlers
 in the Reef Islands of Santa Cruz. The present work is
@@ -1450,7 +1392,7 @@ can be found can never be described as that of a tribe grouped
 round its hereditary or elective chief. It is probably true
 
 
-22 Social Regulations. rCH<
+22 Social Regulations. rCH(
 
 that in every account of Melanesian affairs given to the world
 tribes are spoken of ; but a belief that every savage people is
@@ -2149,7 +2091,7 @@ O
 O
 
 
-5<?
+5(?
 
 
 o
@@ -2166,7 +2108,7 @@ I-
 
 Ph
 
-/-—•>.
+/-—•).
 
 CO
 
@@ -2281,7 +2223,7 @@ O
 
 a
 
->>
+))
 
 d
 
@@ -2371,7 +2313,7 @@ wives who is dead, does not bring in a step-mother to the boy
 li he adds another to his living wives ; the woman would
 come m as another mother, and the boy would take no notice.
 J3ut if a woman with children loses her husband, and becomes
-the wife of a man who is not < near ' to her previous husband,
+the wife of a man who is not ( near ' to her previous husband,
 being of course sogoi but with no recent blood relation the
 man will come in as step-father, and the term uwr, successor,
 is applied to him, the connexion being called mur-gae, bond of
@@ -2658,7 +2600,7 @@ another man. Further details as to the position and power of
 chiefs in the various islands will be hereafter given.
 
 A point of difference between the Polynesian and Melanesian sections of the Pacific peoples is the conspicuous
-j>resence in the former, and the no less conspicuous absence
+j)resence in the former, and the no less conspicuous absence
 in the latter, of native history and tradition. In the
 Melanesian islands, with one notable exception, the enquirer
 seeks in vain for antiquity; the memory of the past perishes
@@ -3746,7 +3688,7 @@ societies, and in the Banks' Islands they continue to exist, and indeed to
 flourish more than it is at all desirable that they should.
 
 
->vi Banks Islands. 75
+)vi Banks Islands. 75
 
 absence of any strong political organization the importance of
 the position of a member of the largest and most exclusive of
@@ -4881,7 +4823,7 @@ In the Banks' Islands the Suqe of Mota has many steps
 and ovens, all av-tapug. Beginning with the lowest : (1) Eurvi.] Banks Islands ' Suqe.' 105.
 
 won, (2) Avrig, (3) Qat tagiav, (4) Avtagataga, (5) Luwaiav, (6)
-Tamasuria, (7) Tavasuqe, (8) Tavasuqelava, (9) Kerepue, (jo) J/<?&,
+Tamasuria, (7) Tavasuqe, (8) Tavasuqelava, (9) Kerepue, (jo) J/(?&,
 (11) Zfe%, (12) (13) Poroporolara, (14) Wometeloa, (15)
 
 //V/^m, (16) Wesukut, (17) Wetaur-o-meligo, (18) Tiqangwono.
@@ -5625,7 +5567,7 @@ no form to be seen ; has no soul, "because itself is like a soul.'
 But though the true conception of a vui represents it as incorporeal, the stories about the vui who have names treat
 
 
-1 2 4 Religion. [CH>
+1 2 4 Religion. [CH)
 
 them as if they were men possessed of supernatural power.
 The umi of the Northern New Hebrides are the same. In
@@ -5864,7 +5806,7 @@ ghost has heard. But when the sacrificer went in he did not
 K
 
 
-I3° Sacrifices, rCH<
+I3° Sacrifices, rCH(
 
 go boldly, but with awe ; and this is the sign of it ; as he
 goes into the holy house he puts away his bag, and washes
@@ -5906,7 +5848,7 @@ tindalo in or at the place of sacrifice, na mane sukagi te nia sukagi na hanu
 vania na tindalo ta na malei ni sukagi.
 
 
-V1II>] Florida Sacrifice. 1 3 1
+V1II)] Florida Sacrifice. 1 3 1
 
 preserved. When a public sacrifice was performed the people
 of the place assembled, boys but not women being- present,
@@ -5949,7 +5891,7 @@ the adjectival termination), 'has a spiritual character.'
 K a
 
 
-1 3 2 Sacrifices. [CH>
+1 3 2 Sacrifices. [CH)
 
 Turivatu ; if in the distant sea ; if on high in the sun, or in
 the moon ; if thou dwellest inland or by the shore, Manoga !
@@ -6032,7 +5974,7 @@ side has been shewn to have the greater strength. A man
 must needs have his keramo, even if he had to buy one ; if
 
 
-*34 Sacrifices. rCB>
+*34 Sacrifices. rCB)
 
 what his father or uncle taught and gave him did not succeed
 he tried another. A relic of the keramo (himself but lately a
@@ -6196,7 +6138,7 @@ lida in order downwards, saying, ' Help, deliver this man, cut
 short the line that has bound him.' Then the pig is eaten by
 
 
-*38 Sacrifices. rCH>
+*38 Sacrifices. rCH)
 
 all present, except the women; nothing is burnt. The
 remaining- sacrifices are those of first-fruits. (5) When the
@@ -6284,7 +6226,7 @@ with the sacrifices of the western islands, but not with the
 
 notion of a sacrifice as these more eastern people understand it.
 In the use of the word in the Banks' Islands which has heen
-taken as equivalent to < sacrifice,' viz. oloolo, it is important to
+taken as equivalent to ( sacrifice,' viz. oloolo, it is important to
 observe that the word is not employed in reference to the
 spirit to whom the offering is made, but to the man himself
 who presents the offering- to the spirit \ which is the same
@@ -6365,7 +6307,7 @@ cutting a canoe make sacrifices at this stump, throwing down
 money there that their canoe may be swift and strong and never
 
 
-*42 Sacrifices. rCH>
+*42 Sacrifices. rCH)
 
 wrecked. It does not appear that any one comes between the
 offerer and Qat in this, perhaps because Qat is known to every
@@ -6512,7 +6454,7 @@ quickly gam the land, and rise upon the shore.' They invoke
 also Bagea as their grandfather ; the word bagea meaning
 
 
-J46 Prayers. [CH>
+J46 Prayers. [CH)
 
 shark, and any tindalo that has takexj up its ahode in a shark,
 or is represented by one, being called Bagea. They call also
@@ -6598,9 +6540,9 @@ enemies perish." ' — Eev. L. Pison.
 L %
 
 
-J4-8 Prayers. rCH>
+J4-8 Prayers. rCH)
 
-On starting on a voyage : < Tataro— Vjicle ! Father ! plenty
+On starting on a voyage : ( Tataro— Vjicle ! Father ! plenty
 of boars for you, plenty of rawe, plenty of money ; kava for
 your drinking, lucky food for your eating in the canoe ; I
 pray you with this, look down upon me, let me go on a safe
@@ -6685,7 +6627,7 @@ Solomon Islands. Banks Islands. 151
 
 
 snake at last could bear it no longer, and cried out weeping,
-<I go, and who will help you now?' She made her way
+(I go, and who will help you now?' She made her way
 down to the sea accordingly, and her track became a watercourse. Leaving the island, she swam across first to Ugi, but
 from thence she could see the Bauro mountain ; she went 'on
 further to Ulawa, and thence again to the south-east end of
@@ -6722,7 +6664,7 @@ of powers which men can never have. Consistency can
 hardly be expected ; the native mind indeed aims high when
 
 
-152 Spirits. [ch<
+152 Spirits. [ch(
 
 it conceives a being which lives and thinks and knows and
 has power m nature, without a gross body or even form ; but
@@ -6730,7 +6672,7 @@ it fails when it comes to deal with an individual being of such
 a nature. Hence the stories represent a vui like a man with
 larger powers • a native seeing some new and wonderful
 foreign work will cry 'A vui made it!', and receiving home
-a boy grown up m absence cries < Me vnigai! He's a vui to
+a boy grown up m absence cries ( Me vnigai! He's a vui to
 be sure !
 
 It is remarkable again that of these superhuman beings
@@ -6808,13 +6750,13 @@ open the eye and drink, and then give it back full of money.
 But a Nopitu would also manifest itself in a different manner
 A party would be sitting- round an evening fire, and one of
 them would hear a voice as if proceeding from his thigh,
-saying, < Here am I, give me some food, I am hungry.' He
+saying, ( Here am I, give me some food, I am hungry.' He
 would roast a little red yam, and when it was done fold it in
 the corner of the mat on which he was sitting. In a little
 while it would be gone, and then the Nopitu would begin to
 talk and sing in a voice so small and clear and sweet, that
 once heard it never could be forgotten ; but it sang the ordinary Mota songs, while the men drummed an accompaniment
-for it. Then it would say, < I am going ; ' they would call
+for it. Then it would say, ( I am going ; ' they would call
 it, and it was gone. Then a woman would feel it come
 to her, and sit upon her knee; she would hear it cry
 'Mother! Mother!' She would know it, and carry it in
@@ -6970,7 +6912,7 @@ U lamasag, the dawn strikes upon the sky, mera being a common word
 for red.
 
 
-1 5 Spirits. [-CH>
+1 5 Spirits. [-CH)
 
 three days he worked to give them life. He brought them
 forth and set them up before his face; then he danced to
@@ -7083,7 +7025,7 @@ and climbed up he flew home, took out the arrows which had
 stuck into his covering of boards, and hung them up in the
 gamal. When his brothers returned he asked them what sport
 they had ; and when they told how they had shot and hit a
-wonderful bat, he made them look at the arrows and judo>e
+wonderful bat, he made them look at the arrows and judo)e
 whose they were. Iro Lei took her part in these tricks. One
 day when Qat and his brothers were sailing in their canoes
 they saw a woman on a point of rock, who called each of them
@@ -7129,7 +7071,7 @@ vain, for his brothers had taken off his wife and his canoe to
 be their own. Then Qat went inside his house, and took his
 cock's-tail plume, and his string of the smallest shell-money,
 his red earth, and his shell hatchet, and asked his mother for
-his banana fruit. < They have plucked them all,' she answered,
+his banana fruit. ( They have plucked them all,' she answered,
 ' except these little ones at the end of the bunch.' ' Pluck
 them all off,' said Qat. Then he took a cocoa-nut-shell bottle
 and stowed all his things and his food within it, made himself small and took his seat within it, and bade his mother
@@ -7145,7 +7087,7 @@ His brothers saw it, and remarked that it was like thote
 M
 
 
-J62 Spirits. [CH>
+J62 Spirits. [CH)
 
 bananas of Qat's that they had taken ; they enquired among
 themselves who had been eating- a banana, and when all denied,
@@ -7309,8 +7251,8 @@ and Qasavara followed down after them and reached the end.
 Then cried Qat, « Now I revenge myself.' ' Ah, Qat ! ' cried
 
 
-Qasavara < do me no harm; take me kindly for one of your
-household and I will work for you/ < No, indeed/ said Qat
+Qasavara ( do me no harm; take me kindly for one of your
+household and I will work for you/ ( No, indeed/ said Qat
 hut I will revenge myself for the mischief you have done me/'
 So he le go the tip of the casuarina-tree, and the tree sprang
 hack and flipped off Qasavara, and his head knocked against
@@ -7976,7 +7918,7 @@ good to bring m money ; any fanciful interpretation of a mark
 on a stone or of its shape was enough to give a character to
 the stone and to the spirit associated with it ; the stone would
 not have that mark or shape without a reason. Many of these
-stones had names of their own, as above, as Puglava, < much
+stones had names of their own, as above, as Puglava, ( much
 money out at interest/ at Luwai, and as more than one' named
 simply Money. The spirits belonging to these stones are
 nameless; their connexion each with its own stone is not
@@ -8051,7 +7993,7 @@ them lie near his, till the mana in his stone should be imparted
 to theirs. Likeness to other fruits or tubers would be the
 
 
-J84 Sacred Places and Things. rCH<
+J84 Sacred Places and Things. rCH(
 
 ground of a belief in similar powers. Stones were much used
 by weather-doctors. To make sunshine it might be enough
@@ -8064,7 +8006,7 @@ a sacred place. The stone to represent the sun might also be
 kid upon the ground with a circle of white rods radiating
 from it for its beams. There are stones of a remarkably W
 shape called in the Banks' Islands tamate gangan, that is
-< eating ghost'; these are so powerful from the presence with
+( eating ghost'; these are so powerful from the presence with
 them Of a ghost, not of a spirit, that if a man's shadow fall on
 one it will draw out his soul from him, so that he wiU die.
 Such stones therefore are set in a house to guard it ; any one
@@ -9321,7 +9263,7 @@ according to the native belief, the mischief was caused by
 magic. A man eating away from his closest friends was in
 
 
-XII>] Taboo. 215
+XII)] Taboo. 215
 
 equal fear lest lie should be charmed through a fragment of his
 food or poisoned by what might be put into his food. The
@@ -9532,7 +9474,7 @@ his name would ask what was the matter. He would answer,
 ' It is not he, it is I,' that is, not the sick man, but the ghost
 who answers by his voice. Then they would call over the
 names of the lately deceased to see whose ghost it was, and
-when they hit on the right name he would answer, < It is I.'
+when they hit on the right name he would answer, ( It is I.'
 Then he would begin to weep, and tell them that he had come
 back because he knew in Panoi that his wife and family were
 not duly cared for, or that his property was being wasted.
@@ -10399,7 +10341,7 @@ nothing on her face. Hitherto she has worn nothing except
 on great occasions ; now she is always clothed ; in the house
 
 
-1 <
+1 (
 
 
 ■ When a female child is born, the father or mother of some male child
@@ -10451,7 +10393,7 @@ observing who it is demands money of the former lover, and
 when that is paid no more notice is taken of the matter ; but
 
 
-XIV>-j Adultery. 243
+XIV)-j Adultery. 243
 
 if satisfaction were refused a quarrel would ensue. A newlymarried husband, without waiting for observations, would
 often beat his bride to make her confess who her paramour
@@ -10641,7 +10583,7 @@ no Mota man knows that it ever meant that. In fact my
 behei is that m the original language this word did not
 definitely mean either soul or shadow, but had a meaning one
 can conceive but not express, which has come out in one
-language meaning shadow, and in the other meaning something like soul, i.e. second self1.' So Mr. Fison writes < The
+language meaning shadow, and in the other meaning something like soul, i.e. second self1.' So Mr. Fison writes ( The
 Fijian word for soul is yah, that for shadow yaloyah. I have
 not been able to find any trace of the belief that shadow and
 soul are mdentical. I believe that Williams' remark about
@@ -11212,7 +11154,7 @@ nails, tied in a bundle and hung up. Sometimes, but rarely,
 Wanderings in the Eastern Archipelago, p. 435.
 
 
-xv>] Saa. Burial. Santa Cruz. 263
+xv)] Saa. Burial. Santa Cruz. 263
 
 a corpse is burnt, at the wish of the deceased When this
 is done they preserve a mangite. by wrapping the head about,
@@ -11267,7 +11209,7 @@ nre^with fire under their armpits like fire-flies, and are much
 afraid of them.
 
 The abode of the dead has in all these examples been shewn
-to be above ground, in islands more or less remote from tho<=e
+to be above ground, in islands more or less remote from tho(=e
 in which the living dwell, and all known and visited by living
 men. It is probable, however, that a certain belief in an
 underworld is also present, the Turivatu of the Florida invocation in sacrifice (page 131), a region beneath the earth
@@ -11542,7 +11484,7 @@ to represent her till she returns. At Motlav the ghost is not
 xv.] Driving away Ghosts. Funeral-Feasts. 2 7 1
 
 driven away unless the man who has died was badly afflicted
-with ulcers and sores, either *ff<n> covered with sores, or
+with ulcers and sores, either *ff(n) covered with sores, or
 nigata with a single large ulcer or more. When such a one
 is dying the people of his village send word m time to the
 next village westwards, as the ghost will go out following the
@@ -11873,7 +11815,7 @@ place, he says, they think that when the wljamani, leaves
 the body in death, it mounts into a tree m which is a birdsnest fern, and sitting among the fronds, laughs and mocks at
 the people who are crying and making great lamentations
 over him. There he sits, wondering at them and ridiculing
-them. < What are they crying for ? ' he says ; < who is it they
+them. ( What are they crying for ? ' he says ; ( who is it they
 are sorry for? Here am I.' For they think that the real
 thin- is the soul, and that it has gone away from the body
 just as a man throws off his clothes and leaves them, and the
@@ -11912,7 +11854,7 @@ there ; if a ghost falls in leaping- he is smashed to pieces, but
 runs on and comes to the hill Tawu, which is very sacred to
 ghosts. Here is the mouth of the hollow which leads to
 Hanoi and here the newly-arrived ghost is beaten by those
-whom he has wronged, and they cry to him, < Down already ' '
+whom he has wronged, and they cry to him, ( Down already ' '
 Here is Gaviga, a mi, the chief of Banoi, and Matamakira, or
 fealolo as the Tanorild people say, a quarrelsome and illtempered man on earth ; these stand with large and sharp
 spears and try to stab the new-comers. There is a huo-e fierce
@@ -12194,7 +12136,7 @@ xv.] Pentecost Island. Burial. Hades. 287
 
 and the man kills the rat; it begins to putrefy: 'How it
 stinks!' cries the man. 'You will be as bad,' says the rat.
-' But I shall live again,' says the man. < No ! like me,' says
+' But I shall live again,' says the man. ( No ! like me,' says
 the rat. The other story is a variant of the common one
 about changing the skin. There was a man who had two
 boys living with him, and used to change his skin every day
@@ -12659,7 +12601,7 @@ the ground occupied a sunken space. Inside such a house
 small houses for several wives are sometimes ranged against
 
 
-XVI>] Houses. Tree-houses, 301
+XVI)] Houses. Tree-houses, 301
 
 the walls, and sometimes a tiny house on piles is built in
 the middle. In former days when a chiefs dwelling-house
@@ -12693,7 +12635,7 @@ and accounted for by the little permanence of village sites.
 When a ruinous house is demolished to build another on
 the same site, it is found that the constant sweeping of the
 
-1 In Maewo, Aurora, < the ima is the married man's residence. Within
+1 In Maewo, Aurora, ( the ima is the married man's residence. Within
 this house the cooking of the food for the family is done, and the married
 couples live. This house is known from the rest by having the front and
 back ends worked with cane, and more pains are expended on the building of
@@ -13232,7 +13174,7 @@ in the form of hoop iron, were inclined to call it heaven-root,
 to have brought some of the strong and hard base of the firmament; when axes were seen they settled into the use of the word
 
 
-3H Arts of Life. [CH<
+3H Arts of Life. [CH(
 
 talai, clam shell, for iron. In Florida, Solomon Islands, a stone
 adze was gila, the mz of San Cristoval, and whence they took
@@ -13978,7 +13920,7 @@ Island, when a hundred or more men dance and sing round a
 
 334 Dances. Music. Games. [CH.
 
-drum or drums in a hue, < the earth shakes under their feet,
+drum or drums in a hue, ( the earth shakes under their feet,
 and the land resounds about them;' and indeed it is no
 wonder that such dances give excitement and delight. The
 favourite time for dancing is a moonlight night, if the dance
@@ -14172,7 +14114,7 @@ P
 rr
 
 
--*-ZJ t0>r,
+-*-ZJ t0)r,
 
 
 TT"
@@ -14406,7 +14348,7 @@ before he showed himself ; Nunu took the sweat as a sign of
 fatness, and would desire to eat him. In Ulawa, again, there
 
 
-344 Miscellaneous. [CH<
+344 Miscellaneous. [CH(
 
 is no eating of men; it is thought that the lio'a, the ghosts of
 power, do not like it ; and at Saa it was not the old custom of
@@ -14488,7 +14430,7 @@ stranger who had escaped from a wreck on to an islet was
 killed when seen, and spoken of as a cocoa-nut that had floated
 
 
-34-6 Miscellaneous. rCH>
+34-6 Miscellaneous. rCH)
 
 ashore. ^ There was a common belief that a stranger would
 hnng with him disease or some other mischief. But it was
@@ -14899,7 +14841,7 @@ so far as it has any foundation at all in fact, it appears to
 be a fanciful exaggeration of the difference, which the coast
 people are much disposed to exaggerate, between themselves
 and the men of the- nta, the inland tracts, who have no
-canoes and cannot swim, the true < orang utan ' or man of the
+canoes and cannot swim, the true ( orang utan ' or man of the
 woods, the ' man-bush ' of pigeon-English.
 
 
@@ -15061,7 +15003,7 @@ traces of the turtle, and they said, Yes, he has saved himself
 for certain, nobody has stolen him, said they.
 
 
-36° Stories. [ciI<
+36° Stories. [ciI(
 
 
 2. The Thb.ee Fish. Ureparapapa.
@@ -15228,7 +15170,7 @@ caladium and try, will that do or not ? So he roasts it right
 off; and as he scrapes that root the smell goes out and reaches
 
 
-364 Stories. [CH<
+364 Stories. [CH(
 
 the Rat in the hole. And when it was cooked he broke it, and
 put it at the mouth of the hole. Then the Rat creeps out to
@@ -15309,7 +15251,7 @@ am I ? he said So up rose the Sun with a bang, and rolling
 from side to side. And the Sun says, Don't stand in my wa}*
 
 
-3^6 Stories. [CH>
+3^6 Stories. [CH)
 
 you will die at once; stay on my right, says he. And he
 drew aside till the Sun rose away, and then he followed ; and
@@ -15390,7 +15332,7 @@ they dragged them along here to Lo, all the people were
 down on the reefs fishing and heard nothing of it; nor
 
 
-368 Stories. rCH<
+368 Stories. rCH(
 
 did they know anything till they found the rind of the
 yams sticking to the roots of the trees along the path.
@@ -15968,7 +15910,7 @@ garden. Then he says again, Ed ! perhaps I did not observe
 exactly. So they waited again five days for the rank of Qoro-
 
 
-3^2 Stories. rCH<
+3^2 Stories. rCH(
 
 qorolava ; and when it comes to that day he goes away again
 from those two ; and he makes the same arrangements and
@@ -16057,7 +15999,7 @@ tune the mother passed the child it cried out Mother , She Ip^ d at Hs
 and asked Who s that cries Mother! to me? Eecognizing her child and
 
 
-3<H . Stories. rCH.
+3(H . Stories. rCH.
 
 man, and he turned his head again and again to look behind
 him to S66 who it was, but there was no man. And he drew
@@ -16142,7 +16084,7 @@ any at Mota ; if you disobey my word in this you will die.
 c c
 
 
-3^6 Stories. rcir<
+3^6 Stories. rcir(
 
 And on the day he bought his rank he said to them, Have
 you made all the return for my money? And they said, When
@@ -16716,7 +16658,7 @@ wonderfully fair, as they came and stood and drove away the
 sow to take her food. And Qatu jumped out, and called to
 
 
-400 Stories. [CH<
+400 Stories. [CH(
 
 them, What, is it you who are always driving away my sow ?
 1 have seen her coming back to me. These two twins let the
@@ -16883,7 +16825,7 @@ little twigs, and on the leaves, nothing but snakes on that
 D d 2
 
 
-4°4 Stories. [cH>
+4°4 Stories. [cH)
 
 banyan. But Walolo was not on the tree, because be bad
 gone across the sea and was still seeking- for men to devour.
@@ -17136,7 +17078,7 @@ of a number of people coming- along underneath the gavi-atree And he woke up thi
 brothers lookiug for him ; but it was not so, these were
 different persons; these were Mera-mbuto and his brothers
 coming along, and they climbed up the gaviga-tree themselves. And Tagaro-mbiti sits perfectly still lest they should
-see him, and he hears one of them say <Inm ranganggn ngaha,'
+see him, and he hears one of them say (Inm ranganggn ngaha,'
 This is my branch, and another cries 'Ineu ranganggu ngaha '
 and so say all of them. Then says Mera-mbuto 'Ineu ranganggu
 ngaha lo vnlmngegi; This is my branch at the top; and this
@@ -17200,1121 +17142,3 @@ Mera-mbuto asked him, Are you sitting like this ? Tagaro
 said, Yes. So Mera-mbuto said to him, My turn now, to-night
 you set fire to my house. So Tagaro set fire to his house, and
 the fire burnt him up.
-
-
-• >
-
-
-INDEX.
-
-
-Abomination, buto, p. 31.
-Abortion, 229.
-Acting, 342.
-
-Admission to Clubs, 105.
-
-— to Mysteries, 80.
-Adoption, 25, 27, 42, 51 note.
-Adultery, 243.
-
-Agnatic descent, 29.
-
-Alite, 298, 325.
-
-Alligators, see Crocodiles.
-
-Ainbrym, 13, 72, 84, 144, 174, 288
-
-note, 306, 332, 337, 355.
-Amulets, 121, 134, 184.
-Anaiteum, 123.
-Animism, 123.
-Antiquity, 48.
-
-Apes, anthropoid, 19 note, 354.
-Araga, see Pentecost Island.
-Arrows, Poisoned, 215, 306.
-Arts of life, 290.
-
-— Decorative.
-Atai, 250.
-Atolls, 17.
-
-Aurora Island, Maewo, 6, 25, 86, 112,
-143, 168, 182, 199, 201, ■540, 291,
-
-298. 3°9, 3*3, 319. 323, 333, 34°.
-
-352, 369.
-Australian Mysteries, 70.
-Avoidance, 43, 232.
-
-Badges, 75, 82, 87, 110, 112.
-Bamboo Knife, 315.
-Bananas, 319.
-
-Banks' Islands, 2, 3, 4, 7 note, 16, 23,
-
-24. 29, 35> 43. 54, 63, 72, 75, 104,
-123, 139, 146, 151, 174, 181, 198,
-211, 214, 216, 219, 225, 229, 231,
-236, 239, 245, 265, 298, 306, 311,
-313, 3i8, 319, 322, 325, 333, 334,
-
-^ 34°, 342, 348, 353, 354-
-Bastards, 236.
-
-
-Bauro, 4 note, 6 note.
-Belief in Magic, 193.
-Bellona Island, 2, 16, 313, 322.
-Betel nut, I, 9 note, 351.
-Betrothal, 237, 238.
-Bice, Rev. C, 241 note, 301 note, 304
-note.
-
-Bird's-nest Fern, 265, 277, 279.
-Birgus latro, 19.
-Birth, 230.
-Biu IslanH, 19.
-Bligh, 4, 7 note.
-
-— Island, see Uieparapara.
-Bonesetters, 198.
-Bonito, 179, 233.
-Bougainville, 3.
-Boundaries, 65 note.
-Bows, 8, 304.
-
-Bowls, 316.
-
-Breadfruit, 83 note, 319.
-Brenchley, Mr., 5, 122, 295, 299 note.
-Bridge of Dead, 257.
-Brothers and Sisters, 36, 232.
-Bugotu, 30, 135, 180, 196, 256, 299,
-
-300, 302, 318, 343, 345.
-Bull-roarers, 80, 98, 342.
-Burial, 254, 257, 258, 261, 263, 267,
-
-270, 278, 284, 287, 288 note.
-Burning alive, 347.
-
-— the dead, 263.
-Burying alive, 288, 347.
-
-— in sea, 254, 258, 262.
-
-— wives, 257.
-Buto, 31.
-
-Caladium, 304 ; see Taro.
-Canarium, 132, 138, 320.
-Cannibalism, 343, 395 note, 398.
-Canoe-houses, 258, 299.
-Canoes, 290.
-
-Capture in Marriage, 238 note, 240.
-
-
-Index.
-
-
-Carving, 172.
-Castanets, 339.
-Castaways, 345.
-Casuarina, 186.
-Catamarans, 293 note, 294.
-Cat's-cradle, 341.
-Cause of Sickness, 196.
-Celebes, 317 note.
-
-Changeling Snakes and Spirits, 172,
-187, 188. ' ' '
-
-— Trees, 187.
-Channels, 16.
-Charms in food, 49.
-
-— sung, 119, 161, 190, 198, 202, 359,
-
-395*
-Chastity, 235.
-
-Chiefs, 46, 47, 50, 51, 54, 56, 60.
-
-Childhood, 231.
-
-Childless Ghost, 275.
-
-Children in Societies, 70,81, 84, 92,98.
-
-Circumcision, 234.
-
-Classes of Ghosts, 253.
-
-Cloak in Mysteries, 78, 81 note, 91 , 99.
-
-Close-time in Mysteries, 83, 95.
-
-Cloth, 320.
-
-Clothing, 321.
-
-Club-houses, 102.
-
-Clubs, 306.
-
-— Societies, 101, 103, 104,' 110, 112
-114.
-
-Cockatoos, 17.
-
-Cocoa-nut, to mark absence, 77.
-Comet, 348.
-
-Com ins, Eev. E. B., 42 note.
-Communal Marriage, 27.
-Contrarie'te Island, see Ulawa.
-Cook, Capt., 4.
-Cookery, 319.
-Coral, 14.
-
-Cotoira, 2 note, 9 note.
-Counting, 341, 353, 377.
-
-— days, 272.
-
-— son^, 341.
-Couvade, 228.
-Creation, 26, 28, 154, 171.
-Cremation, 263.
-Crocodiles, 18, 179, I So.
-Cultivations, 303.
-Curses, 51, 147, 216.
-Cuscus, 17.
-
-Cycas, 186.
-
-Dances, 84, 87, 91, 93, 95, 332.
-Darkness universal, 182.
-Death, 247.
-
-— Days, 271.
-
-— Meals, see Funeral Feasts.
-
-— Origin of, 260, 265.
-Decorations, 111, 116, 386.
-
-
-Decorative Arts, 328.
-Deliverance Feast, 112.
-Descent in Family, 22, 41.
-
-— to Hades, 277, 286.
-
-— of Property, 59.
-
-Destruction of Property after Death,
-
-255, 263, 285.
-Devil, 117, 122.
-Discoveries, 2, 8.
-Diseases, 12 note.
-Disposing of corpses, 267, 269.
-Divination, 196, 210.
-Division of People, 21, 24, 400.
-Divorce, 244.
-Doctors, 195.
-Dreamers, 208.
-Dreams, 208, 249, 266.
-Dress, 107, 23T, 234, 241, 321.
-Drill, 325.
-
-Driving Ghosts, 2 70.
-Drums, 175, 336.
-Dugong, 318.
-Dukdtik, 69.
-Dye* 322, 323.
-
-Ear ornaments, 330.
-
-Ears pierced, 232, 265 note, 280.
-
-Eclipses, 348.
-
-Eels, 18, 318.
-
-Elevation of land, 16.
-
-Elopement, 240.
-
-Enclosures, 84, 86.
-
-Entrance to Clubs, 105.
-
-— to Hades, 273.
-
-— to Mysteries, see Initiation.
-
-— payments, 81, 84, 92, 103, 106, 115.
-Espiritu Santo, 3, 6, 8, 17, 306, 315.
-Exclusion of Women, 1 28.
-Exogamy, 21, 24, 29, 34.
-Exorcism, 220.
-
-Fagani, see Ha'ani.
-Fainting-- 260, 287.
-Familiar Spirits, 142.
-Family, 25, 26, 34, 68.
-
-— System, 35, 40.
-Fasting, 107, 205.
-Feasts, 104, 108, no, 112.
-
-— funeral, 255, 259, 261, 264, 271,
-273, 280, 282, 284, 287.
-
-Feather-money, 324.
-
-Fenua loa, 1 7-
-
-Fighting, 305.
-
-Figure-heads, 296.
-
-Figures in Mysteries, 87, 96.
-
-Fiji, 2, 22 note, 34, 43, 48, 59, 61
-note, 64 note, 69, 72, 122, 147
-note, 198 note, 246 note, 248, 315,
-3T9> 34°-
-
-
-Index,
-
-
-Fines, 30, 52. _
-
-Fingers, counting on, 353.
-
-Fire, 320. >
-
-First-fruits, 95, 133, 138, 139.
-Fishing, 316.
-
-— hooks, 316.
-
-— Boats, 317.
-
-— kites, 318.
-
-— nets, 317, 358.
-
-— traps, 318.
-
-Fison, Rev. Lorimer, 22 note, 48 note,
-59 note, 61 note, 64 note, 72, 122,
-147, 198, 246 note, 24S.
-
-Flies, 18.
-
-Floats, 317.
-
-Flood, 166.
-
-Florida Island, 3, 5 note, 16, 23, 29,
-40, 61, 73, 94, 124, 130, 145, 174,
-175, 180, 194, 200, 209, 210, 214,
-215, 217, 21S, 235, 237, 242, 249,
-254. 257, 295, 300, 305, 325, 333,
-337, 343, 345> 348, 352, 353, 354-
-
-Flutes, 339.
-
-— iEolian, 340.
-Food, 319.
-
-— fragments of, 203.
-
-— offered to Dead, 128, 147, 259, 271,
-283.
-
-— of Ghosts, 260, 2S6, 288.
-Forbes, Mr., 186 note, 262 note.
-Forts, 302.
-
-Fowls, 10, 18.
-Fragments of food, 203.
-Frigate-birds, 126, 145, 179, 180, 257.
-Frogs, 17.
-
-Fruit-trees, property in, 6r, 62, 65,
-68.
-
-Funeral feasts, see Feasts.
-
-— oration, 268.
-Funerals, 268, 281, 284, 287.
-Futuna Island, 8, 15.
-
-Gallego, 2 note, 5 note, 8.
-Qamal, 101, 113, 298.
-Gaines, 340.
-
-Gardens, 59, 68, 303, 349.
-
-— Spirits, 134.
-
-Gaua, Santa Maria, 3, 13, 1 7, 85, 86,
-
-105, 166, 189, 268, 302.
-Geology, 13.
-Gera, Gela, 5, 16.
-Ghost-shooters, 205.
-Ghosts, II, 120, 125, 194, 196, 247,-
-
-253, 260, 288.
-
-— Societies of, 75.
-
-Ginger, 133, 180,' 195, 197, 200.
-Gods, 122, 124.
-Grafting, 304.
-Graves, 257.
-
-
-Guadalcanar, 5, 327, 354.
-
-Guest-wives, 24.
-
-Gulf Island, see Ugi.
-
-Guppy, Dr., 2 noter 5 note, 9 note, 1 9
-
-263 note, 290, 294 note, 299 note,
-
-317 note.
-
-Ha'ani, 173, 294, 301.
-
-Hades, 255, 256, 260, 264, 273, 280,
-
-285, 287, 367, 395.
-Harlots, 235.
-Hats, 69, 77, 85, 104.
-Haunting Ghosts, 255, 258, 261, 264,
-
-267, 288.
-Head, 43, 45, 233 note.
-
-— hunting, 345.
-
-— taking, 257, 297, 301, 345.
-Heaps of Stones, 185.
-Heavenly Bodies, 348.
-Hereditary Succession, 50, 55, 56.
-Hickson, Dr., 317 note.
-
-Hot Springs, 1 3.
-House-mounds, 48, 66, 68, 301.
-House-sites, 61, 65, 301.
-Houses, 298.
-
-Human Sacrifices, 134, 297, 301.
-Idols, 173.
-
-Images, 105, 110, 173, 259.
-Implements, 313.
-Incest, 23, 30.
-Infancy, 230.
-Infanticide, 229.
-
-Inheritance, 50, 59, 64 note, 65, 67,
-68.
-
-Initiation, 70, 80, 84, 86, 88, 92, 97,
-233-
-
-Intercourse of Sexes, 23, 235.
-Invocations, 50, 145, 148.
-Iron, 313.
-
-Irregular intercourse, 23, 235.
-Irrigation, 303.
-
-Jew's-harps, 339.
-Joske, Mr., 72.
-
-Journey of the Dead, 256, 279, 285.
-Judgment after Death, 256, 257,
-269, 274.
-
-Kahausibware, 150.
-
-Kava, 1, 3, 351. '
-
-Kema, 30, 33.
-
-Kindreds, 24, 29.
-
-Kingfishers, 147, 190, 221, 257.
-
-Kinship, 21, 37, 40, 41.
-
-Kissing 354-
-Kites, 342.
-
-— fishing, 318.
-
-— song, 336.
-
-
-Index.
-
-
-Koevasi, 21.'
-Kolekole, no, 392.
-
-Lagoons, 17.
-Lakes, 17, 166.
-
-Lakona, Santa Maria, 13, 66, 86, 157,
-
-266, 272, 275, 293 note, 318, 341.
-Land, 29, 50, 59, 61, 65 note.
-
-— reclaimed from forest, 61, 62, 64,
-67.
-
-Lang, Mr. A., 91.
-La Perouse, 4.
-
-Lepers' Island, 3, 14, 24, 26, 45, 56,
-67, "3, i?o, 183, 199, 201, 207,
-210, 213, 214, 218, 223, 229, 230,
-232, 236, 322, 323, 337, 344, 347,
-
-348. 353= 355. 371-
-Levirate, 244.
-
-Libations, 128, 147.
-
-License at Feasts, 27.
-
-— of Societies, 83, 98.
-Lifting brides, 238, 242.
-Lizards, 180.
-
-Lodges, 72, 77.
-
-Looms, 10, 20, 316, 321.
-
-Lopevi, 13.
-
-Loyalty Islands, 1, 15, 324.
-
-Madagascar, 21.
-Madness, 218.
-Mae, Three Hills.
-Maewo, see Aurora Island.
-Magic, 191.
-
-— Sympathetic, 200, 214, 310.
-Magicians, 191.
-
-Mala, Malaita, Malanta, 3, 4, 5, 16,
-
-33. 33°, 345. 346.
-
-— Paina and Masiki, 16.
-Malanta, see Saa.
-Malicolo, 3.
-
-Man, making of, 21, 157, 167, 171.
-
-— in Moon, 348.
-
-Maria, 51, 57, 90, 103. 115, 119,191,
-
-200, 307.
-Manslaughter, 133.
-Mara, see Mala.
-
-Marawa, 152, 157, 373, 383 note.
-Marina, Espiritu Santo.
-Marriage, 23, 27, 37, 238, 240, 242.
-Masks, 69, 72, 77, 83, 96.
-Mat, 316.
-
-— money, 323.
-Matambala, 69, 94.
-Matema Group, 17.
-Maternal Descent, 21.
-Matriarchal System, 34.
-Max M tiller, Prof., 118 note.
-Measures, 353.
-Medicine, 195.
-
-
-Megapod, 17.
-Mendana, 2, 9.
-Meralava, Star Island.
-Merig, Sainte Claire Island.
-Merlav, Star Island.
-Messer, Dr. R. N., 307 note.
-Metamorphosis, 207.
-Mission Voyages, 10 note.
-Money, 63, 66, 323.
-
-— feather, 324.
-
-— lending, 326.
-
-— mat, 323.
-
-— shell, 325.
-Months, 349.
-Moon, 348.
-
-— Man in, 348.
-Mosquitos, 18.
-
-Mota, Sugarloaf Island, n, 15, 18,
-25, 35, i°4, 147, 158, 223, 250,
-266, 292, 337, 340, 342, 346, 347,
-
-349, 353, 379-
-Mother-in-law, 42.
-
-Motlav, Saddle Island, 25, 47, 48, 55,
-
-66, 146, 181, 211, 249, 268, 274.
-Mourning, 245, 282.
-Music, 337.
-
-Musical Instruments, 336.
-Mysteries, 69.
-
-Names of Islands, 4, 5 note, 7.
-
-— new personal, 87, 94, 114.
-
-— not mentioned, 43.
-Nanga of Fiji, 69, 72.
-Narcotics, 351.
-
-Native Names of Islands, 4, 5, 7.
-Ndeni, Santa Cruz, 5.
-Nearness in blood, 29.
-Nets, 317.
-
-New Caledonia, 2, 13, 69, 73.
-
-New Hebrides, 2, 3, 6, 24, 56, 67, 72,
-84, 86, 124, 143, 148, 151, 199, 240,
-29], 298, 309, 313, 319, 337, 340,
-
-342, 344. 345, 348, 351, 353, 355-
-Nggela, Florida, 16.
-Night, 156, 171.
-Nitendi, 5.
-Nopitu, 153.
-Nose-rings, 231, 256.
-Nufilole Island, 17.
-
-Oaths, 217.
-
-Oba, Omba, Opa, see Lepers' Island.
-Offerings, 127.
-
-Olu Malau Islands, Three Sisters, 5
-
-note.
-Omens, 220.
-Ordeals, 212.
-
-Origin of Chiefs power, 51, 56, 116,
-167.
-
-
-Index.
-
-
-Origin of Death, 260, 265, 283, 286.
-
-— of Kindreds, 26.
-
-— of Man, ar, 26.
-Original Self, 253.
-Ornamentation, 328.
-Ornaments burieil, 254, 263, 268.
-Ovens, 320.
-
-Owa-raha and -rii, 5 note.
-Paddles, 297.
-
-Palmer, Eev. J., 14, 81 note, 83 note,
-199 note, 201 note, 268 note, 269 note.
-Palolo, 350.
-
-Panoi, 264 ; see Hades.
-
-Panpipes, 337.
-
-Paternal Descent, 22, 41, 50.
-
-Path of the Dead, 256, 275, 278, 285.
-
-Patriarchal System, 22, 41, 50, 68.
-
-Patteson, Bishop, 4 note, 6 note, 9,
-10 note, 11, 12 note, 74 note, 85
-note, 121 note, 144, 166, 294 note,
-301, 302.
-
-Pedigree of Mota family, 37.
-
-Penny, Rev. A., 99 note, 176 note,
-
-257 note> 356.
-
-Pentecost Island, Whitsuntide Island,
-Araga, 3, 26, 45, 48, 67,92,114, 169,
-183, 187,188, 199, 209, 228,230,
-240, 253, 286, 311, 323, 344, 347.
-
-Personal Property, 63, 66, 67.
-
-Pigs, 57 note, 249.
-
-— souls of, 249, 263, 269.
-
-— world, 286.
-Pile-houses, 300.
-
-Piper methysticuni, Kava, 351.
-
-Pipes, 337, 352.
-
-Pitcairn Island, 342.
-
-Places, Sacred, 173.
-
-Plant, Eev. J. H., 238 note.
-
-Poison, 213.
-
-Poisoned Arrows, 306, 368.
-Polyandry, 245.
-Polygamy, 39, 245.
-Polynesian Colonies, 2, 322.
-Possession, 153, 209, 218, 224.
-Pottery, 315.
-
-Power of Chiefs, 47, 51, 56, 1 16, 167.
-Prayer, 127, 145, 148.
-Priests, 128, 132.
-Primogeniture, 64.
-Property, 33, 50, 59.
-
-— personal, 63, 66, 67.
-
-— in trees, 6i, 65 note, 68.
-Prophecy, 209.
-
-Public Halls, 102.
-
-Qat, 11, 31, 22, 154, 156, 397, 398.
-
-— Society, 69, 75, 84, 86.
-Quiros, 2, 5, 7, note.
-
-
-Rainbow, 341.
-Eainmaking, 200.
-
-Eanks in Societies, 103, 104, 113, 115,
-
-385> 391-
-Eattles, 342.
-
-Eeclaimed Land, 61, 62, 64, 67.
-Eed, 183.
-
-Eedemption of Land, 65.
-Eeef Islands, 17.
-
-Eeef Islands of Santa Cruz, 2, 6, 9,
-
-17. 232, 346-
-Eeflection, 250.
-
-Relation of Brother and Sister, 36.
-
-— by Marriage, 37.
-
-— in Polygamy, 39.
-
-— of Sister's son, 24.
-Eelationship, 35.
-Eelics, 126, 134, 258, 262.
-Eeligion, 117, 123.
-Eennell Island, 2, 16, 313.
-Reserve, 42, 232, 242.
-Respect, 45.
-
-Restriction on intercourse of sexes,
-
-23, 43-
-
-— on Marriage, 30.
-Retainers, 52, 58.
-Eomilly, Mr., 307.
-
-Eowa Island, 7, 17, 298, 327.
-Eubbing noses, 354.
-
-Saa, Malanta, 48, 63, 124, 136, 176,
-191, 209, 212, 216, 219, 221, 230,
-233: 235, 238, 250, 260, 288, 299,
-3°5> 3l6, 336, 344. 349. 352> 353,
-355-
-
-Sacred Places and Things, 173, 177.
-Sacrifices, 128, 144 note.
-
-— in Ambrym, 144.
-
-— in Aurora Island, 143.
-
-— in Banks' Islands, 139.
-
-— of First Fruits, 132, 138, 139.
-
-— in Florida, 1 30.
-
-— Human, 134.
-
-— in Lepers' Island, 144.
-
-— in New Hebrides, 139.
-
-— in Pentecost Island, 143.
-
-— at Saa, 1 36.
-
-— in San Cristoval, 129, 138.
-
-— at Santa Cruz, 139.
-
-— in Ysabel, 135.
-
-Saddle Island, see Motlav and Valuwa.
-
-Sago, 319.
-
-Salagoro, 73, 77.
-
-Sale of Land, 50, 60, 65 note.
-
-Salt, 311 note.
-
-Salutations, 354, 394.
-
-San Cristoval Island, 3, 4, 12 note,
-17, 41, 42 note, 51 note, 124, 129,
-138, 146, 150, 177, 179, 190, 196,
-
-
-4i8
-
-
-Index,
-
-
--28, ;229, 235, 245, 294) 299, 303,
-
-305, 318, 325, 329. 333, 336, 344,
-345, 352.
-
-Santa Ana Island, 5 note.
-
-Santa Catalina Island, 5 note.
-
-Santa Cruz Island, 2, 3, 5, 9, 17, 18,
-2°> 43, 59, 63, 139, 167, 174, 180,
-196, 201, 231, 232, 239, 249 note,
-263, 293, 301, 312, 313, 3I7, 3I9,
-
-321, 324, 333, 342, 348, 351.
-Santa Maria Island, 3, 7, 13, 85, 86,
-
-105, 166, 189, 268, 302, 351. See
-
-Lakona.
-Santo, Espiritu Santo.
-Savo, 3, 5, 13, 18, 179, 206, 214, 255,
-
-345-
-Saw, 315 note.
-Sea-ghosts, 196, 258.
-Seasons, 349.
-
-Seclusion in Mysteries, 81, 84, 86, 93,
-95, 100.
-
-Secret Societies, 54, 69., 74 note, 75,
-
-76, 86, 91, 94.
-Selwyn, Bishop, 6 note, 10 note.
-
-— Bishop John, 9, 14, 17, 95, 125,
-204, 239 note, 282 note, 298 note,
-303 note.
-
-Separation of Sexes, 43, 232.
-Sesarga Island, 5.
-Shadow, 176, 209, 247, 250.
-Sharks, 126, 179, 187, 259.
-
-— fishing for, 318.
-
-Shell Implements, 16, 313.
-
-— Money, 325.
-Shields, 305.
-
-Ship of the Dead, 326 note.
-
-— first seen, 35 2 note.
-Shrines, X26, 130, 175, 177.
-Sickness, T94.
-
-' Side of House,' 25.
-Sister's son, 34, 41 , 380, 400.
-Slaves, 346.
-Slings, 305.
-
-Snakes, 18, 178, 187, 199.
-Sneezing, 40, 211, 226.
-Social Regulations, 20, 46.
-Societies, Clubs, 101, 103, 104, 110,
-
-114, 115.
-Sogoi, 25.
-
-Solomon Islands, 2, 3, 5 note, 22, 40,
-
-94, I24, I29, *75, 294, 3°9- 3[3.
-316, 317, 319, 339, 342, 343, 348,
-
-35i, 352, 353-
-Songs, 85, 93, 334.
-
-— Dialect, 334.
-Soul, 247, 267.
-
-Sounds in Mysteries, So, S3, 95.
-Spanish Discoveries, 2.
-
-— Names, 4.
-
-
-Spears, 305.
-Spells, 147.
-
-8l'!1r!8'Ir«0'I2Q3' 125, r34, Ho, 150,
-151, 16S, 248.
-
-Star Island, Meralava, 6, 7, 14, 303
-
-Stars, 348.
-
-Stepfather, 40.
-
-Stone-boiling, 315.
-
-— buildings, 302.
-
-— implements, 16, 313.
-
-Stones, 119, 140, 143, 151, 169, 175,
-
-178, 180, 183, 185.
-Stories, 356.
-Streams, 177, 186.
-Stringed Instrument, 339.
-Succession of Chiefs, 53, 55, 56.
-
-— of Property, 29, 59, 6i,- 63, 66, 67,
-
-Oo.
-
-Sugarloaf Island, Mota.
-Suicide, 243.
-Sumatra, 186 note.
-Sun, 200, 348, 365.
-
-— making, 184, 201.
-Sup we Spirit, 168.
-
-Suqe Club, 102, 112, 114, 385, 390.
-Surf-board, 341.
-Surville, 4.
-
-Swallow Group, 2, 17.
-Swearing, 217.
-
-Sympathetic Magic, 200, 214, 3*10.
-System of Relationship, 35.
-
-Taboo, iambu, tapu, 31, 63, 77, 82,
-
-94, 182, 215.
-Tagaro, 21, 168, 369.
-Tamate, 69, 72, 75, 266.
-Taro, 304, 319.
-Tas, 17, 186.
-
-Tattoo, 232, 234, 237, 240, 241, 331.
-Taumako, 5.
-
-Teeth, dog and porpoise, 325.
-Terms of Relationship, 35, 40.
-Tetanus, 312.
-Thanks, 354.
-Thatch, 299.
-
-Three Hills Island, 330, 355.
-
-Three Sisters Island, 5 note.
-
-Tikopia, 1, 6 note, 17, 319, 346, 351.
-
-Timor, 186 note, 262 note.
-
-Tinakula, 13.
-
-Tindalo, 125, 249.
-
-Tobacco, 352.
-
-Tonga, 303, 321, 343.
-
-Tools, 16, 313.
-
-Tops, 242.
-
-Torres, 2.
-
-Torres Islands, 3, 7, 16, 75, 104, ill,
-224, 231, 264, 293 note, 306 note,
-307, 30S, 313, 327, 351, 373.
-
-
-Index.
-
-
-Totems, 32.
-
-Town lots, 59, 61, 63, 65, 67.
-Toys, 342.
-Trade, 297.
-
-Tradition, absence of, 47.
-Translation of Relics, 126.
-Treatment of Wounds, 310.
-Tree-houses, 301.
-
-Trees cut down at death, 255, 263,
-
-a8s- , , , .
-
-— property in, 61, 05, 6S.
-
-— sacred, 186.
-
-Trials of the Dead, 256, 257, 265 note,
-
-275, 2S0, 287.'
-Tribes, 21, 33 note.
-Tricks of Ghosts, 223.
-Twins, 230.
-
-Ugi, Gulf Island, 5.
-
-Ulawa, Contrariety Island, 3, 5, 32,
-
-i79> lS°, 235, 294, 343, 346-
-Ureparapara, Bligh Island, 13, 81, 84,
-114, 269, 272, 298 note.
-
-Valuwa, Saddle Island, 185, 186, 205.
-
-Vampires, 221.
-
-Vanikoro Island, 4.
-
-Vanua Lava, Great Banks' Islands,
-
-n, !3, J7> 43, H1, 3°3, 3o6 note,
-
-375-
-
-Variety of Flowers and Plants, 304.
-Vat Ganai, 7 note.
-Vava, Torres Islands.
-Veve, 24, 28.
-Vigona, 151.
-
-
-Villages, 59, 61, 66.
-Visitors, appearance of, 10.
-Volcanos, 13.
-Vui, 123, 151.
-
-Wandering Ghosts, 219.
-Washing, 84, 86, 93, 320.
-Water, sacred, 177, 186.
-Weaning, 231.
-Weapons, 304.
-Weather Doctors, 184, 200.
-
-— Spirits, 134.
-Whistling, 342.
-Widowhood, 245.
-Wild Men, 19 note, 354.
-Wills, 66, 68.
-
-Winged Women, 172, 397.
-Witchcraft, 191, 202.
-Wizards, 192.
-
-Women, exclusion of, 69, 74, 87, 92,
-
-94, i°3-
-
-— Clubs, 110.
-
-— Dress, 234, 241, 321.
-Woodford, Mr., 2 note, 5 note, 9 note,
-
-] 32 note.
-Words forbidden, 44. •
-World, 11.
-Worship, 124.
-
-Yams, 319, 367.
-
-Ysabel Island, 3, 4 note, 30, 135, 175,
-180, 196, 256, 299, 300, 302, 318,
-343, 345, 348-
-
-Zoology, 17.
-
-
-THE END.

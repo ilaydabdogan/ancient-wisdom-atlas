@@ -1,119 +1,3 @@
-# The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous Fragments
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-[3i]
-
-
-IT 0 n iron
-
-HENRY FROWDE
-
-
-Oxford University Press Warehouse
-Amen Corner, E.C.
-
-
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-TRANSLATED
-
-
-BY VARIOUS ORIENTAL SCHOLARS
-
-
-AND EDITED BY
-
-
-F. MAX MULLER
-
-
-VOL. XXXI
-
-
-AT THE CLARENDON PRESS
-
-
-[ All rights reserved]
-
-
-THE ZEND-AVESTA
-
-
-PART III
-
-
-THE YASNA, VISPARAD, AFRlNAGAN,
-
-gAhs, AND
-
-MISCELLANEOUS FRAGMENTS
-
-
-TRANSLATED BY
-
-
-L. H. MILLS
-
-
-AT THE CLARENDON PRESS
-
-
-[ All rights reserved ]
-
-
-CONTENTS.
-
-
-PAGE
-
-PREFACE ix-xvi
-
-INTRODUCTION xvii-xlvii
-
-Abbreviations xlviii
-
-
-TRANSLATIONS.
-
-The Gathas (Yasna XXVIII-XXXIV, XLIII-LI, LIII) i-i 94
-Yasna I-XXVII, XXXV-XLII, LIL LIV-LXXII . 195-332
-Visparad I-XXIII .
-
-.A
-
-Afrinagan I-III
-
-
-GahsI-V
-
-Miscellaneous Fragments
-Index ....
-
-
-333-364
-365-375
-
-377-388
-
-389-393
-395-4oo
-
-
-Transliteration of Oriental Alphabets adopted for the
-Translations of the Sacred Books of the East
-
-
-401-404
-
-
 PREFACE.
 
 It would savour of affectation for me to say very much
@@ -262,7 +146,7 @@ as irksome both to reader and writer. I have also not invariably cited the obvio
 which have been adopted, and which are so familiar to the
 
 
-1 Chiefly as to 3, {, K5, (0; ^, £L, !?, », <UT; but I write * a, \> z.
+1 Chiefly as to 3, {, K5, (0; ^, £L, !?, », (UT; but I write * a, \) z.
 
 2 As in Ammaiti, Vohu Manah, &c. I also write Neryosangh, and in a
 few places Gatha'^a), Ahunavaiti(i), &c. I regret not to have written Mazdah
@@ -2023,7 +1907,7 @@ but the afflictions complained of seem rather to imply active violence.
 ' yu ' and ' vi ' would be written much alike in a manuscript.
 
 4 Vasta has been found, as I understand, in some manuscripts.
-The Persian manuscript of Haug has a curious vastiri</ar (vastaridar ?) in the Pahlavi text, which seems to confirm vasta in the
+The Persian manuscript of Haug has a curious vastiri(/ar (vastaridar ?) in the Pahlavi text, which seems to confirm vasta in the
 sense given.
 
 5 As there are very many non-specialists to whom it is important
@@ -2207,7 +2091,7 @@ Ahura.
 
 1 Or a company of the saints conceived to be present.
 
-2 So some writers, accepting an irregular reading ^z>arushaeibyo
+2 So some writers, accepting an irregular reading ^z)arushaeibyo
 after the indication of the Pahlavi translation. Otherwise compare
 'rush' (?), uru = ru, and render 'to the estranged.' We have often
 to stretch the meaning more than this. Converting instructions
@@ -2346,7 +2230,7 @@ with Barth.), is also quite sufficiently indicated by the lanman of
 the Pahlavi. Whether an instrumental Ama can be accepted is
 doubtful. The form should be altered.
 
-If <?hma stands, intern must be understood, or the instrumental
+If (?hma stands, intern must be understood, or the instrumental
 taken in a possessive sense.
 
 Ahma has no authority from MSS., but is better than
@@ -2583,15 +2467,15 @@ Bountiful Immortals as together.
 
 5 See Y. L, 5. Uvaihra. and its allied forms are so often associated
 with rao£ah and the like, that I do not hesitate to accept an Iranian
-^z>an = to shine (with Justi). As there is an Indian svar which
+^z)an = to shine (with Justi). As there is an Indian svar which
 means 'to roar,' and another 'to shine,' and again a svan = to
-sound, so in Iranian there is a /$z>an=to sound, and another=
-to shine, as in asmanem ^z>anva«tem. The ' comfortable stone
+sound, so in Iranian there is a /$z)an=to sound, and another=
+to shine, as in asmanem ^z)anva«tem. The ' comfortable stone
 heaven ' is difficult. Comfortable, or even ' delectable mountains '
 (so we should have to say elsewhere), are not very likely to have
 been recognised or appreciated in the Avesta. 'Glorious beatitude'
 is a better rendering here. If /ivaihra. always means 'comfort,'
-how comes it that ^z>areno is said to be /foathrava/ ? 'Comfortable
+how comes it that ^z)areno is said to be /foathrava/ ? 'Comfortable
 glory ' is hardly probable. Compare also the ancient mbha. When
 it is the fashion to accept a separate Iranian root at every difficulty,
 small and great, I see no reason for stopping here, where the pressure is considerable. The Pahlavi also may be read to favour
@@ -2670,7 +2554,7 @@ word has never been accepted. Those most opposed to tradition
 follow it here. Perhaps, ' I will teach to desire R.'
 
 2 The Pahlavi translation corrected by MSS. may be rendered
-thus : He who gives up his soul within Garo</man does so by the
+thus : He who gives up his soul within Garo(/man does so by the
 aid of Vohuman [ ], and is also intelligent concerning the veneration which belongs to the doers of good works [ ] in that which
 is Auharmazd's [religion] ; as long as I am a suppliant and have
 the power, so long do I inculcate the desire of Righteousness
@@ -3098,7 +2982,7 @@ and even ashayae/£a(?) has been conjecturally suggested for this
 place and chap. LI, 2. Neither Sp. nor Westg. report a long e.
 
 1 Goshano sriW nyokhshunih [aighaj gosh bara. varammunrf] —
-Zak 1 roshano. Otherwise ' with the eye ; ' but see ya raoM>fa
+Zak 1 roshano. Otherwise ' with the eye ; ' but see ya raoM)fa
 daresata urvaza. The altar-flame would not unnaturally be mentioned after the heavenly lights.
 
 2 Literally, '(be ye) wakeful.'
@@ -3205,7 +3089,7 @@ language.)
 idea in the Gathas ; compare, ' who holds them from the sight of
 the truth,' &c.
 
-4 The root is indicated by va muni<£ valmaman frift. I can
+4 The root is indicated by va muni(£ valmaman frift. I can
 see no escape from the above rather adventurous rendering. See
 also dafshnya he«tu in chap. LIII, 8. Perhaps the idea of injury
 here preponderates over that of deceit; 'since we have impaired
@@ -3235,7 +3119,7 @@ nominative in the sentence ; cp. Vedic usage.
 1 That they might disease (so literally) the lives of those who
 had not yet been tempted or fallen.
 
-The Pahlavi : Vimarini</6 ahvan i man/uman [aigh, levatman
+The Pahlavi : Vimarini(/6 ahvan i man/uman [aigh, levatman
 aeshm amutaan ahukinend].
 
 Ner. : Ye ni^aghnur bhuvanazw manushyana#z.
@@ -3395,8 +3279,8 @@ Pahlavi. May this not be intended to express ' learning,' whereas
 amuzuno would express ' teaching ? ' I hardly think so.
 
 4 The Pahlavi translation is only remotely if at all responsible
-for kvitiM as = sua sponte. This would require fonti as=*/2Z>ati with
-difficulty comparing ' yim ' and ' y<?m '(?). It is generally considered
+for kvitiM as = sua sponte. This would require fonti as=*/2Z)ati with
+difficulty comparing ' yim ' and ' y(?m '(?). It is generally considered
 now as=hu + iti ; but the letter YJ = yfy seems doubtful.
 
 5 Read aniti=' with impeded progress.' ' In prosperity or adversity.' But these are conjectures.
@@ -3633,7 +3517,7 @@ welche nach des Unholds Geboten,' &c. Hubschmann preferring
 sense, although in so rendering we are obliged to supply a word.
 
 2 Valmaman mun pavan afringanih i Drug- zak i Aharayih
-gehan bara maren^inen</.
+gehan bara maren^inen(/.
 
 3 The Pahlavi may be rendered as follows : Both these benedictions, which I (we) recite as yours [the Avesta and Zand], we are
 teaching by word to him who is no hearer, [to the destroyer of
@@ -3829,7 +3713,7 @@ shining lights.
 
 3 Hiibschmann, ' der Schopfer des Asha.' — Casuslehre, s. 190.
 
-4 Pavan minavadikih vakhshineV/ [ ] mun kevanL£ ham khti</ai.
+4 Pavan minavadikih vakhshineV/ [ ] mun kevanL£ ham khti(/ai.
 
 5 Compare the frequent expression ' spe«tem a/ Thwa meNhi,' in
 chap. XLIII.
@@ -4014,7 +3898,7 @@ right indication.
 
 1 See verse 5.
 
-2 Mun nW6, muni£ yamtune<fo, 'What has come? And what
+2 Mun nW6, muni£ yamtune(fo, 'What has come? And what
 is coming ? '
 
 3 Mun avam. 4 HaM in the Indian sense.
@@ -4470,7 +4354,7 @@ are famed in the sevenfold 7 earth !
 men, giving forth the worst deeds, will speak 9, as of
 
 
-1 Aigh Spendarma</ Lekum rai .rapir doshem [bundak mmisnih] zak i lanman aito [aighmano pavan tanu mahman yehevtinarf].
+1 Aigh Spendarma(/ Lekum rai .rapir doshem [bundak mmisnih] zak i lanman aito [aighmano pavan tanu mahman yehevtinarf].
 
 Neryosangh : To these the Great Wise (One), the Lord, answered
 in the lordship of the highest (best) mind ; [that is, if, or since,
@@ -4500,7 +4384,7 @@ known.
 B I correct fro m^ (=man) matha (adj. nom. pi.; compare yima
 keredusha and ma masha). I do so after the admirable reading
 of the Pahlavi translator, as fraz minuno vardined [aighaj bara
-frife^, afaj minijno bara avo vinas kan/ano var</ine</J. Ner.
+frife^, afaj minijno bara avo vinas kan/ano var(/ine(/J. Ner.
 prakrz'sh/aw mana/i — mathnati. Notice that a/frLrta is awkward as
 a masc, although I have so rendered as more personal.
 
@@ -4703,7 +4587,7 @@ Cow did not represent the rain cloud, at least not at all directly.
 G Read viyapa/ as a demon, without sign: 'v' was miswritten
 for 'y' as often 'y' for 'v.' The Pahlavi language, not to speak
 of the Pahlavi translation, suggests it. How are we to account for
-the word viyavanine</? We should not arrest our philology at
+the word viyavanine(/? We should not arrest our philology at
 the Zend and Sanskrit. The long vowel is most awkward for a
 comparison with the Indian vap = shear. And I think that 'destroying the means of irrigation ' gives as good a meaning as
 ' shearing the land.' Notice that elsewhere a more correct form
@@ -4742,7 +4626,7 @@ liar.'
 
 4 Riknah vindijno.
 
-5 Ka^ak-khu<fai gabra nesman.
+5 Ka^ak-khu(fai gabra nesman.
 
 6 Reshinend; see V, 10. The ablative of the cause, comp. asha/
 haH ; otherwise with Hubschm., ' Sie die Schaden nehmen mogen
@@ -4751,7 +4635,7 @@ durch den besten heiligen Geist, O Mazda! ' (Casuslehre, s. 241.)
 7 The Pahlavi translator had probably before him a text reading
 rashayen ; he renders freely resh sraySnd. With such a text which
 is far preferable to the one afforded by the MSS. we may read:
-Whereby (y<ma) men will be opposing and retarding (literally
+Whereby (y(ma) men will be opposing and retarding (literally
 wounding) the doctrines which (are derived) from the best (moral
 and ceremonial) action ; but to these men Mazda declared : Evil
 (are ye). See the previous verse.
@@ -4790,9 +4674,9 @@ upon the truth.
 6 Or, ' they gladly complain ; ' so also the Pahlavi : Mun — garzisnb kamak. The singular ^lgereza/ is difficult with yaeH.
 Many would alter the text at once, and the temptation is great.
 
-7 Htibschm.,'y<? u pa/daresa/ ashahya der sie abhaltevom Schauen
+7 Htibschm.,'y(? u pa/daresa/ ashahya der sie abhaltevom Schauen
 des Asha' (Casus. 241). So of XLVI, 4. So also indicated by
-pa</end min nikezuno i Aharayih ; evidence of a struggle, or at
+pa(/end min nikezuno i Aharayih ; evidence of a struggle, or at
 least of a desire on the part of a rival party to possess themselves of
 some religious privilege or precedence. See the previous verse;
 also XXXI, 10: Never, O Mazda! never shall the thriftless and
@@ -4880,7 +4764,7 @@ sense here; seeing the dual abya, it explains it as referring to
 Haurvata/1 and AmeretataV, which is very probably correct. So
 Spiegel also renders. It is very difficult to decide in which sense
 yeng daiwti noi/ jyateus khshayaman?«g vaso is to be taken. If in
-an evil sense (as vas<?-khshaya«t is sometimes elsewhere taken) one
+an evil sense (as vas(?-khshaya«t is sometimes elsewhere taken) one
 might think of such a rendering as this : I have driven the Karpans'
 and Kavis' disciples hence to those (evil rulers) whom they (my
 servants) render no longer wanton tyrants over life. But these (my
@@ -5992,7 +5876,7 @@ of toil.
 
 2 So fraz yehabum/.
 
-3 Observe that verez<?na cannot well mean ' stall ' in this line.
+3 Observe that verez(?na cannot well mean ' stall ' in this line.
 The Pahlavi likewise sees varzi-ait in it ; Ner. vidhiyate, both free
 as to form.
 
@@ -6169,7 +6053,7 @@ by name to him as in the third.
 
 But was Zarathujtra the only sacred singer, or was he the centre
 of a group only, of which he was the life? (Compare Yathra ve
-afsmaini (?) s<?nghani — Gamaspa Hvogva ; Y. XL VI, 17; see also
+afsmaini (?) s(?nghani — Gamaspa Hvogva ; Y. XL VI, 17; see also
 the Introduction.)
 
 4. Proceeding as if the first three verses were absent from his
@@ -6237,7 +6121,7 @@ without a compromise. The unbelieving opposers, as he declares,
 shall meet no favour at his hands, but detestation, while to the devout disciple he will be as powerful an aid. And this because his
 mind and thought are (as if blinded to the present) fixed upon the
 ideal Kingdom, while for the present he never ceases to toil on.
-making preparations for the Frashakar<f, and constructing hymn
+making preparations for the Frashakar(f, and constructing hymn
 after hymn to set up the needed machinery of lore.
 
 9. Again, his conscience and obedient will, as the angel of
@@ -6338,7 +6222,7 @@ as it necessitates a forced separation between it and yahmaikahmai/£i/. Cp. ahm
 
 2 I turn from the fine rendering of the Pahlavi with the greatest
 reluctance : NadiU' valman mun zak 1 valman nadukih ka^/arzai [aigh
-ka</arzaf amuta min nadukih 1 valman nadukih], happy is he whose
+ka(/arzaf amuta min nadukih 1 valman nadukih], happy is he whose
 benefit is for every one ; [that is, for every man there is happiness
 from his benefit] ; Ner. follows.
 
@@ -6377,7 +6261,7 @@ dwells Ahura ; (that holy man) an offerer of Thine 10,
 O Mazda ! a faithful citizen11, and bountiful of (mind).
 
 
-1 It is to the last degree improbable that fo>athroya (fo'athrava ;
+1 It is to the last degree improbable that fo)athroya (fo'athrava ;
 'y' miswritten for 'v') indicates a condition of ease and comfort
 here. The ' easy man ' is the farthest possible from the thoughts
 of the composer. The ' best of all things ' makes a word kindred
@@ -6481,7 +6365,7 @@ truth a strong 4 tormentor and avenger, but to the
 
 
 1 The word ratus reminds one of the work of the Ratu for the
-afflicted kine. In the last changing, which shall complete the Frashakar</, he, or his representatives, will appear as the last Saoshya?zt,
+afflicted kine. In the last changing, which shall complete the Frashakar(/, he, or his representatives, will appear as the last Saoshya?zt,
 introducing ' millennial ' blessedness.
 
 2 I render the Pahlavi here as in evidence: 'Through Thee,
@@ -6642,7 +6526,7 @@ fragments, which appeared, as so often, in the MSS. before him.
 I would read dar.yait6 with Spiegel's c(?) (so Bartholomae, later, however, recurring to a division, with Geldner after the Pahlavi, for the
 sake of bringing out an infinitive).
 
-6 Vairy<?u contracted from vairyay<?u by a corrupting improvement to regulate the metre.
+6 Vairy(?u contracted from vairyay(?u by a corrupting improvement to regulate the metre.
 
 7 So the Pahlavi indicates, Bartholomae following as against the
 rendering ' possessing.'
@@ -7198,7 +7082,7 @@ on the following words. The Pahlavi translator hints at an important solution, w
 ' the wish of mine understanding wishes, and I wish (am wishing) ;
 Khursand homanam=I am content. If we can accept a break (a
 possibility far too little recognised), the mm as representing a nom.
-sing, would refer back to the meaning in ma^z>y<7u (mahyau). But
+sing, would refer back to the meaning in ma^z)y(7u (mahyau). But
 reading istis (as irregular for Irtayo on account of the metre) we
 might regard ust-n as a third pi. Or shall we take it as a
 quasi-third singular, usm being usam (m=the nasal vowel; comp.
@@ -7328,7 +7212,7 @@ our way through Righteousness (within).
 Geldner, and Bartholomae.
 
 2 Compare Y. XXIX, 2 and Y. XXVIII, 3 ; or it may mean
-< promise to establish ' (Barth.). Kiz6\, however, hardly seems to
+( promise to establish ' (Barth.). Kiz6\, however, hardly seems to
 need an infinitive with it; it may mean 'appoint/ Compare
 da/;/su(patni) for a better sense than 'house-lord,' also for deng pat6ir.
 
@@ -7345,10 +7229,10 @@ appointment of the time ?
 
 6 The Pahlavi va muni£ zak i li g&blmo homand khvastar.
 
-7 Va sardar yehevununih madam Haurvada<£va Ameroda6?; Ner.
+7 Va sardar yehevununih madam Haurvada(£va Ameroda6?; Ner.
 Svamino bhavishyanti upari Avirdade Amirdade ; comp. also Y.
 XLIX, 8 fra6jtflungh6 aunghama. Professor Jolly compares buzdyai
-with 4>ieo6ai (Inf. s. 194)- The long since circulated comparison with
+with 4)ieo6ai (Inf. s. 194)- The long since circulated comparison with
 bhu^ seems to me hardly so probable. It may, however, deserve an
 alternative ; ' to enjoy Weal and Immortality ' ; but accusatives
 
@@ -7585,7 +7469,7 @@ and his tongue ! 5
 of whom the more bountiful thus spake to the harmful7: Neither our thoughts, nor commands, nor our
 
 
-1 Ish means { to come seeking/ The bavihune</ of the Pahlavi,
+1 Ish means { to come seeking/ The bavihune(/ of the Pahlavi,
 followed by many, is by no means incorrect.
 
 2 The reading mazdtfunghodum was suggested to me by Dr. Aurel
@@ -7746,7 +7630,7 @@ intentional improvement, as the Persian MS. follows our Pahlavi
 text. His MS. of the Pahlavi probably read bara yehabund.
 
 ,; Or, ' who has created weal and sorrow for us with good intention, (and as our discipline);' but this is hardly probable. Ahura
-did not originate evil. Spenfczi, asp<?;zX-a are used adverbially (see
+did not originate evil. Spenfczi, asp(?;zX-a are used adverbially (see
 Y. XXXIV, 7).
 
 7 I hardly agree to reading verezmyau (sic) here in the sense of
@@ -7910,7 +7794,7 @@ discover, or to whom his voice can reach, as well as to those secret
 adherents who would seem to need encouragement. The charged
 official is to assail the destructive opponent (Y. XXXII, 6-8), only
 after careful discrimination. He is to approach the evil chief, the
-hostile /?z>aetu (of the blood), as distinct from the inferior noble, or
+hostile /?z)aetu (of the blood), as distinct from the inferior noble, or
 the peasant clansman, and he is to tell him fully of the price set on
 his head. 6. 'And the superintendent who has the power, and
 does not thus carry out these instructions, shall himself be delivered
@@ -8117,7 +8001,7 @@ stores for the Kine in sacred wisdom shall he make 7.
 
 not ukhsha. Otherwise ' increasers of the days ' is a fine expression,
 but suspicious in view of the Pahlavi rendering in Y. L, 10.
-Ner.'s *vika>fayitryo (sic) is striking, but I cannot claim for it all that
+Ner.'s *vika)fayitryo (sic) is striking, but I cannot claim for it all that
 it seems to offer, as Ner. elsewhere renders forms of vakhsh by
 those of kas. The Persian follows the Pahlavi.
 
@@ -8139,7 +8023,7 @@ The elements seem to be dus-|-haz6-l-bao(=vao).
 
 0 Ush in Iranian seems to have the sense of destruction combined with it sometimes ; hence aoshah, aoshi^no.
 
-7 A"ar can well mean 'attain to.' Pathm<?;?g as = paths (so I
+7 A"ar can well mean 'attain to.' Pathm(?;?g as = paths (so I
 formerly rendered) gives a far feebler sense than that indicated by
 the first Zendist, the Pahlavi writer. The ' wisdom ' of preparing
 stores for the kine, even if we suppose an animal only to be meant,
@@ -8316,7 +8200,7 @@ It is well possible, as the ' s ' often disappears.
 1 Notice once more the expression, 'Thou hast known;' so in
 Y. XXVIII, 11, the composer confides the very direction of his
 petitions to the discrimination of the Deity. We gain from this the
-true sense of peresa nau yd toi <?hma par^ta ; Ahura's question and
+true sense of peresa nau yd toi (?hma par^ta ; Ahura's question and
 prayer are might)- when repeated by us, because He has known
 what is best, and what are the true dath^/zg for which we should
 ask.
@@ -8466,7 +8350,7 @@ Aside from this, vardmam=in blessing.
 
 3 The Pahlavi again, with its followers, gives us our first hint
 at the general meaning here. What else can his parthian and
-apa</manik mean, but the regularity, that is, the rhythm and
+apa(/manik mean, but the regularity, that is, the rhythm and
 cadence of the words ?
 
 4 Dathem^a adathemM would be ' the truth and the heresy ' in
@@ -8943,7 +8827,7 @@ like Thee (their chieftain 5) is, O Mazda ! endowed
 with Thy Good Mind's understanding thoughts.
 
 
-1 M<?72g=mam or man; -eng is the nasalised vowel. Man is
+1 M(?72g=mam or man; -eng is the nasalised vowel. Man is
 suspiciously significant here ; ' mental battles ' is rather advanced
 for the circumstances. It is, however, not impossible. The
 Pahlavi favours mam (?) here ; it has avo li. We might even
@@ -8957,7 +8841,7 @@ admirable meaning ; I differ with hesitation.
 
 :! See Y. XLIII, 14.
 
-4 Yae/'i/ guzra-s<?nghaungho. Or, ' knowing also those who are
+4 Yae/'i/ guzra-s(?nghaungho. Or, ' knowing also those who are
 the teachers of secret doctrines.'
 
 5 We may, with some effort, connect thwavas with vaedemnai.
@@ -9010,8 +8894,8 @@ Did he suppose 'woman' to be literally (!) expressed in the text?
 5 Aramaiti is addressed, unless indeed an instrumental is read
 without MSS. An instrumental is of course preferable.
 
-6 The Pahlavi has, with admirable freedom, zakato hu-khu</ai
-paokkhshayinun, va al lanman zak i du.y-khu</ai jalita yehavuna^o.
+6 The Pahlavi has, with admirable freedom, zakato hu-khu(/ai
+paokkhshayinun, va al lanman zak i du.y-khu(/ai jalita yehavuna^o.
 I read hukhshathra khshayewtam, ma ne dvu-khshathra, to bring
 the metre somewhat into order, as some gross irregularity is present;
 the caesura only, not the sense, is affected by the change.
@@ -9053,7 +8937,7 @@ in that sense.
 3 So the Pahlavi correctly indicates by its arzuk ; Ner. priyataram.
 ' Compare Y. LI, 7. Are the plants here mentioned as in connection with Aramaiti in her figurative association with the earth ?
 
-r> See verses 1, 2.
+r) See verses 1, 2.
 
 fi Or, 'against the blow,' Y. XXIX, 1. The Pahlavi translator
 here renders pa^irak 1 areshak, while in Y. XXIX, 1 he renders 1
@@ -9648,7 +9532,7 @@ closest connection), that this thoroughly original piece was composed by Zarathu
 the religious struggle, dominating his party essentially and positively, and that these verses (6-1 1) were simply rhetorically put into
 the mouth of the monarch from the exigency of the style of composition. And I conclude that Vutaspa was supposed to speak
 them, because in the presence of Zarathiutra, it is extremely improbable that any one but the titular head of the State should have
-been represented as saying of Zarathurtra, ' mahya raz<?«g sahi/.'
+been represented as saying of Zarathurtra, ' mahya raz(?«g sahi/.'
 
 1. The piece from Y. XLIX, 12 to Y. L, 1-5 joins well on with
 Y. XLIX, although the tone is brighter. As he begins with questions in Y. XLVIII, 8-1 1, after the prospective prayers of Y.
@@ -9797,7 +9681,7 @@ bakhsh&W [aiga.r zak den clarion bara yansegunyen].
 
 3 Akcu (compare the Indian ake) ; ' who approach, and are
 therefore evident (ashkarak) to God, and seeing Him.' Comp.
-ak<zu in Y. LI, 13, which has been thought a loc.
+ak(zu in Y. LI, 13, which has been thought a loc.
 
 * See nau. 6 To vra^.
 
@@ -10309,7 +10193,7 @@ Y. XLVI, n) in his MSS., rendering khrusuno yehabund= utter
 cries : ' while his soul cries fiercely.'
 
 B The occurrence of peretau(ao) in this verse sheds light upon the
-pereto in the previous one. Ak<su(ao) seems to be an attracted form
+pereto in the previous one. Ak(su(ao) seems to be an attracted form
 for a loc. as elsewhere. Perhaps it is miswritten.
 
 
@@ -10344,7 +10228,7 @@ and this notwithstanding Y. XXXI, 20.
 possible ; but see ye dathaeibyo ere.r ratum khshayas ashavau £ista
 (verse 5).
 
-3 As to the grammatical structure, all depends on s<f«da. Shall
+3 As to the grammatical structure, all depends on s(f«da. Shall
 we bring down noi/from the verse above ; or shall we regard senda.
 as in an evil sense from sad as in sadra ? The Pahlavi favours the
 former, as also in Y. XXXVIII, 5 (Sp. 15). The general result is
@@ -10400,7 +10284,7 @@ often used in the Gathas to designate ' the cause.'
 2 See verse 20.
 
 3 So also the Pahlavi translator in his gloss ; aigham bartman
-pavan ne\rmanih bara yehabune</6.
+pavan ne\rmanih bara yehabune(/6.
 
 4 So also of Zarathurtra's daughter, Y. LIII, 4.
 
@@ -10488,7 +10372,7 @@ two have eleven or twelve syllables ; the third seems to
 have fourteen plus a half line with five, so also the last. Irregularities seem frequent. The composition has for its substance a marriage song, but one of a politically religious
 character.
 
-The piece a-airy<?ma-ishyo, Y. LIV, 1, has been considered by
+The piece a-airy(?ma-ishyo, Y. LIV, 1, has been considered by
 some as susceptible of a similar metrical arrangement, and it certainly looks as if it originally belonged to Y. LIII. It is, however,
 
 1 I refer tern to Ahura, supposing it to stand; reading tarn,
@@ -10710,7 +10594,7 @@ ye follow his courses 10).
 
 1 The Pahlavi translator has sirih here.
 
-2 B^/=ba^lies certainly nearer than b<?e/= bava/.
+2 B^/=ba^lies certainly nearer than b(?e/= bava/.
 
 3 See the previous verse. 4 Or, ' being zealous.'
 
@@ -10753,7 +10637,7 @@ the poet himself, or an associate, see the metrical form) to explain,
 or relieve, the awkward second line. Reading y^ma and rathema,
 and taking ^enayo as in an evil sense, with spasutha as a second
 plural, we might render as a question : ' Do ye, O ye twain,
-ye helpers of the T>rug; do ye regard promotion (as thus to be
+ye helpers of the T)rug; do ye regard promotion (as thus to be
 gained) ? ' But in that case verses 6 and 7 should be regarded as
 separated by many lost verses from the fifth verse. But is not the
 first line the gloss ? It is merely an address.
@@ -11232,7 +11116,7 @@ it here as a masc. plural accusative (comp. haoma).
 
 3 If zaothre is not a loc. masc. it may be used with the loc. masc.
 pronoun irregularly. It would then equal Zaothraya. The letter
-KJ is often simply the Pahlavi <o a little lengthened and equivalent
+KJ is often simply the Pahlavi (o a little lengthened and equivalent
 to ya (aya). hj does not merely stand for ya (aya), but it is sometimes the correct writing for those letters. (Useless repetitions are
 curtailed.)
 
@@ -11398,7 +11282,7 @@ Spiegel is inclined to discredit this later tradition, holding that
 ' flesh ' was originally intended ; but on its becoming disused in
 India, milk was substituted, hence the error.
 
-Gaus hudh<zu, in its primary sense, meant of course ' the Kine
+Gaus hudh(zu, in its primary sense, meant of course ' the Kine
 of blessed endowment.' (Repetitions are again curtailed.)
 
 
@@ -12356,7 +12240,7 @@ hymn, which is a reproduction of an Aryan original, should, notwithstanding its 
 
 
 1 The Pahlavi translator, as I think, had a text before him which
-read duz>foathrem ; I so correct. Against the keen and most
+read duz)foathrem ; I so correct. Against the keen and most
 interesting suggestion of duz + athrem, I am compelled to note
 afo'athre, showing a compositum a + /zwathra, which seems not
 probable if = a + hu + athra. Duzathra, not a/^athre, would
@@ -12528,8 +12412,8 @@ not so deliberate. He was scorched, started, and then sprang.
 Also in Vend. Ill, 32 when the barley is produced the demons
 hardly ' sweat (with mental misery).' The idea is too advanced
 for the document. Burnouf's and Haug's ' hiss ' was much better
-in both places. But I prefer the hint of the Pahlavi lala vazlun</.
-In Vend. Ill, 32 (Sp. 105), khist-homand. Ner. taptajX'a sa nrisamsak X'ukshubhe [dvipado * babhuva]. Whether /;z;isa/<('a=hisa/>£a (?)
+in both places. But I prefer the hint of the Pahlavi lala vazlun(/.
+In Vend. Ill, 32 (Sp. 105), khist-homand. Ner. taptajX'a sa nrisamsak X'ukshubhe [dvipado * babhuva]. Whether /;z;isa/(('a=hisa/)£a (?)
 has anything to do with hiz or khiz= Pahlavi akhizidano t, N. P.
 'hizidan, is a question. I follow tradition without etymological
 help ; perhaps we might as well write the word like the better
@@ -12537,7 +12421,7 @@ known form as a conjecture.
 
 3 The Pahlavi translator makes the attempt to account for the epithet
 ' manly-minded' as applied to Keresaspa while yet he fled affrighted ;
-he says : H6man</ man/mini.rnih hana. yehevund, aigha^ libbemman pavan gas dirt; Ner.asya paurushamanasatvam * idara babhuva
+he says : H6man(/ man/mini.rnih hana. yehevund, aigha^ libbemman pavan gas dirt; Ner.asya paurushamanasatvam * idara babhuva
 yad asau X'aitanyaw sthane dadhau, ' his manly-mindedness was this,
 that he kept his wits on the occasion.' See the same story treated
 somewhat differently in the Yajts by Darmesteter (p. 295, note 2).
@@ -13787,7 +13671,7 @@ a nature, that if all the corporeal and living world
 4 Enabling us to receive the blessings which they bestow through
 the influence of the sun. ' The sun-shaped matter ' would give
 us a materialism. The Pahlavi has ' levino min zak khurkhshea'o
-brino (?) kerpo tanu i khurkhshe</ pavan bara ayapakih i ameshospendano yehabun<f.'
+brino (?) kerpo tanu i khurkhshe(/ pavan bara ayapakih i ameshospendano yehabun(f.'
 
 5 I hold that Ahura speaks no further here.
 
@@ -14792,7 +14676,7 @@ zealous wishes, and their capabilities, their inquiries
 1 Or, ' with the priority in the Yasnas, (we who are they) who
 abide.'
 
-2 T>m is interpolated ; or shall we render : ' We worship Him '
+2 T)m is interpolated ; or shall we render : ' We worship Him '
 as in the F. with adverbial use as in the Greek, and often here ?
 
 3 Compare the Indian gnas. The waters are wives, as is the
@@ -15436,7 +15320,7 @@ Verse 16 may have originally formed two sections; the formula
 ' we worship,' &c. having been omitted.
 
 
-3<D2 YASNA LVII.
+3(D2 YASNA LVII.
 
 
 saves them, who with halberd raised on high guards
@@ -15651,7 +15535,7 @@ typical saint.
 2 The Pahlavi has sud a partial transcription, but the word is
 obscure.
 
-3 See nipatu. 4 Nem<? with Ku.
+3 See nipatu. 4 Nem(? with Ku.
 
 e Ha + ge/; comp. Indian sa+gha/; or possibly from ha£.
 * ' Make mention of.'
@@ -15699,7 +15583,7 @@ typical saint stands at the head of the clean creation.
 
 6 Root vi + da (dhisha); so also the Pahl. 'bara dahmilh.'
 
-7 Akinih va atashi£ 1 Auharmazd-da</. The word is difficult.
+7 Akinih va atashi£ 1 Auharmazd-da(/. The word is difficult.
 
 X 1
 
@@ -15863,7 +15747,7 @@ Ar(a)maiti.
 
 6 Pahl. benafmian.
 
-7 /faathrava/ /zz>areno determines the sense. 5 See '^yathrava/.'
+7 /faathrava/ /zz)areno determines the sense. 5 See '^yathrava/.'
 * The Pahl. does not necessarily render 'heavenly;' the word
 
 elsewhere means ' original.'
@@ -16729,7 +16613,7 @@ guarding over all of their class.
 
 4 So De Harlez, admirably following the Pahl. sardik (sic).
 
-6 Pavan yazun kar</arih.
+6 Pavan yazun kar(/arih.
 
 
 3. I announce, and I (will) complete (my Yasna)
@@ -18112,7 +17996,7 @@ compare for form awtare-mruye ; see also fra-dasti and fra-perenaoiti ; also the
 [31] B b
 
 
-37<3 AFRin[-AGAn] I.
+37(3 AFRin[-AGAn] I.
 
 
 worshippers. 9. In the case that a man does not
@@ -18315,7 +18199,7 @@ will bless it5, rejoice it, and cause it to progress0,
 such a like reward does such a man receive, (7) who
 
 
-1 Erroneous. 2 Ahmai ; see Y. XLIII, 10 with <?hma.
+1 Erroneous. 2 Ahmai ; see Y. XLIII, 10 with (?hma.
 
 3 Insert ' spirit.' 4 Or, ' to.'
 
@@ -18916,934 +18800,5 @@ a nurturer i;.
 
 4 'For healing.' B Y. L, 11.
 6 Last line of the Ahuna.
-
-
-INDEX.
-
-
-Aeshma, page xix, xxi, 161, 280, 393.
-
-Aethrapaiti, 279, 318, 323.
-
-Aethrya, 323.
-
-Age of the Gathas, &c, xxviii-xxxvii ;
-age as compared with one another, xxvii, 92.
-
-Agni, 80, 129.
-
-Ahi, 233.
-
-Ahuna-vairya, 2, 194, 227, 228, 254,
-260, 261, 264, 293, 303, 309,
-
-312, 336, 349, 354, 356, 357,
-360, 364, 372, 374, 375, 384,
-386, 391, 392, 393.
-Ahunavaiti(i), xxvii, 2, 3, 91, 92,
-
-336, 339, 373, 382.
-Ahurian, 287, 320, 321, 322, 323,
-
-337, 392.
-
-Ahu, 228, 230, 255, 259, 262, 281,
-
-.309, 323, 336, 357, 372, 381.
-Aibigaya, 197, 201, 204, 209, 215,
-
-219, 384, 385.
-Airymia-ishyo, 293, 337, 340, 364,
-
-380, 390.
-Airyena Vae^ah, 235.
-Aiwisruthrima, 197, 201, 204, 209,
-
-215, 219, 224, 379, 384, 385-
-Aka Manah, xviii, xix, 60.
-Alborg-, 19.
-Alexander, xl.
-AmeretataV, 66, 76, 207, 211, 213,
-
-226, 227, 228, 252, 256.
-Amesha Spe«ta, xxx, 281, 327, 345,
-
-35i, 363-
-Ameshospends, n, 13, 14, 27, 145,
-148, 269 ; (bidden to approach,
-
-a 77).
-
-Anahita, xxx.
-
-Angra Mainyu, xxx, 25, no, 233,
-272, 298, 312, 390.
-
-Apam-napa/, 197, 204, 209, 215, 219,
-224, 319, 326, 331, 346, 351,
-362, 381, 383, 384, 392.
-
-Arani, 41.
-
-Archangels, xxiv, 27, 124, 178.
-
-
-Ar^/a Viraf, xl.
-
-Ardibahijt, 367.
-
-Ardvi Sura Anahita, 316, 336, 340.
-
-Arezahi, 349.
-
-Armenian, xlii.
-
-Arsacids, xli.
-
-ArAat, 198, 205, 209, 215, 220, 224,
-256, 345, 388.
-
-Arjti, 306.
-
-Artaxerxes Mnemon, xxx.
-
-Artaxerxes, the Sasanian, xli.
-
-Aryan, x, xviii, xxiv, xlii, 1.
-
-Asha, xxiv, 3, 5, 6, 7, 12, 14, 15, 16,
-33, 39, 44, 68, 77, 89, 94, 127,
-157, 159, l6h 162, 164, 165,
-168, 176, 182, 191, 225, 248,
-295, 302, 311, 368, 387.
-
-Asha Vahuta, 2, 2or, 218, 267, 268,
-281, 309, 312, 325, 329, 339,
-
-363, 374, 382, 383, 384.
-
-Ashem Vohu, 293, 356.
-
-Ashi, 200, 345.
-
-Ashi Vanguhi, 206, 211.
-
-Asiatic Commentaries, xxxvii-xliii.
-
-Asnya, 196, 219, 223, 368, 379.
-
-Aurora, 114, 175, 387..
-
-Authorship of the Gathas, xxiii, 2,
-167-169, 173.
-
-Avesta, xxix, xxxi, xxxiii, xxxv,
-xxxix, xli, xlii, xlvi, xlvii, 15, 17,
-40, 51, 68, 71, 78, 88, 126, 167,
-184, 185, 282, 293, 337, 353,
-361.
-
-Ayara, 379.
-
-Ayathrima, 198, 205, 210, 216, 220,
-224, 335, 338, 368, 37o, 372.
-
-Azhi Dahaka, 233.
-
-Abere/, 341, 383.
-
-Adarbad Mahraspend, xli.
-
-Afrinagan, ix, 367.
-
-Aramaiti(i), xii, 14, 15, 27, 32, 33,
-46, 58, 77, 87,88, 101, 109,124,
-126, 146, 148, 149, 150, 152,
-155, 156, 159, l67, 176, 180,
-
-
-INDEX.
-
-
-186, 191, 256, 257, 269, 311,
-325, 342, 360, 361, 386.
-
-Asnatar, 342, 383.
-
-Atarevakhsha, 255, 341, 343, 383.
-
-Atharvan, 251.
-
-Athwya, 233, 389.
-
-Babylon, xxxv.
-
-Bactria, xxviii, xxix, xxxii, xxxv.
-
-Bagahya, xxx.
-
-Bardiya, xxxv.
-
-Baresman, 203, 204, 205, 206, 207,
-208, 213, 246, 253, 270, 299,
-3°9, 3*4, 3i5, 33i, 338, 339,
-34°, 341, 346, 349, 35°, 354,
-374, 33i.
-
-Battle, 39, 50, no, 118, 154, 162,
-189.
-
-Behistun, xxix, xxxv.
-
-Bf«dva, xxvi, 160, 162, 163.
-
-Berejya, perhaps better as adj.,
-197, 205, 209, 215, 220, 224,
-
-387.
-Bridge, 140, 154, 183, 194, 261.
-Bundahb, 37, 360, 391.
-Burial, xxxi.
-Biishyasta, 346.
-
-Captivity, xlvi.
-Conversion of all men, 41.
-Cow, 45, 391.
-Creation, 108, 196.
-Cremation, xxxi.
-Croesus, xxxi.
-
-Cuneiform Ins., xxix, xxxiv.
-Cyrus, xxxv.
-
-Daena, 124, 126, 155, 161, 165, 169,
-189.
-
-Daeva, xix, xx, xxi, 8, 26, 27, 39, 51,
-54, 57, 58, 59, 7o, 85, no, in,
-121, 122, 129, 132, 153, 160,
-161, 164, 189, 199, 202, 211,
-212, 231, 235, 236, 241, 247,
-249, 260, 272, 280, 281, 292,
-301, 302, 305, 306, 317, 322,
-
-a366, 371, 379, 387, 390.
-Dahaka, 233, 245.
-
-DaAi,yuma (Dahyuma), 197, 204,
-209, 215, 219, 224, 251, 259,
-
-278, 337, 384-
-Dakhma, xxxi.
-Darius, xxx, xxxi, xxxii, xxxiii, xxxv,
-
-xxxvii.
-Daughter, 37, 92, 123, 146.
-
-
-Demi-gods, 4, 85, 240, 260.
-
-Dog, 389.
-
-Dragon, xxvi, 233, 234, 239, 322.
-
-Draogha, xxx.
-
-Drug- (Drug-), xix, 33, 35, 40, 160,
-
-163, 192, 233, 313, 392, 393.
-Dualism, xix, 25, 26, 123.
-
-Erethf, 226.
-
-Fire, 41, 80, 84, 95, 96, 100, 102,
-
-116, 132, 138, 147, 150, 177,
-
-182, 196, 199, 204, 206, 208,
-
-209, 210, 212, 214, 215, 216,
-
-219, 220, 222, 223, 224, 225,
-
-227, 258, 260, 270, 271, 272,
-
-274, 275, 276, 277, 281, 284,
-
-316, 319, 320,
-
-
-3i5,
-
-!I,
-
-
-346, 348, 351,
-374, 375, 381,
-
-
-285, 314,
-323, 325, a'
-353, 358, 360,
-
-383, 384, 385-
-Fire priest, 243.
-
-— Berezi-savangha, 258.
-
-— Sp^nijta, 258.
-
-— Urvazijta, 258.
-
-— Vazijta, 258.
-
-— Vohu-fryana, 258.
-Frabaretar, 341, 383.
-Frangrasyan, 246.
-Frashakar^/, 27, 82, 96, 101.
-Frashaojtra, xxvi, xxviii, 14, 15, 22,
-
-69, 76, 92, 133, 142, 153, 161,
-165, 168, 169, 185, 190, 247,
-
-204,
-214,
-
-224,
-272,
-286,
-
-3i9,
-35i,
-
-382,
-
-a 385, 386.
-Frada/-lshu, 197, 204, 209, 215, 219,
-
-a 223, 373, 381, 382.
-Frada^-vira, 197, 204, 209, 215, 219,
-
-224,^383.
-Fradaz-vispam-hug-yaiti, 204, 209,
-
-^215, 219, 224, 384, 385.
-Fryana, 133, 141, 190.
-Fshusho-mathra, 303, 306, 310, 337,
-341, 382.
-
-Gahanbar, 367.
-Ganrak Minavad, 35.
-
-
-250,
-
-327, 330.
-
-Fravashi,
-
-27, 32, 197
-
-', 199
-
-, 201
-
-205,
-
-207, 208,
-
-209,
-
-212,
-
-215,
-
-216, 218,
-
-219,
-
-223,
-
-227,
-
-244, 255,
-
-256,
-
-259,
-
-273,
-
-275, 278,
-
-279,
-
-281,
-
-294,
-
-296, 309,
-
-3",
-
-317,
-
-324,
-
-327, 328,
-
-33i,
-
-345,
-
-352,
-
-358, 362,
-
-374,
-
-381,
-
-INDEX.
-
-
-GaroJman, 19, 109, 170, 173, 184,
-
-Gaya Maretan, 252, 260, 324, 362.
-
-Gah, ix, 373, 379-
-
-Gatha(a), ix-xlvii, 1-194, J95, 208,
-213, 214, 230, 231, 243, 270,
-281, 282, 293, 295, 299, 329)
-330, 33i, 336, 337, 339, 34°,
-35i, 356, 372, 373, 392.
-
-Geus Urvan, 11.
-
-Gnostic, xiv, xx, xlvi, 71.
-
-Givhma, xxvi, 63, 64.
-
-Gaini, 192, 242.
-
-Gamaspa, xxvi, xxviii, 76, 94, 143,
-
-153, 166, 168, 169, 185, 247,
-
-250.
-
-Hadhaokhdha, 337, 341.
-Hadhanaepata, 208, 270, 316, 320,
-
-321, 350.
-Hae&tf-aspa, xxvi, 142, 191.
-Hamaspathmaedhaya, 198, 205, 210,
-
-216, 220, 225, 335, 338, 370,
-
-372.
-Hamestaga, 72.
-Haoma, 158, 208, 213, 214, 227, 228,
-
-230,231,232, 233,235-246,271,
-
-302, 321, 347, 349, 350, 353.
-
-354, 374, 375-
-Haoma-water, 208, 227, 228, 270,
-
-271.
-Haptanghaiti(i), 91, 247, 281, 303,
-
-33°, 336, 34°, 38o.
-Haraiti, 241, 302, 303.
-Haurvada^, 119.
-Haurvata?, 66, 76, 207, 211, 213,
-
-226, 228, 252, 256.
-Havan, 379.
-Havanan, 341, 383.
-Havani, 196, 198, 201, 202, 205, 207,
-209, 210, 211, 212, 215, 219,
-222, 223, 226, 231, 254, 367,
-368, 372, 379, 380.
-Heaven, a spiritual state, xx, xlvii,
-
-25, 30.
-Hegelianism, xix.
-Hell, a spiritual state, xx, xlvii, 25,
-
-30.
-Heptade, xviii.
-Herodotus, xxix, xxx, xxxv, 69,
-
-120.
-Historical character of the Gathas,
-
-xxvi, 1.
-Hoshanggi G., 240, 251.
-Horn Yajt, 230.
-
-
-Hukairya, 317.
-Ha»aniratha, 305, 349.
-Hvogva, xxvi, xxviii, 92, 94, 133,
-142, 185.
-
-Immortality, 94.
-India, xxxii, 137.
-Indo-aryans, xxxiii.
-Inscriptions, xxx, xxxiv.
-Iran, xxxvii, 137.
-Irano-aryans, xxxiii.
-Isha-khshathra, 97.
-Israel, 160.
-tjti, 97, 135.
-
-Ka/waredhas, 312.
-
-Karpans, xxvi, 63, 65, 66, 121, 140,
-
-158, 177, 184, 236, 389.
-Karshvar, 58, 305, 313, 3 1 7, 349.
-Kavis, xxvi, 56, 64, 65, 66, 121, 140,
-
-142, 183, 185, 186, 190, 236,
-
-247, 250, 273.
-Kayadha, 301, 313, 342.
-Kaidhya, 301.
-Keresani, 237.
-Keresaspa, 234.
-Khrafstra, 20, 85, 87, 260, 281.
-Khshathra, xxiv, 12, 14, 33, 55, 128,
-
-146, 152, 162, 178.
-Khshathra- vairya, 182, 256, 325, 361,
-
-387, 389-
-Kine, xix, xx, cp. xxix, 14, 36, 38,
-44, 46, 55, 56, 62, 63, 65, 69, 72,
-73, 82, 90, in, 114, 121, 131,
-
-135, x36, 137, 146, 147, 148,
-
-149, 152, 171, 176, 177, 180,
-
-184, 196, 226, 227, 244, 248,
-
-249, 259, 262, 283, 286, 307,
-
-310, 320, 325, 332, 346, 348,
-
-363, 385, 39i-
-Kuro, 389.
-
-K'mvat Bridge, 141, 161, 173, 183,
-
-33i, 345, 367.
-ATisti, 152, 177, 200, 211, 226, 347.
-
-Last judgment, 95, 100.
-
-Magavan, 70.
-
-Maghavan, 75.
-
-Magi, xxxv.
-
-Magian, xxxi, 185, 318.
-
-Magic, 239.
-
-Maidhyairya, 198, 205, 210, 216, 220,
-
-225, 335, 338, 368, 370, 372.
-Maidhyo-mah, xxvi, xxviii, 186.
-
-
-INDEX.
-
-
-Maidhyo-shema, 198, 205, 210, 216,
-220, 224, 335, 338, 368, 369,
-_ 372.
-
-Maidhyo-zaremaya, 198, 205, 210,
-216, 220, 224, 335, 338, 368,
-369, 372.
-
-Marriage song, 187.
-
-Maruts, 108.
-
-Mazainya, 280.
-
-Mazdaism, xxix seq.
-
-Mazdayasnian, 206, 217, 225, 229,
-238, 247, 253, 256, 270, 272,
-277, 282, 323, 328, 343, 344,
-345, 347, 349, 351, 354, 355,
-357, 368, 369, 37o, 382, 383,
-387.
-
-Mazendran, 305.
-
-Mah-ru, 246.
-
-Mahya, 198, 205, 220, 224, 368, 379.
-
-Mazanian, 302.
-
-Mathra,xx,io,i5, 21,25, 37, 74, 105,
-no, 119, 123, 126, 172, 173,
-174, 176, 179, 181, 185, 199,
-206, 208, 213, 214, 217, 218,
-227, 228, 238, 256, 259, 266,
-267, 272, 277, 290, 297, 302,
-305, 306, 307, 310, 328, 339,
-34i, 349, 355, 360, 362, 374,
-375, 380, 382, 385, 393.
-
-Medes, xxxi.
-
-Medha, 8, 9, 104.
-
-Media, xxxiv, xxxv.
-
-Metres, xviii, xlii, 133.
-
-Mithra, xxx, 196, 199, 204, 205, 209,
-210, 216, 219, 220, 223, 225,
-256, 271, 319, 326, 337, 346,
-35i, 379, 380, 381.
-
-Mobad, 34 1, 342.
-
-Mohammed, 160.
-
-Moon, 113.
-
-Mortar, 270, 350, 354, 355, 374, 385.
-
-Mount Alborg-, 19.
-
-Moghu, 185.
-
-Murakas, 245.
-
-Myazdas, 207, 214, 226, 228, 229,
-350, 368, 369, 370, 371.
-
-Nairya-sangha, 258, 298, 331, 345,
-
-353, 381.
-Neryosangh, xii, xiv, xxxix.
-Nmanya, 197, 205, 209, 215, 220,
-
-224, 387, 388.
-
-Omniscience of Ahura, 47, 101.
-Origin of evil, xix, 25, 29, 30, 31.
-Originality of the Gathas, xx.
-
-
-Padokhshah, 273.
-
-Paederast, 183.
-
-Pairika, 257.
-
-Paitijhahya, 198, 205, 210, 216,
-
-220, 224, 335, 338, 368, 370,
-
-372.
-Pantheism, xviii.
-Paradise, 71, 143, 261.
-Parahaoma, 208, 214.
-Parewdi, 251, 346.
-Parsi, xxxix, xl, 48, 108.
-Paitirasp, 235.
-Perozes, xxii.
-Persepolis, xxix, xl.
-Persian, xi, xxxi, xxxix, xl, xlii, xlvi,
-
-6> 34, 69.
-Personification of Ameshospends,
-
-xxiv.
-Place of Origin of the Gathas, xxviiixxxiii.
-Pleiades, 238.
-Pourii/£ista, 191.
-Pourushaspa, 235.
-Pu^ab, xxxiii.
-
-Raethwbkar, 342, 383.
-
-Ragha, xxviii, xxix.
-
-Rakshas, 249.
-
-Rapithwina, 197, 201, 204, 209, 215,
-
-219, 223, 367, 373, 374, 379,
-
-381, 382.
-Rasasta/, 200, 211, 217, 226.
-Rashnu, 198, 205, 209, 215, 220, 224,
-
-256, 319, 326, 345, 351, 358,
-
-388.
-Raspi, 246.
-Ratu, 3, 12, 41, 66, 71, 73, 78, 101,
-
-146, 163, 176, 177, 180, 208,
-
-213, 228, 230, 246, 250, 253,
-
-254, 259, 262, 309, 323, 336,
-
-340, 343, 357, 369, 370, 37i,
-
-372.
-Ratufriti, 344.
-Rama, 163.
-Raman #<z.>astra, 196, 204, 209, 256,
-
-271, 323, 337, 340, 379, 380.
-Recompense to the good and evil,
-
-34, 35, 52, 100, 161, 167.
-Renovation of the world, 33, 82, 90,
-
-131.
-Resurrection, 391.
-Rig-veda, xxxvi, xxxvii, xl, xlvf 35,
-
-114, 139, 162, 199, 233.
-jR/'ks, xv, xxxvi, xxxviii, xlv, 20, 24,
-
-70,80,315.
-R/'shi, 91.
-
-
-INDEX.
-
-
-Sadduceeism, xxxii.
-
-Saoshya/zt, 71, 82, 101, 124, 129, 131,
-132, 136, 153, 158, 176, 189,
-191, 232, 250, 266, 309, 339,
-343, 344, 350, 352, 362, 39°-
-
-Sasanids, xxii.
-
-Satan, 26, 54.
-
-Savahis, 349.
-
-Saviours, 89, 94, 131, 133, l89-
-
-Samas, 233.
-
-Savanghi, 196, 201, 202, 204, 207,
-209, 212, 215, 219, 222, 223,
-
-254, 367, 379, 38o.
-Saya/za, xl.
-Scyths, xxxii.
-Shapur II, xli.
-Snaithij, no, 123, 305.
-Soma, 158, 231.
-Sovereignty of Ahura, 8.
-Sp^ni-rta fire, 258.
-Spewta mainyu, 45, 67, 70, 83, 106,
-
-145, !99> 201, 2IO> 2II> 2l6»
-217, 225, 226, 229, 272, 277.
-
-Spe/zta-mainyu Gatha, xxvii, 92, 145,
-307, 337, 34°, 36°, 373, 38i,
-382.
-
-Spitami, 191.
-
-Spitama (Spitama), xxvi, xxviii, 92,
-133, 141, 182, 186, 188, 190,
-212, 218, 227, 255, 264, 299,
-313, 315, 325, 339, 35i, 353,
-37o, 374, 375, 389, 39°-
-
-Sraosha (transl. Obedience), 15, 20,
-74, 93, 95, 96, 97, 101, 103,
-104, 105, 127, 197, 205, 208,
-209, 212, 215, 218, 221, 222,
-224, 254, 256, 271, 274, 280,
-296, 297-306, 311, 319, 320,
-325, 326, 352, 353, 357, 358,
-388.
-
-Sraoshavareza, 342, 383.
-
-Srosh Yajt, 296, 297.
-
-Staota Yesnya, 294, 331.
-
-Texts, xliv.
-
-Thraetaona, 233, 389, 390.
-
-Thrita, 233.
-
-Tijtrya, 199, 210, 216, 225, 256, 280.
-
-Tradition, xii.
-
-Trait an a, 233.
-
-Trisbmp, xliii, 91, 145, l62«
-
-Turanian, xxi, 133, 141, 188, 246.
-
-Unicorn (?), 291.
-Urvakhshaya, 234.
-Urvazuta, 258.
-
-
-Ushahina, 197, 202, 205, 209, 215,
-
-219, 224, 379, 387-
-Ushi-darena, 200, 206, 211, 225,259,
-
-277.
-Usi^-(k), xxvi, 121.
-Ujtavaiti(i), xxvii, 91, 92, 33i> 336,
-
-34°, 359, 373, 382.
-ILrta, 7, 91.
-Uzayeirina, 197, 201, 204, 209, 215,
-
-219, 224, 379, 383.
-
-Vahbta Manah, 31, 66.
-Vahutoijti(i), 293, 337, 34°, 36j,
-
-373, 382.
-Varenya, 280.
-Varesa, 349.
-
-Vayu, xix, 189, 192, 193, 271, 272.
-Veda, xxix, xxxix, xliv, 14, 32, 102,
-
-136, 143, 164. _
-
-Vedic, x, xv, xxix, xxxvi, xlin, xlvi,
-
-14, 32, 102, 136, 143, 164.
-Vendidad, xxiii, xxvi, xxx, xxxiii, 1,
-
-78, 81, 95, no, 149.
-Vendidad Sadah, 17, 195, 335, 355,
-
-356, 358, 359, 36i, 363-
-Verethraghna, 337, 340, 350.
-Visparad, ix, 332, &c.
-Vivasvat, 232.
-Vidadhafshu, 349.
-Vidhatu, 304.
-Vis, 259, 315, 342.
-Vijtaspa, xxv, xxviii, xxix, xxxiii, 14,
-
-15, 22, 69, 76, 133, 142, 153,
-166, 168, 169, 170, 185, 186,
-190, 247, 250.
-
-Visya, 196, 202, 204, 209, 212, 215,
-219, 223, 251, 367, 379, 380.
-
-Vivanghusha, 61.
-
-Vivanghva«t, 232.
-
-Vohu-fryana, 258.
-
-Vohu-khshathra, 337, 340, 361, 373,
-382.
-
-Vohu Manah, xii, xxiv, 5, 12, 16, 33,
-66, 127, 148, 154, 162, 256, 352,
-
-354-
-Vologeses I, xli.
-Vouru-kasha, 317, 321, 346.
-
-"Waters, 286, 316, 392.
-
-Yama, 232.
-Yasna, ix, 1, 91, 195.
-Yajt, 1.
-
-Yazad, 207, 209, 212, 218, 227, 255,
-258, 259, 272, 306, 320, 327,
-
-
-INDEX.
-
-
-328, 331, 337, 347, 348, 374,
-
-380, 389, 391, 392.
-Yairya, 198, 368, 379.
-YeNhe hatam, 228, 268, 281, 336.
-Yima, 61, 232.
-
-Zand, 40, 356.
-
-Zandas, 313.
-
-Zawtu, 230, 251, 315, 342, 373, 385.
-
-Zawtuma, 197, 204, 209, 215, 219,
-
-223, 259, 373, 381, 382.
-Zaotar, 149, 213, 228, 230, 246, 254,
-
-342, 343> 383-
-
-
-Zaothra, 203, 204, 206, 207, 213,
-214, 255, 309, 321, 323, 338,
-
-3395 340, 341, 35°, 384, 385.
-
-Zarathujtra, personal history, xxiii,
-xxiv ; call, 9 ; unfavourable reception, 5, 11, 1 01, 103 ; consecration to Ahura, 79, 108 ; suffering, 93,134; trust in Ahura, 8 1 .
-
-Zarathujtrotema, 197, 204, 209, 215,
-224, 259, 331, 337, 347, 384,
-385, 386.
-
-Zarenumawt, 391.
-
-Zendiks, 313.
-
-
-In addition to the occurrences cited above, the words aeshma, aka
-manah, ameretata/, amesha spe«ta, asha, ashi vanguhi, asnya, aramaiti,
-atharvan, drug-, frashakan/, ganrak minavad, haurvata/, uti, khshathra,
-A'mvat, ^isti, mazdayasnian, mahya, mathra, ratu, spewta mainyu, sraosha,
-vahuta manah, verethraghna, visya, vohu manah, zaotar occur as translated.
-
-With regard to the subject indexed as the originality of the Gathas, it is
-not intended to deny that the original migrations of the entire Aryan race
-may have been from the North-west.
-
-On page 198 read Maidhyo-shema, Maidhyo-zaremaya ; p. 204, -^yaiti ;
-p. 209, -5-yaite.
 
 

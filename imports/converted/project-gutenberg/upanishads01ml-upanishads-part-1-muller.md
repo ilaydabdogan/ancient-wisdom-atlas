@@ -1,208 +1,3 @@
-# The Upanishads, Part I (Sacred Books of the East, Vol. 1)
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-a
-
-
-Eontion
-
-
-MACMILLAN AND CO.
-
-
-PUBLISHERS TO THE UNIVERSITY OF
-
-
-iBxioxti.
-
-
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-TRANSLATED
-
-
-BY VARIOUS ORIENTAL SCHOLARS
-
-
-AND EDITED BY
-
-
-F. MAX MULLER
-
-
-VOL. I
-
-
-<B}:tovt^
-
-AT THE CLARENDON PRESS
-
-[-4// rights reserved J
-
-
-THE UPANISHADS
-
-
-TRANSLATED, BY
-
-
-F. MAX MULLER
-
-
-PART I
-
-THE A'MnDOGYA-UPANISHAD
-
-THE TALAVAKARA-UPANISHAD
-
-THE AITAREYA-ARAA^YAKA
-
-THE KAUSHITAKI - BRAHMAiVA-UPANISHAD
-
-AND
-
-THE VA GASANEYI - S A J/HITA-UPANISHAD
-
-
-AT THE CLARENDON PRESS
-
-[All rights reserved']
-
-
-TO
-
-THE RIGHT HONOUEABLE THE MARQUIS OE SALISBURY, K.Q.
-
-CHANCELLOR OF THE UNIVERSITY OF OXFORD,
-LATELY SECRETARY OF STATE FOR INDIA,
-
-SIR HENRY J. S. MAINE, K. O.S.I.
-
-MEMBER OF THE COUNCIL OF INDIA,
-
-AND
-
-THE VERY REV. H. G. LIDDELL, D.D.
-
-DEAN OF CHRIST CHURCH,
-
-TO WHOSE KIND INTEREST AND EXERTIONS
-
-THIS ATTEMPT TO MAKE KNOWN TO THE ENGLISH PEOPLE
-
-THE SACRED BOOKS OF THE EAST
-
-IS SO LARGELY INDEBTED,
-
-I NOW DEDICATE THESE VOLUMES
-WITH SINCERE RESPECT AND GRATITUDE,
-
-
-F. MAX MULLER.
-
-
-[3] a 3
-
-
-' The general inclinations which are naturally implanted in viy
-soul to some religion^ it is impossible for vie to shift off: btit there
-being such a multiplicity of religio7is in the world, I desire now
-seriously to consider with my self which of them all to restrain these
-my general inclinations to. And the reason of this my enquiry is
-not, that I am in the least dissatisfied with that religion I have
-already embraced; but because His natural for all men to have an
-overbearing opinioti and esteem for that particular religion they are
-born and bred-up in. That, therefore, I may not seem biassed by the
-prejudice of education, I am resolved to prove and examine them all ;
-that I may see and holdfast to that which is best. ....
-
-''Indeed there was never any religio7i so barbarous and diabolical,
-but it was preferred before all other religions whatsoever, by them that
-did profess itj otherwise they would not have professed it. ....
-
-''And why, say they, may not yoic be mistaken as well as we ? Especially when there is, at least, six to one against your Christian religion;
-all of which think they serve God aright; and expect happiness thereby
-
-as well as you And hence it is that in my looking out for the
-
-truest religion, being conscious to my self how great an ascendant
-Christianity holds over me beyond the rest, as being that religion
-whereinto I was born and baptized, that which the supreme authority
-has enjoined and my paretits educated me in; that which every one
-I meet withal highly approves of, and which I my self have, by a long
-contimced profession, made almost natural to 7ne : I am resolved to be
-more jealous and suspicious of this religion, than of the rest, and be
-sure not to entertain it any longer without being convinced by solid and
-substantial arguments, of the truth and certainty of it. That, therefore,
-I may make diligent and impartial enquiry into all religions and so be
-sure to find otit the best, I shall for a time, look upon my self as one not
-at all interested in any particular religion whatsoever, much less in the
-Christian religion; but only as one who desires, in general, to serve and
-obey Him that made me, in a right manner, and thereby to be made
-partaker of that happiness my nature is capable of^
-
-Bishop Beveridge (1636-1707).
-
-Private Thoughts on Religion, Part I, Article 2.
-
-
-CONTENTS.
-
-
-Preface to the Sacred Books of the East .
-
-Program of a Translation of the Sacred Books of the
-East .....
-
-Transliteration of Oriental Alphabets
-
-Approximate Pronunciation of the Roman Letters as
-representing the Sanskrit Alphabet
-
-Introduction to the Upanishads
-** isf/mndogya-upanishad .
-
-Talavakara-upanishad .
-VAitareya-ara«yaka
--^ Kaushitaki-brahma;za-upanishad
-
-Va^asaneyi-sawhita-upanishad
-
-Translation of the A'/zandogya-upanishad
-Translation of the Talavakara-upanishad
-Translation of the Aitareya-araa^yaka
-Translation of the KaushItaki-brahmaa^a-upanishad
-Translation of the VA(;ASANEYi-SAyi/HiTA-uPANisHAD .
-
-
-PAGE
-
-ix
-
-xxxix
-xlviii
-
-Iv
-
-Ivii
-Ixxxvi
-Ixxxix
-
-xci
-
-xcviii
-
-c
-
-
 PREFACE
 
 
@@ -1836,11 +1631,11 @@ SACRED BOOKS OF THE EAST.
 li
 
 
-<
+(
 
 Z
 
-'■<
+'■(
 
 
 Q ^
@@ -1849,7 +1644,7 @@ O ^
 
 Q
 
-<5
+(5
 
 
 O
@@ -1885,13 +1680,13 @@ o
 
 • • • • • •
 
-<
+(
 
 • * • • « • •
 
 • • • • «
 
->
+)
 
 ^:i*i9vi^ !q.'!!!! ^e/*
 
@@ -1900,7 +1695,7 @@ o
 B
 N
 
-<r^^3a^aj : 1^-1/ : : : : : «2^ : ^ :
+(r^^3a^aj : 1^-1/ : : : : : «2^ : ^ :
 
 'u
 
@@ -1918,13 +1713,13 @@ a
 
 K
 
-<
+(
 
 0.
 
-<
+(
 
-<
+(
 
 O
 
@@ -1938,7 +1733,7 @@ in
 
 •a • •
 
-■ <rt
+■ (rt
 
 CONSONANTS.
 
@@ -2015,7 +1810,7 @@ c; q . r f- . »-ij-^
 ^:
 
 
-=b •■> D
+=b •■) D
 
 
 •0
@@ -2024,7 +1819,7 @@ c; q . r f- . »-ij-^
 .1 D-o
 
 
-p <J
+p (J
 
 
 Vn
@@ -2063,7 +1858,7 @@ s
 ^5 N* I
 
 
-"Ss'Si » <^
+"Ss'Si » (^
 
 
 -d ^
@@ -2100,7 +1895,7 @@ C3
 
 o
 
-!>
+!)
 ■§
 
 CO
@@ -2114,7 +1909,7 @@ f-H (M
 
 
 M CD
-TO p— <
+TO p— (
 
 
 c3
@@ -2163,7 +1958,7 @@ cS
 u
 o
 
->
+)
 
 s
 
@@ -2181,16 +1976,16 @@ cS CO .— 1
 
 OJ S
 
-=> 3.
+=) 3.
 
 o! 52
 
-c3 <a
+c3 (a
 
 
 ;3
 
-H r^ <; C/2 M
+H r^ (; C/2 M
 
 
 f
@@ -2211,10 +2006,10 @@ a
 -a ^
 
 
-*>
+*)
 
 
-->
+-)
 
 
 ID
@@ -2235,7 +2030,7 @@ e &
 n
 
 
-e<H
+e(H
 
 
 ■3
@@ -2244,7 +2039,7 @@ e<H
 ■]
 
 
-<J
+(J
 
 
 ^Lr
@@ -2262,7 +2057,7 @@ e<H
 ^
 
 
-<j>
+(j)
 
 
 ^
@@ -2277,7 +2072,7 @@ io3
 =)^
 
 
-K> K> |w K? ^ ►^
+K) K) |w K? ^ ►^
 
 
 tr tf 13- »
@@ -2295,14 +2090,14 @@ S -«
 to isi
 
 
-e ^ J - >
+e ^ J - )
 
 
 ' CO
 
 I ®
 
-1— <
+1— (
 
 
 o
@@ -2323,13 +2118,13 @@ S
 Eh
 
 
-.^ ■•=>
+.^ ■•=)
 
 
 oj
 o
 O
->
+)
 
 
 C/2
@@ -2388,7 +2183,7 @@ o
 1/2
 
 
-^< ce
+^( ce
 
 
 Oh
@@ -2396,8 +2191,8 @@ Oh
 •02
 
 
-<o3
->
+(o3
+)
 
 C
 
@@ -2417,10 +2212,10 @@ PREFACE TO THE
 M
 
 
-o3 <cS •" <—
+o3 (cS •" (—
 
 
-3 <3 oj <aj <as
+3 (3 oj (aj (as
 
 
 I f
@@ -2447,7 +2242,7 @@ y.
 :? ? -1 '^
 
 
->v «>s
+)v «)s
 
 
 OwT
@@ -2475,25 +2270,25 @@ IV /IV
 ^''^
 
 
-< «
+( «
 
 
-O 51) 'O c3 <rt •-<
+O 51) 'O c3 (rt •-(
 
 
 5-
 
 
-3 <3
+3 (3
 
 
 ■5 -S
 
 
-<o
+(o
 
 
-3 ><u
+3 )(u
 
 
 K3
@@ -2504,7 +2299,7 @@ K3
 
 c/i
 
->
+)
 
 
 a.
@@ -2515,7 +2310,7 @@ C
 
 1:3
 
->
+)
 
 ho
 
@@ -2527,7 +2322,7 @@ r,
 
 C
 
->
+)
 
 -^
 
@@ -2605,7 +2400,7 @@ fcD
 C
 
 
-i-H(MfCl'^0«Or>.OOC30'-iWC<5Tt<kOCDN.OO
+i-H(MfCl'^0«Or).OOC30'-iWC(5Tt(kOCDN.OO
 
 
 ou
@@ -2777,7 +2572,7 @@ kh
 ^1
 
 
-5>
+5)
 J)
 
 
@@ -2837,7 +2632,7 @@ bridge-house
 
 il
 
->T as
+)T as
 
 in
 
@@ -2847,7 +2642,7 @@ y
 
 ^^
 
->j
+)j
 
 yet
 
@@ -2865,7 +2660,7 @@ t
 
 It as
 
-> in
+) in
 
 ,. /tip of tongue strikingx
 tin (_ the bone of the teeth j
@@ -2898,7 +2693,7 @@ n
 
 ^
 
->>
+))
 
 nay
 
@@ -2918,7 +2713,7 @@ s
 
 ^
 
-)>
+))
 
 grass
 
@@ -2944,7 +2739,7 @@ d
 
 ^
 
->»
+)»
 
 done
 
@@ -2952,7 +2747,7 @@ dh
 
 S
 
-)>
+))
 
 rodhook
 
@@ -2976,7 +2771,7 @@ sh
 
 ^
 
->>
+))
 
 shun
 Labials.
@@ -3005,7 +2800,7 @@ bed
 
 bh
 
->?
+)?
 
 J)
 
@@ -3031,7 +2826,7 @@ m
 
 ♦
 
-5>
+5)
 
 . * ('sIight^
 
@@ -3530,7 +3325,7 @@ evidence. I shall only mention that the name of Atharvaj-iras, an Upanishad gene
 date, is quoted in the Sutras of Gautama and Baudhayana'^;
 
 1 Apastamba, translated by Buhler, Sacred Books of the East, vol. ii, p. 75.
-^ Gautama, translated by Biihler, Sacred Books of the East, vol. ii> p. 272,
+^ Gautama, translated by Biihler, Sacred Books of the East, vol. ii) p. 272,
 and Introduction, p. Ivi.
 
 
@@ -3580,7 +3375,7 @@ reached 149. To that number Dr. Burnell^ in his Catalogue
 * ^'edanta-slit^as I, i,ii.
 
 ^ One misses the Isa. or Isavasya-upanishad in this list. The Upanishads
-chiefly studied in Bengal are the Br/had-ara«yaka, Aitareya, .K/iandogya, Taittiriya, La, Kena, Katha, Pra>na, Mundaka., and Ma«c?{\kya, to which should be
+chiefly studied in Bengal are the Br/had-ara«yaka, Aitareya, .K/iandogya, Taittiriya, La, Kena, Katha, Pra)na, Mundaka., and Ma«c?{\kya, to which should be
 added the 5vetasvatara. M. M., History of Ancient Sanskrit Literature, p. 325.
 
 ' Dr. Burnell thinks that this is an artificial computation, 108 being a sacred
@@ -3687,7 +3482,7 @@ Upanishads.
 With regard to a critical restoration of the text of the Upanishads, I have but seldom relied on the authority of new
 MSS., but have endeavoured throughout to follow that text
 which is presupposed by the commentaries, whether they are
-the work of the old 5ankara>^arya, or of the more modern
+the work of the old 5ankara)^arya, or of the more modern
 6"ahkarananda, or Saya;?a, or others. Though there still
 prevails some uncertainty as to the date of .SaiikaraMrya,
 commonly assigned to the eighth century A.D., yet I doubt
@@ -3770,7 +3565,7 @@ that it is difficult to explain how so rare a word as yathatathyataZ; could have
 
 In verse lo one feels tempted to propose the omission of
 eva in anyad ahur avidyaya, while in verse 1 1, an eva inserted
-after vidyaw >^a would certainly improve the metre.
+after vidyaw )^a would certainly improve the metre.
 
 In verse 15 the expression satyadharmaya drz'sh/aye is
 archaic, but perfectly legitimate in the sense of ' that we
@@ -3822,7 +3617,7 @@ conjecture ; but in that case it seems to me clear that, if
 we adopted it, we should have at the same time to omit
 the whole sentence which follows. 6"ahkara saw clearly
 that what had to be accounted or explained was why the
-king should address the Brahman first, samra<r/ eva purva;/z
+king should address the Brahman first, samra(r/ eva purva;/z
 papraH'/^a ; whereas if Ya^uavalkya had come with the
 intention of having a conversation with the king, he, the
 Brahman, should have spoken first. This irregularity is
@@ -4556,7 +4351,7 @@ MS. of the Talavakara-brahma;/a.
 'The last book but one of this Brahma;/a is termed
 Upanishad-brahma/za. It consists of 145 khawd^as treating
 of the Gayatra-saman, and the 134th is a Vawj-a. The
-Kena-upanishad comprises the 135-145 ]<ha>ida.s, or the
+Kena-upanishad comprises the 135-145 ](ha)ida.s, or the
 tenth anuvaka of a chapter. The 139th section begins : asa
 va idam agra asit, &c.
 
@@ -4585,7 +4380,7 @@ Academy (i Feb. 79), I gather that this Talavakara-brahmaz/a is called by those 
 after the 5akha of the Sama-veda which they follow. The
 account given in the Academy differs on some particulars
 Slightly from that given in Dr. Burnell s letter to me. He
-writes : ' The largest part of the Brahma;<'a treats of the
+writes : ' The largest part of the Brahma;('a treats of the
 sacrifices and the Samans used at them. The first chapter
 is on the Agnihotra, and the Agnish/oma and other rites
 follow at great length. Then comes a book termed
@@ -4720,7 +4515,7 @@ A
 author of the Aitareya-brahmawa and Arawyaka. He is
 
 
-> See Boehtlingk and Roth, s.v. 'Neun Vedische Verse die in ilirem voU-
+) See Boehtlingk and Roth, s.v. 'Neun Vedische Verse die in ilirem voU-
 standigenWortlaut abernoch nicht nachgewiesen sind.' Weber, Indische Studien
 VIII, 68. How these hymns are to be employed we learn from the Asvalayanasutras VII, 12, 10, where we are told that if the Udgatr/s sing the i'akvara
 Saman as the Pr/shcAastotra, the nine verses beginning with Vida maghavan,
@@ -4865,12 +4660,12 @@ oi
 'S
 
 
->
+)
 
 ri
 
 
-§" <j 10. Fifth Adhyaya, Purushe ha va, has one Kha«rfa, 24.
+§" (j 10. Fifth Adhyaya, Purushe ha va, has one Kha«rfa, 24.
 ^ L II. Sixth Adhyaya, Ko 'yam atmeti, has one Kha.nda, 25.
 j3 12. Seventh Adhyaya, Van me manasi, has one Kha«c?a, 26.
 
@@ -4917,7 +4712,7 @@ The Persian translator seems to have confined himself to
 the second Ara;/yaka^, to which he gives various titles,
 Sarbsar, Asarbeh, Antrteheh. That Antrteheh si/::Jl is a
 misreading of iup.1 was pointed out long ago by Burnouf,
-and the same explanation applies probably to i>~>j^\ asarbeh, and if to that, then to Sarbsar also. No explanation
+and the same explanation applies probably to i)~)j^\ asarbeh, and if to that, then to Sarbsar also. No explanation
 has ever been given why the Aitareya-upanishad should
 have been called Sarvasara, which Professor Weber thinks
 was corrupted into Sarbsar. At all events the Aitareyaupanishad is not the Sarvasara-upanishad, the Oupnek'hat
@@ -4965,7 +4760,7 @@ A
 
 gloss by Vi^vej-varatirtha on a commentary by Anandatirthabhagavatpada/^arya, also called Pur//apra^ua/^arya, who
 explained the whole of the Mahaitareya-upanishad from a
-Vaish;<!ava point of view.
+Vaish;(!ava point of view.
 
 IV.
 
@@ -5440,7 +5235,7 @@ meditate on the udgitha (Om) as vyana.
 
 6. Let a man meditate on the syllables of the
 udgitha, i. e. of the word udgitha. Ut is breath
-(pra;<ja), for by means of breath a man rises (uttish//^ati). Gi is speech, for speeches are called
+(pra;(ja), for by means of breath a man rises (uttish//^ati). Gi is speech, for speeches are called
 gira/^. Tha is food, for by means of food all
 subsists (sthita).
 
@@ -5882,7 +5677,7 @@ the greater than great, obtains what is greater than
 great, he conquers the worlds which are greater
 than great.
 
-3. Atidhanvan ^'aunaka, having taught this udgitha to Udara-^a;2<3filya, said : ' As long as they will
+3. Atidhanvan ^'aunaka, having taught this udgitha to Udara-^a;2(3filya, said : ' As long as they will
 know in your family this udgitha, their life in this
 world will be greater than great.
 
@@ -6484,7 +6279,7 @@ I. The hinkira is spring, the prastava summer,
 the udgitha the rainy season, the pratlhara autumn,
 
 jete sa udgithav^, pratistri saha sete sa pratihara^, kdlam gakkksiti
-tan uidhanam, paraw ga>^^^ati tan nidhanam. Etad vamadevyam
+tan uidhanam, paraw ga)^^^ati tan nidhanam. Etad vamadevyam
 mithune protam. 2. Sa ya evam etad vamadevyam mithune protaw veda, mithuni bhavati, mithunan mithunat pra^ayate, sarvam
 ayur eti, gyc^ ^ivati, mahan pra^aya pajubhir bhavati, mahan
 kirttya. Na ka;///^ana pariharet tad vratam.
@@ -6657,7 +6452,7 @@ II, 5).
 ^ Anabhinihita, for thus the commentaries give the reading, is
 explained by anabhinikshipta. On the real abhinidhana, see Rig.
 Prat. 393. The translation does not follow the commentary. The
-genitive pra^apate>^ is governed by paridadani.
+genitive pra^apate)^ is governed by paridadani.
 
 
 II PRAPAr/fAKA, 24 KHANDA, I. 35
@@ -6842,7 +6637,7 @@ Ill PRAPArZfAKA, 4 KUANDA, I. 39
 
 Second Kha^vda.
 
-1. The southern rays of the sun are the honeycells on the rioht. The Ya<rus verses are the bees,
+1. The southern rays of the sun are the honeycells on the rioht. The Ya(rus verses are the bees,
 the Ya^ur-veda sacrifice is the flower, the water (of
 the sacrificial libations) is the nectar (of the flower).
 
@@ -7380,7 +7175,7 @@ Pra;^as or Rudras.' Thus he recovers from his illness, and becomes whole.
 life, as promised before.
 
 
-Ill PRAPArFAKA, 17 KHAiVZ>A, 5. 5 1
+Ill PRAPArFAKA, 17 KHAiVZ)A, 5. 5 1
 
 libation. The 6^agati has forty-eight syllables, the
 third libation is offered with C'agati hymns. The
@@ -8173,7 +7968,7 @@ worlds.
 
 5. ' Now (if one who knows this, dies), whether
 people perform obsequies for him or no, he goes
-to light (ar>('is) ^ from light to day, from day to
+to light (ar)('is) ^ from light to day, from day to
 the light half of the moon, from the light half of
 the moon to the six months during which the sun
 goes to the north, from the months to the year,
@@ -8235,7 +8030,7 @@ is supposed to take place in the forest.
 priest has to remain silent, following the whole sacrifice in his
 mind, and watching that no mistake be committed. If a mistake
 is committed, he has to correct it, and for that purpose certain
-corrective penances (prayaj>^itta) are enjoined. The performance
+corrective penances (prayaj)^itta) are enjoined. The performance
 of the Brahman priest resembles the meditations of the sages in
 the forest, and therefore this chapter is here inserted.
 
@@ -8591,7 +8386,7 @@ on his way to the assembly ^ The king said to him :
 
 A
 
-purushava>^a^ in Brih. Ar. XIV, 9, 3.
+purushava)^a^ in Brih. Ar. XIV, 9, 3.
 
 ^ I doubt whether the elliptical construction of these sentences
 is properly filled out by the commentator. In the Bnhadarawyaka
@@ -9214,7 +9009,7 @@ SIXTH PRAPAT^^AKA.
 
 First Khanda.
 
-1. Hari>^, Om. There lived once ^'vetaketu
+1. Hari)^, Om. There lived once ^'vetaketu
 Aru;^eya (the grandson of Aru«a). To him his
 father (Uddalaka, the son of Aru;^a) said: ' ^'vetaketu, go to school ; for there is none belonging to
 our race, darling, who, not having studied (the
@@ -9346,7 +9141,7 @@ obtained its wish of becoming many.
 
 VI PRAPAT/fAKA, 4 KHAiVDA, 4. 95
 
-Self (<^va ^tmi)^, and let me then reveal (develop)
+Self ((^va ^tmi)^, and let me then reveal (develop)
 names and forms.
 
 3. 'Then that Being(having said,/ Let me make
@@ -9428,7 +9223,7 @@ speech ^.
 
 ^ This reminds one of the Aristotelian 8ia yap ravra koi (k Toirav
 
-TitXXa ypciipi^fTaij aXX ov ravra 8ia rcov vnoKeifitva>v.
+TitXXa ypciipi^fTaij aXX ov ravra 8ia rcov vnoKeifitva)v.
 
 ^ Food, water, and fire are each to be taken as tripartite ; hence
 animals which live on one of the three elements only, still share in
@@ -10500,7 +10295,7 @@ bhutamatras hold to the pra^uamatras, and these to the pra«a.
 Brahman, and ending with the declaration that hope is Brahman; —
 one who knows that pra«a, spirit, the conscious self, is Brahman.
 This declaration represents the highest point reached by ordinary
-people, but Narada wishes to go beyond. In the Mu«</Aka, III,
+people, but Narada wishes to go beyond. In the Mu«(/Aka, III,
 I, 4, an ativadin is contrasted with one who really knows the
 highest truth.
 
@@ -10991,7 +10786,7 @@ in all the worlds ^.
 according to the commentator.
 
 ^ In the Kaush. Br. Up. Apara^-ita is not pu//, but ayatanam.
-^ The fifth kha;/(/a is chiefly meant to recommend brahma>^arya
+^ The fifth kha;/(/a is chiefly meant to recommend brahma)^arya
 
 K 2
 
@@ -11003,7 +10798,7 @@ Sixth Khajvda.
 I. Now those arteries of the heart consist of a
 brown substance, of a white, blue, yellow, and red
 
-or abstinence from all worldly enjoyments, enjoined on the brahma>4arin, the student, as a means of obtaining a knowledge of
+or abstinence from all worldly enjoyments, enjoined on the brahma)4arin, the student, as a means of obtaining a knowledge of
 Brahman, But instead of showing that such abstinence is indispensable for a proper concentration of our intellectual faculties, we
 are told that abstinence is the same as certain sacrifices ; and this
 is shown, not by arguments, but by a number of very far-fetched
@@ -12072,7 +11867,7 @@ Anush/ubh, it simply has one syllable over, which is of no consequence. Comm.
 ^ Thus far the hymn which has to be recited by the Hoirt
 priest, after the eating of the r/tugrahas, has been considered.
 What follows next is the so-called Pra-uga hymn, consisting of
-seven tr/>^as, which the Hotr/ has to recite after the Vijvedevagraha. Different -Sakhas recommend hymns of different metres,
+seven tr/)^as, which the Hotr/ has to recite after the Vijvedevagraha. Different -Sakhas recommend hymns of different metres,
 cur ^'akha fixes on the Gayatri.
 
 [3] ' M ■
@@ -12161,7 +11956,7 @@ who knows this, recites.
 
 ^ Dasinrz'tya-bahubhutamaithuna-brahmaMripuwj/^alisampravadadikam. See Rajendralal Mitra, Introduction to his edition of the
 Aitareya-arawyaka, p. 25. It might be better to join ekaha,^ with
->fantyam, but even then the argumentation is not quite clear.
+)fantyam, but even then the argumentation is not quite clear.
 
 ^ Next follows a list of the verses which form the seven tn'kdiS
 (groups of three verses) of the Pra-uga hymn, with occasional
@@ -12210,7 +12005,7 @@ who knows this, recites.
 
 14. Rv. I, 3, 7. D3.sva.ms0 damsha/? sutam,
 ' Come ye givers to the libation of the giver ! ' By
-da>fusha/2: he means dadusha/^, i. e. to the libation
+da)fusha/2: he means dadusha/^, i. e. to the libation
 of every one that gives.
 
 
@@ -12868,7 +12663,7 @@ Ajvalayana Gr/hya-sutra I, 16, 8, a name is given to a child at the
 time of its birth, a name which no one knows except father and
 mother, till the time when he is initiated by a Guru. This is called
 the abhivadaniya name. In allusion to this custom it is said here
-tha>. tata is the secret name of the child, which becomes publicly
+tha). tata is the secret name of the child, which becomes publicly
 known at a later time only. Of course the interpretation of the
 verse in that sense is unnatural, but quite in keeping with the
 
@@ -13069,7 +12864,7 @@ day consists of twenty-five : it becomes the same
 'tyantamadarartha/^. Cf. Ait. Ar. II, i, 4, 3.
 
 2 Tad id asa is a Trish/ubh, nada/;/ va/^ an Anush/ubh.
-=> Cf. I, I, 2, 7; I, I, 4, 21.
+=) Cf. I, I, 2, 7; I, I, 4, 21.
 
 
 I ARAiVYAKA, 3 ADHYAYA, 7 KHANDA, 5. 1 83
@@ -13122,13 +12917,13 @@ placed, into the small stomach food is placed. It
 9 verses
 
 
-)>
+))
 
 
-)>
+))
 
 
-5>
+5)
 
 23 +
 
@@ -13272,7 +13067,7 @@ I ARAiVYAKA, 4 ADHYAYA, I KHAA^iJA, 4. 187
 
 FOURTH ADHYAYA.
 
-First Khaa^z>a.
+First Khaa^z)a.
 
 1. Next comes the Sudadohas ^ verse. Sudadohas is breath, and thereby he johis all joints with
 breath.
@@ -13411,7 +13206,7 @@ These hymns and verses are given Ait. Ar. V, 2, 2, i. Here we
 also learn that hymn Rv. IV, 20, is called Sampata, and that the
 last verse is a Pahkti.
 
-^ The six powers are earth, Agni, speech, Rathantara, Vasish/>^a,
+^ The six powers are earth, Agni, speech, Rathantara, Vasish/)^a,
 and a hundred.
 
 
@@ -13709,7 +13504,7 @@ be all Trish/ubhs. Comm.
 ^ From the Sawzhita, which consists of ten thousand verses.
 Comm.
 
-* Rv. X, 178. Tarksha Garu</a being the deity of the hymn,
+* Rv. X, 178. Tarksha Garu(/a being the deity of the hymn,
 it is called Tarkshya.
 
 ' Cf. I, 5, 3; 13-
@@ -13796,7 +13591,7 @@ the day.
 
 
 ^ After finishing the Nishkevalya of the noon-libation, he explains
-the vaijvadeva>fastra of the third libation.
+the vaijvadeva)fastra of the third libation.
 
 ^ The norm of the Mahavrata is the Vijva^it, and the norm
 of that, the Agnish/oma Ekaha. The verses to be used for the
@@ -14007,7 +13802,7 @@ I. People say: ' Uktha, uktha,' hymns, hymns!
 (without knowing what uktha, hymn^, means.) The
 
 
-' Vanga^ is explained by vanagata vrikshak ; avagadha/^ is explained by vrihiyavadya oshadhaya// ; irapada/^ is explained by ura>^-
+' Vanga^ is explained by vanagata vrikshak ; avagadha/^ is explained by vrihiyavadya oshadhaya// ; irapada/^ is explained by ura)^-
 pada-^ sarpa^. Possibly they are all old ethnic names, like Vanga,
 JCera., &c. In Anandatirtha's commentary vaya;«si are explained
 by Pi.?a/^a, Vahgavagadhas by Rakshasa, and Irapadas by Asuras.
@@ -14665,7 +14460,7 @@ Therefore people called him who is really Pra;^a
 whatsoever, small (kshudra) and great (mahat), and
 this became the Kshiidrasuktas and Mahasuktas.'
 Therefore there were (the hymns and also the poets
-of the tenth Ma;^<^ala of the Rig-veda, called) the
+of the tenth Ma;^(^ala of the Rig-veda, called) the
 Kshudrasdktas (and Mahasfiktas). Therefore people
 call him who is really Pra/^a (breath), the Kshiidrasuktas (and Mahasuktas).
 
@@ -15340,7 +15135,7 @@ hold that he who enters on this path, and becomes deity, does not
 obtains the other world in this form (by meditating
 on the prd;m, breath, which is the uktha, the hymn
 of the mahavrata), then in what form does he obtain
-this world ^>'
+this world ^)'
 
 3. Here the blood of the woman is a form of
 Agni (fire); therefore no one should despise it. And
@@ -15487,7 +15282,7 @@ the subtile body, having been absorbed in the Highest Self, rises
 again in the lotus of the heart, and passing out by the channel of
 the head, reaches a ray of the sun, whether by day or by night,
 and goes at the northern or southern course of the sun to the
-road of Ar>^is or light. That Ar/Cis, light, and other powers carry
+road of Ar)^is or light. That Ar/Cis, light, and other powers carry
 him on, and led by these he reaches the Brahma-loka, where he
 creates to himself every kind of enjoyment, according to his wish.
 He may create for himself a material body and enjoy all sorts
@@ -16040,7 +15835,7 @@ the heaven, their union the air^, thus says Ma;^^ukeya ; their union is the ethe
 teach it.
 
 3. That air is not considered ^ independent ^,
-therefore I do not agree with his (Ma?^<T^uka's)
+therefore I do not agree with his (Ma?^(T^uka's)
 son,
 
 4. Verily, the two are the same, therefore air is
@@ -16097,7 +15892,7 @@ drawn by two horses and one horse between them
 united with offspring, cattle, fame, glory of countenance, and the world of Svarga. He lives his
 full age.
 
-1 1. Now all this comes from the Ma;^</ukeyas.
+1 1. Now all this comes from the Ma;^(/ukeyas.
 
 Second Kha^vda.
 
@@ -16106,7 +15901,7 @@ K^akalya.
 
 ^ Both views are tenable, for it is not the actual air and ether
 which are meditated on, but their names, as declared and explained
-in this peculiar act of worship. We should read akajaj>^eti, a reading
+in this peculiar act of worship. We should read akajaj)^eti, a reading
 confirmed both by the commentary and by the Kashmir MS.
 
 ^ The man among heroes. Comm.
@@ -16341,7 +16136,7 @@ if joined with va, it vanishes, and becomes long e, tavet. Comm.
 
 ^ Pratibodhiputra, the son of Pratibodhi, she being probably one
 out of several wives of Hrasva. Another instance of this metronymic nomenclature occurred in Krishna. Devakiputra, J^k. Up.
-Ill, 7, 6. The Kashmir MS. reads Pra>^ibodhi, but Pratibodha is
+Ill, 7, 6. The Kashmir MS. reads Pra)^ibodhi, but Pratibodha is
 a recognised name in Gawa Vidadi, and the right reading is
 probably Pratibodhi. The same MS. leaves out putra aha.
 
@@ -16898,7 +16693,7 @@ breath) have by this been obtained for us.'
 
 7. Sthavira .5akalya said: 'If we recite the verses
 according to the Sawhita, and if we say the adhyaya
-of Ma;^<7:'ukeya, then the letters n and sh have by
+of Ma;^(7:'ukeya, then the letters n and sh have by
 this been obtained for us.'
 
 8. Here the 7?/shis, the Kavasheyas ^, knowing
@@ -17223,7 +17018,7 @@ opposed to the Vitriyanx, described in the A'/zandogya-upanishad.
 * This might even include naraka or hell.
 
 ' If r/tava^ is here the genitive of n'tu, its meaning would be
-the ordainer of the seasons; cf. Hibbert Lectures, p. 247. Vi>^akshawa is applied to the moon again, II, 9, and the throne of
+the ordainer of the seasons; cf. Hibbert Lectures, p. 247. Vi)^akshawa is applied to the moon again, II, 9, and the throne of
 Brahman also is called v\kaksha.na., I, 3.
 
 « Kh. Up. V, 4-8.
@@ -18242,7 +18037,7 @@ these objects (circumference) placed on the subjects
 (spokes), and the subjects on the pra/^a. And that
 pra;^a (breath, the living and breathing power) indeed is the self of pra^fia (the self-conscious self),
 blessed, imperishable, immortal. He does not increase by a good action, nor decrease by a bad
-action. For he (the self of pra;<ja and praf na) makes
+action. For he (the self of pra;(ja and praf na) makes
 him, whom he wishes to lead up from these worlds,
 do a good deed ; and the same makes him, whom
 he wishes to lead down from these worlds, do a bad
@@ -18787,7 +18582,7 @@ be the man who has acquired a knowledge of the Self, and who
 reaches the bright, incorporeal Brahman, &c. Mahidhara, however,
 likewise allows the former explanation.
 
-* Cf. Talavak. Up. I, 4 ; vidyaya<^, avidyaya/^,Va^. Sawh.; vidyayt,
+* Cf. Talavak. Up. I, 4 ; vidyaya(^, avidyaya/^,Va^. Sawh.; vidyayt,
 avidyaya, Upan.
 
 
@@ -19061,7 +18856,7 @@ Tnn'tvn Xapekshikam iti dik, and so agrees on the whole with
 ^ Sha^ anush/ubha^, lokayatika// prastuyante yesham etad
 dar^anam.
 
-^ Mr/tasya sata,^ puna>^ sambhavo nasti, ata// j-ariragrahawad
+^ Mr/tasya sata,^ puna)^ sambhavo nasti, ata// j-ariragrahawad
 asmakam muktir eva.
 
 ^ Samastasya ^agata-^ sambhavaikahetu brahma.

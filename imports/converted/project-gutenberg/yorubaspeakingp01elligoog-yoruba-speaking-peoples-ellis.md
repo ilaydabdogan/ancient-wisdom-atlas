@@ -1,79 +1,3 @@
-# The Yoruba-Speaking Peoples of the Slave Coast of West Africa: Their Religion, Manners, Customs, Laws, Language, Etc.
-THE YORUBA-SPEAKINa PEOPLES
-
-
-OP THE
-
-
-SLA>E COAST OF WEST AFRICA
-
-
-THE YOKUBA- SPEAKING PEOPLES
-
-
-OF THE
-
-
-SLAVE COAST OF WEST AFKICA
-
-
-THEIB
-
-
-RELIGION, MANNERS, CUSTOMS, LAWS, LANGUAGE, Etc.
-
-
-WITH AN APPENDIX CONTAINING A COMPARISON OF THE
-TSHI, GA, eVv^E, and YORUBA LANGUAGES.
-
-
-BY
-
-A. B. ELLIS,
-
-Lieut, 'Cohmel, Firtt Battalion Wat India Regiment.
-
-AUTIIOU OF '*THBT8HI-8P1AK1N0 PEOPLES OP THE GOLD COAST"; "THE EWE-SPEAKINr: PBOPLKH
-OP THE SLAVE COAST"; '*A HISTORY OP THE GOLD COAST OP WEST AFllICA/*
-
-ETCn ETC
-
-
-LONDON: CHAPMAN AND HALL, Li>
-
-I8a4.
-
-[All right t reterved.
-
-
-# •
-
-
-JV^t IpI^O^I
-
-
-<fL^5'
-
-
-\\\\Wq\ ^lUiA
-
-
-WESTMINSTER :
-
-PRINTED BY KICUOLS AND SONS,
-
-26, PIUUAMENT 8TREK1'.
-
-
-.•\.
-
-
-v\
-
-
-'m
-
-
 CONTENTS.
 
 
@@ -217,7 +141,7 @@ no doubt this pressure from the north that caused the
 Yorubas to move to the south and colonise the seaboard.
 
 Yoruba country at present comprises the following
-states, or political units : — <c ,
+states, or political units : — (c ,
 
 (1) The British colony of Lagos, which covers the
 whole sea-front between the meridian of the Ajarra
@@ -353,8 +277,7 @@ sandstone that doubtless at one time covered the
 whole of that part of the country ; and the Krobo Mountain, an isolated and precipitous mass, 800 feet high,
 situated in the Krobo plain on the Grold Coast, together with the table-topped mountains with vertical
 cliffs in the Ataklu district, to the north of the Quittah
-(Keta) lagoon, will probably, when geologically examined, prove to be other vestiges of the same sand-
-stone formation.
+(Keta) lagoon, will probably, when geologically examined, prove to be other vestiges of the same sandstone formation.
 
 Of the early history of the Yoruba-speaking peoples
 nothing is known, except what can be gleaned from
@@ -420,7 +343,7 @@ of this great West African kingdom is that the Yorubas
 did not inhabit the territories on the sea-coast, the Ewe
 tribes occupying the coast line as far east as Badagry,
 and the Benin tribes the portion from Badagry to
-Benin. The E>Ve tribes had in fact spread along
+Benin. The E)Ve tribes had in fact spread along
 the sea-shore from west to east, and the Benin
 tribes from east to west, till they met, and covered
 all the sea frontage of the inland territory occupied
@@ -451,8 +374,7 @@ Africa in which it is possible for them to live. The
 report as to the number of cavalry reached the traders
 through the coast tribe, who owned no horses, and
 who were no doubt greatly impressed by the spectacle of a few score of mounted men. According to
-tradition, the following was the method of determining the number of men required for a military expedi-
-tion. An ox-hide was pegged down in front of the
+tradition, the following was the method of determining the number of men required for a military expedition. An ox-hide was pegged down in front of the
 general's tent, and the horsemen made to ride over it
 in succession between two spears. When, by this
 process, a hole had been worn in the hide, the
@@ -561,8 +483,7 @@ from the north, he again made war upon Yoruba. He
 captured and destroyed a number of towns, and was
 apparently about to carry all before him, when, for
 some reason that has never transpired, he was conveyed back to the town of llorin by those very Hausa
-mercenaries through whose aid he had hoped to become Alajin, and publicly burned alive. The Moham-
-medan party had for some years been dominant in
+mercenaries through whose aid he had hoped to become Alajin, and publicly burned alive. The Mohammedan party had for some years been dominant in
 llorin, and now, declaring that it would no longer
 recognise a pagan king, it elected a Mohammedan to
 the supreme power, and severed the connection with
@@ -816,8 +737,7 @@ the people in the use of some gims that had been
 presented by the British Government, and to lend aid
 during another attack that was now threatened by
 Dahomi, the Egbas made excuse after excuse, and
-finally declined to receive them. In 1862 they further displayed their ill-will by molesting and plunder-
-ing several native traders from Lagos, and, as they
+finally declined to receive them. In 1862 they further displayed their ill-will by molesting and plundering several native traders from Lagos, and, as they
 refused reparation, the Governor of Lagos, in 1863,
 blockaded all the roads leading to Abeokuta.
 
@@ -1002,8 +922,7 @@ eighteen miles to the north. The Modakekes, with
 an Ibadan contingent, were at Modakeke watching
 the Ifes, who, with the Jebu force under the Seriki,
 were encamped about two miles to the south. In
-accordance with the terms of the agreement. Commissioners were sent to the interior by the Govern-
-ment of Lagos to take steps to break up the camps.
+accordance with the terms of the agreement. Commissioners were sent to the interior by the Government of Lagos to take steps to break up the camps.
 These proved to be towns rather than camps, since
 they consisted of the ordinary mud-walled houses of
 the natives, were defended by loop-holed mud walls,
@@ -1087,8 +1006,7 @@ in August, but achieved no results, and in January,
 1892, the Egbas declared all their trade routes, both
 to the coast and to the interior, closed, and ceased all
 commercial relations with the colony. A further
-attempt on the part of the government to open negotiations was made in the following month, but com-
-pletely failed, and at a meeting of Egba chiefs, held
+attempt on the part of the government to open negotiations was made in the following month, but completely failed, and at a meeting of Egba chiefs, held
 on the 13th of April, the proposal to reopen the trade
 routes to Lagos was unanimously negatived.
 
@@ -1101,8 +1019,7 @@ east of Epi, was closed by the Awujale of Jebu Ode
 on account of some disagreement with the people of
 Lagos ; and though, in October, 1890, in consequence
 of representations made by the government of Lagos,
-it was formally opened by the Governor and representatives sent by the Awujale, the Jebus made this con-
-cession unwillingly, and had no intention whatever of
+it was formally opened by the Governor and representatives sent by the Awujale, the Jebus made this concession unwillingly, and had no intention whatever of
 departing from their policy of excluding foreigners
 from the interior of their country. Consequently,
 when, in May, 1891, the Acting Governor, Captain
@@ -1621,7 +1538,7 @@ Q
 
 Badagry. The word Ado means a lewd person of
 either sex, and its selection for the name of this town
-is a<;counted for by the following legend. Odudua
+is a(;counted for by the following legend. Odudua
 was once walking alone in the forest Avhen she met a
 hunter, who was so handsome that the ardent temperament of the goddess at once took fire. The advances
 which she made to him were favourably received, and
@@ -1755,8 +1672,7 @@ p. 36.
 made another god, namely, Indra, offspring of Dyaus,
 wield the lightning.
 
-The notion we found amongst the Ewes that a birdlike creature was the animating entity of the thunder-
-storm has no parallel here, and Shango is purely
+The notion we found amongst the Ewes that a birdlike creature was the animating entity of the thunderstorm has no parallel here, and Shango is purely
 anthropomorphic. He dwells in the clouds in an
 immense brazen palace, where he maintains a large
 retinue and keeps a great number of horses ; for,
@@ -2028,8 +1944,7 @@ to the following myth.
 
 Since his descent into the earth with his three
 wives at Oyo, Shango has often come back to the
-world. One day, when down in the earth, he quarrelled with Oya, who had stolen some of his ** medi-
-cines ; " and she, terrified at his violence, ran away,
+world. One day, when down in the earth, he quarrelled with Oya, who had stolen some of his ** medicines ; " and she, terrified at his violence, ran away,
 and took refuge with her brother the Sea-God
 (Olokun). As soon as Shango discovered where she
 had gone, he swore a great oath to beat her so that
@@ -2096,7 +2011,7 @@ where he had fought with Shango.
 In this myth Oya steals the " medicine " and gives
 it to Huisi ; in the former one she also stole it, but
 ate it herself. In each case it caused flames to burst
->f rom the mouth.
+)f rom the mouth.
 
 (6) Ifa.
 
@@ -2413,8 +2328,7 @@ which varies with the individual.
 
 Ifa figures in connection with a legendary deluge,
 the story of which, now adapted to the Toruba
-theology, was probably derived from the Mohammedans. Some time after settling at Ado, Ifa be-
-came tired of living in the world, and accordingly
+theology, was probably derived from the Mohammedans. Some time after settling at Ado, Ifa became tired of living in the world, and accordingly
 went to dwell in the firmament, with Obatala.
 After his departure, mankind, deprived of his
 assistance, was unable to properly interpret the
@@ -2726,8 +2640,7 @@ Shan-kpanna is old and lame, and is depicted as
 limping along with the aid of a stick. According to
 a myth ho has a withered leg. One day, when the
 gods were all assembled at the palace of Obatala, and
-were dancing and making merry, Shankpanna endeavoured to join in the dance, but, owing to his defor-
-mity, stumbled and fell. All the gods and goddesses
+were dancing and making merry, Shankpanna endeavoured to join in the dance, but, owing to his deformity, stumbled and fell. All the gods and goddesses
 thereupon burst out laughing, and Shankpanna, in
 revenge, strove to infect them with small-pox, but
 Obatala came to the rescue, and, seizing his spear,
@@ -2864,7 +2777,7 @@ River Ibu, or Oba.
 Aje Shaluga is the god of Wealth, and confers
 riches on his worshippers. The name appears to
 mean either " the gainer who makes to recur," or
-" the sorcerer who makes to recur." (4/^> sorcerer ;
+" the sorcerer who makes to recur." (4/^) sorcerer ;
 o/e, earner, or gainer, and shaluy to recur.) His
 emblem is a large cowry. One proverb says, " Aje
 Shaluga often passes by the first caravan as it comes
@@ -2992,8 +2905,7 @@ which all twins, and the parents of twins, from a long
 distance round make pilgrimages.
 
 It is said to be usual in Ondo to destroy one of
-twins. This is contrary to the practice of the Yorubas, and, if true, the custom has probably been bor-
-rowed from the Benin tribes to the east.
+twins. This is contrary to the practice of the Yorubas, and, if true, the custom has probably been borrowed from the Benin tribes to the east.
 
 (17) OSHUMARE.
 
@@ -3411,8 +3323,7 @@ carry out, and if necessary enforce, the decrees of the
 body. Each town and village has its Ogboni " lodge,"
 and the members recognise each other by conventional
 signs and passwords. At their meetings, which are
-held with a great affectation of mystery, they deliberate upon all matters which interest the tribe or com-
-munity. The decisions of the Ogboni are final, and
+held with a great affectation of mystery, they deliberate upon all matters which interest the tribe or community. The decisions of the Ogboni are final, and
 nothing of importance can be done without their
 consent When the missionaries wished to establish
 themselves at Abeokuta, the king could not grant the
@@ -3644,8 +3555,7 @@ sacrificed chickens are also smeared. In this case the
 offering is to the protecting spirit of the drum, which
 is that of a slave who has been sacrificed on it. This
 plan of supplying an artificial guardian-spirit for
-objects, other than natural objects, which are considered of importance, is a development of ghost-
-worship, and on the Grold Coast such guardians are
+objects, other than natural objects, which are considered of importance, is a development of ghostworship, and on the Grold Coast such guardians are
 provided for the " stools " of kings and chiefs, as well
 as for temple and state drums.
 
@@ -3723,8 +3633,7 @@ shallow earthen vessel in front of the temple.
 god, that is, before his image, which he is supposed
 to animate for the time being, but there is one exception to this general rule. This is, on occasions
 when sacrifice is made at cross-roads, or at a point
-where several roads meet, in order to avert an impending calamity. In this case the sacrifice is pro-
-bably made to the legion of spirits, mostly evil, who
+where several roads meet, in order to avert an impending calamity. In this case the sacrifice is probably made to the legion of spirits, mostly evil, who
 are supposed to haunt the forests and uninhabited
 tracts of country ; and the general belief is that the
 approaching danger is diverted from the proper
@@ -3867,8 +3776,7 @@ sacrifices, both to the gods and at the funeral obsequies of men of rank. They e
 a similar undertaking from the Ifes, but here they
 met with some diflBculty, If e being the home of human
 sacrifice, and though the chief men promised to put
-an end to the practice, only four of the eighteen persons who composed the Ife Council signed the agree-
-ment. The Oni of Ife said that sacrifice was made at
+an end to the practice, only four of the eighteen persons who composed the Ife Council signed the agreement. The Oni of Ife said that sacrifice was made at
 Ife for the whole human race, the white man not excepted ; and that if the sacrifice made on his behalf
 were to be discontinued, his superior knowledge, and
 the arts derived therefrom, would depart from him.
@@ -4631,8 +4539,7 @@ populated, and at the same time every new-born
 child, or almost eveiy one, to be a re-born ghost.
 As was mentioned in the volume on the Ewe-speaking
 peoples,* this belief in metempsychosis is probably
-a result of a confusion between the rloli, or disembodied luwo (in Tshi, the sisa), and the soul or ghost-
-man, and we may here endeavour to sketch in the
+a result of a confusion between the rloli, or disembodied luwo (in Tshi, the sisa), and the soul or ghostman, and we may here endeavour to sketch in the
 origin and probable development of these various
 beliefs.
 
@@ -4694,7 +4601,7 @@ common ancestor, in some collateral member of the
 same family. He cannot, then, in these cases,
 conclude that the dead have returned to earth in
 the persons of their descendants ; for the evidence
->of his dreams proves to him that they still exist as
+)of his dreams proves to him that they still exist as
 ghost-men, and are in every respect as they were
 when alive in the world. On the other hand, the
 evidence of his eyes shows him that their physical
@@ -5009,7 +4916,7 @@ instructed him as follows : —
 Offer an ebon sheep to the dead,
 When night falls in the grove of Ifa.
 
-'< Let the child in search of his mother
+'( Let the child in search of his mother
 Sprinkle his eyes with lastral water,
 Then shall the dead be visible to him.
 
@@ -5293,8 +5200,7 @@ gods moon-worship appears to have died out, though
 all these peoples salute the new moon respectfully
 when it is first seen, and a Tshi epithet of the moon
 is hohsum, " Sacred," or ** Grod." When, however,
-moon-worship flourished, the moon would undoubtedly have been a general god, worshipped by the com-
-munity as a whole; and hence the day dedicated to the
+moon-worship flourished, the moon would undoubtedly have been a general god, worshipped by the community as a whole; and hence the day dedicated to the
 moon is a general day of rest, and not, like the other
 days of the week, a day of rest for certain persons
 only. In the case of the Tshi and GrS tribes, we thus
@@ -5305,8 +5211,7 @@ It seems probable that the Jewish Sabbath was also
 connected primarily with moon-worship, and at first
 was a monthly festival like that of the Mendis and
 Bechuanas, but became a weekly festival after the
-Jews adopted the seven-day week from the Babylonians. In the historical books of the Old Testa-
-ment, viz., Joshua, Judges, the books of Samuel, and
+Jews adopted the seven-day week from the Babylonians. In the historical books of the Old Testament, viz., Joshua, Judges, the books of Samuel, and
 
 l2
 
@@ -5396,17 +5301,16 @@ tho fourth on the 14th, and the fifth on the 18th.
 The fifth market-day, on which the members meet
 »uvi pay their subscriptions, is counted again as the
 RiHsit of the next series. These clubs or societies are
-^^^ v\>uunon that the seventeen-day period has become
+^^^ v\)uunon that the seventeen-day period has become
 ^ k.luvl of auxiliary measure of time.
 
 (Wh is day, in contradistinction to oniy night. The
 vUvUuui of the day and night into hours is not known,
 ^^U tho day is divided into the following periods, viz.,
 kiihi'kutiiy mvXj morning; owuro^ morning, forenoon ;
-7t^i^/a'^t ov osaii gangan {gangan^ upright, perpendishaU^*K noun; //i-s/i'e itpa/e (shadow-lengthening), after-
-k*vs^*v ; uud ashaley or ashetvale^ evening, twilight. The
-ui^vjhl in divided into periods of cock-crowing, as ahikov>.N-ifi/*^ [\\\i> cock opening the way), first cock-crow-
-»>»^ ; Ui^*-/^ or ada-jiwa^ time of second cock-crowing ;
+7t^i^/a'^t ov osaii gangan {gangan^ upright, perpendishaU^*K noun; //i-s/i'e itpa/e (shadow-lengthening), afterk*vs^*v ; uud ashaley or ashetvale^ evening, twilight. The
+ui^vjhl in divided into periods of cock-crowing, as ahikov).N-ifi/*^ [\\\i) cock opening the way), first cock-crow-
+»)»^ ; Ui^*-/^ or ada-jiwa^ time of second cock-crowing ;
 .M»d K'Kt\\ or ofe, the time of cock-crowing just before
 
 K\i(xii nioauH ** year," and, like the word ose,
@@ -5542,8 +5446,7 @@ sprinkled with palm-oil, is carried outside the town,
 and deposited at a spot where two or more paths
 meet, which has the effect of causing the evil spirits
 to disperse in as many directions as there are paths.
-The bahalawo then prepares the usual water of purification with shea-butter and edible snails, and dip-
-ping into the vessel a palm-branch, sacred to Ifa,
+The bahalawo then prepares the usual water of purification with shea-butter and edible snails, and dipping into the vessel a palm-branch, sacred to Ifa,
 sprinkles the corpse, the room, and the spectators
 with the fluid. At the same time he invokes the soul
 
@@ -5598,8 +5501,7 @@ referred to in the proverb " A mourner mourns and
 goes on her way (without afterthought), but one who
 ponders over sad memories mourns without ceasing."
 There are also professional mourners, chosen for their
-poetical tUm of expression, whose services are engaged in well-to-do households, and who often con-
-trive to work up the real mourners to a condition of
+poetical tUm of expression, whose services are engaged in well-to-do households, and who often contrive to work up the real mourners to a condition of
 frenzied grief. A professional mourner sings in a sad
 tone, which rises and falls in a modulated wail ; " He
 is gone, the lion of a man. He was not a sapling, or
@@ -5656,8 +5558,7 @@ CEREMONIES A T BIRTH, MARRIA GE, AND DEA Til. 1 59
 and sometimes, when many articles of value have been
 entombed, the surface is moistened with water to
 make the earth settle down, and slaves and dependents are made to sleep on it night after night, for
-the double purpose of protecting it and of obliterating all trace of its exact position. After the inter-
-ment, the feast, which had been suspended since the
+the double purpose of protecting it and of obliterating all trace of its exact position. After the interment, the feast, which had been suspended since the
 afternoon, recommences ; and drinking and shouting,
 amid the firing of muskets, the jangle of native
 gongs, and the dull thud of the drums, continues all
@@ -5667,7 +5568,7 @@ Next day, about noon, the male relations walk out
 in a body, and wander about the town, as if looking
 for the deceased, and chanting " We look for our
 father, and cannot find him"; to which the bystanders
-reply > " He has gone to his house." Returning from
+reply ) " He has gone to his house." Returning from
 this, the mourners carry on the feast till the evening
 of the next day, when the bones of the victims that
 have been sacrificed, and those of the fowls and sheep
@@ -6231,8 +6132,7 @@ altogether unworkable, because, as the number of
 clans is limited and cannot be added to, if the clan
 name still remained the test of blood-relationship and
 a bar to marriage, the result in a few generations
-would be that no marriages would be possible. Consequently the clan-name ceases to be the test of con-
-sanguinity, kinship is traced in some other way, and
+would be that no marriages would be possible. Consequently the clan-name ceases to be the test of consanguinity, kinship is traced in some other way, and
 the clan-system disappears; or, as appears to have
 been occasionally the case, descent is boldly transferred into the male line, and marriage in the father's
 
@@ -6337,8 +6237,7 @@ olconri or obiri to be placed after it when exactitude is
 necessary, is used to relations of the generation next
 below the speaker, that is to say, to sons, daughters,
 nephews, nieces, and children of cousins. It is also
-used as a term of address to domestic slaves. G-randf ather, baba-la {baba-nlaj great-father) is used to grand-
-fathers and great-uncles, and iya-la {iy^-nla, greatmother) to mothers and great-aunts. Grandchild is
+used as a term of address to domestic slaves. G-randf ather, baba-la {baba-nlaj great-father) is used to grandfathers and great-uncles, and iya-la {iy^-nla, greatmother) to mothers and great-aunts. Grandchild is
 omo-omo (child-child), or omo-loju (front-child).-
 
 The foregoing are the terms commonly used. Of
@@ -6666,11 +6565,9 @@ be just those most likely to retain the privilege longest.
 Marriage is forbidden in the same blood ; and, as
 descent is traced on both sides of the house, it is consequently forbidden both in the father's and mother's
 families, as far as relationship can be traced. This,
-however, is not far, as there is no longer the clanname, which, as long as descent was traced on only-
-one side of the house, remained the test of kinship to
+however, is not far, as there is no longer the clanname, which, as long as descent was traced on onlyone side of the house, remained the test of kinship to
 perpetuity, and a people who do not write have no
-means of recording genealogies. As a rule relationship does not seem to be traced further than second-
-cousins, and the prohibitive degrees of marriage are
+means of recording genealogies. As a rule relationship does not seem to be traced further than secondcousins, and the prohibitive degrees of marriage are
 for a man, mother, aunt, sister, daughter, niece,
 cousin, and second-cousin. In consequence of descent
 being traced on both sides, half-brother cannot marry
@@ -6866,7 +6763,7 @@ Ni'beru, to fear ; „ ni, and iberu, fear.
 
 Ni-kpekun, to terminate ; „ w, and ikpekun, end.
 
-Ixiba {ni-aba), to l>e hopefal ; „ ni, and aba, hope.
+Ixiba {ni-aba), to l)e hopefal ; „ ni, and aba, hope.
 
 Laga (ni-aga), to be weary ; „ ni, and aga, weariness.
 
@@ -6884,7 +6781,7 @@ The Infinitive is expressed by the verb in its simple
 
 form, as : —
 
-/>, to love.
+/), to love.
 
 
 Indicative Mood.
@@ -6918,8 +6815,8 @@ On ofe^ He shall love. Awon ofe, They shall love.
 
 Perfect, -OR Pluperfect.
 
-Emi ti /<?, I have, or had, loved. Awa tife^ We have, or had, loved.
-Iwo ti /<?, Thou hast, or hadst, Enyin ti /a. You have, or had,
+Emi ti /(?, I have, or had, loved. Awa tife^ We have, or had, loved.
+Iwo ti /(?, Thou hast, or hadst, Enyin ti /a. You have, or had,
 
 loved. loved.
 
@@ -6950,14 +6847,14 @@ Future.
 
 Emi n ofSf I shall be loving. Awa n ofe^ We shall be loving.
 
-&c. &c. <fcc. &c.
+&c. &c. (fcc. &c.
 
 Perfect, or Pluperfect.
 
 Emi H nfe^ I have, or had, been Awa ti nfe, We have, or had, been
 loving. loving.
 
-<fcc. <fcc. &c, &Q,
+(fcc. (fcc. &c, &Q,
 
 Imperative Mood.
 
@@ -7058,7 +6955,7 @@ loved. loved.
 Imperative Mood.
 
 Jeki afe ^mi, Let me be loved.
-<&c. <&c.
+(&c. (&c.
 
 
 Subjunctive Mood.
@@ -7156,7 +7053,7 @@ a would be used with the yerb ha, or with kan.
 e
 
 
->>
+))
 
 
 it
@@ -7170,7 +7067,7 @@ ge.
 t
 
 
->9
+)9
 
 
 «, or with rin.
@@ -7223,7 +7120,7 @@ Nihin-yi, here, in this place {niha, locality, place ; eyi, this).
 LANGUAGE.
 
 
-Nihe-na^ there, in that place (ni^e, in or at a plac3 ; m<, that).
+Nihe-na^ there, in that place (ni^e, in or at a plac3 ; m(, that).
 Baiy thus, in this manner (is perhaps a contraction of ha-eyi, to meet
 this).
 
@@ -7232,7 +7129,7 @@ this).
 Tani, Who.
 EvoOj Which.
 
-The possessive cases are made by prefixing <i,
+The possessive cases are made by prefixing (i,
 " belonging to " : —
 
 
@@ -7246,7 +7143,7 @@ seems to convey the notion of things regarded collectively, or in the abstract.
 
 //"e, love, willingness,
 
-/<7a, height, loftiness,
+/(7a, height, loftiness,
 
 Ika^ computation, reckoning,
 
@@ -7295,9 +7192,9 @@ Aga^ a chair, elevated seat, , „ ga^ to be high.
 
 Aka^ a storehouse, ,, X:a, to count.
 
-Aloj departure, „ /<?, to go.
+Aloj departure, „ /(?, to go.
 
-Ata^ pepper, capsicum, „ <a, to sting.
+Ata^ pepper, capsicum, „ (a, to sting.
 
 Eloj utensil, j, lo, to use.
 
@@ -8805,7 +8702,7 @@ going/* gives the stranger no encouragement to
 plant the ahusa (a plant which bears fruit very
 rapidly).
 
-168. What good have the gods done to the hunchba<5k that he should name his child Orishagbemi (the
+168. What good have the gods done to the hunchba(5k that he should name his child Orishagbemi (the
 gods have blessed me) ?
 
 (This means, why should one return thanks when unkindness only has
@@ -9251,8 +9148,7 @@ hide."
 the people if it is not maize ? " Here the play is on
 igba dodo and agbado.
 
-It is a favourite game to repeat as fast as possible sentences difficult to pronounce, like the fol-
-lowing : —
+It is a favourite game to repeat as fast as possible sentences difficult to pronounce, like the following : —
 
 lyan mu ire yo ; iyan ro ire ru. " When there is
 famine the cricket is fat " (that is, is considered good
@@ -9471,7 +9367,7 @@ of the doors and windows.
 The mother of the little girl took twenty countrycloths, twenty strings of valuable beads, twenty sheep
 
 • The ado is a very small calabash, commonly used for keeping
-me<lioinnl powders in.
+me(lioinnl powders in.
 
 
 and goats, and twenty fowls, and went to make a
@@ -10026,7 +9922,7 @@ descended from him.
 
 Tortoise Stories. v'
 
-I. <^''
+I. (^''
 
 My alo is something about a woman named Olu.
 
@@ -11110,8 +11006,7 @@ their forests and shun intercourse with the other
 tribes. There are, in consequence, few local gods
 proper, but many tutelary deities of tribes, towns,
 villages, and families, and there is a very large increase
-in the number of general deities. Olorun, the skygod, answers to the Ewe Mawu and the Tshi Nyan-
-kupon, but he is rapidly being displaced by Obatala,
+in the number of general deities. Olorun, the skygod, answers to the Ewe Mawu and the Tshi Nyankupon, but he is rapidly being displaced by Obatala,
 a more anthropomorphic conception, and who very
 probably was a ghost-god whose origin has been lost
 sight of. The god of thunder and lightning appears
@@ -11142,8 +11037,7 @@ local, have now become general. Ifa, god of divination, who is the benefactor of
 the future, was probably originally a ghost-god, as no
 doubt was Osanhin, god of medicine. Ogun, god of
 iron, and hence of war, may be a personification of
-iron, but it is just as probable that he was the traditional discoverer of the use of iron, and hence a ghost-
-god, who has now been raised to the first rank. In
+iron, but it is just as probable that he was the traditional discoverer of the use of iron, and hence a ghostgod, who has now been raised to the first rank. In
 the general tendency to regard Legba as the evil
 principle, we perhaps see a first step towards dualism,
 in which Ifa, for choice, would represent the good

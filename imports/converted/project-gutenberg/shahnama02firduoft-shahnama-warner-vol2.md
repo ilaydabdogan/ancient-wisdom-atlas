@@ -1,50 +1,3 @@
-# The Shahnama of Firdausi, Vol. II
-
-TRUBNER'S
-
-ORIENTAL   SERIES.
-
-
-THE
-
-SHAHNAMA  OF  FIKDAUSt
-
-
-DONE  INTO  ENGLISH  BY
-
-ARTHUR  GEORGE  WARNER,  M.A.
-
-AND
-
-EDMOND  WARNER,  B.A.
-
-
-"The  homes  that  are  the  dwellings  of  to-day
-Will  sink  'math  shoiver  and  sunshine  to  decay,
-But  storm  and  rain  shall  never  mar  what  I
-Have  built — the  palace  of  my  poetry."
-
-FIRDAUSI
-
-
-VOL.  II
-
-
-LONDON
-KEGAN  PAUL,  TRENCH,  TRUBNER  &  CO.  LTD
-
-DRYDEN   HOUSE,   GERRARD   STREET,   W.
-
-1906
-
-
-The  rights  of  translation  and  of  reproduction  are  reserved
-
-
-Printed  by  BALLANTYNE,  HANSON  &  Co.
-At  the  Ballantyne  Press
-
-
 CONTENTS
 
 
@@ -76,7 +29,6 @@ against  Turan        .         .         .         .         .  .         .n
 5.  How  Kai  Kubad  came  to  Istakhr  of  Pars   .  .        .22
 
 
-KAI  KAUS—
 PART  I.  THE  WAR  WITH  MA"ZANDARAN
 
 1.  The  Prelude 29
@@ -469,7 +421,7 @@ SECT.  PAGE
 
 32.  How  Gudarz  was  wroth  with  Tus       ....  402
 
-33.  How  Gudarz   and   Tus   went   before   Kaus  oi>  the
+33.  How  Gudarz   and   Tus   went   before   Kaus  oi)  the
 
 Matter  of  the  Kingship 403
 
@@ -526,8 +478,7 @@ d.  of
 Pi'ran.
 
 
-d.  of  Afni-
-siytib.
+d.  of  Afnisiytib.
 
 
 Farud.    KAI  KHUSRAU  (13).
@@ -548,7 +499,7 @@ Nastiir.
 
 I  I  1  I  i  I  I
 
-Nivziir.      Ardshir.        Shidasp.       Asfandiydr=Humt<i.2       Bishiitan.      Bih  Afrid.
+Nivziir.      Ardshir.        Shidasp.       Asfandiydr=Humt(i.2       Bishiitan.      Bih  Afrid.
 
 
 KAI  BAHMAN  (i6)  =  HuMAi  (17),
@@ -681,8 +632,7 @@ GHP.    Histoire  des  Perses  par  le  Comte  de  Gobineau.
 GKS.     Kleine  Schriften  von  Alfred  von  Gutschmid.
 
 HEP.  Essays  on  the  Sacred  Language,  Writings,  and  Religion  of
-the  Parsis.  By  Martin  Haug,  Ph.D.  Edited  and  en-
-larged by  E.  W.  West,  Ph.D.
+the  Parsis.  By  Martin  Haug,  Ph.D.  Edited  and  enlarged by  E.  W.  West,  Ph.D.
 
 KUR.  Kitab-i-Yamini  of  Al  Utbi.  Translated  by  the  Rev.
 James  Reynolds,  B.A.
@@ -774,8 +724,7 @@ inspired.  In  the  Zandavasta  Kai  is  used  in  two  very  different
 senses.  In  one  of  these,  and  particularly  in  the  sacred  hymns
 known  as  the  Gathas,  it1  is  synonymous  with  'heretic,'  in  the  other
 it  forms  a  part  of  the  names  of  a  whole  dynasty  of  Iranian  heroes,
-who  are  known  collectively  as  the  Kavyans  or  Kaians.  This  two-
-fold use  has  been  appealed  to  by  Haug  to  support  his  theory  that
+who  are  known  collectively  as  the  Kavyans  or  Kaians.  This  twofold use  has  been  appealed  to  by  Haug  to  support  his  theory  that
 Zoroastrianism  sprang  from  a  schism  among  the  Brahmins — a
 theory  which  has  been  much  disputed.2
 
@@ -797,7 +746,7 @@ Khusrau.  With  the  last  of  these  the  old  epic  cycle  of  the  poem
 conies  to  an  end,  and  up  to  this  point  the  Kaidnian  may  be
 regarded  as  the  complement  of  the  Pishdadian  dynasty.  We  are
 then  introduced  to  the  second  group — the  Sh«lhs  of  the  house  of
-Luhrdsp — Luhrasp  himself,  Gusht&sp,  Bahman,  Humiii,  D;ir;il>,
+Luhrdsp — Luhrasp  himself,  Gusht&sp,  Bahman,  Humiii,  D;ir;il),
 Dara,  and  Sikandar.  Luhrasp,  though  of  Kaian  race,  is  represented
 as  owing  his  accession  to  the  throne  to  the  nomination  of  Khusrau.
 With  the  accession  of  Luhrasp  a  new  epic  motive  is  introduced —
@@ -851,8 +800,7 @@ Firdausi  was  in  any  way  indebted  to  Greek  sources,  but  that  he  and
 the  Greek  writers  both  availed  themselves  of  the  same  cycle  of
 legend  at  intervals  many  centuries  apart.  The  same  may  be  said
 of  the  charming  story  of  Gushtasp  in  Rum,  which  will  appear  in  a
-later  volume  of  this  translation.  A  Greek  version  of  the  love-
-interest  in  this  story  is  preserved  for  us  in  the  Deipnosophistss  of
+later  volume  of  this  translation.  A  Greek  version  of  the  loveinterest  in  this  story  is  preserved  for  us  in  the  Deipnosophistss  of
 AtheneDUs,2  who  quotes  Chares  of  Mytilene — an  official  at  the  court
 of  Alexander  the  Great — as  his  authority.  Similarly  in  Humai,
 the  seventeenth  Shah,  we  may  have  a  reminiscence  of  Semiramis.
@@ -937,8 +885,6 @@ a  WPT,  i.  136.  3  Id.  150.
 
 ii
 
-
-12  THE   SHAH  NAM  A    OF  FIRDAUSI
 
 And  valorous  Barzin,  flocked  round  and  scattered
 Gems  over  that  new  crown.  They  said :  "  0  Shah
@@ -1131,8 +1077,6 @@ is  speaking  of  the  Seven  Climes,  and  of  the  heavens  of  the  Seven
 Planets  only,  in  this  passage.  Cf.  vol.  i.  pp.  71,  72.
 
 
-1 6  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 s  2
 How  Afrdsiydb  came  to  Ms  Father
 
@@ -1243,8 +1187,6 @@ What  Indian  scimitars  with  golden  scabbards,
 VOL.  II.  B
 
 
-1 8  THE  SHAH  NAM  A    OF  FIRDAUSI
-
 And,  over  and  above  these,  what  famed  chieftains
 The  blast  ha£h  vilely  borne  away — Kulbad,
 And  bold  Barman  who  hunted  lions  only,
@@ -1354,12 +1296,9 @@ His  body's  length  of  all  that  he  possesseth  !
 1  The  name  of  the  house  where  the  famous  Persian  painter  Mani,
 the  founder  of  Manicheism,  lived ;  also  of  a  book  written  by  him.
 Both  house  and  book  were  elaborately  adorned.  Manichean  MSS.
-in  general  were  finely  written  and  illuminated.  Cf.  Professor  Bloom-
-field,  "  The  Long-lost  Mani  Bible,"  in  Harper's  Monthly  Magazine  for
+in  general  were  finely  written  and  illuminated.  Cf.  Professor  Bloomfield,  "  The  Long-lost  Mani  Bible,"  in  Harper's  Monthly  Magazine  for
 March  1906.
 
-
-20  THE   SHAHNAMA    OF  FIRDAUSI
 
 We  with  a  shroud  for  robe,  a  grave  for  home,
 
@@ -1459,8 +1398,6 @@ And,  should  long  life  be  mine,  I  will  not  leave  v.  313
 
 A  wish  of  thine  unsatisfied  on  earth."
 
-
-22  THE  SHAHNAMA    OF  FIRDAUSI
 
 Moreover  on  Karan  the  warrior,
 Upon  Kishwad,  Kharrad,  Barzin,  Pulad,
@@ -1629,10 +1566,6 @@ He  carried  the  chariot  of  Kavi  Usa."3  With  the  exception  of  this
 
 1  HEP,  278.  2  The  raven.  3  DZA,  ii.  240-2.
 
-25
-
-
-26  THE  SHAHNAMA    OF  FIRDAUSI
 
 reference  to  his  attempt  to  fly  to  heaven  the  remainder  of  his  legend
 is  lost  so  far  as  the  Zandavasta  itself  is  concerned,  but  a  brief
@@ -1644,12 +1577,10 @@ Turaii  were  referred.  As  the  decision  was  generally  adverse  to
 the  Turanians  they  conceived  the  idea  of  beguiling  Kaus  into
 slaying  the  ox,  and  succeeded  in  their  purpose.-  The  story  is
 characteristic  of  Kai  Kaus,  who  is  represented  in  the  poem  as  a
-very  imperfect  character,  and  easily  led  astray  by  passion,  wrong-
-headedness,  and  evil  counsels.
+very  imperfect  character,  and  easily  led  astray  by  passion,  wrongheadedness,  and  evil  counsels.
 
 According  to  the  genealogy  of  the  Bundahish,  Kaus  was  the
-grandson  of  Kai  Kubad.3  Firdausi  omits  the  intermediate  genera-
-tion.
+grandson  of  Kai  Kubad.3  Firdausi  omits  the  intermediate  generation.
 
 The  length  of  the  reign  is  the  same  in  both  cases,  and  the
 Bundahish  places  Kaus'  attempt  to  reach  the  sky  after  he  had
@@ -1700,10 +1631,6 @@ formula  which  had  to  be  recited  several  times,  "  that  smite  down
 
 1  Vol.  i.  p.  71.  2  DHA,  v.  9.  3  Id.  10.
 
-27
-
-
-28  THE   SHAH  NAM  A    OF  FIRDAUSI
 
 Angra  Mainyu,1  .  .  .  these  are  the  words  that  smite  down  the
 daevas  of  Mazana."2
@@ -1738,8 +1665,7 @@ Rustam,  we  may  imagine,  reached  the  smiling  land  where  he
 encountered  Ulad,  whose  account  of  the  extent .  of  Mazandaran  is
 of  course  enormously  exaggerated.6  The  reader  will  see  on  looking
 at  a  map  of  Persia  that  Mazandaran  is  a  region  of  quite  moderate
-dimensions.  Accuracy  in  matters  geographical  is  not  one  of  Fir-
-dausi's  strong  points.
+dimensions.  Accuracy  in  matters  geographical  is  not  one  of  Firdausi's  strong  points.
 
 With  regard  to  Rustam's  route  we  are  told  that  by  Zal's  advice 7
 he  took  the  short  road,  not  the  long  one  taken  by  Kai  Kaiis.  Of
@@ -1763,26 +1689,21 @@ KA1   KAUS  29
 
 and  made  seven  stages  of  it,  in  the  course  of  each  of  which  he  met
 with  an  adventure.  This  expedition  of  his  is  accordingly  known
-as  the  "  Haft  Khwan,"  the  former  word  meaning  seven  and  tin-
-latter  the  tray  on  which  food  is  served  up.  His  expedition
+as  the  "  Haft  Khwan,"  the  former  word  meaning  seven  and  tinlatter  the  tray  on  which  food  is  served  up.  His  expedition
 therefore  may  be  regarded  as  being  a  meal  with  seven  courses.
-It  has  also  been  suggested  that  in  the  account  of  the  seven  build-
-ings of  Kai  Kiius,  described  in  Part  II.  §  8  of  this  reign,  we  have
+It  has  also  been  suggested  that  in  the  account  of  the  seven  buildings of  Kai  Kiius,  described  in  Part  II.  §  8  of  this  reign,  we  have
 the  origin  of  the  Haft  Khwan  of  Rustam,  and  also  of  the  similar
 expedition,  which  occurs  much  later  in  the  poem,  of  Asfandiyar
 against  Arjasp.1
 
-We  may  add  that  in  the  Pahlavi  the  word  used  for  these  build-
-ings is  "man."  "Man"  comes  from  the  same  root  as  our  word
-"  mansion."  In  the  Pahlavi  form  of  the  legend  Rustam's  expedi-
-tion may  have  been  known  as  the  Haft  Man.  In  the  translations
+We  may  add  that  in  the  Pahlavi  the  word  used  for  these  buildings is  "man."  "Man"  comes  from  the  same  root  as  our  word
+"  mansion."  In  the  Pahlavi  form  of  the  legend  Rustam's  expedition may  have  been  known  as  the  Haft  Man.  In  the  translations
 from  the  Pahlavi  legend,  if  such  existed,  this  would  naturally
 become  "  Haft  Khan,"  the  seven  stopping-places  or  rest-houses,
 and  this  might  easily  be  corrupted  into  the  "  Haft  Khwan,"  the
 seven  meals  partaken  of  therein.  Our  text,  however,  has  "  Haft
 Khwan,"  which  we  translate  "  The  Seven  Courses,"  keeping  the
-collocation  of  "The  Seven  Stages  "for  the  corresponding  expedi-
-tion of  Asfandiyur.
+collocation  of  "The  Seven  Stages  "for  the  corresponding  expedition of  Asfandiyur.
 
 With  regard  to  the  opposition  of  the  chiefs  to  the  expedition  of
 Kai  Kdus  to  Mazandaran  as  being  unprecedented,2  we  can  only
@@ -1919,8 +1840,6 @@ The  deer  are  pacing  daintily
 In  every  mountain  valley
 
 
-32  THE   SHAHNAMA    OF  FIRDAUSI
-
 "  Throughout  the  year  without  a  break
 
 Intent  upon  their  questing,
@@ -1968,8 +1887,6 @@ What  can  he  know  of  pleasure  ?  "
 
 33'
 
-
-KAI  KAUS
 
 The  words  roused  Kai  Kaus,  he  was  resolved
 
@@ -2021,8 +1938,6 @@ But  whet  thy  wits  and  let  us  see  thy  face.'
 VOL.  n.  c
 
 
-34  THE   SHAHNAMA    OF  FIRDAUSI
-
 *  He  may  suggest  some  wise  rede  to  the  Shah,
 And  tell  him :  '  Ahriman  hath  prompted  this :
 The  portal  of  the  divs  must  ne'er  be  opened.'
@@ -2064,8 +1979,6 @@ One  at  the  thought  of  whose  sword  everywhere
 Alike  the  nobles  and  the  people  tremble,
 Will  not  obey  me  'tis  not  wonderful ;
 
-
-KAI  KAUS  35
 
 Still  it  would  grieve  me  if  he  hearkened  not.
 If  I  think  of  myself,  not  of  the  Shah,
@@ -2113,7 +2026,7 @@ The  crown  and  throne  and  presence  of  their  lord.
 
 §3
 
-How  Zdl  gave   Counsel  to  •> Kails
+How  Zdl  gave   Counsel  to  •) Kails
 
 Attended  by  the  lords  with  golden  girdles
 Zal  led  the  way  and,  when  he  saw  Kaiis
@@ -2152,8 +2065,6 @@ Yet  they  attempted  not  Mazandaran —
 The  home  of  warlock-divs  and  under  spells
 Which  none  hath  power  to  loose ;  so  give  not  thou
 
-
-KAI   KAUS  37
 
 Men,  wealth,  and  money  to  the  winds.     That  land
 
@@ -2208,8 +2119,6 @@ No  one  can  root  out  death,  sew  up  the  eyes  -\
 Of  destiny  with  needles,  or  escape
 
 
-38  THE   SHAHNAMA    OF  FIRDAUSI
-
 From  want  by  abstinence ;  in  this  regard
 ^_  E'en  princes  must  submit.     May  this  bright  world
 Prove  prosperous  to  thee,  and  mayst  thou  never
@@ -2252,8 +2161,6 @@ The  presence  of  the  Shah,  who  ordered  Giv  :—
 "  Choose  from  the  warriors  two  thousand  men —
 
 
-KAI  KAUS  39
-
 Mace-wielders — to  prepare  for  us  a  path
 Mazandanin-ward,  slaughter  young  and  old,
 Fire  all  the  settlements,  turn  day  to  night,
@@ -2295,8 +2202,6 @@ Our  vengeance  by  the  outrage.     Kai  Kaiis,
 
 1  The  door-keeper  of  Paradise.
 
-
-40  THE   SHAHNAMA    OF  FIRDAUSI
 
 With  many  young  and  brave,  is  in  command
 Without  thy  help  we  shall  be  all  destroyed.' "
@@ -2341,8 +2246,6 @@ Complete  supremacy  and  seize  our  pastures.
 Like  to  a  maddened  elephant's  appeared
 Thy  strength  to  thee,  thou  wouldst  not  yield  to  any !
 
-
-KAI   KAUS  41
 
 Content  not  with  the  crown  above  thy  throne
 
@@ -2498,8 +2401,6 @@ Both  soul  and  body  for  the  Shah,  and  break
 The  talismans  that  guard  those  sorcerers.
 
 
-44  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 All  that  survive  among  the  Iranians  there
 Will  I  bring  back  and  gird  their  loins  again ;
 I  will  not  spare  the  White  Div  nor  Arzhang,
@@ -2542,8 +2443,6 @@ v.  335        Then  Rustam,  that  world-brightening  paladin,
 Departed  from  his  sire  and,  treating  night
 Like  day,  made  two  days' journey  into  one,
 
-
-KAI  KAUS  45
 
 Not  giving  Rakhsh  repose.     Now  as  his  body
 
@@ -2607,8 +2506,6 @@ Thy  combat  with  the  lion  had  been  brief."
 He  slept  and  rested  long,  and  when  the  sun
 
 
-46  THE   SHAHNAMA    OF  FIRDAUSI
-
 Rose  o'er  the  darksome  hills  awoke  still  drowsy  ;
 
 He  rubbed  down  Rakhsh  and  saddled  him,  then  prayed
@@ -2662,8 +2559,6 @@ Then  in  the  Worldlord's  strength  rose  to  his  feet
 And  followed  up  the  ram,  with  scimitar
 
 
-KAI    KAUS  47
-
 In  one  hand  while  the  other  grasped  the  reins,
 
 Until  he  saw  the  spring,  for  thither  went
@@ -2708,9 +2603,6 @@ He  lay  and  slept,  his  lips  in  silence  bound,
 While  Rakhsh  till  midnight  grazed  and  strayed  around.
 
 
-48  THE   SHAHNAMA    OF  FIRDAUSI
-
-
 THE  THIRD  COURSE
 
 How  Rustam  fought  with  a  Dragon
@@ -2746,8 +2638,6 @@ I  will  encounter  it.'     I  never  said  : —
 '  Rush  on  me  in  the  night ! '     Leave  me  to  slumber."
 Then  for  the  third  time  with  his  tiger-skin
 
-
-KAI   KAUS  49
 
 Upon  his  breast  he  set  himself  to  sleep.
 
@@ -2810,8 +2700,6 @@ On  seeing  the  dragon's  might,  and  how  it  battled
 
 VOL.  II.  D
 
-
-50  THE   SHAHNAMA    OF  FIRDAUSI
 
 With  Rustam,  laid  his  ears  back,  joined  the  fray,
 Bit  at  the  dragon's  shoulders,  tore  its  hide
@@ -2896,8 +2784,6 @@ Not  knowing  that  she  was  a  wicked  witch,
 An  Ahriman  beneath  her  bravery,
 
 
-52  THE   SHAHNAMA    OF  FIRDAUSI
-
 He  handed  her  a  cup  of  wine,  invoking
 
 The  Giver  of  all  good.     Now  when  he  named
@@ -2964,8 +2850,6 @@ Among  the  crops,  ran  up  with  hue  and  cry ;
 He  smote  the  hero  smartly  with  a  stick
 
 
-KAI   KAUS  53
-
 Upon  the  foot  and  said,  as  Rustam  woke : —
 
 "  0  Ahriman  !  why  didst  thou  loose  thy  steed
@@ -3022,8 +2906,6 @@ Said  Rustam,  "  if  a  cloud  hath  lion's  claws,
 i  Cf.  p.  13.
 
 
-54  THE   SHAHNAMA    OF  FIRDAUSI
-
 With  swords  and  maces  only  for  its  fruit,
 
 And  beareth  on  its  lap  the  heads  of  chieftains.
@@ -3071,8 +2953,6 @@ Thine  eyes  run  blood."
 
 triad  said :  "  Be  not  wroth,
 
-
-KAI  KAUS  55
 
 But  gracious  just  for  once  and  slay  me  not
 
@@ -3145,8 +3025,6 @@ Cf.  p.  63.
 
 2  The  name  of  a  tribe,  "  the  Goat-ears."
 
-
-56  THE   SHAHNAMA    OF  FIRDAUSI
 
 A  myriad  of  cavaliers  at  least
 
@@ -3246,8 +3124,6 @@ And  he  hath  lost  his  wisdom,  sense,  and  Grace !
 Thou  wouldest  say:  'He  talketh  in  his  sleep/
 
 
-58  THE   SHAHNAMA    OF  FIRDAUSI
-
 But  in  these  grievous  bonds  we  can  do  naught ;
 In  good  sooth  fortune  hath  abandoned  us."
 
@@ -3287,8 +3163,6 @@ Upon  the  eyes  and  it  will  banish  blindness.' "
 He  made  him  ready,  and  in  setting  forth
 Spake  thus  to  the  Iranians  :  "  Be  alert,
 
-
-KAI  KAUS  59
 
 For  'tis  the  White  Div  that  I  go  against—
 That  Elephant  of  war,  full  of  resource,
@@ -3376,14 +3250,11 @@ But  still  they  wrestled,  streaming  blood  and  sweat,
 v-  354       While  elephantine  Rustam  in  God's  strength
 Strove  mightily  in  anguish  and  revenge,
 Till  sore  bestead,  bold  Lion  that  he  was,
-He  reached  out,  clutched  the  div,  raised  him  neck-
-high,
+He  reached  out,  clutched  the  div,  raised  him  neckhigh,
 
 And  dashed  the  life-breath  from  him  on  the  ground,
 Then  with  a  dagger  stabbed  him  to  the  heart
 
-
-KAI  KAUS  61
 
 And  plucked  the  liver  from  his  swarthy  form  :
 
@@ -3439,8 +3310,6 @@ In  sooth  the  age  hath  not  beheld  thy  like,
 1  In  war-time  he  would  ride,  and  he  had  sworn  to  ride  till  he  had
 triumphed.     Cf.  p.  44.
 
-
-62  THE  SHAHNAMA    OF  FIRDAUSI
 
 But  brighter  still  is  my  lot  since  I  have
 For  liege  this  lion-slaying  Elephant."
@@ -3546,8 +3415,6 @@ The  people  there  with  leathern  feet  appear,
 1  cf.  P.  55.
 
 
-64  THE   SHAHNAMA    OF  FIRDAUSI
-
 Hence  their  nickname  Narmpai  for  many  a  year.
 
 There  lived  among  his  chiefs  and  men  of  war
@@ -3598,8 +3465,6 @@ That  witless  youth,  and  bear  to  him  this  answer : —
 
 v.  360        A.m  I  such  that  thou  sayest :  "  Quit  thy  land,
 
-
-KAI  KAUS  65
 
 Thy  throne  and  country,  and  attend  my  court  ? "
 
@@ -3655,8 +3520,6 @@ Do  as  thou  art  commanded  like  a  slave.
 
 VOL.  n.  E
 
-
-66  THE   SHAHNAMA    OF  FIRDAUSI
 
 Thou  wilt  not  wreck  thy  realm  but  pay  me  tribute
 
@@ -3756,8 +3619,6 @@ A  chief  so  eminent  hath  not  appeared.
 In  fight  he  is  a  mountain.     What  and  how
 Am  I  to  speak  about  his  mace  and  Rakhsh  ?
 
-
-68  THE  SHAHNAMA    OF  FIRDAUSI
 
 What  army  can  withstand  him  when  he  warreth  ?
 
@@ -3916,8 +3777,6 @@ In  chief  command,  was  posted  at  the  centre.
 The  troops  drew  up  while  elephantine  Rustam,
 
 
-KAI  KAUS  71
-
 Who  never  saw  disaster,  led  them  on.
 
 Juya,  a  noble  of  Mazandaran,
@@ -3966,8 +3825,6 @@ And  chastened  thee."
 Thy  mother's  liver  shall  be  split  anon,
 
 
-72  THE  SHAHNAMA    OF  FIRDAUSI
-
 And  she  shall  wash  thy  mail  and  casque  with  tears."
 
 When  Rustam  heard  he  raised  his  battle-cry,
@@ -3998,8 +3855,7 @@ Like  lightning  flashing  from  a  murky  cloud.
 The  air  was  crimson,  black,  and  violet,
 With  spears  and  flags.     The  shouting  of  the  divs,
 The  clouds  of  dust,  the  roar  of  kettledrums,
-And  neigh  of  steeds,  rent  earth  and  shook  the  moun-
-tains ;
+And  neigh  of  steeds,  rent  earth  and  shook  the  mountains ;
 None  e'er  saw  such  a  fight.     Arose  the  din
 
 V.  370        Of  arrow,  mace,  and  sword,  the  plain  became
@@ -4011,8 +3867,6 @@ While  maces  rained  upon  the  casques  and  helms
 
 1  Of.  vol.  i.  p.  386  and  note.
 
-
-KAI  KAUS  73
 
 As  autumn-blasts  shower  leaves  from  willow-trees.
 
@@ -4065,8 +3919,6 @@ Who  with  his  divs  and  elephants  of  war  v.  372
 Awhile  maintained  his  ground.     Then  Rustam  gave
 His  pointed  lance  to  one  to  hold,  invoked
 
-
-74  THE   SHAHNAMA    OF  FIRDAUSI
 
 The  name  of  God,  raised  high  his  mace,  and  raged  ;
 His  voice  filled  all  the  air,  the  divs  became
@@ -4162,8 +4014,6 @@ And  spent  a  night  in  revel.     Thus  rethroned
 He  said  to  Rustam :  "  Chief  of  paladins !
 
 
-76  THE   SHAHNAMA    OF  FIRDAUSI
-
 Thou  hast  displayed  thy  prowess  everywhere,
 And  now  I  have  received  my  throne  from  thee.
 Bright  be  thy  heart,  thy  Faith,  and  thine  allegiance."
@@ -4211,8 +4061,6 @@ The  world  grew  young  through  him,  and  there  arose
 
 A  New  Moon  from  Iran.     Glad  and  triumphant
 
-
-KAI  KAUS  77
 
 He  sat  enthroned,  unlocked  his  ancient  hoards,
 
@@ -4281,8 +4129,6 @@ The  din  of  kettledrums  rose  from  the  city,
 And  all  partook  his  joy.     They  put  up  garlands
 While  bells  and  clarions  sounded.     Rustam  went,
 
-
-78  THE  SHAHNAMA    OF  FIRDAUSI
 
 The  Shah  remained,  illumining  the  world
 
@@ -4355,23 +4201,20 @@ invade  Iran  and  fight  for  its  possession.  The  Iranians  in  despair
 appeal  to  Rustam,  who  rescues  Kai  Karis,  defeats  Afrasiyab,  and
 reinstates  the  Shah,  who,  warned  by  past  experience,  rules  justly
 for  a  time,  rises  to  the  height  of  his  power,  and  builds  himself  great
-palaces  on  Mount  Alburz.  Afterward  he  falls  again  into  tempta-
-tion, tries  to  mount  to  heaven,  is  rescued  again  by  Rustam,  again
+palaces  on  Mount  Alburz.  Afterward  he  falls  again  into  temptation, tries  to  mount  to  heaven,  is  rescued  again  by  Rustam,  again
 repents,  and  again  is  restored  to  power.  The  Part  concludes  with
 an  account  of  one  of  Rustam's  raids  into  Turan.
 
 
 NOTE
 
-§§  1-6.  In  the  accounts  of  Kai  Kaus'  two  expeditions  to  Bar-
-baristan  we  have  a  duplication  of  tradition.
+§§  1-6.  In  the  accounts  of  Kai  Kaus'  two  expeditions  to  Barbaristan  we  have  a  duplication  of  tradition.
 
 The  late  Professor  Darmesteter  has  thrown  considerable  light
 on  that  obscure  subject,  Firdausi's  geography  in  this  part  of  the
 poem.1  There  are  several  Barbars,  and  he  points  out  that  the  one
 here  intended  is  the  Berbera  nearly  opposite  Aden  in  the  British
-Somali  Coast  Protectorate.  It  is  the  Pun-t  of  the  Egyptian  hiero-
-glyphs, and  was  then  and  is  still  a  great  trading  station.  When
+Somali  Coast  Protectorate.  It  is  the  Pun-t  of  the  Egyptian  hieroglyphs, and  was  then  and  is  still  a  great  trading  station.  When
 the  south-west  monsoon  changes  into  the  north-east  wind  thousands
 of  traffickers  begin  to  arrive,  and  the  place  is  kept  busy  from
 October  to  April.  Further,  he  points  out  with  regard  to  Hamavaran
@@ -4379,8 +4222,6 @@ that  it  is  a  form  of  the  word  Himyar,  which  is  another  name  for
 Yamaii.  "We  may  therefore  conclude  that  Firdausi's  notion  was
 
 1  DEI,  ii.  221-224.
-
-79
 
 
 8o  THE   SHAHNAMA    OF  FIRDAUSI
@@ -4416,10 +4257,8 @@ in  Part  IV.
 
 The  reference  to  Syria  and  a  certain  similarity  of  circumstance
 suggest  that  in  the  account  of  the  treacherous  capture  of  Kai  Kaus
-by  the  king  of  Hamavaran  we  have  a  distorted  historical  reminis-
-cence of  the  overthrow  of  Antiochus  Sidetes  in  the  early  spring  of
-B.C.  128  or  129.  Mithridates  I.,  in  the  course  of  a  reign  of  thirty-
-eight  years  (B.C.  174-136),  had  extended  the  narrow  bounds  of  the
+by  the  king  of  Hamavaran  we  have  a  distorted  historical  reminiscence of  the  overthrow  of  Antiochus  Sidetes  in  the  early  spring  of
+B.C.  128  or  129.  Mithridates  I.,  in  the  course  of  a  reign  of  thirtyeight  years  (B.C.  174-136),  had  extended  the  narrow  bounds  of  the
 Parthian  kingdom  both  eastward  and  westward,  to  the  Hindu
 Kush  and  to  the  Euphrates  respectively.  Westward  the  increase
 had  taken  place  at  the  expense  of  the  Seleucid  kingdom  of  Syria.
@@ -4435,14 +4274,11 @@ Babylon,  Seleucia,  and  Qtesiphon,  however,  fell  into  the  hands  of
 1  ZT,  i.  465.     MM,  ii.  119.  2  See  vol.  i.  p.  4.
 
 
-KAI   KAUS  81
-
 the  Syrians.  Winter  came  on,  and  Antiochus  Sidetes,  resolved  to
 maintain  his  advantage,  distributed  his  forces  throughout  the
 cities  and  towns  of  Babylonia  with  the  intention  of  renewing
 operations  in  the  spring.  The  Syrian  troops  with  their  motley
-entourage  of  camp-followers,  cooks,  actors,  etc.,  soon  made  them-
-selves intolerable  to  the  natives  among  and  upon  whom  they  were
+entourage  of  camp-followers,  cooks,  actors,  etc.,  soon  made  themselves intolerable  to  the  natives  among  and  upon  whom  they  were
 quartered.  An  understanding  was  entered  into  with  Phraates  II.,
 who  promised  to  be  at  hand  with  his  army,  and  at  a  given  signal
 the  Syrian  invaders,  who  were  thoroughly  enjoying  themselves
@@ -4471,12 +4307,10 @@ country,  he  killed  that  Zinigav."  4  In  the  Bundahish  Zainigav  is
 said  to  have  been  the  grandfather  of  Zahhdk,5  the  great  protagonist
 of  the  Arab  race  in  the  Shahnama.6  The  Iranians,  when  they  had
 to  choose  between  the  Turanians  and  the  Arabs,  preferred  the
-former.  Even  the  arch-enemy  Afrasiyab  is  allowed  to  have  pos-
-sessed for  a  while  the  divine  Grace  of  kingship 7  when  he  opposed
+former.  Even  the  arch-enemy  Afrasiyab  is  allowed  to  have  possessed for  a  while  the  divine  Grace  of  kingship 7  when  he  opposed
 the  common  foe,  the  Arabs.8
 
-§§  8-10.  We  are  told  in  the  Dinkard  that  Kai  Kaus  built  him-
-self seven  dwellings  on  Mount  Alburz,  one  of  gold,  two  of  silver,
+§§  8-10.  We  are  told  in  the  Dinkard  that  Kai  Kaus  built  himself seven  dwellings  on  Mount  Alburz,  one  of  gold,  two  of  silver,
 two  of  steel,  and  two  of  crystal,  that  he  warred  against  the  divs  of
 Mazandaran  and  fell  into  a  trap  which  they  laid  to  destroy  him.
 To  this  end  one  of  them  undertook  to  tempt  him  by  making  him
@@ -4491,8 +4325,6 @@ To  this  end  one  of  them  undertook  to  tempt  him  by  making  him
 
 VOL.  II.  F
 
-
-82  THE  SHAHNAMA    OF  FIRDAUSI
 
 discontented  with  his  earthly  sovereignty  and  inducing  him  to  aspire
 to  that  of  the  sky  of  the  archangels.  He  yielded  to  the  tempter.
@@ -4509,8 +4341,7 @@ the  destruction  of  his  champions  and  troops,  when  I  would  occasion
 a  distant  flight  of  the  sovereign  of  Turan."  Accordingly  Kaus  was
 released  and  became  discreet.1
 
-Underground  dwellings,  such  as  Kai  Kaus  is  said  to  have  exca-
-vated for  stabling  purposes  in  connexion  with  his  buildings,  are
+Underground  dwellings,  such  as  Kai  Kaus  is  said  to  have  excavated for  stabling  purposes  in  connexion  with  his  buildings,  are
 very  numerous  in  northern  Iran.2
 
 The  reader  will  note  that  in  §  9  we  have  Iblis  where  we  should
@@ -4519,8 +4350,7 @@ the  Arabic.3
 
 §§  11-14.  In  the  story  of  the  Fight  of  the  Seven  Warriors  with
 which  this  part  concludes  we  have  an  account  of  a  border-foray  of
-the  Chevy  Chase  order.  More  than  seven  Iranian  warriors,  how-
-ever, are  mentioned.
+the  Chevy  Chase  order.  More  than  seven  Iranian  warriors,  however, are  mentioned.
 
 
 How  Kai  Kaus  warred  with  the  King  of  Hdmdvardn
@@ -4539,8 +4369,6 @@ With  crown  and  diadem,  intent  on  conquest.
 
 1  WPT,  iv.  220-223.          2  GHP,  i.  25,  note.          3  See  vol.  i.  p.  70.
 
-
-KAI   KAUS  83
 
 The  monarch  of  Barbar  prepared  for  war,
 
@@ -4594,8 +4422,6 @@ To  meet  with  trials  is  the  lot  of  all,
 And  he  that  rnounteth  must  expect  a  fall.
 The  Arabs  rose  when  all  seemed  going  well.
 
-
-84  THE   SHAHNAMA    OF  FIRDAUSI
 
 A  wealthy  and  aspiring  man  of  parts
 
@@ -4658,8 +4484,6 @@ The  army's  dust  made  heaven  like  sandarach,
 The  whole  world  turned  as  black  as  ebony,
 
 
-KAI  KAUS  85
-
 The  mountains  shivered  at  the  trumpets'  blast,
 And  earth  was  bent  beneath  the  horses'  hoofs,
 The  din  of  tymbals  would  have  made  thee  say : —
@@ -4703,8 +4527,6 @@ With  emeralds  and  other  gems  and  said : —
 "  0  just  and  mighty  lord !  we  chiefs  and  commons
 Are  dust  upon  thy  feet  and  slaves  of  thine.
 
-
-86  THE   SHAHNAMA    OF  FIRDAUSI
 
 Be  joyful  and  triumphant  all  thy  years,
 And  be  the  heads  and  fortunes  of  thy  foes
@@ -4762,8 +4584,7 @@ His  tongue  with  eloquence,  his  heart  with  zeal,
 And  furnished  forth  his  lips  with  courtesies.
 He  gave  that  monarch  greeting  from  Kaiis,
 Then  did  the  embassage,  which  pained  the  king,
-Who  thought :  "  Though  he  be  king  of  kings  and  world-
-lord
+Who  thought :  "  Though  he  be  king  of  kings  and  worldlord
 
 Victorious  and  obeyed,  I  have  no  daughter
 But  this,  and  she  is  dearer  than  sweet  life  ;
@@ -4794,8 +4615,6 @@ Siidaba  answered :  "  If  this  must  be  so
 There  is  no  need  to  sup  on  grief  to-day.
 Why  grieve  at  union  with  the  king  of  earth,
 
-
-88  THE   SHAHNAMA    OF  FIRDAUSI
 
 Who  can  deprive  the  mighty  of  their  lands  ?
 This  is  not  grief  but  joy."
@@ -4848,8 +4667,6 @@ Meanwhile  the  father  grieved  and  sought  a  cure ;
 So  eight  days  afterward  he  sent  at  dawn
 
 
-KAI   KAUS  89
-
 A  messenger  to  Kai  Kaiis  to  say  :—
 
 "  If  now  the  Shah  will  be  mine  honoured  guest
@@ -4893,8 +4710,6 @@ The  monarch  of  Hamavaran  stood  girded —
 A  subject  in  his  presence  day  and  night —
 With  all  his  troops  to  serve  the  Iranians  v.  389
 
-
-90  THE   SHAHNAMA    OF  FIRDAUSI
 
 Till  each  felt  safe,  and  all  suspicion  ceased ;
 
@@ -4959,8 +4774,6 @@ All  swordsmen  of  renown,  kept  watch.     He  gave
 The  camp-enclosure  of  Kaiis  to  spoil,
 
 
-KAI  KAUS  91
-
 Bestowing  on  his  own  chiefs  crowns  and  purses.
 
 Two  files  of  ladies  with  a  covered  litter
@@ -4993,7 +4806,7 @@ throne
 Of  gold  an  ambuscade  and  break  your  faith."
 
 She  called  the  servants  "  dogs,"  her  jasmine-skin
-Was  smirched  with  blood,  she  did  not  spare  her  words.  >
+Was  smirched  with  blood,  she  did  not  spare  her  words.  )
 She  said :  "  I  will  not  part  with  Kai  Kaus
 Although  he  shall  be  hidden  in  the  dust,
 And,  since  he  needs  must  drag  his  chain,  behead  me
@@ -5018,8 +4831,6 @@ Toward  Iran,  and  having  passed  the  sea
 
 In  ships  and  transports  crossed  the  desert  homeward.
 
-
-92  THE   SHAHNAMA    OF  FIRDAUSI
 
 V.  391        When  they  arrived  'twas  bruited  through  the  realm  : —
 "  The  Cypress-tree  is  missing  from  the  garden,
@@ -5069,8 +4880,6 @@ V.  393        Who  nocked  to  him  out  of  Zabul,  Kabul,
 And  Hindustan.     Throughout  his  wide  domain
 
 
-KAI  KAUS  93
-
 Arose  the  sound  of  trump  and  Indian  bell.
 The  heart  of  Rustam  raged  like  fire  ;  he  led
 The  army  forth  and  like  a  storm-wind  sped.
@@ -5118,8 +4927,6 @@ Thou  comest  to  Barbaristan,  and  all
 Thy  cavaliers  have  fled,  a  chain  and  pit
 Are  ready  for  thee  too.     If  these  delights
 
-
-94  THE   SHAHNAMA    OF  FIRDAUSI
 
 Allure  thee  I,  according  to  our  custom,
 Will  meet  thee  with  my  troops."
@@ -5173,8 +4980,6 @@ They  feared,  bestirred  themselves,  arrayed  their  powers
 And  marched  toward  Hamavaran.     The  land
 Became  all  hill,  troops  stretched  from  range  to  range,
 
-
-KAI   KAUS  95
 
 And  dust  obscured  the  moon.     Then  Rustam  sent
 
@@ -5270,8 +5075,6 @@ Then  sword  and  javelin  gleamed  ;  thou  wouldst  have
 said : —
 
 
-KAI  KAUS  97
-
 "Heaven    hath    sown  earth  with   tulips,"  and   where
 
 Rustam
@@ -5315,8 +5118,6 @@ The  tents,  the  crowns,  and  everything  of  value,  V.  402
 1  The  name  of  a  river.
 VOL.  II.  G
 
-
-98  THE   SHAHNAMA    OF  FIRDAUSI
 
 Among  the  treasures  of  Shah  Kai  Kaiis,
 
@@ -5485,8 +5286,6 @@ That  rivers,  plains,  and  hills  were  strewn  with  slain —
 Rustam  was  born,  but  more  probably  =  Sajistan  =  Sistiln.
 
 
-KAI  KAUS  101
-
 The  more  part  of  their  host — and  earth  was  puddled
 \Vith  blood  to  clay.     The  Turkmans'  fortune  slept.
 Afrasiyab  fled  Rustam  with  the  troops
@@ -5547,8 +5346,6 @@ That  learning  might  not  fail ;  two  armouries
 
 Of  virgin  silver  and  a  golden  palace
 
-
-102  THE   SHAHNAMA    OF  FIRDAUSI
 
 Twice  sixty  cubits  high  for  his  own  seat
 With  turquoise  traceries;  he  spared  not  jewels.
@@ -5645,8 +5442,6 @@ Strove  lustily  to  reach  the  flesh,  and  raising
 1  Cape  Comorin.
 
 
-104  THE  SHAHNAMA    OF  FIRDAUSI
-
 The  throne  above  earth's  surface  bore  it  cloudward.
 Kaus,  as  I  have  heard,  essayed  the  sky
 
@@ -5693,8 +5488,6 @@ father  of  Kai  Khusrau.
 
 3  Couplet  inserted  from  C.      See  introductory  note  to  this  Part.
 
-
-KAI   KAUS  105
 
 I  have  been  conversant  with  crown  and  throne,
 
@@ -5790,8 +5583,6 @@ Kaiis  saw  what  was  right,  did  what  was  right,
 A  breath  of  wind  was  this  world  in  his  sight.
 
 
-KAI   KAUS  107
-
 THE   STORY  OF   THE   FIGHT   OF  THE
 SEVEN  WARRIORS
 
@@ -5878,8 +5669,7 @@ V.  418       The  hunters  were  light-hearted,  full  of  glee,
 With  laughter  constantly  upon  their  lips,
 And  having  spent  a  sennight  wine  in  hand
 Were  jovially  bemused.     The  peerless  Rustam
-Came  as  the  eighth  day  dawned   with  needful  warn-
-ings :—
+Came  as  the  eighth  day  dawned   with  needful  warnings :—
 
 "  Afrasiyab  no  doubt  hath  heard  of  us
 By  this.     We  must  not  let  that  Ahriman
@@ -6072,8 +5862,6 @@ His  sire  was  glorious  Wisa  and  his  brother
 Victorious  Piran.     Both  in  Iran
 
 
-KAI  KAUS  113
-
 And  in  Turan  he  had  no  peer  save  Rustain.
 
 On  hearing  what  Afrdsiyab  had  said
@@ -6127,8 +5915,6 @@ Which  tumbled  prone.     The  gallant  warrior  fell,
 VOL.  n.  H
 
 
-114  THE   SHAHNAMA    OF  FIRDAUSI
-
 Took  up,  and  knit  his  mail-skirt  round  his  waist
 To  strive  afoot  against  the  great  Pilsam
 Amid  the  dust — the  prey  against  the  lion.
@@ -6170,8 +5956,6 @@ In  blood  came  to  the  centre  to  the  king,
 And  cried  aloud  :  "  A  man  of  war  am  I,
 A  Lion  waiting.     At  the  king's  command
 
-
-KAI  KAUS  115
 
 I  will  go  forth  to  battle  single-handed."
 
@@ -6270,8 +6054,6 @@ His  neck  away;  again  the  wind-foot  steed
 Beneath  him  sped  like  fire.     Afrasiyab
 
 
-KAI  KAUS  117
-
 Escaped,  but  with  wet  cheeks  and  drouthy  mouth,
 
 While  all  his  horsemen  hurried  after  him
@@ -6332,8 +6114,7 @@ ARGUMENT
 The  poet,  after  justifying  in  his  prelude  the  ways  of  God  to  man
 in  the  matter  of  early  death,  tells  how  Rustam,  in  the  course  of  one
 of  his  hunting  expeditions  to  Tiiran,  marries  Tahmina,  the  daughter
-of  the  king  of  Samangan.  Rustam  returns  to  Iran  and  is  subse-
-quently informed  by  Tahmina,  who  has  remained  at  Samangan,
+of  the  king  of  Samangan.  Rustam  returns  to  Iran  and  is  subsequently informed  by  Tahmina,  who  has  remained  at  Samangan,
 that  she  has  borne  him  a  son — Suhrab.  In  after  years  Suhrab
 joins  the  host  of  Afrasiyab  in  an  invasion  of  Iran  in  the  hope  of
 meeting  his  father,  who  has  been  misled  by  Tahmina  into  forming
@@ -6365,10 +6146,6 @@ mountain  of  the  Bundahish.3  It  was  the  scene  of  the  death  of
 
 i  See  vol.  i.  p.  236.  2  DZA,  ii.  289.  3  WPT,  i.  39.
 
-118
-
-
-KAI  KAUS  119
 
 Nariman,  Kustam's  great-grandfather,  of  Rustam's  second  exploit,1
 and  of  the  defeat  and  death  at  the  hands  of  Karau  of  the  Turanian
@@ -6376,8 +6153,7 @@ hero  Barman,2  who,  it  is  worth  noting,  has  reappeared  as  if  nothing
 had  happened.3  Similarly  Kulbad  reappears.4
 
 We  are  here  introduced  to  a  female  warrior — Gurdafrid — the
-only  one  in  the  poem,  with  the  exception  of  Gurdya,  the  strong-
-minded  and  courageous  sister  of  Bahrain  Chubina.  Gurdya,  how-
+only  one  in  the  poem,  with  the  exception  of  Gurdya,  the  strongminded  and  courageous  sister  of  Bahrain  Chubina.  Gurdya,  how-
 ever, does  not  appear  on  the  scene  till  the  Shahnama  is  near  its
 end.  As  for  Gurdafrid,  she  merely  crosses  Suhrab's  path  for  a
 moment  and  nothing  more  is  heard  of  her.  This  seems  to  show
@@ -6421,8 +6197,6 @@ For  thee,  and  heaven's  eternal  rest  be  won.
 5  A  lament  of  Suhrab's  for  the  loss  of  Gurddfrid  is  added  in  C,  but
 the  couplets  are  asterisked  and  V  rejects  them.
 
-
-120  THE   SHAH  NAM  A    OF  FIRDAUSI
 
 Unless  death  swallowed  all  men  up  in  turn
 
@@ -6472,8 +6246,6 @@ When  he  drew  near  the  marches  and  beheld
 The  plain  well  stocked  with  onager,  he  flushed
 Rose-like  and  smiled,  then  urging  on  his  steed
 
-
-KAI  KAUS  121
 
 He  dropped  much  game  with  arrow,  mace,  and  lasso.
 
@@ -6526,9 +6298,6 @@ Thus  with  a  weary,  aching  heart  he  went
 In  evil  case  and  much  discouragement.
 
 
-122  THE   SHAHNAMA    OF  FIRDAUSI
-
-
 How  Rustam  came  to  the  City  of  Samangdn
 
 When  Rustam  drew  near  Samangdn  the  king
@@ -6569,8 +6338,6 @@ Thou  doughty  veteran  ! "
 Rustam  heard  with  joy,
 And  easy  in  his  mind  agreed  to  pay
 
-
-KAI   KAUS  123
 
 A  visit  to  the  king  who,  greatly  pleased,
 
@@ -6637,8 +6404,6 @@ will  ? "
 She  said  :  "  Tahmina :  and  thou  well  rnayst  say
 That  mine  affliction  teareth  me  in  twain.
 
-
-124  THE   SHAH  NAM  A    OF  FIRDAUSI
 
 Sole  daughter  of  the  king  of  Samangan,
 And  by  descent  half  lion  and  half  pard,
@@ -6801,8 +6566,6 @@ She  brought  and  showed  a  letter  from  his  sire,
 Three  bright  gems,  and  three  purses  filled  with  gold,
 
 
-KAI  KAUS  127
-
 Sent  to  him  by  his  father  at  his  birth
 
 With  these  words :  "  Guard  these  well,  because  thy  sire
@@ -6847,8 +6610,6 @@ He  said  moreover :  "  Thou  shalt  see  my  prowess,
 But  I  must  have  a  charger  swift  of  foot
 
 
-128  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 With  hoofs  of  steel  flint-shattering,  in  strength
 v-  444       Like  elephants,  in  flight  like  birds,  in  water
 Like  fish,  and  on  the  land  like  deer,  to  bear
@@ -6889,8 +6650,6 @@ Like  Mount  Bistun ;  his  spear  was  pillar-like.
 He  said  :  "  Since  I  have  gotten  such  a  steed
 1  See  vol.  i.  p.  71.
 
-
-KAI  KAUS  129
 
 I  must  ride  forth  at  once  and  turn  the  day
 Of  Kai  Kaiis  to  gloom."
@@ -6943,8 +6702,6 @@ The  matchless  Kustam  will  be  put  to  it.
 VOL.  II.  I
 
 
-130  THE  SHAHNAMA    OF  FIRDAUSI
-
 It  may  be  that  this  lion-man  will  slay  him.
 Then  will  we  press  Kaus,  seize  on  Iran,
 With  Rustam  gone,  and  settle  with  Suhrab
@@ -6983,8 +6740,6 @@ Nor  crocodile  could  fight  him.     Thus  he  led
 The  host  toward  f ran,  burned  everywhere
 The  cultivated  parts,  and  left  all  bare.
 
-
-KAI   KAUS  131
 
 §8
 
@@ -7043,8 +6798,6 @@ Astound  in  heart  and  soul.     Suhrab  dismounted,
 1  Gurdiifrid.
 
 
-132  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 Sat  on  his  foeman's  breast,  and  had  in  mind
 To  cut  his  head  off,  but  Hajir  with  effort
 Turned  on  his  right  side  and  entreated  quarter.
@@ -7086,8 +6839,6 @@ He  armed  like  wind,  put  on  a  helm  of  Chin,
 
 1  Khir.     Cf.  WPT,  i.  104.
 
-
-KAI  KAUS  133
 
 And  rushed  out  to  encounter  Gurdafrid,
 
@@ -7156,8 +6907,6 @@ So  showed  her  face  and  said :  "  O  warrior,
 Midst  warriors  a  lion !  two  hosts  watch
 
 
-134  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 Our  prowess  with  the  mace  and  scimitar,
 
 And  now  that  I  have  shown  my  face  and  hair
@@ -7212,8 +6961,6 @@ Upon  the  ramparts  to  observe  the  foe,
 Beheld  Suhrab  still  mounted,  and  exclaimed : —
 
 
-KAI   KAUS  135
-
 "  0  warrior  of  Timin !  why  take  such  pains  ?
 Be  off  with  you  and  give  up  battlefields."
 
@@ -7253,8 +7000,6 @@ With  that  he  turned  about  his  charger's  rein
 And  took  the  way  to  his  own  camp  again.
 
 
-136  THE   SHAHNAMA    OF  FIRDAUSI
-
 §   10
 The  Letter  of  Gazhdaham  to  Kdils
 
@@ -7290,9 +7035,6 @@ Have  I  beheld,  but  never  heard  of  one
 With  such  a  seat.     God  grant  he  grapple  not
 With  one  of  us  between  the  battle-lines ;
 I  would  have  none,  e'en  though  a  Mount  of  flint,
-
-
-KAI  KAUS  137
 
 
 oet  him  upon  the  plain.     The  earth  would  pity
@@ -7347,8 +7089,7 @@ He  looked  for  Gurdafrid  but  found  her  not.
 
 His  heart  was  fain  for  love  and  union  with  her.
 
-"  Woe's  me ! "   he   thought,   "  the   bright   Moon  is  be-
-clouded ! "
+"  Woe's  me ! "   he   thought,   "  the   bright   Moon  is  beclouded ! "
 v.  458  Kaiis  received  the  letter  and  was  grieved.
 
 He  called  the  captains  of  the  host  to  counsel —
@@ -7508,8 +7249,6 @@ They  sought  the  ancestral  hall  and  stayed  awhile
 V.  464       In  unconcern,  then  Giv  again  applied
 
 
-KAI  KAUS  141
-
 To  Rustam,  praising  him  and  saying :    "  Hero,
 And  chief  of  paladins !  may  crown  and  throne
 Be  bright  to  thee  who  art  the  crown's  adornment,
@@ -7604,8 +7343,6 @@ On  Rustam  thus  ? "
 But  upon  this  the  Shah
 
 
-KAI   KAUS  143
-
 Raged  at  them  both,  so  that  all  present  marvelled.
 
 He  bade  Tus :  "  Go  and  hang  them  both  alive,"
@@ -7660,8 +7397,6 @@ Do  I  deserve  thy  words  ?     Art  thou  my  patron  ?
 Mine  was  the  throne.     I  set  Kubad  thereon.
 
 
-144  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 What  care  I  for  Kaiis,  his  wrath  and  bluster  ?
 If  I  had  not  fetched  Kai  Kubad  myself,
 When  he  had  fallen  into  low  estate,
@@ -7706,8 +7441,6 @@ The  mighty  men  to  do  him  reverence  !
 Another  time  too  when  our  sovereign's  feet
 Wore  heavy  fetters  in  Hamavaran
 
-
-KAI  KAUS  145
 
 What  monarchs  Rustam  slaughtered  for  his  sake
 
@@ -7812,8 +7545,6 @@ And  further,  since  a  hostile  host  is  near,
 Dim  not  this  crown  and  throne  so  wantonly,
 
 
-KAI   KAUS  147
-
 For  we  have  been  insulted  by  Turan,
 
 And  none  whose  Faith  is  pure  approveth  that."
@@ -7858,9 +7589,6 @@ And  all  became  bemused,  returning  home
 While  tedious  night  was  traversing  the  dome.
 
 
-148  THE   SHAHNAMA    OF  FIRDAUSI
-
-
 How  Kdus  and  Rustam  led  forth  the  Host
 
 When  Sol  had  pierced  night's  pitch-hued  cloak  and
@@ -7899,8 +7627,6 @@ Suhrab  the  hero  said  :  "  Relieve  thy  heart
 Of  care,  thou  wilt  not  see  in  this  vast  host
 A  single  warrior  or  massive  mace
 
-
-KAI  KAUS  149
 
 Meet  me  upon  the  field  though  sun  and  moon
 Be  on  their  side.     The  men  and  arms  abound,
@@ -7990,8 +7716,6 @@ But  Zhanda  Razm  the  Lion  came  not  back.
 At  length  the  youth  began  ,o  ask  for  him
 
 
-KAI   KAUS  151
-
 Because  his  room  was  empty.     Some  went  out,
 
 Beheld  him  vilely  overthrown,  at  peace  v.  476
@@ -8051,8 +7775,6 @@ About  the  Turkmans  and  their  banqueting,
 About  Suhrab,  his  stature  and  his  mien,
 
 
-152  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 His  arms  and  shoulders,  chest  and  feet,  and  said : —
 "  This  is  no  Turkman  born  ;  he  is  as  tall
 And  upright  as  a  cypress,  with  no  peer
@@ -8101,8 +7823,6 @@ Why  should  I  speak  to  thee  deceitfully  ?
 Thou  shalt  be  witness  to  mine  honest  dealing :
 
 
-KAI  KAUS  153
-
 I  will  not  even  think  a  guileful  thought.
 The  best  trade  in  the  world  is  honesty,
 The  worst  thought  guile."
@@ -8148,8 +7868,6 @@ Who  is  he  ?     Let  me  know  the  chieftain's  name,
 And  bring  not  ruin  on  thyself  by  guile."
 
 
-154  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 He  answered  :  "  That  belongeth  to  Gudarz —
 The  glory  of  the  Free — son  of  Kishwad,
 A  valiant  general  in  war.     He  hath
@@ -8192,8 +7910,6 @@ And  though  his  mother  had  described  the  bearings
 He  would  not  credit  his  own  eyes.     Again
 He  pressed  Hajir  to  tell  and  soothe  his  heart,
 
-
-KAI  KAUS  155
 
 But  o'er  his  head  was  written  otherwise —
 
@@ -8248,8 +7964,6 @@ Who  draweth  not  the  rein  in  fights  with  lions —
 A  prudent  man  descended  from  Givgan,
 
 
-156  THE   SHAHNAMA    OF  FIRDAUSI
-
 Who  never  murmureth  at  pain  or  hardship."
 
 Suhrab  thus  sought  for  traces  of  his  father :
@@ -8296,8 +8010,6 @@ Thy  head  shall  be  exalted  everywhere ;
 I  will  unlock  the  secret  treasuries
 
 
-KAI   KAUS  157
-
 And  leave  thee  not  a  want,  but  if  thou  keepest
 This  secret  from  me,  making  mystery
 Where  there  is  none,  I  will  cut  off  thy  head.
@@ -8339,8 +8051,6 @@ Will  soon  be  quenched,  and  when  the  sun  shall  draw
 Its  blazing  sword  night's  head  will  go  to  sleep."
 
 
-158  THE   SHAHNAMA    OF  FIRDAUSI
-
 Hajir  unwitting  thought :  "  If  I  declare
 The  lion-taker's  bearings  and  inform
 This  Turkman  with  such  hand  and  neck  and  seat,
@@ -8380,9 +8090,6 @@ For  shedding  blood ;  show  thy  true  colours  then.
 Thou  wilt  not  crush  the  elephantine  chief,
 
 
-KAI  KAUS  159
-
-
 get  him  easily  within  thy  clutches.
 Refrain  from  seeking  him  in  fight,  for  he
 Will  surely  make  the  dust  fly  out  of  thee."
@@ -8411,8 +8118,7 @@ He  mounted  on  his  rapid  steed,  sent  up
 The  battle-cry,  and  spear  in  hand  rushed  out  v.  486
 
 Like  some  mad  elephant  upon  the  field.
-He   came   forth  bent   on   fight,  he   made   the   dust-
-clouds
+He   came   forth  bent   on   fight,  he   made   the   dustclouds
 
 Fly  to  the  moon,  then  charged  the  Shah's  enclosure
 And  made  it  totter  with  his  spear,  while  all
@@ -8424,8 +8130,6 @@ Such  arm  and  flashing  spear.     They  met  and  said  :
 One  that  we  cannot  look  on  unappalled  !
 Who  is  there  bold  enough  to  challenge  him  ? "
 
-
-160  THE   SHAH  NAM  A    OF  FIRDAUSI
 
 Anon  Suhnib  the  warrior  raised  his  voice,
 Assailing  Shah  Kaus  with  scornful  words,
@@ -8467,8 +8171,6 @@ Each  one  was  crying  to  another  :  "  Quick ! "
 The  matchless  hero  heard  it  from  his  tent
 And  thought :  "  This  must  be  Ahriman's  own  fight !
 
-
-KAI   KAUS  161
 
 So  great  a  hubbub  is  not  made  for  one."
 
@@ -8543,8 +8245,7 @@ How  Rustam  fought  with  Suhrdb
 Suhrab,  still  musing  on  his  mother's  words,
 Went  spear  in  hand.     They  chose  a  battle-ground    0
 Where  room  was  scant,  and  fought  with  javelins
-Till  points  and  whipping  broke;    next,  wheeling  left-
-ward,
+Till  points  and  whipping  broke;    next,  wheeling  leftward,
 
 Closed  with  their  Indian  scimitars  and  showered
 Sparks  from  their  blades,  which  shivered  'neath  such
@@ -8563,8 +8264,6 @@ And  tongues  thirst-cracked,  at  length  the  champions
 parted,
 The  sire  in  anguish  and  the  son  exhausted.
 
-
-KAI   KAUS  163
 
 O  world  !  thy  doings  are  a  mystery,
 The  broken  and  the  whole  both  come  from  thee !
@@ -8607,8 +8306,6 @@ Who  though  he  winced  yet  bravely  bare  the  pain.
 
 1  A  meteorite  built  into  the  wall  of  the  Kaaba  at  Mecca.
 
-
-1 64  THE   SHAHNAMA    OF  FIRDAUSI
 
 Suhrab  laughed  out  and  cried  :  "  0  cavalier  !
 Thou  canst  not  bear  the  buffets  of  the  brave.
@@ -8656,8 +8353,6 @@ For  all  the  bright  world  yieldeth  to  the  sword,
 And  if  thine  arms  are  so  familiar
 
 
-KAI  KAUS  165
-
 With  scimitar  and  arrow  never  die !
 
 Come  we  with  vengeful  swords  at  break  of  day
@@ -8701,8 +8396,6 @@ And  puddled  with  their  blood  the  ground  to  clay,
 While  ye  looked  on.     However,  none  opposed  me  ;
 'Twas  well  none  did,  for  had  a  lion  come
 
-
-1 66  THE   SHAHNAMA    OF  FIRDAUSI
 
 He  would  not  have  escaped  my  massive  mace.
 
@@ -8753,8 +8446,6 @@ The  stars ;  the  earth  can  not  support  his  bulk ;
 His  arms  and  thighs  are  camel-like  and  larger.
 With  sword  and  shaft,  with  lasso  and  with  mace,
 
-
-KAI   KAUS  167
 
 We  proved  each  other  lustily  in  all  ways
 
@@ -8870,8 +8561,6 @@ And  mounted  on  his  fiery  dragon-steed.
 Two  leagues  divided  host  from  host,  and  all
 Stood  ready-armed.     The  hero  with  a  casque
 
-
-KAI  KAUS  169
 
 Of  iron  on  his  head  came  on  the  field.
 
@@ -9016,8 +8705,6 @@ Would  sink  therein.     Such  puissance  as  that
 1  Zahhak.     See  vol.  i.  p.  154.
 
 
-172  THE   SHAHNAMA    OF  FIRDAUSI
-
 Proved  an  abiding  trouble,  and  he  prayed
 
 To  God  in  bitterness  of  soul  to  minish
@@ -9075,8 +8762,6 @@ Hath  hampered  him,"  while  Rustam  reaching  clutched
 That  warrior-leopard  by  the  head  and  neck,
 
 
-KAI  KAUS  173
-
 Bent  down  the  body  of  the  gallant  youth,
 
 Whose  time  was  come  and  all  whose  strength  was  gone,
@@ -9127,8 +8812,6 @@ He   raved,  his   blood  seethed,   and  with  groans  he
 plucked  v.  504
 
 
-174  THE   SHAHNAMA    OF  FIRDAUSI
-
 His  hair  up  by  the  roots,  while  at  the  sight
 Suhrab  sank  swooning  till  at  length  he  cried  : —
 "  If  thou  indeed  art  Rustam  thou  hast  slain  me
@@ -9173,8 +8856,6 @@ The  drums  and  trumpets,  Tiis  came,  and  the  Shah
 Said  to  the  troops  :  "  Dispatch  a  messenger
 *     That  he  may  find  out  what  Suhrab  hath  done,
 
-
-KAI  KAUS  175
 
 And  if  there  must  be  mourning  through  Iran.
 None  will  confront  him  with  brave  Rustam  dead.
@@ -9272,7 +8953,7 @@ Was  minded  to  behead  him,  but  the  nobles  ,    179
 Took  part  with  him  and  saved  him  from  death's  door.
 Then  Rustam  hurried  to  his  wounded  son
 With  Tiis,  Giidarz,  and  Gustaham,  while  all
-The  troops,  concerned  for  Rustam>  said  to  him  : —
+The  troops,  concerned  for  Rustam)  said  to  him  : —
 ''•  God  will  provide  a  remedy  for  this,
 And  make  thy  sorrow  easy."
 
@@ -9538,7 +9219,7 @@ How  Rustam  returned  to  Zabulistdn
 The    Shah   marched   homeward  with  the  host,  while
 Rustam
 
-v>  5*4        Stayed  for  Zawara's  news  about  the  foe,
+v)  5*4        Stayed  for  Zawara's  news  about  the  foe,
 
 Then  marched  at  dawn  toward  Zabulistan,
 Where  Zal  and  all  the  folk  went  out  to  meet  him
@@ -9576,11 +9257,8 @@ In  front  of  him.     Rudaba,  seeing  it
 And  Rustam's  tears,  exclaimed  :  "  Alack  !  thou  hero  !
 
 
-KAI  KAUS  183
-
 Uplift  thy  head  one  moment  from  the  bier."
-She    wailed    and    heaving    deep-drawn    sighs    ex-
-claimed : —
+She    wailed    and    heaving    deep-drawn    sighs    exclaimed : —
 
 "  0  paladin,  son  of  the  Lion's  Whelp !
 
@@ -9678,8 +9356,6 @@ I  said :  '  I  may  have  tidings  of  Suhrab
 And  Rustam.'     Then  I  mused  and  said :  '  Already
 
 
-KAI  KAUS  185
-
 Hast  thou  been  round  the  world  to  find  thy  father,
 Hast  found  him,  and  art  speeding  home  again.'
 How  could  I  know,  my  son !  that  news  would  come
@@ -9718,8 +9394,6 @@ This  said  she  tore  herself,  plucked  out  her  hair,
 And  smote  her  lovely  visage  with  her  palms.
 She  tilled  the  eyes  of  all  the  folk  with  hail,
 
-
-1 86  THE   SHAH  NAM  A    OF  FIRDAUSI
 
 So  grievous  were  her  moans  and  lamentations.
 At  length  while  all  hearts  ached  she  fell  a-swoon,
@@ -9783,8 +9457,6 @@ Is  for  thine  own  departure  to  prepare,
 Since  here  thou  canst  not  stay.     So  dally  not.
 
 
-KAI  KAUS  187
-
 Thy  father  once  gave  up  his  place  to  thee,
 And  thou  must  give  up  thine.     Such  is  our  lot,
 
@@ -9844,8 +9516,6 @@ militate  against  or  to  modify  other  legends  in  which  ancestor  and
 descendant  meet  on  equal  terms,  in  the  full  vigour  of  manhood,  as
 
 
-KAI  KAUS  189
-
 strangers  ignorant  of  their  blood-relationship,  as  enemies,  as  villain
 and  victim.  Such  instances  are  the  surest  guarantee  that  the  poet
 is  drawing  on  epic  sources  and  not  on  his  own  imagination.  The
@@ -9863,8 +9533,7 @@ It  should  be  mentioned,  however,  that  Sudaba's  pretext  for
 inviting  Siyawush  to  visit  her — the  suggested  marriage  of  one  of
 her  daughters  to  him — was  a  legitimate  one  to  a  Zoroastrian .
 
-Sudaba's  daughter  would  be  Siydwush's  half-sister,  and  next-of-
-kin  marriages,  as  they  were  called,  were  not  only  permitted  but
+Sudaba's  daughter  would  be  Siydwush's  half-sister,  and  next-ofkin  marriages,  as  they  were  called,  were  not  only  permitted  but
 regarded  as  a  sacred  duty  by  the  Magi.2  Sudaba,  with  the  wit  of  a
 woman  much  in  love,  hit  upon  a  perfectly  legitimate  motive,  and
 Kai  Kaiis  accepted  it,  as  we  see,  without  the  least  suspicion.
@@ -9874,8 +9543,7 @@ several  times  mentioned  in  connection  with  his  murder  by  Garsiwaz
 and  Afrasiyab,  and  the  vengeance  exacted  for  it  by  Kai  Khusrau,
 who,  we  are  told,  "  prevailed  over  all ;  he  put  in  bonds  Frangrasyan
 and  Keresavasda,  to  avenge  the  murder  of  his  father  Syavarshana." 3
-Here,  as  in  other  cases,  the  leading  motives  of  the  Shahnama  origi-
-nate in  the  Zandavasta.
+Here,  as  in  other  cases,  the  leading  motives  of  the  Shahnama  originate in  the  Zandavasta.
 
 §  49.  The  poet  in  his  description  of  Gang-dizh  perhaps  had  in  his
 mind  the  famous  stronghold  of  Kalat-i-Nadiri,  which  lies  about
@@ -9887,8 +9555,7 @@ to  place  it  in  Kharazm.  In  the  Zandavasta  we  read  of  "  the  castle
 Khshathro-saoka,  that  stands  high  up  on  the  lofty,  holy  Kangha."  4
 In  the  Dina-i  Mainog-i  Khirad,  a  Pahlavi  treatise,  Siyawush  is
 described  as  the  founder  of  Kangdez,  and  Kangde.^  itself  is  described
-as  lying  to  the  east,  on  the  frontier  of  Airan-vego.5  In  the  Bunda-
-hish  it  is  described  as  being  in  the  direction  ot  the  east,  "  at  many
+as  lying  to  the  east,  on  the  frontier  of  Airan-vego.5  In  the  Bundahish  it  is  described  as  being  in  the  direction  ot  the  east,  "  at  many
 leagues  from  the  bed  of  the  wide-formed  ocean  towards  that  side."  6
 Now  the  learned  Abu  Hainan  Muhammad,  more  commonly  known
 in  the  west  as  Albiruni,  was  a  native  of  Kharazm  and  wrote  a
@@ -9900,8 +9567,6 @@ in  the  west  as  Albiruni,  was  a  native  of  Kharazm  and  wrote  a
 
 5  WPT,  iii.  64,  109.  «  WPT,  i.  119
 
-
-190  THE   SHAHNAMA    OF  FIRDAUSI
 
 history  of  that  country.  His  account  is  nearly  all  lost,  but  in
 another  work  of  his  he  tells  us  that  the  Kharazmians  dated  the
@@ -9927,8 +9592,7 @@ epithet  "holy"  applied  to  Kangha  in  the  Zandavasta  evidently
 points  to  the  fact  that  they  were  Zoroastrians  as  well.  It  may  be
 therefore  that  the  Khshathro-saoka  of  the  Zandavasta,  the  Kangdes
 of  the  Pahlavi  texts,  the  Alfir  of  Albiruni,  and  the  Gang-dizh  of
-the  Shahnama  all  represent  one  and  the  same  place — the  palace-
-fortress  of  the  ancient  capital  of  Kharazm.  Kharazni  is,  of  course,
+the  Shahnama  all  represent  one  and  the  same  place — the  palacefortress  of  the  ancient  capital  of  Kharazm.  Kharazni  is,  of  course,
 the  modern  Khiva,  and  Gang-dizh  means  the  fortress  (dizh)  of  the
 land  of  Kangha.
 
@@ -9936,8 +9600,7 @@ land  of  Kangha.
 we  have  in  essentials  the  same  story  as  that  told  by  Herodotus2
 some  fifteen  centuries  earlier.  Astyages,  the  king  of  the  Medes,
 had  a  daughter  Mandane.  He  had  a  dream  about  her  which  he
-told  to  Magi  who  were  learned  in  such  matters.  Their  interpre-
-tation of  it  alarmed  him,  and  as  the  safest  course  in  the  circum-
+told  to  Magi  who  were  learned  in  such  matters.  Their  interpretation of  it  alarmed  him,  and  as  the  safest  course  in  the  circum-
 stances he  married  his  daughter  to  an  unambitious  Persian  of  good
 family  named  Cambyses.  Soon  after  Astyages  had  another  dream
 about  Mandane.  He  again  consulted  the  dream-interpreters,  who
@@ -9967,11 +9630,9 @@ the  living  child.  The  son  of  Mandane  thus  grew  up  in  the  house
 of  the  herdsman,  and  his  royal  birth  soon  began  to  assert  itself.
 His  playmates  chose  him  for  their  king,  and  he  used  to  hold  mock
 court  among  them.  At  length  an  incident  brought  the  matter  to
-the  ears  of  Astyages,  who  questioned  the  herdsman  and  was  exceed-
-ingly wroth  with  Harpagus.  The  interpreters  of  dreams,  however,
+the  ears  of  Astyages,  who  questioned  the  herdsman  and  was  exceedingly wroth  with  Harpagus.  The  interpreters  of  dreams,  however,
 declared  that  no  further  danger  was  to  be  apprehended  from  Cyrus,
-as  the  dream  had  been  sufficiently  fulfilled  by  his  election  to  king-
-ship by  his  playfellows.  Accordingly  Astyages  sent  him  back  to
+as  the  dream  had  been  sufficiently  fulfilled  by  his  election  to  kingship by  his  playfellows.  Accordingly  Astyages  sent  him  back  to
 Persia  to  his  parents  Cambyses  and  Mandane.  Subsequently  Cyrus,
 incited  by  Harpagus,  rebelled  and  overthrew  Astyages.
 
@@ -9998,8 +9659,6 @@ The  poet's  soul  will  be  a  source  of  joy;
 But  he  whose  thoughts  lack  loveliness  will  thwart
 1  Vol.  i.p.  17.
 
-
-192  THE   SHAHNAMA    OF  FIRDAUSI
 
 His  purpose  by  his  own  unlovely  thought ;
 Moreover  he  will  make  himself  a  cross,
@@ -10045,8 +9704,6 @@ Soft  words  :  make  speaking  gently  thy  concern.
 Now  for  the  rustic  minstrel's  tale.     Heed  well
 The  matter  that  the  poet  hath  to  tell.
 
-
-KAI  KAUS  193
 
 §2
 The  Story  of  the  Mother  of  Siydicush
@@ -10108,8 +9765,6 @@ Unmounted  and  unguided  ? "
 VOL.  II.  N
 
 
-194  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 She  replied : —
 
 "  My  steed  was  wearied  out  and  fell  exhausted.
@@ -10156,8 +9811,6 @@ A  quarry  such  as  this  is  for  your  lord.
 Come  let  us  pass  the  day  in  telling  how
 These  warriors  with  their  cheetahs  caught  a  Sun ! "
 
-
-KAI  KAUS  195
 
 He  questioned  her :  "  What  is  thy  lineage,
 For  thou  art  fairy-like  in  countenance  ? "
@@ -10211,8 +9864,6 @@ And  all  the  folk  are  talking  of  the  child."
 1  Azarbdijan.
 
 
-196  THE   SHAHNAMA    OF  FIRDAUSI
-
 The  world-lord  named  him  Siyawush,  and  gave
 The  rolling  heaven  praise  because  of  him ;
 Yet  they  that  read  the  purpose  of  the  sky,
@@ -10252,8 +9903,6 @@ Of  elephantine  Rustam's  tutelage."
 
 The  lion-hearted  hero  made  all  ready,
 
-
-KAI  KAUS  197
 
 And  sent  posts  everywhere.     Of  horses,  slaves,
 
@@ -10322,8 +9971,6 @@ Was  in  the  midst.     They  showered  gold  and  gems,
 
 And  called  down  blessings  on  him.     Siyawush,
 
-
-198  THE   SHAH  NAM  A    OF  FIRDAUSI
 
 When  he  beheld  Kaus  upon  his  throne
 Of  ivory  and  crowned  with  brilliant  rubies,
@@ -10433,8 +10080,6 @@ Hear  mine  advice  and  think  no  more  of  grief.
 The  child  of  every  mother  will  depart ;
 
 
-200  THE    SHAHNAMA    OF  FIRDAUSI
-
 Not  one  of  them  can  'scape  the  clutch  of  fate.
 Although  thy  mother  is  a  memory  now,
 Mourn  not :  her  spirit  is  in  heaven."
@@ -10526,8 +10171,6 @@ My  custom  henceforth  is  to  visit  them."
 The  Shah  replied :  "  Be  happy,  0  my  son  !  v.  534
 
 
-202  THE  SHAHNAMA    OF  FIRDAUSI
-
 May  wisdom  rest  upon  thee !     I  have  heard
 
 But  seldom  such  fair  words.     Thy  brain  will  grow
@@ -10583,8 +10226,6 @@ And  be  prepared  to  look  on  something  new."
 The  twain  went  off  together  merrily
 Without  a  thought  of  care ;  but  when  Hirbad
 
-
-KAI  KAUS  203
 
 Held  up  the  veil  that  hung  before  the  door  v.  535
 
@@ -10654,8 +10295,6 @@ With  many  a  blessing  on  a  golden  seat.
 He  stayed  awhile,  then  went  back  to  the  Shah.  v.  536
 
 
-204  THE  SHAHNAMA    OF  FIRDAUSI
-
 The  bower  was  full  of  talk :  the  women  said : —
 "  Behold  the  head  and  crown  of  courtesy !
 '  He  is  not/  thou  hadst  said,  '  like  other  men :
@@ -10700,9 +10339,6 @@ Or  should  he  take  a  child  of  Kai  Arash,
 Or  Kai  Pashin,  she  would  give  thanks  with  joy."
 
 1  Open  praise,  especially  of  the  young,  was  regarded  as  unlucky.
-
-
-KAI   KAUS  205
 
 
 He  said  to  her :  "  It  is  my  wish.     My  name  v.  537
@@ -10763,8 +10399,6 @@ Was  gladdened  by  the  words,  and  reassured
 
 Began  to  speak  the  world-king's  praise  and  pay
 
-
-206  THE   SHAHNAMA    OF  FIRDAUSI
 
 Him  reverence,  falling  down  before  the  throne,
 Yet  privily  Siidaba  with  her  schemes
@@ -10864,7 +10498,7 @@ That,  when  the  Shah  departeth  from  the  world,
 Thou  wilt  be  his  memorial  with  me,
 Wilt  never  suffer  me  to  come  to  harm,
 But  hold  me  dear  as  life.     And  now  behold  !
-v>  540       I  stand  before  thee  and  I  give  to  thee
+v)  540       I  stand  before  thee  and  I  give  to  thee
 Myself  and  my  sweet  life.     I  will  fulfil
 Whate'er  thou  asketh  me — thy  whole  desire —
 And  let  my  head  be  taken  in  thy  toils."
@@ -10900,8 +10534,6 @@ And  give  a  pledge  before  thee  with  my  tongue,
 That  till  her  stature  equalleth  mine  own
 I  will  not  think  of  any  one  besides.
 
-
-KAI  KAUS  209
 
 For  what  thou  askest  further — since  my  face
 
@@ -11021,8 +10653,6 @@ thee."
 Religion  to  the  winds  for  passion's  sake,
 
 
-KAI   KAUS  211
-
 That  I  should  treat  my  sire  disloyally,
 
 And  be  a  coward  and  a  fool  at  once  !
@@ -11085,8 +10715,6 @@ The  Shah  was  troubled,  asked  her  many  questions,
 And  thought :  "  If  she  saith  sooth,  and  if  she  hath
 
 
-212  THE  SHAHNAMA    OF  FIRDAUSI
-
 No  evil  end  in  view,  I  must  cut  off
 The  head  of  Siyawush :  that  will  unlock
 These  bonds  of  villainy."
@@ -11129,8 +10757,6 @@ I  am  with  child,  0  monarch  of  the  world  !
 By  thee,  but  he  was  near  to  killing  it
 
 
-KAI  KAUS  213
-
 With  all  his  struggles,  and  the  world  was  strait
 And  dark  before  me."
 
@@ -11170,9 +10796,6 @@ And  said  to  him :  "  Be  not  concerned  hereat ;
 Be  prudent  and  consider  well  thy  going.
 Talk  not  about  this  thing,  tell  it  to  none ;
 The  matter  must  be  kept  from  every  one."
-
-
-214  THE   SHAHNAMA    OF  FIRDAUSI
 
 
 Row  Siiddba  and  a  Sorceress  devised  a  Scheme
@@ -11223,8 +10846,6 @@ Whereon  she  laid  those  brats  of  Ahriman,
 
 1  Reading  with  P.
 
-
-KAI  KAUS  215
 
 And  shrieked  and  flung  herself  upon  a  couch.
 
@@ -11290,8 +10911,6 @@ They  then  took  planispheres  and  astrolabes,
 And  having  spent  a  sennight  on  the  business
 
 
-216  THE   SHAHNAMA    OF  FIRDAUSI
-
 Said :  "  How  can  wine  be  in  a  cup  which  thou
 
 Hast  filled  with  poison  ?     These  are  spurious  children,
@@ -11343,8 +10962,6 @@ What  can  I  say  before  this  noble  court  ? "
 They  told  the  monarch  of  the  woman's  words,
 
 
-KAI  KAUS  217
-
 And  added :  "  God  alone  doth  know  the  truth."
 
 The  great  king  bade  Sudaba  come  to  him ;
@@ -11387,8 +11004,6 @@ If  thou  wouldst  clear  up  what  hath  been  alleged
 On  each  side,  throw  a  stone  and  break  the  pitcher,
 Because,  however  dear  his  son  may  be,
 
-
-218  THE   SHAHNAMA    OF  FIRDAUSI
 
 The  Shah's  heart  will  be  still  disturbed  by  thoughts,
 While  this  king's  daughter  of  Hamavaran
@@ -11438,8 +11053,6 @@ From  foul  surmise  and  take  this  dreadful  course.
 
 How  well  the  moralizing  monarch  said : —
 
-
-KAI   KAUS  219
 
 '  If  thou  art  faint  of  heart  play  not  the  king  ! '"  l
 
@@ -11533,8 +11146,6 @@ He  came  with  horse  and  raiment  such  that  thou
 Hadst  said :  "  He  beareth  jasmine  in  his  breast."
 
 
-KAI   KAUS  221
-
 Had  flame  been  water  he  had  not  been  wetted,
 His  garments  would  have  holden  none  of  it ;
 For  when  all-holy  God  doth  so  vouchsafe
@@ -11579,9 +11190,6 @@ Those  revels  for  three  days :  till  they  were  o'er
 No  lock  or  key  was  at  the  treasury-door.
 
 
-222  THE   SHAHNAMA    OF  FIRDAUSI
-
-
 How  Siydwush  begged  Buddha's  Life  of  his  father
 
 Katis  the  fourth  day  sat  upon  the  throne
@@ -11623,8 +11231,6 @@ She  ought  to  suffer  for  her  evil  deeds."
 
 He  bade  the  deathsman  :  "  Hang  her  in  the  street
 
-
-KAI   KAUS  223
 
 Upon  the  gibbet  and  be  pitiless."  x
 
@@ -11673,8 +11279,6 @@ And  if  Creation  be  not  to  thy  mind,
 
 2  "  Let  not  .  .  .  grief."    The  order  of  the  couplets  is  as  in  C.
 
-
-224  THE   SHAHNAMA    OF  FIRDAUSI
 
 It  is  not  in  thy  charge.     Thy  wrath  restrain.
 Besides  the  manner  of  the  turning  sky
@@ -11763,7 +11367,7 @@ And,  like  a  savage  lion,  talked  with  me :
 His  object  is  to  fight  Afrasiyab.
 Go  with  him,  keep  him  underneath  thine  eye  ;
 
-VOL.  n.  i>
+VOL.  n.  i)
 
 
 226  THE  SHAHNAMA    OF  FIRDAUSf
@@ -11822,8 +11426,6 @@ And  five  archmages  of  the  Iranians
 I.  JJ,
 
 
-227
-
 To  bear  the  flag  of  Kawa  to  the  field,
 
 These  he  commanded  to  go  forth  together
@@ -11881,8 +11483,6 @@ He  spent  some  time  with  wine  and  minstrelsy.
 At  whiles  he  drank  with  Rustam  and  at  whiles
 
 
-228  THE  SHAHNAMA    OF  FIRDAUSI
-
 Consorted  with  Zawara,  sat  rejoicing
 
 Upon  the  throne  of  Zal  or  drew  the  reed-beds.
@@ -11938,8 +11538,6 @@ To  wait  an  answer  from  Afrasiyab,
 1  See  vol.  i.  p.  74.
 
 
-KAI  KAUS  229
-
 Liid  Garsiwdz  the  warrior  looking  round
 
 5erceived  no  course  except  to  offer  battle,
@@ -11973,16 +11571,13 @@ The  world,  who  made  the  seen  and  the  unseen,
 May  every  blessing  be  upon  the  Shah,
 All  good  attend  him  to  the  last.     I  came
 To  Balkh  with  joy  and  triumph  through  the  Grace
-Of  him  who  hath  the  crown  and  throne — the  world-
-lord.
+Of  him  who  hath  the  crown  and  throne — the  worldlord.
 
 We  fought  three  days,  the  fourth  God  favoured  us ;
 Barman  and  Sipahram  fled  toward  Tirmid,
 Like  arrows  from  the  bow.     I  am  encamped
 On  the  Jihun,  my  glorious  helm  prevaileth.
 
-
-230  THE   SHAHNAMA    OF  FIRDAUSI
 
 Afrasiyab  is  with  his  host  at  Sughd,
 While  we  are  still  upon  the  Iranian  side ;
@@ -12022,8 +11617,6 @@ Be  not  in  any  haste  to  challenge  fight ;
 Afrasiyab  will  come  to  fight  with  thee,
 And,  if  he  cross  Jihim,  will  trail  his  skirt
 
-
-KAI  KAUS  231
 
 In  blood."
 
@@ -12113,8 +11706,6 @@ Hath  not  looked  on  it  since  the  world  began.'
 Upon  one  side  my  tent-enclosure  stood,
 
 
-KAI  KAUS  233
-
 And  round  it  was  a  host  of  warriors.
 
 A  dust-storin  rose  and  laid  my  standard  low,
@@ -12181,8 +11772,6 @@ Skilled  in  astrology  and  grammarye."
 1  Garsiwaz  suggests  that  dreams  go  by  contraries.
 
 
-234  THE   SHAHNAMA    OF  FIRDAUSI     '
-
 §    20
 How  Afrdsiyab  inquired  of  the  Sages  concerning  his  Dream
 
@@ -12222,8 +11811,6 @@ And  not  a  Turkman  will  survive ;  the  king
 Will  grieve  at  having  fought  with  him,  for  though
 Thy  hand  will  slay  him,  realm  and  throne  will  cease
 
-
-KAI  KAUS  235
 
 Within  Turan,  and  earth  be  tilled  with  strife,
 Revenge,  and  combat  on  account  of  him.
@@ -12266,8 +11853,6 @@ And  thus  addressed  them :  "  It  hath  been  my  lot
 To  see  no  desert  but  that  made  by  war,
 
 
-236  THE   SHAHNAMA    OF  FIRDAUSI
-
 And  many  great  ones  of  the  Iranians
 Have  perished  by  my  hand  upon  the  field.
 What  cities  have  been  turned  to  hospitals !
@@ -12307,8 +11892,6 @@ With  hearts  devoted  to  perform  thy  hest."
 The  councillors  dispersed  with  minds  intent
 On  justice,  with  no  thought  of  strife  and  turmoil.
 
-
-KAI   KAUS  237
 
 Then  said  Afrasiyab  to  Garsiwaz : —
 
@@ -12383,8 +11966,6 @@ Speak  also  unto  elephantine  Kustam
 In  fair  words,  plying  him  with  arguments,
 
 
-238  THE   SHAHNAMA    OF  FIRDAUSI
-
 And,  that  the  business  may  be  carried  through,
 Give  gifts  to  him  like  those  to  Siyawush,
 Except  a  golden  throne;  no  Shah  is  he;
@@ -12428,8 +12009,6 @@ Were  horses,  drachms,  boy-slaves,  and  troops.  None  knew
 
 Oi^d  women-slaves  with  bracelets  and  gold  torques.
 
-
-KAI  KAUS  239
 
 The  prince  was  gratified  and  smiling  gazed
 
@@ -12478,8 +12057,6 @@ And  having  been  admitted  kissed  the  ground,
 
 1  i.e.  attempts  to  hide  what  is  obvious.
 
-
-240  THE   SHAHNAMA   OF  FIRDAUSI
 
 And  did  obeisance  unto  Siyawush,
 Who  said  :  "  How  was  it  with  thee  yesternight
@@ -12542,8 +12119,6 @@ The  messenger  arrived  and  told  the  king
 What  Siyawush  and  noble  Garsiwaz
 
 
-KAI   KAUS
-
 Had  said,  and  when  the  king  had  heard  the  words
 
 He  was  exceeding  troubled  and  in  doubt.
@@ -12592,16 +12167,11 @@ He  went  his  way  with  blessings  on  his  tongue :
 Thou  wouldst  have  said  :  "  He  rolleth  earth  along."
 
 
-241
-
-
 V.  573
 
 
 VOL.  II.
 
-
-242  THE   SHAHNAMA    OF  FIRDAUSI
 
 §  24
 How  Siyawush  sent  Rustam  to  Kdus
@@ -12641,8 +12211,6 @@ But  when  Afrasiyab  had  news  of  me
 The  sparkling  liquor  darkened  in  his  cup  :
 He  saw  that  he  was  in  a  strait ;  the  world
 
-
-KAI   KAUS  243
 
 Was  black  and  fortune  fallen.     His  brother  came
 
@@ -12695,8 +12263,6 @@ The  Lion-man,  with  folded  arms  before
 The  Shah,  who  met,  embraced  him,  and  inquired  v.  576
 
 
-244  THE   SHAHNAMA    OF  FIRDAUSI
-
 About  the  prince,  the  progress  of  events,
 The  warriors,  the  battles,  and  the  host,
 And  wherefore  he  had  come.    Then  Rustam  gave
@@ -12735,8 +12301,6 @@ And  I  will  take  their  heads  off.     Lead  thy  host
 Intent  on  fight  up  to  the  foeinen's  gate,
 At  once  relax  all  discipline,  and  loose
 
-
-KAI  KAUS  245
 
 Thy  troops  like  wolves  among  the  sheep ;  while  thou
 Kevengest,  and  thy  soldiers  sack  and  burn,
@@ -12821,8 +12385,6 @@ With  drums  and  trumpets,  be  prepared  to  start,
 And  put  all  thoughts  of  peaceful  home  apart.
 
 
-KAI  KAUS  247
-
 §27
 
 The  Answer  of  Kdus  to  the  Letter  of  Siydwush
@@ -12892,8 +12454,6 @@ He  will  dispose  all  matters  great  and  small.
 Set  all  the  hostages  without  delay
 
 
-248  THE   SHAHNAMA    OF  FIRDAUSI
-
 In  heavy  chains  upon  the  backs  of  asses.
 It  is  high  heaven's  purpose  that  thy  life
 Should  perish  by  this  peace.     Then  will  Iran
@@ -12933,9 +12493,6 @@ Without  a  cause  I  shall  incur  God's  wrath,
 And  people  will  cry  shame.     If  I  return
 To  court,  surrendering  the  host  to  Tus,
 That  also  will  bring  evil  on  my  head.
-
-
-KAI  KAUS  249
 
 
 I  see  ill  right  and  left,  and  ill  in  front ;
@@ -13002,8 +12559,6 @@ My  deeds  please  not  Kaiis,  who  fain  would  harm  me,      v-  583
 
 Requiring  me  to  fight  without  a  cause.
 
-
-250  THE   SHAHNAMA    OF  FIRDAUSI
 
 I  fear  that  I  shall  perish  through  mine  oath,
 But  still  we  must  not  turn  from  God,  or  fear
@@ -13112,8 +12667,6 @@ He  is  aggrieved  about  the  hostages,
 And  will  demand  again  what  I  refused ;
 
 
-252  THE   SHAHNAMA    OF  FIRDAUSI
-
 While  if  I  quit  the  field,  returning  home
 Without  a  fight,  the  Shah  will  be  incensed
 And  in  his  fury  harm  me.     If  your  hearts
@@ -13215,8 +12768,6 @@ If  he  possessed  no  virtue  but  this  one —
 important  part  in  the  poem.     Cf.  vol.  i.  p.  55.
 
 
-254  THE   SHAHNAMA    OF  FIRDAUSI
-
 That  he  hath  quarrelled  with  his  sire  to  save
 Our  hundred  nobles'  lives,  given  up  the  throne
 And  crown  to  meaner  men,  and  gone  his  way,
@@ -13273,8 +12824,6 @@ With  wisdom  on  this  matter.     Can  ill  nature
 Befit  one  who  hath  not  inherited
 The  ill  nature  and  perverseness  of  his  sire  ?
 
-
-KAI   KAUS  255
 
 Dost  thou  not  see  that  Kai  Kaus  is  old  v«  589
 
@@ -13341,8 +12890,6 @@ Know  that  Kaiis  hath  never  shown  affection
 For  thee  like  mine,  for  I  will  ope  my  heart,  v.  590
 
 
-256  THE   SHAHNAMA   OF  FIRDAUSI
-
 My  hoards,  and  hand,  provide  thee  with  a  home,
 
 Protect  thee  like  a  son,  and  leave  thee  here
@@ -13406,8 +12953,6 @@ A  foe,  however  kind  thou  maj^est  be,
 Will  in  the  end  display  his  enmity.
 
 
-KAI  KAUS  257
-
 §3«
 How  Siyaivush  gave  up  the  Host  to  Bahrain
 
@@ -13466,8 +13011,6 @@ Sent  by  Afrasiyab  on  secret  business
 VOL.  II.  R
 
 
-258  THE   SHAHNAMA    OF  FIRDAUSI
-
 To  me,  because  his  people  trust  in  him.
 I  go  to  meet  him ;  ye  must  tarry  here.
 Look  to  Bahrain  for  orders  and  obey
@@ -13519,9 +13062,6 @@ One  bore  a  turquoise  throne  backed  by  a  flag
 
 
 or
-
-
-KAI  KAUS  259
 
 
 tree-like  size,  surmounted  by  a  moon ;
@@ -13623,8 +13163,6 @@ If  thou  wilt  make  a  covenant  with  me
 I  know  that  thou  wilt  keep  it,  and  will  make
 
 
-KAI  KAUS  261
-
 This  land  my  home  in  love  and  confidence
 In  thee,  my  friend !  and,  if  my  sojourn  here
 Is  well,  I  need  not  weep  for  what  I  did :
@@ -13668,8 +13206,6 @@ Afrasiyab  descended  to  the  street  V.  597
 
 1  Afrdsiyab  and  Pirdn  were  cousins.
 
-
-262  THE   SHAHNAMA    OF  FIRDAUSI
 
 Afoot  with  girded  loins  right  eagerly.
 
@@ -13728,8 +13264,6 @@ And  furnished  it  throughout,  then  bade  his  guest
 Go  thither  and  abide  in  full  content.
 
 
-KAI  KAUS  263
-
 When  Siyawush  arrived  before  the  hall
 Its  dome  reached  Saturn,  he  went  in  and  sat
 Upon  the  golden  throne,  his  wise  soul  wrapped
@@ -13776,8 +13310,6 @@ Both  good  and  ill."
 1  His  son.
 
 
-264  THE  SHAHNAMA    OF  FIRDAUSI
-
 Afrasiyab  replied : —
 "  My  son  !  be  ever  glad  and  conquering.
 Thou  art.  a  prince,  the  glory  of  the  throne,
@@ -13822,8 +13354,6 @@ V.  601        In  order  that  both  sides  may  play  the  game."
 1  Cf.  p.  119.  2  For  most  of  the  above  names  see  vol.  i.  p.  92.
 
 
-KAI  KAUS  265
-
 The  monarch  heard  the  words,  gave  his  consent,
 And  from  the  Iranians  Siyawush  chose  seven
 Well  skilled.     The  tymbals  sounded,  dust  arose,
@@ -13865,8 +13395,6 @@ And  when  the  Iranians  intercepted  them
 So  that  the  Turkmans'  efforts  were  in  vain,
 Displeased  with  his  own  people  Siyawush
 
-
-266  THE   SHAHNAMA    OF  FIRDAUSI
 
 Cried  to  them  in  the  olden  Persian  tongue : —
 "  Is  this  a  playground,  or  would  ye  cause  strife
@@ -13917,8 +13445,6 @@ In  sight  of  all  the  chiefs  his  arrow  hit
 The  bull's  eye.     Then  he  set  upon  his  bow
 Another  shaft,  of  poplar  wood,  four  feathered,
 
-
-KAI  KAUS  267
 
 And  in  the  same  course  hit  the  second  time.
 Next  wheeling  to  the  right  he  hit  the  target
@@ -14006,8 +13532,6 @@ And  in  the  course  of  talk  said :  "  In  this  land
 What  man  surpasseth  thee  ?     Our  monarch's  love
 
 
-KAI  KAUS  269
-
 Doth  make  him  talk  of  thee  e'en  in  his  sleep.
 
 Know  that  thou  art  to  him  as  jocund  spring,
@@ -14074,8 +13598,6 @@ When  Piran
 Left  Siyawush  he  hasted  to  Gulshahr,
 And  said :  "  Prepare  Jarira's  wedding  outfit
 
-
-270  THE  SHAHNAMA    OF  FIRDAUSI
 
 In  favour  of  the  exalted  Siyawush.
 Shall  not  we  joy  to-day  when  we  receive
@@ -14179,8 +13701,6 @@ Thou  didst  commend  them  unto  God  and  leave  them.
 Thy  house  and  home  are  here ;  the  Iranian  throne
 Is  not  at  present  to  be  made  thine  own."
 
-
-272  THE  SHAHNAMA    OF  FIRDAUSI
 
 §  37
 
@@ -14405,8 +13925,6 @@ Piran,  for  his  part,  and  Afrasiyab
 Were  instant  on  account  of  Siyawush.
 
 
-276  THE   SHAHNAMA    OF  FIRDAUSI
-
 They  gave  the  bride  as  custom  and  their  Faith
 Required,  and  had  the  contract  duly  witnessed.
 As  soon  as  they  had  finished  pact  and  plight
@@ -14619,8 +14137,6 @@ From  dust  we  come  and  shall  return  to  dust,
 And  all  is  dread,  distraction,  and  distrust.
 
 
-280  THE   SHAHNAMA    OF  FIRDAUSI
-
 The  world  will  outlast  thee  ;  its  mysteries
 How  wilt  thou  ken  ?     'Tis  full  of  instances  ;
 Shall  we  ignore  them  ?     Six  and  sixty  years
@@ -14719,8 +14235,6 @@ He  planted  many  trees,  and  made  the  place
 Like  Paradise,  and  for  its  flowers  chose
 Narcissus,  tulip,  hyacinth,  and  rose.
 
-
-282  THE   SHAHNAMA    OF  FIRDAUSI
 
 §  41
 How  Siydwush  discoursed  with  Pirtin  about  the  Future
@@ -15005,8 +14519,6 @@ Then  reached  the  hall  and  grounds  of  Siyawush,
 And  in  high  spirits  and  ambitious  hopes
 
 
-288  THE   SHAHNAMA    OF  FIRDAUSI
-
 Proceeded  to  the  home  of  Farangis.
 
 The  daughter  of  the  king  met,  greeted  him,
@@ -15066,8 +14578,6 @@ What  he  had  done,  what  tribute  he  had  brought,
 
 1  See  p.  39,  note.
 
-
-KAI   KAUS  289
 
 How  he  had  battled  in  the  land  of  Hind,
 
@@ -15264,7 +14774,7 @@ While  his  opponent  only  found  the  dust.
 
 The  ball  struck  by  the  prince  was  seen  no  more :
 
-Thou  wouldst  have  said :  "  The  sky  hath  drawn  it  up ! }>
+Thou  wouldst  have  said :  "  The  sky  hath  drawn  it  up ! })
 
 Then  to  his  eager  followers  he  said :
 
@@ -15278,8 +14788,6 @@ He  bade  a  golden  throne  be  set  and  contests
 With  javelins  to  take  place,  both  princes  sitting
 Upon  the  throne  to  watch  the  combatants.
 
-
-KAI  KAUS  293
 
 The  cavaliers  rushed  on  the  Ground  like  dust
 
@@ -15327,8 +14835,6 @@ Applauded  and  invoked  the  name  of  God.
 "  Thou  hast,  0  prince ! "  said  Garsiwaz  to  him,
 
 
-294  THE   SHAHNAMA    OF  FIRDAUSI
-
 "  No  equal  in  Iran  or  in  Turan.
 Come  now !     Let  us  two  go  upon  the  Ground
 Before  this  company,  there  let  us  grasp
@@ -15371,8 +14877,6 @@ Before  thy  presence,  O  illustrious  prince  ! "
 Ambitious  Garsiwaz  was  flattered,  smiled,
 And  thus  addressed  the  Turkmans  :  "  Noble  men !
 
-
-KAI  KAUS  295
 
 Who  is  there  fain  to  make  his  mark  on  earth  ?
 Who  will  be  matched  with  Siyawush  and  lay
@@ -15470,8 +14974,6 @@ Said  to  his  brother :  "  Siyawush,  O  king  !
 Hath  wholly  changed,  the  envoys  of  Kaus
 
 
-KAI  KAUS  297
-
 Come  often  secretly,  he  correspondeth
 
 With  Rum  and  Chin,  and  drinketh  to  his  father.
@@ -15522,8 +15024,6 @@ But  trusted  him  with  both  my  precious  Eyes.
 Now,  after  all  these  pains  and  benefits,
 
 
-298  THE   SHAHNAMA    OF  FIRDAUSI
-
 And  sacrifice  of  province,  crown,  and  wealth,
 For  me  to  purpose  ill  to  Siyawush
 Would  raise  no  little  outcry.     If  I  do
@@ -15562,8 +15062,6 @@ Let  us  be  patient  till  the  turning  sky
 Shall  make  its  aspects  known.     In  everything
 Delay  is  better  than  precipitance ;
 
-
-KAI  KAUS  299
 
 Wait  till  the  sun  hath  shone  on  this  awhile  ;
 
@@ -15616,8 +15114,6 @@ And  fear  no  furious  elephant's  assault."
 The  monarch's  heart  was  straitened  at  his  words ;
 
 
-300  THE  SHAHNAMA    OF  FIRDAUSI
-
 He  grew  despondent,  anxious,  and  distressed,
 But  judged  it  best  to  pause,  for  prudent  men
 Win  in  the  end,  while  those  of  windy  pate
@@ -15653,8 +15149,6 @@ Why  are  the  wine  and  cup  denied  to  us  ?
 Think  not  about  thy  throne  of  majesty,
 But  straitly  gird  thy  loins  and  come  to  me.' "
 
-
-KAI   KAUS  301
 
 §49
 
@@ -15698,8 +15192,6 @@ The  prudent  prince's  words :  "  If  Siyawush,"
 He  thought,  "  departeth  with  me  to  the  king,
 
 
-302  THE   SHAHNAMA    OF  FIRDAUSI
-
 With  his  astuteness  and  his  lion-strength
 The  prince  will  trample  on  my  bow,  my  words
 Will  tarnish,  and  the  king  will  deem  my  plan
@@ -15741,8 +15233,6 @@ Beneath  Afrasiyab  and  Minuchihr
 Tiiran  hath  been  like  water  and  Iran
 Like  fire  ;  they  mingled  not  but  broke  away
 
-
-KAI  KAUS  303
 
 From  wisdom's  bonds  ;  Afrasiyab  is  worse
 
@@ -15801,8 +15291,6 @@ Suspicion,  for  whoever  suffereth
 That  dragon's  breath  departeth  from  God's  way."
 
 
-304  THE   SHAHNAMA    OF  FIRDAUSI
-
 But  Garsiwaz  made  answer :  "  My  dear  friend !
 He  is  much  changed.     So  long  as  heaven  shall  turn
 He  will  be  harsh  and  wear  a  frowning  face.
@@ -15841,8 +15329,6 @@ His  heart  was  pained,  his  cheeks  turned  pale,  he  sighed
 In  heaviness  of  soul,  and  said :  "  I  find  not
 That  I  deserve  requital  for  ill  done,
 
-
-KAI   KAUS  305
 
 For  nobody  hath  heard  a  fault  of  mine
 
@@ -15935,8 +15421,6 @@ The  monarch's  court,  a  villain  bent  on  ill.
 V.  648        Afrasiyab,  on  seeing  him  thus  pressed,
 
 
-KAI  KAUS  307
-
 And  full  of  hurry,  questioned  him  at  large : —
 "  Why  hast  thou  come  in  haste,"  the  monarch  said,
 "  Why  didst  thou  make  a  journey  of  such  length  ? "
@@ -15986,8 +15470,6 @@ Now,  while  the  guileful  Garsiwaz  was  toiling  V.  649
 Upon  the  saddle,  Siyawush  in  anguish
 
 
-308  THE  SHAHNAMA    OF  FIRDAUSI
-
 Went  pale  and  trembling  to  his  ladies'  bower.
 "  Chief  of  the  lion-clutch  ! "  said  Farangis,
 "  Why  is  thy  favour  changed  ?  "
@@ -16031,8 +15513,6 @@ V.  650       For  three  days  Siyawush  wept  bitterly
 
 By  reason  of  this  treacherous  turn  of  fate.
 
-
-KAI   KAUS  309
 
 The  fourth  night  as  the  prince  lay  fast  asleep,
 Clasped  to  the  breast  of  moon-faced  Farangis,
@@ -16078,8 +15558,6 @@ My  words  have  proved  to  be  of  no  avail,
 I  see  black  smoke  although  I  see  no  fire  :
 
 
-310  THE   SHAHNAMA    OF  FIRDAUSI
-
 Consider  now  what  course  thou  shouldest  take,
 And  how  thou  mayest  best  dispose  thy  troops."
 
@@ -16118,8 +15596,6 @@ Turanian  soil  will  be  my  grave,  and  none
 Will  say :  '  His  dust  reposeth  in  Iran.'
 May  not  men  call  this  old  world  new  whose  sky
 
-
-KAI   KAUS  311
 
 So  quickly  altereth  ?     My  jocund  fortune
 
@@ -16190,8 +15666,6 @@ Heart-broken,  pale,  lamenting  sore.     O  world  P
 I  wot  not  why  thou  nurturest  men  if  they
 
 
-312  THE  SHAHNAMA    OF  FIRDAUSI
-
 L  Whom  thou  hast  nurtured  are  to  be  thy  prey  !
 
 The  lady  tore  her  cheeks,  plucked  out  her  hair,
@@ -16241,8 +15715,6 @@ And,  buckling  up  his  mail,  thought :  "  Garsfwaz
 Hath  told  the  truth,  a  truth  too  evident ! "
 
 
-KAI  KAUS  313
-
 Now  Siyawush  feared  for  his  life  what  time
 The  monarch  of  Tiiran  drew  nigh.     His  troops
 Partook  his  fears.     The  Turkmans  occupied
@@ -16286,8 +15758,6 @@ I  left  the  right  path  in  my  heedlessness.
 Thou  saidst :  '  The  monarch  is  enraged  at  thee ! '
 Now  guiltless  men  in  thousands  will  be  slaughtered         v.  656
 
-
-314  THE   SHAH  NAM  A    OF  FIRDAUSI
 
 Through  what  thou  saidst,  but  punishment  will  come
 f    At  last.     As  khou  hast  sown  so  shalt  thou  reap."
@@ -16502,8 +15972,6 @@ And  Giv,  son  of  Giidarz,  at  whom  the  earth
 Is  all  a-tremble  on  the  day  of  battle.
 
 
-KAI  KAUS  319
-
 In  grief  for  Siyawush  the  streams  will  boil
 
 And  heaven  will  execrate  Afrasiyab.
@@ -16552,8 +16020,6 @@ Would  banish  all  the  sunlight  from  my  breast  ? "
 
 The  monarch  heard  his  child's  words  and  the  world
 
-
-320  THE   SHAHNAMA    OF  FIRDAUSI
 
 Was  blackened  in  his  eyes.     He  said  to  her : —
 "  Begone.     What  know'st  thou  of  our  purposes  ?  "
@@ -16642,8 +16108,6 @@ Another  walketh  this  earth  righteously
 VOL.  II.  X.
 
 
-322  THE   SHAHNAMA    OF  FIRDAUSI
-
 Yet  withereth  away  in  misery.
 
 v.  665        From  every  anxious  care  thy  soul  release,
@@ -16689,8 +16153,6 @@ They  put  the  saddles  on  three  noble  steeds :
 "  They  roll  the  earth  before  them,"  thou  hadst  said.
 Now  these  three  horsemen,  when  they  reached  Piran,
 
-
-KAI   KAUS  323
 
 Their  faces  blood-stained  and  their  souls  all  thorns,
 
@@ -16753,8 +16215,6 @@ To  cut  asunder  Farangis !    This  fury
 ten  horses  looks  like  a  re-mount  for  each  man.  Ruin  was  the  son  of
 Pirdn.
 
-
-324  THE   SHAHNAMA    OF  FIRDAUSI
 
 Will  wreck  the  reign  and  none  will  call  him  king
 Henceforward."
@@ -16840,8 +16300,6 @@ While  Siyawush,  enthroned  and  sword  in  hand,
 Called  loudly  to  him,  saying :  "  Rest  no  more !
 Throw  off  sweet  sleep  and  think  of  times  to  come,
 
-
-326  THE   SHAHNAMA    OF   FIRDAUSI
 
 For  from  to-day  new  feasts  and  customs  date,
 Because  to-night  is  born  Shah  Kai  Khusrau ! "
@@ -16934,8 +16392,6 @@ And  deemed   this  old  world  young !    Canst  thou  do
 aught  ?
 
 
-328  THE   SHAHNAMA    OF  FIRDAUSI
-
 There  is  no  remedy.     The  world  is  vast,
 No  hooks  or  nets  of  thine  will  hold  it  fast ;
 But  if  misfortune's  ills  thou  hast  to  feel
@@ -16976,8 +16432,6 @@ To  hunt ;  at  ten  he  was  a  valiant  warrior,
 Who  fought  with  boars  and  wolves,  anon  with  lions
 And  leopards,  armed  with  that  rude  weapon  only,
 
-
-KAI  KAUS  329
 
 And  thus  he  fared  until  as  time  went  on
 
@@ -17090,8 +16544,6 @@ v.  676       '  More  potent  than  the  sire  the  nurse  will  prove,
 But  the  great  secret  is  the  mother's  love.'
 
 
-KAI  KAUS  331
-
 If  at  this  time  the  king  shall  order  me,
 
 I  will  present  this  lauded  youth  to  him,
@@ -17143,8 +16595,6 @@ The  brave  aspirant  to  the  crown  hath  come."
 
 When  he  arrived  Piran  the  general
 
-
-332  THE   SHAHNAMA    OF  FIRDAUSI
 
 Took  him  before  the  king.     The  grandsire's  cheeks
 
@@ -17204,8 +16654,6 @@ And  turning  to  the  captain  of  the  host
 Said  thus  to  him  :  "  The  fellow  is  a  fool :
 
 
-KAI  KAUS  333
-
 1  ask  of  heads ;  he  answereth  of  feet  !
 
 In  sooth  no  good  or  ill  will  come  from  him  :
@@ -17256,7 +16704,7 @@ Sprout  from  the  razed  roots  of  a  noble  Tree !
 334  THE   SHAHNAMA   OF  FIRDAUS1
 
 Far  be  the  eye  of  evil  from  the  king,
-And  may  light  fill  the  soul  of  Siyawush."  >
+And  may  light  fill  the  soul  of  Siyawush."  )
 
 The  brambles  of  the  city  turned  to  box,
 The  meadow-grass  to  noble  cypresses ;
@@ -17332,10 +16780,8 @@ Khusrau  is  successful.
 NOTE
 
 The  most  conspicuous  character  in  this  Part  is  Giv,  a  word
-which  means  "  warrior."  The  feats  which  he  is  described  as  per-
-forming would  he  more  than  worthy  of  Rustam  himself,  who,  after
-his  withdrawal  Irom  Tiiran,  is  relegated  for  a  time  to  the  back-
-ground. We  must  conceive,  as  the  Persians  themselves  would,
+which  means  "  warrior."  The  feats  which  he  is  described  as  performing would  he  more  than  worthy  of  Rustam  himself,  who,  after
+his  withdrawal  Irom  Tiiran,  is  relegated  for  a  time  to  the  background. We  must  conceive,  as  the  Persians  themselves  would,
 that  Giv,  employed  on  the  sacred  mission  of  discovering  and
 bringing  to  Iran  the  destined  prince,  was  favoured  with  divine
 assistance  in  his  enterprise.
@@ -17344,8 +16790,6 @@ assistance  in  his  enterprise.
 claims  of  Kai  Khusrau  and  Fariburz  to  be  associated  as  Shah  with
 Kai  Kaus,  bears  important  results  in  the  next  reign.  Tus  was  the
 
-
-336  THE   SHAHNAMA    OF  FIRDAUSI
 
 son  of  Naudar,  and  he  and  his  brother  Gustaham  were  deliberately
 passed  over  after  the  death  of  that  Shah,  and  again  after  the
@@ -17391,8 +16835,6 @@ And  one  are  bulbul's  note  and  lion's  roar.
 
 1  See  vol.  i.  pp.  369,  381.
 
-
-KAI   KAUS  337
 
 Since  I  took  up  the  cup  of  fifty-eight,
 The  grave  and  shroud,  naught  else.  I  contemplate.
@@ -17489,8 +16931,6 @@ Of  office,  swearing  by  the  Almighty  Judge  :—
 Dust  from  my  face,  whereat  we  need  not  grieve,
 
 
-KAI  KAUS  339
-
 Till  I  have  taken  vengeance  for  the  prince,
 
 And  brought  our  foes'  heads  to  the  shears.     My  crown
@@ -17535,8 +16975,6 @@ Ne'er  shall  I  fight  dry-eyed,  and  like  my  heart
 The  whole  world  shall  endure  the  fiery  smart."
 
 
-340  THE   SHAHNAMA    OF  FIRDAUSI
-
 §4
 How  Rustam  slew  Sitddba  and  led  forth  the  Host
 
@@ -17573,8 +17011,6 @@ I  will  not  cease  to  grieve  for  Siyawush.
 On  that  unwatered  waste  where  rash  Gurwi
 Poured  on  the  ground  the  life-blood  of  the  prince
 
-
-KAI  KAUS  341
 
 I  fain  would  chafe  my  face  and  eyes  ;  perchance
 It  may  relieve  my  heart  of  grief  for  him.
@@ -17664,8 +17100,6 @@ And  bade   the  troops :    "  Lay   on ;   string   up  your
 bows."
 
 
-KAI  KAUS  343
-
 Both  hosts  arrayed  themselves  and  donned  their
 
 helmets,
@@ -17752,8 +17186,6 @@ Be  so  alert  and  circumspect  that  none
 1  See  p.  234.
 
 
-KAI  KAUS  345
-
 Will  venture  to  attack  thee.     Lead  in  person,
 Be  vigilant,  and  guard  the  host  from  Rustam."
 
@@ -17797,8 +17229,6 @@ And,  like  a  leopard  springing,  seized  his  girdle,
 Unseated  him,  and  hurled  him  to  the  ground,
 
 
-346  THE   SHAHNAMA    OF  FIRDAUSI
-
 Then,  driving  him  afoot,  brought  him  to  camp,
 Disgraced.     With  that  the  flag  of  matchless  Rustam
 Was  seen  approaching  mid  the  tramp  of  troops
@@ -17839,8 +17269,6 @@ When  Tiis  the  general  heard  he  went  in  haste
 To  do  the  bloody  deed.     Then  Surkha  said  :—
 "  O  most  exalted  king !  why  slay  me  guiltless,
 
-
-KAI  KAUS  347
 
 For  Siyawush  was  of  my  years,  my  friend  ?
 My  soul  was  full  of  pain  and  grief  for  him,
@@ -17888,8 +17316,6 @@ Then  Rustam  took  the  head  off,  hung  the  trunk
 Feet  upward  on  a  gibbet,  and  flung  dust
 
 
-348  THE   SHAHNAMA    OF  FIRDAUSI
-
 In  vengeance  on  the  corpse,  which  afterwards
 The  soldiers  hacked  to  pieces  with  their  swords.
 
@@ -17930,8 +17356,6 @@ When  both  sides  sound  the  drum  he  is  no  soldier
 That  laggeth.     Let  our  hearts  be  full  of  vengeance,
 Full  as  the  bodies  of  our  foes  with  javelins  !"
 
-
-KAI   KAUS  349
 
 Thus  spake  he  to  the  troops,  then  bade  to  sound
 The  clarions,  cymbals,  and  the  Indian  bells.
@@ -18018,8 +17442,6 @@ The  king  will  share  in  his  disgrace,  'twill  break
 The  spirit  of  the  troops  ;  he  is,  thou  knowest,
 My  younger  brother,  and  my  love  for  him
 
-
-KAI   KAUS  351
 
 Is  greater  than  an  elder  brother's  love."
 
@@ -18138,8 +17560,6 @@ The  army  of  the  monarch  of  Tiiran
 Was  broken  and  the  battlefield  was  darkened.
 
 
-KAI  KAUS  353
-
 A  shout  rose  from  both  hosts ;  the  din  of  chiefs  v.  699
 
 Keen  for  the  fray,  the  drumming  on  the  backs
@@ -18197,8 +17617,6 @@ Of  our  Iranian  horsemen  hath  gone  down,"
 VOL.  n.  z
 
 
-354  THE   SHAHNAMA    OF   FIRDAUSI
-
 Came  elephantine  Rustarn  from  the  centre
 With  Faramarz  and  troops.     Confronting  them
 
@@ -18238,8 +17656,6 @@ Of  Wisa,  saved  him  from  that  Dragon's  clutch.
 
 V.  701        The  hero-flinging  crown-bestower  followed
 
-
-KAI  KAUS  355
 
 Human  in  furious  haste  but  caught  him  not,
 
@@ -18347,9 +17763,6 @@ But  found  no  remedy.     They  had  to  go,
 And  set  off,  though  unwillingly,  in  haste.
 
 
-KAI   KAUS  357
-
-
 They  mourned  and  wept  and  cursed  Afrasiyab
 Until  they  reached  Piran,  who,  when  he  saw
 Khusrau,  descended  from  his  throne,  inquired
@@ -18444,8 +17857,6 @@ Ne'er  loose  thy  lasso  from  the  saddle-straps,
 Cease  not  from  vengeance  on  Afrasiyab,
 And  take  no  thought  of  food,  repose,  and  sleep.
 
-
-KAI  KAUS  359
 
 Be  just  in  all  thy  doings  here  below,
 For  justice  never  ruined  any  one."
@@ -18544,8 +17955,6 @@ Is  well  or  blasted  by  the  dragon's  breath."
 The  prudent  Rustain's  heart  was  grieved  thereat,
 
 
-KAI  KAUS  361
-
 He  summoned  all  the  chieftains  of  the  host,
 
 And  marched  the  army  to  Kachar  Bashf.
@@ -18608,8 +18017,6 @@ And  felt  an  ardent  longing  to  depart.
 He  gathered  horses  out  of  all  the  herds
 
 
-362  THE   SHAHNAMA    OF  FIRDAUSI
-
 That  wandered  o'er  the  deserts  of  Tiiran,
 Together  with  ten  thousand  boys  and  girls —
 Slaves  fit  to  serve  a  king — with  bags  of  rnusk,
@@ -18649,8 +18056,6 @@ Was  in  their  favour  in  a  single  fight.
 From  all  sides  will  we  gather  arms  and  troops,
 
 
-KAI  KAUS  363
-
 And  make  a  new  departure."
 
 He  assembled
@@ -18663,7 +18068,7 @@ He  burned  up  all  the  settlements  and  trees,
 And  brought  the  Iranians  to  a  parlous  case.
 For  seven  years  there  was  a  rainless  sky,
 The  favour  changed,  conditions  were  reversed,
-And  all  were  beggared  by  distress  and  travail.  v-  7">
+And  all  were  beggared  by  distress  and  travail.  v-  7")
 
 Much  time  elapsed  with  matters  in  this  stay
 While  at  Zabul  the  mighty  Rust  am  lay,
@@ -18693,8 +18098,6 @@ Will  overturn  the  sovereignty  of  Tur,
 1  An  emblem  of  coming  prosperity  in  a  land  where  rain  is  the
 chief  want.
 
-
-364  THE   SHAHNAMA    OF  FIRDAUSI
 
 Will  make  the  waters  of  the  Red  Sea  boil,
 Pause  not  in  vengeance  on  Afrasiyab,
@@ -18780,8 +18183,6 @@ Of  fenugreek,  the  gallant  Giv  approached
 With  girded  loins,  upon  a  steed  with  feet
 
 
-366  THE  SHAHNAMA   OF  FIRDAUSI
-
 As  swift  as  wind.     Gudarz  inquired  of  him : —
 
 "  What  comrade  hast  thou  ?    Who  will  fare  with  thee  ? '
@@ -18824,8 +18225,6 @@ The  father  hoary -headed,  while  the  youth
 of  the  poet's.
 
 
-KAI  KAUS  367
-
 Fierce  as  a  lion  girded  up  his  loins,
 Knew  not  if  he  should  see  his  son  again,
 And  was  distracted  at  his  setting  out.
@@ -18865,8 +18264,6 @@ And,  having  reached  it,  there  is  no  return.
 So  now  thou  sage,  whose  heart  is  wakeful !  cease
 From  doubt,  and  from  the  mire  thy  foot  release.
 
-
-368  THE   SHAHNAMA    OF  FIRDAUSI
 
 'Tis  God  Almighty  that  sustaineth  thee,
 His  servant  thou  and  thy  Creator  He.
@@ -18909,8 +18306,6 @@ Replied  :  "  I  wot  not  of  that  prince,"  Giv  used
 1  Kai  Khusrau,    son   of  Siysiwush  and  of   Farangis,    daughter  of
 Afnlsiydb.
 
-
-KAI  KAUS  369
 
 To  slay  him,  hitch  him  in  the  lasso's  noose,
 
@@ -18975,8 +18370,6 @@ Afrasiyab  returned  to  Gang,  Tiiran
 VOL.   II.  2  A
 
 
-370  THE   SHAHNAMA    OF  FIRDAUSI
-
 Came  to  his  hand  again,  and  then  he  bade
 Piran  :  "  Bring  hither  ill-starred  Kai  Khusrau
 Back  from  Machin  and  give  him  to  his  mother,
@@ -19019,8 +18412,6 @@ Beside  a  sparkling  stream  a  beauteous  youth
 Of  cypress-height,  a  wine-cup  in  his  hand,
 
 
-KAI   KAUS  371
-
 And  on  his  head  a  bright,  sweet  wreath.     His  mien
 Betokened  Grace  and  wisdom.     Thou  hadst  said  : —
 "  Tis  Siyawush  upon  his  ivory  throne,
@@ -19062,10 +18453,8 @@ Who  told  thee  of  Giidarz,  Giv,  and  Kishwad  ?
 May  Grace  and  happiness  be  thine."
 
 He  answered : —
-<'  0  lion-man  !  my  mother  told  me  this —
+('  0  lion-man  !  my  mother  told  me  this —
 
-
-372  THE  SHAHNAMA    OF  FIRDAUSi
 
 That  when  my  father  by  the  Grace  of  God
 Entrusted  unto  her  his  last  commands,
@@ -19106,8 +18495,6 @@ Or  if  I  have  been  laid  in  dust  or  burned,
 Or  have  encountered  Siyawush  alive,
 And  questioned  him  about  his  care  and  travail  ?
 
-
-KAI  KAUS  373
 
 Thanks  be  to  God  that  fate  determineth  v.  720
 
@@ -19161,8 +18548,6 @@ The  world  to  us  if  we  delay,"  said  she.
 
 Nor  sleep,  but  like  the  White  Div  follow  us,
 
-
-374  THE  SHAHNAMA   OF  FIRDAUSI
 
 Will  rnake  our  hearts  despair  of  pleasant  life,
 721        And  leave  not  one  of  us,  at  large  or  hiding,
@@ -19265,8 +18650,6 @@ Canst  penetrate  a  hair  and  see  within  it."
 He  said :  "  Thou  didst  mistrust  this  noble  steed,
 
 
-376  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 And  think :  '  Now  Ahriman  hath  got  the  youth,
 Who  hath  gone  off  and  turned  my  toil  to  wind.
 My  spirit  mourneth  and  the  divs  rejoice.' "
@@ -19308,8 +18691,6 @@ The  sky  apportioneth  both  good  and  ill.
 Be  all  the  world  a  slave  before  thy  son,
 And  be  the  heads  of  all  thy  foes  wrung  off."
 
-
-KAI   KAUS  377
 
 When  Giv's  eye  fell  upon  those  precious  things
 He  chose  the  mail  of  valiant  Siyawush.
@@ -19398,8 +18779,6 @@ v.  726       And  thus  Kulbad  addressed  brave  Nastihan : — •
 "  This  is  a  rock  of  flint  with  neck  and  arms  !
 See  here  the  Grace  of  Kai  Khusrau  and  not
 
-
-KAI  KAUS  379
 
 The  mace  of  Gi'v  !     I  know  not  what  will  come
 Upon  our  fields  and  fells,  for  who  can  traverse
@@ -19531,8 +18910,6 @@ Then  said  Khusrau :  "  0  warrior !  my  cause
 Is  wearisome  to  thee.     I  have  been  spared
 
 
-382  THE   SHAH  NAM  A    OF  FIRDAUSI
-
 The  net  of  bale.     Seek  not  the  Dragon's  breath
 So  oft.     Be  mine  to  go  upon  the  plain,
 And  spurt  blood  heavenward  with  my  scimitar."
@@ -19573,8 +18950,6 @@ Thou  art  a  single  horseman,  iron  mountain
 
 i  "  Si  tu  p&ris  dans  une  captiviU  lointaine." — MOHL.
 
-
-KAI  KAUS  383
 
 Although  thou  be.     A  thousand  will  surround  thee
 
@@ -19659,12 +19034,6 @@ Death  from  my  twisted  lasso  shalt  thou  meet,
 Thy  mail  and  helm  shall  be  thy  winding-sheet."
 
 
-KAI  KAUS
-
-
-385
-
-
 §  24
 How  Pirdn  was  taken  by  Giv
 
@@ -19711,8 +19080,6 @@ V.  733
 
 V.  734
 
-
-386  THE  SHAHNAMA    OF  FIRDAUSI
 
 The  Flock,  that  great  host  fled  from  Giv,  who  crossed
 The  stream  again  so  fresh  that  thou  hadst  said : —
@@ -19778,8 +19145,7 @@ Said  :  "  Keep  thine  oath  to  God,  thou  lion-like !
 And  ease  thy  heart  on  that  score :  pierce  his  ear  V.  736
 
 Through  with  thy  dagger,  and  as  blood-drops  fall
-Thence  to  the  ground  think  of  both  love  and  ven-
-geance."
+Thence  to  the  ground  think  of  both  love  and  vengeance."
 
 Giv  saw  the  prince's  heart  warm  to  Piran,
 Perceived  the  prince's  cheeks  all  tears  and  ruth,
@@ -19865,8 +19231,6 @@ He  cometh  to  the  throne  without  an  effort."
 
 While  they  conversed  a  host  appeared  in  sight
 
-
-KAI  KAUS  389
 
 Led  by  Ph-an  besmirched  with  dust  and  blood.
 
@@ -19997,8 +19361,6 @@ Iran  will  have  his  love,  Turan  will  know
 The  vengeful  face  that  looketh  on  a  foe."
 
 
-KAI  KAUS  391
-
 When   Giv   and   Kai  Khusrau   had    reached   the
 
 stream
@@ -20083,8 +19445,6 @@ Thanked  and  adored  the  Maker  of  the  world.
 1  See  vol.  i.  p.  160.
 
 
-KAI   KAUS  393
-
 As  they  went  o'er  the  master  of  the  boats
 Astound  said  to  his  mates  :  "  Behold  a  wonder  !
 This  passeth  all !     Springtide !     Jihiin  in  spate  !
@@ -20129,8 +19489,6 @@ Afrasiyab  on  hearing  this  turned  pale,
 And  sighing  deeply  bade  the  man  :  "  Launch  forth
 A  boat  upon  the  river  with  all  speed.
 
-
-394  THE   SHAHNAMA    OF  FIRDAUSI
 
 See  if  thou  canst  discern  the  fugitives,
 
@@ -20184,8 +19542,6 @@ A  valiant  cavalier,  wise,  shrewd,  and  prudent,
 Informed  him  of  the  case,  and  said  to  him : —
 "  Depart  hence  unto  Ispahan — the  land
 
-
-KAI  KAUS  395
 
 Of  Shahs,  the  habitation  of  the  mighty —
 
@@ -20274,8 +19630,6 @@ They  reached  the  palace  of  the  paladin,
 All  reached  it  full  of  joy  and  happiness.
 There  for  one  sennight  in  the  festal  hall
 
-
-KAI  KAUS  397
 
 They  tarried  wine  in  hand,  but  toward  the  city
 
@@ -20394,8 +19748,6 @@ Through  anguish  for  my  sire,  had  never  spoken
 V.  749       Aught  ill  of  me,  and  saved  me  and  withal
 
 
-KAI  KAUS  399
-
 My  mother  from  the  fierce,  grim  Lion's  claws,
 
 Who  else  had  ta'en  my  head  just  like  my  father's.
@@ -20443,8 +19795,6 @@ Kishwad  possessed  a  palace  at  Istakhr —
 The  glory  of  the  nobles.     Thither  went,
 Their  audience  with  the  monarch  being  closed,
 
-
-400  THE  SHAHNAMA    OF  FIRDAUSI
 
 Giidarz  with  Kai  Khusrau.     When  they  had  reached
 
@@ -20509,9 +19859,6 @@ Established  a  new  monarch  in  the  world :
 KAI  KATJS
 
 
-401
-
-
 I  will  not  be  a  party  to  this  thing,
 
 So  talk  not  in  my  presence  of  Khusrau.
@@ -20568,8 +19915,6 @@ Nor  have  we  such  another  cavalier."
 VOL.  ii.  2  c
 
 
-402  THE   SHAHNAMA    OF  FIRDAUSI
-
 §   32
 How  G-udarz  was  ivroth  with  Tus
 
@@ -20623,8 +19968,6 @@ The  fortune  of  the  Turkmans  would  awake,
 The  throne  of  empiry  pass  to  Turan,
 
 
-KAI   KAUS  403
-
 AnJ  our  prosperity  be  at  an  end."
 
 He  sent  a  man  of  wisdom  and  resource
@@ -20668,8 +20011,6 @@ Now  this  aspirant  is  a  son  of  his,
 *  The  same,"1  thou  wouldest  say, '  in  face  and  form.'
 If  on  his  mother's  side  he  is  from  Tiir
 
-
-404  THE  SHAHNAMA    OF  FIRDAUSI
 
 The  grandson  of  the  Shah  must  still  prove  just.
 
@@ -20785,8 +20126,6 @@ And  royal  might,  shall  gird  me  royally."
 The  Shah  replied :  "  When  men  go  forth  to  war
 
 
-406  THE   SHAHNAMA    OF  FIRDAUSI
-
 Their  number  more  or  less  importeth  not,
 But  by  the  purpose  of  the  Lord  of  sun
 And  moon  they  may  have  triumph  and  success :
@@ -20835,8 +20174,6 @@ and  took  it
 When  tidings  reached  the  chiefs  and  old  Giidarz,
 The  offspring  of  Kishwad :  "  Tus  hath  returned
 
-
-KAI   KAUS  407
 
 With  Fari'burz,  prepare  thyself  to  go,"
 
@@ -20922,8 +20259,6 @@ And  let  your  bows  be  like  a  cloud  in  spring."
 Immediately  a  cloud  rose  charged  with  hail,
 
 
-KAI  KAUS  409
-
 Hail  charged  with  death ;  full  many  a  dfv  was  slain
 And  many  venom-stricken  fell  to  earth.
 At  length  a  brilliant  light  began  to  shine,
@@ -20969,8 +20304,6 @@ Went  forth  with  joy  and  brought  him  offerings.
 Prince  Fariburz  approached  him  with  a  band
 
 
-410  THE   SHAHNAMA    OF  FIRDAUSI
-
 Of  warriors  from  Iran  as  'twere  a  mountain,
 And  seeing  him  gat  off  his  rose-red  steed, l
 Whilst  brave  Khusrau  alighted  from  his  black.
@@ -21014,8 +20347,6 @@ His  grandsire,  fain  to  look  on  him,  embraced  him
 1  At  the  present  day  the  horses  of  the  Shdh  and  of  his  sons  have
 their  tail-tips  dyed  red.     (C.  J.  Wills,  M.D.,  "  Persia  as  it  Is,"  p.  9.)
 
-
-KAI  KAUS  411
 
 With  smiles  and  praises  well  deserved,  and  said  :—
 "  The  Lion  hath  returned  victorious,
@@ -21075,8 +20406,6 @@ Provide  thee  well  and  give  the  rest  away,
 And  suffer  not  one  moment  to  be  sad.
 
 
-412  THE   SHAHNAMA    OF  FIRDAUSI
-
 Enjoy  thy  wealth  and  be  not  niggardly,
 But  share  not  earnings  with  thine  enemy ;
 
@@ -21089,2286 +20418,3 @@ With  wealth  and  furnished  with  good  things  ?   The  Lord
 
 Abateth  nothing  in  His  bounteousness :
 Abstain  from  sorrow  and  let  joy  be  toward.
-
-
-1
-
-
-INDEX
-
-
-This  Index  and  the  Table  of  Contents  at  the  beginning  of  the  volume  are
-complementary.     References  to  the  latter  are  in  Roman  numerals.
-
-
-ABBREVIATIONS,  list  of,  5
-
-Abu  Raihdn    Muhammad.      See
-
-Albiruni
-Aden,  79
-Afrdsiydb,  ruler  of  Timin,  v  seq.,    \
-11,  13,  14,  16  seq.,  20,  79,
-81,    92,   98  seq.,   1 1 8,  127,
-129,  149,  184,  189,  242  seq.,
-257  seq.,  283,  286,  288,  296
-seq.,  312  seq.,  335,  347  seq.,
-360  seq.,  369,  373,  380,  381,
-386,  392  seq.,  401  seq.
-
-fights  the  Arabs  for  Trail  and
-takes  it,  92
-
-king  of  Turan  and  Chin,  99
-
-expelled  from  Tr£n  by  Kai
-Kdus  and  Rustam,  101
-
-fights  with  the  Seven  War-
-riors, in  seq.
-
-nearly    taken    prisoner     by
-Rustam,  14,  116,  354
-
-his  plot  against  Suhrab  and
-Rustam,  129
-
-his  gifts  to  Suhrab,  130
-
-identical  with   Astyages   in
-legend,  191
-
-sends  host  to  invade   Tran,
-224  seq.
-
-determines  to  sue  for  peace    j
-and  sends  hostages,  235  seq.    [
-
-receives  Zanga  and  consults    ',
-Piran,  253  seq.
-
-sends     Piraii     to     welcome    i
-Siyawush,  258
-
-plays  at  polo  with  Siydwush,
-264
-
-413
-
-
-Afra'siya'b,   marries   Farangis   to
-
-Siyawush,  275
-recalls  Siyawush  from  Gang-
-
-dizh,  285
-sends  Garsiwaz  to  Siyawush-
-
-gird,  289
-
-is  deceived  by  Garsiwaz  re-
-specting Siyawush,  296  seq.
-sends  Garsiwaz  to  summon
-
-Siydwush  and  Farangis  to
-
-court,  300  seq.
-
-attacks,  takes,  and  has  Siya-
-wush executed,  314  seq.
-appealed  to  by  Farangis,  317
-his   treatment  of    Farangis,
-
-320,  322
-
-appealed  to  by  Piran,  324
-spares  Farangis,  325
-
-and  her  son  Kai  Khusrau,
-
-327
-sees     and     questions     Kai
-
-Khusrau,  332
-sends    Surkha    against    the
-
-frdnians,  344
-marches  to  avenge  Surkha,
-
-348
-
-lights  with  Tiis,  353
-is  rescued  from  Rustam  by
-
-Human,  354
-
-crosses  the  sea  of  Chin,  356
-consults     Piraii    about    Kai
-
-Khusrau,  356
-returns,  362
-
-his  vengeance  on  fran,  363
-pursues    Kai    Khusrau,   388
-
-seq.
-
-disgraces  Piran,  390
-turns  back  at  the  Jihuu,  394
-
-
-414
-
-
-INDEX
-
-
-Afrigh,  king  of  Kharazm,  190
-Age,  old,  Firdausi's  lament  over
-
-his,  336
-Agni,  25
-
-Ahriman,  the  Evil  Principle,  34,
-42,  43'  5i>  53.  56,  78,  160,  208,
-214,  217,  250,  260,  303,  315,
-324,  358,  361,  374  seg.,  405  se?.
-Ahura,  Mazda  (Urmuzd),  25
-Airdn-v&70,  region  (I'rdn-vej),  189
-Albiriini,   Abu   Raihan  Muham-
-mad, 189
-his  account  of  Alfir  (Gang-
-
-rlizh?),  190
-Alburz,  mountain,  11,^23,  27,  79,
-
-96,  144,  336,  401
-Kaus'  buildings  on,  81
-Alexander,  the  Great  (Sikandar),
-
-8  seq.
-
-era  of,  190
-
-Alfir,  fortress  (Gang-dizh?),  190
-'All,  Khalifa,  337  and  note
-Alkiis,  Turanian  hero,  114
-Alp-Arselan,  Sultan,  219  note
-Amul,  city,  18,  104
-Audarinmn,  Turanian  hero,  264
-Angra  Mainyu  (Ahriman),  28
-Antiochus,  Sidetes,  80,  81
-Arabia,  100
-Arabs,  79,  81,  99
-
-rebel  against  Kai  Kdiis,  83
-fight  with  Afrdsiydb  for  I'rdn
-
-and  are  defeated,  92
-Ard,  day  of,  287
-Ardabil,  city,  336,  405!
-Ardshir  Pdpakdn,  Shah,  10
-Arjdsp,  ruler  of  Turan,  9,  29
-Arjdsp,  Turanian  hero,  264
-Arnold,   Matthew,   his   "Sohrab
-
-and  Kustum,"  118
-Artang,  the,  19  and  note
-Arwand,  river  (the  Tigris),  392, 404
-Arzhang,  a  div,  vi,  41,  43,  44,  56
-
-seq.,  63,  64
-
-Asfandiyar,  frdniaii  hero,  29
-Asp,  as  Persian  termination,  9
-Astyages,    king    of    the    Medes
-(Manda),  190,  191
-
-
-Astyages,  identical  with  Afrasi-
-yab  in  legend,  191
-
-Athenaeus,  10
-
-Azar  (Azarbaijan),  195
-
-Azarbdijdn,  province,  336
-
-Azargashasp,  spirit  of  the  light-
-ning, 57,  294,  345
-
-Azi,  Dahaka  (Zahhak),  81
-
-
-B
-
-BABYLON,  80
-Babylonia,  80,  81
-;  Badar,  battle  of,  337  note
-|  Bahar,  fire-temple,  286
-Bahman,  Shdh,  9
-Bahman,   castle  of,  x,  336,  405
-
-seq.
-
-Bahrdm,   I'ranian  hero,   viii,  33,
-
-35,  38,  58,  62,  85,  127,  138,
-
-144,  158,  249,  257,  258,  271,
-
-290,  318,  338,  340
-
-takes  part  in  the  Fight  of  the
-
-Seven  Warriors,  107  seq.
-accompanies  Siyawush
-
-against  Afrasiyab,  226
-put  in    command    by  Siya-
-wush, 250
-Bahrdm,  moralist,  quoted  by  Fir-
-
-dausi,  1 86
-Balkh,  city,  9,  101,  228,  229,  231,
-
-242,  246,  249
-Baluch,  Bahichistdn  (Makrdn),  80,
-
-226
-Baniigashasp,  daughter  of  Rus-
-
-tarn  and  wife  of  Giv,  365
-stays  with  Rustam  while  Giv
-
-seeks  Kai  Khusrau,  365
-her  suitors,  383,  384
-rejoins  Giv,  395
-Barbar,  Barbaristan,  country,  vi,
-
-79,  82  seq.,  go,  93,  98  seq.
-identification  of,  79
-king  of,  83,  94,  95
-
-taken        prisoner        by
-
-Gura"za,  97
-
-Barman,  Turdnian  hero,  vii,   18,
-119,  129,  130,  150,  349
-
-
-INDEX
-
-
-415
-
-
-B;irman,  his  death  and  revival  in
-legend,  119
-
-marches  on  f  nin,  228
-
-defeated  by  Siyawush,  229
-Barzin,  I'nlnian  hero,  12,  22,  73
-Barzin,  lire-temple,  107
-Berbera,  trading-station,  79
-Bid,  a  div,  44,  54,  55,  64,  93
-Bihzild,   the  horse  of   Siyitwush,
-
-ix,  312,  374  seq.  391
-Birth-mark  of  the  Kaian  race,  372
-Bistun,  mountain,  128
-Bizhan,  f  rani  an  hero,  366  and  note
-Black  Stone,  the,  163  and  note
-Bukhara,  city,  241
-Bull,  Bull-fish,  mythological,  128,
-
-407
-Bundahish,    Pahlavi   treatise,   3
-
-note,  ii,  26,  81,  118,  189
-Buzgiish,  name  of  a  tribe,  55  and
-note
-
-
-CESAR,  383
-
-Cambyses,  father  of  Cyrus,  190
-identical  with  Siyawush  in
-
-legend,  191
-Canopus,  star,  203
-of  Yaman,  203
-Carnelians,  of  Yaman,  123
-Caspian,  sea,  189,  336
-Castle,    White,    I'ranian  strong-
-hold, vii,  118,  131,  138
-evacuated  by  Gazhdaham,  137
-Castle  of  Bahman,  x,  336, 405,  406
-Central  clime,  the,  27
-Chach,  city  of  Turan  famous  for
-its    bows   (Tashkand),   241,
-258,  358
-
-Chares,  of  Mytilene,  10
-Chevy  Chase,  82
-Chin  country  (often  =  Turdn),  77,
-82,   in,  143,  154,  156,  237
-277,    286,    287,    289,    297
-305.  307,  357,  359,  383-  394
-sea  of,  12,  256,  276,  285,  356,
-357
-
-
-Chin,  brocade  of,  39,  203,  262,  290
-
-king  of  Turanand  (Afrdsiyab),
-99
-
-helm  of,  132
-
-ornaments  of,  232
-
-cloth  of  gold  from,  275
-
-Khan  of,  383
-Clime,  the  central,  27
-Climes,  the  seven,  15  note,  372
-"  Cloud,"  name  given  by  Rustam
-
-to  himself,  53
-
-Cloud,  of  bale  (Afrasiyab),  13
-Contents,  table  of,  v
-Courses,  the  Seven,   of  Rustam,
-
-v,  29,  44  seq
-Ctesias,  9
-Ctesiphon,  city,  80
-Cyrus,  the  Great,  9,  190,  191
-
-identical  with  Kai  Khusrau
-in  legend,  191
-
-
-D
-
-
-DA£VAS  (divs),  28
-
-Daghwi,  desert,  193
-
-Dakiki,  3  note,  8
-
-Damaghan,  city,  15
-
-Damur,  Turanian  hero,  296,  319
-overthrown  by  SiyaAvush,  295
-advocates  execution  of  Siya-
-wush, 317
-
-Dara,  Shall,  9
-
-Diirdb,  Shall,  9,  11
-
-Darband,  pass  of,  336
-
-Darmesteter,   Professor,   on   Fir-
-dausi's  geography,  79,  80
-
-Death,  early,  Firdausi's  justifica-
-tion of.  119
-
-Deipnosophistae,  10
-
-Dina-i  Mainog-i  Khirarf,  Pahlavi
-treatise,  189
-
-Dinkard,  Pahlavi  treatise,  26,  81
-
-Div,  demon  (DaeVa),  27,  33,  34,
-38,  41  seq.,  57  seq.,  68,  73,
-
-IOI,    IO2,   144
-
-title  of  honour,  29
-=  Ahriman,     46,     324,     342,
-370,  386,  400
-
-
-4i6
-
-
-INDEX
-
-
-Div,  Black,  the,  53
-
-White,  the,  vi,    27,    39  seq.,
-43,  44.  54,  55,  58  seq.,
-66,  93,  163,  373
-defeats  Kails,  40
-his  blood  cures  blindness,
-
-58,  62
-
-song  of  a,  31
-Divs,  Avhite,  27
-Dragon,   slain  by    Rustam   and
-
-Rakhsh,  48  seq.
-
-Drought  and  famine,  in  1'rdn,  363
-Duncker,  Professor,  his  views  as
-to  date  of  the  Zandavasta,  9
-Dynasty,  Kaian,  Kaianian,  7  seq.
-Pishdddian,  9,  336
-Sdsdnian,  10
-
-
-E
-
-EGYPT  (Misr),  80
-Ekbatana,  city  (Hamaddn),  191
-Elburz,  mountain.     See  Alburz
-Elephantine,  the  (Rustam),  65,  67
-Elixir,  vii,  177,  178
-Euphrates,  river,  80
-Euxine,  sea,  191,  336
-Eyes,  metaphor  for  children,  297,
-328
-
-
-FAGHFIJR,  dynastic  title  of  the
-princes  of  Chin  and  Machin,
-
-383
-
-Famine  and  drought,  in  Tran,  363
-Fararaarz,  son  of  Rustam,  ix,  319,
-
-341  seq.,  349,  351,  354
-takes  Surkha  prisoner,  345
-Farangis,  daughter  of  Afrasiyab,
-wife  of  Siyawush,  mother
-of  Kai  Khusrau,   viii  seq.,
-1 88,  288  seq.,  299,  306,  373,
-376  seq.,  381,  386  seq.
-identical   with    Mandane   in
-
-legend,  191
-
-marries  Siydwnsli,  270  seq.
-summoned  to  court  by  Afrd-
-siydb,  300  seq.
-
-
-Farangis, confided  in  by  Siydwush,
-
-307  seq.
-
-appeals  to  Afrasiyab,  317  seq.
-imprisoned,  320
-sentenced,  322
-saved   and  taken   charge  of
-
-by  Pirdn,  324  seq.
-gives  birth  to  Kai  Khusrau,
-
-326
-
-dwells  at  Siydwushgird,  333
-instructs  Kai  Khusrau  how
-
-to  find  Bihzdd,  374
-gives  Giv  the  mail  of  Siya-
-wush, 376
-
-crosses  the  Jiluin,  392
-provided  for  by  Kai  Kaiis,  399
-Farhdd,  chieftain,  63  seq.,  73,  85,
-
-138,  316,  338,  340
-goes  as  envoy  to  the  king  of
-
-Mazandaran,  63
-takes  part  in  the  Fight  of  the
-
-Seven  Warriors,  1 1 1
-Fariburz,  son  of  Kai  Kdiis,  x,  62,
-
-199.316,335,  336,  340,  358,
-
-405  seq.,  409
-his   encampment    described,
-
-.I5S
-
-his  claims  to  the  throne  sup-
-ported by  Tiis,  401
-recognises  Kai   Khusrau   as
-
-Shah,  410
-
-Faridiin,  Shah,  11,  17,  19,  21,  29,
-33,  36,  37,  99,  i93»  i95»  204,
-237,  274,  318,  327,  392,  400,
-404
-
-saying  of,  219  and  note
-Farshidward,  Turanian  hero,  323,
-summons    Pirdn      to      save
-
-Farangis,  322
-
-Farud,  son  of  Siyawush,  viii,  291
-Fight  of  the  Seven  Warriors,  vi,
-
-82
-
-Firdausi,  ix,  9,  10,  82,  119
-his  geography,  28,  79,  80
-
-Professor      Darmesteter
-
-on,  79,  80
-
-proud  of  his  version  of  the
-Story  of  Siydwnsh,  188,  191
-
-
-INDEX
-
-
-417
-
-
-Fire,  ordeal  by,  vii,  218  seq.
-Firiizi  Kuh,  mountain  and  pass,
-
-28
-
-Fish,  mythological,  15,  299
-Flying-machine  of  Kai  Kaiis,  103
-Frangrasyan  (Afrdsiydb),  81,  189
-Frdsydv  (Afrdsiydb),  81
-Fravashi,  immortal  principle,  82
-
-G
-
-GANG,  stronghold,  241,  261,  309,
-
-344,  357,  369
-sea  of,  362
-Gang-dizh,  stronghold,  viii,  189,
-
-190
-
-possible  identification  of,  189
-meaning  of,  190
-building  and  description  of,
-
-279  seq.
-
-Gang-i-Siyawush.    See  Gang-dizh
-
-Garsiwaz,   brother  of  Afrdsiydb,
-
-viii,  188,  189,  193,  195,  228,
-
-231  seq.,  249,  253,  264,  268,
-
-269,  286,  289  seq.,  313  seq.
-
-defeated    by  Siy&wush,   229
-
-seq.
-sues  for  peace  to  Siydwush,
-
-237  seq.
-fails   to   string    the  bow    of
-
-Siydwush,  266
-visits  Siydwush,  289  seq.
-envies  Siydwush,  292  seq.
-challenges  Siydwush,  294
-slanders  Siydwush,  296  seq.
-betrays  Siydwush,  301  seq.
-compasses  the  death  of  Siyd-
-wush, 315  seq.
-charged  with  the   execution
-
-of  Farangis,  322
-Garshasp,  Shall,  336
-Gdthas,  8
-
-Gazhdaham.l'ranian  hero,  vii,  131,
-132,  134,  138,  139,  145,  146
-his  description  of  Suhrab,  136
-evacuates  White  Castle,  137
-Genealogical  tables,  3,  4
-Geography,  Firdausi's,  28
-VOL.   II.
-
-
-Geography,  Firdausi's,  Professor
-
-Darmesteter  on,  79,  80
-Ghundi,  a  div,  44,  54,  55,  93
-Glair,  district,  101
-Gildn,  district,  226,  293
-Girduni,  Sirdarra,  pass,  28
-
-Sawachi,  pass,  28
-Giv,  franiau  hero,  ix,  x,  25,  33,
-35>  38,  39,  58.  62,  70,  73,
-85,  91,  127,   138  seq.,  148,
-151,  158,  160,  188,  193,  197,
-271,  318,  319,  335,  338,  340,
-349,351.  362,  3«8  seq.
-harries  Mdzandardn,  39
-taken    prisoner    in    Mdzan-
-dardn, 40
-
-released  by  Rustam,  58
-taken    prisoner     in     Hdmd-
-
-vardn,  90
-
-released  by  Kustain,  97
-goes  in  search  of  Kai  Kdtis,  104
-takes  part  in  the  Fight  of  the
-
-Seven  Warriors,  107  seq.
-bears    letter    from  Kdus    to
-
-Rustam,  139
-his   encampment   described,
-
-155
-
-son-in-law  of  Rustam,  155
-helps  to  saddle  Rakhsh  for
-
-the  fight  with  Suhrdb,  160
-his  account  of  Suhrab,  166
-quarrels  with  Tiis  over   the
-
-future  mother  of  Siydwush,
-
-194
-
-meaning  of,  335
-sent  by  Gudarz  to  seek  Kai
-
-Khusrau,  364  seq.
-finds  Kai  Khusrau,  370  seq.
-receives  the    mail  of    Siya-
-
-wush,  377
-his  exploits  in  defence  of  Kai
-
-Khusrau,  378  seq.
-tells  how  he  captured  Pirdn's
-
-wife  and  sister,  383
-his  wife,  384
-his  sister,  384
-overthrows    Piran    and     his
-
-host,  385
-
-2D
-
-
-4i8
-
-
-INDEX
-
-
-Giv,  releases  Piran,  387
-at  the  Jihun,  391  seq.
-announces     Kai     Klmsrau's
-
-arrival  in  I'ran,  394
-accompanies  Kai  Khusrau  to
-
-Ispahan,  396
-
-rewarded  by  Kai  Kaus,  399
-goes  on  an  embassy  to  Tus,
-
-400
-
-bears  Kai  Klmsrau's  letter  to
-the  castle  of  Bahman,  408
-Givgan,  Fran  5  an  hero,  109,  155
-Glory,  the  divine.     See  Grace
-Grace,  or  Glory,  the  divine,  81,
-82,  90,  99,  101,  102,  106,  207,
-209,  265,  283,  289,  302,  327,
-356,   358,  361,  364,   37i,  373.
-seq.,  382,  386,  392,  399,  401
-seq.,  407  seq.
-
-Greek  history  and  legend  in
-relation  to  Persian  history
-and  legend,  9
-
-Gudarz,  I'rdnian  hero,  ix,  x,  33,
-35,  38,  62,  70,  73,  83,  90,  91,
-127,  138,  142,  157,  177,  178,
-193,  250,  286,  290,  316,  318,
-335.  338,  340,  349,  37i  seq.,
-384,  388,  394,  406
-taken  prisoner  in  Mazan-
-
-danln,  40
-
-released  by  Rustarn,  58
-receives    Ispahan    from  Kai
-.  Kaus,  78
-taken  prisoner  in  Hanutvaran,
-
-90
-
-released  by  Rustain,  97
-censures  Kai  Kaus,  105
-takes  part  in  the  Fight  of  the
-
-Seven  Warriors,  107  seq.
-mediates  between  Kai  Kaiis
-
-and  Rustam,  144  seq.
-his    encampment   described,
-
-153
-
-his  sons,  158
-consoles    Siyawush     for    his
-
-mother's  death,   199
-
-
-Gudarz,  appointed  ruler  of  Sughd
-and  Sipanjab,  358
-
-returns  to  Tran,  362
-
-sees  Surush  in  a  dream,  363
-
-sends  Giv  to  seek  for  Kai
-Khusrau,  364
-
-hears  of  Kai  Klmsrau's  arri-
-val in  I'ran,  395
-
-welcomes  Kai  Khusrau  and
-Giv,  396
-
-accompanies  them  to  Istakhr,
-
-399
-
-his  dispute  with  Tus,4OO  seq.
-goes   with  Kai   Khusrau  to
-
-the  castle  of  Bahman,  407
-Gulshahr,  wife  of  Piran,  269,  275,
-
-276,  288,  326,  387,  390
-Gulzaryun,  river  (the  Jaxartes?),
-
-358,  381  _
-
-Guriiza,  I'ranian  hero,  73,  340
-takes  king  of  Barbar  prisoner,
-
-97
-takes  part  in  the  Fight  of  the
-
-Seven  Warriors,  107  seq.
-his   encampment    described,
-
-155
-
-Gurdafrid,  daughter  of  Gazhda-
-hain,  vii,  119,  131  seq.,  138
-beguiles  Suhrab,  133
-Gurdya,  sister  of  Bahrain  Chu-
-
-bina,  119
-
-Gurgin,  I'ranian  hero,  33,  35,  62,
-7°,  73»  85,  90,  127,  138,  144,
-316,  340,  394
-takes  part  in  the  Fight  of  the
-
-Seven  Warriors,  107  seq.
-Griirwi,   Turanian    hero,   ix,   296,
-
-314,  319,  338,  340
-challenges  and  is  overthrown
-
-by  Siyawush,  295
-advocates  the  execution   of
-
-Siyawush,  317
-carries  out  the  execution  of
-
-Siyawush,  320
-
-Gustaham,  son   of  Gazhdaham,1
-12,  58,  177
-
-
-1  This  is  assumed  in  all  cases  where  it  is  doubtful  which  Gustaham  is
-meant.     Cf.  vol.  i.  p.  369.
-
-
-INDEX
-
-
-419
-
-
-(Jusialiain.    lakes    part    in   the
-Fight  of  the  Seven   War-
-riors, 107  seq.
-(iustaham,  son  of  Naudar,   127,
-
-336
-Gushtiisp,  Shah,  9
-
-in  Rum,  story  of,  10
-
-
-II
-
-
-HAFT  Khan,  29
-Khwdn,  29
-Man,  29
-Hajir,  I'ranian  liero,  vii,  131,  134,
-
-136,  140,  349
-
-taken  prisoner  by  Suhral),  131
-misleads  Suhrdb,  152  seq.
-his  life  attempted  by  Rnstani,
-
-176
-
-Hainavariin,  country  (Yaman),  vi,
-25,  78  seq.,  93,  94,  96*69.,
-139,  143  seq.,  213,  215,  218,
-250
-
-king  of,  vi,  85  seq.,  93,  207  and
-note
-
-asks  quarter  of  Rustam,
-
-97
-
-releases  Kai  K.liis,  97
-Handgrip,  as  test  of  strength,  64,
-
-66,  67
-Hal-tit,  city,  101
-
-desert  of,  228
-Harpagus,  190
-
-identical      with      Piran     in
-
-legend,  191
-Hang,  his  theory  of  the  origin  of
-
-Zoroastrianism,  8
-Herodotus,  9
-
-his  account  of  the  youth  of
-
-Cyrus  the  Great,  190
-Himyar  =  Hi'ima" varan  ( Yaman),79
-Hind,  Hindustan,  92,  228,  287,  289
-Hindu  Kush,  80
-Hirbad,   keeper  of  the  women's
-
-house  of  Kai  KaYis,  202,  206
-Horses,  of  Persian  royalty,  how
-
-distinguished,  410  note
-Humai,  Shall,  9,  10
-
-
-Human,  Turanian  hero,  vii,    129,
-130,  132,  148,  150,  165,  264,
-
-390
-his  account  of  Rustam,   165,
-
-169
-reproaches  Suhrdb  for  sparing
-
-Rustam,  171
-throws  the  blame  for  Suhnib's
-
-death  on  Hajir,  176
-withdraws  from  I'nin  under
-
-safe  conduct,  176,  181,  182,
-
-184
-rescues        Afrasiyab        from
-
-Rustam,  354,  355
-persuades  Afrasiyilb  to  aban-
-don   the    pursuit    of    Kai
-
-Khusrau,  394
-Hushang,  Shall,  204
-Hyrcania,  country  (Mazandara'u),
-27
-
-
-iBLis,  the  Muhammadan  Devil,
-
-vi
-occasional  substitution  of  for
-
-Ahriman,  82,  no
-Ighriras,  brother  of  Afrasiyab,  18,
-
-20,  303,  304
-tndra,  god,  25
-Indus,  river,  21
-fraj,  youngest  son  of  Faridiin,  8,
-
-1 6,  19,  20,  237,  297,  302
-Irani,  garden  of,  78
-fran,  vi,  ix,  17  wq.,  33,  35,  39,  76,
-
-78  and  passim
-Shahr,  81
-fought  for  by  Afrasiyilb  and
-
-the  Arabs,  92
-invaded  by  Snhrab,  130
-franians,  the,  9,  20,   27,  42  and
-
-passim
-
-Ispahan,  city,  x,  394,  399
-given  to  Gi'idarz,  78
-arrival  of  Kai  Khusrau   at,
-
-396
-
-Ispuruz,  mountain,  38,  56,  57
-Istakhr,  city,  v,  n,  22,  28,  399
-
-
-42O
-
-
-INDEX
-
-
-JAHN,  son  of  Afnfeiydb,  264,  268
-Jdmasp,   chief  minister  of  Shdh
-
-Gushta'sp,  9
-Jamshid,  Shall,  33,  37,  168,  204,
-
-358,  399
-
-Jarira,  daughter  of  Pintn,  wife  of
-Siya'wush,  mother  of  Farud,
-i 88,  269
-
-marries  Siya'wush,  268  seq.
-
-birth  of  lier  son  Farud,  291
-Jirmn,  river  (the  Oxus),  x,  15,  19
-
-seq.,   99,  229,  237,  248,  258,
-
-311,  340,  390,  394,  399,  404
-Jupiter,  planet,  115
-Juya",  a  div,  71
-
-slain  by  Rustam,  72
-
-K
-
-KABAB,  small  pieces  of  meat
-skewered  together  for  roast-
-ing, 103
-
-Kdbul,     Kjlbulistsin,     city     and
-country,  12,  18,  21,  92,  228,
-260,  271,  341
-Ktichar  Bashi,  city  in  Tuntn,  258,
-
-260,  361
-
-Ksif,  mountain,  83,  404
-Kai,  meaning  of,  8
-Kaian,  Kaians,  race  and  dynasty,
-
-8,  9,  22,  404
-birth-mark,  372
-stature,  375
-Kaia"nian,    Kaianians,    race    and
-
-dynasty,  v,  7  seq.
-Kai  Arash,  son  of  Kai  Kubsid,  23,
-
-204,  205
-
-Kai  Armin,  son  of  Kai  Kubsid,  23
-
-Kai  Kdiis,  Shdh,  v  seq.,  8,  10,  n,
-
-23  seq.,  33  seq.,  54  seq.,  61
-
-seq.,  log,  no,  117,  127, 129,
-
-13°.  233.  243  seq.,  264,  269
-
-seq.,  273,  284,  286,  290,  296,
-
-301,  316,  318,  319,  335,  347,
-
-361,  364,  371,  373,  383,  401
-
-tempted  by  divs,  30  seq.,  81,
-
-102
-
-
-Kai  KaYis,  goes  to  Mount  Kitf,  83
-defeats  Afrdsiyjib  and  regains
-
-I'raX  100
-makes    Rustam    paladin    of
-
-paladins,  101
-his     buildings     on     Mount
-
-Albnrz,  81,  101
-his  flying-machine,  103
-his  fall  from  the  sky,  104
-his  repentance,  105
-hears  of  Suhnib  and  summons
-
-his  chiefs,  136  seq.
-bids  Tus  hang  Rnstam  and
-
-Giv,  143
-
-his  apology  to  Rustam,  147
-his    encampment    described,
-
-153
-
-his      camp-enclosure      over-
-thrown by  Suhrftb,  160
-refuses  to  cure  Suhrdb,  178
-attempts  to  console  Rustam,
-
-181
-marries  the  future  mother  of
-
-Siya'wush,  194
-
-receives  Siy  a"  wush  at  court,  1 98
-bestows  Kuhistiin  upon  him,
-
-199
-his  conduct  in  thecaseof  Siyit-
-
-wush  and  Siiddba,  200  seq.
-sends     SiyaAvush     to     fight
-
-Afra'siya'b,  225
-rejects  terms  of  peace  and
-
-quarrels     with      Rustam,
-
-244  seq.
-hears    of    the    defection    of
-
-Siya'wush,  258
-his    grief    at    the    death    of
-
-Siyawush,  337
-hears  of  Kai  Khusrau's  arrival
-
-in  Iran,  395
-receives  him,  397
-rewards  Giv,  399
-provides  for  Farangis,  399
-arbitrates  between  Tiis  and
-
-Gudarz,  403  seq.
-welcomes  Kai  Khusrau  on  his
-
-return  from  the  castle  of
-
-Bahman,  410
-
-
-INDEX
-
-
-421
-
-
-K;ii  Khusrau,  Shah,  ix,  x,  9,  25,
-104,  189,  190,  310  set/,,  334
-seq.,  386  seq.
-
-fravashi  of,  82
-
-identical  with  Cyrus  the
-Great  in  legend,  191
-
-prophecies    respecting,     310,
-
-372,  390
-
-birth  of,  325  seq.
-account  of  his  youth,  328  seq.
-questioned  by  Afrdsiyal),  332
-dwells  at  Siyawushgird,  333
-is  sent  to  Khutan,  356
-
-Mttchin,  357  note
-described  by  Surush,  363
-Gudarz  sends   Giv  to  seek,
-
-364  seq.
-recalled,  370
-found  by  Giv,  370
-shows  his  birth-mark  to  Giv,
-
-372
-
-saves  Piran's  life,  387
-at  the  Jihun,  391  seq.
-arrives  at  Zani,  394
-visits  Gudarz  at  Ispahan,  396
-tells  his  story  to  Kai  Kaus,  397
-praises  Giv  to  Kai  Kaiis,  398
-goes  to  Istakhr,  399
-enthroned  as  Shall,  400,  411
-supported    by    Gudarz    and
-
-opposed  by  Tus,  400  seq.
-his  letter  to  the  defenders  of
-
-the  castle  of  Bahman,  407
-establishes    Fire-worship    at
-
-the  castle  of  Bahman,  409
-pardons  Tus,  410
-Kai  Kubad,  Shah,  v,  8,  11,  12,  14,
-
-16,  iSscq.,  26,  33,  34,  36,  37,
-
-87,  143,  144,  249,  260,  270,
-
-274,  327,  336,  363,  390,  394
-his  origin,  n  and  note
-makes  peace  with  Afrasiyab,
-
-20
-
-his  gifts  to  Zal  and  Rustam,  21
-Kai  Pashin,  son  of  Kai  Kubttd,
-
-23,  204,  205
-Kalahur,  a  div,  67
-Kalat-i-Nadiri,  a  stronghold,  189
-
-
-Kalnr,  mountain,  328
-Kangdez  (Gang-di/h),  189,  190
-Kangha,  country  (Kh;ir;i/m),  189,
-
-190
-K;iran,  I'ranian  hero,  11  seq.,  18,
-
-22,  119
-
-Kargasars,  tribe,  98
-Kariman,  I'rauian  hero,  father  of
-
-Nariman,  125
-
-Kashmir,  country,  271,  338
-Kaiis.     See  Kai  Kdiis
-Kavi  (Kai),  8,  25
-
-Usa,  25
-Kitvyau  (Kaian),  8
-
-Ushana",  25
-K;lwa,  flag  of,  12,  227,  341,  349,
-
-354,  400,  402,  405,  406,  410
-Keresavasda  (Garsiwaz),  189
-Kharazm,   country  (Khiva),  189,
-
-190
-
-Kharazmians,  people,  190
-Kharnid.  I'ranian  hero,  n,  22,  33,
-
-73,  340
-
-Kharzarwiin,  Turanian  hero,  18
-Khata,  region  in  Turan,  357
-Khazar,  region,  285
-Khiva,  country  (Kharazm),  190
-Khshathro  -  saoka,       stronghold
-
-(Gang-dizh),  189,  190
-Khurasan,  province  of  fntn,  399
-Khusrau.     See  Kai  Khusrau
-Khutan,  region  in  Turjtn,  ix,  277,
-
-288,  325,  357,  383
-Kishwdd,  frdnian  hero,  11,  12,  18,
-
-22,  33,  70,  73,  I07>  112,  138,
-
-318,  384,  399,  404,  409
-Kubad,  Shall.     See  Kai  Kubdd
-Kuch,  region,  226
-Knhistin,  Transoxania  (Md  wara
-
-'u'n-Nahr),  199
-Kuhram,  Turanian  hero,  349
-Kulbad,   Ti'ininiau   hero,   ix,    18,
-264,  388
-
-his    death    and    revival    in
-legend,  119
-
-pursues  Kai  Khusrau,  377  seq.
-Kum,  city  in  I'ran,  399
-Kumar,  cape,  103  and  note
-
-
-422
-
-
-INDEX
-
-
-LAHHAK,  Ttirdnian  hero,  323  note
-summons  Pir.in  to  save  Far-
-
-angis,  322
-
-Leo,  constellation,  405
-Luhrasp,  Shdh,  9
-
-
-M
-
-
-MACH/N   (China),   357  note,   370,
-
-394
-
-Machine,  flying,  of  Kai  Kaiis,  103
-Magi,  priests  of  the  Medes,  190
-advocates    of    next  -  of  -  kin
-
-marriage,  189
-Makran,    country    (Baluchistdn),
-
-80,  82
-Malcolm,  Sir  John,  his  version  of
-
-Suhrab,  118
-Man,  of  Sigz  (Rustam),  100  and
-
-note
-Manda,  empire  of  the,  =  empire  of
-
-the  Medes,  191
-Mandane,  daughter  of  Astyages,
-
-190
-identical    with    Farangis    in
-
-legend,  191
-
-Mani,  heresiarch,  19  note
-Manicheism,  19  note
-Mark,  birth,  of  the  Kaian  race,
-
-372
-Marriage,  next-of-kin  (Khvaituk-
-
-das),  189
-
-Mars,  planet,  247,  407
-Marv,  city,  101
-Marvrud,  river,  228
-Mashad,  city,  189
-Ma"    wara  'u'n-Nahr    (Kuhistan,
-
-Transoxania),  19,  199
-Mslzana  (Mtlzandarftn),  28
-Ma"zandaran,  country  (Hyrcania),
-v,  vi,  25  seq.,  33,  34,  36  scq.,
-45.  55'  6o  seq.,  66  seq.,  75,  76,
-78,  81,  93,  105,  139,  143  seg.,
-293
-
-
-Mazandartin,    approach    to    from
-rra"n,  28
-
-description  of,  27
-
-king  of,  vi,  39,  43,  54,  62  seq.
-
-his  interview  with  Rustam,67
-
-his  fight  with  Rustam,  73
-
-turns  himself  into  a  rock,  74
-
-death  of,  75
-
-Mazda,  Ahura  (Urmuzd),  81
-Medes,  empire  of  the,  =  empire  of
-
-the  Manda,  191
-j  Median,  empire,  9
-Mihrdb,   king  of  K;tbul,    12,    14
-
-18,  21
-Minuchihr,  Shdh,  19,  29,  33,  36,
-
-37,  302,  318,  400
-
-Misr  (Egypt),  79,  So,  84,  94,  96,
-143,  286
-
-king  of,  94,  95,  98
-Mithridates  I.,  80
-Muhammad,  the  Prophet,  337  note
-Mytilene,  Chares  of,  10
-
-N
-
-|  NARIMAN,    fntniau  hero,   father
-
-of  Sdm,  49,  115,  119,  125,  126,
-
-162,  354
-Narmpai,  name  of  a  tribe,  55  and
-
-note,  63,  64
-Narwan,  forest  of,  341
-!  Nastihan,  Turanian  hero,  ix,  264
-
-pursues  Kai  Klmsrau,  377  seq.
-Naudar,    Shah,    20,    36,   70,    153,
-
-336,  400,  404
-Nawand,  place,  107
-Ndryosang,  82
-
-Nile,  river,  96,  153,  217,  310,  402
-Nimriiz,  country,1  21,  34,  69,  77,
-
-80,  84,  338,  395
-Nishapiir,  city,  101
-
-O
-
-ORDEAL  by  fire,  218  seq.
-Ox  of  Kai  KaYis,  26
-Oxus,  river  (Jilmn),  190
-
-
-1  See  vol.  i.  p.  396  note.
-
-
-INDEX
-
-
-423
-
-
-I 'AH  LAV,  district,  77,  102
-
-Pahlavi,  texts,  27
-
-Pdrs,  country,  v,  23,  28,  76,  101,
-
-226,  275,  286,  362,  410
-Parthian  kingdom,  80  ,
-
-Pashang,  ruler  of  Tunin,   v,  n,
-
-13,  18,  20,  21,  297,  401
-Piiuriisliasp,  9
-Persia,  191
-Persian,  empire,  9
-
-history  and  legend  in  rela-
-tion to  Greek  history  and
-legend,  9
-Persians,  190
-
-Phosphor,  morning  star,  123
-Phraates  II.,  So,  81
-Pilsam,    Turanian    hero,    vi,    ix,
-112  seq.,  320,  323  note,  350
-seq.
-
-pleads  for  Siyawush,  315
-summons      Pintn     to     save
-
-Farangis,  322
-
-Piran,  Turanian  hero,  viii  seq.,
-112,  188,  257  seq.,  264,  277,
-278,  282  scq.,  291,  311,  315,
-316,  322  seq.,  335,  350,  370,
-377,  379«egr.,397,  398
-identical  with  Harpagns  in
-
-legend,  191
-
-advises  Afnisiyilb  to  receive
-
-SiyaAvush,  253  note  and  scq.
-
-goes   to  welcome   Siyawush,
-
-258  seq.
-
-arranges  marriages  for  Siya-
-wush, 268  seq.
-entertains  Siyawush,  278
-offers   to   help   Siyawush   to
-
-build  Gang-dizh,  278
-the  prophecy  of  Siyawush  to,
-
-282  seq.
-
-goes  to  collect  tribute,  285
-visits  Siyawush,  287
-
-Afnisiyab,  288
-summoned  to  save  Farangis,
-
-322  seq.
-pleads  for  Farangis,  324
-
-
-Pi  nin,  takes  charge  of  Fanmgis,325
-
-his  dream  of  Siyawush,  325
-
-protects     the     infant      Kai
-Khusrau,  326
-
-advises  Afnisiyab  respecting
-Kai  Khusrau,  356
-
-sends  Kulbad  and  Nastiluin
-to  pursue  Kai  Khusrau,  377
-
-overthrown  with  his  host  by
-Giv,  385
-
-appeals  to  Kai  Khusrau,  386
-
-released,  387
-
-describes    Giv's  prowess   to
-Afrrfsiyab,  389
-
-disgraced,  390
-
-retires  to  Khutan,  390
-Pisces,  constellation,  407
-Pishdadian  dynasty,  9,  336
-Pleiads,  Pleiades,  148, 282, 394, 408
-Polo,  game  of,  viii,  263  seq.,  292
-Pronunciation,  note  on,  6
-Pseudo  -  Callisthenes,     romantic
-
-Greek  history  of  Alexander
-
-the  Great,  9
-
-Pulad,  Turanian  hero,  264
-Pulad,  1'nlnian  hero,  22
-Pulad,  a  div,  44,  54,  55,  64,  93
-Pun-t  (Berbera),  79
-
-
-K
-
-
-RAKHSH,  Rustam's  steed,  v,  13,
-42  seq.,  67,  74,  94,  97,  no,
-116,  139,  143,  160,311,354
-slays  a  lion,  45
-encounters  a  dragon,  48
-stolen  by  Turkmans,  121  seq.
-sire  of  Suhntb's  charger,  128
-saddled  by  Giv,  Ruhham,  and
-Tus     for    the    fight    with
-Suhrab,  160
-Rai,  city,  23,  399
-Ram,  Rustam's  life  saved  by  a,  46
-Ram,  constellation,  299
-Red  Sea,  364
-
-Rizwdn,  angel,  39  and  note,  288
-Riiddba,  the  mother  of  Rustam,
-44,  1 80
-
-
-424
-
-
-INDEX
-
-
-RuhMm,  fninian  hero,  62,  73, 144,
-
-158,  340
-
-helps  to  saddle  Rakhsh  for
-the  fight  with  Suhrab,  160
-Ruin,  son  of  Afnisiyiib,  264
-Ruin,  son  of  Pinln,  323  and  note
-Rum,  the  Eastern  Roman  Empire,
-
-I43>  297,  307,  36o
-Rustam,  I'raniaii  hero,  v  seq.,  11
-seq.,   18,  21,  25,  34,  35,  42
-seq.,   79,  92  seq.,  188,  236,
-237,  271,  286,  290,  311,  316,
-3i8,  319.  335.  344^<?-,  349
-seq.,  37i,  372,  380,  394,  400
-his  first  campaign,  n  seq.
-nearly       takes        Afrasiydb
-
-prisoner,  14,  116,  354
-rewarded  by  Kai  Kubad,  21
-his  life  saved  by  a  ram,  46
-song  of,  51
-rescues  Kai  Kails  in  Mazan-
-
-daivin,  58
-
-his  handgrip,  66,  67
-his  encounter  with  Kalahur,
-
-67
-his  audience  with  the  king
-
-of  Mazandaran,  67  seq.
-his  encounter  with  Juyd,  71
-his  encounter  with  the  king
-
-of  Mslzandanin,  73
-rewarded  by  Kai  Kdus,  77
-entertains  Kai  Kaus,  83
-takes     the     king    of     Sham
-
-prisoner,  97
-defeats  Afrasiyab,  100
-made  paladin  of  paladins  by
-
-Kai  KaYis,  101
-goes  in  search  of  Kai  Kaiis,
-
-104
-takes  part  in  the  Fight  of  the
-
-Seven  Warriors,  107  seq.
-slays  Alkus,  115
-and    Suhrab,   Story   of,    118
-
-seq.
-
-loses  Rakhsh,  121
-Afrasiytib's  plot  against,  129
-holds  a  drinking-bout,  141
-quarrels  with  Kai  Kdus,  142
-
-
-Rustam,  reconciled  by  Gudarz,  144
-
-seq.
-goes  in  disguise  to  see  Suhrab,
-
-149
-his  adventure  with  Zhanda
-
-Razm,  149  seq.
-his  account  of  Suhrab,   151,
-
-1 66
-his    encampment    described,
-
-154
-armed    by    Tus,    Giv,    and
-
-Ruhhtlm  for  his  fight  with
-
-Suhrdb,  1 60
-challenges  Suhrab,  161
-his  charge  to  Zawdra,  167
-declines  SuhraVs  advances,
-
-169
-
-saves  his  life  by  a  ruse,  170
-prays  that  his  strength  may
-
-be  restored,  171
-learns  too  late  that  Suhrab  is
-
-his  son,  173
-his  grief,  173  seq.
-makes  a  truce  with  Human,
-
-176
-tries  to  slay  Hajir,  176
-
-himself,  177
-
-brings  up  Siyawush,  196
-marches   with    him    .against
-
-Afrasiyab,  225  seq.
-returns  and  quarrels  with  Kai
-
-Kaus,  242  seq.
-his  grief  and  wrath  at  the
-
-death    of     Siydwush,    338
-
-seq.
-
-puts  Surkha  to  death,  346
-fights  with    the    Tuninians,
-
-349  «eq.
-appoints  Tus  ruler  of  Chach,
-
-358
-appoints     Gudarz    ruler     of
-
-Sughd  and  Sipanjab,  358
-his  daughter,  383,  384
-his  wife,  384
-hears  of  Kai  Khusrau's arrival
-
-in  fran,  395
-
-Rustum    and    Suhrab,    Matthew
-Arnold's,  118
-
-
-INDEX
-
-
-425
-
-
-SAGSAR,  district,  143
-
-Saklab,  country  (Slavonia),  360
-
-Salm,  eldest  son  of  Faridun,  19,
-
-237,  3*8
-
-Stim,  I'ranian  hero,  father  of  Zdl,
-16,  17,    33,  34,  49,   125,  126,
-137,  140,  173,  182,  183
-Samangdn,  city  in  Turan.vi,  118,
-
-121  seq.,  130,  140
-king  of,  vi,  118,  140,  184
-entertains  Rustam,  122
-father  of  Zhanda  Razm,
-
-Samarkand,  city  (Sughd),  241
-
-Sanja,  a  div,  39,  40,  44,  55
-
-Sarakhs,  city,  108
-
-Saruch,  desert,  226
-
-Sasauian  dynasty,  10
-
-Saturn,  planet,  183,  208,  215,  247,
-
-263,  310,  319,  394,  407
-Seleucia,  city,  on  the  Tigris,  80
-Semiramis,  10
-
-Seven  climes,  the,  15  note,  372
-Seven  Courses  of  Rustam,  v. 44  seq.
-Seven  Warriors,  Fight  of  the,  vi,
-
-25,  82,  107  seq.
-
-Shaha,  city  in  Hamavaran,  89
-Shahd,  river,  108
-Shdhndma,  editions  of,  5
-Shahr-Bdnu-Iram,     Giv's     sister
-
-and  Rustam's  wife,  384
-Shdm  (Syria),  80,  84
-
-king  of,   taken  prisoner  by
-
-Rustam,  97
-
-Shamasas,  Turdnian  hero,  12,  18
-Shdpiir,  I'rdnianhero,  271,  338,  340
-Shawardn,   I'ranian   hero,  73,  90,
-
-111,228,249,250,255,271,318
-Shepherds,  Kai  Khusrau  brought
-
-up  by,  328  seq.
-Shidush,  I'ranianhero,  58,  85,  158,
-
-340
-
-Sigz,  man  of  (Rustam),  looand  note
-Sikandar  (Alexander  the  Great),
-
-Sseq.
-
-1  See  vol.  i.
-VOL.   II.
-
-
-Sind,  river  (the  Indus),  285
-Sipahram,    Turanian    hero,   228,
-
-229,  388
-Sipand,  mountain  (White  Castle),
-
-118
-Sipanjilb,    region,  241,  342,   344,
-
-345. 358
-
-Sistan,  country,1  80,  335,  365
-Siyawush,  son  of  Kai  Kaus,  vii
-seq.,  25,  104  note,  187  seq.,
-335,  338  seq.,  346  seq.,  363,
-37i,  372,  374  seq.,  383,  386,
-388,  396,  403,411
-his  mother,  vii
-Story  of,  1 88  seq.
-Prelude  to,  191
-good    example    of    Fir-
-
-dausi's  method,  188
-identical  with  Canibyses,  the
-father  of  Cyrus,  in  legend,
-191
-adventure  of  the  mother  of,
-
-193
-destined  to  misfortune  from
-
-birth,  196
-
-brought  up  by  Rustani,  196
-returns  to  court,  197
-made  ruler  of  Kuhistan,  199
-mourns     for     his     mother's
-
-death,  199
-his   temptation   by   Sudaba,
-
-200  seq.
-marches    against    Afrdsiyab,
-
-225  seq.
-demands  hostages  of  Afrasi-
-
-yab,  239  seq.
-goes  over  to  Afrasiydb,  258
-
-seq.
-plays  at  polo  with  Afrasiyab,
-
-264
-
-his  archery,  266,  293
-his  marriage  with  Jarira,  268
-
-seq.
-his  marriage  with  Farangis,
-
-270  seq.
-
-entertained  by  Piran,  278
-builds  cities,  278  seq.
-p.  396  note.
-
-2  E
-
-
-426
-
-
-INDEX
-
-
-Siyawush,  foretells  the  future  to
-
-Piran,  282  seq.
-entertains  Piran,  287
-entertains  Garsiwaz,  290  seq.
-plays  at  polo  with  Garsiwaz,
-
-292
-
-challenged  by  Garsiwaz,  294
-overthrows        Gurwi        and
-
-Ddmur,  295
-slandered    by    Garsiwaz    to
-
-Afrasiya"b,  296  seq.
-summoned      to      court     by
-
-Afrasiydb,  300  seq.
-betrayed  by  Garsiwaz,  301  seq.
-excuses  himself  from  going
-
-to  court,  306
-his  passion,  307  seq
-foretells  the  future  to  Far-
-
-angis,  310
-charges     and     turns     loose
-
-Bihzad,  312
-attacked     and     taken     by
-
-Afrdsiyjtb,  314
-his  execution,  320
-Blood  of  (plant),  321
-Siyawush,  wild  duck,  104  note
-Siyavakhsh  (Siyawush),  82
-Syavashana  (Siyawush),  189
-Siyawushgird,  city,  viii,  ix,  301,
-
-314,  373
-building  and  description  of,
-
-285  seq.
-becomes    the   home  of    Kai
-
-Khusrau,  333
-Sohrab    and   Rustum,    Matthew
-
-Arnold's,  118
-Soma,  8
-Song  of  a  div,  31
-
-of  Rustam,  51
-
-Sorceress,  Siidaba  and  a.  vii,  214
-Spendyad,  mountain,  118
-Spent6data,  mountain,  118
-Stages,the  Seven,  of  Asf  andiya"r,  29
-Stone,  the  Black,  163  and  note
-Strength,  handgrip  as  test  of,  64,
-
-66,67
-
-Sudaba,  daughter  of  the  king  of
-Hamavaran  and  wife  of  Kai
-
-
-Kaus,    vi,  vii,  ix,    79,   86
-
-seq.,  91,  1 88,  189,  200  seq.,
-
-22$,  249,  257,  335,  339
-description  of,  86
-marries  Kai  Kaus,  88
-imprisoned  with  him  by  her
-
-father,  91
-
-released  by  Rustam,  97
-her  temptation  of  Siydwush,
-
-200  seq.
-
-slain  by  Rustam,  340
-Sughd,  district  and  city  (Samar-
-kand), 230,  232,  237,  241,  249,
-358
-Suhra"b,     son    of    Rustam    and
-
-Tahmina,  vi,  vii,  25
-Story  of,  118  seq.
-
-purely  episodic,  118
-Prelude  to,  1 19
-Sir  John  Malcolm's  ver-
-sion of,  118
-
-Matthew   Arnold's   ver-
-sion of,  118
-his  lament    for  the  loss  of
-
-Gurdafrid,  119  note
-questions  his  mother  as  to
-
-his  father,  126
-his  charger  sired  by  Rakhsh,
-
-128
-Afrdsiyab's  plot  against,  129
-
-gifts  to,  130
-invades  Tran,  130
-takes  Hajir  prisoner,  131
-beguiled  by  Gurdafrid,  133
-described  by  Gazhdaham,  136
-sees  from  White  Castle  the
-
-Trdnian    host    advancing,
-
-148
-seen,     while     feasting,     by
-
-Rustam,  150
-hears  of  the  death  of  Zhanda
-
-Razm,  151
-
-misled  by  Hajir,  152  seq.
-overthrows   the   camp-enclo-
-sure of  Kaus,  1 60
-challenged  by  Rustam,  161
-his  account  of  Rustam,  154,
-
-169
-
-
-INDEX
-
-
-427
-
-
-Sulirdb,  his  advances  to  Rustam,
-
-169
-
-spares  Kustam's  life,  170
-again    encounters     Rustam,
-
-172
-makes     himself    known     to
-
-Rustam,  173
-his  last  requests  to  Rustam,
-
-175
-
-the  mourning  for,  182  seq.
-Surkha,  son  of  Afrdsiydb,  ix,  344
-
-seq.
-taken  prisoner  by  Fanimarz,
-
-345
-
-death  of,  347
-
-Sunish,  angel,  288,  289,  364,  408
-appears    to     Gudarz     in    a
-
-dream,  363
-Syria  (Sham),  So
-
-
-TABLE  of  Contents,  v
-Tables,  genealogical,  3,  4
-Tahmdsp,  n
-Tahmina,  mother  of  Suhntb,  vi,
-
-118
-her  precautions  for  her  son's
-
-safety,  127,  140,  149
-her   mourning    for    Suhntb,
-
-184  seq.
-her  death,  186
-Tahmuras,  Sha"h,  168
-Talikdn,  city,  228
-Tardz,  city  and  district,  123
-
-Idols  of,  123,  206
-Tihrdn,  city,  28
-Tirmid,  place    where  the  route
-
-from  Balkh  to  Samarkand
-
-crosses  the  Oxus  (Jihun),
-
-229,  258
-
-Tollman,  Giv  and  the,  x,  390
-Thrae"taona  (Faridun),  81
-Tur,  second  son  of  Faridun,  8,  1 7,
-
-19,  99,  237,  262,  297,  302,
-
-303,  318,  327,  363,  390
-Turan,  v,  ix,  9,  18,  25,  79,  82,  101,
-
-112,  and  passim
-
-
-Turdn,  king  of  Chin  and  (Afnt-
-siyab),  99
-
-host  of,  1 10
-Timlnians  (Turkmans),  the,  vi,  1 1,
-
-81,  265
-
-Turkestjtn,  19
-Turkmans   (Tuniuians),   the,   12,
-
-14,  15,  92,  100  and  passim
-Tus,  son  of  Naudar,  x,  33,  35,  38,
-58,  62,  70,  73,  85,  90,  91,
-127,  138,  142,  143,  148,  177,
-188,  193,  197,  199,  226,  257,
-3i6,  319,  335.  338,  340,  349,
-353/e?-,  37i,  383.  394
-
-appointed  captain  of  the  host,
-78
-
-taken  prisoner  in  Ha'ma'vanin,
-90
-
-released  by  Rustam,  97
-
-goes  in  search  of  Kai  Kdus,
-104
-
-engaged  in  the  Fight  of  the
-Seven  Warriors,  107  seq.
-
-commanded  by  KjCiis  to  hang
-Rustam  and  Giv,  143
-
-his    encampment  described,
-
-153  i
-
-summons    Rustam    to   fight
-
-Suhrab  and  helps  to  saddle
-
-Rakhsh,  160
-quarrels  with  Giv  over  the
-
-future  mother  of  Siydwush,
-
-194
-supersedes     Siydwush,     246
-
-seq.
-
-leads  the  host  home,  258
-intercedes  for  Surkha,  347
-is  worsted  in  fight  by  Afro"-
-
-siyftb,  353
-appointed    ruler    of    Chdch,
-
-358
-
-returns  to  fra"n,  362
-his  dispute  with  Gudarz  over
-
-Kai  Khusrau,  400  seq.
-advocates  the  claims  of  Fari-
-
-burz,  401
-
-asks  pardon  of  Khusrau,  410
-Tuwurg,  Turdniau  hero,  253
-
-
-428
-
-
-INDEX
-
-
-U
-
-
-I^LAD,  a  div,  v,  28,  52  seq.,  59,  61
-made  kino;  of  Mazandaran,  76
-Urmuzd,  the  Good  Principle,  82
-
-
-VEDAS,  8,  11,  25
-Venus,  planet,  115,  275,  345
-Verethraglma,  the  raven,  25
-Vritra,  demon,  25
-
-w
-
-WARAZAD,  king  of  Sipanjab,  ix,
-
-341  seq.,  346
-Warriors,  the  Seven,  Story  of  the
-
-Fight  of,  vi,  25,  82,  107  seq.
-White  Castle,  I'ranian  stronghold,
-vii,  118,  131,  138
-
-evacuated  by  Gazhdaham,  137
-
-Div.     See  Div
-
-Wisa,  Turanian  hero,  112,  354
-Witch,  v,  50
-
-
-YAMAN,  country  (Hamavaran),  So
-carnelians  of,  123
-Canopus  of,  203
-
-
-ZABUL,  Zabulistan,  country,1  vii,
-21,  28,  42,  61,  83,  92,  126,
-138,  141,  142,  156,  168,  227,
-228,  245,  260,  338,  362,  363
-vintage  of,  no
-Zahhak,  Shah,  33,  81,  318
-
-saying  of,  171  and  note
-Zainigau,  81
-
-
-Zainigav,  8 1
-
-Zal,  father  of  Rustam,  v,  n  seq.,
-
-18,    19,   21,    33   seq.,  49,   58,
-
-61,  62,  69,  77,  140,  168,  169,
-
-1 80,  182,  227,  228,  271,  286,
-
-290,  318,  319,  338,  362,  371
-
-Zam,  city  and  river,  97,  394,  395
-
-Zandavasta,   8,  25  seq.,  81,   118,
-
-189,  190
-Zanga,  Iranian  hero,  viii,  73,  90,
-
-228,  249,  271,318
-takes  part  in  the  Fight  of  the
-
-Seven  Warriors,  107  seq.
-accompanies      Siy4wush
-
-against  Afrdsiydb,  226
-sent  on  embassy  to  Afrasiydb,
-
-250  seq.
-
-Zarduhsht  (Zoroaster),  8,  9
-Zav,  Shah,  n,  36
-Zawdra,  brother  of  Rustam,  ix,
-
-96,  228,  347,  349
-engaged  in  the  Fight  of  the
-
-Seven  Warriors,  no  seq.
-made    leader    of    Rustam's
-
-host,  142
-left  in  charge  of  Rustam's
-
-host,  161
-goes  on  embassy  to  Human,
-
-176
-safe-conducts    Human    from
-
-Trail,  176,  181,  182
-incites    Rustam    to    avenge
-
-Siyawush,  360
-Zhanda  Razm,  maternal  uncle  of
-
-Suhrrib,  vii,  149  seq.,  160
-|   Zinigav,  81
-
-Zira,  Turanian  hero,  295,  314
-Zirih,  sea  or  lake,  80
-Zu'lfakar,  337  and  note
-
-
-See  vol.  i.  p.  396  note.
-
-
-END   OF   VOL.    II.
-
-
-Printed  by  BALLANTYNE,  HANSON  &•>  Co.
-Edinburgh  6r»  London
-
-
-403
-
-
-PLEASE  DO  NOT  REMOVE
-CARDS  OR  SLIPS  FROM  THIS  POCKET
-
-
-UNIVERSITY  OF  TORONTO  LIBRARY

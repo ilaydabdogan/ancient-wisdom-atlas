@@ -1,65 +1,3 @@
-# Hindu Philosophy: The Sankhya Karika of Iswara Krishna
-THE SANKHYA KARIKA OF
-ISWARA KRISHNA.
-
-
-An Lrposition of the System of Kapila.
-
-
-WITH
-
-
-AN APPENDIX ON THE NYAYA AND VAISESHIKA SYSTEMS.
-
-
-BY
-
-
-JOHN DAVIES, M.A. (Canvas),
-
-
-MEMBER OF THE ROYAL ASIATIC SOCIETY,
-
-
-LONDON:
-TRUBNER & CO, LUDGATE HILL
-1881,
-[All rights reserved.]
-
-
-) .__ ea
-
-
-bs
-ye
-
-
-= 2
--
-
-.
-
-—
-. a
-ia
-
-J
-
-<i
-
-
-See
-
-
-=
--
--
-
-
-REGIA
-MONACENSIS:
-
-
 PREFACE.
 
 
@@ -466,7 +404,7 @@ the real nature of Kapila’s system, which he admits, in
 his preface, he had not previously studied,
 
 
-- ae . % an _ <t \ fim |
+- ae . % an _ (t \ fim |
 = | aha bd fa ¥ : om
 a ee s a Ps
 
@@ -764,7 +702,7 @@ the same idea, “Consciousness and knowledge each
 involves the other.’* It is the same thing in another
 form, for cause and effect are identical according to
 Kapila, as water issuing from its source is still the same
-in reality though not in form. By <Ahainkara Kapila
+in reality though not in form. By (Ahainkara Kapila
 means a substance or ens connected with thought
 (Buddhi), in which consciousness inheres. It is nearly
 equivalent to the “mind-stuff” which the late Professor
@@ -6314,7 +6252,7 @@ cause pain, and this can be put away only when consciousness
 has ceased to exist. When the soul has gained a complete
 
 
-__<-eeiilee R A A ALAA AANA LCN ALLO, A OC CAO Cc
+__(-eeiilee R A A ALAA AANA LCN ALLO, A OC CAO Cc
 
 
 isolation, then all conscious life is absorbed into the unconscious Prakriti. Freedom from pain can only be obtained
@@ -6437,32 +6375,3 @@ life in its primal source. The oldest and the latest system of
 philosophy, though severed in time by more than two thousand years, speak with the same voice; but they give no hope
 to man, for his highest ambition or his only refuge from
 misery lies in his personality being destroyed for ever.
-
-
-THE END.
-
-
-PRINTED BY BALLANTYNE, HANSON AND CO.
-EDINBURGH AND LONDON,
-
-
-MY
-
-
-Yl
-
-
-Li
-
-
-VY
-
-
-\ \
-WEN
-\ \
-
-
-YY
-
-

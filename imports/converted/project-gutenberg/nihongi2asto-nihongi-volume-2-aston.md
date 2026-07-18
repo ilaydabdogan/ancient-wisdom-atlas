@@ -1,48 +1,3 @@
-# Nihongi: Chronicles of Japan from the Earliest Times to A.D. 697, Volume 2
-TRANSACTIONS AND PROCEEDINGS
-
-
-OF
-
-
-THE JAPAN SOCIETY, LONDON.
-
-
-SUPPLEMENT I.
-
-
-Chronicles of Japan from the Earliest Times to A.D. 697.
-
-
-TRANSLATED FROM THE ORIGINAL CHINESE AND JAPANESE
-BY
-
-
-Wi. Gy ASTON, C.MAG.,
-Honorary Member of the Fapan Society, Fe.
-
-
-VOLUME II,
-
-Freer Gallery of Att
-
-Washington, D. C.
-LONDON, 1896.
-
-PUBLISHED FOR THE SOCIETY BY
-KEGAN PAUL, TRENCH, TRUBNER & CO., LIMITED,
-PATERNOSTER HOUSE, CHARING CROSS ROAD, W.C.
-[All Rights Reserved.|
-
-
-i
-eos Eohiths
-Ee ig
-
-
-wi
-
-
 CONTENTS
 
 
@@ -225,7 +180,7 @@ On this day he assumed the Imperial dignity. Ohotomo,
 
 
 1 The Imperial position.
-> Was this Signet the Signet given the Japanese Emperor by China
+) Was this Signet the Signet given the Japanese Emperor by China
 ‘(“ Early Japanese History,” p. 70)? Or is it merely a Chinese expression
 -for the gem “E, which was one of the three regalia?
 B 2
@@ -488,7 +443,7 @@ dissatisfied, and endeavoured to have it altered, saying :—
 ' The meaning is that Pékché will be better able to prevent these provinces from falling into the hands of Silla than Japan. All Imna was
 conquered by Silla in A.D. 562. See below, XIX. 51.
 
-> See above, Vol. I. pp. 233-235, and “ Satow’s Handbook,” p. 192.
+) See above, Vol. I. pp. 233-235, and “ Satow’s Handbook,” p. 192.
 
 % The word used does not mean a reigning Empress. 4 Miyake.
 
@@ -541,7 +496,7 @@ I-mun, as the inhabitants were in constant strife with Silla. I-mun was a
 district on the north-east frontier of Imna.
 
 
-> The “ Tongkam” says nothing of this.
+) The “ Tongkam” says nothing of this.
 6 i.e. without a middle-man. She was Ninken’s daughter.
 
 
@@ -606,7 +561,7 @@ was used for that purpose.
 
 4 Lit. younger sister, which was used much like our “ my dear.”
 
-> The interpretation of this line is very doubtful.  -
+) The interpretation of this line is very doubtful.  -
 
 
 KEIDAT. - 11
@@ -789,7 +744,7 @@ rendered “our father.”
 sf tr. See below, XVII. 18, where EF) # (Kwithan) is probably this
 place, one of the two being a mistake.
 
-4 i.e. the father.” > Sand-island.
+4 i.e. the father.” ) Sand-island.
 
 
 A.D. 515.
@@ -849,7 +804,7 @@ or Officials of the former division,
 ‘4 Probably the person called Cheung ni above, XVII. 11, the difference
 being owing to a copyist’s error.
 
-®> The Chinese dynasty of that name. It seems here to form part of the
+®) The Chinese dynasty of that name. It seems here to form part of the
 name. Ff
 , * See above XV, 12. 7 In Yamashiro.
 
@@ -1173,7 +1128,7 @@ Hereupon Kena no Omi lodged at Kumanare’ [one book
 not that of the King of Kara at this time. He may have been only a
 prince.
 
-°> Or Eung-chén, i.e. Bear-river. See Vol. I. pp. 232; 368.
+°) Or Eung-chén, i.e. Bear-river. See Vol. I. pp. 232; 368.
 
 CZ
 
@@ -1275,7 +1230,7 @@ called a King =E, and the other an Emperor We.
 
 4 Michi means “ path,” “moral principle.” Vzde Vol. I. p. 117.
 
-> Or Yamato.
+) Or Yamato.
 
 $ i.e. Sujin Tenn, says the “ Tsu-sho” commentary.
 
@@ -1328,7 +1283,7 @@ to the capital before carrying out the Imperial instructions, his.
 toil of travel would come to nothing. How should he get over
 
 
-' The progeny of mixed unions. > i.e. Corean or Kara children.
+' The progeny of mixed unions. ) i.e. Corean or Kara children.
 
 
 os
@@ -1375,7 +1330,7 @@ Winter, roth month. Mitsugi no Kishi arrived from Imna
 
 1 Mitsugi means tribute or taxes. Kishi is a title, originally Corean.
 
-? Mitsugi no Kishi’s. > The Arisdteung.
+? Mitsugi no Kishi’s. ) The Arisdteung.
 
 + Perhaps the last three syllables are meant for the Corean word Ko-eul,
 a district, the Japanese kéri. The first syllable Ung means bear.
@@ -1455,7 +1410,7 @@ there is an allusion to the adjective Medzurashiki, “strange, rare.” The
 song expresses the satisfaction of the people of Kena no Omi’s household in
 having Medzurako set over them instead of their own master.
 
-> The “ Kojiki” has forty-three, no doubt wrongly.
+) The “ Kojiki” has forty-three, no doubt wrongly.
 
 
 OOO ea a aalllllil
@@ -1484,7 +1439,7 @@ which is correct.” ?
 ‘ In Settsu. This misasagi is visible from the railway, on the left as one
 goes from Osaka to Kioto.
 
-> The uncertainty about this date shows how imperfect the chronological
+) The uncertainty about this date shows how imperfect the chronological
 xecords must have been even at this late period.
 
 There is this difficulty about making Keidai die in the 28th year of his
@@ -1554,7 +1509,7 @@ not easy to understand and appreciate.
 * The 25th year of Keidai’s reign is A.D. 531. Ankan succeeds him at
 once, yet his Ist year is A.D. 534. See above, p. 25.
 
-> i.e. the Kanahashi Palace. 6 Ninken Tenn,
+) i.e. the Kanahashi Palace. 6 Ninken Tenn,
 
 7 This was only a formal installation. The real marriage took place in the
 7th year of Keidai’s reign.
@@ -1590,13 +1545,13 @@ province of Kadzusa.
 1 Kashihade no Omi means “steward minister,” so that here the name
 and the office coincided, as they frequently did at this time.
 
-> In Kadzusa.
+) In Kadzusa.
 
 3 i.e. the Empresses’ apartments.
 
 * Without warning or introduction.
 
-®> The Miyake are frequently mentioned below. The word is defined in
+®) The Miyake are frequently mentioned below. The word is defined in
 Yamada’s Dictionary as follows ;—‘‘ Mi means august; yake, house. . The
 Miyake were granaries, in which was stored the rice which the peasants
 were made to cultivate on lands belonging to the government in the various
@@ -1718,7 +1673,7 @@ of the land, pervading everywhere without a limit. Above they
 XVIII. 5.
 
 
-NOVELL: <6.
+NOVELL: (6.
 
 
 were the crown of the nine heavens: they passed abroad
@@ -1877,7 +1832,7 @@ thieves.”
 4 In 717 A.D. an order was given to discontinue the cattle-breeding establishments of Ohosumi-jima and Hime-jima, and to allow the peasantry to
 till the land.
 
-> Or Kanzaki.
+) Or Kanzaki.
 
 
 se
@@ -1929,7 +1884,7 @@ hime, and the next the Imperial Prince Kamu-uye-ha [other-
 
 2 Senkwa means “ diffuse-civilization.” 3 The Regalia.
 
-4 In Yamato. > i.e, not a concubine 6 Stone-princess.
+4 In Yamato. ) i.e, not a concubine 6 Stone-princess.
 
 * Little-stone-princess.
 
@@ -2072,7 +2027,7 @@ rinsed his mouth and hands, made prayer to them, saying :—
 
 1 Heaven-land push-open wide-court.
 
-> Kimmei. Legge renders this by “reverential, intelligent.” Vide
+) Kimmei. Legge renders this by “reverential, intelligent.” Vide
 “ Shooking,” p. 15.
 
 * “ No true wolf exists in Japan, but Canis hodophylax is a sort of lame
@@ -2136,7 +2091,7 @@ XTX 2;
 A.D. 540.
 
 
-> Dele
+) Dele
 
 
 hiraki hiro-niha assumed the Imperial Dignity. The Empress:
@@ -3620,7 +3575,7 @@ flags and umbrellas, and a number.of volumes of “ Sutras.”
 
 ' The present capital, commonly called Séul. This expedition is mentioned in the “ Tongkam.”
 
-> Phyéng-yang was the capital of Koryé.
+) Phyéng-yang was the capital of Koryé.
 
 * Apparently a Japanese. The Interlinear Kana has Ashihita.
 
@@ -4259,7 +4214,7 @@ said :—‘ If after humble prayer to the Deity, the founder of the
 
 1 By the former astronomy is meant; under the latter is included
 geomancy and physical geography.
-*Vuniaku Penne, See Vol. lpi 353 > Hafuri.
+*Vuniaku Penne, See Vol. lpi 353 ) Hafuri.
 
 
 ————
@@ -4755,7 +4710,7 @@ The use of the word bite for kiss by the Chinese suggests that the kiss
 may be a modification of a playful bite, just as the smile may have had
 its origin in a sportive showing of the canine teeth. See Darwin’s “ Expression of the Emotions,” p. 255.
 
-> The name of a plant.
+) The name of a plant.
 
 ’ Another rendering is: “ In grief for her, they (i.e. the generals) made a
 
@@ -5309,7 +5264,7 @@ Prince Ohowake.
 The Interpreter’s field.
 
 
-> Afterwards the reigning Empress Suiko Tenno.
+) Afterwards the reigning Empress Suiko Tenno.
 3 Her half-brother. 4 Jomei Tenno.
 
 
@@ -5485,7 +5440,7 @@ Emperor’s aim in governing the Empire is to ensure the
 
 1 3rd rank, 2 4th rank, 3 A general term for high officials.
 + Leading to the Hall of Audience.
-- > Senkwa Tenno. 6 Archér,
+- ) Senkwa Tenno. 6 Archér,
 
 
 7 The executioners.
@@ -5498,7 +5453,7 @@ protection and nourishment of the people. Why should he
 hastily stir up warfare which will redound to their destruction ?
 Therefore now having made all, from his counsellors, viz. the
 Omi, Muraji, and Miyakko of both kinds [the Kuni no Miyakko
-and the Tomo no Miyakko], whose duty it is to serve the >
+and the Tomo no Miyakko], whose duty it is to serve the )
 Court, down to the people, without exception, to enjoy
 prosperity, let him cause them to want for nothing. When
 this has been continued for three years, when food has
@@ -5919,7 +5874,7 @@ of Buddhism in Japan.
 
 ° The Upper Palace. 6 i.e. the Heir Apparent’s quarters.
 
-7 Or Mata. >
+7 Or Mata. )
 
 8 The Empress Dowager. The motive was probably not lust, but ambition.
 Compare the similar case of Jimmu Tenn0’s widow.
@@ -6351,13 +6306,13 @@ to present Chinese reckoning, is equal to 15.13 acres. Vide Giles.
 
 4 Near Nara. It is no longer in existence.
 
-> Of the Ohomuraji.
+) Of the Ohomuraji.
 
 
 ees
 
 
->.O-6 a ae
+).O-6 a ae
 
 
 BNeXT. B12)
@@ -6654,7 +6609,7 @@ of consulting Dr. Florenz’s German translation.
 
 princess.
 5 Suiko means “to reason from antiquity.”
-* Literally middle. > Kimmei. 6 YOmei. * Bidatsu.
+* Literally middle. ) Kimmei. 6 YOmei. * Bidatsu.
 
 
 8 Sujun. ® In Yamato.
@@ -6713,7 +6668,7 @@ article by Miss Gordon Cumming in the “ English Illustrated Magazine.”
 4 i.e. the Chinese Classics. Inner and Outer have here something of the
 force of our words sacred and secular.
 
-> The Corean pronunciation.
+) The Corean pronunciation.
 
 
 SUIKO. 123
@@ -6904,7 +6859,7 @@ and was granted the various Be of the service of the Gods,’
 
 ? Near where the Temple of Horiuji now stands. 3 Or Kuhi.
 
-* Literally sent as tribute. °> Kodzuke.
+* Literally sent as tribute. °) Kodzuke.
 
 6 If Kume is ‘fi, war, as is probable, there is an obvious propriety in this
 appointment.
@@ -7384,7 +7339,7 @@ copper and gold in the proportion of 23,000 kin (pounds) of the former to
 A.D. 605.
 
 
->On
+)On
 
 
 A.D. 606.
@@ -8105,7 +8060,7 @@ VOI, ET; ts
 A.D. 616,
 
 
->. EG Sey,
+). EG Sey,
 
 
 ADs OL7s
@@ -8243,7 +8198,7 @@ A.D. 620.”
 A.D. Oote
 
 
->, OI ee
+), OI ee
 
 
 was charged to erect a great pillar’ on the top of the hill of
@@ -9000,7 +8955,7 @@ thee: if others are right and thou art wrong, I shall in that
 
 
 1 Kimmei Tenno. 2 That is, the succession to the throne.
-> The same as Sakahibe no Omi.
+) The same as Sakahibe no Omi.
 
 
 OMEI. 1623
@@ -10385,7 +10340,7 @@ eight feet in length, separated as to the lower part, but joined
 together as to the end.
 
 
-iit a réd heart: 2 Net-ricefield. > Puppy-keeper.
+iit a réd heart: 2 Net-ricefield. ) Puppy-keeper.
 
 4 The cho is at present, according to Hepburn, a land measure of 3000
 tsubos, or 108,000 square feet.
@@ -10638,7 +10593,7 @@ suggests. Possibly the guard here spoken of consisted of Ainos. ’
 
 2 Noble houses. 3 Of the father and son.
 
-4 The Sun-goddess. > Acupuncture is no doubt meant.
+4 The Sun-goddess. ) Acupuncture is no doubt meant.
 
 
 KOGYOKU. I9l
@@ -11031,7 +10986,7 @@ Chinese chronological device. [Vzde Introduction to “ Satow’s Chronological
 Tables.” Daikwa means great civilization or development. Asa matter
 of fact very revolutionary changes took place in this reign.
 
-3 Jomei Tenno. * Minister of the Left. > Doubtless Osaka.
+3 Jomei Tenno. * Minister of the Left. ) Doubtless Osaka.
 
 6 A polite term for kings.
 
@@ -11482,7 +11437,7 @@ Bell-token.
 
 he See-above, Viol. I. ps 192: 2 Chief men of villages.
 
-> Of serfs. 4 Instead of the serfs taken from them.
+) Of serfs. 4 Instead of the serfs taken from them.
 
 ® The “ Roku-rei” gives a scale of sustenance-fiefs at a later period. A
 Prime Minister had 3000 houses, a Junior Prime Minister 2000, a Dainagon
@@ -11625,7 +11580,7 @@ inclined to think that the Chinese word ¢az is here intended.
 previous paragraph. It would then apply to the appointment of rural
 aldermen. The old reading is better.
 
-> The “Shikai” adds i, or cloth, by which is meant fabrics of hemp or
+) The “Shikai” adds i, or cloth, by which is meant fabrics of hemp or
 of the fibre of the inner bark of the paper mulberry. Textiles served the
 purpose of currency in this period, so that this commutation was in the nature
 of a substitution of payment in money for payment in rice.
@@ -11676,12 +11631,12 @@ One book says :—‘“‘ The Miyake of Koshiro, in the village
 ‘ There are two tan to the hiki or piece, which now measures about
 213 yards.
 
-> The Chinese is #4, rendered in Japanese by mitsugi, or tribute. Here
+) The Chinese is #4, rendered in Japanese by mitsugi, or tribute. Here
 it seems to exclude the rice-tax, but to include various miscellaneous taxes.
 
 * Or “salted articles of food for the Emperotr’s table.”
 
-* Or shO = 109 cubic inches. > Uneme.
+* Or shO = 109 cubic inches. ) Uneme.
 
 ° For an account of the modern system of taxation in Japan the reader is
 referred to a paper in the “T.A.S.J.,” Vol. XX., Supplement, p. 121.
@@ -12568,7 +12523,7 @@ rank, second or third at least.
 
 * Chosht. The reference is to the Chishiishi named above, XXV. 23.
 
-> See above, XXV. 17. 5 Of other things than rice.
+) See above, XXV. 17. 5 Of other things than rice.
 
 VOL. Ti, Q
 
@@ -12758,7 +12713,7 @@ as impracticable.
 4 i.e. woven-cap. No doubt some special fabric is meant, which it is now
 difficult to identify.
 
-*> Embroidered cap.
+*) Embroidered cap.
 
 
 embroidered stuff. The border of the cap and the colour of
@@ -12811,7 +12766,7 @@ these nations cannot distinguish between green and blue. I have seen a
 dyer’s sample book which contained numerous shades of both, each with an
 appropriate name.
 
-> Black-cap. 6 Especially grass-green.
+) Black-cap. 6 Especially grass-green.
 
 7 Kembu means “ to establish valour.”
 
@@ -12882,7 +12837,7 @@ now known as bon. Vzde Eitel’s “ Handbook”—article Ullambana, also
 4 See below, XXV. 41, where, however, no middle Shdsen rank is
 mentioned, only upper and lower.
 
-> He is mentioned in the “ Tongkam.”
+) He is mentioned in the “ Tongkam.”
 
 ° In Echigo, as a defence against the Yemishi or Ainos.
 
@@ -13224,7 +13179,7 @@ This year, the Queen of Silla sent Kim Ta-sya, Sa-son of
 Sa-tok-pu, as hostage. He had a suite of thirty persons.
 
 One Buddhist priest, two Si-rang,® one Assistant, one
-Usher, five Chung-keék,* ten Artists,> one Interpreter,
+Usher, five Chung-keék,* ten Artists,) one Interpreter,
 and sixteen servants of various kinds—in all thirty-seven
 persons.
 
@@ -13268,7 +13223,7 @@ the performance of the harahi or purification ceremonies.
 
 4 op xe literally middle guests, officials of middle rank.
 
-> Including skilled artisans.
+) Including skilled artisans.
 
 ° i.e. “white pheasant.” The reason for this name of the year-period
 appears below.
@@ -13423,7 +13378,7 @@ absurd.
 4 The dragon-horse has wings on its head. It crosses water without
 sinking. It appears when an illustrious sovereign is on the throne.
 
-> Kirin. § White pheasant.
+) Kirin. § White pheasant.
 
 
 XXV. 50.
@@ -13807,7 +13762,7 @@ colleagues, who had gone as Envoys to the Western Sea,’
 
 Spelt with a different Chinese character to the other.
 
-3 A.D. 690. 4 A.D. 665. ®> Presumably a Chinese.
+3 A.D. 690. 4 A.D. 665. ®) Presumably a Chinese.
 
 ° A Japanese who had taken a Chinese name.
 
@@ -14584,7 +14539,7 @@ his travels in Thibet, and during Lord Dufferin’s viceroyalty of India, Lady
 Dufferin was on one occasion “‘circumambulated” by some tribesmen as a
 mark of the very highest respect.
 
-. > Le. an omen.
+. ) Le. an omen.
 
 * a.D. 660. Under this year, the “Tongkam” has the following :—-“ The
 wells in the Royal capital of Pékché turned red as blood, multitudes of fish
@@ -14815,7 +14770,7 @@ Itsuku-shima, the sacred island in the Inland Sea, near Hiroshima,
 
 4 A shiguma skin. See above, XXVI. Io.
 
-> Obviously a Japanese name. 6 Perhaps the Ishikari river.
+) Obviously a Japanese name. 6 Perhaps the Ishikari river.
 
 
 A.D. 660.
@@ -15446,7 +15401,7 @@ became changed and formed a hole, from which there issued a
 
 
 | The two forts above mentioned.
-> i.e. helpless disgrace. To bite one’s navel is impossible.
+) i.e. helpless disgrace. To bite one’s navel is impossible.
 * King of Silla. 4 All this is most unclear.
 
 
@@ -15837,7 +15792,7 @@ and this Empress was really Tenchi’s grandmother, but as this term is used
 elsewhere simply as an honorary appellation, I prefer to render it by
 Empress Dowager.
 
-®> Viz. Kamatari Ko.
+®) Viz. Kamatari Ko.
 
 5 This is the same date as the last. There is something wrong here.
 
@@ -16026,9 +15981,9 @@ a lesson for all time.”
 3rd month, r9th day. The capital was removed to Afumi.
 
 
-1 An official rank. > i.e. of priests and laymen. 7 A.D, 663.
+1 An official rank. ) i.e. of priests and laymen. 7 A.D, 663.
 4 A compass, See above, XXVI. Io. ra
-> Saimei Tenno. .  § Kotoku Tenno’s Consort.
+) Saimei Tenno. .  § Kotoku Tenno’s Consort.
 
 
 Several of the misasagi have just outside the moat circular mounds of
@@ -16290,7 +16245,7 @@ province of Koshi.
 
 3 The shore of Lake Biwa. * An official rank,
 
-> His name was Li Tsi. See Mayers, p. 124.
+) His name was Li Tsi. See Mayers, p. 124.
 
 VOR, if. U
 
@@ -16417,7 +16372,7 @@ spoken of by this term.
 
 * Or Daijin.
 
-> Fujihara is a town in Yamato, in the district of Takechi. The name
+) Fujihara is a town in Yamato, in the district of Takechi. The name
 is a very famous one in subsequent Japanese History, This statesman is
 better known as Kamatari Ko. See above.
 
@@ -16589,7 +16544,7 @@ rank, made an announcement of Kami matters.*
 
 On this day the Imperial Prince Ohotomo was appointed
 Dajodaijin,* Soga no Akaye no Omi was made Prime Minister
-of the Left :> Nakatomi no Kane no Muraji was made Prime
+of the Left :) Nakatomi no Kane no Muraji was made Prime
 Minister of the Right.° Soga no Hatayasu no Omi, Kose no
 Hito no Omi, and Ki no Ushi no Omi were made Daibu of
 the Censorate.’
@@ -16843,7 +16798,7 @@ certain ruin,” etc., etc.®
 
 1 Dazaifu. 2 Called Dobun below. One of these readings is an error.
 3 Not to be identified.
-4 i.e. in Japan. > Traiyastrims’as. V7de Eitel, p. 178.
+4 i.e. in Japan. ) Traiyastrims’as. V7de Eitel, p. 178.
 
 
 6 There is here a curious mixture of Brahmanism, Buddhism, and
@@ -18819,7 +18774,7 @@ _ to the Kami. This ceremony was more particularly associatedjwith certain
 
 deities, which were therefore termed the Ahimbe deities.
 2 To ask advice on matters of government (?).
-*Manehus, + 4 See above, XXIX. 15. > Name of office.
+*Manehus, + 4 See above, XXIX. 15. ) Name of office.
 
 
 A.D. 677.
@@ -19044,7 +18999,7 @@ history. Kanro, or sweet-dew, is the Chinese translation of the Sanskrit
 Amrita, the ambrosial food of the Immortals. 3 Ho-kwan, 2; B.
 4 Benkwan. The executive department of the supreme Council of State
 or Dajokwan. Hepburn.
-> Atori in Japanese. “Fringilla Montifringilla. Large flocks of this bird
+) Atori in Japanese. “Fringilla Montifringilla. Large flocks of this bird
 are found in winter near Yokohama. It is the same as the European
 species.”—Blakiston and Pryer in “T.A.S.J.”
 Le
@@ -19158,7 +19113,7 @@ the case of men of the 6th or lower ranks.
 5 In Yamato. 6 Saimei Tenno.
 
 
-34> NIHONGI.
+34) NIHONGI.
 
 
 saying :—‘‘ We wish to-day to unite with you in making a vow
@@ -19735,7 +19690,7 @@ Tatsuta.
 worship paid to the Emperors. Or perhaps with Florenz we should understand by grandfather ancestors generally. The original does not indicate
 number.
 
-> Female. * i.e. families.
+) Female. * i.e. families.
 
 
 30th day. Orders were given to the whole Empire to hold
@@ -20193,7 +20148,7 @@ Summer, 4th month, 15th day. The Emperor made a decree,
 Vol. I]. 153. The latter, which Hepburn translates ‘‘doctor of laws,” was
 now created for the first time.
 
-> Tanegashima.
+) Tanegashima.
 
 
 saying :—‘‘ Henceforth copper coins must be used, and not
@@ -22291,7 +22246,7 @@ their respects at Court with the same state as at the New
 Year’s audience.
 
 Tajihi no Shima no Mabito and Fuse no Renan no beret
-presented their congratulations to the Empress on n her < accession
+presented their congratulations to the Empress on n her ( accession
 to the throne.
 
 3rd day. A banquet was given to the Ministers i in the i inner
@@ -24009,3044 +23964,3 @@ the application of this Indian practice to a Japanese sovereign.
 
 
 THE END.
-
-
-Oe a2
-
-
-ERRATA ET ADDENDA.
-
-
-VOL, J.
-
-
-Page 2, line 3. For ‘drawn out’ read ‘ diffused,’
-
-
-”
-
-
-4. The character !{ is sometimes transliterated no and sometimes
-nu—a confusion common with the Japanese themselves.
-
-5, 1.15. For ‘it had’ read ‘which has.’
-
-6, note 2. For Oho-to nochi Florenz plausibly suggests Oho-tono-ji,
-i.e. ‘the elder of the august palace.’
-
-note 3. Omotaru. Better ‘ face-perfect.’
-
-note 3. Florenz suggests with great probability that awo is here
-only an interjection like aya.
-
-last line of notes. For ‘ Jirja’ read ‘Jinja.’
-
-8, line 14 from bottom. For ‘ place’ better ‘ female.’
-
-9,1. 11. For ‘game’ read ‘ gane.’
-
-1o, note. For ‘ first jewel’ read ‘lucky jewel.’
-
-14, 1.14. For ‘ Chi-iwo-aki’ read ‘ Chi-i-ho-aki,’
-
-near bottom. For ‘has a place,’ etc., read ‘is completely formed
-and has a place called.’
-
-15, near bottom. Read ‘To think of the words of the woman having
-been spoken first !’
-
-18, near bottom of text. For ‘ladder’ read ‘ pillar.’
-
-23, 1. 15, 18. For ‘suchi’ read ‘ dzuchi.’
-
-l.29. Omit ‘no Kami’ after ‘ Kura 0 Kami?’
-note 4. Read ‘in error for yase, having many reaches.’
-
-24,1.7. For ‘ Izanami’ read ‘ Izanagi,’
-
-26, 1. 3 from bottom. For ‘I will wash’ read ‘ So he washed,’
-
-27,1.14. For ‘Soko’ read ‘ Uha.’
-
-31, note 7. Na is here probably for no, the genitive particle.
-
-40, line 5 from bottom. For ‘when the seed,’ etc., read ‘in spring
-sowed seed over again, and broke down,’ etc.
-
-42, add to note 2 :—‘ Here and at p. 186 the Eternal Land is probably
-the continent of Asia. The cock is called Kuda-kake in the “ Ise-
-Monogatari” (Mabuchi’s Edition II. 44), where Mabuchi explains
-Kuda as put for Kudara, the name of a Corean kingdom,’
-
-47, 1.24. For ‘drew herself up,’ etc., read ‘felt ill all over.’
-
-near bottom, add note :—‘ This is the literal translation, but, as we
-learn from the “ Shiki,” the ‘‘ combs ” here mentioned were really
-
-
-ErrATA ET ADDENDA.
-
-
-Sakaki branches stuck in the ground with tree-fibre hung from
-them as offerings.’
-
-
-Page 48, 1. 12, 13. For ‘he’ read ‘were.’ _
-
-
-49, 1. 12. For ‘ Ono-kori-dome’ read ‘ Ishi-kori-dome.’
-
-51, 1.16 and 21. Transpose ‘ right’ and ‘left’ in these lines.
-
-55,1. 10, 14. For ‘ Mitsu’ read ‘ Mi.’
-
-1. 13. After ‘yashima’ add ‘de,’ and at the end of note 5 the
-word ‘ hand.’
-
-56, 1. 20. : For ‘ Ina’ read ‘ Ma.’
-
-57, 1. 18 et seqq. For ‘Iso’ read ‘I.’
-
-60, 1. 4. Read ‘can we say,’ etc.
-
-64, 1. 8. For ‘hoho ninigi’ read ‘ho no ninigi.’
-
-66, 1. 16. ‘The sparrows,’ etc., should not be indented.
-
-675): 64 Omit,‘ parents,’
-
-l.9. Better ‘abhor mistaking.’
-69, note 5. Mars and Jupiter are also mentioned.
-71,1.4. Read ‘Oho-yama tsu mi no Kami.’
-
-note 4. After ‘muro’ insert ‘except in composition.’
-
-72, add to note :—‘ Blackmore, in “ Lorna Doone,” mentions a practice
-in the West of England “ of keeping all rooms underground. We
-say that thus we keep them warmer, both for cattle and men in
-the time of winter, and cooler in the summer time.”’
-
-74, 1.22. Read ‘ the coffined corpse.’
-
-81, 1. 13. For ‘loyal behaviour’ read ‘ extreme loyalty.’
-
-1. 6 from bottom. Before ‘Ma-hitotsu’ insert ‘Ame no,’
-
-83, 1. 11. After ‘attendance’ add ‘in the hall.’
-
-85,1. 10. Read ‘ Now I suspect that it is not my child.’
-
-89, 1. 23. Read ‘Chichi hime no Mikoto, daughter of Honohata hime,
-daughter of,’ etc.
-
-1. 6 from bottom. Add ‘Ama no’ before ‘ Kaguyama.’
-last line but one et seqq. For ‘she’ read ‘he.’
-
-gi, l. 19. Read ‘Tama-yori hime no Mikoto, child of Yorodzu hata
-hime, child of Taka mimusubi no Mikoto.’
-
-1]. 24. Read ‘ Kachi-haya-bi.’
-1. 26. Add ‘ Hono’ before ‘ Ninigi,’
-
-93,1. 1. Before ‘ Hoho-demi’ add ‘ Hiko,’
-
-95, 1. 4 from bottom. After ‘acquired’ insert ‘a sea-gift while the
-younger brother Hiko-hoho-demi no Mikoto had acquired.’
-
-
-96, margin. - For ‘ 32’ read ‘ 37.’
-
-
-1. 3. Omit ‘ Cassia.’
-
-97, 1.7. Filth of earth, The human body is meant. A Buddhist
-idea.
-
-100, note. There are earlier mentions of the Hayato, but their institution as an Imperial guard probably belongs to the latter end of
-the seventh century. There’are numerous indications that this
-legend is of recent date.
-
-KO3s 13.56,, » Fora’ read Tow
-
-
-a
-
-
-ERRATA ET ADDENDA. 427
-
-
-Page 104, 1.18. For ‘bathing women’ read ‘ warm-drink-women,’ and for
-
-
-‘washerwoman’ read ‘ bathing-woman.’
-106, 1. 8. After ‘dais’ add ‘ and invited him to come in.’
-107, 1. 3. For ‘teach it to me’ read ‘save me therewith.’
-tog. After the Chinese characters insert ‘or Tenno.’
-110, |. 12. For ‘pointing to’ read ‘including all.’
-add to note :—‘ The legend related at p. 128 is an additional indication of an earlier settlement of Yamato by emigrants from the
-West. The “ Kiujiki” states that Nigi-hayahi descended from
-Heaven in Kahachi, and subsequently removed to Yamato.’
-111, line 2 from bottom. Read ‘and causing him to take it, pulled
-him,’ etc.
-1. 21. Read ‘ships and oars’ instead of ‘ helms of his ships.’
-1.6. For‘ Kafuchi’ here and elsewhere read ‘ Kahachi.’
-113, l. 11. After ‘Ikoma’ read ‘and in this way to enter,’ etc.
-115,1. 7. For ‘chastise’ read ‘reduce.’
-1.8. For ‘I can’ read ‘and,’ and omit ‘upon which’ in next line.
-1. 8 from bottom. Read ‘the Emperor’s army.’
-1. 4 from bottom. For ‘wandered about’ read ‘were stayed and
-knew not whither,’ etc.
-116, 1.9. After ‘body’ insert ‘ opened out a way across the mountains
-and.’
-1208 ].2.0 Ror “they dead “he?
-last line. No ko, ‘the child of,’ should be taken as part of the
-name, viz. Iha-oshi wake no ko. Similarly Nihe-motsu no ko a
-few lines further down.
-119, 1.12. By ‘force of men,’ ‘army of women,’ is probably intended
-only virile or strong troops and effeminate or weak troops.
-120, 1.18. After grass add ‘rain coat and.’
-1.24. Read ‘whether or not I shall be successful in founding the
-
-
-Empire.’ :
-
-121, 1. 19. Read after ‘river’ ‘Their mouths turned downward and
-after,’ etc.
-
-122. Inthe poetry repeat the line ‘Like the Shitadami’ after ‘my
-boys.’
-
-
-123. In the poetry add after ‘ stay ’—
-
-
-‘Though men in plenty
-Coming enter and stay.’
-
-
-1. 13. Read ‘I will stand up and sing.’
-
-The same correction in |. 16.
-124. Transpose the two poems on this page.
-
-1. 2 from bottom. Read ‘ten and more.’
-125, 1.20. Add ‘thus’ before ‘ cried.’
-126, 1.15. Better ‘were not without weariness ’—
-
-After first line of poetry insert the line, ‘ With shields in a row.’
-127. Transpose the poems.
-
-
-Page 129, 1.4. For ‘Tada’ read ‘ Hata.’ af
-1.5. The Japanese have indifferently hafuri or hofuri. Hafuri is
-the proper spelling, hofuri being meant to represent the contracted
-
-form hori.
-
-» 130,1.9. After ‘ Katsuraki’ read ‘ Now the ancient name of the land of
-Ihare was Kataru or Katatachi.’
-
-» 131,note 6. For ‘evergreen’ read ‘ deciduous.’
-
-» 133,16. Better read ‘to use allusive verses and topsy-turvy words
-SO as,’ etc.
-
-» 134,1.6. For ‘ Katsurano’ read ‘ Kadono.’
-
-» 138, 1.2. Omit ‘ Hohodemi.’
-
-1. 3. Add ‘hime ’ after ‘ Isuzu.’
-], 10. For ‘Kama’ read ‘ Kami.’
-» 142,1.9. Before ‘ daughter’ insert ‘ Howi-hime.’
-» 148, 1.6. After ‘Emperor’s’ insert ‘ younger.’
-l. 10. After ‘Awotama’ insert ‘ Kake.’
-l. 11. After ‘yasu’ add ‘ hiko.’
-1. 6 from bottom. ‘Ancestor of the Hodzumi no Omi’ should come
-in at the end of the sentence.
-
-» 50,1. 8. For ‘of wide culture’ read ‘ broad-minded,’
-
-1. 5 from bottom. Read ‘ daughter of the Tohe of Araka (or Arakaha) in the land of Ki?’
-
-1. 4from bottom. Add after ‘had’ ‘ Toyo-ki-iri-hiko.’ Omit period
-after ‘ Oho-ama.’
-
-» 152,1.6 from bottom. Read ‘Is not this non-acceptance cruel ?’
-
-» 153, 1. 4 from bottom. Add after ‘Shiko-wo’ ‘the ancestor of the
-Mononobe no Muraji.’
-
-» 161,1.2. Read ‘ Families were well supplied.’
-
-» 164, note 2. Read ‘in Japanese Keirin.’
-
-» 168. Read ‘ Judging from the implements which this ox is carrying,
-he is surely intended to be killed and eaten.’
-
-+». a72,k 2. For ‘slay? tread “attack?
-
-» 178,1.9. After ‘land’ read ‘and that I should personally conduct the
-government of the great earth. The covenant was already ~
-completed. But although,’ etc.
-
-1,22. For ‘ Kuka’ read ‘ Fukayu.”
-» 181, last two lines. Read ‘If I am to be united to this beautiful person
-I shall surely see a happy omen on the way.’,
-
-182, last line. Read ‘Then he said to the courtiers.’
-
-» 183,1.5. After ‘Tohe’ insert ‘of Yamashiro.’
-
-» 189, last line. For ‘goro’ read ‘ gokoro.’
-
-» I91,1.1and 2. For ‘goro’ read ‘ gokoro.’
-
-193, 1. 4. For ‘hard’ read ‘ sakaki.’
-
-5 194,/1. 21. Omit ‘muro
-
-» 195,1.6 from bottom. For ‘It will be,’ etc., read ‘ Their spear points
-are not to be matched,’ and omit ‘ For.’
-
-if! EOC AST. “or ORI Pea Es
-
-
-ERRATA ET ADDENDA. 429
-
-
-Page 197,1. 18. For ‘to’ read ‘through.’
-
-
-”
-
-
-1.9 from bottom. For ‘ people’ read ‘ their tribe.’
-206, 1. 8 from bottom. Add note, ‘i.e. a Deity incarnate in human
-form.’
-208, 1. 8. For ‘Mount Ohoyama’ read ‘the great mountains.’
-209, 1.17. Read ‘ But he got up with difficulty and returned,’ etc.
-221, 1. 5 from bottom. ‘Dazzling to the eyes’ is better construed with
-‘gold and silver,’ etc.
-224,1.5 and 1o. Read ‘ Tarashi-nakatsu hiko.’
-225, 1.1. Woyamada.
-226, 1.19. For ‘ powerful frame’ read ‘stubborn nature.’
-].24. For ‘returned’ read ‘ removed.’
-228, 1. 22. For ‘take possession of’ read ‘seek.’
-237, 1.7. For ‘So ona later day,’ etc., read ‘Again they said “ Bring
-a lute and give it to the Empress.” ’
-note 7. Mikokoro is a makura-kotoba of Hirota.
-1. 8. Read ‘ What ill-sounding things the woman says !’
-239, 1. 3. For ‘ Katsurano’ read ‘ Kadono.’
-l. 14-17. Read—
-
-
-‘ Noble with nobles,
-Cousin with cousins.’
-
-
-240, 1.19. For ‘ Midzunoto,’ etc., read ‘ Kanoto Mi’ (18th).
-
-242, 1.3. For ‘Emperor’ read ‘ Grand Empress.’
-
-246, 1.8. Read ‘In the course of the seventh month of, etc.
-
-248, 1.5. After ‘tribute’ add ‘which they made the tribute of their
-own country.’
-
-1.6. After ‘Silla’ add ‘ mean articles.’
-
-250, 1. 12 from bottom. For ‘ Corea’ read ‘ Pékché.’
-
-251, 1.16. Read ‘It is so distant that it cannot be reached in seven
-days’ journey.’
-
-254, 1. 13. Read‘This agreed with the elbow-pad worn by the
-Empress as a manly accoutrement.’
-
-255, 1. 1.. For ‘ Tsutsuhi’ read ‘ Kebi.’
-
-1. 15.. For ‘younger’ read ‘elder.’
-]. 11 from bottom. For ‘ Prince’ read ‘ Princess.’
-1. 7 from bottom. For ‘ Mago’ read ‘ Ito’
-
-257, l. 7. For ‘Kadzu’ read ‘Kadono. Chiba, ‘thousand leaves,’
-is a makura-kotoba of Kadono, Kado (or Kadzura) meaning a
-creeper.
-
-1. 5, and in p. 258. After ‘ Umashi’ add ‘ uchi.’
-
-259, 1.1. After ‘ Tsurugi’ add ‘ Karu.’
-
-l. 19. For ‘the upper’ read ‘a.’
-
-260, 1. 5 of poetry. ‘River fork’ is perhaps better ‘ Kahamata,’ the
-name of a river. .
-
-264, 1. 10 from bottom. For ‘kebi’ better read ‘momi.’
-
-265, note. For ps read Zs.
-
-
-ERRATA ET ADDENDA.
-
-
-Page 266. Poetry. Dr. Florenz interprets the last three lines as follows—
-
-
-‘Yield to one side ;
-(In order that) I may see
-My departing spouse of Kibi.’
-267. For ‘Ahiru’ read ‘ Kamo.’
-271, 1.12. For ‘Oho-kuma’ read ‘ Oho-sumi.’
-276. For ‘sent it’ read ‘ went.’
-277, 1.6. For ‘my abdication’ read ‘his self-abnegation.
-note. Read ‘ Chihaya-bito.’
-278, 1. 8 from bottom. Read ‘But for the three years that We have
-now reigned over the people,’ etc.
-279, 1. 3. Read ‘no robes of state or shoes were made for him except
-when worn out.’
-1.5. Read after ‘broths’ ‘were not renewed except when they
-became sour or putrid.’
-284. Poetry. For first two lines read—
-‘ By the rule established
-For nobles.’
-
-
-293, 1. 5 from bottom. For ‘Empress’ read ‘Emperor.’
-294, 1. 21. For ‘Taka-ama’ better ‘Taka-kahi’ (falcon-feed).
-298, 1.6. For ‘melts’ read ‘is distributed.’
-304, 1.4. For ‘Furu no’ read ‘ Furu in.’
-305, 1. 4. Before ‘ Hayato’ insert ‘ an attendant.’
-322, note 1. ‘Na-nori-ahi’ should be ‘na-nori-so,’ ‘ tell it not.’
-323, 1.6. Read ‘ But the sea was deep and they,’ etc.
-326, 1. 3 from bottom. For ‘made them go back’ read ‘returned.
-329, 1. 3 from bottom. Read ‘one whit disagreeable.’
-335. Poetry. For ‘nine-fold’ read ‘seven-fold.’
-336, 1. 4 from bottom. Omit ‘a place belonging to.’
-note 3. Add ‘ Fukuro probably means mother here.’
-338, 1. 4. Before ‘woman’ insert ‘man and.’
-Last line but one, read ‘ they were’ for ‘she was.’
-340, last line. Read ‘ The only persons whom he favoured.’
-341, 1. 7. After Princess add ‘and has made her pregnant.’
-342, 1.12. After.‘ flying’ add ‘and bit the Emperotr’s elbow.’
-349, 1.17. For ‘get instructions’ read ‘ proceed by way of.’
-351, note 2. For ‘Bekkako’ read ‘ Kokkeko’ or ‘ Kakero.’
-359, 1. 26. For ‘Autumn’ read ‘ Winter.’
-362, 1.15. Read ‘ How nearly I had destroyed the man !?
-366, 1.14. For ‘beside himself with shame’ read ‘for shame at his
-unsuccess.’
-1. 7 from bottom. For ‘who’ read ‘and.’
-369, note 2. Better to take smoke and fire as signs of plenty, which
-extend for 10,000 ri.
-370, 1. 5. Read “How should not we, with our whole hearts, address
-them decrees of cordial warning?’
-
-
-BY
-
-
-ERRATA ET ADDENDA. 431
-
-
-Page 370, 1. 20. Read ‘many years have now passed, and it (my death)
-
-
-”
-
-
-”
-
-
-”
-
-
-Page 13.
-19, note 5. For ‘Eungchén’ read ‘ Ungchon,’
-
-20, 1. 5. For ‘ Eunchol’ read ‘ Eunsol.’
-
-127, note 5. Omit ‘In modern times,’ etc.
-
-148. Add to note 2 :—‘ The authenticity of the “ Kiujiki”’ was never
-
-
-”
-
-
-”
-
-
-”
-
-
-”
-
-
-cannot be called premature.’
-
-
-l. 5 from bottom. Read ‘ should gain his purpose of whine? etc.
-371, 1. 3, 4. Read ‘ The serfs of the Ohomuraji are wide-spread,’ etc.
-
-1. 14. Read ‘ Your serfs are very numerous.’
-
-1,16. Read ‘Is it not better to keep safe our persons and avoid
-
-
-risk rather than by such an announcement to bring on ourselves
-ruin ??
-
-
-386,1. 10. After Dignity read ‘to the great delight of the functionaries
-
-
-who were in attendance.’
-
-
-390, 1. 11 from bottom. Read ‘ There are no words without response :
-
-
-no virtuous action without requital.’
-
-
-1. 8 from bottom. For ‘feasts’ read ‘has obtained.’
-399, 1. 3. Read ‘ Oho-iratsume.
-400, note 3. For ‘ 13’ read ‘
-
-
-VOL. E.
-
-
-Omit note I.
-
-
-disputed until the time of Motoori and Hirata. The former
-(“ Kojikiden ” i. 20) condemns it as aforgery. Hesays, however,
-that it is not a mere invention, but compiled from the “ Kojiki” and
-“ Nihongi.” Ifany one doubts this let him, MotoGri says, read the
-“ Age of the Gods,” comparing the accounts given in the three
-works. He will find in the * Kiujiki” an incongruous mixture of
-style, and also that the same event has been narrated in two
-different forms. The difference in the Chinese characters used for
-writing the same proper names is especially conspicuous. Sometimes the “ Kogojiui” has been resorted to, and such passages
-are easily distinguished as they are copied word for word. There
-are, however, passages not to be found elsewhere, probably taken
-from some old work, and the MSS. are useful for correcting the
-text of the “ Nihongi.” To.these observations of Motoéri it
-may be added that the “ Kiujiki” contains an account of the
-death of Shétoku Daishi, its supposed author, which must have
-been added a long time after (probably from the “ Nihongi”), as
-it has the expression “the men of that day.” We should also
-remember the positive statement of the “ Nihongi” (p. 193) that
-the greater part of the “ Kiujiki” was destroyed by fire in
-A.D. 645.
-
-
-Notwithstanding all this, I incline to the opinion that the
-
-
-“ Kiujiki,” with the exception of the final passage which relates
-the death of Shdtoku Daishi, is authentic, Motoéri hardly
-
-
-ERRATA ET ADDENDA.
-
-
-does justice to the amount of original matter in the mythological
-
-
-chapters, and the similarities between it and the “ Kojiki” and
-
-
-“ Nihongi” may be accounted for by supposing that all three
-drew their materials from a common stock, viz. the recitals of the
-“ Kataribe” and the written documents compiled from them. It
-is quite true that the “ Kiujiki” gives in many Cases two versions
-of the same legend, but the clumsiness with which they have
-been dovetailed together is rather a proof that the writer could
-not have had the more consistent narrative of the “ Nihongi”
-before him. This part ought to be translated. It contains
-material which is necessary for a complete study of Shintoism.
-
-
-From Jimmu Tenn6é on the question assumes a different aspect.
-
-
-Here either the author of the “ Nihongi” has incorporated the
-whole ‘* Kiujiki,” or the author of the “ Kiujiki” has made a
-selection from the “ Nihongi.” So far as the former goes it is
-identical word for word with the latter. From the circumstance
-that the additional matter contained in the “ Nihongi” is very
-largely of a romantic or poetical nature, it seems more probable
-that the “ Kiujiki” is the original work. Its general style is
-eminently consistent with the statement (“ Nihongi,” vol. ii.
-p. 122) that the reputed author was a thorough proficient in
-both Chinese and Buddhist learning.
-
-
-Without a more exhaustive examination it is impossible to say
-
-
-more, but there is, I feel sure, sufficient internal evidence available to solve the question with certainty. It would afford an
-interesting subject of critical inquiry to some of our younger
-students,’
-
-
-Page 352, 1.9. For ‘11th’ read ‘ 1oth.’
-
-
-I]. 12, Omit ‘you who accepted our rule and also to,’ and add at
-
-
-end of sentence ‘of your emigration hither.’
-
-
-For most of the above corrections I am indebted to the kindness ot
-Dr. Florenz, Professor of Philology in the Imperial University of Tokio.
-
-
-IN DEX:
-
-
--ABSTINENCE (religious), I. 41, 42, 82,
-152, 316, 325, 3475 II. 1o1, 387.
-
-_ Abstinence Palace, I. 176, 225; II. 322,
-326, 338.
-
-Acupuncture, IT. 190.
-
-Adoption, II. 2.
-
-Adultery, II. 221.
-
-Adzuma, I. 81, 207.
-
-Adzuma Koto, I. 225.
-
-Agata-nushi, I. 134.
-
-Age of the Gods. Books I. and II.
-
-Agura, II. 103.
-
-Ahaji (island, birth of), I. 13.
-
-Ahimbe, IT. 335.
-
-Aino or Ainu. See Yemishi.
-
-Aji-suki-taka-hiko-ne, I. 67, 75.
-
-Akakagachi, I. 77.
-
-Akitsushima, I. 13, 134, 343; II. 12, 66.
-
-Aloes wood, II. 123.
-
-Altar, I. 353.
-
-Ama or Ame, heaven, Zassz772.
-
-Ama no hihoko, I. 169, 185, 186.
-
-Ama no Nunahara oki no Mabito, II.
-301.
-
-Ama no mi-naka-nushi, I. 5.
-
-Ama terasu no Ohokami.
-goddess.
-
-Ama tsu mara. See Smith-god.
-
-Ambassadors (should be of good family),
-pGa7.0%
-
-Ame (malt extract), I. 121.
-
-Ame-kuni-oshi-harani-hiro-niha, II. 5, 36.
-
-Ame mikoto hirakasu wake, II. 275.
-
-Ame no oshi-ho-mimi no Mikoto, 1. 83.
-
-Ame no Uzume. See Uzume.
-
-Ame-toyo-takara ikashihi tarashi hime, I.
-171, 248.
-
-Ame-waka-hiko, I. 65.
-
-Ame-yorodzu toyohi, II. 195. \
-
-Amnesty, II. 322, and frequently after this.
-
-Anaho, I. 328.
-
-Anahobe (Prince), II. 107, 112.
-
-Anato, I. 167.
-
-Ancestor-worship, I. 27 ; II. 351.
-
-Ango. See Retreat.
-
-Ankan Tenné, II. 12, 26.
-
-Anko Tenné, I. 328, 332.
-
-Annei Tenno, I. 141, 142.
-
-
-VOL, II.
-
-
-See Sun-
-
-
-Anthropomorphism, I, 41.
-
-Arakahi, II. 2, 8, 15, etc.
-
-Arare-bashiri, II. 411, 414.
-
-Arashito or Arasateung, I. 166; IL. 18,
-TO, 923;
-
-Archery, I. 282, 336, 377°; II. 226, 393,
-CLC.
-
-Arima (Prince), II. 251.
-
-Arinari (river), I, 231.
-
-Arrow. See Nari-kabura, Bow, Archery.
-
-Artizans (from Corea), I. 349, 396, etc.
-
-Ashihara, I. 40.
-
-Ashinadzuchi, I. 52, 56.
-
-Aso (Mount), I. 198.
-
-Aso or Ason (title), I. 236, 239; II. 365,
-etc.
-
-Astronomy, II. 76, 126, 301, 326. See
-also Comet, Eclipse, Occultation, Mars,
-Pleiades.
-
-Ass, II. 252.
-
-Atahe or Atahi (title), I. 36.
-
-Ataka-ashi tsu hime, I. 88.
-
-Aya, I. 265, 270, 336, 350, 363; II. 118,
-190, 192, etc.
-
-Augury. See Divination.
-
-Jordoy de gion uss VUE, atin Yee 7 eyo),
-
-
-BALDNESS as an incapacity for service of
-gods, I. 152.
-
-Banishment, II. 333, 339.
-
-Banzai or Bansai, I. 389; II. 175, 411.
-
-Baptismal flag, II. 149.
-
-Be, I. 43, 47, 104, 139, 175, 280, 397;
-314, 322, 340, 350, 359, 365, 375; Il.
-4, 27, 31, 95, 125, 129, 224. See also
-Nashiro.
-
-Beacons, II. 13.
-
-Bear (polar), II. 257, 263, 371.
-
-Bed of absent person, Superstition regarding, I. 325.
-
-Bees, II. 184.
-
-Bellows, I. 47. i
-
-Bells, I, 286, 294, 301, 329, 348, 387;
-II. 86, 105, 167, 201, 206, 211, 227,
-302, 335-
-
-Bhéchadjya Radja. See Yakushi.
-
-Bidatsu (or Bindatsu) Tenno, II. go-105.
-
-Bosatsu (or Bodhisattwa), II. 111, 175.
-
-
-cab
-
-
-Bow and arrows, I, 34, 37, 139, 247, etc.
-
-Box for petitions, II. 211.
-
-Bramblings (bird), II. 339, 349.
-
-Branding of criminals, etc., I. 305, 307,
-359-
-
-Bronze, II. 415.
-
-Buddhism, I. 219; II. 59, 65, 66, 68, 72,
-78, 90, 96, 101, and frequently during
-the remainder of Vol. II. See also
-Hoshi, Image, Kesa, Nuns, Shamon,
-Sutra, Sddzu, Kwannon, Temples, Retreat.
-
-Buffalo, II. 297.
-
-Butsudan, II. 369.
-
-
-CALENDAR, Introduction xvii. ; II. 68, 72,
-126, 400.
-
-Camel, II. 124, 146, 252. 24%
-
-Cap- rank, WE 2272255) .237), 228708870.
-See also Rank.
-
-Cash, II. 34, 414.
-
-Castles, building of, II. 283, e¢ segg., 286.
-
-Cattle-breeding, II. 32.
-
-Caterpillar, worship of, II. 188, e¢ segg.
-
-Celestial dog, II. 167.
-
-Censorate, II. 294.
-
-Ceremonies, court, II. 227, 357, 398, etc.
-
-Chair, II. 102.
-
-Chaos, I. 1.
-
-Charts, Ty 94,4 11. $2, 379:
-Incantation, Mantras.
-
-Chésyang, I. 243.
-
-Chhimnyu (King), I. 253.
-
-Chi or chichi, I. 4, 264.
-
-Chisis i 1a2t
-
-Childbirth, superstitions connected with,
-I. 85, 98, 103, 104.
-
-China, relations with, Introduction xi. ; II.
-138. See Thang, Wu, Tsin, Han.
-
-Chinese civilization, spread of, II. 133.
-
-Chinese customs, I. 311.
-
-Chinese learning, first introduction of, I.
-262.
-
-Chiuai Tenn6, I. 217-223.
-
-Ché (land measure), II. 208.
-
-Chopstick, I. 159.
-
-Choshushi, II. 213, 225.
-
-Chronology, Introduction xvi.; I. 111, 132,
-TALS 3, 1OSs17 75-4205, 247.0250, 202,
-293, 300, 307, 330, 332, 346, 366; II.
-25, 37- See also Calendar, Nengo.
-
-Circumambulation, II. 259.
-
-Clapping hands by way of respect, II. 395.
-
-Clay figures at tombs, I. 181, 357.
-
-Clay-workers, I. 180, 3 56. See also
-Hashi.
-
-Clepsydra, II. 265, 296.
-
-Cloth, I. 44; II. 180, 208.
-
-Cloud: chariot, II. 275.
-
-Cock wile sul eqs:
-
-Cock-fighting, I. 348.
-
-Coin, I. 391 ; II. 304.
-Currency.
-
-
-See also
-
-
-See also Copper,
-
-
-INDEx.
-
-
-Combs, superstitions regarding, I. 24, 25,
-47, 48, 52, 96, 98 ; II. 425.
-
-Comets, II. 166, 167, 169, 333, 353) 364,
-367.
-
-Compass (mariner’s), II. 258, 285.
-
-Concubines (Imperial), I. 311, etc.
-
-Confiscation, I. 293 ; II. 83.
-
-Confucius, II. 129.
-
-Consecration (of Buddhist images), II. 297,
-
-
-423.
-
-Conundrums, II. 374, 375.
-
-Copper, I. 20, 47, 120, 220, 221, 328,
-350, 3553 II. 65, 86, 133, 360, 387, 415.
-
-Corea, Introduction xi. See Han, Imna,
-Kara, Koryé, Pékché, Silla.
-
-Corean deities worshipped in Japan, I. 11,”
-169, 225, 378.
-
-Corean names, Introduction xxii.; I. 244.
-
-Cormorant-tishing, I. 119, 126, 341.
-
-Cosmogony, I. 2, e¢ seggq.
-
-Costume, II. 18, 304, 307, 3075 410.
-
-Court, II. 138.
-
-Cremation, 1423;
-
-Crow, three-legged. See Yatagarasu.
-
-Currency, I. 89, 391; II. 34, 222, 360,
-372, 414.
-
-Gurses, al 24055337, 403;:. Lh. oo2s
-
-Cycle, Chinese, I. 111.
-
-
-DarBu, I. 175; II. 98.
-
-Daijin, I. 334; II. 196.
-
-Daijinno, II. 114.
-
-Daijoye, I. 86.
-
-Daikoku, I. 55, 63.
-
-Dainagon, II. 347.
-
-Dai Nippon, II. 279.
-
-Dajodaijin, II. 294.
-
-Dakiu, II. 185.
-
-Dancing (religious), I. 44, 79; (other), 318,
-381, 382, etc.
-
-Dazaifu, II. 139.
-
-Debts discharged, II. 378, 385.
-
-Deer, cry of, I. 289.
-
-Deer, dream of, I. 290.
-
-Deification of Emperors, II. 226, 227.
-See also Incarnation.
-
-Departments of State, IT. 232.
-
-Distribution of lands to peasants. See
-Kobunden.
-
-Divination, [5-835 167) 121, 152,, 153,
-176, 177, 178, 189, 195, 227, 228, 229,
-
-. 237, 281, 290, 307, 324, 355; Il. 509,
-68, 72, 95, 102,.257,. 306. See also
-Omens.
-
-Divorce, I. 25, 30.
-
-Dog-keepers, II. 32.
-
-Dog stories, II. 116, 117.
-
-Dragon, II. 240, 248.
-
-Dragon-fly, I. 134, 342.
-
-Dragon-king, I. 61, 95.
-
-Dreams, I. 115, 152, 155, 161, 165, 290;
-ie 36:
-
-Dwarf-god. See Sukuna-bikona.
-
-Dwarfs, II. 296.
-
-
-INDEX.
-
-
-EARTH-GODDESS, birth of, I. 21, 22.
-
-Earthquakes, I. 317.3 II. 124, 176, 282,
-330, 336, 339, 343, 344, 348, 351, 353,
-3545 356; 357, 365, 373, 375, 384
-
-Fclipses, II. 155, 167, 168, 179, 348, 349,
-353, 404, 411, 413, 414, 417, 420.
-
-Edicts, II. 82, e¢ passim.
-
-Eight, significance of this number, I. 52;
-e143"
-
-Eight-island-land, I. 16; II. 1o.
-
-Embroidery, II. 133.
-
-Empress Dowager, I. 140.
-
-Enclosure for Shinto worship, I. 82, 134.
-
-Pita besos
-
-Eternal Land. See Tokoyo.
-
-Ethnology, I. 109, 212; II. 38, 123.
-See also Immigration, Koma, {<umaso,
-Tsuchigumo, Yemishi.
-
-Eunsol (Corean title), II. 20, 98.
-
-Expiation. See Purgation.
-
-
-Fatcon (for hunting), I. 291,
-239.
-Family relations,
-Harakara.
-
-Famine, I. $7 ; II. 155, 167.
-
-Fasts, II. 402. See also Abstinence.
-
-Festivals. See Shinjosai, Nihiname,
-Ahimbe.
-
-Fetish. See Caterpillar, Stone-worship.
-
-Feudalism, I. 192, 267; II. 197, 206, 401,
-etc.
-
-Fine. See Purgation.
-
-Fire, ordeal by, I. 89.
-
-Fire-drill, I. 205.
-
-Fire-god, I. 21, 28, 29, 122.
-
-Firewood presented to Emperor, II. 326,
-330, etc.
-
-Firmament, I. 291.
-
-Fish-hooks (of iron), I. 92.
-
-Five grains, I. 21, 278.
-
-Flute, II. 11; 24.
-
-Folk-lore, I. 307.
-
-Food-goddess, I. 22, 32, 122.
-
-Football, II. 185.
-
-Forced labour, I. 278; e¢ passin.
-
-Four Heavenly Kings, II. 114, 115.
-
-Fujihara family, Il. 291.
-
-Fumibito or Fubito (scribes), Introduction
-rabies resus AWE. <li
-
-Funeral ceremonies, I. 66, 67, 326; II.
-24, 104, 143, 173, 177, 232, 274, 303;
-300, 380, 38.
-
-Funeral sacrifices, I. 178.
-
-Funado no Kami, I. 25.
-
-Furubito (Prince). See Yoshino.
-
-Futodama no Mikoto, I. 82, etc
-
-Futsu-nushi no Kami, I. 23, 67.
-
-
-2OKes while
-
-
-See Marriage, Incest,
-
-
-Gas, II. 313.
-
-Gambling, II. 371.
-
-Games. See Suguroku, Dakiu.
-
-Garlic as a charm against evil spirits, I.
-208.
-
-
-Genealogy of the Gods, I. 4-10.
-
-Geomancy, II. 76, 126, 387.
-
-Gidgi-yaki (pottery), I. 12r.
-
-Go (part of China), I. 269. See also
-Vu.
-
-Godzu Tenné, I. 19.
-
-Gohei, I. 44. See Offerings.
-
-Gokinal, W135, 593) 205822 eons
-
-
-VAGy aa
-
-Gold, II. 34, 65, 86, 134, 149, 172, etc.
-
-Gold-copper, II. 391, 393.
-
-Governors of provinces, II. 131, 200, etc.
-
-Grain, origin of, I. 21.
-
-Granaries (official), I.
-Miyake.
-
-Great Abstinence Deity. See Oho-imi.
-
-
-214, 282. ;See
-
-
-HACHIMAN, I. 271.
-
-Hachi-6ji (eight Princes), I. 36.
-
-Hada (noble House), I. 265, 364; II. 30.
-
-Hades. See Yomi, Ne no Kuni.
-
-Hafuri (Shinto priests), I. 56, 129, 307 ;
-DS 20582, 17450425.
-
-Hair ornaments (sign of rank), II.
-138, 142, 230.
-
-Haka (tomb), I. 159. See Tomb.
-
-Hakama (prisoner in China), II. 400.
-
-Hakase (doctor), II. 197.
-
-Hakuchi, year-period of, IT. 236.
-
-Han (Corea), I. 58, 232, 242, 254, 257, 263,
-273, 349; II. 35. 38.
-
-Han (China), Li ee 2705) Ul aiid:
-
-Hand-mill, I. 189; IT. 140.
-
-H[angwan (officials), II. 200.
-
-Hanishi, I. 356. See Hashi no Muraji.
-
-Haniwa, I. 181.
-
-Hanzei Tenno, I. 310.
-
-Harakhersl. 4OcsUl. 220, 339) 398: See
-Purgation, Oho-harahe.
-
-Harakara, I. 143, 322, 323.
-
-Hashi no Muraji, I. 36, 181,
-126.
-
-Hashira, I. 3.
-
-Hatahi (Princess), I. 330.
-
-Hatsuse (Prince), II. 161. .
-
-Hayabusa wake (Prince), I. 390, e¢ segg. _
-
-Hayato (palace guards), I. 100, 305, 375,
-SLi Il. 38, 249, 356, 399; 418, 420.
-
-Hawking. See Falcon.
-
-Herbalists, II. 72.
-
-Herb-gathering, II. 141, 143, 145, 288.
-
-Herb of long life, II. 186, 344.
-
-Hi, land of, I. ror, 198.
-
-Hiki (piece of cloth), II. 209.
-
-Hime (lady), frequently in names of princesses, etc.
-
-Hire (scarf), II. 355.
-
-Hiuga, I. 196.
-
-Home provinces. See Gokinai.
-
-Hoshi (priestly title), II. 118, 197-
-
-Hostages, II. 196, 226.
-
-Hoto, II. 153. 203.
-
-House (noble), I. 316.
-
-Hsiian-ts‘ang, II. 254.
-
-
-128,
-
-
-2575 ule
-
-
-Ff 2
-
-
-IcE-HOUSE, I. 297.
-
-Ichinobe no Oshiwa, I. 336, 378.
-
-Idols, I. 3. See Images.
-
-Tez Lo 7 Ones 170;
-
-Idzube. See Sacred jars.
-
-Idzuhime, I. 122.
-
-Idzuki, I. 291.
-
-Idzumo, I. 52, 54, 109, 381.
-
-Idzushi sword, I. 168, 169, 185.
-
-Thanagahime, I. 84.
-
-Thawi, II. 15.
-
-haya, I. 72.
-
-Thitoyo (Princess), I. 383.
-
-Ikadzuchi, I. 347.
-
-Ike (a pond), I. 149. See Irrigation.
-
-Tkina, II. 84.
-
-Tkuhi, I. 154.
-
-Ikume-iri-hiko isachi, I. 161, 163, 165.
-
-Illa (Corean statesman), II. 97, e¢ segg.
-
-Images (Buddhist), II. 65, 67, 98, 101,
-III, 127, 133, 150, 230, 240, 387, 391,
-422.
-
-Imaki, I. 349, 350.
-
-Imi (avoidance of religious impurity), I.
-
-
-41.
-
-Imibe (or Imbe), I. 42, 45, 47.
-
-Imiki (title), II. 365. .
-
-Immigration to Japan, I. 166, 169, 242,
-261, 264, 265, 296, 359; II. 38, 83, 86,
-87, 99, 123, 126, 139, 140, 144, 146,
-273, 285, 292, 330, 364, 384, 385, 391,
-397, 398, 399-
-
-Imna, I. 164, 166, 167, 249, 253, 257, 348,
-392 3 II. 7,19; 35, 39, 42, 80, 119, 124,
-226.
-
-
-Imo, younger sister or wife, I. 22, 104,
-
-
-397-
-
-Imperial theory, II. 29, 30.
-
-Imun (part of Corea), II. 9, 12.
-
-In and Yo, I. 1, 4, 12. See also Yin and
-Yang.
-
-Inaki, [. 172, 215, 315, 364; II. 113, 365.
-
-Iname no Sukune, II. 66, 78, 87, 112.
-
-Incantations, I. 60, 94, 98, 99, 102, 133.
-See Mantras.
-
-Incarnation, II. 198, 210, 217.
-
-Incest, I. 324, 396.
-
-Indigo, I. 353.
-
-Ingio Tenno, I. 312.
-
-- Ink-cord, I. 362.
-
-Inspiration, I. 79, 163, 221, 225, 391, 392;
-ATS 7 Oyo 075
-
-
-Interlinear Kana, Introduction xxi.; II.
-
-
-200.
-
-Inukahi, IT. 32.
-
-Tron, I. 92, 247, 251, 282, 328; II. 14, 86,
-102, 173, 204, 344, 387. .
-
-Irrigation, I. 164, 183, 214, 227, 257, 259,
-283, 306, 307; II. 136.
-
-Truka no Omi. Book xxiv., Zasstm.
-
-Ise, I. 44, 176, 205, 225.
-
-Issaikio, II. 322, 330, 337-
-
-Itoku Tenno, I. 142.
-
-
-INDEX.
-
-
-Itsukushima, I. 35.
-
-Itsuse no Mikoto, I. 113, 127.
-
-Izahowake, I. 301.
-
-Izanami and Izanagi (Creator deities), I.
-6-34, passim, also I. 307, 322.
-
-
-JAPAN, names of. See Nippon, Yamato,
-Akitsu, Wa, Ashihara, Eight-islandland.
-
-Jewel-spear of Heaven, I. 11.
-
-Ji or chi (elder), I. 4, 18.
-
-Jimmu Tenné, I. 62, 109-137; II. 21.
-
-Jingikwan (department of Shinto religion),
-Eight gods of, I. 7.
-
-Jingo Kogu, I. 224-253.
-
-Jito Tenno, II. 382-423.
-
-Jomei Tenno, II. 95-157.
-
-Junshi (self-sacrifice at tomb of a lord or
-husband), I. 180, 331; II. 183, 220,
-234, 383.
-
-Jupiter (planet), II. 409.
-
-
-KABANE (title), I. 27.
-
-Kachaya. See Kesa.
-
-Kagase-wo (star-god), I. 69, 79.
-
-Kagehime, I. 402.
-
-Kagura. See Dancing.
-
-Kagutsuchi. See Fire-god.
-
-Kaguyama (mount), I. 43, 119, 120.
-
-Kaha (river), frequently in names of places.
-
-Kahabe no Omi, II. 83. ;
-
-Kahachi no Atahe, II. 44, 48.
-
-Kaikwa Tenné, I. 148.
-
-Kakosaka (Prince), I. 2 6, e¢ seqg.
-
-Kamako no Muraji or Kamatari Ko, II.
-184, I91, 193, 194, 197, 243, 282, 291.
-
-Kama-shishi, II. 181, 371.
-
-Kami, deity, I. 3.
-
-Kami-ataka-ashi-tsu-hime, I, 85.
-
-Kamibe (or Kambe), J. 57.
-
-Kami Mi Musubi (deity), I. 5, 9.
-
-Kami-naga-hime, IJ. 259.
-
-Kami Nunagaha mimi. See Suizei.
-
-Kami yamato Ihare-biko. See Jimmu.
-
-Kami ya-wi mimi no Mikoto, I. 139.
-
-Kamo-shika. See Kama-shishi.
-
-Kamu-niha, I. 353.
-
-Kamu tsumiya. See Shotoku Daishi.
-
-Kanamura no Muraji, I. 404; II. 8.
-
-Kana glosses, Introd. xxi.
-
-Kana Nihongi, Introd. xiv.
-
-Kanki (Corean title), I. 166, 231; IJ. 19,
-42, 51.
-
-Kanro (sweet dew), II. 339.
-
-Kara) 1k 5 7, 0025) 1OOnee 2252520), 20015
-II. 18. See also Imna.
-
-Karakane (bronze), II. 415.
-
-Karako, II. 22.
-
-Karano (name of ship), I. 256, 268.
-
-Karu (Prince), I. 323.
-
-Karu (Prince), IT. 184, 194.
-
-Kashikiya hime, IT. 95.
-
-Kasuga (Princess), II. 9.
-
-
-Katari be, Introd. xv. ; I. 353.
-
-
-INDEX.
-
-
-Kaya, II. 80. See Imna.
-
-Keidai Tenno, II. 1-25.
-
-Keiko Tenno, IJ. 188-214.
-
-Kena no Omi, II. 15, 19, etc.
-
-Kenzo Tenné, I. 377-393.
-
-Kesa (Buddhist priest’s garment), II. 196,
-297, 386.
-
-Kibi (province), I. 14, 112, 155.
-
-Kibi no Omi, II. 58.
-
-Kibumi, i.e. yellow books, II. 133, 185.
-
-Kilin, I. 164, 244.
-
-Kimi (lord), I. 38. e¢ passzm.
-
-Kimmei Tenné, II. 36-89.
-
-Kinai. See Gokinai.
-
-Kino tsuno no Sukune, I. 293.
-
-Ki no woyumi no Sukune, I. 354.
-
-Kishi (title), I. 236.
-
-Kissing, IT. 85.
-
-Kite (golden), I. 126.
-
-Kiujiki, Introd. xii.; II. 148, 193; Addenda.
-
-Kiushiu, I. 109, 112,
-
-Koan Tenno, I. 145.
-
-Kobunden, IT. 208, 225, 409.
-
-Kobun Tenno, II. 301, 303.
-
-Kogen Tenno, I. 146.
-
-Kogioku Tenno, II. 171-194.
-
-Kojiki (history), Introd. xiii. xix.; I. 2, 350,
-
-
-See Tsukushi.
-
-
-393:
-
-Kokishi (Corean word for king), I. 251.
-
-Kokuryo. See Koryo.
-
-Kokushi (governor), II. 201.
-
-Koma, I. 232; II. 61. See Korys.
-
-Konohana sakuya hime, 1. 70-85.
-
-Ko6rei Tenno, I. 146.
-
-Koro-pok-guru, I. 72.
-
-Koryo, or Kokuryo (kingdom of Corea),
-Is 2315 202; °268, 2828 206; 351. 360,
-39253 Il. 38, 44, 60, 77, 86, 93, 134;
-downfall of, 289.
-
-Koshi, I. 14.
-
-Koshiro, II. 217. See Nashiro.
-
-Kosho Tenno, I. 144.
-
-Késobé, II. 196.
-
-Koto (lute), I. 225, 268, 269, 351, 380;
-Itezays
-
-Kotoku Tenn, II. 195.
-
-Kotoshiro nushi, I. 61, 76, 225, 2373; II.
-318.
-
-Koyane no Mikoto, I. 82, etc.
-
-Kudara (kingdom of Corea), I. 232. See
-Pékché.
-
-Kukunochi. See Tree-god.
-
-Kuma, I. 625°32,°197,) 2325). 230, 300); 11.
-59. See also Kumaso.
-
-Kuma-himorogi, I. 82, 168, 169, 185.
-
-Kuma-nari, I. 59, 232, 367; II. 19, 286.
-
-Kuma-wani, I. 219. ;
-
-Kuma-washi, I. 226.
-
-Kumaso, I. 192, 196, 201, 219, 221. See
-also Kuma and Koma.
-
-Kume, I. 80, 118, 127, 133, 178.
-
-Kuni no Miyakko, or Kuni‘tsuko (local
-governor), I. t12. See also Miyakko.
-
-
-Kuni no satsuchi no Mikoto, I. 3.
-Kuni toko-tachi no Mikoto, I. 3, 4.
-Kure, I. 265, 269, 362. See Go, Wu.
-Kuro hime, [. 301.
-Kusaka no hatahi-hime, I. 337.
-Kusanagi (sword), I. 52-58, 76, 205, 211 ;
-DIS 200 52717
-Kushi-nada-hime, I. 52, 56.
-Kusuri-gari. See Herb-gathering.
-Kusyu (King of Pekché), I. 251.
-Kuzu (local chiefs), I. 119, 266.
-Kwannon (Buddhist), II. 379, 391.
-Kydsoku, II. 256.
-
-
-Lacquer, II. 110, 367.
-
-Laws, II. 128, 202, 220, 350, 358, 393, 402.
-
-Leaves used as platters, I. 125, 285.
-
-Leech-god, I. 15, 18, 19, 20. ‘
-
-Legends, Zass¢m in earlier part of work.
-
-Leopard as deity, II. 70.
-
-Living things released, II. 334, 335.
-
-Loans of rice, II. 328.
-
-Local authorities, II. 206, 207, 213, 214,
-242, etc.
-
-Long-life places (Buddhist), II. 394, 404.
-
-Loom. See Weaving.
-
-Lustration, I. 26.
-
-
-MAGARI NO OHINE (Prince), II. 5, 12, 26.
-
-Maga-tama (curved jewels), I. 38, 49, 184,
-
-Magicwdl 9157. 3010s) Il. 120,.0190;).301.
-See Incantation, Witchcraft.
-
-Magpies, II. 124.
-
-Mahakala, II. 114.
-
-Maitréya, II. 101, 127.
-
-Majinahi, I. 60.
-
-Makura kotoba, I. 176, 403, etc.
-
-Mallet weapons, stone or wood, I. 123,
-
-124, 194, 240.
-
-Manchus. See Sushen.
-
-Mantras, II. 96.
-
-Market commissioners, II. 223.
-
-Marriage ceremony, I. 12, .14-18, 54.
-
-Marriage to near relations, I. 22, 145, 212,
-
-277, 290; II. 26, 38, 40, 107, 185, 220,
-
-221. See Nuptial hut.
-
-Marriage presents, I. 301.
-
-Mars (planet), II. 353, 409.
-
-Masaya-a-katsu kachi hayathi-ama no oshi
-ho mimi, I. 36, 37, 64, 76.
-
-Masu (measure of capacity), II 209.
-
-Mato, II. 53.
-
-Matori no Ohomi, I. 403.
-
-Mayuwa (Prince), I. 334.
-
-Medicine, I. 59, 63; II. 68.
-Physician.
-
-Medicine men, I. 42.
-
-Mediums, I. 79,
-
-Metals, I. 21, 291, 328. See also Bronze,
-Copper, Gold, Iron, Mint, Silver.
-
-Metal workers, I. 81; II. 117, 376.
-
-Metamorphosis, I. 209, 210, 296, 361; IT.
-
-
-Tay
-
-
-See also
-
-
-Metempsychosis, II. 149.
-
-Mibu be, I. 280; II. 135.
-
-Micheul Hochi polhan, I. 241, 244.
-
-Michi no Omi, I. 117, 122, 133; II. 16,
-2I.
-
-Midzuchi (water-snake or water-god), I.
-209.
-
-Midzuha nome, I. 21, 122.
-
-Midzuha wake (Prince and Emperor), I.
-305, 310.
-
-Mikage, II. 385.
-
-Miko, I. 79.
-
-Mikoto, I. 3.
-
-Mikoto-mochi, II. 116, 131.
-
-Milky Way, I. 23, 39, 42.
-
-‘Mill, II. 140, 294.
-
-Millet, I. 33.
-
-Mimaki irihiko iniye, I. 150. .
-
-Mimana, I. 167. See Imna.
-
-Mimatsu hiko kayeshine, I. 144.
-
-Mimuma, I. 336.
-
-Mint, II. 414.
-
-Miroku, image of, II. 101, 127.
-
-Mirror, I. 20, 43, 47, 49, 76, 83, 168, 185,
-193, 251, 3413 11. 3, 33.
-
-Misaheun, I. 242.
-
-Misaki (spur of hill or promontory), I.
-
-Misasagi (Imperial tomb), I. 135, 139, 211,
-217, 236, 297, 298, 327, 357, 389, 3903
-II. 35, 143, 147, 156, 178, 235, 341,
-389, 404.
-
-Mitama-furishiki, II. 373.
-
-Mitegura, II. 147.
-
-Mitsugi (tribute), II. 23.
-
-Miyake (granary), I. 178; II. 8, 13, 17,
-D7, 2ON2 1200s 7.O>, OSs
-
-Miyakko (local governor), I. 51, 133, 2155
-etc.
-
-Mohitori, I. 134.
-
-Momari Cheulchi, I. 241, 244.
-
-Mononobe, I. 128, 184.
-
-Mononobe no Ohomuraji, II. 90, 112.
-
-Monstrosities, I. 298; II. 147, 296, 300,
-368.
-
-Moon-god, I. 18-20, 28, 32, 391.
-
-Moriya no Ohomuraji, II. 90, 112.
-
-Mortar, I. 189.
-
-Motoori, Preface, Introd. xix.
-
-Mounds, sepulchral, I. 72; II. 17. See
-also Haka, Misasagi, Tomb.
-
-Mountain-goat. See Kama-shishi,
-
-Mountain-god, I. 22.
-
-Mourning, I. 277 ; II. 232. See Funeral
-ceremonies.
-
-Mujina (animal like badger), I. 184.!
-
-Mulberry (paper), I. 49; (silk), I. 347,
-
-66.
-
-
-Mules, II. 344.
-
-Mumayado (Prince). See Shéotoku
-Daishi.
-
-Mumako no Sukune, II. 90, 101-103, 106,
-112, 119. See Soga.
-
-Munchu (King of Peékché), I. 367.
-
-
-Munyong (King of Pekché), I. 405.
-
-Mura (village), II. 18.
-
-Muraji (title), I. 27.
-
-Mura-kumo (sword), I. 53.
-
-Murder of an Emperor, I. 334; Il. 119.
-
-Mure (Corean word for mountain), II. 54,
-153.
-
-Muretsu Tenno, I. 399-407.
-
-Muro; I. 71, 85, 123, £34, 20%4,'297, 379;
-3793 Il. 375, 380, 426.
-
-Music, I. 326 ; II. 30, 72, 144, 324, 350,
-359, 371, 376, 406. See Flute, Koto.
-
-Musubu no Kami, I. 5. .
-
-Muté (Corean Prince), I. 405.
-
-Myong (King of Pékché), II. 15, 66, 74.
-
-Mythology, Books I. and II.
-
-
-NA (name). See Names.
-
-Nagare-kanjo, II. 151.
-
-Naga-sune-hiko, I. 113, 126, 127.
-
-Naijin, II. 197.
-
-Nails, superstitions regarding, I. 50.
-
-Nakatomi, I. 42, 45, 48, 79.
-
-Nakatsu (Prince), I. 301.
-
-Nama (Corean official rank), II. 55, 79;
-etc:
-
-Names (proper), I. 27, 175, 190, 204, 255,
-316, 3935 LL. 185,223, 224, 225;,226,
-354, 393. See also Title.
-
-Naniha (city of Ohosaka), I. 113.
-
-Naniha (person), II. 92, e¢ segq.
-
-Nara Museum, II. 128.
-
-Nari-kabura (sounding arrow), I. 87; II.
-277.
-
-Nashiro, I. 314, 322, 375, 406; II. 4,
-Ta 2s iy esore CON aay. | oc, Be;
-Koshiro. :
-
-Nengo (year-period), II. 198, 236.
-
-Ne no Kuni, I. 20. See Yomi.
-
-Ne no Omi, I. 331, 363.
-
-Nether land, I. 20, 32, 51. See Yomi.
-
-Nigi-haya-hi no Mikoto, I. 111, 128; II.
-427.
-
-Nihabi (courtyard-fire), I. 44.
-
-Nihi-name (festival of first-fruits), I. 86,
-122, 292, 375, 3793 II. 109, 169, 177.
-See Oho-nihe, Ahimbe.
-
-Nihon. See Nippon.
-
-Ninken Tenné, I. 393-398.
-
-Nintoku Tenno, I. 272-300.
-
-Nippon, I. 1,. 13, 268, 345; II. 7, 12, 42,
-137, 139 149, 303:
-
-
-No (genitive particle), frequent in proper °
-
-
-names.
-
-No dance, origin of, I. 79.
-
-Nomi no Sukune, I. 175, 181.
-
-Norito (Shinto rituals). Introd. xii. xiv. ; I.
-Sous 119383.
-
-Nuhoko or jewel-spear, I. 11.
-
-Nunakura futo-damashiki, II. 90.
-
-Nuns, II. 96, 101, 103, 104, 113, 118, 135,
-etc.
-
-Nuptial hut, I. 12, 41, 54, 400.
-
-
-INDEX.
-
-
-Nuribe. See Lacquer.
-Nydi pearl, I. 209.
-
-
-OATH, I. 35:3 Il. .82;)97;3, 107%
-
-Obito (title), I. 43.
-
-Occultation of stars, II. 169, 174, 353-
-
-Offerings to Gods, I. 44, 45, 47, 178, 209,
-227; II. 147, etc. See Gohei, Mitegura, Nihi-name.
-
-Ohine, I. 278.
-
-Oho (great), passin.
-
-Oho-harahe, II. 221, 352, 378.
-Harahe, Purgation.
-
-Oho-hatsuse Waka-take, I. 329, 333.
-
-Oho-hirume no Mikota, I. IIo.
-
-Oho-hirume no muchi, I. 18.
-
-Oho-imi Deity, II. 328, etc.
-
-Ohoke (Emperor), I. 377.
-
-Oho-kume, I. 116, 133.
-
-Oho-kuni-dama, worship of, I. 151.
-
-Oho-kusaka (Prince), I. 331.
-
-Oho-maye no Sukune, I. 328.
-
-Oho-mono-nushi no Kami, I. 81, 152, 154,
-
-yo abies
-Oho-muraji, I. 337, etc.
-
-Oho-namuji no Kami, I. 54, 59, 68, 80;
-1k, Gif
-
-Oho-nihe, Introd. xv. ; I. 86; II. 324, 334,
-404. See Nihi-name.
-
-Oho-omi, I. 334, 337; IL. 108, etc.
-
-Oho-saka, I. 113.
-
-
-See
-
-
-Oho-sazaki, I. 255, 259, 271, 272. See
-Nintoku.
-
-Oho-sora. See Sora.
-
-Oho-tarashi-hiko-oshiro wake. See Keiko.
-
-Oho-tomo. I. 86, 116, 133, etc.
-
-Oho-tsu (Prince), II. 383.
-
-Oho-usu (Prince), I. 188, 202.
-
-Oho-yama-mori (Prince), I. 270, 274.
-
-Oho-yamato-hiko-suki tomo. See Itoku.
-
-Oho - yamato - neko - hiko-futo-ni. See
-Korei.
-
-Oho-yamato-neko-hiko kuni kuru. See
-
-
-Kogen.
-Oho-yashima (Great-eight-island-country),
-i, TelLOsellages.
-Ohoye, I. 278.
-Ojin Tenn, I. 254-271; II. 9.
-Okime (old woman), I. 386, 387, 391.
-Okinaga tarashi-hi hiro-nuka. See Jomei.
-
-
-Okinaga tarashi-hime, I. 218, 224; II. 8, |
-
-
-59.
-
-Old man of the sea, I. 88, 92.
-
-Omens, 07 2272:225% 238.527.7459 320) sll 2,
-4; 226, 237,239, 245, 256,259; 263,
-ae 269, 270, 276, 277, 293, 331, 359,
-etc.
-
-Omi (Minister or high official, also title of
-nobility), I. 36, e¢ passim. See Oho-omi.
-
-Omohi-kane no Kami, I. 42, 46.
-
-Oni-yarahi, ceremony of, II. 389.
-
-Onogoro-jima, I. 12.
-
-Orange-tree, I. 186.
-
-Ordeal by fire, I. 73, 85, 89.
-
-
-|
-
-
-Ordeal by boiling water, I. 258, 316; II.
-22,
-
-Original commentary, Introd. xxi. ; II. 41.
-
-Osaka Oho-nakatsu hime, I. 313, 328.
-
-Oshi ho mimi no Mikoto, I. 83.
-
-Oshikuma, Prince, I. 236, e¢ segq.
-
-Oshikuni oshi-take kanahi, II. 5.
-
-
-PAGODA IDE S102 r455122, 8100.
-
-Painting and painters, I. 350; II. 127,
-133, 140, 144, 187, 244, 265, 336.
-
-Pak Chésyang, I. 242,
-
-Panku, I. 28.
-
-Panphi, part of Corea, II. 9, 11, 13, etc.
-
-Paper, II. 140.
-
-Paper-mulberry fibre, I. 44.
-
-Parrots, II. 230, 251.
-
-Parturition house, I. 73, 94, 103, 277, 320.
-
-Peach, magical properties of, I. 30.
-
-Peacock, I. 230.
-
-Pearl, II. 27,34. See Nydi.
-
-Pekché, Kingdom of Corea, I. 231, 232,
-248, 249, 250, 257, 261, 263, 349, and
-frequently during the remainder of the
-work. Downfall of Pékché, II. 269, e¢
-SEQ.
-
-Pékché record, I. 248, 252, etc.
-
-Pepper Court, II. 28.
-
-Pestilence, I. 151 ; II. 67, 102, 104.
-
-Pestle and moitar, I. 189.
-
-Petroleum, II. 289.
-
-Phallic worship, I. 11, 77, 139.
-
-Phasa, King of Silla, I. 231.
-
-Pheasant, I. 65, 73, 90.
-
-Pheasant, white, an omen, II. 124.
-
-Phung-chhang(Pekché Prince), IT. 165, 184.
-
-Physicians, We aiss2 Ll a72, 2055 soce
-Medicine.
-
-Picnics, I. 388, 389, etc.
-
-Piebald colt of Heaven, I. 40, 45.
-
-
-Pit-dwellers, I. 71. See Muro.
-Pleiades, I. 69.
-Polar bear. See Bear.
-
-
-Polygamy, I. 118, 323.
-Portents, II. 148, 155, 180, 183, 186, 187,
-190. See Omens.
-
-
-| Posthumous honours, II. 323, and frequently after this.
-Posting, II. 206, 207.
-
-
-| Potters and pottery, I. 121, 155, 170, 350,
-
-
-2056; Lik
-Hanishi.
-
-Presents offered on branches, I. 192, 220.
-
-Priest, Emperor acting as, I. 225.
-
-Primogeniture, I. 110, 140, 273, 384; II.
-242.
-
-Prince, I. 142, 149.
-
-Punam, II. 48.
-
-Punishments, II. 234, e¢ passdm.
-
-Purgation, or purification, ceremony of, I.
-26, 31, 48, 49, 50, 224, 308; II. 96, 221,
-See Oho-harahe, Harahe.
-
-Purity, ritual, I. 41.
-
-Puyo, country of, II. 18.
-
-
-117. See Clay-workers,
-
-
-QUELPAERT. See Tamna.
-Quiver, I. 34. \
-
-
-RaIn of ashes, II. 346, 369.
-
-Rain, prayers for, Il. 174. 175, etc.
-
-Raitsui (stone weapons), I. 12.
-
-Rank, official, II. 127, 225, 228, 231, 368.
-See Cap-rank.
-
-Recorders, I. 307, 357.
-
-Red bird, II. 347, 351.
-
-Red crow, II. 337, 407, 409. See Yatagarasu.
-
-Red tortoise, IT. 352.
-
-Regalia, I. 76, 83, 307; II. 3, 33.
-
-Relics (Buddhist), II. 102, 117, 121.
-
-Religion. See » Buddhism, Mythology,
-Shinto.
-
-Retreat (religious), II. 360, 369, 398.
-
-Rice, creation of, I. 33.
-
-Rice-castle. See Inaki.
-
-Richiu Tenno, I. 301.
-
-Riddle, I. 396. See Conundrum.
-
-Right and left, precedence of, I. 16; II.
-
-
-te
-Risshi (Buddhist rank), II. 359, 416, etc.
-River-god, I. 22, 281, 299; Il. 174. See
-Midzuchi, Serpent-worship.
-Rock-cave of Heaven, I. 41-50.
-
-
-SA (honorific prefix), I. 3.
-
-Sachihiko (envoy to Corea), I. 252, etc.
-
-Sacred jars, I. 122, 130, 157.
-
-Sacrifices, I. 220, 228, 281; II. 174.
-Offerings.
-
-Sacrifices, human, I. 178, 181.
-
-Sadaijin, II. 196, 294.
-
-Saheki Be, I. 212.
-
-Sahohiko, I. 172.
-
-Saimei Tennd, II. 248-273.
-
-Saka (an acclivity), frequent in names of
-places. -
-
-Sakahe, Miwa no Kimi, II. 107, e¢ segq.
-
-Sakaki (sacred tree), I. 43, 47, 81, 219.
-
-Sake (rice-beer), I. 52, 56, 154, 244, 245,
-264; II. 166.
-
-Sakitsuya, I. 348.
-
-Sakyamuni. See Shaka.
-
-Salt-pans, I. 220, 268.
-
-Saniha, I. 225.
-
-Sarcophagus, I. 137 ; II. 285, 389.
-
-Sarume, I. 44, 76, 79.
-
-Saruta-hiko, I. 77.
-
-Scribes. See Recorders, Fumibito.
-
-Sea-gods, I. 22, 93, 95, 106.
-
-Sea monster, I. 61, 95, 08, 102.
-
-Seamstresses imported, I. 261, 269, 271,
-
-
-See
-
-
-Seimu Tenno, I. 214-2106.
-
-Seinei Tennd, I. 373-377.
-
-Senkwa Tenn6, II. 33-35.
-
-Sepulchral mounds, I. 72; II. 17.
-Misasagi, Haka, Tomb.
-
-Serfs, I.°388 ; II. 29, 30,°°'79, 87; 94, 178,
-206, 217, 327, 371; 431.
-
-
-See
-
-
-INDEX.
-
-
-Serpents, I. 52, 296, 299, 347.
-
-Serpent-worship, I. 158, 208, 299, 347.
-See Midzuchi.
-
-Seta, battle of, II. 314.
-
-Seven stars, II. 366.
-
-Shaka, II. 65.
-
-Shamon, II. 197, 241, etc.
-
-Shari. See Relics.
-
-Sheep, II. 124, 188.
-
-Shibi no Omi, I. 400, e¢ segq.
-
-Shields, I. 80, 155, 282; II. 395.
-
-Shiguma, II. 257. See Bear.
-
-Shihi-netsu-hiko, I. 111, 120, 121, 126.
-
-Shiho-tsu no oji, I. 92, 110.
-
-Shiki (rebel), I. 125.
-
-Shiki (Commentary on “ Nihongi ”),
-Introd. xiii. xix.
-
-Shiki tsu hiko tami demi. See Annei.
-
-Shikome (ugly woman of Yomi), I. 25.
-
-ShinjOsai (festival), I. 86.
-
-Shinto (religion), Introd. xii. xxiv. ; I.
-41, 433 Il. 106, 195, 293. See Mythology, Sun-goddess, Nakatomi, Imbe,
-Offerings, Wind-god, etc.
-
-Shinto priests, I. 56. See Hafuri.
-
-Shinto shrines, I. 58; II. 76.
-
-Shinra. See Silla.
-
-Shipping tax, IT. 69.
-
-Ships, I. 58, 161, 256, 268, etc.
-
-Shiraga take-hiro-kuni-oshi-waka-Yamatoneko, I. 373.
-
-Shiratori no Misasagi, I. 211.
-
-Shiri-kume-naha, I. 45.
-
-Shiro, a land measure, IT. 115, 205, 394.
-
-Shitenno, II. 114, 482.
-
-Shiten6ji, II. 115, 123, 150.
-
-Shogun, I. 156.
-
-Sholsiide 1,
-
-Shotoku Daishi, Introd. xiv ; II. 95, 107,
-114, 122, 133, 144, 148, 431.
-
-
-| Shrines, I. 1325; II. 318.
-| Shiich6 (year-period), II. 373, 379.
-
-
-Shikai (or Shuge) edition of ‘‘ Nihongi,”
-Introd. xx.
-Shuttle, I. 41.
-
-
-Signet (Imperial), I..314; II. 3. See
-Regalia.
-
-Silk, I. 166, e¢ ass¢m in Vol. II.
-
-Sillkewormyp ily -2ivegs4 oAvecaelll ew been ec
-
-
-Mulberry.
-
-Silla (Kingdom of Corea), I. 57, 166, 221,
-230, 231, 234, 249, 257, 269, 284, 295,
-315, 326, 349, 3543 II. 15, 18, 35, 38,
-and frequently after this.
-
-
-| Silver, II. 172, 325, 360, 387, 403, 404,
-
-
-405.
-
-Slaves. 2007 256.500, 4a, OA, 072i ey 4
-525093 LOO; mig; Wl5y el O2s6202,) 1220).
-221, 402.
-
-Smith-god, I. 81, 139.
-
-Snake-worship. See Serpent-worship.
-
-Sddzu, II. 153, 325, 359, 377 378.
-
-Soga family, II. 148, 189.
-
-Soga no Oho-omi, II. 73, 87.
-
-
-INDEX.
-
-
-Soga no Mumako, II. 90-119.
-
-So In-ko, II. 136.
-
-SOj6, II. 153. 359, 377) 378.
-
-Sonaka Cheulchi, I. 164, 166
-
-Sora (the void of Heaven), I. 4 83. 347.
-
-Sosa no wo (deity), I. 19, 28, 32, 34-59.
-
-Soto-ori-hime, I. 318.
-
-Soul, I. 263. ;
-
-South, Emperor faces, on official occasions,
-
-Spear, I. 44, 47; 155.
-
-Spelling, Introd. xxi.
-
-Spider, superstition regarding, I. 320.
-
-Spittle, I. 31, 48, 106.
-
-S’ramana, IT. 197.
-
-S’ramanera, II. 348.
-
-Star-god. See Kagase-wo.
-
-Stone implements, I. 189.
-
-Stone weapons, I. 87, 123, 169; II. 308.
-
-Stone worship, I. 1, 168, 183. See Idzushi.
-
-Storehouse, I. 184... See Miyake, Inaki.
-
-Suguri. See Sukuri.
-
-Suguroku (backgammon), IT. 395.
-
-Suicide. . See Junshi.
-
-Suiko Tenno, II. 121-156.
-
-Suinin Tenné, I. 165-187.
-
-Suizei Tenno, I. 138-141.
-
-Sajin Tenné, I. 150, 164.
-
-Sujun Tenno, II. 112-120.
-
-Sukuna-bikona (gcd), I. 59-63, 244.
-
-Sukune (title), I. 142, 236.
-
-Sukuri (title), I. 341; IL. 74.
-
-Sumera Mikoto, I. 109.
-
-Sumeru or Sumi, Mount, II. 144, 251, 259,
-265.
-
-Sumptuary Laws, II. 343, 350.
-
-Sun and moon, sex of, I. 28.
-
-Sunai (junior), II. 250.
-
-Sun-crow, I. 116. See Yatagarasu.
-
-Sun-goddess, I. 18, 20, 28, 32, 33, 41-49,
-73, 115, 151, 176, 3923 II. 95, 107, 307.
-
-Sun-mirror, I. 82, 168, 169. See Mirror.
-
-Superstitions, I. 325. See Comb, Spider,
-Child-birth, Spittle, Caterpillar, Fetish,
-Omens, Divination, Bed, Garlic, Incantations, Magic, Nails, Peach, Ordeal,
-Red animals, White animals.
-
-Surnames, origin of, I. 27, 204, 316. See
-Names, Titles.
-
-Susa no wo. See Sosa no wo.
-
-Sushén (Manchus), II. 58, 257, 260, 263,
-265, 335, 420.
-
-Sutras, IL. 65, 96, 133, 135, 170, 175, 240,
-241, 263, 265, 335, 346, 352, 371, 372;
-376, 378, 379, 403, 408, 413, 416, 421,
-422. See also Issaikio.
-
-Swan, I. 174.
-
-Sword, I. 35, 53, 87, 92, 115, 123, 162,
-153; GOOswlle sa,ecte:
-
-Syoko (King of Pékché), I. 247, 251.
-
-Syéng-mydng (King of ’Pekché), IL. 42, 43,
-66.
-
-
-TACHIBANA, I. 186.
-
-
-Tachibana no Toyohi. See Yomei Tenno.
-
-Tadzukai (office), II. 87.
-
-Tagishi mimi, son of Jimmu, I. 138.
-
-Tai (fish), I. 93.
-
-Taikyoku, II. 191.
-
-Tajihi no Midzuha-wake, I. 310.
-
-Tajima Mori (mission to fetch the orangetree), I. 186.,
-
-Takakuraji, I. 115.
-
-Takama no hara (plain of High Heaven), I.
-16, 33, 83, 133-
-
-Takama no hara hiro-nu no hime. See
-Jito.
-
-Taka mi musubi (god), I. 5, 64, 81, 86, 90,
-IIO, 122, 392.
-
-Takayasu, castle of, II. 290, etc.
-
-Take (brave), I. 64, frequent in names.
-
-Takechi (Prince), II. 309, e¢ segg.
-
-Takechi no Sukune (statesman), I. 200,
-DU lee2h 22276280; 245, 2A on 2h 7204,
-Sivas ullane:
-
-Take ha dzuchi (god), I. 70.
-
-Take-hani-yasu-hiko (rebel), I.
-Seqq.
-
-Take-mika-dzuchi (deity), I. 68, 115.
-
-Take-wo-hiro-kuni oshi-tate. See Senkwa.
-
-Taku-hata, I. 341.
-
-Talsol (Corean title), II. 98, 283.
-
-Tama (jewel, spirit), frequent in names.
-
-Tama-boko (jewel-spear of Heaven), I.
-Te
-
-Tama-yori-hime, I. 94, 104, 108.
-
-Tamna, II. 6,271, 284, 286, 290, 323, etc.
-
-Tan, land measure, II.208; cloth measure,
-II. 200.
-
-Tanegashima (island), II. 336, 344, 352,
-356, 359, 418.
-
-Tanka (poetry), I. 91, etc.
-
-Tankun, legend of, II. 77.
-
-Tanners, I. 397.
-
-Tarashi-naka-tsu hiko.
-
-Targets, I. 282.
-
-Tasuke (shoulder straps or braces), I. 44.
-
-‘l'atami (mats), I. 325.
-
-Tatemono, I. 181.
-
-Tattooing, I. 200, 305.
-
-Taxation, I. 160, 365; II. 68, 208, 209,
-225, etc.
-
-Temmu Tenn, II. 301-381.
-
-Temples (Buddhist), II. 67, 101, 111, 341,
-346, etc.
-
-Temples of the Earth and Grain, Introd.
-XVAs spel elspgneLce
-
-Tenchi Tenno, II. 274-300.
-
-Tendoku (mode of reading ‘Sutras), II.
-
-
-156, e¢
-
-
-See Chiuai.
-
-
-175.
-
-Tengu (celestial dog), II. 167.
-
-Tennd (Emperor), I. 109, 234.
-
-Tenndji, temple of, II. 115, 296.
-
-Tenshddaijin. See Sun-goddess.
-
-Tera (temple), II. 122, 123.
-
-Thang (China), II 136, 145, 150, 165,
-166, 242, 245, 260, 280, 298, 393, etc.
-
-
-Three Buddhist garments, II. 203. See
-Kesa.
-
-Three-legged crow, Il. gee
-garasu.
-
-Three- legged sparrow, II. 359.
-
-Three precious things, II. 104, 109, 123,
-129, 149, 337, 377-
-
-‘Thunder-god, I. 29, 115 ; sat lly SYSS
-Take-mika-dzuchi.
-
-Tidal wave, II. 366.
-
-Tiger stories, II. 60, 190.
-
-Tiles, II. 164.
-
-
-See Yata-
-
-
-Titles; 1:,.2%,.4755, 316% Tl. 201,- 225-228,
-
-
-361, 364.
-
-Tohe or tobe, I. 114, 129.
-
-Tok) 1. 354:
-
-Aon JUSS.
-
-Tokaido, I. 155.
-
-Tokibe (magistrates), II. 396.
-
-Tokni, II. 100.
-
-Tokoyo or tokoyo no kuni (Eternal Land),
-I. 42, 60, 114,176, 186, 368; I1- 188,
-
-
-Tons, J, 159, 180, 213 ; Il. 17, 145, 162,
-178, 193, 217, 242, 292. See Misasagi.
-
-Tomo, I. 254.
-
-Tomoye, I. 34.
-
-Toneri (chamberlain), I. 319, 359, 395, etc.
-
-Toneri (Prince), Introd. xiii.
-
-Tortoise-shell (used in divination), I. 152.
-
-Toyo (rich, abundant) ; frequent in proper
-names.
-
-Toyo (province of oe EIS isa
-
-Toyo-ata-tsu hime, I. 91.
-
-Toyoki no Mikoto. L A
-
-Toyo-kumu-nu (deity), I
-
-Toyo-kuni nushi (deity), t
-
-Toyo-mike-kashikiya. See Suiko.
-
-Toyo-tama-hime, I. 93-108.
-
-Treasury, I. 309, 373 ; IIL. 37.
-
-Tree-god, I. 22.
-
-Trees created, I. 58.
-
-Tribute to Japan from Corea, I. 231, 296,
-et passin.
-
-Tribute from Japan to China, I. 245.
-
-Tripitaka, II. 322. See Issaikio.
-
-Triratna, II. 104 See Three precious
-things.
-
-T’sin (Chinese dynasty), T38:
-
-Tsu (archaic genitive particle), frequent in
-proper names.
-
-Tsuchi (in names of deities), ‘ By vile
-
-bai ae a (pit-dwellers), I. 129,
-195, 198.
-
-Tsuchi-ningio, I. 181.
-
-Tsuki-yomi no Mikoto. See Moon-god.
-
-Tsukushi, I. 13, 109, 112, 192, etc.
-
-Tsumori no Muraji, Il. 49.
-
-Tukhara, in India, II. 246, 259, 266.
-
-Tumulus. See Tomb, Misasagi, Sepulchral mound.
-
-Tyénchi (Corean Prince), I. 263.
-
-
-194,
-
-
-Usuya. See Parturition house.
-
-
-INDEX.
-
-
-Udaijin, II. 196, 294.
-
-Uji (noble House), I. 27, 316; II. 143,
-190, etc.
-
-Uji no waka-iratsuko, I. 171, 276.
-
-Ukemochi no Kami. See I*ood-goddess.
-
-Ukeshi, I. 117, 120.
-
-Ullambana, II. 230, 251, 263.
-
-Umashi-ashi-kabi, [. 4.
-
-Umbilical cord, superstition regarding, I
-85.
-
-Uneme (palace waiting-women), I. 292,
-304, 326. 345; Il. 31, 209.
-
-Unicorn, II. 239.
-
-Unseen trade, II. 264.
-
-Upasaka, II. 372.
-
-Upashaya, II. 377. .
-
-Urabe (diviners), II. 102.
-
-Urashima, legend of, I. 368.
-
-Ura ele235;
-
-Urosohorichiu, I. 234.
-
-Urushi. See Lacquer.
-
-Usu (mill), I. 189.
-
-Utagaki (poetical tournament), I. 400.
-
-Uzu (ornament), II. 128. See Hair
-ornaments.
-
-Uzume no Mikoto, I. 44, 50, 77.
-
-
-VENUS (planet), I. 69.
-
-Vimokcha, II. 60.
-
-Vinaya. II. 96.
-
-Void of Heaven. See Sora.
-
-Wa (name for Japan), I. 242, 245; II. 72,
-137, 303, etc.
-
-Wagtail, I. 17.
-
-Waka (young), frequent in proper names.
-
-Waka-hiru-me no Mikoto, I. 45, 237.
-
-Waka-yamato-neko-hiko-oho-hihi, I. 148.
-
-Waka-tarashi-hiko, I. 214.
-
-Wake (Prince), I. 190, 192 ; IT. 206.
-
-Wangin or Wani (Corean scholar), Introd.
-leis e202; 620G>
-
-Wani (sea-monster), I. 61, 156, 262.
-
-War-god. See Hachiman.
-
-Watarisbima (Yezo), II. 252, 264.
-
-Watchword, II. 313.
-
-Water deity, 22; °209,, sSee Midzuhanome.
-
-Water-level, II. 296.
-
-Water-snake, I. 299. See Serpent-worship.
-
-Weavers, Corean, I. 265, 270.
-
-Weaver-god, I. 70.
-
-Weaving, I. 41, 45, 90, 183, 265, 291, 350,
-363, etc.
-
-Weaving maiden (a star), I. 75.
-
-Wet-nurses, I. 104.
-
-Wheat, I
-
-White animals (favourable omens), I. 297;
-DI T2An iA, 236.287, 230; 62525, 6250;
-322, 326, 352, 394, 410, 416.
-
-Wind-deities, I. 22,230; II. 328, etc.
-
-Witchéraft, I. 60; II. tro, 187, Igo.
-See Magic, Incantation.
-
-Wo-asatsuma wakugo no Sukune, I, 312.
-
-
-INDEX.
-
-
-Wobashira, I. 11, 24.
-
-Wohodo. See Keidai Tenno.
-
-Woke. See Kenzo Tenno.
-
-Wokera (drug), II. 372, 373.
-
-Wolves, II. 36.
-
-Women as rulers, I. 194; position of, I.
-330; 400.
-
-Woollen carpets, II. 73.
-
-Wosada nunakura futodamashiki, II. 38.
-
-Wo-usu, I. 188. See Yamato-dake.
-
-Wrestling, I. 173.
-
-Writing, Introd. xi. xvii.; I. 262.
-
-Wu (in China), I. 265, 269, 271, 296, 347,
-Byey Fees SGCME@, Inte.
-
-
-YAHATA, I, 271.
-
-Yakabe (Prince), II. 112.
-
-Yaku (island), II. 146, 147, 164.
-
-Yakushi (Buddhist deity), II. 348, 376,
-393-
-
-Yama (mountain), frequent in names.
-
-Yama (Indian God), I. 24.
-
-Yamashiro (Prince), II. 156, 182.
-
-Yamato (province), I. 1, 13, 109, etc.
-
-Yamato-dake (Prince), I. 189, 200, ef segq.
-
-Yamato-neko, I, 146; II. 210.
-
-Yamato no Oho-kuni-dama, I. 151.
-
-Yamato-tarashi-hiko-kuni-oshi-bito, I. 145.
-
-Yanasa, II. 53.
-
-ae gem, I, 34, 35, 38,43, 49, 76, 81,
-184.
-
-
-| Yashiro (shrine), I. 82.
-| Yasumaro, Introd. xiii. xiv.
-
-
-Yata, Princess, I. 285.
-
-Yatagarasu, I. 44, 52, 115, 125, 134; II.
-2Bi.
-
-Yatakagami, I. 43.
-
-Yatsu, I. 52.
-
-Yebisu. See Yemishi.
-
-Yemishi or Ainos, I. 109, 124, 159, 200,
-202) 202,-200; 212) 214, 200,8977.5) LL,
-38, 96, 168, 176, 209, 249, 252, 254,
-259, 260, 262, 289, 354, 355, 389-
-
-Yemishi (Prime Minister), If. 157, 171,
-17S, eOl, 1020227.
-
-Yellow springs, I. 24; II. 45, 233.
-
-Veta. See Eta.
-
-Yin and Yang, I. 1 ; II. 223, 295.
-
-Yo6chhyang (Corean Prince), II. 70, 75,
-
-
-See Mirror.
-
-
-77:
-Yogi, II. 96.
-Yomei Tenné, II. 106-111.
-
-
-(i) WOmUsOr MbLadesm Iowa) 20. -20.9sisn 50,
-
-
-69.
-
-Yoshino, I. 119.
-
-Yoshino, Palace of, frequently in Book
-XXX.
-
-VYorodzu, prowess of, IL. 115.
-
-Yoshino (Prince), II. 197, 204.
-
-Yu-be, II. 21.
-
-Yufu (tree fibre), I. 81.
-
-Yuniha, I. 41, 83, 86.
-
-Yiriaku Tenno, I. 333-372.

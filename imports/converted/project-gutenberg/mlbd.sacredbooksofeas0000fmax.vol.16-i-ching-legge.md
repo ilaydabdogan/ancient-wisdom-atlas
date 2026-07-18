@@ -1,11 +1,3 @@
-# The Yi King (I Ching) (Sacred Books of the East, Vol. 16)
-CONBEN TS
-
-
-FAGE
-
-
-PREFACE . : 2 : : : : : : : . xi
 INTRODUCTION.
 CHAP,
 I. THE Yt KING FROM THE TWELFTH CENTURY B.C. TO
@@ -663,7 +655,7 @@ OR
 BOOK OF CHANCES.
 
 
-T HE<Vtd NG
+T HE(Vtd NG
 
 
 OR
@@ -933,7 +925,7 @@ or perhaps that it was begun in the former year and finished
 in the latter’.
 
 But the part which is thus ascribed to king W4n is only
-a small portion of the Yi. <A larger share is attributed to
+a small portion of the Yi. (A larger share is attributed to
 his son Tan, known as the duke of K4u, and in it we have
 allusions to king Wi, who succeeded his father Wan, and
 was really the first sovereign of the dynasty of Kau’.
@@ -1747,7 +1739,7 @@ introductory chapter to his History of England, ‘ Every man
 was regimented somewhere.’
 
 The hexagram Sze is composed of the two trigrams
-Khan (=>) and Khwan (= =), exhibiting waters
+Khan (=)) and Khwan (= =), exhibiting waters
 collected on the earth; and in other symbolisms besides
 that of the Yi, waters indicate assembled multitudes of
 men. The waters on which the mystical Babylon sits in
@@ -2257,7 +2249,7 @@ zs é é so3 =
 4 in che -
 Oa
 S S.E. E N.E S.W. WwW N.W. N,
-a0 -e & o és > & = tb nw
+a0 -e & o és ) & = tb nw
 2a pos 4% wa 8 £9 5 a 25
 ‘& .. 5 a0 §4 £ a, i e =F as
 ~ J YA— a o 5 to Pom» — ~@ = 4
@@ -2490,7 +2482,7 @@ The fifty-ninth hexagram, called Hwan ===, is formed
 
 
 by the trigrams Khan ===, representing water, and
-Sun =>}, representing wind, and it is said on it:—
+Sun =)}, representing wind, and it is said on it:—
 ‘(The symbol of) water and (that of wind) above it form
 Hwan. The ancient kings, in accordance with this, presented offerings to God, and established the ancestral
 temple. The union of the two trigrams suggested to
@@ -2504,7 +2496,7 @@ religion.
 One more example. The twenty-sixth hexagram, called
 
 
-Ta KA =, is formed of the trigrams Khien, representing heaven or the sky, and Kan == =>, representing a
+Ta KA =, is formed of the trigrams Khien, representing heaven or the sky, and Kan == =), representing a
 mountain, and it is said on it :—‘(The symbol of) heaven in
 the midst of a mountain forms T4 A #0. The superior man,
 in accordance with this, stores largely in his memory the
@@ -3571,7 +3563,7 @@ alll lhl
 
 Wh th
 
-> ill lll:
+) ill lll:
 |
 
 Ms =f
@@ -3706,7 +3698,7 @@ divided lines, sjx.
 
 Two explanations have been proposed of this application of
 these numbers. The X4ien trigram, it is said, contains 3 strokes
-(==>), and the Khwan 6 (== =). But the yang contains
+(==)), and the Khwan 6 (== =). But the yang contains
 the yin in itself, and its representative number will be 3+6=9,
 while the yin, not containing the yang, will only have its own
 number or 6. This explanation, entirely arbitrary, is now deservedly
@@ -6776,8 +6768,8 @@ With regard to the idea of husband and wife being in the teaching of the hexagra
 of the eight trigrams ascribed to king Wan, and exhibited on p. 33
 and plate IIJ. The more ancient usage of them is given in the
 paragraph on the Great Symbolism of Appendix II. The figure
-consists of Kan (===>), ‘the youngest son,’ and over it Tui
-(===>), ‘the youngest daughter.’ These are in ‘happy union.’
+consists of Kan (===)), ‘the youngest son,’ and over it Tui
+(===)), ‘the youngest daughter.’ These are in ‘happy union.’
 
 
 SECT. II, THE HANG HEXAGRAM. 125
@@ -8715,7 +8707,7 @@ SECT, II. THE KO HEXAGRAM. 167
 
 
 _--_
-_--_——————— >.
+_--_——————— ).
 
 
 XLIX. Tue Ko Hexacram.
@@ -9355,7 +9347,7 @@ an illustration of an important event taking place with various
 
 
 SECT, II, THE KWEI MEI HEXAGRAM. 181
-<~isteapibanieaesesnineniasen ui RS ne
+(~isteapibanieaesesnineniasen ui RS ne
 
 
 1. The first line, undivided, shows the younger
@@ -11045,7 +11037,7 @@ lines of the lower trigram there be made to change places, there
 ” The reader will see that if the second and third
 
 
-results ===>, or Sung. The doctrine of changing the figures by
+results ===), or Sung. The doctrine of changing the figures by
 
 
 the manipulation of the stalks did spring up between the time of
@@ -13671,7 +13663,7 @@ but the sash was merely an appendage of the robe.
 T 2
 
 
->. ‘He is in the midst of the host, and there will
+). ‘He is in the midst of the host, and there will
 be good fortune:’—he has received the favour of
 Heaven. ‘Theking has thrice conveyed to him the
 orders (of) his favour:’—(the king) cherishes the
@@ -13717,7 +13709,7 @@ way Thien here is equal to Thien wang, so frequent in the
 ‘Spring and Autumn,’ and meaning —‘King by the grace of
 
 
-<r—rctieiateliliaeiainnieseeanie ia
+(r—rctieiateliliaeiainnieseeanie ia
 
 VIII. (The trigram representing) the earth, and
 over it (that representing) water, form Pi. The
@@ -17431,7 +17423,7 @@ Wan arrangement. ‘Thunder’ stands for kin (S=_==), ‘lightning’ for li (=
 
 
 khan (===). ‘The sun,’ however, is also an emblem of Ii,
-and ‘the moon’ one of kan (=="=>), generally said to represent
+and ‘the moon’ one of kan (=="=)), generally said to represent
 ‘mountains,’ while tui (== ==), representing ‘collections of
 water, has no place in the enumeration. AQ Hs? says that in
 paragraph 3 we have the natural changes seen in the phenomena
@@ -18470,7 +18462,7 @@ geometrical progression with the ratio of 2, while the lines of the
 figures form an arithmetical progression with the common difference of 1. This is quite plain after ‘the two elementary forms
 ( and —— — )’ have been made. They give birth to ‘the
 four emblematic symbols,’ each of two lines ( : :
-==>, = = known, in this order, as the Grand or old Yang,
+==), = = known, in this order, as the Grand or old Yang,
 the young Yin, the young Yang, and the Grand or old Yin). By
 the addition to each of these symbols first of the yang line, and
 then of the yin, there arise the eight trigrams, each of three lines ;
@@ -19060,10 +19052,10 @@ Chapter IV, paragraphs 28-30. Of the distinction of the trigrams
 into Yang and Yin.
 
 The trigrams that contain only one undivided line —4an
-—=_=>), khan (==), and kan (=="==) — are called Yang.
+—=_=)), khan (==), and kan (=="==) — are called Yang.
 The undivided line is called ‘the lord’ in them. It is just the
 opposite with the Yin trigrams, in which “a are two undivided
-lines, and one divided,—sun (SS), li (=>), and tui
+lines, and one divided,—sun (SS), li (=)), and tui
 =). These together constitute the ‘six children,’ or ‘ three
 
 
@@ -20491,7 +20483,7 @@ i, 51. That manipulation, thrice repeated, might leave three stalks
 each time, and 3 x 3=9; or 2, being in the same way in all=6; or
 twice 3 and once 2=8; or twice 2 and once 3=7. These are
 the numbers of the 4 binary symbols, employed in forming the new
-figures ; , the old yang,=9; ===>, the young yin,=8;
+figures ; , the old yang,=9; ===), the young yin,=8;
 ———, the young yang,=7; and == =, the old yin,=6.
 
 

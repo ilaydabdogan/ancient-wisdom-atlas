@@ -1,0 +1,2926 @@
+# The Ritual and Significance of the Winnebago Medicine Dance
+
+             THE RITUAL AND SIGNIFICANCE OF THE WINNEBAGO
+                            MEDICINE DANCE
+
+
+                             BY PAUL RADIN
+
+          DISSERTATION SUBMITTED IN PARTIAL FULFILMENT OF THE
+          REQUIREMENTS FOR THE DEGREE OF DOCTOR OF PHILOSOPHY
+                     IN THE FACULTY OF PHILOSOPHY,
+                         COLUMBIA UNIVERSITY.
+
+
+Reprinted from THE JOURNAL OF AMERICAN FOLK-LORE, Vol. XXIV, No. XCII,
+                           April–June, 1911
+
+
+                           TO THE MEMORY OF
+                           EVELYN R. BRESLER
+
+
+  [Reprinted from THE JOURNAL OF AMERICAN FOLK-LORE, Vol. XXIV., No.
+                       XCII., April–June, 1911.]
+
+
+      THE RITUAL AND SIGNIFICANCE OF THE WINNEBAGO MEDICINE DANCE
+
+                             BY PAUL RADIN
+
+
+                               CONTENTS
+
+
+                                                                    PAGE
+
+  A. DESCRIPTION OF THE RITUAL OF THE WINNEBAGO MEDICINE DANCE       149
+
+    I. Organization of the Bands                                     150
+
+   II. Prescribed Duties of the Bands                                151
+
+  III. Division of the Ceremony                                      153
+
+   IV. Types of Component Elements of the Ceremony                   154
+
+        1. Types of Speeches                                         154
+        2. Types of Songs                                            156
+        3. Types of Action                                           156
+        4. Types of Ritual                                           156
+
+    V. Ceremony as a Whole                                           161
+
+  B. DESCRIPTION OF THE OJIBWA MIDE′WIWIN                            165
+
+  C. DESCRIPTION OF THE MENOMINEE MIDE′WIWIN                         167
+
+  D. THE SIGNIFICANCE OF THE RITUAL                                  168
+
+    I. The Common Elements                                           168
+
+   II. The Interpretation of the Common Elements—Schurtz’s Theory    169
+
+  III. The Shooting Ritual                                           175
+
+   IV. The Initiation Ritual                                         179
+
+    V. The General Ceremony                                          186
+
+   VI. The Complete Ceremonial Complexes                             188
+
+  VII. Résumé and Conclusion                                         198
+
+
+        A. DESCRIPTION OF THE RITUAL OF THE WINNEBAGO MEDICINE
+                               DANCE[1]
+
+
+The Medicine Dance is a society, admission into which is gained by
+purchase. The Winnebago suppose it to be a repetition of a ceremony
+originally instituted by the Rabbit, when he initiated the first man
+into its secrets. The society consists of five bands, which, during the
+ceremony, are known respectively as the Ancestor-Host’s, the East,
+North, West, and South Bands. These five bands are also known by the
+names of their leaders. Any band may act as host, and the position of
+the others in the lodge is dependent on the order in which they are
+invited by the band acting as host. It thus follows that each band must
+know the entire ceremony of the society.
+
+I. ORGANIZATION OF THE BANDS.—For purposes of description it will
+be best to divide each band into three parts,—the leader, his two
+assistants, and the rest of the band. Leadership depends upon
+a thorough knowledge of the ceremony and its complete esoteric
+significance, which is in the possession of only one individual in each
+band. This knowledge can be obtained solely by purchase and religious
+qualifications. These religious qualifications, to which might be added
+moral as well, play little part at the present day, but there can be no
+doubt that they were essential in the past. The leader likewise often
+possessed other characteristics, such as those of warrior and shaman,
+but they were not essential for his position.
+
+The two assistants were generally men who had purchased sufficient
+information and privileges to entitle them to help the leader in
+certain details of the ceremony. The drummers, rattle-holders, dancers,
+etc., were always recruited from their ranks. Eventually they became
+the leaders. Those who were neither leaders nor assistants possessed
+a knowledge varying from that of elementary information, required for
+admission, to such as would entitle them to the position of assistant.
+
+There is a priority of position in the lodge depending on priority of
+invitation. The band invited first, occupies the east position; that
+invited second, the north; that invited third, the west; and that
+invited fourth, the south. The east is the position of highest honor;
+the south, that of the lowest. Between the bands, there exists an order
+of invitation based on tradition, the exact nature of which is unknown.
+According to one informant, if one band invited another, the latter in
+turn would be obliged to give it the position of honor; but as there
+are five bands, this can apply only to special cases. Whatever may be
+the order, it is certain that each band has ample occasion to occupy
+all five positions.
+
+There are two ways in which a man can join the Medicine Dance. He
+may simply apply for admission to any of the five leaders, or he may
+take the place of a deceased relative. In the former case, if his
+payment is satisfactory, and he has the other qualifications, he is
+accepted. In the other case, he or his relatives decide to have him
+take the place of a deceased relative. This latter form of candidacy
+is by far the commoner. At the present day, initiation requires the
+payment of about three hundred or four hundred dollars, in the form of
+goods and tobacco. Of this, a portion is given to the leader of the
+Ancestor-Host’s Band during the Four Nights’ Preparation, and the rest
+to the leaders of the other four bands during the ceremony proper.
+
+Exactly how much information an individual obtains on entering, cannot
+be determined. This would depend on the amount of the payment. The
+minimum of knowledge would be an acquaintance with the bare externals
+of the ceremony, its general significance, and such knowledge of the
+legendary origin of the Lodge as a single recital could give. The new
+member is not initiated into the symbolism of the ritualistic myths,
+and consequently a large portion of the same must be unintelligible
+to him. What he obtains is practically only the right to hold the
+otter-skin bag and to use it in a certain way. He cannot take part in
+any of the forms of dancing or singing, nor can he even shoot at will.
+He very rarely remains in this condition long, but takes the first
+opportunity to purchase additional knowledge and privileges.
+
+There are three kinds of members,—mature men, women, and children. The
+privileges of women differ from those of the men, in that the women do
+not have to partake of the sweat-bath, may never become assistants, and
+are privileged to dance in a certain way. In other respects they have
+equal privileges with men. In practice, there are certain privileges
+that women never have, but this is due to the fact that either they do
+not care or they are not in a position to buy them. Children belong to
+a quite different category. Although they possess an otter-skin, they
+have not even the power of making it effective, and, in order to do so,
+must have it guided by some older member. There does not seem to be any
+evidence indicating that women were ever excluded from membership.
+
+II. PRESCRIBED DUTIES OF THE BANDS.—The duties of the
+host, who is known as x’okera,[2] and whose band is called
+Minañk‘ara-k‘oñañgire′ra,[3] are as follows:
+
+1. To rehearse the songs and rituals with his band four nights
+previous to the ceremony proper. At this rehearsal the candidate
+(haⁿbirok‘aragu′-inera, literally “the one for whom they seek life”) is
+always present, and instructed in the ceremony.
+
+2. To send out invitation-sticks and tobacco to the leaders of the
+other four bands. The messengers are always his sisters’ sons.
+
+3. To begin the Four Nights’ Ceremony preceding the ceremony proper.
+
+4. To receive the leaders and assistants of the other four bands before
+the sweat-lodge ritual, and to begin the same.
+
+5. To begin the ceremony proper.
+
+6. To take part in the following portion of the ceremony proper.
+
+(_a_) To welcome the four bands.
+
+(_b_) To lead the candidate to the secret brush and instruct him in
+certain precepts.
+
+(_c_) To act as preceptor of the candidate before he is shot with the
+sacred shell.
+
+(_d_) To turn the candidate over to the charge of the leaders of the
+East and North Bands.
+
+(_e_) To relate certain of the myths.
+
+(_f_) To deliver certain speeches and to perform certain actions that
+constitute the basic ritual of the ceremony proper. This will be
+discussed later.
+
+The East Band is known as Tconi mina′ñgera (Those-who-sit-first),
+Hanⁿp‘ogu homina′ñgere (Where-the-day-comes-from), Wiayephuregi
+(Where-the-sun-rises). All these terms are used frequently. The duties
+of the leader are—
+
+1. To assist the ancestor-host in passing upon the eligibility of a
+candidate.
+
+2. To take part in the following portions of the ceremony proper.
+
+(_a_) Accompanied by his two assistants, to take part in the brush
+ritual.
+
+(_b_) To take charge of the candidate after he has been handed over to
+him by the ancestor-host.
+
+(_c_) To shoot the sacred shell into the candidate’s body.
+
+(_d_) To relate certain of the myths.
+
+(_e_) To perform the basic ritual.
+
+The North Band is known as Siniwagu mina′ñgera
+(Where-the-cold-comes-from). The leader has the same duties as those of
+the East leader. The myths recited are of course different.
+
+The West Band is known as Wioi′rê mina′ñgera (Where-the-sun-goes-down).
+The leader has the duty of reciting certain myths and performing the
+basic ritual.
+
+The South Band is known as Nañgŭojedjaⁿ minañgera
+(He-who-sits-at-the-end-of-the-road) or Horotcû′ñdjeregi
+(Where-the-sun-straightens). The duties of the leader are the same as
+those of the leader of the West Band, except that the myths he recites
+are different.
+
+The distribution of the gifts to the different bands is the following:
+
+The leader of the East Band receives one-half of the number of
+blankets, the upper half of the new suit worn by the candidate, and
+one-quarter of the food.
+
+The leader of the North Band receives one-half of the blankets, the
+lower half of the suit, the moccasins, and one-quarter of the food.
+
+The leaders of the West and South Bands receive each three yards and a
+half of calico and a fourth of the food.
+
+The ancestor-host receives various gifts of food and tobacco from the
+leaders of the other bands. He receives his payment from the candidate
+before the ceremony proper.
+
+The candidate is present at the Four Nights’ Ceremony of the
+ancestor-host’s band preliminary to the ceremony proper. At the latter
+ceremony he sits to the right of the ancestor-host’s band. He is not
+dressed in his new suit until after the secret ceremonies in the brush.
+
+There are facial decorations distinctive of the different bands. The
+host’s band and the candidate paint a blue circle on each cheek, but
+its significance is unknown to me.
+
+The regalia used are simple and few. They consist of eagle, hawk,
+squirrel, weasel, beaver, and otter skin bags, a drum, gourd rattles,
+and invitation-sticks. The otter-skin bags are always beaded and
+contain the sacred shell and various medicines. A few red feathers are
+always inserted in the mouth of the otter-skin bag. The gourds contain
+buck-shot at the present day. They are painted with blue finger-marks.
+
+III. DIVISION OF THE CEREMONY.—The Medicine Dance is divided into five
+well-marked parts. The first part (I) consists of the Two Nights’
+Preparation preceding the sending-out of the invitation-sticks. This
+takes place at the home of the ancestor-host (x’okera), in the presence
+of the members of his band and the candidate. The second part (II)
+consists of the Four Nights’ Preparation preceding the sweat-lodge
+ritual. Each band has its own Four Nights’ Preparation, although that
+of the ancestor-host begins before the others. The third part (III)
+consists of the rites held in a sweat-lodge specially constructed
+for this purpose near the medicine-lodge, on the morning after the
+Four Nights’ Preparation. The participants are the ancestor-host; the
+leader of the East, North, West, and South Bands, each with his two
+assistants; and the candidate. The fourth part (IV) consists of the
+ceremony proper, which in turn must be divided into the night ceremony
+(_a_) and the day ceremony (_b_). The fifth part (V) consists of the
+rites held in the brush, at which the secrets of the society are
+imparted to the candidate. Special guards are placed on all sides of
+the brush to prevent the intrusion of outsiders. The participants are,
+beside the candidate, the ancestor-host, the leaders of the East and
+North Bands, each with his two assistants, and all other individuals
+who have bought the privilege of attending. These ceremonies take place
+at the dawn preceding the day ceremony.
+
+Two feasts and one intermission interrupt the main ceremony. The
+feasts always take place at the end of the ritual of the East Band;
+i. e., generally at noon and at midnight. The intermission generally
+lasts from the dawn preceding the day ceremony until 7 or 8 A. M. The
+intermission begins as soon as the drum and gourds have been returned
+to the ancestor-host, and ends as soon as the people return from the
+brush ritual.
+
+The first and second parts are concerned entirely with a recital
+of certain ritualistic myths, and a rehearsal of the songs and the
+specific ritual of each band, used during the remaining parts.
+
+IV. TYPES OF COMPONENT ELEMENTS OF THE CEREMONY.—For purposes of
+greater clarity, the speeches, songs, and types of action, will
+be carefully differentiated, and referred to by some designation
+characterizing their essential traits. These speeches, songs, and types
+of action, together form complexes which can be regarded as units, and
+I will therefore also refer to these by some designation characteristic
+of their function.
+
+1. _TYPES OF SPEECHES._ (1) _Salutations._—No formal salutation is
+used during Parts I and II, the individuals being addressed by their
+relationship terms. In Parts III, IV, and V the salutations are
+invariably the same. The ancestor-host and his band are addressed as
+follows: “The-one-occupying-the-seat-of-a-relative (deceased) (some
+relationship terms) -and-you-who-sit-with-him, I salute you!” The East
+is addressed, “You-who-represent-the-place-where-the-sun-rises;” the
+North, “You-who-represent-the-place-where-the-cold-comes-from;” the
+West, “You-who-represent-the-place-where-the-sun-sets;” and the South,
+“You-who-represent-the-place-where-the-sun-straightens” or (preferably)
+“You-who-represent-the-end-of-the-road.”
+
+The appellations of the bands, as before stated, refer to the creation
+myth and the four guardian spirits whom the Rabbit visited for the
+purpose of inquiring into the necessity and meaning of death. He was
+compelled to travel around the earth, which is conceived of as an
+island, and received no answer until he came to the spirit at the end
+of the road. In the dramatic performance of the medicine dance the
+lodge typifies the earth, and the four bands and their leaders typify
+the four spirits. The ancestor-host’s band typifies the ancestor of
+the Winnebago, their leader being known as x’okera (literally “root,”
+metaphorically “ancestor”).
+
+(2) _Speeches._—Under this head will be treated (_a_) speeches of
+welcome; (_b_) speeches of acceptation; (_c_) speeches of presentation;
+(_d_) speeches explanatory of the significance of the ritual; and (_e_)
+speeches of admonition, addressed exclusively to the candidate. This
+does not exhaust all the speeches. There are many others, generally
+short, that can hardly be classified. It must be understood that
+in their content, as well as in the order of their succession, the
+speeches must follow a traditionally determined sequence. In practice
+this is certainly not always true, but to the mind of the Winnebago
+these speeches appear as old as the ceremony. It is their firm belief
+that any departure from the accepted norm will interfere with the
+efficacy of the ceremony.
+
+(_a_) Speeches of Welcome.—When the leader of the East Band enters
+after the ancestor-host has begun the main ceremony (IV, _b_), he
+addresses him as follows: “It was good of you that you condescended to
+invite me to this dance. I am a poor pitiable man, and you believed me
+to be a medicine-man. But I know that you will show me the true manner
+of living, which I thought I possessed, but which I did not.” In this
+strain he continues, weaving into his speech references to the ritual
+connected with his band, and giving words of thanks for the beautiful
+weather (should it be a clear day). In concluding, he thanks all again,
+and informs them that he will sing a song. With slight alterations, the
+leaders of the other bands address the ancestor-host similarly. The
+ancestor-host’s answer of welcome is as follows: “Whatever I desired,
+you have done for me. All night have you stayed with me, and by your
+presence helped me in the proper performance of this ceremony. I am
+ready with a dancing-song; and when I have finished it, and sit down, I
+shall pass unto you tobacco and the other means of blessing (the gourds
+and the drum). You all, who are present, do I greet.”
+
+(_b_) Speeches of Acceptation.—After the ancestor-host has been
+presented with food, he thanks the donors as follows: “You have had
+pity on me. You have been good to me, and have given me to the full
+whatever I might have desired. You have made my heart full of the
+blessing of thankfulness. In return I give you a blessing. Here is
+some food for you. It is not anything special, nor is it as much as it
+ought to be, and I know you will remain hungry. It was prepared for the
+spirits of the four quarters (whom you represent), but it is lacking in
+all those qualities which would have made it acceptable to them. Such
+as it is, however, may its presentation be a means of blessing to you!”
+
+(_c_) Speech of Presentation.—East presents the food to the
+ancestor-host with the following words: “I have not very much to tell
+you, because I am too poor, but our ancestors told us to give food to
+you. This little that I give you is all that I can do, being a person
+of so little importance.”
+
+(_d_) Explanatory Speeches.—These are of so specific a nature that no
+single one can be considered typical.
+
+(_e_) Speeches of Admonition.—“Nephew, now I shall tell you the path
+you must walk, the life you must lead. This is the life the Rabbit
+obtained for us. This is the only kind of life, this that our ancestors
+followed. Listen to me. If you will always help yourself, then you will
+attain to the right life. Never do anything wrong. Never steal, never
+tell an untruth, and never fight. If you meet a woman on the left side
+of the road, turn to the right. Never accost her, nor speak familiarly
+with a person whom you are not permitted thus to address. If you do all
+these things, then you will be acting correctly. This is what I desire
+of you.”
+
+2. _TYPES OF SONGS._—The songs may be divided into two groups: (1)
+those that are sung in connection with myths and after the speeches
+of a more general nature, and (2) those that are sung to accompany
+definite and specific actions. These latter can therefore be most
+conveniently divided into (_a_) minor dance songs, (_b_) major dance
+songs, (_c_) initial songs, (_d_) terminal songs, (_e_) loading
+songs, and (_f_) shooting songs. The medicine-men distinguish only
+between four kinds of songs,—major and minor dance songs, terminal and
+shooting songs. Each has a different rhythm and music. For purposes of
+description, however, the above division is more convenient.
+
+3. _TYPES OF ACTION._ (1) _Blessing._—Either hand is held outstretched,
+palm downward, and moved horizontally through the air. It is always
+used when entering and leaving the lodge, and on any occasion where an
+individual has to pass from one part of the lodge to another. It is
+always rendered as “blessing” by the Indians; and they particularly
+insisted upon the fact that the “blessing” was not conveyed by any
+words used in connection with the action, but by the action itself.
+Each person who is thus passed answered with a long-drawn-out “ho-o-o,”
+and with an obeisance of the head.
+
+A modification of the above is the naⁿsura niñkuruhintce (or “blessing
+of the head”), which consists of a simple laying of the hand upon the
+head; both the giver and recipient keeping their eyes fixed on the
+ground, and the recipient slightly bending his head. A few mumbled
+words accompany this action.
+
+(2) _Direction of Walking in the Lodge._—One must always pass contrary
+to the hands of the clock. A person in the East Band must make the
+entire circuit of the lodge in order to pass out. In only exceptional
+cases can this rule of passing be broken; and that is when an old and
+specially privileged member crosses from his seat to that directly
+opposite him, during the shooting ceremony. I was given to understand
+that this was an extremely expensive privilege.
+
+4. _TYPES OF RITUAL._—Parts III, IV, and V can be so analyzed that they
+fall into a fairly well-defined number of complexes, consisting of
+speeches, songs, and movements. These are nine in number. Artificial
+distinctions have been avoided in this division, as far as possible.
+The complexes are (1) entrance ritual; (2) exit ritual; (3) fire
+ritual; (4) presentation-of-food ritual; (5) shooting ritual; (6)
+initiation ritual; (7) sweat-lodge ritual; (8) smoking ritual; (9)
+basic ritual.
+
+Of these, (3), (5), (7), (8), and (9) are found in Part III; all,
+except (7) and (6), in Part IV (_a_); and all except (7) in Part IV
+(_b_); (5) does not actually occur in Part III, but is described in
+detail in the myth related there. The order in which we will discuss
+these ceremonial complexes is not the order in which they follow one
+another in the ritual. Some of them are likewise interwoven with
+one another. Both these factors will, however, be considered in the
+description of the entire ritual, following the description of each
+ceremonial complex.
+
+(1) _Entrance Ritual._—The band enters the tent, makes one complete
+circuit, and stops. The leader now delivers a short speech, followed
+by a song. They then continue to the west end, where another speech is
+delivered and another song sung. After this, they continue again, and
+stop at the east end, where the leader talks and sings. Now all sit
+down. After a short pause, the leader again rises, and, walking over to
+the ancestor-host, talks to him, and gives him some tobacco. He then
+returns to his seat. Each band entering repeats the same ritual. This
+applies, however, only to Part IV (_a_) and (_b_).
+
+(2) _Exit Ritual_ (Part IV, _a_ and _b_).—The East leader rises and
+speaks, followed by North, West, and South. They then speak again, and,
+singing, walk towards the entrance in such a way that the South, North,
+and West Bands make complete circuits of the lodge, thus enabling the
+East Band to precede them. Near the entrance all stop singing, and
+say “wahi-hi-hi” four times, and pass out. This exit ceremony differs
+slightly in the two divisions of IV.
+
+(3) _Fire Ritual_ (Part III).—The ancestor-host rises and goes to the
+leaders of the four other bands individually; and after he has blessed
+them, they respond; and all rise, make four circuits of the lodge, and
+then sit down again. Now the leader of the East Band rises, holding in
+his hands the invitation-sticks and some tobacco, delivers a speech,
+and, going to the fireplace, kindles a new fire.
+
+(8) _Smoking Ritual._—The leader of the East Band pours tobacco into
+the fire, first at the east, and then at the north, west, and south
+corners. Then he lights his pipe, puffs first towards the east, then
+towards the north, west, and south. That over, he passes his pipe to
+the leader of the North Band, who takes a few whiffs, and in turn
+passes it around to the next member of the lodge. When the pipe has
+made the complete circuit, it is placed in front of the fireplace. In
+the mean time the ancestor-host has returned to his seat, and after
+a short pause, rises, speaks, and sings again. This smoking ceremony
+occurs after each entrance ceremony of IV (_a_) and (_b_), and before
+both feasts of IV (_a_) and (_b_).
+
+(4) _Presentation-of-Food Ritual_ (Part IV, _a_ and _b_).—The leader of
+the East Band rises, and brings meat, berries, wild potatoes, etc., to
+the ancestor-host, delivering a minor speech at the same time. Each of
+the other leaders repeats the same ceremony. When all have finished,
+the ancestor-host rises and thanks them.
+
+(5) _General Shooting Ritual_ (Part IV, _a_ and _b_).—The leaders of
+the East, North, West, and South Bands, holding their otter-skins in
+their hands, rise, and, taking three men with them, make a complete
+circuit of the lodge. They first speak in undertones to these three
+men, giving them directions. At each end the leader of the East
+Band speaks, and then, singing, walks toward the west end, saying
+“yoho-o-oya-a” three times, and ending with a long-drawn-out “yo-ho.”
+At the west end both he and the leader of the South Band speak. Then
+chanting “yo-ho” again, they all walk towards the east end. Here the
+leader of the East Band speaks twice. Now all place their otter-skins
+on the ground in front of them. East then speaks again. At the
+conclusion of his speech, all kneel in front of the otter-skins and
+cough, at which the sacred shell drops from their mouths upon the
+otter-skins. They thereupon pick it up, and holding the shell in one
+hand, and the otter-skin in the other, make a circuit of the lodge
+four times, increasing their speed with each circuit, and singing.
+All this time the shell is held in full view of the spectators, on
+the outstretched palm of their right hand. As they near the east end
+of the lodge, toward the end of the fourth circuit, standing in front
+of the Ancestor-Host’s Band, they supposedly swallow the shell, and
+fall down instantaneously, head foremost, as if dead. Finally they
+come to, and, coughing the shell up, they put it into their otter-skin
+bag, and, making the circuit of the tent, shoot four members of the
+Ancestor-Host’s Band, four of the East, four of the North, two of the
+West, and two of the South Band. Each person, as he is shot, falls
+prostrate on the ground, but, recovering after a few moments, joins
+those making the circuit of the tent. Each leader now takes his drum
+and gourds to the fireplace. Then the general shooting commences. Every
+person possessing the right, shoots one individual, until all the
+members have been shot. As each person is shot, he falls to the ground,
+feigns unconsciousness, and then slowly recovers. The slowness or speed
+of his recovery depends exclusively upon the privileges he possesses,
+and the number of years he has belonged to the society. As soon as the
+person shot recovers, he falls in line immediately after the last one
+shot. While all are thus walking around, the half-dozen people at the
+fireplace sing shooting-songs to the accompaniment of drum and gourds.
+The amount of noise at this point is quite considerable.
+
+(6) _Initiation Ritual_ (Part IV, _b_).—All the members of the
+Ancestor-Host’s Band, and the candidate, make one circuit of the lodge,
+taking their otter-skins along with them. As they pass around, they
+gently touch the heads of the members with the mouth of the otter-skin,
+saying, “yoho′-o-o,” to which the members respond with “ho-o-o.” After
+the circuit, all return to their seats with the exception of the
+candidate, who remains at the east end, in front of the fireplace.
+After a pause, the ancestor-host joins him again, and delivers a speech
+of the admonition type. The candidate first faces the south, and then
+the north. During his speech, the ancestor-host touches him on his head
+and on his chest, and makes him face first south, and then north. When
+the speech is over, the ancestor-host sings, and takes the candidate to
+the west end of the tent.
+
+The tent is now prepared for the initiation proper. Two long strips of
+calico are stretched from the west to the east end of the lodge. They
+are about a foot and a half wide, and are separated from each other
+by the fireplace. At the west end a much shorter strip of the same
+material is stretched along the width of the lodge, across the two long
+strips. Upon this the candidate is placed. When these preparations are
+completed, the ancestor-host rises, and, going to each of the four
+leaders, speaks to them in an undertone. He then returns to his seat.
+The leaders of the East and North Bands now rise and make the complete
+circuit of the lodge. The former now speaks, then the latter. He, in
+turn, is followed by the former, who speaks twice. Then the leader of
+the North Band delivers another speech, and, together with his partner,
+walks to the west end of the lodge, where the candidate is kneeling.
+The two leaders here speak again. Both now take their sacred shells,
+swallow them, and walk to the east end. Here they speak again. Now
+they hold their otter-skins in readiness for the shooting, but first
+jerk them forward twice towards the four cardinal points, saying
+“dje-ha-hi, dje-ha-hi,” and concluding with “e-hohoho.” Standing upon
+the two long calico strips in a slightly bent position, and holding
+their otter-skins tightly in their hands, both run rapidly toward the
+reclining form of the candidate, making loud, threatening sounds in
+a quavering voice, and strike his body twice with the mouth of the
+otter-skin, ejaculating, as they do this, two short sounds, as of an
+animal who has succeeded in capturing his prey. The candidate falls
+prostrate to the ground instantaneously. He is immediately covered with
+a blanket, upon which are placed the otter-skins of the two leaders.
+A number of people specially privileged now gather around the covered
+figure, dance, sing, and shout to the accompaniment of the shouts of
+the other members of the society, all of whom seem to be in a frenzy of
+excitement. When the noise has somewhat abated, the blanket is removed,
+and the figure of the candidate is shown, still apparently unconscious.
+He comes to slowly, but finally succeeds in raising himself and sitting
+up. He then coughs violently, and the shell, which has apparently been
+shot into his body, falls out of his mouth. After this, his recovery
+is rapid. He is then undressed; and all the finery, as well as the new
+buckskin suit, moccasins, etc., are distributed to those to whom it is
+customary to give them. He now returns to his seat to the right of the
+Ancestor-Host’s Band, where some female relative, generally his mother,
+dresses him in an ordinary suit.
+
+(7) _Sweat-Lodge Ritual_ (Part III).—The East leader rises, and with
+his two assistants makes the circuit of the sweat-lodge, during which
+time the North, West, and South leaders, each with his two assistants,
+join him. At the east end the leader makes four steps with his right
+foot, each time saying “wahi-hi-hi.” He then makes the circuit of the
+lodge four times. After the third circuit, he goes directly to the
+heating-stone, “in defiance of the rule,” as he himself says, but with
+the hope that through this defiance he will gain additional strength.
+After he has made the fourth circuit, he seizes the two entrance-lodge
+poles, and, shaking them gently, shouts “e-ho-ho-ho.” All now sit down.
+Now the ancestor-host takes four sticks and smears them with a special
+kind of greenish clay, and hands them to the leader of the East Band.
+The latter seizes them and holds them tightly with both hands. By this
+action he is supposed to obtain strength. The sticks are then passed
+in rotation to the leaders of the North, West, and South Bands, all of
+whom repeat the same ceremony.
+
+(9) _Basic Ritual_ (Part IV, _a_ and _b_).—This ritual is that upon
+which the ritual of the ceremony proper (Part IV, _a_ and _b_) is
+built. In a certain sense it may be justifiable to consider all the
+above ritualistic complexes, with the exception of the entrance and
+exit rituals, as parts of this basic ritual. The important religious
+function of the Medicine Dance is the “passing of the blessing,”
+consisting of speeches, songs, and the blessings which each individual
+passes from one band to the other for the greater benefit of both the
+host and his guests. These blessings are symbolized by the drum, the
+gourds, the songs, the speeches, and the specific actions in which each
+band participates. The ceremony begins when the ancestor-host delivers
+his first speech, and ends when drum and gourds are returned to him.
+All that takes place between the ancestor-host’s first speech, up to
+the time that the drum and gourds are placed before the members of the
+East Band, constitutes the unit that I have called the “basic ritual.”
+Into it are thrust, as intrusive elements, other rituals; so that it is
+at times extremely difficult to discern the basic ritual itself. But
+it is there, and remains intact; for as soon as an intrusive ritual is
+finished, the thread of the basic ritual is taken up, and continued to
+the end. Such a ritual as the general shooting or initiation, or such
+myths as the origin myth, require hours; and yet as soon as they are
+over, the basic ceremony is continued from the point where it had been
+interrupted.
+
+The East leader rises and speaks, then sits down, and together with
+the other members of his band, sings a song (initial song). When this
+song is finished, he rises and speaks again, and then sits down and
+commences a song known as the “minor dancing-song.” While he and a
+few others are singing, drumming, and using the gourd rattles, other
+members of his band, as well as members of the other bands, who care
+to, and who have bought the privilege, come to his seat and join in
+the dancing. When this is over, he and a few others either from his
+own or from some other band, who have bought the privilege, go to the
+fireplace, where the leader delivers a speech and begins the major
+dancing-songs, in which the privileged members participate. When this
+is over, the drum is tied to one of the members thus privileged,
+generally the one who has been drumming, and the circuit of the lodge
+is twice made, the leader and his two assistants at the head, followed
+by the other members of his band. Two stops are made at the west, and
+two at the east, end of the lodge, where songs known as “completion
+songs” are sung. Then the lodge circuit is made four times, all
+chanting “wahi-hi-hi,” slowly at first, but then faster, the speed of
+the walking corresponding to that of the chanting. Then, with a final
+strong “e-ho-ho,” drum and gourds are deposited in front of the next
+band. All now return to their seats, where, before sitting down, the
+leader delivers a short speech.
+
+This basic ritual is repeated by each band in the manner described. As
+it is so often broken up by the intrusion of other rituals, it will be
+best to divide it into four parts. These parts are never broken up.
+Whenever intrusive elements occur, they either precede or follow.
+
+The first part consists of all that takes place between the first
+speech of the leader and the completion of the initial song. The speech
+referred to is the one that follows the smoking ritual, which may, on
+the whole, be reckoned as belonging to the introductory ritual, such as
+the entrance ritual. The second part consists of all that transpires
+between the second speech and the completion of the minor dancing-song.
+The third part consists of all that transpires between the speech at
+the fireplace and the completion of the major dancing-songs. The fourth
+part consists of all that transpires between the completion of the
+major dancing-songs, and the last speech the leader makes after he has
+passed the drum and gourds to the next band.
+
+The most bewildering intrusion is that which follows the second part.
+Before the leader and his assistants go to the fireplace, the elaborate
+general shooting ritual takes place. After the specially designated men
+of each band have been shot, those specially privileged proceed to the
+fireplace. Here they sing the shooting-songs until the shooting ritual
+is over. The first set of drummers and gourd-rattle holders are often
+relieved by a second set. It is only when the shooting-songs have been
+completed, that the leader and his assistants proceed to the fireplace
+to begin the third part of the basic ritual.
+
+V. CEREMONY AS A WHOLE.—As stated before, there are certain speeches
+and types of action that cannot be fitted into the above description.
+This is especially true of myths; and these, with the exception of the
+content of the myth, will now be considered in connection with the
+description of the entire ritual as related to me by Blowsnake, and
+based on the above divisions. The ceremony begins with an account of
+the manner in which Blowsnake was induced to join the society. Upon
+his acceptance, and payment of the required amount of material, the
+ceremony began.
+
+The first two nights consisted of an informal salutation, two
+explanatory speeches and four myths, the latter in no way connected
+with any part of the Medicine Dance. The last three myths deal with the
+legendary account of the origin of the Winnebago Medicine Dance, and
+its dissemination among the tribe.
+
+At sunset the leader of the band to which the candidate has applied for
+admission, gathers together the members of his band, and all retire
+to a little lodge near his home, in order to begin the Four Nights’
+Preparation. It is only after the leader has finished the first song
+that the other four bands who are holding corresponding preparations
+are allowed to begin. What actually takes place during these four
+nights is not positively known, but there is little doubt that they are
+used as a general rehearsal of songs, speeches, and other elements of
+the ceremony.[4] In all probability, the candidate who is present in
+the lodge of his future ancestor-host is likewise instructed in as many
+things as an uninitiated member is allowed to know. This instruction
+consists in the teaching of certain myths and types of action.
+
+On the morning after the last of the four nights, the candidate is
+given some sacrificial tobacco, and told to go in search of a stone
+for the sweat-bath. He selects a stone that he can carry on his back
+easily. Before picking it up, he pours tobacco on it. As soon as the
+stone is brought to the lodge of the host, it is heated. The candidate
+is now despatched for some oak-branches, four pieces of oak-wood about
+two feet and a half in length, and some grass. The grass is used for
+improvised seats. The oak-wood is used for the four construction poles
+of the sweat-lodge. They are placed in the east, north, west, and
+south points respectively. It is not permitted to trim the tops of the
+oak-wood. When all the bands have gathered near the medicine-lodge, and
+retired to their improvised lodges, the ancestor-host and the candidate
+go to the lodge of the East leader (that is, to the lodge of the band
+first invited), and greet him by touching his head with their hand.
+
+He answers with “ho-o-o.” The leader of the first band rises, and,
+accompanied by his two assistants, goes to the sweat-lodge. The
+ancestor-host goes to the lodges of the other bands and greets the
+leaders in a similar manner. After the leader and assistants of the
+band last invited have entered the sweat-lodge, the ancestor-host, the
+candidate, and his assistants enter, and the ceremonies begin.
+
+After the ceremonial salutation and an introductory speech, the
+ancestor-host, as the leader of the band giving the Medicine Dance
+may now be called, rises, and, taking his invitation-stick and some
+tobacco, approaches the leader of each band, and, blessing him, thanks
+him for coming, and assures him at the same time to how great a degree
+his presence will contribute toward the success of the performance of
+the ritual. He then returns to his seat. The leaders thank him in turn.
+Now follow the fire and smoking rituals, which in turn are followed
+by twelve speeches of a general and of an explanatory character. Then
+comes the “strengthening” ritual; and immediately after come two
+exceedingly long myths describing the initiation of the first man
+into the secrets of the lodge, as well as the symbolic meaning of
+the shooting ritual. All now undress and take a sweat-bath. Female
+candidates are excluded. A number of short speeches follow, and the
+whole concludes with the exit ritual.
+
+The drum and gourds are used to accompany the song. The basic ritual
+is perhaps present, to a certain extent. However, it was impossible to
+witness the ritual, and for this reason the procedure seems somewhat
+hazy to the writer.
+
+When the ritual in the sweat-bath is over, there is a slight pause. The
+candidate, the ancestor-host and his band, enter the medicine-lodge,
+and, after taking their seats, sing a few songs. When the last song is
+concluded, the other bands enter in the order of their invitation. Now
+comes the entrance ritual followed by the smoking ritual. Thereupon
+the ancestor-host rises and delivers the opening speech of the basic
+ritual. The ancestor-host does not go through the entire basic ritual
+at this time, because he is not permitted to begin the shooting ritual.
+Soon after the beginning of the basic ritual by the ancestor-host,
+generally after the second speech, gourds and drum are passed to the
+leader of the East Band. This one rises and begins the basic ritual,
+which he interrupts at the end of the second part, in order to begin
+the general shooting ritual. When that is finished, he continues with
+the third and fourth parts of the basic ritual. Then drum and gourds
+are passed to the North Band. Its leader now in turn begins his basic
+ritual, but stops after the second part, where the presentation-of-food
+ritual and the smoking ritual intervene. It is now about midnight, and
+a feast is partaken of. As soon as the feast is finished, and the lodge
+has been cleared of food and eating-utensils, the leader of the North
+Band continues with the third and fourth parts of the basic ritual. The
+leaders of the West and South Bands perform the basic ritual without
+any interruptions, except, of course, that of the general shooting
+ritual between the second and third parts. The drum and gourds have now
+reached the ancestor-host, who goes through the third and fourth parts
+of the basic ritual. There is, however, some doubt as to whether this
+is always done. Then follows the exit ritual, and all pass out to rest
+for a few hours.
+
+A short time preceding dawn, the candidate, the leaders of the East and
+North Bands, and the ancestor-host, each with two assistants, and all
+other members who are privileged to do so, leave the lodge and walk to
+the brush, where the candidate is to be initiated into the mysteries
+of the sacred shell and the shooting. Each band must have one or more
+of its members present at this ritual.[5] When they are near the place
+set aside for the secret ritual, the order of marching, which up to
+this time had been of no consequence, changes into that of single file,
+the leader of the East Band leading. When they have arrived at the
+place, all stop. The East leader now informs those present that he is
+going to make a road for the candidate, symbolical of the path of life,
+which forms the basis of the sweat-bath and Medicine Dance. Singing,
+he circles the spot four times. At the end of the fourth circuit he
+stops, and all turn around and face east. The leader of the North Band
+has also the right to go through this ritual, but he does not always do
+it. Repeating the ceremony is in all probability connected with extra
+expense. All now sit down, and the specific rites of the brush ritual
+begin.
+
+The ancestor-host rises, and, taking the candidate with him, goes
+to the leader of the East Band and speaks to him. Then he and the
+candidate return to their seats. The East leader now relates to the
+candidate a portion of the story of the creation of the earth and of
+the first man. The North leader then tells the story of the journey to
+the land of the spirits, to the lodge of the earth-maker. When this is
+finished, the two leaders teach the candidate how to go through the
+actions incidental to the shooting, the swallowing of the shell, and
+the recovery from its effects. When they think that he is sufficiently
+adept in all these actions, they dress him in his new suit, put on a
+new pair of moccasins, decorate him with finery, and return to the
+medicine-lodge.
+
+These rites generally last until about eight in the morning; so that
+when those who have participated in the brush ritual are returning,
+the other members of the Medicine Dance are also about ready to begin
+the day ceremony, the principal one of the entire Medicine Dance. The
+ancestor-host again precedes the other leaders in entering the lodge.
+Then follows the entrance ritual. During this ritual the drum is struck
+four times at stated intervals. The smoking ritual now follows. When
+it is concluded, the ancestor-host rises to begin the basic ritual,
+which is interrupted at the end of the second part. Gourds and drum
+are passed to the East Band, whose basic ritual is also interrupted
+at the end of the second part. Now follows, first the initiation of
+the candidate into the Medicine Dance, and then the general shooting
+ritual. When the East leader has concluded, drum and gourds are passed
+to the North Band, whose basic ritual is not interrupted, as upon the
+preceding day. At the conclusion of the basic ritual of the North Band,
+the food-presentation ritual follows, then that of the smoking ritual,
+and finally the feast. After the feast, the leader of the West Band
+narrates the origin myth of the Medicine Dance, which is continued by
+the leader of the South Band. The presents are then distributed. After
+this, the basic ritual is continued by the leader of the West Band,
+followed by that of the South Band, and finally drum and gourds are
+passed to the ancestor-host. He either finishes the third and fourth
+parts of the basic ritual, or takes drum and gourds to the fireplace.
+The exit ritual now begins, and at about sunset the entire ceremony of
+the Medicine Dance is over. On the whole, it must be said, that the
+main difference between (_a_) and (_b_) of Part IV setting aside the
+initiation, lies simply in the number of myths told and the greater
+length of the speeches.
+
+
+                B. DESCRIPTION OF THE OJIBWA MIDEWIWIN
+
+As I shall have occasion to refer frequently to the Midewiwin of the
+Ojibwa and Menominee, a short summary of these two ceremonies will be
+inserted here.
+
+The Ojibwa Midewiwin is a society of shamans of both sexes. It is
+graded into four degrees, special initiation being required for each
+degree. The ritual of all the degrees seems to be the property of five
+shamans,—the four so-called “mide-priests” and the preceptor. In the
+lodge the preceptor occupies a position to the side of the candidate
+and the mide-priests sitting near the western entrance.[6]
+
+There are two methods of admission. A man may apply because in his
+fasting some manito connected with the Midewiwin has appeared to him,
+or he may take the place of an individual who has died while preparing
+for initiation. As soon as the candidate’s application has been
+accepted, a preceptor is selected, whose duty it is to instruct the new
+pupil in the mide teachings, and explain to him the meaning and origin
+of the regalia, the songs, and the origin of the Midewiwin itself, by
+means of birch-bark records. The time required for this instruction
+varies, depending upon the preceptor and the amount of payment. The
+knowledge required for each degree is definitely determined, and is
+imparted almost entirely during this preparatory instruction. When the
+candidate has acquired the specified information, and the required
+payments have been made, a four-nights’ preparation takes place, during
+which he takes four sweat-baths. At dawn of the day of initiation he
+repairs to the sweat-lodge, clad in his best clothes, to await the
+arrival of his preceptor and the four officiating priests.
+
+The initiation ceremonies which follow are the same for the second,
+third, and fourth degrees in almost all details, except that those for
+the fourth are more elaborate. The first degree is like the others in
+its possession of a shooting ceremony and general speeches, but differs
+in elaboration and symbolism of the ritual.
+
+The shooting is performed by the four officiating mide; but it is
+only the leader of these four who succeeds in rendering the candidate
+unconscious. A candidate for the first degree is shot in the breast;
+one for the second, in the joints; and one for the third and fourth,
+in the joints and forehead. After he has been initiated, the candidate
+tries his power on all the members present. Indiscriminate shooting, as
+described among the Winnebago, only occurs at the initiation into the
+fourth degree.
+
+To the Ojibwa the Midewiwin is the dramatization of the struggle of
+the bear-spirit with the evil spirit, bear, serpent, panther, etc. The
+candidate impersonates the good bear-spirit, and some mide sometimes
+take upon themselves the impersonation of the evil spirits.[7] In the
+ritual of the fourth degree, representing the complete initiation, the
+dramatization and its symbolistic interpretation are best shown. He who
+succeeds becomes correspondingly powerful in his profession. Hunters,
+warriors, and lovers have occasion to call upon him, and charms to
+counteract the evil effects of an enemy’s work are sometimes sought.[8]
+
+The Ojibwa interpretation of the Midewiwin is seen in all its details
+in the birch-bark records.[9] A mide of the second degree can look into
+futurity; can hear what is transpiring at a distance; can touch, for
+good or for evil, friends and enemies at a distance, however remote;
+and has the ability to traverse all space in the accomplishment of
+his desires or duties.[10] A bad mide of this degree has the power of
+assuming the form of any animal. In this guise he may destroy the life
+of his victim immediately, and then resume his human form and appear
+innocent of the crime. A “fourth-degree mide” is presumed to be in
+a position to accomplish the greatest feats in necromancy and magic.
+He is not only endowed with the power of reading the thoughts and
+intentions of others, but also of calling forth the shadow (soul) and
+of retaining it within his grasp at pleasure.
+
+From the above it will be seen that the Midewiwin covered practically
+all the religious and the shamanistic ideas of the Ojibwa.
+
+
+               C. DESCRIPTION OF THE MENOMINEE MIDEWIWIN
+
+Among the Menominee, initiation generally takes place as a substitution
+of one individual for one who has died, although any person who gives
+proof of eligibility is accepted. The former is by far the more common
+method. Generally a person makes the promise of procuring a substitute
+for some deceased member, and a favorite relative or dear friend of the
+deceased may be elected. There are four mide-priests who determine upon
+the candidacy and appoint an instructor. The instruction the candidate
+receives is confined to the knowledge of the remedies known to the
+instructor.[11] Each remedy must be paid for separately. The four
+mide-priests select two sets of assistants and two ushers, who all play
+a prominent part in the ceremonies proper.[12]
+
+When a candidate is taking the place of a deceased member, the
+ceremonies begin at the grave of the latter,[13] and, after a service
+which lasts from dusk of one day to dawn of the next, all proceed to
+the Midewiwin lodge. But only the four highest officiating medicine-men
+enter. After a ritual which consists of chants and speeches of welcome,
+and the passing of the drum from the first to the other three mide,
+the other members who are to take an active part enter. A short ritual
+then takes place, after which the second set of mide enter and another
+ritual follows. Then the ordinary and visiting mide enter, the former
+taking seats according to the phratries to which they belong; and the
+candidate, his nearest relations, and he who had promised to give the
+feast, enter with them and take seats near the mide of the first group.
+Finally the third set of mide enter. The seating in the lodge is,
+candidate, friends, etc., near the eastern end; first four mide, next
+to them; second set, on northern side near western entrance; and third
+set of mide, at the middle of the southern side.
+
+The ceremonies begin by calling the candidate forward to stand before
+the mide of the first group. His family and friends stand around him
+in a semicircle, dancing in time to the chanting and drumming. One
+of the mide begins a chant, at the end of which a pause occurs, and
+the candidate and friends resume their seats. The drum is passed in
+rotation to the second, third, and fourth mide. As they chant, the
+candidate, etc., stands before them. The last of the four then chants
+the origin myth of the Midewiwin. The drum is now passed to the mide
+who had chanted first. He continues the narration of the ritualistic
+myths. Drum and gourds are then passed from one mide to the other, and
+from the first set of mide to the third, until the circuit has been
+made.
+
+These ceremonies are continued through the night, although only the
+three sets of mide remain in the lodge all that time. Shortly after
+sunrise, almost all leave the lodge. When they return, preparations
+are made for the initiation. The shooting of the candidate is
+performed by the second set of mide. The candidate, after recovering,
+makes the circuit of the lodge, shooting whomsoever he desires. The
+characteristics of this shooting ceremony are practically identical
+with those of the Winnebago.
+
+
+                   D. THE SIGNIFICANCE OF THE RITUAL
+
+I. THE COMMON ELEMENTS.—The common elements in the foregoing
+ritualistic complexes are both general and specific in nature. We have,
+as general, an initiation ritual; and as specific, a shooting ritual.
+There are in addition, in the Central Algonkin and Winnebago group,
+other resemblances, such as similarities in the ethical teaching, in
+the details of the shooting ritual itself, and in the presence of the
+secret brush ritual. To the above must be added the fact that the songs
+of the Winnebago ceremonies are to a large extent in some Central
+Algonkin dialect.
+
+The meaning of these general similarities will be touched upon later.
+What I wish to insist upon here is, that if the ritualistic complexes
+are at all to be regarded as identical, this is so by reason of the
+presence in each of a shooting ritual. This identity is strengthened
+in each case by the association of this specific shooting ritual with
+the more general feature of initiation. The most dramatic phase in the
+main ceremony is this initiation and shooting complex; and it seems,
+therefore, quite intelligible why the number of similar details thus
+associated together should have been interpreted as the historically
+primary and basic elements.
+
+To postulate an historical identity, however, on the basis of a number
+of common elements, in the face of numerous and important differences,
+implies a specific attitude toward the nature and significance of the
+common elements in these ceremonies. We know, indeed, that almost
+all theoreticians place greater insistence upon the similarities
+than upon the differences in cultural phenomena. There is perhaps a
+natural tendency to do so. But quite apart from this tendency, there
+must likewise be certain definite reasons for such an interpretation.
+It is essential, consequently, to understand at the very outset the
+theoretical justification of this position.
+
+II. THE INTERPRETATION OF THE COMMON ELEMENTS—SCHURTZ’S THEORY.—This
+question has been taken up _in extenso_ by Schurtz,[14] in his work
+on “Age Classes and Men’s Societies.” Here, as well as in previous
+theoretical discussions, the presence of a number of similarities has
+been considered sufficient for establishing the identity of a group
+of ceremonies that admittedly possess a large number of specific
+peculiarities. But Schurtz gives us a detailed psychological exposition
+(and in this lies perhaps his superiority over others who have
+discussed the same subject) of the reasons which have prompted him to
+take a certain attitude toward these “similarities.” If Schurtz’s work
+is therefore selected in preference to that of others, it is because of
+the fact that, in addition to practically taking the same position as
+most of the other theoreticians, he has most clearly defined some of
+the assumptions underlying their position.
+
+Schurtz’s line of argument seems to have been the following. An
+investigation of civilized as well as of primitive organizations has
+disclosed a number of similarities. Their historical development is
+unknown; but the enormous distance separating them geographically,
+precludes the possibility that these similarities have been due either
+to borrowing or to dissemination from some one original centre. They
+must consequently be explained by assuming that they have developed
+independently, as external manifestations of the unity of the human
+mind. We are thus led to the assumption accepted by most ethnologists
+to-day, that the human mind tends to express itself in similar
+modes of thought and action the world over. The variation in these
+modes is to be ascribed either to the differences in the nature of
+the geographical and social surroundings or to the emotional and
+intellectual individuality of different groups of people, or to both.
+We are, however, concerned here not so much with the variations as
+with the common modes of thought and action. It is consequently of
+prime importance to determine first the nature of these modes, their
+sequence, and the extent to which this sequence has been conditioned by
+the modes themselves.
+
+We start at the very outset with an implied assumption; for by
+“sequence,” Schurtz distinctly understood an ordered sequence. His
+work is primarily an attempt to determine what this ordered sequence
+has been, and how it has been determined. The norm of organization in
+which the human race expressed itself primarily, is, according to him,
+the age-group. Owing to the historical development of various cultural
+areas, it is no longer possible to detect this “primary element;” and
+he consequently finds it necessary to demonstrate its existence from
+another point of view, which is essentially psychological.
+
+The development of the age-group has followed a very definite
+sequence—definite, because it has been determined by certain inherent
+tendencies of the human mind. These tendencies are “the instinct for
+association”[15] (_Geselligkeitstrieb_) and “the sexual instinct”
+(_Geschlechtstrieb_). Granting the existence of these two tendencies,
+we have then to inquire how they have conditioned the essential
+similarities in the evolution of our social life, and the forms in
+which that social life has expressed itself.
+
+There are two possible assumptions. We may assume that at a certain
+stage of cultural development groups of people possessed no social
+individuality sufficiently strong to determine their own development,
+and that the _Geselligkeitstrieb_ and _Geschlechtstrieb_ alone, or
+reinforced by other factors, were sufficiently strong to condition
+development along certain lines; or we may, on the other hand, assume
+that the primary modes in which people have expressed themselves are
+necessarily of so simple and generalized a type, that they always were
+the same. Schurtz has practically assumed a stage in human development
+when the individuality of the component units of a social group was at
+a minimum; when there was, so to say, a “group mind,” whose initial
+development is most easily explained by the influence of inherent
+tendencies. It must be said, in fairness to Schurtz, that the other
+alternative mentioned above was probably also in his mind. However,
+he seems to have elaborated his theory with the first alternative
+constantly before his eyes.
+
+This unexpressed assumption is of the greatest possible moment in
+Schurtz’s interpretation, because it immediately establishes a certain
+fixity for his primary norm; and excluding as it does the possibility
+of variation, because the two tendencies, as constants, are acting upon
+social groups whose component members have a minimum of individuality,
+brings it about that the same primary norm must be simple and
+generalized in its nature.
+
+Schurtz has thus given us a psychological _milieu_, and we must now
+proceed to investigate what are the specific norms of development, the
+method by which these norms have been determined, the nature of their
+sequence, and how this sequence has been absolutely conditioned. The
+first two of these points become clearer if we attack the question of
+sequence first.
+
+It is apparent from Schurtz’s work that to him the necessity for an
+ordered sequence was self-evident. This acceptance of an ordered
+sequence as axiomatic was conditioned primarily by the fact that he
+implied at the very outset that the ordered sequence present in the
+evolution of biological phenomena was to be found in an essentially
+comparable manner in the development of civilization. In the same way
+Schurtz’s use of the terms “highest” and “lowest” and of “intermediate
+stages” is only inadequately explained when regarded as derived from
+the study of history. Neither can we assume that these terms were
+merely a reflection of the conclusion he had drawn from a comparison of
+the palpable differences between Europeans and “primitive” people. His
+whole treatment of “intermediate stages,” and of the factors he calls
+to his aid in explaining them,—such as divergences due to variations
+from a type, vestiges, functional changes,—these are all strictly
+biological not merely in their terminology, but likewise in their
+general connotation.
+
+The justification for equating the processes which have played a large
+part in historical and biological evolution seemed, indeed, apparent.
+In the cultural history of any people, we find elements splitting up
+and giving rise to innumerable variations. In this divergence we meet
+again and again with two phenomena,—first, that of the general decay of
+cultural elements, of their total disappearance in some cases and of
+their persistence as vestigial remains in others; and, secondly, that
+of the incessant change, of the re-adjustment and re-interpretation
+of cultural phenomena, so that elements often take upon themselves
+functions which they originally did not possess, while these original
+functions are either partially or totally obscured. Numerous other
+points, more specific in nature, could be adduced to demonstrate more
+fully the essential similarity of cultural and biological phenomena.
+
+The comparability of the data of civilization and biology brought in
+its train, however, the natural corollary that the general course
+of their development was the same. Such an assumption fitted in
+admirably with the psychological presuppositions of Schurtz, and with
+the inferences he felt justified in drawing from the historical data.
+Neither Schurtz, nor, for that matter, any theoretician of his time,
+ever made any attempt to prove that the method of biological evolution
+was the same as that of the historical. It was commonly assumed to
+have been the same; but, quite apart from this acceptance of a fact
+that seemed to need no proof, the similarity in the evolution of
+biological and historical phenomena was by implication conditioned by
+his psychological assumptions. The number of norms are necessarily
+reduced to a minimum when inherent tendencies are acting on a “group
+mind,” for it would be tacitly admitting a large range for personal
+individuality, to assume the existence of many norms; but if there
+are only a few norms, or, as Schurtz concludes, one norm,—that of the
+age-group,—variations can only have arisen as differentiations of this
+norm, due to influences either from within or from without.
+
+We are consequently reduced to a condition exactly parallel to that
+which we find, according to the theory of evolution, in biology.
+Variations are the result of a differentiation of some unit. It is the
+object, in the classification of biological data, to demonstrate, by
+means of a series of ascending forms, the evolution of the most highly
+differentiated from the least differentiated. In thus arranging the
+data, it followed that the least-differentiated forms contained the
+simple general manifestations of life, and that at the same time the
+most highly-differentiated forms likewise contained all these simple
+general manifestations, although they were here, as a rule, so changed
+as to be entirely obscured, if not unrecognizable.
+
+In a manner almost exactly parallel to the above, Schurtz sought
+to classify the phenomena of social organization. The highest must
+contain within itself the simple and general phenomena of the lowest
+form. Having thus demonstrated to his satisfaction the existence
+and the necessity of an ordered sequence, he turned his attention
+to demonstrating that this sequence was psychologically as well as
+historically conditioned. His line of argument here can best be shown
+by analyzing the first few chapters of his book.
+
+At the basis of all social organizations lie two elementary forces,—the
+“instinct for association” and the “sexual instinct.” The sexual
+instinct is primary, because it is obviously an essential condition
+of life. The instinct for association is secondary in so far as its
+expression in outward form is concerned. It is as old as the sexual
+instinct; but, since at the initial stage of human development the
+sexual instinct is so strong a force, the instinct of association had
+no observable influence on the actions of men.
+
+The forms of social organization which the sexual instinct conditions
+are those based upon certain kinds of blood relationship. These forms
+are primary. To establish the priority of the forms thus imposed by
+blood relationship, we have but to remember that, as the relationship
+of individuals to one another preceded everything else, so the social
+forms based upon blood relationship must have preceded all other social
+forms. We are therefore to regard as the earliest stage of social
+organization that of groups bound together by blood relationship. But
+what has been the force differentiating these groups? Obviously not the
+same sexual instinct that has caused the formation of these primary
+groups. To explain the factors that have caused this differentiation we
+must call to our aid two phenomena,—first, that of sexual solidarity;
+and, secondly, that of the instinct for association.
+
+Sexual solidarity has its roots in the nature of man and woman, and is
+possessed by them in equal intensity. The instinct for association is,
+however, a specifically masculine trait. It is found among women only
+in a minimal degree. An important corollary follows from this fact: If
+women societies are found anywhere, they are to be considered merely
+as imitations of men’s societies. If women are found as members in a
+society, this is to be regarded as secondary and purely adventitious.
+These, and some more specific points to be enumerated later, must be
+borne in mind continually, as Schurtz makes a far-reaching use of them.
+
+The instinct for association, he goes on to say, expresses itself,
+however, between those of like interests; that is, between those who
+would most likely be of the same age. It is not likely, for instance,
+to occur between married and unmarried men. We have here two apparently
+organically determined classes. In the earliest stages of social
+development, however, when the norms of social expression conditioned
+by the sexual instinct were still of paramount importance, insistence
+was most naturally placed upon the most important stage of man’s
+physiological development,—the age of puberty. The strong line of
+demarcation between the period preceding and following sexual maturity
+was so ever-present a fact to the mind of primitive man, that it found
+expression in the multitude of initiatory rites. In these initiatory
+rites we have another of the specific “symptoms” with which we shall
+have to deal afterward.
+
+When the instinct for association developed more strongly, the
+differences due to age, plus the physiological factor, conditioned the
+natural formation of two classes,—one of men before puberty, and one of
+men after puberty. This natural twofold division was also strengthened
+by another factor; for until the age of puberty, boys were under the
+influence of women, and were therefore to be reckoned as one with them.
+
+The three groups—men before puberty, unmarried men after puberty,
+and married men—are thus built upon the basis of age distinction and
+common interest. They are the norms of primitive social organization,
+and, as we have seen, their origin is due to inherited instincts.
+By implication Schurtz has here also assumed the existence of a
+definite sequence; for the division into pre- and post-puberty
+groups is a consequence of the sexual instinct, and is therefore
+primary. Differentiation into the groups of married and unmarried
+men thereupon followed; but the initiation, which is synchronous
+with the age of sexual maturity, has introduced another factor, that
+of promiscuous sexual intercourse; and the regulation that this has
+demanded is found outwardly expressed in the “men’s house.” The
+common interests that drew men together into groups have thus far
+been those conditioned largely by age. In the development of society,
+however, interests became more and more diversified, and resulted,
+first, in the disappearance of the age factor as the essential element
+for associations, and, secondly, in the necessity for more closely
+organized units with specific characteristics. To obtain this close
+organization, one of the essential elements was secrecy, and thus
+developed out of the “men’s house” those innumerable clubs and secret
+societies which we find so common to-day.
+
+In such manner we have constructed an ascending evolutionary series.
+It must not be forgotten that in such a series the highest stage is
+but a differentiated lower stage. It must likewise be remembered that
+there is a tendency for intermediate stages to leave vestigial remains
+wherever they developed into higher stages. We may consequently expect
+to find traces of “age groups” and “men’s houses” all over the world.
+In addition, we must remember that a number of “symptoms”—such as “the
+exclusion of women” from a society, the presence of “an initiation,” of
+“degrees,” and of “secrecy”—have always been associated with certain
+stages of growth. They may serve us for criteria of this growth and of
+the stages thereof, and they constitute proofs of historical identity.
+They will often appear unassociated with the definite stage assigned
+to them; but that is immaterial, for their almost universal presence
+is a sufficient guaranty of their significance. It is not necessary to
+inquire into their individual significance among definite societies,
+because a negative answer would prove nothing, as differences from the
+general scheme outlined can be interpreted most easily in terms of some
+functional change.
+
+It must of course be remembered that the various points of view from
+which Schurtz approached his problem were so inextricably interwoven,
+that it is unwarranted to assume that every position he took was as
+distinctly analyzed as I have attempted to show.
+
+From two points of view, a psychological and a biological one, Schurtz
+obtained similar conclusions. It is now only necessary, after we have
+seen how he established his psychological _milieu_ and his sequence
+of norms, to investigate the manner in which he approached the
+ethnological data themselves.
+
+Schurtz claims to have reached his interpretation from an inductive
+study of the available data. We have seen that there is good reason to
+suppose that he approached the data with certain preconceptions, the
+most important of which was the necessity of “ascending stages” in the
+evolution of society. He had to determine, before everything else, the
+initial stage of social evolution, and to look for it or for as close
+an approximation to it as might still be found to-day. However, as soon
+as we accept what Schurtz thought were the necessary consequences of
+the two tendencies,—of the instinct for association and of the sexual
+instinct,—obviously, then, that organization which conforms closest to
+the conditions there imposed would be the most primitive.
+
+He thereupon found himself confronted with the relatively easy task of
+finding such an organization. He found it in Australia, and selected
+it as the starting-point of his series. In justice to Schurtz and
+other theoreticians, it should, however, be said that the Australian
+cultures impressed many then, and continue to impress many now, as
+cultures that either had been stunted in their growth, or had developed
+only as far as the most primitive stages. From that point on, the
+construction of a series was a simple task.
+
+Such, in brief, is the position of Schurtz.
+
+He wished to convey the impression that his theory was based entirely
+upon an inductive study of the data; but we have seen that, by means of
+two powerful tendencies, he in reality based his interpretation upon a
+deductive study. He does, it is true, claim that the existence of these
+tendencies was established inductively; but even if we were to grant
+this, it is apparent that he subsequently disassociated the tendencies
+from the data, and used them as new entities from which to re-interpret
+the facts.
+
+It has been pointed out before that Schurtz did not believe that the
+absence of any or all of the “symptoms” constituted an argument against
+his theory. In the same way, any evidences of convergent evolution, of
+the appearance of “symptoms” of higher stages associated with those of
+a lower stage, would not militate against his position. Such phenomena
+were to be regarded as purely adventitious. Dissemination of cultures,
+he held, was possible; but, although similarities due to such an agency
+might obscure the normal development, this normal development could
+hardly be fundamentally disarranged thereby.
+
+                   *       *       *       *       *
+
+The theory of Schurtz might be examined from two points of view. One
+might critically examine the validity of the assumptions _per se_, and
+the justifiability of his inferences; or one might temporarily lay
+aside the theory entirely, and examine the data individually. It is the
+latter method of approach that I shall here adopt.
+
+With this purpose in view, I have selected for examination and
+interpretation the data furnished by the Ojibwa-Menominee Midewiwin,
+the Winnebago Medicine Dance, and the Omaha Shell and Pebble Societies.
+The investigation of specific data will, however, not have any general
+validity, unless it can be shown that their specific content is the
+result of certain very general psychological tendencies.
+
+The common elements in the ceremonial complexes have led to the
+predication of their identity, and it will be best therefore to begin
+our study with an analysis of them.
+
+III. THE SHOOTING RITUAL.—It might perhaps be expedient, before
+discussing the phenomena of “shooting” in general, to analyze what is
+supposed to be its precise nature among the various tribes possessing
+it in one form or another. Generally speaking, the essential idea
+lies in the simulation of being shot by a missile, and re-acting by
+simulating muscular contractions until the individual falls prone
+upon the ground. The general theory of the Ojibwa-Menominee and of
+the Winnebago is, that death must thereupon normally result, but that
+certain conditions may change this fatal effect into one of temporary
+unconsciousness. Among the Omaha, the simulated death is interpreted
+as the dramatic representation of the death of certain persons known
+in the ceremony of the Shell Society as “children.” Among the Santee
+Dakota, it seems to have had no very definite meaning.[16]
+
+The Ojibwa,[17] Menominee,[18] Winnebago, and Dakota are at one in
+interpreting the effects of the shooting as the result of the magical
+powers inherent in the missile used. Efficiency in shooting, however,
+depends not merely upon the missile, but also upon the shaman using it.
+According to the esoteric interpretation of the Winnebago, the specific
+results could only be obtained by being a member of the Medicine Dance.
+There are indications that this specific efficacy was associated with
+the general magical power of shamans,—a power that had been obtained
+through personal visions, not in any way connected with this society.
+For the Ojibwa-Menominee, this latter seems to have been by far the
+more important source for efficacy. For example, the otter-skin bag
+could be used with the same effect quite apart from the performances of
+the Midewiwin. In the Omaha ceremonies it is not quite clear exactly
+what renders the shooting efficacious, and whether the result is
+inherent in the magical power of the missile.
+
+In all the ritualistic complexes there are variations both as to the
+manner in which the shooting is done, and as to the portion of the body
+aimed at. Excluding the Omaha societies, these variations in all cases
+depend upon the status of membership. The Ojibwa-Menominee shooting is
+in nature and in interpretation quite similar to that of the Winnebago;
+while the Omaha presents a number of variations from the type.
+
+In the Ojibwa-Menominee ceremonies the shooting ritual is always
+associated with the admission of a new member. This includes, of
+course, also the initiation of individuals into higher degrees,
+wherever such exist. The shooting is done principally by the newly
+initiated individual, because he is supposed to be trying his powers.
+There occurs, besides this, a general shooting, in which all members
+indulge, and which is supposed to increase their shooting powers. The
+strengthening of their power is supposed to resist the effects of
+the shot. Among the Omaha this general shooting is unassociated with
+initiation, while among the Winnebago it is found associated both with
+initiation and with the basic ceremony. It is therefore of considerable
+importance to understand what relation this general shooting ritual
+bears to the specific shooting associated with initiation. Shooting is
+either an element primarily associated with initiation, and afterwards
+separated, or it is some general element that has become associated
+with any of a large number of other cultural elements. In order to
+determine this, we have next to examine with what elements shooting
+becomes associated.
+
+Among the Kwakiutl[19] there is a dance in which an individual
+(mā′maq’a) throws disease into the people. This disease is represented
+by some object, either a stick or a harpoon-head. The shooting has
+precisely the same effect as in the Medicine Dance. No association of
+shooting of any kind occurs with initiation into a society.
+
+The Kwakiutl example brings up the real question involved in the
+shooting. To what extent is the shooting ritual of the Medicine
+Dance of the Winnebago merely one of the forms of disease-throwing
+which is so common a practice of sympathetic magic? The Central
+Algonkin Midewiwin are really loose associations of men and women,
+whose powers are obtained more from individual revelations obtained
+outside of the Midewiwin than from the benefits of membership in that
+society. Shamanistic practices appear to form an integral part of
+this society. But apart from this, the shooting of disease, or of any
+malignant power, at an enemy, is an extremely common feature among
+the Central Algonkin as it is among all other American shamans. The
+question that presents itself is, whether the shooting, as found in the
+Ojibwa-Menominee and Winnebago Medicine Societies, is not one aspect of
+this same general shamanistic practice.
+
+To judge from the speeches and the songs of these societies, the main
+religious function is to obtain the power to resist the influence
+of the shot. The muscular contortions and the various movements the
+individual shot at goes through, are intended to be symbolical of this
+resistance. What the members expect to obtain are powers sufficiently
+strong to resist any malignant influences that they might meet in the
+general course of a lifetime; that is, we are dealing with a very
+general manifestation of shamanism, and we ought therefore not to
+be surprised to find it wherever shamanism occurs, either entirely
+unassociated, or associated with a large number of different elements.
+We find it unassociated in a large number of places scattered over
+North America. Among the Kwakiutl it is associated with a certain
+dance; among the Central Algonkin and Winnebago, with initiation. If it
+can now be shown that among the Omaha, and among the Winnebago also,
+we find it again in a different association, then the association of
+shooting with an initiation ritual will have to be regarded as one
+of a number of complexes into which shooting has entered. Whether,
+in a specific case, shooting, or the initiation-shooting complex, is
+historically related to a similar ritual among other tribes, is a
+question that only direct historical evidence or a strong historical
+probability can determine. The presence of shooting in a number of
+different ceremonies, however, will not in itself demonstrate any
+relationship between these ceremonies.
+
+We will now examine the nature of the complex with which shooting
+is associated in the night division of the general ceremony of the
+Winnebago Medicine Dance and in the Omaha Pebble and Shell Society.
+
+A large number of the societies among the Winnebago and Omaha are based
+on the common possession of revelations from the same animal. We may
+have a society “of those who have had communication with the Thunders,”
+or with the Nights, or with the Grizzly Bear, or what not. The bond
+of such a society is generally expressed outwardly, by the possession
+of some “gift” which is intimately connected with the animal, be it
+a head-dress, a tail, facial decorations, or the right to the use of
+a certain drum, etc. The only society among the Winnebago where no
+revelation is required for admission is the Medicine Dance. There are,
+however, a number of elements which connect the Medicine Dance with
+the other type of society so common among the Winnebago. For instance,
+there is an outward mark of membership; namely, the otter-skin and the
+“migis.”[20] On the warpath the Winnebago wraps the otter-skin around
+his shoulder to signify that, as a member of the Medicine Dance, he
+is protected from the attacks of his enemies. In the shooting ritual
+of the night division of the general ceremony of the Medicine Dance,
+and in the Medicine Feast, there are a number of features similar to
+those of the Winnebago Buffalo, Grizzly Bear, Night, etc., Societies.
+From the point of view of organization, the only difference would
+seem to be, that, instead of a common bond lying in a supernatural
+communication, it lies here in the mutual shooting. If we wished to
+describe the Medicine Dance in terms of Winnebago society norms, we
+might call it a “society of those who shoot one another.” The shooting
+forms an integral part of the ritualistic complex, much in the same
+way as do the set songs and the set speeches. In the basic ritual of
+the day ceremony, the shooting occurs in two combinations,—on the one
+hand, as an initiation-shooting-complex, set off more or less from
+the general ceremony; and, on the other hand, in a complex that is a
+repetition of one which occurs at night, and which forms unquestionably
+the basic portion of the entire Medicine Dance. We will return to a
+discussion of this subsequently.
+
+Shooting in the Omaha Pebble and Shell Societies is associated
+precisely in the same manner as in the basic ritual of the Medicine
+Dance. In the Pebble Society we have, as a matter of fact, exactly the
+condition which we assumed might perhaps be the correct interpretation
+of the Medicine Dance. The society is named “Those who shoot the
+Pebble.” In the Shell Society the bond of union is similarly the
+shooting, the society being called “Those who shoot with a Shell.”
+
+It therefore seems quite probable, taking into account the fact that
+three Siouan (one Winnebago and two Omaha) societies present a shooting
+feature in their basic rituals, that this ritualistic complex is a
+general characteristic of this area. To sum up, a shooting ritual
+has entered into a complex quite different from that existing among
+the Kwakiutl, Central Algonkin Midewiwin, and in one part of the day
+ceremony of the Winnebago Medicine Dance. We must therefore conclude
+that the association of shooting with initiation is merely one of many
+possible associations, and that the shooting found in the basic complex
+must be regarded as historically different from the shooting found in
+the initiation complex.
+
+Returning to the question of shooting as associated with an initiation
+ritual, it must be granted that it is somewhat improbable that
+this particular association should have arisen independently among
+two tribes living in closely contiguous geographical areas. We may
+therefore assume that the Winnebago either borrowed from the Central
+Algonkin, or _vice versa_. All indications point to the former as
+having been the case.
+
+The shooting, then, as found in the societies discussed, is merely one
+phase of sympathetic magic. A cultural element common to a very large
+area has become associated with a special significance and with special
+ceremonies. For the cultural areas discussed, this association seems
+to have developed into two types of complexes,—the shooting-initiation
+complex of the Central Algonkin, and the basic complex of the Omaha and
+Winnebago.
+
+IV. THE INITIATION RITUAL.—The elements common to the Central Algonkin
+Midewiwin and to the Winnebago Medicine Dance consist of two parts,—an
+initiation and a shooting. Of these, the shooting was shown to have
+been a more or less free element, capable among other tribes of
+entering into an indefinite number of associations; that, indeed, in
+the Medicine Dance itself, it had become associated with two different
+ritualistic complexes. We have already examined the shooting ritual;
+and we will therefore proceed to examine the initiation ritual, in
+order to understand its precise significance and its position in the
+general ceremony and in the complete ceremonial complex of the Medicine
+Dance.
+
+1. _Ojibwa-Menominee._—The simplicity of the organization of the
+Ojibwa-Menominee Midewiwin impresses one at a glance. Only a small
+number of individuals take active part. It is similarly impossible
+to discern any elaborate ritual. A few ritualistic myths are told,
+some songs sung, speeches delivered, and then preparations are made
+for the shooting of the novice. The ceremony practically ends as
+soon as the shooting terminates. In this semi-public performance
+there is practically only one ritualistic complex, that of the
+shooting-initiation. The only purpose of this complex seems likewise to
+be the initiation of an individual into the Midewiwin.
+
+This initiation ritual, we know, is only the terminal element in a long
+course of instruction which the novice must go through. It is during
+this instruction that the specific teachings and practices of the
+Midewiwin are elucidated, and it is then that the symbolism used in the
+bark records is explained.
+
+These teachings and practices, apart from some ethical teachings of
+the most general nature, vary with each mide. In each case the novice
+is taught the mide’s individual songs, his particular tricks and
+practices, his specific herbs, and the uses to which he puts them. The
+bond connecting the teaching of the mides is of the loosest nature.
+
+When the instruction is over (and it is over as soon as the novice has
+exhausted the wealth he expects to spend in each particular case),
+the novice is ready for initiation. But into what is he really being
+initiated? It would seem purely into the powers purchased from a
+certain mide. If this particular mide did not chance to be a member of
+the Midewiwin, the same or an extremely similar method of transference
+of personal powers would be gone through. In other words, the novice
+is being initiated into the status of a mide. If one may speak of any
+formal initiation here, it consists in giving to the new mide some
+object which is generally regarded as a symbol of the preceptor’s
+power. It may be a medicine-pouch, or herbs, or anything, in fact.
+But is this not precisely what takes place at the initiation into the
+Midewiwin? There, a person is presented with the “migis” and otter-skin
+bag, which is symbolical of the powers of a certain type of shaman, the
+mide.
+
+The Midewiwin, from this point of view, is hardly a society at all. It
+does, nevertheless, possess some of the essential characteristics of a
+society: a number of individuals form a rather definite unit, owing to
+their possessing in common a number of ritualistic myths, a symbol and
+common status, in the eyes of outsiders.
+
+As a society, the Midewiwin presents no such unit as does the definite
+organization of the Winnebago Medicine Dance or the Omaha Shell and
+Pebble Societies. The bond of unity in the Midewiwin lies in the fact
+that all members are mide. An individual is a mide, however, not by
+reason of membership in the Midewiwin. The powers that make him a mide
+have nothing to do with the Midewiwin at all. They are purely personal.
+The Midewiwin is primarily, then, an association of mide; not of
+individuals who have become mide because they belong to that society.
+It is because of this fact that the individuality of the members is
+so potent a factor, and it is because of this fact that no strong
+ceremonial unit exists. It is for the same reason that initiation into
+the society presents, in all its essentials, the picture of a normal
+transference of individual mide power.
+
+Historically I do not doubt that it really is such a transference.
+As the idea of the Midewiwin as a ceremonial unit developed more
+definitely, the individual transference of the individual mide power
+may have become associated with initiation into the Midewiwin itself.
+It is perfectly natural, when all the mide became members of the
+Midewiwin, that the transference of power should not have been thought
+of apart from the society to which the mide belonged. It thus followed
+that obtaining knowledge from a mide would be synonymous with joining
+the Midewiwin.
+
+As the Midewiwin grew in popularity, and as all the mide and a
+majority of the other members of the tribe joined it, there came
+to be associated with it certain specific benefits, that had in
+themselves nothing at all to do with the mide, but which were
+generally characteristic of Central Algonkin culture. The association
+of these specific benefits played necessarily an important part in
+the history of the society, because it meant that an individual, in
+joining the society, obtained much more than certain mide powers. He
+obtained, in fact, all the mide powers, plus those specific benefits
+which membership in the Midewiwin now brought with it. Through the
+transference of the objects symbolical of the mide’s power,—“the migis”
+and the otter-skin bag,—shooting now initiated him not only into the
+status of a mide, but also into that of a member of a society with an
+esoteric ritual. The shooting itself no longer bore the impress of
+a general shamanistic practice, but stood as a symbol of initiation
+into a society. At the transference of individual shamanistic power,
+shooting did not occur. It must consequently have become associated
+with initiation when the loose union of the mide developed into a more
+or less definite society.
+
+Summing up briefly, we may be justified in saying that the initiation
+ritual of the Ojibwa-Menominee Midewiwin is a transference of
+individual power as found among the individual mide, modified by the
+addition of another element, the shooting-incident. The initiation
+can in no way be regarded as necessarily associated with shooting, but
+this association will have to be regarded as simply a characteristic
+of the Central Algonkin Midewiwin. In other words, just as “shooting”
+may enter into an indefinite number of associations, conditioned by the
+cultural individuality of an area, so initiation may similarly enter
+into an indefinite number of combinations.
+
+2. _Shell Society._—In the Shell Society of the Omaha there is no
+specific initiation ceremony. According to the origin legend, an
+animal appears to a family consisting of father, mother, and four
+children, and helps them to obtain food. They, in order to show their
+gratitude, offer him their children. The children are subsequently
+shot and killed. As they lie on the shore of a lake, four tremendous
+waves sweep them away. They afterwards emerge from the midst of the
+lake, and assure their parents that, although they are dead, they are
+quite content, and they would advise them to put off their mourning,
+return to their own tribe, and form a society. They could obtain new
+members by selling to other people the powers they had obtained. The
+shooting that occurs in the ceremony proper, and which is interpreted
+by the Omaha as a dramatic representation of the shooting of the
+four children, has nothing to do with initiation into the society.
+Initiation consists entirely in the transference of certain knowledge
+and symbols by one of the owners of the society to any individual who
+is considered eligible, and who has paid the requisite price.
+
+As a matter of fact, only members are shot. The shooting, whatever
+may have been its original significance, is here but one element in
+an intricate ritualistic complex similar to the basic ritual of the
+Winnebago Medicine Dance. Its purpose seems to be exclusively that of
+“strengthening” the powers of the members.
+
+Anything approaching the dramatic initiation into the Midewiwin does
+not exist. Admission into the society is in no way connected with the
+shooting ritual, although the shooting ritual is actually found in the
+society.
+
+3. _Pebble Society._—The nature of initiation into the Pebble Society
+is not definitely known. As membership, however, depends upon
+supernatural communications from the same animal, it probably is the
+same as that found among other Omaha societies of the same kind.
+Initiation would thus consist in the obtaining of the supernatural
+communication itself. Every person who has had a supernatural
+communication with a spirit—in this particular case, the water
+spirit—is eligible for membership into the society. Shooting is found,
+but it is in no way connected with admission or initiation into the
+society. It has, it would seem, practically the same significance as in
+the Shell Society.
+
+4. _Medicine Dance._—In the Winnebago Medicine Dance, membership
+does not depend upon supernatural communication of any kind, but
+must be purchased from the leader of one of the five bands. A long
+preparation is necessary, lasting in olden times as long as four
+years. The individual is then initiated into certain of the teachings
+of the society. It makes no difference into which of the five bands
+he is initiated. The knowledge he obtains will, to all intents and
+purposes, be the same, excluding certain songs. This does not mean,
+of course, that there may not be information belonging to the member
+as an individual, which is taught to the novice; but it is understood
+that any powers belonging specifically to an individual, and which
+the novice wishes to purchase, have primarily no connection with the
+society. As every leader is likely to be a prominent shaman as well
+as a member of the Medicine Dance, it would be quite impossible to
+draw a hard and fast line between what belongs specifically to him as
+a shaman, and what belongs to him as a member of the Medicine Dance.
+However, it is generally understood that a leader is initiating an
+individual into those powers that are the special property of the
+society.
+
+As among the Ojibwa-Menominee, initiation is accompanied by a formal
+transfer of a “shell” and of an otter-skin bag. Externally the general
+ceremony of the Medicine Dance might consequently be regarded as
+similar to the semi-public ceremony of the Midewiwin. There are two
+features, however, which stand out prominently in the general ceremony
+of the former, which must be explained before we can accept this
+external similarity as real. They are, first, the peculiar position
+of the initiation ritual of the general ceremony; and, secondly, the
+presence of another ritual, the basic ritual, and the importance it
+assumes.
+
+Precisely the same ritual that we found among the Ojibwa-Menominee—the
+initiation-shooting complex; that is, initiation associated with
+shooting, the transference of the otter-skin bag and of a shell, plus
+a number of incidental elements—occurs in the general ceremony. This
+complex intervenes between the performance of the basic ritual by
+the North and West Bands. There is absolutely nothing in the basic
+ritual preceding or following the initiation that could possibly be
+interpreted as a preparation for the latter. As it is found there,
+the initiation seems quite out of place, and conveys forcibly the
+impression of being intrusive. The general ceremony is by no means
+terminated when initiation is over; but the West Band continues with
+its performance of the basic ritual as though there had been no
+interruption, even though the interval between North’s and West’s
+performance of the basic ritual generally lasts a number of hours. The
+initiation ritual is, on the whole, treated as an incidental feature.
+It can certainly not be the main or most important ritual of the
+general ceremony. As a matter of fact, it occurs only in the day ritual
+of that ceremony. In the night ritual it is absent. A ritual of which
+shooting is one of the essential features occurs in the latter, but, as
+we shall see later, this has nothing to do with the initiation.
+
+That the shell and the shooting are unquestionably considered necessary
+and essential for initiation, is borne out conclusively by the numerous
+references in the speeches. We must therefore not permit the position
+of the initiation ritual in the general ceremony to interfere with its
+interpretation as a real initiation into the society. However, this
+position may have been due to secondary causes. It is quite impossible
+to determine them definitely now; but it is possible, by studying the
+significance and nature of the basic ritual, to explain to a very large
+extent the reason for the position of the initiation ritual.
+
+The basic ritual is a definite ceremonial complex, which constitutes
+the most conspicuous unit of the Medicine Dance. Both in the night
+and the day ritual of the general ceremony, each individual band
+repeats it, and in both cases the ceremony terminates as soon as the
+last band has finished it. A number of other rituals separate the
+various performances of the basic ritual, and even intervene between
+the separate constituent elements of the ritual itself. In each case,
+nevertheless, the basic ritual is continued as soon as the disturbing
+ritual has been removed. It is for these reasons that it seems to me
+unquestionable that we are dealing here with the essential ritualistic
+unit of the general ceremony. What strengthens this impression is
+the fact that a ritualistic complex similar in its general nature,
+although not in the component elements of which it is made up, is
+found in almost all the other societies of the Winnebago. In the
+Buffalo, Grizzly Bear, Ghost, and Night Societies, there is a basic
+ritual of essentially the same functions and significance. In all
+these societies, likewise, objects of specific value to the members
+are passed from one individual to another; and this “passing” is
+accompanied by songs, speeches, and ritualistic details. Although the
+complex differs for each society, it nevertheless presents a definite
+ritualistic unit, which must be repeated by each person, or each band
+belonging to the society, as the case may be.
+
+To judge from the general tenor of the speeches, the purpose of the
+ritual in every one of these societies is the “strengthening” of
+powers obtained in a vision. Now, the tenor of the speeches in the
+basic ritual of the Medicine Dance is precisely of the same nature;
+and as we have there, in addition, the characteristic passing of the
+“blessing,”—that is, the passing of the drum, the gourds, and the
+associate actions, speeches, songs, and dances; in other words, the
+means of assuring the continuance and the strengthening of the specific
+powers,—there can be little doubt that the basic ritual is essentially
+the same for all these societies.
+
+Of course, the demonstration that the basic ritual is at present the
+main and most important ritual in the Medicine Dance, does not prove
+that it is historically primary. There are, however, a number of facts
+that speak in favor of this assumption. In the first place, it is
+undoubtedly the characteristic ceremonial complex of all Winnebago
+societies, and likewise of a large number of societies among other
+Siouan tribes; and, secondly, it is associated with an organization
+that is typical of other Winnebago societies. It differs from these
+primarily in the fact that membership is purchased, and not obtained
+through supernatural communication from some animal. Even the absence
+of the customary manner of admission might perhaps be hypothetically
+accounted for, for we have an interesting instance of the disappearance
+of the “vision” qualification in the Night Dance. The Night Dance, now
+known as the Sore-Eye Dance, previously required for admission a vision
+from the night spirits. This qualification has now disappeared, and its
+place has been taken by purchase, pure and simple, as in the case of
+the Medicine Dance. Now, it is possible that the same development may
+have taken place for the Medicine Dance. In the absence of any such
+positive evidence, however, as has been adduced for the Night Dance,
+this assumption can only be regarded as a possible explanation.
+
+If the basic ritual is to be regarded as the principal and
+characteristic feature of the Medicine Dance and as historically
+primary, then the intrusive character of the initiation ritual may be
+explained by regarding it as secondarily associated. We are of course
+in no position to say in what way this association occurred, and we
+are therefore not in a position to tell whether the initiation ritual
+was associated from the very beginning in such a way as to perform the
+functions of a normal initiation into a society, or whether it was at
+first a purely adventitious addition with no special significance.
+
+If it was regarded from the very beginning as an initiation, there
+seems no reason why it should have been given the position in the
+general ceremony that it now possesses. It consequently seems better to
+regard its position as older than the references made in the speeches
+to its functions as an initiation into this specific Winnebago society.
+
+There can be little doubt that the initiation-complex of the Medicine
+Dance was borrowed from the Central Algonkin Midewiwin. We may
+consequently conclude that, notwithstanding the present interpretation
+of the initiation as an initiation into the Medicine Dance, it is
+historically really an initiation ritual of one ceremony that has
+become secondarily associated with another. In support of this, it can
+be pointed out that no initiation bearing the slightest resemblance
+to this one, occurs in any other of the numerous Winnebago societies,
+and that the Medicine Dance really possesses two initiations,—the one
+being the purchase of membership; and the other, that mentioned above.
+It might also be added that non-members never speak of the shooting as
+an initiation. To them the shooting always appears as a shamanistic
+practice associated with the “strengthening” of power. The esoteric
+interpretation, however, regards this “secondary” initiation as primary.
+
+Summing up briefly the results of the analysis of the three initiations
+discussed, we must emphasize again the fact that we are dealing with
+initiations essentially different in nature. In the Ojibwa-Menominee
+it is evidently a formal transfer of shamanistic powers from one
+individual to another, which has subsequently become synonymous with
+admission into the social status of a mide and then with admission into
+a society. In the Shell Society the transfer of powers is analogous to
+the purchase of specific powers by one individual from another; and as
+these have become associated with a society, the individual buying them
+purchased at the same time admission into the society. In the Pebble
+Society, initiation is synonymous with the acquisition of power through
+supernatural communication from some animal. There is no transfer at
+all, except in so far as the spirit animal transfers something to the
+person fasting. Initiation is connected simply with the individual. No
+initiation into the society exists. In the Winnebago Medicine Dance,
+whatever may have been the primary method of initiation, we have to-day
+a definite initiation like that found in the Midewiwin. This, however,
+has been borrowed from another ceremony, and secondarily associated.
+Even now it is not in its proper organic position in the general
+ceremony, despite the fact that an esoteric re-interpretation has
+transformed it into a specific initiation into the Medicine Dance.
+
+Initiation is thus seen to be both a concept and a ritualistic complex,
+varying considerably in different tribes. As a ritualistic complex, it
+has entered freely into innumerable associations, which can only be
+determined by a study of each specific ceremony. The same holds true
+with regard to the concept of initiation. It is also apparent that
+the concept has a marked influence in determining the nature of the
+ritualistic complex connected with it, and _vice versa_. In both cases,
+then, we have to examine not merely the nature of these two phenomena
+in a given area, but likewise whether they represent historically
+primary concepts and complexes, before we can make any attempt to
+investigate what are the concepts that underlie all initiations.
+
+
+V. THE GENERAL CEREMONY.—In the foregoing remarks we have dealt with
+the nature and significance of those specific rituals that go to make
+the larger complex we have called the “general ceremony.” We will now
+proceed to examine the nature and significance of this general ceremony
+itself.
+
+1. _Ojibwa-Menominee._—The general ceremony of the Ojibwa-Menominee
+Midewiwin is to all intents and purposes the initiation ritual
+itself. There is really no other ritualistic complex with which it
+is associated; nor is there any feature which interrupts in any way
+the dramatic progress of events from the beginning, to the actual
+initiation of the new member. In reality this general ceremony must be
+looked upon solely as the completion of a long course of preparatory
+instruction. Nothing, indeed, accentuates the minor part which the
+actual “society” aspect of the Midewiwin plays than this slight
+development of the general ceremony. The long course of preparatory
+instruction, in which the shaman, as an individual, plays the major
+part, seems practically to be the main feature.
+
+2. _Shell Society._—In the Shell Society the general ceremony consists
+of a large number of ritualistic complexes. The basic ritual runs
+like a red line through the whole, and with this are associated the
+following rituals: the passing of the invitation-sticks, the opening
+of the pack by the keepers, the circling of the fire “by the four
+children,” the filling of the wooden bowl with water, and finally the
+shooting. Both the secret and the public ceremonies consist almost
+exclusively of the shooting, and of the “passing” of the drum and the
+ritualistic details associated with it. The meeting terminates as soon
+as the last of the five ceremonial bands has finished this basic ritual.
+
+3. _Pebble Society._—In the Pebble Society the characteristic passing
+of the drum likewise occurs, and with it occur the details connected
+with it, as well as the preparation for shooting and the actual
+shooting. The number of ritualistic complexes is much smaller than in
+the Shell Society. However, this may be due to the meagreness of our
+information. As contrasted with the marked unity of action displayed
+in the Shell Society, we find here a marked tendency for individual
+development, that is perhaps to be expected, considering that the bond
+of union (namely, the powers obtained through common visions) is a
+rather vague one from the point of view of organization.
+
+4. _Medicine Dance._—In the Medicine Dance the general ceremony
+includes, in addition to the basic and initiation rituals, a secret
+ceremony that takes place outside of the lodge itself. As in the Shell
+and Pebble Societies, there are here also two sessions, but both seem
+to be secret.
+
+The significance of the general ceremony mentioned is the performance
+of a ritual for a variety of purposes, the principal of which are,
+first, purely the perpetuation of the ritual; and, secondly, the
+“strengthening” and renewal of certain special powers. These two
+seem to be pre-eminently the functions of those Omaha and Winnebago
+societies that are based upon common visions. In the former the element
+of initiation plays no part at all. The meetings of the society take
+place at almost any convenient time of the year. For the Winnebago the
+element of initiation is more pronounced. The meetings are called for
+two reasons,—either for the purpose of initiating a member, or for the
+purpose of acquiring additional powers.
+
+In each case the general complexes are different, and in each case they
+depend upon associations that are both historically and psychologically
+determined by the specific cultural characteristics of the area in
+question.
+
+VI. THE COMPLETE CEREMONIAL COMPLEXES.—The general ceremony is only one
+element in an extremely elaborate complex. Its position in this complex
+has been touched upon before. We have now, however, to examine this
+complex itself, and to see what are the ritualistic elements that form
+it. And in this final complex we have again to see whether there is a
+tendency for certain elements to be associated in a definite manner;
+and, if this proves to be the case, how this definite association is to
+be interpreted.
+
+1. _Ojibwa._—The Ojibwa Midewiwin consists of a long course of
+preparation, and a formal public initiation into a society containing
+four degrees. We have seen that the preparation is entirely shamanistic
+in character, and that the general public ceremony is to all intents
+and purposes as much an initiation into the status of a mide as it
+is into a society. This interpretation is again strengthened by the
+marked association of the general ceremony with shamanistic tricks.
+Among the Cree it appears that this function of the Midewiwin is of
+prime importance.[21] In the “degrees” we have another confirmation
+of its shamanistic character. The four degrees are merely the four
+instalments in which an old shaman sells his knowledge and power. The
+number 4 has no especial significance, except in so far as it is the
+sacred number of the tribe. Miss Densmore[22] found eight degrees
+among another division of the Ojibwa; and the number will doubtless
+be found to vary from division to division. The requirements for
+admission into the second, third, and fourth degrees, are greater
+payments, and greater evidences of religious fitness. The possessors
+of the various degrees do not form distinct classes. Those of the
+first degree alone, possess one degree only. There is no passing from
+one to another degree, but simply an addition of degrees, so that an
+individual with the fourth degree possesses all the other degrees; in
+other words, degrees are merely marks of increased power. It is for
+this reason that an initiation practically the same as that for the
+first degree is necessary for the other degrees. The fact that a new
+initiation into the society is necessary for each degree, and that the
+distinctions represented by the degrees are merely transferences of
+increased shamanistic powers, differing accordingly as they have been
+obtained from one or another shaman, emphasizes strongly the specific
+shamanistic nature of the Midewiwin.
+
+As we have said before, the Midewiwin is a society, not so much because
+it is an association of mide, but because there have come to be
+associated with it certain functions of a religious and social nature,
+setting it off as a unit. The fact that the members are mide will, of
+course, have an enormous influence on some of the functions that the
+society is supposed to possess.
+
+The powers of the individual mide are those connected with the healing
+of wounds, the curing of disease, the ability to transform one’s
+self into any animal or object at will, the performance of seemingly
+impossible tricks, and lastly the practice of evil magic. In the
+teachings of the individual mide in his rôle as a member of the
+Midewiwin, all these elements are present; but there are, in addition,
+two other powers which are specifically Midewiwin functions,—namely,
+the power to prolong life, and the power to assure a successful passage
+to the future world. The power of prolonging life is not supposed to
+be an effect of the shooting. The belief is, that membership in the
+society, and the proper observance of the ritual and precepts, will
+enable an individual to surmount successfully the crises of life and
+the evil designs of his enemies. Just as the proper observance of
+ritual and precepts prolongs life, so it will likewise insure the safe
+passage of a soul from this to a future world. According to William
+Jones, “it was believed that the soul followed a path to go to the
+spirit world, and that the path was beset with dangers to oppose
+the passage of the soul; but that it was possible to overcome the
+obstacles by the use of the formulas which could be learned only in the
+Midewiwin.”[23]
+
+To assert dogmatically that these two powers do not come within the
+scope of the individual mide, may perhaps be unwarranted; but at
+present the evidence among the Ojibwa is certainly negative. However,
+the Midewiwin is considered to be intimately associated with these
+specific functions. They are not associated with the specific powers of
+the mide. In reality, they are the general religio-magical possessions
+of the tribe, that have been secondarily associated with the Midewiwin.
+
+2. _Menominee._—Practically all that has been said of the Ojibwa
+applies in equal degree to the Menominee Midewiwin. But two important
+differences are noticeable,—first, a member is always succeeded by
+a near relative; and, secondly, not only is the Midewiwin connected
+with the function of insuring the safe passage to the future world,
+but the ceremony itself begins at the grave of the deceased member as
+soon as the mortuary rites are over. They may even be regarded as a
+continuation of the same.
+
+3. _Shell Society._—In the Shell Society the organization, in
+contradistinction to the Ojibwa-Menominee Midewiwin, is not based on
+individuals as such, but on definite ceremonial group units. There are
+five to-day, but there seem to have been more formerly.
+
+We find a fourfold designation for the lodges. They are known to-day as
+those of the eldest son or sun, second son or stars, daughter or moon,
+and youngest son or earth. Sometimes, however, these same are known in
+order as Black-Bear, Elk, Buffalo, and Deer Lodge. The first “old man’s
+lodge” (_uju_) is also known as that of the Eagle.
+
+The general ceremony has been described before, and we will therefore
+proceed to discuss what appears to be the purpose of the society, what
+powers its members possessed, and with what functions it was associated.
+
+The definite purpose of the society seems to be the performance of
+a certain ritual. That in addition there is likewise the desire to
+increase or at least strengthen the powers received at purchase, is
+extremely probable, but this cannot be definitely stated. What can be
+definitely stated, however, is the fact that an absolutely essential
+condition for efficacy of the powers obtained is the performance of
+the ritual; and in this it is radically distinct from the Midewiwin,
+for there the powers obtained from the shaman have no relation to the
+ritual. The efficacy then, of the powers, remains always what it was
+when taught to the new member.
+
+In discussing what the powers of the members are, it is again essential
+to distinguish what they possess by virtue of membership, and what they
+possess as individuals. We should most naturally expect that certain
+conceptions, certain cultural possessions, belong to a large body of
+Omaha. If, then, we find them in a certain society, it is most natural
+to assume that they have not been obtained by reason of membership
+therein, but that this society will reflect general Omaha ideas. This
+or that society may emphasize certain ideas, and may develop them
+along certain lines, but it certainly does not originate them. They
+have no relation of cause and effect to any particular society. This
+has sometimes been assumed to be the case, and such a view comes out
+clearly in Miss Fletcher’s[24] statement that all secret societies
+among the Omaha dealt more or less with magic as well as with healing
+by means of herbs and roots. It is palpably not because they are
+secret societies that their members have developed any such tendencies,
+but because, as secret societies, they reflected Omaha customs and
+modes of thought. For the same reason Miss Fletcher’s conclusion, that
+because in both the Shell and Pebble Societies shamanistic tricks are
+performed, they may possibly be historically connected, is unwarranted.
+The observance of shamanistic tricks is so general a phenomenon, that
+all that can be said, when two societies are found emphasizing them, is
+that two societies emphasized or developed one or many Omaha customs.
+There is no need of assuming any historical connection unless this has
+been shown to be the case.
+
+Let us now return to what is distinctive in the powers of a member of
+the Shell Society.
+
+The name of the society is “Those-who-have-the-Shell.” It is the
+possession of the shell that separates them from other societies. In
+the ideas clustering around the powers of this object we are most
+likely to find one of the important specific advantages of membership.
+As far as can be gathered from Miss Fletcher’s account, the shell is
+connected with certain magical qualities. It is difficult to say what
+specific magical qualities are meant. However, to judge from the nature
+of the general ceremony and the songs, we are really dealing with magic
+in its most general sense, but connected in this case with a specific
+object, a shell; that is, we might imagine hypothetically that the
+society originated in connection with the vision of an individual, in
+which the magical power was associated with a shell. The same power
+might, in the case of another individual, be associated with a drum,
+a flute, a gourd, a stone, or what not. Apart from difference in
+ritualistic detail, and in the nature of some of the elements that go
+to make up the general ritualistic complex, it is this association
+of magical powers with one object in one case, and with another in
+another case, that constitutes the difference between the various Omaha
+societies.
+
+To illustrate how general is the magical power of the shell in the
+Shell Society, and how essential is the specific object possessing
+the magic, we will give the following instances. In the origin myth,
+shooting is supposed to kill the “children;” in the general ceremony it
+probably serves to strengthen powers already acquired; in the ceremony
+for punishing offenders, of which we shall speak later, it is merely an
+example of sympathetic magic.
+
+Together with the magic specifically associated with the shell, the
+members exercised individual magic; as, for example, killing a horse
+because its owner had offended him, or killing another member by
+magically having a snake hidden near the place where the other was
+accustomed to work. These instances of the exercise of magic must not,
+however, be considered as specific of the society.
+
+In addition to the association of the Shell Society with magic in its
+more general aspect, and also in its application to some specific
+object, we find it associated with general shamanistic practices, with
+conceptions relating to life after death, and with a magical ceremony
+for punishing offenders. The shamanistic practices have been dwelt
+on before. All that can be said about the connection of the society
+with ceremonies performed upon the death of a member is, that the
+deceased is carried to a tent in which the regular ceremonial is gone
+through.[25] Whether this ceremony has any definite connection with
+ideas relating to the journey of the soul to the future world, is not
+known.
+
+By far the most interesting ceremony associated with the Shell Society
+is that for punishing offenders.[26] The main purpose seems to be the
+punishment of an individual “in order to keep the people in order
+and check crime, such as molesting wives or daughters and destroying
+property and so causing mischief in the tribe.” This was effected
+through a sacred figure supposed to represent the society.... “The
+arms contained poisons for punishment, and the leg the magic shells
+which made it possible to administer this punishment.... When a man
+committed an offence that seemed to demand punishment, the society
+met at night, and if it had determined to punish the man, then this
+figure was brought out.”[27] Now, it must be borne in mind that
+there is here no suggestion of any legal procedure, but merely, as
+we shall see, an application of the magical powers of the society to
+a very specific social purpose. Punishment consisted in causing the
+offender to become sick through the application of poison to a figure
+supposed to symbolize him, which is drawn on the earth. This figure was
+subsequently shot at. When the ceremony was over, the leaders waited
+until they had been informed that the offender had become sick, when
+they assembled in a tent and sang until the man died.
+
+In this ceremony we have again a shamanistic practice which was
+probably exercised by many members of the tribe, associated in one
+of the societies with a definite and specific function. But this
+specific function, plus the other traits that have been enumerated as
+characteristic of the society, go to make up a complex that is looked
+upon as a definite unit.
+
+4. _Pebble Society._—The remarks made on the purpose of the Shell
+Society are, generally speaking, applicable to the Pebble Society.
+Instead of being attached to a shell, the magical powers are here
+attached to a translucent pebble. The possibility for a greater
+variability in the nature of the powers obtained was given by the fact
+that all those who had had a vision of water, or its representative,
+the pebble or the water-spirit, could become members. The water-spirit
+was always associated with the granting of knowledge relating to
+medicinal herbs and the power of healing sickness generally; and we
+find in the society, consequently, a large preponderance of individuals
+with such powers. The association between these powers and some
+definite object, in this case the pebble, is not as intimate as that
+found to exist between corresponding powers and a similar object in the
+Shell Society; in other words, the shaman, as an individual, is more
+prominent.
+
+The most important association of the society is that connected with
+the curing of disease. It would be erroneous to consider this function
+as a secondary association, as it is conditioned by the fact that the
+visions from the water-spirit would necessarily be connected with “the
+powers” relating to medicinal herbs and their healing virtues.
+
+5. _Medicine Dance._—The Medicine Dance, looked upon in its entirety,
+is composed of a long course of preparation (now discontinued), the
+Four Nights’ Preparation, the sweat-bath ceremony, the night and the
+day divisions of the general ceremony, and the secret brush ceremony.
+These ceremonies have all become amalgamated into a more or less firm
+unit, whose individual characteristics we have touched upon before.
+
+The society is known in Winnebago as _Mañkaⁿ′ni_, the word _mañkaⁿ′_,
+meaning “medicine” in its medicinal aspect, as opposed to _wasê′_,
+meaning “medicine” in its magical aspect. As far as can be seen from
+a detailed study of the rituals, no prominence seems, however, to be
+given to the therapeutic or herbalist aspect. There are, it is true,
+medicines for general therapeutic practice and for hunting, fishing,
+love, and especially for “bad” purposes. But in the ceremony as given
+to-day, and as described by those well versed in the ritual of the
+society, these medicines find no place.
+
+There is, however, a very persistent exoteric interpretation of
+the Medicine Dance, according to which the members are regarded
+primarily as powerful shamans concerned preferably with the practice
+of “bad” magic. In this practice they are greatly aided by the fact
+that their membership in the society increases their magical powers,
+especially that connected with the ability to transform themselves
+into all kinds of animate and inanimate objects for the furtherance
+of their evil designs. The most feared shamans—those who are
+distinguished from all others by the possession of the iron moccasins
+(_maⁿzua′gudjê_)—belonged to this society. This exoteric interpretation
+does not, however, seem to tally with the designation _mankaⁿ′ni_.
+Personally I think this term is a popular one, and has no real
+significance as a characterization of the functions of the society,
+at least to-day. This exoteric interpretation is in all probability
+true to a certain extent. It would, however, be essential to determine
+whether these shamanistic powers are characteristic of members as
+individuals, and only secondarily connected with them as members of the
+society, before we can properly understand their significance. That
+membership was connected in any way with an increase of shamanistic
+powers, is certainly improbable. These powers are unquestionably
+identical with the general shamanistic and magical practices mentioned
+previously in the Shell and Pebble Societies.
+
+In other words, the general shamanistic and magical beliefs of the
+tribe are found present in this society, as they are found in other
+societies.
+
+What would tend to minimize our considering these features as in any
+way significant of the Medicine Dance, is the fact that there has been
+no tendency to develop or emphasize any specific aspect of magic, and
+that shamanistic practices are absent and appear entirely disassociated
+from the society.
+
+The purpose of the Medicine Dance is in part the desire to attain a
+long life, a safe journey to the next world, and the possibility of
+a return to this life again, preferably in human shape. All these
+benefits may be obtained by taking an active part in the ceremony,
+and by performing to the best of one’s ability all the duties of a
+member. Although it is essential to participate in the entire ritual in
+order to obtain these benefits to the fullest extent, nevertheless the
+phenomena of shooting and being shot at play an especially important
+rôle in this connection.
+
+Long life means essentially the life consisting of a normal length of
+years, with all the possessions of wealth, social and intellectual
+distinction, that would naturally be included. Among the Winnebago,
+this concept of years is very definite, because they believe that to
+each individual has been assigned a life containing a certain number of
+years, a certain amount of wealth, a certain number of enemies killed
+on the warpath, etc. If a man, therefore, dies before he has reached
+the end of his “predestined” life, the residue, it is hoped, will be
+distributed among his relatives.
+
+When in the Medicine Dance they pray for long life, what they mean is
+the ability to surmount the crises of life. Whatever may be the nature
+of these crises,—whether they relate to family disasters, sickness, old
+age, etc.,—it is expected that they will be overcome by membership and
+active participation in the society. There seems to be no suggestion
+that this is attained through the influence of magic. It is mere
+membership and obedience to the society’s teachings, ambition to raise
+one’s status by purchasing more and more privileges, that accomplish
+the desired end in view. The safe journey to the future world and the
+belief in transmigration may be obtained in a similar way. If one
+performs his duties and rises to the highest distinction, he will have
+no difficulty in attaining his object and in successfully overcoming
+all the obstacles to his passage.
+
+The prayer for long life is specifically addressed to the Rabbit,
+the mythical founder of the society, and indirectly addressed to
+Earth-Maker (_maⁿ′’una_), the spirit who sent him to clear the earth of
+the obstacles to man’s progress. It is the only prayer ever addressed
+to him. No supernatural communication is possible. As a matter of
+fact, it is only in this and in the Winter Feast that Earth-Maker is
+associated with this specific power of granting long life.
+
+It would be quite erroneous to imagine that the prayer for long life,
+passage to the next world, and transmigration, are ideas specifically
+connected with the Medicine Dance. As a matter of fact, they constitute
+the characteristic cultural traits of the Winnebago, and crop out
+everywhere in the folk-lore and in the general rituals. The question of
+the safe passage to the next world is perhaps even more specifically
+associated with the Four Nights’ Wake. The purpose of the wake is to
+enable the deceased to successfully overcome the four great obstacles
+on the road to the spirit home of his clan. This is accomplished,
+first, by the performance of a definite ritual; and, secondly, by some
+warrior relating one of his exploits on the warpath and putting at
+the disposal of the deceased the spirit of the man he had killed, to
+act as a servant to him. The close relation between the ethical worth
+of the deceased and of the one who relates the exploit, on the one
+hand, and the safe journey to the spirit world, on the other, comes
+out as strongly here as it does in the Medicine Dance; but it seems
+unnecessary, for that reason, to predicate any historical connection
+between the two. They both reflect the cultural background around them.
+
+Similarly the various elements that make up the life which the
+members of the Medicine Dance pray for,—the food-supply, the power of
+healing, success on the warpath, a normal quota of years,—these are
+all definitely associated with spirits and ceremonials. Success in war
+is associated, not with one society, but with a number of societies.
+It would, however, be manifestly erroneous and unnecessary to claim
+that it belongs essentially more to the one than to the other society,
+unless direct historical proof for such a statement were forthcoming.
+
+6. _Summary._—We are now in a better position to see in what the nature
+of the complete ceremonial complex consists. The unit it consists of
+is loose in the Ojibwa-Menominee, and strong in the Shell and Pebble
+Societies and in the Medicine Dance. The specific component elements
+are to a large extent different in each. It is utterly impossible now
+to discover the origin of the differences in the individual component
+elements; but it is quite clear that the forces tending to develop the
+larger ceremonial complexes have been, not those of a dissociation, but
+distinctly those of an association, of elements.
+
+These associations may be of the most diverse kind. Certain features
+may always have been associated with certain other elements, such as
+medicinal herbs and medicines with the water-spirit, as in the case of
+the Omaha and Winnebago. This, then, is for all practical purposes an
+ultimate unit. If, consequently, we find an intimate connection between
+a vision from the water-spirit and the practice of medicinal herbs, we
+must not consider this as a secondary association that has come about
+through the influence of a ceremony.
+
+In the same way, the connection of the buffalo with the magical renewal
+of the food-supply will probably have to be looked upon as such an
+ultimate unit.
+
+Our first object, therefore, when we find certain elements associated,
+is to determine whether there is any reason for believing that we are
+dealing with some such ultimate complex or unit.
+
+On the other hand, when we find a magical ceremony for punishing
+offenders (viewed from its social aspect) associated with the Shell
+Society, or mortuary ceremonies associated with the Menominee
+Midewiwin, these associations cannot be considered as being ultimately
+connected with any particular aspect of the society’s function, as
+the complexes which they form exhibit an extreme variability. Their
+presence in various societies must be interpreted as secondary
+associations of some kind. As secondary associations, however, they
+may have been conditioned either by their specific nature or by the
+specific development of the society. As such we might, for instance,
+view either certain aspects of the shamanistic practices of the Ojibwa
+Midewiwin, or the mortuary ceremonies connected with the Menominee
+Midewiwin, or the punishment of offenders in the Shell Society.
+
+When, however, we find cultural phenomena, which are generally
+possessed by a tribe, associated in varying degrees with this or
+that ceremonial, this association must be looked upon as due to the
+influence of the cultural environment. This influence may be conceived
+as setting in at any time during the historical development of the
+ceremony, while the ceremony itself remains passive; as, for instance,
+if the journey to the spirit land is connected with the Medicine Dance,
+or with the wake, with the telling of truth, or with membership in
+a clan. Here it is obviously the cultural environment that has been
+active. If, however, the mide, united in an organization, develop
+certain phases of this general cultural environment, such as magic and
+shamanistic practices, in a specific way, we have a right to credit
+this development as due to the activity of the society, and we have
+consequently a real secondary association of definite practices with
+an historically older organization. Of course, a good deal in this
+particular case would be caused by the fact that the members are mide;
+but after this historically preliminary stage, the Midewiwin became an
+active unit as a society; and in this sense, if it then specifically
+utilizes certain beliefs in a special manner, it can be said to be
+secondarily associating them.
+
+It is thus seen that the mechanism of the association is both
+psychologically and historically highly complex. One thing, however,
+seems to be quite demonstrable; namely, that there is always one
+constant element,—the specific cultural background or type of each
+tribe.
+
+Bearing this in mind, the similarities in the association of the
+Midewiwin of the Ojibwa-Menominee, the Medicine Dance of the Winnebago,
+and the Shell and Pebble Societies of the Omaha, do not necessarily
+indicate an historical relationship, but would most likely tend
+to show that a number of ideas and customs were common to a large
+cultural area. This does not of course interfere in the least with the
+possibility of an historical connection, but this historical connection
+must in each case be demonstrated. However, even if it were proved,
+an historical connection alone cannot possibly explain the entire
+phenomenon; for the cultural environment, if it is the same, will
+condition general similarities and resemblances in ceremonies that
+historically are quite unrelated, so that the convergent evolution thus
+resulting will completely obscure at times the individual history of a
+ceremony. It is, for instance, possible that historically the journey
+to the spirit land was connected with the wake among the Winnebago. The
+general prevalence of the same idea among so many social and ceremonial
+groups to-day, however, makes it unjustifiable to assume such a
+connection in the absence of any direct historical data; so that,
+although there is to my mind little doubt that these associations are
+all historically different, owing to the influence of certain general
+cultural ideas, they present to-day the same picture.
+
+It is quite safe to assume that, just as we have shown that the
+shooting ceremony in the Medicine Dance is the borrowed initiation
+ritual of the Midewiwin, so it would be possible to demonstrate, were
+we in the possession of fuller historical data, that other elements
+have been borrowed. However, when we have demonstrated the borrowing of
+a certain element, we have only partially, and often only inadequately,
+explained it. Its further explanation is possible only in terms of the
+specific type of ceremony, and of the general cultural environment with
+which it has been associated. Both of these may change. It does not
+follow that because, among the Winnebago to-day, all the societies are
+practically associations of individuals who have obtained supernatural
+communication from this or that spirit, this was therefore always the
+basis of the societies. To-day the Medicine Dance and the Night Spirit
+or Sore-Eye Dance have a different type of organization. Originally the
+latter had the former type, and the Medicine Dance may have had it. It
+is, for instance, barely possible that we may in this case be dealing
+with the beginning of a change of type of organization, and that,
+similarly, types of organization preceded that, whose essence to-day
+lies in the possession of common visions.
+
+                   *       *       *       *       *
+
+We have now finished the examination of a number of definite
+ceremonies. Our object in analyzing them was to determine in what the
+significance of the common elements lay, and what general historical
+and psychological tendencies were operative in their growth. We may now
+examine the results of our study in the light of Schurtz’s theory, and
+examine the data upon which Schurtz based his theory in the light of
+the leading points of view emphasized above.
+
+VII. RÉSUMÉ AND CONCLUSION.—The main thesis Schurtz sought to establish
+was the demonstration of the parallel historical development of society
+as determined by certain psychological tendencies of the race. It is
+of prime importance to remember that he claimed to have found certain
+survivals by means of which he was able to reconstruct the stages in
+the history of society. Initiation degrees, the exclusion of women,
+etc., he considered “symptomatic” of these stages. His main object was
+to prove the existence of these symptoms. Wherever he found them, he
+was satisfied that he was dealing with vestiges of the stages through
+which society had passed. All these symptoms, according to Schurtz, had
+definite and specific connotations, and were associated with definite
+and specific stages in the development of society.
+
+We have seen, in the analysis of the ceremonies of a limited area, that
+the common elements which were supposed to be symptomatic of historical
+relationship had no such value, and that they entered into a number
+of cultural complexes historically distinct one from another. In the
+same way we will now examine the more fundamental symptoms—initiation,
+degrees, and the exclusion of women—to see whether any specific
+significance attaches to them, and whether they, too, have not become
+associated with a number of cultural complexes historically distinct.
+If they have thus become associated, then their value as criteria for
+definite stages of social evolution is _nil_.
+
+1. _Initiation._—It was our main purpose, in analyzing the above
+ceremonies, to examine them quite apart from any theoretical
+presuppositions. In so proceeding, we obtained as a resultant the fact
+that initiation connoted psychologically and historically a number of
+different things, and that this difference seemed dependent upon the
+historical and psychological individuality of each tribe. To Schurtz,
+however, initiation meant primarily an initiation into puberty, and
+into that social status with which puberty has been so long and closely
+associated,—an association that seemed, historically speaking, almost
+an ultimate complex; namely, initiation into the tribe. He assumes that
+if it is found to mean anything else, then this new meaning is either
+a secondary association, or, preferably, an historical development
+from the first conception. Carried out logically, we should therefore
+have to consider initiation into a masonic order or into a college
+fraternity as a transformation of an original tribal initiation. To
+this, I think, Schurtz would have taken serious exception, on the
+ground that we are here dealing with a purely rational and artificial
+social group. But are we not to a certain extent dealing with the same
+phenomenon in the primitive societies discussed?
+
+In examining a phenomenon such as initiation, we must not forget
+that it is, in a general way, absolutely conditioned by the specific
+individuality of one man as opposed to that of another. The desire of
+one man for participation in the possessions of another, or in those of
+some differentiated group, is an ultimate fact for which we need give
+no explanation. What is essential for our discussion is the realization
+that the methods of this participation are infinite, depending entirely
+upon the influence of cultural factors in the development of specific
+areas, and of institutions within them. Thus initiation into the
+Midewiwin is the transfer of certain mide powers; into the Pebble and
+other Omaha Societies, a common vision; into the Medicine Dance, the
+transfer of certain knowledge. This transfer or initiation is in no
+way different from that which takes place between two individuals,
+except that in the former case we are dealing with phenomena between an
+individual on the one hand, and a group of individuals on the other.
+This conception of initiation has become associated everywhere with
+social and ceremonial groups. One may, for instance, be initiated into
+a clan, into a name, into a family, etc.
+
+To Schurtz, however, the concept of initiation is primarily associated
+with puberty. His argument is that puberty is a physiological stage
+through which every one must pass. The change to sexual maturity is so
+important a fact, that it cannot possibly have escaped any tribe. It
+follows that this physiological change must have been correlated with
+a change in the position of the individual in the tribe. He will, for
+instance, among other things, be less subjected to the influence of his
+mother, and more to that of his father, etc.
+
+All these general propositions are true; and it is also unquestionably
+true that there has been a marked tendency for ceremonies to cluster
+around that period of physiological change which we call puberty.
+Similarly, in some cultural areas there has been a secondary, or,
+if you wish, a constant association of puberty rites with a formal
+adoption into the tribe. In Australia, for instance, the individual
+does not become of active social importance until he has passed through
+certain rites at the age of puberty.
+
+The essential point, however, is whether he does not always become of
+active social importance at about that age. He unquestionably does. We
+cannot, therefore, assume offhand that it is the fact of puberty that
+is being emphasized by the initiatory rites. This would be the case
+only if we could prove that puberty is invariably associated with some
+form of initiation. If it is not, then we must regard the clustering
+of the concept of initiation around the age of puberty, among the
+Australians and other tribes, as a cultural peculiarity of these
+peoples.[28]
+
+In other words, the beginning of the social importance of an individual
+may be associated with puberty initiation rites. Initiation may,
+however, be associated with any period of development. For instance,
+among the Christians and Semites, it is found associated with birth in
+the forms of baptism and circumcision; and just as with any age, so it
+may become associated with any social or ceremonial unit. It can thus
+become associated with entrance into a society; and we may consequently
+say that a society is only one of the numerous cultural elements with
+which initiation has become associated.
+
+It is, however, a truism to state that initiation is essential for
+group differentiation; excluding, of course, the case where membership
+in a group is not synonymous with birth. When Schurtz, therefore,
+reconstructs the evolution of initiation, and connects the initiation
+into a society with that at puberty, he must have been guided by some
+more fundamental facts than that of the presence of initiation. The
+postulation of a genetic relationship between the two initiations lay
+really in the fact that he detected in the form of initiation into
+the society certain “symptoms” which he regarded as being primarily
+associated with puberty initiation. These symptoms were the presence of
+“tests” as essential for admission into a society; and group-initiation
+or the initiation of a number of youths at the same time. That he was
+thinking of tests in the most general way, can be seen by the following
+statement. “Das Austeilen von Schlägen ... im Duk-Duk hängt wohl mit
+den Mutproben der Knabenweihe zusammen.”[29] It is hardly necessary to
+insist that the test concept used in this generalized manner is found
+associated with the ordinary forms of eligibility; so that, wherever
+the idea of eligibility is associated with a social or ceremonial
+group, there it will be natural to find tests. There is no need of
+giving any examples: they must occur to every one. The test feature
+must consequently be considered so general a cultural possession that
+its association with diverse cultural phenomena is quite natural, and
+its significance will in each case depend upon specific conditions.
+We cannot, therefore, predicate any general significance for the
+association of the test feature in specific cultural complexes.
+
+Schurtz’s second symptom comes out strongly in his discussion of
+the Ruk-Ruk Society of Northern Bougainville.[30] We have here, he
+says, a remarkable connecting link between simple men’s associations
+(_Männerbünde_), firmly established by puberty rites and secret
+societies. He arrives at this conclusion, because he finds it customary
+there to have a group of youths initiated into the society at the same
+time. Here both the youth of the novices and the group initiation are
+emphasized as being symptomatic of a development from former men’s
+associations (_Männerbünde_).
+
+It must, however, be remembered, as we have said before, that a man
+becomes socially active at about the age of puberty, and that his
+social activity will naturally take those channels customary in a
+given tribe. The fact that a youth enters a society like the Ruk-Ruk,
+to which most members of the tribe belong, should not excite wonder.
+As a matter of fact, we should find it necessary to explain why he
+did not join. His failure to become a member would most certainly be
+associated, in such a case, with a low social status. What is to be
+emphasized here is not the youth of the novices, but the intellectual
+development occurring at that age. This comes out clearly in the case
+of the Duk-Duk, where the parents generally purchase membership for
+their children immediately after birth. Young children behave like
+regularly initiated members, but they only become active members at the
+age of sixteen. Similarly in the Winnebago Medicine Dance individuals
+may be initiated in early childhood, but it is at a much later period
+that they possess the powers of adult members. As a matter of fact,
+admission depends upon so large a number of factors in different
+societies, that it would be possible to draw up a table that would
+include all ages from birth to old age.
+
+In the same way the initiation of a group of individuals at one time
+depends upon too large a number of factors to permit any single
+interpretation. The burden of proof rests with Schurtz to show that the
+presence of a specific test connects the Ruk-Ruk Society with puberty
+rites, and that the presence of a group initiation in the Duk-Duk
+connects that society with the men’s associations.
+
+Perhaps a few examples might bring out more clearly the different kinds
+of initiation.
+
+In the Ruk-Ruk Society the novices retire to the woods, work for their
+sponsors, lay out their plantations, etc. They are also supposed
+to converse with spirits.[31] Similar conditions are found in the
+Matambala Society of the Island of Florida.[32] This retirement to
+the woods and to a holy precinct, and consequent re-appearance, are
+characteristic of a large number of initiations. The work the novice
+performs for his sponsor must also be regarded as a characteristic of
+this area. The tests of the novice have been spoken of before. They
+are, as might be expected, of the most diverse kind. In Fiji, for
+instance, a ceremonial attack upon the novices occurs, which is said to
+symbolize their death.[33]
+
+In Africa we find many of the characteristics noted above. In the
+Purrah the novices retire to a holy precinct, and are said to
+endure extreme hardship. Only warriors thirty years of age can be
+initiated.[34] In the Mumbo-Djumbo only youths older than sixteen are
+admitted.[35] The other conditions are similar to those of the Purrah.
+In the Simo organization novices were circumcized and lived seven years
+in the woods.[36] In the Mwetyi Society, in addition to probations, the
+youths adopt a taboo of certain foods or drinks, to which they remain
+faithful ever after.[37] In the Ndembo Society novices are shot by a
+rattle, and fall down as if dead. They are then carried away to some
+holy precinct, where often as many as from twenty to fifty individuals
+remain at the same time. At this place they stay sometimes as long as
+three years. Their bodies are supposed to disintegrate during this
+time. When they are supposed to return, the shaman gathers their bones
+and restores them to life. On the return to their villages, they behave
+like unknown children, fail to recognize their relatives, to understand
+their own language, etc.[38] In the Nkimba similar conditions are
+found.[39]
+
+The variability of the method and concept of initiation is thus
+seen to be enormous. It might be interesting in this connection to
+point out how certain ideas will cluster around initiation in one
+large geographical area, and how the same ideas will cluster around
+a different cultural complex in another large geographical area.
+For instance, in the South Seas and in Africa, initiation is found
+generally associated with tests or probations; whereas in North America
+tests are not associated with initiation into the society, but with the
+obtaining of visions at the age of puberty.
+
+2. _Degrees._—To Schurtz, degrees are symptomatic of age classes.
+Wherever he finds them in societies, and wherever they seem to be
+correlated with certain ages, he concludes that they are vestiges of
+former age groups. However, he seems to have overlooked one fact,—that
+the same social and individual forces that would tend toward the
+formation of societies would necessarily tend toward the development
+of distinctions within them. It will depend entirely upon the nature
+of the people and the individual history of the organization, in
+what manner these distinctions will be emphasized. One of the
+possible methods of emphasizing them is marking off those with common
+possessions in some definite manner. Here, again, much will depend upon
+the kind of group into which the individual is initiated. If, when
+he enters the society, he is initiated into all that pertains to it,
+gradations will not be likely to arise. Generally, however, there is
+certainly a marked tendency for some sort of gradation, be it due to
+length of membership, insistence upon separate payments, unwillingness
+of the older members to impart all to a new member who may withal be
+quite young, a desire to impart piecemeal in order to enhance the value
+of the teachings, etc. Whether these possible lines of cleavage will
+associate themselves with definite markings or rites, is a question
+of individual cultural development. They may or they may not. In
+Melanesia, for instance, they did not.
+
+In the Ruku-Ruku[40] of the Fiji Islanders we find three
+gradations,—those of uninitiated youths, grown-up men, and old men.
+In the Purrah[41] there were two gradations, consisting respectively
+of those over thirty and of those over fifty years. In the Egbo[42]
+Society there are eleven degrees, into which membership may be
+purchased one after the other in an ascending scale. In Old Calabar[43]
+there are five classes.
+
+In the Purrah we are dealing with an exceedingly intricate complex,
+in which military and judicial functions are quite prominent. The age
+factor seems secondary and artificial. In the Egbo there is no age
+factor at all. In the Ruku-Ruku an age factor exists. Owing to the
+social value of the Ruku-Ruku, all individuals seem to be potential
+members at birth. At the same time, the oldest members always have
+specific functions to perform. In this way two groups are formed.
+Those who do not belong to these two groups belong to the third group.
+All that can be said here is, that a society has utilized a rough
+age factor for specific purposes. That in reality the entire tribe
+is divided into three divisions, is due to the fact that all the
+members of the tribe are members of the society. This is therefore
+not a phenomenon that has any general significance in the evolution
+of society, but is purely and simply a phenomenon of certain secret
+societies. The threefold division is not due to a persistence of a
+former threefold division of the tribe, but grew out of the needs of
+a specific society. The same remarks hold for the twofold division
+of members in the Purrah. Similarly the four and eight degrees found
+among the Ojibwa Midewiwin are due to a development within the
+society. To-day practically all the members of the tribe belong to the
+Midewiwin, and the tribe may be said to be divided into four divisions.
+(However, in this case the main element, that of the association of a
+certain age with a certain degree, does not exist, because there is no
+fixed age at which a man buys admission into the higher degrees.)
+
+It will consequently be necessary to determine the significance of
+degrees in each particular case before any general significance can be
+attached to them.
+
+3. _Exclusion of Women._—The admission of women into a society is,
+according to Schurtz, a secondary feature. This followed directly from
+his negative position with regard to women’s _Geselligkeitstrieb_,
+and from his assumption that societies were merely transformed
+men’s associations, which in turn were transformed age groups. The
+question of the _Geselligkeitstrieb_ of women hardly lends itself
+to any accurate discussion, as, generally speaking, women have not
+been surrounded by those conditions which played an important part in
+developing that trait among men. In our own civilization, where men and
+women are to a certain extent subjected to the same conditions, a large
+number of women societies has developed, and large numbers of women
+have been admitted into men’s societies. Among us, this admission of
+women is due to the fact that they are now in the same industries that
+men are. However, there are manifold factors which can and do bring
+about the admission of women into men’s societies or their exclusion
+therefrom. The nature of some societies may exclude men, just as it may
+exclude women. A soldiers’ society will exclude women, because women
+are not soldiers. Similarly a sewing society will probably exclude
+men. The exclusion of women will therefore depend upon the specific
+functions of a society; but the right of women to participate in
+certain activities will again depend upon the manner in which each
+specific culture area separated the spheres of action of men and women.
+
+The possibility of infinite variation must force upon us the conclusion
+that we can only begin to investigate the reasons for the exclusion or
+admittance of women when we have a clear understanding of the ideas
+each tribe possesses with regard to the specific functions of the men
+and women. This determination is in a large number of cases utterly
+impossible, because we are in no position to know whether the reasons
+now given are historically the true ones. If, for instance, in a men’s
+college fraternity women are debarred on the ground that the fraternity
+is interested in fencing, card-playing, etc., which are occupations of
+men, historically this is not the true reason. Originally fraternities
+were merely social gatherings of individuals who attended a college.
+There were no women students to admit. To-day, when women attend the
+colleges, wherever new fraternities arise, women are admitted. It is
+thus apparent, that, in the absence of historical evidence, we must be
+extremely careful in interpreting the reason for this exclusion.
+
+In Melanesia, for example, women are entirely excluded from the
+societies. However, in Melanesia, societies are associated with a
+multitude of religious and social functions in which women are not
+permitted to participate. In other words, the Melanesians draw the line
+of demarcation between the activities of men and women along these
+lines. If, for instance, in the New Hebrides, women have nothing to do
+with the funeral and mortuary rites, and a secret society is intimately
+connected with such rites, then we ought not to be surprised that women
+are not admitted into the society. It seems to me, therefore, that we
+should make much better progress in our study of this phenomenon in
+Melanesia and in Polynesia, if we were first to examine whether either
+the conceptions of the tribe, or the nature of the specific society, or
+the cultural elements with which it was associated, debarred women from
+membership.
+
+A few examples from Africa will emphasize this point even more
+forcibly, and at the same time indicate along what lines the respective
+spheres of men’s and women’s actions are drawn there. In the Purrah
+Society, women are excluded. The society has general war and judicial
+functions which do not come within the domain of women, according to
+the ideas of the tribe. In the Attonga Society[44] of Senegambia, only
+women are admitted, and the society is associated with mortuary rites.
+In the Dschengu we have another women society connected here with the
+cult of some water deity.[45] In the region around the mouth of the
+Ogowe there are a number of powerful women societies associated with
+various elements.[46]
+
+If we now proceed to Schurtz’s contention, that women societies are
+merely imitations of men’s societies, we shall see that, as a general
+statement, this is as unjustified as is his interpretation that the
+admission of women into societies is a secondary feature. That it
+is true in a number of cases, is unquestioned. However, when, as in
+Africa, we see a very strong tendency for the formation of societies,
+and see at the same time a very large number of women societies, it
+seems far more justifiable to assume that the women societies are
+formed in response to the same tendencies as those of men. To judge
+from parallels in other parts of the world, it is extremely likely that
+women will form societies wherever men show a strong tendency to do so.
+A number of factors may, however, interfere with a development of such
+societies. For instance, it is quite plausible that where, as among the
+Melanesians, a strong society-forming tendency existed, and women did
+not participate in it, some strong reason existed which might perhaps
+be ascribed to the fact that women do not there participate in those
+rites that are almost universally associated with societies.
+
+In North America there are numerous examples of women belonging to
+men’s societies. A cursory examination will bring out what were the
+possible factors at work there. In the Objibwa-Menominee Midewiwin,
+women are admitted. Now, in the Ojibwa-Menominee culture, women may
+become shamans as well as men, and the society based on shamans will
+naturally include both sexes. If there are fewer women than men, this
+is because fewer women become shamans. In the Winnebago Medicine Dance,
+wealth and certain requirements possessed by both men and women are the
+only essentials for admission; and both sexes can accordingly become
+members. In the present Sore-Eye Dance, women are admitted. Formerly
+the same society, known as the Night Dance, excluded women. The
+reason is very simple. Formerly, supernatural communication with the
+night spirits was essential for membership, and owing to the specific
+associations attached to these night spirits, women never obtained
+visions from them. When subsequently it was no more essential to have
+had a vision, and membership could be purchased by any one, women were
+admitted. Among the Blackfoot, women are part members of the religious
+society, because, according to Blackfoot ideas of property, the former
+have a part in the medicine-bundle of the man. The possession of the
+medicine-bundle is necessary for admission into the society.[47] It is
+thus apparent that the explanation for the exclusion of women from a
+society must lie in a large number of factors, not the least important
+of which is the nature of the specific ideas of property and the
+respective spheres of activity of men and women.
+
+4. _Functions of the Society._—Our analysis of the five ceremonies
+has clearly established the differences in the functions of the
+societies. To Schurtz these differences were due to developments from
+one historically primary function. His line of argument is a direct
+consequence of his assumption that secret societies have developed from
+the men’s associations.
+
+If we glance at the West African, the Melanesian, the Polynesian,
+North American, and our own societies, we see that their functions are
+legion. Now, it can be demonstrated that where the whole or a large
+part of the tribe is included in a society, that society will possess
+many of the functions of the tribe, because individuals are primarily
+carriers of their culture, and secondarily members of a society; or,
+it might be better said that these two functions of an individual are
+so inextricably connected that they cannot be thought of apart. It
+can also be demonstrated that specific societies have associated with
+them a variety of functions. In each case we are dealing with the
+same phenomenon. The number of possible combinations is practically
+infinite. It is, however, a suggestive fact that certain functions of a
+society are distributed over large areas. In Melanesia, for instance,
+the most constant functions of societies seem to be those connected
+with mortuary rites and ancestor worship. In Africa, again, they are
+primarily judicial and administrative. In the case of our five North
+American ceremonies, they are religious and magical. For the latter our
+explanation lay in assuming that we were dealing there with a common
+cultural background. The same explanation holds true for Melanesia and
+Africa. In other words, societies, like all other social units in which
+an individual takes part, must necessarily associate themselves with
+the cultural background in which they are set.
+
+5. _Conclusion._—The study we have undertaken can only indirectly be
+considered an examination of Schurtz’s theories. What we have attempted
+is the analysis of a number of ceremonies, in order to discover what
+tendencies were operative in their growth. These examples, combined
+with others taken from the South Seas and Africa, have demonstrated
+clearly that there exist in the world certain general ideas that
+may associate themselves with any type of social and ceremonial
+organization. Ceremonies in origin historically distinct may thus come
+to possess general and often specific resemblances. It is consequently
+of extreme importance, in any scheme of social reconstruction, to
+determine first whether the common elements in the ethnological data
+compared are not due to such a convergent evolution.
+
+
+                              FOOTNOTES:
+
+[1] The description of the ritual is based on material collected by me,
+and now in the possession of the Bureau of American Ethnology. The full
+description will appear as a memoir of the Bureau.
+
+[2] X’okê′ means literally “root” or “ancestor.” “Ancestor-host” will
+be used as its equivalent.
+
+[3] This word means literally “he who puts himself in the place to
+benefit his relatives.” The reference is to the Rabbit, who, at the
+first performance of the ceremony, acted as host and initiated his
+relatives; i. e., the human beings.
+
+[4] The speeches are not actually rehearsals of speeches to be
+delivered during the ceremony proper, but they refer to the purpose of
+the Medicine Dance much in the same way as do some of the speeches in
+the ceremony proper. A large number of miscellaneous myths are likewise
+related.
+
+[5] This has been contradicted by some of my informants, who claim
+that only the East and North Bands have representatives at the brush
+ceremony.
+
+[6] _Annual Report of the Bureau of American Ethnology_, vol. vii, p.
+188, diagram.
+
+[7] _Annual Report of the Bureau of American Ethnology_, vol. vii, pp.
+245, 255–274.
+
+[8] _Ibid._, p. 257.
+
+[9] _Ibid._, pp. 167–181.
+
+[10] _Ibid._, p. 168.
+
+[11] _Annual Report of the Bureau of American Ethnology_, vol. xiv, p.
+69.
+
+[12] Compare diagram, _ibid._, p. 75.
+
+[13] _Ibid._, p. 75.
+
+[14] Heinrich Schurtz, _Altersklassen und Männerbünde_, 1902; cf.
+especially pp. 1–82.
+
+[15] Wherever the phrase “instinct for association” is used, it is an
+attempt to render the German _Geselligkeitstrieb_.
+
+[16] S. R. Riggs, Dakota Grammar and Texts.
+
+[17] Hoffman, in _Annual Report of Bureau of American Ethnology_, vol.
+vii.
+
+[18] _Ibid._, vol. xiv.
+
+[19] Boas, The Social Organization and the Secret Societies of the
+Kwakiutl Indians (_Annual Report of the U. S. National Museum for
+1895_, p. 485).
+
+[20] Migis is the Ojibwa term for the shell used in the Midewiwin. It
+is employed here as a convenient term to designate the objects used by
+the Winnebago and Omaha in shooting.
+
+[21] Alanson Skinner (MS.).
+
+[22] Frances Densmore, “Chippewa Music” (_Bureau of American
+Ethnology_, Bulletin 45). Washington, Government, 1910.
+
+[23] _Annual Archaeological Report, 1905_ (Report of Minister of
+Education, Ontario), p. 146.
+
+[24] _Annual Report of the Bureau of American Ethnology_ (1905–06),
+vol. xxvii.
+
+[25] _Annual Report of the Bureau of American Ethnology_ (1905–06),
+vol. xxvii.
+
+[26] In the Cheyenne Medicine Arrow Society a similar association
+occurs.
+
+[27] Miss Fletcher, in _Annual Report of the Bureau of Ethnology_, vol.
+xxvii.
+
+[28] Van Gennep, in a very interesting chapter on “Initiatory Rites”
+(Chapter VI of his _Les Rites de Passage_), has divided puberty into
+two divisions,—_puberté physique_ and _puberté sociale_,—and has shown
+that the age variations of both are considerable. He insists that many
+writers have considerably obscured the points at issue by confusing
+the two. Van Gennep believes that the _puberté physique_ and _puberté
+sociale_ rarely fall together. It seems to me that this is not entirely
+borne out by the facts of the case; for it must be remembered that,
+accompanying the physiological changes at puberty, there are mental
+changes which in many cases permit an individual to become of active
+social importance; and while I think that it is this social activity
+that is emphasized by the initiatory rites, nevertheless the fact must
+not be overlooked that this social activity often coincides with the
+physiological puberty. We must, of course, not identify physiological
+puberty with any too definite a time, but allow for considerable
+fluctuations.
+
+[29] Schurtz, Altersklassen und Männerbünde, p. 376.
+
+[30] _Ibid._, p. 379.
+
+[31] Schurtz, Altersklassen und Männerbünde, pp. 378 ff.
+
+[32] _Ibid._, p. 379.
+
+[33] _Ibid._, pp. 386 ff.
+
+[34] _Ibid._, pp. 410–413.
+
+[35] _Ibid._, pp. 413–415.
+
+[36] _Ibid._, p. 415.
+
+[37] _Ibid._, pp. 430 ff.
+
+[38] _Ibid._, pp. 433–435.
+
+[39] _Ibid._, pp. 435–437.
+
+[40] Schurtz, Altersklassen und Männerbünde, p. 386.
+
+[41] _Ibid._, p. 410.
+
+[42] _Ibid._, p. 420.
+
+[43] _Ibid._, p. 422.
+
+[44] Schurtz, Altersklassen und Männerbünde, p. 416.
+
+[45] _Ibid._, p. 426.
+
+[46] Schurtz, Altersklassen und Männerbünde, p. 429.
+
+[47] Oral communication of Dr. Wissler.

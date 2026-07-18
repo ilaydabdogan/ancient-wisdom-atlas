@@ -1,49 +1,3 @@
-# Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-TRANSLATED
-
-
-BY VARIOUS ORIENTAL SCHOLARS
-
-
-AND EDITED BY
-
-F. MAX MULLER
-
-
-VOL. V
-
-
-AT THE CLARENDON PRESS
-
-\^All rights reserved']
-
-
-TRANSLATED BY
-
-E. W. WEST
-
-
-PART I
-
-
-the bundahi5, bahman ya5t, and
-shAyast lA-shAyast
-
-
-AT THE CLARENDON PRESS
-
-\_All rights reserved 1
-
-
-CONTENTS.
-
-
 INTRODUCTION.
 
 1. The Parsi Scriptures
@@ -209,7 +163,7 @@ subordinate to the Greek successors of Alexander, as early
 as the third century B. C.^ Further traces have been discovered in the legends on some provincial coins of the time
 of the Arsacidan dynasty. But, practically, our acquaintance
 with Pahlavi commences with the inscriptions^ on rocks and
-coins, of Ar<^akhshir-i Papakan (a.D. 226-240), the founder
+coins, of Ar(^akhshir-i Papakan (a.D. 226-240), the founder
 of the Sasanian dynasty, and ends with certain religious
 
 ^ See Levy's Beitrage ziir aramaischen Miinzkunde Eran's, unci zur Kunde
@@ -1149,9 +1103,9 @@ INTRODUCTION. XXXIU
 
 
 is undated, but gives the testimony of Dastur Rustam ^
-Gu^tasp Ar<^ashir, who is known to have written another
+Gu^tasp Ar(^ashir, who is known to have written another
 MS. dated A.Y. 1068 (a.d. 1699). The second colophon is
-by Dastur Jamshe</ Jamasp Hakim, and is dated A.Y. 1113
+by Dastur Jamshe(/ Jamasp Hakim, and is dated A.Y. 1113
 (a. D. 1743), which was probably the date when this last
 folio was supplied to complete the old defective MS.
 
@@ -1160,7 +1114,7 @@ can arrive at an approximation in the following manner : —
 A valuable MS. of the Da^istan-i Dinik, which also belongs
 to Tehmuras Dinshawji, was written (according to a colophon
 which it contains) by Gopatshah Rustom^ Bandar Malkamar^an in the land of Kirman, who was evidently the same
-person as the writer of TD, Another MS. of the Da<:/istan-i
+person as the writer of TD, Another MS. of the Da(:/istan-i
 Dinik was written by Mar^apan Frec/un Vahrom Rustam
 Bondar Malka-mar^/an Din-ayar, also in the land of Kirman,
 in A.Y. 941 (a.d. 1572). Comparing these two genealogies
@@ -1490,7 +1444,7 @@ some additional details not found in the Indian MSS., as
 well as a few other variations of no great importance. It
 may be translated as follows : —
 
-'[.... Sahm^ was in those reigns <?/"Auz6b6, Kava^,
+'[.... Sahm^ was in those reigns (?/"Auz6b6, Kava^,
 and Maniu/i'ihar.] Kai-Kayus, till Jiis going to the sky,
 seventy-five years, and after that, seventy-five years, altogether a hundred and fifty years ; Kai-Khusrobo sixty
 
@@ -1635,7 +1589,7 @@ the writer of the Selections of Za^-sparam, a translation
 of which is added as an appendix to the Bundahii- in this
 volume. This writer was the brother of Manu^/l'ihar son
 of Yudan-Yim, who wrote the Da^^istan-i Dinik \ and from
-colophons found in certain MSS. of the Da</istan (which
+colophons found in certain MSS. of the Da(/istan (which
 wall be more particularly described in the next section of
 this introduction) it appears that this Manuj-/&ihar was
 
@@ -1777,7 +1731,7 @@ when tying the kusti or sacred thread-girdle.
 Xlvi PAHLAVI TEXTS.
 
 
-4. The Selections of Zaz>-sparam.
+4. The Selections of Zaz)-sparam.
 
 In some manuscripts of the Da^istan-i Dinik the ninetytwo questions and answers, which usually go by that name,
 are preceded and followed by Pahlavi texts which are each
@@ -1832,7 +1786,7 @@ fragments of a further series of questions and answers
 regarding the omniscient wisdom, the evil spirit, Kangde^,
 the enclosure formed by Yim, &c.
 
-A translation of so much of the Selections of Za<^-sparam
+A translation of so much of the Selections of Za(^-sparam
 as treats of the same subjects as the Bundahii-, has been
 added as an appendix to the translation of that work in
 this volume, because the language used in these Selections
@@ -1931,9 +1885,9 @@ recovered, is in the library of Dastur Jamaspji Minochiharji ;
 it is a modern copy, written at different periods from forty
 to sixty years ago, and is incomplete, as it contains only
 one-fourth of the texts which usually follow the ninety-two
-questions and answers, and includes no portion of the Selections of Za<^-sparam.
+questions and answers, and includes no portion of the Selections of Za(^-sparam.
 
-Another MS. of the Da<^istan-i Dinik and its accompaniments, written also at Kirman, but two generations earlier
+Another MS. of the Da(^istan-i Dinik and its accompaniments, written also at Kirman, but two generations earlier
 than K35 (say, about A.D. 1530), has been already mentioned
 (see p. xxxiii). It is said still to contain 227 folios, though
 its first seventy folios are missing ; it must, therefore, begin
@@ -1941,7 +1895,7 @@ very near the same place as K35, but extends much further,
 as it supplies about half the text still missing from the
 
 
-> The fact of its being a copy of K35 is proved by strong circumstantial evidence. In the first place, it contains several false readings which are clearly
+) The fact of its being a copy of K35 is proved by strong circumstantial evidence. In the first place, it contains several false readings which are clearly
 due to mis-shapen letters and accidental marks in K35, so that it is evidently
 descended from that MS. But it is further proved to have been copied direct
 from that MS., by the last words in thirty-two of its pages having been marked
@@ -2115,7 +2069,7 @@ at liberty to alter and add to his text, if he does not understand it, or thinks
 has been freely exercised, with regard to these professed
 prophecies, is shown by the identification of the four prophetical ages of the StU(/gar Nask in the first chapter of
 the Bahman Ya^t being different from that given in the
-Dinkar^. The Dinkar<^ quotes the Stu^^gar Nask (that is,
+Dinkar^. The Dinkar(^ quotes the Stu^^gar Nask (that is,
 its Pahlavi version) as identifying the iron age with some
 period of religious indifference subsequent to the time of
 Ataro-pa^ son of Maraspend, the supreme high-priest and
@@ -2214,7 +2168,7 @@ writer evidently expected the reign of the demon-races to
 last less than a century, but still at some period in the near
 future ; merely illustrating his theme by details of the
 disasters and wars of his own time. Thirdly, we find it
-stated (III, 44) that Hushe</ar will be born in 1600, which
+stated (III, 44) that Hushe(/ar will be born in 1600, which
 seems to mean the sixteen hundredth year of Zaratu^t's
 millennium, or six hundredth of his own (say A.D. 1193-
 1335), also that the reign of the demon-races is to last a
@@ -2380,7 +2334,7 @@ Ix PAHLAVI TEXTS.
 
 
 bably arisen from the frequent use it makes of the words
-shaya^, ' it is fit or proper,' and la shaya</, 'it is not fit
+shaya^, ' it is fit or proper,' and la shaya(/, 'it is not fit
 or proper.' And, owing to its resemblance to those Persian
 miscellanies of traditional memoranda called Rivayats, it
 has also been named the Pahlavi Rivayat, though chiefly
@@ -2571,9 +2525,9 @@ fragments may still survive (see notes on Sis. X, 26, Haug's
 Essays, p. T34, B. Yt. Ill, 25), but those of the latter Nask do
 not appear to contain the passages quoted in the Shayast
 la-shayast. With regard to the rest we only know that the
-Damda^, Husparam, and Saka<^um must have been still in
+Damda^, Husparam, and Saka(^um must have been still in
 existence about A.D. 881, as they are quoted in the writings
-of Za</-sparam and Manui'^ihar, sons of Yudan-Yim, who
+of Za(/-sparam and Manui'^ihar, sons of Yudan-Yim, who
 lived at that time (see pp. xlii, xlvi) ; and the Niha^um
 and Husparam are also quoted in the Pahlavi Vendidad.
 It is true that the Dinkar^ gives copious information about
@@ -2926,7 +2880,7 @@ used to express them: — Afrin, 'blessing;' aharmok,
 'apostate, heretic ;' aharubo, 'righteous;' aharubo-da^,
 'alms, almsgiving;' akdino, 'infidel;' ameshospend,
 'archangel ;' arme^t, 'helpless ;' ast-homand, 'material;'
-aus6fri</, 'propitiation, offering;' bagho-bakhtd, 'divine
+aus6fri(/, 'propitiation, offering;' bagho-bakhtd, 'divine
 providence;' baresom, 'sacred twigs or twig-bundle;'
 
 
@@ -2950,8 +2904,8 @@ nasal ka t a k, 'corpse chamber ;' nirang, 'religious formula,
 ritual;' nirangistan, ' code of religious formulas;' niyaylsn, 'salutation;' padam, 'mouth-veil;' pa^iyaz/ih,
 'ablution, ceremonial ablution;' pahlum ah van, 'best existence;' paitre^, 'indirect pollution, infection ;' parahom,
 'hom-juice;' parik, 'witch;' patitih, 'renunciation of
-sin;' patiyarak, 'adversary;' p6ry6<^keshih, 'primitive
-faith;' ra<^, 'chief, spiritual chief, primate, high-priest;'
+sin;' patiyarak, 'adversary;' p6ry6(^keshih, 'primitive
+faith;' ra(^, 'chief, spiritual chief, primate, high-priest;'
 ristakhe^, 'resurrection;' satuih, 'the three nights;'
 .feda, 'demon ;' shapik, 'sacred shirt;' shnayijn, ' propitiation, gratification;' shnuman, 'dedication formula,
 propitiation;' spenak mainok, 'beneficent spirit;' tanu-i
@@ -3175,7 +3129,7 @@ destroying, and because of his malicious nature, he
 forms which are frequently confounded by Pahlavi copyists because their Pazand equivalents, ka and ke, are nearly alike.
 
 2 Reading amini^ar in accordance with M6, which has amini-
-<far in Chap. XXXIV, i, where the same phrase occurs. Windischmann and Justi read amuitar, 'uninjured, invulnerable,' in both
+(far in Chap. XXXIV, i, where the same phrase occurs. Windischmann and Justi read amuitar, 'uninjured, invulnerable,' in both
 places. This sentence appears to refer to a preparatory creation of
 embryonic and immaterial existences, the prototypes, fravashis,
 spiritual counterparts, or guardian angels of the spiritual and
@@ -3292,7 +3246,7 @@ twenty-one Avesta words, as follows : —
 
 Yatha ahu vairyo, atha ratuj, ashat/ k\d ha/t^,
 Vanghfuj dazda manangho, i'kyaothnanam angh^j mazdai,
-KhshathremM ahurai a, yim dregubyo dada</ vastarem.
+KhshathremM ahurai a, yim dregubyo dada(/ vastarem.
 And it may be translated in the following manner : 'As a heavenly
 lord is to be chosen, so is an earthly master (spiritual guide), for
 the sake of righteousness, to be a giver of the good thoughts of
@@ -3378,7 +3332,7 @@ afterwards the sun, as I s/m// relate.
 the whole material creation. They are personifications of old Avesta
 phrases, such as Vohu-mano, 'good thought;' Asha-vahijta,
 'perfect rectitude;' Khshathra-vairya, 'desirable dominion;'
-Spewta-armaiti, 'bountiful devotion;' Haurvata</, 'completeness or health ;' and Ameretad, ' immortality.'
+Spewta-armaiti, 'bountiful devotion;' Haurvata(/, 'completeness or health ;' and Ameretad, ' immortality.'
 
 "^ These six demons are the opponents of the six archangels
 respectively (see Chap. XXX, 29) ; their names in the Avesta are,
@@ -3532,7 +3486,7 @@ again unpersecuted by the adversary, perfect, and
 immortal, in the future existence, for ever and everlasting.
 
 Windischmann has nearly the same, as both follow the Pazand
-MSS. in reading homij-ak (as a variant of hami>rak), 'always,'
+MSS. in reading homij-ak (as a variant of hami)rak), 'always,'
 instead of khomsak.
 
 ^ Or ' adversity.'
@@ -3575,7 +3529,7 @@ and it pleased him not ; and that wicked evil spirit
 ^ The Pazand MSS. have garoist, for the Huz. hemnunast,
 ' trusted.' Windischmann and Justi have ' all.'
 
-^ Probably Gay6mar</.
+^ Probably Gay6mar(/.
 
 ^ The word kamarakan is literally 'those with an evil pate,'
 and is derived from Av. kameredha, 'the head of an evil being,'
@@ -3664,7 +3618,7 @@ obscure.
 
 * For the details of these visitations, see Chaps. VI-X.
 
-^ Reading khust torn; but it may be hangi</t(im, 'most turbid,
+^ Reading khust torn; but it may be hangi(/t(im, 'most turbid,
 opaque.'
 
 ^ The word makha, 'blow, stroke,' is a Huzvari^- logogram not
@@ -3789,7 +3743,7 @@ would not have been oppressive in it.'
 
 ^ Literally, ' the sole-created ox ' from whom all the animals and
 some plants are supposed to have proceeded (see Chaps. X and
-XIV), as mankind proceeded from Gay6mar<f. It is the ox of
+XIV), as mankind proceeded from Gay6mar(f. It is the ox of
 the primitive creation, mentioned in Chap. Ill, 14, 18.
 
 ^ The spiritual representative of the primeval ox, called Qewsurva, ' soul of the bull,' in the Avesta, of which name G6,mrvan is
@@ -3831,7 +3785,7 @@ intended to represent the fravahar as producing the creature
 is doubtful. The angel Goj, who is identified with Gojurvan, is
 usually considered a female, but this is hardly consistent with being
 the soul of a bull (see Chap. X, i, 2), though applicable enough to
-a representative of the earth. In the Selections of Za</-sparam, II,
+a representative of the earth. In the Selections of Za(/-sparam, II,
 6, however, this mythological animal is said to have been a female
 (see Appendix to Bundahi^).
 
@@ -4183,7 +4137,7 @@ the nasal of the Av. Rangha being generally omitted in Pahlavi, as
 other nasals are sometimes; thus we often find sag for sang,
 ' stone.*
 
-■* The word ^udni</ is a transposition of ^undi^, a graphical
+■* The word ^udni(/ is a transposition of ^undi^, a graphical
 variant of^unbi^, 'shook.'
 
 
@@ -4262,7 +4216,7 @@ earth, and their splendour and strength were the
 ^ See Chap. XXVII, 2.
 
 "^ Here 120,000 are mentioned, but see Chap. XXVII, 2, and
-Selections of Za</-sparam, VIII, 2.
+Selections of Za(/-sparam, VIII, 2.
 
 ^ Or, 'of all seeds' (see Chap. XVIII, 9).
 
@@ -4326,7 +4280,7 @@ and Vidart^afsh regions, the two portions on the north
 side are the Vorubar^t and Voru^ar^-t regions, and
 that in the middle is Khvaniras. 4. And Khvaniras
 has the sea, for one part of the wide-formed ocean
-wound about around it; and from V6rubar<rt and
+wound about around it; and from V6rubar(rt and
 Vorii^ar^t a lofty mountain grew up ; so that it is
 not possible for any one to go from region to
 region ^.
@@ -4368,7 +4322,7 @@ Soshans in other Pahlavi works, and its Avesta form is Saoshyas
 Chapter XII.
 
 I. On the nature of mountains it says in revelation, that, at first, the mountains have grown forth
-in eighteen years ; and Albiir<^ ever grew till the
+in eighteen years ; and Albiir(^ ever grew till the
 completion of eight hundred years ; two hundred
 years 2ip to the star station (pa yak), two hundred
 years to the moon station, two hundred years to the
@@ -4460,7 +4414,7 @@ at the gate of hell, where they always hold the concourse of the demons. 9. This
 excepting Alburn, the Aparsen * mountain is the
 
 ocean;' and the Pahlavi name, Ausindom, has probably arisen from
-the us Hindva</ of this passage, as suggested by Justi. (See
+the us Hindva(/ of this passage, as suggested by Justi. (See
 Chaps. XIII, 5, and XVIII, 10, xi.)
 
 ^ The sky is considered to be a true firmament, or hard and
@@ -4535,7 +4489,7 @@ quoted in Ouseley's Oriental Geography, p. 298.
 
 ® Not Kaf, nor is it mentioned in the Pahlavi Vend. V, 57, as
 supposed by Justi ; the kaf kop araya^ of Spiegel's edition of the
-Pahlavi text being a misprint for kafako paraya</, ' it traverses a
+Pahlavi text being a misprint for kafako paraya(/, ' it traverses a
 fissure' (see Haug's Essays, 2nd ed. p. 326, note 2).
 
 
@@ -4643,7 +4597,7 @@ Aparsen, of which the other mountains are enumerated. 30. For the Dava^^ mountai
 into Khu^istan likewise from the Aparsen mountain.
 31. The Dimavand^ mountain is that in which
 Bevarasp is bound, ^2. From. the same Padashkhvargar mountain unto Mount Kumi^- *, which they
-call Mount Mad6frya<^ (' Come-to-help ') — that in
+call Mount Mad6frya(^ (' Come-to-help ') — that in
 which Vi^tasp routed Ar^asp — is Mount Miyan-idaj-t ('mid-plain')^, and was broken off from that
 mountain there. ■^'X,. They say, in the war of the religion, when there was confusion among the Iranians
 it broke off from that mountain, and slid down into
@@ -4957,7 +4911,7 @@ least.
 
 13. These five genera are apportioned out into
 
-1 Justi reads girisa>^, the Av. gairisha/1'6, ' mountain-frequenting,' of Tutar Yt. 36 ; but this is doubtful.
+1 Justi reads girisa)^, the Av. gairisha/1'6, ' mountain-frequenting,' of Tutar Yt. 36 ; but this is doubtful.
 
 2 Pahl. zibal = Pers. zibal.
 
@@ -5030,7 +4984,7 @@ which has spines on its back, and the hedgehog
 which is similar. 20. Seventh, five species of the
 black ■* hare ; two are wild species, one dwelling
 in a burrow ^ and one dwelling in the jungle.
-21. Eighth, eight species of weasel ; one the marten, one the black marten, the squirrel, the V>ez
+21. Eighth, eight species of weasel ; one the marten, one the black marten, the squirrel, the V)ez
 ermine '^, the white ermine, and other species of
 weasel. 22, Ninth, eight species oi vdlW^ anii7tals ;
 one is that which is recognised by its musk'^, one
@@ -5066,7 +5020,7 @@ ermine in its summer fur.
 
 
 the musk animal with a bag in which is their
-pleasant scent, the Bi^-musk ^ which eats the V>\skerb, the black musk which is the enemy of the serpent that is numerous in rivers, and other species of
+pleasant scent, the Bi^-musk ^ which eats the V)\skerb, the black musk which is the enemy of the serpent that is numerous in rivers, and other species of
 musk animals. 23. Tenth, one hundred and ten
 species of birds; flying creatures (vey = vai) such
 as the griffon bird ^ the Kar^ipt ^, the eagle, the
@@ -5713,7 +5667,7 @@ Chapter XVIII.
 
 I. On the nature of the tree they call Gokar*^^ it
 says in revelation, that it was the first day when the
-tree they call G6kar</ grew in the deep mud ^ within
+tree they call G6kar(/ grew in the deep mud ^ within
 the wide-formed ocean ; and it is necessary as a producer of the renovation of the universe, for they prepare its immortality therefrom. 2. The evil spirit
 has formed therein, among those which enter as
 opponents, a lizard ^ as an opponent in that deep
@@ -5733,7 +5687,7 @@ gogrv once.
 ^ Reading gil, 'mud.' Windischmann and Justi prefer gar,
 ' mountain,' and have ' depth of the mountain.'
 
-^ That the writer of the Bundahi>r applies the term vazagh to a
+^ That the writer of the Bundahi)r applies the term vazagh to a
 lizard, rather than a frog, appears from the ' log-like lizard's body '
 of Chap. Ill, 9.
 
@@ -5821,7 +5775,7 @@ tree and the tree of many seeds.
 3 This description of the mountain seems to identify it with the
 Ausindom mountain of Chaps. XII, 6, and XIII, 5.
 
-* The Av. khara, 'which is righteous ««</ which stands in the
+* The Av. khara, 'which is righteous ««(/ which stands in the
 middle of the wide-shored ocean' (Yas. XLI, 28). Darmesteter,
 in his Orrnazd et Ahriman (pp. 148-151), considers this mythological monster as a meteorological myth, a personification of
 clouds and storm ; and, no doubt, a vivid imagination may trace a
@@ -6032,7 +5986,7 @@ securing the protection of sheep ; the fox is created
 in opposition to the demon Khava ; the ichneumon
 is created in opposition to the venomous snake
 (gar^'ak) rt/^^ other noxious creatures in burrows;
-so also the great vausk-animal is created in opposition ^ to ravenous intestinal worms (ka<i!'uk-danak
+so also the great vausk-animal is created in opposition ^ to ravenous intestinal worms (ka(i!'uk-danak
 garsak). 28. The hedgehog is created in opposition to the ant which carries off grain *, as it says,
 that the hedgehog, every time that it voids urine
 into an ant's nest, will destroy a thousand ants;
@@ -6145,7 +6099,7 @@ the same source, just as the remaining waters have
 flowed forth from them in great multitude ; as they
 say that they flowed out so very fast, one from the
 other, as when a man recites one Ashem-vohu^ of a
-series (pa<^isar). 3. All of those, with the same
+series (pa(^isar). 3. All of those, with the same
 water, are again mingled with these rivers, that is,
 the Arag river a7id Veh river. 4. Both of them
 continually circulate through the two extremities of
@@ -6340,7 +6294,7 @@ to the Haro river. 16. The Haro ^ river flows out
 from the Aparsen ranged 17. The Hettamand^
 river is in Sagastan, and its sources are from the
 Aparsen range ; this is distinct from that which
-Frasiya<7 conducted away ^ 18. The river Akhoshir
+Frasiya(7 conducted away ^ 18. The river Akhoshir
 is in Kumi^l 19. The Zi^mand^ river, in the direcmentioned in Vend. I, 6, II, 42, 43, Aban Yt. 17, 104, Ram Yt. 2,
 but this may not be a river, though the phrase has, no doubt, led to
 locating the river Daiiik in Airan-ve§-.
@@ -6474,7 +6428,7 @@ Shustar ; it is now called Ab-i Gargar.
 ' Probably the river which flows into the Amu (Oxus) at Tarmaz ; but, in that case, the Oxus is here again identified with the
 Veh (Indus) as in § 22, instead of the Arag (Araxes) as in § 8.
 
-'" Called Khvanaidij, or Khvanainidi>f, in § 7.
+'" Called Khvanaidij, or Khvanainidi)f, in § 7.
 
 11 Called Kasik in § 7. 12 q^^^^ ^^ Meshhed.
 
@@ -6606,7 +6560,7 @@ back, in this proportion, to themselves.
 Frasiyaz^ of Tur conducted it away ; and when "
 
 ^ K20 has ' Hetumand.' but M6 has ' ^.S'apir,' the Huz. equivalent of ' Veh,' which is more probable.
-^ Or, ' abstinencey>-ci»z impurity^.
+^ Or, ' abstinencey)-ci»z impurity^.
 
 * The source Aredvivsur (see Chap. XIII, 3, 10).
 
@@ -6622,7 +6576,7 @@ to Chap. I, 7).
 
 CHAPTER XXI, 3 -XXII, 3. 85
 
-Hushe</ar^ comes it luill flow asfain suitable for
+Hushe(/ar^ comes it luill flow asfain suitable for
 horses ; so, also, luill the fountains of the sea
 Kyansih^. 7. Kyansih^ is the one where the home
 (^inak) of the Kayan race is.
@@ -6734,7 +6688,7 @@ Dahak ^ a young woman was admitted to a demon,
 and a young man was admitted to a witch (parik),
 and on seeing them they had intercourse ; owing to
 that one intercourse the black-skinned negro arose
-from them. 3. When Fre<^un ^ came to them they
+from them. 3. When Fre(^un ^ came to them they
 fled from the country of Iran, and settled upon the
 sea-coast ; now, through the invasion of the Arabs,
 they are again diffused through the country of Iran.
@@ -6754,7 +6708,7 @@ Chapter XXIV.
 
 I. On the chieftainship of men and animals and
 every single thing it says in revelation, that first of
-the human species Gay6mar<af was produced, brilliant
+the human species Gay6mar(af was produced, brilliant
 and white, with eyes which looked out for the great
 one, him who was here the Zaratui"tr6tum (chief
 high-priest); the chieftainship of all things was from
@@ -6797,7 +6751,7 @@ CHAPTER XXIV, I-I 7. 89
 Those beasts which have no dread whatever of the
 hand are evil. 1 1. First of birds the griffon of three
 natures ^ was created, not for here (this world), for
-the Karj>ipt - is the chief, which they call the falcon
+the Karj)ipt - is the chief, which they call the falcon
 (/^ark), that which revelation says was brought to
 the enclosure formed by Yim. 12. First of fur
 animals the white ermine was produced ; he is the
@@ -6865,7 +6819,7 @@ and translates it by 'protecting stars!
 ^ Paz. khvad and ba/^aga evidently stand for Pahl. hu^(Av.
 huta) and bezashk.
 
-^ Compare Av. ay-danunam->{'a yavananam (TiJtar Yt. 29).
+^ Compare Av. ay-danunam-){'a yavananam (TiJtar Yt. 29).
 
 * Paz. aba/i'aga stands for Pahl. abe^ashk.
 
@@ -6967,7 +6921,7 @@ commences.
 CHAPTER XXV, 4-6. 93
 
 auspicious day Vahram of the month Din ' — the
-short^5/? day — the night increases ; and from the season of Me<^iyarem to the season of Merf'ok-shem the
+short^5/? day — the night increases ; and from the season of Me(^iyarem to the season of Merf'ok-shem the
 night decreases and the day increases. 4. The
 summer day is as much as two of the shortest^
 winter days, and the winter night is as much as two
@@ -7362,7 +7316,7 @@ clothing.'
 
 ^ The Paz. pehani (which is omitted in K20) is evidently a misreading of Pahl. pashang, ' a hoe-like spade.'
 
-* M6 adds Paz. gavina (Pahl. gunak) to gvi^/ gvi</ mungan,
+* M6 adds Paz. gavina (Pahl. gunak) to gvi^/ gvi(/ mungan,
 without altering the meaning materially.
 
 
@@ -7469,7 +7423,7 @@ Din-pavan-Mitro's, all violets are Mitro's, the red
 chrysanthemum (kher) is Srosh's, the dog-rose
 (nestran) is Rashnu's, the cockscomb is Fravarrtfin's, the sisebar is Vahram's, the yellow chrysanthemum is Ram's, the orange-scented mint isVartf's'\
 the trigonella is Din-pavan-Din's, the hundredpetalled rose is Din's, all kinds of wild flowers
-(vahar) are Ar^'s', A^ta<^ has all the white Hom ^
+(vahar) are Ar^'s', A^ta(^ has all the white Hom ^
 the bread-baker's basil is Asman's, Zamyart' has the
 crocus, Maraspend has the Jiozver'^ of Ardashir,
 
@@ -7932,7 +7886,7 @@ much heat like Aharman; and their food is brimstone (gandak), and of succulents 
 
 ^ Compare Mkh. VII, 31:' and always their darkness is suchlike as though it be possible to grasp with the hand.'
 
-^ Compare Ar</a-Viraf-namak (LIV, 5-8) : ' As close as the ear
+^ Compare Ar(/a-Viraf-namak (LIV, 5-8) : ' As close as the ear
 to the eye, and as many as the hairs on the mane of a horse, so
 dose and many in number, the souls of the wicked stand, but they
 see not, and hear no sound, one from the other; every one thinks
@@ -7950,8 +7904,8 @@ I. On [the spiritual chieftainship ^ of the regions
 of the eartJ{\ it says in revelation, that every one of
 those six chieftainships^ has one spi^ntual chief;
 as the chief of Arzah is Ashashagahartf-e i^e^a^^dMn*,
-the chief of Savah is Hoazarodathhri-hana PareJtyaro^ the chief of Fradart'afsh is Spit6i<^-i Ausposinan ^ [the chief of Vida(/afsh is Airi<2'-rasp Ausposinan',] the chief of Vorubar^t is Huvasp^ the
-chief of V6ru^ar<rt is A^akhravak^ 2. Zaratiut is
+the chief of Savah is Hoazarodathhri-hana PareJtyaro^ the chief of Fradart'afsh is Spit6i(^-i Ausposinan ^ [the chief of Vida(/afsh is Airi(2'-rasp Ausposinan',] the chief of Vorubar^t is Huvasp^ the
+chief of V6ru^ar(rt is A^akhravak^ 2. Zaratiut is
 
 
 ^ For this chapter, which is numbered XXX by previous translators, we have to depend only on K20 and TD (see the note on
@@ -7959,7 +7913,7 @@ the heading of Chap. XXVIII) ; and the words enclosed in brackets
 are supplied from TD, being either illegible or omitted in K20.
 
 2 Perhaps ' patriarchate ' or ' episcopate ' would be a better
-translation of ra</ih, and 'patriarch' or 'bishop' of ra^, in this
+translation of ra(/ih, and 'patriarch' or 'bishop' of ra^, in this
 chapter, as the chief high-priest (dastiir-i dasturan) and his office
 are evidently meant by these words.
 
@@ -8031,7 +7985,7 @@ in being isolated and difficult of access; in other words, either
 mythical, or independent of Iranian rule.
 
 * So in TD, which also omits the second, third, and fourth of
-these isolated territories. In K20 we might read ra</va khiar/ak,
+these isolated territories. In K20 we might read ra(/va khiar/ak,
 ' chief and lord,' as an epithet of Airan-ve^. This river must be
 the Nahvtak of Chap. XXI, 6.
 
@@ -8055,7 +8009,7 @@ Chaps. XXXI, 29, XXXII, 5.
 
 ^ TD has Altro-maono, and it may be doubted whether the
 latter portion of the name be derived from Av. mainyu, 'spirit,'
-or nirt'ungho, ' moon.' The Da</istan-i Dinik (Reply 89) calls him
+or nirt'ungho, ' moon.' The Da(/istan-i Dinik (Reply 89) calls him
 ' Patshayotanu who is called from the A^trok-mahano (or miyano),'
 the A'atru-miyan river of Chap. XX, 7, 31.
 
@@ -8086,8 +8040,8 @@ and those innumerable noxious creatures should not perish, then
 always when rain falls the noxious creatures would fall like rain.'
 In Chap. XXXI, 20, he is said to be a son of Aghreraa'.
 
-■^ So in K20; and Av. Parsha(fg<2U occurs in Fravardin Yt. 96,
-127 ; but TD has Fradakhi'tar Khumbikan, and Da</. (Reply 89)
+■^ So in K20; and Av. Parsha(fg(2U occurs in Fravardin Yt. 96,
+127 ; but TD has Fradakhi'tar Khumbikan, and Da(/. (Reply 89)
 mentions ' Fradhakhjto son of Khiambikan' as one of the seven
 
 
@@ -8111,7 +8065,7 @@ Av. Fradhakhj'ti Khu«bya of Fravardin Yt. 138.
 meant (see § 11).
 
 ^ Or it may be read Aeshm-i. This phrase occurs only in TD,
-but Da</. (Reply 89) mentions ' the Avesta Yakhmayijad?, son of the
+but Da(/. (Reply 89) mentions ' the Avesta Yakhmayijad?, son of the
 same Fryano,' as one of the seven immortal lords of Khvaniras.
 
 -' See Chap. XXVII, 2.
@@ -8120,7 +8074,7 @@ same Fryano,' as one of the seven immortal lords of Khvaniras.
 
 ■' Or Narsae in TD ; K20 has Paz. Narei, but see Chap. XXXI,
 
-3> 5-
+3) 5-
 
 " Av. Tusa of Aban Yt. 53, 58, and an Iranian warrior in the
 
@@ -8199,7 +8153,7 @@ most remarkable upland (balist) in Kavulistan is
 where Pei-yansai is ; there it is hotter, on the more
 lofty elevations there is no heat^ 12. Airan-ve^ is
 in the direction of Ataro-patakan ^. 1 3. The land
-of S<a;ukavastan is on the way from Turkistan to
+of S(a;ukavastan is on the way from Turkistan to
 A"inistan, in the direction of the north. 14. [The
 enclosure] ^ formed by Yim is /;/ the middle of Pars,
 in Sruva'*; thus, they say, that zuhat Yim formed
@@ -8244,7 +8198,7 @@ CHAPTER XXIX, II -XXX, 5. 12 1
 
 bread, till when ^ they shall die they always feed
 upon water. 2. So, likewise, in the millennium of
-Htjshe</ar-mah -, the strength of appetite (az) will
+Htjshe(/ar-mah -, the strength of appetite (az) will
 thus diminish, when men will remain three days
 and nights in superabundance (sirih) through one
 taste of consecrated food. 3. Then they will desist
@@ -8256,7 +8210,7 @@ without food, and do not die.
 4. After Soshyans comes they prepare the raising
 of the dead, as it says, that Zaratui-t asked of Auharmazd thus : ' Whence does a body form again,
 which the wind has carried and the water conveyed
-(va^i</)*? and how does the resurrection occur?'
+(va^i(/)*? and how does the resurrection occur?'
 5. Auharmazd answered thus : ' When through me
 the sky arose from the substance of the ruby^ without columns, on the spiritual support of far-compassed light; when through me the earth arose,
 which ^ bore the material life, and there is no
@@ -8319,7 +8273,7 @@ stands for rang, ' colour, dye,' as in Chap. XXVII, 5, i8.
 22, 28.
 
 * Here k\m is the Pazand of Huz. mamanam, 'for to me;'
-being a different word from the interrogative >^im, 'why?' of the
+being a different word from the interrogative )^im, 'why?' of the
 next §.
 
 ^ Literally, * ivhai becomes out of tvhat was.'
@@ -8333,7 +8287,7 @@ blood from the water, the hair from the plants, mid
 the life from fire, since they were delivered to them
 in the original creation.'
 
-7. First, the bones of Gay6mar<i^ are roused up,
+7. First, the bones of Gay6mar(i^ are roused up,
 then those of Mashya and Mashyoi, then those of
 the rest of mankind ; in the fifty-seven years of
 Soshyans ^ they prepare all the dead, and all men
@@ -8387,7 +8341,7 @@ thereupon, run down unto Jiis legs. 15. When,
 after they set apart a father from his consort (hamba^), a brother from his brother, and a friend from
 
 1 In the Ar^a-Viraf-namak (Chap. LXVIII) it is related that
-Ar</a-Viraf saw the souls of a husband and wife, that of the husband
+Ar(/a-Viraf saw the souls of a husband and wife, that of the husband
 destined for heaven, and that of the wife for hell ; but the wife
 clung to her husband and asked why they should be separated,
 and he told her it was on account of her neglect of religious duties;
@@ -8631,7 +8585,7 @@ burns in ' &c., and there can be no doubt that GokVa^x is represented as a malev
 
 ^ Or, perhaps, ' hiding-place.' Comparing K20 and M6 together
 the word seems to be alom, which may be compared with Heb.
-I3J'^^« 'a vault,' or Chald. i<?W 'a porch;' it may, however, be
+I3J'^^« 'a vault,' or Chald. i(?W 'a porch;' it may, however, be
 valom, which may be traced to D^y ' to conceal' In the old
 MSS. it is certainly not sholman, 'hell,' which is an emendation
 due to the modern copy in Paris.
@@ -8759,7 +8713,7 @@ Siyakmak ^ ; by his mother Dahak was of Udai ^, 5W^
 of Bayak, son of Tambayak, son of Owokhm^, i"(?;^ of
 Pairi-urvaesm ^ ^^;^ of Gadhwithw ^, ^^/^ of Druf askan ^, ^^/2 of the evil spirit.
 
-7. Fre^tiii the Aspiyan ^ z£/^5 ^<?;^ <?/ Pur-tora ® the
+7. Fre^tiii the Aspiyan ^ z£/^5 ^(?;^ (?/ Pur-tora ® the
 
 A A
 
@@ -8858,7 +8812,7 @@ must be read dukht, and not dva^, 'pair.'
 
 ten generations, when Manui'-i Khurshe^-vinik was
 born from his mother, \so called because, as he was
-born, some of]^ the light of the sun (khurshe<3f) fell
+born, some of]^ the light of the sun (khurshe(3f) fell
 upon his nose (vintk). 12. From Manui'-i Khurshert'-vintk mid his sister ^ was Manu^-khurnar, and
 from Manui"-khurnar \and his sister] was Manu-f/^ihar
 born^, by whom Salm and Tu^^were slain in revenge
@@ -8867,7 +8821,7 @@ and Durasrob ^ begotten.
 
 14. Just as Maniu/C'ihar was of Manu^-khiirnar, of
 Manui'-khurnak', who was Mam-sozak ®, of Airak, of
-Thritak, of Bitak, of Fraziuak, of Zui-ak ^, of Fragtizak, of Guzak, of AiriX', of Fre</un, so Frasiyaz:/^" was
+Thritak, of Bitak, of Fraziuak, of Zui-ak ^, of Fragtizak, of Guzak, of AiriX', of Fre(/un, so Frasiyaz:/^" was
 
 ^ The phrase in brackets occurs only in TD; and the whole
 passage from 'vinik' to 'sun' is omitted in K20, evidently by
@@ -8877,7 +8831,7 @@ mistake.
 Manuj-hu^ihar and Manui'-khurshed.'
 
 ^ The words in brackets occur only in TD, and K2ob has 'from
-Manu^-khurnar also was ]Manuj'-khurnak,_/>'ow Manuj--khurnak was
+Manu^-khurnar also was ]Manuj'-khurnak,_/)'ow Manuj--khurnak was
 ManmZ'ihar born,' but this introduction of an extra generation is
 not confirmed by the list of names in § 14. The term khurnak (or
 khurnak) seems to be merely a transcript of the Avesta word of
@@ -8893,7 +8847,7 @@ where he is styled the Airyavan, or descendant of Airyu (Airi/&).
 in § 31 and Chap. XXXII, i in TD, which MS. omits this § by
 mistake.
 
-■^ The same as Manuj-i khftrshe</-vinik, as noted above.
+■^ The same as Manuj-i khftrshe(/-vinik, as noted above.
 
 ** This Pazand epithet seems to mean ' mother-burning,' and
 may have some connection with the legend mentioned in § 11.
@@ -8916,7 +8870,7 @@ Aghrerartf* were all three brothers.
 [16^. Pashang andVisak were both brothers. 17.
 By Visak were Piran ^, Human, ^'an '^, and other
 brothers begotten. 18. By Frasiyaz^ were Frasp-i
-A'lir, 6an, She</ak ^, and other sons begotten ; and
+A'lir, 6an, She(/ak ^, and other sons begotten ; and
 Vispan-frya^ from whom Kai-Khusrob was born,
 was daughter of Frasiyaz^, and was of the same
 mother with Frasp-i A'ur. 19. From Frasp-i A'ur
@@ -8974,10 +8928,10 @@ fault ; and Aghrera^f, as his recompense, begat
 such a son as Gopatshah.
 
 23. Auzobo the Tuhmaspian 2, Kanak-i Barzi^-t,
-Arawii"anasp, arid Vaeta/^rt'-i Raghin6i</ were the
+Arawii"anasp, arid Vaeta/^rt'-i Raghin6i(/ were the
 three sons aiid the daughter of Agaimai"vak ^, the son
-of N6</ar, son of Manui-z^ihar, who begat Auzobo.
-24. Kavart''* was a child in a waist-cloth (kuspii<^);
+of N6(/ar, son of Manui-z^ihar, who begat Auzobo.
+24. Kavart''* was a child in a waist-cloth (kuspii(^);
 they abandoned him on a river, and he froze upon
 the door-sills (kavartfakan) ; Auzobo perceived and
 took him, brought him up, and settled the name of
@@ -9016,7 +8970,7 @@ of Tiirak, son of Spaenyasp, so7i of Diiroshasp *, son
 of Tilf, 5^;z of Fre^un. 28. Loharasp^ was son of
 Auzav ^ 5^;^ of Manu.?, ^^;^ of Kai-Ptstn ^ ^^;2 ^/
 Kai-Apiveh, son of Kat-Kava^. 29. By Kai-
-Loharasp were Vi^tasp, Zarir ^, ^;^<if other brothers
+Loharasp were Vi^tasp, Zarir ^, ^;^(if other brothers
 begotten ; by Vi^tasp were Spend-dac/'^ and Peshyotanu^^^ begotten ; and by Spend-da^ were Vohuman",
 Ataro-tarsah, Mitro-tarsah, and others begotten.
 
@@ -9072,7 +9026,7 @@ Veh-afri^ and ^ Zarir, son of Sasan, son of Artakhshatar who was the said Vohuma
 
 31. The mother of Kai-Apiveh was Farhank 2,
 daughter of him who is exalted on the heavenly
-path^, Urva</-gai-frai't^, so7i of Rak, son of Durasrob,
+path^, Urva(/-gai-frai't^, so7i of Rak, son of Durasrob,
 son of Manu5-/1har. 32. This, too, it says, that the
 glory ^ of Fre^^'un settled on the root of a reed
 (kanya) in the wide-formed ocean; and Noktarga^,
@@ -9098,7 +9052,7 @@ of FeridiJn in the Shahnamah.
 ^ Paz. vidharg-afrai-taka, which looks more Hke an epithet
 than a name.
 
-* Or, perhaps, ' Urva<f-ga son of Frajt.'
+* Or, perhaps, ' Urva(f-ga son of Frajt.'
 
 ^ The divine glory which was supposed to accompany all legitimate sovereigns of Iran, from the time of Hoshyang even to that
 of the Sasanian dynasty ; it is the Av. /^z;arenangh of the Zamyad
@@ -9139,14 +9093,14 @@ quarter were given to him ; and Avar-shatro ^ and
 the governorship were given by him to Avarnak.
 38. Of Avar-shatro this is said, that it is the district
 of Avarnak, and they offered blessings to Srosh and
-Ar</avahi^t in succession ; on this account is their
+Ar(/avahi^t in succession ; on this account is their
 possession of horses and possession of arms ; and
 on account of firm religion, purity, and manifest joy,
 good estimation and extensive fame are greatly
 
 ^ This name means 'the dawn;' perhaps it maybe identified
 with Av. Usinemangh or Usenemangh of Fravardin Yt. 113, 140,
-whose wife Fr<?ni may possibly be the Farhank (or Franak) of the
+whose wife Fr(?ni may possibly be the Farhank (or Franak) of the
 text.
 
 ^ So in TD, but it is probably only a variant of Namun.
@@ -9213,10 +9167,10 @@ CHAPTER XXXI, 39 -XXXII, 3. I4I
 
 A'akhshnili' ^ son of Paitirasp, sou of Hardariri^, son
 of Hardar ^, son of Spitaman '*, son of Vidai't ^, son of
-Ayazem, son of Ra^an^, 5<?;2 of Durasrob ^ son of
+Ayazem, son of Ra^an^, 5(?;2 of Durasrob ^ son of
 Manuj-/('ihar ^. 2. As Paitirasp //^^ two sons, one
 Porushasp and one Arasti ^, by Porushasp was Zaratfii-t begotten for a sanctuary of good religion ^°,
-^;«^ by Arasti was Mert^yok-mah ^^ begotten. 3. Zaratii<s't, when he brought the rehgion, first celebrated
+^;«^ by Arasti was Mert^yok-mah ^^ begotten. 3. Zaratii(s't, when he brought the rehgion, first celebrated
 
 
 ^ Windischmann suggests Av. A'akhshnoij- (gen.) of Fravardin
@@ -9272,7 +9226,7 @@ by Yim^, which is below the earth ; Khurshe«'-/ihar
 was a warrior, commander of the army of Peshyotanii, son of Vii-tasp, and dwells in Kangde^^; and
 of the three daughters the name of one was Fren, of
 one Srit, and of one Poru/^ist ^ 6. Aurvata^f-nar and
-Kh\irshe<3^-/(^ihar were from a serving (-^akar) wife^",
+Kh\irshe(3^-/(^ihar were from a serving (-^akar) wife^",
 the rest were from a privileged (pa^akhshah) wife.
 
 ^ Reading fra^ ya^t ; but it may be fra^ ga^t, 'wandered
@@ -9286,13 +9240,13 @@ forth.'
 
 ^ Av. Isa^-vastra of Yas. XXIII, 4, XXVI, 17, Fravardin Yt. 98.
 " Av. Urvatart'-nara of Vend. II, 143, Fravardin Yt. 98. K20
-and M6 have Aurvarta<f-nar, and TD has Aurvata</-nar.
+and M6 have Aurvarta(f-nar, and TD has Aurvata(/-nar.
 
 ^ Av. Hvare-X'ithra of Fravardin Yt. 98 ; TD has Khur-/('ihar.
 
 * See Chap. XXIX, 5. Windischmann and Justi consider the
 clause about Peshyotanu as inserted by mistake, and it is omitted
-in the Va^arkar</-i Dinik (p. 21) ; it is found, however, in all MSS.
+in the Va^arkar(/-i Dinik (p. 21) ; it is found, however, in all MSS.
 of the Bundahij.
 
 "^ These daughters are the Av. Frmi, Thriti, and Pouru-X'ista of
@@ -9333,7 +9287,7 @@ who marries without her parents' consent ; she inherits no property
 from her parents until her eldest son has given her as a padshah
 wife to his father.
 
-■^ Instead of this sentence the Va_§-arkar</-i Dinik (pp. 21, 22) has
+■^ Instead of this sentence the Va_§-arkar(/-i Dinik (pp. 21, 22) has
 the following, which appears to rest upon a misinterpretation of
 the text : —
 
@@ -9347,7 +9301,7 @@ these four were from Urvi^. And from the wife Arni^-bareda two
 sons were born, one Aiirvart-nar, and the second Khiarshe(/-y{'ihar ;
 and Arni^-bareda was a serving wife, and the name of the former
 husband of Arni,o--bareda was Mitro-ayar. And from Hvov, who
-was a privileged wife, were three sons, namely, Hushe^ar, Hushe</ar-mah, and Soshans, as it says,' &c. (as in § 8).
+was a privileged wife, were three sons, namely, Hushe^ar, Hushe(/ar-mah, and Soshans, as it says,' &c. (as in § 8).
 
 ^ TD has Pahl. Aurvarvi^ak or Khixrurupak.
 
@@ -9355,14 +9309,14 @@ was a privileged wife, were three sons, namely, Hushe^ar, Hushe</ar-mah, and Sos
 
 
 were from a serving wife, she then delivered them
-over to Isa<A':astar through adoption. 8, This, too,
+over to Isa(A':astar through adoption. 8, This, too,
 one knows, that three sons of Zaratu^t, namely,
 Hushert^ar, Husherf'ar-mah \ and Soshyans^, were
 from Hvov^; as it says, that Zaratui't went near
 unto Hvov three times, and each time the seed went
 to the ground ; the angel Neryosang^ received the
 brilliance and strength of that seed, delivered it
-with care to the angel Anahi</^, and in time will
+with care to the angel Anahi(/^, and in time will
 blend it with a mother. 9. Nine thousand, nine
 hundred, and ninety-nine, and nine myriads ^ of
 the guardian spirits of the righteous are intrusted
@@ -9411,7 +9365,7 @@ of Frah-vakhsh-vindartf^, son of Mert'yok-mah, son of
 Kartf^, son of Me^yok-mah, son of Arastih, son of
 Paitirisp^ 2. As Bahak was Mobad of Mobads
 (high-priest) unto Shahpuhar*^, son of Auharmazd,
-so Ka</ was the great preceptor (farma^ar) unto
+so Ka(/ was the great preceptor (farma^ar) unto
 Darai \
 
 3. Ataro-pa^^^ was son of Maraspend, son of Da^-
@@ -9474,7 +9428,7 @@ of Freh-mah, who also was the righteous daughter ^
 ^ This is probably a semi-Huzvarij form of Frasho^-tar.
 
 ^ Perhaps this name should be read along with the next one, so
-as to give the single Pazand name -Skinaj- or >5'kivaj.
+as to give the single Pazand name -Skinaj- or )5'kivaj.
 
 ^ See Chap. XXXII, i, for the last three generations. According
 to this genealogy Ataropa^-i Maraspendan was the twenty-third in
@@ -9496,8 +9450,8 @@ probable that §§ 7, 8 should be connected, and that the meaning
 intended is that Hfimai was daughter of Freh-mah (of a certain
 family) and of Puyijn-shad? (of another family) ; she was also the
 mother of the editor of that recension of the Bundahii' which is contained in TD ; but who was his father ? The singularly unnecessary
-repetition of the genealogy of the two brothers, Mitr6-akavi</ and
-Puyijn-sha</, in §§ 6, 8, leads to the suspicion that if the latter
+repetition of the genealogy of the two brothers, Mitr6-akavi(/ and
+Puyijn-sha(/, in §§ 6, 8, leads to the suspicion that if the latter
 
 
 CHAPTER XXXIII, 4-11. I47
@@ -9610,7 +9564,7 @@ three thousand years* was the duration of G^yomar^,
 with the ox, in the world. 2. As this was six thousand years the series of millennium reigns ^ of
 Cancer, Leo, and Virgo had elapsed, because it was
 six thousand years when the millennium reign came
-to Libra, the adversary rushed in, and Gay6mar</
+to Libra, the adversary rushed in, and Gay6mar(/
 lived thirty years in tribulation^. 3. After the thirty
 years '^ Mashya and Mashyoi grew up ; it was fifty
 years while they were not wife and husband ^, and
@@ -9657,7 +9611,7 @@ reign came to Sagittarius, Fre^^iin " rcigjicd five hundred years ; in the same 
 Fre^un were the twelve years of h\x\k\ Manujr/'ihar*
 was a hundred and twenty years, aiid in the same
 reien of Manui-Z'ihar, when he was in the mountain
-fastness (dushkhvar-gar) ^, a^<?r^ the twelve years
+fastness (dushkhvar-gar) ^, a^(?r^ the twelve years
 of Frasiyaz' ; Zob ^ the Tuhmaspian was five years.
 
 7. Kai-KabiW^ was fifteen years ; Kai-Kaus, till
@@ -9720,7 +9674,7 @@ eastern or Greek empire), as Pahlavi writers assume.
 
 * The actual period of Sasanian rule was 425 yearS (a. d. 226-
 651). According to the figures given in the text, the tenth millennium, ruled by Capricornus, must have terminated in the fourth
-year of the last king, Yazdakar</. This agrees substantially with the
+year of the last king, Yazdakar(/. This agrees substantially with the
 Bahman Yajt, which makes the millennium of Zaratu^t expire
 some time after the reign of Khusr6 Noshirvan; probably in
 the time of Khusro Parviz, or some forty years earlier than the
@@ -10057,7 +10011,7 @@ annoyance from the assault of crimes may be less ;
 it became lean and ill, ajid fell upon its right breast^
 trembling,
 
-8. Before the advance to Gay6mar</, who was
+8. Before the advance to Gay6mar(/, who was
 then about one-third the height of Zaratu^t, and was
 brilliant as the sun, Auharmazd forms, from the
 sweat ^ on the man, a figure of fifteen years, radiant
@@ -10159,7 +10113,7 @@ is he able to do ?'
 4. And he sends Asto-vida*^* upon him with the
 thousand decrepitudes (auzvarano) and diseases
 
-^ Compare Bund. Ill, 11. The involved style of Za</-sparam is
+^ Compare Bund. Ill, 11. The involved style of Za(/-sparam is
 particularly conspicuous in this chapter.
 
 ^ The word seems to be khvapi^no.
@@ -10327,7 +10281,7 @@ at the present day.
 
 mistake.
 
-2 The word ar</ik, which Da</-sparam uses instead of the
+2 The word ar(/ik, which Da(/-sparam uses instead of the
 kharah, 'conflict,' of Bund. V, 6, VI, i, &c., may be connected
 with Pers. ard, ' anger.'
 
@@ -10442,7 +10396,7 @@ increase and decrease of the moon, whose circuit
 is the whole of Iran, are the flow and ebb ; of the
 
 
-1 Or perhaps 'made the cloud rain,' if madam varanini</
+1 Or perhaps 'made the cloud rain,' if madam varanini(/
 stands for az'ar varaniiuid?.
 
 2 Reading partar; instead of the MS. patuta?', ' powerful fury.'
@@ -10753,13 +10707,13 @@ perform for good and evil.'
 
 This description corresponds very closely with what the Bundahii' must have been, before the addition of the genealogical and
 chronological chapters at the end ; and Da(/-sparam mentions in
-his text here, and again in § 16, particulars regarding the Damda</
+his text here, and again in § 16, particulars regarding the Damda(/
 which also occur in the Bundahij- (XIV, 2, 14-18, 21-24). There
 can be very little doubt, therefore, that the Bundahij was originally
 a translation of the Damda^/, though probably abridged ; and the
 text translated in this volume is certainly a further abridgment of
 the original Bundahix, or Zand-akas. Whether the Avesta text of
-the Damda^ was still in existence in the time of Da</-sparam is
+the Damda^ was still in existence in the time of Da(/-sparam is
 uncertain, as he would apply the name to the Pahlavi text. At the
 present time it is very unusual for a copyist to write the Pahlavi
 text without its Avesta, when the latter exists, but this may not
@@ -10890,9 +10844,9 @@ wether and the Ktiri^k which, because of its trampling the hills, its great horn
 
 2 See § I ; the particulars which follow are also found in Bund,
 XIV, 14-18, 21-24, showing that the Bundahi^ must be derived
-from the Damda</.
+from the Damda(/.
 
-^ The title of this work, in Pahlavi, is Tokhm-aui'marijnih-i hangar</ik6, but it is not known to be extant.
+^ The title of this work, in Pahlavi, is Tokhm-aui'marijnih-i hangar(/ik6, but it is not known to be extant.
 
 * Reading marik (Chaldee X?.'?), but this is doubtful, though
 the Iranian final k is often added to Semitic Huzvari^ forms ending
@@ -11046,7 +11000,7 @@ and the occurrences of destruction, burning, and celebration of witchcraft, espe
 assistant of Srosh the righteous.
 
 
-^ Reading maya-i afsar^Jni</6 taftano instead of the seemingly unmeaning mayS 2,sz.xd\xAdo aftano of the MS.
+^ Reading maya-i afsar^Jni(/6 taftano instead of the seemingly unmeaning mayS 2,sz.xd\xAdo aftano of the MS.
 
 ^ The Verehrano atash, or sacred fire of the fire-temples.
 
@@ -11059,7 +11013,7 @@ involved and obscure in the original than in the translation.
 8. And in the beginning of the creation^ the whole
 earth was dehvered over into the guardianship of
 the subHme Frobak fire, the mighty Gii^nasp fire,
-and the beneficial Bur<^in-Mitr6 fire ^ zvhich are like
+and the beneficial Bur(^in-Mitr6 fire ^ zvhich are like
 priest, warrior, and husbandman. 9. The place of
 the fire Frobak was formed on the Gadman-homand
 (' glorious ') mountain in Khvari^'em ^ the fire Gtii--
@@ -11089,7 +11043,7 @@ successor.
 
 ^ Sarsaok or Srisaok in the Bundahi.?.
 
-^ The remainder of ' the sayings of Za</-sparam, about the
+^ The remainder of ' the sayings of Za(/-sparam, about the
 meeting of the beneficent spirit ajid the evil spirit,' have no
 special reference to the Bundahij. They treat of the following
 matters : —
@@ -11125,7 +11079,7 @@ connection of the Ahunavar with the Nasks. Zaratui-t's obtaining
 one disciple, Me(^y6k-mSh, in the first ten years, and the acceptance
 of the religion by Vijtasp two years afterwards.
 
-The second of the writings of Za</-sparam consists of his ' sayings about the formation of men out of body, life, and soul ; ' and
+The second of the writings of Za(/-sparam consists of his ' sayings about the formation of men out of body, life, and soul ; ' and
 the third (which is imperfect in all known MSS.) contains his
 ' sayings about producing the renovation of the universe'
 
@@ -11195,12 +11149,12 @@ Yajt contained in the Dabistan (see Shea's translation, vol. i.
 pp. 264-271).
 
 ^ This was the first nask or 'book' of the complete Mazdayasnian literature, according to the Dinkar^, which calls it SiJfi^kar;
-but according to the Dini-va^arkar</ and the Rivayats it was the
+but according to the Dini-va^arkar(/ and the Rivayats it was the
 second nask, called Sludgar or Istudgar. For its contents, as
-given by the Dini-va^arkar</ (which agrees with the account in the
-Rivayats), see Haug's Essays, p. 126. In the Dinkar</, besides
+given by the Dini-va^arkar(/ (which agrees with the account in the
+Rivayats), see Haug's Essays, p. 126. In the Dinkar(/, besides
 a short description of this Nask, given in the eighth book, there is
-also a detailed account of the contents of each of its fargar</s, or
+also a detailed account of the contents of each of its fargar(/s, or
 chapters, occupying twenty-five quarto pages of twenty-two lines
 each, in the ninth book. From this detailed statement it appears
 
@@ -11230,7 +11184,7 @@ periods in the Zarattjjtian millennium (hazangrok zim, "thousand
 winters" ). First, the golden, that in which Auharmazd displayed
 the religion to Zaratii^t. Second, the silver, that in which Vi^tasp
 received the religion from Zaratui-t. Third, the steel, the period
-within which the organizer of righteousness, Atar6-pa</ son of Marspend, was born. Fourth, the period mingled with iron is this,
+within which the organizer of righteousness, Atar6-pa(/ son of Marspend, was born. Fourth, the period mingled with iron is this,
 in which is much propagation of the authority of the apostate and
 other villains (sari tar an 6), along with destruction of the reign
 of religion, the weakening of every kind of goodness arid virtue,
@@ -11276,9 +11230,9 @@ still remained, in a spiritual state, to produce evil.
 2 See Chap. II, 17.
 
 ^ Khusro Noshirvan son of Qubad, in modern Persian, who
-reigned in a. d. 531-579- Keva</ is usually written Kava^/.
+reigned in a. d. 531-579- Keva(/ is usually written Kava^/.
 
-* The epithet vi^ar</-vars may also mean ' dressed-hair,' but
+* The epithet vi^ar(/-vars may also mean ' dressed-hair,' but
 the term in the text is the more probable, as the Persian version
 translates it by kushadah mut, ' uncovered hair.' That it is not
 a name, as assumed by Spiegel, appears clearly from the further
@@ -11321,7 +11275,7 @@ than they are in the text, but the correctness of the MS. is open to
 suspicion. Da^/-Aiiharmazd was a commentator who is quoted in
 Chap. Ill, 16, and in the Pahl. Yas. XI, 22 ; Ataro-frobag was
 another commentator mentioned in Sis. I, 3 ; and Ataro-par/ and
-Bakht-afri</ are names well known in Pahlavi literature, the former
+Bakht-afri(/ are names well known in Pahlavi literature, the former
 having been borne by more than one individual (see Sis. I, 3, 4).
 
 ^ The Pers. version says nothing about this promise, but states
@@ -11403,12 +11357,12 @@ said to him thus : ' Devour it.'
 
 one of the five brothers in the Karapan family of sorcerers, who
 were enemies of Zaratmt during his childhood. Their names, as
-written in SZS., may be read as follows, 'Brar/arvakhsh, Bra</r6yijn6,
+written in SZS., may be read as follows, 'Brar/arvakhsh, Bra(/r6yijn6,
 Tur Bragresh, Azano, and Nasm,' and the first is also called ' Tur-i
 Braf/arvakhsh ; ' they are described as descendants of the sister of
-Manuj->^ihar. In the seventh book of the Dinkar^f a wizard, who
+Manuj-)^ihar. In the seventh book of the Dinkar^f a wizard, who
 endeavours to injure Zaratia^t in his childhood, is called ' Tur-i
-Bra</r6k-resh, the Karapo,' and was probably the third brother,
+Bra(/r6k-resh, the Karapo,' and was probably the third brother,
 whose name (thus corrected) indicates brathro-raesha as its Avesta
 form. Karap or Karapan in all these passages is evidently the
 name of a family or caste, probably the Av. karapano which Haug
@@ -11425,7 +11379,7 @@ it with the prepositional form a^aj, as most Parsis and some European scholars d
 reading afax for the conjunctive form ; and Neryosang, the learned
 Parsi translator of Pahlavi texts into Pazand and Sanskrit some
 four centuries ago, was aware of the difference between the two
-forms, as he transcribes them correctly into Paz. va>s- and aza^.
+forms, as he transcribes them correctly into Paz. va)s- and aza^.
 
 
 6. And Zaratui^t devoured some of it ; thereby the
@@ -11761,13 +11715,13 @@ and the demon with dishevelled hair, of the race of
 Wrath, — the meanest slaves walk forth with the
 authority of nobles of the land ; and the religious,
 who wear sacred ^/i7^ead-gird\es on the waist, are
-then not able to perforin their ablution (pa<fiyaz^ih),
+then not able to perforin their ablution (pa(fiyaz^ih),
 for in those last times dead matter and bodily refuse
 become so abundant, that one who shall set step to
 step walks upon dead matter ; or when he washes
 in the barashntim ceremony, and puts down a foot
 from the stone scat (magh)^ he walks on dead
-matter; or when he arranges the sacred \.\y\<g^ (baresom) and consecrates the sacred cakes (drono) in
+matter; or when he arranges the sacred \.\y\(g^ (baresom) and consecrates the sacred cakes (drono) in
 their corpse-chamber (nasai katak)^ it is allowable.
 
 ^ The Av. Aeshmo khrvidrui', ' Aeshma the impetuous
@@ -11905,7 +11859,7 @@ that which they practise they do not believe in unhesitatingly ; they do not giv
 words anastak dino can also be translated by 'despising the
 religion.'
 
-^ The word appears to be dar</aktar, but is almost illegible in
+^ The word appears to be dar(/aktar, but is almost illegible in
 K20; it may possibly be kutaktar, 'more scantily,' as the Paz.
 MSS. have kodaktar baho^ 'become smaller.'
 
@@ -12078,7 +12032,7 @@ days successively, with one Yasna each day.
 2. Khaduk-homast, ' one homast,' differs from the last merely
 in adding aVendidad every twelfth day, to be recited in the Ushwhomever prayer is offered up, and the Gathahymns are chanted, it is as though the whole ritual
 had been recited, and the G2L\\\2i-hymns consecrated
-by him in the reign of King Vi<rtasp. 61. The most
+by him in the reign of King Vi(rtasp. 61. The most
 perfectly righteous of the righteous is he who
 remains in the good religion of the Mazdayasnians,
 and continues the religious practice of next-of-kin
@@ -12296,7 +12250,7 @@ together, so as to become Kai-gails, and this form of the name is
 the assistance of demons ^V was with the archangels ;
 and the second when thou, O Zaratuj't the Spitaman ! receivedst the rehgion and /mds^ thy conference, and King Vi^tasp and Ar^asp \ miscreated
 by wrath, 7vere, through the war of the rehgion, in
-the combat of Spe^-ra<^ur ("the hoary forest 2"),'
+the combat of Spe^-ra(^ur ("the hoary forest 2"),'
 some have said i^ zvas in Pars ; ' and the third when
 it is the end of thy millennium, O Zaratui't the Spitaman ! when all the three, Turk, Arab, and Ruman,
 come to this ^ place,' some have said the plain of
@@ -12442,7 +12396,7 @@ Veh river' — some have said the country of Bambo*' —
 
 * as far as Bukhar and the Bukharans within its bank,
 
-^ Bahram the illustrious or splendid (Av. vare>^anghan</, compare Pers. var^), an epithet applied, in the Avesta, to the moon,
+^ Bahram the illustrious or splendid (Av. vare)^anghan(/, compare Pers. var^), an epithet applied, in the Avesta, to the moon,
 Tijtrya, the scriptures, the royal glory of the Kayanians, the Kayanians themselves, and the hero Thrita. This personage may
 possibly be an incarnation of the angel Bahram, mingled with some
 reminiscences of the celebrated Persian general Bahram A'opin ;
@@ -12856,7 +12810,7 @@ millennium it is the beginning of that of Hushe^ar^
 ' K20 has nismo, ' soul,' but the very-similarly written gadman,
 ' glory,' is a more likely reading here (see § 32).
 
-^ Reading du</ak instead of ru^'ak, as in Chap. II, 47.
+^ Reading du(/ak instead of ru^'ak, as in Chap. II, 47.
 
 ® The writer having detailed the supernatural means employed
 for restoring the religion, now returns to the birth of Hushe«/ar
@@ -12977,7 +12931,7 @@ it also repeats the legend of the sun standing still, but for the
 longer period of twenty days; all which details are also found in
 the Persian Rivayats.
 
-^ Av. azi/^ithra; such creatures are mentioned in Ar</avahi.ft
+^ Av. azi/^ithra; such creatures are mentioned in Ar(/avahi.ft
 Yt. 8, 10, II, 15; but Az-i Dahak, 'the destructive serpent,' is
 probably meant here (see §§ 56-61).
 
@@ -13063,7 +13017,7 @@ in the plain of Pe^yansai (see Bund. XXIX, 7-9).
 2 The thirteenth millennium, or first of the future existence,
 when Soshyans appears. The Dinkar^/ and the Persian Rivayats recount the same legends regarding the miraculous birth of
 Soshyans, and of the sun standing still (for thirty days), as they do
-with regard to Hushe</ar (see note on § 43).
+with regard to Hushe(/ar (see note on § 43).
 
 * See Bund. XXXII, 8.
 
@@ -13094,7 +13048,7 @@ AV. for the Book of Arrt'a-Viraf, ed. Hoshangji and Haug. Bund,
 for Bundahij, as translated in this volume. B. Yt. for Bahman
 Yast, as translated in this volume. Chald. for Chaldee. Farh.
 Okh. for Farhang-i Gim-khadfak, ed. Hoshangji and Haug. Haug's
-Essays, for Essays on the Sacred Language, Writings, and Religion of the Parsis, by Martin Haug, 2nd edition. Huz. for Huzvarij. Lev. for Leviticus. Mkh. for Mainy6-i-khar</, ed. West.
+Essays, for Essays on the Sacred Language, Writings, and Religion of the Parsis, by Martin Haug, 2nd edition. Huz. for Huzvarij. Lev. for Leviticus. Mkh. for Mainy6-i-khar(/, ed. West.
 Nir. for Nirangistan. Pahl. for Pahlavi. Paz. for Pazand. Pers.
 for Persian. Sis. for Shayast la-shayast, as here translated. SZS.
 for Selections of Za^-sparam, as translated in this volume. W. for
@@ -13166,7 +13120,7 @@ TanapCihar-. 2. A Farman is the weight of four
 
 sunrise (aj'ar-khurshe^fih) and in the forenoon (/('aitih = /^astih)
 are no more apart. . , . Whoever inflicts the Areduj blow on a
-man z7 z> one-fifth of a wound (res h). . . . Whoever inflicts that
+man z7 z) one-fifth of a wound (res h). . . . Whoever inflicts that
 which is a cruel Khor ('hurt') on a man // is one-fourth of a
 wound. . . . Whoever inflicts that which is a bleeding Khor on
 a man it is one-third of a wound. . . . Whoever shall give a
@@ -13198,7 +13152,7 @@ of man ought to be withstanding, as a counterstroke is the penalty
 for a Yat when it has been so much away from the abode of life.
 In like manner Agerept, Avoirut, Aredu^, Khor, Bazai, and Yat
 are also called good works, ivhich are performed in like proportions, and are called by the names of weights and measures in the
-same manner. Of pesh6tanu>r tanum pairyeite the meaning is
+same manner. Of pesh6tanu)r tanum pairyeite the meaning is
 a Tanapuhar ; as they call a good work of three hundred a Tanapuhar, on account of the three hundred like proportions of the
 same kind, the meaning of its name, Tanapuhar, thereupon enters
 into sin. ... A Khor is just that description of wound from which
@@ -13288,7 +13242,7 @@ such cases, however few or trifling the previous assaults have
 been.
 
 ^ In M6 poryor/keshih, but poryofl'keshan, ' of those of the
-primitive faith,' in K20 ; from the Av. paoiry6</kaesha of Yas.
+primitive faith,' in K20 ; from the Av. paoiry6(/kaesha of Yas.
 I, 47, III, 65, IV, 53, XXII, 33, Fravardin Yt. o, 90, 156, Af.
 Rapithwin, 2. It is a term applied to what is considered as the
 
@@ -13335,7 +13289,7 @@ IX, 132, XIII, 99, XIV, 37, and four times in the Nirangistan.
 His name is sometimes written Me(/y6k-mah or MaWok-mah, and
 he was a namesake of ZaratCut's cousin and first disciple (see
 Bund. XXXII, 2, 3). The Va^arkar^-i Dinik professes to have
-been compiled by Me</y6k-mah, but there appear to have been
+been compiled by Me(/y6k-mah, but there appear to have been
 several priests of this name (see Bund. XXXIII, i).
 
 ■^ Gojasp in M6.
@@ -13362,15 +13316,15 @@ was more probably ' six ' than ' four,' as a Pahlavi ' six ' requires
 merely the omission of a cipher to become ' three,' whereas a Pahlavi ' four ' must be altered to produce the same blunder.
 
 Several other commentators are mentioned in Pahlavi books, such
-as Atar6-pa(/, son of Da</-farukh, twice in the Nirangistan; Azadmar^ nine times in Nir. ; Baroshand Auharmazd once in Nir.; Dad
+as Atar6-pa(/, son of Da(/-farukh, twice in the Nirangistan; Azadmar^ nine times in Nir. ; Baroshand Auharmazd once in Nir.; Dad
 Auharmazd in B. Yt. I, 7, III, 16, Pahl. Yas. X, 57, XI, 22 ; Dadfarukh in Pahl. Vend. V, 112, VI, 64, and twice in Nir.; Dart'-i-veh
 seventeen times in Nir. ; Farukho thrice in Nir. ; Kiratano-buo-efl'
 in Pahl. Vend. V, 80, VI, 15, IX, 184, XIII, 20, he is called the Kirmanik in Pahl. Vend. IV, 35, and Dastur Hoshangji thinks his name
-is merely a variant of the next; Kiashtan6-bia^e</ in Sis. II, 57, 81,
+is merely a variant of the next; Kiashtan6-bia^e(/ in Sis. II, 57, 81,
 118, VI, 6, Vm, 17, Pahl. Vend. Ill, 64, 69, IV, 6,V, 48, VI, 53,
 64, 73, VIII, 28, XVI, 17, 2 1, 22, 27, and twenty-two times in
 Nir. ; Mah- Auharmazd in Pahl. Vend. VII, 82 ; Mah-gojaspo, Mahgoxospo, Mah-gospo, or Mah-vasp in Pahl. Yas. IX, 33, Pahl. Vend.
-Ill, 138, and ten times in Nir.; Mahvand-da<f or Mah-vinda^ in
+Ill, 138, and ten times in Nir.; Mahvand-da(f or Mah-vinda^ in
 B. Yt.III, 3,Pahk Yas. IX, 33, X, 57, XI, 22, XIX, 27; Mar^-bu^
 in Sis. II, 86, and twice in Nir., where he is called the son of Dadgun; Neryosang in Sis. VIII, 13, Pahl. Vend. V, 22; Nikhshapuhar, or Nishapuhar in Pahl. Vend. Ill, 151, V, 112, VI, 71,
 VIII, 64, XVI, 10, 17, AV.I, 35, and twenty-four times in Nir.;
@@ -13403,13 +13357,13 @@ of some of these names is very uncertain.
 
 .^ Alluding probably to Me^'ok-mah's complete commentary on
 the Vendidad (now no longer extant), as the commentary on Pahl.
-Vend. Ill, 48, which treats of Sag-di</ or dog-gaze, does not mention IMert'ok-mah or any of the details described here in the text ;
+Vend. Ill, 48, which treats of Sag-di(/ or dog-gaze, does not mention IMert'ok-mah or any of the details described here in the text ;
 these details, however, are to be found in Pahl. Vend. VII, 4.
 
 ^ Reading amat bara zor ^an da«/. This phrase occurs
 only in M6 (as a marginal note) and in the text of its descendants.
 Assuming that bara may be a miswriting of pavan (see p. 176,
-note 5), we might read amat pavan zor shuya</, 'when he shall
+note 5), we might read amat pavan zor shuya(/, 'when he shall
 wash with holy-water.'
 
 ^ The ' corruption ' which is supposed to enter a corpse shortly
@@ -13685,7 +13639,7 @@ when his hair or limb has not come to the eaves
 (parakan) the roof is polluted to the bottom (tohik).
 19. And when one shall die on a rita^ it is polluted
 
-much space as the corpse occupied ?'/?> polluted ; ' but the additional matter seems to be struck out. Something analogous to the
+much space as the corpse occupied ?'/?) polluted ; ' but the additional matter seems to be struck out. Something analogous to the
 details in this paragraph will be found in Pahl. Vend.VI, 9.
 
 ^ This section would be more appropriate in Chap. III.
@@ -13826,7 +13780,7 @@ jar is fit for bran-flour ').
 globular vessel, or carboy, made of hide, through which the oil,
 or liquid butter, penetrates so far as to keep the outer surface
 greasy, which accounts for the remark about the oil passing in and
-out. Such vessels, called </abar, are commonly used for oil and
+out. Such vessels, called (/abar, are commonly used for oil and
 liquid butter in India.
 
 2 Assuming that khu^kar stands for khfi^k-kar, as it does in
@@ -13864,7 +13818,7 @@ their own substance, but only downwards to the ground, which conveys it farther 
 ^ That is, these substances communicate the contamination
 throughout their own substance, but not down to the ground.
 
-2 The verb vi</ar^an6 (Huz. vabruntano), ' to cross over, to
+2 The verb vi(/ar^an6 (Huz. vabruntano), ' to cross over, to
 pass away' (Av. vi + tar, Pers. gUDHa^tan), can only be used
 when referring to the death of good people or animals ; but the
 verb mur^/ano (Huz. yemituntano), 'to die, to expire' (Av.
@@ -13879,7 +13833,7 @@ thirty steps, or about 79 English feet, of a corpse (see Vend. VIII,
 wall is not to be cut. 39. Roshan^ said that an
 earthen one is to be cut into, but a mortar one is
 not to be cut ; below and above no account is taken
-of damaging (b6^6ze</ih)- the walP. 40. To bring
+of damaging (b6^6ze(/ih)- the walP. 40. To bring
 the fire within ^ the three steps from the corpse is a
 Tanapuhar sin ; and when exudation happens to the
 corpse, it is worthy of deaths 41. The prepared
@@ -13899,7 +13853,7 @@ feet, from a corpse.
 Pahlavi translations (see the note on Chap. I, 4).
 
 2 Literally, ' destroying the consciousness,' or ' injuring the
-existence.' V>bddzQd or h6dyozz.d is a particular kind of sin
+existence.' V)bddzQd or h6dyozz.d is a particular kind of sin
 which appears to consist chiefly of the ill-treatment of animals and
 injury of useful property. It is mentioned in Pahl. Yas. XXIX,
 lb, Pahl. Vend. V, 107, XIII, 38, Farh. Okh. pp. 32, 3,3 ; and in
@@ -13952,7 +13906,7 @@ kept in a metal saucer during the ceremonies, and used for
 sprinkling the sacred twigs (baresom), and for mixing with the
 holy-water and Hom-juice in the mortar (see Haug's Essays,
 
-pp. 403> 405, 406).
+pp. 403) 405, 406).
 
 * Compare Pers. /^um, 'fat;' it is the Av. gSu^ hudh^/u, 'produd of the well-yielding cow,' a small piece of which is placed
 upon one of the sacred pancakes, or wafers (dron), during the
@@ -14100,7 +14054,7 @@ identification with the hedgehog is certainly doubtful, although it
 appears to be admitted in Pahl. Vend. V, 112, where the same
 words are used as in this section.
 
-* The technical terms hamre</ and paitre^, for contagion and
+* The technical terms hamre(/ and paitre^, for contagion and
 infection, are merely corruptions of Av. ham-raethwayeiti and
 paiti-raethwayeiti. The definition of the latter one is omitted
 in K20 by mistake.
@@ -14280,7 +14234,7 @@ proper ; and as to other doors they have been
 of the same opinion, that it is not proper. 75.
 The door of one's own chief apartment (shah-gas)
 is fit for that of the place for menstruation (da^tanistan), and that of the place for menstruation is fit
-for that of the depository ybr ///e' ^<?(^^ (kh a zano) 2,
+for that of the depository ybr ///e' ^(?(^^ (kh a zano) 2,
 and that of the depository of the dead is not fit for
 any purpose whatever ^ ; that of the more pleasant
 is fit for that of the more grievous.
@@ -14429,7 +14383,7 @@ does not go back his body is polluted and worthy of
 ''■ Or ' fear.' The difference of opinion between the two commentators on this question in casuistry, appears to have arisen from
 Afarg regarding the water merely as the representative of a spirit,
 who might be endangered or frightened by the source of impurity
-becoming more visible when above the water, while Me</6k-mah
+becoming more visible when above the water, while Me(/6k-mah
 considered the water in its material aspect, and wished to save it
 from the further pollution consequent upon drawing the corpse
 through more of it.
@@ -15267,7 +15221,7 @@ used by natives of the cooler parts of India in the cold season.
 reverse the meaning of the sentence, but it ,is not the usual place
 for the negative particle.
 
-* This sin is called visha</-dubarijnih ; it is mentioned in
+* This sin is called visha(/-dubarijnih ; it is mentioned in
 Pahl. Vend. V, 167, VII, 48, but not described there. The usual
 definition of the sin is ' walking about without the sacred threadgirdle;' and it is generally classed with the two other Parsi sins of
 ' walking with one boot ' and ' making water on foot ' (see AV.
@@ -15329,7 +15283,7 @@ CHAPTER IV, 10-14, 289
 a Tanaptihar sin, when with one ^ movement ; and
 after the fourth step as much as one shall walk is a
 Tanaptihar; and when he sits down and walks on
-the sin is the same that it would be from his startingpoint (b<anih); and there were some who said it is a
+the sin is the same that it would be from his startingpoint (b(anih); and there were some who said it is a
 Tanipuhar for each league (para sang).
 
 13. At night, when they lie down, the shirt mid
@@ -15393,7 +15347,7 @@ VI, 15 it is the same as a Farman, and this appears to be the case
 also from a comparison of § 10 with Pahl.Vend. XVIII, 116 (see
 note on § 10); but according to Chap. XI, 2 it is half a Farman,
 and the Farman is also probably the degree meant by the frequent
-mention of three Sr6sh6->^aranams as the least weight of sin or good
+mention of three Sr6sh6-)^aranams as the least weight of sin or good
 works that will turn the scale in which the soul's actions are weighed
 after death (see Chap. VI, 3). This uncertainty may perhaps have
 arisen from ae, * one,' and the cipher 3 being often written alike in
@@ -15498,7 +15452,7 @@ ashem, ashem ;' and if it be possible for him to say
 
 * Generally written Geii-khari^ (see Bund. XXX, 28); but, perhaps, we should here read yastofri^, 'offering,' though getokkharit/ occurs in Chap. XII, 30.
 
-^ The MSS. have merely stofrit/, which differs from the foregoing get6-khari</ only in one Pahlavi letter, so we should
+^ The MSS. have merely stofrit/, which differs from the foregoing get6-khari(/ only in one Pahlavi letter, so we should
 probably read the same word in both cases, but which of them it
 ought to be is uncertain.
 
@@ -15584,7 +15538,7 @@ the intermediate neutral position of the Hamistakan (AV. VI, Mkh.
 VII, 18, 19). The four grades of heaven, proceeding upwards,
 are Hfimat for good thoughts in the station of the stars, Hukht
 for good words in the station of the moon, Huvarjt for good
-deeds in the station of the sun, and Gar6</man where Afiharmazd
+deeds in the station of the sun, and Gar6(/man where Afiharmazd
 dwells (Vend. XIX, 121). And the four grades of hell, proceeding
 downwards, are Dui'-hijmat for evil thoughts, Duj-hfikht for evil
 words, Duj-huvarjt for evil deeds, and the darkest hell (Vend.
@@ -15641,7 +15595,7 @@ atheist.
 7. Of a pure law (da^) are we of the good religion, and we are of the primitive faith ; of a mixed
 law are those ^ the Sinik congregation^; of a vile
 
-1 It is not easy to identify this Sinik vajkar<^ih, but Professor
+1 It is not easy to identify this Sinik vajkar(^ih, but Professor
 J. Darmesteter suggests that the term may have been appHed to the
 Manicheans settled in eastern Turkistan and western China, whence
 they may have been called Sinik (the country of the Seni, Av,
@@ -15855,7 +15809,7 @@ mentioning certain special instances of each class of sin ; thus,
 CHAPTER VII, 9-VIII, 3. 301
 
 the soul is to be atoned for among the high-priests
-(ra</an), and when they do whatever the highpriests of the rehgion command the sin will depart,
+(ra(/an), and when they do whatever the highpriests of the rehgion command the sin will depart,
 and the good works which they may thenceforth do
 will attain completion (avasporik). 2. The sin of
 him who is worthy of death (marg-ar^an) is to be
@@ -16005,13 +15959,13 @@ before a menstruous woman, he engages in renunciation it is proper.
 
 ^ Or ' many other /kings.'
 
-' This Atar6-pa</-i Zaratmtan is mentioned in a manuscript
+' This Atar6-pa(/-i Zaratmtan is mentioned in a manuscript
 about 500 years old, belonging to Dastur Jamaspji, in Bombay, as
 having lived for 160 years, and having been supreme high-priest
 for ninety years : he is also mentioned in the sixth book of the
 Dinkar(f. He may, possibly, have been the Ataro-pa^/ mentioned
 in B. Yt. I, 7, but it is hazardous to identify an individual by a
-single name so common as Atar6-pa</ used to be.
+single name so common as Atar6-pa(/ used to be.
 
 * Reading ae, ' one,' instead of hana, 'this' (see p. 218, note 3).
 
@@ -16130,7 +16084,7 @@ to give up his body, he will not give it up, it is
 allowable when he shall kill him; that is, because
 he relies upon the beneficence (surtf) of Auharmazd.
 22. Moreover, from the rule (mank) 'yazemna^ ka^^
-na haka<i^' (* through being worshipped what then at
+na haka(i^' (* through being worshipped what then at
 
 ^ See Chap. I, 4, note.
 
@@ -16254,7 +16208,7 @@ capabilities engages in renunciation of sin ^, the good
 work advances unto the future existence.
 
 7. Any one who shall die in a vessel (ka^tik) it is
-allowable, for fear of contamination (pa<i^vishak), to
+allowable, for fear of contamination (pa(i^vishak), to
 throw into the water ; some say that the water itself
 is the receptacle for the dead (khazanih).
 
@@ -16294,10 +16248,10 @@ Nask^ it is declared that one mentions these charac-
 ^ This passage does not appear to be now extant in the Avesta.
 
 2 This was the sixth nask or 'book' of the complete Mazdayasnian literature, according to the Dinkara', which calls it Past or
-Pasag; but according to the Dini-va^arkar</ and the Rivayats it
+Pasag; but according to the Dini-va^arkar(/ and the Rivayats it
 was the seventh nask, called Vagzva. For its contents, as given by
-the Dini-va^arkar</, see Haug's Essays, pp. 128, 129. The following is a short summary of the account of it given in the eighth book
-of the Dinkar</ (that published in the Pahl.-Paz. Glossary, pp. 184,
+the Dini-va^arkar(/, see Haug's Essays, pp. 128, 129. The following is a short summary of the account of it given in the eighth book
+of the Dinkar(/ (that published in the Pahl.-Paz. Glossary, pp. 184,
 185, being taken from the fifteenth nask, whose contents were
 mixed up with those of the seventh through the abstraction of
 several folios from the Iranian MS. of the Dinkar*/ before Mi 3, or
@@ -16489,7 +16443,7 @@ is a brief summary of the account of it given in the eighth book
 of the Dinkard/, where it occupies twenty-five quarto pages of that
 work : —
 
-The beginning of the law (da^/) is the Nika^um of thirty fargar</s. The section Patkar-ra^istan (' the arbitrator's code') is
+The beginning of the law (da^/) is the Nika^um of thirty fargar(/s. The section Patkar-ra^istan (' the arbitrator's code') is
 about umpires and arbitration, contracts by words of four kinds
 and by signs of six kinds ; and twelve sorts of arbitrators are
 described in four sub-sections, according as they decide by hearing
@@ -16567,10 +16521,10 @@ of the universe, with the coming of his future sons, the last three
 apostles.
 
 ^ The Paz. Dughda of Bund. XXXII, 10 would indicate Pahl.
-Dukdan, but the Dinkar^/ has Dukfl^aubo and Duk</aubag
+Dukdan, but the Dinkar^/ has Dukfl^aubo and Duk(/aubag
 (pointing to Av. Dughdhavan), and the Persian forms are
 Dughdii and Dughdavih. Here the name is Dukdavo, which
-is transposed into Du</kav in Chap. XII, 1 1 ; it must have meant
+is transposed into Du(/kav in Chap. XII, 1 1 ; it must have meant
 either ' milk -maid ' or ' suckler ' originally.
 
 ^ K20 has jea'a, 'a demon,' and in Chap. XII, 11, where this
@@ -16963,8 +16917,8 @@ of ten dirhams and a half, which is its full weight;' in which case
 one Sr6sh6-/C'aranam would be 3^ dirhams, as in Chap. XVI, 5.
 
 "- This was the eighteenth nask or ' book' of the complete
-Mazdayasnian hterature, according to the Dinkar</; but according
-to the Dini-va^arkar</ and the Rivayats it was the nineteenth nask,
+Mazdayasnian hterature, according to the Dinkar(/; but according
+to the Dini-va^arkar(/ and the Rivayats it was the nineteenth nask,
 called Askarum or Askaram. For its contents, as given by the
 Dini-va^arkar^/, see Haug's Essays, p. 133. The following is a
 brief summary of the account of it given in the eighth book of the
@@ -17003,7 +16957,7 @@ world proceeding from the primeval ox, the evil spirit not to be
 worshipped, and much other advice.
 
 The passage mentioned in the text appears to have been in the
-first section of this N^sk, as the Dinkar</ says it treated, among
+first section of this N^sk, as the Dinkar(/ says it treated, among
 other matters, ' about a man's examining an action before doing it,
 and when he does not know whether // be a sin or a good work,
 when possible, he is to set it aside and not to do //.' But nothing
@@ -17023,7 +16977,7 @@ word is ambiguous, as it may be daraktar, 'more rending,' or
 giraitar, 'more weighty, more threatening,' &c.
 
 ^ M6 has Bak. This was the third nask or 'book' of the
-complete Mazdayasnian literature, according to the Dinkar</,
+complete Mazdayasnian literature, according to the Dinkar(/,
 which calls it Bako ; but according to the Dini-va^arkar(/
 and the Rivayats it was the fourth nask. For its contents, as
 given by the Dini-va^arkarrt', see Haug's Essays, p. 127. In
@@ -17089,7 +17043,7 @@ A/'as^ ^ that Spendarma^ spoke to Manu^/ihar thus :
 ^ This was the twelfth nask or 'book' of the complete Mazdayasnian literature, according to the Dinkara', which calls it
 XidrdiStd or A'i^/rojto ; but according to the Dini-va^arkar^/ and
 the Rivayats it was the fourteenth nask called Cira^t. For its
-contents, as given by the Dini-va^arkar</, see Haug's Essays, p. 131.
+contents, as given by the Dini-va^arkar(/, see Haug's Essays, p. 131.
 The following is a summary of the short account of it given in
 the eighth book of the Dinkar^/ : —
 
@@ -17133,7 +17087,7 @@ nak), the sharpest steel knife requires the whetstone
 (bara khandert') the A vesta and Zand are not to
 be mumbled, for the wisdom of Auharmazd is omniscient, ajid good works are a great exercise of
 liberality, but an extreme abstinence from producing
-irritation (han^irt^ar-daht^nih) ; because in the Ratuj>taitih Nask ^ many harsh things are said about
+irritation (han^irt^ar-daht^nih) ; because in the Ratuj)taitih Nask ^ many harsh things are said about
 the severe punishment of producers of irritation, in
 the spiritual existence.
 
@@ -17142,8 +17096,8 @@ even of those of the good religion who, through
 unacquaintance with the religion, when a female
 fowl crows in the manner of a cock, will kill the
 
-* This was the seventh nask or 'book' of the complete Mazdayasnian literature, according to the Dinkar</, which calls it
-Ralujtaiti ; but according to the Dini-va<;'arkarrt? and the Rivayats
+* This was the seventh nask or 'book' of the complete Mazdayasnian literature, according to the Dinkar(/, which calls it
+Ralujtaiti ; but according to the Dini-va(;'arkarrt? and the Rivayats
 it was the eighth nask called Ratmtai. For its contents, as given
 by the Dini-va^arkar(/, see Haug's Essays, p. 129. The following
 is a summary of the short account of it given in the eighth book
@@ -17213,7 +17167,7 @@ VII, 2-4).
 
 
 nation (nisru^t) ^ does not rush upon him; and for
-this reason, this, too, is well/<?r the good, that is, to
+this reason, this, too, is well/(?r the good, that is, to
 show a dog rightly again a previous corpse in the
 forthcoming period of the day ^.
 
@@ -17398,7 +17352,7 @@ use in a ceremony dedicated to any one of the angels, or spirits,
 mentioned.
 
 
-^>,2>^ SHAY AST LA-SI I A VAST.
+^),2)^ SHAY AST LA-SI I A VAST.
 
 angel Horn's^ own ; the neck is Ashavahirt's^ own ;
 the head is the angel Vae's^ own ; the right shoulder
@@ -17507,7 +17461,7 @@ from the passage: ' Hizvam fr^renao^^,' &c.
 
 Chapter XII.
 
-I . The rule is this, that when one's form of worship (ya>f t) ^ is performed, and it is not possible for
+I . The rule is this, that when one's form of worship (ya)f t) ^ is performed, and it is not possible for
 him to prepare it, the practice of those of the primitive faith^ is, when the girdle (aipiyaung) is twined
 about a sacred twig-bundle (baresom)^ of seven
 twigs (tak), to consecrate a sacred cake (drono)
@@ -17522,7 +17476,7 @@ better than to pray for it as a return for an offering.
 
 ^ It is doubtful if this passage can be found in the extant
 Avesta ; but a passage of similar meaning, and containing the
-words fr<?renao^ and hizvo, occurs in Yas. XI, 16, which states
+words fr(?renao^ and hizvo, occurs in Yas. XI, 16, which states
 that ' the righteous father, Ahuramazda, produced for me, Haoma,
 as a Draona, the two jaws, with the tongue and the left eye;' and
 it then proceeds (Yas. XI, 17-19) to curse any one 'who shall
@@ -17607,13 +17561,13 @@ food-hoy^X (pa^fmanako) — that is, a bag (anbanako-hana)^' — the decree is t
 part of the Nask which described the protection afforded by the
 fire to the new-born Zaratij^t.
 
-^ Probably a negative is omitted, or akarini<fan6 should be
+^ Probably a negative is omitted, or akarini(fan6 should be
 translated ' to make no use of.'
 
 ^ See Chap. X, 40. K20 has 'garment.'
 
 * Always written Vadikdarf'in this second part of Sis., except
-in Chap. XIII, 7 ; whereas in the first part it is written in its uncorrupted form Gavi^-def-da</ or 6^avi<f-jeda-da(/, 'the law
+in Chap. XIII, 7 ; whereas in the first part it is written in its uncorrupted form Gavi^-def-da(/ or 6^avi(f-jeda-da(/, 'the law
 opposed to the demons.' The passage here quoted is Pahl. Vend.
 V, 171, 172, with one or two verbal variations.
 
@@ -17653,7 +17607,7 @@ bag, and the two smaller bags inside it, till wanted again.
 ^ See Chap. I, i, 2.
 
 2 This passage does not appear to be now extant in the
-Vendidad, and it is possible to read Nask Das? instead of Vadikda</.
+Vendidad, and it is possible to read Nask Das? instead of Vadikda(/.
 The Da^i or Da^fak Nask was the eleventh nask or 'book' of
 the complete Mazdayasnian literature, according to the Dinkar^/,
 which merely says that its ' Avesta and Zand are not communicated
@@ -17683,7 +17637,7 @@ that the nearest fire, which is that to which it has
 come out, should become stronger (zor-homandtar)-.
 
 6. The rule is this, that they should not leave a
-Vi2i!A-paring unprayed over {anafsu<^ak), for if it be
+Vi2i!A-paring unprayed over {anafsu(^ak), for if it be
 not prayed over (afsand)^ it turns into the arms
 and equipments of the Mazanan demons ** ; this is
 explicitly shown in the Vendidad '".
@@ -17716,7 +17670,7 @@ the two words zor and zohar are occasionally confounded.
 
 5 Vend. XVII, 29.
 
-® Barman-zerkhuni>rnih may also mean 'begetting a son.'
+® Barman-zerkhuni)rnih may also mean 'begetting a son.'
 
 '' See Chap. X, 21. The word ' twentieth' appears to refer to
 the second group of twenty sections, one of which treated of the
@@ -18060,7 +18014,7 @@ letters kamak, 'desire,' in the original from which it was copied.
 
 ^ See Chap. X, 4. The passage here quoted was no doubt contained in that part of the Nask which treated of the exhibition of
 heaven and hell to Zaratujt, which must have been very similar to
-the Ar</a-Viraf-namak, in which most of the details of this story
+the Ar(/a-Viraf-namak, in which most of the details of this story
 about Davans are given (see AV. XXXII).
 
 * This is, no doubt, the Av. davas of Yas. XXXI, 10, which
@@ -18227,7 +18181,7 @@ man.
 
 ^ Referring to one about to become a priest.
 
-^ The Av. a^tra and sraosh6->^arana of Vend. IV, 38-114,
+^ The Av. a^tra and sraosh6-)^arana of Vend. IV, 38-114,
 &c., which were formerly used for the temporal punishment of
 sinners. Whether they are here brought to the neophyte as a token
 of his admission to the priesthood, or are administered to him as a
@@ -18347,7 +18301,7 @@ and seven archangels ^ for the world, so that they
 may attain ' to heaven, the home (mehono) of Auharmazd, the home of the archangels, the home of
 those righteous ones,' avi garo-nmanem, maethanem Ahurahe mazd^u, maethanem ameshanam spe;^tanam, maethanem anyaesham
 ashaonam^. 9. The three repetitions (danar) of
-Ye-?>ev\sX.o (Yas. XXXIII, 11) ^ and the holding up
+Ye-?)ev\sX.o (Yas. XXXIII, 11) ^ and the holding up
 of the holy-water (zohar) at these repetitions, are
 for the four classes'^, and for this reason at Ahurai
 mazdai and ashem/'a frada^f^ the holy-water is
@@ -18374,8 +18328,8 @@ classes,' but this is inconsistent with the ' three repetitions.' The
 Avesta generally knows only three classes, but four are mentioned
 in the BaghanYa^-t (Yas. XIX, 46).
 
-^ That is, probably, at the words Ahuro mazd(7us>^a in the
-first line, and ashemia frada</ in the second line of the stanza;
+^ That is, probably, at the words Ahuro mazd(7us)^a in the
+first line, and ashemia frada(/ in the second line of the stanza;
 but this is doubtful, as the MSS. give the words corruptly, in a
 mixture of Av. and Pahl., as follows; pavan Ahurai mazdai
 aharayih-i daz/oih.
@@ -18439,7 +18393,7 @@ words, and good deeds be more domesticated (mahmantar) in the world, and the fie
 Auharmazd and the righteous man, Khshmaibya as
 Vohiiman and cattle, Art^-ta-vakhshya as Ar^avahi^t
 and fire, Ta-v^-urvata as Shatvairo'^ and metal, the
-i7z/aetumaithi as the Gatha of Spendarma</ and the
+i7z/aetumaithi as the Gatha of Spendarma(/ and the
 earth, Yatha-aii" as Horvada^ and water, and Ya-
 ^kyaothana as Ameroda^ and plants.
 
@@ -18627,7 +18581,7 @@ thwa-peresa again \ because they should utter the
 original judgment again, and the twentieth time the
 evil spirit becomes confounded.
 
-29. The eleven stanzas of A</-fravakhshya (Yas.
+29. The eleven stanzas of A(/-fravakhshya (Yas.
 XLIV) are made up from the six chieftainships ^
 and the five accomplishments (farhang) owing to
 religion ; one is thus, not to do unto others ^ all that
@@ -18648,7 +18602,7 @@ these words are recited twenty times before the last stanza is
 reached. The phrases 'and for this reason'' and 'because they
 should utter the original judgment again ' are omitted in ]\I6.
 
-^ These cannot be the same 'chieftainships' (ra</ih) as those
+^ These cannot be the same 'chieftainships' (ra(/ih) as those
 mentioned in § 11, of which there are only five; but perhaps they
 are the spiritual chieftainships, or primacies, of the six other regions
 of the earth (see Bund. XXIX, i).
@@ -18732,7 +18686,7 @@ twice, both in its proper place and at the end of each chapter
 of that Gatha (see §12, note).
 
 ^ It seems probable that the Pahlavi writer has here confounded
-Spendamat, ' the beneficent spirit,' with the archangel Spendarma</
+Spendamat, ' the beneficent spirit,' with the archangel Spendarma(/
 who has special charge of the earth ; their names being even more
 alike in Pahlavi than in English, though corrupted from the distinct
 Avesta forms spewta mainyu and spe7/ta armaiti, respectively.
@@ -18876,7 +18830,7 @@ but, taking each compound in Westergaard's edition of the texts
 as a single word, the total number of words in the 1016 lines
 is about 6147; a"d this could be reduced to 5567 only by omitting the Yasna of seven chapters, and somewhat relaxing the rule
 as to compound words. The meaning of the last two terms,
-marik and khur</ak, is doubtful, but they are certainly not
+marik and khur(/ak, is doubtful, but they are certainly not
 syllables and letters, as the number of syllables exceeds 13,000.
 In other places (see Bund. I, 21) marik usually means 'a word,'
 but that meaning is expressed by the term va-^ak here. If the
@@ -19044,7 +18998,7 @@ hand.'
 spirit ; it is not possible to grasp my hand.'
 
 3. Zaratui't spoke thus : ' Thou art intangible, and
-Vohuman, Ar</avahi5-t, Shatvairo^, Spendarma^f, Horvada^, and Ameroda^ are intangible, and when I
+Vohuman, Ar(/avahi5-t, Shatvairo^, Spendarma^f, Horvada^, and Ameroda^ are intangible, and when I
 depart from thy presence, and do not see thee 7ior
 even them — since of the person whom^ I see and
 worship there is something — should thou and the
@@ -19313,7 +19267,7 @@ men, so that they may commit no sin and may not
 become wicked, and the splendour of Auharmazd
 may become their own in heaven.'
 
-31. Completed in peace, pleasure, aiid)Q>y^.
+31. Completed in peace, pleasure, aiid)Q)y^.
 
 
 Chapter XV I.
@@ -19483,7 +19437,7 @@ they should celebrate the whole religious ritual
 night, at dawn, one is to consecrate three sacred
 cakes (dron), on& for Rashnta and Ast^d, the second
 for Vae the good^ and the third /^r the righteous
-guardian spirit (ar^ai fravar<7^); and clothing^ is
+guardian spirit (ar^ai fravar(7^); and clothing^ is
 to be placed upon the sacred cake of the righteous
 guardian spirit. 5. For the fourth day it is allowable to slaughter a sheep ^, and the fourth day the
 ceremonial (ya^i j"n) of the righteous guardian spirit
@@ -19795,7 +19749,7 @@ worthy of death.'
 
 ' See Bund. I, 21.
 
-^ It appears from the ninth book of the Dinkar</, that the contents of this chapter are derived from the first fargarc? of the
+^ It appears from the ninth book of the Dinkar(/, that the contents of this chapter are derived from the first fargarc? of the
 Siu/kar Nask {see B. Yt. I, i, note). The account given by the
 Dinkarc/ contains fewer details, but, so far as it goes, it is in accordance with our text, except that it seems to transfer the object of
 § 10 to § 1 2, and removes the objects of §§ 1 2, 13 one step onwards ;
@@ -19833,8 +19787,8 @@ omitted by mistake in M6, and these two words are illegible in
 K20, except part of the last letter.
 
 '^ K20 substitutes for val, 'at,' the following mutilated phrase :
-[. . . . aNhflu khshapo ka^ar,('ai pavan ka^ar>^ai] madam
-vazlune</ rafi?ih-i ; the portion in brackets being evidently a fragment from the Har/okht Srosh Yt. 5 with Pahlavi translation
+[. . . . aNhflu khshapo ka^ar,('ai pavan ka^ar)^ai] madam
+vazlune(/ rafi?ih-i ; the portion in brackets being evidently a fragment from the Har/okht Srosh Yt. 5 with Pahlavi translation
 (a passage which treats of the efficacy of reciting the Yatha-ahuvairyo). If this fragment be not merely a marginal gloss, which
 has crept into the text by mistake, we must translate the whole
 section as follows : ' Four are for the more thankful coming out
@@ -20279,7 +20233,7 @@ a woman from the race of the great !
 
 6. May Horvada^/ grant thee plenty and prosperity !
 
-7. May Amer6da<i^ grant thee herds of four-footed
+7. May Amer6da(i^ grant thee herds of four-footed
 beasts !
 
 summer, diminishing to 2f hours at the autumnal equinox, and
@@ -20294,7 +20248,7 @@ whose names are given to the days of the Parsi month in the order
 in which they here stand (compare the same names in Bund.
 XXVII, 24).
 
-'^ The meaning of the word pa</r6^ or pa^ran^ (which occurs
+'^ The meaning of the word pa(/r6^ or pa^ran^ (which occurs
 also in §§ 12, 26, and appears to be a title) may be guessed from
 the following passage in the Yaf^/kar-i Zariran, or Vi^tasp-shahnamak : Pavan har razm va paifrazm-i lak piro^ va veh pa^/rooj-em yaityuni-ae, ' in every attack and counter-attack of thine mayest
 thou bring away the title of conqueror and good champion ! '
@@ -20457,10 +20411,10 @@ hotter^, ATJan is more golden^, Khixr is more observant^*^, Mah is more protecti
 Gos is swifteri2. 3. Din^^.p^-Mitro is just like Auharmazd, Mitro is more judicial, Srosh is more
 vigorous, Rashn is more just, Fravarrtftn is more
 powerful, Vahram is more victorious, Ram is more
-pleasing, Vac/ is more fragrant. 4. V>m-pa-Din6 is
+pleasing, Vac/ is more fragrant. 4. V)m-pa-Din6 is
 iust like Auharmazd, Dino is more valuable, hxd^'^
 is more beautiful, A^ta^ is purer, Asman is more
-lofty, Zamya</ is more conclusive, Maraspend is more
+lofty, Zamya(/ is more conclusive, Maraspend is more
 
 thirty angels and archangels, are extant ; one in M6, which has
 lost §§ 3-5, and the other in a very old MS. in the library of the
@@ -20521,3990 +20475,5 @@ ox. The third week consists of the day Din-with-Mitro followed by seven days nam
 pleasure, and wind. And the fourth week consists of the day Dinwith-Dino followed by seven days named after the angels of religion,
 righteousness, rectitude, the sky, the earth, the liturgy, and the
 fixed stars.
-
-
-INDEX.
-
-
-OBSERVATIONS.
-
-
-1. The references in this index are to the pages of the introduction,
-and to the chapters and sections of the translations; the chapters being
-denoted by the larger ciphers.
-
-2. References to passages which contain special information are given
-in parentheses,
-
-3. Though different forms of the same name may occur in the translations, only one form is usually given in the index, to which the references to all forms are attached ; except when the forms differ so much
-as to require to be widely separated in the index.
-
-4. Pahlavi forms are always given in preference to Pazand and Persian, when only one is mentioned ; but where only a Pazand form occurs
-it is printed in italics, as Pazand orthography is usually corrupt. In all
-such italicised names any letters, which would elsewhere be italic, are
-printed in roman type.
-
-5. Abbreviations used are : — Av. for Avesta word ; Bd. for Bundahij ;
-Byt. for Bahman Yajt ; ch. for chapter of Visparad ; com. for commentator and commentary; Gu^. for Gu^arati ; Huz. for Huzvarij ;
-Int. for Introduction ; lun. man. for lunar mansion ; m. for mountain ;
-meas. for measure ; n for foot-note ; Pahl. for Pahlavi ; Paz. for
-Pazand ; Pers. for Persian ; r. for river ; SI. for Shayast la-shayast ;
-trans, for translation ; wt. for weight ; zod. for zodiacal constellation ;
-Zs. for Selections of Za^-sparam.
-
-
-INDEX.
-
-
-Aban, angel, Byt. 2, 5911. See
-
-Ai'an.
-Ab-istadah lake, Bd. 22, 511.
-Ablution, Byt. 2, 36; SI. 2, (52,)
-
-108; 3, 10, 12; 8, 18, 22; 12,
-
-2 2 2 4-
-
-— seat', Byt. 2, (36 ;) SI. 10, 5- —
-tank, SI. 10, 5. — vessel, SI.
-3, 12.
-
-Abode of fires, SI. 9, 5 ; 20, i, 8, 9.
-
-Abtin, man, Bd. 31, 7 "•
-
-Achaemenians, Byt. 2, lyn.
-
-Adar, angel, Byt. 2, 59 n. SeeAtarS.
-
-Adarbifan, land, Bd. 20, 13 n, 25 n;
-22, 2 n ; 25, 4 n ; 29, 12 n.
-
-Afl'-fravakhshya ha, SI. 13, 29.
-
-A<^-ma-yava ha, SI. 13, 33.
-
-Adopted son, SI. 12, 14.
-
-Ac/-ta-vakhshya ha, SI. 13, 4, 14.
-
-Aeshm, demon, Bd. 19, 3 3 n ; 28,
-(15-17,) 20; 30,29; Byt. 1, 5n;
-2, 36n; SI. 13, 43; 18, i, 3-
-
-Afarg, com., SI. 1, (3 ;) 2, 2, 64, 73,
-88, 115, i23n; 5,5,6; 10, 39n.
-
-Afghanistan, Bd. 12, 22 n ; 20, 17 n.
-
-Atrasiyab, king, Bd. 31, 14 n, 17 n,
-19 n.
-
-Afrin, ritual, SI. 13, 43 n; 19, 3.
-
-Afringan, rite, SI. 10, 34 n ; 17, 5 n;
-18, 4 n.
-
-Afrobag-vindaa', man, Bd. 33, 6, 8,
-
-jlgdimasvak, man, Bd. 31, 23.
-
-Agerept sin, SI. 1, i, 2 ; 11, i, 2 ;
-16, 2, 5.
-
-Aghrera^/, man, Bd. 29, 5; 31, 15,
-20-22.
-
-Aharman, origin of evil, Bd. 1, 3, 7,
-8, 20, 23, 27; 2, 11; Zs. 1, 2-4,
-6, 8-1 1, 17, 20, 24, 25; worshipped by Dahak, Bd. 20, 23 ;
-nature of, Bd. 28, 1-6, 46, 48 ;
-by whom served, Bd. 28, 2 1 ;
-differs sometimes from the evil
-spirit, Bd. 28, 40 n ; 30, 30 ;
-his attack on creation, Zs. 1,
-27 ; 2, 1-6, 11; 4, 1-5, 10; 5,
-ij 3, 5; 6, I, 23; 7, I, 12; 8,
-
-
-1, 6; 9, I, 24; 10, I ; 11, i ;
-
-defeated by religion, Byt. 2, 16,
-20; SI. 15, 6; his future evildoings, Byt. 2, 40, 62 ; 3, 55,
-56 ; his advice, SI. 18, i, 2, 4.
-See Evil spirit.
-
-Ahasuerus, Byt. 2, 17 n.
-
-Ahu-a^-paiti ha, SI. 13, 21.
-
-Ahunavaiti gatha, SI. 13, 2n, 4, 6-15,
-
-51.
-Ahunavar, Bd. 1, 21, 22 ; Zs. 1, 12 ;
-
-11, ion; SI. 10, 5n, 25, 26;
-
-12, 19, 32 n ; 13, 2 n ; text and
-trans., Bd. 1, 2 1 n ; com., Zs.
-
-Ahya-thwa-athro ha, SI. 13, 17.
-Ahya-yasa ha, SI. 13, 4, 12, 14, 50.
-Aibisriitem gah, Bd. 25, 9.
-Aighash, demon, Bd. 28, 33; 31,
-
-5".
-Airak, man, Bd. 31, 14.
-Aira/^ m., Bd. 12, 2, 12.
-Airan-ve_g-, land, Bd. 12, 25 ; 14, 4;
-
-20, 13, 32; 25, 11; 29, (4, 5,
-
-12;) 32, 3; Zs. 9, 8.
-kxYik, prince, Bd. 31, (9, 10,) 12, 14;
-
-32, in; 34, 6; SI. 10, 28 n.
-Airiz-rasp, chief, Bd. 29, i.
-Airman, angel, Bd. 30, 19 n.
-Airya, tribe, Bd. 31, 9 n.
-Airyak, man, Bd. 32, i n.
-Airyamana ha, SI. 13, 47.
-Aithritak, man, Bd. 32, i n.
-Aiwisruthrema gah, Bd. 25, 9n; SI.
-
-17, 5 n.
-Akandgar, king, Byt. 2, 19.
-Akatash, demon, Bd. 28, 20.
-Akhoshir r., Bd. 20, 7, 18.
-Akoman, demon, Bd. 1, 24, 27 ; 28,
-
-7 ; 30, 29; Zs. 9, 6.
-Alburz m., Bd. 5, 3-5; 7, 15 n; 8,
-
-2, 5; 12, (1-4,) 7n, 8, 9; 13, I,
-4; 19,15; 20,1,4,8; 24, 28;
-Zs. 6, 16, 20, 21 ; 7, I, 5-7.
-
-Alexander the Great, Int. 9, 11, 12,
-16; Bd. 34, 8; Byt. 2, 19 n;
-3,34-
-
-
-4IO
-
-
-Almsgiving never excessive, SI. 10,
-
-23 ; 12, 16.
-Alvand m., Bd. 19, 3.
-Ambergris, origin of, Bd. 19, 12.
-Amerdad, angel, Byt. 2, 59 n.
-Amerodarf', angel, Bd. 1, 26 ; 9, 2 ;
-
-27, 24 ; 30, 29 ; Zs. 8, i ; Byt.
-
-3, 29; Si. 9, 8; 13, 14; 15, 3,
-
-5,25,29; 22,7; 23, i; month,
-
-Bd. 25, 20.
-Ami r., Bd. 20, 8.
-Amu r., Bd. 20, 8n, 28 n.
-Amul, town, Bd. 20, 27 n.
-Anahy, planet, Bd. 5, i \ angel, Bd.
-
-32, 8. See Aban, A^'an.
-Anahita, angel, Bd. 19, in; SI. 11,
-
-4n.
-Ananghadi, man, Bd. 32, i n.
-Anastokh, man, Bd. 31, 9.
-Andar, demon, Bd. 1, 27 ; 28, (8,)
-
-10 ; 30, 29. See Indar.
-Aner, land, Bd. 15, 29.
-Angels, Bd. 15, 13; 30,2 8; Zs. 1, o;
-
-Byt. 3, 31; SI. 7, 7; 8, 4; 12,
-
-24 ; 13, 8 n, 30 ; fight with demons, Bd. 3, 26 ; 6, I ; their
-flowers, Bd. 27, 24; prayers
-and offerings to them, SI. 9, 10-
-12; 11, 4; 12,8-10; their gifts,
-SI. 22, 8-30; their qualities, SI.
-23, 2-4.
-
-Angra-mainyu, Bd. 1, i n, 3 n ; 28,
-
-in.
-Animals, origin and classes, Bd. 10,
-
-3; 14, 3-31; Zs. 9, I, 7-24;
-
-chiefs of, Bd. 24, 2-13; eating
-
-dead matter, SI. 2, 1 09-1 11;
-
-not to be idlled, SI. 10, 8, 9.
-Aniran, angel, Bd. 27, 24; SI. 22,
-
-30 : 23, 4 ; day, Bd. 25, 7-
-Anquetil Duperron, Int. 24, 25, 28.
-An tares, star, Bd. 2, 7 n ; SI. 14,
-
-51.
-Aoiwra, Av., Bd. 31, 6 n.
-Ao.shnara, man, Bd. 31, 3 n.
-Apaosh, demon, Bd. 7, 8, 10, 12; 28,
-
-(39;) Zs. 6, 9, II, 13.
-Aparsen m., Bd. 12, 2, (9,) 12-14,
-
-21, 22, 29, 30, 3in; 20, 16, 17,
-
-21, 22 ; 24, 28 ; Zs. 7, 7.
-Ape, origin of, Bd. 23, i ; pollutes,
-
-SI. 2, 61.
-Apostasy, SI. 17, 7.
-Apostate, Byt. 3, 56, 57 ; SI. 9, 3.
-Aquarius, Bd. 2, 2 ; Byt. 3, 1 1 n ;
-
-SI. 21, 2.
-
-
-Arabic, Int. 14.
-
-Arabs, Bd. 15, 28; 23, 3; 29, 4 ;
-
-34, on, 9; Byt. 3, 9, 51-
-Arag lake, Bd. 19, 15.
-— r., Bd. 7, 15, 17; 20, (i, 3-8,)
-
-9 n, 22 n, 28 n; 21, 3; 24, 26;
-
-Zs. 6, 20 n; Byt. 3, 17 n.
-Araii/ar, man, Bd. 32, i n.
-Aral sea, Bd. 19, 1 5 n ; 20, 20 n ; 22,
-
-4n.
-Arang r., Bd. 20, 8 n ; Zs. 6, 20 n ;
-
-Byt. 3, 5 n.
-Aran^-i Birac/an, man, Bd. 32, 7.
-Arajk, demon, Bd. 28, 14, 16.
-Arast, demon, Bd. 28, 32.
-Arasti, man, Bd. 32, 2 ; 33, i.
-Araivisanasp, man, Bd. 31, 23.
-Araxes r., Bd. 20, 8n, i3n, 2 2n,
-
-28n; Zs. 6, 2on; Byt. 3, sn.
-Archangels, Bd. 1, (26 n ;) 2, 9 ; 3, 2,
-
-4; 30,23; Byt. 1,0; 2, 64; 3,
-
-9, 31; SI. 13, 8, 24, 46; 18, 4;
-
-22,31; their flowers, Bd. 27, 24;
-
-subdue demons, Bd. 30, 29;
-
-prayers and offerings to them,
-
-Byt. 3, 28, 37; SI. 9, 10; 11, 4;
-
-19, 7 ; 20, I ; means of serving
-
-them, SI. 15, 1-30; their gifts,
-
-SI. 22, 1-7; their qualities, SI.
-
-23, I.
-Arch-fiends, Bd. 3, 2 ; 28, 1-13 ; 30,
-
-29; SI. 10, 4n; 12, iin.
-Ar^, angel, Bd. 22, 4n ; 27, 24 ; SI.
-
-23, 4. See Arshijang.
-Arda-fravash, angel, Byt. 2, 59 n.
-Ar^ai-fravar<^, angel, SI. 11, 4.
-Ar^akhshir-i Kai, king, Bd. 31, 29 n ;
-
-Byt. 1,5; 2, 17.
-Ar^akhshir-i Papakan, Int. 11, 19;
-
-Bd. 31, 3on; Byt. 2, 18.
-Ar^avahijt, angel, Bd. 1, 26 ; 31, 38 ;
-
-
-13; 22, 3 ; 23, I ; month, Bd.
-
-25, 20. See Ashavahijt.
-Ardavan, king, Bd. 31, 30 n.
-Ar</a-Viraf, man, SI. 21, on.
-Ardibahijt, angel, Byt. 2, 59 n. See
-
-Ar.a'avahijt.
-Aredho-manusha m., Bd. 12, ion.
-Areduj sin, SI, 1, i, 2 ; 7, 30 ; 11, i,
-
-2; 16, 4, 5.
-Aredvivsur, angel, SI. 11, 4 ; 23, 2 n ;
-
-water, Bd. 7, 15"; 12, 5 ; 13,
-I, 3, 10; 21, 4n; 24, 17, 26;
-
-27, 4; Zs. 6, 18.
-Arezur m., Bd. 3, 2n; 12, 2, (8;)
-
-
-INDEX.
-
-
-Byt. 3, 22n; SI. 10, 7"; 13,
-
-Arezur-buin m., Bd. 12, 2, 16.
-Ar^asp, king, Bd. 12, 32; Byt. 2,
-
-49"; 3, 9.
-Aries, Bd. 2, 2 ; 5, 6 ; 7, 2 ; 25, 2 1 ;
-
-SI. 21, 2.
-Arij, prince, Bd. 31, 2 5n.
-Ariz, fish, Bd. 14, 26 ; 18, 5; 24, 13.
-Armaiti, angel, Bd. 15, 6n. See
-
-Spendanna^.
-Armenia, Bd. 20, ion.
-Armejt, SI. 2, (98 n;) 6, i.
-Armin, prince, Bd. 31, 25 n.
-Arn'i^-baredd, woman, Bd. 32, yn.
-Arsaces I, Byt. 2, 190.
-Arsacidans, Int. 11. See Ajkanians.
-Arshijang, angel, Bd. 22, 4; 27,
-
-24n; SI. 22, 25; 23, 4 n. See
-
-Ar^.
-Artakhshatar son of Papak, Bd. 31,
-
-30 ; Byt. 2, 1 8 n ; — the Kayan,
-
-Bd. 31j, 30; 34, 8n. See Ara'akhshir.
-Artaxerxes Longimanus, Bd. 34, 8 n ;
-
-Byt. 2, lyn.
-
-— Mnemon, Bd. 34, 8n; Byt. 2,
-
-lyn.
-
-— Ochus, Bd. 34, 8n.
-
-Arum, land, Bd. 12, 16 ; 13, 15 ; 15,
-
-29; 20, 10; SI. 6, yn.
-Arvand r., Zs. 6, (20;) Byt. 3, 5, 21,
-
-38.
-Arzah, region, Bd. 5, 8, 9 ; 11, 3 ;
-
-29, I ; Byt. 3, 4y.
-Asam, man, Bd. 29, 5.
-Ashdrd r., Bd. 20, 20.
-Ashdshagahad, man, Bd. 29, i.
-Ashavahijt, angel, Bd. 27, 24; 30,
-
-29 ; SI. 11, 4. See Ara'avahijt.
-Ashavanghu, man, Bd. 29, in.
-Asha'va%d, man, Bd. 29, 6.
-Ashem - Ahurem - mazdam ch., SI.
-
-13,5-
-
-Ashem-vohu, Byt. 2, 59 ; SI. 3, 35 ;
-
-4, 14; 5, 2, 5, y; 10, sn, 24,
-
-35; 12, 21, 32; 13, i; 19, 5;
-
-text and trans., Bd. 20, 2.
-Ashovahijt, man, Bd. 33, 11.
-Ashozust, bird, Bd. 19, 19.
-Asia Minor, Bd. 13, isn.
-Ajk, king, Byt. 2, 1911.
-Ajkanians, Bd. 31, son ; 34, 9 ; Byt.
-
-2, 19. See Arsacidans.
-Askarum nask, SI. 10, 2 5n. See
-
-Saka^um.
-
-
-Asman, angel, Bd. 27, 24 ; SI. 22,
-
-2y; 23, 4.
-Asnavand m., Bd. 12, 2, (26 ;) 17, y ;
-
-Zs. 11, 9.
-Asparq§- m., Bd, 12, 29, 36.
-Asparum nask, SI. 10, 2 in. See
-
-Husparam.
-Aspen^argak, demon, Bd. 7, 12 ; 28,
-
-39. See Spen^argak.
-Aspikan, Bd. 32, i n.
-Aspiyan, Bd. 31, 4, y, 8.
-Assaults, SI. 1, in, 2n.
-Assyrians, Int. 12, 13; Byt. 3, 5.
-Ajta^, angel, Bd. 27, 24; Byt. 2,
-
-59n; 3, 32; SI. 17, 4, 5 n ; 22,
-
-26; 23, 4.
--^ yajt, Byt. 1, 6.
-Astaothvvanem ha, SI. 13, i.
-Astarabad, town, Bd. 12, 32 n.
-Asto-vidart', demon, Bd. 3, 21, 22;
-^ 28, 35 ; Zs. 4, 4.
-Astuye ha, SI. 13, i.
-Asurik, man, Bd. 31, 19.
-Asuristan, land, Bd. 31, 39; Byt.
-
-. 3,5.
-
-Asvast lake, Bd. 22, i, y.
-Ajvini, lun. man., Bd. 2, 3n.
-Atarem/^a ch., SI. 13, 26.
-Ataro, angel, Bd. 27, 24 ; SI. 22, 9 ;
-23, 2 ; day, Bd. 25, 11.
-
-— Auharmazd, com., SI. 1, 3.
-
-— bondak, man, Bd. 33, i.
-
-— da^, man, Bd. 33, 3.
-
-— frobag, man, Byt. 1, y ; SI. 1, 3n.
-nosai, com., SI. 1, 3.
-
-— Mitro, man, Byt. 1, y.
-
-— pa^, man, Byt. 1, y.
-
-i Dar/-farukh, com., SI. 1, 4n.
-
-i Maraspendan, priest, Bd. 33,
-
-3, 11; Byt. 1, in; 2, 18; SI.
-
-8, 23; 10, 28n, 40; 15, 16.
-i Zaratujtan, priest, Zs. 1, 1 9 n ;
-
-SI. 8, (10.)
-
-— patakan, land, Bd. 12, 26 ; 20,
-
-i3n, 23, 25; 22, 2; 29, 12;
-Zs. 11,9; Byt. 1, y.
-
-— tarsah, man, Bd. 31, 29.
-Atif nyayij, SI. 7, 4^n ; 20, in.
-
-— i Vahram, see Vahram fire.
-Athrat, man, Bd. 31, 2y ; SI. 22,
-
-32n.
-Athwya, man, Bd. 31, 4n.
-Atonement for sin, SI. 8, in, 4n, 13,
-
-15, 16, 19, 20, 23.
-Atrat, man, Bd. 31, 2yn.
-Auharmazd, Zs. 6, 10; Byt. 2, 64;
-
-
-SI. 8, 13, 21, 23; 10, 29; 12,
-28 ; 13, 8; 18,4; 20, 11, 18;
-22, 32 ; the creator, Bd. 1, 0-3,
-6-12, 23, 25, 28; 2, I ; 7, 15;
-13, 5; 15, 3, 4, 6, 7, 23; 17, 1,
-3; 18, 3, 5; 19, 9, 10, 36; 20,
-1,5,6; 21, 3; 24,25,26; 28,
-1-3, 17; Zs. 1, o, 20, 23, 24; 2,
-7, 8 ; 10, 4, 5 ; Byt. 1, o ; SI.
-
-10, 28 n; 12, 2 ; 14, 4 ; 18, i ;
-
-22, 8, 15, 23 ; contends with
-Aharman, Bd. 1, 13, 15-18,
-20-22 ; 3, 2, 4, 6, 18, 19, 21 ; 4,
-2-4; 6, 2, 4; 7, 9; Zs. 1, 2, 4,
-7, 9, II ; 3, I, 2; 4, 3, 10; 5,
-I ; instituted rites, Bd. 2, 9 ;
-chief of spirits, Bd. 24, in; SI.
-
-11, 4n; archangel, Bd. 27, 24;
-SI. 13, 14; 15, 5, 7, 8; 22, i;
-
-23, I ; religion of, Bd. 28, 4, 5 ;
-talks with ZaratQjt, Bd. 30, 4,
-5; Zs. 11, ion; Byt. 1, 1-5;
-2, 1-63 ; 3, 1-62; SI. 9, 8, 14;
-10, 26; 12, 29, 32; 15, 1-30;
-
-17, 1-6, 8, 11-14; worshipped,
-Bd. 30, 23, 28 ; Zs. 10, i ;
-Byt. 2, 64; 3, 28, 37; SI. 13,
-
-18, 24, 32, 46 ; arranges the future existence, Bd. 30, 24, 27,
-29) 30j 32 ; his nature, Zs. 1,
-13-17 ; 5, 4 ; SI. 23, 1-4 ; foretells future events, Byt. 1, 3-5 ;
-2, 15-22, 24-63 ; 3, 1-62,
-
-Auharmazd day, Bd. 3, 12 ; 25, 7,
-10, 13 ; Zs. 2, I.
-
-— king, Bd. 33, 2.
-
-— planet, Bd. 5, i ; Zs. 4, 7.
-Aur-vadasp, man, Bd. 32, i.
-Aurva^-aspa, king, Bd. 31, 2 8n.
-Aurvakhsh, man, Bd. 31, 26.
-Aurvata<^-nar, man, Bd.32, 5, 6, 7n.
-Aurvazijt fire, Zs. 11, i, 4, See
-
-Urvazijt.
-Aiishahin gah, Bd. 25, 9.
-Aushbam, man, Bd. 31, 33, 34.
-Aushdajtar m., Bd. 12, 2, 15.
-Ausindom m., Bd. 12, 2, 6 ; 13, 5 ;
-
-18, I in.
-AQsofrW, rite, Byt. 2, 45; SI. 13,
-
-30.
-AusposTn, man, Bd. 29, i.
-Aujtui'at gatha, SI. 10, 6. See
-
-Ujtavaiti.
-AustofrW, rite, SI. 12, 10. See
-
-YastofrW.
-Auzav, man, Bd. 31, 28.
-
-
-Auzerin gah, Bd. 25, 9, 10; SI. 7,
-
-in; 21, 4, 5.
-Auzobo, king, Bd. 31, 23, 24, 35;
-
-34, 6n; SI. 10, 28n.
-Auzvarak, man, Bd. 31, 4 in.
-Ava^Z-mizdem ch., SI. 13, 48.
-A-yan, angel, Bd. 27, 24 ; SI. 22, 10 ;
-
-23, 2 ; day, SI. 11, 4n ; month,
-
-Bd. 25, 7, 10, 20 ; Byt. 3, 16 ;
-
-SI. 11, 4 n. See Aban.
-Avardaa', month, Bd. 25, 2 on. See
-
-Horvada^.
-Avarethrab«u, man, SI. 10, 2 8n.
-Avarnak, man, Bd. 31, 37, 38.
-Avar-shatro, land, Bd. 31, 37, 38.
-Avdem, lun. man., Bd. 2, 3.
-Avesar, lun. man., Bd. 2, 3.
-Avesta, Int. 9, (10,) 54, 55, 58,
-
-70-72; Bd. 14, 26 ; 19, 16, 19 ;
-
-Byt. 3, 45 n; SI. 13, 15 n;
-
-— texts. Int. 10, II, 22, 24, 43,
-
-47, 52, 53, 67, 68; SI. 6, in;
-
-— and Zand, Int. 10; SI. 10,
-25, 29; — letters, Int. 15, 16,
-31,66; —MSS.,Int.2i, 27-29,
-
-48, 57, 66 ; referred to, Bd. 14,
-8 ; 15, I ; 17, 8, 9 ; words
-quoted, SI. 5, 2, 5, 7 ; 7, 8 ; 9,
-12; 10, 37; 13, I, 4-14, 16-26,
-28-36, 38-40, 42, 45-51; P'^^ssages quoted, SI. 8, 22 ; 11, 6 ;
-13, 6, 8, 43 ; prayers, SI. 9, 9,
-10; 10, 5, 19, 26 n; 14, 2, 3;
-
-19, 14.
-Avi-apjim ch., SI. 13, 40.
-Avoirijt sin, SI. 1, i, 2 ; 11, i, 2 ; 16,
-
-3, 5-
-Avrak, lun. man., Bd, 2, 3 ; 7, i ;
-
-Zs. 6, I.
-
-Ayanghad, man, Bd. 32, i n.
-
-Ayuzem, man, Bd. 32, i.
-
-Az, demon, Bd. 28, 27, 28 ; 30, 30 ;
-
-SI. 22, i7n.
-Aza^/-mar^, com., SI. 1, 4n.
-Azano, man, Byt. 2, 3n.
-Az-i Dahak, king, Bd. 23, 2 ; 29, 8 ;
-
-31, (6n,) 7n; Zs. 2, 10; Byt.
-
-2, 62; 3, 52n, 56-58, 60; SI.
-
-20, 18. See Bevarasp and
-Dahak.
-
-Bactria, Bd. 15, 29 n ; 20, 9n.
-Bactrian, Byt. 3, 17 n.
-Bad, angel, Byt. 2, 59 n. See Va^.
-Badghes, land, Bd. 12, i9n.
-
-
-INDEX.
-
-
-41,
-
-
-Bagh nask, SI. 10, 26.
-
-Baghan yajt, SI. 13, in, 911. See
-
-Bagh.
-Bag-yasno nask, SI. 12, 17.
-Bahak, man, Bd. 33, i, 2, 6, 8.
-Bahak, man, Bd. 33, 3.
-Bahman, angel, Byt. 2, 59 n; king,
-
-Bd. 31, 29n; Byt. 2, 17 n. See
-
-Vohuman.
-
-— Pun^-yah, SI. 19, i n.
-
-— yajt, Byt. 3, iin; contents, Int.
-
-50-52 ; age. Int. 53-56 ; MSS.,
-Int. 56 ; Paz. version. Int. 57 ;
-Pers. version, Int. 57-59 ; German trans.. Int. 59.
-Bahram, angel, Byt. 2, 59n; king,
-Byt. 3, i4n ; — fire, Zs. 11, 6.
-See Vahram.
-
-— ^opin, man, Byt. 3, i4n.
-Bakan yasto nask, SI. 12, i7n. See
-
-Bag-yasno.
-Bakht-afru/, com., Byt. 1, 7 ; SI. 1,
-
-4n ; 20, 11.
-Bakhtiyari m., Bd. 12, 4on.
-Bakht-tan m., Bd. 12, 40.
-Bako nask, SI. 10, 26n. See Bagh.
-Bakyir m., Bd. 12, 2, 20.
-Balkh, town, Bd. 24, 15 n; Byt. 3,
-
-17 n ; river, Bd. 12, 9n ; 20, 7,
-
-9n, 22.
-Bambo, land, Byt. 3, 17-
-Bamda^, man, Byt. 1, 6 ; 2, 21.
-Bami, town, Byt. 3, i7n.
-Bamikan, town, Bd. 20, 22.
-Bamiyan, Bd. 20, 2 2 n ; Byt. 3, 1 7 n.
-Bamm, town, Byt. 3, 17 n.
-Bareshnum, rite, Byt. 2, 36 ; SI. 2,
-
-(6,) 6on, 65n, 70; 3, 24 ; 10,
-
-ion, i2n; 12, 22n, 24n, 25n,
-
-26 n; 17, 5n.
-Baresom, see Sacred twigs.
-Baresomdan, see Sacred twig-stand.
-Barmayun, man, Bd. 31, 8.
-Baroshand Auharmazd, com., SI. 1,
-
-4n.
-Barzu Qiyamu-d-dm, Zs. 9, i n.
-B^^ungha, man, Bd. 33, i n.
-Bayak, demon, Bd. 31, 6.
-Baz, SI. 3, 6 n. See Inward prayer.
-Bazai sin, SI. 1, i, 2 ; 11, i, 2 ; 16, 5.
-Bdzdy-vdna sea, Bd. 24, 23.
-Bear, origin of, Bd. 23, i.
-Beating the innocent, SI. 10, 17.
-Beh-afrin, woman, Bd. 31, 30 n.
-Beneficent spirit, Zs. 1, o; SI. 13,
-28, 35, 36.
-
-
-Berezi-sa'vang fire, Bd. 17, i, 3 ; Zs.
-
-11, I n.
-Besn, lun. man., Bd. 2, 3.
-Best existence, SI. 6, 3 ; 10, 26 ; 12,
-
-2; 15, II. See Garofl'man.
-Bgvarasp, Bd. 12, 31; 29, 9; Byt.
-
-3j3")55)56n. See Az-i Dahak.
-Birds, classification, Bd. 10, 4 ; 14,
-
-II, 23-25; Zs. 9, 9-15, 23;
-
-— of prey, Bd. 14, 30; chiefs
-
-of, Bd. 24, II, 29 ; destroy Nasuj, SI. 2, 5 ; not to be killed,
-
-SI. 10, 9.
-Bij herb, Bd. 14, 22 ; 27, i ; Zs. 9,
-
-22.
-Buan, Bd. 12, 35.
-Bitak, man, Bd. 31, 14.
-Bivawdangha, man, Bd. 29, i n.
-Bodily refuse, Byt. 2, 36; SI. 2,
-
-(30 n;) 15, 26.
-'Qbdbzed sin, SI. 2, 39 n.
-Bombay, Byt. 3, 17 n ; SI. 2, 6 n.
-Bor-tora, man, Bd. 31, 7.
-Brafl'arvakhsh, man, Byt. 2, 3 n.
-Brart'rok-resh, man, Byt. 2, 3 n.
-Bra^/royijno, man, Byt. 2, 3 n.
-Brazen age, Byt. 2, 18.
-Buddha, Bd. 28, 34 n.
-Buddhists, Bd. 20, 22 n.
-Bukhar, land, Byt. 3, 17.
-Bukharans, Byt. 3, 17.
-Bull's urine (gomez), SI. 2, 67, 92,
-
-98, 105, 112, 113; 3, 13, 21,
-
-22, 25; 10, 39; 12, 24, 27.
-Bumyo m., Bd. 12, 16 n.
-Bunda, lun. man., Bd. 2, 3.
-Bundahij, Int. 22; contents. Int.
-
-23, 24; MSS., Int. 24-41; Av.
-original, Int. 24, 43 ; Zs. 9, i n,
-16 n; French trans., Int. 24,
-25 ; German trans., Int. 25, 26 ;
-Gu^. trans.. Int. 43-45; Paz.
-version. Int. 30, 31 ; longer text,
-Int. 32-41 ; contents of long
-text. Int. 35 - 37 ; extent of
-texts. Int. 34, 35, 41; age. Int.
-41-43; Zs. 10, 5 n. See also
-Sad-dar.
-
-Bur^, angel, Bd. 7, 3 ; 19, 15; Zs.
-
-6, 3.
-Burying the dead, SI. 2, 9; 13, 19.
-Burzin-Mitro fire, Bd. 12, 18, 34;
-
-17, 7 n, 8; Zs. 6, 22; 11, 8-10;
-
-Byt. 3, 30, 37, 40.
-Bushasp, demoness, Bd. 28, 26; SI.
-
-13, 43.
-
-
-But, demon, Bd. 28, 34-
-Butter, see Sacred butter.
-
-Cake, see Sacred cake.
-Cancer, Bd. 2, 2 ; 5, 6; 7, i, 2;
-34,2; Zs. 4, 8; 6, 1,2; SI. 21,
-
-2, 5-
-Capricornus, Bd. 2, 2 ; 5, 6 ; 34,
-
-9n; Zs. 4, 10; Byt. 3, 11 n;
-
-SI. 21, 2, 7, 8.
-
-Carriers of the dead, single, SI. 2,
-84, 106, 108; one with a dog,
-SI. 2, 7 ; two, SI. 2, 6-8, 84, 85 ;
-four, SI. 2, 6n; 10, 10.
-
-Caspian sea, Bd. 13, 15 n; 15, 2 8n,
-29 n; 17, sn; 19, 15 n; 20,
-8 n, 24 n, 27 n; 22, 4 n ; 31, 21
-n; Byt. 2, 63 n; 3, 19 n.
-
-Ceremonial (ya^ijn), Byt. 2, 37 ; 3,
-
-5, 11; 13, 25; 19,8.
-Ceremonies, SI. 2, 38 ; 12, 31 ; —
-
-after a death, SI. 6, 3, 4 ; 8, 6 n ;
-
-12, 5, 31 ; 17, 2-6; — of nine
-
-nights, SI. 12, 26 n ; see Bareshnum.
-Ch in Oriental words is printed K.
-Chaldaeo-Pahlavi, Int. 19-21.
-Chaldee, Int. 14, 19.
-Chapter (ha), SI. 10, 6 n ; 13, i, 5, 6,
-
-31, 34-
-Chiefs of creation, Bd. 24, 1-24, 28,
-
-29; spiritual, Bd. 29, i, 2, 5.
-Chieftainships, spiritual, Bd. 29, i ;
-
-SI. 13, 29 ; temporal, SI. 13, 11,
-
-rs, 34) 41 n, 44; 19, 5.
-Childbirth, SI. 10, 15; 12, 7.
-Children, advantage of, SI. 10, 22;
-
-12, 15; illegitimate, SI. 10, 21;
-
-12, 14.
-China, Bd. 31, 3 n.
-Christian, Byt. 2, 19 n; 3, 3 n ; SI.
-
-6,7.
-
-Christianity, Byt. 2, 19 n ; 3, 3 n.
-Chronology of Iran, Bd. 34, 1-9.
-Classes of people, SI. 13, 9, 15, 34.
-Clothing corpses, SI. 2, 9, 95 ; 10,
-
-40 ; 12, 4 ; — for spirits, Bd.
-
-30, 28 ; SI. 17, 4, 5 n ; purifying,
-
-SI. 2, 95, 97-99.
-Commentary, see Zand.
-Commentators, SI. 1, 3, 4 n ; quoted,
-
-Byt. 1,7: 3, 3, 16; SI. 2, I, 2,
-
-6, II, 12, 39, 44, 56, 57, 64, 73,
-74, 80-82, 86, 88, 89, 107, 115,
-118, 119; 3, 13; 5, 5, 6; 6,
-
-
-4-6; 8, 13, 17, 18, 23 ; 10, 40;
-14, 5; 20, II.
-Confession of sin, SI. 8, 2, 4 n, (8-10.)
-Conflicts of evil, with the sky, Bd.
-6, 1-4 ; Zs. 5, 1-5 ; with water,
-Bd. 7, 1-13; Zs. 6, 1-23; with
-the earth, Bd. 8, 1-5 ; Zs. 7, i-
-12; with plants, Bd. 9, 1-6;
-Zs. 8, 1-6; with animals, Bd.
-10, 1-4 ; Zs. 9, 1-24; with man,
-Zs. 10, 1-6 ; with fire, Zs. 11,
-
-I-IO.
-
-Constantinople, Int. 12.
-
-Consulting the good, SI. 10, 28.
-
-Contagion, SI. 2, 59, (60.)
-
-Copper age, Byt. 2, 19.
-
-Corpse, carrying, SI. 2, 6-1 1, 83-95;
-10, 10, 33 ; lowering, SI. 2, 23-
-29; moving, SI. 2, 63, 65, 66,
-6S-71 ; thrown into water, SI.
-2, 76-78 ; 9, 7 ; bringing out of
-water, SI. 2, 79-94; in rain, SI.
-2, 9, 10, 94; clothing for, SI.
-2, 9, 95; 10, 40; 12, 4. See
-also Pollution.
-
-Corpse chamber, Byt. 2, 36.
-
-Creation of prototypes, Bd. 1, 8 ;
-Zs. 1, 5 ; of archangels, Bd.
-1, 23, 26; of the world, Bd. 1,
-25, 28; Zs. 1, 20; of demons,
-Bd. 1, 10, 24, 27 ; of time, Zs.
-1, 24.
-
-Crowing of a hen, SI. 10, 30.
-
-Cyrus, Int. 9 ; Bd. 34, 8 n.
-
-Dabistan, book, Byt. 1, i n.
-
-Da^ak nask, SI. 12, 4 n.
-
-Da^/akih-i Ashovahijto, man, Bd. 33,
-
-10.
-Dad-ar^a, man, Bd. 33, 3.
-Dais'-Aijharmazd, com., Byt. 1, 7 ; S,
-
-Da</-farukh, com., SI. 1, 4 n.
-DaJgun, man, SI. 1, 4 n.
-Daiira^/, man, Bd. 33, 3.
-Da^istan-i dinik, book. Int. 32, 33,
-
-46, 47; Bd. 15, 22 n; 29, 5 n,
-
-6n; author of, Bd. 33, ion,
-
-II n.
-Dart'-i veh, com., SI. 1, 4 n.
-Dahak, king, Bd. 17, 5; 20, 23;
-
-29, 9; 30, 16; 31, 5-7; 34, 5;
-
-Byt. 3, 34; SI. 10, 28 n. See
-
-Az-'i Dahak.
-Dah-homast, rite, Byt. 2, 59 n.
-Dahmanafringan,S1.13, 43n; 17, S".
-
-
-INDEX.
-
-
-Dai, land, Bd. 15, 29.
-
-Daitik m., see K^kaM Daitik.
-
-— r., Bd. 20, 7, 13, 2311; 24, 14;
-
-29, 5 n ; Zs. 2, 6.
-
-Dakhma, Byt. 2, 36 n ; SI. 2, (6,)
-pn, ion, I in, 75 n. See Depository for the dead.
-
-Damaghan, town, Bd. 20, 18 n; 29,
-14 n.
-
-Damdai nask. Int. 24, 48; Zs. 9,
-(i,) 16; SI. 10, 22; 12, 5.
-
-Damnak, man, Bd. 31, 36, 39.
-
-Dara^a r., Bd. 20, 7, 32 ; 24, 15.
-
-Darai, king, Bd. 33, 2 ; 34, 8.
-
-Dargam r., Bd. 20, 7, 14.
-
-Darius Codomannus, Int. 24; Bd.
-34, 8 n.
-
-— Hystaspes, Int. 9.
-Darspet m., Bd. 12, 2, 20 n,
-Dashtanistan, SI. 2, 75 ; 3, 4 n, (6 n,)
-
-II n.
-
-Dastan, man, Bd. 31, 37.
-
-Dastur, Bd. 19, 36. See Highpriest.
-
-Dd-vad m., Bd. 12, 29, 30.
-
-Davans, man, SI. 12, 29.
-
-Day rid r., Bd. 20, 26 n.
-
-Days, lengths of, Bd. 25, 3-6 ; names
-of angels applied to them, Bd.
-27, 24; SI. 22, 1-30; 23, 1-4.
-
-Dead matter, Byt. 2, 36; SI. 2,
-(30 n,) 32, 35, 63, 73, 77, 78,
-102, 104-107, 109-112; 10, 12,
-20; 12, 13.
-
-Deaf and dumb, SI. 5, 7; 6, i.
-
-Deana m., Bd. 12, 30 n.
-
-Death, accidental, SI. 10, 32 ; on a
-bedstead, SI. 2, 13; 17, 14; on
-a bridge, SI. 2, 20 ; on a carpet,
-SI. 2, loi ; on a cloth, SI. 2, 12 ;
-on the ground, SI. 2, 14-16 ; in
-a hall, SI. 2, 45 ; in a house, SI.
-2, 38-44 ; in ajar, SI. 2, 31 ; on
-a roof, SI. 2, 18, 21 ; in a room,
-SI. 2, 22; when seated, SI. 2,
-24 ; by strangulation, SI. 2, 23 ;
-17, 13 ; on a tree, SI. 2, 25-29 ;
-in a vessel, SI. 9, 7 ; in a wilderness, SI. 2, 47.
-
-Demonized men, SI. 17, 7.
-
-Demons, Bd. 5, 7 ; Zs. 2, 4 ; Byt.
-2, 40, 62; 3, 9, 21, 33; SI. 9, 5,
-8 ; 12, 12 ; 15, 6 ; 17, 3 ; origin,
-Bd. 1, 10; end, Bd. 1, 21, 22;
-6, 4 ; 30, 29-32 ; names, Bd. 1,
-24j 27; 3, 3, 6-9, 21 ; 7, 8, 10,
-
-
-12; 28, 7-20, 23-36, 39, 40,
-42; 30, 29, 30; Zs. 4, 4; 6,9,
-1 1, 13 ; council, Bd. 3, 1-9 ; 12,
-8; incursion, Bd. 3, 10, 21, 25,
-26 ; 7, 8, 12 ; mislead men, Bd.
-15, 9, 12, 17, 18; use nail-parings as weapons, Bd. 19, 19, 20 ;
-SI. 12, 6 ; opposed by cock, Bd.
-19, 33 ; SI. 10, 30 n ; beget the
-ape, bear, and negro, Bd. 23, i,
-2; described, Bd. 28, 1-46;
-figures of, Byt. 1, 4 ; 2, 16 ; —
-with dishevelled hair, Byt. 1, 5 ;
-2, 22, 24-29, 36; 3, 1,6, 13, 34;
-discomfited, Byt. 2, 16, 17; 3,
-40, 41 ; reside in idol-temples,
-Byt. 3, 30, 36, 37 ; attack Zaratust, SI. 10, 4 ; 12, 11 ; in the
-north, SI. 10, 7 ; 12, 1 8 ; 14, 2 n.
-
-Demon worship, SI. 8, 4; 14, i.
-
-— worshippers, Byt. 3, 24.
-
-Depository for the dead, SI. 2, 75;
-13, 19. See Dakhma and Receptacle.
-
-Destroyer, Bd. 2, 4, 8 ; 3, i, 23 ; 7,
-I ; 20, 6 ; 27, I ; Zs. 7, 3 ; SI.
-10, 3 ; 13, 30.
-
-Development of animals, Bd. 10, 2,
-3; 14, 3-7; Zs. 9, 7-9; fire,
-Zs. 11, i-io ; lakes, Zs. 6, 7, 8,
-22 ; land, Bd. 11, 2 ; Zs. 7, 8-1 1 ;
-man, Bd. 15, 1-5 ; Zs. 10, 3-6 ;
-minerals, Zs. 10, 2 ; mountains,
-Bd. 8, 1-5 , 12, I, 2, 1 1, 28, 41 ;
-Zs. 7, 1-7 ; plants, Bd. 9, 2-6 ;
-10, I ; 14, I, 2 ; Zs. 8, 1-5 ; 9,
-1-6; rivers, Bd. 7, 15-17; Zs.
-e, 20, 21; seas, Bd. 7, 6, 14;
-Zs. 6, 6-8, 14-19.
-
-Deyrid r., Bd. 20, 7 n, 12 n.
-
-Diglat r., Bd. 20, 7, 10, 12, 26 ; Zs.
-6, 2on.
-
-Dilman town, Bd. 20, 12 n,
-
-Dimavand m., Bd. 12, 29, 31; 20,
-27; 29, 9; Byt. 3, 55-
-
-Din, angel, Bd. 27, 24 ; Byt. 2, 59
-n; month, Bd. 25, 3, 11, 20.
-See Dino.
-
-Dini-va^arkar^, book, Zs. 9, i n ;
-Byt. 1, in; 3, 25 n ; SI. 9, 9 n ;
-10, 3", 4", 13 n, 21 n, 25n, 26
-n, 28 n, 29 n ; 12, 4 n, 17 n.
-
-Dinkar^, book, SI. 10, 22 n, 23 n;
-last editor of, Int. 64 ; Bd. 33,
-(11 n;) SI. 8, 23n; quoted,
-Zs. 9, I n ; Byt. 1, i n ; 2, 3 n,
-
-
-4i6
-
-
-19 n; 3, 25 n, 43 n, 52 n, 61 n;
-SI. 6, 7 n ; 9, 9 n ; 10, 3 n, 4 n,
-8 n, 13 n, 21 n, 25 n, 26 n, 28 n,
-2911; 12, 4 n, 17 n; 19, i n,
-4 n.
-
-Dino, angel, SI. 22, 8, 15, 23, 24 ; 23,
-
-4. See Din.
-Din-pavan-Ataro, angel, Bd. 27, 24 ;
-
-Din-pavan-Dino, angel, Bd. 27, 24 ;
-
-SI. 23, 4.
-Din-pavan-Mitro, angel, Bd. 27, 24 ;
-
-Dirham, SI. 1, (2 ;) 8, (3 n ;) 10, 24 ;
-
-11, 2; 16, in, 2, 3.
-Dijt, span, Bd. 26, 3 n ; SI. 16, 4.
-Dog's gaze, SI. 2, 1-3, 56, 63, 66, 71,
-
-84, 85; 10, 10, 12, 32, 33.
-D6-h6mast, rite, SI. 16, 6.
-D6-patkar, zod., Bd. 2, 2.
-Doubtful actions, SI. 10, 25, 27.
-Drono, see Sacred cake.
-Drug-askan, demon, Bd. 31, 6.
-Drvasp, angel, SI. 11, 4.
-Dualism, Int. 68-70.
-Dubasru_g-e(^/ nask, SI. 10, 13.
-Dughdd or DCikdav, woman, Bd, 32,
-
-10; SI. 10, 4; 12, II.
-Dul, zod., Bd. 2, 2.
-Durasrob, man, Bd. 31, 13, 31 ; 32,
-
-I ; 33, 3, 4.
-Durnamik, man, Bd. 33, 5.
-Diiroshasp, man, Bd. 31, 14, 27.
-Dvasrub or Dvasru§-a^ nask, see
-
-Dubasrug-e^.
-Dvazdah-homast nask, Zs. 9, in;
-
-rite, Byt. 2,(59;) 3,25,27, 37;
-
-SI. 16, 6.
-
-Eating in the dark, SI. 9, 8.
-Egypt, Int. 21 ; Bd. 20, 8 n ; Zs. 6,
-
-20 n.
-
-Erezisho m., Bd. 12, 12 n.
-Erezraspa, man, Bd. 29, i n.
-Erezuro m., Bd. 12, 16 n.
-Esther, book, Byt. 2, 17 n.
-Etymander r., Bd. 20, 17 n.
-Euphrates r., Bd. 20, ion, 11 n;
-
-Byt. 3, 5 n.
-Euxine, Bd. 13, 15 n; 20, 8 n.
-Ever-stationary, S!. 6, 2 ; 18, 4 n.
-Evil eye, Bd. 28, 2 n, 14, 36.
-Evil spirit, Zs. 1, o ; SI. 8, 23 ; 12,
-
-7 ; 13, 28 ; like the devil. Int.
-
-69, 70; origin of evil, Bd. 1, i,
-
-9-22, 24 ; cast down, Bd. 3, i-
-
-
-5; 11, 6; 30, 29, 30, 32; Byt.
-3, 35} 40 ; SI. 13, 24, 36 ; comforted, Bd. 3, 6-8 ; described,
-Bd. 3, 9 ; 28, 40, 41 ; attacks
-creation, Bd. 3, 10-17, 21, 24-
-27 ; 6, 1-4 ; 8, I ; 11, 5 ; 18,
-
-2, 5 ; 19, 10 ; 28, 1,3; misleads
-men, Bd. 15, 8, 9 ; 28, 6 ; ancestor of Dahak, Bd. 31, 6 ; his
-future evil-doings, Byt. 2,54;
-
-3, 24, 33. See Aharman.
-Extinguishing fire, SI. 7, 9 ; 20, 15.
-Extirpation of sin, SI. 8, 18.
-Ezra, book, Byt. 2, 17 n.
-
-Faranak, woman, Bd. 31, 3 in.
-Farangis, woman, Bd. 31, i8n.
-Farghanah, land, Bd. 20, 20 n.
-Farhank, woman, Bd. 31, 31-33.
-Farman sin, SI. 1, (i, 2;) 2, 51 ; 3,
-
-27, 28; 4, 10, 14 n; 5, 3 ";
-
-6, 3n; 8, 9n; 11, i, (2;) 16,
-
-Farukho, com., SI. 1, 4n.
-
-Fasa, town, Bd. 29, i4n.
-
-Fayum, land. Int. 21.
-
-Feast, Byt. 2, 45. See Sacred feast.
-
-Female things, Bd. 16, 6.
-
-Feridun, king, Bd. 31, 7 n, 3 1 n. See
-Fre^un.
-
-Fiends, Bd. 2, 1 1 ; 30, 30 ; Zs. 1, 5 ;
-4,2; Byt. 3, 30, 37; SL9, 8;
-13, 10, 13; 19, 5; 20, 9, 11;
-origin, Bd. 1, 10; destroyed,
-Bd. 2, 10; 19, 33, 34, 36; 20,
-6; Zs. 10, i; SI. 13, 23, 32,46;
-described, Bd. 28, 13, 14, 20,
-33, 37 ; Christians, Byt. 3, 3, 5;
-serpents, Byt. 3, 52; of menstruation, SI. 3, 29 ; become
-pregnant, SI. 10, 7 ; 12, 18. See
-Arch-fiends.
-
-Finger-breadth, meas., Bd. 21, i ;
-26, (3n;) 27,25; SI. 2, 118;
-
-4, 2, 5; 10, I.
-
-Fire, injured, Bd. 3, 24; described,
-Bd. 17, 1-9; Zs. 11, i-io;
-reverence, SI. 7, 4 ; 10, 37 ; to
-be kept up, SI. 12, 3, 12. See
-Sacred fire.
-
-Fire-temple, see Abode of fires.
-
-Fish, classification, Bd. 10, 4 ; 14,
-12, 26; Zs. 9,9-14; generation, Bd. 16, 7 ; chief, Bd. 24,
-
-13-
-Flowers, Bd. 27, 11, 24.
-
-
-INDEX.
-
-
-Fomalhaut, star, Bd. 2, 7 n ; SI. 11,
-
-411; 14, sn.
-Food not to be cast to the north at
-
-night, SI. 10, 7; 12, 18.
-Foot, meas., Bd. 26, sn; SI. 2, 18,
-
-77, 78n; 3, 33; 21, 2, 5-8.
-Forgiveness of trespasses, SI. 10, 11.
-Frabazu, meas., Bd. 26, sn.
-Frada^/afsh, region, Bd. 5, 8, 9 ; 11,
-
-3; 25, 10; 29, i; Byt. 3, 47.
-Fradhakhjti, man, Bd. 29, sn.
-Fraguzak, woman, Bd. 31, 14.
-Frahimravd, man, Bd. 32, 10.
-Frah-vakhsh-vindari', man, Bd. 33, i.
-Frangrasyan, king, Bd. 31, i4n.
-Fraoreti ha, SI. 13, i n.
-Frarast, meas., Bd. 26, sn.
-Frasast, cake. Si. 3, (32 n;) 14, 3 ; 17,
-
-sn.
-Frashaitar, man, Bd. 33, 3.
-Frashakarrt', see Renovation.
-Frashavakhsha, man, Bd. 33, i n.
-Frashojtar, man, Bd. 33, sn.
-P'rasiya-u, king, Bd. 12, 20; 20, 17,
-
-34; 21, 6; 30, 16; 31,(14,) 15,
-
-18, 21, 22, 3S ; Zs. 11, ion;
-
-Byt. 2, 62; 3, 34; SI. 10, 28n.
-Frasizak, woman, Bd. 32, i n.
-Frasp-i Km, man, Bd. 31, 18, 19.
-Frajt, man, Bd. 33, 3. See next.
-Frajt, man, Bd. 31, sin.
-Frastuye ha, SI. 13, i.
-Frat r.', Bd. 20, 7, 10, 1 1 ; Byt. 3, s-
-Fravahar, see Guardian spirits.
-Fravak, man, Bd. 15, 2s, 30, 31 ; 31,
-
-I, 6 ; 32, in.
-Fravakain, woman, Bd. 15, 2^.
-Fravarane ha, SI. 13, i.
-Fravarr/ikan, see Guardian spirits'
-
-days.
-Fravar/m, angel, Bd. 27, 24 ; SI. 22,
-
-19; 23, 3; day, SI. 11, 4n;
-
-month, Bd. 3, 12; 25, 7, 13, 20;
-
-Zs. 2, I ; SI. 11, 4n.
-Fravashis, Bd. 1, 8n; 2, ion. See
-
-Guardian spirits.
-Frazdan lake, Bd. 22, i, 5 ; Byt. 3,
-
-13-
-Frazisak, man, Bd. 32, i n.
-Frazujak, man, Bd. 31, 14.
-Fre^un, king, Bd. 20, i2n; 28, 3 ;
-
-29, 9; 31, (7-11,) 14, 27, 32;
-
-32, I n ; 34, 6 ; Byt. 3, SS, 56,
-
-S8; SI. 10, 28n; 20, 18; man,
-
-Bd. 33, 3.
-Freh-khur</, man, Bd. 31, 19.
-
-
-Freh-mah, woman, Bd. 33, 7.
-
-Freh-Srosh, man, Bd. 33, 11.
-
-Fren, woman, Bd. 32, s? T'l-
-
-Fr^ni, woman, Bd. 31, ssn; 32, sn.
-
-Friftar, demon, Bd. 28, 30.
-
-Fris, man, Bd. 31, 13.
-
-Frobak fire, Bd. 17, S, 7 n ; Zs. 11,
-
-8-10; Byt. 3, 29, 30, 37, 40;
-
-SI. 13, 26.
-Fruits, Bd. 27, 7, 23.
-Fryano, man, Bd. 33, 3.
-Fshfisho-mathra, ritual, SI. 13, 49 n.
-Future existence, Bd. 1, i, 7, 21 ; 2,
-
-11; 11, 6 ; 15, 9 ; 30, I ; Byt.
-
-2, ss; 3, 62; SI. 8, 7, 14; 9,
-
-6; 10, 19.
-
-Gadhwithiv, demon, Bd. .31, 6.
-Gadman-homand m., Bd. 17, 5 ; Zs.
-
-11,9; Byt. 3, 29.
-Gaevani, man, Bd. 29, 6n.
-Gah, Bd, 2, 8 ; 25, 9n ; SI. 7, i n ;
-
-14, 4n. See Period.
-Gahanbars, Bd. 25, i ; SI. 12, 3 1 n ;
-
-18, (sn.) See Season-festivals.
-Gak, man, Bd. 33, 3.
-Gam, meas., Bd. 26, 3 n.
-Ganava^j' m., Bd. 12, 29, 34; 19, 8.
-Ganrak mainok, Bd. 1, i n, 3 n. See
-
-Evil spirit.
-Garafsa, lun. man., Bd. 2, 3.
-Garort'man, Bd. 30, 12, 13, 27; SI.
-
-6, (sn,) 4; 11, 3. See Heaven.
-Garjasp, man, Bd, 29, 7n ; 31, 2 6n,
-
-27n.
-Garsivaz, man, Bd. 31, isn.
-Gasanbar, see Season-festivals.
-Gatha days, Bd. 5, 7 ; 25, 7".
-Gathas, hymns, Bd. 12, 7n; Zs. 11,
-
-ion; Byt. 2, 60; SI. 9, i2n;
-
-10, 6 ; quoted, Zs. 5, 4 ; SI. 12,
-28 ; mystic meaning, SI. 13, i-
-49; extent, SI. 13, 50, 51.
-
-GaVL, lun. man., Bd. 2, 3.
-
-Gau.f _g-ivya, Av., SI. 2, 43 n; 13, i2n.
-
-— hudhmi, Av., SI. 2, 43n; 3, 32n;
-
-11, 4 n. See Sacred butter.
-GayomarJ, man, Bd. 3, in, 14, 17,
-
-19-23; 4, i; 15, I, 31; 24, i;
-30, 7, 9; 31, I ; 32, in; 34, i,
-2; Zs. 2, 6, 8; 3, 2; 4, 3, s, 9,
-10; 5, 4; 10, 1-3; 11, ion;
-81,10, 28 n.
-
-Gazdum, zod., Bd. 2, 2.
-
-Gefar-tora, man, Bd. 31, 7 ; 32, in.
-
-Gehan-bGn sea, Zs. 6, 14.
-
-E e
-
-
-4i8
-
-
-Gel, lun. man., Bd. 2, 3.
-Gemini, Bd. 2, 2; SI. 21, 2.
-Genealogies, Bd. 15, 24-30; 31, i-
-
-41 ; 32, i-io ; 33, i-ii.
-Generation, Bd. 16, 1-7.
-Georgia, Bd. 20, i3n.
-Gesbakht m., Bd. 12, 29.
-Geti-kliarW, rite, Bd. 30, (28;) SI.
-
-5, 6; 12, 30; 17, 511.
-Ghazni, town, Bd. 22, 5n.
-Giklan sea, Bd. 20, 24.
-Gilan, land, Bd. 12, 17.
-Ghv, man, Bd. 29, 6.
-Glory, royal, Bd. 31, 32, 33 ; 34, 4.
-Glossary, Av.-Pahl., SI. 10, 39 n.
-— Huz.-Paz., Int. 16, 17.
-God ('celestial beings'), Bd. 17, 8;
-
-Zs. 11, 6; SI. 1, o; 8, 22, 23;
-
-10, 3, 5 ; 14, o ; 19, 7 ; 21, 4 ;
-
-22, 30.
-Gogojasp, com., SI. 1, 3 ; 2, 74, 82,
-
-1 19.
-Got, lun. man., Bd. 2, 3.
-Gokar^ tree, Bd. 9, 6 ; 18, i ; 24,
-
-27 ; 27, 4-
-
-Go/Jihar, meteor, Bd. 5, i; 28, 44;
-SO, 18, 31.
-
-Golden age, Byt. 1, in, 4; 2, 16.
-
-Gomez, see Bull's urine.
-
-Good works, Zs. 1, 14, 18; 4, 6;
-11,6; Byt. 2, 33, 38,64; SI. 2,
-53) 93; 6, 3, 4, 6; 7, 4) 6, 7",
-8, I, 55 20, 22 ; 9, 6 ; 10, 25,
-27, 29; 12, I, 2,29; 17, 8; 20,
-I, 4, 5 ; imputed, SI. 4, 14 ; 6,
-
-1, 2; 7, 6; 8, 4; 10, 22-24;
-12, 15, 16, 31; 16, 6.
-
-Gopato, land, Bd. 29, 5n.
-Gopatshah, chiet, Bd. 29, 5; 31, 20,
-
-22 ; Byt. 2, i.
-Goj, angel, Bd. 4, 4n; 27, 24; Byt.
-
-2, 59n; SI. 11, 4n; 23, 2.
-Gojasp, com., SI. 1, 3n.
-
-Gojt-i Fryano, man, Byt. 2, i ; tale
-
-of, SI. 21, on.
-Gojurvan, angel, Bd. 4, 2-5; Zs. 3,
-
-I, 3; SI. 11, 411; 22, 14.
-Greek inscriptions. Int. 19.
-Greeks, Byt. 3, 5.
-
-Griffon, Bd. 14, 11, 23; 19, 18; 24,
-
-II, 29 ; Zs. 8, 4.
-
-Guardian spirits, Bd. 1, (8n;) 2, 10,
-11; 4,4; 6, 3; 29,8; 32,9;
-SI. 9,11; 11, 4; 17, 4, 6; 19,
-8; days devoted to, Byt. 2, 45;
-SI. 10, 2; 12, 31.
-
-
-Gurt'arz, man, Bd. 29, 6.
-Gurgan, land, Bd. 20, 2 4n.
-Gur^istan, land, Bd. 20, i3n.
-GCuasp fire, Bd. 17, 7 ; Zs. 6, 2 2 n ;
-
-Byt. 3, ion. See Vijnasp.
-Giijnasp fire, Zs. 6, 22; 11, 8-10;
-
-Byt. 3, ion, 37, 40.
-Guzak, princess, Bd. 31, 9, 14.
-— , woman, Bd. 15, 28.
-
-Gamagan, land, Bd. 29, i4n.
-Gamasp, priest, SI. 11, 4.
-Garo-danghu, man, Bd. 29, i n.
-Gajno, Byt. 2, 45. See Feast.
-Geh, fiend, Bd. 3, 3, 6-9 ; SI. 3, 29 n.
-Girajt nask, SI. 10, 28 n. See Ktdrajt.
-Givan, lun. man,, Zs. 4, 8,
-Gumin, town, Bd. 12, 34n.
-
-Hadhayoj, ox, Bd. 19, 13 ; 29, 5 n;
-30, 25.
-
-Ha^/okht nask, Bd. 15, 7n ; Byt. 3,
-(25,) 28; SI. 12, 19, 30; 13,6,
-10 ; 16, 6.
-
-Hae/t'art'asp, man, Bd. 32, i.
-
-H%nabad inscriptions, Int. 20 n.
-
-Hama^an, town, Bd. 12, 12; 19, 3 n ;
-22, 6.
-
-Hamemal,see Sin affecting accusers,
-
-Hamespamadayem, season, Bd. 25, 6.
-
-HamW, man, Bd. 33, 11.
-
-Hamistakan, SI. 6, 2. See Everstationary.
-
-Yiaxnred, see Contagion.
-
-Hamun, lake, Bd. 13, i6n.
-
-Haptok-ring, stars, Bd. 2, 7 ; 5, i ;
-
-13, 12; 14, 28; SI, 11, 4.
-Harddr, man, Bd. 32, i,
-Hardars)i, man, Bd. 32, i.
-Harhaz r., Bd. 20, 7, 27.
-
-Horo r., Bd. 12, 9n; 20, 7, 15, 16.
-
-Has, SI. 10, 6; 13, i. See Chapter.
-
-Hasar of distance, Bd. 14, 4; 16, 7;
-26, (i,) 2n; SI. 9, I n; — of
-time, Bd. 25, 5; SI. 9, (i.)
-
-Hathra, meas., Bd. 7, 8n; 26, in;
-Si. 9, in.
-
-Haug, Professor, Int. 12, 25, 26, 29.
-
-Ha van gab, Bd. 25, 9, 10; SI. 7, i n;
-
-14, 4n.
-
-Heaven, grades in, Bd. 12, i ; SI. 6,
-3n; garo^man, Bd. 30, 12, 13,
-27 ; Zs. 11, 2; SI. 6, 3 n, 4; 11,
-3 ; 13, 8 ; vahijt, Bd. 30, 27;
-Zs. 1, 14; Sl.e, 2, 3, 5; 12,28;
-
-
-INDEX.
-
-
-4T9
-
-
-15, 8, 13, 19, 24, 29, 30; 18, 411;
-22, 9, 18, 22, 29 See also Best
-existence.
-Heaven, not to be despaired of, SI.
-
-12, 28, 29.
-
-Hebrew laws, SI. 3, i4n, rsn, i8n,
-26n.
-
-Hedgehog, Bd. 14, 19; 19, 28; 81.
-2, 59; 10, 31; 12, 20.
-
-Hell, Bd. 15, 9 ; 22, 10 ; Zs. 1, 14 ;
-81. 6, 2,6; 8,5,7, 13; 12,4,28;
-18, 4n; described, Bd. 3, 27;
-28, 47, 48 ; abode of demons,
-Bd. 3, 26; Byt. 3, 30, 35; for
-the wicked, Bd. 30, 12,13; gate
-of, Bd. 12, 8; 28, 18; Zs. 2,
-4; 81. 10, 7n; 13, 19; purified,
-Bd. 30, 31, 32 ; grades in, SI.
-6, 3n.
-
-Helmand r., Bd. 20, 170.
-
-Hendva r., Bd. 20, 7, 9n.
-
-Heri r., Bd. 20, i5n, i6n,
-
-HetQmand r., Bd. 12, 9 n; 20, 7, 17,
-34; 21, 3n.
-
-Hiddekel r., Bd. 20, 12 n ; Byt. 3,
-21 n.
-
-High-priest, dastOr, Bd. 19, 36; 28,
-20; Byt. 3, 52 ; 81. 8, 10; 9,
-
-2, 4; 10, 5, 20-23, 31 ; 12, 2,
-14-16 ; ra^ Bd. 29, i n ; Byt.
-
-3, 52 ; 81. 8, I, 2, 5, 6, 14, 21;
-
-13, 2, 29 ; supreme, Bd. 24, i ;
-81. 9, 3; see Supreme Zaratiut.
-
-Hikhar, 81. 2, (3on,) 95. See Bodily
-
-refuse.
-Hindus, Bd. 28, 34; Byt. 3, 14, 17;
-
-81. 2, 58 n.
-HindQstan,Bd,20, 9; 25, 15; 29, 15.
-Hindva m., Bd. 12, 6n.
-Hirat, town, Bd. 20, i6n.
-Hiratis, men, Byt. 3, 19.
-Hiriyan, men, Byt. 3, i9n.
-Hoazarodathhri, chief, Bd. 29, i.
-Holy-water, Bd. 21, 3, 4; Byt. 2,
-
-59; 81. 2, (43;) 7, 9; 12, 5;
-
-13, 9; 15, 12; 16, 6.
-Horn, angel, Bd. 7, 3 ; 27, 24 ; Zs.
-
-6, 3 ; 81. 11, 4, 6 ; — dron, SI.
-
-10, 2; —juice, 81. 10, 16; 13,
-
-in, 9n; — mortar, 81. 9, 12 n;
-
-13, 9n; — tree, Bd. 9, 6n; 18,
-
-2,3; 24, 18; 27,4, 24; 30, 25;
-
-Zs. 8, 5 ; — twigs, 81. 9, i2n;
-
-13, 9n.
-Homast, rite, Byt. 2, (59 nj) SI. 9,
-
-I2n; 16, 6n.
-
-
-Horvadart', angel, Bd. 1, (26;) 27,
-24 ; 30, 29; Byt. 3, 29; 81. 9,
-8; 13, 14; 15, 3, 5, 25, 29; 22,
-6 ; 23, I : month, Bd. 25, 20.
-
-— yajt, Byt. 1, 6.
-
-Hoshyang, king, Bd. 15, (28;) 31, i,
-
-2, 9n, 32n; 32, in; 34, 3, 4;
-Zs. 11, 10; 81. 10, 28 n.
-
-House-ruler, 81. 13, 11, 15, 41 n, 44;
-
-19,5.
-Hubakht, man, Bd. 33, i.
-Hudino, man, Bd. 33, 3.
-Hugar m., Bd. 7, isn ; 12, 2, (5,)
-
-6; 13,4; 22,11; 24,17; Byt.
-
-3, 3 1 n.
-Hukairya^/ m., Byt. 3, 31.
-Hukhshathrotemai, prayer, 81. 10,
-
-5^n; 13, 22.
-Hijmai, woman, Bd. 33, 7 ; queen,
-
-Bd. 34, 8.
-Human, man, Bd. 31, 17.
-Human monstrosities, Bd. 15, 5, 31.
-Humatanam, prayer, SI, 10, sn; 13j
-
-16, 22.
-Hunting, 81. 8, 3.
-
-Hush, beverage, Bd. 19, 13; 30, 25.
-Hijshe</ar, apostle, Bd. 21, 6 ; 32,
-
-7n, (8;) Byt. 3, 11 n, 13, 34 n,
-
-(43,44,) 47, 48, 6in; 81.13, 5.
-Hushefl'ar-mah, apostle, Bd. 30, 2 ;
-
-32, 7n, (8;) Byt. 3, 52, 53 ; SI.
-, 13, 5.
-Husparam nask, Byt. 2, 37 n; 81. 10,
-
-(21;) 12, I, 7, 14, 31 ; 13, 17.
-Hiisnt, lun. man., Bd. 2, 3; lake, Bd.
-
-22, I, 8.
-Huvasp, chief, Bd. 29, i.
-Huzavarak, man, Bd. 31, 41.
-Huzvarij logograms, Int. 14-20.
-//I'aetumaithi ha, SI. 13, 7, 14, 27.
-Yivandknn, man, Bd. 29, i.
-/f-rara, Av., Si. 1, in.
-Hvare-/^ithra, man, Bd. 32, 5 n.
-Hv^w^^'*^, man, Bd. 29, 5.
-Hvov, woman, Bd. 32, 7 n, 8 ; 81.
-
-10, 21 n.
-i/i»yaona, land, Byt. 2, 49 n.
-Hyrcania, Bd. 20, 2 4n.
-
-laxartes r., Bd. 20, 20 n.
-Ibairaz, man, Bd. 29,6.
-Ibitak, man, Bd, 32, i n.
-Idolators, Int. 50, 51; Bd. 3, 20 n;
-
-15, 28n; Byt. 3, iin.
-Idolatry, 81. 9, 2, 3.
-Idols, Bd. 28, 34 ; Byt. 1, 4n.
-
-E e 2
-
-
-Idol-temples, Bd. 17, 7 ; Byt. 3, 30,
-
-36, 37.
-Imam-aai-zam ha, SI. 13, 19.
-Immortal men, Bd. 29, 5-9 ; 30, 17.
-Incursion of the evil spirit, Bd. 3,
-
-10-26 ; Zs. 2, i-ii; 4, 1-6.
-Indar, demon, Bd. 30, 29 n. See
-
-Andar.
-India, Bd. 15, 29n; 20, 9"; 29, 4;
-
-Byt. 3, 44 n ; SI. 2, 6n, 2 an,
-
-32n; 4, sn, 6n, iin, i2n; 9,
-
-gn; 16, in; 17, 2n.
-Indian ocean, Bd. 20, 8n.
-Indra, god, Bd. 1, 27 n.
-Indus r., Bd. 20, 8n, 9n, 22n, 28n ;
-
-Byt. 3, 38n.
-Infant, treatment, SI. 10, 16; protected by fire, SI. 12, 12.
-Infection, SI. 2, 55, 59, (6o-)62. See
-
-Paitrei/.
-Infidel, SI. 6, 6.
-Invoking angels, SI. 9, 11-13.
-Inward prayer, SI. 3, (6-)9, 21; 4,
-
-3, 9n ; 5,^4n; JIO, 14, 26; 14,
-
-3. See Baz, Va^.
-Iran, Bd. 12, 9n; Zs.6, 17; Byt. 2,
-
-51, 63; 3, 37n,44n; Sl.lO, 28n;
-
-countries of, Bd. 23, 3 ; Byt. 1,
-
-in; 2, 24, 26, 49; 3, 5-7, 10,
-
-20, 22, 23, 25, 26, 36, 38, 39;
-
-kings of, Bd. 31, 32 n ; 32, i n.
-Iranian, countries, Bd. 19, 15 ; Byt.
-
-2, 28, 29; kings, Bd. 34, 4n;
-
-Byt. 3, 51 ; logograms. Int. 14,
-
-18, 19; rule, Bd. 29, 4n; SI.
-
-13, 7 n.
-Iranians, Bd. 12, 33; 15, 28; 31,
-
-21 ; Byt. 2, 3 3n.
-Iron age, Byt. 1, in, 5; 2, 22; 3,
-
-12 n.
-IsaJvastar, man, Bd. 30, ion; 32,
-
-5' 7-
-Isfendiyar, prince, Bd. 31, 29 n; Byt.
-
-2, i7n.
-Ispahan, Bd. 12, 4on; 20, isn, 26n;
-
-31, 40 n.
-Istudgar nask, Byt. 1, i n. See Stu^-
-
-gar.
-Itha ha, SI. 13, 20; prayer, SI. 3, 35;
-
-5, 2, 5, 7 ; see the next.
-Itha-a^-yazamaide ha, SI. 13, 18.
-I%ak, princess, Bd. 32, i n.
-
-J in Oriental words is printed G.
-Jamshed, Bd. 23, in; 31, 27 n.
-Jew, SI. 6, 7.
-
-
-Judge, unjust, SI. 10, 18.
-
-Jupiter, planet, Bd. 5, i ; Zs. 4, 7>
-
-8, 10; Byt. 3, 4, 18.
-Justi, Professor, Int. 26, 66 n.
-
-Kabed-jikaft m., Bd, 12, 2, 21.
-
-Kabisah dispute, Bd. 25, 3n.
-
-Kabulistan, Byt. 3, i3n.
-
-Ka.d, priest, Bd. 33, i, 2.
-
-Kaddn, title, Bd.^31, 15.
-
-Ka^-moi-urva ha, SI. 13, 33.
-
-Kaf m., Bd. 12, 2, 14.
-
-Kahrkas, bird, Bd. 14, 23; 19, 25,
-
-31-
-Kaht, lun. man., Bd. 2, 3.
-Kahtsar, lun. man., Bd. 2, 3.
-Kahus, Byt. 3, 9 n. See Kai-Kaus.
-Kai-Apiveh, prince, Bd. 31, 25, 28,
-
-31, 34-
-
-— Arsh, prince, Bd. 31, 25.
-
-— Kaba^, king, Bd. 34, 7-
-
-— Kaus, king, Bd. 31, 25, 3 in; 34,
-
-7; Byt. 3, 9.
-
-— Kava^, king, Bd. 31, 28; 34, 7 n;
-
-SI. 10, 28 n. See KavaJ.
-
-— Khusrob, king, Bd. 17, 7 ; 31, 18,
-
-25; 34, 7; Sl.lO, 28n.
-
-— Loharasp, king, Bd. 31, 29; 34,
-
-
-— Pisan (or Pisin), prince, Bd. 31,
-
-25, 28.
-
-— Qubad, king, Bd. 31, 24 n.
-
-— Us, king, Zs. 11, ion; SI. 10,
-
-28n.
-
-— Viitasp, king, Bd. 34, 7 ; Byt. 3,
-
-iin; Sl.lO, 28n.
-
-— Vyarsh, prince, Bd. 31, 25.
-Kalak, town, Bd. 12, 35.
-Kala/^ang, zod., Bd. 2, 2; 5,. 6.
-Kamah Bahrah, Zs. 9, i n; SI. 2, 2n.
-Kamindan, land, Bd. 22, 10.
-Kam-nemoi-zam ha, SI. 13, 30.
-Kamrufl' sea, Bd. 13, 7, 15; Zs. 6,
-
-14-
-Kanabad, town, Bd. 12, 34n.
-Kanak-i Barzijt, man, Bd. 31, 23.
-Kangdes;, land, Bd. 12, 2 ; 20, 31 ;
-
-29, 4, 5, 10; 32, 5; Byt. 3, 25,
-
-26.
-Kaoirisa m., Bd. 12, 25n.
-Kar fish, Bd. 14, 12; 24, in, 13.
-Karap, title, Byt. 2, 3.
-Karapan, title, Zs. 11, ion; Byt. 2,
-
-3n.
-Karm, tribe, Byt. 3, 7.
-Karmak, tribe, Byt. 2, 49.
-
-
-INDEX.
-
-
-Karman, tribe, Byt. 3, 20.
-Karsaspo, king, SI. 10, aSn.
-Karsevaz, prince, Bd. 31, 15.
-Karjipt, bird, Bd. 14, 23; 19, 16;
-
-24, in, II, 29 n.
-Kasak or Kasik r., Bd, 20, 7, 90,
-
-30.
-Kajki-zard, town, Bd. 12, 30 n.
-Kajmir, land, Bd. 29, 4, 15.
-Kasp r., Bd. 20, 30.
-Katayun, man, Bd. 31, 8.
-Kaus Kainan, SI. 2, 2n.
-Kava^ king, Bd. 31, 24, 25; Byt. 1,
-
-5n; 2, 2 in. See Kai-Kava^.
-Kavi Aipi-vanghu, prince, Bd. 31,
-
-25 n.
-
-— Arshan, prince, Bd. 31, 2 5n.
-
-— Byarshan, prince, Bd. 31, 25 n.
-
-— Husravangh, king, Bd. 31, 2 5n.
-
-— Pisanangh, prince, Bd. 31, 25 n.
-
-— Syavarshan, prince, Bd. 31, 2511.
-
-— Usadhan, king, Bd. 31, 25 n.
-Kavul, town, Bd. 12, 22 ; 17, 6.
-Kat'uli, tribe, Byt. 2, 49.
-Kavulistan, land, Bd. 17, 6 ; 29, 11 ;
-
-Byt. 3, i3n, 2 9n.
-Kayan, Bd. 21, 7 ; 28, 15, 17 ; 31,
-o, 25n; Byt. 1,5; 2,17; 3, 14,
-
-51-
-Kayanians, Bd. 11, 6 ; Byt. 3, 140 ;
-
-Kayans, Byt. 3, 25, 26 ; SI. 22, 32.
-Keresani, king, Byt. 2, i9n.
-Keresasp, man, Bd. 29, yn; 31, 26,
-
-27n, 36n; Byt. 3, 59, 60.
-Keshvars, regions, Bd. 5, 8, 9 ; 11,
-
-(2-6;) 15, 27; 17,4; Zs. 7,(8-
-
-11;) Byt. 3, 47; SI. 10, 28 n.
-Kevad', king, Byt. 1, 5 ; 2, 21.
-Kevan, planet, Bd. 5, i ; 28, 48 ; Zs.
-
-4,7.
-Khashm, demon, Bd. 29, 5. See
-
-Aeshm.
-Khajt nask, SI. 12, 4n. See Da^ak.
-Khava, demon, Bd. 19, 27.
-Khazar, land, Byt. 2, 49 n.
-Khor sin, SI. 1, i, 2 ; 2, 70 ; 3, 25 n ;
-
-11, I, 2; 16, 5.
-KhrQtasp, man, Bd. 31, 6.
-Khshmaibya ha, SI. 13, 4, 14.
-Khshnuman, ritual, see Shnuman.
-Khudarak, tribe, Byt. 2, 49 n.
-Khiv^and, town, Bd. 20, 20 n.
-Kh%istan, land, Bd. 12, 9, 30 ; 20,
-
-12, 26 ; 24, 28 ; Zs, 7, 7n.
-Khuwbya, title, Bd. 29, sn.
-
-
-Khur, angel, SI. 22, 1 1 ; 23, 2 ; day,
-
-Bd. 25, 3. See Khursherf'.
-Khurasan, land, Bd. 12, 18, 37 ; 20,
-
-I3n, 2 in; 25, i6n; Byt. 2, 240;
-
-3, 19.
-Khurdad, angel, Byt. 2, 59n; month,
-
-Bd. 25, 2on. See Horvada^.
-Khurdah Avesta, SI. 8, i n.
-Khurshe^, angel, Bd. 27, 24 ; Byt.
-
-2, 59 n. See Khur.
-
-— ^ihar, man, Bd. 32, 5, 6, 7n.
-
-— mah, apostle, Byt. 3, 52n.
-
-— nyayij, ritual, SI. 7, in; 17, sn.
-
-— yait, ritual, SI. 7, 2n.
-Khurshe(r/ar, apostle, Byt. 3, i3n.
-Khujak, zod., Bd. 2, 2.
-
-Khusro, king, Byt. 1, 5, 7n, 8; 2,
-21.
-
-— Mahdac/an, priest, Byt. 1, 7.
-
-— Noshirvan, king, Bd. 34, gn; Zs.
-
-6, 2on; Byt. 1, 5n, 7n ; 2, 21 n.
-
-— ' Parviz, king, Bd. 34, gn ; Zs. 6,
-2on ; Byt. 3, 1 1 n.
-
-Khusrov, man, Bd. 31, 36, 40.
-
-Khusto nask, SI. 12, 4n. See DiWak.
-
-Khvanaidh r., Bd. 20, 7, 29n.
-
-Khvaniras, region, Bd. 5, 9 ; 11, (2-
-6;) 15, 27; 17, 4; 24, 26, 27,
-29; 29, 2, 3, 5n; 32, in; Zs.
-6,21; 7,(10;) Byt. 3, 47; SI.
-10, 28 n.
-
-Khvarae r., Bd. 20, 7, 26.
-
-Khvarih, Bd. 12, 2.
-
-Khvarizem, land, Bd. 12, 12 ; 17, 5,
-6 ; Zs. 11, 9 ; Byt. 3, 29n; lake,
-Bd. 22, I, 4.
-
-Khvast-airikht, man, Bd. 31, 19,
-
-Khve'gand r,, Bd. 20, 7, 19, 20,
-
-Khvetmano ha, SI, 13, 7n.
-
-Khvetuk-das, see Next-of-kin marriage,
-
-Khyon, land, Byt. 2, 49n.
-
-Kilisyakih (Christianity), Byt. 2, 19;
-
-. .3, 3, 5,J;
-Kiratano-bii^^e^, com., SI. 1, 4n.
-Kirfak, see Good works.
-Kirman, land, Bd. 12, 35n; 33, ion;
-
-Byt. 2, 24n; town, Zs. 1, on ;
-
-Byt. 3, i7n.
-Kohistan, land, Bd. 20, i3n; Byt.
-
-3, 19.
-
-Koir r., Bd. 20, 7, 24.
-Kokand, town, Bd. 20, 20 n.
-Kondras m., Bd. 12, 2, 25.
-Kondrasp m., Bd. 12, 2, 24; 22, 5n.
-K/vttika, lun. man., Bd. 2, 3n.
-
-
-Kumij m., Bd. 12, 32 ; land, Bd.
-
-20, 18.
-
-Kundak, demon, Bd. 28, 42.
-Kur r., Bd. 20, 8n, 24 n.
-Kuran r., Bd. 20, 26n.
-Kur^a', tribe, Byt. 3, yn, 20.
-Kuruk sheep, Bd. 14, 15 ; Zs. 9, 19.
-Kushtano-bu^e^, com., SI. 1, 4n ; 2,
-
-57, 81, 118; 6, 6, yn; 8, 17-
-Kustik, Bd. 24, 22 ; 80, 30 n. See
-
-Sacred thread-girdle.
-Kyansih sea, Bd. 13, 16; 20, 34;
-
-21, 6, 7.
-
-ATakad'-i Daitik m., Bd. 12, 2, 7; 30,
-
-33n; Byt. 3, 26.
-Y^akhravak, chief, Bd. 29, i.
-ATakhshnfu, man, Bd. 32, i.
-iTamroj, bird, Bd. 19, 15; 24, iin,
-
-29; 27, 3n.
-^athwaraspa, man, Bd. 29, i n,
-Kfl^rw-mivan r., Bd. 20, 7, 31.
-Khk-ds\. lake, Bd. 7, 14; 12, 36; 17,
-
-7; 22, I, 2, 8; Zs. 6, 22; Byt.
-
-3, 10.
-A'ldrait nask, SI. 10, 28.
-ATihar-asar/, queen, Bd. 34, 8.
-A'in or Kixvo m., Bd. 12, 2, 13 ; 15,
-
-29n; land, Bd. 12, i3n, 22;
-
-15, 29 n ; 31, 3 ; Byt. 2, 49 n.
-ATini, tribe, Byt. 2, 49 ; 3, 17.
-A!1nistan, land, Bd. 12, 9n, i3n; 15,
-
-29; 29, 13; Zs. 7, 7; Byt. 3,
-
-^inva J or /Tinvar bridge, Bd. 12, 7 ;
-
-28, i8n; 30, 33; SI. 8, in; 12,
-
-2n, 31 n; 13, 290; 17, 4n.
-/Tishmak, demon, Bd. 28, 24.
-A'itro-maino, prince, Bd. 29, 5; Byt.
-
-3, 25 n.
-ATitro-miyan, prince, Byt. 2, i; 3,
-
-25, 26.
-
-Lakes, Bd. 13, 1-4; 22, i-ii; Zs.
-
-^ Q, 7, 8, 22.
-Laran, land, Bd. 12, 38.
-Laristan, land, Bd. 12, 38 n.
-Laughter at prayer, SI. 10, 29.
-La-vahak, man, Bd. 31, 19.
-Leo, Bd. 2, 2 ; 34, 2 ; SI. 21, 2, 6.
-Leucorrhoea, SI. 3, 19.
-Libra, Bd. 2, 2 ; 5, 6; 34, 2 ; Zs.4,
-
-8-10; SI. 21, 2.
-Life, duration of, SI. 9, 14.
-Liquids, Bd. 21, i.
-Logograms, Int. 13-17, 20.
-
-
-Loharasp, king, Bd. 28, 1 5 n ; 31,
-
-28. See Kai-Loharasp.
-Luminaries, Bd. 2, 1-8.
-Lunar mansions, Bd. 2, 3.
-
-Madofrya^m., Bd. 12, 32.
-
-Magh (ablution-seat), Byt. 2, (36;)
-
-SI. 10, sn.
-Mah, angel, Bd. 27, 24 ; Byt. 2, 59 n ;
-
-Sl.ll,4n; 12,8; 22, 12; 23, 2.
-
-— Auharmazd, com., SI. 1, 4 n,
-
-— ayar, man, Bd. 33, 7.
-
-— bondak, man, Bd. 33, 7.
-
-— bukht, man, Bd. 33, 7.
-
-— dart', man, Bd. 33, i.
-
-— gojaspo, com., SI. 1, 4 n.
-
-— nyayij, ritual, SI. 7, 4 n.
-
-— vasp, com., SI. 1, 4 n.
-Mahik, zod., Bd. 2, 2.
-Mahvand-da^, com., Byt. 3, 3 ; SI.
-
-I, 4n.
-
-Maidhyairya, season, Bd. 25, 3 n ;
-
-Maidhvo-shema, season, Bd. 25, 3 n ;
-
-Male things, Bd. 16, 6,
-Mdm-so%ak, title, Bd. 31, 14.
-Manicheans, Si. 6, 7 n.
-Manih, heretic, SI. 6, 7 n.
-Mansarspend, angel, SI. 11, 4. See
-
-Maraspend.
-Manfij m., Bd. 12, 2, 10; king, Bd.
-
-33, 4; man, Bd. 31, 28.
-
-— i khiarshe^Z-vinik, man, Bd. 31, 11,
-
-12.
-
-— khurnak, man, Bd. 31, 14 ; 32, i n.
-
-— khurnar, man, Bd. 31, 12, 14;
-
-32, I n.
-
-Manuscripts, oldest Pahl. and Paz.,
-Int. 21 ; of Bd., Int. 24-41 ; of
-Zs., Int. 48-50; of Byt., Int.
-56-59 ; of SI., Int. 65, 66.
-
-Manuj/iihar, king, Bd. 12, 10; 14,
-15; 20, II, 31, 12-14, 21, 23,
-31 ; 32, I, 4; 33, 3, 4n, 5, 9;
-
-34, 6 ; Zs. 9, 19 ; 11, ion;
-Bvt. 2, 3n; SI. 10, 28; man,
-Bd. 33, 3. ^
-
-— son of Yudan -Yim, priest. Int.
-
-46, 47 ; Bd. 33, 10 n.
-Marak m., Bd. 12, 29, 38,
-Maraspend, angel, Bd. 27, 24; SI.
-
-II, 4 n; 22,29; 23,4; man,
-Bd. 33, 3, II ; Byt. 2, 18 n.
-
-MaraTui-veh, man, Bd. 33, 6, 8.
-Mar^-bu^, com., SI, 1, 4 n ; 2, 86.
-
-
-INDEX.
-
-
-Margandak, man, Bd. 31, 36, 40.
-]\Iarg-ar§-an, see Worthy of death.
-Marriage, refraining from, SI. 10, 19.
-
-See also Next-of-kin.
-IMars, planet, Bd. 5, i.
-Maruv or Marv, land, Byt. 3, 2 i.
-Marv r., Bd. 12, 9 n ; 20, 7 , 2 1 ; 21,3-
-Mdshdha, lun. man., Bd. 2, 3.
-Mashya, man, Bd. 15, 6, 11, 19, 20,
-
-30; 30, I, 7; 31, I ; 32, in;
-
-34, 3; Zs. 10, 4; SI. 10, 28 n.
-Mashyoi, woman, Bd, 15, 6, 11, 20;
-
-30, I, 7 ; 32, in; 34, 3 ; Zs.
-
-Majvak, man, Bd. 33, 5.
-Matro, man, Bd. 15, 2.
-Matroyao, woman, Bd. 15, 2.
-Mazanan demons, SI. 12, 6. See
-
-Mazinikan.
-
-Mazda-afl'-moi ha, SI. 13, 11.
-
-Mazdayasnian literature, Zs. 9, i n ;
-Byt. 3, 25 n; SI. 9, 9 n ; 10,
-3 n, 4n, 13 n, 21 n, 25 n, 26 n,
-28 n, 29 n; 12, 17 n ; — religion, Bd. 29, 7; 33, II n.
-
-Mazdayasnians, SI. 12, 4 ; 13, 2 ;
-religion of, Int. 9 ; Bd. 1, 2, 25 ;
-
-11, 6; 12, 41; 33, 12; Byt. 1,
-o; 2, 2, 26, 46, 61 ; 3, i, 32,
-41, 46, 49; SI. 12, 23.
-
-Mazdik, heretic, Byt. 1, 6 ; 2, 21.
-Mazendaran, land, Bd. 3, 20 n ; 13,
-
-^ ^15 n; 15, 28; 19, 5.
-Mazinikan demons, Bd. 3, 20. See
-
-Mazanan.
-Measures, linear, Bd. 26, 1-3.
-Meat, unfit for rites, SI. 10, 34;
-
-when not to be eaten, SI. 17,
-
-I, 2.
-Meat-offerings, SI. 10, 34 ; H, 4-6 ;
-
-12, 8-10; 18, 4n.
-Mediterranean sea, Bd. 13, 15 n;
-
-20, 8 n.
-Merf'iyarem, season, Bd. 25, 3.
-Me^ok-mah, com., SI. 1, 3 ; 2, i, 1 1,
-
-12, 89; 5, 5, 6,
-— shem, season, Bd. 25, 3.
-Mea'yok-mah, man, Bd. 32, 2, 3 ;
-
-33, I ; Zs. 11, ion; SI. 1, 3 n.
-Mehrd or Mihwd v., Bd. 20, 7, 9.
-Menstruation, see Woman.
-Mercury, planet, Bd. 5, i ; Byt. 3, 4.
-Merkhinah m., Bd. 12, 38 n.
-Meshhed, town, Bd. 20, 15 n, 30 n;
-
-22, 3 n.
-Mesr, land, Bd. 20, 8.
-
-
-Mesrkdn r., Bd. 20, 7, 26.
-
-Metal, melted, Bd. 80, 19, 20, 31,
-
-32 ; origin of, Zs. 10, 2.
-Mezinan, town, Bd. 12, 32 n.
-Mi^in m., Bd. 12, 29, 32 n.
-Mihir, angel, Byt. 2, 59 n. See Mitro.
-
-— nyayij, ritual, SI. 17, sn.
-Mihran r., Bd. 20, 911.
-Milk, see Sacred milk.
-Millennium, Int. 40; Bd. 30, 2;
-
-34, I, 2, 5, 6, 7n, 9n; Zs. 1,
-
-10; Byt. 1, 5; 2, 22,24, 41, 63;
-
-3, 9, II, 43, 4411, 51-53, 61.
-Minos, man, Bd. 31, 3 n.
-Mirak, man, Bd. 31, 4.
-Mitokht, demon, Bd. 1, 24; 28, 14,
-
-16.
-Mitro, angel, Bd. 27, 24; Byt. 3,
-
-32-36,47; SI. 22, 16; 23, 3;
-
-month,Bd. 25, 7,20. See Mihir.
-
-— akavW, man, Bd. 33, 6.
-
-— ayar, man, Bd. 32, 7 n.
-
-— tarsah, man, Bd. 31, 29.
-
-— varas;, man, Bd. 33, 4.
-Miydn, lun. man., Bd. 2, 3.
-Miyan-i dajt m., Bd. 12, 32.
-Mobad of mobads, Bd. 32, 5 ; 33, 2.
-Mobads (priests), Bd. 32, 4 ; 33, o,
-
-9-11.
-Mobadship of mobads, Byt. 3, 39.
-Mokarstdn, land, Bd. 20, 7.
-Monstrosities, human, Bd. 15, 5, 31.
-Months, names of, Bd. 25, 20.
-Moon reverence, SI. 7, 4 ; 12, 31.
-Mortal sin, see Worthy of death.
-Mountains, Bd. 8, 1-5 ; 11, 4 ; 12,
-
-1-41 ; 18, 10, 11; 24, 17, 28;
-
-Zs. 7, 1-7.
-IMouth-veil, SI. 10, 40 ; 12, 4.
-Muhammadanism, SI. 6, 7 n.
-Muhammadans, Byt. 2, 24 n; 3, 1 1
-
-n; SI. 2, 58 n.
-Mulla Firuz, SI. 21, 2 n.
-Mumbai (Bombay), Byt. 3, 170.
-Murghab r., Bd. 20, 2 i n.
-Miiru, lun. man., Bd. 2, 3.
-MCupar, comet, Bd. 5, i, 2 ; 28,
-
-44-
-INIijsulman, Byt. 3, 3 "• .
-Myazd, see Sacred feast.
-Myths, how treated. Int. 71, 72.
-
-Nahn, lun. man., Bd. 2, 3 ; Zs. 4,
-
-8 n.
-Nahvtak r., Bd. 20, 34 n; 21, 6.
-
-
-Naikiyas, demon, Bd. 28, lo; 30,
-
-2911.
-Nail-parings to be prayed over, SI.
-
-12, 6.
-Naivtak r., Bd. 29, 4, 5.
-Nakahe^, demon, Bd. 1, 27 ; 28,
-
-ion; 30, 29 n.
-Namak or Namun, man, Bd. 31, 35.
-Naotara, man, Bd. 29, 6n.
-Naqj-i Rustam, Int. 2on.
-Nariman, man, Bd. 31, 36 n.
-— Hoshang, Zs. 9, i n.
-Narsih, prince, Bd. 29, 6 ; 31, 3, 5.
-Nas, demon, Bd. 28, 29.
-Nasai, see Corpse and Dead matter.
-Najak, woman, Bd. 15, 25.
-Nasatyas, Bd. 1, 27 n.
-Nasks, Zs. 11, ion; quoted in SI.,
-
-Int. 63, 64; described, Zs. 9,
-
-i; Byt. 1, i; 3, 25; SI. 9, 9;
-
-10, 3, 4) 13, 21, 25, 26, 28, 29;
-
-12, 4 n, 1 7 n ; referred to, Zs. 9,
-
-16; SI. 10, 22, 23; 12, 1-3, 5,
-
-7, 10-12, 14-16, 19, 29-32; 13,
-
-6, 10, 30.
-Nasm, man, Byt. 2, 3n.
-NasTJj, demon, SI. 2, 1-5, 6n, ssn,
-
-68n; 7, 7; 10, i2n, 32 n; 20,
-
-4, 5-
-Naunghas, demon, Bd. 30, 29.
-Nd-vada v., Bd. 20, 7, 34" ; 21, 6 n.
-Navasha^ar rite, SI. 12, 26.
-Navazudi rite, SI. 13, 2n.
-Nayd%em, man, Bd. 32, i n.
-Negro, origin of, Bd. 23, 2.
-Neryosang, angel, Bd. 15, i ; 32, 8 ;
-
-Byt. 3, 25, 26, 59, 60 ; com., SI.
-
-1, 4n ; 8, 13; man, Bd. 32,
-
-in ; translator, Byt. 2, 4n ; SI.
-
-6, 7n.
-Nesr-gydvdfi, title, Bd. 31, 5.
-Nevak-tora, man, Bd. 32, i n.
-Next-of-kin marriage, Byt. 2, 57, 61 ;
-
-SI. 8, 18; 18, 3,(4-)
-Nigas-afzUfZ-dak, man, Bd. 33, 4.
-Night, length of, Bd. 25, 3-6,
-Nihaii'um nask, SI. 10, (3,) 22, 23,
-
-39"; 12, 15, 16.
-Niha^, man, Bd. 29, 7.
-Nika^um nask, SI. 10, 3n. See
-
-Niha^um.
-Nikhshapuhar, com., SI. 1, 4n.
-Nile r., Bd. 20, 8n ; Zs. 6, 20 n.
-Nimasp, zod., Bd. 2, 2.
-Nining, ritual, SI. 12, 23; 13, i.
-Nirangistan, book, Int. 32 ; Byt. 2,
-
-
-37; 3, 29; SI. 1, 3n, 4n; 2,
-
-86 n; 10, 35 n; 12, in, 31 n;
-
-16, 6n.
-Nuanak, place, Byt. 3, 9, 21.
-NishapQhar, com., SI. 1, 4n.
-Nishapur, town, Bd. 12, i2n, 32 n;
-
-Byt. 1, 7.
-Ni-v r., Bd. 20, 8.
-Nii'ar, man, Bd. 33, 3.
-Niyarum nask, SI. 10, 3n. See
-
-Niha^um.
-Niyaz, demon, Bd. 3, 17 ; 28, 26.
-No^ar, man, Bd. 29, 6 ; 31, 13, 23 ;
-
-Noktarga, man, Bd. 31, 32, 33.
-Nonabar, rite, SI. 10, 2 ; 13, 2 n.
-Non-Iranian, Bd. 19, 15; 29, 4n;
-
-Zs. 2, 10; Byt. 2, 51.
-Non-Turanian, Byt. 2, 49.
-Nosai Biirz-Mitro, com., SI. 1, 3n,
-
-4n; 8, 18.
-Noxious creatures, Bd. 3, 15, 20; 7,
-, 5, 7, 13; 13, 16; 19, 7, 9, 17,
-
-21, 27, 30; 20, 13 ; Zs. 2, 9;
-
-6, 4, 5, 9, 14; SI. 3, 21 ; 8, 19;
-
-13, 19 ; 19, 9; 20, 5, 18,
-Nur, lun. man., Bd. 2, 3.
-Nyayij, ritual, SI. 7, i n, 2n, 4n ; 16,
-
-6n; 17, sn; 20, in.
-
-Ocean, Bd. 7, (6,) 7, 16 ; 9, 5 ; 11,
-4 ; 12, 6; 13, i, 5, 8-10; 15,
-27; 18, I, 7, 9; 19, I, 8, 11;
-20, 4; 22, 2,5,9; 27, 2; 29,
-10; 31, 32 ; Zs.6, 6, 7 ; 7, 8, 1 1.
-
-Ordeals,S1.10,25n; 13,17; 15,15-17.
-
-Orthography, Pahl., Int. 74.
-
-Owokhm, demon, Bd. 31, 6.
-
-Oxus r., Bd. 15, 29n; 20, 8n, 9n,
-2 2n, 28n; 22, 4n; Zs. 6, 2on;
-Byt. 3, 17 n, 38 n.
-
-Padashkhvargar m., Bd. 12, 2, (17,)
-31 n, 32 ; 31, 21, 40; Byt. 2,
-63 ; 3, 19, 20.
-
-Padevar, lun. man., Bd. 2, 3.
-
-Pfu/iyai'ih, see Ablution.
-
-Pa^nun nask, SI. 9, 9n. See Pazon.
-
-Paha, lun. man., Bd. 2, 3.
-
-Pahargar m., Bd. 12, 29, 37.
-
-Pahlavas, tribe. Int. 12.
-
-Pahlavi alphabets. Int. 16, 17, 20.
-
-— language. Int. 11.
-
-— literature, extent. Int. 22.
-
-— manuscripts. Int. 21, 22.
-
-— (meaning of), Int. 12.
-
-
-INDEX.
-
-
-Pahlavi papyri, Int. 21.
-
-— texts, three kinds here translated,
-
-Int. 67, 68 ; proportion untranslated, Int. 68 ; value of,
-Int. 74.
-
-— writings. Int. 9-22.
-
-Pai Killi, place, Int. 19, 20 n.
-
-Pairijtira, man, Bd. 29, i n.
-
-Pairi-urvaesm, demon, Bd. 31, 6.
-
-Paitirasp, man, Bd. 32, i.
-
-Paitirasp, inan, Bd. 32, i, 2 ; 33, i.
-See Pirtarasp.
-
-Paitrert', see Infection.
-
-Pandnamak-i Zaratujt, Bd. 15, 2 n.
-
-Pan^istan, land, Bd. 20, i3n, 15.
-
-Papak, man. Int. 19; Bd. 31, 30;
-34, 9; Byt. 2, i8n.
-
-Parahom, see Hom juice.
-
-Parasang, meas., Bd. 7, 8 ; 13, 2 ;
-14,4; 16,7; 22,8; 26, i, 2;
-SI. 4, 12 ; 9, in.
-
-Parhtyaro, man, Bd. 29, i.
-
-Pargdna, land, Bd. 20, 20.
-
-Parik, com., SI. 1, 4n.
-
-Pars, land, Bd. 12, 2, 9, 21, 36 ; 20,
-25, 29 ; 24, 28 ; 29, 14 ; 31,
-3on ; 32, 4 ; 33, ion ; Zs. 7, 7,
-10; Byt. 3, 9, 10, 19, 21.
-
-Parsadgd, chief, Bd. 29, 5.
-
-Parsi religion most detailed in Pahl.
-texts. Int. 9 ; not fully explained here. Int. 68.
-
-Parsti-a, man, Bd. 33, 4.
-
-Parthians, Int. 12.
-
-Parthva, land, Int. 12.
-
-Part'i-z, lun. man., Bd. 2, 3.
-
-Parysatis, queen, Bd. 34, 8n.
-
-Pashang, king, Bd. 29, 5 ; 31, 14, 16.
-
-Pajin, prince, Bd. 31, 25 n.
-
-Pasuj-haurva, dog, Bd. 14, 19 n ; 19,
-
-34-
-Patit, see Renunciation of sin.
-
-— i khurt', ritual, 81. 14, 6n.
-Patsrobo, king, SI. 10, 2 8n.
-Pazand, Int. (12,) 14, (i5)-i7 ; Byt.
-
-2,55.
-
-— Bahman Yajt, Int. 57.
-
-— Bundahij, Int. 30, 31.
-
-— SI., in part, Int. 66.
-Paxon or Pazi nask, SI. 9, 9.
-PciS'ak-miyan r., Bd. 20, 7, 31.
-Penom, see Mouth-veil.
-
-Periods of day, Bd. 25, (9, 10;) SI.
-
-7, i; 10, 32; 14, 4-6; 17, 3.
-
-See Gah.
-Persepolis, Int. 19, 20 n.
-
-
-Persian, ancient, Int. 11 ; mediaeval,
-
-Int. 11,12; modern. Int. 11, 14 ;
-
-version of Byt., Int. 57-59. See
-
-also Rivayats.
-Persian Gulf, Bd. 13, 8 n, 1 3 n ; 20,
-
-25 n.
-Pejda^, title, Bd. 32, i n.
-Pejdart'ian, Bd. 15, (28 n ;) 17, 4 n ;
-
-Pesh-Parinx, lun. man., Bd. 2, 3.
-Peshyotanu, priest, Bd. 20, 31 n;
-
-29, 5 ; 31, 29 ; 32, 5 ; Byt. 2,
-
-i; 3, 25-27, 29-32, 36-38, 39 n,
-
-4I) 42, 51, 52.
-
-Pejyansai, land, Bd. 29, 4, 5, 7, 11;
-Byt. 3, 60 n.
-
-Pig, domesticated, SI. 2, 58.
-
-P'iran, man, Bd. 31, 17.
-
-Pirik, com., SI. 1, 4 n.
-
-Pirtarasp, man, Bd. 32, in; 33, in.
-
-Pisces, Bd. 2, 2 ; SI. 21, 2.
-
-Pijin valley, Bd. 29, 5 n.
-
-Planets, Bd. 3, 25 ; 5, (i,) 5 ; 28,
-44; Zs. 2, 10; 4, 3, 7-10.
-
-Plants, origin, Bd. 9, 1-6 ; 27, 1-3 ;
-Zs. 8, 1-6 ; 9, 1-6 ; chiefs of,
-Bd. 24, 18-21, 27; 27, 4; classification, Bd. 27, 5-23 ; devoted
-to angels, Bd. 27, 24 ; dried
-before burning, Bd. 27, 25.
-
-Pleiades, stars, Bd. 2, 3 n.
-
-Pollution from dead apes, SI. 2, 6 1 ;
-dead bodies, 81. 2, 12-16, 18-22,
-30"32, 35-124; 10, 12; dead
-dogs, 81. 2, 62; dead hedgehog,
-SI. 2, 59 ; dead menstruous
-woman, SI. 2, 61 ; dead priests,
-81. 2, 60 n ; from menstruation,
-81. 2, 17, 96 ; 3, 1-3, 10-20, 22-
-34; from serpents, SI. 2, 33-35'
-
-— of animals, 81. 2, 109-111; buildings, 81. 2, 18-22, 45; 3, 2, 3 ;
-carpets, 81. 2, loi; 3, 2, 3 ;
-clothing, 81. 2, 42, 44, 83; 3, i,
-13; cushions, SI. 2, 102-104;
-3, 2, 3 ; doors, 81. 2, 74 ; earth
-and masonry, 81. 2, 36 ; fire,
-81. 2, 38-40, 46, 49 ; food, 81.
-2, 41, 47, 119-124; 3, 12, 30;
-ground, 81. 2, 12-16; jars, 81.
-2, 30-35; powdered things, 81.
-2, 37 ; unborn child, SI. 2, 58,
-105, 106; water, 81. 2, 77-94;
-wool, 81. 2, 100.
-
-— stopped by objects, 81. 2, 57, 58.
-Portuguese, Byt. 3, 17 n.
-
-
-Poni^ist, woman, Bd. 32, 5, 7 n.
-Poriishasp, man, Bd. 20, 32, 34 n;
-
-32, I, 2; 33, 3.
-Poryo^keshih. See Primitive faith.
-Pourudhdkhst, man, Bd. 29, 6.
-Pouru-grtu, man, Bd. 31, 7 n.
-Prayer before and after sleep, SI.
-
-10, 24. See also Inward prayer.
-Precautions where death occurs, SI.
-
-2, 38-44-
-
-Pregnant woman, carrying her
-corpse, SI. 2, 6 ; 10, 10 ; eating
-dead matter, SI. 2, 105 ; protected by fire, SI. 10, 4 ; 12, 1 1 ;
-stepping on toothpick, SI. 10,
-20 ; 12, 13.
-
-Priests, Bd. 30, 30 n; 32, 4 n; 33,
-o, 2 n, 3 n, 10 n ; Zs. 11, 10 n ;
-Byt. 1, 7n; 2, 38,40,55; SI. 2,
-56, 6on, 62n; 5, 3n; 8, 4, 11;
-9, 2, 4, i2n; 13, 9, 49"; 14,
-3 ; their five dispositions, Bd.
-19, 36 n. See Dastur, Highpriest, Mobads, Purifying, Raspi, Supreme, Zota.
-
-Primeval ox, Bd. 3, 14, 17, 18 ; 4, i,
-2 ; 10, o, I ; 14, i, 3 ; 27, 2 ;
-34, i; Zs. 2, 6; 9, 1-7.
-
-Primitive faith, SI. 1, 3, 4 ; 6, 7 ; 10,
-30; 12, I, 13, 19; 13, 2.
-
-Professions, see Classes.
-
-Providence, SI. 20, 17.
-
-Province-ruler, SI. 13, 11, 15, 41 n,
-
-. 44 ; 19, 5-
-Purification, modes of, SI, 2, 6, 14-
-17, 19, 22, 41, 42, 44, 53, 65-
-68, 92, 95-99, 112-118, 120-123;
-
-3, 14, 16-18, 20, 21,
-Purifying priest, SI, 12, 22-27.
-PQr-tora, man, Bd, 31, 7, 8; 32,
-
-I n,
-
-Puj, demon, Bd. 28, 28.
-
-Putik sea, Bd. 13, 7-1 1 ; 22, 9 ; Zs.
-
-6, 14-16.
-Puyijn-sha<3', man, Bd, 33, 8.
-
-Qubad, king, Byt. 1, 5 n,
-
-Radr., Bd. 20, 7, 24 n.
-Ra^an, man, Bd. 32, i ; 33, 3.
-Ragha, town, Bd. 31, 40 n ; 81, 13,
-
-II n.
-
-Rai, town, Bd, 31, 40 ; SI. 13, 11 n,
-Rak, man, Bd. 31, 31 ; 32, i n,
-Rai/jvad, lun. man., Bd. 2, 3.
-Ram, angel, Bd. 27, 24; Byt. 2,
-
-
-59 n; 81,11, 4n; 17, 4 n ; 22,
-
-21; 23, 3.
-Ramak-tora, man, Bd, 31, 7.
-Rangha r, or lake, Bd, 19, 1 5 n ; 20,
-
-8n.
-Raoidhito m., Bd. 12, 27 n.
-Rapitvin gah, Bd. 2, 8, 9; 25, 9, 10,
-
-12, 14; 81.7, in; 12, 31,
-Rashnu, angel, Bd. 27, 24 ; 31, 3 ;
-
-Byt. 2, 59 n; 3, 32 ; SI. 1, 2 n ;
-
-17, 4, sn; 22, 18; 23, 3,
-Ra-k, Professor, Int, 25, 27,
-RaspT, priest, Bd. 30, 30.
-Rathwo berezato, Av., 81. 11, 4n.
-Ratij^taitih nask, SI. 10, 29.
-Ravak m., Bd. 12, 29, 35.
-Receptacle for the dead, 81. 9, 7,
-
-See Depository,
-Regulus, star, Bd, 2, 8 n.
-Renovation of the universe, Bd, 1,
-
-25; 6, 4; 13, 17; 18, 4; 19,
-
-13, 14; 22, 7; 27, 4; 29, 6;
-30, 17, 32; Zs. 1, 16, 19; 4, 2;
-
-5,3.
-
-Renunciation of sin, 81, 4, 14; 8,
-I n, 4, 5, (7-10,) 12-14, 16, 17,
-21,(23;) 9,6; 20,11.
-
-Resurrection, Bd. 1, 21; 11, 6 ; account of, Bd. 30, 1-33 ; not for
-some, 81. 17, 7 ; where, SI. 17,
-11-14.
-
-Revand m., Bd. 12, 2, 18, 23, 34 n ;
-17, 8 ; Zs. 11, 9.
-
-Revolving of luminaries, Bd, 5, 3-9,
-
-Ridge of Vijtasp, m,, Bd. 12, 18 n,
-34; 17,8; Zs, 11, 9,
-
-Ritual, SI. 5, 2, 3, 5, 6; 12, 23.
-
-Rivas-plant, Bd. 15, 2 ; Zs. 10, 4.
-
-Rivayats, Pahlavi, Int. 60; Persian,
-Int. 57, 67; Zs. 9, in; Byt. 1,
-in; 3, 25 n, 43 n, 52 n, 61 n;
-SI. 1, 2 n ; 2, 2 n, 4 n, 5 n ; 8,
-in; 9, 9n; 10, 3 n, 4n, 13 n,
-21 n, 25 n, 26 n, 28 n, 29 n ; 12,
-4 n, 17 n ; 16, 6 n ; 17, 5 n ; 19,
-I n, 2 n, 4 n, 5 n, 7 n, 9 n-14 n.
-
-Rivers, Bd. 7, 15-17; 20, 1-34; 21,
-2-4, 6 ; 24, 14, I 5 ; Zs. 6, 20, 21.
-
-Romans, Byt. 2, 19 n.
-
-Roshan, com., Byt. 3, 3 ; 81. 1, 4 n ;
-2, 39, 86, 107.
-
-— m., Bd. 17, 6.
-
-Roshano-kerp, fire, Byt. 3, 29.
-
-Royijn-homand m., Bd. 12, 2, 27.
-
-Rubanik sin, see Sin affecting the
-soul.
-
-
-INDEX.
-
-
-Rik/astam, man, Bd. 31, 41.
-Rulers, the live, SI. 13, 11, 15, 41 "»
-
-44; 19> 5-
-Ruman, Bd. 34, 8 ; Byt. 2, 49 I 3,
-
-8, 9, 34, 51-
-Rumans, Byt. 2, 50.
-
-Rustam, man, Bd. 29, 7 " ; 31,
-
-36 n, 41 n.
-
-Sacred butter, Si. 2, (43;) 3, 32n;
-10, 34; 11, 4n; 14, 3-
-
-— cake, Byt. 2, 36,57 n; SI. 2,43n;
-
-3, (32,) 35; 5,5; 7,4"; 8,20;
-
-9, IT, i2n; 10,2, 34-36 ; 12, i,
-8,9; 14, 1-3; 16,6; 17, 2,4,
-Sn; 18, 4n.
-
-— feast, SI. 12, 19; 13, 25; 18,3,(4.)
-
-— fire, SI. 2, 46, 49 ; 7, 9- See Vahram fire.
-
-— milk, SI. 2, (43;) 13, i2n.
-
-— shirt, Bd. 28, 8, 10; SI. 4, 2n,
-
-(5-8,) 13, 14-
-
-— thread-girdle, Bd. 28, 8, 10 ; 30,
-
-3on; Byt. 2, 36, 44,57,58; §1-
-3, 3211; 4, (1-4,) 6-8, II, 13,
-14; 10, I, 13.
-
-— twigs, Byt. 2, 36, 57, 58 ; 3, 29,
-
-(32,) 33; 8, 18; 10, 35; 12,1;
-13, i2n; 14, 2.
-
-— twig-stand, SI. 3, 32 ; 10, 35.
-Sadaro, SI. 4, 5 n. See Sacred
-
-shirt.
-Sad-dar Bundahij, Int. 22 n, 45, 59n ;
-
-SI. 10, 2on; 12, sn; 17, 411.
-Sadis, SI. 8, 6 n. See Three nights.
-Sa^astaran, Bd. 30, 10.
-Safed koh, m., Bd. 12, 2 2n,
-Safed rud, r., Bd. 20, i3n, 230.
-Sagansih, land, Bd. 31, 37.
-Sagastan, land, Bd. 12, 9, 15; 13,
-
-16 ; 20, 17, 24n, 29; 22, 5; 24,
-
-28; 31, 3711; Zs. 7, 7, 9; Byt.
-
-3, 19.
-Sag-dy, see Dog's gaze.
-Sagittarius, Bd. 2, 2 ; 34, 6 ; SI.
-
-21, 2.
-Sahm, man, Bd. 31, 27.
-Sairima, land, Bd. 15, 29 n; 31, 9n ;
-
-Byt. 3, 3n,
-Saka^um nask, SI. 10, (25;) 12, 2,
-
-10, 12; 13, i7n, 30.
-
-Salm, prince, Bd. 15, 29 ; 20, i2n;
-
-Salman, land, Bd. 20, 12 ; Byt. 3, 3 ;
-
-
-Sam, man, Bd. 29, 7, 9; 31,36;
-
-Byt. 3, 60, 61.
-Saman, title, Byt. 3, 59.
-Samarkand, land, Bd. 12, 13 n; 15,
-
-29 n; 20,20; Zs. 7, 7n; Byt.
-
-2, 49n; 3, i4n.
-Samarkandian, Byt. 3, i7n.
-Sarak, land, Bd. 12, 35.
-Sarsaok, ox, Bd. 15, 27 ; 17, 4 ; 19,
-
-13 ; Zs. 11, ion.
-Sasan, man. Int. 19 n ; Bd. 31, 30.
-Sasanian inscriptions. Int. 19, 20;
-
-Byt. 2, 4n.
-— Pahlavi, Int. 19-21.
-Sasanians, Int. 11, 15, 19, 21; Bd.
-
-31, 32 n; 33, 2n; 34, 9; Byt.
-
-2, i8n, 2on ; 3, iin.
-Satan, Bd. 3, 9n.
-Sataves, gulf or lake, Bd. 13, 9, 10,
-
-12, 13 ; 22, I, 9 ; Zs. 6, 16-18 ;
-
-star, Bd. 2, 7 ; 5, i ; 13, 9n,
-
-12 ; 24, 17; Zs. 6, 16; S1.14, 5.
-Satli^ r., Bd. 20, 9n.
-Satuih, SI. 8, 6n. See Three nights.
-Saturn, planet, Bd. 5, i ; 28, 48 ;
-
-Zs. 4, 7-10.
-Sauka'vastdn, land, Bd. 29, 4, 5, 13.
-Savah, region, Bd. 5, 8, 9 ; 11, 3 ;
-
-29, I ; Byt. 3, 47-
-Savar, demon, Bd. 28, 9, 10; 30,
-
-29. See Sovar.
-Scorpio, Bd. 2, 2 ; 34, 5 ; SI. 21, 2.
-Seas, Bd. 7, 6, 14 ; 11, 2, 4 ; 13, i,
-
-5-17 ; 24, 23 ; Zs. 6, 6,7, 14-19.
-Season-festivals, Bd. 25, i, 3, 6;
-
-Byt. 2, 45 ; SI. 10, 2 ; 12, 19,
-
-31; 13, 29; 18, (3,) 4; 19, 4.
-Seasons, Bd. 25, 3-17, 19, 20.
-Se^, demon, Bd. 28, 26.
-Selections of Za^/-sparam, where
-
-found. Int. 46; age, Int. 47;
-
-contents. Int. 48 ; aiSS., Int.
-
-48-50.
-Seleucus Callinicus, Byt. 2, ign.
-Semitic words in Pahlavi, Int. 13,
-
-14, 17, 18 ; in modern Persian,
-
-Int. 14.
-Seni, land, Bd.l2, nn; 15,29; 20,
-
-30 n ; SI. 6, 7n.
-Seno bird, Bd. 14, iin, 23n; 18,
-
-9n ; Zs. 8, 4. See Griffon.
-Serosh, see Srosh.
-Serpent, Bd. 30, 31.
-Sevan lake, Bd. 22, 8n; 24, 2 3n.
-Sfend nask, SI. 10, 4 n. See
-
-Spend.
-
-
-Shadows, midday, SI. 21, 1-3; —
-afternoon, SI. 21, 4-8.
-
-Shah 'Abbas, Byt. 3, 3411, 44n.
-
-Shahpuhar, king. Int. 19; Bd. 33,
-2; Byt. 2, i8n.
-
-Shahpur, king, Byt. 2, 18 ; 3, 14.
-
-Shahrivar, angel, Byt. 2, 59 n. See
-Shatvairo.
-
-Shapik, see Sacred shirt.
-
-Shapur II, Bd. 33, 2n, sn; Byt. 2,
-1 8 n ; 81. 8, 2 3 n ; 15, 1 6 n.
-
-Shatro-ram, man, Bd. 12, 2on.
-
-Shatvairo, angel, Bd. 1, 26 ; 27, 24 ;
-30, 19, 29; SI. 13, 14, 39; 15,
-3, 5, 14-19; 22, 4; 23, I :
-month, Bd. 25, 20.
-
-Shayast la-shayast, why so called.
-Int. 59, 60; extent. Int. 60;
-contents. Int. 60-62 ; age. Int.
-63-65 ; com. mentioned, Int. 63,
-64; nasks mentioned, Int. 64;
-MSS., Int. 65, 66 ; Paz. version,
-Int. 66 ; not hitherto translated,
-Int. 66, 67.
-
-She^/ak, man, Bd. 31, 18.
-
-She<^/aspih, fiend, Byt. 3, 3, 5, 8, 21.
-
-Shiraz, town, Bd. 29, i4n.
-
-Shirt, see Sacred shirt,
-
-Shirtashosp, man, Bd. 33, 4.
-
-Shirvan r., Bd. 20, 2 5n.
-
-Shnuman, ritual, 81. 3, 35 ; 7, (8 ;) 9,
-II n; 10, 2 ; 14, 3.
-
-Shustar, town, Bd. 20, 26 n.
-
-Sighing, cause of, 81. 12, 32.
-
-Sikandar, king, Bd. 34, 8n ; Byt. 2,
-i9n.
-
-Si^idav m., Bd. 12, 2.
-
-Silver age, Byt. 1, in, 5 ; 2, 17.
-
-Simurgh, bird, Bd. 14, 1 1 n ; 18, 9 n ;
-24, I in.
-
-Sin, Zs. 1, 13, 18 ; Byt. 2, 40; 3,57;
-SI. 2, 53,91, 106; 5,6; 6,4,6;
-8, 19; 10, 3, 18,25,27; 12, 31 ;
-15, 22, 26-28, 30 ; 20, 15 ; affecting accusers, 81. 8, (i,) 14,
-15, 17 ; affecting the soul, SI. 8,
-(i,) 16 ; degrees of, 81. 1, i, 2 ;
-11, I, 2 ; 16, 1-5 ; harm, Bd. 5,
-2 ; 19, 20 ; imputed, 81. 5, i ;
-6, 2 ; 8, 13; making water on
-foot, 81. 4, 8 n ; 10, 5 ; mortal,
-SI. 8, 7, 18, 21, 23; running
-about uncovered, Bd. 28, 8, 10 ;
-Byt. 2, 38; 81. 4, (8)-io; unseasonable chatter, Bd. 28, 19 ;
-81.4,(9;) 5; 1-7 ; walking with
-
-
-one boot, Bd. 28, 13; SI. 4,
-8n, (12.) See AredCu, Farman,
-Khor, Renunciation, Tanapuhar. Worthy of death, Yat.
-
-Sinamru, bird, Bd. 24, 1 1 n.
-
-Sind, land, Bd. 15, 29 ; 20, 9, 30.
-
-Sinik congregation, SI. 6, 7.
-
-Sinners, 81. 15, 17 ; mortal, 81. 8, 5 ;
-put to death, 81. 8, 6, 7, 21, 22 n.
-
-Sirius, star, Bd. 2, 7n; 7, in; 81,
-14, 5 n.
-
-Sirkan, town, Bd. 33, 1 1 n ; Zs. 1, on.
-
-Sirozah, ritual, 81. 7, 8n; 17, 5n.
-
-Sistan, land, Bd. 12, 9n, See Sagastan.
-
-Siyah koh, m., Bd. 12, 2 2n.
-
-Siyak-homand m., Bd. 12, 22.
-
-— mui-mand m., Bd. 12, 2,
-
-— tora, man, Bd. 31, 7-
-Siyakmak, man, Bd. 15, 25, 30; 31,
-
-I, 6; 32, in.
-Siyavakhsh, prince, Bd. 28, 15 n;
-
-31, 25 ; Byt. 3, 25, 26 ; SI, 10,
-
-28n.
-Snake-killer, Bd. 28, 22.
-Sneezing, cause of, 81. 12, 32,
-Softi, tribe, Byt. 2, 49.
-Sogdiana, land, Bd. 20, 8n,
-Soghd, land, Bd. 20, 19.
-86k-t6ra, man, Bd. 31, 7 ; 32, i n.
-Soshyans, apostle, Bd, 11, 6 ; 29, 6 ;
-
-30, 3, 4, 7,17, 25, 27; 32, 7n,
-8; Byt. 3, 6in, 62 ; 81. 13, 5;
-com., SI. 1, 3 ; 2, 2 n, 56, 74, 80,
-118, 119; 3, 13; 6, 4, 5,
-
-Sovar, demon, Bd, 1, 27; 28, 9n,
-See Savar.
-
-— lake, Bd.l2, 24n; Zs. 6, 22. See
-
-next.
-Sovbar lake, Bd. 7, 14 ; 12, 24 ; 22,
-
-I, 3 ; Zs. 6, 22 n.
-Spaenyasp, man, Bd. 31, 14, 27.
-Spahan, land, Bd. 12, 40; 20, 26;
-
-31, 40.
-
-Spans, Bd. 26, 3 ; 81. 16, 4 ; 21, 2 n.
-Sparnak, man, Bd. 31, 40.
-Spazg, demon, Bd. 28, 31,
-Sped r., Bd. 20, 7, i3n, 23.
-Spe^Z-raxur, forest, Bd. 24, 16 n;
-Byt. 3, 9, 21.
-
-— tora, m,an, Bd. 31, 7.
-Spenak-mainok, Bd. 1, in. See
-
-Beneficent spirit.
-Spend nask, 81, 10, (4;) 12, 3, 11,
-15, 29.
-
-— r., Bd. 20, 7n, i3n, 2 3n.
-
-
-INDEX.
-
-
-Spendarma^, angel, Bd. 1, 26 ; 15,
-
-i; 27, 24; 30, 29; Zs. 10, 3;
-
-Byt. 2, 8, 16, 31, 48, 53, 59";
-
-SI. 10, 28; 11, 4; 13, 14; 15,
-
-3, 5, 20-24; 22, 5; 23, I ;
-
-month, Bd. 25, 6, 7, 11, 20.
-Spend-da«', prince, Bd. 31, 29, 30;
-
-34,8; Byt. 2, 17.
-Spendya,^m., Bd. 12, 2, 23.
-Spen^argak, demon, Bd. 17, i. See
-
-Aspen^argak.
-Spenijt fire, Bd. 17, i ; Zs. 11, i n.
-Spe«ta-mainyu, Av., Bd. 1, in.
-Spewta-mainyu gatha, SI. 13, 2n, 15,
-
-33-35, 51-
-
-ha, SI. 13, 33-
-
-Spewtem-Ahurem-mazdam ch., SI.
-
-13, 36.
-Spetos, land, Bd. 20, 8.
-Spiegel, Professor, Int. 25, 59, 71.
-Spitaman, man, Bd. 32, i ; title, see
-
-ZaratCut.
-SpitoW, chief, Bd. 29, i.
-Spitur, prince, Bd. 31, 3, 5-
-Spur, lun. man., Bd. 2, 3.
-Srit, man, SI. 22, 32 ; woman, Bd.
-
-32,5.
-
-Srftak, woman, Bd. 32, 7n.
-
-Srito, man, Zs. 11, ion.
-
-Srob, lun. man., Bd. 2, 3.
-
-Srosh, angel, Bd. 19, (33 ;) 27, 24 ;
-
-30, (29,) 30; 31,38; Zs. 11, 7;
-
-Byt. 2, 59n; 3, 25, 26, 32, 59;
-
-SI. 13, 43; 17,3,50,6; 22, 17;
-
-23, 3. ^
-Sr6sh6-/^aranam,wt., SI. 4, ion, (14;)
-
-5, 3; 6, 3; 8,9; 10, 24; 11,1,
-
-2 ; 16, 5-
-Srwva, place, Bd. 29, 14.
-Sruvo, ox, Zs. 11, 10.
-Steel age, Byt. 1, in, 5 ; 2, 21.
-Step, meas., Bd. 26, 3n.
-Stir, wt., SI. 1,(2;) 3, 25, 26; 7, 3;
-
-11, 2 ; 16, 2n, 3n, 4, 5-
-S*6tan yasno, ritual, SI. 13, i.
-Stu^j'gar nask, Byt. 1, (i ;) SI. 10, 8 ;
-
-12, 32.
-Stuto-garo ha, SI. 13, 22.
-Sude, land, Bd. 20, 14.
-
-Su^ar nask, Byt. 1, in ; SI. 19, i n.
-
-See Stufl'gar.
-Sughdha, land, Bd. 15, 29 n.
-Summer, Bd. 25, 4, 5, 7-10, 13-17,
-
-19, 20.
-Sun reverence, SI. 7, 1-6; 12,
-
-31-
-
-
-Supreme high-priest, Bd. 24, i ; SI.
-
-9,3.^
-
-— Zaratujt, SI. 13, 11, 15, 38, 41,
-
-44; 19, 5.
-Surak, land, Bd. 15, 29 ; 20, 8 ; man,
-
-Bd. 31, 19.
-Suristan, land, Bd. 15, 29 n ; 20, 10.
-Syr-darya, r., Bd. 20, 20 n.
-Syria, Bd. 15, 29 n; 20, ion,
-
-5ahi-bun sea, Bd. 13, 7, 15.
-Sam, man, Bd. 31, 27 n.
-5an, man, Bd. 31, 17, 18.
-5arva, god, Bd. 1, 27 n.
-SeV, r., Bd. 20, 7.
-5er, zod., Bd. 2, 2.
-Sidasb, man, Bd. 31, 27 n.
-Skinas, man, Bd. 33, 3n.
-Sok, bird, Bd. 19, 19.
-
-Taf/-s6idhij ha, SI. 13, 49.
-Ta^-thwa-peresa ha, SI. 13, 28.
-Taham, man, Bd. 33, 4.
-Tahmasp, man, Bd. 31, 2 3n.
-Tairei', demon, Bd. 1, 27 ; 28, 1 1 n ;
-
-30, 29.
-Takhmorup, king, Bd. 17, 4 ; 31, 2,
-3 ; 32, I n ; 34, 4 ; Zs. 11, ion ;
-Tambayak, demon, Bd. 31, 6.
-Tanapuhar good work. Si. 1, (in;)
-2, 79", 93; 6, 3, 4, 6; 7, 4 ; 8,
-20 ; 16, 6 ; 18, 4n.
-— sin, SI. 1, I, (2 ;) 2, 40, 50, 51, 53,
-69, 70, 79n, 80, 82 ; 3, 26-28 ; 4,
-10, 12 ; 5, 3, 4; 8, 20; 10, 5,
-17, 35n; 11, i, 2 ; 12, 4 ; 16,5-
-Tanuperetha, Av., SI. 1, in.
-Taparistan, land, Bd. 12, 17; 13,
-
-15; 20, 27; Byt. 3, 19.
-TaprcT;, demon, Bd. 28, 11,13. See
-
-an^e-T;.
-Taraha, lun. man., Bd. 2, 3.
-Tarazuk, zod., Bd. 2, 2 ; 5, 6.
-Tarmaz, town, Bd. 20, 28 n.
-Taromat, demon, Bd. 28, 14 ; 30,
-
-29.
-Tashkand, town, Bd. 20, 20 n.
-Taurus, zod., Bd. 2, 2 ; SI. 21, 2.
-Ta-Vf-urvata ha, SI. 13, 6, 14.
-Tax, man, Bd. 15, 28 ; 31, 6 ; SI.
-
-10, 28n.
-Tazak, woman, Bd. 15, 28.
-Te?end r., Bd. 20, isn.
-Teheran, town, Bd. 12, 31 n; 31,
-40 n ; SI. 13, im.
-
-
-Terak m., Bd. 5, 3, 4 ; 12, 2, 4.
-Teremet r., Bd. 20, 7, 911, 28.
-Thraetaona, king, Bd. 31, 4n, yn.
-Three-legged ass, Bd. 19, 1-12.
-Three-nights' ceremony, SI. 8, 6 ;
-
-10, 2; 12, 5, 31-
-
-punishment, Bd. 30, 13, 16;
-
-SI. 8, 5, 7,16.
-Thrita, man, Bd. 31, 26 n, 27 n; Zs.
-
-11, ion; Byt. 3, nn; SI. 22,
-32n.
-
-Thritak, man, Bd. 31, 14.
-
-Thriti, woman, Bd. 32, sn.
-
-Tides, Bd. 13, 8, 11, 13, 14 ; Zs. 6,
-
-17-
-Tigris r., Bd. 20, ion, i2n, 25 n;
-
-Zs. 6, 2on ; Byt. 3, 3 n, 5 n, 2 in,
-
-38n.
-Time personified, Int. 70 ; Zs. 1,
-
-24-27; 4, 5.
-Tin age, Byt. 2, 20.
-Tir, angel (for Tutar), Bd. 27, 24 ;
-
-SI. 23, 2 ; month, Bd. 7, 2 ; 25,
-
-3, 20; Zs. 6, 2; planet, Bd.
-
-5,1.
-Tijtar, angel, Bd. 7, 2-4, 7-10; 9,
-
-2 ; 11, 2 ; 19, 1 1 ; 27, 3 ; Zs. 6,
-
-I, 3, 9, 10, 13; 8, i; Byt. 2,
-
-59n; 3, i4n; SI. 22, 13 ; see
-
-Tir ; star, Bd. 2, 7 ; 5, i ; 7, i ;
-
-SI. 14, 5.
-Toothpick, how to be cut, SI. 10, 20 ;
-
-. .12,13.
-Tora, zod., Bd. 2, 2.
-7ort r., Bd. 20, 7n, 24.
-Translations of Bd., Int. 24-26,
-
-43-45 ; of Byt., Int. 57,59; of
-
-SI., Int. 66, 67 ; plan of these.
-
-Int. 70-74.
-Tree of all germs, Bd. 9, 5, 6 ; 18,
-
-9 ; 27, 2 ; 29, 5 ; Zs. 8, 3.
-Tribe-ruler, SI. 13, 11, 15, 41 n, 44;
-
-19,5.
-
-Tu^, prince, Bd, 31, 9, 10, 12, 14,
-
-Tuhmaspian, title, Bd. 31, 23 ; 34,
-
-Tuirya, tribe, Bd. 15, 29 n ; 31, 9n.
-Tur, land, Bd. 12, 20 ; 15, 29 ; 21,
-
-6; 30, 16; 31, 27 n; Byt. 2,
-
-6^2 ; 3, 34.
-
-— Bragresh, Byt. 2, 3n,
-
-— i Bra^/arvash, Byt, 2, 3.
-Turak, man, Bd. 31, 14, 27.
-Turan, land, SI. 10, 2 8n.
-Turanian syllabary. Int. 13.
-
-
-Turk, tribe, Bd. 29, 7 ; Byt, 2, 49 ;
-
-3, 7-9, 51.
-Turkistan, land, Bd. 12, 13, 39 ; 15,
-
-29n;29, 13; Byt. 2, 24n, 49n ;
-
-3, 2in ; SI. 6, 7n.
-Turks, Byt. 2, 24 n, 5on.
-Tus m., Bd. 22, 3 ; land, Bd. 12, 24;
-
-20, 30 ; man, Bd. 29, 6.
-
-TJda, demon, Bd. 28, 19; 31, 6n.
-Udai, demon, Bd. 31, 6.
-Ukhshya,^-ereta, apostle, Bd. 32, 8n.
-
-— nemangh, apostle, Bd. 32, 8 n.
-'Uman gulf, Bd. 13, pn.
-Uncleanness, period of, SI. 2, 41, 42,
-
-44, 62, 105-109; 3, 14-18.
-Unseasonable chatter, see Sin.
-Ursa major, Bd, 2, 7n ; SI, 11, 4n,
-Urumiyah lake, Bd. 22, 2n, 8n,
-Urupi dog, SI. 2, 59 n.
-Urui-vi^a, man, Bd. 32, 7.
-Urvad-gd, man, Bd. 31, 31 n ; 33, 4.
-Ur'vad-gdi-frast,m'^\\, Bd. 31, 31.
-Urvakhshaya, man, Bd. 31, 26 n.
-Urvandajp, man, Bd. 32, i n.
-Urvaram, twig, SI. 3, 32 n.
-Urvatad-nar, man, Bd. 29, 5 ; 32,
-
-5".
-Ur'vdzist fire, Bd. 17, i. See Aurvazijt.
-Urvig, woman, Bd. 32, 7n.
-Uri'is lake, Bd. 13, 4n ; 22, i, 11.
-Usefriti, Av., SI. 13, 30 n.
-Ushahina gah, Bd. 19, 15 n ; 25, 9n ;
-
-Byt. 2,59n;S1.14, 4n;17,5n.
-Ushidarena m., Bd. 12, 6n.
-UshidhrtU m., Bd. 12, 6n.
-Usinemangh, man, Bd. 31, 33n.
-Uspasnu, title, Bd. 29, i n.
-Ujta-Ahurem-mazdam ch., SI. 13,
-
-32.
-Ujtavaiti gatha, SI. 13, 2n, 15, 27-31,
-
-51.
-
-— ha, SI. 13, 27.
-Uzaiti, span, Bd, 26, 3n,
-Uzava, king, Bd. 31, 2 3n.
-
-Va^, angel, Bd. 27, 24 ; SI. 11, 4 ;
-22, 22; 23, 3; day, Byt. 3, 16.
-Va</ges m., Bd. 12, 2, 19.
-Va^gesians, Bd. 12, 19.
-Vae the bad, demon, Bd. 28, 35.
-
-— the good, angel, SI. 11, 4 ; 17, 4,
-
-5n,
-Vae-bukht, man, Bd, 33, 6, 8.
-Faedist, man, Bd. 32, i n.
-
-
-INDEX.
-
-
-Faetand-i Rdghinoid, woman, Bd. 31,
-
-23.
-Vafar-homand m., Bd, 12, 2, 22.
-Va^, SI. 3, 611; 16, 6n. See Inward
-
-prayer.
-Va^arkarrt'-i Dinik, quoted, Bd. 32,
-
-I n, 5 n, 7 n ; its author, SI. 1, 3 n.
-Vahidhros, man, Bd. 33, 3.
-Vahik, zod., Bd. 2, 2 ; 5, 6.
-Vahijt, see Heaven.
-Vahijtem-Ahurem-mazdam ch., SI.
-
-13, 46.
-Vahijtoiiti gatha, SI. 13, 2 n, 1 5, 41-45,
-
-51-
-Vahram, angel, Bd. 27, 24 ; Byt. 3,
-32 ; SI. 22, 20; 23, 3; day, Bd.
-25, 3 ; planet, Bd. 5, i.
-
-— fire, Bd. 17, i, 2, 9; Byt. 2, 26,
-
-37 ; SI. 2, 46n, 49n. See Sacred
-fire.
-
-— Gor, king, Byt. 2, 20.
-
-— i Var^avand, king, Byt. 3, 14, 32 n,
-
-39, 44 n, 49.
-
-— sha(7, man, Bd. 33, 11.
-Vaht, lun. man., Bd. 2, 3.
-Fakaeni r., Bd. 20, 34.
-Vakhsh, man, Bd. 33, 3.
-Vakht-airu/, com., SI. 1, 4n.
-Valkhaj, king, Byt. 2, i9n.
-Van lake, Bd. 22, 8n ; 24, 2 3n.
-Vanand, star, Bd. 2, 7 ; 5, i ; SI. 11,
-
-4 ; 14, 5.
-Vand-Auharmazd, com., SI. 1, 4n;
-
-2, 2, 6, 44 ; 14, 5.
-VandW-khim, priest, Byt. 3, 39.
-Fanfrag/xsn, man, Bd. 31, 7.
-VanWar, man, Bd. 31, 9.
-Vano-i-fravijn, man, Bd. 32, i n.
-Varak, zod., Bd. 2, 2 ; 5, 6, 7.
-Faranf, lun. man., Bd. 2, 3.
-Vareno, demon, Bd. 3, 17 ; 28, (25.)
-Fdresha bird, Bd. 14, 30.
-Varzi<a'-din, man, Bd. 32, in.
-Vas-i pan>^asa^varan, fish, Bd. 18,
-
-5,7.
-Vayo, demon, Bd. 28, 35 n.
-Vazijt fire, Bd. 7, 12 ; 17, i, 2 ; Zs.
-
-6, 13 ; 11, I, 5; SI. 13, 26.
-Vehr., Bd. 7, 15, 17; 20, i, 3, 5-7,
-
-8n, 9, 22, 28, 30 ; 21, 3 ; Zs. 6,
-
-20; Byt. 3, 17, 38.
-Veh-atViJ, woman, Bd. 31, 30.
-Veh-dost, com., SI. 1, 4n.
-Ftndese?, r., Bd. 20, 29.
-Vendidad, ritual, Byt. 2, 59 n; SI.
-
-12, 26 ; 16, 6n ; 17, 5 n ; oldest
-
-
-MSS. of. Int. 21; referred to,
-SI. 1, I ; 2, 1 , 1 2 , 5 5 n, 1 1 8 n ; 10,
-5, 19, 31, 32; 12, 6, 20; 13, 7;
-quoted, Si. 12, 4, 25 ; 13, 8, 19 ;
-Av. passage translated, SI. 2,
-95 n; Pahl. do. do., SI. 1, in;
-
-2, i8n, 3in, i23n, i24n; 3, i n,
-1 1 n, i2n ; 4, ion.
-
-Venus, planet, Bd. 5, i ; Byt. 3, 4n,
-
-18.
-Fergdn sea, Bd. 20, 24.
-Vibazu, meas., Bd. 26, 3n.
-Vida^afsh, region, Bd. 5, 8, 9 ; 11, 3 ;
-
-25, 10; 29, I ; Byt. 3, 47.
-Vtdast, man, Bd. 32, i.
-Village-ruler, SI. 13, 11, 15, 4in, 44;
-
-. .19. 5-
-
-Vinasp, man, Bd. 33, 3.
-
-Vindad'-i-ped'ak, man, Bd. 33, 6, 8.
-Virafsang, man, Bd. 31, 6.
-Virak, princess, Bd. 31, 9 n.
-Virgo, Bd. 2, 2 ; 34, 2 ; SI. 21, 2.
-Visak, man, Bd. 31, 16, 17.
-Vij-haurva dog, Bd. 14, 19 n; 19,
-
-34-
-Vi^nasp fire, Zs. 6, 22 n; Byt. 3, 10.
-
-See Gujasp.
-Vispan-frya, woman, Bd. 31, 18.
-Visparad, ritual, Byt. 2, 59 n ; SI. 16,
-
-6 ; chapters cited, SI. 13, 5, 26,
-
-32, 36, 39, 40, 46, 48.
-Vijtasp, king, Bd. 12, 32 ; 17, 6, 8 ;
-20, 31 n; 28, 15 n; 29, 5 ; 31,
-29; 32, 5; Zs. 11, ion; Byt.
-1, in, 4; 2, I, 16, 49 n, 58-60;
-
-3, 9, 25, 26, 290, 30, 51, 52;
-SI. 10, 2in; 11, 4. See Kai-
-Vijtasp.
-
-Vitast, span, Bd. 26, 3 n; SI. 21, 2 n.
-Vivanghaii, man, Bd. 29, 6 ; 31, 2,
-
-7 ; 32, I n.
-Fizak, man, Bd. 32, i n.
-Vizaresh, demon, Bd. 28, 18.
-Fohii-frydn fire, Bd. 17, i ; Zs. 11,
-
-I n.
-Vohu-khshathra gatha, SI. 13, 2 n, 15,
-
-37, 3811, 51.
-Vohfi-khshathrem-yazamaide ch.,
-
-SI. 13, 39.
-Vohuman, angel, Bd. 1, 23, 25,
-
-(26 n;) 7, 3; 27, 24; 30, 29;
-
-Zs. 6, 3; 9, 6; 11, ion; SI.
-
-13, 14; 15, 3, 5, 9-1 1 ; 22, 2;
-
-23, I ; his bird, SI. 10, 9 ; king,
-
-Bd. 31, 29, 30 ; 34, 8 ; Byt. 2,
-
-17 ; month, Bd. 25, 20.
-
-
-Vohuman-/('ihar, man, Bd. 33, 3.
-
-— yajt, ritual, Byt. 1, i n, 6 ; 2, r.
-Vologeses I, Byt. 2, 19 n.
-Vorubarjt, region, Bd. 5, 8, 9 ; 11,
-
-3, 4; 25, 10; 29, i; Byt. 3,
-
-^47-
-V6r%arjt, region, Bd. 5, 8, 9; 11,
-3, 4; 25, 10; 29, i; Byt. 3,
-47.
-
-Walking with one boot, Bd. 28, 1 3 ;
-
-— without boots, SI. 4, 12 n; 10,
-
-12.
-Washing the face, SI. 12, 21,
-
-— the hands, SI. 7, 2, 7 ; before
-
-sleep, SI. 10, 38.
-Weeks, SI. 23, 4 n.
-Well-water unclean at night, SI. 12,
-
-17.
-Westergaard, Professor, Int. 20 n,
-
-25, 28 n, 37-39, 41, 48, 71.
-
-Wife to worship with her husband,
-SI. 12, 30.
-
-Windischmann, Int. 25, 26.
-
-Winter, Bd. 25, 4, 5, 7, 8, 10-13,
-15-17, 19, 20 ; 28, I.
-
-Wisdom, like fire, SI. 20, 2 ; effect
-on the mind, SI. 20, 3.
-
-Wives, five kinds, Bd. 32, 6 n.
-
-Woman, after child-birth, SI. 3, 15 ;
-menstruous, SI. 2, 17, 96; 3,
-1-14, 16-22, 25-35; 8, 12 ; 10,
-39 ; 12, 4 n ; miscarriage, SI. 3,
-15, 22, 23; pregnant, SI. 2, 6,
-105; 3, 22; 10, 4, 10, 20; 12,
-II, 13 ; priest, SI. 10, 35.
-
-Worship, four kinds, SI. 9, 9, 10; of
-God, SI. 8, 22, 23; 10, 3, 5;
-19, 7; form of, SI. 12, i.
-
-Worthy of death, Bd. 30, 16 ; SI. 2,
-9, (40,) 63, 64, 76, 81, 82, 85,
-105, 107, 108; 8, 2, 4, 5, 7, 9,
-13, 18, 21, 23 ; 10, 19; 15, 22,
-23; 18, 4n.
-
-Wrath, race of, Byt. 2, 22, 24, 25,
-36; 3, I, 6, 10, 13, 21; — with
-infuriate spear, Byt. 2, 36 ; 3,
-24, 30, 35. See Aeshm, Khashm.
-
-Xerxes, Bd. 34, 8 n.
-
-Ya^ar-i Zariran, book, Byt. 2, 490.
-Tanidhitst, man, Bd. 29, 5.
-Tanghad, man, Bd. 31, 2. See Ayanghad.
-
-
-Ya-jkyaothana ha, SI. 13, 10, 14.
-Yasna, ritual, Byt. 2, 59 n ; SI. 9,
-
-I in, 12 n; 13, in; 16, 6n;
-oldest MSS. of, Int. 21; chapters cited, SI. 13, i, 2 n, 4, 6-
-12, 16-23, 25, 27-33, 35, 37, 38,
-41-45, 47, 49-51; of seven ch.,
-SI. 13, on, 15-25, son, 51.
-
-Ya.rt, ritual, SI. 12, i, 30 ; 16, (6 ;)
-
-17,^5 n.
-Yastofrk/, rite, SI. 5, 2, 6. See
-
-Yat sin, SI. 1, i, 2 ; 2, 5 1 ; 11, i, 2 ;
-16, 5.
-
-Yatha-ahu-vairyo formula, Bd. 1,
-(21;) Zs.l, (i9n;)2, 8; SI. 10,
-7; 12, 18, 32; 13, 13; recitations of, SI. 19, 1-15.
-
-Yatha-aij ha, SI. 13, 8, 14.
-
-Yawning, cause of, SI. 12, 32.
-
-Yazd, town, SI. 21, o n, 2 n.
-
-YazdakarJ, king. Int. 42 ; Bd. 33,
-
-II n ; 34, 9 n ; Byt. 3, iin.
-Yazdan, see Angels, God.
-
-— airikht, man, Bd. 31, 19.
-
-— sdiVTid, man, Bd. 31, 19.
-Yazijn, rite; Bd. 2, 9 ; 30, 25 ; SI.
-
-3, 35n; 13, in; 17, 3, 5. See
-also Ceremonial.
-
-Year, solar, Bd. 25, i, 21; lunar,
-Bd. 25, 18, 19.
-
-YeNhe-hatam formula, Byt, 2, (640;)
-^81. 10, 5^n ; 13, 24.
-
-Yezi-adaij ha, SI. 13, 33.
-
-Yim, king, Bd. 12, 20; 17, 5 ; 23,
-i; 31, 3-5, 6n, 7, 8; 32, in ;
-34, 4; SI. 10, 28 n; his enclosure, Bd. 19, 16; 24, 11;
-29, 4, 5, 14; 32, 5; Byt. 3,
-55-
-
-Yimak, queen, Bd. 23, i ; 31, 4.
-
-Yimakan m., Bd. 29, 14.
-
-Yqg-est, meas., Bd. 14, 28 ; 26, {i n.)
-
-Yudan-Yim, man. Int. 42, 46, 47,
-64; Bd. 33, ion, II ; Zs. 1, o.
-
-Yunan, see Greeks.
-
-Zab, king, Bd. 31, 23 n.
-
-— r., Bd. 20, 25 n.
-Zad.fam, man, Bd. 31, i4n.
-Zad'-sparam, priest. Int. 38, 42, 46-
-
-49; Bd. 33, ion, 11; Zs. 1, o,
-19 n ; 2, 6 n ; 4, in ; 5, 4 n,
-5 n ; 6, 20 n ; 9, i n, 22 n ; 10,
-5 n ; 11, ion; Byt. 2, 3 n ; SI.
-13, 50 n.
-
-
-INDEX.
-
-
-Zaesm, man, Bd. 31, 14.
-
-Zdgh, man, Bd. 33, 5.
-
-Zagros m., Bd. 12, 36 n.
-
-Zahdvayi r., Bd. 20, 25.
-
-Zainigav, man, Bd. 31, 6.
-
-Zairi^, demon, Bd. 1, 27; 28, 11;
-30, 29.
-
-Zairivairi, prince, Bd. 31, 29.
-
-Zal, man, Bd. 31, 37 n.
-
-Zamya^, angel, Bd. 27, 24; SI. 22,
-28; 23, 4.
-
-Zand (com.). Int. (10,) 21; Byt. 1,
-6,^7^ 2, I, 55.
-
-Zand-akas, book, Int. 23 ; Bd. 1, i;
-Zs. 9, in.
-
-Zandik, sect, SI. 6, 7.
-
-Zaothra, Av., SI. 2, 43 n. See Holywater.
-
-Zarafjan r., Bd. 20, 19 n.
-
-Zarah sea, Bd. 13, 16 n.
-
-Zaratuit, apostle, Bd. 4, 2 n ; 17, 8 ;
-21, 3; 24, I, 15; Zs. 11, ion;
-Byt. 1, 7n; 2, 4-7, 9; SI. 1,
-3n; 6, i; 10, 25, 28 n; chief,
-Bd. 29, 2 ; his family, Bd. 20,
-32; 29, 5; 32, i-io; Byt. 3,
-13, 47, 48; SI. 10, 4, 2in; 13,
-22; his guardian spirit, Bd. 4,
-4 ; SI. 11, 4 ; his millennium,
-Bd. 34, 9n; Byt. 1, 5 ; 2, 22,
-24, 31, 41; 3, II, 43") 44n;
-attacked by demons, SI. 10, 4 ;
-12, 3 n, 11; addresses Auharmazd, Bd. 30, 4 ; Byt. 1, i, 2 ;
-2, I, 12, 23, 57; 3, I, 12; SI.
-12, 29 ; 15, I, 3 ; 17, i, 1 1 ; addressed by Auharmazd, Byt. 2,
-58; 3, 11; SI. 9, 8; 10, 26;
-
-
-12, 32; 15, 30; called righteous,
-Byt. 2, II, 24, 41, 62; called
-the Spitaman, Byt. 1, 3, 5 ; 2,
-3, 4, 15, 22, 25, 28, 30, 31, 36,
-44, 54-56, 63; 3, 3, 4, 8-10, 13,
-14, 23, 24,43, 50; SI. 9, 14; 11,
-4; 12, 23; 15, 4.
-
-Zaratujt, man, Bd. 33, 11.
-
-Zaratijjtrotum, Bd. 24, 1. See also
-Supreme high-priest or Zaratujt.
-
-Zardahim, title, Bd. 31, 4.
-
-ZariJin., Bd. 12, 2, ion.
-
-Zarin m., Bd. 12, 29, 39.
-
-Zarinmand lake, Bd.22, 1,6; spring,
-Bd. 20, 34-
-
-Zarir, man, Bd. 31, 30; 33, 4;
-prince, Bd. 31, 29.
-
-Zarman, demon, Bd. 28, 23.
-
-Zav, king, Bd. 31, 23 n.
-
-Zavarah, man, Bd. 31, 41 n.
-
-Zavulistan, land, Byt. 3, 13 n.
-
-Zendr., Bd. 20, 15.
-
-Zendah r., Bd. 20, 15 n.
-
-Zhak, man, Bd. 32, i n.
-
-Zijmand r., Bd. 20, 7, I9-
-
-Ziyanak, woman, Bd. 31, 4-
-
-Zob, king, Bd. 34, 6. See Auzobo.
-
-Zobara-i'ahman, bird, Bd. 19, 19.
-
-Zodiacal signs, Bd. 2, 2 ; SI. 21, 2, 7.
-
-Zohab, land, Bd. 20, 25 n.
-
-Zohar, see Holy-water.
-
-Zondak r., Bd. 20, 7, 15"-
-
-Zota (priest), Bd. 30, 30.
-
-Zra-vad, place, Bd. 12, 35-
-
-Zravaka^, place, Bd. 12, 35-
-
-Zrvana, Av., Zs. 1, 24 n.
-
-Zujak, man, Bd. 31, 14-
-
-
-Ff
-
-
-ERRATA.
-
-
-P. 133, note 6, for 'daughter' read 'grand-daughter.'
-
-P. 161, note 4, for 'Da^-sparam' read * Za^-sparam ;' also in p. 167,
-
-note 5; p. 168, note 2; p. 177, note 3; p. 182, note i; p. 184,
-
-note 1.
-P. 199, note 6, for ' Shapur I ' read ' Shapur II.'
 
 

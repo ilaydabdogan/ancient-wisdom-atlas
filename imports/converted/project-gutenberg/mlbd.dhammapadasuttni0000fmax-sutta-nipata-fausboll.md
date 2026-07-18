@@ -1,75 +1,3 @@
-# The Sutta-Nipata (Sacred Books of the East, Vol. 10, Part II)
-SON te NTS.
-
-
-PAGE
-
-
-Prerace To New Epition : ; : : iX—xv
-INTRODUCTION TO THE DHAMMAPADA . = : . _ Xvii-Mxiii
-DHAMMAPADA.
-
-CuapPTer 1. The Twin-verses . 3 : : ; : 3
-oF 2. On Earnestness . : . : : ; 9
-Z 3. Thought. ‘ ; : ' wie Ee
-es 4. Flowers : ; : : : : b -8b
-5. The Fool . ; : ; : - 20
-5 6. The Wise Man (Pandita) ; i oe
-se 7. The Venerable (Arhat) . : ‘ : ae
-Se: Suey i | ae a ae
-FE 9. Evil . : ; A : : ; aa ae
-», 10. Punishment . : : , : ; 0
-ys Lb. Ol Age ; p : P : : Cent
-pee har Senet ; : : ; : ‘ eeey t=
-» 13. The World . ; : ; : orga’ |:|
-» 14. The Buddha,(the ay arg : . 50
-» 15. Happiness . : : : 5 P< "ey
-» 16. Pleasure : , : : ; i 57
-pee ky. Sanger. , : : ; 5 ; ioaes 1)
-ec 8.» doapurity >. on6t
-5 2¢ 19> Thecltast : : ; . 65
-» 20... The Way \-:. : : : : ; £268
-» 21. Miscellaneous : ; 5 ; Seid
-;, 22. The Downward Course . , ‘ : ey B.
-» 23 TheElephant. : ; ; engin
-,» 24 Thirst . ‘ : ‘ ee
-» 25. The Bhikshu (Mendicant) ean Ee ak.
-» 26. The Braéhmaaa (Arhat) . : ; : i. 00
-
-Index ; ; ; ; , ; : . : 7
-
-
-Transliteration of Oriental Alphabets adopted for the
-Translations of the Sacred Books of the East (see the
-end of this volume) . ; , ‘ ; . 209
-
-
-Se eee
-oe Pay sp a ee
-
-
-' : atte ri ¢
-
-
-Te ee ee
-ey _ ce ’
-ee oe _
-
-
-= aw oI , 4 :
-— 7 we a> 3 my
-7 > ee io od A _ 2. - .
-
-
-og. wi cos
-
-
-ly aay
-
-
->
-
-
 PREFACE
 
 
@@ -375,8 +303,7 @@ MSS. of the Tipizaka to help us to decide the question '.
 Those who divide that canon into three P.fakas or
 baskets, the Vinaya-pifaka, Sutta-pifaka, and Abhidhamma-pifaka, assign the Dhammapada to the Sutta-pifaka.
 That Pifaka consists of five Nikdyas: the Digha-nik4ya,
-the Magghima-nikaya, the Samyutta-nikaya, the Anguttaranikaya, and the Khuddaka-nikdya. The fifth, or Khuddakanikadya, comprehends the following works: 1. Khuddakapatha; x DHAMMAPADA; 3. Udana; 4. Itivuttaka; 5. Sutta-
-nipata ; 6. Vimanavatthu; 7. Petavatthu; 8. Theragathé ;
+the Magghima-nikaya, the Samyutta-nikaya, the Anguttaranikaya, and the Khuddaka-nikdya. The fifth, or Khuddakanikadya, comprehends the following works: 1. Khuddakapatha; x DHAMMAPADA; 3. Udana; 4. Itivuttaka; 5. Suttanipata ; 6. Vimanavatthu; 7. Petavatthu; 8. Theragathé ;
 g. Therig4th4; 10. Gataka; 11. Niddesa; 12. Paz#isambhida;
 13. Apadana; 14. Buddhavamsa ; 15. Kariya-pizaka.
 
@@ -733,7 +660,7 @@ as the works of Mahan4ma, by Professor Forchhammer in his List of Pali MSS.
 ? Introduction, p. xci.
 
 
-> See Khys Davilis, Journal of the Royal Asiatic Society, 1875, p. 196.
+) See Khys Davilis, Journal of the Royal Asiatic Society, 1875, p. 196.
 
 
 INTRODUCTION. XXV
@@ -2603,7 +2530,7 @@ of the Theravada school I must so far yield to the arguments of Pali scholars as
 use their language when speaking of their opinions.
 
 
-P m4 : < Eq
+P m4 : ( Eq
 pAles Ph
 
 
@@ -2624,18 +2551,18 @@ al
 
 mele by eu 5 f
 weg ot’
-> 220 we ha
+) 220 we ha
 
 
-ug ; Z ig a i €: Fi >, 3 Pied fog
+ug ; Z ig a i €: Fi ), 3 Pied fog
 , A a ~ ~~’ i p ail : . Zz
-. a : > Perret.
+. a : ) Perret.
 2 4 ’ . : a aad e Rete ED
 ; : : ee Ue ne ae es
 5 a
 
 
->! a
+)! a
 OF Se er os he :
 So ee - Cae eet te are
 
@@ -5778,7 +5705,7 @@ it, as he does not wish it, for a short time only.’
 THE DOWNWARD COURSE. a7
 
 
-ao tO ee a <a
+ao tO ee a (a
 
 
 318. They who see sin where there is no sin, and
@@ -6890,7 +6817,7 @@ Nishkashaya, free from impurity,
 play on word, 9.
 
 
-Old-in-vain, 26>.
+Old-in-vain, 26).
 Overcome evil by good, 223.
 
 
@@ -7216,7 +7143,7 @@ Z. Amagandhasutta : : : : é : = 39
 8. Navasutta , : } ; ; . ; ae
 9. Kimsflasutta . . ; : : : ; ee
 10. Ushanasutta . : ; ‘ : : A ~. Ba
-11. Rahulasutta . : : > ; ; ey 7
+11. Rahulasutta . : : ) ; ; ey 7
 12. Vangisasutta . ; ? : : : : - 55
 13. Sammaparibbaganiyasutta ‘ , ° «i 58
 14. Dhammikasutta ; ; : y ‘ , . 61
@@ -7739,7 +7666,7 @@ a J
 » ¥ «’,- 7
 q ese "el a
 
-mall “ >. «0 oe al
+mall “ ). «0 oe al
 " = eae, % :
 
 ‘ - ed ” Onn
@@ -7767,18 +7694,18 @@ ree 7) a eter Ne pai ih oe
 ’ Re — Pi | ‘pa? ¥ oo ;
 we
 a? — noe 4 ‘
-<! wh i mG Ary wT? y a that.
+(! wh i mG Ary wT? y a that.
 - » an ae “4 a hc
 + 4 ie pid
 fe) _ 4 sale siti eel 9? ,
-> 4 “4 ; a 7 i
+) 4 “4 ; a 7 i
 eaenVY MRA pot
-> a cae poten pee! uk ear
+) a cae poten pee! uk ear
 Bay on * ech ie) - 1 , :
 ‘“— @ ry wt ee va . : m
 Tesi ie dikypes vtoht,— haa eae
 ‘ ae 7 ; » a Tp. oe rie 7 ast — Ss 3 i : “
->A, ! -_ ae eon, “
+)A, ! -_ ae eon, “
 : vi a - : j . - a :
 ‘ ar -
 i ay i io
@@ -10841,7 +10768,7 @@ the speech that is provided with these four requisites, is well-spoken, not ill-
 Nibbiggapema Gotamamt.
 
 
-* C> Ck Avagea, B* assagya, Blassagga. + Instead of Gotamazz I read Gotama.
+* C) Ck Avagea, B* assagya, Blassagga. + Instead of Gotamazz I read Gotama.
 
 
 and blameless to the wise. This said Bhagavat.
@@ -14530,7 +14457,7 @@ decay and origin in (all) bodies‘, a person forms
 
 
 ? Ye samparayaya narassa honti. * Khanda.
-> Vinikkhaya. ‘ Rapesu disva vibhavam bhava# fa.
+) Vinikkhaya. ‘ Rapesu disva vibhavam bhava# fa.
 
 
 7. ‘Anger and falsehood and doubt, these Dhammas are a couple!; let the doubtful learn in the way
@@ -15127,7 +15054,7 @@ of the energetic Bhikkhu ? (961)
 
 8. ‘What study having devoted himself to, intent on one object‘, wise and thoughtful, can he
 blow off his own filth as the smith (blows off) that
-of the silver > ?’ (962)
+of the silver ) ?’ (962)
 
 9. ‘What is pleasant for him who is disgusted
 (with birth, &c.), O SAriputta,—so said Bhagavat,
@@ -15235,7 +15162,7 @@ To the Brahmana Bavart, living on the banks of the Godhavari,
 in Assaka’s territory, comes another Bréhmava and asks for five
 hundred pieces of money, but not getting them he curses Bavari,
 saying, ‘May thy head. on the seventh day hence cleave into
-seven. <A deity comforts Bavari by referring him to Buddha.
+seven. (A deity comforts Bavari by referring him to Buddha.
 Then Bavart sends his sixteen disciples to Buddha, and each of
 them asks Buddha a question.
 
@@ -16340,991 +16267,3 @@ Suttanipata is ended.
 arahattam papumi evam eva tvam pi mufdassu saddham tato saddhaya
 adhimukfanto sabbe samkhara aniféa ’ti Adina nayena vipassanam
 drabhitva makséudheyyassa param nibbanam gamissasiti arahattanikd/ena desanam ni//Aapesi. Commentator.
-
-
-Lice) eX:
-
-
-The figures of this Index refer to the pages of the Translation, and
-the numerals to the Introduction.
-
-
-Ababa hell, 119.
-
-Abbuda hell, r1rg, 120.
-
-Adikka family, 8, a 92, 199.
-
-Agga/ava temple, 56
-
-Aggika-Bhiradvaga brahmaaa, 20.
-
-Aganiya, high-bred, 84, gt.
-
-Agita-Kesakambali titthakara, xii,
-85.
-
-Agita maxava, xii, 179, 180, 182, 199.
-
-Agivika brahmaza, xiii, 62.
-
-Ahaha hell, rrg.
-
-Ahiara, food ? ? 237.
-
-Akhila, free from harshness, 34, 77,
-187.
-
-Akiszikana, possessionless, xv.
-
-Alwis, 20, 107.
-
-A/aka city, 176, 180.
-
-Alavaka yakkha, 29.
-
-Alavi city, 29, 31, 55-
-
-Alavi-Gotama, Z0i.
-
-Amagandha brahmaaa, 39.
-
-Anagamin, who does not return, 130,
-131.
-
-Anathapindika, 57, 20,42, 71 61,116.
-
-Anguttaripa country, 95, 98.
-
-Anupadisesa, not having the upadis
-remaining, 161.
-
-Anuvidita, well-informed, 84, go.
-
-Af#atitthiyapubba, 94.
-
-Apaa city, 95, 97, 98.
-
-Appamada, 54.
-
-Arahat, saint, 15, 23, 79.
-
-Arambha, exertion, 136.
-
-Arati, daughter of Mara, 154.
-
-Ariya, noble, 84, 91, 120.
-
-Ariyamagga, the noble way, 147.
-
-Ascetic, xv.
-
-Ascetic life, xv, 66.
-
-
-Asipattavana hell, 122.
-
-Asita isi, 123.
-
-Asoka, inscriptions of, xii.
-
-Assaka kingdom, 176.
-
-Assamedha, horse-sacrifice, 49.
-
-Assembly of Bhikkhus, 14, 37, 51,
-65, 79, 84, 93, 95, 96, 98, 116,
-129.
-
-Asuddhadhamma, impure, 163,
-
-Asura demon, 50, 123.
-
-Athabbama-veda, 168.
-
-Attadandasutta, 170.
-
-Afata hell, 11g.
-
-Avigga, ignorance, xv, 131.
-
-
-Bamboo tree, 6.
-
-Bavari brahmaaa, xii, 176.
-
-Belief, religious, 3.
-
-Bhadravudha mazava, xiii, 179, 194,
-201.
-
-Bharadvaga mazava, xiii, 107.
-
-Bhikkhus, 58, 167, 168.
-
-Bhovadi, rrr.
-
-Bimbisara, king, 66, 98.
-
-Bodhisatta, 123.
-
-Body, xvi.
-
-Bracelets, 7.
-
-Brahmabandhu, 39.
-
-Brahmaloka, 83, 84.
-
-Brahman, 13, 23, 30, 44, 77, 83, 95,
-115, 140, 181.
-
-Brahman Sahampati, 118.
-
-Brahmana, 13, 18, 23, 31, 44, 46,
-56, 58, 62, 70, 74, 75, 81, 84,
-85, 95, 96, 107, 108, 140, 149,
-156, 164, 165, 190, Ig, 198.
-
-Brahmazadhammikasutta, 46.
-
-Brahma world, 23, 83, 89, 95, 197.
-
-
-Buddha, his relation to philosophy,
-xii; sprung from the Samamas,
-xiv; his titles, xv, 22, 25, 26,
-29, 31, 32, 36, 41, 42, 44, 45,
-46, 54, 55, 58, 61, 62, 63, 65,
-66, 67, 68, 72, 79, 88, 93, 95,
-98, 100, 116, 123, 125, 152, 154,
-176,- 179.
-
-Buddhistic formula, xiii.
-
-
-Childers, 24, 36, 42.
-Cows are slain, xiv.
-
-
-Dakkhinagiri, rr.
-
-Dakkhivapatha, 176.
-
-Dasaratha-Gataka, 105.
-
-Davids, T. W. Rhys, 3,.54, 65, 66,
-74, 129.
-
-Deity, 17, 42, 85, 177.
-
-Desire, xv.
-
-Deva, god, 44, 50, 51, 74, 93, 123,
-124, 140, 181.
-
-Dhammafariyasutta, 45.
-
-Dhammapada, xii, 6, 7, 10, 11, 16, 34,
-41, 42, 53, 55, 76, 81, 142, 120,
-127, 158, 171, 173, 182, 197.
-
-Dhammaragan, a religious king, 103.
-
-Dhammavinaya, 94.
-
-Dhammika upasaka, 61.
-
-Dhaniya herdsman, 3.
-
-Dhira, firm, 84, 9r.
-
-Dhotaka mawava, xii, 179, 187.
-
-Disputants, xiii, 152, 161, 162.
-
-DitrAasutamuta, xiii.
-
-Ditthi, philosophy, xii, xiii.
-
-Ditthigata, philosopher, xiii.
-
-Ditthigatika, philosopher, 153.
-
-Ditthinivesa, xiii.
-
-Dutthatthakasutta, 145.
-
-Dvayatanupassanasutta, 129.
-
-
-Ekana/a, a brahmaaa village, 11.
-Ekodi, intent on one object, 173.
-Elambuga lotus, 156.
-
-Eravana, king of elephants, 62.
-Etymology, 97.
-
-Extinction, xvi.
-
-
-Feer, Léon, 17, 24, 42.
-Fire, offerings to, xiii, 73.
-}orefathers, 51.
-
-
-Gahattha, householder, 7, 22.
-Galudshi creeper, 5.
-Gandhabba, 114.
-
-Ganga, 30, 44.
-
-
-SUTTA-NIPATA.
-
-
-Gaviphala, 39.
-
-Gaya, 44.
-
-Gigghakfita mountain, 79.
-
-Gihin, householder, 7, 10.
-
-Giribbaga city, 66.
-
-Godhavari river, 176.
-
-Gogerly, 17, 24, 42.
-
-Gonaddha city, 180.
-
-Gospel of St. John, 11, 1ro1; St.
-Luke, 3; St. Matthew, 39, 68.
-
-Gotama, 11, 12, 13, 14, 17, 20, 23,
-24, 26, 27, 37, 47, 51, 61, 71,
-75, 78, 79, 80, 84, 87, 93, 95,
-96, 99, 101, 103, 109, 115, 126,
-157, 169, 186, 191, 197, 200,
-201; cf. Samana Gotama.
-
-Grammarian, 97.
-
-Grimblot, xii, 17, 24, 42.
-
-Guhatthakasutta, 144.
-
-
-Ganussoni brahmaaa, xiii, 108.
-Gappa, recitation, xiii, rog.
-Garasutta, 150.
-
-Gataka, 8, 16, 32.
-
-Gatukayain manava, xiii, 179, 194.
-Getavana, 17, 20, 42, 47, 61, 71, 116.
-Gina, conqueror, 62, 126, 178.
-
-
-Hamsa, 200.
-
-Hardy, Spence, 11, 20, 47.
-
-Hell, 23, 40, 54, 116, 118, 119, 120,
-321, 122.
-
-Hemaka mawava, xiii, 179, 191.
-
-Hemavata yakkha, 25, 26.
-
-Himavanta mountain, 67.
-
-Hirisutta, 41.
-
-Householder, 61, 80.
-
-Hymns, xiii, 23, 41, 50, 97, 124, 168,
-176, 178, 180.
-
-
-[ékhbinamkala, 107.
-Inda god, 50, 51, 123, 181.
-Ivigita, commotion, 138.
-Isi, sage, 28, 33, 47, 58, 74, 114, 123,
-167, 179, 184, 186, 187, 188,
-191, 197, 199.
-Itihasa, xiii, 97, 181.
-
-
-Kalahavivadasutta, 159.
-Kalandakanivapa, 84, 86,
-KAmabhava, 114.
-
-K4masutta, 143.
-
-Kanha= Mara, 58, 70, 174.
-Kanhabhigatika, of black origin, 102.
-Kanhasiri isi, 123, 124.
-
-Kapilasutta, 45.
-
-
-INDEX.
-
-
-Kapilavatthu city, 177, 180.
-
-Kappa, time, xvi, 88, 89, gt.
-
-Kappa mazava, xiii, 193.
-
-Kappa= Nigrodhakappa, 57, 179.
-
-Kappatita, who has overcome time,
-
-60.
-
-Kappayana or Kappiya brahmaza=
-Nigrodhakappa, 58..
-
-Kasibharadvaga brahmama, 11.
-
-Kassapa buddha, 39.
-
-Kexiya gatila, 95.
-
-Kezubha, xiii, 97, 181.
-
-Khaggavisiza, rhinoceros, 6.
-
-Khara yakkha, 44.
-
-‘Khari measure, 119.
-
-Khattiya, 19, 23, 50, 7, 74, 101,184.
-
-Khema= Nibbana, 164.
-
-Khettagina, who has conquered the
-regions, 84, 89.
-
-Kimsilasutta, 52.
-
-Kokaliya bhikkhu, 116.
-
-Kolarthi, 117.
-
-Kosala country, 47, 67, 73, 84, 119,
-176, 178.
-
-Kosambi city, 180.
-
-Kofi number, 122.
-
-Kovilara tree, 7.
-
-Kumuda hell, 119.
-
-Kunda, 15.
-
-Kuppapasikfasanti, 146.
-
-Kusala, happy, 89.
-
-Kusinara city, 180.
-
-Kuvera king, 62.
-
-
-Kankin brahmaza, xiii, 107.
-
-Kandala, 23.
-
-Karanavat, endowed with the observances, 84, gI.
-
-Kinaka, 39.
-
-Kingiilaka, 39.
-
-Kfilaviyfhasutta, 161.
-
-Kunda smith, 15.
-
-
-Lalita-vistara, xii, 123, 179.
-
-Lamp, go out like a, Xvi.
-
-Lokadhamma, the things of the
-world, 43.
-
-Lumbini country, 124.
-
-
-Magadha country, 15, 66, 98, 180,
-198.
-
-Magandiyasutta, 154.
-
-Maggadesaka or Maggadesin, teaching the way, xiii, 15, 16. :
-
-Maggadfsin, defiling the way, xiii,
-15, 16.
-
-
-Mapgagg bay in = Maggadesaka, xiii,
-
-
-Maggagina, victorious by the way.
-
-xili, 15, 16.
-
-Maggagivin, living in the way, xiii,
-15, 16,
-
-Magha manava, 79.
-
-Magghimanikaya, 107.
-
-Mahabhirata, 182.
-
-Mahamangalasutta, 42.
-
-Mahaparinibbanasutta, xii.
-
-Mahaviyfihasutta, 164.
-
-Mahesi, 114.
-
-Mahi river, ae
-
-Mahissati-city, 180.
-
-Makkhali-Gosala titthakara, xii, 85.
-
-Mamaka, follower, 169.
-
-Mara yakkha, the king of death, the
-evil spirit, xv, 5,13, 30, 44,58, 68,
-70, 71, 93) 95, 102, 105, 132,
-140, 141, 142, 154, 174, 193,
-
-
-195.
-
-Matanga andala, 20, 23.
-
-Matter, xvi.
-
-Megasthenes, xii.
-
-Meru mountain, 123.
-
-Metre, versed in, xiii, 97, 109.
-
-MettA, friendliness, 24.
-
-Mettagfi mazava, xii, 179,. 185.
-
-Migiramatar, 129.
-
-Milindapazha, xii.
-
-Moggallana thera, 116.
-
-Mogharagan mamava, xiii, 179. 197:
-
-Mona, wisdom, 129.
-
-Moneyya, state of wisdom, 126.
-
-Muir, 123.
-
-Milaphala, 39.
-
-Muni, ascetic, xv, xvi, 5, 15, 16, 27,
-33, 41, 58, 67, 75, 78, 84, 90,
-92, 93, 105, 126, 127, 129,
-145, 151, 156, 157, 158, 161,
-166, 167, 170, 171, 172, 186,
-189, 190, 191, 192, 193, 199.
-202.
-
-Mufiga grass, 5.
-
-Muta, xiii.
-
-
-Naga, chief; sinless (na + agas ?), 67,
-89, 93, 105, 156, 186.
-
-Nahataka, cleansed, 84, 89.
-
-Nahuta number, 122.
-
-Nalaka, sister’s son of Asita, 123,
-125.
-
-Namufi= - Mara, 68, 69.
-
-Nanda miazava, xii, 179, 190.
-
-Narada isi, 93.
-
-
-Y 2
-
-
-Natthikaditz4i, sceptic, 4o.
-
-Navasutta, 51.
-
-Neraggara river, 68.
-
-Nibbana, xv, xvi, 4, 10, 13, 16, 24,
-31, 32, 33, 34, 38, 43, 56, 59,
-60, 68, 76, 77, 125, 141, 142,
-148, 150, 170, 171, 186, 188,
-189, I91, 192, 193, 196, 202.
-
-Nibbuta, happy, 107.
-
-Nigazth. brahimama, xiii, 62.
-
-Nigantha-Nataputta titthakara, xii,
-85.
-
-Nighandu, vocabulary, xiii, 181.
-
-Nigrodhakappa brahmaaa, 55, 56.
-
-Nirabbuda hell, 119, 120.
-
-Nirupadhi, free from the elements
-of existence, 114.
-
-Nissita, dependent, 138.
-
-Nivesana, resting-place, dogma, xiii,
-34.
-
-Nivissavadin, dogmatist, xiii, 166.
-
-
-Obstacles, five, 3, 10.
-Okkaka king, 49, so, 177.
-Oldenberg, xii.
-
-Outcast, 20.
-
-
-Pabbagga, leaving the world, 14, 66,
-79-
-
-Pabbagita, ascetic, 7, 62.
-
-Pabbata isi, 93.
-
-Padaka, versed in metre, xiii, 97,
-109.
-
-Padhinasutta, 68.
-
-Paduma hell, 116, 119, 120, 122.
-
-Pakudha-Kafédyana titthakara, xii,
-85.
-
-Pamada, indolence, 54.
-
-Pamatta, indolent, 54.
-
-Pandava mountain, 67.
-
-Pandita, wise, 84, go.
-
-Pavikavaggiya, 58.
-
-Papavika, delusion, 167.
-
-Parabhavasutta, 17.
-
-Pararnatt/akasutta, 148.
-
-Parayana, the way to the further
-shore, 176.
-
-Paribbaga, Paribbagaka, wandering
-mendicant, 22, 84, 91.
-
-Parikhatta tree, 10.
-
-Parinibbuta, happy, blessed, 58, 60,
-75, 133-
-
-Pariyantadarin, wandering on the
-borders, 173.
-
-Pasanaka ketiya, rock temple, 180,
-198,
-
-
-SUTTA-NIPATA.
-
-
-Pasiirasutta, 152.
-
-Patitthana city, 180.
-
-Pattaphala, 39.
-
-Parihdrakapakkha, 65.
-
-Pava city, 180.
-
-Phassa, touch, 133, 157, 160.
-
-Philosophers, two sorts of, xii,
-154.
-
-Philosophy, no one saved by, xiv.
-
-Pingiya mawava, xiii, 179, 198.
-
-Pleasures of sense, 28. |
-
-Pokkharasati brahmama, xiii, 108.
-
-Posala mazava, xiii, 179, 196.
-
-Pubbarama, 129.
-
-Pundarika hell, 119.
-
-Punnaka manava, xii, 179, 184.
-
-Purabhedasutta, 157.
-
-Piiranva-Kassapa titthakara, xii, 85.
-
-Purisamedha, sacrifice of a man, 49.
-
-
-Raga, daughter of Mara, 154.
-Ragagaha city, 66, 79, 84, 86.
-Rahu, demon, 75, 52.
-
-Rahula, Buddha’s son, 54.
-Rakkhasa, demon, 50.
-
-Ratanasutta, 36.
-
-Revelation, 121.
-
-Rhinoceros, 6.
-
-Ripa, Ruppa, form-possessing, 1 39.
-
-
-Sabhiya paribbagaka, 84.
-
-Saketa city, 180.
-
-Sakiya=Sakya, Sakka, tribe, 68,
-187, 193, 196, 197.
-
-Sakka=Inda, 57, 115.
-
-Sakka= Buddha, 56, 187, 188, 193,
-196, 197.
-
-Sakya muni= Buddha, 36.
-
-Sakya son= Buddha, 95, 108.
-
-Sakya tribe, 95, 98, 108, 123, 124,
-177.
-
-Sallasutta, 105.
-
-Sama, equable, same, 172.
-
-Samaka grass, 39.
-
-Samana, ascetic, xii, xiii, xiv, 12, 13,
-15, 16, 18, 22, 29, 30, 31, 43,
-44, 49, 70, 84, 85, 88, 92, 95,
-101, 128, 140, 162, 163, 169,
-190, 191.
-
-Samana Gotama, xiv, 85, 97, 98,
-99, 100, 107, 108, 159.
-
-Samazaka, wretched Samana, 20,
-
-
-44-
-
-Sambuddha, perfectly enlightened,
-28, 31, 101, 178, 179, 180, 182,
-202,
-
-
-INDEX. 20
-
-
-sf
-
-
-tn
-
-
-Samm 4paribbaganiyasutta, 58.
-
-Sammi§pasa sacrifice, 49.
-
-Samkhara, matter, 60, 132, 138,
-172.
-
-Samsara, revolution, transmigration,
-existence, xv, xvi, 88, 113, 130,
-139.
-
-Sanctification, xiv.
-
-Sangha, assembly, 36, 37, 104.
-
-Sanghati, under-garment, 74.
-
-Sa#gaya - Bela¢thiputta  titthakara,
-xii, 85.
-
-Sariputta thera, 102, 116, 172.
-
-Satagira yakkha, 26.
-
-Savaka, disciple, 61, 63, 64.
-
-Savatthi city, 17, 20, 42, 47, 61, 71,
-‘116, 129, 176, 180, 201.
-
-Savitti hymn, xiii, 74, 103, 104.
-
-Sayampabha gods, 65.
-
-Schwanbeck, xii.
-
-Security, worldly, 3.
-
-Seeds of existence, xvi.
-
-Sekha, pupil, 174.
-
-Sela brahmaaa, xiii, 95.
-
-Setavya city, 180.
-
-Shaveling, 20, 73.
-
-Signs of a great man, 97, 100, ror,
-124.
-
-Silavata, xiii.
-
-Simeon, 123.
-
-Sin according to Buddha, xv.
-
-Snake, 1.
-
-Sogandhika hell, 119.
-
-Sopaka caste, 23.
-
-Sottiya, learned in the revelation,
-84, 91.
-
-Spiegel, 1.
-
-Subhasitasutta, 71.
-
-Sudda, man of the servile caste, 50.
-
-Suddhasrhakasutta, 147.
-
-Suddhodana king, 124.
-
-Sugata= Buddha, 5, 37, 63, 72, 114,
-120, 130, 133, 136.
-
-Suga, 181.
-
-Sifiloma yakkha, 44.
-
-Sundarika river, 73.
-
-Sundarikabharadvaga brahmaaa, 73.
-
-Suta, xiii.
-
-Systems, philosophical, sixty-three,
-xili.
-
-
-Taha, craving, 135, 154.
-
-Tanhabhava, 114.
-
-Tarukkha brahmaaa, xiii, 108.
-
-Tathagata, perfect, Buddha, 14, 36,
-38, 41, 57, 76, 77, 102, 196.
-
-
-Teachers, famous, xii, 85.
-
-Tevigga, perfect in the three Vedas.
-xlll, 97, 109, 180.
-
-Tidasa gods, 123.
-
-Timbaru fruit, 19.
-
-Tissametteyya mawava, xii, 131, 179.
-183.
-
-Titthiya brahmaza, xiii, 62, 163.
-
-Todeyya brahmaaa, xiii, 108, 179.
-192.
-
-Trenckner, xii.
-
-Tusita heaven, 123, 124, 172.
-
-Tuvarakasutta, 167.
-
-
-Udaya maaava, xiii, 179, 95.
-
-Uggeni city, 180.
-
-Updadana, seizure, 135.
-
-Upadhi, substance, elements of existence, Xvi, 5, 59, 51, 105, 130,
-147, 178, 185, 186, 191.
-
-Upasaka, follower, adherent, 24, 51.
-61, 62, 84.
-
-Upasampada, priest’s orders, 14, 79,
-94-
-
-Upasiva mazava, xii, 179, 188.
-
-Upekhaka, equable, 158.
-
-Uposatha, fasting, abstinence, 65,
-129.
-
-Uppalaka hell, 119.
-
-Uraga, snake, 1.
-
-Ussada, desire, 88, 158.
-
-Uithana, exertion, 54.
-
-
-Vada, doctrine, 162, 165.
-
-Vadasila, disputatious, xiii, 62, 108.
-
-Vakkali, 201.
-
-Vakapeyya sacrifice, 49.
-
-Vanasavhaya City, 180.
-
-Vangisa thera, 55, 72.
-
-Vasala, Vasalaka, outcast, 20.
-
-Vasava=Inda, 62.
-
-Vasettha maava, xiii, 107.
-
-Vatthugatha, 55, 123, 176.
-
-Veda, 23, 41, 97, 109, 180.
-
-Vedagti, having passed sensation, 84,
-90.
-
-Vedana, sensation, 134.
-
-Vedisa city, 180.
-
-Veluvana, 84, 86.
-
-Vesali city, 180.
-
-Vessa, 74.
-
-Vessavaza Kuvera king, 62.
-
-Vessika, man of the third caste,
-50.
-
-Vetarazi river in hell, 122.
-
-Veyyakaraza, grammarian, xiji, 109,
-
-
-Y¥ 3
-
-
-Views, philosophical, 8, 25, 146, 148,
-149, 154, 155, 157, 162, 163,
-164, 166, 190, Ig.
-
-Vigayasutta, 32;
-
-Vigga, knowledge, xv.
-
-Viggakarana, science and works, 95,
-98.
-
-Vinikssaya, resolutions, placita, xiii.
-
-Vif#ifiana, consciousness, 1 33.
-
-Viriyavat, firm, go.
-
-Visionary, xiv.
-
-Viveka, seclusion, 167.
-
-
-SUTTA-NIPATA.
-
-
-Vocabulary, 97.
-
-
-Wheel of the Dhamma, 124,
-Work, 115.
-
-Works, virtuous, xiv.
-
-World is void, xvi.
-
-
-heres 25, 26, 29, 44, 45, 71, 77;
-I0I.
-
-Yoga, attachment, 114.
-Yogakkhema=Nibbana, 68.
-
-Yuga, distance of a plough, 66.

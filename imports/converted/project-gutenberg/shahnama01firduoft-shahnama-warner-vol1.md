@@ -1,62 +1,3 @@
-# The Shahnama of Firdausi, Vol. I
-
-THE
-
-SHAHNiMA  OF  FIRDAUSl
-
-
-DONE  INTO  ENGLISH  BY
-
-ARTHUR  GEORGE  WARNER,  M.A.
-
-AND
-
-EDMOND  WARNER,  B.A.
-
-
-"•  The  homes  that  are  the  dwellings  of  to-day
-Will  sink  'neath  shower  and  sunshine  to  decay,
-But  storm  and  rain  shall  never  mar  what  I
-Have  built — the  palace  of  my  poetry."
-
-FlEDAOSf
-
-
-VOL.   I
-
-
-LONDON
-KEGAN  PAUL,  TRENCH,  TRUBNER  &  CO.  L™
-
-DEYDEN   HOUSE,   GERRARD  STREET,   W.
-1905
-
-
-The  rights  of  translation  and  of  reproduction  are  reserved
-
-
-.  '>  Printed  by  BALLANTYNE,  HANSON  &*  Co.
-At  the  Ballantyne  Press
-
-
-(3)
-
-
-TRUBNER'S
-
-ORIENTAL   SERIES.
-
-
-TO
-
-HIS    SISTER
-
-CAROLINE   WARNER
-
-THIS    WORK    IS    DEDICATED    BY    HER
-SURVIVING    BROTHER
-
-
 PREFACE
 
 THE  interest  with  which  I  used  to  look  forward  to
@@ -95,8 +36,7 @@ the  written  word  remains,  and  I  am  fain  to  hope  that
 by  the  publication  of  this  work  I  may  be  raising  to
 him  an  inconspicuous  perhaps  but  lasting  monument.
 
-To  the  vast  majority  of  English  readers  the  Shah-
-nama  seems  hardly  to  be  known  even  by  name — a
+To  the  vast  majority  of  English  readers  the  Shahnama  seems  hardly  to  be  known  even  by  name — a
 fact  not  to  be  wondered  at,  considering  how  few
 references  are  made  to  it  in  current  literature,  and
 that  this  is  actually  the  first  attempt  to  give  the
@@ -118,8 +58,7 @@ to  hope  that  the  English  reader  will  gain  from  it
 a  very  fairly  correct  idea  of  the  subject-matter  of
 Firdausi's  greatest  achievement,  and  will  at  least  learn
 from  the  Introduction  and  Introductory  Notes  where
-to  turn  for  more  scholarly  and  authoritative  informa-
-tion on  the  subject.
+to  turn  for  more  scholarly  and  authoritative  information on  the  subject.
 
 I  take  this  opportunity  of  thanking  the  Delegates
 of  the  Clarendon  Press  for  their  kind  permission  to
@@ -131,8 +70,7 @@ make  such  illustrative  extracts  as  I  needed  from
 those  volumes  of  the  Sacred  Books  of  the  East  Series
 which  contain  the  translations  of  the  Zandavasta  and
 Pahlavi  Texts  by  the  late  Professor  Darmesteter  and
-the  late  Dr.  E.  W.  West  respectively.  These  transla-
-tions, with  their  introductions  and  notes,  are  most
+the  late  Dr.  E.  W.  West  respectively.  These  translations, with  their  introductions  and  notes,  are  most
 valuable  to  the  student  of  the  Shahnama.  I  have
 also  to  thank  my  sister,  Caroline  Warner,  and  my
 nephew,  George  Redston  Warner,  for  occasional  help.
@@ -152,8 +90,6 @@ PAGE
 
 PREFACE  vii
 
-
-INTRODUCTION
 
 CHAPTER  I.  :  LAND  AND  PEOPLE    .        .        .        .        .        .  3
 
@@ -245,7 +181,6 @@ J  AMSHfD  —
 
 4.  How  the  Fortunes  of  Jamshid  went  to  Wrack      .        .139
 
-ZAHHAK  —
 
 1.  The  Evil  Customs  of  Zahhak  and  the  Device  of  Irma'il
 
@@ -324,7 +259,6 @@ Salm 215
 
 22.  How  Minuchihr  wrote  to  announce  his  Victory  to
 
-Faridun 221
 
 23.  How  Karan  took  the  Castle  of  the  Alans    .        .        .  223
 
@@ -413,7 +347,6 @@ Rudaba 288
 
 26.  How    Zal    displayed    his    Accomplishment    before
 
-Minuchihr 311
 
 27.  Minuchihr's  Answer  to  Sam's  Letter  .         .         .314
 
@@ -437,7 +370,6 @@ to  Zal 332
 
 
 CONTENTS  xv
-NAUDAR—
 
 SECT.  PAGK
 
@@ -486,9 +418,6 @@ and  how  Afrasiyab  invaded  Iran     ....  374
 4.  How  Rustam  brought  Kai  Kubad  from  Mount  Alburz  382
 
 INDEX  .                                                                                     .  3«9
-
-
-INTRODUCTION
 
 
 ERRATA
@@ -587,9 +516,6 @@ Page  366,  line  12,  delete  'not.'
 Page  381,  line  4  from  bottom,  for  '  plants'  read  '  plans.'
 
 
-INTRODUCTION
-
-
 CHAPTER   I
 
 LAND   AND    PEOPLE
@@ -603,8 +529,7 @@ Euphrates,  and  by  the  Persian  Gulf.  At  present  it
 includes  Persia,  Afghanistan,  Baluchistan,  and  small
 portions  of  Russia  and  Turkey.
 
-It  is  a  lofty  and  for  the  most  part  a  rainless  table-
-land traversed  by  numerous  mountain-ranges  divided
+It  is  a  lofty  and  for  the  most  part  a  rainless  tableland traversed  by  numerous  mountain-ranges  divided
 from  each  other  by  flat  plains  and  falling  away  toward
 the  centre,  which  is  a  desert  white  with  salt  scurf
 or  dun  with  powdery  dust.  The  mountains  are
@@ -621,8 +546,6 @@ shifting  sands.
 Possibly    as    late    as    early    historical    times    very
 
 
-4  INTRODUCTION
-
 different  conditions  prevailed.  The  lower  plains  and
 depressions  once  formed  a  series  of  lakes  that
 suggested  the  appearance  of  an  inland  sea,  and  such
@@ -630,8 +553,7 @@ names  as  island,  port,  lighthouse,  &c.,  are  said  to  still
 survive  in  places  as  a  relic  and  indication  of  the  old
 state  of  things,1  while  a  considerable  body  of  water
 is  still  to  be  found  in  the  eastern  half  of  the  central
-depression  on  the  frontier  between  Persia  and  Afghanis-
-tan. This  region  is  now  known  as  Si'stan,  but  in  ancient
+depression  on  the  frontier  between  Persia  and  Afghanistan. This  region  is  now  known  as  Si'stan,  but  in  ancient
 times  was  called  Drangiana  or  the  lake-country,  a
 name  which  survived  much  later  in  its  former  capital
 Zarang,  and  as  "  Zirih  "  is  still  used  in  connection  with
@@ -665,8 +587,6 @@ KA,  ii.  473.
 
 2  MHP,  ii.  367.  3  DHA,  v.  9.
 
-
-INTRODUCTION  5
 
 The  immediate  neighbourhood  of  the  salt-deserts  is
 the  haunt  of  the  wild  ass  or  onager  and  of  the  antelope,
@@ -708,15 +628,12 @@ minged  with  light,  the  seasons'  difference  began,  the
 1  EP,  ii.  30.  2  id.  34.
 
 
-6  INTRODUCTION
-
 seas  turned  salt,  the  streams  dwindled,  the  vegetation
 grew  rough  and  thorny,  dronght  came  and  dust  and
 desert;  mountain-ranges  sprang  up  from  the  plain,
 and  the  man  and  ox  were  stricken  with  disease  and
 died;  but  from  the  body  of  the  former  sprang  the
-first  human  pair  from  whom  all  the  earth  was  over-
-spread, and  from  the  body  of  the  latter  all  other
+first  human  pair  from  whom  all  the  earth  was  overspread, and  from  the  body  of  the  latter  all  other
 harmless,  useful,  and  beautiful  animals,  while  Ahriman
 in  opposition  to  these  created  all  noisome  and  hideous
 insects,  reptiles,  and  creatures  sharp  of  fang  or  claw.
@@ -750,8 +667,6 @@ of  classification,  and  the  divisions  thus  classified  are
 commonly  called  the  Indo-European,  the  Semitic,  and
 
 
-INTRODUCTION  7
-
 the  Turanian  respectively.  It  is  with  peoples  of  the
 "first  division  that  we  are  chiefly  concerned,  and  only
 so  far  as  these  came  into  contact  with  peoples  of  the
@@ -761,8 +676,7 @@ latter.
 At  the  dawn  of  history  we  find  peoples  speaking
 languages  which,  theoretically  at  all  events,  may  be
 traced  back  to  one  primitive  tongue,  holding  similar
-religious  notions  and  organised  politically  as  inde-
-pendent self-governing  tribes,  in  possession  of  large
+religious  notions  and  organised  politically  as  independent self-governing  tribes,  in  possession  of  large
 geographical  areas  both  in  Europe  and  Asia.  They
 thus  fall  into  two  great  divisions — an  European  and  an
 Asiatic — and  are  generally  known  as  the  Indo-European
@@ -770,8 +684,7 @@ race.  The  Asiatic  branch  seems  to  have  occupied  in
 early  times  the  neighbourhoods  of  Balkh,  Harat,  Marv,
 and  possibly. of  Samarkand.  It  described  itself  as
 Aryan  or  noble,  as  opposed  to  all  those  with  whom  it
-came  into  contact,  much  as  the  Greeks  divided  man-
-kind into  Hellenes  and  Barbaroi.  It  was  organised
+came  into  contact,  much  as  the  Greeks  divided  mankind into  Hellenes  and  Barbaroi.  It  was  organised
 into  three  orders  or  castes — priests,  warriors,  and
 husbandmen.  Its  religion  was  a  frank  worship  of
 personified  natural  forces.  Its  priests  were  fire-priests,
@@ -784,22 +697,17 @@ as  Dahaka — the  biter,  the  serpent-fiend.  Water  was
 ever  growing  scarcer,  and  drought  or  plenty  turned  in
 the  imagination  of  a  primitive  people  on  the  struggle  of
 the  good  and  evil  spirits  for  its  possession.  The  former
-appeared  in  the  lightning-flash,  while  the  gloomy  con-
-volutions of  the  thunder-cloud  suggested  the  idea  that
+appeared  in  the  lightning-flash,  while  the  gloomy  convolutions of  the  thunder-cloud  suggested  the  idea  that
 fiends  in  serpent-form  were  striving  to  carry  off  the
 precious  fluid — the  heavenly  waters  as  distinguished
-from  the  earthly  waters — and  hinder  it  from  descend-
-ing to  the  help  of  man.  The  cloud — the  rain-bringer —
+from  the  earthly  waters — and  hinder  it  from  descending to  the  help  of  man.  The  cloud — the  rain-bringer —
 
-
-8  INTRODUCTION
 
 was  perversely  regarded  as  the  rain-stealer.  The  good
 spirits  hastened  to  the  rescue,  the  lightning-flash  clove
 the  cloud,  and  the  demons  dropped  their  booty.  The
 serpent-fiend  had  to  be  combated  for  other  reasons  too,
-for  his  bite  brought  fever,  disease,  and  death.  Accord-
-ingly the  divine  physician  appeared  side  by  side  with
+for  his  bite  brought  fever,  disease,  and  death.  Accordingly the  divine  physician  appeared  side  by  side  with
 the  divine  hero,  Trita  with  Traitana,  and  became,  as
 we  shall  see  later  on,  merged  into  a  single  personality
 in  Iranian  legend.  Sacrifices  were  offered,  and  the
@@ -807,8 +715,7 @@ drink-offering  of  the  juice  of  the  Soma  or  Horn  a  plant
 was  poured  forth.  The  plant  is  usually  identified  as
 being  the  Asclepias  acida  or  Sarcostemma  viminale.1
 The  Aryans  also  worshipped  the  spirits  of  their
-ancestors,  and  were  believers  in  what  is  called  sym-
-pathetic magic.  They  thought  that  injury  done  to
+ancestors,  and  were  believers  in  what  is  called  sympathetic magic.  They  thought  that  injury  done  to
 anything  in  the  remotest  way  connected  with  their
 own  persons  would  affect  themselves  injuriously.  Even
 the  knowledge  of  their  name  might  be  turned  to  their
@@ -837,13 +744,10 @@ allowed  to  ferment.  The  product  was  intoxicating.  See  GHP,  i.  36  ;
 DHA,  iv.  53.
 
 
-INTRODUCTION  9
-
 The  Medes,  whose  modern  representatives,  if  any,
 seem  to  be  the  Kurds,  appear  in  ancient  times  to  have
 been  a  loose  confederation  of  kindred  tribes  broken  up
-into  numerous  settlements,  each  under  its  local  head-
-man or  chief.1     They  seem  to  have  had  no  supreme
+into  numerous  settlements,  each  under  its  local  headman or  chief.1     They  seem  to  have  had  no  supreme
 political  head  or  king   to  unite   the   race  under  one
 central  authority.     Their  common  bond,  if  any,  was  a
 religious  one  under  their  priests,  the  Magi.     According
@@ -867,8 +771,7 @@ appear  to  have  contributed  the  religious,  the  Persians
 the   political,  element.     Between   the   Medes   and   the
 Persians  lay  in  ancient  times,  as  we  learn  from  Assyrian
 and  Babylonian  records,   other   kindred  peoples — the
-kingdom  of  Elam,  with  its  capital  at  Susa,  some  twenty-
-five  miles  west  of  the  modern  Shuster,  and  the  kingdom
+kingdom  of  Elam,  with  its  capital  at  Susa,  some  twentyfive  miles  west  of  the  modern  Shuster,  and  the  kingdom
 of  Ellipi,  in  the  neighbourhood  of  the  modern  Hamadan.
 The  Iranians  as  a  whole  were  bounded  on  the  west  by
 Semitic  and  on  the  north  by  Turanian  peoples.     On  the
@@ -904,8 +807,7 @@ frontier  of  f  ran,  from  the  Medes  in  the  north  to  the
 Persians  in  the  south,  seems  to  have  been  subjected  at
 one  point  or  another  to  almost  constant  aggression,
 at  first  by  mere  raids  but  later  on  by  attempts  at
-permanent  conquest,  at  the  hands  of  the  great  warrior-
-monarchs  of  Nineveh — Shalmaneser  II.  (B.C.  858-823),1
+permanent  conquest,  at  the  hands  of  the  great  warriormonarchs  of  Nineveh — Shalmaneser  II.  (B.C.  858-823),1
 Samas  Rimmon  II.  (B.C.  823-8io),2  Rimmon-nirari  III.
 (B.C.  8IO-/83),3  Tiglath  Pilesar  III.  (B.C.  745-727),*
 Sargon  (B.C.  72 2-705  ),6  Sennacherib  (B.C.  705-68 1),6
@@ -925,8 +827,6 @@ reign  of  Esarhaddon  II.,  Nineveh  fell  (B.C.  606),  over-
 7  RP,  iii.  103-124.  8  Id.,  ix.  39-64.
 
 
-INTRODUCTION  11
-
 whelmed  by  a  confederacy  which  included  the  Medes.
 Probably  no  empire  was  ever  less  lamented  by  the
 world  at  large,  for  we  have  the  Assyrians'  own  word
@@ -942,16 +842,14 @@ extremely  prosperous,  and  carried  on  a  vast  caravan
 traffic  in  native  produce  and  imports  from  India  with
 the  west  and  north.  When,  however,  Rome  had
 become  recognised  as  the  centre  of  the  world,  her
-merchants  soon  hit  upon  a  less  circuitous  and  conse-
-quently cheaper  route.  They  started  a  direct  traffic
+merchants  soon  hit  upon  a  less  circuitous  and  consequently cheaper  route.  They  started  a  direct  traffic
 between  India  and  the  Red  Sea,  whereby  merchandise,
 instead  of  being  landed  in  Southern  Arabia  and  thence
 conveyed  northwards  by  land,  was  discharged  at
 Arsinoe,  Cleopatris  (Suez),  and  other  Egyptian  ports.
 As  a  result,  Southern  Arabia — the  most  fertile  and
 populous  region  of  the  peninsula — was  ruined,  and  in
-time,  both  there  and  along  the  lines  of  the  old  caravan-
-routes,  only  massive  remains  of  cities,  canals,  dams,  and
+time,  both  there  and  along  the  lines  of  the  old  caravanroutes,  only  massive  remains  of  cities,  canals,  dams,  and
 aqueducts  were  left  to  witness  to  a  lost  prosperity.  A
 vast  population  was  thrown  out  of  employment,  and  the
 Arabs  began  to  emigrate  northward  as  early,  it  would
@@ -967,13 +865,10 @@ themselves,  their  restlessness  and  inconstancy,  made
 them  thorns  in  the  sides  of  both,  and  led  to  many
 
 
-12  INTRODUCTION
-
 difficulties.  The  defeat  of  Julian  by  Sapor  II.  is  said
 to  have  been  largely  due  to  the  defection  of  the  Arab
 allies  of  the  former,  while  on  the  other  hand  the
-western  frontier  of  Iran  was  always  liable  to  be  over-
-run by  them  as  far  north  as  and  including  Azarbijan.
+western  frontier  of  Iran  was  always  liable  to  be  overrun by  them  as  far  north  as  and  including  Azarbijan.
 The  havoc  caused  was  often  great,  and  the  retaliation,
 on  occasions,  ferocious.
 
@@ -1009,8 +904,6 @@ in  which  all  knowledge  is  shut  up,  and  he  is  the  gate
 1  NSEH,  139.
 
 
-INTRODUCTION  13
-
 of  it."  l  'Ali  carne  to  be  regarded  as  associated  in  a  very
 special  way  with  the  prophet,  and  was  known  as  his
 executor  or  mandatary,  and  also  as  the  Lion  of  God,  or
@@ -1045,16 +938,13 @@ support  lay  in  Syria,  had  necessarily  to  rule  from
 Damascus,  and  this  tended  to  slacken  their  hold  over
 their  Eastern  possessions.  Taking  advantage  of  this
 fact,  and  exploiting  the  feeling  about  'Ah'  to  their  own
-advantage,  the  descendants  of  'Abbas,  one  of  Muham-
-mad's uncles,  gradually  undermined  the  position  of
+advantage,  the  descendants  of  'Abbas,  one  of  Muhammad's uncles,  gradually  undermined  the  position  of
 the  reigning  house,  till  at  length  in  the  year  A.D.  750,
 with  the  assistance  of  the  Persians,  they  supplanted
 the  Umayyads  everywhere  except  in  Spain.  The
 
 1  OHS,  331.  2  NESH,  80.
 
-
-14  INTRODUCTION
 
 triumph  of  the  'Abbasids  was  a  half  triumph  for
 Persian  nationality,  and  the  fact  was  recognised  by  the
@@ -1071,8 +961,7 @@ followed.  In  A.D.  86 1  the  Khalifa  Mutawakkil  was
 murdered  by  his  own  son,  and  the  'Abbasids  became
 thenceforth  insignificant,  having  little  power  outside
 the  walls  of  Baghdad  and  dependent  chiefly  on  the
-forbearance  of  their  mayors  of  the  palace,  if  the  expres-
-sion may  be  applied  to  Eastern  history,  who  preferred
+forbearance  of  their  mayors  of  the  palace,  if  the  expression may  be  applied  to  Eastern  history,  who  preferred
 to  veil  their  own  supremacy  behind  the  reverence  still
 inspired  by  the  Khalifas  in  their  religious  aspect  as
 Commanders  of  the  Faithful.  In  the  tenth  century  this
@@ -1092,21 +981,16 @@ to  us  that  it  is  hard  to  realise  that  the  only  portion  of
 it  in  Iranian  legend  that  in  any  way  coincides  with
 authentic  history  is  that  which  deals  with  the  invasion
 of  the  East  by  Alexander  the  Great ;  and  even  this  is
-mostly  based  not  on  native  but  Greek  tradition,  so  modi-
-fied by  Iranian  patriotism  as  to  gloss  over  or  explain
+mostly  based  not  on  native  but  Greek  tradition,  so  modified by  Iranian  patriotism  as  to  gloss  over  or  explain
 
-
-INTRODUCTION  15
 
 away  the  great  overthrew  of  the  East  by  the  West.
 A  genuine  native  tradition  dating  from  those  times
-would  be  extremely  interesting,  and  it  is  very  dis-
-appointing not  to  have  it.  Nothing  survives  of
+would  be  extremely  interesting,  and  it  is  very  disappointing not  to  have  it.  Nothing  survives  of
 Alexander  the  Great  in  native  Iranian  legend  except
 a  conviction  that  he  was  one  of  the  great  persecutors
 and  destroyers  of  Zoroastrianism^  This  will  be  referred
-to  later  on,  when  we  have  to  touch  upon  the  preserva-
-tion of  Iranian  tradition  in  general.  It  would  seem  as
+to  later  on,  when  we  have  to  touch  upon  the  preservation of  Iranian  tradition  in  general.  It  would  seem  as
 if  the  long  predominance  of  the  Roman  empire  on  the
 stage  of  history  had  obliterated  the  memory  of  most  of
 the  great  events  of  earlier  ages  and  distorted  that  of
@@ -1114,16 +998,13 @@ the  rest.  We  should  expect,  however,  that  at  least  the
 Roman  empire  itself  during  its  greatest  period  would
 receive  some  recognition,  especially  an  event  so  glorious
 for  the  East  as  the  overthrow  of  Crassus  at  Carrhae
-(B.C.  53),  but  again  we  are  disappointed.  The  explana-
-tion seems  to  be  that  during  the  whole  period  of  the  rise
-and  greatness  of  Rome,  f  ran  was  under  foreign  domina-
-tion, first  Grecian  and  then  Parthian.  At  all  events
+(B.C.  53),  but  again  we  are  disappointed.  The  explanation seems  to  be  that  during  the  whole  period  of  the  rise
+and  greatness  of  Rome,  f  ran  was  under  foreign  domination, first  Grecian  and  then  Parthian.  At  all  events
 it  is  not  till  a  native  dynasty  rules  again  in  Iran  that
 we  begin  to  find  common  ground  in  Iranian  and  Roman
 history,  and  this  is  not  till  the  third  century  of  the
 Christian  era.  Till  then  Rome  obliterated  Greece  only
-to  be  ignored  itself  in  all  but  the  name.  Iranian  tradi-
-tion knows  of  Ruin  but  of  nothing  behind  it.
+to  be  ignored  itself  in  all  but  the  name.  Iranian  tradition knows  of  Ruin  but  of  nothing  behind  it.
 
 The  frdnians  and  the  Aryans  of  India. — In  this
 case  the  interest  for  us  is  chiefly  a  religious  one.
@@ -1133,13 +1014,10 @@ faith  began  to  extend  rapidly.  Asoka,  like  all
 sincere  converts,  was  an  enthusiast,  and  in  his  reign
 Buddhism  was  preached  not  only  in  India  itself  but  in
 Eastern  f  ran,  and  even  so  far  west,  it  is  said,  as  the
-shores  of  the  Caspian.1  It  prospered  much  and  con-
-tinued to  hold  its  own  in  Kabulistan  till  A.D.  850,
+shores  of  the  Caspian.1  It  prospered  much  and  continued to  hold  its  own  in  Kabulistan  till  A.D.  850,
 
 1  DHA,  iv,  543  ;    Gray,  "  At  the  Court  of  the  Amir,"  143  ;  HIE,  149.
 
-
-16  INTRODUCTION
 
 when  a  Brahman  dynasty  replaced  the  Buddhist.  It
 was  probably  not  much  before  the  eleventh  century
@@ -1160,8 +1038,7 @@ they  have  inspired  the  higher  civilisations  of  the  South.
 The  Turanians  were  little  better  than  the  Assyrians  in
 their  treatment  of  vanquished  foes,  and  decidedly  worse
 in  aspect.  In  the  most  ancient  times  of  which  we  have
-any  record,  the  great  highway  for  these  nations  south-
-ward lay  between  the  Caspian  and  Euxine  Seas.  They
+any  record,  the  great  highway  for  these  nations  southward lay  between  the  Caspian  and  Euxine  Seas.  They
 had  therefore  to  cross  the  barrier  of  the  Caucasus,  which
 is  said  to  be  only  passable,  save  by  expert  Alpine
 climbers,  in  three  places,  one  at  each  end  and  one  near
@@ -1181,8 +1058,6 @@ Justinian,  and  those  two  rulers  agreed  to  share  the
 1  EHI,  ii  415,  &c.
 
 
-INTRODUCTION  17
-
 expense  of  preventing  barbarism  from  penetrating  south
 of  the  Caucasus.1  Two  centuries  later,  when  the  Khazars,
 a  Turkish  race  from  what  is  now  Southern  Russia,
@@ -1200,8 +1075,7 @@ Gomer  of  the  Bible  and  the  Gimirra  of  the  Assyrian
 inscriptions,  who  appear  to  have  dwelt  in  early  times
 on  the  Dniester  and  the  Sea  of  Azof,  whence  they  were
 driven  by  the  pressure  of  kindred  races  whom  the
-Assyrians  called  Manda.  Traversing  the  Pass  of  Dar-
-band they  settled  for  a  time  north  of  the  Aras,  where
+Assyrians  called  Manda.  Traversing  the  Pass  of  Darband they  settled  for  a  time  north  of  the  Aras,  where
 undoubtedly  they  must  have  come  into  contact  with
 the  Medes.  Being  still  pressed  upon  from  the  north,
 they  made  an  unsuccessful  attempt  to  invade  Assyria
@@ -1209,8 +1083,7 @@ in  B.C.  677,  and  then  turned  westward  into  Asia  Minor.3
 
 In  the  wake  of  the  Kimmerian  invasion  came  the
 cause  of  it — the  Sacae  or  Scythians,  who  seem  to  have
-forced  the  line  of  the  Aras,  to  have  overrun  the  terri-
-tory of  the  Medes  and  the  kingdom  of  Ellipi,  and  to
+forced  the  line  of  the  Aras,  to  have  overrun  the  territory of  the  Medes  and  the  kingdom  of  Ellipi,  and  to
 have  established  as  their  capital  the  famous  city  of
 Ekbatana,  the  modern  Hamadan,  in  what  has  always
 been  known  in  ancient  history  as  Media  Magna.  It
@@ -1229,8 +1102,6 @@ KA,  i.  76.
 
 B
 
-
-1 8  INTRODUCTION
 
 have  arisen  from  the  similarity  between  the  Assyrian
 words  for  Medes  and  nomads  respectively,  the  former
@@ -1274,8 +1145,6 @@ In  the   century  after  the  death  of  Alexander  the
 5  Id.  iv.  I.
 
 
-INTRODUCTION  19
-
 Great  the  Parthians,  reinforced  by  another  Turanian
 tribe  known  as  the  Dahae,  rebelled  against  the
 Seleucids  (B.C.  250),  and  became  the  dominant  race  in
@@ -1312,13 +1181,10 @@ monarch  of  the  time.
 The  Huns,  who  had  been  instrumental  in  precipitating
 the  Alani  on  Iran,  were  themselves  in  flight  before  other
 hordes.  A  large  contingent  of  them  seized  and  settled
-upon  the  oasis  of  Samarkand  or  Sughd.  Here,  im-
-proved by  long  settlement  both  in  aspect  and  manners,3
+upon  the  oasis  of  Samarkand  or  Sughd.  Here,  improved by  long  settlement  both  in  aspect  and  manners,3
 
 1  GDF,  iii.  315-316,  and  note.  a  Id.  3  Id.  iii,  312.
 
-
-20  INTRODUCTION
 
 they  became  known  as  the  White  Huns;  or  to  the
 Iranians,  who  carried  on  many  wars  with  them,  as  the
@@ -1353,15 +1219,12 @@ Khurasan — a  man  of  Turkman  descent  named  Alptigm
 — but  before  his  decision  arrived  the  dispute  had  been
 settled  and  Mansur  had  succeeded  to  the  throne.
 Alptigin  had  given  his  decision  in  favour  of  the  uncle,
-and  being  fearful  of  Mansur's  vengeance  he  with-
-drew from  Khurasan  and  carved  himself  out  a  small
+and  being  fearful  of  Mansur's  vengeance  he  withdrew from  Khurasan  and  carved  himself  out  a  small
 principality  at  Ghazni.  He  died  in  A.D.  969,  and  after
 two  short  reigns  the  troops  elected  Subuktigin  to  be
 their  chief.  He  was  a  Turkman,  had  been  brought  up
 1  GDF,.v.  175
 
-
-INTRODUCTION  21
 
 in  the  household  of  Alptigin,  had  subsequently  acted
 as  his  general,  and  was  a  man  of  great  ability  and
@@ -1377,8 +1240,7 @@ Dilamids — the  rivals  of  the  Samanids — and  obtained
 it.  On  this  the  Amir  Nuh  II.  himself  appealed  for
 help  to  Subuktigin,  who  marched  to  his  assistance.
 A  great  battle  was  fought  at  Harat,  and  Subuktigin
-gained  a  decisive  victory.  The  Amir  in  his  grati-
-tude bestowed  on  him  the  title  of  Nasiru'd-Din,
+gained  a  decisive  victory.  The  Amir  in  his  gratitude bestowed  on  him  the  title  of  Nasiru'd-Din,
 or  Defender  of  the  Faith,  and  on  his  eldest  son
 Mahmud,  who  had  greatly  distinguished  himself,  that
 of  Saifu'd-Daula,  or  Sword  of  the  State,  as  well  as
@@ -1403,10 +1265,7 @@ years  old.  His  career  as  a  great  conqueror  and
 1  EHI,  ii.  479.
 
 
-22  INTRODUCTION
-
-religious  fanatic  is  well  known.  His  domination  ex-
-tended from  the  Punjab  to  the  Tigris,  and  from
+religious  fanatic  is  well  known.  His  domination  extended from  the  Punjab  to  the  Tigris,  and  from
 Bukhara  to  the  Indian  Ocean.  He  has,  however,
 another  claim  upon  our  memories.  His  name  was
 to  become  for  ever  associated  with  that  of  the  poet
@@ -1442,8 +1301,7 @@ which  the  writer  keeps  himself  so  much  in  evidence
 as  Firdausi  does  in  the  Shahnama.  Next  in  authority
 to  his  own  statements  we  must  place  the  account
 given  of  him  by  Nizami-i-'Arudi  of  Samarkand  in
-his  work  entitled  "  Chahar  Makdla,"  i.e.  "  Four  Dis-
-courses." ]  They  are  on  Secretaries,  Poets,  Astrologers,
+his  work  entitled  "  Chahar  Makdla,"  i.e.  "  Four  Discourses." ]  They  are  on  Secretaries,  Poets,  Astrologers,
 and  Physicians  respectively,  and  consist  chiefly  of
 anecdotes.  One  of  these,  in  the  "  Discourse  on  Poets,"
 gives  the  valuable  account  of  Firdausi.  Unfortunately
@@ -1453,8 +1311,7 @@ Mahmiid,  only  a  few  lines  of  which,  if  Nizami  is  to  be
 believed,  can  be  regarded  as  Firdausi's  own.  They
 suffice,  however,  to  indicate  one  good  reason  for  the
 poet's  difference  with  Mahmiid  and  the  general  line
-that  he  took  in  his  literary  revenge,  though  that  Sul-
-tan, it  is  pretty  evident,  never  even  heard  that  the
+that  he  took  in  his  literary  revenge,  though  that  Sultan, it  is  pretty  evident,  never  even  heard  that  the
 poet  had  written  the  Satire  at  all !  In  addition  to  the
 above-mentioned  sources  of  information  there  are  two
 formal  biographies  of  the  poet.  One,  which  dates
@@ -1465,10 +1322,6 @@ It  is  apparently  based  on  an  older  metrical  life  of  which
 
 1  BCM.
 
-23
-
-
-24  INTRODUCTION
 
 it  preserves  some  extracts,  and  is  itself  the  basis  of
 most  of  the  biographical  notices  of  the  poet,  including
@@ -1481,16 +1334,14 @@ and  translation  of  the  Shahnurna,  and  both  are  full  of
 mythical  details.
 
 Let  us  first  confine  ourselves  to  the  statements  in
-the  poet's  undoubted  writings  and  to  legitimate  deduc-
-tions therefrom.  He  calls  himself  Abu  '1  Kasim,  and
+the  poet's  undoubted  writings  and  to  legitimate  deductions therefrom.  He  calls  himself  Abu  '1  Kasim,  and
 we  gather,  that  he  was  born  about  A.D.  941.  We
 arrive  at  this  in  the  following  way.  In  the  whole
 Shahnama  there  is  only  one  definite  date — that  on
 which  he  finished  the  poem.  This,  mixing  up  the
 Muhammadan  era  with  the  Zoroastrian  calendar,  he
 tells  us  he  did  on  the  day  of  Ard  in  the  month  of
-Sapandarmad  of  the  year  400  of  the  Hijra.  This  par-
-ticular year,  for  the  Muhammadan  years  are  lunar  and
+Sapandarmad  of  the  year  400  of  the  Hijra.  This  particular year,  for  the  Muhammadan  years  are  lunar  and
 vary  accordingly,  began  on  August  25th,  A.D.  1009,  and
 ended  on  the  I4th  day  of  that  month  in  the  year
 following.  Therefore  Firdausi  finished  the  Shahnama
@@ -1507,13 +1358,10 @@ i.e.  about  sixty-nine,  as  we  reckon,  since  thirty-four
 Muhammadan  years  go  to  about  thirty-three  of  ours.
 
 The  poet  was  a  Muhammadan  of  the  Shi'ite  sect.
-This  is  clear  from  his  reference  to  'All  in  his  Pre-
-lude.2
+This  is  clear  from  his  reference  to  'All  in  his  Prelude.2
 
 1  C,  2095.  *  In  this  volume  §  7.
 
-
-INTRODUCTION  25
 
 Moreover,  he  was   not    a    strict    Muhammad  an    in
 the  matter  of  wine-drinking : —
@@ -1579,8 +1427,6 @@ Unless  my  hand  is  grasped  by  some  good  friend.  *
 4  Id.,  1487.    Reading  last  line  with  P.
 
 
-26  INTRODUCTION
-
 And  again : —
 
 The  hail  this  year  like  death  on  me  hath  come
@@ -1594,8 +1440,7 @@ In  some  verses,  complaining  of  the  advance  of  old  age,
 he  alludes  to  a  calamity  that  befell  him  when  he  was
 fifty-eight,  or  it  may  be  that  an  escape  from  drowning,
 which  he  seems  to  have  had  about  that  time,  had  a
-sobering  effect  upon  him.  This  accident  will  be  re-
-ferred to  in  another  connection  later  on.  He  says : —
+sobering  effect  upon  him.  This  accident  will  be  referred to  in  another  connection  later  on.  He  says : —
 
 Since  I  took  up  the  cup  of  fifty-eight
 
@@ -1630,8 +1475,6 @@ I  leaned  upon  a  staff,  my  hands  refused
 3  C,  1951-
 
 
-INTRODUCTION  27
-
 The  rein,  my  cheeks  grew  moon-like  pale,  my  beard
 Lost  its  black  hue  and  camphor-like  appeared,
 Mine  upright  stature  bent  as  age  came  on
@@ -1640,8 +1483,7 @@ And  all  the  lustre  of  mine  eyes  was  gone.1
 He  never  speaks  of  himself  as  having  any  profession
 or  official  position,  but  if  we  may  hazard  a  conjecture  it  is
 that  he  or  his  son  or  both  were  educated  for  the  office  of
-scribe.  He  puts  the  following  glorification  of  that  pro-
-fession into  the  mouth  of  Buzurjmihr,  the  famous  chief
+scribe.  He  puts  the  following  glorification  of  that  profession into  the  mouth  of  Buzurjmihr,  the  famous  chief
 minister  of  the  still  more  famous  Shah  Nushirwan  : 2-
 
 Teach  to  thy  son  the  business  of  the  scribe
@@ -1692,8 +1534,7 @@ If  thus  endowed  he  cometh  to  the  Shah
 
 He  cannot  choose  but  sit  before  the  throne.3
 
-However  this  may  be,  from  the  time  when  he  be-
-came his  own  master  he  appears  to  have  devoted  him-
+However  this  may  be,  from  the  time  when  he  became his  own  master  he  appears  to  have  devoted  him-
 
 1  V,  1274.
 
@@ -1703,8 +1544,6 @@ as  a  favour  that  his  son  may  be  made  a  scribe.     C,  1778.
 
 3  C,  1676.
 
-
-28  INTRODUCTION
 
 self  to  poetry.     Referring  to   the   completion  of  the
 Shahnama  he  says : —
@@ -1741,22 +1580,17 @@ Firdausi  took  up  the  work  and  it  employed  him  for
 the  next  thirty-four  years  as  we  reckon.  At  first  he
 found  himself  hampered  through  lack  of  the  necessary
 materials.  What  those  were  will  be  explained  later
-on  in  the  present  chapter.  He  made  countless  in-
-quiries and  began  to  despair,  fearing  that  like  Dakiki
+on  in  the  present  chapter.  He  made  countless  inquiries and  began  to  despair,  fearing  that  like  Dakiki
 he  should  not  live  to  complete  his  undertaking.  He
 
 1  C,  2096.         a  See  Prelude,  §  8.         3  Id.  §  9.
 4  V,  1555-
 
 
-INTRODUCTION  29
-
 also  suffered  from  lack  .of  patronage  and  encouragement.
-The  times  were  troublous  and  men's  minds  were  other-
-wise occupied.  At  length  both  the  needful  materials
+The  times  were  troublous  and  men's  minds  were  otherwise occupied.  At  length  both  the  needful  materials
 and  the  patron  were  vouchsafed  him.  The  former
-were  obtained  for  him  by  a  friend  and  fellow-towns-
-man.1 The  latter  he  found  somewhat  later  in  the
+were  obtained  for  him  by  a  friend  and  fellow-townsman.1 The  latter  he  found  somewhat  later  in  the
 person  of  Abu  Mansiir  bin  Muhammad,  probably  a
 local  magnate,  who  warmly  encouraged  him  and
 treated  him  with  the  greatest  kindness  and  generosity.
@@ -1770,16 +1604,14 @@ Alas !  that  patron  died — murdered  like  Dakiki,  but  by
 whom  and  in  what  circumstances  we  know  not.  The
 poet  was  overwhelmed  for  a  time,  but  he  persevered
 and  kept  in  mind  his  patron's  counsel  that  the  Book  of
-Kings  (Shahnama)  when  completed  should  be  dedi-
-cated to  kings.2  In  course  of  time  the  poet  found
+Kings  (Shahnama)  when  completed  should  be  dedicated to  kings.2  In  course  of  time  the  poet  found
 other  patrons,  notably  one  Ahmad  ibn  Muhammad
 of  Chalandshdn,  to  whom  in  A.D.  999  he  dedicated  a
 complete  Shahnama.  Firdausi  was  staying  with
 Ahmad  when  he  had  the  escape  from  drowning  already
 referred  to,  and  he  seems  to  have  been  rescued
 either  by  Ahmad  himself  or  by  Ahmad's  son.  This
-passage  is  not  in  our  printed  texts.3  The  poet,  how-
-ever, had  never  forgotten  the  advice  of  his  former
+passage  is  not  in  our  printed  texts.3  The  poet,  however, had  never  forgotten  the  advice  of  his  former
 patron,  the  beloved  Abu  Mansur,  and  in  this  same  year
 his  opportunity  came.  The  last  king  of  the  Samanid
 dynasty  died  and  Mahmiid  became  supreme  in  Eastern
@@ -1845,8 +1677,6 @@ With  earth  and  time  for  bondslaves.     He  hath  ta'en
 1  Prelude,  §  12.
 
 
-INTRODUCTION  31
-
 The  world  by  justice  and  by  largessings,
 And  is  exalted  o'er  all  other  kings.
 Bright  are  the  records  of  his  earlier  day,
@@ -1871,8 +1701,7 @@ been  penned  a  few  years  before  the  completion  of  the
 Shahnama,  for  the  poet  was  over  sixty-five  at  the  time.
 The  extracts  suggest  that  he  had  lately  received  some
 definite  encouragement,  some  promise  of  patronage  or
-reward  from  Mahmiid  or  his  minister  or  both,  where-
-upon he  wrote  this  panegyric  and  prefixed  it  to  the
+reward  from  Mahmiid  or  his  minister  or  both,  whereupon he  wrote  this  panegyric  and  prefixed  it  to  the
 section  that  he  had  been  engaged  on  or  had  taken  in
 hand  when  the  announcement  of  Mahmiid's  accession
 first  reached  him.  If  Mahimid,  who  was  of  Turkman
@@ -1881,15 +1710,12 @@ point  hardly  seems  to  be  well  chosen,  for  it  tells  of  the
 final  overthrow  of  Afrasiyab,  the  great  protagonist  of
 the  Turkman  race,  at  the  hands  of  the  Iranian  Shdh
 Kai  Khusrau.  Perhaps  Mahmud  had  become  more
-Iranian  than  the  Iranians.  Such  cases  are  not  un-
-known in  history.  At  all  events  we  know  that  his
+Iranian  than  the  Iranians.  Such  cases  are  not  unknown in  history.  At  all  events  we  know  that  his
 minister  Fazl,  son  of  Ahmad,  or  to  give  him  his  full
 title  Abu'l  'Abbas  Fazl  bin  Ahmad,  had  franian
 
 1  V,  1272-1274.
 
-
-32  INTRODUCTION
 
 leanings,  for  he  changed  the  official  language  for  state
 documents  from  Arabic  to  Persian.  After  -his  fall  his
@@ -1902,8 +1728,7 @@ the  most  celebrated  of  book-students,  and  Al  'Utbi,
 who  was  Mahmiid's  secretary,  ought  to  have  known.2
 It  is  very  hard  to  resist  the  inference  that  Abii'l
 'Abbas  Fazl  had  given  the  poet  encouragement,  and
-that  the  latter  looked  to  him  to  secure  a  fitting  re-
-ception by  Mahmud  of  the  poem  when  finished.  The
+that  the  latter  looked  to  him  to  secure  a  fitting  reception by  Mahmud  of  the  poem  when  finished.  The
 poet's  idea  seems  to  have  been  that  the  Shahnama
 was  to  be  regarded  as  Mahmud's  memorial,  while  the
 profits  of  his  great  work  were  to  be  devoted  to  some
@@ -1934,8 +1759,6 @@ In  sooth  five  hundred  scarcely  will  remain.
 
 1  NIN,  25,  note.  2  KUR,  396.  3  V,  1730.
 
-
-INTRODUCTION  33
 
 That  one — a  bounteous  king  and  of  such  worth
 
@@ -1984,8 +1807,7 @@ In  moments  of  disappointment,  too,  and  at  periods
 probably  years  apart,  the  poet  gives  vent  to  his  feelings
 not  only  in  respect  to  his  own  times  but  even  to
 Mahmiid  himself.  The  expression  of  them  is  put  into
-the  mouths  of  some  of  his  characters,  but  the  prophe-
-cies are  of  the  sound  type  made  after  the  event  and
+the  mouths  of  some  of  his  characters,  but  the  prophecies are  of  the  sound  type  made  after  the  event  and
 evidently  the  poet's  own  handiwork : —
 
 A  time  is  coming  when  the  world  will  have
@@ -1995,8 +1817,6 @@ The  world  will  darken  'neath  his  tyranny
 
 1  C,  1998.  2  Id.  1587.
 
-
-34  INTRODUCTION
 
 And  good  will  ne'er  be  found  among  his  treasures.
 He  will  be  ever  gathering  fresh  hosts
@@ -2043,8 +1863,6 @@ The  mouths  of  their  old  money-bags  were  tied,
 
 1  C,  1294.  2  Id.  2064.  3  NIN,  26.
 
-
-INTRODUCTION  35
 
 Whereat  mine  ardent  heart  was  mortified.
 
@@ -2118,8 +1936,6 @@ recognition  as  in  his  own  opinion  his  deserts  merited ;
 taken  from  Nizdmi's  quotation  of  this  passage.    BCM,  79.
 
 
-36  INTRODUCTION
-
 that  he  thought  he  saw  his  opportunity  in  the  accession
 of  Mahmud  and  did  his  best  to  avail  himself  of  it ;
 that  he  received  some  encouragement  if  not  from  the
@@ -2144,8 +1960,7 @@ disgrace.  He  had  once  been  in  the  service  of  the
 Samanids,  but  when  Mahmud  became  governor  of
 Khurasan  in  A.D.  994,  his  father,  Subuktagin,  applied
 to  the  Samdnid  prince,  Nuh  bin  Mansur,  for  the
-services  of  Abii'l  'Abbas  on  behalf  of  his  son.  Ac-
-cordingly he  became  the  steward  of  Mahmud's  house-
+services  of  Abii'l  'Abbas  on  behalf  of  his  son.  Accordingly he  became  the  steward  of  Mahmud's  house-
 hold at  Nishapur,  and,  after  Mahmud's  accession,
 chief  minister.  He  is  said  to  have  made  use  of  his
 position  to  enrich  himself,  and  his  administration  is
@@ -2158,8 +1973,6 @@ remonstrated  with  Abii'l  'Abbas,  who  threatened  to
 resign.  In  A.D.  i  o  1 1 ,  after  long  negotiations,  the
 Sultan,  enraged  at  his  conduct,  imposed  a  fine  of
 
-
-INTRODUCTION  37
 
 100,000  dinars  upon  him,  and,  as  he  still  deferred
 payment,  had  him  imprisoned  and  put  to  the  torture.
@@ -2205,12 +2018,9 @@ which  consists  of  102  couplets,  the  above  couplets
 2  C,  63.
 
 
-38  INTRODUCTION
-
 appear  not  in  this  order  but  separately  as  the  1 1  th,
 27th,  83rd,  y2nd,  and  76th  respectively,  with  some
-differences  of  reading.  Here  they  read  rather  discon-
-nectedly, but  have  an  appropriate  context  in  the
+differences  of  reading.  Here  they  read  rather  disconnectedly, but  have  an  appropriate  context  in  the
 extant  version  of  the  Satire.  We  learn  from  them
 that  one  of  the  charges  brought  against  the  poet  was
 that  he  was  a  heretic  of  the  sect  of  the  Shi'ites,  and
@@ -2237,18 +2047,13 @@ We  now  pass  on  to  what  Nizami  has  to  tell  us
 more  than  a  hundred  years  after  the  death  of  the
 poet.
 
-Abu'l  Kasim  Firdausi  was  one  of  the  landed  pro-
-prietors of  Tus.  He  was  a  native  of  a  village  called
-Bazh,  which  formed  part  of  one  of  the  quarters,  dis-
-tricts, or  suburbs  of  the  city.  He  was  a  man  of
+Abu'l  Kasim  Firdausi  was  one  of  the  landed  proprietors of  Tus.  He  was  a  native  of  a  village  called
+Bazh,  which  formed  part  of  one  of  the  quarters,  districts, or  suburbs  of  the  city.  He  was  a  man  of
 importance  and  of  independent  means,  which  were
 derived  from  the  income  of  his  land.  He  had  one
 daughter,  and  the  sole  object  of  his  labours  on  the
-Shahnama  was  to  obtain  the  funds  necessary  to  pro-
-vide her  with  a  dowry.  When  he  had  completed  the
+Shahnama  was  to  obtain  the  funds  necessary  to  provide her  with  a  dowry.  When  he  had  completed  the
 
-
-INTRODUCTION  39
 
 work  it  was  transcribed  by  'Ali  Dilam  and  recited  by
 Abu  Dulaf.  He  was  much  in  favour  with  Ha'iy,  son
@@ -2292,10 +2097,7 @@ strange  that  the  latter's  estate  at  Tus  was  not  confiscated  on  this
 occasion.
 
 
-40  INTRODUCTION
-
-is  in  essentials  the  poet's  handiwork  the  reader  pro-
-bably will  agree  with  the  prudent  chief  of  Tabaristan
+is  in  essentials  the  poet's  handiwork  the  reader  probably will  agree  with  the  prudent  chief  of  Tabaristan
 in  his  opinion  that  the  sooner  it  was  suppressed
 the  better.
 
@@ -2447,12 +2249,6 @@ The  battle-axe,  the  falchion  brandished  high,
 J  'Ali.
 
 
-42
-
-
-INTRODUCTION
-
-
 The  casque,  the  mail,  the  charger's  armature,
 The  wilderness,  the  ocean,  stream  and  shore,
 Wolf,  dragon,  elephant,  and  crocodile,
@@ -2499,8 +2295,6 @@ Possessed  of  wisdom  while  the  ages  run ;
 
 1  Asfandiydr.
 
-
-INTRODUCTION  33
 
 But  that  was  not  thy  promised  recompense,
 
@@ -2587,8 +2381,6 @@ barley-water  flavoured  with  raisins,  or  else  some  sort  of  beer.     Cf.
 Greek  0oOcr/ca  (Latin  posca,  sour  wine).
 
 
-44  INTRODUCTION
-
 On  whom  I  spent  it  in  the  public  way —
 
 A  fit  recipient  of  such  royal  pay  !
@@ -2666,29 +2458,24 @@ I  shall  throw  dust  upon  my  head  and  cry  : —
 In  light,  and  burn  this  miscreant's  soul  in  Hell."
 
 
-INTRODUCTION  45
-
 Before  resuming  our  summary  of  Nizarni's  account
 we  should  mention  that  later  on  the  indomitable  poet
 wrote  his  second  great  poem,  "  Yusuf  and  Zulikha."
 This  work  is  still  extant  in  MS.,  and  a  printed  edition
 is  understood  to  be  in  preparation.     He  tells  us  in  his
 Introduction   that  he   wrote   it  at  the   suggestion    of
-a  high  official  of  the  Dilamids  with  a  view  of  dedi-
-cating   it    to    the  ruling  Dilamid   prince.     The   poet
+a  high  official  of  the  Dilamids  with  a  view  of  dedicating   it    to    the  ruling  Dilamid   prince.     The   poet
 seems  to  have  quitted  Tabaristan,  where  a  prolonged
 stay  might  have  been  not  without  risk  both  to  himself
 and  to  his  friendly  entertainer,  and  to  have  journeyed
 further    to    the    west,    where    beyond    the    reach    of
-Mahmud's  wrath  (if  Mahmiid  really  concerned  him-
-self  about   the   matter  at   all)   he   wrote   the   above-
+Mahmud's  wrath  (if  Mahmiid  really  concerned  himself  about   the   matter  at   all)   he   wrote   the   above-
 mentioned    work.1       Ultimately   he    returned    to    his
 native  city  of  Tiis,  and  we  may  conclude  this  account
 of  the  calamity  of  an  author  by  summarising  the  rest
 of  what  Nizami  has  to  tell  us.     He  no  doubt  gives  us,
 as   he  professes  to  do,  the  received   tradition  of  the
-time.      Sultan  Mahmiid,  induced  by   the  representa-
-tions  of  his  chief  minister  (Hasan  Maimandi  ?)  ulti-
+time.      Sultan  Mahmiid,  induced  by   the  representations  of  his  chief  minister  (Hasan  Maimandi  ?)  ulti-
 mately repented   of  his  treatment   of  the  poet.     He
 accordingly  gave  directions  that  sixty  thousand  dinars'
 worth  of  indigo  should  be  carried  to  Firdausi  at  Tiis
@@ -2708,22 +2495,17 @@ Marv  and  Nishapiir.     The  poet  seems   to  have  died
 1  NIN,  27.
 
 
-46  INTRODUCTION
-
 A.D.  1020-1021,  at  the  age  of  about  eighty.  Nizami
 visited  his  tomb,  A.D.  1116-1117.
 
 It  has  not  seemed  necessary  to  the  present  writer
 to  enter  more  fully  into  the  interesting  subject  of  the
 poet's  biography.  The  reader  will  find  ampler  details
-in  Professor  Noldeke's  invaluable  "  Iranische  National-
-epos,"  and  in  Professor  Browne's  most  useful  translation
+in  Professor  Noldeke's  invaluable  "  Iranische  Nationalepos,"  and  in  Professor  Browne's  most  useful  translation
 of  Nizami,  both  of  which  works  are  obtainable  in  a
 convenient  form.  It  is  not  worth  while  to  reproduce
-here  the  accounts  of  later  biographers — those  men-
-tioned at  the  beginning  of  the  present  chapter — and
-of  other  writers.  Some  of  their  anecdotes  will,  how-
-ever, be  inserted  in  appropriate  places  in  the  course
+here  the  accounts  of  later  biographers — those  mentioned at  the  beginning  of  the  present  chapter — and
+of  other  writers.  Some  of  their  anecdotes  will,  however, be  inserted  in  appropriate  places  in  the  course
 of  this  translation.  A  word  of  warning  should  be
 added.  The  present  writer  has  confined  himself,
 except  where  otherwise  stated,  to  the  figures  given,
@@ -2734,18 +2516,15 @@ give  other  figures,  and  if  their  readings  are  adopted
 other  conclusions  naturally  follow.
 
 The  present  writer,  as  far  as  he  is  concerned,  would
-gladly  terminate  the  history  of  the  writing  and  re-
-ception of  the  Shahnama  at  the  point  where  the  poet
+gladly  terminate  the  history  of  the  writing  and  reception of  the  Shahnama  at  the  point  where  the  poet
 himself  left  it  in  concluding  that  work ;  at  all  events
-pains  has  been  taken  to  distinguish  Firdausi's  own  ac-
-count from  that  given  by  others.  It  only  remains  to
+pains  has  been  taken  to  distinguish  Firdausi's  own  account from  that  given  by  others.  It  only  remains  to
 add  that  late  in  life  when  writing  "  Yiisuf  and  Zulikha  "
 he  affected  to  condemn  his  greatest  achievement  as
 a  pack  of  idle  tales.  Old  age,  disappointment,  and
 other  circumstances  may  well  have  contributed  to
 warp  his  judgment,  but  we  cannot  doubt  that  in  his
-heart  of  hearts  he  was  as  conscious  of  what  con-
-stituted his  best  title  to  fame  as  when  he  penned  the
+heart  of  hearts  he  was  as  conscious  of  what  constituted his  best  title  to  fame  as  when  he  penned  the
 concluding  words  of  the  Shdhnama : —
 
 I  shall  live  on,  the  seed  of  words  have  I
@@ -2753,9 +2532,7 @@ I  shall  live  on,  the  seed  of  words  have  I
 Flung  broad-cast,  and  henceforth  I  shall  not  die.
 
 
-INTRODUCTION  47
-
-The    Shdhnama   of   Firdausi    is  one    of   the   great       >/
+The    Shdhnama   of   Firdausi    is  one    of   the   great       )/
 epic  poems   of  tHcT  world.     The    author   has  left   on          j
 record  that  it  originally  consisted  of  sixty  thousand     .     JL  (
 couplets.      All   existing    MSS.,    however,    even   when     \A
@@ -2776,13 +2553,11 @@ The  Pharaohs  of  Egypt,  the  Cresars  of  Rome,
 
 represents  the  metre  of  the  original.
 
-The  poet  wrote  in  almost  pure  Persian.  The  ad-
-mixture of  Arabic  is  slight,  and  in  all  probability
+The  poet  wrote  in  almost  pure  Persian.  The  admixture of  Arabic  is  slight,  and  in  all  probability
 would  be  slighter  if  we  had  the  Shahnama  precisely
 as  Firdausi  left  it.  Some  Arabic  the  poet  was  bound
 to  use — terms,  for  instance,  in  connection  with  his
-religion — but  copyists,  it  seems  probable,  are  respon-
-sible for  most  of  the  rest.
+religion — but  copyists,  it  seems  probable,  are  responsible for  most  of  the  rest.
 
 The  poet's  theme  is  the  story  of  his  fatherland  and
 folk,  from  the  Creation  to  the  Muhammadan  conquest,
@@ -2798,8 +2573,6 @@ the  middle  of  his  subject,  and  makes  the  period  of
 his  action  as  brief  as  possible.  Selecting  one  central
 
 
-48  INTRODUCTION
-
 motive  he  weaves  round  it  only  so  much  of  the
 subject-matter  at  his  disposal  as  he  can  employ  with
 tolerable  consistency.  His  web  is  closely  woven,  and
@@ -2807,8 +2580,7 @@ the  workmanship  so  exquisite  that  comparatively  few
 indications  are  left  to  betray  the  nature  of  the  raw
 material.
 
-Firdausi,  on  the  other  hand,  takes  us  into  his  con-
-fidence from  the  first.  In  direct  violation  of  the
+Firdausi,  on  the  other  hand,  takes  us  into  his  confidence from  the  first.  In  direct  violation  of  the
 Horatian  precept  he  begins  from  Leda's  egg  and
 earlier,  and  the  period  of  his  action  extends  over
 thousands  of  years.  He  uses  all  the  epic  material,
@@ -2841,8 +2613,6 @@ same  hero,  assigning  them  to  different  reigns,  ages,
 and  localities.  A  Western  poet  would  have  taken
 
 
-INTRODUCTION  49
-
 them  all  and  forced  as  much  as  suited  him  into  the
 mould  of  a  brief  action ;  the  Eastern  poet  takes  them
 at  full  length,  and  inserts  them  where  he  finds  them,
@@ -2852,12 +2622,10 @@ extends  life  far  beyond  the  span  of  mortals.
 The  poem  is  divided  into  reigns.  Of  these  there
 are  forty-nine,  and  they  with  one  dynasty,  which  is
 reckoned  as  a  single  reign,  make  up  the  fifty  heads
-under  which  the  subject-matter  of  the  poem  is  dis-
-posed. The  reigns  are  those  of  the  mythic  or  historic
+under  which  the  subject-matter  of  the  poem  is  disposed. The  reigns  are  those  of  the  mythic  or  historic
 Shahs  or  kings  of  Persia,  who  are  divided  into  four
 dynasties :  I.  The  Pishdadian,  of  ten  Shahs,  and  lasting
-2441  years.  II.  The  Kaidnian,  of  ten  Shahs,  and  last-
-ing 732  years.  III.  The  Ashkdnian,  which  is  reckoned
+2441  years.  II.  The  Kaidnian,  of  ten  Shahs,  and  lasting 732  years.  III.  The  Ashkdnian,  which  is  reckoned
 as  one  reign,  lasting  200  years.  IV.  The  Sdsdnian,  of
 twenty-nine  Shahs,  and  lasting  501  years.  The  space
 of  time  covered  is  therefore  3874  years.
@@ -2867,8 +2635,7 @@ a  mythic  and  a  historic.  This  distinction  is  based  not
 so  much  on  the  nature  of  the  subject-matter  as  on  the
 names  of  the  chief  characters.  At  a  certain  point  in
 the  poem  the  names  cease  to  be  mythic  and  become
-historic.  The  Mythic  Period  extends  from  the  be-
-ginning of  the  narrative  down  to  the  reigns  of  the  last
+historic.  The  Mythic  Period  extends  from  the  beginning of  the  narrative  down  to  the  reigns  of  the  last
 two  Shahs  of  the  Kaidnian  dynasty.  These  and  the
 remainder  of  the  poem  form  the  Historic  Period.  The
 Shahs  in  question  are  Dard,  son  of  Ddrab,  better  known
@@ -2879,16 +2646,13 @@ The  chief  characters  of  the  poem  are  : —
 
 I.  The  personified  powers  of  good  and  evil.  The
 religion  of  the  ancient  Persians,  from  which  they  became
-converted  to  Muhammadanism,  was  that  known  as  Fire-
-worship,  Dualism,  or  Zoroastrianism.  These  may  be
+converted  to  Muhammadanism,  was  that  known  as  Fireworship,  Dualism,  or  Zoroastrianism.  These  may  be
 taken  to  represent  roughly  three  aspects  of  its  growth
 and  development.  It  was  called  Fire-worship  from  its
 chief  visible  object  of  adoration — a  very  ancient  cult ;
 
 D
 
-
-50  INTRODUCTION
 
 Dualism  from  its  chief  tenet — the  belief  that  the
 universe  owed  its  existing  form  to  the  opposing
@@ -2925,17 +2689,13 @@ all  but  the  name,  while  his  evil  principle  is  no  longer
 the  formidable  Zoroastrian  Ahriman,  but  approximates
 
 1  There  is  a  tendency  among  modern  Zoroastrians  and  some  scholars
-to  modify  or  even  deny  the  dualism,  but  to  do  this  is  to  deprive  Zoro-
-istrianism  of  its  most  characteristic  feature,  and  its  best  title  to  be
+to  modify  or  even  deny  the  dualism,  but  to  do  this  is  to  deprive  Zoroistrianism  of  its  most  characteristic  feature,  and  its  best  title  to  be
 considered  one  of  the  great  religions  of  the  world.  See  DFKHP,  ii.
 187;  HEP,  303-305.
 
 
-INTRODUCTION  51
-
 rather  to  the  Muhamrnadan  Ibli's,  or  to  the  Devil  of
-the  Bible.  This  being  premised,  however,  it  is  pro-
-posed to  retain  the  expressions  Urmuzd  and  Ahriman
+the  Bible.  This  being  premised,  however,  it  is  proposed to  retain  the  expressions  Urmuzd  and  Ahriman
 in  the  Introduction,  as  being  on  the  whole  the  most
 suitable  and  convenient,  and  of  course  in  the  poem
 itself  wherever  they  occur.
@@ -2946,8 +2706,7 @@ themselves,  but  those  that  are  mythical  need  a  word
 of  explanation.  The  dualistic  conception  of  the
 universe,  while  it  tended  to  exalt  Urmuzd  and  Ahriman,
 did  so  at  the  expense  of  the  other  deities  of  the  ancient
-nature-worship  who  gradually  became  grouped  in  in-
-ferior capacities,  according  to  the  popular  conceptions
+nature-worship  who  gradually  became  grouped  in  inferior capacities,  according  to  the  popular  conceptions
 of  them,  round  one  or  other  of  the  two  great  principles,
 the  beneficent  round  Urmuzd  and  the  maleficent
 round  Ahriman.  In  the  course  of  time  many  of  them
@@ -2974,8 +2733,6 @@ to  be  authentic,  and  use  is  made  of  amulets,  elixirs,
 and  divining-cups.  The  most  potent  agent  throughout
 
 
-52  INTRODUCTION
-
 is  destiny,  which  is  represented  as  God's  purpose  with
 respect  to  man  as  revealed  in  the  heavens  by  the
 aspects  of  the  stars  and  planets.  There  is  no  more
@@ -2985,10 +2742,8 @@ whose  revolutions  gradually  grind  down  the  strongest,
 and  fill  the  vulgar  with  amaze  at  what  they  term  the
 turns  of  fortune.  To  the  sage  and  reader  of  the  stars,
 however,  the  future  is  spread  out  like  a  book,  and
-the  astrologer,  with  his  planispheres,  astrolabes,  calcula-
-tions of  nativities,  and  predictions  generally,  plays  a
-considerable  part  in  the  poem.  Destiny,  as  repre-
-sented to  us  by  the  poet,  is  made  up  of  two  distinct
+the  astrologer,  with  his  planispheres,  astrolabes,  calculations of  nativities,  and  predictions  generally,  plays  a
+considerable  part  in  the  poem.  Destiny,  as  represented to  us  by  the  poet,  is  made  up  of  two  distinct
 elements  which  he  does  not  attempt  to  reconcile — the
 Muhammadan  and  the  Zoroastrian.  The  former  may
 be  summed  up  for  the  reader  in  two  texts  from  the
@@ -3011,13 +2766,10 @@ kindly  influence  upon  him  ;  Ahriman  broke  into  the
 creation  of  Urmuzd  and  created  the  planets  to  run
 counter  to  the  stars  and  cross  their  purposes.  Destiny,
 therefore,  from  this  point  of  view,  being  the  resultant
-of  two  opposing  forces,  is  an  extremely  logical  deduc-
-tion well  borne  out  by  the  events  of  history  and  the
+of  two  opposing  forces,  is  an  extremely  logical  deduction well  borne  out  by  the  events  of  history  and  the
 
 1  Isaiah  xlv.  7.  2  Job  ii.  10.
 
-
-INTRODUCTION  53
 
 incidents  of  life  to  an  Eastern  eye,  but  corresponds
 rather  to  what  we  should  call  fortune  than  to  absolute
@@ -3031,8 +2783,7 @@ Juggernaut.  Yet  the  poet  and  his  characters  never
 fail  to  appeal  to  destiny  proper  on  occasions  when  it
 suits  them  so  to  do,  he  to  justify  the  ways  of  God  to
 man,  and  they  to  make  excuse  for  evil  done  or  the
-doing  of  it.  "  It  was  so  decreed,"  pleads  the  evil-
-doer ;  "  And  so  was  the  penalty,"  replies  the  avenger.
+doing  of  it.  "  It  was  so  decreed,"  pleads  the  evildoer ;  "  And  so  was  the  penalty,"  replies  the  avenger.
 At  other  times  again  the  poet  seems  to  hold  that  all  is
 hopeless  confusion,  and  that  we  cannot  tell  head  from
 tail  or  top  from  bottom.
@@ -3059,8 +2810,6 @@ Historic  period  where  the  moral  aspects  of  the  struggle
 are  discoursed  on  at  large,  and  the  deadly  sins  are
 
 
-54  INTRODUCTION
-
 personified  in  accordance  to  Zoroastrian  theology  as
 divs  or  fiends  in  the  service  of  Ahriman,  who  strive  to
 get  the  mastery  over  the  soul  of  man.
@@ -3075,8 +2824,7 @@ in  the  poem,  and  therefore  the  Semites  in  particular,
 who  were  the  most  idolatrous  race  with  whom  the
 Iranians  came  into  contact.  The  Assyrians  were
 notoriously  idolatrous,  and  so  were  the  Arabs  up  to
-the  days  of  Muhammad.  In  the  poem  all  idol-
-worshippers,  whether  of  Semitic  race  or  not,  are
+the  days  of  Muhammad.  In  the  poem  all  idolworshippers,  whether  of  Semitic  race  or  not,  are
 regarded  as  descendants  of  Zahhiik.  The  eldest  son
 of  Faridun — Salm — represents  the  western  division
 of  the  Indo-European  race,  the  second  son  Tiir  the
@@ -3093,15 +2841,12 @@ haze  of  myth  and  legend.  As  to  the  comparative
 importance  of  these  relations  to  the  frdnians,  native
 tradition  has  no  hesitation  in  assigning  the  first  place
 to  the  representatives  of  Tur,  the  second  to  those  of
-Zahhak,  and  the  third  to  those  of  Salm ;  and  accord-
-ingly in  the  poem  the  struggles  of  the  Iranians  with
+Zahhak,  and  the  third  to  those  of  Salm ;  and  accordingly in  the  poem  the  struggles  of  the  Iranians  with
 the  Turanians  occupy  more  space  than  those  with  all
 other  races  combined.  Yet  the  bitterest  feud  is  with
 Zahh&k.  In  other  cases  it  is  a  family  quarrel,  but
 Zahhak  is  of  another  stock — a  man  forbid.  However,
 
-
-INTRODUCTION  55
 
 all  the  greatest  heroes  of  the  poem  spring  from  unions
 between  members  of  races  thus  antagonistic.  The
@@ -3119,11 +2864,9 @@ without  witness  even  in  the  lands  and  peoples  most
 f
 
 given  over  to  Ahriman.  In  the  case  of  the  Arabs  we
-have  the  dynasty  of  Al  Munzir,  which  is  always  repre-
-sented as  being  friendly  to  the  Iranians.  This  dynasty
+have  the  dynasty  of  Al  Munzir,  which  is  always  represented as  being  friendly  to  the  Iranians.  This  dynasty
 ruled  at  Hira.  In  the  case  of  the  Hindus  we  have
-the  dynasty  of  Kaid,  which  is  always  kindly  and  help-
-ful. In  the  case  of  the  Turanians  the  tendency  to
+the  dynasty  of  Kaid,  which  is  always  kindly  and  helpful. In  the  case  of  the  Turanians  the  tendency  to
 goodwill  is  very  marked  in  some  of  the  characters.
 One  of  Afrasiyab's  own  brothers  becomes  an  arrant
 traitor  in  his  zeal  for  the  Iranian  interest,  and  suffers
@@ -3133,8 +2876,7 @@ great  and  good  Piran,  Afrasiyab's  cousin,  counsellor,  and
 commander-in-chief.  Though  his  loyalty  to  his  own
 master  is  absolutely  stainless  and  unimpeached,  he
 always  shows  himself  most  friendly  and  generous  to
-the  Iranians,  striving  for  peace  and  for  a  better  under-
-standing between  the  two  races.  He  lives  to  see  his
+the  Iranians,  striving  for  peace  and  for  a  better  understanding between  the  two  races.  He  lives  to  see  his
 honest  endeavours  foiled  and  his  well-meant  counsels
 turn  out  ill,  but  his  honesty  is  so  transparent  and
 recognised  that  even  the  fierce  tyrant  whom  he  serves,
@@ -3148,21 +2890,17 @@ own  son.  Iranian  amour  propre  is  thus  saved,  as  the  great  conqueror
 is  made  out  to  be  an  Iranian  himself — the  eldest  born  of  Sh£h  D.irdb.
 
 
-56  INTRODUCTION
-
 and  who  suffers  most  for  having  followed  his  advice,  has
 hardly  a  word  to  say  against  him,  and  he  only  gives  up
 the  leadership  of  the  host  with  death.  It  is  a  well  paid
 compliment  by  the  poet  to  the  Turkman  race.  It  was
-no  doubt  his  own  contribution  toward  a  good  under-
-standing, and  happily  he  could  not  foresee  the  horrors
+no  doubt  his  own  contribution  toward  a  good  understanding, and  happily  he  could  not  foresee  the  horrors
 which  the  eleventh  and  subsequent  centuries  held  in
 store  for  Iran  at  the  hands  of  the  nations  of  the  North.
 For  the  preservation  of  the  subject-matter  of  the
 Shahnama  we  are  chiefly  indebted  to  two  of  the
 classes  into  which  Firdausi  tells  us  ancient  franian
-society  was  divided — the  priestly  class  and  the  agri-
-cultural class  —  in  other  words  the  Magi  and  the
+society  was  divided — the  priestly  class  and  the  agricultural class  —  in  other  words  the  Magi  and  the
 Dihkans.  The  Magi  were  the  priests  of  the  true
 Medes  or  Madd,  among  whom  they  formed  a  caste  or
 tribe.  Originally  fire-priests,  as  their  own  name  for
@@ -3182,25 +2920,20 @@ Karabagh,  they  dwelt  in  the  neighbourhood  of  scenes
 of  natural  marvel.  Earthquakes  are  frequent  there,
 mud-volcanoes,  hot  springs,  and  naphtha  wells  abound.
 Flames  issuing  from  clefts  in  the  rocks  have  been
-ablaze  from  time  immemorial,  and  in  autumn  the  ex-
-halations from  the  soil  form  a  phosphorescence  that  at
+ablaze  from  time  immemorial,  and  in  autumn  the  exhalations from  the  soil  form  a  phosphorescence  that  at
 night  wraps  whole  districts  in  sheets  of  harmless  flame.
 Even  in  parts  of  the  Caspian  the  vapours  bubble  up,
 
 1  DZA,  i.  li,  ist  ed.  2  Skeat,  Etym.  Diet.,  s.v.
 
 
-INTRODUCTION  57
-
 may  be  ignited  and  will  go  on  burning,  over  several
 square  yards  of  water  till  a  gust  of  wind  extinguishes
-them.  The  scene  from  all  accounts  is  at  times  suffi-
-ciently impressive  even  to  the  modern  eye,  and  we
+them.  The  scene  from  all  accounts  is  at  times  sufficiently impressive  even  to  the  modern  eye,  and  we
 can  easily  imagine  what  fire  in  its  purest  form  and
 highest  expression — clear,  smokeless,  lambent  flames,
 burning  on  unfed  apparently  and  self-sustaining
-century  after  century — must  have  been  to  the  un-
-rationalistic  gaze  of  primitive  antiquity.  In  the
+century  after  century — must  have  been  to  the  unrationalistic  gaze  of  primitive  antiquity.  In  the
 presence  of  those  flames  all  other  fires  must  have
 seemed  but  "broken  lights."  Elsewhere  they  were
 hard  to  kindle,  needed  constant  care,  and  were
@@ -3211,8 +2944,7 @@ that  a  Cult  of  Fire  grew  up  there  in  the  dim  and
 distant  past.  We  can  well  imagine  too  how  famous
 the  priesthood  of  such  a  Cult  would  become  amid
 such  surroundings.  The  priest  of  ancient  times  was
-the  man  of  letters,  the  sage,  the  leech,  the  astro-
-loger and  the  man  of  occult  lore  and  grammarye,
+the  man  of  letters,  the  sage,  the  leech,  the  astrologer and  the  man  of  occult  lore  and  grammarye,
 and  this  priesthood  dwelt  in  a  region  which  is  not
 even  now  robbed  of  all  its  ancient  glamour  by  the
 fact  that  it  is  the  scene  of  the  greatest  petroleum
@@ -3232,14 +2964,10 @@ had  its  origin  in  one  particular  locality,  but  we  shall
 the  Aral  Sea  as  at  present.
 
 
-58  INTRODUCTION
-
 be  safe  in  stating  that  here  was  a  most  important
-centre  of  it,  and  in  claiming  for  its  priests  a  pro-
-portionate status  and  sanctity.1  We  have  already
+centre  of  it,  and  in  claiming  for  its  priests  a  proportionate status  and  sanctity.1  We  have  already
 seen  that  f  ran  is  a  land  of  sharp  contrasts  of  physical
-good  and  evil.  There  the  kindly  reticences  and  con-
-cealments of  nature,  the  blue  haze  of  distance  and
+good  and  evil.  There  the  kindly  reticences  and  concealments of  nature,  the  blue  haze  of  distance  and
 the  melting  of  line  into  line,  are  absent,  there  is  no
 neutral  territory,  no  common  meeting-ground ;  all  is
 clear,  sharp,  well  defined  and  recognisable  beyond  the
@@ -3258,8 +2986,7 @@ the  Christian  era  and  after  the  suicide  of  Cambyses,
 the  son  of  Cyrus  the  Great,  that  the  Magi  first  became
 supreme  in  the  vast  empire  which  the  latter  had
 founded,  for  now  we  have  evidence  that  neither  he
-nor  his  son  was  the  enthusiastic  proselytiser  of  Zoro-
-astrianism,  that  they  were  both  formerly  supposed  to
+nor  his  son  was  the  enthusiastic  proselytiser  of  Zoroastrianism,  that  they  were  both  formerly  supposed  to
 be,  but  at  most  tolerated  it  along  with  the  other
 faiths  of  their  world-wide  empire.2  After  the  death
 of  Cambyses,  however,  the  Magi  rose  to  power  in  the
@@ -3277,14 +3004,11 @@ island  of  Sviatoi  (Holy  Island)  lying  off  it.
 2  SHC,  497.
 
 
-INTRODUCTION  59
-
 the  gods  in  his  iconoclast  zeal.1  As  Darius  further
 informs  us  that  he  restored  these  temples,  and  also
 at  the  same  time  describes  himself  as  a  worshipper
 of  Urmuzd,2  we  may  assume  that  it  was  in  the  course
-of  his  reign  that  Zoroastrianism  became  the  state-
-religion  of  the  Persian  empire.  He  also  appears  about  /
+of  his  reign  that  Zoroastrianism  became  the  statereligion  of  the  Persian  empire.  He  also  appears  about  /
 B.C.  505  to  have  adopted  the  Zoroastrian  calendar  in
 the  place  of  the  old  Persian  one  that  he  had  used  up
 till  then,  and  this  fact  goes  to  support  the  assumption
@@ -3302,8 +3026,7 @@ position  they  had  gained,  ever  succeeded  in  making  their
 doctrines  popular  with  the  masses  of  the  first  Persian
 empire  may  well  be  doubted.  One  at  least  of  the
 successors  of  Darius — Artaxerxes  II.  (B.C.  404-361) —
-seems  to  have  relapsed  into  something  very  like  idol-
-atry/ and  with  the  conquest  of  Persia  by  Alexander
+seems  to  have  relapsed  into  something  very  like  idolatry/ and  with  the  conquest  of  Persia  by  Alexander
 the  Great  the  power  of  the  Magi  waned  for  a  time.
 
 Rightly   or   wrongly    Zoroastrian    tradition   couples  r"
@@ -3317,16 +3040,13 @@ three  arch  enemies  of  the    faith.8     With  the    intro-
 6  DHA,  v.  194.  7  DZA,  ii.  53.
 
 8  Id.  i.  xlviii.  This  notion  seems  to  have  been  firmly  fixed  in  the
-minds  of  the  faithful.  We  are  told  that  in  the  year  A.D.  1511  Zoroas-
-trians  resident  in  Persia  wrote  to  co-religionists  in  India  a  letter  in
+minds  of  the  faithful.  We  are  told  that  in  the  year  A.D.  1511  Zoroastrians  resident  in  Persia  wrote  to  co-religionists  in  India  a  letter  in
 which  they  stated  "  that  never  since  the  rule  of  Kaiomars  had  they
 suffered  more  than  what  they  were  then  undergoing.  In  sooth,  they
 declared  that  they  were  more  oppressed  than  their  race  had  ever  been
 at  the  hands  of  the  tyrants  Zohak,  Afrasiab,  Tur  and  Alexander."
 DFKHP,  i.  56.
 
-
-60  INTRODUCTION
 
 duction  of  Greek  ideas,  Greek  science  and  Greek
 polytheism,  there  can  be  no  doubt  that  the  bulk  of
@@ -3335,16 +3055,14 @@ had  ever  emerged.  During  the  next  five  centuries
 the  Magi  must  have  had  much  ado  to  keep  alive  the
 doctrines,  ritual,  and  sacred  traditions  of  their  faith.
 The  seductions  of  Greek  civilisation  were  followed  by
-the  brutalities  of  Parthian  barbarism,  and  any  modifi-
-cation of  these  was,  during  the  first  centuries  at  all
+the  brutalities  of  Parthian  barbarism,  and  any  modification of  these  was,  during  the  first  centuries  at  all
 events  of  Parthian  rule,  in  the  direction  of  Greek
 culture.  The  Parthian  monarchs  describe  themselves
 as  philhellenic  on  their  coins.  The  Magi,  however,
 were  well  equipped  .for  the  struggle.  They  had  a
 great  reputation.  They  held  a  faith  in  many  respects
 much  in  advance  of  their  times,  and  one  too  that
-found  its  justification  in  the  strange  natural  pheno-
-mena and  sharp  contrasts  of  physical  good  and  evil
+found  its  justification  in  the  strange  natural  phenomena and  sharp  contrasts  of  physical  good  and  evil
 that  characterise  fran.  They  had  kept  alive  too,  at
 a  time  when  ancient  Persian  was  passing  into  rapid
 phonetic  decay,  the  ancient  language  of  their  race —
@@ -3354,8 +3072,7 @@ practising  the  peculiar  custom  of  Khvaituk-das,  or
 next  of  kin  marriage,  which,  though  most  repugnant
 to  the  sentiments  of  mankind  at  large,  must  certainly
 have  tended  to  preserve  their  faith  from  the  dangerous
-external  and  foreign  influences  which  an  indiscrimi-
-nate practice  of  marriage  would  have  entailed.  That
+external  and  foreign  influences  which  an  indiscriminate practice  of  marriage  would  have  entailed.  That
 the  Magi  practised  Khvaitiik-das  in  the  days  of  the
 Parthian  monarchy  we  may  learn  from  Catullus.1
 The  three  principal  seats  of  the  Magi  seem  to  have
@@ -3383,8 +3100,7 @@ in  pre  -  Muhammadan  times  to  make  pilgrimages
 afoot.1  Rai,  which  was  near  Tihran,  seems  to  have
 been  the  centre  of  a  priestly  principality  of  great
 antiquity,  whose  priest  -  prince  was  known  as  the
-Zarduhsht.  It  was  finally  destroyed  by  the  Muham-
-madans.2  Balkh  was  the  scene  of  Zarduhsht  or
+Zarduhsht.  It  was  finally  destroyed  by  the  Muhammadans.2  Balkh  was  the  scene  of  Zarduhsht  or
 Zoroaster's  most  successful  missionary  effort,  which
 led  to  the  conversion  of  Shah  Gushtasj)._  Here,  too,
 the  prophet  is  said  to  have  beerf  slain  when  the  city
@@ -3404,8 +3120,7 @@ literature  is  as  follows:  The  original  scriptures  were
 revealed  to  Zoroaster  by  Urrnuzd.  Zoroaster  preached
 them  to  Shah  Gushtasp,  whose  capital  was  at  Balkh.
 Gushtasp  ordered  the  original  to  be  deposited  in  the
-treasury  of  Shapigdn  and  copies  to  be  made  and  dis-
-seminated, one  of  which  was  laid  up  in  the  fortress
+treasury  of  Shapigdn  and  copies  to  be  made  and  disseminated, one  of  which  was  laid  up  in  the  fortress
 of  documents.  When  "  the  evil  destined  villain
 Alexander"  invaded  fran  the  copy  in  the  fortress
 of  documents  was  burnt ;  that  in  the  treasury  of
@@ -3415,21 +3130,16 @@ of  documents  was  burnt ;  that  in  the  treasury  of
 3  Herod,  i.  132.  4  Id,  140.
 
 
-62  INTRODUCTION
-
-Shapigan  fell  into  Alexander's  hands  and  was  trans-
-lated by  his  command  into  Greek.1  King  Valkash
+Shapigan  fell  into  Alexander's  hands  and  was  translated by  his  command  into  Greek.1  King  Valkash
 ordered  a  collection  to  be  made  of  the  scriptures,
 which  in  his  days  existed  in'  Iran  in  a  scattered  state
 owing  to  the  disruption  caused  by  the  Macedonian
 conquest.2  Ardshir,  the  son  of  Papak,  who  overthrew
 the  Parthians  and  restored  the  Iranian  monarchy,  also
 made  a  collection  of  the  scriptures.  He  employed
-for  that  purpose  the  high-priest  Tausar,  who  repro-
-duced a  similitude  of  the  original  as  it  had  existed
+for  that  purpose  the  high-priest  Tausar,  who  reproduced a  similitude  of  the  original  as  it  had  existed
 in  the  treasury  of  Shapigan.3  Shdpur,  the  son  of
-Ardshir,  made  a  collection  of  writings  of  a  non-re-
-ligious character  dealing  with  medicine,  astronomy,
+Ardshir,  made  a  collection  of  writings  of  a  non-religious character  dealing  with  medicine,  astronomy,
 and  other  scientific  subjects  that  had  been  scattered
 among  the  Hindus  and  Riirnans,  and  ordered  them  to
 be  incorporated  with  what  had  already  been  brought
@@ -3439,15 +3149,12 @@ of  all  points  of  disputed  doctrine.  These  points
 were  settled  by  ordeal,  and  thenceforth  the  Shah
 proclaimed  and  insisted  on  uniformity.6
 
-With  regard  to  this  account  legend  places  the  birth-
-place and  home  of  Zoroaster  in  iran-vej.6  Here  on
+With  regard  to  this  account  legend  places  the  birthplace and  home  of  Zoroaster  in  iran-vej.6  Here  on
 the  Mountain  of  the  Holy  Questions  he  met  Urmuzd
-face  to  face,  and  received  from  him  in  a  series  of  dia-
-logues the  tenets  of  the  faith.  Here  too  the  prophet
+face  to  face,  and  received  from  him  in  a  series  of  dialogues the  tenets  of  the  faith.  Here  too  the  prophet
 was  assailed  by  the  demon  Buiti  sent  by  Ahriman,  and
 subsequently  tempted  by  the  latter  in  person.  Both
-were,  however,  worsted,  and  Zoroaster  began  his  mission-
-ary career.7  His  great  success  seems  to  have  been  at
+were,  however,  worsted,  and  Zoroaster  began  his  missionary career.7  His  great  success  seems  to  have  been  at
 Balkh,  one  of  the  chief  centres  of  Aryan  civilisation.
 This  we  may  interpret  as  meaning  that  Zoroastrianism
 spread  from  West  to  East  along  the  line  of  the  great
@@ -3460,8 +3167,6 @@ trade-route.  The  extant  portions  of  the  Zoroastrian
 7  WPT,  i.  141.
 
 
-INTRODUCTION  63
-
 scriptures  have  many  allusions  to  Balkh  and  Eastern
 Iran  generally,  and  in  the  later  part  of  the  Mythic
 period  of  the  poem  the  scene  is  shifted  thither.
@@ -3470,14 +3175,12 @@ that  he  burnt  these  scriptures,  which  were  written
 on  twelve  thousand  ox-lube's-  ni.  Persepolis.1  During
 the  domination  of  the  Parthians  fran  was  broken  up
 into  a  number  of  small  tributary  principalities  under
-native  chiefs,  some  of  whom  seem  to  have  main-
-tained a  Magian  priesthood  and  sacred  fires  of  their
+native  chiefs,  some  of  whom  seem  to  have  maintained a  Magian  priesthood  and  sacred  fires  of  their
 own.2
 
 It  is  possible  that  it  may  have  been  the  rise  of
 local  Zoroastrian  cults  with  divergent  doctrines  and
-ritual  that  led  King  Valkash,  in  his  capacity  of  over-
-lord, to  make  a  collection  of  the  scriptures  with  a
+ritual  that  led  King  Valkash,  in  his  capacity  of  overlord, to  make  a  collection  of  the  scriptures  with  a
 view  to  the  establishment  of  a  canon  and  uniformity.
 Valkash  himself  has  been  well  identified  with  the
 Parthian  king  Vologeses  I.  (A.D.  50-78),  whose
@@ -3505,23 +3208,19 @@ The   language  of  the    scriptures  is  commonly  but
 4  Jd.  xli.  6  Id.  6  Id.  xlvii.  »  WPT,  iv.  xlii.
 
 
-64  INTRODUCTION
-
 incorrectly  known  as  Zend.  It  seems  almost  certain
 that  really  it  should  be  known  as  Median.1  Zend,
 i.e.  Median,  as  preserved  in  its  scriptures,  and  ancient
 Persian,  as  preserved  in  the  inscriptions  of  the
 Achaemenids,  are  two  sister-languages  collaterally  re-
-Tated  TcPSanscrit.  How  and  when  Zend  became  ex-
-tinct, whether  it  still  survives  in  a  modified  form  in
+Tated  TcPSanscrit.  How  and  when  Zend  became  extinct, whether  it  still  survives  in  a  modified  form  in
 some  modern  dialect  such  as  the  Kurd,  does  not  seem  to
 have  been  yet  determined ;  but  the  existence  of  the
 Zandavasta  indicates  that  it  remained  known  to  and
 used  by  the  Magi  in  its  inflectional  form  long  after
 its  sister-language  the  Persian  had  lost  most  of  its
 inflections  and  had  become  greatly  simplified.  Zend
-may  thus  be  regarded  as  being  during  the  five  cen-
-turies and  a  half  which  elapsed  between  the  death
+may  thus  be  regarded  as  being  during  the  five  centuries and  a  half  which  elapsed  between  the  death
 of  Darius  Codomanus  and  the  accession  of  Ardshir
 Papakan  the  sacred  language  of  the  Magi — one  known
 only  to  themselves  and  holding  with  them  very  much
@@ -3529,15 +3228,13 @@ the  same  position  as  Sanscrit  did  among  the  Brahmans
 of  India.  During  this  period  ancient  Persian  was
 itself  being  converted  into  middle  Persian  or  Pahlavi.2
 Pahlavi,  it  should  be  explained,  is  the  same  word  as
-Parthian,  and  in  this  connection  means  not  the  lan-
-guage spoken  by  the  Parthians  themselves,  but  that
+Parthian,  and  in  this  connection  means  not  the  language spoken  by  the  Parthians  themselves,  but  that
 used  under  their  rule  by  their  Persian  or  Iranian
 
 1  "  La  comparison,"  says  the  late  Professor  Darmesteter  in  the  work
 in  which  he  seems  to  have  expressed  his  clearest  views  on  the  subject,
 "  des  textes  avesteens  avec  ce  que  les  anciens  nous  disent  des  croyances
-et  des  pratiques  des  Mages  prouve  que  1'Avesta  nous  pre"sente  la  croy-
-ance   des   Mages  du   temps   d'He"rodote,   d'Aristote,   de  Theopompe  ;
+et  des  pratiques  des  Mages  prouve  que  1'Avesta  nous  pre"sente  la  croyance   des   Mages  du   temps   d'He"rodote,   d'Aristote,   de  Theopompe  ;
 d'autre  part,  les  anciens  sont  unanimes  a   entendre  par  Mages  les
 pretres  de  la  Medie.     II  suit  de  la,  par  le  temoignage  externe  des
 classiques  joint  au  temoignage  intrinseque  des  livres  zends  et  de  la
@@ -3551,18 +3248,11 @@ DEI,  i.  12.*
 *  The  italics  are  Professor  Darmesteter's.
 
 
-INTRODUCTION
-
-
-65
-
-
 subjects.1  To  the  people  at  large  in  Sasanian  times
 the  language  in  which  the  inscriptions  of  Darius
 Hystaspis  and  his  successors  had  been  written,
 and  that  of  the  Zoroastrian  scriptures  compiled  by
-Tausar  and  others,  were  alike  unintelligible.  It  ac-
-cordingly became  the  custom  in  making  copies  to
+Tausar  and  others,  were  alike  unintelligible.  It  accordingly became  the  custom  in  making  copies  to
 append  a  Pahlavi  version,  paraphrase,  or  comment  on
 the  original  text.  The  scriptures  themselves  were
 known  as  the  Avasta,  and  all  comments  thereon,
@@ -3581,8 +3271,7 @@ Aryan  people,  before  it  broke  up  into  its  Indian  and
 Iranian  divisions.  The  names  referred  to  are  common
 in  a  somewhat  altered  form  both  to  the  Zandavasta
 and  to  the  ancient  Sanscrit  hymns  of  India — the
-Vedas.3  We  may  regard  the  traditions  of  the  Zan-
-davasta as  essentially  Magian ;  they  were  destined,
+Vedas.3  We  may  regard  the  traditions  of  the  Zandavasta as  essentially  Magian ;  they  were  destined,
 however,  to  undergo  a  remarkable  development  and
 expansion  in  other  hands.
 
@@ -3605,8 +3294,6 @@ E
 -\
 
 
-66  INTRODUCTION
-
 had  obliterated  all  but  the  vaguest  reminiscences  of
 the  first  Persian  empire  and  the  house  of  Achaemenes.
 The  consequence  was  that  the  mythical  demigods  of
@@ -3622,23 +3309,19 @@ legends  of  the  Zandavasta  accordingly  went  on  apace,
 and  the  chief  agents  in  the  process  were  the  Dihkdns.
 This  was  the  name  given  to  the  rural  landowners  of
 Iran.  Firdausi  himself  seems  to  have  been  the  son
-of  a  Dihkan.  All  the  world  over  the  rural  popula-
-tions are  the  depositories  of  national  tradition.  A
+of  a  Dihkan.  All  the  world  over  the  rural  populations are  the  depositories  of  national  tradition.  A
 notable  instance  occurred  only  so  long  ago  as  the  last
-century  when  Dr.  Elias  Lonnrot,  after  years  of  wander-
-ing among  the  remotest  districts  of  Finland,  dwelling
+century  when  Dr.  Elias  Lonnrot,  after  years  of  wandering among  the  remotest  districts  of  Finland,  dwelling
 with  the  peasantry  and  taking  down  from  their  lips
 all  that  they  knew  of  their  popular  songs,  ultimately
 succeeded  in  collecting  nearly  twenty-three  thousand
 verses  which,  arranged  by  him  and  divided  into  fifty
 runes,  now  form  the  national  Finnish  epic  known  as
 the  Kalewala.1  Much  the  same  process  went  on  in
-Iran  at  an  earlier  date.  Traditions  based  on  the  Zanda-
-vasta were  recited  in  the  halls  of  the  chiefs,  at  village
+Iran  at  an  earlier  date.  Traditions  based  on  the  Zandavasta were  recited  in  the  halls  of  the  chiefs,  at  village
 festivals  and  at  street-corners — a  custom  still  obtaining
 in  Persia — till  in  time  the  word  Dihkan  came  to  have
-a  well  recognised  secondary  meaning — that  of  pro-
-fessional story-teller,  rustic  bard,  or  wandering  minstrel.
+a  well  recognised  secondary  meaning — that  of  professional story-teller,  rustic  bard,  or  wandering  minstrel.
 In  the  course  of  the  Sasanian  dynasty  these  traditions
 were  collected  and  put  into  writing.  The  result  was
 variously  known  as  the  Bastan,  Khudai,  and  Shah
@@ -3647,20 +3330,16 @@ Nama,  with  the  respective  meanings  of  History  of
 1  Ency.  Brit.  ix.  219.
 
 
-INTRODUCTION  67
-
 the  Past,  of  the  Lords,  and  of  the  Kings.  In
 Baisinghar  Khan's  Preface  already  referred  to  there
 is  an  account  of  the  Bastan-naina  which  may  thus
-be  summarised.  Shah  Niishirwan  collected  the  tradi-
-tions and  deposited  the  MSS.  in  his  library.
+be  summarised.  Shah  Niishirwan  collected  the  traditions and  deposited  the  MSS.  in  his  library.
 Yazdagird,  the  last  of  the  Sasanians,  employed  the
 Dihkan  Danishwar  to  catalogue  and  supplement  these
 histories  and  arrange  them  in  chronological  order  from
 the  reign  of  Gaiiimart  to  that  of  Khusrau  Parwiz.
 At  the  time  of  the  Muharnmadan  conquest  of  Persia
-they  were  sent  to  'Umar,  the  commander  of  the  faith-
-ful, who  had  them  translated  and  only  partially
+they  were  sent  to  'Umar,  the  commander  of  the  faithful, who  had  them  translated  and  only  partially
 approved  of  their  contents.  In  the  general  division
 of  the  Persian  spoil  the  books  fell  into  the  hands  of
 the  Abyssinians,  who  presented  them  to  King  Jasha,
@@ -3689,19 +3368,15 @@ who  encouraged  Firdausi  to  complete  the  work.
 NT,  xxv.
 
 
-68  INTRODUCTION
-
 As  Baisinghar  Khan's  preface  dates  from  the  first
 quarter  of  the  fifteenth  century,  and  contains  much
 that  is  obviously  romantic,  it  is  needful  to  receive  the
 above  account  with  all  caution.  Even  when  we  have
 rejected  the  story  of  King  Jasha  and  the  Abyssinians
-we  are  still  confronted  by  a  chronological  impossi-
-bility. Ya'kiib,  the  son  of  Lais  the  coppersmith,  died
+we  are  still  confronted  by  a  chronological  impossibility. Ya'kiib,  the  son  of  Lais  the  coppersmith,  died
 in  A.D.  878.  Abu  Mansiir,  who  had  the  work  of
 the  Dihkan  Danishwar  translated,  was  a  brother  of
-Muhammad,  son  of  Abdu'r-Razzak,  and  this  Muham-
-mad was  prince  of  Tiis  in  the  middle  of  the  tenth
+Muhammad,  son  of  Abdu'r-Razzak,  and  this  Muhammad was  prince  of  Tiis  in  the  middle  of  the  tenth
 century,1  in  the  days  when  Firdausi  was  growing
 up.  Ya'kiib  and  Abu  Mansiir  were  therefore  not
 contemporaries.  Ya'kiib  had  worked  in  his  father's
@@ -3717,8 +3392,7 @@ not  have  commissioned  Abii  Mansiir  to  do  the  work
 for  him,  and  it  will  be  safer  to  dismiss  the  notion
 that  he  interested  himself  in  the  compilation  of  the
 Dihkan  Danishwar  as  highly  problematical.  On  the
-other  hand,  the  statement  in  Baisinghar  Khan's  pre-
-face that  Abii  Mansiir  did  have  a  Shahnama  compiled
+other  hand,  the  statement  in  Baisinghar  Khan's  preface that  Abii  Mansiir  did  have  a  Shahnama  compiled
 is  confirmed  by  the  learned  Abii  Raihan  Muhammad  bin
 'Ahmad  Albiriini  (A.D.  973—1048)  in  his  "  Chronology
 of  Ancient  Nations."2  Again  we  may  be  somewhat
@@ -3731,18 +3405,13 @@ traditions  were  collected  and  edited  by  some  learned
 2  Eng.  trans,  by  Dr.  E.  Sachau,  119.
 
 
-INTRODUCTION  69
-
 The  names  of  the  five  men  employed  by  Abu
 Mansiir  are  all  Persian,  and  the  men  themselves  were
 in  all  probability  Magi,  for  none  but  they  would  be
 likely  to  know  Pahlavi  in  the  tenth  century.  One  of
-the  five,  Shadan  son  of  Barzin,  is  mentioned  by  Fir-
-dausi as  his  authority  for  the  story  of  the  introduction
-into  Persia  of  Bidpai's  Fables  in  the  reign  of  Nushir-
-wan.1  Dakfki,  the  poet  who  was  first  entrusted  with
-the  task  of  versifying  the  Shahnama,  was  a  fire-
-worshipper,  as  four  lines  of  his  bear  witness : —
+the  five,  Shadan  son  of  Barzin,  is  mentioned  by  Firdausi as  his  authority  for  the  story  of  the  introduction
+into  Persia  of  Bidpai's  Fables  in  the  reign  of  Nushirwan.1  Dakfki,  the  poet  who  was  first  entrusted  with
+the  task  of  versifying  the  Shahnama,  was  a  fireworshipper,  as  four  lines  of  his  bear  witness : —
 
 "  Of  all  of  this  world's  good  and  ill
 Four  things  Dakiki  chooseth  still —
@@ -3752,10 +3421,8 @@ The  blood-red  wine,  the  Faith  of  Fire."
 Firdausi  tells  us  in  his  Prelude,  §  10,  that  when  on
 Dakiki's  murder  he  determined  to  carry  on  the  work
 himself  he  had  great  difficulty  in  obtaining  the  needful
-materials  for  the  purpose,  and  was  for  a  while  non-
-plussed by  want  of  them.  His  statement  seems  to
-require  some  explanation,  for,  in  addition  to  the  con-
-siderable Pahlavi  literature  then  extant,  the  collections
+materials  for  the  purpose,  and  was  for  a  while  nonplussed by  want  of  them.  His  statement  seems  to
+require  some  explanation,  for,  in  addition  to  the  considerable Pahlavi  literature  then  extant,  the  collections
 made  by  learned  Dihkans  had  been  translated  into
 Arabic,  and  were  obtainable  in  numerous  histories  in
 that  language.  Albiriini  tells  us  that  the  poet  Abii-
@@ -3774,8 +3441,6 @@ The  poet  in  fact  seems  to  speak  of  his  Pahlavi
 1  C,  1746.  2  Eng.  trans.,  p.  108.  3  NT,  xxiii.
 
 
-70  INTRODUCTION
-
 authorities  as  we  might  speak  of  the  Hebrew  Scriptures,
 meaning  the  Old  Testament,  though  we  may  know
 them  only  in  the  English  version.  His  chief  authority
@@ -3788,14 +3453,12 @@ originals.  Certain  passages  in  the  Shahnama,  where
 Iblis  is  substituted  for  Ahriman  as  the  name  of  the
 evil  principle,  may  be  attributed  with  confidence  to
 such  secondary  authorities.  Pahlavi  originals l  and
-Arabic  versions  have  alike  disappeared,  and  the  Shah-
-nama of  Firdausi,  which  alone  survives  of  all  the  many
+Arabic  versions  have  alike  disappeared,  and  the  Shahnama of  Firdausi,  which  alone  survives  of  all  the  many
 Shahnamas  that  once  existed,  has  now  become  the
 principal  storehouse  of  Iranian  legend,  and  the  leading
 authority  on  the  subject.  The  Sbahnama  of  Firdausi
 then  is  a  true  epic,  not  a  great  poet  s  invention,  and
-the  proof  is  to  be  found  in  the  nature  of  his  subject-
-matter  and  in  his  own  words.  He  expressly  disclaims
+the  proof  is  to  be  found  in  the  nature  of  his  subjectmatter  and  in  his  own  words.  He  expressly  disclaims
 all  originality,  telling  us  that  the  tale  had  all  been  told
 before,  and  that  all  the  fruit  that  had  fallen  in  the
 garden  of  knowledge  had  been  already  garnered.  His
@@ -3805,12 +3468,10 @@ best  and  purest  interpretation  on  all  that  he  found.2
 
 1  With  a  few  exceptions  which  will  come  up  for  notice  in  due  course.
 
-2  The  Zandavasta  as  we  possess  it  is  a  Bible  in  ruins.    Of  the  twenty-
-one  Nasks  or  Books  of  which  it  is  said  to  have  consisted  only  two  are
+2  The  Zandavasta  as  we  possess  it  is  a  Bible  in  ruins.    Of  the  twentyone  Nasks  or  Books  of  which  it  is  said  to  have  consisted  only  two  are
 extant  in  their  entirety,  and  these  two  are  precisely  those  which  the
 Magi  would  know  best — the  law  of  ceremonial  observances,  and  the
-hymns  and  litanies  most  frequently  used  in  public  worship.     In  addi-
-tion we  have  fragments  of  most  of  the  others,  and  certain  summaries,
+hymns  and  litanies  most  frequently  used  in  public  worship.     In  addition we  have  fragments  of  most  of  the  others,  and  certain  summaries,
 paraphrases,  and  comments  on  them  in  Pahlavi  which  enable  us  to
 form  a  fair  notion  of  the  general  contents  of  the  Zandavasta  as  a
 whole.     Thus  the  Dinkard  or  "  Acts  of  the  Faith  "  contains  a  summary
@@ -3818,8 +3479,6 @@ of  nineteen  of  the  twenty-one  Nasks,  while  the  Bundahish  or  "  Origina
 Creation  "  preserves  for  us  the  account  of  the  creation  as  it  was  told
 in  the  lost  Dstmddd  Nask  or  "  Creatures  produced."
 
-
-INTRODUCTION  71
 
 The  cosmogony  of  the  poem  assumes  the  earth  to
 be  flat  and  to  be  supported  on  the  horns  of  a  bull
@@ -3833,8 +3492,7 @@ during  the  night  from  the  West  back  to  the  East.3
 The  apertures  were  intended  to  account  for  the  changes
 of  place  in  the  rising  and  the  setting  of  the  sun
 throughout  the  year.  The  earth  was  divided  into
-Seven  Climes,  the  central  being  fran,  which  was  sur-
-rounded by  the  other  six  and  was  as  large  as  all
+Seven  Climes,  the  central  being  fran,  which  was  surrounded by  the  other  six  and  was  as  large  as  all
 the  rest  put  together.  It  was  divided  from  them
 by  vast  mountain  ranges.*  The  Central  Clime  was
 also  surrounded  by  the  Eastern  equivalent  of  the
@@ -3842,8 +3500,7 @@ Homeric  Oceanus  or  Ocean-stream,  for  the  Indus,
 Oxus,  Aras,  Euxine,  Bosphorus,  Sea  of  Marmora,
 Dardanelles,  Nile,  and  Indian  Ocean  were  regarded
 as  a  chain  of  rivers,  lakes,  gulfs,  and  seas  all  in
-connection  with  each  other.5  This  confusion,  especi-
-ally as  regards  the  Oxus  and  the  Aras,  frequently
+connection  with  each  other.5  This  confusion,  especially as  regards  the  Oxus  and  the  Aras,  frequently
 seems  to  have  misled  the  poet  himself.  He  was  a
 native  of  Eastern  Iran,  and  naturally  supposed  that
 the  river  so  constantly  referred  to  in  the  poem  as
@@ -3862,8 +3519,6 @@ Quatrains  de  Kheyam,"  168,  and  note.
 5  WPT,  i.  77,  and  notes.          6  DZA,  i.  4 ;  WPT,  i.  80.
 
 
-72  INTRODUCTION
-
 The  position  of  the  Medes  on  the  Aras  explains
 how  the  incursions  into  Azarbijan  of  the  Assyrians
 in  early,  and  of  the  Arabs  in  later,  times  came  to  be
@@ -3877,8 +3532,7 @@ great  enemies  of  the  Medes  hi  his  account  of  Persian
 fable : — "  Quid  autem  tibi  sunt  voluptati  viles  ac  vanae
 de  Byraspe  Astyage  fabulae  ?  "  Byrasp  or  Biwarasp
 is  the  Pahlavi  term  for  Zahhak.  Astyages  was  the
-great  Turanian  king  of  Ekbatana  and  sometime  over-
-lord of  Cyrus.  The  vast  spaces  and  regions  of  the
+great  Turanian  king  of  Ekbatana  and  sometime  overlord of  Cyrus.  The  vast  spaces  and  regions  of  the
 Oxus  have  always  been  a  difficulty  to  the  student  of
 the  Shahnama,  but  substitute  the  comparatively  narrow
 area  between  the  Caspian  and  the  Euxine  and  much
@@ -3889,8 +3543,7 @@ In  the  case  of  the  heavens  he  rejects  it ;  and  its  four
 heavens  of  the  Stars,  of  the  Moon,  of  the  Sun,  and  of
 the  Endless  Lights,  become  nine  in  the  poem — those
 of  the  seven  planets,  of  the  angels,  and  of  the  throne
-of  God.  These  heavens  were  supposed  to  be  crystal-
-line spheres  with  independent  motions  and  fitting  one
+of  God.  These  heavens  were  supposed  to  be  crystalline spheres  with  independent  motions  and  fitting  one
 inside  another  like  Chinese  boxes.  The  seven  planets
 are  the  Sun,  Moon,  Mercury,  Mars,  Venus,  Jupiter,  and
 Saturn.
@@ -3906,8 +3559,6 @@ The  warriors'  heads  touch  the  Sun  or  Saturn.  The
 
 2  DZA,  i.  Introd.  1.
 
-
-INTRODUCTION  73
 
 warriors  themselves  are,  or  are  like,  mountains,  lions,
 elephants,  leopards,  and  crocodiles,  they  level  the  hills
@@ -3933,22 +3584,18 @@ the  accounts  of  marches,  battlefields,  and  single  combats,
 indigo  or  ebony,  or  to  become  veiled  or  to  turn  dark
 at  noonday,  &c.  The  allusion  is  to  the  dust.  To  say
 that  the  air  darkened  is  often  merely  another  way  of
-saying  that  the  dust  rose ;  and  both,  and  kindred  ex-
-pressions, are  in  constant  use  to  indicate  that  hosts
+saying  that  the  dust  rose ;  and  both,  and  kindred  expressions, are  in  constant  use  to  indicate  that  hosts
 or  individuals  have  set  forth  on  some  expedition,
 are  approaching  or  engaging  in  battle,  &c.  Opposed
 to  the  dust — the  enemy,  is  water — the  friend.  "  Where
 land  and  water  are  my  treasure  is,"  says  one  of  the
 Shahs  in  the  poem,  and  the  poet  compares  the  joy
 of  having  one's  work  approved  by  the  wise  to  that  of
-seeing  plenty  of  water  in  one's  own  canal.  Conse-
-quently it  is  not  the  blue  but  the  cloudy  sky  that
+seeing  plenty  of  water  in  one's  own  canal.  Consequently it  is  not  the  blue  but  the  cloudy  sky  that
 delights  the  Persian  eye,  and  spring,  with  its  clouds
 and  thunder- showers,  flowers,  and  verdure,  is  the
 favourite  season.  "  The  hand  of  Mahrmid,"  says  the
 
-
-74  INTRODUCTION
 
 poet,  "  is  like  a  cloud  in  spring."  Perpetual  spring
 is  the  Persian's  notion  of  a  perfect  climate.  A  king
@@ -3971,8 +3618,7 @@ the  straight-stemmed  cypress  stoops.  A  youth  of
 promise  is  a  sapling  bearing  its  first  fruits.  To
 take  any  important  step  is  to  plant  a  tree  it  may
 be  of  revenge  or  of  some  prudent  act  of  policy,
-and  the  fruit  of  the  tree  will  according  to  circum-
-stances turn  out  to  be  either  gems  or  colocynth.  The
+and  the  fruit  of  the  tree  will  according  to  circumstances turn  out  to  be  either  gems  or  colocynth.  The
 poet  is  fond  of  moralising  on  life,  its  transient  nature
 and  vicissitudes.  His  favourite  figure  for  the  former  is
 the  wayside  caravanserai  or  inn  where  as  pilgrims  or
@@ -3986,24 +3632,19 @@ a  man  is  raised  to  Saturn  or  the  Pleiades  only  to  be
 flung  into  the  ditch  or  to  the  Fish — the  mythological
 one  referred  to  above.
 
-Like  other   poets  Firdausi   suffered  from   the  con-
-straint of  rhyme.     When  for  instance  we  find  "  Balkh  "
+Like  other   poets  Firdausi   suffered  from   the  constraint of  rhyme.     When  for  instance  we  find  "  Balkh  "
 
-
-INTRODUCTION  75
 
 at  the  end  of  one  hemistich  of  a  couplet,  "  talkh"  is
 pretty  certain  to  be  at  the  end  of  the  other,  and  as
 "  talkh  "  means  "  bitter"  the  sense  of  such  passages  is
 apt  to  be  strained.  Similarly  the  changes  are  rung  with
 great  frequency  on  the  words  "  nil  "  (indigo  or  the  Nile),
-"mil"  (a  mile),  and  "pil"  (an  elephant)  as  verse-
-endings.  The  first  of  these  three  words  is  one  of  the
+"mil"  (a  mile),  and  "pil"  (an  elephant)  as  verseendings.  The  first  of  these  three  words  is  one  of  the
 translator's  "  thorns  in  the  flesh,"  the  poet  using  it  in
 so  many  different  connections  that  it  is  impossible  to
 tind  a  formula  of  explanation  that  will  cover  them  all.
-Relief  from  an  English  point  of  view  is  sometimes  ob-
-tained by  substituting,  with  Mohl,  "  blue  sea  "  for  "  River
+Relief  from  an  English  point  of  view  is  sometimes  obtained by  substituting,  with  Mohl,  "  blue  sea  "  for  "  River
 Nile,"  but  the  best  antidote,  as  Firdausi  would  say,  for
 the  bane  of  the  word  is  Butler's  couplet : —
 
@@ -4045,24 +3686,17 @@ of  his  most  sumptuous  edition  at  the  expense  of  the
 French  government.  Six  volumes  have  appeared ;
 but  the  work  was  never  finished  owing  to  the  death  of
 the  editor.  This  edition  is  based  on  an  independent
-collation  of  MSS.,  and  includes  a  French  prose  transla-
-tion as  well  as  the  Persian  text.1  This  edition  will  be
+collation  of  MSS.,  and  includes  a  French  prose  translation as  well  as  the  Persian  text.1  This  edition  will  be
 referred  to  as  P.
 
 iv.  In  1850  a  complete  lithographed  edition  in  one
 volume  folio,  edited  by  Muhammad  Mahdi,  a  native  of
 
 1  It  should  be  added  that  the  French  translation  has  been  completed
-by  M.  Bar  bier  de  Meynard  from  the  text  of  C,  and  the  whole  transla-
-tion has  been  published  separately  by  the  late  Madame  Mohl.
-
-76
+by  M.  Bar  bier  de  Meynard  from  the  text  of  C,  and  the  whole  translation has  been  published  separately  by  the  late  Madame  Mohl.
 
 
-INTRODUCTION  77
-
-Ispahan,  was  published  at  Tihrdn.  The  text  is  a  re-
-print of  that  of  C,  with  occasional  variations,  *  some  of
+Ispahan,  was  published  at  Tihrdn.  The  text  is  a  reprint of  that  of  C,  with  occasional  variations,  *  some  of
 which  are  of  value.  This  edition  will  be  referred  to
 as  T.
 
@@ -4089,20 +3723,16 @@ English  translation  of  the  poem  as  a  whole  in  view
 of  the  magnitude  and  difficulty  of  the  undertaking.
 Our  prime  object  has  been  to  produce  a  clear  and
 intelligible  rendering,  and  with  this  end  in  view  we
-have  found  it  needful  to  dispense  with  certain  re-
-dundances in  the  original.  All  these  probably  may  be
+have  found  it  needful  to  dispense  with  certain  redundances in  the  original.  All  these  probably  may  be
 grouped  under  the  following  heads — variant,  corrupt,
 and  spurious  passages;  repetitions,  tautologies,  and
-platitudes ;  and  idiomatic  and  grammatical  construc-
-tions that  proved  intractable.  Those  who  are  ac-
+platitudes ;  and  idiomatic  and  grammatical  constructions that  proved  intractable.  Those  who  are  ac-
 quainted with  the  original  will  readily  understand
 what  these  omissions  amount  to ;  those  unacquainted
 with  it  may  easily  find  out  by  comparing  our  version
 with  that  of  M.  Mohl.  Both  will,  we  think,  admit
 that  we  have  left  the  fable  absolutely  intact,  that
 
-
-78  INTRODUCTION
 
 we  have  scrupulously  avoided  cutting  to  the  quick
 and  have  done  nothing  to  forfeit  our  claim  to  call
@@ -4111,10 +3741,8 @@ Shahnama.
 
 Our  version  is  metrical,  partly  rhymed  and  partly
 unrhymed.  The  rhymed  portion  consists  of  preludes,
-apologues,  sayings  of  wise  men,  songs,  terminal  coup-
-lets, passages  in  which  the  poet  speaks  in  his  own
-person,  and  some  others  that  seemed  to  lend  them-
-selves to  such  treatment.  These  form  a  very  small
+apologues,  sayings  of  wise  men,  songs,  terminal  couplets, passages  in  which  the  poet  speaks  in  his  own
+person,  and  some  others  that  seemed  to  lend  themselves to  such  treatment.  These  form  a  very  small
 part  of  the  whole,  and  are  generally  line  for  line  with
 the  original,  though  couplets  or  hemistichs  may  be
 sometimes  inverted  for  convenience  in  rendering.  We
@@ -4122,8 +3750,7 @@ have  changed  the  metre  occasionally  partly  for  the
 sake  of  variety,  partly  to  suit  the  character  of  different
 passages,  and  partly  for  our  own  refreshment  and
 amusement.  The  reader  should,  however,  clearly
-understand  that  a  change  of  metres  implies  no  cor-
-responding change  in  the  original,  of  which  the  metre
+understand  that  a  change  of  metres  implies  no  corresponding change  in  the  original,  of  which  the  metre
 is  the  same  throughout.
 
 The  unrhymed  portion,  which  forms  the  bulk  of
@@ -4146,11 +3773,8 @@ additions  made  by  the  editor  himself  in  his  notes
 and  in  his  Apparatus  Criticus  at  the  end  of  his  first
 
 
-INTRODUCTION  79
-
 volume,  subject  of  course  to  the  heads  of  omissions
-stated  above  and  to  the  occasional  adoption  of  read-
-ings from  other  texts.  These,  we  hope,  we  have  in-
+stated  above  and  to  the  occasional  adoption  of  readings from  other  texts.  These,  we  hope,  we  have  in-
 variably noted.
 
 When  the  text  of  V  failed  us  Ave  fell  back  upon
@@ -4159,8 +3783,7 @@ we  may  find  it  necessary  to  make  till  the  volume  of
 our  translation  is  reached  in  which  the  change  of  text
 occurs.
 
-The  attention  of  the  reader  is  called  to  the  follow-
-ing points : —
+The  attention  of  the  reader  is  called  to  the  following points : —
 
 1.  It   is  hoped   that  the   Introduction   may   prove
 sufficient  for  those  who  wish  to  read  the  Shahnama
@@ -4170,8 +3793,7 @@ the  principal  divisions  of  the  poem,  but  it  has  been
 thought  desirable  to  avoid  footnotes,  as  far  as  possible,
 to  the  translation  itself.
 
-2.  The  passages  that  need  the  most  constant  eluci-
-dation are  those  of  a  descriptive,  figurative,  or  meta-
+2.  The  passages  that  need  the  most  constant  elucidation are  those  of  a  descriptive,  figurative,  or  meta-
 phorical  character.     An   attempt   has  been   made  to
 explain    the    principal  of   these    once   for   all   in   the
 previous   chapter.     Such   passages  often   might   have
@@ -4180,8 +3802,7 @@ the  imagery  of  the  original.     It  has  seemed   to   us,
 however,  better  to  say  that  the  Shah  dropped  the  ball
 into    the    cup1    or    bestowed    the    kettledrums    upon
 some  one,  than  that  the  Shdh  gave  the  signal  for  the
-host  to  move  or  appointed  some  one  commander-in-
-chief.
+host  to  move  or  appointed  some  one  commander-inchief.
 
 3.  The  structure  of  the   Persian   language  is  very
 loose  grammatically.     One  form,  for  instance,  stands
@@ -4195,19 +3816,16 @@ what  we  should  call  bell-metal.
 
 8o  INTRODUCTION
 
-course  this  involves  a  certain  amount  of  interpreta-
-tion, and  differences  of  opinion  in  some  cases  legiti-
+course  this  involves  a  certain  amount  of  interpretation, and  differences  of  opinion  in  some  cases  legiti-
 mately may  exist  as  to  who  or  what  the  person  or
 thing  referred  to  may  be.  On  the  other  hand,  we
 often  find  a  noun  where  in  English  we  should  use  a
-pronoun,  and  we  have  constantly  made  the  substitu-
-tion in  passages  where  no  doubt  can  arise  in  the
+pronoun,  and  we  have  constantly  made  the  substitution in  passages  where  no  doubt  can  arise  in  the
 reader's  mind.  Again  the  couplet-form  in  which  the
 poem  is  written  has  a  tendency  to  break  it  up  into
 a  succession  of  short  sentences,  and  this,  added  to  the
 above-mentioned  use  of  the  noun  where  we  should
-naturally  use  the  pronoun  and  to  the  paucity  of  con-
-necting particles,  frequently  makes  the  transition  from
+naturally  use  the  pronoun  and  to  the  paucity  of  connecting particles,  frequently  makes  the  transition  from
 sentence  to  sentence  somewhat  abrupt  and  the  line
 of  thought  difficult  to  follow.  Often  we  have  carried
 on  sentences  by  the  addition  of  connecting  particles
@@ -4217,28 +3835,23 @@ which  are  not  in  the  original.
 regard  to  certain  important  words  in  the  original.
 
 Bdj  and  Zamzam.  By  these  terms  is  known  a
-certain  practice  of  Zoroastrians  which  may  be  para-
-phrased in  English  as  "  taking  prayer  inwardly."
+certain  practice  of  Zoroastrians  which  may  be  paraphrased in  English  as  "  taking  prayer  inwardly."
 Before  eating,  washing,  &c.,  it  is  customary  to  mutter
 the  beginning  of  some  sacred  formula,  to  carry  through
 the  operation  in  complete  silence,  and  then  to  utter
 the  rest  of  the  formula  aloud.1  We  have  employed
 such  expressions  as  "  muttering  "or  "  muttered  prayer  "
 to  describe  the  practice.  It  is  sometimes  used  as
-a  pretext  for  obtaining  a  few  moments'  private  con-
-versation.
+a  pretext  for  obtaining  a  few  moments'  private  conversation.
 
 Barsam.  This  was  formerly  a  bundle  of  twigs,  but
 now  of  metal  wires  varying  in  number  according  to
-circumstances,  held  in  the  hand  during  the  perform-
-ance of  certain  religious  rites  of  the  Zoroastrians.2
+circumstances,  held  in  the  hand  during  the  performance of  certain  religious  rites  of  the  Zoroastrians.2
 The  practice  is  clearly  referred  to  in  Ezekiel  viii.  16,
 1 7.  We  translate  "  Barsam  "  by  "  the  sacred  twigs."
 
 1  WPT,  ii.  134.  2  HEP,  397,  &c.
 
-
-INTRODUCTION  81
 
 Dakhma.  Firdausi  does  not  use  this  word  in  its
 proper  sense — that  in  which  it  is  still  used  by  the
@@ -4285,24 +3898,19 @@ be  found  in  DFKHP,  i.  192-213.
 F
 
 
-82  INTRODUCTION
-
 expression  "dindrs  and  dirams"  is  one  frequently
-met  with  in  the  poem,  and  as  it  is  rather  an  in-
-convenient one  metrically  we  have  substituted  the
+met  with  in  the  poem,  and  as  it  is  rather  an  inconvenient one  metrically  we  have  substituted  the
 older  form  "  drachm  "  for  "  diram."
 
 Div.  We  retain  this  word  as  in  the  original.
-When  spelt  with  a  capital  it  is  to  be  regarded  as  equiva-
-lent to  Ahriman  or  Iblis,  except  in  the  collocations
+When  spelt  with  a  capital  it  is  to  be  regarded  as  equivalent to  Ahriman  or  Iblis,  except  in  the  collocations
 "Black  Div"  and  "White  Div."  When  spelt  with
 a  small  letter  it  may  mean  either  a  demon  or  a
 member  of  some  savage  or  outlandish  tribe.1
 
 Farr.  The  "  farr "  was  regarded  as  the  special
 divine  endowment  of  the  Iranian  race — the  favoured
-people  of  Urmuzd — and  as  an  object  of  envy  or  ambi-
-tion to  the  neighbouring  peoples.  It  was  regarded  in
+people  of  Urmuzd — and  as  an  object  of  envy  or  ambition to  the  neighbouring  peoples.  It  was  regarded  in
 the  Zandavasta  as  something  material,  that  could  be
 sought,  seized,  and  carried  off,  and  even  in  the  Shahnama
 we  find  a  few  occasions  when  it  assumes  a  visible
@@ -4331,11 +3939,8 @@ sign  of  special  favour.  As  it  was  accompanied  bj
 1  Cf.  the  Chinese  expression  "  foreign  devils."
 
 
-INTRODUCTION  83
-
 other  gifts  it  came  to  mean  gifts  generally  when
-bestowed  by  the  ruler  on  a  subject.  We  usually  trans-
-late the  word  as  "  robe  of  honour."
+bestowed  by  the  ruler  on  a  subject.  We  usually  translate the  word  as  "  robe  of  honour."
 
 Maiddn.  This  word  properly  means  a  level  piece
 of  ground  attached  to  palaces  or  cities  and  used  for
@@ -4352,8 +3957,7 @@ and  is  sometimes  used  of  priests  of  other  religious
 denominations.  When  used  in  its  proper  sense  we
 translate  it  by  "archmage"  or  "  archimage,"  when
 used  generally  by  "  priest."  The  expression  "  miibid-i
-miibi-dan,"  i.e.  chief  of  the  miibids,  we  always  trans-
-late by  "  high  priest."
+miibi-dan,"  i.e.  chief  of  the  miibids,  we  always  translate by  "  high  priest."
 
 Pahlavi  and  Pahlavdn.  The  first  of  these  two  words
 has  been  already  explained.1  We  render  it  by  such
@@ -4377,20 +3981,16 @@ latter  we  must  go  to  the  Latin  "  Fata."  In  meaning,
 1  p.  64.
 
 
-84  INTRODUCTION
-
 however,  our  "  fairy  "  and  "  fay  "  are  the  nearest  English
 equivalents,  and  we  have  so  rendered  the  word.
 
-Sardparda. — We  translate  this  word  by  "  camp  en-
-closure." The  saraparda  was  a  screen  of  canvas  or
+Sardparda. — We  translate  this  word  by  "  camp  enclosure." The  saraparda  was  a  screen  of  canvas  or
 other  material  encircling  an  encampment.
 
 5.  Some   of  the  chief  characters  in  the   poem  are
 known    in    the    original    by    several    titles.     Zal,    the
 father  of  Rustam,  is   also  called   Zal-i-Zar,   Dastan-i-
-Zand,  Dastan-i-Sam,  or  simply  Dastan ;  Rustam  him-
-self is  frequently  referred  to  as  the  son  of  Zdl,  the
+Zand,  Dastan-i-Sam,  or  simply  Dastan ;  Rustam  himself is  frequently  referred  to  as  the  son  of  Zdl,  the
 Elephant-bodied,  the  Matchless,    &c.,    and    there    are
 other  instances   of  duplicate  names.     To   follow   the
 original    in   this   respect   would   involve    the    English
@@ -4401,8 +4001,7 @@ in  such  a  context  that  no  doubt  is  possible  as  to  the
 identity  of  the  person  referred  to.
 
 Again,  the  poet  uses  the  word  Shah  in  a  very  wide
-connection,  but  we  employ  it  only  when  one  of  the  forty-
-nine  rulers  of  Iran  or  the  Sultan  Mahmiid  is  referred
+connection,  but  we  employ  it  only  when  one  of  the  fortynine  rulers  of  Iran  or  the  Sultan  Mahmiid  is  referred
 to.  Where  the  word  is  applied  to  others  than  the
 above  we  translate  it  by  king  or  monarch,  &c.  We
 have  carried  out  the  same  principle  in  other  cases
@@ -4425,8 +4024,6 @@ English  reader  "Caesar  said"  is  better  than  "  Kaisar  said,"  or,  more
 correctly,  "  Qaisar  said."
 
 
-INTRODUCTION  85
-
 In  the  Persian  the  letter  k  in  the  word  Kabul  for
 instance  is  a  different  letter  from  that  beginning  the
 name  of  the  hero  Karan,  which  in  accord  to  present
@@ -4446,8 +4043,7 @@ For    instance,  V.    233    against    a    line    indicates    the
 beginning    of   that    page    in   Vullers'   edition    of   the
 text.
 
-9.  A    note    on    pronunciation    will    be    found    im-
-mediately preceding  the  translation  in  each  volume.
+9.  A    note    on    pronunciation    will    be    found    immediately preceding  the  translation  in  each  volume.
 
 i  o.  The  headings  of  the  reigns,  parts,  and  sections
 are  reprinted  at  the  end  of  the  volume  to  serve  as  a
@@ -4472,8 +4068,6 @@ Iraj,  and  much  else  that  is  both  curious  and  interest-
 
 *  NIN/37.
 
-
-86  INTRODUCTION
 
 ing,  we  should  be  inclined  to  put  the  beginning  of
 the  "real  life"  later  still.  At  all  events  the  reader
@@ -4502,8 +4096,7 @@ Firdusi.  Berlin,  1820.  [The  translation  extends  from  the  beginning
 of  the  history  to  the  death  of  Rustani.  It  has  a  long  and  strange
 Introduction  and  a  quaint  map  of  the  scene  of  the  Shahnama.j
 
-SCHACK,  Heldensagen  von  Firdausi.  Berlin,  1865.  [The  transla-
-tion extends  from  Faridun  to  the  death  of  Rustam.]
+SCHACK,  Heldensagen  von  Firdausi.  Berlin,  1865.  [The  translation extends  from  Faridun  to  the  death  of  Rustam.]
 
 RUCKERT,  Firdosi's  Konigsbuch.  Sage  i.-xxvi.  Berlin,  1890-
 1895.  [This  extends  as  far  as  Rustam  and  Suhrab.]
@@ -4514,20 +4107,16 @@ JONES,  Commentarii  poeseos  Asiaticae.  London,  1774.  [In  this
 work  some  passages  from  the  Shahnama  are  translated  for  the  first
 time  into  an  European  language.]
 
-CHAMPION,  The  Poems  of  Ferdosi.  Calcutta,  1785.  [The  transla-
-tion extends  from  the  beginning  of  the  history  to  the  birth  of
+CHAMPION,  The  Poems  of  Ferdosi.  Calcutta,  1785.  [The  translation extends  from  the  beginning  of  the  history  to  the  birth  of
 Rustam.]
 
 ATKINSON,  Soordb.  Calcutta,  1814.  TheShdh  Nameh  translated
 and  abridged  in  prose  and  verse.  London,  1832.  [This  work  gives
-a  summary  of  the  history,  with  short  passages  of  translation  inter-
-spersed, up  to  the  death  of  Sikandar  (Alexander  the  Great).]
+a  summary  of  the  history,  with  short  passages  of  translation  interspersed, up  to  the  death  of  Sikandar  (Alexander  the  Great).]
 
 WESTON,  Episodes  of  the  Schah-nameh  of  Ferdosee.     1815.
 
 ROBERTSON,  Roostum  Zeboolah  and  Sohrab.    1829.
-
-87
 
 
 THE  CALENDAR
@@ -4638,7 +4227,6 @@ J  Murdad    .     .
 .     .     July  19
 .     .     August  1  8
 
-INTRODUCTION  89
 
 (Mihr September  17  to  October  16.
 
@@ -4669,9 +4257,6 @@ and  days  as  among  the  Jews  and  Muhammadans.
 
 The  twenty-four  hours  of  the  day  and  night  were
 divided  into  eight  watches  of  three  hours  each.
-
-
-INTRODUCTION
 
 
 GENEALOGICAL   TABLE    OF   THE   PISHDiDIANS
@@ -4720,8 +4305,6 @@ Salm.       Tfir.  fraj.
 Daughter  =  Son.     Pashang = A  daughter.
 Karkwi.  MINUCHIHR  (7).
 
-NAUDAR  (8).
-
 
 Tua.
 
@@ -4739,9 +4322,6 @@ ZAV
 
 
 GARSHASP  (10)
-
-
-INTRODUCTION
 
 
 GENEALOGICAL   TABLE    OF    THE    PISHDADIANS.
@@ -4791,7 +4371,6 @@ MIN6CHIHR  (6).
 
 I
 
-NAUDAR  (7).
 
 Agaimashvak.
 
@@ -4843,8 +4422,7 @@ Aghriras.     AFRAsiyAB.     Garsiwaz.     Kulbad.     Nastihan.     Pilsam.    
 
 Farshidward.  H6man.   Barman.       Piran.
 
-A  female  de-
-scendant or
+A  female  descendant or
 relative=KAi  KAtis  (12).
 
 
@@ -4919,10 +4497,6 @@ GHP.        Histoiie  des  Perses  par  le  Comte  de  Gobineau.
 1  The  second  edition  of  Part   I.   is   referred  to   unless   otherwise
 specified.
 
-93
-
-
-94  INTRODUCTION
 
 HEP.  Essays  on  the  Sacred  Language,  Writings,  and  Religion
 of  the  Parsis.  By  Martin  Haug,  Ph.D.  Edited  and
@@ -4973,8 +4547,7 @@ RPNS.  Do.  Second  Series.
 RSM.  The  Seventh  Great  Oriental  Monarchy.  By  George
 Rawlinson,  M.A.
 
-SHC.  The  "Higher  Criticism"  and  the  Verdict  of  the  Monu-
-ments. By  the  Rev.  A.  H.  Sayce.
+SHC.  The  "Higher  Criticism"  and  the  Verdict  of  the  Monuments. By  the  Rev.  A.  H.  Sayce.
 
 WPT.  Dr.  E.  W.  West's  Trans,  of  the  Pahlavi  Texts  in  thefSacred
 Books  of  the  East.  Reference  to  Parts  and  pages.
@@ -5005,8 +4578,7 @@ Jch  as  ch  in  the  German  "  buch."
 zh  as  2  in  "azure."
 
 
-1  Therefore  "  S£m,"  the  name  of  the  father  of  Z£l,  should  be  pro-
-nounced "  Saum."
+1  Therefore  "  S£m,"  the  name  of  the  father  of  Z£l,  should  be  pronounced "  Saum."
 
 
 THE   SHAHNAMA
@@ -5020,15 +4592,13 @@ ARGUMENT
 The  poet,  after  invoking  the  name  of  God  and  praising  Him  and
 His  wisdom,  discourses  of  the  world,  of  man,  of  the  sun  and  moon,
 of  the  Prophet  and  his  companions,  of  the  compilation  of  the
-Shahnama,  of  the  poet  Dakikf,  and  of  his  own  labours  in  con-
-nection with  the  poem,  concluding  with  the  praises  of  his  patrons.
+Shahnama,  of  the  poet  Dakikf,  and  of  his  own  labours  in  connection with  the  poem,  concluding  with  the  praises  of  his  patrons.
 
 
 NOTE
 
 §  5.  We  read  in  the  Zandavasta :  "  It  (the  sky)  looks  like  a
-palace,  that  stands  built  of  a  heavenly  substance,  firmly  estab-
-lished, with  ends  that  lie  afar,  shining  with  its  body  of  ruby  over
+palace,  that  stands  built  of  a  heavenly  substance,  firmly  established, with  ends  that  lie  afar,  shining  with  its  body  of  ruby  over
 the  three-thirds  (of  the  earth)."1
 
 §  7.  For  'AH  see  p.  1 2.  Muhammadans  are  divided  into  many
@@ -5052,8 +4622,6 @@ Shahnama  compiled  (see  p.  68),  if  the  heading  can  be  trusted.
 took  place  after  the  completion  of  the  Shahnama  and  in  days
 
 i  DZA,  ii.  1 80.  2  RK,  419.  3  C,  Persian  Preface,  23.
-
-99
 
 
 ioo  THE  SHAH  NAM  A  OF  FIRDAUSf
@@ -5169,7 +4737,7 @@ To  praise  both  mind  and  wisdom  who  would  dare  ?
 And  if  I  venture,  who  would  hear  me  through  ?
 Since  then,  O  man  of  wisdom  !  thou  canst  do
 
-J>To  good  by  words  hereon,  proceed,  declare
+J)To  good  by  words  hereon,  proceed,  declare
 V.  3  Creation's  process.     God  created  thee
 
 To  know  appearance  and  reality.
@@ -5263,8 +4831,6 @@ And  rest ;  with  such  a  life  they  are  content.
 With  sluggish  wits  and  tongues  that  never  spake,
 They  browse  upon  the  briar  and  the  brake,
 
-
-104  THE  SHAHNAMA   OF  FIRDA  USI
 
 Acknowledging  no  end  as  wrong  or  right
 And  not  required  to  offer  reverence
@@ -5815,8 +5381,7 @@ and  degeneracy  of  its  representatives.
 NOTE
 
 The  word  Pishdadian,  the  name  given  to  the  Shahs  of  the  first
-Iranian  Dynasty,  means  those  of  the  old  law  or  original  dispensa-
-tion. Zoroastrianism  was  built  upon  an  older  foundation  of
+Iranian  Dynasty,  means  those  of  the  old  law  or  original  dispensation. Zoroastrianism  was  built  upon  an  older  foundation  of
 nature-worship,  to  which  it  bears  some  such  relation  as  the  New
 Testament  bears  to  the  Old.  One  of  the  gods  of  the  elder  faith —
 Ahura,  the  Asura  of  India — became  the  supreme  deity,  Ahura
@@ -5824,8 +5389,7 @@ Mazda,  of  the  new  dispensation,  and  the  Urmuzd  of  the  Shahnama.
 Accordingly  Gaiiimart,  the  first  Shah  in  the  poem,  is  expressly
 recognised  in  the  Zandavasta,  as  the  first  worshipper  of  Urmuzd.1
 Hushang,  the  second  Shah,  institutes  the  worship  of  fire — a
-characteristic  feature  of  Zoroastrianism.  Urmuzd  in  the  Zanda-
-vasta makes  a  covenant  with  Yima,  the  fourth  Shah,  and  tries  to
+characteristic  feature  of  Zoroastrianism.  Urmuzd  in  the  Zandavasta makes  a  covenant  with  Yima,  the  fourth  Shah,  and  tries  to
 persuade  him  to  undertake  the  part  of  lawgiver  afterwards  taken
 by  Zoroaster,  but  Yima  through  modesty  declines.
 
@@ -5833,7 +5397,7 @@ Zoroastrianism  therefore  in  a  sense  existed  before  Zoroaster,
 with  whose  advent  the  Zandavasta  ends  ;  hence  there  is  less
 anachronism  than  might  be  supposed  in  the  allusions,  often  made
 in  the  earlier  parts  of  the  poem,  to  fire-worship,  the  Zandavasta,
-and  similar  matters.  Zoroaster  was  the  first  recipient  of  tht>
+and  similar  matters.  Zoroaster  was  the  first  recipient  of  tht)
 complete  revelation.
 
 ]  DZA,  ii.  200.
@@ -5885,8 +5449,7 @@ ii8  THE  SHAHNAMA  OF  FIRDAUSI
 
 It  will  be  noticed  that  Gaiumart  is  stated  to  have  made  his  home
 upon  a  mountain.  Mountains  were  looked  upon  as  sacred  places
-in  old  times  as  being  nearer  heaven.  Urmuzd  reveals  the  Zanda-
-vasta  to  Zoroaster  on  the  mountain  of  the  holy  Questions.1  In
+in  old  times  as  being  nearer  heaven.  Urmuzd  reveals  the  Zandavasta  to  Zoroaster  on  the  mountain  of  the  holy  Questions.1  In
 the  division  of  mankind  into  castes  in  the  reign  of  Jamshid  the
 mountains  are  specially  set  apart  for  the  priests.  The  mother
 of  Faridun  with  her  infant  son  takes  refuge  with  a  holy  hermit
@@ -6083,8 +5646,7 @@ Hushang — the  Haoshyangha  of  the  Zandavasta — is,  according  to
 the  older  authorities,  the  first  Shah  of  the  Pishdadian  dynasty,
 and  the  grandson,  not  the  son,  of  Siyamak.  Siyamak  and  his
 wife  Nashak  produced  a  pair  named  Fravak  and  Fravakain,  who
-produced  in  their  turn  fifteen  pairs.  Of  these,  nine  pairs  pro-
-ceeded on  the  back  of  the  ox  Sarsaok  through  the  ocean — the
+produced  in  their  turn  fifteen  pairs.  Of  these,  nine  pairs  proceeded on  the  back  of  the  ox  Sarsaok  through  the  ocean — the
 chain  of  rivers,  lakes,  seas,  and  gulfs  surrounding  the  central
 clime  in  the  old  cosmogony — to  the  other  six  climes  and  stayed
 there,  while  the  other  six  pairs,  of  whom  Hushang  and  his  wife
@@ -6101,8 +5663,6 @@ V.  1 8  Assumed  his  grandsire's  crown.     For  forty  years
 Heaven  turned  above  him.     He  was  just  and  wise.
 
 i  WPT,  i.  58.
-
-122
 
 
 HUSH  AN  G  123
@@ -6210,16 +5770,14 @@ According  to  the  Bundahish,  Tahmuras — the  Takhma  Urupa
 of  the  Zandavasta — was  the  great  grandson  of  Hushang,  and  the
 brother  of  Jamshid,  who,  however,  is  represented  as  his  son  in
 the  poem.  The  legend  of  the  binding  of  Ahriman  by  Tahmuras
-is  several  times  mentioned  in  the  Zandavasta,  where  he  is  re-
-presented as  praying  that  he  may  conquer  all  demons  and
+is  several  times  mentioned  in  the  Zandavasta,  where  he  is  represented as  praying  that  he  may  conquer  all  demons  and
 men,  all  sorcerers  and  fairies,  and  ride  Ahriman,  turned  into
 the  shape  of  a  horse,  all  around  the  earth  for  thirty  years.1  From
 other  sources  we  learn  that  Ahriman,  while  kept  as  a  charger
 by  Tahmuras,  persuaded  the  tatter's  wife  to  reveal  her  husband's
 secrets,  and  acting  on  the  information  thus  gained  threw  off
 Tahmuras  and  swallowed  him  while  he  was  riding  down  Mount
-Alburz.  Yim  (Jamshid),  hearing  of  his  brother's  misfortune,  suc-
-ceeded in  dragging  the  corpse  from  the  entrails  of  the  fiend,  and
+Alburz.  Yim  (Jamshid),  hearing  of  his  brother's  misfortune,  succeeded in  dragging  the  corpse  from  the  entrails  of  the  fiend,  and
 thus  restored  the  culture  of  the  world  which  had  perished  with
 Tahmuras.2
 
@@ -6227,16 +5785,11 @@ Tahmuras.2
 
 2  Id.  252,  note.     WPT.  iii.  60,  and  note.
 
-125
-
-
-126  THE  SHAHNAMA  OF  FIRDAUSI
 
 The  reader  will  note  the  reappearance  of  the  Black  Div  in  this
 reign  after  his  apparently  complete  destruction  by  Hushang.  The
 explanation  of  course  is  that  the  aim  of  the  poet  is  to  follow
-his  authorities,  not  to  make  consistent  stories.  He  is  here  deal-
-ing with  another  legend,  so  the  Black  Div  reappears.1
+his  authorities,  not  to  make  consistent  stories.  He  is  here  dealing with  another  legend,  so  the  Black  Div  reappears.1
 
 
 Tahmdras  ascends  the  Throne,  invents  new  Arts,  subdues
@@ -6346,8 +5899,7 @@ ARGUMENT
 Jamshid  succeeds  his  father  Tahmuras  as  Shah,  and  becomes  the
 greatest  and  most  famous  of  the  culture-heroes.  He  continues
 the  work  of  his  predecessors,  makes  additions  of  his  own,  and
-introduces  the  luxuries  and  refinements  of  life.  He  divides  man-
-kind into  four  castes  or  classes.  He  travels  over  the  world,  and
+introduces  the  luxuries  and  refinements  of  life.  He  divides  mankind into  four  castes  or  classes.  He  travels  over  the  world,  and
 is  the  first  to  cross  the  sea  in  ships.  He  aspires  to  the  dominion
 of  the  air,  obtains  it,  and  lives  in  ever  closer  communion  with  God.
 Ahriman  is  rendered  powerless  for  ill,  disease  and  death  cease,
@@ -6384,8 +5936,7 @@ i  DHA,  iv.  31.
 130  THE  SHAH  NAM  A  OF  FIRDAUSf
 
 of  his  Var,  or  underground  palace,  in  anticipation  of  the  Flood,  we
-have  the  origin  of  Firdausi's  account  of  the  architectural  achieve-
-ments of  Jamshid :  "  Then  Yima  said  within  himself :  '  How  shall
+have  the  origin  of  Firdausi's  account  of  the  architectural  achievements of  Jamshid :  "  Then  Yima  said  within  himself :  '  How  shall
 I  manage  to  make  that  Vara  which  Ahura  Mazda  has  commanded
 me  to  make?'  And  Ahura  Mazda  said  unto  Yima:  '0  fair
 Yima,  son  of  Vivanghat !  Crush  the  earth  with  a  stamp  of
@@ -6581,7 +6132,7 @@ Whose  word  was  law,  sat  sunlike  in  mid  air.
 The  world  assembled  round  his  throne  in  wonder
 At  his  resplendent  fortune,  while  on  him
 The  people  scattered  jewels,  and  bestowed
-Upon  the  day  the  name  of  New  Year's  Day,  <_^
+Upon  the  day  the  name  of  New  Year's  Day,  (_^
 
 The  first  of  Farwardin  and  of  the  year,
 When  limbs  repose  from  labour,  hearts  from  strife.
@@ -6634,8 +6185,7 @@ JAMSHID  135
 
 i
 
-Thereat   the   archmages  hung    their  heads,   per-
-plexed
+Thereat   the   archmages  hung    their  heads,   perplexed
 
 To  answer  and  God's  Grace  departed  from  him,
 The  world  was  filled  with  din,  the  Court  deserted,
@@ -6934,8 +6484,7 @@ HE    REIGNED   A   THOUSAND    YEARS
 
 ARGUMENT
 
-With  the  accession  of  Zahhak  evil  becomes  triumphant  every-
-where. He  practises  and  encourages  black  arts,  idolatry,  and
+With  the  accession  of  Zahhak  evil  becomes  triumphant  everywhere. He  practises  and  encourages  black  arts,  idolatry,  and
 human  sacrifice.  He  has  a  warning  dream  concerning  his  destined
 conqueror  Faridun,  whom  he  strives  in  vain  to  capture.  At  length
 the  people,  driven  to  exasperation  by  Zahhak,  revolt  to  Faridun  at
@@ -6946,8 +6495,7 @@ and  the  latter  is  taken  prisoner.
 NOTE
 
 Zahhak,  as  we  have  already  seen,1  was  originally  an  evil  spirit  of
-the  Indo-Iranian  nature-worship.  In  the  Zandavasta  he  still  occa-
-sionally appears  in  his  character  of  water-stealer.  "  Zarathustra
+the  Indo-Iranian  nature-worship.  In  the  Zandavasta  he  still  occasionally appears  in  his  character  of  water-stealer.  "  Zarathustra
 asked  Ardvi  Sura  Anahita "  (Anaitis,  the  good  genius  of  the
 waters):  " '  O  Ardvi  Sura  Anahita !  With  what  manner  of  sacrifice
 shall  I  worship  thee  ?  ...  So  that  Mazda  (Urmuzd)  may  make
@@ -7002,8 +6550,7 @@ The  exclamation  of  the  creator  Auharmazd  to  Frcdun  thus :  '  Thou
 shouldst  not  cut  him  who  is  Dahak,  because  if  thou  shouldst  cut
 him,  Dahak  would  be  making  this  earth  full  of  serpents,  toads,
 scorpions,  lizards,  tortoises,  and  frogs  ; '  with  the  mode  of  binding
-him  with  awful  fetters,  in  the  most  grievous  punishment  of  con-
-finement. This,  too,  that  when  Az-i  Dahak  was  bound,  the  report
+him  with  awful  fetters,  in  the  most  grievous  punishment  of  confinement. This,  too,  that  when  Az-i  Dahak  was  bound,  the  report
 of  the  same  proceeded  thus  through  all  the  regions,  which  are
 seven,  that  downstricken  is  Az-i  Dahak,  but  he  who  smote  him
 is  FretMn  the  Aspikan,  the  exalted  and  mighty  .  .  .  and  those
@@ -7014,8 +6561,6 @@ that  when  information  came  to  him  of  women  or  property,  that
 
 1  DZA,  ii.  60-62  and  notes.  2  Id.  253  and  note.
 
-
-ZAHHAK  143
 
 seemed  to  him  desirable  to  possess,  they  were  then  admitted  by
 him  into  a  golden  cage." l
@@ -7036,8 +6581,7 @@ head.2
 
 In  the  Shahnama,  however,  Zahhak  is  essentially  Semitic,  and
 his  reign  of  a  thousand  years  may  be  taken  as  typifying  that
-race  in  their  relations  to  the  Iranians  from  the  earliest  tradi-
-tions of  Assyrian  oppression  to  the  political  overlordship  of  the
+race  in  their  relations  to  the  Iranians  from  the  earliest  traditions of  Assyrian  oppression  to  the  political  overlordship  of  the
 Khalifas  of  Baghdad  in  the  poet's  own  days.
 
 The  reader  will  notice  that  Zahhak  is  not  slain  by  Faridun  but
@@ -7054,8 +6598,7 @@ Holiday,  to  commemorate  the  death  of  Zahhak,3  while  a  cyclopean
 terrace  in  the  neighbourhood  is  pointed  out  as  the  place  where,
 in  accord  to  Eastern  usage,  his  drums  were  beaten  at  dawn.4
 
-Zahhak's  minister,  Kundrav,  has  had  a  strange  eventful  mytho-
-logical history.  In  the  Vedas  he  appears  as  Gandhava,  the  divine
+Zahhak's  minister,  Kundrav,  has  had  a  strange  eventful  mythological history.  In  the  Vedas  he  appears  as  Gandhava,  the  divine
 guardian  of  the  Soma — the  sacred  drink-offering,  the  Homa  of
 Iran.  In  the  Zandavasta  he  is  a  monstrous  fiend  or  monster
 known  as  Gandarewa  or  Gandarep,  the  slaying  of  whom  was  one
@@ -7070,8 +6613,6 @@ known  as  Gandarewa  or  Gandarep,  the  slaying  of  whom  was  one
 
 5  GHP,  i.  31.
 
-
-144  THE  SHAHNAMA  OF  FIRDA  USI
 
 of  the  great  feats  of  the  ancient  Iranian  hero  Garshasp.1  In  the
 Shahnama  he  is  represented  as  a  human  being — the  factotum
@@ -7100,8 +6641,7 @@ scelera  machinabatur,  domi  eum  forisque  sine  suspicione  erudire
 solebat,  in  Byraspis  humeris  caput  reponens,  ac  maleficas  artes
 in  aurem  inculcans,  unde  in  fabulis  narrant,  puerum  Satanae,
 ministrum  ei  fuisse,  ej  usque  voluntati  obsecundasse ;  utque  etiam
-subinde,  quasi  praemium  ab  eo  postulans,  humeros  ejus  oscu-
-laretur.  Caeterum  quod  narrant,  Dracones  pullulasse,  sive  ipsum
+subinde,  quasi  praemium  ab  eo  postulans,  humeros  ejus  oscularetur.  Caeterum  quod  narrant,  Dracones  pullulasse,  sive  ipsum
 Byraspem  in  Draconen  prorsus  mutatum  fuisse,  ita  res  se  habet.
 Quippe  cum  immanem  hominum  numerum  Daemoniis  ille  immolare
 coepisset,  indignabunda  multitude  ab  eo  tandem  abalienata  fuit,
@@ -7123,8 +6663,6 @@ see  the  introductory  note  to  the  next  reign.  His  legend  up
 4  Mosis  Chorenensis,  ed.  Whiston,  77-80.
 
 
-ZAHHAK  145
-
 to  the  point  where  it  is  taken  up  in  the  Shahnama  may  be  briefly
 summarised  as  follows.  He  was  the  head  of  a  family  of  Persian
 landowners  or  thanes  who  dwelt  in  the  Alburz  range  to  the
@@ -7139,8 +6677,7 @@ Caspian  Abtin  arrived  at  the  court  of  the  king  of  the  Scythians,
 whose  daughter  Faranak  fell  in  love  with  him.  Incidents  similar
 to  those  in  the  story  of  Zal  and  Rudaba  in  the  present  volume
 followed.  In  the  end  Abtin  married  Faranak,  by  whom  he  had
-two  sons,  and  lived  happily  and  in  high  favour  with  his  father-
-in-law.  He  could  not  rest,  however.  In  dream  after  dream  he
+two  sons,  and  lived  happily  and  in  high  favour  with  his  fatherin-law.  He  could  not  rest,  however.  In  dream  after  dream  he
 was  incited  to  resume  the  war  of  independence  against  Zahhak,
 and  at  length,  in  spite  of  the  opposition  of  his  father-in-law,  set
 sail  with  wife,  family,  and  adherents,  and  after  various  adventures
@@ -7210,8 +6747,6 @@ Approach  not  any  dwelling-place  of  man,
 Thine  are  the  wastes  and  heights."
 
 
-ZAHHAK  147
-
 A  worthless  head
 
 Thus  fed  the  serpents,  and  in  every  month
@@ -7247,8 +6782,7 @@ And  used  it  as  a  rope  to  bind  his  hands
 Firm  as  a  rock,1  placed  on  his  neck  a  yoke,
 Then  casting  earth  and  dust  upon  his  head
 
-1  Cf.  Keresdspa's  account  of  his  treatment  of  Gandarep.     See  intro-
-ductory note  to  Faridun.
+1  Cf.  Keresdspa's  account  of  his  treatment  of  Gandarep.     See  introductory note  to  Faridun.
 
 
 148  THE  SHAH  NAM  A  OF  FIRDAUSt
@@ -7300,8 +6834,6 @@ The  Lamp  showed  o'er  the  hills,  and  thou  hadst  said,
 
 1  See  Introd.  p.  71.
 
-
-ZAHHAK  149
 
 Zahhak  brought  archimages  shrewd  of  heart
 
@@ -7399,8 +6931,6 @@ Of  cypress  height  he  shone  forth  with  the  Grace
 Of  kings  of  kings  which  erst  Jamshid  possessed,
 
 
-ZAHHAK  151
-
 Was  like  the  sun,  as  needful  as  the  rain
 
 To  earth  and  fit  as  knowledge  to  the  mind ;
@@ -7447,8 +6977,6 @@ And  as  the  cow  was  talked  of  everywhere,
 The  mother  hasted  to  the  field  again
 
 
-152  THE  SHAHNAMA   OF  FIRDAUSI
-
 And  spake  thus  to  the  guardian  of  her  child : —
 "  A  prudent  thought — a  thought  inspired  by  God-
 Hath  risen  in  iny  heart.     What  we  must  do
@@ -7488,8 +7016,6 @@ V.  43  Now  Faridun,  when  twice  eight  years  had  passed,
 Sought  out  his  mother  on  the  plain  and  said : —
 "  Disclose  thy  secret,  say  who  is  my  father,
 
-
-ZAHHAK  153
 
 What  is  my  lineage,  whom  shall  I  declare
 Myself  in  public  ?     Let  me  have  the  truth."
@@ -7576,8 +7102,6 @@ And  ask  your  aid,  for  rumours  trouble  me ;
 '  Our  monarch  soweth  naught  but  seeds  of  good,
 He  ever  speaketh  truth  and  wrongeth  none.' "
 
-
-ZAHHAK  155
 
 Those  upright  men  both  young  and  old  subscribed
 Their  names  upon  the  Dragon's  document,
@@ -7666,8 +7190,6 @@ When  Kawa  left  the  presence  of  the  Shah,
 A  crowd  assembled  in  the  market-place.
 
 
-ZAHHAK  157
-
 And  still  he  shouted,  crying  out  for  aid
 
 And  urging  all  to  stand  upon  their  rights.
@@ -7718,8 +7240,6 @@ Submiss  to  vile  Zahhak,  he  came  to  Faranak
 With  girded  loins,  crowned  with  a  royal  casque,
 
 
-158  THE  SHAHNAMA  OF  FIRDAUSI
-
 And  said :  "  I  go  to  battle,  but  do  thou
 Devote  thyself  to  prayer.     The  Maker  ruleth.
 In  weal  and  woe  alike  clasp  hands  to  Him."
@@ -7756,9 +7276,6 @@ Bright  hopes  and  promise  of  advancement,  saying : —
 I  will  not  leave  the  dust  upon  your  heads,
 But  justify  the  entire  world,  since  I
 Have  Him  in  mind  who  judgeth  righteously."
-
-
-ZAHHAK  159
 
 
 How  Faridun  went  to  Battle  with  Zahhdk
@@ -7841,8 +7358,6 @@ v.  52         With  one  accord  his  comrades  girt  themselves,
 Turned  toward  the  stream,  and  on  their  brave,  fleet
 steeds
 
-
-ZAHHAK  161
 
 Plunged  over  saddle-back.     The  warriors'  heads
 Reeled  while  their  swift  steeds  struggled  with  the  tide,
@@ -7934,8 +7449,6 @@ Now  I  am  ready  and  I  purpose  war ;
 1  came  not  from  Iran  to  bring  him  pardon,
 
 
-ZAHHAK  163
-
 Or  good  will,  but  to  brain  him  in  revenge
 With  this  ox-headed  mace."
 
@@ -8024,11 +7537,8 @@ He  told  the  Shah  the  secrets  of  his  office
 And  was  commanded  :  "  Serve  a  royal  feast,
 Let  wine  be  brought,  call  minstrels  fit  to  hear,
 
-1  Firdausi's  etymology  must  not  be  relied  upon.     See  the  introduc-
-tory note  to  this  reign.
+1  Firdausi's  etymology  must  not  be  relied  upon.     See  the  introductory note  to  this  reign.
 
-
-ZAHHAK  165
 
 To  cheer  me  at  the  banquet,  fill  the  goblet,
 Spread  out  the  board,  and  summon  worthy  guests."
@@ -8074,8 +7584,6 @@ When  guests  are  at  their  ease."
 Kundrav  replied : —
 "  Yea,  I  have  heard  so  ;  hear  thou  my  rejoinder :
 
-
-166  THE  SHAHNAMA  OF  FIRDAUSI
 
 If  this  great  man  be  any  guest  of  thine
 
@@ -8130,8 +7638,6 @@ And  flocked  to  meet  him.     Leaping  from  their  steeds
 
 They  struggled  hand  to  hand.     The  citizens,
 
-
-ZAHHAK  167
 
 Such  as  were  warlike,  manned  the  roofs  and  gates
 
@@ -8189,14 +7695,11 @@ For  blood — the  blood  of  those  two  beauteous  dames.
 V.  6o
 
 
-168  THE  SHAHNAMA  OF  FIRDA  USI
-
 His  feet  no  sooner  rested  on  the  ground
 Than  Faridun  rushed  on  him  like  the  wind
 And  beat  his  helm  in  with  the  ox-head  mace.
 "  Strike  not,"  cried  blest  Surush,  who  hurried  thither,
-"  His  time   hath   not  yet  come,   but  bind   him   van-
-quished
+"  His  time   hath   not  yet  come,   but  bind   him   vanquished
 
 Firm  as  a  rock  and  bear  him  to  some  gorge,
 Where  friends  and  kinsmen  will  not  come  to  him."
@@ -8230,8 +7733,6 @@ Is  bright,  for  me  alone  did  God  send  forth
 From  Mount  Alburz  by  Grace,  and  for  your  sakes,
 To  set  the  world  free  from  the  Dragon's  bane.
 
-
-ZAHHAK  169
 
 Blest  as  we  are  by  Him  who  giveth  good
 
@@ -8348,8 +7849,7 @@ NOTE
 
 In  the  Vedas  we  find  the  expression  Tritd  Aptya.  Trita  is  the
 name  of  a  semi-divine  personage,  who  is  endowed  with  the  gift
-of  healing  by  the  gods.  Aptya  may  be  a  proper  name,  a  patrony-
-mic, or  mere  epithet.  The  fact  that  it  is  found  in  connection  with
+of  healing  by  the  gods.  Aptya  may  be  a  proper  name,  a  patronymic, or  mere  epithet.  The  fact  that  it  is  found  in  connection  with
 other  names  besides  Trita'  s  rather  points  to  the  last.  We  also
 find  in  the  Vedas  a  hero  named  Traitana,  who  is  recorded  to  have
 slain  a  giant.  Trita  and  Traitana,  who  were  probably  quite  distinct
@@ -8365,8 +7865,6 @@ third  who  offered  the  drink-offering  of  the  Haoma.  The  word
 Sama  is  also  associated  with  him,  a  word  which  is  said  to  mean
 
 1  See  Introd.  p.  7.
-
-171
 
 
 172  THE  SHAH  NAM  A  OF  FIRDAUSf
@@ -8397,8 +7895,7 @@ lost  (S'M&ar  Nask.  It  appears  that  Keresaspa,  great  as  he  was
 as  a  hero,  fell  a  victim  to  the  wiles  of  one  of  Ahriman's  evil
 creations — the  Pairika  Knathaiti,  who  we  are  told  "clave  unto
 Keresaspa."4  The  Pairika  is  the  Pari,  our  Peri  or  Fairy,  and"
-symbolises  idolatry  in  Zoroastrian  mythology.5  Keresaspa  there-
-fore neglected  the  worship  of  fire  and  became  an  idolater.  For
+symbolises  idolatry  in  Zoroastrian  mythology.5  Keresaspa  therefore neglected  the  worship  of  fire  and  became  an  idolater.  For
 this  he  was  cast  into  hell,  where  he  remained  till  Urmuzd,  having
 heard  him  commended  by  Zoroaster,  summoned  him,  and  he  pleaded
 to  be  released  in  consideration  of  the  good  works  achieved  by  him
@@ -8420,16 +7917,13 @@ were  sticking  among  his  teeth  ;  and  my  beard  was  seized  by  him,
 7  See  introductory  note  to  Zahhdk.
 
 
-173
-
 and  I  dragged  him  out  of  the  sea  ;  nine  days  and  nights  the
 conflict  was  maintained  by  us  in  the  sea,  and  then  I  became  more
 powerful  than  Gandarep.  The  sole  of  Gandarep's  foot  was  also
 seized  by  me,  and  the  skin  was  flayed  oft'  up  to  his  head,  and
 with  it  the  hands  and  feet  of  Gandarep  were  bound  .  .  .  and
 Gandarep  was  taken  arid  slain  by  me  .  .  .  Grant  me,  O  Auha?'-
-m&zd  !  heaven  or  the  supreme  heaven  !  for  I  have  slain  the  high-
-waymen who  were  so  big  in  body  that,  when  they  were  walking,
+m&zd  !  heaven  or  the  supreme  heaven  !  for  I  have  slain  the  highwaymen who  were  so  big  in  body  that,  when  they  were  walking,
 people  considered  in  this  way,  that  '  below  them  are  the  stars  and
 moon,  and  below  them  moves  the  sun  at  dawn,  and  the  water  of
 the  sea  reaches  up  to  their  knees.'  And  I  reached  up  to  their
@@ -8450,8 +7944,7 @@ finally  yielded,  and  Keresaspa  was  admitted  into  heaven.1
 With  regard  to  the  final  destruction  of  Zahhak  by  Keresaspa  we
 find  information  in  the  Bundahish  and  in  the  Bahman  Yast.
 Combining  the  accounts  given,  we  learn  that  Keresaspa  obtained
-immortality  while  on  earth,  but  that  owing  to  his  slighting  fire-
-worship  he  was  wounded  by  a  Turk  named  Nihav,  and  fell  asleep
+immortality  while  on  earth,  but  that  owing  to  his  slighting  fireworship  he  was  wounded  by  a  Turk  named  Nihav,  and  fell  asleep
 in  the  valley  of  Pishin  in  Kabulistan.  He  is  there  watched  over
 by  the  divine  glory,  and  by  the  guardian  spirits  of  the  righteous
 till  the  epoch  when  the  powers  of  evil  shall  rally  for  the  last
@@ -9023,8 +8516,6 @@ Like  shining  moons  too  dazzling  for  the  eye,
 And  ranged  them  just  as  Farfdiin  foretold.
 
 
-184  THE  SHAHNAMA  OF  FIRDAUSI
-
 Sarv  asked  the  eldest  prince :  "  Which  is  the  youngest
 Of  these  three  Stars,  which  is  the  mid  in  age,
 And  which  the  eldest  ?     Thus  distinguish  them."
@@ -9100,8 +8591,7 @@ Three  maids  sun-cheeked,  like  garths  of  Paradise
 (No  archimage  ere  planted  pines  like  them),
 With  crowns  and  trinkets,  ignorant  of  pain,
 Unless  it  be  a  pain  to  plait  the  hair :
-They  were  three  new  Moons  and  three  warrior-
-kings.
+They  were  three  new  Moons  and  three  warriorkings.
 
 He  thought  with  bitterness :  "  The  fault  is  mine,
 Not  Faridiin's,  and  may  I  never  hear
@@ -9115,8 +8605,6 @@ To  hold  them  dear  as  their  own  eyes  are  dear,
 And   limn   them   like   their   own    lives   on    their
 hearts."
 
-
-186  THE  SHAHNAMA  OF  FIRDAUSI
 
 He  uttered  this  aloud  and  then  he  bound
 On  many  vigorous  camels'  lusty  backs
@@ -9387,8 +8875,6 @@ Thy  sons  with  scath  and  fraud  instead  of  justice;
 For  thou  hadst  three,  wise,  brave,  and  youths  no  longer,
 
 
-192  THE  SHAHNAMA  OF  FIRDAUSI
-
 And  though  no  excellence  appeared  in  one
 
 So  that  the  others  should  bow  down  to  him,
@@ -9445,8 +8931,6 @@ Hath  come  as  envoy  to  the  Shah."
 He  bade
 His  servants  raise  the  curtain  and  bring  in
 
-
-FARIDUN  193
 
 The  envoy,  when  dismounted,  to  the  court,
 
@@ -9652,8 +9136,6 @@ What  better  vengeance  can  I  take  than  that  ? "
 I
 
 
-FARIDUN  197
-
 The  Shall  replied :  "  Thy  brethren,  my  wise  son  !
 Are  set  on  fight  while  thou  wouldst  have  a  feast.
 I  cannot  but  recall  this  saw  to  mind  : —
@@ -9835,8 +9317,6 @@ And  then  advancing  suddenly,  and  grasping
 The  massive  seat  of  gold,  he  smote  Iraj,
 
 
-FARiDUN  201
-
 Who  pleaded  for  his  life :  "  Hast  thou  no  fear
 
 Of  God,  nor  any  reverence  for  thy  sire  ?  Y-  9°
@@ -9888,15 +9368,12 @@ Not  who  thy  secret  favourites  may  be,
 But  needs  must  weep  for  such  an  act  as  this.
 
 1  The  poet  puts  his  own  protest  into  the  mouth  of  Iraj  against  the
-ancient  Zoroastrian  custom  of  killing  ants  at  sight  as  being  the  crea-
-tion of  Ahriman.     "The  celebrated  high-priest  of  the  Parsis,  the  late
+ancient  Zoroastrian  custom  of  killing  ants  at  sight  as  being  the  creation of  Ahriman.     "The  celebrated  high-priest  of  the  Parsis,  the  late
 Moola  Firooz,  entered  these  lines  into  his  Pand  Namdh,*  which  may
 betoken  better  days  for  the  wise  little  creature."     DZA,  i.  171.
 
 *  i.e.  Book  of  counsels.
 
-
-202  THE  SHAHNAMA   OF  FIRDA  USI
 
 Thou  too,  O  man  distracted  and  distraught,
 Whose  heart  the  world  hath  seared  and  caused  to  bleed  !
@@ -9956,8 +9433,6 @@ To  Faridun  and  wailed  aloud.     They  raised
 
 The  golden  casket's  lid  (for  every  one
 
-
-FARIDUN  203
 
 Believed  the  words  of  him  who  bore  it  wild)
 
@@ -10197,8 +9672,7 @@ With  tents  of  leopard-skin,  such  Arab  steeds
 
 With  golden  furniture,  such  Indian  scimitars
 
-With  golden  sheaths,  such  store  of  casques  and  breast-
-plates,
+With  golden  sheaths,  such  store  of  casques  and  breastplates,
 
 With  buttoned  hauberks  made  in  Rum  and  bows
 
@@ -10237,9 +9711,6 @@ Illustrious  men, — the  safeguards  of  the  world —
 And  when  the  work  of  gathering  troops  was  done
 
 The  Shah's  head  towered  over  every  one.
-
-
-208  THE  SHAHNAMA   OF  FIRDAUSI
 
 
 How  Salrn  and  Tar  had  Tidings  of  Minuchihr
@@ -10296,8 +9767,6 @@ Now  seek  how  best  they  may  excuse  themselves ;
 
 Till  now  they  had  no  hope  of  being  heard.
 
-
-FARIDUN  209
 
 What  do  they  say  ?   Their  words,  wise  Shah !  are  these: —
 
@@ -10373,8 +9842,7 @@ To  spread  brocade  of  Rum  upon  the  throne
 Of  king  of  kings  and  have  the  royal  crown
 Prepared,  then  took  his  seat  as  he  had  been
 An  upright  cypress  'neath  a  full-orbed  moon
-In  fitting  state  with  crown  and  torque  and  ear-
-rings.
+In  fitting  state  with  crown  and  torque  and  earrings.
 
 Blest  Miniichihr  sat  by  him  crowned,  the  nobles
 Stood  ranked  in  double  file  in  robes  of  gold,
@@ -10407,8 +9875,6 @@ Inviting  Miniichihr  to  visit  them
 When  they  would  wait  upon  him  as  his  slaves,
 Give  him  the  crown  and  throne  of  majesty
 
-
-FARIDUN  211
 
 And  purchase  back  from  him  Iraj's  blood
 With  wealth,  brocade,  dinars,  and  jewelry.
@@ -10519,8 +9985,6 @@ Worse  than  a  dragon's  offspring  is  the  man
 l^  Who  taketh  money  for  a  priceless  head.
 
 
-FARIDUN  213
-
 Shall  any  sa,y  :  "  The  sire  in  his  old  age
 Is  putting  price  upon  his  son's  dear  life  ? "
 As  for  these  gifts  of  yours — I  need  them  not.
@@ -10565,8 +10029,6 @@ thereof  ? "
 The  envoy  said :  "  The  portal  of  the  Shah
 Beholdeth  that  which  bright  spring  seeth  not,
 
-
-214  THE  SHAHNAMA   OF  FIRDAUSI
 
 For  'tis  the  jocund  Spring  of  Paradise
 
@@ -10619,8 +10081,6 @@ Were  there.     The  sum  within  the  treasuries
 Appeareth  not.     None  ever  saw  such  greatness.
 
 
-FARIDUN  215
-
 Around  the  palace  were  two  lines  of  troops
 
 With  golden  maces  and  with  golden  helms.
@@ -10671,8 +10131,6 @@ The  Shah  was  told,  "  A  host  hath  crossed  Jihim,"
 And  bade  prince  Minuchihr  to  pass  the  frontier
 
 
-216  THE  SHAHNAMA  OF  FIRDAUSI
-
 v.  105       Toward  the  desert,  thus  advising  him : —
 "  A  youth  predestined  to  be  fortunate
 May  happen  to  ensnare  a  mountain-sheep
@@ -10712,12 +10170,6 @@ And  bore  the  camp-enclosure  to  the  waste.
 Karan  the  avenger  was  the  general,
 The  host  three  hundred  thousand  cavaliers.
 The  men  of  name  marched  mailed,  with  massive  maces,
-
-
-FARIDUN
-
-
-217
 
 
 All  bold  as  angry  lions  and  all  girded
@@ -10778,8 +10230,6 @@ To  think  hereafter  of  this  monstrous  speech.
 
 1  Reading  with  C.  2  Cf.  DEI,  ii.  217.
 
-
-218  THE  SHAHNAMA  OF  FIRDAUSI
 
 Bewail  you  day  and  night,  for  from  Narwan
 
@@ -10880,8 +10330,6 @@ While  from  the  sounds  of  pipe  and  clarion
 Thou  wouldst  have  said  :  "  It  is  a  festival."
 
 
-220  THE  SHAHNAMA  OF  FIRDA  USI
-
 The  troops  moved  mountain-like  and  both  hosts  shouted.
 Anon  the  plain  ran  blood :  thou  wouldst  have  said
 That  tulips  sprang  up.     Mighty  elephants
@@ -10924,8 +10372,6 @@ The  horsemen  made  the  air  a  cloud  of  dust
 And  steel  swords  flashed  like  lightning:  thou  hadst
 said : —
 
-
-FARIDUN  221
 
 "  They  make  air  blaze,  earth  gleam  like  diamonds."
 
@@ -11027,8 +10473,6 @@ Who  prayed  to  God,  the  righteous  Judge,  to  pour
 On  Mimichihr  his  blessings  evermore.
 
 
-FARIDUN  223
-
 §23
 Horo  Kdran  took  the  Castle  of  the  Aldns
 
@@ -11083,8 +10527,6 @@ Set  forward  toward  the  sea.     Karan  resigned
 The  army  to  Shirwi  and  said :  "  I  go
 
 
-224  THE  SHAHNAMA  OF  FIRDA  USI
-
 v.  117  Disguised  as  envoy  to  the  castellan
 
 To  show  to  him  the  signet-ring  of  Tiir.
@@ -11132,8 +10574,6 @@ He  thus  addressed  his  son — a  warrior-pard  : —
 v.  us  Do  nothing  rashly  and  in  ignorance,
 
 
-FARIDUN  225
-
 But  ponder  well  and  mark  from  first  to  last
 The  honied  words  of  one  that  is  a  stranger,
 Especially  in  times  of  war  and  strife.
@@ -11175,8 +10615,6 @@ Led  by  a  young  and  battle-loving  chief,
 
 p
 
-
-226  THE  SHAHNAMA  OF  FIRDA  USI
 
 A  grandson  of  Zahhak,  and  called,  I  hear,
 Kakwi — an  infidel — with  haughty  horsemen
@@ -11368,10 +10806,7 @@ And  wrote  to  tell  his  grandsire  of  the  fight
 And  strategy,  first  giving  God  the  praise
 
 
-230  THE  SHAHNAMA  OF  FIRDA  USI
-
-And  then  the  Shah :  "  Praise  to  the  conquering  World-
-lord
+And  then  the  Shah :  "  Praise  to  the  conquering  Worldlord
 
 From  whom  are  virtue,  power,  and  Grace !     His  blessing
 Is  now  on  Faridun,  that  wise,  brave  Shah,
@@ -11410,8 +10845,6 @@ With  silvern  stirrups  and  with  golden  bucklers,
 With  treasures,  elephants,  and  precious  stores,
 In  readiness  to  welcome  Miniichihr.
 
-
-FARIDUN  231
 
 Now  as  that  prince  approached  the  royal  host
 
@@ -11468,8 +10901,6 @@ In  that  world-paladin's,  looked  up  and  said : —
 "  Almighty  God !    Just  Judge  who  sayest  sooth  •
 
 
-232  THE  SHAHNAMA  OF  FIRDA  USI
-
 V.  127        Thou  saidst:  'I  am  the  Almighty,  the  just  Judge,
 The  Help  of  the  oppressed  in  their  distress.'
 Right  hast  Thou  done  me,  Thou  hast  holpen  me
@@ -11521,8 +10952,6 @@ Though  Faridun  is  gone  there  is  his  name
 Still  left  through  all  the  years  that  have  passed  by ;
 
 
-FARIDUN  233
-
 He  was,  my  son  !  all  excellence  and  fame—  v.  128
 
 One  who  found  profit  in  adversity.
@@ -11571,8 +11000,7 @@ in  after  years  he  and  his  father  became  reconciled,  and  how  he
 rose  to  greatness.  The  poet  also  tells  of  the  loves  of  Zal  and
 Rudaba,  the  daughter  of  Mihrab,  the  idolatrous  king  of  Kabul,
 the  wrath  of  Minuchihr  thereat,  his  ultimate  consent  to  the  union,
-and  the  birth  of  Rustam,  with  an  account  of  whose  first  adven-
-tures, and  of  the  death  of  Minuchihr,  the  reign  concludes.
+and  the  birth  of  Rustam,  with  an  account  of  whose  first  adventures, and  of  the  death  of  Minuchihr,  the  reign  concludes.
 
 NOTE
 
@@ -11584,8 +11012,7 @@ and  here  first  the  stream  of  epic,  hitherto  confined  and  cramped,
 breaks  out  into  broad  waters,  and  carries  us  to  the  heroic  race
 who  play  such  an  important  part  throughout  the  first — the  mythic
 — period  of  the  poem.  We  have  already  seen  how  the  titles
-bestowed  on  the  great  hero  Keresaspa  became  separate  personali-
-ties in  later  times,2  and  in  this  reign  we  have  one  of  his  most
+bestowed  on  the  great  hero  Keresaspa  became  separate  personalities in  later  times,2  and  in  this  reign  we  have  one  of  his  most
 
 1  Manushchithra  in  the  Zandavasta.     For  Manu  see  prefatory  note
 to  Jamshid.
@@ -11593,12 +11020,9 @@ to  Jamshid.
 2  See  introductory  note  to  FarSdi'in.
 
 
-MINUCHIHR  235
-
 famous  feats  recorded  as  an  exploit  of  Sam,  the  son  of  Nariman — the
 slaying  of  the  dragon  of  the  Kashaf .  The  legend  appears  to  have
-become  localised  in  the  neighbourhood  of  the  poet's  own  birth-
-place, Tus,  by  which  the  Kashaf  flows,  and  the  dragon  may  be
+become  localised  in  the  neighbourhood  of  the  poet's  own  birthplace, Tus,  by  which  the  Kashaf  flows,  and  the  dragon  may  be
 typical  of  the  periodical  floods  the  prevention  of  which  is  said
 to  have  been  an  object  which  the  poet  had  at  heart.1  The  feature
 of  Sam's  mace  is  reproduced  from  the  earlier  legend,  where
@@ -11607,8 +11031,7 @@ Keresaspa  is  described  as  "bludgeon-bearing."2
 The  gigantic  mythical  bird,  the  Simurgh,  the  Roc  of  the
 Arabian  Nights,  which  plays  such  an  important  part  in  the  legend
 of  Zal  and  of  his  son  Rustam,  is  described  in  the  Bundahish  as
-"  the  griffon  of  three  natures." 3  It  appears  to  have  been  con-
-ceived of  as  a  sort  of  gigantic  bat.4  The  Bundahish,  in  its  account
+"  the  griffon  of  three  natures." 3  It  appears  to  have  been  conceived of  as  a  sort  of  gigantic  bat.4  The  Bundahish,  in  its  account
 of  birds,  says :  "  There  are  two  of  them  which  have  milk  in  the
 teat  and  suckle  their  young,  the  griffon  bird,  and  the  bat  which
 flies  in  the  night ;  as  they  say  that  the  bat  is  created  of  three
@@ -11645,8 +11068,6 @@ Mazda  answered  :  '  Take  thou  a  feather  of  that  bird  .  .  .  the
 6  Id.  89.  7  Id.  70,  and  iii.  112.
 
 
-236  THE  SHAHNAMA  OF  FIRDA  USI
-
 Varenf/ana,  0  Spitama  Zarathustra !  With  that  feather  thou
 shalt  rub  thy  own  body,  with  that  feather  thou  shalt  curse  back
 thy  enemies.  If  a  man  holds  a  bone  of  that  strong  bird,  or  a
@@ -11669,8 +11090,7 @@ an  indirect  one  in  the  Kur'an.3  He  is  also  mentioned  in  the
 work  that  passes  under  the  name  of  Moses  of  Chorene  :  "  Age
 vero,  si  placet,  vilia  vanaque  de  eo  mendacia  declarabo,  qualia
 Persae  de  Restomo  Sazico  memorant,  quern  CXX  elephantis  viribus
-fuisse  superiorem  tradunt.  De  hujus  pariter  robore  &  forti-
-tudinem  ea  celebrant,  quae  a  similitudine  veri  longissime  absunt,
+fuisse  superiorem  tradunt.  De  hujus  pariter  robore  &  fortitudinem  ea  celebrant,  quae  a  similitudine  veri  longissime  absunt,
 quern  sane  neque  Samsoni,  neque  Herculi,  nee  Sazico  fabulae  istae
 conferunt.  Canunt  et  enim  quadrata  eum  saxa  manibus  prehendere
 potuisse,  &  ad  arbitrium  suum,  magna  aeqvie  ac  parva,  divellere,
@@ -11698,8 +11118,6 @@ i  DZA,  ii.  240.  2  WPT,  i.  18.
 4  Whiston,  Mosis  Chorenensis,  96.
 
 
-MINUCHIHR  237
-
 encloses  a  level  space  at  the  top  of  the  mountain,  which  is
 covered  with  delightful  verdure,  and  watered  by  numerous  springs.
 The  ascent  is  nearly  three  miles  ;  for  the  last  five  or  six  hundred
@@ -11710,8 +11128,7 @@ aboriginal  tribes  of  Persia.  Their  means  of  defence  were  probably
 still  the  same  as  in  the  days  of  Roostum :  a  line  of  large  stones
 ranged  in  regular  order  around  the  edges  of  the  precipice.  Each
 stone  is  wedged  in  by  a  smaller :  when  that  is  removed,  the
-large  stone,  or  rather  rock,  is  hurled  down,  and  sweeps  every-
-thing before  it." l
+large  stone,  or  rather  rock,  is  hurled  down,  and  sweeps  everything before  it." l
 
 §1      '  '      •-'."'
 
@@ -11762,8 +11179,6 @@ But  when  I  mount  my  steed  my  breath  is  fire.
 1  MHP,  i.  19,  and  note.  2  The  name  of  a  Fire-temple.
 
 
-238  THE  SHAHNAMA  OF  FIRDA  USI
-
 I  cut  the  practice  of  the  wicked  short
 And  make  the  earth  a  red  brocade  of  blood,
 
@@ -11805,8 +11220,6 @@ And  said  to  Minuchihr :  "  O  judge  most  just !
 I  from  the  Shahs  have  gotten  eyes  to  see,
 And  see  thee  just:  my  part  is  to  applaud.
 
-
-MINUCHIHR  239
 
 Shah  of  Iran  art  thou  by  long  descent —
 
@@ -11976,8 +11389,6 @@ Who  fostereth  all,  took  up  the  castaway.
 Q
 
 
-242  THE  SHAHNAMA  OF  FIRDA  USI
-
 v.  134  Once  when  the  lioness  her  cub  had  fed,
 
 "  If  I  should  give  thee  my  heart's  blood,"  she  said,
@@ -12074,8 +11485,6 @@ Since  one  whom  God  regardeth  will  not  die
 Of  heat  or  cold.     And  now  in  penitence
 
 
-244  THE  SHAHNAMA  OF  FIRDA  USI
-
 Incline  to  Him — the  Author  of  all  good,
 The  Guide."
 
@@ -12117,8 +11526,6 @@ Upon  the  top  was  built  a  lofty  nest,
 Where  Saturn's  influence  could  not  injure  it ;
 
 
-MINUCHIHR  245
-
 Tall  posts  of  ebony  and  sandal-wood
 Laced  with  lign-aloe  stayed  it  underneath.
 Sam  gazed  in  wonder  on  that  stony  peak,
@@ -12159,8 +11566,6 @@ Because  thy  sire  dealt  with  thee  treacherously ;
 
 1  I.e.  "  much  defrauded,"  in  allusion  to  Sdm's  treatment  of  his  son.
 
-
-246  THE  SHAHNAMA  OF  FIRDA  USI
 
 Command  thy  valiant  guide  to  call  thee  so
 
@@ -12380,8 +11785,6 @@ Restore  to  me !    Disclose  for  me  a  way
 To  him  and  cut  this  present  trouble  short.
 
 
-MINUCHIHR  251
-
 Sear  not  my  soul  for  my  defect  in  love ;
 
 Oh !  pardon  me  this  once  and  cheer  my  heart.'
@@ -12548,8 +11951,6 @@ Him  too  the  Maker  passed  not  by  in  scorn.
 1  The  name  of  a  wild  tribe,  "  the  Vulture-heads."
 
 
-254  THE  SHAHNAMA  OF  FIRDAUSI
-
 What  I  despised  was  precious  to  the  fowl,
 Which  reared  him  till  he  seemed  a  lofty  cypress,
 And  when  the  time  for  pardon  came  the  Lord
@@ -12590,8 +11991,6 @@ Let  thy  heart  rest ;  command  whate'er  thou  wilt.
 The  astrologers  declare  a  gracious  purpose
 Concerning  thee — that  here  shall  be  thy  home
 
-
-MINUCHIHR  255
 
 With  host  and  crown.    We  cannot  thwart  heaven's  will ;
 
@@ -12636,9 +12035,6 @@ And  whether  near  or  distant  used  to  think
 The  camphor  locks  of  Zal  as  black  as  ink.
 
 
-256  THE  SHAHNAMA   OF  FIRDAUSI
-
-
 How  Zdl  visited  Mihrdb  of  Kabul
 
 One  day  Zal  set  forth  on  a  royal  progress
@@ -12672,8 +12068,6 @@ They  came  together  to  the  turquoise  throne ;
 A  table  fit  for  paladins  was  spread
 And  all  sat  down  with  gladness  to  the  feast.
 
-
-MINUCHIHR  257
 
 There,  while  cup-bearers  handed  cups  and  wine,
 
@@ -12722,8 +12116,6 @@ But  when  the  sun's  rays  struck  the  mountain-tops
 
 R
 
-
-258  THE  SHAHNAMA  OF  FIRDAUSI
 
 And  made  the  world  white  crystal  he  gave  audience,
 
@@ -12776,8 +12168,6 @@ His  polished  manners,  tact  and  courtesy,
 While  as  for  Zal  his  heart  went  clean  distraught,
 His  wisdom  fled  afar  and  love  was  lord.
 
-
-MINUCHIHR  259
 
 An  Arab  chief  once  said  in  this  regard : —
 "  A  horse  shall  while  I  live  my  comrade  be,
@@ -12837,8 +12227,6 @@ Mihrab  replied : —
 "  O  fair-faced  Cypress  with  the  silvern  breast !
 
 
-260  THE  SHAHNAMA  OF  FIRDA  USI
-
 Of  all  the  warrior- paladins  of  earth
 Not  one  can  tread  his  steps  ;  there  is  no  portrait
 Inside  our  halls  with  such  a  bridle-hand,
@@ -12877,8 +12265,6 @@ Attend  upon  me,  and  dispel  my  cares ;
 Know  then,  all  five  of  you,  and  understand,
 And  luck  go  with  you  all  your  years,  that  I—
 
-
-MINUCHIHR  261
 
 I  am  in  love,  and  like  a  raging  sea
 
@@ -12990,8 +12376,6 @@ Turned  safflower  cheeks  toward  the  slave  and  said : —
 "  If  thou  canst  compass  this  thou  wilt  have  planted
 
 
-MINUCHIHR  263
-
 A  tall  tree  bearing  rubies  day  by  day
 Which  wisdom  in  its  breast  will  bear  away."
 
@@ -13046,8 +12430,6 @@ And  laid  it  in  the  paladin's  left  hand,
 Who  flushed  the  fowl  and  shot  it  as  it  rose.
 
 
-264  THE  SHAHNAMA  OF  FIRDA  USI
-
 Blood  dyed  the  water.     Zal  said  :  "  Go  across
 And  fetch  yon  crippled  bird."
 
@@ -13089,8 +12471,6 @@ Of  equal  rank."
 
 On  hearing  this  the  slave-boy
 
-
-MINUCHIHR  265
 
 Flushed  ruby-like.    "  The  Sun  should  wed  the  Moon,"
 He  said.     "  Whene'er  the  world  would  make  a  match
@@ -13181,8 +12561,6 @@ Her  head  is  all  a-twine  with  ambergris
 And  musk,  her  person  all  a-shine  with  jewels.
 
 
-MINUCHIHR  267
-
 Her  locks  and  ringlets  are  like  musky  mail
 Where  '  there  is  link  on  link '  as  one  might  say.
 Thou  wilt  not  see  in  Chin  so  fair  an  Idol :
@@ -13223,8 +12601,6 @@ I  marvel  at  your  gadding  so  about."
 The  Idols,  when  they  found  a  word  to  say,
 Flew  out  at  him  in  their  embarrassment : —
 
-
-268  THE  SHAHNAMA   OF  FIRDA  USI
 
 "  This  day  is  just  like  any  other  one :
 There  is  no  foul  div  in  the  rosary.
@@ -13267,8 +12643,6 @@ What  fragrance,  colour,  stature,  limbs,  he  hath  !
 How  slirn  a  waist  and  what  an  open  chest !
 His  eyes  are  twin  narcissi  water-blue,
 
-
-MINUCHIHR  269
 
 His  lips  like  coral  and  his  cheeks  like  blood.
 
@@ -13365,8 +12739,6 @@ And  saw  upon  the  wall  a  sun-cheeked  damsel,
 Whose  beauty  set  the  roof  a-gleam  like  gems,
 Whose  blushes  set  the  ground  a-flush  like  rubies.
 
-
-MINUCHIHR  271
 
 He  thus  made  answer  :  "  0  thou  inoon-faced  one !
 My  blessing  and  the  Grace  of  heaven  be  thine.
@@ -13468,8 +12840,6 @@ The  God  of  Faith  and  right — that  none  but  Zal
 Shall  be  my  lord ;  the  Maker  is  my  witness."
 
 
-MINUCHIHR  273
-
 Their  love  waxed  ever  as  the  moments  sped,
 For  wisdom  was  afar  and  passion  near.
 So  fared  they  till  the  day  began  to  break
@@ -13569,8 +12939,6 @@ The  laws  of  Faith  and  custom.     No  wise  man
 Will  bar  what  honour  and  religion  sanction.
 
 
-MINUCHIHR  275
-
 What  do  the  prescient  archimages  say  ?
 What  are  the  sages'  views  ? "
 
@@ -13609,8 +12977,6 @@ How  Zdl  ivrote  to  Sdm  to  Explain  the  Case
 The  chieftain  bade  a  scribe  to  come,  poured  forth
 His  heart  and  wrote  a  letter  of  good  cheer,
 
-
-276  THE  SHAHNAMA  OF  FIRDA  USI
 
 And  first  he  praised  the  Maker  and  the  Judge,
 "  The  Source  of  joy  and  might,  the  Lord  of  Venus,
@@ -13769,8 +13135,6 @@ And  Zal,  for  they  will  be  a  glorious  pair,
 Whose  son  will  prove  a  mighty  Elephant,
 
 
-MINUCHIHR  279
-
 Will  gird  his  loins  with,  valour,  overcome
 
 The  world,  will  set  the  Shah's  throne  on  the  clouds,
@@ -13832,8 +13196,6 @@ And  dragged  them  off  afoot  in  shame  and  woe.
 1  The  name  of  a  wild  tribe,  "the  Dog-heads."
 
 
-280  THE  SHAHNAMA  OF  FIRDA  USI
-
 Toward   dawn   the  horsemen's   shouts   rose  o'er   the
 
 plain,
@@ -13874,8 +13236,6 @@ Sam  hummed  and  hawed  but  in  the  end  consented.'
 Zal  sent  his  father's  letter  by  the  woman,
 Who  hurried  with  the  good  news  to  Rudaba.
 
-
-MINUCHIHR  281
 
 That  fay-faced  damsel  showered  drachms  upon  her,
 
@@ -13974,8 +13334,6 @@ That,  if  in  others'  presence  or  alone,
 I  weep  and  only  live  to  see  his  face.
 
 
-MINUCHIHR  283
-
 One  hair  of  his  is  worth  the  world  to  me.
 
 Know  too  that  he  hath  seen  and  sat  beside  me,  v.  179
@@ -14071,8 +13429,6 @@ She  answered  :  —
 v.  181        "  The  wise  would  take  a  very  different  view
 
 
-MINUCHIHR  285
-
 Of  what  I  said.     Now  can  I  hide  from  thee
 A  secret  such  as  this  and  these  grave  doings  ?
 A  blessed  wise  archmage  once  told  his  child
@@ -14116,8 +13472,6 @@ Life  must  be  risked  when  honour  is  in  sight ;
 Why  strivest  thou  to  stay  me  from  the  fight  ? '
 If  Sam  and  Mimichihr  shall  get  a  handle
 
-
-286  THE  SHAHNAMA  OF  FIRDA  USI
 
 Against  us  smoke  will  go  up  from  Kabul,
 Seedtime  and  harvest  cease  throughout  the  land."
@@ -14164,8 +13518,6 @@ Unscathed,  and  that  Kabulistan  shall  still
 Possess  this  Rosary  like  Paradise."
 
 
-MINUCHIHR  287
-
 The  chieftain  promised,  but  he  said :  "  Now  mark !
 The  Shah  will  meditate  revenge  for  this."
 
@@ -14209,9 +13561,6 @@ Where  with  her  mother  who  had  gained  the  day
 She  prayed  Almighty  God  to  be  their  stay.
 
 
-288  THE  SHAHNAMA  OF  FIRDA  USI
-
-
 §  17
 How  Minuchihr  heard  of  the  Case  of  Zdl  and  Ruddba
 
@@ -14251,8 +13600,6 @@ And  journey  home  from  us.' "
 Naudar  set  forth,
 And  valiant  Sam,  informed  of  his  approach
 
-
-MINUCHIHR  289
 
 Went  with  the  paladins  to  welcome  him
 
@@ -14301,8 +13648,6 @@ presence ;
 T
 
 
-290  THE  SHAHNAMA  OF  FIRDA  USI
-
 While  Miniichihr,  encrowned  with  sparkling  gems,
 V.  187       Rose  from  his  ivory  throne  and  made  Sam  sit
 Beside  him,  showed  the  chieftain  all  observance
@@ -14344,8 +13689,6 @@ T  reared  the  mace  whereof  one  blow  suflSceth
 1  A  Persian  measure  of  weight  varying  greatly  in  different  localities.
 
 
-MINUCHIHR  291
-
 And  led  the  army  on.     I  raised  a  shout
 That  made  earth  seem  a  millstone  to  the  foe,
 While  all  my  host  was  heartened  and  resolved
@@ -14361,8 +13704,7 @@ To  eagle's  speed  I  showered  shafts  like  fire
 And  deemed  his  helm  pegged  to  his  anvil  head
 Until  I  saw  him  coming  mid  the  dust,
 Like  some  mad  elephant,  with  Indian  sword
-In  hand.     Methought,  0  Shah !   that  e'en  the  moun-
-tains
+In  hand.     Methought,  0  Shah !   that  e'en  the  mountains
 
 Would  cry  to  him  for  quarter !     He  pressed  on,
 And  I  held  back  to  tempt  him  to  come  near ;
@@ -14426,8 +13768,6 @@ In  great  concern  he  hasted  on  his  journey,
 With  much  to  think  about  and  much  to  say.
 
 
-MINUCHIHR  293
-
 News  reached  brave   Sam:   "The  Lion's  Whelp  hath
 
 come."
@@ -14472,8 +13812,6 @@ All  joy  in  thy  just  dealing;  earth  and  time
 
 1  Zal  is  regarded  metaphorically  as  half  bird.    Cf.  pp.  302,  304.
 
-
-294  THE  SHAHNAMA  OF  FIRDA  USI
 
 Receive  it  at  thy  hands.     So  do  not  I ;
 I  have  no  share  though  thine  acknowledged  kinsman.
@@ -14545,7 +13883,7 @@ Zal  kissed  the  ground  with  many  a  benison.
 
 §   20
 
-How  Zdl  icent  on  a  Miot>ion  to  Minuchihr
+How  Zdl  icent  on  a  Miot)ion  to  Minuchihr
 
 Sam  wrote  at  large  and  set  forth  every  plea.  V.  194
 
@@ -14579,8 +13917,6 @@ The  lofty  mountain  shattered  by  thy  mace
 
 Becometh  dust  upon  thy  proud  steed's  hoofs,
 
-
-296  THE  SHAHNAMA  OF  FIRDA  USI
 
 While  thy  pure  heart  and  stainless  Faith  constrain
 Both  wolf  and  sheep  to  water  at  thy  cistern.
@@ -14619,8 +13955,6 @@ And  trailed  upon  the  ground  its  hairs  like  lassos.
 
 1  Reading  with  C.
 
-
-MINUCHIHR  297
 
 Its  tongue  was  like  a  tree-trunk  charred,  its  jaws
 
@@ -14732,8 +14066,6 @@ To  hang  Amul l  than  fall  upon  Kabul.'
 1  Mintichihr's  capital.
 
 
-MINUCHIHR  299
-
 But  when  a  fowl-fed  outcast  on  the  mountains
 
 Seeth  in  Kabulistan  so  bright  a  Moon —
@@ -14790,8 +14122,6 @@ Must  yield  before  the  monarch  of  the  world,
 Kdbul.
 
 
-300  THE  SHAHNAMA  OF  FIRDA  USI
-
 Is  to  take  thee  with  thy  polluted  child
 And  slay  you  shamefully  and  publicly.
 Thereat  perchance  the  Shah  will  be  appeased
@@ -14836,8 +14166,6 @@ While  I  avert  the  danger  thou  must  use
 No  harshness  toward  my  child.     My  greatest  care
 Here  is  her  life ;  give  me  a  pledge  for  that.
 
-
-MINUCHIHR  301
 
 I  care  not  for  myself ;  all  my  concern
 And  travail  are  for  her."
@@ -14884,8 +14212,6 @@ And  bade  the  officers  announce  her  thus : —
 The  mighty  chief,  the  hero  of  Zabul,
 
 
-302  THE  SHAHNAMA  OF  FIRDA  USI
-
 Charged  with  a  message  from  Mihrab  to  Sam,
 The  winner  of  the  world."
 
@@ -14929,8 +14255,6 @@ Mihrab,  if  any,  was  to  blame,  and  he
 Is  weeping  blood.    What  have  our  people  done
 That  thou  must  raze  Kabul  ?     They  only  live
 
-
-MINUCHIHR  303
 
 To  do  thy  hest — slaves  of  the  very  dust
 Upon  thy  feet.     Fear  Him  who  hath  created
@@ -14976,11 +14300,8 @@ I  stand  before  thee  sorrowing.     Slay  thou
 Who  should  be  slain  and  bind  who  should  be  bound,
 
 
-304  THE  SHAHNAMA  OF  FIRDA  USI
-
 But  as  for  all  the  guiltless  of  Kabul
-Burn  not  their  hearts  nor  turn  their  days  to  dark-
-ness."
+Burn  not  their  hearts  nor  turn  their  days  to  darkness."
 
 The  paladin  on  hearing  saw  in  her
 A  woman  of  counsel  and  of  ardent  soul,
@@ -15034,8 +14355,6 @@ Their  skins  will  never  hold  them.     Prithee  now
 Let  me  behold  the  Dragon's  child,  just  once,
 
 
-MINUCHIHR  305
-
 On  thine  own  terms.     The  sight  may  weigh   with
 
 me
@@ -15085,8 +14404,6 @@ Then  took  her  hand,  re-swore  his  oath  and  said : —
 U
 
 
-306  THE  SHAHNAMA  OF  FIRDAUSI
-
 With  favouring  stars  the  pale  Moon's  face  again
 Grew  bright,  and  she  went  homeward  with  her  train.
 
@@ -15128,8 +14445,6 @@ And  ordered  all  the  chieftains  to  partake
 The  feast.    The  eating  done,  they  served  the  wine
 Within  another  throne-room,  and  that  over
 
-
-MINUCHIHR  307
 
 Zal  mounted  on  his  charger  with  gold  trappings,
 
@@ -15277,8 +14592,6 @@ These  too  are  periods,  and  in  their  flight
 Pursue  each  other  unremittingly.
 
 
-310  THE  SHAHNAMA  OF  FIRDA  USI
-
 The  two  that  pass  along  are  night  and  day,
 
 The  pulses  of  the  sky  are  reckoned  so ;
@@ -15317,8 +14630,7 @@ It  reckoneth  each  breath  drawn  here  below
 
 And  both  exalteth  us  and  casteth  down.
 
-1  Putting  aside  modern  astronomical  notions  the  idea  seems  some-
-what as  follows:  the  sky,  as  represented  by  the  Signs  of  the  Zodiac,
+1  Putting  aside  modern  astronomical  notions  the  idea  seems  somewhat as  follows:  the  sky,  as  represented  by  the  Signs  of  the  Zodiac,
 is  divided  into  a  lighter  and  a  darker  portion  or  "limb"  ;  the  lighter,
 Spring  and  Summer,  being  represented  by  the  Signs  from  Aries  to
 Virgo ;  and  the  darker,  Autumn  and  Winter,  by  those  from  Libra  to
@@ -15329,8 +14641,6 @@ of  the  lighter  and  darker  seasons  of  the  year  by  the  movements  of
 the  sky,  and  that  of  day  and  night  by  the  movement  of  the  sun.  The
 former  rules  man's  destiny,  the  latter  chiefly  influences  his  daily  life.
 
-
-MINUCHIHR  311
 
 A  storm  ariseth,  earth's  foundations  quake,
 
@@ -15423,8 +14733,6 @@ Zal  bade  his  Turkman  slave  bring  shields  of  hide,
 Drew  himself  up  and  urged  his  steed  along,
 
 
-MINUCHIHR  313
-
 Then  dropped  his  bow,  took  his  own  javelin
 
 And  made  new  sport.  He  struck  and  pierced  three  shields
@@ -15471,9 +14779,6 @@ Rich  robes,  slaves,  steeds,  and  other  things  of  worth,
 And  gave  the  whole  to  Zal,  who  kissed  the  earth.
 
 
-314  THE  SHAHNAMA  OF  FIRDAUSI
-
-
 §  27
 Mintichihr's  Ansiver  to  Sdm's  Letter
 
@@ -15513,8 +14818,6 @@ That  through  his  joy  the  dead  returned  to  life
 And  aged  heads  grew  young.    They  summoned  minstrels,
 And  one  had  said  that  all  poured  out  their  souls.
 
-
-MINUCHIHR  315
 
 With  smiling  lips  and  joyful  heart  he  called
 
@@ -15566,8 +14869,6 @@ Like  Paradise,  wrote  on  her  many  a  charm
 And  seated  her,  allowing  none  to  enter
 
 
-316  THE  SHAHNAMA  OF  FIRDAUSI
-
 Within  that  chamber  arabesqued  with  gold.1
 
 Kabulistan  was  dight  in  festal  trim,
@@ -15614,8 +14915,6 @@ To  heal  all  sores.     Now  she  hath  sent  to  say : —
 
 1  Where  she  had  once  entertained  Ztll.
 
-
-MINUCHIHR  317
 
 '  All  things  are  ready,  scented  and  adorned.'
 What  answer  shall  we  send  high-born  Mihrab  ? "
@@ -15666,8 +14965,7 @@ Of  lyre  and  harp  and  pipe,  one  would  have  said : —
 The  horses'  manes  and  forelocks  ran  with  saffron
 And  musk.     Then  with  three  hundred  female  slaves
 With  girded  loins,  each  with  a  cup  of  gold
-Which  brimmed  with  musk  and  gems,  Sindukht  ap-
-proached,
+Which  brimmed  with  musk  and  gems,  Sindukht  approached,
 
 And  all  blessed  Sam  and  showered  forth  the  jewels.
 Each  person  present  on  that  happy  day
@@ -15701,8 +14999,6 @@ The  treasures,  and  invoked  the  name  of  God.
 Then  hall  and  city  revelled  for  a  week,
 The  palace  was  a  Paradise  in  raptures,
 
-
-MINUCHIHR  319
 
 And  neither  Zal  nor  coral-lipped  Riidaba  v-  22°
 
@@ -15806,8 +15102,6 @@ This  moisture  in  the  mighty  Lion's  eye  ?
 1  Of.  pp.  235,  246.
 
 
-MINUCHIHR  321
-
 From  this  moon-faced  and  silver-bosomed  Cypress
 
 Will  come  a  noble  babe.     The  mighty  lion
@@ -15875,8 +15169,6 @@ While  every  one  looked  on  amazedly
 With  wounded  spirit  and  with  bloodshot  eyes.
 
 
-322  THE  SHAHNAMA  OF  FIRDA  USI
-
 Smdukht  wept  tears  of  blood  in  torrents,  asking : —
 "  How  shall  the  infant  come  forth  through  the  side  ?  "
 
@@ -15919,8 +15211,6 @@ V.  225       Upon  a  chestnut  horse  with  great  attendance.
 1  The  word  in  the  Persian  may  also  mean  "  Je  suis  delivree  "  (Mohl),
 or  "  I  bear  fruit,"  lit.,  "  There  is  fruit  to  me."
 
-
-MINUCHIHR  323
 
 This  done  they  sent  on  first  a  cameleer
 
@@ -15969,8 +15259,6 @@ In  secret  to  Almighty  God  to  show  me
 A  son  born  of  thy  seed  and  of  my  type.
 
 
-324  THE  SHAHNAMA  OF  FIRDA  USI
-
 Now  that  the  backs  of  both  of  us  are  straightened
 We  only  need  to  pray  that  we  may  live."
 
@@ -16010,8 +15298,6 @@ Shouts  of  departure  rose  on  every  side.
 1  Firdausi  does  not  specify  the  measure.     Mohl  translates  "  huit
 palmes,"
 
-
-MINUCHIHR  325
 
 The  mass  of  men  stretched  out  from  hill  to  hill,
 
@@ -16070,8 +15356,6 @@ Thus  resting  for  a  month  with  harp  and  song.
 Upon  the  throne  there  sat  victorious  Sam,
 
 
-326  THE  SHAHNAMA  OF  FIRDAUSI
-
 An  eagle's  feather  drooping  from  his  crown,
 
 Flanked  by  his  son  and  Rustam  mace  in  hand,
@@ -16129,8 +15413,6 @@ Preferring  wisdom  over  wealth,  refraining
 Thy  hands  from  evil  all  thy  years,  and  seeking
 
 
-MINUCHIHR  327
-
 God's  way  from  day  to  day.     Know  that  in  public
 And  private  also  'tis  the  one  thing  needful
 Because  the  world  will  not  abide  with  any.
@@ -16181,8 +15463,6 @@ Zal,  as  his  wont  was,  sought  the  bower,  while  Rustam
 Reeled  to  his  chamber,  laid  him  down  and  slept.
 
 
-328  THE  SHAHNAMA  OF  FIRDA  USI
-
 Shouts    rose    outside    his    door :    "  The    chiefs  white
 
 elephant
@@ -16223,8 +15503,6 @@ Zal  heard  of  Rustam's  deeds,  how  he  had  knocked
 The  dust  out  of  the  roaring  elephant,
 Had  with  a  single  mace-blow  broken  its  neck
 
-
-MINUCHIHR  329
 
 And  cast  its  body  to  the  ground.     He  cried : —
 
@@ -16270,8 +15548,6 @@ He  marched  against  that  hold  with  troops  that  covered
 The  waste  and  desert,  and  for  months  and  years
 Beleaguered  it  in  vain.     None  issued  forth
 
-
-330  THE  SHAHNAMA  OF  FIRDA  USI
 
 And  none  went  in,  but  though  the  gate  was  shut
 
@@ -16328,8 +15604,6 @@ Hath  come,  and  if  my  lord  doth  ask  their  business,
 To  me  it  seemeth  that  they  carry  salt."
 
 
-MINUCHIHR  331
-
 The  chief  sent  one  in  haste  to  learn  their  loading,
 Who  went  like  dust  to  Rustam  and  inquired : —
 "  O  master  of  the  caravan !  inform  me
@@ -16372,8 +15646,6 @@ ruby.
 What  with  the  mellay  and  the  waves  of  blood
 One  would  have  said :  "  A  sunset  sky  hath  fallen."
 
-
-332  THE  SHAHNAMA  OF  FIRDA  USI
 
 The  peerless  Rustam  with  his  lasso,  mace,
 And  sword  destroyed  the  gallant  foe ;  and  when
@@ -16479,8 +15751,6 @@ And  sent  them  to  his  sire.     The  caravan
 Set  forth  while  he  set  fire  to  Mount  Sipand,
 
 
-334  THE  SHAHNAMA  OF  FIRDA  USI
-
 •  Whose  reek  rose  skyward,  then  he  turned  away
 Light-hearted  and  went  home  like  rushing  wind.
 When  Zal  had  heard :  "  The  world-illuming  chieftain
@@ -16519,8 +15789,6 @@ In  times  of  enterprise."
 He  sealed  the  letter
 And  gave  it  to  the  messenger,  who  went
 
-
-MINUCHIHR  335
 
 To  Zal  therewith  clad  in  his  robe  of  honour.
 The  paladin  rejoiced  at  what  that  youth
@@ -16568,8 +15836,6 @@ Due  vengeance  for  my  grandsire — great  Iraj —
 1  Reading  with  C.
 
 
-336  THE  SHAHNAMA  OF  FIRDA  USI
-
 I  cleansed  the  world  of  its  iniquities
 And  built  me  many  a  city,  many  a  fortress  ;
 Yet  thou  mightst  say  that  I  had  never  seen
@@ -16600,14 +15866,12 @@ Whose  tale  is  left  as  his  memorial.
 
 
 VIII
-NAUDAR
 
 HE   REIGNED   FOR  SEVEN  YEARS
 
 ARGUMENT
 
-Naudar  rules  oppressively  and  the  people  revolt,  but  Sam  suc-
-ceeds in  restoring  order.  Pashang,  the  king  of  Turan,  however,
+Naudar  rules  oppressively  and  the  people  revolt,  but  Sam  succeeds in  restoring  order.  Pashang,  the  king  of  Turan,  however,
 takes  the  opportunity  of  the  death  of  Minuchihr  to  send  an
 army  to  invade  Iran  under  the  command  of  his  son  Afrasiyab.
 The  Iranians  are  defeated,  and  Naudar,  with  many  of  his  chiefs,
@@ -16623,8 +15887,7 @@ In  this  reign  the  connection  between  the  Shahnama  and  the
 VTedas  temporarily  seems  to  be  severed,  and  we  are  unable  to
 trace  the  names  of  the  principal  heroes  further  back  than  the
 Zandavasta,  where  most  of  them  are  to  be  found.  The  story  of
-the  reign  is  one  of  disaster  for  Iran ;  and  the  ancient  feud,  origi-
-nating in  the  murder  of  Iraj,  receives  a  new  impetus  through
+the  reign  is  one  of  disaster  for  Iran ;  and  the  ancient  feud,  originating in  the  murder  of  Iraj,  receives  a  new  impetus  through
 the  execution  of  Ighriras  by  his  brother  Afrasiyab.  We  are
 accordingly  here  introduced  to  the  royal  line  of  Tiiran,  of  which
 we  have  heard  nothing  since  the  slaying  of  Tiir  by  Minuchihr,
@@ -16638,8 +15901,6 @@ father,  were  brothers.  WPT,  i.  135.
 
 337  Y
 
-
-338  THE  SHAHNAMA  OF  FIRDA  USI
 
 the  protagonist  of  the  Turanian  race,  and  the  arch-enemy  of  Iran,
 through  the  reigns  of  successive  Shahs.  He  is  the  second  in
@@ -16668,8 +15929,7 @@ Iranians  at  the  cost  of  his  own  countrymen,  and  is  held  up  as
 a  sort  of  martyr  in  the  poem.  In  the  Zandavasta  the  murder
 of  Ighriras  is  looked  upon  as  one  of  the  motives  for  vengeance
 on  Afrasiyab,6  while  in  the  Bundahish  we  read  :  "  When  Frasiyav
-made  Manus/Hhar,  with  the  Iranians,  captive  in  the  mountain-
-range  of  Padashkhvar,  and  scattered  ruin  and  want  among  them,
+made  Manus/Hhar,  with  the  Iranians,  captive  in  the  mountainrange  of  Padashkhvar,  and  scattered  ruin  and  want  among  them,
 Aghrerad  begged  a  favour  of  God,  and  he  obtained  the  benefit
 that  the  army  and  champions  of  the  Iranians  were  saved
 by  him  from  that  distress.  Frasiyav  slew  Aghrerarf  for  that
@@ -16684,9 +15944,6 @@ where  see  Part  II.
 
 4  WPT,  i.  82,  84.  5  DZA,  ii.  226.
 6  DZA,  ii.  114.                                             7  WPT,  i.  135.
-
-
-NAUDAR  339
 
 
 How  Naudar  succeeded  to  the  Throne
@@ -16732,8 +15989,6 @@ May  that  redoubted  glorious  chief  be  sound
 In  heart  and  mind,  and  sorrowless  in  soul.
 The  paladin  of  earth  should  know,  I  ween,
 
-
-340  THE  SHAHNAMA  OF  FIRDA  USI
 
 All  matters  close  or  open.     Miniichihr,
 
@@ -16794,8 +16049,6 @@ Sat  crowned  upon  the  golden  throne  the  dust
 Would  be  my  couch  whence  I  should  joy  to  gaze
 
 
-NAUDAR  341
-
 Upon  her.     If  Naudar  hath,  left  the  way
 
 Trod  by  his  sire  it  hath  not  been  for  long,
@@ -16849,8 +16102,6 @@ And  how  they  ruled  earth  justly  and  gave  alms
 And  would  not  countenance  iniquity.
 
 
-342  THE  SHAHNAMA  OF  FIRDA  USI
-
 Sam  brought  the  monarch's  wayward  heart  to  reason,
 Warmed  the  chiefs'  hearts  toward  him,  rendering
 All  justice  and  injustice  at  his  hands
@@ -16887,8 +16138,6 @@ Knowhow  the  Iranians  have  entreated  us,
 And  always  girded  up  their  loins  for  ill.
 Now  is  the  time  for  action  and  revenge,
 
-
-NAUDAR  343
 
 The  time  to  wash  the  blood-tears  from  our  cheeks.
 What  say  ye  now  ?     What  answer  do  ye  make  ?
@@ -16932,8 +16181,6 @@ And  spake  on  this  wise :  "  Mine  experienced  father,
 The  highest  of  the  Turkman  race  in  valour !
 Although  Iran  hath  now  no  Mimichihr,  v.  250
 
-
-344  THE  SHAHNAMA  OF  FIRDA  USI
 
 Sam,  son  of  Nariinan,  is  general ;
 
@@ -16984,8 +16231,6 @@ The  refuge  of  the  army  of  Iran
 Was  Minuchihr,  and  he  adorned  the  throne,
 v  251        Why  fear  the  Iranians  now  that  he  is  gone  ?
 
-
-NAUDAR  345
 
 They  are  not  worth  a  pinch  of  dust.     I  fear  not
 Naudar,  who  is  but  young  and  raw.     Karan
@@ -17047,8 +16292,6 @@ Was  pleased,  perceived  that  fortune  was  awake,
 Marched  forth  to  Dahistan,  and  pitched  against  it.
 
 
-346  THE  SHAHNAMA  OF  FIRDA  USI
-
 Who  knoweth  how  to  reckon  up  his  host  ?
 
 Go  count  a  thousand  o'er  four  hundred  times.
@@ -17089,16 +16332,13 @@ Returned,  reported  to  his  chief,  and  said:—
 "  How  long  must  all  our  prowess  be  concealed  ?
 
 
-NAUDAR  347
-
 Now  if  the  king  permit  I  will  engage
 Our  foemen  like  a  lion.     They  shall  see
 My  skill  and  know  no  hero  but  myself."
 
 "  But  if  in  this,"  said  prudent  Ighrfras,
 "  Some  misadventure  should  befall  Barman,
-Our    marchlords    would    be    cowed,    our    folk    dis-
-couraged.
+Our    marchlords    would    be    cowed,    our    folk    discouraged.
 
 Nay,  choose  we  rather  one  of  small  account,
 For  whom  we  need  not  bite  our  nails  and  lips."
@@ -17134,8 +16374,6 @@ Mark  his  reply  in  presence  of  the  troops : —
 Know,  brother !  that  the  body  is  for  death ;
 My  head  and  neck  were  meant  to  wear  a  helm.
 
-
-348  THE  SHAHNAMA  OF  FIRDA  USI
 
 My  heart  hath  been  in  anguish  from  the  time
 Of  blessed  Minuchihr  until  this  day.
@@ -17180,8 +16418,6 @@ Unprecedented  as  from  king  to  liege.
 Karan  the  battle-lover,  when  Kubad
 Was  slain,  drew  out  his  army  and  attacked.
 
-
-NAUDAR  349
 
 The  two  hosts  seemed  as  'twere  two  seas  of  Chin,
 Thou  wouldst  have  said :  "  Earth  shake th."
@@ -17307,8 +16543,6 @@ The  royal  pair  proceeded  to  depart,
 But  he  remained  and  with  a  heavy  heart.
 
 
-352  THE  SHAHNAMA  OF  FIRDA  USI
-
 §6
 How  Naudar  fought  with  Afrdsiydb  the  third  Time
 
@@ -17331,8 +16565,7 @@ The  Shah's  left  wing  the  hero  Taliman
 Claimed  for  himself,  and  bold  Shapiir  the  right.
 From  morning  till  the  sun  had  left  the  dome,
 Hills,  plains,  and  wastes  were  indistinguishable ;
-Thou  wouldst  have  said :   "  The  sword's  heart  is  en-
-larged
+Thou  wouldst  have  said :   "  The  sword's  heart  is  enlarged
 
 And  earth  is  groaning  underneath  the  steeds."
 But  while  the  javelins  put  the  earth  in  shade
@@ -17345,8 +16578,6 @@ The  Iranians'  fortune  turned  away  its  head,
 And  many  another  chieftain  of  the  host
 Was  killed  or  wounded  on  the  battlefield.
 
-
-NAUDAR  353
 
 Now  when  the  monarch  and  Karan  perceived
 The  stars  averse,  they  fled  before  the  foe
@@ -17391,8 +16622,6 @@ The  mighty  men
 z
 
 
-354  THE  SHAHNAMA  OF  FIRDA  USI
-
 Went  to  the  sleeping-chamber  of  the  Shah
 V.  262       Where  presently  they  sat  and  called  for  wine
 To  purge  their  hearts  of  sorrow  for  a  while.
@@ -17433,8 +16662,6 @@ And  pierced  the  Turkman's  girdle  with  a  javelin
 
 1  See  introductory  note  to  the  previous  reign.
 
-
-NAUDAR  355
 
 Through  mail  and  buckle.     From  his  charger's  back
 Barman  fell  headlong,  the  bright  orb  of  day
@@ -17490,8 +16717,6 @@ It  is  a  conjurer  that  knoweth  well
 The  sleights  of  every  form  of  jugglery.
 
 
-356
-
 Although  thy  head  may  touch  the  clouds,  it  must
 Have  in  the  end  its  place  amid  the  dust.
 
@@ -17542,8 +16767,6 @@ Wept  scalding  tears.     He  sped  to  catch  Karan.
 
 1  Reading  with  P.
 
-
-NAUDAR  357
 
 Thus  like  a  torrent  Wisa  rushed  along
 
@@ -17602,9 +16825,6 @@ And  weeping  for  his  son  that  had  been  slain.
 1  /.«.,  I  court  danger.
 
 
-THE  SHAHNAMA  OF  FIRDAUSI
-
-
 How  Shamdsds  and  Khazarwdn  invaded  ZdbuHstdn
 
 The  expedition  from  Irman  went  forth
@@ -17639,8 +16859,6 @@ Before  his  throne,  resign  to  him  my  realm,
 And  joy  in  him.     I  will  not  vex  the  paladin,
 But  send  him  every  kind  of  hoarded  wealth."
 
-
-NAUDAR  359
 
 Thus  one  hand  held  back  Shamasas  and  one
 Was  stretched  for  help.     He  sent  a  messenger
@@ -17683,8 +16901,6 @@ Of  poplar,  bough-like,  arching  through  the  sky
 In  three  directions,  and  a  clamour  followed.
 
 
-360  THE  SHAHNAMA   OF  FIRDA  USI
-
 When  it  was  day  the  soldiers  gathered  round
 And  marked  the  arrows,  saying  :  "  They  are  Zal's !
 None  other  shooteth  with  such  shafts  as  these."
@@ -17726,8 +16942,6 @@ His  foe,  and  brandishing  the  ox-like  mace
 Smote  Khazarwan  upon  the  head  and  made
 The  ground  as  'twere  a  leopard's  back  with  blood  ;
 
-
-NAUDAR  361
 
 Then  flung  him  down,  trod  on  him,  passed  along
 
@@ -17788,8 +17002,6 @@ Thus  host  encountered  host.     The  paladin
 Said  to  his  troops  :  "  Ye  men  of  noble  name
 And  ardent  soul !  go  battle  with  your  spears,
 
-
-362  THE  SHAHNAMA  OF  FIRDA  USI
 
 And  may  ye  rob  the  foe  of  life."
 
@@ -17876,8 +17088,6 @@ And  played  as  monarch  of  Iran  his  part
 With  thoughts  of  war  and  vengeance  in  his  heart.
 
 
-364  THE  SHAHNAMA  OF  FIRDA  USI
-
 §    12
 How  Zdl  had  Tidings  of  the  Death  of  Naudar
 
@@ -17961,8 +17171,6 @@ Are  men  of  might  with  hands  that  reach  afar
 And  will  not  keep  their  clutches  off  f  ran.
 
 
-366  THE  SHAHNAMA  OF  FIRDAUSI
-
 Now  when  these  warriors  wheel  about  us  here
 
 And  brandish  their  sharp  lances  in  his  sight
@@ -18012,8 +17220,6 @@ Pards  of  the  fray  and  winners  of  renown  !
 Who  is  the  warrior  of  princely  heart,
 All  black  with  courage,  who  will  raise  his  neck
 
-
-NAUDAR  367
 
 To  touch  the  sun  by  undertaking  this  ? "
 
@@ -18115,8 +17321,7 @@ He  blew
 The  trumpets,  bound  the  tymbals  on,  arrayed
 The  army  like  the  eye  of  chanticleer
 And  went  toward  Pars,  in  anger  and  revenge,
-With  troops  that  stretched  from  sea  to  sea,  and  dark-
-ened
+With  troops  that  stretched  from  sea  to  sea,  and  darkened
 
 The  sun  and  moon  with  dust.     Afrasiyab,
 On  hearing  Zal's  design,  marched  forth  his  host
@@ -18149,8 +17354,7 @@ NOTE
 Zav  is  described  in  the  Shahnama  as  the  son  of  Tahmasp  and
 descended  from  the  race  of  Faridun.  In  the  Bundahish  he  is
 said  to  be  the  grandson  of  Naudar.1  Zav  is  mentioned  in  the
-Zandavasta :  "  We  worship  the  Fravashi  (i.e.  the  immortal  prin-
-ciple) of  the  holy  Uzava,  the  son  of  Tiimaspa."  '2
+Zandavasta :  "  We  worship  the  Fravashi  (i.e.  the  immortal  principle) of  the  holy  Uzava,  the  son  of  Tiimaspa."  '2
 
 The  passing  over  of  Tiis  and  Gustaham,  the  sons  of  Naudar,  on
 the  express  ground  of  their  unfitness,  as  not  being  possessed  of
@@ -18170,8 +17374,6 @@ him;  it  induces  him  to  oppose  the  accession  of  Kai  Khusrau,
 
 369  2  A
 
-
-370  THE  SHAHNAMA   OF  FIRDAUSI
 
 and  subsequently  to  make  the  unprovoked  attack  which  results
 in  the  death  of  Fariid,  that  Shah's  brother.
@@ -18272,8 +17474,6 @@ The  roar  of  thunder  filled  the  mountain-tops
 1  Probably  referring  to  Faridtin's  settlement.
 
 
-372  THE  SHAHNAMA  OF  FIRDA  USI
-
 And  earth  recovered  colour,  scent,  and  beauty ;
 It  was  as  'twere  a  youthful  bride,  arrayed
 In  fountains,  pleasances,  and  rivulets,
@@ -18315,8 +17515,7 @@ NOTE
 In  the  summary  in  the  Dinkard  of  the  lost  Kitradad  Nask
 mention  is  made  of  Keresasp,  who  is  placed  between  Kai  Kubad
 and  Kai  Kaiis.1  Keresasp  appears  there  to  be  identical  with  the
-great  hero,  of  whom  an  account  has  been  given  in  the  intro-
-ductory note  to  Faridiin,  and  if  so  apparently  we  must  identify
+great  hero,  of  whom  an  account  has  been  given  in  the  introductory note  to  Faridiin,  and  if  so  apparently  we  must  identify
 Garshasp,  the  tenth  Shah,  with  him  as  well.  In  the  Shahnama,
 however,  he  is  a  mere  nominis  umbra,  and  Firdausi  places  him
 before  Kai  Kubad,  the  first  Shah  of  the  Kaianian  dynasty,  and
@@ -18331,10 +17530,6 @@ castellans.2  In  the  wars  between  the  Eastern  Roman  Empire  and
 
 1  WPT,  iv.  28.  2  p.  378.
 
-373
-
-
-374  THE  SHAHNAMA  OF  FIRDAUSI
 
 the  Sasanians,  bishops  and  other  ecclesiastics  often  took  a  very
 important  part  in  the  defence  of  besieged  cities.  Thus  S.  James,
@@ -18426,8 +17621,6 @@ No  rider  like  me  hath  bestridden  steed,  v.  284
 None  hath  essayed  to  wield  my  sword  and  mace,
 
 
-376  THE  SHAHNAMA   OF  FIRDA  USI
-
 And  horsemen  showed  their  cruppers,  not  their  reins,
 When  I  appeared.     I  have  fought  night  and  day
 And  all  my  life  have  dreaded  growing  old.
@@ -18436,8 +17629,7 @@ A  falchion  of  Kabul ;  yet  God  be  praised
 That  from  my  root  a  glorious  shoot  hath  sprung,
 Whose  head  will  reach  the  sky,  and  thou  shalt  see
 It  grow  in  valour,  Rustam  being  now
-A  straight-stemmed  Cypress' whom  the  crown  of  great-
-ness
+A  straight-stemmed  Cypress' whom  the  crown  of  greatness
 
 Becometh  well ;  but  he  must  have  a  charger ;
 These  Arab  horses  will  not  do  for  him.
@@ -18517,8 +17709,6 @@ My  quiver  when  I  clothe  myself  in  mail
 
 .  1  I.e.,  a  mace  of  steel.
 
-
-378  THE  SHAHNAMA  OF  FIRDA  USI
 
 Shall  shock  the  world,  and  all  the  fortresses
 V.  286       That  shall  withstand  mine  iron  mace's  blows,
@@ -18956,8 +18146,7 @@ v.  297       To  death.    The  Turkman  horsemen  turned  to  flee
 
 1  A  similar  story  is  told  of  a  Lombard  champion  who  with  his  great
 lance  (contus)  pierced  and  lifted  from  the  saddle  a  Byzantine  cavalier
-and  bore  him  aloft  wriggling  on  the  weapon's  point.  (Oman,  "  A  His-
-tory of  the  Art  of  War  in  the  Middle  Ages,"  p.  48.)
+and  bore  him  aloft  wriggling  on  the  weapon's  point.  (Oman,  "  A  History of  the  Art  of  War  in  the  Middle  Ages,"  p.  48.)
 
 
 GARSHASP  387
@@ -18976,1663 +18165,3 @@ But  kept  their  movements  secret.     All  agreed  : —
 For  seven  days  they  revelled  with  Kubad,
 Upon  the  eighth  hung  up  the  crown  on  high  -
 And  'neath  it  decked  the  throne  of  ivory.
-
-
-I
-
-INDEX
-
-
-'ABBASIDS,  dynasty  of,  13,  14
-Abbreviations,  list  of,  93
-Abtin,    father  of    Faridiin,    144
-
-151,  153,  171,  174
-Abu-'Ali  Muhammad,  Shdhnama
-
-of,  69
-
-Abu  Bakr,  Khalifa,  12
-Abii  Dulaf,  friend  of  Firdausi,  35,
-
-39
-
-AbiVl  'Abbas  Fazl  bin   Ahmad,
-minister  of  Mahmud,  30-32,
-
-36
-Abu'l    Kasim.   Firdansi,    24,   38,
-
-112
-Abu  Mansiir  bin  Abdu'r-Razzak,
-
-Shahndma  of,  67-70,  99
-Abii    Mansiir    bin    Muhammad,
-
-patron  of  Firdausi,  29,  1 10
-Abu  Talib,  uncle  of  Muhammad,
-
-12
-Afrasiyab,   ruler  of    Tiiran,    xv,
-
-42,     55,    72,    337,    342    seq.,
-
-362,   366  seq.,  374  seq.,  381,
-
-382
-
-'Afrit,  genie,  42
-
-AghreVae?,  prince  (Ighriras),  338
-Ahmad  Hasan  Maimandi,  minis-
-ter of  Mahmud,  32,  39,  45
-Ahmad  ibn   Muhammad,  patron
-
-of  Firdausi,  29
-
-Ahriman,  the  Evil  Principle,  xii,
-5,  6,  50,  138,  159,  194,
-287
-
-ridden  by  Tahmiiras,  125
-Ahura  Mazda  (Urmuzd),  235
-
-
-389
-
-
-Ahwaz,  place,  286
-
-Alans  (Alani),  people,  xiii,  19,
-217,  223
-
-Alburz,  mountain,  xv,  4,  71,
-145,  152,  168,  235,  248,  250,
-277,  298,  351,  373,  382  seq.
-
-Alexander,  the  Great  (Sikandar),
-
-14,  49
-
-persecutor  of  Zoroastrianism,
-
-15,  59,  61,  63,  338
-legendary  barrier  of,  16
-paternity  of,  55
-
-'All,  Khalifa,  12,  40,  41,  106,  107
-
-cult  of,  13
-
-assassination  of,  13
-
-Firdausi's  references  to,  24,
-
-37,  40,  41,  106,  107
-'All   Dilam,   friend   of   Firdausi,
-
-35,39
-Allah,    Muhammadan    name   of
-
-the  Deity,  50
-Alptigin,  chief,  20
-Arnin,  Khalifa,  14
-Amul,  city,  145,  177,  289,  298,
-
-344,  366,  367
-Anesthetics,  employment  of,  236,
-
-321  seq.
-Anbar,     city,     founded    by    the
-
-Azdites,  1 1
-
-Animals,  domestication  of,  126
-Ant,    the    poet's    plea    for    the,
-
-201
-
-Apsheron,  peninsula  of,  58  note
-Aptya,    Vedic    form    of    Abtin,
-
-q.v.,  171-174
-Arabia,  189
-
-ancient  trade  of,  II
-
-
-390
-
-
-INDEX
-
-
-Arabic,  language,  32
-
-infrequent  in  Shdhndma,  47
-
-Arabs,  tbeir  raids  into  and  domi-
-nation over  rrdn,  1 1-14
-
-Aras,  river,  9
-
-confused  with  tbe  Oxus,  71
-
-Architecture,  invention  of,    129,
-
-133
-
-Ard,  day  of,  24,  88
-Ardshir     Papakdn,      Shah,     42,
-
-62-64
-
-Aries,  constellation,  88,  310,  335
-Arjasp,  ruler  of  Turan,  61
-Arnawdz,  wife  of  Faridun,   142,
-
-146,  147,   148,    161  seq.,  166,
-
-177
-
-Arrdn,  district,  9
-
-Arslan  Jdzib,  general,  100
-referred  to,  114
-
-Artaxerxes  II.,  8Mb,  59
-
-Arwand,  river  (the  Tigris),  160
-
-Arzii,  wife  of  Salm,  188
-
-Aryan,  meaning  of,  7
-
-r^ce,  7  ;  relations  of  Indian
-branch  with  frdnians,  15
-
-Asfandiydr,  Ininian  hero,  42,  55
-
-Ashkdnian,  dynasty,  49
-
-Asoka,  Indian  king,  15
-
-Assyrians,  their  attacks  upon
-rrdn,  10
-
-Astrologers,  important  figures
-in  the  Shahndma,  52,  251,
-278
-
-Astyages,  king  of  the  Medes
-(Manda),  18,  72,  144
-
-Athwya,  Zandavastic  form  of
-Abtin,  q.v.,  171-174
-
-Atropatane,  province  (Azarbai-
-jan),  9,  56
-
-Azarakhsh,  fire-temple,  61
-
-Azarbaijdn,  province  (Atropa-
-tane), 9,  56,  6 1
-
-Azargashasp,  spirit  of  the  light-
-ning, 73,  248,  309,  349
-
-Azdites,  Arab  tribe,  1 1
-
-Azhi  and  Azi,  demon,  142.  See
-too  Dahdka  and  Zahhdk
-
-
-B
-
-
-BADAKHSHAN,  region,  300
-
-Baghdad,  city,  14,  160
-
-Bahman,  Shah,  42
-
-Bahrain,  Chubina,  14
-
-Bahram  Gur,  Shah,  42
-
-Baisinghar    Khan,    his    Life    of
-
-Firdausi,  23
-
-his  Preface  to  the  Shahnama,
-67-68
-
-Bait  al  Mukaddas,  city,  161
-
-Bcij,  Zoroastrian  system  of  pray-
-ing, 80
-
-Baku,  town,  58  note
-
-Balkh,    ancient    seat    of    Aryan
-
-civilisation,  7
-
-situated    on    ancient    trade-
-route,  57
-seat    of    the    Magi    and    of
-
-legend,  60
-Zoroaster's  successful  evangel
-
-at,  6 1
-as  rhyme-word,  74
-
-Barman,  Turanian  hero,  xv,  342,
-346  seq.,  354,  356
-
-Barsam,  implement  in  Zoroastriau
-ceremonial,  80
-
-Barzin,  fire-temple,  237
-
-Barzin,  Tranian  hero,  365
-
-Bdstdn  Ndma,  66-67  '
-
-Bazh,  suburb  of  Tus,  38
-
-Bedouins,  135,  179
-
-Bihistiin,  trilingual  inscription
-on  rock  of,  1 6
-
-Birmdya,  cow,  151-153,  162
-
-Bishop,  as  castellan,  373,  378
-
-Bistiin,  mountain,  328,  379
-
-Biwarasp  (Zahhdk),  72,  135,  144
-
-Brains,  human,  prescribed  to
-Zahhdk  by  Iblis,  139,  146
-
-Buddhism,  15  ;  regarded  as  idola-
-trous by  Zoroastrians,  16
-
-Bundahish,  Pahlavi  treatise,  70
-note,  91,  92,  117,  125,  131,
-235.  236>  337  note,  338,
-369
-
-
-INDEX
-
-
-Bust,  place,  252
-
-stream  of,  id.
-Buzurjmihr,    chief    minister    of
-
-Shah  Nushirwan,  27
-
-
-C
-
-dESAR,  84,  262
-
-Ctesarean  birth,  of  Rustam,  236,
-
-321  seq.
-
-Calendar,  old  Persian,  88
-Cancer,  Moou  in,  an  evil  omen,
-
-188
-
-Canopus,  star,  188,  266
-Caspian,  sea,  3,  4,   16,  19,  56,  57,
-
-338
-
-Castellan,  bishop  as,  373,  378
-Castes,   division  of  Aryans  into,
-
-7  ;  of  Iranians  into,  130-133
-Castle,  White  (Sipand),  236,  354,
-
-369-
-
-Catullus,  quoted,  60
-Caucasus,  16
-Chaha,  hostelry  of,  45
-Chahdr  Makdla,  treatise,  23
-
-account  of  Firdausi  in,    38,
-
-39,  45-
-
-Chalandshdn,    Ahmad    ibu    Mu-
-hammad of,  29
-Chamrosh,  mythical  bird,  235
-Characters,   chief  of    Shdhnama,
-
-49
-
-Characteristics,  of  fran,  3
-Charrae,  defeat  of  Crassus  at,  15
-Children,  sometimes  brought  up
-
-un-named,  8,  179
-Cbin,     country     (often  =  Tiiran),
-189,  229  seq.,  261,  262,  351,
-
-371
-brocade    of,    269,    333,    and
-
-passim
-
-sea  of,  252,  349
-Climate,  of  I' ran,  4,  5
-Climes,   the  seven,    40,   71,    122,
-
-123,  238
-
-Clouds,  personified  as  water-steal-
-ing demons,  7
-
-
-Cocks  and  hens,  taught  to  crow
-
-at  daybreak,  126
-Companions,  the  Prophet's,  praise
-
-of,  1 06
-Cosmogony,  ancient   I'ranian,  5,
-
-71  ;  Firdausi's,  102
-Crassus,   defeat   of    at    Charrae,
-
-IS
-Creation,  Zoroastrian  account  of,
-
-5.  ii7
-
-Firdausi's,  102-106
-Culture-heroes.      See    Gaiiimart,
-
-Hiishang,     Tahmuras,     and
-
-Jamshid
-Cyrus,  the  Great,  18
-
-
-D
-
-DA£VAS,  demons  (divs),  130
-Dahaka  (Zahhak),  7,  142,  172
-Dahistan,  fortress,  280,  344  seq.,
-
-349,  353.  363
-Dakhma,  81
-Dakiki,  poet,  28,  67,  69,  109
-
-verses  by,  69
-Damawand,  mountain,  143,  144,
-
-148,  169,  173
-Damda"d,  Nask,  70  note
-Ddnishwar,  the  dihkdn,  67,  68
-Ddni,  son  of  Ddrdb,  Shah  (Darius
-
-Codomanus),  42,  49
-Da"ra"b,  Sluih,  42,  49
-Darband,  town  and  pass  of,  16
-Darius,  Hystaspis,  6,  9,  65
-
-Codomanus,  49,  64
-Dastdn  (Zdl),  84,  248,  264
-Dastdn-i-Sam  (Zal),  84
-Dastsln-i-Zand  (Zal),  245,  248
-Daulat  Shdh,  his  Life  of  Firdausi,
-
-24
-
-Destiny,  Muhammadan  and  Zoro-
-astrian conceptions  of,  52
-Dihkfin,  generic  title,  56
-Dihkdn  =  minstrel,  66,  8l
-Dijla,  river  (the  Tigris),  160
-Dilamids,  dynasty,  14
-Dindr,  coin,  81
-
-
-392
-
-
-INDEX
-
-
-Dinkard,     Pahlavi     treatise,    70
-
-note,  373
-
-Diram,  coin  (drachm),  81
-Div,  demon  (Dae"va),  xii,  42,  50,
-
-82,  130,  209
-Black,  xii,  82,  117,  120,  121,
-
-126,  127
-Binder   of    the   (Tahmuras),
-
-42,  124
-White,  82
-Divining  cup,  51
-Drachm,  coin  (diram),  81
-Dragon  =  Zahhak,  158,   161,   163,
-
-169,  275,  288
-Faridun  as,  186
-of  the  Kashaf,  235,  296
-Dragon's  child  (Riiddba),  304
-Drangiana,  province  (Sistan),  4
-Dreams,  veridical,  51
-Drought  and  famine,  in  fran,  370,
-
-371.
-
-Dualism,  5,  49,  50,  52,  56,  58
-Dunbar,  place,  252,  256,
-Dust,  prevalence  of,  in  I'ran,  3
-
-as  a  metaphor,  73
-Dynasties,  Tranian,  in  Shahndma,
-
-49
-
-E
-
-EDESSA,  S.  James  of,  374
-Ekbataua,  city  ( Ramadan),  17
-Elements,  the  four,  102,  286
-Elephant,  White,  xiv,  327,  377
-Ellipi,  kingdom  of,  9,  17
-Euxine,  sea,  16
-
-Eyes,  metaphor  for  children,  178,
-180,  181,  194
-
-
-F
-
-,  dynastic  title  of  the
-princes  of  Chin  and  Mdchin,
-262
-
-Fakkd,  a  kind  of  drink,  43  note
-Famine    and   drought,   in  Tran,
-370,  371
-
-
-Faranak,  mother  of  Faridun,  145,
-
-^5',  157,  175
-
-Faridun,  Shah,  xii,  xiii,  30,  42,
-54,  55.  J42  seq.,  149  seq.,
-170,  278,  286,  288,  329,  335,
-34i,  349,  35 !»  364,  370,  382,
-384,  385
-flag  of,  293,  295
-
-Farr,  divine  Grace  or  Glory,  82
-Farsang,  measure  of  length  (para-
-sang),  82
-
-Fariid,  son  of  Siydwush  and  half
-
-brother  of  Kai  Khusrau,  370
-
-Farwardin,    name    of    day    and
-
-month,  88,  133  263
-Fdtima,  daughter  of  Muhammad
-
-and  wife  of  'All,  12
-Fazl,  son  of  Ahmad.    See  Abu'l
-
-'Abbds  Fazl
-
-Firdausi,  materials  for  life  of,  23
-autobiographical     reference*
-
-of,  24  seq.
-
-Nizdmi's  account  of,  38,  45
-bitterness  against    Mahrm'id
-
-of,  33
-
-Satire  on  Mahmud  of,  40
-referred  to,  373
-takes  up  the   Shdhnama  on
-
-Dakiki's  death,  28
-writes   Yusuf  and   Zulikha,
-
-.      45
-
-death  of,  45
-his   epic  method   contrasted
-
-with  Homer's,  47
-his    adulation    of    Mahnnld,
-
-30,  112
-Fire,  ancient  cult  of  the  Aryans,
-
-7,  49,  56.
-
-priests.    See  Magi
-
-region  of,  56
-
-Hiishang's  discovery  of,  123
-
-his    institution    of    feast    of
-
-(Sada),  123
-Fish,  mythological,   71,  72,   148,
-
-252
-Flesh-meats,      introduction     of,
-
-attributed  to  Ahriman,  138
-
-
-INDEX
-
-
-393
-
-
-Forts,  hill,  description  of,  236,  329
-Frangrasyan  (Afrdsiyab),  338
-Frasiyav  (Afrdsiyab),  338
-Fruvashi,  immortal  principle,  369
-
-G
-
-GAitfMART,  Shall,   xii,    117-121,
-
-123
-
-Gandarep,  monster,  143,  172-173
-Gang-i-Dizhukht,  city,  161,  226
-Garshasp  (Keresaspa),  174
-Garsh;tsp,  Iranian  hero,  42,  144,
-
-207,  212,  214,  239
-Garshasp,  Shah,  xv,  174,  373  seq.
-Garsiwaz,   brother  of  Afrasiyiib,
-
-342,  349
-Gaumata,      Magus     (the     false
-
-Smerdis),  58,  59
-Gazhdaham,     the     castellan     of
-
-White  Castle,  354,  369
-Genealogical  tables,  90-92
-Ghazni,  city,  20,  357
-Ghiil,  sorceress,  42
-Gil  (Gilaii),  231
-Gildn,  region,  230
-Gimimi.     See  Kimmerians
-Glory,  the  divine.     See  Grace
-Go-between,  old  woman  as,  280
-
-seq.
-
-Gog,  and  Magog,  16
-Golden  Fleece,  land  of  the,  57
-
-age,  129,  134
-
-Gonier.     See  Kimmerians
-Grace  or  Glory,  the  divine,  82,  1 16,
-130-135,  208,  237,  338,  340,
-341,  351,  369,  370,  374,  378
-
-visible  appearances  of,  82, 130.
-
-374,  385
-Greeks,  10,  14
-Griffon,  235
-
-Gudarz,  Tranian  hero,  42
-GushUsp,  Shall,  42,  61
-Gustaham,  son  of  Naudar,  351,
-
-353,  364,  369,  370
-Gustaham,   son  of   Gazhdaham,
-
-369
-
-
-H
-
-Ha'iy,  son  of  Kutiba,  patron  of
-
-Firdausi,  35,  39
-Haitalians,  people,  20
-Haimivardn,  country,  338
-
-king  of,  338
-Karat,  city,  7,  39
-
-battle  of,  21
-
-Hdrunu'r-Rashid,  Khalifa,  14
-Hdshimi,  a  descendant  of  Hash im,
-
-the    great  -  grandfather    of
-
-Muhammad,   25
-Hauz,  203
-
-Hawk,  domestication  of,  126
-Heroes,  chief,  of  mixed  descent,
-
-55
-
-Hindustan,  163,  231,  261
-Hira,  city,  1 1
-
-seat  of  dynasty  of  Al  Munzir,
-
-55
-
-Hirmund,  river,  358,  359
-
-Homa  or  Soma,  8,  143
-
-Homer,    his    epic    method    con-
-trasted with  Firdausi's,  47
-
-Horoscopes,  152
-
-of  the  sons  of  Favidiin,  188
-
-of  Zdl,  251,  278
-
-of  Rustam,  278,  307
-
-Houri,  maid  of  Paradise,  272
-
-Huns,  10,  19
-
-Hiishang,  Shah,  xii,  42,  122,  126,
-
-
-I
-
-IBLIS,  the  Muhammadan  Devil,
-xii,  136  seq.
-
-occasional  substitution  of  for
-
-Ahriman,  50,  70
-fd-i-Kurdi,  feast  of,  143
-Ighriras,    brother   of    Afrdsiyab,
-
-xv,   55,   337,    343  seq.,  347,
-
-363  seq.,  374
-
-Imagery,  of  Shdhndma,  72
-Indo-European  race,  its  divisions,
-
-7
-Indus,  71,  252
-
-
-394
-
-
-INDEX
-
-
-Introduction,  to  Shdhnama,  viii,
-
-3-95
-
-Traj,   youngest  son  of  Faridiin,
-xiii,  54,  174,  195-205,  217,
-
-335,  349
-naming  of,  188
-daughter  of,  xiii,  205,  206
-Irani,  gardens  of,  100,  113
-Tran,  xv,  113,  152,  153,  189,  364
-
-and  passim
-
-boundaries     and    character-
-istics, 3  seq.
-
-gradual  desiccation  of,  3
-drought  and  famine  in,  370, 37 1
-a  land  of  contrasts,  5,  58,  60
-Arab  conquest  of,  12
-Iranians,  the,  9  passim
-
-their  historical  relations  with
-
-the    Semites,    10 ;    Greeks
-
-and  Romans,  14;  Aryans
-
-of  India,  15  ;  Turanians,  16
-
-their     traditional     relations
-
-with  ditto,  54,  55,  66
-fran-vej,  region,  9,  62
-Irma'il,  Zahhak's  cook,  xii,  145
-Irman,  region,  345,  358
-Ismd'il,  brother  of  Sultan  Mah-
-
-miid,  21
-
-Ispahan,  city,  351
-Istuvegu.    See  Astyages
-
-
-JAH?LA,  battle  of,  12
-
-Jdmasp,    chief  minister  of   Shdh
-
-Gushtdsp,  42
-
-James,  S.,  bishop  of  Edessa,  374
-Jamshid,  Shah,  xii,  42,  129  seq.
-
-meaning  of  name,  130
-Jandal,   envoy  of    Faridun,   xii,
-
-177-183
-
-Jasha,  king,  67,  68
-Jesus,  42
-
-Jewels,  discovery  of,  133,
-Jihtin,  river  (the  Oxus),  215,  375
-
-as   boundary   between    Tran
-and  Turdn,  71,  370,  371
-
-
-Julian,  Emperor,  12
-
-Jupiter,  planet,  72,  161,  188,  281
-
-Justinian,  Emperor,  16
-
-K
-
-KiBiL,  city,   57,    234,  256,  262,
-
-268,  277,  282,  283,  286,  294,
-
-298,  300,  302  seq.,  365,  378
-Kdbulistan,  country,   15,  252,  263,
-286,  299,  316,  357
-
-idolatry  in,  16,  258
-
-the  Beauty  of  (Rtiddba),  302
-Kddisiyya,  battle  of,  12,  143
-Kahtdn,  desert,  287
-Kaidnian,  dynasty,  49,  373
-Kaidnush,    brother    of    Faridun,
-
-158  seq.
-
-Kaid,  dynasty  of,  55
-Kai  Kdus,  Shall,  42,  338,  373
-Kai  Khusrau,  Shah,  42,  369
-Kai  Kubdd,    Shah,    xv,    42.    373,
-
-382  seq.
-Kdkwi,  grandson  of  Zalihitk,  xiii,
-
-225  seq.
-
-Kandahdr,  city,  286
-Karabagh,  district,  9,  56
-Kdran,    Trdnian    hero,    xiii,   207,
-
-211,    214-226,   249,    337,    344
-
-seq.,  361,  365,  370
-Kargasdrs,    tribe,   253,   277,   279,
-
-286,  290,  294,  298,  319,  340.
-Kannuj,  city,  99,  115,  261,  357
-Karkwi,  descendant   of  Zahhdk,
-
-290  seq.
-
-Karmd'il,  Zahhak's  cook,  xii,  145
-Karshipta,  mythical  bird,  235
-Kashaf,  river,  235,  296  seq.
-
-dragon  of,  id.
-Kastarit.    See  Kyaxeres
-Kdus.    See  Kai  Kdus
-Kdwa,  the  smith,    xii,   155   seq.,
-160,  214,  361
-
-flag  of,    143,    157,    160,   211,
-
-217,  218,  237,  332
-Keresdspa,  Traniau  hero,  171  seq.,
-
-234,  235,  373
-
-
-INDEX
-
-
-395
-
-
-Khar,  of  Rai,  368,  374,  381
-
-Kharijites,  Muhammadan  sect,  13
-
-Kharrad,  fitlnian  hero,  365
-
-Khazars,  people,  17
-
-Khazarwan,  Tdranian  hero,  xv,
-345,  358  seq.
-
-Khil'at,  robe  of  honour,  82
-
-Khudai  Nania,  66
-
-Khusrau.    See  Kai  Khusrau
-
-Khutan,  region,  371
-
-Khvaituk-das,  next-of-kin  marri-
-age, 60
-
-Kishwdd,  Tranian  hero,  207,  344,
-
-354,^65,  367
-
-Kimraerians,  people,  10,  17
-
-Kitradad,  Nask,  373
-
-Knathaiti,  Pairika,  female  per-
-sonification of  idolatry,  172
-
-Kubdd,  brother  of  Karan,  xv,  207,
-217,  218,  346  seq.
-
-Kubad,  Shah.     See  Kai  Kubad
-
-Kulbdd,  Turanian  hero,  361
-
-Kulun,  Tiirdnian  hero,  382,  383,
-386,  387
-
-Kundrav,  minister  of  Zahhak,
-xii,  143,  164  seq.
-
-Kur'an,  99
-
-Rustam  referred  to  in,  236
-
-Kurds,  people,  9,  64,  147
-
-Kunikhan,  Turanian  hero,  353
-
-Kiis,  place,  177
-
-Kyaxares,  king,  18
-
-
-LIBRA,  constellation,  310
-
-Lion's    House    (constellation    of
-
-Leo),  188
-Luhrasp,  Shah,  42
-Lumsden,    his    edition     of     the
-
-Shdhndma,  76
-
-M
-
-MACAN,     his     edition     of     the
-
-Shalmama,  76
-Madd,  the  Med'es,  18,  56
-
-
-Magi,  priests  of  the  Medes,  9,  56
-
-preservers   of    tradition,   56,
-60
-
-principal  seats  of,  60
-
-literature  of,  61
-
-language  of,  64
-Magic,  51
-
-derivation  of  word,  56
-
-sympathetic,  8
-Magog,  Gog  and,  16
-Magophonia,  59
-Magus,    a  priest  of  the   Medes.
-
-See  Magi
-Miih  Afrid,  the  mother  of  Mimi-
-
-chihr,  205
-Mdh-i-Azdda  Khii,'  the  wife   of
-
-Tiir,  188
-Mahmiid,  Sultan,  21  seq.,  31-45,
-
-84
-Firdausi's  panegyrics  on,  29
-
-seq.,  112  seq.
-Satire  on,  23,  40  seq.
-spiteful  allusions  to  in
-
-Shdhndma,  33,  34
-Mai,  city,  252,  256,  261
-Maiddn,  riding-ground,  83
-Mamiin,  Khalifa,  14
-Man,  the  first,  5
-
-Firdausi's   discourse   on   the
-
-nature  of,  104
-Manachihr,  206
-Manda,  nomad  tribes,  17,  1 8
-Mansiir,  Sdmanid,  prince,  20,  21
-Maniiskihar  (Minuchihr),  338
-Mardas,  Arab  king,  135  seq.
-Margli,  city,  256
-Mars,  planet,  72,  332,  339
-Marv,  city,  7,  45
-Mashya,  and  Mashyoi,  117,  131
-Mayors  of  the  palace,  Oriental,
-
-14
-
-Mdzandaran,    country,   4,    5,    12,
-253,  290,  294,  296,  298,  319,
-
-323.  339.  378
-Mazdak,  heresiarch,  63
-Medea,  land  of,  57
-Medes,  9,  10,  17,  18,  56,  58,  72
-
-
-396
-
-
-INDEX
-
-
-Median,     language    (Zend),     64
-
-seq.
-
-Mercury,  planet,  72
-Mihrab,  king,  xiv,  xv,  234,  256
-
-seq.,   275   seq.,  284  seq.,  299
-
-seq.,  358,  359,  361
-Mil,  as  rhyme-word,  75
-Mimichihr,    Shrill,   xiii    seq.,  42,
-
-206,  209  seq.,  234  seq.,  337,
-339  seq.,  348,  363
-
-Mohl,  his  edition  and  translation
-
-of  the  Shahndma,  76,  77
-Moola  Firiiz,  201
-Moon,    Firdausi's    discourse    on
-the  nature  of,    05
-
-one  of  the  seven  planets,  72
-Moses,  of  Chorene,  72,  144,  236
-Mu'awiya,  Khalifa,  12,  13
-Mubid,  83
-Muhammad,  the  Prophet,  12,  13,
-
-40,  41,  106
-Muhammad,     son      of     Abdii'r-
-
-liuzzak,  68,  99
-Muhammad  Lashkari,  friend   of
-
-Firdausi,  99
-Muhammad   Mahdi,   his  edition
-
-of  the  Shahnama,  76
-Mumasenni,  tribe,  237
-Munzir,  dynasty  of  Al,  55
-Mutawakkil,  Khalifa,  14
-
-N
-
-NAHA  VAND,  battle  of,  1 2
-Namfes,  in  sympathetic  magic,  8,
-
-117,  179
-
-Naphtha,  wells  of,  56
-Nariman,  I'ranian  hero,  42,  174,
-
-207,  239,  329,  333
-Narimanau,  epithet  of  Keresaspa,
-
-172,  174
-Narwan,  forest  of,  217,  218
-
-
-Nasiru'd-Din,  title  of  Subuktigin,
-
-21, 114
-Nasr,  brother  of  Sultan  Mahmtid,
-
-21
-Nature-worship,  of  the  Aryans,
-
-7.SI
-
-Naudar,  Shah,  xv,  248,  288,  289,
-
-326,  337  seq.,  369
-Nil,  as  rhyme-word,  75
-Nile,  40,  71,  114
-Nimruz  =  Sistan  =  Zabulistan,1252,
-
-264,  346,  357
-Nineveh,  fall  of,  10
-
-kings  of  that  attacked  Tran,
-
-10
-
-Nishapur,  city,  36,  45
-Nisibis,  sieges  of,  374
-Nizami-i-'Arudi,  author,  22
-
-his  account  of   Firdausi,  38
-
-seq.,  45,  46
-
-Noah,  the  I'ranian,  129
-Nuh  bin  Mansiir,  Samdnid  prince,
-
-36
-
-Nuh  II.,  Samanid  prince,  21
-Niishirwan,  Shah,  16,  27,  42
-
-has  Bastan-nama  compiled,  67
-
-
-0
-
-OCEANUS,  Homeric  and  Oriental,
-
-7i
-
-Ox,  the  first,  5,  117
-Oxus     (Jihiin),    ancient    trade-
-route,  57
-
-confused  with  Aras,  71
-
-
-PADASHKVAR,    mountain-range,
-
-338
-Pahlavan,  83
-
-
-1  Properly  speaking  Zdbulistan  is  the  name  of  the  hilly  country  about  the  upper
-waters  of  the  Helmund,  while  Nimruz  and  SIstdn  are  synonymous  names  for  the
-low-lying  lands  into  which  its  waters  descend,  but  Firdausi  does  not  seein  to  make
-any  such  distinction.
-
-
-INDEX
-
-
-397
-
-
-Pahlavi,  meaning  of,  64,  83
-
-Firdausi's  use  of  the  word,  69
-Pari,  83
-Pars,  country,  351,  353  seq.,  357,
-
-368,  37i
-Partisans,  people,  10,  19,  60,  61,
-
-64
-
-Pashang,  father  of  Minuchihr,  205
-Pashang,  father  of  Afrasiydb,  xv,
-
-336,  337,  342  seq.,  374,  375
-Patrons,  of  Firdausi,  29
-Perfumes,  invention  of,  133
-Periods,  mythic  and  historic,  of
-
-Shdhndma,  49,  53
-Persians,  8,  9
-Petroleum,   in   ancient  cult  and
-
-modern  industry,  56  seq.
-Pil,  as  rhyme-word,  75
-Piran,  Turduian  hero,  character
-
-of,  55
-
-Pisces,  constellation,  310
-Pislidadian,  dynasty,  49,  116,  373
-Planets,  created  by  Ahriman,  52
-Pleiades,  245,  267,  332
-Prelude,  to  Shdhndma,  99
-Prometheus,  57
-Purmaya,    brother    of    Fariduu,
-
-158  seq.
-
-R
-
-RAI,  city,  363,  366  seq.
-
-Khar  of,  368,  374,  381
-Rakhsh,     Rustam's    steed,     xv,
-
-373,  378  seq.,  386
-Roc,  mythical  bird,  51,  235
-Romans,  the,  10,  14
-Ruddba,  the  mother  of  Rustam,
-xiv,  145,  234,  280  seq.,  299
-seq.
-
-described,  257,  259  seq.
-Rue,  wild,  as  a  preservative  from
-
-harm,  380
-Rum,  the  Eastern  Roman  Empire,
-
-15,  183,  189,  229
-brocade  of,  157,  252,  316,  and
-passim
-
-
-Rustam,   Tranian    hero,   xiv,  xv,
-42,  56,  68,  174,  234, 236,  237,
-320  seq.,  373,  376  seq.
-his    birth    prophesied,    278,
-
-307,  32i
-Caesarean  birth  of,  236,  321
-
-seq.
-origin  of  name,  322
-
-
-S
-
-SACAE,  Scythians,  17,  19
-Sacaestan.    See  Sistdn
-Sacrifice,    human,    and    Serpent
-
-worship,  143
-
-Sada,  feast  of,  xii,  123,  124
-Sagittarius,  constellation,  188
-Sagsdr,  and  Sagsdrs,  district  and
-
-tribe,  279,  290,  323,  339
-Sahi,  wife  of  fraj,  188
-Saifu'd-Daula,    title    of    Sultdri
-
-Mahmud,  21
-
-Salm,  eldest  son  of  Fariduu,  xiii,
-42,  54,   174,   183  seq.,   335,
-342,  344,  362
-naming  of,  187
-Salt,   Rustam's  caravan  of,  330
-
-seq.
-
-desert,  3
-
-Sdm,  frdnian  hero,  xiii,  xiv,  42,
-95,  174,  207,  212,  231,  234
-seq.,  337,  339  seq.,  345,  346,
-358,  375
-
-"One  blow,"  297,  299
-slays  dragon  of  the  Kashaf,
-
-296  seq.
-mace  of,  235,  290,  297,  328,
-
-378
-Sama      Keresaspa      Narimanau,
-
-Frdnian  hero,  171  seq.
-Sdmdnides,  dynasty,  14
-Samarkand,  city,  7,  19
-Sapandarmad,    month   and   day,
-
-24,  88,  89
-Sapor   II.    See    Shdpur,    son    of
-
-Urmuzd
-Sardparda,  84
-
-
-398
-
-
-INDEX
-
-
-Sari,    city,    230,    289,    363,   366,
-
-367
-Sarv,   king  of  Yaman,  xii,  xiii,
-
-178-186,  211,  214,  218,  286
-Sasanian,  empire,  11
-
-dynasty,  49
-Sdsdnians,  374
-Satire,     Firdausi's     on     Sultan
-
-Mahimid,  40
-
-Saturn,  planet,  72,  245,  295,  311
-Scriptures,  Zoroastrian.    SeeZ&n-
-
-davasta.
-Serpent,  on  Zahhak's  shoulders,
-
-139
-worship  and  human  sacrifice,
-
-M3
-
-Shabdiz,  Mihrab's  steed,  326
-Shahnjima,    original    compilation
-
-of,  66
-
-more  than  one,  29,  66,  67,  69
-Dakiki's  beginning  of,  28
-Firdausi's,  viii,  23  seq.,   108
-
-seq.
-
-scene  of,  3
-
-date  when  finished,  24
-length,  metre,  language,
-
-and  theme  of,  47
-anomalies  of,  48
-divisions  and  chief  char-
-acters of,  49
-machinery  of,  51
-leading  motives  of,  53
-cosmogony  of,  71
-imagery  of,  72
-editions  of,  76
-translations  of,  87
-Shahrintlz,  wife  of  Faridun,  142,
-
-146,  164  seq.,  177
-Shamdsds,    Ttiranian    hero,    xv,
-
-345.  346,  358  seq.
-Shapigan,  treasury  of,  61,  62
-Shapur,    Trdnian  hero,  210,  211,
-
-215.  352
-
-Shapur,  son  of  Ardshir,   Shapur
-I.  (Sapor  1.),  Shah,  42,  63
-
-
-Shapur,  son  of  Urmuzd,  Shapur
-II.  (Sapor  II.),  Shah,  62,  63,
-
-374
-Shidasp,  minister   of  Tahnninis,
-
-127
-
-Shidush,  1'ranian  hero,  211,  354
-Shi'ite,  Firdausi  a,  24
-Shi'ites,  Muhammadan  sect,  13
-Shiraz,  city,  236
-Shirwi,    franian   hero,   207,    215,
-
-223,  225,  230,  232
-Shiz,  seat  of  the  Magi,  60
-Sikandar  (Alexander  the  Great),
-Shdh,  42,  49
-
-legendary  barrier  of,  16
-
-paternity  of,  55
-
-Simurgh,  mythical  bird,  51,  235,
-242,  253,  276,  302,  326
-
-nest  of  described,  244
-
-efficacy  of  feathers  of,   246,
-
-320
-Sindukht,  wife  of  Mihrab,   xiv,
-
-259,  281  seq.,  299  seq.
-Sipand,  mountain,  xiv,  236,  329
-
-seq.,  377
-
-Sipanjab,  region,  375
-Sistan,1  4,  119,  120,  159,  168,  178,
-182
-
-origin  of  name,  19
-Siyamak,  son  of  Gaiumart,  xii,
-
-117,  119  seq.
-
-Siydwush,  son  of  Kai  Kaus,  55
-Soma.     See  Homa
-S6shyans,  the  Zoroastrian  Mes-
-siah, 131
-
-Spica,  star,  245,  271
-Spityura,  brother  of  Yima  (Jam-
-
-shid),  130
-
-Sr6vbar,  mythical  serpent,  172
-Subuktigin,  the  father  of  Sultdn
-
-Mahmud,  20,  21
-Sughd,  district,  19
-Sun,  Firdausi's  discourse  on  the
-nature  of  the,  105
-
-one  of  the  seven  planets,  72
-
-
-See  note,  p.  396.
-
-
-INDEX
-
-
-399
-
-
-Sunnites,       orthodox      Muham-
-
-madans,  13
-Surush,  angel,  51,  119,  120,   159,
-
-168,  173,  182
-Sviatoi,  island,  58  note
-
-
-TABARlSTiN,  chief  of,  a  patron
-
-of  Firdausi,  39,  40
-Tahmdsp,    father    of    Zav,    369,
-
-370
-Tahmuras,    Shah,    xii,    42,     125
-
-seq.
-
-Taliman,  king,  211,  217,  352
-Tammisha,  wood,  177,  230
-Taraz,  city,  257,  266,  269
-Tausar,  high  priest  under  Ardshir
-
-Papakan,  62,  63
-
-Thorn  brake  town,  the  world,  310
-Thrae"taoua,  171  seq.
-Thrita,  171  seq.
-Tishtar,  Sirius,  235
-Trade-routes,  ancient,  u,  57
-Traitana,  7,  8,  171  seq.
-Translation,        the       principles
-
-adopted  in  present,  77-86
-Translators,    of    the    Shahnaina,
-
-list  of  previous,  87
-Trita,  7,  8,  171  seq.
-Tumaspa  (Tahinasp),  369
-Tur,  second  son  of  Faridun,  xiii,
-42,  54,    174,   183  seq.,  335,
-342,  344,  362
-
-naming  of,  187
-Turan,  189,229,  351,  371
-Turanians  (Turkmans),  9,  10,  54
-
-relations    of     the    Iranians
-
-with,  16
-Turkmans   (Turanians),   20,   189,
-
-Turks,  10,  20
-
-Tus,   son  of    Naudar,   351,  353,
-
-364,  369,  370
-Tus,  city,  38,  39,  41.  45
-
-prince  of,  100,  114
-
-governor  of,  39
-
-
-U
-
-'UMAR,  Khalifa,  n  seq.,  67
-Umayyads,  dynasty,  12,  13
-Urmuzd,  the  Good  Principle,  5,
-
-5°
-
-Utbi,  Al,  historian,  32
-'Uthmdn,  Khalifa,  12
-Uzava  (Zav),  369
-
-
-VALKASH  (Vologeses),  king,  62,
-
-63
-
-Varewjrana,  the  raven,  235
-Vedas,  129,  144,  171,234,  337
-Venus,  planet,  72,  303,  322,  332,
-
-339
-
-Vivanghat,  129
-Vologeses  I.  (Valkash),  62,  63
-Vologeses  II.,  19
-
-W
-
-WATER,  scarcity  of,  3
-
-stealing  demons,  7,  338
-Water-courses,  underground,  3
-West,  the,  Salm's  portion  of  the
-
-world,  189
-Wisa,   Turanian    hero,   xv,    337,
-
-353.  356  seq.,  361,  362
-Wisdom,  discourse  in  praise  of,
-
-101
-White   Castle    (Mount    Sipand),
-
-236,  354,  369
-
-Writing,    art  of,   taught  by  the
-divs  to  Tahmuras,  127
-
-
-YA'KtfB  LAIS,  chieftain,  67,  68
-Yama  (Yima,  Jamshid),  7 ,  129
-Yaman,  country,  178,  181  seq.,
-
-266,  286
-
-king  of  (Sarv),  xii,  xiii,  178,
-179,  182
-
-
-4oo
-
-
-INDEX
-
-
-Yima  (Yama,   Jamshid),   7,   129,
-
-130,  374
-Yiisuf  and   Zulikha,   Firdausi's,
-
-45.  46
-
-
-ZABUL,  Zabulistiin,  country,1  248,
-252,  254,  264,  282,  324,  345,
-357.  358,  36i,  364.  366,  367,,
-37i,  375,  381
-
-Zadsham,  king  of  Turstn,  342  seq.,
-
-376
-
-Zahhak,  Shah,  xii,  42,  54,  72,
-135  seq.,  173  seq.,  275,  278,
-288,  290,  292,  303,  326,
-
-t338,  358
-his  minister  (Kundrav),  xii,
-
-164  seq.
-his  capita],  161
-
-Zal,  the  father  of  Rustam,  xiii
-seq.,  95,  145,  235  seq.,  337,
-345,  346,  358  seq.,  364  seq.,
-370  seq.,  381,  382,  384,  387
-
-Zal-i-zar  (Zal),  84,  248
-
-Zamydd,  Yast,  338
-
-
-Zand,  comment,  65
-
-Zimdavasta,  64  seq.,  70  note,  129,
-
-144,   171,   172,  174,  234,  337,
-
-338,  369
-Zarang,  city,  4
-
-Zarasp,  son  of  Minucliihr,  248
-Zarathustra     (Zarduhsht,     Zoro-
-aster), 235,  236
-Zarduhsht  (Zoroaster),  53,  61
-
-title  of  a  line  of  priest-princes,
-
-61
-
-Zarir,  tranian  hero,  42
-Zav,  Shah,  xv,  369  seq.
-Zend,  language,  64
-Zirak,  an  archimage,  149,  150
-Zirih,  sea  or  lake,  4
-Zoroaster  (Zarduhsht),  53,  61,  62
-Zoroastriau  calendar,  59
-
-cosmogony,  5
-
-conception  of  destiny,  52
-
-propaganda,  58  seq.
-
-scriptures,  61  seq.
-Zoroastrianism,  49
-
-conceptions  of,  5,  51,  52
-
-original  seat  of,  56  seq.,  62
-
-scriptures  of,  61  seq.
-
-
-See  note,  p.  396.
-
-
-END   OF   VOL.   I.
-
-
-Printed  by  BALLANTYNE,  HANSON  &  Co.
-Edinburgh  &  London
-
-
-PLEASE  DO  NOT  REMOVE
-CARDS  OR  SLIPS  FROM  THIS  POCKET
-
-UNIVERSITY  OF  TORONTO  LIBRARY

@@ -2085,7 +2085,7 @@ items:
   manifest_path: manifests/project-gutenberg/zendavesta01darm-zend-avesta-part-1-vendidad.yml
   extraction_dir: extractions/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad
 - id: zoroastrian.avesta.yasts_darmesteter_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: zendavesta02darm
@@ -2145,9 +2145,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/zendavesta02darm-zend-avesta-part-2-yasts.md
+  canonical_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  manifest_path: manifests/project-gutenberg/zendavesta02darm-zend-avesta-part-2-yasts.yml
+  extraction_dir: extractions/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts
 - id: zoroastrian.avesta.yasna_gathas_mills_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: zendavesta03darm
@@ -2208,9 +2212,13 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/zendavesta03darm-zend-avesta-part-3-yasna-gathas.md
+  canonical_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  manifest_path: manifests/project-gutenberg/zendavesta03darm-zend-avesta-part-3-yasna-gathas.yml
+  extraction_dir: extractions/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas
 - id: zoroastrian.pahlavi.bundahis_west_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: pahlavitexts01west
@@ -2272,7 +2280,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/pahlavitexts01west-pahlavi-texts-part-1-bundahis.md
+  canonical_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  manifest_path: manifests/project-gutenberg/pahlavitexts01west-pahlavi-texts-part-1-bundahis.yml
+  extraction_dir: extractions/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis
 - id: greek.argonautica.seaton_gutenberg
   status: ingested
   priority: high
@@ -2907,7 +2919,7 @@ items:
   manifest_path: manifests/project-gutenberg/77935-book-of-enoch-charles.yml
   extraction_dir: extractions/jewish-pseudepigrapha/project-gutenberg/book-of-enoch-charles
 - id: jewish.jubilees.charles_archive
-  status: converted
+  status: ingested
   priority: high
   source: internet_archive
   source_id: cu31924060029984
@@ -2966,7 +2978,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/cu31924060029984-book-of-jubilees-charles.md
+  canonical_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  manifest_path: manifests/project-gutenberg/cu31924060029984-book-of-jubilees-charles.yml
+  extraction_dir: extractions/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles
 - id: christian.apocryphal_gospels.wake_gutenberg
   status: ingested
   priority: medium
@@ -3096,7 +3112,7 @@ items:
   manifest_path: manifests/project-gutenberg/76266-pistis-sophia-horner.yml
   extraction_dir: extractions/gnostic/project-gutenberg/pistis-sophia-horner
 - id: hermetic.corpus_hermeticum.mead_archive
-  status: converted
+  status: ingested
   priority: medium
   source: internet_archive
   source_id: thricegreatesth02meadgoog
@@ -3155,7 +3171,11 @@ items:
   pipeline:
     raw_fetched_on: '2026-07-17'
     converted_on: '2026-07-17'
+    promoted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/thricegreatesth02meadgoog-thrice-greatest-hermes-vol2-mead.md
+  canonical_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  manifest_path: manifests/project-gutenberg/thricegreatesth02meadgoog-thrice-greatest-hermes-vol2-mead.yml
+  extraction_dir: extractions/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead
 - id: norse.prose_edda.anderson_gutenberg
   status: ingested
   priority: medium
@@ -9590,7 +9610,7 @@ items:
     converted_on: '2026-07-18'
   converted_path: imports/converted/project-gutenberg/cu31924023500543-island-of-stone-money-furness.md
 - id: native_american.chinook_texts.boas_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: chinooktexts00boas
@@ -9639,8 +9659,13 @@ items:
   why_it_matters: Boas's first great single-narrator verbatim corpus; myths, shamanistic
     soul-recovery accounts, and first-salmon ritual texts from the lower Columbia,
     a lineage otherwise almost unrecorded.
+  raw_path: imports/raw/project-gutenberg/chinooktexts00boas-chinook-texts-boas.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/chinooktexts00boas-chinook-texts-boas.md
 - id: native_american.kathlamet_texts.boas_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: kathlamettexts00boas
@@ -9689,8 +9714,13 @@ items:
   why_it_matters: Myth texts (Sun myth, salmon myth, star stories) from an extinct
     Chinookan lineage preserved verbatim from its last speaker; prime comparative
     material against Chinook Texts from the same narrator.
+  raw_path: imports/raw/project-gutenberg/kathlamettexts00boas-kathlamet-texts-boas.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/kathlamettexts00boas-kathlamet-texts-boas.md
 - id: native_american.seneca_fiction_legends_myths.curtin_hewitt_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: senecafictionle00hewigoog
@@ -9742,8 +9772,13 @@ items:
   why_it_matters: The major Iroquoian narrative corpus - fills the northeast-woodlands
     gap with vampire-skeleton, flying-head, sky-world, and orenda (power) motifs recorded
     near-verbatim by a native Iroquoian ethnologist.
+  raw_path: imports/raw/project-gutenberg/senecafictionle00hewigoog-seneca-fiction-legends-myths-curtin-hewitt.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/senecafictionle00hewigoog-seneca-fiction-legends-myths-curtin-hewitt.md
 - id: native_american.zuni_indians.stevenson_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: thezueniindians00stevrich
@@ -9796,8 +9831,13 @@ items:
   why_it_matters: Complements the already-ingested Cushing Zuni Folk Tales with the
     ceremonial-esoteric side - emergence cosmology, rain priesthoods, fraternity initiations,
     and altar rituals recorded by the first woman BAE ethnographer.
+  raw_path: imports/raw/project-gutenberg/thezueniindians00stevrich-zuni-indians-stevenson.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/thezueniindians00stevrich-zuni-indians-stevenson.md
 - id: native_american.the_sia.stevenson_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: sia00stevgoog
@@ -9848,8 +9888,13 @@ items:
   why_it_matters: Adds the Keresan pueblo lineage (distinct from Zuni and Hopi) -
     Spider creator Sussistanako, underworld emergence, and rain-priest cosmology from
     one of the smallest surviving pueblos.
+  raw_path: imports/raw/project-gutenberg/sia00stevgoog-the-sia-stevenson.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/sia00stevgoog-the-sia-stevenson.md
 - id: native_american.mountain_chant.matthews_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '20839'
@@ -9901,8 +9946,17 @@ items:
   why_it_matters: Pairs with the already-ingested Matthews Navaho Legends - the full
     nine-night healing ceremony with its origin myth and bilingual song texts, core
     material for altered-states and healing-ritual motifs.
+  raw_path: imports/raw/project-gutenberg/20839-mountain-chant-matthews.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/20839-mountain-chant-matthews.md
+  canonical_path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+  manifest_path: manifests/project-gutenberg/20839-mountain-chant-matthews.yml
+  extraction_dir: extractions/native-american-southwest/project-gutenberg/mountain-chant-matthews
 - id: native_american.tusayan_migration_traditions.fewkes_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: cu31924104075415
@@ -9951,8 +10005,13 @@ items:
   why_it_matters: Fewkes's synthesis of Hopi clan migration legends - the historical-mythic
     charter of the mesa villages, complementing Voth's story collection with clan-level
     origin traditions.
+  raw_path: imports/raw/project-gutenberg/cu31924104075415-tusayan-migration-traditions-fewkes.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/cu31924104075415-tusayan-migration-traditions-fewkes.md
 - id: native_american.chippewa_music_1.densmore_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: chippewamusic01dens
@@ -10003,8 +10062,13 @@ items:
   why_it_matters: First of Densmore's great song-text monographs - Midewiwin initiation
     and healing songs with dream-origin attributions, direct evidence for the dream/vision
     song complex.
+  raw_path: imports/raw/project-gutenberg/chippewamusic01dens-chippewa-music-1-densmore.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/chippewamusic01dens-chippewa-music-1-densmore.md
 - id: native_american.chippewa_music_2.densmore_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: chippewamusic02dens
@@ -10052,8 +10116,13 @@ items:
   - spirit_power
   why_it_matters: Extends the Ojibwe song corpus into war medicine and charm songs;
     with Bulletin 45 gives the fullest early bilingual record of a dream-song tradition.
+  raw_path: imports/raw/project-gutenberg/chippewamusic02dens-chippewa-music-2-densmore.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/chippewamusic02dens-chippewa-music-2-densmore.md
 - id: native_american.teton_sioux_music.densmore_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: tetonsiouxmusic00densgoog
@@ -10107,8 +10176,13 @@ items:
   why_it_matters: The richest early bilingual Plains ceremonial record - Sun Dance
     and vision-song texts with singers' own accounts of the dreams that conferred
     them, directly relevant to the consciousness-bridge research question.
+  raw_path: imports/raw/project-gutenberg/tetonsiouxmusic00densgoog-teton-sioux-music-densmore.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/tetonsiouxmusic00densgoog-teton-sioux-music-densmore.md
 - id: native_american.jicarilla_apache_texts.goddard_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: jicarillaapachet0008godd
@@ -10157,8 +10231,13 @@ items:
   - hactcin_spirits
   why_it_matters: Verbatim Apachean emergence and monster-slayer cycle - the Athabaskan
     counterpart to the Navajo material, from dictated bilingual texts.
+  raw_path: imports/raw/project-gutenberg/jicarillaapachet0008godd-jicarilla-apache-texts-goddard.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/jicarillaapachet0008godd-jicarilla-apache-texts-goddard.md
 - id: native_american.myths_tales_san_carlos_apache.goddard_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: mythstalesfromsa00godd
@@ -10209,8 +10288,13 @@ items:
   why_it_matters: Western Apache creation and trickster corpus in close translation,
     letting the Atlas compare Jicarilla, San Carlos, and Navajo branches of the same
     Athabaskan mythic inheritance.
+  raw_path: imports/raw/project-gutenberg/mythstalesfromsa00godd-myths-tales-san-carlos-apache-goddard.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/mythstalesfromsa00godd-myths-tales-san-carlos-apache-goddard.md
 - id: native_american.san_carlos_apache_texts.goddard_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: sancarlosapachet0003godd
@@ -10259,8 +10343,13 @@ items:
   why_it_matters: The interlinear original-language companion to the San Carlos myths
     volume - verbatim source control for how much Goddard's free translations shaped
     the part-1 narratives.
+  raw_path: imports/raw/project-gutenberg/sancarlosapachet0003godd-san-carlos-apache-texts-goddard.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/sancarlosapachet0003godd-san-carlos-apache-texts-goddard.md
 - id: native_american.myths_traditions_crow.lowie_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: mythstraditionso0025lowi
@@ -10312,8 +10401,13 @@ items:
   why_it_matters: The central Crow narrative corpus - earth-diver creation, twin-hero
     cycle, and medicine-vision origin stories that anchor the northern Plains alongside
     the Pawnee and Lakota material.
+  raw_path: imports/raw/project-gutenberg/mythstraditionso0025lowi-myths-traditions-crow-lowie.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/mythstraditionso0025lowi-myths-traditions-crow-lowie.md
 - id: native_american.mythology_bella_coola.boas_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: jesupnorthpacifi0002fran
@@ -10364,8 +10458,13 @@ items:
   why_it_matters: The Northwest Coast outlier - a Salishan enclave with a five-tiered
     heaven cosmology and organized pantheon, a critical contrast case beside Tlingit,
     Haida, and Tsimshian lineages already in the corpus.
+  raw_path: imports/raw/project-gutenberg/jesupnorthpacifi0002fran-mythology-bella-coola-boas.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/jesupnorthpacifi0002fran-mythology-bella-coola-boas.md
 - id: native_american.ethnology_kwakiutl_1.boas_hunt_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: ethnologyofkwaki00boas
@@ -10415,8 +10514,13 @@ items:
   why_it_matters: Hunt-written verbatim record of Kwakwaka'wakw daily-sacred life
     including prayers addressed to salmon, cedar, and animals - direct first-person
     ritual address rare in any corpus.
+  raw_path: imports/raw/project-gutenberg/ethnologyofkwaki00boas-ethnology-kwakiutl-1-boas-hunt.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/ethnologyofkwaki00boas-ethnology-kwakiutl-1-boas-hunt.md
 - id: native_american.ethnology_kwakiutl_2.boas_hunt_archive
-  status: queued
+  status: converted
   priority: medium
   source: internet_archive
   source_id: ethnologyofkwaki02boas
@@ -10462,8 +10566,13 @@ items:
   - spirit_beings
   why_it_matters: Completes the Hunt-Boas verbatim ethnography; part 2 carries the
     belief, dream, and mourning material that part 1's food-ritual texts do not.
+  raw_path: imports/raw/project-gutenberg/ethnologyofkwaki02boas-ethnology-kwakiutl-2-boas-hunt.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/ethnologyofkwaki02boas-ethnology-kwakiutl-2-boas-hunt.md
 - id: native_american.winnebago_medicine_dance.radin_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '70615'
@@ -10514,8 +10623,17 @@ items:
   why_it_matters: A first-person initiatory account of the Medicine Rite's death-and-rebirth
     ritual - core comparative material for initiation and rebirth motifs, from Radin's
     Ho-Chunk work.
+  raw_path: imports/raw/project-gutenberg/70615-winnebago-medicine-dance-radin.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/70615-winnebago-medicine-dance-radin.md
+  canonical_path: texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md
+  manifest_path: manifests/project-gutenberg/70615-winnebago-medicine-dance-radin.yml
+  extraction_dir: extractions/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin
 - id: hebrew.tanakh.westminster_leningrad_codex_archive
-  status: queued
+  status: converted
   priority: high
   source: internet_archive
   source_id: Tanach.xml
@@ -10569,8 +10687,13 @@ items:
   why_it_matters: Original-language control for the many English Bible translations
     already in the corpus (KJV Job, Psalms, Isaiah, Ezekiel, Daniel) - lets the translator-effect
     program measure what the KJV added or flattened.
+  raw_path: imports/raw/project-gutenberg/Tanach.xml-tanakh-westminster-leningrad-codex.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/Tanach.xml-tanakh-westminster-leningrad-codex.md
 - id: greek.didache.bryennios_hitchcock_brown_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '42053'
@@ -10624,8 +10747,17 @@ items:
   why_it_matters: The earliest church-order text in its original Koine with a period
     English translation on facing pages - a self-contained original-vs-translation
     test case for the translator-effect program.
+  raw_path: imports/raw/project-gutenberg/42053-didache-greek-hitchcock-brown.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/42053-didache-greek-hitchcock-brown.md
+  canonical_path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+  manifest_path: manifests/project-gutenberg/42053-didache-greek-hitchcock-brown.yml
+  extraction_dir: extractions/christian/project-gutenberg/didache-greek-hitchcock-brown
 - id: latin.vergil.aeneid_latin_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '227'
@@ -10674,8 +10806,17 @@ items:
   why_it_matters: The corpus already holds Mackail's English Aeneid; the Latin original
     enables verse-level translator-effect comparison on underworld, omen, and prophecy
     passages.
+  raw_path: imports/raw/project-gutenberg/227-aeneid-latin-vergil.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/227-aeneid-latin-vergil.md
+  canonical_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  manifest_path: manifests/project-gutenberg/227-aeneid-latin-vergil.yml
+  extraction_dir: extractions/roman/project-gutenberg/aeneid-latin-vergil
 - id: latin.ovid.fasti_latin_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '8738'
@@ -10728,8 +10869,17 @@ items:
   why_it_matters: Ovid's verse calendar of Roman ritual - origin legends for festivals,
     purifications, and epiphanies in the original Latin, complementing the English-only
     Ovid already ingested.
+  raw_path: imports/raw/project-gutenberg/8738-fasti-latin-ovid-keightley.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/8738-fasti-latin-ovid-keightley.md
+  canonical_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  manifest_path: manifests/project-gutenberg/8738-fasti-latin-ovid-keightley.yml
+  extraction_dir: extractions/roman/project-gutenberg/fasti-latin-ovid-keightley
 - id: chinese.laozi.daodejing_chinese_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '7337'
@@ -10780,8 +10930,17 @@ items:
   why_it_matters: The foundational Taoist scripture in its own compressed classical
     Chinese - the single strongest test case for what English translation imposes
     on apophatic mystical language.
+  raw_path: imports/raw/project-gutenberg/7337-daodejing-chinese-laozi.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/7337-daodejing-chinese-laozi.md
+  canonical_path: texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md
+  manifest_path: manifests/project-gutenberg/7337-daodejing-chinese-laozi.yml
+  extraction_dir: extractions/taoist/project-gutenberg/daodejing-chinese-laozi
 - id: chinese.confucius.analects_chinese_gutenberg
-  status: queued
+  status: ingested
   priority: high
   source: project_gutenberg
   source_id: '23839'
@@ -10832,8 +10991,17 @@ items:
   why_it_matters: Original-language control for the Legge Confucian translations in
     the corpus; classical Chinese ethical-ritual vocabulary (ren, li, tian) is a known
     translator-distortion hotspot.
+  raw_path: imports/raw/project-gutenberg/23839-analects-chinese-confucius.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/23839-analects-chinese-confucius.md
+  canonical_path: texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md
+  manifest_path: manifests/project-gutenberg/23839-analects-chinese-confucius.yml
+  extraction_dir: extractions/confucian/project-gutenberg/analects-chinese-confucius
 - id: sanskrit.vishnu_sahasranama.itrans_gutenberg
-  status: queued
+  status: ingested
   priority: medium
   source: project_gutenberg
   source_id: '9000'
@@ -10885,3 +11053,12 @@ items:
   why_it_matters: A complete original-language Sanskrit liturgical text - the thousand-names
     litany form - giving the translator-effect program its first Sanskrit control
     against the English Gita/Upanishad translations in the corpus.
+  raw_path: imports/raw/project-gutenberg/9000-vishnu-sahasranamam-sanskrit-itrans.txt
+  pipeline:
+    raw_fetched_on: '2026-07-18'
+    converted_on: '2026-07-18'
+    promoted_on: '2026-07-18'
+  converted_path: imports/converted/project-gutenberg/9000-vishnu-sahasranamam-sanskrit-itrans.md
+  canonical_path: texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md
+  manifest_path: manifests/project-gutenberg/9000-vishnu-sahasranamam-sanskrit-itrans.yml
+  extraction_dir: extractions/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans

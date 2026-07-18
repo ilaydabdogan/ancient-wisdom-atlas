@@ -1,105 +1,3 @@
-# The Upanishads, Part II (Sacred Books of the East, Vol. 15)
-
-THE
-
-
-SACRED BOOKS OF THE EAST
-
-
-1:
-
-
-THE UPANISHADS
-
-
-TRANSLATED BY
-
-
-F. MAX MiJLLER
-
-
-PART II
-
-THE KAr^A-UPANISHAD /
-
-THE MUiVZ>AKA-UPANISHAD
-
-THE TAITTIRIYAKA-UPANISHAD
-
-THE Bie/HADARAiVYAKA-UPANISHAD
-
-THE ^VETA^VATARA-UPANISHAD v'
-
-THE PRA^iVA-UPANISHAD
-
-THE MAITRAYAiVA-BRAHMAiVA-UPANISHAD
-
-
-AT THE CLARENDON PRESS
-
-\_All rights reserved ]
-
-
-L
-
-pt. CL
-
-
-CONTENTS.
-
-
-Introduction . ...
-
-Ka//2a-upanishad . . .
-
-Mu«</aka-upanishad .
-Taittiriyaka-upanishad
-Brzhadara^/yaka-upanishad .
-^vetai'vatara-upanishad
-Pra^Tia-upanishad
-Maitrayawa-brahmawa-upanishad
-
-Translation of the KAr^A-uPANisHAD
-
-Translation of the Mua^zjaka-upanishad
-
-Translation of the Taittiriyaka-upanishad
-
-Translation of the B/e/HADARAA^VAKA-uPANisHAD
-
-Translation of the ^vETAi-vATARA-uPANisHAD .
-
-Translation of the PRA^-iVA-uPANisHAD .
-
-Translation of the MAiTRAYAA^A-BRAHMAiVA-uPANisHAD
-
-
-PAGE
-
-ix
-
-xxi
-
-xxvi
-
-xxvii
-
-XXX
-
-xxxi
-xlii
-xliii
-
-
-^6
-
-
-^-■^
-
-
-Transliteration of Oriental Alphabets adopted for the Translations of the Sacred Books of the East . . .347
-
-
 INTRODUCTION.
 
 
@@ -180,7 +78,7 @@ each Kha.7ida, of the Nrzsi;;/ha-purvatapani we read that
 
 the Bhashya was the work of the Paramaha;^^sa-parivra-
 
-^aka>^arya 5ri-5ankara, the pupil of Govinda, we have no
+^aka)^arya 5ri-5ankara, the pupil of Govinda, we have no
 
 such information for the Nrzsi;;/ha-uttaratapani, but are
 
@@ -222,7 +120,7 @@ I. ^""ira-upanishadjpp.i-io; DipikabyNaraya;/a,pp.42-6o.
 
 2. Garbha-upanishad, pp. 11-15 j
 
-3. Nadavindu-upanishad, pp. 15-17 >
+3. Nadavindu-upanishad, pp. 15-17 )
 
 4. Brahmavindu-upanishad, pp. 18-30 ;
 
@@ -287,7 +185,7 @@ Kaivalya-upanishad, pp. 465-479 ; Dipika by
 
 vSafikarananda,
 
-30. Garu</a-upanishad, pp. 480 seq. ; Dipika by
+30. Garu(/a-upanishad, pp. 480 seq. ; Dipika by
 
 Naraya;/a,
 
@@ -588,7 +486,7 @@ explains : ' This universe, before it was developed in the
 present form, was the existent one, Brahma, itself.' This
 cannot be. If ' idam,' this, i. e. the visible world, were the
 subject, how could the Upanishad go on and say, tad
-aikshata bahu syam pra^ayeyeti tat te^o 'srz>ata, ' that
+aikshata bahu syam pra^ayeyeti tat te^o 'srz)ata, ' that
 thought, may I be many, may I grow forth. It sent forth
 fire.' This can be said of the Sat only, that is, the
 Brahman ^ Sat, therefore, is the subject, not idam, for
@@ -732,7 +630,7 @@ and German writers as one of the most perfect specimens
 of the mystic philosophy and poetry of the ancient Hindus.
 
 It was in the year 1845 that I first copied at Berlin the
-text of this Upanishad, the commentary of >Sarikara (MS. 1 37
+text of this Upanishad, the commentary of )Sarikara (MS. 1 37
 Chambers'^}, and the gloss of Gopalayogin (MS. 224 Chambers). The text and commentary of 5arikara and the gloss
 of Anandagiri have since been edited by Dr. Roer in the
 Bibliotheca Indica, with translation and notes. There are
@@ -906,7 +804,7 @@ rests on an old authority.
 No doubt, if we have the original text of an author, and
 can prove that his text was corrupted by later compilers
 
-^L^^^^^^^""^' ^' Pessimisme Brahmanique, Annales du Mus<5e Guimet,
+^L^^^^^^^""^' ^' Pessimisme Brahmanique, Annales du Mus(5e Guimet,
 106OJ torn. 1, p. loi. '
 
 
@@ -944,7 +842,7 @@ of the three verses 16-18. They are clumsily put in, for
 after punar evaha,'he said again/ verse 16 ought not to have
 commenced by tam abravit, ' he said to him.' They contain
 nothing new, for the fact that the sacrifice is to be called
-after Na>^iketas was sufficiently indicated by verse 19, 'This,
+after Na)^iketas was sufficiently indicated by verse 19, 'This,
 O Na/^iketas, is thy fire which leads to heaven, which thou
 hast chosen as thy second boon.' But so anxious was the
 interpolator to impress upon his hearers the fact that the
@@ -1016,10 +914,10 @@ III.
 THE TAITTIRIYAKA-UPANISHAD.
 
 The Taittiriyaka-upanishad seems to have had its original
-place in the Taittiriya-Ara;<!yaka. This Arauyaka. consists,
+place in the Taittiriya-Ara;(!yaka. This Arauyaka. consists,
 as Rajendralal Mitra has shown in the Introduction to his
 edition of the work in the Bibliotheca Indica, of three portions. Out of its ten Prapa///akas, the first six form the
-Ara/zyaka proper, or the Karma-ka«</a, as Sa.ya.na. writes.
+Ara/zyaka proper, or the Karma-ka«(/a, as Sa.ya.na. writes.
 Then follow Prapa///akas VII, VIII, and IX, forming the
 Taittiriyaka-upanishad; and lastly, the tenth Prapa//^aka,
 the Ya^y7iki or Mahanaraya^^a-upanishad, which is called
@@ -1065,7 +963,7 @@ end of the first Anuvaka, we have the final words ' satyam
 vadishyami,' and pa«/^a /^a, i. e. five short paragraphs at the
 end. At the end of the second Anuvaka, where we expect
 the final words, we have the initial, i. e. J^iksham, and then
-pa>7^a, i. e. five sections in the Anuvaka. At the end of the
+pa)7^a, i. e. five sections in the Anuvaka. At the end of the
 third Anuvaka, we have the final words, but no number of
 sections. At the end of the fourth Anuvaka, we have the
 final words of the three sections, followed by one paragraph ; at the end of the fifth Anuvaka, three final words,
@@ -1117,7 +1015,7 @@ last word, -^wkkhd.. Sections, 26.
 last word, ^nkkhdi. Sections, 22,
 4th Anuvaka: pratika: yata/^, and other catchwords;
 
-last word, pu>^y^//a. Sections, 18.
+last word, pu)^y^//a. Sections, 18.
 5th Anuvaka : pratika : vi^wanam, and other catchwords ;
 
 last word, pu/^/^/^a. Sections, 22.
@@ -1622,7 +1520,7 @@ person, was never changed into Hirawyagarbha kapila.
 
 Let us see now what the commentators say. ^ahkara
 first explains kapilam by kanaka;;/ ^ kapilavar«am ....
-Hira;^yagarbham. Kapilo 'gra^a iti pura;mva>^anat. Kapilo Hira;^yagarbho va nirdii-yate. But he afterwards quotes
+Hira;^yagarbham. Kapilo 'gra^a iti pura;mva)^anat. Kapilo Hira;^yagarbho va nirdii-yate. But he afterwards quotes
 some verses in support of the theory that Kapila was a
 
 
@@ -1651,7 +1549,7 @@ passage, even in certain passages of the Mahabharata
 kapila cannot be meant for the teacher of the Sankhya
 (na tu sahkhyapraweta kapila//, namamatrasamyena tadgraha;/e syad atiprasahga//). He is fully aware of the true
 interpretation, viz. avyakrz'tasya prathamakaryabhuta7;z
-kapilaw vi>^itravar;/a;;/ ^/7anakriyaj-aktyatmakaw Hirawyagarbham ityartha//, but he yields to another temptation,
+kapilaw vi)^itravar;/a;;/ ^/7anakriyaj-aktyatmakaw Hirawyagarbham ityartha//, but he yields to another temptation,
 and seems to prefer another view which makes Kapila
 Vasudevasyavatarabhuta;« Sagaraputra/za/w dagdharam, an
 Avatara of Vasudeva, the burner of the sons of Sagara.
@@ -1701,9 +1599,9 @@ mentioned in the notes to my translation.
 
 The text of this Upanishad was printed by Dr. Roer in
 the Bibliotheca Indica, with 5ahkara's commentary. I have
-consulted besides, the commentary of Vi^>Tanatman, the
+consulted besides, the commentary of Vi^)Tanatman, the
 pupil of Paramaha;«sa-parivra^aka/^arya-jrima^-6"«anottamaHrya, MS. I. O. 1133; and a third commentary, by
-6"ahkarananda, the pupil of ParamahaMsa-parivra^aka>^aryanandatman, MS. I. O. 1878. These were kindly lent me
+6"ahkarananda, the pupil of ParamahaMsa-parivra^aka)^aryanandatman, MS. I. O. 1878. These were kindly lent me
 by Dr. Rost, the learned and liberal librarian of the India
 Office.
 
@@ -1735,8 +1633,8 @@ essence of the Self, which has been explained by the
 Mantras, were to be taught here again by the Brahma;/a.'
 For he adds, ' by the Mantras " Brahma devanam," &c.,'
 and this is evidently meant for the beginning of the
-Mu;/</aka-upanishad, 'Brahma devanam.' Anandagiri refers
-again to the Mu;/<^aka in order to show that the Trsisua. is
+Mu;/(/aka-upanishad, 'Brahma devanam.' Anandagiri refers
+again to the Mu;/(^aka in order to show that the Trsisua. is
 not a mere repetition, and if 6"ankara calls the beginning
 of it a Brahma/za, this must be taken in the more general
 sense of 'what is not Mantra ^' Mantropanishad is a name
@@ -1960,7 +1858,7 @@ no doubt, the credit of having, in his edition of the
 Maitrayawi Sawzhita, first pointed out these phonetic peculiarities, they were known as such to the commentators,
 who expressly point out these irregular Sandhis as distinctive of the Maitrayawi j-akha. Thus we read Maitr. Up.
 II, 3 (p. 1 8), that tigmate^asa urdhvaretaso, instead of
-tigmate^asa, is evawvidha eta^>^//akhasanketapa//za.f klAndasa/z sarvatra, i.e. is throughout theVedic reading indicatory of that particular .Sakha, namely the Maitrayawi.
+tigmate^asa, is evawvidha eta^)^//akhasanketapa//za.f klAndasa/z sarvatra, i.e. is throughout theVedic reading indicatory of that particular .Sakha, namely the Maitrayawi.
 
 A still stranger peculiarity of our 5akha is the change of
 a final t before initial s into n. This also occurs in our
@@ -2441,7 +2339,7 @@ earth, and live thyself as many harvests as thou
 desirest.'
 
 24. 'If you can think of any boon equal to that,
-choose wealth, and long Hfe. Be (king), Na>^iketas,
+choose wealth, and long Hfe. Be (king), Na)^iketas,
 on the wide earths I make thee the enjoyer of
 all desires.'
 
@@ -3043,7 +2941,7 @@ the Brahman in its various manifestations.
 (Brahman), then even before the decay of his body, he is liberated.
 If he is not able to understand it, then he has to take body again
 in the created worlds.' I doubt whether it is possible to supply so
-much, and should prefer to read iha >^en na^akad, though I find it
+much, and should prefer to read iha )^en na^akad, though I find it
 difficult to explain how so simple a text should have been misunderstood and corrupted.
 
 
@@ -3234,7 +3132,7 @@ to burn, the other tap, to meditate; see commentary on Parajara-smrzti, p. 39^ (
 svadharma-vartitvaz?? s^Lukam sahganibarhawam iti ; nayawz dosha^,
 kn'/^Mrader api svadharmavi^eshat. Tapa sa;«tapa ity asmad dhator
 
-utpannasya tapa>^-jabdasya dehajoshawe vrz'ttir mukhya Yat
+utpannasya tapa)^-jabdasya dehajoshawe vrz'ttir mukhya Yat
 
 tu tatraivoktaw?, ko 'yam mokshay^ katham tena sawzsaram pratipannavan ity alo-^anam artha^nas tapa/^ sa.msznti pa«^ita iti so 'nya
 eva tapa-^jabda/^, tapa alo/^ana ity asmad dhator utpanna^.
@@ -3335,7 +3233,7 @@ good, are subject again and again to old age and
 death.
 
 ^ The seven worlds form the rewards of a pious sacrificer, the
-fifst is Bhu>^, the last Satya. The seven worlds may also be explained as the worlds of the father, grandfather, and great-grandfather, of the son, the grandson, and great-grandson, and of the
+fifst is Bhu)^, the last Satya. The seven worlds may also be explained as the worlds of the father, grandfather, and great-grandfather, of the son, the grandson, and great-grandson, and of the
 sacrificer himself.
 
 ^ Or Vijvaru-^i, if there is any authority for this reading in Mahidhara's commentary to the Va^as. Sawhita XVII, 79. The Rajah
@@ -4319,7 +4217,7 @@ flavour can any one perceive pleasure. Who could
 breathe, who could breathe forth, if that bliss (Brah-
 
 
-^ In the ^>^andogya-upanishad VI, 2, i, where a similar account
+^ In the ^)^andogya-upanishad VI, 2, i, where a similar account
 of the creation is given, the subject is spoken of as tad, neuter. It
 is said there : 'In the beginning there was that only which is, one
 only, without a second. It willed, may I be many,' &c. (Cf. Brth.
@@ -4555,7 +4453,7 @@ Ind. Stud. II, p. 224.
 ^ Between sky and sun, the Kanva-sakha places the Gandharvaloka (Br/h. Ar.
 Up. Ill, 6, 1, p. 609).
 
-<= Instead of Gandharvas, the Br/h. Ar. Up. places Indra.
+(= Instead of Gandharvas, the Br/h. Ar. Up. places Indra.
 
 
 II VALLI, 9 ANUVAKA. 63
@@ -4882,7 +4780,7 @@ Second BRAHMAiVA^.
 I. In the beginning there was nothing (to be per-
 
 ^ Guda, being in the plural, is explained by nai^i, channel, and
-sira/i; for we ought to read sira or hiragraha^^e for >rira, p. 22, 1. 1 6.
+sira/i; for we ought to read sira or hiragraha^^e for )rira, p. 22, 1. 1 6.
 
 ^ Klomana/z is explained as a plurale tantum (nityam bahuva-
 ^anam ekasmin), and being described as a lump below the heart,
@@ -5366,7 +5264,7 @@ like half a shell ^.' Therefore the void which was
 ^ Called Purushavidhabrahma7za (^ladhyandlna-jakha, p. 1050).
 See Muir, Original Sanskrit Texts, vol. i, p. 24.
 
-^ The Comm. explains sva>^ by atmana>^, of himself. But see
+^ The Comm. explains sva)^ by atmana)^, of himself. But see
 Boehtlingk, Sanskrit Chrestomathie, p. 357.
 
 ^ Roer translates : 'Therefore was this only one half of himself, as
@@ -5903,7 +5801,7 @@ held, I shall warm ; T^andramas (the moon) held,
 I shall shine ; and thus also the other deities, eacl"
 according to the deity. And as it was with th
 central breath among the breaths, so it was wi'
-Vdyu, the wind among those deities. The oth<
+Vdyu, the wind among those deities. The oth(
 deities fade, not Vayu. Vayu is the deity tha
 never sets.
 
@@ -6814,7 +6712,7 @@ A A
 
 1 2. Anabhimlata from Gautama,
 
-13. Gautama from Saitava and Pra>^inayogya,
+13. Gautama from Saitava and Pra)^inayogya,
 
 14. Saitava and Pra/^inayogya from Parai"arya,
 
@@ -6897,7 +6795,7 @@ Vatsya from ^a/^rt'ilya,
 ^ ■
 
 3b-
-3<
+3(
 
 
 1 From here the Yzmsa. agrees with the Vaw^a at the end of
@@ -6982,7 +6880,7 @@ Vaideha. He asked him: 'Are you indeed the
 
 ^ One expects iti after uda^a, but Sama^ravas is applied to
 Ya^ilavalkya, and not to the pupil. Yao-ftavalkya, as the commentator observes, was properly a teacher of the Ya^ir-veda, but
-as the pupil calls him Sama>rravas, he shows that Ya^ilavalkya
+as the pupil calls him Sama)rravas, he shows that Ya^ilavalkya
 knew all the four Vedas, because the Samans are taken from the
 Rig-veda, and the Atharva-veda is contained in the other three
 Vedas. Regnaud, however, refers it to the pupil, and translates,
@@ -7241,7 +7139,7 @@ Third BRAHMAivA^.
 
 1. Then Bhu^yu Lahyiyani asked. ' Yaf ^^avalkya,'
 he said, 'we wandered about as students^, and came to
-the house of Pata//>^ala Kapya. He had a daughter
+the house of Pata//)^ala Kapya. He had a daughter
 who was possessed by a Gandharva. We asked
 him, ' Who art thou ? ' and he (the Gandharva) replied :
 ' I am Sudhanvan, the Ahgirasa.' And when we
@@ -7595,7 +7493,7 @@ now with respect to beings (adhibhutam).
 15. Ya^;1avalkya said: 'He who dwells in all I •
 beings, and within all beings, whom all beings do \
 
-not know, whose body all beings are, and who pulls j ->i ,
+not know, whose body all beings are, and who pulls j -)i ,
 (rules) all beings within, he is thy Self, the puller 1
 (ruler) within, the immortal.'
 
@@ -7880,7 +7778,7 @@ they are called Rudras.'
 Yaf?1avalkya replied : ' The twelve months of the
 
 year, and they are Adityas, because they move along
-(yanti), taking up everything ^ (ddadana>^). Because
+(yanti), taking up everything ^ (ddadana)^). Because
 they move along, taking up everything, therefore
 
 A
@@ -9605,7 +9503,7 @@ be taken as an adjective also, referring to sa;?zdehe.
 
 ^ .Sahkara takes loka, world, for atma, self.
 
-* I have followed ^ankara in translating avedi>^ by ignorant, but
+* I have followed ^ankara in translating avedi)^ by ignorant, but
 the text seems corrupt.
 
 ^ The five ^anas, i. e. the Gandharvas, Pitr/s, Devas, Asuras, and
@@ -10487,7 +10385,7 @@ threefold vital breaths, and the fourth foot, as described before.
 
 ^ I have translated this paragraph very freely, and differently
 from -Sahkara. The question is, whether dvishyat with iti can be
-used in the sense of abhi>^ara, or imprecation. If not, I do not see
+used in the sense of abhi)^ara, or imprecation. If not, I do not see
 how the words should be construed. The expression yasma upa-
 
 
@@ -11257,7 +11155,7 @@ presuppose samiddho, which is in A. and B.
 
 though both Roer and Foley leave out the a here too (a asyeti Meddi/i).
 
-Brahma«ayana>^, the same as brahmabandhava/^, i. e. Brahmans
+Brahma«ayana)^, the same as brahmabandhava/^, i. e. Brahmans
 
 by descent only, not by knowledge.
 
@@ -11498,7 +11396,7 @@ suyate, B. sfitaye.
 
 ^ Iti nama grzTiwati, Madhyandina text. 6'ahkara says, asav iti
 tasya/^. Anandagiri says, asav iti patyur va nirdesz/i ; tasya nama
-g/7'hwatTti purve??a sambandha>^. Dvivedagahga says, ante bhartasav aham iti svatmano nama gr/h«ati, bharyaya va.
+g/7'hwatTti purve??a sambandha)^. Dvivedagahga says, ante bhartasav aham iti svatmano nama gr/h«ati, bharyaya va.
 
 ® See Paraskara Gr/hya-sutra I, 16 seq. "^ Vata//, M.
 
@@ -11531,7 +11429,7 @@ right ear, he says thrice, Speech, speech ^ ! After
 Anandagiri explains : garbhani/^saraHanantara;// ya ma^wsape^i
 nirga/('Mati savara, ttm ^a nirgamayety artha-^. Dvivedagaiiga (ed.
 Weber) writes: nirgamyamanama^wsapeji sa-avarajabdava/('ya, taw
-savara;« >^a nirgamaya.
+savara;« )^a nirgamaya.
 
 ^ These as well as the preceding rules refer to matters generally
 treated in the Gr^Tiya-sutras ; see Ajvalayana, Gr/hya-sutras I,
@@ -11579,7 +11477,7 @@ tvayi dadhami, &c.
 ^ The Madh}'andinas add here another verse, which the father
 recites while he strokes his boy : ' Be a stone, be an axe, be pure
 gold. Thou art my Self, called my son ; live a hundred harvests.'
-The same verse occurs in the A>rvalayana Grzliya-sulras I, 15, 3.
+The same verse occurs in the A)rvalayana Grzliya-sulras I, 15, 3.
 
 * The two ceremonies, here described, are the ayushya-karman
 and the medha^anana. They are here treated rather confusedly.
@@ -11629,7 +11527,7 @@ against the metre, and is a theoretical rather than a real form.
 If we read a^to-ana-^, we must also read akara-^, unless we are
 prepared to follow the commentator, who supplies bhavati.
 
-^ The Madhyandinas begin with vayam, we, then i. Bharadva^iputra, 2. Vatsima«</aviputra, 3. Para^ariputra, 4. Gargiputra, 5. Parajari-kau;;rf^miputra, 6. Gargiputra, 7. Gargiputra, 8. Bao'eyiputra,
+^ The Madhyandinas begin with vayam, we, then i. Bharadva^iputra, 2. Vatsima«(/aviputra, 3. Para^ariputra, 4. Gargiputra, 5. Parajari-kau;;rf^miputra, 6. Gargiputra, 7. Gargiputra, 8. Bao'eyiputra,
 9. INIaushikiputra, 10. Harikar/ziputra, 11. Bharadv%iputra, 12.
 Paihgiputra, 13. ^'aunakiputra, 14. Kaj-yapi-balakya-ma//^ariputra,
 15. Kautsiputra, 16. Baudhiputra, 17. 6'alafikayamputra, iS.Varshagawiputra, 19. Gautamiputra, 20. Atreyiputra, 21. Gautamiputra,
@@ -11653,7 +11551,7 @@ VI ADHYAYA, 5 BRAHMAiVA, 2. 2 25
 
 6. Aupasvatiputra from Parai'ariputra,
 
-7. Para-<rariputra from Katyayaniputra,
+7. Para-(rariputra from Katyayaniputra,
 
 8. Katyayaniputra from Kau-S-ikiputra,
 
@@ -11918,7 +11816,7 @@ whose one rope is manifold, who proceeds on three
 different roads, and whose illusion arises from two
 causes.
 
-p. 251) the trivr/t sutram is mentioned. Next follows sho</a5'antam,
+p. 251) the trivr/t sutram is mentioned. Next follows sho(/a5'antam,
 ending in the sixteen. These sixteen are differently explained.
 They may be meant for the five elements and the eleven indriyas
 or organs (the five receptive and the five active senses, together with
@@ -12037,7 +11935,7 @@ finds out these three, that is Brahma"^.
 
 * Read badhyate for budhyate,
 
-® The form ijanuau is explained as >^/iandasa ; likewise brahmam for brahma.
+® The form ijanuau is explained as )^/iandasa ; likewise brahmam for brahma.
 
 « Cf. ^■vet. Up. IV, 5, bhuktabhogyam.
 
@@ -12362,7 +12260,7 @@ of these perceptions the mind is supposed to be steadied, because
 it is no longer attracted by the outward objects themselves. See
 Yoga-sutras I, 35.
 
-^ Or no death, na mr/tyu>^, B.
+^ Or no death, na mr/tyu)^, B.
 
 * Paresham paMe tadvat sa tattvam prasamikshya dehiti.
 
@@ -12529,7 +12427,7 @@ undecaying.
 here be preserved, or whether the former should be rendered by
 holy, the latter by happy. The commentator explains Bhagavat by
 aijvaryasya samagrasya viryasya yajasa^ sny3./i
-Cjianavairagyayoj >^aiva sha««am bhaga itirawa.
+Cjianavairagyayoj )^aiva sha««am bhaga itirawa.
 Wilson, in his Essay on the Religious Sects of the Hindus,
 published in 1828, in the Asiatic Researches, XVI, p. 11, pointed
 out that this verse and another (^Svet. Up. II, 2) were cited by the
@@ -12665,7 +12563,7 @@ would then mean hidden.
 ^ Colour is intended for quahties, differences, &c.
 
 ^ This verse has been translated very freely. As it stands, vi
-/^aiti /^ante vijvam adau sa deva>^, it does not construe, in spite of
+/^aiti /^ante vijvam adau sa deva)^, it does not construe, in spite of
 all attempts to the contrary, made by 6'ahkara. What is intended
 is yasminn ida;« sa.m ks, vi ^aiti sarvam (IV, 11); but how so
 simple a line should have been changed into what we read now, is
@@ -12930,7 +12828,7 @@ vidyavidye.
 2 GudAe, lokair ^?1atum a^akye, .Sahkarananda.
 
 ^ -Sahkara explains ksharam by sa?«sr?'tikara«am, amr/tam by
-mokshahetu>^.
+mokshahetu)^.
 
 * -Safikara explains that he is different from them, being only the
 sakshin, or witness. xS'ankarananda seems to have read Somya,
@@ -12985,7 +12883,7 @@ some metrical emendations. Thus Vi^Tlanatman explains vedaguhyopanishatsu very i
 which teaches sacrifices and their rewards; the Guhya, i. e. the
 Arawyaka, which teaches the worship of Brahman under various
 legendary aspects ; and theUpanishads, which teach the knowledge
-of Brahman without qualities. These three divisions would correspond to the karmaka«</a, yogakanda, and gnamkanda. (G^aimini,
+of Brahman without qualities. These three divisions would correspond to the karmaka«(/a, yogakanda, and gnamkanda. (G^aimini,
 Pata?l^ali, Badarayawa). See Deussen, Vedanta, p. 20. Mr. Gough
 and Dr. Roer take Brahmayoni as ' the source of the Veda,' or as
 the source of Hira«yagarbha. The irregular form vedate may be
@@ -13309,7 +13207,7 @@ Yoga (religious discipline), he is freed from all
 fetters.
 
 
-^ All the MSS. seem to read keta,, not >^etta.
+^ All the MSS. seem to read keta,, not )^etta.
 
 ^ See Ka//ia-upanishad V, 12-15.
 
@@ -13409,7 +13307,7 @@ the company of 7?/shis.
 
 ^ Nir3.nganzm nirlepam.
 
-^ -Sahkarananda reads tada j-ivam avi_§'naya du-^khasyanto bhavishyati; Vi^wanatman retains devam, but mentions >rivam as a various
+^ -Sahkarananda reads tada j-ivam avi_§'naya du-^khasyanto bhavishyati; Vi^wanatman retains devam, but mentions )rivam as a various
 reading. Both have anto, not antam, like Roer. ■S'ahkara seems
 to have found na before bhavishyati, or to have read du/;khanto na
 bhavishyati, for he explains that there will be no end of misery,
@@ -13428,7 +13326,7 @@ kakakshinyayena.
 ® Atyajramin is explained by 6'ahkara as atyantam pQ_^yatamajramibhya// ;' and he adds, Xraturvidha bhikshava^ ka bahfidakaku/i-
 /^akau, Hsifusak paramahawsaj ka yo yak paskat sa uttama/i. Weber
 (Indische Studien, II, 109) has himself corrected his mistake of
-reading antyajramibhya>^, and translating it by neighbouring
+reading antyajramibhya)^, and translating it by neighbouring
 hermits.
 
 These four stages in the life of a Sannyasin are the same to-day as
@@ -13499,7 +13397,7 @@ sixth 'Pra.sna., in MS. Mill 74.
 
 ^ Bharadvaga, ^S'aivya, Gargya, Ajvalayana, Bhargava, and Katyayana are, according to -S'ahkara, names of gotras or families.
 
-^ S^ryasyapatyawz Saurya/^, tadapatyawz -S"auryaya«i>^. Dirgha/^
+^ S^ryasyapatyawz Saurya/^, tadapatyawz -S"auryaya«i)^. Dirgha/^
 sulopa^r k^L ^//andasa iti sa eva Sauryayawi.
 
 * Kausalyo namata^, kosalayam bhavo va.
@@ -14175,10 +14073,10 @@ flies, gnats, and other insects, as herbs and trees ^,
 
 ^ Though the commentator must have read etad vrz'ttam purastad
 dui^jakyam etat prai^am, yet prajwam as a neuter is very strange.
-M. reads etad vmtam purastat, duj^akama pri/^/^>^a pramam ;
+M. reads etad vmtam purastat, duj^akama pri/^/^)^a pramam ;
 m. reads etad vratam purastad a^akyam ma pr/-(7/a prajwam
 aikshvaka, &c. This suggests the reading, etad vr/ttam purastad
-du/isakam ma pr/;^^>^a pramam, i. e. this was settled formerly, do
+du/isakam ma pr/;^^)^a pramam, i. e. this was settled formerly, do
 not ask a difficult or an impossible question.
 
 ^ Read ma^^a. ^ M. adds vata before pitta ; not m.
@@ -14528,7 +14426,7 @@ and leaves it out at the end of § 2.
 
 ' M. here reads avara. " M. reads tanmatrawi.
 
-^ M. reads tesha?/; samudayas ta>^/^/^ariram.
+^ M. reads tesha?/; samudayas ta)^/^/^ariram.
 The commentator distinguishes between hnga-jarira, consisting
 of prawas, indriyas, the anta//kara«a, and the sukshmabhutas ; and
 the sthula-jarira, consisting of the five Mahabhutas.
@@ -14577,7 +14475,7 @@ itself (with the elements).
 
 * M. reads upety atha trigu«a»2 /^atur^alam.
 
-^ M. reads >^aturaj'itilakshayonipari«atam. See also Anubhutiprakaja, ver. 118.
+^ M. reads )^aturaj'itilakshayonipari«atam. See also Anubhutiprakaja, ver. 118.
 
 ^ Mr/tyava seems an impossible word, though the commentator
 twice explains it as kulala, potter, M. reads ,^akri«eti, which seems
@@ -14609,7 +14507,7 @@ i. e. supported by bones.
 ^ Instead of sa7«vrz'ddhyupetam IM. reads sa;;zviddhyapetam.
 
 ^ M. adds snayu after vasa, and instead of amayai/i reads malai/z.
-This reading, malai/z, would seem preferable, though Manu's rogayatanam might be quoted in support of amayai>^. The exact
+This reading, malai/z, would seem preferable, though Manu's rogayatanam might be quoted in support of amayai)^. The exact
 meaning of vasa is given in the Aryavidyasudhakara, p. 82, 1. 9.
 
 * Therefore should wise people not identify their true Self with
@@ -14697,7 +14595,7 @@ and that he is an ascetic ^ this is wrong, though, on
 
 ^ M. reads na/avat.
 
-"^ M. reads ye 'rth^ anarthS iva te sthita>^, esham.
+"^ M. reads ye 'rth^ anarthS iva te sthita)^, esham.
 
 ^ M. reads na smaret paramam padam.
 
@@ -14743,7 +14641,7 @@ obtains union with the Self.'
 mas, but he must have obeyed them first, before he can become a
 real Tapasvin.
 
-^ M. reads a^rameshv evavasthitas tapasvi >^ety u/Jyata ity, etad apy
+^ M. reads a^rameshv evavasthitas tapasvi )^ety u/Jyata ity, etad apy
 uktam, &c. This would mean, ' For it is said that he only who has
 dwelt in the ajramas is also called a Tapasvin, a real ascetic ; and
 this also has been said, that no one obtains self-knowledge except
@@ -14870,7 +14768,7 @@ more in accordance with what follows.
 
 5 A reference to Maitr. Up. II, 5, would have saved the commentator much trouble. M. has a better text. It leaves out vijveti
 or vijvakhyas after pra^apati, which may be wrong, but then goes
-on : tasya prokla agryas tanavo brahma rudro vishwur iti. In enumerating the three agryas tanava>^, however, M. is less consistent,
+on : tasya prokla agryas tanavo brahma rudro vishwur iti. In enumerating the three agryas tanava)^, however, M. is less consistent,
 for it begins with ra^as or Brahma, then goes on to tamas or
 Rudra, and ends with sattva or Vish/m. The Anubhutiprakaja,
 verse 142, has the right succession.
@@ -15012,7 +14910,7 @@ as manifestations of Brahman) with the syllable Om.'
 
 He alone enlightens us. For thus it is said :
 
-yad brahma ta^ ^yotir, yad ^yotis sa aditya>^.' This is exactly the
+yad brahma ta^ ^yotir, yad ^yotis sa aditya)^.' This is exactly the
 reading of my own MS.
 
 ^ M. reads /^aivasminn ity evawi hyaha.
@@ -15210,7 +15108,7 @@ in accordance with his own interpretation.
 * M. leaves out vidhata.
 
 ^ Instead of the peculiar Maitrayawi reading, svan jarirad, M.
-reads svas >^/zarirad.
+reads svas )^/zarirad.
 
 ^ The oneness of the Sun and the Breath is proclaimed in the
 following verse of the Praj;la Upanishad I, 8.
@@ -16038,7 +15936,7 @@ titles are on the whole the same as those we had before in similar
 passages. What is peculiar to Ramatirtha is that he explains
 Upanishad by such passages as we had just now, viz. its Upanishad
 is that it is the true of the true. The ^lokas are explained as
-verses like those in VI, 19, a^itta;« >^ittamadhyastham. The
+verses like those in VI, 19, a^itta;« )^ittamadhyastham. The
 Sutras are explained as comprehensive sentences, such as II, 2,
 aya7« vava khalv atma te. Anuvyakhyanas are taken as explanations following on the Sutra in II, 2, beginning with atha ya
 esho/('/(',^vasavish/ambhanena. The Vyakhyanas are taken as fuller
@@ -16137,7 +16035,7 @@ bind us to this life).
 '' Cf. Ind. Stud. II, 60. Brahmavindu Up. v. i, where we read
 kamasahkalpam, as in MS. M.
 ^ See note to VI, 20.
-^ INI. reads moksha>f>^a and i-eshas tu. The commentator says that
+^ INI. reads moksha)f)^a and i-eshas tu. The commentator says that
 
 
 (9) That happiness which belongs to a mind which
@@ -16173,7 +16071,7 @@ remembers his world. Grant that world to this thy
 worshipper !
 
 this line is easy, but it is so by no means. Professor Cowell translates
-granthavistara>^ by book-prolixity, but this sounds very strange in an
+granthavistara)^ by book-prolixity, but this sounds very strange in an
 Upanishad. I am not satisfied with my own translation, but it may
 stand till a better one is found. M. reads grzndhavistara//. The
 granlhis are mentioned in J^hind. Up. VII, 26 ; Ka./!/i. Up. VI, 15.
@@ -16272,7 +16170,7 @@ ghee, meat, cakes, sthalipaka, and other things ; to
 the latter, with meat and drinks (belonging to the
 great sacrifices) thrown into the mouth, for the mouth
 
-sarva>^ pa^-yan na pa^yati. Here the eight feet are explained as the
+sarva)^ pa^-yan na pa^yati. Here the eight feet are explained as the
 five elements, manas, buddhi, and ahahkara.
 
 ^ Savit for savitr/'. ^ Vliyante for viliyante.
@@ -16521,7 +16419,7 @@ were heretics, such as Br/haspati, long before -Sakyamuni.
 
 ^ See KaM. Up. II, 4. " See V%. Up. 1 1.
 
-^ Vesh/yamana/z, instead of vartamana>5.
+^ Vesh/yamana/z, instead of vartamana)5.
 
 
 VII PRAPAr^AKA, II. 343
@@ -16642,11 +16540,11 @@ and Brahman with three feet is in the last.
 the great freedom with' which the wording of these ancient verses
 was treated. Instead of —
 
-Na pajyan mr/tyum pajyati na rogzm nota du>^khatam,
+Na pajyan mr/tyum pajyati na rogzm nota du)^khatam,
 Sarvaw hi pa^-yan pa^yati sarvam apnoti sarva^a-^,
 the A'-^andogya Up. reads :
 
-Na Tpa.syo mn'tyum pajyati na rogam nota du>^khatam,
+Na Tpa.syo mn'tyum pajyati na rogam nota du)^khatam,
 Sarva;;2 ha pa^ya/z pa^yati sarvam apnoti sarvaja//.
 "^ The conditions here described are sometimes called the Vi^va
 (Vaijvanara), Tai^asa, Pra^ila, and Turiya. In the first state the

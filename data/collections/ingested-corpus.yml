@@ -512,6 +512,32 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: pending_seed_records
+- id: chinese.confucius.analects_chinese_gutenberg
+  title: 論語
+  tradition_cluster: chinese
+  source_id: source.project_gutenberg.23839
+  canonical_text_path: texts/public-domain/confucian/project-gutenberg/analects-chinese-confucius.md
+  manifest_path: manifests/project-gutenberg/23839-analects-chinese-confucius.yml
+  extraction_dir: extractions/confucian/project-gutenberg/analects-chinese-confucius
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: chinese.laozi.daodejing_chinese_gutenberg
+  title: 道德經
+  tradition_cluster: chinese
+  source_id: source.project_gutenberg.7337
+  canonical_text_path: texts/public-domain/taoist/project-gutenberg/daodejing-chinese-laozi.md
+  manifest_path: manifests/project-gutenberg/7337-daodejing-chinese-laozi.yml
+  extraction_dir: extractions/taoist/project-gutenberg/daodejing-chinese-laozi
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: christian.apocryphal_gospels.wake_gutenberg
   title: The suppressed Gospels and Epistles of the original New Testament of Jesus
     the Christ, Complete
@@ -788,6 +814,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: pending_seed_records
+- id: greek.didache.bryennios_hitchcock_brown_gutenberg
+  title: Διδαχή των Δώδεκα αποστόλων = Teaching of the Twelve Apostles
+  tradition_cluster: christian
+  source_id: source.project_gutenberg.42053
+  canonical_text_path: texts/public-domain/christian/project-gutenberg/didache-greek-hitchcock-brown.md
+  manifest_path: manifests/project-gutenberg/42053-didache-greek-hitchcock-brown.yml
+  extraction_dir: extractions/christian/project-gutenberg/didache-greek-hitchcock-brown
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: greek.hesiod_homeric_hymns.evelyn_white_gutenberg
   title: Hesiod, the Homeric Hymns, and Homerica
   tradition_cluster: greek
@@ -873,6 +912,19 @@ items:
   canonical_text_path: texts/public-domain/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens.md
   manifest_path: manifests/project-gutenberg/22381-myths-legends-ancient-greece-rome-berens.yml
   extraction_dir: extractions/greek-roman/project-gutenberg/myths-legends-ancient-greece-rome-berens
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: hermetic.corpus_hermeticum.mead_archive
+  title: 'Thrice-Greatest Hermes, Vol. II: Sermons (Corpus Hermeticum)'
+  tradition_cluster: jewish_christian
+  source_id: source.internet_archive.thricegreatesth02meadgoog
+  canonical_text_path: texts/public-domain/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead.md
+  manifest_path: manifests/project-gutenberg/thricegreatesth02meadgoog-thrice-greatest-hermes-vol2-mead.yml
+  extraction_dir: extractions/hermetic/project-gutenberg/thrice-greatest-hermes-vol2-mead
   rights:
     status: public_domain
     full_text: allowed
@@ -1036,6 +1088,45 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: pending_seed_records
+- id: jewish.jubilees.charles_archive
+  title: The Book of Jubilees, or, The Little Genesis
+  tradition_cluster: jewish_christian
+  source_id: source.internet_archive.cu31924060029984
+  canonical_text_path: texts/public-domain/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles.md
+  manifest_path: manifests/project-gutenberg/cu31924060029984-book-of-jubilees-charles.yml
+  extraction_dir: extractions/jewish-pseudepigrapha/project-gutenberg/book-of-jubilees-charles
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: latin.ovid.fasti_latin_gutenberg
+  title: Fasti
+  tradition_cluster: roman
+  source_id: source.project_gutenberg.8738
+  canonical_text_path: texts/public-domain/roman/project-gutenberg/fasti-latin-ovid-keightley.md
+  manifest_path: manifests/project-gutenberg/8738-fasti-latin-ovid-keightley.yml
+  extraction_dir: extractions/roman/project-gutenberg/fasti-latin-ovid-keightley
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: latin.vergil.aeneid_latin_gutenberg
+  title: Aeneidos
+  tradition_cluster: roman
+  source_id: source.project_gutenberg.227
+  canonical_text_path: texts/public-domain/roman/project-gutenberg/aeneid-latin-vergil.md
+  manifest_path: manifests/project-gutenberg/227-aeneid-latin-vergil.yml
+  extraction_dir: extractions/roman/project-gutenberg/aeneid-latin-vergil
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: maya_quiche.popol_vuh.spence_gutenberg
   title: The Popol Vuh
   tradition_cluster: mesoamerican
@@ -1166,6 +1257,19 @@ items:
     training_use: allowed
   ingestion_status: canonical_text_added
   extraction_status: pending_seed_records
+- id: native_american.mountain_chant.matthews_gutenberg
+  title: 'The Mountain Chant: A Navajo Ceremony'
+  tradition_cluster: north_american
+  source_id: source.project_gutenberg.20839
+  canonical_text_path: texts/public-domain/native-american-southwest/project-gutenberg/mountain-chant-matthews.md
+  manifest_path: manifests/project-gutenberg/20839-mountain-chant-matthews.yml
+  extraction_dir: extractions/native-american-southwest/project-gutenberg/mountain-chant-matthews
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
 - id: native_american.myths_of_cherokee.mooney_gutenberg
   title: Myths of the Cherokee
   tradition_cluster: north_american
@@ -1225,6 +1329,19 @@ items:
   canonical_text_path: texts/public-domain/hopi/project-gutenberg/traditions-of-the-hopi-voth.md
   manifest_path: manifests/project-gutenberg/traditionshopi00vothgoog-traditions-of-the-hopi-voth.yml
   extraction_dir: extractions/hopi/project-gutenberg/traditions-of-the-hopi-voth
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: native_american.winnebago_medicine_dance.radin_gutenberg
+  title: The Ritual and Significance of the Winnebago Medicine Dance
+  tradition_cluster: north_american
+  source_id: source.project_gutenberg.70615
+  canonical_text_path: texts/public-domain/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin.md
+  manifest_path: manifests/project-gutenberg/70615-winnebago-medicine-dance-radin.yml
+  extraction_dir: extractions/native-american-great-lakes/project-gutenberg/winnebago-medicine-dance-radin
   rights:
     status: public_domain
     full_text: allowed
@@ -1408,6 +1525,19 @@ items:
   canonical_text_path: texts/public-domain/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz.md
   manifest_path: manifests/project-gutenberg/20552-roumanian-fairy-tales-kremnitz.yml
   extraction_dir: extractions/romanian/project-gutenberg/roumanian-fairy-tales-kremnitz
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: sanskrit.vishnu_sahasranama.itrans_gutenberg
+  title: Sri Vishnu Sahasranaamam
+  tradition_cluster: indian
+  source_id: source.project_gutenberg.9000
+  canonical_text_path: texts/public-domain/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans.md
+  manifest_path: manifests/project-gutenberg/9000-vishnu-sahasranamam-sanskrit-itrans.yml
+  extraction_dir: extractions/hindu/project-gutenberg/vishnu-sahasranamam-sanskrit-itrans
   rights:
     status: public_domain
     full_text: allowed
@@ -1642,6 +1772,46 @@ items:
   canonical_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad.md
   manifest_path: manifests/project-gutenberg/zendavesta01darm-zend-avesta-part-1-vendidad.yml
   extraction_dir: extractions/zoroastrian/project-gutenberg/zend-avesta-part-1-vendidad
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: zoroastrian.avesta.yasna_gathas_mills_archive
+  title: 'The Zend-Avesta, Part III: The Yasna, Visparad, Afrinagan, Gahs, and Miscellaneous
+    Fragments'
+  tradition_cluster: persian
+  source_id: source.internet_archive.zendavesta03darm
+  canonical_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas.md
+  manifest_path: manifests/project-gutenberg/zendavesta03darm-zend-avesta-part-3-yasna-gathas.yml
+  extraction_dir: extractions/zoroastrian/project-gutenberg/zend-avesta-part-3-yasna-gathas
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: zoroastrian.avesta.yasts_darmesteter_archive
+  title: 'The Zend-Avesta, Part II: The Sirozahs, Yasts, and Nyayis'
+  tradition_cluster: persian
+  source_id: source.internet_archive.zendavesta02darm
+  canonical_text_path: texts/public-domain/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts.md
+  manifest_path: manifests/project-gutenberg/zendavesta02darm-zend-avesta-part-2-yasts.yml
+  extraction_dir: extractions/zoroastrian/project-gutenberg/zend-avesta-part-2-yasts
+  rights:
+    status: public_domain
+    full_text: allowed
+    training_use: allowed
+  ingestion_status: canonical_text_added
+  extraction_status: pending_seed_records
+- id: zoroastrian.pahlavi.bundahis_west_archive
+  title: 'Pahlavi Texts, Part I: The Bundahis, Bahman Yast, and Shayast la-Shayast'
+  tradition_cluster: persian
+  source_id: source.internet_archive.pahlavitexts01west
+  canonical_text_path: texts/public-domain/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis.md
+  manifest_path: manifests/project-gutenberg/pahlavitexts01west-pahlavi-texts-part-1-bundahis.yml
+  extraction_dir: extractions/zoroastrian/project-gutenberg/pahlavi-texts-part-1-bundahis
   rights:
     status: public_domain
     full_text: allowed

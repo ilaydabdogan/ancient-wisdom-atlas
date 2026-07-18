@@ -1,67 +1,3 @@
-# A Journey in Southern Siberia, the Mongols, Their Religion and Their Myths
-A JOURNEY
-IN SOUTHERN SIBERIA
-
-
-Jeremiah Curtin Going up the Steps or Mars Hn.r. to the Place
-where St. Paul Addressed the Athenians. Frontispiece
-
-
-A JOURNEY
-
-IN
-
-SOUTHERN SIBERIA
-
-THE MONGOLS, THEIR RELIGION
-AND THEIR MYTHS
-
-BY
-
-JEREMIAH CURTIN
-
-Author of "The Mongols, A History," "The Mongols in Russia,"
-
-"Myths and Folk-Lore of Ireland," "Creation
-
-Myths of Primitive America," etc.
-
-TRANSLATOR OF THE WORKS OF HENRYK SIENKIEWICZ
-
-
-With a Map, and Numerous Illustrations
-from Photographs
-
-
-BOSTON
-
-LITTLE, BROWN, AND COMPANY
-
-
-Copyright, 1909,
-Br A. M. Cuktin.
-
-
-All rights reserved
-
-
-Published November, 1909
-
-
-THE UNIVERSITY PRESS, CAMBRIDGE, U.S.A.
-
-
-FULFILLING THE AUTHORS WISH
-
-THIS BOOK IS DEDICATED
-
-TO HIS VALUED
-
-FRIEND
-
-SIR WILLIAM VAN HORNE
-
-
 PREFATORY NOTE
 
 JEREMIAH CURTLN took the degree of Bache-
@@ -396,7 +332,7 @@ T I C
 c\f
 
 
->^
+)^
 
 
 ,60
@@ -485,7 +421,7 @@ A Journey in Southern Siberia
 Sratute Miles
 
 
-"%5K Sanar**in<n
+"%5K Sanar**in(n
 
 
 ^HANISTAN
@@ -500,7 +436,7 @@ Sratute Miles
 '*,* .
 
 
-Y<"
+Y("
 
 
 ;uisk7
@@ -509,7 +445,7 @@ Y<"
 RTungSZlfi '
 
 
-5 ..»<r
+5 ..»(r
 
 
 T Tomsk
@@ -536,7 +472,7 @@ J'X.iofe'WvS-.
 3*^c
 
 
-'!'"\<--S-: ~
+'!'"\(--S-: ~
 
 t:.t.:-.»»i.. !v
 
@@ -1138,8 +1074,7 @@ sprang the founder of the Romanoff dynasty, Michael Romanoff.
 
 The city of Tomsk was founded in 1604 by Gavrilo Pisemski
 and Vassili Tyrtoff. This city is now, in 1900, the educational
-center of northwestern Siberia. It has one of the largest Univerties in the country, twenty-three Russian churches, two synagogues, and a large Catholic church. It is a wide-awake flourishing city in spite of a climate so cold that during winter the ther-
-mometer is about forty degrees below zero (Fahrenheit) for
+center of northwestern Siberia. It has one of the largest Univerties in the country, twenty-three Russian churches, two synagogues, and a large Catholic church. It is a wide-awake flourishing city in spite of a climate so cold that during winter the thermometer is about forty degrees below zero (Fahrenheit) for
 many days at a time, and the river Tom, on which the city is
 situated, is frozen quite half the year.
 
@@ -3982,7 +3917,7 @@ In background a Buriat official
 
 *rm?^*v~m±
 
-._>---' 1_^
+._)---' 1_^
 
 k*^""^^
 
@@ -4187,7 +4122,7 @@ WBB*M;- jc^ -■•••/^■:~- Tmmr—-
 
 -.f - r ~- _- '•- - • :*
 
-KoNGOUOFF AND HIS WlFE. iJ<l<7« Sj
+KoNGOUOFF AND HIS WlFE. iJ(l(7« Sj
 
 The other persons of the group are neighbors who crowded around
 
@@ -4378,7 +4313,7 @@ ii
 
 fir
 
-B w|l!kfM<
+B w|l!kfM(
 
 IH^B&hBES
 
@@ -4923,7 +4858,7 @@ M W
 
 « R
 
-< 2
+( 2
 
 
 O
@@ -6151,7 +6086,7 @@ u
 CO
 
 
-<l
+(l
 
 
 Oh
@@ -6163,13 +6098,13 @@ V,
 
 O
 
-<j
+(j
 
 Q
 
 u
 
-5-<
+5-(
 
 O
 
@@ -12156,7 +12091,7 @@ turned toward each other.
 he
 
 
-<D .5
+(D .5
 
 ,f. A .J.,
 
@@ -12172,7 +12107,7 @@ o s S
 
 g 's a
 
-?> C 0
+?) C 0
 
 S *
 
@@ -14505,690 +14440,3 @@ feat. In Indian mythology similar tasks are given by the father-in-law
 to the new son-in-law.
 
 
-INDEXES
-
-
-GENERAL INDEX
-
-
-Abakumovitch leads an expedition to
-Sibir (Siberia), 1638, 15.
-
-A birthday in Siberia, 87.
-
-Adaha Zayang, Buriat divinity, creator of cattle, 46.
-
-Alamaldjin and bis twin sister, 271.
-
-Alexander of Macedon, visits Yugria, 5.
-
-Altin Shagoy, a myth, 232.
-
-Altyn Elian, sends the first tea to
-Russia, 15.
-
-Amoor River, 13, 16, 32.
-
-Arkokoff, his family, 80, 83.
-
-Arsa, substance left after distilling
-tarasun, 92.
-
-Ashir Bogdo, 152, 161, 178.
-
-Baiandai, an ex-convict post station,
-55; description of, 78; soldiers
-arrive, 79.
-
-Baikal, 1, 3, 4, 15, 16, 17, 18, 44, 69,
-71, 100.
-
-Barguzin is founded, 16.
-
-Baronye Tabin, first spirit in the universe, 105.
-
-Batu, grandson of Jinghis Khan, 1.
-
-Beketoff, sent against the Buriats, 15.
-
-Beriozoff, founds, 13.
-
-Berkut, white-headed eagle, 100.
-
-Bolhovski, first government official
-sent to Siberia, 11, 12.
-
-British in India, 2 ; allies of the Mongols, 3.
-
-Buddhism, 50, 51.
-
-Budung Yihc Ibi, Buriat divinity, 45.
-
-Buga Noyon, Buriat divinity, 45.
-
-Bugor sent to explore Lena River, 15.
-
-Buhan Khan, mythical character, 97.
-
-Bulugat, mythical character, 98.
-
-Buriats, besiege Verholevsk, 15; conflict with Russians, 16, 17, 22;
-Buriat horsemen, 31 ; their houses,
-
-
-35; their religion, 50; beyond the
-Baikal, 97; burning of the dead,
-101; burial, 102; ghost story, 113.
-
-Burkans, Buriat gods, 43, 45, 49, 107.
-
-Buruldai Bogdu, a mythical character,
-No. I., 187; No. II., 196.
-
-Cape Chukchi, easternmost point of
-Asia, 16.
-
-Chabukoff, envoy to Sibir, 8; enters
-Sibir as master, 10.
-
-Chronicle of Nestor, 5, 6.
-
-Chukchi, natives of northeastern Siberia, 16.
-
-Chulkoff, leads an army to Sibir, 12;
-captures the capital, IS.
-
-Collecting myths, 38.
-
-Creation, 121.
-
-Cyprian, first bishop sent to Sibir, 14.
-
-Danilo, of Moscow, an exile, 79.
-
-Dejneff, leads an exploring party;
-doubles Shelag Point; first man to
-discover the passage between the
-Arctic and Pacific Oceans, 16.
-
-Difficulties, of introducing a new religion, 50.
-
-Delquen Sagan Burkan, world white
-god, Esege Malan, 105.
-
-Ehe Ureng Ibi, Buriat divinity, 46.
-Ejin, son of Fiery Heaven, 100.
-Elantsin, post station, 67.
-Epancha, a Tartar prince, 10.
-Esege Malan, a Buriat god, 39, 46,
-
-99; also called Baronye, 105, 122,
-
-124, 127.
-Esh, hedgehog, 124, 125.
-Exile, 25, 35, 55, 76, 77, 78, 79, 81.
-
-82, 83, 85.
-
-Fort Balazansk established, 17.
-
-
-GENERAL INDEX
-
-
-Gaqui Guldief, a Shaman, 113, 114.
-Gesir Bogdo, Buriat god, 39, 122;
-
-No. I., 127; No. n., 130; No. III.,
-
-134.
-Glukoff, sent to Sibir, 10; goes to
-
-Moscow, 12; returns to Sibil, 12.
-Gods of the Buriats, 118.
-Gortchakoff (Peter), founds Pelym,
-
-13.
-Grand Moguls, masters of India, 2.
-Great Britain, in India, 2; conquest
-
-of India, 3.
-
-Habaroff, explores the Amoor River,
-
-16.
-Hedgehog, a deity, 45.
-Hogotskaya, post station, 56, 59, 78.
-Homutooka, a post station, 24.
-Hotogov Mailgan, Buriat goddess, 46.
-House Ongons, 120.
-Hulagu, grandson of Jinghis Khan, 1.
-Hunkuvai and the horse with a round
-
-head, 206.
-
-Irkutsk, established, 17, 18; gymnasium, 52, 77, 86, 91, 111, 113.
-
-Iron Gates, pass in Ural Mountains, 5.
-
-Iron Hero, creation of, 160, 164, 178.
-
-Ivan the Terrible, entitles himself
-Commander of Sibir, 7; sends Kuchum a message, 8; sends force to
-capture Yermak, 8, 10, 12, 13.
-
-Ivan Veliki, sends Skryaba to subject
-Yurgia, 6; adds Yugorski to his
-titles, 7.
-
-Jerdovski, a post station, 26.
-Jinghis Khan, his birthplace, 2; ruler
-
-of Russia, 37, 38.
-Journey to the Buriats, 18.
-Journey to the island of Olkhon, 53.
-
-Kalym, the price paid for a wife, 93.
-Kamchatka, added to Russia, 17.
-Klamath River, myths, 6.
-Koltso, associate of Yermak, 9; envoy
-
-to Moscow, 10; killed, 11.
-Kongoroff, rich Buriat, 85; names his
-
-gods, 84. 85.
-Kosaya Steppe, post station, 67.
-
-
-Kosostcp, post station, 75, 77.
-Kublai Khan, grandson of Jinghis
-
-Khan, 1.
-Kuchum, captures Sibir, 7, 9, 10;
-
-killed by Tartars, 13.
-Kuda (Where), a village of ex-convicts,
-
-90.
-Kurbski, leads troops to Yugria
-
-(Sibir or Siberia), 7.
-Kutul, a Buriat village, 68, 71, 75.
-
-Lazareff, the Cross-eyed, 33; his
-
-home, 36, 51, 53, 75, 77, 78.
-Lena River, 14, 15, 25, 40.
-Lvoff, founds Surgut on the Ob, 13.
-
-Mahamet Kul, relative of Kuchum, 8 ;
-taken to Moscow, 10.
-
-Manshut, a "wise man," 39, 86, 87,
-88, 89.
-
-Mansureff, governs Sibir, 12.
-
-Marriage, ceremonies of, 93.
-
-Marlyroff , discovers the Yakuts, 14.
-
-Masalski, punishes Kuchum, 13.
-
-Meluk Shin, mother of Mindiu, 105.
-
-Mesatski, crushes Kuchum, 13.
-
-Mikailoff, a pagan Buriat, 20, 21, 25 ;
-his home, 27; a visit, 38, 40, 68,
-86.
-
-Minga Nudite Mila, mythical character, 111.
-
-Mongols, their origin and rule, 1, 2.
-
-Mother Earth, a Buriat god, 39, 124.
-
-Muravieff, 19, 68.
-
-Novgorod counts Yugria as a possession, 6.
-Nur, a village on Olkhon, 71.
-
-Obdovski, founded, IS.
-
-Olkhon, island, 15, 51, 68, 69, 73, 74,
-
-100.
-Olzoni, post station, 42, 53, 54, 55,
-
-83, 84, 111.
-Ongons, household gods, 41, 85, 110.
-Ostyaks, an Asiatic tribe, 10.
-Ottomans, 3.
-
-Pelym, founded, 13; first place to
-which exiles were sent, 13, 14.
-
-
-GENERAL INDEX
-
-
-Perfilyeff, sent to force the Buriats to
-pay tribute, 15.
-
-Perskin, Curator of Irkutsk museum,
-20, 21.
-
-Pisemski, founds Tomsk, 14.
-
-Pohakoff, founds Irkutsk, 17.
-
-Popoff, editor of "The Eastern Review," 20.
-
-Roboff sent in search of a northern
-continent, 17.
-
-Rogovitch, visits Yugria, 5.
-
-Romanoff (Ivan and Vassili), first
-exiles of rank sent to Siberia, 14.
-
-Romanoff (Fedor), ancestor of the
-founder of the Romanoff dynasty,
-14.
-
-Russia, establishes itself in Siberia,
-14; becomes acquainted with Buriats, 14, 17 ; Russian language, 90.
-
-Russianized Buriats, 57.
-
-Sacred groves, 116.
-
-Sacred trees, 117.
-
-Sem Sosen, village in Olkhon, 71, 72.
-
-Shah Mohammed, slain, 2.
-
-Shaman, 42, 51, 69, 70, 89, 97, 98,
-99, 101, 104, 105, 108, 109, 111, 115.
-
-Sharau, mythical hero, 201.
-
-Shauarok, a Buriat village, 33.
-
-Shelag Point, doubled, 16.
-
-Siberia, extent, 3; lostto Russia, 11, 21.
-
-Sibir, name which preceded the name
-Siberia, 4, 6, 13 ; first used as name
-for whole country, 7, 8, 10; invested
-by Karacha, 11, 12, 13.
-
-Sickness, 70, 99.
-
-Sojourn on the sacred island of Olkhon, 73.
-
-Starkoff, carries the first tea to Russia,
-15.
-
-Stroganoffs, receive grant of land on
-the Kama, 7, 8, 9; their heirs, 9.
-
-Sukin, extends Moscow rule, 12;
-founds Tiumen and Tobolsk, 12.
-
-Swans, three daughters of Esege
-Malan, 98.
-
-Tamarlane, his birthplace, 1; his
-power, 1, 2.
-
-
-Tarasun, making of, 92.
-
-Tea, first taken to Russia, 15.
-
-The Iron Hero, 39.
-
-The Twin Boys, a myth, 292.
-
-Tiumen, first Russian city built in
-Sibir, 13.
-
-Tobolsk, founded, 12; made chief
-city, 13, 14.
-
-Tohtamish, Khan of the Golden
-Horde, murdered in Sibir, 6.
-
-Tomsk, founded, 14.
-
-Trahanistoff, founds Berizoff, 13.
-
-Trans-Baikal Buriats, 99.
-
-Tsar Fedor, sends Mansuroff to Siberia, 12; sends first exiles to Sibir,
-13.
-
-Tumbinai, great-great-grandfather of
-Jinghis Khan, 2.
-
-Tyrtoff, founder of Tomsk, 14.
-
-Ugri, same as Yugria, 4.
-
-Uha Soldong, the golden sorrel, a
-
-divinity, 46.
-Uher, the Hill of Sacrifice, 44, 45, 86.
-Uhurut, mythical ancestor of the Vepholensk Buriats, 98.
-Uligin Sagan Deda, revered pure earth,
-
-a divinity, 45.
-Undir Sagan Tengerin, the lofty clear
-
-heaven, 45.
-University of Siberia, 14.
-Ural, mountains, 4, 5, 12.
-Urga, capital of Setsen Khan, 16.
-Usturdi, post station and town, 22;
-
-arrival at, 29, 30, 36, 39, 41, 42, 44,
-
-53, 86, 90, 109, 116.
-
-Varhan Tulai Hubun, a mythical
-
-character, 222.
-Vassili Mihailoff, a young Buriat, 30,
-
-48, 51, 86.
-Vernolensk, its ignorant ispravnik, 90.
-
-Yakuts, territory, 14, 15, 16 ; traveling
-to Yakuts country, 25, 40, 53, 59, 79.
-
-Yerente Khan and his son, a myth,
-247.
-
-Yermak, his origin, 9; meets the natives of Sibir, 10 ; sends Koltso to lay
-Tsardom of Sibir at the feet of Ivan
-
-
-GENERAL INDEX
-
-
-the Terrible, 10; his death, 11, 12,
-18, 17.
-Yugria (Ugri), name for Siberia in the
-eleventh century, 4; story of the
-Yugrians, 5; pay tribute to Novgorod, 6, 7, 17.
-
-
-Zakuska, Russian lunch, 56.
-
-Zayahung Yihe Zayasha, Buriat divinity, 45.
-
-Zayang Sagan Tengeri, Buriat divinity, 45.
-
-
-INDEX OF INCIDENTS IN MYTHS
-
-
-Arrow, obeys its owner, 142, 149, 167;
-cuts tree9, 168; scatters enemies,
-199; with forty edges, 222; given
-asasign, 239, 258; sent to kill a sea
-monster, 243; sent to cut an enemy
-into seven pieces and cover the
-pieces with seven mountains, 210.
-
-Aspen tree, restores life and youth, 141,
-146, 149, 155, 158, 234, 240, 262.
-
-Blue Steed of the sky, 131, 145, 161,
-167, 169; eight blue steeds, 218.
-
-Boats made of bits of tamarack bark,
-cross the sea and then become bits
-of bark again, 132.
-
-Book in which every event of its
-owner's life is foretold, 156; found
-in hero's liver, 164, 182, 184; found
-in midriff, 206; taken from the
-hero's forehead, 222; book of life
-falls in at smoke hole, 233, 238, 278.
-
-Boundary, on one side spring on the
-
-other autumn, 179.
-Boys, hurl stones so far that a man
-must travel two days to reach the
-place where they fall, 217; restore
-mother's hand, eye, and foot, 219;
-plot against mother, 230; pray for
-three days and horses are sent
-from heaven, 230; pray for horses
-and outfit, and get them, 233;
-thrown out by parents, 232.
-Bull fights for his owner, 248.
-Burkans make an Iron Hero and
-breathe life into him, 160.
-
-Cat renders great assistance to hero,
-
-204.
-Child whom only fire from heaven
-
-can kill, 227.
-Cold so great that horse droppings
-
-turn to ice while falling, 168.
-
-
-Cuckoo, 101; sings and the sea vanishes, 173; assists in restoring life,
-240, 275, 276, 277.
-
-Dead men dance, 113.
-
-Dog, gives hero a ring which accomplishes whatever is required of it,
-204.
-
-Eagle assists hero in his escape from
-the underground kingdom, 193; at
-war with Mogoi Khan, 285.
-
-Eagle's daughters, 242.
-
-Enchantment, 251.
-
-Evil spirits cast from heaven, 134.
-
-Fighting, hero and Mangathai, 146,
-
-149, 165, 172, 175, 181, 209, 237.
-
-248, 281.
-Forest so dense that the thinnest snake
-
-could not squeeze through, 168.
-Fox from heaven killed by an arrow,
-
-239 ; steals shoulder-blade of hero,
-
-276.
-Frogs the size of a bullock, 261.
-
-Gesir Bogdo comes to earth to destroy
-evil creatures, 127, 135; full grown
-when three days old, 254 ; to please
-his wife turns himself into a horse,
-gnaws grass and draws a plow, 159.
-
-Golden stairs from earth to heaven,
-243.
-
-Hair with magic power, 262.
-Hanhai, goes in search of her brother,
-
-282; given task by father-in-law
-
-who supposes her to be a man, 284 ;
-
-feats to prove herself a man, 286;
-
-brings her brother to life, 289.
-Heat so great that horse droppings
-
-turn to dust while falling, 168.
-
-
-318 INDEX OF INCIDENTS IN MYTHS
-
-
-Heavenly hero born of woman, 128,
-ISO, 1S5.
-
-Hedgehog, 123; curses bulls and
-horses, 228.
-
-Hero, begs Esege Malan for a horse,
-188; makes himself and horse of
-enormous size, 180 ; turns to stone,
-167, 183; turns himself and bride
-to ravens, 185 ; goes to Yellow Dog,
-244 ; curses the heavenly blacksmiths, 244; makes himself old,
-225; makes a stone mountain behind him, 261 ; goes to heaven for
-aid, 261; prays three days to the
-Heavenly Burkans, 220 ; drinks
-spider oil and has no need of food,
-247; poisons food by magic, 264;
-goes to heaven for chains to bind
-Yellow Dog, 268; brings a multitude of people to life, 247; makes
-a journey to Yellow Dog's kingdom, 293; turns to a flea, 297.
-
-Heroine, looks for insects in Hero's
-hair, 223 ; goes to the sky to get aid
-of the gods, 240 ; cannot escape, is
-always drawn back by magic, 139;
-turns to stone, 236, 281.
-
-Highest being orders his grandson to
-come to earth and destroy evil
-spirits, 130.
-
-Hohodai Mergen (thunder), 151;
-called upon to kill enemy, 210;
-sent to kill a hero, 228.
-
-Horse red as blood, 179; turned to
-flint, 132, 155, 170, 182; pastured
-with thirteen deer, gives hair to
-protect them, 272; drops tears for
-his master, 239.
-
-Impaled on stakes, 180, 260, 217.
-
-Journey so long that a boy of five
-years of age would be sixty at the
-end of the journey, 209.
-
-Juniper, used for incense, 42, 162, 289.
-
-Kerchief with power to bring the dead
-to life, 177.
-
-
-Lake of poison, 169.
-
-Life in a place aside from the body,
-in woodcocks, 149, 182; in skylarks, 211; in a feather, 150; in
-three birds, 226.
-
-Looking back, 42, 158.
-
-Magic cup, 158.
-
-Mangathais, bad spirits who lived in
-a world before this, 132, 133, 134,
-etc.; goes to heaven to get Ashir
-Bogdo's life, 108 ; upper jaw reaches
-the sky, lower touches the earth, 183 ;
-cuts slice of flesh from boy's thigh,
-roasts and eats it, 216, 252, 280.
-
-Mogoi Khan, a sea demon wars with
-eagle, 243.
-
-Perfect fool, throws hero over three
-mountain ranges, 224.
-
-Raven (ancient of), changed to harmless bird, 138, 151, 181.
-Red restoring larch tree, 220, 221.
-
-Scissors which multiply cloth, 177.
-
-Serpent with many lives, 184.
-
-Shalmos, invisible spirits, 130, 131,
-137, 183, 223.
-
-Silver stairway to the sky, 158.
-
-Spring from which horse never drank,
-164.
-
-Steed, given by Esege Malan, 127;
-sent in answer to prayer, 139; of
-terrible speed, 209; from the sky,
-215; which can run three times
-around the world before a cup of
-milk, placed over a hot fire, boils,
-235 ; red as blood, 249 ; sinks to the
-earth to listen, 250 ; foretells his master's death, 250; gives advice, 267.
-
-Sun and moon fall to the earth, 228.
-
-Swans become women, 98, 125.
-
-Tasks difficult of accomplishment
-given to new son-in-law, 176, 242,
-267, 284.
-
-Traveling on the rainbow, 140.
-
-Tree on which all religions are recorded, 155.
-
-
-INDEX OF INCIDENTS IN MYTHS 319
-
-
-Uncle grinds up and eats the bones of
-
-his nephew, 216.
-Underground kingdom, 190, 195.
-
-Valley filled with serpents, 168.
-
-Water of Life, restores life, 149, 155,
-158, 170, 177, 211. 213, 220, 228,
-234, 240, 298.
-
-Woman of sixty years of age, gives
-birth to a child, 135, 186; gives
-
-
-birth to twin boys, 196, 249, 232,
-271.
-World before this, 206.
-
-
-Yellow Dog, upper jaw touches the
-sky, lower jaw grazes the earth,
-rushes toward the sun, 218; draws
-people into his mouth, 293, 294.
-
-Yurta (Buriat house), hanging between sky and first heaven, 155. .-

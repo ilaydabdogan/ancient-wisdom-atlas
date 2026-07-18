@@ -1,98 +1,3 @@
-# The Hymns of the Rigveda, Complete 2 Volumes
-
-THE
-
-
-HYMNS OF THE RIGYVEDA ©
-TRANSLATED WITH A POPULAR COMMENTARY
-
-
-BY
-
-
-RALPH T. H, GRIFFITH, M.A.,C.1.E.
-
-
-FORMER PRINCIPAL OF THE BENARES COLLEGE, AND LATE
-DIRECTOR PUBLIC INSTRUCTION N,-W. P. AND OUDN.
-
-
-a
-
-
-Third Edition.
-COMPLETE IN TWO VOLUMES,
-
-
-.0:
-Sern: meneame cael ee eee al
-q@ ®
-
-
-VOL. I.
-
-
-BENARKS :
-PRINTED AND PUBLISHED BY E. J, LAZAR'S AND CO.
-
-
-ere
-
-
-1920.
-All rights reserved,
-
-
-a VAVIUINY SAURVIRVINYNIN SNP UYU. SUNMRUNVINVIOUISMAY YISO
-*, Cal
-
-
-(p
-
-Cs 9
-fn Printed and Published by Dr. Jagannath Prasad, a
-ff \
-“ M. B, B.S. Propristor, E, J. Lazarus & Co, “a
-r = '
-~, at the Medical Hall Press, Benares. is
-ve) vy
-* -
-
-
-v~
-
-
-we “a
-EOS VAIO SISOS IDS
-
-
-CONTENTS.
-
-
-Page.
-PRIFACE TO THE FIRST EDITION. v,
-‘ °
-
-Hymns, Translation and Cummentary :-—
-
-Book I, oe ss on 1
-.
-
-ys IT. as 4 ae 959
-ge ~ AIL . Ls bak 315
-r IV. e 391
-i; V. \ 46+)
-oe |UOG : ays)
-Appenpix L—IIymn I. 126 6,7; and L179. ” 649
-Arpenpix IT —Metra he : Set se 651
-
-
-Index of Hymns
-
-
-Index of Names, Htc. a hs sa 673
-
-
 PREFACE
 
 
@@ -382,8 +287,7 @@ the ten or twenty ” other passages in which it reqirs, cannot
 possibly lead to a correct result.’’ #e
 
 « Professor Max Miiller says : “‘As the authurs of the Br4hmanas were blinded *by thgology, the authc\s of the still later
-Niruktas were @eceived by etymological fictions, and both conspired to mislead by their authority later and more sensible com-
-mentators, such as Siyana. Where SAyana ha? no authority»
+Niruktas were @eceived by etymological fictions, and both conspired to mislead by their authority later and more sensible commentators, such as Siyana. Where SAyana ha? no authority»
 
 
 ta mislead him, his commentary is,’at all events gational ; but
@@ -445,8 +349,7 @@ owed more details that: they actually do owe, to tradition, would
 
 not be eclipsed by their interpretation. ’’*
 
-A very different opinion of the value of the Indian commentators was held and expressed by Professor Goldstiicker. ‘‘With-
-out the vast tuformation,’’ he says, “which those commentators
+A very different opinion of the value of the Indian commentators was held and expressed by Professor Goldstiicker. ‘‘Without the vast tuformation,’’ he says, “which those commentators
 have disclosed to us,—without their method of explaining the
 obscurest text,—in one word, without their scholarship, we
 should still stand at the outer doors of Hindu antiquity.”
@@ -1310,7 +1213,7 @@ And glorious, O most splendid One.
 strength,
 Lasting our life-time, failing not.
 8 Grant us high fame, O Indra, grant riches bestowing thousands,
-those <
+those (
 Fair fruits of earth borne home in wains.
 9 Praising with songs the praise-worthy who cometh to our aid,
 we call
@@ -1667,7 +1570,7 @@ Va ote eS
 
 
 Te ER ERE cote aie 8) Re
-ee 4 tee tte F >
+ee 4 tee tte F )
 Sg ae Ra aR CB a i ~ 4
 
 ‘
@@ -2113,7 +2016,7 @@ prayer, or rather. cevhaus, of .be ost of the Veda ; but whether he is to be
 considered as a distinet persantivatiou, or as a modified form of one of those
 already recognized, and especially of Agni, is doubtful. His giving wealth,
 healing disease, and promoting nourishment, are properties not poculiar to
-him ; and his being associated with Indra and Soma, while it makes him distinct from them, leaves him Agnir~ ‘** ~+-+;tr~>. His being, in an especial
+him ; and his being associated with Indra and Soma, while it makes him distinct from them, leaves him Agnir~ ‘** ~+-+;tr~). His being, in an especial
 manner, connected with prayer .-ro.-'' ":  . + ina subsequent passage,
 Hymn XL. Agni is, in an especial . - . “sof the Brahman ; and,
 according to gome statements, the Rigveda is supposed to proceed from him ;
@@ -2296,8 +2199,7 @@ Adityas, together with Ribhu, Vibhvan, and Vaja, with Brihaspati and the
 
 6 ‘Tvashtar, in the Paurdnik nir*h-"srr. *s the carpenter or artisan of
 the Gods: so Séyana says of him,r+"-:. . °° 3 +." se duty, with relation to
-the Gods, is carpentry.....Sdyana ai. . ta 40". the disciples of Tvashtar... The act ascribed to then | in the tae, se cine one ladle four, has, pro-
-bably, rather qeferente to some innovation in the objects of libation than to
+the Gods, is carpentry.....Sdyana ai. . ta 40". the disciples of Tvashtar... The act ascribed to then | in the tae, se cine one ladle four, has, probably, rather qeferente to some innovation in the objects of libation than to
 the rere eth! 7 of the wooden spoons used to pour out the Soma juice.
 Thea: . that Agni, coming to a sacrifice which the Ribhus celebrated, became as one of them, and, therefore, they made the ladle fourfold,
 that each wight have his share.’ Wilson,
@@ -2818,7 +2720,7 @@ Varuna and Mitra, He is said to preside over twilight.
 hes who is the sameas Manu,
 
 
-10 Son of Stren 7 +e aye etl. -f frequent occurrence, and t is sometimes applied to] °:. : ae eat > mighty God, The cxr Cage
+10 Son of Stren 7 +e aye etl. -f frequent occurrence, and t is sometimes applied to] °:. : ae eat ) mighty God, The cxr Cage
 plied to Agni, alu: cootu van ployed in rubbing u eae the Live
 
 
@@ -3369,8 +3271,7 @@ Lo
 ~}
 
 
-1 ‘In this and subsequent Sttktas we have an ample elucidation of the original purport of the legend of Indra’s slaying Vritra, converted by the Paura-
-nik writers.into a literal contest between Indra and an Asura, or chief of the
+1 ‘In this and subsequent Sttktas we have an ample elucidation of the original purport of the legend of Indra’s slaying Vritra, converted by the Pauranik writers.into a literal contest between Indra and an Asura, or chief of the
 Asuras, from what in the Vedas is merely an allegorical narrative of the production of rain, Vritra, sometimes also named Ahi, is nothing more than the
 accumulation of vapour, condensed or figuratively shut up in, or obstructed
 by, acloud. Indra, with his thunderbolt, or atmospheric or electrical influence, divides the aggregated mass, and vent is given to the rain which then
@@ -3519,7 +3420,7 @@ that of Angiras, and described ag ziuuing in [ndra’s battles, regulating the
 worship of the Gods, ete,
 
 
-<3
+(3
 
 
 7 Whether they weep or laugh, thou hast o’erthrown them,
@@ -5044,7 +4945,7 @@ _ 12 The yellowness here spoken of is probably the colour of the skin in
 jaundice. The hdévidrara of the text is said by Sdyana to mean haritdladrunut, & haritéla tree ; but there seems to be no tree of that name. Huritdla
 ue yah yellow orpiment, and huridruva, a yellow vegetable powder
 
-a) * . 7 ” £ 1 > or] . 5 Ag :
+a) * . 7 ” £ 1 ) or] . 5 Ag :
 ae word Adridrava is explained in the Petersburg Lexicon aga certain yellow
 
 
@@ -5165,7 +5066,7 @@ barbarians,
 
 6 Sushna, ‘the Drier-up,’ is the personification of the excessive heat before
 the rains ;a demon of drought. Swumdura and Arbuda are similar demons of
-the atmosphere. <Atithigva is another name of the liberal prince Divodasa.
+the atmosphere. (Atithigva is another name of the liberal prince Divodasa.
 
 8 The Aryas are, first, the people who speak the language of the Veda,
 and the Dasyus are the original and hostile peoples of India. Later, the
@@ -7279,7 +7180,7 @@ LS)
 by a hawk or falcon. Cf I. 938 6.
 
 
-7 The guilef ul best > the demon Vritra.
+7 The guilef ul best ) the demon Vritra.
 8 Ninety spucious floods: the many waters obstructed by Vritra.
 
 
@@ -7979,7 +7880,7 @@ _ 6 This verse is very obscure, I follow M. M.'s translation which ‘is to a
 great extent conjectural,’ i
 
 
->.
+).
 
 
 3"
@@ -8245,7 +8146,7 @@ who takes Soma to be the plant, Wilson, following Séyana, translates :
 3!
 
 
-D>
+D)
 
 
 HYMN XCILI, Dawn.
@@ -8498,7 +8399,7 @@ Sayana,
 y)?
 
 
--< 9
+-( 9
 
 
 122 THE HYMNS OF [BOOK J.
@@ -9186,8 +9087,7 @@ chieftains.
 
 Siphd, is said by Sayana to be the name of a river,
 
-4 This stanza is very obscure. The meaning appears to be that the friendship of Indra, who sends down the rain as before, has put an end to the inso-
-lence of Kuyava. See Ludwig, Ueber die neuesten Arbeiten auf dem Gebiete
+4 This stanza is very obscure. The meaning appears to be that the friendship of Indra, who sends down the rain as before, has put an end to the insolence of Kuyava. See Ludwig, Ueber die neuesten Arbeiten auf dem Gebiete
 der Rgveda-forschung,.
 
 . The signification of the three rivers in the second line is obscure. Benfey
@@ -9496,7 +9396,7 @@ and Sindhu, Earth and Heaven.
 HYMN CYIII. Indra-Agul:
 Ow that most wondrous car of yours, O Indra and Agni, which
 looks round on all things living,
-Take ye your stand and come to us together, and drink liba<
+Take ye your stand and come to us together, and drink liba(
 tions of the flowing Soma,
 
 
@@ -9995,8 +9895,7 @@ Wherewith ye bring delicious honey to the bees, —Come hither
 unto us, O Asvins, with those aids.
 
 
-stronghold which the Asvins saved from burning, either through the instrumentality of aman called Jathara or by means of the rain-clouds. He ac-
-cordingly renders: ‘By means of which, at Patharfi, through the power of
+stronghold which the Asvins saved from burning, either through the instrumentality of aman called Jathara or by means of the rain-clouds. He accordingly renders: ‘By means of which, at Patharfi, through the power of
 Jathara (violence of the rain-clouds) the fire did not flame up, though
 prepared and lighted on the way.’ The passage is difficult, and the interpretations put upon the words hy Sayana certainly appear to be forced, but on the
 whole I think it safer to follow his guidance. I may observe here that ‘nA,’
@@ -11232,7 +11131,7 @@ verse, according to M. Bergaigne, Etasa himself or his substitute (the word
 sense of ‘like or as’) is represented as drawing the wheel when Indra has
 stayed the course of the Harits or Bay Horses of the Sun. It is not-difficult,
 says M, Bergaigne, to reconcile these two different conceptions of the réle of
-Etasa. <A sacrificer especially favoured by Indra may represent either the
+Etasa. (A sacrificer especially favoured by Indra may represent either the
 sacrificial fire or the Soma juice that is prepared, consecrated, and offered to
 the Gad, and Soma, in the Veda, is frequently represented asa horse. See
 Bergaigne, La Reliyion Védique, Vol. LL. 330-333.
@@ -11373,8 +11272,7 @@ it is at present unintelligible.
 * s ecimenhemamendl
 
 
-lL The Dakshin ?s broad chariot ; the Dakshina itself, that is the honorarium or fee presented by the institutor of a sacrifice to the priests who per-
-form the ceremony. The meaning of the first hemistich appears to be that all
+lL The Dakshin ?s broad chariot ; the Dakshina itself, that is the honorarium or fee presented by the institutor of a sacrifice to the priests who perform the ceremony. The meaning of the first hemistich appears to be that all
 preparations have been made for +”. ~~-*~* 7 =~ ‘°-e, and especially that the
 fee for its performance—a most .- ss 7 ready, and that the God
 are coming to the rite. The word ddéshindydh is considered by Sayana to be
@@ -11427,8 +11325,7 @@ for M. Bergaigne’s translation of, and polemical commentary on, this hymn.
 The noble and active Goddess: Ushas, Aurora, or Dawn. The word Goildess
 is not in the text,
 
-3 May Savitar: the all-seeing deity Savitar who presides over, but is sometimes distinguished from, the Sun, is appealed to as the best judge of the sup-
-pliant’s innocence,
+3 May Savitar: the all-seeing deity Savitar who presides over, but is sometimes distinguished from, the Sun, is appealed to as the best judge of the suppliant’s innocence,
 
 5 Our car the guerdon: may the liberal fee given for the performance of the
 sacrifice be to us as a war-chariot to enable us to overpower those who would
@@ -15898,7 +15795,7 @@ horses of the Wind are docile.
 11 Indra will come at last although he tarries now. We must wait patiently. The thirsty traveller comes to the stream and reaches his journey’s
 end at last.
 
-Wilson observes with truth that ‘this hymn is in general elliptical and obscure. <A translator has to endeavour to give the probable meaning of the
+Wilson observes with truth that ‘this hymn is in general elliptical and obscure. (A translator has to endeavour to give the probable meaning of the
 words as they stand, without venturing on conjectural completion of fancied
 ellipses and the insertion of words at pleasure after the manner of Séyana.
 
@@ -17108,8 +17005,7 @@ Aryaman, heroes’ Lord, art thou, enriching all, and liberal
 Ansa in the synod, O thou God.
 
 
-The hymns of this Book, with the few exceptions that will be noted, are ascribed to the Rishi Gritsamada. As Book I. is called the Book ofthe Satar-
-chins, that is of the seers of a hundred or large indefinite number of Richas or
+The hymns of this Book, with the few exceptions that will be noted, are ascribed to the Rishi Gritsamada. As Book I. is called the Book ofthe Satarchins, that is of the seers of a hundred or large indefinite number of Richas or
 verses, so this Book is commonly called the Gartsamada Mandala or Book of
 Guitsamada,
 
@@ -18258,7 +18154,7 @@ Like Vita in the region : bringing rain, as the Wind- God does.
 
 As steeds with trappings: the meaning of Zh is uncertain. Sdyana explains it, ‘as an old man (is covered) with garments.’
 
-4 Urana: another demon, <Arbuda: a demon mentioned in I. 51. 6.
+4 Urana: another demon, (Arbuda: a demon mentioned in I. 51. 6.
 
 5 Svugna, Vyansa, and the rest, are demons, some of whom have been
 previously mentioned.
@@ -18601,7 +18497,7 @@ Indra te approach, The Scholiast says that by their supernatural power the
 two horses of Indra multiply themselves indefinitely.
 
 6 The Sunahotrus: apparently a family so called; ~*----"-~'-."- ‘ose who
-sacrifice with happy result,’ According to Séyana,: i-../ +, o> certain
+sacrifice with happy result,’ According to Séyana,: i-../ +, o) certain
 
 
 vessels into which the Soma juice was poured, . ,
@@ -18741,7 +18637,7 @@ crushed even Asna’s ancient powers,
 of old.
 
 
-5 Made their goings prosper: by recovering for them the stolen cows, frequently mentioned in Book I. <Asna, ‘the voracious,’ said to be the name of
+5 Made their goings prosper: by recovering for them the stolen cows, frequently mentioned in Book I. (Asna, ‘the voracious,’ said to be the name of
 a demon, one of the many foes overthrown by Indra,
 
 
@@ -19131,7 +19027,7 @@ of light. Those sages: the Angirases, to whom the stolen cows are said to
 have belonged. Having marked the falsehoods: having seen through the
 guiles of the fiends who sought to mislead them.
 
-‘7 Vhey left the kindled fire > the cows, or waters and the light which follows
+‘7 Vhey left the kindled fire ) the cows, or waters and the light which follows
 their effusion, were set free by fire-oblations of which the Angirases are regarded as the earliest institutors. No enemy: that is, man’s greatest friend, The
 stanza is obscure, and Siyana’s explanation is unsatisfactory.
 
@@ -19946,7 +19842,7 @@ person to the third, from ‘ye’ to ‘ they,’
 I can make nothing of the second hemistich. ‘Wilson paraphrses it: ‘ You
 (destroyed) the reviler of your worshipper, and (came), irresistible sons of
 Rudra, to Trita for the destruction of his enemies,’ Trita is said by Sayana to
-< a ee Ludwig in his note on the passage takes Trita to be a name of
+( a ee Ludwig in his note on the passage takes Trita to be a name of
 
 e Soma,
 
@@ -20304,8 +20200,7 @@ generator or vivifier. Priest: véhnih; or, perhaps, the supporter, or, the lumi
 who draw the chariot of the Sun.
 
 4 The meaning of this stanza is obscure. I have given what appears to be
-the senae of the words as they stand, but the verse, as a whole, is scarcely intelligible, Wilson, following Sayana, paraphrases it thus: ‘She (Night), en-
-wraps the extended (world) like (a woman) weaving (a garment): the prudent
+the senae of the words as they stand, but the verse, as a whole, is scarcely intelligible, Wilson, following Sayana, paraphrases it thus: ‘She (Night), enwraps the extended (world) like (a woman) weaving (a garment): the prudent
 man lays aside the work he is able (to execute) in the midst (of his labour) :.
 put all spring up (from repose) when the divine, unwearied Sun, who has divided the seasons, again appears.’ Roth takes ardmatih, which I have rendered
 by holy-minded, as a substantive, the Geniys of Devotion, and translates :
@@ -21185,7 +21080,7 @@ reward) of zeal in (the performance of) his worship.’
 
 
 The Apris who are said to be the deities of this hymn are the divine or
-deified beings and objects to which t> °:"-*'"-' “y verses are addressed,
+deified beings and objects to which t) °:"-*'"-' “y verses are addressed,
 The hymn, as Wilson remarks, ‘is more, +. «i a obscure than any of
 the preceding addressed to the Apris, except Sdkta III, of the Second
 Mandala [II. 3.], to which it bears the nearest analogy: they are both perhaps
@@ -21262,8 +21157,7 @@ deities who preside over them.
 
 Lhe seven suit steeds : seven ministering priests.
 
-8 Bhérati, 114, and Serasvatt are Goddesses presiding over different departments of religious worship. See I, 13. 9. Thename of Agni is inserted some-
-what unconnectecdly,
+8 Bhérati, 114, and Serasvatt are Goddesses presiding over different departments of religious worship. See I, 13. 9. Thename of Agni is inserted somewhat unconnectecdly,
 
 10 Lord of Forests ; Vanaspati, a large tree ; here the sacrificial post which
 is said to be a furm of Agni.
@@ -22211,7 +22105,7 @@ Caan
 
 
 3 The nemes thon beavest : or the natures thou possessest. Many charms ;
-or supernatural powers, >
+or supernatural powers, )
 
 
 4,
@@ -22984,8 +22878,7 @@ PER Re FART YORNfn SCOR OAT atm FRENTE De NEOTEL a.
 
 2 The Son left nvt his portion to the brother: Wilson, following Siyana translates: ‘(a son) Lorn of the body oes not transfer (paternal) wealth to a
 sister.’ Ludwig takes the meaning to be: the bolily son (of Dyaus, or of the
-heavenly waters) did not transmit his inheritance (that is, sacrifice) to a brother. d home: the plants which recaive and hold Agni, who obtains the in-
-heritance of sacrifice, Wis Purents; perhaps the fire sticks, one of which by
+heavenly waters) did not transmit his inheritance (that is, sacrifice) to a brother. d home: the plants which recaive and hold Agni, who obtains the inheritance of sacrifice, Wis Purents; perhaps the fire sticks, one of which by
 agitation produces the flame in theother. Zhe good pair: the terrestrial offerer
 who performs the sacrifice, and the celestial offerer who makes it effectual.
 Bee Bergaigne, Lu Reliyion Védique, I. 934.
@@ -23653,7 +23546,7 @@ Thy names for triumph over foes.
 4 We strive for glory through the powers immense of him whom
 many praise,
 _ OF Indra who supports mankind.
-> For Vritra’s slaughter I address Indra whom many invocate,
+) For Vritra’s slaughter I address Indra whom many invocate,
 To win us booty in the wars.
 
 
@@ -24205,7 +24098,7 @@ strengthened thee at Ahi’s slaughter, j
 follow, ‘drinker of the spiritless Soma juice,’ ‘er des auch die somatrester.’
 
 
-4 In winning cattle; *) <-> *ver'e~ ths stolen kine, the vanished rays of light,
+4 In winning cattle; *) (-) *ver'e~ ths stolen kine, the vanished rays of light,
 or, generally, in battle _ oo * Of drought. —
 
 
@@ -25085,7 +24978,7 @@ _ As foundation; as the root and basis of every religious act,
 oe
 
 
-HYMN 55.) _ «<PHE RIQGVEDA. 381
+HYMN 55.) _ «(PHE RIQGVEDA. 381
 
 
 8 As to a friendly warrior when he battles, each thing that
@@ -25152,7 +25045,7 @@ Lev calf of eighteen months: or according to Séyana's alternative explanation, 
 é
 
 
->
+)
 
 
 Well-skilled I seek the seat of law eternal. Great is the Gods’
@@ -26200,14 +26093,14 @@ Se sdamaginenamemmenennnticaal eel S cscadaienemtdnaaaatieemnaadiiednertenatiber
 
 5 Why this complaint: why dost thou accuse us of sin ?
 
-6 On the.lesser altars : on the dhtshnyds, Ste -clte<7, ov beeper of eeeth covers
+6 On the.lesser altars : on the dhtshnyds, Ste -clte(7, ov beeper of eeeth covers
 ed with sand on which the fireis placed. 2%. 0 6 fo pens oo streser of
 wicked men, says the Scholiast. Rudra is generally represented asa benevolent God.
 
 7 The Lofty Arrow: the lightning.
 
 8 How answer the great Sun: the sense of stanzas 5—-8 appears to ke, as
-Profrss-» T44'>  bserves: thou hast no grounds for complaining of us to
+Profrss-» T44')  bserves: thou hast no grounds for complaining of us to
 ANY ute Gita lis: be, rather, our advocate if Surya comes forward ag our
 accuser,
 
@@ -26858,7 +26751,7 @@ Holy One, from the man who rightly worships. |
 -8 Agni, with you Gods, prosperous be our friendships and kin-
 
 
-b>
+b)
 
 
 ships. . e
@@ -28320,7 +28213,7 @@ RYMN 2%] THE RIG¥EDA. eo
 
 
 Friend of the Gods, brought, grasping fast, the Sona which
-he had taken from yon loftiest heaven. “1 =<
+he had taken from yon loftiest heaven. “1 =(
 
 7 The Falcon took and brought the Soma, bearing theusand
 
@@ -28452,7 +28345,7 @@ passages also. See X. 138,
 12 The overflowing stream; or, possibly, some stream called VibAli, the
 exact meaning of the word being doubtful,
 
-14 Kulitara’s son > this is Sayana’s explanation of kaulitardm.
+14 Kulitara’s son ) this is Sayana’s explanation of kaulitardm.
 
 15 Of Désa Varchin's;: of the followers of the demon or savage Varchin, i
 See II. 14. 6. And the jive: the position of pdficha in the stanza seems to,. r
@@ -29497,7 +29390,7 @@ glory of the sun.
 
 HYMN XLII. _ Indra-Varuna.
 I am the royal Ruler, mine is empire, as mine who sway all
-> life are all Immortals.
+) life are all Immortals.
 Varuna’s will the Gods obey and follow. I am the King of
 men’s most lofty cover.
 9 lam King Varuna. Tome were given these first existing
@@ -30097,13 +29990,13 @@ mid-air
 With thy bright shining lustre, Dawn.
 
 
-8 Like troops of cattle > going forth to pasture at day-break,
+8 Like troops of cattle ) going forth to pasture at day-break,
 
 
 Dn aah tne raad
 
 
-I After her Sister > when Night has departed.
+I After her Sister ) when Night has departed.
 
 
 3 Lhe Kime : the early rays of light, or fleecy clouds of morning. - Priond |
@@ -30215,7 +30108,7 @@ Lauded in manly mode may Indra-Vishnu grant us their powerful defence and shelte
 5 To lofty hills: ‘Thou elevatest those, of whom Indra is chief, above the
 vast clouds: for these, (thy worshippers), thou providest dwelling (places)
 filled with habitations. ’~-Wilson. ‘The difficulties in connection with this
-verse are very great, and perhar: “v7-~<~ *’-.’ “ays Professor Peterson, in
+verse are very great, and perhar: “v7-~(~ *’-.’ “ays Professor Peterson, in
 whose Hymns from the Rigveda |! ° .. -.' 1!  Beries, No. XXXVI.) the
 Sanskrit student will find a full statement of these difficulties, and the interpretations proposed by Séyana and by European scholars, not one of whic
 is convincing, a
@@ -30322,7 +30215,7 @@ HYMN LVII. Kshetrapati, Ete.
 We through the-Master of ‘the Field, even as through a
 friend, obtain eee
 What nourisheth our kine and steeds. In such may he be
-good to us. >
+good to us. )
 2 As the cow yieldeth milk, pour for us freely, Lord of the Field,
 the wave that heareth sweetness,
 Distilling meath, well-purified like butter, and let the Lords
@@ -30478,8 +30371,7 @@ The Brahman: according to Mahtdhara, the ritvdj or priest. Probably
 Agniis meant. The last half-line of the stanza is trranslated, after Shyana,
 by Professor Wilson: ‘the fair-complexioned deity perfects this rite,’ the
 epithet ‘four-horned’ being transferred to ‘Brahman.’ The God may be
-called a buffalo (gauré, Bos Gaurus) as a type of extraordinary strength. Mahtdhara explains gaurd by yajia, sacrifice, having four horna, that is, four off-
-elating priests,
+called a buffalo (gauré, Bos Gaurus) as a type of extraordinary strength. Mahtdhara explains gaurd by yajia, sacrifice, having four horna, that is, four offelating priests,
 
 3 Four are his horns: the four horns of Agni as identified with sacrifice are
 said by Siyana to be the four Vedas, and, if identified with Aditya, the four
@@ -30590,7 +30482,7 @@ with oil, strong Steed who never faileth.
 ‘ flying up (or like strong men reaching up) to a branch’ (M. Miller).
 
 
-3 The line of his attendants ; the revw 1% ~“i>tctoving priests, the people of
+3 The line of his attendants ; the revw 1% ~“i)tctoving priests, the people of
 
 
 gt. 1.. But the exact meaning of thes: f--) ‘"s: "ex: is uncertain, *
@@ -31336,7 +31228,7 @@ conquest, or subjugation of all neighbouring princes. SAyana explains tsdh
 alternatively as ‘wishes’; ‘ compass all their desires,’
 
 
->.
+).
 
 
 Hales GSS gesadee tere, 2 SeSuee oy
@@ -31580,7 +31472,7 @@ Agni conveys oblation straight, and deals, as Bhaga deals, his
 God,
 On whom, loud-roaring, men have laid great strength as on a
 A faithful friend.
-‘< Bo, Agni, be the Friend of these with liberal gift of hero
+‘( Bo, Agni, be the Friend of these with liberal gift of hero
 . strength.
 Yea, Heaven and Earth have not surpassed this Youthful One
 in glorious fame.
@@ -32400,7 +32292,7 @@ ye every side, hither and thither. ,
 
 11 What time the Somas mixed by Babhru cheered him, loud the
 
-. °°, > Steer bellowed in his habitations.
+. °°, ) Steer bellowed in his habitations.
 | So Indra drank thereof, the Fort-destroyer, and gave him
 
 _ guerdon, in return, of milch-kine.
@@ -32433,7 +32325,7 @@ apartments. ’
 11 Babhruw: the Tishi of the hymn, who appears to have assisted the
 
 
-samas, a riiztt-+> ~sople, in a successful foray, and ta have been
+samas, a riiztt-+) ~sople, in a successful foray, and ta have been
 eee with. arge p riba of the booty. Rinanchaya was the king of this
 
 
@@ -33302,8 +33194,7 @@ may the conquered streams increase their waters.
 15 Duly to each one hath my laud been offered. Strong be Variitri with her powers. to succour.
 
 
-| 10 Germ of the earthly hero; Agni, the Offspring of the Waters, who develops into the strong God, or Hero, who appears on earth in the form of ter-
-restrial fire.
+| 10 Germ of the earthly hero; Agni, the Offspring of the Waters, who develops into the strong God, or Hero, who appears on earth in the form of terrestrial fire.
 
 12 Swift Wanderer: Vayu, God of the circumambient wind.
 
@@ -33910,9 +33801,8 @@ Vritra, and Manu here may mean Indra. Manu probably represents the victorious Ar
 The wandering merchant : Sdyana says that this refers to the story of Kakshivin to whom the Asvins sent rain. See I. 112. 11.
 
 7 Through ten months: referring to the sacrifices of nine and ten months’
-duration performed by the Navagvas and the Dasagvas, priestly families frequently mentioned in connexion with the Angirases. These names miean, re-
-spectively, nine-month ministrants and ten-month ministrants, and are translated in the St. Petersburg Lexicon by Neuner and Zehner, Niners and Tenners. ,
-Saramd : see Index. <Angiras: Agni.
+duration performed by the Navagvas and the Dasagvas, priestly families frequently mentioned in connexion with the Angirases. These names miean, respectively, nine-month ministrants and ten-month ministrants, and are translated in the St. Petersburg Lexicon by Neuner and Zehner, Niners and Tenners. ,
+Saramd : see Index. (Angiras: Agni.
 
 8 Their spring: the source of the Cows, that is the Cows themselves.
 The loftiest place of meeting: the height of heaven. The half-lineis ap-
@@ -33994,7 +33884,7 @@ SAM LAN ae Ot
 
 
 Tas
-<
+(
 
 
 HYMN 47.) THE RIGVEDA. - BILE
@@ -34195,7 +34085,7 @@ path. |
 used here as an epithet of Agni, understood, as are also péshi, ‘ nourishing,’
 
 
-> + and bhdgah, ‘adorable.’ But Siyana gives also the alternative interpretation
+) + and bhdgah, ‘adorable.’ But Siyana gives also the alternative interpretation
 
 
 of the words as three deities.
@@ -34334,7 +34224,7 @@ strength.
 They in their course, bold-spirited, guard all men of their
 _, own accord,
 "8 Like steers in rapid motion they advance and overtake the
-> nights ;
+) nights ;
 
 
 iat And thus the Maruts’ power in heaven and on the earth we
@@ -34440,8 +34330,7 @@ in steeds,
 14 4s a maid her friend; this seems to be the meaning of mitrdm nd
 yoshand, which Sayana explains, as a friend (or as Aditya, the Sun) with praise.
 
-15 The three concluding stanzas are very difficult, and attempts at translation and explanation must be purely conjectural. The following is the subs-
-tance of Professor Ludwig’s note. Sakins [mighty ones] in stanza 17 are apparently a clan (yajamfn4h, or institutors of sacrifice) whose number consisting
+15 The three concluding stanzas are very difficult, and attempts at translation and explanation must be purely conjectural. The following is the substance of Professor Ludwig’s note. Sakins [mighty ones] in stanza 17 are apparently a clan (yajamfn4h, or institutors of sacrifice) whose number consisting
 of a multiple of seven, gave Occasion to their comparison to the Maruts, and
 an easy transition to the ddnastuti or eulogy of their liberality. The construction is : now thinking of these sacrificers [or, Maruts] may he [the Rishi] come
 togethér, as with the escort of the Gods [invited in stanza 14], in company
@@ -34673,7 +34562,7 @@ HY MN 55.] THE RIGVEDA, 525
 
 14 Maruts, ye further wealth with longed-for heroes, further the
 Rishi skilled in chanted verses.
-Ye give the Bharata as his strength, a charger, and ye>bestow
+Ye give the Bharata as his strength, a charger, and ye)bestow
 a King who quickly listens.
 
 
@@ -34737,8 +34626,7 @@ Who quickly listens ; to his people's prayers, S&yana explains srushtimdntam
 as sukhavantam, happy and prosperous. ;
 
 15 A hundred winters : a frequently occurring expression, ‘from which we
-might infer,’ says Dr. J. Muir, ‘that the Indians still retained some recollection of their having at one time ocaupied a colder country.’ See Original Sans-
-kvit Texts, II, 323. ———
+might infer,’ says Dr. J. Muir, ‘that the Indians still retained some recollection of their having at one time ocaupied a colder country.’ See Original Sanskvit Texts, II, 323. ———
 
 . ° B Youy Milch-kine : the rain-clouds,
 
@@ -35426,7 +35314,7 @@ For Varuna, whose form is Law, place offerings for his great
 delight.
 
 
-7 White Cows: the white clouds of early morning. <Archandnas:; the Rishi
+7 White Cows: the white clouds of early morning. (Archandnas:; the Rishi
 of the hymn, With your active feet: the literal translation of hastibhih pad-
 -bhih would be, with feet provided with hands: ‘ With rapid steeds.’—Wileon.
 See M. Bloomfield, Contributions to the Interpretation of the Veda, Second
@@ -35735,7 +35623,7 @@ flood,
 Advancing to be captured like a lion to the ambuscade.
 Frere nan me eteacikbee teenie habe dmmmeer thane cm en aie aed eaten eee aman
 7 Atri is brought to us again: see I. 112. 7.
-8 She who streams with sweetness: Vak, Vorr>s « S-". or our praise,
+8 She who streams with sweetness: Vak, Vorr)s « S-". or our praise,
 stutirasmathritd. ‘Our nutritious (adoration).” “oo. 7 seas: of air.
 
 
@@ -36059,8 +35947,7 @@ her child through the help of the Asvins and at Atri’s intercession, A connexi
 forced,
 
 
-1 Satyagravas; the Rishi of the hymn. Delightful with thy steeds: pleasant to those whom thou favourest on account of the horses which thou bestow-
-est. The word dgvusdnryite is variously rendered, ¢ g. by Professor Wilsch,
+1 Satyagravas; the Rishi of the hymn. Delightful with thy steeds: pleasant to those whom thou favourest on account of the horses which thou bestowest. The word dgvusdnryite is variously rendered, ¢ g. by Professor Wilsch,
 
 
 after Styana, ‘praised sincerely for (the gift of) horses ;’ by Prof. Ludwig, —
@@ -37026,7 +36913,7 @@ darkness.
 
 6 The great Impeller: Strya, the vivifying Sun.
 
-7 Sd chitra chited-r -hi44i644-> 18> * chitrakshatra chitrétamam vasodhim |
+7 Sd chitra chited-r -hi44i644-) 18) * chitrakshatra chitrétamam vasodhim |
 Chandram rayim j,i" cals + os. chandra chandribhir grinaté yuvasve.,
 
 
@@ -37440,7 +37327,7 @@ Herald of mankind, well-skilled in sacred rites,
 
 
 1 That mortal eats before the rest: ‘May the mortal...... quickly become
-distinguished as first (amongst men).’— Wilson. >
+distinguished as first (amongst men).’— Wilson. )
 
 
 2 Most skilled in ordering ; the chief regulator of religious rites,
@@ -37825,7 +37712,7 @@ thee.
 The Mighty One who brings us wealth and crushes down the
  Rakshasas.
 HYMN XVII. Indra,
-Drink Soma, Mighty One, for which, when lauded, thou brakest through the cattle-stall, O Indra; >
+Drink Soma, Mighty One, for which, when lauded, thou brakest through the cattle-stall, O Indra; )
 Thou who, O Bold One, armed with thunder smotest Vritra
 with might, and every hostile being.
 ‘2 Drink it thou God who art impetuous victor, Lord of our
@@ -39076,8 +38963,7 @@ uncertain. Sdyana explains the word by navydbhirnavatardbhih, ‘very new
 or young,’ and supplies vadavdbhih, ‘mares’ Professor. Roth thinks that
 ntvydbhth may be a substantive meaning ‘with garments,’ and Professor
 Grassmann translates ‘mit Gaben,’ ‘ with gifts,’ that is, presents carried in a
-mnivi or apron: With many heroes; puruvtdbhih again is an adjective without a substantive, in the same gender, number, and case as nivydbhih. Ac-
-cording to Sd4yana, it also qualifies wadavdbhip, ° with mares,’ understood,
+mnivi or apron: With many heroes; puruvtdbhih again is an adjective without a substantive, in the same gender, number, and case as nivydbhih. According to Sd4yana, it also qualifies wadavdbhip, ° with mares,’ understood,
 and means ‘having many colts.’
 
 
@@ -39970,7 +39856,7 @@ attack and smite him down,—
 From these, O Indra Maghavan who lovest song, be closest
 guardian of our lives. |
 11 And now, O Indra, strengthen us: come near and aid us in
-> the fight,
+) the fight,
 What time the feathered shafts are flying in the air, the
 arrows with their sharpened points.
 
@@ -41104,8 +40990,7 @@ Thou goest on an embassy to Sirya, subdued by love, desirous
 
 1 One holy: ‘venerable.’—~Wilson. This is apparently a euphemism for
 ‘dark, Pdshan is here regarded as the Sun present by day and even in his
-absence regulating the night also. According to Professor Ludwig, he is represented as the summer Sun and the winter Sun. Thou aidest: ‘thou exer-
-cisest.’—Muir.
+absence regulating the night also. According to Professor Ludwig, he is represented as the summer Sun and the winter Sun. Thou aidest: ‘thou exercisest.’—Muir.
 
 8 Subdued by love: of Siryd, the daughter of the Sun. See VI. 49, 8. Of
 the glory : of winning Surya for his bride.
@@ -41481,7 +41366,7 @@ Seats eR Re TBS
 
 
 Fre he Bags wi » ta Stags —
-a) ne < “4
+a) ne ( “4
 
 
 toe Ses
@@ -41547,7 +41432,7 @@ the firm-closed stall of cattle.
 7 The eunuch’s consort; Vadhrimati. See I, 116-13. Sayu : see I. 116. 22.
 
 9 Mitra and Varuna appear here-as~CGomprehended ina third God, who
-must be the Asura Dyaus. Hé>Gomprising the heaven of night as well as the
+must be the Asura Dyaus. Hé)Gomprising the heaven of night as well as the
 heaven of day, assigns to Mitra and Varuna the charge, respectively of day
 and night. See Ludwig’s Commentary.
 
@@ -41665,7 +41550,7 @@ of horses, appears in the text.
 1 Downs; the plural may be honorific, or may signify Dawn and her rays
 of light.
 
-38 Varrior > borne on a chariot.
+38 Varrior ) borne on a chariot.
 
 4 Through waters ; of the firmanent,
 
@@ -41724,7 +41609,7 @@ With-prayer and holy hymn they burst them open: the
 
 6 This stanza occurs in a ayy to Dawn ascribed to the Rishi Kakshivan:
 I. 124. 12. With store .* .” ° 77” 4. Senjoying or sharing food,’ fs
-explained by Sdyamna as +» +» * .°'s *«" > have to gain their sustenance.’
+explained by Sdyamna as +» +» * .°'s *«" ) have to gain their sustenance.’
 The wealthy may be meant, who share “titete store with others and must work
 to replenish it. The liberal mov tal: the man who sacrifices to the Gods, To
 bring out this meaning more clearly the last line may be translated: ‘To him
@@ -42151,7 +42036,7 @@ _ 3 Ye Hemispheres: dhishane ; two bowla, ‘ Firm-set,’—~Wi ;
 in the course of nature. ia tea oe as
 
 
->
+)
 
 
 He in his seed is born again and spreads by Law: from you
@@ -42504,8 +42389,7 @@ gtrengthened and adorned with metal of some kind. The Indians in the
 army of Xerxes are said by Herodotus to have worti ciara. aro EbAwy
 
 
-metomnpéva, clothes made out of the bark of trees (VII. 65); but he probably meant the common soldiers only, and not the chiefs. For a full des-
-cription of the arms, offensive and defensive, used in Vedic times, see Muir,
+metomnpéva, clothes made out of the bark of trees (VII. 65); but he probably meant the common soldiers only, and not the chiefs. For a full description of the arms, offensive and defensive, used in Vedic times, see Muir,
 O. 8, Texts, V. 469 ; Altindisches Leben, pp. 298—801; or Dutt’s History of
 Civilization in Ancient India, I. p. 88,
 
@@ -42558,8 +42442,7 @@ neglect. Agastya responds in stanza 3, and in the second half of
 stanza 4 the disciple or the poet briefly tells the result of the
 dialogue. Stanza 5 is supposed to be spoken by the disciple who
 has overheard the conversation, but its connexion with the rest of
-the hymn is not very apparent, In stanza 6 ‘toiling with strong endeavour’ is a paraphrase and not a translation of the original LAd-
-namdnah khanttrath (ligonibus fodiens) which Sayana explains by
+the hymn is not very apparent, In stanza 6 ‘toiling with strong endeavour’ is a paraphrase and not a translation of the original LAdnamdnah khanttrath (ligonibus fodiens) which Sayana explains by
 ‘obtaining the desired result by means of lauds and sacrifices.” .
 
 
@@ -43458,7 +43341,7 @@ and prayer. enor we
 12 Thou, Agni, givest hero fame; Bhaga and paviee the God,
 And Diti- give us what is good.
 
-13 Agni, preserve us from distress > consume our enemies, O Gods
+13 Agni, preserve us from distress ) consume our enemies, O Gods
 Eternal, with thy hottest flames.
 
 14 And, irresistible, be thou a mighty i iron fort to us,
@@ -43843,8 +43726,7 @@ himself a God.’ :
 21 Pardgara is said by one authority to have been the son, and by another the
 grandson of the Rishi Vasishtha. 9 duydéu is said'to be Sakti, Wasishtha’s son,
 
-22 Here begins the ddnastuti or praise qf the prince’s liberality. Patjavund: Sudds, descendint of Pijavana, Devavdgn’s descendant: Sudas, Deva-
-vin being either the same 9s Divod4sa, the father of Sudas or one of his
+22 Here begins the ddnastuti or praise qf the prince’s liberality. Patjavund: Sudds, descendint of Pijavana, Devavdgn’s descendant: Sudas, Devavin being either the same 9s Divod4sa, the father of Sudas or one of his
 forefathers. f
 
 24 Seven flowing Rivers glorify: the seven chief rivers of the Panj
@@ -43973,7 +43855,7 @@ upon thee and worship thee.
 
 5 dA Bull begut the Bull: ‘A vigorous (god) begot a vigorous (son).’~-Muir.
 The father of Indra is Kagyapa, according to Sayana ; but probably Dyaus is
-intended. <A strony Mother; Aditi. ;
+intended. (A strony Mother; Aditi. ;
 
 
 He who is Chief of men, their armies’ Leader, is a strong Hero,
@@ -44714,7 +44596,7 @@ stangas 1—6. ‘Von Roth (under the word av) regards Indra ag the speaker.
 May it not be Sudis?’—Muir, O. S. Texts, I. 319, 320, where stanzas 1—13
 are translated. rom the grass: the sacred grasa laid on the floor of the sacrificial chamber,
 
-2 Veto ty neh o> the name of a river. Pasadyumna ; another king who
+2 Veto ty neh o) the name of a river. Pasadyumna ; another king who
 
 
 e
@@ -45370,7 +45252,7 @@ borne on by spotted coursers, favour.
 2 Dealt from heaven; or, distributed by Dyu or Dyaua,
 
 
-HYMN 41, THE RIQVEDA. 45>
+HYMN 41, THE RIQVEDA. 45)
 
 
 Him, too, Sarasvati and Agni further, and there is none to rob
@@ -45598,8 +45480,7 @@ unto the bounds of heaven. Pe
 
 
 3 Dadhikrdoun: a lengthened form of Dadhikra4s. See IV. 39. 2, and 40.
-The ved, the brown ; apparently the horse of Varuna, that is. the Sun, is intended. Aver mindful: ‘who is mindful of his adorers.’~- Wilson. The mean-
-ng of the word mangchatéh, or mé@ischutéh, ig nncertain. Von Roth thinks
+The ved, the brown ; apparently the horse of Varuna, that is. the Sun, is intended. Aver mindful: ‘who is mindful of his adorers.’~- Wilson. The meanng of the word mangchatéh, or mé@ischutéh, ig nncertain. Von Roth thinks
 that a culour, dun or yellow, is meant. Ludwig would explain it as ‘ knotting
 snares or nooses.’ Grassmann translates it by, ‘des Mondverscheuchers,’
 ‘who scares away the Moon.’
@@ -45822,7 +45703,7 @@ _1 That which nests within and swells; ‘the insidious and spreading (poison)
 2 Twofold joints ; of the arms and legs. SAyana’s interpretation is differents
 ‘the poison which is generated in the manifold knots (of trees).’— Wilson.
 
-3 The Salmali: the silk-cotton tree. <All the Gods; or, tho All-Gods or
+3 The Salmali: the silk-cotton tree. (All the Gods; or, tho All-Gods or
 Visvedevas. — Se oe ;
 
 
@@ -46196,8 +46077,7 @@ explained in Max Miiller’s Vedic Hymns, I. (Sacred Books of the East, Vol.
 XXXII.)
 
 
-6 Give us of Amrtt: the secret essence which pervades the world and nourishes and sustains all must naturally also be the element that promotes re-
-production.—Ludwig. Von Roth explains the passage differently: ‘Add us to
+6 Give us of Amrtt: the secret essence which pervades the world and nourishes and sustains all must naturally also be the element that promotes reproduction.—Ludwig. Von Roth explains the passage differently: ‘Add us to
 (the number of) the people of eternity, 4. ¢. to the blessed.’ ‘ Vouchsafe our
 children long life,’—Grassmann. ‘Bestow water upon our progeny.’ Wilson,
 
@@ -46648,8 +46528,7 @@ fair celestial water.
 
 
 3 The second half of the stanza is obscure. The meaning appears to be
-that even our foes, the godless who offer no sacrifices, shall envy the prosperity which we enjoy through the liberality of Sudés, and shall wish to fol-
-low our example, to sacrifice to the Gods and to enjoy their protection and
+that even our foes, the godless who offer no sacrifices, shall envy the prosperity which we enjoy through the liberality of Sudés, and shall wish to follow our example, to sacrifice to the Gods and to enjoy their protection and
 the bleasings which they send. ;
 
 4 This car: this carefully-formed hymn which goes, like a charivt, to the
@@ -46669,7 +46548,7 @@ few original additions. Cf. VII. 63. 5; 66,7. 12; VI. 68. 8; VII, 62. 5; IIT,
 
 2 Axwuras of Gods: the high or ruling Gods of all the deities,
 
-8 Bonds: binders. Many nooses: ‘Your guiles, ye Holy Onos, to quell op>
+8 Bonds: binders. Many nooses: ‘Your guiles, ye Holy Onos, to quell op)
 pressors, your snares spread out against the foe, Adityas’ (II. 27, 16).
 
 
@@ -47395,8 +47274,8 @@ Same meaning as in VII. 75.1. But according to the Pada text and Siyana
 1t 18 an adjective agreeing with Ush&h (Dawn), and signifying beneficial,
 
 
-2 They > ‘the Dawns. For battle: supplied by Sayana.
-3 Best of Angirases > see VII. 75. 1,
+2 They ) ‘the Dawns. For battle: supplied by Sayana.
+3 Best of Angirases ) see VII. 75. 1,
 
 
 HYMN 81,J ‘THE RIGVEDA. 77
@@ -47791,7 +47670,7 @@ May it be well with ns in rest and labour. Preserve us evermore, ye Gods, with b
 1 The Star; the Sun,
 
 
-5 Like a thief who feeds the cattle > who has performed penance for his thett,
+5 Like a thief who feeds the cattle ) who has performed penance for his thett,
 and, at the cumpletion of the service, offered fodder to the stolen animal: ‘who
 has feasted on stolen cattle’—M. Miiller, But see Pischel, Vedische Studien, ©
 I. p. 106.
@@ -47978,7 +47857,7 @@ but net suitable to Varuna. Zremulons: Sayana adds sadtyena, with cold ;
 avd Prof. Wilson observes that ‘the Vurunu-pdga, a kind of dropsy, seems to
 be referred te.” Cf, Atharva-veda, IV. 16. 7.
 
-4 Thirst: avarice. In the midst of waterfloods> when surrounded by
+4 Thirst: avarice. In the midst of waterfloods) when surrounded by
 abundant wéalth. According to the Commentator, the allusion is to Vasishtha’s sea-voyage ; or perhaps the perpetual thirst of dropsy may be intended,
 
 
@@ -48175,7 +48054,7 @@ in war,
 
 3 The strong: the nobles who institute sacrifices.
 
-4 Their first possessor > each God who is invoked.
+4 Their first possessor ) each God who is invoked.
 
 5 Great hosts: ‘hosts’ must be supplied. The feminine dual adjectives
 have no substantive in the text. .
@@ -48689,8 +48568,7 @@ inspired.
 
 8 He ts sterile: sends no rain, like a barren cow that gives no milk.
 
-The Father's geniul flow; ‘The father is the sky, earth the mother, who rescives the rain from the former, which, producing the means of offering liba-
-tions and oblations, returns again to the parent heaven, ax well as supports his
+The Father's geniul flow; ‘The father is the sky, earth the mother, who rescives the rain from the former, which, producing the means of offering libations and oblations, returns again to the parent heaven, ax well as supports his
 effspring—all living creatures.’— Wilson,
 
 4 Three reservoirs: according to Sayana, clouds in the east, west, and north,
@@ -49259,8 +49137,7 @@ me thus. Yudu's son; Asanga, descendant of the ancient eponymous hero
 Yadu. See Vol. 1, Index. Rich in herds of kine: pasth whigh appears to be
 in apposition with yiidvah, is hardly intelligible here, Sdyana explains it as
 
-pasumdn, having beasts or cattle, or as a derivative of pas, to see, and meaning one who sees what is subtile, siitshmasya drashtd. Neither of these ex-
-planations has anything but Sayana’ y name to recommend it, but 1 adopt the
+pasumdn, having beasts or cattle, or as a derivative of pas, to see, and meaning one who sees what is subtile, siitshmasya drashtd. Neither of these explanations has anything but Sayana’ y name to recommend it, but 1 adopt the
 former as a makeshift,
 
 
@@ -49656,7 +49533,7 @@ urged by men to come.
 18 To gain the sacrifice: to ensure its proper performance and the blessings
 which flow from it.
 
-19 Mrigaya: seeIV.16.18. <Arbuda: see Vol. 1, Index.
+19 Mrigaya: seeIV.16.18. (Arbuda: see Vol. 1, Index.
 
 20 The Great Dragon: or Serpent, Ahi.
 
@@ -49915,7 +49792,7 @@ Come ye to this mine eulogy.
 Of Dasas, O Immortal Ones.
 32 With splendour, riches, and renown, O Agvins, hither come
 tO us,
-Nasatyas, shining brilliantly. =>
+Nasatyas, shining brilliantly. =)
 33 May dappled horses, steeds who fly with pinions, bring you
 : hitherward
 To people skilled in sacrifice.
@@ -51312,7 +51189,7 @@ as his consort,
 OR
 
 
-7 Priest; brakma, meantee, -++ce4te > +- “Ayana, greater than all. See VI.
+7 Priest; brakma, meantee, -++ce4te ) +- “Ayana, greater than all. See VI.
 45,7, ‘The Brahman who + +: stare! that is, Indra regarded as a
 priest. Rishi; according t. ‘0,0, ‘11. solder of all the Aryan race.’ ,
 
@@ -51469,8 +51346,7 @@ Rishis, according to Séyana.
 institutor of the sacrifice. According to Séyana who explains it as ‘lifting
 up the head or back like a serpent,’ or ‘to be propitiated, as a serpent is, with
 gems, charms, medicaments, etc.,’ it is an epithet of Indra; and the leader
-forward of Indra in the second line is the worshipper, understood. Gragsmann banishes the last three stanzas to his Appendix as not originally form-
-ing part of the hymn.
+forward of Indra in the second line is the worshipper, understood. Gragsmann banishes the last three stanzas to his Appendix as not originally forming part of the hymn.
 
 
 EY
@@ -52974,8 +52850,7 @@ resting in his band.
 1 Thirty Gods and Three: see I. 139. 11.
 
 
-' 2 Agnis; Agni in his various forms and under different names. With Consorts: with the Gnas, Celestial Dames, wives of the G8ds. Vashat/: the ex-
-clamation made when the oblation is offered,
+' 2 Agnis; Agni in his various forms and under different names. With Consorts: with the Gnas, Celestial Dames, wives of the G8ds. Vashat/: the exclamation made when the oblation is offered,
 
 
 4 No demon and no mortal man: or no mortal who presents no offerings
@@ -54551,8 +54426,7 @@ what worthy opponents he should have.
 
 5 Suvast, or, the Strong Dame; his mother Aditi, A stotely elephant: I
 follow Sayana who explains ¢psth as durgantyo gajah, a beautiful elephant,
-although in other places the word seems to mean beauty (I. 124 7), and forehead (V. 80, 6). The allusion is to the size and strength of Vritra, Indra’s fu-
-ture antagonist. °
+although in other places the word seems to mean beauty (I. 124 7), and forehead (V. 80, 6). The allusion is to the size and strength of Vritra, Indra’s future antagonist. °
 
 14 Astoa traficker: as to one who knows the value of our worship and
 oblations and will give us something in return,
@@ -54691,7 +54565,7 @@ then have I done, or left undone, that thou shouldst say that 177, akah.
 thee? See Ludwig’s Commentary on the very difficult ay ki
 
 
->
+)
 ¥
 ca
 
@@ -56688,7 +56562,7 @@ Tugra’s son.
 Waters ! no man is there who gives more hurses than Savishtha gives,
 
 
-HYMN LXIV. > Aga
+HYMN LXIV. ) Aga
 
 
 Yoxs, Agni, asa charioteer, thy steeds who best invite the Gods:
@@ -56958,7 +56832,7 @@ the clouds, and obtained food for men,
 7 One only: Iudra alone is the wielder of the thunderbolt,
 
 10 Ali these things: the buffaloes or dark clouds, and the rice and milk or
-fertilizing rain, “Slew: the verb is supplied by SAyana, The ravening boar >
+fertilizing rain, “Slew: the verb is supplied by SAyana, The ravening boar )
 Vritra, Cf. I. 61. 7, where the deed is similarly related, See Prof. A, A. Macdonell, Journal R, A. Society, 1895, p. 186.
 
 11 Which increase sweetness for him who drinks the sweet: this is Ludwig's
@@ -57913,8 +57787,7 @@ of person is not uncommon in the Veda.
 
 
 22 The wedded wives: of the Soma juices are said to be the two waters
-ealled vasativaryah and ekudhandh, used in the Soma ceremonies. To enjoyment: to be drunk by Indra. Zo waters speeds the restless one: or, with Graas-
-mann, ‘The lover of the waters speeds.’ The exact meaning of nichumpundh
+ealled vasativaryah and ekudhandh, used in the Soma ceremonies. To enjoyment: to be drunk by Indra. Zo waters speeds the restless one: or, with Graasmann, ‘The lover of the waters speeds.’ The exact meaning of nichumpundh
 is uncertain, Yaska deriving it from cham, to eat, and Mabidhara from chup,
 to creep or move slowly. The meaning of the sentence i is, according to the
 Scholiast, that, at the time of the concluding purificatory ceremony which is
@@ -58840,7 +58713,7 @@ A pleasant aspect like the Sun.’
 19 As Prayoga, the Rishi of the hymn, has no cow and no’ axe to ent wood,
 Agniis asked in this anc the two following stauzas to dispense with the customary offerings of milk, and to accept such wood as the worshipper can pick up.
 
-22 With his heart >a devout spirit will compensate the want of milk and
+22 With his heart )a devout spirit will compensate the want of milk and
 properly prepared fuel.
 
 
@@ -59635,7 +59508,7 @@ is used as a filter or strainer. See Muir, O. 8. Zexts, V. 248 sqq., Hillebrandt
 Vedische Mythologie, I, 885 syq., and Max Miiller, Chips, [V. 853-—-367. But cf.
 Oldenberg, Reliyion des Vedu, 599—612.
 
-1 Flow pure: pavusva >‘ purify thyself. ~-Ludwig.
+1 Flow pure: pavusva )‘ purify thyself. ~-Ludwig.
 
 2 With the wood: some wooden vessel or implement. perhaps the sruva or
 dipping-spoon. Jron-fushioned home: receptacle that has been hammered or
@@ -60349,8 +60222,7 @@ a I
 8 With a roar: makirg a loud noise in droppiug.
 
 1 On the river's wave: in the vasativart waters, which are used to sprinkle
-the stalks Bearing the hymn ; Prof. Gelduer explains this as meaning, ‘ Bearing away the much coveted prize,’ Soma being regarded as a courser or race-
-horse, See Vedisehe Studien, 1., p. 120.
+the stalks Bearing the hymn ; Prof. Gelduer explains this as meaning, ‘ Bearing away the much coveted prize,’ Soma being regarded as a courser or racehorse, See Vedisehe Studien, 1., p. 120.
 
 2 Five kindred Companies : vefterriug, probably, to some sacrifice instituted
 in common by representatives of the five Aryan tribes,
@@ -61256,7 +61128,7 @@ Turned to the vat that drops with meath.
 
 
 5 JR - WM pte -* saonifice : the Soma-plant contains within itself the
-chief -. © * “> i’. ,. and the preparation of the juice is only the development of its nature.—Ludwig.
+chief -. © * “) i’. ,. and the preparation of the juice is only the development of its nature.—Ludwig.
 
 2 The sea: the reservoir of Soma juice.
 
@@ -61271,8 +61143,7 @@ t
 
 1 To the goal: kérshman: apparently, a line or furrow drawn across the
 end of the race-course. In I. 116. 17, S&iyana explains kdrshman as a piece
-of wood serving asa goal, but in this place he takesit to mean, ‘the Gedattracting battle-field called a sacrifice, devdndmdkarshanavati yajndkhye sang-
-rdme. See Cowell’s note in Wilson's Translation,
+of wood serving asa goal, but in this place he takesit to mean, ‘the Gedattracting battle-field called a sacrifice, devdndmdkarshanavati yajndkhye sangrdme. See Cowell’s note in Wilson's Translation,
 
 2 The vat; the dronakalaga,
 
@@ -61553,7 +61424,7 @@ Flows purely on, a God for Gods.
 
 
 For him victorious, waxen great, the juices with a thousand
-powers >
+powers )
 
 Are purified for winning spoil.
 
@@ -63374,7 +63245,7 @@ worthless and mischieva@us like a mole, Sfiiyana’s interpretation is different
 hymns; the hymus in this ‘Book dedicated ea ne purifieation of the Soma
 
 
-juice. By Mdtarisvan's touch: ‘S*-r-> a ro w/o means Vdyu because
+juice. By Mdtarisvan's touch: ‘S*-r-) a ro w/o means Vdyu because
 it breathes in the atmosphere « +". '; ,f:' odis sweetened and
 purified by the purifying wind and the man sats it.—Wilson. Matarisvan
 ‘probably represents Agni. ame
@@ -63613,7 +63484,7 @@ Acceptable to Mitra, Vayu, Varuna, he is prepared as threefold meath by skilful 
 Indvra’s heart, the Soma’s reservoir.
 
 
-> *
+) *
 Bear us beyond misfortune ere we be oppressed: the man who
 knows the land directs the man who asks.
 
@@ -63903,9 +63774,9 @@ Rudra, according to S4yana. But see Vedische Studien, I. pp. 55, 56.
 within his heart and combines in hig own being are Agni, Vayu, Stirya, the
 purifying powers of fire, wind, and sun.
 
-9 On Varuna’s t-7 p07 t+ +h> Vasativart waters in which Soma dwells
+9 On Varuna’s t-7 p07 t+ +h) Vasativart waters in which Soma dwells
 (vasati) stand on th 5 Ua (41 Stora. He who hath not this
-power; ‘he who is incompetent for th-" <0 Nor.”
+power; ‘he who is incompetent for th-" (0 Nor.”
 
 
 1 In the wood; in the wooden vat. According to Sayana, ‘in the water,’
@@ -64224,7 +64095,7 @@ sale on au oxhide.’—Sdyana. _—
 
 1 The roaring of Brihuspati: that is, says SAyana, the voice or praise of
 the worshipper. Agni may be intended, as Ludwig suggests. The dukes: or
-seas (samu7-?:-> ' ~--'-'' the Soma-reservoirs. Sfyana takes n& as a
+seas (samu7-?:-) ' ~--'-'' the Soma-reservoirs. Sfyana takes n& as a
 particle of ..::, “. '.: ‘U. libations cover (the earth) like rivers,’— Wilson,
 
 
@@ -64992,7 +64863,7 @@ the stolen cattle,—Sayana. Or the cattle or cows may be the milk with which
 Soma is mixed,
 
 
-eee <> a
+eee () a
 
 
 2 Like a capacious car hath it been harnessed, the Mighty, to
@@ -65647,8 +65518,7 @@ singing, to the places.
 Sa NN eS el Sein a vl ey
 _ 1 Orgent zeal and impulse: heménd, by impulse (from the root Ai) is said
 by Séyana to mean ‘by gold,’ that is, by the gold-adorned hand of the priest.
-Measured sects supplied with cattle: ‘the halls prepared (for sacrifice) containing victims,’—Wilson. Singing: the sound of the fowing juice is comm-
-pared to the priest’s recitation of sacred texts.
+Measured sects supplied with cattle: ‘the halls prepared (for sacrifice) containing victims,’—Wilson. Singing: the sound of the fowing juice is commpared to the priest’s recitation of sacred texts.
 7 The God: Soma, who has been called the Father of the Gods. Like
 sand: the sound of the flowing and dropping Soma juice is Hkened to the
 song of the famous sage and sacred poet. Zhe Boar; strong, swift Soma.
@@ -67135,7 +67005,7 @@ _ Flow, Indu, flow for Indra’s sake, —-
 HY : V Soma Pavaména,
 
 
-Taz man who walketh-«<s* the Laws of Indu PavamAéna bid,—~
+Taz man who walketh-«(s* the Laws of Indu PavamAéna bid,—~
 Ven call him rigiti children, him, O Soma, who hath met thy
 thought, Flow, Indu, fow for Indra’s sake.
 2 Kasyapa, Rishi, lifting up thy voice with hymn-composers’ lauds,
@@ -67586,7 +67456,7 @@ bounteous gifts, with cattle and with horses.
 3 The exact meaning of the second line is unéextain :—‘and in whom (the
 
 
-sacrificer), whose sacrifice is undisturbed by his foes>throws his choice oblation.’— Wilson. a
+sacrificer), whose sacrifice is undisturbed by his foes)throws his choice oblation.’— Wilson. a
 § At dawn: with Grassmann I take usrifm here to bea ee. SAyana
 explains it as bhogdndm utardvinam, the bestower of enjoyments. According to
 JT (tert) oo» otation, the translation of the first line would be: OWittsangs
@@ -67956,7 +67826,7 @@ actions.
 take it upon myself, and let not Yama’s life be shortened by way of punishment. The kindred Pair: Day and Night.
 
 
-10 Yama replies. ‘Make thine arm a pillow.”>— Wilson. ©
+10 Yama replies. ‘Make thine arm a pillow.”)— Wilson. ©
 
 
 11 Yami speaks. Destruction ;: Nirriti ; the utter extinction of the human
@@ -68356,7 +68226,7 @@ food, God Varuna and Yama.
 
 8 Meet Yama, meet the Fathers, meet the merit of free or ordered acts, in highest heaven.
 Leave sin and evil, seek anew thy dwelling, and bright with
-glory wear another body. >
+glory wear another body. )
 
 
 9 Go hence, depart ye, fly in all directions: this place for him
@@ -68734,7 +68604,7 @@ is, offerings to’ the kavis, sages, or Fathers.
 
 12 Tree: Agni; the fire.
 
-18 Water-lily: kiyd@mbu: some kir3 +f srvuatt> rink. Tender grass: ”
+18 Water-lily: kiyd@mbu: some kir3 +f srvuatt) rink. Tender grass: ”
 
 
 ‘phhaddrvd : a variety of ddrvd grass ivicu’ Tracy’.
@@ -68928,7 +68798,7 @@ ie
 ey,
 
 
-1 Death: Mrityu, the God of Death ; distinct from Yama the judge and>.
+1 Death: Mrityu, the God of Death ; distinct from Yama the judge and).
 ruler of the departed. Our offspring: prajiim: meanivy here, says Sdyana,
 female offspring, duhitridauhitrdimikdm, in the form of daughters and their
 daughters. Our heroes: sons and their sons.—SAyana.
@@ -70289,8 +70159,7 @@ little to tell us, and passes on at once to the third. The sun is identified
 with the bull, Agni of the sacrifice, and the earth with the lower rubbingstiek anointed with ghee, which is licked up [‘devours* instead of ‘cast
 up’ ] as soon as fire is struck.’ ~Wallis, Cosmology of the Rigveda, pp 47, 48.
 
-Ji This stanza appears to have no connexion with the hymn, and is inexplicable as it stands here. See I. 117. 8, where the son of N rishad is men-
-tioned as a favourite of the Asvins,
+Ji This stanza appears to have no connexion with the hymn, and is inexplicable as it stands here. See I. 117. 8, where the son of N rishad is mentioned as a favourite of the Asvins,
 
 
 | HYMN 82.) | THE RIGVEDA. 407
@@ -70574,7 +70443,7 @@ Savitar himself hath told me.
 14 Make me your friend : show us some little mercy. Assail us
 not with your terrific fierceness.
 Appeased be your malignity and anger, and let the brown
-dice suare some other captive. >
+dice suare some other captive. )
 
 
 HYMN XXXY. Visvedevas.
@@ -70729,7 +70598,7 @@ this gracious favour of the Gods to-day.
 
 
 a ee ee
-14 Who fears no danger > who feels assured that his-Worship of the Gods
+14 Who fears no danger ) who feels assured that his-Worship of the Gods
 will protect him.
 
 
@@ -71721,8 +71590,7 @@ of Trita.’—Wilson. Mdatarigvan and Dadhyach: or, according to S&yana,
 
 5 Ye, Pdrus: ‘O men.’—Wilson.
 
-6 These: who these were is uncertain. Zwoand two: probably the warrior who fights ou the chariot and the charioteer.—Ludwig. The literal trans-
-lation of the last half-line of the stanza appears to be :——‘ the non-worshipper
+6 These: who these were is uncertain. Zwoand two: probably the warrior who fights ou the chariot and the charioteer.—Ludwig. The literal translation of the last half-line of the stanza appears to be :——‘ the non-worshipper
 speaking firm words to worshippers ; dnamasyuh, he who has no other to reverence, being Indra, whose promise of victory to his worshippers is never
 broken.’-——-Ludwig.
 
@@ -72286,8 +72154,7 @@ juice. Cf. I. 20. 6; 110. 3.
 11 The first line ig obscure. ‘(The Maruts) placed a female in the enveloping hide (of adead cow), and acalfin the mouth (of a dead cow),’—Wilson,
 According to this interpretation the miracle ascribed to them would somewhat
 resemble that mentioned in I. 110.8. See Bergaigne, La Religion Védique,
-II, 27. The first half of the second line is hard to construe. Wilson paraphrases the line :—‘ daily the generous (fraternity of the Ribhus) offers suita-
-ble praises (to the gods), granting victory over our foes,’ Prof, Geldner takes
+II, 27. The first half of the second line is hard to construe. Wilson paraphrases the line :—‘ daily the generous (fraternity of the Ribhus) offers suitable praises (to the gods), granting victory over our foes,’ Prof, Geldner takes
 kava, against the Pada text, as a locative, and renders the last half-line to
 the following effect :—‘ ‘May he (the sacrificer), when he wishes to win, gain
 the victory in the race.’
@@ -73018,10 +72885,9 @@ May he enrich us for our prayers and praises : now can the cow
 29 He: Agni. ZLwo paths: from earth to heaven and from heaven to earth,
 
 
-91 The reference in the first ’-> i+. sy --~e~+'y. 4o the imprisoned cows and
+91 The reference in the first ’-) i+. sy --~e~+'y. 4o the imprisoned cows and
 Sarama (see stanza 10); butall :: 2. ot)! allusivns in this hymn are
-more or less conjectural. Ludwig thinks that the reference may be to the actual milking of the sacrificial cows at the ceremony which this hymn aecompa-
-nied, Wilson translates :—‘'The words of a desirable praise. ofa certain tranquil person (Nabhanedishtha), attain the prototype (Indra)'’ Asvaghna: pro-
+more or less conjectural. Ludwig thinks that the reference may be to the actual milking of the sacrificial cows at the ceremony which this hymn aecompanied, Wilson translates :—‘'The words of a desirable praise. ofa certain tranquil person (Nabhanedishtha), attain the prototype (Indra)'’ Asvaghna: pro-
 ee y the patronymic of Vitarana.—Ludwig. See note on Vaitarana in stauza
 
 23 He: Asvaghna Vitarana, Ye Pair of Kings: Mitra and Varuna.
@@ -73990,7 +73856,7 @@ them with a willing spir~
 
 
 contains the Friely Natures. ; ;
-Ye Two Chief P»<Sts who serve at this our worship, may ye,
+Ye Two Chief P»(Sts who serve at this our worship, may ye,
 
 
 more skille2 Win for us rich possessions.
@@ -74072,8 +73938,7 @@ retains the blessea *ign imprinted.
 meaning, may Tia and the others taste, Man-like: as at the sacrifice of Manu,
 according to Sayana.
 
-9 Grant us the Gods’ assembly: the Com-ontators explain p#thas sometimes as ‘ place,’ sometimes as ‘food or ‘air’ u. ‘water. Here Wilson, follow-
-ing SAdyana, translates :—‘ offer the food of the B45 ite them),’ ;
+9 Grant us the Gods’ assembly: the Com-ontators explain p#thas sometimes as ‘ place,’ sometimes as ‘food or ‘air’ u. ‘water. Here Wilson, following SAdyana, translates :—‘ offer the food of the B45 ite them),’ ;
 
 10 Binding with thy cord: it is not clear what is Sa bie Waune or ranged
 in order, According to Sayana, the pathas, which u. explains as sete
@@ -74490,7 +74355,7 @@ seven and seven......in three courses.,—M. Miiller.
 mentioned, indirectly, in only one other verse of the Rigveda, and even there,
 the word is said by some to be the name of a woman, See VI. 45. 31.
 Yomund: fhe Jumna. Suéudri: the Sutlej or Satlaj. Parushnt: the Ravt :
-Sarasvati : see VI. 61.2. <Asiknt; the ancient Acesines: the Vedic name of
+Sarasvati : see VI. 61.2. (Asiknt; the ancient Acesines: the Vedic name of
 the Chandrabhag&. thy ----e 4. Witased: probably the Jhelum, the
 Bydaspes of the, ss fee, fo meaning, increased by the Maruts :
 not identified. Aytktyd and Sushomd are said by Yiska to be the Vipas and
@@ -74903,7 +74768,7 @@ travel.
 Visvakarman, the Omnific, is represented in this hymn as the universal
 Father and Generator, the Creator of all things and Architect of the worlds.
 
-1 17) 4hi- v9 tt? -~ > = yarded as being contained in the offerings presented
+1 17) 4hi- v9 tt? -~ ) = yarded as being contained in the offerings presented
 by} sveyev at... 1). Ais wish; through his desire to create. Archetypal: the meaniny *f vet ~--~-* 227 Gs uncertain, In Wilson’s Translation
 ‘inventor’ isa. of ',' that is, ‘first investing Agni with the
 worlds,’ according to Sdyana’s explanation. ‘First appearing.’—Ludwig,
@@ -75226,8 +75091,7 @@ her Lord.
 
 
 The main subject of this composite hymn, which is one of the latest in the
-Rigveda, is the ceremony of marriage in general and more especially the wedding of Stirya, the Daughter of the Sun, another form of Dawn, who is re-
-garded as the typical ‘bride.
+Rigveda, is the ceremony of marriage in general and more especially the wedding of Stirya, the Daughter of the Sun, another form of Dawn, who is regarded as the typical ‘bride.
 
 1 Yruth: or reality ; sétyam, used interchangeably with ritam, the Law .
 and Order of the universe.
@@ -75251,7 +75115,7 @@ Gods drink during the waning of the Moon. O God; Soma, the Moon.
 subject of 6—17, Raibht, Ndrdsanst, and Gdthd are ritual verse, eulogistic
 hymn, and non-Vedic song personified.
 
-4 Treasury; késah > meaning, probably, trousseau or bridal outfit. According to some the box or body of the chariot is intended.
+4 Treasury; késah ) meaning, probably, trousseau or bridal outfit. According to some the box or body of the chariot is intended.
 
 
 502 THE HYMNS OF ‘[LBOOR xX.
@@ -76101,7 +75965,7 @@ the upper fire is Vayu and the lower is terrestrial Agni. Who will sane
 it?; Agni alone will make the sacrifice knuwn to the Gods,
 
 
-<n “3. a
+(n “3. a
 es a Vea LF-
 a :
 
@@ -77278,7 +77142,7 @@ bear his Bay Steeds safely over all distress.
 9 His yellovycoloured jaws, like ladles, move apart, what time,
 for strength, he makes the yellow-tinted stir,
 
-When, <rhile the bow] stands there, he grooms his Tawny
+When, (rhile the bow] stands there, he grooms his Tawny
 Steeds, when he hath drunk strong drink, the sweet juice
 that he loves.
 
@@ -77557,7 +77421,7 @@ a mighty flood of waters.
 foe see coe
 
 
-“A > 2 - -
+“A ) 2 - -
 Arshtishena: patronymic, son of Rishtishena ; Devaépi.
 Chief priest : or family or household priest ; Purohita.
 
@@ -77964,16 +77828,14 @@ stolen except an ald ox which he harnessed to his wagon and went in pursuit
 of the robbers. He threw his club or mace before him, which showed him the
 way to the thieves, and thua recovered his property.
 
-__ 1 For thee: O Mudgala, That works on either side: mithdkrttam : according to Sayana=asahdyum, ‘that has no companion.’ The meaning is uncer-
-tain. ; ,
+__ 1 For thee: O Mudgala, That works on either side: mithdkrttam : according to Sayana=asahdyum, ‘that has no companion.’ The meaning is uncertain. ; ,
 
 2 Mudgalant : Mudgala’s wife. Jndra’s dart: sped swiftly on her way by
 ndra.
 
 3 This stanza seems to be an interpolation.
 
-4 The bull : apparently one of the buffaloes which drew the chariot of Mudgalént’s chief opponent. Had drunk: just before the fight began. ncoun-
-tered an opponent > meaning, perhaps, that feeling uneasy he hung his head
+4 The bull : apparently one of the buffaloes which drew the chariot of Mudgalént’s chief opponent. Had drunk: just before the fight began. ncountered an opponent ) meaning, perhaps, that feeling uneasy he hung his head
 and struck the ground with his horns. ‘He cleft the mountain peak, he went
 against the enemy. ’-~ Wilson,
 
@@ -78043,7 +77905,7 @@ tory, the King had thrown down his mace-upon the field of batile.—Ludwig.
 germ of that part of the legend which mentions the club thrown in front of
 the chariot to point out the way that the robbers had taken.
 
-11 Like one forsaken: parivriktéy:. ‘Av~. +-*'t Mudgaléni was a parivrikté [a wife lightly esteemed in: + > -. 1 the favourite wife} who
+11 Like one forsaken: parivriktéy:. ‘Av~. +-*'t Mudgaléni was a parivrikté [a wife lightly esteemed in: + ) -. 1 the favourite wife} who
 made amends for her sterility by driving her husband’s chariot to battle and
 bringing bim back victorious, with the booty which she had helped him to
 gain instead of the children that she had not borne him.’— Ludwig. 2
@@ -78436,8 +78298,7 @@ bestowed the sacrificial Guerdon.
 ie.
 
 
-The hymn eulogizes Dakshina, the largess, guerdon, or honorarium presented by the institutors of the sacrifices to the priests who perform the cere-
-monies. The yajamdnas who give this guerdon liberally are alternatively
+The hymn eulogizes Dakshina, the largess, guerdon, or honorarium presented by the institutors of the sacrifices to the priests who perform the ceremonies. The yajamdnas who give this guerdon liberally are alternatively
 the deified subjects of the hymn.
 
 
@@ -78914,7 +78775,7 @@ the right of being first invoked.
 8 Then all the Gods extolled, with eloquence inspired by draughts
 of Soma juice, thy deeds of manly might.
 As Agni eats the dry food with his teeth, he ate Vritra, the
-Dragon, maimed by Indra’s deadly dart. >
+Dragon, maimed by Indra’s deadly dart. )
 
 
 9 Proclaim his many friendships, met with friendship, made
@@ -79296,7 +79157,7 @@ eae
 
 
 6 Shell be hig ruin: with reference to stanza {.
-> Active exertion ia neceasary for success. The speaking Brak .
+) Active exertion ia neceasary for success. The speaking Brak .
 priest who duly discharges the task of recitation (on bien he ee ' a
 ‘A Brahman expounding (the Veda).’~- Wilson. ene
 8 The victory is not always theirs who appear to be more richly e'
@@ -79455,7 +79316,7 @@ universe, sacle
 the correct reading. See Grassmann, Wérterbuch zum Rigveda, The dbreathing and the breathless : the animate and the inanimate world.
 
 3 Mental vigour: krétum: ‘adoration.’—Wilson. These: Soma juices:
-Pwice or thivace > with reference, perhaps, to the three daily libations, Whaé
+Pwice or thivace ) with reference, perhaps, to the three daily libations, Whaé
 
 
 Blend what is sweeter than the sweet with sweetness: win
@@ -79586,7 +79447,7 @@ Worship we Ka the God with our oblation.’ According to Ludwig, the meaning is 
 
 literally; “ of quadruped and biped.’ '
 7 4 Sea: air. Rast: the mythical river of the firmament, - Cf, X. 108. 1.
-> 7 Thence: from the coming of the waters. One apirit.; ékah, one, in the
+) 7 Thence: from the coming of the waters. One apirit.; ékah, one, in the
 
 
 ’ text gives two au perfluous syllables, and is suspicious,
@@ -79870,8 +79731,7 @@ chief priests, according to Sayana. The ..° 0 0.00 2 1) certain
 
 2 Avni speaks. He has left Varuna, .sie Ht + day ein Deity, whose
 power was waning, aud associated himsei witu indra woo nag superseded
-that God. From the godless: from Varun who in the decline of his aypremacy has neglected Agni aud sacrifice. Sayana interprets the first line dif-
-ferently :-~‘ From being no divinity I issue a divinity from the cave at the
+that God. From the godless: from Varun who in the decline of his aypremacy has neglected Agni aud sacrifice. Sayana interprets the first line differently :-~‘ From being no divinity I issue a divinity from the cave at the
 solicitation (of the gods), and being manifest I attain immortality,’— Wilson.
 Seek the kin of strangers : come tobe born and domesticated iu.a new place,
 with Indra,
@@ -80220,11 +80080,11 @@ ar
 r reg praying for assiatance ia about
 dertake a Digui neh cents oh
 beep guyaya, the subjugation of all neighbouring countries in al}
-3 Divine Invokers > the H otar-priests of th
+3 Divine Invokers ) the H otar-priests of th
 Bere, he Gods.
 ak y may my invokers of the gods be the first ¢
 5 Siz divine Repanses : the four cardinal
-> Sia di : oints and
+) Sia di : oints and
 or, according to Sayana, Heaven, Earth, Day, Night, :
 
 
@@ -82166,7 +82026,7 @@ ny aE a,
 eae ee a ae ese
 
 
-<a
+(a
 
 
 Soars
@@ -82676,8 +82536,7 @@ the giver of fuel, and the giver of food, he, the upholder
 
 The whole passage is difficult and obscure, and stanza 9 is unintelligible.
 With regard to the myth of Prajapati and. his daughter, Prof. Max Miillet
-says :—‘ When Kuméarila is hard pressed by his opponents about the immoralities of his gods, he answers with all the freedom of a comparative my-
-thologist: “It is fabled that Prajapati, the Lord of Creation, did violence to
+says :—‘ When Kuméarila is hard pressed by his opponents about the immoralities of his gods, he answers with all the freedom of a comparative mythologist: “It is fabled that Prajapati, the Lord of Creation, did violence to
 his daughter. But what does it mean? Prajépati, the Lord of Creation, is
 a name of the sun, and he is called go, because be protects all creatures.
 His daughter Ushas is the dawn. And when itis said that he was in love
@@ -84473,7 +84332,7 @@ delights speech ; he confers speech on the sacrificer. He says the offering vers
 well as the derivate ‘say the Apris’. For offering to Tanfinap&t as the second of
 the verses see ACS, iii. 2. 5 seg. ; OCS. v.16. the eleven fore-offerings ; see ACS. i. 5.
 5-7. Cf. KB. x. 8, and for §§ 1 and 4 CB. 21; Weber, Ind. Stud. x. 88 seg.
-iii, 8.1.2; ix. 2. 8.44. Cf. also Schwab, ° Cf. RV. x. 180. 1; Wackernagel, <Altind.
+iii, 8.1.2; ix. 2. 8.44. Cf. also Schwab, ° Cf. RV. x. 180. 1; Wackernagel, (Altind.
 Das altindische Thieropfer, pp. 90-92; Max Gramm. i. 175, 274; Oldenberg, Rgveda-
 Miller, Anc. Sansk, Lit. pp. 468 seg. Noten, ii, 865.
 
@@ -84709,7 +84568,7 @@ For the gen. dikgitasya of. KCS. xxv. 8. 16;
 TB. i. 8. 2.7; KS. xiv. 5; JUB. i. 67. 1.
 
 
-> RV. i. 98.6; see AGS. i. 6. 1 ad fin.
+) RV. i. 98.6; see AGS. i. 6. 1 ad fin.
 
 4 RV. iii. 64. 22; see AQS. iii. 5. 9. CE.
 Schwab, Das altindische Thieropfer, p. 188.
@@ -85846,7 +85705,7 @@ verily thus he creates speech, he makes speech perfect. ‘Do thou aid us,
 O Brahman’ he recites*; the holy power is the ear, for by the ear the holy
 power hears, in the ear does the holy power find support ; verily thus he
 creates the ear, he makes the ear perfect. ‘He is the holder, the sage, of
-them’ he recites;> the holder is inspiration, for expiration here is
+them’ he recites;) the holder is inspiration, for expiration here is
 restrained by inspiration and departs not; verily thus he creates inspiration, he makes inspiration perfect. ‘The righteous, of whom the two
 worlds’ he recites;® the right is the eye; therefore when two contend,
 whichever says ‘I actually have seen it with my eye,’ him men believe; verily
@@ -87253,8 +87112,7 @@ is the year ; the year has twenty-four half-months; there are twenty-four
 Stotras and Castras in the Agnistoma. s in the ocean all streams, so in
 it all the sacrificial rites are resolved.
 
-iil. 40 (xiv. 2). The consecration offering! is performed; all those offerings after it verily are resolved in the Agnistoma. He invokes the sacri-
-ficial food ; the sacrifices of cooked (food) have the form of the sacrificial
+iil. 40 (xiv. 2). The consecration offering! is performed; all those offerings after it verily are resolved in the Agnistoma. He invokes the sacrificial food ; the sacrifices of cooked (food) have the form of the sacrificial
 food ; all the sacrifices of cooked (food) are resolved in the Agnistoma. At
 evening and morning they offer the Agnihotra ; evening and morning they
 gave the fast (milk); with the call of Hail! they offer the Agnihotra ;
@@ -87463,8 +87321,7 @@ iti, 45—] The Soma Sacrifice [194
 
 
 wives (of the gods). Therefore now also in the consecration offering they
-perform the sacrifice right up to the end, they also perform the joint offerings to the wives. According to this rule did they proceed. They per-
-formed the introductory (offering) ; to him with the introductory (offering)
+perform the sacrifice right up to the end, they also perform the joint offerings to the wives. According to this rule did they proceed. They performed the introductory (offering) ; to him with the introductory (offering)
 they came nearer; they hastened with the performance. They made it end
 in the Camyu. Therefore now also the introductory (offering) ends in the
 Carnyu. According to this rule did they proceed. They performed the
@@ -88411,7 +88268,7 @@ viii. 6. 7, 8; contrast COS. xi. 18. 24. mode of recitation see AQS. viii. 2, 18
 “ The same verses as in n.8 are used according half-verses, then by three Padas, then by
 to Séyana and ACS. viii. 6. 22; QQS. xi. the whole verse, and then in descending
 18. 28. order. Cf. OOS. xi. 14. 18; xii. 11. 12.
-> See AQS. viii. 6.8; RV. iii. 37. 5-10. The recitation of the Tarksya takes place
+) See AQS. viii. 6.8; RV. iii. 37. 5-10. The recitation of the Tarksya takes place
 
 
 ¢ I. e. RV. i. 81 is to be divided either after at the end of the Niskevalya.
@@ -88870,7 +88727,7 @@ the same.
 
 * RV. v. 82. 1-Band4-6; ACS.v. 18.5; GOS. * Rv. x. 66; AQS. vii. 5. 28.
 viii. 8. 8. " RY. iii. 8; AGS. v. 20. 6 ; CQS. viii. 6. 2.
-> RV. v. 8.1; AQS. vii. 5.28; O9S.x.2.7. © RV. i. 87; AQS. v. 20.6; OOS, viii. 6. 4.
+) RV. v. 8.1; AQS. vii. 5.28; O9S.x.2.7. © RV. i. 87; AQS. v. 20.6; OOS, viii. 6. 4.
 * RV. i. 159; AQS. v. 18.5; QQS. viii. 8.11. % RV. i. 99.1; AQS. vii. 1. 14.
 5 RV. iii, 60; AQS. vii. 5. 28 (tt catasrah); 1° RV. t. 148; ACS. v. 20.6; OQS. viii. 6. 6.
 COS. x. 3. 7.
@@ -89069,8 +88926,7 @@ Usnih verses ; that which has similar endings on the third day is a symbol
 of the third day. ‘It for great gain’ and ‘Three Soma draughts for Indra’
 are the strophe and antistrophe of the Marutvatiya*; that which has
 alliteration and contains (the word) ‘ three’ on the third day is a symbol of
-the third day. ‘O Indra come hither’ is the normal Pragaitha‘. ‘Forward now Brahmanaspati’ is (the Pragatha) to Brahmanaspati® ; as con-
-taining an alliteration on the third day it is a symbol of the third day.
+the third day. ‘O Indra come hither’ is the normal Pragaitha‘. ‘Forward now Brahmanaspati’ is (the Pragatha) to Brahmanaspati® ; as containing an alliteration on the third day it is a symbol of the third day.
 ‘Agni, the leader’, ‘Thou, O Soma, with inspiration’, ‘They swell the
 waters’ are the normal inserted verses. ‘No one hath surpassed the chariot
 of Sudas, nor caused it to pause’ is the Marutvatiya Pragatha’ ; as containing (the word) ‘ surpass’ at the third pressing, it is a symbol of the third
@@ -91379,7 +91235,7 @@ Prasthita libations ? verses manifestly addressed to Indra. Some use verses
 containing (the words) ‘penetrate towards’. The Hotr® uses as offering
 verse ‘Drink the Soma towards which O dread one thou hast penetrated ’.
 The Maitravaruna ‘ uses as offering verse ‘ Drink it, thou that art impetuous,
-penetrating’. The Brahmanacchahsin > uses as offering verses ‘ Do thou
+penetrating’. The Brahmanacchahsin ) uses as offering verses ‘ Do thou
 drink as of old ; let it delight thee’. The Potr ® uses as offering verse ‘Come
 hither ; Soma lover they call thee’, The Nestr™ uses as offering verse
 ‘Thine is this Soma; do thou come hither’. The Achavaka® uses as offering verse ‘For Indra the Soma draughts found aforetime’. The Agnidh °®
@@ -91505,8 +91361,7 @@ Achavaka? Or not?’ ‘There is’ he should reply. In that the Adhvaryu
 says to him, ‘O Achavaka, say what is to be said by you’, this is the choice
 of him. Further he says ‘Seeing that at the third pressing the Maitravaruna recites (a litany) to Indra and Varuna, then why are the strophe
 and antistrophe addressed to Agni?’ With Agni as their head the gods
-smote away the Asuras from the litanies; therefore its strophe and antistrophe are addressed to Agni.® Further he says ‘Seeing that the Brahmani-
-echansin recites (a litany) to Indra and Brhaspati at the third pressing,
+smote away the Asuras from the litanies; therefore its strophe and antistrophe are addressed to Agni.® Further he says ‘Seeing that the Brahmaniechansin recites (a litany) to Indra and Brhaspati at the third pressing,
 
 
 1 The offering verses of the three priests con- * The Agnidh has an extra verse RV. iii. 6.
@@ -91756,8 +91611,7 @@ the same order. These hymns replace
 the Ahina hymns of the special days (AB.
 
 
-Vimada are not an alternative as suggested by Sdyana (ckah pakgah .. . pakgdn-
-taram) but an addition, and the Anand.
+Vimada are not an alternative as suggested by Sdyana (ckah pakgah .. . pakgdntaram) but an addition, and the Anand.
 ed. reads vaimadic ca caturthe (which is of
 
 
@@ -91804,8 +91658,7 @@ Maitravaruna' recites day by day before the hymns. That hymn is
 heavenly; by this hymn the gods conquered the world of heaven, by this
 the seers. Verily thus also the sacrificers by this hymn conquer the world of
 heaven. It is by Vicvamitra; Vigvamitra was the friend of all; all
-becomes friendly to him who knows thus and to those for whom a Maitravaruna, knowing thus, recites this before the hymns day by day. It con-
-tains (the words) ‘bull’ and ‘cattle’; (it serves) to win cattle. It is of
+becomes friendly to him who knows thus and to those for whom a Maitravaruna, knowing thus, recites this before the hymns day by day. It contains (the words) ‘bull’ and ‘cattle’; (it serves) to win cattle. It is of
 five verses; the Pankti has five Padas; food is the Paikti; (it serves) to
 win proper food. ‘Praises have been offered in desire of glory’ the
 Brahmanacchansin? recites day by day the hymn containing (the word)
@@ -91916,8 +91769,7 @@ of the Ahina. ‘To wide space thou leadest us after knowing’ the Achavika®
 recites day by day; since the Ahina goes as it were, (the words) ‘Thou
 leadest after’ are a symbol of the Ahina; (the words) ‘Thou leadest’ are
 a symbol of the proceeding of the sacrificial session. These are recited day
-by day. They should conclude with the same verses;‘* Indra is a homegoer as regards their sacrifice ; as a bull to the cow, or as a cow to its well-
-known place of pasture, so does Indra come to their sacrifice. He should
+by day. They should conclude with the same verses;‘* Indra is a homegoer as regards their sacrifice ; as a bull to the cow, or as a cow to its wellknown place of pasture, so does Indra come to their sacrifice. He should
 not conclude with the ‘ Prosperity let us invoke’ verse ® the Ahina (hymn) ;
 the Ksatriya departs from his kingdom; his rival he then summons,
 
@@ -91951,8 +91803,7 @@ Achi&vika) ; see AB. vi. 23.
 
 5 RV. iii. 88.10. See ACS. vii. 4. 10.
 
-1 RV. viii. 14. 7-9; vii. 28. 6 (¢he Brahmanaechahsin), for the morning and mid-
-day pressings as concluding verses. Cf.
+1 RV. viii. 14. 7-9; vii. 28. 6 (¢he Brahmanaechahsin), for the morning and midday pressings as concluding verses. Cf.
 GB. xi. 5.
 
 
@@ -92076,7 +91927,7 @@ in (the hymn) by Suparna. |
 vi. 26 (xxix. 10). They say ‘Should he recite together ! on the sixth day ?
 
 
-> Cf. AB. vi. 85, n. 8 iii. 12. 14) given as an alternative by
+) Cf. AB. vi. 85, n. 8 iii. 12. 14) given as an alternative by
 1 See AB. iv. 21; KB. xxx.5. The Dirohana Sayana. This is given as the hymn in
 follows the Valakhilyas and the subse- ACS. viii. 2. 18-15 in which the Dirohana
 quent hymn, before its last verse. is to be performed (see AB. vi. 26). Cf.
@@ -92297,7 +92148,7 @@ sap poured over; Prajapati was afraid ‘This sap of the metres going away
 Ach&vika, whose altar is north of the
 Hotr's.
 
-> S&yana takes ise=ichimi and makes this a
+) S&yana takes ise=ichimi and makes this a
 quotation obviously in error. Weber
 (Ind. Stud. ix. 808) corrects the version of
 Séyana which takes garsista as third
@@ -92485,7 +92336,7 @@ S AV. xx. 184. 1-4; RVKh. v. 17; CGS. xii. ? The offerer, rather than as S&yana,
 and the next are confused. yajiiam is not very easily to be supplied.
 
 4 AV. xx. 185. 1-8; RVKh. v. 18; COS. xii. Cf. CB. iii. 5. 1. 18-17. no... na above
-28. 2. is overlooked by Delbriick, <Altind. Synt.
+28. 2. is overlooked by Delbriick, (Altind. Synt.
 
 AV. xx. 185. 4; RVKh. v. 19; OCS. xii. 28. p. 544.
 
@@ -92569,7 +92420,7 @@ are born; verily thus he secures propagation. Ten he recites; the Viraj
 has ten syllables ; the Viraj is food; from food is seed poured ; from seed
 offspring are born ; verily thus he secures propagation. In them he inserts
 the sound o; the sound o is food; from food is seed poured, from seed offspring are born; verily thus he secures propagation. In ‘I have celebrated
-Dadhikravan’ he recites the Dadhikra (verse) ;> Dadhikra is the divine filter ;
+Dadhikravan’ he recites the Dadhikra (verse) ;) Dadhikra is the divine filter ;
 herein he has said a speech full of impurity ; thus speech he purifies with
 the divine filter. It is in Anustubh ; the Anustubh is speech ; thus with its
 own metre he purifies speech. In ‘The most sweet draughts are pressed ’
@@ -92719,7 +92570,7 @@ is to be won over is different, as it were, the Agnihotra of the dead is
 different as it were. Or they may offer with milk from whatever source.
 Moreover they say ‘ They should keep kindled these fires, without offering,
 until the bones are collected.’ If the bones cannot be found, having
-gathered three hundred and sixty leaf stalks,> and having made of them
+gathered three hundred and sixty leaf stalks,) and having made of them
 
 
 41. 11. The presence of the Sadasya, prayaccitia (JAOS, xxxiii. 71 seg.). For
@@ -94051,8 +93902,7 @@ And the sacred lore of the Gathinas.*
 
 6 Gathina in some MSS. of CCS. is needless.
 OCS. has in a majority of MSS. rddhyas
-tu and esa vas tad vivicanah, while Hillebrandt with Streiter would read sadvivd-
-canah, The change is clearly needless.
+tu and esa vas tad vivicanah, while Hillebrandt with Streiter would read sadvivdcanah, The change is clearly needless.
 
 ® COS. has copetim. The sense is clearly as
 above; Séyana takes ddyam as subject,
@@ -94457,8 +94307,7 @@ thou know, O Brahman, this food?’ (he asked) ‘I know it’ (he replied).
 1 Cf, Weber, Ind. Stud. x. 82, 88, who seeks to p. 109, n. 2. In Brhaspateh pratyavadhit
 
 
-see in this a case of punishment for disloyalty, as in PB. xiv. 6. 8, where, how-
-ever, the position is much clearer than
+see in this a case of punishment for disloyalty, as in PB. xiv. 6. 8, where, however, the position is much clearer than
 here. The impure speech need not be
 more than a ritual defect of the priests,
 especially as it is made good by a point
@@ -94480,8 +94329,7 @@ ii.6.1; Weber, Ind. Stud. i. 409; Rajasiiya,
 Sa&yana sees the sense vakyam, and this is
 apparently meant: he cites ApDS. ii. 2.5.
 11. The aorist is natural and proper and
-needs no special explanation (cf. Delbriick, Altind. Synt. p. 281). The Arurma-
-ghas are connected by Eggeling (SBE.
+needs no special explanation (cf. Delbriick, Altind. Synt. p. 281). The Arurmaghas are connected by Eggeling (SBE.
 xii.67,n. 1) hesitatingly with the demon
 Araru ; cf. Weber, Ind. Stud. i. 411. The
 curious way in which Indra loses his
@@ -94566,8 +94414,7 @@ eats thus this food.’!
 vii. 82 (xxxv. 6). ‘Now as to the (fruits) of Udumbara. The Udumbara
 tree was born from strength and proper food; this is the pre-eminence of
 the trees; verily thus he places in the lordly power strength, proper
-food, and the pre-eminence of the trees. Now as to the (fruits) of Agvattha. The Acvattha tree was born from brilliance; this is the over-
-lordship of the trees; verily thus he places in the lordly power the
+food, and the pre-eminence of the trees. Now as to the (fruits) of Agvattha. The Acvattha tree was born from brilliance; this is the overlordship of the trees; verily thus he places in the lordly power the
 brilliance and the overlordship of the trees. Now as to the (fruits) of
 Plaksa. The Plakga tree was born of might; it 1s the self rule and the
 control of the trees; verily thus he places in the lordly power the self rule
@@ -94653,7 +94500,7 @@ mind, that art partaken of by the fathers, the helpers, I partake ’,
 
 But this and iv. 88. 10 occur in an Isti agrees, and which is used in ACS. v. 6.
 in ii. 12.5 and this is used by the priests 26 in the Agnistoma.
-when they drink in vi. 12, 12. > RV. i. 91. 16 and 18; AQS. v. 6. 27 in the
+when they drink in vi. 12, 12. ) RV. i. 91. 16 and 18; AQS. v. 6. 27 in the
 2 RV. iv. 88, 10. Agnistoma,
 3 KS. xvii. 19; MS, ii. 8.8; iii. 11.7; TB.i. vii. 84. ! The nine Soma goblets when emptied
 4. 2. 8; ApOS. xix. 8. 4. A variant and filled are the Nar&canhsas (cf. MCS. ii.
@@ -94779,8 +94626,7 @@ Prstha, and the Brhat is lordly power, verily thus he makes it prosper
 with the lordly power. Moreover the Brhat is the highest; verily thus
 he makes him prosper with the highest. Moreover the Brhat is the best;
 verily thus he makes him prosper with the best. In ‘To thee, O hero,
-we utter praise’ they make the Rathantara the antistrophe;* the Rathantara is this world; the Brhat yonder world; yonder world is the counter-
-part of this world; of yonder world this world is the counterpart. In that
+we utter praise’ they make the Rathantara the antistrophe;* the Rathantara is this world; the Brhat yonder world; yonder world is the counterpart of this world; of yonder world this world is the counterpart. In that
 they make the Rathantara the antistrophe, verily thus they make both
 these worlds possessed of enjoyment for the sacrificer. Moreover the
 Rathantara is the holy power, the Brhat the lordly power; on the holy
@@ -95638,7 +95484,7 @@ Rejoice and make thyself glad.’
 
 The Soma drink which is in the Sura is what is drunk by the Kesatriya
 when anointed by this great anointing of Indra; not the Suré. Having
-drunk it he should address it with >‘ We have drunk the Soma’ and ‘Be
+drunk it he should address it with )‘ We have drunk the Soma’ and ‘Be
 thou propitious to us.’ Just as in the world a dear son touches a father or
 a dear wife a husband pleasantly and auspiciously up to decay,‘ even so
 Sura or Soma or any other food in the case of a Ksatriya anointed by the
@@ -95650,7 +95496,7 @@ decay.
 2 See above AB. vii. 88 and RV. viii. 45. 22. dehapdtaparyantam.
 
 
-> RY. viii. 48. 8; x. 87. 10.
+) RY. viii. 48. 8; x. 87. 10.
 
 
 Vill. 21—] The Rajasiiya [336
@@ -96154,7 +96000,7 @@ Aranyaka, p. 68. «
 KEITH M
 
 
-162 AITAREYA ARANYAKA 11>
+162 AITAREYA ARANYAKA 11)
 
 
 hymn because there is in it the word ‘guest’, and a guest is liable to go begging *.
@@ -97580,7 +97426,7 @@ worlds, and it serves to conquer them. ‘These verses become érha/is,” the
 
 * Cf. 1,3, 3 above; IT, 4, 2.
 
-4<'Then’ is taken by Max Muller as referring to the five deities, by Sayana as referring
+4('Then’ is taken by Max Muller as referring to the five deities, by Sayana as referring
 to the body in which fzrisa is, But the latter vicw scems quite sound. ‘The senses and
 purusa are absolutely inter-connected. For sangah, cf. Jaimimya Upanisad Brahmana, IL,
 3,3. For @, cf. Speiyer, Vedische nad Sanskrit-Syntaa, § 88; Soli Oe Sey XNIJI, 151 sq.
@@ -97925,7 +97771,7 @@ Satapatha Brihmana, XIT, 2, 4, 125 14 (Eggeling, S. 2. 7, XLIV, 164, n. 1; Hoern
 JRA S 1997) Pp: 8, 10) suggest a different rendering, but the tradition is quite plausible.
 The epithet used too doves not suit bones. It is, however, to be noted that in Sinkhayana
 Aranyaka, IT, 6, the anaka, which can mean the lumbar portion of the spine (RV., VI, 163, 2,
-cited by Hoernle, /- R.A. S., 1906, p. 917) a> well as the thoracic portion (Satapatha Lrahmana,
+cited by Hoernle, /- R.A. S., 1906, p. 917) a) well as the thoracic portion (Satapatha Lrahmana,
 XH, 2, 4, 14, cited ibid., 1907, P. g), is said to have twenty-one parva, and certainly this is so
 strikingly parallel to the udara with its twenty funtdfas (Satapatha Brahmana, XTI, 2, 4, 12),
 since the twenty-first may be the ania itself, that it is possible that this passage should be so
@@ -99040,7 +98886,7 @@ and stmailar cases from Satapatha Brahimaiia,- 1V5, Gy9 23 NS 6, ay Ba NTN. G, O
 having diverse functions, the breath moving the bodily senses, the body supporting the
 pranend yas. bayanta ws ieferred to the fact that on death the body remains on the ground, while
 Prana sechs another world. Cf Oldenberg, A'e/yron des Veda, pp. 574 sq., Pischal, Vedssche
-Studeen, VW, 2>1; Bohtlingk, Sachs. Ler, 1893, p. 923 Lbillebrandt, Ved Ayth , 1, 336, noi, IT, 8.
+Studeen, VW, 2)1; Bohtlingk, Sachs. Ler, 1893, p. 923 Lbillebrandt, Ved Ayth , 1, 336, noi, IT, 8.
 
 ® Sdyana explains ‘immortal’ as umted with Pranyaparbha, Anandatirtha says ‘emanctpated’, But that this Aranyaka knows emancipation, mstead of mmortality, as the highest
 end is mot even probable. adrte (11, 1, 5) and mene (IH, 1, 1) are both clearly present
@@ -99116,7 +98962,7 @@ Sankhayana Grhya Siitra, IV, 10, 3.
 ‘ Presumably the pocts of Book IX are so described. Cf. Arseya Brahmana (ed, Burnell),
 p- 423 Vedische Studien, III, 99. In ASvalayana pavamanas and in Sankhayana pavamands occur.
 
-> ‘The poets of Book X are referred to. Perhaps also the hymns were called ésudrasuktah
+) ‘The poets of Book X are referred to. Perhaps also the hymns were called ésudrasuktah
 as Max Miuiller suggests, but this is not certain. The last Asudrasiktah no doubt implies
 
 
@@ -99154,8 +99000,7 @@ Ie also adds that the poet is called Re as well as the Mantra. Cf. Geldner, Vedi
 8 Ardha is taken as ‘place’ (cf. ovdo) by both Anandatirtha and Sayana, and is probably so
 intended, as Max Muller takes it.
 
-® Siyana renders ‘word’, but this is less likely. He adds that it means also ‘quarterverse’. For the intrans. p@di—which (as afdd:) is recognized by Panini—ef. Delbrick, Adécn-
-dische Syntax, p.266; Whitney, l.c., § 845 ; Speijer,].c.,§170. In Jaiminiya Upanisad Brahmana,
+® Siyana renders ‘word’, but this is less likely. He adds that it means also ‘quarterverse’. For the intrans. p@di—which (as afdd:) is recognized by Panini—ef. Delbrick, Adécndische Syntax, p.266; Whitney, l.c., § 845 ; Speijer,].c.,§170. In Jaiminiya Upanisad Brahmana,
 III, 9, 9, aedtce seems transitive, but sce Oertel’s note. The use of the aor. here is hard to
 distinguish from that of the imperfect, as with adA7pragat above. But in these cases it is possible
 that the aor. has a sense almost present, a natural derivation from the true aorist sense of the
@@ -99252,7 +99097,7 @@ are the days of a hundred years. They make up the nights by the consonants,
 the days by the vowels.?. This is produced as a thousand érhafis. After this
 being produced as a thousand érhatfis he who knows this becomes full of
 knowledge,* of the gods, of drahman, of the immortal, and goes to the gods.
-What I am, he is; what he is, Tam. <A Roi says (RV., I, 115, 1), ‘The sun
+What I am, he is; what he is, Tam. (A Roi says (RV., I, 115, 1), ‘The sun
 is the self of all that goes or stands.’ Let one consider this.
 
 
@@ -99532,7 +99377,7 @@ dispute had disappeared before the Sankhayana Aranyaka. MNdnd may be adverbial, 
 # Sadyana explains that the clouds rumbling produce a sound with an arzustudh in it; cf.
 Geldner, Vedische Studien, II, 304; v. Schrocder, A/ysterium und Mimus, pp. 40, 41.
 
-> Anandatirtha takes the whole as one argument and as meaning, ‘he can die when he likes.’
+) Anandatirtha takes the whole as one argument and as meaning, ‘he can die when he likes.’
 This is impossible. For the construction, ef. I, 1, 1, n. 4.
 
 
@@ -99629,7 +99474,7 @@ but he explains the sentence by the action of the Hotr, as the Aranyaka uses the
 It only means that the amustush is made out of the ér4ati which is identified with praxa,
 and prana is (sce Il, 2, 3) Indra,
 
-> Saiyana defines a gathd as sarvalohaprastddharthapratipadthd, e.g. pratah priatar anrtam
+) Saiyana defines a gathd as sarvalohaprastddharthapratipadthd, e.g. pratah priatar anrtam
 fe vadanti (a yajnagatha from Aitareya Brahmana, V, 31,6; the example is not very happy);
 Anandatirtha as farasparam asamdini visamasamkhydksardni svaraniyamarahttint khandavikyant, Cf. Hopkins, Great Lptc of [udia, pp. 365 sq.; St. Petersbury Dict. 1, 731; Aufrecht,
 Attareya Prehmana, p. 429; Bloomfield, Religion of Veda, p. 196.
@@ -100307,7 +100152,7 @@ ight ye, for the same igason as here. Winternitz (Gesch. der audisch. itt, 1, 16
 compares the nddles found in the Kyveda, the Atharvaveda, and the Yajurveda, The gods
 require amusement as well as reverence. So also the gods must have animals to play with
 (Macdonell, Vedic Alythology, p.148; Oldenberg, Aeligton des Veda, p. 74, and ae Rast aeg
-1907, p. 936). Other els, of obscurity aie Satapatha Brahmana, V1, Wot, 23 VID <6
+1907, p. 936). Other els, of obscurity aie Satapatha Brahmana, V1, Wot, 23 VID (6
 22 (Winternitz, p.177). Cf also Wintermts, A/autsapitha, 1, xxix, mn. tan sums up the
 result of this chagner in an interesting and polemieal discussion of the daz as eteinal and
 unthinkable subject (U, pp. 50-64, trans. by S. Sitinima, pp. 39 49); but what he says bears
@@ -100329,7 +100174,7 @@ a question of the different manifestations of Visnu. ‘The edd. except Sita:ama
 punctuate at refas, but the comm. and the parallelism yad efad—tad efad qre.in favour of the
 other punctuation. The sense isthe same. Bohtlingk’s exam (= a/manam) is not essential.
 
-> ‘The commentators here differ. Sankara and Anandatirtha in his (7d take (1) panmano
+) ‘The commentators here differ. Sankara and Anandatirtha in his (7d take (1) panmano
 ‘gre as ‘before buth’; (2) agra eva as pdtamitram; (3) adhi as ‘after birth’. This secms
 preferable, except that agea eva must be considered as explained by zanmano ‘gre. Anandatittha in his éhasya explains (1) as above; (2) as agryah, sasvagumignyah; (3) adhi as
 
@@ -100923,7 +100768,7 @@ says, atmano jnanasamarthyanusarenoktiprakara wmyanta ati fesah.
 clearly indefinite (like the subj. in Latin and opt. in Greek); see IL, 2, 1, n. 1; and see my note
 on the Kathaka, 7. 2. 4.S., 1909. For vayifa, see Zimmer, Alt. Led., p. 150.
 
-> The construction is cuiously changed below to the accusative, unless, as is possible,
+) The construction is cuiously changed below to the accusative, unless, as is possible,
 the othe: person is meant. But see St. Petersburg Lict. s.v. man 3. The nominative 1s,
 
 
@@ -101003,7 +100848,7 @@ The Rathantara is speech, the Brhat breath.? By these two, speech and breath, th
 
 
 7 Metronymics like this were inevitable where polygamy was possible. They do not prove
-matiiarchy or anything similar. <A similar instance is the famous Kysna Devakiputra of
+matiiarchy or anything similar. (A similar instance is the famous Kysna Devakiputra of
 Chandogya Upanisad, ITT, 17 (not 7 as in Max Muller), 6, who is the subject of an interesting
 discussion in Garbe’s translation of the AAagavadgitd, and cf. /.N.A.S., 1907, pp. 976 sq ;
 1908, p. 173, n. See also Winternitz, Gesch. der indisch, Litt, 1, 16g. A child sometimes, if
@@ -101522,8 +101367,7 @@ For upaédi, infra, which denotes literally the noise of guing and 1s particular
 ef, Aitareya Brihmana, IV,9, 3; Jamminiya Brihmana, I, 253; Jaiminiya Upanisad Brahmana, |,
 37, 3, with Oertel’s note; RV., I, 74, 7, with Oldenberg’s note (.5. 2. 72., NEVE, 94); Schmidt, A’
 Z.,XXV, 55. Scheftelowitz (Zur Slammbildune in den indo-germanischen Sprachen, § 9) compares
-RV., 1X, 77, 4: esudzd, which he considers as going back tu IG. pago, cf. Greek myyq. The construction above drsyate and abhikhydyeta in parallel uses, and below a ‘yale-palyen-na pasyen-
-pasyeta, are decidedly curious (cf. Introd., p. 63). ‘fhe temptation to amend to drfyerfa is very
+RV., 1X, 77, 4: esudzd, which he considers as going back tu IG. pago, cf. Greek myyq. The construction above drsyate and abhikhydyeta in parallel uses, and below a ‘yale-palyen-na pasyenpasyeta, are decidedly curious (cf. Introd., p. 63). ‘fhe temptation to amend to drfyerfa is very
 strong, and on the whole I incline to think that it would be dangerous to insist on these examples.
 The case of upehseta—drfyanle differs, for the two verbs are not parallel. ‘The first is an
 instruction, the second expresses categorically the result (and d@ysyante may have helped to
@@ -101819,7 +101663,7 @@ the second being the nairhastyam, have 54+3+7=15 verses. The view of
 7 ‘The Sakvara is normally based on Samaveda, H, 1151-1153 (Sayana and Mahidhara cited
 by Eggcling, p. xx, n. 2).
 
-> Cf. also Oldenberg’s note on Sinkhayana Grhya Siitra, LV, 5, 9, and Zrd, Stud., XV, 150.
+) Cf. also Oldenberg’s note on Sinkhayana Grhya Siitra, LV, 5, 9, and Zrd, Stud., XV, 150.
 
 
 -IV TRANSLATION AND NOTES 259
@@ -101904,8 +101748,7 @@ Srauta Stitra, X, 6, 13, &c., and in the Aitareya Brahmana, IV, 4; V, 7; VI, 24;
 Atharvaveda, AI, 7, 6; Vajasancyi Samhité, AXIII, 35: Kathaka Samhita,
 NX, 10; ‘Taittiriya Samhita, V, 2, 11, 1.°
 
-The verses contain several phrases reminiscent of the Rgveda, perhaps borrowed from carlicr hymns; at least they tend to convey an impression of second-
-hand use: jeftram dpardjitam=RV.,1, 11, 2; sé nak parsad dti=RV., X, 187, 1;
+The verses contain several phrases reminiscent of the Rgveda, perhaps borrowed from carlicr hymns; at least they tend to convey an impression of secondhand use: jeftram dpardjitam=RV.,1, 11, 2; sé nak parsad dti=RV., X, 187, 1;
 Indram dhdnasya satdye is the last pada of RV., VIII, 3, 5" (this 1 owe to Bloom-
 
 
@@ -101919,7 +101762,7 @@ ALIV, 380, n. 2.
 -IV TRANSLATION AND NOTES 261
 
 
-field, Vedic Concordance, p. 210>); sdém anyésu bravavahat= RV., I, 30, 6; sdkha
+field, Vedic Concordance, p. 210)); sdém anyésu bravavahat= RV., I, 30, 6; sdkha
 sustvo ddvayadh = RV., I, 187, 39; Savistha wajrinn riijise = RV., I, 80, 1¢ (with
 gisd). These last two cases scem to me strongly in favour of the later date
 of these verses, for drazdvahar is not unnatural in RV., I, 30, 6, where it seems to
@@ -102758,7 +102601,7 @@ samgamo sayanandm (Ratnavali), or the imperative (e.g. in the verse from the Rat
 cited in fact three imperatives occur), but in the early language at any rate J can find no certain
 example of -¢a¢ so used. But the distinction between a wish and a blessing is evanescent.
 
-> The Sankhayana Aranyaka, I, 8, and Srauta Sitra, XVII, 17, give the Mantras in reverse
+) The Sankhayana Aranyaka, I, 8, and Srauta Sitra, XVII, 17, give the Mantras in reverse
 order, and omit the whthavirydnt. For suparno’st garutmin see Vajasaneyi Samlnta, XII, 4;
 Sankhayana identifies this with p-dna, but sce my Sankhdyana Aranyaka, p. 77, n. 6.
 
@@ -103084,8 +102927,7 @@ is merely a conjecture of Hillebrandt’s for vavam of all his MSS. It is a prob
 AV. version is unintelligible, see Whitney’s 7rans/atron, p- 305. In the version given, which
 is purely conjectural, | have taken dah as a genitive from Sankhayana (the change of # and a
 is easy, the accent is dubious), like fio and yuyo, presumably also genitives. Siyana as usual
-gives no help; he takes d@ajvh as either (1) niskevalyam sarvato ratjakam, or (2) yagutpalanam sarvato raitjakam. Vio tuo is yoo vairiném himsakah. Vanam is bhaktaty Vana-
-niyam. The AV. has dé rdjo yitjas tuyd Jénd vdnam svah Vand nddhrsa & dadhysate dhrsiné
+gives no help; he takes d@ajvh as either (1) niskevalyam sarvato ratjakam, or (2) yagutpalanam sarvato raitjakam. Vio tuo is yoo vairiném himsakah. Vanam is bhaktaty Vananiyam. The AV. has dé rdjo yitjas tuyd Jénd vdnam svah Vand nddhrsa & dadhysate dhrsiné
 dhysitth $deah \ purd ydthé vyathth sréva Lid) asya nadhrse Sdvah. The Paippalada differs
 greatly.
 
@@ -103580,7 +103422,7 @@ omits the last three stanzas of the hymn, ‘ Let us utter, O comrades’ (RV., 
 ' There are— RV., VIII, 12 = 33 stanzas.
 ” 13 = 5735 ”
 » 15,1-12 = 12 4,
-» 98 < 12 4,
+» 98 ( 12 4,
 9» «24,1-27 = 37 ”
 I, 84, 7-9 = 3 »
 vj 40, 1-3 my. 3 oe)
@@ -103730,14 +103572,14 @@ two gdyatris for recitation, It 1» characteristic of the deliberate differences
 and Sankhayana that the latter, XVIII, 16, divides ver, 2 ito an anudtubh and a gayatri,
 not ire Versa,
 
-> That is, 1f one desires hfe (Sayana’. See n.g§. For X, 55, 5, ef. Ludwig, Aeveda, IIT,
+) That is, 1f one desires hfe (Sayana’. See n.g§. For X, 55, 5, ef. Ludwig, Aeveda, IIT,
 186; [hlebrandt, Hed. Afy/h., 1, 465
 
 ‘Cf 1,5, 2,n 6  Sayana here renders dafafr as verses produced in the Samhita, which
 is a collection of ten Mandalas. But the dusa/o below certainly suggests that it means decades
 us probably in I, 5, 2.
 
-> ‘Ibis must be the meaning, and so Sayana takes it. Le, however, takes wa vd as meaning
+) ‘Ibis must be the meaning, and so Sayana takes it. Le, however, takes wa vd as meaning
 that each érhkaty produces a year of life, contradicting the ten-d) Acti rule ‘This is not
 impossible, mn which event he points out the insertion of the nine @25{#6A verses vives eleven
 Arhatis or eleven years’ longer life But it 1s not natural, and it ignores fv7sfudjagatinam,

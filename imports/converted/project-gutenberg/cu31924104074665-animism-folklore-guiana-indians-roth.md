@@ -1,55 +1,3 @@
-# An Inquiry into the Animism and Folk-Lore of the Guiana Indians
-AN INQUIRY INTO THE
-
-ANIMISM AND FOLK-LORE OF
-
-THE GUIANA INDIANS
-
-
-BY
-
-
-WALTER E. ROTH
-
-Commissioner of the Pom^roon District, British Guiana; late Chief Protector of
-
-Aboriginals, Queensland; late Royal Commissioner appointed to inquire
-
-into the condition of the natives of Western Australia;
-
-Corresponding Member of the Anthropological Societies of Berlin and Florence;
-
-Author of "North Queensland Ethnography," etc.
-
-
-EXTRACT FROM THE THIRTIETH ANNUAL REPORT
-OF THE BUREAU OF AMERICAN ETHNOLOGY
-
-
-WASHINGTON
-
-GOVERNMENT PRINTING OPFIOE
-
-
-To
-
-two of my oldest friends
-
-CHARLES HEDLEY
-
-Curator of the Australian Museum, Sydney
-
-and
-
-TOMMASO TITTONI
-
-Italian Ambassador at Paris
-
-I
-
-dedicate this Memoir
-
-
 PREFACE
 
 When, some seven years ago, I took up the duties of stipendiary
@@ -937,7 +885,7 @@ had fallen, that they must be mistaken, and that they must run away now. Young
 folk are not allowed to see what the old medicine-men practise. When left alone,
 Hariwali planted the identical seed just where it had fallen, and that same evening
 
-> Compare Kon, the boneless Tribal Hero of the Yunka Indians of Peru (PE, 29, 41).— W. E. R.
+) Compare Kon, the boneless Tribal Hero of the Yunka Indians of Peru (PE, 29, 41).— W. E. R.
 
 
 122 ANIMISM AND FOLK-LORE OF GITANA INDIANS [eth. ann. 30
@@ -1017,7 +965,7 @@ they must bring up the fish and cook it, but not to mind him. The women cooked t
 fiah. VlTien cooked, and while the women were eating it, the man fell asleep and
 began to snore very curiously and loudly — indeed, so loud that you could have heard
 him on the other side of the river. And while snoring, he called the father's name —
-Mayara-k6to. The two women lo<^ed at each other, and they listened. They said
+Mayara-k6to. The two women lo(^ed at each other, and they listened. They said
 "Our husband never snored like that; he never called his own name before. " They
 therefore stopped eating at once, and told each other that this man could not possibly
 be their husband. And they pondered as to how they were going to get Habiui out
@@ -1040,7 +988,7 @@ was the mother's reply, upon which Wau-uta opened tlie door immediately and said
 "Come in! Come in! " Just after they had all got in. Tiger arrived and, calling out
 to Wau-uta, asked her where the two women and the baby had gone. But Wau-uta
 Ued, telling that ahe had not seen them, that she had seen no one. Tiger, however, could tell by the scent that they were there, so he waited outside, and refused
-to go away. This vexed Wau-uta , who became ver>- angry, and told him that he might
+to go away. This vexed Wau-uta , who became ver)- angry, and told him that he might
 just put his head in, and have a look round, and if he saw them, he could eat them if
 he liked. But the door was covered with pimplers (thorns) and as soon as silly Tiger
 put his head in. the old woman closed it, and so killed him. The two sisters remained
@@ -1275,7 +1223,7 @@ to look directly upward only when in this upside-down position. [Seot. 99.]
 tools which the Indians employed for making their canoes, huts, etc., were axes and hatchets made of
 tortofeo-shell (Ac, 90) .
 
-> The seed-po* in question is about 10 in. long, much flattened, hard-shelled, with a curved surface, so
+) The seed-po* in question is about 10 in. long, much flattened, hard-shelled, with a curved surface, so
 that when the halves are split asunder, each bears a somewhat fanciful resemblance to a cutlass.
 
 « The first word Is in Spirit language, i. «., not understood by the Warraus, who tell me that it is nothing
@@ -1341,7 +1289,7 @@ My spring-trap has caught a fish at last," but when he got closer, he added, "Oh
 1 This bird is the OdoTUophorus GvianensU. "The notes of tliis bird, from which it takes its name, are
 usually the first heard in the moroing, and frequently before dawn" (BW, 183).
 
-> Present-day cursing, the ftd-o of the Warraus and Arawaks, is done on somewhat different lines,
+) Present-day cursing, the ftd-o of the Warraus and Arawaks, is done on somewhat different lines,
 usually by medicine-men or by very old people oidy.
 
 
@@ -1400,7 +1348,7 @@ They then both emptied the pond and collected a heap of fish, much too large for
 1 The account given of Eororomanna's doings in this paragraph forms the complete story of an unnamed
 Indian, as related bj the Caribs, who give the name Pupombo to the Skull Spirit.
 
-> Ehrenreich refers to the many examples of such individual giant heads or skulls in the North American
+) Ehrenreich refers to the many examples of such individual giant heads or skulls in the North American
 legends (PE, 71).
 
 15961°— 30 ETH— 15 9
@@ -2513,7 +2461,7 @@ themselves upon him, pressed him under water until he was drowned. Then dragging
 
 152 ANIMISM AND FOLK-LOBE OF GTJIAKA INDIANS [hth. ANir. 30
 
-over him, making a thousand ax>oI<^es for having fallen upon him, and kept him so
+over him, making a thousand ax)oI(^es for having fallen upon him, and kept him so
 long below the surface. The cacique Brayaon came to examine the body and pronounced it lifeless; but the Indians still fearing it might possess lurking immortality
 and ultimately revive, kept watch over it for three days, until it showed incontestable signs of putrefaction. Being now convinced that the strangers were mortal
 men like themselves, they readily entered into a general conspiracy to destroy them.
@@ -2763,7 +2711,7 @@ knife but several thongs were buried with him. The thongs were
 put into the grave for the purpose of enabling him to tie to a tree
 the kanaima who had caused his death (ScK, i, 468). Such thongs
 are to be seen also at some of the funeral dances of other tribes.
-Thus, among the Roucouyenne of Cayenne, at the p<mo, or first of
+Thus, among the Roucouyenne of Cayenne, at the p(mo, or first of
 the two festivals m honor of the dead, one man alone stands up,
 holding in his hand a whip eight meters long. With a swirUng motion
 he cracks it with a report like that of a pistol; each one in turn gets
@@ -4682,7 +4630,7 @@ invariably refuse to tell these spirit-legends in the daytime, when
 'According to Dance (p. 202), the large woody fungi growing out of the fallen and decayed trunks of trees
 are named by the Demerara River Arawaks "kamara-sana" and also the "Bush-deril's cassava bread."
 
-> In the Warrau version of this story the Bush Spirit asks the man to bring him peppers, but he means
+) In the Warrau version of this story the Bush Spirit asks the man to bring him peppers, but he means
 ascorpion; then a hammoclt, but he means a tiger, whose color-stripes represent tlie cotton "cross-ties;"
 and finally a hammock-rope, but he means a snake.
 15961°— 30 BTH— 16 13
@@ -4801,7 +4749,7 @@ season, after which they cease.
 
 « This is an exclamation denoting astonishment or surprise.
 
-» In a Carib version of the story, it is a Yurokon by name of Araiyok<5 who gives the brother his pointed
+» In a Carib version of the story, it is a Yurokon by name of Araiyok(5 who gives the brother his pointed
 feet, by way of punishment.
 
 
@@ -5018,7 +4966,7 @@ to give trouble: they had fallen in love with him and were always jumping into h
 hammock, but as fast as they got in, he would turn them out. He neither-liked nor
 wanted them, and complaiued to his wife about their conduct. Of course there was
 
-> This oftafflora is the Warrau term for race, nation, tribe, etc.; thus Arawak-u oftowora signifies the
+) This oftafflora is the Warrau term for race, nation, tribe, etc.; thus Arawak-u oftowora signifies the
 Arawak nation.
 
 ' Three Indian customs are involved in this action: (a) The wife was tabooed from touching the meat,
@@ -5649,7 +5597,7 @@ when we haven't got even the body? "
 
 Tawaru-wari was a Carib Indian who one day caught a young eagle, which he took
 home with him. It became quite tame, and Tawaru-wari had to go out regularly and
-shoot baboons to feed it with. But the baboons did not like this, so they held a mee1>
+shoot baboons to feed it with. But the baboons did not like this, so they held a mee1)
 ing among themselves and agreed that if the man were to kill any more of them,
 they would catch him and tie him up to a tree. Tawaru-wari did kill another baboon,
 however, very shortly afterward. So these animals, having surrounded and caught
@@ -5785,7 +5733,7 @@ oruelly-savage beast believed to exist in the depths of the forest. From the inf
 gathered it appears that this creature is a tiger only when it goes for a walk in the bush; that at home it is
 "like a man, people."
 
-> There is some intimate connection between toads, frogs, and kindred creatures, and success in the
+) There is some intimate connection between toads, frogs, and kindred creatures, and success in the
 chase. See Sect. i»s.
 
 
@@ -5954,7 +5902,7 @@ it pliable, and while they were thus engaged, the child amused himself by climbi
 into a manicole tree. The noise made by their wooden staves drowned the roar of
 an immense Tiger, which, before they were aware of its presence, suddenly appeared
 
-> For another Warrau version of this story, see Sect. SSIB.
+) For another Warrau version of this story, see Sect. SSIB.
 
 2 The daiha is the tree (Lecylhia), the cortex of which is used, after pounding and other preparation,
 tor making apron-belts, chemises, and cloaks.
@@ -6343,7 +6291,7 @@ the test they should both keep their eyes shut, an arrangement to which Tiger ag
 even go one better? " Tiger was loth to admit this, and therefore maintained: " Welli
 even if you are stronger than I, I am faster than you; I can run more quickly. Let
 
-> For tlie Indian belief that all mankind were derived originally from rocks and stones, see Sect. 58.
+) For tlie Indian belief that all mankind were derived originally from rocks and stones, see Sect. 58.
 * The details of what now takes place are identical with those given in the next story, in which the
 Ant«ater replaces the Turtle.
 
@@ -6460,7 +6408,7 @@ quarters with the animal.
 
 ' See BrB, 173; oompaie Brett's story in Sect. 14i-
 
-< Im Thum (382) cavils at Brett making the attacker a cormorant, which, he says, is not a Guianese
+( Im Thum (382) cavils at Brett making the attacker a cormorant, which, he says, is not a Guianese
 bird, and in his version replaces It by a duckler (Plotut anhinea). Schomburgk, however, speaks of
 cormorants (Scharbe), Halimt braailianvji 111., on the Essequibo (ScH, i, 293).
 15961° — 30 BTH — 15 15
@@ -6576,7 +6524,7 @@ understand each other; haven't they both the same talk [i. e. grunt]?
 
 ' In connection with this story see Sect. ISi.
 
-> Suicide is not unlcnown among these Indians. I hate received particulars of three cases of Arawak
+) Suicide is not unlcnown among these Indians. I hate received particulars of three cases of Arawak
 women making away with themselves by means of bitter-cassava water owing to "unrequited love." —
 W. E. R.
 
@@ -7371,7 +7319,7 @@ the plums (hobu), of which their lover was so fond, and making drink from them;
 when it was ready they whistled for hiTn to come. They whistled by putting their
 fingers into their mouths and blowing. They did this every day. Their brother in
 the meantime had his suspicions as to what was going on, so one day he followed
-them, and without being himself seen watched ever>-thing that took place. He
+them, and without being himself seen watched ever)-thing that took place. He
 said nothing, but returned home. Soon afterward the two girls went to a field other
 than that which they hitherto had been in the habit of visiting, in order to dig cassava.
 The brother seized the opportunity of visiting the place where the Maipuri lived and
@@ -7886,13 +7834,13 @@ this permission being granted, the young couple started oft. 'VThen they reached
 there Assawako told Waiamari to rest himself while she gathered something for him
 to eat. She brought him yellow plantains and pines, a whole bundle of sugar-cane,
 
-> This word okdhi among tbe Warraus means the hottest part of the day; it refers to the warmth and
+) This word okdhi among tbe Warraus means the hottest part of the day; it refers to the warmth and
 heat of the sun as distinguished from its power of producing light.
 
-> Even up to very recent times the Indians' canoes were thus decorated with Sun and Moon.
+) Even up to very recent times the Indians' canoes were thus decorated with Sun and Moon.
 I This sound would correspond with the English " SwishI SwishI SwishI "
 
-< This Is tbe Warrau term for any smart, sensible female.
+( This Is tbe Warrau term for any smart, sensible female.
 
 
 256 ANIMISM AND FOLK-LOKE OF GUIANA INDIANS [eth. ax.n. 30
@@ -8402,7 +8350,7 @@ charmed her ax, and assured her that if she did what he told her to do, she woul
 safe with him. Soon after, Serikoai asked Wawaiya to come with him and gather
 avocado pears [Persea gratiisima], which were now ripe, so that while he climbed
 the trees, she might collect firewood. She did so, and while her husband was up a
-tree, she went to grind her ax, but ever>- time it touched the stone it railed out, "I
+tree, she went to grind her ax, but ever)- time it touched the stone it railed out, "I
 must cut. I must wound!" [Sahtai!]. She asked her husband whether he could
 hear it talking, and he said , ' ' Yes ;' ' that it always spoke like that when being sharpened
 there, but she must not worry over it. However, while Serikoai was descending
@@ -8654,9 +8602,9 @@ the Chase, with: Incisions, mutilations, nose-stringing (227); frogs, toads {iiS
 caterpillars and ants {SSO); perhaps have a physiolc^cal basis {2S1). TTiinting-dngs
 have to undergo similar ordeals (iJ2). Attraction charms, Binas (1) for hunting:
 Plants, used on hunter (2J5), or on his dog {i34), originally obtained from a snake {gS5).
-Animals used on the hunter and on his dc^ (2<}6); (-) for sexual purposes: Plants
+Animals used on the hunter and on his dc^ (2(}6); (-) for sexual purposes: Plants
 {iS7)\ animxds (JiSS). Talismans, Repellent (and so Protective or Defensive) Charms:
-Plant {iS9), animal, tooth (2-W>), blood and red paint {240A), stone (t41).
+Plant {iS9), animal, tooth (2-W)), blood and red paint {240A), stone (t41).
 
 230. Omens, tokens, auguries, etc., are known to the Arawaks as
 adiJmahu, to the Warraus as asijatav-aha. Lucky indeed are those
@@ -8804,7 +8752,7 @@ she told me that when young people and children tra-rel far afield, they often g
 W.E. K.
 1 For another Warrau version of this story, see Sect. 147.
 
-ir.oei* — 30 ETH — 1."> 18
+ir.oei* — 30 ETH — 1.") 18
 
 
 274 ANIMISM AND FOLK-LOKE OP GUIANA INDIANS [eth.ann. 30
@@ -8989,7 +8937,7 @@ wanning itself at the very fire which his four friends had made at the banab, th
 he agreed to follow it. And as the two approached the camping-ground, they heard
 the voices of people talking. "Listen!" said the little Fly: "That's where your
 people are. We are going there." WTien they at last reached the shed, the Candlefly flew in ahead, and told the four men that it was bringing them their lost com-
->panion; the latter then came in, and his four friends were right glad to see him.
+)panion; the latter then came in, and his four friends were right glad to see him.
 
 226. The only example of plant-life in connection with omens and
 auguries so far met with is that recorded by Bernau: "Marriage is
@@ -9204,7 +9152,7 @@ neighborhood of their dwellings the most valued kinds, as the binas
 for tapir, wild hogs, deer, labbas, turtle, and those for the various
 
 
-282 ANIMISM AND FOLK-LOBE OF GUIANA INDIANS [eth. a>'n. 30
+282 ANIMISM AND FOLK-LOBE OF GUIANA INDIANS [eth. a)'n. 30
 
 kinds of fish (Da, 253). As a rule, women are supposed neither to
 see nor to handle such plants thus cultivated. Even in so comparatively civilized a district as the Pomeroon and Monica, I have cbllected more than a score of such plants, the respective leaves of which
@@ -9593,7 +9541,7 @@ alexipharmic in general (FD, 151). As an antidote for poison,
 within the Orinoco area, Gumilla speaks of alligator teeth mounted
 in gold or silver and tied by a small chain on one of the arms or
 
-> This comparison between scorpions and strong liquor is very cliaracteristic with the Pomeroon Caribs.
+) This comparison between scorpions and strong liquor is very cliaracteristic with the Pomeroon Caribs.
 A typical decoration on their drilling vessels is the pot-hook (i. e. the scorpion, fig. 3). See also around
 the central ring in fig. 2.
 
@@ -9800,7 +9748,7 @@ Taiepong villages toward the upper Potaro, probably served a
 similar purpose: "In many places on the path we had to step over
 arrangements of little sharpened sticks, placed loosely together in a
 
-> This idea of throwing peppers into a fire appears to have been an old trick. It is stated by Captain
+) This idea of throwing peppers into a fire appears to have been an old trick. It is stated by Captain
 Jean-Pierre that, when the old Oyampis, of the upper Yary , Cayenne, wished to stop an enemy, they surrounded their village with a circle of flie into which they threw handfuls of dry capsicums. It is impossible
 to fight when one is seized with an unconquerable sneeting (Cr, 271).
 
@@ -10688,7 +10636,7 @@ the hut, where the poor creature is exposed to all the smoke which, if
 that be possible, is now increased. For the first few days she must not
 leave her hammock at all during the daytime. When the most active
 
-> Compare the licking of the stjck by the Kanaima devotee to obtain purification (Sect. St9).
+) Compare the licking of the stjck by the Kanaima devotee to obtain purification (Sect. St9).
 
 
 312 ANIMISM AND FOLK-LOKE OF GUIANA INDIANS [bth. ANN. 30
@@ -10971,7 +10919,7 @@ quakes. You don't." Naturally, the erstwhile husband was put to shame, and immed
 and the few crabs it contained. His mother was indeed a dear old soul, and after
 cooking the crabs, and giving him a real square meal, consoled him as only a mother
 
-> The pattern of the weft of these crab-qiiakes is known to the Arawaks as the kassaroa, or "foar^ye
+) The pattern of the weft of these crab-qiiakes is known to the Arawaks as the kassaroa, or "foar^ye
 flsh," from the manner in which the starting strands are arranged, like so many "eyes." The idea
 intended to be conveyed here is that as the man in question did not really know how to make these baskets,
 he was amcious to get a full view of the flsh, so as to serve him for a model which he could copy.
@@ -11962,7 +11910,7 @@ Komatari went into the bush again, and followed creek after creek, and at last c
 a big river. There he met another Hebu, who got the proper stones that were wanted.
 When he had given them to Komatari, he said, like the others: "I have a name, but
 
-I The timber always employed (or these two pmi>oses has a milky sap, and is found in places sach as
+I The timber always employed (or these two pmi)oses has a milky sap, and is found in places sach as
 described, that is in the forest, along the bants of swiftly flowing creeks.
 *That is, the headdress with the cotton "pompons" worn by the medicine-man when initiated.
 15961° — 30 ETH — 15 22
@@ -12135,7 +12083,7 @@ himters learned to hunt for the particular game they required, and
 received at his hands charms — maklar and hina — to insure their
 success (Da, 251). Among the Indians of the Uaupes River, the
 piais are believed to have power to destroy dogs or game and to
-make the fish leave a river (ARW, 347). The medicine-man furthermore coiold transform himself into an animal (Sect. 154) > if 1^ wife
+make the fish leave a river (ARW, 347). The medicine-man furthermore coiold transform himself into an animal (Sect. 154) ) if 1^ wife
 becomes pregnant she may bear him a tiger, an animal into which
 he himself may be transformed at death (KG, ii, 154).
 
@@ -12258,7 +12206,7 @@ a tree in close proximity to one of his traps, and watched from his elevated pos
 He saw some game caught in the trap and by and by a black Carrion-crow [Caihartes
 hurroviamis] came swooping down, and try to cut it up with a knife, so as to remove
 it the easier. The Crow's knife, however, was too blunt, so he flew away and fetched
-the Vulture [SarcoTham.'phus j>apa\, who brought a sharper knife with him, and cut
+the Vulture [SarcoTham.'phus j)apa\, who brought a sharper knife with him, and cut
 up aU the meat nicely. And then a lot more Carrion-crows came down, and between
 them they cleared every particle of the meat away, leaving the trap as empty as
 before. Makanauro watched all this quietly from under cover of the tree branches,
@@ -12373,7 +12321,7 @@ counteracting the evil designs of certain Spirits, Kanaima or other,
 1 The belief is still prevalent among the Pomeroon Arawaks that if one hears the black kurri-kum
 "calling " in early morning, and thereupon curses the bird, rain is certain to fall during the day (Sect. ttS).
 
-> Compare Makona-ura, a youth famous for his skill as a fisher, and credited with invenWng the maswa,
+) Compare Makona-ura, a youth famous for his skill as a fisher, and credited with invenWng the maswa,
 or fish basket-trap (Da, 259).
 
 
@@ -13120,7 +13068,7 @@ worth noting. Where the arrow sank into the water, there lurked
 the danger in the shape of submerged rocks, but where it floated,
 there the passage was clear for the corial to pass (Sect. 151). Owing
 to an invisible fungus growing upon the arrow in the one case (Sect.
-145) and upon the bowman's arm in the other (Sect. 144)> the missile
+145) and upon the bowman's arm in the other (Sect. 144)) the missile
 does not hit its mark. When either is properly cleaned, however, the
 arrow is made to spUt a fishing-line and a distant hanging-viae rope,
 respectively. It has been claimed for the Spirits, and medicineman— and after all, the powers of these agents were identical — as
@@ -13136,13 +13084,13 @@ seem to represent almost the normal condition in which certain of the
 Bush Spirits employed bows, for which reason some of these denizens of
 the forest were known as Shimarabu-akarad&ni (Sect. 95). The same
 
-> I have observed and since recorded the same metbod among tbe natives of North Qaeensland. —
+) I have observed and since recorded the same metbod among tbe natives of North Qaeensland. —
 W. E. R.
 
 
 362 ANIMISM AND FOLK-LOKE OF GUIANA INDIANS taiH. ANN. 30
 
-Beings were also evidently not averse to using broken arrows, subsequently spliced (Sect. 144) > but it is certainly difficult to trace the
+Beings were also evidently not averse to using broken arrows, subsequently spliced (Sect. 144) ) but it is certainly difficult to trace the
 raison-d'6tre of the self-castigation with the two halves of a broken
 arrow to insure strength and courage (Sects. 1S9, 221B).
 
@@ -13166,7 +13114,7 @@ MISCELLANEOUS INDIAX BELIEFS COXCERNING MAN
 
 Dwarfs, People with their Feet Turned Backward, Touvingas, White and Whitehaired Folk, Acephali (552); Amazons (3S3-S34). Orang-Utang, etc. (SS5-336);
 Warracaba "Tiger" (557); "Tigers" in general (SS8); Tapir (559); Armadillo (5^);
-Buah-hog and "Skunk" (5^7); Anteater (5->£); Sloth (343); Turtle, etc. (344); Alligator (34S); Gecko (,346); Snakes in general (5.^7); Camudi (5-^); Frogs (5^); Birds
+Buah-hog and "Skunk" (5^7); Anteater (5-)£); Sloth (343); Turtle, etc. (344); Alligator (34S); Gecko (,346); Snakes in general (5.^7); Camudi (5-^); Frogs (5^); Birds
 (550); Fish {351); Insects {351A).
 
 332. Wliat more natural from the primitive man's point of view
@@ -13561,7 +13509,7 @@ s moShTNorL'^'a'l^ '"'""" *''' '"^ '' '•"' '^P^«=»"*^'i »« ^teali^ ^^^ A",
 its moutli (Nor, 254, 314).
 
 
-350. The b<iDia, or "stinking bird" (Ostinops spp.) is believed to
+350. The b(iDia, or "stinking bird" (Ostinops spp.) is believed to
 produce the aerial roots of the kofa tree {CliLsia grandifolia), an epiphyte, which are supposed to be its castings turned into wood (Sects.
 138, 168) : the natural "stench" of the bird's feathers may have had
 something to do wilh the origin of the idea. The same bird is represented as removing the snake from out of the plum-tree woman (Sect.
@@ -13952,7 +13900,7 @@ our old friend.
 
 Long ago there was a girl who had many offers of marriage from among her own
 people, but who always refused them. One day a stranger came, dressed in fine style.
-Directly she saw >iim she exclaimed, "That is the man for me. I want him for my
+Directly she saw )iim she exclaimed, "That is the man for me. I want him for my
 husband . " He married her, built a house in one day, and prepared all the f urnitiu'e —
 as the stools, paiwarri trough, the mortar — all at the same time. By this token
 (everything being made so quickly) the girl knew that something was wrong, but she
@@ -14062,7 +14010,7 @@ made quakes for collecting the birds' eggs, it being then the proper season, and
 
 ^°'^^'i MISCELLANEOUS FOLK-LOEE 381
 
-always good to eat.> After they had gathered sufficient eggs to fill their baskets, they
+always good to eat.) After they had gathered sufficient eggs to fill their baskets, they
 proceeded with their bows and arrows to shoot birds, and were very successful. The
 old house-master's son-in-law, however, went oft by himself in quite another direction,
 where there was plenty of dry timber and shot only woodpeckers, of which he brought
@@ -14369,7 +14317,7 @@ traveling dress basket.
 Pbppeb-pot. a meat stew containing capsicums and cassareep, kept good by daUy
 sterilizing (boiling).
 
-PiMPLEB Palm. From "pimple, " meaning a thorn; species of £ac<m.
+PiMPLEB Palm. From "pimple, " meaning a thorn; species of £ac(m.
 
 PiRAi. A very voracious carnivorous fish (Pygocentris sp.) with exceedingly strong
 and sharp incisors.
