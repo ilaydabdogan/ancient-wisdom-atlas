@@ -1526,7 +1526,9 @@ def build_agent_files(texts, motif_index)
     - /motifs/ : per-motif evidence pages
     - /taxonomy/ : canonical family research pages + constellation map
     - /extractions/ : per-passage extraction records
-    - /texts/ : the corpus
+    - /texts/ : the corpus; every text page has a plain-Markdown twin at
+      the same URL with .md instead of .html (canonical text, no chrome)
+    - /api/texts.json : catalog of every text with html + markdown URLs
     - /api/atlas.json : machine-readable site summary
 
     ## Method invariants (do not violate when extending)
@@ -1538,6 +1540,20 @@ def build_agent_files(texts, motif_index)
   File.write(site_path("llms.txt"), llms)
 
   FileUtils.mkdir_p(site_path("api"))
+  File.write(site_path("api", "texts.json"), JSON.pretty_generate({
+    "generated_at" => Time.now.utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
+    "count" => texts.length,
+    "texts" => texts.map do |item|
+      {
+        "title" => item[:metadata]["title"],
+        "tradition" => item[:metadata]["tradition"],
+        "translator" => item[:metadata]["translator"],
+        "repo_path" => item[:path],
+        "html" => "/#{item[:output]}",
+        "markdown" => "/#{text_source_output(item[:output])}"
+      }
+    end
+  }))
   File.write(site_path("api", "atlas.json"), JSON.pretty_generate({
     "name" => "Ancient Wisdom Atlas",
     "generated_at" => Time.now.utc.strftime("%Y-%m-%dT%H:%M:%SZ"),
@@ -1848,7 +1864,11 @@ def build_explorer(motif_index, patterns)
   ))
 end
 
-def build_markdown_collection(title:, subtitle:, records:, index_output:, item_type:)
+def text_source_output(output)
+  output.sub(/\.html\z/, ".md")
+end
+
+def build_markdown_collection(title:, subtitle:, records:, index_output:, item_type:, reading: false)
   cards = records.map do |item|
     metadata = item[:metadata]
     description = metadata["motifs"].is_a?(Array) ? metadata["motifs"].join(", ") : metadata["pattern_type"].to_s
@@ -1874,17 +1894,42 @@ def build_markdown_collection(title:, subtitle:, records:, index_output:, item_t
   records.each do |item|
     metadata = item[:metadata]
     output = item[:output]
-    body = <<~HTML
-      <section class="doc-shell">
-        <aside class="metadata-panel">
-          <dl>
-            #{metadata.map { |key, value| "<dt>#{esc(key)}</dt><dd>#{esc(value.is_a?(Array) ? value.join(", ") : value)}</dd>" }.join}
-          </dl>
-        </aside>
-        <article class="document">#{render_markdown(item[:body], output)}</article>
-      </section>
-    HTML
-    write_page(output, layout(title: metadata["title"] || File.basename(item[:path]), current_output: output, body: body))
+    if reading
+      md_output = text_source_output(output)
+      FileUtils.mkdir_p(File.dirname(site_path(*md_output.split("/"))))
+      FileUtils.cp(File.join(ROOT, item[:path]), site_path(*md_output.split("/")))
+      body = <<~HTML
+        <section class="reader">
+          <div class="reader-toolbar" aria-label="Reading controls">
+            <details class="reader-meta">
+              <summary>About this text</summary>
+              <dl>
+                #{metadata.map { |key, value| "<dt>#{esc(key)}</dt><dd>#{esc(value.is_a?(Array) ? value.join(", ") : value)}</dd>" }.join}
+              </dl>
+            </details>
+            <div class="reader-controls">
+              <button type="button" class="font-step" data-step="-1" aria-label="Smaller text">A&minus;</button>
+              <button type="button" class="font-step" data-step="1" aria-label="Larger text">A+</button>
+              <a class="reader-source" href="#{esc(relative_url(output, md_output))}" title="Plain Markdown for humans and machines">.md</a>
+            </div>
+          </div>
+          <article class="document reading-column">#{render_markdown(item[:body], output)}</article>
+        </section>
+      HTML
+      write_page(output, layout(title: metadata["title"] || File.basename(item[:path]), current_output: output, body: body, page_class: "reading-page"))
+    else
+      body = <<~HTML
+        <section class="doc-shell">
+          <aside class="metadata-panel">
+            <dl>
+              #{metadata.map { |key, value| "<dt>#{esc(key)}</dt><dd>#{esc(value.is_a?(Array) ? value.join(", ") : value)}</dd>" }.join}
+            </dl>
+          </aside>
+          <article class="document">#{render_markdown(item[:body], output)}</article>
+        </section>
+      HTML
+      write_page(output, layout(title: metadata["title"] || File.basename(item[:path]), current_output: output, body: body))
+    end
   end
 end
 
@@ -1894,7 +1939,8 @@ def build_texts(texts)
     subtitle: "Complete rights-cleared Markdown source texts with provenance.",
     records: texts,
     index_output: "texts/index.html",
-    item_type: "source text"
+    item_type: "source text",
+    reading: true
   )
 end
 
@@ -2604,6 +2650,108 @@ STYLE_CSS = <<~CSS
   .findings .section p {
     max-width: 44rem;
     line-height: 1.7;
+  }
+  .reading-page {
+    --reader-serif: "Iowan Old Style", "Palatino Linotype", Palatino, Charter, Georgia, serif;
+  }
+  .reader {
+    max-width: 42rem;
+    margin: 0 auto;
+    padding: 0 1.1rem;
+  }
+  .reader-toolbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 1rem;
+    margin-bottom: 1.6rem;
+    font-size: 0.9rem;
+  }
+  .reader-meta summary {
+    cursor: pointer;
+    color: var(--muted);
+    letter-spacing: 0.04em;
+  }
+  .reader-meta dl {
+    margin: 0.8rem 0 0;
+    padding: 0.9rem 1rem;
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 10px;
+    font-size: 0.85rem;
+  }
+  .reader-meta dt { font-weight: 600; margin-top: 0.5rem; }
+  .reader-meta dd { margin: 0; color: var(--muted); }
+  .reader-controls {
+    display: flex;
+    gap: 0.45rem;
+    align-items: center;
+    flex-shrink: 0;
+  }
+  .reader-controls .font-step {
+    border: 1px solid var(--line);
+    background: var(--surface);
+    border-radius: 8px;
+    padding: 0.25rem 0.6rem;
+    cursor: pointer;
+    font-size: 0.85rem;
+    color: var(--ink);
+  }
+  .reader-source {
+    font-family: ui-monospace, monospace;
+    font-size: 0.82rem;
+    text-decoration: none;
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    padding: 0.25rem 0.55rem;
+  }
+  .reading-column {
+    font-family: var(--reader-serif);
+    font-size: calc(1.08rem * var(--reader-scale, 1));
+    line-height: 1.78;
+    color: var(--ink);
+    background: none;
+    border: none;
+    box-shadow: none;
+    padding: 0 0 5rem;
+  }
+  .reading-column p { margin: 0 0 1.15em; }
+  .reading-column h1, .reading-column h2, .reading-column h3 {
+    font-family: var(--reader-serif);
+    font-weight: 600;
+    line-height: 1.3;
+    margin: 2.2em 0 0.8em;
+  }
+  .reading-column blockquote {
+    margin: 1.4em 0;
+    padding-left: 1.1em;
+    border-left: 2px solid var(--gold);
+    color: var(--muted);
+  }
+  .reader-progress {
+    position: fixed;
+    top: 0;
+    left: 0;
+    height: 2px;
+    width: 0;
+    background: var(--gold);
+    z-index: 50;
+    transition: width 80ms linear;
+  }
+  @media (prefers-color-scheme: dark) {
+    .reading-page {
+      --ink: #d9d5c9;
+      --muted: #97917f;
+      --paper: #191815;
+      --surface: #21201c;
+      --line: #35332c;
+      --shadow: none;
+    }
+    .reading-page body, .reading-page { background: var(--paper); }
+  }
+  @media (max-width: 640px) {
+    .reader { padding: 0 1.25rem; }
+    .reading-column { font-size: calc(1.02rem * var(--reader-scale, 1)); }
   }
   .lab-table {
     width: 100%;
@@ -4615,6 +4763,33 @@ APP_JS = <<~JS
       window.addEventListener("resize", () => {
         window.clearTimeout(resizeTimer);
         resizeTimer = window.setTimeout(render, 160);
+      });
+    });
+  })();
+
+  (() => {
+    if (!document.body.classList.contains("reading-page")) return;
+
+    const bar = document.createElement("div");
+    bar.className = "reader-progress";
+    document.body.appendChild(bar);
+    const update = () => {
+      const doc = document.documentElement;
+      const max = doc.scrollHeight - window.innerHeight;
+      bar.style.width = max > 0 ? `${(window.scrollY / max) * 100}%` : "0";
+    };
+    window.addEventListener("scroll", update, { passive: true });
+    update();
+
+    const KEY = "atlas-reader-scale";
+    const apply = (scale) => document.body.style.setProperty("--reader-scale", scale);
+    let scale = parseFloat(window.localStorage.getItem(KEY) || "1") || 1;
+    apply(scale);
+    document.querySelectorAll(".font-step").forEach((button) => {
+      button.addEventListener("click", () => {
+        scale = Math.min(1.4, Math.max(0.85, scale + 0.075 * Number(button.dataset.step)));
+        window.localStorage.setItem(KEY, String(scale));
+        apply(scale);
       });
     });
   })();
