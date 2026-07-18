@@ -1,0 +1,35 @@
+---
+batch_request_index_version: '1'
+run_id: normreview-luna-2026-07-18
+created_at: '2026-07-18T18:49:38Z'
+updated_at: '2026-07-18T19:00:23Z'
+endpoint: "/v1/responses"
+model: gpt-5.6-luna
+shards:
+- shard_id: shard-0001
+  path: data/batches/normreview-luna-2026-07-18/requests/shard-0001.jsonl
+  request_count: 200
+  bytes: 1352116
+  sha256: 345ef21c307aa5e6029a19e178987259ae59a610d89f8d8195d5bbecbc135246
+  endpoint: "/v1/responses"
+  model: gpt-5.6-luna
+  status: completed
+  output_path: data/batches/normreview-luna-2026-07-18/results/shard-0001.output.jsonl
+  output_sha256: 201e4221a802c6847e6cc1e7122f050f67b56e8e530d6b5f556a6194a8373793
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T18:53:49Z'
+- shard_id: shard-0002
+  path: data/batches/normreview-luna-2026-07-18/requests/shard-0002.jsonl
+  request_count: 192
+  bytes: 1296986
+  sha256: 22637e16f615315ee2287b12b1e913995e215a8bdb05d8e581d42b3c8f7bb26f
+  endpoint: "/v1/responses"
+  model: gpt-5.6-luna
+  status: completed
+  output_path: data/batches/normreview-luna-2026-07-18/results/shard-0002.output.jsonl
+  output_sha256: 4d7bc27942c1c0aab2852ec6c4d853487dff2f3c7c6f43214192187e17a1807b
+  runtime: realtime
+  error_count: 0
+  last_checked_at: '2026-07-18T19:00:23Z'
+
