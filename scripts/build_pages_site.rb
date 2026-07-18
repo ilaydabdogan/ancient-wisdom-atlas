@@ -143,7 +143,7 @@ def nav_html(current_output)
   links.join("\n")
 end
 
-def layout(title:, subtitle: nil, current_output:, body:, page_class: nil, extra_head: nil)
+def layout(title:, subtitle: nil, current_output:, body:, page_class: nil, extra_head: nil, breadcrumb: nil)
   css = relative_url(current_output, "assets/style.css")
   js = relative_url(current_output, "assets/app.js")
   <<~HTML
@@ -172,7 +172,7 @@ def layout(title:, subtitle: nil, current_output:, body:, page_class: nil, extra
       </header>
       <main>
         <section class="page-heading">
-          <p class="eyebrow">Comparative mythology corpus</p>
+          #{breadcrumb || '<p class="eyebrow">Comparative mythology corpus</p>'}
           <h1>#{esc(title)}</h1>
           #{subtitle ? "<p class=\"lead\">#{esc(subtitle)}</p>" : ""}
         </section>
@@ -693,6 +693,82 @@ def taxonomy_child_motif_ids(normalization, proposed_review)
   (approved_children + pending_children).map(&:to_s).reject(&:empty?).uniq.sort
 end
 
+def sub_family_bins
+  @sub_family_bins ||= Dir[File.join(ROOT, "data", "normalization", "sub-family-bins-*.yml")].sort.each_with_object({}) do |path, bins|
+    data = load_yaml(path)
+    family_id = data["family"].to_s
+    next if family_id.empty?
+
+    bins[family_id] = data
+  end
+end
+
+def sub_family_lookup
+  @sub_family_lookup ||= sub_family_bins.each_with_object({}) do |(family_id, data), lookup|
+    Array(data["sub_families"]).each do |sub_family|
+      Array(sub_family["children"]).each do |child_id|
+        lookup[child_id.to_s] ||= {
+          family_id: family_id,
+          sub_family_id: sub_family["id"].to_s,
+          sub_family_label: sub_family["label"].to_s
+        }
+      end
+    end
+  end
+end
+
+def normalization_groups
+  @normalization_groups ||= load_yaml(File.join(ROOT, "taxonomy", "motif-normalization.yml")).fetch("canonical_motif_groups", [])
+end
+
+def family_label_lookup
+  @family_label_lookup ||= normalization_groups
+    .reject { |group| group["id"].to_s.start_with?("_meta") }
+    .to_h { |group| [group["id"].to_s, group["label"].to_s] }
+end
+
+def motif_family_lookup
+  @motif_family_lookup ||= begin
+    map = {}
+    normalization_groups.each do |group|
+      group_id = group["id"].to_s
+      Array(group["children"]).each { |child_id| map[child_id.to_s] ||= group_id }
+    end
+    sub_family_lookup.each { |motif_id, info| map[motif_id] ||= info[:family_id] }
+    map
+  end
+end
+
+def sub_family_anchor(sub_family_id)
+  "sf-#{slugify(sub_family_id)}"
+end
+
+def breadcrumb_html(current_output, items)
+  crumbs = items.map do |label, target|
+    if target
+      %(<a href="#{esc(relative_url(current_output, target))}">#{esc(label)}</a>)
+    else
+      %(<span class="crumb-here">#{esc(label)}</span>)
+    end
+  end
+  %(<nav class="breadcrumb" aria-label="Breadcrumb">#{crumbs.join(%(<span class="crumb-sep" aria-hidden="true">&#9656;</span>))}</nav>)
+end
+
+def motif_breadcrumb(current_output, motif_id, motif_label)
+  info = sub_family_lookup[motif_id.to_s]
+  family_id = info ? info[:family_id] : motif_family_lookup[motif_id.to_s]
+  crumbs = [["Taxonomy", "taxonomy/index.html"]]
+  if family_id && family_label_lookup.key?(family_id)
+    family_output = taxonomy_family_output(family_id)
+    crumbs << [family_label_lookup.fetch(family_id), family_output]
+    crumbs << [info[:sub_family_label], "#{family_output}##{sub_family_anchor(info[:sub_family_id])}"] if info
+  else
+    crumbs << ["Motifs", "motifs/index.html"]
+  end
+  crumbs << [titleize(motif_label), nil]
+  breadcrumb_html(current_output, crumbs)
+end
+
 def build_taxonomy_family_pages(analyses)
   analysis_lookup = analyses.to_h { |analysis| [analysis.fetch(:group_id), analysis] }
   prototype_ids = analyses.first(5).map { |analysis| analysis.fetch(:group_id) }.to_set
@@ -769,6 +845,9 @@ def build_taxonomy_family_pages(analyses)
     page_class: "taxonomy-page"
   ))
 
+  unmatched_bins = sub_family_bins.keys - analyses.map { |analysis| analysis.fetch(:group_id) }
+  warn "sub-family bins without a matching family page: #{unmatched_bins.join(", ")}" if unmatched_bins.any?
+
   analyses.each do |analysis|
     group = analysis.fetch(:group)
     group_id = analysis.fetch(:group_id)
@@ -776,6 +855,53 @@ def build_taxonomy_family_pages(analyses)
     child_sort_id = "child-motifs-#{slugify(group_id)}"
     max_tradition_count = analysis.fetch(:traditions).values.max.to_i
     comparison = family_comparison_summary(analysis)
+
+    bins = sub_family_bins[group_id]
+    sub_family_tab = ""
+    sub_family_section = ""
+    if bins && Array(bins["sub_families"]).any?
+      child_lookup = analysis.fetch(:child_motifs).to_h { |child| [child[:motif_id].to_s, child] }
+      sub_blocks = Array(bins["sub_families"]).each_with_index.map do |sub_family, index|
+        children = Array(sub_family["children"]).map(&:to_s)
+        items = children
+          .sort_by { |child_id| [-(child_lookup[child_id] ? child_lookup[child_id][:occurrence_count].to_i : 0), child_id] }
+          .map do |child_id|
+            child = child_lookup[child_id]
+            count = child ? child[:occurrence_count].to_i : 0
+            label = child ? child[:label] : child_id
+            <<~HTML
+              <li>
+                #{link_to_output(current, motif_output(child_id), titleize(label))}
+                <span class="sub-family-occ">#{format_count(count)}</span>
+              </li>
+            HTML
+          end.join
+        description = compact_text(sub_family["description"])
+        description_html = description.empty? ? "" : %(<p class="sub-family-desc">#{esc(description)}</p>)
+        <<~HTML
+          <details class="sub-family-section" id="#{esc(sub_family_anchor(sub_family["id"]))}"#{index.zero? ? " open" : ""}>
+            <summary class="sub-family-head">
+              <span class="sub-family-label">#{esc(sub_family["label"])}</span>
+              <span class="sub-family-count">#{format_count(children.length)} motifs</span>
+            </summary>
+            <div class="sub-family-body">
+              #{description_html}
+              <ul class="sub-family-motifs">#{items}</ul>
+            </div>
+          </details>
+        HTML
+      end.join
+      sub_family_tab = %(<a href="#sub-families">Sub-Families</a>)
+      sub_family_section = <<~HTML
+        <section id="sub-families" class="section">
+          <div class="section-heading">
+            <h2>Sub-Families</h2>
+            <span class="muted">#{format_count(Array(bins["sub_families"]).length)} thematic layers inside this family. The first is open; the rest unfold on click.</span>
+          </div>
+          <div class="sub-family-list">#{sub_blocks}</div>
+        </section>
+      HTML
+    end
 
     child_rows = analysis.fetch(:child_motifs)
       .sort_by { |child| [-child.fetch(:occurrence_count).to_i, child.fetch(:label).to_s] }
@@ -905,6 +1031,7 @@ def build_taxonomy_family_pages(analyses)
     body = <<~HTML
       <nav class="family-tabs" aria-label="Family page sections">
         <a href="#overview">Overview</a>
+        #{sub_family_tab}
         <a href="#child-motifs">Child Motifs</a>
         <a href="#traditions">Traditions</a>
         <a href="#evidence">Evidence</a>
@@ -937,6 +1064,8 @@ def build_taxonomy_family_pages(analyses)
         </div>
         #{prototype_ids.include?(group_id) ? "<span class=\"pending-badge\">research prototype</span>" : ""}
       </section>
+
+      #{sub_family_section}
 
       <section id="child-motifs" class="section">
         <div class="section-heading">
@@ -1014,7 +1143,8 @@ def build_taxonomy_family_pages(analyses)
       subtitle: "#{analysis.fetch(:occurrence_count)} tagged occurrences across #{analysis.fetch(:tradition_count)} traditions.",
       current_output: current,
       body: body,
-      page_class: "family-research-page"
+      page_class: "family-research-page",
+      breadcrumb: breadcrumb_html(current, [["Taxonomy", "taxonomy/index.html"], [group["label"], nil]])
     ))
   end
 end
@@ -2270,7 +2400,8 @@ def build_motifs(motif_index, extra_motif_ids = [])
       title: titleize(motif["label"]),
       subtitle: "#{motif.fetch("occurrences", []).length} appearances across #{motif.fetch("traditions", {}).length} tradition groups.",
       current_output: output,
-      body: body
+      body: body,
+      breadcrumb: motif_breadcrumb(output, motif["motif_id"], motif["label"])
     ))
   end
 
@@ -2298,7 +2429,8 @@ def build_motifs(motif_index, extra_motif_ids = [])
       title: label,
       subtitle: "Taxonomy child reference awaiting direct evidence-linked occurrences.",
       current_output: output,
-      body: body
+      body: body,
+      breadcrumb: motif_breadcrumb(output, motif_id, motif_id)
     ))
   end
 end
@@ -2939,12 +3071,47 @@ STYLE_CSS = <<~CSS
     .reading-column { font-size: calc(1.02rem * var(--reader-scale, 1)); }
   }
   .rchunk-lit {
-    animation: rchunk-glow 4s ease-out;
-    border-radius: 6px;
+    position: relative;
+    border-radius: 0 6px 6px 0;
+    border-left: 3px solid var(--gold);
+    padding-left: 14px;
+    margin-left: -17px;
+    background: rgba(184, 132, 23, 0.07);
+    transition: background 500ms ease;
+    animation: rchunk-settle 6s ease-out;
   }
-  @keyframes rchunk-glow {
-    0% { background: rgba(184, 132, 23, 0.28); }
-    100% { background: transparent; }
+  @keyframes rchunk-settle {
+    0% { background: rgba(184, 132, 23, 0.3); }
+    55% { background: rgba(184, 132, 23, 0.14); }
+    100% { background: rgba(184, 132, 23, 0.07); }
+  }
+  .rchunk-tag {
+    position: absolute;
+    top: -1.6em;
+    left: 14px;
+    padding: 0 6px;
+    background: var(--paper);
+    border-radius: 4px;
+    font-family: ui-sans-serif, system-ui, sans-serif;
+    font-size: 0.7rem;
+    font-weight: 700;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    color: var(--gold);
+    white-space: nowrap;
+    pointer-events: none;
+    opacity: 0;
+    animation: rchunk-tag-life 4.2s ease forwards;
+  }
+  @keyframes rchunk-tag-life {
+    0% { opacity: 0; transform: translateY(4px); }
+    8% { opacity: 1; transform: translateY(0); }
+    78% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .rchunk-lit { animation: none; transition: none; }
+    .rchunk-tag { animation: none; opacity: 1; transform: none; }
   }
   .evidence-quote {
     font-family: "Iowan Old Style", Palatino, Georgia, serif;
@@ -4257,6 +4424,144 @@ STYLE_CSS = <<~CSS
     margin-top: 12px;
   }
 
+  .breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: baseline;
+    gap: 8px;
+    margin: 0 0 10px;
+    font-size: 12.5px;
+    font-weight: 600;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    color: var(--muted);
+  }
+
+  .breadcrumb a {
+    color: var(--muted);
+    text-decoration: none;
+  }
+
+  .breadcrumb a:hover {
+    color: var(--brick);
+    text-decoration: underline;
+  }
+
+  .breadcrumb .crumb-sep {
+    color: var(--gold);
+    font-size: 10px;
+  }
+
+  .breadcrumb .crumb-here {
+    color: var(--ink);
+  }
+
+  .sub-family-list {
+    display: grid;
+    gap: 12px;
+  }
+
+  details.sub-family-section {
+    background: var(--surface);
+    border: 1px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow);
+    overflow: hidden;
+  }
+
+  details.sub-family-section > summary.sub-family-head {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 16px;
+    cursor: pointer;
+    padding: 14px 18px;
+    list-style: none;
+  }
+
+  details.sub-family-section > summary.sub-family-head::-webkit-details-marker {
+    display: none;
+  }
+
+  details.sub-family-section > summary.sub-family-head::after {
+    content: "+";
+    display: inline-grid;
+    place-items: center;
+    width: 24px;
+    height: 24px;
+    flex: none;
+    align-self: center;
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    color: var(--gold);
+    font-weight: 900;
+  }
+
+  details.sub-family-section[open] > summary.sub-family-head::after {
+    content: "\\2212";
+  }
+
+  .sub-family-label {
+    font-family: "Cormorant Garamond", Georgia, serif;
+    font-variant-caps: small-caps;
+    letter-spacing: 0.09em;
+    font-weight: 700;
+    font-size: 19px;
+    color: var(--ink);
+  }
+
+  .sub-family-count {
+    margin-left: auto;
+    color: var(--muted);
+    font-size: 13px;
+    white-space: nowrap;
+  }
+
+  .sub-family-body {
+    padding: 12px 18px 16px;
+    border-top: 1px solid rgba(184, 132, 23, 0.4);
+  }
+
+  .sub-family-desc {
+    margin: 0 0 10px;
+    color: var(--muted);
+    font-size: 14px;
+    max-width: 60rem;
+  }
+
+  .sub-family-motifs {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 2px 26px;
+  }
+
+  .sub-family-motifs li {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+    gap: 10px;
+    padding: 5px 0;
+    border-bottom: 1px solid var(--line);
+    font-size: 14px;
+  }
+
+  .sub-family-motifs a {
+    text-decoration: none;
+  }
+
+  .sub-family-motifs a:hover {
+    text-decoration: underline;
+  }
+
+  .sub-family-occ {
+    color: var(--muted);
+    font-variant-numeric: tabular-nums;
+    font-size: 12.5px;
+  }
+
   .family-comparison-grid {
     display: grid;
     grid-template-columns: repeat(3, minmax(0, 1fr));
@@ -5014,8 +5319,14 @@ APP_JS = <<~JS
     window.addEventListener("scroll", update, { passive: true });
     update();
 
+    let litEl = null;
+    let litTag = null;
+    const clearLit = () => {
+      if (litTag) { litTag.remove(); litTag = null; }
+      if (litEl) { litEl.classList.remove("rchunk-lit"); litEl = null; }
+    };
     const scrollToLine = () => {
-      const match = window.location.hash.match(/^#l-(\d+)$/);
+      const match = window.location.hash.match(/^#l-(\\d+)$/);
       if (!match) return;
       const target = Number(match[1]);
       let best = null;
@@ -5024,13 +5335,29 @@ APP_JS = <<~JS
         if (n <= target && (!best || n > Number(best.id.slice(2)))) best = el;
       });
       if (best) {
-        best.scrollIntoView({ behavior: "smooth", block: "center" });
+        clearLit();
+        const reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+        best.scrollIntoView({ behavior: reduceMotion ? "auto" : "smooth", block: "center" });
         best.classList.add("rchunk-lit");
-        setTimeout(() => best.classList.remove("rchunk-lit"), 4000);
+        litEl = best;
+        const tag = document.createElement("span");
+        tag.className = "rchunk-tag";
+        tag.textContent = "✦ evidence passage";
+        best.appendChild(tag);
+        litTag = tag;
+        window.setTimeout(() => {
+          if (litTag === tag) { tag.remove(); litTag = null; }
+        }, 4400);
       }
     };
     scrollToLine();
     window.addEventListener("hashchange", scrollToLine);
+    document.addEventListener("click", (event) => {
+      if (!litEl) return;
+      if (event.target.closest("a, button, summary, input, label")) return;
+      if (litEl.contains(event.target)) return;
+      clearLit();
+    });
 
     const KEY = "atlas-reader-scale";
     const apply = (scale) => document.body.style.setProperty("--reader-scale", scale);
@@ -5083,7 +5410,7 @@ build_step("texts") { build_texts(texts) }
 build_step("letters") { build_markdown_collection(title: "Letters from the Editor", subtitle: "What we realize as the Atlas grows \u2014 written for anyone, backed by evidence.", records: records_for_markdown("letters/**/*.md"), index_output: "letters/index.html", item_type: "letter", reading: true) }
 build_step("patterns") { build_patterns(patterns) }
 build_step("comparisons") { build_comparisons(comparisons) }
-build_step("motifs") { build_motifs(motif_index, taxonomy_child_motif_ids(normalization, proposed_new_groups)) }
+build_step("motifs") { build_motifs(motif_index, taxonomy_child_motif_ids(normalization, proposed_new_groups) | sub_family_lookup.keys) }
 build_step("taxonomy") { build_taxonomy(normalization, proposed_new_groups, motif_index, timeline) }
 build_step("timeline") { build_timeline(timeline, texts) }
 build_step("extractions") { build_extractions(extractions) }
