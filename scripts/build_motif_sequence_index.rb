@@ -158,6 +158,40 @@ chains.each_value do |data|
   end
 end
 
+# Frequency-controlled null: shuffle each text's family stream (destroying
+# order, preserving membership and length), recompute first-occurrence
+# precedence. A pair's ordering only counts as grammar if its observed
+# consistency beats what shuffled chains produce — this controls for the
+# bias where frequent families merely APPEAR early.
+NULL_PERMUTATIONS = 100
+null_rng = Random.new(7)
+null_forward = Hash.new { |hash, key| hash[key] = [] }
+NULL_PERMUTATIONS.times do
+  perm_precedence = Hash.new { |hash, key| hash[key] = Hash.new(0) }
+  chains.each_value do |data|
+    shuffled = data["chain"].shuffle(random: null_rng)
+    seen = {}
+    shuffled.each_with_index { |family, index| seen[family] ||= index }
+    seen.keys.combination(2).each do |a, b|
+      if seen[a] < seen[b]
+        perm_precedence[a][b] += 1
+      else
+        perm_precedence[b][a] += 1
+      end
+    end
+  end
+  perm_precedence.each do |a, row|
+    row.each do |b, forward|
+      backward = perm_precedence.key?(b) ? perm_precedence[b].fetch(a, 0) : 0
+      total = forward + backward
+      next if total < 8
+
+      key = [a, b].sort
+      null_forward[key] << [forward, backward].max.to_f / total
+    end
+  end
+end
+
 asymmetries = []
 seen_pairs = {}
 precedence.keys.each do |a|
@@ -175,13 +209,18 @@ precedence.keys.each do |a|
     ratio = wins.to_f / total
     next if ratio < 0.75
 
+    null_scores = null_forward.fetch(key, [])
+    null_mean = null_scores.empty? ? nil : (null_scores.sum / null_scores.length).round(3)
+    beats_null = null_scores.empty? ? nil : (null_scores.count { |score| score >= ratio }.to_f / null_scores.length).round(3)
     asymmetries << {
       "before" => winner,
       "after" => loser,
       "before_count" => wins,
       "after_count" => total - wins,
       "text_count" => total,
-      "consistency" => ratio.round(3)
+      "consistency" => ratio.round(3),
+      "null_consistency_mean" => null_mean,
+      "null_fraction_as_extreme" => beats_null
     }
   end
 end
